@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraKuwaitLifeV2: POI[] = [
   {
-    id: "jahra-pools-nature-reserve-life-v2",
+    id: "jahra-pools-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bird's Pool Reserve",
+                  "text": "Dieses Schutzgebiet in den Jahra-Feuchtgebieten bietet einen wichtigen Lebensraum für zahlreiche Zugvogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        47.669172,
+                        29.371148
+                  ]
+            },
+            {
+                  "name": "Jahra Nature Reserve",
+                  "text": "Kuwaits erstes Naturschutzgebiet umfasst Küsten-Schilfbeete und Teiche, die eine vielfältige Tierwelt beherbergen.",
+                  "category": "natural",
+                  "coords": [
+                        47.694181,
+                        29.362618
+                  ]
+            },
+            {
+                  "name": "Abdulmihsin Al-Bassam Mosque",
+                  "text": "Diese lokale Moschee in Jahra ist ein spirituelles Zentrum mit einem traditionellen Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        47.67894,
+                        29.351163
+                  ]
+            },
+            {
+                  "name": "Abu Qutada Al-Hareth Bin Rabeai Mosque",
+                  "text": "Ein Gemeindezentrum des Gebets in Jahra, das durch seine schlichte islamische Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.698994,
+                        29.340833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bird's Pool Reserve",
+                  "text": "Ez a dzsahrái mocsárvidéken található rezervátum fontos élőhelyet biztosít számos vándormadárfaj számára.",
+                  "category": "natural",
+                  "coords": [
+                        47.669172,
+                        29.371148
+                  ]
+            },
+            {
+                  "name": "Jahra Nature Reserve",
+                  "text": "Kuvait első természetvédelmi területe parti nádasokat és tavakat foglal magában, amelyek gazdag élővilágnak adnak otthont.",
+                  "category": "natural",
+                  "coords": [
+                        47.694181,
+                        29.362618
+                  ]
+            },
+            {
+                  "name": "Abdulmihsin Al-Bassam Mosque",
+                  "text": "Ez a helyi mecset Dzsahrában a hitélet központja, hagyományos minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        47.67894,
+                        29.351163
+                  ]
+            },
+            {
+                  "name": "Abu Qutada Al-Hareth Bin Rabeai Mosque",
+                  "text": "Dzsahrái közösségi imaház, amely egyszerű iszlám építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.698994,
+                        29.340833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bird's Pool Reserve",
+                  "text": "Această rezervație din zonele umede Jahra oferă un habitat important pentru numeroase specii de păsări migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        47.669172,
+                        29.371148
+                  ]
+            },
+            {
+                  "name": "Jahra Nature Reserve",
+                  "text": "Prima rezervație naturală din Kuweit cuprinde stufărișuri de coastă și bazine care găzduiesc o faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        47.694181,
+                        29.362618
+                  ]
+            },
+            {
+                  "name": "Abdulmihsin Al-Bassam Mosque",
+                  "text": "Această moschee locală din Jahra este un centru spiritual cu un minaret tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        47.67894,
+                        29.351163
+                  ]
+            },
+            {
+                  "name": "Abu Qutada Al-Hareth Bin Rabeai Mosque",
+                  "text": "Un centru comunitar de rugăciune din Jahra, care se remarcă prin arhitectura sa islamică simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        47.698994,
+                        29.340833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bird's Pool Reserve",
+                  "text": "This sanctuary in the Jahra wetlands provides a vital habitat for numerous migratory bird species.",
+                  "category": "natural",
+                  "coords": [
+                        47.669172,
+                        29.371148
+                  ]
+            },
+            {
+                  "name": "Jahra Nature Reserve",
+                  "text": "Kuwait's first nature reserve features coastal reed beds and pools that host a variety of wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        47.694181,
+                        29.362618
+                  ]
+            },
+            {
+                  "name": "Abdulmihsin Al-Bassam Mosque",
+                  "text": "This local mosque in Jahra is a spiritual center featuring a traditional minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        47.67894,
+                        29.351163
+                  ]
+            },
+            {
+                  "name": "Abu Qutada Al-Hareth Bin Rabeai Mosque",
+                  "text": "A community prayer center in Jahra, distinguished by its simple Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        47.698994,
+                        29.340833
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "KW-JA",
     coords: [47.6740, 29.3660],
@@ -275,7 +428,448 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "bayan-botanical-garden-life-v2",
+    id: "bayan-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fatimah Faris Al-Waqian Mosque",
+                  "text": "Ein muslimisches Heiligtum, das einen ruhigen Rückzugsort in der Nähe des Botanischen Gartens von Bayan bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.046208,
+                        29.305248
+                  ]
+            },
+            {
+                  "name": "Al-Ansar Mosque",
+                  "text": "Ein islamisches Gotteshaus in der grünen Umgebung des Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.027377,
+                        29.285882
+                  ]
+            },
+            {
+                  "name": "Al Yaseen Mosque",
+                  "text": "Ein muslimischer Gebetsort in der Nachbarschaft in der Nähe des Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.022597,
+                        29.285767
+                  ]
+            },
+            {
+                  "name": "Hitteen Mosque",
+                  "text": "Eine islamische Moschee für Gläubige in der Nähe des üppigen Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.017631,
+                        29.285795
+                  ]
+            },
+            {
+                  "name": "Maryam Ahmad Hasan Mosque",
+                  "text": "Ein traditionelles muslimisches Gotteshaus in der Nähe des Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.004621,
+                        29.301158
+                  ]
+            },
+            {
+                  "name": "Moudhi Mosque",
+                  "text": "Ein islamischer Gebetsraum in der malerischen Umgebung des Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        47.994576,
+                        29.293616
+                  ]
+            },
+            {
+                  "name": "Mosque of Sarah Bdah U'qab Al-M'tērāt",
+                  "text": "Eine lokal gut besuchte muslimische Moschee in der Nähe des Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992193,
+                        29.290713
+                  ]
+            },
+            {
+                  "name": "Nura Al-Tuwaijri Mosque",
+                  "text": "Ein islamisches Gotteshaus für die Gemeinde in der Nähe des Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.012733,
+                        29.295486
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Woqian Mosque",
+                  "text": "Eine muslimische Nachbarschaftsmoschee in der Nähe des Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.010624,
+                        29.286705
+                  ]
+            },
+            {
+                  "name": "Yaqub Al-Nafisy Mosque",
+                  "text": "Ein islamischer Versammlungsort für die täglichen Gebete in der Nähe des Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.014068,
+                        29.282818
+                  ]
+            },
+            {
+                  "name": "Hamad Almishari Mosque",
+                  "text": "Ein muslimisches Heiligtum in der friedlichen Umgebung des Botanischen Gartens von Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.018264,
+                        29.280729
+                  ]
+            },
+            {
+                  "name": "Badriya Al-Dirbas Mosque",
+                  "text": "Ein islamisches Gotteshaus, das in der Nähe des Botanischen Gartens von Bayan errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.023726,
+                        29.280837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fatimah Faris Al-Waqian Mosque",
+                  "text": "Egy muszlim szentély, amely csendes menedéket kínál a Bayani Botanikus Kert közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.046208,
+                        29.305248
+                  ]
+            },
+            {
+                  "name": "Al-Ansar Mosque",
+                  "text": "Egy iszlám istentiszteleti hely, amely a Bayani Botanikus Kert zöld környezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.027377,
+                        29.285882
+                  ]
+            },
+            {
+                  "name": "Al Yaseen Mosque",
+                  "text": "Egy környékbeli muszlim imádkozóhely a Bayani Botanikus Kert közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.022597,
+                        29.285767
+                  ]
+            },
+            {
+                  "name": "Hitteen Mosque",
+                  "text": "Egy iszlám mecset, amely a buja Bayani Botanikus Kert közelében lévő hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.017631,
+                        29.285795
+                  ]
+            },
+            {
+                  "name": "Maryam Ahmad Hasan Mosque",
+                  "text": "Egy hagyományos muszlim istentiszteleti hely a Bayani Botanikus Kert közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.004621,
+                        29.301158
+                  ]
+            },
+            {
+                  "name": "Moudhi Mosque",
+                  "text": "Egy iszlám imatér, amely a festői Bayani Botanikus Kert területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        47.994576,
+                        29.293616
+                  ]
+            },
+            {
+                  "name": "Mosque of Sarah Bdah U'qab Al-M'tērāt",
+                  "text": "A helyiek által látogatott muszlim mecset a Bayani Botanikus Kert közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992193,
+                        29.290713
+                  ]
+            },
+            {
+                  "name": "Nura Al-Tuwaijri Mosque",
+                  "text": "Iszlám istentiszteleti hely, amely a Bayani Botanikus Kert melletti közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.012733,
+                        29.295486
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Woqian Mosque",
+                  "text": "Egy kerületi muszlim mecset, amely a Bayani Botanikus Kert közelében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.010624,
+                        29.286705
+                  ]
+            },
+            {
+                  "name": "Yaqub Al-Nafisy Mosque",
+                  "text": "Iszlám gyülekezőhely a napi imákhoz a Bayani Botanikus Kert közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.014068,
+                        29.282818
+                  ]
+            },
+            {
+                  "name": "Hamad Almishari Mosque",
+                  "text": "Muszlim szentély, amely a Bayani Botanikus Kert békés környezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.018264,
+                        29.280729
+                  ]
+            },
+            {
+                  "name": "Badriya Al-Dirbas Mosque",
+                  "text": "Iszlám istentiszteleti hely, amelyet a Bayani Botanikus Kert közelében alapítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.023726,
+                        29.280837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fatimah Faris Al-Waqian Mosque",
+                  "text": "Un sanctuar musulman care oferă o retragere liniștită lângă Grădina Botanică Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.046208,
+                        29.305248
+                  ]
+            },
+            {
+                  "name": "Al-Ansar Mosque",
+                  "text": "Un lăcaș de cult islamic situat în vecinătatea verde a Grădinii Botanice Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.027377,
+                        29.285882
+                  ]
+            },
+            {
+                  "name": "Al Yaseen Mosque",
+                  "text": "Un loc de rugăciune musulman de cartier situat lângă Grădina Botanică Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.022597,
+                        29.285767
+                  ]
+            },
+            {
+                  "name": "Hitteen Mosque",
+                  "text": "O moschee islamică care deservește închinătorii aproape de luxurianta Grădină Botanică Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.017631,
+                        29.285795
+                  ]
+            },
+            {
+                  "name": "Maryam Ahmad Hasan Mosque",
+                  "text": "Un lăcaș de cult musulman tradițional situat lângă Grădina Botanică Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.004621,
+                        29.301158
+                  ]
+            },
+            {
+                  "name": "Moudhi Mosque",
+                  "text": "Un spațiu de rugăciune islamic situat în zona pitorească a Grădinii Botanice Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        47.994576,
+                        29.293616
+                  ]
+            },
+            {
+                  "name": "Mosque of Sarah Bdah U'qab Al-M'tērāt",
+                  "text": "O moschee musulmană frecventată local, situată lângă Grădina Botanică Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992193,
+                        29.290713
+                  ]
+            },
+            {
+                  "name": "Nura Al-Tuwaijri Mosque",
+                  "text": "Un lăcaș de cult islamic care deservește comunitatea adiacentă Grădinii Botanice Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.012733,
+                        29.295486
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Woqian Mosque",
+                  "text": "O moschee musulmană de cartier situată aproape de Grădina Botanică Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.010624,
+                        29.286705
+                  ]
+            },
+            {
+                  "name": "Yaqub Al-Nafisy Mosque",
+                  "text": "Un loc de adunare islamic pentru rugăciunile zilnice lângă Grădina Botanică Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.014068,
+                        29.282818
+                  ]
+            },
+            {
+                  "name": "Hamad Almishari Mosque",
+                  "text": "Un sanctuar musulman situat în împrejurimile pașnice ale Grădinii Botanice Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.018264,
+                        29.280729
+                  ]
+            },
+            {
+                  "name": "Badriya Al-Dirbas Mosque",
+                  "text": "Un lăcaș de cult islamic înființat lângă Grădina Botanică Bayan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.023726,
+                        29.280837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fatimah Faris Al-Waqian Mosque",
+                  "text": "A Muslim sanctuary offering a quiet retreat near the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.046208,
+                        29.305248
+                  ]
+            },
+            {
+                  "name": "Al-Ansar Mosque",
+                  "text": "An Islamic place of worship located in the green vicinity of the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.027377,
+                        29.285882
+                  ]
+            },
+            {
+                  "name": "Al Yaseen Mosque",
+                  "text": "A neighborhood Muslim prayer site situated near the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.022597,
+                        29.285767
+                  ]
+            },
+            {
+                  "name": "Hitteen Mosque",
+                  "text": "An Islamic mosque serving worshippers close to the lush Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.017631,
+                        29.285795
+                  ]
+            },
+            {
+                  "name": "Maryam Ahmad Hasan Mosque",
+                  "text": "A traditional Muslim place of worship set near the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.004621,
+                        29.301158
+                  ]
+            },
+            {
+                  "name": "Moudhi Mosque",
+                  "text": "An Islamic prayer space located in the scenic Bayan Botanical Garden area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.994576,
+                        29.293616
+                  ]
+            },
+            {
+                  "name": "Mosque of Sarah Bdah U'qab Al-M'tērāt",
+                  "text": "A locally frequented Muslim mosque situated near the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992193,
+                        29.290713
+                  ]
+            },
+            {
+                  "name": "Nura Al-Tuwaijri Mosque",
+                  "text": "An Islamic place of worship serving the community adjacent to the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.012733,
+                        29.295486
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Woqian Mosque",
+                  "text": "A neighborhood Muslim mosque situated close to the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.010624,
+                        29.286705
+                  ]
+            },
+            {
+                  "name": "Yaqub Al-Nafisy Mosque",
+                  "text": "An Islamic gathering spot for daily prayers near the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.014068,
+                        29.282818
+                  ]
+            },
+            {
+                  "name": "Hamad Almishari Mosque",
+                  "text": "A Muslim sanctuary located in the peaceful surroundings of the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.018264,
+                        29.280729
+                  ]
+            },
+            {
+                  "name": "Badriya Al-Dirbas Mosque",
+                  "text": "An Islamic place of worship established near the Bayan Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.023726,
+                        29.280837
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KW-HA",
     coords: [48.0260, 29.3000],
@@ -343,7 +937,124 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "mishref-park-life-v2",
+    id: "mishref-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moza Mhammad Salim Mosque",
+                  "text": "Die Moza-Mhammad-Salim-Moschee in Mishref fungiert als spirituelles Zentrum für islamische Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        48.053052,
+                        29.286028
+                  ]
+            },
+            {
+                  "name": "Sheikh Jaber Al-Ali Al-Salim Al-Subah Mosque",
+                  "text": "Die Scheich-Jaber-Al-Ali-Al-Salim-Al-Subah-Moschee ist ein markantes islamisches Heiligtum, das für den Bezirk Mishref erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.016743,
+                        29.270705
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Hasan Mosque",
+                  "text": "Die Al-Imam-Al-Hasan-Moschee bietet der Mishref-Gemeinde tägliche islamische Gebetsgottesdienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055929,
+                        29.286865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moza Mhammad Salim Mosque",
+                  "text": "A Mishrefben található Moza Mhammad Salim mecset spirituális központként működik az iszlám hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.053052,
+                        29.286028
+                  ]
+            },
+            {
+                  "name": "Sheikh Jaber Al-Ali Al-Salim Al-Subah Mosque",
+                  "text": "A Sheikh Jaber Al-Ali Al-Salim Al-Subah mecset egy kiemelkedő iszlám szentély, amelyet a mishrefi körzet szolgálatára építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.016743,
+                        29.270705
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Hasan Mosque",
+                  "text": "Az Al-Imam Al-Hasan mecset napi iszlám imaszolgálatokat nyújt a mishrefi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055929,
+                        29.286865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moza Mhammad Salim Mosque",
+                  "text": "Situată în Mishref, Moscheea Moza Mhammad Salim funcționează ca un centru spiritual pentru închinătorii islamici.",
+                  "category": "landmark",
+                  "coords": [
+                        48.053052,
+                        29.286028
+                  ]
+            },
+            {
+                  "name": "Sheikh Jaber Al-Ali Al-Salim Al-Subah Mosque",
+                  "text": "Moscheea Sheikh Jaber Al-Ali Al-Salim Al-Subah este un sanctuar islamic proeminent construit pentru a deservi districtul Mishref.",
+                  "category": "landmark",
+                  "coords": [
+                        48.016743,
+                        29.270705
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Hasan Mosque",
+                  "text": "Moscheea Al-Imam Al-Hasan oferă servicii zilnice de rugăciune islamică comunității din Mishref.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055929,
+                        29.286865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moza Mhammad Salim Mosque",
+                  "text": "Set in Mishref, the Moza Mhammad Salim Mosque functions as a spiritual center for Islamic worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.053052,
+                        29.286028
+                  ]
+            },
+            {
+                  "name": "Sheikh Jaber Al-Ali Al-Salim Al-Subah Mosque",
+                  "text": "The Sheikh Jaber Al-Ali Al-Salim Al-Subah Mosque is a prominent Islamic sanctuary built to serve the Mishref district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.016743,
+                        29.270705
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Hasan Mosque",
+                  "text": "Al-Imam Al-Hasan Mosque provides daily Islamic prayer services to the Mishref community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055929,
+                        29.286865
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KW-HA",
     coords: [48.0470, 29.2810],
@@ -411,7 +1122,1456 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "egaila-beach-park-life-v2",
+    id: "egaila-beach-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saad Mosque",
+                  "text": "Diese Moschee befindet sich im Küstengebiet von Egaila und ist ein beliebter Ort für das Freitagsgebet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096728,
+                        29.18884
+                  ]
+            },
+            {
+                  "name": "Al Shuhada",
+                  "text": "Die Al-Shuhada-Moschee in Egaila ist den Märtyrern gewidmet und besticht durch ihr klares, modernes Design.",
+                  "category": "landmark",
+                  "coords": [
+                        48.102353,
+                        29.158976
+                  ]
+            },
+            {
+                  "name": "Kamal Al-Din Bin Al-Hamam Mosque",
+                  "text": "Benannt nach Kamal Al-Din Bin Al-Hamam, bietet diese Moschee in Egaila einen ruhigen Rückzugsort zum Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.094672,
+                        29.182754
+                  ]
+            },
+            {
+                  "name": "Mudi Abdullah Al Gahnim & her husband Ahmad Ramadan",
+                  "text": "Eine familienfreundliche Moschee in Egaila, die für ihre einladende Gemeinschaft und großzügige Gebetshalle bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.128544,
+                        29.135674
+                  ]
+            },
+            {
+                  "name": "Ber Alwaldain",
+                  "text": "Diese Moschee in Egaila, deren Name die Ehrung der Eltern betont, liegt nahe am Egaila Beach Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131455,
+                        29.137654
+                  ]
+            },
+            {
+                  "name": "Dajiyat Jaber Al-Ali Mosque",
+                  "text": "Die Dajiyat Jaber Al-Ali Moschee in Egaila ist ein imposantes Gebäude mit einer charakteristischen Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078514,
+                        29.173372
+                  ]
+            },
+            {
+                  "name": "Dalal Thu Al-Shamalen Mosque",
+                  "text": "Eine Nachbarschaftsmoschee in Egaila, die in der Nähe der Universität von Kuwait liegt und von Studenten besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08771,
+                        29.177314
+                  ]
+            },
+            {
+                  "name": "Nusra Mosque",
+                  "text": "Die Nusra-Moschee in Egaila dient der lokalen Bevölkerung als ruhiger Ort der Besinnung und des Gottesdienstes.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08244,
+                        29.172771
+                  ]
+            },
+            {
+                  "name": "Al-Ghazaly Mosque",
+                  "text": "Benannt nach dem berühmten Philosophen Al-Ghazali, ist diese Moschee in Egaila ein Zentrum für religiöse Bildung.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089032,
+                        29.173033
+                  ]
+            },
+            {
+                  "name": "Sadon Mosque",
+                  "text": "Die Sadon-Moschee ist eine zentrale Gebetsstätte im Herzen des Wohngebiets von Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089052,
+                        29.170571
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine schlichte, funktionale Moschee in Egaila, die den Bewohnern der umliegenden Blocks für die täglichen Gebete offensteht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089823,
+                        29.168217
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Mosque",
+                  "text": "Diese Moschee in Egaila ist für ihre helle Fassade und ihre Lage in einer der ruhigeren Straßen des Viertels bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082829,
+                        29.169946
+                  ]
+            },
+            {
+                  "name": "Jaber Fintas",
+                  "text": "Diese Moschee liegt an der Grenze zwischen Egaila und Fintas und bedient die Gemeinschaften beider Bezirke.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078507,
+                        29.172329
+                  ]
+            },
+            {
+                  "name": "Yazeed Mosque",
+                  "text": "Die Yazeed-Moschee in Egaila zeichnet sich durch ihre moderne Interpretation klassischer islamischer Bauelemente aus.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077476,
+                        29.166805
+                  ]
+            },
+            {
+                  "name": "Abo Mosque",
+                  "text": "Eine kleine, gemütliche Moschee in Egaila, die besonders für ihre familiäre Atmosphäre unter den Betenden geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080087,
+                        29.164939
+                  ]
+            },
+            {
+                  "name": "Al-Emam Mosque",
+                  "text": "Die Al-Emam-Moschee in Egaila ist ein markanter Punkt im Viertel, erkennbar an ihrem schlanken Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078269,
+                        29.162244
+                  ]
+            },
+            {
+                  "name": "Mahjaa Mosque",
+                  "text": "Diese Moschee in Egaila bietet ausreichend Parkmöglichkeiten und ist daher auch für Besucher von außerhalb gut erreichbar.",
+                  "category": "landmark",
+                  "coords": [
+                        48.081374,
+                        29.159975
+                  ]
+            },
+            {
+                  "name": "Fatimah Mosque",
+                  "text": "Die Fatimah-Moschee in Egaila ist nach der Tochter des Propheten benannt und verfügt über einen separaten Frauenbereich.",
+                  "category": "landmark",
+                  "coords": [
+                        48.085019,
+                        29.163405
+                  ]
+            },
+            {
+                  "name": "Abdulah Mosque",
+                  "text": "Eine moderne Gemeinschaftsmoschee in Egaila, die mit ihrer hellen Sandsteinfassade das Bild des Wohnviertels prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089168,
+                        29.163679
+                  ]
+            },
+            {
+                  "name": "Al-Dahak Mosque",
+                  "text": "Diese moderne Moschee im Wohnviertel Egaila zeichnet sich durch ihre traditionellen Minarette aus.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089471,
+                        29.161119
+                  ]
+            },
+            {
+                  "name": "Awdah Mosque",
+                  "text": "Ein lokales muslimisches Gebetshaus in der Nähe des Egaila-Strandparks für die Bewohner des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        48.0889,
+                        29.159616
+                  ]
+            },
+            {
+                  "name": "Hadram Hassan Al-Anqoudi",
+                  "text": "Diese Moschee in Egaila bietet einen ruhigen Ort für das tägliche Gebet im Küstenbezirk.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096697,
+                        29.15819
+                  ]
+            },
+            {
+                  "name": "Usaid bin Khudair",
+                  "text": "Eine Moschee mit schlichter Architektur, die als spirituelles Zentrum im Wohngebiet von Egaila dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100579,
+                        29.156893
+                  ]
+            },
+            {
+                  "name": "Fuhaid Hamad Al-Hashemi and his wife Munira Mubarak Al-Awi",
+                  "text": "Diese religiöse Stätte in Egaila ist ein wichtiger Anlaufpunkt für das Gemeindeleben im Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10916,
+                        29.156691
+                  ]
+            },
+            {
+                  "name": "Farhan Al-Nabhan",
+                  "text": "Eine klassische Moschee in Egaila, die durch ihre Lage inmitten der modernen Vorstadtbebauung auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107105,
+                        29.159143
+                  ]
+            },
+            {
+                  "name": "Bilal Bin Rabah",
+                  "text": "Diese nach Bilal Bin Rabah benannte Moschee ist ein zentraler Gebetsort im Bezirk Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.106619,
+                        29.161888
+                  ]
+            },
+            {
+                  "name": "Fatimah Abdullah Al-Ruwaih",
+                  "text": "Ein modernes muslimisches Gebetshaus in Egaila, das architektonisch in das ruhige Wohnviertel integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107198,
+                        29.164512
+                  ]
+            },
+            {
+                  "name": "Hamad Mubarak Al Heem",
+                  "text": "Diese Moschee dient der lokalen Bevölkerung in Egaila als Ort der Besinnung und des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        48.103141,
+                        29.167667
+                  ]
+            },
+            {
+                  "name": "Wadhia Helil Guanm",
+                  "text": "Eine funktionale Stadtmoschee in Egaila, die durch ihre klaren Linien und helle Fassade besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.109161,
+                        29.172426
+                  ]
+            },
+            {
+                  "name": "Hamad Al Rshoud Al Azmi",
+                  "text": "Diese im Viertel Egaila gelegene Moschee ist ein fester Bestandteil der lokalen religiösen Infrastruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105134,
+                        29.171389
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Abdulmohsen Al-Arefan Mosque",
+                  "text": "Eine großzügig gestaltete Moschee in Egaila, die Platz für zahlreiche Gläubige der Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.098706,
+                        29.179235
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdullah Al-Ruwaih Mosque",
+                  "text": "Diese Moschee in Egaila ist für ihre gepflegte Außenanlage und ihre ruhige Atmosphäre bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093076,
+                        29.17813
+                  ]
+            },
+            {
+                  "name": "Jamal Mosque",
+                  "text": "Die Jamal-Moschee in Egaila dient als lokales Wahrzeichen und spiritueller Mittelpunkt des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        48.091812,
+                        29.185893
+                  ]
+            },
+            {
+                  "name": "Abi Al-Monther Mosque",
+                  "text": "Eine traditionelle Moschee in Egaila, die die klassische islamische Architektur in der modernen Stadt widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093756,
+                        29.187421
+                  ]
+            },
+            {
+                  "name": "AlRhman",
+                  "text": "Die AlRhman-Moschee in Egaila ist ein Ort der Andacht mit markanter Kuppelarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124797,
+                        29.149013
+                  ]
+            },
+            {
+                  "name": "Badria Saad Al Moqasib",
+                  "text": "Diese Moschee in Egaila bietet den Anwohnern einen zentralen Ort für die Freitagsgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        48.108723,
+                        29.18017
+                  ]
+            },
+            {
+                  "name": "Abdullah Al-Othman",
+                  "text": "Eine nach Abdullah Al-Othman benannte Moschee, die durch ihre schlichte Eleganz in Egaila besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105217,
+                        29.1805
+                  ]
+            },
+            {
+                  "name": "Mohammed Musleh Al Mourge",
+                  "text": "Diese Moschee liegt im Herzen von Egaila und ist ein wichtiger Treffpunkt für die muslimische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101268,
+                        29.178063
+                  ]
+            },
+            {
+                  "name": "Saud Al-Jalal",
+                  "text": "Die Saud Al-Jalal Moschee ist ein markantes Bauwerk im Stadtteil Egaila mit hohen Minaretten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105571,
+                        29.173954
+                  ]
+            },
+            {
+                  "name": "Al-Emam Al Darmi",
+                  "text": "Diese nach Al-Emam Al Darmi benannte Moschee dient als spiritueller Ankerpunkt im Wohnviertel Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.104906,
+                        29.17595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saad Mosque",
+                  "text": "Ez a mecset Egaila parti övezetében található, és a pénteki imák népszerű helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096728,
+                        29.18884
+                  ]
+            },
+            {
+                  "name": "Al Shuhada",
+                  "text": "Az egailai Al-Shuhada mecsetet a mártíroknak szentelték, és letisztult, modern dizájnjával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.102353,
+                        29.158976
+                  ]
+            },
+            {
+                  "name": "Kamal Al-Din Bin Al-Hamam Mosque",
+                  "text": "A Kamal Al-Din Bin Al-Hamamról elnevezett mecset Egailában csendes menedéket nyújt az imádkozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.094672,
+                        29.182754
+                  ]
+            },
+            {
+                  "name": "Mudi Abdullah Al Gahnim & her husband Ahmad Ramadan",
+                  "text": "Családbarát mecset Egailában, amely vendégszerető közösségéről és tágas imacsarnokáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.128544,
+                        29.135674
+                  ]
+            },
+            {
+                  "name": "Ber Alwaldain",
+                  "text": "Ez az egailai mecset, amelynek neve a szülők tiszteletére utal, az Egaila Beach Park közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131455,
+                        29.137654
+                  ]
+            },
+            {
+                  "name": "Dajiyat Jaber Al-Ali Mosque",
+                  "text": "Az egailai Dajiyat Jaber Al-Ali mecset egy impozáns épület, jellegzetes kupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078514,
+                        29.173372
+                  ]
+            },
+            {
+                  "name": "Dalal Thu Al-Shamalen Mosque",
+                  "text": "Egailai szomszédsági mecset a Kuvaiti Egyetem közelében, amelyet sok diák látogat.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08771,
+                        29.177314
+                  ]
+            },
+            {
+                  "name": "Nusra Mosque",
+                  "text": "Az egailai Nusra mecset a helyi lakosság számára az elmélkedés és az istentisztelet csendes helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08244,
+                        29.172771
+                  ]
+            },
+            {
+                  "name": "Al-Ghazaly Mosque",
+                  "text": "A híres filozófusról, Al-Ghazaliról elnevezett mecset Egailában a vallási oktatás egyik központja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089032,
+                        29.173033
+                  ]
+            },
+            {
+                  "name": "Sadon Mosque",
+                  "text": "A Sadon-mecset központi imahely Egaila lakónegyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089052,
+                        29.170571
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egyszerű, funkcionális mecset Egailában, amely a környező lakótömbök lakói számára nyitott a napi imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089823,
+                        29.168217
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Mosque",
+                  "text": "Ez az egailai mecset világos homlokzatáról és a negyed egyik csendesebb utcájában való elhelyezkedéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082829,
+                        29.169946
+                  ]
+            },
+            {
+                  "name": "Jaber Fintas",
+                  "text": "Ez a mecset Egaila és Fintas határán található, és mindkét kerület közösségét kiszolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078507,
+                        29.172329
+                  ]
+            },
+            {
+                  "name": "Yazeed Mosque",
+                  "text": "Az egailai Yazeed mecset a klasszikus iszlám építészeti elemek modern értelmezésével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077476,
+                        29.166805
+                  ]
+            },
+            {
+                  "name": "Abo Mosque",
+                  "text": "Kicsi, meghitt mecset Egailában, amelyet különösen a hívők körében uralkodó családias légkör miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080087,
+                        29.164939
+                  ]
+            },
+            {
+                  "name": "Al-Emam Mosque",
+                  "text": "Az egailai Al-Emam mecset a negyed egyik jellegzetes pontja, amely karcsú minaretjéről ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078269,
+                        29.162244
+                  ]
+            },
+            {
+                  "name": "Mahjaa Mosque",
+                  "text": "Ez az egailai mecset bőséges parkolási lehetőséget kínál, így a kívülről érkezők számára is könnyen elérhető.",
+                  "category": "landmark",
+                  "coords": [
+                        48.081374,
+                        29.159975
+                  ]
+            },
+            {
+                  "name": "Fatimah Mosque",
+                  "text": "Az egailai Fatimah mecsetet a Próféta lányáról nevezték el, és külön női részleggel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.085019,
+                        29.163405
+                  ]
+            },
+            {
+                  "name": "Abdulah Mosque",
+                  "text": "Modern közösségi mecset Egailában, amely világos homokkő homlokzatával meghatározza a lakónegyed arculatát.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089168,
+                        29.163679
+                  ]
+            },
+            {
+                  "name": "Al-Dahak Mosque",
+                  "text": "Ez a modern mecset Egaila lakónegyedében található, hagyományos minaretekkel díszítve.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089471,
+                        29.161119
+                  ]
+            },
+            {
+                  "name": "Awdah Mosque",
+                  "text": "Helyi muszlim imaház az Egaila strandpark közelében, a környék lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.0889,
+                        29.159616
+                  ]
+            },
+            {
+                  "name": "Hadram Hassan Al-Anqoudi",
+                  "text": "Ez az Egaila-i mecset nyugodt helyszínt biztosít a napi imádkozáshoz a tengerparti negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096697,
+                        29.15819
+                  ]
+            },
+            {
+                  "name": "Usaid bin Khudair",
+                  "text": "Egyszerű építészetű mecset, amely spirituális központként szolgál Egaila lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100579,
+                        29.156893
+                  ]
+            },
+            {
+                  "name": "Fuhaid Hamad Al-Hashemi and his wife Munira Mubarak Al-Awi",
+                  "text": "Ez a vallási helyszín Egailában a környék közösségi életének fontos találkozópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10916,
+                        29.156691
+                  ]
+            },
+            {
+                  "name": "Farhan Al-Nabhan",
+                  "text": "Klasszikus mecset Egailában, amely a modern kertvárosi környezetben helyezkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107105,
+                        29.159143
+                  ]
+            },
+            {
+                  "name": "Bilal Bin Rabah",
+                  "text": "Ez a Bilal Bin Rabah-ról elnevezett mecset központi imádsági helyszín Egaila negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.106619,
+                        29.161888
+                  ]
+            },
+            {
+                  "name": "Fatimah Abdullah Al-Ruwaih",
+                  "text": "Modern muszlim imaház Egailában, amely építészetileg illeszkedik a csendes lakónegyedbe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107198,
+                        29.164512
+                  ]
+            },
+            {
+                  "name": "Hamad Mubarak Al Heem",
+                  "text": "Ez a mecset az Egaila-i lakosok számára szolgál az elmélyülés és az ima helyszíneként.",
+                  "category": "landmark",
+                  "coords": [
+                        48.103141,
+                        29.167667
+                  ]
+            },
+            {
+                  "name": "Wadhia Helil Guanm",
+                  "text": "Funkcionális városi mecset Egailában, amely letisztult vonalaival és világos homlokzatával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.109161,
+                        29.172426
+                  ]
+            },
+            {
+                  "name": "Hamad Al Rshoud Al Azmi",
+                  "text": "Ez az Egaila negyedben található mecset a helyi vallási infrastruktúra szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105134,
+                        29.171389
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Abdulmohsen Al-Arefan Mosque",
+                  "text": "Tágas kialakítású mecset Egailában, amely számos hívő számára biztosít helyet a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        48.098706,
+                        29.179235
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdullah Al-Ruwaih Mosque",
+                  "text": "Ez az Egaila-i mecset gondozott kertjéről és nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093076,
+                        29.17813
+                  ]
+            },
+            {
+                  "name": "Jamal Mosque",
+                  "text": "A Jamal-mecset Egailában helyi nevezetességként és a negyed spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.091812,
+                        29.185893
+                  ]
+            },
+            {
+                  "name": "Abi Al-Monther Mosque",
+                  "text": "Hagyományos mecset Egailában, amely a klasszikus iszlám építészetet tükrözi a modern városban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093756,
+                        29.187421
+                  ]
+            },
+            {
+                  "name": "AlRhman",
+                  "text": "Az AlRhman mecset Egailában az áhítat helyszíne, jellegzetes kupolás építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124797,
+                        29.149013
+                  ]
+            },
+            {
+                  "name": "Badria Saad Al Moqasib",
+                  "text": "Ez az Egaila-i mecset központi helyszínt biztosít a helyi lakosoknak a pénteki imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.108723,
+                        29.18017
+                  ]
+            },
+            {
+                  "name": "Abdullah Al-Othman",
+                  "text": "Az Abdullah Al-Othmanról elnevezett mecset egyszerű eleganciájával tűnik ki Egailában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105217,
+                        29.1805
+                  ]
+            },
+            {
+                  "name": "Mohammed Musleh Al Mourge",
+                  "text": "Ez a mecset Egaila szívében található, és a muszlim közösség fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101268,
+                        29.178063
+                  ]
+            },
+            {
+                  "name": "Saud Al-Jalal",
+                  "text": "A Saud Al-Jalal mecset Egaila negyedének jellegzetes épülete magas minaretjeivel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105571,
+                        29.173954
+                  ]
+            },
+            {
+                  "name": "Al-Emam Al Darmi",
+                  "text": "Ez az Al-Emam Al Darmi-ról elnevezett mecset spirituális pontként szolgál Egaila lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.104906,
+                        29.17595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saad Mosque",
+                  "text": "Această moschee se află în zona de coastă din Egaila și este un loc popular pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096728,
+                        29.18884
+                  ]
+            },
+            {
+                  "name": "Al Shuhada",
+                  "text": "Moscheea Al Shuhada din Egaila este dedicată martirilor și impresionează prin designul său curat și modern.",
+                  "category": "landmark",
+                  "coords": [
+                        48.102353,
+                        29.158976
+                  ]
+            },
+            {
+                  "name": "Kamal Al-Din Bin Al-Hamam Mosque",
+                  "text": "Numită după Kamal Al-Din Bin Al-Hamam, această moschee din Egaila oferă un refugiu liniștit pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        48.094672,
+                        29.182754
+                  ]
+            },
+            {
+                  "name": "Mudi Abdullah Al Gahnim & her husband Ahmad Ramadan",
+                  "text": "O moschee primitoare în Egaila, cunoscută pentru comunitatea sa unită și sala de rugăciune spațioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.128544,
+                        29.135674
+                  ]
+            },
+            {
+                  "name": "Ber Alwaldain",
+                  "text": "Această moschee din Egaila, al cărei nume subliniază onorarea părinților, se află lângă Egaila Beach Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131455,
+                        29.137654
+                  ]
+            },
+            {
+                  "name": "Dajiyat Jaber Al-Ali Mosque",
+                  "text": "Moscheea Dajiyat Jaber Al-Ali din Egaila este o clădire impunătoare cu o cupolă caracteristică.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078514,
+                        29.173372
+                  ]
+            },
+            {
+                  "name": "Dalal Thu Al-Shamalen Mosque",
+                  "text": "O moschee de cartier în Egaila, situată lângă Universitatea din Kuweit, fiind frecventată de studenți.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08771,
+                        29.177314
+                  ]
+            },
+            {
+                  "name": "Nusra Mosque",
+                  "text": "Moscheea Nusra din Egaila servește populației locale ca un loc liniștit de reflecție și cult.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08244,
+                        29.172771
+                  ]
+            },
+            {
+                  "name": "Al-Ghazaly Mosque",
+                  "text": "Numită după celebrul filozof Al-Ghazali, această moschee din Egaila este un centru de educație religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089032,
+                        29.173033
+                  ]
+            },
+            {
+                  "name": "Sadon Mosque",
+                  "text": "Moscheea Sadon este un loc de rugăciune central în inima zonei rezidențiale din Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089052,
+                        29.170571
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee simplă și funcțională din Egaila, deschisă locuitorilor din blocurile din jur pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089823,
+                        29.168217
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Mosque",
+                  "text": "Această moschee din Egaila este cunoscută pentru fațada sa luminoasă și amplasarea pe una dintre străzile mai liniștite ale cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082829,
+                        29.169946
+                  ]
+            },
+            {
+                  "name": "Jaber Fintas",
+                  "text": "Situată la granița dintre Egaila și Fintas, această moschee deservește comunitățile din ambele districte.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078507,
+                        29.172329
+                  ]
+            },
+            {
+                  "name": "Yazeed Mosque",
+                  "text": "Moscheea Yazeed din Egaila se remarcă prin interpretarea modernă a elementelor arhitecturale islamice clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077476,
+                        29.166805
+                  ]
+            },
+            {
+                  "name": "Abo Mosque",
+                  "text": "O moschee mică și primitoare din Egaila, apreciată în special pentru atmosfera sa familială în rândul credincioșilor.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080087,
+                        29.164939
+                  ]
+            },
+            {
+                  "name": "Al-Emam Mosque",
+                  "text": "Moscheea Al-Emam din Egaila este un punct de reper în cartier, recunoscută după minaretul său zvelt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078269,
+                        29.162244
+                  ]
+            },
+            {
+                  "name": "Mahjaa Mosque",
+                  "text": "Această moschee din Egaila oferă locuri de parcare suficiente, fiind ușor accesibilă și pentru vizitatorii din afara cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.081374,
+                        29.159975
+                  ]
+            },
+            {
+                  "name": "Fatimah Mosque",
+                  "text": "Moscheea Fatimah din Egaila este numită după fiica Profetului și dispune de o secțiune separată pentru femei.",
+                  "category": "landmark",
+                  "coords": [
+                        48.085019,
+                        29.163405
+                  ]
+            },
+            {
+                  "name": "Abdulah Mosque",
+                  "text": "O moschee comunitară modernă din Egaila, care definește aspectul cartierului rezidențial prin fațada sa din gresie luminoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089168,
+                        29.163679
+                  ]
+            },
+            {
+                  "name": "Al-Dahak Mosque",
+                  "text": "Această moschee modernă din cartierul rezidențial Egaila se remarcă prin minaretele sale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089471,
+                        29.161119
+                  ]
+            },
+            {
+                  "name": "Awdah Mosque",
+                  "text": "Un lăcaș de cult musulman local situat lângă parcul de pe plaja Egaila, destinat locuitorilor din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.0889,
+                        29.159616
+                  ]
+            },
+            {
+                  "name": "Hadram Hassan Al-Anqoudi",
+                  "text": "Această moschee din Egaila oferă un spațiu liniștit pentru rugăciunile zilnice în districtul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096697,
+                        29.15819
+                  ]
+            },
+            {
+                  "name": "Usaid bin Khudair",
+                  "text": "O moschee cu arhitectură simplă, care servește drept centru spiritual în zona rezidențială din Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100579,
+                        29.156893
+                  ]
+            },
+            {
+                  "name": "Fuhaid Hamad Al-Hashemi and his wife Munira Mubarak Al-Awi",
+                  "text": "Acest lăcaș de cult din Egaila este un punct de referință important pentru viața comunitară din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10916,
+                        29.156691
+                  ]
+            },
+            {
+                  "name": "Farhan Al-Nabhan",
+                  "text": "O moschee clasică în Egaila, care se evidențiază prin amplasarea sa în mijlocul dezvoltărilor suburbane moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107105,
+                        29.159143
+                  ]
+            },
+            {
+                  "name": "Bilal Bin Rabah",
+                  "text": "Această moschee, numită după Bilal Bin Rabah, este un loc central de rugăciune în districtul Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.106619,
+                        29.161888
+                  ]
+            },
+            {
+                  "name": "Fatimah Abdullah Al-Ruwaih",
+                  "text": "Un lăcaș de cult musulman modern în Egaila, integrat arhitectural în cartierul rezidențial liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107198,
+                        29.164512
+                  ]
+            },
+            {
+                  "name": "Hamad Mubarak Al Heem",
+                  "text": "Această moschee servește populația locală din Egaila ca loc de reflecție și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        48.103141,
+                        29.167667
+                  ]
+            },
+            {
+                  "name": "Wadhia Helil Guanm",
+                  "text": "O moschee urbană funcțională în Egaila, care impresionează prin liniile sale clare și fațada luminoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.109161,
+                        29.172426
+                  ]
+            },
+            {
+                  "name": "Hamad Al Rshoud Al Azmi",
+                  "text": "Situată în cartierul Egaila, această moschee este o parte integrantă a infrastructurii religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105134,
+                        29.171389
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Abdulmohsen Al-Arefan Mosque",
+                  "text": "O moschee spațioasă în Egaila, care oferă loc pentru numeroși credincioși din împrejurimi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.098706,
+                        29.179235
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdullah Al-Ruwaih Mosque",
+                  "text": "Această moschee din Egaila este cunoscută pentru exteriorul său îngrijit și atmosfera liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093076,
+                        29.17813
+                  ]
+            },
+            {
+                  "name": "Jamal Mosque",
+                  "text": "Moscheea Jamal din Egaila servește ca punct de reper local și centru spiritual al cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.091812,
+                        29.185893
+                  ]
+            },
+            {
+                  "name": "Abi Al-Monther Mosque",
+                  "text": "O moschee tradițională în Egaila, care reflectă arhitectura islamică clasică în orașul modern.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093756,
+                        29.187421
+                  ]
+            },
+            {
+                  "name": "AlRhman",
+                  "text": "Moscheea AlRhman din Egaila este un loc de devoțiune cu o arhitectură distinctivă a cupolei.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124797,
+                        29.149013
+                  ]
+            },
+            {
+                  "name": "Badria Saad Al Moqasib",
+                  "text": "Această moschee din Egaila oferă rezidenților un loc central pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        48.108723,
+                        29.18017
+                  ]
+            },
+            {
+                  "name": "Abdullah Al-Othman",
+                  "text": "O moschee numită după Abdullah Al-Othman, care impresionează prin eleganța sa simplă în Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105217,
+                        29.1805
+                  ]
+            },
+            {
+                  "name": "Mohammed Musleh Al Mourge",
+                  "text": "Această moschee este situată în inima cartierului Egaila și este un loc de întâlnire important pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101268,
+                        29.178063
+                  ]
+            },
+            {
+                  "name": "Saud Al-Jalal",
+                  "text": "Moscheea Saud Al-Jalal este o structură proeminentă în districtul Egaila, având minarete înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105571,
+                        29.173954
+                  ]
+            },
+            {
+                  "name": "Al-Emam Al Darmi",
+                  "text": "Această moschee, numită după Al-Emam Al Darmi, servește ca ancoră spirituală în cartierul rezidențial Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.104906,
+                        29.17595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saad Mosque",
+                  "text": "This mosque is located in the coastal area of Egaila and is a popular spot for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096728,
+                        29.18884
+                  ]
+            },
+            {
+                  "name": "Al Shuhada",
+                  "text": "The Al Shuhada Mosque in Egaila is dedicated to martyrs and stands out with its clean, modern design.",
+                  "category": "landmark",
+                  "coords": [
+                        48.102353,
+                        29.158976
+                  ]
+            },
+            {
+                  "name": "Kamal Al-Din Bin Al-Hamam Mosque",
+                  "text": "Named after Kamal Al-Din Bin Al-Hamam, this mosque in Egaila offers a peaceful retreat for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        48.094672,
+                        29.182754
+                  ]
+            },
+            {
+                  "name": "Mudi Abdullah Al Gahnim & her husband Ahmad Ramadan",
+                  "text": "A family-friendly mosque in Egaila known for its welcoming community and spacious prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        48.128544,
+                        29.135674
+                  ]
+            },
+            {
+                  "name": "Ber Alwaldain",
+                  "text": "This mosque in Egaila, whose name emphasizes honoring one's parents, is located near Egaila Beach Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.131455,
+                        29.137654
+                  ]
+            },
+            {
+                  "name": "Dajiyat Jaber Al-Ali Mosque",
+                  "text": "The Dajiyat Jaber Al-Ali Mosque in Egaila is an imposing building with a characteristic dome.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078514,
+                        29.173372
+                  ]
+            },
+            {
+                  "name": "Dalal Thu Al-Shamalen Mosque",
+                  "text": "A neighborhood mosque in Egaila located near the Kuwait University campus, frequented by students.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08771,
+                        29.177314
+                  ]
+            },
+            {
+                  "name": "Nusra Mosque",
+                  "text": "The Nusra Mosque in Egaila serves the local population as a quiet place for reflection and worship.",
+                  "category": "landmark",
+                  "coords": [
+                        48.08244,
+                        29.172771
+                  ]
+            },
+            {
+                  "name": "Al-Ghazaly Mosque",
+                  "text": "Named after the famous philosopher Al-Ghazali, this mosque in Egaila is a center for religious education.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089032,
+                        29.173033
+                  ]
+            },
+            {
+                  "name": "Sadon Mosque",
+                  "text": "The Sadon Mosque is a central place of worship in the heart of Egaila's residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089052,
+                        29.170571
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A simple, functional mosque in Egaila open to residents of the surrounding blocks for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089823,
+                        29.168217
+                  ]
+            },
+            {
+                  "name": "Al-Hafed Mosque",
+                  "text": "This mosque in Egaila is known for its bright facade and its location on one of the neighborhood's quieter streets.",
+                  "category": "landmark",
+                  "coords": [
+                        48.082829,
+                        29.169946
+                  ]
+            },
+            {
+                  "name": "Jaber Fintas",
+                  "text": "Located on the border between Egaila and Fintas, this mosque serves the communities of both districts.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078507,
+                        29.172329
+                  ]
+            },
+            {
+                  "name": "Yazeed Mosque",
+                  "text": "The Yazeed Mosque in Egaila is distinguished by its modern interpretation of classic Islamic architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077476,
+                        29.166805
+                  ]
+            },
+            {
+                  "name": "Abo Mosque",
+                  "text": "A small, cozy mosque in Egaila, particularly valued for its family-like atmosphere among the worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080087,
+                        29.164939
+                  ]
+            },
+            {
+                  "name": "Al-Emam Mosque",
+                  "text": "The Al-Emam Mosque in Egaila is a landmark in the neighborhood, recognizable by its slender minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        48.078269,
+                        29.162244
+                  ]
+            },
+            {
+                  "name": "Mahjaa Mosque",
+                  "text": "This mosque in Egaila offers ample parking space, making it easily accessible for visitors from outside the immediate area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.081374,
+                        29.159975
+                  ]
+            },
+            {
+                  "name": "Fatimah Mosque",
+                  "text": "The Fatimah Mosque in Egaila is named after the Prophet's daughter and features a separate prayer section for women.",
+                  "category": "landmark",
+                  "coords": [
+                        48.085019,
+                        29.163405
+                  ]
+            },
+            {
+                  "name": "Abdulah Mosque",
+                  "text": "A modern community mosque in Egaila that shapes the residential neighborhood's look with its bright sandstone facade.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089168,
+                        29.163679
+                  ]
+            },
+            {
+                  "name": "Al-Dahak Mosque",
+                  "text": "This modern mosque in the Egaila residential district features traditional minarets serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.089471,
+                        29.161119
+                  ]
+            },
+            {
+                  "name": "Awdah Mosque",
+                  "text": "A local Muslim house of prayer located near the Egaila beach park for the neighborhood residents.",
+                  "category": "landmark",
+                  "coords": [
+                        48.0889,
+                        29.159616
+                  ]
+            },
+            {
+                  "name": "Hadram Hassan Al-Anqoudi",
+                  "text": "This mosque in Egaila provides a quiet setting for daily prayers within the coastal district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.096697,
+                        29.15819
+                  ]
+            },
+            {
+                  "name": "Usaid bin Khudair",
+                  "text": "A mosque with simple architecture serving as a spiritual center in the residential area of Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100579,
+                        29.156893
+                  ]
+            },
+            {
+                  "name": "Fuhaid Hamad Al-Hashemi and his wife Munira Mubarak Al-Awi",
+                  "text": "This religious site in Egaila is a key gathering point for community life in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.10916,
+                        29.156691
+                  ]
+            },
+            {
+                  "name": "Farhan Al-Nabhan",
+                  "text": "A classic mosque in Egaila that stands out for its location amidst the modern suburban developments.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107105,
+                        29.159143
+                  ]
+            },
+            {
+                  "name": "Bilal Bin Rabah",
+                  "text": "Named after Bilal Bin Rabah, this mosque is a central place of worship in the Egaila district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.106619,
+                        29.161888
+                  ]
+            },
+            {
+                  "name": "Fatimah Abdullah Al-Ruwaih",
+                  "text": "A modern Muslim house of prayer in Egaila, architecturally integrated into the quiet residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107198,
+                        29.164512
+                  ]
+            },
+            {
+                  "name": "Hamad Mubarak Al Heem",
+                  "text": "This mosque serves the local population in Egaila as a place for reflection and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        48.103141,
+                        29.167667
+                  ]
+            },
+            {
+                  "name": "Wadhia Helil Guanm",
+                  "text": "A functional urban mosque in Egaila, notable for its clean lines and bright facade.",
+                  "category": "landmark",
+                  "coords": [
+                        48.109161,
+                        29.172426
+                  ]
+            },
+            {
+                  "name": "Hamad Al Rshoud Al Azmi",
+                  "text": "Located in the Egaila neighborhood, this mosque is an integral part of the local religious infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105134,
+                        29.171389
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Abdulmohsen Al-Arefan Mosque",
+                  "text": "A spaciously designed mosque in Egaila, providing room for many worshippers from the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.098706,
+                        29.179235
+                  ]
+            },
+            {
+                  "name": "Mohammed Abdullah Al-Ruwaih Mosque",
+                  "text": "This mosque in Egaila is known for its well-maintained grounds and peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093076,
+                        29.17813
+                  ]
+            },
+            {
+                  "name": "Jamal Mosque",
+                  "text": "The Jamal Mosque in Egaila serves as a local landmark and spiritual hub for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.091812,
+                        29.185893
+                  ]
+            },
+            {
+                  "name": "Abi Al-Monther Mosque",
+                  "text": "A traditional mosque in Egaila, reflecting classic Islamic architecture within the modern city.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093756,
+                        29.187421
+                  ]
+            },
+            {
+                  "name": "AlRhman",
+                  "text": "The AlRhman Mosque in Egaila is a place of worship featuring distinctive dome architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124797,
+                        29.149013
+                  ]
+            },
+            {
+                  "name": "Badria Saad Al Moqasib",
+                  "text": "This mosque in Egaila provides residents with a central location for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.108723,
+                        29.18017
+                  ]
+            },
+            {
+                  "name": "Abdullah Al-Othman",
+                  "text": "Named after Abdullah Al-Othman, this mosque stands out for its simple elegance in Egaila.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105217,
+                        29.1805
+                  ]
+            },
+            {
+                  "name": "Mohammed Musleh Al Mourge",
+                  "text": "Situated in the heart of Egaila, this mosque is an important gathering place for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.101268,
+                        29.178063
+                  ]
+            },
+            {
+                  "name": "Saud Al-Jalal",
+                  "text": "The Saud Al-Jalal Mosque is a prominent structure in the Egaila district with tall minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105571,
+                        29.173954
+                  ]
+            },
+            {
+                  "name": "Al-Emam Al Darmi",
+                  "text": "Named after Al-Emam Al Darmi, this mosque serves as a spiritual anchor in the residential Egaila area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.104906,
+                        29.17595
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KW-AH",
     coords: [48.1060, 29.1760],
@@ -479,7 +2639,340 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "kidzania-kuwait-life-v2",
+    id: "kidzania-kuwait-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Will",
+                  "text": "Eine interaktive Attraktion für Kinder im KidZania-Themenpark in Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        47.909715,
+                        29.301031
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine muslimische Gebetsstätte im Bereich von KidZania, die den Besuchern und Mitarbeitern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.918145,
+                        29.303522
+                  ]
+            },
+            {
+                  "name": "Juber Bin Mataam Mosque",
+                  "text": "Diese Moschee befindet sich im Distrikt Farwaniya und bietet Platz für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        47.937101,
+                        29.293338
+                  ]
+            },
+            {
+                  "name": "Saad Abdulaziz Al-Dabyan Mosque",
+                  "text": "Ein muslimisches Gotteshaus in der Nähe von KidZania, das die lokale Gemeinschaft unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.936427,
+                        29.290455
+                  ]
+            },
+            {
+                  "name": "Shaikah Naser Ibraheem Al-Najdi Mosque",
+                  "text": "Eine Moschee im Distrikt Farwaniya, die für ihre ruhige Lage abseits der Hauptstraßen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.931693,
+                        29.29027
+                  ]
+            },
+            {
+                  "name": "Jassem Mohammad Al-Zrij Mudhor Mosque",
+                  "text": "Dieses muslimische Gebetshaus in Farwaniya dient als religiöser Treffpunkt für die Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        47.930578,
+                        29.293037
+                  ]
+            },
+            {
+                  "name": "Al-Rabia Mosque",
+                  "text": "Eine Moschee im Viertel Al-Rabia, die ein markantes Element der lokalen Architektur darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.933334,
+                        29.293666
+                  ]
+            },
+            {
+                  "name": "Abdulmohsen Mohammad Al-Naser Al-Hamad Mosque",
+                  "text": "Ein muslimisches Gotteshaus in Farwaniya, das nach einem lokalen Wohltäter benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.933716,
+                        29.297669
+                  ]
+            },
+            {
+                  "name": "Brak Murshid Al-Awaji Al-Shalahi",
+                  "text": "Diese Moschee in der Nähe von KidZania bietet Gläubigen einen Ort für die gemeinschaftliche Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.911167,
+                        29.296027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Will",
+                  "text": "Interaktív gyerekattrakció a kuvaiti KidZania témaparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.909715,
+                        29.301031
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Muszlim imaház a KidZania területén, amely a látogatókat és az alkalmazottakat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.918145,
+                        29.303522
+                  ]
+            },
+            {
+                  "name": "Juber Bin Mataam Mosque",
+                  "text": "Ez a mecset Farwaniya kerületében található, és helyet biztosít a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        47.937101,
+                        29.293338
+                  ]
+            },
+            {
+                  "name": "Saad Abdulaziz Al-Dabyan Mosque",
+                  "text": "Muszlim templom a KidZania közelében, amely a helyi közösséget támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.936427,
+                        29.290455
+                  ]
+            },
+            {
+                  "name": "Shaikah Naser Ibraheem Al-Najdi Mosque",
+                  "text": "Mecset Farwaniya kerületében, amely a főutaktól távol eső, csendes elhelyezkedéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.931693,
+                        29.29027
+                  ]
+            },
+            {
+                  "name": "Jassem Mohammad Al-Zrij Mudhor Mosque",
+                  "text": "Ez a muszlim imaház Farwaniyában a környék vallási találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        47.930578,
+                        29.293037
+                  ]
+            },
+            {
+                  "name": "Al-Rabia Mosque",
+                  "text": "Mecset Al-Rabia negyedében, amely a helyi építészet jellegzetes eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        47.933334,
+                        29.293666
+                  ]
+            },
+            {
+                  "name": "Abdulmohsen Mohammad Al-Naser Al-Hamad Mosque",
+                  "text": "Muszlim templom Farwaniyában, amelyet egy helyi jótevőről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        47.933716,
+                        29.297669
+                  ]
+            },
+            {
+                  "name": "Brak Murshid Al-Awaji Al-Shalahi",
+                  "text": "Ez a mecset a KidZania közelében közösségi áhítatra ad helyet a hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        47.911167,
+                        29.296027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Will",
+                  "text": "O atracție interactivă pentru copii în parcul tematic KidZania din Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        47.909715,
+                        29.301031
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un lăcaș de rugăciune musulman în incinta KidZania, care deservește vizitatorii și personalul.",
+                  "category": "landmark",
+                  "coords": [
+                        47.918145,
+                        29.303522
+                  ]
+            },
+            {
+                  "name": "Juber Bin Mataam Mosque",
+                  "text": "Această moschee este situată în districtul Farwaniya și oferă spațiu pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        47.937101,
+                        29.293338
+                  ]
+            },
+            {
+                  "name": "Saad Abdulaziz Al-Dabyan Mosque",
+                  "text": "Un lăcaș de cult musulman în apropiere de KidZania, care sprijină comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        47.936427,
+                        29.290455
+                  ]
+            },
+            {
+                  "name": "Shaikah Naser Ibraheem Al-Najdi Mosque",
+                  "text": "O moschee din districtul Farwaniya, cunoscută pentru locația sa liniștită, departe de străzile principale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.931693,
+                        29.29027
+                  ]
+            },
+            {
+                  "name": "Jassem Mohammad Al-Zrij Mudhor Mosque",
+                  "text": "Această casă de rugăciune musulmană din Farwaniya servește ca punct de întâlnire religioasă pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        47.930578,
+                        29.293037
+                  ]
+            },
+            {
+                  "name": "Al-Rabia Mosque",
+                  "text": "O moschee în cartierul Al-Rabia, care reprezintă un element distinctiv al arhitecturii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.933334,
+                        29.293666
+                  ]
+            },
+            {
+                  "name": "Abdulmohsen Mohammad Al-Naser Al-Hamad Mosque",
+                  "text": "Un lăcaș de cult musulman din Farwaniya, numit după un binefăcător local.",
+                  "category": "landmark",
+                  "coords": [
+                        47.933716,
+                        29.297669
+                  ]
+            },
+            {
+                  "name": "Brak Murshid Al-Awaji Al-Shalahi",
+                  "text": "Această moschee de lângă KidZania oferă credincioșilor un loc pentru devoțiune comună.",
+                  "category": "landmark",
+                  "coords": [
+                        47.911167,
+                        29.296027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Will's Place",
+                  "text": "An interactive attraction for children located within the KidZania theme park in Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        47.909715,
+                        29.301031
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A Muslim place of worship within the KidZania area, serving visitors and staff.",
+                  "category": "landmark",
+                  "coords": [
+                        47.918145,
+                        29.303522
+                  ]
+            },
+            {
+                  "name": "Juber Bin Mataam Mosque",
+                  "text": "This mosque is located in the Farwaniya district and provides space for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        47.937101,
+                        29.293338
+                  ]
+            },
+            {
+                  "name": "Saad Abdulaziz Al-Dabyan Mosque",
+                  "text": "A Muslim place of worship near KidZania that supports the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        47.936427,
+                        29.290455
+                  ]
+            },
+            {
+                  "name": "Shaikah Naser Ibraheem Al-Najdi Mosque",
+                  "text": "A mosque in the Farwaniya district known for its quiet location away from the main streets.",
+                  "category": "landmark",
+                  "coords": [
+                        47.931693,
+                        29.29027
+                  ]
+            },
+            {
+                  "name": "Jassem Mohammad Al-Zrij Mudhor Mosque",
+                  "text": "This Muslim prayer house in Farwaniya serves as a religious meeting point for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        47.930578,
+                        29.293037
+                  ]
+            },
+            {
+                  "name": "Al-Rabia Mosque",
+                  "text": "A mosque in the Al-Rabia neighborhood that is a distinctive element of the local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        47.933334,
+                        29.293666
+                  ]
+            },
+            {
+                  "name": "Abdulmohsen Mohammad Al-Naser Al-Hamad Mosque",
+                  "text": "A Muslim place of worship in Farwaniya named after a local benefactor.",
+                  "category": "landmark",
+                  "coords": [
+                        47.933716,
+                        29.297669
+                  ]
+            },
+            {
+                  "name": "Brak Murshid Al-Awaji Al-Shalahi",
+                  "text": "This mosque near KidZania provides a place for communal worship for the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        47.911167,
+                        29.296027
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "KW-FA",
     coords: [47.9350, 29.3010],
@@ -547,7 +3040,196 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "boulevard-park-life-v2",
+    id: "boulevard-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Silsan Boat tour - 1KD (20 min)",
+                  "text": "Diese kurzen Bootsfahrten bieten Besuchern eine entspannte Perspektive auf die moderne Architektur der Marina.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055402,
+                        29.341941
+                  ]
+            },
+            {
+                  "name": "Ghanima Al-Muzainin Mosque",
+                  "text": "Eine elegante Moschee, die harmonisch in die weitläufigen Grünanlagen des Boulevard-Parks eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.063583,
+                        29.326987
+                  ]
+            },
+            {
+                  "name": "Haya Abdallah Al-Ibrahim Mosque",
+                  "text": "Ein ruhiges islamisches Heiligtum, das den Bewohnern und Besuchern des belebten Salmiya-Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.062057,
+                        29.324122
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zibn",
+                  "text": "Diese traditionelle Moschee mit ihrem schlanken Minarett liegt in unmittelbarer Nähe der Einkaufsstraßen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.057923,
+                        29.331763
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Diese moderne Moschee liegt inmitten der weitläufigen Grünanlagen und künstlichen Seen des Boulevard-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056957,
+                        29.334948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silsan Boat tour - 1KD (20 min)",
+                  "text": "Ezek a rövid hajóutak pihentető betekintést nyújtanak a marina modern építészetébe a víz felől.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055402,
+                        29.341941
+                  ]
+            },
+            {
+                  "name": "Ghanima Al-Muzainin Mosque",
+                  "text": "Elegáns mecset, amely harmonikusan illeszkedik a Boulevard park kiterjedt zöldfelületeibe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.063583,
+                        29.326987
+                  ]
+            },
+            {
+                  "name": "Haya Abdallah Al-Ibrahim Mosque",
+                  "text": "Csendes iszlám szentély, amely a forgalmas Salmiya negyed lakóit és látogatóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.062057,
+                        29.324122
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zibn",
+                  "text": "Ez a hagyományos mecset karcsú minarettjével a bevásárlóutcák közvetlen közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.057923,
+                        29.331763
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ez a modern mecset a Boulevard Park tágas zöldfelületei és mesterséges tavai között található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056957,
+                        29.334948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silsan Boat tour - 1KD (20 min)",
+                  "text": "Aceste scurte plimbări cu barca oferă vizitatorilor o perspectivă relaxantă asupra arhitecturii moderne a marinei.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055402,
+                        29.341941
+                  ]
+            },
+            {
+                  "name": "Ghanima Al-Muzainin Mosque",
+                  "text": "O moschee elegantă integrată armonios în spațiile verzi vaste ale parcului Boulevard.",
+                  "category": "landmark",
+                  "coords": [
+                        48.063583,
+                        29.326987
+                  ]
+            },
+            {
+                  "name": "Haya Abdallah Al-Ibrahim Mosque",
+                  "text": "Un sanctuar islamic liniștit care deservește locuitorii și vizitatorii cartierului aglomerat Salmiya.",
+                  "category": "landmark",
+                  "coords": [
+                        48.062057,
+                        29.324122
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zibn",
+                  "text": "Această moschee tradițională, cu minaretul său zvelt, este situată în imediata apropiere a străzilor comerciale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.057923,
+                        29.331763
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Această moschee modernă este situată în mijlocul spațiilor verzi vaste și al lacurilor artificiale din Parcul Boulevard.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056957,
+                        29.334948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silsan Boat tour - 1KD (20 min)",
+                  "text": "These short boat trips offer visitors a relaxed perspective of the marina's modern architecture from the water.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055402,
+                        29.341941
+                  ]
+            },
+            {
+                  "name": "Ghanima Al-Muzainin Mosque",
+                  "text": "An elegant mosque harmoniously integrated into the expansive green spaces of Boulevard Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.063583,
+                        29.326987
+                  ]
+            },
+            {
+                  "name": "Haya Abdallah Al-Ibrahim Mosque",
+                  "text": "A quiet Islamic sanctuary serving the residents and visitors of the busy Salmiya district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.062057,
+                        29.324122
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Zibn",
+                  "text": "This traditional mosque with its slender minaret is located in close proximity to the bustling shopping streets.",
+                  "category": "landmark",
+                  "coords": [
+                        48.057923,
+                        29.331763
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "This modern mosque is set within the extensive greenery and artificial lakes of Boulevard Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056957,
+                        29.334948
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KW-HA",
     coords: [48.0610, 29.3360],
@@ -615,7 +3297,916 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "sulaibikhat-bay-nature-reserve-life-v2",
+    id: "sulaibikhat-bay-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gulf of Sulaibikhat Bird Sanctuary",
+                  "text": "Das Gulf of Sulaibikhat Bird Sanctuary ist ein wichtiges Küsten-Naturschutzgebiet, das zahlreichen Zugvogelarten entlang der Bucht Zuflucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        47.881589,
+                        29.325608
+                  ]
+            },
+            {
+                  "name": "Talha ibn Ubayd Allah Mosque",
+                  "text": "Die Moschee Talha ibn Ubayd Allah ist eine islamische Gebetsstätte in der Nähe der Küstengegend der Sulaibikhat-Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.840533,
+                        29.31658
+                  ]
+            },
+            {
+                  "name": "Khalid Al-Uwaihan Mosque",
+                  "text": "Die Khalid Al-Uwaihan Moschee dient der muslimischen Gemeinde mit täglichen Gebetsdiensten im Viertel Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.843955,
+                        29.312212
+                  ]
+            },
+            {
+                  "name": "Sulaibikhat Mosque",
+                  "text": "Die Sulaibikhat-Moschee ist ein zentrales islamisches Gotteshaus für die Anwohner, die in der Nähe der Bucht und des Naturschutzgebiets leben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.845845,
+                        29.315278
+                  ]
+            },
+            {
+                  "name": "Sibicha Al-Faris Mosque",
+                  "text": "Die Moschee Sibicha Al-Faris bietet der islamischen Gemeinde im Küstenbezirk von Sulaibikhat einen friedlichen Ort.",
+                  "category": "landmark",
+                  "coords": [
+                        47.851,
+                        29.315438
+                  ]
+            },
+            {
+                  "name": "Old Sulaibikhat Mosque",
+                  "text": "Die Alte Sulaibikhat-Moschee ist eine historische islamische Stätte, die der örtlichen Gemeinde in der Nähe der Bucht lange Zeit diente.",
+                  "category": "landmark",
+                  "coords": [
+                        47.851607,
+                        29.31249
+                  ]
+            },
+            {
+                  "name": "Abo Omar Yousof Bin Abdulber AlQurtobi Mosque",
+                  "text": "Die Moschee Abo Omar Yousof Bin Abdulber AlQurtobi bietet einen eigenen Bereich für muslimische Gebete in Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.857009,
+                        29.303462
+                  ]
+            },
+            {
+                  "name": "Sheikh Ahmed Attia Al Athari",
+                  "text": "Die Moschee von Sheikh Ahmed Attia Al Athari ist ein aktives islamisches Gotteshaus in der Nähe der Sulaibikhat-Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.85724,
+                        29.307632
+                  ]
+            },
+            {
+                  "name": "Ali Al-Ghanim Mosque and his wife, Faiza Al-Kharafi",
+                  "text": "Die Moschee von Ali Al-Ghanim und seiner Frau Faiza Al-Kharafi ist eine wunderschön eingerichtete Moschee, die die Gläubigen in Sulaibikhat unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.852336,
+                        29.308144
+                  ]
+            },
+            {
+                  "name": "Deaf Club mosque",
+                  "text": "Die Moschee des Gehörlosenclubs ist ein speziell ausgewiesenes islamisches Gotteshaus für die Hörgeschädigten-Gemeinde in Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.866404,
+                        29.315715
+                  ]
+            },
+            {
+                  "name": "Fatma Bu Qambar Mosque",
+                  "text": "Die Moschee Fatma Bu Qambar dient als lokaler spiritueller Knotenpunkt für Muslime im Küstengebiet von Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.866748,
+                        29.312916
+                  ]
+            },
+            {
+                  "name": "Bashir bin Saad Mosque",
+                  "text": "Die Moschee von Bashir bin Saad ist ein gemeindeorientiertes islamisches Zentrum in der Nähe des Naturschutzgebiets an der Sulaibikhat-Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.861006,
+                        29.298876
+                  ]
+            },
+            {
+                  "name": "Al-Whaib Mosque",
+                  "text": "Die Al-Whaib Moschee bietet eine einladende Umgebung für die täglichen islamischen Gebete im Bezirk Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.887593,
+                        29.291998
+                  ]
+            },
+            {
+                  "name": "Mikhlid ʿRaij Mosque",
+                  "text": "Die Mikhlid ʿRaij Moschee ist ein islamisches Gotteshaus, das den spirituellen Bedürfnissen der Anwohner der Sulaibikhat-Bucht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.880181,
+                        29.293243
+                  ]
+            },
+            {
+                  "name": "Naser Yusef Al Bader",
+                  "text": "Die Moschee Naser Yusef Al Bader bietet einen ruhigen Ort für muslimische Zusammenkünfte und Gebete in Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.872812,
+                        29.310857
+                  ]
+            },
+            {
+                  "name": "Khalid ibn Sa'id Mosque",
+                  "text": "Die Moschee Khalid ibn Sa'id ist eine etablierte islamische Stätte, die regelmäßige Gebetsdienste in der Nähe des Naturschutzgebiets von Sulaibikhat anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.878749,
+                        29.311859
+                  ]
+            },
+            {
+                  "name": "Shams Al Din Mohammad Salah Al Turkit",
+                  "text": "Shams Al Din Mohammad Salah Al Turkit ist ein muslimisches Gotteshaus, das der Gemeinde in der Küstenregion der Sulaibikhat-Bucht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.885731,
+                        29.31551
+                  ]
+            },
+            {
+                  "name": "Saleh Al Enazi (Al Sabah Hospital)",
+                  "text": "Saleh Al Enazi ist eine in den Komplex des Al-Sabah-Krankenhauses integrierte Moschee, die Patienten und Personal einen Gebetsraum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.899743,
+                        29.326752
+                  ]
+            },
+            {
+                  "name": "Al Razi Hospital mosque",
+                  "text": "Die Moschee des Al-Razi-Krankenhauses bietet Besuchern und medizinischem Personal der Einrichtung einen eigenen islamischen Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        47.895078,
+                        29.323882
+                  ]
+            },
+            {
+                  "name": "Psychiatric Hospital Mosque",
+                  "text": "Diese Moschee befindet sich auf dem Gelände des örtlichen psychiatrischen Krankenhauses und bietet eine ruhige Umgebung für das islamische Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.890547,
+                        29.319882
+                  ]
+            },
+            {
+                  "name": "Abdullah Abdulaziz Al Shalfan (Maternity Hospital)",
+                  "text": "Abdullah Abdulaziz Al Shalfan ist eine islamische Gebetsstätte im Komplex des Entbindungsheims nahe der Sulaibikhat-Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.894511,
+                        29.327628
+                  ]
+            },
+            {
+                  "name": "Abdultif Abdulah AlMahri (Chest Diseases Hospital)",
+                  "text": "Diese Moschee im Krankenhaus für Brusterkrankungen kümmert sich um die religiösen Bedürfnisse von genesenden Patienten und Krankenhauspersonal.",
+                  "category": "landmark",
+                  "coords": [
+                        47.897675,
+                        29.330245
+                  ]
+            },
+            {
+                  "name": "Nawaf Shabib ( Al Rashed Allergy Hospital )",
+                  "text": "Die Nawaf-Shabib-Moschee bietet einen spirituellen Rückzugsort, der direkt in die Einrichtungen des Al-Rashed-Allergiekrankenhauses integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.887985,
+                        29.323989
+                  ]
+            },
+            {
+                  "name": "Addiction Treatement Center mosque",
+                  "text": "Diese lokale Moschee dient den Bewohnern des Suchtbehandlungszentrums als Ort für muslimische Gebete und Kontemplation.",
+                  "category": "landmark",
+                  "coords": [
+                        47.885386,
+                        29.324076
+                  ]
+            },
+            {
+                  "name": "Juvenile Care mosque",
+                  "text": "Die für die lokale Einrichtung entworfene Juvenile Care Moschee unterstützt die islamischen religiösen Praktiken der Jugendeinrichtung.",
+                  "category": "landmark",
+                  "coords": [
+                        47.88559,
+                        29.317771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gulf of Sulaibikhat Bird Sanctuary",
+                  "text": "A Sulaibikhat-öböl madárrezervátum egy létfontosságú part menti természetvédelmi terület, amely számos vándormadárfajnak nyújt menedéket az öböl mentén.",
+                  "category": "natural",
+                  "coords": [
+                        47.881589,
+                        29.325608
+                  ]
+            },
+            {
+                  "name": "Talha ibn Ubayd Allah Mosque",
+                  "text": "A Talha ibn Ubayd Allah mecset a part menti Sulaibikhat-öböl térségében található iszlám imalétesítmény.",
+                  "category": "landmark",
+                  "coords": [
+                        47.840533,
+                        29.31658
+                  ]
+            },
+            {
+                  "name": "Khalid Al-Uwaihan Mosque",
+                  "text": "A Khalid Al-Uwaihan mecset napi imaszolgálatokkal szolgálja a muszlim közösséget Sulaibikhat környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.843955,
+                        29.312212
+                  ]
+            },
+            {
+                  "name": "Sulaibikhat Mosque",
+                  "text": "A Sulaibikhat mecset egy központi iszlám istentiszteleti hely az öböl és a természetvédelmi terület közelében élő lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.845845,
+                        29.315278
+                  ]
+            },
+            {
+                  "name": "Sibicha Al-Faris Mosque",
+                  "text": "A Sibicha Al-Faris mecset békés teret kínál az iszlám gyülekezet számára Sulaibikhat part menti negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.851,
+                        29.315438
+                  ]
+            },
+            {
+                  "name": "Old Sulaibikhat Mosque",
+                  "text": "A Régi Sulaibikhat mecset egy történelmi iszlám helyszín, amely régóta szolgálja az öböl melletti helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        47.851607,
+                        29.31249
+                  ]
+            },
+            {
+                  "name": "Abo Omar Yousof Bin Abdulber AlQurtobi Mosque",
+                  "text": "Az Abo Omar Yousof Bin Abdulber AlQurtobi mecset dedikált területet biztosít a muszlim imákhoz Sulaibikhatban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.857009,
+                        29.303462
+                  ]
+            },
+            {
+                  "name": "Sheikh Ahmed Attia Al Athari",
+                  "text": "A Sheikh Ahmed Attia Al Athari mecset egy aktív iszlám imahely a Sulaibikhat-öböl szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.85724,
+                        29.307632
+                  ]
+            },
+            {
+                  "name": "Ali Al-Ghanim Mosque and his wife, Faiza Al-Kharafi",
+                  "text": "Az Ali Al-Ghanim és felesége, Faiza Al-Kharafi mecset egy gyönyörűen kialakított imaház, amely a sulaibikhati hívőket támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.852336,
+                        29.308144
+                  ]
+            },
+            {
+                  "name": "Deaf Club mosque",
+                  "text": "A Siketek Klubja mecset egy speciálisan kijelölt iszlám istentiszteleti központ a hallássérült közösség számára Sulaibikhatban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.866404,
+                        29.315715
+                  ]
+            },
+            {
+                  "name": "Fatma Bu Qambar Mosque",
+                  "text": "A Fatma Bu Qambar mecset helyi spirituális központként szolgál a muszlimok számára Sulaibikhat part menti területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.866748,
+                        29.312916
+                  ]
+            },
+            {
+                  "name": "Bashir bin Saad Mosque",
+                  "text": "A Bashir bin Saad mecset egy közösségközpontú iszlám intézmény a Sulaibikhat-öböl természetvédelmi területének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.861006,
+                        29.298876
+                  ]
+            },
+            {
+                  "name": "Al-Whaib Mosque",
+                  "text": "Az Al-Whaib mecset barátságos környezetet kínál a napi iszlám imákhoz a Sulaibikhat negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.887593,
+                        29.291998
+                  ]
+            },
+            {
+                  "name": "Mikhlid ʿRaij Mosque",
+                  "text": "A Mikhlid ʿRaij mecset az iszlám imádkozás helyszíne, amely a Sulaibikhat-öböl közelében lévő lakosok spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.880181,
+                        29.293243
+                  ]
+            },
+            {
+                  "name": "Naser Yusef Al Bader",
+                  "text": "A Naser Yusef Al Bader mecset csendes teret biztosít a muszlim gyülekezet és imádság számára Sulaibikhatban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.872812,
+                        29.310857
+                  ]
+            },
+            {
+                  "name": "Khalid ibn Sa'id Mosque",
+                  "text": "A Khalid ibn Sa'id mecset egy bejáratott iszlám helyszín, amely rendszeres imaalkalmakat kínál a sulaibikhati természetvédelmi terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.878749,
+                        29.311859
+                  ]
+            },
+            {
+                  "name": "Shams Al Din Mohammad Salah Al Turkit",
+                  "text": "A Shams Al Din Mohammad Salah Al Turkit egy muszlim imahely, amely a Sulaibikhat-öböl partvidékének közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.885731,
+                        29.31551
+                  ]
+            },
+            {
+                  "name": "Saleh Al Enazi (Al Sabah Hospital)",
+                  "text": "A Saleh Al Enazi az Al Sabah Kórház komplexumába integrált mecset, amely imateret biztosít a betegek és a személyzet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.899743,
+                        29.326752
+                  ]
+            },
+            {
+                  "name": "Al Razi Hospital mosque",
+                  "text": "Az Al Razi Kórház mecsete dedikált iszlám imateret kínál az egészségügyi intézmény látogatóinak és dolgozóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        47.895078,
+                        29.323882
+                  ]
+            },
+            {
+                  "name": "Psychiatric Hospital Mosque",
+                  "text": "A helyi pszichiátriai kórház területén található mecset csendes környezetet biztosít az iszlám istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        47.890547,
+                        29.319882
+                  ]
+            },
+            {
+                  "name": "Abdullah Abdulaziz Al Shalfan (Maternity Hospital)",
+                  "text": "Az Abdullah Abdulaziz Al Shalfan egy iszlám imahely, amely a Sulaibikhat-öböl közelében található Szülészeti Kórház komplexumán belül kapott helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.894511,
+                        29.327628
+                  ]
+            },
+            {
+                  "name": "Abdultif Abdulah AlMahri (Chest Diseases Hospital)",
+                  "text": "A Mellkasi Betegségek Kórházában található mecset a lábadozó betegek és a kórházi személyzet vallási igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.897675,
+                        29.330245
+                  ]
+            },
+            {
+                  "name": "Nawaf Shabib ( Al Rashed Allergy Hospital )",
+                  "text": "A Nawaf Shabib mecset közvetlenül az Al Rashed Allergia Kórház létesítményeibe integrált spirituális menedéket nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.887985,
+                        29.323989
+                  ]
+            },
+            {
+                  "name": "Addiction Treatement Center mosque",
+                  "text": "Ez a helyi mecset a muszlim istentisztelet és elmélkedés helyszíneként szolgál a Függőségkezelő Központ lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.885386,
+                        29.324076
+                  ]
+            },
+            {
+                  "name": "Juvenile Care mosque",
+                  "text": "A helyi intézmény számára tervezett Fiatalkorúak Gondozási mecsete az ifjúsági létesítmény iszlám vallási gyakorlatait támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.88559,
+                        29.317771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gulf of Sulaibikhat Bird Sanctuary",
+                  "text": "Sanctuarul de Păsări din Golful Sulaibikhat este o rezervație naturală de coastă vitală, care oferă refugiu numeroaselor specii de păsări migratoare de-a lungul golfului.",
+                  "category": "natural",
+                  "coords": [
+                        47.881589,
+                        29.325608
+                  ]
+            },
+            {
+                  "name": "Talha ibn Ubayd Allah Mosque",
+                  "text": "Moscheea Talha ibn Ubayd Allah este o facilitate de rugăciune islamică situată lângă zona de coastă a Golfului Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.840533,
+                        29.31658
+                  ]
+            },
+            {
+                  "name": "Khalid Al-Uwaihan Mosque",
+                  "text": "Moscheea Khalid Al-Uwaihan deservește comunitatea musulmană cu slujbe zilnice de rugăciune în cartierul Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.843955,
+                        29.312212
+                  ]
+            },
+            {
+                  "name": "Sulaibikhat Mosque",
+                  "text": "Moscheea Sulaibikhat este un lăcaș de cult islamic central pentru rezidenții care locuiesc lângă golf și rezervația naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        47.845845,
+                        29.315278
+                  ]
+            },
+            {
+                  "name": "Sibicha Al-Faris Mosque",
+                  "text": "Moscheea Sibicha Al-Faris oferă un spațiu liniștit pentru congregația islamică în cartierul de coastă Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.851,
+                        29.315438
+                  ]
+            },
+            {
+                  "name": "Old Sulaibikhat Mosque",
+                  "text": "Vechea Moschee Sulaibikhat este un sit islamic istoric care a servit mult timp comunitatea locală de lângă golf.",
+                  "category": "landmark",
+                  "coords": [
+                        47.851607,
+                        29.31249
+                  ]
+            },
+            {
+                  "name": "Abo Omar Yousof Bin Abdulber AlQurtobi Mosque",
+                  "text": "Moscheea Abo Omar Yousof Bin Abdulber AlQurtobi oferă o zonă dedicată rugăciunii musulmane în Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.857009,
+                        29.303462
+                  ]
+            },
+            {
+                  "name": "Sheikh Ahmed Attia Al Athari",
+                  "text": "Moscheea Sheikh Ahmed Attia Al Athari este un centru activ de cult islamic în vecinătatea Golfului Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.85724,
+                        29.307632
+                  ]
+            },
+            {
+                  "name": "Ali Al-Ghanim Mosque and his wife, Faiza Al-Kharafi",
+                  "text": "Moscheea lui Ali Al-Ghanim și a soției sale, Faiza Al-Kharafi, este o moschee frumos stabilită care sprijină credincioșii din Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.852336,
+                        29.308144
+                  ]
+            },
+            {
+                  "name": "Deaf Club mosque",
+                  "text": "Moscheea Clubului Surzilor este un centru de cult islamic special desemnat pentru comunitatea cu deficiențe de auz din Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.866404,
+                        29.315715
+                  ]
+            },
+            {
+                  "name": "Fatma Bu Qambar Mosque",
+                  "text": "Moscheea Fatma Bu Qambar servește ca un centru spiritual local pentru musulmanii din zona de coastă Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.866748,
+                        29.312916
+                  ]
+            },
+            {
+                  "name": "Bashir bin Saad Mosque",
+                  "text": "Moscheea Bashir bin Saad este un centru islamic orientat spre comunitate lângă rezervația naturală Golful Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.861006,
+                        29.298876
+                  ]
+            },
+            {
+                  "name": "Al-Whaib Mosque",
+                  "text": "Moscheea Al-Whaib oferă un mediu primitor pentru rugăciunile islamice zilnice în districtul Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.887593,
+                        29.291998
+                  ]
+            },
+            {
+                  "name": "Mikhlid ʿRaij Mosque",
+                  "text": "Moscheea Mikhlid ʿRaij este un lăcaș de cult islamic care servește nevoile spirituale ale rezidenților din apropierea Golfului Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.880181,
+                        29.293243
+                  ]
+            },
+            {
+                  "name": "Naser Yusef Al Bader",
+                  "text": "Moscheea Naser Yusef Al Bader oferă un spațiu senin pentru congregația și rugăciunea musulmană în Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.872812,
+                        29.310857
+                  ]
+            },
+            {
+                  "name": "Khalid ibn Sa'id Mosque",
+                  "text": "Moscheea Khalid ibn Sa'id este un sit islamic stabilit, care oferă slujbe regulate de rugăciune lângă rezervația naturală Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.878749,
+                        29.311859
+                  ]
+            },
+            {
+                  "name": "Shams Al Din Mohammad Salah Al Turkit",
+                  "text": "Shams Al Din Mohammad Salah Al Turkit este un lăcaș de cult musulman care deservește comunitatea din zona de coastă a golfului Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.885731,
+                        29.31551
+                  ]
+            },
+            {
+                  "name": "Saleh Al Enazi (Al Sabah Hospital)",
+                  "text": "Saleh Al Enazi este o moschee integrată în complexul Spitalului Al Sabah, oferind un spațiu de rugăciune pentru pacienți și personal.",
+                  "category": "landmark",
+                  "coords": [
+                        47.899743,
+                        29.326752
+                  ]
+            },
+            {
+                  "name": "Al Razi Hospital mosque",
+                  "text": "Moscheea Spitalului Al Razi oferă un spațiu dedicat rugăciunii islamice pentru vizitatorii și lucrătorii medicali ai unității.",
+                  "category": "landmark",
+                  "coords": [
+                        47.895078,
+                        29.323882
+                  ]
+            },
+            {
+                  "name": "Psychiatric Hospital Mosque",
+                  "text": "Deservind incinta Spitalului de Psihiatrie local, această moschee oferă un mediu liniștit pentru rugăciunea islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        47.890547,
+                        29.319882
+                  ]
+            },
+            {
+                  "name": "Abdullah Abdulaziz Al Shalfan (Maternity Hospital)",
+                  "text": "Abdullah Abdulaziz Al Shalfan este un loc de rugăciune islamic situat în complexul Spitalului de Maternitate de lângă Golful Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.894511,
+                        29.327628
+                  ]
+            },
+            {
+                  "name": "Abdultif Abdulah AlMahri (Chest Diseases Hospital)",
+                  "text": "Situată la Spitalul de Boli Toracice, această moschee răspunde nevoilor religioase ale pacienților aflați în recuperare și ale personalului.",
+                  "category": "landmark",
+                  "coords": [
+                        47.897675,
+                        29.330245
+                  ]
+            },
+            {
+                  "name": "Nawaf Shabib ( Al Rashed Allergy Hospital )",
+                  "text": "Moscheea Nawaf Shabib oferă un refugiu spiritual integrat direct în facilitățile Spitalului de Alergii Al Rashed.",
+                  "category": "landmark",
+                  "coords": [
+                        47.887985,
+                        29.323989
+                  ]
+            },
+            {
+                  "name": "Addiction Treatement Center mosque",
+                  "text": "Această moschee locală funcționează ca un loc de cult și contemplare musulmană pentru rezidenții Centrului de Tratament al Dependențelor.",
+                  "category": "landmark",
+                  "coords": [
+                        47.885386,
+                        29.324076
+                  ]
+            },
+            {
+                  "name": "Juvenile Care mosque",
+                  "text": "Concepută pentru instituția locală, moscheea Juvenile Care sprijină practicile religioase islamice ale centrului pentru tineret.",
+                  "category": "landmark",
+                  "coords": [
+                        47.88559,
+                        29.317771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gulf of Sulaibikhat Bird Sanctuary",
+                  "text": "The Gulf of Sulaibikhat Bird Sanctuary is a vital coastal nature reserve offering refuge to numerous migratory bird species along the bay.",
+                  "category": "natural",
+                  "coords": [
+                        47.881589,
+                        29.325608
+                  ]
+            },
+            {
+                  "name": "Talha ibn Ubayd Allah Mosque",
+                  "text": "The Talha ibn Ubayd Allah Mosque is an Islamic prayer facility situated near the coastal Sulaibikhat Bay area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.840533,
+                        29.31658
+                  ]
+            },
+            {
+                  "name": "Khalid Al-Uwaihan Mosque",
+                  "text": "The Khalid Al-Uwaihan Mosque serves the Muslim community with daily prayer services in the Sulaibikhat neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        47.843955,
+                        29.312212
+                  ]
+            },
+            {
+                  "name": "Sulaibikhat Mosque",
+                  "text": "The Sulaibikhat Mosque is a central Islamic place of worship for residents living near the bay and nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        47.845845,
+                        29.315278
+                  ]
+            },
+            {
+                  "name": "Sibicha Al-Faris Mosque",
+                  "text": "The Sibicha Al-Faris Mosque offers a peaceful space for Islamic congregation in the coastal district of Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.851,
+                        29.315438
+                  ]
+            },
+            {
+                  "name": "Old Sulaibikhat Mosque",
+                  "text": "The Old Sulaibikhat Mosque is a historic Islamic site that has long served the local community near the bay.",
+                  "category": "landmark",
+                  "coords": [
+                        47.851607,
+                        29.31249
+                  ]
+            },
+            {
+                  "name": "Abo Omar Yousof Bin Abdulber AlQurtobi Mosque",
+                  "text": "The Abo Omar Yousof Bin Abdulber AlQurtobi Mosque provides a dedicated area for Muslim prayer in Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.857009,
+                        29.303462
+                  ]
+            },
+            {
+                  "name": "Sheikh Ahmed Attia Al Athari",
+                  "text": "The Sheikh Ahmed Attia Al Athari Mosque is an active Islamic worship center in the Sulaibikhat Bay vicinity.",
+                  "category": "landmark",
+                  "coords": [
+                        47.85724,
+                        29.307632
+                  ]
+            },
+            {
+                  "name": "Ali Al-Ghanim Mosque and his wife, Faiza Al-Kharafi",
+                  "text": "The Ali Al-Ghanim Mosque and his wife, Faiza Al-Kharafi, is a beautifully established mosque supporting the faithful in Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.852336,
+                        29.308144
+                  ]
+            },
+            {
+                  "name": "Deaf Club mosque",
+                  "text": "The Deaf Club mosque is a specially designated Islamic worship center catering to the hearing-impaired community in Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.866404,
+                        29.315715
+                  ]
+            },
+            {
+                  "name": "Fatma Bu Qambar Mosque",
+                  "text": "The Fatma Bu Qambar Mosque serves as a local spiritual hub for Muslims in the coastal area of Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.866748,
+                        29.312916
+                  ]
+            },
+            {
+                  "name": "Bashir bin Saad Mosque",
+                  "text": "The Bashir bin Saad Mosque is a community-oriented Islamic center near the Sulaibikhat Bay nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        47.861006,
+                        29.298876
+                  ]
+            },
+            {
+                  "name": "Al-Whaib Mosque",
+                  "text": "The Al-Whaib Mosque offers a welcoming environment for daily Islamic prayers within the Sulaibikhat district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.887593,
+                        29.291998
+                  ]
+            },
+            {
+                  "name": "Mikhlid ʿRaij Mosque",
+                  "text": "The Mikhlid ʿRaij Mosque is an Islamic place of worship serving the spiritual needs of residents near Sulaibikhat Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        47.880181,
+                        29.293243
+                  ]
+            },
+            {
+                  "name": "Naser Yusef Al Bader",
+                  "text": "The Naser Yusef Al Bader Mosque provides a serene space for Muslim congregation and prayer in Sulaibikhat.",
+                  "category": "landmark",
+                  "coords": [
+                        47.872812,
+                        29.310857
+                  ]
+            },
+            {
+                  "name": "Khalid ibn Sa'id Mosque",
+                  "text": "The Khalid ibn Sa'id Mosque is an established Islamic site offering regular prayer services near the Sulaibikhat nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        47.878749,
+                        29.311859
+                  ]
+            },
+            {
+                  "name": "Shams Al Din Mohammad Salah Al Turkit",
+                  "text": "Shams Al Din Mohammad Salah Al Turkit is a Muslim place of worship serving the community near the coastal Sulaibikhat Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        47.885731,
+                        29.31551
+                  ]
+            },
+            {
+                  "name": "Saleh Al Enazi (Al Sabah Hospital)",
+                  "text": "Saleh Al Enazi is a mosque integrated into the Al Sabah Hospital complex, providing a prayer space for patients and staff.",
+                  "category": "landmark",
+                  "coords": [
+                        47.899743,
+                        29.326752
+                  ]
+            },
+            {
+                  "name": "Al Razi Hospital mosque",
+                  "text": "The Al Razi Hospital mosque offers a dedicated Islamic prayer space for the medical facility's visitors and healthcare workers.",
+                  "category": "landmark",
+                  "coords": [
+                        47.895078,
+                        29.323882
+                  ]
+            },
+            {
+                  "name": "Psychiatric Hospital Mosque",
+                  "text": "Serving the grounds of the local Psychiatric Hospital, this mosque provides a quiet environment for Islamic worship.",
+                  "category": "landmark",
+                  "coords": [
+                        47.890547,
+                        29.319882
+                  ]
+            },
+            {
+                  "name": "Abdullah Abdulaziz Al Shalfan (Maternity Hospital)",
+                  "text": "Abdullah Abdulaziz Al Shalfan is an Islamic prayer site located within the Maternity Hospital complex near Sulaibikhat Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        47.894511,
+                        29.327628
+                  ]
+            },
+            {
+                  "name": "Abdultif Abdulah AlMahri (Chest Diseases Hospital)",
+                  "text": "Situated at the Chest Diseases Hospital, this mosque caters to the religious needs of recovering patients and hospital staff.",
+                  "category": "landmark",
+                  "coords": [
+                        47.897675,
+                        29.330245
+                  ]
+            },
+            {
+                  "name": "Nawaf Shabib ( Al Rashed Allergy Hospital )",
+                  "text": "The Nawaf Shabib mosque provides a spiritual retreat integrated directly into the Al Rashed Allergy Hospital facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        47.887985,
+                        29.323989
+                  ]
+            },
+            {
+                  "name": "Addiction Treatement Center mosque",
+                  "text": "This local mosque functions as a place of Muslim worship and contemplation for residents of the Addiction Treatment Center.",
+                  "category": "landmark",
+                  "coords": [
+                        47.885386,
+                        29.324076
+                  ]
+            },
+            {
+                  "name": "Juvenile Care mosque",
+                  "text": "Designed for the local institution, the Juvenile Care mosque supports the Islamic religious practices of the youth facility.",
+                  "category": "landmark",
+                  "coords": [
+                        47.88559,
+                        29.317771
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "KW-KU",
     coords: [47.8800, 29.3300],
@@ -683,7 +4274,52 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "kabd-farms-life-v2",
+    id: "kabd-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "kabd",
+                  "text": "Ein landwirtschaftliches Gebiet in der Wüste, bekannt für traditionelle Farmen und Kamelzucht.",
+                  "category": "landmark",
+                  "coords": [
+                        47.802216,
+                        29.145328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "kabd",
+                  "text": "Sivatagi mezőgazdasági terület, amely hagyományos farmjairól és tevetenyésztéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.802216,
+                        29.145328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "kabd",
+                  "text": "O zonă agricolă în deșert, cunoscută pentru fermele tradiționale și creșterea cămilelor.",
+                  "category": "landmark",
+                  "coords": [
+                        47.802216,
+                        29.145328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "kabd",
+                  "text": "A desert agricultural area known for traditional farms and camel-rearing culture.",
+                  "category": "landmark",
+                  "coords": [
+                        47.802216,
+                        29.145328
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KW-JA",
     coords: [47.7200, 29.1500],
@@ -751,7 +4387,952 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "al-ahmadi-public-park-life-v2",
+    id: "al-ahmadi-public-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuwait Little Theatre (KLT)",
+                  "text": "Dieses 1948 gegründete Amateurtheater in Ahmadi ist bekannt für seine englischsprachigen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        48.060345,
+                        29.090054
+                  ]
+            },
+            {
+                  "name": "Ahmadi Zoo",
+                  "text": "Ein kleiner Zoo im Herzen von Ahmadi, der einheimische Tierarten in einer parkähnlichen Umgebung zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        48.069392,
+                        29.08799
+                  ]
+            },
+            {
+                  "name": "Our Lady of Arabia Church",
+                  "text": "Diese 1956 geweihte Kirche ist ein wichtiges katholisches Zentrum und Wallfahrtsort in Ahmadi.",
+                  "category": "religious",
+                  "coords": [
+                        48.067508,
+                        29.092185
+                  ]
+            },
+            {
+                  "name": "KOC Tent for Events & Exhibitions",
+                  "text": "Ein großes Veranstaltungszentrum der Kuwait Oil Company, das für kulturelle Ausstellungen in Ahmadi genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        48.067805,
+                        29.090833
+                  ]
+            },
+            {
+                  "name": "St Pauls Anglican Church",
+                  "text": "Diese anglikanische Kirche in Ahmadi dient seit Jahrzehnten der internationalen christlichen Gemeinde der Ölstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066245,
+                        29.097071
+                  ]
+            },
+            {
+                  "name": "Abdullaziz Bin Baz",
+                  "text": "Eine Moschee in Ahmadi, die nach einem bedeutenden Gelehrten benannt ist und zentral im Wohngebiet liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074995,
+                        29.074688
+                  ]
+            },
+            {
+                  "name": "Al Ahmadi Al Khaber",
+                  "text": "Dieses muslimische Gebetshaus liegt in der planmäßig angelegten Ölstadt Ahmadi nahe der Firmenzentralen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068734,
+                        29.080081
+                  ]
+            },
+            {
+                  "name": "Al Ahmadi Resort Mosque",
+                  "text": "Diese Moschee befindet sich in der Nähe der Erholungsgebiete von Ahmadi und dient Besuchern wie Anwohnern.",
+                  "category": "landmark",
+                  "coords": [
+                        48.07218,
+                        29.092867
+                  ]
+            },
+            {
+                  "name": "Bilal Bin Rabah",
+                  "text": "Eine Moschee in Ahmadi, die nach Bilal Bin Rabah benannt ist und den klassischen Baustil der Region zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.049494,
+                        29.08992
+                  ]
+            },
+            {
+                  "name": "Al Shmailan",
+                  "text": "Die Al Shmailan Moschee ist ein ruhiger Ort des Gebets inmitten der grünen Parkanlagen von Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075671,
+                        29.087366
+                  ]
+            },
+            {
+                  "name": "Abi Hatim Al Razi",
+                  "text": "Diese Moschee ist ein wichtiger religiöser Treffpunkt für die Angestellten der Ölindustrie in Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074713,
+                        29.084613
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Abass",
+                  "text": "Die Abdullah Bin Abass Moschee in Ahmadi zeichnet sich durch ihre schlichte, funktionale Architektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080465,
+                        29.083711
+                  ]
+            },
+            {
+                  "name": "Messad Bin Khaithamah",
+                  "text": "Ein lokales Gebetshaus in Ahmadi, das die spirituelle Versorgung im westlichen Teil der Stadt sichert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.079324,
+                        29.080158
+                  ]
+            },
+            {
+                  "name": "Imam Ali Al-Ridha Mosque",
+                  "text": "Diese schiitische Moschee in Ahmadi ist nach Imam Ali Al-Ridha benannt und architektonisch markant.",
+                  "category": "landmark",
+                  "coords": [
+                        48.07588,
+                        29.082594
+                  ]
+            },
+            {
+                  "name": "Saad Bin Zaid",
+                  "text": "Eine Moschee im Wohnviertel von Ahmadi, die nach Saad Bin Zaid benannt wurde und der Nachbarschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.073823,
+                        29.077203
+                  ]
+            },
+            {
+                  "name": "Nafil Mehdi Ayed",
+                  "text": "Diese Moschee in Ahmadi ist ein Beispiel für die moderne sakrale Architektur im Industriezentrum Kuwaits.",
+                  "category": "landmark",
+                  "coords": [
+                        48.081036,
+                        29.07509
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdulaziz",
+                  "text": "Die Omar Bin Abdulaziz Moschee ist ein zentraler Anlaufpunkt für Gläubige im Herzen von Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06351,
+                        29.079223
+                  ]
+            },
+            {
+                  "name": "Rifaa Bin Abdullmonther",
+                  "text": "Eine schlichte Moschee in Ahmadi, die sich harmonisch in die Siedlungsstruktur der KOC-Mitarbeiter einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066851,
+                        29.0822
+                  ]
+            },
+            {
+                  "name": "Omar Bin Khatab",
+                  "text": "Die nach Omar Bin Khatab benannte Moschee ist eines der größeren islamischen Gebetshäuser in Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.064,
+                        29.08805
+                  ]
+            },
+            {
+                  "name": "Abo Obida",
+                  "text": "Eine lokale Moschee für die Bewohner der ölreichen Gartenstadt Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060919,
+                        29.091355
+                  ]
+            },
+            {
+                  "name": "Al Numan Bin Thabt",
+                  "text": "Ein muslimisches Gebetshaus im Wohnviertel der von der Erdölindustrie geprägten Stadt Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060533,
+                        29.086072
+                  ]
+            },
+            {
+                  "name": "Aisha",
+                  "text": "Diese Moschee bietet den Gläubigen im Zentrum von Al-Ahmadi einen Ort für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.058704,
+                        29.092331
+                  ]
+            },
+            {
+                  "name": "Tariq Bin Ashiam Al Ashjaeai",
+                  "text": "Ein religiöses Zentrum für die muslimische Gemeinschaft in der geplanten Siedlung Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060527,
+                        29.099748
+                  ]
+            },
+            {
+                  "name": "Ali Bin Abi Taleb",
+                  "text": "Eine traditionelle Moschee in Al-Ahmadi, die durch ihre schlichte Architektur im Stadtviertel auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056341,
+                        29.101941
+                  ]
+            },
+            {
+                  "name": "Saad Bin Ubaid Al Nuaman",
+                  "text": "Ein muslimisches Gotteshaus in der Nähe der Parkanlagen von Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068162,
+                        29.106802
+                  ]
+            },
+            {
+                  "name": "Abu Baker",
+                  "text": "Eine Moschee im Herzen von Al-Ahmadi, die als zentraler Treffpunkt für Gläubige dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.069839,
+                        29.096588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuwait Little Theatre (KLT)",
+                  "text": "Ezt az 1948-ban alapított amatőr színházat Ahmadi-ban angol nyelvű előadásairól ismerik.",
+                  "category": "cultural",
+                  "coords": [
+                        48.060345,
+                        29.090054
+                  ]
+            },
+            {
+                  "name": "Ahmadi Zoo",
+                  "text": "Egy kis állatkert Ahmadi szívében, amely helyi állatfajokat mutat be parkos környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        48.069392,
+                        29.08799
+                  ]
+            },
+            {
+                  "name": "Our Lady of Arabia Church",
+                  "text": "Ez az 1956-ban felszentelt templom Ahmadi fontos katolikus központja és zarándokhelye.",
+                  "category": "religious",
+                  "coords": [
+                        48.067508,
+                        29.092185
+                  ]
+            },
+            {
+                  "name": "KOC Tent for Events & Exhibitions",
+                  "text": "A Kuwait Oil Company nagy rendezvényközpontja, amelyet kulturális kiállításokra használnak Ahmadi-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        48.067805,
+                        29.090833
+                  ]
+            },
+            {
+                  "name": "St Pauls Anglican Church",
+                  "text": "Ez az anglikán templom Ahmadi-ban évtizedek óta szolgálja az olajváros nemzetközi keresztény közösségét.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066245,
+                        29.097071
+                  ]
+            },
+            {
+                  "name": "Abdullaziz Bin Baz",
+                  "text": "Egy jelentős tudósról elnevezett mecset Ahmadi-ban, amely központi helyen, lakóövezetben található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074995,
+                        29.074688
+                  ]
+            },
+            {
+                  "name": "Al Ahmadi Al Khaber",
+                  "text": "Ez a muszlim imaház Ahmadi tervezett olajvárosában található, a vállalati központok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068734,
+                        29.080081
+                  ]
+            },
+            {
+                  "name": "Al Ahmadi Resort Mosque",
+                  "text": "Ez a mecset az Ahmadi-i üdülőövezetek közelében található, látogatókat és helyieket egyaránt kiszolgálva.",
+                  "category": "landmark",
+                  "coords": [
+                        48.07218,
+                        29.092867
+                  ]
+            },
+            {
+                  "name": "Bilal Bin Rabah",
+                  "text": "Bilal Bin Rabah-ról elnevezett mecset Ahmadi-ban, amely a régió klasszikus építészeti stílusát mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.049494,
+                        29.08992
+                  ]
+            },
+            {
+                  "name": "Al Shmailan",
+                  "text": "Az Al Shmailan mecset a nyugalom és az ima helyszíne Ahmadi zöld parkjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075671,
+                        29.087366
+                  ]
+            },
+            {
+                  "name": "Abi Hatim Al Razi",
+                  "text": "Ez a mecset az Ahmadi-i olajipari dolgozók fontos vallási találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074713,
+                        29.084613
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Abass",
+                  "text": "Az Abdullah Bin Abass mecset Ahmadi-ban egyszerű, funkcionális építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080465,
+                        29.083711
+                  ]
+            },
+            {
+                  "name": "Messad Bin Khaithamah",
+                  "text": "Helyi imaház Ahmadi-ban, amely a város nyugati részének spirituális ellátását biztosítja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.079324,
+                        29.080158
+                  ]
+            },
+            {
+                  "name": "Imam Ali Al-Ridha Mosque",
+                  "text": "Ez az Ahmadi-i síita mecset Imam Ali Al-Ridha nevét viseli, és építészetileg jellegzetes.",
+                  "category": "landmark",
+                  "coords": [
+                        48.07588,
+                        29.082594
+                  ]
+            },
+            {
+                  "name": "Saad Bin Zaid",
+                  "text": "Ahmadi lakónegyedében található mecset, amelyet Saad Bin Zaid-ról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.073823,
+                        29.077203
+                  ]
+            },
+            {
+                  "name": "Nafil Mehdi Ayed",
+                  "text": "Ez az Ahmadi-i mecset a modern szakrális építészet példája Kuvait ipari központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.081036,
+                        29.07509
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdulaziz",
+                  "text": "Az Omar Bin Abdulaziz mecset a hívők központi találkozóhelye Ahmadi szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06351,
+                        29.079223
+                  ]
+            },
+            {
+                  "name": "Rifaa Bin Abdullmonther",
+                  "text": "Egyszerű mecset Ahmadi-ban, amely harmonikusan illeszkedik a KOC-alkalmazottak lakótelepébe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066851,
+                        29.0822
+                  ]
+            },
+            {
+                  "name": "Omar Bin Khatab",
+                  "text": "Az Omar Bin Khatab-ról elnevezett mecset Ahmadi egyik nagyobb iszlám imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        48.064,
+                        29.08805
+                  ]
+            },
+            {
+                  "name": "Abo Obida",
+                  "text": "Helyi mecset az olajiparáról ismert Al-Ahmadi városának lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060919,
+                        29.091355
+                  ]
+            },
+            {
+                  "name": "Al Numan Bin Thabt",
+                  "text": "Muszlim imaház az olajiparáról nevezetes Al-Ahmadi egyik lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060533,
+                        29.086072
+                  ]
+            },
+            {
+                  "name": "Aisha",
+                  "text": "Ez a mecset a napi imádságok helyszíne az Al-Ahmadi központjában élő hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.058704,
+                        29.092331
+                  ]
+            },
+            {
+                  "name": "Tariq Bin Ashiam Al Ashjaeai",
+                  "text": "Vallási központ a muszlim közösség számára Al-Ahmadi tervezett városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060527,
+                        29.099748
+                  ]
+            },
+            {
+                  "name": "Ali Bin Abi Taleb",
+                  "text": "Hagyományos mecset Al-Ahmadi városában, amely egyszerű építészetével tűnik ki a negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056341,
+                        29.101941
+                  ]
+            },
+            {
+                  "name": "Saad Bin Ubaid Al Nuaman",
+                  "text": "Muszlim istentiszteleti hely az Al-Ahmadi parkjaihoz közeli területen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068162,
+                        29.106802
+                  ]
+            },
+            {
+                  "name": "Abu Baker",
+                  "text": "Mecset Al-Ahmadi szívében, amely a hívők központi találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.069839,
+                        29.096588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuwait Little Theatre (KLT)",
+                  "text": "Fondat în 1948, acest teatru de amatori din Ahmadi este cunoscut pentru spectacolele sale în limba engleză.",
+                  "category": "cultural",
+                  "coords": [
+                        48.060345,
+                        29.090054
+                  ]
+            },
+            {
+                  "name": "Ahmadi Zoo",
+                  "text": "O mică grădină zoologică în inima orașului Ahmadi, care prezintă specii locale de animale într-un cadru de parc.",
+                  "category": "recreational",
+                  "coords": [
+                        48.069392,
+                        29.08799
+                  ]
+            },
+            {
+                  "name": "Our Lady of Arabia Church",
+                  "text": "Această biserică, sfințită în 1956, este un centru catolic important și loc de pelerinaj în Ahmadi.",
+                  "category": "religious",
+                  "coords": [
+                        48.067508,
+                        29.092185
+                  ]
+            },
+            {
+                  "name": "KOC Tent for Events & Exhibitions",
+                  "text": "Un centru mare de evenimente al Kuwait Oil Company, utilizat pentru expoziții culturale în Ahmadi.",
+                  "category": "cultural",
+                  "coords": [
+                        48.067805,
+                        29.090833
+                  ]
+            },
+            {
+                  "name": "St Pauls Anglican Church",
+                  "text": "Această biserică anglicană din Ahmadi servește de decenii comunitatea creștină internațională din orașul petrolier.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066245,
+                        29.097071
+                  ]
+            },
+            {
+                  "name": "Abdullaziz Bin Baz",
+                  "text": "O moschee din Ahmadi, numită după un savant important, situată central în zona rezidențială.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074995,
+                        29.074688
+                  ]
+            },
+            {
+                  "name": "Al Ahmadi Al Khaber",
+                  "text": "Acest lăcaș de cult musulman este situat în orașul petrolier planificat Ahmadi, aproape de sediile companiilor.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068734,
+                        29.080081
+                  ]
+            },
+            {
+                  "name": "Al Ahmadi Resort Mosque",
+                  "text": "Această moschee este situată lângă zonele de agrement din Ahmadi, deservind atât vizitatorii, cât și localnicii.",
+                  "category": "landmark",
+                  "coords": [
+                        48.07218,
+                        29.092867
+                  ]
+            },
+            {
+                  "name": "Bilal Bin Rabah",
+                  "text": "O moschee din Ahmadi numită după Bilal Bin Rabah, care prezintă stilul arhitectural clasic al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        48.049494,
+                        29.08992
+                  ]
+            },
+            {
+                  "name": "Al Shmailan",
+                  "text": "Moscheea Al Shmailan este un loc liniștit de rugăciune în mijlocul parcurilor verzi din Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075671,
+                        29.087366
+                  ]
+            },
+            {
+                  "name": "Abi Hatim Al Razi",
+                  "text": "Această moschee este un punct de întâlnire religios important pentru angajații din industria petrolieră din Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074713,
+                        29.084613
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Abass",
+                  "text": "Moscheea Abdullah Bin Abass din Ahmadi se distinge prin arhitectura sa simplă și funcțională.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080465,
+                        29.083711
+                  ]
+            },
+            {
+                  "name": "Messad Bin Khaithamah",
+                  "text": "Un lăcaș de rugăciune local în Ahmadi, care asigură nevoile spirituale în partea de vest a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.079324,
+                        29.080158
+                  ]
+            },
+            {
+                  "name": "Imam Ali Al-Ridha Mosque",
+                  "text": "Această moschee șiită din Ahmadi poartă numele Imamului Ali Al-Ridha și este distinctivă din punct de vedere arhitectural.",
+                  "category": "landmark",
+                  "coords": [
+                        48.07588,
+                        29.082594
+                  ]
+            },
+            {
+                  "name": "Saad Bin Zaid",
+                  "text": "O moschee în cartierul rezidențial din Ahmadi, numită după Saad Bin Zaid, care deservește vecinătatea.",
+                  "category": "landmark",
+                  "coords": [
+                        48.073823,
+                        29.077203
+                  ]
+            },
+            {
+                  "name": "Nafil Mehdi Ayed",
+                  "text": "Această moschee din Ahmadi este un exemplu de arhitectură sacră modernă în centrul industrial al Kuweitului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.081036,
+                        29.07509
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdulaziz",
+                  "text": "Moscheea Omar Bin Abdulaziz este un punct central pentru credincioși în inima orașului Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06351,
+                        29.079223
+                  ]
+            },
+            {
+                  "name": "Rifaa Bin Abdullmonther",
+                  "text": "O moschee simplă în Ahmadi, care se integrează armonios în structura rezidențială a angajaților KOC.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066851,
+                        29.0822
+                  ]
+            },
+            {
+                  "name": "Omar Bin Khatab",
+                  "text": "Moscheea numită după Omar Bin Khatab este unul dintre lăcașurile de cult islamice mai mari din Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.064,
+                        29.08805
+                  ]
+            },
+            {
+                  "name": "Abo Obida",
+                  "text": "O moschee locală care deservește comunitatea din orașul petrolier Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060919,
+                        29.091355
+                  ]
+            },
+            {
+                  "name": "Al Numan Bin Thabt",
+                  "text": "Un lăcaș de cult musulman situat în cartierele rezidențiale ale orașului petrolier Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060533,
+                        29.086072
+                  ]
+            },
+            {
+                  "name": "Aisha",
+                  "text": "Această moschee oferă un spațiu pentru rugăciunile zilnice ale credincioșilor din centrul Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.058704,
+                        29.092331
+                  ]
+            },
+            {
+                  "name": "Tariq Bin Ashiam Al Ashjaeai",
+                  "text": "Un centru religios pentru comunitatea musulmană din orașul planificat Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060527,
+                        29.099748
+                  ]
+            },
+            {
+                  "name": "Ali Bin Abi Taleb",
+                  "text": "O moschee tradițională în Al-Ahmadi, care se remarcă prin arhitectura sa simplă în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056341,
+                        29.101941
+                  ]
+            },
+            {
+                  "name": "Saad Bin Ubaid Al Nuaman",
+                  "text": "Un lăcaș de cult musulman situat în apropierea zonelor verzi din Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068162,
+                        29.106802
+                  ]
+            },
+            {
+                  "name": "Abu Baker",
+                  "text": "O moschee în inima orașului Al-Ahmadi, servind ca punct de întâlnire central pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        48.069839,
+                        29.096588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuwait Little Theatre (KLT)",
+                  "text": "Established in 1948, this community theatre in Ahmadi is renowned for its English-language productions.",
+                  "category": "cultural",
+                  "coords": [
+                        48.060345,
+                        29.090054
+                  ]
+            },
+            {
+                  "name": "Ahmadi Zoo",
+                  "text": "A small zoo in the heart of Ahmadi showcasing local animal species in a park-like setting.",
+                  "category": "recreational",
+                  "coords": [
+                        48.069392,
+                        29.08799
+                  ]
+            },
+            {
+                  "name": "Our Lady of Arabia Church",
+                  "text": "Consecrated in 1956, this church is a major Catholic center and pilgrimage site in Ahmadi.",
+                  "category": "religious",
+                  "coords": [
+                        48.067508,
+                        29.092185
+                  ]
+            },
+            {
+                  "name": "KOC Tent for Events & Exhibitions",
+                  "text": "A large venue managed by the Kuwait Oil Company used for events and cultural exhibitions in Ahmadi.",
+                  "category": "cultural",
+                  "coords": [
+                        48.067805,
+                        29.090833
+                  ]
+            },
+            {
+                  "name": "St Pauls Anglican Church",
+                  "text": "This Anglican church in Ahmadi has served the international Christian community of the oil town for decades.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066245,
+                        29.097071
+                  ]
+            },
+            {
+                  "name": "Abdullaziz Bin Baz",
+                  "text": "A mosque in Ahmadi named after a prominent scholar, centrally located within the residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074995,
+                        29.074688
+                  ]
+            },
+            {
+                  "name": "Al Ahmadi Al Khaber",
+                  "text": "This Muslim house of prayer is located in the planned oil city of Ahmadi near corporate headquarters.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068734,
+                        29.080081
+                  ]
+            },
+            {
+                  "name": "Al Ahmadi Resort Mosque",
+                  "text": "This mosque is situated near the recreation areas of Ahmadi, serving both visitors and residents.",
+                  "category": "landmark",
+                  "coords": [
+                        48.07218,
+                        29.092867
+                  ]
+            },
+            {
+                  "name": "Bilal Bin Rabah",
+                  "text": "A mosque in Ahmadi named after Bilal Bin Rabah, showcasing the region's classic architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        48.049494,
+                        29.08992
+                  ]
+            },
+            {
+                  "name": "Al Shmailan",
+                  "text": "The Al Shmailan Mosque is a peaceful place for prayer set amidst the green parks of Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.075671,
+                        29.087366
+                  ]
+            },
+            {
+                  "name": "Abi Hatim Al Razi",
+                  "text": "This mosque is a key religious gathering spot for the oil industry employees living in Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.074713,
+                        29.084613
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Abass",
+                  "text": "The Abdullah Bin Abass Mosque in Ahmadi is characterized by its simple and functional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.080465,
+                        29.083711
+                  ]
+            },
+            {
+                  "name": "Messad Bin Khaithamah",
+                  "text": "A local house of prayer in Ahmadi ensuring spiritual services in the western part of the town.",
+                  "category": "landmark",
+                  "coords": [
+                        48.079324,
+                        29.080158
+                  ]
+            },
+            {
+                  "name": "Imam Ali Al-Ridha Mosque",
+                  "text": "This Shia mosque in Ahmadi is named after Imam Ali Al-Ridha and is architecturally distinctive.",
+                  "category": "landmark",
+                  "coords": [
+                        48.07588,
+                        29.082594
+                  ]
+            },
+            {
+                  "name": "Saad Bin Zaid",
+                  "text": "A mosque in the residential quarter of Ahmadi named after Saad Bin Zaid, serving the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.073823,
+                        29.077203
+                  ]
+            },
+            {
+                  "name": "Nafil Mehdi Ayed",
+                  "text": "This mosque in Ahmadi is an example of modern sacred architecture in Kuwait's industrial hub.",
+                  "category": "landmark",
+                  "coords": [
+                        48.081036,
+                        29.07509
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdulaziz",
+                  "text": "The Omar Bin Abdulaziz Mosque is a central point for worshippers in the heart of Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.06351,
+                        29.079223
+                  ]
+            },
+            {
+                  "name": "Rifaa Bin Abdullmonther",
+                  "text": "A simple mosque in Ahmadi that fits harmoniously into the residential layout for KOC employees.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066851,
+                        29.0822
+                  ]
+            },
+            {
+                  "name": "Omar Bin Khatab",
+                  "text": "Named after Omar Bin Khatab, this mosque is one of the larger Islamic houses of prayer in Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.064,
+                        29.08805
+                  ]
+            },
+            {
+                  "name": "Abo Obida",
+                  "text": "A local mosque serving the residents of the oil-industrial garden city of Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060919,
+                        29.091355
+                  ]
+            },
+            {
+                  "name": "Al Numan Bin Thabt",
+                  "text": "A Muslim place of worship located in the residential quarters of the oil-focused city of Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060533,
+                        29.086072
+                  ]
+            },
+            {
+                  "name": "Aisha",
+                  "text": "This mosque provides a space for daily prayers for the faithful in the center of Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.058704,
+                        29.092331
+                  ]
+            },
+            {
+                  "name": "Tariq Bin Ashiam Al Ashjaeai",
+                  "text": "A religious center for the Muslim community in the planned settlement of Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.060527,
+                        29.099748
+                  ]
+            },
+            {
+                  "name": "Ali Bin Abi Taleb",
+                  "text": "A traditional mosque in Al-Ahmadi, notable for its simple architecture within the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.056341,
+                        29.101941
+                  ]
+            },
+            {
+                  "name": "Saad Bin Ubaid Al Nuaman",
+                  "text": "A Muslim place of worship situated near the parklands of Al-Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068162,
+                        29.106802
+                  ]
+            },
+            {
+                  "name": "Abu Baker",
+                  "text": "A mosque in the heart of Al-Ahmadi, serving as a central meeting point for worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.069839,
+                        29.096588
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KW-AH",
     coords: [48.0700, 29.0800],
@@ -819,7 +5400,232 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "magic-planet-kuwait-life-v2",
+    id: "magic-planet-kuwait-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuwait Zoo",
+                  "text": "Der Zoo von Kuwait ist ein weitläufiger zoologischer Park in Omariya, der über vielfältige Gehege und Ausstellungen zum Tierschutz verfügt.",
+                  "category": "recreational",
+                  "coords": [
+                        47.961079,
+                        29.300422
+                  ]
+            },
+            {
+                  "name": "Abdallah Al-Zeer Mosque",
+                  "text": "Die Abdallah-Al-Zeer-Moschee ist ein prominentes islamisches Gotteshaus, das den Gläubigen in der Region Magic Planet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.950123,
+                        29.299132
+                  ]
+            },
+            {
+                  "name": "Habib ibn Uday Mosque",
+                  "text": "Die Habib-ibn-Uday-Moschee ist ein spezielles islamisches Heiligtum, das Raum für tägliche muslimische Gebete in der Nähe von Magic Planet Kuwait bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.955641,
+                        29.299932
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Die Imam-Ali-Moschee ist eine islamische Kultstätte in der Nähe des Unterhaltungskomplexes Magic Planet in Kuwait.",
+                  "category": "religious",
+                  "coords": [
+                        47.957837,
+                        29.300232
+                  ]
+            },
+            {
+                  "name": "Friday Market",
+                  "text": "Der Freitagsmarkt ist ein geschäftiger Marktplatz in der Nähe des Magic Planet, bekannt für seine große Auswahl an lokalen Waren und Gebrauchtwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        47.954471,
+                        29.313265
+                  ]
+            },
+            {
+                  "name": "Kuwait Middle East Central Market Co.",
+                  "text": "Die Kuwait Middle East Central Market Co. betreibt in der Nähe des Magic Planet einen großen kommerziellen Marktplatz für den täglichen Einkaufsbedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        47.932254,
+                        29.319445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuwait Zoo",
+                  "text": "A Kuvaiti Állatkert egy kiterjedt zoológiai park Omarijában, amely változatos kifutókkal és állatvédelmi kiállításokkal rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        47.961079,
+                        29.300422
+                  ]
+            },
+            {
+                  "name": "Abdallah Al-Zeer Mosque",
+                  "text": "Az Abdallah Al-Zeer-mecset egy kiemelkedő iszlám istentiszteleti központ, amely a hívőket szolgálja a Magic Planet környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.950123,
+                        29.299132
+                  ]
+            },
+            {
+                  "name": "Habib ibn Uday Mosque",
+                  "text": "A Habib ibn Uday-mecset egy dedikált iszlám szentély, amely teret ad a napi muszlim imáknak a kuvaiti Magic Planet közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.955641,
+                        29.299932
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Az Imam Ali mecset egy iszlám imahely, amely a kuwaiti Magic Planet szórakoztató központ közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        47.957837,
+                        29.300232
+                  ]
+            },
+            {
+                  "name": "Friday Market",
+                  "text": "A Pénteki Piac egy nyüzsgő piactér a Magic Planet közelében, amely a helyi áruk és használt cikkek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        47.954471,
+                        29.313265
+                  ]
+            },
+            {
+                  "name": "Kuwait Middle East Central Market Co.",
+                  "text": "A Kuwait Middle East Central Market Co. egy nagy kereskedelmi piacteret üzemeltet a Magic Planet közelében, amely a mindennapi bevásárlási igényeket elégíti ki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.932254,
+                        29.319445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuwait Zoo",
+                  "text": "Grădina Zoologică din Kuweit este un parc zoologic vast din Omariya, cu diverse țarcuri și expoziții de conservare a animalelor.",
+                  "category": "recreational",
+                  "coords": [
+                        47.961079,
+                        29.300422
+                  ]
+            },
+            {
+                  "name": "Abdallah Al-Zeer Mosque",
+                  "text": "Moscheea Abdallah Al-Zeer este un centru de cult islamic proeminent care deservește credincioșii din zona Magic Planet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.950123,
+                        29.299132
+                  ]
+            },
+            {
+                  "name": "Habib ibn Uday Mosque",
+                  "text": "Moscheea Habib ibn Uday este un sanctuar islamic dedicat care oferă spațiu pentru rugăciunile musulmane zilnice lângă Magic Planet din Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        47.955641,
+                        29.299932
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Moscheea Imam Ali este un lăcaș de cult islamic situat lângă complexul de divertisment Magic Planet din Kuweit.",
+                  "category": "religious",
+                  "coords": [
+                        47.957837,
+                        29.300232
+                  ]
+            },
+            {
+                  "name": "Friday Market",
+                  "text": "Piața de Vineri este un bazar plin de viață lângă Magic Planet, cunoscut pentru varietatea sa extinsă de bunuri locale și articole la mâna a doua.",
+                  "category": "cultural",
+                  "coords": [
+                        47.954471,
+                        29.313265
+                  ]
+            },
+            {
+                  "name": "Kuwait Middle East Central Market Co.",
+                  "text": "Kuwait Middle East Central Market Co. operează o piață comercială mare care satisface nevoile zilnice de cumpărături în vecinătatea Magic Planet.",
+                  "category": "cultural",
+                  "coords": [
+                        47.932254,
+                        29.319445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuwait Zoo",
+                  "text": "Kuwait Zoo is an expansive zoological park in Omariya, featuring diverse enclosures and animal conservation exhibits.",
+                  "category": "recreational",
+                  "coords": [
+                        47.961079,
+                        29.300422
+                  ]
+            },
+            {
+                  "name": "Abdallah Al-Zeer Mosque",
+                  "text": "Abdallah Al-Zeer Mosque is a prominent Islamic worship center serving the faithful in the Magic Planet area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.950123,
+                        29.299132
+                  ]
+            },
+            {
+                  "name": "Habib ibn Uday Mosque",
+                  "text": "Habib ibn Uday Mosque is a dedicated Islamic sanctuary offering space for daily Muslim prayers near Magic Planet Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        47.955641,
+                        29.299932
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "The Imam Ali Mosque is an Islamic place of worship situated near the Magic Planet entertainment complex in Kuwait.",
+                  "category": "religious",
+                  "coords": [
+                        47.957837,
+                        29.300232
+                  ]
+            },
+            {
+                  "name": "Friday Market",
+                  "text": "The Friday Market is a bustling marketplace near Magic Planet, known for its extensive variety of local goods and second-hand items.",
+                  "category": "cultural",
+                  "coords": [
+                        47.954471,
+                        29.313265
+                  ]
+            },
+            {
+                  "name": "Kuwait Middle East Central Market Co.",
+                  "text": "The Kuwait Middle East Central Market Co. operates a large commercial marketplace catering to everyday shopping needs in the vicinity of Magic Planet.",
+                  "category": "cultural",
+                  "coords": [
+                        47.932254,
+                        29.319445
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "KW-FA",
     coords: [47.9360, 29.3020],
@@ -887,7 +5693,988 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "jamal-abdulnasser-park-life-v2",
+    id: "jamal-abdulnasser-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shaha Abdulatif Al Duhaim",
+                  "text": "Eine Moschee eingebettet in das Erholungsgrün nahe dem Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.967784,
+                        29.305379
+                  ]
+            },
+            {
+                  "name": "Moodi Mubarakh Al Sabah",
+                  "text": "Ein islamisches Gotteshaus, das einen ruhigen Rückzugsort in der Nähe des Jamal Abdulnasser Parks bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97459,
+                        29.307488
+                  ]
+            },
+            {
+                  "name": "Suliman Khalifuh Alshaahin al ghanim",
+                  "text": "Eine Gemeindemoschee, die günstig neben den schattigen Wegen des Jamal Abdulnasser Parks liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.970867,
+                        29.314556
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Mashari",
+                  "text": "Eine lokale Moschee, die städtischen Gläubigen nur einen kurzen Spaziergang vom Jamal Abdulnasser Park entfernt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.969377,
+                        29.310586
+                  ]
+            },
+            {
+                  "name": "Suliman Ali AlOmayr",
+                  "text": "Eine städtische Moschee, die tägliche islamische Gebete direkt neben den Freizeitbereichen des Jamal Abdulnasser Parks anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965323,
+                        29.313782
+                  ]
+            },
+            {
+                  "name": "mua'az Bin Jabal Mosque",
+                  "text": "Ein Ort der täglichen islamischen Andacht direkt am Rande des Jamal Abdulnasser Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        47.962181,
+                        29.320675
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Alwan Mosque",
+                  "text": "Ein ruhiges Moscheegebäude, das sich nahtlos in die lebendige Kulisse des Jamal Abdulnasser Parks einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.967631,
+                        29.322325
+                  ]
+            },
+            {
+                  "name": "Abdullah ibn Mas'ud Mosque",
+                  "text": "Ein islamisches Heiligtum für die lokale Nachbarschaftsgemeinde, das sich neben dem Jamal Abdulnasser Park befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980364,
+                        29.322726
+                  ]
+            },
+            {
+                  "name": "Al-Mailam Mosque",
+                  "text": "Eine markante Moscheeanlage in der Nähe des städtischen Grüns und der Wege des Jamal Abdulnasser Parks.",
+                  "category": "religious",
+                  "coords": [
+                        47.973731,
+                        29.324175
+                  ]
+            },
+            {
+                  "name": "Ahmad Muhammad Al-Farsi Mosque",
+                  "text": "Eine Nachbarschaftsmoschee, die täglich Gläubige direkt an den Erholungsräumen des Jamal Abdulnasser Parks willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.974997,
+                        29.32856
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Tarkit Mosque",
+                  "text": "Ein alltäglicher Gebetsort für die muslimische Gemeinde in der Nähe des Eingangs zum Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.962889,
+                        29.327241
+                  ]
+            },
+            {
+                  "name": "Al-Adsani Mosque",
+                  "text": "Eine leicht zugängliche islamische Moschee in günstiger Nähe zu den Freiflächen des Jamal Abdulnasser Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        47.96785,
+                        29.333919
+                  ]
+            },
+            {
+                  "name": "Abdullah Abdulaziz Al Sadhan",
+                  "text": "Ein islamisches Gotteshaus, das sich nahtlos in die Nähe des Gemeindezentrums am Jamal Abdulnasser Park einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97482,
+                        29.334188
+                  ]
+            },
+            {
+                  "name": "Al Abduljaleel",
+                  "text": "Eine friedliche lokale Moschee, die regelmäßige Gebetsdienste direkt neben dem Jamal Abdulnasser Park anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.978077,
+                        29.333312
+                  ]
+            },
+            {
+                  "name": "Abdallah Al-Shayi' Mosque",
+                  "text": "Diese Moschee in der Nähe des Jamal Abdulnasser Parks dient der lokalen muslimischen Gemeinde als friedlicher Ort für die täglichen Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        47.980727,
+                        29.331858
+                  ]
+            },
+            {
+                  "name": "Saud Al-Rashid Mosque",
+                  "text": "Ein ruhiger islamischer Gebetsort in der Nähe der Grünflächen des Jamal Abdulnasser Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982657,
+                        29.326693
+                  ]
+            },
+            {
+                  "name": "Hamad Al-Saqer Mosque",
+                  "text": "Diese Nachbarschaftsmoschee in der Nähe des Jamal Abdulnasser Parks weist für die Region typische traditionelle architektonische Elemente auf.",
+                  "category": "religious",
+                  "coords": [
+                        47.987189,
+                        29.322755
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Hmada Mosque",
+                  "text": "Diese lokale Moschee in der Gegend um den Jamal Abdulnasser Park bietet spirituelle Führung und tägliche Gebetsdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        47.995216,
+                        29.324475
+                  ]
+            },
+            {
+                  "name": "Aisa Abdullah Abdulaziz Al-Otham Mosque",
+                  "text": "Diese Moschee ist ein wichtiges Gemeindezentrum für Muslime und steht in der Nähe der lebhaften Umgebung des Jamal Abdulnasser Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992327,
+                        29.310107
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Mosque",
+                  "text": "Dieser islamische Ort ist bei regelmäßigen Gläubigen für seine ruhige Atmosphäre bekannt und dient als spiritueller Anker in der Nähe des Jamal Abdulnasser Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        47.99228,
+                        29.314055
+                  ]
+            },
+            {
+                  "name": "Abdulmohsen Abdulaziz Al-Babten Mosque",
+                  "text": "Diese einladende Moschee wurde für die lokalen Gläubigen entworfen und ist Teil der Wohnstruktur in der Nähe des Jamal Abdulnasser Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980674,
+                        29.314669
+                  ]
+            },
+            {
+                  "name": "Ali Al-Klaib Mosque",
+                  "text": "Diese Moschee in der Nähe des Jamal Abdulnasser Parks ruft die umliegende Gemeinde regelmäßig zum Gemeinschaftsgebet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98448,
+                        29.313672
+                  ]
+            },
+            {
+                  "name": "Hesa Mosque",
+                  "text": "Ein bescheidener, aber bedeutender islamischer Gebetsort, der für Familien, die den Jamal Abdulnasser Park besuchen, günstig gelegen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988468,
+                        29.308556
+                  ]
+            },
+            {
+                  "name": "Badria Mohammad Al-Wagayan Mosque",
+                  "text": "Diese elegant strukturierte Moschee dient als zentraler Punkt für das islamische Gemeindeleben in der Nähe des Jamal Abdulnasser Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98105,
+                        29.307545
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mansour Mosque",
+                  "text": "Eine einladende lokale Moschee, die in der Nähe des Jamal Abdulnasser Parks einen friedlichen Zufluchtsort für Reflexion und tägliches Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992616,
+                        29.297267
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Abdulmihsin Al-Mutairi Mosque",
+                  "text": "Diese Moschee unterstützt die spirituellen Bedürfnisse der Bewohner in der Nähe des Jamal Abdulnasser Parks und verfügt über ein erkennbares Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        47.987372,
+                        29.296977
+                  ]
+            },
+            {
+                  "name": "Ghanima Al-Wugyan & Sa'ad Al-Adsani Mosque",
+                  "text": "Ein engagiertes Zentrum für islamische Gottesdienste, das sich harmonisch in die Nachbarschaft rund um den Jamal Abdulnasser Park einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.986268,
+                        29.29223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shaha Abdulatif Al Duhaim",
+                  "text": "Mecset, amely a Dzsamál Abdulnasszer park melletti rekreációs zöldövezetben bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        47.967784,
+                        29.305379
+                  ]
+            },
+            {
+                  "name": "Moodi Mubarakh Al Sabah",
+                  "text": "Iszlám istentiszteleti hely, amely csendes menedéket kínál a Dzsamál Abdulnasszer park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97459,
+                        29.307488
+                  ]
+            },
+            {
+                  "name": "Suliman Khalifuh Alshaahin al ghanim",
+                  "text": "Közösségi mecset, amely kényelmesen helyezkedik el a Dzsamál Abdulnasszer park árnyékos ösvényei mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        47.970867,
+                        29.314556
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Mashari",
+                  "text": "Helyi mecset, amely a városi hívőket szolgálja ki, mindössze egy rövid sétára a Dzsamál Abdulnasszer parktól.",
+                  "category": "landmark",
+                  "coords": [
+                        47.969377,
+                        29.310586
+                  ]
+            },
+            {
+                  "name": "Suliman Ali AlOmayr",
+                  "text": "Városi mecset, amely napi iszlám imákat kínál közvetlenül a Dzsamál Abdulnasszer park szabadidős területei mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965323,
+                        29.313782
+                  ]
+            },
+            {
+                  "name": "mua'az Bin Jabal Mosque",
+                  "text": "A mindennapi iszlám áhítat helye, amely közvetlenül a Dzsamál Abdulnasszer park szélén található.",
+                  "category": "landmark",
+                  "coords": [
+                        47.962181,
+                        29.320675
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Alwan Mosque",
+                  "text": "Nyugodt mecsetépület, amely zökkenőmentesen illeszkedik a Dzsamál Abdulnasszer park élénk hátteréhez.",
+                  "category": "landmark",
+                  "coords": [
+                        47.967631,
+                        29.322325
+                  ]
+            },
+            {
+                  "name": "Abdullah ibn Mas'ud Mosque",
+                  "text": "Iszlám szentély a helyi szomszédsági közösség számára, a Dzsamál Abdulnasszer park mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980364,
+                        29.322726
+                  ]
+            },
+            {
+                  "name": "Al-Mailam Mosque",
+                  "text": "Egy jellegzetes mecset létesítmény, amelyet a Dzsamál Abdulnasszer park városi növényzete és ösvényei közelében hoztak létre.",
+                  "category": "religious",
+                  "coords": [
+                        47.973731,
+                        29.324175
+                  ]
+            },
+            {
+                  "name": "Ahmad Muhammad Al-Farsi Mosque",
+                  "text": "Szomszédsági mecset, amely a mindennapi imádkozókat a Dzsamál Abdulnasszer park rekreációs terei mellett várja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.974997,
+                        29.32856
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Tarkit Mosque",
+                  "text": "A muszlim közösség mindennapi imádkozóhelye, amely a Dzsamál Abdulnasszer park bejárata közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        47.962889,
+                        29.327241
+                  ]
+            },
+            {
+                  "name": "Al-Adsani Mosque",
+                  "text": "Könnyen megközelíthető iszlám mecset, amely kényelmesen helyezkedik el a Dzsamál Abdulnasszer park nyitott terei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.96785,
+                        29.333919
+                  ]
+            },
+            {
+                  "name": "Abdullah Abdulaziz Al Sadhan",
+                  "text": "Iszlám istentiszteleti ház, amely zökkenőmentesen illeszkedik a Dzsamál Abdulnasszer park közösségi központjának közelébe.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97482,
+                        29.334188
+                  ]
+            },
+            {
+                  "name": "Al Abduljaleel",
+                  "text": "Békés helyi mecset, amely rendszeres istentiszteleteket kínál a Dzsamál Abdulnasszer park szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.978077,
+                        29.333312
+                  ]
+            },
+            {
+                  "name": "Abdallah Al-Shayi' Mosque",
+                  "text": "A Jamal Abdulnasser Park közelében található mecset békés teret kínál a helyi muszlim közösség napi imáihoz.",
+                  "category": "religious",
+                  "coords": [
+                        47.980727,
+                        29.331858
+                  ]
+            },
+            {
+                  "name": "Saud Al-Rashid Mosque",
+                  "text": "Egy nyugodt iszlám istentiszteleti hely, amely a Jamal Abdulnasser Park zöldterületeihez közel fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982657,
+                        29.326693
+                  ]
+            },
+            {
+                  "name": "Hamad Al-Saqer Mosque",
+                  "text": "Ez a Jamal Abdulnasser Park közelében található környékbeli mecset a régióra jellemző hagyományos építészeti elemekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        47.987189,
+                        29.322755
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Hmada Mosque",
+                  "text": "A Jamal Abdulnasser Park környékén megbúvó helyi mecset spirituális útmutatást és napi imákat kínál a híveknek.",
+                  "category": "landmark",
+                  "coords": [
+                        47.995216,
+                        29.324475
+                  ]
+            },
+            {
+                  "name": "Aisa Abdullah Abdulaziz Al-Otham Mosque",
+                  "text": "A muszlimok fontos közösségi központjaként működő mecset a Jamal Abdulnasser Park nyüzsgő környezetének közelében áll.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992327,
+                        29.310107
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Mosque",
+                  "text": "A rendszeres imádkozók körében csendes atmoszférájáról ismert iszlám helyszín a Jamal Abdulnasser Park közelében nyújt spirituális menedéket.",
+                  "category": "landmark",
+                  "coords": [
+                        47.99228,
+                        29.314055
+                  ]
+            },
+            {
+                  "name": "Abdulmohsen Abdulaziz Al-Babten Mosque",
+                  "text": "A helyi hívek befogadására tervezett, barátságos mecset a Jamal Abdulnasser Park melletti lakóövezet szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980674,
+                        29.314669
+                  ]
+            },
+            {
+                  "name": "Ali Al-Klaib Mosque",
+                  "text": "A Jamal Abdulnasser Park közelében álló mecset rendszeresen közös imára hívja a környező közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98448,
+                        29.313672
+                  ]
+            },
+            {
+                  "name": "Hesa Mosque",
+                  "text": "Szerény, mégis jelentős iszlám istentiszteleti hely, amely kényelmes helyen található a Jamal Abdulnasser Parkot látogató családok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988468,
+                        29.308556
+                  ]
+            },
+            {
+                  "name": "Badria Mohammad Al-Wagayan Mosque",
+                  "text": "Ez az elegáns felépítésű mecset az iszlám közösségi élet fókuszpontjaként szolgál a Jamal Abdulnasser Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98105,
+                        29.307545
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mansour Mosque",
+                  "text": "Egy hívogató helyi mecset, amely békés menedéket nyújt az elmélkedéshez és a napi imákhoz a Jamal Abdulnasser Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992616,
+                        29.297267
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Abdulmihsin Al-Mutairi Mosque",
+                  "text": "A Jamal Abdulnasser Park melletti lakosok spirituális igényeit kielégítő mecset egy jól felismerhető minarettel is büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.987372,
+                        29.296977
+                  ]
+            },
+            {
+                  "name": "Ghanima Al-Wugyan & Sa'ad Al-Adsani Mosque",
+                  "text": "Az iszlám istentisztelet dedikált központja, amely zökkenőmentesen illeszkedik a Jamal Abdulnasser Parkot körülvevő lakókörnyezetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        47.986268,
+                        29.29223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shaha Abdulatif Al Duhaim",
+                  "text": "O moschee cuibărită printre zonele verzi de agrement din apropierea Parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.967784,
+                        29.305379
+                  ]
+            },
+            {
+                  "name": "Moodi Mubarakh Al Sabah",
+                  "text": "Un lăcaș de cult islamic care oferă o retragere liniștită aproape de Parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97459,
+                        29.307488
+                  ]
+            },
+            {
+                  "name": "Suliman Khalifuh Alshaahin al ghanim",
+                  "text": "O moschee comunitară situată convenabil lângă aleile umbrite ale Parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.970867,
+                        29.314556
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Mashari",
+                  "text": "O moschee locală care servește credincioșii urbani, aflată la o scurtă plimbare de Parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.969377,
+                        29.310586
+                  ]
+            },
+            {
+                  "name": "Suliman Ali AlOmayr",
+                  "text": "O moschee urbană care oferă rugăciuni islamice zilnice direct lângă zonele de agrement ale Parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965323,
+                        29.313782
+                  ]
+            },
+            {
+                  "name": "mua'az Bin Jabal Mosque",
+                  "text": "Un loc de devoțiune islamică zilnică situat chiar la marginea Parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.962181,
+                        29.320675
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Alwan Mosque",
+                  "text": "O clădire liniștită a moscheii, amplasată perfect pe fundalul vibrant al Parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.967631,
+                        29.322325
+                  ]
+            },
+            {
+                  "name": "Abdullah ibn Mas'ud Mosque",
+                  "text": "Un sanctuar islamic pentru comunitatea locală din cartier, situat lângă Parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980364,
+                        29.322726
+                  ]
+            },
+            {
+                  "name": "Al-Mailam Mosque",
+                  "text": "O moschee distinctă înființată în apropierea zonelor verzi urbane și a aleilor din Parcul Jamal Abdulnasser.",
+                  "category": "religious",
+                  "coords": [
+                        47.973731,
+                        29.324175
+                  ]
+            },
+            {
+                  "name": "Ahmad Muhammad Al-Farsi Mosque",
+                  "text": "O moschee de cartier care întâmpină credincioșii zilnici chiar lângă spațiile de agrement din Parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.974997,
+                        29.32856
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Tarkit Mosque",
+                  "text": "Un loc de rugăciune de zi cu zi pentru comunitatea musulmană, situat aproape de intrarea în Parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.962889,
+                        29.327241
+                  ]
+            },
+            {
+                  "name": "Al-Adsani Mosque",
+                  "text": "O moschee islamică ușor accesibilă, situată convenabil în apropierea spațiilor deschise ale Parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.96785,
+                        29.333919
+                  ]
+            },
+            {
+                  "name": "Abdullah Abdulaziz Al Sadhan",
+                  "text": "O casă de cult islamic poziționată perfect lângă centrul comunitar al Parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97482,
+                        29.334188
+                  ]
+            },
+            {
+                  "name": "Al Abduljaleel",
+                  "text": "O moschee locală liniștită care oferă servicii de rugăciune regulate adiacent Parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.978077,
+                        29.333312
+                  ]
+            },
+            {
+                  "name": "Abdallah Al-Shayi' Mosque",
+                  "text": "Situată lângă parcul Jamal Abdulnasser, această moschee oferă un spațiu pașnic pentru rugăciunile zilnice ale comunității musulmane locale.",
+                  "category": "religious",
+                  "coords": [
+                        47.980727,
+                        29.331858
+                  ]
+            },
+            {
+                  "name": "Saud Al-Rashid Mosque",
+                  "text": "Un lăcaș de cult islamic senin situat aproape de spațiile verzi din parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982657,
+                        29.326693
+                  ]
+            },
+            {
+                  "name": "Hamad Al-Saqer Mosque",
+                  "text": "Această moschee de cartier din apropierea parcului Jamal Abdulnasser prezintă elemente arhitecturale tradiționale caracteristice regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        47.987189,
+                        29.322755
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Hmada Mosque",
+                  "text": "Oferind îndrumare spirituală și servicii de rugăciune zilnice, această moschee locală este amplasată în zona din jurul parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.995216,
+                        29.324475
+                  ]
+            },
+            {
+                  "name": "Aisa Abdullah Abdulaziz Al-Otham Mosque",
+                  "text": "Un centru comunitar esențial pentru musulmani, această moschee se află în apropierea împrejurimilor vibrante ale parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992327,
+                        29.310107
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Mosque",
+                  "text": "Cunoscut de credincioșii obișnuiți pentru atmosfera sa liniștită, acest sit islamic este o ancoră spirituală lângă parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.99228,
+                        29.314055
+                  ]
+            },
+            {
+                  "name": "Abdulmohsen Abdulaziz Al-Babten Mosque",
+                  "text": "Proiectată pentru a găzdui credincioșii locali, această moschee primitoare face parte din țesutul rezidențial din apropierea parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980674,
+                        29.314669
+                  ]
+            },
+            {
+                  "name": "Ali Al-Klaib Mosque",
+                  "text": "Situată în apropiere de parcul Jamal Abdulnasser, această moschee cheamă în mod regulat comunitatea din jur la rugăciunile congregaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98448,
+                        29.313672
+                  ]
+            },
+            {
+                  "name": "Hesa Mosque",
+                  "text": "Un lăcaș de cult islamic modest, dar semnificativ, situat convenabil pentru familiile care vizitează parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988468,
+                        29.308556
+                  ]
+            },
+            {
+                  "name": "Badria Mohammad Al-Wagayan Mosque",
+                  "text": "Această moschee structurată elegant servește drept punct central pentru viața comunității islamice de lângă parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98105,
+                        29.307545
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mansour Mosque",
+                  "text": "O moschee locală primitoare care oferă un sanctuar pașnic pentru reflecție și rugăciune zilnică lângă parcul Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992616,
+                        29.297267
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Abdulmihsin Al-Mutairi Mosque",
+                  "text": "Sprijinind nevoile spirituale ale rezidenților din apropierea parcului Jamal Abdulnasser, această moschee are un minaret ușor de recunoscut.",
+                  "category": "landmark",
+                  "coords": [
+                        47.987372,
+                        29.296977
+                  ]
+            },
+            {
+                  "name": "Ghanima Al-Wugyan & Sa'ad Al-Adsani Mosque",
+                  "text": "Un centru dedicat cultului islamic, care se integrează armonios în cartierul din jurul parcului Jamal Abdulnasser.",
+                  "category": "landmark",
+                  "coords": [
+                        47.986268,
+                        29.29223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shaha Abdulatif Al Duhaim",
+                  "text": "A mosque nestled amongst the recreational greenery near Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.967784,
+                        29.305379
+                  ]
+            },
+            {
+                  "name": "Moodi Mubarakh Al Sabah",
+                  "text": "An Islamic place of worship offering a quiet retreat close to Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97459,
+                        29.307488
+                  ]
+            },
+            {
+                  "name": "Suliman Khalifuh Alshaahin al ghanim",
+                  "text": "A community mosque conveniently situated next to the shaded pathways of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.970867,
+                        29.314556
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Mashari",
+                  "text": "A local mosque serving urban worshippers just a short walk from Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.969377,
+                        29.310586
+                  ]
+            },
+            {
+                  "name": "Suliman Ali AlOmayr",
+                  "text": "An urban mosque offering daily Islamic prayers directly beside the leisure areas of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.965323,
+                        29.313782
+                  ]
+            },
+            {
+                  "name": "mua'az Bin Jabal Mosque",
+                  "text": "A place of daily Islamic devotion situated right on the edge of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.962181,
+                        29.320675
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Alwan Mosque",
+                  "text": "A tranquil mosque building set seamlessly against the vibrant backdrop of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.967631,
+                        29.322325
+                  ]
+            },
+            {
+                  "name": "Abdullah ibn Mas'ud Mosque",
+                  "text": "An Islamic sanctuary for the local neighborhood community, located next to Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980364,
+                        29.322726
+                  ]
+            },
+            {
+                  "name": "Al-Mailam Mosque",
+                  "text": "A distinct mosque facility established near the urban greenery and paths of Jamal Abdulnasser Park.",
+                  "category": "religious",
+                  "coords": [
+                        47.973731,
+                        29.324175
+                  ]
+            },
+            {
+                  "name": "Ahmad Muhammad Al-Farsi Mosque",
+                  "text": "A neighborhood mosque welcoming daily worshippers right by the recreational spaces of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.974997,
+                        29.32856
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Tarkit Mosque",
+                  "text": "An everyday place of prayer for the Muslim community located close to the entrance of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.962889,
+                        29.327241
+                  ]
+            },
+            {
+                  "name": "Al-Adsani Mosque",
+                  "text": "An easily accessible Islamic mosque situated conveniently near the open spaces of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.96785,
+                        29.333919
+                  ]
+            },
+            {
+                  "name": "Abdullah Abdulaziz Al Sadhan",
+                  "text": "A house of Islamic worship positioned seamlessly near the community hub of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.97482,
+                        29.334188
+                  ]
+            },
+            {
+                  "name": "Al Abduljaleel",
+                  "text": "A peaceful local mosque offering regular prayer services adjacent to Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.978077,
+                        29.333312
+                  ]
+            },
+            {
+                  "name": "Abdallah Al-Shayi' Mosque",
+                  "text": "Serving the local Muslim community near Jamal Abdulnasser Park, this mosque offers a peaceful space for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        47.980727,
+                        29.331858
+                  ]
+            },
+            {
+                  "name": "Saud Al-Rashid Mosque",
+                  "text": "A serene Islamic place of worship situated close to the green spaces of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.982657,
+                        29.326693
+                  ]
+            },
+            {
+                  "name": "Hamad Al-Saqer Mosque",
+                  "text": "This neighborhood mosque near Jamal Abdulnasser Park features traditional architectural elements characteristic of the region.",
+                  "category": "religious",
+                  "coords": [
+                        47.987189,
+                        29.322755
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Hmada Mosque",
+                  "text": "Providing spiritual guidance and daily prayer services, this local mosque is nestled in the area around Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.995216,
+                        29.324475
+                  ]
+            },
+            {
+                  "name": "Aisa Abdullah Abdulaziz Al-Otham Mosque",
+                  "text": "An essential community center for Muslims, this mosque stands near the vibrant environs of Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992327,
+                        29.310107
+                  ]
+            },
+            {
+                  "name": "Abdulaziz Mosque",
+                  "text": "Known to regular worshipers for its quiet atmosphere, this Islamic site is a spiritual anchor near Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.99228,
+                        29.314055
+                  ]
+            },
+            {
+                  "name": "Abdulmohsen Abdulaziz Al-Babten Mosque",
+                  "text": "Designed to accommodate the local faithful, this welcoming mosque is part of the residential fabric near Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.980674,
+                        29.314669
+                  ]
+            },
+            {
+                  "name": "Ali Al-Klaib Mosque",
+                  "text": "Standing close to Jamal Abdulnasser Park, this mosque regularly calls the surrounding community to congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98448,
+                        29.313672
+                  ]
+            },
+            {
+                  "name": "Hesa Mosque",
+                  "text": "A modest yet significant Islamic place of worship, located conveniently for families visiting Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.988468,
+                        29.308556
+                  ]
+            },
+            {
+                  "name": "Badria Mohammad Al-Wagayan Mosque",
+                  "text": "This elegantly structured mosque serves as a focal point for Islamic community life near Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.98105,
+                        29.307545
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mansour Mosque",
+                  "text": "An inviting local mosque offering a peaceful sanctuary for reflection and daily prayer near Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.992616,
+                        29.297267
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Abdulmihsin Al-Mutairi Mosque",
+                  "text": "Supporting the spiritual needs of residents near Jamal Abdulnasser Park, this mosque features a recognizable minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        47.987372,
+                        29.296977
+                  ]
+            },
+            {
+                  "name": "Ghanima Al-Wugyan & Sa'ad Al-Adsani Mosque",
+                  "text": "A dedicated center for Islamic worship that integrates smoothly into the neighborhood surrounding Jamal Abdulnasser Park.",
+                  "category": "landmark",
+                  "coords": [
+                        47.986268,
+                        29.29223
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KW-KU",
     coords: [47.9900, 29.3240],
@@ -1023,7 +6810,484 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "salwa-park-life-v2",
+    id: "salwa-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sharifa Mosque",
+                  "text": "Ein muslimischer Gebetssaal für die lokale Gemeinde in der Nähe des Salwa-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        48.052228,
+                        29.306792
+                  ]
+            },
+            {
+                  "name": "Al Haj Mosque",
+                  "text": "Eine islamische Moschee, die einen ruhigen Ort der Anbetung in der Nähe des Salwa-Parks bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.052153,
+                        29.30133
+                  ]
+            },
+            {
+                  "name": "Al Haj Abdullah Shoaib Mosque",
+                  "text": "Ein muslimisches Gotteshaus in der Nachbarschaft in der Nähe des Salwa-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        48.053226,
+                        29.294679
+                  ]
+            },
+            {
+                  "name": "Mansour Mosque",
+                  "text": "Ein islamisches Heiligtum in der Nähe der Grünflächen des Salwa-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068713,
+                        29.289099
+                  ]
+            },
+            {
+                  "name": "Msallam al-Omaira Mosque",
+                  "text": "Eine traditionelle muslimische Moschee, in der tägliche Gebete in der Nähe des Salwa-Parks abgehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.070226,
+                        29.299968
+                  ]
+            },
+            {
+                  "name": "Yousef Al-Zibin Mosque",
+                  "text": "Ein islamisches Gotteshaus in der Nähe des Gemeindezentrums im Salwa-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055862,
+                        29.300453
+                  ]
+            },
+            {
+                  "name": "Al-Nu'maan ibn Muqrin Hussainiya",
+                  "text": "Ein islamischer Versammlungssaal im Viertel rund um den Salwa-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.057877,
+                        29.313597
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mulaifi Mosque",
+                  "text": "Die Muhammad-Al-Mulaifi-Moschee ist ein islamisches Gotteshaus, das der Gemeinde in Salwa dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.064643,
+                        29.314739
+                  ]
+            },
+            {
+                  "name": "Abdulsamad Abdullah Marafi Mosque",
+                  "text": "Die Abdulsamad-Abdullah-Marafi-Moschee bietet der muslimischen Gemeinde in Salwa einen eigenen Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066912,
+                        29.303359
+                  ]
+            },
+            {
+                  "name": "Abdullah ibn Amr ibn Al-Aas Mosque",
+                  "text": "Die Abdullah ibn Amr ibn Al-Aas Moschee in Salwa ist ein lokaler islamischer Ort, an dem sich die Gläubigen zu den täglichen Gebeten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077344,
+                        29.31183
+                  ]
+            },
+            {
+                  "name": "Abdulmuhsin Al-Khurafi Mosque",
+                  "text": "Die Abdulmuhsin-Al-Khurafi-Moschee ist ein islamisches Religionszentrum, das den Bewohnern von Salwa regelmäßige Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.087437,
+                        29.312442
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "Die Mohammed-Moschee ist ein wichtiges islamisches Gotteshaus für das umliegende Viertel Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.076939,
+                        29.300266
+                  ]
+            },
+            {
+                  "name": "Kumaikh Al-Azmi Mosque",
+                  "text": "Die Kumaikh-Al-Azmi-Moschee bietet der lokalen muslimischen Bevölkerung in Salwa Platz für ihre traditionellen religiösen Pflichten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.076179,
+                        29.296488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sharifa Mosque",
+                  "text": "Egy muszlim imaterem, amely a helyi közösséget szolgálja a Salwa Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.052228,
+                        29.306792
+                  ]
+            },
+            {
+                  "name": "Al Haj Mosque",
+                  "text": "Egy iszlám mecset, amely nyugodt teret biztosít az istentisztelethez a Salwa Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.052153,
+                        29.30133
+                  ]
+            },
+            {
+                  "name": "Al Haj Abdullah Shoaib Mosque",
+                  "text": "Egy környékbeli muszlim istentiszteleti hely a Salwa Park szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.053226,
+                        29.294679
+                  ]
+            },
+            {
+                  "name": "Mansour Mosque",
+                  "text": "Iszlám szentély a Salwa Park zöldterületeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068713,
+                        29.289099
+                  ]
+            },
+            {
+                  "name": "Msallam al-Omaira Mosque",
+                  "text": "Egy hagyományos muszlim mecset, amely napi imákat kínál a Salwa Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.070226,
+                        29.299968
+                  ]
+            },
+            {
+                  "name": "Yousef Al-Zibin Mosque",
+                  "text": "Iszlám istentiszteleti központ, amely a Salwa Park közösségi központja közelében helyezzkedik el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055862,
+                        29.300453
+                  ]
+            },
+            {
+                  "name": "Al-Nu'maan ibn Muqrin Hussainiya",
+                  "text": "Iszlám gyülekezeti terem a Salwa Park körüli negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.057877,
+                        29.313597
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mulaifi Mosque",
+                  "text": "A Muhammad Al-Mulaifi mecset egy iszlám istentiszteleti hely, amely a salwai közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.064643,
+                        29.314739
+                  ]
+            },
+            {
+                  "name": "Abdulsamad Abdullah Marafi Mosque",
+                  "text": "Az Abdulsamad Abdullah Marafi mecset dedikált imateret biztosít a salwai muszlim gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066912,
+                        29.303359
+                  ]
+            },
+            {
+                  "name": "Abdullah ibn Amr ibn Al-Aas Mosque",
+                  "text": "A Salwában található Abdullah ibn Amr ibn Al-Aas mecset egy helyi iszlám helyszín, amely a hívőket gyűjti össze a napi imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077344,
+                        29.31183
+                  ]
+            },
+            {
+                  "name": "Abdulmuhsin Al-Khurafi Mosque",
+                  "text": "Az Abdulmuhsin Al-Khurafi mecset egy iszlám vallási központ, amely rendszeres istentiszteleteket kínál Salwa lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.087437,
+                        29.312442
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "A Mohammed mecset alapvető iszlám istentiszteleti helyként szolgál a környező salwai negyed számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.076939,
+                        29.300266
+                  ]
+            },
+            {
+                  "name": "Kumaikh Al-Azmi Mosque",
+                  "text": "A Kumaikh Al-Azmi mecset a helyi muszlim lakosságot fogadja Salwában hagyományos vallási kötelességeik elvégzésére.",
+                  "category": "landmark",
+                  "coords": [
+                        48.076179,
+                        29.296488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sharifa Mosque",
+                  "text": "O sală de rugăciune musulmană care deservește comunitatea locală din apropiere de Parcul Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.052228,
+                        29.306792
+                  ]
+            },
+            {
+                  "name": "Al Haj Mosque",
+                  "text": "O moschee islamică care oferă un spațiu senin pentru închinare aproape de Parcul Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.052153,
+                        29.30133
+                  ]
+            },
+            {
+                  "name": "Al Haj Abdullah Shoaib Mosque",
+                  "text": "Un lăcaș de cult musulman de cartier situat în vecinătatea Parcului Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.053226,
+                        29.294679
+                  ]
+            },
+            {
+                  "name": "Mansour Mosque",
+                  "text": "Un sanctuar islamic situat în apropierea spațiilor verzi din Parcul Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068713,
+                        29.289099
+                  ]
+            },
+            {
+                  "name": "Msallam al-Omaira Mosque",
+                  "text": "O moschee musulmană tradițională care oferă rugăciuni zilnice în apropiere de Parcul Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.070226,
+                        29.299968
+                  ]
+            },
+            {
+                  "name": "Yousef Al-Zibin Mosque",
+                  "text": "Un centru de cult islamic situat aproape de centrul comunitar din Parcul Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055862,
+                        29.300453
+                  ]
+            },
+            {
+                  "name": "Al-Nu'maan ibn Muqrin Hussainiya",
+                  "text": "O sală de congregație islamică situată în cartierul din jurul Parcului Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.057877,
+                        29.313597
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mulaifi Mosque",
+                  "text": "Moscheea Muhammad Al-Mulaifi este un lăcaș de cult islamic care deservește comunitatea din Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.064643,
+                        29.314739
+                  ]
+            },
+            {
+                  "name": "Abdulsamad Abdullah Marafi Mosque",
+                  "text": "Moscheea Abdulsamad Abdullah Marafi oferă un spațiu de rugăciune dedicat congregației musulmane din Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066912,
+                        29.303359
+                  ]
+            },
+            {
+                  "name": "Abdullah ibn Amr ibn Al-Aas Mosque",
+                  "text": "Situată în Salwa, Moscheea Abdullah ibn Amr ibn Al-Aas este un sit islamic local care adună credincioșii pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077344,
+                        29.31183
+                  ]
+            },
+            {
+                  "name": "Abdulmuhsin Al-Khurafi Mosque",
+                  "text": "Moscheea Abdulmuhsin Al-Khurafi este un centru religios islamic care oferă servicii regulate locuitorilor din Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.087437,
+                        29.312442
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "Moscheea Mohammed se află ca un lăcaș de cult islamic esențial pentru cartierul înconjurător Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.076939,
+                        29.300266
+                  ]
+            },
+            {
+                  "name": "Kumaikh Al-Azmi Mosque",
+                  "text": "Moscheea Kumaikh Al-Azmi găzduiește populația musulmană locală din Salwa pentru îndatoririle lor religioase tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.076179,
+                        29.296488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sharifa Mosque",
+                  "text": "A Muslim prayer hall serving the local community near Salwa Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.052228,
+                        29.306792
+                  ]
+            },
+            {
+                  "name": "Al Haj Mosque",
+                  "text": "An Islamic mosque providing a serene space for worship close to Salwa Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.052153,
+                        29.30133
+                  ]
+            },
+            {
+                  "name": "Al Haj Abdullah Shoaib Mosque",
+                  "text": "A neighborhood Muslim place of worship situated in the vicinity of Salwa Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.053226,
+                        29.294679
+                  ]
+            },
+            {
+                  "name": "Mansour Mosque",
+                  "text": "An Islamic sanctuary located near the green spaces of Salwa Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.068713,
+                        29.289099
+                  ]
+            },
+            {
+                  "name": "Msallam al-Omaira Mosque",
+                  "text": "A traditional Muslim mosque offering daily prayers near Salwa Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.070226,
+                        29.299968
+                  ]
+            },
+            {
+                  "name": "Yousef Al-Zibin Mosque",
+                  "text": "An Islamic worship center situated close to the community hub of Salwa Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.055862,
+                        29.300453
+                  ]
+            },
+            {
+                  "name": "Al-Nu'maan ibn Muqrin Hussainiya",
+                  "text": "An Islamic congregation hall located in the neighborhood around Salwa Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.057877,
+                        29.313597
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Mulaifi Mosque",
+                  "text": "The Muhammad Al-Mulaifi Mosque is an Islamic place of worship serving the community in Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.064643,
+                        29.314739
+                  ]
+            },
+            {
+                  "name": "Abdulsamad Abdullah Marafi Mosque",
+                  "text": "The Abdulsamad Abdullah Marafi Mosque provides a dedicated prayer space for the Muslim congregation in Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.066912,
+                        29.303359
+                  ]
+            },
+            {
+                  "name": "Abdullah ibn Amr ibn Al-Aas Mosque",
+                  "text": "Located in Salwa, the Abdullah ibn Amr ibn Al-Aas Mosque is a local Islamic site gathering the faithful for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.077344,
+                        29.31183
+                  ]
+            },
+            {
+                  "name": "Abdulmuhsin Al-Khurafi Mosque",
+                  "text": "The Abdulmuhsin Al-Khurafi Mosque is an Islamic religious center offering regular services to the residents of Salwa.",
+                  "category": "landmark",
+                  "coords": [
+                        48.087437,
+                        29.312442
+                  ]
+            },
+            {
+                  "name": "Mohammed Mosque",
+                  "text": "The Mohammed Mosque stands as an essential Islamic place of worship for the surrounding Salwa neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.076939,
+                        29.300266
+                  ]
+            },
+            {
+                  "name": "Kumaikh Al-Azmi Mosque",
+                  "text": "Kumaikh Al-Azmi Mosque accommodates the local Muslim population in Salwa for their traditional religious duties.",
+                  "category": "landmark",
+                  "coords": [
+                        48.076179,
+                        29.296488
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KW-HA",
     coords: [48.0640, 29.2940],
@@ -1091,7 +7355,1456 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "fahaheel-park-life-v2",
+    id: "fahaheel-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Flow House Kuwait",
+                  "text": "Ein Wasserpark in Fahaheel mit Wellenbecken und speziellen Bereichen für das Flowboarding.",
+                  "category": "recreational",
+                  "coords": [
+                        48.132096,
+                        29.132614
+                  ]
+            },
+            {
+                  "name": "Mubarak Saad Al Jeri",
+                  "text": "Eine lokale Moschee mit einem schlanken Minarett inmitten der Wohnblocks von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.129206,
+                        29.129844
+                  ]
+            },
+            {
+                  "name": "Kalthoum Bin Al Husain",
+                  "text": "Ein modernes islamisches Gebetshaus im belebten Küstenstädtchen Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093929,
+                        29.126413
+                  ]
+            },
+            {
+                  "name": "Kab Bin Umair Al Gfhari",
+                  "text": "Diese Moschee bietet den Bewohnern des Ahmadi-Gouvernements zentrale Räumlichkeiten für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099528,
+                        29.124717
+                  ]
+            },
+            {
+                  "name": "Farwa Bin Amru Al Ansari",
+                  "text": "Eine kleine Gemeindemoschee, die diskret in die rasterförmigen Straßenzüge von Fahaheel eingebunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100642,
+                        29.127619
+                  ]
+            },
+            {
+                  "name": "Muhammad Aied Al Eiban",
+                  "text": "Eine Nachbarschaftsmoschee in Fahaheel, die durch ihre markante Kuppelarchitektur auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105189,
+                        29.126902
+                  ]
+            },
+            {
+                  "name": "Tamim Bin Warqaa",
+                  "text": "Eine traditionelle Moschee, die Gebetsdienste für die lokale Bevölkerung im urbanen Zentrum von Fahaheel leistet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112888,
+                        29.125064
+                  ]
+            },
+            {
+                  "name": "Abu hmaid Al Saadi",
+                  "text": "Diese Moschee dient als spiritueller Treffpunkt im dicht besiedelten Stadtgebiet von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.11157,
+                        29.130133
+                  ]
+            },
+            {
+                  "name": "Ismael",
+                  "text": "Eine schlicht gestaltete lokale Moschee im Herzen des geschäftigen Distrikts Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.127601,
+                        29.132553
+                  ]
+            },
+            {
+                  "name": "The Tabi Tawus Al Yamani",
+                  "text": "Die nach einem frühen islamischen Gelehrten benannte Moschee ist ein wichtiger religiöser Ort in Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124806,
+                        29.128979
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Jubair",
+                  "text": "Diese Moschee trägt den Namen eines Gefährten des Propheten und liegt im Wohngebiet von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.1202,
+                        29.126217
+                  ]
+            },
+            {
+                  "name": "Al Sahaba",
+                  "text": "Die Al Sahaba Moschee, deren Name 'Die Gefährten' bedeutet, ist ein zentraler Anlaufpunkt für Gläubige in Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124843,
+                        29.125396
+                  ]
+            },
+            {
+                  "name": "Talal Khlifa Al Jeri",
+                  "text": "Ein zeitgenössisches islamisches Gotteshaus, das die lokale Gemeinde im Süden Kuwaits unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117477,
+                        29.123829
+                  ]
+            },
+            {
+                  "name": "Saleh Lahmes Al Mari & his wife",
+                  "text": "Eine durch eine lokale Familie gestiftete Moschee, die im suburbanen Raster von Fahaheel liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112644,
+                        29.12088
+                  ]
+            },
+            {
+                  "name": "Obaid Al Qamari & Hawa Sahn",
+                  "text": "Eine zu Ehren ihrer Stifter benannte lokale Moschee im Herzen des Wohnviertels von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.110532,
+                        29.123166
+                  ]
+            },
+            {
+                  "name": "Handab Bin Abdullah Al Bajali",
+                  "text": "Ein religiöses Zentrum in Fahaheel, einem bedeutenden Handels- und Wohnknotenpunkt südlich von Kuwait-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107159,
+                        29.123605
+                  ]
+            },
+            {
+                  "name": "Mishaal Mayah Jazza Al-Mutairi Mosque",
+                  "text": "Diese Moschee in Fahaheel ist an ihrem markanten Minarett erkennbar, das das lokale Straßenbild prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100866,
+                        29.122533
+                  ]
+            },
+            {
+                  "name": "Abu Lebabh Al Ansari Mosque",
+                  "text": "Eine bescheidene Moschee, die Gebetsräume für die Anwohner in den ruhigeren Straßen von Fahaheel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124908,
+                        29.094346
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Nesaeai",
+                  "text": "Die Moschee ist dem berühmten Hadith-Sammler Al-Nasa'i gewidmet und liegt im Distrikt Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125455,
+                        29.088567
+                  ]
+            },
+            {
+                  "name": "Moudi Hamid Mohammed Al-Otaibi",
+                  "text": "Ein moderner Sakralbau in der Ahmadi-Region, unweit der Küstenzentren.",
+                  "category": "landmark",
+                  "coords": [
+                        48.126994,
+                        29.087495
+                  ]
+            },
+            {
+                  "name": "Al Asfur",
+                  "text": "Eine Moschee im geschäftigen Stadtgefüge von Fahaheel, nahe der Küste des Persischen Golfs.",
+                  "category": "landmark",
+                  "coords": [
+                        48.123634,
+                        29.086437
+                  ]
+            },
+            {
+                  "name": "Abdullah Al Jasim Al Dabbus",
+                  "text": "Diese markante Moschee in Fahaheel zeichnet sich durch ihren traditionellen kuwaitischen Architekturstil aus.",
+                  "category": "landmark",
+                  "coords": [
+                        48.119884,
+                        29.085579
+                  ]
+            },
+            {
+                  "name": "Rubaei Bin Omar",
+                  "text": "Ein lokales islamisches Gebetshaus, das die religiösen Bedürfnisse des Fahaheel-Viertels erfüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.118609,
+                        29.087925
+                  ]
+            },
+            {
+                  "name": "Muniera Al Hajri",
+                  "text": "Eine nach einer Wohltäterin benannte Gemeindemoschee in den Wohnvierteln von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121275,
+                        29.088225
+                  ]
+            },
+            {
+                  "name": "Saqer Hamod Al Saqer",
+                  "text": "Ein moderner Gebetsort für die lokale Bevölkerung im Süden des Ahmadi-Gouvernements.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117477,
+                        29.084268
+                  ]
+            },
+            {
+                  "name": "Khabab bin Al Art",
+                  "text": "Diese nach einer frühen islamischen Persönlichkeit benannte Moschee liegt im Herzen von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115578,
+                        29.078399
+                  ]
+            },
+            {
+                  "name": "Khaled Salem Al-Masoud and his wife, in name Ahmed Al-Masoud",
+                  "text": "Eine Gemeindemoschee in Fahaheel, die im Namen eines lokalen Wohltäters errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.11843,
+                        29.079244
+                  ]
+            },
+            {
+                  "name": "Abu Dhar Al-Ghafari",
+                  "text": "Eine dem Gefährten des Propheten gewidmete Moschee im urbanen Raster von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121832,
+                        29.07642
+                  ]
+            },
+            {
+                  "name": "Saad Al Jadan Al Hajri",
+                  "text": "Ein religiöser Versammlungsort für die täglichen Gebete in der Küstenstadt Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.119171,
+                        29.07832
+                  ]
+            },
+            {
+                  "name": "Abu Mosa Al Ashaari",
+                  "text": "Eine Nachbarschaftsmoschee, die wesentliche religiöse Dienste für die Einwohner von Fahaheel leistet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.1203,
+                        29.081643
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Salam",
+                  "text": "Diese Moschee in Fahaheel ist nach Abdullah Bin Salam benannt, einem bedeutenden Gefährten des Propheten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.122625,
+                        29.080212
+                  ]
+            },
+            {
+                  "name": "Mezid Halal Al Otebi B 8",
+                  "text": "Eine lokale Moschee im Wohnblock 8 von Fahaheel, die der örtlichen Gemeinschaft als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.126464,
+                        29.082192
+                  ]
+            },
+            {
+                  "name": "Salem Al Ali",
+                  "text": "Eine Gemeinschaftsmoschee in Fahaheel, die nach einem Mitglied der kuwaitischen Herrscherfamilie benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125055,
+                        29.077197
+                  ]
+            },
+            {
+                  "name": "Al Habdan",
+                  "text": "Diese Moschee in Fahaheel zeichnet sich durch ihr traditionelles Minarett inmitten der modernen Wohnbebauung aus.",
+                  "category": "landmark",
+                  "coords": [
+                        48.123477,
+                        29.074451
+                  ]
+            },
+            {
+                  "name": "Al-Zabrqan bin Badr",
+                  "text": "Eine Nachbarschaftsmoschee in Fahaheel, benannt nach Al-Zabrqan bin Badr, einem Gefährten des Propheten.",
+                  "category": "landmark",
+                  "coords": [
+                        48.118731,
+                        29.072486
+                  ]
+            },
+            {
+                  "name": "Salem Al Kradi Al dosri",
+                  "text": "Eine im südlichen Teil von Fahaheel gelegene Moschee, die durch ihre schlichte, sandfarbene Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125461,
+                        29.072061
+                  ]
+            },
+            {
+                  "name": "Abdullrhaman Al Merdas",
+                  "text": "Diese Moschee dient als religiöses Zentrum für die Bewohner der ruhigen Seitenstraßen von Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117393,
+                        29.075848
+                  ]
+            },
+            {
+                  "name": "Tariq Bin Ziad",
+                  "text": "Benannt nach Tariq Bin Ziad, dem Feldherrn, der Al-Andalus eroberte, ist diese Moschee ein lokaler Orientierungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113612,
+                        29.075332
+                  ]
+            },
+            {
+                  "name": "Ahmad Bader Al Houti",
+                  "text": "Eine moderne Gebetsstätte in Fahaheel, die für ihre gepflegten Außenanlagen und das helle Interieur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.130051,
+                        29.08642
+                  ]
+            },
+            {
+                  "name": "Masjid Habdaan",
+                  "text": "Die Habdaan-Moschee in Fahaheel ist für ihr markantes weißes Minarett bekannt, das weithin sichtbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.128428,
+                        29.103028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Flow House Kuwait",
+                  "text": "Fahaheeli vízipark hullámmedencékkel és speciális flowboarding pályákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        48.132096,
+                        29.132614
+                  ]
+            },
+            {
+                  "name": "Mubarak Saad Al Jeri",
+                  "text": "Helyi mecset karcsú minarettel Fahaheel lakótömbjeinek közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.129206,
+                        29.129844
+                  ]
+            },
+            {
+                  "name": "Kalthoum Bin Al Husain",
+                  "text": "Modern iszlám imaház Fahaheel nyüzsgő tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093929,
+                        29.126413
+                  ]
+            },
+            {
+                  "name": "Kab Bin Umair Al Gfhari",
+                  "text": "Ez a mecset központi helyszínt biztosít a napi imákhoz az Ahmadi kormányzóság lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099528,
+                        29.124717
+                  ]
+            },
+            {
+                  "name": "Farwa Bin Amru Al Ansari",
+                  "text": "Kisméretű közösségi mecset, amely észrevétlenül simul Fahaheel négyzethálós utcáiba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100642,
+                        29.127619
+                  ]
+            },
+            {
+                  "name": "Muhammad Aied Al Eiban",
+                  "text": "Fahaheeli szomszédsági mecset, amely jellegzetes kupolás építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105189,
+                        29.126902
+                  ]
+            },
+            {
+                  "name": "Tamim Bin Warqaa",
+                  "text": "Hagyományos mecset, amely imaszolgálatot lát el a helyi lakosság számára Fahaheel városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112888,
+                        29.125064
+                  ]
+            },
+            {
+                  "name": "Abu hmaid Al Saadi",
+                  "text": "Ez a mecset spirituális találkozóhelyként szolgál Fahaheel sűrűn lakott városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.11157,
+                        29.130133
+                  ]
+            },
+            {
+                  "name": "Ismael",
+                  "text": "Egyszerű kialakítású helyi mecset a nyüzsgő Fahaheel negyed szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.127601,
+                        29.132553
+                  ]
+            },
+            {
+                  "name": "The Tabi Tawus Al Yamani",
+                  "text": "A korai iszlám tudósról elnevezett mecset Fahaheel egyik fontos vallási helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124806,
+                        29.128979
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Jubair",
+                  "text": "Ez a mecset a Próféta egyik társának nevét viseli, és Fahaheel lakóövezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.1202,
+                        29.126217
+                  ]
+            },
+            {
+                  "name": "Al Sahaba",
+                  "text": "Az Al Sahaba mecset, amelynek neve „A társakat” jelenti, a hívők központi találkozóhelye Fahaheelben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124843,
+                        29.125396
+                  ]
+            },
+            {
+                  "name": "Talal Khlifa Al Jeri",
+                  "text": "Kortárs iszlám istentiszteleti hely, amely a dél-kuvaiti helyi közösséget támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117477,
+                        29.123829
+                  ]
+            },
+            {
+                  "name": "Saleh Lahmes Al Mari & his wife",
+                  "text": "Egy helyi család által adományozott mecset Fahaheel elővárosi hálózatában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112644,
+                        29.12088
+                  ]
+            },
+            {
+                  "name": "Obaid Al Qamari & Hawa Sahn",
+                  "text": "Az alapítói tiszteletére elnevezett helyi mecset Fahaheel lakónegyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.110532,
+                        29.123166
+                  ]
+            },
+            {
+                  "name": "Handab Bin Abdullah Al Bajali",
+                  "text": "Vallási központ Fahaheelben, amely Kuvaitvárostól délre fekvő jelentős kereskedelmi és lakóövezeti csomópont.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107159,
+                        29.123605
+                  ]
+            },
+            {
+                  "name": "Mishaal Mayah Jazza Al-Mutairi Mosque",
+                  "text": "Ez a fahaheeli mecset jellegzetes minaretjéről ismerhető fel, amely meghatározza a környék utcaképét.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100866,
+                        29.122533
+                  ]
+            },
+            {
+                  "name": "Abu Lebabh Al Ansari Mosque",
+                  "text": "Szerény mecset, amely imaszobákat biztosít a lakók számára Fahaheel csendesebb utcáiban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124908,
+                        29.094346
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Nesaeai",
+                  "text": "A mecsetet a híres hadísz-gyűjtőnek, Al-Naszainak szentelték, és Fahaheel negyedében található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125455,
+                        29.088567
+                  ]
+            },
+            {
+                  "name": "Moudi Hamid Mohammed Al-Otaibi",
+                  "text": "Modern szakrális épület az Ahmadi régióban, nem messze a tengerparti központoktól.",
+                  "category": "landmark",
+                  "coords": [
+                        48.126994,
+                        29.087495
+                  ]
+            },
+            {
+                  "name": "Al Asfur",
+                  "text": "Mecset Fahaheel nyüzsgő városi szövetében, a Perzsa-öböl partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.123634,
+                        29.086437
+                  ]
+            },
+            {
+                  "name": "Abdullah Al Jasim Al Dabbus",
+                  "text": "Ez a jelentős fahaheeli mecset a hagyományos kuvaiti építészeti stílusával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.119884,
+                        29.085579
+                  ]
+            },
+            {
+                  "name": "Rubaei Bin Omar",
+                  "text": "Helyi iszlám imaház, amely a fahaheeli negyed vallási igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.118609,
+                        29.087925
+                  ]
+            },
+            {
+                  "name": "Muniera Al Hajri",
+                  "text": "Egy jótevőről elnevezett közösségi mecset Fahaheel lakónegyedeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121275,
+                        29.088225
+                  ]
+            },
+            {
+                  "name": "Saqer Hamod Al Saqer",
+                  "text": "Modern imahely a helyi lakosság számára az Ahmadi kormányzóság déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117477,
+                        29.084268
+                  ]
+            },
+            {
+                  "name": "Khabab bin Al Art",
+                  "text": "Ez a korai iszlám személyiségről elnevezett mecset Fahaheel szívében található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115578,
+                        29.078399
+                  ]
+            },
+            {
+                  "name": "Khaled Salem Al-Masoud and his wife, in name Ahmed Al-Masoud",
+                  "text": "Közösségi mecset Fahaheelben, amelyet egy helyi jótevő nevében emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        48.11843,
+                        29.079244
+                  ]
+            },
+            {
+                  "name": "Abu Dhar Al-Ghafari",
+                  "text": "A Próféta társának szentelt mecset Fahaheel városi hálózatában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121832,
+                        29.07642
+                  ]
+            },
+            {
+                  "name": "Saad Al Jadan Al Hajri",
+                  "text": "Vallási gyülekezőhely a napi imákhoz Fahaheel tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.119171,
+                        29.07832
+                  ]
+            },
+            {
+                  "name": "Abu Mosa Al Ashaari",
+                  "text": "Szomszédsági mecset, amely alapvető vallási szolgáltatásokat nyújt Fahaheel lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.1203,
+                        29.081643
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Salam",
+                  "text": "Ez a fahaheeli mecset Abdullah Bin Salamról, a Próféta egyik jelentős társáról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        48.122625,
+                        29.080212
+                  ]
+            },
+            {
+                  "name": "Mezid Halal Al Otebi B 8",
+                  "text": "Helyi mecset Fahaheel 8-as lakótömbjében, amely a helyi közösség imahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.126464,
+                        29.082192
+                  ]
+            },
+            {
+                  "name": "Salem Al Ali",
+                  "text": "Közösségi mecset Fahaheelben, amelyet a kuvaiti uralkodócsalád egyik tagjáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125055,
+                        29.077197
+                  ]
+            },
+            {
+                  "name": "Al Habdan",
+                  "text": "Ez a fahaheeli mecset a modern lakóépületek között elhelyezkedő, hagyományos minaretjéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        48.123477,
+                        29.074451
+                  ]
+            },
+            {
+                  "name": "Al-Zabrqan bin Badr",
+                  "text": "Fahaheeli szomszédsági mecset, amelyet Al-Zabrqan bin Badrról, a Próféta egyik társáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        48.118731,
+                        29.072486
+                  ]
+            },
+            {
+                  "name": "Salem Al Kradi Al dosri",
+                  "text": "Fahaheel déli részén található mecset, amely egyszerű, homokszínű építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125461,
+                        29.072061
+                  ]
+            },
+            {
+                  "name": "Abdullrhaman Al Merdas",
+                  "text": "Ez a mecset vallási központként szolgál Fahaheel csendes mellékutcáinak lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117393,
+                        29.075848
+                  ]
+            },
+            {
+                  "name": "Tariq Bin Ziad",
+                  "text": "Az Al-Andalus-t meghódító hadvezérről, Tariq Bin Ziadról elnevezett mecset helyi tájékozódási pont.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113612,
+                        29.075332
+                  ]
+            },
+            {
+                  "name": "Ahmad Bader Al Houti",
+                  "text": "Modern imahely Fahaheelben, amely gondozott udvaráról és világos belső teréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.130051,
+                        29.08642
+                  ]
+            },
+            {
+                  "name": "Masjid Habdaan",
+                  "text": "A fahaheeli Habdaan-mecset jellegzetes fehér minaretjéről ismert, amely messziről is jól látható.",
+                  "category": "landmark",
+                  "coords": [
+                        48.128428,
+                        29.103028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Flow House Kuwait",
+                  "text": "Un parc acvatic în Fahaheel, dotat cu bazine cu valuri și zone speciale pentru flowboarding.",
+                  "category": "recreational",
+                  "coords": [
+                        48.132096,
+                        29.132614
+                  ]
+            },
+            {
+                  "name": "Mubarak Saad Al Jeri",
+                  "text": "O moschee locală cu un minaret zvelt, situată între blocurile de locuințe din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.129206,
+                        29.129844
+                  ]
+            },
+            {
+                  "name": "Kalthoum Bin Al Husain",
+                  "text": "O casă de rugăciune islamică modernă în orașul de coastă plin de viață Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093929,
+                        29.126413
+                  ]
+            },
+            {
+                  "name": "Kab Bin Umair Al Gfhari",
+                  "text": "Această moschee oferă facilități centrale pentru rugăciunile zilnice locuitorilor din guvernoratul Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099528,
+                        29.124717
+                  ]
+            },
+            {
+                  "name": "Farwa Bin Amru Al Ansari",
+                  "text": "O mică moschee comunitară, integrată discret în rețeaua de străzi a districtului Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100642,
+                        29.127619
+                  ]
+            },
+            {
+                  "name": "Muhammad Aied Al Eiban",
+                  "text": "O moschee de cartier din Fahaheel, care se remarcă prin arhitectura sa cu cupolă distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105189,
+                        29.126902
+                  ]
+            },
+            {
+                  "name": "Tamim Bin Warqaa",
+                  "text": "O moschee tradițională care oferă servicii religioase populației locale din centrul urban Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112888,
+                        29.125064
+                  ]
+            },
+            {
+                  "name": "Abu hmaid Al Saadi",
+                  "text": "Această moschee servește ca punct de întâlnire spiritual în zona urbană dens populată din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.11157,
+                        29.130133
+                  ]
+            },
+            {
+                  "name": "Ismael",
+                  "text": "O moschee locală cu un design simplu, situată în inima districtului aglomerat Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.127601,
+                        29.132553
+                  ]
+            },
+            {
+                  "name": "The Tabi Tawus Al Yamani",
+                  "text": "Moscheea numită după un savant islamic timpuriu este un sit religios important în Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124806,
+                        29.128979
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Jubair",
+                  "text": "Această moschee poartă numele unui însoțitor al Profetului și se află în zona rezidențială din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.1202,
+                        29.126217
+                  ]
+            },
+            {
+                  "name": "Al Sahaba",
+                  "text": "Moscheea Al Sahaba, al cărei nume înseamnă „Însoțitorii”, este un punct central pentru credincioșii din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124843,
+                        29.125396
+                  ]
+            },
+            {
+                  "name": "Talal Khlifa Al Jeri",
+                  "text": "Un lăcaș de cult islamic contemporan care deservește comunitatea locală din sudul Kuweitului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117477,
+                        29.123829
+                  ]
+            },
+            {
+                  "name": "Saleh Lahmes Al Mari & his wife",
+                  "text": "O moschee donată de o familie locală, situată în rețeaua suburbană a districtului Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112644,
+                        29.12088
+                  ]
+            },
+            {
+                  "name": "Obaid Al Qamari & Hawa Sahn",
+                  "text": "O moschee locală numită în onoarea ctitorilor săi, în inima cartierului rezidențial din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.110532,
+                        29.123166
+                  ]
+            },
+            {
+                  "name": "Handab Bin Abdullah Al Bajali",
+                  "text": "Un centru religios în Fahaheel, un nod comercial și rezidențial important la sud de Kuweit City.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107159,
+                        29.123605
+                  ]
+            },
+            {
+                  "name": "Mishaal Mayah Jazza Al-Mutairi Mosque",
+                  "text": "Această moschee din Fahaheel este recognoscibilă după minaretul său distinctiv care domină peisajul stradal local.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100866,
+                        29.122533
+                  ]
+            },
+            {
+                  "name": "Abu Lebabh Al Ansari Mosque",
+                  "text": "O moschee modestă care oferă spații de rugăciune pentru rezidenți pe străzile mai liniștite din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124908,
+                        29.094346
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Nesaeai",
+                  "text": "Moscheea este dedicată celebrului colecționar de hadith-uri Al-Nasa'i și se află în districtul Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125455,
+                        29.088567
+                  ]
+            },
+            {
+                  "name": "Moudi Hamid Mohammed Al-Otaibi",
+                  "text": "Un edificiu sacru modern în regiunea Ahmadi, situat nu departe de centrele de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.126994,
+                        29.087495
+                  ]
+            },
+            {
+                  "name": "Al Asfur",
+                  "text": "O moschee în țesutul urban aglomerat din Fahaheel, aproape de coasta Golfului Persic.",
+                  "category": "landmark",
+                  "coords": [
+                        48.123634,
+                        29.086437
+                  ]
+            },
+            {
+                  "name": "Abdullah Al Jasim Al Dabbus",
+                  "text": "Această moschee proeminentă din Fahaheel se remarcă prin stilul său arhitectural tradițional kuwaitian.",
+                  "category": "landmark",
+                  "coords": [
+                        48.119884,
+                        29.085579
+                  ]
+            },
+            {
+                  "name": "Rubaei Bin Omar",
+                  "text": "O casă de rugăciune islamică locală care deservește nevoile religioase ale cartierului Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.118609,
+                        29.087925
+                  ]
+            },
+            {
+                  "name": "Muniera Al Hajri",
+                  "text": "O moschee comunitară numită după o binefăcătoare, în zonele rezidențiale din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121275,
+                        29.088225
+                  ]
+            },
+            {
+                  "name": "Saqer Hamod Al Saqer",
+                  "text": "Un loc de rugăciune modern pentru populația locală din sudul guvernoratului Ahmadi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117477,
+                        29.084268
+                  ]
+            },
+            {
+                  "name": "Khabab bin Al Art",
+                  "text": "Această moschee, numită după o figură islamică timpurie, este situată în inima districtului Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115578,
+                        29.078399
+                  ]
+            },
+            {
+                  "name": "Khaled Salem Al-Masoud and his wife, in name Ahmed Al-Masoud",
+                  "text": "O moschee comunitară în Fahaheel, ridicată în numele unui binefăcător local.",
+                  "category": "landmark",
+                  "coords": [
+                        48.11843,
+                        29.079244
+                  ]
+            },
+            {
+                  "name": "Abu Dhar Al-Ghafari",
+                  "text": "O moschee dedicată însoțitorului Profetului, situată în rețeaua urbană din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121832,
+                        29.07642
+                  ]
+            },
+            {
+                  "name": "Saad Al Jadan Al Hajri",
+                  "text": "Un loc de adunare religioasă pentru rugăciunile zilnice în orașul de coastă Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.119171,
+                        29.07832
+                  ]
+            },
+            {
+                  "name": "Abu Mosa Al Ashaari",
+                  "text": "O moschee de cartier care oferă servicii religioase esențiale pentru locuitorii din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.1203,
+                        29.081643
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Salam",
+                  "text": "Această moschee din Fahaheel poartă numele lui Abdullah Bin Salam, un companion important al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.122625,
+                        29.080212
+                  ]
+            },
+            {
+                  "name": "Mezid Halal Al Otebi B 8",
+                  "text": "O moschee locală în blocul rezidențial 8 din Fahaheel, care servește ca loc de rugăciune pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        48.126464,
+                        29.082192
+                  ]
+            },
+            {
+                  "name": "Salem Al Ali",
+                  "text": "O moschee comunitară din Fahaheel, numită după un membru al familiei conducătoare din Kuweit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125055,
+                        29.077197
+                  ]
+            },
+            {
+                  "name": "Al Habdan",
+                  "text": "Această moschee din Fahaheel se remarcă prin minaretul său tradițional situat printre clădirile rezidențiale moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        48.123477,
+                        29.074451
+                  ]
+            },
+            {
+                  "name": "Al-Zabrqan bin Badr",
+                  "text": "O moschee de cartier din Fahaheel, numită după Al-Zabrqan bin Badr, un companion al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.118731,
+                        29.072486
+                  ]
+            },
+            {
+                  "name": "Salem Al Kradi Al dosri",
+                  "text": "O moschee situată în partea de sud a Fahaheel, care se remarcă prin arhitectura sa simplă, de culoarea nisipului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125461,
+                        29.072061
+                  ]
+            },
+            {
+                  "name": "Abdullrhaman Al Merdas",
+                  "text": "Această moschee servește drept centru religios pentru locuitorii de pe străzile lăturalnice liniștite din Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117393,
+                        29.075848
+                  ]
+            },
+            {
+                  "name": "Tariq Bin Ziad",
+                  "text": "Numită după Tariq Bin Ziad, generalul care a cucerit Al-Andalus, această moschee este un punct de reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113612,
+                        29.075332
+                  ]
+            },
+            {
+                  "name": "Ahmad Bader Al Houti",
+                  "text": "Un loc de rugăciune modern în Fahaheel, cunoscut pentru exteriorul său bine întreținut și interiorul luminos.",
+                  "category": "landmark",
+                  "coords": [
+                        48.130051,
+                        29.08642
+                  ]
+            },
+            {
+                  "name": "Masjid Habdaan",
+                  "text": "Moscheea Habdaan din Fahaheel este cunoscută pentru minaretul său alb distinctiv, vizibil de la distanță.",
+                  "category": "landmark",
+                  "coords": [
+                        48.128428,
+                        29.103028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flow House Kuwait",
+                  "text": "A water park in Fahaheel featuring wave pools and dedicated areas for flowboarding.",
+                  "category": "recreational",
+                  "coords": [
+                        48.132096,
+                        29.132614
+                  ]
+            },
+            {
+                  "name": "Mubarak Saad Al Jeri",
+                  "text": "A local mosque with a slender minaret set amidst the residential blocks of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.129206,
+                        29.129844
+                  ]
+            },
+            {
+                  "name": "Kalthoum Bin Al Husain",
+                  "text": "A modern Islamic prayer house in the bustling coastal town of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.093929,
+                        29.126413
+                  ]
+            },
+            {
+                  "name": "Kab Bin Umair Al Gfhari",
+                  "text": "This mosque provides central facilities for daily prayers to the residents of the Ahmadi Governorate.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099528,
+                        29.124717
+                  ]
+            },
+            {
+                  "name": "Farwa Bin Amru Al Ansari",
+                  "text": "A small community mosque discreetly integrated into the grid-like streets of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100642,
+                        29.127619
+                  ]
+            },
+            {
+                  "name": "Muhammad Aied Al Eiban",
+                  "text": "A neighborhood mosque in Fahaheel, distinguished by its prominent dome architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.105189,
+                        29.126902
+                  ]
+            },
+            {
+                  "name": "Tamim Bin Warqaa",
+                  "text": "A traditional mosque providing prayer services for the local population in the urban center of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112888,
+                        29.125064
+                  ]
+            },
+            {
+                  "name": "Abu hmaid Al Saadi",
+                  "text": "This mosque serves as a spiritual meeting point in the densely populated urban area of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.11157,
+                        29.130133
+                  ]
+            },
+            {
+                  "name": "Ismael",
+                  "text": "A simply designed local mosque located in the heart of the bustling Fahaheel district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.127601,
+                        29.132553
+                  ]
+            },
+            {
+                  "name": "The Tabi Tawus Al Yamani",
+                  "text": "The mosque, named after an early Islamic scholar, is an important religious site in Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124806,
+                        29.128979
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Jubair",
+                  "text": "This mosque bears the name of a companion of the Prophet and is located in the residential area of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.1202,
+                        29.126217
+                  ]
+            },
+            {
+                  "name": "Al Sahaba",
+                  "text": "The Al Sahaba mosque, whose name means 'The Companions', is a central focal point for worshippers in Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124843,
+                        29.125396
+                  ]
+            },
+            {
+                  "name": "Talal Khlifa Al Jeri",
+                  "text": "A contemporary Islamic house of worship supporting the local community in southern Kuwait.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117477,
+                        29.123829
+                  ]
+            },
+            {
+                  "name": "Saleh Lahmes Al Mari & his wife",
+                  "text": "A mosque donated by a local family, situated within the suburban grid of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112644,
+                        29.12088
+                  ]
+            },
+            {
+                  "name": "Obaid Al Qamari & Hawa Sahn",
+                  "text": "A local mosque named in honor of its founders in the heart of Fahaheel's residential quarter.",
+                  "category": "landmark",
+                  "coords": [
+                        48.110532,
+                        29.123166
+                  ]
+            },
+            {
+                  "name": "Handab Bin Abdullah Al Bajali",
+                  "text": "A religious center in Fahaheel, a major commercial and residential hub south of Kuwait City.",
+                  "category": "landmark",
+                  "coords": [
+                        48.107159,
+                        29.123605
+                  ]
+            },
+            {
+                  "name": "Mishaal Mayah Jazza Al-Mutairi Mosque",
+                  "text": "This mosque in Fahaheel is recognizable by its prominent minaret that marks the local streetscape.",
+                  "category": "landmark",
+                  "coords": [
+                        48.100866,
+                        29.122533
+                  ]
+            },
+            {
+                  "name": "Abu Lebabh Al Ansari Mosque",
+                  "text": "A modest mosque providing prayer spaces for residents in the quieter streets of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.124908,
+                        29.094346
+                  ]
+            },
+            {
+                  "name": "Al Imam Al Nesaeai",
+                  "text": "The mosque is dedicated to the famous hadith collector Al-Nasa'i and is located in the Fahaheel district.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125455,
+                        29.088567
+                  ]
+            },
+            {
+                  "name": "Moudi Hamid Mohammed Al-Otaibi",
+                  "text": "A modern sacred building in the Ahmadi region, located not far from the coastal centers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.126994,
+                        29.087495
+                  ]
+            },
+            {
+                  "name": "Al Asfur",
+                  "text": "A mosque in the busy urban fabric of Fahaheel, near the coast of the Persian Gulf.",
+                  "category": "landmark",
+                  "coords": [
+                        48.123634,
+                        29.086437
+                  ]
+            },
+            {
+                  "name": "Abdullah Al Jasim Al Dabbus",
+                  "text": "This prominent mosque in Fahaheel is distinguished by its traditional Kuwaiti architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        48.119884,
+                        29.085579
+                  ]
+            },
+            {
+                  "name": "Rubaei Bin Omar",
+                  "text": "A local Islamic prayer house fulfilling the religious needs of the Fahaheel neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.118609,
+                        29.087925
+                  ]
+            },
+            {
+                  "name": "Muniera Al Hajri",
+                  "text": "A community mosque named after a female benefactor in the residential quarters of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121275,
+                        29.088225
+                  ]
+            },
+            {
+                  "name": "Saqer Hamod Al Saqer",
+                  "text": "A modern prayer site for the local population in the south of the Ahmadi Governorate.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117477,
+                        29.084268
+                  ]
+            },
+            {
+                  "name": "Khabab bin Al Art",
+                  "text": "This mosque, named after an early Islamic figure, is located in the heart of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.115578,
+                        29.078399
+                  ]
+            },
+            {
+                  "name": "Khaled Salem Al-Masoud and his wife, in name Ahmed Al-Masoud",
+                  "text": "A community mosque in Fahaheel, established in the name of a local benefactor.",
+                  "category": "landmark",
+                  "coords": [
+                        48.11843,
+                        29.079244
+                  ]
+            },
+            {
+                  "name": "Abu Dhar Al-Ghafari",
+                  "text": "A mosque dedicated to the companion of the Prophet, located within the urban grid of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121832,
+                        29.07642
+                  ]
+            },
+            {
+                  "name": "Saad Al Jadan Al Hajri",
+                  "text": "A religious gathering place for daily prayers in the coastal city of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.119171,
+                        29.07832
+                  ]
+            },
+            {
+                  "name": "Abu Mosa Al Ashaari",
+                  "text": "A neighborhood mosque providing essential religious services to the inhabitants of Fahaheel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.1203,
+                        29.081643
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Salam",
+                  "text": "This mosque in Fahaheel is named after Abdullah Bin Salam, a prominent companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.122625,
+                        29.080212
+                  ]
+            },
+            {
+                  "name": "Mezid Halal Al Otebi B 8",
+                  "text": "A local mosque in Fahaheel's residential block 8, serving as a place of worship for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.126464,
+                        29.082192
+                  ]
+            },
+            {
+                  "name": "Salem Al Ali",
+                  "text": "A community mosque in Fahaheel named after a member of the Kuwaiti ruling family.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125055,
+                        29.077197
+                  ]
+            },
+            {
+                  "name": "Al Habdan",
+                  "text": "This mosque in Fahaheel is notable for its traditional minaret situated among modern residential buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        48.123477,
+                        29.074451
+                  ]
+            },
+            {
+                  "name": "Al-Zabrqan bin Badr",
+                  "text": "A neighborhood mosque in Fahaheel named after Al-Zabrqan bin Badr, a companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.118731,
+                        29.072486
+                  ]
+            },
+            {
+                  "name": "Salem Al Kradi Al dosri",
+                  "text": "A mosque located in the southern part of Fahaheel, distinguished by its simple, sand-colored architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.125461,
+                        29.072061
+                  ]
+            },
+            {
+                  "name": "Abdullrhaman Al Merdas",
+                  "text": "This mosque serves as a religious center for the residents of Fahaheel's quiet side streets.",
+                  "category": "landmark",
+                  "coords": [
+                        48.117393,
+                        29.075848
+                  ]
+            },
+            {
+                  "name": "Tariq Bin Ziad",
+                  "text": "Named after Tariq Bin Ziad, the general who conquered Al-Andalus, this mosque is a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        48.113612,
+                        29.075332
+                  ]
+            },
+            {
+                  "name": "Ahmad Bader Al Houti",
+                  "text": "A modern place of worship in Fahaheel known for its well-maintained grounds and bright interior.",
+                  "category": "landmark",
+                  "coords": [
+                        48.130051,
+                        29.08642
+                  ]
+            },
+            {
+                  "name": "Masjid Habdaan",
+                  "text": "The Habdaan Mosque in Fahaheel is known for its distinctive white minaret, which is visible from a distance.",
+                  "category": "landmark",
+                  "coords": [
+                        48.128428,
+                        29.103028
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KW-AH",
     coords: [48.1250, 29.0860],
@@ -1159,7 +8872,844 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "sulaybiya-agricultural-area-life-v2",
+    id: "sulaybiya-agricultural-area-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Little Jungle (Sulaibiya Zoo)",
+                  "text": "Little Jungle in Sulaibiya ist ein lokaler zoologischer Park, in dem Besucher eine Sammlung von in Gefangenschaft lebenden Tieren beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        47.821018,
+                        29.274851
+                  ]
+            },
+            {
+                  "name": "Abu Jundul Mosque",
+                  "text": "Die Abu-Jundul-Moschee ist ein islamisches Gotteshaus, das sich an die muslimischen Bewohner des landwirtschaftlichen Gebiets Sulaibiya richtet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.834084,
+                        29.27173
+                  ]
+            },
+            {
+                  "name": "Saed Bin Moaz",
+                  "text": "Die Saed-Bin-Moaz-Moschee ist ein islamisches Religionszentrum, in dem in der Agrarzone von Sulaibiya täglich Gebete stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        47.827788,
+                        29.315364
+                  ]
+            },
+            {
+                  "name": "Mhammad Al-Jimran Mosque",
+                  "text": "Die Mhammad-Al-Jimran-Moschee dient der muslimischen Gemeinde in Sulaibiya als spiritueller Rückzugsort und Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        47.815047,
+                        29.321689
+                  ]
+            },
+            {
+                  "name": "Saleh Mohammad Al Khdir",
+                  "text": "Saleh Mohammad Al Khdir ist ein islamisches Heiligtum, in dem sich Gläubige zum gemeinsamen Gottesdienst in der Region Sulaibiya versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        47.81158,
+                        29.319427
+                  ]
+            },
+            {
+                  "name": "Khulad ibn Suwaid Mosque",
+                  "text": "Die Khulad-ibn-Suwaid-Moschee ist ein gemeinschaftlicher Gebetsraum für die muslimischen Anhänger im landwirtschaftlichen Gebiet Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.811139,
+                        29.32343
+                  ]
+            },
+            {
+                  "name": "Al-Shaikh Ahmad Al-Qattan Mosque",
+                  "text": "Die Al-Shaikh-Ahmad-Al-Qattan-Moschee ist eine aktive islamische Kultstätte, die die religiösen Traditionen in Sulaibiya pflegt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.817713,
+                        29.319417
+                  ]
+            },
+            {
+                  "name": "Saʿad ibn Abi Waqqas Mosque",
+                  "text": "Die Moschee Saʿad ibn Abi Waqqas ist ein spezielles islamisches Gebäude, das für regelmäßige Gemeinschaftsgebete in Sulaibiya konzipiert wurde.",
+                  "category": "religious",
+                  "coords": [
+                        47.820269,
+                        29.321792
+                  ]
+            },
+            {
+                  "name": "Al-Hafidh Abu Bakr Al-Ismaʿili Mosque",
+                  "text": "Die Al-Hafidh-Abu-Bakr-Al-Ismaʿili-Moschee ist ein islamisches Zentrum, das die Andachtsaktivitäten der Bewohner von Sulaibiya unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.815589,
+                        29.326698
+                  ]
+            },
+            {
+                  "name": "Sulaibikhat Sports Club mosque",
+                  "text": "Die Moschee des Sulaibikhat Sports Club ist ein spezieller muslimischer Gebetsraum, der in den lokalen Sportkomplex in Sulaibiya integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.828335,
+                        29.320506
+                  ]
+            },
+            {
+                  "name": "Al Hassan Bin Ali Bin Abi Taleb Mosque",
+                  "text": "Die Moschee Al Hassan Bin Ali Bin Abi Taleb bietet Gemeindemitgliedern in Sulaibiya eine ruhige islamische Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        47.822995,
+                        29.315258
+                  ]
+            },
+            {
+                  "name": "Butayi Bin Saud",
+                  "text": "Butayi Bin Saud ist eine lokale Moschee, die einen ruhigen Ort für den islamischen Gottesdienst im Bezirk Sulaibiya bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.816918,
+                        29.316863
+                  ]
+            },
+            {
+                  "name": "Al Jaafari cemetery mosque",
+                  "text": "Die Friedhofsmoschee Al Jaafari ist ein islamisches Gebetsgebäude, das Trauernden und Besuchern in der Nähe der Grabstätten in Sulaibiya dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.830374,
+                        29.302306
+                  ]
+            },
+            {
+                  "name": "Qays ibn Sa'id Mosque",
+                  "text": "Die Moschee Qays ibn Sa'id ist ein traditionelles Zentrum für muslimische Gemeinschaftsgebete in der Region Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.818799,
+                        29.293684
+                  ]
+            },
+            {
+                  "name": "Musa ibn Nusayr Mosque",
+                  "text": "Die Moschee Musa ibn Nusayr bietet grundlegende religiöse Dienstleistungen und islamischen Gebetsraum für die Einwohner von Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.812025,
+                        29.293796
+                  ]
+            },
+            {
+                  "name": "Uqba ibn Nafi' Mosque",
+                  "text": "Die Moschee Uqba ibn Nafi' ist eine strukturierte islamische Einrichtung, die den täglichen spirituellen Praktiken der muslimischen Gemeinde in Sulaibiya gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.796766,
+                        29.30812
+                  ]
+            },
+            {
+                  "name": "Abo Talha Al Ansari",
+                  "text": "Abo Talha Al Ansari ist eine Nachbarschaftsmoschee, die die islamischen Gemeinschaftsbindungen und den gemeinsamen Gottesdienst in Sulaibiya fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.813124,
+                        29.315217
+                  ]
+            },
+            {
+                  "name": "Asem Bin Thabit",
+                  "text": "Die Moschee Asem Bin Thabit ist eine grundlegende islamische Kultstätte, die den religiösen Bedürfnissen von Sulaibiya dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.808727,
+                        29.315311
+                  ]
+            },
+            {
+                  "name": "Imams Kadhim & Hadi Mosque",
+                  "text": "Die Moschee der Imame Kadhim & Hadi ist ein islamisches spirituelles Zentrum, in dem regelmäßig religiöse Versammlungen in Sulaibiya stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        47.789381,
+                        29.300295
+                  ]
+            },
+            {
+                  "name": "ʿAlqama ibn Qays Mosque",
+                  "text": "Die ʿAlqama-ibn-Qays-Moschee ist ein etabliertes islamisches Heiligtum, in dem die Einwohner von Sulaibiya ihre täglichen Gebete verrichten können.",
+                  "category": "landmark",
+                  "coords": [
+                        47.82875,
+                        29.283725
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Jahsh Mosque",
+                  "text": "Die Abdullah-Ibn-Jahsh-Moschee bietet einen konzentrierten Rahmen für islamische Riten und Gemeindeandachten im Bezirk Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.831718,
+                        29.283251
+                  ]
+            },
+            {
+                  "name": "Dhahi Mosque",
+                  "text": "Die Dhahi-Moschee ist ein lokaler islamischer Gebetsraum, der der Förderung des spirituellen Gemeindelebens in Sulaibiya gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.837111,
+                        29.272362
+                  ]
+            },
+            {
+                  "name": "Abo Yaala Bin AlFaraa AlHanbali Mosque",
+                  "text": "Die Moschee Abo Yaala Bin AlFaraa AlHanbali bietet Anhängern der hanbalitischen Rechtsschule in Sulaibiya islamische Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        47.855036,
+                        29.299704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Little Jungle (Sulaibiya Zoo)",
+                  "text": "A szulajbijai Little Jungle egy helyi állatkert, ahol a látogatók fogságban tartott állatok gyűjteményét figyelhetik meg.",
+                  "category": "recreational",
+                  "coords": [
+                        47.821018,
+                        29.274851
+                  ]
+            },
+            {
+                  "name": "Abu Jundul Mosque",
+                  "text": "Az Abu Dzsundul-mecset egy iszlám imahely, amely a szulajbijai mezőgazdasági terület muszlim lakosait szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.834084,
+                        29.27173
+                  ]
+            },
+            {
+                  "name": "Saed Bin Moaz",
+                  "text": "A Szaed Bin Moaz-mecset egy iszlám vallási központ, amely napi imáknak ad otthont a szulajbijai mezőgazdasági övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.827788,
+                        29.315364
+                  ]
+            },
+            {
+                  "name": "Mhammad Al-Jimran Mosque",
+                  "text": "A Mhammad Al-Jimran-mecset spirituális menedékként és imádkozóhelyként szolgál a szulajbijai muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.815047,
+                        29.321689
+                  ]
+            },
+            {
+                  "name": "Saleh Mohammad Al Khdir",
+                  "text": "A Saleh Mohammad Al Khdir egy iszlám szentély, amely a szulajbijai régió hívőit gyűjti össze közös istentiszteletre.",
+                  "category": "landmark",
+                  "coords": [
+                        47.81158,
+                        29.319427
+                  ]
+            },
+            {
+                  "name": "Khulad ibn Suwaid Mosque",
+                  "text": "A Khulad ibn Szuvajd-mecset a szulajbijai mezőgazdasági terület muszlim követőinek közösségi imaterme.",
+                  "category": "landmark",
+                  "coords": [
+                        47.811139,
+                        29.32343
+                  ]
+            },
+            {
+                  "name": "Al-Shaikh Ahmad Al-Qattan Mosque",
+                  "text": "Az Al-Shaikh Ahmad Al-Kattan-mecset egy aktív iszlám imahely, amely a vallási hagyományokat ápolja Szulajbijában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.817713,
+                        29.319417
+                  ]
+            },
+            {
+                  "name": "Saʿad ibn Abi Waqqas Mosque",
+                  "text": "A Szaʿad ibn Abi Vakkasz-mecset egy dedikált iszlám építmény, amelyet a rendszeres gyülekezeti imákra terveztek Szulajbijában.",
+                  "category": "religious",
+                  "coords": [
+                        47.820269,
+                        29.321792
+                  ]
+            },
+            {
+                  "name": "Al-Hafidh Abu Bakr Al-Ismaʿili Mosque",
+                  "text": "Az Al-Hafidh Abu Bakr Al-Iszmaili-mecset egy iszlám központ, amely Szulajbija lakóinak áhítatos tevékenységeit támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.815589,
+                        29.326698
+                  ]
+            },
+            {
+                  "name": "Sulaibikhat Sports Club mosque",
+                  "text": "A Sulaibikhat Sports Club mecsete egy speciális muszlim imaterem, amely a helyi sportkomplexumba integrálódott Szulajbijában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.828335,
+                        29.320506
+                  ]
+            },
+            {
+                  "name": "Al Hassan Bin Ali Bin Abi Taleb Mosque",
+                  "text": "Az Al Hasszan Bin Ali Bin Abi Taleb-mecset békés iszlám környezetet kínál a szulajbijai gyülekezet tagjai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.822995,
+                        29.315258
+                  ]
+            },
+            {
+                  "name": "Butayi Bin Saud",
+                  "text": "A Butayi Bin Szaúd egy helyi mecset, amely csendes helyet biztosít az iszlám istentiszteletekhez a szulajbijai kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.816918,
+                        29.316863
+                  ]
+            },
+            {
+                  "name": "Al Jaafari cemetery mosque",
+                  "text": "Az Al Dzsafari temetői mecset egy iszlám imaház, amely a gyászolókat és a látogatókat szolgálja ki a szulajbijai temetkezési helyek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        47.830374,
+                        29.302306
+                  ]
+            },
+            {
+                  "name": "Qays ibn Sa'id Mosque",
+                  "text": "A Kajsz ibn Szaíd-mecset a muszlim közös imák hagyományos központja, amely Szulajbija térségében található.",
+                  "category": "landmark",
+                  "coords": [
+                        47.818799,
+                        29.293684
+                  ]
+            },
+            {
+                  "name": "Musa ibn Nusayr Mosque",
+                  "text": "A Musza ibn Nuszajr-mecset alapvető vallási szolgáltatásokat és iszlám imádkozóhelyet biztosít Szulajbija lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        47.812025,
+                        29.293796
+                  ]
+            },
+            {
+                  "name": "Uqba ibn Nafi' Mosque",
+                  "text": "Az Ukba ibn Nafi-mecset egy strukturált iszlám létesítmény, amelyet a szulajbijai muszlim közösség napi spirituális gyakorlatainak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        47.796766,
+                        29.30812
+                  ]
+            },
+            {
+                  "name": "Abo Talha Al Ansari",
+                  "text": "Az Abo Talha Al Ansari egy környékbeli mecset, amely az iszlám közösségi kötelékeket és a gyülekezeti istentiszteleteket ápolja Szulajbijában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.813124,
+                        29.315217
+                  ]
+            },
+            {
+                  "name": "Asem Bin Thabit",
+                  "text": "Az Aszem Bin Thábit-mecset egy alapvető iszlám imahely, amely Szulajbija vallási szükségleteit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.808727,
+                        29.315311
+                  ]
+            },
+            {
+                  "name": "Imams Kadhim & Hadi Mosque",
+                  "text": "Az Imámok Kadhim és Hádi-mecset egy iszlám spirituális központ, amely rendszeres vallási gyülekezeteknek ad otthont Szulajbijában.",
+                  "category": "religious",
+                  "coords": [
+                        47.789381,
+                        29.300295
+                  ]
+            },
+            {
+                  "name": "ʿAlqama ibn Qays Mosque",
+                  "text": "Az ʿAlkama ibn Kajsz-mecset egy jól bevált iszlám szentély, amely lehetővé teszi Szulajbija lakói számára a napi imák megtartását.",
+                  "category": "landmark",
+                  "coords": [
+                        47.82875,
+                        29.283725
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Jahsh Mosque",
+                  "text": "Az Abdullah Ibn Dzsahs-mecset fókuszált környezetet biztosít az iszlám rítusok és a közösségi áhítat számára a szulajbijai kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.831718,
+                        29.283251
+                  ]
+            },
+            {
+                  "name": "Dhahi Mosque",
+                  "text": "A Dhahi-mecset egy helyi iszlám imaterem, amelyet a spirituális közösségi élet ápolására szenteltek Szulajbijában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.837111,
+                        29.272362
+                  ]
+            },
+            {
+                  "name": "Abo Yaala Bin AlFaraa AlHanbali Mosque",
+                  "text": "Az Abo Jaala Bin AlFaraa AlHanbali-mecset a hanbali jogi iskola követőit szolgálja iszlám szertartásokkal Szulajbijában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.855036,
+                        29.299704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Little Jungle (Sulaibiya Zoo)",
+                  "text": "Little Jungle din Sulaibiya este un parc zoologic local unde vizitatorii pot observa o colecție de animale ținute în captivitate.",
+                  "category": "recreational",
+                  "coords": [
+                        47.821018,
+                        29.274851
+                  ]
+            },
+            {
+                  "name": "Abu Jundul Mosque",
+                  "text": "Moscheea Abu Jundul este un lăcaș de cult islamic care deservește rezidenții musulmani din zona agricolă Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.834084,
+                        29.27173
+                  ]
+            },
+            {
+                  "name": "Saed Bin Moaz",
+                  "text": "Moscheea Saed Bin Moaz este un centru religios islamic care găzduiește rugăciunile zilnice în zona agricolă Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.827788,
+                        29.315364
+                  ]
+            },
+            {
+                  "name": "Mhammad Al-Jimran Mosque",
+                  "text": "Moscheea Mhammad Al-Jimran servește ca loc de retragere spirituală și spațiu de rugăciune pentru comunitatea musulmană din Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.815047,
+                        29.321689
+                  ]
+            },
+            {
+                  "name": "Saleh Mohammad Al Khdir",
+                  "text": "Saleh Mohammad Al Khdir este un sanctuar islamic care adună credincioșii pentru închinare comunală în regiunea Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.81158,
+                        29.319427
+                  ]
+            },
+            {
+                  "name": "Khulad ibn Suwaid Mosque",
+                  "text": "Moscheea Khulad ibn Suwaid este o sală de rugăciune comunitară pentru adepții musulmani din zona agricolă Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.811139,
+                        29.32343
+                  ]
+            },
+            {
+                  "name": "Al-Shaikh Ahmad Al-Qattan Mosque",
+                  "text": "Moscheea Al-Shaikh Ahmad Al-Qattan este un lăcaș de cult islamic activ care menține tradițiile religioase în Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.817713,
+                        29.319417
+                  ]
+            },
+            {
+                  "name": "Saʿad ibn Abi Waqqas Mosque",
+                  "text": "Moscheea Saʿad ibn Abi Waqqas este o structură islamică dedicată, concepută pentru rugăciunile congregaționale regulate din Sulaibiya.",
+                  "category": "religious",
+                  "coords": [
+                        47.820269,
+                        29.321792
+                  ]
+            },
+            {
+                  "name": "Al-Hafidh Abu Bakr Al-Ismaʿili Mosque",
+                  "text": "Moscheea Al-Hafidh Abu Bakr Al-Ismaʿili este un centru islamic care sprijină activitățile devoționale ale locuitorilor din Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.815589,
+                        29.326698
+                  ]
+            },
+            {
+                  "name": "Sulaibikhat Sports Club mosque",
+                  "text": "Moscheea clubului sportiv Sulaibikhat este o sală de rugăciune musulmană specializată, integrată în complexul sportiv local din Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.828335,
+                        29.320506
+                  ]
+            },
+            {
+                  "name": "Al Hassan Bin Ali Bin Abi Taleb Mosque",
+                  "text": "Moscheea Al Hassan Bin Ali Bin Abi Taleb oferă un mediu islamic senin pentru enoriașii din Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.822995,
+                        29.315258
+                  ]
+            },
+            {
+                  "name": "Butayi Bin Saud",
+                  "text": "Butayi Bin Saud este o moschee locală care oferă un loc liniștit pentru cultul islamic în districtul Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.816918,
+                        29.316863
+                  ]
+            },
+            {
+                  "name": "Al Jaafari cemetery mosque",
+                  "text": "Moscheea cimitirului Al Jaafari este o clădire de rugăciune islamică care servește persoanelor îndoliate și vizitatorilor din apropierea cimitirelor din Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.830374,
+                        29.302306
+                  ]
+            },
+            {
+                  "name": "Qays ibn Sa'id Mosque",
+                  "text": "Moscheea Qays ibn Sa'id este un centru tradițional pentru rugăciunile comunale musulmane, situat în zona Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.818799,
+                        29.293684
+                  ]
+            },
+            {
+                  "name": "Musa ibn Nusayr Mosque",
+                  "text": "Moscheea Musa ibn Nusayr oferă servicii religioase esențiale și spațiu de rugăciune islamică pentru locuitorii din Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.812025,
+                        29.293796
+                  ]
+            },
+            {
+                  "name": "Uqba ibn Nafi' Mosque",
+                  "text": "Moscheea Uqba ibn Nafi' este o facilitate islamică structurată dedicată practicilor spirituale zilnice ale comunității musulmane din Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.796766,
+                        29.30812
+                  ]
+            },
+            {
+                  "name": "Abo Talha Al Ansari",
+                  "text": "Abo Talha Al Ansari este o moschee de cartier care stimulează legăturile comunității islamice și închinarea congregațională în Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.813124,
+                        29.315217
+                  ]
+            },
+            {
+                  "name": "Asem Bin Thabit",
+                  "text": "Moscheea Asem Bin Thabit este un lăcaș de cult islamic fundamental care deservește nevoile religioase din Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.808727,
+                        29.315311
+                  ]
+            },
+            {
+                  "name": "Imams Kadhim & Hadi Mosque",
+                  "text": "Moscheea Imamilor Kadhim și Hadi este un centru spiritual islamic care găzduiește congregații religioase regulate în Sulaibiya.",
+                  "category": "religious",
+                  "coords": [
+                        47.789381,
+                        29.300295
+                  ]
+            },
+            {
+                  "name": "ʿAlqama ibn Qays Mosque",
+                  "text": "Moscheea ʿAlqama ibn Qays este un sanctuar islamic stabilit, permițând rezidenților din Sulaibiya să-și respecte rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        47.82875,
+                        29.283725
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Jahsh Mosque",
+                  "text": "Moscheea Abdullah Ibn Jahsh oferă un cadru concentrat pentru riturile islamice și devoțiunea comunității în districtul Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.831718,
+                        29.283251
+                  ]
+            },
+            {
+                  "name": "Dhahi Mosque",
+                  "text": "Moscheea Dhahi este o sală de rugăciune islamică locală dedicată promovării vieții spirituale comunitare în Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.837111,
+                        29.272362
+                  ]
+            },
+            {
+                  "name": "Abo Yaala Bin AlFaraa AlHanbali Mosque",
+                  "text": "Moscheea Abo Yaala Bin AlFaraa AlHanbali deservește adepții școlii Hanbali cu servicii islamice în Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.855036,
+                        29.299704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Little Jungle (Sulaibiya Zoo)",
+                  "text": "Little Jungle in Sulaibiya is a local zoological park where visitors can observe a collection of captive animals.",
+                  "category": "recreational",
+                  "coords": [
+                        47.821018,
+                        29.274851
+                  ]
+            },
+            {
+                  "name": "Abu Jundul Mosque",
+                  "text": "Abu Jundul Mosque is a place of Islamic worship catering to the Muslim residents of the Sulaibiya agricultural area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.834084,
+                        29.27173
+                  ]
+            },
+            {
+                  "name": "Saed Bin Moaz",
+                  "text": "The Saed Bin Moaz Mosque is an Islamic religious center hosting daily prayers in the Sulaibiya agricultural zone.",
+                  "category": "landmark",
+                  "coords": [
+                        47.827788,
+                        29.315364
+                  ]
+            },
+            {
+                  "name": "Mhammad Al-Jimran Mosque",
+                  "text": "Mhammad Al-Jimran Mosque serves as a spiritual retreat and prayer space for the Muslim community in Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.815047,
+                        29.321689
+                  ]
+            },
+            {
+                  "name": "Saleh Mohammad Al Khdir",
+                  "text": "Saleh Mohammad Al Khdir is an Islamic sanctuary gathering believers for communal worship in the Sulaibiya region.",
+                  "category": "landmark",
+                  "coords": [
+                        47.81158,
+                        29.319427
+                  ]
+            },
+            {
+                  "name": "Khulad ibn Suwaid Mosque",
+                  "text": "Khulad ibn Suwaid Mosque is a community prayer hall for the Muslim followers in the Sulaibiya agricultural area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.811139,
+                        29.32343
+                  ]
+            },
+            {
+                  "name": "Al-Shaikh Ahmad Al-Qattan Mosque",
+                  "text": "The Al-Shaikh Ahmad Al-Qattan Mosque is an active Islamic worship site maintaining religious traditions in Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.817713,
+                        29.319417
+                  ]
+            },
+            {
+                  "name": "Saʿad ibn Abi Waqqas Mosque",
+                  "text": "Saʿad ibn Abi Waqqas Mosque is a dedicated Islamic structure designed for regular congregational prayers in Sulaibiya.",
+                  "category": "religious",
+                  "coords": [
+                        47.820269,
+                        29.321792
+                  ]
+            },
+            {
+                  "name": "Al-Hafidh Abu Bakr Al-Ismaʿili Mosque",
+                  "text": "The Al-Hafidh Abu Bakr Al-Ismaʿili Mosque is an Islamic center supporting the devotional activities of Sulaibiya's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        47.815589,
+                        29.326698
+                  ]
+            },
+            {
+                  "name": "Sulaibikhat Sports Club mosque",
+                  "text": "Sulaibikhat Sports Club mosque is a specialized Muslim prayer hall integrated within the local athletic complex in Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.828335,
+                        29.320506
+                  ]
+            },
+            {
+                  "name": "Al Hassan Bin Ali Bin Abi Taleb Mosque",
+                  "text": "The Al Hassan Bin Ali Bin Abi Taleb Mosque offers a serene Islamic environment for congregants in Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.822995,
+                        29.315258
+                  ]
+            },
+            {
+                  "name": "Butayi Bin Saud",
+                  "text": "Butayi Bin Saud is a local mosque providing a quiet place for Islamic worship within the Sulaibiya district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.816918,
+                        29.316863
+                  ]
+            },
+            {
+                  "name": "Al Jaafari cemetery mosque",
+                  "text": "The Al Jaafari cemetery mosque is an Islamic prayer building serving mourners and visitors near the burial grounds in Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.830374,
+                        29.302306
+                  ]
+            },
+            {
+                  "name": "Qays ibn Sa'id Mosque",
+                  "text": "Qays ibn Sa'id Mosque is a traditional center for Muslim communal prayers located in the Sulaibiya area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.818799,
+                        29.293684
+                  ]
+            },
+            {
+                  "name": "Musa ibn Nusayr Mosque",
+                  "text": "The Musa ibn Nusayr Mosque provides essential religious services and Islamic prayer space for Sulaibiya's inhabitants.",
+                  "category": "landmark",
+                  "coords": [
+                        47.812025,
+                        29.293796
+                  ]
+            },
+            {
+                  "name": "Uqba ibn Nafi' Mosque",
+                  "text": "Uqba ibn Nafi' Mosque is a structured Islamic facility dedicated to the daily spiritual practices of the Muslim community in Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.796766,
+                        29.30812
+                  ]
+            },
+            {
+                  "name": "Abo Talha Al Ansari",
+                  "text": "Abo Talha Al Ansari is a neighborhood mosque fostering Islamic community bonds and congregational worship in Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.813124,
+                        29.315217
+                  ]
+            },
+            {
+                  "name": "Asem Bin Thabit",
+                  "text": "The Asem Bin Thabit mosque is a fundamental Islamic worship site serving the religious needs of Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.808727,
+                        29.315311
+                  ]
+            },
+            {
+                  "name": "Imams Kadhim & Hadi Mosque",
+                  "text": "The Imams Kadhim & Hadi Mosque is an Islamic spiritual hub hosting regular religious congregations in Sulaibiya.",
+                  "category": "religious",
+                  "coords": [
+                        47.789381,
+                        29.300295
+                  ]
+            },
+            {
+                  "name": "ʿAlqama ibn Qays Mosque",
+                  "text": "ʿAlqama ibn Qays Mosque is an established Islamic sanctuary allowing residents of Sulaibiya to observe their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        47.82875,
+                        29.283725
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Jahsh Mosque",
+                  "text": "The Abdullah Ibn Jahsh Mosque provides a focused setting for Islamic rites and community devotion in the Sulaibiya district.",
+                  "category": "landmark",
+                  "coords": [
+                        47.831718,
+                        29.283251
+                  ]
+            },
+            {
+                  "name": "Dhahi Mosque",
+                  "text": "Dhahi Mosque is a local Islamic prayer hall dedicated to fostering spiritual community life in Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.837111,
+                        29.272362
+                  ]
+            },
+            {
+                  "name": "Abo Yaala Bin AlFaraa AlHanbali Mosque",
+                  "text": "The Abo Yaala Bin AlFaraa AlHanbali Mosque serves the Hanbali school followers with Islamic services in Sulaibiya.",
+                  "category": "landmark",
+                  "coords": [
+                        47.855036,
+                        29.299704
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KW-JA",
     coords: [47.8200, 29.2800],
@@ -1227,7 +9777,268 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "hawally-amusement-park-life-v2",
+    id: "hawally-amusement-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "bait alothman museum",
+                  "text": "Dieses in einem ehemaligen Wohnhaus untergebrachte Museum zeigt das historische Kuwait mit traditionellem Handwerk und Mobiliar.",
+                  "category": "museum",
+                  "coords": [
+                        48.014,
+                        29.341038
+                  ]
+            },
+            {
+                  "name": "Hawally Park",
+                  "text": "Ein beliebter Freizeitpark in Hawally, der klassische Fahrgeschäfte und Unterhaltung für Familien in städtischer Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        48.021808,
+                        29.340408
+                  ]
+            },
+            {
+                  "name": "Al-Zahim Mosque",
+                  "text": "Eine Moschee im geschäftigen Stadtteil Hawally, die sich durch ihre traditionelle Architektur inmitten moderner Bauten abhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.011038,
+                        29.336359
+                  ]
+            },
+            {
+                  "name": "Al-Balool Mosque",
+                  "text": "Dieses Gebetshaus liegt nahe der Einkaufsstraßen von Hawally und ist für seine markanten geometrischen Fenster bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.021639,
+                        29.33782
+                  ]
+            },
+            {
+                  "name": "Al-Emam Abu Hunayfa Mosque",
+                  "text": "Eine zentral gelegene Moschee in Hawally, die durch ihre große Kuppel und ihre einladende Gebetshalle besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.028803,
+                        29.34658
+                  ]
+            },
+            {
+                  "name": "Khalid Al-Khashti Mosque",
+                  "text": "Diese Moschee dient der Gemeinde in Hawally und ist ein wichtiges religiöses Zentrum in diesem dicht besiedelten Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.029846,
+                        29.34034
+                  ]
+            },
+            {
+                  "name": "Abdilaziz Al-Ghadhfan Mosque",
+                  "text": "Ein lokales Gotteshaus mit schlichter Steinfassade, das sich harmonisch in die Wohngebiete von Hawally einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.030501,
+                        29.338996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "bait alothman museum",
+                  "text": "Ez a korábbi lakóházban kialakított múzeum a történelmi Kuvaitot mutatja be hagyományos kézműves tárgyakkal és bútorokkal.",
+                  "category": "museum",
+                  "coords": [
+                        48.014,
+                        29.341038
+                  ]
+            },
+            {
+                  "name": "Hawally Park",
+                  "text": "Népszerű vidámpark Hawally-ban, amely klasszikus játékokat és szórakozást kínál családoknak városi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        48.021808,
+                        29.340408
+                  ]
+            },
+            {
+                  "name": "Al-Zahim Mosque",
+                  "text": "Mecset a forgalmas Hawally negyedben, amely hagyományos építészetével tűnik ki a modern épületek közül.",
+                  "category": "landmark",
+                  "coords": [
+                        48.011038,
+                        29.336359
+                  ]
+            },
+            {
+                  "name": "Al-Balool Mosque",
+                  "text": "Ez az imaház Hawally bevásárlóutcái közelében található, és jellegzetes geometriai ablakairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.021639,
+                        29.33782
+                  ]
+            },
+            {
+                  "name": "Al-Emam Abu Hunayfa Mosque",
+                  "text": "Központi fekvésű mecset Hawally-ban, amely nagy kupolájával és hívogató imatermével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.028803,
+                        29.34658
+                  ]
+            },
+            {
+                  "name": "Khalid Al-Khashti Mosque",
+                  "text": "Ez a mecset a hawally-i közösséget szolgálja, és fontos vallási központ ebben a sűrűn lakott negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.029846,
+                        29.34034
+                  ]
+            },
+            {
+                  "name": "Abdilaziz Al-Ghadhfan Mosque",
+                  "text": "Egyszerű kőhomlokzatú helyi imaház, amely harmonikusan illeszkedik Hawally lakónegyedeibe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.030501,
+                        29.338996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "bait alothman museum",
+                  "text": "Găzduit într-o fostă reședință, acest muzeu prezintă Kuweitul istoric prin meșteșuguri și mobilier tradițional.",
+                  "category": "museum",
+                  "coords": [
+                        48.014,
+                        29.341038
+                  ]
+            },
+            {
+                  "name": "Hawally Park",
+                  "text": "Un parc de distracții popular în Hawally, care oferă atracții clasice și divertisment pentru familii într-un cadru urban.",
+                  "category": "recreational",
+                  "coords": [
+                        48.021808,
+                        29.340408
+                  ]
+            },
+            {
+                  "name": "Al-Zahim Mosque",
+                  "text": "O moschee din cartierul aglomerat Hawally, care se remarcă prin arhitectura sa tradițională printre clădirile moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        48.011038,
+                        29.336359
+                  ]
+            },
+            {
+                  "name": "Al-Balool Mosque",
+                  "text": "Această casă de rugăciune este situată lângă străzile comerciale din Hawally și este cunoscută pentru ferestrele sale geometrice distinctive.",
+                  "category": "landmark",
+                  "coords": [
+                        48.021639,
+                        29.33782
+                  ]
+            },
+            {
+                  "name": "Al-Emam Abu Hunayfa Mosque",
+                  "text": "O moschee situată central în Hawally, care impresionează prin cupola sa mare și sala de rugăciune primitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        48.028803,
+                        29.34658
+                  ]
+            },
+            {
+                  "name": "Khalid Al-Khashti Mosque",
+                  "text": "Această moschee deservește comunitatea din Hawally și este un centru religios important în acest cartier dens populat.",
+                  "category": "landmark",
+                  "coords": [
+                        48.029846,
+                        29.34034
+                  ]
+            },
+            {
+                  "name": "Abdilaziz Al-Ghadhfan Mosque",
+                  "text": "Un lăcaș de cult local cu o fațadă simplă din piatră, care se integrează armonios în zonele rezidențiale din Hawally.",
+                  "category": "landmark",
+                  "coords": [
+                        48.030501,
+                        29.338996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "bait alothman museum",
+                  "text": "Housed in a former residence, this museum showcases historical Kuwait with traditional crafts and furnishings.",
+                  "category": "museum",
+                  "coords": [
+                        48.014,
+                        29.341038
+                  ]
+            },
+            {
+                  "name": "Hawally Park",
+                  "text": "A popular amusement park in Hawally, offering classic rides and family entertainment in an urban setting.",
+                  "category": "recreational",
+                  "coords": [
+                        48.021808,
+                        29.340408
+                  ]
+            },
+            {
+                  "name": "Al-Zahim Mosque",
+                  "text": "A mosque in the busy Hawally district, standing out with its traditional architecture amidst modern buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        48.011038,
+                        29.336359
+                  ]
+            },
+            {
+                  "name": "Al-Balool Mosque",
+                  "text": "This house of worship is located near the shopping streets of Hawally and is known for its distinctive geometric windows.",
+                  "category": "landmark",
+                  "coords": [
+                        48.021639,
+                        29.33782
+                  ]
+            },
+            {
+                  "name": "Al-Emam Abu Hunayfa Mosque",
+                  "text": "A centrally located mosque in Hawally, featuring a large dome and an inviting prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        48.028803,
+                        29.34658
+                  ]
+            },
+            {
+                  "name": "Khalid Al-Khashti Mosque",
+                  "text": "This mosque serves the community in Hawally and is an important religious center in this densely populated neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        48.029846,
+                        29.34034
+                  ]
+            },
+            {
+                  "name": "Abdilaziz Al-Ghadhfan Mosque",
+                  "text": "A local house of worship with a simple stone facade, blending harmoniously into the residential areas of Hawally.",
+                  "category": "landmark",
+                  "coords": [
+                        48.030501,
+                        29.338996
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "KW-HA",
     coords: [48.0250, 29.3380],
@@ -1295,7 +10106,52 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     },
   },
   {
-    id: "sabah-al-salem-park-life-v2",
+    id: "sabah-al-salem-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fatma Al-Abdallah Mosque",
+                  "text": "Die Fatma Al-Abdallah Moschee in Sabah Al-Salem ist ein aktiver islamischer Ort, an dem Gemeindegebete abgehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        48.025288,
+                        29.269041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fatma Al-Abdallah Mosque",
+                  "text": "A Sabah Al-Salemben található Fatma Al-Abdallah mecset egy aktív iszlám helyszín, amely gyülekezeti imáknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        48.025288,
+                        29.269041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fatma Al-Abdallah Mosque",
+                  "text": "Situată în Sabah Al-Salem, Moscheea Fatma Al-Abdallah este un sit islamic activ care găzduiește rugăciuni congregaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.025288,
+                        29.269041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fatma Al-Abdallah Mosque",
+                  "text": "Located in Sabah Al-Salem, the Fatma Al-Abdallah Mosque is an active Islamic site hosting congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.025288,
+                        29.269041
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KW-MU",
     coords: [48.0450, 29.2550],

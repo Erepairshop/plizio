@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraTimorlesteCitiesV2: POI[] = [
   {
-    id: "dili-cities-v2",
+    id: "dili-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sé Catedral de Díli",
+                  "text": "Die Sé Catedral de Díli ist eine bedeutende Andachtsstätte in dili-cities-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.56792,
+                        -8.55831
+                  ]
+            },
+            {
+                  "name": "Gruta da Nossa Senhora",
+                  "text": "Gruta da Nossa Senhora ist ein christlicher Pilgerort in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571855,
+                        -8.558004
+                  ]
+            },
+            {
+                  "name": "Hossana",
+                  "text": "Hossana ist eine christliche Stätte in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.56737,
+                        -8.557286
+                  ]
+            },
+            {
+                  "name": "Evangelical Assembly of God",
+                  "text": "Die Evangelical Assembly of God ist eine christliche Versammlungsstätte in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.568982,
+                        -8.558254
+                  ]
+            },
+            {
+                  "name": "Perumnas chapel",
+                  "text": "Die Perumnas chapel ist eine Kapelle in dili-cities-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.561553,
+                        -8.562508
+                  ]
+            },
+            {
+                  "name": "Gruta Nossa Senhora da Grasa Ailok-Laran",
+                  "text": "Gruta Nossa Senhora da Grasa Ailok-Laran ist eine christliche Stätte in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562355,
+                        -8.57185
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelica Presbiteriana",
+                  "text": "Die Igreja Evangelica Presbiteriana ist ein christliches Bauwerk in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.573894,
+                        -8.563163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sé Catedral de Díli",
+                  "text": "A Sé Catedral de Díli egy istentiszteleti hely dili-cities-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        125.56792,
+                        -8.55831
+                  ]
+            },
+            {
+                  "name": "Gruta da Nossa Senhora",
+                  "text": "A Gruta da Nossa Senhora egy keresztény helyszín dili-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571855,
+                        -8.558004
+                  ]
+            },
+            {
+                  "name": "Hossana",
+                  "text": "A Hossana egy keresztény imaház dili-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.56737,
+                        -8.557286
+                  ]
+            },
+            {
+                  "name": "Evangelical Assembly of God",
+                  "text": "Az Evangelical Assembly of God egy keresztény gyülekezeti hely dili-cities-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.568982,
+                        -8.558254
+                  ]
+            },
+            {
+                  "name": "Perumnas chapel",
+                  "text": "A Perumnas chapel egy kápolna dili-cities-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        125.561553,
+                        -8.562508
+                  ]
+            },
+            {
+                  "name": "Gruta Nossa Senhora da Grasa Ailok-Laran",
+                  "text": "A Gruta Nossa Senhora da Grasa Ailok-Laran egy keresztény imahely dili-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562355,
+                        -8.57185
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelica Presbiteriana",
+                  "text": "Az Igreja Evangelica Presbiteriana egy keresztény templom dili-cities-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.573894,
+                        -8.563163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sé Catedral de Díli",
+                  "text": "Sé Catedral de Díli este un lăcaș de cult din dili-cities-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.56792,
+                        -8.55831
+                  ]
+            },
+            {
+                  "name": "Gruta da Nossa Senhora",
+                  "text": "Gruta da Nossa Senhora este un așezământ creștin din dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571855,
+                        -8.558004
+                  ]
+            },
+            {
+                  "name": "Hossana",
+                  "text": "Hossana este un așezământ creștin din dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.56737,
+                        -8.557286
+                  ]
+            },
+            {
+                  "name": "Evangelical Assembly of God",
+                  "text": "Evangelical Assembly of God este un lăcaș creștin din dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.568982,
+                        -8.558254
+                  ]
+            },
+            {
+                  "name": "Perumnas chapel",
+                  "text": "Perumnas chapel este o capelă din dili-cities-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.561553,
+                        -8.562508
+                  ]
+            },
+            {
+                  "name": "Gruta Nossa Senhora da Grasa Ailok-Laran",
+                  "text": "Gruta Nossa Senhora da Grasa Ailok-Laran este un lăcaș creștin din dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562355,
+                        -8.57185
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelica Presbiteriana",
+                  "text": "Igreja Evangelica Presbiteriana este o biserică creștină din dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.573894,
+                        -8.563163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sé Catedral de Díli",
+                  "text": "Sé Catedral de Díli is a prominent place of worship in dili-cities-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.56792,
+                        -8.55831
+                  ]
+            },
+            {
+                  "name": "Gruta da Nossa Senhora",
+                  "text": "Gruta da Nossa Senhora is a Christian site situated in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571855,
+                        -8.558004
+                  ]
+            },
+            {
+                  "name": "Hossana",
+                  "text": "Hossana is a Christian site located in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.56737,
+                        -8.557286
+                  ]
+            },
+            {
+                  "name": "Evangelical Assembly of God",
+                  "text": "The Evangelical Assembly of God is a Christian center in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.568982,
+                        -8.558254
+                  ]
+            },
+            {
+                  "name": "Perumnas chapel",
+                  "text": "Perumnas chapel is a chapel located in dili-cities-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.561553,
+                        -8.562508
+                  ]
+            },
+            {
+                  "name": "Gruta Nossa Senhora da Grasa Ailok-Laran",
+                  "text": "Gruta Nossa Senhora da Grasa Ailok-Laran is a Christian site in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562355,
+                        -8.57185
+                  ]
+            },
+            {
+                  "name": "Igreja Evangelica Presbiteriana",
+                  "text": "Igreja Evangelica Presbiteriana is a Christian church in dili-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.573894,
+                        -8.563163
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "TL-DI",
     coords: [125.5736, -8.5586],
@@ -41,7 +302,88 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "baucau-cities-v2",
+    id: "baucau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Markt",
+                  "text": "Dieser lokale Markt ist eine alltägliche Attraktion für Einkäufer und Besucher in Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453695,
+                        -8.484133
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrado Coracao de Jesus Vila-Nova Baucau",
+                  "text": "Die Igreja Sagrado Coracao de Jesus Vila-Nova ist eine bedeutende christliche Kirche für die Gläubigen in Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453303,
+                        -8.480102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "market",
+                  "text": "Ez a helyi piac mindennapos látványosság a Baucau városába látogatók és vásárlók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453695,
+                        -8.484133
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrado Coracao de Jesus Vila-Nova Baucau",
+                  "text": "Az Igreja Sagrado Coracao de Jesus Vila-Nova egy jelentős keresztény templom a baucaui hívek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453303,
+                        -8.480102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "market",
+                  "text": "Această piață locală este o atracție de zi cu zi pentru cumpărătorii și vizitatorii din Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453695,
+                        -8.484133
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrado Coracao de Jesus Vila-Nova Baucau",
+                  "text": "Igreja Sagrado Coracao de Jesus Vila-Nova este o biserică creștină proeminentă care îi deservește pe credincioșii din Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453303,
+                        -8.480102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "market",
+                  "text": "This local market is an everyday attraction for shoppers and visitors in Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453695,
+                        -8.484133
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrado Coracao de Jesus Vila-Nova Baucau",
+                  "text": "Igreja Sagrado Coracao de Jesus Vila-Nova is a prominent Christian church serving the faithful in Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.453303,
+                        -8.480102
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-BA",
     coords: [126.4497, -8.4711],
@@ -129,7 +471,124 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "suai-cities-v2",
+    id: "suai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church Old",
+                  "text": "Die alte Kirche von Suai ist ein historisches christliches Gebäude, das den portugiesischen kolonialen Architektureinfluss in der osttimoresischen Region widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        125.254139,
+                        -9.317133
+                  ]
+            },
+            {
+                  "name": "Igreja Ave Maria",
+                  "text": "Igreja Ave Maria ist eine bedeutende katholische Pfarrkirche in Suai, die nicht nur als Gotteshaus, sondern auch als Ort des tragischen Kirchenmassakers im Jahr 1999 bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.254343,
+                        -9.315484
+                  ]
+            },
+            {
+                  "name": "Marketplace old",
+                  "text": "Der alte Marktplatz von Suai ist ein belebter Freiluftmarkt, auf dem die Bauern der Umgebung traditionell mit frischen tropischen Produkten und Webwaren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        125.25543,
+                        -9.314793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church Old",
+                  "text": "Suai régi temploma egy történelmi keresztény épület, amely a régió portugál gyarmati építészeti hatásait tükrözi Kelet-Timorban.",
+                  "category": "religious",
+                  "coords": [
+                        125.254139,
+                        -9.317133
+                  ]
+            },
+            {
+                  "name": "Igreja Ave Maria",
+                  "text": "Az Igreja Ave Maria egy jelentős katolikus plébánia Suai-ban, amely nemcsak istentiszteleti helyként, hanem az 1999-es tragikus templomi mészárlás helyszíneként is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.254343,
+                        -9.315484
+                  ]
+            },
+            {
+                  "name": "Marketplace old",
+                  "text": "Suai régi piaca egy nyüzsgő szabadtéri csomópont, ahol a helyi gazdák hagyományosan friss trópusi termékekkel és szőtt árukkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        125.25543,
+                        -9.314793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church Old",
+                  "text": "Biserica Veche din Suai este o clădire creștină istorică care reflectă influența arhitecturală colonială portugheză în regiunea est-timoreză.",
+                  "category": "religious",
+                  "coords": [
+                        125.254139,
+                        -9.317133
+                  ]
+            },
+            {
+                  "name": "Igreja Ave Maria",
+                  "text": "Igreja Ave Maria este o parohie catolică semnificativă din Suai, cunoscută nu doar ca lăcaș de cult, ci și ca loc al tragicului masacru din biserică din 1999.",
+                  "category": "landmark",
+                  "coords": [
+                        125.254343,
+                        -9.315484
+                  ]
+            },
+            {
+                  "name": "Marketplace old",
+                  "text": "Piața veche din Suai este un centru comercial aglomerat în aer liber, unde fermierii locali tranzacționează în mod tradițional produse tropicale proaspete și bunuri țesute.",
+                  "category": "cultural",
+                  "coords": [
+                        125.25543,
+                        -9.314793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church Old",
+                  "text": "The Old Church of Suai is a historical Christian building that reflects the Portuguese colonial architectural influence in the East Timorese region.",
+                  "category": "religious",
+                  "coords": [
+                        125.254139,
+                        -9.317133
+                  ]
+            },
+            {
+                  "name": "Igreja Ave Maria",
+                  "text": "Igreja Ave Maria is a significant Catholic parish in Suai, known not only as a place of worship but also as the site of the tragic 1999 church massacre.",
+                  "category": "landmark",
+                  "coords": [
+                        125.254343,
+                        -9.315484
+                  ]
+            },
+            {
+                  "name": "Marketplace old",
+                  "text": "Suai's old marketplace is a bustling outdoor hub where local farmers traditionally trade fresh tropical produce and woven goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.25543,
+                        -9.314793
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-CO",
     coords: [125.2555, -9.3128],
@@ -334,7 +793,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "viqueque-cities-v2",
+    id: "viqueque-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja da Imaculada da Conceição de Viqueque",
+                  "text": "Diese christliche Kirche in Viqueque ist der Unbefleckten Empfängnis geweiht und prägt das Stadtbild.",
+                  "category": "landmark",
+                  "coords": [
+                        126.365304,
+                        -8.868628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja da Imaculada da Conceição de Viqueque",
+                  "text": "A Viqueque városában található keresztény templomot a Szeplőtelen Fogantatásnak szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        126.365304,
+                        -8.868628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja da Imaculada da Conceição de Viqueque",
+                  "text": "Această biserică creștină din Viqueque este închinată Imaculatei Concepții și domină peisajul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        126.365304,
+                        -8.868628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja da Imaculada da Conceição de Viqueque",
+                  "text": "This Christian church in Viqueque is dedicated to the Immaculate Conception and shapes the townscape.",
+                  "category": "landmark",
+                  "coords": [
+                        126.365304,
+                        -8.868628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-VI",
     coords: [126.3644, -8.8673],
@@ -378,7 +882,196 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "pante-macassar-cities-v2",
+    id: "pante-macassar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Das portugiesische Fort ist ein altes Verteidigungsbauwerk und ein historisches Denkmal in pante-macassar-cities-v2.",
+                  "category": "historical",
+                  "coords": [
+                        124.371646,
+                        -9.208051
+                  ]
+            },
+            {
+                  "name": "City view",
+                  "text": "Dieser City View bietet einen malerischen Panoramablick über pante-macassar-cities-v2.",
+                  "category": "natural",
+                  "coords": [
+                        124.370866,
+                        -9.207107
+                  ]
+            },
+            {
+                  "name": "Cemitério Santa Cruz",
+                  "text": "Der alte Friedhof von Santa Rosa ist eine historische Ruhestätte und kulturelle Attraktion in pante-macassar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.374401,
+                        -9.203348
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Dieser Praia ist ein ruhiger Strand mit wunderschönen Sandufern in pante-macassar-cities-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        124.365923,
+                        -9.198283
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António de Oé-Cusse",
+                  "text": "Igreja de Santo António de Oé-Cusse ist eine reizvolle christliche Kirche für die Gemeinde von pante-macassar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.373158,
+                        -9.19776
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "A portugál erőd egy ősi védelmi építmény, amely történelmi emlékműként áll pante-macassar-cities-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        124.371646,
+                        -9.208051
+                  ]
+            },
+            {
+                  "name": "City view",
+                  "text": "Ez a városi kilátó festői panorámát nyújt pante-macassar-cities-v2 területére.",
+                  "category": "natural",
+                  "coords": [
+                        124.370866,
+                        -9.207107
+                  ]
+            },
+            {
+                  "name": "Cemitério Santa Cruz",
+                  "text": "A Santa Rosa-i régi temető egy jelentős történelmi nyughely és kulturális látványosság pante-macassar-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        124.374401,
+                        -9.203348
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Ez a Praia egy békés strand gyönyörű homokos parttal pante-macassar-cities-v2 városában.",
+                  "category": "recreational",
+                  "coords": [
+                        124.365923,
+                        -9.198283
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António de Oé-Cusse",
+                  "text": "Az Igreja de Santo António de Oé-Cusse egy bájos keresztény templom, amely pante-macassar-cities-v2 helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        124.373158,
+                        -9.19776
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Fortul portughez este o structură defensivă antică, fiind un monument istoric din pante-macassar-cities-v2.",
+                  "category": "historical",
+                  "coords": [
+                        124.371646,
+                        -9.208051
+                  ]
+            },
+            {
+                  "name": "City view",
+                  "text": "Acest City view oferă un punct de observație panoramic și pitoresc asupra pante-macassar-cities-v2.",
+                  "category": "natural",
+                  "coords": [
+                        124.370866,
+                        -9.207107
+                  ]
+            },
+            {
+                  "name": "Cemitério Santa Cruz",
+                  "text": "Cimitirul vechi de la Santa Rosa este un loc de odihnă istoric și o atracție culturală în pante-macassar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.374401,
+                        -9.203348
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Această Praia este o plajă liniștită, cu țărmuri frumoase de nisip în pante-macassar-cities-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        124.365923,
+                        -9.198283
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António de Oé-Cusse",
+                  "text": "Igreja de Santo António de Oé-Cusse este o biserică creștină fermecătoare care deservește comunitatea locală din pante-macassar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.373158,
+                        -9.19776
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "The Portuguese Fort is an ancient defensive structure standing as a historical monument in pante-macassar-cities-v2.",
+                  "category": "historical",
+                  "coords": [
+                        124.371646,
+                        -9.208051
+                  ]
+            },
+            {
+                  "name": "City view",
+                  "text": "This City view provides a scenic panoramic vantage point over pante-macassar-cities-v2.",
+                  "category": "natural",
+                  "coords": [
+                        124.370866,
+                        -9.207107
+                  ]
+            },
+            {
+                  "name": "Old Cemetery at Santa Rosa",
+                  "text": "The Old Cemetery at Santa Rosa is a notable historical resting place and cultural attraction in pante-macassar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.374401,
+                        -9.203348
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "This Praia is a peaceful beach offering beautiful sandy shores in pante-macassar-cities-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        124.365923,
+                        -9.198283
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António de Oé-Cusse",
+                  "text": "Igreja de Santo António de Oé-Cusse is a charming Christian church serving the local community of pante-macassar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.373158,
+                        -9.19776
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-OE",
     coords: [124.3725, -9.2016],
@@ -422,7 +1115,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "same-cities-v2",
+    id: "same-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nossa Senhora Asunsaun",
+                  "text": "Diese christliche Pfarrei in der Stadt Same ist ein zentraler Ort der Anbetung, eingebettet in die bewaldeten Hügel des Bezirks.",
+                  "category": "landmark",
+                  "coords": [
+                        125.647853,
+                        -8.999045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nossa Senhora Asunsaun",
+                  "text": "Ez a Same városában található keresztény plébánia a kerület erdős dombjai között megbúvó istentisztelet központja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.647853,
+                        -8.999045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nossa Senhora Asunsaun",
+                  "text": "Această parohie creștină din orașul Same este un punct central de cult, amplasată printre dealurile împădurite ale districtului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.647853,
+                        -8.999045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nossa Senhora Asunsaun",
+                  "text": "This Christian parish in the town of Same is a focal point of worship, nestled amidst the forested hills of the district.",
+                  "category": "landmark",
+                  "coords": [
+                        125.647853,
+                        -8.999045
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-MF",
     coords: [125.6475, -9.0033],
@@ -466,7 +1204,88 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "liquica-cities-v2",
+    id: "liquica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liquicá Church",
+                  "text": "Diese prominente christliche Pfarrkirche dient der Küstengemeinde von Liquicá und veranstaltet regelmäßige Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        125.326851,
+                        -8.59184
+                  ]
+            },
+            {
+                  "name": "Masjid Muslim Liquica",
+                  "text": "Eine lokale Moschee, die als spirituelles Zentrum für die muslimische Minderheit in der Küstenstadt Liquicá dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.328448,
+                        -8.594755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liquicá Church",
+                  "text": "Ez a kiemelkedő keresztény plébániatemplom Liquicá tengerparti közösségét szolgálja ki, rendszeres vallási szertartásoknak adva otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        125.326851,
+                        -8.59184
+                  ]
+            },
+            {
+                  "name": "Masjid Muslim Liquica",
+                  "text": "Egy helyi mecset, amely a tengerparti Liquicá város iszlám kisebbségének spirituális és közösségi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.328448,
+                        -8.594755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liquicá Church",
+                  "text": "Această biserică parohială creștină proeminentă deservește comunitatea de coastă din Liquicá, găzduind slujbe religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        125.326851,
+                        -8.59184
+                  ]
+            },
+            {
+                  "name": "Masjid Muslim Liquica",
+                  "text": "O moschee locală care servește drept centru spiritual și comunitar pentru minoritatea islamică din orașul de coastă Liquicá.",
+                  "category": "landmark",
+                  "coords": [
+                        125.328448,
+                        -8.594755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liquicá Church",
+                  "text": "This prominent Christian parish church serves the coastal community of Liquicá, hosting regular religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        125.326851,
+                        -8.59184
+                  ]
+            },
+            {
+                  "name": "Masjid Muslim Liquica",
+                  "text": "A local mosque serving as the spiritual and community center for the Islamic minority in the coastal town of Liquicá.",
+                  "category": "landmark",
+                  "coords": [
+                        125.328448,
+                        -8.594755
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-LI",
     coords: [125.3283, -8.5925],
@@ -514,7 +1333,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jardim ADS Massacre do Aileu",
-                  "text": "Das Jardim ADS Massacre do Aileu ist ein Denkmal in Aileu.",
+                  "text": "Gedenkgarten für das Massaker von Aileu, historische Stätte.",
                   "category": "historical",
                   "coords": [
                         125.567365,
@@ -525,7 +1344,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Jardim ADS Massacre do Aileu",
-                  "text": "A Jardim ADS Massacre do Aileu egy emlékmű Aileu városában.",
+                  "text": "Emlékkert az aileui mészárlásnak, történelmi hely.",
                   "category": "historical",
                   "coords": [
                         125.567365,
@@ -536,7 +1355,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Jardim ADS Massacre do Aileu",
-                  "text": "Jardim ADS Massacre do Aileu este un monument situat în Aileu.",
+                  "text": "Grădină memorială pentru masacrul de la Aileu, loc istoric.",
                   "category": "historical",
                   "coords": [
                         125.567365,
@@ -547,7 +1366,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jardim ADS Massacre do Aileu",
-                  "text": "Jardim ADS Massacre do Aileu is a monument located in Aileu.",
+                  "text": "A memorial garden for the Aileu massacre, a historical site.",
                   "category": "historical",
                   "coords": [
                         125.567365,
@@ -599,7 +1418,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "ainaro-cities-v2",
+    id: "ainaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreza Ainaro",
+                  "text": "Diese in der Bergstadt Ainaro gelegene christliche Kirche zeichnet sich durch eine an das kühle Hochlandklima angepasste Architektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        125.505841,
+                        -8.988771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreza Ainaro",
+                  "text": "A hegyvidéki Ainaro városában található keresztény templom a hűvös felvidéki klímához alkalmazkodó építészettel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.505841,
+                        -8.988771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreza Ainaro",
+                  "text": "Situată în orașul muntos Ainaro, această biserică creștină are o arhitectură adaptată climatului răcoros al munților.",
+                  "category": "landmark",
+                  "coords": [
+                        125.505841,
+                        -8.988771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreza Ainaro",
+                  "text": "Located in the mountainous town of Ainaro, this Christian church features architecture adapted to the cool highland climate.",
+                  "category": "landmark",
+                  "coords": [
+                        125.505841,
+                        -8.988771
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-AN",
     coords: [125.5081, -8.9928],
@@ -643,7 +1507,88 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "manatuto-cities-v2",
+    id: "manatuto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Paroquia Santo Antonio Manatuto",
+                  "text": "Die Pfarrkirche Santo Antonio ist das religiöse Zentrum der christlichen Gemeinde in Manatuto.",
+                  "category": "landmark",
+                  "coords": [
+                        126.018325,
+                        -8.51148
+                  ]
+            },
+            {
+                  "name": "Everial imale Musan",
+                  "text": "Dieser Marktplatz in Manatuto ist ein belebter Ort, an dem frische Lebensmittel und Waren des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        126.016763,
+                        -8.511334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Paroquia Santo Antonio Manatuto",
+                  "text": "A Santo Antonio plébániatemplom a manatutói keresztény közösség vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        126.018325,
+                        -8.51148
+                  ]
+            },
+            {
+                  "name": "Everial imale Musan",
+                  "text": "Ez a manatutói piactér nyüzsgő hely, ahol friss élelmiszerekkel és napi szükségleti cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        126.016763,
+                        -8.511334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Paroquia Santo Antonio Manatuto",
+                  "text": "Biserica parohială Santo Antonio este centrul religios al comunității creștine din Manatuto.",
+                  "category": "landmark",
+                  "coords": [
+                        126.018325,
+                        -8.51148
+                  ]
+            },
+            {
+                  "name": "Everial imale Musan",
+                  "text": "Această piață din Manatuto este un loc plin de viață unde se comercializează alimente proaspete și bunuri de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        126.016763,
+                        -8.511334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Paroquia Santo Antonio Manatuto",
+                  "text": "The parish church of Santo Antonio is the religious center of the Christian community in Manatuto.",
+                  "category": "landmark",
+                  "coords": [
+                        126.018325,
+                        -8.51148
+                  ]
+            },
+            {
+                  "name": "Everial imale Musan",
+                  "text": "This marketplace in Manatuto is a bustling place where fresh food and daily necessities are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        126.016763,
+                        -8.511334
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-MT",
     coords: [126.0142, -8.5117],
@@ -687,7 +1632,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "gleno-cities-v2",
+    id: "gleno-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Nossa Senhora da Graça",
+                  "text": "Diese der Muttergottes der Gnade gewidmete katholische Kirche ist ein wichtiger Ort für christliche Zusammenkünfte in der Stadt Gleno.",
+                  "category": "landmark",
+                  "coords": [
+                        125.438616,
+                        -8.720582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Nossa Senhora da Graça",
+                  "text": "A Kegyelmes Miasszonyunknak szentelt katolikus templom a keresztény összejövetelek kiemelkedő helyszíne Gleno városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.438616,
+                        -8.720582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Nossa Senhora da Graça",
+                  "text": "Dedicată Maicii Domnului a Harului, această biserică catolică este un loc proeminent pentru adunările creștine din orașul Gleno.",
+                  "category": "landmark",
+                  "coords": [
+                        125.438616,
+                        -8.720582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Nossa Senhora da Graça",
+                  "text": "Dedicated to Our Lady of Grace, this Catholic church is a prominent place for Christian gatherings in the town of Gleno.",
+                  "category": "landmark",
+                  "coords": [
+                        125.438616,
+                        -8.720582
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-ER",
     coords: [125.4361, -8.7239],
@@ -731,7 +1721,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "vila-de-atauro-cities-v2",
+    id: "vila-de-atauro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Paroqui",
+                  "text": "Diese christliche Pfarrkirche in Vila de Atauro auf der Insel Atauro bietet Blick auf die Küste und dient den Gläubigen der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        125.603102,
+                        -8.265626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Paroqui",
+                  "text": "Az Atauro-szigeten, Vila de Atauro városában található keresztény plébániatemplom a partra néz, és a sziget híveit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.603102,
+                        -8.265626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Paroqui",
+                  "text": "Situată în Vila de Atauro de pe insula Atauro, această biserică parohială creștină are vedere la coastă și servește credincioșilor insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        125.603102,
+                        -8.265626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Paroqui",
+                  "text": "Located in Vila de Atauro on Atauro Island, this Christian parish church features coastal views and serves the island's faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        125.603102,
+                        -8.265626
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-AT",
     coords: [125.6025, -8.2431],
@@ -775,7 +1810,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "maubisse-cities-v2",
+    id: "maubisse-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado Maubisse",
+                  "text": "Ein lebhafter Bergmarkt, auf dem lokale Bauern frische Produkte in Maubisse verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.596942,
+                        -8.838751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado Maubisse",
+                  "text": "Egy élénk hegyi piac, ahol a helyi gazdák friss termékeket árulnak Maubisse-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        125.596942,
+                        -8.838751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado Maubisse",
+                  "text": "O piață de munte vibrantă unde fermierii locali vând produse proaspete în Maubisse.",
+                  "category": "cultural",
+                  "coords": [
+                        125.596942,
+                        -8.838751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercado Maubisse",
+                  "text": "A vibrant mountain marketplace where local farmers sell fresh produce in Maubisse.",
+                  "category": "cultural",
+                  "coords": [
+                        125.596942,
+                        -8.838751
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-AN",
     coords: [125.5975, -8.8389],
@@ -965,7 +2045,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
             },
             {
                   "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
-                  "text": "Ruinen einer ehemaligen portugiesischen Garnison in der Nähe der Festung Balibo.",
+                  "text": "Ruinen einer alten portugiesischen Kaserne in Balibo.",
                   "category": "historical",
                   "coords": [
                         125.045204,
@@ -985,7 +2065,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
             },
             {
                   "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
-                  "text": "Egy egykori portugál helyőrség romjai a balibói erőd közelében.",
+                  "text": "Egy régi portugál laktanya romjai Balibóban.",
                   "category": "historical",
                   "coords": [
                         125.045204,
@@ -1005,7 +2085,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
             },
             {
                   "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
-                  "text": "Ruinele unei foste garnizoane portugheze lângă fortăreața Balibo.",
+                  "text": "Ruinele unei vechi cazărmi portugheze în Balibo.",
                   "category": "historical",
                   "coords": [
                         125.045204,
@@ -1025,7 +2105,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
             },
             {
                   "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
-                  "text": "Ruins of a former Portuguese garrison near the Balibo Fort.",
+                  "text": "Ruins of a former Portuguese barracks in Balibo.",
                   "category": "historical",
                   "coords": [
                         125.045204,
@@ -1121,7 +2201,124 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "iliomar-cities-v2",
+    id: "iliomar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Das Portuguese Fort ist eine historische Attraktion in iliomar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.826553,
+                        -8.710842
+                  ]
+            },
+            {
+                  "name": "Igreja NOSSA SENHORA DE FATIMA ILIOMAR",
+                  "text": "Igreja NOSSA SENHORA DE FATIMA ILIOMAR ist eine christliche Stätte in iliomar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.825727,
+                        -8.707781
+                  ]
+            },
+            {
+                  "name": "mercado",
+                  "text": "Dieser Mercado ist ein Marktplatz in iliomar-cities-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.827122,
+                        -8.70929
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "A Portuguese Fort egy történelmi látványosság iliomar-cities-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.826553,
+                        -8.710842
+                  ]
+            },
+            {
+                  "name": "Igreja NOSSA SENHORA DE FATIMA ILIOMAR",
+                  "text": "Az Igreja NOSSA SENHORA DE FATIMA ILIOMAR egy keresztény templom iliomar-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        126.825727,
+                        -8.707781
+                  ]
+            },
+            {
+                  "name": "mercado",
+                  "text": "Ez a mercado egy piac iliomar-cities-v2 régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        126.827122,
+                        -8.70929
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "Portuguese Fort este o atracție istorică din iliomar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.826553,
+                        -8.710842
+                  ]
+            },
+            {
+                  "name": "Igreja NOSSA SENHORA DE FATIMA ILIOMAR",
+                  "text": "Igreja NOSSA SENHORA DE FATIMA ILIOMAR este un loc creștin din iliomar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.825727,
+                        -8.707781
+                  ]
+            },
+            {
+                  "name": "mercado",
+                  "text": "Acest mercado este o piață locală din iliomar-cities-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.827122,
+                        -8.70929
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portuguese Fort",
+                  "text": "The Portuguese Fort is a historical attraction in iliomar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.826553,
+                        -8.710842
+                  ]
+            },
+            {
+                  "name": "Igreja NOSSA SENHORA DE FATIMA ILIOMAR",
+                  "text": "Igreja NOSSA SENHORA DE FATIMA ILIOMAR is a Christian site located in iliomar-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.825727,
+                        -8.707781
+                  ]
+            },
+            {
+                  "name": "mercado",
+                  "text": "This mercado is a local marketplace in iliomar-cities-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.827122,
+                        -8.70929
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-LA",
     coords: [126.8258, -8.7114],
@@ -1165,7 +2362,124 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "luro-cities-v2",
+    id: "luro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vila Rafaek",
+                  "text": "Vila Rafaek ist eine lokale Gebetsstätte in Luro, die spirituelle Einkehr abseits der größeren Stadtzentren ermöglicht.",
+                  "category": "religious",
+                  "coords": [
+                        126.831432,
+                        -8.567161
+                  ]
+            },
+            {
+                  "name": "Capela Maria Mazarela de Buanomar",
+                  "text": "Die Capela Maria Mazarela de Buanomar in Luro ist eine kleine Kapelle, die Maria Mazzarello gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        126.811215,
+                        -8.551727
+                  ]
+            },
+            {
+                  "name": "Salaun Paroquial Luro",
+                  "text": "Der Salaun Paroquial Luro ist ein Pfarrsaal und Gotteshaus in Luro, in dem regelmäßig christliche Gemeinderäte tagen.",
+                  "category": "religious",
+                  "coords": [
+                        126.832812,
+                        -8.543239
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vila Rafaek",
+                  "text": "A luroi Vila Rafaek egy helyi imaház, amely spirituális elmélyülést tesz lehetővé a nagyobb városi központoktól távol.",
+                  "category": "religious",
+                  "coords": [
+                        126.831432,
+                        -8.567161
+                  ]
+            },
+            {
+                  "name": "Capela Maria Mazarela de Buanomar",
+                  "text": "A Capela Maria Mazarela de Buanomar Luróban egy kis kápolna, amelyet Maria Mazzarellónak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        126.811215,
+                        -8.551727
+                  ]
+            },
+            {
+                  "name": "Salaun Paroquial Luro",
+                  "text": "A Salaun Paroquial Luro egy plébániaterem és templom Luróban, ahol rendszeresen tartanak keresztény közösségi találkozókat.",
+                  "category": "religious",
+                  "coords": [
+                        126.832812,
+                        -8.543239
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vila Rafaek",
+                  "text": "Vila Rafaek este un lăcaș de rugăciune local din Luro, permițând reculegerea spirituală departe de marile centre urbane.",
+                  "category": "religious",
+                  "coords": [
+                        126.831432,
+                        -8.567161
+                  ]
+            },
+            {
+                  "name": "Capela Maria Mazarela de Buanomar",
+                  "text": "Capela Maria Mazarela de Buanomar din Luro este o mică capelă dedicată Mariei Mazzarello, servind congregația locală.",
+                  "category": "religious",
+                  "coords": [
+                        126.811215,
+                        -8.551727
+                  ]
+            },
+            {
+                  "name": "Salaun Paroquial Luro",
+                  "text": "Salaun Paroquial Luro este o sală parohială și biserică din Luro, găzduind frecvent întruniri ale comunității creștine.",
+                  "category": "religious",
+                  "coords": [
+                        126.832812,
+                        -8.543239
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vila Rafaek",
+                  "text": "Vila Rafaek is a local place of worship in Luro, allowing for spiritual reflection away from larger urban centers.",
+                  "category": "religious",
+                  "coords": [
+                        126.831432,
+                        -8.567161
+                  ]
+            },
+            {
+                  "name": "Capela Maria Mazarela de Buanomar",
+                  "text": "Capela Maria Mazarela de Buanomar in Luro is a small chapel dedicated to Mary Mazzarello, serving the local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        126.811215,
+                        -8.551727
+                  ]
+            },
+            {
+                  "name": "Salaun Paroquial Luro",
+                  "text": "Salaun Paroquial Luro is a parish hall and church facility in Luro, frequently hosting Christian community meetings.",
+                  "category": "religious",
+                  "coords": [
+                        126.832812,
+                        -8.543239
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-LA",
     coords: [126.8317, -8.5414],
@@ -1253,7 +2567,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "ossu-cities-v2",
+    id: "ossu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja de Santa Teresinha do Menino Jesús Ossú",
+                  "text": "Die christliche Kirche von Ossú ist der Heiligen Theresia vom Kinde Jesus geweiht und prägt das Stadtzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        126.385251,
+                        -8.743084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja de Santa Teresinha do Menino Jesús Ossú",
+                  "text": "Az ossúi keresztény templomot a Gyermek Jézusról nevezett Szent Teréznek szentelték, és a városközpontot díszíti.",
+                  "category": "landmark",
+                  "coords": [
+                        126.385251,
+                        -8.743084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja de Santa Teresinha do Menino Jesús Ossú",
+                  "text": "Biserica creștină din Ossú este dedicată Sfintei Tereza a Pruncului Isus și domină centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        126.385251,
+                        -8.743084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja de Santa Teresinha do Menino Jesús Ossú",
+                  "text": "The Christian church of Ossú is dedicated to St Therese of the Child Jesus and marks the town center.",
+                  "category": "landmark",
+                  "coords": [
+                        126.385251,
+                        -8.743084
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-VI",
     coords: [126.3739, -8.7381],
@@ -1429,7 +2788,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "laleia-cities-v2",
+    id: "laleia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Paroquia Laleia",
+                  "text": "Die Pfarrkirche von Laleia ist ein christlicher Treffpunkt in der gleichnamigen Küstenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.163319,
+                        -8.536693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Paroquia Laleia",
+                  "text": "A laleiai plébániatemplom a tengerparti város egyik fő keresztény gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        126.163319,
+                        -8.536693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Paroquia Laleia",
+                  "text": "Biserica parohială din Laleia este un loc de întâlnire creștină în orașul de coastă cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        126.163319,
+                        -8.536693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Paroquia Laleia",
+                  "text": "The parish church of Laleia is a Christian gathering place in the coastal town of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        126.163319,
+                        -8.536693
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-MT",
     coords: [126.1633, -8.5369],
@@ -1477,7 +2881,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Maubere Mountain Coffee",
-                  "text": "Maubere Mountain Coffee ist eine Attraktion in Laclubar.",
+                  "text": "Kaffeerösterei Maubere Mountain Coffee am Berghang in Laclubar.",
                   "category": "landmark",
                   "coords": [
                         125.908,
@@ -1488,7 +2892,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Maubere Mountain Coffee",
-                  "text": "A Maubere Mountain Coffee egy látványosság Laclubar területén.",
+                  "text": "Maubere Mountain Coffee pörkölő a hegyoldalban Laclubarban.",
                   "category": "landmark",
                   "coords": [
                         125.908,
@@ -1499,7 +2903,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Maubere Mountain Coffee",
-                  "text": "Maubere Mountain Coffee este o atracție situată în Laclubar.",
+                  "text": "Prăjitoria de cafea Maubere Mountain Coffee pe versantul muntelui în Laclubar.",
                   "category": "landmark",
                   "coords": [
                         125.908,
@@ -1510,7 +2914,7 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Maubere Mountain Coffee",
-                  "text": "Maubere Mountain Coffee is an attraction located in Laclubar.",
+                  "text": "Maubere Mountain Coffee roastery on a hillside in Laclubar.",
                   "category": "landmark",
                   "coords": [
                         125.908,
@@ -1562,7 +2966,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "zumalai-cities-v2",
+    id: "zumalai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of Zumalai Parish",
+                  "text": "Die Pfarrkirche von Zumalai ist ein bescheidenes katholisches Heiligtum, das den spirituellen Bedürfnissen der ländlichen osttimoresischen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.449398,
+                        -9.157049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of Zumalai Parish",
+                  "text": "A zumalai plébániatemplom egy szerény katolikus szentély, amely a vidéki kelet-timori közösség spirituális igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        125.449398,
+                        -9.157049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of Zumalai Parish",
+                  "text": "Biserica parohiei Zumalai este un sanctuar catolic modest care deservește nevoile spirituale ale comunității rurale est-timoreze.",
+                  "category": "landmark",
+                  "coords": [
+                        125.449398,
+                        -9.157049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Zumalai Parish",
+                  "text": "The Church of Zumalai Parish is a modest Catholic sanctuary serving the spiritual needs of the rural East Timorese community.",
+                  "category": "landmark",
+                  "coords": [
+                        125.449398,
+                        -9.157049
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-CO",
     coords: [125.4522, -9.1581],

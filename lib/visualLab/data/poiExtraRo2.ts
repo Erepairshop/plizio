@@ -1333,7 +1333,88 @@ export const poiExtraRo2: POI[] = [
       fr: ["Damen Galați est le fleuron de l'industrie navale roumaine.", "Le chantier fabrique des navires hautement spécialisés pour des clients du monde entier.", "Certains des navires militaires les plus avancés pour l'OTAN ont été construits à Galați.", "Le site possède l'une des plus grandes cales sèches du bas Danube.", "Le chantier fait partie du groupe international Damen Shipyards Group.", "Plus de 2 000 spécialistes sont directement employés au chantier.", "Le plus grand yacht privé construit en Roumanie a été achevé à Galați.", "Le chantier utilise les logiciels de conception et de fabrication 3D les plus modernes."],
     }, image: "/poi-images/industry-damen-galati-extra.webp"},
   {
-    id: "industry-vard-braila-extra", "sights": {"de": [{"name": "Plaja Lacu Sarat", "text": "Am idyllischen Lacu Sărat unweit von Brăila bietet dieser Strand eine wunderbare Kulisse für erholsame Tage. Die ruhigen Gewässer des Sees schaffen ideale Bedingungen für entspanntes Baden und ausgedehntes Sonnenliegen. Lokale Besucher schätzen die friedvolle Natur, die diesen Ort umgibt. Bringen Sie ausreichend Sonnenschutz mit, um die Nachmittagsstunden voll auszukosten.", "category": "recreational", "coords": [27.915649, 45.216565]}, {"name": "Alma Health and Fun", "text": "Freizeitbereich bei Brăila.", "category": "recreational", "coords": [27.918469, 45.216892]}], "hu": [{"name": "Plaja Lacu Sarat", "text": "A Brăila közelében fekvő, idilli Lacu Sărat partján ez a strand csodálatos környezetet biztosít a pihentető napokhoz. A tó csendes vize ideális feltételeket teremt a nyugodt fürdőzéshez és a hosszas napozásra. A helyi látogatók nagyra értékelik a helyet körülvevő békés természetet. Hozzon magával elegendő naptejet, hogy maximálisan kiélvezhesse a délutáni órákat.", "category": "recreational", "coords": [27.915649, 45.216565]}, {"name": "Alma Health and Fun", "text": "Szabadidőpark Brăila közelében.", "category": "recreational", "coords": [27.918469, 45.216892]}], "ro": [{"name": "Plaja Lacu Sarat", "text": "Pe malul idilicului Lacu Sărat, nu departe de Brăila, această plajă oferă un decor minunat pentru zile de odihnă. Apele liniștite ale lacului creează condiții ideale pentru înot relaxant și băi de soare prelungite. Vizitatorii locali apreciază natura pașnică ce înconjoară acest loc. Aduceți cu voi suficientă protecție solară pentru a savura din plin orele după-amiezii.", "category": "recreational", "coords": [27.915649, 45.216565]}, {"name": "Alma Health and Fun", "text": "Zonă de agrement lângă Brăila.", "category": "recreational", "coords": [27.918469, 45.216892]}], "en": [{"name": "Plaja Lacu Sarat", "text": "On the idyllic Lacu Sărat, not far from Brăila, this beach provides a wonderful setting for restful days. The calm waters of the lake create ideal conditions for relaxed swimming and extended sunbathing. Local visitors appreciate the peaceful nature that surrounds this spot. Bring plenty of sun protection to fully enjoy the afternoon hours.", "category": "recreational", "coords": [27.915649, 45.216565]}, {"name": "Alma Health and Fun", "text": "Recreational area near Brăila.", "category": "recreational", "coords": [27.918469, 45.216892]}]},
+    id: "industry-vard-braila-extra", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Lacu Sarat",
+                  "text": "Am idyllischen Lacu Sărat unweit von Brăila bietet dieser Strand eine wunderbare Kulisse für erholsame Tage. Die ruhigen Gewässer des Sees schaffen ideale Bedingungen für entspanntes Baden und ausgedehntes Sonnenliegen. Lokale Besucher schätzen die friedvolle Natur, die diesen Ort umgibt. Bringen Sie ausreichend Sonnenschutz mit, um die Nachmittagsstunden voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915649,
+                        45.216565
+                  ]
+            },
+            {
+                  "name": "Alma Health and Fun",
+                  "text": "Alma Health and Fun Wellnesszentrum auf der Vard-Werft in Brăila.",
+                  "category": "recreational",
+                  "coords": [
+                        27.918469,
+                        45.216892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Lacu Sarat",
+                  "text": "A Brăila közelében fekvő, idilli Lacu Sărat partján ez a strand csodálatos környezetet biztosít a pihentető napokhoz. A tó csendes vize ideális feltételeket teremt a nyugodt fürdőzéshez és a hosszas napozásra. A helyi látogatók nagyra értékelik a helyet körülvevő békés természetet. Hozzon magával elegendő naptejet, hogy maximálisan kiélvezhesse a délutáni órákat.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915649,
+                        45.216565
+                  ]
+            },
+            {
+                  "name": "Alma Health and Fun",
+                  "text": "Alma Health and Fun wellnessközpont a brăilai Vard hajógyárban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.918469,
+                        45.216892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Lacu Sarat",
+                  "text": "Pe malul idilicului Lacu Sărat, nu departe de Brăila, această plajă oferă un decor minunat pentru zile de odihnă. Apele liniștite ale lacului creează condiții ideale pentru înot relaxant și băi de soare prelungite. Vizitatorii locali apreciază natura pașnică ce înconjoară acest loc. Aduceți cu voi suficientă protecție solară pentru a savura din plin orele după-amiezii.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915649,
+                        45.216565
+                  ]
+            },
+            {
+                  "name": "Alma Health and Fun",
+                  "text": "Alma Health and Fun, centru de wellness la Șantierul Naval Vard din Brăila.",
+                  "category": "recreational",
+                  "coords": [
+                        27.918469,
+                        45.216892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Lacu Sarat",
+                  "text": "On the idyllic Lacu Sărat, not far from Brăila, this beach provides a wonderful setting for restful days. The calm waters of the lake create ideal conditions for relaxed swimming and extended sunbathing. Local visitors appreciate the peaceful nature that surrounds this spot. Bring plenty of sun protection to fully enjoy the afternoon hours.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915649,
+                        45.216565
+                  ]
+            },
+            {
+                  "name": "Alma Health and Fun",
+                  "text": "Alma Health and Fun wellness center at the Vard Shipyard in Brăila.",
+                  "category": "recreational",
+                  "coords": [
+                        27.918469,
+                        45.216892
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RO-BR",
     coords: [27.95, 45.25],
@@ -3459,7 +3540,7 @@ export const poiExtraRo2: POI[] = [
             },
             {
                   "name": "Grădina Zoologică",
-                  "text": "Ein zoologischer Garten im Waldgebiet Gârboavele bei Galați.",
+                  "text": "1960 eröffneter Zoologischer Garten im Gârboavele Adventure Park.",
                   "category": "recreational",
                   "coords": [
                         28.010093,
@@ -3488,7 +3569,7 @@ export const poiExtraRo2: POI[] = [
             },
             {
                   "name": "Grădina Zoologică",
-                  "text": "Állatkert a Galați melletti Gârboavele erdőben.",
+                  "text": "1960-ban megnyílt Állatkert a Gârboavele Adventure Parkban.",
                   "category": "recreational",
                   "coords": [
                         28.010093,
@@ -3517,7 +3598,7 @@ export const poiExtraRo2: POI[] = [
             },
             {
                   "name": "Grădina Zoologică",
-                  "text": "O grădină zoologică situată în pădurea Gârboavele de lângă Galați.",
+                  "text": "Grădina Zoologică din Parcul de Aventură Gârboavele, deschisă în 1960.",
                   "category": "recreational",
                   "coords": [
                         28.010093,
@@ -3546,7 +3627,7 @@ export const poiExtraRo2: POI[] = [
             },
             {
                   "name": "Zoological Garden",
-                  "text": "A zoological garden located in the Gârboavele forest near Galați.",
+                  "text": "Zoological Garden in Gârboavele Adventure Park, opened in 1960.",
                   "category": "recreational",
                   "coords": [
                         28.010093,
@@ -3924,7 +4005,7 @@ export const poiExtraRo2: POI[] = [
       "de": [
             {
                   "name": "Turnul Oncești",
-                  "text": "Ein markantes Gebäude im Arka Park Păltiniș.",
+                  "text": "Aussichtsturm im Arka Park Păltiniș mit Panoramablick.",
                   "category": "landmark",
                   "coords": [
                         23.945972,
@@ -3935,7 +4016,7 @@ export const poiExtraRo2: POI[] = [
       "hu": [
             {
                   "name": "Turnul Oncești",
-                  "text": "Egy jellegzetes épület az Arka Park Păltiniș területén.",
+                  "text": "Kilátótorony az Arka Park Păltinișben, panorámás kilátással.",
                   "category": "landmark",
                   "coords": [
                         23.945972,
@@ -3946,7 +4027,7 @@ export const poiExtraRo2: POI[] = [
       "ro": [
             {
                   "name": "Turnul Oncești",
-                  "text": "O clădire distinctivă situată în Arka Park Păltiniș.",
+                  "text": "Turn de observație în Parcul Arka Păltiniș, cu vedere panoramică.",
                   "category": "landmark",
                   "coords": [
                         23.945972,
@@ -3957,7 +4038,7 @@ export const poiExtraRo2: POI[] = [
       "en": [
             {
                   "name": "Turnul Oncești",
-                  "text": "A distinctive building located in Arka Park Păltiniș.",
+                  "text": "Watchtower in Arka Park Păltiniș, offering panoramic views.",
                   "category": "landmark",
                   "coords": [
                         23.945972,
@@ -4576,7 +4657,7 @@ export const poiExtraRo2: POI[] = [
       "de": [
             {
                   "name": "Citadel",
-                  "text": "Strand am Techirghiol-See.",
+                  "text": "Citadel-Erholungsgebiet am Ufer des Techirghiol-Sees.",
                   "category": "recreational",
                   "coords": [
                         28.643395,
@@ -4605,7 +4686,7 @@ export const poiExtraRo2: POI[] = [
       "hu": [
             {
                   "name": "Citadel",
-                  "text": "Strand a Techirghiol-tónál.",
+                  "text": "Citadel rekreációs terület a Techirghiol-tó partján.",
                   "category": "recreational",
                   "coords": [
                         28.643395,
@@ -4634,7 +4715,7 @@ export const poiExtraRo2: POI[] = [
       "ro": [
             {
                   "name": "Citadel",
-                  "text": "Plajă situată la Lacul Techirghiol.",
+                  "text": "Zonă de agrement Citadel pe malul lacului Techirghiol.",
                   "category": "recreational",
                   "coords": [
                         28.643395,
@@ -4663,7 +4744,7 @@ export const poiExtraRo2: POI[] = [
       "en": [
             {
                   "name": "Citadel",
-                  "text": "Beach located at Lake Techirghiol.",
+                  "text": "Citadel recreational area on the shore of Lake Techirghiol.",
                   "category": "recreational",
                   "coords": [
                         28.643395,

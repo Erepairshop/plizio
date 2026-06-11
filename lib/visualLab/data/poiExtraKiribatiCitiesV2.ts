@@ -97,7 +97,7 @@ export const kiribatiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Te Umwanibong",
-                  "text": "Kiribati National Museum and Cultural Centre ist ein Museum in Bikenibeu.",
+                  "text": "Nationalmuseum mit kulturellen Artefakten und traditionellen Gegenständen Kiribatis.",
                   "category": "museum",
                   "coords": [
                         173.120726,
@@ -106,7 +106,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Main port",
-                  "text": "Main port ist ein Aussichtspunkt in Bikenibeu.",
+                  "text": "Der wichtigste Hafen auf der Insel Bikenibeu, der den Fährverkehr nach South Tarawa bedient.",
                   "category": "natural",
                   "coords": [
                         173.118736,
@@ -115,7 +115,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Maneaban te kukurei",
-                  "text": "Maneaban te kukurei ist ein Aussichtspunkt in Bikenibeu.",
+                  "text": "Ein traditionelles reetgedecktes Versammlungshaus in Bikenibeu für Dorftreffen.",
                   "category": "natural",
                   "coords": [
                         173.123479,
@@ -126,7 +126,7 @@ export const kiribatiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Te Umwanibong",
-                  "text": "A Kiribati National Museum and Cultural Centre egy múzeum Bikenibeuban.",
+                  "text": "Nemzeti múzeum, amely Kiribati kulturális tárgyait és hagyományos eszközeit mutatja be.",
                   "category": "museum",
                   "coords": [
                         173.120726,
@@ -135,7 +135,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Main port",
-                  "text": "A Main port egy kilátó Bikenibeuban.",
+                  "text": "A fő kikötő Bikenibeu szigetén, amely a Dél-Tarawára közlekedő kompokat szolgálja ki.",
                   "category": "natural",
                   "coords": [
                         173.118736,
@@ -144,7 +144,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Maneaban te kukurei",
-                  "text": "A Maneaban te kukurei egy kilátó Bikenibeuban.",
+                  "text": "Egy hagyományos nádfedeles gyülekezőház Bikenibeu-n, falusi összejövetelekhez.",
                   "category": "natural",
                   "coords": [
                         173.123479,
@@ -155,7 +155,7 @@ export const kiribatiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Te Umwanibong",
-                  "text": "Kiribati National Museum and Cultural Centre este un muzeu în Bikenibeu.",
+                  "text": "Muzeu național care expune artefacte culturale și obiecte tradiționale din Kiribati.",
                   "category": "museum",
                   "coords": [
                         173.120726,
@@ -164,7 +164,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Main port",
-                  "text": "Main port este un punct de belvedere în Bikenibeu.",
+                  "text": "Principalul port de pe insula Bikenibeu, care deservește feriboturile către Tarawa de Sud.",
                   "category": "natural",
                   "coords": [
                         173.118736,
@@ -173,7 +173,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Maneaban te kukurei",
-                  "text": "Maneaban te kukurei este un punct de belvedere în Bikenibeu.",
+                  "text": "O casă tradițională de întrunire cu acoperiș de paie în Bikenibeu, pentru adunări sătești.",
                   "category": "natural",
                   "coords": [
                         173.123479,
@@ -184,7 +184,7 @@ export const kiribatiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kiribati National Museum and Cultural Centre",
-                  "text": "Kiribati National Museum and Cultural Centre is a museum located in Bikenibeu.",
+                  "text": "National museum showcasing cultural artefacts and traditional items of Kiribati.",
                   "category": "museum",
                   "coords": [
                         173.120726,
@@ -193,7 +193,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Main port",
-                  "text": "Main port is a viewpoint situated in Bikenibeu.",
+                  "text": "The main harbor on Bikenibeu island, serving ferry traffic to South Tarawa.",
                   "category": "natural",
                   "coords": [
                         173.118736,
@@ -202,7 +202,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Maneaban te kukurei",
-                  "text": "Maneaban te kukurei is a viewpoint found in Bikenibeu.",
+                  "text": "A traditional thatched meeting house on Bikenibeu used for village gatherings.",
                   "category": "natural",
                   "coords": [
                         173.123479,
@@ -259,7 +259,7 @@ export const kiribatiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sacred Heart Cathedral",
-                  "text": "Die Herz-Jesu-Kathedrale ist die Hauptkirche von Kiribati in Teaoraereke.",
+                  "text": "Moderne katholische Kathedrale mit einzigartiger Architektur auf Teaoraereke.",
                   "category": "landmark",
                   "coords": [
                         173.007222,
@@ -268,7 +268,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Itoiningaina Handicraft Center",
-                  "text": "Handwerkszentrum in Teaoraereke.",
+                  "text": "Ein Kunsthandwerkszentrum in Teaoraereke, das gewebte Matten und Kokosfaserprodukte verkauft.",
                   "category": "landmark",
                   "coords": [
                         173.008208,
@@ -279,7 +279,7 @@ export const kiribatiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sacred Heart Cathedral",
-                  "text": "A Jézus Szíve székesegyház Kiribati főtemploma Teaoraerekében.",
+                  "text": "Modern katolikus székesegyház egyedi építészettel Teaoraereke szigetén.",
                   "category": "landmark",
                   "coords": [
                         173.007222,
@@ -288,7 +288,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Itoiningaina Handicraft Center",
-                  "text": "Kézműves központ Teaoraerekében.",
+                  "text": "Egy kézműves központ Teaoraereke-ben, amely szőtt szőnyegeket és kókuszrost termékeket árul.",
                   "category": "landmark",
                   "coords": [
                         173.008208,
@@ -299,7 +299,7 @@ export const kiribatiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sacred Heart Cathedral",
-                  "text": "Catedrala Inimii Sacre este principala biserică din Kiribati în Teaoraereke.",
+                  "text": "Catedrală catolică modernă cu arhitectură unică în Teaoraereke.",
                   "category": "landmark",
                   "coords": [
                         173.007222,
@@ -308,7 +308,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Itoiningaina Handicraft Center",
-                  "text": "Centru de artizanat în Teaoraereke.",
+                  "text": "Un centru de meșteșuguri în Teaoraereke care vinde covoare țesute și produse din fibră de cocos.",
                   "category": "landmark",
                   "coords": [
                         173.008208,
@@ -319,7 +319,7 @@ export const kiribatiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sacred Heart Cathedral",
-                  "text": "The Sacred Heart Cathedral is the main church of Kiribati in Teaoraereke.",
+                  "text": "Modern Catholic cathedral with unique architecture on Teaoraereke.",
                   "category": "landmark",
                   "coords": [
                         173.007222,
@@ -328,7 +328,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Itoiningaina Handicraft Center",
-                  "text": "Handicraft center in Teaoraereke.",
+                  "text": "A handicraft center in Teaoraereke selling woven mats and coconut fiber products.",
                   "category": "landmark",
                   "coords": [
                         173.008208,
@@ -610,7 +610,7 @@ export const kiribatiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Te Umwanibong",
-                  "text": "Kiribati National Museum and Cultural Centre ist ein Museum in Temwaiku.",
+                  "text": "Nationalmuseum Kiribatis in Temwaiku, das die Inselkultur präsentiert.",
                   "category": "museum",
                   "coords": [
                         173.120726,
@@ -619,7 +619,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Main port",
-                  "text": "Main port ist ein Aussichtspunkt in Temwaiku.",
+                  "text": "Der Hafen von Temwaiku auf dem Tarawa-Atoll, ein Knotenpunkt für Inselfähren.",
                   "category": "natural",
                   "coords": [
                         173.118736,
@@ -628,7 +628,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Bill house",
-                  "text": "Bill house ist ein Aussichtspunkt in Temwaiku.",
+                  "text": "Ein großes traditionelles Haus mit Strohdach in Temwaiku, das für Gemeinschaftsveranstaltungen genutzt wird.",
                   "category": "natural",
                   "coords": [
                         173.158837,
@@ -637,7 +637,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Maneaban te kukurei",
-                  "text": "Maneaban te kukurei ist ein Aussichtspunkt in Temwaiku.",
+                  "text": "Ein traditionelles Versammlungshaus in Temwaiku mit einem Fundament aus Korallenstein.",
                   "category": "natural",
                   "coords": [
                         173.123479,
@@ -648,7 +648,7 @@ export const kiribatiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Te Umwanibong",
-                  "text": "A Kiribati National Museum and Cultural Centre egy múzeum Temwaikuban.",
+                  "text": "Kiribati Nemzeti Múzeuma Temwaikuban, amely a sziget kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
                         173.120726,
@@ -657,7 +657,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Main port",
-                  "text": "A Main port egy kilátó Temwaikuban.",
+                  "text": "Temwaiku kikötője a Tarawa-atollon, a szigetközi hajók csomópontja.",
                   "category": "natural",
                   "coords": [
                         173.118736,
@@ -666,7 +666,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Bill house",
-                  "text": "A Bill house egy kilátó Temwaikuban.",
+                  "text": "Egy nagy hagyományos nádfedeles ház Temwaikuban, közösségi eseményekhez.",
                   "category": "natural",
                   "coords": [
                         173.158837,
@@ -675,7 +675,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Maneaban te kukurei",
-                  "text": "A Maneaban te kukurei egy kilátó Temwaikuban.",
+                  "text": "Egy hagyományos gyülekezőház Temwaikuban korallkő alappal.",
                   "category": "natural",
                   "coords": [
                         173.123479,
@@ -686,7 +686,7 @@ export const kiribatiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Te Umwanibong",
-                  "text": "Kiribati National Museum and Cultural Centre este un muzeu în Temwaiku.",
+                  "text": "Muzeul Național al Kiribati în Temwaiku, prezentând cultura insulei.",
                   "category": "museum",
                   "coords": [
                         173.120726,
@@ -695,7 +695,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Main port",
-                  "text": "Main port este un punct de belvedere în Temwaiku.",
+                  "text": "Portul Temwaiku pe Atolul Tarawa, un hub pentru ambarcațiunile inter-insulare.",
                   "category": "natural",
                   "coords": [
                         173.118736,
@@ -704,7 +704,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Bill house",
-                  "text": "Bill house este un punct de belvedere în Temwaiku.",
+                  "text": "O casă mare tradițională cu acoperiș de paie în Temwaiku, folosită pentru evenimente comunitare.",
                   "category": "natural",
                   "coords": [
                         173.158837,
@@ -713,7 +713,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Maneaban te kukurei",
-                  "text": "Maneaban te kukurei este un punct de belvedere în Temwaiku.",
+                  "text": "O casă tradițională de întrunire în Temwaiku cu fundație de piatră corală.",
                   "category": "natural",
                   "coords": [
                         173.123479,
@@ -724,7 +724,7 @@ export const kiribatiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kiribati National Museum and Cultural Centre",
-                  "text": "Kiribati National Museum and Cultural Centre is a museum situated in Temwaiku.",
+                  "text": "Kiribati National Museum in Temwaiku, presenting the island's culture.",
                   "category": "museum",
                   "coords": [
                         173.120726,
@@ -733,7 +733,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Main port",
-                  "text": "Main port is a viewpoint found in Temwaiku.",
+                  "text": "The port of Temwaiku on Tarawa Atoll, a hub for inter-island boats.",
                   "category": "natural",
                   "coords": [
                         173.118736,
@@ -742,7 +742,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Bill house",
-                  "text": "Bill house is a viewpoint located in Temwaiku.",
+                  "text": "A large traditional thatched house in Temwaiku used for community events.",
                   "category": "natural",
                   "coords": [
                         173.158837,
@@ -751,7 +751,7 @@ export const kiribatiCitiesV2: POI[] = [
             },
             {
                   "name": "Maneaban te kukurei",
-                  "text": "Maneaban te kukurei is a viewpoint situated in Temwaiku.",
+                  "text": "A traditional meeting house in Temwaiku with a coral stone foundation.",
                   "category": "natural",
                   "coords": [
                         173.123479,

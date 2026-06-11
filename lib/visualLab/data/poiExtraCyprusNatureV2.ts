@@ -7,7 +7,7 @@ export const cyprusNatureV2: POI[] = [
       "de": [
             {
                   "name": "Marinoparea",
-                  "text": "Marinoparea-Strand an der Küste von Zygi.",
+                  "text": "Erholungsort am Zygi-Küstenkliff, beliebt zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         33.340568,
@@ -25,7 +25,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Old Beach Hut",
-                  "text": "Eine lokale Sehenswürdigkeit an der Küste von Zygi.",
+                  "text": "Alte Strandhütte am Zygi-Kliff, ein lokales Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         33.370243,
@@ -36,7 +36,7 @@ export const cyprusNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Marinoparea",
-                  "text": "Marinoparea-part Zygi partvidékén.",
+                  "text": "Pihenőhely a Zygi tengerparti sziklánál, népszerű fürdőzésre.",
                   "category": "recreational",
                   "coords": [
                         33.340568,
@@ -54,7 +54,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Old Beach Hut",
-                  "text": "Helyi látványosság Zygi tengerpartján.",
+                  "text": "Régi tengerparti kunyhó a Zygi-sziklánál, helyi nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         33.370243,
@@ -65,7 +65,7 @@ export const cyprusNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Marinoparea",
-                  "text": "Plaja Marinoparea pe coasta Zygi.",
+                  "text": "Loc de agrement pe faleza Zygi, popular pentru înot.",
                   "category": "recreational",
                   "coords": [
                         33.340568,
@@ -83,7 +83,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Old Beach Hut",
-                  "text": "O atracție locală situată pe coasta din Zygi.",
+                  "text": "Vechi cabană de plajă pe stânca Zygi, un reper local.",
                   "category": "landmark",
                   "coords": [
                         33.370243,
@@ -94,7 +94,7 @@ export const cyprusNatureV2: POI[] = [
       "en": [
             {
                   "name": "Marinoparea",
-                  "text": "Marinoparea beach on the Zygi coast.",
+                  "text": "Seaside recreational spot on the Zygi coastal cliff, popular for swimming.",
                   "category": "recreational",
                   "coords": [
                         33.340568,
@@ -112,7 +112,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Old Beach Hut",
-                  "text": "A local attraction situated on the Zygi coast.",
+                  "text": "Historic beach hut on the Zygi cliff, a local landmark.",
                   "category": "landmark",
                   "coords": [
                         33.370243,
@@ -691,7 +691,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Tripylos",
-                  "text": "Ein Berggipfel im Waldgebiet von Stavros tis Psokas.",
+                  "text": "Ein Berggipfel im Troodos-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         32.678066,
@@ -720,7 +720,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Tripylos",
-                  "text": "Hegycsúcs Stavros tis Psokas erdős területén.",
+                  "text": "Egy hegycsúcs a Troodos-hegységben.",
                   "category": "landmark",
                   "coords": [
                         32.678066,
@@ -749,7 +749,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Tripylos",
-                  "text": "Un vârf montan în zona forestieră Stavros tis Psokas.",
+                  "text": "Un vârf de munte în masivul Troodos.",
                   "category": "landmark",
                   "coords": [
                         32.678066,
@@ -778,7 +778,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Tripylos",
-                  "text": "A mountain peak in the Stavros tis Psokas forest area.",
+                  "text": "A mountain peak in the Troodos range.",
                   "category": "landmark",
                   "coords": [
                         32.678066,
@@ -853,7 +853,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Laneia rock-cut chambers at Akrotiri",
-                  "text": "In den Fels gehauene Kammern aus antiker Zeit bei Akrotiri.",
+                  "text": "Antike in den Fels gehauene Kammern auf der Halbinsel Akrotiri.",
                   "category": "historical",
                   "coords": [
                         32.996262,
@@ -900,7 +900,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Laneia rock-cut chambers at Akrotiri",
-                  "text": "Sziklába vájt ókori kamrák Akrotiri közelében.",
+                  "text": "Ősi sziklába vájt kamrák az Akrotiri-félszigeten.",
                   "category": "historical",
                   "coords": [
                         32.996262,
@@ -947,7 +947,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Laneia rock-cut chambers at Akrotiri",
-                  "text": "Camere săpate în stâncă din perioada antică lângă Akrotiri.",
+                  "text": "Camere antice săpate în stâncă pe peninsula Akrotiri.",
                   "category": "historical",
                   "coords": [
                         32.996262,
@@ -994,7 +994,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Laneia rock-cut chambers at Akrotiri",
-                  "text": "Ancient chambers cut into the rock near Akrotiri.",
+                  "text": "Ancient rock-cut chambers on the Akrotiri peninsula.",
                   "category": "historical",
                   "coords": [
                         32.996262,
@@ -1348,7 +1348,7 @@ export const cyprusNatureV2: POI[] = [
       "de": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Ein Museum in Lefkara, das sich der traditionellen Stickerei und Silberschmiedekunst widmet.",
+                  "text": "Museum in Lefkara für traditionelle zypriotische Stickerei und Silberschmiedekunst.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -1395,7 +1395,7 @@ export const cyprusNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Lefkarai múzeum, amely a hagyományos hímzést és ezüstművességet mutatja be.",
+                  "text": "Múzeum Lefkarában a hagyományos ciprusi hímzés és ezüstművesség bemutatására.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -1442,7 +1442,7 @@ export const cyprusNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
-                  "text": "Un muzeu din Lefkara dedicat broderiei tradiționale și argintăriei.",
+                  "text": "Muzeu în Lefkara care prezintă broderia tradițională cipriotă și arta argintăriei.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -1489,7 +1489,7 @@ export const cyprusNatureV2: POI[] = [
       "en": [
             {
                   "name": "Museum of Folk Art, Embroidery and Silversmithing Lefkara",
-                  "text": "A museum in Lefkara dedicated to traditional embroidery and silversmithing.",
+                  "text": "Museum in Lefkara showcasing traditional Cypriot embroidery and silversmithing.",
                   "category": "museum",
                   "coords": [
                         33.306159,
@@ -1645,7 +1645,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Ancient Basilica",
-                  "text": "Die archäologische Stätte einer antiken christlichen Basilika.",
+                  "text": "Ruinen einer frühchristlichen Basilika im Delta des Kouris-Flusses.",
                   "category": "historical",
                   "coords": [
                         32.883353,
@@ -1719,7 +1719,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Ancient Basilica",
-                  "text": "Egy ókori keresztény bazilika régészeti lelőhelye.",
+                  "text": "Egy ókeresztény bazilika romjai a Kouris folyó deltájában.",
                   "category": "historical",
                   "coords": [
                         32.883353,
@@ -1793,7 +1793,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Ancient Basilica",
-                  "text": "Situl arheologic al unei bazilici creștine antice.",
+                  "text": "Ruinele unei bazilici creștine timpurii în delta râului Kouris.",
                   "category": "historical",
                   "coords": [
                         32.883353,
@@ -1867,7 +1867,7 @@ export const cyprusNatureV2: POI[] = [
             },
             {
                   "name": "Ancient Basilica",
-                  "text": "The archaeological site of an ancient Christian basilica.",
+                  "text": "Ruins of an early Christian basilica on the delta of the Kouris River.",
                   "category": "historical",
                   "coords": [
                         32.883353,

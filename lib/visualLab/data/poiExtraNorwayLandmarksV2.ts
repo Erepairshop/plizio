@@ -169,7 +169,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Toso skole - Svømmehall",
-                  "text": "Toso skole - Svømmehall ist eine Schwimmhalle bei den Hadeland Glassworks.",
+                  "text": "Die Schwimmhalle der Toso-Schule nahe der Hadeland-Glashütte.",
                   "category": "recreational",
                   "coords": [
                         10.424862,
@@ -252,7 +252,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Toso skole - Svømmehall",
-                  "text": "A Toso skole - Svømmehall egy uszoda a Hadeland Glassworks közelében.",
+                  "text": "A Toso iskola uszodája a Hadeland üveggyár közelében.",
                   "category": "recreational",
                   "coords": [
                         10.424862,
@@ -335,7 +335,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Toso skole - Svømmehall",
-                  "text": "Toso skole - Svømmehall este o piscină situată lângă fabrica de sticlă Hadeland.",
+                  "text": "Sala de înot a școlii Toso lângă fabrica de sticlă Hadeland.",
                   "category": "recreational",
                   "coords": [
                         10.424862,
@@ -418,7 +418,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Toso skole - Svømmehall",
-                  "text": "Toso skole - Svømmehall is a swimming hall located near Hadeland Glassworks.",
+                  "text": "Toso school swimming hall near Hadeland glassworks.",
                   "category": "recreational",
                   "coords": [
                         10.424862,
@@ -484,7 +484,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Vassbunn naturreservat",
-                  "text": "Ein malerisches Naturschutzgebiet in der Region Vikersund.",
+                  "text": "Naturschutzgebiet in der Nähe der Skisprungschanze Vikersund, seit 2018 geschützt.",
                   "category": "natural",
                   "coords": [
                         9.970488,
@@ -558,7 +558,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Vassbunn naturreservat",
-                  "text": "Festői természetvédelmi terület Vikersund környékén.",
+                  "text": "Természetvédelmi terület a Vikersund-i síugrósánc közelében, 2018 óta védett.",
                   "category": "natural",
                   "coords": [
                         9.970488,
@@ -632,7 +632,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Vassbunn naturreservat",
-                  "text": "O rezervație naturală pitorească situată în zona Vikersund.",
+                  "text": "Rezervație naturală lângă trambulina de sărituri cu schiurile Vikersund, protejată din 2018.",
                   "category": "natural",
                   "coords": [
                         9.970488,
@@ -706,7 +706,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Vassbunn naturreservat",
-                  "text": "A scenic nature reserve located in the Vikersund area.",
+                  "text": "Nature reserve near the Vikersund ski jump, protected since 2018.",
                   "category": "natural",
                   "coords": [
                         9.970488,
@@ -853,7 +853,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Rådhusteatret Kongsvinger - kino",
-                  "text": "Ein Kultur- und Kinozentrum in Kongsvinger.",
+                  "text": "Das Rådhusteatret Kongsvinger, Theater und Kino im Rathaus nahe der Festung Kongsvinger.",
                   "category": "cultural",
                   "coords": [
                         11.999663,
@@ -918,7 +918,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Rådhusteatret Kongsvinger - kino",
-                  "text": "Kulturális és moziközpont Kongsvingerben.",
+                  "text": "A Rådhusteatret Kongsvinger színház és mozi a városházán a Kongsvinger erőd közelében.",
                   "category": "cultural",
                   "coords": [
                         11.999663,
@@ -983,7 +983,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Rådhusteatret Kongsvinger - kino",
-                  "text": "Un centru cultural și cinematografic în Kongsvinger.",
+                  "text": "Teatrul și cinematograful Rådhusteatret Kongsvinger la primărie lângă fortăreața Kongsvinger.",
                   "category": "cultural",
                   "coords": [
                         11.999663,
@@ -1048,7 +1048,7 @@ export const norwayLandmarksV2: POI[] = [
             },
             {
                   "name": "Rådhusteatret Kongsvinger - kino",
-                  "text": "A cultural and cinema center in Kongsvinger.",
+                  "text": "Rådhusteatret Kongsvinger theater and cinema at town hall near Kongsvinger fortress.",
                   "category": "cultural",
                   "coords": [
                         11.999663,

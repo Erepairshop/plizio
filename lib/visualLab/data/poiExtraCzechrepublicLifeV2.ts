@@ -396,7 +396,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Moorkopf",
-                  "text": "Die Malá Mokrůvka ist ein Gipfel im tschechischen Teil des Böhmerwaldes.",
+                  "text": "Die Malá Mokrůvka im Nationalpark Šumava ist ein felsiger Gipfel oder Aussichtspunkt im Park.",
                   "category": "landmark",
                   "coords": [
                         13.507449,
@@ -461,7 +461,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Malá Mokrůvka",
-                  "text": "A Malá Mokrůvka egy hegycsúcs a Šumava hegység csehországi részén.",
+                  "text": "A Malá Mokrůvka a Šumava Nemzeti Parkban egy sziklás csúcs vagy kilátó a parkban.",
                   "category": "landmark",
                   "coords": [
                         13.507449,
@@ -526,7 +526,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Malá Mokrůvka",
-                  "text": "Malá Mokrůvka este un vârf muntos în secțiunea cehă a Parcului Național Šumava.",
+                  "text": "Malá Mokrůvka din Parcul Național Šumava este un vârf stâncos sau punct de belvedere în parc.",
                   "category": "landmark",
                   "coords": [
                         13.507449,
@@ -591,7 +591,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Malá Mokrůvka",
-                  "text": "Malá Mokrůvka is a peak in the Czech part of the Šumava mountains.",
+                  "text": "Malá Mokrůvka in the Šumava National Park is a rocky peak or viewpoint in the park.",
                   "category": "landmark",
                   "coords": [
                         13.507449,
@@ -1387,7 +1387,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Čínoherní studio",
-                  "text": "Ein Schauspieltheaterstudio in Ústí nad Labem.",
+                  "text": "Das Čínoherní studio im Zoo Ústí nad Labem ist ein Schauspielstudio, das sich im Zoogelände befindet.",
                   "category": "cultural",
                   "coords": [
                         14.048057,
@@ -1470,7 +1470,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Čínoherní studio",
-                  "text": "Prózai színházi stúdió Ústí nad Labemben.",
+                  "text": "A Čínoherní studio az Ústí nad Labem Állatkertben egy színházi stúdió az állatkert területén.",
                   "category": "cultural",
                   "coords": [
                         14.048057,
@@ -1553,7 +1553,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Čínoherní studio",
-                  "text": "Un studio de teatru dramatic situat în Ústí nad Labem.",
+                  "text": "Studioul dramatic Čínoherní din Grădina Zoologică Ústí nad Labem este un studio de teatru situat în incinta grădinii zoologice.",
                   "category": "cultural",
                   "coords": [
                         14.048057,
@@ -1636,7 +1636,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Čínoherní studio",
-                  "text": "A drama theatre studio situated in Ústí nad Labem.",
+                  "text": "Čínoherní studio at the Ústí nad Labem Zoo is a drama studio located within the zoo.",
                   "category": "cultural",
                   "coords": [
                         14.048057,
@@ -2909,7 +2909,7 @@ export const czechrepublicLifeV2: POI[] = [
       "de": [
             {
                   "name": "Geofyzikální expozice Skalná",
-                  "text": "Ein Museum, das sich mit Geophysik und seismischen Aktivitäten befasst.",
+                  "text": "Die geophysikalische Ausstellung in Skalná wurde 2015 eröffnet und liegt nahe dem Nationalen Naturreservat Soos.",
                   "category": "museum",
                   "coords": [
                         12.364887,
@@ -2983,7 +2983,7 @@ export const czechrepublicLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Geofyzikální expozice Skalná",
-                  "text": "A geofizikával és szeizmikus tevékenységekkel foglalkozó múzeum.",
+                  "text": "A Skalnái geofizikai kiállítás 2015-ben nyílt meg, a Soos Nemzeti Természeti Rezervátum közelében.",
                   "category": "museum",
                   "coords": [
                         12.364887,
@@ -3057,7 +3057,7 @@ export const czechrepublicLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Geofyzikální expozice Skalná",
-                  "text": "Un muzeu dedicat geofizicii și activităților seismice.",
+                  "text": "Expoziția geofizică din Skalná a fost deschisă în 2015, situată lângă Rezervația Naturală Națională Soos.",
                   "category": "museum",
                   "coords": [
                         12.364887,
@@ -3131,7 +3131,7 @@ export const czechrepublicLifeV2: POI[] = [
       "en": [
             {
                   "name": "Geofyzikální expozice Skalná",
-                  "text": "A museum focused on geophysics and seismic activity.",
+                  "text": "The geophysical exhibition in Skalná opened in 2015, located near the Soos National Nature Reserve.",
                   "category": "museum",
                   "coords": [
                         12.364887,
@@ -3253,7 +3253,7 @@ export const czechrepublicLifeV2: POI[] = [
       "de": [
             {
                   "name": "Nationales Naturreservat Kubany-Urwald",
-                  "text": "Der Boubínský prales ist ein bedeutendes Urwaldreservat im Böhmerwald.",
+                  "text": "Der Boubín-Urwald, 1858 unter Schutz gestellt, ist einer der ältesten Urwälder Europas.",
                   "category": "natural",
                   "coords": [
                         13.811555,
@@ -3262,7 +3262,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Milešický prales",
-                  "text": "Der Milešický prales ist ein geschütztes Urwaldgebiet im Böhmerwald.",
+                  "text": "Der Milešický prales (Urwald) im Boubín-Urwald, geschützt seit 1948.",
                   "category": "natural",
                   "coords": [
                         13.838713,
@@ -3309,7 +3309,7 @@ export const czechrepublicLifeV2: POI[] = [
       "hu": [
             {
                   "name": "národní přírodní rezervace Boubínský prales",
-                  "text": "A Boubínský prales a Cseh-erdő egyik legjelentősebb őserdő-rezervátuma.",
+                  "text": "A Boubíni őserdőt 1858-ban védetté nyilvánították, Európa egyik legrégebbi őserdeje.",
                   "category": "natural",
                   "coords": [
                         13.811555,
@@ -3318,7 +3318,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Milešický prales",
-                  "text": "A Milešický prales egy védett őserdőterület a Cseh-erdőben.",
+                  "text": "A Milešický prales (őserdő) a Boubín Őserdőben, 1948 óta védett.",
                   "category": "natural",
                   "coords": [
                         13.838713,
@@ -3365,7 +3365,7 @@ export const czechrepublicLifeV2: POI[] = [
       "ro": [
             {
                   "name": "národní přírodní rezervace Boubínský prales",
-                  "text": "Boubínský prales este o importantă rezervație de pădure virgină din Munții Șumava.",
+                  "text": "Pădurea virgină Boubín, protejată din 1858, este una dintre cele mai vechi păduri virgine din Europa.",
                   "category": "natural",
                   "coords": [
                         13.811555,
@@ -3374,7 +3374,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Milešický prales",
-                  "text": "Milešický prales este o zonă protejată de pădure virgină din Munții Șumava.",
+                  "text": "Pădurea virgină Milešický prales din Rezervația Boubín, protejată din 1948.",
                   "category": "natural",
                   "coords": [
                         13.838713,
@@ -3421,7 +3421,7 @@ export const czechrepublicLifeV2: POI[] = [
       "en": [
             {
                   "name": "národní přírodní rezervace Boubínský prales",
-                  "text": "Boubínský prales is a significant primeval forest reserve in the Bohemian Forest.",
+                  "text": "The Boubín Primeval Forest, protected since 1858, is one of the oldest primeval forests in Europe.",
                   "category": "natural",
                   "coords": [
                         13.811555,
@@ -3430,7 +3430,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Milešický prales",
-                  "text": "Milešický prales is a protected primeval forest area in the Bohemian Forest.",
+                  "text": "Milešický prales primeval forest within Boubín Primeval Forest, protected since 1948.",
                   "category": "natural",
                   "coords": [
                         13.838713,
@@ -3588,7 +3588,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Teplická jeskyně",
-                  "text": "Höhleneingang im Gebiet der Weckelsdorfer Felsen.",
+                  "text": "Sandsteinhöhle Teplická jeskyně in den Adršpašsko-teplické skály (Adrspach-Teplice Felsen).",
                   "category": "landmark",
                   "coords": [
                         16.140803,
@@ -3671,7 +3671,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Teplická jeskyně",
-                  "text": "Barlangbejárat a Teplice-sziklák területén.",
+                  "text": "Teplická jeskyně homokkőbarlang az Adršpach-Teplice sziklákban.",
                   "category": "landmark",
                   "coords": [
                         16.140803,
@@ -3754,7 +3754,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Teplická jeskyně",
-                  "text": "Intrare în peșteră în zona stâncilor Teplice.",
+                  "text": "Peștera de gresie Teplická jeskyně în Stâncile Adršpach-Teplice.",
                   "category": "landmark",
                   "coords": [
                         16.140803,
@@ -3837,7 +3837,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Teplická jeskyně",
-                  "text": "Cave entrance located in the Teplice Rocks area.",
+                  "text": "Sandstone cave Teplická jeskyně in the Adršpach-Teplice Rocks.",
                   "category": "landmark",
                   "coords": [
                         16.140803,
@@ -3959,7 +3959,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Bärenkamm",
-                  "text": "Ein Gipfel im Hauptkamm des Altvatergebirges.",
+                  "text": "Der Medvědí hřbet im Jeseníky-Gebirge ist ein Gebirgskamm mit dem Namen Bärenrücken.",
                   "category": "landmark",
                   "coords": [
                         17.19311,
@@ -4033,7 +4033,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Medvědí hřbet",
-                  "text": "Csúcs a Jeszenik-hegység főgerincén.",
+                  "text": "A Medvědí hřbet a Jeseníky-hegységben egy hegygerinc, amelynek neve Medvehát.",
                   "category": "landmark",
                   "coords": [
                         17.19311,
@@ -4107,7 +4107,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Medvědí hřbet",
-                  "text": "Un vârf în creasta principală a munților Jeseníky.",
+                  "text": "Medvědí hřbet din Munții Jeseníky este o creastă montană numită „Spatele Ursului”.",
                   "category": "landmark",
                   "coords": [
                         17.19311,
@@ -4181,7 +4181,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Medvědí hřbet",
-                  "text": "A peak in the main ridge of the Jeseníky Mountains.",
+                  "text": "Medvědí hřbet in the Jeseníky Mountains is a ridge named 'Bear's Back'.",
                   "category": "landmark",
                   "coords": [
                         17.19311,
@@ -4312,7 +4312,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Čupel",
-                  "text": "Ein Gipfel mit Aussicht in der Region der Beskiden.",
+                  "text": "Die Čupel in den Beskiden ist ein Berggipfel in diesem Gebirge.",
                   "category": "landmark",
                   "coords": [
                         18.425278,
@@ -4386,7 +4386,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Čupel",
-                  "text": "Egy kilátást nyújtó csúcs a Beszkidek régiójában.",
+                  "text": "A Čupel a Beszkidekben egy hegycsúcs ebben a hegységben.",
                   "category": "landmark",
                   "coords": [
                         18.425278,
@@ -4460,7 +4460,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Čupel",
-                  "text": "Un vârf care oferă panorame în regiunea Munților Beskydy.",
+                  "text": "Čupel din Munții Beskizi este un vârf montan în acest lanț.",
                   "category": "landmark",
                   "coords": [
                         18.425278,
@@ -4534,7 +4534,7 @@ export const czechrepublicLifeV2: POI[] = [
             },
             {
                   "name": "Čupel",
-                  "text": "A peak offering views in the Beskydy Mountains region.",
+                  "text": "Čupel in the Beskydy Mountains is a mountain peak in the range.",
                   "category": "landmark",
                   "coords": [
                         18.425278,

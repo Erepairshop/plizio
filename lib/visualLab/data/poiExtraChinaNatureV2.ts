@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraChinaNatureV2: POI[] = [
   {
-    id: "jiuzhaigou-valley-nature-v2",
+    id: "jiuzhaigou-valley-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bonsail Shoals",
+                  "text": "Diese Untiefen zeichnen sich durch kristallklares Wasser aus, aus dem kleine Bäume wie Bonsais emporwachsen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.910706,
+                        33.223439
+                  ]
+            },
+            {
+                  "name": "Jiuzhaigou National Park",
+                  "text": "Dieses UNESCO-Welterbe ist weltberühmt für seine stufenförmigen, türkisfarbenen Seen und mehrstöckigen Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        103.917668,
+                        33.268129
+                  ]
+            },
+            {
+                  "name": "Reed Lake",
+                  "text": "Ein leuchtend türkisfarbener Wasserlauf schlängelt sich hier durch ein weites, dichtes Schilfmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        103.908968,
+                        33.217678
+                  ]
+            },
+            {
+                  "name": "Rhinoceros Lake",
+                  "text": "Dieser tiefe, dunkelblaue See ist für die perfekten Spiegelungen der umliegenden Gipfel auf seiner Oberfläche bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.892579,
+                        33.186034
+                  ]
+            },
+            {
+                  "name": "Tiger Lake",
+                  "text": "Das tosende Wasser dieses Sees stürzt über Felsen und erinnert an das Gebrüll eines Tigers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.892272,
+                        33.193732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bonsail Shoals",
+                  "text": "Ezt a sekély vizet kristálytiszta patak jellemzi, amelyből apró fák nőnek ki, mint a bonszaiok.",
+                  "category": "landmark",
+                  "coords": [
+                        103.910706,
+                        33.223439
+                  ]
+            },
+            {
+                  "name": "Jiuzhaigou National Park",
+                  "text": "Ez az UNESCO világörökségi helyszín türkizkék tavairól és többszintes vízeséseiről világhírű.",
+                  "category": "landmark",
+                  "coords": [
+                        103.917668,
+                        33.268129
+                  ]
+            },
+            {
+                  "name": "Reed Lake",
+                  "text": "Egy élénk türkizkék vízfolyás kanyarog itt a sűrű nádas tengerén keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        103.908968,
+                        33.217678
+                  ]
+            },
+            {
+                  "name": "Rhinoceros Lake",
+                  "text": "Ez a mély, sötétkék tó a környező csúcsok felszínén látható tökéletes tükröződéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.892579,
+                        33.186034
+                  ]
+            },
+            {
+                  "name": "Tiger Lake",
+                  "text": "A tó zúgó vize sziklákon zúdul le, emlékeztetve egy tigris üvöltésére.",
+                  "category": "landmark",
+                  "coords": [
+                        103.892272,
+                        33.193732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bonsail Shoals",
+                  "text": "Aceste praguri se caracterizează prin ape cristaline din care cresc copaci mici, asemenea unor bonsai.",
+                  "category": "landmark",
+                  "coords": [
+                        103.910706,
+                        33.223439
+                  ]
+            },
+            {
+                  "name": "Jiuzhaigou National Park",
+                  "text": "Acest sit din patrimoniul mondial UNESCO este faimos în întreaga lume pentru lacurile sale turcoaz în trepte și cascadele cu mai multe niveluri.",
+                  "category": "landmark",
+                  "coords": [
+                        103.917668,
+                        33.268129
+                  ]
+            },
+            {
+                  "name": "Reed Lake",
+                  "text": "Un curs de apă de un turcoaz vibrant șerpuiește aici printr-o mare de trestie deasă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.908968,
+                        33.217678
+                  ]
+            },
+            {
+                  "name": "Rhinoceros Lake",
+                  "text": "Acest lac adânc, de un albastru închis, este cunoscut pentru oglindirea perfectă a vârfurilor înconjurătoare pe suprafața sa.",
+                  "category": "landmark",
+                  "coords": [
+                        103.892579,
+                        33.186034
+                  ]
+            },
+            {
+                  "name": "Tiger Lake",
+                  "text": "Apele învolburate ale acestui lac se revarsă peste stânci, amintind de răgetul unui tigru.",
+                  "category": "landmark",
+                  "coords": [
+                        103.892272,
+                        33.193732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bonsail Shoals",
+                  "text": "These shoals feature crystal-clear water with small trees growing directly out of the stream bed like bonsais.",
+                  "category": "landmark",
+                  "coords": [
+                        103.910706,
+                        33.223439
+                  ]
+            },
+            {
+                  "name": "Jiuzhaigou National Park",
+                  "text": "This UNESCO World Heritage site is world-famous for its tiered, turquoise lakes and multi-level waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        103.917668,
+                        33.268129
+                  ]
+            },
+            {
+                  "name": "Reed Lake",
+                  "text": "A vibrant turquoise watercourse zig-zags through a vast, dense sea of reeds.",
+                  "category": "landmark",
+                  "coords": [
+                        103.908968,
+                        33.217678
+                  ]
+            },
+            {
+                  "name": "Rhinoceros Lake",
+                  "text": "This deep, dark-blue lake is known for the perfect reflections of the surrounding peaks on its surface.",
+                  "category": "landmark",
+                  "coords": [
+                        103.892579,
+                        33.186034
+                  ]
+            },
+            {
+                  "name": "Tiger Lake",
+                  "text": "The rushing waters of this lake tumble over rocks, reminiscent of a tiger's roar.",
+                  "category": "landmark",
+                  "coords": [
+                        103.892272,
+                        33.193732
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "CN-SC",
     coords: [103.913, 33.255],
@@ -51,7 +240,88 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "zhangjiajie-national-forest-park-nature-v2",
+    id: "zhangjiajie-national-forest-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Water Winding Four Gates",
+                  "text": "Diese Stelle markiert die malerische Mündung, an der vier Gebirgsbäche in einem tiefen Tal zusammenfließen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.467074,
+                        29.345769
+                  ]
+            },
+            {
+                  "name": "Baylong (Bailong) elevator",
+                  "text": "Der Bailong-Aufzug ist mit 326 Metern der höchste Außenaufzug der Welt und führt direkt an einer senkrechten Felswand empor.",
+                  "category": "landmark",
+                  "coords": [
+                        110.461172,
+                        29.351179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Water Winding Four Gates",
+                  "text": "Ez a hely azt a festői torkolatot jelöli, ahol négy hegyi patak találkozik egy mély völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        110.467074,
+                        29.345769
+                  ]
+            },
+            {
+                  "name": "Baylong (Bailong) elevator",
+                  "text": "A Bailong-lift 326 méterével a világ legmagasabb kültéri liftje, amely közvetlenül egy függőleges sziklafal mellett halad felfelé.",
+                  "category": "landmark",
+                  "coords": [
+                        110.461172,
+                        29.351179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Water Winding Four Gates",
+                  "text": "Acest loc marchează confluența pitorească unde patru pârâuri de munte se întâlnesc într-o vale adâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        110.467074,
+                        29.345769
+                  ]
+            },
+            {
+                  "name": "Baylong (Bailong) elevator",
+                  "text": "Liftul Bailong este cel mai înalt lift exterior din lume, având 326 de metri și urcând direct pe o stâncă verticală.",
+                  "category": "landmark",
+                  "coords": [
+                        110.461172,
+                        29.351179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Water Winding Four Gates",
+                  "text": "This attraction marks the scenic junction where four mountain streams meet in a deep valley bottom.",
+                  "category": "landmark",
+                  "coords": [
+                        110.467074,
+                        29.345769
+                  ]
+            },
+            {
+                  "name": "Baylong (Bailong) elevator",
+                  "text": "The Bailong Elevator is the world's tallest outdoor elevator at 326 meters, built directly onto a vertical sandstone cliff.",
+                  "category": "landmark",
+                  "coords": [
+                        110.461172,
+                        29.351179
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "CN-HN",
     coords: [110.47, 29.32],
@@ -99,7 +369,376 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "yangtze-river-nature-v2",
+    id: "yangtze-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shanghai American School Pudong",
+                  "text": "Ein pädagogisches Campus-Denkmal nahe dem Jangtse-Fluss, das internationale Architekturstile widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        121.754455,
+                        31.233121
+                  ]
+            },
+            {
+                  "name": "N.Paia",
+                  "text": "Ein Freizeitpark vor der natürlichen Kulisse der Umgebung des Jangtse-Flusses.",
+                  "category": "recreational",
+                  "coords": [
+                        121.760458,
+                        31.198225
+                  ]
+            },
+            {
+                  "name": "Shanghai Jiuduansha Wetland Ecological Exhibition Hall",
+                  "text": "Dieses Museum zeigt die einzigartigen Sumpfökosysteme und die Vogelvielfalt der Mündung des Jangtse-Flusses.",
+                  "category": "museum",
+                  "coords": [
+                        121.763631,
+                        31.223765
+                  ]
+            },
+            {
+                  "name": "Qingyun Temple",
+                  "text": "Eine ruhige buddhistische Anlage, die einen spirituellen Rückzugsort in der Nähe der fließenden Gewässer des Jangtse bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.711214,
+                        31.244551
+                  ]
+            },
+            {
+                  "name": "Dragon King Temple",
+                  "text": "Ein taoistischer Tempel am Flussufer, in dem Einheimische traditionell zu Wassergottheiten für eine sichere Flussschifffahrt beteten.",
+                  "category": "landmark",
+                  "coords": [
+                        121.692029,
+                        31.277283
+                  ]
+            },
+            {
+                  "name": "Waigong Catholic Church",
+                  "text": "Diese lokale katholische Pfarrei verfügt über einen markanten Kirchturm, der von den umliegenden natürlichen Feuchtgebieten aus sichtbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.730493,
+                        31.231893
+                  ]
+            },
+            {
+                  "name": "Qielan Temple",
+                  "text": "Eine buddhistische Stätte, die Schutzgottheiten gewidmet ist und harmonisch in die grüne Umgebung des Jangtse eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.752505,
+                        31.198104
+                  ]
+            },
+            {
+                  "name": "Hengsha Island Catholic Church",
+                  "text": "Eine katholische Inselkapelle, die der isolierten Gemeinde auf dieser Landmasse im Jangtse-Delta dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.840261,
+                        31.323515
+                  ]
+            },
+            {
+                  "name": "Jingxiu Temple",
+                  "text": "Ein ruhiges buddhistisches Meditationszentrum in der Nähe der malerischen Flussufer, abseits des Stadtlärms.",
+                  "category": "landmark",
+                  "coords": [
+                        121.822377,
+                        31.353678
+                  ]
+            },
+            {
+                  "name": "Christian Hexin Church",
+                  "text": "Ein ländliches christliches Gemeindehaus, das sich in die ruhigen, naturreichen Außenbezirke des Jangtse einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.769915,
+                        31.368252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shanghai American School Pudong",
+                  "text": "Egy oktatási emlékmű kampusz a Jangce folyó közelében, amely nemzetközi építészeti stílusokat tükröz.",
+                  "category": "historical",
+                  "coords": [
+                        121.754455,
+                        31.233121
+                  ]
+            },
+            {
+                  "name": "N.Paia",
+                  "text": "Egy vidámpark, amely a Jangce folyó természeti környezetének hátterében terül el.",
+                  "category": "recreational",
+                  "coords": [
+                        121.760458,
+                        31.198225
+                  ]
+            },
+            {
+                  "name": "Shanghai Jiuduansha Wetland Ecological Exhibition Hall",
+                  "text": "Ez a múzeum a Jangce torkolatának egyedülálló mocsári ökoszisztémáit és madárvilágának biológiai sokféleségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.763631,
+                        31.223765
+                  ]
+            },
+            {
+                  "name": "Qingyun Temple",
+                  "text": "Békés buddhista épületegyüttes, amely spirituális elvonulást kínál a Jangce folyó vizeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        121.711214,
+                        31.244551
+                  ]
+            },
+            {
+                  "name": "Dragon King Temple",
+                  "text": "Folyóparti taoista templom, ahol a helyiek hagyományosan a vízi istenségekhez imádkoztak a biztonságos folyami hajózásért.",
+                  "category": "landmark",
+                  "coords": [
+                        121.692029,
+                        31.277283
+                  ]
+            },
+            {
+                  "name": "Waigong Catholic Church",
+                  "text": "Ez a helyi katolikus plébánia egy jellegzetes templomtoronnyal rendelkezik, amely a környező természetes vizes élőhelyekről is látható.",
+                  "category": "landmark",
+                  "coords": [
+                        121.730493,
+                        31.231893
+                  ]
+            },
+            {
+                  "name": "Qielan Temple",
+                  "text": "Védelmező istenségeknek szentelt buddhista helyszín, amely harmonikusan illeszkedik a Jangce zöldellő környezetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        121.752505,
+                        31.198104
+                  ]
+            },
+            {
+                  "name": "Hengsha Island Catholic Church",
+                  "text": "Egy szigeti katolikus kápolna, amely a Jangce deltájának ezen a földdarabján élő elszigetelt közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        121.840261,
+                        31.323515
+                  ]
+            },
+            {
+                  "name": "Jingxiu Temple",
+                  "text": "Csendes buddhista meditációs központ, amely a festői folyópartok közelében, a város zajától távol található.",
+                  "category": "landmark",
+                  "coords": [
+                        121.822377,
+                        31.353678
+                  ]
+            },
+            {
+                  "name": "Christian Hexin Church",
+                  "text": "Vidéki keresztény gyülekezeti terem, amely beleolvad a Jangce békés, természetben gazdag külvárosaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        121.769915,
+                        31.368252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shanghai American School Pudong",
+                  "text": "Un campus educațional monumental lângă râul Yangtze, care reflectă stiluri arhitecturale internaționale.",
+                  "category": "historical",
+                  "coords": [
+                        121.754455,
+                        31.233121
+                  ]
+            },
+            {
+                  "name": "N.Paia",
+                  "text": "Un parc tematic de agrement situat pe fundalul natural al mediului râului Yangtze.",
+                  "category": "recreational",
+                  "coords": [
+                        121.760458,
+                        31.198225
+                  ]
+            },
+            {
+                  "name": "Shanghai Jiuduansha Wetland Ecological Exhibition Hall",
+                  "text": "Acest muzeu prezintă ecosistemele de mlaștină unice și biodiversitatea aviară a estuarului râului Yangtze.",
+                  "category": "museum",
+                  "coords": [
+                        121.763631,
+                        31.223765
+                  ]
+            },
+            {
+                  "name": "Qingyun Temple",
+                  "text": "Un complex budist senin care oferă o retragere spirituală lângă apele curgătoare ale râului Yangtze.",
+                  "category": "landmark",
+                  "coords": [
+                        121.711214,
+                        31.244551
+                  ]
+            },
+            {
+                  "name": "Dragon King Temple",
+                  "text": "Un templu taoist pe malul râului unde localnicii s-au rugat în mod tradițional zeităților apei pentru o navigație sigură.",
+                  "category": "landmark",
+                  "coords": [
+                        121.692029,
+                        31.277283
+                  ]
+            },
+            {
+                  "name": "Waigong Catholic Church",
+                  "text": "Această parohie catolică locală are o turlă distinctivă vizibilă din zonele umede naturale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        121.730493,
+                        31.231893
+                  ]
+            },
+            {
+                  "name": "Qielan Temple",
+                  "text": "Un sit budist dedicat zeităților păzitoare, așezat armonios în mediul înverzit al râului Yangtze.",
+                  "category": "landmark",
+                  "coords": [
+                        121.752505,
+                        31.198104
+                  ]
+            },
+            {
+                  "name": "Hengsha Island Catholic Church",
+                  "text": "O capelă catolică insulară care deservește comunitatea izolată care locuiește pe această masă de uscat din delta râului Yangtze.",
+                  "category": "landmark",
+                  "coords": [
+                        121.840261,
+                        31.323515
+                  ]
+            },
+            {
+                  "name": "Jingxiu Temple",
+                  "text": "Un centru liniștit de meditație budistă situat lângă malurile pitorești ale râului, departe de zgomotul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.822377,
+                        31.353678
+                  ]
+            },
+            {
+                  "name": "Christian Hexin Church",
+                  "text": "O sală rurală de părtășie creștină care se integrează în periferia liniștită, bogată în natură, a râului Yangtze.",
+                  "category": "landmark",
+                  "coords": [
+                        121.769915,
+                        31.368252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shanghai American School Pudong",
+                  "text": "An educational monument campus near the Yangtze River reflecting international architectural styles.",
+                  "category": "historical",
+                  "coords": [
+                        121.754455,
+                        31.233121
+                  ]
+            },
+            {
+                  "name": "N.Paia",
+                  "text": "A recreational theme park set against the natural backdrop of the Yangtze River environment.",
+                  "category": "recreational",
+                  "coords": [
+                        121.760458,
+                        31.198225
+                  ]
+            },
+            {
+                  "name": "Shanghai Jiuduansha Wetland Ecological Exhibition Hall",
+                  "text": "This museum showcases the unique marsh ecosystems and avian biodiversity of the Yangtze River estuary.",
+                  "category": "museum",
+                  "coords": [
+                        121.763631,
+                        31.223765
+                  ]
+            },
+            {
+                  "name": "Qingyun Temple",
+                  "text": "A serene Buddhist compound offering a spiritual retreat near the flowing waters of the Yangtze.",
+                  "category": "landmark",
+                  "coords": [
+                        121.711214,
+                        31.244551
+                  ]
+            },
+            {
+                  "name": "Dragon King Temple",
+                  "text": "A riverside Taoist temple where locals have traditionally prayed to water deities for safe river navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        121.692029,
+                        31.277283
+                  ]
+            },
+            {
+                  "name": "Waigong Catholic Church",
+                  "text": "This local Catholic parish features a distinctive steeple visible from the surrounding natural wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        121.730493,
+                        31.231893
+                  ]
+            },
+            {
+                  "name": "Qielan Temple",
+                  "text": "A Buddhist site dedicated to guardian deities, set harmoniously within the verdant Yangtze environment.",
+                  "category": "landmark",
+                  "coords": [
+                        121.752505,
+                        31.198104
+                  ]
+            },
+            {
+                  "name": "Hengsha Island Catholic Church",
+                  "text": "An island-based Catholic chapel serving the isolated community residing on this Yangtze River delta landmass.",
+                  "category": "landmark",
+                  "coords": [
+                        121.840261,
+                        31.323515
+                  ]
+            },
+            {
+                  "name": "Jingxiu Temple",
+                  "text": "A quiet Buddhist meditation center situated near the scenic riverbanks, away from the city noise.",
+                  "category": "landmark",
+                  "coords": [
+                        121.822377,
+                        31.353678
+                  ]
+            },
+            {
+                  "name": "Christian Hexin Church",
+                  "text": "A rural Christian fellowship hall blending into the tranquil, nature-rich outskirts of the Yangtze.",
+                  "category": "landmark",
+                  "coords": [
+                        121.769915,
+                        31.368252
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CN-QP",
     coords: [121.79, 31.28],
@@ -147,7 +786,52 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "yellow-river-nature-v2",
+    id: "yellow-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yellow River Estuary Ecotourism Area",
+                  "text": "Ein riesiges natürliches Feuchtgebiet-Reservat, in dem der Gelbe Fluss in das blaue Wasser des Bohai-Meeres mündet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.163698,
+                        37.759171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yellow River Estuary Ecotourism Area",
+                  "text": "Hatalmas természetes vizes élőhely, ahol az iszapos Sárga-folyó a Bohai-tenger kék vizébe torkollik.",
+                  "category": "landmark",
+                  "coords": [
+                        119.163698,
+                        37.759171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yellow River Estuary Ecotourism Area",
+                  "text": "O vastă rezervație naturală de mlaștină, unde Fluviul Galben se varsă în apele albastre ale Mării Bohai.",
+                  "category": "landmark",
+                  "coords": [
+                        119.163698,
+                        37.759171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yellow River Estuary Ecotourism Area",
+                  "text": "A vast natural wetland reserve where the silt-laden Yellow River flows into the blue waters of the Bohai Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        119.163698,
+                        37.759171
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CN-SD",
     coords: [119.14, 37.74],
@@ -195,7 +879,196 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-everest-nature-v2",
+    id: "mount-everest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kartse",
+                  "text": "Ein 6.507 Meter hoher Gipfel im Mahalangur Himal, der sich nördlich des Mount-Everest-Massivs befindet.",
+                  "category": "natural",
+                  "coords": [
+                        87.004413,
+                        28.032605
+                  ]
+            },
+            {
+                  "name": "Khartaphu",
+                  "text": "Dieser 7.213 Meter hohe Gipfel ist Teil des Mahalangur-Himalaya und liegt direkt nordöstlich des Mount Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.977291,
+                        28.064178
+                  ]
+            },
+            {
+                  "name": "Everest South Peak",
+                  "text": "Als zweithöchster Gipfel der Erde liegt dieser Nebengipfel des Mount Everest auf 8.749 Metern am Südostgrat.",
+                  "category": "natural",
+                  "coords": [
+                        86.925163,
+                        27.985032
+                  ]
+            },
+            {
+                  "name": "Mount Everest",
+                  "text": "Der höchste Berg der Erde über dem Meeresspiegel mit einer Höhe von 8.848 Metern im Mahalangur Himal.",
+                  "category": "natural",
+                  "coords": [
+                        86.92521,
+                        27.988061
+                  ]
+            },
+            {
+                  "name": "Changtse Peak",
+                  "text": "Ein 7.543 Meter hoher Gipfel in Tibet, der über den Nordcolsattel mit dem Mount Everest verbunden ist.",
+                  "category": "natural",
+                  "coords": [
+                        86.915186,
+                        28.024329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kartse",
+                  "text": "Egy 6507 méter magas csúcs a Mahalangur Himal hegységben, a Mount Everest-masszívumtól északra.",
+                  "category": "natural",
+                  "coords": [
+                        87.004413,
+                        28.032605
+                  ]
+            },
+            {
+                  "name": "Khartaphu",
+                  "text": "Ez a 7213 méteres csúcs a Mahalangur-Himalája része, közvetlenül a Mount Everesttől északkeletre található.",
+                  "category": "natural",
+                  "coords": [
+                        86.977291,
+                        28.064178
+                  ]
+            },
+            {
+                  "name": "Everest South Peak",
+                  "text": "A Föld második legmagasabb csúcsa, a Mount Everest 8749 méteres mellékcsúcsa a délkeleti gerincen.",
+                  "category": "natural",
+                  "coords": [
+                        86.925163,
+                        27.985032
+                  ]
+            },
+            {
+                  "name": "Csomolungma",
+                  "text": "A Föld legmagasabb hegye a tengerszint felett, 8848 méteres magassággal a Mahalangur Himal hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        86.92521,
+                        27.988061
+                  ]
+            },
+            {
+                  "name": "Changtse Peak",
+                  "text": "Egy 7543 méteres csúcs Tibetben, amelyet az Északi-nyereg (North Col) köt össze a Mount Everesttel.",
+                  "category": "natural",
+                  "coords": [
+                        86.915186,
+                        28.024329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kartse",
+                  "text": "Un vârf de 6.507 metri din lanțul Mahalangur Himal, situat la nord de masivul Mount Everest.",
+                  "category": "natural",
+                  "coords": [
+                        87.004413,
+                        28.032605
+                  ]
+            },
+            {
+                  "name": "Khartaphu",
+                  "text": "Acest vârf de 7.213 metri face parte din Mahalangur Himalaya, fiind situat chiar la nord-est de muntele Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.977291,
+                        28.064178
+                  ]
+            },
+            {
+                  "name": "Everest South Peak",
+                  "text": "Al doilea cel mai înalt vârf de pe Pământ, acest vârf secundar al Muntelui Everest se află la 8.749 de metri pe creasta de sud-est.",
+                  "category": "natural",
+                  "coords": [
+                        86.925163,
+                        27.985032
+                  ]
+            },
+            {
+                  "name": "Everest",
+                  "text": "Cel mai înalt munte de pe Pământ deasupra nivelului mării, cu o înălțime de 8.848 de metri în sublanțul Mahalangur Himal.",
+                  "category": "natural",
+                  "coords": [
+                        86.92521,
+                        27.988061
+                  ]
+            },
+            {
+                  "name": "Changtse Peak",
+                  "text": "Un vârf de 7.543 de metri din Tibet, legat de Muntele Everest prin șaua înaltă a Pasului de Nord.",
+                  "category": "natural",
+                  "coords": [
+                        86.915186,
+                        28.024329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kartse",
+                  "text": "A 6,507-meter peak in the Mahalangur Himal range, situated north of the Mount Everest massif.",
+                  "category": "natural",
+                  "coords": [
+                        87.004413,
+                        28.032605
+                  ]
+            },
+            {
+                  "name": "Khartaphu",
+                  "text": "This 7,213-meter peak is part of the Mahalangur Himalaya, located just northeast of Mount Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.977291,
+                        28.064178
+                  ]
+            },
+            {
+                  "name": "Everest South Peak",
+                  "text": "The second-highest peak on Earth, this sub-summit of Mount Everest stands at 8,749 meters on the Southeast Ridge.",
+                  "category": "natural",
+                  "coords": [
+                        86.925163,
+                        27.985032
+                  ]
+            },
+            {
+                  "name": "Mount Everest",
+                  "text": "Earth's highest mountain above sea level, standing at 8,848 meters in the Mahalangur Himal sub-range.",
+                  "category": "natural",
+                  "coords": [
+                        86.92521,
+                        27.988061
+                  ]
+            },
+            {
+                  "name": "Changtse Peak",
+                  "text": "A 7,543-meter peak in Tibet, connected to Mount Everest by the high saddle of the North Col.",
+                  "category": "natural",
+                  "coords": [
+                        86.915186,
+                        28.024329
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CN-XZ",
     coords: [86.925, 27.988],
@@ -243,7 +1116,1132 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "west-lake-nature-v2",
+    id: "west-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leifeng Pagoda",
+                  "text": "Diese wiederaufgebaute achteckige Pagode, die berühmt für die Legende der Weißen Schlange ist, bietet einen weiten Blick über den Westsee.",
+                  "category": "religious",
+                  "coords": [
+                        120.145015,
+                        30.233886
+                  ]
+            },
+            {
+                  "name": "Wenlan Pavilion",
+                  "text": "Dieser Pavillon aus der Qing-Zeit in der Nähe des Westsees wurde ursprünglich zur Unterbringung der riesigen Siku-Quanshu-Bibliothek erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        120.138215,
+                        30.25311
+                  ]
+            },
+            {
+                  "name": "Gongshu Canal Sports Park",
+                  "text": "Dieser moderne Parkbereich entlang des Kanals in Hangzhou bietet verschiedene Sportanlagen und Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        120.09908,
+                        30.31591
+                  ]
+            },
+            {
+                  "name": "Hangzhou Mosque",
+                  "text": "Dieses prachtvolle islamische Gotteshaus ist eine der größten Moscheen in China und dient der lokalen muslimischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        120.215643,
+                        30.276561
+                  ]
+            },
+            {
+                  "name": "Gallery of the Wulin Academy of Arts",
+                  "text": "Diese Galerie in Hangzhou stellt Werke aus, die den traditionellen und zeitgenössischen Künsten der Region gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        120.156296,
+                        30.248989
+                  ]
+            },
+            {
+                  "name": "China National Silk Museum",
+                  "text": "Diese riesige Einrichtung in der Nähe des Westsees ist eines der größten Museen der Welt, das der Geschichte der Seide gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        120.146573,
+                        30.225175
+                  ]
+            },
+            {
+                  "name": "Kathedrale zur Unbefleckten Empfängnis",
+                  "text": "Diese historische katholische Kathedrale in Hangzhou ist eine der ältesten noch bestehenden Kirchen in China und weist klassische architektonische Elemente auf.",
+                  "category": "religious",
+                  "coords": [
+                        120.162456,
+                        30.269785
+                  ]
+            },
+            {
+                  "name": "Seal Engravers' Society",
+                  "text": "Diese historische Gesellschaft befindet sich auf einer Insel im Westsee und widmet sich der traditionellen chinesischen Kunst der Steinsiegelgravur.",
+                  "category": "landmark",
+                  "coords": [
+                        120.135498,
+                        30.252792
+                  ]
+            },
+            {
+                  "name": "Former residence of Xueyan Hu",
+                  "text": "Dieses opulente traditionelle Anwesen war das Zuhause eines prominenten Kaufmanns der späten Qing-Dynastie und verfügt über exquisite Gärten und Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        120.168287,
+                        30.2396
+                  ]
+            },
+            {
+                  "name": "Zhejiang Nature Museum",
+                  "text": "Dieses naturhistorische Museum bietet umfangreiche Ausstellungen von Dinosaurierfossilien und regionalen Wildtier-Dioramen.",
+                  "category": "museum",
+                  "coords": [
+                        120.159624,
+                        30.278936
+                  ]
+            },
+            {
+                  "name": "Tangyun Art Gallery",
+                  "text": "Diese am Westsee gelegene Galerie widmet sich den traditionellen chinesischen Gemälden und Kunstwerken des Künstlers Tang Yun.",
+                  "category": "museum",
+                  "coords": [
+                        120.150646,
+                        30.235738
+                  ]
+            },
+            {
+                  "name": "West Lake Museum",
+                  "text": "Dieses moderne Museum bietet einen umfassenden Überblick über die ökologische Geschichte und die kulturelle Bedeutung des berühmten Sees von Hangzhou.",
+                  "category": "museum",
+                  "coords": [
+                        120.152711,
+                        30.244282
+                  ]
+            },
+            {
+                  "name": "Hangzhou museum",
+                  "text": "Dieses Stadtmuseum dokumentiert die reiche Stadtentwicklung und Kulturgeschichte von Hangzhou im Laufe der Jahrhunderte.",
+                  "category": "museum",
+                  "coords": [
+                        120.161531,
+                        30.24178
+                  ]
+            },
+            {
+                  "name": "Remains of Lingyao Pavilion",
+                  "text": "Diese historischen Ruinen am Westsee markieren den ehemaligen Standort eines klassischen chinesischen Aussichtspavillons.",
+                  "category": "historical",
+                  "coords": [
+                        120.137021,
+                        30.253631
+                  ]
+            },
+            {
+                  "name": "Zhejiang Shengli Theatre",
+                  "text": "Dieser traditionsreiche Veranstaltungsort in Hangzhou ist ein Zentrum für lokale Theaterkunst und kulturelle Ereignisse.",
+                  "category": "cultural",
+                  "coords": [
+                        120.158789,
+                        30.258457
+                  ]
+            },
+            {
+                  "name": "Marco Polo statue",
+                  "text": "Dieses Denkmal am Seeufer ist eine Hommage an den venezianischen Entdecker, der die Stadt Hangzhou besucht und in höchsten Tönen gelobt haben soll.",
+                  "category": "landmark",
+                  "coords": [
+                        120.152908,
+                        30.261081
+                  ]
+            },
+            {
+                  "name": "The old site of Baodashen",
+                  "text": "Dieser historische Ort in der Gegend des Westsees bewahrt Spuren der traditionellen kommerziellen und kulturellen Vergangenheit Hangzhous.",
+                  "category": "landmark",
+                  "coords": [
+                        120.164929,
+                        30.241667
+                  ]
+            },
+            {
+                  "name": "The stones depicting the 12 Chinese zodiacal signs",
+                  "text": "Eine Sammlung von aufwendig geschnitzten Steinskulpturen, die die Tierkreiszeichen des traditionellen chinesischen Horoskops darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.160258,
+                        30.237639
+                  ]
+            },
+            {
+                  "name": "Fengshan Water Gate relics",
+                  "text": "Diese baulichen Überreste sind Teil der alten Stadtmauerverteidigung, die einst die Wasserstraßen des historischen Hangzhou regulierte.",
+                  "category": "landmark",
+                  "coords": [
+                        120.166258,
+                        30.227765
+                  ]
+            },
+            {
+                  "name": "Yanggong Dike",
+                  "text": "Dieser von Bäumen gesäumte Damm verläuft parallel zum Westufer des Westsees und ist von einer Reihe malerischer Steinbrücken geprägt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.137357,
+                        30.228869
+                  ]
+            },
+            {
+                  "name": "Three Ponds Mirroring the Moon",
+                  "text": "Diese ikonische künstliche Insel im Westsee ist mit drei Steinpagoden im Wasser geschmückt, ein Motiv, das auf dem 1-RMB-Schein abgebildet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.139778,
+                        30.239475
+                  ]
+            },
+            {
+                  "name": "Santai Yunshui",
+                  "text": "Ein ruhiges Landschaftsgebiet in der Nähe des Westsees, das für seine nebligen, wolkenartigen Wasserausblicke und traditionellen Pavillons bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.126533,
+                        30.233448
+                  ]
+            },
+            {
+                  "name": "South Lake",
+                  "text": "Die südliche Ausdehnung der Westsee-Region bietet ruhigere Gewässer und malerische Wege abseits der Haupttouristenzentren.",
+                  "category": "landmark",
+                  "coords": [
+                        120.133288,
+                        30.229329
+                  ]
+            },
+            {
+                  "name": "Guo's Villa",
+                  "text": "Diese sorgfältig erhaltene private Gartenvilla aus der Qing-Dynastie liegt elegant am Westufer des Westsees.",
+                  "category": "landmark",
+                  "coords": [
+                        120.127592,
+                        30.245895
+                  ]
+            },
+            {
+                  "name": "Lotus garden",
+                  "text": "Ein spezieller Teil des Seeparks, in dem weite Flächen blühender Lotosblumen in den Sommermonaten Besucher anziehen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.128866,
+                        30.249801
+                  ]
+            },
+            {
+                  "name": "Fukui garden",
+                  "text": "Ein ruhiger traditioneller chinesischer Garten in der Nähe des Sees, der mit klassischen Felsen, Teichen und gewundenen Pfaden gestaltet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.128382,
+                        30.251836
+                  ]
+            },
+            {
+                  "name": "Zhusu garden",
+                  "text": "Dieser Garten, eingebettet in die Landschaftszone des Westsees, ist berühmt für seine üppigen Bambushaine und klassischen Architekturelemente.",
+                  "category": "landmark",
+                  "coords": [
+                        120.129069,
+                        30.253966
+                  ]
+            },
+            {
+                  "name": "Wind and Lotus at the Crooked Courtyard",
+                  "text": "Dieser historische Parkbereich am Westsee ist als eine der Zehn Szenerien bekannt und besonders berühmt für seine spektakuläre sommerliche Lotosblüte.",
+                  "category": "landmark",
+                  "coords": [
+                        120.130985,
+                        30.253469
+                  ]
+            },
+            {
+                  "name": "Drum Tower",
+                  "text": "Dieser rekonstruierte alte Turm steht im historischen Zentrum von Hangzhou und diente ursprünglich der Zeitmessung und der Ankündigung von Ausgangssperren in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.166792,
+                        30.240344
+                  ]
+            },
+            {
+                  "name": "City God Pavilion",
+                  "text": "Dieser mehrstöckige traditionelle Pavillon auf dem Wushan-Hügel bietet einen atemberaubenden Panoramablick sowohl auf den Westsee als auch auf die moderne Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.159932,
+                        30.238885
+                  ]
+            },
+            {
+                  "name": "Jingci Temple",
+                  "text": "Am Fuße des Nanping-Hügels gelegen, ist dieser bedeutende buddhistische Tempel berühmt für seine massive Kupferglocke, die in der Abenddämmerung läutet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.144341,
+                        30.231131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leifeng Pagoda",
+                  "text": "A Fehér Kígyó legendájával összekapcsolt, újjáépített nyolcszögletű pagoda pazar kilátást nyújt a Nyugati-tóra.",
+                  "category": "religious",
+                  "coords": [
+                        120.145015,
+                        30.233886
+                  ]
+            },
+            {
+                  "name": "Wenlan Pavilion",
+                  "text": "Ezt a Csing-kori pavilont a Nyugati-tó közelében eredetileg a hatalmas Siku Quanshu könyvtár elhelyezésére építették.",
+                  "category": "landmark",
+                  "coords": [
+                        120.138215,
+                        30.25311
+                  ]
+            },
+            {
+                  "name": "Gongshu Canal Sports Park",
+                  "text": "A hangcsoui csatorna mentén található modern park számos sportlétesítménnyel és zöldterülettel várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        120.09908,
+                        30.31591
+                  ]
+            },
+            {
+                  "name": "Hangzhou Mosque",
+                  "text": "Ez a nagyszerű iszlám istentiszteleti hely Kína egyik legnagyobb mecsetje, amely a helyi muszlim közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        120.215643,
+                        30.276561
+                  ]
+            },
+            {
+                  "name": "Gallery of the Wulin Academy of Arts",
+                  "text": "Ez a hangcsoui galéria a régió hagyományos és kortárs művészetének szentelt alkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        120.156296,
+                        30.248989
+                  ]
+            },
+            {
+                  "name": "China National Silk Museum",
+                  "text": "A Nyugati-tó közelében található hatalmas intézmény a világ egyik legnagyobb, a selyem történetét bemutató múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        120.146573,
+                        30.225175
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "Ez a történelmi hangcsoui katolikus katedrális Kína egyik legrégebbi, ma is működő temploma, amely klasszikus építészeti elemekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        120.162456,
+                        30.269785
+                  ]
+            },
+            {
+                  "name": "Seal Engravers' Society",
+                  "text": "A Nyugati-tó egyik szigetén található történelmi társaság a kőpecsét-metszés hagyományos kínai művészetének szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        120.135498,
+                        30.252792
+                  ]
+            },
+            {
+                  "name": "Former residence of Xueyan Hu",
+                  "text": "Ez a fényűző hagyományos birtok a kései Csing-dinasztia egyik kiemelkedő kereskedőjének otthona volt, gyönyörű kertekkel és építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        120.168287,
+                        30.2396
+                  ]
+            },
+            {
+                  "name": "Zhejiang Nature Museum",
+                  "text": "Ez a természettudományi múzeum dinoszaurusz-fosszíliák és regionális vadvilágot bemutató diorámák kiterjedt gyűjteményével rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        120.159624,
+                        30.278936
+                  ]
+            },
+            {
+                  "name": "Tangyun Art Gallery",
+                  "text": "A Nyugati-tó partján található galéria Tang Yun művész hagyományos kínai festményeinek és művészeti alkotásainak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        120.150646,
+                        30.235738
+                  ]
+            },
+            {
+                  "name": "West Lake Museum",
+                  "text": "Ez a modern múzeum átfogó képet nyújt Hangcsou híres tavának ökológiai történetéről és kulturális jelentőségéről.",
+                  "category": "museum",
+                  "coords": [
+                        120.152711,
+                        30.244282
+                  ]
+            },
+            {
+                  "name": "Hangzhou museum",
+                  "text": "Ez a városi múzeum Hangcsou gazdag városfejlődését és kultúrtörténetét mutatja be az évszázadok során.",
+                  "category": "museum",
+                  "coords": [
+                        120.161531,
+                        30.24178
+                  ]
+            },
+            {
+                  "name": "Remains of Lingyao Pavilion",
+                  "text": "Ezek a Nyugati-tó melletti történelmi romok egy klasszikus kínai kilátópavilon egykori helyét jelölik.",
+                  "category": "historical",
+                  "coords": [
+                        120.137021,
+                        30.253631
+                  ]
+            },
+            {
+                  "name": "Zhejiang Shengli Theatre",
+                  "text": "Ez a nagy múltú hangcsoui előadóterem a helyi színházművészet és a kulturális események központja.",
+                  "category": "cultural",
+                  "coords": [
+                        120.158789,
+                        30.258457
+                  ]
+            },
+            {
+                  "name": "Marco Polo statue",
+                  "text": "Ez a tóparti emlékmű a velencei felfedező előtt tiszteleg, aki a feltételezések szerint meglátogatta és nagyra értékelte Hangcsou városát.",
+                  "category": "landmark",
+                  "coords": [
+                        120.152908,
+                        30.261081
+                  ]
+            },
+            {
+                  "name": "The old site of Baodashen",
+                  "text": "Ez a Nyugati-tó környékén található történelmi helyszín őrzi Hangcsou hagyományos kereskedelmi és kulturális múltjának nyomait.",
+                  "category": "landmark",
+                  "coords": [
+                        120.164929,
+                        30.241667
+                  ]
+            },
+            {
+                  "name": "The stones depicting the 12 Chinese zodiacal signs",
+                  "text": "A hagyományos kínai zodiákus állatjegyeit ábrázoló, bonyolultan faragott kőszobrok gyűjteménye.",
+                  "category": "landmark",
+                  "coords": [
+                        120.160258,
+                        30.237639
+                  ]
+            },
+            {
+                  "name": "Fengshan Water Gate relics",
+                  "text": "Ezek a szerkezeti maradványok az ősi városfal védműveinek részét képezik, amelyek egykor a történelmi Hangcsou vízi útjait irányították.",
+                  "category": "landmark",
+                  "coords": [
+                        120.166258,
+                        30.227765
+                  ]
+            },
+            {
+                  "name": "Yanggong Dike",
+                  "text": "Ez a fákkal szegélyezett töltés a Nyugati-tó nyugati partjával párhuzamosan fut, és egy sor festői kőhíd található rajta.",
+                  "category": "landmark",
+                  "coords": [
+                        120.137357,
+                        30.228869
+                  ]
+            },
+            {
+                  "name": "Three Ponds Mirroring the Moon",
+                  "text": "Ezen az ikonikus mesterséges szigeten a Nyugati-tóban három kőpagoda található a vízben, ami az 1 jüanos bankjegyen is látható híres kép.",
+                  "category": "landmark",
+                  "coords": [
+                        120.139778,
+                        30.239475
+                  ]
+            },
+            {
+                  "name": "Santai Yunshui",
+                  "text": "Egy nyugodt, festői terület a Nyugati-tó közelében, amely ködös, felhőszerű vízi kilátásairól és hagyományos pavilonjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.126533,
+                        30.233448
+                  ]
+            },
+            {
+                  "name": "South Lake",
+                  "text": "A Nyugati-tó régió déli kiterjedése csendesebb vizeket és festői ösvényeket kínál távol a főbb turisztikai központoktól.",
+                  "category": "landmark",
+                  "coords": [
+                        120.133288,
+                        30.229329
+                  ]
+            },
+            {
+                  "name": "Guo's Villa",
+                  "text": "Ez a gondosan megőrzött, Csing-dinasztia korabeli magán kerti villa elegánsan helyezkedik el a Nyugati-tó nyugati partján.",
+                  "category": "landmark",
+                  "coords": [
+                        120.127592,
+                        30.245895
+                  ]
+            },
+            {
+                  "name": "Lotus garden",
+                  "text": "A tó parkosított részének egy különálló szakasza, ahol a nyári hónapokban a nyíló lótuszvirágok hatalmas kiterjedése vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        120.128866,
+                        30.249801
+                  ]
+            },
+            {
+                  "name": "Fukui garden",
+                  "text": "Egy nyugodt, hagyományos kínai kert a tó közelében, amelyet klasszikus sziklák, tavak és kanyargós ösvények alkotnak.",
+                  "category": "landmark",
+                  "coords": [
+                        120.128382,
+                        30.251836
+                  ]
+            },
+            {
+                  "name": "Zhusu garden",
+                  "text": "A Nyugati-tó festői övezetében megbúvó kert buja bambuszligeteiről és klasszikus építészeti elemeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        120.129069,
+                        30.253966
+                  ]
+            },
+            {
+                  "name": "Wind and Lotus at the Crooked Courtyard",
+                  "text": "Ez a Nyugati-tó melletti történelmi parkterület a Tíz Jelenet egyikeként ismert, és különösen híres a látványos nyári lótuszvirágzásáról.",
+                  "category": "landmark",
+                  "coords": [
+                        120.130985,
+                        30.253469
+                  ]
+            },
+            {
+                  "name": "Drum Tower",
+                  "text": "Ez a rekonstruált ősi torony Hangcsou történelmi szívében áll, eredetileg az időmérést és a városi kijárási tilalom bejelentését szolgálta.",
+                  "category": "landmark",
+                  "coords": [
+                        120.166792,
+                        30.240344
+                  ]
+            },
+            {
+                  "name": "City God Pavilion",
+                  "text": "A Wushan-hegyen álló, többszintes hagyományos pavilon lenyűgöző panorámát nyújt a Nyugati-tóra és a modern városra egyaránt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.159932,
+                        30.238885
+                  ]
+            },
+            {
+                  "name": "Jingci Temple",
+                  "text": "A Nanping-hegy lábánál található ez a kiemelkedő buddhista templom, amely a szürkületkor megszólaló hatalmas rézharangjáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        120.144341,
+                        30.231131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leifeng Pagoda",
+                  "text": "Faimoasă pentru asocierea cu Legenda Șarpelui Alb, această pagodă octogonală reconstruită oferă vederi ample asupra Lacului de Vest.",
+                  "category": "religious",
+                  "coords": [
+                        120.145015,
+                        30.233886
+                  ]
+            },
+            {
+                  "name": "Wenlan Pavilion",
+                  "text": "Acest pavilion din epoca Qing, situat lângă Lacul de Vest, a fost construit inițial pentru a găzdui o copie a vastei biblioteci Siku Quanshu.",
+                  "category": "landmark",
+                  "coords": [
+                        120.138215,
+                        30.25311
+                  ]
+            },
+            {
+                  "name": "Gongshu Canal Sports Park",
+                  "text": "Acest parc modern de-a lungul canalului din Hangzhou oferă diverse facilități sportive și spații verzi.",
+                  "category": "park",
+                  "coords": [
+                        120.09908,
+                        30.31591
+                  ]
+            },
+            {
+                  "name": "Hangzhou Mosque",
+                  "text": "Acest grandios lăcaș de cult islamic este una dintre cele mai mari moschei din China, deservind comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        120.215643,
+                        30.276561
+                  ]
+            },
+            {
+                  "name": "Gallery of the Wulin Academy of Arts",
+                  "text": "Această galerie din Hangzhou expune lucrări dedicate artelor tradiționale și contemporane ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        120.156296,
+                        30.248989
+                  ]
+            },
+            {
+                  "name": "China National Silk Museum",
+                  "text": "Situată lângă Lacul de Vest, această vastă instituție este unul dintre cele mai mari muzee din lume dedicate istoriei mătăsii.",
+                  "category": "museum",
+                  "coords": [
+                        120.146573,
+                        30.225175
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "Această catedrală catolică istorică din Hangzhou este una dintre cele mai vechi biserici din China, prezentând elemente arhitecturale clasice.",
+                  "category": "religious",
+                  "coords": [
+                        120.162456,
+                        30.269785
+                  ]
+            },
+            {
+                  "name": "Seal Engravers' Society",
+                  "text": "Situată pe o insulă din Lacul de Vest, această societate istorică este dedicată artei tradiționale chinezești a gravurii sigiliilor în piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        120.135498,
+                        30.252792
+                  ]
+            },
+            {
+                  "name": "Former residence of Xueyan Hu",
+                  "text": "Această moșie tradițională opulentă a fost casa unui proeminent comerciant din perioada târzie a dinastiei Qing, având grădini și arhitectură rafinate.",
+                  "category": "landmark",
+                  "coords": [
+                        120.168287,
+                        30.2396
+                  ]
+            },
+            {
+                  "name": "Zhejiang Nature Museum",
+                  "text": "Acest muzeu de istorie naturală prezintă expoziții extinse de fosile de dinozauri și diorame ale faunei regionale.",
+                  "category": "museum",
+                  "coords": [
+                        120.159624,
+                        30.278936
+                  ]
+            },
+            {
+                  "name": "Tangyun Art Gallery",
+                  "text": "Situată lângă Lacul de Vest, această galerie este dedicată picturilor tradiționale chinezești și operelor de artă ale artistului Tang Yun.",
+                  "category": "museum",
+                  "coords": [
+                        120.150646,
+                        30.235738
+                  ]
+            },
+            {
+                  "name": "West Lake Museum",
+                  "text": "Acest muzeu modern oferă o imagine de ansamblu cuprinzătoare asupra istoriei ecologice și a semnificației culturale a faimosului lac din Hangzhou.",
+                  "category": "museum",
+                  "coords": [
+                        120.152711,
+                        30.244282
+                  ]
+            },
+            {
+                  "name": "Hangzhou museum",
+                  "text": "Acest muzeu al orașului prezintă cronica bogatei dezvoltări urbane și istorii culturale a orașului Hangzhou de-a lungul secolelor.",
+                  "category": "museum",
+                  "coords": [
+                        120.161531,
+                        30.24178
+                  ]
+            },
+            {
+                  "name": "Remains of Lingyao Pavilion",
+                  "text": "Aceste ruine istorice de lângă Lacul de Vest marchează fostul amplasament al unui pavilion pitoresc chinezesc clasic.",
+                  "category": "historical",
+                  "coords": [
+                        120.137021,
+                        30.253631
+                  ]
+            },
+            {
+                  "name": "Zhejiang Shengli Theatre",
+                  "text": "Această sală de spectacole cu o lungă tradiție din Hangzhou a fost un centru pentru artele teatrale locale și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        120.158789,
+                        30.258457
+                  ]
+            },
+            {
+                  "name": "Marco Polo statue",
+                  "text": "Acest monument de pe malul lacului aduce un omagiu exploratorului venețian care se presupune că a vizitat și a lăudat foarte mult orașul Hangzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        120.152908,
+                        30.261081
+                  ]
+            },
+            {
+                  "name": "The old site of Baodashen",
+                  "text": "Această locație istorică din zona Lacului de Vest păstrează urme ale trecutului comercial și cultural tradițional al orașului Hangzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        120.164929,
+                        30.241667
+                  ]
+            },
+            {
+                  "name": "The stones depicting the 12 Chinese zodiacal signs",
+                  "text": "O colecție de sculpturi în piatră sculptate complex, care reprezintă semnele animalelor din zodiacul tradițional chinezesc.",
+                  "category": "landmark",
+                  "coords": [
+                        120.160258,
+                        30.237639
+                  ]
+            },
+            {
+                  "name": "Fengshan Water Gate relics",
+                  "text": "Aceste rămășițe structurale fac parte din apărarea vechiului zid al orașului, care odată gestiona căile navigabile ale orașului istoric Hangzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        120.166258,
+                        30.227765
+                  ]
+            },
+            {
+                  "name": "Yanggong Dike",
+                  "text": "Acest dig străjuit de copaci se desfășoară paralel cu malul vestic al Lacului de Vest, având o serie de poduri pitorești din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        120.137357,
+                        30.228869
+                  ]
+            },
+            {
+                  "name": "Three Ponds Mirroring the Moon",
+                  "text": "Această insulă artificială emblematică din Lacul de Vest are trei pagode de piatră în apă, o imagine faimoasă înfățișată pe bancnota de 1 RMB.",
+                  "category": "landmark",
+                  "coords": [
+                        120.139778,
+                        30.239475
+                  ]
+            },
+            {
+                  "name": "Santai Yunshui",
+                  "text": "O zonă pitorească liniștită lângă Lacul de Vest, recunoscută pentru priveliștile sale cețoase, asemănătoare norilor, și pavilioanele tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        120.126533,
+                        30.233448
+                  ]
+            },
+            {
+                  "name": "South Lake",
+                  "text": "Întinderea sudică a regiunii Lacului de Vest oferă ape mai liniștite și alei pitorești departe de principalele centre turistice.",
+                  "category": "landmark",
+                  "coords": [
+                        120.133288,
+                        30.229329
+                  ]
+            },
+            {
+                  "name": "Guo's Villa",
+                  "text": "Această vilă cu grădină privată din dinastia Qing, păstrată cu meticulozitate, este așezată elegant pe malul vestic al Lacului de Vest.",
+                  "category": "landmark",
+                  "coords": [
+                        120.127592,
+                        30.245895
+                  ]
+            },
+            {
+                  "name": "Lotus garden",
+                  "text": "O secțiune dedicată a parcului lacului, unde întinderi vaste de flori de lotus înflorite atrag vizitatorii în lunile de vară.",
+                  "category": "landmark",
+                  "coords": [
+                        120.128866,
+                        30.249801
+                  ]
+            },
+            {
+                  "name": "Fukui garden",
+                  "text": "Un spațiu liniștit de grădină tradițională chineză lângă lac, conceput cu stânci clasice, iazuri și cărări șerpuite.",
+                  "category": "landmark",
+                  "coords": [
+                        120.128382,
+                        30.251836
+                  ]
+            },
+            {
+                  "name": "Zhusu garden",
+                  "text": "Cuibărită în zona pitorească a Lacului de Vest, această grădină este celebrată pentru crângurile sale luxuriante de bambus și elementele arhitecturale clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        120.129069,
+                        30.253966
+                  ]
+            },
+            {
+                  "name": "Wind and Lotus at the Crooked Courtyard",
+                  "text": "Această zonă istorică de parc de la Lacul de Vest este renumită ca una dintre Cele Zece Scene, fiind deosebit de faimoasă pentru înflorirea spectaculoasă a lotusului de vară.",
+                  "category": "landmark",
+                  "coords": [
+                        120.130985,
+                        30.253469
+                  ]
+            },
+            {
+                  "name": "Drum Tower",
+                  "text": "Acest turn antic reconstruit se află în inima istorică a orașului Hangzhou, servind inițial pentru a ține timpul și a anunța restricțiile de circulație ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        120.166792,
+                        30.240344
+                  ]
+            },
+            {
+                  "name": "City God Pavilion",
+                  "text": "Cocoțat pe Dealul Wushan, acest pavilion tradițional cu mai multe etaje oferă vederi panoramice ample atât asupra Lacului de Vest, cât și asupra orașului modern.",
+                  "category": "landmark",
+                  "coords": [
+                        120.159932,
+                        30.238885
+                  ]
+            },
+            {
+                  "name": "Jingci Temple",
+                  "text": "Situat la poalele Dealului Nanping, acest proeminent templu budist este renumit pentru clopotul său masiv de cupru care sună la amurg.",
+                  "category": "landmark",
+                  "coords": [
+                        120.144341,
+                        30.231131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leifeng Pagoda",
+                  "text": "Famously associated with the Legend of the White Snake, this rebuilt octagonal pagoda offers sweeping views over West Lake.",
+                  "category": "religious",
+                  "coords": [
+                        120.145015,
+                        30.233886
+                  ]
+            },
+            {
+                  "name": "Wenlan Pavilion",
+                  "text": "This Qing-era pavilion near West Lake was originally built to house a copy of the vast Siku Quanshu library.",
+                  "category": "landmark",
+                  "coords": [
+                        120.138215,
+                        30.25311
+                  ]
+            },
+            {
+                  "name": "Gongshu Canal Sports Park",
+                  "text": "This modern park area along the canal in Hangzhou features various sports facilities and green spaces.",
+                  "category": "park",
+                  "coords": [
+                        120.09908,
+                        30.31591
+                  ]
+            },
+            {
+                  "name": "Hangzhou Mosque",
+                  "text": "This grand Islamic place of worship is one of the largest mosques in China, serving the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        120.215643,
+                        30.276561
+                  ]
+            },
+            {
+                  "name": "Gallery of the Wulin Academy of Arts",
+                  "text": "This Hangzhou gallery exhibits works dedicated to the region's traditional and contemporary arts.",
+                  "category": "museum",
+                  "coords": [
+                        120.156296,
+                        30.248989
+                  ]
+            },
+            {
+                  "name": "China National Silk Museum",
+                  "text": "Located near West Lake, this vast institution is one of the largest museums in the world dedicated to the history of silk.",
+                  "category": "museum",
+                  "coords": [
+                        120.146573,
+                        30.225175
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "This historic Catholic cathedral in Hangzhou is one of the oldest continuing churches in China, featuring classic architectural elements.",
+                  "category": "religious",
+                  "coords": [
+                        120.162456,
+                        30.269785
+                  ]
+            },
+            {
+                  "name": "Seal Engravers' Society",
+                  "text": "Situated on an island in West Lake, this historic society is dedicated to the traditional Chinese art of stone seal engraving.",
+                  "category": "landmark",
+                  "coords": [
+                        120.135498,
+                        30.252792
+                  ]
+            },
+            {
+                  "name": "Former residence of Xueyan Hu",
+                  "text": "This opulent traditional estate was the home of a prominent late-Qing dynasty merchant, featuring exquisite gardens and architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        120.168287,
+                        30.2396
+                  ]
+            },
+            {
+                  "name": "Zhejiang Nature Museum",
+                  "text": "This natural history museum features extensive displays of dinosaur fossils and regional wildlife dioramas.",
+                  "category": "museum",
+                  "coords": [
+                        120.159624,
+                        30.278936
+                  ]
+            },
+            {
+                  "name": "Tangyun Art Gallery",
+                  "text": "Located by West Lake, this gallery is dedicated to the traditional Chinese paintings and artworks of the artist Tang Yun.",
+                  "category": "museum",
+                  "coords": [
+                        120.150646,
+                        30.235738
+                  ]
+            },
+            {
+                  "name": "West Lake Museum",
+                  "text": "This modern museum provides a comprehensive overview of the ecological history and cultural significance of Hangzhou's famous lake.",
+                  "category": "museum",
+                  "coords": [
+                        120.152711,
+                        30.244282
+                  ]
+            },
+            {
+                  "name": "Hangzhou museum",
+                  "text": "This city museum chronicles the rich urban development and cultural history of Hangzhou over the centuries.",
+                  "category": "museum",
+                  "coords": [
+                        120.161531,
+                        30.24178
+                  ]
+            },
+            {
+                  "name": "Remains of Lingyao Pavilion",
+                  "text": "These historical ruins by West Lake mark the former site of a classic Chinese scenic pavilion.",
+                  "category": "historical",
+                  "coords": [
+                        120.137021,
+                        30.253631
+                  ]
+            },
+            {
+                  "name": "Zhejiang Shengli Theatre",
+                  "text": "This long-standing performance venue in Hangzhou has been a center for local theatrical arts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        120.158789,
+                        30.258457
+                  ]
+            },
+            {
+                  "name": "Marco Polo statue",
+                  "text": "This lakeside monument pays tribute to the Venetian explorer who allegedly visited and highly praised the city of Hangzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        120.152908,
+                        30.261081
+                  ]
+            },
+            {
+                  "name": "The old site of Baodashen",
+                  "text": "This historical location in the West Lake area preserves traces of Hangzhou's traditional commercial and cultural past.",
+                  "category": "landmark",
+                  "coords": [
+                        120.164929,
+                        30.241667
+                  ]
+            },
+            {
+                  "name": "The stones depicting the 12 Chinese zodiacal signs",
+                  "text": "A collection of intricately carved stone sculptures representing the animal signs of the traditional Chinese zodiac.",
+                  "category": "landmark",
+                  "coords": [
+                        120.160258,
+                        30.237639
+                  ]
+            },
+            {
+                  "name": "Fengshan Water Gate relics",
+                  "text": "These structural remains are part of the ancient city wall defenses that once managed the waterways of historical Hangzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        120.166258,
+                        30.227765
+                  ]
+            },
+            {
+                  "name": "Yanggong Dike",
+                  "text": "This tree-lined causeway runs parallel to the western shore of West Lake, featuring a series of picturesque stone bridges.",
+                  "category": "landmark",
+                  "coords": [
+                        120.137357,
+                        30.228869
+                  ]
+            },
+            {
+                  "name": "Three Ponds Mirroring the Moon",
+                  "text": "This iconic artificial island in West Lake features three stone pagodas in the water, an image famously depicted on the 1 RMB banknote.",
+                  "category": "landmark",
+                  "coords": [
+                        120.139778,
+                        30.239475
+                  ]
+            },
+            {
+                  "name": "Santai Yunshui",
+                  "text": "A tranquil scenic area near West Lake recognized for its misty, cloud-like water views and traditional pavilions.",
+                  "category": "landmark",
+                  "coords": [
+                        120.126533,
+                        30.233448
+                  ]
+            },
+            {
+                  "name": "South Lake",
+                  "text": "The southern expanse of the West Lake region offers quieter waters and scenic pathways away from the main tourist hubs.",
+                  "category": "landmark",
+                  "coords": [
+                        120.133288,
+                        30.229329
+                  ]
+            },
+            {
+                  "name": "Guo's Villa",
+                  "text": "This meticulously preserved private garden villa from the Qing dynasty sits elegantly on the western shore of West Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        120.127592,
+                        30.245895
+                  ]
+            },
+            {
+                  "name": "Lotus garden",
+                  "text": "A dedicated section of the lake's parkland where vast expanses of blooming lotus flowers draw visitors during the summer months.",
+                  "category": "landmark",
+                  "coords": [
+                        120.128866,
+                        30.249801
+                  ]
+            },
+            {
+                  "name": "Fukui garden",
+                  "text": "A serene traditional Chinese garden space near the lake, designed with classic rocks, ponds, and winding paths.",
+                  "category": "landmark",
+                  "coords": [
+                        120.128382,
+                        30.251836
+                  ]
+            },
+            {
+                  "name": "Zhusu garden",
+                  "text": "Nestled in the West Lake scenic zone, this garden is celebrated for its lush bamboo groves and classical architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        120.129069,
+                        30.253966
+                  ]
+            },
+            {
+                  "name": "Wind and Lotus at the Crooked Courtyard",
+                  "text": "This historical park area at West Lake is renowned as one of the Ten Scenes, especially famous for its spectacular summer lotus blooms.",
+                  "category": "landmark",
+                  "coords": [
+                        120.130985,
+                        30.253469
+                  ]
+            },
+            {
+                  "name": "Drum Tower",
+                  "text": "This reconstructed ancient tower stands in the historic heart of Hangzhou, originally serving to keep time and announce city curfews.",
+                  "category": "landmark",
+                  "coords": [
+                        120.166792,
+                        30.240344
+                  ]
+            },
+            {
+                  "name": "City God Pavilion",
+                  "text": "Perched on Wushan Hill, this multi-story traditional pavilion offers sweeping panoramic views of both West Lake and the modern city.",
+                  "category": "landmark",
+                  "coords": [
+                        120.159932,
+                        30.238885
+                  ]
+            },
+            {
+                  "name": "Jingci Temple",
+                  "text": "Located at the foot of Nanping Hill, this prominent Buddhist temple is famous for its massive copper bell that rings at dusk.",
+                  "category": "landmark",
+                  "coords": [
+                        120.144341,
+                        30.231131
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CN-ZJ",
     coords: [120.14, 30.24],
@@ -291,7 +2289,1132 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "li-river-nature-v2",
+    id: "li-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "South China pearl museum",
+                  "text": "Dieses Museum in Guilin zeigt die Zucht von Salzwasserperlen und die Geschichte des Perlentauchens.",
+                  "category": "museum",
+                  "coords": [
+                        110.26442,
+                        25.285574
+                  ]
+            },
+            {
+                  "name": "Südtor",
+                  "text": "Dieses während der Tang-Dynastie erbaute antike Stadttor steht neben einem tausendjährigen Banyan-Feigenbaum.",
+                  "category": "landmark",
+                  "coords": [
+                        110.285979,
+                        25.278908
+                  ]
+            },
+            {
+                  "name": "Elefantenrüsselberg",
+                  "text": "Dieses Wahrzeichen ähnelt einem riesigen Elefanten, der mit seinem Rüssel Wasser aus dem Li-Fluss trinkt.",
+                  "category": "natural",
+                  "coords": [
+                        110.29151,
+                        25.270073
+                  ]
+            },
+            {
+                  "name": "Guilin Stele Forest Museum",
+                  "text": "Es befindet sich im Sieben-Sterne-Park und beherbergt über 2.000 Steininschriften aus der Tang- bis Qing-Dynastie.",
+                  "category": "museum",
+                  "coords": [
+                        110.301454,
+                        25.273829
+                  ]
+            },
+            {
+                  "name": "Lijiang Folk Customs Park",
+                  "text": "Dieser Kulturpark zeigt Aufführungen und Architektur der ethnischen Minderheiten der Zhuang, Yao und Miao.",
+                  "category": "landmark",
+                  "coords": [
+                        110.303523,
+                        25.290411
+                  ]
+            },
+            {
+                  "name": "Guilin fine-arts Museum",
+                  "text": "Das Museum stellt traditionelle chinesische Gemälde und moderne Werke berühmter Künstler aus der Region Guangxi aus.",
+                  "category": "cultural",
+                  "coords": [
+                        110.28657,
+                        25.252272
+                  ]
+            },
+            {
+                  "name": "Zizhou Island",
+                  "text": "Diese Flussinsel bietet den besten Panoramablick vom Festland aus auf den berühmten Elefantenrüssel-Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        110.295906,
+                        25.27174
+                  ]
+            },
+            {
+                  "name": "Qixing District Firefighting Culture Theme Park",
+                  "text": "Dieser Bildungspark erkundet die Geschichte und Techniken des Brandschutzes durch interaktive Exponate.",
+                  "category": "recreational",
+                  "coords": [
+                        110.29885,
+                        25.268446
+                  ]
+            },
+            {
+                  "name": "Museum of Mausoleums of Jingjiang Princes",
+                  "text": "Dieser weitläufige Friedhof enthält über 300 Gräber des Ming-Adels von Guilin.",
+                  "category": "park",
+                  "coords": [
+                        110.360521,
+                        25.294885
+                  ]
+            },
+            {
+                  "name": "Yaoshan Cable Car Station",
+                  "text": "Die Seilbahn fährt auf den Gipfel des Mount Yao, mit 909 Metern der höchste Berg in Guilin.",
+                  "category": "landmark",
+                  "coords": [
+                        110.364642,
+                        25.295438
+                  ]
+            },
+            {
+                  "name": "Tunnel Hill Scenic Area",
+                  "text": "Dieser Hügel am Flussufer ist berühmt für die Mondhöhle, ein großes kreisförmiges Loch, das den Berg durchbricht.",
+                  "category": "landmark",
+                  "coords": [
+                        110.30014,
+                        25.254804
+                  ]
+            },
+            {
+                  "name": "Zengpiyan National Archaeological Site Park",
+                  "text": "Diese neolithische Höhlenfundstätte bewahrt prähistorische Überreste und frühe Keramik, die über 10.000 Jahre alt sind.",
+                  "category": "historical",
+                  "coords": [
+                        110.279327,
+                        25.215497
+                  ]
+            },
+            {
+                  "name": "Guangxi Guilin National Forest Park",
+                  "text": "Ein großes ökologisches Reservat mit vielfältiger subtropischer Flora und malerischen Wanderwegen durch Kalksteinhügel.",
+                  "category": "natural",
+                  "coords": [
+                        110.242942,
+                        25.226545
+                  ]
+            },
+            {
+                  "name": "West Hill Park",
+                  "text": "Bekannt für seine buddhistischen Schnitzereien aus der Tang-Dynastie und die Höhle des verborgenen Drachen.",
+                  "category": "park",
+                  "coords": [
+                        110.271684,
+                        25.285972
+                  ]
+            },
+            {
+                  "name": "Chongshan Street Mosque",
+                  "text": "Die 1735 erbaute größte Moschee von Guilin verbindet islamische und traditionelle chinesische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        110.282693,
+                        25.274996
+                  ]
+            },
+            {
+                  "name": "Sun Pagoda",
+                  "text": "Diese 41 Meter hohe Kupferpagode im Shan-See ist das weltweit höchste Bauwerk aus reinem Kupfer.",
+                  "category": "landmark",
+                  "coords": [
+                        110.290432,
+                        25.274406
+                  ]
+            },
+            {
+                  "name": "Elephant Trunk Hill Park",
+                  "text": "Dieser Park am Flussufer umgibt die Kalksteinformation, die das offizielle Wahrzeichen von Guilin ist.",
+                  "category": "landmark",
+                  "coords": [
+                        110.29176,
+                        25.271292
+                  ]
+            },
+            {
+                  "name": "Guilin Old Zoo",
+                  "text": "Der im Sieben-Sterne-Park gelegene Zoo beheimatet Große Pandas und verschiedene seltene, in China heimische Arten.",
+                  "category": "recreational",
+                  "coords": [
+                        110.307677,
+                        25.273626
+                  ]
+            },
+            {
+                  "name": "Guilin Zoo",
+                  "text": "Der im Sieben-Sterne-Park gelegene Zoo beheimatet Große Pandas und verschiedene seltene, in China heimische Arten.",
+                  "category": "recreational",
+                  "coords": [
+                        110.310387,
+                        25.271948
+                  ]
+            },
+            {
+                  "name": "Seven Star Park",
+                  "text": "Guilins größter Park ist nach sieben Kalksteingipfeln benannt, die dem Sternbild des Großen Wagens ähneln.",
+                  "category": "landmark",
+                  "coords": [
+                        110.308787,
+                        25.274579
+                  ]
+            },
+            {
+                  "name": "Lijiang Theatre",
+                  "text": "Dieses moderne Theater ist Schauplatz der Show 'Mirage Guilin' mit Akrobatik und traditionellen Folklore-Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        110.293141,
+                        25.275726
+                  ]
+            },
+            {
+                  "name": "Xiaoyao Tower",
+                  "text": "Ein rekonstruierter Turm aus der Tang-Dynastie am Flussufer, der einst ein Treffpunkt berühmter Dichter war.",
+                  "category": "landmark",
+                  "coords": [
+                        110.297253,
+                        25.281308
+                  ]
+            },
+            {
+                  "name": "Jingjiang Princes' City",
+                  "text": "Diese Palastanlage aus der Ming-Dynastie beherbergt den Gipfel der Einsamen Schönheit, die 'Säule des Südens'.",
+                  "category": "landmark",
+                  "coords": [
+                        110.294554,
+                        25.284498
+                  ]
+            },
+            {
+                  "name": "Yu Hill Park",
+                  "text": "Der Legende nach besuchte Kaiser Yu diesen Ort; der Park bietet historische Stelen und malerische Höhlen.",
+                  "category": "park",
+                  "coords": [
+                        110.296904,
+                        25.301821
+                  ]
+            },
+            {
+                  "name": "Reed Flute Cave",
+                  "text": "Diese riesige Kalksteinhöhle ist berühmt für ihre bunte Beleuchtung und spektakulären Tropfsteinformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.267891,
+                        25.312774
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Ein aktives Gotteshaus für die örtliche muslimische Gemeinde, gelegen an den malerischen Ufern des Li-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        110.307295,
+                        25.272621
+                  ]
+            },
+            {
+                  "name": "Confucius Temple",
+                  "text": "Dieser traditionelle Tempel ist dem Philosophen Konfuzius gewidmet und dient als Zentrum für kulturelle Studien.",
+                  "category": "landmark",
+                  "coords": [
+                        110.294211,
+                        25.286891
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "Ein modernes Kirchengebäude in Guilin, das als geistliches Zentrum für die katholischen Einwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        110.293061,
+                        25.281753
+                  ]
+            },
+            {
+                  "name": "Nengren Temple",
+                  "text": "Ein friedliches buddhistisches Heiligtum, bekannt für seine historischen Statuen und sein beliebtes vegetarisches Restaurant.",
+                  "category": "landmark",
+                  "coords": [
+                        110.281864,
+                        25.282402
+                  ]
+            },
+            {
+                  "name": "Guilin Wujiao electromechanical wholesale market",
+                  "text": "Ein geschäftiger Großhandelsmarkt, der auf eine breite Palette von mechanischen und elektrischen Eisenwaren spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        110.30143,
+                        25.321344
+                  ]
+            },
+            {
+                  "name": "Railroad food market",
+                  "text": "Ein lebhafter lokaler Markt an den Gleisen, auf dem frische Produkte und traditionelle Guilin-Reisnudeln verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        110.290689,
+                        25.313113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "South China pearl museum",
+                  "text": "Ez a kujlini múzeum a sósvízi gyöngyök tenyésztését és a gyöngyhalászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        110.26442,
+                        25.285574
+                  ]
+            },
+            {
+                  "name": "Ancient South Gate",
+                  "text": "Ez a Tang-dinasztia idején épült ősi városkapu egy ezeréves banjánfa mellett áll.",
+                  "category": "landmark",
+                  "coords": [
+                        110.285979,
+                        25.278908
+                  ]
+            },
+            {
+                  "name": "Elephant Trunk Hill",
+                  "text": "Ez a jellegzetes látványosság egy óriási elefántra hasonlít, amely ormányával a Li-folyóból iszik vizet.",
+                  "category": "natural",
+                  "coords": [
+                        110.29151,
+                        25.270073
+                  ]
+            },
+            {
+                  "name": "Guilin Stele Forest Museum",
+                  "text": "A Hét Csillag Parkban található, és több mint 2000 kőfeliratot őriz a Tang-tól a Csing-dinasztiáig.",
+                  "category": "museum",
+                  "coords": [
+                        110.301454,
+                        25.273829
+                  ]
+            },
+            {
+                  "name": "Lijiang Folk Customs Park",
+                  "text": "Ez a kulturális park a csuang, jao és miao etnikai kisebbségek előadásait és építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        110.303523,
+                        25.290411
+                  ]
+            },
+            {
+                  "name": "Guilin fine-arts Museum",
+                  "text": "A múzeum hagyományos kínai festményeket és a Kuanghszi régió híres művészeinek modern alkotásait állítja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        110.28657,
+                        25.252272
+                  ]
+            },
+            {
+                  "name": "Zizhou Island",
+                  "text": "Ez a folyami sziget kínálja a legjobb kilátást a szárazföldről a jellegzetes Elefántormány-sziklára.",
+                  "category": "landmark",
+                  "coords": [
+                        110.295906,
+                        25.27174
+                  ]
+            },
+            {
+                  "name": "Qixing District Firefighting Culture Theme Park",
+                  "text": "Ez az oktatópark interaktív kiállításokon keresztül mutatja be a tűzvédelem történetét és technikáit.",
+                  "category": "recreational",
+                  "coords": [
+                        110.29885,
+                        25.268446
+                  ]
+            },
+            {
+                  "name": "Museum of Mausoleums of Jingjiang Princes",
+                  "text": "Ez a hatalmas temető több mint 300 sírt tartalmaz, amelyek a kujlini Ming-dinasztia királyi családjához tartoztak.",
+                  "category": "park",
+                  "coords": [
+                        110.360521,
+                        25.294885
+                  ]
+            },
+            {
+                  "name": "Yaoshan Cable Car Station",
+                  "text": "A felvonó a Jao-hegy csúcsára visz fel, amely 909 méterével Kujlin legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        110.364642,
+                        25.295438
+                  ]
+            },
+            {
+                  "name": "Tunnel Hill Scenic Area",
+                  "text": "Ez a folyóparti domb a Hold-barlangról híres, amely egy nagy, kerek nyílás a hegy oldalában.",
+                  "category": "landmark",
+                  "coords": [
+                        110.30014,
+                        25.254804
+                  ]
+            },
+            {
+                  "name": "Zengpiyan National Archaeological Site Park",
+                  "text": "Ez az újkőkorszaki barlangi lelőhely több mint 10 000 éves őskori maradványokat és korai kerámiákat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        110.279327,
+                        25.215497
+                  ]
+            },
+            {
+                  "name": "Guangxi Guilin National Forest Park",
+                  "text": "Egy hatalmas ökológiai rezervátum változatos szubtrópusi flórával és látványos gyalogutakkal a mészkőhegyek között.",
+                  "category": "natural",
+                  "coords": [
+                        110.242942,
+                        25.226545
+                  ]
+            },
+            {
+                  "name": "West Hill Park",
+                  "text": "A Tang-dinasztia korabeli buddhista faragványairól és a Rejtett Sárkány-barlangról ismert történelmi kegyhely.",
+                  "category": "park",
+                  "coords": [
+                        110.271684,
+                        25.285972
+                  ]
+            },
+            {
+                  "name": "Chongshan Street Mosque",
+                  "text": "Az 1735-ben épült legnagyobb kujlini mecset az iszlám és a hagyományos kínai építészet ötvözete.",
+                  "category": "religious",
+                  "coords": [
+                        110.282693,
+                        25.274996
+                  ]
+            },
+            {
+                  "name": "Sun Pagoda",
+                  "text": "Ez a 41 méter magas rézpagoda a San-tóban áll, és a világ legmagasabb, tiszta rézből készült építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        110.290432,
+                        25.274406
+                  ]
+            },
+            {
+                  "name": "Elephant Trunk Hill Park",
+                  "text": "Ez a folyóparti park veszi körül azt a mészkőképződményt, amely Kujlin hivatalos jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        110.29176,
+                        25.271292
+                  ]
+            },
+            {
+                  "name": "Guilin Old Zoo",
+                  "text": "A Hét Csillag Parkban található állatkert óriáspandáknak és számos ritka, Kínában őshonos fajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        110.307677,
+                        25.273626
+                  ]
+            },
+            {
+                  "name": "Guilin Zoo",
+                  "text": "A Hét Csillag Parkban található állatkert óriáspandáknak és számos ritka, Kínában őshonos fajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        110.310387,
+                        25.271948
+                  ]
+            },
+            {
+                  "name": "Seven Star Park",
+                  "text": "Kujlin legnagyobb parkja hét mészkőcsúcsról kapta a nevét, amelyek a Göncölszekér csillagképre hasonlítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        110.308787,
+                        25.274579
+                  ]
+            },
+            {
+                  "name": "Lijiang Theatre",
+                  "text": "Ez a modern helyszín ad otthont a 'Mirage Guilin' előadásnak, amely akrobatikát és hagyományos népi produkciókat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        110.293141,
+                        25.275726
+                  ]
+            },
+            {
+                  "name": "Xiaoyao Tower",
+                  "text": "Egy rekonstruált Tang-dinasztia korabeli torony a folyóparton, amely egykor híres költők találkozóhelye volt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.297253,
+                        25.281308
+                  ]
+            },
+            {
+                  "name": "Jingjiang Princes' City",
+                  "text": "Ebben a Ming-dinasztia korabeli palotakomplexumban található a Magányos Szépség csúcsa, a 'dél oszlopa'.",
+                  "category": "landmark",
+                  "coords": [
+                        110.294554,
+                        25.284498
+                  ]
+            },
+            {
+                  "name": "Yu Hill Park",
+                  "text": "A legenda szerint a bölcs Jü császár járt ezen a helyen; a parkban történelmi sztélék és látványos barlangok találhatók.",
+                  "category": "park",
+                  "coords": [
+                        110.296904,
+                        25.301821
+                  ]
+            },
+            {
+                  "name": "Reed Flute Cave",
+                  "text": "Ez a hatalmas mészkőbarlang a többszínű világításáról és látványos cseppkőképződményeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        110.267891,
+                        25.312774
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "A helyi muszlim közösség aktív imaháza, a Li-folyó festői partja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.307295,
+                        25.272621
+                  ]
+            },
+            {
+                  "name": "Confucius Temple",
+                  "text": "Ezt a hagyományos templomot Konfuciusz filozófusnak szentelték, és a helyi kulturális tanulmányok központja.",
+                  "category": "landmark",
+                  "coords": [
+                        110.294211,
+                        25.286891
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "Modern templomépület Kujlinban, amely a város katolikus lakosainak lelki központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        110.293061,
+                        25.281753
+                  ]
+            },
+            {
+                  "name": "Nengren Temple",
+                  "text": "Békés buddhista szentély, amely történelmi szobrairól és népszerű vegetáriánus étterméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        110.281864,
+                        25.282402
+                  ]
+            },
+            {
+                  "name": "Guilin Wujiao electromechanical wholesale market",
+                  "text": "Nyüzsgő nagykereskedelmi piac, amely mechanikai és elektromos eszközök széles választékára szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        110.30143,
+                        25.321344
+                  ]
+            },
+            {
+                  "name": "Railroad food market",
+                  "text": "Életteli helyi piac a sínek mellett, ahol friss árut és hagyományos kujlini rizstésztát árulnak az árusok.",
+                  "category": "cultural",
+                  "coords": [
+                        110.290689,
+                        25.313113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "South China pearl museum",
+                  "text": "Acest muzeu din Guilin prezintă cultivarea perlelor de apă sărată și istoria scufundărilor după perle.",
+                  "category": "museum",
+                  "coords": [
+                        110.26442,
+                        25.285574
+                  ]
+            },
+            {
+                  "name": "Ancient South Gate",
+                  "text": "Construită în timpul dinastiei Tang, această poartă veche a orașului se află lângă un arbore banyan milenar.",
+                  "category": "landmark",
+                  "coords": [
+                        110.285979,
+                        25.278908
+                  ]
+            },
+            {
+                  "name": "Elephant Trunk Hill",
+                  "text": "Acest punct de reper iconic seamănă cu un elefant uriaș care bea apă din râul Li cu trompa sa.",
+                  "category": "natural",
+                  "coords": [
+                        110.29151,
+                        25.270073
+                  ]
+            },
+            {
+                  "name": "Guilin Stele Forest Museum",
+                  "text": "Situat în Parcul celor Șapte Stele, acesta găzduiește peste 2.000 de inscripții în piatră din dinastiile Tang până în Qing.",
+                  "category": "museum",
+                  "coords": [
+                        110.301454,
+                        25.273829
+                  ]
+            },
+            {
+                  "name": "Lijiang Folk Customs Park",
+                  "text": "Acest parc cultural prezintă spectacole și arhitectură ale minorităților etnice Zhuang, Yao și Miao.",
+                  "category": "landmark",
+                  "coords": [
+                        110.303523,
+                        25.290411
+                  ]
+            },
+            {
+                  "name": "Guilin fine-arts Museum",
+                  "text": "Muzeul expune picturi tradiționale chinezești și lucrări moderne ale unor artiști celebri din regiunea Guangxi.",
+                  "category": "cultural",
+                  "coords": [
+                        110.28657,
+                        25.252272
+                  ]
+            },
+            {
+                  "name": "Zizhou Island",
+                  "text": "Această insulă fluvială oferă cea mai bună vedere panoramică de pe uscat asupra faimosului Deal al Trompei de Elefant.",
+                  "category": "landmark",
+                  "coords": [
+                        110.295906,
+                        25.27174
+                  ]
+            },
+            {
+                  "name": "Qixing District Firefighting Culture Theme Park",
+                  "text": "Acest parc educațional explorează istoria și tehnicile de siguranță la incendiu prin exponate interactive.",
+                  "category": "recreational",
+                  "coords": [
+                        110.29885,
+                        25.268446
+                  ]
+            },
+            {
+                  "name": "Museum of Mausoleums of Jingjiang Princes",
+                  "text": "Acest cimitir vast conține peste 300 de morminte aparținând familiei regale din dinastia Ming din Guilin.",
+                  "category": "park",
+                  "coords": [
+                        110.360521,
+                        25.294885
+                  ]
+            },
+            {
+                  "name": "Yaoshan Cable Car Station",
+                  "text": "Telecabina urcă spre vârful Muntelui Yao, cel mai înalt vârf din Guilin, având 909 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        110.364642,
+                        25.295438
+                  ]
+            },
+            {
+                  "name": "Tunnel Hill Scenic Area",
+                  "text": "Acest deal de pe malul râului este faimos pentru Peștera Lunii, o gaură circulară mare care străpunge muntele.",
+                  "category": "landmark",
+                  "coords": [
+                        110.30014,
+                        25.254804
+                  ]
+            },
+            {
+                  "name": "Zengpiyan National Archaeological Site Park",
+                  "text": "Acest sit neolitic de peșteră păstrează vestigii preistorice și ceramică timpurie care datează de peste 10.000 de ani.",
+                  "category": "historical",
+                  "coords": [
+                        110.279327,
+                        25.215497
+                  ]
+            },
+            {
+                  "name": "Guangxi Guilin National Forest Park",
+                  "text": "O rezervație ecologică mare, cu floră subtropicală diversă și poteci pitorești printre dealurile de calcar.",
+                  "category": "natural",
+                  "coords": [
+                        110.242942,
+                        25.226545
+                  ]
+            },
+            {
+                  "name": "West Hill Park",
+                  "text": "Cunoscut pentru sculpturile sale budiste din dinastia Tang și Peștera Dragonului Ascuns, este un loc istoric de cult.",
+                  "category": "park",
+                  "coords": [
+                        110.271684,
+                        25.285972
+                  ]
+            },
+            {
+                  "name": "Chongshan Street Mosque",
+                  "text": "Construită în 1735, aceasta este cea mai mare moschee din Guilin, prezentând o fuziune de arhitectură islamică și chineză tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        110.282693,
+                        25.274996
+                  ]
+            },
+            {
+                  "name": "Sun Pagoda",
+                  "text": "Această pagodă de cupru înaltă de 41 de metri se află în lacul Shan și este cea mai înaltă structură din lume din cupru pur.",
+                  "category": "landmark",
+                  "coords": [
+                        110.290432,
+                        25.274406
+                  ]
+            },
+            {
+                  "name": "Elephant Trunk Hill Park",
+                  "text": "Acest parc de pe malul râului înconjoară formațiunea de calcar care servește drept simbol oficial al orașului Guilin.",
+                  "category": "landmark",
+                  "coords": [
+                        110.29176,
+                        25.271292
+                  ]
+            },
+            {
+                  "name": "Guilin Old Zoo",
+                  "text": "Situată în Parcul celor Șapte Stele, grădina zoologică găzduiește urși panda uriași și diverse specii rare native din China.",
+                  "category": "recreational",
+                  "coords": [
+                        110.307677,
+                        25.273626
+                  ]
+            },
+            {
+                  "name": "Guilin Zoo",
+                  "text": "Situată în Parcul celor Șapte Stele, grădina zoologică găzduiește urși panda uriași și diverse specii rare native din China.",
+                  "category": "recreational",
+                  "coords": [
+                        110.310387,
+                        25.271948
+                  ]
+            },
+            {
+                  "name": "Seven Star Park",
+                  "text": "Cel mai mare parc din Guilin este numit după șapte vârfuri de calcar care seamănă cu constelația Carul Mare.",
+                  "category": "landmark",
+                  "coords": [
+                        110.308787,
+                        25.274579
+                  ]
+            },
+            {
+                  "name": "Lijiang Theatre",
+                  "text": "Această locație modernă găzduiește spectacolul „Mirage Guilin”, cu acrobații și spectacole folclorice tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.293141,
+                        25.275726
+                  ]
+            },
+            {
+                  "name": "Xiaoyao Tower",
+                  "text": "Un turn reconstruit din dinastia Tang de pe malul râului, care a servit odinioară drept loc de întâlnire pentru poeți faimoși.",
+                  "category": "landmark",
+                  "coords": [
+                        110.297253,
+                        25.281308
+                  ]
+            },
+            {
+                  "name": "Jingjiang Princes' City",
+                  "text": "Acest complex de palate din dinastia Ming prezintă Vârful Frumuseții Solitare, cunoscut drept „stâlpul sudului”.",
+                  "category": "landmark",
+                  "coords": [
+                        110.294554,
+                        25.284498
+                  ]
+            },
+            {
+                  "name": "Yu Hill Park",
+                  "text": "Legenda spune că anticul împărat Yu a vizitat acest loc; parcul prezintă stele istorice și peșteri pitorești.",
+                  "category": "park",
+                  "coords": [
+                        110.296904,
+                        25.301821
+                  ]
+            },
+            {
+                  "name": "Reed Flute Cave",
+                  "text": "Această peșteră masivă de calcar este faimoasă pentru iluminarea sa multicoloră și formațiunile spectaculoase de stalactite.",
+                  "category": "landmark",
+                  "coords": [
+                        110.267891,
+                        25.312774
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Un lăcaș de cult activ pentru comunitatea musulmană locală, situat lângă malurile pitorești ale râului Li.",
+                  "category": "landmark",
+                  "coords": [
+                        110.307295,
+                        25.272621
+                  ]
+            },
+            {
+                  "name": "Confucius Temple",
+                  "text": "Acest templu tradițional este dedicat filozofului Confucius și servește ca centru pentru studiul cultural local.",
+                  "category": "landmark",
+                  "coords": [
+                        110.294211,
+                        25.286891
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "O clădire modernă de biserică din Guilin, care servește drept centru spiritual pentru rezidenții catolici ai orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        110.293061,
+                        25.281753
+                  ]
+            },
+            {
+                  "name": "Nengren Temple",
+                  "text": "Un sanctuar budist liniștit, cunoscut pentru statuile sale istorice și popularul său restaurant vegetarian.",
+                  "category": "landmark",
+                  "coords": [
+                        110.281864,
+                        25.282402
+                  ]
+            },
+            {
+                  "name": "Guilin Wujiao electromechanical wholesale market",
+                  "text": "O piață angro plină de viață, specializată într-o gamă largă de articole mecanice și electrice.",
+                  "category": "cultural",
+                  "coords": [
+                        110.30143,
+                        25.321344
+                  ]
+            },
+            {
+                  "name": "Railroad food market",
+                  "text": "O piață locală plină de viață lângă șine, unde vânzătorii vând produse proaspete și tăiței de orez tradiționali din Guilin.",
+                  "category": "cultural",
+                  "coords": [
+                        110.290689,
+                        25.313113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "South China pearl museum",
+                  "text": "This museum in Guilin showcases the cultivation of saltwater pearls and the history of pearl diving.",
+                  "category": "museum",
+                  "coords": [
+                        110.26442,
+                        25.285574
+                  ]
+            },
+            {
+                  "name": "Ancient South Gate",
+                  "text": "Built during the Tang Dynasty, this ancient city gate stands next to a thousand-year-old banyan tree.",
+                  "category": "landmark",
+                  "coords": [
+                        110.285979,
+                        25.278908
+                  ]
+            },
+            {
+                  "name": "Elephant Trunk Hill",
+                  "text": "This iconic landmark resembles a giant elephant drinking water from the Li River with its trunk.",
+                  "category": "natural",
+                  "coords": [
+                        110.29151,
+                        25.270073
+                  ]
+            },
+            {
+                  "name": "Guilin Stele Forest Museum",
+                  "text": "Located in Seven Star Park, it houses over 2,000 stone inscriptions dating from the Tang to Qing dynasties.",
+                  "category": "museum",
+                  "coords": [
+                        110.301454,
+                        25.273829
+                  ]
+            },
+            {
+                  "name": "Lijiang Folk Customs Park",
+                  "text": "This cultural park features performances and architecture of the Zhuang, Yao, and Miao ethnic minorities.",
+                  "category": "landmark",
+                  "coords": [
+                        110.303523,
+                        25.290411
+                  ]
+            },
+            {
+                  "name": "Guilin fine-arts Museum",
+                  "text": "The museum exhibits traditional Chinese paintings and modern works by celebrated artists from the Guangxi region.",
+                  "category": "cultural",
+                  "coords": [
+                        110.28657,
+                        25.252272
+                  ]
+            },
+            {
+                  "name": "Zizhou Island",
+                  "text": "This river island offers the best land-based panoramic view of the iconic Elephant Trunk Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        110.295906,
+                        25.27174
+                  ]
+            },
+            {
+                  "name": "Qixing District Firefighting Culture Theme Park",
+                  "text": "This educational park explores the history and techniques of fire safety through interactive exhibits.",
+                  "category": "recreational",
+                  "coords": [
+                        110.29885,
+                        25.268446
+                  ]
+            },
+            {
+                  "name": "Museum of Mausoleums of Jingjiang Princes",
+                  "text": "This vast cemetery contains over 300 tombs belonging to the Ming Dynasty royalty of Guilin.",
+                  "category": "park",
+                  "coords": [
+                        110.360521,
+                        25.294885
+                  ]
+            },
+            {
+                  "name": "Yaoshan Cable Car Station",
+                  "text": "The cable car ascends to the summit of Mount Yao, the highest peak in Guilin at 909 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        110.364642,
+                        25.295438
+                  ]
+            },
+            {
+                  "name": "Tunnel Hill Scenic Area",
+                  "text": "This riverside hill is famous for the Moon Cave, a large circular hole that pierces through the mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        110.30014,
+                        25.254804
+                  ]
+            },
+            {
+                  "name": "Zengpiyan National Archaeological Site Park",
+                  "text": "This Neolithic cave site preserves prehistoric remains and early pottery dating back over 10,000 years.",
+                  "category": "historical",
+                  "coords": [
+                        110.279327,
+                        25.215497
+                  ]
+            },
+            {
+                  "name": "Guangxi Guilin National Forest Park",
+                  "text": "A large ecological reserve featuring diverse subtropical flora and scenic walking paths through limestone hills.",
+                  "category": "natural",
+                  "coords": [
+                        110.242942,
+                        25.226545
+                  ]
+            },
+            {
+                  "name": "West Hill Park",
+                  "text": "Known for its Tang Dynasty Buddhist carvings and the Hidden Dragon Cave, it is a historic site of worship.",
+                  "category": "park",
+                  "coords": [
+                        110.271684,
+                        25.285972
+                  ]
+            },
+            {
+                  "name": "Chongshan Street Mosque",
+                  "text": "Built in 1735, this is Guilin's largest mosque, featuring a fusion of Islamic and traditional Chinese architecture.",
+                  "category": "religious",
+                  "coords": [
+                        110.282693,
+                        25.274996
+                  ]
+            },
+            {
+                  "name": "Sun Pagoda",
+                  "text": "This 41-meter-tall copper pagoda stands in Shan Lake and is the world's tallest structure made of pure copper.",
+                  "category": "landmark",
+                  "coords": [
+                        110.290432,
+                        25.274406
+                  ]
+            },
+            {
+                  "name": "Elephant Trunk Hill Park",
+                  "text": "This riverside park surrounds the limestone formation that serves as the official symbol of Guilin.",
+                  "category": "landmark",
+                  "coords": [
+                        110.29176,
+                        25.271292
+                  ]
+            },
+            {
+                  "name": "Guilin Old Zoo",
+                  "text": "Located within Seven Star Park, the zoo is home to giant pandas and various rare species native to China.",
+                  "category": "recreational",
+                  "coords": [
+                        110.307677,
+                        25.273626
+                  ]
+            },
+            {
+                  "name": "Guilin Zoo",
+                  "text": "Located within Seven Star Park, the zoo is home to giant pandas and various rare species native to China.",
+                  "category": "recreational",
+                  "coords": [
+                        110.310387,
+                        25.271948
+                  ]
+            },
+            {
+                  "name": "Seven Star Park",
+                  "text": "Guilin's largest park is named after seven limestone peaks that resemble the constellation of the Big Dipper.",
+                  "category": "landmark",
+                  "coords": [
+                        110.308787,
+                        25.274579
+                  ]
+            },
+            {
+                  "name": "Lijiang Theatre",
+                  "text": "This modern venue hosts the 'Mirage Guilin' show, featuring acrobatics and traditional folk performances.",
+                  "category": "cultural",
+                  "coords": [
+                        110.293141,
+                        25.275726
+                  ]
+            },
+            {
+                  "name": "Xiaoyao Tower",
+                  "text": "A reconstructed Tang Dynasty tower on the riverbank that once served as a gathering spot for famous poets.",
+                  "category": "landmark",
+                  "coords": [
+                        110.297253,
+                        25.281308
+                  ]
+            },
+            {
+                  "name": "Jingjiang Princes' City",
+                  "text": "This Ming Dynasty palace complex features the Solitary Beauty Peak, known as the 'pillar of the south.'",
+                  "category": "landmark",
+                  "coords": [
+                        110.294554,
+                        25.284498
+                  ]
+            },
+            {
+                  "name": "Yu Hill Park",
+                  "text": "Legend says the ancient Emperor Yu visited this spot; the park features historic steles and scenic caves.",
+                  "category": "park",
+                  "coords": [
+                        110.296904,
+                        25.301821
+                  ]
+            },
+            {
+                  "name": "Reed Flute Cave",
+                  "text": "This massive limestone cave is famous for its multicolored lighting and spectacular stalactite formations.",
+                  "category": "landmark",
+                  "coords": [
+                        110.267891,
+                        25.312774
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "An active place of worship for the local Muslim community, situated near the scenic banks of the Li River.",
+                  "category": "landmark",
+                  "coords": [
+                        110.307295,
+                        25.272621
+                  ]
+            },
+            {
+                  "name": "Confucius Temple",
+                  "text": "This traditional temple is dedicated to the philosopher Confucius and serves as a center for local cultural study.",
+                  "category": "landmark",
+                  "coords": [
+                        110.294211,
+                        25.286891
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "A modern church building in Guilin that serves as the spiritual center for the city's Catholic residents.",
+                  "category": "landmark",
+                  "coords": [
+                        110.293061,
+                        25.281753
+                  ]
+            },
+            {
+                  "name": "Nengren Temple",
+                  "text": "A peaceful Buddhist sanctuary known for its historic statues and popular vegetarian restaurant.",
+                  "category": "landmark",
+                  "coords": [
+                        110.281864,
+                        25.282402
+                  ]
+            },
+            {
+                  "name": "Guilin Wujiao electromechanical wholesale market",
+                  "text": "A bustling wholesale marketplace specializing in a wide range of mechanical and electrical hardware.",
+                  "category": "cultural",
+                  "coords": [
+                        110.30143,
+                        25.321344
+                  ]
+            },
+            {
+                  "name": "Railroad food market",
+                  "text": "A lively local market near the tracks where vendors sell fresh produce and traditional Guilin rice noodles.",
+                  "category": "cultural",
+                  "coords": [
+                        110.290689,
+                        25.313113
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CN-GX",
     coords: [110.29, 25.27],
@@ -531,7 +3654,376 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "stone-forest-nature-v2",
+    id: "stone-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eternal Mushroom Scenic Area",
+                  "text": "Eine markante Felsformation im Steinwald, die an die Form eines riesigen Pilzes erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        103.316451,
+                        24.809519
+                  ]
+            },
+            {
+                  "name": "Ancient Cliff Paintings",
+                  "text": "Diese antiken Felszeichnungen an den Kalksteinwänden zeigen Szenen aus dem Leben früherer Kulturen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.324218,
+                        24.813092
+                  ]
+            },
+            {
+                  "name": "Strolling Mother with Son",
+                  "text": "Eine natürliche Karstskulptur, deren Umrisse wie eine spazierende Frau mit ihrem Kind aussehen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.326663,
+                        24.813038
+                  ]
+            },
+            {
+                  "name": "Ashima Rock",
+                  "text": "Die berühmteste Felsformation im Steinwald, die laut einer lokalen Sani-Legende ein versteinertes Mädchen darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.327497,
+                        24.820106
+                  ]
+            },
+            {
+                  "name": "Orchid Gorge",
+                  "text": "Ein Aussichtspunkt über eine enge Schlucht, die für ihre wild wachsenden Orchideen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        103.32573,
+                        24.816913
+                  ]
+            },
+            {
+                  "name": "Stone Forest Marvel",
+                  "text": "Ein spektakulärer Ausblick auf die scharfkantigen Kalksteinnadeln, die wie ein versteinerter Wald aus dem Boden ragen.",
+                  "category": "natural",
+                  "coords": [
+                        103.322988,
+                        24.818486
+                  ]
+            },
+            {
+                  "name": "Shilin Snow and Ocean Park",
+                  "text": "Ein moderner Themenpark mit einer ganzjährigen Indoor-Skipiste und einem großen Meeresaquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        103.309437,
+                        24.814939
+                  ]
+            },
+            {
+                  "name": "The Stone Forest Karst Geological Research Museum",
+                  "text": "Dieses Museum erklärt die geologische Entstehung des UNESCO-Karstgebiets anhand von Fossilien und Gesteinsproben.",
+                  "category": "museum",
+                  "coords": [
+                        103.323246,
+                        24.827763
+                  ]
+            },
+            {
+                  "name": "Shilin Steınwald",
+                  "text": "Eine weltweit einzigartige Karstlandschaft mit bizarren Kalksteinsäulen, die bis zu 30 Meter hoch aufragen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.323373,
+                        24.815375
+                  ]
+            },
+            {
+                  "name": "Naigu Stone Forest",
+                  "text": "Dieser Teil des Steinwaldes zeichnet sich durch seine dunklen, verwitterten Kalksteinformationen und eine wildere Landschaft aus.",
+                  "category": "landmark",
+                  "coords": [
+                        103.348738,
+                        24.902174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eternal Mushroom Scenic Area",
+                  "text": "Jellegzetes sziklaformáció a Kőerdőben, amely egy hatalmas gomba alakjára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        103.316451,
+                        24.809519
+                  ]
+            },
+            {
+                  "name": "Ancient Cliff Paintings",
+                  "text": "Ezek az ősi sziklarajzok a mészkőfalakon a korábbi kultúrák életéből vett jeleneteket ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.324218,
+                        24.813092
+                  ]
+            },
+            {
+                  "name": "Strolling Mother with Son",
+                  "text": "Természetes karsztszobor, amelynek körvonalai egy sétáló asszonyra és gyermekére hasonlítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.326663,
+                        24.813038
+                  ]
+            },
+            {
+                  "name": "Ashima Rock",
+                  "text": "A Kőerdő leghíresebb sziklája, amely a helyi sani legenda szerint egy kővé vált lányt ábrázol.",
+                  "category": "landmark",
+                  "coords": [
+                        103.327497,
+                        24.820106
+                  ]
+            },
+            {
+                  "name": "Orchid Gorge",
+                  "text": "Kilátópont egy szűk szurdok felett, amely a vadon növő orchideáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        103.32573,
+                        24.816913
+                  ]
+            },
+            {
+                  "name": "Stone Forest Marvel",
+                  "text": "Látványos kilátás az éles mészkőtűkre, amelyek megkövesedett erdőként emelkednek ki a földből.",
+                  "category": "natural",
+                  "coords": [
+                        103.322988,
+                        24.818486
+                  ]
+            },
+            {
+                  "name": "Shilin Snow and Ocean Park",
+                  "text": "Modern élménypark egész évben nyitva tartó fedett sípályával és egy hatalmas tengeri akváriummal.",
+                  "category": "recreational",
+                  "coords": [
+                        103.309437,
+                        24.814939
+                  ]
+            },
+            {
+                  "name": "The Stone Forest Karst Geological Research Museum",
+                  "text": "Ez a múzeum kövületek és kőzetminták segítségével magyarázza el az UNESCO karsztvidék geológiai kialakulását.",
+                  "category": "museum",
+                  "coords": [
+                        103.323246,
+                        24.827763
+                  ]
+            },
+            {
+                  "name": "Shilin Stone Forest Landscape District",
+                  "text": "Világviszonylatban is egyedülálló karsztvidék bizarr mészkőoszlopokkal, amelyek akár 30 méter magasra is nyúlnak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.323373,
+                        24.815375
+                  ]
+            },
+            {
+                  "name": "Naigu Stone Forest",
+                  "text": "A Kőerdő ezen része sötét, mállott mészkőképződményeiről és vadabb tájáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        103.348738,
+                        24.902174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eternal Mushroom Scenic Area",
+                  "text": "O formațiune stâncoasă distinctivă în Pădurea de Piatră, care seamănă cu forma unei ciuperci uriașe.",
+                  "category": "historical",
+                  "coords": [
+                        103.316451,
+                        24.809519
+                  ]
+            },
+            {
+                  "name": "Ancient Cliff Paintings",
+                  "text": "Aceste picturi rupestre antice de pe pereții de calcar înfățișează scene din viața culturilor timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        103.324218,
+                        24.813092
+                  ]
+            },
+            {
+                  "name": "Strolling Mother with Son",
+                  "text": "O sculptură carstică naturală ale cărei contururi arată ca o femeie care se plimbă cu copilul ei.",
+                  "category": "landmark",
+                  "coords": [
+                        103.326663,
+                        24.813038
+                  ]
+            },
+            {
+                  "name": "Ashima Rock",
+                  "text": "Cea mai faimoasă formațiune stâncoasă din Pădurea de Piatră, reprezentând o fată pietrificată conform unei legende locale Sani.",
+                  "category": "landmark",
+                  "coords": [
+                        103.327497,
+                        24.820106
+                  ]
+            },
+            {
+                  "name": "Orchid Gorge",
+                  "text": "Un punct de observație peste un defileu îngust, cunoscut pentru orhideele sale sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        103.32573,
+                        24.816913
+                  ]
+            },
+            {
+                  "name": "Stone Forest Marvel",
+                  "text": "O vedere spectaculoasă asupra acelor ascuțite de calcar care răsar din pământ ca o pădure pietrificată.",
+                  "category": "natural",
+                  "coords": [
+                        103.322988,
+                        24.818486
+                  ]
+            },
+            {
+                  "name": "Shilin Snow and Ocean Park",
+                  "text": "Un parc tematic modern cu o pârtie de schi acoperită deschisă tot anul și un mare acvariu marin.",
+                  "category": "recreational",
+                  "coords": [
+                        103.309437,
+                        24.814939
+                  ]
+            },
+            {
+                  "name": "The Stone Forest Karst Geological Research Museum",
+                  "text": "Acest muzeu explică formarea geologică a zonei carstice UNESCO prin fosile și mostre de rocă.",
+                  "category": "museum",
+                  "coords": [
+                        103.323246,
+                        24.827763
+                  ]
+            },
+            {
+                  "name": "Shilin Stone Forest Landscape District",
+                  "text": "Un peisaj carstic unic în lume, cu coloane bizare de calcar care se ridică până la 30 de metri înălțime.",
+                  "category": "landmark",
+                  "coords": [
+                        103.323373,
+                        24.815375
+                  ]
+            },
+            {
+                  "name": "Naigu Stone Forest",
+                  "text": "Această parte a Pădurii de Piatră se distinge prin formațiunile sale de calcar întunecat și erodat și prin peisajul mai sălbatic.",
+                  "category": "landmark",
+                  "coords": [
+                        103.348738,
+                        24.902174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eternal Mushroom Scenic Area",
+                  "text": "A striking rock formation in the Stone Forest that resembles the shape of a giant mushroom.",
+                  "category": "historical",
+                  "coords": [
+                        103.316451,
+                        24.809519
+                  ]
+            },
+            {
+                  "name": "Ancient Cliff Paintings",
+                  "text": "These ancient rock paintings on the limestone walls depict scenes from the lives of early cultures.",
+                  "category": "landmark",
+                  "coords": [
+                        103.324218,
+                        24.813092
+                  ]
+            },
+            {
+                  "name": "Strolling Mother with Son",
+                  "text": "A natural karst sculpture whose outlines look like a walking woman with her child.",
+                  "category": "landmark",
+                  "coords": [
+                        103.326663,
+                        24.813038
+                  ]
+            },
+            {
+                  "name": "Ashima Rock",
+                  "text": "The most famous rock formation in the Stone Forest, representing a petrified girl according to a local Sani legend.",
+                  "category": "landmark",
+                  "coords": [
+                        103.327497,
+                        24.820106
+                  ]
+            },
+            {
+                  "name": "Orchid Gorge",
+                  "text": "A viewpoint over a narrow gorge known for its wild orchids growing among the rocks.",
+                  "category": "natural",
+                  "coords": [
+                        103.32573,
+                        24.816913
+                  ]
+            },
+            {
+                  "name": "Stone Forest Marvel",
+                  "text": "A spectacular view of the sharp limestone needles that rise from the ground like a petrified forest.",
+                  "category": "natural",
+                  "coords": [
+                        103.322988,
+                        24.818486
+                  ]
+            },
+            {
+                  "name": "Shilin Snow and Ocean Park",
+                  "text": "A modern theme park featuring a year-round indoor ski slope and a large marine aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        103.309437,
+                        24.814939
+                  ]
+            },
+            {
+                  "name": "The Stone Forest Karst Geological Research Museum",
+                  "text": "This museum explains the geological formation of the UNESCO karst area through fossils and rock samples.",
+                  "category": "museum",
+                  "coords": [
+                        103.323246,
+                        24.827763
+                  ]
+            },
+            {
+                  "name": "Shilin Stone Forest Landscape District",
+                  "text": "A globally unique karst landscape featuring bizarre limestone pillars that rise up to 30 meters high.",
+                  "category": "landmark",
+                  "coords": [
+                        103.323373,
+                        24.815375
+                  ]
+            },
+            {
+                  "name": "Naigu Stone Forest",
+                  "text": "This part of the Stone Forest is distinguished by its dark, weathered limestone formations and wilder landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        103.348738,
+                        24.902174
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CN-YN",
     coords: [103.32, 24.82],
@@ -579,7 +4071,592 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "wulingyuan-nature-v2",
+    id: "wulingyuan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cock Pecking",
+                  "text": "Eine einzigartige Sandsteinpfeilerformation, die bemerkenswert an einen riesigen Hahn erinnert, der nach dem Blätterdach des Waldes pickt.",
+                  "category": "natural",
+                  "coords": [
+                        110.459807,
+                        29.38201
+                  ]
+            },
+            {
+                  "name": "Arranging Battles Platform",
+                  "text": "Der Legende nach ist dieser flache Berggipfel der Ort, an dem König Xiang einst seine himmlischen Truppen inmitten der Sandsteinpfeiler aufstellte.",
+                  "category": "natural",
+                  "coords": [
+                        110.481515,
+                        29.384441
+                  ]
+            },
+            {
+                  "name": "Shentang Gulf",
+                  "text": "Ein tiefes, schüsselförmiges Karsttal, umgeben von hochragenden Pfeilern, das oft von mysteriösen Nebeln und Echos erfüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        110.478465,
+                        29.386172
+                  ]
+            },
+            {
+                  "name": "Tianzi Sightseeing Platform",
+                  "text": "Eine erstklassige Aussichtsplattform mit Panoramablick auf das „Wolkenmeer“ und den riesigen Wald aus Sandsteinpfeilern darunter.",
+                  "category": "natural",
+                  "coords": [
+                        110.488592,
+                        29.383531
+                  ]
+            },
+            {
+                  "name": "Fossilized Giant Tortoise",
+                  "text": "Eine bemerkenswerte natürliche Felsformation auf einem Kamm, die eine verblüffende Ähnlichkeit mit einer riesigen, sich langsam bewegenden Schildkröte aufweist.",
+                  "category": "natural",
+                  "coords": [
+                        110.489719,
+                        29.382989
+                  ]
+            },
+            {
+                  "name": "Sandstone Peak Forest (The Warrior Training Horses)",
+                  "text": "Eine Gruppe zerklüfteter Pfeiler, die an einen legendären Krieger erinnern sollen, der am Himmel seine himmlischen Pferde trainiert.",
+                  "category": "natural",
+                  "coords": [
+                        110.490351,
+                        29.381201
+                  ]
+            },
+            {
+                  "name": "Imperial Writing Brush Peaks",
+                  "text": "Diese drei schlanken, spitzen Gipfel, die aus dem Talboden ragen, ähneln frappierend traditionellen chinesischen Kalligraphie-Pinseln.",
+                  "category": "natural",
+                  "coords": [
+                        110.491266,
+                        29.382289
+                  ]
+            },
+            {
+                  "name": "Stratification",
+                  "text": "Diese geologische Attraktion zeigt deutlich sichtbare Sedimentschichten im Quarzit-Sandstein von Wulingyuan.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491513,
+                        29.371943
+                  ]
+            },
+            {
+                  "name": "The Echo Walls",
+                  "text": "Diese natürliche Felswand erzeugt ein markantes Echo in der tiefen Schlucht des Naturparks.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491345,
+                        29.373006
+                  ]
+            },
+            {
+                  "name": "Vertical joints",
+                  "text": "Diese Formation zeigt die charakteristischen vertikalen Spalten, die zur Entstehung der berühmten Felstürme führten.",
+                  "category": "landmark",
+                  "coords": [
+                        110.492658,
+                        29.373254
+                  ]
+            },
+            {
+                  "name": "Yuntaiguan Formation",
+                  "text": "Diese Attraktion präsentiert die devonischen Sandsteinschichten der Yuntaiguan-Formation, die das Fundament der Region bilden.",
+                  "category": "landmark",
+                  "coords": [
+                        110.488612,
+                        29.377552
+                  ]
+            },
+            {
+                  "name": "Heavenly Platform",
+                  "text": "Dieses Hochplateau bietet ein weites Panorama über den Wald aus tausenden Sandsteinpfeilern.",
+                  "category": "natural",
+                  "coords": [
+                        110.487582,
+                        29.378193
+                  ]
+            },
+            {
+                  "name": "Rocky Natural Bridge (Celestial bridge)",
+                  "text": "Diese schmale natürliche Felsbrücke spannt sich in schwindelerregender Höhe zwischen zwei steilen Gipfeln.",
+                  "category": "natural",
+                  "coords": [
+                        110.462651,
+                        29.374813
+                  ]
+            },
+            {
+                  "name": "Grand Sightseeing Platform",
+                  "text": "Diese Aussichtsplattform bietet den besten Blick auf das „Wolkenmeer“, das oft die unteren Felstürme umhüllt.",
+                  "category": "natural",
+                  "coords": [
+                        110.457846,
+                        29.379722
+                  ]
+            },
+            {
+                  "name": "Ancient River Valley View",
+                  "text": "Dieser Ausblick zeigt ein tief eingeschnittenes, antikes Flusstal, das sich durch die bizarren Felsformationen windet.",
+                  "category": "natural",
+                  "coords": [
+                        110.456639,
+                        29.37968
+                  ]
+            },
+            {
+                  "name": "Wulingyuan",
+                  "text": "Wulingyuan ist ein UNESCO-Weltnaturerbe, das für seine über 3.000 spektakulären Quarzit-Sandsteinsäulen berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        110.495726,
+                        29.349429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cock Pecking",
+                  "text": "Egyedülálló homokkő oszlopformáció, amely figyelemre méltóan hasonlít egy óriási kakasra, amely a környező erdő lombkoronáját csipegeti.",
+                  "category": "natural",
+                  "coords": [
+                        110.459807,
+                        29.38201
+                  ]
+            },
+            {
+                  "name": "Arranging Battles Platform",
+                  "text": "A legenda szerint ezen a lapos tetejű csúcson állította fel egykor Hsziang király égi csapatait a homokkő oszlopok között.",
+                  "category": "natural",
+                  "coords": [
+                        110.481515,
+                        29.384441
+                  ]
+            },
+            {
+                  "name": "Shentang Gulf",
+                  "text": "Tornyosodó oszlopokkal körülvett, mély, tál alakú karsztvölgy, amelyet gyakran titokzatos köd és visszhangok töltenek be.",
+                  "category": "natural",
+                  "coords": [
+                        110.478465,
+                        29.386172
+                  ]
+            },
+            {
+                  "name": "Tianzi Sightseeing Platform",
+                  "text": "Elsőrangú kilátóterasz, ahonnan panorámás kilátás nyílik a „felhőtengerre” és az alatta lévő homokkő oszlopok hatalmas erdejére.",
+                  "category": "natural",
+                  "coords": [
+                        110.488592,
+                        29.383531
+                  ]
+            },
+            {
+                  "name": "Fossilized Giant Tortoise",
+                  "text": "Egy gerincen található, figyelemre méltó természetes sziklaalakzat, amely meglepő módon hasonlít egy óriási, lassan mozgó teknősre.",
+                  "category": "natural",
+                  "coords": [
+                        110.489719,
+                        29.382989
+                  ]
+            },
+            {
+                  "name": "Sandstone Peak Forest (The Warrior Training Horses)",
+                  "text": "Csipkés oszlopok csoportja, amelyek állítólag egy legendás harcost idéznek, aki égi lovait tanítja az égen.",
+                  "category": "natural",
+                  "coords": [
+                        110.490351,
+                        29.381201
+                  ]
+            },
+            {
+                  "name": "Imperial Writing Brush Peaks",
+                  "text": "Ez a három karcsú, hegyes csúcs, amely a völgy aljáról emelkedik ki, figyelemre méltóan hasonlít a hagyományos kínai kalligráfiai ecsetekhez.",
+                  "category": "natural",
+                  "coords": [
+                        110.491266,
+                        29.382289
+                  ]
+            },
+            {
+                  "name": "Stratification",
+                  "text": "Ez a földtani látványosság jól látható üledékes rétegeket mutat be a Wulingyuan-vidék kvarcit-homokkövében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491513,
+                        29.371943
+                  ]
+            },
+            {
+                  "name": "The Echo Walls",
+                  "text": "Ez a természetes sziklafal jellegzetes visszhangot kelt a nemzeti park mély szurdokában.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491345,
+                        29.373006
+                  ]
+            },
+            {
+                  "name": "Vertical joints",
+                  "text": "Ez a formáció a híres kőtornyok kialakulásához vezető jellegzetes függőleges repedéseket mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        110.492658,
+                        29.373254
+                  ]
+            },
+            {
+                  "name": "Yuntaiguan Formation",
+                  "text": "Ez a látnivaló a Yuntaiguan-formáció devon időszaki homokkőrétegeit mutatja be, amelyek a régió alapját képezik.",
+                  "category": "landmark",
+                  "coords": [
+                        110.488612,
+                        29.377552
+                  ]
+            },
+            {
+                  "name": "Heavenly Platform",
+                  "text": "Ez a magaslati fennsík széles panorámát nyújt a több ezer homokkő oszlopból álló kőerdőre.",
+                  "category": "natural",
+                  "coords": [
+                        110.487582,
+                        29.378193
+                  ]
+            },
+            {
+                  "name": "Rocky Natural Bridge (Celestial bridge)",
+                  "text": "Ez a keskeny, természetes sziklahíd szédítő magasságban feszül át két meredek csúcs között.",
+                  "category": "natural",
+                  "coords": [
+                        110.462651,
+                        29.374813
+                  ]
+            },
+            {
+                  "name": "Grand Sightseeing Platform",
+                  "text": "Ez a kilátóterasz kínálja a legjobb rálátást a „felhőtengerre”, amely gyakran körbeöleli az alsóbb kőtornyokat.",
+                  "category": "natural",
+                  "coords": [
+                        110.457846,
+                        29.379722
+                  ]
+            },
+            {
+                  "name": "Ancient River Valley View",
+                  "text": "Ez a kilátás egy mélyen bevágódott, ősi folyóvölgyet mutat be, amely a bizarr sziklaformációk között kanyarog.",
+                  "category": "natural",
+                  "coords": [
+                        110.456639,
+                        29.37968
+                  ]
+            },
+            {
+                  "name": "Wulingyuan",
+                  "text": "Wulingyuan az UNESCO Világörökség része, amely több mint 3000 látványos kvarcit-homokkő oszlopáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        110.495726,
+                        29.349429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cock Pecking",
+                  "text": "O formațiune unică de piloni de gresie care seamănă izbitor cu un cocoș uriaș care ciugulește coronamentul pădurii din jur.",
+                  "category": "natural",
+                  "coords": [
+                        110.459807,
+                        29.38201
+                  ]
+            },
+            {
+                  "name": "Arranging Battles Platform",
+                  "text": "Conform legendei, acest vârf cu vârful plat este locul unde regele Xiang și-a mobilizat odată trupele cerești printre pilonii de gresie.",
+                  "category": "natural",
+                  "coords": [
+                        110.481515,
+                        29.384441
+                  ]
+            },
+            {
+                  "name": "Shentang Gulf",
+                  "text": "O vale carstică adâncă, în formă de castron, înconjurată de piloni impunători, adesea plină de ceață misterioasă și ecouri.",
+                  "category": "natural",
+                  "coords": [
+                        110.478465,
+                        29.386172
+                  ]
+            },
+            {
+                  "name": "Tianzi Sightseeing Platform",
+                  "text": "O platformă de observare de prim rang, care oferă vederi panoramice ale „Mării de Nori” și ale vastei păduri de piloni de gresie de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        110.488592,
+                        29.383531
+                  ]
+            },
+            {
+                  "name": "Fossilized Giant Tortoise",
+                  "text": "O formațiune stâncoasă naturală remarcabilă pe o creastă, care seamănă izbitor cu o broască țestoasă uriașă, care se mișcă lent.",
+                  "category": "natural",
+                  "coords": [
+                        110.489719,
+                        29.382989
+                  ]
+            },
+            {
+                  "name": "Sandstone Peak Forest (The Warrior Training Horses)",
+                  "text": "Un grup de piloni zimțați despre care se spune că seamănă cu un războinic legendar care își antrenează caii cerești pe cer.",
+                  "category": "natural",
+                  "coords": [
+                        110.490351,
+                        29.381201
+                  ]
+            },
+            {
+                  "name": "Imperial Writing Brush Peaks",
+                  "text": "Aceste trei vârfuri subțiri și ascuțite care se ridică de pe fundul văii seamănă izbitor cu pensulele tradiționale de caligrafie chinezească.",
+                  "category": "natural",
+                  "coords": [
+                        110.491266,
+                        29.382289
+                  ]
+            },
+            {
+                  "name": "Stratification",
+                  "text": "Această atracție geologică prezintă straturi sedimentare clar vizibile în gresia cuarțoasă din Wulingyuan.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491513,
+                        29.371943
+                  ]
+            },
+            {
+                  "name": "The Echo Walls",
+                  "text": "Acest perete stâncos natural creează un ecou distinct în defileul adânc al parcului natural.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491345,
+                        29.373006
+                  ]
+            },
+            {
+                  "name": "Vertical joints",
+                  "text": "Această formațiune prezintă fisurile verticale caracteristice care au dus la formarea faimoaselor turnuri de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        110.492658,
+                        29.373254
+                  ]
+            },
+            {
+                  "name": "Yuntaiguan Formation",
+                  "text": "Această atracție prezintă straturile de gresie devoniană ale formațiunii Yuntaiguan, care constituie fundamentul regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        110.488612,
+                        29.377552
+                  ]
+            },
+            {
+                  "name": "Heavenly Platform",
+                  "text": "Acest platou înalt oferă o panoramă vastă asupra pădurii formate din mii de piloni de gresie.",
+                  "category": "natural",
+                  "coords": [
+                        110.487582,
+                        29.378193
+                  ]
+            },
+            {
+                  "name": "Rocky Natural Bridge (Celestial bridge)",
+                  "text": "Această punte naturală îngustă de stâncă se întinde la o înălțime amețitoare între două vârfuri abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        110.462651,
+                        29.374813
+                  ]
+            },
+            {
+                  "name": "Grand Sightseeing Platform",
+                  "text": "Această platformă de observare oferă cea mai bună vedere asupra „mării de nori” care învăluie adesea turnurile de piatră inferioare.",
+                  "category": "natural",
+                  "coords": [
+                        110.457846,
+                        29.379722
+                  ]
+            },
+            {
+                  "name": "Ancient River Valley View",
+                  "text": "Această perspectivă dezvăluie o vale fluvială antică adâncă, ce șerpuiește printre formațiunile stâncoase bizare.",
+                  "category": "natural",
+                  "coords": [
+                        110.456639,
+                        29.37968
+                  ]
+            },
+            {
+                  "name": "Wulingyuan",
+                  "text": "Wulingyuan este un sit din patrimoniul mondial UNESCO, faimos pentru cei peste 3.000 de piloni spectaculoși de gresie cuarțoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        110.495726,
+                        29.349429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cock Pecking",
+                  "text": "A unique sandstone pillar formation that remarkably resembles a giant rooster pecking at the surrounding forest canopy.",
+                  "category": "natural",
+                  "coords": [
+                        110.459807,
+                        29.38201
+                  ]
+            },
+            {
+                  "name": "Arranging Battles Platform",
+                  "text": "According to legend, this flat-topped peak is where King Xiang once marshaled his celestial troops amidst the sandstone pillars.",
+                  "category": "natural",
+                  "coords": [
+                        110.481515,
+                        29.384441
+                  ]
+            },
+            {
+                  "name": "Shentang Gulf",
+                  "text": "A deep, bowl-shaped karst valley surrounded by towering pillars, often filled with mysterious mists and echoes.",
+                  "category": "natural",
+                  "coords": [
+                        110.478465,
+                        29.386172
+                  ]
+            },
+            {
+                  "name": "Tianzi Sightseeing Platform",
+                  "text": "A premier observation deck providing panoramic vistas of the \"Sea of Clouds\" and the vast forest of sandstone pillars below.",
+                  "category": "natural",
+                  "coords": [
+                        110.488592,
+                        29.383531
+                  ]
+            },
+            {
+                  "name": "Fossilized Giant Tortoise",
+                  "text": "A remarkable natural rock formation on a ridge that bears a striking resemblance to a giant, slow-moving tortoise.",
+                  "category": "natural",
+                  "coords": [
+                        110.489719,
+                        29.382989
+                  ]
+            },
+            {
+                  "name": "Sandstone Peak Forest (The Warrior Training Horses)",
+                  "text": "A cluster of jagged pillars said to resemble a legendary warrior training his celestial horses in the sky.",
+                  "category": "natural",
+                  "coords": [
+                        110.490351,
+                        29.381201
+                  ]
+            },
+            {
+                  "name": "Imperial Writing Brush Peaks",
+                  "text": "These three slender, pointed peaks rising from the valley floor bear a remarkable resemblance to traditional Chinese calligraphy brushes.",
+                  "category": "natural",
+                  "coords": [
+                        110.491266,
+                        29.382289
+                  ]
+            },
+            {
+                  "name": "Stratification",
+                  "text": "This geological attraction displays clearly visible sedimentary layers in the quartzite sandstone of Wulingyuan.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491513,
+                        29.371943
+                  ]
+            },
+            {
+                  "name": "The Echo Walls",
+                  "text": "This natural cliff face produces a distinct echo within the deep gorge of the nature park.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491345,
+                        29.373006
+                  ]
+            },
+            {
+                  "name": "Vertical joints",
+                  "text": "This formation showcases the characteristic vertical joints that led to the creation of the area's famous stone pillars.",
+                  "category": "landmark",
+                  "coords": [
+                        110.492658,
+                        29.373254
+                  ]
+            },
+            {
+                  "name": "Yuntaiguan Formation",
+                  "text": "This attraction presents the Devonian sandstone layers of the Yuntaiguan Formation, which form the region's foundation.",
+                  "category": "landmark",
+                  "coords": [
+                        110.488612,
+                        29.377552
+                  ]
+            },
+            {
+                  "name": "Heavenly Platform",
+                  "text": "This high plateau offers a vast panorama over the forest of thousands of sandstone pillars.",
+                  "category": "natural",
+                  "coords": [
+                        110.487582,
+                        29.378193
+                  ]
+            },
+            {
+                  "name": "Rocky Natural Bridge (Celestial bridge)",
+                  "text": "This narrow natural rock bridge spans a dizzying height between two steep mountain peaks.",
+                  "category": "natural",
+                  "coords": [
+                        110.462651,
+                        29.374813
+                  ]
+            },
+            {
+                  "name": "Grand Sightseeing Platform",
+                  "text": "This observation platform provides the best view of the 'sea of clouds' that often envelops the lower stone pillars.",
+                  "category": "natural",
+                  "coords": [
+                        110.457846,
+                        29.379722
+                  ]
+            },
+            {
+                  "name": "Ancient River Valley View",
+                  "text": "This viewpoint overlooks a deeply carved ancient river valley winding through the bizarre rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        110.456639,
+                        29.37968
+                  ]
+            },
+            {
+                  "name": "Wulingyuan",
+                  "text": "Wulingyuan is a UNESCO World Heritage site famous for its more than 3,000 spectacular quartzite sandstone pillars.",
+                  "category": "landmark",
+                  "coords": [
+                        110.495726,
+                        29.349429
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "CN-HN",
     coords: [110.50, 29.35],
@@ -675,7 +4752,88 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "k2-mountain-nature-v2",
+    id: "k2-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skil Brum",
+                  "text": "Dieser markante Gipfel im Baltoro Muztagh erreicht eine Höhe von 7.360 Metern und liegt unweit des K2.",
+                  "category": "natural",
+                  "coords": [
+                        76.427028,
+                        35.852521
+                  ]
+            },
+            {
+                  "name": "Skyang Kangri",
+                  "text": "Dieser 7.545 Meter hohe Berg wird oft als 'Treppen-Gipfel' bezeichnet und liegt direkt an der Grenze zwischen Pakistan und China.",
+                  "category": "natural",
+                  "coords": [
+                        76.564506,
+                        35.924082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skil Brum",
+                  "text": "Ez a Baltoro Muztagh hegységben található jellegzetes csúcs 7360 méter magas, és a K2 közelében fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        76.427028,
+                        35.852521
+                  ]
+            },
+            {
+                  "name": "Skyang Kangri",
+                  "text": "Ezt a 7545 méter magas hegyet gyakran 'Lépcsős-csúcsnak' nevezik, és közvetlenül a pakisztáni-kínai határon fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        76.564506,
+                        35.924082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skil Brum",
+                  "text": "Acest vârf proeminent din Baltoro Muztagh atinge o înălțime de 7.360 de metri și este situat nu departe de K2.",
+                  "category": "natural",
+                  "coords": [
+                        76.427028,
+                        35.852521
+                  ]
+            },
+            {
+                  "name": "Skyang Kangri",
+                  "text": "Acest munte înalt de 7.545 de metri este adesea numit „Vârful Scărilor” și se află chiar la granița dintre Pakistan și China.",
+                  "category": "natural",
+                  "coords": [
+                        76.564506,
+                        35.924082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skil Brum",
+                  "text": "This prominent peak in the Baltoro Muztagh reaches an elevation of 7,360 meters and lies near K2.",
+                  "category": "natural",
+                  "coords": [
+                        76.427028,
+                        35.852521
+                  ]
+            },
+            {
+                  "name": "Skyang Kangri",
+                  "text": "This 7,545-meter mountain is often called the 'Staircase Peak' and sits directly on the Pakistan-China border.",
+                  "category": "natural",
+                  "coords": [
+                        76.564506,
+                        35.924082
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CN-XJ",
     coords: [76.51, 35.88],
@@ -723,7 +4881,124 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "tiger-leaping-gorge-nature-v2",
+    id: "tiger-leaping-gorge-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tiger Leaping Gorge",
+                  "text": "Die Tigersprung-Schlucht ist einer der tiefsten Canyons der Welt, wo der Jinsha-Fluss zwischen 5.000 Meter hohen Gipfeln tobt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.164276,
+                        27.255488
+                  ]
+            },
+            {
+                  "name": "Ladder",
+                  "text": "Diese steilen Leitern an den Felswänden der Schlucht bieten Wanderern einen abenteuerlichen Aufstieg mit spektakulärer Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        100.163105,
+                        27.256431
+                  ]
+            },
+            {
+                  "name": "Flag viewpoint",
+                  "text": "Vom Flag-Aussichtspunkt hat man einen dramatischen Blick auf den donnernden Jinsha-Fluss tief unten in der Schlucht.",
+                  "category": "natural",
+                  "coords": [
+                        100.143345,
+                        27.234676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tiger Leaping Gorge",
+                  "text": "A Tigris-ugró-szurdok a világ egyik legmélyebb kanyonja, ahol a Jinsa-folyó 5000 méteres csúcsok között zúdul át.",
+                  "category": "landmark",
+                  "coords": [
+                        100.164276,
+                        27.255488
+                  ]
+            },
+            {
+                  "name": "Ladder",
+                  "text": "A szurdok sziklafalain található meredek létrák kalandos feljutást kínálnak a túrázóknak, látványos kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        100.163105,
+                        27.256431
+                  ]
+            },
+            {
+                  "name": "Flag viewpoint",
+                  "text": "A Flag-kilátópontról drámai kilátás nyílik a mélyben dübörgő Jinsa-folyóra a szurdok belsejében.",
+                  "category": "natural",
+                  "coords": [
+                        100.143345,
+                        27.234676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tiger Leaping Gorge",
+                  "text": "Defileul Saltului Tigrului este unul dintre cele mai adânci canioane din lume, unde râul Jinsha curge printre vârfuri de 5.000 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        100.164276,
+                        27.255488
+                  ]
+            },
+            {
+                  "name": "Ladder",
+                  "text": "Aceste scări abrupte de pe pereții stâncoși ai defileului oferă drumeților o urcare aventuroasă cu vederi spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        100.163105,
+                        27.256431
+                  ]
+            },
+            {
+                  "name": "Flag viewpoint",
+                  "text": "Punctul de belvedere Flag oferă o vedere dramatică asupra râului Jinsha care tună adânc în defileu.",
+                  "category": "natural",
+                  "coords": [
+                        100.143345,
+                        27.234676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tiger Leaping Gorge",
+                  "text": "Tiger Leaping Gorge is one of the world's deepest canyons, where the Jinsha River roars between 5,000-meter peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        100.164276,
+                        27.255488
+                  ]
+            },
+            {
+                  "name": "Ladder",
+                  "text": "These steep ladders on the gorge's rock walls offer hikers an adventurous climb with spectacular views.",
+                  "category": "landmark",
+                  "coords": [
+                        100.163105,
+                        27.256431
+                  ]
+            },
+            {
+                  "name": "Flag viewpoint",
+                  "text": "The Flag viewpoint offers a dramatic look at the thundering Jinsha River deep below in the gorge.",
+                  "category": "natural",
+                  "coords": [
+                        100.143345,
+                        27.234676
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CN-YN",
     coords: [100.12, 27.22],
@@ -819,7 +5094,196 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "lugu-lake-nature-v2",
+    id: "lugu-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goddess Bay",
+                  "text": "Die Bucht der Göttin am Lugu-See bietet malerische Ausblicke auf das klare blaue Wasser und die umliegenden Mosuo-Dörfer.",
+                  "category": "landmark",
+                  "coords": [
+                        100.804691,
+                        27.703884
+                  ]
+            },
+            {
+                  "name": "Goddess Cave",
+                  "text": "Diese heilige natürliche Höhle an den Hängen des Gemu-Berges ist tief in der Mythologie der Mosuo-Kultur verwurzelt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.749655,
+                        27.753893
+                  ]
+            },
+            {
+                  "name": "Mosuo Museum",
+                  "text": "Dieses Museum am Lugu-See ist der einzigartigen matrilinealen Kultur und den Traditionen des Mosuo-Volkes gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        100.856337,
+                        27.712154
+                  ]
+            },
+            {
+                  "name": "Palace of the Last Princess",
+                  "text": "Der Palast zeigt die Residenz der letzten Mosuo-Prinzessin und bewahrt die Geschichte des lokalen Häuptlingssystems.",
+                  "category": "museum",
+                  "coords": [
+                        100.869445,
+                        27.723583
+                  ]
+            },
+            {
+                  "name": "Rizun Temple",
+                  "text": "Der Rizun-Tempel ist ein ruhiges tibetisches Kloster auf der Insel Liwubi im Lugu-See, das nur per Boot erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.76279,
+                        27.676496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goddess Bay",
+                  "text": "A Lugu-tónál található Istennő-öböl festői kilátást nyújt a tiszta kék vízre és a környező mosuo falvakra.",
+                  "category": "landmark",
+                  "coords": [
+                        100.804691,
+                        27.703884
+                  ]
+            },
+            {
+                  "name": "Goddess Cave",
+                  "text": "Ez a szent természetes barlang a Gemu-hegy oldalában mélyen gyökerezik a mosuo kultúra mitológiájában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.749655,
+                        27.753893
+                  ]
+            },
+            {
+                  "name": "Mosuo Museum",
+                  "text": "Ez a Lugu-tónál található múzeum a mosuo nép egyedülálló anyajogú kultúrájának és hagyományainak szentelt hely.",
+                  "category": "museum",
+                  "coords": [
+                        100.856337,
+                        27.712154
+                  ]
+            },
+            {
+                  "name": "Palace of the Last Princess",
+                  "text": "A palota az utolsó mosuo hercegnő lakhelyét mutatja be, megőrizve a helyi törzsfőnöki rendszer történetét.",
+                  "category": "museum",
+                  "coords": [
+                        100.869445,
+                        27.723583
+                  ]
+            },
+            {
+                  "name": "Rizun Temple",
+                  "text": "A Rizun-templom egy békés tibeti kolostor a Lugu-tó Liwubi-szigetén, amely csak csónakkal közelíthető meg.",
+                  "category": "landmark",
+                  "coords": [
+                        100.76279,
+                        27.676496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goddess Bay",
+                  "text": "Golful Zeiței de pe lacul Lugu oferă vederi pitorești asupra apelor albastre clare și a satelor Mosuo din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        100.804691,
+                        27.703884
+                  ]
+            },
+            {
+                  "name": "Goddess Cave",
+                  "text": "Această peșteră naturală sacră de pe versanții muntelui Gemu este profund înrădăcinată în mitologia culturii Mosuo.",
+                  "category": "landmark",
+                  "coords": [
+                        100.749655,
+                        27.753893
+                  ]
+            },
+            {
+                  "name": "Mosuo Museum",
+                  "text": "Acest muzeu de pe lacul Lugu este dedicat culturii matrilineale unice și tradițiilor poporului Mosuo.",
+                  "category": "museum",
+                  "coords": [
+                        100.856337,
+                        27.712154
+                  ]
+            },
+            {
+                  "name": "Palace of the Last Princess",
+                  "text": "Palatul prezintă reședința ultimei prințese Mosuo, păstrând istoria sistemului de căpetenii locale.",
+                  "category": "museum",
+                  "coords": [
+                        100.869445,
+                        27.723583
+                  ]
+            },
+            {
+                  "name": "Rizun Temple",
+                  "text": "Templul Rizun este o mănăstire tibetană liniștită situată pe insula Liwubi din lacul Lugu, accesibilă doar cu barca.",
+                  "category": "landmark",
+                  "coords": [
+                        100.76279,
+                        27.676496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goddess Bay",
+                  "text": "Goddess Bay on Lugu Lake offers scenic views of the clear blue water and the surrounding Mosuo villages.",
+                  "category": "landmark",
+                  "coords": [
+                        100.804691,
+                        27.703884
+                  ]
+            },
+            {
+                  "name": "Goddess Cave",
+                  "text": "This sacred natural cave on the slopes of Gemu Mountain is deeply rooted in the mythology of the Mosuo culture.",
+                  "category": "landmark",
+                  "coords": [
+                        100.749655,
+                        27.753893
+                  ]
+            },
+            {
+                  "name": "Mosuo Museum",
+                  "text": "This museum at Lugu Lake is dedicated to the unique matrilineal culture and traditions of the Mosuo people.",
+                  "category": "museum",
+                  "coords": [
+                        100.856337,
+                        27.712154
+                  ]
+            },
+            {
+                  "name": "Palace of the Last Princess",
+                  "text": "The palace showcases the residence of the last Mosuo princess, preserving the history of the local chieftain system.",
+                  "category": "museum",
+                  "coords": [
+                        100.869445,
+                        27.723583
+                  ]
+            },
+            {
+                  "name": "Rizun Temple",
+                  "text": "Rizun Temple is a serene Tibetan monastery on Liwubi Island in Lugu Lake, accessible only by boat.",
+                  "category": "landmark",
+                  "coords": [
+                        100.76279,
+                        27.676496
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CN-YN",
     coords: [100.78, 27.71],
@@ -867,7 +5331,268 @@ export const poiExtraChinaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-hua-nature-v2",
+    id: "mount-hua-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chess Pavilion",
+                  "text": "Dieser Pavillon auf einem schmalen Grat ist der Ort, an dem ein Kaiser der Legende nach eine Schachpartie verlor.",
+                  "category": "natural",
+                  "coords": [
+                        110.083309,
+                        34.478329
+                  ]
+            },
+            {
+                  "name": "Mount Hua South Peak",
+                  "text": "Mit 2154 Metern ist dies der höchste Gipfel des Hua Shan und bietet einen weiten Blick über das Qinling-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        110.078073,
+                        34.477762
+                  ]
+            },
+            {
+                  "name": "South Heavenly Gate",
+                  "text": "Dieses steile Steintor ist ein wichtiger Durchgangspunkt auf dem gefährlichen Pfad zum Südgipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        110.080135,
+                        34.477338
+                  ]
+            },
+            {
+                  "name": "Golden Lock Gate",
+                  "text": "Pilger hinterlassen an diesem Tor tausende goldene Schlösser als Symbole für Glück und ewige Liebe.",
+                  "category": "landmark",
+                  "coords": [
+                        110.081266,
+                        34.482968
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Dieses Denkmal markiert eine markante Stelle auf dem Bergpfad und dient Wanderern als Orientierungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.076944,
+                        34.48234
+                  ]
+            },
+            {
+                  "name": "Jade Spring Temple",
+                  "text": "Dieser taoistische Tempelkomplex am Fuße des Berges ist berühmt für seine kunstvollen Gärten und Quellen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.077018,
+                        34.526308
+                  ]
+            },
+            {
+                  "name": "Qunxian Temple",
+                  "text": "Dieser abgeschiedene taoistische Tempel schmiegt sich an die steilen Klippen und dient als Rückzugsort für Mönche.",
+                  "category": "landmark",
+                  "coords": [
+                        110.079757,
+                        34.492524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chess Pavilion",
+                  "text": "Ez a keskeny szirtre épült pavilon az a hely, ahol a legenda szerint egy császár elveszített egy sakkpartit.",
+                  "category": "natural",
+                  "coords": [
+                        110.083309,
+                        34.478329
+                  ]
+            },
+            {
+                  "name": "Mount Hua South Peak",
+                  "text": "A 2154 méteres magasságával ez a Hua-san legmagasabb csúcsa, széles kilátást nyújtva a Csinling-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        110.078073,
+                        34.477762
+                  ]
+            },
+            {
+                  "name": "South Heavenly Gate",
+                  "text": "Ez a meredek kőkapu fontos áthaladási pont a déli csúcsra vezető veszélyes ösvényen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.080135,
+                        34.477338
+                  ]
+            },
+            {
+                  "name": "Golden Lock Gate",
+                  "text": "A zarándokok több ezer arany lakatot hagynak ennél a kapunál a szerencse és az örök szerelem szimbólumaként.",
+                  "category": "landmark",
+                  "coords": [
+                        110.081266,
+                        34.482968
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Ez az emlékmű a hegyi ösvény egy jellegzetes pontját jelöli, és tájékozódási pontként szolgál a túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        110.076944,
+                        34.48234
+                  ]
+            },
+            {
+                  "name": "Jade Spring Temple",
+                  "text": "Ez a hegy lábánál fekvő taoista templomkomplexum díszes kertjeiről és forrásairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        110.077018,
+                        34.526308
+                  ]
+            },
+            {
+                  "name": "Qunxian Temple",
+                  "text": "Ez az elszigetelt taoista templom a meredek sziklákhoz simul, és a szerzetesek visszavonulási helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        110.079757,
+                        34.492524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chess Pavilion",
+                  "text": "Acest pavilion situat pe o creastă îngustă este locul unde, conform legendei, un împărat a pierdut o partidă de șah.",
+                  "category": "natural",
+                  "coords": [
+                        110.083309,
+                        34.478329
+                  ]
+            },
+            {
+                  "name": "Mount Hua South Peak",
+                  "text": "Cu o înălțime de 2154 de metri, acesta este cel mai înalt vârf al Muntelui Hua, oferind o vedere panoramică asupra munților Qinling.",
+                  "category": "natural",
+                  "coords": [
+                        110.078073,
+                        34.477762
+                  ]
+            },
+            {
+                  "name": "South Heavenly Gate",
+                  "text": "Această poartă de piatră abruptă este un punct important de trecere pe poteca periculoasă către vârful sudic.",
+                  "category": "landmark",
+                  "coords": [
+                        110.080135,
+                        34.477338
+                  ]
+            },
+            {
+                  "name": "Golden Lock Gate",
+                  "text": "Pelerinii lasă mii de lacăte aurii la această poartă ca simboluri ale norocului și iubirii eterne.",
+                  "category": "landmark",
+                  "coords": [
+                        110.081266,
+                        34.482968
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Acest monument marchează un punct distinctiv pe poteca montană și servește drept reper pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        110.076944,
+                        34.48234
+                  ]
+            },
+            {
+                  "name": "Jade Spring Temple",
+                  "text": "Acest complex de temple taoiste de la poalele muntelui este faimos pentru grădinile și izvoarele sale elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        110.077018,
+                        34.526308
+                  ]
+            },
+            {
+                  "name": "Qunxian Temple",
+                  "text": "Acest templu taoist izolat este lipit de stâncile abrupte și servește drept loc de retragere pentru călugări.",
+                  "category": "landmark",
+                  "coords": [
+                        110.079757,
+                        34.492524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chess Pavilion",
+                  "text": "This pavilion on a narrow ridge is where legend says an emperor lost a chess match.",
+                  "category": "natural",
+                  "coords": [
+                        110.083309,
+                        34.478329
+                  ]
+            },
+            {
+                  "name": "Mount Hua South Peak",
+                  "text": "At 2154 meters, this is the highest peak of Mount Hua, offering a sweeping view over the Qinling Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        110.078073,
+                        34.477762
+                  ]
+            },
+            {
+                  "name": "South Heavenly Gate",
+                  "text": "This steep stone gate is a key passage point on the dangerous path to the South Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        110.080135,
+                        34.477338
+                  ]
+            },
+            {
+                  "name": "Golden Lock Gate",
+                  "text": "Pilgrims leave thousands of golden locks at this gate as symbols of good fortune and eternal love.",
+                  "category": "landmark",
+                  "coords": [
+                        110.081266,
+                        34.482968
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "This monument marks a distinctive spot on the mountain path and serves as a landmark for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        110.076944,
+                        34.48234
+                  ]
+            },
+            {
+                  "name": "Jade Spring Temple",
+                  "text": "This Taoist temple complex at the foot of the mountain is famous for its elaborate gardens and springs.",
+                  "category": "landmark",
+                  "coords": [
+                        110.077018,
+                        34.526308
+                  ]
+            },
+            {
+                  "name": "Qunxian Temple",
+                  "text": "This secluded Taoist temple nestles against the steep cliffs and serves as a retreat for monks.",
+                  "category": "landmark",
+                  "coords": [
+                        110.079757,
+                        34.492524
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CN-SN",
     coords: [110.09, 34.49],

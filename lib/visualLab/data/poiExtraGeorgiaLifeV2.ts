@@ -39,7 +39,232 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-vashlovani-national-park-life-v2",
+    id: "ge-vashlovani-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "რკინის სადნობი სახელოსნო",
+                  "text": "Archäologische Überreste einer antiken Werkstatt zur Eisenverhüttung mitten im Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        46.418057,
+                        41.157603
+                  ]
+            },
+            {
+                  "name": "ხორანთის ნაქალაქარი",
+                  "text": "Die Ruinen der historischen Stadt Khoranti, die Zeugnis von der antiken Besiedlung der Region ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        46.447132,
+                        41.150987
+                  ]
+            },
+            {
+                  "name": "ბუღა მოედანი",
+                  "text": "Ein Panoramapunkt auf einer Hochebene, der weite Ausblicke über die Savannenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        46.538012,
+                        41.124307
+                  ]
+            },
+            {
+                  "name": "ექოს გადასახედი",
+                  "text": "Ein spezieller Aussichtspunkt, der für seine akustischen Phänomene und die Sicht auf die Schluchten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        46.514568,
+                        41.179529
+                  ]
+            },
+            {
+                  "name": "Waschlowani-Nationalpark",
+                  "text": "Ein Schutzgebiet mit einzigartigem semiaridem Klima, Savannen und bizarren geologischen Formationen.",
+                  "category": "natural",
+                  "coords": [
+                        46.559847,
+                        41.199755
+                  ]
+            },
+            {
+                  "name": "Waschlowani-Naturreservat",
+                  "text": "Ein seit 1957 bestehendes strenges Naturschutzgebiet zum Erhalt der seltenen Pistazien- und Wacholderwälder.",
+                  "category": "natural",
+                  "coords": [
+                        46.477742,
+                        41.184608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "რკინის სადნობი სახელოსნო",
+                  "text": "Egy ősi vasolvasztó műhely régészeti maradványai a nemzeti park területén.",
+                  "category": "historical",
+                  "coords": [
+                        46.418057,
+                        41.157603
+                  ]
+            },
+            {
+                  "name": "ხორანთის ნაქალაქარი",
+                  "text": "Horanti történelmi városának romjai, amelyek a régió ősi benépesüléséről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        46.447132,
+                        41.150987
+                  ]
+            },
+            {
+                  "name": "ბუღა მოედანი",
+                  "text": "Panorámás kilátóhely egy fennsíkon, ahonnan belátni az egész szavannaszerű tájat.",
+                  "category": "natural",
+                  "coords": [
+                        46.538012,
+                        41.124307
+                  ]
+            },
+            {
+                  "name": "ექოს გადასახედი",
+                  "text": "Különleges kilátóhely, amely akusztikai jelenségeiről és a szurdokokra nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        46.514568,
+                        41.179529
+                  ]
+            },
+            {
+                  "name": "ვაშლოვანის ეროვნული პარკი",
+                  "text": "Egyedülálló félsivatagi éghajlatú védett terület savannákkal és bizarr geológiai képződményekkel.",
+                  "category": "natural",
+                  "coords": [
+                        46.559847,
+                        41.199755
+                  ]
+            },
+            {
+                  "name": "ვაშლოვანის სახელმწიფო ნაკრძალი",
+                  "text": "1957-ben alapított szigorúan védett terület a ritka pisztácia- és borókaerdők megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        46.477742,
+                        41.184608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "რკინის სადნობი სახელოსნო",
+                  "text": "Rămășițe arheologice ale unui vechi atelier de topire a fierului, în inima parcului național.",
+                  "category": "historical",
+                  "coords": [
+                        46.418057,
+                        41.157603
+                  ]
+            },
+            {
+                  "name": "ხორანთის ნაქალაქარი",
+                  "text": "Ruinele orașului istoric Khoranti, care atestă popularea antică a acestei regiuni.",
+                  "category": "historical",
+                  "coords": [
+                        46.447132,
+                        41.150987
+                  ]
+            },
+            {
+                  "name": "ბუღა მოედანი",
+                  "text": "Un punct panoramic pe un platou înalt, oferind vederi largi asupra peisajului de savană.",
+                  "category": "natural",
+                  "coords": [
+                        46.538012,
+                        41.124307
+                  ]
+            },
+            {
+                  "name": "ექოს გადასახედი",
+                  "text": "Un punct de observație special, cunoscut pentru fenomenele sale acustice și vederea spre canioane.",
+                  "category": "natural",
+                  "coords": [
+                        46.514568,
+                        41.179529
+                  ]
+            },
+            {
+                  "name": "ვაშლოვანის ეროვნული პარკი",
+                  "text": "O arie protejată cu climat semiarid unic, savane și formațiuni geologice bizare.",
+                  "category": "natural",
+                  "coords": [
+                        46.559847,
+                        41.199755
+                  ]
+            },
+            {
+                  "name": "ვაშლოვანის სახელმწიფო ნაკრძალი",
+                  "text": "O rezervație naturală strictă înființată în 1957 pentru conservarea pădurilor rare de fistic și ienupăr.",
+                  "category": "natural",
+                  "coords": [
+                        46.477742,
+                        41.184608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "რკინის სადნობი სახელოსნო",
+                  "text": "Archaeological remains of an ancient iron-smelting workshop located within the national park.",
+                  "category": "historical",
+                  "coords": [
+                        46.418057,
+                        41.157603
+                  ]
+            },
+            {
+                  "name": "ხორანთის ნაქალაქარი",
+                  "text": "The ruins of the historical city of Khoranti, testifying to the ancient settlement of the region.",
+                  "category": "historical",
+                  "coords": [
+                        46.447132,
+                        41.150987
+                  ]
+            },
+            {
+                  "name": "Bugha Moedani",
+                  "text": "A panoramic viewpoint on a high plateau offering vast views over the savanna-like landscape.",
+                  "category": "natural",
+                  "coords": [
+                        46.538012,
+                        41.124307
+                  ]
+            },
+            {
+                  "name": "ექოს გადასახედი",
+                  "text": "A special viewpoint known for its acoustic phenomena and the view overlooking the canyons.",
+                  "category": "natural",
+                  "coords": [
+                        46.514568,
+                        41.179529
+                  ]
+            },
+            {
+                  "name": "Vashlovani National Park",
+                  "text": "A protected area with a unique semi-arid climate, featuring savannas and bizarre geological formations.",
+                  "category": "natural",
+                  "coords": [
+                        46.559847,
+                        41.199755
+                  ]
+            },
+            {
+                  "name": "Vashlovani Strict Nature Reserve",
+                  "text": "A strict nature reserve established in 1957 to preserve rare pistachio and juniper forests.",
+                  "category": "natural",
+                  "coords": [
+                        46.477742,
+                        41.184608
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "GE-KA",
     coords: [46.4678, 41.1969],
@@ -75,7 +300,268 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-lagodekhi-reserve-life-v2",
+    id: "ge-lagodekhi-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ზემო მსხალგორის ნამოსახლარი",
+                  "text": "Ruinen einer alten Siedlung im oberen Mskhalgori-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        46.188956,
+                        41.874675
+                  ]
+            },
+            {
+                  "name": "მართოთის ტბისკენ ს.უზუნთალან მაღალი გამავლობის სამანქანე გზის დასასრული(ტბამდე დარჩენილია 8 კმ.)",
+                  "text": "Ein abgelegener Bergpfad, der zum Martoti-See führt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.214145,
+                        41.920706
+                  ]
+            },
+            {
+                  "name": "ალაზნის ველის გადმოსახედი",
+                  "text": "Aussichtspunkt mit Panoramablick über das weite Alazani-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        46.380671,
+                        41.872523
+                  ]
+            },
+            {
+                  "name": "დაღესტნის გადმოსახედი",
+                  "text": "Hochgelegener Aussichtspunkt mit Blick auf die Grenze zu Dagestan.",
+                  "category": "natural",
+                  "coords": [
+                        46.386614,
+                        41.873101
+                  ]
+            },
+            {
+                  "name": "Lagodechi-Schutzgebiete",
+                  "text": "Das 1912 gegründete älteste Naturschutzgebiet Georgiens ist bekannt für seine Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        46.297541,
+                        41.897836
+                  ]
+            },
+            {
+                  "name": "ზემო მსხალგორის სამონასტრო კომპლექსი",
+                  "text": "Christliche Klosterruinen in den bewaldeten Bergen des Reservats.",
+                  "category": "landmark",
+                  "coords": [
+                        46.194714,
+                        41.882915
+                  ]
+            },
+            {
+                  "name": "Catholic church",
+                  "text": "Kleine katholische Gebetsstätte in der Region Lagodechi.",
+                  "category": "landmark",
+                  "coords": [
+                        46.231559,
+                        41.860729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ზემო მსხალგორის ნამოსახლარი",
+                  "text": "Egy ősi település romjai a felső-Mskhalgori területen.",
+                  "category": "historical",
+                  "coords": [
+                        46.188956,
+                        41.874675
+                  ]
+            },
+            {
+                  "name": "მართოთის ტბისკენ ს.უზუნთალან მაღალი გამავლობის სამანქანე გზის დასასრული(ტბამდე დარჩენილია 8 კმ.)",
+                  "text": "Egy távoli hegyi ösvény kezdete, amely a Martoti-tóhoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        46.214145,
+                        41.920706
+                  ]
+            },
+            {
+                  "name": "ალაზნის ველის გადმოსახედი",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik az Alazani-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        46.380671,
+                        41.872523
+                  ]
+            },
+            {
+                  "name": "დაღესტნის გადმოსახედი",
+                  "text": "Magaslati kilátópont, amelyről belátható a dagesztáni határvidék.",
+                  "category": "natural",
+                  "coords": [
+                        46.386614,
+                        41.873101
+                  ]
+            },
+            {
+                  "name": "ლაგოდეხის დაცული ტერიტორიები",
+                  "text": "Grúzia legrégebbi, 1912-ben alapított természetvédelmi területe, amely vízeséseiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        46.297541,
+                        41.897836
+                  ]
+            },
+            {
+                  "name": "ზემო მსხალგორის სამონასტრო კომპლექსი",
+                  "text": "Keresztény kolostorromok a rezervátum erdős hegyei között.",
+                  "category": "landmark",
+                  "coords": [
+                        46.194714,
+                        41.882915
+                  ]
+            },
+            {
+                  "name": "Catholic church",
+                  "text": "Kis katolikus templom a Lagodechi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        46.231559,
+                        41.860729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ზემო მსხალგორის ნამოსახლარი",
+                  "text": "Ruinele unei așezări antice în zona Zemo Mskhalgori.",
+                  "category": "historical",
+                  "coords": [
+                        46.188956,
+                        41.874675
+                  ]
+            },
+            {
+                  "name": "მართოთის ტბისკენ ს.უზუნთალან მაღალი გამავლობის სამანქანე გზის დასასრული(ტბამდე დარჩენილია 8 კმ.)",
+                  "text": "Un punct de acces montan izolat care duce spre lacul Martoti.",
+                  "category": "landmark",
+                  "coords": [
+                        46.214145,
+                        41.920706
+                  ]
+            },
+            {
+                  "name": "ალაზნის ველის გადმოსახედი",
+                  "text": "Punct de observație ce oferă o vedere panoramică asupra văii Alazani.",
+                  "category": "natural",
+                  "coords": [
+                        46.380671,
+                        41.872523
+                  ]
+            },
+            {
+                  "name": "დაღესტნის გადმოსახედი",
+                  "text": "Punct de belvedere situat la altitudine, orientat spre granița cu Daghestan.",
+                  "category": "natural",
+                  "coords": [
+                        46.386614,
+                        41.873101
+                  ]
+            },
+            {
+                  "name": "ლაგოდეხის დაცული ტერიტორიები",
+                  "text": "Cel mai vechi rezervat natural din Georgia, fondat în 1912, faimos pentru cascadele sale.",
+                  "category": "natural",
+                  "coords": [
+                        46.297541,
+                        41.897836
+                  ]
+            },
+            {
+                  "name": "ზემო მსხალგორის სამონასტრო კომპლექსი",
+                  "text": "Ruinele unui complex monahal creștin situate în munții împăduriți.",
+                  "category": "landmark",
+                  "coords": [
+                        46.194714,
+                        41.882915
+                  ]
+            },
+            {
+                  "name": "Catholic church",
+                  "text": "Un mic lăcaș de cult catolic situat în regiunea Lagodekhi.",
+                  "category": "landmark",
+                  "coords": [
+                        46.231559,
+                        41.860729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ზემო მსხალგორის ნამოსახლარი",
+                  "text": "Ruins of an ancient settlement in the upper Mskhalgori area.",
+                  "category": "historical",
+                  "coords": [
+                        46.188956,
+                        41.874675
+                  ]
+            },
+            {
+                  "name": "მართოთის ტბისკენ ს.უზუნთალან მაღალი გამავლობის სამანქანე გზის დასასრული(ტბამდე დარჩენილია 8 კმ.)",
+                  "text": "A remote mountain trailhead leading towards Martoti Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        46.214145,
+                        41.920706
+                  ]
+            },
+            {
+                  "name": "ალაზნის ველის გადმოსახედი",
+                  "text": "A scenic overlook offering panoramic views of the Alazani Valley.",
+                  "category": "natural",
+                  "coords": [
+                        46.380671,
+                        41.872523
+                  ]
+            },
+            {
+                  "name": "დაღესტნის გადმოსახედი",
+                  "text": "A high-altitude viewpoint looking towards the border of Dagestan.",
+                  "category": "natural",
+                  "coords": [
+                        46.386614,
+                        41.873101
+                  ]
+            },
+            {
+                  "name": "Lagodekhi Protected Areas",
+                  "text": "Founded in 1912, this is Georgia's oldest nature reserve, famous for its waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        46.297541,
+                        41.897836
+                  ]
+            },
+            {
+                  "name": "ზემო მსხალგორის სამონასტრო კომპლექსი",
+                  "text": "Christian monastic ruins located in the forested mountains of the reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        46.194714,
+                        41.882915
+                  ]
+            },
+            {
+                  "name": "Catholic church",
+                  "text": "A small Catholic place of worship located in the Lagodekhi region.",
+                  "category": "landmark",
+                  "coords": [
+                        46.231559,
+                        41.860729
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "GE-KA",
     coords: [46.2917, 41.8542],
@@ -111,7 +597,196 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-tusheti-national-park-life-v2",
+    id: "ge-tusheti-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "მაკრატელა",
+                  "text": "Ein markanter Berggipfel im Großen Kaukasus in der Region Tuschetien.",
+                  "category": "natural",
+                  "coords": [
+                        45.523097,
+                        42.452088
+                  ]
+            },
+            {
+                  "name": "ფიცილანთა",
+                  "text": "Ein hoher Berggipfel inmitten des alpinen Terrains des Tuschetien-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        45.561706,
+                        42.426126
+                  ]
+            },
+            {
+                  "name": "ნაქდურთა (Nakdurta)",
+                  "text": "Antike archäologische Überreste im abgelegenen Pirikiti-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        45.483255,
+                        42.501338
+                  ]
+            },
+            {
+                  "name": "დაქიურთა",
+                  "text": "Ruinen eines historischen Bergdorfes in der zerklüfteten Pirikiti-Region.",
+                  "category": "historical",
+                  "coords": [
+                        45.477606,
+                        42.50271
+                  ]
+            },
+            {
+                  "name": "Hegho",
+                  "text": "Verlassene Steinbehausungen einer traditionellen tuschetischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        45.464798,
+                        42.500738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "მაკრატელა",
+                  "text": "Egy kiemelkedő hegycsúcs a Nagy-Kaukázus tuseti vonulatában.",
+                  "category": "natural",
+                  "coords": [
+                        45.523097,
+                        42.452088
+                  ]
+            },
+            {
+                  "name": "ფიცილანთა",
+                  "text": "Magas hegycsúcs a Tuseti Nemzeti Park alpesi vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        45.561706,
+                        42.426126
+                  ]
+            },
+            {
+                  "name": "ნაქდურთა (Nakdurta)",
+                  "text": "Ősi régészeti maradványok a távoli Pirikiti-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        45.483255,
+                        42.501338
+                  ]
+            },
+            {
+                  "name": "დაქიურთა",
+                  "text": "Egy történelmi hegyi falu romjai a zord Pirikiti régióban.",
+                  "category": "historical",
+                  "coords": [
+                        45.477606,
+                        42.50271
+                  ]
+            },
+            {
+                  "name": "Hegho",
+                  "text": "Egy hagyományos tuseti település elhagyatott kőházai.",
+                  "category": "historical",
+                  "coords": [
+                        45.464798,
+                        42.500738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "მაკრატელა",
+                  "text": "Un vârf muntos proeminent din lanțul Munților Caucazul Mare, în Tușeti.",
+                  "category": "natural",
+                  "coords": [
+                        45.523097,
+                        42.452088
+                  ]
+            },
+            {
+                  "name": "ფიცილანთა",
+                  "text": "Un vârf muntos înalt situat în terenul alpin al Parcului Național Tușeti.",
+                  "category": "natural",
+                  "coords": [
+                        45.561706,
+                        42.426126
+                  ]
+            },
+            {
+                  "name": "ნაქდურთა (Nakdurta)",
+                  "text": "Vestigii arheologice antice situate în valea izolată Pirikiti.",
+                  "category": "historical",
+                  "coords": [
+                        45.483255,
+                        42.501338
+                  ]
+            },
+            {
+                  "name": "დაქიურთა",
+                  "text": "Ruinele unui sat montan istoric în regiunea accidentată Pirikiti.",
+                  "category": "historical",
+                  "coords": [
+                        45.477606,
+                        42.50271
+                  ]
+            },
+            {
+                  "name": "Hegho",
+                  "text": "Locuințe de piatră abandonate ale unei așezări tradiționale din Tușeti.",
+                  "category": "historical",
+                  "coords": [
+                        45.464798,
+                        42.500738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makratela",
+                  "text": "A prominent mountain peak in the Greater Caucasus range of Tusheti.",
+                  "category": "natural",
+                  "coords": [
+                        45.523097,
+                        42.452088
+                  ]
+            },
+            {
+                  "name": "Pitsilanta",
+                  "text": "A high mountain peak situated within the alpine terrain of Tusheti National Park.",
+                  "category": "natural",
+                  "coords": [
+                        45.561706,
+                        42.426126
+                  ]
+            },
+            {
+                  "name": "Nakdurta",
+                  "text": "Ancient archaeological remains located in the remote Pirikiti valley.",
+                  "category": "historical",
+                  "coords": [
+                        45.483255,
+                        42.501338
+                  ]
+            },
+            {
+                  "name": "Dakiurta",
+                  "text": "Ruins of a historic mountain village in the rugged Pirikiti region.",
+                  "category": "historical",
+                  "coords": [
+                        45.477606,
+                        42.50271
+                  ]
+            },
+            {
+                  "name": "Hegho",
+                  "text": "Abandoned stone dwellings of a traditional Tushetian settlement.",
+                  "category": "historical",
+                  "coords": [
+                        45.464798,
+                        42.500738
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "GE-KA",
     coords: [45.4542, 42.4208],
@@ -147,7 +822,88 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-kolkheti-national-park-life-v2",
+    id: "ge-kolkheti-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Kolchetien",
+                  "text": "Dieses weitläufige Naturschutzgebiet schützt die einzigartigen kolchischen Feuchtgebiete und Küstenökosysteme des Schwarzen Meeres.",
+                  "category": "natural",
+                  "coords": [
+                        41.714263,
+                        42.216114
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს ეკლესია (St. Nino)",
+                  "text": "Diese christliche Stätte nahe der Feuchtgebiete ehrt die verehrte Heilige, die das Christentum nach Georgien brachte.",
+                  "category": "landmark",
+                  "coords": [
+                        41.72285,
+                        42.181753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "კოლხეთის ეროვნული პარკი",
+                  "text": "Ez a kiterjedt természetvédelmi terület a Fekete-tenger egyedülálló kolkhiszi vizes élőhelyeit és part menti ökoszisztémáit védi.",
+                  "category": "natural",
+                  "coords": [
+                        41.714263,
+                        42.216114
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს ეკლესია (St. Nino)",
+                  "text": "Ez a vizes élőhelyekhez közeli keresztény emlékhely azt a tisztelt szentet ünnepli, aki elhozta a kereszténységet Grúziába.",
+                  "category": "landmark",
+                  "coords": [
+                        41.72285,
+                        42.181753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "კოლხეთის ეროვნული პარკი",
+                  "text": "Această vastă rezervație naturală protejează zonele umede colhice unice și ecosistemele de coastă ale Mării Negre.",
+                  "category": "natural",
+                  "coords": [
+                        41.714263,
+                        42.216114
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს ეკლესია (St. Nino)",
+                  "text": "Acest sit creștin din apropierea zonelor umede o onorează pe sfânta venerată care a adus creștinismul în Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        41.72285,
+                        42.181753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kolkheti National Park",
+                  "text": "This expansive nature reserve protects the unique Colchian wetlands and coastal ecosystems of the Black Sea.",
+                  "category": "natural",
+                  "coords": [
+                        41.714263,
+                        42.216114
+                  ]
+            },
+            {
+                  "name": "St. Nino",
+                  "text": "This Christian site near the wetlands honors the revered saint who brought Christianity to Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        41.72285,
+                        42.181753
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "GE-SZ",
     coords: [41.7247, 42.1581],
@@ -183,7 +939,628 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-javakheti-reserve-life-v2",
+    id: "ge-javakheti-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "სათხის ციხე-სიმაგრე “იშიყალა”",
+                  "text": "Eine antike zyklopische Festung in Dschawachetien, deren massive Steinmauern aus vorchristlicher Zeit stammen.",
+                  "category": "historical",
+                  "coords": [
+                        43.659483,
+                        41.28611
+                  ]
+            },
+            {
+                  "name": "Sirotskii dom",
+                  "text": "Ein historisches Gebäude in Gorelowka, das mit der Geschichte der Duchoboren-Glaubensgemeinschaft verbunden ist.",
+                  "category": "museum",
+                  "coords": [
+                        43.693848,
+                        41.215198
+                  ]
+            },
+            {
+                  "name": "კალმიკოვების სახლ-მუზეუმი",
+                  "text": "Dieses Museum in Gorelowka beleuchtet das Leben und die Traditionen der Duchoboren im georgischen Exil.",
+                  "category": "museum",
+                  "coords": [
+                        43.667875,
+                        41.228444
+                  ]
+            },
+            {
+                  "name": "სურბ სარგის ეკლესია",
+                  "text": "Eine armenische Kirche im Dorf Dilif, die ein wichtiges religiöses Zentrum für die lokale Bevölkerung ist.",
+                  "category": "religious",
+                  "coords": [
+                        43.587408,
+                        41.272713
+                  ]
+            },
+            {
+                  "name": "ყაურმის (ყოფ.ტონთიოს) ციკლოპური კომპლექსი",
+                  "text": "Die Überreste dieser zyklopischen Anlage bei Kaurma zeugen von der frühen Besiedlung des Hochlands.",
+                  "category": "historical",
+                  "coords": [
+                        43.591293,
+                        41.331761
+                  ]
+            },
+            {
+                  "name": "ხანჩალის აღკვეთილი",
+                  "text": "Das Schutzgebiet am Chantschali-See ist ein bedeutender Rastplatz für Zugvögel auf der Dschawachetien-Hochebene.",
+                  "category": "natural",
+                  "coords": [
+                        43.551592,
+                        41.254951
+                  ]
+            },
+            {
+                  "name": "დიდი ხანჩლის სომხური ეკლესია",
+                  "text": "Die armenische Kirche im Dorf Didi Chantschali ist ein markantes Beispiel lokaler Sakralbaukunst.",
+                  "category": "landmark",
+                  "coords": [
+                        43.590864,
+                        41.244353
+                  ]
+            },
+            {
+                  "name": "სათხის სამების ეკლესია (ნანგრევები)",
+                  "text": "Die Ruinen der Dreifaltigkeitskirche von Satchka liegen malerisch in der rauen Landschaft von Dschawachetien.",
+                  "category": "landmark",
+                  "coords": [
+                        43.655395,
+                        41.28777
+                  ]
+            },
+            {
+                  "name": "სამლოცველო",
+                  "text": "Eine schlichte Kapelle in der Dschawachetien-Region, die zur stillen Einkehr einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.606548,
+                        41.297174
+                  ]
+            },
+            {
+                  "name": "ოროჯოლარის ეკლესია ( ნანგრევები)",
+                  "text": "Die Ruinen der Kirche von Orodscholari sind stumme Zeugen der mittelalterlichen Geschichte des Dorfes.",
+                  "category": "landmark",
+                  "coords": [
+                        43.618656,
+                        41.301814
+                  ]
+            },
+            {
+                  "name": "ყაურმის (ყოფ.ტონთიოს) წმ. გიორგის ეკლესია",
+                  "text": "Diese georgisch-orthodoxe Kirche aus dem Jahr 1020 ist für ihre Lage an einer historischen Steinbrücke bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.584618,
+                        41.323658
+                  ]
+            },
+            {
+                  "name": "სამლოცველო",
+                  "text": "Ein kleiner christlicher Andachtsort inmitten der vulkanischen Hochebene von Georgien.",
+                  "category": "landmark",
+                  "coords": [
+                        43.583298,
+                        41.339715
+                  ]
+            },
+            {
+                  "name": "ნინოწმინდის სომხური სამლოცველო",
+                  "text": "Eine kleine armenische Kapelle in Ninotsminda, die die religiöse Vielfalt der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.552666,
+                        41.27376
+                  ]
+            },
+            {
+                  "name": "ჯიგრაშნის ეკლესია",
+                  "text": "Die Dorfkirche von Dschigrascheni dient der lokalen armenischen Gemeinschaft als Versammlungsort.",
+                  "category": "landmark",
+                  "coords": [
+                        43.555132,
+                        41.318377
+                  ]
+            },
+            {
+                  "name": "პატარა ხორენიას ნაეკლესიარი",
+                  "text": "Ruinen einer alten Saalkirche auf dem vulkanischen Jawacheti-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        43.522262,
+                        41.337905
+                  ]
+            },
+            {
+                  "name": "პატარა ხანჩალის წმ.იაკობის სომხური ეკლესია",
+                  "text": "Eine armenische Kirche, die der örtlichen Gemeinde nahe dem Chantschali-See dient.",
+                  "category": "landmark",
+                  "coords": [
+                        43.53315,
+                        41.243165
+                  ]
+            },
+            {
+                  "name": "ჯიგრაშნის მთავარანგელოზთა ეკლესია („სურბ ჰრეშტაკაპეტაც“)",
+                  "text": "Ein historisches armenisches Gotteshaus, das lokal als Surb Hreschtakapetaz bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.545059,
+                        41.321435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "სათხის ციხე-სიმაგრე “იშიყალა”",
+                  "text": "Egy ősi küklopszi erőd Dzsavahétiben, amelynek hatalmas kőfalai a kereszténység előtti időkből származnak.",
+                  "category": "historical",
+                  "coords": [
+                        43.659483,
+                        41.28611
+                  ]
+            },
+            {
+                  "name": "Sirotskii dom",
+                  "text": "Történelmi épület Gorelovkában, amely a duhobor hitéleti közösség történetéhez kapcsolódik.",
+                  "category": "museum",
+                  "coords": [
+                        43.693848,
+                        41.215198
+                  ]
+            },
+            {
+                  "name": "კალმიკოვების სახლ-მუზეუმი",
+                  "text": "Ez a gorelovkai múzeum a duhoborok életét és hagyományait mutatja be a grúziai száműzetésben.",
+                  "category": "museum",
+                  "coords": [
+                        43.667875,
+                        41.228444
+                  ]
+            },
+            {
+                  "name": "სურბ სარგის ეკლესია",
+                  "text": "Örmény templom Dilif faluban, amely fontos vallási központ a helyi lakosság számára.",
+                  "category": "religious",
+                  "coords": [
+                        43.587408,
+                        41.272713
+                  ]
+            },
+            {
+                  "name": "ყაურმის (ყოფ.ტონთიოს) ციკლოპური კომპლექსი",
+                  "text": "A Kaurma melletti küklopszi építmény maradványai a fennsík korai benépesüléséről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        43.591293,
+                        41.331761
+                  ]
+            },
+            {
+                  "name": "ხანჩალის აღკვეთილი",
+                  "text": "A Hancsali-tó védett területe a vándormadarak jelentős pihenőhelye a Dzsavahéti-fennsíkon.",
+                  "category": "natural",
+                  "coords": [
+                        43.551592,
+                        41.254951
+                  ]
+            },
+            {
+                  "name": "დიდი ხანჩლის სომხური ეკლესია",
+                  "text": "A Didi Hancsali faluban található örmény templom a helyi szakrális építészet jellegzetes példája.",
+                  "category": "landmark",
+                  "coords": [
+                        43.590864,
+                        41.244353
+                  ]
+            },
+            {
+                  "name": "სათხის სამების ეკლესია (ნანგრევები)",
+                  "text": "A szatkhai Szentháromság-templom romjai festői módon fekszenek Dzsavahéti zord táján.",
+                  "category": "landmark",
+                  "coords": [
+                        43.655395,
+                        41.28777
+                  ]
+            },
+            {
+                  "name": "სამლოცველო",
+                  "text": "Egy egyszerű kápolna a Dzsavahéti régióban, amely csendes elmélyülésre hív.",
+                  "category": "landmark",
+                  "coords": [
+                        43.606548,
+                        41.297174
+                  ]
+            },
+            {
+                  "name": "ოროჯოლარის ეკლესია ( ნანგრევები)",
+                  "text": "Az orodszolari templom romjai a falu középkori történelmének néma tanúi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.618656,
+                        41.301814
+                  ]
+            },
+            {
+                  "name": "ყაურმის (ყოფ.ტონთიოს) წმ. გიორგის ეკლესია",
+                  "text": "Ez az 1020-ból származó grúz ortodox templom egy történelmi kőhíd melletti fekvéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.584618,
+                        41.323658
+                  ]
+            },
+            {
+                  "name": "სამლოცველო",
+                  "text": "Egy kis keresztény istentiszteleti hely Grúzia vulkanikus fennsíkjának közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        43.583298,
+                        41.339715
+                  ]
+            },
+            {
+                  "name": "ნინოწმინდის სომხური სამლოცველო",
+                  "text": "Egy kis örmény kápolna Ninotsmindában, amely a régió vallási sokszínűségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.552666,
+                        41.27376
+                  ]
+            },
+            {
+                  "name": "ჯიგრაშნის ეკლესია",
+                  "text": "A dzsigraseni falusi templom a helyi örmény közösség gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        43.555132,
+                        41.318377
+                  ]
+            },
+            {
+                  "name": "პატარა ხორენიას ნაეკლესიარი",
+                  "text": "Egy ősi csarnoktemplom romjai a vulkanikus Dzsavakheti-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        43.522262,
+                        41.337905
+                  ]
+            },
+            {
+                  "name": "პატარა ხანჩალის წმ.იაკობის სომხური ეკლესია",
+                  "text": "A Khancsal-tó partja közelében álló örmény templom, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        43.53315,
+                        41.243165
+                  ]
+            },
+            {
+                  "name": "ჯიგრაშნის მთავარანგელოზთა ეკლესია („სურბ ჰრეშტაკაპეტაც“)",
+                  "text": "Történelmi örmény templom, amelyet helyi szinten Szurb Hrestakapetac néven ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        43.545059,
+                        41.321435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "სათხის ციხე-სიმაგრე “იშიყალა”",
+                  "text": "O veche cetate ciclopeană din Javakheti, cu ziduri masive de piatră ce datează din epoca precreștină.",
+                  "category": "historical",
+                  "coords": [
+                        43.659483,
+                        41.28611
+                  ]
+            },
+            {
+                  "name": "Sirotskii dom",
+                  "text": "O clădire istorică din Gorelovka, legată de istoria comunității religioase a duhoborilor.",
+                  "category": "museum",
+                  "coords": [
+                        43.693848,
+                        41.215198
+                  ]
+            },
+            {
+                  "name": "კალმიკოვების სახლ-მუზეუმი",
+                  "text": "Acest muzeu din Gorelovka ilustrează viața și tradițiile duhoborilor aflați în exil în Georgia.",
+                  "category": "museum",
+                  "coords": [
+                        43.667875,
+                        41.228444
+                  ]
+            },
+            {
+                  "name": "სურბ სარგის ეკლესია",
+                  "text": "O biserică armenească în satul Dilif, fiind un important centru religios pentru populația locală.",
+                  "category": "religious",
+                  "coords": [
+                        43.587408,
+                        41.272713
+                  ]
+            },
+            {
+                  "name": "ყაურმის (ყოფ.ტონთიოს) ციკლოპური კომპლექსი",
+                  "text": "Resturile acestei structuri ciclopeene de lângă Kaurma atestă popularea timpurie a podișului.",
+                  "category": "historical",
+                  "coords": [
+                        43.591293,
+                        41.331761
+                  ]
+            },
+            {
+                  "name": "ხანჩალის აღკვეთილი",
+                  "text": "Rezervația de pe lacul Khanchali este un loc de popas important pentru păsările migratoare din podișul Javakheti.",
+                  "category": "natural",
+                  "coords": [
+                        43.551592,
+                        41.254951
+                  ]
+            },
+            {
+                  "name": "დიდი ხანჩლის სომხური ეკლესია",
+                  "text": "Biserica armenească din satul Didi Khanchali este un exemplu marcant al arhitecturii sacre locale.",
+                  "category": "landmark",
+                  "coords": [
+                        43.590864,
+                        41.244353
+                  ]
+            },
+            {
+                  "name": "სათხის სამების ეკლესია (ნანგრევები)",
+                  "text": "Ruinele bisericii Treimea din Satkha sunt situate pitoresc în peisajul aspru din Javakheti.",
+                  "category": "landmark",
+                  "coords": [
+                        43.655395,
+                        41.28777
+                  ]
+            },
+            {
+                  "name": "სამლოცველო",
+                  "text": "O capelă simplă din regiunea Javakheti, care invită la reculegere.",
+                  "category": "landmark",
+                  "coords": [
+                        43.606548,
+                        41.297174
+                  ]
+            },
+            {
+                  "name": "ოროჯოლარის ეკლესია ( ნანგრევები)",
+                  "text": "Ruinele bisericii din Orojolari sunt martori tăcuți ai istoriei medievale a satului.",
+                  "category": "landmark",
+                  "coords": [
+                        43.618656,
+                        41.301814
+                  ]
+            },
+            {
+                  "name": "ყაურმის (ყოფ.ტონთიოს) წმ. გიორგის ეკლესია",
+                  "text": "Această biserică ortodoxă georgiană din anul 1020 este cunoscută pentru locația sa lângă un pod istoric de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        43.584618,
+                        41.323658
+                  ]
+            },
+            {
+                  "name": "სამლოცველო",
+                  "text": "Un mic lăcaș de cult creștin în mijlocul podișului vulcanic din Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        43.583298,
+                        41.339715
+                  ]
+            },
+            {
+                  "name": "ნინოწმინდის სომხური სამლოცველო",
+                  "text": "O mică capelă armenească în Ninotsminda, care reflectă diversitatea religioasă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        43.552666,
+                        41.27376
+                  ]
+            },
+            {
+                  "name": "ჯიგრაშნის ეკლესია",
+                  "text": "Biserica din satul Jigrashini servește drept loc de întâlnire pentru comunitatea armeană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        43.555132,
+                        41.318377
+                  ]
+            },
+            {
+                  "name": "პატარა ხორენიას ნაეკლესიარი",
+                  "text": "Ruinele unei vechi biserici de tip hală de pe platoul vulcanic Javakheti.",
+                  "category": "landmark",
+                  "coords": [
+                        43.522262,
+                        41.337905
+                  ]
+            },
+            {
+                  "name": "პატარა ხანჩალის წმ.იაკობის სომხური ეკლესია",
+                  "text": "O biserică armeană care deservește comunitatea locală de lângă lacul Khanchali.",
+                  "category": "landmark",
+                  "coords": [
+                        43.53315,
+                        41.243165
+                  ]
+            },
+            {
+                  "name": "ჯიგრაშნის მთავარანგელოზთა ეკლესია („სურბ ჰრეშტაკაპეტაც“)",
+                  "text": "Un lăcaș de cult armenesc istoric, cunoscut local sub numele de Surb Hreshtakapetats.",
+                  "category": "landmark",
+                  "coords": [
+                        43.545059,
+                        41.321435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "სათხის ციხე-სიმაგრე “იშიყალა”",
+                  "text": "An ancient cyclopean fortress in Javakheti with massive stone walls dating back to pre-Christian times.",
+                  "category": "historical",
+                  "coords": [
+                        43.659483,
+                        41.28611
+                  ]
+            },
+            {
+                  "name": "Sirotskii dom",
+                  "text": "A historical building in Gorelovka linked to the history of the Doukhobor religious community.",
+                  "category": "museum",
+                  "coords": [
+                        43.693848,
+                        41.215198
+                  ]
+            },
+            {
+                  "name": "Kolmykov House & Museum",
+                  "text": "This museum in Gorelovka highlights the lives and traditions of the Doukhobors in Georgian exile.",
+                  "category": "museum",
+                  "coords": [
+                        43.667875,
+                        41.228444
+                  ]
+            },
+            {
+                  "name": "Surb Sarkis Church",
+                  "text": "An Armenian church in the village of Dilif, serving as an important religious center for the local population.",
+                  "category": "religious",
+                  "coords": [
+                        43.587408,
+                        41.272713
+                  ]
+            },
+            {
+                  "name": "ყაურმის (ყოფ.ტონთიოს) ციკლოპური კომპლექსი",
+                  "text": "The remains of this cyclopean structure near Kaurma bear witness to the early settlement of the highlands.",
+                  "category": "historical",
+                  "coords": [
+                        43.591293,
+                        41.331761
+                  ]
+            },
+            {
+                  "name": "Khanchali Managed Reserve",
+                  "text": "The managed reserve at Lake Khanchali is a significant stopover for migratory birds on the Javakheti plateau.",
+                  "category": "natural",
+                  "coords": [
+                        43.551592,
+                        41.254951
+                  ]
+            },
+            {
+                  "name": "დიდი ხანჩლის სომხური ეკლესია",
+                  "text": "The Armenian church in the village of Didi Khanchali is a prominent example of local sacred architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        43.590864,
+                        41.244353
+                  ]
+            },
+            {
+                  "name": "სათხის სამების ეკლესია (ნანგრევები)",
+                  "text": "The ruins of the Trinity church in Satkha lie picturesquely in the rugged landscape of Javakheti.",
+                  "category": "landmark",
+                  "coords": [
+                        43.655395,
+                        41.28777
+                  ]
+            },
+            {
+                  "name": "სამლოცველო",
+                  "text": "A simple chapel in the Javakheti region that invites quiet reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        43.606548,
+                        41.297174
+                  ]
+            },
+            {
+                  "name": "ოროჯოლარის ეკლესია ( ნანგრევები)",
+                  "text": "The ruins of the church in Orojolari are silent witnesses to the village's medieval history.",
+                  "category": "landmark",
+                  "coords": [
+                        43.618656,
+                        41.301814
+                  ]
+            },
+            {
+                  "name": "ყაურმის (ყოფ.ტონთიოს) წმ. გიორგის ეკლესია",
+                  "text": "This Georgian Orthodox church from 1020 is known for its location near a historical stone bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        43.584618,
+                        41.323658
+                  ]
+            },
+            {
+                  "name": "სამლოცველო",
+                  "text": "A small Christian place of worship in the middle of Georgia's volcanic plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        43.583298,
+                        41.339715
+                  ]
+            },
+            {
+                  "name": "ნინოწმინდის სომხური სამლოცველო",
+                  "text": "A small Armenian chapel in Ninotsminda reflecting the religious diversity of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        43.552666,
+                        41.27376
+                  ]
+            },
+            {
+                  "name": "ჯიგრაშნის ეკლესია",
+                  "text": "The village church of Jigrashini serves as a gathering place for the local Armenian community.",
+                  "category": "landmark",
+                  "coords": [
+                        43.555132,
+                        41.318377
+                  ]
+            },
+            {
+                  "name": "პატარა ხორენიას ნაეკლესიარი",
+                  "text": "Ruins of an ancient hall church on the volcanic Javakheti plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        43.522262,
+                        41.337905
+                  ]
+            },
+            {
+                  "name": "პატარა ხანჩალის წმ.იაკობის სომხური ეკლესია",
+                  "text": "An Armenian church serving the local community near the shores of Lake Khanchali.",
+                  "category": "landmark",
+                  "coords": [
+                        43.53315,
+                        41.243165
+                  ]
+            },
+            {
+                  "name": "ჯიგრაშნის მთავარანგელოზთა ეკლესია („სურბ ჰრეშტაკაპეტაც“)",
+                  "text": "A historic Armenian place of worship known locally as Surb Hreshtakapetats.",
+                  "category": "landmark",
+                  "coords": [
+                        43.545059,
+                        41.321435
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "GE-SJ",
     coords: [43.6167, 41.2833],
@@ -219,7 +1596,376 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-kintrishi-reserve-life-v2",
+    id: "ge-kintrishi-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "პერანგა",
+                  "text": "Ein Berggipfel im Mescheti-Gebirge, der schroffes Gelände und einen Panoramablick auf das Kintrischi-Naturschutzgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        42.131566,
+                        41.702503
+                  ]
+            },
+            {
+                  "name": "ვარჯანაულის ქვის თაღოვანი ხიდი (თამარის ხიდი)",
+                  "text": "Eine mittelalterliche Steinbogenbrücke über den Fluss Kintrischi, die aus dem 9. bis 12. Jahrhundert stammt.",
+                  "category": "landmark",
+                  "coords": [
+                        41.960829,
+                        41.788576
+                  ]
+            },
+            {
+                  "name": "waterfall",
+                  "text": "Ein malerischer Wasserfall, der durch die dichten, feuchten Wälder des Kintrischi-Naturschutzgebiets stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        41.968069,
+                        41.773569
+                  ]
+            },
+            {
+                  "name": "ცხემვანის ქვის თაღოვანი ხიდი ( თამარის ხიდი)",
+                  "text": "Eine alte Steinbogenbrücke im Gebiet Tschemwana, Teil eines historischen Handelsweges.",
+                  "category": "landmark",
+                  "coords": [
+                        41.976164,
+                        41.762296
+                  ]
+            },
+            {
+                  "name": "წონიარისის(\"ჯაიმელას\") თაღოვანი ხიდი",
+                  "text": "Eine historische Steinbogenbrücke, auch bekannt als Jaimela, im Dorf Zoniarissi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.018289,
+                        41.656821
+                  ]
+            },
+            {
+                  "name": "ჭედილ ბერიძის მემორიალი",
+                  "text": "Ein Militärdenkmal mit einem erhaltenen Panzer, das an die Geschichte in der Berglandschaft erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        42.013679,
+                        41.642344
+                  ]
+            },
+            {
+                  "name": "ცხმორისის ხიდის ნანგრევები",
+                  "text": "Die verwitterten Steinruinen einer alten Brücke bei Tschmorissi, die die mittelalterliche Infrastruktur der Gegend widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        42.048362,
+                        41.646054
+                  ]
+            },
+            {
+                  "name": "ფრიდონ ხალვაშის სახლ-მუზეუმი",
+                  "text": "Dieses Museum ist dem Leben und Werk des georgischen Dichters Pridon Chalwaschi in seinem ehemaligen Wohnhaus gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        42.079039,
+                        41.646671
+                  ]
+            },
+            {
+                  "name": "კინტრიშის დაცული ლანდშაფტი",
+                  "text": "Ein geschütztes Gebiet mit feuchten subtropischen Wäldern und einer reichen Artenvielfalt in den Bergen von Adscharien.",
+                  "category": "natural",
+                  "coords": [
+                        42.037628,
+                        41.738364
+                  ]
+            },
+            {
+                  "name": "ბასრიმელეს ქვის თაღოვანი ხიდი",
+                  "text": "Eine mittelalterliche Steinbogenbrücke, die den Fluss Kintrishi in einer malerischen Schlucht überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        41.96729,
+                        41.780525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "პერანგა",
+                  "text": "Hegycsúcs a Meszkheti-hegységben, amely zord terepet és panorámás kilátást kínál a Kintrishi Természetvédelmi Területre.",
+                  "category": "natural",
+                  "coords": [
+                        42.131566,
+                        41.702503
+                  ]
+            },
+            {
+                  "name": "ვარჯანაულის ქვის თაღოვანი ხიდი (თამარის ხიდი)",
+                  "text": "Középkori kőívhíd a Kintrishi-folyón, amely a 9-12. századból származik.",
+                  "category": "landmark",
+                  "coords": [
+                        41.960829,
+                        41.788576
+                  ]
+            },
+            {
+                  "name": "waterfall",
+                  "text": "Festői vízesés, amely a Kintrishi Természetvédelmi Terület sűrű, párás erdőin keresztül zúdul le.",
+                  "category": "natural",
+                  "coords": [
+                        41.968069,
+                        41.773569
+                  ]
+            },
+            {
+                  "name": "ცხემვანის ქვის თაღოვანი ხიდი ( თამარის ხიდი)",
+                  "text": "Ősi kőívhíd Tskhemvana területén, egy történelmi kereskedelmi útvonal része.",
+                  "category": "landmark",
+                  "coords": [
+                        41.976164,
+                        41.762296
+                  ]
+            },
+            {
+                  "name": "წონიარისის(\"ჯაიმელას\") თაღოვანი ხიდი",
+                  "text": "Történelmi kőívhíd, más néven Jaimela, Tsoniarisi faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.018289,
+                        41.656821
+                  ]
+            },
+            {
+                  "name": "ჭედილ ბერიძის მემორიალი",
+                  "text": "Megőrzött harckocsit bemutató katonai emlékmű, amely a hegyi táj történelmének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        42.013679,
+                        41.642344
+                  ]
+            },
+            {
+                  "name": "ცხმორისის ხიდის ნანგრევები",
+                  "text": "Egy ősi híd kopott kőmaradványai Tskhmorisi közelében, a környék középkori infrastruktúráját idézve.",
+                  "category": "historical",
+                  "coords": [
+                        42.048362,
+                        41.646054
+                  ]
+            },
+            {
+                  "name": "ფრიდონ ხალვაშის სახლ-მუზეუმი",
+                  "text": "Ez a múzeum Pridon Halvasi grúz költő életének és munkásságának állít emléket egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        42.079039,
+                        41.646671
+                  ]
+            },
+            {
+                  "name": "კინტრიშის დაცული ლანდშაფტი",
+                  "text": "Nedves szubtrópusi erdőkkel és gazdag biodiverzitással rendelkező védett terület az adzsariai hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        42.037628,
+                        41.738364
+                  ]
+            },
+            {
+                  "name": "ბასრიმელეს ქვის თაღოვანი ხიდი",
+                  "text": "Középkori kőboltozatos híd, amely a Kintrishi-folyón ível át egy festői szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        41.96729,
+                        41.780525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "პერანგა",
+                  "text": "Un vârf montan din Munții Meskheti, care oferă un teren accidentat și vederi panoramice asupra Rezervației Naturale Kintrishi.",
+                  "category": "natural",
+                  "coords": [
+                        42.131566,
+                        41.702503
+                  ]
+            },
+            {
+                  "name": "ვარჯანაულის ქვის თაღოვანი ხიდი (თამარის ხიდი)",
+                  "text": "Un pod medieval de piatră în arc peste râul Kintrishi, datând din secolele IX-XII.",
+                  "category": "landmark",
+                  "coords": [
+                        41.960829,
+                        41.788576
+                  ]
+            },
+            {
+                  "name": "waterfall",
+                  "text": "O cascadă pitorească ce curge prin pădurile dese și umede ale Rezervației Naturale Kintrishi.",
+                  "category": "natural",
+                  "coords": [
+                        41.968069,
+                        41.773569
+                  ]
+            },
+            {
+                  "name": "ცხემვანის ქვის თაღოვანი ხიდი ( თამარის ხიდი)",
+                  "text": "Un vechi pod de piatră în arc din zona Tskhemvana, parte a unei rute comerciale istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        41.976164,
+                        41.762296
+                  ]
+            },
+            {
+                  "name": "წონიარისის(\"ჯაიმელას\") თაღოვანი ხიდი",
+                  "text": "Un pod istoric de piatră în arc, cunoscut și sub numele de Jaimela, situat în satul Tsoniarisi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.018289,
+                        41.656821
+                  ]
+            },
+            {
+                  "name": "ჭედილ ბერიძის მემორიალი",
+                  "text": "Un memorial militar care prezintă un tanc conservat, comemorând istoria în peisajul montan.",
+                  "category": "landmark",
+                  "coords": [
+                        42.013679,
+                        41.642344
+                  ]
+            },
+            {
+                  "name": "ცხმორისის ხიდის ნანგრევები",
+                  "text": "Ruinele de piatră erodate ale unui pod vechi de lângă Tskhmorisi, reflectând infrastructura medievală a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        42.048362,
+                        41.646054
+                  ]
+            },
+            {
+                  "name": "ფრიდონ ხალვაშის სახლ-მუზეუმი",
+                  "text": "Acest muzeu este dedicat vieții și operei poetului georgian Pridon Khalvashi, fiind situat în fosta sa casă.",
+                  "category": "museum",
+                  "coords": [
+                        42.079039,
+                        41.646671
+                  ]
+            },
+            {
+                  "name": "კინტრიშის დაცული ლანდშაფტი",
+                  "text": "O zonă protejată cu păduri subtropicale umede și o biodiversitate bogată în munții Adjara.",
+                  "category": "natural",
+                  "coords": [
+                        42.037628,
+                        41.738364
+                  ]
+            },
+            {
+                  "name": "ბასრიმელეს ქვის თაღოვანი ხიდი",
+                  "text": "Un pod medieval din piatră în arc care traversează râul Kintrishi într-un defileu pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        41.96729,
+                        41.780525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peranga",
+                  "text": "A mountain peak in the Meskheti Range, offering rugged terrain and panoramic views of the Kintrishi Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        42.131566,
+                        41.702503
+                  ]
+            },
+            {
+                  "name": "Varjanauli Bridge",
+                  "text": "A medieval stone arched bridge spanning the Kintrishi River, dating back to the 9th-12th centuries.",
+                  "category": "landmark",
+                  "coords": [
+                        41.960829,
+                        41.788576
+                  ]
+            },
+            {
+                  "name": "waterfall",
+                  "text": "A picturesque waterfall cascading through the dense, humid forests of the Kintrishi Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        41.968069,
+                        41.773569
+                  ]
+            },
+            {
+                  "name": "Tskhemvana Bridge",
+                  "text": "An ancient stone arched bridge in the Tskhemvana area, part of a historic trade route.",
+                  "category": "landmark",
+                  "coords": [
+                        41.976164,
+                        41.762296
+                  ]
+            },
+            {
+                  "name": "წონიარისის(\"ჯაიმელას\") თაღოვანი ხიდი",
+                  "text": "A historic stone arched bridge, also known as Jaimela, located in the village of Tsoniarisi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.018289,
+                        41.656821
+                  ]
+            },
+            {
+                  "name": "Memorial Tank",
+                  "text": "A military memorial featuring a preserved tank, commemorating history within the mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        42.013679,
+                        41.642344
+                  ]
+            },
+            {
+                  "name": "ცხმორისის ხიდის ნანგრევები",
+                  "text": "The weathered stone ruins of an ancient bridge near Tskhmorisi, reflecting the area's medieval infrastructure.",
+                  "category": "historical",
+                  "coords": [
+                        42.048362,
+                        41.646054
+                  ]
+            },
+            {
+                  "name": "ფრიდონ ხალვაშის სახლ-მუზეუმი",
+                  "text": "This museum is dedicated to the life and work of the Georgian poet Pridon Khalvashi in his former residence.",
+                  "category": "museum",
+                  "coords": [
+                        42.079039,
+                        41.646671
+                  ]
+            },
+            {
+                  "name": "Kintrishi Protected Landscape",
+                  "text": "A protected area featuring humid subtropical forests and rich biodiversity in the Adjara mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.037628,
+                        41.738364
+                  ]
+            },
+            {
+                  "name": "Basrimele stone arch bridge",
+                  "text": "A medieval stone arch bridge spanning the Kintrishi River in a scenic gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        41.96729,
+                        41.780525
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "GE-AJ",
     coords: [42.0294, 41.7264],
@@ -525,7 +2271,448 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-tbilisi-botanical-garden-life-v2",
+    id: "ge-tbilisi-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "დავიწყებული ხილის ხეივანი",
+                  "text": "Diese Attraktion in ge-tbilisi-botanical-garden-life-v2 ist eine Allee, die mit seltenen und vergessenen Obstbaumsorten bepflanzt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.799435,
+                        41.685371
+                  ]
+            },
+            {
+                  "name": "Nationaler Botanischer Garten",
+                  "text": "Diese denkmalgeschützte botanische Attraktion in ge-tbilisi-botanical-garden-life-v2 stammt aus den 1700er Jahren.",
+                  "category": "landmark",
+                  "coords": [
+                        44.802786,
+                        41.685386
+                  ]
+            },
+            {
+                  "name": "Rosarium",
+                  "text": "Diese florale Attraktion in ge-tbilisi-botanical-garden-life-v2 umfasst einen speziellen Garten, der vollständig verschiedenen Rosensträuchern gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.805701,
+                        41.684905
+                  ]
+            },
+            {
+                  "name": "პარტერი",
+                  "text": "Diese landschaftlich gestaltete Attraktion in ge-tbilisi-botanical-garden-life-v2 wurde 1956 nach den Entwürfen von გიორგი მანაგაძე angelegt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.801757,
+                        41.68384
+                  ]
+            },
+            {
+                  "name": "თელეთის წმ. გიორგის ეკლესია და მამათა მონასტერი",
+                  "text": "Diese christliche Stätte in ge-tbilisi-botanical-garden-life-v2 ist eine traditionelle Kirche, die dem Heiligen Georg geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.815636,
+                        41.646887
+                  ]
+            },
+            {
+                  "name": "ამაღლების ეკლესია",
+                  "text": "Diese christliche Stätte in ge-tbilisi-botanical-garden-life-v2 ist vor Ort als Himmelfahrtskirche (Amaghleba) bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.78568,
+                        41.61738
+                  ]
+            },
+            {
+                  "name": "მამა დავითის ეკლესია",
+                  "text": "Diese christliche Kirche in ge-tbilisi-botanical-garden-life-v2 dient als religiöses Denkmal, das Vater David gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.818115,
+                        41.628458
+                  ]
+            },
+            {
+                  "name": "წმ. ნიკოლოზის ეკლესია",
+                  "text": "Dieses christliche Gotteshaus in ge-tbilisi-botanical-garden-life-v2 ist eine orthodoxe Kirche, die dem Heiligen Nikolaus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797727,
+                        41.671394
+                  ]
+            },
+            {
+                  "name": "სამების წმ.სამების ეკლესია",
+                  "text": "Diese christliche Stätte in ge-tbilisi-botanical-garden-life-v2 ist eine markante Kirche, die der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.77302,
+                        41.622465
+                  ]
+            },
+            {
+                  "name": "წმ. სპირიდონ ტრიმიფუნტელის სახ. ეკლესია",
+                  "text": "Diese christliche Kirche in ge-tbilisi-botanical-garden-life-v2 ist offiziell dem Heiligen Spyridon von Trimythous gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.796878,
+                        41.669852
+                  ]
+            },
+            {
+                  "name": "ზემო თელეთის ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "Diese christliche Stätte in ge-tbilisi-botanical-garden-life-v2 ist die Kirche Mariä Entschlafen in Zemo Teleti.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816925,
+                        41.644739
+                  ]
+            },
+            {
+                  "name": "წმ. გრიგოლ ხანძთელის სახ. მამათა მონასტერი",
+                  "text": "Dieses christliche Kloster in ge-tbilisi-botanical-garden-life-v2 setzt die klösterlichen Traditionen des Heiligen Grigol Khandzteli fort.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816272,
+                        41.668096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "დავიწყებული ხილის ხეივანი",
+                  "text": "Ez a látványosság ge-tbilisi-botanical-garden-life-v2-ben egy ritka és elfeledett gyümölcsfajtákkal beültetett sétány.",
+                  "category": "landmark",
+                  "coords": [
+                        44.799435,
+                        41.685371
+                  ]
+            },
+            {
+                  "name": "ეროვნული ბოტანიკური ბაღი",
+                  "text": "Ez az örökségvédelmi listán szereplő botanikai látványosság ge-tbilisi-botanical-garden-life-v2-ben az 1700-as évekre nyúlik vissza.",
+                  "category": "landmark",
+                  "coords": [
+                        44.802786,
+                        41.685386
+                  ]
+            },
+            {
+                  "name": "Rosarium",
+                  "text": "Ez a virágos látványosság ge-tbilisi-botanical-garden-life-v2-ben egy kizárólag különféle rózsabokroknak szentelt speciális kert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.805701,
+                        41.684905
+                  ]
+            },
+            {
+                  "name": "პარტერი",
+                  "text": "Ez a parkosított látványosság ge-tbilisi-botanical-garden-life-v2-ben 1956-ban jött létre გიორგი მანაგაძე tervei alapján.",
+                  "category": "landmark",
+                  "coords": [
+                        44.801757,
+                        41.68384
+                  ]
+            },
+            {
+                  "name": "თელეთის წმ. გიორგის ეკლესია და მამათა მონასტერი",
+                  "text": "Ez a keresztény helyszín ge-tbilisi-botanical-garden-life-v2-ben egy Szent Györgynek szentelt hagyományos templom.",
+                  "category": "landmark",
+                  "coords": [
+                        44.815636,
+                        41.646887
+                  ]
+            },
+            {
+                  "name": "ამაღლების ეკლესია",
+                  "text": "Ez a ge-tbilisi-botanical-garden-life-v2-ben található keresztény helyszín a helyiek körében Mennybemenetel-templomként (Amaghleba) ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.78568,
+                        41.61738
+                  ]
+            },
+            {
+                  "name": "მამა დავითის ეკლესია",
+                  "text": "Ez a keresztény templom ge-tbilisi-botanical-garden-life-v2-ben a Dávid atyának szentelt vallási műemlékként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.818115,
+                        41.628458
+                  ]
+            },
+            {
+                  "name": "წმ. ნიკოლოზის ეკლესია",
+                  "text": "Ez a keresztény istentiszteleti hely ge-tbilisi-botanical-garden-life-v2-ben egy Szent Miklósnak szentelt ortodox templom.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797727,
+                        41.671394
+                  ]
+            },
+            {
+                  "name": "სამების წმ.სამების ეკლესია",
+                  "text": "Ez a keresztény helyszín ge-tbilisi-botanical-garden-life-v2-ben a Szentháromságnak szentelt kiemelkedő templom.",
+                  "category": "landmark",
+                  "coords": [
+                        44.77302,
+                        41.622465
+                  ]
+            },
+            {
+                  "name": "წმ. სპირიდონ ტრიმიფუნტელის სახ. ეკლესია",
+                  "text": "Ez a keresztény templom ge-tbilisi-botanical-garden-life-v2-ben hivatalosan Trimythousi Szent Szpiridonnak van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        44.796878,
+                        41.669852
+                  ]
+            },
+            {
+                  "name": "ზემო თელეთის ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "Ez a ge-tbilisi-botanical-garden-life-v2-ben található keresztény helyszín a Zemo Teleti-i Istenanya elszenderedése templom.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816925,
+                        41.644739
+                  ]
+            },
+            {
+                  "name": "წმ. გრიგოლ ხანძთელის სახ. მამათა მონასტერი",
+                  "text": "Ez a keresztény kolostor ge-tbilisi-botanical-garden-life-v2-ben Szent Grigol Khandzteli szerzetesi hagyományait ápolja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816272,
+                        41.668096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "დავიწყებული ხილის ხეივანი",
+                  "text": "Această atracție din ge-tbilisi-botanical-garden-life-v2 este o alee plantată cu soiuri de pomi fructiferi rare și uitate.",
+                  "category": "landmark",
+                  "coords": [
+                        44.799435,
+                        41.685371
+                  ]
+            },
+            {
+                  "name": "ეროვნული ბოტანიკური ბაღი",
+                  "text": "Această atracție botanică de patrimoniu din ge-tbilisi-botanical-garden-life-v2 datează din anii 1700.",
+                  "category": "landmark",
+                  "coords": [
+                        44.802786,
+                        41.685386
+                  ]
+            },
+            {
+                  "name": "Rosarium",
+                  "text": "Această atracție florală din ge-tbilisi-botanical-garden-life-v2 prezintă o grădină specializată dedicată în întregime diverselor tufe de trandafiri.",
+                  "category": "landmark",
+                  "coords": [
+                        44.805701,
+                        41.684905
+                  ]
+            },
+            {
+                  "name": "პარტერი",
+                  "text": "Această atracție peisagistică din ge-tbilisi-botanical-garden-life-v2 a fost creată în 1956 după designul lui გიორგი მანაგაძე.",
+                  "category": "landmark",
+                  "coords": [
+                        44.801757,
+                        41.68384
+                  ]
+            },
+            {
+                  "name": "თელეთის წმ. გიორგის ეკლესია და მამათა მონასტერი",
+                  "text": "Acest sit creștin din ge-tbilisi-botanical-garden-life-v2 este o biserică tradițională sfințită în numele Sfântului Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        44.815636,
+                        41.646887
+                  ]
+            },
+            {
+                  "name": "ამაღლების ეკლესია",
+                  "text": "Situat în ge-tbilisi-botanical-garden-life-v2, acest sit creștin este cunoscut local ca Biserica Înălțării (Amaghleba).",
+                  "category": "landmark",
+                  "coords": [
+                        44.78568,
+                        41.61738
+                  ]
+            },
+            {
+                  "name": "მამა დავითის ეკლესია",
+                  "text": "Această biserică creștină din ge-tbilisi-botanical-garden-life-v2 servește ca un monument religios dedicat Părintelui David.",
+                  "category": "landmark",
+                  "coords": [
+                        44.818115,
+                        41.628458
+                  ]
+            },
+            {
+                  "name": "წმ. ნიკოლოზის ეკლესია",
+                  "text": "Acest lăcaș de cult creștin din ge-tbilisi-botanical-garden-life-v2 este o biserică ortodoxă dedicată Sfântului Nicolae.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797727,
+                        41.671394
+                  ]
+            },
+            {
+                  "name": "სამების წმ.სამების ეკლესია",
+                  "text": "Acest sit creștin din ge-tbilisi-botanical-garden-life-v2 este o biserică proeminentă dedicată Sfintei Treimi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.77302,
+                        41.622465
+                  ]
+            },
+            {
+                  "name": "წმ. სპირიდონ ტრიმიფუნტელის სახ. ეკლესია",
+                  "text": "Această biserică creștină din ge-tbilisi-botanical-garden-life-v2 este dedicată oficial Sfântului Spiridon al Trimitundei.",
+                  "category": "landmark",
+                  "coords": [
+                        44.796878,
+                        41.669852
+                  ]
+            },
+            {
+                  "name": "ზემო თელეთის ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "Situat în ge-tbilisi-botanical-garden-life-v2, acest sit creștin este Biserica Adormirii Maicii Domnului din Zemo Teleti.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816925,
+                        41.644739
+                  ]
+            },
+            {
+                  "name": "წმ. გრიგოლ ხანძთელის სახ. მამათა მონასტერი",
+                  "text": "Acest mănăstire creștină din ge-tbilisi-botanical-garden-life-v2 continuă tradițiile monahale ale Sfântului Grigol Khandzteli.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816272,
+                        41.668096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forgotten Fruit Alley",
+                  "text": "This attraction in ge-tbilisi-botanical-garden-life-v2 is an alley planted with rare and forgotten fruit tree varieties.",
+                  "category": "landmark",
+                  "coords": [
+                        44.799435,
+                        41.685371
+                  ]
+            },
+            {
+                  "name": "National Botanical Garden",
+                  "text": "This heritage-listed botanical attraction in ge-tbilisi-botanical-garden-life-v2 dates back to the 1700s.",
+                  "category": "landmark",
+                  "coords": [
+                        44.802786,
+                        41.685386
+                  ]
+            },
+            {
+                  "name": "Rosarium",
+                  "text": "This floral attraction in ge-tbilisi-botanical-garden-life-v2 features a specialized garden dedicated entirely to diverse rose bushes.",
+                  "category": "landmark",
+                  "coords": [
+                        44.805701,
+                        41.684905
+                  ]
+            },
+            {
+                  "name": "Parterre",
+                  "text": "This landscaped attraction in ge-tbilisi-botanical-garden-life-v2 was created in 1956 following the design of გიორგი მანაგაძე.",
+                  "category": "landmark",
+                  "coords": [
+                        44.801757,
+                        41.68384
+                  ]
+            },
+            {
+                  "name": "Teleti Church of Saint George",
+                  "text": "This Christian site in ge-tbilisi-botanical-garden-life-v2 is a traditional church consecrated to Saint George.",
+                  "category": "landmark",
+                  "coords": [
+                        44.815636,
+                        41.646887
+                  ]
+            },
+            {
+                  "name": "Church of Amaghleba",
+                  "text": "Located in ge-tbilisi-botanical-garden-life-v2, this Christian site is known locally as the Church of the Ascension (Amaghleba).",
+                  "category": "landmark",
+                  "coords": [
+                        44.78568,
+                        41.61738
+                  ]
+            },
+            {
+                  "name": "Church of Father David",
+                  "text": "This Christian church in ge-tbilisi-botanical-garden-life-v2 serves as a religious monument dedicated to Father David.",
+                  "category": "landmark",
+                  "coords": [
+                        44.818115,
+                        41.628458
+                  ]
+            },
+            {
+                  "name": "წმ. ნიკოლოზის ეკლესია",
+                  "text": "This Christian place of worship in ge-tbilisi-botanical-garden-life-v2 is an Orthodox church dedicated to St. Nicholas.",
+                  "category": "landmark",
+                  "coords": [
+                        44.797727,
+                        41.671394
+                  ]
+            },
+            {
+                  "name": "Holy Trinity chrurch",
+                  "text": "This Christian site in ge-tbilisi-botanical-garden-life-v2 is a prominent church dedicated to the Holy Trinity.",
+                  "category": "landmark",
+                  "coords": [
+                        44.77302,
+                        41.622465
+                  ]
+            },
+            {
+                  "name": "წმ. სპირიდონ ტრიმიფუნტელის სახ. ეკლესია",
+                  "text": "This Christian church in ge-tbilisi-botanical-garden-life-v2 is formally dedicated to St. Spyridon of Trimythous.",
+                  "category": "landmark",
+                  "coords": [
+                        44.796878,
+                        41.669852
+                  ]
+            },
+            {
+                  "name": "ზემო თელეთის ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "Located in ge-tbilisi-botanical-garden-life-v2, this Christian site is the Zemo Teleti Church of the Dormition of the Mother of God.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816925,
+                        41.644739
+                  ]
+            },
+            {
+                  "name": "St. Grigol Khandzteli Monastery",
+                  "text": "This Christian monastery in ge-tbilisi-botanical-garden-life-v2 continues the monastic traditions of St. Grigol Khandzteli.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816272,
+                        41.668096
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "GE-TB",
     coords: [44.8055, 41.6853],
@@ -561,7 +2748,664 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-rike-park-life-v2",
+    id: "ge-rike-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "მახათა",
+                  "text": "Ein markanter Hügel im Osten von Tiflis, auf dem die beeindruckende neue Kathedrale der Iveron-Ikone steht.",
+                  "category": "natural",
+                  "coords": [
+                        44.828553,
+                        41.706216
+                  ]
+            },
+            {
+                  "name": "შაქრიანი",
+                  "text": "Eine natürliche Erhebung am Stadtrand, die Wanderern einen weiten Blick über die umliegende georgische Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.836347,
+                        41.704394
+                  ]
+            },
+            {
+                  "name": "Air Balloon Tbilisi",
+                  "text": "Dieser gefesselte Heliumballon im Rike-Park steigt auf 150 Meter auf und bietet einen Panoramablick über die Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.810104,
+                        41.692391
+                  ]
+            },
+            {
+                  "name": "ფორაქიშვილების დარბაზი",
+                  "text": "Ein historischer Saal aus dem 19. Jahrhundert, der heute als Raum für kulturelle Ausstellungen und Veranstaltungen dient.",
+                  "category": "museum",
+                  "coords": [
+                        44.812768,
+                        41.690772
+                  ]
+            },
+            {
+                  "name": "წმინდა სამების საკათედრო ტაძარი",
+                  "text": "Die größte Kirche Georgiens, ein monumentaler Kathedralkomplex, der zwischen 1995 und 2004 auf dem Elia-Hügel errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816541,
+                        41.697553
+                  ]
+            },
+            {
+                  "name": "ელია წინასწარმეტყველის სახელობის ეკლესია",
+                  "text": "Eine kleine orthodoxe Kirche, die malerisch an den Hängen des Machata-Berges über der Stadt thront.",
+                  "category": "landmark",
+                  "coords": [
+                        44.8166,
+                        41.696608
+                  ]
+            },
+            {
+                  "name": "მახათის ივერიის ღვთისმშობლის ხატის სახელობის ტაძარი",
+                  "text": "Diese imposante Kathedrale mit ihrer goldenen Kuppel auf dem Machata-Hügel ist weithin im Stadtbild von Tiflis sichtbar.",
+                  "category": "religious",
+                  "coords": [
+                        44.841006,
+                        41.714046
+                  ]
+            },
+            {
+                  "name": "წმინდა სერგოს ეკლესია",
+                  "text": "Eine im Jahr 1895 errichtete armenisch-apostolische Kirche im historischen Viertel Avlabari.",
+                  "category": "religious",
+                  "coords": [
+                        44.813739,
+                        41.692558
+                  ]
+            },
+            {
+                  "name": "წმინდა მინას სახელობის ეკლესია",
+                  "text": "Die Ruinen einer historischen armenischen Kirche im Viertel Avlabari, die von der multikulturellen Vergangenheit der Stadt zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        44.812073,
+                        41.693585
+                  ]
+            },
+            {
+                  "name": "ავლაბრის წმინდა მარინეს ეკლესია",
+                  "text": "Eine orthodoxe Kirche aus der Mitte des 19. Jahrhunderts, die sich im Herzen des traditionellen Avlabari-Viertels befindet.",
+                  "category": "religious",
+                  "coords": [
+                        44.813434,
+                        41.693643
+                  ]
+            },
+            {
+                  "name": "Metekhi Brücke",
+                  "text": "Diese historische Brücke verbindet die Altstadt mit dem Metekhi-Felsen und bietet einen freien Blick auf die Reiterstatue von König Wachtang I.",
+                  "category": "landmark",
+                  "coords": [
+                        44.810032,
+                        41.690349
+                  ]
+            },
+            {
+                  "name": "თბილისის შამქორელთა ღვთისმშობლის ეკლესია",
+                  "text": "Die Ruinen dieser einst majestätischen armenischen Kirche sind für ihren ehemals hohen Glockenturm bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        44.814649,
+                        41.691094
+                  ]
+            },
+            {
+                  "name": "წმ.გიორგის სახელობის ეკლესია",
+                  "text": "Eine traditionelle georgisch-orthodoxe Steinkirche, die dem Heiligen Georg geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.855308,
+                        41.694186
+                  ]
+            },
+            {
+                  "name": "აღდგომის სახელობის ტაძარი",
+                  "text": "Eine georgisch-orthodoxe Kirche, die der Auferstehung Christi gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.827309,
+                        41.69274
+                  ]
+            },
+            {
+                  "name": "მახათას იოანე,ექვთიმე და გიორგი მთაწმინდელების სახელობის ეკლესია",
+                  "text": "Diese auf dem Berg Machata gelegene Kirche ist den heiligen Vätern vom Berg Athos gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.837939,
+                        41.711396
+                  ]
+            },
+            {
+                  "name": "ივერიის ღვთისმშობლის ხატის ეკლესია",
+                  "text": "Diese orthodoxe Kirche ist der berühmten Ikone der Gottesmutter von Iviron gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.81406,
+                        41.697583
+                  ]
+            },
+            {
+                  "name": "ავლაბრის ფერისცვალების ეკლესია",
+                  "text": "Eine malerische Kirche im historischen Stadtteil Awlabari, die der Verklärung des Herrn gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.812688,
+                        41.691691
+                  ]
+            },
+            {
+                  "name": "სვანების ბაზრობა",
+                  "text": "Ein lebhafter lokaler Markt, auf dem traditionell Produkte aus der Bergregion Swanetien angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        44.869232,
+                        41.700221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "მახათა",
+                  "text": "Egy jellegzetes domb Kelet-Tbilisziben, amelyen az impozáns új Iveroni Istenszülő-székesegyház áll.",
+                  "category": "natural",
+                  "coords": [
+                        44.828553,
+                        41.706216
+                  ]
+            },
+            {
+                  "name": "შაქრიანი",
+                  "text": "Egy természetes magaslat a város szélén, amely tágas kilátást nyújt a túrázóknak a környező grúz tájra.",
+                  "category": "natural",
+                  "coords": [
+                        44.836347,
+                        41.704394
+                  ]
+            },
+            {
+                  "name": "Air Balloon Tbilisi",
+                  "text": "Ez a Rike parkban található rögzített héliumballon 150 méter magasba emelkedik, panorámás kilátást nyújtva az óvárosra.",
+                  "category": "landmark",
+                  "coords": [
+                        44.810104,
+                        41.692391
+                  ]
+            },
+            {
+                  "name": "ფორაქიშვილების დარბაზი",
+                  "text": "Egy 19. századi történelmi terem, amely ma kulturális kiállítások és események helyszínéül szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        44.812768,
+                        41.690772
+                  ]
+            },
+            {
+                  "name": "წმინდა სამების საკათედრო ტაძარი",
+                  "text": "Grúzia legnagyobb temploma, egy monumentális székesegyház-együttes, amely 1995 és 2004 között épült az Elia-dombon.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816541,
+                        41.697553
+                  ]
+            },
+            {
+                  "name": "ელია წინასწარმეტყველის სახელობის ეკლესია",
+                  "text": "Egy kisméretű ortodox templom, amely festői környezetben, a Mahata-hegy lankáin magasodik a város fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        44.8166,
+                        41.696608
+                  ]
+            },
+            {
+                  "name": "მახათის ივერიის ღვთისმშობლის ხატის სახელობის ტაძარი",
+                  "text": "Ez az impozáns, aranykupolás székesegyház a Mahata-dombon messziről látható Tbiliszi városképében.",
+                  "category": "religious",
+                  "coords": [
+                        44.841006,
+                        41.714046
+                  ]
+            },
+            {
+                  "name": "წმინდა სერგოს ეკლესია",
+                  "text": "Egy 1895-ben épült örmény apostoli templom a történelmi Avlabari negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        44.813739,
+                        41.692558
+                  ]
+            },
+            {
+                  "name": "წმინდა მინას სახელობის ეკლესია",
+                  "text": "Egy történelmi örmény templom romjai Avlabari negyedben, amelyek a város multikulturális múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        44.812073,
+                        41.693585
+                  ]
+            },
+            {
+                  "name": "ავლაბრის წმინდა მარინეს ეკლესია",
+                  "text": "Egy 19. század közepén épült ortodox templom, amely a hagyományos Avlabari negyed szívében található.",
+                  "category": "religious",
+                  "coords": [
+                        44.813434,
+                        41.693643
+                  ]
+            },
+            {
+                  "name": "მეტეხის ხიდი",
+                  "text": "Ez a történelmi híd köti össze az óvárost a Metekhi-sziklával, zavartalan kilátást nyújtva I. Vahtang király lovas szobrára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.810032,
+                        41.690349
+                  ]
+            },
+            {
+                  "name": "თბილისის შამქორელთა ღვთისმშობლის ეკლესია",
+                  "text": "Az egykor monumentális örmény templom romjai híresek korábbi magas harangtornyukról.",
+                  "category": "historical",
+                  "coords": [
+                        44.814649,
+                        41.691094
+                  ]
+            },
+            {
+                  "name": "წმ.გიორგის სახელობის ეკლესია",
+                  "text": "Egy hagyományos grúz ortodox kőtemplom, amelyet Szent György tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.855308,
+                        41.694186
+                  ]
+            },
+            {
+                  "name": "აღდგომის სახელობის ტაძარი",
+                  "text": "Egy grúz ortodox templom, amelyet Krisztus feltámadásának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.827309,
+                        41.69274
+                  ]
+            },
+            {
+                  "name": "მახათას იოანე,ექვთიმე და გიორგი მთაწმინდელების სახელობის ეკლესია",
+                  "text": "Ez a Makhata-hegyen található templom az athoszi szent atyáknak van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        44.837939,
+                        41.711396
+                  ]
+            },
+            {
+                  "name": "ივერიის ღვთისმშობლის ხატის ეკლესია",
+                  "text": "Ez az ortodox templom az Ivironi Szűzanya híres ikonjának van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        44.81406,
+                        41.697583
+                  ]
+            },
+            {
+                  "name": "ავლაბრის ფერისცვალების ეკლესია",
+                  "text": "Egy festői templom a történelmi Avlabari negyedben, amelyet az Úr színeváltozásának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.812688,
+                        41.691691
+                  ]
+            },
+            {
+                  "name": "სვანების ბაზრობა",
+                  "text": "Egy nyüzsgő helyi piac, ahol hagyományosan a szvanéti hegyi régióból származó termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        44.869232,
+                        41.700221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "მახათა",
+                  "text": "Un deal proeminent în estul orașului Tbilisi, pe care se află impresionanta nouă catedrală a Icoanei Maicii Domnului din Iviron.",
+                  "category": "natural",
+                  "coords": [
+                        44.828553,
+                        41.706216
+                  ]
+            },
+            {
+                  "name": "შაქრიანი",
+                  "text": "O înălțime naturală la marginea orașului, care oferă drumeților o vedere panoramică asupra peisajului georgian din jur.",
+                  "category": "natural",
+                  "coords": [
+                        44.836347,
+                        41.704394
+                  ]
+            },
+            {
+                  "name": "Air Balloon Tbilisi",
+                  "text": "Acest balon cu heliu ancorat din parcul Rike se ridică la 150 de metri, oferind o vedere panoramică asupra orașului vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.810104,
+                        41.692391
+                  ]
+            },
+            {
+                  "name": "ფორაქიშვილების დარბაზი",
+                  "text": "O sală istorică din secolul al XIX-lea, care servește astăzi ca spațiu pentru expoziții și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        44.812768,
+                        41.690772
+                  ]
+            },
+            {
+                  "name": "წმინდა სამების საკათედრო ტაძარი",
+                  "text": "Cea mai mare biserică din Georgia, un complex catedralic monumental construit între 1995 și 2004 pe dealul Elia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816541,
+                        41.697553
+                  ]
+            },
+            {
+                  "name": "ელია წინასწარმეტყველის სახელობის ეკლესია",
+                  "text": "O mică biserică ortodoxă, situată pitoresc pe pantele muntelui Makhata, deasupra orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.8166,
+                        41.696608
+                  ]
+            },
+            {
+                  "name": "მახათის ივერიის ღვთისმშობლის ხატის სახელობის ტაძარი",
+                  "text": "Această catedrală impunătoare cu cupolă aurie de pe dealul Makhata este vizibilă de departe în peisajul urban din Tbilisi.",
+                  "category": "religious",
+                  "coords": [
+                        44.841006,
+                        41.714046
+                  ]
+            },
+            {
+                  "name": "წმინდა სერგოს ეკლესია",
+                  "text": "O biserică apostolică armeană construită în anul 1895 în cartierul istoric Avlabari.",
+                  "category": "religious",
+                  "coords": [
+                        44.813739,
+                        41.692558
+                  ]
+            },
+            {
+                  "name": "წმინდა მინას სახელობის ეკლესია",
+                  "text": "Ruinele unei biserici armenești istorice din cartierul Avlabari, care atestă trecutul multicultural al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        44.812073,
+                        41.693585
+                  ]
+            },
+            {
+                  "name": "ავლაბრის წმინდა მარინეს ეკლესია",
+                  "text": "O biserică ortodoxă de la mijlocul secolului al XIX-lea, situată în inima cartierului tradițional Avlabari.",
+                  "category": "religious",
+                  "coords": [
+                        44.813434,
+                        41.693643
+                  ]
+            },
+            {
+                  "name": "მეტეხის ხიდი",
+                  "text": "Acest pod istoric leagă orașul vechi de stânca Metekhi și oferă o vedere clară către statuia ecvestră a regelui Vakhtang I.",
+                  "category": "landmark",
+                  "coords": [
+                        44.810032,
+                        41.690349
+                  ]
+            },
+            {
+                  "name": "თბილისის შამქორელთა ღვთისმშობლის ეკლესია",
+                  "text": "Ruinele acestei biserici armenești, odinioară cea mai înaltă din oraș, păstrează amintirea unei structuri monumentale.",
+                  "category": "historical",
+                  "coords": [
+                        44.814649,
+                        41.691094
+                  ]
+            },
+            {
+                  "name": "წმ.გიორგის სახელობის ეკლესია",
+                  "text": "O biserică ortodoxă tradițională din piatră, închinată Sfântului Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        44.855308,
+                        41.694186
+                  ]
+            },
+            {
+                  "name": "აღდგომის სახელობის ტაძარი",
+                  "text": "O biserică ortodoxă georgiană dedicată Învierii Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.827309,
+                        41.69274
+                  ]
+            },
+            {
+                  "name": "მახათას იოანე,ექვთიმე და გიორგი მთაწმინდელების სახელობის ეკლესია",
+                  "text": "Această biserică situată pe muntele Makhata este dedicată sfinților părinți de la muntele Athos.",
+                  "category": "landmark",
+                  "coords": [
+                        44.837939,
+                        41.711396
+                  ]
+            },
+            {
+                  "name": "ივერიის ღვთისმშობლის ხატის ეკლესია",
+                  "text": "Această biserică ortodoxă este dedicată celebrei icoane a Maicii Domnului de la Iviron.",
+                  "category": "landmark",
+                  "coords": [
+                        44.81406,
+                        41.697583
+                  ]
+            },
+            {
+                  "name": "ავლაბრის ფერისცვალების ეკლესია",
+                  "text": "O biserică pitorească din cartierul istoric Avlabari, dedicată Schimbării la Față.",
+                  "category": "landmark",
+                  "coords": [
+                        44.812688,
+                        41.691691
+                  ]
+            },
+            {
+                  "name": "სვანების ბაზრობა",
+                  "text": "O piață locală vibrantă unde se vând în mod tradițional produse din regiunea montană Svaneti.",
+                  "category": "cultural",
+                  "coords": [
+                        44.869232,
+                        41.700221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makhata",
+                  "text": "A prominent hill in eastern Tbilisi that is home to the impressive new Cathedral of the Iveron Icon.",
+                  "category": "natural",
+                  "coords": [
+                        44.828553,
+                        41.706216
+                  ]
+            },
+            {
+                  "name": "Shakriani",
+                  "text": "A natural elevation on the city outskirts offering hikers wide views over the surrounding Georgian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        44.836347,
+                        41.704394
+                  ]
+            },
+            {
+                  "name": "Air Balloon Tbilisi",
+                  "text": "This tethered helium balloon in Rike Park rises to 150 metres, providing panoramic views over the old town.",
+                  "category": "landmark",
+                  "coords": [
+                        44.810104,
+                        41.692391
+                  ]
+            },
+            {
+                  "name": "ფორაქიშვილების დარბაზი",
+                  "text": "A historic 19th-century hall that now serves as a space for cultural exhibitions and events.",
+                  "category": "museum",
+                  "coords": [
+                        44.812768,
+                        41.690772
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral of Tbilisi",
+                  "text": "The largest church in Georgia, a monumental cathedral complex built between 1995 and 2004 on Elia Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        44.816541,
+                        41.697553
+                  ]
+            },
+            {
+                  "name": "Church of Elijah the Prophet",
+                  "text": "A small Orthodox church picturesquely situated on the slopes of Mount Makhata overlooking the city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.8166,
+                        41.696608
+                  ]
+            },
+            {
+                  "name": "Cathedral of Iveria Icon of the Blessed Virgin Mary",
+                  "text": "This imposing golden-domed cathedral on Makhata hill is visible from afar across the Tbilisi skyline.",
+                  "category": "religious",
+                  "coords": [
+                        44.841006,
+                        41.714046
+                  ]
+            },
+            {
+                  "name": "New Ejmiadzin Armenian Apostolic Church",
+                  "text": "An Armenian Apostolic church built in 1895 located in the historic Avlabari district.",
+                  "category": "religious",
+                  "coords": [
+                        44.813739,
+                        41.692558
+                  ]
+            },
+            {
+                  "name": "St. Minas Church",
+                  "text": "The ruins of a historic Armenian church in the Avlabari district, testifying to the city's multicultural past.",
+                  "category": "historical",
+                  "coords": [
+                        44.812073,
+                        41.693585
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Great Martyr Marina",
+                  "text": "An Orthodox church dating back to the mid-19th century, located in the heart of the traditional Avlabari neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        44.813434,
+                        41.693643
+                  ]
+            },
+            {
+                  "name": "Metekhi Bridge",
+                  "text": "This historic bridge connects the Old Town with the Metekhi cliff and offers a clear view of the equestrian statue of King Vakhtang I.",
+                  "category": "landmark",
+                  "coords": [
+                        44.810032,
+                        41.690349
+                  ]
+            },
+            {
+                  "name": "Church of the Red Gospel",
+                  "text": "These ruins of an Armenian church were once the site of the tallest religious building in Tbilisi.",
+                  "category": "historical",
+                  "coords": [
+                        44.814649,
+                        41.691094
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "A traditional stone-built Georgian Orthodox church dedicated to Saint George.",
+                  "category": "landmark",
+                  "coords": [
+                        44.855308,
+                        41.694186
+                  ]
+            },
+            {
+                  "name": "აღდგომის სახელობის ტაძარი",
+                  "text": "A Georgian Orthodox church dedicated to the Resurrection of Christ.",
+                  "category": "landmark",
+                  "coords": [
+                        44.827309,
+                        41.69274
+                  ]
+            },
+            {
+                  "name": "მახათას იოანე,ექვთიმე და გიორგი მთაწმინდელების სახელობის ეკლესია",
+                  "text": "Situated on Makhata Mountain, this church is dedicated to the holy Athonite fathers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.837939,
+                        41.711396
+                  ]
+            },
+            {
+                  "name": "Church of the Theotokos of Iveron",
+                  "text": "This Orthodox church is dedicated to the renowned icon of the Virgin Mary of Iveron.",
+                  "category": "landmark",
+                  "coords": [
+                        44.81406,
+                        41.697583
+                  ]
+            },
+            {
+                  "name": "Transfiguration Church in Avlabri",
+                  "text": "A picturesque church in the historic Avlabari district, dedicated to the Transfiguration.",
+                  "category": "landmark",
+                  "coords": [
+                        44.812688,
+                        41.691691
+                  ]
+            },
+            {
+                  "name": "სვანების ბაზრობა",
+                  "text": "A vibrant local marketplace traditionally known for products from the Svaneti mountain region.",
+                  "category": "cultural",
+                  "coords": [
+                        44.869232,
+                        41.700221
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "GE-TB",
     coords: [44.8105, 41.6925],
@@ -597,7 +3441,1384 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-vake-park-life-v2",
+    id: "ge-vake-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ethnographisches Museum am Schildkrötensee",
+                  "text": "Ein 1966 eröffnetes Freilichtmuseum mit traditionellen Häusern aus allen Regionen Georgiens.",
+                  "category": "museum",
+                  "coords": [
+                        44.743464,
+                        41.701541
+                  ]
+            },
+            {
+                  "name": "ივანე ჯავახიშვილის ხიდი",
+                  "text": "Eine moderne Brücke, die nach dem bedeutenden georgischen Historiker Ivane Javakhishvili benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.722869,
+                        41.714844
+                  ]
+            },
+            {
+                  "name": "უძო",
+                  "text": "Ein markanter Berggipfel bei Tiflis, der für sein Kloster und weite Panoramablicke bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.70122,
+                        41.675662
+                  ]
+            },
+            {
+                  "name": "აზეულა",
+                  "text": "Der Gipfel des Azeula-Berges beherbergt die Ruinen der strategischen Kodzsori-Festung.",
+                  "category": "natural",
+                  "coords": [
+                        44.692126,
+                        41.640568
+                  ]
+            },
+            {
+                  "name": "ვაკის პარკი",
+                  "text": "Ein großer Stadtpark mit einer monumentalen Kaskadenfontäne und einem Kriegerdenkmal.",
+                  "category": "park",
+                  "coords": [
+                        44.748612,
+                        41.708787
+                  ]
+            },
+            {
+                  "name": "უძოს წმინდა გიორგის ეკლესია",
+                  "text": "Eine mittelalterliche Kirche auf dem Udzo-Gipfel, die als nationales Denkmal geschützt ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.700111,
+                        41.673775
+                  ]
+            },
+            {
+                  "name": "ნამურის სერი",
+                  "text": "Ein hoher Gipfel in der Gebirgskette bei Vake, der Ausblicke über das Umland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.688392,
+                        41.670039
+                  ]
+            },
+            {
+                  "name": "ბაია გალერეა",
+                  "text": "Eine Galerie für zeitgenössische Kunst, die Werke georgischer Maler und Bildhauer präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        44.757807,
+                        41.707554
+                  ]
+            },
+            {
+                  "name": "სვანური კოშკი",
+                  "text": "Ein authentischer mittelalterlicher Wehrturm, der aus der Bergregion Swanetien hierher versetzt wurde.",
+                  "category": "castle",
+                  "coords": [
+                        44.747682,
+                        41.699036
+                  ]
+            },
+            {
+                  "name": "დიდი სამამულო ომის მემორიალი",
+                  "text": "Ein monumentales Denkmal im Vake-Park, das an den Sieg im Großen Vaterländischen Krieg erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        44.751533,
+                        41.706445
+                  ]
+            },
+            {
+                  "name": "მიხეილ ვორონცოვის აგარაკი",
+                  "text": "Ein im Jahr 1852 erbauter herrschaftlicher Landsitz des ehemaligen Vizekönigs Michail Woronzow.",
+                  "category": "historical",
+                  "coords": [
+                        44.70418,
+                        41.663269
+                  ]
+            },
+            {
+                  "name": "მუზა",
+                  "text": "Ein Kulturzentrum in Vake, das Ausstellungen und künstlerische Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        44.741916,
+                        41.708215
+                  ]
+            },
+            {
+                  "name": "თაკარა",
+                  "text": "Ein lokales Theater, das für seine Aufführungen zeitgenössischer georgischer Dramatik bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.684935,
+                        41.719733
+                  ]
+            },
+            {
+                  "name": "EYESTAGE",
+                  "text": "Eine experimentelle Bühne, die moderne Theaterformen und Performance-Kunst in Tiflis zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        44.712431,
+                        41.747105
+                  ]
+            },
+            {
+                  "name": "ქავთარაძის ბაზარი",
+                  "text": "Ein lebhafter Markt mit einer großen Auswahl an frischem georgischem Obst, Gemüse und Käse.",
+                  "category": "cultural",
+                  "coords": [
+                        44.738067,
+                        41.722064
+                  ]
+            },
+            {
+                  "name": "ხის ქსილოფონი",
+                  "text": "Ein spielerisches Klangobjekt aus Holz im Park, das Besucher zum Musizieren einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.750379,
+                        41.696158
+                  ]
+            },
+            {
+                  "name": "საცხოვრებელი კომპლექსი \"შატილი\"",
+                  "text": "Drei sowjetische Wohnblöcke, die spektakulär durch Fußgängerbrücken in großer Höhe verbunden sind.",
+                  "category": "landmark",
+                  "coords": [
+                        44.71906,
+                        41.726143
+                  ]
+            },
+            {
+                  "name": "ქვევრი",
+                  "text": "Ein großes Monument in Form eines traditionellen georgischen Tongefäßes für die Weinbereitung.",
+                  "category": "landmark",
+                  "coords": [
+                        44.738871,
+                        41.730471
+                  ]
+            },
+            {
+                  "name": "ახალდაბის წმ. გიორგის ეკლესია",
+                  "text": "Eine christliche Kirche in Akhalidaba, die dem Heiligen Georg gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.663337,
+                        41.685882
+                  ]
+            },
+            {
+                  "name": "ლისის წმ. გიორგის ეკლესია",
+                  "text": "Diese dem Heiligen Georg geweihte Kirche befindet sich in der Nähe des beliebten Lisi-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        44.671567,
+                        41.756653
+                  ]
+            },
+            {
+                  "name": "მამათა მონასტერი\"ლისიონი\"",
+                  "text": "Ein georgisch-orthodoxes Mönchskloster in der Nähe des Lisi-Sees, das für seine ruhige Lage bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.670463,
+                        41.756181
+                  ]
+            },
+            {
+                  "name": "ლისის წმ. ევსტატი პლაკიდას სახელობის ეკლესია",
+                  "text": "Diese dem Heiligen Eustathius gewidmete Steinkirche dient der lokalen Gemeinde im Dorf Lisi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.681364,
+                        41.758253
+                  ]
+            },
+            {
+                  "name": "სამების ეკლესია",
+                  "text": "Ein traditionelles georgisch-orthodoxes Gotteshaus, das auf den Hügeln nahe dem Lisi-See errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        44.758266,
+                        41.7114
+                  ]
+            },
+            {
+                  "name": "ანდრია პირველწოდებულის სახელობის ეკლესია",
+                  "text": "Eine dem Apostel Andreas dem Erstberufenen gewidmete Kirche, die im klassischen georgischen Stil erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        44.762916,
+                        41.710875
+                  ]
+            },
+            {
+                  "name": "წმ. გრიგოლ ხანძთელის სახ. ტაძარი",
+                  "text": "Dieses Heiligtum ist nach Gregor von Khandzta benannt, einem bedeutenden georgischen Erleuchter aus dem 8. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.757974,
+                        41.722007
+                  ]
+            },
+            {
+                  "name": "წმ. ანტონ მარტყოფელის სახელობის ეკლესია",
+                  "text": "Benannt nach Anton von Martqopi, einem der Dreizehn Syrischen Väter, die das Mönchtum in Georgien begründeten.",
+                  "category": "landmark",
+                  "coords": [
+                        44.760049,
+                        41.720912
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს ეკლესია",
+                  "text": "Eine der Heiligen Nino gewidmete Kirche, die an die Missionarin erinnert, die das Christentum nach Georgien brachte.",
+                  "category": "landmark",
+                  "coords": [
+                        44.743105,
+                        41.716243
+                  ]
+            },
+            {
+                  "name": "წმინდა გიორგის ტაძარი",
+                  "text": "Eine kleine Kapelle aus Stein, die dem Heiligen Georg, dem Schutzpatron Georgiens, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.67151,
+                        41.745702
+                  ]
+            },
+            {
+                  "name": "ცამეტი ასურელი მამის სახელობის ეკლესია",
+                  "text": "Dieses Gotteshaus erinnert an die 13 syrischen Mönche, die im 6. Jahrhundert das christliche Leben in Georgien stärkten.",
+                  "category": "landmark",
+                  "coords": [
+                        44.721343,
+                        41.736483
+                  ]
+            },
+            {
+                  "name": "მირქმის სახელობის ეკლესია",
+                  "text": "Eine orthodoxe Kirche, die das Fest der Darstellung des Herrn im Tempel feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.723877,
+                        41.729154
+                  ]
+            },
+            {
+                  "name": "ევანგელური ეკლესია\"სიცოცხლის სიტყვა\"",
+                  "text": "Eine moderne evangelische Kirche im Viertel, die als Treffpunkt der Gemeinde \"Wort des Lebens\" dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.731375,
+                        41.731619
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზ მიქაელის სახელობის ეკლესია",
+                  "text": "Ein dem Erzengel Michael gewidmetes georgisch-orthodoxes Gotteshaus mit traditioneller sakraler Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        44.734408,
+                        41.734056
+                  ]
+            },
+            {
+                  "name": "წმინდა ქალწულმოწამე ბარბარეს ეკლესია",
+                  "text": "Ein lokales Heiligtum, das der Heiligen Barbara gewidmet ist, einer in Georgien sehr verehrten Märtyrerin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.73227,
+                        41.723698
+                  ]
+            },
+            {
+                  "name": "სამების ეკლესია",
+                  "text": "Eine der Heiligen Dreifaltigkeit gewidmete Kapelle, die als friedlicher Rückzugsort für die Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.731081,
+                        41.714863
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "Eine der Jungfrau Maria gewidmete Kirche, die nach der charakteristischen georgischen Kreuzkuppelbauweise errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        44.711826,
+                        41.659545
+                  ]
+            },
+            {
+                  "name": "View on Saburtalo",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick über das dicht besiedelte Saburtalo-Wohnviertel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.706562,
+                        41.711328
+                  ]
+            },
+            {
+                  "name": "კოჯრის ბაღი",
+                  "text": "Dieser denkmalgeschützte Garten in Kojori bietet historische Parkanlagen und schattige Alleen.",
+                  "category": "park",
+                  "coords": [
+                        44.705563,
+                        41.663362
+                  ]
+            },
+            {
+                  "name": "ლისი რეკრეაცია",
+                  "text": "Ein beliebtes Erholungsgebiet am Lisi-See mit Stränden, Wanderwegen und Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        44.739345,
+                        41.741534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "სახელმწიფო ეთნოგრაფიული მუზეუმი",
+                  "text": "1966-ban nyílt szabadtéri múzeum, amely Grúzia minden régiójából mutat be népi épületeket.",
+                  "category": "museum",
+                  "coords": [
+                        44.743464,
+                        41.701541
+                  ]
+            },
+            {
+                  "name": "ივანე ჯავახიშვილის ხიდი",
+                  "text": "A neves grúz történészről, Ivane Javakhishviliről elnevezett modern híd.",
+                  "category": "landmark",
+                  "coords": [
+                        44.722869,
+                        41.714844
+                  ]
+            },
+            {
+                  "name": "უძო",
+                  "text": "Tbiliszi melletti hegycsúcs, amely kolostoráról és széles panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.70122,
+                        41.675662
+                  ]
+            },
+            {
+                  "name": "აზეულა",
+                  "text": "Az Azeula-hegy csúcsa, ahol a stratégiai fontosságú Kodzsori erőd romjai találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        44.692126,
+                        41.640568
+                  ]
+            },
+            {
+                  "name": "ვაკის პარკი",
+                  "text": "Nagy városi park monumentális lépcsőzetes szökőkúttal és háborús emlékművel.",
+                  "category": "park",
+                  "coords": [
+                        44.748612,
+                        41.708787
+                  ]
+            },
+            {
+                  "name": "უძოს წმინდა გიორგის ეკლესია",
+                  "text": "Az Udzo-csúcson található középkori templom, amely nemzeti műemlékvédelem alatt áll.",
+                  "category": "religious",
+                  "coords": [
+                        44.700111,
+                        41.673775
+                  ]
+            },
+            {
+                  "name": "ნამურის სერი",
+                  "text": "A Vake környéki hegyvonulat egyik csúcsa, ahonnan kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        44.688392,
+                        41.670039
+                  ]
+            },
+            {
+                  "name": "ბაია გალერეა",
+                  "text": "Kortárs művészeti galéria, amely grúz festők és szobrászok alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.757807,
+                        41.707554
+                  ]
+            },
+            {
+                  "name": "სვანური კოშკი",
+                  "text": "Eredeti középkori védőtorony, amelyet a hegyvidéki Szvanétiából szállítottak ide.",
+                  "category": "castle",
+                  "coords": [
+                        44.747682,
+                        41.699036
+                  ]
+            },
+            {
+                  "name": "დიდი სამამულო ომის მემორიალი",
+                  "text": "A Vake Parkban található monumentális emlékmű a Nagy Honvédő Háború győzelmének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        44.751533,
+                        41.706445
+                  ]
+            },
+            {
+                  "name": "მიხეილ ვორონცოვის აგარაკი",
+                  "text": "Mihail Voroncov egykori alkirály 1852-ben épült uradalmi nyaralója.",
+                  "category": "historical",
+                  "coords": [
+                        44.70418,
+                        41.663269
+                  ]
+            },
+            {
+                  "name": "მუზა",
+                  "text": "Kulturális központ Vakéban, amely kiállításoknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        44.741916,
+                        41.708215
+                  ]
+            },
+            {
+                  "name": "თაკარა",
+                  "text": "Helyi színház, amely kortárs grúz drámák bemutatásáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.684935,
+                        41.719733
+                  ]
+            },
+            {
+                  "name": "EYESTAGE",
+                  "text": "Kísérleti színpad, amely modern színházi formákat és előadóművészetet mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        44.712431,
+                        41.747105
+                  ]
+            },
+            {
+                  "name": "ქავთარაძის ბაზარი",
+                  "text": "Nyüzsgő piac friss grúz gyümölcsök, zöldségek és sajtok széles választékával.",
+                  "category": "cultural",
+                  "coords": [
+                        44.738067,
+                        41.722064
+                  ]
+            },
+            {
+                  "name": "ხის ქსილოფონი",
+                  "text": "A parkban található játékos fa hangszer, amely zenélésre hívja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.750379,
+                        41.696158
+                  ]
+            },
+            {
+                  "name": "საცხოვრებელი კომპლექსი \"შატილი\"",
+                  "text": "Három szovjet lakótömb, amelyeket látványos, nagy magasságban lévő gyalogoshidak kötnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        44.71906,
+                        41.726143
+                  ]
+            },
+            {
+                  "name": "ქვევრი",
+                  "text": "Hagyományos grúz agyag borászedényt (kvevri) formázó nagyméretű emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        44.738871,
+                        41.730471
+                  ]
+            },
+            {
+                  "name": "ახალდაბის წმ. გიორგის ეკლესია",
+                  "text": "Szent György tiszteletére szentelt keresztény templom Ahalidabában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.663337,
+                        41.685882
+                  ]
+            },
+            {
+                  "name": "ლისის წმ. გიორგის ეკლესია",
+                  "text": "A népszerű Liszi-tó közelében található, Szent Györgynek szentelt templom.",
+                  "category": "landmark",
+                  "coords": [
+                        44.671567,
+                        41.756653
+                  ]
+            },
+            {
+                  "name": "მამათა მონასტერი\"ლისიონი\"",
+                  "text": "A Lisi-tó környékén található grúz ortodox férfikolostor, amely nyugodt környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.670463,
+                        41.756181
+                  ]
+            },
+            {
+                  "name": "ლისის წმ. ევსტატი პლაკიდას სახელობის ეკლესია",
+                  "text": "Ezt a Szent Eusztáknak szentelt kőtemplomot a Lisi falu közössége használja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.681364,
+                        41.758253
+                  ]
+            },
+            {
+                  "name": "სამების ეკლესია",
+                  "text": "A Lisi-tó feletti dombokon épült, hagyományos grúz ortodox istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        44.758266,
+                        41.7114
+                  ]
+            },
+            {
+                  "name": "ანდრია პირველწოდებულის სახელობის ეკლესია",
+                  "text": "Az Elsőnek Elhívott Szent András apostolnak szentelt templom, amely klasszikus grúz stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        44.762916,
+                        41.710875
+                  ]
+            },
+            {
+                  "name": "წმ. გრიგოლ ხანძთელის სახ. ტაძარი",
+                  "text": "Ez a szentély Khandztai Szent Gergelyről, a 8. századi jelentős grúz felvilágosítóról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        44.757974,
+                        41.722007
+                  ]
+            },
+            {
+                  "name": "წმ. ანტონ მარტყოფელის სახელობის ეკლესია",
+                  "text": "Martqopi Szent Antalról nevezték el, aki a grúziai szerzetességet megalapító Tizenhárom Szír Atya egyike volt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.760049,
+                        41.720912
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს ეკლესია",
+                  "text": "Szent Nino tiszteletére emelt templom, amely a Grúziát keresztény hitre térítő hittérítőnek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        44.743105,
+                        41.716243
+                  ]
+            },
+            {
+                  "name": "წმინდა გიორგის ტაძარი",
+                  "text": "Egy kisméretű kőkápolna, amelyet Szent Györgynek, Grúzia védőszentjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.67151,
+                        41.745702
+                  ]
+            },
+            {
+                  "name": "ცამეტი ასურელი მამის სახელობის ეკლესია",
+                  "text": "Ez az imaház annak a 13 szír szerzetesnek állít emléket, akik a 6. században megerősítették a kereszténységet Grúziában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.721343,
+                        41.736483
+                  ]
+            },
+            {
+                  "name": "მირქმის სახელობის ეკლესია",
+                  "text": "Ortodox templom, amely az Úr templomban való bemutatásának ünnepét hirdeti.",
+                  "category": "landmark",
+                  "coords": [
+                        44.723877,
+                        41.729154
+                  ]
+            },
+            {
+                  "name": "ევანგელური ეკლესია\"სიცოცხლის სიტყვა\"",
+                  "text": "Modern evangéliumi templom a negyedben, amely az „Élet Igéje” gyülekezet találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.731375,
+                        41.731619
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზ მიქაელის სახელობის ეკლესია",
+                  "text": "Szent Mihály arkangyalnak szentelt grúz ortodox istentiszteleti hely, hagyományos szakrális építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.734408,
+                        41.734056
+                  ]
+            },
+            {
+                  "name": "წმინდა ქალწულმოწამე ბარბარეს ეკლესია",
+                  "text": "Szent Borbálának, a Grúziában mélyen tisztelt vértanúnak szentelt helyi szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        44.73227,
+                        41.723698
+                  ]
+            },
+            {
+                  "name": "სამების ეკლესია",
+                  "text": "A Szentháromságnak szentelt kápolna, amely békés menedéket nyújt a helyi lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.731081,
+                        41.714863
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "Szűz Máriának szentelt templom, amely a jellegzetes grúz keresztkupolás stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        44.711826,
+                        41.659545
+                  ]
+            },
+            {
+                  "name": "View on Saburtalo",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a sűrűn lakott Szaburtalo lakónegyedre.",
+                  "category": "natural",
+                  "coords": [
+                        44.706562,
+                        41.711328
+                  ]
+            },
+            {
+                  "name": "კოჯრის ბაღი",
+                  "text": "Ez a Kojori-ban található, műemléki védelem alatt álló kert történelmi parkosítással és árnyas sétányokkal várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        44.705563,
+                        41.663362
+                  ]
+            },
+            {
+                  "name": "ლისი რეკრეაცია",
+                  "text": "Népszerű pihenőhely a Lisi-tónál, strandokkal, túraútvonalakkal és szabadidős létesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        44.739345,
+                        41.741534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "სახელმწიფო ეთნოგრაფიული მუზეუმი",
+                  "text": "Un muzeu în aer liber deschis în 1966, prezentând case tradiționale din toate regiunile Georgiei.",
+                  "category": "museum",
+                  "coords": [
+                        44.743464,
+                        41.701541
+                  ]
+            },
+            {
+                  "name": "ივანე ჯავახიშვილის ხიდი",
+                  "text": "Un pod modern care poartă numele celebrului istoric georgian Ivane Javakhishvili.",
+                  "category": "landmark",
+                  "coords": [
+                        44.722869,
+                        41.714844
+                  ]
+            },
+            {
+                  "name": "უძო",
+                  "text": "Un vârf montan lângă Tbilisi, cunoscut pentru mănăstirea sa și priveliștile panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        44.70122,
+                        41.675662
+                  ]
+            },
+            {
+                  "name": "აზეულა",
+                  "text": "Vârful muntelui Azeula, unde se află ruinele cetății strategice Kojori.",
+                  "category": "natural",
+                  "coords": [
+                        44.692126,
+                        41.640568
+                  ]
+            },
+            {
+                  "name": "ვაკის პარკი",
+                  "text": "Un parc urban mare, dotat cu o fântână în cascadă monumentală și un memorial de război.",
+                  "category": "park",
+                  "coords": [
+                        44.748612,
+                        41.708787
+                  ]
+            },
+            {
+                  "name": "უძოს წმინდა გიორგის ეკლესია",
+                  "text": "O biserică medievală pe vârful Udzo, protejată ca monument național.",
+                  "category": "religious",
+                  "coords": [
+                        44.700111,
+                        41.673775
+                  ]
+            },
+            {
+                  "name": "ნამურის სერი",
+                  "text": "Un vârf înalt din lanțul muntos de lângă Vake, oferind panorame asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        44.688392,
+                        41.670039
+                  ]
+            },
+            {
+                  "name": "ბაია გალერეა",
+                  "text": "O galerie de artă contemporană care expune lucrări ale pictorilor și sculptorilor georgieni.",
+                  "category": "museum",
+                  "coords": [
+                        44.757807,
+                        41.707554
+                  ]
+            },
+            {
+                  "name": "სვანური კოშკი",
+                  "text": "Un turn defensiv medieval autentic, adus din regiunea montană Svaneti pentru expunere.",
+                  "category": "castle",
+                  "coords": [
+                        44.747682,
+                        41.699036
+                  ]
+            },
+            {
+                  "name": "დიდი სამამულო ომის მემორიალი",
+                  "text": "Un monument monumental în Parcul Vake, dedicat victoriei în Marele Război pentru Apărarea Patriei.",
+                  "category": "historical",
+                  "coords": [
+                        44.751533,
+                        41.706445
+                  ]
+            },
+            {
+                  "name": "მიხეილ ვორონცოვის აგარაკი",
+                  "text": "O reședință nobiliară construită în 1852 pentru fostul vicerege Mihail Voronțov.",
+                  "category": "historical",
+                  "coords": [
+                        44.70418,
+                        41.663269
+                  ]
+            },
+            {
+                  "name": "მუზა",
+                  "text": "Un centru cultural situat în Vake, care găzduiește expoziții și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        44.741916,
+                        41.708215
+                  ]
+            },
+            {
+                  "name": "თაკარა",
+                  "text": "Un teatru local cunoscut pentru punerea în scenă a pieselor contemporane georgiene.",
+                  "category": "cultural",
+                  "coords": [
+                        44.684935,
+                        41.719733
+                  ]
+            },
+            {
+                  "name": "EYESTAGE",
+                  "text": "O scenă experimentală care promovează formele moderne de teatru și artă performativă.",
+                  "category": "cultural",
+                  "coords": [
+                        44.712431,
+                        41.747105
+                  ]
+            },
+            {
+                  "name": "ქავთარაძის ბაზარი",
+                  "text": "O piață vibrantă care oferü o selecție variată de fructe, legume și brânzeturi georgiene.",
+                  "category": "cultural",
+                  "coords": [
+                        44.738067,
+                        41.722064
+                  ]
+            },
+            {
+                  "name": "ხის ქსილოფონი",
+                  "text": "Un obiect sonor ludic din lemn situat în parc, invitând vizitatorii să creeze muzică.",
+                  "category": "landmark",
+                  "coords": [
+                        44.750379,
+                        41.696158
+                  ]
+            },
+            {
+                  "name": "საცხოვრებელი კომპლექსი \"შატილი\"",
+                  "text": "Trei blocuri sovietice conectate spectaculos prin punți pietonale la mare înălțime.",
+                  "category": "landmark",
+                  "coords": [
+                        44.71906,
+                        41.726143
+                  ]
+            },
+            {
+                  "name": "ქვევრი",
+                  "text": "Un monument de mari dimensiuni reprezentând un vas tradițional georgian din lut pentru vin.",
+                  "category": "landmark",
+                  "coords": [
+                        44.738871,
+                        41.730471
+                  ]
+            },
+            {
+                  "name": "ახალდაბის წმ. გიორგის ეკლესია",
+                  "text": "O biserică creștină dedicată Sfântului Gheorghe, situată în Akhalidaba.",
+                  "category": "landmark",
+                  "coords": [
+                        44.663337,
+                        41.685882
+                  ]
+            },
+            {
+                  "name": "ლისის წმ. გიორგის ეკლესია",
+                  "text": "Această biserică dedicată Sfântului Gheorghe se află în apropierea popularului lac Lisi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.671567,
+                        41.756653
+                  ]
+            },
+            {
+                  "name": "მამათა მონასტერი\"ლისიონი\"",
+                  "text": "O mănăstire ortodoxă georgiană pentru călugări, situată în zona lacului Lisi, cunoscută pentru cadrul său liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        44.670463,
+                        41.756181
+                  ]
+            },
+            {
+                  "name": "ლისის წმ. ევსტატი პლაკიდას სახელობის ეკლესია",
+                  "text": "Această biserică de piatră dedicată Sfântului Eustatie deservește comunitatea locală din satul Lisi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.681364,
+                        41.758253
+                  ]
+            },
+            {
+                  "name": "სამების ეკლესია",
+                  "text": "Un lăcaș de cult ortodox georgian tradițional, construit pe dealurile de deasupra lacului Lisi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.758266,
+                        41.7114
+                  ]
+            },
+            {
+                  "name": "ანდრია პირველწოდებულის სახელობის ეკლესია",
+                  "text": "O biserică dedicată Sfântului Apostol Andrei cel Întâi Chemat, construită în stil clasic georgian.",
+                  "category": "landmark",
+                  "coords": [
+                        44.762916,
+                        41.710875
+                  ]
+            },
+            {
+                  "name": "წმ. გრიგოლ ხანძთელის სახ. ტაძარი",
+                  "text": "Acest sanctuar poartă numele Sfântului Grigorie din Khandzta, un important iluminator georgian din secolul al VIII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        44.757974,
+                        41.722007
+                  ]
+            },
+            {
+                  "name": "წმ. ანტონ მარტყოფელის სახელობის ეკლესია",
+                  "text": "Poartă numele Sfântului Anton de Martqopi, unul dintre cei Treisprezece Părinți Sirieni care au fondat monahismul în Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.760049,
+                        41.720912
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს ეკლესია",
+                  "text": "O biserică dedicată Sfintei Nino, care o comemorează pe misionara ce a adus creștinismul în Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.743105,
+                        41.716243
+                  ]
+            },
+            {
+                  "name": "წმინდა გიორგის ტაძარი",
+                  "text": "O mică capelă de piatră dedicată Sfântului Gheorghe, patronul spiritual al Georgiei.",
+                  "category": "landmark",
+                  "coords": [
+                        44.67151,
+                        41.745702
+                  ]
+            },
+            {
+                  "name": "ცამეტი ასურელი მამის სახელობის ეკლესია",
+                  "text": "Acest lăcaș de cult îi comemorează pe cei 13 călugări sirieni care au consolidat viața creștină în Georgia în secolul al VI-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        44.721343,
+                        41.736483
+                  ]
+            },
+            {
+                  "name": "მირქმის სახელობის ეკლესია",
+                  "text": "O biserică ortodoxă care celebrează sărbătoarea Întâmpinării Domnului la Templu.",
+                  "category": "landmark",
+                  "coords": [
+                        44.723877,
+                        41.729154
+                  ]
+            },
+            {
+                  "name": "ევანგელური ეკლესია\"სიცოცხლის სიტყვა\"",
+                  "text": "O biserică evanghelică modernă din cartier, care servește drept loc de întâlnire pentru congregația „Cuvântul Vieții”.",
+                  "category": "landmark",
+                  "coords": [
+                        44.731375,
+                        41.731619
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზ მიქაელის სახელობის ეკლესია",
+                  "text": "Un lăcaș de cult ortodox georgian dedicat Arhanghelului Mihail, cu o arhitectură sacră tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        44.734408,
+                        41.734056
+                  ]
+            },
+            {
+                  "name": "წმინდა ქალწულმოწამე ბარბარეს ეკლესია",
+                  "text": "Un sanctuar local dedicat Sfintei Varvara, o martiră foarte venerată în Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.73227,
+                        41.723698
+                  ]
+            },
+            {
+                  "name": "სამების ეკლესია",
+                  "text": "O capelă dedicată Sfintei Treimi, care servește drept refugiu liniștit pentru locuitorii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.731081,
+                        41.714863
+                  ]
+            },
+            {
+                  "name": "ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "O biserică dedicată Fecioarei Maria, construită conform stilului georgian caracteristic cu cupolă în cruce.",
+                  "category": "landmark",
+                  "coords": [
+                        44.711826,
+                        41.659545
+                  ]
+            },
+            {
+                  "name": "View on Saburtalo",
+                  "text": "Un punct de observație care oferü o vedere panoramică asupra cartierului rezidențial dens populat Saburtalo.",
+                  "category": "natural",
+                  "coords": [
+                        44.706562,
+                        41.711328
+                  ]
+            },
+            {
+                  "name": "კოჯრის ბაღი",
+                  "text": "Această grădină protejată din Kojori oferă amenajări peisajistice istorice și alei umbroase.",
+                  "category": "park",
+                  "coords": [
+                        44.705563,
+                        41.663362
+                  ]
+            },
+            {
+                  "name": "ლისი რეკრეაცია",
+                  "text": "O zonă de recreere populară de lângă lacul Lisi, cu plaje, trasee de drumeție și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        44.739345,
+                        41.741534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tbilisi Open Air Museum of Ethnography",
+                  "text": "An open-air museum opened in 1966, showcasing traditional houses from all regions of Georgia.",
+                  "category": "museum",
+                  "coords": [
+                        44.743464,
+                        41.701541
+                  ]
+            },
+            {
+                  "name": "Ivane Javakhishvili Bridge",
+                  "text": "A modern bridge named after the prominent Georgian historian Ivane Javakhishvili.",
+                  "category": "landmark",
+                  "coords": [
+                        44.722869,
+                        41.714844
+                  ]
+            },
+            {
+                  "name": "Udzo",
+                  "text": "A prominent peak near Tbilisi known for its monastery and wide panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        44.70122,
+                        41.675662
+                  ]
+            },
+            {
+                  "name": "Azeula",
+                  "text": "The peak of Azeula mountain, home to the ruins of the strategic Kojori Fortress.",
+                  "category": "natural",
+                  "coords": [
+                        44.692126,
+                        41.640568
+                  ]
+            },
+            {
+                  "name": "Vake Park",
+                  "text": "A large urban park featuring a monumental cascading fountain and a war memorial.",
+                  "category": "park",
+                  "coords": [
+                        44.748612,
+                        41.708787
+                  ]
+            },
+            {
+                  "name": "Church of Saint George in Udzo Monastery",
+                  "text": "A medieval church on the Udzo peak, designated as a national cultural monument.",
+                  "category": "religious",
+                  "coords": [
+                        44.700111,
+                        41.673775
+                  ]
+            },
+            {
+                  "name": "Namuris Seri",
+                  "text": "A high peak in the mountain range near Vake, offering views over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        44.688392,
+                        41.670039
+                  ]
+            },
+            {
+                  "name": "Baia Gallery",
+                  "text": "A contemporary art gallery showcasing works by Georgian painters and sculptors.",
+                  "category": "museum",
+                  "coords": [
+                        44.757807,
+                        41.707554
+                  ]
+            },
+            {
+                  "name": "Svan Tower",
+                  "text": "An authentic medieval defensive tower brought from the Svaneti mountain region.",
+                  "category": "castle",
+                  "coords": [
+                        44.747682,
+                        41.699036
+                  ]
+            },
+            {
+                  "name": "Memorial of the Great Patriotic War",
+                  "text": "A monumental memorial in Vake Park commemorating victory in the Great Patriotic War.",
+                  "category": "historical",
+                  "coords": [
+                        44.751533,
+                        41.706445
+                  ]
+            },
+            {
+                  "name": "Mikhail Vorontsov's Dacha",
+                  "text": "A manor house built in 1852 as a country residence for Viceroy Mikhail Vorontsov.",
+                  "category": "historical",
+                  "coords": [
+                        44.70418,
+                        41.663269
+                  ]
+            },
+            {
+                  "name": "Muza",
+                  "text": "A cultural center in Vake that hosts exhibitions and various artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        44.741916,
+                        41.708215
+                  ]
+            },
+            {
+                  "name": "Takara",
+                  "text": "A local theatre known for performing contemporary Georgian dramatic works.",
+                  "category": "cultural",
+                  "coords": [
+                        44.684935,
+                        41.719733
+                  ]
+            },
+            {
+                  "name": "EYESTAGE",
+                  "text": "An independent stage showcasing modern theatre forms and performance art.",
+                  "category": "cultural",
+                  "coords": [
+                        44.712431,
+                        41.747105
+                  ]
+            },
+            {
+                  "name": "Kavtaradze Market",
+                  "text": "A lively marketplace offering a wide selection of fresh Georgian produce and cheeses.",
+                  "category": "cultural",
+                  "coords": [
+                        44.738067,
+                        41.722064
+                  ]
+            },
+            {
+                  "name": "Wooden xylophone",
+                  "text": "A playful wooden musical installation in the park that invites visitors to play.",
+                  "category": "landmark",
+                  "coords": [
+                        44.750379,
+                        41.696158
+                  ]
+            },
+            {
+                  "name": "Shatili Housing Complex (Nutsubidze Skybridge)",
+                  "text": "Three Soviet-era residential blocks spectacularly linked by high-altitude pedestrian skybridges.",
+                  "category": "landmark",
+                  "coords": [
+                        44.71906,
+                        41.726143
+                  ]
+            },
+            {
+                  "name": "ქვევრი",
+                  "text": "A large monument shaped like a traditional Georgian clay vessel (qvevri) used for winemaking.",
+                  "category": "landmark",
+                  "coords": [
+                        44.738871,
+                        41.730471
+                  ]
+            },
+            {
+                  "name": "ახალდაბის წმ. გიორგის ეკლესია",
+                  "text": "A Christian church dedicated to Saint George, located in Akhalidaba.",
+                  "category": "landmark",
+                  "coords": [
+                        44.663337,
+                        41.685882
+                  ]
+            },
+            {
+                  "name": "ლისის წმ. გიორგის ეკლესია",
+                  "text": "A church dedicated to Saint George located near the popular Lisi Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        44.671567,
+                        41.756653
+                  ]
+            },
+            {
+                  "name": "მამათა მონასტერი\"ლისიონი\"",
+                  "text": "A Georgian Orthodox monastery for monks located near Lisi Lake, known for its tranquil setting.",
+                  "category": "landmark",
+                  "coords": [
+                        44.670463,
+                        41.756181
+                  ]
+            },
+            {
+                  "name": "St. Eustathius Placidas church of Lisi",
+                  "text": "Dedicated to Saint Eustathius, this stone church serves the local community in the village of Lisi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.681364,
+                        41.758253
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "A traditional Georgian Orthodox place of worship built on the hills overlooking Lisi Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        44.758266,
+                        41.7114
+                  ]
+            },
+            {
+                  "name": "ანდრია პირველწოდებულის სახელობის ეკლესია",
+                  "text": "A church dedicated to Saint Andrew the First-Called, built in the classic Georgian style.",
+                  "category": "landmark",
+                  "coords": [
+                        44.762916,
+                        41.710875
+                  ]
+            },
+            {
+                  "name": "წმ. გრიგოლ ხანძთელის სახ. ტაძარი",
+                  "text": "This sanctuary is named after Saint Gregory of Khandzta, a prominent 8th-century Georgian enlightener.",
+                  "category": "landmark",
+                  "coords": [
+                        44.757974,
+                        41.722007
+                  ]
+            },
+            {
+                  "name": "წმ. ანტონ მარტყოფელის სახელობის ეკლესია",
+                  "text": "Named after Saint Anton of Martqopi, one of the Thirteen Assyrian Fathers who established monasticism in Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.760049,
+                        41.720912
+                  ]
+            },
+            {
+                  "name": "Saint Nino Church",
+                  "text": "A church dedicated to Saint Nino, commemorating the missionary who brought Christianity to Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.743105,
+                        41.716243
+                  ]
+            },
+            {
+                  "name": "St. George's Chapel",
+                  "text": "A small stone chapel dedicated to Saint George, the patron saint of Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.67151,
+                        41.745702
+                  ]
+            },
+            {
+                  "name": "Thirteen Assyrian Fathers Church",
+                  "text": "This place of worship commemorates the 13 Syrian monks who strengthened Christian life in Georgia in the 6th century.",
+                  "category": "landmark",
+                  "coords": [
+                        44.721343,
+                        41.736483
+                  ]
+            },
+            {
+                  "name": "Candlemass Church",
+                  "text": "An Orthodox church celebrating the feast of the Presentation of Jesus at the Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        44.723877,
+                        41.729154
+                  ]
+            },
+            {
+                  "name": "Evangelical Church \"Word of Life\"",
+                  "text": "A modern evangelical church in the district, serving as the meeting place for the \"Word of Life\" congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        44.731375,
+                        41.731619
+                  ]
+            },
+            {
+                  "name": "Church of the Archangel Michael",
+                  "text": "A Georgian Orthodox place of worship dedicated to the Archangel Michael, featuring traditional sacred architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.734408,
+                        41.734056
+                  ]
+            },
+            {
+                  "name": "Saint Barbare Church",
+                  "text": "A local sanctuary dedicated to Saint Barbara, a martyr highly revered in Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        44.73227,
+                        41.723698
+                  ]
+            },
+            {
+                  "name": "Trinity Church",
+                  "text": "A chapel dedicated to the Holy Trinity, serving as a peaceful retreat for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        44.731081,
+                        41.714863
+                  ]
+            },
+            {
+                  "name": "Virgin Mary Church",
+                  "text": "A church dedicated to the Virgin Mary, built according to the characteristic Georgian cross-dome design.",
+                  "category": "landmark",
+                  "coords": [
+                        44.711826,
+                        41.659545
+                  ]
+            },
+            {
+                  "name": "View on Saburtalo",
+                  "text": "A viewpoint offering a panoramic vista over the densely populated Saburtalo residential district.",
+                  "category": "natural",
+                  "coords": [
+                        44.706562,
+                        41.711328
+                  ]
+            },
+            {
+                  "name": "Kojori Garden",
+                  "text": "A listed heritage garden in Kojori featuring historic landscaping and shaded walkways.",
+                  "category": "park",
+                  "coords": [
+                        44.705563,
+                        41.663362
+                  ]
+            },
+            {
+                  "name": "Lisi Recreation",
+                  "text": "A popular recreation area by Lisi Lake featuring beaches, walking trails, and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        44.739345,
+                        41.741534
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "GE-TB",
     coords: [44.7503, 41.7103],
@@ -633,7 +4854,700 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-mtatsminda-park-life-v2",
+    id: "ge-mtatsminda-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chuvi's Comedy Club",
+                  "text": "Ein intimer Veranstaltungsort für Stand-up-Comedy und humoristische Aufführungen lokaler Komiker.",
+                  "category": "cultural",
+                  "coords": [
+                        44.791889,
+                        41.70253
+                  ]
+            },
+            {
+                  "name": "ტიციან ტაბიძის ბინა-მემორიალი",
+                  "text": "Das Wohnhaus des Dichters Titsian Tabidze zeigt persönliche Gegenstände und Dokumente aus der Zeit des literarischen Aufbruchs.",
+                  "category": "museum",
+                  "coords": [
+                        44.793897,
+                        41.700628
+                  ]
+            },
+            {
+                  "name": "მოსე თოიძის სახლ-მუზეუმი",
+                  "text": "Das Museum widmet sich dem Leben des einflussreichen Malers Mose Toidze und zeigt seine bedeutenden grafischen Werke.",
+                  "category": "museum",
+                  "coords": [
+                        44.795758,
+                        41.699943
+                  ]
+            },
+            {
+                  "name": "\"ჰოვანეს თუმანიანის სახლი\" სამეცნიერო, კულტურული ცენტრი",
+                  "text": "Ein Kulturzentrum im ehemaligen Tifliser Wohnhaus des berühmten armenischen Dichters Howhannes Tumanjan.",
+                  "category": "museum",
+                  "coords": [
+                        44.793817,
+                        41.689712
+                  ]
+            },
+            {
+                  "name": "Artbeat",
+                  "text": "Diese moderne Galerie fördert junge georgische Künstler und präsentiert sie auf internationalen Messen.",
+                  "category": "museum",
+                  "coords": [
+                        44.796679,
+                        41.694717
+                  ]
+            },
+            {
+                  "name": "Vanda Art Gallery",
+                  "text": "Eine renommierte Privatgalerie, die für ihre kuratierten Ausstellungen moderner georgischer Kunst bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        44.79456,
+                        41.693523
+                  ]
+            },
+            {
+                  "name": "ბაია გელერეა",
+                  "text": "Zentral gelegene Galerie, die eine breite Palette an Werken klassischer und zeitgenössischer georgischer Meister zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        44.796518,
+                        41.696259
+                  ]
+            },
+            {
+                  "name": "ჯალილ მამედყულიზადეს სახლ-მუზეუმი",
+                  "text": "Das Hausmuseum erinnert an den aserbaidschanischen Satiriker Jalil Mammadguluzadeh, der hier in Tiflis lebte und arbeitete.",
+                  "category": "museum",
+                  "coords": [
+                        44.794382,
+                        41.696797
+                  ]
+            },
+            {
+                  "name": "არშაკუნის სასახლე",
+                  "text": "Diese historische Residenz am Fuße des Mtatsminda-Berges spiegelt das aristokratische Erbe der Stadt wider.",
+                  "category": "castle",
+                  "coords": [
+                        44.792778,
+                        41.701428
+                  ]
+            },
+            {
+                  "name": "წმინდა მიქაელ ტვერელის სახელობის ეკლესია",
+                  "text": "Eine russisch-orthodoxe Backsteinkirche, die malerisch an den Hängen des Mtatsminda-Berges errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        44.78903,
+                        41.700676
+                  ]
+            },
+            {
+                  "name": "თავად ვასილ გაბაშვილის სახლი",
+                  "text": "Ein prächtiges Jugendstilhaus auf dem Rustaweli-Boulevard, das für seinen filigran geschnitzten Holzbalkon berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.790509,
+                        41.702563
+                  ]
+            },
+            {
+                  "name": "Schota Rustaweli",
+                  "text": "Das 1942 errichtete Denkmal ehrt Georgiens Nationaldichter Schota Rustaweli vor dem Hintergrund klassizistischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        44.789925,
+                        41.70389
+                  ]
+            },
+            {
+                  "name": "მელიქ-აზარიანცის სახლი",
+                  "text": "Das 1915 erbaute monumentale Eckhaus ist eines der markantesten Wahrzeichen der Architektur des frühen 20. Jahrhunderts.",
+                  "category": "landmark",
+                  "coords": [
+                        44.791276,
+                        41.703601
+                  ]
+            },
+            {
+                  "name": "Tiflisser Oper",
+                  "text": "Das prachtvolle Opernhaus besticht durch seine neo-maurische Architektur und ist das Zentrum der georgischen darstellenden Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        44.796283,
+                        41.701131
+                  ]
+            },
+            {
+                  "name": "ზურაბ წერეთლის თანამედროვე ხელოვნების მუზეუმი",
+                  "text": "Dieses Museum für moderne Kunst präsentiert die monumentalen Skulpturen und Gemälde des weltberühmten Künstlers Zurab Zereteli.",
+                  "category": "museum",
+                  "coords": [
+                        44.795182,
+                        41.701593
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს ეკლესია",
+                  "text": "Die 1884 erbaute Kirche schmiegt sich an den Hang des Mtatsminda und bietet einen ruhigen Rückzugsort über der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        44.79464,
+                        41.695099
+                  ]
+            },
+            {
+                  "name": "Wilnaer Platz",
+                  "text": "Ein freundlicher Stadtplatz, der mit einem Wandgemälde und Symbolen der litauischen Hauptstadt Vilnius geschmückt ist.",
+                  "category": "park",
+                  "coords": [
+                        44.792448,
+                        41.695231
+                  ]
+            },
+            {
+                  "name": "მამადავითის ეკლესიის სამრეკლო",
+                  "text": "Glockenturm des Mama-Dawiti-Ensembles am Hang des heiligen Berges Mtazminda.",
+                  "category": "tower",
+                  "coords": [
+                        44.789047,
+                        41.695742
+                  ]
+            },
+            {
+                  "name": "ამაღლების ეკლესია",
+                  "text": "Christliches Gotteshaus im historischen Viertel an den Hängen des Mtazminda.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792361,
+                        41.689205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chuvi's Comedy Club",
+                  "text": "Meghitt helyszín stand-up comedy esteknek és helyi komikusok humoros előadásainak.",
+                  "category": "cultural",
+                  "coords": [
+                        44.791889,
+                        41.70253
+                  ]
+            },
+            {
+                  "name": "ტიციან ტაბიძის ბინა-მემორიალი",
+                  "text": "Tician Tabidze költő lakóháza személyes tárgyakat és dokumentumokat mutat be az irodalmi felemelkedés korából.",
+                  "category": "museum",
+                  "coords": [
+                        44.793897,
+                        41.700628
+                  ]
+            },
+            {
+                  "name": "მოსე თოიძის სახლ-მუზეუმი",
+                  "text": "A múzeum Mosze Toidze befolyásos festő életének szentelt, és bemutatja jelentős grafikai alkotásait.",
+                  "category": "museum",
+                  "coords": [
+                        44.795758,
+                        41.699943
+                  ]
+            },
+            {
+                  "name": "\"ჰოვანეს თუმანიანის სახლი\" სამეცნიერო, კულტურული ცენტრი",
+                  "text": "Kulturális központ a híres örmény költő, Hovhannesz Tumanjan egykori tbiliszi lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        44.793817,
+                        41.689712
+                  ]
+            },
+            {
+                  "name": "Artbeat",
+                  "text": "Ez a modern galéria fiatal grúz művészeket támogat, és nemzetközi vásárokon mutatja be őket.",
+                  "category": "museum",
+                  "coords": [
+                        44.796679,
+                        41.694717
+                  ]
+            },
+            {
+                  "name": "Vanda Art Gallery",
+                  "text": "Nves magángaléria, amely a modern grúz művészet válogatott kiállításairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        44.79456,
+                        41.693523
+                  ]
+            },
+            {
+                  "name": "ბაია გელერეა",
+                  "text": "Központi fekvésű galéria, amely klasszikus és kortárs grúz mesterek műveinek széles skáláját vonultatja fel.",
+                  "category": "museum",
+                  "coords": [
+                        44.796518,
+                        41.696259
+                  ]
+            },
+            {
+                  "name": "ჯალილ მამედყულიზადეს სახლ-მუზეუმი",
+                  "text": "A házmúzeum Dzsalil Mammadguluzade azeri szatírírónak állít emléket, aki Tbilisziben élt és alkotott.",
+                  "category": "museum",
+                  "coords": [
+                        44.794382,
+                        41.696797
+                  ]
+            },
+            {
+                  "name": "არშაკუნის სასახლე",
+                  "text": "Ez a történelmi rezidencia a Mtacminda-hegy lábánál a város arisztokratikus örökségét tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        44.792778,
+                        41.701428
+                  ]
+            },
+            {
+                  "name": "წმინდა მიქაელ ტვერელის სახელობის ეკლესია",
+                  "text": "Orosz ortodox téglatemplom, amely festői környezetben, a Mtacminda-hegy lejtőin épült.",
+                  "category": "religious",
+                  "coords": [
+                        44.78903,
+                        41.700676
+                  ]
+            },
+            {
+                  "name": "თავად ვასილ გაბაშვილის სახლი",
+                  "text": "Pompás szecessziós ház a Rusztaveli sugárúton, amely finoman faragott fateraszáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        44.790509,
+                        41.702563
+                  ]
+            },
+            {
+                  "name": "შოთა რუსთაველი",
+                  "text": "Az 1942-ben emelt emlékmű Grúzia nemzeti költője, Sota Rusztaveli előtt tiszteleg klasszicista környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.789925,
+                        41.70389
+                  ]
+            },
+            {
+                  "name": "მელიქ-აზარიანცის სახლი",
+                  "text": "Az 1915-ben épült monumentális sarokház a 20. század eleji építészet egyik legjellegzetesebb emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        44.791276,
+                        41.703601
+                  ]
+            },
+            {
+                  "name": "თბილისის ოპერისა და ბალეტის თეატრი",
+                  "text": "A pompás operaház neomór építészetével nyűgöz le, és a grúz előadóművészet központja.",
+                  "category": "cultural",
+                  "coords": [
+                        44.796283,
+                        41.701131
+                  ]
+            },
+            {
+                  "name": "ზურაბ წერეთლის თანამედროვე ხელოვნების მუზეუმი",
+                  "text": "Ez a modern művészeti múzeum a világhírű művész, Zurab Cereteli monumentális szobrait és festményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.795182,
+                        41.701593
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს ეკლესია",
+                  "text": "Az 1884-ben épült templom a Mtacminda lejtőjén fekszik, nyugodt menedéket nyújtva a város felett.",
+                  "category": "religious",
+                  "coords": [
+                        44.79464,
+                        41.695099
+                  ]
+            },
+            {
+                  "name": "ვილნიუსის სკვერი",
+                  "text": "Barátságos városi tér, amelyet falfestmény és a litván főváros, Vilnius szimbólumai díszítenek.",
+                  "category": "park",
+                  "coords": [
+                        44.792448,
+                        41.695231
+                  ]
+            },
+            {
+                  "name": "მამადავითის ეკლესიის სამრეკლო",
+                  "text": "A Mamadaviti-együttes harangtornya a szent Mtacminda-hegy oldalában.",
+                  "category": "tower",
+                  "coords": [
+                        44.789047,
+                        41.695742
+                  ]
+            },
+            {
+                  "name": "ამაღლების ეკლესია",
+                  "text": "Keresztény kegyhely a Mtacminda-hegy történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792361,
+                        41.689205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chuvi's Comedy Club",
+                  "text": "O locație intimă pentru spectacole de stand-up comedy și reprezentații umoristice ale comedianților locali.",
+                  "category": "cultural",
+                  "coords": [
+                        44.791889,
+                        41.70253
+                  ]
+            },
+            {
+                  "name": "ტიციან ტაბიძის ბინა-მემორიალი",
+                  "text": "Locuința poetului Titsian Tabidze expune obiecte personale și documente din perioada efervescenței literare.",
+                  "category": "museum",
+                  "coords": [
+                        44.793897,
+                        41.700628
+                  ]
+            },
+            {
+                  "name": "მოსე თოიძის სახლ-მუზეუმი",
+                  "text": "Muzeul este dedicat vieții influentului pictor Mose Toidze și expune lucrările sale grafice importante.",
+                  "category": "museum",
+                  "coords": [
+                        44.795758,
+                        41.699943
+                  ]
+            },
+            {
+                  "name": "\"ჰოვანეს თუმანიანის სახლი\" სამეცნიერო, კულტურული ცენტრი",
+                  "text": "Un centru cultural situat în fosta locuință din Tbilisi a faimosului poet armean Hovhannes Tumanyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.793817,
+                        41.689712
+                  ]
+            },
+            {
+                  "name": "Artbeat",
+                  "text": "Această galerie modernă promovează tinerii artiști georgieni și îi prezintă la târguri internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        44.796679,
+                        41.694717
+                  ]
+            },
+            {
+                  "name": "Vanda Art Gallery",
+                  "text": "O galerie privată renumită, cunoscută pentru expozițiile sale curatoriate de artă georgiană modernă.",
+                  "category": "museum",
+                  "coords": [
+                        44.79456,
+                        41.693523
+                  ]
+            },
+            {
+                  "name": "ბაია გელერეა",
+                  "text": "O galerie situată central care expune o gamă largă de lucrări ale maeștrilor georgieni clasici și contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        44.796518,
+                        41.696259
+                  ]
+            },
+            {
+                  "name": "ჯალილ მამედყულიზადეს სახლ-მუზეუმი",
+                  "text": "Casa-muzeu îl comemorează pe satiricul azer Jalil Mammadguluzadeh, care a trăit și a lucrat aici în Tbilisi.",
+                  "category": "museum",
+                  "coords": [
+                        44.794382,
+                        41.696797
+                  ]
+            },
+            {
+                  "name": "არშაკუნის სასახლე",
+                  "text": "Această reședință istorică de la poalele muntelui Mtatsminda reflectă moștenirea aristocratică a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        44.792778,
+                        41.701428
+                  ]
+            },
+            {
+                  "name": "წმინდა მიქაელ ტვერელის სახელობის ეკლესია",
+                  "text": "O biserică ortodoxă rusă din cărămidă, construită pitoresc pe pantele muntelui Mtatsminda.",
+                  "category": "religious",
+                  "coords": [
+                        44.78903,
+                        41.700676
+                  ]
+            },
+            {
+                  "name": "თავად ვასილ გაბაშვილის სახლი",
+                  "text": "O casă superbă în stil Art Nouveau pe Bulevardul Rustaveli, faimoasă pentru balconul său din lemn sculptat filigran.",
+                  "category": "landmark",
+                  "coords": [
+                        44.790509,
+                        41.702563
+                  ]
+            },
+            {
+                  "name": "შოთა რუსთაველი",
+                  "text": "Monumentul ridicat în 1942 îl onorează pe poetul național al Georgiei, Shota Rustaveli, pe fundalul arhitecturii clasiciste.",
+                  "category": "landmark",
+                  "coords": [
+                        44.789925,
+                        41.70389
+                  ]
+            },
+            {
+                  "name": "მელიქ-აზარიანცის სახლი",
+                  "text": "Clădirea monumentală de colț construită în 1915 este unul dintre cele mai distinctive repere ale arhitecturii de la începutul secolului XX.",
+                  "category": "landmark",
+                  "coords": [
+                        44.791276,
+                        41.703601
+                  ]
+            },
+            {
+                  "name": "თბილისის ოპერისა და ბალეტის თეატრი",
+                  "text": "Splendida operă impresionează prin arhitectura sa neo-maură și este centrul artelor spectacolului din Georgia.",
+                  "category": "cultural",
+                  "coords": [
+                        44.796283,
+                        41.701131
+                  ]
+            },
+            {
+                  "name": "ზურაბ წერეთლის თანამედროვე ხელოვნების მუზეუმი",
+                  "text": "Acest muzeu de artă modernă prezintă sculpturile monumentale și picturile artistului de renume mondial Zurab Tsereteli.",
+                  "category": "museum",
+                  "coords": [
+                        44.795182,
+                        41.701593
+                  ]
+            },
+            {
+                  "name": "წმინდა ნინოს ეკლესია",
+                  "text": "Biserica construită în 1884 este situată pe panta muntelui Mtatsminda, oferind un refugiu liniștit deasupra orașului.",
+                  "category": "religious",
+                  "coords": [
+                        44.79464,
+                        41.695099
+                  ]
+            },
+            {
+                  "name": "ვილნიუსის სკვერი",
+                  "text": "O piață urbană primitoare, decorată cu o pictură murală și simboluri ale capitalei lituaniene, Vilnius.",
+                  "category": "park",
+                  "coords": [
+                        44.792448,
+                        41.695231
+                  ]
+            },
+            {
+                  "name": "მამადავითის ეკლესიის სამრეკლო",
+                  "text": "Turnul clopotniță al ansamblului Mama Daviti de pe pantele muntelui sfânt Mtatsminda.",
+                  "category": "tower",
+                  "coords": [
+                        44.789047,
+                        41.695742
+                  ]
+            },
+            {
+                  "name": "ამაღლების ეკლესია",
+                  "text": "Lăcaș de cult creștin situat în cartierul istoric de pe muntele Mtatsminda.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792361,
+                        41.689205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chuvi's Comedy Club",
+                  "text": "An intimate venue for stand-up comedy and humorous performances by local comedians.",
+                  "category": "cultural",
+                  "coords": [
+                        44.791889,
+                        41.70253
+                  ]
+            },
+            {
+                  "name": "Titsian Tabidze House Museum",
+                  "text": "The house-museum of poet Titsian Tabidze displays personal belongings and documents from the era of literary revival.",
+                  "category": "museum",
+                  "coords": [
+                        44.793897,
+                        41.700628
+                  ]
+            },
+            {
+                  "name": "Mose Toidze House-Museum",
+                  "text": "Dedicated to the influential painter Mose Toidze, this museum showcases his significant graphic works.",
+                  "category": "museum",
+                  "coords": [
+                        44.795758,
+                        41.699943
+                  ]
+            },
+            {
+                  "name": "\"Hovhannes Tumanyan's House\" Scientific-Cultural Center",
+                  "text": "A cultural center located in the former Tbilisi home of the famous Armenian poet Hovhannes Tumanyan.",
+                  "category": "museum",
+                  "coords": [
+                        44.793817,
+                        41.689712
+                  ]
+            },
+            {
+                  "name": "Artbeat",
+                  "text": "This contemporary gallery promotes young Georgian artists and presents them at international art fairs.",
+                  "category": "museum",
+                  "coords": [
+                        44.796679,
+                        41.694717
+                  ]
+            },
+            {
+                  "name": "Vanda Art Gallery",
+                  "text": "A renowned private gallery known for its curated exhibitions of modern Georgian art.",
+                  "category": "museum",
+                  "coords": [
+                        44.79456,
+                        41.693523
+                  ]
+            },
+            {
+                  "name": "Baia Gallery",
+                  "text": "A centrally located gallery showcasing a wide range of works by classic and contemporary Georgian masters.",
+                  "category": "museum",
+                  "coords": [
+                        44.796518,
+                        41.696259
+                  ]
+            },
+            {
+                  "name": "House-Museum of Jalil Mammadguluzadeh",
+                  "text": "This house-museum commemorates the Azerbaijani satirist Jalil Mammadguluzadeh, who lived and worked in Tbilisi.",
+                  "category": "museum",
+                  "coords": [
+                        44.794382,
+                        41.696797
+                  ]
+            },
+            {
+                  "name": "Arshakuni Palace",
+                  "text": "This historical residence at the foot of Mtatsminda Mountain reflects the city's aristocratic heritage.",
+                  "category": "castle",
+                  "coords": [
+                        44.792778,
+                        41.701428
+                  ]
+            },
+            {
+                  "name": "Church of Saint Michael of Tver",
+                  "text": "A Russian Orthodox brick church built picturesquely on the slopes of Mtatsminda Mountain.",
+                  "category": "religious",
+                  "coords": [
+                        44.78903,
+                        41.700676
+                  ]
+            },
+            {
+                  "name": "Vasil Gabashvili House",
+                  "text": "A grand Art Nouveau mansion on Rustaveli Avenue, famous for its intricately carved wooden balcony.",
+                  "category": "landmark",
+                  "coords": [
+                        44.790509,
+                        41.702563
+                  ]
+            },
+            {
+                  "name": "Shota Rustaveli",
+                  "text": "Erected in 1942, this monument honors Georgia's national poet Shota Rustaveli against a backdrop of classicist architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.789925,
+                        41.70389
+                  ]
+            },
+            {
+                  "name": "Melik-Azaryants House",
+                  "text": "Built in 1915, this monumental corner house is one of the most distinctive landmarks of early 20th-century architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.791276,
+                        41.703601
+                  ]
+            },
+            {
+                  "name": "Tbilisi Opera and Ballet State Theatre",
+                  "text": "This grand opera house features striking Neo-Moorish architecture and serves as the center of Georgian performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        44.796283,
+                        41.701131
+                  ]
+            },
+            {
+                  "name": "Zurab Tsereteli Museum of Modern Art",
+                  "text": "This modern art museum showcases the monumental sculptures and paintings of the world-famous artist Zurab Tsereteli.",
+                  "category": "museum",
+                  "coords": [
+                        44.795182,
+                        41.701593
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nino",
+                  "text": "Built in 1884, this church nestles on the slope of Mtatsminda, offering a quiet retreat above the city.",
+                  "category": "religious",
+                  "coords": [
+                        44.79464,
+                        41.695099
+                  ]
+            },
+            {
+                  "name": "Vilnius Park",
+                  "text": "A friendly urban square decorated with a mural and symbols of the Lithuanian capital, Vilnius.",
+                  "category": "park",
+                  "coords": [
+                        44.792448,
+                        41.695231
+                  ]
+            },
+            {
+                  "name": "Bell tower of Mama Daviti Church",
+                  "text": "Bell tower of the Mama Daviti ensemble located on the slopes of the holy Mtatsminda mountain.",
+                  "category": "tower",
+                  "coords": [
+                        44.789047,
+                        41.695742
+                  ]
+            },
+            {
+                  "name": "Ascension Church",
+                  "text": "Christian place of worship in the historic district on the Mtatsminda slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        44.792361,
+                        41.689205
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "GE-TB",
     coords: [44.7869, 41.6953],
@@ -669,7 +5583,1060 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-mushtaidi-park-life-v2",
+    id: "ge-mushtaidi-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ძეძვი",
+                  "text": "Der Berg Dsedswi bietet Wanderern einen weiten Blick über die georgische Hauptstadt und die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        44.829586,
+                        41.739016
+                  ]
+            },
+            {
+                  "name": "კვირიკობის მთა",
+                  "text": "Dieser Gipfel in der Nähe von Tiflis ist ein beliebtes Ziel für Naturfreunde und bietet ein ruhiges Panorama über das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        44.864592,
+                        41.752594
+                  ]
+            },
+            {
+                  "name": "ნიკო ფიროსმანაშვილის სახელმწიფო მუზეუმი",
+                  "text": "Dieses Museum in Tiflis ist dem Leben und Werk des berühmten georgischen Malers Niko Pirosmani gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        44.800327,
+                        41.718666
+                  ]
+            },
+            {
+                  "name": "მოძრაობის თეატრი",
+                  "text": "Das Movement Theatre im Muschtaidi-Park spezialisiert sich auf Pantomime, Bewegungskunst und experimentelle Bühnenperformances.",
+                  "category": "cultural",
+                  "coords": [
+                        44.787116,
+                        41.720888
+                  ]
+            },
+            {
+                  "name": "Maryart",
+                  "text": "Dieses moderne Kunstzentrum im Mushtaidi-Park bietet Raum für wechselnde Ausstellungen zeitgenössischer georgischer Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        44.788208,
+                        41.726577
+                  ]
+            },
+            {
+                  "name": "რკინის თეატრი",
+                  "text": "Ein experimentelles Theater in Tiflis, das für seine innovativen Aufführungen in einem charakteristischen Gebäude bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.766762,
+                        41.729807
+                  ]
+            },
+            {
+                  "name": "ჯინო ფერედაისი თბილისი",
+                  "text": "Ein großer Wasserpark mit zahlreichen Rutschen und Thermalbecken, der Erholung für die ganze Familie bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        44.833339,
+                        41.742547
+                  ]
+            },
+            {
+                  "name": "გარდენია შევარდნაძე",
+                  "text": "Ein malerisches Gartenzentrum mit einer Gärtnerei und einem gemütlichen Café inmitten üppiger Pflanzenpracht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.830649,
+                        41.731145
+                  ]
+            },
+            {
+                  "name": "ივერიის ღმრთისმშობლის სახელობის ეკლესია",
+                  "text": "Diese georgisch-orthodoxe Kirche auf dem Machata-Hügel ist der Iveron-Ikone der Gottesmutter gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        44.802111,
+                        41.725325
+                  ]
+            },
+            {
+                  "name": "მუშტაიდი",
+                  "text": "Ein historischer öffentlicher Garten, der in den 1830er Jahren von einem iranischen Flüchtling angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        44.787019,
+                        41.722548
+                  ]
+            },
+            {
+                  "name": "ვახუშტი ბაგრატიონის ხიდი",
+                  "text": "Eine wichtige Verkehrsverbindung über den Fluss Kura, benannt nach dem berühmten georgischen Gelehrten Vakhushti Bagrationi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.781859,
+                        41.725454
+                  ]
+            },
+            {
+                  "name": "Staatliches Seidenmuseum",
+                  "text": "Eines der ältesten Seidenmuseen der Welt, untergebracht in einem prachtvollen Backsteingebäude aus dem 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        44.788208,
+                        41.721887
+                  ]
+            },
+            {
+                  "name": "მუსკომედიის თეატრი",
+                  "text": "Ein renommiertes Theater für Musik und Drama, das nach dem berühmten georgischen Schauspieler Vaso Abashidze benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.788277,
+                        41.720714
+                  ]
+            },
+            {
+                  "name": "Rathaus Tiflis",
+                  "text": "Der Sitz der Stadtverwaltung von Tiflis befindet sich in einem imposanten klassizistischen Gebäude am Freiheitsplatz.",
+                  "category": "historical",
+                  "coords": [
+                        44.775243,
+                        41.725763
+                  ]
+            },
+            {
+                  "name": "საქართველოს ბანკის სათავო ოფისი",
+                  "text": "Dieses architektonische Meisterwerk des Brutalismus besteht aus ineinandergreifenden horizontalen Betonblöcken an einem steilen Hang.",
+                  "category": "landmark",
+                  "coords": [
+                        44.770896,
+                        41.73576
+                  ]
+            },
+            {
+                  "name": "დიდუბის ღვთისმშობლის ეკლესია",
+                  "text": "Eine bedeutende georgisch-orthodoxe Kirche im Stadtteil Didube, die für ihre historische religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.785843,
+                        41.729699
+                  ]
+            },
+            {
+                  "name": "წმინდა ტბელ აბუსერიძის სახელობის",
+                  "text": "Eine orthodoxe Kirche, die nach dem mittelalterlichen georgischen Gelehrten und Heiligen Tbel Abuseridze benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.827061,
+                        41.73192
+                  ]
+            },
+            {
+                  "name": "თბილისის წმ მოწამეთა კვირიკესა და ივლიტას სახელობის ტაძარი",
+                  "text": "Ein christliches Gotteshaus, das den frühen Märtyrern Quiricus und Julitta gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.772303,
+                        41.724411
+                  ]
+            },
+            {
+                  "name": "საბურთალოს წმინდა გიორგის სახელობის ტაძარი",
+                  "text": "Eine moderne orthodoxe Kirche, die das geistliche Zentrum des Wohnviertels Saburtalo bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.771566,
+                        41.727811
+                  ]
+            },
+            {
+                  "name": "დიდუბის წმ. გიორგის ტაძარი",
+                  "text": "Diese dem heiligen Georg gewidmete Kirche ist ein markantes religiöses Wahrzeichen im belebten Viertel Didube.",
+                  "category": "landmark",
+                  "coords": [
+                        44.782869,
+                        41.727642
+                  ]
+            },
+            {
+                  "name": "ქალაქის გული",
+                  "text": "Ein zentrales Einkaufszentrum in Tiflis, das eine Vielzahl von modernen Geschäften und Dienstleistungen unter einem Dach vereint.",
+                  "category": "cultural",
+                  "coords": [
+                        44.793475,
+                        41.724257
+                  ]
+            },
+            {
+                  "name": "ოქროს სავაჭრო ცენტრი",
+                  "text": "Dieser spezialisierte Marktplatz ist in Tiflis berühmt für seinen Handel mit Goldschmuck und Edelmetallen.",
+                  "category": "cultural",
+                  "coords": [
+                        44.797705,
+                        41.720786
+                  ]
+            },
+            {
+                  "name": "საბითუმო საცალო სავაჭრო ცენტრი გიდანი & POLA",
+                  "text": "Ein großes Handelszentrum, das sich auf den Groß- und Einzelhandel mit verschiedenen Konsumgütern konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.790994,
+                        41.732382
+                  ]
+            },
+            {
+                  "name": "პასაჟი",
+                  "text": "Eine beliebte Einkaufspassage, die vor allem für ihre große Auswahl an erschwinglicher Mode und Accessoires bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794847,
+                        41.722646
+                  ]
+            },
+            {
+                  "name": "Zentrale Markthalle",
+                  "text": "Ein traditioneller Markt, auf dem Einheimische täglich frisches Obst, Gemüse und regionale Spezialitäten kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        44.793989,
+                        41.720099
+                  ]
+            },
+            {
+                  "name": "დეზერტირების ბაზრობა",
+                  "text": "Der größte Freiluftmarkt der Stadt, berühmt für seine lebhafte Atmosphäre und die riesige Auswahl an kaukasischen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79422,
+                        41.721166
+                  ]
+            },
+            {
+                  "name": "ნობათი",
+                  "text": "Ein lokales Handelszentrum, das eine Mischung aus täglichen Bedarfsgütern und handwerklichen Produkten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        44.792355,
+                        41.720369
+                  ]
+            },
+            {
+                  "name": "პანდა",
+                  "text": "Ein kleines Einkaufszentrum, das auf die Bedürfnisse der Anwohner mit einer Auswahl an Fachgeschäften zugeschnitten ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.791501,
+                        41.724084
+                  ]
+            },
+            {
+                  "name": "ელიავას ბაზრობა",
+                  "text": "Ein riesiger Markt, der in ganz Georgien für sein umfassendes Angebot an Baumaterialien und Autoteilen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        44.779665,
+                        41.730323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ძეძვი",
+                  "text": "A Dzedzvi-hegy csúcsa tágas kilátást nyújt a grúz fővárosra és a környező hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        44.829586,
+                        41.739016
+                  ]
+            },
+            {
+                  "name": "კვირიკობის მთა",
+                  "text": "Ez a Tbiliszi közelében található hegycsúcs népszerű célpont a természetjárók számára, nyugodt panorámát kínálva a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        44.864592,
+                        41.752594
+                  ]
+            },
+            {
+                  "name": "ნიკო ფიროსმანაშვილის სახელმწიფო მუზეუმი",
+                  "text": "Ez a tbiliszi múzeum a híres grúz festő, Niko Pirosmani életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        44.800327,
+                        41.718666
+                  ]
+            },
+            {
+                  "name": "მოძრაობის თეატრი",
+                  "text": "A Mushtaidi parkban található Movement Theatre a pantomimre, a mozgásművészetre és a kísérleti színpadi előadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        44.787116,
+                        41.720888
+                  ]
+            },
+            {
+                  "name": "Maryart",
+                  "text": "Ez a Mustajidi parkban található művészeti központ kortárs grúz művészek időszaki kiállításainak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        44.788208,
+                        41.726577
+                  ]
+            },
+            {
+                  "name": "რკინის თეატრი",
+                  "text": "Egy kísérleti színház Tbilisziben, amely innovatív előadásairól és jellegzetes épületéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.766762,
+                        41.729807
+                  ]
+            },
+            {
+                  "name": "ჯინო ფერედაისი თბილისი",
+                  "text": "Egy hatalmas vízi park számos csúszdával és termálmedencével, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "recreational",
+                  "coords": [
+                        44.833339,
+                        41.742547
+                  ]
+            },
+            {
+                  "name": "გარდენია შევარდნაძე",
+                  "text": "Egy festői kertészeti központ faiskolával és egy hangulatos kávézóval a buja növényzet közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.830649,
+                        41.731145
+                  ]
+            },
+            {
+                  "name": "ივერიის ღმრთისმშობლის სახელობის ეკლესია",
+                  "text": "Ez a Mahata-dombon álló grúz ortodox templom az Iveroni Istenszülő-ikon tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        44.802111,
+                        41.725325
+                  ]
+            },
+            {
+                  "name": "მუშტაიდი",
+                  "text": "Egy történelmi közpark, amelyet az 1830-as években alapított egy iráni menekült.",
+                  "category": "landmark",
+                  "coords": [
+                        44.787019,
+                        41.722548
+                  ]
+            },
+            {
+                  "name": "ვახუშტი ბაგრატიონის ხიდი",
+                  "text": "Egy fontos közlekedési kapcsolat a Kura folyón, amelyet a híres grúz tudósról, Vahusti Bagrationiról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        44.781859,
+                        41.725454
+                  ]
+            },
+            {
+                  "name": "აბრეშუმის სახელმწიფო მუზეუმი",
+                  "text": "A világ egyik legrégebbi selyemmúzeuma, amely egy pompás, 19. századi téglaépületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        44.788208,
+                        41.721887
+                  ]
+            },
+            {
+                  "name": "მუსკომედიის თეატრი",
+                  "text": "Egy neves zenei és drámai színház, amely a híres grúz színészről, Vaszo Abasidzéről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        44.788277,
+                        41.720714
+                  ]
+            },
+            {
+                  "name": "თბილისის მერია",
+                  "text": "Tbiliszi önkormányzatának székhelye egy impozáns klasszicista épületben található a Szabadság téren.",
+                  "category": "historical",
+                  "coords": [
+                        44.775243,
+                        41.725763
+                  ]
+            },
+            {
+                  "name": "საქართველოს ბანკის სათავო ოფისი",
+                  "text": "A brutalista építészet ezen remekműve egymásba kapcsolódó vízszintes betonblokkokból áll egy meredek domboldalon.",
+                  "category": "landmark",
+                  "coords": [
+                        44.770896,
+                        41.73576
+                  ]
+            },
+            {
+                  "name": "დიდუბის ღვთისმშობლის ეკლესია",
+                  "text": "Egy jelentős grúz ortodox templom Didube negyedben, amely történelmi vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        44.785843,
+                        41.729699
+                  ]
+            },
+            {
+                  "name": "წმინდა ტბელ აბუსერიძის სახელობის",
+                  "text": "Egy ortodox templom, amelyet a középkori grúz tudósról és szentről, Tbel Abuseridzéről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        44.827061,
+                        41.73192
+                  ]
+            },
+            {
+                  "name": "თბილისის წმ მოწამეთა კვირიკესა და ივლიტას სახელობის ტაძარი",
+                  "text": "Egy keresztény templom, amelyet a korai vértanúknak, Kürikosznak és Julittának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.772303,
+                        41.724411
+                  ]
+            },
+            {
+                  "name": "საბურთალოს წმინდა გიორგის სახელობის ტაძარი",
+                  "text": "Egy modern ortodox templom, amely Szaburtalo lakónegyedének spirituális központját alkotja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.771566,
+                        41.727811
+                  ]
+            },
+            {
+                  "name": "დიდუბის წმ. გიორგის ტაძარი",
+                  "text": "Ez a Szent Györgynek szentelt templom kiemelkedő vallási jelkép Didube forgalmas negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.782869,
+                        41.727642
+                  ]
+            },
+            {
+                  "name": "ქალაქის გული",
+                  "text": "Egy központi bevásárlóközpont Tbilisziben, amely számos modern üzletet és szolgáltatást kínál egy fedél alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        44.793475,
+                        41.724257
+                  ]
+            },
+            {
+                  "name": "ოქროს სავაჭრო ცენტრი",
+                  "text": "Ez a specializált piactér Tbilisziben híres az aranyékszerekkel és nemesfémekkel való kereskedelméről.",
+                  "category": "cultural",
+                  "coords": [
+                        44.797705,
+                        41.720786
+                  ]
+            },
+            {
+                  "name": "საბითუმო საცალო სავაჭრო ცენტრი გიდანი & POLA",
+                  "text": "Egy nagyméretű kereskedelmi központ, amely különféle fogyasztási cikkek nagy- és kiskereskedelmére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        44.790994,
+                        41.732382
+                  ]
+            },
+            {
+                  "name": "პასაჟი",
+                  "text": "Egy népszerű bevásárlófolyosó, amely elsősorban megfizethető divatcikkeiről és kiegészítőiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794847,
+                        41.722646
+                  ]
+            },
+            {
+                  "name": "ცენტრალური ბაზრობა",
+                  "text": "Egy hagyományos piac, ahol a helyiek naponta vásárolnak friss gyümölcsöt, zöldséget és regionális különlegességeket.",
+                  "category": "cultural",
+                  "coords": [
+                        44.793989,
+                        41.720099
+                  ]
+            },
+            {
+                  "name": "დეზერტირების ბაზრობა",
+                  "text": "A város legnagyobb szabadtéri piaca, amely élénk hangulatáról és a kaukázusi élelmiszerek hatalmas választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79422,
+                        41.721166
+                  ]
+            },
+            {
+                  "name": "ნობათი",
+                  "text": "Egy helyi kereskedelmi központ, amely napi szükségleti cikkek és kézműves termékek keverékét kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        44.792355,
+                        41.720369
+                  ]
+            },
+            {
+                  "name": "პანდა",
+                  "text": "Egy kisebb bevásárlóközpont, amely szaküzletek választékával szolgálja ki a környékbeli lakosok igényeit.",
+                  "category": "cultural",
+                  "coords": [
+                        44.791501,
+                        41.724084
+                  ]
+            },
+            {
+                  "name": "ელიავას ბაზრობა",
+                  "text": "Egy hatalmas piac, amely egész Grúziában ismert építőanyagok és autóalkatrészek átfogó kínálatáról.",
+                  "category": "cultural",
+                  "coords": [
+                        44.779665,
+                        41.730323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ძეძვი",
+                  "text": "Vârful muntelui Dzedzvi oferă drumeților o vedere panoramică asupra capitalei georgiene și a peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        44.829586,
+                        41.739016
+                  ]
+            },
+            {
+                  "name": "კვირიკობის მთა",
+                  "text": "Acest vârf montan situat lângă Tbilisi este o destinație populară pentru iubitorii de natură, oferind o panoramă liniștită asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        44.864592,
+                        41.752594
+                  ]
+            },
+            {
+                  "name": "ნიკო ფიროსმანაშვილის სახელმწიფო მუზეუმი",
+                  "text": "Acest muzeu din Tbilisi este dedicat vieții și operei celebrului pictor georgian Niko Pirosmani.",
+                  "category": "museum",
+                  "coords": [
+                        44.800327,
+                        41.718666
+                  ]
+            },
+            {
+                  "name": "მოძრაობის თეატრი",
+                  "text": "Situat în parcul Mushtaidi, Movement Theatre este specializat în pantomimă, arta mișcării și spectacole de scenă experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        44.787116,
+                        41.720888
+                  ]
+            },
+            {
+                  "name": "Maryart",
+                  "text": "Acest centru de artă din parcul Muștaidi găzduiește expoziții temporare ale artiștilor georgieni contemporani.",
+                  "category": "cultural",
+                  "coords": [
+                        44.788208,
+                        41.726577
+                  ]
+            },
+            {
+                  "name": "რკინის თეატრი",
+                  "text": "Un teatru experimental din Tbilisi, cunoscut pentru spectacolele sale inovatoare și clădirea sa caracteristică.",
+                  "category": "cultural",
+                  "coords": [
+                        44.766762,
+                        41.729807
+                  ]
+            },
+            {
+                  "name": "ჯინო ფერედაისი თბილისი",
+                  "text": "Un parc acvatic mare, cu numeroase tobogane și bazine termale, oferind relaxare pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        44.833339,
+                        41.742547
+                  ]
+            },
+            {
+                  "name": "გარდენია შევარდნაძე",
+                  "text": "Un centru de grădinărit pitoresc, cu o pepinieră și o cafenea primitoare în mijlocul vegetației luxuriante.",
+                  "category": "landmark",
+                  "coords": [
+                        44.830649,
+                        41.731145
+                  ]
+            },
+            {
+                  "name": "ივერიის ღმრთისმშობლის სახელობის ეკლესია",
+                  "text": "Această biserică ortodoxă georgiană de pe dealul Makhata este dedicată Icoanei Maicii Domnului din Iviron.",
+                  "category": "religious",
+                  "coords": [
+                        44.802111,
+                        41.725325
+                  ]
+            },
+            {
+                  "name": "მუშტაიდი",
+                  "text": "O grădină publică istorică, înființată în anii 1830 de un refugiat iranian.",
+                  "category": "landmark",
+                  "coords": [
+                        44.787019,
+                        41.722548
+                  ]
+            },
+            {
+                  "name": "ვახუშტი ბაგრატიონის ხიდი",
+                  "text": "O legătură rutieră importantă peste râul Kura, numită după celebrul învățat georgian Vakhushti Bagrationi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.781859,
+                        41.725454
+                  ]
+            },
+            {
+                  "name": "აბრეშუმის სახელმწიფო მუზეუმი",
+                  "text": "Unul dintre cele mai vechi muzee ale mătăsii din lume, găzduit într-o clădire splendidă din cărămidă din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        44.788208,
+                        41.721887
+                  ]
+            },
+            {
+                  "name": "მუსკომედიის თეატრი",
+                  "text": "Un teatru renumit de muzică și dramă, numit după celebrul actor georgian Vaso Abashidze.",
+                  "category": "cultural",
+                  "coords": [
+                        44.788277,
+                        41.720714
+                  ]
+            },
+            {
+                  "name": "თბილისის მერია",
+                  "text": "Sediul primăriei din Tbilisi se află într-o clădire neoclasică impunătoare din Piața Libertății.",
+                  "category": "historical",
+                  "coords": [
+                        44.775243,
+                        41.725763
+                  ]
+            },
+            {
+                  "name": "საქართველოს ბანკის სათავო ოფისი",
+                  "text": "Această capodoperă arhitecturală brutalistă este formată din blocuri de beton orizontale interconectate, pe o pantă abruptă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.770896,
+                        41.73576
+                  ]
+            },
+            {
+                  "name": "დიდუბის ღვთისმშობლის ეკლესია",
+                  "text": "O biserică ortodoxă georgiană importantă din cartierul Didube, cunoscută pentru semnificația sa religioasă istorică.",
+                  "category": "religious",
+                  "coords": [
+                        44.785843,
+                        41.729699
+                  ]
+            },
+            {
+                  "name": "წმინდა ტბელ აბუსერიძის სახელობის",
+                  "text": "O biserică ortodoxă numită după savantul și sfântul georgian medieval Tbel Abuseridze.",
+                  "category": "landmark",
+                  "coords": [
+                        44.827061,
+                        41.73192
+                  ]
+            },
+            {
+                  "name": "თბილისის წმ მოწამეთა კვირიკესა და ივლიტას სახელობის ტაძარი",
+                  "text": "Un lăcaș de cult creștin dedicat timpurii martiri Chiric și Julieta.",
+                  "category": "landmark",
+                  "coords": [
+                        44.772303,
+                        41.724411
+                  ]
+            },
+            {
+                  "name": "საბურთალოს წმინდა გიორგის სახელობის ტაძარი",
+                  "text": "O biserică ortodoxă modernă care constituie centrul spiritual al cartierului rezidențial Saburtalo.",
+                  "category": "landmark",
+                  "coords": [
+                        44.771566,
+                        41.727811
+                  ]
+            },
+            {
+                  "name": "დიდუბის წმ. გიორგის ტაძარი",
+                  "text": "Această biserică dedicată Sfântului Gheorghe este un reper religios proeminent în cartierul aglomerat Didube.",
+                  "category": "landmark",
+                  "coords": [
+                        44.782869,
+                        41.727642
+                  ]
+            },
+            {
+                  "name": "ქალაქის გული",
+                  "text": "Un centru comercial central din Tbilisi, care reunește o varietate de magazine și servicii moderne sub același acoperiš.",
+                  "category": "cultural",
+                  "coords": [
+                        44.793475,
+                        41.724257
+                  ]
+            },
+            {
+                  "name": "ოქროს სავაჭრო ცენტრი",
+                  "text": "Această piață specializată este faimoasă în Tbilisi pentru comerțul cu bijuterii de aur și metale prețioase.",
+                  "category": "cultural",
+                  "coords": [
+                        44.797705,
+                        41.720786
+                  ]
+            },
+            {
+                  "name": "საბითუმო საცალო სავაჭრო ცენტრი გიდანი & POLA",
+                  "text": "Un centru comercial de mari dimensiuni, axat pe comerțul cu ridicata și cu amănuntul al diverselor bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        44.790994,
+                        41.732382
+                  ]
+            },
+            {
+                  "name": "პასაჟი",
+                  "text": "O pasare comercială populară, cunoscută în special pentru selecția sa de modă și accesorii la prețuri accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794847,
+                        41.722646
+                  ]
+            },
+            {
+                  "name": "ცენტრალური ბაზრობა",
+                  "text": "O piață tradițională de unde localnicii cumpără zilnic fructe proaspete, legume și specialități regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        44.793989,
+                        41.720099
+                  ]
+            },
+            {
+                  "name": "დეზერტირების ბაზრობა",
+                  "text": "Cea mai mare piață în aer liber din oraș, faimoasă pentru atmosfera sa vibrantă și selecția uriașă de produse alimentare caucaziene.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79422,
+                        41.721166
+                  ]
+            },
+            {
+                  "name": "ნობათი",
+                  "text": "Un centru comercial local care oferă un mix de bunuri de uz zilnic și produse artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        44.792355,
+                        41.720369
+                  ]
+            },
+            {
+                  "name": "პანდა",
+                  "text": "Un centru comercial de dimensiuni reduse, adaptat nevoilor rezidenților locali cu o selecție de magazine specializate.",
+                  "category": "cultural",
+                  "coords": [
+                        44.791501,
+                        41.724084
+                  ]
+            },
+            {
+                  "name": "ელიავას ბაზრობა",
+                  "text": "O piață uriașă, cunoscută în toată Georgia pentru gama sa cuprinzătoare de materiale de construcții și piese auto.",
+                  "category": "cultural",
+                  "coords": [
+                        44.779665,
+                        41.730323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dzedzvi",
+                  "text": "The Dzedzvi peak offers hikers a wide view over the Georgian capital and the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        44.829586,
+                        41.739016
+                  ]
+            },
+            {
+                  "name": "Kvirikobis Mta",
+                  "text": "This mountain peak near Tbilisi is a popular destination for nature lovers, offering a quiet panorama over the valley.",
+                  "category": "natural",
+                  "coords": [
+                        44.864592,
+                        41.752594
+                  ]
+            },
+            {
+                  "name": "State Museum of Niko Pirosmanashvili",
+                  "text": "This museum in Tbilisi is dedicated to the life and work of the famous Georgian painter Niko Pirosmani.",
+                  "category": "museum",
+                  "coords": [
+                        44.800327,
+                        41.718666
+                  ]
+            },
+            {
+                  "name": "Movement Theatre",
+                  "text": "Located in Mushtaidi Park, the Movement Theatre specializes in mime, movement art, and experimental stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        44.787116,
+                        41.720888
+                  ]
+            },
+            {
+                  "name": "Maryart",
+                  "text": "This modern arts centre in Mushtaidi Park provides a space for rotating exhibitions by contemporary Georgian artists.",
+                  "category": "cultural",
+                  "coords": [
+                        44.788208,
+                        41.726577
+                  ]
+            },
+            {
+                  "name": "რკინის თეატრი",
+                  "text": "An experimental theatre in Tbilisi known for its innovative performances and distinctive building.",
+                  "category": "cultural",
+                  "coords": [
+                        44.766762,
+                        41.729807
+                  ]
+            },
+            {
+                  "name": "Gino Paradise Tbilisi",
+                  "text": "A large water park featuring numerous slides and thermal pools, offering recreation for the whole family.",
+                  "category": "recreational",
+                  "coords": [
+                        44.833339,
+                        41.742547
+                  ]
+            },
+            {
+                  "name": "Gardenia Shevardnadze",
+                  "text": "A picturesque garden centre featuring a plant nursery and a cozy café set amidst lush greenery.",
+                  "category": "landmark",
+                  "coords": [
+                        44.830649,
+                        41.731145
+                  ]
+            },
+            {
+                  "name": "Church of the Mother of God of Iveria",
+                  "text": "This Georgian Orthodox church on Makhata hill is dedicated to the Iveron Icon of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        44.802111,
+                        41.725325
+                  ]
+            },
+            {
+                  "name": "Mushtaidi",
+                  "text": "A historic public garden founded in the 1830s by an Iranian refugee.",
+                  "category": "landmark",
+                  "coords": [
+                        44.787019,
+                        41.722548
+                  ]
+            },
+            {
+                  "name": "Vakhushti Bagrationi Bridge",
+                  "text": "A key road bridge spanning the Mtkvari River, named after the famous Georgian scholar Vakhushti Bagrationi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.781859,
+                        41.725454
+                  ]
+            },
+            {
+                  "name": "State Silk Museum",
+                  "text": "One of the oldest silk museums in the world, housed in a magnificent 19th-century brick building.",
+                  "category": "museum",
+                  "coords": [
+                        44.788208,
+                        41.721887
+                  ]
+            },
+            {
+                  "name": "Theatre of Music and Drama",
+                  "text": "A renowned theatre of music and drama named after the famous Georgian actor Vaso Abashidze.",
+                  "category": "cultural",
+                  "coords": [
+                        44.788277,
+                        41.720714
+                  ]
+            },
+            {
+                  "name": "Tbilisi City Hall",
+                  "text": "The seat of the Tbilisi municipal government is located in an imposing neoclassical building on Freedom Square.",
+                  "category": "historical",
+                  "coords": [
+                        44.775243,
+                        41.725763
+                  ]
+            },
+            {
+                  "name": "Bank of Georgia Headquarters",
+                  "text": "This brutalist architectural masterpiece consists of interlocking horizontal concrete blocks set on a steep hillside.",
+                  "category": "landmark",
+                  "coords": [
+                        44.770896,
+                        41.73576
+                  ]
+            },
+            {
+                  "name": "St. Mariam Church of Didube",
+                  "text": "A prominent Georgian Orthodox church in the Didube district, known for its historical religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        44.785843,
+                        41.729699
+                  ]
+            },
+            {
+                  "name": "Church of Saint Tbel Abuseridze",
+                  "text": "An Orthodox church named after the medieval Georgian scholar and saint, Tbel Abuseridze.",
+                  "category": "landmark",
+                  "coords": [
+                        44.827061,
+                        41.73192
+                  ]
+            },
+            {
+                  "name": "Martyrs' Kvirike and Ivlita Temple",
+                  "text": "A Christian place of worship dedicated to the early martyrs Cyricus and Julitta.",
+                  "category": "landmark",
+                  "coords": [
+                        44.772303,
+                        41.724411
+                  ]
+            },
+            {
+                  "name": "საბურთალოს წმინდა გიორგის სახელობის ტაძარი",
+                  "text": "A modern Orthodox church serving as a spiritual centre for the Saburtalo residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        44.771566,
+                        41.727811
+                  ]
+            },
+            {
+                  "name": "Didube St. George Church",
+                  "text": "This church dedicated to Saint George is a prominent religious landmark in the busy Didube district.",
+                  "category": "landmark",
+                  "coords": [
+                        44.782869,
+                        41.727642
+                  ]
+            },
+            {
+                  "name": "City Heart",
+                  "text": "A central shopping hub in Tbilisi, offering a variety of modern retail stores and services under one roof.",
+                  "category": "cultural",
+                  "coords": [
+                        44.793475,
+                        41.724257
+                  ]
+            },
+            {
+                  "name": "ოქროს სავაჭრო ცენტრი",
+                  "text": "This specialized marketplace is famous in Tbilisi for its trade in gold jewelry and precious metals.",
+                  "category": "cultural",
+                  "coords": [
+                        44.797705,
+                        41.720786
+                  ]
+            },
+            {
+                  "name": "საბითუმო საცალო სავაჭრო ცენტრი გიდანი & POLA",
+                  "text": "A large-scale commercial centre focused on the wholesale and retail trade of various consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        44.790994,
+                        41.732382
+                  ]
+            },
+            {
+                  "name": "Pasaji",
+                  "text": "A popular shopping passage known primarily for its wide selection of affordable fashion and accessories.",
+                  "category": "cultural",
+                  "coords": [
+                        44.794847,
+                        41.722646
+                  ]
+            },
+            {
+                  "name": "Central Bazaar",
+                  "text": "A traditional market where locals buy fresh fruit, vegetables, and regional specialties daily.",
+                  "category": "cultural",
+                  "coords": [
+                        44.793989,
+                        41.720099
+                  ]
+            },
+            {
+                  "name": "Dezerter Bazaar",
+                  "text": "The city's largest open-air market, famous for its vibrant atmosphere and huge selection of Caucasian food products.",
+                  "category": "cultural",
+                  "coords": [
+                        44.79422,
+                        41.721166
+                  ]
+            },
+            {
+                  "name": "ნობათი",
+                  "text": "A local trade centre offering a mix of daily necessities and artisanal products.",
+                  "category": "cultural",
+                  "coords": [
+                        44.792355,
+                        41.720369
+                  ]
+            },
+            {
+                  "name": "პანდა",
+                  "text": "A smaller shopping centre tailored to the needs of local residents with a selection of specialty shops.",
+                  "category": "cultural",
+                  "coords": [
+                        44.791501,
+                        41.724084
+                  ]
+            },
+            {
+                  "name": "Eliava Market",
+                  "text": "A massive market renowned throughout Georgia for its comprehensive range of construction materials and auto parts.",
+                  "category": "cultural",
+                  "coords": [
+                        44.779665,
+                        41.730323
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "GE-TB",
     coords: [44.7872, 41.7242],
@@ -705,7 +6672,484 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-tsitsinatela-life-v2",
+    id: "ge-tsitsinatela-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "დროზერა",
+                  "text": "Eine naturnahe Attraktion nahe Tsitsinatela, benannt nach dem in den lokalen Feuchtgebieten vorkommenden Sonnentau.",
+                  "category": "landmark",
+                  "coords": [
+                        41.791213,
+                        41.864391
+                  ]
+            },
+            {
+                  "name": "ბლექ სი არენა",
+                  "text": "Ein moderner Konzertsaal mit über 10.000 Plätzen und einem fahrbaren Dach, der 2016 eröffnet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        41.774816,
+                        41.938652
+                  ]
+            },
+            {
+                  "name": "ქობულეთის აღკვეთილი",
+                  "text": "Ein einzigartiges Torfmoor-Ökosystem in Meeresnähe, das seltene Pflanzen und vielfältige Vogelarten beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        41.804518,
+                        41.861202
+                  ]
+            },
+            {
+                  "name": "ქობულეთის სახელმწიფო ნაკრძალი",
+                  "text": "Ein streng geschütztes Gebiet aus Reliktmooren und Sumpflandschaften, das für die Artenvielfalt von Kobuleti von großer Bedeutung ist.",
+                  "category": "natural",
+                  "coords": [
+                        41.799653,
+                        41.854071
+                  ]
+            },
+            {
+                  "name": "მუსიკოსების პარკი",
+                  "text": "Ein Park in Schekwetili mit Skulpturen berühmter Musiker und Lautsprechern, die deren Werke unter den Bäumen spielen.",
+                  "category": "landmark",
+                  "coords": [
+                        41.773844,
+                        41.942601
+                  ]
+            },
+            {
+                  "name": "საქართველო მინიატურებში",
+                  "text": "Ein Themenpark mit detailgetreuen Miniaturmodellen der berühmtesten architektonischen Wahrzeichen Georgiens.",
+                  "category": "recreational",
+                  "coords": [
+                        41.777639,
+                        41.904289
+                  ]
+            },
+            {
+                  "name": "ციცინათელა",
+                  "text": "Ein beliebter Vergnügungspark an der Küste mit zahlreichen Fahrgeschäften, die nachts den Himmel erhellen.",
+                  "category": "recreational",
+                  "coords": [
+                        41.776704,
+                        41.907213
+                  ]
+            },
+            {
+                  "name": "გვარას ივერიის ღვთისმშობლის ეკლესია",
+                  "text": "Eine christliche Kirche in Gwara, die der Ikone der Gottesmutter von Iberien gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        41.838522,
+                        41.832153
+                  ]
+            },
+            {
+                  "name": "სტარავერების (\"ძველი მორწმუნეების\") ნაეკლესიარი  ლაითურთან",
+                  "text": "Die Überreste einer ehemaligen Kirche der altgläubigen Gemeinschaft in der Nähe von Laituri.",
+                  "category": "landmark",
+                  "coords": [
+                        41.866005,
+                        41.91692
+                  ]
+            },
+            {
+                  "name": "ლაითურის VI რაიონის მეჩეთი",
+                  "text": "Eine lokale Moschee, die der muslimischen Gemeinde im sechsten Distrikt von Laituri dient.",
+                  "category": "landmark",
+                  "coords": [
+                        41.882675,
+                        41.895284
+                  ]
+            },
+            {
+                  "name": "თიკერის მეჩეთი",
+                  "text": "Eine Gemeindemoschee im Tikeri-Gebiet, die einen Ort für das islamische Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        41.864997,
+                        41.884736
+                  ]
+            },
+            {
+                  "name": "წმ. ბარბარეს სახელობის ნაღობილევის ეკლესია",
+                  "text": "Eine der heiligen Märtyrerin Barbara gewidmete christliche Kirche im Dorf Nagobilewi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.857539,
+                        41.939225
+                  ]
+            },
+            {
+                  "name": "ქობულეთის წმინდა გრიგოლ ხანძთელის ეკლესია",
+                  "text": "Eine moderne orthodoxe Kirche in Kobuleti, die dem einflussreichen Mönch Grigol Chandsteli gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        41.778908,
+                        41.876539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "დროზერა",
+                  "text": "Természeti látnivaló Tsitsinatela közelében, amelyet a helyi mocsarakban őshonos harmatfűről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        41.791213,
+                        41.864391
+                  ]
+            },
+            {
+                  "name": "ბლექ სი არენა",
+                  "text": "Egy 2016-ban megnyitott, több mint 10 000 férőhelyes, elhúzható tetővel rendelkező modern koncerthelyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        41.774816,
+                        41.938652
+                  ]
+            },
+            {
+                  "name": "ქობულეთის აღკვეთილი",
+                  "text": "Egyedülálló tőzeglápos ökoszisztéma a tengerpart közelében, amely ritka növényeknek és változatos madárvilágnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        41.804518,
+                        41.861202
+                  ]
+            },
+            {
+                  "name": "ქობულეთის სახელმწიფო ნაკრძალი",
+                  "text": "Szigorúan védett terület reliktum lápokkal és mocsarakkal, amely létfontosságú Kobuleti biológiai sokfélesége szempontjából.",
+                  "category": "natural",
+                  "coords": [
+                        41.799653,
+                        41.854071
+                  ]
+            },
+            {
+                  "name": "მუსიკოსების პარკი",
+                  "text": "Park Shekvetilben, ahol híres zenészek szobrai láthatók, és a fák alatt az ő zenéjük szól a hangszórókból.",
+                  "category": "landmark",
+                  "coords": [
+                        41.773844,
+                        41.942601
+                  ]
+            },
+            {
+                  "name": "საქართველო მინიატურებში",
+                  "text": "Tematikus park, ahol Grúzia leghíresebb építészeti nevezetességeinek részletgazdag makettjei láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        41.777639,
+                        41.904289
+                  ]
+            },
+            {
+                  "name": "ციცინათელა",
+                  "text": "Népszerű tengerparti vidámpark számos játékkal, amelyek éjszaka kivilágítják az eget.",
+                  "category": "recreational",
+                  "coords": [
+                        41.776704,
+                        41.907213
+                  ]
+            },
+            {
+                  "name": "გვარას ივერიის ღვთისმშობლის ეკლესია",
+                  "text": "Az Ibériai Szűzanya-ikonnak szentelt keresztény templom Gvara faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        41.838522,
+                        41.832153
+                  ]
+            },
+            {
+                  "name": "სტარავერების (\"ძველი მორწმუნეების\") ნაეკლესიარი  ლაითურთან",
+                  "text": "Az óhitű közösség egykori templomának maradványai Laituri közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        41.866005,
+                        41.91692
+                  ]
+            },
+            {
+                  "name": "ლაითურის VI რაიონის მეჩეთი",
+                  "text": "Helyi mecset, amely Laituri hatodik kerületének muszlim közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        41.882675,
+                        41.895284
+                  ]
+            },
+            {
+                  "name": "თიკერის მეჩეთი",
+                  "text": "Közösségi mecset Tikeri területén, amely helyszínt biztosít az iszlám imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        41.864997,
+                        41.884736
+                  ]
+            },
+            {
+                  "name": "წმ. ბარბარეს სახელობის ნაღობილევის ეკლესია",
+                  "text": "Szent Borbála vértanúnak szentelt keresztény templom Nagobilevi faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        41.857539,
+                        41.939225
+                  ]
+            },
+            {
+                  "name": "ქობულეთის წმინდა გრიგოლ ხანძთელის ეკლესია",
+                  "text": "Modern ortodox templom Kobuletiben, amelyet a befolyásos szerzetesnek, Grigol Khandztelinek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        41.778908,
+                        41.876539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "დროზერა",
+                  "text": "O atracție tematică naturală lângă Tsitsinatela, numită după plantele carnivore Drosera din zonele umede locale.",
+                  "category": "landmark",
+                  "coords": [
+                        41.791213,
+                        41.864391
+                  ]
+            },
+            {
+                  "name": "ბლექ სი არენა",
+                  "text": "O sală de concerte modernă cu peste 10.000 de locuri și un acoperiș retractabil, deschisă în 2016.",
+                  "category": "cultural",
+                  "coords": [
+                        41.774816,
+                        41.938652
+                  ]
+            },
+            {
+                  "name": "ქობულეთის აღკვეთილი",
+                  "text": "Un ecosistem unic de turbărie lângă mare, care adăpostește plante rare și specii de păsări diverse.",
+                  "category": "natural",
+                  "coords": [
+                        41.804518,
+                        41.861202
+                  ]
+            },
+            {
+                  "name": "ქობულეთის სახელმწიფო ნაკრძალი",
+                  "text": "O zonă strict protejată de mlaștini relicte, vitală pentru biodiversitatea regiunii Kobuleti.",
+                  "category": "natural",
+                  "coords": [
+                        41.799653,
+                        41.854071
+                  ]
+            },
+            {
+                  "name": "მუსიკოსების პარკი",
+                  "text": "Un parc în Shekvetili cu sculpturi ale unor muzicieni celebri și difuzoare care redau muzica lor sub copaci.",
+                  "category": "landmark",
+                  "coords": [
+                        41.773844,
+                        41.942601
+                  ]
+            },
+            {
+                  "name": "საქართველო მინიატურებში",
+                  "text": "Un parc tematic ce prezintă machete detaliate ale celor mai faimoase repere arhitecturale din Georgia.",
+                  "category": "recreational",
+                  "coords": [
+                        41.777639,
+                        41.904289
+                  ]
+            },
+            {
+                  "name": "ციცინათელა",
+                  "text": "Un parc de distracții popular la malul mării, cu numeroase atracții care luminează cerul nopții.",
+                  "category": "recreational",
+                  "coords": [
+                        41.776704,
+                        41.907213
+                  ]
+            },
+            {
+                  "name": "გვარას ივერიის ღვთისმშობლის ეკლესია",
+                  "text": "O biserică creștină în Gvara, dedicată Icoanei Maicii Domnului din Iveria.",
+                  "category": "landmark",
+                  "coords": [
+                        41.838522,
+                        41.832153
+                  ]
+            },
+            {
+                  "name": "სტარავერების (\"ძველი მორწმუნეების\") ნაეკლესიარი  ლაითურთან",
+                  "text": "Rămășițele unei foste biserici a comunității de rit vechi din apropiere de Laituri.",
+                  "category": "landmark",
+                  "coords": [
+                        41.866005,
+                        41.91692
+                  ]
+            },
+            {
+                  "name": "ლაითურის VI რაიონის მეჩეთი",
+                  "text": "O moschee locală care deservește comunitatea musulmană din districtul al șaselea al Laituri.",
+                  "category": "landmark",
+                  "coords": [
+                        41.882675,
+                        41.895284
+                  ]
+            },
+            {
+                  "name": "თიკერის მეჩეთი",
+                  "text": "O moschee comunitară în zona Tikeri, oferind un loc pentru rugăciunea islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        41.864997,
+                        41.884736
+                  ]
+            },
+            {
+                  "name": "წმ. ბარბარეს სახელობის ნაღობილევის ეკლესია",
+                  "text": "O biserică creștină dedicată Sfintei Mucenițe Varvara în satul Nagobilevi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.857539,
+                        41.939225
+                  ]
+            },
+            {
+                  "name": "ქობულეთის წმინდა გრიგოლ ხანძთელის ეკლესია",
+                  "text": "O biserică ortodoxă modernă în Kobuleti, dedicată influentului călugăr Grigol Khandzteli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.778908,
+                        41.876539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drosera",
+                  "text": "A nature-themed attraction near Tsitsinatela, named after the sundew plants found in the local wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        41.791213,
+                        41.864391
+                  ]
+            },
+            {
+                  "name": "Black Sea Arena",
+                  "text": "A modern concert venue with over 10,000 seats and a retractable roof, opened in 2016.",
+                  "category": "cultural",
+                  "coords": [
+                        41.774816,
+                        41.938652
+                  ]
+            },
+            {
+                  "name": "Kobuleti Managed Reserve",
+                  "text": "A unique peatland ecosystem near the coast, home to rare flora and diverse bird species.",
+                  "category": "natural",
+                  "coords": [
+                        41.804518,
+                        41.861202
+                  ]
+            },
+            {
+                  "name": "Kobuleti Nature Reserve",
+                  "text": "A strictly protected area of relict marshes and wetlands, vital for biodiversity in the Kobuleti region.",
+                  "category": "natural",
+                  "coords": [
+                        41.799653,
+                        41.854071
+                  ]
+            },
+            {
+                  "name": "Musicians Park",
+                  "text": "A park in Shekvetili featuring sculptures of famous musicians and speakers playing their music under the trees.",
+                  "category": "landmark",
+                  "coords": [
+                        41.773844,
+                        41.942601
+                  ]
+            },
+            {
+                  "name": "Georgia in miniatures",
+                  "text": "A theme park featuring detailed scale models of Georgia's most famous architectural landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        41.777639,
+                        41.904289
+                  ]
+            },
+            {
+                  "name": "Tsitsinatela",
+                  "text": "A popular seaside amusement park with numerous rides that light up the night sky near the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        41.776704,
+                        41.907213
+                  ]
+            },
+            {
+                  "name": "გვარას ივერიის ღვთისმშობლის ეკლესია",
+                  "text": "A Christian church in Gvara, dedicated to the Iveria Icon of the Mother of God.",
+                  "category": "landmark",
+                  "coords": [
+                        41.838522,
+                        41.832153
+                  ]
+            },
+            {
+                  "name": "სტარავერების (\"ძველი მორწმუნეების\") ნაეკლესიარი  ლაითურთან",
+                  "text": "The remains of a former church belonging to the Old Believer community near Laituri.",
+                  "category": "landmark",
+                  "coords": [
+                        41.866005,
+                        41.91692
+                  ]
+            },
+            {
+                  "name": "ლაითურის VI რაიონის მეჩეთი",
+                  "text": "A local mosque serving the Muslim community in the sixth district of Laituri.",
+                  "category": "landmark",
+                  "coords": [
+                        41.882675,
+                        41.895284
+                  ]
+            },
+            {
+                  "name": "თიკერის მეჩეთი",
+                  "text": "A community mosque in the Tikeri area, providing a place for Islamic prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        41.864997,
+                        41.884736
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Great Martyr Barbara in Nagobilevi",
+                  "text": "A Christian church dedicated to St. Barbara, situated in the village of Nagobilevi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.857539,
+                        41.939225
+                  ]
+            },
+            {
+                  "name": "St. Grigol Khandzteli Church of Kobuleti",
+                  "text": "A modern Orthodox church in Kobuleti dedicated to the influential monk St. Grigol Khandzteli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.778908,
+                        41.876539
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "GE-GU",
     coords: [41.7758, 41.9058],
@@ -741,7 +7185,1024 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-kakheti-vineyards-life-v2",
+    id: "ge-kakheti-vineyards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shaverge",
+                  "text": "Ein bemerkenswerter historischer oder natürlicher Ort im Herzen der Weinregion Kachetien.",
+                  "category": "landmark",
+                  "coords": [
+                        45.738171,
+                        41.954176
+                  ]
+            },
+            {
+                  "name": "შილდის (ვახვახიშვილების) ციხე",
+                  "text": "Mittelalterliche Festungsruinen in der Nähe des Dorfes Schilda.",
+                  "category": "historical",
+                  "coords": [
+                        45.717801,
+                        42.005525
+                  ]
+            },
+            {
+                  "name": "ნაგებების კომპლექსი ( სამნავიანი ბაზილიკა და მარანი )",
+                  "text": "Ruinen einer dreischiffigen Basilika und eines traditionellen georgischen Weinkellers.",
+                  "category": "historical",
+                  "coords": [
+                        45.745282,
+                        41.978055
+                  ]
+            },
+            {
+                  "name": "ჭაბუკაურის სატაძრო კომპლექსი",
+                  "text": "Überreste einer der ältesten christlichen Basiliken Georgiens aus dem 4. bis 5. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        45.756752,
+                        41.977478
+                  ]
+            },
+            {
+                  "name": "გადასახვევი ცხრაკარას ეკლესიისკენ",
+                  "text": "Straßenkreuzung, die zum Tskhrakara-Klosterkomplex in den Wäldern führt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.775287,
+                        41.923834
+                  ]
+            },
+            {
+                  "name": "Nekressi",
+                  "text": "Ein alter Klosterkomplex auf einem Hügel mit Blick auf das Alazani-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        45.76217,
+                        41.973683
+                  ]
+            },
+            {
+                  "name": "The Monastery Complex of Nekresi",
+                  "text": "Historische religiöse Stätte mit einigen der frühesten christlichen Kirchen Georgiens.",
+                  "category": "landmark",
+                  "coords": [
+                        45.768641,
+                        41.972112
+                  ]
+            },
+            {
+                  "name": "კალაურის წმ.ნინოს დარბაზული ეკლესია",
+                  "text": "Der heiligen Nino gewidmete Kirche, die das Christentum nach Georgien brachte.",
+                  "category": "religious",
+                  "coords": [
+                        45.662802,
+                        41.837924
+                  ]
+            },
+            {
+                  "name": "ვაჩნაძიანის წმ.გიორგის ეკლესია \"ამიდასტური\"",
+                  "text": "Eine einzigartige Kirchenruine aus dem 8. bis 9. Jahrhundert, bekannt für ihren besonderen Baustil.",
+                  "category": "religious",
+                  "coords": [
+                        45.657298,
+                        41.848503
+                  ]
+            },
+            {
+                  "name": "ნეკრესის ცეცხლის ტაძარი",
+                  "text": "Seltene Ruinen eines zoroastrischen Feuertempels, die unter dem Nekresi-Kloster entdeckt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        45.760822,
+                        41.967478
+                  ]
+            },
+            {
+                  "name": "შილდის ნათლისმცემლის ეკლესია",
+                  "text": "Eine beschauliche georgisch-orthodoxe Kirche im Weinbauort Schilda.",
+                  "category": "landmark",
+                  "coords": [
+                        45.733423,
+                        42.001717
+                  ]
+            },
+            {
+                  "name": "სამლოცველო ნიში",
+                  "text": "Ein kleiner religiöser Schrein am Wegesrand im Alazani-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        45.760861,
+                        41.972655
+                  ]
+            },
+            {
+                  "name": "შილდის წმ. ნინოს ეკლესია",
+                  "text": "Eine christliche Steinkirche in Schilda, die der Heiligen Nino gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.709029,
+                        41.999371
+                  ]
+            },
+            {
+                  "name": "ენისელის ყველაწმინდის ეკლესია",
+                  "text": "Eine dörfliche Steinkirche in Enisseli, inmitten der kachetischen Weinberge.",
+                  "category": "landmark",
+                  "coords": [
+                        45.670364,
+                        41.998831
+                  ]
+            },
+            {
+                  "name": "ეკლესია ფაშაანის ღვთისმშობელი",
+                  "text": "Eine kleine Marienkirche im ländlichen Pashaani, erbaut im klassischen georgischen Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        45.732093,
+                        41.912872
+                  ]
+            },
+            {
+                  "name": "Monastyr of Kindzmarauli",
+                  "text": "Ein Kloster in der Nähe der berühmten Kindzmarauli-Weinberge im Kaukasus-Vorland.",
+                  "category": "landmark",
+                  "coords": [
+                        45.765605,
+                        41.912002
+                  ]
+            },
+            {
+                  "name": "სანავარდოს წმ. გიორგის (ღვთისმშობლის) ეკლესია",
+                  "text": "Eine dem Heiligen Georg geweihte Dorfkirche in Sanavardo mit traditionellem Mauerwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        45.815461,
+                        41.879121
+                  ]
+            },
+            {
+                  "name": "ვაზისუბნის წმ.გიორგის ეკლესია(\"სამკარიანი\")",
+                  "text": "Die St.-Georgs-Kirche von Vazisubani, lokal bekannt als die „Dreitürige“.",
+                  "category": "landmark",
+                  "coords": [
+                        45.70706,
+                        41.837072
+                  ]
+            },
+            {
+                  "name": "კვირაცხოვლის ეკლესია",
+                  "text": "Eine kleine orthodoxe Kapelle in der fruchtbaren Region Kachetien.",
+                  "category": "landmark",
+                  "coords": [
+                        45.667721,
+                        41.836345
+                  ]
+            },
+            {
+                  "name": "ქაშუეთის ეკლესია",
+                  "text": "Die Kaschueti-Kirche von Schilda, ein typisches Beispiel ländlicher georgischer Sakralarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        45.655004,
+                        41.842997
+                  ]
+            },
+            {
+                  "name": "წმ. გიორგი (გომართის) კომპლექსი",
+                  "text": "Ein historischer Kirchenkomplex in Gomarti, umgeben von kachetischen Weinfeldern.",
+                  "category": "landmark",
+                  "coords": [
+                        45.645988,
+                        41.844272
+                  ]
+            },
+            {
+                  "name": "უსანეთის ეკლესია",
+                  "text": "Eine einsame Steinkirche in Usaneti, die die weite Alazani-Ebene überblickt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.653196,
+                        41.844982
+                  ]
+            },
+            {
+                  "name": "ტოღნიანის წმ. გიორგის ეკლესია",
+                  "text": "Eine kleine Kapelle des Heiligen Georg im ruhigen Dorf Togniani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.613495,
+                        41.934327
+                  ]
+            },
+            {
+                  "name": "შტორის/ტურის ციხის ეკლესია",
+                  "text": "Die Überreste einer Festungskirche, die einst das Turi-Tal bewachte.",
+                  "category": "landmark",
+                  "coords": [
+                        45.697401,
+                        41.928619
+                  ]
+            },
+            {
+                  "name": "შილდის ღვთაების ეკლესია",
+                  "text": "Die Gvtaeba-Kirche in Schilda, ein bedeutendes spirituelles Zentrum der lokalen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        45.720346,
+                        42.004865
+                  ]
+            },
+            {
+                  "name": "ნეკრესის სამების ეკლესია",
+                  "text": "Eine kleine Dreifaltigkeitskirche am Hang nahe der historischen Stätte Nekressi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77034,
+                        41.945628
+                  ]
+            },
+            {
+                  "name": "ენისელის (ნასოფლარ შიხიანის) \" აღდგომის\" საეკლესიო კომპლექსი",
+                  "text": "Die Marienkirche in Enisseli, bekannt für ihre Lage inmitten alter Obstgärten.",
+                  "category": "landmark",
+                  "coords": [
+                        45.650421,
+                        41.980412
+                  ]
+            },
+            {
+                  "name": "ყვარელის ცხრაკარა",
+                  "text": "Kvarelis Zchrakara, eine historische Anlage mit den charakteristischen „neun Toren“.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77208,
+                        41.923622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shaverge",
+                  "text": "Nevezetes történelmi vagy természeti helyszín Kaheti borvidékének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.738171,
+                        41.954176
+                  ]
+            },
+            {
+                  "name": "შილდის (ვახვახიშვილების) ციხე",
+                  "text": "Középkori erődmaradványok Shilda faluja közelében.",
+                  "category": "historical",
+                  "coords": [
+                        45.717801,
+                        42.005525
+                  ]
+            },
+            {
+                  "name": "ნაგებების კომპლექსი ( სამნავიანი ბაზილიკა და მარანი )",
+                  "text": "Egy háromhajós bazilika és egy hagyományos grúz borospince romjai.",
+                  "category": "historical",
+                  "coords": [
+                        45.745282,
+                        41.978055
+                  ]
+            },
+            {
+                  "name": "ჭაბუკაურის სატაძრო კომპლექსი",
+                  "text": "Grúzia egyik legrégebbi, 4-5. századi keresztény bazilikájának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        45.756752,
+                        41.977478
+                  ]
+            },
+            {
+                  "name": "გადასახვევი ცხრაკარას ეკლესიისკენ",
+                  "text": "Útkereszteződés, amely az erdőben található Cskhrakara kolostorkomplexumhoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.775287,
+                        41.923834
+                  ]
+            },
+            {
+                  "name": "ნეკრესი",
+                  "text": "Ősi kolostorkomplexum egy dombtetőn, ahonnan kilátás nyílik az Alazani-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        45.76217,
+                        41.973683
+                  ]
+            },
+            {
+                  "name": "The Monastery Complex of Nekresi",
+                  "text": "Történelmi vallási helyszín, ahol Grúzia legkorábbi keresztény templomai közül több is megtalálható.",
+                  "category": "landmark",
+                  "coords": [
+                        45.768641,
+                        41.972112
+                  ]
+            },
+            {
+                  "name": "კალაურის წმ.ნინოს დარბაზული ეკლესია",
+                  "text": "Szent Ninonak szentelt templom, aki elhozta a kereszténységet Grúziába.",
+                  "category": "religious",
+                  "coords": [
+                        45.662802,
+                        41.837924
+                  ]
+            },
+            {
+                  "name": "ვაჩნაძიანის წმ.გიორგის ეკლესია \"ამიდასტური\"",
+                  "text": "Egyedülálló, 8-9. századi templomrom, amely különleges építészeti stílusáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        45.657298,
+                        41.848503
+                  ]
+            },
+            {
+                  "name": "ნეკრესის ცეცხლის ტაძარი",
+                  "text": "Ritka zoroasztriánus tűztemplom maradványai, amelyeket a nekreszi kolostor alatt fedeztek fel.",
+                  "category": "landmark",
+                  "coords": [
+                        45.760822,
+                        41.967478
+                  ]
+            },
+            {
+                  "name": "შილდის ნათლისმცემლის ეკლესია",
+                  "text": "Egy szerény grúz ortodox kőtemplom Silda borvidéki falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        45.733423,
+                        42.001717
+                  ]
+            },
+            {
+                  "name": "სამლოცველო ნიში",
+                  "text": "Egy apró útszéli kegyhely az Alazani-völgy szőlőskertjei között.",
+                  "category": "landmark",
+                  "coords": [
+                        45.760861,
+                        41.972655
+                  ]
+            },
+            {
+                  "name": "შილდის წმ. ნინოს ეკლესია",
+                  "text": "Szent Nino tiszteletére szentelt keresztény kőtemplom Silda községében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.709029,
+                        41.999371
+                  ]
+            },
+            {
+                  "name": "ენისელის ყველაწმინდის ეკლესია",
+                  "text": "Helyi mészkőtemplom Eniseli falujában, a Kaheti borvidék szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.670364,
+                        41.998831
+                  ]
+            },
+            {
+                  "name": "ეკლესია ფაშაანის ღვთისმშობელი",
+                  "text": "Egy kis Szűz Mária-templom Pasaani falujában, hagyományos grúz stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.732093,
+                        41.912872
+                  ]
+            },
+            {
+                  "name": "Monastyr of Kindzmarauli",
+                  "text": "Egy kolostor a híres Kindzmarauli bortermő vidék közelében, a Kaukázus lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        45.765605,
+                        41.912002
+                  ]
+            },
+            {
+                  "name": "სანავარდოს წმ. გიორგის (ღვთისმშობლის) ეკლესია",
+                  "text": "Hagyományos falazatú, Szent Györgynek szentelt falu temploma Sanavardo községben.",
+                  "category": "landmark",
+                  "coords": [
+                        45.815461,
+                        41.879121
+                  ]
+            },
+            {
+                  "name": "ვაზისუბნის წმ.გიორგის ეკლესია(\"სამკარიანი\")",
+                  "text": "Vaziszubani Szent György-temploma, amelyet a helyiek „háromajtós” templomként ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        45.70706,
+                        41.837072
+                  ]
+            },
+            {
+                  "name": "კვირაცხოვლის ეკლესია",
+                  "text": "Egy apró ortodox kápolna Kaheti termékeny mezőgazdasági vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        45.667721,
+                        41.836345
+                  ]
+            },
+            {
+                  "name": "ქაშუეთის ეკლესია",
+                  "text": "Silda Kasueti-temploma, a vidéki grúz szakrális építészet jellegzetes példája.",
+                  "category": "landmark",
+                  "coords": [
+                        45.655004,
+                        41.842997
+                  ]
+            },
+            {
+                  "name": "წმ. გიორგი (გომართის) კომპლექსი",
+                  "text": "Gomarti történelmi templomkomplexuma, amelyet kaheti szőlőültetvények vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        45.645988,
+                        41.844272
+                  ]
+            },
+            {
+                  "name": "უსანეთის ეკლესია",
+                  "text": "Uszaneti magányos kőtemploma, amely az Alazani-völgy síkságára néz.",
+                  "category": "landmark",
+                  "coords": [
+                        45.653196,
+                        41.844982
+                  ]
+            },
+            {
+                  "name": "ტოღნიანის წმ. გიორგის ეკლესია",
+                  "text": "Szent Györgynek szentelt kis kápolna Togniani csendes falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        45.613495,
+                        41.934327
+                  ]
+            },
+            {
+                  "name": "შტორის/ტურის ციხის ეკლესია",
+                  "text": "Egy erődtemplom maradványai, amely egykor a Turi-völgyet őrizte.",
+                  "category": "landmark",
+                  "coords": [
+                        45.697401,
+                        41.928619
+                  ]
+            },
+            {
+                  "name": "შილდის ღვთაების ეკლესია",
+                  "text": "A sildai Gvtaeba-templom, a helyi közösség fontos lelki központja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.720346,
+                        42.004865
+                  ]
+            },
+            {
+                  "name": "ნეკრესის სამების ეკლესია",
+                  "text": "Egy apró Szentháromság-templom a domboldalon, a történelmi Nekreszi közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77034,
+                        41.945628
+                  ]
+            },
+            {
+                  "name": "ენისელის (ნასოფლარ შიხიანის) \" აღდგომის\" საეკლესიო კომპლექსი",
+                  "text": "Az eniszeli Szűz Mária-templom, amely régi gyümölcsösök közötti fekvéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.650421,
+                        41.980412
+                  ]
+            },
+            {
+                  "name": "ყვარელის ცხრაკარა",
+                  "text": "Kvareli Cskhrakara, egy történelmi épületegyüttes jellegzetes kilenc kapuval.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77208,
+                        41.923622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shaverge",
+                  "text": "Un sit istoric sau natural remarcabil în inima regiunii viticole Kakheti.",
+                  "category": "landmark",
+                  "coords": [
+                        45.738171,
+                        41.954176
+                  ]
+            },
+            {
+                  "name": "შილდის (ვახვახიშვილების) ციხე",
+                  "text": "Ruinele unei fortificații medievale situate în apropierea satului Shilda.",
+                  "category": "historical",
+                  "coords": [
+                        45.717801,
+                        42.005525
+                  ]
+            },
+            {
+                  "name": "ნაგებების კომპლექსი ( სამნავიანი ბაზილიკა და მარანი )",
+                  "text": "Ruinele unei bazilici cu trei nave și ale unei crame tradiționale georgiene.",
+                  "category": "historical",
+                  "coords": [
+                        45.745282,
+                        41.978055
+                  ]
+            },
+            {
+                  "name": "ჭაბუკაურის სატაძრო კომპლექსი",
+                  "text": "Rămășițele uneia dintre cele mai vechi bazilici creștine din Georgia, datând din secolele IV-V.",
+                  "category": "historical",
+                  "coords": [
+                        45.756752,
+                        41.977478
+                  ]
+            },
+            {
+                  "name": "გადასახვევი ცხრაკარას ეკლესიისკენ",
+                  "text": "Intersecție rutieră care duce spre complexul monahal Tskhrakara din pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        45.775287,
+                        41.923834
+                  ]
+            },
+            {
+                  "name": "ნეკრესი",
+                  "text": "Un vechi complex monahal pe un deal, cu vedere spre Valea Alazani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.76217,
+                        41.973683
+                  ]
+            },
+            {
+                  "name": "The Monastery Complex of Nekresi",
+                  "text": "Sit religios istoric care cuprinde unele dintre cele mai vechi biserici creștine din Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        45.768641,
+                        41.972112
+                  ]
+            },
+            {
+                  "name": "კალაურის წმ.ნინოს დარბაზული ეკლესია",
+                  "text": "Biserică dedicată Sfintei Nino, cea care a adus creștinismul în Georgia.",
+                  "category": "religious",
+                  "coords": [
+                        45.662802,
+                        41.837924
+                  ]
+            },
+            {
+                  "name": "ვაჩნაძიანის წმ.გიორგის ეკლესია \"ამიდასტური\"",
+                  "text": "Ruinele unei biserici unice din secolele VIII-IX, cunoscută pentru stilul său arhitectural specific.",
+                  "category": "religious",
+                  "coords": [
+                        45.657298,
+                        41.848503
+                  ]
+            },
+            {
+                  "name": "ნეკრესის ცეცხლის ტაძარი",
+                  "text": "Ruinele rare ale unui templu zoroastrian al focului, descoperite sub mănăstirea Nekresi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.760822,
+                        41.967478
+                  ]
+            },
+            {
+                  "name": "შილდის ნათლისმცემლის ეკლესია",
+                  "text": "O biserică ortodoxă georgiană liniștită, situată în satul viticol Șilda.",
+                  "category": "landmark",
+                  "coords": [
+                        45.733423,
+                        42.001717
+                  ]
+            },
+            {
+                  "name": "სამლოცველო ნიში",
+                  "text": "O mică nișă de rugăciune situată la marginea drumului, în valea Alazani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.760861,
+                        41.972655
+                  ]
+            },
+            {
+                  "name": "შილდის წმ. ნინოს ეკლესია",
+                  "text": "O biserică creștină de piatră din Șilda, dedicată Sfintei Nino, încre creștinătoarea Georgiei.",
+                  "category": "landmark",
+                  "coords": [
+                        45.709029,
+                        41.999371
+                  ]
+            },
+            {
+                  "name": "ენისელის ყველაწმინდის ეკლესია",
+                  "text": "O biserică de piatră din satul Eniseli, situată în inima regiunii viticole Kakheti.",
+                  "category": "landmark",
+                  "coords": [
+                        45.670364,
+                        41.998831
+                  ]
+            },
+            {
+                  "name": "ეკლესია ფაშაანის ღვთისმშობელი",
+                  "text": "O mică biserică dedicată Maicii Domnului în Pashaani, construită în stil tradițional georgian.",
+                  "category": "landmark",
+                  "coords": [
+                        45.732093,
+                        41.912872
+                  ]
+            },
+            {
+                  "name": "Monastyr of Kindzmarauli",
+                  "text": "O mănăstire situată lângă faimoasele podgorii Kindzmarauli, la poalele Caucazului.",
+                  "category": "landmark",
+                  "coords": [
+                        45.765605,
+                        41.912002
+                  ]
+            },
+            {
+                  "name": "სანავარდოს წმ. გიორგის (ღვთისმშობლის) ეკლესია",
+                  "text": "O biserică de sat în Sanavardo, dedicată Sfântului Gheorghe, cu zidărie tradițională din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        45.815461,
+                        41.879121
+                  ]
+            },
+            {
+                  "name": "ვაზისუბნის წმ.გიორგის ეკლესია(\"სამკარიანი\")",
+                  "text": "Biserica Sfântul Gheorghe din Vazisubani, cunoscută local sub numele de „cea cu trei uși”.",
+                  "category": "landmark",
+                  "coords": [
+                        45.70706,
+                        41.837072
+                  ]
+            },
+            {
+                  "name": "კვირაცხოვლის ეკლესია",
+                  "text": "O mică capelă ortodoxă situată în regiunea agricolă fertilă Kakheti.",
+                  "category": "landmark",
+                  "coords": [
+                        45.667721,
+                        41.836345
+                  ]
+            },
+            {
+                  "name": "ქაშუეთის ეკლესია",
+                  "text": "Biserica Kashueti din Șilda, un exemplu tipic de arhitectură sacră georgiană rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        45.655004,
+                        41.842997
+                  ]
+            },
+            {
+                  "name": "წმ. გიორგი (გომართის) კომპლექსი",
+                  "text": "Un complex bisericesc istoric în Gomarti, înconjurat de podgoriile din Kakheti.",
+                  "category": "landmark",
+                  "coords": [
+                        45.645988,
+                        41.844272
+                  ]
+            },
+            {
+                  "name": "უსანეთის ეკლესია",
+                  "text": "O biserică de piatră singuratică în Usaneti, cu vedere spre vasta câmpie Alazani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.653196,
+                        41.844982
+                  ]
+            },
+            {
+                  "name": "ტოღნიანის წმ. გიორგის ეკლესია",
+                  "text": "O mică capelă a Sfântului Gheorghe situată în satul liniștit Togniani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.613495,
+                        41.934327
+                  ]
+            },
+            {
+                  "name": "შტორის/ტურის ციხის ეკლესია",
+                  "text": "Rămășițele unei biserici fortificate care păzea odinioară valea râului Turi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.697401,
+                        41.928619
+                  ]
+            },
+            {
+                  "name": "შილდის ღვთაების ეკლესია",
+                  "text": "Biserica Gvtaeba din Șilda, un centru spiritual important pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        45.720346,
+                        42.004865
+                  ]
+            },
+            {
+                  "name": "ნეკრესის სამების ეკლესია",
+                  "text": "O mică biserică a Sfintei Treimi pe deal, lângă situl istoric Nekresi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77034,
+                        41.945628
+                  ]
+            },
+            {
+                  "name": "ენისელის (ნასოფლარ შიხიანის) \" აღდგომის\" საეკლესიო კომპლექსი",
+                  "text": "Biserica Maicii Domnului din Eniseli, cunoscută pentru amplasarea sa printre livezi vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.650421,
+                        41.980412
+                  ]
+            },
+            {
+                  "name": "ყვარელის ცხრაკარა",
+                  "text": "Kvarelis Tskhrakara, un sit istoric complex marcat de cele „nouă porți” caracteristice.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77208,
+                        41.923622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shaverge",
+                  "text": "A notable historical or natural site in the heart of the Kakheti wine region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.738171,
+                        41.954176
+                  ]
+            },
+            {
+                  "name": "Shilda Fortress",
+                  "text": "Medieval fortification ruins located near the village of Shilda.",
+                  "category": "historical",
+                  "coords": [
+                        45.717801,
+                        42.005525
+                  ]
+            },
+            {
+                  "name": "ნაგებების კომპლექსი ( სამნავიანი ბაზილიკა და მარანი )",
+                  "text": "Ruins of a three-nave basilica and a traditional Georgian wine cellar (marani).",
+                  "category": "historical",
+                  "coords": [
+                        45.745282,
+                        41.978055
+                  ]
+            },
+            {
+                  "name": "Chabukauri basilica",
+                  "text": "Remains of one of the oldest Christian basilicas in Georgia, dating to the 4th-5th century.",
+                  "category": "historical",
+                  "coords": [
+                        45.756752,
+                        41.977478
+                  ]
+            },
+            {
+                  "name": "გადასახვევი ცხრაკარას ეკლესიისკენ",
+                  "text": "Road junction leading towards the Tskhrakara monastery complex in the woods.",
+                  "category": "landmark",
+                  "coords": [
+                        45.775287,
+                        41.923834
+                  ]
+            },
+            {
+                  "name": "Nekresi",
+                  "text": "An ancient monastic complex on a hilltop with views of the Alazani Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        45.76217,
+                        41.973683
+                  ]
+            },
+            {
+                  "name": "The Monastery Complex of Nekresi",
+                  "text": "A historic religious site featuring some of Georgia's earliest Christian churches.",
+                  "category": "landmark",
+                  "coords": [
+                        45.768641,
+                        41.972112
+                  ]
+            },
+            {
+                  "name": "St. Nino Church",
+                  "text": "A church dedicated to Saint Nino, who brought Christianity to Georgia.",
+                  "category": "religious",
+                  "coords": [
+                        45.662802,
+                        41.837924
+                  ]
+            },
+            {
+                  "name": "ვაჩნაძიანის წმ.გიორგის ეკლესია \"ამიდასტური\"",
+                  "text": "A unique 8th-9th century church ruins known for its specific architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        45.657298,
+                        41.848503
+                  ]
+            },
+            {
+                  "name": "Nekresi fire temple",
+                  "text": "Rare Zoroastrian fire temple ruins discovered beneath the Nekresi monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        45.760822,
+                        41.967478
+                  ]
+            },
+            {
+                  "name": "შილდის ნათლისმცემლის ეკლესია",
+                  "text": "A serene Georgian Orthodox stone church located in the wine-growing village of Shilda.",
+                  "category": "landmark",
+                  "coords": [
+                        45.733423,
+                        42.001717
+                  ]
+            },
+            {
+                  "name": "სამლოცველო ნიში",
+                  "text": "A small roadside religious shrine set among the vineyards of the Alazani Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        45.760861,
+                        41.972655
+                  ]
+            },
+            {
+                  "name": "შილდის წმ. ნინოს ეკლესია",
+                  "text": "A Christian stone church in Shilda dedicated to Saint Nino, the enlightener of Georgia.",
+                  "category": "landmark",
+                  "coords": [
+                        45.709029,
+                        41.999371
+                  ]
+            },
+            {
+                  "name": "ენისელის ყველაწმინდის ეკლესია",
+                  "text": "A local stone church in the village of Eniseli, nestled in the Kakheti wine region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.670364,
+                        41.998831
+                  ]
+            },
+            {
+                  "name": "ეკლესია ფაშაანის ღვთისმშობელი",
+                  "text": "A small Virgin Mary church in rural Pashaani, built in the classic Georgian architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        45.732093,
+                        41.912872
+                  ]
+            },
+            {
+                  "name": "Monastyr of Kindzmarauli",
+                  "text": "A monastery located near the famous Kindzmarauli vineyards in the Caucasus foothills.",
+                  "category": "landmark",
+                  "coords": [
+                        45.765605,
+                        41.912002
+                  ]
+            },
+            {
+                  "name": "სანავარდოს წმ. გიორგის (ღვთისმშობლის) ეკლესია",
+                  "text": "A village church in Sanavardo dedicated to Saint George, featuring traditional stone masonry.",
+                  "category": "landmark",
+                  "coords": [
+                        45.815461,
+                        41.879121
+                  ]
+            },
+            {
+                  "name": "ვაზისუბნის წმ.გიორგის ეკლესია(\"სამკარიანი\")",
+                  "text": "The Saint George church of Vazisubani, locally known as the 'Three-doored' church.",
+                  "category": "landmark",
+                  "coords": [
+                        45.70706,
+                        41.837072
+                  ]
+            },
+            {
+                  "name": "კვირაცხოვლის ეკლესია",
+                  "text": "A small Orthodox chapel located in the fertile agricultural region of Kakheti.",
+                  "category": "landmark",
+                  "coords": [
+                        45.667721,
+                        41.836345
+                  ]
+            },
+            {
+                  "name": "ქაშუეთის ეკლესია",
+                  "text": "The Kashueti church of Shilda, a typical example of rural Georgian sacral architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        45.655004,
+                        41.842997
+                  ]
+            },
+            {
+                  "name": "წმ. გიორგი (გომართის) კომპლექსი",
+                  "text": "A historical church complex in Gomarti, surrounded by the vineyards of Kakheti.",
+                  "category": "landmark",
+                  "coords": [
+                        45.645988,
+                        41.844272
+                  ]
+            },
+            {
+                  "name": "უსანეთის ეკლესია",
+                  "text": "A lonely stone church in Usaneti, overlooking the vast Alazani Valley plains.",
+                  "category": "landmark",
+                  "coords": [
+                        45.653196,
+                        41.844982
+                  ]
+            },
+            {
+                  "name": "ტოღნიანის წმ. გიორგის ეკლესია",
+                  "text": "A small Saint George chapel located in the quiet village of Togniani.",
+                  "category": "landmark",
+                  "coords": [
+                        45.613495,
+                        41.934327
+                  ]
+            },
+            {
+                  "name": "შტორის/ტურის ციხის ეკლესია",
+                  "text": "The remains of a fortress church that once guarded the Turi River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        45.697401,
+                        41.928619
+                  ]
+            },
+            {
+                  "name": "Shilda Gvtaeba",
+                  "text": "The Gvtaeba church in Shilda, an important spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        45.720346,
+                        42.004865
+                  ]
+            },
+            {
+                  "name": "ნეკრესის სამების ეკლესია",
+                  "text": "A small Trinity church on the hillside near the historical Nekresi monastery site.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77034,
+                        41.945628
+                  ]
+            },
+            {
+                  "name": "Eniseli \"Gvtishobeli\"",
+                  "text": "The Virgin Mary church in Eniseli, known for its setting among ancient orchards.",
+                  "category": "landmark",
+                  "coords": [
+                        45.650421,
+                        41.980412
+                  ]
+            },
+            {
+                  "name": "ყვარელის ცხრაკარა",
+                  "text": "Kvareli Tskhrakara, a historical complex site marked by its characteristic 'nine gates'.",
+                  "category": "landmark",
+                  "coords": [
+                        45.77208,
+                        41.923622
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GE-KA",
     coords: [45.7167, 41.9167],
@@ -777,7 +8238,304 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-imereti-tea-plantations-life-v2",
+    id: "ge-imereti-tea-plantations-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ბერმუხა",
+                  "text": "Ein markantes künstlerisches Basrelief aus der Sowjetära an einer Gebäudefassade.",
+                  "category": "landmark",
+                  "coords": [
+                        42.673274,
+                        42.261297
+                  ]
+            },
+            {
+                  "name": "წმიდა ილარიონ ქართველის ტაძარი",
+                  "text": "Eine georgisch-orthodoxe Kirche, die dem heiligen Ilarion dem Georgier gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.64782,
+                        42.26199
+                  ]
+            },
+            {
+                  "name": "სახარების რწმენის ეკლესია",
+                  "text": "Ein evangelisches Gotteshaus in der Region Imeretien.",
+                  "category": "landmark",
+                  "coords": [
+                        42.680242,
+                        42.254438
+                  ]
+            },
+            {
+                  "name": "წმ. ნიკოლოზის ეკლესია",
+                  "text": "Eine dem Heiligen Nikolaus gewidmete christliche Kirche in den Teeplantagen von Imeretien.",
+                  "category": "landmark",
+                  "coords": [
+                        42.684653,
+                        42.244226
+                  ]
+            },
+            {
+                  "name": "ახალმოწამეთა ეკლესია",
+                  "text": "Eine christliche Kirche, die dem Gedenken an die Neumärtyrer gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.682385,
+                        42.253179
+                  ]
+            },
+            {
+                  "name": "წმინდა ტომა",
+                  "text": "Eine christliche Kirche, die dem Heiligen Toma gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.673551,
+                        42.256902
+                  ]
+            },
+            {
+                  "name": "ქუთაისის წმ. ნინოს ეკლესია",
+                  "text": "Eine dem Heiligen Nino gewidmete Kirche in der historischen Stadt Kutaissi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.680613,
+                        42.245615
+                  ]
+            },
+            {
+                  "name": "ბზობის ეკლესია",
+                  "text": "Eine georgische Kirche, deren Name sich auf das Fest des Palmsonntags bezieht.",
+                  "category": "landmark",
+                  "coords": [
+                        42.661936,
+                        42.243386
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ბერმუხა",
+                  "text": "Egy épület homlokzatán található jellegzetes szovjet korszakbeli művészeti dombormű.",
+                  "category": "landmark",
+                  "coords": [
+                        42.673274,
+                        42.261297
+                  ]
+            },
+            {
+                  "name": "წმიდა ილარიონ ქართველის ტაძარი",
+                  "text": "Szent Grúz Ilarionnak szentelt georgiai ortodox templom.",
+                  "category": "landmark",
+                  "coords": [
+                        42.64782,
+                        42.26199
+                  ]
+            },
+            {
+                  "name": "სახარების რწმენის ეკლესია",
+                  "text": "Egy evangélikus imaház Imereti régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.680242,
+                        42.254438
+                  ]
+            },
+            {
+                  "name": "წმ. ნიკოლოზის ეკლესია",
+                  "text": "Szent Miklósnak szentelt keresztény templom az imereti teautltetvényeknél.",
+                  "category": "landmark",
+                  "coords": [
+                        42.684653,
+                        42.244226
+                  ]
+            },
+            {
+                  "name": "ახალმოწამეთა ეკლესია",
+                  "text": "Az újvértanúk emlékének szentelt keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        42.682385,
+                        42.253179
+                  ]
+            },
+            {
+                  "name": "წმინდა ტომა",
+                  "text": "Szent Tamásnak szentelt keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        42.673551,
+                        42.256902
+                  ]
+            },
+            {
+                  "name": "ქუთაისის წმ. ნინოს ეკლესია",
+                  "text": "Szent Ninónak szentelt templom Kutaiszi történelmi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.680613,
+                        42.245615
+                  ]
+            },
+            {
+                  "name": "ბზობის ეკლესია",
+                  "text": "Grúz templom, amelynek neve a virágvasárnapi ünnepre utal.",
+                  "category": "landmark",
+                  "coords": [
+                        42.661936,
+                        42.243386
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ბერმუხა",
+                  "text": "Un basorelief artistic distinctiv din epoca sovietică, situat pe fațada unei clădiri.",
+                  "category": "landmark",
+                  "coords": [
+                        42.673274,
+                        42.261297
+                  ]
+            },
+            {
+                  "name": "წმიდა ილარიონ ქართველის ტაძარი",
+                  "text": "O biserică ortodoxă georgiană dedicată Sfântului Ilarion Georgianul.",
+                  "category": "landmark",
+                  "coords": [
+                        42.64782,
+                        42.26199
+                  ]
+            },
+            {
+                  "name": "სახარების რწმენის ეკლესია",
+                  "text": "Un lăcaș de cult evanghelic din regiunea Imereti.",
+                  "category": "landmark",
+                  "coords": [
+                        42.680242,
+                        42.254438
+                  ]
+            },
+            {
+                  "name": "წმ. ნიკოლოზის ეკლესია",
+                  "text": "O biserică creștină dedicată Sfântului Nicolae, situată printre plantațiile de ceai din Imereti.",
+                  "category": "landmark",
+                  "coords": [
+                        42.684653,
+                        42.244226
+                  ]
+            },
+            {
+                  "name": "ახალმოწამეთა ეკლესია",
+                  "text": "O biserică creștină dedicată memoriei Noilor Mucenici.",
+                  "category": "landmark",
+                  "coords": [
+                        42.682385,
+                        42.253179
+                  ]
+            },
+            {
+                  "name": "წმინდა ტომა",
+                  "text": "O biserică creștină dedicată Sfântului Toma.",
+                  "category": "landmark",
+                  "coords": [
+                        42.673551,
+                        42.256902
+                  ]
+            },
+            {
+                  "name": "ქუთაისის წმ. ნინოს ეკლესია",
+                  "text": "O biserică dedicată Sfintei Nino în orașul istoric Kutaisi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.680613,
+                        42.245615
+                  ]
+            },
+            {
+                  "name": "ბზობის ეკლესია",
+                  "text": "O biserică georgiană al cărei nume face referire la sărbătoarea Floriilor.",
+                  "category": "landmark",
+                  "coords": [
+                        42.661936,
+                        42.243386
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soviet bas-relief \"Bermukha\"",
+                  "text": "A distinctive Soviet-era artistic bas-relief located on a building facade.",
+                  "category": "landmark",
+                  "coords": [
+                        42.673274,
+                        42.261297
+                  ]
+            },
+            {
+                  "name": "წმიდა ილარიონ ქართველის ტაძარი",
+                  "text": "A Georgian Orthodox church dedicated to Saint Ilarion the Georgian.",
+                  "category": "landmark",
+                  "coords": [
+                        42.64782,
+                        42.26199
+                  ]
+            },
+            {
+                  "name": "Evangelical Church",
+                  "text": "An evangelical place of worship located in the Imereti region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.680242,
+                        42.254438
+                  ]
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "A Christian church dedicated to Saint Nicholas, situated among the Imereti tea plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        42.684653,
+                        42.244226
+                  ]
+            },
+            {
+                  "name": "New Martyrs Church",
+                  "text": "A Christian church dedicated to the memory of the New Martyrs.",
+                  "category": "landmark",
+                  "coords": [
+                        42.682385,
+                        42.253179
+                  ]
+            },
+            {
+                  "name": "St. Toma",
+                  "text": "A Christian church dedicated to Saint Toma.",
+                  "category": "landmark",
+                  "coords": [
+                        42.673551,
+                        42.256902
+                  ]
+            },
+            {
+                  "name": "Kutaisi St. Nino church",
+                  "text": "A church dedicated to Saint Nino in the historic city of Kutaisi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.680613,
+                        42.245615
+                  ]
+            },
+            {
+                  "name": "ბზობის ეკლესია",
+                  "text": "A Georgian church whose name refers to the feast of Palm Sunday.",
+                  "category": "landmark",
+                  "coords": [
+                        42.661936,
+                        42.243386
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GE-IM",
     coords: [42.6667, 42.2500],
@@ -813,7 +8571,916 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-guria-citrus-orchards-life-v2",
+    id: "ge-guria-citrus-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ოზურგეთის ალ. წუწუნავას სახელობის სახელმწიფო დრამატული თეატრი",
+                  "text": "Ein großes neoklassizistisches Theatergebäude in Ozurgeti, das regelmäßige dramatische Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        42.006324,
+                        41.92336
+                  ]
+            },
+            {
+                  "name": "ოზურგეთის ისტორიული მუზეუმი",
+                  "text": "Das 1936 gegründete Museum beherbergt archäologische Funde und ethnografische Schätze aus der Region Gurien.",
+                  "category": "museum",
+                  "coords": [
+                        42.005015,
+                        41.922579
+                  ]
+            },
+            {
+                  "name": "მერიის (ყ.გოგორეთი) წმ.გიორგის ეკლესია",
+                  "text": "Eine orthodoxe Steinkirche, die das geistliche Leben der ländlichen Gemeinde Meria prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        41.889815,
+                        41.958801
+                  ]
+            },
+            {
+                  "name": "კონჭკათის (ოზურგეთის) წმ. გიორგის ეკლესიის ნანგრევები",
+                  "text": "Die atmosphärischen Ruinen einer historischen St.-Georgs-Kirche im Dorf Kontschkati.",
+                  "category": "landmark",
+                  "coords": [
+                        41.895102,
+                        41.987247
+                  ]
+            },
+            {
+                  "name": "ნაეკლესიარი",
+                  "text": "Eine historische Stätte in der Landschaft von Gurien, die den Standort einer ehemaligen christlichen Kirche markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        41.936337,
+                        41.932277
+                  ]
+            },
+            {
+                  "name": "სოფელ ოზურგეთის ეკლესია",
+                  "text": "Eine traditionelle georgisch-orthodoxe Dorfkirche inmitten der grünen Hügel unweit von Osurgeti.",
+                  "category": "landmark",
+                  "coords": [
+                        41.982472,
+                        41.937503
+                  ]
+            },
+            {
+                  "name": "ქვემო მაკვანეთის წმ.მარიამის ეკლესია",
+                  "text": "Eine der heiligen Maria geweihte christliche Kirche im üppig bewachsenen Dorf Kwemo Makaneti.",
+                  "category": "landmark",
+                  "coords": [
+                        42.026486,
+                        41.898257
+                  ]
+            },
+            {
+                  "name": "წითელმთის წმ. გიორგის ეკლესია",
+                  "text": "Diese St.-Georgs-Kirche liegt malerisch auf den Anhöhen des Dorfes Tsithelmta.",
+                  "category": "landmark",
+                  "coords": [
+                        42.045651,
+                        41.912867
+                  ]
+            },
+            {
+                  "name": "დაყუდებული ბერების გამოქვაბული",
+                  "text": "Eine abgelegene Höhlenstätte, die historisch von christlichen Einsiedlermönchen als Rückzugsort genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        42.064146,
+                        41.908672
+                  ]
+            },
+            {
+                  "name": "შემოქმედის მონასტერი",
+                  "text": "Ein bedeutendes mittelalterliches Kloster auf einem Hügel über dem Tal des Flusses Bzhuzhi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.062719,
+                        41.907292
+                  ]
+            },
+            {
+                  "name": "წმინდა მარიამის სახელობის (St. Mariami)",
+                  "text": "Eine kleine christliche Kirche, die der heiligen Maria gewidmet ist und in der ländlichen Region Gurien liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.060685,
+                        41.907459
+                  ]
+            },
+            {
+                  "name": "\"ძლევისკარის\"ეკლესიის ნანგრევები(სასაფლაოზე)",
+                  "text": "Alte Steinruinen einer christlichen Kirche, die sich auf dem örtlichen Friedhofsgelände befinden.",
+                  "category": "landmark",
+                  "coords": [
+                        42.080987,
+                        41.924121
+                  ]
+            },
+            {
+                  "name": "დვაბზუს ეკლესია და სამრეკლო კოშკი",
+                  "text": "Ein Kirchenkomplex im Dorf Dwabsu mit einem markanten traditionellen georgischen Glockenturm.",
+                  "category": "landmark",
+                  "coords": [
+                        42.058695,
+                        41.933182
+                  ]
+            },
+            {
+                  "name": "დვაბზუს “უსახელო” ბაზილიკა ( ღვთისმშობლის ეკლესია) (ნანგრევები)",
+                  "text": "Die Überreste einer alten Steinbasilika in Dwabsu, die einst der Jungfrau Maria gewidmet war.",
+                  "category": "landmark",
+                  "coords": [
+                        42.049955,
+                        41.934715
+                  ]
+            },
+            {
+                  "name": "აცანის ოქონის მონასტერი",
+                  "text": "Eine historische Klosterstätte im Dorf Azana, die das tiefe religiöse Erbe der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.059463,
+                        42.049958
+                  ]
+            },
+            {
+                  "name": "ბაღლების ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "Eine christliche Kirche im Dorf Baghlebi, die dem Fest der Entschlafung Mariens gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        41.955387,
+                        42.052821
+                  ]
+            },
+            {
+                  "name": "აკეთის მაცხოვრის სახელობის ეკლესია",
+                  "text": "Eine historische Erlöserkirche im Bezirk Aketi, bekannt für ihre traditionelle Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        42.092324,
+                        42.027354
+                  ]
+            },
+            {
+                  "name": "აცანის ეკლესია",
+                  "text": "Diese Dorfkirche im Zentrum von Azana dient der Gemeinde als spiritueller Mittelpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.067172,
+                        42.048713
+                  ]
+            },
+            {
+                  "name": "ტელმანის ეკლესია",
+                  "text": "Ein bescheidenes christliches Gotteshaus, das die Gläubigen im Dorf Telmani empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.058515,
+                        42.040916
+                  ]
+            },
+            {
+                  "name": "წმინდა დავით აღმაშენებლის სახელობის მამათა მონასტერი",
+                  "text": "Ein Männerkloster, das dem heiligen König David dem Erbauer, einer zentralen Figur der georgischen Geschichte, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        41.93039,
+                        42.041322
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზის სახელობის მამათა მონასტერი(ჭანიეთურის მონასტერი)",
+                  "text": "Eine Klostergemeinschaft für Männer im Gebiet Tschanieturi, die den Erzengeln geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        41.922966,
+                        41.980637
+                  ]
+            },
+            {
+                  "name": "ორაგვეს წმ. თეკლას სახელობის დედათა მონასტერი",
+                  "text": "Ein friedliches Nonnenkloster im Dorf Oragwe, das der heiligen Thekla gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.009274,
+                        42.049451
+                  ]
+            },
+            {
+                  "name": "ეწერის ქრისტოფორე გურულის ეკლესია",
+                  "text": "Eine dem heiligen Christophorus gewidmete Kirche, die die lokalen religiösen Traditionen Guriens widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        41.957351,
+                        42.06324
+                  ]
+            },
+            {
+                  "name": "ოზურგეთის ბაზარი",
+                  "text": "Ein lebhafter Marktplatz, auf dem Einheimische frische Produkte, Zitrusfrüchte und Haushaltswaren aus der Region verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        42.001444,
+                        41.92135
+                  ]
+            },
+            {
+                  "name": "ჩემი მარკეტი",
+                  "text": "Ein lokaler Markt in Osurgeti, der Einblicke in das tägliche Leben und regionale Waren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        41.99974,
+                        41.922602
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ოზურგეთის ალ. წუწუნავას სახელობის სახელმწიფო დრამატული თეატრი",
+                  "text": "Hatalmas neoklasszicista színházépület Ozurgetiben, amely rendszeres drámai előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        42.006324,
+                        41.92336
+                  ]
+            },
+            {
+                  "name": "ოზურგეთის ისტორიული მუზეუმი",
+                  "text": "Az 1936-ban alapított múzeum Guria régió régészeti leleteit és néprajzi kincseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        42.005015,
+                        41.922579
+                  ]
+            },
+            {
+                  "name": "მერიის (ყ.გოგორეთი) წმ.გიორგის ეკლესია",
+                  "text": "Egy ortodox kőtemplom, amely Meria falusi közösségének hitéletét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        41.889815,
+                        41.958801
+                  ]
+            },
+            {
+                  "name": "კონჭკათის (ოზურგეთის) წმ. გიორგის ეკლესიის ნანგრევები",
+                  "text": "Egy történelmi Szent György-templom hangulatos romjai Konchkati faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        41.895102,
+                        41.987247
+                  ]
+            },
+            {
+                  "name": "ნაეკლესიარი",
+                  "text": "Történelmi helyszín Guria vidékén, amely egy egykori keresztény templom helyét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.936337,
+                        41.932277
+                  ]
+            },
+            {
+                  "name": "სოფელ ოზურგეთის ეკლესია",
+                  "text": "Hagyományos grúz ortodox falusi templom a zöldellő dombok között, Ozurgeti közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        41.982472,
+                        41.937503
+                  ]
+            },
+            {
+                  "name": "ქვემო მაკვანეთის წმ.მარიამის ეკლესია",
+                  "text": "Szűz Máriának szentelt keresztény templom a dús növényzetű Kvemo Makvaneti faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.026486,
+                        41.898257
+                  ]
+            },
+            {
+                  "name": "წითელმთის წმ. გიორგის ეკლესია",
+                  "text": "Ez a Szent György-templom festői környezetben, Tsithelmta falu magaslatain található.",
+                  "category": "landmark",
+                  "coords": [
+                        42.045651,
+                        41.912867
+                  ]
+            },
+            {
+                  "name": "დაყუდებული ბერების გამოქვაბული",
+                  "text": "Egy elszigetelt barlangi helyszín, amelyet történelmileg remete keresztény szerzetesek használtak elvonulásra.",
+                  "category": "landmark",
+                  "coords": [
+                        42.064146,
+                        41.908672
+                  ]
+            },
+            {
+                  "name": "შემოქმედის მონასტერი",
+                  "text": "Jelentős középkori kolostorkomplexum a Bzsuzsi-folyó völgye feletti dombon.",
+                  "category": "landmark",
+                  "coords": [
+                        42.062719,
+                        41.907292
+                  ]
+            },
+            {
+                  "name": "წმინდა მარიამის სახელობის (St. Mariami)",
+                  "text": "Szűz Máriának szentelt kis keresztény templom Guria vidéki régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.060685,
+                        41.907459
+                  ]
+            },
+            {
+                  "name": "\"ძლევისკარის\"ეკლესიის ნანგრევები(სასაფლაოზე)",
+                  "text": "Egy keresztény templom régi kőromjai, amelyek a helyi temető területén találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        42.080987,
+                        41.924121
+                  ]
+            },
+            {
+                  "name": "დვაბზუს ეკლესია და სამრეკლო კოშკი",
+                  "text": "Templomegyüttes Dvabzu faluban, jellegzetes hagyományos grúz harangtoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        42.058695,
+                        41.933182
+                  ]
+            },
+            {
+                  "name": "დვაბზუს “უსახელო” ბაზილიკა ( ღვთისმშობლის ეკლესია) (ნანგრევები)",
+                  "text": "Egy ősi kőbazilika maradványai Dvabzuban, amelyet egykor Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        42.049955,
+                        41.934715
+                  ]
+            },
+            {
+                  "name": "აცანის ოქონის მონასტერი",
+                  "text": "Történelmi kolostori helyszín Atsana faluban, amely a régió mély vallási örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.059463,
+                        42.049958
+                  ]
+            },
+            {
+                  "name": "ბაღლების ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "Mária elszenderedésének szentelt keresztény templom Baghlebi faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        41.955387,
+                        42.052821
+                  ]
+            },
+            {
+                  "name": "აკეთის მაცხოვრის სახელობის ეკლესია",
+                  "text": "Történelmi Megváltó-templom Aketi körzetében, amely hagyományos építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        42.092324,
+                        42.027354
+                  ]
+            },
+            {
+                  "name": "აცანის ეკლესია",
+                  "text": "Ez az Atsana központjában álló falusi templom a közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        42.067172,
+                        42.048713
+                  ]
+            },
+            {
+                  "name": "ტელმანის ეკლესია",
+                  "text": "Szerény keresztény istentiszteleti hely, amely a Telmani falu hívőit fogadja.",
+                  "category": "landmark",
+                  "coords": [
+                        42.058515,
+                        42.040916
+                  ]
+            },
+            {
+                  "name": "წმინდა დავით აღმაშენებლის სახელობის მამათა მონასტერი",
+                  "text": "Férfikolostor, amelyet Szent Dávid építő királynak, a grúz történelem meghatározó alakjának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        41.93039,
+                        42.041322
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზის სახელობის მამათა მონასტერი(ჭანიეთურის მონასტერი)",
+                  "text": "A főangyaloknak szentelt férfikolostor Chanieturi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        41.922966,
+                        41.980637
+                  ]
+            },
+            {
+                  "name": "ორაგვეს წმ. თეკლას სახელობის დედათა მონასტერი",
+                  "text": "Szent Teklának szentelt békés apácakolostor Oragve faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.009274,
+                        42.049451
+                  ]
+            },
+            {
+                  "name": "ეწერის ქრისტოფორე გურულის ეკლესია",
+                  "text": "Szent Kristófnak szentelt templom, amely Guria helyi vallási hagyományait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        41.957351,
+                        42.06324
+                  ]
+            },
+            {
+                  "name": "ოზურგეთის ბაზარი",
+                  "text": "Nyüzsgő piactér, ahol a helyiek friss guriait terményeket, citrusféléket és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        42.001444,
+                        41.92135
+                  ]
+            },
+            {
+                  "name": "ჩემი მარკეტი",
+                  "text": "Helyi piac Ozurgetiben, amely betekintést nyújt a mindennapi életbe és a helyi áruk kínálatába.",
+                  "category": "cultural",
+                  "coords": [
+                        41.99974,
+                        41.922602
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ოზურგეთის ალ. წუწუნავას სახელობის სახელმწიფო დრამატული თეატრი",
+                  "text": "O clădire teatrală neoclasică impunătoare în Ozurgeti, care găzduiește spectacole dramatice periodice.",
+                  "category": "cultural",
+                  "coords": [
+                        42.006324,
+                        41.92336
+                  ]
+            },
+            {
+                  "name": "ოზურგეთის ისტორიული მუზეუმი",
+                  "text": "Fondat în 1936, muzeul găzduiește descoperiri arheologice și comori etnografice din regiunea Guria.",
+                  "category": "museum",
+                  "coords": [
+                        42.005015,
+                        41.922579
+                  ]
+            },
+            {
+                  "name": "მერიის (ყ.გოგორეთი) წმ.გიორგის ეკლესია",
+                  "text": "O biserică ortodoxă din piatră care deservește viața spirituală a comunității rurale din Meria.",
+                  "category": "landmark",
+                  "coords": [
+                        41.889815,
+                        41.958801
+                  ]
+            },
+            {
+                  "name": "კონჭკათის (ოზურგეთის) წმ. გიორგის ეკლესიის ნანგრევები",
+                  "text": "Ruinele atmosferice ale unei biserici istorice Sf. Gheorghe din satul Konchkati.",
+                  "category": "landmark",
+                  "coords": [
+                        41.895102,
+                        41.987247
+                  ]
+            },
+            {
+                  "name": "ნაეკლესიარი",
+                  "text": "Un sit istoric din zona rurală a Guriei, care marchează locul unei foste biserici creștine.",
+                  "category": "landmark",
+                  "coords": [
+                        41.936337,
+                        41.932277
+                  ]
+            },
+            {
+                  "name": "სოფელ ოზურგეთის ეკლესია",
+                  "text": "O biserică ortodoxă georgiană tradițională, situată printre dealurile verzi de lângă Ozurgeti.",
+                  "category": "landmark",
+                  "coords": [
+                        41.982472,
+                        41.937503
+                  ]
+            },
+            {
+                  "name": "ქვემო მაკვანეთის წმ.მარიამის ეკლესია",
+                  "text": "O biserică creștină dedicată Sfintei Maria, situată în satul luxuriant Kvemo Makvaneti.",
+                  "category": "landmark",
+                  "coords": [
+                        42.026486,
+                        41.898257
+                  ]
+            },
+            {
+                  "name": "წითელმთის წმ. გიორგის ეკლესია",
+                  "text": "Această biserică Sf. Gheorghe este situată pitoresc pe înălțimile satului Tsithelmta.",
+                  "category": "landmark",
+                  "coords": [
+                        42.045651,
+                        41.912867
+                  ]
+            },
+            {
+                  "name": "დაყუდებული ბერების გამოქვაბული",
+                  "text": "Un sit rupestru izolat, utilizat istoric de călugări creștini pustnici ca loc de retragere.",
+                  "category": "landmark",
+                  "coords": [
+                        42.064146,
+                        41.908672
+                  ]
+            },
+            {
+                  "name": "შემოქმედის მონასტერი",
+                  "text": "Un important complex monahal medieval situat pe un deal deasupra văii râului Bzhuzhi.",
+                  "category": "landmark",
+                  "coords": [
+                        42.062719,
+                        41.907292
+                  ]
+            },
+            {
+                  "name": "წმინდა მარიამის სახელობის (St. Mariami)",
+                  "text": "O mică biserică creștină dedicată Sfintei Maria, situată în regiunea rurală a Guriei.",
+                  "category": "landmark",
+                  "coords": [
+                        42.060685,
+                        41.907459
+                  ]
+            },
+            {
+                  "name": "\"ძლევისკარის\"ეკლესიის ნანგრევები(სასაფლაოზე)",
+                  "text": "Vechile ruine din piatră ale unei biserici creștine, situate în incinta cimitirului local.",
+                  "category": "landmark",
+                  "coords": [
+                        42.080987,
+                        41.924121
+                  ]
+            },
+            {
+                  "name": "დვაბზუს ეკლესია და სამრეკლო კოშკი",
+                  "text": "Un complex bisericesc în satul Dvabzu, cu o clopotniță tradițională georgiană distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        42.058695,
+                        41.933182
+                  ]
+            },
+            {
+                  "name": "დვაბზუს “უსახელო” ბაზილიკა ( ღვთისმშობლის ეკლესია) (ნანგრევები)",
+                  "text": "Rămășițele unei vechi bazilici de piatră din Dvabzu, dedicată odinioară Fecioarei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        42.049955,
+                        41.934715
+                  ]
+            },
+            {
+                  "name": "აცანის ოქონის მონასტერი",
+                  "text": "Un sit monahal istoric în satul Atsana, reflectând moștenirea religioasă profundă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        42.059463,
+                        42.049958
+                  ]
+            },
+            {
+                  "name": "ბაღლების ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "O biserică creștină în satul Baghlebi, dedicată Adormirii Maicii Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        41.955387,
+                        42.052821
+                  ]
+            },
+            {
+                  "name": "აკეთის მაცხოვრის სახელობის ეკლესია",
+                  "text": "O biserică istorică a Mântuitorului în districtul Aketi, cunoscută pentru arhitectura sa tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        42.092324,
+                        42.027354
+                  ]
+            },
+            {
+                  "name": "აცანის ეკლესია",
+                  "text": "Această biserică sătească din centrul Atsanei servește drept punct focal spiritual pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        42.067172,
+                        42.048713
+                  ]
+            },
+            {
+                  "name": "ტელმანის ეკლესია",
+                  "text": "Un lăcaș de cult creștin modest care primește credincioșii din satul Telmani.",
+                  "category": "landmark",
+                  "coords": [
+                        42.058515,
+                        42.040916
+                  ]
+            },
+            {
+                  "name": "წმინდა დავით აღმაშენებლის სახელობის მამათა მონასტერი",
+                  "text": "O mănăstire de călugări dedicată Sfântului Rege David Constructorul, o figură centrală a istoriei georgiene.",
+                  "category": "landmark",
+                  "coords": [
+                        41.93039,
+                        42.041322
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზის სახელობის მამათა მონასტერი(ჭანიეთურის მონასტერი)",
+                  "text": "O comunitate monahală pentru bărbați în zona Chanieturi, dedicată Arhanghelilor.",
+                  "category": "landmark",
+                  "coords": [
+                        41.922966,
+                        41.980637
+                  ]
+            },
+            {
+                  "name": "ორაგვეს წმ. თეკლას სახელობის დედათა მონასტერი",
+                  "text": "O mănăstire de maici liniștită în satul Oragve, dedicată Sfintei Tecla.",
+                  "category": "landmark",
+                  "coords": [
+                        42.009274,
+                        42.049451
+                  ]
+            },
+            {
+                  "name": "ეწერის ქრისტოფორე გურულის ეკლესია",
+                  "text": "O biserică dedicată Sfântului Cristofor, reflectând tradițiile religioase locale din Guria.",
+                  "category": "landmark",
+                  "coords": [
+                        41.957351,
+                        42.06324
+                  ]
+            },
+            {
+                  "name": "ოზურგეთის ბაზარი",
+                  "text": "O piață centrală plină de viață unde localnicii vând produse proaspete, citrice și articole de uz casnic din Guria.",
+                  "category": "cultural",
+                  "coords": [
+                        42.001444,
+                        41.92135
+                  ]
+            },
+            {
+                  "name": "ჩემი მარკეტი",
+                  "text": "O piață locală din Ozurgeti, oferind o privire asupra vieții de zi cu zi și a mărfurilor regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        41.99974,
+                        41.922602
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ozurgeti's State Drama Theatre named after Al. Tsutsunava",
+                  "text": "A grand neoclassical theatre building in Ozurgeti hosting regular dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        42.006324,
+                        41.92336
+                  ]
+            },
+            {
+                  "name": "Ozurgeti History Museum",
+                  "text": "Founded in 1936, this museum houses archaeological finds and ethnographic treasures from the Guria region.",
+                  "category": "museum",
+                  "coords": [
+                        42.005015,
+                        41.922579
+                  ]
+            },
+            {
+                  "name": "მერიის (ყ.გოგორეთი) წმ.გიორგის ეკლესია",
+                  "text": "An Orthodox stone church serving the spiritual life of the rural Meria community.",
+                  "category": "landmark",
+                  "coords": [
+                        41.889815,
+                        41.958801
+                  ]
+            },
+            {
+                  "name": "კონჭკათის (ოზურგეთის) წმ. გიორგის ეკლესიის ნანგრევები",
+                  "text": "The atmospheric ruins of a historic St. George church located in the village of Konchkati.",
+                  "category": "landmark",
+                  "coords": [
+                        41.895102,
+                        41.987247
+                  ]
+            },
+            {
+                  "name": "ნაეკლესიარი",
+                  "text": "A historic site in the Guria countryside marking the location of a former Christian church.",
+                  "category": "landmark",
+                  "coords": [
+                        41.936337,
+                        41.932277
+                  ]
+            },
+            {
+                  "name": "სოფელ ოზურგეთის ეკლესია",
+                  "text": "A traditional Georgian Orthodox village church set among the green hills near Ozurgeti.",
+                  "category": "landmark",
+                  "coords": [
+                        41.982472,
+                        41.937503
+                  ]
+            },
+            {
+                  "name": "ქვემო მაკვანეთის წმ.მარიამის ეკლესია",
+                  "text": "A Christian church dedicated to St. Mary, located in the lush village of Kvemo Makvaneti.",
+                  "category": "landmark",
+                  "coords": [
+                        42.026486,
+                        41.898257
+                  ]
+            },
+            {
+                  "name": "წითელმთის წმ. გიორგის ეკლესია",
+                  "text": "This St. George church is picturesquely situated on the heights of Tsithelmta village.",
+                  "category": "landmark",
+                  "coords": [
+                        42.045651,
+                        41.912867
+                  ]
+            },
+            {
+                  "name": "დაყუდებული ბერების გამოქვაბული",
+                  "text": "A secluded cave site historically used by hermit Christian monks as a place of retreat.",
+                  "category": "landmark",
+                  "coords": [
+                        42.064146,
+                        41.908672
+                  ]
+            },
+            {
+                  "name": "Shemokmedi Monastery",
+                  "text": "A prominent medieval monastery complex set on a hill overlooking the Bzhuzhi River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        42.062719,
+                        41.907292
+                  ]
+            },
+            {
+                  "name": "St. Mariami",
+                  "text": "A small Christian church dedicated to St. Mary, set within the rural Guria region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.060685,
+                        41.907459
+                  ]
+            },
+            {
+                  "name": "\"ძლევისკარის\"ეკლესიის ნანგრევები(სასაფლაოზე)",
+                  "text": "Old stone ruins of a Christian church located within the grounds of the local cemetery.",
+                  "category": "landmark",
+                  "coords": [
+                        42.080987,
+                        41.924121
+                  ]
+            },
+            {
+                  "name": "დვაბზუს ეკლესია და სამრეკლო კოშკი",
+                  "text": "A church complex in Dvabzu village featuring a distinctive traditional Georgian bell tower.",
+                  "category": "landmark",
+                  "coords": [
+                        42.058695,
+                        41.933182
+                  ]
+            },
+            {
+                  "name": "დვაბზუს “უსახელო” ბაზილიკა ( ღვთისმშობლის ეკლესია) (ნანგრევები)",
+                  "text": "The remains of an ancient stone basilica in Dvabzu, formerly dedicated to the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        42.049955,
+                        41.934715
+                  ]
+            },
+            {
+                  "name": "აცანის ოქონის მონასტერი",
+                  "text": "A historic monastic site in Atsana village, reflecting the region's deep religious heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        42.059463,
+                        42.049958
+                  ]
+            },
+            {
+                  "name": "ბაღლების ღვთისმშობლის მიძინების ეკლესია",
+                  "text": "A Christian church in Baghlebi village, dedicated to the Assumption of Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        41.955387,
+                        42.052821
+                  ]
+            },
+            {
+                  "name": "აკეთის მაცხოვრის სახელობის ეკლესია",
+                  "text": "A historic Savior church in the Aketi district, known for its traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        42.092324,
+                        42.027354
+                  ]
+            },
+            {
+                  "name": "აცანის ეკლესია",
+                  "text": "This village church in the center of Atsana serves as a spiritual focal point for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        42.067172,
+                        42.048713
+                  ]
+            },
+            {
+                  "name": "ტელმანის ეკლესია",
+                  "text": "A modest Christian place of worship welcoming the faithful in Telmani village.",
+                  "category": "landmark",
+                  "coords": [
+                        42.058515,
+                        42.040916
+                  ]
+            },
+            {
+                  "name": "წმინდა დავით აღმაშენებლის სახელობის მამათა მონასტერი",
+                  "text": "A male monastery dedicated to St. David the Builder, a pivotal figure in Georgian history.",
+                  "category": "landmark",
+                  "coords": [
+                        41.93039,
+                        42.041322
+                  ]
+            },
+            {
+                  "name": "მთავარანგელოზის სახელობის მამათა მონასტერი(ჭანიეთურის მონასტერი)",
+                  "text": "A monastic community for men in the Chanieturi area, dedicated to the Archangels.",
+                  "category": "landmark",
+                  "coords": [
+                        41.922966,
+                        41.980637
+                  ]
+            },
+            {
+                  "name": "ორაგვეს წმ. თეკლას სახელობის დედათა მონასტერი",
+                  "text": "A peaceful convent for nuns dedicated to St. Thekla, situated in the village of Oragve.",
+                  "category": "landmark",
+                  "coords": [
+                        42.009274,
+                        42.049451
+                  ]
+            },
+            {
+                  "name": "St. Chistophor Guruli Church",
+                  "text": "A church dedicated to St. Christopher, reflecting the local religious traditions of Guria.",
+                  "category": "landmark",
+                  "coords": [
+                        41.957351,
+                        42.06324
+                  ]
+            },
+            {
+                  "name": "ოზურგეთის ბაზარი",
+                  "text": "A bustling central marketplace where locals sell fresh Guria produce, citrus, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        42.001444,
+                        41.92135
+                  ]
+            },
+            {
+                  "name": "ჩემი მარკეტი",
+                  "text": "A local market in Ozurgeti providing a glimpse into daily life and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        41.99974,
+                        41.922602
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GE-GU",
     coords: [42.0000, 41.9833],
@@ -930,7 +9597,232 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     },
   },
   {
-    id: "ge-batumi-dolphinarium-life-v2",
+    id: "ge-batumi-dolphinarium-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Equator Boat",
+                  "text": "Ein dekoratives Boot-Denkmal an der Promenade von Batumi, das an die äquatoriale Seefahrt und maritime Abenteuer erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        41.611469,
+                        41.640336
+                  ]
+            },
+            {
+                  "name": "ილია ჩავჩავაძის სახელობის მუზეუმი",
+                  "text": "Ein Museum im ehemaligen Wohnhaus des Schriftstellers Ilia Tschawtschawadse, das dem Leben des „Vaters der georgischen Nation“ gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        41.621958,
+                        41.645552
+                  ]
+            },
+            {
+                  "name": "მოცეკვავე შადრევანი",
+                  "text": "Ein modernes Wasserspiel am Ardagani-See, das abends mit einer choreografierten Show aus Licht, Musik und Laserstrahlen begeistert.",
+                  "category": "landmark",
+                  "coords": [
+                        41.61336,
+                        41.641466
+                  ]
+            },
+            {
+                  "name": "ბათუმის დელფინარიუმი",
+                  "text": "Georgiens erstes Delfinarium bietet tägliche Vorführungen in einem modernen Freiluftbecken nahe dem 6.-Mai-Park.",
+                  "category": "recreational",
+                  "coords": [
+                        41.623518,
+                        41.647678
+                  ]
+            },
+            {
+                  "name": "აკვარიუმი",
+                  "text": "Ein Aquarium in einem markanten Gebäude in Muschelform, das die Unterwasserwelt des Schwarzen Meeres und exotische Fische präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        41.622528,
+                        41.64735
+                  ]
+            },
+            {
+                  "name": "ფანტაზია",
+                  "text": "Dieses farbenfrohe, mosaikverzierte Gebäude von 1975 hat die Form eines Kraken und ist ein ikonisches Beispiel sowjetischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        41.625285,
+                        41.650096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Equator Boat",
+                  "text": "Dekoratív hajó-emlékmű Batumi sétányán, amely az egyenlítői hajózásnak és a tengeri kalandoknak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        41.611469,
+                        41.640336
+                  ]
+            },
+            {
+                  "name": "ილია ჩავჩავაძის სახელობის მუზეუმი",
+                  "text": "Ilia Csavcsavadze író egykori lakóházában berendezett múzeum, amely a „grúz nemzet atyjának” életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        41.621958,
+                        41.645552
+                  ]
+            },
+            {
+                  "name": "მოცეკვავე შადრევანი",
+                  "text": "Modern szökőkút az Ardagani-tónál, amely esténként fény-, zene- és lézershow-val szórakoztatja a közönséget.",
+                  "category": "landmark",
+                  "coords": [
+                        41.61336,
+                        41.641466
+                  ]
+            },
+            {
+                  "name": "ბათუმის დელფინარიუმი",
+                  "text": "Grúzia első delfináriuma napi bemutatókat kínál egy modern szabadtéri medencében, a Május 6. park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        41.623518,
+                        41.647678
+                  ]
+            },
+            {
+                  "name": "აკვარიუმი",
+                  "text": "Kagyló alakú, jellegzetes épületben található akvárium, amely a Fekete-tenger víz alatti világát és egzotikus halakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        41.622528,
+                        41.64735
+                  ]
+            },
+            {
+                  "name": "ფანტაზია",
+                  "text": "Ez az 1975-ben épült, színes mozaikokkal díszített épület polip alakú, és a szovjet építészet ikonikus példája.",
+                  "category": "landmark",
+                  "coords": [
+                        41.625285,
+                        41.650096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Equator Boat",
+                  "text": "Un monument decorativ sub formă de barcă pe faleza din Batumi, care amintește de navigația ecuatorială și aventurile maritime.",
+                  "category": "landmark",
+                  "coords": [
+                        41.611469,
+                        41.640336
+                  ]
+            },
+            {
+                  "name": "ილია ჩავჩავაძის სახელობის მუზეუმი",
+                  "text": "Un muzeu în fosta casă a scriitorului Ilia Ceavceavadze, dedicat vieții „tatălui națiunii georgiene”.",
+                  "category": "museum",
+                  "coords": [
+                        41.621958,
+                        41.645552
+                  ]
+            },
+            {
+                  "name": "მოცეკვავე შადრევანი",
+                  "text": "Un joc de apă modern pe lacul Ardagani, care încântă seara cu un spectacol coregrafiat de lumină, muzică și lasere.",
+                  "category": "landmark",
+                  "coords": [
+                        41.61336,
+                        41.641466
+                  ]
+            },
+            {
+                  "name": "ბათუმის დელფინარიუმი",
+                  "text": "Primul delfinariu din Georgia oferă spectacole zilnice într-un bazin modern în aer liber, lângă parcul 6 Mai.",
+                  "category": "recreational",
+                  "coords": [
+                        41.623518,
+                        41.647678
+                  ]
+            },
+            {
+                  "name": "აკვარიუმი",
+                  "text": "Un acvariu într-o clădire distinctivă în formă de scoică, prezentând lumea subacvatică a Mării Negre și pești exotici.",
+                  "category": "museum",
+                  "coords": [
+                        41.622528,
+                        41.64735
+                  ]
+            },
+            {
+                  "name": "ფანტაზია",
+                  "text": "Această clădire colorată din 1975, decorată cu mozaicuri, are formă de caracatiță și este un exemplu iconic de arhitectură sovietică.",
+                  "category": "landmark",
+                  "coords": [
+                        41.625285,
+                        41.650096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Equator Boat",
+                  "text": "A decorative boat monument on the Batumi promenade, commemorating equatorial sailing and maritime adventures.",
+                  "category": "landmark",
+                  "coords": [
+                        41.611469,
+                        41.640336
+                  ]
+            },
+            {
+                  "name": "Ilia Chavchavadze Museum",
+                  "text": "A museum in the former residence of writer Ilia Chavchavadze, dedicated to the life of the 'Father of the Georgian Nation'.",
+                  "category": "museum",
+                  "coords": [
+                        41.621958,
+                        41.645552
+                  ]
+            },
+            {
+                  "name": "Dancing fountain",
+                  "text": "A modern water feature on Ardagani Lake that delights audiences in the evening with a choreographed light, music, and laser show.",
+                  "category": "landmark",
+                  "coords": [
+                        41.61336,
+                        41.641466
+                  ]
+            },
+            {
+                  "name": "Batumi Dolphinarium",
+                  "text": "Georgia's first dolphinarium offers daily performances in a modern outdoor pool near the 6 May Park.",
+                  "category": "recreational",
+                  "coords": [
+                        41.623518,
+                        41.647678
+                  ]
+            },
+            {
+                  "name": "Batumi Aquarium",
+                  "text": "An aquarium housed in a distinctive shell-shaped building, showcasing the underwater world of the Black Sea and exotic fish.",
+                  "category": "museum",
+                  "coords": [
+                        41.622528,
+                        41.64735
+                  ]
+            },
+            {
+                  "name": "Fantasy",
+                  "text": "This colorful, mosaic-decorated building from 1975 is shaped like an octopus and is an iconic example of Soviet architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        41.625285,
+                        41.650096
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "GE-AJ",
     coords: [41.6214, 41.6486],

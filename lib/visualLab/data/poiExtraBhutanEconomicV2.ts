@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraBhutanEconomicV2: POI[] = [
   {
-    id: "tala-hydropower-plant-economic-v2",
+    id: "tala-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lhamu Tshering handloom weaver",
+                  "text": "Eine traditionelle Werkstatt, in der die Kunst der bhutanischen Weberei vorgeführt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        89.570245,
+                        26.765264
+                  ]
+            },
+            {
+                  "name": "Adma Monastery",
+                  "text": "Ein friedliches buddhistisches Heiligtum in den abgelegenen Hügeln beim Dorf Adma.",
+                  "category": "religious",
+                  "coords": [
+                        89.549883,
+                        26.77316
+                  ]
+            },
+            {
+                  "name": "Aka Zati Lhakhang Monastery",
+                  "text": "Ein abgelegenes Kloster in Chukha, das spirituellen Trost inmitten grüner Landschaften bietet.",
+                  "category": "religious",
+                  "coords": [
+                        89.570988,
+                        26.764324
+                  ]
+            },
+            {
+                  "name": "Laptsha Lhakhang",
+                  "text": "Dieser buddhistische Tempel auf einem Hügel bietet einen Panoramablick auf die Täler bei Gedu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.530921,
+                        26.912981
+                  ]
+            },
+            {
+                  "name": "Pakshikha Lhakang",
+                  "text": "Ein ruhiger Tempel, der sich durch bhutanische Architektur und bunte Wandmalereien auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.594058,
+                        26.932212
+                  ]
+            },
+            {
+                  "name": "Gedu Goenpa",
+                  "text": "Ein prominentes Kloster, das als Zentrum des religiösen Lebens in der Universitätsstadt Gedu dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.559672,
+                        26.921018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lhamu Tshering handloom weaver",
+                  "text": "Hagyományos műhely, ahol a kézművesek a bhutáni szövés bonyolult művészetét mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        89.570245,
+                        26.765264
+                  ]
+            },
+            {
+                  "name": "Adma Monastery",
+                  "text": "Békés buddhista szentély Adma falu közelében, a távoli dombok között.",
+                  "category": "religious",
+                  "coords": [
+                        89.549883,
+                        26.77316
+                  ]
+            },
+            {
+                  "name": "Aka Zati Lhakhang Monastery",
+                  "text": "Egy eldugott kolostor Chukha régiójában, amely spirituális megnyugvást kínál a zöld táj közepén.",
+                  "category": "religious",
+                  "coords": [
+                        89.570988,
+                        26.764324
+                  ]
+            },
+            {
+                  "name": "Laptsha Lhakhang",
+                  "text": "Ez a dombtetőn álló buddhista templom panorámás kilátást nyújt a Gedu környéki völgyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        89.530921,
+                        26.912981
+                  ]
+            },
+            {
+                  "name": "Pakshikha Lhakang",
+                  "text": "Nyugodt buddhista templom, amelyet hagyományos bhutáni építészet és színes falfestmények jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        89.594058,
+                        26.932212
+                  ]
+            },
+            {
+                  "name": "Gedu Goenpa",
+                  "text": "Jelentős kolostor, amely a vallási élet központjaként szolgál Gedu egyetemi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        89.559672,
+                        26.921018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lhamu Tshering handloom weaver",
+                  "text": "Un atelier tradițional unde artizanii demonstrează arta țesutului manual bhutanez.",
+                  "category": "landmark",
+                  "coords": [
+                        89.570245,
+                        26.765264
+                  ]
+            },
+            {
+                  "name": "Adma Monastery",
+                  "text": "Un sanctuar budist liniștit situat în dealurile izolate din apropierea satului Adma.",
+                  "category": "religious",
+                  "coords": [
+                        89.549883,
+                        26.77316
+                  ]
+            },
+            {
+                  "name": "Aka Zati Lhakhang Monastery",
+                  "text": "O mănăstire retrasă din regiunea Chukha, care oferă consolare spirituală în mijlocul peisajelor verzi.",
+                  "category": "religious",
+                  "coords": [
+                        89.570988,
+                        26.764324
+                  ]
+            },
+            {
+                  "name": "Laptsha Lhakhang",
+                  "text": "Acest templu budist de pe deal oferă vedere panoramică asupra văilor din jur, lângă Gedu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.530921,
+                        26.912981
+                  ]
+            },
+            {
+                  "name": "Pakshikha Lhakang",
+                  "text": "Un templu budist senin, cu arhitectură tradițională bhutaneză și picturi murale colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        89.594058,
+                        26.932212
+                  ]
+            },
+            {
+                  "name": "Gedu Goenpa",
+                  "text": "O mănăstire proeminentă care servește ca centru al vieții religioase în orașul academic Gedu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.559672,
+                        26.921018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lhamu Tshering handloom weaver",
+                  "text": "A traditional workshop where artisans demonstrate the art of Bhutanese handloom weaving.",
+                  "category": "landmark",
+                  "coords": [
+                        89.570245,
+                        26.765264
+                  ]
+            },
+            {
+                  "name": "Adma Monastery",
+                  "text": "A peaceful Buddhist sanctuary located in the remote hills near the Adma village.",
+                  "category": "religious",
+                  "coords": [
+                        89.549883,
+                        26.77316
+                  ]
+            },
+            {
+                  "name": "Aka Zati Lhakhang Monastery",
+                  "text": "A secluded monastery in the Chukha region, offering spiritual solace amidst green landscapes.",
+                  "category": "religious",
+                  "coords": [
+                        89.570988,
+                        26.764324
+                  ]
+            },
+            {
+                  "name": "Laptsha Lhakhang",
+                  "text": "This hilltop Buddhist temple provides panoramic views of the surrounding valleys near Gedu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.530921,
+                        26.912981
+                  ]
+            },
+            {
+                  "name": "Pakshikha Lhakang",
+                  "text": "A serene Buddhist temple featuring traditional Bhutanese architecture and colorful murals.",
+                  "category": "landmark",
+                  "coords": [
+                        89.594058,
+                        26.932212
+                  ]
+            },
+            {
+                  "name": "Gedu Goenpa",
+                  "text": "A prominent monastery serving as a center for religious life in the academic town of Gedu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.559672,
+                        26.921018
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BT-12",
     coords: [89.5858, 26.8522],
@@ -46,7 +271,124 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Financée par l'Inde (60 % de subvention, 40 % de prêt)", "Opérateur : Druk Green Power Corporation", "Couvrait 60 % du revenu national bhoutanais lors de sa mise en service", "Dispose d'une galerie d'amenée de 23 km de long", "Les turbines sont situées dans une caverne souterraine", "Production d'énergie annuelle : environ 4 865 GWh", "Réduit les émissions de CO2 grâce à l'énergie propre", "Le projet a coûté environ 900 millions de dollars US"],
     }, image: "/poi-images/tala-hydropower-plant-economic-v2.webp"},
   {
-    id: "chukha-hydropower-plant-economic-v2",
+    id: "chukha-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bjacho Lhakhang",
+                  "text": "Ein buddhistischer Tempel in der Nähe des Wasserkraftwerks Chukha, der lokalen Gläubigen als spiritueller Rückzugsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.577541,
+                        27.082658
+                  ]
+            },
+            {
+                  "name": "Chukha Zangdogpelri",
+                  "text": "Eine buddhistische Stätte im Gebiet des Chukha-Wasserkraftwerks, die traditionelle bhutanische Architektur aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        89.575267,
+                        27.052232
+                  ]
+            },
+            {
+                  "name": "Lower Terrace Market Area",
+                  "text": "Ein belebter Marktplatz auf der unteren Terrasse, wo Händler nahe der Chukha-Anlage lokale Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        89.565916,
+                        27.05686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bjacho Lhakhang",
+                  "text": "Egy buddhista templom a Chukha vízerőmű közelében, amely a helyi hívők spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.577541,
+                        27.082658
+                  ]
+            },
+            {
+                  "name": "Chukha Zangdogpelri",
+                  "text": "Egy buddhista helyszín a Chukha vízerőmű területén, amely hagyományos bhutáni építészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        89.575267,
+                        27.052232
+                  ]
+            },
+            {
+                  "name": "Lower Terrace Market Area",
+                  "text": "Egy nyüzsgő piactér az alsó teraszon, ahol az árusok helyi termékeket kínálnak a Chukha létesítmény közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        89.565916,
+                        27.05686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bjacho Lhakhang",
+                  "text": "Un templu budist situat în apropierea hidrocentralei Chukha, servind drept loc de retragere spirituală pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        89.577541,
+                        27.082658
+                  ]
+            },
+            {
+                  "name": "Chukha Zangdogpelri",
+                  "text": "Un sit budist în zona hidrocentralei Chukha, care prezintă arhitectură tradițională bhutaneză.",
+                  "category": "landmark",
+                  "coords": [
+                        89.575267,
+                        27.052232
+                  ]
+            },
+            {
+                  "name": "Lower Terrace Market Area",
+                  "text": "O piață plină de viață pe terasa inferioară, unde comercianții oferă produse locale lângă complexul Chukha.",
+                  "category": "cultural",
+                  "coords": [
+                        89.565916,
+                        27.05686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bjacho Lhakhang",
+                  "text": "A Buddhist temple near the Chukha Hydropower Plant, serving as a spiritual retreat for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        89.577541,
+                        27.082658
+                  ]
+            },
+            {
+                  "name": "Chukha Zangdogpelri",
+                  "text": "A Buddhist site in the Chukha Hydropower Plant area, featuring traditional Bhutanese architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        89.575267,
+                        27.052232
+                  ]
+            },
+            {
+                  "name": "Lower Terrace Market Area",
+                  "text": "A bustling marketplace on the lower terrace, where vendors offer local goods near the Chukha facility.",
+                  "category": "cultural",
+                  "coords": [
+                        89.565916,
+                        27.05686
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BT-12",
     coords: [89.5750, 27.0583],
@@ -91,7 +433,412 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     image: "/poi-images/chukha-hydropower-plant-economic-v2.webp",
   },
   {
-    id: "kurichhu-hydropower-plant-economic-v2",
+    id: "kurichhu-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mongar Chorten",
+                  "text": "Der Mongar Chorten ist eine markante weiße Stupa im Stadtzentrum, die dem Jarung Khashor in Nepal nachempfunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        91.236934,
+                        27.277151
+                  ]
+            },
+            {
+                  "name": "Kilikhar Shedra",
+                  "text": "Kilikhar Shedra ist ein wichtiges buddhistisches College auf einem Hügel über Mongar mit weitem Blick über das Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        91.25757,
+                        27.262746
+                  ]
+            },
+            {
+                  "name": "Larjab Lhakhang",
+                  "text": "Larjab Lhakhang ist ein bedeutender Tempel in der Region Mongar, der als spirituelles Zentrum für die lokale Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.307105,
+                        27.251744
+                  ]
+            },
+            {
+                  "name": "Thamnangbi Lhakhang",
+                  "text": "Dieser abgelegene Tempel in Mongar ist bekannt für seine kunstvollen Wandmalereien, die Szenen aus dem Leben Buddhas darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        91.282962,
+                        27.282734
+                  ]
+            },
+            {
+                  "name": "Pongchula Lhakhang",
+                  "text": "Der Pongchula-Tempel ist ein ruhiger Ort der Verehrung, der traditionelle bhutanische Architektur inmitten grüner Wälder zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.225772,
+                        27.249269
+                  ]
+            },
+            {
+                  "name": "Kadam Goenpa",
+                  "text": "Das Kadam-Kloster ist für seine spirituelle Abgeschiedenheit bekannt und beherbergt eine Gemeinschaft von Mönchen in den Hügeln.",
+                  "category": "landmark",
+                  "coords": [
+                        91.239639,
+                        27.270165
+                  ]
+            },
+            {
+                  "name": "Shami Lhakhang",
+                  "text": "Dieser kleine Dorf-Lhakhang ist das Zentrum für jährliche religiöse Feste und lokale Zeremonien im Kuri-Chhu-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        91.249657,
+                        27.253445
+                  ]
+            },
+            {
+                  "name": "Jaiphu Lhakhang",
+                  "text": "Jaiphu Lhakhang ist ein alter Tempel, der für seine heiligen Reliquien und die friedliche Atmosphäre in Ostbhutan geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        91.242474,
+                        27.256413
+                  ]
+            },
+            {
+                  "name": "Jarungkhashor Chorten",
+                  "text": "Dieser Chorten wurde im Stil des großen Boudhanath in Nepal errichtet und dient als wichtiges spirituelles Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        91.195396,
+                        27.235878
+                  ]
+            },
+            {
+                  "name": "Mani Dungkur",
+                  "text": "Das Mani Dungkur beherbergt eine riesige Gebetsmühle, die von Gläubigen gedreht wird, um Mantras in den Wind zu entlassen.",
+                  "category": "landmark",
+                  "coords": [
+                        91.19812,
+                        27.228673
+                  ]
+            },
+            {
+                  "name": "Tshomen Neykhang",
+                  "text": "Tshomen Neykhang ist ein kleiner, aber bedeutender Schrein, der den lokalen Geistern und Schutzgottheiten des Tals gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.193752,
+                        27.236966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mongar Chorten",
+                  "text": "A Mongar Chorten egy jellegzetes fehér sztúpa a városközpontban, amelyet a nepáli Jarung Khashor mintájára építettek.",
+                  "category": "historical",
+                  "coords": [
+                        91.236934,
+                        27.277151
+                  ]
+            },
+            {
+                  "name": "Kilikhar Shedra",
+                  "text": "A Kilikhar Shedra egy fontos buddhista főiskola egy dombtetőn Mongar felett, széles kilátással a völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        91.25757,
+                        27.262746
+                  ]
+            },
+            {
+                  "name": "Larjab Lhakhang",
+                  "text": "A Larjab Lhakhang a Mongar régió egyik jelentős temploma, amely a helyi közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        91.307105,
+                        27.251744
+                  ]
+            },
+            {
+                  "name": "Thamnangbi Lhakhang",
+                  "text": "Ez az eldugott mongari templom bonyolult falfestményeiről ismert, amelyek Buddha életének jeleneteit ábrázolják.",
+                  "category": "landmark",
+                  "coords": [
+                        91.282962,
+                        27.282734
+                  ]
+            },
+            {
+                  "name": "Pongchula Lhakhang",
+                  "text": "A Pongchula-templom egy békés istentiszteleti hely, amely a hagyományos bhutáni építészetet mutatja be zöld erdők közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        91.225772,
+                        27.249269
+                  ]
+            },
+            {
+                  "name": "Kadam Goenpa",
+                  "text": "A Kadam-kolostor spirituális elszigeteltségéről ismert, és szerzetesek közösségének ad otthont a dombok között.",
+                  "category": "landmark",
+                  "coords": [
+                        91.239639,
+                        27.270165
+                  ]
+            },
+            {
+                  "name": "Shami Lhakhang",
+                  "text": "Ez a kis falusi Lhakhang az éves vallási fesztiválok és helyi szertartások központja a Kuri-Chhu völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        91.249657,
+                        27.253445
+                  ]
+            },
+            {
+                  "name": "Jaiphu Lhakhang",
+                  "text": "A Jaiphu Lhakhang egy ősi templom, amelyet szent ereklyéiért és Kelet-Bhután békés légköréért tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        91.242474,
+                        27.256413
+                  ]
+            },
+            {
+                  "name": "Jarungkhashor Chorten",
+                  "text": "Ez a sztúpa a nepáli nagy Boudhanath stílusában épült, és fontos spirituális mérföldkőként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        91.195396,
+                        27.235878
+                  ]
+            },
+            {
+                  "name": "Mani Dungkur",
+                  "text": "A Mani Dungkur egy hatalmas imakereket őriz, amelyet a hívők forgatnak, hogy mantrákat engedjenek a szélbe.",
+                  "category": "landmark",
+                  "coords": [
+                        91.19812,
+                        27.228673
+                  ]
+            },
+            {
+                  "name": "Tshomen Neykhang",
+                  "text": "A Tshomen Neykhang egy kicsi, de jelentős szentély, amelyet a völgy helyi szellemeinek és védelmező isteneinek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        91.193752,
+                        27.236966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mongar Chorten",
+                  "text": "Mongar Chorten este o stupă albă proeminentă din centrul orașului, construită după modelul Jarung Khashor din Nepal.",
+                  "category": "historical",
+                  "coords": [
+                        91.236934,
+                        27.277151
+                  ]
+            },
+            {
+                  "name": "Kilikhar Shedra",
+                  "text": "Kilikhar Shedra este un colegiu budist important situat pe un deal deasupra orașului Mongar, cu vederi largi asupra văii.",
+                  "category": "landmark",
+                  "coords": [
+                        91.25757,
+                        27.262746
+                  ]
+            },
+            {
+                  "name": "Larjab Lhakhang",
+                  "text": "Larjab Lhakhang este un templu semnificativ din regiunea Mongar, servind ca centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        91.307105,
+                        27.251744
+                  ]
+            },
+            {
+                  "name": "Thamnangbi Lhakhang",
+                  "text": "Acest templu izolat din Mongar este cunoscut pentru picturile sale murale complicate care înfățișează scene din viața lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        91.282962,
+                        27.282734
+                  ]
+            },
+            {
+                  "name": "Pongchula Lhakhang",
+                  "text": "Templul Pongchula este un loc de cult liniștit, care prezintă arhitectura tradițională bhutaneză în mijlocul pădurilor verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        91.225772,
+                        27.249269
+                  ]
+            },
+            {
+                  "name": "Kadam Goenpa",
+                  "text": "Mănăstirea Kadam este cunoscută pentru izolarea sa spirituală și găzduiește o comunitate de călugări în dealuri.",
+                  "category": "landmark",
+                  "coords": [
+                        91.239639,
+                        27.270165
+                  ]
+            },
+            {
+                  "name": "Shami Lhakhang",
+                  "text": "Acest mic Lhakhang de sat este centrul festivalurilor religioase anuale și al ceremoniilor locale din valea Kuri Chhu.",
+                  "category": "landmark",
+                  "coords": [
+                        91.249657,
+                        27.253445
+                  ]
+            },
+            {
+                  "name": "Jaiphu Lhakhang",
+                  "text": "Jaiphu Lhakhang este un templu vechi, prețuit pentru relicvele sale sacre și atmosfera pașnică din estul Bhutanului.",
+                  "category": "landmark",
+                  "coords": [
+                        91.242474,
+                        27.256413
+                  ]
+            },
+            {
+                  "name": "Jarungkhashor Chorten",
+                  "text": "Acest Chorten a fost construit în stilul marelui Boudhanath din Nepal și servește ca un punct de reper spiritual important.",
+                  "category": "landmark",
+                  "coords": [
+                        91.195396,
+                        27.235878
+                  ]
+            },
+            {
+                  "name": "Mani Dungkur",
+                  "text": "Mani Dungkur adăpostește o roată de rugăciune uriașă, rotită de credincioși pentru a elibera mantre în vânt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.19812,
+                        27.228673
+                  ]
+            },
+            {
+                  "name": "Tshomen Neykhang",
+                  "text": "Tshomen Neykhang este un altar mic, dar semnificativ, dedicat spiritelor locale și zeităților protectoare ale văii.",
+                  "category": "landmark",
+                  "coords": [
+                        91.193752,
+                        27.236966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mongar Chorten",
+                  "text": "Mongar Chorten is a prominent white stupa in the town center, modeled after the Jarung Khashor in Nepal.",
+                  "category": "historical",
+                  "coords": [
+                        91.236934,
+                        27.277151
+                  ]
+            },
+            {
+                  "name": "Kilikhar Shedra",
+                  "text": "Kilikhar Shedra is an important Buddhist college on a hill above Mongar, offering wide views over the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        91.25757,
+                        27.262746
+                  ]
+            },
+            {
+                  "name": "Larjab Lhakhang",
+                  "text": "Larjab Lhakhang is a significant temple in the Mongar region, serving as a spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        91.307105,
+                        27.251744
+                  ]
+            },
+            {
+                  "name": "Thamnangbi Lhakhang",
+                  "text": "This secluded temple in Mongar is known for its intricate murals depicting scenes from the life of Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        91.282962,
+                        27.282734
+                  ]
+            },
+            {
+                  "name": "Pongchula Lhakhang",
+                  "text": "Pongchula Lhakhang is a peaceful place of worship showcasing traditional Bhutanese architecture amidst green forests.",
+                  "category": "landmark",
+                  "coords": [
+                        91.225772,
+                        27.249269
+                  ]
+            },
+            {
+                  "name": "Kadam Goenpa",
+                  "text": "Kadam Goenpa is known for its spiritual seclusion and houses a community of monks in the hills.",
+                  "category": "landmark",
+                  "coords": [
+                        91.239639,
+                        27.270165
+                  ]
+            },
+            {
+                  "name": "Shami Lhakhang",
+                  "text": "This small village Lhakhang is the center for annual religious festivals and local ceremonies in the Kuri Chhu valley.",
+                  "category": "landmark",
+                  "coords": [
+                        91.249657,
+                        27.253445
+                  ]
+            },
+            {
+                  "name": "Jaiphu Lhakhang",
+                  "text": "Jaiphu Lhakhang is an ancient temple cherished for its sacred relics and the peaceful atmosphere in eastern Bhutan.",
+                  "category": "landmark",
+                  "coords": [
+                        91.242474,
+                        27.256413
+                  ]
+            },
+            {
+                  "name": "Jarungkhashor Chorten",
+                  "text": "This chorten was built in the style of the great Boudhanath in Nepal and serves as a major spiritual landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        91.195396,
+                        27.235878
+                  ]
+            },
+            {
+                  "name": "Mani Dungkur",
+                  "text": "Mani Dungkur houses a giant prayer wheel spun by devotees to release mantras into the wind.",
+                  "category": "landmark",
+                  "coords": [
+                        91.19812,
+                        27.228673
+                  ]
+            },
+            {
+                  "name": "Tshomen Neykhang",
+                  "text": "Tshomen Neykhang is a small but significant shrine dedicated to the local spirits and protector deities of the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        91.193752,
+                        27.236966
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BT-42",
     coords: [91.2408, 27.2831],
@@ -134,7 +881,88 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Située dans le district de Mongar", "Une centrale hydroélectrique au fil de l'eau", "A permis l'électrification de plus de 2 500 villages", "A réduit la dépendance aux combustibles fossiles importés dans l'est", "La construction a été financée par l'Inde", "A amélioré la stabilité du réseau dans la région", "Favorise les petites et moyennes entreprises", "Employeur important pendant la phase de construction"],
     }, image: "/poi-images/kurichhu-hydropower-plant-economic-v2.webp"},
   {
-    id: "mangdechhu-hydropower-plant-economic-v2",
+    id: "mangdechhu-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "DungbiGoenpa",
+                  "text": "Diese buddhistische Goenpa (Kloster) überblickt das Mangdechhu-Flusstal nahe der Wasserkraftwerksinfrastruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.45198,
+                        27.468847
+                  ]
+            },
+            {
+                  "name": "Tashicholing Lhaakhang",
+                  "text": "Ein ruhiger buddhistischer Tempel im Mangdechhu-Becken mit traditionellen bhutanischen Architekturelementen.",
+                  "category": "landmark",
+                  "coords": [
+                        90.450746,
+                        27.459277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DungbiGoenpa",
+                  "text": "Ez a buddhista goenpa (kolostor) a Mangdechhu folyó völgyére néz a vízerőmű infrastruktúrája közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        90.45198,
+                        27.468847
+                  ]
+            },
+            {
+                  "name": "Tashicholing Lhaakhang",
+                  "text": "Egy csendes buddhista templom a Mangdechhu-medence térségében, hagyományos bhutáni építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        90.450746,
+                        27.459277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "DungbiGoenpa",
+                  "text": "Acest goenpa (mănăstire) budist are vedere la valea râului Mangdechhu, lângă infrastructura hidrocentralei.",
+                  "category": "landmark",
+                  "coords": [
+                        90.45198,
+                        27.468847
+                  ]
+            },
+            {
+                  "name": "Tashicholing Lhaakhang",
+                  "text": "Un templu budist liniștit situat în zona bazinului Mangdechhu, cu elemente arhitecturale tradiționale din Bhutan.",
+                  "category": "landmark",
+                  "coords": [
+                        90.450746,
+                        27.459277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "DungbiGoenpa",
+                  "text": "This Buddhist goenpa (monastery) overlooks the Mangdechhu river valley near the hydropower plant infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        90.45198,
+                        27.468847
+                  ]
+            },
+            {
+                  "name": "Tashicholing Lhaakhang",
+                  "text": "A serene Buddhist temple situated in the Mangdechhu basin area, featuring traditional Bhutanese architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        90.450746,
+                        27.459277
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BT-34",
     coords: [90.5050, 27.4819],
@@ -177,7 +1005,124 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Récompensée par la médaille Brunel 2020", "Génère plus de 3 000 millions d'unités d'électricité par an", "A augmenté la capacité de production d'électricité du Bhoutan de 40 %", "Les coûts du projet se sont élevés à environ 45 milliards de Nu.", "La galerie d'amenée souterraine mesure 13,5 km de long", "La salle des machines est située à 1 km sous terre", "Entièrement détenue par la Druk Green Power Corporation", "A créé plus de 3 000 emplois pendant la construction"],
     }, image: "/poi-images/mangdechhu-hydropower-plant-economic-v2.webp"},
   {
-    id: "punatsangchhu-hydropower-economic-v2",
+    id: "punatsangchhu-hydropower-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chodenthangkha",
+                  "text": "Eine spirituelle buddhistische Stätte, die in der Nähe der massiven Wasserkraftwerke am Punatsangchhu widerstandsfähig steht.",
+                  "category": "landmark",
+                  "coords": [
+                        89.954422,
+                        27.326432
+                  ]
+            },
+            {
+                  "name": "Gyikha Lhakhang",
+                  "text": "Dieser buddhistische Tempel bewahrt seinen traditionellen Charme inmitten der modernen wirtschaftlichen Entwicklungen entlang des Flusses Punatsangchhu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.885366,
+                        27.376882
+                  ]
+            },
+            {
+                  "name": "Bjana Goenpa",
+                  "text": "Eine abgelegene Kultstätte mit Blick auf das tiefe Tal, das der Punatsangchhu gegraben hat.",
+                  "category": "religious",
+                  "coords": [
+                        89.901381,
+                        27.35487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chodenthangkha",
+                  "text": "Spirituális buddhista helyszín a hatalmas Punatsangchhu vízerőmű-fejlesztések közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.954422,
+                        27.326432
+                  ]
+            },
+            {
+                  "name": "Gyikha Lhakhang",
+                  "text": "Ez a buddhista templom megőrizte hagyományos varázsát a Punatsangchhu folyó menti modern gazdasági fejlemények közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        89.885366,
+                        27.376882
+                  ]
+            },
+            {
+                  "name": "Bjana Goenpa",
+                  "text": "Félreeső istentiszteleti hely, amely a Punatsangchhu által vájt mély völgyre néz.",
+                  "category": "religious",
+                  "coords": [
+                        89.901381,
+                        27.35487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chodenthangkha",
+                  "text": "Un sit spiritual budist care stă cu rezistență în apropierea dezvoltărilor masive hidroelectrice Punatsangchhu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.954422,
+                        27.326432
+                  ]
+            },
+            {
+                  "name": "Gyikha Lhakhang",
+                  "text": "Acest templu budist își păstrează farmecul tradițional în mijlocul dezvoltărilor economice moderne de-a lungul râului Punatsangchhu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.885366,
+                        27.376882
+                  ]
+            },
+            {
+                  "name": "Bjana Goenpa",
+                  "text": "Un lăcaș de cult retras, cu vedere la valea adâncă săpată de Punatsangchhu.",
+                  "category": "religious",
+                  "coords": [
+                        89.901381,
+                        27.35487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chodenthangkha",
+                  "text": "A spiritual Buddhist site standing resiliently near the massive Punatsangchhu hydropower developments.",
+                  "category": "landmark",
+                  "coords": [
+                        89.954422,
+                        27.326432
+                  ]
+            },
+            {
+                  "name": "Gyikha Lhakhang",
+                  "text": "This Buddhist temple retains its traditional charm amidst the modern economic developments along the Punatsangchhu river.",
+                  "category": "landmark",
+                  "coords": [
+                        89.885366,
+                        27.376882
+                  ]
+            },
+            {
+                  "name": "Bjana Goenpa",
+                  "text": "A secluded place of worship overlooking the deep valley carved by the Punatsangchhu.",
+                  "category": "religious",
+                  "coords": [
+                        89.901381,
+                        27.35487
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BT-32",
     coords: [89.8972, 27.3514],
@@ -222,7 +1167,52 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     image: "/poi-images/punatsangchhu-hydropower-economic-v2.webp",
   },
   {
-    id: "basochhu-hydropower-plant-economic-v2",
+    id: "basochhu-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khokotokha Shedra",
+                  "text": "Diese buddhistische Klosterschule liegt in der Nähe des Wasserkraftwerks Basochhu und verbindet traditionelle Bildung mit moderner Infrastruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.008992,
+                        27.433728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khokotokha Shedra",
+                  "text": "Ez a buddhista kolostori iskola a Basochhu Vízerőmű közelében található, ötvözve a hagyományos oktatást a modern infrastruktúrával.",
+                  "category": "landmark",
+                  "coords": [
+                        90.008992,
+                        27.433728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khokotokha Shedra",
+                  "text": "Această școală monastică budistă este situată în apropierea hidrocentralei Basochhu, îmbinând educația tradițională cu infrastructura modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        90.008992,
+                        27.433728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khokotokha Shedra",
+                  "text": "This Buddhist monastic school is situated near the Basochhu Hydropower Plant, blending traditional education with modern infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        90.008992,
+                        27.433728
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BT-32",
     coords: [89.9200, 27.3917],
@@ -267,7 +1257,340 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     image: "/poi-images/basochhu-hydropower-plant-economic-v2.webp",
   },
   {
-    id: "dagachhu-hydropower-plant-economic-v2",
+    id: "dagachhu-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MSTF",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das Dagachhu-Flusstal und das Wasserkraftwerk.",
+                  "category": "natural",
+                  "coords": [
+                        89.880599,
+                        27.073865
+                  ]
+            },
+            {
+                  "name": "Ta Dzong",
+                  "text": "Ursprünglich ein Wachturm, dient dieses Bauwerk heute als heilige Kultstätte über dem Bezirk.",
+                  "category": "religious",
+                  "coords": [
+                        89.881066,
+                        27.07229
+                  ]
+            },
+            {
+                  "name": "Moenlam Chenmo Hall",
+                  "text": "Eine große Versammlungshalle, die für das Moenlam Chenmo-Gebetsfest in Dagana genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        89.888781,
+                        27.071697
+                  ]
+            },
+            {
+                  "name": "Darayutsho Chorten",
+                  "text": "Ein traditioneller, weiß getünchter Chörten als Symbol des Friedens in der Berglandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        89.893183,
+                        27.067689
+                  ]
+            },
+            {
+                  "name": "AKHOCHEN GANESHA MANDIR",
+                  "text": "Ein lebendiger Hindu-Tempel, der Lord Ganesha gewidmet ist und der Gemeinschaft in Akhochen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        89.955095,
+                        26.988582
+                  ]
+            },
+            {
+                  "name": "Mani Dungkor.",
+                  "text": "Ein großes, kunstvolles Gebetsrad in einem traditionellen Gebäude, das von Gläubigen gedreht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        90.03289,
+                        26.986191
+                  ]
+            },
+            {
+                  "name": "Gongphu Lhakhang",
+                  "text": "Ein alter buddhistischer Tempel, versteckt in den Hügeln von Gongphu mit historischer Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        89.878176,
+                        27.07309
+                  ]
+            },
+            {
+                  "name": "Namgay Chorten",
+                  "text": "Ein friedliches religiöses Monument mit markanter Kuppel, typisch für bhutanische Stupas.",
+                  "category": "landmark",
+                  "coords": [
+                        89.87944,
+                        27.073164
+                  ]
+            },
+            {
+                  "name": "Dungchen Menchu",
+                  "text": "Eine natürliche heiße Quelle, bekannt für ihre medizinischen und therapeutischen Eigenschaften.",
+                  "category": "natural",
+                  "coords": [
+                        89.870807,
+                        27.068773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MSTF",
+                  "text": "Kilátópont, ahonnan pazar kilátás nyílik a Dagachhu-folyó völgyére és a vízerőműre.",
+                  "category": "natural",
+                  "coords": [
+                        89.880599,
+                        27.073865
+                  ]
+            },
+            {
+                  "name": "Ta Dzong",
+                  "text": "Az eredetileg őrtoronyként funkcionáló építmény ma szent istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        89.881066,
+                        27.07229
+                  ]
+            },
+            {
+                  "name": "Moenlam Chenmo Hall",
+                  "text": "Hatalmas gyülekezeti terem, amelyet a Moenlam Chenmo imafesztivál alkalmából használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        89.888781,
+                        27.071697
+                  ]
+            },
+            {
+                  "name": "Darayutsho Chorten",
+                  "text": "Hagyományos, fehérre meszelt csorten, amely a béke jelképeként áll a hegyvidéki tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        89.893183,
+                        27.067689
+                  ]
+            },
+            {
+                  "name": "AKHOCHEN GANESHA MANDIR",
+                  "text": "Lord Ganésának szentelt élénk hindu templom, amely az akhocheni helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        89.955095,
+                        26.988582
+                  ]
+            },
+            {
+                  "name": "Mani Dungkor.",
+                  "text": "Nagy, díszes imamalom egy hagyományos építményben, amelyet a hívők megforgathatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.03289,
+                        26.986191
+                  ]
+            },
+            {
+                  "name": "Gongphu Lhakhang",
+                  "text": "Ősi buddhista templom Gongphu dombjai között elrejtve, gazdag történelmi múlttal.",
+                  "category": "landmark",
+                  "coords": [
+                        89.878176,
+                        27.07309
+                  ]
+            },
+            {
+                  "name": "Namgay Chorten",
+                  "text": "Békés vallási emlékmű, amelyet a bhutáni sztúpákra jellemző jellegzetes kupola díszít.",
+                  "category": "landmark",
+                  "coords": [
+                        89.87944,
+                        27.073164
+                  ]
+            },
+            {
+                  "name": "Dungchen Menchu",
+                  "text": "Természetes melegvizes forrás, amely gyógyhatásáról és terápiás ásványvizeiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        89.870807,
+                        27.068773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MSTF",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra văii râului Dagachhu și a hidrocentralei.",
+                  "category": "natural",
+                  "coords": [
+                        89.880599,
+                        27.073865
+                  ]
+            },
+            {
+                  "name": "Ta Dzong",
+                  "text": "Inițial un turn de veghe, această structură servește acum ca un lăcaș de cult sacru.",
+                  "category": "religious",
+                  "coords": [
+                        89.881066,
+                        27.07229
+                  ]
+            },
+            {
+                  "name": "Moenlam Chenmo Hall",
+                  "text": "O sală mare de adunări folosită pentru festivalul de rugăciune Moenlam Chenmo din Dagana.",
+                  "category": "landmark",
+                  "coords": [
+                        89.888781,
+                        27.071697
+                  ]
+            },
+            {
+                  "name": "Darayutsho Chorten",
+                  "text": "Un chorten tradițional văruit în alb, care stă ca un simbol al păcii în terenul muntos.",
+                  "category": "landmark",
+                  "coords": [
+                        89.893183,
+                        27.067689
+                  ]
+            },
+            {
+                  "name": "AKHOCHEN GANESHA MANDIR",
+                  "text": "Un templu hindu vibrant dedicat Domnului Ganesha, servind comunitatea locală din Akhochen.",
+                  "category": "landmark",
+                  "coords": [
+                        89.955095,
+                        26.988582
+                  ]
+            },
+            {
+                  "name": "Mani Dungkor.",
+                  "text": "O roată de rugăciune mare și ornată, într-o structură tradițională, pentru a fi rotită de credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        90.03289,
+                        26.986191
+                  ]
+            },
+            {
+                  "name": "Gongphu Lhakhang",
+                  "text": "Un templu budist străvechi ascuns în dealurile Gongphu, bogat în semnificație istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        89.878176,
+                        27.07309
+                  ]
+            },
+            {
+                  "name": "Namgay Chorten",
+                  "text": "Un monument religios liniștit, cu cupola sa distinctivă, tipică stupelor bhutaneze.",
+                  "category": "landmark",
+                  "coords": [
+                        89.87944,
+                        27.073164
+                  ]
+            },
+            {
+                  "name": "Dungchen Menchu",
+                  "text": "Un izvor termal natural renumit pentru proprietățile sale medicinale și terapeutice.",
+                  "category": "natural",
+                  "coords": [
+                        89.870807,
+                        27.068773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MSTF",
+                  "text": "A vantage point offering sweeping views of the Dagachhu river valley and the hydropower plant.",
+                  "category": "natural",
+                  "coords": [
+                        89.880599,
+                        27.073865
+                  ]
+            },
+            {
+                  "name": "Ta Dzong",
+                  "text": "Originally a watchtower, this structure now serves as a sacred place of worship overlooking the district.",
+                  "category": "religious",
+                  "coords": [
+                        89.881066,
+                        27.07229
+                  ]
+            },
+            {
+                  "name": "Moenlam Chenmo Hall",
+                  "text": "A grand assembly hall used for the Moenlam Chenmo prayer festival in the Dagana region.",
+                  "category": "landmark",
+                  "coords": [
+                        89.888781,
+                        27.071697
+                  ]
+            },
+            {
+                  "name": "Darayutsho Chorten",
+                  "text": "A traditional white-washed chorten standing as a beacon of peace in the mountainous terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        89.893183,
+                        27.067689
+                  ]
+            },
+            {
+                  "name": "AKHOCHEN GANESHA MANDIR",
+                  "text": "A vibrant Hindu temple dedicated to Lord Ganesha, serving the local community in Akhochen.",
+                  "category": "landmark",
+                  "coords": [
+                        89.955095,
+                        26.988582
+                  ]
+            },
+            {
+                  "name": "Mani Dungkor.",
+                  "text": "A large, ornate prayer wheel housed in a traditional structure for devotees to spin.",
+                  "category": "landmark",
+                  "coords": [
+                        90.03289,
+                        26.986191
+                  ]
+            },
+            {
+                  "name": "Gongphu Lhakhang",
+                  "text": "An ancient Buddhist temple tucked away in the Gongphu hills, rich with historical significance.",
+                  "category": "landmark",
+                  "coords": [
+                        89.878176,
+                        27.07309
+                  ]
+            },
+            {
+                  "name": "Namgay Chorten",
+                  "text": "A peaceful religious monument characterized by its distinctive dome, typical of Bhutanese stupas.",
+                  "category": "landmark",
+                  "coords": [
+                        89.87944,
+                        27.073164
+                  ]
+            },
+            {
+                  "name": "Dungchen Menchu",
+                  "text": "A natural hot spring renowned for its medicinal properties and therapeutic mineral waters.",
+                  "category": "natural",
+                  "coords": [
+                        89.870807,
+                        27.068773
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BT-21",
     coords: [89.9678, 27.0506],
@@ -355,7 +1678,124 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Principal site industriel du Bhoutan", "Siège de la plupart des installations de ferroalliages et de carbure de calcium", "Profite de l'électricité bon marché issue de l'hydroélectricité", "Emplacement stratégique à la frontière indienne pour faciliter l'exportation", "Confronté à des défis en matière de gestion environnementale et de pollution", "Employeur important dans la région de Chukha", "Contribue de manière significative aux revenus d'exportation du Bhoutan", "Comprend également de grandes entreprises de ciment et d'acier"],
     }, image: "/poi-images/pasakha-industrial-estate-economic-v2.webp"},
   {
-    id: "jigmeling-industrial-park-economic-v2",
+    id: "jigmeling-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phulari",
+                  "text": "Eine buddhistische Pilgerstätte nahe dem Industriepark Jigmeling, die spirituelle Ruhe inmitten der industriellen Entwicklung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.457928,
+                        26.916535
+                  ]
+            },
+            {
+                  "name": "Lhakhang compound",
+                  "text": "Ein ummauerter Kultkomplex in der Nähe der Jigmeling-Industriezone, der traditionelle sakrale Architektur aufweist.",
+                  "category": "religious",
+                  "coords": [
+                        90.479067,
+                        26.889487
+                  ]
+            },
+            {
+                  "name": "Gakyid Tam Ghi Dukhang",
+                  "text": "Eine große buddhistische Versammlungshalle (Dukhang), die für gemeinschaftliche Rituale der Bewohner der Jigmeling-Zone genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        90.491134,
+                        26.891339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phulari",
+                  "text": "Egy buddhista zarándokhely a Jigmeling ipari park közelében, amely spirituális nyugalmat kínál az ipari fejlődés közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        90.457928,
+                        26.916535
+                  ]
+            },
+            {
+                  "name": "Lhakhang compound",
+                  "text": "Egy fallal körülvett vallási komplexum a Jigmeling ipari övezet közelében, amely hagyományos szakrális építészetet mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        90.479067,
+                        26.889487
+                  ]
+            },
+            {
+                  "name": "Gakyid Tam Ghi Dukhang",
+                  "text": "Egy nagy buddhista gyülekezeti terem (Dukhang), amelyet a Jigmeling övezet lakói közös rituálékhoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        90.491134,
+                        26.891339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phulari",
+                  "text": "Un loc de pelerinaj budist lângă parcul industrial Jigmeling, oferind liniște spirituală în mijlocul dezvoltării industriale.",
+                  "category": "landmark",
+                  "coords": [
+                        90.457928,
+                        26.916535
+                  ]
+            },
+            {
+                  "name": "Lhakhang compound",
+                  "text": "Un complex de cult cu ziduri în apropierea zonei industriale Jigmeling, cu arhitectură sacră tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        90.479067,
+                        26.889487
+                  ]
+            },
+            {
+                  "name": "Gakyid Tam Ghi Dukhang",
+                  "text": "O sală mare de adunări budiste (Dukhang), folosită pentru ritualurile comunitare ale locuitorilor din zona Jigmeling.",
+                  "category": "landmark",
+                  "coords": [
+                        90.491134,
+                        26.891339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phulari",
+                  "text": "A Buddhist pilgrimage site near the Jigmeling Industrial Park, offering spiritual tranquility amidst industrial development.",
+                  "category": "landmark",
+                  "coords": [
+                        90.457928,
+                        26.916535
+                  ]
+            },
+            {
+                  "name": "Lhakhang compound",
+                  "text": "A walled worship complex near the Jigmeling industrial zone, featuring traditional sacred architecture.",
+                  "category": "religious",
+                  "coords": [
+                        90.479067,
+                        26.889487
+                  ]
+            },
+            {
+                  "name": "Gakyid Tam Ghi Dukhang",
+                  "text": "A large Buddhist assembly hall (Dukhang) used for communal rituals by the residents of the Jigmeling zone.",
+                  "category": "landmark",
+                  "coords": [
+                        90.491134,
+                        26.891339
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BT-31",
     coords: [90.4667, 26.9000],
@@ -398,7 +1838,160 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Plus grand parc industriel planifié au Bhoutan", "Conçu pour des industries 'propres' et 'vertes'", "L'objectif est d'attirer l'investissement direct étranger (IDE)", "Infrastructures complètes fournies (routes, eau, électricité)", "Emplacement stratégique dans le centre-sud du Bhoutan", "Doit favoriser la diversification économique au-delà de l'hydroélectricité", "Accent sur les entreprises basées sur la connaissance et les TIC", "Fait partie d'un plan plus vaste de décentralisation du développement économique"],
     }, image: "/poi-images/jigmeling-industrial-park-economic-v2.webp"},
   {
-    id: "motanga-industrial-park-economic-v2",
+    id: "motanga-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dewangiri",
+                  "text": "Die historischen Ruinen einer alten Siedlung in den Hügeln nahe dem Industriegebiet Motanga.",
+                  "category": "historical",
+                  "coords": [
+                        91.4646,
+                        26.866487
+                  ]
+            },
+            {
+                  "name": "Jangchu Chhorten",
+                  "text": "Ein traditioneller weißer buddhistischer Stupa, der als spirituelles Wahrzeichen in der Nähe von Motanga dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.479658,
+                        26.866874
+                  ]
+            },
+            {
+                  "name": "Shedra",
+                  "text": "Eine buddhistische Klosterhochschule, an der Mönche in der Nähe von Motanga höhere philosophische Studien betreiben.",
+                  "category": "landmark",
+                  "coords": [
+                        91.481135,
+                        26.871379
+                  ]
+            },
+            {
+                  "name": "Dewathang Lhakhang",
+                  "text": "Ein bedeutender buddhistischer Tempel in Dewathang mit traditioneller bhutanischer Architektur und religiöser Kunst.",
+                  "category": "landmark",
+                  "coords": [
+                        91.469894,
+                        26.862141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dewangiri",
+                  "text": "Egy ősi település történelmi romjai a Motanga ipari terület melletti dombokon.",
+                  "category": "historical",
+                  "coords": [
+                        91.4646,
+                        26.866487
+                  ]
+            },
+            {
+                  "name": "Jangchu Chhorten",
+                  "text": "Egy hagyományos fehér buddhista sztúpa, amely spirituális jelképként szolgál Motanga környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        91.479658,
+                        26.866874
+                  ]
+            },
+            {
+                  "name": "Shedra",
+                  "text": "Egy buddhista kolostori főiskola Motanga közelében, ahol a szerzetesek magasabb szintű filozófiai tanulmányokat folytatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        91.481135,
+                        26.871379
+                  ]
+            },
+            {
+                  "name": "Dewathang Lhakhang",
+                  "text": "Egy jelentős buddhista templom Dewathangban, tradicionális bhutáni építészettel és vallási művészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        91.469894,
+                        26.862141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dewangiri",
+                  "text": "Ruinele istorice ale unei așezări antice situate pe dealurile de lângă zona industrială Motanga.",
+                  "category": "historical",
+                  "coords": [
+                        91.4646,
+                        26.866487
+                  ]
+            },
+            {
+                  "name": "Jangchu Chhorten",
+                  "text": "O stupă budistă albă tradițională care servește ca reper spiritual lângă zona Motanga.",
+                  "category": "landmark",
+                  "coords": [
+                        91.479658,
+                        26.866874
+                  ]
+            },
+            {
+                  "name": "Shedra",
+                  "text": "Un colegiu monastic budist unde călugării se angajează în studii filozofice superioare lângă Motanga.",
+                  "category": "landmark",
+                  "coords": [
+                        91.481135,
+                        26.871379
+                  ]
+            },
+            {
+                  "name": "Dewathang Lhakhang",
+                  "text": "Un templu budist proeminent din Dewathang, cu arhitectură tradițională bhutaneză și artă religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        91.469894,
+                        26.862141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dewangiri",
+                  "text": "The historical ruins of an ancient settlement located on the hills near the Motanga industrial area.",
+                  "category": "historical",
+                  "coords": [
+                        91.4646,
+                        26.866487
+                  ]
+            },
+            {
+                  "name": "Jangchu Chhorten",
+                  "text": "A traditional white Buddhist stupa serving as a spiritual landmark near the Motanga area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.479658,
+                        26.866874
+                  ]
+            },
+            {
+                  "name": "Shedra",
+                  "text": "A Buddhist monastic college where monks engage in higher philosophical studies near Motanga.",
+                  "category": "landmark",
+                  "coords": [
+                        91.481135,
+                        26.871379
+                  ]
+            },
+            {
+                  "name": "Dewathang Lhakhang",
+                  "text": "A prominent Buddhist temple in Dewathang featuring traditional Bhutanese architecture and religious art.",
+                  "category": "landmark",
+                  "coords": [
+                        91.469894,
+                        26.862141
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BT-45",
     coords: [91.5000, 26.8333],
@@ -441,7 +2034,124 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Doit stimuler le développement économique dans l'est du Bhoutan", "Se concentre sur les industries basées sur les minéraux et l'agro-industrie", "Emplacement stratégique pour le commerce avec l'État indien d'Assam", "Développé pour réduire l'exode vers les zones urbaines", "Offre des terrains aménagés pour les petites et moyennes entreprises (PME)", "Fait partie de la stratégie nationale de développement régional équilibré", "Incitations étatiques pour les investissements dans ce parc", "Doit favoriser la valorisation des matières premières locales"],
     }, image: "/poi-images/motanga-industrial-park-economic-v2.webp"},
   {
-    id: "bjemina-industrial-estate-economic-v2",
+    id: "bjemina-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chorten",
+                  "text": "Ein traditioneller bhutanischer Chörten in der Nähe des geschäftigen Bjemina Industrial Estate.",
+                  "category": "religious",
+                  "coords": [
+                        89.581335,
+                        27.384711
+                  ]
+            },
+            {
+                  "name": "Domtsang Ney",
+                  "text": "Dieses heilige buddhistische Ney (Pilgerstätte) bildet einen spirituellen Kontrast zum nahegelegenen Industriegebiet Bjemina.",
+                  "category": "landmark",
+                  "coords": [
+                        89.565973,
+                        27.407419
+                  ]
+            },
+            {
+                  "name": "Chimithangkha Lhakhang",
+                  "text": "Ein aktiver buddhistischer Lhakhang, in dem Gebete und Rituale für die lokale Gemeinde von Bjemina abgehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        89.524943,
+                        27.4441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chorten",
+                  "text": "Hagyományos bhutáni chorten a nyüzsgő Bjemina Ipari Birtok közelében.",
+                  "category": "religious",
+                  "coords": [
+                        89.581335,
+                        27.384711
+                  ]
+            },
+            {
+                  "name": "Domtsang Ney",
+                  "text": "Ez a szent buddhista ney (zarándokhely) spirituális kontrasztot nyújt a közeli Bjemina ipari övezetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        89.565973,
+                        27.407419
+                  ]
+            },
+            {
+                  "name": "Chimithangkha Lhakhang",
+                  "text": "Egy aktív buddhista lhakhang, amely imákat és rituálékat kínál a helyi bjeminai közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        89.524943,
+                        27.4441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chorten",
+                  "text": "Un chorten tradițional din Bhutan, situat lângă animata zonă industrială Bjemina.",
+                  "category": "religious",
+                  "coords": [
+                        89.581335,
+                        27.384711
+                  ]
+            },
+            {
+                  "name": "Domtsang Ney",
+                  "text": "Acest ney budist sacru (loc de pelerinaj) oferă un contrast spiritual față de zona industrială Bjemina din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        89.565973,
+                        27.407419
+                  ]
+            },
+            {
+                  "name": "Chimithangkha Lhakhang",
+                  "text": "Un lhakhang budist activ care oferă rugăciuni și ritualuri pentru comunitatea locală din Bjemina.",
+                  "category": "landmark",
+                  "coords": [
+                        89.524943,
+                        27.4441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chorten",
+                  "text": "A traditional Bhutanese chorten situated near the bustling Bjemina Industrial Estate.",
+                  "category": "religious",
+                  "coords": [
+                        89.581335,
+                        27.384711
+                  ]
+            },
+            {
+                  "name": "Domtsang Ney",
+                  "text": "This sacred Buddhist ney (pilgrimage site) provides a spiritual contrast to the nearby Bjemina industrial zone.",
+                  "category": "landmark",
+                  "coords": [
+                        89.565973,
+                        27.407419
+                  ]
+            },
+            {
+                  "name": "Chimithangkha Lhakhang",
+                  "text": "An active Buddhist lhakhang offering prayers and rituals for the local Bjemina community.",
+                  "category": "landmark",
+                  "coords": [
+                        89.524943,
+                        27.4441
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BT-15",
     coords: [89.5539, 27.4208],
@@ -484,7 +2194,88 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Accent sur l'industrie légère et les services", "Dessert principalement le marché de Thimphu", "Comprend de nombreuses industries du bois et de fabrication de meubles", "Impact environnemental moindre par rapport aux zones d'industrie lourde", "Soutient le secteur de la construction dans la région de la capitale", "Stratégiquement situé à proximité du plus grand centre urbain", "Abrite principalement des petites et moyennes entreprises (PME)", "Joue un rôle dans la réduction de la dépendance aux produits manufacturés importés"],
     }, image: "/poi-images/bjemina-industrial-estate-economic-v2.webp"},
   {
-    id: "dhamdum-industrial-park-economic-v2",
+    id: "dhamdum-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shivalaya Mandhir Samtse",
+                  "text": "Das Shivalaya Mandhir Samtse ist ein lebhafter Hindu-Tempelkomplex in Bhutan, der Lord Shiva gewidmet ist und traditionelle bunte Schreine aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        89.093,
+                        26.90035
+                  ]
+            },
+            {
+                  "name": "Buddhist Monastery of Samtse",
+                  "text": "Dieses bhutanische buddhistische Kloster dient als spirituelle Ausbildungsstätte für ansässige Mönche und als ruhiger Rückzugsort mit traditioneller Himalaya-Holzschnitzerei.",
+                  "category": "landmark",
+                  "coords": [
+                        89.090183,
+                        26.897699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shivalaya Mandhir Samtse",
+                  "text": "A Shivalaya Mandhir Samtse egy vibráló hindu templomkomplexum Bhutánban, amelyet az Úr Sivának szenteltek, és hagyományos színes szentélyekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        89.093,
+                        26.90035
+                  ]
+            },
+            {
+                  "name": "Buddhist Monastery of Samtse",
+                  "text": "Ez a bhutáni buddhista kolostor spirituális kiképzőközpontként szolgál a rezidens szerzetesek számára, és békés menedéket nyújt hagyományos himalájai fafaragásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        89.090183,
+                        26.897699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shivalaya Mandhir Samtse",
+                  "text": "Shivalaya Mandhir Samtse este un complex vibrant de temple hinduse din Bhutan, dedicat Lordului Shiva, având altare tradiționale colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        89.093,
+                        26.90035
+                  ]
+            },
+            {
+                  "name": "Buddhist Monastery of Samtse",
+                  "text": "Această mănăstire budistă din Bhutan servește drept teren de antrenament spiritual pentru călugării rezidenți și o retragere senină cu elemente tradiționale de lemn himalayan.",
+                  "category": "landmark",
+                  "coords": [
+                        89.090183,
+                        26.897699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shivalaya Mandhir Samtse",
+                  "text": "Shivalaya Mandhir Samtse is a vibrant Hindu temple complex in Bhutan dedicated to Lord Shiva, featuring traditional colorful shrines.",
+                  "category": "landmark",
+                  "coords": [
+                        89.093,
+                        26.90035
+                  ]
+            },
+            {
+                  "name": "Buddhist Monastery of Samtse",
+                  "text": "This Bhutanese Buddhist Monastery serves as a spiritual training ground for resident monks and a serene retreat featuring traditional Himalayan woodwork.",
+                  "category": "landmark",
+                  "coords": [
+                        89.090183,
+                        26.897699
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BT-14",
     coords: [89.0989, 26.8997],
@@ -527,7 +2318,124 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Nouveau parc industriel dans le sud-ouest du Bhoutan (district de Samtse)", "Conçu pour un mélange d'industries informatiques, agricoles et légères", "Doit équilibrer le développement socio-économique de la région", "Le développement est réalisé par phases", "Accent marqué sur les pratiques écologiquement durables", "Proche d'un important poste-frontière avec l'Inde", "Doit freiner l'exode rural en créant des emplois locaux", "Piloté par le ministère de l'Économie du gouvernement"],
     }, image: "/poi-images/dhamdum-industrial-park-economic-v2.webp"},
   {
-    id: "penden-cement-authority-economic-v2",
+    id: "penden-cement-authority-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "GUMPHA MANDIR",
+                  "text": "Ein buddhistischer Tempel, der einen Ort der Meditation in der Nähe des Industriezentrums der Penden Cement Authority bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.231124,
+                        26.753185
+                  ]
+            },
+            {
+                  "name": "Phuntshopelri Shivalaya Mandir",
+                  "text": "Ein lokaler Hindu-Tempel, der Shiva gewidmet ist und sich in der Nähe des Komplexes der Penden Cement Authority befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        89.192673,
+                        26.818213
+                  ]
+            },
+            {
+                  "name": "Gomtu Vegetable Market",
+                  "text": "Ein geschäftiger Marktplatz unter freiem Himmel, der die Gemeinde rund um die Penden Cement Authority mit frischen Produkten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        89.183731,
+                        26.817729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "GUMPHA MANDIR",
+                  "text": "Buddhista templom, amely meditációs helyet biztosít a Penden Cement Authority ipari központja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        89.231124,
+                        26.753185
+                  ]
+            },
+            {
+                  "name": "Phuntshopelri Shivalaya Mandir",
+                  "text": "Shivának szentelt helyi hindu templom, amely a Penden Cement Authority komplexuma közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        89.192673,
+                        26.818213
+                  ]
+            },
+            {
+                  "name": "Gomtu Vegetable Market",
+                  "text": "Forgalmas szabadtéri piac, amely friss termékekkel látja el a Penden Cement Authority körüli közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        89.183731,
+                        26.817729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "GUMPHA MANDIR",
+                  "text": "Un templu budist care oferă un loc de meditație lângă centrul industrial Penden Cement Authority.",
+                  "category": "landmark",
+                  "coords": [
+                        89.231124,
+                        26.753185
+                  ]
+            },
+            {
+                  "name": "Phuntshopelri Shivalaya Mandir",
+                  "text": "Un templu hindus local dedicat lui Shiva, situat în apropierea complexului Penden Cement Authority.",
+                  "category": "landmark",
+                  "coords": [
+                        89.192673,
+                        26.818213
+                  ]
+            },
+            {
+                  "name": "Gomtu Vegetable Market",
+                  "text": "O piață în aer liber plină de viață, care furnizează produse proaspete comunității din jurul Penden Cement Authority.",
+                  "category": "cultural",
+                  "coords": [
+                        89.183731,
+                        26.817729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "GUMPHA MANDIR",
+                  "text": "A Buddhist temple providing a place for meditation near the industrial hub of the Penden Cement Authority.",
+                  "category": "landmark",
+                  "coords": [
+                        89.231124,
+                        26.753185
+                  ]
+            },
+            {
+                  "name": "Phuntshopelri Shivalaya Mandir",
+                  "text": "A local Hindu temple dedicated to Shiva, situated near the Penden Cement Authority complex.",
+                  "category": "landmark",
+                  "coords": [
+                        89.192673,
+                        26.818213
+                  ]
+            },
+            {
+                  "name": "Gomtu Vegetable Market",
+                  "text": "A bustling outdoor marketplace supplying fresh produce to the community around the Penden Cement Authority.",
+                  "category": "cultural",
+                  "coords": [
+                        89.183731,
+                        26.817729
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BT-14",
     coords: [89.1550, 26.7911],
@@ -572,7 +2480,232 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     image: "/poi-images/penden-cement-authority-economic-v2.webp",
   },
   {
-    id: "dungsam-cement-corporation-economic-v2",
+    id: "dungsam-cement-corporation-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gashari Lhakhang",
+                  "text": "Ein buddhistischer Tempel im Gashari-Viertel, der nahe der Dungsam-Zementfabrik als spiritueller Rückzugsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.217849,
+                        26.863633
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor",
+                  "text": "Ein überdachter Pavillon mit einer großen buddhistischen Gebetsmühle in der Nähe der Anlagen der Dungsam Cement Corporation.",
+                  "category": "religious",
+                  "coords": [
+                        91.230598,
+                        26.870034
+                  ]
+            },
+            {
+                  "name": "Borangmo Lhakhang",
+                  "text": "Ein buddhistisches Heiligtum in Borangmo, das von der Gemeinde in der industriell geprägten Dungsam-Region gepflegt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        91.189076,
+                        26.84819
+                  ]
+            },
+            {
+                  "name": "Tshaelshingzore Lhakhang",
+                  "text": "Dieser malerische Tempel bietet Gläubigen einen von Gebetsfahnen umgebenen Ort der Besinnung nahe dem Dungsam-Zementwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        91.153546,
+                        26.854135
+                  ]
+            },
+            {
+                  "name": "Thujeycholing Lhakhang",
+                  "text": "Eine sakrale Stätte namens Thujeycholing, die als religiöser Treffpunkt für das nahegelegene Industriegebiet Dungsam fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        91.345251,
+                        26.840974
+                  ]
+            },
+            {
+                  "name": "Yangmalashing Lhakhang",
+                  "text": "Ein buddhistischer Tempel in Yangmalashing, der eine wichtige Rolle im spirituellen Leben der nahegelegenen Zementwerksgemeinde spielt.",
+                  "category": "religious",
+                  "coords": [
+                        91.287054,
+                        26.887111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gashari Lhakhang",
+                  "text": "Egy buddhista templom a Gashari negyedben, amely spirituális menedékhelyként szolgál a Dungsam cementgyár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.217849,
+                        26.863633
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor",
+                  "text": "Egy fedett pavilon egy nagy buddhista imakerékkel a Dungsam Cement Corporation létesítményei közelében.",
+                  "category": "religious",
+                  "coords": [
+                        91.230598,
+                        26.870034
+                  ]
+            },
+            {
+                  "name": "Borangmo Lhakhang",
+                  "text": "Egy buddhista szentély Borangmóban, amelyet az ipari Dungsam régió közössége tart fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        91.189076,
+                        26.84819
+                  ]
+            },
+            {
+                  "name": "Tshaelshingzore Lhakhang",
+                  "text": "Ez a festői templom imazászlókkal körülvett elmélkedési helyet kínál a hívőknek a Dungsam cementgyár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.153546,
+                        26.854135
+                  ]
+            },
+            {
+                  "name": "Thujeycholing Lhakhang",
+                  "text": "A Thujeycholing nevű szakrális helyszín, amely vallási találkozóhelyként szolgál a közeli Dungsam ipari terület számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.345251,
+                        26.840974
+                  ]
+            },
+            {
+                  "name": "Yangmalashing Lhakhang",
+                  "text": "Egy buddhista templom Yangmalashingban, amely fontos szerepet játszik a közeli cementgyári közösség spirituális életében.",
+                  "category": "religious",
+                  "coords": [
+                        91.287054,
+                        26.887111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gashari Lhakhang",
+                  "text": "Un templu budist în cartierul Gashari, servind drept loc de retragere spirituală lângă fabrica de ciment Dungsam.",
+                  "category": "landmark",
+                  "coords": [
+                        91.217849,
+                        26.863633
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor",
+                  "text": "Un pavilion acoperit cu o mare roată de rugăciune budistă lângă instalațiile Dungsam Cement Corporation.",
+                  "category": "religious",
+                  "coords": [
+                        91.230598,
+                        26.870034
+                  ]
+            },
+            {
+                  "name": "Borangmo Lhakhang",
+                  "text": "Un sanctuar budist în Borangmo, menținut de comunitatea din regiunea industrializată Dungsam.",
+                  "category": "landmark",
+                  "coords": [
+                        91.189076,
+                        26.84819
+                  ]
+            },
+            {
+                  "name": "Tshaelshingzore Lhakhang",
+                  "text": "Acest templu pitoresc oferă credincioșilor un loc de reflecție înconjurat de steaguri de rugăciune lângă fabrica de ciment Dungsam.",
+                  "category": "landmark",
+                  "coords": [
+                        91.153546,
+                        26.854135
+                  ]
+            },
+            {
+                  "name": "Thujeycholing Lhakhang",
+                  "text": "Un sit sacru numit Thujeycholing, care funcționează ca un punct de întâlnire religios pentru zona industrială Dungsam din apropiere.",
+                  "category": "religious",
+                  "coords": [
+                        91.345251,
+                        26.840974
+                  ]
+            },
+            {
+                  "name": "Yangmalashing Lhakhang",
+                  "text": "Un templu budist în Yangmalashing, care joacă un rol important în viața spirituală a comunității fabricii de ciment din apropiere.",
+                  "category": "religious",
+                  "coords": [
+                        91.287054,
+                        26.887111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gashari Lhakhang",
+                  "text": "A Buddhist temple in the Gashari neighborhood, serving as a spiritual retreat near the Dungsam Cement Corporation.",
+                  "category": "landmark",
+                  "coords": [
+                        91.217849,
+                        26.863633
+                  ]
+            },
+            {
+                  "name": "Mani Dungkhor",
+                  "text": "A roofed pavilion housing a large Buddhist prayer wheel near the facilities of the Dungsam Cement Corporation.",
+                  "category": "religious",
+                  "coords": [
+                        91.230598,
+                        26.870034
+                  ]
+            },
+            {
+                  "name": "Borangmo Lhakhang",
+                  "text": "A Buddhist sanctuary in Borangmo, maintained by the community in the industrialized Dungsam region.",
+                  "category": "landmark",
+                  "coords": [
+                        91.189076,
+                        26.84819
+                  ]
+            },
+            {
+                  "name": "Tshaelshingzore Lhakhang",
+                  "text": "This picturesque temple offers worshippers a place of reflection surrounded by prayer flags near the Dungsam cement plant.",
+                  "category": "landmark",
+                  "coords": [
+                        91.153546,
+                        26.854135
+                  ]
+            },
+            {
+                  "name": "Thujeycholing Lhakhang",
+                  "text": "A sacred site named Thujeycholing, functioning as a religious meeting point for the nearby Dungsam industrial area.",
+                  "category": "religious",
+                  "coords": [
+                        91.345251,
+                        26.840974
+                  ]
+            },
+            {
+                  "name": "Yangmalashing Lhakhang",
+                  "text": "A Buddhist temple in Yangmalashing playing an important role in the spiritual life of the nearby cement plant community.",
+                  "category": "religious",
+                  "coords": [
+                        91.287054,
+                        26.887111
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BT-43",
     coords: [91.2464, 26.8306],
@@ -660,7 +2793,160 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     image: "/poi-images/phuentsholing-mini-dry-port-economic-v2.webp",
   },
   {
-    id: "gelephu-dry-port-economic-v2",
+    id: "gelephu-dry-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buddha Statue",
+                  "text": "Eine majestätische goldene Buddha-Statue mit Blick auf die Ebenen bei der Grenzstadt Gelephu.",
+                  "category": "landmark",
+                  "coords": [
+                        90.48594,
+                        26.870513
+                  ]
+            },
+            {
+                  "name": "Sikhwna Jwhwlao National Park",
+                  "text": "Ein riesiges Wildschutzgebiet entlang der Grenze zwischen Bhutan und Indien.",
+                  "category": "natural",
+                  "coords": [
+                        90.442866,
+                        26.839717
+                  ]
+            },
+            {
+                  "name": "Tali Dratshang",
+                  "text": "Ein ruhiges buddhistisches Kloster, das als Zentrum für religiöse Studien und Gebete in der Region Gelephu dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.493164,
+                        26.877959
+                  ]
+            },
+            {
+                  "name": "Nimalung Monastery,Gelephu thromde",
+                  "text": "Ein traditionelles buddhistisches Kloster im Gelephu Thromde, das für seine spirituelle Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.488296,
+                        26.879409
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buddha Statue",
+                  "text": "Egy fenséges arany Buddha-szobor, amely a Gelephu határváros melletti síkságra néz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.48594,
+                        26.870513
+                  ]
+            },
+            {
+                  "name": "Sikhwna Jwhwlao National Park",
+                  "text": "Hatalmas vadvédelmi terület, amely változatos növény- és állatvilágot óv a bhutáni-indiai határ mentén.",
+                  "category": "natural",
+                  "coords": [
+                        90.442866,
+                        26.839717
+                  ]
+            },
+            {
+                  "name": "Tali Dratshang",
+                  "text": "Egy békés buddhista kolostor, amely vallási tanulmányok és imádságok központjaként szolgál Gelephu régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        90.493164,
+                        26.877959
+                  ]
+            },
+            {
+                  "name": "Nimalung Monastery,Gelephu thromde",
+                  "text": "Egy tradicionális buddhista kolostor Gelephu városában, amely spirituális légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.488296,
+                        26.879409
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buddha Statue",
+                  "text": "O statuie aurie maiestuoasă a lui Buddha, cu vedere spre câmpiile de lângă orașul Gelephu.",
+                  "category": "landmark",
+                  "coords": [
+                        90.48594,
+                        26.870513
+                  ]
+            },
+            {
+                  "name": "Sikhwna Jwhwlao National Park",
+                  "text": "Un vast sanctuar al vieții sălbatice de-a lungul graniței dintre Bhutan și India.",
+                  "category": "natural",
+                  "coords": [
+                        90.442866,
+                        26.839717
+                  ]
+            },
+            {
+                  "name": "Tali Dratshang",
+                  "text": "O mănăstire budistă liniștită care servește ca centru de studii religioase și rugăciune în regiunea Gelephu.",
+                  "category": "landmark",
+                  "coords": [
+                        90.493164,
+                        26.877959
+                  ]
+            },
+            {
+                  "name": "Nimalung Monastery,Gelephu thromde",
+                  "text": "O mănăstire budistă tradițională situată în localitatea Gelephu, cunoscută pentru atmosfera sa spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.488296,
+                        26.879409
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buddha Statue",
+                  "text": "A majestic golden statue of the Buddha overlooking the plains near the Gelephu border town.",
+                  "category": "landmark",
+                  "coords": [
+                        90.48594,
+                        26.870513
+                  ]
+            },
+            {
+                  "name": "Sikhwna Jwhwlao National Park",
+                  "text": "A vast wildlife sanctuary protecting diverse flora and fauna along the Bhutan-India border.",
+                  "category": "natural",
+                  "coords": [
+                        90.442866,
+                        26.839717
+                  ]
+            },
+            {
+                  "name": "Tali Dratshang",
+                  "text": "A serene Buddhist monastery serving as a center for religious study and prayer in the Gelephu region.",
+                  "category": "landmark",
+                  "coords": [
+                        90.493164,
+                        26.877959
+                  ]
+            },
+            {
+                  "name": "Nimalung Monastery,Gelephu thromde",
+                  "text": "A traditional Buddhist monastery located within the Gelephu thromde, known for its spiritual atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        90.488296,
+                        26.879409
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "BT-31",
     coords: [90.4939, 26.8661],
@@ -703,7 +2989,340 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Développé pour soulager le port sec de Phuentsholing", "Destiné à desservir les Dzongkhags (districts) du centre et de l'est", "Fait partie du plan plus vaste de zone économique spéciale à Gelephu", "Emplacement stratégique pour le commerce avec les États indiens d'Assam et du Bengale occidental", "Améliore la logistique commerciale pour les secteurs agricole et industriel de la région", "Le développement est réalisé en plusieurs phases", "Réduira les coûts de transport pour les entreprises du centre et de l'est du Bhoutan", "Doit favoriser le développement économique régional et la création d'emplois"],
     }, image: "/poi-images/gelephu-dry-port-economic-v2.webp"},
   {
-    id: "gelephu-special-economic-zone-v2",
+    id: "gelephu-special-economic-zone-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tashithang Throema lhakhang",
+                  "text": "Ein bedeutender buddhistischer Tempel in der Sonderwirtschaftszone Gelephu, der der Throema-Tradition gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        90.530622,
+                        26.883183
+                  ]
+            },
+            {
+                  "name": "Serzhong Lhakhang",
+                  "text": "Ein ruhiger buddhistischer Tempel im Herzen der Wirtschaftszone Gelephu, der als Ort der Meditation dient.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517157,
+                        26.936535
+                  ]
+            },
+            {
+                  "name": "Chuzagang Lhakhang",
+                  "text": "Dieser buddhistische Tempel in Chuzagang bietet den Bewohnern der Entwicklungszone Gelephu einen Raum für religiöse Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        90.524085,
+                        26.86457
+                  ]
+            },
+            {
+                  "name": "Chuzagang Hidu Mandir",
+                  "text": "Ein Hindutempel in Chuzagang, der die religiöse Vielfalt in der Sonderwirtschaftszone Gelephu bereichert.",
+                  "category": "landmark",
+                  "coords": [
+                        90.516989,
+                        26.869926
+                  ]
+            },
+            {
+                  "name": "Tashiphu Nunnery",
+                  "text": "Ein buddhistisches Nonnenkloster in Tashiphu, das Frauen in der Region Gelephu ein Zentrum für klösterliches Leben bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.550523,
+                        26.8879
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Ein traditioneller buddhistischer Stupa in der Sonderwirtschaftszone Gelephu, der oft von Pilgern umrundet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        90.535393,
+                        26.883189
+                  ]
+            },
+            {
+                  "name": "Pemayoedling Goenpa",
+                  "text": "Ein buddhistisches Kloster, das spirituelle Lehren und Rituale für die wachsende Gemeinde in Gelephu anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        90.53605,
+                        26.89704
+                  ]
+            },
+            {
+                  "name": "Umling lhakhang",
+                  "text": "Dieser buddhistische Tempel in Umling bietet der ländlichen Bevölkerung nahe der Gelephu-Wirtschaftszone einen Ort für Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        90.538013,
+                        26.840391
+                  ]
+            },
+            {
+                  "name": "Yagyaswor Mahadev Shivalaya Mandir",
+                  "text": "Ein bedeutender dem Gott Shiva geweihter Mandir in der Sonderwirtschaftszone Gelephu, der viele hinduistische Pilger anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        90.496229,
+                        26.891346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tashithang Throema lhakhang",
+                  "text": "Egy jelentős buddhista templom a Gelephu Különleges Gazdasági Övezetben, amelyet a Throema hagyománynak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        90.530622,
+                        26.883183
+                  ]
+            },
+            {
+                  "name": "Serzhong Lhakhang",
+                  "text": "Egy csendes buddhista templom a Gelephu gazdasági övezet szívében, amely meditációs helyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517157,
+                        26.936535
+                  ]
+            },
+            {
+                  "name": "Chuzagang Lhakhang",
+                  "text": "Ez a chuzagangi buddhista templom a Gelephu fejlesztési övezet lakóinak nyújt teret vallási szertartásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.524085,
+                        26.86457
+                  ]
+            },
+            {
+                  "name": "Chuzagang Hidu Mandir",
+                  "text": "Egy hindu templom Chuzagangban, amely színesíti a Gelephu Különleges Gazdasági Övezet vallási sokszínűségét.",
+                  "category": "landmark",
+                  "coords": [
+                        90.516989,
+                        26.869926
+                  ]
+            },
+            {
+                  "name": "Tashiphu Nunnery",
+                  "text": "Egy buddhista apácakolostor Tashiphuban, amely a kolostori élet központját nyújtja a nők számára Gelephu régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        90.550523,
+                        26.8879
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Egy hagyományos buddhista sztúpa a Gelephu Különleges Gazdasági Övezetben, amelyet gyakran körbejárnak a zarándokok.",
+                  "category": "landmark",
+                  "coords": [
+                        90.535393,
+                        26.883189
+                  ]
+            },
+            {
+                  "name": "Pemayoedling Goenpa",
+                  "text": "Egy buddhista kolostor, amely spirituális tanításokat és rituálékat kínál a növekvő gelephui közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        90.53605,
+                        26.89704
+                  ]
+            },
+            {
+                  "name": "Umling lhakhang",
+                  "text": "Ez az umlingi buddhista templom a Gelephu gazdasági övezet közelében élő vidéki lakosság számára nyújt helyet a szertartásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.538013,
+                        26.840391
+                  ]
+            },
+            {
+                  "name": "Yagyaswor Mahadev Shivalaya Mandir",
+                  "text": "Egy jelentős, Siva istennek szentelt mandir a Gelephu Különleges Gazdasági Övezetben, amely sok hindu zarándokot vonz.",
+                  "category": "landmark",
+                  "coords": [
+                        90.496229,
+                        26.891346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tashithang Throema lhakhang",
+                  "text": "Un templu budist important din Zona Economică Specială Gelephu, dedicat tradiției Throema.",
+                  "category": "landmark",
+                  "coords": [
+                        90.530622,
+                        26.883183
+                  ]
+            },
+            {
+                  "name": "Serzhong Lhakhang",
+                  "text": "Un templu budist liniștit în inima zonei economice Gelephu, servind drept loc de meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517157,
+                        26.936535
+                  ]
+            },
+            {
+                  "name": "Chuzagang Lhakhang",
+                  "text": "Acest templu budist din Chuzagang oferă locuitorilor din zona de dezvoltare Gelephu un spațiu pentru ceremonii religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        90.524085,
+                        26.86457
+                  ]
+            },
+            {
+                  "name": "Chuzagang Hidu Mandir",
+                  "text": "Un templu hindus în Chuzagang, care îmbogățește diversitatea religioasă din Zona Economică Specială Gelephu.",
+                  "category": "landmark",
+                  "coords": [
+                        90.516989,
+                        26.869926
+                  ]
+            },
+            {
+                  "name": "Tashiphu Nunnery",
+                  "text": "O mănăstire budistă de călugărițe în Tashiphu, oferind femeilor din regiunea Gelephu un centru pentru viața monahală.",
+                  "category": "landmark",
+                  "coords": [
+                        90.550523,
+                        26.8879
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "O stupă budistă tradițională în Zona Economică Specială Gelephu, deseori înconjurată de pelerini.",
+                  "category": "landmark",
+                  "coords": [
+                        90.535393,
+                        26.883189
+                  ]
+            },
+            {
+                  "name": "Pemayoedling Goenpa",
+                  "text": "O mănăstire budistă care oferă învățături și ritualuri spirituale pentru comunitatea în creștere din Gelephu.",
+                  "category": "landmark",
+                  "coords": [
+                        90.53605,
+                        26.89704
+                  ]
+            },
+            {
+                  "name": "Umling lhakhang",
+                  "text": "Acest templu budist din Umling oferă populației rurale din apropierea zonei economice Gelephu un loc pentru ceremonii.",
+                  "category": "landmark",
+                  "coords": [
+                        90.538013,
+                        26.840391
+                  ]
+            },
+            {
+                  "name": "Yagyaswor Mahadev Shivalaya Mandir",
+                  "text": "Un mandir important dedicat zeului Shiva în Zona Economică Specială Gelephu, care atrage mulți pelerini hinduși.",
+                  "category": "landmark",
+                  "coords": [
+                        90.496229,
+                        26.891346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tashithang Throema lhakhang",
+                  "text": "A significant Buddhist temple in the Gelephu Special Economic Zone, dedicated to the Throema tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        90.530622,
+                        26.883183
+                  ]
+            },
+            {
+                  "name": "Serzhong Lhakhang",
+                  "text": "A peaceful Buddhist temple in the heart of the Gelephu economic zone, serving as a place of meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        90.517157,
+                        26.936535
+                  ]
+            },
+            {
+                  "name": "Chuzagang Lhakhang",
+                  "text": "This Buddhist temple in Chuzagang provides residents of the Gelephu development zone a space for religious ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        90.524085,
+                        26.86457
+                  ]
+            },
+            {
+                  "name": "Chuzagang Hidu Mandir",
+                  "text": "A Hindu temple in Chuzagang, enriching the religious diversity in the Gelephu Special Economic Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        90.516989,
+                        26.869926
+                  ]
+            },
+            {
+                  "name": "Tashiphu Nunnery",
+                  "text": "A Buddhist nunnery in Tashiphu, offering women in the Gelephu region a center for monastic life.",
+                  "category": "landmark",
+                  "coords": [
+                        90.550523,
+                        26.8879
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "A traditional Buddhist stupa in the Gelephu Special Economic Zone, often circumambulated by pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        90.535393,
+                        26.883189
+                  ]
+            },
+            {
+                  "name": "Pemayoedling Goenpa",
+                  "text": "A Buddhist monastery offering spiritual teachings and rituals for the growing community in Gelephu.",
+                  "category": "landmark",
+                  "coords": [
+                        90.53605,
+                        26.89704
+                  ]
+            },
+            {
+                  "name": "Umling lhakhang",
+                  "text": "This Buddhist temple in Umling provides the rural population near the Gelephu economic zone a place for ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        90.538013,
+                        26.840391
+                  ]
+            },
+            {
+                  "name": "Yagyaswor Mahadev Shivalaya Mandir",
+                  "text": "A prominent mandir dedicated to Lord Shiva in the Gelephu Special Economic Zone, attracting many Hindu pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        90.496229,
+                        26.891346
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "BT-31",
     coords: [90.5167, 26.8833],
@@ -746,7 +3365,160 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Une vision de Sa Majesté le Roi du Bhoutan", "Doit être un centre économique basé sur les principes du Bonheur National Brut (BNB)", "Couvre une superficie de 250 000 acres (plus de 1000 km²)", "Prévoit un aéroport international, des liaisons ferroviaires et des infrastructures de classe mondiale", "Vise à attirer l'investissement direct étranger dans des secteurs 'propres'", "Servira de porte d'entrée entre l'Asie du Sud et l'Asie du Sud-Est", "Disposera de ses propres lois et d'un cadre gouvernemental autonome", "Un projet à long terme qui sera développé sur plusieurs décennies"],
     }, image: "/poi-images/gelephu-special-economic-zone-v2.webp"},
   {
-    id: "samdrup-jongkhar-trade-hub-economic-v2",
+    id: "samdrup-jongkhar-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Performance Ground",
+                  "text": "Dieser als Freilichtamphitheater konzipierte bürgerliche Platz beherbergt regelmäßig traditionelle bhutanische Kulturaufführungen und lokale Feste.",
+                  "category": "cultural",
+                  "coords": [
+                        91.505112,
+                        26.798374
+                  ]
+            },
+            {
+                  "name": "Mani DungKhor",
+                  "text": "Dieses traditionelle buddhistische Bauwerk beherbergt eine große, rotierende Gebetsmühle, die von vorbeikommenden Gläubigen ständig gedreht wird, um Verdienste anzusammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        91.504286,
+                        26.794187
+                  ]
+            },
+            {
+                  "name": "Public Zangdo Pelri",
+                  "text": "Dieser mehrstöckige Gemeinschaftstempel, der den himmlischen Wohnsitz von Guru Rinpoche darstellt, ist ein farbenfroher Mittelpunkt für buddhistische Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        91.507501,
+                        26.799822
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "Dieser Markt dient als wichtiger Handelsknotenpunkt in der Grenzstadt und bietet Stände voller saisonaler Feldfrüchte und regionaler Agrargüter.",
+                  "category": "cultural",
+                  "coords": [
+                        91.50494,
+                        26.795452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Performance Ground",
+                  "text": "Szabadtéri amfiteátrumnak tervezve ez a közösségi tér rendszeresen ad otthont hagyományos bhutáni kulturális előadásoknak és helyi fesztiváloknak.",
+                  "category": "cultural",
+                  "coords": [
+                        91.505112,
+                        26.798374
+                  ]
+            },
+            {
+                  "name": "Mani DungKhor",
+                  "text": "Ez a hagyományos buddhista építmény egy nagy, forgó imakereket rejt, amelyet az arra járó hívők folyamatosan forgatnak, hogy érdemeket szerezzenek.",
+                  "category": "landmark",
+                  "coords": [
+                        91.504286,
+                        26.794187
+                  ]
+            },
+            {
+                  "name": "Public Zangdo Pelri",
+                  "text": "Guru Rinpocse égi lakhelyét jelképezve ez a többszintes közösségi templom a buddhista áhítat színes központja.",
+                  "category": "landmark",
+                  "coords": [
+                        91.507501,
+                        26.799822
+                  ]
+            },
+            {
+                  "name": "Zöldségpiac",
+                  "text": "A határváros döntő fontosságú kereskedelmi központjaként szolgáló piacon szezonális növényekkel és regionális mezőgazdasági cikkekkel teli standok találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        91.50494,
+                        26.795452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Performance Ground",
+                  "text": "Conceput ca un amfiteatru în aer liber, acest spațiu civic găzduiește regulat spectacole culturale tradiționale bhutaneze și festivaluri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.505112,
+                        26.798374
+                  ]
+            },
+            {
+                  "name": "Mani DungKhor",
+                  "text": "Această structură budistă tradițională găzduiește o roată de rugăciune mare, rotativă, învârtită constant de devotații care trec pentru a acumula merite.",
+                  "category": "landmark",
+                  "coords": [
+                        91.504286,
+                        26.794187
+                  ]
+            },
+            {
+                  "name": "Public Zangdo Pelri",
+                  "text": "Reprezentând lăcașul ceresc al lui Guru Rinpoche, acest templu comunal cu mai multe etaje este un punct central colorat pentru devotamentul budist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.507501,
+                        26.799822
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "Servind ca un nod comercial crucial în orașul de frontieră, această piață prezintă tarabe pline cu recolte de sezon și produse agricole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.50494,
+                        26.795452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Performance Ground",
+                  "text": "Designed as an open-air amphitheater, this civic space regularly hosts traditional Bhutanese cultural performances and local festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        91.505112,
+                        26.798374
+                  ]
+            },
+            {
+                  "name": "Mani DungKhor",
+                  "text": "This traditional Buddhist structure houses a large, rotating prayer wheel, constantly spun by passing devotees to accumulate merit.",
+                  "category": "landmark",
+                  "coords": [
+                        91.504286,
+                        26.794187
+                  ]
+            },
+            {
+                  "name": "Public Zangdo Pelri",
+                  "text": "Representing the celestial abode of Guru Rinpoche, this multi-tiered communal temple is a colourful focal point for Buddhist devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        91.507501,
+                        26.799822
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "Serving as a crucial trading hub in the border town, this market features stalls packed with seasonal crops and regional agricultural goods.",
+                  "category": "cultural",
+                  "coords": [
+                        91.50494,
+                        26.795452
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "BT-45",
     coords: [91.5033, 26.8000],
@@ -789,7 +3561,772 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       fr: ["Porte commerciale traditionnelle vers les Dzongkhags de l'Est", "Plus ancienne ville frontalière de l'est du Bhoutan", "Facilite le commerce avec l'État indien voisin d'Assam", "Point d'exportation majeur pour les produits agricoles de l'est du Bhoutan", "Sert de centre administratif et commercial pour la région", "Le gouvernement prévoit un troisième port sec dans cette ville", "Des modernisations d'infrastructures sont en cours pour stimuler le commerce", "Historiquement, le seul accès à l'est du Bhoutan par voie terrestre"],
     }, image: "/poi-images/samdrup-jongkhar-trade-hub-economic-v2.webp"},
   {
-    id: "khothakpa-gypsum-mine-economic-v2",
+    id: "khothakpa-gypsum-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pemagatshel New Dzong",
+                  "text": "Dieses massive, neu errichtete Festungskloster präsentiert klassische bhutanische Holzarbeiten und Mauerwerke ohne die Verwendung eines einzigen Eisennagels.",
+                  "category": "fortress",
+                  "coords": [
+                        91.399644,
+                        27.018398
+                  ]
+            },
+            {
+                  "name": "Zimzor Lhakhang",
+                  "text": "Dieser intime buddhistische Tempel dient der umliegenden Hochlandgemeinde. Sein Altarraum ist mit detaillierten Thangka-Gemälden aus dem Himalaya geschmückt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.338029,
+                        26.973328
+                  ]
+            },
+            {
+                  "name": "Dungmin Community Lhakhang",
+                  "text": "Als Anker der Siedlung Dungmin veranstaltet dieser lokale buddhistische Schrein regelmäßig Butterlampen-Opfer und gemeinschaftliche Gesangszeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        91.329185,
+                        26.98502
+                  ]
+            },
+            {
+                  "name": "Tari Chorten",
+                  "text": "Dieser traditionelle, strahlend weiß gestrichene buddhistische Stupa steht als spirituelles Wahrzeichen für Reisende, die auf den rauen Talpfaden unterwegs sind.",
+                  "category": "landmark",
+                  "coords": [
+                        91.332543,
+                        26.983753
+                  ]
+            },
+            {
+                  "name": "Tshebar Zangdopelri",
+                  "text": "In mehreren farbenfrohen Ebenen aufragend, ist diese architektonische Darstellung von Guru Rinpoches Paradies das spirituelle Herz der Gegend von Tshebar.",
+                  "category": "landmark",
+                  "coords": [
+                        91.358966,
+                        26.988207
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Gekennzeichnet durch seine ikonische Spitze und den quadratischen Sockel lädt dieses buddhistische Reliquienmonument Passanten dazu ein, es im Uhrzeigersinn zu umrunden.",
+                  "category": "landmark",
+                  "coords": [
+                        91.383055,
+                        27.001963
+                  ]
+            },
+            {
+                  "name": "Ama Daza Chorten",
+                  "text": "Umgeben von flatternden Gebetsfahnen wurde dieser spezifische Stupa am Straßenrand errichtet, um negative Energien von den umliegenden Gebirgspässen abzuwehren.",
+                  "category": "landmark",
+                  "coords": [
+                        91.38651,
+                        27.006051
+                  ]
+            },
+            {
+                  "name": "Jangchub Chorten",
+                  "text": "Dieses Stufenmonument, dessen Name übersetzt „Stupa der Erleuchtung“ bedeutet, verfügt über traditionelle bhutanische Mandalas, die unter dem überhängenden Dach gemalt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        91.315662,
+                        27.034582
+                  ]
+            },
+            {
+                  "name": "Poktor Chorten",
+                  "text": "Dieser Stupa aus Stein und Schlamm im Gebiet Poktor ist ein täglicher Pilgerort für Einheimische, die vor Beginn ihrer Feldarbeit um spirituellen Segen bitten.",
+                  "category": "landmark",
+                  "coords": [
+                        91.296201,
+                        27.038116
+                  ]
+            },
+            {
+                  "name": "Yeshey Rangjungling Lhakhang",
+                  "text": "Bekannt für seine ruhige Bergkulisse, enthält dieser lokale buddhistische Tempelkomplex kunstvoll geschnitzte Holzsäulen und friedliche Meditationsräume.",
+                  "category": "landmark",
+                  "coords": [
+                        91.322105,
+                        27.028564
+                  ]
+            },
+            {
+                  "name": "Phuendhey Choling Gonpa",
+                  "text": "Hoch auf einem Bergrücken gelegen, dient dieses abgeschiedene Kloster als ruhiger Rückzugsort für meditierende Mönche mit Blick auf das Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        91.322645,
+                        26.982703
+                  ]
+            },
+            {
+                  "name": "Mani Dungkor",
+                  "text": "Ungewöhnlicherweise als Shinto-Stätte in dieser Region registriert, fügt dieses kleine Schreingebäude der Landschaft ein einzigartiges, kulturell eigenständiges religiöses Element hinzu.",
+                  "category": "landmark",
+                  "coords": [
+                        91.399408,
+                        27.041047
+                  ]
+            },
+            {
+                  "name": "Khamsum Yuelay Chorten",
+                  "text": "Gekennzeichnet durch seinen mehrstufigen Architekturstil ist dieser Ort offiziell als Shinto-Schrein kategorisiert und steht als markantes religiöses Wahrzeichen in der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        91.399534,
+                        27.015511
+                  ]
+            },
+            {
+                  "name": "Ngangrai Stupa",
+                  "text": "Dieser solide gebaute Stupa, der sich über das umliegende Grün erhebt, dient der Gemeinde Ngangrai als ausgewiesener Ort der Anbetung und spirituellen Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        91.364053,
+                        26.985105
+                  ]
+            },
+            {
+                  "name": "Thonphu Lhakhang",
+                  "text": "Thonphu Lhakhang ist ein traditioneller lokaler Tempel in der Gipsbauregion von Khothakpa.",
+                  "category": "religious",
+                  "coords": [
+                        91.371837,
+                        26.985946
+                  ]
+            },
+            {
+                  "name": "Thongsa Lhakhang",
+                  "text": "Thongsa Lhakhang ist ein buddhistischer Tempel inmitten des rauen Geländes des Bergbaugebiets Khothakpa.",
+                  "category": "landmark",
+                  "coords": [
+                        91.387482,
+                        27.007244
+                  ]
+            },
+            {
+                  "name": "Ugyen Pemaling Lhakhang",
+                  "text": "Dieser buddhistische Schrein dient als spiritueller Rückzugsort in der Nähe der Gipsabbaustätten von Khothakpa.",
+                  "category": "landmark",
+                  "coords": [
+                        91.34137,
+                        27.024787
+                  ]
+            },
+            {
+                  "name": "Dudjom Tashicholing Lhakhang",
+                  "text": "Dudjom Tashicholing Lhakhang ist eine buddhistische Kultstätte, die einen ruhigen Raum im Gebiet von Khothakpa bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        91.342718,
+                        27.017153
+                  ]
+            },
+            {
+                  "name": "Rinzin Samdrupcholing Lhakhang",
+                  "text": "Dieser lokale buddhistische Tempel bietet einen Ort zum Gebet im Bezirk Khothakpa.",
+                  "category": "landmark",
+                  "coords": [
+                        91.329633,
+                        27.023973
+                  ]
+            },
+            {
+                  "name": "Tashicholing Lhakhang",
+                  "text": "Tashicholing Lhakhang ist ein buddhistisches Kloster, in dem sich lokale Gläubige in der Nähe der Khothakpa-Minen versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        91.348809,
+                        27.049938
+                  ]
+            },
+            {
+                  "name": "Denchi Chorten",
+                  "text": "Denchi Chorten ist eine traditionelle buddhistische Stupa, die als heiliges Wahrzeichen in der Region Khothakpa dient.",
+                  "category": "landmark",
+                  "coords": [
+                        91.402995,
+                        27.017265
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pemagatshel New Dzong",
+                  "text": "Ez a hatalmas, újonnan épült erődítmény-kolostor a klasszikus bhutáni famunkákat és falazatokat mutatja be egyetlen vasszög használata nélkül.",
+                  "category": "fortress",
+                  "coords": [
+                        91.399644,
+                        27.018398
+                  ]
+            },
+            {
+                  "name": "Zimzor Lhakhang",
+                  "text": "Ez a meghitt buddhista templom a környező felvidéki közösséget szolgálja, oltártermét részletes himalájai thangka festmények díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        91.338029,
+                        26.973328
+                  ]
+            },
+            {
+                  "name": "Dungmin Community Lhakhang",
+                  "text": "A Dungmin település központjaként szolgáló helyi buddhista szentély rendszeresen ad otthont vajlámpás-felajánlásoknak és közös éneklési szertartásoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        91.329185,
+                        26.98502
+                  ]
+            },
+            {
+                  "name": "Tari Chorten",
+                  "text": "Ez a tiszta fehérre festett hagyományos buddhista sztúpa spirituális mérföldkőként szolgál a zord völgyi ösvényeken navigáló utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        91.332543,
+                        26.983753
+                  ]
+            },
+            {
+                  "name": "Tshebar Zangdopelri",
+                  "text": "A több színes szinten emelkedő épület, amely Guru Rinpocse paradicsomának építészeti ábrázolása, a Tshebar terület spirituális szíve.",
+                  "category": "landmark",
+                  "coords": [
+                        91.358966,
+                        26.988207
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Ikonikus tornyával és négyzet alakú alapjával ez a buddhista ereklyetartó emlékmű arra hívja a járókelőket, hogy az óramutató járásával megegyező irányban járják körbe.",
+                  "category": "landmark",
+                  "coords": [
+                        91.383055,
+                        27.001963
+                  ]
+            },
+            {
+                  "name": "Ama Daza Chorten",
+                  "text": "A lobogó imazászlók által körülvett út menti sztúpát azért emelték, hogy elhárítsa a negatív energiákat a környező hegyi hágókról.",
+                  "category": "landmark",
+                  "coords": [
+                        91.38651,
+                        27.006051
+                  ]
+            },
+            {
+                  "name": "Jangchub Chorten",
+                  "text": "A „Megvilágosodás sztúpája” névre fordítható lépcsős emlékmű kiugró teteje alatt hagyományos bhutáni mandalák vannak festve.",
+                  "category": "landmark",
+                  "coords": [
+                        91.315662,
+                        27.034582
+                  ]
+            },
+            {
+                  "name": "Poktor Chorten",
+                  "text": "Ez a kőből és sárból épült sztúpa Poktor területén napi zarándokhely a helyiek számára, akik spirituális áldást keresnek a mezei munka megkezdése előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.296201,
+                        27.038116
+                  ]
+            },
+            {
+                  "name": "Yeshey Rangjungling Lhakhang",
+                  "text": "Békés hegyvidéki környezetéről ismert ez a helyi buddhista templomkomplexum, amely díszesen faragott faoszlopokat és békés meditációs szobákat rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.322105,
+                        27.028564
+                  ]
+            },
+            {
+                  "name": "Phuendhey Choling Gonpa",
+                  "text": "A magasan egy gerincen elhelyezkedő eldugott kolostor csendes menedékként szolgál a völgyre néző, meditáló szerzetesek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        91.322645,
+                        26.982703
+                  ]
+            },
+            {
+                  "name": "Mani Dungkor",
+                  "text": "Bár szokatlan módon sintó helyszínként tartják nyilván ebben a régióban, ez a kis szentélyépület egyedi, kulturálisan megkülönböztethető vallási elemet ad a tájhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        91.399408,
+                        27.041047
+                  ]
+            },
+            {
+                  "name": "Khamsum Yuelay Chorten",
+                  "text": "Többszintes építészeti stílusa miatt ezt a helyet hivatalosan sintó szentélyként sorolják be, és kiemelkedő vallási nevezetességként áll a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        91.399534,
+                        27.015511
+                  ]
+            },
+            {
+                  "name": "Ngangrai Stupa",
+                  "text": "A környező növényzet fölé magasodó szilárd építésű sztúpa a Ngangrai közösség elkötelezett istentiszteleti és spirituális elmélkedési helyeként működik.",
+                  "category": "religious",
+                  "coords": [
+                        91.364053,
+                        26.985105
+                  ]
+            },
+            {
+                  "name": "Thonphu Lhakhang",
+                  "text": "A Thonphu Lhakhang egy hagyományos helyi templom a khothakpai gipszbányászati régióban.",
+                  "category": "religious",
+                  "coords": [
+                        91.371837,
+                        26.985946
+                  ]
+            },
+            {
+                  "name": "Thongsa Lhakhang",
+                  "text": "A Thongsa Lhakhang egy buddhista templom a khothakpai bányaterület zord vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        91.387482,
+                        27.007244
+                  ]
+            },
+            {
+                  "name": "Ugyen Pemaling Lhakhang",
+                  "text": "Ez a buddhista szentély spirituális menedékként szolgál a khothakpai gipszkitermelő helyek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.34137,
+                        27.024787
+                  ]
+            },
+            {
+                  "name": "Dudjom Tashicholing Lhakhang",
+                  "text": "A Dudjom Tashicholing Lhakhang egy buddhista istentiszteleti hely, amely csendes teret kínál a Khothakpa térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        91.342718,
+                        27.017153
+                  ]
+            },
+            {
+                  "name": "Rinzin Samdrupcholing Lhakhang",
+                  "text": "Ez a helyi buddhista templom imádkozóhelyet biztosít Khothakpa kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        91.329633,
+                        27.023973
+                  ]
+            },
+            {
+                  "name": "Tashicholing Lhakhang",
+                  "text": "A Tashicholing Lhakhang egy buddhista kolostor, amely a helyi hívőket gyűjti össze a khothakpai bányák közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        91.348809,
+                        27.049938
+                  ]
+            },
+            {
+                  "name": "Denchi Chorten",
+                  "text": "A Denchi Chorten egy hagyományos buddhista sztúpa, amely szent mérföldkőként szolgál a Khothakpa régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        91.402995,
+                        27.017265
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pemagatshel New Dzong",
+                  "text": "Această fortăreață-mănăstire masivă, nou construită, prezintă lemnăria și zidăria clasică bhutaneză fără utilizarea unui singur cui de fier.",
+                  "category": "fortress",
+                  "coords": [
+                        91.399644,
+                        27.018398
+                  ]
+            },
+            {
+                  "name": "Zimzor Lhakhang",
+                  "text": "Acest templu budist intim deservește comunitatea de la munte din jur, camera sa de altar fiind împodobită cu picturi thangka detaliate din Himalaya.",
+                  "category": "landmark",
+                  "coords": [
+                        91.338029,
+                        26.973328
+                  ]
+            },
+            {
+                  "name": "Dungmin Community Lhakhang",
+                  "text": "Ancorând așezarea Dungmin, acest altar budist local găzduiește regulat ofrande cu lămpi cu unt și ceremonii de incantații comunale.",
+                  "category": "landmark",
+                  "coords": [
+                        91.329185,
+                        26.98502
+                  ]
+            },
+            {
+                  "name": "Tari Chorten",
+                  "text": "Această stupa budistă tradițională, vopsită în alb imaculat, este un punct de reper spiritual pentru călătorii care navighează pe traseele accidentate ale văii.",
+                  "category": "landmark",
+                  "coords": [
+                        91.332543,
+                        26.983753
+                  ]
+            },
+            {
+                  "name": "Tshebar Zangdopelri",
+                  "text": "Ridicându-se în mai multe niveluri colorate, această reprezentare arhitecturală a paradisului lui Guru Rinpoche este inima spirituală a zonei Tshebar.",
+                  "category": "landmark",
+                  "coords": [
+                        91.358966,
+                        26.988207
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Marcat de turla sa iconică și baza pătrată, acest monument relicvar budist invită trecătorii să îl înconjoare în sensul acelor de ceasornic.",
+                  "category": "landmark",
+                  "coords": [
+                        91.383055,
+                        27.001963
+                  ]
+            },
+            {
+                  "name": "Ama Daza Chorten",
+                  "text": "Înconjurată de steaguri de rugăciune fluturând, această stupa specifică de pe marginea drumului a fost ridicată pentru a alunga energiile negative din trecătorile montane înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        91.38651,
+                        27.006051
+                  ]
+            },
+            {
+                  "name": "Jangchub Chorten",
+                  "text": "Traducându-se prin „Stupa Iluminării”, acest monument în trepte prezintă mandale tradiționale bhutaneze pictate sub acoperișul său proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        91.315662,
+                        27.034582
+                  ]
+            },
+            {
+                  "name": "Poktor Chorten",
+                  "text": "Această stupa din piatră și noroi din zona Poktor este un loc de pelerinaj zilnic pentru localnicii care caută binecuvântări spirituale înainte de a-și începe munca pe câmp.",
+                  "category": "landmark",
+                  "coords": [
+                        91.296201,
+                        27.038116
+                  ]
+            },
+            {
+                  "name": "Yeshey Rangjungling Lhakhang",
+                  "text": "Cunoscut pentru cadrul său montan senin, acest complex de temple budiste locale conține stâlpi de lemn sculptați ornamentat și camere de meditație liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        91.322105,
+                        27.028564
+                  ]
+            },
+            {
+                  "name": "Phuendhey Choling Gonpa",
+                  "text": "Cocoțată sus pe o creastă, această mănăstire izolată servește ca un refugiu liniștit pentru călugării care meditează cu vedere la vale.",
+                  "category": "landmark",
+                  "coords": [
+                        91.322645,
+                        26.982703
+                  ]
+            },
+            {
+                  "name": "Mani Dungkor",
+                  "text": "Înregistrată în mod neobișnuit ca un sit șintoist în această regiune, această mică structură de altar adaugă un element religios unic, distinct din punct de vedere cultural, peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        91.399408,
+                        27.041047
+                  ]
+            },
+            {
+                  "name": "Khamsum Yuelay Chorten",
+                  "text": "Caracterizat prin stilul său arhitectural pe mai multe niveluri, acest sit este catalogat oficial ca un altar șintoist, reprezentând un punct de reper religios proeminent în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        91.399534,
+                        27.015511
+                  ]
+            },
+            {
+                  "name": "Ngangrai Stupa",
+                  "text": "Ridicându-se deasupra verdeaței înconjurătoare, această stupă solid construită funcționează ca un loc dedicat de închinare și reflecție spirituală pentru comunitatea Ngangrai.",
+                  "category": "religious",
+                  "coords": [
+                        91.364053,
+                        26.985105
+                  ]
+            },
+            {
+                  "name": "Thonphu Lhakhang",
+                  "text": "Thonphu Lhakhang este un templu local tradițional situat în regiunea de extracție a gipsului Khothakpa.",
+                  "category": "religious",
+                  "coords": [
+                        91.371837,
+                        26.985946
+                  ]
+            },
+            {
+                  "name": "Thongsa Lhakhang",
+                  "text": "Thongsa Lhakhang este un templu budist situat pe terenul accidentat al zonei miniere Khothakpa.",
+                  "category": "landmark",
+                  "coords": [
+                        91.387482,
+                        27.007244
+                  ]
+            },
+            {
+                  "name": "Ugyen Pemaling Lhakhang",
+                  "text": "Acest sanctuar budist servește ca refugiu spiritual lângă siturile de extracție a gipsului din Khothakpa.",
+                  "category": "landmark",
+                  "coords": [
+                        91.34137,
+                        27.024787
+                  ]
+            },
+            {
+                  "name": "Dudjom Tashicholing Lhakhang",
+                  "text": "Dudjom Tashicholing Lhakhang este un loc de cult budist care oferă un spațiu liniștit în zona Khothakpa.",
+                  "category": "landmark",
+                  "coords": [
+                        91.342718,
+                        27.017153
+                  ]
+            },
+            {
+                  "name": "Rinzin Samdrupcholing Lhakhang",
+                  "text": "Acest templu budist local oferă un loc de rugăciune în districtul Khothakpa.",
+                  "category": "landmark",
+                  "coords": [
+                        91.329633,
+                        27.023973
+                  ]
+            },
+            {
+                  "name": "Tashicholing Lhakhang",
+                  "text": "Tashicholing Lhakhang este o mănăstire budistă care adună credincioșii locali lângă minele Khothakpa.",
+                  "category": "landmark",
+                  "coords": [
+                        91.348809,
+                        27.049938
+                  ]
+            },
+            {
+                  "name": "Denchi Chorten",
+                  "text": "Denchi Chorten este o stupa budistă tradițională care servește drept punct de reper sacru în regiunea Khothakpa.",
+                  "category": "landmark",
+                  "coords": [
+                        91.402995,
+                        27.017265
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pemagatshel New Dzong",
+                  "text": "This massive newly constructed fortress-monastery showcases classic Bhutanese woodwork and masonry without the use of a single iron nail.",
+                  "category": "fortress",
+                  "coords": [
+                        91.399644,
+                        27.018398
+                  ]
+            },
+            {
+                  "name": "Zimzor Lhakhang",
+                  "text": "This intimate Buddhist temple serves the surrounding highland community, its altar room adorned with detailed Himalayan thangka paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        91.338029,
+                        26.973328
+                  ]
+            },
+            {
+                  "name": "Dungmin Community Lhakhang",
+                  "text": "Anchoring the Dungmin settlement, this local Buddhist shrine regularly hosts butter-lamp offerings and communal chanting ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        91.329185,
+                        26.98502
+                  ]
+            },
+            {
+                  "name": "Tari Chorten",
+                  "text": "This traditional Buddhist stupa, painted stark white, stands as a spiritual landmark for travelers navigating the rugged valley trails.",
+                  "category": "landmark",
+                  "coords": [
+                        91.332543,
+                        26.983753
+                  ]
+            },
+            {
+                  "name": "Tshebar Zangdopelri",
+                  "text": "Rising in multiple colorful tiers, this architectural representation of Guru Rinpoche's paradise is the spiritual heart of the Tshebar area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.358966,
+                        26.988207
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Marked by its iconic spire and square base, this Buddhist reliquary monument invites passersby to walk around it in a clockwise direction.",
+                  "category": "landmark",
+                  "coords": [
+                        91.383055,
+                        27.001963
+                  ]
+            },
+            {
+                  "name": "Ama Daza Chorten",
+                  "text": "Surrounded by fluttering prayer flags, this specific roadside stupa was erected to ward off negative energies from the surrounding mountain passes.",
+                  "category": "landmark",
+                  "coords": [
+                        91.38651,
+                        27.006051
+                  ]
+            },
+            {
+                  "name": "Jangchub Chorten",
+                  "text": "Translating to the 'Stupa of Enlightenment,' this stepped monument features traditional Bhutanese mandalas painted beneath its overhanging roof.",
+                  "category": "landmark",
+                  "coords": [
+                        91.315662,
+                        27.034582
+                  ]
+            },
+            {
+                  "name": "Poktor Chorten",
+                  "text": "This stone-and-mud stupa in the Poktor area is a daily pilgrimage site for locals seeking spiritual blessings before beginning their fieldwork.",
+                  "category": "landmark",
+                  "coords": [
+                        91.296201,
+                        27.038116
+                  ]
+            },
+            {
+                  "name": "Yeshey Rangjungling Lhakhang",
+                  "text": "Known for its serene mountainous setting, this local Buddhist temple complex contains ornately carved wooden pillars and peaceful meditation rooms.",
+                  "category": "landmark",
+                  "coords": [
+                        91.322105,
+                        27.028564
+                  ]
+            },
+            {
+                  "name": "Phuendhey Choling Gonpa",
+                  "text": "Perched high on a ridge, this secluded monastery serves as a quiet retreat for meditating monks overlooking the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        91.322645,
+                        26.982703
+                  ]
+            },
+            {
+                  "name": "Mani Dungkor",
+                  "text": "Unusually registered as a Shinto site in this region, this small shrine structure adds a unique, culturally distinct religious element to the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        91.399408,
+                        27.041047
+                  ]
+            },
+            {
+                  "name": "Khamsum Yuelay Chorten",
+                  "text": "Characterized by its multi-tiered architectural style, this site is officially categorized as a Shinto shrine, standing as a prominent religious landmark in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.399534,
+                        27.015511
+                  ]
+            },
+            {
+                  "name": "Ngangrai Stupa",
+                  "text": "Rising above the surrounding greenery, this solidly built stupa functions as a dedicated place of worship and spiritual reflection for the Ngangrai community.",
+                  "category": "religious",
+                  "coords": [
+                        91.364053,
+                        26.985105
+                  ]
+            },
+            {
+                  "name": "Thonphu Lhakhang",
+                  "text": "Thonphu Lhakhang is a traditional local temple situated in the Khothakpa gypsum mining region.",
+                  "category": "religious",
+                  "coords": [
+                        91.371837,
+                        26.985946
+                  ]
+            },
+            {
+                  "name": "Thongsa Lhakhang",
+                  "text": "Thongsa Lhakhang is a Buddhist temple set amidst the rugged terrain of the Khothakpa mining area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.387482,
+                        27.007244
+                  ]
+            },
+            {
+                  "name": "Ugyen Pemaling Lhakhang",
+                  "text": "This Buddhist shrine serves as a spiritual retreat near the Khothakpa gypsum extraction sites.",
+                  "category": "landmark",
+                  "coords": [
+                        91.34137,
+                        27.024787
+                  ]
+            },
+            {
+                  "name": "Dudjom Tashicholing Lhakhang",
+                  "text": "Dudjom Tashicholing Lhakhang is a Buddhist worship site offering a quiet space in the Khothakpa area.",
+                  "category": "landmark",
+                  "coords": [
+                        91.342718,
+                        27.017153
+                  ]
+            },
+            {
+                  "name": "Rinzin Samdrupcholing Lhakhang",
+                  "text": "This local Buddhist temple provides a place for prayer within the Khothakpa district.",
+                  "category": "landmark",
+                  "coords": [
+                        91.329633,
+                        27.023973
+                  ]
+            },
+            {
+                  "name": "Tashicholing Lhakhang",
+                  "text": "Tashicholing Lhakhang is a Buddhist monastery gathering local worshippers near the Khothakpa mines.",
+                  "category": "landmark",
+                  "coords": [
+                        91.348809,
+                        27.049938
+                  ]
+            },
+            {
+                  "name": "Denchi Chorten",
+                  "text": "Denchi Chorten is a traditional Buddhist stupa serving as a sacred landmark in the Khothakpa region.",
+                  "category": "landmark",
+                  "coords": [
+                        91.402995,
+                        27.017265
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "BT-43",
     coords: [91.3122, 27.0511],

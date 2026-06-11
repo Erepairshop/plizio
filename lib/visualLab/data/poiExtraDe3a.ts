@@ -229,7 +229,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Moorteich",
-                  "text": "Ein ruhiger See bei Stralsund, ideal zum Spazierengehen.",
+                  "text": "Der Moorteich in Stralsund ist ein mooriges Gewässer mit seltenen Pflanzenarten.",
                   "category": "natural",
                   "coords": [
                         13.070822,
@@ -247,7 +247,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Frankenteich",
-                  "text": "Ein idyllischer See bei Stralsund zum Natur genießen.",
+                  "text": "Der Frankenteich in Stralsund ist ein Angelteich mit Schilfbestand und Uferbäumen.",
                   "category": "natural",
                   "coords": [
                         13.092804,
@@ -256,7 +256,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Borgwallsee",
-                  "text": "Ein weitläufiger See bei Stralsund in einer ruhigen Landschaft.",
+                  "text": "Der Borgwallsee in Stralsund ist ein geschützter See mit Vogelbeobachtungsturm.",
                   "category": "natural",
                   "coords": [
                         13.007888,
@@ -265,7 +265,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Voigdehäger Teich",
-                  "text": "Ein friedlicher See in der Nähe von Stralsund zum Entspannen.",
+                  "text": "Der Voigdehäger Teich in Stralsund ist ein stiller Weiher mit Angelmöglichkeit und Rastplatz.",
                   "category": "natural",
                   "coords": [
                         13.09444,
@@ -319,7 +319,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Freibad",
-                  "text": "Ein schöner Spielplatz am Freibad in Stralsund.",
+                  "text": "Freibad Stralsund: ein Familien-Freibad mit 50-Meter-Sportbecken im Stralsunder Norden.",
                   "category": "family",
                   "coords": [
                         13.082435,
@@ -328,7 +328,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Boulevard Grünhufe I",
-                  "text": "Ein moderner Spielplatz in Stralsund für die Kinder des Wohngebiets.",
+                  "text": "Boulevard Grünhufe I: eine familienfreundliche Promenade im Stralsunder Stadtteil Grünhufe.",
                   "category": "family",
                   "coords": [
                         13.039649,
@@ -533,7 +533,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Moorteich",
-                  "text": "Egy nyugodt tó Stralsund közelében, ideális sétáláshoz.",
+                  "text": "A stralsundi Moorteich egy lápos víz ritka növényfajokkal.",
                   "category": "natural",
                   "coords": [
                         13.070822,
@@ -551,7 +551,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Frankenteich",
-                  "text": "Idilli tó Stralsund közelében a természet kedvelőinek.",
+                  "text": "A stralsundi Frankenteich egy horgásztó nádassal és parti fákkal.",
                   "category": "natural",
                   "coords": [
                         13.092804,
@@ -560,7 +560,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Borgwallsee",
-                  "text": "Kiterjedt tó Stralsund közelében, nyugodt környezetben.",
+                  "text": "A stralsundi Borgwallsee egy védett tó madármegfigyelő toronnyal.",
                   "category": "natural",
                   "coords": [
                         13.007888,
@@ -569,7 +569,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Voigdehäger Teich",
-                  "text": "Békés tó Stralsund közelében a kikapcsolódáshoz.",
+                  "text": "A stralsundi Voigdehäger Teich egy csendes tó horgászati lehetőséggel és pihenőhellyel.",
                   "category": "natural",
                   "coords": [
                         13.09444,
@@ -623,7 +623,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Freibad",
-                  "text": "Szép játszótér a stralsundi szabadtéri strandnál.",
+                  "text": "Stralsundi szabadtéri családi fürdő, 50 méteres sportmedencével a város északi részén.",
                   "category": "family",
                   "coords": [
                         13.082435,
@@ -632,7 +632,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Boulevard Grünhufe I",
-                  "text": "Modern játszótér Stralsundban a lakóövezet gyermekei számára.",
+                  "text": "Grünhufe I sétány: családbarát promenád Stralsund Grünhufe negyedében.",
                   "category": "family",
                   "coords": [
                         13.039649,
@@ -837,7 +837,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Moorteich",
-                  "text": "Un lac liniștit lângă Stralsund, perfect pentru plimbări.",
+                  "text": "Moorteich din Stralsund este un corp de apă mlăștinos cu specii rare de plante.",
                   "category": "natural",
                   "coords": [
                         13.070822,
@@ -855,7 +855,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Frankenteich",
-                  "text": "Un lac idilic în apropiere de Stralsund pentru a te bucura de natură.",
+                  "text": "Frankenteich din Stralsund este un iaz de pescuit cu stuf și copaci de mal.",
                   "category": "natural",
                   "coords": [
                         13.092804,
@@ -864,7 +864,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Borgwallsee",
-                  "text": "Un lac întins lângă Stralsund, într-un peisaj liniștit.",
+                  "text": "Borgwallsee din Stralsund este un lac protejat cu turn de observare a păsărilor.",
                   "category": "natural",
                   "coords": [
                         13.007888,
@@ -873,7 +873,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Voigdehäger Teich",
-                  "text": "Un lac liniștit în apropiere de Stralsund pentru relaxare.",
+                  "text": "Voigdehäger Teich din Stralsund este un iaz liniștit cu posibilitate de pescuit și loc de odihnă.",
                   "category": "natural",
                   "coords": [
                         13.09444,
@@ -927,7 +927,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Freibad",
-                  "text": "Un teren de joacă frumos la ștrandul din Stralsund.",
+                  "text": "Freibad Stralsund: o piscină în aer liber pentru familii, cu bazin sportiv de 50 m, în nordul orașului Stralsund.",
                   "category": "family",
                   "coords": [
                         13.082435,
@@ -936,7 +936,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Boulevard Grünhufe I",
-                  "text": "Un teren de joacă modern în Stralsund pentru copiii din cartier.",
+                  "text": "Bulevardul Grünhufe I: o promenadă familială în cartierul Grünhufe al orașului Stralsund.",
                   "category": "family",
                   "coords": [
                         13.039649,
@@ -1141,7 +1141,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Moorteich",
-                  "text": "A peaceful lake near Stralsund, perfect for walking.",
+                  "text": "Moorteich in Stralsund is a boggy water body with rare plant species.",
                   "category": "natural",
                   "coords": [
                         13.070822,
@@ -1159,7 +1159,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Frankenteich",
-                  "text": "An idyllic lake near Stralsund to enjoy nature.",
+                  "text": "Frankenteich in Stralsund is a fishing pond with reeds and shoreline trees.",
                   "category": "natural",
                   "coords": [
                         13.092804,
@@ -1168,7 +1168,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Borgwallsee",
-                  "text": "A vast lake near Stralsund in a quiet landscape.",
+                  "text": "Borgwallsee in Stralsund is a protected lake with a birdwatching tower.",
                   "category": "natural",
                   "coords": [
                         13.007888,
@@ -1177,7 +1177,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Voigdehäger Teich",
-                  "text": "A peaceful lake near Stralsund for relaxation.",
+                  "text": "Voigdehäger Teich in Stralsund is a quiet pond with fishing opportunity and rest area.",
                   "category": "natural",
                   "coords": [
                         13.09444,
@@ -1231,7 +1231,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Freibad",
-                  "text": "A nice playground at the outdoor pool in Stralsund.",
+                  "text": "Freibad Stralsund: a family outdoor pool with a 50-metre sports pool in Stralsund's north.",
                   "category": "family",
                   "coords": [
                         13.082435,
@@ -1240,7 +1240,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Boulevard Grünhufe I",
-                  "text": "A modern playground in Stralsund for local children.",
+                  "text": "Boulevard Grünhufe I: a family-friendly promenade in Stralsund's Grünhufe district.",
                   "category": "family",
                   "coords": [
                         13.039649,
@@ -1866,7 +1866,1114 @@ export const poiExtraDe3a: POI[] = [
       fr: ["Les remparts historiques de Neubrandenbourg mesurent 2 300 mètres de long et sont encore presque totalement conservés.", "Les quatre portes en briques caractéristiques ont valu à la ville le nom de 'Ville aux quatre portes'.", "Neubrandenbourg a été fondée en 1248 par le margrave Jean Ier de Brandebourg.", "Une salle de concert ultramoderne a été aménagée dans l'église historique Sainte-Marie par un architecte finlandais.", "Le lac de Tollense voisin est long de 10 kilomètres et constitue une zone de loisirs très prisée.", "Des maisons historiques à colombages, les 'Wiekhäuser', sont intégrées dans les fortifications des remparts.", "La ville est le principal centre économique de la région des lacs du Mecklembourg."],
     
       "tr": ["Neubrandenburg'un tarihi şehir surları 2.300 metre uzunluğundadır ve hala neredeyse tamamen korunmuştur.", "Dört belirgin tuğla kapı, şehre Stadt der Vier Tore adını kazandırmıştır.", "Neubrandenburg, 1248 yılında Brandenburg Uçbeyi Johann I tarafından kurulmuştur.", "Tarihi Marienkirche kilisesinin içine Finli bir mimar tarafından son derece modern bir konser salonu inşa edilmiştir.", "Komşu Tollensesee gölü 10 kilometre uzunluğundadır ve popüler bir dinlenme alanıdır.", "Şehir surlarının savunma sistemine, Wiekhäuser adı verilen tarihi yarı ahşap evler entegre edilmiştir."]}, image: "/poi-images/city-neubrandenburg-extra.webp",
-    "sights": {"de": [{"name": "Marienkirche", "text": "Die einstige Pfarrkirche dient heute als Konzertkirche mit einer preisgekrönten modernen Architektur.", "category": "church", "confidence": "high", "coords": [13.26046, 53.55569]}, {"name": "Friedländer Tor", "text": "Das am besten erhaltene der vier Stadttore aus dem 15. Jahrhundert mit einem hohen Turm und Vortor.", "category": "city gate", "confidence": "high", "coords": [13.2655, 53.5591]}, {"name": "Treptower Tor", "text": "Das höchste Stadttor mit 31 Metern beherbergt heute das Regionalmuseum für Stadtgeschichte.", "category": "city gate", "confidence": "high", "coords": [13.255, 53.557]}, {"name": "Tollensesee", "text": "Ein beliebtes Naherholungsgebiet direkt vor den Toren der Stadt, ideal zum Baden, Segeln und Wandern.", "category": "park", "confidence": "high", "coords": [13.211389, 53.507222]}, {"name": "Museum Stadtgeschichte", "text": "Museum über die lokale Geschichte und Entwicklung von Neubrandenburg.", "category": "museum", "coords": [13.2535, 53.557101]}, {"name": "Schauspielhaus Neubrandenburg", "text": "Das älteste erhaltene Theatergebäude in Mecklenburg-Vorpommern.", "category": "cultural", "coords": [13.263294, 53.555083]}, {"name": "Brigitte-Reimann-Literaturhaus", "text": "Literaturmuseum und Gedenkstätte für die Schriftstellerin Brigitte Reimann.", "category": "museum", "coords": [13.266566, 53.553493]}, {"name": "Kunstsammlung Neubrandenburg", "text": "Kunstmuseum im Stadtzentrum mit Fokus auf regionale und moderne Kunst.", "category": "museum", "coords": [13.256277, 53.555473]}, {"name": "Regionalmuseum im Franziskanerkloster", "text": "Regionalmuseum, das in einem ehemaligen Franziskanerkloster untergebracht ist.", "category": "museum", "coords": [13.260955, 53.560007]}, {"name": "Steinkiste aus der Datze-Niederung", "text": "Ein prähistorisches Steingrab aus dem Gebiet der Datze-Niederung.", "category": "historical", "coords": [13.252663, 53.546956]}, {"name": "Reitbahnsee Strand", "text": "Als idyllisches Erholungsgebiet zieht der Badestrand am Reitbahnsee an warmen Tagen zahlreiche Gäste aus Neubrandenburg an. Die weitläufigen Rasenflächen und der Zugang zum Wasser bieten ideale Bedingungen für eine entspannte Auszeit im Grünen. Hier mischt sich das fröhliche Lachen von badenden Familien harmonisch mit der ruhigen Naturkulisse. Wer die besten Schattenplätze ergattern möchte, sollte an Hochsommertagen nicht zu spät anreisen.", "category": "recreational", "coords": [13.26229, 53.573681]}, {"name": "Brodaer Strand", "text": "Im Stadtteil Broda erstreckt sich dieser beliebte Sandstrand am malerischen Ufer des Tollensesees. Die einladende Umgebung ist ein Paradies für Schwimmer und Sonnenanbeter, die das maritime Flair mitten in Neubrandenburg schätzen. An warmen Wochenenden herrscht hier ein lebhaftes Treiben, das eine wunderbare Kulisse für unbeschwerte Stunden am Wasser bildet. Ein kleiner Spaziergang entlang des Sees rundet den entspannten Strandbesuch ideal ab.", "category": "recreational", "coords": [13.242738, 53.549814]}, {"name": "Augustabad", "text": "Traditionelles Strandbad mit Parkanlagen am Ufer des Tollensesees.", "category": "recreational", "coords": [13.250531, 53.533889]}, {"name": "Hundestrand", "text": "Ausgewiesener Strandabschnitt für Besucher mit Hunden am Tollensesee.", "category": "recreational", "coords": [13.237867, 53.547768]}, {"name": "Tierhof", "text": "Ein kleiner Tierpark und Bauernhof in Neubrandenburg, der besonders für Familien geeignet ist.", "category": "family", "coords": [13.252383, 53.55211]}, {"name": "Tauchspot Wassersportzentrum An der Mole", "text": "Ein beliebter Tauchplatz und Wassersportstandort am Ufer des Tollensesees.", "category": "recreational", "coords": [13.254874, 53.53785]}, {"name": "Kulturpark", "text": "Zentrale Parkanlage am Tollensesee mit weiten Grünflächen und Erholungsmöglichkeiten.", "category": "park", "coords": [13.254562, 53.549831]}, {"name": "Reitbahnsee", "text": "Der Reitbahnsee in Neubrandenburg bietet Raum für verschiedene Aktivitäten am Wasser.", "category": "natural", "coords": [13.259245, 53.574112]}, {"name": "Kiessee", "text": "Der Kiessee in Neubrandenburg ist ein ruhiges Gewässer in der Region.", "category": "natural", "coords": [13.305588, 53.538925]}, {"name": "Neveriner See", "text": "Der Neveriner See bei Neubrandenburg liegt idyllisch in der Mecklenburger Seenplatte.", "category": "natural", "coords": [13.340311, 53.614643]}, {"name": "Neon Minigolf", "text": "Neon Minigolf in Neubrandenburg bietet ein besonderes Spielerlebnis für die ganze Familie.", "category": "family", "coords": [13.259201, 53.539494]}, {"name": "Spieleria", "text": "Die Spieleria in Neubrandenburg bietet verschiedene Unterhaltungsmöglichkeiten für Besucher.", "category": "family", "coords": [13.29345, 53.553359]}, {"name": "Mini-Golf", "text": "Eine Minigolfanlage in Neubrandenburg für sportlichen Freizeitspaß mit Kindern.", "category": "family", "coords": [13.247003, 53.531932]}, {"name": "Mudder-Schulten Spielplatz", "text": "Der Mudder-Schulten Spielplatz in Neubrandenburg lädt Kinder zum Entdecken und Spielen ein.", "category": "family", "coords": [13.278287, 53.57793]}, {"name": "Spielplatz am Schweineohr", "text": "Ein familienfreundlicher Spielplatz in Neubrandenburg mit verschiedenen Spielmöglichkeiten.", "category": "family", "coords": [13.287897, 53.549799]}, {"name": "Hinterste Mühle", "text": "Dieser Spielplatz in Neubrandenburg bietet Kindern viel Raum für Bewegung und Spiel.", "category": "family", "coords": [13.284883, 53.544375]}, {"name": "\"Am Stier\"", "text": "Ein schöner Ort in Neubrandenburg für Familien, die Zeit im Freien verbringen möchten.", "category": "family", "coords": [13.25071, 53.549289]}, {"name": "\"Am Dorfteich\"", "text": "Einladender Spielplatz in Neubrandenburg für einen abwechslungsreichen Ausflug mit Kindern.", "category": "family", "coords": [13.204122, 53.56786]}, {"name": "\"Am Messeplatz\"", "text": "Dieser Spielplatz in Neubrandenburg ist ein tolles Ziel für eine aktive Pause mit der Familie.", "category": "family", "coords": [13.253859, 53.547228]}], "hu": [{"name": "Mária-templom", "text": "Az egykori plébániatemplom ma koncerttemplomként működik, díjnyertes modern építészeti megoldásokkal.", "category": "church", "confidence": "high", "coords": [13.26046, 53.55569]}, {"name": "Friedländeri kapu", "text": "A négy 15. századi városkapu közül a legjobb állapotban lévő, magas toronnyal és előkapuval.", "category": "city gate", "confidence": "high", "coords": [13.2655, 53.5591]}, {"name": "Treptower kapu", "text": "A legmagasabb városkapu (31 méter), amely ma a városi történeti regionális múzeumnak ad otthont.", "category": "city gate", "confidence": "high", "coords": [13.255, 53.557]}, {"name": "Tollensesee", "text": "Népszerű pihenőhely közvetlenül a város kapui előtt, ideális úszáshoz, vitorlázáshoz és túrázáshoz.", "category": "park", "confidence": "high", "coords": [13.211389, 53.507222]}, {"name": "Museum Stadtgeschichte", "text": "Múzeum Neubrandenburg helyi történelméről és fejlődéséről.", "category": "museum", "coords": [13.2535, 53.557101]}, {"name": "Schauspielhaus Neubrandenburg", "text": "Mecklenburg-Elő-Pomeránia legrégebbi épségben maradt színházépülete.", "category": "cultural", "coords": [13.263294, 53.555083]}, {"name": "Brigitte-Reimann-Literaturhaus", "text": "Irodalmi múzeum és emlékhely Brigitte Reimann írónő tiszteletére.", "category": "museum", "coords": [13.266566, 53.553493]}, {"name": "Kunstsammlung Neubrandenburg", "text": "Múzeum a városközpontban, amely a regionális és modern művészetre összpontosít.", "category": "museum", "coords": [13.256277, 53.555473]}, {"name": "Regionalmuseum im Franziskanerkloster", "text": "Regionális múzeum, amely egy egykori ferences kolostorban kapott helyet.", "category": "museum", "coords": [13.260955, 53.560007]}, {"name": "Steinkiste aus der Datze-Niederung", "text": "Prehisztorikus kősír a Datze-alföld területéről.", "category": "historical", "coords": [13.252663, 53.546956]}, {"name": "Reitbahnsee Strand", "text": "Idylli pihenőövezetként a Reitbahnsee melletti strand meleg napokon számos vendéget vonz Neubrandenburgból. A tágas pázsit és a vízhez való hozzáférés ideális feltételeket teremt egy pihentető, zöldben töltött kikapcsolódáshoz. Itt a fürdőző családok vidám nevetése harmonikusan keveredik a csendes természeti kulisszával. Aki a legjobb árnyékos helyeket szeretné megszerezni, a nyár közepén ne érkezzen túl későn.", "category": "recreational", "coords": [13.26229, 53.573681]}, {"name": "Brodaer Strand", "text": "A Broda városrészben terül el ez a kedvelt homokos strand a Tollensesee festői partján. A hívogató környezet igazi paradicsom az úszók és napozók számára, akik értékelik a tengerparti hangulatot Neubrandenburg közepén. Meleg hétvégéken nyüzsgő élet folyik itt, ami csodálatos hátteret ad a felhőtlen vízparti órákhoz. Egy rövid séta a tó mentén tökéletesen megkoronázza a pihentető strandolást.", "category": "recreational", "coords": [13.242738, 53.549814]}, {"name": "Augustabad", "text": "Tradicionális strandfürdő parkokkal a Tollensesee partján.", "category": "recreational", "coords": [13.250531, 53.533889]}, {"name": "Hundestrand", "text": "Kutyások számára kijelölt strandrész a Tollensesee partján.", "category": "recreational", "coords": [13.237867, 53.547768]}, {"name": "Tierhof", "text": "Kisméretű állatpark és farm Neubrandenburgban, amely interaktív élményt kínál a családoknak.", "category": "family", "coords": [13.252383, 53.55211]}, {"name": "Tauchspot Wassersportzentrum An der Mole", "text": "Népszerű merülőhely és vízisport-központ a Tollensesee partján.", "category": "recreational", "coords": [13.254874, 53.53785]}, {"name": "Kulturpark", "text": "Központi park a Tollensesee partján, amely tágas zöldfelületeket kínál a kikapcsolódáshoz.", "category": "park", "coords": [13.254562, 53.549831]}, {"name": "Reitbahnsee", "text": "A neubrandenburgi Reitbahnsee helyet biztosít különféle vízparti tevékenységekhez.", "category": "natural", "coords": [13.259245, 53.574112]}, {"name": "Kiessee", "text": "A neubrandenburgi Kiessee egy csendes tó a régióban.", "category": "natural", "coords": [13.305588, 53.538925]}, {"name": "Neveriner See", "text": "A Neubrandenburg melletti Neveriner-tó idilli környezetben fekszik a Mecklenburgi tóhátságon.", "category": "natural", "coords": [13.340311, 53.614643]}, {"name": "Neon Minigolf", "text": "A neubrandenburgi Neon Minigolf különleges játékélményt kínál az egész családnak.", "category": "family", "coords": [13.259201, 53.539494]}, {"name": "Spieleria", "text": "A neubrandenburgi Spieleria különféle szórakozási lehetőségeket kínál a látogatóknak.", "category": "family", "coords": [13.29345, 53.553359]}, {"name": "Mini-Golf", "text": "Minigolfpálya Neubrandenburgban a sportos szabadidős szórakozáshoz a gyerekekkel.", "category": "family", "coords": [13.247003, 53.531932]}, {"name": "Mudder-Schulten Spielplatz", "text": "A neubrandenburgi Mudder-Schulten játszótér felfedezésre és játékra hívja a gyerekeket.", "category": "family", "coords": [13.278287, 53.57793]}, {"name": "Spielplatz am Schweineohr", "text": "Egy családbarát játszótér Neubrandenburgban, különféle játéklehetőségekkel.", "category": "family", "coords": [13.287897, 53.549799]}, {"name": "Hinterste Mühle", "text": "Ez a neubrandenburgi játszótér sok helyet kínál a gyerekeknek a mozgáshoz és a játékhoz.", "category": "family", "coords": [13.284883, 53.544375]}, {"name": "\"Am Stier\"", "text": "Egy szép hely Neubrandenburgban a szabadban időzni vágyó családok számára.", "category": "family", "coords": [13.25071, 53.549289]}, {"name": "\"Am Dorfteich\"", "text": "Hívogató játszótér Neubrandenburgban egy változatos kiránduláshoz a gyerekekkel.", "category": "family", "coords": [13.204122, 53.56786]}, {"name": "\"Am Messeplatz\"", "text": "Ez a neubrandenburgi játszótér remek célpont egy aktív családi pihenőhöz.", "category": "family", "coords": [13.253859, 53.547228]}], "ro": [{"name": "Biserica Sf. Maria", "text": "Fosta biserică parohială servește astăzi drept sală de concerte cu o arhitectură modernă premiată.", "category": "church", "confidence": "high", "coords": [13.26046, 53.55569]}, {"name": "Poarta Friedland", "text": "Cea mai bine conservată dintre cele patru porți ale orașului din secolul al XV-lea, cu un turn înalt.", "category": "city gate", "confidence": "high", "coords": [13.2655, 53.5591]}, {"name": "Poarta Treptow", "text": "Cea mai înaltă poartă (31 m) adăpostește astăzi muzeul regional dedicat istoriei orașului.", "category": "city gate", "confidence": "high", "coords": [13.255, 53.557]}, {"name": "Lacul Tollense", "text": "O zonă populară de recreere chiar la porțile orașului, ideală pentru înot, navigație și drumeții.", "category": "park", "confidence": "high", "coords": [13.211389, 53.507222]}, {"name": "Museum Stadtgeschichte", "text": "Muzeu despre istoria locală și dezvoltarea orașului Neubrandenburg.", "category": "museum", "coords": [13.2535, 53.557101]}, {"name": "Schauspielhaus Neubrandenburg", "text": "Cea mai veche clădire de teatru conservată din Mecklenburg-Pomerania Inferioară.", "category": "cultural", "coords": [13.263294, 53.555083]}, {"name": "Brigitte-Reimann-Literaturhaus", "text": "Muzeu literar și memorial dedicat scriitoarei Brigitte Reimann.", "category": "museum", "coords": [13.266566, 53.553493]}, {"name": "Kunstsammlung Neubrandenburg", "text": "Muzeu de artă din centrul orașului, axat pe artă regională și modernă.", "category": "museum", "coords": [13.256277, 53.555473]}, {"name": "Regionalmuseum im Franziskanerkloster", "text": "Muzeu regional găzduit într-o fostă mănăstire franciscană.", "category": "museum", "coords": [13.260955, 53.560007]}, {"name": "Steinkiste aus der Datze-Niederung", "text": "Un mormânt preistoric din piatră din zona câmpiei Datze.", "category": "historical", "coords": [13.252663, 53.546956]}, {"name": "Reitbahnsee Strand", "text": "Ca o zonă idilică de recreere, plaja de la Reitbahnsee atrage numeroși oaspeți din Neubrandenburg în zilele calde. Pajiștile întinse și accesul la apă oferă condiții ideale pentru o pauză relaxantă în mijlocul naturii. Râsetele vesele ale familiilor care fac baie se împletesc armonios aici cu peisajul natural liniștit. Cei care doresc să ocupe cele mai bune locuri la umbră nu ar trebui să sosească prea târziu în zilele toride de vară.", "category": "recreational", "coords": [13.26229, 53.573681]}, {"name": "Brodaer Strand", "text": "În cartierul Broda, această plajă populară de nisip se întinde pe malul pitoresc al lacului Tollensesee. Mediul primitor este un paradis pentru înotători și iubitorii de soare care apreciază aerul maritim în inima orașului Neubrandenburg. În weekendurile calde, aici este o agitație plină de viață, formând un decor minunat pentru ore fără griji pe malul apei. O scurtă plimbare de-a lungul lacului completează ideal vizita relaxantă la plajă.", "category": "recreational", "coords": [13.242738, 53.549814]}, {"name": "Augustabad", "text": "Ștrand tradițional cu parcuri pe malul lacului Tollensesee.", "category": "recreational", "coords": [13.250531, 53.533889]}, {"name": "Hundestrand", "text": "Secțiune de plajă desemnată pentru vizitatorii cu câini pe Tollensesee.", "category": "recreational", "coords": [13.237867, 53.547768]}, {"name": "Tierhof", "text": "O mică grădină zoologică și fermă în Neubrandenburg, ideală pentru familii cu copii.", "category": "family", "coords": [13.252383, 53.55211]}, {"name": "Tauchspot Wassersportzentrum An der Mole", "text": "Un loc popular pentru scufundări și sporturi nautice pe malul lacului Tollensesee.", "category": "recreational", "coords": [13.254874, 53.53785]}, {"name": "Kulturpark", "text": "Un parc central pe malul lacului, oferind spații verzi vaste pentru recreere și plimbări.", "category": "park", "coords": [13.254562, 53.549831]}, {"name": "Reitbahnsee", "text": "Reitbahnsee din Neubrandenburg oferă spațiu pentru diverse activități pe malul apei.", "category": "natural", "coords": [13.259245, 53.574112]}, {"name": "Kiessee", "text": "Kiessee din Neubrandenburg este o apă liniștită în regiune.", "category": "natural", "coords": [13.305588, 53.538925]}, {"name": "Neveriner See", "text": "Lacul Neverin de lângă Neubrandenburg este situat idilic în regiunea lacurilor din Mecklenburg.", "category": "natural", "coords": [13.340311, 53.614643]}, {"name": "Neon Minigolf", "text": "Neon Minigolf din Neubrandenburg oferă o experiență de joc deosebită pentru întreaga familie.", "category": "family", "coords": [13.259201, 53.539494]}, {"name": "Spieleria", "text": "Spieleria din Neubrandenburg oferă diverse opțiuni de divertisment pentru vizitatori.", "category": "family", "coords": [13.29345, 53.553359]}, {"name": "Mini-Golf", "text": "Un teren de minigolf în Neubrandenburg pentru distracție sportivă alături de copii.", "category": "family", "coords": [13.247003, 53.531932]}, {"name": "Mudder-Schulten Spielplatz", "text": "Locul de joacă Mudder-Schulten din Neubrandenburg invită copiii la explorare și joacă.", "category": "family", "coords": [13.278287, 53.57793]}, {"name": "Spielplatz am Schweineohr", "text": "Un loc de joacă pentru familii în Neubrandenburg, cu diverse opțiuni de joacă.", "category": "family", "coords": [13.287897, 53.549799]}, {"name": "Hinterste Mühle", "text": "Acest loc de joacă din Neubrandenburg oferă copiilor mult spațiu pentru mișcare și joacă.", "category": "family", "coords": [13.284883, 53.544375]}, {"name": "\"Am Stier\"", "text": "Un loc frumos în Neubrandenburg pentru familiile care doresc să petreacă timp în aer liber.", "category": "family", "coords": [13.25071, 53.549289]}, {"name": "\"Am Dorfteich\"", "text": "Loc de joacă primitor în Neubrandenburg pentru o excursie variată cu copiii.", "category": "family", "coords": [13.204122, 53.56786]}, {"name": "\"Am Messeplatz\"", "text": "Acest loc de joacă din Neubrandenburg este o destinație excelentă pentru o pauză activă cu familia.", "category": "family", "coords": [13.253859, 53.547228]}], "en": [{"name": "St. Mary's Church", "text": "The former parish church now serves as a concert church with award-winning modern architecture.", "category": "church", "confidence": "high", "coords": [13.26046, 53.55569]}, {"name": "Friedland Gate", "text": "The best-preserved of the four 15th-century city gates, featuring a tall tower and outer gate.", "category": "city gate", "confidence": "high", "coords": [13.2655, 53.5591]}, {"name": "Treptow Gate", "text": "The tallest city gate at 31 meters, now housing the regional museum for urban history.", "category": "city gate", "confidence": "high", "coords": [13.255, 53.557]}, {"name": "Lake Tollense", "text": "A popular recreation area right at the city's doorstep, ideal for swimming, sailing, and hiking.", "category": "park", "confidence": "high", "coords": [13.211389, 53.507222]}, {"name": "Museum Stadtgeschichte", "text": "Museum about the local history and development of Neubrandenburg.", "category": "museum", "coords": [13.2535, 53.557101]}, {"name": "Schauspielhaus Neubrandenburg", "text": "The oldest preserved theatre building in Mecklenburg-Vorpommern.", "category": "cultural", "coords": [13.263294, 53.555083]}, {"name": "Brigitte-Reimann-Literaturhaus", "text": "Literary museum and memorial dedicated to the writer Brigitte Reimann.", "category": "museum", "coords": [13.266566, 53.553493]}, {"name": "Kunstsammlung Neubrandenburg", "text": "Art museum in the town center focusing on regional and modern art.", "category": "museum", "coords": [13.256277, 53.555473]}, {"name": "Regionalmuseum im Franziskanerkloster", "text": "Regional museum housed in a former Franciscan monastery.", "category": "museum", "coords": [13.260955, 53.560007]}, {"name": "Steinkiste aus der Datze-Niederung", "text": "A prehistoric stone grave from the Datze lowlands area.", "category": "historical", "coords": [13.252663, 53.546956]}, {"name": "Reitbahnsee Strand", "text": "As an idyllic recreation area, the swimming beach at Lake Reitbahnsee attracts numerous guests from Neubrandenburg on warm days. The expansive lawns and direct water access provide ideal conditions for a relaxing break surrounded by greenery. Here, the cheerful laughter of bathing families blends harmoniously with the quiet natural scenery. If you want to grab the best shady spots, you should not arrive too late on peak summer days.", "category": "recreational", "coords": [13.26229, 53.573681]}, {"name": "Brodaer Strand", "text": "In the Broda district, this popular sandy beach stretches along the picturesque shores of Lake Tollensesee. The inviting environment is a paradise for swimmers and sunbathers who appreciate a maritime flair right in the middle of Neubrandenburg. On warm weekends, there is a lively hustle and bustle here, forming a wonderful backdrop for carefree hours by the water. A short walk along the lake perfectly rounds off a relaxing beach visit.", "category": "recreational", "coords": [13.242738, 53.549814]}, {"name": "Augustabad", "text": "Traditional lakeside bathing beach with parks on the Tollensesee.", "category": "recreational", "coords": [13.250531, 53.533889]}, {"name": "Hundestrand", "text": "Designated beach section for visitors with dogs on Lake Tollensesee.", "category": "recreational", "coords": [13.237867, 53.547768]}, {"name": "Tierhof", "text": "A small animal park and farm in Neubrandenburg, popular for family visits.", "category": "family", "coords": [13.252383, 53.55211]}, {"name": "Tauchspot Wassersportzentrum An der Mole", "text": "A popular diving spot and water sports center on the shores of Lake Tollensesee.", "category": "recreational", "coords": [13.254874, 53.53785]}, {"name": "Kulturpark", "text": "A central park by the lake offering extensive green spaces and recreation areas.", "category": "park", "coords": [13.254562, 53.549831]}, {"name": "Reitbahnsee", "text": "The Reitbahnsee in Neubrandenburg offers space for various activities by the water.", "category": "natural", "coords": [13.259245, 53.574112]}, {"name": "Kiessee", "text": "The Kiessee in Neubrandenburg is a peaceful body of water in the region.", "category": "natural", "coords": [13.305588, 53.538925]}, {"name": "Neveriner See", "text": "The Neverin lake near Neubrandenburg is idyllically located in the Mecklenburg Lake District.", "category": "natural", "coords": [13.340311, 53.614643]}, {"name": "Neon Minigolf", "text": "Neon Minigolf in Neubrandenburg offers a special gaming experience for the whole family.", "category": "family", "coords": [13.259201, 53.539494]}, {"name": "Spieleria", "text": "The Spieleria in Neubrandenburg offers various entertainment options for visitors.", "category": "family", "coords": [13.29345, 53.553359]}, {"name": "Mini-Golf", "text": "A miniature golf course in Neubrandenburg for sporting leisure fun with children.", "category": "family", "coords": [13.247003, 53.531932]}, {"name": "Mudder-Schulten Spielplatz", "text": "The Mudder-Schulten playground in Neubrandenburg invites children to discover and play.", "category": "family", "coords": [13.278287, 53.57793]}, {"name": "Spielplatz am Schweineohr", "text": "A family-friendly playground in Neubrandenburg with various play options.", "category": "family", "coords": [13.287897, 53.549799]}, {"name": "Hinterste Mühle", "text": "This playground in Neubrandenburg offers children plenty of space for movement and play.", "category": "family", "coords": [13.284883, 53.544375]}, {"name": "\"Am Stier\"", "text": "A nice place in Neubrandenburg for families who want to spend time outdoors.", "category": "family", "coords": [13.25071, 53.549289]}, {"name": "\"Am Dorfteich\"", "text": "Inviting playground in Neubrandenburg for a varied outing with children.", "category": "family", "coords": [13.204122, 53.56786]}, {"name": "\"Am Messeplatz\"", "text": "This playground in Neubrandenburg is a great destination for an active break with the family.", "category": "family", "coords": [13.253859, 53.547228]}], "tr": [{"name": "Marien Kilisesi", "text": "Eski bölge kilisesi günümüzde ödüllü modern mimarisiyle bir konser kilisesi olarak hizmet vermektedir.", "category": "church", "coords": [13.26046, 53.55569]}, {"name": "Friedland Kapısı", "text": "15. yüzyıldan kalma dört şehir kapısının en iyi korunmuş olanı olup yüksek bir kulesi ve ön kapısı vardır.", "category": "city gate", "coords": [13.2655, 53.5591]}, {"name": "Treptow Kapısı", "text": "31 metre ile en yüksek şehir kapısı olup günümüzde bölgesel şehir tarihi müzesine ev sahipliği yapar.", "category": "city gate", "coords": [13.255, 53.557]}, {"name": "Tollense Gölü", "text": "Şehir kapılarının hemen önündeki popüler rekreasyon alanı; yüzme, yelken ve yürüyüş için idealdir.", "category": "park", "coords": [13.211389, 53.507222]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Marienkirche",
+                  "text": "Die einstige Pfarrkirche dient heute als Konzertkirche mit einer preisgekrönten modernen Architektur.",
+                  "category": "church",
+                  "confidence": "high",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
+            },
+            {
+                  "name": "Friedländer Tor",
+                  "text": "Das am besten erhaltene der vier Stadttore aus dem 15. Jahrhundert mit einem hohen Turm und Vortor.",
+                  "category": "city gate",
+                  "confidence": "high",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
+            },
+            {
+                  "name": "Treptower Tor",
+                  "text": "Das höchste Stadttor mit 31 Metern beherbergt heute das Regionalmuseum für Stadtgeschichte.",
+                  "category": "city gate",
+                  "confidence": "high",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
+            },
+            {
+                  "name": "Tollensesee",
+                  "text": "Ein beliebtes Naherholungsgebiet direkt vor den Toren der Stadt, ideal zum Baden, Segeln und Wandern.",
+                  "category": "park",
+                  "confidence": "high",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
+            },
+            {
+                  "name": "Museum Stadtgeschichte",
+                  "text": "Museum über die lokale Geschichte und Entwicklung von Neubrandenburg.",
+                  "category": "museum",
+                  "coords": [
+                        13.2535,
+                        53.557101
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Neubrandenburg",
+                  "text": "Das älteste erhaltene Theatergebäude in Mecklenburg-Vorpommern.",
+                  "category": "cultural",
+                  "coords": [
+                        13.263294,
+                        53.555083
+                  ]
+            },
+            {
+                  "name": "Brigitte-Reimann-Literaturhaus",
+                  "text": "Literaturmuseum und Gedenkstätte für die Schriftstellerin Brigitte Reimann.",
+                  "category": "museum",
+                  "coords": [
+                        13.266566,
+                        53.553493
+                  ]
+            },
+            {
+                  "name": "Kunstsammlung Neubrandenburg",
+                  "text": "Kunstmuseum im Stadtzentrum mit Fokus auf regionale und moderne Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        13.256277,
+                        53.555473
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum im Franziskanerkloster",
+                  "text": "Regionalmuseum, das in einem ehemaligen Franziskanerkloster untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.260955,
+                        53.560007
+                  ]
+            },
+            {
+                  "name": "Steinkiste aus der Datze-Niederung",
+                  "text": "Ein prähistorisches Steingrab aus dem Gebiet der Datze-Niederung.",
+                  "category": "historical",
+                  "coords": [
+                        13.252663,
+                        53.546956
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee Strand",
+                  "text": "Als idyllisches Erholungsgebiet zieht der Badestrand am Reitbahnsee an warmen Tagen zahlreiche Gäste aus Neubrandenburg an. Die weitläufigen Rasenflächen und der Zugang zum Wasser bieten ideale Bedingungen für eine entspannte Auszeit im Grünen. Hier mischt sich das fröhliche Lachen von badenden Familien harmonisch mit der ruhigen Naturkulisse. Wer die besten Schattenplätze ergattern möchte, sollte an Hochsommertagen nicht zu spät anreisen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26229,
+                        53.573681
+                  ]
+            },
+            {
+                  "name": "Brodaer Strand",
+                  "text": "Im Stadtteil Broda erstreckt sich dieser beliebte Sandstrand am malerischen Ufer des Tollensesees. Die einladende Umgebung ist ein Paradies für Schwimmer und Sonnenanbeter, die das maritime Flair mitten in Neubrandenburg schätzen. An warmen Wochenenden herrscht hier ein lebhaftes Treiben, das eine wunderbare Kulisse für unbeschwerte Stunden am Wasser bildet. Ein kleiner Spaziergang entlang des Sees rundet den entspannten Strandbesuch ideal ab.",
+                  "category": "recreational",
+                  "coords": [
+                        13.242738,
+                        53.549814
+                  ]
+            },
+            {
+                  "name": "Augustabad",
+                  "text": "Traditionelles Strandbad mit Parkanlagen am Ufer des Tollensesees.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250531,
+                        53.533889
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Ausgewiesener Strandabschnitt für Besucher mit Hunden am Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.237867,
+                        53.547768
+                  ]
+            },
+            {
+                  "name": "Tierhof",
+                  "text": "Ein kleiner Tierpark und Bauernhof in Neubrandenburg, der besonders für Familien geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        13.252383,
+                        53.55211
+                  ]
+            },
+            {
+                  "name": "Tauchspot Wassersportzentrum An der Mole",
+                  "text": "Ein beliebter Tauchplatz und Wassersportstandort am Ufer des Tollensesees.",
+                  "category": "recreational",
+                  "coords": [
+                        13.254874,
+                        53.53785
+                  ]
+            },
+            {
+                  "name": "Kulturpark",
+                  "text": "Zentrale Parkanlage am Tollensesee mit weiten Grünflächen und Erholungsmöglichkeiten.",
+                  "category": "park",
+                  "coords": [
+                        13.254562,
+                        53.549831
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee",
+                  "text": "Der Reitbahnsee in Neubrandenburg bietet Raum für verschiedene Aktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        13.259245,
+                        53.574112
+                  ]
+            },
+            {
+                  "name": "Kiessee",
+                  "text": "Kiessee: ein gefluteter Kiesgrubensee am östlichen Stadtrand von Neubrandenburg.",
+                  "category": "natural",
+                  "coords": [
+                        13.305588,
+                        53.538925
+                  ]
+            },
+            {
+                  "name": "Neveriner See",
+                  "text": "Der Neveriner See bei Neubrandenburg liegt idyllisch in der Mecklenburger Seenplatte.",
+                  "category": "natural",
+                  "coords": [
+                        13.340311,
+                        53.614643
+                  ]
+            },
+            {
+                  "name": "Neon Minigolf",
+                  "text": "Neon Minigolf in Neubrandenburg bietet ein besonderes Spielerlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        13.259201,
+                        53.539494
+                  ]
+            },
+            {
+                  "name": "Spieleria",
+                  "text": "Die Spieleria in Neubrandenburg bietet verschiedene Unterhaltungsmöglichkeiten für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        13.29345,
+                        53.553359
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "Eine Minigolfanlage in Neubrandenburg für sportlichen Freizeitspaß mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        13.247003,
+                        53.531932
+                  ]
+            },
+            {
+                  "name": "Mudder-Schulten Spielplatz",
+                  "text": "Der Mudder-Schulten Spielplatz in Neubrandenburg lädt Kinder zum Entdecken und Spielen ein.",
+                  "category": "family",
+                  "coords": [
+                        13.278287,
+                        53.57793
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Schweineohr",
+                  "text": "Ein familienfreundlicher Spielplatz in Neubrandenburg mit verschiedenen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        13.287897,
+                        53.549799
+                  ]
+            },
+            {
+                  "name": "Hinterste Mühle",
+                  "text": "Dieser Spielplatz in Neubrandenburg bietet Kindern viel Raum für Bewegung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        13.284883,
+                        53.544375
+                  ]
+            },
+            {
+                  "name": "\"Am Stier\"",
+                  "text": "Ein schöner Ort in Neubrandenburg für Familien, die Zeit im Freien verbringen möchten.",
+                  "category": "family",
+                  "coords": [
+                        13.25071,
+                        53.549289
+                  ]
+            },
+            {
+                  "name": "\"Am Dorfteich\"",
+                  "text": "Einladender Spielplatz in Neubrandenburg für einen abwechslungsreichen Ausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        13.204122,
+                        53.56786
+                  ]
+            },
+            {
+                  "name": "\"Am Messeplatz\"",
+                  "text": "Dieser Spielplatz in Neubrandenburg ist ein tolles Ziel für eine aktive Pause mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        13.253859,
+                        53.547228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mária-templom",
+                  "text": "Az egykori plébániatemplom ma koncerttemplomként működik, díjnyertes modern építészeti megoldásokkal.",
+                  "category": "church",
+                  "confidence": "high",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
+            },
+            {
+                  "name": "Friedländeri kapu",
+                  "text": "A négy 15. századi városkapu közül a legjobb állapotban lévő, magas toronnyal és előkapuval.",
+                  "category": "city gate",
+                  "confidence": "high",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
+            },
+            {
+                  "name": "Treptower kapu",
+                  "text": "A legmagasabb városkapu (31 méter), amely ma a városi történeti regionális múzeumnak ad otthont.",
+                  "category": "city gate",
+                  "confidence": "high",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
+            },
+            {
+                  "name": "Tollensesee",
+                  "text": "Népszerű pihenőhely közvetlenül a város kapui előtt, ideális úszáshoz, vitorlázáshoz és túrázáshoz.",
+                  "category": "park",
+                  "confidence": "high",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
+            },
+            {
+                  "name": "Museum Stadtgeschichte",
+                  "text": "Múzeum Neubrandenburg helyi történelméről és fejlődéséről.",
+                  "category": "museum",
+                  "coords": [
+                        13.2535,
+                        53.557101
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Neubrandenburg",
+                  "text": "Mecklenburg-Elő-Pomeránia legrégebbi épségben maradt színházépülete.",
+                  "category": "cultural",
+                  "coords": [
+                        13.263294,
+                        53.555083
+                  ]
+            },
+            {
+                  "name": "Brigitte-Reimann-Literaturhaus",
+                  "text": "Irodalmi múzeum és emlékhely Brigitte Reimann írónő tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        13.266566,
+                        53.553493
+                  ]
+            },
+            {
+                  "name": "Kunstsammlung Neubrandenburg",
+                  "text": "Múzeum a városközpontban, amely a regionális és modern művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        13.256277,
+                        53.555473
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum im Franziskanerkloster",
+                  "text": "Regionális múzeum, amely egy egykori ferences kolostorban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        13.260955,
+                        53.560007
+                  ]
+            },
+            {
+                  "name": "Steinkiste aus der Datze-Niederung",
+                  "text": "Prehisztorikus kősír a Datze-alföld területéről.",
+                  "category": "historical",
+                  "coords": [
+                        13.252663,
+                        53.546956
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee Strand",
+                  "text": "Idylli pihenőövezetként a Reitbahnsee melletti strand meleg napokon számos vendéget vonz Neubrandenburgból. A tágas pázsit és a vízhez való hozzáférés ideális feltételeket teremt egy pihentető, zöldben töltött kikapcsolódáshoz. Itt a fürdőző családok vidám nevetése harmonikusan keveredik a csendes természeti kulisszával. Aki a legjobb árnyékos helyeket szeretné megszerezni, a nyár közepén ne érkezzen túl későn.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26229,
+                        53.573681
+                  ]
+            },
+            {
+                  "name": "Brodaer Strand",
+                  "text": "A Broda városrészben terül el ez a kedvelt homokos strand a Tollensesee festői partján. A hívogató környezet igazi paradicsom az úszók és napozók számára, akik értékelik a tengerparti hangulatot Neubrandenburg közepén. Meleg hétvégéken nyüzsgő élet folyik itt, ami csodálatos hátteret ad a felhőtlen vízparti órákhoz. Egy rövid séta a tó mentén tökéletesen megkoronázza a pihentető strandolást.",
+                  "category": "recreational",
+                  "coords": [
+                        13.242738,
+                        53.549814
+                  ]
+            },
+            {
+                  "name": "Augustabad",
+                  "text": "Tradicionális strandfürdő parkokkal a Tollensesee partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250531,
+                        53.533889
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Kutyások számára kijelölt strandrész a Tollensesee partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.237867,
+                        53.547768
+                  ]
+            },
+            {
+                  "name": "Tierhof",
+                  "text": "Kisméretű állatpark és farm Neubrandenburgban, amely interaktív élményt kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        13.252383,
+                        53.55211
+                  ]
+            },
+            {
+                  "name": "Tauchspot Wassersportzentrum An der Mole",
+                  "text": "Népszerű merülőhely és vízisport-központ a Tollensesee partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.254874,
+                        53.53785
+                  ]
+            },
+            {
+                  "name": "Kulturpark",
+                  "text": "Központi park a Tollensesee partján, amely tágas zöldfelületeket kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        13.254562,
+                        53.549831
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee",
+                  "text": "A neubrandenburgi Reitbahnsee helyet biztosít különféle vízparti tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.259245,
+                        53.574112
+                  ]
+            },
+            {
+                  "name": "Kiessee",
+                  "text": "Kiessee: egy elárasztott kavicsbánya-tó Neubrandenburg keleti szélén.",
+                  "category": "natural",
+                  "coords": [
+                        13.305588,
+                        53.538925
+                  ]
+            },
+            {
+                  "name": "Neveriner See",
+                  "text": "A Neubrandenburg melletti Neveriner-tó idilli környezetben fekszik a Mecklenburgi tóhátságon.",
+                  "category": "natural",
+                  "coords": [
+                        13.340311,
+                        53.614643
+                  ]
+            },
+            {
+                  "name": "Neon Minigolf",
+                  "text": "A neubrandenburgi Neon Minigolf különleges játékélményt kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        13.259201,
+                        53.539494
+                  ]
+            },
+            {
+                  "name": "Spieleria",
+                  "text": "A neubrandenburgi Spieleria különféle szórakozási lehetőségeket kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        13.29345,
+                        53.553359
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "Minigolfpálya Neubrandenburgban a sportos szabadidős szórakozáshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        13.247003,
+                        53.531932
+                  ]
+            },
+            {
+                  "name": "Mudder-Schulten Spielplatz",
+                  "text": "A neubrandenburgi Mudder-Schulten játszótér felfedezésre és játékra hívja a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        13.278287,
+                        53.57793
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Schweineohr",
+                  "text": "Egy családbarát játszótér Neubrandenburgban, különféle játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        13.287897,
+                        53.549799
+                  ]
+            },
+            {
+                  "name": "Hinterste Mühle",
+                  "text": "Ez a neubrandenburgi játszótér sok helyet kínál a gyerekeknek a mozgáshoz és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.284883,
+                        53.544375
+                  ]
+            },
+            {
+                  "name": "\"Am Stier\"",
+                  "text": "Egy szép hely Neubrandenburgban a szabadban időzni vágyó családok számára.",
+                  "category": "family",
+                  "coords": [
+                        13.25071,
+                        53.549289
+                  ]
+            },
+            {
+                  "name": "\"Am Dorfteich\"",
+                  "text": "Hívogató játszótér Neubrandenburgban egy változatos kiránduláshoz a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        13.204122,
+                        53.56786
+                  ]
+            },
+            {
+                  "name": "\"Am Messeplatz\"",
+                  "text": "Ez a neubrandenburgi játszótér remek célpont egy aktív családi pihenőhöz.",
+                  "category": "family",
+                  "coords": [
+                        13.253859,
+                        53.547228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Sf. Maria",
+                  "text": "Fosta biserică parohială servește astăzi drept sală de concerte cu o arhitectură modernă premiată.",
+                  "category": "church",
+                  "confidence": "high",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
+            },
+            {
+                  "name": "Poarta Friedland",
+                  "text": "Cea mai bine conservată dintre cele patru porți ale orașului din secolul al XV-lea, cu un turn înalt.",
+                  "category": "city gate",
+                  "confidence": "high",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
+            },
+            {
+                  "name": "Poarta Treptow",
+                  "text": "Cea mai înaltă poartă (31 m) adăpostește astăzi muzeul regional dedicat istoriei orașului.",
+                  "category": "city gate",
+                  "confidence": "high",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
+            },
+            {
+                  "name": "Lacul Tollense",
+                  "text": "O zonă populară de recreere chiar la porțile orașului, ideală pentru înot, navigație și drumeții.",
+                  "category": "park",
+                  "confidence": "high",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
+            },
+            {
+                  "name": "Museum Stadtgeschichte",
+                  "text": "Muzeu despre istoria locală și dezvoltarea orașului Neubrandenburg.",
+                  "category": "museum",
+                  "coords": [
+                        13.2535,
+                        53.557101
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Neubrandenburg",
+                  "text": "Cea mai veche clădire de teatru conservată din Mecklenburg-Pomerania Inferioară.",
+                  "category": "cultural",
+                  "coords": [
+                        13.263294,
+                        53.555083
+                  ]
+            },
+            {
+                  "name": "Brigitte-Reimann-Literaturhaus",
+                  "text": "Muzeu literar și memorial dedicat scriitoarei Brigitte Reimann.",
+                  "category": "museum",
+                  "coords": [
+                        13.266566,
+                        53.553493
+                  ]
+            },
+            {
+                  "name": "Kunstsammlung Neubrandenburg",
+                  "text": "Muzeu de artă din centrul orașului, axat pe artă regională și modernă.",
+                  "category": "museum",
+                  "coords": [
+                        13.256277,
+                        53.555473
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum im Franziskanerkloster",
+                  "text": "Muzeu regional găzduit într-o fostă mănăstire franciscană.",
+                  "category": "museum",
+                  "coords": [
+                        13.260955,
+                        53.560007
+                  ]
+            },
+            {
+                  "name": "Steinkiste aus der Datze-Niederung",
+                  "text": "Un mormânt preistoric din piatră din zona câmpiei Datze.",
+                  "category": "historical",
+                  "coords": [
+                        13.252663,
+                        53.546956
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee Strand",
+                  "text": "Ca o zonă idilică de recreere, plaja de la Reitbahnsee atrage numeroși oaspeți din Neubrandenburg în zilele calde. Pajiștile întinse și accesul la apă oferă condiții ideale pentru o pauză relaxantă în mijlocul naturii. Râsetele vesele ale familiilor care fac baie se împletesc armonios aici cu peisajul natural liniștit. Cei care doresc să ocupe cele mai bune locuri la umbră nu ar trebui să sosească prea târziu în zilele toride de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26229,
+                        53.573681
+                  ]
+            },
+            {
+                  "name": "Brodaer Strand",
+                  "text": "În cartierul Broda, această plajă populară de nisip se întinde pe malul pitoresc al lacului Tollensesee. Mediul primitor este un paradis pentru înotători și iubitorii de soare care apreciază aerul maritim în inima orașului Neubrandenburg. În weekendurile calde, aici este o agitație plină de viață, formând un decor minunat pentru ore fără griji pe malul apei. O scurtă plimbare de-a lungul lacului completează ideal vizita relaxantă la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.242738,
+                        53.549814
+                  ]
+            },
+            {
+                  "name": "Augustabad",
+                  "text": "Ștrand tradițional cu parcuri pe malul lacului Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250531,
+                        53.533889
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Secțiune de plajă desemnată pentru vizitatorii cu câini pe Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.237867,
+                        53.547768
+                  ]
+            },
+            {
+                  "name": "Tierhof",
+                  "text": "O mică grădină zoologică și fermă în Neubrandenburg, ideală pentru familii cu copii.",
+                  "category": "family",
+                  "coords": [
+                        13.252383,
+                        53.55211
+                  ]
+            },
+            {
+                  "name": "Tauchspot Wassersportzentrum An der Mole",
+                  "text": "Un loc popular pentru scufundări și sporturi nautice pe malul lacului Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.254874,
+                        53.53785
+                  ]
+            },
+            {
+                  "name": "Kulturpark",
+                  "text": "Un parc central pe malul lacului, oferind spații verzi vaste pentru recreere și plimbări.",
+                  "category": "park",
+                  "coords": [
+                        13.254562,
+                        53.549831
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee",
+                  "text": "Reitbahnsee din Neubrandenburg oferă spațiu pentru diverse activități pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        13.259245,
+                        53.574112
+                  ]
+            },
+            {
+                  "name": "Kiessee",
+                  "text": "Kiessee: un lac de groapă de pietriș inundată la marginea de est a Neubrandenburgului.",
+                  "category": "natural",
+                  "coords": [
+                        13.305588,
+                        53.538925
+                  ]
+            },
+            {
+                  "name": "Neveriner See",
+                  "text": "Lacul Neverin de lângă Neubrandenburg este situat idilic în regiunea lacurilor din Mecklenburg.",
+                  "category": "natural",
+                  "coords": [
+                        13.340311,
+                        53.614643
+                  ]
+            },
+            {
+                  "name": "Neon Minigolf",
+                  "text": "Neon Minigolf din Neubrandenburg oferă o experiență de joc deosebită pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        13.259201,
+                        53.539494
+                  ]
+            },
+            {
+                  "name": "Spieleria",
+                  "text": "Spieleria din Neubrandenburg oferă diverse opțiuni de divertisment pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        13.29345,
+                        53.553359
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "Un teren de minigolf în Neubrandenburg pentru distracție sportivă alături de copii.",
+                  "category": "family",
+                  "coords": [
+                        13.247003,
+                        53.531932
+                  ]
+            },
+            {
+                  "name": "Mudder-Schulten Spielplatz",
+                  "text": "Locul de joacă Mudder-Schulten din Neubrandenburg invită copiii la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.278287,
+                        53.57793
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Schweineohr",
+                  "text": "Un loc de joacă pentru familii în Neubrandenburg, cu diverse opțiuni de joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.287897,
+                        53.549799
+                  ]
+            },
+            {
+                  "name": "Hinterste Mühle",
+                  "text": "Acest loc de joacă din Neubrandenburg oferă copiilor mult spațiu pentru mișcare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        13.284883,
+                        53.544375
+                  ]
+            },
+            {
+                  "name": "\"Am Stier\"",
+                  "text": "Un loc frumos în Neubrandenburg pentru familiile care doresc să petreacă timp în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        13.25071,
+                        53.549289
+                  ]
+            },
+            {
+                  "name": "\"Am Dorfteich\"",
+                  "text": "Loc de joacă primitor în Neubrandenburg pentru o excursie variată cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        13.204122,
+                        53.56786
+                  ]
+            },
+            {
+                  "name": "\"Am Messeplatz\"",
+                  "text": "Acest loc de joacă din Neubrandenburg este o destinație excelentă pentru o pauză activă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        13.253859,
+                        53.547228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Mary's Church",
+                  "text": "The former parish church now serves as a concert church with award-winning modern architecture.",
+                  "category": "church",
+                  "confidence": "high",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
+            },
+            {
+                  "name": "Friedland Gate",
+                  "text": "The best-preserved of the four 15th-century city gates, featuring a tall tower and outer gate.",
+                  "category": "city gate",
+                  "confidence": "high",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
+            },
+            {
+                  "name": "Treptow Gate",
+                  "text": "The tallest city gate at 31 meters, now housing the regional museum for urban history.",
+                  "category": "city gate",
+                  "confidence": "high",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
+            },
+            {
+                  "name": "Lake Tollense",
+                  "text": "A popular recreation area right at the city's doorstep, ideal for swimming, sailing, and hiking.",
+                  "category": "park",
+                  "confidence": "high",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
+            },
+            {
+                  "name": "Museum Stadtgeschichte",
+                  "text": "Museum about the local history and development of Neubrandenburg.",
+                  "category": "museum",
+                  "coords": [
+                        13.2535,
+                        53.557101
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus Neubrandenburg",
+                  "text": "The oldest preserved theatre building in Mecklenburg-Vorpommern.",
+                  "category": "cultural",
+                  "coords": [
+                        13.263294,
+                        53.555083
+                  ]
+            },
+            {
+                  "name": "Brigitte-Reimann-Literaturhaus",
+                  "text": "Literary museum and memorial dedicated to the writer Brigitte Reimann.",
+                  "category": "museum",
+                  "coords": [
+                        13.266566,
+                        53.553493
+                  ]
+            },
+            {
+                  "name": "Kunstsammlung Neubrandenburg",
+                  "text": "Art museum in the town center focusing on regional and modern art.",
+                  "category": "museum",
+                  "coords": [
+                        13.256277,
+                        53.555473
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum im Franziskanerkloster",
+                  "text": "Regional museum housed in a former Franciscan monastery.",
+                  "category": "museum",
+                  "coords": [
+                        13.260955,
+                        53.560007
+                  ]
+            },
+            {
+                  "name": "Steinkiste aus der Datze-Niederung",
+                  "text": "A prehistoric stone grave from the Datze lowlands area.",
+                  "category": "historical",
+                  "coords": [
+                        13.252663,
+                        53.546956
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee Strand",
+                  "text": "As an idyllic recreation area, the swimming beach at Lake Reitbahnsee attracts numerous guests from Neubrandenburg on warm days. The expansive lawns and direct water access provide ideal conditions for a relaxing break surrounded by greenery. Here, the cheerful laughter of bathing families blends harmoniously with the quiet natural scenery. If you want to grab the best shady spots, you should not arrive too late on peak summer days.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26229,
+                        53.573681
+                  ]
+            },
+            {
+                  "name": "Brodaer Strand",
+                  "text": "In the Broda district, this popular sandy beach stretches along the picturesque shores of Lake Tollensesee. The inviting environment is a paradise for swimmers and sunbathers who appreciate a maritime flair right in the middle of Neubrandenburg. On warm weekends, there is a lively hustle and bustle here, forming a wonderful backdrop for carefree hours by the water. A short walk along the lake perfectly rounds off a relaxing beach visit.",
+                  "category": "recreational",
+                  "coords": [
+                        13.242738,
+                        53.549814
+                  ]
+            },
+            {
+                  "name": "Augustabad",
+                  "text": "Traditional lakeside bathing beach with parks on the Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.250531,
+                        53.533889
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Designated beach section for visitors with dogs on Lake Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.237867,
+                        53.547768
+                  ]
+            },
+            {
+                  "name": "Tierhof",
+                  "text": "A small animal park and farm in Neubrandenburg, popular for family visits.",
+                  "category": "family",
+                  "coords": [
+                        13.252383,
+                        53.55211
+                  ]
+            },
+            {
+                  "name": "Tauchspot Wassersportzentrum An der Mole",
+                  "text": "A popular diving spot and water sports center on the shores of Lake Tollensesee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.254874,
+                        53.53785
+                  ]
+            },
+            {
+                  "name": "Kulturpark",
+                  "text": "A central park by the lake offering extensive green spaces and recreation areas.",
+                  "category": "park",
+                  "coords": [
+                        13.254562,
+                        53.549831
+                  ]
+            },
+            {
+                  "name": "Reitbahnsee",
+                  "text": "The Reitbahnsee in Neubrandenburg offers space for various activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        13.259245,
+                        53.574112
+                  ]
+            },
+            {
+                  "name": "Kiessee",
+                  "text": "Kiessee: a flooded gravel-pit lake on the eastern edge of Neubrandenburg.",
+                  "category": "natural",
+                  "coords": [
+                        13.305588,
+                        53.538925
+                  ]
+            },
+            {
+                  "name": "Neveriner See",
+                  "text": "The Neverin lake near Neubrandenburg is idyllically located in the Mecklenburg Lake District.",
+                  "category": "natural",
+                  "coords": [
+                        13.340311,
+                        53.614643
+                  ]
+            },
+            {
+                  "name": "Neon Minigolf",
+                  "text": "Neon Minigolf in Neubrandenburg offers a special gaming experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        13.259201,
+                        53.539494
+                  ]
+            },
+            {
+                  "name": "Spieleria",
+                  "text": "The Spieleria in Neubrandenburg offers various entertainment options for visitors.",
+                  "category": "family",
+                  "coords": [
+                        13.29345,
+                        53.553359
+                  ]
+            },
+            {
+                  "name": "Mini-Golf",
+                  "text": "A miniature golf course in Neubrandenburg for sporting leisure fun with children.",
+                  "category": "family",
+                  "coords": [
+                        13.247003,
+                        53.531932
+                  ]
+            },
+            {
+                  "name": "Mudder-Schulten Spielplatz",
+                  "text": "The Mudder-Schulten playground in Neubrandenburg invites children to discover and play.",
+                  "category": "family",
+                  "coords": [
+                        13.278287,
+                        53.57793
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Schweineohr",
+                  "text": "A family-friendly playground in Neubrandenburg with various play options.",
+                  "category": "family",
+                  "coords": [
+                        13.287897,
+                        53.549799
+                  ]
+            },
+            {
+                  "name": "Hinterste Mühle",
+                  "text": "This playground in Neubrandenburg offers children plenty of space for movement and play.",
+                  "category": "family",
+                  "coords": [
+                        13.284883,
+                        53.544375
+                  ]
+            },
+            {
+                  "name": "\"Am Stier\"",
+                  "text": "A nice place in Neubrandenburg for families who want to spend time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        13.25071,
+                        53.549289
+                  ]
+            },
+            {
+                  "name": "\"Am Dorfteich\"",
+                  "text": "Inviting playground in Neubrandenburg for a varied outing with children.",
+                  "category": "family",
+                  "coords": [
+                        13.204122,
+                        53.56786
+                  ]
+            },
+            {
+                  "name": "\"Am Messeplatz\"",
+                  "text": "This playground in Neubrandenburg is a great destination for an active break with the family.",
+                  "category": "family",
+                  "coords": [
+                        13.253859,
+                        53.547228
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Marien Kilisesi",
+                  "text": "Eski bölge kilisesi günümüzde ödüllü modern mimarisiyle bir konser kilisesi olarak hizmet vermektedir.",
+                  "category": "church",
+                  "coords": [
+                        13.26046,
+                        53.55569
+                  ]
+            },
+            {
+                  "name": "Friedland Kapısı",
+                  "text": "15. yüzyıldan kalma dört şehir kapısının en iyi korunmuş olanı olup yüksek bir kulesi ve ön kapısı vardır.",
+                  "category": "city gate",
+                  "coords": [
+                        13.2655,
+                        53.5591
+                  ]
+            },
+            {
+                  "name": "Treptow Kapısı",
+                  "text": "31 metre ile en yüksek şehir kapısı olup günümüzde bölgesel şehir tarihi müzesine ev sahipliği yapar.",
+                  "category": "city gate",
+                  "coords": [
+                        13.255,
+                        53.557
+                  ]
+            },
+            {
+                  "name": "Tollense Gölü",
+                  "text": "Şehir kapılarının hemen önündeki popüler rekreasyon alanı; yüzme, yelken ve yürüyüş için idealdir.",
+                  "category": "park",
+                  "coords": [
+                        13.211389,
+                        53.507222
+                  ]
+            }
+      ]
+}
   },
   {
     id: "animal-habitat-mv-kraniche-extra",
@@ -2061,7 +3168,7 @@ export const poiExtraDe3a: POI[] = [
       "de": [
             {
                   "name": "Luisenbad",
-                  "text": "Das Luisenbad befindet sich in Schleswig.",
+                  "text": "Luisenbad: ein historisches Hallenbad in Schleswig direkt neben dem Dom.",
                   "category": "recreational",
                   "coords": [
                         9.559075,
@@ -2072,7 +3179,7 @@ export const poiExtraDe3a: POI[] = [
       "hu": [
             {
                   "name": "Luisenbad",
-                  "text": "A Luisenbad Schleswigben található.",
+                  "text": "Luisenbad: egy történelmi fedett uszoda Schleswigben, közvetlenül a dóm mellett.",
                   "category": "recreational",
                   "coords": [
                         9.559075,
@@ -2083,7 +3190,7 @@ export const poiExtraDe3a: POI[] = [
       "ro": [
             {
                   "name": "Luisenbad",
-                  "text": "Luisenbad se află în Schleswig.",
+                  "text": "Luisenbad: o piscină interioară istorică în Schleswig, chiar lângă catedrală.",
                   "category": "recreational",
                   "coords": [
                         9.559075,
@@ -2094,7 +3201,7 @@ export const poiExtraDe3a: POI[] = [
       "en": [
             {
                   "name": "Luisenbad",
-                  "text": "The Luisenbad is located in Schleswig.",
+                  "text": "Luisenbad: a historic indoor swimming pool in Schleswig, right next to the cathedral.",
                   "category": "recreational",
                   "coords": [
                         9.559075,
@@ -2230,7 +3337,7 @@ export const poiExtraDe3a: POI[] = [
       "de": [
             {
                   "name": "Drachenstrand",
-                  "text": "Drachenstrand auf der Insel Föhr.",
+                  "text": "Drachenstrand: ein Sandstrand auf der Nordseeinsel Föhr, beliebt zum Drachensteigen.",
                   "category": "recreational",
                   "coords": [
                         8.541979,
@@ -2239,7 +3346,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Raucherstrand",
-                  "text": "Raucherstrand auf der Insel Föhr.",
+                  "text": "Raucherstrand: ein ausgewiesener Raucherstrand auf der Nordseeinsel Föhr.",
                   "category": "recreational",
                   "coords": [
                         8.537763,
@@ -2313,7 +3420,7 @@ export const poiExtraDe3a: POI[] = [
       "hu": [
             {
                   "name": "Drachenstrand",
-                  "text": "Drachenstrand strand a Föhr szigeten.",
+                  "text": "Drachenstrand: homokos strand az Északi-tengeri Föhr szigetén, népszerű sárkányeregetésre.",
                   "category": "recreational",
                   "coords": [
                         8.541979,
@@ -2322,7 +3429,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Raucherstrand",
-                  "text": "Raucherstrand strand a Föhr szigeten.",
+                  "text": "Raucherstrand: kijelölt dohányzó strand az Északi-tengeri Föhr szigetén.",
                   "category": "recreational",
                   "coords": [
                         8.537763,
@@ -2396,7 +3503,7 @@ export const poiExtraDe3a: POI[] = [
       "ro": [
             {
                   "name": "Drachenstrand",
-                  "text": "Plaja Drachenstrand pe insula Föhr.",
+                  "text": "Drachenstrand: o plajă cu nisip pe insula Föhr din Marea Nordului, populară pentru zmeie.",
                   "category": "recreational",
                   "coords": [
                         8.541979,
@@ -2405,7 +3512,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Raucherstrand",
-                  "text": "Plaja Raucherstrand pe insula Föhr.",
+                  "text": "Raucherstrand: o plajă destinată fumătorilor pe insula Föhr din Marea Nordului.",
                   "category": "recreational",
                   "coords": [
                         8.537763,
@@ -2479,7 +3586,7 @@ export const poiExtraDe3a: POI[] = [
       "en": [
             {
                   "name": "Drachenstrand",
-                  "text": "Drachenstrand beach on the island of Föhr.",
+                  "text": "Drachenstrand: a sandy beach on the North Sea island of Föhr, popular for kite flying.",
                   "category": "recreational",
                   "coords": [
                         8.541979,
@@ -2488,7 +3595,7 @@ export const poiExtraDe3a: POI[] = [
             },
             {
                   "name": "Raucherstrand",
-                  "text": "Raucherstrand beach on the island of Föhr.",
+                  "text": "Raucherstrand: a designated smoking beach on the North Sea island of Föhr.",
                   "category": "recreational",
                   "coords": [
                         8.537763,
@@ -2687,7 +3794,7 @@ export const poiExtraDe3a: POI[] = [
       "de": [
             {
                   "name": "Bäckerstrand",
-                  "text": "Der Bäckerstrand befindet sich in der Nähe des historischen Haithabu.",
+                  "text": "Bäckerstrand: ein Strand an der Schlei nahe dem Wikinger-Museum Haithabu.",
                   "category": "recreational",
                   "coords": [
                         9.600299,
@@ -2698,7 +3805,7 @@ export const poiExtraDe3a: POI[] = [
       "hu": [
             {
                   "name": "Bäckerstrand",
-                  "text": "A Bäckerstrand a történelmi Haithabu közelében található.",
+                  "text": "Bäckerstrand: egy strand a Schlei partján, a Haithabu Viking Múzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         9.600299,
@@ -2709,7 +3816,7 @@ export const poiExtraDe3a: POI[] = [
       "ro": [
             {
                   "name": "Bäckerstrand",
-                  "text": "Bäckerstrand se află în apropierea istoricului Haithabu.",
+                  "text": "Bäckerstrand: o plajă pe malul Schleiu, lângă Muzeul Viking Haithabu.",
                   "category": "recreational",
                   "coords": [
                         9.600299,
@@ -2720,7 +3827,7 @@ export const poiExtraDe3a: POI[] = [
       "en": [
             {
                   "name": "Bäckerstrand",
-                  "text": "Bäckerstrand is located near historic Haithabu.",
+                  "text": "Bäckerstrand: a beach on the Schlei inlet near the Viking Museum Haithabu.",
                   "category": "recreational",
                   "coords": [
                         9.600299,
@@ -4372,7 +5479,7 @@ export const poiExtraDe3a: POI[] = [
       "de": [
             {
                   "name": "Övelgönne",
-                  "text": "Övelgönne ist ein bekannter Strandabschnitt im Hamburger Hafen.",
+                  "text": "Övelgönne: eine Uferpromenade an der Elbe im Hamburger Stadtteil Altona.",
                   "category": "recreational",
                   "coords": [
                         9.90596,
@@ -4383,7 +5490,7 @@ export const poiExtraDe3a: POI[] = [
       "hu": [
             {
                   "name": "Övelgönne",
-                  "text": "Övelgönne egy közismert partszakasz a hamburgi kikötőben.",
+                  "text": "Övelgönne: egy folyóparti sétány az Elba partján, Hamburg Altona negyedében.",
                   "category": "recreational",
                   "coords": [
                         9.90596,
@@ -4394,7 +5501,7 @@ export const poiExtraDe3a: POI[] = [
       "ro": [
             {
                   "name": "Övelgönne",
-                  "text": "Övelgönne este o zonă de plajă cunoscută în portul Hamburg.",
+                  "text": "Övelgönne: o promenadă pe malul Elbei în cartierul Altona din Hamburg.",
                   "category": "recreational",
                   "coords": [
                         9.90596,
@@ -4405,7 +5512,7 @@ export const poiExtraDe3a: POI[] = [
       "en": [
             {
                   "name": "Övelgönne",
-                  "text": "Övelgönne is a well-known beach section in the port of Hamburg.",
+                  "text": "Övelgönne: a riverside promenade on the Elbe in Hamburg's Altona district.",
                   "category": "recreational",
                   "coords": [
                         9.90596,

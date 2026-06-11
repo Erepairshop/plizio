@@ -710,7 +710,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Warrior",
-                  "text": "Warrior ist ein Aussichtspunkt in Luque.",
+                  "text": "Krieger, eine natürliche Felsformation, die einem Krieger ähnelt, in Luque.",
                   "category": "natural",
                   "coords": [
                         -57.489576,
@@ -719,7 +719,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Artes Cascanueces",
-                  "text": "Centro de Artes Cascanueces ist ein Kunstzentrum in Luque.",
+                  "text": "Centro de Artes Cascanueces, ein kulturelles Kunstzentrum in Luque.",
                   "category": "cultural",
                   "coords": [
                         -57.493055,
@@ -739,7 +739,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Warrior",
-                  "text": "A Warrior egy kilátópont Luque városában.",
+                  "text": "Harcos, egy természetes sziklaformáció, amely egy harcosra hasonlít, Luque-ban.",
                   "category": "natural",
                   "coords": [
                         -57.489576,
@@ -748,7 +748,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Artes Cascanueces",
-                  "text": "A Centro de Artes Cascanueces egy művészeti központ Luque városában.",
+                  "text": "Centro de Artes Cascanueces, egy kulturális művészeti központ Luque-ban.",
                   "category": "cultural",
                   "coords": [
                         -57.493055,
@@ -768,7 +768,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Warrior",
-                  "text": "Warrior este un punct de belvedere situat în Luque.",
+                  "text": "Războinic, o formațiune naturală de stâncă asemănătoare unui războinic în Luque.",
                   "category": "natural",
                   "coords": [
                         -57.489576,
@@ -777,7 +777,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Artes Cascanueces",
-                  "text": "Centro de Artes Cascanueces este un centru de artă situat în Luque.",
+                  "text": "Centro de Artes Cascanueces, un centru cultural de arte în Luque.",
                   "category": "cultural",
                   "coords": [
                         -57.493055,
@@ -797,7 +797,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Warrior",
-                  "text": "Warrior is a viewpoint located in Luque.",
+                  "text": "Warrior, a natural rock formation resembling a warrior in Luque.",
                   "category": "natural",
                   "coords": [
                         -57.489576,
@@ -806,7 +806,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Artes Cascanueces",
-                  "text": "Centro de Artes Cascanueces is an arts centre located in Luque.",
+                  "text": "Centro de Artes Cascanueces, a cultural arts center in Luque.",
                   "category": "cultural",
                   "coords": [
                         -57.493055,
@@ -913,7 +913,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Paseo del Barro",
-                  "text": "Museum in Lambaré.",
+                  "text": "Paseo del Barro, ein Museum für Ton- und Keramikkunst in Lambaré.",
                   "category": "museum",
                   "coords": [
                         -57.612818,
@@ -922,7 +922,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "cacique Lambare",
-                  "text": "Denkmal für Häuptling Lambaré.",
+                  "text": "Cacique Lambaré, ein historisches Denkmal für den indigenen Häuptling in Lambaré.",
                   "category": "historical",
                   "coords": [
                         -57.625348,
@@ -931,7 +931,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia San Nicolás y Santa Maria",
-                  "text": "Kirche in Lambaré.",
+                  "text": "Die Iglesia San Nicolás y Santa Maria in Lambaré ist eine katholische Kirche im Zentrum der Stadt.",
                   "category": "religious",
                   "coords": [
                         -57.628463,
@@ -942,7 +942,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Paseo del Barro",
-                  "text": "Múzeum Lambaréban.",
+                  "text": "Paseo del Barro, egy agyag- és kerámiaművészeti múzeum Lambaréban.",
                   "category": "museum",
                   "coords": [
                         -57.612818,
@@ -951,7 +951,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "cacique Lambare",
-                  "text": "Emlékmű Lambaré törzsfőnök tiszteletére.",
+                  "text": "Cacique Lambaré, egy történelmi emlékmű az őslakos törzsfőnök tiszteletére Lambaréban.",
                   "category": "historical",
                   "coords": [
                         -57.625348,
@@ -960,7 +960,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia San Nicolás y Santa Maria",
-                  "text": "Templom Lambaréban.",
+                  "text": "Az Iglesia San Nicolás y Santa Maria Lambaréban egy katolikus templom a város központjában.",
                   "category": "religious",
                   "coords": [
                         -57.628463,
@@ -971,7 +971,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Paseo del Barro",
-                  "text": "Muzeu în Lambaré.",
+                  "text": "Paseo del Barro, un muzeu de artă din lut și ceramică în Lambaré.",
                   "category": "museum",
                   "coords": [
                         -57.612818,
@@ -980,7 +980,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "cacique Lambare",
-                  "text": "Monument în onoarea căpeteniei Lambaré.",
+                  "text": "Cacique Lambaré, un monument istoric dedicat șefului indigen din Lambaré.",
                   "category": "historical",
                   "coords": [
                         -57.625348,
@@ -989,7 +989,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia San Nicolás y Santa Maria",
-                  "text": "Biserică în Lambaré.",
+                  "text": "Iglesia San Nicolás y Santa Maria din Lambare este o biserică catolică în centrul orașului.",
                   "category": "religious",
                   "coords": [
                         -57.628463,
@@ -1000,7 +1000,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Paseo del Barro",
-                  "text": "Museum in Lambaré.",
+                  "text": "Paseo del Barro, a museum of clay and ceramic art in Lambaré.",
                   "category": "museum",
                   "coords": [
                         -57.612818,
@@ -1009,7 +1009,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "cacique Lambare",
-                  "text": "Monument honoring Chief Lambaré.",
+                  "text": "Cacique Lambaré, a historical monument to the indigenous chief in Lambaré.",
                   "category": "historical",
                   "coords": [
                         -57.625348,
@@ -1018,7 +1018,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia San Nicolás y Santa Maria",
-                  "text": "Church in Lambaré.",
+                  "text": "Iglesia San Nicolás y Santa Maria in Lambare, a Catholic church in the town center.",
                   "category": "religious",
                   "coords": [
                         -57.628463,
@@ -1165,7 +1165,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Kulturhaus in Ñemby.",
+                  "text": "Casa de la Cultura, ein Kulturmuseum in Nemby.",
                   "category": "museum",
                   "coords": [
                         -57.546004,
@@ -1176,7 +1176,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Kulturális központ Ñembyben.",
+                  "text": "Casa de la Cultura, egy kulturális múzeum Nembyben.",
                   "category": "museum",
                   "coords": [
                         -57.546004,
@@ -1187,7 +1187,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Centru cultural în Ñemby.",
+                  "text": "Casa de la Cultura, un muzeu cultural în Nemby.",
                   "category": "museum",
                   "coords": [
                         -57.546004,
@@ -1198,7 +1198,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Cultural center in Ñemby.",
+                  "text": "Casa de la Cultura, a cultural museum in Nemby.",
                   "category": "museum",
                   "coords": [
                         -57.546004,
@@ -1296,7 +1296,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Escenario de la Parroquia Sagrado Corazón de Jesús",
-                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús ist ein Theater in Mariano Roque Alonso.",
+                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús, eine kulturelle Bühne an der Kirche in Roque Alonso.",
                   "category": "cultural",
                   "coords": [
                         -57.535124,
@@ -1305,7 +1305,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
-                  "text": "Asociación Rural del Paraguay - EXPO - Rodeo Central ist eine Sehenswürdigkeit in Mariano Roque Alonso.",
+                  "text": "Asociación Rural del Paraguay EXPO Rodeo Central, ein bedeutendes Ausstellungs- und Rodeogelände in Roque Alonso.",
                   "category": "landmark",
                   "coords": [
                         -57.532174,
@@ -1325,7 +1325,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Escenario de la Parroquia Sagrado Corazón de Jesús",
-                  "text": "Az Escenario de la Parroquia Sagrado Corazón de Jesús egy színház Mariano Roque Alonsóban.",
+                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús, egy kulturális színpad a templomnál Roque Alonsóban.",
                   "category": "cultural",
                   "coords": [
                         -57.535124,
@@ -1334,7 +1334,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
-                  "text": "Az Asociación Rural del Paraguay - EXPO - Rodeo Central egy látványosság Mariano Roque Alonsóban.",
+                  "text": "Asociación Rural del Paraguay EXPO Rodeo Central, egy jelentős kiállítási és rodeó helyszín Roque Alonsóban.",
                   "category": "landmark",
                   "coords": [
                         -57.532174,
@@ -1354,7 +1354,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Escenario de la Parroquia Sagrado Corazón de Jesús",
-                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús este un teatru din Mariano Roque Alonso.",
+                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús, o scenă culturală la biserica din Roque Alonso.",
                   "category": "cultural",
                   "coords": [
                         -57.535124,
@@ -1363,7 +1363,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
-                  "text": "Asociación Rural del Paraguay - EXPO - Rodeo Central este o atracție aflată în Mariano Roque Alonso.",
+                  "text": "Asociación Rural del Paraguay EXPO Rodeo Central, un important teren de expoziții și rodeo în Roque Alonso.",
                   "category": "landmark",
                   "coords": [
                         -57.532174,
@@ -1383,7 +1383,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Escenario de la Parroquia Sagrado Corazón de Jesús",
-                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús is a theatre in Mariano Roque Alonso.",
+                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús, a cultural stage at the church in Roque Alonso.",
                   "category": "cultural",
                   "coords": [
                         -57.535124,
@@ -1392,7 +1392,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
-                  "text": "Asociación Rural del Paraguay - EXPO - Rodeo Central is an attraction found in Mariano Roque Alonso.",
+                  "text": "Asociación Rural del Paraguay EXPO Rodeo Central, a major exhibition and rodeo venue in Roque Alonso.",
                   "category": "landmark",
                   "coords": [
                         -57.532174,
@@ -1542,7 +1542,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Estatua Monumento de la Batalla de Ytororó",
-                  "text": "Die Estatua Monumento de la Batalla de Ytororó ist ein Denkmal in Ypané.",
+                  "text": "Estatua Monumento de la Batalla de Ytororó, ein historisches Denkmal in Ypané.",
                   "category": "historical",
                   "coords": [
                         -57.534394,
@@ -1553,7 +1553,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Estatua Monumento de la Batalla de Ytororó",
-                  "text": "Az Estatua Monumento de la Batalla de Ytororó egy emlékmű Ypané városában.",
+                  "text": "Estatua Monumento de la Batalla de Ytororó, egy történelmi emlékmű Ypanéban.",
                   "category": "historical",
                   "coords": [
                         -57.534394,
@@ -1564,7 +1564,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Estatua Monumento de la Batalla de Ytororó",
-                  "text": "Estatua Monumento de la Batalla de Ytororó este un monument situat în Ypané.",
+                  "text": "Estatua Monumento de la Batalla de Ytororó, un monument istoric în Ypané.",
                   "category": "historical",
                   "coords": [
                         -57.534394,
@@ -1575,7 +1575,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Estatua Monumento de la Batalla de Ytororó",
-                  "text": "The Estatua Monumento de la Batalla de Ytororó is a monument located in Ypané.",
+                  "text": "Estatua Monumento de la Batalla de Ytororó, a historical monument in Ypané.",
                   "category": "historical",
                   "coords": [
                         -57.534394,
@@ -1722,7 +1722,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dilapidated railway",
-                  "text": "Die Dilapidated railway ist eine Sehenswürdigkeit in Ypacaraí.",
+                  "text": "Verfallene Eisenbahn, ein verlassener Eisenbahn-Orientierungspunkt in Ypacaraí.",
                   "category": "landmark",
                   "coords": [
                         -57.28755,
@@ -1733,7 +1733,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dilapidated railway",
-                  "text": "A Dilapidated railway egy látványosság Ypacaraíban.",
+                  "text": "Leromlott vasút, egy elhagyott vasúti nevezetesség Ypacaraíban.",
                   "category": "landmark",
                   "coords": [
                         -57.28755,
@@ -1744,7 +1744,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dilapidated railway",
-                  "text": "Dilapidated railway este o atracție situată în Ypacaraí.",
+                  "text": "Cale ferată dărăpănată, un reper feroviar abandonat în Ypacaraí.",
                   "category": "landmark",
                   "coords": [
                         -57.28755,
@@ -1755,7 +1755,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dilapidated railway",
-                  "text": "The Dilapidated railway is an attraction located in Ypacaraí.",
+                  "text": "Dilapidated railway, an abandoned railway landmark in Ypacaraí.",
                   "category": "landmark",
                   "coords": [
                         -57.28755,
@@ -1810,7 +1810,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Auditorio Municipal Mauro Cespedes",
-                  "text": "Theater in Presidente Franco.",
+                  "text": "Auditorio Municipal Mauro Céspedes, ein städtisches Kultur-Auditorium in Presidente Franco.",
                   "category": "cultural",
                   "coords": [
                         -54.614264,
@@ -1819,7 +1819,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Mangoré",
-                  "text": "Kulturzentrum in Presidente Franco.",
+                  "text": "Centro Cultural Mangoré, ein Kulturzentrum in Presidente Franco.",
                   "category": "cultural",
                   "coords": [
                         -54.61647,
@@ -1828,7 +1828,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Municipal Monday",
-                  "text": "Naturschutzgebiet in Presidente Franco.",
+                  "text": "Parque Municipal Monday, ein Stadtpark entlang des Monday-Flusses in Presidente Franco.",
                   "category": "natural",
                   "coords": [
                         -54.632764,
@@ -1837,7 +1837,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Saltos del Monday",
-                  "text": "Beeindruckende Wasserfälle bei Presidente Franco.",
+                  "text": "Saltos del Monday sind Wasserfälle am Río Monday nahe Franco.",
                   "category": "landmark",
                   "coords": [
                         -54.63237,
@@ -1846,7 +1846,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Las Maravillas",
-                  "text": "Strandresort in Presidente Franco.",
+                  "text": "Las Maravillas, ein Erholungspark in Presidente Franco.",
                   "category": "recreational",
                   "coords": [
                         -54.617497,
@@ -1855,7 +1855,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Arts",
-                  "text": "Kunstgalerie in Presidente Franco.",
+                  "text": "Arts, ein Museum der bildenden Künste in Presidente Franco.",
                   "category": "museum",
                   "coords": [
                         -54.609232,
@@ -1866,7 +1866,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Auditorio Municipal Mauro Cespedes",
-                  "text": "Színház Presidente Francóban.",
+                  "text": "Auditorio Municipal Mauro Céspedes, egy önkormányzati kulturális színházterem Presidente Francóban.",
                   "category": "cultural",
                   "coords": [
                         -54.614264,
@@ -1875,7 +1875,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Mangoré",
-                  "text": "Kulturális központ Presidente Francóban.",
+                  "text": "Centro Cultural Mangoré, egy kulturális központ Presidente Francóban.",
                   "category": "cultural",
                   "coords": [
                         -54.61647,
@@ -1884,7 +1884,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Municipal Monday",
-                  "text": "Természetvédelmi park Presidente Francóban.",
+                  "text": "Parque Municipal Monday, egy városi park a Monday folyó mentén Presidente Francóban.",
                   "category": "natural",
                   "coords": [
                         -54.632764,
@@ -1893,7 +1893,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Saltos del Monday",
-                  "text": "Lenyűgöző vízesések Presidente Franco közelében.",
+                  "text": "Saltos del Monday vízesések a Monday folyón Franco közelében.",
                   "category": "landmark",
                   "coords": [
                         -54.63237,
@@ -1902,7 +1902,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Las Maravillas",
-                  "text": "Üdülőhely Presidente Francóban.",
+                  "text": "Las Maravillas, egy szabadidőpark Presidente Francóban.",
                   "category": "recreational",
                   "coords": [
                         -54.617497,
@@ -1911,7 +1911,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Arts",
-                  "text": "Művészeti galéria Presidente Francóban.",
+                  "text": "Arts, egy képzőművészeti múzeum Presidente Francóban.",
                   "category": "museum",
                   "coords": [
                         -54.609232,
@@ -1922,7 +1922,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Auditorio Municipal Mauro Cespedes",
-                  "text": "Teatru în Presidente Franco.",
+                  "text": "Auditorio Municipal Mauro Céspedes, un auditoriu cultural municipal în Presidente Franco.",
                   "category": "cultural",
                   "coords": [
                         -54.614264,
@@ -1931,7 +1931,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Mangoré",
-                  "text": "Centru cultural în Presidente Franco.",
+                  "text": "Centro Cultural Mangoré, un centru cultural în Presidente Franco.",
                   "category": "cultural",
                   "coords": [
                         -54.61647,
@@ -1940,7 +1940,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Municipal Monday",
-                  "text": "Rezervație naturală în Presidente Franco.",
+                  "text": "Parque Municipal Monday, un parc municipal de-a lungul râului Monday în Presidente Franco.",
                   "category": "natural",
                   "coords": [
                         -54.632764,
@@ -1949,7 +1949,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Saltos del Monday",
-                  "text": "Cascade impresionante lângă Presidente Franco.",
+                  "text": "Saltos del Monday sunt cascade pe râul Monday lângă Franco.",
                   "category": "landmark",
                   "coords": [
                         -54.63237,
@@ -1958,7 +1958,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Las Maravillas",
-                  "text": "Stațiune pe plajă în Presidente Franco.",
+                  "text": "Las Maravillas, un parc de agrement în Presidente Franco.",
                   "category": "recreational",
                   "coords": [
                         -54.617497,
@@ -1967,7 +1967,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Arts",
-                  "text": "Galerie de artă în Presidente Franco.",
+                  "text": "Arts, un muzeu de arte plastice în Presidente Franco.",
                   "category": "museum",
                   "coords": [
                         -54.609232,
@@ -1978,7 +1978,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Auditorio Municipal Mauro Cespedes",
-                  "text": "Theater in Presidente Franco.",
+                  "text": "Auditorio Municipal Mauro Céspedes, a municipal cultural auditorium in Presidente Franco.",
                   "category": "cultural",
                   "coords": [
                         -54.614264,
@@ -1987,7 +1987,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Mangoré",
-                  "text": "Cultural center in Presidente Franco.",
+                  "text": "Centro Cultural Mangoré, a cultural center in Presidente Franco.",
                   "category": "cultural",
                   "coords": [
                         -54.61647,
@@ -1996,7 +1996,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Municipal Monday",
-                  "text": "Nature reserve in Presidente Franco.",
+                  "text": "Parque Municipal Monday, a municipal park along the Monday River in Presidente Franco.",
                   "category": "natural",
                   "coords": [
                         -54.632764,
@@ -2005,7 +2005,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Saltos del Monday",
-                  "text": "Impressive waterfalls near Presidente Franco.",
+                  "text": "Saltos del Monday are waterfalls on the Monday River near Franco.",
                   "category": "landmark",
                   "coords": [
                         -54.63237,
@@ -2014,7 +2014,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Las Maravillas",
-                  "text": "Beach resort in Presidente Franco.",
+                  "text": "Las Maravillas, a recreational park in Presidente Franco.",
                   "category": "recreational",
                   "coords": [
                         -54.617497,
@@ -2023,7 +2023,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Arts",
-                  "text": "Art gallery in Presidente Franco.",
+                  "text": "Arts, a museum of fine arts in Presidente Franco.",
                   "category": "museum",
                   "coords": [
                         -54.609232,
@@ -2190,7 +2190,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Ka i Puente Ex Ferrocarril",
-                  "text": "Museum in Coronel Bogado.",
+                  "text": "Museo Ka i Puente Ex Ferrocarril, ein Museum in einer ehemaligen Eisenbahnbrücke in Bogado.",
                   "category": "museum",
                   "coords": [
                         -56.240309,
@@ -2201,7 +2201,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Ka i Puente Ex Ferrocarril",
-                  "text": "Múzeum Coronel Bogadóban.",
+                  "text": "Museo Ka i Puente Ex Ferrocarril, egy múzeum egy egykori vasúti hídban Bogadóban.",
                   "category": "museum",
                   "coords": [
                         -56.240309,
@@ -2212,7 +2212,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Ka i Puente Ex Ferrocarril",
-                  "text": "Muzeu în Coronel Bogado.",
+                  "text": "Museo Ka i Puente Ex Ferrocarril, un muzeu găzduit într-un fost pod feroviar în Bogado.",
                   "category": "museum",
                   "coords": [
                         -56.240309,
@@ -2223,7 +2223,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Ka i Puente Ex Ferrocarril",
-                  "text": "Museum in Coronel Bogado.",
+                  "text": "Museo Ka i Puente Ex Ferrocarril, a museum housed in a former railway bridge in Bogado.",
                   "category": "museum",
                   "coords": [
                         -56.240309,
@@ -2411,7 +2411,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo de Curuguaty",
-                  "text": "Museo de Curuguaty ist ein Museum in Curuguaty.",
+                  "text": "Museo de Curuguaty, ein Museum zur Geschichte von Curuguaty.",
                   "category": "museum",
                   "coords": [
                         -55.694584,
@@ -2422,7 +2422,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo de Curuguaty",
-                  "text": "A Museo de Curuguaty egy múzeum Curuguaty városában.",
+                  "text": "Museo de Curuguaty, egy múzeum Curuguaty történelmének bemutatására.",
                   "category": "museum",
                   "coords": [
                         -55.694584,
@@ -2433,7 +2433,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo de Curuguaty",
-                  "text": "Museo de Curuguaty este un muzeu situat în Curuguaty.",
+                  "text": "Museo de Curuguaty, un muzeu care prezintă istoria orașului Curuguaty.",
                   "category": "museum",
                   "coords": [
                         -55.694584,
@@ -2444,7 +2444,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo de Curuguaty",
-                  "text": "Museo de Curuguaty is a museum located in Curuguaty.",
+                  "text": "Museo de Curuguaty, a museum showcasing the history of Curuguaty.",
                   "category": "museum",
                   "coords": [
                         -55.694584,
@@ -2500,7 +2500,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monumento Batalla de Acosta Ñu",
-                  "text": "Das Monumento Batalla de Acosta Ñu ist ein historisches Denkmal in Eusebio Ayala.",
+                  "text": "Monumento Batalla de Acosta Ñu, ein historisches Denkmal in Ayala.",
                   "category": "historical",
                   "coords": [
                         -56.962883,
@@ -2511,7 +2511,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento Batalla de Acosta Ñu",
-                  "text": "A Monumento Batalla de Acosta Ñu egy történelmi emlékmű Eusebio Ayalában.",
+                  "text": "Monumento Batalla de Acosta Ñu, egy történelmi emlékmű Ayalában.",
                   "category": "historical",
                   "coords": [
                         -56.962883,
@@ -2522,7 +2522,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento Batalla de Acosta Ñu",
-                  "text": "Monumento Batalla de Acosta Ñu este un monument istoric din Eusebio Ayala.",
+                  "text": "Monumento Batalla de Acosta Ñu, un monument istoric în Ayala.",
                   "category": "historical",
                   "coords": [
                         -56.962883,
@@ -2533,7 +2533,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monumento Batalla de Acosta Ñu",
-                  "text": "The Monumento Batalla de Acosta Ñu is a historical monument in Eusebio Ayala.",
+                  "text": "Monumento Batalla de Acosta Ñu, a historical monument in Ayala.",
                   "category": "historical",
                   "coords": [
                         -56.962883,
@@ -2589,7 +2589,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Histórico \"Comandante Pedro Pablo Caballero\"",
-                  "text": "Historisches Museum in Piribebuy.",
+                  "text": "Das Museo Histórico ‚Comandante Pedro Pablo Caballero‘ in Piribebuy zeigt Exponate zur Geschichte des Ortes und des Paraguayischen Krieges.",
                   "category": "museum",
                   "coords": [
                         -57.04422,
@@ -2598,7 +2598,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Paseo de la Memoria",
-                  "text": "Denkmal in Piribebuy.",
+                  "text": "Der Paseo de la Memoria in Piribebuy ist eine Gedenkpromenade, die an die Schlacht von 1869 erinnert.",
                   "category": "historical",
                   "coords": [
                         -57.043843,
@@ -2609,7 +2609,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Histórico \"Comandante Pedro Pablo Caballero\"",
-                  "text": "Történelmi múzeum Piribebuyban.",
+                  "text": "A Piribebuy-i Museo Histórico ‚Comandante Pedro Pablo Caballero‘ a helyi történelem és a paraguayi háború emlékeit mutatja be.",
                   "category": "museum",
                   "coords": [
                         -57.04422,
@@ -2618,7 +2618,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Paseo de la Memoria",
-                  "text": "Emlékmű Piribebuyban.",
+                  "text": "A piribebuy-i Paseo de la Memoria egy emléksétány, amely az 1869-es csatára emlékeztet.",
                   "category": "historical",
                   "coords": [
                         -57.043843,
@@ -2629,7 +2629,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Histórico \"Comandante Pedro Pablo Caballero\"",
-                  "text": "Muzeu istoric în Piribebuy.",
+                  "text": "Muzeul Istoric ‚Comandante Pedro Pablo Caballero‘ din Piribebuy expune artefacte despre istoria locală și războiul paraguayan.",
                   "category": "museum",
                   "coords": [
                         -57.04422,
@@ -2638,7 +2638,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Paseo de la Memoria",
-                  "text": "Monument în Piribebuy.",
+                  "text": "Paseo de la Memoria din Piribebuy este o promenadă memorială care comemorează bătălia din 1869.",
                   "category": "historical",
                   "coords": [
                         -57.043843,
@@ -2649,7 +2649,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Histórico \"Comandante Pedro Pablo Caballero\"",
-                  "text": "Historical museum in Piribebuy.",
+                  "text": "The Museo Histórico 'Comandante Pedro Pablo Caballero' in Piribebuy displays exhibits on local history and the Paraguayan War.",
                   "category": "museum",
                   "coords": [
                         -57.04422,
@@ -2658,7 +2658,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Paseo de la Memoria",
-                  "text": "Monument in Piribebuy.",
+                  "text": "The Paseo de la Memoria in Piribebuy is a memorial promenade commemorating the 1869 battle.",
                   "category": "historical",
                   "coords": [
                         -57.043843,
@@ -2811,7 +2811,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro El Molino",
-                  "text": "Theater in San Ignacio Guazú.",
+                  "text": "Das Teatro El Molino in Ignacio Guazu ist ein Kulturzentrum in einer ehemaligen Mühle.",
                   "category": "cultural",
                   "coords": [
                         -57.024602,
@@ -2820,7 +2820,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Municipal Guerra del Chaco 1932-1935",
-                  "text": "Geschichtsmuseum in San Ignacio Guazú.",
+                  "text": "Das Museo Municipal Guerra del Chaco 1932-1935 in Ignacio Guazu dokumentiert den Chacokrieg mit Waffen und Alltagsgegenständen.",
                   "category": "museum",
                   "coords": [
                         -57.023205,
@@ -2829,7 +2829,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Reloj Solar",
-                  "text": "Archäologische Stätte in San Ignacio Guazú.",
+                  "text": "Die Reloj Solar in Ignacio Guazu ist eine historische Sonnenuhr auf dem Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         -57.032921,
@@ -2849,7 +2849,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro El Molino",
-                  "text": "Színház San Ignacio Guazúban.",
+                  "text": "Az ignacio guazu-i Teatro El Molino egy kultúrközpont, amely egykori malomépületben működik.",
                   "category": "cultural",
                   "coords": [
                         -57.024602,
@@ -2858,7 +2858,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Municipal Guerra del Chaco 1932-1935",
-                  "text": "Történelmi múzeum San Ignacio Guazúban.",
+                  "text": "Az ignacio guazu-i Museo Municipal Guerra del Chaco 1932-1935 a chaco-háborút dokumentálja fegyverekkel és használati tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         -57.023205,
@@ -2867,7 +2867,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Reloj Solar",
-                  "text": "Régészeti lelőhely San Ignacio Guazúban.",
+                  "text": "Az ignacio guazu-i Reloj Solar egy történelmi napóra a főtéren.",
                   "category": "historical",
                   "coords": [
                         -57.032921,
@@ -2887,7 +2887,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro El Molino",
-                  "text": "Teatru în San Ignacio Guazú.",
+                  "text": "Teatrul El Molino din Ignacio Guazu este un centru cultural găzduit într-o fostă moară.",
                   "category": "cultural",
                   "coords": [
                         -57.024602,
@@ -2896,7 +2896,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Municipal Guerra del Chaco 1932-1935",
-                  "text": "Muzeu de istorie în San Ignacio Guazú.",
+                  "text": "Muzeul Municipal Guerra del Chaco 1932-1935 din Ignacio Guazu documentează războiul din Chaco cu arme și obiecte de uz zilnic.",
                   "category": "museum",
                   "coords": [
                         -57.023205,
@@ -2905,7 +2905,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Reloj Solar",
-                  "text": "Sit arheologic în San Ignacio Guazú.",
+                  "text": "Reloj Solar din Ignacio Guazu este un cadran solar istoric situat în piața principală.",
                   "category": "historical",
                   "coords": [
                         -57.032921,
@@ -2925,7 +2925,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro El Molino",
-                  "text": "Theater in San Ignacio Guazú.",
+                  "text": "The Teatro El Molino in Ignacio Guazu is a cultural centre housed in a former mill.",
                   "category": "cultural",
                   "coords": [
                         -57.024602,
@@ -2934,7 +2934,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Municipal Guerra del Chaco 1932-1935",
-                  "text": "Historical museum in San Ignacio Guazú.",
+                  "text": "The Museo Municipal Guerra del Chaco 1932-1935 in Ignacio Guazu documents the Chaco War with weapons and everyday items.",
                   "category": "museum",
                   "coords": [
                         -57.023205,
@@ -2943,7 +2943,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Reloj Solar",
-                  "text": "Archaeological site in San Ignacio Guazú.",
+                  "text": "The Reloj Solar in Ignacio Guazu is a historic sundial on the main square.",
                   "category": "historical",
                   "coords": [
                         -57.032921,
@@ -2999,7 +2999,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Menno Museum",
-                  "text": "Menno Museum ist ein Museum in Loma Plata.",
+                  "text": "Das Menno Museum in Plata zeigt die Geschichte und Kultur der Mennoniten in der Region.",
                   "category": "museum",
                   "coords": [
                         -59.836727,
@@ -3010,7 +3010,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Menno Museum",
-                  "text": "A Menno Museum egy múzeum Loma Plata városában.",
+                  "text": "A Plata-i Menno Museum a mennoniták történetét és kultúráját mutatja be a régióban.",
                   "category": "museum",
                   "coords": [
                         -59.836727,
@@ -3021,7 +3021,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Menno Museum",
-                  "text": "Menno Museum este un muzeu situat în Loma Plata.",
+                  "text": "Muzeul Menno din Plata prezintă istoria și cultura menoniților din regiune.",
                   "category": "museum",
                   "coords": [
                         -59.836727,
@@ -3032,7 +3032,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Menno Museum",
-                  "text": "Menno Museum is a museum located in Loma Plata.",
+                  "text": "The Menno Museum in Plata showcases the history and culture of the Mennonites in the region.",
                   "category": "museum",
                   "coords": [
                         -59.836727,
@@ -3396,7 +3396,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
-                  "text": "Ökologischer Park in Hohenau.",
+                  "text": "Der Parque Ecológico Ingeniero Alfredo Sitzmann in Hohenau vereint einen Ökopark mit einem Museum zur lokalen Flora und Fauna.",
                   "category": "museum",
                   "coords": [
                         -55.651435,
@@ -3405,7 +3405,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Edwin Krug",
-                  "text": "Kulturzentrum in Hohenau.",
+                  "text": "Das Centro Cultural Edwin Krug in Hohenau ist ein Kulturzentrum und Museum mit Ausstellungen zur Regionalgeschichte.",
                   "category": "museum",
                   "coords": [
                         -55.652344,
@@ -3414,7 +3414,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Salón Padre Guillermo Hütte",
-                  "text": "Kunstzentrum in Hohenau.",
+                  "text": "Der Salón Padre Guillermo Hütte in Hohenau ist ein Gemeindesaal und Veranstaltungsort für kulturelle Anlässe.",
                   "category": "cultural",
                   "coords": [
                         -55.637723,
@@ -3425,7 +3425,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
-                  "text": "Ökológiai park Hohenauban.",
+                  "text": "A hohenau-i Parque Ecológico Ingeniero Alfredo Sitzmann egy ökoparkot és a helyi flórát és faunát bemutató múzeumot egyesít.",
                   "category": "museum",
                   "coords": [
                         -55.651435,
@@ -3434,7 +3434,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Edwin Krug",
-                  "text": "Kulturális központ Hohenauban.",
+                  "text": "A hohenau-i Centro Cultural Edwin Krug egy kultúrközpont és múzeum regionális történeti kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -55.652344,
@@ -3443,7 +3443,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Salón Padre Guillermo Hütte",
-                  "text": "Művészeti központ Hohenauban.",
+                  "text": "A hohenau-i Salón Padre Guillermo Hütte egy közösségi terem és kulturális rendezvényhelyszín.",
                   "category": "cultural",
                   "coords": [
                         -55.637723,
@@ -3454,7 +3454,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
-                  "text": "Parc ecologic în Hohenau.",
+                  "text": "Parcul Ecologic Ingeniero Alfredo Sitzmann din Hohenau combină un parc ecologic cu un muzeu al florei și faunei locale.",
                   "category": "museum",
                   "coords": [
                         -55.651435,
@@ -3463,7 +3463,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Edwin Krug",
-                  "text": "Centru cultural în Hohenau.",
+                  "text": "Centrul Cultural Edwin Krug din Hohenau este un centru cultural și muzeu cu expoziții de istorie regională.",
                   "category": "museum",
                   "coords": [
                         -55.652344,
@@ -3472,7 +3472,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Salón Padre Guillermo Hütte",
-                  "text": "Centru de artă în Hohenau.",
+                  "text": "Salonul Padre Guillermo Hütte din Hohenau este o sală comunitară și loc de evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         -55.637723,
@@ -3483,7 +3483,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
-                  "text": "Ecological park in Hohenau.",
+                  "text": "The Parque Ecológico Ingeniero Alfredo Sitzmann in Hohenau combines an ecological park with a museum of local flora and fauna.",
                   "category": "museum",
                   "coords": [
                         -55.651435,
@@ -3492,7 +3492,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Edwin Krug",
-                  "text": "Cultural center in Hohenau.",
+                  "text": "The Centro Cultural Edwin Krug in Hohenau is a cultural centre and museum with regional history exhibitions.",
                   "category": "museum",
                   "coords": [
                         -55.652344,
@@ -3501,7 +3501,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Salón Padre Guillermo Hütte",
-                  "text": "Arts center in Hohenau.",
+                  "text": "The Salón Padre Guillermo Hütte in Hohenau is a community hall and cultural venue.",
                   "category": "cultural",
                   "coords": [
                         -55.637723,
@@ -3689,7 +3689,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "UTIC Caaguazú",
-                  "text": "UTIC Caaguazú ist ein Museum in Caaguazú.",
+                  "text": "Das UTIC Caaguazú-Museum auf dem Universitätscampus zeigt archäologische und historische Funde aus der Region.",
                   "category": "museum",
                   "coords": [
                         -56.005486,
@@ -3700,7 +3700,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "UTIC Caaguazú",
-                  "text": "A UTIC Caaguazú egy múzeum Caaguazú városában.",
+                  "text": "A caaguazú-i UTIC Caaguazú múzeum az egyetemi campuson régészeti és történelmi leleteket mutat be a régióból.",
                   "category": "museum",
                   "coords": [
                         -56.005486,
@@ -3711,7 +3711,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "UTIC Caaguazú",
-                  "text": "UTIC Caaguazú este un muzeu situat în Caaguazú.",
+                  "text": "Muzeul UTIC Caaguazú de pe campusul universitar expune descoperiri arheologice și istorice din regiune.",
                   "category": "museum",
                   "coords": [
                         -56.005486,
@@ -3722,7 +3722,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "UTIC Caaguazú",
-                  "text": "UTIC Caaguazú is a museum located in Caaguazú.",
+                  "text": "The UTIC Caaguazú museum on the university campus displays archaeological and historical finds from the region.",
                   "category": "museum",
                   "coords": [
                         -56.005486,
@@ -4086,7 +4086,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Area Protegida - Caverna Kamba Hopo",
-                  "text": "Naturschutzgebiet in Vallemí.",
+                  "text": "Das Schutzgebiet Area Protegida – Caverna Kamba Hopo bei Vallemi umfasst eine Höhle mit Kalksteinformationen.",
                   "category": "natural",
                   "coords": [
                         -57.967052,
@@ -4095,7 +4095,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casa lindoo",
-                  "text": "Denkmal in Vallemí.",
+                  "text": "Die Casa lindoo in Vallemi ist ein historisches Kolonialhaus mit markanter Architektur.",
                   "category": "historical",
                   "coords": [
                         -57.952729,
@@ -4106,7 +4106,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Area Protegida - Caverna Kamba Hopo",
-                  "text": "Természetvédelmi terület Vallemíben.",
+                  "text": "A vallemi-i Area Protegida – Caverna Kamba Hopo védett terület egy mészkőbarlangot foglal magában.",
                   "category": "natural",
                   "coords": [
                         -57.967052,
@@ -4115,7 +4115,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casa lindoo",
-                  "text": "Emlékmű Vallemíben.",
+                  "text": "A vallemi-i Casa lindoo egy történelmi gyarmati ház jellegzetes építészettel.",
                   "category": "historical",
                   "coords": [
                         -57.952729,
@@ -4126,7 +4126,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Area Protegida - Caverna Kamba Hopo",
-                  "text": "Rezervație naturală în Vallemí.",
+                  "text": "Aria Protejată Caverna Kamba Hopo lângă Vallemi include o peșteră cu formațiuni de calcar.",
                   "category": "natural",
                   "coords": [
                         -57.967052,
@@ -4135,7 +4135,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casa lindoo",
-                  "text": "Monument în Vallemí.",
+                  "text": "Casa lindoo din Vallemi este o casă istorică colonială cu arhitectură distinctă.",
                   "category": "historical",
                   "coords": [
                         -57.952729,
@@ -4146,7 +4146,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Area Protegida - Caverna Kamba Hopo",
-                  "text": "Nature reserve in Vallemí.",
+                  "text": "The protected area Caverna Kamba Hopo near Vallemi includes a cave with limestone formations.",
                   "category": "natural",
                   "coords": [
                         -57.967052,
@@ -4155,7 +4155,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casa lindoo",
-                  "text": "Monument in Vallemí.",
+                  "text": "Casa lindoo in Vallemi is a historic colonial house with distinctive architecture.",
                   "category": "historical",
                   "coords": [
                         -57.952729,
@@ -4211,7 +4211,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mirador Bella Vista Norte",
-                  "text": "Mirador Bella Vista Norte ist ein Aussichtspunkt in Bella Vista Norte.",
+                  "text": "Der Mirador Bella Vista Norte bietet einen Panoramablick über die umliegende Landschaft.",
                   "category": "natural",
                   "coords": [
                         -56.519949,
@@ -4222,7 +4222,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mirador Bella Vista Norte",
-                  "text": "A Mirador Bella Vista Norte egy kilátópont Bella Vista Norte városában.",
+                  "text": "A bella vista-i Mirador Bella Vista Norte panorámás kilátást nyújt a környező tájra.",
                   "category": "natural",
                   "coords": [
                         -56.519949,
@@ -4233,7 +4233,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mirador Bella Vista Norte",
-                  "text": "Mirador Bella Vista Norte este un punct de belvedere situat în Bella Vista Norte.",
+                  "text": "Mirador Bella Vista Norte oferă o vedere panoramică asupra peisajului înconjurător.",
                   "category": "natural",
                   "coords": [
                         -56.519949,
@@ -4244,7 +4244,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mirador Bella Vista Norte",
-                  "text": "Mirador Bella Vista Norte is a viewpoint located in Bella Vista Norte.",
+                  "text": "Mirador Bella Vista Norte offers a panoramic view over the surrounding countryside.",
                   "category": "natural",
                   "coords": [
                         -56.519949,

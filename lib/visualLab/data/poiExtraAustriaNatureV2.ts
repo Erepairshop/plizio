@@ -358,7 +358,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Moor",
-                  "text": "Ein geschütztes Moorgebiet in der Nähe des Gosausees.",
+                  "text": "Hochmoor am Gosausee mit seltener Flora und Fauna.",
                   "category": "natural",
                   "coords": [
                         13.504478,
@@ -385,7 +385,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Kleiner Donnerkogel",
-                  "text": "Ein Berggipfel im Gosaukamm-Gebiet.",
+                  "text": "Der Kleine Donnerkogel ist ein Hügel am Gosausee, dessen Name auf Gewitter anspielt.",
                   "category": "landmark",
                   "coords": [
                         13.479145,
@@ -394,7 +394,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Brettkogel",
-                  "text": "Ein Gipfel im Dachsteinmassiv in der Nähe von Gosau.",
+                  "text": "Der Brettkogel ist ein flacher, tafelartiger Hügel über dem Gosausee.",
                   "category": "landmark",
                   "coords": [
                         13.549954,
@@ -403,7 +403,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Däumling",
-                  "text": "Eine markante Felsnadel im Gosaukamm-Gebiet.",
+                  "text": "Der Däumling ist eine daumenförmige Felsnadel am Gosausee.",
                   "category": "landmark",
                   "coords": [
                         13.517999,
@@ -412,7 +412,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großwand",
-                  "text": "Ein imposanter Berggipfel im Gosaukamm-Massiv.",
+                  "text": "Die Großwand ist eine massive Felswand am Gosausee.",
                   "category": "landmark",
                   "coords": [
                         13.513498,
@@ -432,7 +432,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Moor",
-                  "text": "Védett lápos terület a Gosau-tó közelében.",
+                  "text": "Lápföld a Gosaui-tónál ritka növény- és állatvilággal.",
                   "category": "natural",
                   "coords": [
                         13.504478,
@@ -459,7 +459,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Kleiner Donnerkogel",
-                  "text": "Hegyi csúcs a Gosaukamm területén.",
+                  "text": "A Kleine Donnerkogel egy domb a Gosau-tónál, neve viharra utal.",
                   "category": "landmark",
                   "coords": [
                         13.479145,
@@ -468,7 +468,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Brettkogel",
-                  "text": "A Dachstein-masszívum egyik csúcsa Gosau közelében.",
+                  "text": "A Brettkogel egy lapos, táblaszerű domb a Gosau-tó felett.",
                   "category": "landmark",
                   "coords": [
                         13.549954,
@@ -477,7 +477,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Däumling",
-                  "text": "Jellegzetes sziklatű a Gosaukamm területén.",
+                  "text": "A Däumling egy hüvelykkujj alakú sziklatű a Gosau-tónál.",
                   "category": "landmark",
                   "coords": [
                         13.517999,
@@ -486,7 +486,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großwand",
-                  "text": "Impozáns hegycsúcs a Gosaukamm-masszívumban.",
+                  "text": "A Großwand egy hatalmas sziklafal a Gosau-tónál.",
                   "category": "landmark",
                   "coords": [
                         13.513498,
@@ -506,7 +506,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Moor",
-                  "text": "O zonă de mlaștină protejată în apropiere de lacul Gosau.",
+                  "text": "Mlaștină de turbă lângă lacul Gosau, cu floră și faună rare.",
                   "category": "natural",
                   "coords": [
                         13.504478,
@@ -533,7 +533,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Kleiner Donnerkogel",
-                  "text": "Un vârf montan în regiunea Gosaukamm.",
+                  "text": "Kleiner Donnerkogel este o colină lângă Lacul Gosau, al cărui nume sugerează tunete.",
                   "category": "landmark",
                   "coords": [
                         13.479145,
@@ -542,7 +542,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Brettkogel",
-                  "text": "Un vârf în masivul Dachstein, lângă Gosau.",
+                  "text": "Brettkogel este o colină plată, asemenea unei mese, deasupra Lacului Gosau.",
                   "category": "landmark",
                   "coords": [
                         13.549954,
@@ -551,7 +551,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Däumling",
-                  "text": "O stâncă proeminentă în zona Gosaukamm.",
+                  "text": "Däumling este un ac de piatră în formă de deget mare lângă Lacul Gosau.",
                   "category": "landmark",
                   "coords": [
                         13.517999,
@@ -560,7 +560,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großwand",
-                  "text": "Un vârf montan impresionant în masivul Gosaukamm.",
+                  "text": "Großwand este un perete de stâncă masiv lângă Lacul Gosau.",
                   "category": "landmark",
                   "coords": [
                         13.513498,
@@ -580,7 +580,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Moor",
-                  "text": "A protected moorland area near Gosau Lake.",
+                  "text": "Raised bog near Gosausee, home to rare plants and wildlife.",
                   "category": "natural",
                   "coords": [
                         13.504478,
@@ -607,7 +607,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Kleiner Donnerkogel",
-                  "text": "A mountain peak located in the Gosaukamm area.",
+                  "text": "Kleiner Donnerkogel is a hill by Lake Gosau, its name hinting at thunder.",
                   "category": "landmark",
                   "coords": [
                         13.479145,
@@ -616,7 +616,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Brettkogel",
-                  "text": "A peak in the Dachstein massif near Gosau.",
+                  "text": "Brettkogel is a flat, table-like hill above Lake Gosau.",
                   "category": "landmark",
                   "coords": [
                         13.549954,
@@ -625,7 +625,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Däumling",
-                  "text": "A distinctive rock needle in the Gosaukamm area.",
+                  "text": "Däumling is a thumb-shaped rock needle by Lake Gosau.",
                   "category": "landmark",
                   "coords": [
                         13.517999,
@@ -634,7 +634,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großwand",
-                  "text": "An impressive mountain peak in the Gosaukamm massif.",
+                  "text": "Großwand is a massive rock wall by Lake Gosau.",
                   "category": "landmark",
                   "coords": [
                         13.513498,
@@ -1663,7 +1663,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großer Geiger",
-                  "text": "Ein markanter Gipfel in den Alpen.",
+                  "text": "Der Große Geiger ist ein Gipfel im steirischen Salza-Tal.",
                   "category": "landmark",
                   "coords": [
                         14.911739,
@@ -1672,7 +1672,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großer Torstein",
-                  "text": "Einer der höchsten Gipfel im Dachsteingebirge.",
+                  "text": "Der Große Torstein ist ein torartiger Felsen im steirischen Salza-Tal.",
                   "category": "landmark",
                   "coords": [
                         14.915194,
@@ -1681,7 +1681,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Siebenbürgerkogel",
-                  "text": "Ein Gipfel in den steirischen Alpen.",
+                  "text": "Der Siebenbürgerkogel ist ein Hügel im steirischen Salza-Tal, benannt nach Siebenbürgen.",
                   "category": "landmark",
                   "coords": [
                         14.97355,
@@ -1690,7 +1690,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Hanserkogel",
-                  "text": "Ein Berg in der Steiermark, Österreich.",
+                  "text": "Der Hanserkogel ist ein Hügel im steirischen Salza-Tal.",
                   "category": "landmark",
                   "coords": [
                         14.941392,
@@ -1708,7 +1708,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Kleiner Torstein",
-                  "text": "Ein Berggipfel im Dachsteinmassiv.",
+                  "text": "Der Kleine Torstein ist ein kleinerer torartiger Felsen im steirischen Salza-Tal.",
                   "category": "landmark",
                   "coords": [
                         14.922137,
@@ -1717,7 +1717,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Hochschlag",
-                  "text": "Ein Berggipfel in den österreichischen Alpen.",
+                  "text": "Der Hochschlag ist ein hoher Grat im steirischen Salza-Tal.",
                   "category": "landmark",
                   "coords": [
                         14.941839,
@@ -1746,7 +1746,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großer Geiger",
-                  "text": "Jellegzetes hegycsúcs az Alpokban.",
+                  "text": "A Große Geiger egy csúcs a Stájerországi Salza-völgyben.",
                   "category": "landmark",
                   "coords": [
                         14.911739,
@@ -1755,7 +1755,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großer Torstein",
-                  "text": "A Dachstein-hegység egyik legmagasabb csúcsa.",
+                  "text": "A Große Torstein egy kapuszerű szikla a Stájerországi Salza-völgyben.",
                   "category": "landmark",
                   "coords": [
                         14.915194,
@@ -1764,7 +1764,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Siebenbürgerkogel",
-                  "text": "Hegycsúcs a stájer Alpokban.",
+                  "text": "A Siebenbürgerkogel egy domb a Stájerországi Salza-völgyben, nevét Erdélyről kapta.",
                   "category": "landmark",
                   "coords": [
                         14.97355,
@@ -1773,7 +1773,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Hanserkogel",
-                  "text": "Hegység Stájerországban, Ausztriában.",
+                  "text": "A Hanserkogel egy domb a Stájerországi Salza-völgyben.",
                   "category": "landmark",
                   "coords": [
                         14.941392,
@@ -1791,7 +1791,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Kleiner Torstein",
-                  "text": "Hegycsúcs a Dachstein-masszívumban.",
+                  "text": "A Kleine Torstein egy kisebb kapuszerű szikla a Stájerországi Salza-völgyben.",
                   "category": "landmark",
                   "coords": [
                         14.922137,
@@ -1800,7 +1800,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Hochschlag",
-                  "text": "Hegycsúcs az osztrák Alpokban.",
+                  "text": "A Hochschlag egy magas gerinc a Stájerországi Salza-völgyben.",
                   "category": "landmark",
                   "coords": [
                         14.941839,
@@ -1829,7 +1829,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großer Geiger",
-                  "text": "Un vârf proeminent în Alpi.",
+                  "text": "Großer Geiger este un vârf în valea Salza din Stiria.",
                   "category": "landmark",
                   "coords": [
                         14.911739,
@@ -1838,7 +1838,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großer Torstein",
-                  "text": "Unul dintre cele mai înalte vârfuri din munții Dachstein.",
+                  "text": "Großer Torstein este o stâncă în formă de poartă în valea Salza din Stiria.",
                   "category": "landmark",
                   "coords": [
                         14.915194,
@@ -1847,7 +1847,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Siebenbürgerkogel",
-                  "text": "Un vârf în Alpii Stirieni.",
+                  "text": "Siebenbürgerkogel este o colină în valea Salza din Stiria, numită după Transilvania.",
                   "category": "landmark",
                   "coords": [
                         14.97355,
@@ -1856,7 +1856,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Hanserkogel",
-                  "text": "Un munte în Stiria, Austria.",
+                  "text": "Hanserkogel este o colină în valea Salza din Stiria.",
                   "category": "landmark",
                   "coords": [
                         14.941392,
@@ -1874,7 +1874,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Kleiner Torstein",
-                  "text": "Un vârf montan în masivul Dachstein.",
+                  "text": "Kleiner Torstein este o stâncă mai mică în formă de poartă în valea Salza din Stiria.",
                   "category": "landmark",
                   "coords": [
                         14.922137,
@@ -1883,7 +1883,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Hochschlag",
-                  "text": "Un vârf montan în Alpii austrieci.",
+                  "text": "Hochschlag este o creastă înaltă în valea Salza din Stiria.",
                   "category": "landmark",
                   "coords": [
                         14.941839,
@@ -1912,7 +1912,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großer Geiger",
-                  "text": "A prominent peak in the Alps.",
+                  "text": "Großer Geiger is a peak in the Styrian Salza valley.",
                   "category": "landmark",
                   "coords": [
                         14.911739,
@@ -1921,7 +1921,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Großer Torstein",
-                  "text": "One of the highest peaks in the Dachstein Mountains.",
+                  "text": "Großer Torstein is a gate-shaped rock in the Styrian Salza valley.",
                   "category": "landmark",
                   "coords": [
                         14.915194,
@@ -1930,7 +1930,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Siebenbürgerkogel",
-                  "text": "A mountain peak in the Styrian Alps.",
+                  "text": "Siebenbürgerkogel is a hill in the Styrian Salza valley named after Transylvania.",
                   "category": "landmark",
                   "coords": [
                         14.97355,
@@ -1939,7 +1939,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Hanserkogel",
-                  "text": "A mountain located in Styria, Austria.",
+                  "text": "Hanserkogel is a hill in the Styrian Salza valley.",
                   "category": "landmark",
                   "coords": [
                         14.941392,
@@ -1957,7 +1957,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Kleiner Torstein",
-                  "text": "A mountain peak in the Dachstein massif.",
+                  "text": "Kleiner Torstein is a smaller gate-shaped rock in the Styrian Salza valley.",
                   "category": "landmark",
                   "coords": [
                         14.922137,
@@ -1966,7 +1966,7 @@ export const austriaNatureV2: POI[] = [
             },
             {
                   "name": "Hochschlag",
-                  "text": "A mountain peak in the Austrian Alps.",
+                  "text": "Hochschlag is a high ridge in the Styrian Salza valley.",
                   "category": "landmark",
                   "coords": [
                         14.941839,

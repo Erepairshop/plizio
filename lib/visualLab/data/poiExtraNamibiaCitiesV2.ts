@@ -87,7 +87,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Moth Center",
-                  "text": "Ein Museum in Walvis Bay, das sich mit der Natur beschäftigt.",
+                  "text": "Ein Museum, das der Erforschung von Motten gewidmet ist, in Bay.",
                   "category": "museum",
                   "coords": [
                         14.506403,
@@ -105,7 +105,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hope Locomotive",
-                  "text": "Die historische Hope-Lokomotive in Walvis Bay.",
+                  "text": "Eine historische Dampflokomotive, die in Bay ausgestellt ist.",
                   "category": "landmark",
                   "coords": [
                         14.501253,
@@ -125,7 +125,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Moth Center",
-                  "text": "Természettudományi múzeum Walvis Bay-ben.",
+                  "text": "Múzeum, amely a lepkék tanulmányozására szakosodott Bayben.",
                   "category": "museum",
                   "coords": [
                         14.506403,
@@ -143,7 +143,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hope Locomotive",
-                  "text": "A történelmi Hope gőzmozdony Walvis Bay-ben.",
+                  "text": "Történelmi gőzmozdony kiállítva Bayben.",
                   "category": "landmark",
                   "coords": [
                         14.501253,
@@ -163,7 +163,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Moth Center",
-                  "text": "Un muzeu din Walvis Bay axat pe natură.",
+                  "text": "Un muzeu dedicat studiului moliilor în Bay.",
                   "category": "museum",
                   "coords": [
                         14.506403,
@@ -181,7 +181,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hope Locomotive",
-                  "text": "Locomotiva istorică Hope din Walvis Bay.",
+                  "text": "O locomotivă cu abur istorică expusă în Bay.",
                   "category": "landmark",
                   "coords": [
                         14.501253,
@@ -201,7 +201,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Moth Center",
-                  "text": "A museum in Walvis Bay focusing on nature.",
+                  "text": "A museum dedicated to the study of moths in Bay.",
                   "category": "museum",
                   "coords": [
                         14.506403,
@@ -219,7 +219,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hope Locomotive",
-                  "text": "The historical Hope locomotive in Walvis Bay.",
+                  "text": "A historic steam locomotive on display in Bay.",
                   "category": "landmark",
                   "coords": [
                         14.501253,
@@ -282,7 +282,664 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       fr: ["Pelican Point est un monument important ici.", "Un centre majeur pour l'industrie de la pêche."],
     }, image: "/poi-images/walvis-bay-cities-v2.webp"},
   {
-    id: "swakopmund-cities-v2", "sights": {"de": [{"name": "Leuchtturm Swakopmund", "text": "Der Leuchtturm von Swakopmund ist ein aktiver Leuchtturm in Swakopmund und dient als bekanntes maritimes Wahrzeichen.", "category": "landmark", "coords": [14.524202, -22.676055]}, {"name": "The National Marine Aquarium of Namibia", "text": "Das National Marine Aquarium of Namibia ist ein Aquarium in Swakopmund und das einzige öffentliche Aquarium des Landes.", "category": "family", "coords": [14.522682, -22.684726]}, {"name": "Kristall Galerie", "text": "Die Kristall Galerie ist ein Museum in Swakopmund.", "category": "museum", "coords": [14.526219, -22.67476]}, {"name": "The Living Desert Snake Park", "text": "The Living Desert Snake Park ist ein Zoo und eine Tierausstellung in Swakopmund.", "category": "family", "coords": [14.523263, -22.680763]}, {"name": "Old German Fortress", "text": "Die Old German Fortress ist ein historisches Festungsgebäude in Swakopmund.", "category": "castle", "coords": [14.525251, -22.681795]}, {"name": "Nordstrand", "text": "Nordstrand ist ein Strandgebiet, das Küstenerholung in Swakopmund bietet.", "category": "recreational", "coords": [14.526371, -22.657432]}, {"name": "Martin Luther Steam Engine", "text": "Die Martin Luther Steam Engine ist ein Museum und ein historisches Exponat in Swakopmund.", "category": "museum", "coords": [14.552846, -22.67192]}, {"name": "Woermannhaus", "text": "Das Woermannhaus ist eine bekannte Touristenattraktion in Swakopmund.", "category": "landmark", "coords": [14.524394, -22.679363]}, {"name": "War Memorial", "text": "Das War Memorial ist ein öffentliches Denkmal in Swakopmund.", "category": "historical", "coords": [14.523288, -22.676602]}, {"name": "Mole", "text": "Die Mole ist ein malerischer Aussichtspunkt mit Blick auf die Küste in Swakopmund.", "category": "natural", "coords": [14.520286, -22.674391]}, {"name": "Jetty", "text": "Die Jetty ist eine beliebte Touristenattraktion an der Küste von Swakopmund.", "category": "landmark", "coords": [14.520381, -22.680717]}, {"name": "Rogl Souvenirs & Gallery", "text": "Rogl Souvenirs & Gallery ist eine Kunstgalerie und ein Souvenirladen in Swakopmund.", "category": "museum", "coords": [14.526338, -22.678273]}, {"name": "Sunset Viewpoint", "text": "Der Sunset Viewpoint bietet einen malerischen Panoramablick in der Stadt Swakopmund.", "category": "natural", "coords": [14.5459, -22.684427]}, {"name": "South Beach", "text": "South Beach in Swakopmund präsentiert eine faszinierende namibische Küstenlandschaft, in der das Meer auf die Wüste trifft. Das erfrischende Wasser des Atlantiks lockt abenteuerlustige Schwimmer, während die weiten Sandflächen ideal für lange Strandspaziergänge sind. Die Atmosphäre ist ruhig und leicht rau, was besonders Naturliebhaber anzieht. Da die Meeresbrise kühl sein kann, sollte man nach dem Baden ein warmes Handtuch bereithalten.", "category": "recreational", "coords": [14.522166, -22.683281]}, {"name": "Old Station", "text": "Die Old Station ist eine historische Touristenattraktion in Swakopmund.", "category": "landmark", "coords": [14.528814, -22.674259]}, {"name": "Desert Explorers", "text": "Desert Explorers ist eine bekannte Touristenattraktion in Swakopmund.", "category": "landmark", "coords": [14.529427, -22.68491]}, {"name": "Our Lady of the Rosary", "text": "Our Lady of the Rosary ist eine religiöse Kultstätte in Swakopmund.", "category": "religious", "coords": [14.52724, -22.676578]}, {"name": "Deutsche Lutherische Kirche", "text": "Die Deutsche Lutherische Kirche ist eine religiöse Kultstätte in Swakopmund.", "category": "religious", "coords": [14.529295, -22.676976]}], "hu": [{"name": "Swakopmund Lighthouse", "text": "A Swakopmund Lighthouse egy működő világítótorony Swakopmund városában, amely jól ismert tengeri tájékozódási pont.", "category": "landmark", "coords": [14.524202, -22.676055]}, {"name": "The National Marine Aquarium of Namibia", "text": "A The National Marine Aquarium of Namibia egy akvárium Swakopmund városában, és az ország egyetlen nyilvános akváriuma.", "category": "family", "coords": [14.522682, -22.684726]}, {"name": "Kristall Galerie", "text": "A Kristall Galerie egy múzeum Swakopmund városában.", "category": "museum", "coords": [14.526219, -22.67476]}, {"name": "The Living Desert Snake Park", "text": "A The Living Desert Snake Park egy állatkert Swakopmund városában.", "category": "family", "coords": [14.523263, -22.680763]}, {"name": "Old German Fortress", "text": "Az Old German Fortress egy történelmi erődítmény Swakopmund városában.", "category": "castle", "coords": [14.525251, -22.681795]}, {"name": "Nordstrand", "text": "A Nordstrand egy tengerparti szakasz Swakopmund városában.", "category": "recreational", "coords": [14.526371, -22.657432]}, {"name": "Martin Luther Steam Engine", "text": "A Martin Luther Steam Engine egy múzeum és történelmi kiállítás Swakopmund városában.", "category": "museum", "coords": [14.552846, -22.67192]}, {"name": "Woermannhaus", "text": "A Woermannhaus egy jelentős turisztikai látványosság Swakopmund városában.", "category": "landmark", "coords": [14.524394, -22.679363]}, {"name": "War Memorial", "text": "A War Memorial egy köztéri emlékmű Swakopmund városában.", "category": "historical", "coords": [14.523288, -22.676602]}, {"name": "Mole", "text": "A Mole egy festői kilátó, amely kilátást nyújt a partra Swakopmund városában.", "category": "natural", "coords": [14.520286, -22.674391]}, {"name": "Jetty", "text": "A Jetty egy népszerű turisztikai látványosság Swakopmund partjainál.", "category": "landmark", "coords": [14.520381, -22.680717]}, {"name": "Rogl Souvenirs & Gallery", "text": "A Rogl Souvenirs & Gallery egy művészeti galéria és ajándékbolt Swakopmund városában.", "category": "museum", "coords": [14.526338, -22.678273]}, {"name": "Sunset Viewpoint", "text": "A Sunset Viewpoint festői panorámát nyújt Swakopmund városában.", "category": "natural", "coords": [14.5459, -22.684427]}, {"name": "South Beach", "text": "A swakopmundi South Beach lenyűgöző namíbiai parti tájat mutat be, ahol az óceán találkozik a sivataggal. A frissítő atlanti vizek a kalandvágyó úszókat vonzzák, míg a homokos térség ideális a hosszú parti sétákhoz. A nyugodt, némileg zord atmoszféra elsősorban a természetkedvelők számára vonzó. Mivel az óceáni szellő hűvös lehet, érdemes fürdőzés után meleg törölközővel készülni.", "category": "recreational", "coords": [14.522166, -22.683281]}, {"name": "Old Station", "text": "Az Old Station egy történelmi turisztikai látványosság Swakopmund városában.", "category": "landmark", "coords": [14.528814, -22.674259]}, {"name": "Desert Explorers", "text": "A Desert Explorers egy jelentős turisztikai látványosság Swakopmund városában.", "category": "landmark", "coords": [14.529427, -22.68491]}, {"name": "Our Lady of the Rosary", "text": "Az Our Lady of the Rosary egy vallási imahely Swakopmund városában.", "category": "religious", "coords": [14.52724, -22.676578]}, {"name": "Deutsche Lutherische Kirche", "text": "A German Lutheran Church egy vallási imahely Swakopmund városában.", "category": "religious", "coords": [14.529295, -22.676976]}], "ro": [{"name": "Swakopmund Lighthouse", "text": "Farul din Swakopmund este un far activ din Swakopmund, servind ca un reper maritim bine cunoscut.", "category": "landmark", "coords": [14.524202, -22.676055]}, {"name": "The National Marine Aquarium of Namibia", "text": "The National Marine Aquarium of Namibia este un acvariu în Swakopmund și singurul acvariu public din țară.", "category": "family", "coords": [14.522682, -22.684726]}, {"name": "Kristall Galerie", "text": "Kristall Galerie este un muzeu situat în Swakopmund.", "category": "museum", "coords": [14.526219, -22.67476]}, {"name": "The Living Desert Snake Park", "text": "The Living Desert Snake Park este o grădină zoologică situată în Swakopmund.", "category": "family", "coords": [14.523263, -22.680763]}, {"name": "Old German Fortress", "text": "Old German Fortress este o fortăreață istorică situată în Swakopmund.", "category": "castle", "coords": [14.525251, -22.681795]}, {"name": "Nordstrand", "text": "Nordstrand este o plajă din Swakopmund, care oferă relaxare pe coastă.", "category": "recreational", "coords": [14.526371, -22.657432]}, {"name": "Martin Luther Steam Engine", "text": "Martin Luther Steam Engine este un muzeu și o expoziție istorică în Swakopmund.", "category": "museum", "coords": [14.552846, -22.67192]}, {"name": "Woermannhaus", "text": "Woermannhaus este o atracție turistică remarcabilă situată în Swakopmund.", "category": "landmark", "coords": [14.524394, -22.679363]}, {"name": "War Memorial", "text": "War Memorial este un monument public situat în Swakopmund.", "category": "historical", "coords": [14.523288, -22.676602]}, {"name": "Mole", "text": "Mole este un punct de belvedere pitoresc care oferă vedere la coastă în Swakopmund.", "category": "natural", "coords": [14.520286, -22.674391]}, {"name": "Jetty", "text": "Jetty este o atracție turistică populară de-a lungul coastei din Swakopmund.", "category": "landmark", "coords": [14.520381, -22.680717]}, {"name": "Rogl Souvenirs & Gallery", "text": "Rogl Souvenirs & Gallery este o galerie de artă și un magazin de suveniruri în Swakopmund.", "category": "museum", "coords": [14.526338, -22.678273]}, {"name": "Sunset Viewpoint", "text": "Sunset Viewpoint oferă vederi panoramice pitorești în orașul Swakopmund.", "category": "natural", "coords": [14.5459, -22.684427]}, {"name": "South Beach", "text": "South Beach din Swakopmund dezvăluie un peisaj spectaculos pe coasta Namibiei, acolo unde oceanul întâlnește deșertul. Apele răcoroase ale Atlanticului îi invită pe înotătorii curajoși, în timp ce întinderile de nisip sunt perfecte pentru plimbări lungi de-a lungul țărmului. Vă așteaptă o atmosferă calmă și ușor sălbatică, apreciată de iubitorii de natură. Deoarece briza oceanului poate fi rece, este recomandat să aveți la îndemână un prosop călduros după baie.", "category": "recreational", "coords": [14.522166, -22.683281]}, {"name": "Old Station", "text": "Old Station este o atracție turistică istorică în Swakopmund.", "category": "landmark", "coords": [14.528814, -22.674259]}, {"name": "Desert Explorers", "text": "Desert Explorers este o atracție turistică proeminentă situată în Swakopmund.", "category": "landmark", "coords": [14.529427, -22.68491]}, {"name": "Our Lady of the Rosary", "text": "Our Lady of the Rosary este un lăcaș de cult situat în Swakopmund.", "category": "religious", "coords": [14.52724, -22.676578]}, {"name": "Deutsche Lutherische Kirche", "text": "Biserica Luterană Germană este un lăcaș de cult situat în Swakopmund.", "category": "religious", "coords": [14.529295, -22.676976]}], "en": [{"name": "Swakopmund Lighthouse", "text": "Swakopmund Lighthouse is an active lighthouse in Swakopmund, serving as a well-known maritime landmark.", "category": "landmark", "coords": [14.524202, -22.676055]}, {"name": "The National Marine Aquarium of Namibia", "text": "The National Marine Aquarium of Namibia is an aquarium in Swakopmund, and it is the only public aquarium in the country.", "category": "family", "coords": [14.522682, -22.684726]}, {"name": "Kristall Galerie", "text": "Kristall Galerie is a museum located in Swakopmund.", "category": "museum", "coords": [14.526219, -22.67476]}, {"name": "The Living Desert Snake Park", "text": "The Living Desert Snake Park is a zoo and animal exhibit located in Swakopmund.", "category": "family", "coords": [14.523263, -22.680763]}, {"name": "Old German Fortress", "text": "Old German Fortress is a historical castle structure situated in Swakopmund.", "category": "castle", "coords": [14.525251, -22.681795]}, {"name": "Nordstrand", "text": "Nordstrand is a beach area offering coastal relaxation in Swakopmund.", "category": "recreational", "coords": [14.526371, -22.657432]}, {"name": "Martin Luther Steam Engine", "text": "Martin Luther Steam Engine is a museum and historical exhibit in Swakopmund.", "category": "museum", "coords": [14.552846, -22.67192]}, {"name": "Woermannhaus", "text": "Woermannhaus is a notable tourist attraction located in Swakopmund.", "category": "landmark", "coords": [14.524394, -22.679363]}, {"name": "War Memorial", "text": "War Memorial is a public monument located in Swakopmund.", "category": "historical", "coords": [14.523288, -22.676602]}, {"name": "Mole", "text": "Mole is a scenic viewpoint providing coastal views in Swakopmund.", "category": "natural", "coords": [14.520286, -22.674391]}, {"name": "Jetty", "text": "Jetty is a popular tourist attraction along the coast of Swakopmund.", "category": "landmark", "coords": [14.520381, -22.680717]}, {"name": "Rogl Souvenirs & Gallery", "text": "Rogl Souvenirs & Gallery is an art gallery and souvenir shop in Swakopmund.", "category": "museum", "coords": [14.526338, -22.678273]}, {"name": "Sunset Viewpoint", "text": "Sunset Viewpoint offers scenic panoramic views in the city of Swakopmund.", "category": "natural", "coords": [14.5459, -22.684427]}, {"name": "South Beach", "text": "South Beach in Swakopmund presents a striking Namibian coastal landscape where the ocean meets the desert. The refreshing Atlantic waters invite adventurous swimmers, while the sandy expanse is ideal for long coastal strolls. Expect a calm, somewhat rugged atmosphere that appeals to nature lovers. Since the ocean breeze can be cool, having a warm towel ready after swimming is recommended.", "category": "recreational", "coords": [14.522166, -22.683281]}, {"name": "Old Station", "text": "Old Station is a historical tourist attraction in Swakopmund.", "category": "landmark", "coords": [14.528814, -22.674259]}, {"name": "Desert Explorers", "text": "Desert Explorers is a prominent tourist attraction located in Swakopmund.", "category": "landmark", "coords": [14.529427, -22.68491]}, {"name": "Our Lady of the Rosary", "text": "Our Lady of the Rosary is a place of worship situated in Swakopmund.", "category": "religious", "coords": [14.52724, -22.676578]}, {"name": "German Lutheran Church", "text": "German Lutheran Church is a place of worship located in Swakopmund.", "category": "religious", "coords": [14.529295, -22.676976]}]},
+    id: "swakopmund-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Swakopmund",
+                  "text": "Historischer Leuchtturm, erbaut 1906, noch in Betrieb mit Aussichtsplattform.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524202,
+                        -22.676055
+                  ]
+            },
+            {
+                  "name": "The National Marine Aquarium of Namibia",
+                  "text": "Aquarium mit heimischem Meeresleben, darunter Robben und Pinguine.",
+                  "category": "family",
+                  "coords": [
+                        14.522682,
+                        -22.684726
+                  ]
+            },
+            {
+                  "name": "Kristall Galerie",
+                  "text": "Die Kristall Galerie in Swakopmund zeigt eine beeindruckende Sammlung von Mineralien und Kristallen.",
+                  "category": "museum",
+                  "coords": [
+                        14.526219,
+                        -22.67476
+                  ]
+            },
+            {
+                  "name": "The Living Desert Snake Park",
+                  "text": "Der Living Desert Snake Park in Swakopmund zeigt lebende Schlangen aus der Namib-Wüste.",
+                  "category": "family",
+                  "coords": [
+                        14.523263,
+                        -22.680763
+                  ]
+            },
+            {
+                  "name": "Old German Fortress",
+                  "text": "Die Alte Deutsche Festung in Swakopmund wurde während der deutschen Kolonialzeit erbaut.",
+                  "category": "castle",
+                  "coords": [
+                        14.525251,
+                        -22.681795
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand ist ein Strandgebiet, das Küstenerholung in Swakopmund bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526371,
+                        -22.657432
+                  ]
+            },
+            {
+                  "name": "Martin Luther Steam Engine",
+                  "text": "Die Martin-Luther-Dampflokomotive in Swakopmund ist eine historische Dampflokomotive.",
+                  "category": "museum",
+                  "coords": [
+                        14.552846,
+                        -22.67192
+                  ]
+            },
+            {
+                  "name": "Woermannhaus",
+                  "text": "Ein historisches Schifffahrtsgebäude von 1905 in Swakopmund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524394,
+                        -22.679363
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "Das Kriegerdenkmal in Swakopmund erinnert an die Gefallenen der Weltkriege.",
+                  "category": "historical",
+                  "coords": [
+                        14.523288,
+                        -22.676602
+                  ]
+            },
+            {
+                  "name": "Mole",
+                  "text": "Die Mole ist ein malerischer Aussichtspunkt mit Blick auf die Küste in Swakopmund.",
+                  "category": "natural",
+                  "coords": [
+                        14.520286,
+                        -22.674391
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "Die Jetty ist eine beliebte Touristenattraktion an der Küste von Swakopmund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.520381,
+                        -22.680717
+                  ]
+            },
+            {
+                  "name": "Rogl Souvenirs & Gallery",
+                  "text": "Rogl Souvenirs & Gallery in Swakopmund bietet namibisches Kunsthandwerk und Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        14.526338,
+                        -22.678273
+                  ]
+            },
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "Der Sunset Viewpoint bietet einen malerischen Panoramablick in der Stadt Swakopmund.",
+                  "category": "natural",
+                  "coords": [
+                        14.5459,
+                        -22.684427
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach in Swakopmund präsentiert eine faszinierende namibische Küstenlandschaft, in der das Meer auf die Wüste trifft. Das erfrischende Wasser des Atlantiks lockt abenteuerlustige Schwimmer, während die weiten Sandflächen ideal für lange Strandspaziergänge sind. Die Atmosphäre ist ruhig und leicht rau, was besonders Naturliebhaber anzieht. Da die Meeresbrise kühl sein kann, sollte man nach dem Baden ein warmes Handtuch bereithalten.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522166,
+                        -22.683281
+                  ]
+            },
+            {
+                  "name": "Old Station",
+                  "text": "Alter Bahnhof in Swakopmund, denkmalgeschützt (Grad 2).",
+                  "category": "landmark",
+                  "coords": [
+                        14.528814,
+                        -22.674259
+                  ]
+            },
+            {
+                  "name": "Desert Explorers",
+                  "text": "Desert Explorers in Swakopmund bietet geführte Wüstentouren in die Namib an.",
+                  "category": "landmark",
+                  "coords": [
+                        14.529427,
+                        -22.68491
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "Eine 1912 erbaute katholische Kirche in Swakopmund.",
+                  "category": "religious",
+                  "coords": [
+                        14.52724,
+                        -22.676578
+                  ]
+            },
+            {
+                  "name": "Deutsche Lutherische Kirche",
+                  "text": "Eine lutherische Kirche mit markantem Turm in Swakopmund.",
+                  "category": "religious",
+                  "coords": [
+                        14.529295,
+                        -22.676976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Swakopmund Lighthouse",
+                  "text": "Történelmi világítótorony, 1906-ban épült, még működő, kilátóval.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524202,
+                        -22.676055
+                  ]
+            },
+            {
+                  "name": "The National Marine Aquarium of Namibia",
+                  "text": "Akvárium helyi tengeri élővilággal, beleértve fókákat és pingvineket.",
+                  "category": "family",
+                  "coords": [
+                        14.522682,
+                        -22.684726
+                  ]
+            },
+            {
+                  "name": "Kristall Galerie",
+                  "text": "A Swakopmundi Kristály Galéria lenyűgöző ásvány- és kristálygyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.526219,
+                        -22.67476
+                  ]
+            },
+            {
+                  "name": "The Living Desert Snake Park",
+                  "text": "A Swakopmundi Élő Sivatagi Kígyó Park a Namib-sivatag élő kígyóit mutatja be.",
+                  "category": "family",
+                  "coords": [
+                        14.523263,
+                        -22.680763
+                  ]
+            },
+            {
+                  "name": "Old German Fortress",
+                  "text": "A swakopmundi Régi Német Erőd a német gyarmati időkben épült.",
+                  "category": "castle",
+                  "coords": [
+                        14.525251,
+                        -22.681795
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "A Nordstrand egy tengerparti szakasz Swakopmund városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526371,
+                        -22.657432
+                  ]
+            },
+            {
+                  "name": "Martin Luther Steam Engine",
+                  "text": "A swakopmundi Martin Luther Gőzmozdony egy történelmi gőzmozdony.",
+                  "category": "museum",
+                  "coords": [
+                        14.552846,
+                        -22.67192
+                  ]
+            },
+            {
+                  "name": "Woermannhaus",
+                  "text": "Egy történelmi hajózási társaság épülete 1905-ből Swakopmundban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524394,
+                        -22.679363
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "A swakopmundi Háborús Emlékmű a világháborúk áldozataira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        14.523288,
+                        -22.676602
+                  ]
+            },
+            {
+                  "name": "Mole",
+                  "text": "A Mole egy festői kilátó, amely kilátást nyújt a partra Swakopmund városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.520286,
+                        -22.674391
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "A Jetty egy népszerű turisztikai látványosság Swakopmund partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.520381,
+                        -22.680717
+                  ]
+            },
+            {
+                  "name": "Rogl Souvenirs & Gallery",
+                  "text": "A Rogl Souvenirs & Gallery Swakopmundban namíbiai kézműves termékeket és műalkotásokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        14.526338,
+                        -22.678273
+                  ]
+            },
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "A Sunset Viewpoint festői panorámát nyújt Swakopmund városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.5459,
+                        -22.684427
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "A swakopmundi South Beach lenyűgöző namíbiai parti tájat mutat be, ahol az óceán találkozik a sivataggal. A frissítő atlanti vizek a kalandvágyó úszókat vonzzák, míg a homokos térség ideális a hosszú parti sétákhoz. A nyugodt, némileg zord atmoszféra elsősorban a természetkedvelők számára vonzó. Mivel az óceáni szellő hűvös lehet, érdemes fürdőzés után meleg törölközővel készülni.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522166,
+                        -22.683281
+                  ]
+            },
+            {
+                  "name": "Old Station",
+                  "text": "Régi pályaudvar Swakopmundban, műemléki védelem alatt (2. fokozat).",
+                  "category": "landmark",
+                  "coords": [
+                        14.528814,
+                        -22.674259
+                  ]
+            },
+            {
+                  "name": "Desert Explorers",
+                  "text": "A Desert Explorers Swakopmundban vezetett sivatagi túrákat kínál a Namib-sivatagba.",
+                  "category": "landmark",
+                  "coords": [
+                        14.529427,
+                        -22.68491
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "Egy 1912-ben épült katolikus templom Swakopmundban.",
+                  "category": "religious",
+                  "coords": [
+                        14.52724,
+                        -22.676578
+                  ]
+            },
+            {
+                  "name": "Deutsche Lutherische Kirche",
+                  "text": "Egy evangélikus templom feltűnő toronnyal Swakopmundban.",
+                  "category": "religious",
+                  "coords": [
+                        14.529295,
+                        -22.676976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Swakopmund Lighthouse",
+                  "text": "Far istoric construit în 1906, încă funcțional, cu platformă de observare.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524202,
+                        -22.676055
+                  ]
+            },
+            {
+                  "name": "The National Marine Aquarium of Namibia",
+                  "text": "Acvariu cu viață marină locală, inclusiv foci și pinguini.",
+                  "category": "family",
+                  "coords": [
+                        14.522682,
+                        -22.684726
+                  ]
+            },
+            {
+                  "name": "Kristall Galerie",
+                  "text": "Galeriile de Cristal din Swakopmund expun o colecție impresionantă de minerale și cristale.",
+                  "category": "museum",
+                  "coords": [
+                        14.526219,
+                        -22.67476
+                  ]
+            },
+            {
+                  "name": "The Living Desert Snake Park",
+                  "text": "Parcul Șerpilor din Deșertul Viu din Swakopmund prezintă șerpi vii din deșertul Namib.",
+                  "category": "family",
+                  "coords": [
+                        14.523263,
+                        -22.680763
+                  ]
+            },
+            {
+                  "name": "Old German Fortress",
+                  "text": "Vechea Fortăreață Germană din Swakopmund a fost construită în perioada colonială germană.",
+                  "category": "castle",
+                  "coords": [
+                        14.525251,
+                        -22.681795
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand este o plajă din Swakopmund, care oferă relaxare pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526371,
+                        -22.657432
+                  ]
+            },
+            {
+                  "name": "Martin Luther Steam Engine",
+                  "text": "Locomotiva cu abur Martin Luther din Swakopmund este o locomotivă istorică.",
+                  "category": "museum",
+                  "coords": [
+                        14.552846,
+                        -22.67192
+                  ]
+            },
+            {
+                  "name": "Woermannhaus",
+                  "text": "O clădire istorică a unei companii de transport maritim din 1905 în Swakopmund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524394,
+                        -22.679363
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "Memorialul de Război din Swakopmund comemorează căzuții din războaiele mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        14.523288,
+                        -22.676602
+                  ]
+            },
+            {
+                  "name": "Mole",
+                  "text": "Mole este un punct de belvedere pitoresc care oferă vedere la coastă în Swakopmund.",
+                  "category": "natural",
+                  "coords": [
+                        14.520286,
+                        -22.674391
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "Jetty este o atracție turistică populară de-a lungul coastei din Swakopmund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.520381,
+                        -22.680717
+                  ]
+            },
+            {
+                  "name": "Rogl Souvenirs & Gallery",
+                  "text": "Rogl Souvenirs & Gallery din Swakopmund oferă meșteșuguri și opere de artă namibiene.",
+                  "category": "museum",
+                  "coords": [
+                        14.526338,
+                        -22.678273
+                  ]
+            },
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "Sunset Viewpoint oferă vederi panoramice pitorești în orașul Swakopmund.",
+                  "category": "natural",
+                  "coords": [
+                        14.5459,
+                        -22.684427
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach din Swakopmund dezvăluie un peisaj spectaculos pe coasta Namibiei, acolo unde oceanul întâlnește deșertul. Apele răcoroase ale Atlanticului îi invită pe înotătorii curajoși, în timp ce întinderile de nisip sunt perfecte pentru plimbări lungi de-a lungul țărmului. Vă așteaptă o atmosferă calmă și ușor sălbatică, apreciată de iubitorii de natură. Deoarece briza oceanului poate fi rece, este recomandat să aveți la îndemână un prosop călduros după baie.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522166,
+                        -22.683281
+                  ]
+            },
+            {
+                  "name": "Old Station",
+                  "text": "Gară veche în Swakopmund, monument istoric (gradul 2).",
+                  "category": "landmark",
+                  "coords": [
+                        14.528814,
+                        -22.674259
+                  ]
+            },
+            {
+                  "name": "Desert Explorers",
+                  "text": "Desert Explorers din Swakopmund oferă tururi ghidate în deșertul Namib.",
+                  "category": "landmark",
+                  "coords": [
+                        14.529427,
+                        -22.68491
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "O biserică catolică construită în 1912 în Swakopmund.",
+                  "category": "religious",
+                  "coords": [
+                        14.52724,
+                        -22.676578
+                  ]
+            },
+            {
+                  "name": "Deutsche Lutherische Kirche",
+                  "text": "O biserică luterană cu un turn proeminent în Swakopmund.",
+                  "category": "religious",
+                  "coords": [
+                        14.529295,
+                        -22.676976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Swakopmund Lighthouse",
+                  "text": "Historic lighthouse built in 1906, still operational with a viewing platform.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524202,
+                        -22.676055
+                  ]
+            },
+            {
+                  "name": "The National Marine Aquarium of Namibia",
+                  "text": "Aquarium featuring local marine life including seals and penguins.",
+                  "category": "family",
+                  "coords": [
+                        14.522682,
+                        -22.684726
+                  ]
+            },
+            {
+                  "name": "Kristall Galerie",
+                  "text": "Kristall Galerie in Swakopmund displays an impressive collection of minerals and crystals.",
+                  "category": "museum",
+                  "coords": [
+                        14.526219,
+                        -22.67476
+                  ]
+            },
+            {
+                  "name": "The Living Desert Snake Park",
+                  "text": "The Living Desert Snake Park in Swakopmund exhibits live snakes from the Namib Desert.",
+                  "category": "family",
+                  "coords": [
+                        14.523263,
+                        -22.680763
+                  ]
+            },
+            {
+                  "name": "Old German Fortress",
+                  "text": "The Old German Fortress in Swakopmund was built during the German colonial period.",
+                  "category": "castle",
+                  "coords": [
+                        14.525251,
+                        -22.681795
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand is a beach area offering coastal relaxation in Swakopmund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.526371,
+                        -22.657432
+                  ]
+            },
+            {
+                  "name": "Martin Luther Steam Engine",
+                  "text": "The Martin Luther Steam Engine in Swakopmund is a historic steam locomotive.",
+                  "category": "museum",
+                  "coords": [
+                        14.552846,
+                        -22.67192
+                  ]
+            },
+            {
+                  "name": "Woermannhaus",
+                  "text": "A historic shipping company building from 1905 in Swakopmund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.524394,
+                        -22.679363
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "The War Memorial in Swakopmund commemorates soldiers fallen in the world wars.",
+                  "category": "historical",
+                  "coords": [
+                        14.523288,
+                        -22.676602
+                  ]
+            },
+            {
+                  "name": "Mole",
+                  "text": "Mole is a scenic viewpoint providing coastal views in Swakopmund.",
+                  "category": "natural",
+                  "coords": [
+                        14.520286,
+                        -22.674391
+                  ]
+            },
+            {
+                  "name": "Jetty",
+                  "text": "Jetty is a popular tourist attraction along the coast of Swakopmund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.520381,
+                        -22.680717
+                  ]
+            },
+            {
+                  "name": "Rogl Souvenirs & Gallery",
+                  "text": "Rogl Souvenirs & Gallery in Swakopmund sells Namibian handicrafts and art.",
+                  "category": "museum",
+                  "coords": [
+                        14.526338,
+                        -22.678273
+                  ]
+            },
+            {
+                  "name": "Sunset Viewpoint",
+                  "text": "Sunset Viewpoint offers scenic panoramic views in the city of Swakopmund.",
+                  "category": "natural",
+                  "coords": [
+                        14.5459,
+                        -22.684427
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach in Swakopmund presents a striking Namibian coastal landscape where the ocean meets the desert. The refreshing Atlantic waters invite adventurous swimmers, while the sandy expanse is ideal for long coastal strolls. Expect a calm, somewhat rugged atmosphere that appeals to nature lovers. Since the ocean breeze can be cool, having a warm towel ready after swimming is recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        14.522166,
+                        -22.683281
+                  ]
+            },
+            {
+                  "name": "Old Station",
+                  "text": "Old railway station in Swakopmund, a heritage landmark (grade 2).",
+                  "category": "landmark",
+                  "coords": [
+                        14.528814,
+                        -22.674259
+                  ]
+            },
+            {
+                  "name": "Desert Explorers",
+                  "text": "Desert Explorers in Swakopmund offers guided desert tours into the Namib.",
+                  "category": "landmark",
+                  "coords": [
+                        14.529427,
+                        -22.68491
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "A Catholic church built in 1912 in Swakopmund.",
+                  "category": "religious",
+                  "coords": [
+                        14.52724,
+                        -22.676578
+                  ]
+            },
+            {
+                  "name": "German Lutheran Church",
+                  "text": "A Lutheran church with a prominent spire in Swakopmund.",
+                  "category": "religious",
+                  "coords": [
+                        14.529295,
+                        -22.676976
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NA-ER",
     coords: [14.5333, -22.6833],
@@ -378,7 +1035,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rehoboth Museum",
-                  "text": "Ein Museum in Rehoboth zur lokalen Geschichte.",
+                  "text": "Ein Museum zur Geschichte der Baster-Gemeinschaft in Rehoboth.",
                   "category": "museum",
                   "coords": [
                         17.071973,
@@ -387,7 +1044,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Gravestone",
-                  "text": "Ein historischer Grabstein in Rehoboth.",
+                  "text": "Der Grabstein in Rehoboth markiert ein historisches Grab der Baster-Gemeinschaft.",
                   "category": "historical",
                   "coords": [
                         17.075311,
@@ -396,7 +1053,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Die ou Kapteins Vergaderings Plek 1870",
-                  "text": "Ein Ort in Rehoboth, an dem sich die Kapitäne früher trafen.",
+                  "text": "Die ou Kapteins Vergaderings Plek in Rehoboth ist der historische Versammlungsort der Baster-Häuptlinge von 1870.",
                   "category": "historical",
                   "coords": [
                         17.075216,
@@ -405,7 +1062,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rehoboth Hill Sign",
-                  "text": "Das bekannte Hill-Schild in Rehoboth.",
+                  "text": "Das Rehoboth Hill Sign ist ein großes Schild auf einem Hügel über der Stadt.",
                   "category": "landmark",
                   "coords": [
                         17.072551,
@@ -416,7 +1073,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rehoboth Museum",
-                  "text": "Helytörténeti múzeum Rehobothban.",
+                  "text": "Egy múzeum a baszter közösség történetéről Rehobothban.",
                   "category": "museum",
                   "coords": [
                         17.071973,
@@ -425,7 +1082,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Gravestone",
-                  "text": "Történelmi sírkő Rehobothban.",
+                  "text": "A rehobothi sírkő a Baster közösség egy történelmi sírját jelöli.",
                   "category": "historical",
                   "coords": [
                         17.075311,
@@ -434,7 +1091,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Die ou Kapteins Vergaderings Plek 1870",
-                  "text": "Egy hely Rehobothban, ahol a kapitányok régen találkoztak.",
+                  "text": "A rehobothi Die ou Kapteins Vergaderings Plek a Baster törzsfők 1870-es történelmi találkozóhelye.",
                   "category": "historical",
                   "coords": [
                         17.075216,
@@ -443,7 +1100,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rehoboth Hill Sign",
-                  "text": "A jól ismert Hill-tábla Rehobothban.",
+                  "text": "A rehobothi dombtábla egy nagy felirat a város fölötti dombon.",
                   "category": "landmark",
                   "coords": [
                         17.072551,
@@ -454,7 +1111,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rehoboth Museum",
-                  "text": "Un muzeu din Rehoboth despre istoria locală.",
+                  "text": "Un muzeu despre istoria comunității Baster în Rehoboth.",
                   "category": "museum",
                   "coords": [
                         17.071973,
@@ -463,7 +1120,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Gravestone",
-                  "text": "O piatră funerară istorică în Rehoboth.",
+                  "text": "Piatra funerară din Rehoboth marchează un mormânt istoric al comunității Baster.",
                   "category": "historical",
                   "coords": [
                         17.075311,
@@ -472,7 +1129,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Die ou Kapteins Vergaderings Plek 1870",
-                  "text": "Un loc din Rehoboth unde căpitanii se întâlneau în trecut.",
+                  "text": "Die ou Kapteins Vergaderings Plek din Rehoboth este locul istoric de întâlnire al căpeteniilor Baster din 1870.",
                   "category": "historical",
                   "coords": [
                         17.075216,
@@ -481,7 +1138,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rehoboth Hill Sign",
-                  "text": "Cunoscutul indicator Hill din Rehoboth.",
+                  "text": "Semnul de pe dealul Rehoboth este o inscripție mare pe un deal deasupra orașului.",
                   "category": "landmark",
                   "coords": [
                         17.072551,
@@ -492,7 +1149,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rehoboth Museum",
-                  "text": "A museum in Rehoboth about local history.",
+                  "text": "A museum on the history of the Baster community in Rehoboth.",
                   "category": "museum",
                   "coords": [
                         17.071973,
@@ -501,7 +1158,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Gravestone",
-                  "text": "A historical gravestone in Rehoboth.",
+                  "text": "The gravestone in Rehoboth marks a historic grave of the Baster community.",
                   "category": "historical",
                   "coords": [
                         17.075311,
@@ -510,7 +1167,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Die ou Kapteins Vergaderings Plek 1870",
-                  "text": "A place in Rehoboth where captains used to meet.",
+                  "text": "Die ou Kapteins Vergaderings Plek in Rehoboth is the historic meeting place of the Baster captains from 1870.",
                   "category": "historical",
                   "coords": [
                         17.075216,
@@ -519,7 +1176,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rehoboth Hill Sign",
-                  "text": "The well-known Hill sign in Rehoboth.",
+                  "text": "The Rehoboth Hill Sign is a large sign on a hill overlooking the town.",
                   "category": "landmark",
                   "coords": [
                         17.072551,
@@ -577,7 +1234,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Zambezi State Forest",
-                  "text": "Der Zambezi State Forest ist ein geschütztes Naturschutzgebiet in Katima Mulilo.",
+                  "text": "Der Sambesi-Staatsforst in Mulilo ist ein geschütztes Waldgebiet entlang des Sambesi-Flusses.",
                   "category": "natural",
                   "coords": [
                         23.862219,
@@ -588,7 +1245,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zambezi State Forest",
-                  "text": "A Zambezi State Forest egy védett természetvédelmi terület Katima Mulilo közelében.",
+                  "text": "A mulilói Zambézi Állami Erdő egy védett erdőterület a Zambézi folyó mentén.",
                   "category": "natural",
                   "coords": [
                         23.862219,
@@ -599,7 +1256,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zambezi State Forest",
-                  "text": "Zambezi State Forest este o rezervație naturală protejată în Katima Mulilo.",
+                  "text": "Pădurea de Stat Zambezi din Mulilo este o zonă forestieră protejată de-a lungul râului Zambezi.",
                   "category": "natural",
                   "coords": [
                         23.862219,
@@ -610,7 +1267,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Zambezi State Forest",
-                  "text": "Zambezi State Forest is a protected nature reserve in Katima Mulilo.",
+                  "text": "Zambezi State Forest in Mulilo is a protected forest area along the Zambezi River.",
                   "category": "natural",
                   "coords": [
                         23.862219,
@@ -760,7 +1417,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Keetmanshoop Municipal Museum",
-                  "text": "Das Keetmanshoop Municipal Museum ist ein lokales Museum mit Ausstellungen in Keetmanshoop.",
+                  "text": "Das Keetmanshoop Municipal Museum zeigt die lokale Geschichte und Kultur von Keetmanshoop.",
                   "category": "museum",
                   "coords": [
                         18.132251,
@@ -769,7 +1426,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Keetmanshoop Public Swimming Pool",
-                  "text": "Das Keetmanshoop Public Swimming Pool ist eine Wasserparkanlage in Keetmanshoop.",
+                  "text": "Das Keetmanshoop Public Swimming Pool ist ein öffentliches Freibad in Keetmanshoop.",
                   "category": "family",
                   "coords": [
                         18.12878,
@@ -778,7 +1435,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eagle Monument",
-                  "text": "Das Eagle Monument ist ein öffentliches Denkmal in der Stadt Keetmanshoop.",
+                  "text": "Ein Denkmal zur Erinnerung an die deutsche Kolonialzeit in Keetmanshoop.",
                   "category": "historical",
                   "coords": [
                         18.134757,
@@ -787,7 +1444,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam locomotive",
-                  "text": "Die Steam locomotive ist eine historische Touristenattraktion in Keetmanshoop.",
+                  "text": "Die Dampflokomotive in Keetmanshoop ist eine historische Lokomotive am Bahnhof.",
                   "category": "landmark",
                   "coords": [
                         18.136525,
@@ -798,7 +1455,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Keetmanshoop Municipal Museum",
-                  "text": "A Keetmanshoop Municipal Museum egy helyi múzeum, amely kiállítási tárgyakat mutat be Keetmanshoop városában.",
+                  "text": "A keetmanshoopi Városi Múzeum Keetmanshoop helyi történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
                         18.132251,
@@ -807,7 +1464,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Keetmanshoop Public Swimming Pool",
-                  "text": "A Keetmanshoop Public Swimming Pool egy vízipark létesítmény Keetmanshoop városában.",
+                  "text": "A keetmanshoopi Nyilvános Uszoda egy szabadtéri medence Keetmanshoopban.",
                   "category": "family",
                   "coords": [
                         18.12878,
@@ -816,7 +1473,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eagle Monument",
-                  "text": "Az Eagle Monument egy köztéri emlékmű Keetmanshoop városában.",
+                  "text": "Egy emlékmű a német gyarmati időszak emlékére Keetmanshoopban.",
                   "category": "historical",
                   "coords": [
                         18.134757,
@@ -825,7 +1482,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam locomotive",
-                  "text": "A Steam locomotive egy történelmi turisztikai látványosság Keetmanshoop városában.",
+                  "text": "A keetmanshoopi gőzmozdony egy történelmi mozdony az állomáson.",
                   "category": "landmark",
                   "coords": [
                         18.136525,
@@ -836,7 +1493,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Keetmanshoop Municipal Museum",
-                  "text": "Muzeul Municipal Keetmanshoop este un muzeu local care expune artefacte în Keetmanshoop.",
+                  "text": "Muzeul Municipal Keetmanshoop expune istoria și cultura locală a orașului Keetmanshoop.",
                   "category": "museum",
                   "coords": [
                         18.132251,
@@ -845,7 +1502,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Keetmanshoop Public Swimming Pool",
-                  "text": "Keetmanshoop Public Swimming Pool este un parc acvatic din Keetmanshoop.",
+                  "text": "Piscina Publică Keetmanshoop este o piscină în aer liber în Keetmanshoop.",
                   "category": "family",
                   "coords": [
                         18.12878,
@@ -854,7 +1511,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eagle Monument",
-                  "text": "Eagle Monument este un monument public situat în orașul Keetmanshoop.",
+                  "text": "Un monument care comemorează epoca colonială germană în Keetmanshoop.",
                   "category": "historical",
                   "coords": [
                         18.134757,
@@ -863,7 +1520,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam locomotive",
-                  "text": "Steam locomotive este o atracție turistică istorică situată în Keetmanshoop.",
+                  "text": "Locomotiva cu abur din Keetmanshoop este o locomotivă istorică la gară.",
                   "category": "landmark",
                   "coords": [
                         18.136525,
@@ -874,7 +1531,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Keetmanshoop Municipal Museum",
-                  "text": "Keetmanshoop Municipal Museum is a local museum exhibiting artifacts in Keetmanshoop.",
+                  "text": "Keetmanshoop Municipal Museum exhibits the local history and culture of Keetmanshoop.",
                   "category": "museum",
                   "coords": [
                         18.132251,
@@ -883,7 +1540,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Keetmanshoop Public Swimming Pool",
-                  "text": "Keetmanshoop Public Swimming Pool is a water park facility in Keetmanshoop.",
+                  "text": "Keetmanshoop Public Swimming Pool is an outdoor public pool in Keetmanshoop.",
                   "category": "family",
                   "coords": [
                         18.12878,
@@ -892,7 +1549,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eagle Monument",
-                  "text": "Eagle Monument is a public monument located in the city of Keetmanshoop.",
+                  "text": "A monument commemorating the German colonial era in Keetmanshoop.",
                   "category": "historical",
                   "coords": [
                         18.134757,
@@ -901,7 +1558,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Steam locomotive",
-                  "text": "Steam locomotive is a historical tourist attraction situated in Keetmanshoop.",
+                  "text": "The steam locomotive in Keetmanshoop is a historic locomotive at the station.",
                   "category": "landmark",
                   "coords": [
                         18.136525,
@@ -959,7 +1616,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tsumeb Museum",
-                  "text": "Das Tsumeb Museum ist ein Museum in der Stadt Tsumeb.",
+                  "text": "Das Tsumeb Museum zeigt die Bergbaugeschichte und Artefakte der Tsumeb-Kupfermine.",
                   "category": "museum",
                   "coords": [
                         17.718102,
@@ -979,7 +1636,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tsumeb Museum",
-                  "text": "A Tsumeb Museum egy múzeum Tsumeb városában.",
+                  "text": "A tsumebi Múzeum a tsumebi rézbánya bányászattörténetét és tárgyait mutatja be.",
                   "category": "museum",
                   "coords": [
                         17.718102,
@@ -999,7 +1656,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tsumeb Museum",
-                  "text": "Tsumeb Museum este un muzeu localizat în Tsumeb.",
+                  "text": "Muzeul Tsumeb expune istoria mineritului și artefacte de la mina de cupru Tsumeb.",
                   "category": "museum",
                   "coords": [
                         17.718102,
@@ -1019,7 +1676,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tsumeb Museum",
-                  "text": "Tsumeb Museum is a museum situated in Tsumeb.",
+                  "text": "Tsumeb Museum exhibits the mining history and artifacts of the Tsumeb copper mine.",
                   "category": "museum",
                   "coords": [
                         17.718102,
@@ -1086,7 +1743,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gobabis Museum",
-                  "text": "Ein Museum in Gobabis zur lokalen Geschichte.",
+                  "text": "Das Gobabis Museum zeigt die lokale Geschichte der Region Gobabis.",
                   "category": "museum",
                   "coords": [
                         18.975241,
@@ -1095,7 +1752,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cattle Country Statue",
-                  "text": "Eine Statue in Gobabis, die die Viehwirtschaft symbolisiert.",
+                  "text": "Die Cattle Country Statue in Gobabis ist eine Statue eines Bullen, die an die Viehzucht erinnert.",
                   "category": "historical",
                   "coords": [
                         18.967082,
@@ -1106,7 +1763,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gobabis Museum",
-                  "text": "Helytörténeti múzeum Gobabisban.",
+                  "text": "A gobabisi Múzeum Gobabis régiójának helyi történelmét mutatja be.",
                   "category": "museum",
                   "coords": [
                         18.975241,
@@ -1115,7 +1772,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cattle Country Statue",
-                  "text": "Szobor Gobabisban, amely a szarvasmarha-tenyésztést jelképezi.",
+                  "text": "A gobabisi Szarvasmarha Ország Szobor egy bika szobra, amely az állattenyésztésre emlékeztet.",
                   "category": "historical",
                   "coords": [
                         18.967082,
@@ -1126,7 +1783,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gobabis Museum",
-                  "text": "Un muzeu din Gobabis despre istoria locală.",
+                  "text": "Muzeul Gobabis expune istoria locală a regiunii Gobabis.",
                   "category": "museum",
                   "coords": [
                         18.975241,
@@ -1135,7 +1792,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cattle Country Statue",
-                  "text": "O statuie din Gobabis care simbolizează creșterea vitelor.",
+                  "text": "Statuia Țării Vitelor din Gobabis este o statuie a unui taur care amintește de creșterea vitelor.",
                   "category": "historical",
                   "coords": [
                         18.967082,
@@ -1146,7 +1803,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gobabis Museum",
-                  "text": "A museum in Gobabis about local history.",
+                  "text": "Gobabis Museum exhibits the local history of the Gobabis region.",
                   "category": "museum",
                   "coords": [
                         18.975241,
@@ -1155,7 +1812,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cattle Country Statue",
-                  "text": "A statue in Gobabis symbolizing the cattle industry.",
+                  "text": "The Cattle Country Statue in Gobabis is a statue of a bull representing livestock farming.",
                   "category": "historical",
                   "coords": [
                         18.967082,
@@ -1213,7 +1870,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Altes Fort",
-                  "text": "Das Alte Fort ist ein historisches Festungsgebäude in Grootfontein.",
+                  "text": "Das Altes Fort in Grootfontein ist eine deutsche Kolonialfestung aus der Kaiserzeit.",
                   "category": "castle",
                   "coords": [
                         18.108043,
@@ -1224,7 +1881,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Altes Fort",
-                  "text": "Az Altes Fort egy történelmi várkastély Grootfontein városában.",
+                  "text": "A grootfonteini Régi Erőd egy német gyarmati erőd a császári korból.",
                   "category": "castle",
                   "coords": [
                         18.108043,
@@ -1235,7 +1892,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Altes Fort",
-                  "text": "Altes Fort este o fortăreață istorică situată în Grootfontein.",
+                  "text": "Altes Fort din Grootfontein este o fortăreață colonială germană din perioada imperială.",
                   "category": "castle",
                   "coords": [
                         18.108043,
@@ -1246,7 +1903,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Altes Fort",
-                  "text": "Altes Fort is a historical castle structure located in Grootfontein.",
+                  "text": "Altes Fort in Grootfontein is a German colonial fort from the imperial era.",
                   "category": "castle",
                   "coords": [
                         18.108043,
@@ -1304,7 +1961,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Namibia Maritime Museum",
-                  "text": "Das Namibia Maritime Museum ist ein bedeutendes Schifffahrtsmuseum in Lüderitz.",
+                  "text": "Museum in einem historischen Gebäude, das die maritime Geschichte und den Diamantenhandel zeigt.",
                   "category": "museum",
                   "coords": [
                         15.151935,
@@ -1313,7 +1970,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Goerke",
-                  "text": "Das Haus Goerke ist ein historisches Gebäude und Museum in Lüderitz.",
+                  "text": "Jugendstilhaus von 1907, ehemaliger Wohnsitz eines Kolonialbeamten, heute Museum.",
                   "category": "museum",
                   "coords": [
                         15.152852,
@@ -1322,7 +1979,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Lüderitz Waterfront",
-                  "text": "Die Lüderitz Waterfront ist eine Sehenswürdigkeit in Lüderitz.",
+                  "text": "Die Lüderitz Waterfront ist eine malerische Uferpromenade mit Blick auf den Atlantik und Kolonialgebäude.",
                   "category": "landmark",
                   "coords": [
                         15.155876,
@@ -1340,7 +1997,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Hartmann",
-                  "text": "Das Haus Hartmann ist eine Sehenswürdigkeit in Lüderitz.",
+                  "text": "Das Haus Hartmann in Lüderitz ist ein Jugendstilgebäude des Architekten Hartmann.",
                   "category": "landmark",
                   "coords": [
                         15.153776,
@@ -1349,7 +2006,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Lesehalle",
-                  "text": "Die Lesehalle ist eine Sehenswürdigkeit in Lüderitz.",
+                  "text": "Die Lesehalle in Lüderitz ist eine historische Bibliothek aus der deutschen Kolonialzeit.",
                   "category": "landmark",
                   "coords": [
                         15.156206,
@@ -1358,7 +2015,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Grunewald",
-                  "text": "Das Haus Grunewald ist eine Sehenswürdigkeit in der Stadt Lüderitz.",
+                  "text": "Das Haus Grunewald in Lüderitz ist ein kolonialzeitliches Wohnhaus mit markanter Architektur.",
                   "category": "landmark",
                   "coords": [
                         15.152944,
@@ -1369,7 +2026,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Namibia Maritime Museum",
-                  "text": "A Namibia Maritime Museum egy jelentős tengerészeti múzeum Lüderitz városában.",
+                  "text": "Múzeum egy történelmi épületben, a tengerészeti történelemről és a gyémántkereskedelemről.",
                   "category": "museum",
                   "coords": [
                         15.151935,
@@ -1378,7 +2035,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Goerke",
-                  "text": "A Haus Goerke egy történelmi épület és múzeum Lüderitz városában.",
+                  "text": "Szecessziós ház 1907-ből, egy gyarmati tisztviselő egykori lakhelye, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         15.152852,
@@ -1387,7 +2044,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Lüderitz Waterfront",
-                  "text": "A Lüderitz Waterfront egy látványosság Lüderitz városában.",
+                  "text": "A lüderitzi Tengerpart egy festői sétány, ahonnan az Atlanti-óceánra és a gyarmati épületekre nyílik kilátás.",
                   "category": "landmark",
                   "coords": [
                         15.155876,
@@ -1405,7 +2062,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Hartmann",
-                  "text": "A Haus Hartmann egy látványosság Lüderitz városában.",
+                  "text": "A lüderitzi Hartmann-ház egy szecessziós épület, Hartmann építész tervezte.",
                   "category": "landmark",
                   "coords": [
                         15.153776,
@@ -1414,7 +2071,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Lesehalle",
-                  "text": "A Lesehalle egy látványosság Lüderitz városában.",
+                  "text": "A lüderitzi Olvasóterem egy történelmi könyvtár a német gyarmati időkből.",
                   "category": "landmark",
                   "coords": [
                         15.156206,
@@ -1423,7 +2080,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Grunewald",
-                  "text": "A Haus Grunewald egy látványosság Lüderitz városában.",
+                  "text": "A lüderitzi Grunewald-ház egy gyarmati kori lakóház jellegzetes építészettel.",
                   "category": "landmark",
                   "coords": [
                         15.152944,
@@ -1434,7 +2091,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Namibia Maritime Museum",
-                  "text": "Namibia Maritime Museum este un important muzeu maritim situat în Lüderitz.",
+                  "text": "Muzeu într-o clădire istorică, care acoperă istoria maritimă și comerțul cu diamante.",
                   "category": "museum",
                   "coords": [
                         15.151935,
@@ -1443,7 +2100,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Goerke",
-                  "text": "Haus Goerke este o clădire istorică și un muzeu în Lüderitz.",
+                  "text": "Casă Art Nouveau construită în 1907, fosta reședință a unui oficial colonial, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         15.152852,
@@ -1452,7 +2109,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Lüderitz Waterfront",
-                  "text": "Lüderitz Waterfront este o atracție în Lüderitz.",
+                  "text": "Faleza Lüderitz este o promenadă pitorească cu vedere la Atlantic și clădiri coloniale.",
                   "category": "landmark",
                   "coords": [
                         15.155876,
@@ -1470,7 +2127,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Hartmann",
-                  "text": "Haus Hartmann este o atracție din orașul Lüderitz.",
+                  "text": "Casa Hartmann din Lüderitz este o clădire Art Nouveau proiectată de arhitectul Hartmann.",
                   "category": "landmark",
                   "coords": [
                         15.153776,
@@ -1479,7 +2136,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Lesehalle",
-                  "text": "Lesehalle este o atracție în Lüderitz.",
+                  "text": "Sala de Lectură din Lüderitz este o bibliotecă istorică din perioada colonială germană.",
                   "category": "landmark",
                   "coords": [
                         15.156206,
@@ -1488,7 +2145,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Grunewald",
-                  "text": "Haus Grunewald este o atracție turistică în Lüderitz.",
+                  "text": "Casa Grunewald din Lüderitz este o casă de locuit din perioada colonială cu arhitectură distinctivă.",
                   "category": "landmark",
                   "coords": [
                         15.152944,
@@ -1499,7 +2156,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Namibia Maritime Museum",
-                  "text": "The Namibia Maritime Museum is a notable maritime museum located in Lüderitz.",
+                  "text": "Museum in a historic building, covering maritime history and the diamond trade.",
                   "category": "museum",
                   "coords": [
                         15.151935,
@@ -1508,7 +2165,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Goerke",
-                  "text": "Haus Goerke is a historic building that serves as a museum in Lüderitz.",
+                  "text": "Art Nouveau house built in 1907, former residence of a colonial official, now a museum.",
                   "category": "museum",
                   "coords": [
                         15.152852,
@@ -1517,7 +2174,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Lüderitz Waterfront",
-                  "text": "The Lüderitz Waterfront is an attraction located in Lüderitz.",
+                  "text": "Lüderitz Waterfront is a scenic promenade with views of the Atlantic and colonial buildings.",
                   "category": "landmark",
                   "coords": [
                         15.155876,
@@ -1535,7 +2192,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Hartmann",
-                  "text": "Haus Hartmann is an attraction situated in Lüderitz.",
+                  "text": "Haus Hartmann in Lüderitz is an Art Nouveau building designed by architect Hartmann.",
                   "category": "landmark",
                   "coords": [
                         15.153776,
@@ -1544,7 +2201,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Lesehalle",
-                  "text": "Lesehalle is an attraction to visit in Lüderitz.",
+                  "text": "Lesehalle in Lüderitz is a historic library from the German colonial period.",
                   "category": "landmark",
                   "coords": [
                         15.156206,
@@ -1553,7 +2210,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Haus Grunewald",
-                  "text": "Haus Grunewald is an attraction situated in Lüderitz.",
+                  "text": "Haus Grunewald in Lüderitz is a colonial-era residential house with distinctive architecture.",
                   "category": "landmark",
                   "coords": [
                         15.152944,
@@ -1657,7 +2314,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Franke-Haus-Museum",
-                  "text": "Das Franke-Haus-Museum ist ein heimatkundliches Museum in Outjo.",
+                  "text": "Ein Museum im ehemaligen Wohnhaus des Kolonialoffiziers Franke in Outjo.",
                   "category": "museum",
                   "coords": [
                         16.153209,
@@ -1666,7 +2323,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Water Tower",
-                  "text": "Water Tower besteht aus historischen Ruinen in Outjo.",
+                  "text": "Der Wasserturm in Outjo ist ein historischer Wasserturm aus der deutschen Kolonialzeit.",
                   "category": "historical",
                   "coords": [
                         16.156063,
@@ -1677,7 +2334,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Franke-Haus-Museum",
-                  "text": "A Franke-Haus-Museum egy helytörténeti múzeum Outjóban.",
+                  "text": "Egy múzeum Franke gyarmati tiszt egykori lakóházában Outjóban.",
                   "category": "museum",
                   "coords": [
                         16.153209,
@@ -1686,7 +2343,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Water Tower",
-                  "text": "A Water Tower történelmi romokat foglal magába Outjóban.",
+                  "text": "Az outjoi Víztorony egy történelmi víztorony a német gyarmati időkből.",
                   "category": "historical",
                   "coords": [
                         16.156063,
@@ -1697,7 +2354,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Franke-Haus-Museum",
-                  "text": "Franke-Haus-Museum este un muzeu de istorie locală situat în Outjo.",
+                  "text": "Un muzeu în fosta reședință a ofițerului colonial Franke în Outjo.",
                   "category": "museum",
                   "coords": [
                         16.153209,
@@ -1706,7 +2363,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Water Tower",
-                  "text": "Water Tower constă în ruine istorice situate în Outjo.",
+                  "text": "Turnul de Apă din Outjo este un turn de apă istoric din perioada colonială germană.",
                   "category": "historical",
                   "coords": [
                         16.156063,
@@ -1717,7 +2374,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Franke-Haus-Museum",
-                  "text": "Franke-Haus-Museum is a local history museum situated in Outjo.",
+                  "text": "A museum in the former residence of colonial officer Franke in Outjo.",
                   "category": "museum",
                   "coords": [
                         16.153209,
@@ -1726,7 +2383,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Water Tower",
-                  "text": "Water Tower consists of historical ruins located in Outjo.",
+                  "text": "The Water Tower in Outjo is a historic water tower from the German colonial period.",
                   "category": "historical",
                   "coords": [
                         16.156063,
@@ -1922,7 +2579,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museum of Namibian Fashion",
-                  "text": "Das Museum of Namibian Fashion ist ein Museum in Otjiwarongo.",
+                  "text": "Das Museum of Namibian Fashion in Otjiwarongo zeigt traditionelle und moderne namibische Kleidung.",
                   "category": "museum",
                   "coords": [
                         16.645582,
@@ -1931,7 +2588,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Otjiwarongo Crocodile Farm",
-                  "text": "Die Otjiwarongo Crocodile Farm ist ein Zoo in Otjiwarongo.",
+                  "text": "Die Otjiwarongo Crocodile Farm züchtet Nilkrokodile und bietet Führungen an.",
                   "category": "family",
                   "coords": [
                         16.655533,
@@ -1940,7 +2597,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Historical Train",
-                  "text": "Der Historical Train ist eine Attraktion in Otjiwarongo.",
+                  "text": "Der Historical Train in Otjiwarongo ist eine erhaltene Dampflokomotive oder ein Eisenbahnwaggon.",
                   "category": "landmark",
                   "coords": [
                         16.638351,
@@ -1949,7 +2606,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Welcome Wall",
-                  "text": "Die Welcome Wall ist ein Denkmal in Otjiwarongo.",
+                  "text": "Die Welcome Wall in Otjiwarongo ist eine Mauer mit der Aufschrift „Welcome to Otjiwarongo“.",
                   "category": "historical",
                   "coords": [
                         16.65311,
@@ -1958,7 +2615,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Welcome Sign",
-                  "text": "Das Welcome Sign ist ein Denkmal in Otjiwarongo.",
+                  "text": "Das Welcome Sign in Otjiwarongo ist ein Schild, das Besucher am Stadteingang willkommen heißt.",
                   "category": "historical",
                   "coords": [
                         16.641268,
@@ -1967,7 +2624,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "NG Kerk Otjiwarongo",
-                  "text": "Die NG Kerk Otjiwarongo ist ein niederländisch-reformiertes Gotteshaus in Otjiwarongo.",
+                  "text": "Niederländisch-reformierte Kirche mit einem hohen Turm, ein markantes Wahrzeichen in Otjiwarongo.",
                   "category": "religious",
                   "coords": [
                         16.649972,
@@ -1978,7 +2635,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museum of Namibian Fashion",
-                  "text": "A Museum of Namibian Fashion egy múzeum Otjiwarongo városában.",
+                  "text": "Az otjiwarongói Namíbiai Divat Múzeum hagyományos és modern namíbiai ruházatot mutat be.",
                   "category": "museum",
                   "coords": [
                         16.645582,
@@ -1987,7 +2644,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Otjiwarongo Crocodile Farm",
-                  "text": "Az Otjiwarongo Crocodile Farm egy állatkert Otjiwarongo városában.",
+                  "text": "Az otjiwarongói Krokodilfarm nílusi krokodilokat tenyészt és túrákat kínál.",
                   "category": "family",
                   "coords": [
                         16.655533,
@@ -1996,7 +2653,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Historical Train",
-                  "text": "A Historical Train egy látványosság Otjiwarongóban.",
+                  "text": "Az otjiwarongói Történelmi Vonat egy megőrzött gőzmozdony vagy vasúti kocsi.",
                   "category": "landmark",
                   "coords": [
                         16.638351,
@@ -2005,7 +2662,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Welcome Wall",
-                  "text": "A Welcome Wall egy emlékmű Otjiwarongóban.",
+                  "text": "Az otjiwarongói Üdvözlőfal egy fal, amelyen a „Welcome to Otjiwarongo” felirat olvasható.",
                   "category": "historical",
                   "coords": [
                         16.65311,
@@ -2014,7 +2671,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Welcome Sign",
-                  "text": "A Welcome Sign egy emlékmű Otjiwarongóban.",
+                  "text": "Az otjiwarongói Üdvözlőtábla egy tábla, amely a város bejáratánál köszönti a látogatókat.",
                   "category": "historical",
                   "coords": [
                         16.641268,
@@ -2023,7 +2680,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "NG Kerk Otjiwarongo",
-                  "text": "Az NG Kerk Otjiwarongo egy holland református istentiszteleti hely Otjiwarongóban.",
+                  "text": "Holland református templom magas toronnyal, Otjiwarongo nevezetes épülete.",
                   "category": "religious",
                   "coords": [
                         16.649972,
@@ -2034,7 +2691,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museum of Namibian Fashion",
-                  "text": "Museum of Namibian Fashion este un muzeu din Otjiwarongo.",
+                  "text": "Muzeul Modei Namibiene din Otjiwarongo expune îmbrăcămintea tradițională și modernă namibiană.",
                   "category": "museum",
                   "coords": [
                         16.645582,
@@ -2043,7 +2700,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Otjiwarongo Crocodile Farm",
-                  "text": "Otjiwarongo Crocodile Farm este o grădină zoologică situată în Otjiwarongo.",
+                  "text": "Ferma de Crocodili Otjiwarongo crește crocodili de Nil și oferă tururi ghidate.",
                   "category": "family",
                   "coords": [
                         16.655533,
@@ -2052,7 +2709,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Historical Train",
-                  "text": "Historical Train este o atracție situată în Otjiwarongo.",
+                  "text": "Trenul Istoric din Otjiwarongo este o locomotivă cu abur sau un vagon de cale ferată conservat.",
                   "category": "landmark",
                   "coords": [
                         16.638351,
@@ -2061,7 +2718,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Welcome Wall",
-                  "text": "Welcome Wall este un monument situat în Otjiwarongo.",
+                  "text": "Zidul de Bun Venit din Otjiwarongo este un zid cu inscripția „Welcome to Otjiwarongo”.",
                   "category": "historical",
                   "coords": [
                         16.65311,
@@ -2070,7 +2727,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Welcome Sign",
-                  "text": "Welcome Sign este un monument în Otjiwarongo.",
+                  "text": "Indicatorul de Bun Venit din Otjiwarongo este un semn care întâmpină vizitatorii la intrarea în oraș.",
                   "category": "historical",
                   "coords": [
                         16.641268,
@@ -2079,7 +2736,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "NG Kerk Otjiwarongo",
-                  "text": "NG Kerk Otjiwarongo este un lăcaș de cult reformat olandez din Otjiwarongo.",
+                  "text": "Biserică olandeză reformată cu un turn înalt, un reper proeminent în Otjiwarongo.",
                   "category": "religious",
                   "coords": [
                         16.649972,
@@ -2090,7 +2747,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museum of Namibian Fashion",
-                  "text": "The Museum of Namibian Fashion is a museum located in Otjiwarongo.",
+                  "text": "The Museum of Namibian Fashion in Otjiwarongo exhibits traditional and modern Namibian clothing.",
                   "category": "museum",
                   "coords": [
                         16.645582,
@@ -2099,7 +2756,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Otjiwarongo Crocodile Farm",
-                  "text": "Otjiwarongo Crocodile Farm is a zoo located in Otjiwarongo.",
+                  "text": "Otjiwarongo Crocodile Farm breeds Nile crocodiles and offers guided tours.",
                   "category": "family",
                   "coords": [
                         16.655533,
@@ -2108,7 +2765,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Historical Train",
-                  "text": "The Historical Train is an attraction located in Otjiwarongo.",
+                  "text": "The Historical Train in Otjiwarongo is a preserved steam locomotive or railway carriage.",
                   "category": "landmark",
                   "coords": [
                         16.638351,
@@ -2117,7 +2774,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Welcome Wall",
-                  "text": "The Welcome Wall is a monument located in Otjiwarongo.",
+                  "text": "The Welcome Wall in Otjiwarongo is a wall inscribed with 'Welcome to Otjiwarongo'.",
                   "category": "historical",
                   "coords": [
                         16.65311,
@@ -2126,7 +2783,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Welcome Sign",
-                  "text": "The Welcome Sign is a monument in Otjiwarongo.",
+                  "text": "The Welcome Sign in Otjiwarongo is a sign greeting visitors at the city entrance.",
                   "category": "historical",
                   "coords": [
                         16.641268,
@@ -2135,7 +2792,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "NG Kerk Otjiwarongo",
-                  "text": "The NG Kerk Otjiwarongo is a Dutch Reformed place of worship located in Otjiwarongo.",
+                  "text": "Dutch Reformed church with a tall spire, a prominent landmark in Otjiwarongo.",
                   "category": "religious",
                   "coords": [
                         16.649972,
@@ -2239,7 +2896,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Opuwo Cultural Centre",
-                  "text": "Das Opuwo Cultural Centre ist ein Museum in der Stadt Opuwo.",
+                  "text": "Das Opuwo Cultural Centre präsentiert die Kultur der Himba und anderer lokaler Völker.",
                   "category": "museum",
                   "coords": [
                         13.853389,
@@ -2250,7 +2907,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Opuwo Cultural Centre",
-                  "text": "Az Opuwo Cultural Centre egy múzeum Opuwo városában.",
+                  "text": "Az opuwoi Kulturális Központ a Himba és más helyi népek kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
                         13.853389,
@@ -2261,7 +2918,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Opuwo Cultural Centre",
-                  "text": "Opuwo Cultural Centre este un muzeu situat în orașul Opuwo.",
+                  "text": "Centrul Cultural Opuwo prezintă cultura Himba și a altor popoare locale.",
                   "category": "museum",
                   "coords": [
                         13.853389,
@@ -2272,7 +2929,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Opuwo Cultural Centre",
-                  "text": "Opuwo Cultural Centre is a museum situated in the city of Opuwo.",
+                  "text": "Opuwo Cultural Centre showcases the culture of the Himba and other local peoples.",
                   "category": "museum",
                   "coords": [
                         13.853389,
@@ -2376,7 +3033,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Little Theatre",
-                  "text": "Ein Theater für kulturelle Veranstaltungen in Oranjemund.",
+                  "text": "Das Little Theatre in Oranjemund ist ein Gemeinschaftstheater in der Diamantenbergbaustadt.",
                   "category": "cultural",
                   "coords": [
                         16.425072,
@@ -2396,7 +3053,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Little Theatre",
-                  "text": "Színház kulturális rendezvények számára Oranjemundban.",
+                  "text": "Az oranjemundi Kis Színház egy közösségi színház a gyémántbányász városban.",
                   "category": "cultural",
                   "coords": [
                         16.425072,
@@ -2416,7 +3073,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Little Theatre",
-                  "text": "Un teatru pentru evenimente culturale în Oranjemund.",
+                  "text": "Little Theatre din Oranjemund este un teatru comunitar în orașul minier de diamante.",
                   "category": "cultural",
                   "coords": [
                         16.425072,
@@ -2436,7 +3093,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Little Theatre",
-                  "text": "A theater for cultural events in Oranjemund.",
+                  "text": "Little Theatre in Oranjemund is a community theatre in the diamond mining town.",
                   "category": "cultural",
                   "coords": [
                         16.425072,
@@ -2549,7 +3206,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Outapi War Museum",
-                  "text": "Das Outapi War Museum ist ein Museum in Outapi.",
+                  "text": "Das Outapi War Museum zeigt Exponate zum namibischen Unabhängigkeitskrieg und zur lokalen Geschichte.",
                   "category": "museum",
                   "coords": [
                         14.979286,
@@ -2558,7 +3215,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ombalantu Baobab Tree",
-                  "text": "Der Ombalantu Baobab Tree ist eine natürliche Attraktion in Outapi.",
+                  "text": "Der Ombalantu-Baobab-Baum in Outapi ist ein mächtiger Affenbrotbaum mit einem hohlen Stamm, der als Kapelle und Postamt diente.",
                   "category": "landmark",
                   "coords": [
                         14.987959,
@@ -2569,7 +3226,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Outapi War Museum",
-                  "text": "Az Outapi War Museum egy Outapiban található múzeum.",
+                  "text": "Az outapi Háborús Múzeum a namíbiai függetlenségi háború és a helyi történelem tárgyait mutatja be.",
                   "category": "museum",
                   "coords": [
                         14.979286,
@@ -2578,7 +3235,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ombalantu Baobab Tree",
-                  "text": "Az Ombalantu Baobab Tree egy természeti látványosság Outapiban.",
+                  "text": "Az outapi Ombalantu Baobab fa egy hatalmas baobabfa, melynek üreges törzse kápolnaként és postaként szolgált.",
                   "category": "landmark",
                   "coords": [
                         14.987959,
@@ -2589,7 +3246,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Outapi War Museum",
-                  "text": "Outapi War Museum este un muzeu situat în Outapi.",
+                  "text": "Muzeul de Război Outapi expune exponate despre războiul de independență namibian și istoria locală.",
                   "category": "museum",
                   "coords": [
                         14.979286,
@@ -2598,7 +3255,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ombalantu Baobab Tree",
-                  "text": "Ombalantu Baobab Tree este o atracție naturală în Outapi.",
+                  "text": "Baobabul Ombalantu din Outapi este un baobab masiv cu un trunchi scobit care a servit drept capelă și oficiu poștal.",
                   "category": "landmark",
                   "coords": [
                         14.987959,
@@ -2609,7 +3266,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Outapi War Museum",
-                  "text": "The Outapi War Museum is a museum situated in Outapi.",
+                  "text": "Outapi War Museum exhibits artifacts of the Namibian War of Independence and local history.",
                   "category": "museum",
                   "coords": [
                         14.979286,
@@ -2618,7 +3275,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ombalantu Baobab Tree",
-                  "text": "The Ombalantu Baobab Tree is a natural attraction in Outapi.",
+                  "text": "The Ombalantu Baobab Tree in Outapi is a massive baobab with a hollow trunk that served as a chapel and post office.",
                   "category": "landmark",
                   "coords": [
                         14.987959,
@@ -2770,7 +3427,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "HAFA Fish Shop",
-                  "text": "Der HAFA Fish Shop ist eine Attraktion in Henties Bay.",
+                  "text": "Der HAFA Fish Shop in der Bucht (Henties Bay) ist ein beliebtes Fischrestaurant.",
                   "category": "landmark",
                   "coords": [
                         14.284819,
@@ -2781,7 +3438,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "HAFA Fish Shop",
-                  "text": "A HAFA Fish Shop egy látványosság Henties Bay-ben.",
+                  "text": "A HAFA Halfishozó az öbölben (Henties Bay) egy népszerű halétterem.",
                   "category": "landmark",
                   "coords": [
                         14.284819,
@@ -2792,7 +3449,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "HAFA Fish Shop",
-                  "text": "HAFA Fish Shop este o atracție din Henties Bay.",
+                  "text": "Magazinul de Pește HAFA din Golf (Henties Bay) este un restaurant popular de pește.",
                   "category": "landmark",
                   "coords": [
                         14.284819,
@@ -2803,7 +3460,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "HAFA Fish Shop",
-                  "text": "The HAFA Fish Shop is an attraction found in Henties Bay.",
+                  "text": "HAFA Fish Shop in the Bay (Henties Bay) is a popular fish and chips spot.",
                   "category": "landmark",
                   "coords": [
                         14.284819,
@@ -2953,7 +3610,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Schmelen House",
-                  "text": "Das Schmelen House ist ein Museum in Bethanie.",
+                  "text": "Das Schmelen-Haus in Bethanie ist das älteste Steinhaus Namibias, erbaut 1814 vom Missionar Heinrich Schmelen.",
                   "category": "museum",
                   "coords": [
                         17.159374,
@@ -2964,7 +3621,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Schmelen House",
-                  "text": "A Schmelen House egy múzeum Bethanie városában.",
+                  "text": "A bethanie-i Schmelen-ház Namíbia legrégebbi kőháza, amelyet Heinrich Schmelen misszionárius építtetett 1814-ben.",
                   "category": "museum",
                   "coords": [
                         17.159374,
@@ -2975,7 +3632,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Schmelen House",
-                  "text": "Schmelen House este un muzeu din Bethanie.",
+                  "text": "Casa Schmelen din Bethanie este cea mai veche casă de piatră din Namibia, construită în 1814 de misionarul Heinrich Schmelen.",
                   "category": "museum",
                   "coords": [
                         17.159374,
@@ -2986,7 +3643,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Schmelen House",
-                  "text": "The Schmelen House is a museum in Bethanie.",
+                  "text": "Schmelen House in Bethanie is Namibia's oldest stone house, built in 1814 by missionary Heinrich Schmelen.",
                   "category": "museum",
                   "coords": [
                         17.159374,
@@ -3090,7 +3747,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ruins of the Officers's House",
-                  "text": "Ruins of the Officers's House ist eine Touristenattraktion in Maltahöhe.",
+                  "text": "Die Ruinen des Offiziershauses in Maltahohe sind die Überreste einer deutschen Kolonialresidenz.",
                   "category": "landmark",
                   "coords": [
                         16.978182,
@@ -3099,7 +3756,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ôahera Cultural Centre",
-                  "text": "Das Ôahera Cultural Centre ist ein Kunstzentrum in Maltahöhe.",
+                  "text": "Das Ôahera Cultural Centre in Maltahohe fördert die Nama-Kultur und -Kunsthandwerk.",
                   "category": "cultural",
                   "coords": [
                         16.974068,
@@ -3110,7 +3767,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ruins of the Officers's House",
-                  "text": "A Ruins of the Officers's House egy turisztikai látványosság Maltahöhe városában.",
+                  "text": "A maltahohei Tisztiház romjai egy német gyarmati rezidencia maradványai.",
                   "category": "landmark",
                   "coords": [
                         16.978182,
@@ -3119,7 +3776,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ôahera Cultural Centre",
-                  "text": "Az Ôahera Cultural Centre egy művészeti központ Maltahöhe városában.",
+                  "text": "A maltahohei Ôahera Kulturális Központ a Nama kultúrát és kézművességet népszerűsíti.",
                   "category": "cultural",
                   "coords": [
                         16.974068,
@@ -3130,7 +3787,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ruins of the Officers's House",
-                  "text": "Ruins of the Officers's House este o atracție turistică situată în Maltahöhe.",
+                  "text": "Ruinele Casei Ofițerilor din Maltahohe sunt rămășițele unei reședințe coloniale germane.",
                   "category": "landmark",
                   "coords": [
                         16.978182,
@@ -3139,7 +3796,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ôahera Cultural Centre",
-                  "text": "Ôahera Cultural Centre este un centru de arte situat în Maltahöhe.",
+                  "text": "Centrul Cultural Ôahera din Maltahohe promovează cultura și meșteșugurile Nama.",
                   "category": "cultural",
                   "coords": [
                         16.974068,
@@ -3150,7 +3807,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ruins of the Officers's House",
-                  "text": "Ruins of the Officers's House is a tourist attraction located in Maltahöhe.",
+                  "text": "The Ruins of the Officers' House in Maltahohe are remains of a German colonial residence.",
                   "category": "landmark",
                   "coords": [
                         16.978182,
@@ -3159,7 +3816,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ôahera Cultural Centre",
-                  "text": "Ôahera Cultural Centre is an arts centre situated in Maltahöhe.",
+                  "text": "Ôahera Cultural Centre in Maltahohe promotes Nama culture and crafts.",
                   "category": "cultural",
                   "coords": [
                         16.974068,
@@ -3770,7 +4427,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Prisoner of War Camp",
-                  "text": "Das Prisoner of War Camp ist eine historische Attraktion in Aus.",
+                  "text": "Das Kriegsgefangenenlager in Aus ist eine erhaltene Stätte eines deutschen Kriegsgefangenenlagers aus dem Ersten Weltkrieg.",
                   "category": "landmark",
                   "coords": [
                         16.287657,
@@ -3779,7 +4436,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kaiser-Wilhelm-Denkmal",
-                  "text": "Das Kaiser-Wilhelm-Denkmal ist ein Monument in Aus.",
+                  "text": "Das Kaiser-Wilhelm-Denkmal in Aus ist ein steinernes Denkmal zu Ehren von Kaiser Wilhelm I.",
                   "category": "historical",
                   "coords": [
                         16.260846,
@@ -3790,7 +4447,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Prisoner of War Camp",
-                  "text": "A Prisoner of War Camp egy történelmi látványosság Ausban.",
+                  "text": "Az ausi Hadifogolytábor egy megőrzött német hadifogolytábor helyszíne az első világháborúból.",
                   "category": "landmark",
                   "coords": [
                         16.287657,
@@ -3799,7 +4456,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kaiser-Wilhelm-Denkmal",
-                  "text": "A Kaiser-Wilhelm-Denkmal egy Ausban található emlékmű.",
+                  "text": "Az ausi Kaiser-Wilhelm-emlékmű egy kőből készült emlékmű I. Vilmos császár tiszteletére.",
                   "category": "historical",
                   "coords": [
                         16.260846,
@@ -3810,7 +4467,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Prisoner of War Camp",
-                  "text": "Prisoner of War Camp este o atracție istorică în Aus.",
+                  "text": "Tabăra de prizonieri de război din Aus este un sit conservat al unui lagăr german de prizonieri din Primul Război Mondial.",
                   "category": "landmark",
                   "coords": [
                         16.287657,
@@ -3819,7 +4476,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kaiser-Wilhelm-Denkmal",
-                  "text": "Kaiser-Wilhelm-Denkmal este un monument situat în Aus.",
+                  "text": "Monumentul Kaiser Wilhelm din Aus este un monument de piatră în cinstea împăratului Wilhelm I.",
                   "category": "historical",
                   "coords": [
                         16.260846,
@@ -3830,7 +4487,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Prisoner of War Camp",
-                  "text": "The Prisoner of War Camp is a historical attraction in Aus.",
+                  "text": "The Prisoner of War Camp in Aus is a preserved site of a German POW camp from World War I.",
                   "category": "landmark",
                   "coords": [
                         16.287657,
@@ -3839,7 +4496,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kaiser-Wilhelm-Denkmal",
-                  "text": "The Kaiser-Wilhelm-Denkmal is a monument located in Aus.",
+                  "text": "The Kaiser-Wilhelm-Denkmal in Aus is a stone monument honoring Emperor Wilhelm I.",
                   "category": "historical",
                   "coords": [
                         16.260846,

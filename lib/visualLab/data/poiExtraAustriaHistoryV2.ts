@@ -34,7 +34,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "ehem. Zollhaus",
-                  "text": "Ein Museum, das in einem ehemaligen Zollhaus in Hardegg untergebracht ist.",
+                  "text": "Das ehemalige Zollhaus in Burg Hardegg ist ein altes Grenzzollhaus, das heute ein Museum ist.",
                   "category": "museum",
                   "coords": [
                         15.86231,
@@ -108,7 +108,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "ehem. Zollhaus",
-                  "text": "Egy korábbi vámházban kialakított múzeum Hardeggben.",
+                  "text": "A burg hardeggi egykori vámház egy régi határvámház, amely ma múzeum.",
                   "category": "museum",
                   "coords": [
                         15.86231,
@@ -182,7 +182,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "ehem. Zollhaus",
-                  "text": "Un muzeu găzduit într-o fostă vamă din Hardegg.",
+                  "text": "Fosta casă vamală din Burg Hardegg este o veche casă vamală de frontieră, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         15.86231,
@@ -256,7 +256,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "ehem. Zollhaus",
-                  "text": "A museum housed in a former customs house in Hardegg.",
+                  "text": "The former customs house in Burg Hardegg is an old border customs building, now a museum.",
                   "category": "museum",
                   "coords": [
                         15.86231,
@@ -700,7 +700,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Grünfels",
-                  "text": "Eine historische Befestigung oder Burganlage in der Region Murau.",
+                  "text": "Grünfels ist eine denkmalgeschützte Burgruine bei Burg Finstergrün.",
                   "category": "castle",
                   "coords": [
                         14.166415,
@@ -727,7 +727,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kramerkogel",
-                  "text": "Ein Berggipfel in den österreichischen Alpen bei Murau.",
+                  "text": "Der Kramerkogel ist ein Hügel nahe der Burg Finstergruen in Kärnten.",
                   "category": "landmark",
                   "coords": [
                         14.083854,
@@ -736,7 +736,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Gießübeltor",
-                  "text": "Eines der historischen Stadttore der Stadt Murau.",
+                  "text": "Das Gießübeltor ist ein denkmalgeschütztes Festungstor an der Burg Finstergrün.",
                   "category": "fortress",
                   "coords": [
                         14.166305,
@@ -783,7 +783,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Grünfels",
-                  "text": "Történelmi erődítmény vagy várkastély Murau régiójában.",
+                  "text": "Grünfels egy műemlékvédelem alatt álló várrom a Finstergrün vára mellett.",
                   "category": "castle",
                   "coords": [
                         14.166415,
@@ -810,7 +810,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kramerkogel",
-                  "text": "Hegycsúcs az osztrák Alpokban, Murau közelében.",
+                  "text": "A Kramerkogel egy domb a Finstergruen vár közelében, Karintiában.",
                   "category": "landmark",
                   "coords": [
                         14.083854,
@@ -819,7 +819,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Gießübeltor",
-                  "text": "Murau városának egyik történelmi városkapuja.",
+                  "text": "A Gießübeltor egy műemlékvédelem alatt álló erődített kapu a Finstergrün váron.",
                   "category": "fortress",
                   "coords": [
                         14.166305,
@@ -866,7 +866,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Grünfels",
-                  "text": "O fortificație istorică sau castel situat în regiunea Murau.",
+                  "text": "Grünfels este o ruină de castel protejată ca monument lângă Castelul Finstergrün.",
                   "category": "castle",
                   "coords": [
                         14.166415,
@@ -893,7 +893,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kramerkogel",
-                  "text": "Un vârf muntos în Alpii Austrieci, lângă Murau.",
+                  "text": "Kramerkogel este o colină lângă Castelul Finstergruen din Carintia.",
                   "category": "landmark",
                   "coords": [
                         14.083854,
@@ -902,7 +902,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Gießübeltor",
-                  "text": "Una dintre porțile istorice ale orașului Murau.",
+                  "text": "Gießübeltor este o poartă fortificată protejată ca monument la Castelul Finstergrün.",
                   "category": "fortress",
                   "coords": [
                         14.166305,
@@ -949,7 +949,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Grünfels",
-                  "text": "A historic fortification or castle situated in the Murau region.",
+                  "text": "Grünfels is a heritage-protected castle ruin near Burg Finstergruen.",
                   "category": "castle",
                   "coords": [
                         14.166415,
@@ -976,7 +976,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kramerkogel",
-                  "text": "A mountain peak in the Austrian Alps near Murau.",
+                  "text": "Kramerkogel is a hill near Burg Finstergruen in Carinthia.",
                   "category": "landmark",
                   "coords": [
                         14.083854,
@@ -985,7 +985,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Gießübeltor",
-                  "text": "One of the historical city gates of the town of Murau.",
+                  "text": "Gießübeltor is a heritage-listed fortress gate at Burg Finstergruen.",
                   "category": "fortress",
                   "coords": [
                         14.166305,
@@ -1105,7 +1105,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Groseder",
-                  "text": "Archäologische Fundstätte in der Nähe von Grein.",
+                  "text": "Der Groseder ist ein historisches Bauwerk innerhalb der Greinburg-Anlage nahe Grein.",
                   "category": "historical",
                   "coords": [
                         14.871309,
@@ -1132,7 +1132,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Freibad Bad Kreuzen",
-                  "text": "Ein Freibad beim Schloss Greinburg.",
+                  "text": "Das Freibad Bad Kreuzen bei Schloss Greinburg ist ein beheiztes Freibad mit großer Liegewiese.",
                   "category": "recreational",
                   "coords": [
                         14.808898,
@@ -1141,7 +1141,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Badesee Dornach",
-                  "text": "Ein Badesee beim Schloss Greinburg.",
+                  "text": "Der Badesee Dornach bei Schloss Greinburg ist ein Natursee mit Sandstrand und flachem Wasser.",
                   "category": "recreational",
                   "coords": [
                         14.820019,
@@ -1150,7 +1150,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Freibad St. Nikola",
-                  "text": "Ein Freibad in der Nähe des Schlosses Greinburg.",
+                  "text": "Das Freibad St. Nikola bei Schloss Greinburg ist ein Familienbad mit Kinderbecken und Sprungturm.",
                   "category": "recreational",
                   "coords": [
                         14.911219,
@@ -1197,7 +1197,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Groseder",
-                  "text": "Régészeti lelőhely Grein közelében.",
+                  "text": "A Groseder egy történelmi építmény a Greinburg komplexumon belül, Grein közelében.",
                   "category": "historical",
                   "coords": [
                         14.871309,
@@ -1224,7 +1224,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Freibad Bad Kreuzen",
-                  "text": "Szabadtéri strand a Greinburg-kastélynál.",
+                  "text": "A Greinburg-kastély melletti Bad Kreuzen-i szabadtéri uszoda fűtött, nagy napozógyeppel.",
                   "category": "recreational",
                   "coords": [
                         14.808898,
@@ -1233,7 +1233,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Badesee Dornach",
-                  "text": "Fürdőtó a Greinburg-kastélynál.",
+                  "text": "A Dornach-i fürdőtó a Greinburg-kastély közelében egy természetes tó homokos stranddal és sekély vízzel.",
                   "category": "recreational",
                   "coords": [
                         14.820019,
@@ -1242,7 +1242,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Freibad St. Nikola",
-                  "text": "Szabadtéri strand a Greinburg-kastély közelében.",
+                  "text": "A St. Nikola-i szabadtéri medence a Greinburg-kastély közelében családi strand gyermekmedencével és ugrótoronnyal.",
                   "category": "recreational",
                   "coords": [
                         14.911219,
@@ -1289,7 +1289,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Groseder",
-                  "text": "Sit arheologic situat în apropiere de Grein.",
+                  "text": "Groseder este o clădire istorică din incinta complexului Greinburg, lângă Grein.",
                   "category": "historical",
                   "coords": [
                         14.871309,
@@ -1316,7 +1316,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Freibad Bad Kreuzen",
-                  "text": "O piscină în aer liber lângă Castelul Greinburg.",
+                  "text": "Piscina în aer liber Bad Kreuzen, lângă Castelul Greinburg, este o piscină încălzită cu o zonă mare de iarbă.",
                   "category": "recreational",
                   "coords": [
                         14.808898,
@@ -1325,7 +1325,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Badesee Dornach",
-                  "text": "Un lac pentru scăldat lângă Castelul Greinburg.",
+                  "text": "Lacul de înot Dornach lângă Castelul Greinburg este un lac natural cu plajă de nisip și apă mică.",
                   "category": "recreational",
                   "coords": [
                         14.820019,
@@ -1334,7 +1334,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Freibad St. Nikola",
-                  "text": "O piscină în aer liber în apropierea Castelului Greinburg.",
+                  "text": "Piscina în aer liber din St. Nikola lângă Castelul Greinburg este o piscină de familie cu bazin pentru copii și trambulină.",
                   "category": "recreational",
                   "coords": [
                         14.911219,
@@ -1381,7 +1381,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Groseder",
-                  "text": "Archaeological site located near Grein.",
+                  "text": "Groseder is a historic structure within the Greinburg complex near Grein.",
                   "category": "historical",
                   "coords": [
                         14.871309,
@@ -1408,7 +1408,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Freibad Bad Kreuzen",
-                  "text": "An outdoor swimming pool near Greinburg Castle.",
+                  "text": "The outdoor pool in Bad Kreuzen near Greinburg Castle is a heated pool with a large lawn.",
                   "category": "recreational",
                   "coords": [
                         14.808898,
@@ -1417,7 +1417,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Badesee Dornach",
-                  "text": "A bathing lake near Greinburg Castle.",
+                  "text": "The swimming lake Dornach near Greinburg Castle is a natural lake with a sandy beach and shallow water.",
                   "category": "recreational",
                   "coords": [
                         14.820019,
@@ -1426,7 +1426,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Freibad St. Nikola",
-                  "text": "An outdoor swimming pool near Greinburg Castle.",
+                  "text": "The outdoor pool in St. Nikola near Greinburg Castle is a family pool with a children's pool and diving board.",
                   "category": "recreational",
                   "coords": [
                         14.911219,
@@ -1546,7 +1546,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kirchwaldberg",
-                  "text": "Ein Gipfel in der niederösterreichischen Voralpenregion.",
+                  "text": "Der Kirchwaldberg ist ein Hügel mit einer Kirche im Wald bei Burg Tiefenbach.",
                   "category": "landmark",
                   "coords": [
                         15.856462,
@@ -1593,7 +1593,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kirchwaldberg",
-                  "text": "Egy hegycsúcs az alsó-ausztriai Elő-Alpok régiójában.",
+                  "text": "A Kirchwaldberg egy domb egy templommal az erdőben, Tiefenbach vár közelében.",
                   "category": "landmark",
                   "coords": [
                         15.856462,
@@ -1640,7 +1640,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kirchwaldberg",
-                  "text": "Un vârf montan în regiunea prealpină a Austriei Inferioare.",
+                  "text": "Kirchwaldberg este o colină cu o biserică în pădure lângă Castelul Tiefenbach.",
                   "category": "landmark",
                   "coords": [
                         15.856462,
@@ -1687,7 +1687,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kirchwaldberg",
-                  "text": "A mountain peak in the Lower Austrian Prealps region.",
+                  "text": "Kirchwaldberg is a hill with a church in the forest near Burg Tiefenbach.",
                   "category": "landmark",
                   "coords": [
                         15.856462,
@@ -2851,7 +2851,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Burgruine Ödes Schloss",
-                  "text": "Überreste einer mittelalterlichen Burgruine in der Nähe von Steinegg.",
+                  "text": "Burgruine Ödes Schloss bei Burg Steinegg, aus dem 13. Jahrhundert, denkmalgeschützt.",
                   "category": "castle",
                   "coords": [
                         15.605405,
@@ -2934,7 +2934,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Burgruine Ödes Schloss",
-                  "text": "Egy középkori vár romjai Steinegg közelében.",
+                  "text": "Ödes Schloss várromja Burg Steinegg mellett, 13. századi, műemlék.",
                   "category": "castle",
                   "coords": [
                         15.605405,
@@ -3017,7 +3017,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Burgruine Ödes Schloss",
-                  "text": "Ruinele unei cetăți medievale situate lângă Steinegg.",
+                  "text": "Ruinele castelului Ödes Schloss lângă Burg Steinegg, din secolul al XIII-lea, monument istoric.",
                   "category": "castle",
                   "coords": [
                         15.605405,
@@ -3100,7 +3100,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Burgruine Ödes Schloss",
-                  "text": "Ruins of a medieval castle located near Steinegg.",
+                  "text": "Ödes Schloss castle ruins near Burg Steinegg, from the 13th century, a listed monument.",
                   "category": "castle",
                   "coords": [
                         15.605405,
@@ -3589,7 +3589,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kalendarium",
-                  "text": "Das Kalendarium ist eine historische archäologische Stätte in der Region.",
+                  "text": "Das Kalendarium auf Burg Rothenstein ist ein historischer Kalenderstein aus dem Mittelalter.",
                   "category": "historical",
                   "coords": [
                         16.011577,
@@ -3598,7 +3598,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Visurhügel",
-                  "text": "Der Visurhügel ist eine archäologische Fundstätte bei den Ruinen von Rothenstein.",
+                  "text": "Der Visurhügel bei Burg Rothenstein ist ein Aussichtshügel, der früher zur Signalweitergabe diente.",
                   "category": "historical",
                   "coords": [
                         16.013285,
@@ -3607,7 +3607,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ruine Schwarzenburg",
-                  "text": "Die Ruine Schwarzenburg ist eine historische Burganlage in der Nähe von Rothenstein.",
+                  "text": "Die Ruine Schwarzenburg liegt in der Nähe von Burg Rothenstein und ist eine mittelalterliche Burgruine.",
                   "category": "castle",
                   "coords": [
                         16.023568,
@@ -3654,7 +3654,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kalendarium",
-                  "text": "A Kalendarium egy történelmi jelentőségű régészeti lelőhely a régióban.",
+                  "text": "A rothensteini várban található Kalendarium egy középkori naptárkő.",
                   "category": "historical",
                   "coords": [
                         16.011577,
@@ -3663,7 +3663,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Visurhügel",
-                  "text": "A Visurhügel egy régészeti lelőhely a rothensteini romok közelében.",
+                  "text": "A rothensteini vár melletti Visurhügel egy kilátódomb, amely korábban jelződombként szolgált.",
                   "category": "historical",
                   "coords": [
                         16.013285,
@@ -3672,7 +3672,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ruine Schwarzenburg",
-                  "text": "A Schwarzenburg romja egy történelmi várhelyszín Rothenstein közelében.",
+                  "text": "A Schwarzenburg romja a Rothenstein-vár közelében található, egy középkori várrom.",
                   "category": "castle",
                   "coords": [
                         16.023568,
@@ -3719,7 +3719,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kalendarium",
-                  "text": "Kalendarium este un sit arheologic istoric situat în regiune.",
+                  "text": "Calendarul de pe Burg Rothenstein este o piatră calendaristică istorică din Evul Mediu.",
                   "category": "historical",
                   "coords": [
                         16.011577,
@@ -3728,7 +3728,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Visurhügel",
-                  "text": "Visurhügel este un sit arheologic aflat lângă ruinele de la Rothenstein.",
+                  "text": "Dealul Visur lângă Burg Rothenstein este un deal de observație folosit anterior pentru transmiterea semnalelor.",
                   "category": "historical",
                   "coords": [
                         16.013285,
@@ -3737,7 +3737,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ruine Schwarzenburg",
-                  "text": "Ruina Schwarzenburg este o fortificație istorică situată lângă Rothenstein.",
+                  "text": "Ruina Schwarzenburg este situată lângă Burg Rothenstein și este o ruină medievală de castel.",
                   "category": "castle",
                   "coords": [
                         16.023568,
@@ -3784,7 +3784,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Kalendarium",
-                  "text": "The Kalendarium is a historical archaeological site in the region.",
+                  "text": "The calendar stone (Kalendarium) at Burg Rothenstein is a historic medieval calendar stone.",
                   "category": "historical",
                   "coords": [
                         16.011577,
@@ -3793,7 +3793,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Visurhügel",
-                  "text": "The Visurhügel is an archaeological site near the Rothenstein ruins.",
+                  "text": "Visurhügel near Burg Rothenstein is a lookout hill once used for signal relay.",
                   "category": "historical",
                   "coords": [
                         16.013285,
@@ -3802,7 +3802,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ruine Schwarzenburg",
-                  "text": "The Schwarzenburg ruin is a historical castle site located near Rothenstein.",
+                  "text": "The ruin of Schwarzenburg lies near Burg Rothenstein and is a medieval castle ruin.",
                   "category": "castle",
                   "coords": [
                         16.023568,
@@ -4228,7 +4228,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Laaer Burg",
-                  "text": "Eine mittelalterliche Burg im Zentrum von Laa an der Thaya.",
+                  "text": "Die Laaer Burg ist eine Burgruine nahe Burg Hard in Vorarlberg.",
                   "category": "castle",
                   "coords": [
                         16.386539,
@@ -4255,7 +4255,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Therme Laa an der Thaya",
-                  "text": "Ein modernes Thermalbad und wellnessresort.",
+                  "text": "Die Therme Laa an der Thaya bei Burg Hard ist ein Thermalbad mit Innen- und Außenbecken.",
                   "category": "recreational",
                   "coords": [
                         16.393749,
@@ -4264,7 +4264,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Hanfmuseum",
-                  "text": "Ein Museum, das die Geschichte und Nutzung von Hanf zeigt.",
+                  "text": "Das Hanfmuseum in Burg Hard zeigt die Geschichte und Verwendung der Hanfpflanze.",
                   "category": "museum",
                   "coords": [
                         16.362936,
@@ -4293,7 +4293,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Laaer Burg",
-                  "text": "Középkori vár Laa an der Thaya központjában.",
+                  "text": "A Laaer Burg egy várrom a Hard vár közelében, Vorarlbergben.",
                   "category": "castle",
                   "coords": [
                         16.386539,
@@ -4320,7 +4320,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Therme Laa an der Thaya",
-                  "text": "Modern termálfürdő és wellnessközpont.",
+                  "text": "A laa an der thaya-i termálfürdő a Burg Hard közelében beltéri és kültéri medencékkel várja a vendégeket.",
                   "category": "recreational",
                   "coords": [
                         16.393749,
@@ -4329,7 +4329,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Hanfmuseum",
-                  "text": "A kender történetét és felhasználását bemutató múzeum.",
+                  "text": "A burg hard-i Hanfmuseum bemutatja a kender növény történetét és felhasználását.",
                   "category": "museum",
                   "coords": [
                         16.362936,
@@ -4358,7 +4358,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Laaer Burg",
-                  "text": "Un castel medieval situat în centrul orașului Laa an der Thaya.",
+                  "text": "Castelul Laaer este o ruină de castel lângă Castelul Hard din Vorarlberg.",
                   "category": "castle",
                   "coords": [
                         16.386539,
@@ -4385,7 +4385,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Therme Laa an der Thaya",
-                  "text": "Un centru termal modern și resort de wellness.",
+                  "text": "Termele Laa an der Thaya de lângă Burg Hard sunt o baie termală cu piscine interioare și exterioare.",
                   "category": "recreational",
                   "coords": [
                         16.393749,
@@ -4394,7 +4394,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Hanfmuseum",
-                  "text": "Un muzeu care prezintă istoria și utilizarea cânepii.",
+                  "text": "Muzeul Cânepii din Burg Hard prezintă istoria și utilizarea plantei de cânepă.",
                   "category": "museum",
                   "coords": [
                         16.362936,
@@ -4423,7 +4423,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Laaer Burg",
-                  "text": "A medieval castle located in the center of Laa an der Thaya.",
+                  "text": "Laaer Burg is a castle ruin near Burg Hard in Vorarlberg.",
                   "category": "castle",
                   "coords": [
                         16.386539,
@@ -4450,7 +4450,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Therme Laa an der Thaya",
-                  "text": "A modern thermal spa and wellness resort.",
+                  "text": "The thermal baths in Laa an der Thaya near Burg Hard offer indoor and outdoor pools.",
                   "category": "recreational",
                   "coords": [
                         16.393749,
@@ -4459,7 +4459,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Hanfmuseum",
-                  "text": "A museum showing the history and uses of hemp.",
+                  "text": "The Hemp Museum in Burg Hard exhibits the history and use of the hemp plant.",
                   "category": "museum",
                   "coords": [
                         16.362936,
@@ -5857,7 +5857,7 @@ export const austriaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Hausberg Johannesberg",
-                  "text": "Eine archäologische Fundstätte in der Nähe von Schloss Drosendorf.",
+                  "text": "Hausberg Johannesberg bei Burg Drosendorf, mittelalterliche Wallanlage aus dem 12. Jahrhundert, denkmalgeschützt.",
                   "category": "historical",
                   "coords": [
                         15.6304,
@@ -5911,7 +5911,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ruine Gaberkirche",
-                  "text": "Die Überreste einer spätgotischen Kirche in der Nähe von Drosendorf.",
+                  "text": "Die Ruine Gaberkirche ist eine denkmalgeschützte Kirchenruine bei Burg Drosendorf.",
                   "category": "landmark",
                   "coords": [
                         15.582733,
@@ -5931,7 +5931,7 @@ export const austriaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Hausberg Johannesberg",
-                  "text": "Régészeti lelőhely Drosendorf vára közelében.",
+                  "text": "Johannesberg háza Burg Drosendorf mellett, 12. századi középkori sánc, műemlék.",
                   "category": "historical",
                   "coords": [
                         15.6304,
@@ -5985,7 +5985,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ruine Gaberkirche",
-                  "text": "Egy késő gótikus templom maradványai Drosendorf környékén.",
+                  "text": "A Gaberkirche rom egy műemlékvédelem alatt álló templomrom a Drosendorfi vár mellett.",
                   "category": "landmark",
                   "coords": [
                         15.582733,
@@ -6005,7 +6005,7 @@ export const austriaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Hausberg Johannesberg",
-                  "text": "Un sit arheologic situat în apropierea castelului Drosendorf.",
+                  "text": "Hausberg Johannesberg lângă Burg Drosendorf, fortificație medievală din secolul al XII-lea, monument istoric.",
                   "category": "historical",
                   "coords": [
                         15.6304,
@@ -6059,7 +6059,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ruine Gaberkirche",
-                  "text": "Ruinele unei biserici gotice târzii în apropiere de Drosendorf.",
+                  "text": "Ruina Gaberkirche este o ruină de biserică protejată ca monument lângă Castelul Drosendorf.",
                   "category": "landmark",
                   "coords": [
                         15.582733,
@@ -6079,7 +6079,7 @@ export const austriaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Hausberg Johannesberg",
-                  "text": "An archaeological site located near Drosendorf Castle.",
+                  "text": "Hausberg Johannesberg near Burg Drosendorf, a medieval earthwork from the 12th century, a listed monument.",
                   "category": "historical",
                   "coords": [
                         15.6304,
@@ -6133,7 +6133,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ruine Gaberkirche",
-                  "text": "The remains of a late Gothic church near Drosendorf.",
+                  "text": "Ruine Gaberkirche is a heritage-listed church ruin near Burg Drosendorf.",
                   "category": "landmark",
                   "coords": [
                         15.582733,
@@ -6559,7 +6559,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ortskapelle hl. Laurenz",
-                  "text": "Eine kleine Kapelle im Ort, die dem heiligen Laurentius gewidmet ist.",
+                  "text": "Die Ortskapelle hl. Laurenz ist eine denkmalgeschützte Kapelle, die dem heiligen Laurentius geweiht ist, bei der Burgruine Kollmitz.",
                   "category": "religious",
                   "coords": [
                         15.452055,
@@ -6633,7 +6633,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ortskapelle hl. Laurenz",
-                  "text": "A település Szent Lőrincnek szentelt kis kápolnája.",
+                  "text": "Az Ortskapelle hl. Laurenz egy műemlékvédelem alatt álló kápolna, amely Szent Lőrincnek van szentelve, a Kollmitz várrom mellett.",
                   "category": "religious",
                   "coords": [
                         15.452055,
@@ -6707,7 +6707,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ortskapelle hl. Laurenz",
-                  "text": "O mică capelă locală dedicată Sfântului Laurențiu.",
+                  "text": "Ortskapelle hl. Laurenz este o capelă protejată ca monument, dedicată Sfântului Laurențiu, lângă ruina castelului Kollmitz.",
                   "category": "religious",
                   "coords": [
                         15.452055,
@@ -6781,7 +6781,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Ortskapelle hl. Laurenz",
-                  "text": "A small local chapel dedicated to Saint Lawrence.",
+                  "text": "Ortskapelle hl. Laurenz is a heritage-listed chapel dedicated to St. Lawrence near the Kollmitz castle ruin.",
                   "category": "religious",
                   "coords": [
                         15.452055,
@@ -7027,7 +7027,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Wasserrad",
-                  "text": "Ein Wasserrad als Sehenswürdigkeit im Bereich Scharfstein.",
+                  "text": "Historisches Wasserrad nahe der Burgruine Scharfstein.",
                   "category": "landmark",
                   "coords": [
                         15.70766,
@@ -7036,7 +7036,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Besucherterrasse",
-                  "text": "Eine Plattform für Besucher mit Blick auf die Landschaft.",
+                  "text": "Aussichtsplattform mit Blick auf die Burgruine Scharfstein.",
                   "category": "natural",
                   "coords": [
                         15.708792,
@@ -7101,7 +7101,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Wasserrad",
-                  "text": "Vízikerék mint látnivaló Scharfstein területén.",
+                  "text": "Történelmi vízikerék a Scharfstein várrom mellett.",
                   "category": "landmark",
                   "coords": [
                         15.70766,
@@ -7110,7 +7110,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Besucherterrasse",
-                  "text": "Látogatói terasz kilátással a tájra.",
+                  "text": "Kilátóterasz a Scharfstein várromra néző kilátással.",
                   "category": "natural",
                   "coords": [
                         15.708792,
@@ -7175,7 +7175,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Wasserrad",
-                  "text": "O roată de apă ca atracție în zona Scharfstein.",
+                  "text": "Roata de apă istorică lângă ruinele castelului Scharfstein.",
                   "category": "landmark",
                   "coords": [
                         15.70766,
@@ -7184,7 +7184,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Besucherterrasse",
-                  "text": "O terasă pentru vizitatori cu vedere la peisaj.",
+                  "text": "Terasa de observație cu vedere spre ruinele castelului Scharfstein.",
                   "category": "natural",
                   "coords": [
                         15.708792,
@@ -7249,7 +7249,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Wasserrad",
-                  "text": "A water wheel attraction in the Scharfstein area.",
+                  "text": "Historic water wheel near the Scharfstein castle ruins.",
                   "category": "landmark",
                   "coords": [
                         15.70766,
@@ -7258,7 +7258,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Besucherterrasse",
-                  "text": "A visitor terrace with views over the landscape.",
+                  "text": "Viewing terrace overlooking the Scharfstein castle ruins.",
                   "category": "natural",
                   "coords": [
                         15.708792,
@@ -7414,7 +7414,7 @@ export const austriaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Ruine Thernberg",
-                  "text": "Ruinen einer Höhenburg in der Nähe von Sebenstein.",
+                  "text": "Die Ruine Thernberg ist eine Burgruine bei der Burgruine Sebenstein.",
                   "category": "castle",
                   "coords": [
                         16.18322,
@@ -7432,7 +7432,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Annenruh'",
-                  "text": "Ein ruhiger Aussichtspunkt in der Umgebung von Sebenstein.",
+                  "text": "Ruhiger Naturplatz mit einer Annenkapelle nahe Burg Sebenstein.",
                   "category": "natural",
                   "coords": [
                         16.138297,
@@ -7461,7 +7461,7 @@ export const austriaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Ruine Thernberg",
-                  "text": "Egy várrom Sebenstein közelében.",
+                  "text": "A Thernberg rom egy várrom a Sebenstein várrom mellett.",
                   "category": "castle",
                   "coords": [
                         16.18322,
@@ -7479,7 +7479,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Annenruh'",
-                  "text": "Egy nyugodt kilátópont Sebenstein környékén.",
+                  "text": "Nyugodt természeti hely Szent Anna-kápolnával Sebenstein vára közelében.",
                   "category": "natural",
                   "coords": [
                         16.138297,
@@ -7508,7 +7508,7 @@ export const austriaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Ruine Thernberg",
-                  "text": "Ruinele unei cetăți de deal situată lângă Sebenstein.",
+                  "text": "Ruina Thernberg este o ruină de castel lângă ruina castelului Sebenstein.",
                   "category": "castle",
                   "coords": [
                         16.18322,
@@ -7526,7 +7526,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Annenruh'",
-                  "text": "Un punct de belvedere liniștit în împrejurimile Sebenstein.",
+                  "text": "Loc natural liniștit cu o capelă Sf. Ana lângă castelul Sebenstein.",
                   "category": "natural",
                   "coords": [
                         16.138297,
@@ -7555,7 +7555,7 @@ export const austriaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Ruine Thernberg",
-                  "text": "Ruins of a hilltop castle located near Sebenstein.",
+                  "text": "Ruine Thernberg is a castle ruin near Burg Ruine Sebenstein.",
                   "category": "castle",
                   "coords": [
                         16.18322,
@@ -7573,7 +7573,7 @@ export const austriaHistoryV2: POI[] = [
             },
             {
                   "name": "Annenruh'",
-                  "text": "A quiet viewpoint located in the surroundings of Sebenstein.",
+                  "text": "Peaceful natural spot with a St. Anne chapel near Sebenstein castle.",
                   "category": "natural",
                   "coords": [
                         16.138297,

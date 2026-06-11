@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraAzerbaijanReliefV2: POI[] = [
   {
-    id: "bazarduzu-mountain-relief-v2",
+    id: "bazarduzu-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Etno-muzei Kurush",
+                  "text": "Ein Museum in Kurusch, dem höchsten Dorf im Kaukasus, das die traditionelle Lebensweise der Bergvölker zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        47.836022,
+                        41.284298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Etno-muzei Kurush",
+                  "text": "Múzeum Kurusban, a Kaukázus legmagasabban fekvő falujában, amely a hegyi népek hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        47.836022,
+                        41.284298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Etno-muzei Kurush",
+                  "text": "Un muzeu în Kuruș, cel mai înalt sat din Caucaz, care prezintă modul de viață tradițional al popoarelor montane.",
+                  "category": "museum",
+                  "coords": [
+                        47.836022,
+                        41.284298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Etno-muzei Kurush",
+                  "text": "A museum in Kurush, the highest village in the Caucasus, showcasing the traditional lifestyle of the mountain peoples.",
+                  "category": "museum",
+                  "coords": [
+                        47.836022,
+                        41.284298
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AZ-QUS",
     coords: [47.8580, 41.2216],
@@ -91,7 +136,160 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "babadag-mountain-relief-v2",
+    id: "babadag-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Babadağ",
+                  "text": "Ein heiliger Berg des Großen Kaukasus, der eine Höhe von 3629 Metern erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        48.304872,
+                        41.019868
+                  ]
+            },
+            {
+                  "name": "Hacı Məscidi",
+                  "text": "Eine schlichte Moschee am Fuße des Babadag-Massivs, die von Bergwanderern besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.431747,
+                        41.095382
+                  ]
+            },
+            {
+                  "name": "Cahan Məscidi",
+                  "text": "Eine Gebetsstätte in der Bergregion, bekannt für ihre ruhige Lage und traditionelle Bauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        48.299085,
+                        41.123215
+                  ]
+            },
+            {
+                  "name": "Dərk kənd məscidi",
+                  "text": "Die Dorfmoschee von Dərk dient als spirituelles Zentrum für die Bewohner dieser Hochgebirgsregion.",
+                  "category": "religious",
+                  "coords": [
+                        48.42322,
+                        41.082858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Babadağ",
+                  "text": "A Nagy-Kaukázus szent hegye, amely 3629 méteres magasságba nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        48.304872,
+                        41.019868
+                  ]
+            },
+            {
+                  "name": "Hacı Məscidi",
+                  "text": "Egyszerű mecset a Babadag-masszívum lábánál, amelyet gyakran látogatnak a hegyi túrázók.",
+                  "category": "landmark",
+                  "coords": [
+                        48.431747,
+                        41.095382
+                  ]
+            },
+            {
+                  "name": "Cahan Məscidi",
+                  "text": "Imaház a hegyvidéken, amely nyugodt elhelyezkedéséről és hagyományos építéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.299085,
+                        41.123215
+                  ]
+            },
+            {
+                  "name": "Dərk kənd məscidi",
+                  "text": "Dərk falusi mecsetje szellemi központként szolgál e magashegyi régió lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        48.42322,
+                        41.082858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Babadağ",
+                  "text": "Un munte sacru din Marele Caucaz, care atinge o înălțime de 3629 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        48.304872,
+                        41.019868
+                  ]
+            },
+            {
+                  "name": "Hacı Məscidi",
+                  "text": "O moschee simplă la poalele masivului Babadag, vizitată de drumeții montani.",
+                  "category": "landmark",
+                  "coords": [
+                        48.431747,
+                        41.095382
+                  ]
+            },
+            {
+                  "name": "Cahan Məscidi",
+                  "text": "Un lăcaș de cult în regiunea muntoasă, cunoscut pentru locația sa liniștită și construcția tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        48.299085,
+                        41.123215
+                  ]
+            },
+            {
+                  "name": "Dərk kənd məscidi",
+                  "text": "Moscheea din satul Dərk servește drept centru spiritual pentru locuitorii acestei regiuni montane înalte.",
+                  "category": "religious",
+                  "coords": [
+                        48.42322,
+                        41.082858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Babadag",
+                  "text": "A sacred peak of the Greater Caucasus reaching an elevation of 3,629 metres.",
+                  "category": "natural",
+                  "coords": [
+                        48.304872,
+                        41.019868
+                  ]
+            },
+            {
+                  "name": "Hacı Məscidi",
+                  "text": "A simple mosque at the foot of the Babadag massif, visited by mountain hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.431747,
+                        41.095382
+                  ]
+            },
+            {
+                  "name": "Cahan Məscidi",
+                  "text": "A place of worship in the mountain region, known for its quiet location and traditional construction.",
+                  "category": "landmark",
+                  "coords": [
+                        48.299085,
+                        41.123215
+                  ]
+            },
+            {
+                  "name": "Dərk kənd məscidi",
+                  "text": "The village mosque of Dərk serves as a spiritual center for the inhabitants of this high mountain region.",
+                  "category": "religious",
+                  "coords": [
+                        48.42322,
+                        41.082858
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AZ-QUS",
     coords: [48.3333, 41.0500],
@@ -135,7 +333,52 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "tufandag-mountain-relief-v2",
+    id: "tufandag-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tufandağ",
+                  "text": "Ein markanter 4.191 Meter hoher Berg im Großen Kaukasus, der für seine anspruchsvollen Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        47.991852,
+                        41.162422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tufandağ",
+                  "text": "A Nagy-Kaukázus egyik jellegzetes, 4191 méter magas hegycsúcsa, amely kihívást jelentő túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        47.991852,
+                        41.162422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tufandağ",
+                  "text": "Un munte proeminent de 4.191 de metri în Caucazul Mare, cunoscut pentru traseele sale de drumeție provocatoare.",
+                  "category": "natural",
+                  "coords": [
+                        47.991852,
+                        41.162422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tufandağ",
+                  "text": "A prominent 4,191-metre peak in the Greater Caucasus, known for its challenging hiking routes.",
+                  "category": "natural",
+                  "coords": [
+                        47.991852,
+                        41.162422
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AZ-QUS",
     coords: [47.9667, 41.1500],
@@ -179,7 +422,52 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "kapudzhukh-mountain-relief-v2",
+    id: "kapudzhukh-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Զանգեզուր արգելավայր",
+                  "text": "Dieses Naturschutzgebiet in kapudzhukh-mountain-relief-v2 schützt die vielfältige Tierwelt der bergigen Zangezur-Region.",
+                  "category": "natural",
+                  "coords": [
+                        46.090527,
+                        39.199606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Զանգեզուր արգելավայր",
+                  "text": "Ez a természetvédelmi terület kapudzhukh-mountain-relief-v2-ben a hegyvidéki Zangezur régió változatos vadvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        46.090527,
+                        39.199606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Զանգեզուր արգելավայր",
+                  "text": "Această rezervație naturală din kapudzhukh-mountain-relief-v2 protejează fauna diversă a regiunii muntoase Zangezur.",
+                  "category": "natural",
+                  "coords": [
+                        46.090527,
+                        39.199606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zangezur Sanctuary",
+                  "text": "This nature reserve in kapudzhukh-mountain-relief-v2 protects the diverse wildlife of the mountainous Zangezur region.",
+                  "category": "natural",
+                  "coords": [
+                        46.090527,
+                        39.199606
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AZ-NX",
     coords: [46.0461, 39.1583],
@@ -267,7 +555,88 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "kura-aras-lowland-relief-v2",
+    id: "kura-aras-lowland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirili mascidi",
+                  "text": "In der weiten Kura-Aras-Niederung gelegen, fungiert diese ländliche Moschee als zentraler Versammlungsort für das Dorf Mirili.",
+                  "category": "landmark",
+                  "coords": [
+                        48.222781,
+                        39.911236
+                  ]
+            },
+            {
+                  "name": "Qaravelli Mascidi",
+                  "text": "Diese traditionelle islamische Kultstätte befindet sich in den landwirtschaftlichen Siedlungen der Kura-Aras-Niederung.",
+                  "category": "landmark",
+                  "coords": [
+                        48.21265,
+                        39.910539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirili mascidi",
+                  "text": "A kiterjedt Kura-Arakszi-alföldön található vidéki mecset Mirili falujának központi gyülekezőhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.222781,
+                        39.911236
+                  ]
+            },
+            {
+                  "name": "Qaravelli Mascidi",
+                  "text": "Ez a hagyományos iszlám istentiszteleti hely a Kura-Arakszi-alföld mezőgazdasági településein található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.21265,
+                        39.910539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirili mascidi",
+                  "text": "Situată în extinsa câmpie Kura-Aras, această moschee rurală acționează ca loc central de adunare pentru satul Mirili.",
+                  "category": "landmark",
+                  "coords": [
+                        48.222781,
+                        39.911236
+                  ]
+            },
+            {
+                  "name": "Qaravelli Mascidi",
+                  "text": "Acest lăcaș de cult islamic tradițional este situat în așezările agricole din Câmpia Kura-Aras.",
+                  "category": "landmark",
+                  "coords": [
+                        48.21265,
+                        39.910539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirili mascidi",
+                  "text": "Situated in the expansive Kura-Aras Lowland, this rural mosque acts as the central gathering place for the village of Mirili.",
+                  "category": "landmark",
+                  "coords": [
+                        48.222781,
+                        39.911236
+                  ]
+            },
+            {
+                  "name": "Qaravelli Mascidi",
+                  "text": "This traditional Islamic place of worship is located in the agricultural settlements of the Kura-Aras Lowland.",
+                  "category": "landmark",
+                  "coords": [
+                        48.21265,
+                        39.910539
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "AZ-SAB",
     coords: [48.2500, 39.8333],
@@ -311,7 +680,232 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "gobustan-desert-relief-v2",
+    id: "gobustan-desert-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qobustan Mədəniyyət Evi",
+                  "text": "Ein lokales Kulturzentrum, das Gemeinschaftsveranstaltungen und regionale Aufführungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        49.415841,
+                        40.082732
+                  ]
+            },
+            {
+                  "name": "Roma Legionerlərin yazısı \\ İmperator Domisian XII",
+                  "text": "Die östlichste bekannte lateinische Inschrift, die von der 12. römischen Legion hinterlassen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        49.387322,
+                        40.102366
+                  ]
+            },
+            {
+                  "name": "Qobustan Dairəsi",
+                  "text": "Ein markanter Aussichtspunkt in der Nähe der berühmten Felskunststätten von Gobustan.",
+                  "category": "landmark",
+                  "coords": [
+                        49.410821,
+                        40.075308
+                  ]
+            },
+            {
+                  "name": "Arxeoloji qoruq",
+                  "text": "Eine geschützte Ausgrabungsstätte, die Schichten antiker menschlicher Siedlungen zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        49.387478,
+                        40.066943
+                  ]
+            },
+            {
+                  "name": "Qobustan Milli Tarixi Bədii Qoruğunun Muzeyi",
+                  "text": "Ein Nationalreservat, das sich dem Schutz mesolithischer und neolithischer Petroglyphen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        49.382912,
+                        40.097772
+                  ]
+            },
+            {
+                  "name": "Şıxlar Məscidi",
+                  "text": "Eine traditionelle Dorfmoschee mit einem einfachen Minarett in der Siedlung Şıxlar.",
+                  "category": "landmark",
+                  "coords": [
+                        49.412599,
+                        40.067043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qobustan Mədəniyyət Evi",
+                  "text": "Helyi kulturális központ, amely közösségi eseményeknek és regionális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        49.415841,
+                        40.082732
+                  ]
+            },
+            {
+                  "name": "Roma Legionerlərin yazısı \\ İmperator Domisian XII",
+                  "text": "A 12. római légió által hagyott legkeletibb ismert latin nyelvű felirat.",
+                  "category": "historical",
+                  "coords": [
+                        49.387322,
+                        40.102366
+                  ]
+            },
+            {
+                  "name": "Qobustan Dairəsi",
+                  "text": "Jellegzetes kilátópont a híres gobusztáni sziklarajzok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        49.410821,
+                        40.075308
+                  ]
+            },
+            {
+                  "name": "Arxeoloji qoruq",
+                  "text": "Védett ásatási terület, amely az ősi emberi települések rétegeit mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        49.387478,
+                        40.066943
+                  ]
+            },
+            {
+                  "name": "Qobustan Milli Tarixi Bədii Qoruğunun Muzeyi",
+                  "text": "Nemzeti rezervátum, amely a mezolitikus és neolitikus sziklarajzok védelmére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        49.382912,
+                        40.097772
+                  ]
+            },
+            {
+                  "name": "Şıxlar Məscidi",
+                  "text": "Hagyományos falusi mecset egyszerű minarettel Şıxlar településen.",
+                  "category": "landmark",
+                  "coords": [
+                        49.412599,
+                        40.067043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qobustan Mədəniyyət Evi",
+                  "text": "Un centru cultural local care găzduiește evenimente comunitare și spectacole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        49.415841,
+                        40.082732
+                  ]
+            },
+            {
+                  "name": "Roma Legionerlərin yazısı \\ İmperator Domisian XII",
+                  "text": "Cea mai estică inscripție latină cunoscută, lăsată de Legiunea a XII-a Fulminata a Romei.",
+                  "category": "historical",
+                  "coords": [
+                        49.387322,
+                        40.102366
+                  ]
+            },
+            {
+                  "name": "Qobustan Dairəsi",
+                  "text": "Un punct de observație proeminent în apropierea faimoaselor situri de artă rupestră din Gobustan.",
+                  "category": "landmark",
+                  "coords": [
+                        49.410821,
+                        40.075308
+                  ]
+            },
+            {
+                  "name": "Arxeoloji qoruq",
+                  "text": "Un sit de excavare protejat care prezintă straturi de așezări umane antice.",
+                  "category": "historical",
+                  "coords": [
+                        49.387478,
+                        40.066943
+                  ]
+            },
+            {
+                  "name": "Qobustan Milli Tarixi Bədii Qoruğunun Muzeyi",
+                  "text": "O rezervație națională dedicată protejării petroglifelor mezolitice și neolitice.",
+                  "category": "museum",
+                  "coords": [
+                        49.382912,
+                        40.097772
+                  ]
+            },
+            {
+                  "name": "Şıxlar Məscidi",
+                  "text": "O moschee tradițională de sat cu un minaret simplu în așezarea Şıxlar.",
+                  "category": "landmark",
+                  "coords": [
+                        49.412599,
+                        40.067043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qobustan Mədəniyyət Evi",
+                  "text": "A local cultural center hosting community events and regional performances.",
+                  "category": "cultural",
+                  "coords": [
+                        49.415841,
+                        40.082732
+                  ]
+            },
+            {
+                  "name": "Roman Legion XII inscriptions \\ Qubustan",
+                  "text": "The easternmost known Latin inscription left by Rome's 12th Legion.",
+                  "category": "historical",
+                  "coords": [
+                        49.387322,
+                        40.102366
+                  ]
+            },
+            {
+                  "name": "Qobustan Dairəsi",
+                  "text": "A prominent landmark area located near the famous Gobustan rock art sites.",
+                  "category": "landmark",
+                  "coords": [
+                        49.410821,
+                        40.075308
+                  ]
+            },
+            {
+                  "name": "Arxeoloji qoruq",
+                  "text": "A protected excavation site showcasing layers of ancient human settlements.",
+                  "category": "historical",
+                  "coords": [
+                        49.387478,
+                        40.066943
+                  ]
+            },
+            {
+                  "name": "Gobustan National Historical-Artistic Reserve",
+                  "text": "A national reserve dedicated to the protection of Mesolithic and Neolithic petroglyphs.",
+                  "category": "museum",
+                  "coords": [
+                        49.382912,
+                        40.097772
+                  ]
+            },
+            {
+                  "name": "Şıxlar Məscidi",
+                  "text": "A traditional village mosque with a simple minaret in the Şıxlar settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        49.412599,
+                        40.067043
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "AZ-QOB",
     coords: [49.4000, 40.1000],
@@ -355,7 +949,124 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "absheron-peninsula-relief-v2",
+    id: "absheron-peninsula-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malıbəy Mədəniyyət Evi",
+                  "text": "Ein lokales Theater in Malıbəy, das als Zentrum für regionale Volkskunst dient.",
+                  "category": "cultural",
+                  "coords": [
+                        50.156828,
+                        40.449752
+                  ]
+            },
+            {
+                  "name": "Qala Qoruğu",
+                  "text": "Ein historisches Denkmal im ethnografischen Schutzgebiet von Gala.",
+                  "category": "historical",
+                  "coords": [
+                        50.165039,
+                        40.447651
+                  ]
+            },
+            {
+                  "name": "Binə Türmə Dairəsi",
+                  "text": "Ein markanter Kreisverkehr und Orientierungspunkt in der Nähe des Binə-Gefängnisses.",
+                  "category": "landmark",
+                  "coords": [
+                        50.090569,
+                        40.440797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malıbəy Mədəniyyət Evi",
+                  "text": "Helyi színház Malıbəyben, amely a népművészetek központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        50.156828,
+                        40.449752
+                  ]
+            },
+            {
+                  "name": "Qala Qoruğu",
+                  "text": "Történelmi emlékmű a Qala Állami Történeti és Néprajzi Rezervátumban.",
+                  "category": "historical",
+                  "coords": [
+                        50.165039,
+                        40.447651
+                  ]
+            },
+            {
+                  "name": "Binə Türmə Dairəsi",
+                  "text": "Jellegzetes körforgalom és tájékozódási pont a Binə börtön közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.090569,
+                        40.440797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malıbəy Mədəniyyət Evi",
+                  "text": "Un teatru local în Malıbəy care servește drept centru pentru artele populare regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        50.156828,
+                        40.449752
+                  ]
+            },
+            {
+                  "name": "Qala Qoruğu",
+                  "text": "Un monument istoric aflat în rezervația etnografică de stat din Gala.",
+                  "category": "historical",
+                  "coords": [
+                        50.165039,
+                        40.447651
+                  ]
+            },
+            {
+                  "name": "Binə Türmə Dairəsi",
+                  "text": "Un sens giratoriu și punct de reper proeminent în apropierea închisorii Binə.",
+                  "category": "landmark",
+                  "coords": [
+                        50.090569,
+                        40.440797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malıbəy Mədəniyyət Evi",
+                  "text": "A local theatre in Malıbəy serving as a hub for regional folk arts.",
+                  "category": "cultural",
+                  "coords": [
+                        50.156828,
+                        40.449752
+                  ]
+            },
+            {
+                  "name": "Qala Qoruğu",
+                  "text": "A historical monument within the Gala State Historical and Ethnographic Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        50.165039,
+                        40.447651
+                  ]
+            },
+            {
+                  "name": "Binə Türmə Dairəsi",
+                  "text": "A notable landmark roundabout near the regional correctional facility.",
+                  "category": "landmark",
+                  "coords": [
+                        50.090569,
+                        40.440797
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "AZ-ABS",
     coords: [50.1667, 40.4500],
@@ -399,7 +1110,124 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "karabakh-plateau-relief-v2",
+    id: "karabakh-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ուղտասար",
+                  "text": "Ein über 3300 Meter hoher Berg, der für seine tausenden prähistorischen Petroglyphen an den Hängen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        46.048646,
+                        39.676997
+                  ]
+            },
+            {
+                  "name": "Qızıltəpə",
+                  "text": "Ein Gipfel auf dem Karabach-Plateau, geprägt durch seine markante rötliche Färbung und karge Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        46.125442,
+                        39.662493
+                  ]
+            },
+            {
+                  "name": "Կանտյերի",
+                  "text": "Antike Ruinen auf dem Hochplateau, die auf eine sehr frühe menschliche Besiedlung dieser Region hindeuten.",
+                  "category": "historical",
+                  "coords": [
+                        46.110364,
+                        39.581571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ուղտասար",
+                  "text": "Több mint 3300 méter magas hegy, amely a lejtőin található több ezer őskori sziklarajzról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        46.048646,
+                        39.676997
+                  ]
+            },
+            {
+                  "name": "Qızıltəpə",
+                  "text": "A Karabah-felföld egyik csúcsa, amelyet jellegzetes vöröses színe és gyér növényzete jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        46.125442,
+                        39.662493
+                  ]
+            },
+            {
+                  "name": "Կանտյերի",
+                  "text": "Ősi romok a fennsíkon, amelyek a régió korai emberi betelepülésére utalnak.",
+                  "category": "historical",
+                  "coords": [
+                        46.110364,
+                        39.581571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ուղտասար",
+                  "text": "Un munte de peste 3300 de metri înălțime, celebru pentru miile de petroglife preistorice de pe versanții săi.",
+                  "category": "natural",
+                  "coords": [
+                        46.048646,
+                        39.676997
+                  ]
+            },
+            {
+                  "name": "Qızıltəpə",
+                  "text": "Un vârf pe platoul Karabah, caracterizat prin coloritul său roșiatic distinctiv și vegetația rară.",
+                  "category": "natural",
+                  "coords": [
+                        46.125442,
+                        39.662493
+                  ]
+            },
+            {
+                  "name": "Կանտյերի",
+                  "text": "Ruine antice pe platoul înalt, care indică o așezare umană foarte timpurie în această regiune.",
+                  "category": "historical",
+                  "coords": [
+                        46.110364,
+                        39.581571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ughtasar",
+                  "text": "A mountain exceeding 3300 meters, renowned for the thousands of prehistoric petroglyphs found on its slopes.",
+                  "category": "natural",
+                  "coords": [
+                        46.048646,
+                        39.676997
+                  ]
+            },
+            {
+                  "name": "Qızıltəpə",
+                  "text": "A peak on the Karabakh Plateau, characterized by its distinct reddish coloration and sparse vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        46.125442,
+                        39.662493
+                  ]
+            },
+            {
+                  "name": "Կանտյերի",
+                  "text": "Ancient ruins on the high plateau, indicating very early human settlement in this region.",
+                  "category": "historical",
+                  "coords": [
+                        46.110364,
+                        39.581571
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "AZ-KAL",
     coords: [46.1000, 39.6000],
@@ -443,7 +1271,124 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-kapaz-relief-v2",
+    id: "mount-kapaz-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qədim Körpü",
+                  "text": "Eine alte Bogenbrücke aus Stein, die in der rauen Landschaft am Fuße des Berges Kapaz liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.407095,
+                        40.363844
+                  ]
+            },
+            {
+                  "name": "Kəpəz dağı",
+                  "text": "Dieser majestätische Gipfel ist für seine markanten Kalksteinfelsen bekannt und ein Wahrzeichen des Kleinen Kaukasus.",
+                  "category": "landmark",
+                  "coords": [
+                        46.345061,
+                        40.352473
+                  ]
+            },
+            {
+                  "name": "Kəpəz",
+                  "text": "Ein Aussichtspunkt, der einen spektakulären Blick auf die massiven, felsigen Hänge des Berges Kapaz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        46.346557,
+                        40.3517
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qədim Körpü",
+                  "text": "Ősi kőboltozatos híd, amely a Kapaz-hegy lábánál fekvő vadregényes tájon található.",
+                  "category": "landmark",
+                  "coords": [
+                        46.407095,
+                        40.363844
+                  ]
+            },
+            {
+                  "name": "Kəpəz dağı",
+                  "text": "A jellegzetes mészkőszikláiról ismert fenséges hegycsúcs a Kiskaukázus egyik meghatározó tájképi eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        46.345061,
+                        40.352473
+                  ]
+            },
+            {
+                  "name": "Kəpəz",
+                  "text": "Kilátópont, ahonnan lenyűgöző panoráma nyílik a Kapaz-hegy hatalmas, sziklás lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        46.346557,
+                        40.3517
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qədim Körpü",
+                  "text": "Un pod vechi din piatră cu boltă, situat în peisajul accidentat de la poalele muntelui Kapaz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.407095,
+                        40.363844
+                  ]
+            },
+            {
+                  "name": "Kəpəz dağı",
+                  "text": "Acest vârf maiestuos este cunoscut pentru stâncile sale calcaroase proeminente, fiind un simbol al Caucazului Mic.",
+                  "category": "landmark",
+                  "coords": [
+                        46.345061,
+                        40.352473
+                  ]
+            },
+            {
+                  "name": "Kəpəz",
+                  "text": "Un punct de observație care oferă vederi spectaculoase asupra versanților stâncoși masivi ai muntelui Kapaz.",
+                  "category": "natural",
+                  "coords": [
+                        46.346557,
+                        40.3517
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qədim Körpü",
+                  "text": "An ancient stone-arch bridge situated in the rugged landscape at the foot of Mount Kapaz.",
+                  "category": "landmark",
+                  "coords": [
+                        46.407095,
+                        40.363844
+                  ]
+            },
+            {
+                  "name": "Kepez Mointain",
+                  "text": "This majestic peak is known for its prominent limestone cliffs and is a landmark of the Lesser Caucasus.",
+                  "category": "landmark",
+                  "coords": [
+                        46.345061,
+                        40.352473
+                  ]
+            },
+            {
+                  "name": "Kəpəz",
+                  "text": "A viewpoint offering spectacular views of the massive, rocky slopes of Mount Kapaz.",
+                  "category": "natural",
+                  "coords": [
+                        46.346557,
+                        40.3517
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AZ-GYG",
     coords: [46.3333, 40.3500],
@@ -506,7 +1451,88 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
       en: ["Border mountains between Azerbaijan and Armenia.", "Highest peak is Mount Kapudzhukh."]
     }, image: "/poi-images/zangezur-mountains-relief-v2.webp"},
   {
-    id: "murovdag-mountain-relief-v2",
+    id: "murovdag-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kamisch",
+                  "text": "Mit 3724 Metern der höchste Gipfel der Murovdag-Kette im Kleinen Kaukasus.",
+                  "category": "natural",
+                  "coords": [
+                        46.358571,
+                        40.278822
+                  ]
+            },
+            {
+                  "name": "Murowdagh Gipfel",
+                  "text": "Hochgelegener Aussichtspunkt mit weitem Blick über die zentralen Gebirgszüge des Kleinen Kaukasus.",
+                  "category": "natural",
+                  "coords": [
+                        46.318393,
+                        40.270067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gamış",
+                  "text": "3724 méteres magasságával a Murovdag-hegység legmagasabb csúcsa a Kistermetű-Kaukázusban.",
+                  "category": "natural",
+                  "coords": [
+                        46.358571,
+                        40.278822
+                  ]
+            },
+            {
+                  "name": "Murovdağı zirvəsi",
+                  "text": "Magaslati kilátópont, ahonnan tágas kilátás nyílik a Kistermetű-Kaukázus központi vonulataira.",
+                  "category": "natural",
+                  "coords": [
+                        46.318393,
+                        40.270067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gamış",
+                  "text": "Cu o înălțime de 3724 de metri, acesta este cel mai înalt vârf din lanțul muntos Murovdag.",
+                  "category": "natural",
+                  "coords": [
+                        46.358571,
+                        40.278822
+                  ]
+            },
+            {
+                  "name": "Murovdağı zirvəsi",
+                  "text": "Punct de observație la mare altitudine, oferind o vedere largă asupra crestelor centrale ale Caucazului Mic.",
+                  "category": "natural",
+                  "coords": [
+                        46.318393,
+                        40.270067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gomshasar",
+                  "text": "At 3724 meters, this is the highest peak of the Murovdag range in the Lesser Caucasus.",
+                  "category": "natural",
+                  "coords": [
+                        46.358571,
+                        40.278822
+                  ]
+            },
+            {
+                  "name": "Murovdagh peak",
+                  "text": "High-altitude vantage point offering sweeping views across the central ridges of the Lesser Caucasus.",
+                  "category": "natural",
+                  "coords": [
+                        46.318393,
+                        40.270067
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AZ-KAL",
     coords: [46.3167, 40.2667],
@@ -594,7 +1620,484 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "shirvan-steppe-relief-v2",
+    id: "shirvan-steppe-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miraj Palace Hotel",
+                  "text": "Ein modernes Hotel in Shirvan, das weite Ausblicke über die umliegende Steppenlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.260303,
+                        40.30281
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Ein regionales Kulturhaus, in dem regelmäßig lokale Musik- und Volkstanzaufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        48.150904,
+                        40.345444
+                  ]
+            },
+            {
+                  "name": "Uşaq Yaradıcılıq Mərkəzi",
+                  "text": "Ein Bildungszentrum in Shirvan, das sich auf die Förderung des traditionellen Handwerks bei Kindern konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        48.155091,
+                        40.348488
+                  ]
+            },
+            {
+                  "name": "Gənclər Evi",
+                  "text": "Ein modernes soziales Zentrum für kulturelle Aktivitäten und Workshops für die Jugend von Shirvan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.156611,
+                        40.33393
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Ein Museum, das dem Leben und der politischen Geschichte des ehemaligen aserbaidschanischen Präsidenten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        48.156764,
+                        40.333028
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Ein hohes Nationalflaggendenkmal, das markant auf dem zentralen Platz der Stadt Shirvan steht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.192589,
+                        40.323142
+                  ]
+            },
+            {
+                  "name": "Nicat Plaza",
+                  "text": "Ein bekanntes Hotel und Geschäftszentrum, das die Industrieregion Shirvan bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121209,
+                        40.338432
+                  ]
+            },
+            {
+                  "name": "Kəhkəşan Məscidi",
+                  "text": "Eine moderne Moschee in Shirvan, die für ihre markante Architektur mit blauer Kuppel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.155906,
+                        40.331497
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Eine traditionelle Stadtviertelmoschee mit einem einzigen, schlanken Minarett aserbaidschanischer Bauart.",
+                  "category": "landmark",
+                  "coords": [
+                        48.250295,
+                        40.304968
+                  ]
+            },
+            {
+                  "name": "Ağa İmam Rza Məscidi",
+                  "text": "Eine schiitische Moschee, benannt nach dem achten Imam, die der lokalen Gemeinde in Shirvan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.147567,
+                        40.33643
+                  ]
+            },
+            {
+                  "name": "Zühur Məscidi",
+                  "text": "Eine neu errichtete Moschee, die mit traditionellem aserbaidschanischem Mauerwerk gestaltet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        48.142473,
+                        40.386078
+                  ]
+            },
+            {
+                  "name": "Təzə Bazar",
+                  "text": "Ein großer zentraler Markt, der für seine frischen regionalen Früchte und Textilien berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        48.157574,
+                        40.340881
+                  ]
+            },
+            {
+                  "name": "Bazar Yarmarka",
+                  "text": "Ein saisonaler Freiluftmarktplatz, der ein wichtiger Treffpunkt für regionale Bauern und Händler ist.",
+                  "category": "cultural",
+                  "coords": [
+                        48.156485,
+                        40.343079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miraj Palace Hotel",
+                  "text": "Modern szálloda Sirvanban, amely tágas kilátást nyújt a környező sztyeppei tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        48.260303,
+                        40.30281
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Regionális művelődési ház, amely rendszeresen ad otthont helyi zenei és néptáncbemutatóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        48.150904,
+                        40.345444
+                  ]
+            },
+            {
+                  "name": "Uşaq Yaradıcılıq Mərkəzi",
+                  "text": "Oktatási központ Sirvanban, amely a hagyományos kézművesség népszerűsítésére fókuszál a gyerekek körében.",
+                  "category": "cultural",
+                  "coords": [
+                        48.155091,
+                        40.348488
+                  ]
+            },
+            {
+                  "name": "Gənclər Evi",
+                  "text": "Modern közösségi központ, amely kulturális tevékenységeknek és workshopoknak ad helyet a sirvani fiatalok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        48.156611,
+                        40.33393
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "A volt azerbajdzsáni elnök életét és politikai pályafutását bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        48.156764,
+                        40.333028
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Hatalmas nemzeti zászló-emlékmű, amely Sirvan városának központi terén magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        48.192589,
+                        40.323142
+                  ]
+            },
+            {
+                  "name": "Nicat Plaza",
+                  "text": "Ismert szálloda és üzleti központ, amely a sirvani ipari régiót szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121209,
+                        40.338432
+                  ]
+            },
+            {
+                  "name": "Kəhkəşan Məscidi",
+                  "text": "Modern mecset Sirvanban, amely jellegzetes kék kupolás építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.155906,
+                        40.331497
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Hagyományos szomszédsági mecset egyetlen karcsú, azerbajdzsáni stílusú minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        48.250295,
+                        40.304968
+                  ]
+            },
+            {
+                  "name": "Ağa İmam Rza Məscidi",
+                  "text": "A nyolcadik imámról elnevezett síita mecset, amely a helyi sirvani közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.147567,
+                        40.33643
+                  ]
+            },
+            {
+                  "name": "Zühur Məscidi",
+                  "text": "Újonnan épült mecset, amely a hagyományos azerbajdzsáni téglaépítészet stílusjegyeit viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        48.142473,
+                        40.386078
+                  ]
+            },
+            {
+                  "name": "Təzə Bazar",
+                  "text": "Hatalmas központi piac, amely híres a helyben termesztett gyümölcseiről és textiláruiról.",
+                  "category": "cultural",
+                  "coords": [
+                        48.157574,
+                        40.340881
+                  ]
+            },
+            {
+                  "name": "Bazar Yarmarka",
+                  "text": "Szezonális szabadtéri vásártér, amely a régió gazdáinak és kereskedőinek fontos találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        48.156485,
+                        40.343079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miraj Palace Hotel",
+                  "text": "Un hotel modern în Shirvan, care oferă vederi largi asupra peisajului de stepă înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        48.260303,
+                        40.30281
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "O casă de cultură regională care găzduiește regulat spectacole locale de muzică și dansuri populare.",
+                  "category": "cultural",
+                  "coords": [
+                        48.150904,
+                        40.345444
+                  ]
+            },
+            {
+                  "name": "Uşaq Yaradıcılıq Mərkəzi",
+                  "text": "Un centru educațional din Shirvan concentrat pe promovarea meșteșugurilor tradiționale în rândul copiilor.",
+                  "category": "cultural",
+                  "coords": [
+                        48.155091,
+                        40.348488
+                  ]
+            },
+            {
+                  "name": "Gənclər Evi",
+                  "text": "Un centru social modern pentru activități culturale și ateliere dedicate tineretului din Shirvan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.156611,
+                        40.33393
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Un muzeu dedicat vieții și istoriei politice a fostului președinte al Azerbaidjanului.",
+                  "category": "museum",
+                  "coords": [
+                        48.156764,
+                        40.333028
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Un monument înalt cu steagul național, situat proeminent în piața centrală a orașului Shirvan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.192589,
+                        40.323142
+                  ]
+            },
+            {
+                  "name": "Nicat Plaza",
+                  "text": "Un hotel și centru de afaceri proeminent care deservește regiunea industrială Shirvan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121209,
+                        40.338432
+                  ]
+            },
+            {
+                  "name": "Kəhkəşan Məscidi",
+                  "text": "O moschee modernă în Shirvan, cunoscută pentru arhitectura sa distinctivă cu cupolă albastră.",
+                  "category": "landmark",
+                  "coords": [
+                        48.155906,
+                        40.331497
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "O moschee tradițională de cartier, cu un singur minaret subțire în stil azer.",
+                  "category": "landmark",
+                  "coords": [
+                        48.250295,
+                        40.304968
+                  ]
+            },
+            {
+                  "name": "Ağa İmam Rza Məscidi",
+                  "text": "O moschee șiită numită după cel de-al optulea imam, care deservește comunitatea locală din Shirvan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.147567,
+                        40.33643
+                  ]
+            },
+            {
+                  "name": "Zühur Məscidi",
+                  "text": "O moschee recent construită, realizată cu zidărie tradițională azeră.",
+                  "category": "landmark",
+                  "coords": [
+                        48.142473,
+                        40.386078
+                  ]
+            },
+            {
+                  "name": "Təzə Bazar",
+                  "text": "O piață centrală mare, faimoasă pentru fructele regionale proaspete și textilele sale.",
+                  "category": "cultural",
+                  "coords": [
+                        48.157574,
+                        40.340881
+                  ]
+            },
+            {
+                  "name": "Bazar Yarmarka",
+                  "text": "Un spațiu de târg sezonier în aer liber, care este un punct important de întâlnire pentru fermierii și comercianții regionali.",
+                  "category": "cultural",
+                  "coords": [
+                        48.156485,
+                        40.343079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miraj Palace Hotel",
+                  "text": "A modern hotel in Shirvan offering expansive views over the surrounding steppe landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        48.260303,
+                        40.30281
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "A regional culture house that regularly hosts local music and folk dance performances.",
+                  "category": "cultural",
+                  "coords": [
+                        48.150904,
+                        40.345444
+                  ]
+            },
+            {
+                  "name": "Uşaq Yaradıcılıq Mərkəzi",
+                  "text": "An educational center in Shirvan focused on promoting traditional crafts and arts among children.",
+                  "category": "cultural",
+                  "coords": [
+                        48.155091,
+                        40.348488
+                  ]
+            },
+            {
+                  "name": "Gənclər Evi",
+                  "text": "A modern social hub for cultural activities and workshops for the youth of Shirvan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.156611,
+                        40.33393
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "A museum dedicated to the life and political history of Azerbaijan's former president.",
+                  "category": "museum",
+                  "coords": [
+                        48.156764,
+                        40.333028
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "A towering national flag monument standing prominently in Shirvan's central city square.",
+                  "category": "landmark",
+                  "coords": [
+                        48.192589,
+                        40.323142
+                  ]
+            },
+            {
+                  "name": "Nicat Plaza",
+                  "text": "A prominent hotel and business center serving the industrial region of Shirvan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.121209,
+                        40.338432
+                  ]
+            },
+            {
+                  "name": "Kəhkəşan Məscidi",
+                  "text": "A modern mosque in Shirvan known for its distinctive blue-domed architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.155906,
+                        40.331497
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "A traditional neighborhood mosque with a single slender minaret of Azerbaijani design.",
+                  "category": "landmark",
+                  "coords": [
+                        48.250295,
+                        40.304968
+                  ]
+            },
+            {
+                  "name": "Ağa İmam Rza Məscidi",
+                  "text": "A Shia mosque named after the eighth Imam, serving the local community in Shirvan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.147567,
+                        40.33643
+                  ]
+            },
+            {
+                  "name": "Zühur Məscidi",
+                  "text": "A recently built mosque featuring traditional Azerbaijani brickwork design.",
+                  "category": "landmark",
+                  "coords": [
+                        48.142473,
+                        40.386078
+                  ]
+            },
+            {
+                  "name": "Təzə Bazar",
+                  "text": "A large central market famous for its locally grown fresh fruits and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        48.157574,
+                        40.340881
+                  ]
+            },
+            {
+                  "name": "Bazar Yarmarka",
+                  "text": "A seasonal open-air fairground that serves as a key meeting point for regional farmers and traders.",
+                  "category": "cultural",
+                  "coords": [
+                        48.156485,
+                        40.343079
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "AZ-KUR",
     coords: [48.1667, 40.3333],
@@ -714,7 +2217,232 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "beshbarmag-mountain-relief-v2",
+    id: "beshbarmag-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Candy Cane Mountains",
+                  "text": "Diese Hügel aus buntem Schiefergestein sind für ihre auffälligen roten und weißen Streifen bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.197103,
+                        40.877344
+                  ]
+            },
+            {
+                  "name": "Mikayıl Müşfiq - Xatirə müzeyi \\ Xızı",
+                  "text": "Ein Gedenkmuseum in Xızı, das dem Leben des berühmten aserbaidschanischen Dichters Mikayıl Müşfiq gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        49.188217,
+                        40.877904
+                  ]
+            },
+            {
+                  "name": "Besh Barmak Snake Figure",
+                  "text": "Eine natürliche Felsformation in der Nähe des Besh-Barmak-Berges, die an eine Schlange erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        49.21117,
+                        40.94139
+                  ]
+            },
+            {
+                  "name": "Məscid Beşbarmaq",
+                  "text": "Diese Moschee liegt direkt am Fuße des heiligen Besh-Barmak-Felsens und wird oft von Pilgern besucht.",
+                  "category": "landmark",
+                  "coords": [
+                        49.232094,
+                        40.955358
+                  ]
+            },
+            {
+                  "name": "Beşbarmaq",
+                  "text": "Ein markanter fünf-fingriger Felsen am Kaspischen Meer, der seit Jahrhunderten als heilige Stätte verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        49.232727,
+                        40.95737
+                  ]
+            },
+            {
+                  "name": "Beşbarmaq Piri",
+                  "text": "Ein alter Schrein am Hang des Besh-Barmak, an dem Gläubige Gebete und Rituale vollziehen.",
+                  "category": "religious",
+                  "coords": [
+                        49.242415,
+                        40.971875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Candy Cane Mountains",
+                  "text": "Ezek a színes palakőből álló dombok feltűnő vörös és fehér csíkjaikról ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        49.197103,
+                        40.877344
+                  ]
+            },
+            {
+                  "name": "Mikayıl Müşfiq - Xatirə müzeyi \\ Xızı",
+                  "text": "Emlékmúzeum Xızıban, amely a híres azeri költő, Mikayıl Müşfiq életének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        49.188217,
+                        40.877904
+                  ]
+            },
+            {
+                  "name": "Besh Barmak Snake Figure",
+                  "text": "Természetes sziklaformáció a Besh Barmak-hegy közelében, amely egy kígyóra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        49.21117,
+                        40.94139
+                  ]
+            },
+            {
+                  "name": "Məscid Beşbarmaq",
+                  "text": "Ez a mecset közvetlenül a szent Besh Barmak-szikla lábánál fekszik, és gyakran látogatják zarándokok.",
+                  "category": "landmark",
+                  "coords": [
+                        49.232094,
+                        40.955358
+                  ]
+            },
+            {
+                  "name": "Beşbarmaq",
+                  "text": "Jellegzetes, ötujjas szikla a Kaszpi-tenger partján, amelyet évszázadok óta szent helyként tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        49.232727,
+                        40.95737
+                  ]
+            },
+            {
+                  "name": "Beşbarmaq Piri",
+                  "text": "Ősi sírhely a Besh Barmak lejtőjén, ahol a hívők imákat és rituálékat mutatnak be.",
+                  "category": "religious",
+                  "coords": [
+                        49.242415,
+                        40.971875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Candy Cane Mountains",
+                  "text": "Aceste dealuri din șisturi colorate sunt cunoscute pentru dungile lor izbitoare de roșu și alb.",
+                  "category": "landmark",
+                  "coords": [
+                        49.197103,
+                        40.877344
+                  ]
+            },
+            {
+                  "name": "Mikayıl Müşfiq - Xatirə müzeyi \\ Xızı",
+                  "text": "Un muzeu memorial în Xızı dedicat vieții celebrului poet azer Mikayıl Müşfiq.",
+                  "category": "museum",
+                  "coords": [
+                        49.188217,
+                        40.877904
+                  ]
+            },
+            {
+                  "name": "Besh Barmak Snake Figure",
+                  "text": "O formațiune stâncoasă naturală lângă muntele Besh Barmak, care seamănă cu un șarpe.",
+                  "category": "historical",
+                  "coords": [
+                        49.21117,
+                        40.94139
+                  ]
+            },
+            {
+                  "name": "Məscid Beşbarmaq",
+                  "text": "Această moschee se află chiar la poalele stâncii sacre Besh Barmak și este adesea vizitată de pelerini.",
+                  "category": "landmark",
+                  "coords": [
+                        49.232094,
+                        40.955358
+                  ]
+            },
+            {
+                  "name": "Beşbarmaq",
+                  "text": "O stâncă distinctivă cu cinci degete de pe malul Mării Caspice, venerată ca loc sfânt de secole.",
+                  "category": "landmark",
+                  "coords": [
+                        49.232727,
+                        40.95737
+                  ]
+            },
+            {
+                  "name": "Beşbarmaq Piri",
+                  "text": "Un altar antic pe panta muntelui Besh Barmak, unde credincioșii săvârșesc rugăciuni și ritualuri.",
+                  "category": "religious",
+                  "coords": [
+                        49.242415,
+                        40.971875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Candy Cane Mountains",
+                  "text": "These hills of colored shale are known for their striking red and white stripes.",
+                  "category": "landmark",
+                  "coords": [
+                        49.197103,
+                        40.877344
+                  ]
+            },
+            {
+                  "name": "Mikayıl Müşfiq - Xatirə müzeyi \\ Xızı",
+                  "text": "A memorial museum in Xızı dedicated to the life of the famous Azerbaijani poet Mikayıl Müşfiq.",
+                  "category": "museum",
+                  "coords": [
+                        49.188217,
+                        40.877904
+                  ]
+            },
+            {
+                  "name": "Besh Barmak Snake Figure",
+                  "text": "A natural rock formation near Besh Barmak mountain that resembles a snake.",
+                  "category": "historical",
+                  "coords": [
+                        49.21117,
+                        40.94139
+                  ]
+            },
+            {
+                  "name": "Məscid Beşbarmaq",
+                  "text": "This mosque lies right at the foot of the sacred Besh Barmak rock and is frequently visited by pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        49.232094,
+                        40.955358
+                  ]
+            },
+            {
+                  "name": "Beşbarmaq",
+                  "text": "A distinctive five-fingered rock on the Caspian coast, revered as a holy site for centuries.",
+                  "category": "landmark",
+                  "coords": [
+                        49.232727,
+                        40.95737
+                  ]
+            },
+            {
+                  "name": "Beşbarmaq Piri",
+                  "text": "An ancient shrine on the slope of Besh Barmak where believers perform prayers and rituals.",
+                  "category": "religious",
+                  "coords": [
+                        49.242415,
+                        40.971875
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AZ-SIY",
     coords: [49.2500, 40.9500],
@@ -758,7 +2486,844 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "nabran-coast-relief-v2",
+    id: "nabran-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Faro Aquapark",
+                  "text": "Ein beliebter Wasserpark an der Küste von Nabran mit zahlreichen Rutschen und Pools inmitten einer bewaldeten Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        48.725897,
+                        41.729747
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "Dieses Kulturzentrum in Nabran widmet sich der musikalischen Ausbildung und veranstaltet regelmäßige Aufführungen lokaler Talente.",
+                  "category": "cultural",
+                  "coords": [
+                        48.707184,
+                        41.751286
+                  ]
+            },
+            {
+                  "name": "Zoopark",
+                  "text": "Ein lokaler Tierpark in der Nähe der kaspischen Küste, in dem Besucher verschiedene regionale Tierarten beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        48.706955,
+                        41.748957
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Dieses lokale Theater dient als kulturelles Herzstück der Gemeinde und bietet Raum für Folklore und dramatische Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        48.627586,
+                        41.697546
+                  ]
+            },
+            {
+                  "name": "Muzey",
+                  "text": "Dieses Museum zeigt Ausstellungen zur lokalen Geschichte und Naturkunde der waldreichen Küstenregion von Nabran.",
+                  "category": "museum",
+                  "coords": [
+                        48.631869,
+                        41.687574
+                  ]
+            },
+            {
+                  "name": "KQafqaz Otel",
+                  "text": "Ein am Waldrand gelegenes Motel, das Reisenden eine einfache Unterkunft in der Nähe der kaspischen Strände bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.697631,
+                        41.76072
+                  ]
+            },
+            {
+                  "name": "Kaspiana Otel",
+                  "text": "Ein gemütliches Motel, das nach dem Kaspischen Meer benannt ist und einen weiten Blick über die bewaldete Küstenlandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.716264,
+                        41.739946
+                  ]
+            },
+            {
+                  "name": "Malibu",
+                  "text": "Dieses nach dem berühmten kalifornischen Strand benannte Hotel bietet eine entspannte Atmosphäre direkt am Kaspischen Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        48.738427,
+                        41.703733
+                  ]
+            },
+            {
+                  "name": "Venesiya",
+                  "text": "Ein Resort-Hotel, das mit seinen architektonischen Details und Wasserkanälen ein wenig venezianisches Flair nach Nabran bringt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.743988,
+                        41.708974
+                  ]
+            },
+            {
+                  "name": "Palma",
+                  "text": "Dieses Hotel liegt inmitten hoher Bäume und bietet schattige Plätze sowie eine ruhige Umgebung für Strandurlauber.",
+                  "category": "landmark",
+                  "coords": [
+                        48.740205,
+                        41.707648
+                  ]
+            },
+            {
+                  "name": "Lokomotiv İstirahət",
+                  "text": "Ursprünglich als Erholungsheim für Eisenbahner gegründet, bietet dieses Hotel heute rustikale Unterkünfte im dichten Wald von Nabran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.73719,
+                        41.705618
+                  ]
+            },
+            {
+                  "name": "Ulduz",
+                  "text": "Ein klassisches Resort-Hotel in Nabran, das für seine familiäre Atmosphäre und die Nähe zu den lokalen Cafés bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.736662,
+                        41.710422
+                  ]
+            },
+            {
+                  "name": "Bellissimo Motel",
+                  "text": "Ein kleines, charmantes Motel am Rande des Waldes, das ideal für Kurzbesuche an der Küste von Aserbaidschan ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.727954,
+                        41.728719
+                  ]
+            },
+            {
+                  "name": "El Faro Çimərlik",
+                  "text": "Ein sauberer Sandstrand am Kaspischen Meer, der zum El Faro Resort gehört und verschiedene Wassersportmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        48.728511,
+                        41.729872
+                  ]
+            },
+            {
+                  "name": "Böyük məscid",
+                  "text": "Die Hauptmoschee der Region, die sich durch ihr klassisches Minarett und den geräumigen Gebetssaal für die Gemeinde auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.689903,
+                        41.761328
+                  ]
+            },
+            {
+                  "name": "Pir Nabran",
+                  "text": "Eine verehrte lokale Pilgerstätte, die in der ruhigen Waldlandschaft von Nabran liegt und für ihre spirituelle Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        48.669726,
+                        41.772524
+                  ]
+            },
+            {
+                  "name": "İmam Zaman Əsgəri məscidi",
+                  "text": "Diese Moschee ist dem zwölften Imam gewidmet und dient als wichtiges religiöses Zentrum für die schiitische Gemeinde vor Ort.",
+                  "category": "landmark",
+                  "coords": [
+                        48.644088,
+                        41.756672
+                  ]
+            },
+            {
+                  "name": "İmam Həsən məscidi",
+                  "text": "Ein schlichtes islamisches Gebetshaus, das nach Imam Hasan benannt wurde und in der Nähe des Zentrums von Nabran liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.669235,
+                        41.762817
+                  ]
+            },
+            {
+                  "name": "Məhəmməd Peyğəmbər Məscidi",
+                  "text": "Eine nach dem Propheten Muhammad benannte Moschee, die durch ihre traditionelle aserbaidschanische Sakralarchitektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.671493,
+                        41.677173
+                  ]
+            },
+            {
+                  "name": "Ramazan məscidi",
+                  "text": "Diese Moschee ist nach dem heiligen Monat Ramazan benannt und spielt eine zentrale Rolle während der islamischen Festtage.",
+                  "category": "landmark",
+                  "coords": [
+                        48.62206,
+                        41.690548
+                  ]
+            },
+            {
+                  "name": "Bikəxanım Məscidi",
+                  "text": "Ein historisches Gebetshaus, das nach einer angesehenen lokalen Persönlichkeit benannt wurde und in einer ruhigen Seitenstraße liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.572204,
+                        41.744266
+                  ]
+            },
+            {
+                  "name": "Yaşıl Məscid",
+                  "text": "Diese Moschee ist lokal als die 'Grüne Moschee' bekannt und besticht durch ihre farbenfrohen dekorativen Details.",
+                  "category": "landmark",
+                  "coords": [
+                        48.576412,
+                        41.756247
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Ein bescheidener Ort des Gebets für die muslimische Gemeinschaft in Nabran, der in der Nähe der Küstenstraße liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.633178,
+                        41.816411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Faro Aquapark",
+                  "text": "Nabrani népszerű aquapark számos csúszdával és medencével, erdős környezetben, közvetlenül a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        48.725897,
+                        41.729747
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "Ez a nabrani kulturális központ a zenei oktatásnak szentelt helyszín, ahol rendszeresen lépnek fel helyi tehetségek.",
+                  "category": "cultural",
+                  "coords": [
+                        48.707184,
+                        41.751286
+                  ]
+            },
+            {
+                  "name": "Zoopark",
+                  "text": "Helyi állatkert a Kaszpi-tenger partjának közelében, ahol a látogatók különféle regionális állatfajokat tekinthetnek meg.",
+                  "category": "recreational",
+                  "coords": [
+                        48.706955,
+                        41.748957
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Ez a helyi színház a közösség kulturális szíve, amely folklór előadásoknak és drámai produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        48.627586,
+                        41.697546
+                  ]
+            },
+            {
+                  "name": "Muzey",
+                  "text": "Ez a múzeum Nabran erdős tengerparti régiójának helytörténeti és természettudományi kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.631869,
+                        41.687574
+                  ]
+            },
+            {
+                  "name": "KQafqaz Otel",
+                  "text": "Az erdő szélén található motel, amely egyszerű szállást kínál az utazóknak a kaszpi strandok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.697631,
+                        41.76072
+                  ]
+            },
+            {
+                  "name": "Kaspiana Otel",
+                  "text": "A Kaszpi-tengerről elnevezett hangulatos motel, amely tágas kilátást nyújt az erdős parti tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        48.716264,
+                        41.739946
+                  ]
+            },
+            {
+                  "name": "Malibu",
+                  "text": "A híres kaliforniai strandról elnevezett szálloda kötetlen hangulatot kínál közvetlenül a Kaszpi-tenger partján.",
+                  "category": "landmark",
+                  "coords": [
+                        48.738427,
+                        41.703733
+                  ]
+            },
+            {
+                  "name": "Venesiya",
+                  "text": "Egy üdülőszálloda, amely építészeti részleteivel és csatornáival egy kis velencei hangulatot hoz Nabranba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.743988,
+                        41.708974
+                  ]
+            },
+            {
+                  "name": "Palma",
+                  "text": "Ez a szálloda magas fák között fekszik, árnyékos helyeket és nyugodt környezetet biztosítva a strandolóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.740205,
+                        41.707648
+                  ]
+            },
+            {
+                  "name": "Lokomotiv İstirahət",
+                  "text": "Eredetileg vasutasok üdülőjének épült, ma rusztikus szállást kínál Nabran sűrű erdőiben.",
+                  "category": "landmark",
+                  "coords": [
+                        48.73719,
+                        41.705618
+                  ]
+            },
+            {
+                  "name": "Ulduz",
+                  "text": "Klasszikus üdülőszálloda Nabranban, amely családias légköréről és a helyi kávézók közelségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.736662,
+                        41.710422
+                  ]
+            },
+            {
+                  "name": "Bellissimo Motel",
+                  "text": "Kicsi, bájos motel az erdő szélén, amely ideális választás az azerbajdzsáni tengerpartra látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        48.727954,
+                        41.728719
+                  ]
+            },
+            {
+                  "name": "El Faro Çimərlik",
+                  "text": "A Kaszpi-tenger tiszta homokos strandja, amely az El Faro üdülőhelyhez tartozik, és különféle vízi sportokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        48.728511,
+                        41.729872
+                  ]
+            },
+            {
+                  "name": "Böyük məscid",
+                  "text": "A régió fő mecsetje, amely klasszikus minaretjével és tágas imatermével emelkedik ki a közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        48.689903,
+                        41.761328
+                  ]
+            },
+            {
+                  "name": "Pir Nabran",
+                  "text": "Tisztelt helyi zarándokhely Nabran nyugodt erdei környezetében, amely spirituális jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        48.669726,
+                        41.772524
+                  ]
+            },
+            {
+                  "name": "İmam Zaman Əsgəri məscidi",
+                  "text": "Ez a mecset a tizenkettedik imámnak van szentelve, és a helyi síita közösség fontos vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.644088,
+                        41.756672
+                  ]
+            },
+            {
+                  "name": "İmam Həsən məscidi",
+                  "text": "Hászán imámról elnevezett egyszerű iszlám imaház Nabran központjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.669235,
+                        41.762817
+                  ]
+            },
+            {
+                  "name": "Məhəmməd Peyğəmbər Məscidi",
+                  "text": "Mohamed prófétáról elnevezett mecset, amely hagyományos azerbajdzsáni szakrális építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        48.671493,
+                        41.677173
+                  ]
+            },
+            {
+                  "name": "Ramazan məscidi",
+                  "text": "Ez a mecset a szent Ramazán hónapról kapta a nevét, és központi szerepet játszik az iszlám ünnepnapok során.",
+                  "category": "landmark",
+                  "coords": [
+                        48.62206,
+                        41.690548
+                  ]
+            },
+            {
+                  "name": "Bikəxanım Məscidi",
+                  "text": "Egy tekintélyes helyi személyiségről elnevezett történelmi imaház, amely egy csendes mellékutcában található.",
+                  "category": "landmark",
+                  "coords": [
+                        48.572204,
+                        41.744266
+                  ]
+            },
+            {
+                  "name": "Yaşıl Məscid",
+                  "text": "Ezt a mecsetet helyben 'Zöld Mecset' néven ismerik, és színes dekoratív részleteivel hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        48.576412,
+                        41.756247
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Mérsékelt imaház a nabrani muszlim közösség számára, a tengerparti út közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.633178,
+                        41.816411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Faro Aquapark",
+                  "text": "Un parc acvatic popular pe coasta Nabran, cu numeroase tobogane și piscine, situat într-un cadru împădurit.",
+                  "category": "recreational",
+                  "coords": [
+                        48.725897,
+                        41.729747
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "Acest centru cultural din Nabran este dedicat educației muzicale și găzduiește spectacole regulate ale talentelor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        48.707184,
+                        41.751286
+                  ]
+            },
+            {
+                  "name": "Zoopark",
+                  "text": "O grădină zoologică locală situată aproape de coasta caspică, unde vizitatorii pot vedea diverse specii de animale regionale.",
+                  "category": "recreational",
+                  "coords": [
+                        48.706955,
+                        41.748957
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Acest teatru local servește ca nucleu cultural al comunității, oferind spațiu pentru spectacole folclorice și dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        48.627586,
+                        41.697546
+                  ]
+            },
+            {
+                  "name": "Muzey",
+                  "text": "Acest muzeu prezintă exponate legate de istoria locală și științele naturale ale regiunii de coastă împădurite din Nabran.",
+                  "category": "museum",
+                  "coords": [
+                        48.631869,
+                        41.687574
+                  ]
+            },
+            {
+                  "name": "KQafqaz Otel",
+                  "text": "Un motel situat la marginea pădurii, oferind călătorilor cazare simplă în apropierea plajelor caspice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.697631,
+                        41.76072
+                  ]
+            },
+            {
+                  "name": "Kaspiana Otel",
+                  "text": "Un motel primitor numit după Marea Caspică, oferind vederi largi asupra peisajului de coastă împădurit.",
+                  "category": "landmark",
+                  "coords": [
+                        48.716264,
+                        41.739946
+                  ]
+            },
+            {
+                  "name": "Malibu",
+                  "text": "Acest hotel numit după celebra plajă californiană oferă o atmosferă relaxată chiar pe malul Mării Caspice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.738427,
+                        41.703733
+                  ]
+            },
+            {
+                  "name": "Venesiya",
+                  "text": "Un hotel de vacanță care aduce un pic de fler venețian în Nabran prin detaliile sale arhitecturale și canalele de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.743988,
+                        41.708974
+                  ]
+            },
+            {
+                  "name": "Palma",
+                  "text": "Acest hotel este situat printre copaci înalți, oferind locuri umbrite și un mediu liniștit pentru turiștii de pe plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.740205,
+                        41.707648
+                  ]
+            },
+            {
+                  "name": "Lokomotiv İstirahət",
+                  "text": "Fondat inițial ca o casă de odihnă pentru feroviari, acest hotel oferă astăzi cazare rustică în pădurea densă din Nabran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.73719,
+                        41.705618
+                  ]
+            },
+            {
+                  "name": "Ulduz",
+                  "text": "Un hotel clasic de vacanță din Nabran, cunoscut pentru atmosfera sa familială și proximitatea față de cafenelele locale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.736662,
+                        41.710422
+                  ]
+            },
+            {
+                  "name": "Bellissimo Motel",
+                  "text": "Un motel mic și fermecător la marginea pădurii, ideal pentru vizite scurte pe coasta Azerbaidjanului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.727954,
+                        41.728719
+                  ]
+            },
+            {
+                  "name": "El Faro Çimərlik",
+                  "text": "O plajă cu nisip curat la Marea Caspică, aparținând complexului El Faro, oferind diverse facilități pentru sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        48.728511,
+                        41.729872
+                  ]
+            },
+            {
+                  "name": "Böyük məscid",
+                  "text": "Principala moschee a regiunii, remarcată prin minaretul său clasic și sala de rugăciune spațioasă pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        48.689903,
+                        41.761328
+                  ]
+            },
+            {
+                  "name": "Pir Nabran",
+                  "text": "Un loc de pelerinaj local venerat, situat în peisajul liniștit de pădure din Nabran, cunoscut pentru semnificația sa spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        48.669726,
+                        41.772524
+                  ]
+            },
+            {
+                  "name": "İmam Zaman Əsgəri məscidi",
+                  "text": "Această moschee este dedicată celui de-al doisprezecelea imam și servește ca un centru religios important pentru comunitatea șiită locală.",
+                  "category": "landmark",
+                  "coords": [
+                        48.644088,
+                        41.756672
+                  ]
+            },
+            {
+                  "name": "İmam Həsən məscidi",
+                  "text": "O casă de rugăciune islamică simplă, numită după Imamul Hasan, situată aproape de centrul localității Nabran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.669235,
+                        41.762817
+                  ]
+            },
+            {
+                  "name": "Məhəmməd Peyğəmbər Məscidi",
+                  "text": "O moschee numită după Profetul Muhammad, remarcabilă prin arhitectura sa sacră tradițională azeră.",
+                  "category": "landmark",
+                  "coords": [
+                        48.671493,
+                        41.677173
+                  ]
+            },
+            {
+                  "name": "Ramazan məscidi",
+                  "text": "Această moschee poartă numele lunii sfinte Ramazan și joacă un rol central în timpul sărbătorilor islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.62206,
+                        41.690548
+                  ]
+            },
+            {
+                  "name": "Bikəxanım Məscidi",
+                  "text": "O casă de rugăciune istorică numită după o personalitate locală respectată, situată pe o stradă laterală liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        48.572204,
+                        41.744266
+                  ]
+            },
+            {
+                  "name": "Yaşıl Məscid",
+                  "text": "Această moschee este cunoscută local sub numele de „Moscheea Verde” și impresionează prin detaliile sale decorative colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        48.576412,
+                        41.756247
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Un loc de rugăciune modest pentru comunitatea musulmană din Nabran, situat în apropierea drumului de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.633178,
+                        41.816411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Faro Aquapark",
+                  "text": "A popular water park on the Nabran coast featuring numerous slides and pools set within a forested seaside area.",
+                  "category": "recreational",
+                  "coords": [
+                        48.725897,
+                        41.729747
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "This arts centre in Nabran is dedicated to music education and hosts regular performances by local talents.",
+                  "category": "cultural",
+                  "coords": [
+                        48.707184,
+                        41.751286
+                  ]
+            },
+            {
+                  "name": "Zoopark",
+                  "text": "A local zoo located near the Caspian coast, where visitors can observe various regional animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        48.706955,
+                        41.748957
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "This local theatre serves as the community's cultural heart, providing a venue for folklore and dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        48.627586,
+                        41.697546
+                  ]
+            },
+            {
+                  "name": "Muzey",
+                  "text": "This museum features exhibits on the local history and natural sciences of the forested Nabran coastal region.",
+                  "category": "museum",
+                  "coords": [
+                        48.631869,
+                        41.687574
+                  ]
+            },
+            {
+                  "name": "KQafqaz Otel",
+                  "text": "A motel situated at the edge of the forest, offering travelers simple accommodation near the Caspian beaches.",
+                  "category": "landmark",
+                  "coords": [
+                        48.697631,
+                        41.76072
+                  ]
+            },
+            {
+                  "name": "Kaspiana Otel",
+                  "text": "A cozy motel named after the Caspian Sea, offering wide views over the forested coastal landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        48.716264,
+                        41.739946
+                  ]
+            },
+            {
+                  "name": "Malibu",
+                  "text": "This hotel, named after the famous Californian beach, offers a relaxed atmosphere directly on the Caspian Sea shore.",
+                  "category": "landmark",
+                  "coords": [
+                        48.738427,
+                        41.703733
+                  ]
+            },
+            {
+                  "name": "Venesiya",
+                  "text": "A resort hotel that brings a touch of Venetian flair to Nabran with its architectural details and water features.",
+                  "category": "landmark",
+                  "coords": [
+                        48.743988,
+                        41.708974
+                  ]
+            },
+            {
+                  "name": "Palma",
+                  "text": "This hotel is nestled among tall trees, providing shaded spots and a quiet environment for beachgoers.",
+                  "category": "landmark",
+                  "coords": [
+                        48.740205,
+                        41.707648
+                  ]
+            },
+            {
+                  "name": "Lokomotiv İstirahət",
+                  "text": "Originally founded as a rest home for railway workers, this hotel now offers rustic accommodation in Nabran's dense forest.",
+                  "category": "landmark",
+                  "coords": [
+                        48.73719,
+                        41.705618
+                  ]
+            },
+            {
+                  "name": "Ulduz",
+                  "text": "A classic resort hotel in Nabran known for its family-friendly atmosphere and proximity to local cafes.",
+                  "category": "landmark",
+                  "coords": [
+                        48.736662,
+                        41.710422
+                  ]
+            },
+            {
+                  "name": "Bellissimo Motel",
+                  "text": "A small, charming motel on the edge of the forest, ideal for short visits to the Azerbaijani coast.",
+                  "category": "landmark",
+                  "coords": [
+                        48.727954,
+                        41.728719
+                  ]
+            },
+            {
+                  "name": "El Faro Çimərlik",
+                  "text": "A clean sandy beach on the Caspian Sea belonging to the El Faro resort, offering various water sports facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        48.728511,
+                        41.729872
+                  ]
+            },
+            {
+                  "name": "Böyük məscid",
+                  "text": "The main mosque of the region, featuring a classical minaret and a spacious prayer hall for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.689903,
+                        41.761328
+                  ]
+            },
+            {
+                  "name": "Pir Nabran",
+                  "text": "A revered local pilgrimage site nestled in the quiet forest landscape of Nabran, known for its spiritual significance.",
+                  "category": "religious",
+                  "coords": [
+                        48.669726,
+                        41.772524
+                  ]
+            },
+            {
+                  "name": "İmam Zaman Əsgəri məscidi",
+                  "text": "This mosque is dedicated to the Twelfth Imam and serves as an important religious hub for the local Shiite community.",
+                  "category": "landmark",
+                  "coords": [
+                        48.644088,
+                        41.756672
+                  ]
+            },
+            {
+                  "name": "İmam Həsən məscidi",
+                  "text": "A simple Islamic house of worship named after Imam Hasan, located near the center of Nabran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.669235,
+                        41.762817
+                  ]
+            },
+            {
+                  "name": "Məhəmməd Peyğəmbər Məscidi",
+                  "text": "A mosque named after Prophet Muhammad, distinguished by its traditional Azerbaijani sacred architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        48.671493,
+                        41.677173
+                  ]
+            },
+            {
+                  "name": "Ramazan məscidi",
+                  "text": "This mosque is named after the holy month of Ramazan and plays a central role during Islamic festive days.",
+                  "category": "landmark",
+                  "coords": [
+                        48.62206,
+                        41.690548
+                  ]
+            },
+            {
+                  "name": "Bikəxanım Məscidi",
+                  "text": "A historical house of worship named after a respected local figure, located on a quiet side street.",
+                  "category": "landmark",
+                  "coords": [
+                        48.572204,
+                        41.744266
+                  ]
+            },
+            {
+                  "name": "Yaşıl Məscid",
+                  "text": "This mosque is known locally as the 'Green Mosque' and stands out with its colorful decorative details.",
+                  "category": "landmark",
+                  "coords": [
+                        48.576412,
+                        41.756247
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "A modest place of prayer for the Muslim community in Nabran, located near the coastal road.",
+                  "category": "landmark",
+                  "coords": [
+                        48.633178,
+                        41.816411
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "AZ-XAC",
     coords: [48.6667, 41.7667],
@@ -802,7 +3367,304 @@ export const poiExtraAzerbaijanReliefV2: POI[] = [
     },
   },
   {
-    id: "goyazan-mountain-relief-v2",
+    id: "goyazan-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odundağ",
+                  "text": "Ein markanter Berg an der Grenze, der für seine steilen Hänge und die Nähe zum Berg Goyazan bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.129568,
+                        41.095135
+                  ]
+            },
+            {
+                  "name": "Göyəzən dağı",
+                  "text": "Ein markanter, 850 Meter hoher vulkanischer Monolith mit steilen Felswänden, die die umliegende Ebene überragen.",
+                  "category": "landmark",
+                  "coords": [
+                        45.184258,
+                        41.087616
+                  ]
+            },
+            {
+                  "name": "Avey Dövlət Qoruğu Qazax",
+                  "text": "Ein staatliches Reservat, das die archäologischen Stätten und Höhlen des Avey-Berges schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.23266,
+                        41.141604
+                  ]
+            },
+            {
+                  "name": "Avey dagi",
+                  "text": "An den Hängen dieses Berges befinden sich Überreste antiker Tempel und Befestigungsanlagen aus verschiedenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        45.233173,
+                        41.127645
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Ein Denkmal zu Ehren der gefallenen Soldaten des Zweiten Weltkriegs aus der lokalen Gemeinschaft.",
+                  "category": "historical",
+                  "coords": [
+                        45.265177,
+                        41.136454
+                  ]
+            },
+            {
+                  "name": "Məscid \\ Ürkməzli",
+                  "text": "Eine Moschee im Dorf Ürkməzli, die ein Beispiel für die lokale islamische Architektur der Region darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.259127,
+                        41.113058
+                  ]
+            },
+            {
+                  "name": "Daş Salahlı Məscidi",
+                  "text": "Die Dorfmoschee von Daş Salahlı zeichnet sich durch ihre traditionelle aserbaidschanische Bauweise aus.",
+                  "category": "landmark",
+                  "coords": [
+                        45.258803,
+                        41.137378
+                  ]
+            },
+            {
+                  "name": "St. Sargis",
+                  "text": "Die Ruinen einer alten armenischen Kirche, die dem Heiligen Sargis gewidmet war und in der Grenzregion liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.220213,
+                        41.147624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odundağ",
+                  "text": "Egy jellegzetes határmenti hegy, amely meredek lejtőiről és a Göyəzən-hegy közelségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.129568,
+                        41.095135
+                  ]
+            },
+            {
+                  "name": "Göyəzən dağı",
+                  "text": "Egy jellegzetes, 850 méter magas vulkáni monolit, amelynek meredek sziklafalai magasan a környező síkság fölé magasodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        45.184258,
+                        41.087616
+                  ]
+            },
+            {
+                  "name": "Avey Dövlət Qoruğu Qazax",
+                  "text": "Állami természetvédelmi terület, amely az Avey-hegy régészeti lelőhelyeit és barlangjait óvja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.23266,
+                        41.141604
+                  ]
+            },
+            {
+                  "name": "Avey dagi",
+                  "text": "E hegy lejtőin különböző korszakokból származó ősi templomok és erődítmények maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        45.233173,
+                        41.127645
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Emlékmű a második világháború helyi áldozatainak és katonáinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        45.265177,
+                        41.136454
+                  ]
+            },
+            {
+                  "name": "Məscid \\ Ürkməzli",
+                  "text": "Mecset Ürkməzli faluban, amely a régió helyi iszlám építészetének egyik példája.",
+                  "category": "landmark",
+                  "coords": [
+                        45.259127,
+                        41.113058
+                  ]
+            },
+            {
+                  "name": "Daş Salahlı Məscidi",
+                  "text": "Daş Salahlı falusi mecsetje, amelyet hagyományos azerbajdzsáni építészeti stílus jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        45.258803,
+                        41.137378
+                  ]
+            },
+            {
+                  "name": "St. Sargis",
+                  "text": "Szent Szarkisznak szentelt régi örmény templom romjai a határmenti övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        45.220213,
+                        41.147624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odundağ",
+                  "text": "Un munte proeminent la graniță, cunoscut pentru pantele sale abrupte și proximitatea față de muntele Goyazan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.129568,
+                        41.095135
+                  ]
+            },
+            {
+                  "name": "Göyəzən dağı",
+                  "text": "Un monolit vulcanic distinctiv, înalt de 850 de metri, cu pereți stâncoși abrupți care domină câmpia înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        45.184258,
+                        41.087616
+                  ]
+            },
+            {
+                  "name": "Avey Dövlət Qoruğu Qazax",
+                  "text": "O rezervație de stat care protejează siturile arheologice și peșterile de pe muntele Avey.",
+                  "category": "landmark",
+                  "coords": [
+                        45.23266,
+                        41.141604
+                  ]
+            },
+            {
+                  "name": "Avey dagi",
+                  "text": "Pe versanții acestui munte se află vestigiile unor temple și fortificații antice din diverse epoci.",
+                  "category": "historical",
+                  "coords": [
+                        45.233173,
+                        41.127645
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Un monument ridicat în cinstea soldaților locali căzuți în cel de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        45.265177,
+                        41.136454
+                  ]
+            },
+            {
+                  "name": "Məscid \\ Ürkməzli",
+                  "text": "O moschee din satul Ürkməzli, reprezentând un exemplu de arhitectură islamică locală din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        45.259127,
+                        41.113058
+                  ]
+            },
+            {
+                  "name": "Daş Salahlı Məscidi",
+                  "text": "Moscheea din satul Daş Salahlı, caracterizată prin stilul său arhitectural tradițional azer.",
+                  "category": "landmark",
+                  "coords": [
+                        45.258803,
+                        41.137378
+                  ]
+            },
+            {
+                  "name": "St. Sargis",
+                  "text": "Ruinele unei vechi biserici armenești dedicate Sfântului Sargis, situată în regiunea de graniță.",
+                  "category": "landmark",
+                  "coords": [
+                        45.220213,
+                        41.147624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odundağ",
+                  "text": "A prominent mountain on the border, known for its steep slopes and proximity to Goyazan mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        45.129568,
+                        41.095135
+                  ]
+            },
+            {
+                  "name": "Göyəzən dağı",
+                  "text": "A distinctive 850-meter-high volcanic monolith with steep rock faces towering over the surrounding plain.",
+                  "category": "landmark",
+                  "coords": [
+                        45.184258,
+                        41.087616
+                  ]
+            },
+            {
+                  "name": "Avey Dövlət Qoruğu Qazax",
+                  "text": "A state reserve protecting the archaeological sites and caves of the Avey mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        45.23266,
+                        41.141604
+                  ]
+            },
+            {
+                  "name": "Avey dagi",
+                  "text": "The slopes of this mountain contain remains of ancient temples and fortifications from various eras.",
+                  "category": "historical",
+                  "coords": [
+                        45.233173,
+                        41.127645
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "A monument honoring the fallen soldiers of World War II from the local community.",
+                  "category": "historical",
+                  "coords": [
+                        45.265177,
+                        41.136454
+                  ]
+            },
+            {
+                  "name": "Məscid \\ Ürkməzli",
+                  "text": "A mosque in Ürkməzli village, representing an example of local Islamic architecture in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.259127,
+                        41.113058
+                  ]
+            },
+            {
+                  "name": "Daş Salahlı Məscidi",
+                  "text": "The village mosque of Daş Salahlı, characterized by its traditional Azerbaijani architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        45.258803,
+                        41.137378
+                  ]
+            },
+            {
+                  "name": "St. Sargis",
+                  "text": "The ruins of an old Armenian church dedicated to Saint Sargis, located in the border region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.220213,
+                        41.147624
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AZ-QAZ",
     coords: [45.1833, 41.1333],

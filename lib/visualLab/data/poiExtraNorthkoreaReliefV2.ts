@@ -99,7 +99,88 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       fr: ["Le nom signifie 'sept trésors'.", "Divisé en Chilbo intérieur, extérieur et maritime.", "Nommé réserve de biosphère de l'UNESCO."],
     }, image: "/poi-images/chilbo-mountain-relief-v2.webp"},
   {
-    id: "kuwol-mountain-relief-v2",
+    id: "kuwol-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guwolsan Mountain",
+                  "text": "Ein berühmter Aussichtsberg, der für seine bizarren Felsformationen und historischen Tempelruinen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        125.264235,
+                        38.500316
+                  ]
+            },
+            {
+                  "name": "Eunryul Market",
+                  "text": "Ein zentraler Marktplatz im Landkreis Eunryul, der als wichtiger Handelsknotenpunkt dient.",
+                  "category": "cultural",
+                  "coords": [
+                        125.19317,
+                        38.517657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guwolsan Mountain",
+                  "text": "Híres kilátóhely, amely bizarr sziklaalakzatairól és történelmi templomromjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        125.264235,
+                        38.500316
+                  ]
+            },
+            {
+                  "name": "Eunryul Market",
+                  "text": "Központi piactér Unrjul megyében, amely fontos kereskedelmi csomópontként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        125.19317,
+                        38.517657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guwolsan Mountain",
+                  "text": "Un munte pitoresc faimos, cunoscut pentru formațiunile stâncoase bizare și ruinele templelor istorice.",
+                  "category": "natural",
+                  "coords": [
+                        125.264235,
+                        38.500316
+                  ]
+            },
+            {
+                  "name": "Eunryul Market",
+                  "text": "O piață centrală în districtul Eunryul, care servește drept nod comercial important.",
+                  "category": "cultural",
+                  "coords": [
+                        125.19317,
+                        38.517657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guwolsan Mountain",
+                  "text": "A famous scenic mountain known for its bizarre rock formations and historic temple ruins.",
+                  "category": "natural",
+                  "coords": [
+                        125.264235,
+                        38.500316
+                  ]
+            },
+            {
+                  "name": "Eunryul Market",
+                  "text": "A central marketplace in Eunryul County that serves as a key trading hub.",
+                  "category": "cultural",
+                  "coords": [
+                        125.19317,
+                        38.517657
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KP-06",
     coords: [125.26, 38.5],
@@ -148,7 +229,412 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
     }
   },
   {
-    id: "suyang-valley-relief-v2",
+    id: "suyang-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maebongsan",
+                  "text": "Ein bewaldeter Gipfel im Suyang-Gebirge, der Wanderwege mit Panoramablick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        125.664608,
+                        38.086724
+                  ]
+            },
+            {
+                  "name": "Suyang Mountain",
+                  "text": "Dieser Berg bei Haeju ist bekannt für seine Wasserfälle und die historische Suyangsan-Festung.",
+                  "category": "natural",
+                  "coords": [
+                        125.705478,
+                        38.104642
+                  ]
+            },
+            {
+                  "name": "Chugŏbong",
+                  "text": "Ein Gipfel in der Suyang-Bergkette, der die Küstenebene von Haeju überragt.",
+                  "category": "natural",
+                  "coords": [
+                        125.696357,
+                        38.087514
+                  ]
+            },
+            {
+                  "name": "Kŭmbong",
+                  "text": "Ein schroffer Gipfel im Suyangsan-Gebiet, ein Ziel für lokale Bergsteiger.",
+                  "category": "natural",
+                  "coords": [
+                        125.707333,
+                        38.066939
+                  ]
+            },
+            {
+                  "name": "Changdaesan",
+                  "text": "Ein Berg bei Haeju, der weite Ausblicke über die Bucht von Haeju bietet.",
+                  "category": "natural",
+                  "coords": [
+                        125.738703,
+                        38.068341
+                  ]
+            },
+            {
+                  "name": "Taebonggak",
+                  "text": "Ein historisches Bauwerk auf dem Berg Suyang, das Teil der alten Verteidigungsanlagen ist.",
+                  "category": "castle",
+                  "coords": [
+                        125.702691,
+                        38.042295
+                  ]
+            },
+            {
+                  "name": "Daranisŏkdang",
+                  "text": "Ein steinerner Pavillon oder eine Pagode innerhalb der Suyang-Bergfestung.",
+                  "category": "castle",
+                  "coords": [
+                        125.717222,
+                        38.039609
+                  ]
+            },
+            {
+                  "name": "Hwanghaenamdo Arts Theatre",
+                  "text": "Ein großes Kulturzentrum in Haeju, in dem regionale Aufführungen und Konzerte stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        125.70939,
+                        38.040932
+                  ]
+            },
+            {
+                  "name": "Hwanghaenamdo Revolutionary History Museum",
+                  "text": "Dieses Museum in Haeju dokumentiert die regionale politische Geschichte und revolutionäre Ereignisse.",
+                  "category": "museum",
+                  "coords": [
+                        125.70888,
+                        38.04317
+                  ]
+            },
+            {
+                  "name": "Haeju Zoo",
+                  "text": "Ein zoologischer Garten in Haeju, der verschiedene heimische und exotische Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        125.701692,
+                        38.032676
+                  ]
+            },
+            {
+                  "name": "Haeju Market",
+                  "text": "Der Hauptmarktplatz von Haeju, auf dem landwirtschaftliche Produkte aus der Region Hwanghae gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        125.70103,
+                        38.041499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maebongsan",
+                  "text": "Erdős csúcs a Szujang-hegységben, amely panorámás kilátást nyújtó túraútvonalakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        125.664608,
+                        38.086724
+                  ]
+            },
+            {
+                  "name": "Suyang Mountain",
+                  "text": "Ez a Hedzsu melletti hegy vízeséseiről és a történelmi Szujangszan erődről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        125.705478,
+                        38.104642
+                  ]
+            },
+            {
+                  "name": "Chugŏbong",
+                  "text": "A Szujang-hegység egyik csúcsa, amely Hedzsu tengerparti síksága fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        125.696357,
+                        38.087514
+                  ]
+            },
+            {
+                  "name": "Kŭmbong",
+                  "text": "Sziklás csúcs a Szujangszan területén, a helyi hegymászók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        125.707333,
+                        38.066939
+                  ]
+            },
+            {
+                  "name": "Changdaesan",
+                  "text": "Hedzsu melletti hegy, amely tágas kilátást nyújt a Hedzsu-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        125.738703,
+                        38.068341
+                  ]
+            },
+            {
+                  "name": "Taebonggak",
+                  "text": "Történelmi építmény a Szujang-hegyen, amely a régi védelmi rendszer része.",
+                  "category": "castle",
+                  "coords": [
+                        125.702691,
+                        38.042295
+                  ]
+            },
+            {
+                  "name": "Daranisŏkdang",
+                  "text": "Kőpavilon vagy pagoda a Szujang hegyi erőd területén belül.",
+                  "category": "castle",
+                  "coords": [
+                        125.717222,
+                        38.039609
+                  ]
+            },
+            {
+                  "name": "Hwanghaenamdo Arts Theatre",
+                  "text": "Hedzsu nagyszabású kulturális központja, amely regionális előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        125.70939,
+                        38.040932
+                  ]
+            },
+            {
+                  "name": "Hwanghaenamdo Revolutionary History Museum",
+                  "text": "Ez a hedzsui múzeum a regionális politikai történelmet és a forradalmi eseményeket dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        125.70888,
+                        38.04317
+                  ]
+            },
+            {
+                  "name": "Haeju Zoo",
+                  "text": "Állatkert Hedzsuban, amely számos őshonos és egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        125.701692,
+                        38.032676
+                  ]
+            },
+            {
+                  "name": "Haeju Market",
+                  "text": "Hedzsu fő piactere, ahol a Hvanghe régió mezőgazdasági termékeivel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        125.70103,
+                        38.041499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maebongsan",
+                  "text": "Un vârf împădurit din munții Suyang, oferind trasee de drumeție cu vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        125.664608,
+                        38.086724
+                  ]
+            },
+            {
+                  "name": "Suyang Mountain",
+                  "text": "Acest munte de lângă Haeju este cunoscut pentru cascadele sale și fortăreața istorică Suyangsan.",
+                  "category": "natural",
+                  "coords": [
+                        125.705478,
+                        38.104642
+                  ]
+            },
+            {
+                  "name": "Chugŏbong",
+                  "text": "Un vârf din lanțul muntos Suyang, care domină câmpia de coastă din Haeju.",
+                  "category": "natural",
+                  "coords": [
+                        125.696357,
+                        38.087514
+                  ]
+            },
+            {
+                  "name": "Kŭmbong",
+                  "text": "Un vârf accidentat în zona Suyangsan, o destinație pentru alpiniștii locali.",
+                  "category": "natural",
+                  "coords": [
+                        125.707333,
+                        38.066939
+                  ]
+            },
+            {
+                  "name": "Changdaesan",
+                  "text": "Un munte lângă Haeju care oferü vederi largi asupra golfului Haeju.",
+                  "category": "natural",
+                  "coords": [
+                        125.738703,
+                        38.068341
+                  ]
+            },
+            {
+                  "name": "Taebonggak",
+                  "text": "O structură istorică pe muntele Suyang, făcând parte din vechile fortificații de apărare.",
+                  "category": "castle",
+                  "coords": [
+                        125.702691,
+                        38.042295
+                  ]
+            },
+            {
+                  "name": "Daranisŏkdang",
+                  "text": "Un pavilion de piatră sau o pagodă în incinta fortăreței montane Suyang.",
+                  "category": "castle",
+                  "coords": [
+                        125.717222,
+                        38.039609
+                  ]
+            },
+            {
+                  "name": "Hwanghaenamdo Arts Theatre",
+                  "text": "Un centru cultural major din Haeju, care găzduiește spectacole și concerte regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.70939,
+                        38.040932
+                  ]
+            },
+            {
+                  "name": "Hwanghaenamdo Revolutionary History Museum",
+                  "text": "Acest muzeu din Haeju documentează istoria politică regională și evenimentele revoluționare.",
+                  "category": "museum",
+                  "coords": [
+                        125.70888,
+                        38.04317
+                  ]
+            },
+            {
+                  "name": "Haeju Zoo",
+                  "text": "O grădină zoologică în Haeju, care adăpostește diverse specii de animale native și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        125.701692,
+                        38.032676
+                  ]
+            },
+            {
+                  "name": "Haeju Market",
+                  "text": "Piața principală din Haeju, unde se comercializează produse agricole din regiunea Hwanghae.",
+                  "category": "cultural",
+                  "coords": [
+                        125.70103,
+                        38.041499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maebongsan",
+                  "text": "A forested peak in the Suyang mountain range, offering hiking trails with panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        125.664608,
+                        38.086724
+                  ]
+            },
+            {
+                  "name": "Suyang Mountain",
+                  "text": "This mountain near Haeju is known for its waterfalls and the historic Suyangsan Fortress.",
+                  "category": "natural",
+                  "coords": [
+                        125.705478,
+                        38.104642
+                  ]
+            },
+            {
+                  "name": "Chugŏbong",
+                  "text": "A peak in the Suyang mountain range, towering over the coastal plain of Haeju.",
+                  "category": "natural",
+                  "coords": [
+                        125.696357,
+                        38.087514
+                  ]
+            },
+            {
+                  "name": "Kŭmbong",
+                  "text": "A rugged peak in the Suyangsan area, a destination for local mountain climbers.",
+                  "category": "natural",
+                  "coords": [
+                        125.707333,
+                        38.066939
+                  ]
+            },
+            {
+                  "name": "Changdaesan",
+                  "text": "A mountain near Haeju offering wide views over the Haeju Bay.",
+                  "category": "natural",
+                  "coords": [
+                        125.738703,
+                        38.068341
+                  ]
+            },
+            {
+                  "name": "Taebonggak",
+                  "text": "A historical structure on Mount Suyang, part of the ancient defense fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        125.702691,
+                        38.042295
+                  ]
+            },
+            {
+                  "name": "Daranisŏkdang",
+                  "text": "A stone pavilion or pagoda located within the Suyang mountain fortress area.",
+                  "category": "castle",
+                  "coords": [
+                        125.717222,
+                        38.039609
+                  ]
+            },
+            {
+                  "name": "Hwanghaenamdo Arts Theatre",
+                  "text": "A major cultural center in Haeju, hosting regional performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        125.70939,
+                        38.040932
+                  ]
+            },
+            {
+                  "name": "Hwanghaenamdo Revolutionary History Museum",
+                  "text": "This museum in Haeju documents regional political history and revolutionary events.",
+                  "category": "museum",
+                  "coords": [
+                        125.70888,
+                        38.04317
+                  ]
+            },
+            {
+                  "name": "Haeju Zoo",
+                  "text": "A zoological garden in Haeju housing various native and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        125.701692,
+                        38.032676
+                  ]
+            },
+            {
+                  "name": "Haeju Market",
+                  "text": "The main marketplace of Haeju, trading agricultural products from the Hwanghae region.",
+                  "category": "cultural",
+                  "coords": [
+                        125.70103,
+                        38.041499
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KP-06",
     coords: [125.75, 38.1],
@@ -196,7 +682,52 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       fr: ["La cascade de Suyangsan est l'attraction principale.", "On dit qu'elle fut un refuge pour les loyalistes de la dynastie Goryeo.", "Entourée de forêts denses."],
     }, image: "/poi-images/suyang-valley-relief-v2.webp"},
   {
-    id: "tongchon-coast-relief-v2",
+    id: "tongchon-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ssanghaksan",
+                  "text": "Ein markanter Doppelgipfel an der Küste von Tongchon, der das Umland überragt.",
+                  "category": "natural",
+                  "coords": [
+                        127.786517,
+                        38.873785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ssanghaksan",
+                  "text": "Jellegzetes kettős csúcs Tongchon partvidékén, amely a környező terület fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        127.786517,
+                        38.873785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ssanghaksan",
+                  "text": "Un vârf dublu proeminent pe coasta Tongchon, care domină zona înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        127.786517,
+                        38.873785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ssanghaksan",
+                  "text": "A prominent double-peaked mountain on the Tongchon coast that towers over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        127.786517,
+                        38.873785
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "KP-07",
     coords: [127.8, 38.9],
@@ -292,7 +823,232 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       fr: ["La mine de Musan est l'une des plus grandes mines de fer à ciel ouvert d'Asie.", "La région est cruciale pour l'industrie sidérurgique nord-coréenne.", "Situé à proximité du fleuve Tumen."],
     }, image: "/poi-images/musan-plateau-relief-v2.webp"},
   {
-    id: "okryu-valley-relief-v2",
+    id: "okryu-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuksa Peak",
+                  "text": "Dieser markante Granitgipfel ragt über das malerische Okryu-Tal im Kumgang-Gebirge empor.",
+                  "category": "natural",
+                  "coords": [
+                        128.111826,
+                        38.52961
+                  ]
+            },
+            {
+                  "name": "Chail Peak",
+                  "text": "Ein schroffer Berggipfel, der Teil der alpinen Landschaft des nordkoreanischen Kumgang-Gebirges ist.",
+                  "category": "natural",
+                  "coords": [
+                        128.119644,
+                        38.607531
+                  ]
+            },
+            {
+                  "name": "Pibong Falls",
+                  "text": "Dieser Wasserfall stürzt über eine steile Felswand und ist als nationales Denkmal Nordkoreas geschützt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.140274,
+                        38.666675
+                  ]
+            },
+            {
+                  "name": "Sejon Peak",
+                  "text": "Ein hoher Berggipfel, der weite Ausblicke über die bewaldeten Schluchten des Okryu-Tals bietet.",
+                  "category": "natural",
+                  "coords": [
+                        128.147256,
+                        38.657683
+                  ]
+            },
+            {
+                  "name": "Kkachi Peak",
+                  "text": "Ein zerklüfteter Gipfel in der Gebirgsregion des Mount Kumgang, bekannt für seine bizarren Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        128.236821,
+                        38.549877
+                  ]
+            },
+            {
+                  "name": "Singye Temple",
+                  "text": "Ein rekonstruierter buddhistischer Tempelkomplex, der ursprünglich in der Silla-Ära im Kumgang-Gebirge gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        128.176481,
+                        38.675834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuksa Peak",
+                  "text": "Ez a jellegzetes gránitcsúcs a Kumgang-hegység festői Okryu-völgye fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        128.111826,
+                        38.52961
+                  ]
+            },
+            {
+                  "name": "Chail Peak",
+                  "text": "Egy zord hegycsúcs, amely az észak-koreai Kumgang-hegység alpesi tájának része.",
+                  "category": "natural",
+                  "coords": [
+                        128.119644,
+                        38.607531
+                  ]
+            },
+            {
+                  "name": "Pibong Falls",
+                  "text": "Ez a vízesés meredek sziklafalon zúdul le, és Észak-Korea nemzeti műemlékeként áll védelem alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.140274,
+                        38.666675
+                  ]
+            },
+            {
+                  "name": "Sejon Peak",
+                  "text": "Egy magas hegycsúcs, amely széles kilátást nyújt az Okryu-völgy erdős szurdokaira.",
+                  "category": "natural",
+                  "coords": [
+                        128.147256,
+                        38.657683
+                  ]
+            },
+            {
+                  "name": "Kkachi Peak",
+                  "text": "A Kumgang-hegy vidékének egyik sziklás csúcsa, amely bizarr sziklaalakzatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        128.236821,
+                        38.549877
+                  ]
+            },
+            {
+                  "name": "Singye Temple",
+                  "text": "Egy újjáépített buddhistatemplom-komplexum, amelyet eredetileg a Silla-korszakban alapítottak a Kumgang-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        128.176481,
+                        38.675834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuksa Peak",
+                  "text": "Acest vârf de granit proeminent se înalță deasupra pitoreștii văi Okryu din Munții Kumgang.",
+                  "category": "natural",
+                  "coords": [
+                        128.111826,
+                        38.52961
+                  ]
+            },
+            {
+                  "name": "Chail Peak",
+                  "text": "Un vârf muntos accidentat care face parte din peisajul alpin al Munților Kumgang din Coreea de Nord.",
+                  "category": "natural",
+                  "coords": [
+                        128.119644,
+                        38.607531
+                  ]
+            },
+            {
+                  "name": "Pibong Falls",
+                  "text": "Această cascadă se revarsă peste un perete stâncos abrupt și este protejată ca monument național al Coreei de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        128.140274,
+                        38.666675
+                  ]
+            },
+            {
+                  "name": "Sejon Peak",
+                  "text": "Un vârf muntos înalt care oferă vederi largi asupra cheilor împădurite ale Văii Okryu.",
+                  "category": "natural",
+                  "coords": [
+                        128.147256,
+                        38.657683
+                  ]
+            },
+            {
+                  "name": "Kkachi Peak",
+                  "text": "Un vârf zimțat în regiunea muntoasă a Muntelui Kumgang, cunoscut pentru formațiunile sale stâncoase bizare.",
+                  "category": "natural",
+                  "coords": [
+                        128.236821,
+                        38.549877
+                  ]
+            },
+            {
+                  "name": "Singye Temple",
+                  "text": "Un complex de temple budiste reconstruit, fondat inițial în era Silla în Munții Kumgang.",
+                  "category": "landmark",
+                  "coords": [
+                        128.176481,
+                        38.675834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuksa Peak",
+                  "text": "This prominent granite peak rises above the scenic Okryu Valley in the Kumgang Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        128.111826,
+                        38.52961
+                  ]
+            },
+            {
+                  "name": "Chail Peak",
+                  "text": "A rugged mountain peak that forms part of the alpine landscape of North Korea's Kumgang Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        128.119644,
+                        38.607531
+                  ]
+            },
+            {
+                  "name": "Pibong Falls",
+                  "text": "This waterfall plunges down a steep rock face and is protected as a national monument of North Korea.",
+                  "category": "landmark",
+                  "coords": [
+                        128.140274,
+                        38.666675
+                  ]
+            },
+            {
+                  "name": "Sejon Peak",
+                  "text": "A high mountain peak offering wide views over the forested gorges of the Okryu Valley.",
+                  "category": "natural",
+                  "coords": [
+                        128.147256,
+                        38.657683
+                  ]
+            },
+            {
+                  "name": "Kkachi Peak",
+                  "text": "A jagged peak in the Mount Kumgang mountain region, known for its bizarre rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        128.236821,
+                        38.549877
+                  ]
+            },
+            {
+                  "name": "Singye Temple",
+                  "text": "A reconstructed Buddhist temple complex originally founded in the Silla era in the Kumgang Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        128.176481,
+                        38.675834
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KP-07",
     coords: [128.15, 38.6],
@@ -341,7 +1097,160 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
     }
   },
   {
-    id: "changbai-mountains-korean-side-relief-v2",
+    id: "changbai-mountains-korean-side-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "West slope climbing step",
+                  "text": "Eine lange Treppe mit über tausend Stufen, die den steilen Westhang zum Kraterrand des Vulkans hinaufführt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.019529,
+                        41.992263
+                  ]
+            },
+            {
+                  "name": "Ladder River",
+                  "text": "Ein stufenförmiger Gebirgsfluss, der in Kaskaden durch die vulkanischen Felsformationen des Changbai-Massivs stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        127.980023,
+                        41.947192
+                  ]
+            },
+            {
+                  "name": "Iris Garden",
+                  "text": "Ein hochgelegener Garten, der im Sommer für seine blühenden Wildiris-Wiesen vor der Kulisse der Vulkangipfel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        127.951562,
+                        41.944082
+                  ]
+            },
+            {
+                  "name": "Alpine Garden",
+                  "text": "Ein alpines Ökosystem an den Hängen des Berges Paektu, das eine seltene Flora der kalten Tundra beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        127.933915,
+                        41.945015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "West slope climbing step",
+                  "text": "Egy hosszú, több mint ezer lépcsőfokból álló feljáró, amely a meredek nyugati lejtőn vezet fel a vulkán kráterpereméhez.",
+                  "category": "landmark",
+                  "coords": [
+                        128.019529,
+                        41.992263
+                  ]
+            },
+            {
+                  "name": "Ladder River",
+                  "text": "Egy lépcsőzetes hegyi folyó, amely vízeséseken keresztül zúdul le a Csangbaj-masszívum vulkáni sziklaalakzatai között.",
+                  "category": "landmark",
+                  "coords": [
+                        127.980023,
+                        41.947192
+                  ]
+            },
+            {
+                  "name": "Iris Garden",
+                  "text": "Magasan fekvő kert, amely nyáron a vulkáni csúcsok előtt nyíló vadírisz-mezőiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        127.951562,
+                        41.944082
+                  ]
+            },
+            {
+                  "name": "Alpine Garden",
+                  "text": "Alpesi ökoszisztéma a Pektu-hegy lejtőin, amely a hideg tundra ritka növényvilágának ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        127.933915,
+                        41.945015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "West slope climbing step",
+                  "text": "O scară lungă cu peste o mie de trepte care urcă pe versantul vestic abrupt spre marginea craterului vulcanic.",
+                  "category": "landmark",
+                  "coords": [
+                        128.019529,
+                        41.992263
+                  ]
+            },
+            {
+                  "name": "Ladder River",
+                  "text": "Un râu de munte în trepte care curge în cascade prin formațiunile stâncoase vulcanice ale masivului Changbai.",
+                  "category": "landmark",
+                  "coords": [
+                        127.980023,
+                        41.947192
+                  ]
+            },
+            {
+                  "name": "Iris Garden",
+                  "text": "O grădină de mare altitudine, renumită vara pentru câmpurile sale de stânjenei sălbatici înfloriți pe fundalul vârfurilor vulcanice.",
+                  "category": "landmark",
+                  "coords": [
+                        127.951562,
+                        41.944082
+                  ]
+            },
+            {
+                  "name": "Alpine Garden",
+                  "text": "Un ecosistem alpin pe pantele Muntelui Paektu, care găzduiește o floră rară de tundră rece.",
+                  "category": "landmark",
+                  "coords": [
+                        127.933915,
+                        41.945015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "West slope climbing step",
+                  "text": "A long stairway with over a thousand steps leading up the steep western slope toward the volcano's crater rim.",
+                  "category": "landmark",
+                  "coords": [
+                        128.019529,
+                        41.992263
+                  ]
+            },
+            {
+                  "name": "Ladder River",
+                  "text": "A stepped mountain river that plunges in cascades through the volcanic rock formations of the Changbai massif.",
+                  "category": "landmark",
+                  "coords": [
+                        127.980023,
+                        41.947192
+                  ]
+            },
+            {
+                  "name": "Iris Garden",
+                  "text": "A high-altitude garden famous in summer for its blooming wild iris meadows set against the volcanic peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        127.951562,
+                        41.944082
+                  ]
+            },
+            {
+                  "name": "Alpine Garden",
+                  "text": "An alpine ecosystem on the slopes of Mount Paektu, home to rare flora characteristic of the cold tundra.",
+                  "category": "landmark",
+                  "coords": [
+                        127.933915,
+                        41.945015
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KP-10",
     coords: [128.0, 42.0],
@@ -485,7 +1394,88 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       fr: ["La région est connue pour son potentiel hydroélectrique.", "Entouré par les monts Hamgyong.", "L'économie locale repose sur l'agriculture et l'exploitation minière."],
     }, image: "/poi-images/puryong-valley-relief-v2.webp"},
   {
-    id: "taebaek-mountains-north-relief-v2",
+    id: "taebaek-mountains-north-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maeja Peak",
+                  "text": "Ein abgelegener Berggipfel im nördlichen Teil des Taebaek-Gebirges mit Blick auf die umliegende Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        128.096039,
+                        38.499917
+                  ]
+            },
+            {
+                  "name": "Mount Chugyop",
+                  "text": "Ein bewaldeter Gipfel in der nordkoreanischen Taebaek-Kette, der für seine unberührte Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        128.013682,
+                        38.477043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maeja Peak",
+                  "text": "Egy elszigetelt hegycsúcs a Tebaek-hegység északi részén, kilátással a környező vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        128.096039,
+                        38.499917
+                  ]
+            },
+            {
+                  "name": "Mount Chugyop",
+                  "text": "Észak-Korea Tebaek-hegységének egyik erdős csúcsa, amely érintetlen természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        128.013682,
+                        38.477043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maeja Peak",
+                  "text": "Un vârf muntos izolat în partea de nord a Munților Taebaek, cu vedere la sălbăticia înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        128.096039,
+                        38.499917
+                  ]
+            },
+            {
+                  "name": "Mount Chugyop",
+                  "text": "Un vârf împădurit din lanțul muntos Taebaek din Coreea de Nord, cunoscut pentru natura sa curată.",
+                  "category": "natural",
+                  "coords": [
+                        128.013682,
+                        38.477043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maeja Peak",
+                  "text": "A remote mountain peak in the northern part of the Taebaek Mountains, overlooking the surrounding wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        128.096039,
+                        38.499917
+                  ]
+            },
+            {
+                  "name": "Mount Chugyop",
+                  "text": "A forested peak in North Korea's Taebaek range, known for its pristine nature.",
+                  "category": "natural",
+                  "coords": [
+                        128.013682,
+                        38.477043
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "KP-07",
     coords: [128.0, 38.5],
@@ -533,7 +1523,52 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       fr: ["Forme la principale ligne de partage des eaux de la péninsule coréenne.", "Les pentes orientales sont abruptes, tandis que les pentes occidentales sont plus douces.", "Riche en gisements minéraux."],
     }, image: "/poi-images/taebaek-mountains-north-relief-v2.webp"},
   {
-    id: "ryongam-cavern-relief-v2",
+    id: "ryongam-cavern-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jonjwa Peak",
+                  "text": "Ein zerklüfteter Berggipfel in der Nähe der Ryongam-Höhlen mit weitem Blick über das Karstgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        125.723913,
+                        39.278992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jonjwa Peak",
+                  "text": "Sziklás hegycsúcs a Ryongam-barlangok közelében, kilátással a környező karsztvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        125.723913,
+                        39.278992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jonjwa Peak",
+                  "text": "Un vârf muntos accidentat lângă peșterile Ryongam, oferind o vedere panoramică asupra regiunii carstice.",
+                  "category": "natural",
+                  "coords": [
+                        125.723913,
+                        39.278992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jonjwa Peak",
+                  "text": "A rugged mountain peak near the Ryongam caverns with wide views over the karst region.",
+                  "category": "natural",
+                  "coords": [
+                        125.723913,
+                        39.278992
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KP-01",
     coords: [125.7, 39.3],
@@ -870,7 +1905,52 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       fr: ["Des ports importants se trouvent dans cette baie.", "Le marnage est bien plus faible que sur la côte ouest.", "Le littoral est relativement rectiligne."],
     }, image: "/poi-images/east-korea-bay-east-coast-relief-v2.webp"},
   {
-    id: "songchon-river-gorge-relief-v2",
+    id: "songchon-river-gorge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Hyonmyong",
+                  "text": "Ein bewaldeter Gipfel, der sich über dem Songchon-Flusstal erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        126.059491,
+                        39.232389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Hyonmyong",
+                  "text": "Az Szongcshon folyó völgye fölé magasodó erdős hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        126.059491,
+                        39.232389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Hyonmyong",
+                  "text": "Un vârf împădurit care se înalță deasupra văii râului Songchon.",
+                  "category": "natural",
+                  "coords": [
+                        126.059491,
+                        39.232389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Hyonmyong",
+                  "text": "A forested peak rising above the Songchon River valley.",
+                  "category": "natural",
+                  "coords": [
+                        126.059491,
+                        39.232389
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "KP-04",
     coords: [126.1, 39.3],

@@ -1991,7 +1991,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Vešterski mlin",
-                  "text": "Eine historische Mühle in Vešter bei Škofja Loka.",
+                  "text": "Die Vešterski mlin (Vešter-Mühle) ist eine traditionelle Wassermühle an der Poljanska Sora in Škofja Loka.",
                   "category": "historical",
                   "coords": [
                         14.285533,
@@ -2027,7 +2027,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Cerkev sv. Uršule",
-                  "text": "Eine der heiligen Ursula geweihte Kirche in Škofja Loka.",
+                  "text": "Gotische Ursulakirche im mittelalterlichen Stadtzentrum von Škofja Loka.",
                   "category": "religious",
                   "coords": [
                         14.300464,
@@ -2092,7 +2092,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Vešterski mlin",
-                  "text": "Történelmi malom Vešterben, Škofja Loka közelében.",
+                  "text": "A Vešterski mlin (Vešter-malom) egy hagyományos vízimalom a Poljanska Sora folyón Škofja Lokában.",
                   "category": "historical",
                   "coords": [
                         14.285533,
@@ -2128,7 +2128,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Cerkev sv. Uršule",
-                  "text": "Szent Orsolyának szentelt templom Škofja Lokában.",
+                  "text": "Gótikus Szent Orsolya-templom Škofja Loka középkori városmagjában.",
                   "category": "religious",
                   "coords": [
                         14.300464,
@@ -2193,7 +2193,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Vešterski mlin",
-                  "text": "O moară istorică în Vešter, lângă Škofja Loka.",
+                  "text": "Vešterski mlin (Moara Vešter) este o moară de apă tradițională pe râul Poljanska Sora în Škofja Loka.",
                   "category": "historical",
                   "coords": [
                         14.285533,
@@ -2229,7 +2229,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Cerkev sv. Uršule",
-                  "text": "O biserică dedicată Sfintei Ursula în Škofja Loka.",
+                  "text": "Biserică gotică Sfânta Ursula în centrul medieval al orașului Škofja Loka.",
                   "category": "religious",
                   "coords": [
                         14.300464,
@@ -2294,7 +2294,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Vešterski mlin",
-                  "text": "A historical mill in Vešter near Škofja Loka.",
+                  "text": "Vešterski mlin (Vešter Mill) is a traditional watermill on the Poljanska Sora river in Škofja Loka.",
                   "category": "historical",
                   "coords": [
                         14.285533,
@@ -2330,7 +2330,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
             },
             {
                   "name": "Cerkev sv. Uršule",
-                  "text": "A church dedicated to Saint Ursula in Škofja Loka.",
+                  "text": "Gothic church of St. Ursula in the medieval town centre of Škofja Loka.",
                   "category": "religious",
                   "coords": [
                         14.300464,
@@ -4059,7 +4059,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Kärntner Storschitz / Pristovški Storžič",
-                  "text": "Ein markanter Berggipfel in den Karawanken an der Grenze.",
+                  "text": "Ein markanter Felsgipfel nahe der Burg Hartenstein.",
                   "category": "landmark",
                   "coords": [
                         14.525476,
@@ -4106,7 +4106,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Kärntner Storschitz / Pristovški Storžič",
-                  "text": "Jellegzetes hegycsúcs a Karavankák vonulatában a határon.",
+                  "text": "Egy jellegzetes sziklahegy a Hartenstein-vár közelében.",
                   "category": "landmark",
                   "coords": [
                         14.525476,
@@ -4153,7 +4153,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Kärntner Storschitz / Pristovški Storžič",
-                  "text": "Un vârf muntos proeminent situat în Munții Karawanken.",
+                  "text": "Un vârf stâncos proeminent lângă Castelul Hartenstein.",
                   "category": "landmark",
                   "coords": [
                         14.525476,
@@ -4200,7 +4200,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Kärntner Storschitz / Pristovški Storžič",
-                  "text": "A prominent mountain peak in the Karawanks range.",
+                  "text": "A distinctive rocky peak near Hartenstein Castle.",
                   "category": "landmark",
                   "coords": [
                         14.525476,
@@ -4977,7 +4977,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
       "de": [
             {
                   "name": "Grad Šumberk",
-                  "text": "Die Ruinen einer mittelalterlichen Burg bei Šumberk.",
+                  "text": "Burgruine Šumberk auf einem felsigen Hügel im Kočevje-Gebiet.",
                   "category": "castle",
                   "coords": [
                         14.895939,
@@ -4986,7 +4986,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Grad Kozjek",
-                  "text": "Eine historische Burgruine in der Region Šumberk.",
+                  "text": "Burgruine Kozjek, versteckt im Wald nahe Šumberk.",
                   "category": "castle",
                   "coords": [
                         14.927392,
@@ -4997,7 +4997,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
       "hu": [
             {
                   "name": "Grad Šumberk",
-                  "text": "Egy középkori vár romjai Šumberk közelében.",
+                  "text": "Šumberk várrom egy sziklás dombon a Kočevje régióban.",
                   "category": "castle",
                   "coords": [
                         14.895939,
@@ -5006,7 +5006,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Grad Kozjek",
-                  "text": "Történelmi várrom Šumberk régiójában.",
+                  "text": "Kozjek várrom, elrejtve az erdőben Šumberk közelében.",
                   "category": "castle",
                   "coords": [
                         14.927392,
@@ -5017,7 +5017,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
       "ro": [
             {
                   "name": "Grad Šumberk",
-                  "text": "Ruinele unui castel medieval lângă Šumberk.",
+                  "text": "Ruinele castelului Šumberk pe un deal stâncos în regiunea Kočevje.",
                   "category": "castle",
                   "coords": [
                         14.895939,
@@ -5026,7 +5026,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Grad Kozjek",
-                  "text": "O ruină istorică de castel în regiunea Šumberk.",
+                  "text": "Ruinele castelului Kozjek, ascunse în pădure lângă Šumberk.",
                   "category": "castle",
                   "coords": [
                         14.927392,
@@ -5037,7 +5037,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
       "en": [
             {
                   "name": "Grad Šumberk",
-                  "text": "The ruins of a medieval castle near Šumberk.",
+                  "text": "Šumberk castle ruins on a rocky hill in the Kočevje region.",
                   "category": "castle",
                   "coords": [
                         14.895939,
@@ -5046,7 +5046,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Grad Kozjek",
-                  "text": "A historical castle ruin in the Šumberk region.",
+                  "text": "Kozjek castle ruins, hidden in the forest near Šumberk.",
                   "category": "castle",
                   "coords": [
                         14.927392,
@@ -5274,7 +5274,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Framski grad",
-                  "text": "Ruinen einer alten Befestigungsanlage in der Nähe von Fram.",
+                  "text": "Historische Burgstelle bei Zgornja Polskava, heute nur noch Mauerreste.",
                   "category": "historical",
                   "coords": [
                         15.624207,
@@ -5321,7 +5321,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Framski grad",
-                  "text": "Egy régi erődítmény romjai Fram közelében.",
+                  "text": "Történelmi várhely Zgornja Polskava mellett, ma már csak falmaradványok.",
                   "category": "historical",
                   "coords": [
                         15.624207,
@@ -5368,7 +5368,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Framski grad",
-                  "text": "Ruinele unei vechi fortificații situate în apropiere de Fram.",
+                  "text": "Sit istoric al unui castel lângă Zgornja Polskava, rămășițe de ziduri.",
                   "category": "historical",
                   "coords": [
                         15.624207,
@@ -5415,7 +5415,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
             },
             {
                   "name": "Framski grad",
-                  "text": "Ruins of an old fortification located near Fram.",
+                  "text": "Historical castle site near Zgornja Polskava, now only wall remnants.",
                   "category": "historical",
                   "coords": [
                         15.624207,

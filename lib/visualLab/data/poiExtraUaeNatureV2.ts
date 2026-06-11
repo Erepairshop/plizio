@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraUaeNatureV2: POI[] = [
   {
-    id: "jebel-jais-nature-v2",
+    id: "jebel-jais-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Rahabah",
+                  "text": "Ein hoher Kalksteingipfel in Ras Al Khaimah mit Blick auf den Persischen Golf.",
+                  "category": "natural",
+                  "coords": [
+                        56.117147,
+                        25.926265
+                  ]
+            },
+            {
+                  "name": "Jebel Shintal",
+                  "text": "Ein schroffer Berggipfel im nördlichen Hadschar-Gebirge, der für erfahrene Wanderer zugänglich ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.135121,
+                        25.941826
+                  ]
+            },
+            {
+                  "name": "Jebel Jais Flight",
+                  "text": "Die längste Seilrutsche der Welt, mit der man mit bis zu 150 km/h über Bergschluchten schweben kann.",
+                  "category": "landmark",
+                  "coords": [
+                        56.140435,
+                        25.947197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Rahabah",
+                  "text": "Magas mészkőcsúcs Rász el-Haimában, ahonnan kilátás nyílik a Perzsa-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        56.117147,
+                        25.926265
+                  ]
+            },
+            {
+                  "name": "Jabal Shintal",
+                  "text": "Zord hegycsúcs az északi Hadsar-hegységben, amely tapasztalt túrázók számára érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        56.135121,
+                        25.941826
+                  ]
+            },
+            {
+                  "name": "Jebel Jais Flight",
+                  "text": "A világ leghosszabb zipline pályája, ahol akár 150 km/h-s sebességgel száguldhatunk a hegyi kanyonok felett.",
+                  "category": "landmark",
+                  "coords": [
+                        56.140435,
+                        25.947197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Rahabah",
+                  "text": "Un vârf înalt de calcar în Ras Al Khaimah, oferind vederi spre Golful Persic.",
+                  "category": "natural",
+                  "coords": [
+                        56.117147,
+                        25.926265
+                  ]
+            },
+            {
+                  "name": "Jabal Shintal",
+                  "text": "Un vârf muntos accidentat în nordul Munților Hajar, accesibil drumeților experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        56.135121,
+                        25.941826
+                  ]
+            },
+            {
+                  "name": "Jebel Jais Flight",
+                  "text": "Cea mai lungă tiroliană din lume, permițând viteze de până la 150 km/h deasupra canioanelor montane.",
+                  "category": "landmark",
+                  "coords": [
+                        56.140435,
+                        25.947197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Rahabah",
+                  "text": "A high limestone peak in Ras Al Khaimah offering views of the Persian Gulf.",
+                  "category": "natural",
+                  "coords": [
+                        56.117147,
+                        25.926265
+                  ]
+            },
+            {
+                  "name": "Jabal Shintal",
+                  "text": "A rugged mountain summit in the northern Hajar range, accessible to experienced hikers.",
+                  "category": "natural",
+                  "coords": [
+                        56.135121,
+                        25.941826
+                  ]
+            },
+            {
+                  "name": "Jebel Jais Flight",
+                  "text": "The world's longest zipline, allowing riders to soar at speeds up to 150 km/h over mountain canyons.",
+                  "category": "landmark",
+                  "coords": [
+                        56.140435,
+                        25.947197
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AE-RK",
     coords: [56.14, 25.93],
@@ -63,7 +180,556 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "jebel-hafeet-nature-v2",
+    id: "jebel-hafeet-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "AAN2579",
+                  "text": "AAN2579 ist ein Aussichtspunkt in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.853637,
+                        24.072092
+                  ]
+            },
+            {
+                  "name": "AAG6068",
+                  "text": "AAG6068 ist ein Aussichtspunkt in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.725382,
+                        24.061258
+                  ]
+            },
+            {
+                  "name": "Dl",
+                  "text": "Dddd ist ein Aussichtspunkt in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.716098,
+                        24.08466
+                  ]
+            },
+            {
+                  "name": "Jabel Hafeet Park Base",
+                  "text": "Jabel Hafeet Park Base ist eine Attraktion in jebel-hafeet-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.72608,
+                        24.096473
+                  ]
+            },
+            {
+                  "name": "Jabel Hafeet Parking",
+                  "text": "Jabel Hafeet Parking ist eine Attraktion in jebel-hafeet-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.758739,
+                        24.098241
+                  ]
+            },
+            {
+                  "name": "Jebel Hafeet",
+                  "text": "Jabal Hafit ist ein bekannter Berggipfel in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.780863,
+                        24.057958
+                  ]
+            },
+            {
+                  "name": "AAN2505",
+                  "text": "AAN2505 ist ein Aussichtspunkt in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.844023,
+                        24.030397
+                  ]
+            },
+            {
+                  "name": "AAN2305",
+                  "text": "AAN2305 ist ein Aussichtspunkt in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.82245,
+                        24.11221
+                  ]
+            },
+            {
+                  "name": "AAN2324",
+                  "text": "AAN2324 ist ein Aussichtspunkt in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.83898,
+                        24.08637
+                  ]
+            },
+            {
+                  "name": "Mazyad Fort",
+                  "text": "Mazyad Fort ist eine Festung in jebel-hafeet-nature-v2.",
+                  "category": "fortress",
+                  "coords": [
+                        55.833417,
+                        24.021291
+                  ]
+            },
+            {
+                  "name": "Wadi Adventure",
+                  "text": "Wadi Adventure ist ein Wasserpark in jebel-hafeet-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        55.739837,
+                        24.095375
+                  ]
+            },
+            {
+                  "name": "Jabal Hafit Archaeological Site",
+                  "text": "Jabal Hafit Archaeological Site ist eine archäologische Stätte in jebel-hafeet-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        55.809483,
+                        24.065947
+                  ]
+            },
+            {
+                  "name": "Mubazarah Mosque",
+                  "text": "Die Mubazarah Mosque ist eine muslimische Einrichtung in jebel-hafeet-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.748447,
+                        24.107198
+                  ]
+            },
+            {
+                  "name": "Al Ajel Grocery",
+                  "text": "Al Ajel Grocery ist ein Marktplatz in jebel-hafeet-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.727136,
+                        24.060434
+                  ]
+            },
+            {
+                  "name": "Safaa Grocery",
+                  "text": "Safaa Grocery ist ein Marktplatz in jebel-hafeet-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.725301,
+                        24.059469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AAN2579",
+                  "text": "Az AAN2579 egy kilátópont jebel-hafeet-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        55.853637,
+                        24.072092
+                  ]
+            },
+            {
+                  "name": "AAG6068",
+                  "text": "Az AAG6068 egy kilátópont jebel-hafeet-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        55.725382,
+                        24.061258
+                  ]
+            },
+            {
+                  "name": "Dl",
+                  "text": "A Dddd egy kilátópont jebel-hafeet-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        55.716098,
+                        24.08466
+                  ]
+            },
+            {
+                  "name": "Jabel Hafeet Park Base",
+                  "text": "A Jabel Hafeet Park Base egy látványosság jebel-hafeet-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        55.72608,
+                        24.096473
+                  ]
+            },
+            {
+                  "name": "Jabel Hafeet Parking",
+                  "text": "A Jabel Hafeet Parking egy látványosság jebel-hafeet-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        55.758739,
+                        24.098241
+                  ]
+            },
+            {
+                  "name": "Jabal Hafit",
+                  "text": "A Jabal Hafit egy jelentős hegycsúcs jebel-hafeet-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        55.780863,
+                        24.057958
+                  ]
+            },
+            {
+                  "name": "AAN2505",
+                  "text": "Az AAN2505 egy kilátópont jebel-hafeet-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        55.844023,
+                        24.030397
+                  ]
+            },
+            {
+                  "name": "AAN2305",
+                  "text": "Az AAN2305 egy kilátópont jebel-hafeet-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        55.82245,
+                        24.11221
+                  ]
+            },
+            {
+                  "name": "AAN2324",
+                  "text": "Az AAN2324 egy kilátópont jebel-hafeet-nature-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        55.83898,
+                        24.08637
+                  ]
+            },
+            {
+                  "name": "Mazyad Fort",
+                  "text": "A Mazyad Fort egy erőd jebel-hafeet-nature-v2 területén.",
+                  "category": "fortress",
+                  "coords": [
+                        55.833417,
+                        24.021291
+                  ]
+            },
+            {
+                  "name": "Wadi Adventure",
+                  "text": "A Wadi Adventure egy vízipark jebel-hafeet-nature-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        55.739837,
+                        24.095375
+                  ]
+            },
+            {
+                  "name": "Jabal Hafit Archaeological Site",
+                  "text": "A Jabal Hafit Archaeological Site egy régészeti lelőhely jebel-hafeet-nature-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        55.809483,
+                        24.065947
+                  ]
+            },
+            {
+                  "name": "Mubazarah Mosque",
+                  "text": "A Mubazarah Mosque egy muszlim létesítmény jebel-hafeet-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        55.748447,
+                        24.107198
+                  ]
+            },
+            {
+                  "name": "Al Ajel Grocery",
+                  "text": "Az Al Ajel Grocery egy piactér jebel-hafeet-nature-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        55.727136,
+                        24.060434
+                  ]
+            },
+            {
+                  "name": "Safaa Grocery",
+                  "text": "A Safaa Grocery egy piactér jebel-hafeet-nature-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        55.725301,
+                        24.059469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AAN2579",
+                  "text": "AAN2579 este un punct de belvedere în jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.853637,
+                        24.072092
+                  ]
+            },
+            {
+                  "name": "AAG6068",
+                  "text": "AAG6068 este un punct de belvedere în jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.725382,
+                        24.061258
+                  ]
+            },
+            {
+                  "name": "Dl",
+                  "text": "Dddd este un punct de belvedere în jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.716098,
+                        24.08466
+                  ]
+            },
+            {
+                  "name": "Jabel Hafeet Park Base",
+                  "text": "Jabel Hafeet Park Base este o atracție situată în jebel-hafeet-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.72608,
+                        24.096473
+                  ]
+            },
+            {
+                  "name": "Jabel Hafeet Parking",
+                  "text": "Jabel Hafeet Parking este o atracție situată în jebel-hafeet-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.758739,
+                        24.098241
+                  ]
+            },
+            {
+                  "name": "Jabal Hafit",
+                  "text": "Jabal Hafit este un vârf montan notabil din jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.780863,
+                        24.057958
+                  ]
+            },
+            {
+                  "name": "AAN2505",
+                  "text": "AAN2505 este un punct de belvedere în jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.844023,
+                        24.030397
+                  ]
+            },
+            {
+                  "name": "AAN2305",
+                  "text": "AAN2305 este un punct de belvedere în jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.82245,
+                        24.11221
+                  ]
+            },
+            {
+                  "name": "AAN2324",
+                  "text": "AAN2324 este un punct de belvedere în jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.83898,
+                        24.08637
+                  ]
+            },
+            {
+                  "name": "Mazyad Fort",
+                  "text": "Mazyad Fort este o fortăreață situată în jebel-hafeet-nature-v2.",
+                  "category": "fortress",
+                  "coords": [
+                        55.833417,
+                        24.021291
+                  ]
+            },
+            {
+                  "name": "Wadi Adventure",
+                  "text": "Wadi Adventure este un parc acvatic în jebel-hafeet-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        55.739837,
+                        24.095375
+                  ]
+            },
+            {
+                  "name": "Jabal Hafit Archaeological Site",
+                  "text": "Jabal Hafit Archaeological Site este un sit arheologic în jebel-hafeet-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        55.809483,
+                        24.065947
+                  ]
+            },
+            {
+                  "name": "Mubazarah Mosque",
+                  "text": "Mubazarah Mosque este un lăcaș de cult musulman în jebel-hafeet-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.748447,
+                        24.107198
+                  ]
+            },
+            {
+                  "name": "Al Ajel Grocery",
+                  "text": "Al Ajel Grocery este o piață situată în jebel-hafeet-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.727136,
+                        24.060434
+                  ]
+            },
+            {
+                  "name": "Safaa Grocery",
+                  "text": "Safaa Grocery este o piață situată în jebel-hafeet-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.725301,
+                        24.059469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AAN2579",
+                  "text": "AAN2579 is a viewpoint located in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.853637,
+                        24.072092
+                  ]
+            },
+            {
+                  "name": "AAG6068",
+                  "text": "AAG6068 is a viewpoint located in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.725382,
+                        24.061258
+                  ]
+            },
+            {
+                  "name": "Dddd",
+                  "text": "Dddd is a viewpoint located in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.716098,
+                        24.08466
+                  ]
+            },
+            {
+                  "name": "Jabel Hafeet Park Base",
+                  "text": "Jabel Hafeet Park Base is an attraction located in jebel-hafeet-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.72608,
+                        24.096473
+                  ]
+            },
+            {
+                  "name": "Jabel Hafeet Parking",
+                  "text": "Jabel Hafeet Parking is an attraction located in jebel-hafeet-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.758739,
+                        24.098241
+                  ]
+            },
+            {
+                  "name": "Jabal Hafit",
+                  "text": "Jabal Hafit is a notable mountain peak located in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.780863,
+                        24.057958
+                  ]
+            },
+            {
+                  "name": "AAN2505",
+                  "text": "AAN2505 is a viewpoint located in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.844023,
+                        24.030397
+                  ]
+            },
+            {
+                  "name": "AAN2305",
+                  "text": "AAN2305 is a viewpoint located in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.82245,
+                        24.11221
+                  ]
+            },
+            {
+                  "name": "AAN2324",
+                  "text": "AAN2324 is a viewpoint located in jebel-hafeet-nature-v2.",
+                  "category": "natural",
+                  "coords": [
+                        55.83898,
+                        24.08637
+                  ]
+            },
+            {
+                  "name": "Mazyad Fort",
+                  "text": "Mazyad Fort is a fort located in jebel-hafeet-nature-v2.",
+                  "category": "fortress",
+                  "coords": [
+                        55.833417,
+                        24.021291
+                  ]
+            },
+            {
+                  "name": "Wadi Adventure",
+                  "text": "Wadi Adventure is a water park located in jebel-hafeet-nature-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        55.739837,
+                        24.095375
+                  ]
+            },
+            {
+                  "name": "Jabal Hafit Archaeological Site",
+                  "text": "Jabal Hafit Archaeological Site is an archaeological site located in jebel-hafeet-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        55.809483,
+                        24.065947
+                  ]
+            },
+            {
+                  "name": "Mubazarah Mosque",
+                  "text": "The Mubazarah Mosque is a muslim site located in jebel-hafeet-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        55.748447,
+                        24.107198
+                  ]
+            },
+            {
+                  "name": "Al Ajel Grocery",
+                  "text": "Al Ajel Grocery is a marketplace located in jebel-hafeet-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.727136,
+                        24.060434
+                  ]
+            },
+            {
+                  "name": "Safaa Grocery",
+                  "text": "Safaa Grocery is a marketplace located in jebel-hafeet-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        55.725301,
+                        24.059469
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AE-AZ",
     coords: [55.77, 24.06],
@@ -123,7 +789,196 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "wadi-wurayah-national-park-nature-v2",
+    id: "wadi-wurayah-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jibal Ghel Sammah",
+                  "text": "Ein Gebirgszug im Wadi-Wurayah-Nationalpark, bekannt für seine raue Schönheit und seltene Flora.",
+                  "category": "natural",
+                  "coords": [
+                        56.223354,
+                        25.47076
+                  ]
+            },
+            {
+                  "name": "Jabal Ash Shahsiyyah",
+                  "text": "Ein markanter Gipfel im Biosphärenreservat Wadi Wurayah, der die umliegenden Täler überragt.",
+                  "category": "natural",
+                  "coords": [
+                        56.311521,
+                        25.440332
+                  ]
+            },
+            {
+                  "name": "Jabal Idhar Mabruk",
+                  "text": "Eine Erhebung im Herzen des Nationalparks, die Wanderern weite Blicke über das Wadi Wurayah ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        56.323072,
+                        25.438037
+                  ]
+            },
+            {
+                  "name": "Jabal Dād",
+                  "text": "Ein steiler Berggipfel, der Teil des zerklüfteten Hadschar-Gebirges im Wadi-Wurayah-Sektor ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.225465,
+                        25.455074
+                  ]
+            },
+            {
+                  "name": "Jabal Siha",
+                  "text": "Ein Berg im Wadi-Wurayah-Schutzgebiet, geprägt durch trockene Hänge und schroffe Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        56.276664,
+                        25.33888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jibal Ghel Sammah",
+                  "text": "Hegyvonulat a Wadi Wurayah Nemzeti Parkban, amely vad szépségéről és ritka flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        56.223354,
+                        25.47076
+                  ]
+            },
+            {
+                  "name": "Jabal Ash Shahsiyyah",
+                  "text": "Jellegzetes csúcs a Wadi Wurayah bioszféra-rezervátumban, amely a környező völgyek fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        56.311521,
+                        25.440332
+                  ]
+            },
+            {
+                  "name": "Jabal Idhar Mabruk",
+                  "text": "A nemzeti park szívében található magaslat, ahonnan tágas kilátás nyílik a Wadi Wurayah-ra.",
+                  "category": "natural",
+                  "coords": [
+                        56.323072,
+                        25.438037
+                  ]
+            },
+            {
+                  "name": "Jabal Dād",
+                  "text": "Meredek hegycsúcs, amely a Wadi Wurayah szektorban található Hádzsar-hegység része.",
+                  "category": "natural",
+                  "coords": [
+                        56.225465,
+                        25.455074
+                  ]
+            },
+            {
+                  "name": "Jabal Siha",
+                  "text": "Hegy a Wadi Wurayah védett területén, száraz lejtők és zord sziklaalakzatok jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        56.276664,
+                        25.33888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jibal Ghel Sammah",
+                  "text": "Un lanț muntos în Parcul Național Wadi Wurayah, cunoscut pentru frumusețea sa aspră și flora rară.",
+                  "category": "natural",
+                  "coords": [
+                        56.223354,
+                        25.47076
+                  ]
+            },
+            {
+                  "name": "Jabal Ash Shahsiyyah",
+                  "text": "Un vârf proeminent în Rezervația Biosferei Wadi Wurayah, care domină văile înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        56.311521,
+                        25.440332
+                  ]
+            },
+            {
+                  "name": "Jabal Idhar Mabruk",
+                  "text": "O înălțime în inima parcului național, oferind drumeților vederi largi asupra Wadi Wurayah.",
+                  "category": "natural",
+                  "coords": [
+                        56.323072,
+                        25.438037
+                  ]
+            },
+            {
+                  "name": "Jabal Dād",
+                  "text": "Un vârf muntos abrupt care face parte din Munții Hajar în sectorul Wadi Wurayah.",
+                  "category": "natural",
+                  "coords": [
+                        56.225465,
+                        25.455074
+                  ]
+            },
+            {
+                  "name": "Jabal Siha",
+                  "text": "Un munte în zona protejată Wadi Wurayah, caracterizat prin pante aride și formațiuni stâncoase colțuroase.",
+                  "category": "natural",
+                  "coords": [
+                        56.276664,
+                        25.33888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jibal Ghel Sammah",
+                  "text": "A mountain range within the Wadi Wurayah National Park, known for its rugged beauty and rare flora.",
+                  "category": "natural",
+                  "coords": [
+                        56.223354,
+                        25.47076
+                  ]
+            },
+            {
+                  "name": "Jabal Ash Shahsiyyah",
+                  "text": "A prominent peak in the Wadi Wurayah Biosphere Reserve that towers over the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        56.311521,
+                        25.440332
+                  ]
+            },
+            {
+                  "name": "Jabal Idhar Mabruk",
+                  "text": "An elevation in the heart of the national park, offering hikers expansive views over the Wadi Wurayah.",
+                  "category": "natural",
+                  "coords": [
+                        56.323072,
+                        25.438037
+                  ]
+            },
+            {
+                  "name": "Jabal Dad",
+                  "text": "A steep mountain peak that is part of the rugged Hajar range in the Wadi Wurayah sector.",
+                  "category": "natural",
+                  "coords": [
+                        56.225465,
+                        25.455074
+                  ]
+            },
+            {
+                  "name": "Jabal Siha",
+                  "text": "A mountain in the Wadi Wurayah protected area, characterized by arid slopes and jagged rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        56.276664,
+                        25.33888
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-FU",
     coords: [56.26, 25.39],
@@ -183,7 +1038,340 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "mangrove-national-park-nature-v2",
+    id: "mangrove-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daman",
+                  "text": "Ein modernes Wahrzeichen aus Glas mit Blick auf die östlichen Mangroven, das wichtige Büros beherbergt und Aussicht auf den Wald bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        54.442735,
+                        24.418003
+                  ]
+            },
+            {
+                  "name": "Mangrove Marine National Park",
+                  "text": "Fahren Sie mit dem Kajak durch diese riesigen Küstenwälder, um wilde Flamingos und Küstenreiher in ihrem natürlichen Lebensraum zu entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        54.427831,
+                        24.456492
+                  ]
+            },
+            {
+                  "name": "Golden Touch Spa",
+                  "text": "Ein ruhiger Wellness-Rückzugsort an der Promenade der Eastern Mangroves, der traditionelle Thai-Massagen und Kräuterbehandlungen bietet.",
+                  "category": "religious",
+                  "coords": [
+                        54.437493,
+                        24.433775
+                  ]
+            },
+            {
+                  "name": "Masjid Ubay ibn Ka'b",
+                  "text": "Eine wunderschöne Moschee im Viertel Al Zahiyah mit einem markanten Minarett und komplizierten Steinschnitzereien an der Fassade.",
+                  "category": "landmark",
+                  "coords": [
+                        54.437265,
+                        24.436866
+                  ]
+            },
+            {
+                  "name": "Rashid Watiq Al Muroor",
+                  "text": "Diese in der Nähe der Al Muroor Road gelegene Moschee bietet mit ihren eleganten weißen Kuppeln und der einfachen Architektur einen ruhigen Rückzugsort.",
+                  "category": "landmark",
+                  "coords": [
+                        54.431893,
+                        24.439124
+                  ]
+            },
+            {
+                  "name": "Nashu Hajii Al Qabiisii",
+                  "text": "Eine Nachbarschaftsmoschee im Distrikt Al Mushrif, die für ihre friedliche Atmosphäre und schöne islamische Kalligraphie bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        54.433411,
+                        24.437514
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine ruhige Gemeindemoschee in der Nähe der Eastern Mangroves, in der Besucher das traditionelle Minarett und die geometrische Fassade bewundern können.",
+                  "category": "landmark",
+                  "coords": [
+                        54.439011,
+                        24.439949
+                  ]
+            },
+            {
+                  "name": "Abdul Jaleel Muhammed",
+                  "text": "Diese in der Nähe der Uferpromenade von Al Kheeran gelegene Moschee zeichnet sich durch komplizierte geometrische Fensterdesigns aus.",
+                  "category": "landmark",
+                  "coords": [
+                        54.449103,
+                        24.422869
+                  ]
+            },
+            {
+                  "name": "Bauernmarkt",
+                  "text": "Ein lebendiger Markt, auf dem Sie frischen Sidr-Honig, lokale Datteln und Bio-Gemüse direkt von emiratischen Erzeugern kaufen können.",
+                  "category": "cultural",
+                  "coords": [
+                        54.412477,
+                        24.434507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daman",
+                  "text": "Modern üvegépület, amely a Keleti Mangrovékra néz, fontos irodáknak ad otthont, és kilátást nyújt az erdőre.",
+                  "category": "landmark",
+                  "coords": [
+                        54.442735,
+                        24.418003
+                  ]
+            },
+            {
+                  "name": "Mangrove Marine National Park",
+                  "text": "Kajakozzon ezekben a hatalmas parti erdőkben, ahol vadon élő flamingókat és zátonykócsagokat láthat természetes élőhelyükön.",
+                  "category": "natural",
+                  "coords": [
+                        54.427831,
+                        24.456492
+                  ]
+            },
+            {
+                  "name": "Golden Touch Spa",
+                  "text": "Nyugodt wellness-központ a Keleti Mangrovék sétányánál, amely hagyományos thai masszázsokat és gyógynövényes kezeléseket kínál.",
+                  "category": "religious",
+                  "coords": [
+                        54.437493,
+                        24.433775
+                  ]
+            },
+            {
+                  "name": "Masjid Ubay ibn Ka'b",
+                  "text": "Gyönyörű mecset az Al Zahiyah negyedben, jellegzetes minarettel és homlokzatán bonyolult kőfaragványokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        54.437265,
+                        24.436866
+                  ]
+            },
+            {
+                  "name": "Rashid Watiq Al Muroor",
+                  "text": "Az Al Muroor út közelében található mecset elegáns fehér kupoláival és egyszerű építészetével nyújt nyugodt menedéket.",
+                  "category": "landmark",
+                  "coords": [
+                        54.431893,
+                        24.439124
+                  ]
+            },
+            {
+                  "name": "Nashu Hajii Al Qabiisii",
+                  "text": "Környékbeli mecset az Al Mushrif negyedben, amely békés hangulatáról és gyönyörű iszlám kalligráfiájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        54.433411,
+                        24.437514
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Nyugodt közösségi mecset a Keleti Mangrovék közelében, ahol a látogatók megcsodálhatják a hagyományos minaretet és a geometrikus homlokzatot.",
+                  "category": "landmark",
+                  "coords": [
+                        54.439011,
+                        24.439949
+                  ]
+            },
+            {
+                  "name": "Abdul Jaleel Muhammed",
+                  "text": "Az Al Kheeran vízpart közelében fekvő mecset bonyolult geometrikus ablakmintákkal és nyugodt imateremmel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        54.449103,
+                        24.422869
+                  ]
+            },
+            {
+                  "name": "Farmer's Market",
+                  "text": "Élénk piac, ahol friss szidr mézet, helyi dátumot és bio zöldségeket vásárolhat közvetlenül az emírségi termelőktől.",
+                  "category": "cultural",
+                  "coords": [
+                        54.412477,
+                        24.434507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daman",
+                  "text": "Un punct de reper modern din sticlă, cu vedere la Eastern Mangroves, care găzduiește birouri importante și oferă priveliști spre pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        54.442735,
+                        24.418003
+                  ]
+            },
+            {
+                  "name": "Mangrove Marine National Park",
+                  "text": "Mergeți cu caiacul prin aceste păduri de coastă vaste pentru a observa flamingo sălbatici și egrete de recif în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        54.427831,
+                        24.456492
+                  ]
+            },
+            {
+                  "name": "Golden Touch Spa",
+                  "text": "Un refugiu de wellness liniștit lângă promenada Eastern Mangroves, care oferă masaje thailandeze tradiționale și tratamente cu plante.",
+                  "category": "religious",
+                  "coords": [
+                        54.437493,
+                        24.433775
+                  ]
+            },
+            {
+                  "name": "Masjid Ubay ibn Ka'b",
+                  "text": "O moschee frumoasă în zona Al Zahiyah, cu un minaret distinct și sculpturi complicate în piatră pe fațadă.",
+                  "category": "landmark",
+                  "coords": [
+                        54.437265,
+                        24.436866
+                  ]
+            },
+            {
+                  "name": "Rashid Watiq Al Muroor",
+                  "text": "Situată lângă Al Muroor Road, această moschee oferă un sanctuar liniștit, cu cupolele sale albe elegante și arhitectura simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        54.431893,
+                        24.439124
+                  ]
+            },
+            {
+                  "name": "Nashu Hajii Al Qabiisii",
+                  "text": "O moschee de cartier din districtul Al Mushrif, cunoscută pentru atmosfera sa liniștită și caligrafia islamică frumoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        54.433411,
+                        24.437514
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee comunitară liniștită lângă Eastern Mangroves, unde vizitatorii pot admira minaretul tradițional și fațada geometrică.",
+                  "category": "landmark",
+                  "coords": [
+                        54.439011,
+                        24.439949
+                  ]
+            },
+            {
+                  "name": "Abdul Jaleel Muhammed",
+                  "text": "Situată lângă faleza Al Kheeran, această moschee are ferestre cu modele geometrice complicate și o sală de rugăciune liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        54.449103,
+                        24.422869
+                  ]
+            },
+            {
+                  "name": "Farmer's Market",
+                  "text": "O piață vibrantă de unde puteți cumpăra miere de Sidr proaspătă, curmale locale și legume organice direct de la producătorii din Emirate.",
+                  "category": "cultural",
+                  "coords": [
+                        54.412477,
+                        24.434507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daman",
+                  "text": "A modern glass landmark overlooking the Eastern Mangroves, housing major offices and offering views of the forest.",
+                  "category": "landmark",
+                  "coords": [
+                        54.442735,
+                        24.418003
+                  ]
+            },
+            {
+                  "name": "Mangrove Marine National Park",
+                  "text": "Kayak through these website coastal forests to spot wild flamingos and western reef herons in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        54.427831,
+                        24.456492
+                  ]
+            },
+            {
+                  "name": "Golden Touch Spa",
+                  "text": "A serene wellness retreat near the Eastern Mangrove promenade offering traditional Thai massages and herbal treatments.",
+                  "category": "religious",
+                  "coords": [
+                        54.437493,
+                        24.433775
+                  ]
+            },
+            {
+                  "name": "Masjid Ubay ibn Ka'b",
+                  "text": "A beautiful mosque in the Al Zahiyah area featuring a distinct minaret and intricate stone carvings on its facade.",
+                  "category": "landmark",
+                  "coords": [
+                        54.437265,
+                        24.436866
+                  ]
+            },
+            {
+                  "name": "Rashid Watiq Al Muroor",
+                  "text": "Located near Al Muroor Road, this mosque offers a quiet sanctuary with its elegant white domes and simple architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        54.431893,
+                        24.439124
+                  ]
+            },
+            {
+                  "name": "Nashu Hajii Al Qabiisii",
+                  "text": "A neighborhood mosque in the Al Mushrif district known for its peaceful atmosphere and beautiful Islamic calligraphy.",
+                  "category": "landmark",
+                  "coords": [
+                        54.433411,
+                        24.437514
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A serene community mosque near the Eastern Mangroves where visitors can admire the traditional minaret and geometric facade.",
+                  "category": "landmark",
+                  "coords": [
+                        54.439011,
+                        24.439949
+                  ]
+            },
+            {
+                  "name": "Abdul Jaleel Muhammed",
+                  "text": "Situated near the Al Kheeran waterfront, this mosque features intricate geometric window designs and a tranquil prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        54.449103,
+                        24.422869
+                  ]
+            },
+            {
+                  "name": "Farmer's Market",
+                  "text": "A vibrant market where you can buy fresh Sidr honey, local dates, and organic vegetables directly from Emirati growers.",
+                  "category": "cultural",
+                  "coords": [
+                        54.412477,
+                        24.434507
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-AZ",
     coords: [54.43, 24.44],
@@ -243,7 +1431,124 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "hatta-dam-nature-v2",
+    id: "hatta-dam-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Nibah",
+                  "text": "Ein felsiger Berggipfel in der Hatta-Region, der weite Ausblicke über die zerklüftete Grenze zum Oman bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.154691,
+                        24.759792
+                  ]
+            },
+            {
+                  "name": "Jabal Abu Samasimah",
+                  "text": "Dieser hohe Punkt im Hatta-Gebirge zeichnet sich durch seine steilen Hänge und die karge Vegetation aus.",
+                  "category": "natural",
+                  "coords": [
+                        56.119467,
+                        24.783911
+                  ]
+            },
+            {
+                  "name": "Protected area - Hatta Mountain Reserve (2017)",
+                  "text": "Ein Schutzgebiet für Bergtiere wie den Arabischen Tahr, gelegen in den felsigen Tälern von Hatta.",
+                  "category": "natural",
+                  "coords": [
+                        56.11267,
+                        24.762773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Nibah",
+                  "text": "Sziklás hegycsúcs a Hatta-régióban, ahonnan messzire ellátni az Ománnal közös sziklás határ mentén.",
+                  "category": "natural",
+                  "coords": [
+                        56.154691,
+                        24.759792
+                  ]
+            },
+            {
+                  "name": "Jabal Abu Samasimah",
+                  "text": "Ez a Hatta-hegységben található magaslat meredek lejtőiről és gyér növényzetéről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        56.119467,
+                        24.783911
+                  ]
+            },
+            {
+                  "name": "Protected area - Hatta Mountain Reserve (2017)",
+                  "text": "Olyan hegyi állatok rezervátuma, mint az arab tahr, Hatta sziklás völgyeiben található.",
+                  "category": "natural",
+                  "coords": [
+                        56.11267,
+                        24.762773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Nibah",
+                  "text": "Un vârf muntos stâncos în regiunea Hatta, oferind vederi largi de-a lungul graniței accidentate cu Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.154691,
+                        24.759792
+                  ]
+            },
+            {
+                  "name": "Jabal Abu Samasimah",
+                  "text": "Acest punct înalt din munții Hatta se caracterizează prin pantele sale abrupte și vegetația rară.",
+                  "category": "natural",
+                  "coords": [
+                        56.119467,
+                        24.783911
+                  ]
+            },
+            {
+                  "name": "Protected area - Hatta Mountain Reserve (2017)",
+                  "text": "O rezervație pentru animale montane, cum ar fi tahr-ul arab, situată în văile stâncoase din Hatta.",
+                  "category": "natural",
+                  "coords": [
+                        56.11267,
+                        24.762773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Nibah",
+                  "text": "A rocky mountain peak in the Hatta region, offering wide views along the rugged border with Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.154691,
+                        24.759792
+                  ]
+            },
+            {
+                  "name": "Jabal Abu Samasimah",
+                  "text": "This high point in the Hatta mountain range is characterized by its steep slopes and sparse vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        56.119467,
+                        24.783911
+                  ]
+            },
+            {
+                  "name": "Protected area - Hatta Mountain Reserve",
+                  "text": "A sanctuary for mountain animals like the Arabian tahr, located within the rocky valleys of Hatta.",
+                  "category": "natural",
+                  "coords": [
+                        56.11267,
+                        24.762773
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AE-DU",
     coords: [56.11, 24.78],
@@ -303,7 +1608,160 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "dubai-desert-conservation-reserve-nature-v2",
+    id: "dubai-desert-conservation-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sonara Camp",
+                  "text": "Ein luxuriöses, umweltfreundliches Wüstencamp, das Abendessen unter dem Sternenhimmel inmitten der Dünen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.597933,
+                        24.870132
+                  ]
+            },
+            {
+                  "name": "Dubai Desert Conservation Reserve",
+                  "text": "Das erste Nationalpark-Reservat der VAE schützt bedrohte Arten wie die Arabische Oryx-Antilope.",
+                  "category": "natural",
+                  "coords": [
+                        55.660874,
+                        24.827809
+                  ]
+            },
+            {
+                  "name": "Desert Camp",
+                  "text": "Ein Camp im Beduinenstil, das traditionelle Aktivitäten und Übernachtungen in der Weite der Dünen ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.643518,
+                        24.881654
+                  ]
+            },
+            {
+                  "name": "Masjid Marqab Al Kabir",
+                  "text": "Eine abgelegene Moschee am Rande des Al Marqab-Wüstengebiets, die Reisenden und Anwohnern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.576095,
+                        24.820313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sonara Camp",
+                  "text": "Luxus, környezetbarát sivatagi tábor, amely vacsorázási lehetőséget kínál a csillagos ég alatt a dűnék között.",
+                  "category": "landmark",
+                  "coords": [
+                        55.597933,
+                        24.870132
+                  ]
+            },
+            {
+                  "name": "Dubai Desert Conservation Reserve",
+                  "text": "Az Egyesült Arab Emírségek első nemzeti parkja, amely olyan veszélyeztetett fajokat védelmez, mint az arab antilop.",
+                  "category": "natural",
+                  "coords": [
+                        55.660874,
+                        24.827809
+                  ]
+            },
+            {
+                  "name": "Desert Camp",
+                  "text": "Beduin stílusú tábor, amely hagyományos tevékenységeket és éjszakai szállást kínál a dűnék között.",
+                  "category": "landmark",
+                  "coords": [
+                        55.643518,
+                        24.881654
+                  ]
+            },
+            {
+                  "name": "Masjid Marqab Al Kabir",
+                  "text": "Egy távoli mecset az Al Marqab sivatagi terület szélén, amely az utazókat és a helyi lakosokat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.576095,
+                        24.820313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sonara Camp",
+                  "text": "O tabără de deșert luxoasă și ecologică, care oferă cine sub cerul înstelat în mijlocul dunelor.",
+                  "category": "landmark",
+                  "coords": [
+                        55.597933,
+                        24.870132
+                  ]
+            },
+            {
+                  "name": "Dubai Desert Conservation Reserve",
+                  "text": "Prima rezervație de parc național din EAU protejează specii pe cale de dispariție, cum ar fi antilopa Oryx arabă.",
+                  "category": "natural",
+                  "coords": [
+                        55.660874,
+                        24.827809
+                  ]
+            },
+            {
+                  "name": "Desert Camp",
+                  "text": "O tabără în stil beduin care oferă activități tradiționale și cazare peste noapte în imensitatea dunelor.",
+                  "category": "landmark",
+                  "coords": [
+                        55.643518,
+                        24.881654
+                  ]
+            },
+            {
+                  "name": "Masjid Marqab Al Kabir",
+                  "text": "O moschee izolată la marginea zonei de deșert Al Marqab, care servește călătorii și locuitorii zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        55.576095,
+                        24.820313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sonara Camp",
+                  "text": "A luxury eco-friendly desert camp offering dining under the stars amidst the rolling sand dunes.",
+                  "category": "landmark",
+                  "coords": [
+                        55.597933,
+                        24.870132
+                  ]
+            },
+            {
+                  "name": "Dubai Desert Conservation Reserve",
+                  "text": "The UAE's first national park reserve protects endangered species like the Arabian oryx in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        55.660874,
+                        24.827809
+                  ]
+            },
+            {
+                  "name": "Desert Camp",
+                  "text": "A Bedouin-style camp offering traditional activities and overnight stays in the vastness of the dunes.",
+                  "category": "landmark",
+                  "coords": [
+                        55.643518,
+                        24.881654
+                  ]
+            },
+            {
+                  "name": "Masjid Marqab Al Kabir",
+                  "text": "A remote mosque on the edge of the Al Marqab desert area, serving travelers and local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        55.576095,
+                        24.820313
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-DU",
     coords: [55.65, 24.81],
@@ -363,7 +1821,700 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "al-wathba-wetland-reserve-nature-v2",
+    id: "al-wathba-wetland-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mafraq store",
+                  "text": "Der Mafraq-Laden ist eine Attraktion in der Nähe des Al Wathba Wetland Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        54.586198,
+                        24.277324
+                  ]
+            },
+            {
+                  "name": "Radar 60 speed",
+                  "text": "Radar speed limit 60 ist ein bekannter Punkt am Straßenrand in der Region Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.601035,
+                        24.345737
+                  ]
+            },
+            {
+                  "name": "Radar cam",
+                  "text": "Radar cam ist als Sehenswürdigkeit in der Nähe des Al Wathba Wetland Reserve markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        54.597212,
+                        24.344867
+                  ]
+            },
+            {
+                  "name": "E islam",
+                  "text": "E islam ist eine Attraktion im Gebiet von Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.533183,
+                        24.308453
+                  ]
+            },
+            {
+                  "name": "Bargain mufraq",
+                  "text": "Bargain mufraq bietet einen Aussichtspunkt rund um das Al Wathba Wetland Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        54.575887,
+                        24.289904
+                  ]
+            },
+            {
+                  "name": "Ali yafour",
+                  "text": "Ali yafour ist ein malerischer Aussichtspunkt in der Region Al Wathba.",
+                  "category": "natural",
+                  "coords": [
+                        54.666729,
+                        24.275459
+                  ]
+            },
+            {
+                  "name": "Al Wathba village",
+                  "text": "Das Dorf Al Wathba dient als bekannter Aussichtspunkt im Naturschutzgebiet Al Wathba.",
+                  "category": "natural",
+                  "coords": [
+                        54.684921,
+                        24.276959
+                  ]
+            },
+            {
+                  "name": "Camra road",
+                  "text": "Die Camra Road bietet einen malerischen Aussichtspunkt in der Umgebung von Al Wathba.",
+                  "category": "natural",
+                  "coords": [
+                        54.677504,
+                        24.312974
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Festival",
+                  "text": "Das Sheikh Zayed Festival ist eine bedeutende kulturelle Attraktion in Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.684725,
+                        24.222793
+                  ]
+            },
+            {
+                  "name": "Al Wathba Custom Show",
+                  "text": "Die Al Wathba Custom Show ist ein Ausstellungs- und Theaterort in Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.68324,
+                        24.223116
+                  ]
+            },
+            {
+                  "name": "Fun Fair City",
+                  "text": "Fun Fair City ist ein Vergnügungspark im Gebiet von Al Wathba.",
+                  "category": "recreational",
+                  "coords": [
+                        54.683125,
+                        24.221071
+                  ]
+            },
+            {
+                  "name": "Culture Theather",
+                  "text": "Das Culture Theater ist ein Veranstaltungsort für Aufführungen in Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.684607,
+                        24.220787
+                  ]
+            },
+            {
+                  "name": "Al Wathba Wetland Reserve",
+                  "text": "Das Al Wathba Wetland Reserve ist ein geschütztes Naturschutzgebiet, das für seine vielfältige Tierwelt und Flamingos bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        54.603218,
+                        24.256589
+                  ]
+            },
+            {
+                  "name": "Al Saada Mosque",
+                  "text": "Die Al-Saada-Moschee ist ein lokales Gotteshaus in Al Wathba.",
+                  "category": "religious",
+                  "coords": [
+                        54.580756,
+                        24.305313
+                  ]
+            },
+            {
+                  "name": "Z25 Mosque",
+                  "text": "Die Z25-Moschee ist ein religiöses Gotteshaus im Gebiet von Al Wathba.",
+                  "category": "religious",
+                  "coords": [
+                        54.570009,
+                        24.311383
+                  ]
+            },
+            {
+                  "name": "Al jaber camp masjid",
+                  "text": "Al Jaber Camp Masjid ist ein Gotteshaus für die Gemeinde in Al Wathba.",
+                  "category": "religious",
+                  "coords": [
+                        54.606925,
+                        24.283381
+                  ]
+            },
+            {
+                  "name": "Women's prayer room",
+                  "text": "Ein weiterer Frauen-Gebetsraum bietet einen dedizierten islamischen Raum in Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.68585,
+                        24.221737
+                  ]
+            },
+            {
+                  "name": "Abu Dhabi Agriculture & Food Safety Authority",
+                  "text": "Die Abu Dhabi Agriculture & Food Safety Authority unterhält eine Marktpräsenz in Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.686265,
+                        24.222745
+                  ]
+            },
+            {
+                  "name": "Americas Pavilion",
+                  "text": "Der Amerika-Pavillon fungiert als Marktmerkmal in der Region Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.685734,
+                        24.220622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mafraq store",
+                  "text": "A Mafraq üzlet egy látványosság az Al Wathba vizes élőhely rezervátum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.586198,
+                        24.277324
+                  ]
+            },
+            {
+                  "name": "Radar 60 speed",
+                  "text": "A Radar speed limit 60 egy út menti látványosság az Al Wathba régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        54.601035,
+                        24.345737
+                  ]
+            },
+            {
+                  "name": "Radar cam",
+                  "text": "A Radar cam egy látványosság az Al Wathba vizes élőhely rezervátum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.597212,
+                        24.344867
+                  ]
+            },
+            {
+                  "name": "E islam",
+                  "text": "Az E islam egy látványosság az Al Wathba területén.",
+                  "category": "landmark",
+                  "coords": [
+                        54.533183,
+                        24.308453
+                  ]
+            },
+            {
+                  "name": "Bargain mufraq",
+                  "text": "A Bargain mufraq egy kilátópont az Al Wathba vizes élőhely rezervátum környékén.",
+                  "category": "natural",
+                  "coords": [
+                        54.575887,
+                        24.289904
+                  ]
+            },
+            {
+                  "name": "Ali yafour",
+                  "text": "Az Ali yafour egy festői kilátópont az Al Wathba régióban.",
+                  "category": "natural",
+                  "coords": [
+                        54.666729,
+                        24.275459
+                  ]
+            },
+            {
+                  "name": "Al Wathba village",
+                  "text": "Az Al Wathba falu nevezetes kilátópontként szolgál az Al Wathba természetvédelmi területen.",
+                  "category": "natural",
+                  "coords": [
+                        54.684921,
+                        24.276959
+                  ]
+            },
+            {
+                  "name": "Camra road",
+                  "text": "A Camra road egy festői kilátópontot kínál Al Wathba környékén.",
+                  "category": "natural",
+                  "coords": [
+                        54.677504,
+                        24.312974
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Festival",
+                  "text": "A Sheikh Zayed Fesztivál egy kiemelkedő kulturális látványosság Al Wathbában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.684725,
+                        24.222793
+                  ]
+            },
+            {
+                  "name": "Al Wathba Custom Show",
+                  "text": "Az Al Wathba Custom Show egy kiállítási és színházi helyszín Al Wathbában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.68324,
+                        24.223116
+                  ]
+            },
+            {
+                  "name": "Fun Fair City",
+                  "text": "A Fun Fair City egy vidámpark az Al Wathba területén.",
+                  "category": "recreational",
+                  "coords": [
+                        54.683125,
+                        24.221071
+                  ]
+            },
+            {
+                  "name": "Culture Theather",
+                  "text": "A Culture Theather egy előadóterem Al Wathbában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.684607,
+                        24.220787
+                  ]
+            },
+            {
+                  "name": "Al Wathba Wetland Reserve",
+                  "text": "Az Al Wathba vizes élőhely rezervátum egy védett természetvédelmi terület, amely gazdag vadvilágáról és flamingóiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        54.603218,
+                        24.256589
+                  ]
+            },
+            {
+                  "name": "Al Saada Mosque",
+                  "text": "Az Al Saada mecset egy helyi istentiszteleti hely Al Wathbában.",
+                  "category": "religious",
+                  "coords": [
+                        54.580756,
+                        24.305313
+                  ]
+            },
+            {
+                  "name": "Z25 Mosque",
+                  "text": "A Z25-mecset egy vallási istentiszteleti hely az Al Wathba területén.",
+                  "category": "religious",
+                  "coords": [
+                        54.570009,
+                        24.311383
+                  ]
+            },
+            {
+                  "name": "Al jaber camp masjid",
+                  "text": "Az Al jaber camp masjid egy istentiszteleti hely, amely az Al Wathba közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        54.606925,
+                        24.283381
+                  ]
+            },
+            {
+                  "name": "Women's prayer room",
+                  "text": "Egy másik női imaterem dedikált iszlám teret biztosít Al Wathbában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.68585,
+                        24.221737
+                  ]
+            },
+            {
+                  "name": "Abu Dhabi Agriculture & Food Safety Authority",
+                  "text": "Az Abu Dhabi Mezőgazdasági és Élelmiszerbiztonsági Hatóság fenntartja piaci jelenlétét Al Wathbában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.686265,
+                        24.222745
+                  ]
+            },
+            {
+                  "name": "Americas Pavilion",
+                  "text": "Az Amerika Pavilon piaci létesítményként szolgál az Al Wathba régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        54.685734,
+                        24.220622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mafraq store",
+                  "text": "Magazinul Mafraq este o atracție situată în apropiere de Rezervația de zone umede Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.586198,
+                        24.277324
+                  ]
+            },
+            {
+                  "name": "Radar 60 speed",
+                  "text": "Radar speed limit 60 este un punct de interes pe marginea drumului în regiunea Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.601035,
+                        24.345737
+                  ]
+            },
+            {
+                  "name": "Radar cam",
+                  "text": "Radar cam este o atracție marcată în apropierea Rezervației de zone umede Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.597212,
+                        24.344867
+                  ]
+            },
+            {
+                  "name": "E islam",
+                  "text": "E islam este o atracție localizată în zona Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.533183,
+                        24.308453
+                  ]
+            },
+            {
+                  "name": "Bargain mufraq",
+                  "text": "Bargain mufraq este un punct de belvedere în zona Rezervației de zone umede Al Wathba.",
+                  "category": "natural",
+                  "coords": [
+                        54.575887,
+                        24.289904
+                  ]
+            },
+            {
+                  "name": "Ali yafour",
+                  "text": "Ali yafour este un punct de belvedere situat în regiunea Al Wathba.",
+                  "category": "natural",
+                  "coords": [
+                        54.666729,
+                        24.275459
+                  ]
+            },
+            {
+                  "name": "Al Wathba village",
+                  "text": "Satul Al Wathba este un punct de belvedere notabil din zona rezervației naturale Al Wathba.",
+                  "category": "natural",
+                  "coords": [
+                        54.684921,
+                        24.276959
+                  ]
+            },
+            {
+                  "name": "Camra road",
+                  "text": "Drumul Camra oferă un punct de belvedere pitoresc în vecinătatea Al Wathba.",
+                  "category": "natural",
+                  "coords": [
+                        54.677504,
+                        24.312974
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Festival",
+                  "text": "Festivalul Sheikh Zayed este o atracție culturală proeminentă care are loc în Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.684725,
+                        24.222793
+                  ]
+            },
+            {
+                  "name": "Al Wathba Custom Show",
+                  "text": "Al Wathba Custom Show este o locație pentru expoziții și teatru situată în Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.68324,
+                        24.223116
+                  ]
+            },
+            {
+                  "name": "Fun Fair City",
+                  "text": "Fun Fair City este un parc tematic de distracții aflat în zona Al Wathba.",
+                  "category": "recreational",
+                  "coords": [
+                        54.683125,
+                        24.221071
+                  ]
+            },
+            {
+                  "name": "Culture Theather",
+                  "text": "Culture Theather este un spațiu pentru spectacole situat în Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.684607,
+                        24.220787
+                  ]
+            },
+            {
+                  "name": "Al Wathba Wetland Reserve",
+                  "text": "Rezervația de zone umede Al Wathba este o rezervație naturală protejată, recunoscută pentru fauna sa diversă și flamingo.",
+                  "category": "natural",
+                  "coords": [
+                        54.603218,
+                        24.256589
+                  ]
+            },
+            {
+                  "name": "Al Saada Mosque",
+                  "text": "Moscheea Al Saada este un lăcaș de cult local situat în Al Wathba.",
+                  "category": "religious",
+                  "coords": [
+                        54.580756,
+                        24.305313
+                  ]
+            },
+            {
+                  "name": "Z25 Mosque",
+                  "text": "Moscheea Z25 este un lăcaș de cult religios aflat în zona Al Wathba.",
+                  "category": "religious",
+                  "coords": [
+                        54.570009,
+                        24.311383
+                  ]
+            },
+            {
+                  "name": "Al jaber camp masjid",
+                  "text": "Al jaber camp masjid este un lăcaș de cult care deservește comunitatea din Al Wathba.",
+                  "category": "religious",
+                  "coords": [
+                        54.606925,
+                        24.283381
+                  ]
+            },
+            {
+                  "name": "Women's prayer room",
+                  "text": "O altă sală de rugăciune pentru femei oferă un spațiu islamic dedicat în Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.68585,
+                        24.221737
+                  ]
+            },
+            {
+                  "name": "Abu Dhabi Agriculture & Food Safety Authority",
+                  "text": "Autoritatea pentru Agricultură și Siguranță Alimentară din Abu Dhabi menține o prezență comercială în Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.686265,
+                        24.222745
+                  ]
+            },
+            {
+                  "name": "Americas Pavilion",
+                  "text": "Pavilionul Americilor acționează ca o piață specifică în regiunea Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.685734,
+                        24.220622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mafraq store",
+                  "text": "Mafraq store is an attraction located near the Al Wathba Wetland Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        54.586198,
+                        24.277324
+                  ]
+            },
+            {
+                  "name": "Radar speed limit 60",
+                  "text": "Radar speed limit 60 is a notable roadside point of interest in the Al Wathba region.",
+                  "category": "landmark",
+                  "coords": [
+                        54.601035,
+                        24.345737
+                  ]
+            },
+            {
+                  "name": "Radar cam",
+                  "text": "Radar cam is marked as a point of interest near the Al Wathba Wetland Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        54.597212,
+                        24.344867
+                  ]
+            },
+            {
+                  "name": "E islam",
+                  "text": "E islam is an attraction located within the Al Wathba area.",
+                  "category": "landmark",
+                  "coords": [
+                        54.533183,
+                        24.308453
+                  ]
+            },
+            {
+                  "name": "Bargain mufraq",
+                  "text": "Bargain mufraq offers a viewpoint around the Al Wathba Wetland Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        54.575887,
+                        24.289904
+                  ]
+            },
+            {
+                  "name": "Ali yafour",
+                  "text": "Ali yafour is a scenic viewpoint situated in the Al Wathba region.",
+                  "category": "natural",
+                  "coords": [
+                        54.666729,
+                        24.275459
+                  ]
+            },
+            {
+                  "name": "Al Wathba village",
+                  "text": "Al Wathba village serves as a notable viewpoint in the Al Wathba nature reserve area.",
+                  "category": "natural",
+                  "coords": [
+                        54.684921,
+                        24.276959
+                  ]
+            },
+            {
+                  "name": "Camra road",
+                  "text": "Camra road provides a scenic viewpoint in the Al Wathba vicinity.",
+                  "category": "natural",
+                  "coords": [
+                        54.677504,
+                        24.312974
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Festival",
+                  "text": "The Sheikh Zayed Festival is a prominent cultural attraction held in Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.684725,
+                        24.222793
+                  ]
+            },
+            {
+                  "name": "Al Wathba Custom Show",
+                  "text": "Al Wathba Custom Show is an exhibition and theater venue located in Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.68324,
+                        24.223116
+                  ]
+            },
+            {
+                  "name": "Fun Fair City",
+                  "text": "Fun Fair City is an amusement theme park found in the Al Wathba area.",
+                  "category": "recreational",
+                  "coords": [
+                        54.683125,
+                        24.221071
+                  ]
+            },
+            {
+                  "name": "Culture Theather",
+                  "text": "The Culture Theather is a venue for performances situated in Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.684607,
+                        24.220787
+                  ]
+            },
+            {
+                  "name": "Al Wathba Wetland Reserve",
+                  "text": "The Al Wathba Wetland Reserve is a protected nature reserve known for its diverse wildlife and flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        54.603218,
+                        24.256589
+                  ]
+            },
+            {
+                  "name": "Al Saada Mosque",
+                  "text": "Al Saada Mosque is a local place of worship situated in Al Wathba.",
+                  "category": "religious",
+                  "coords": [
+                        54.580756,
+                        24.305313
+                  ]
+            },
+            {
+                  "name": "Z25 Mosque",
+                  "text": "The Z25 Mosque is a religious place of worship found in the Al Wathba area.",
+                  "category": "religious",
+                  "coords": [
+                        54.570009,
+                        24.311383
+                  ]
+            },
+            {
+                  "name": "Al jaber camp masjid",
+                  "text": "Al jaber camp masjid is a place of worship serving the community in Al Wathba.",
+                  "category": "religious",
+                  "coords": [
+                        54.606925,
+                        24.283381
+                  ]
+            },
+            {
+                  "name": "Women's prayer room",
+                  "text": "Another Women's prayer room provides a dedicated Islamic space in Al Wathba.",
+                  "category": "landmark",
+                  "coords": [
+                        54.68585,
+                        24.221737
+                  ]
+            },
+            {
+                  "name": "Abu Dhabi Agriculture & Food Safety Authority",
+                  "text": "The Abu Dhabi Agriculture & Food Safety Authority maintains a marketplace presence in Al Wathba.",
+                  "category": "cultural",
+                  "coords": [
+                        54.686265,
+                        24.222745
+                  ]
+            },
+            {
+                  "name": "Americas Pavilion",
+                  "text": "The Americas Pavilion acts as a marketplace feature within the Al Wathba region.",
+                  "category": "cultural",
+                  "coords": [
+                        54.685734,
+                        24.220622
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-AZ",
     coords: [54.60, 24.26],
@@ -423,7 +2574,304 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "ras-al-khor-wildlife-sanctuary-nature-v2",
+    id: "ras-al-khor-wildlife-sanctuary-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Repton Museum",
+                  "text": "Ein Bildungsmuseum innerhalb der Repton School, das deren Erbe und Geschichte beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        55.359905,
+                        25.138776
+                  ]
+            },
+            {
+                  "name": "The Viewing Point",
+                  "text": "Eine 70 Meter lange Aussichtsplattform am Dubai Creek Harbour mit Panorama-Blick auf die Skyline von Downtown.",
+                  "category": "natural",
+                  "coords": [
+                        55.340897,
+                        25.205709
+                  ]
+            },
+            {
+                  "name": "Ras al Khor Wildlife Sanctuary",
+                  "text": "Ein riesiges Feuchtgebiet-Reservat, das für seine große Population an rosa Flamingos bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.322082,
+                        25.191798
+                  ]
+            },
+            {
+                  "name": "Wildlife Sanctuary (Flamingo Lagoon)",
+                  "text": "Ein Vogelbeobachtungspunkt, der speziell für die Sichtung von Flamingos in ihrem natürlichen Lebensraum positioniert ist.",
+                  "category": "natural",
+                  "coords": [
+                        55.31231,
+                        25.192745
+                  ]
+            },
+            {
+                  "name": "Mercedes-Benz Off-Road Experience Center",
+                  "text": "Eine spezialisierte Teststrecke für Luxus-Geländewagen auf steilem Gelände.",
+                  "category": "park",
+                  "coords": [
+                        55.29633,
+                        25.19218
+                  ]
+            },
+            {
+                  "name": "Dubai Design District",
+                  "text": "Ein stilvolles Viertel mit Kreativstudios, hochwertigen Galerien und internationalen Modehäusern.",
+                  "category": "landmark",
+                  "coords": [
+                        55.298142,
+                        25.189152
+                  ]
+            },
+            {
+                  "name": "BGBC Nad Al Sheba Gardens Villas",
+                  "text": "Eine luxuriöse Wohnanlage mit modernen Villen inmitten angelegter Gärten in Nad Al Sheba.",
+                  "category": "historical",
+                  "coords": [
+                        55.322444,
+                        25.132284
+                  ]
+            },
+            {
+                  "name": "Auto Market Al Awir",
+                  "text": "Ein wichtiges regionales Zentrum für den Verkauf und Export von Neu- und Gebrauchtwagen.",
+                  "category": "cultural",
+                  "coords": [
+                        55.368807,
+                        25.171871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Repton Museum",
+                  "text": "A Repton School területén található oktatási múzeum, amely az iskola örökségét és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.359905,
+                        25.138776
+                  ]
+            },
+            {
+                  "name": "The Viewing Point",
+                  "text": "Egy 70 méter hosszú kilátó a Dubai Creek Harbournál, ahonnan panorámás kilátás nyílik a belváros felhőkarcolóira.",
+                  "category": "natural",
+                  "coords": [
+                        55.340897,
+                        25.205709
+                  ]
+            },
+            {
+                  "name": "Ras al Khor Wildlife Sanctuary",
+                  "text": "Hatalmas vizes élőhely-rezervátum, amely híres a nagyszámú itt élő rózsaszín flamingóról.",
+                  "category": "landmark",
+                  "coords": [
+                        55.322082,
+                        25.191798
+                  ]
+            },
+            {
+                  "name": "Wildlife Sanctuary (Flamingo Lagoon)",
+                  "text": "Madármegfigyelő hely, amelyet kifejezetten a flamingók természetes élőhelyükön való megfigyelésére alakítottak ki.",
+                  "category": "natural",
+                  "coords": [
+                        55.31231,
+                        25.192745
+                  ]
+            },
+            {
+                  "name": "Mercedes-Benz Off-Road Experience Center",
+                  "text": "Luxus terepjárók tesztelésére tervezett speciális pálya meredek terepen.",
+                  "category": "park",
+                  "coords": [
+                        55.29633,
+                        25.19218
+                  ]
+            },
+            {
+                  "name": "Dubai Design District",
+                  "text": "Stílusos negyed, amely kreatív stúdióknak, nívós galériáknak és nemzetközi divatházaknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        55.298142,
+                        25.189152
+                  ]
+            },
+            {
+                  "name": "BGBC Nad Al Sheba Gardens Villas",
+                  "text": "Luxus lakópark modern villákkal, parkosított kertek között Nad Al Sheba negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        55.322444,
+                        25.132284
+                  ]
+            },
+            {
+                  "name": "Auto Market Al Awir",
+                  "text": "Új és használt gépjárművek értékesítésének és exportjának jelentős regionális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        55.368807,
+                        25.171871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Repton Museum",
+                  "text": "Un muzeu educațional situat în cadrul Școlii Repton, care evidențiază moștenirea și istoria acesteia.",
+                  "category": "museum",
+                  "coords": [
+                        55.359905,
+                        25.138776
+                  ]
+            },
+            {
+                  "name": "The Viewing Point",
+                  "text": "O platformă de vizionare de 70 de metri din Dubai Creek Harbour, cu panorame ale orizontului centrului orașului.",
+                  "category": "natural",
+                  "coords": [
+                        55.340897,
+                        25.205709
+                  ]
+            },
+            {
+                  "name": "Ras al Khor Wildlife Sanctuary",
+                  "text": "O vastă rezervație de zone umede, faimoasă pentru populația sa mare de flamingi roz.",
+                  "category": "landmark",
+                  "coords": [
+                        55.322082,
+                        25.191798
+                  ]
+            },
+            {
+                  "name": "Wildlife Sanctuary (Flamingo Lagoon)",
+                  "text": "Un punct de observare a păsărilor poziționat special pentru a vedea flamingii în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        55.31231,
+                        25.192745
+                  ]
+            },
+            {
+                  "name": "Mercedes-Benz Off-Road Experience Center",
+                  "text": "O pistă de condus specializată, concepută pentru testarea vehiculelor de lux off-road pe teren abrupt.",
+                  "category": "park",
+                  "coords": [
+                        55.29633,
+                        25.19218
+                  ]
+            },
+            {
+                  "name": "Dubai Design District",
+                  "text": "Un cartier elegant care găzduiește studiouri creative, galerii de lux și case de modă internaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        55.298142,
+                        25.189152
+                  ]
+            },
+            {
+                  "name": "BGBC Nad Al Sheba Gardens Villas",
+                  "text": "O comunitate rezidențială de lux, cu vile moderne amplasate în mijlocul unor grădini amenajate în Nad Al Sheba.",
+                  "category": "historical",
+                  "coords": [
+                        55.322444,
+                        25.132284
+                  ]
+            },
+            {
+                  "name": "Auto Market Al Awir",
+                  "text": "Un hub regional major pentru vânzarea și exportul de vehicule motorizate noi și second-hand.",
+                  "category": "cultural",
+                  "coords": [
+                        55.368807,
+                        25.171871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Repton Museum",
+                  "text": "An educational museum located within the Repton School, highlighting its heritage and history.",
+                  "category": "museum",
+                  "coords": [
+                        55.359905,
+                        25.138776
+                  ]
+            },
+            {
+                  "name": "The Viewing Point",
+                  "text": "A 70-meter viewing platform at Dubai Creek Harbour with panoramas of the Downtown skyline.",
+                  "category": "natural",
+                  "coords": [
+                        55.340897,
+                        25.205709
+                  ]
+            },
+            {
+                  "name": "Ras al Khor Wildlife Sanctuary",
+                  "text": "A vast wetland reserve famous for its large resident population of pink flamingos.",
+                  "category": "landmark",
+                  "coords": [
+                        55.322082,
+                        25.191798
+                  ]
+            },
+            {
+                  "name": "Wildlife Sanctuary (Flamingo Lagoon)",
+                  "text": "A bird-watching hide specifically positioned to view the flamingos in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        55.31231,
+                        25.192745
+                  ]
+            },
+            {
+                  "name": "Mercedes-Benz Off-Road Experience Center",
+                  "text": "A specialized driving track designed for testing luxury off-road vehicles on steep terrain.",
+                  "category": "park",
+                  "coords": [
+                        55.29633,
+                        25.19218
+                  ]
+            },
+            {
+                  "name": "Dubai Design District",
+                  "text": "A stylish district home to creative studios, high-end galleries, and international fashion houses.",
+                  "category": "landmark",
+                  "coords": [
+                        55.298142,
+                        25.189152
+                  ]
+            },
+            {
+                  "name": "BGBC Nad Al Sheba Gardens Villas",
+                  "text": "A luxury residential community featuring modern villas set amidst landscaped gardens in Nad Al Sheba.",
+                  "category": "historical",
+                  "coords": [
+                        55.322444,
+                        25.132284
+                  ]
+            },
+            {
+                  "name": "Auto Market Al Awir",
+                  "text": "A major regional hub for the sale and export of new and used motor vehicles.",
+                  "category": "cultural",
+                  "coords": [
+                        55.368807,
+                        25.171871
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-DU",
     coords: [55.31, 25.19],
@@ -483,7 +2931,124 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "jubail-mangrove-park-nature-v2",
+    id: "jubail-mangrove-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jubali Mangrove Park",
+                  "text": "Spazieren Sie über den 2,3 km langen schwimmenden Steg, um Schildkröten und Gazellen im türkisfarbenen Wasser zwischen den Bäumen zu entdecken.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485587,
+                        24.545364
+                  ]
+            },
+            {
+                  "name": "Saadiyat Beach Club",
+                  "text": "Entspannen Sie am atemberaubenden Infinity-Pool oder genießen Sie eine private Cabana mit Blick auf die natürlichen Dünen und den Golf.",
+                  "category": "recreational",
+                  "coords": [
+                        54.44995,
+                        24.558067
+                  ]
+            },
+            {
+                  "name": "Viewing Tower",
+                  "text": "Besteigen Sie den Turm im Jubail Mangrove Park für einen Panoramablick auf das gesamte Schutzgebiet und seine gewundenen Wasserwege.",
+                  "category": "natural",
+                  "coords": [
+                        54.489581,
+                        24.545221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jubali Mangrove Park",
+                  "text": "Sétáljon végig a 2,3 kilométeres lebegő pallósoron, hogy teknősöket és gazellákat lásson a fák közötti türkizkék vízben.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485587,
+                        24.545364
+                  ]
+            },
+            {
+                  "name": "Saadiyat Beach Club",
+                  "text": "Pihenjen a lenyűgöző feszített víztükrű medencénél, vagy élvezze a privát kabanát a homokdűnékre és az Arab-öbölre néző kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        54.44995,
+                        24.558067
+                  ]
+            },
+            {
+                  "name": "Viewing Tower",
+                  "text": "Másszon fel a Jubail Mangrove Park tornyába, ahonnan panorámás kilátás nyílik az egész természetvédelmi területre és kanyargós vízi útjaira.",
+                  "category": "natural",
+                  "coords": [
+                        54.489581,
+                        24.545221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jubali Mangrove Park",
+                  "text": "Plimbați-vă pe pasarela plutitoare de 2,3 kilometri pentru a observa țestoase și gazele în apele turcoaz dintre copaci.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485587,
+                        24.545364
+                  ]
+            },
+            {
+                  "name": "Saadiyat Beach Club",
+                  "text": "Relaxați-vă lângă piscina infinită uluitoare sau bucurați-vă de o cabană privată cu vedere la dunele naturale și la Golful Arabic.",
+                  "category": "recreational",
+                  "coords": [
+                        54.44995,
+                        24.558067
+                  ]
+            },
+            {
+                  "name": "Viewing Tower",
+                  "text": "Urcați în turnul din Jubail Mangrove Park pentru o vedere panoramică asupra întregii rezervații și a căilor sale navigabile șerpuite.",
+                  "category": "natural",
+                  "coords": [
+                        54.489581,
+                        24.545221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jubali Mangrove Park",
+                  "text": "Walk along the 2.3-kilometer floating boardwalk to spot turtles and gazelles in the turquoise tidal waters between the trees.",
+                  "category": "landmark",
+                  "coords": [
+                        54.485587,
+                        24.545364
+                  ]
+            },
+            {
+                  "name": "Saadiyat Beach Club",
+                  "text": "Relax by the stunning infinity pool or enjoy a private cabana with views of the natural dunes and the Arabian Gulf.",
+                  "category": "recreational",
+                  "coords": [
+                        54.44995,
+                        24.558067
+                  ]
+            },
+            {
+                  "name": "Viewing Tower",
+                  "text": "Climb the tower at Jubail Mangrove Park for a panoramic bird's-eye view of the entire sanctuary and its winding waterways.",
+                  "category": "natural",
+                  "coords": [
+                        54.489581,
+                        24.545221
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "AE-AZ",
     coords: [54.48, 24.52],
@@ -543,7 +3108,52 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "al-marmoom-desert-conservation-reserve-nature-v2",
+    id: "al-marmoom-desert-conservation-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Endurance Masjid",
+                  "text": "Eine muslimische Gebetsstätte inmitten des trockenen Sandes des Al Marmoom Desert Conservation Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        55.343935,
+                        24.849846
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Endurance Masjid",
+                  "text": "Muszlim imalétesítmény az Al Marmoom sivatagi természetvédelmi terület száraz homokdűnéi között.",
+                  "category": "landmark",
+                  "coords": [
+                        55.343935,
+                        24.849846
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Endurance Masjid",
+                  "text": "O facilitate de rugăciune musulmană situată în mijlocul nisipurilor aride din rezervația de conservare a deșertului Al Marmoom.",
+                  "category": "landmark",
+                  "coords": [
+                        55.343935,
+                        24.849846
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Endurance Masjid",
+                  "text": "A Muslim prayer facility located amidst the arid sands of the Al Marmoom Desert Conservation Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        55.343935,
+                        24.849846
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-DU",
     coords: [55.33, 24.83],
@@ -603,7 +3213,52 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "jebel-faya-nature-v2",
+    id: "jebel-faya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Al Fayah Reserve",
+                  "text": "Ein geschütztes Naturreservat, das die bergige Landschaft rund um den Jebel Faya umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        55.829439,
+                        25.092142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Al Fayah Reserve",
+                  "text": "Védett természetvédelmi terület, amely a Jebel Faya körüli hegyvidéki tájat foglalja magába.",
+                  "category": "natural",
+                  "coords": [
+                        55.829439,
+                        25.092142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Al Fayah Reserve",
+                  "text": "O rezervație naturală protejată care cuprinde peisajul muntos din jurul Jebel Faya.",
+                  "category": "natural",
+                  "coords": [
+                        55.829439,
+                        25.092142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Al Fayah Reserve",
+                  "text": "A protected nature reserve encompassing the mountainous landscape around Jebel Faya.",
+                  "category": "natural",
+                  "coords": [
+                        55.829439,
+                        25.092142
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AE-SH",
     coords: [55.82, 25.11],
@@ -663,7 +3318,520 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "kalba-conservation-reserve-nature-v2",
+    id: "kalba-conservation-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalba Art Centre",
+                  "text": "Ein kulturelles Zentrum in Kalba, das moderne Kunstwerke und Ausstellungen lokaler Künstler präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        56.361097,
+                        25.051682
+                  ]
+            },
+            {
+                  "name": "Wildlife observation",
+                  "text": "Ein Beobachtungspunkt im Naturschutzgebiet, von dem aus man seltene Vögel und andere lokale Tierarten sichten kann.",
+                  "category": "natural",
+                  "coords": [
+                        56.345245,
+                        24.991906
+                  ]
+            },
+            {
+                  "name": "Al Hafiya Lagoon",
+                  "text": "Eine malerische Lagune an der Küste von Kalba, die von dichten Mangrovenwäldern und reicher Vogelwelt umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        56.309731,
+                        24.99263
+                  ]
+            },
+            {
+                  "name": "Hanging Garden Kalba",
+                  "text": "Ein terrassenförmig angelegter Garten, der mit seinen hängenden Pflanzen und dem Blick auf die Berge zum Verweilen einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        56.299922,
+                        24.988708
+                  ]
+            },
+            {
+                  "name": "Al Ghayl Fort",
+                  "text": "Ein restauriertes Fort aus dem 19. Jahrhundert auf einem Hügel, das einst der Überwachung der Küstenlinie diente.",
+                  "category": "castle",
+                  "coords": [
+                        56.325261,
+                        25.0012
+                  ]
+            },
+            {
+                  "name": "Al Gheil",
+                  "text": "Ein Naturschutzgebiet in Sharjah, das seltene Wüstenpflanzen und eine vielfältige Tierwelt in einer Berglandschaft beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        56.337024,
+                        25.002411
+                  ]
+            },
+            {
+                  "name": "Turtle pond",
+                  "text": "Ein geschütztes Gewässer im Reservat, das speziell der Erhaltung und Beobachtung von Meeresschildkröten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        56.361745,
+                        25.012704
+                  ]
+            },
+            {
+                  "name": "Culture Centre",
+                  "text": "Ein Treffpunkt für Kunst und Kultur, der regelmäßig Veranstaltungen und Workshops für die lokale Gemeinschaft organisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        56.359712,
+                        25.06478
+                  ]
+            },
+            {
+                  "name": "Children's Zoo",
+                  "text": "Ein kleiner, lehrreicher Zoo, in dem Kinder die heimische Tierwelt der Arabischen Halbinsel hautnah erleben können.",
+                  "category": "recreational",
+                  "coords": [
+                        56.324472,
+                        25.002204
+                  ]
+            },
+            {
+                  "name": "Al Hefaiyah Mountain Conservation Centre",
+                  "text": "In diesem Naturschutzzentrum können Besucher über 30 Tierarten der Bergwelt erleben, darunter den Arabischen Wolf und den Klippschliefer.",
+                  "category": "recreational",
+                  "coords": [
+                        56.324839,
+                        24.993069
+                  ]
+            },
+            {
+                  "name": "Al Hefaiyah Reserve",
+                  "text": "Ein weitläufiges Schutzgebiet, das einen sicheren Lebensraum für die vielfältige Flora und Fauna des Hajar-Gebirges bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        56.325458,
+                        24.988058
+                  ]
+            },
+            {
+                  "name": "Animal Viewing",
+                  "text": "Ein strategisch günstig gelegener Punkt, um Gazellen und andere Huftiere in ihrer natürlichen Wüstenumgebung zu sichten.",
+                  "category": "natural",
+                  "coords": [
+                        56.323061,
+                        24.991857
+                  ]
+            },
+            {
+                  "name": "Alqurm Protected Area",
+                  "text": "Dieses Schutzgebiet beherbergt den größten Mangrovenwald von Sharjah und bietet einen Lebensraum für den gefährdeten Arabischen Halsbandeisvogel.",
+                  "category": "natural",
+                  "coords": [
+                        56.379162,
+                        25.00301
+                  ]
+            },
+            {
+                  "name": "Umar Ibn Al Khattab Mosque",
+                  "text": "Eine bedeutende Moschee in Kalba, die durch ihr beeindruckendes Minarett und ihre weite Gebetshalle auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        56.360231,
+                        25.041017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalba Art Centre",
+                  "text": "Kulturális központ Kalba városában, ahol helyi művészek kortárs alkotásait és kiállításait mutatják be.",
+                  "category": "cultural",
+                  "coords": [
+                        56.361097,
+                        25.051682
+                  ]
+            },
+            {
+                  "name": "Wildlife observation",
+                  "text": "Megfigyelőpont a természetvédelmi területen, ahonnan ritka madarak és más helyi vadon élő állatok láthatók.",
+                  "category": "natural",
+                  "coords": [
+                        56.345245,
+                        24.991906
+                  ]
+            },
+            {
+                  "name": "Al Hafiya Lagoon",
+                  "text": "Festői lagúna Kalba partjainál, amelyet sűrű mangroveerdők és gazdag madárvilág vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        56.309731,
+                        24.99263
+                  ]
+            },
+            {
+                  "name": "Hanging Garden Kalba",
+                  "text": "Függőnövényekkel és hegyi kilátással rendelkező teraszos kert, amely tökéletes egy pihentető sétához.",
+                  "category": "landmark",
+                  "coords": [
+                        56.299922,
+                        24.988708
+                  ]
+            },
+            {
+                  "name": "Al Ghayl Fort",
+                  "text": "Restaurált 19. századi dombtetőn álló erőd, amely egykor a partvonal felügyeletére szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        56.325261,
+                        25.0012
+                  ]
+            },
+            {
+                  "name": "Al Gheil",
+                  "text": "Természetvédelmi terület Sharjah-ban, amely ritka sivatagi növényeknek és változatos vadvilágnak ad otthont hegyvidéki környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        56.337024,
+                        25.002411
+                  ]
+            },
+            {
+                  "name": "Turtle pond",
+                  "text": "Védett vízfelület a rezervátumban, amelyet kifejezetten a tengeri teknősök védelmének és megfigyelésének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        56.361745,
+                        25.012704
+                  ]
+            },
+            {
+                  "name": "Culture Centre",
+                  "text": "Művészeti és kulturális központ, amely rendszeresen szervez eseményeket és workshopokat a helyi közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        56.359712,
+                        25.06478
+                  ]
+            },
+            {
+                  "name": "Children's Zoo",
+                  "text": "Kis oktatóállatkert, ahol a gyerekek közelebbről is megismerhetik az Arab-félsziget őshonos állatvilágát.",
+                  "category": "recreational",
+                  "coords": [
+                        56.324472,
+                        25.002204
+                  ]
+            },
+            {
+                  "name": "Al Hefaiyah Mountain Conservation Centre",
+                  "text": "Ebben a természetvédelmi központban a látogatók a hegyvidéki vadvilág több mint 30 faját ismerhetik meg, köztük az arab farkast és a szirtiborzot.",
+                  "category": "recreational",
+                  "coords": [
+                        56.324839,
+                        24.993069
+                  ]
+            },
+            {
+                  "name": "Al Hefaiyah Reserve",
+                  "text": "Nagy kiterjedésű védett terület, amely biztonságos élőhelyet nyújt a Hajar-hegység változatos növény- és állatvilágának.",
+                  "category": "recreational",
+                  "coords": [
+                        56.325458,
+                        24.988058
+                  ]
+            },
+            {
+                  "name": "Animal Viewing",
+                  "text": "Stratégiailag elhelyezett pont gazellák és más patások megfigyelésére természetes sivatagi környezetükben.",
+                  "category": "natural",
+                  "coords": [
+                        56.323061,
+                        24.991857
+                  ]
+            },
+            {
+                  "name": "Alqurm Protected Area",
+                  "text": "Ez a védett terület Sharjah legnagyobb mangroveerdejének ad otthont, és fontos élőhelyet biztosít a veszélyeztetett arab halciónnak.",
+                  "category": "natural",
+                  "coords": [
+                        56.379162,
+                        25.00301
+                  ]
+            },
+            {
+                  "name": "Umar Ibn Al Khattab Mosque",
+                  "text": "Kalba egyik jelentős mecsete, amely lenyűgöző minaretjéről és tágas imaterméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        56.360231,
+                        25.041017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalba Art Centre",
+                  "text": "Un centru cultural în Kalba care expune opere de artă contemporană și expoziții ale artiștilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        56.361097,
+                        25.051682
+                  ]
+            },
+            {
+                  "name": "Wildlife observation",
+                  "text": "Un punct de observație în rezervația de conservare de unde pot fi observate păsări rare și alte specii sălbatice locale.",
+                  "category": "natural",
+                  "coords": [
+                        56.345245,
+                        24.991906
+                  ]
+            },
+            {
+                  "name": "Al Hafiya Lagoon",
+                  "text": "O lagună pitorească pe coasta Kalba, înconjurată de păduri dense de mangrove și o bogată avifaună.",
+                  "category": "landmark",
+                  "coords": [
+                        56.309731,
+                        24.99263
+                  ]
+            },
+            {
+                  "name": "Hanging Garden Kalba",
+                  "text": "O grădină terasată cu plante suspendate și vedere la munte, perfectă pentru o plimbare relaxantă.",
+                  "category": "landmark",
+                  "coords": [
+                        56.299922,
+                        24.988708
+                  ]
+            },
+            {
+                  "name": "Al Ghayl Fort",
+                  "text": "Un fort restaurat din secolul al XIX-lea pe vârful unui deal, care servea odinioară la monitorizarea liniei de coastă.",
+                  "category": "castle",
+                  "coords": [
+                        56.325261,
+                        25.0012
+                  ]
+            },
+            {
+                  "name": "Al Gheil",
+                  "text": "O rezervație naturală în Sharjah care adăpostește plante rare de deșert și o faună diversă într-un cadru montan.",
+                  "category": "natural",
+                  "coords": [
+                        56.337024,
+                        25.002411
+                  ]
+            },
+            {
+                  "name": "Turtle pond",
+                  "text": "Un corp de apă protejat în rezervație, dedicat în mod special conservării și observării țestoaselor marine.",
+                  "category": "landmark",
+                  "coords": [
+                        56.361745,
+                        25.012704
+                  ]
+            },
+            {
+                  "name": "Culture Centre",
+                  "text": "Un centru pentru artă și cultură care organizează în mod regulat evenimente și ateliere pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        56.359712,
+                        25.06478
+                  ]
+            },
+            {
+                  "name": "Children's Zoo",
+                  "text": "O grădină zoologică mică și educațională unde copiii pot descoperi de aproape fauna sălbatică nativă din Peninsula Arabică.",
+                  "category": "recreational",
+                  "coords": [
+                        56.324472,
+                        25.002204
+                  ]
+            },
+            {
+                  "name": "Al Hefaiyah Mountain Conservation Centre",
+                  "text": "În acest centru de conservare, vizitatorii pot vedea peste 30 de specii de animale montane, inclusiv lupul arab și viezurele de stâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        56.324839,
+                        24.993069
+                  ]
+            },
+            {
+                  "name": "Al Hefaiyah Reserve",
+                  "text": "O zonă protejată vastă care oferă un habitat sigur pentru flora și fauna diversă din Munții Hajar.",
+                  "category": "recreational",
+                  "coords": [
+                        56.325458,
+                        24.988058
+                  ]
+            },
+            {
+                  "name": "Animal Viewing",
+                  "text": "Un loc situat strategic pentru observarea gazelelor și a altor ungulate în mediul lor natural de deșert.",
+                  "category": "natural",
+                  "coords": [
+                        56.323061,
+                        24.991857
+                  ]
+            },
+            {
+                  "name": "Alqurm Protected Area",
+                  "text": "Această arie protejată găzduiește cea mai mare pădure de mangrove din Sharjah și oferă un habitat vital pentru specia pe cale de dispariție a pescărușului albastru cu guler arab.",
+                  "category": "natural",
+                  "coords": [
+                        56.379162,
+                        25.00301
+                  ]
+            },
+            {
+                  "name": "Umar Ibn Al Khattab Mosque",
+                  "text": "O moschee semnificativă din Kalba, cunoscută pentru minaretul său impresionant și sala de rugăciune spațioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        56.360231,
+                        25.041017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalba Art Centre",
+                  "text": "A cultural hub in Kalba showcasing contemporary artworks and exhibitions by local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        56.361097,
+                        25.051682
+                  ]
+            },
+            {
+                  "name": "Wildlife observation",
+                  "text": "An observation point in the conservation reserve from which rare birds and other local wildlife can be spotted.",
+                  "category": "natural",
+                  "coords": [
+                        56.345245,
+                        24.991906
+                  ]
+            },
+            {
+                  "name": "Al Hafiya Lagoon",
+                  "text": "A picturesque lagoon on the Kalba coast surrounded by dense mangrove forests and rich birdlife.",
+                  "category": "landmark",
+                  "coords": [
+                        56.309731,
+                        24.99263
+                  ]
+            },
+            {
+                  "name": "Hanging Garden Kalba",
+                  "text": "A terraced garden featuring hanging plants and mountain views, perfect for a relaxing stroll.",
+                  "category": "landmark",
+                  "coords": [
+                        56.299922,
+                        24.988708
+                  ]
+            },
+            {
+                  "name": "Al Ghayl Fort",
+                  "text": "A restored 19th-century hilltop fort that once served to monitor the coastline.",
+                  "category": "castle",
+                  "coords": [
+                        56.325261,
+                        25.0012
+                  ]
+            },
+            {
+                  "name": "Al Gheil",
+                  "text": "A nature reserve in Sharjah that is home to rare desert plants and diverse wildlife in a mountainous setting.",
+                  "category": "natural",
+                  "coords": [
+                        56.337024,
+                        25.002411
+                  ]
+            },
+            {
+                  "name": "Turtle pond",
+                  "text": "A protected body of water in the reserve dedicated specifically to the conservation and observation of sea turtles.",
+                  "category": "landmark",
+                  "coords": [
+                        56.361745,
+                        25.012704
+                  ]
+            },
+            {
+                  "name": "Culture Centre",
+                  "text": "A hub for art and culture that regularly organizes events and workshops for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        56.359712,
+                        25.06478
+                  ]
+            },
+            {
+                  "name": "Children's Zoo",
+                  "text": "A small, educational zoo where children can experience the native wildlife of the Arabian Peninsula up close.",
+                  "category": "recreational",
+                  "coords": [
+                        56.324472,
+                        25.002204
+                  ]
+            },
+            {
+                  "name": "Al Hefaiyah Mountain Conservation Centre",
+                  "text": "This conservation centre allows visitors to see over 30 species of mountain wildlife, including the Arabian wolf and the rock hyrax.",
+                  "category": "recreational",
+                  "coords": [
+                        56.324839,
+                        24.993069
+                  ]
+            },
+            {
+                  "name": "Al Hefaiyah Reserve",
+                  "text": "A large protected area providing a safe habitat for the diverse flora and fauna of the Hajar Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        56.325458,
+                        24.988058
+                  ]
+            },
+            {
+                  "name": "Animal Viewing",
+                  "text": "A strategically located spot for spotting gazelles and other ungulates in their natural desert environment.",
+                  "category": "natural",
+                  "coords": [
+                        56.323061,
+                        24.991857
+                  ]
+            },
+            {
+                  "name": "Alqurm Protected Area",
+                  "text": "This protected area is home to Sharjah's largest mangrove forest and provides a habitat for the endangered Arabian Collared Kingfisher.",
+                  "category": "natural",
+                  "coords": [
+                        56.379162,
+                        25.00301
+                  ]
+            },
+            {
+                  "name": "Umar Ibn Al Khattab Mosque",
+                  "text": "A significant mosque in Kalba known for its impressive minaret and spacious prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        56.360231,
+                        25.041017
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-SH",
     coords: [56.36, 25.01],
@@ -723,7 +3891,160 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "wadi-shawka-nature-v2",
+    id: "wadi-shawka-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Al Ba'ud",
+                  "text": "Ein kahler Berggipfel mit Blick auf die saisonalen Wasserläufe und Wanderwege des Wadi Shawka.",
+                  "category": "natural",
+                  "coords": [
+                        56.063943,
+                        25.087169
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hinnah",
+                  "text": "Ein schroffer Berggipfel im nördlichen Hadschar-Gebirge, der bei lokalen Wanderern beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.0413,
+                        25.068854
+                  ]
+            },
+            {
+                  "name": "Jabal Sakhbiri",
+                  "text": "Ein scharfer Gebirgsgrat, der eine dramatische Kulisse für das Wüstental des Wadi Shawka bildet.",
+                  "category": "natural",
+                  "coords": [
+                        56.036909,
+                        25.105668
+                  ]
+            },
+            {
+                  "name": "Jabal Abu Al Hod",
+                  "text": "Ein Kalksteingipfel, der sich aus den Schotterebenen des nördlichen Hadschar-Gebirges bei Wadi Shawka erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        56.047492,
+                        25.052343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Al Ba'ud",
+                  "text": "Kopár hegycsúcs, amely a Wadi Shawka időszakos vízfolyásaira és túraútvonalaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        56.063943,
+                        25.087169
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hinnah",
+                  "text": "Az északi Al-Hadzsar-hegységre jellemző sziklás csúcs, amely népszerű a helyi túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        56.0413,
+                        25.068854
+                  ]
+            },
+            {
+                  "name": "Jabal Sakhbiri",
+                  "text": "Éles hegygerinc, amely drámai hátteret biztosít a Wadi Shawka sivatagi völgyének.",
+                  "category": "natural",
+                  "coords": [
+                        56.036909,
+                        25.105668
+                  ]
+            },
+            {
+                  "name": "Jabal Abu Al Hod",
+                  "text": "Mészkőcsúcs, amely az északi Al-Hadzsar-hegység kavicsos síkságaiból emelkedik ki a Wadi Shawka közelében.",
+                  "category": "natural",
+                  "coords": [
+                        56.047492,
+                        25.052343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Al Ba'ud",
+                  "text": "Un vârf muntos pleșuv care domină cursurile de apă sezoniere și traseele de drumeție din Wadi Shawka.",
+                  "category": "natural",
+                  "coords": [
+                        56.063943,
+                        25.087169
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hinnah",
+                  "text": "Un vârf accidentat, tipic pentru Munții Hajar de Nord, popular printre excursioniștii locali.",
+                  "category": "natural",
+                  "coords": [
+                        56.0413,
+                        25.068854
+                  ]
+            },
+            {
+                  "name": "Jabal Sakhbiri",
+                  "text": "O creastă montană ascuțită care oferär un fundal dramatic văii de deșert Wadi Shawka.",
+                  "category": "natural",
+                  "coords": [
+                        56.036909,
+                        25.105668
+                  ]
+            },
+            {
+                  "name": "Jabal Abu Al Hod",
+                  "text": "Un vârf de calcar care se înalță din câmpiile de pietriș ale Munților Hajar de Nord, lângă Wadi Shawka.",
+                  "category": "natural",
+                  "coords": [
+                        56.047492,
+                        25.052343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Al Ba'ud",
+                  "text": "A stark mountain peak overlooking the seasonal watercourses and hiking trails of Wadi Shawka.",
+                  "category": "natural",
+                  "coords": [
+                        56.063943,
+                        25.087169
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hinnah",
+                  "text": "A rugged peak typical of the arid northern Hajar Mountains, popular with local hikers.",
+                  "category": "natural",
+                  "coords": [
+                        56.0413,
+                        25.068854
+                  ]
+            },
+            {
+                  "name": "Jabal Sakhbiri",
+                  "text": "A sharp mountain ridge providing a dramatic backdrop to the desert valley of Wadi Shawka.",
+                  "category": "natural",
+                  "coords": [
+                        56.036909,
+                        25.105668
+                  ]
+            },
+            {
+                  "name": "Jabal Abu Al Hod",
+                  "text": "A limestone peak rising from the gravel plains of the northern Hajar Mountains near Wadi Shawka.",
+                  "category": "natural",
+                  "coords": [
+                        56.047492,
+                        25.052343
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AE-RK",
     coords: [56.03, 25.10],
@@ -783,7 +4104,88 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "love-lake-dubai-nature-v2",
+    id: "love-lake-dubai-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Qudra Lakes",
+                  "text": "Künstlich angelegte Wüstenseen, die als wichtiger Rückzugsort für Zugvögel wie Flamingos dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        55.369845,
+                        24.83667
+                  ]
+            },
+            {
+                  "name": "Love Lake",
+                  "text": "Zwei miteinander verbundene, herzförmige Seen in der Wüste, die am besten aus der Luft zu erkennen sind.",
+                  "category": "recreational",
+                  "coords": [
+                        55.405085,
+                        24.83816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Qudra Lakes",
+                  "text": "Mesterséges sivatagi tavak, amelyek fontos pihenőhelyként szolgálnak az olyan vándormadarak számára, mint a flamingók.",
+                  "category": "landmark",
+                  "coords": [
+                        55.369845,
+                        24.83667
+                  ]
+            },
+            {
+                  "name": "Love Lake",
+                  "text": "Két összekapcsolódó, szív alakú tó a sivatagban, amely leginkább a levegőből látható.",
+                  "category": "recreational",
+                  "coords": [
+                        55.405085,
+                        24.83816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Qudra Lakes",
+                  "text": "Lacuri de deșert create artificial, care servesc drept refugiu important pentru păsările migratoare, cum ar fi flamingo.",
+                  "category": "landmark",
+                  "coords": [
+                        55.369845,
+                        24.83667
+                  ]
+            },
+            {
+                  "name": "Love Lake",
+                  "text": "Două lacuri interconectate în formă de inimă în deșert, care pot fi admirate cel mai bine din aer.",
+                  "category": "recreational",
+                  "coords": [
+                        55.405085,
+                        24.83816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Qudra Lakes",
+                  "text": "Man-made desert lakes that serve as an important sanctuary for migratory birds like flamingos.",
+                  "category": "landmark",
+                  "coords": [
+                        55.369845,
+                        24.83667
+                  ]
+            },
+            {
+                  "name": "Love Lake",
+                  "text": "Two interconnected heart-shaped lakes in the desert, best viewed from the air.",
+                  "category": "recreational",
+                  "coords": [
+                        55.405085,
+                        24.83816
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AE-DU",
     coords: [55.39, 24.83],
@@ -843,7 +4245,268 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "al-zorah-nature-reserve-nature-v2",
+    id: "al-zorah-nature-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "UAE Pygmy Zoo",
+                  "text": "Ein familienfreundlicher Wildpark mit Zwergtierrassen und interaktiven Begegnungen.",
+                  "category": "landmark",
+                  "coords": [
+                        55.462447,
+                        25.427924
+                  ]
+            },
+            {
+                  "name": "Al Zorah Natural Reserve",
+                  "text": "Ein weites Küstenökosystem, das Heimat für rosa Flamingos und vielfältige Vogelarten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.487813,
+                        25.4328
+                  ]
+            },
+            {
+                  "name": "Al Safa Park",
+                  "text": "Eine grüne städtische Anlage mit gepflegten Rasenflächen und Spazierwegen nahe den Mangrovenwäldern.",
+                  "category": "landmark",
+                  "coords": [
+                        55.481717,
+                        25.418412
+                  ]
+            },
+            {
+                  "name": "Al-Zawraa Mangroves",
+                  "text": "Üppiger Wald aus grauen Mangroven, der mit dem Kajak in den Gezeitenlagunen erkundet werden kann.",
+                  "category": "natural",
+                  "coords": [
+                        55.484055,
+                        25.429387
+                  ]
+            },
+            {
+                  "name": "Saeed Al Raeesi Foodstuff Catering Services",
+                  "text": "Lokaler Lebensmittelmarkt, der traditionelle arabische Gewürze und Großhandelswaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.513837,
+                        25.434995
+                  ]
+            },
+            {
+                  "name": "Ganatel Foodstuff Trading",
+                  "text": "Ein geschäftiges Handelszentrum für regionale Lebensmittel und Trockenwaren nahe dem Naturschutzgebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.475864,
+                        25.413604
+                  ]
+            },
+            {
+                  "name": "Flour Mill & Grocery",
+                  "text": "Ein traditionelles Geschäft, das frisch gemahlenes Getreide und tägliche Bedarfsartikel für die Gemeinde anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.47624,
+                        25.411236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "UAE Pygmy Zoo",
+                  "text": "Családbarát vadaspark törpe állatfajtákkal és interaktív állatsimogatóval.",
+                  "category": "landmark",
+                  "coords": [
+                        55.462447,
+                        25.427924
+                  ]
+            },
+            {
+                  "name": "Al Zorah Natural Reserve",
+                  "text": "Hatalmas parti ökoszisztéma, amely rózsaszín flamingóknak és változatos madárfajoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        55.487813,
+                        25.4328
+                  ]
+            },
+            {
+                  "name": "Al Safa Park",
+                  "text": "Zöld városi park gondozott gyeppel és sétányokkal a mangroveerdők közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.481717,
+                        25.418412
+                  ]
+            },
+            {
+                  "name": "Al-Zawraa Mangroves",
+                  "text": "Szürke mangrovékból álló buja erdő, amely kajakkal járható be az árapály-lagúnákban.",
+                  "category": "natural",
+                  "coords": [
+                        55.484055,
+                        25.429387
+                  ]
+            },
+            {
+                  "name": "Saeed Al Raeesi Foodstuff Catering Services",
+                  "text": "Helyi élelmiszerpiac, ahol hagyományos arab fűszereket és nagykereskedelmi árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        55.513837,
+                        25.434995
+                  ]
+            },
+            {
+                  "name": "Ganatel Foodstuff Trading",
+                  "text": "Regionális élelmiszerek és szárazáruk nyüzsgő kereskedelmi központja a természetvédelmi terület mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        55.475864,
+                        25.413604
+                  ]
+            },
+            {
+                  "name": "Flour Mill & Grocery",
+                  "text": "Hagyományos üzlet, amely frissen őrölt gabonát és napi alapcikkeket kínál a lakosságnak.",
+                  "category": "cultural",
+                  "coords": [
+                        55.47624,
+                        25.411236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "UAE Pygmy Zoo",
+                  "text": "Un parc de animale sălbatice pentru familii, cu rase de animale pitice și interacțiuni directe.",
+                  "category": "landmark",
+                  "coords": [
+                        55.462447,
+                        25.427924
+                  ]
+            },
+            {
+                  "name": "Al Zorah Natural Reserve",
+                  "text": "Un vast ecosistem de coastă, casă pentru flamingo roz și diverse specii de păsări.",
+                  "category": "landmark",
+                  "coords": [
+                        55.487813,
+                        25.4328
+                  ]
+            },
+            {
+                  "name": "Al Safa Park",
+                  "text": "Un spațiu verde urban cu gazon îngrijit și alei de plimbare lângă pădurile de mangrove.",
+                  "category": "landmark",
+                  "coords": [
+                        55.481717,
+                        25.418412
+                  ]
+            },
+            {
+                  "name": "Al-Zawraa Mangroves",
+                  "text": "O pădure luxuriantă de mangrove cenușii, accesibilă cu caiacul în lagunele mareice.",
+                  "category": "natural",
+                  "coords": [
+                        55.484055,
+                        25.429387
+                  ]
+            },
+            {
+                  "name": "Saeed Al Raeesi Foodstuff Catering Services",
+                  "text": "O piață locală de alimente care oferă condimente arabe tradiționale și produse pentru catering.",
+                  "category": "cultural",
+                  "coords": [
+                        55.513837,
+                        25.434995
+                  ]
+            },
+            {
+                  "name": "Ganatel Foodstuff Trading",
+                  "text": "Un centru comercial agitat pentru produse alimentare regionale și mărfuri uscate lângă rezervația naturală.",
+                  "category": "cultural",
+                  "coords": [
+                        55.475864,
+                        25.413604
+                  ]
+            },
+            {
+                  "name": "Flour Mill & Grocery",
+                  "text": "Un magazin tradițional care oferă cereale proaspăt măcinate și produse esențiale zilnice pentru comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        55.47624,
+                        25.411236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "UAE Pygmy Zoo",
+                  "text": "A family-friendly wildlife park featuring miniature breeds and interactive animal encounters.",
+                  "category": "landmark",
+                  "coords": [
+                        55.462447,
+                        25.427924
+                  ]
+            },
+            {
+                  "name": "Al Zorah Natural Reserve",
+                  "text": "A vast coastal ecosystem home to pink flamingos and diverse bird species.",
+                  "category": "landmark",
+                  "coords": [
+                        55.487813,
+                        25.4328
+                  ]
+            },
+            {
+                  "name": "Al Safa Park",
+                  "text": "A green urban space with manicured lawns and walking paths near the mangrove forests.",
+                  "category": "landmark",
+                  "coords": [
+                        55.481717,
+                        25.418412
+                  ]
+            },
+            {
+                  "name": "Al-Zawraa Mangroves",
+                  "text": "A lush forest of grey mangroves accessible by kayak in the tidal lagoons.",
+                  "category": "natural",
+                  "coords": [
+                        55.484055,
+                        25.429387
+                  ]
+            },
+            {
+                  "name": "Saeed Al Raeesi Foodstuff Catering Services",
+                  "text": "A local food market offering traditional Arabian spices and bulk catering goods.",
+                  "category": "cultural",
+                  "coords": [
+                        55.513837,
+                        25.434995
+                  ]
+            },
+            {
+                  "name": "Ganatel Foodstuff Trading",
+                  "text": "A bustling trade hub for regional food products and dry goods near the nature reserve.",
+                  "category": "cultural",
+                  "coords": [
+                        55.475864,
+                        25.413604
+                  ]
+            },
+            {
+                  "name": "Flour Mill & Grocery",
+                  "text": "A traditional shop providing freshly ground grains and daily essentials to the community.",
+                  "category": "cultural",
+                  "coords": [
+                        55.47624,
+                        25.411236
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-AJ",
     coords: [55.46, 25.43],
@@ -903,7 +4566,592 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "wasit-wetland-centre-nature-v2",
+    id: "wasit-wetland-centre-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lucky Roundabout",
+                  "text": "Ein markanter Kreisverkehr in Sharjah, der oft als lokaler Orientierungspunkt genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        55.476777,
+                        25.375698
+                  ]
+            },
+            {
+                  "name": "unisat drinks",
+                  "text": "Ein beliebter lokaler Erfrischungsstopp, bekannt für seine große Auswahl an Getränken.",
+                  "category": "landmark",
+                  "coords": [
+                        55.473013,
+                        25.37823
+                  ]
+            },
+            {
+                  "name": "Geyan ajman ko room",
+                  "text": "Eine lokale Attraktion in der Nähe des Wasit-Feuchtgebiets, die Einblicke in die regionale Kultur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.463612,
+                        25.384084
+                  ]
+            },
+            {
+                  "name": "Sharjah Shooting Club",
+                  "text": "Eine erstklassige Sportanlage, die professionelles Wurfscheibenschießen und moderne Innenschießstände bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.485045,
+                        25.356327
+                  ]
+            },
+            {
+                  "name": "Al Zahia Theatre & Art Centre",
+                  "text": "Ein modernes Kulturzentrum, das Theateraufführungen und wechselnde Kunstausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        55.455438,
+                        25.316686
+                  ]
+            },
+            {
+                  "name": "Magic Planet",
+                  "text": "Ein familienfreundliches Freizeitzentrum mit Arcade-Spielen und verschiedenen Fahrgeschäften im Innenbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        55.454648,
+                        25.315212
+                  ]
+            },
+            {
+                  "name": "Wasit Nature Reserve",
+                  "text": "Ein geschütztes Feuchtgebiet, das als wichtiger Lebensraum für zahlreiche Zugvogelarten dient.",
+                  "category": "natural",
+                  "coords": [
+                        55.468102,
+                        25.363921
+                  ]
+            },
+            {
+                  "name": "Umm Ayman Masjid",
+                  "text": "Eine moderne Stadtmoschee, die einen friedlichen Raum für das tägliche Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        55.456049,
+                        25.309546
+                  ]
+            },
+            {
+                  "name": "A/c maintenance shop",
+                  "text": "Ein kleiner Gebetsraum (Musalla) inmitten eines lokalen Gewerbegebiets für Arbeiter und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        55.449291,
+                        25.312007
+                  ]
+            },
+            {
+                  "name": "Harfan mosque",
+                  "text": "Diese Moschee ist ein zentraler spiritueller Ort für die Bewohner der umliegenden Wohngebiete.",
+                  "category": "landmark",
+                  "coords": [
+                        55.477707,
+                        25.37472
+                  ]
+            },
+            {
+                  "name": "Alsaliheen Mosque",
+                  "text": "Eine schlicht gestaltete Moschee, die für ihre einladende Atmosphäre und Gemeinschaftsaktivitäten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.466892,
+                        25.341824
+                  ]
+            },
+            {
+                  "name": "Mahmoud Ibn Alrabe'i Mosque",
+                  "text": "Ein lokales muslimisches Gotteshaus, das sich durch seine moderne Architektur und Minarette auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.461545,
+                        25.356253
+                  ]
+            },
+            {
+                  "name": "Al Hamidiyah Mosque",
+                  "text": "Diese Moschee bietet eine ruhige Umgebung für die spirituelle Besinnung abseits der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.532647,
+                        25.395933
+                  ]
+            },
+            {
+                  "name": "Masjid Al Tilawah",
+                  "text": "Ein bedeutendes religiöses Zentrum, das sich auf die Vermittlung und Rezitation des Korans konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.466874,
+                        25.320634
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abi Motei",
+                  "text": "Eine aktive Gemeindemoschee, die als wichtiger Stützpunkt für den Glauben im Viertel fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.4502,
+                        25.327708
+                  ]
+            },
+            {
+                  "name": "Souq Al Haraj for Cars",
+                  "text": "Ein großer, belebter Fahrzeugmarkt, der als bedeutendes Handelszentrum für Autos in der Region bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        55.478894,
+                        25.346892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lucky Roundabout",
+                  "text": "Jellegzetes körforgalom Sharjah-ban, amelyet gyakran használnak helyi tájékozódási pontként.",
+                  "category": "landmark",
+                  "coords": [
+                        55.476777,
+                        25.375698
+                  ]
+            },
+            {
+                  "name": "unisat drinks",
+                  "text": "Népszerű helyi frissítőpont, amely italválasztékáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.473013,
+                        25.37823
+                  ]
+            },
+            {
+                  "name": "Geyan ajman ko room",
+                  "text": "Helyi látnivaló a Wasit-mocsár közelében, amely betekintést nyújt a regionális kultúrába.",
+                  "category": "landmark",
+                  "coords": [
+                        55.463612,
+                        25.384084
+                  ]
+            },
+            {
+                  "name": "Sharjah Shooting Club",
+                  "text": "Kiváló sportlétesítmény, amely professzionális koronglövészetet és modern fedett lőtereket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        55.485045,
+                        25.356327
+                  ]
+            },
+            {
+                  "name": "Al Zahia Theatre & Art Centre",
+                  "text": "Modern kulturális központ, amely színházi előadásoknak és időszaki művészeti kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        55.455438,
+                        25.316686
+                  ]
+            },
+            {
+                  "name": "Magic Planet",
+                  "text": "Családbarát szórakoztató központ játéktermi gépekkel és különféle fedett körhintákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        55.454648,
+                        25.315212
+                  ]
+            },
+            {
+                  "name": "Wasit Nature Reserve",
+                  "text": "Védett mocsaras terület, amely számos vándormadárfaj számára nyújt létfontosságú élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        55.468102,
+                        25.363921
+                  ]
+            },
+            {
+                  "name": "Umm Ayman Masjid",
+                  "text": "Modern városi mecset, amely nyugodt teret biztosít a napi imádságokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        55.456049,
+                        25.309546
+                  ]
+            },
+            {
+                  "name": "A/c maintenance shop",
+                  "text": "Kisméretű imaterem (musalla) egy helyi ipari területen belül a munkások és látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        55.449291,
+                        25.312007
+                  ]
+            },
+            {
+                  "name": "Harfan mosque",
+                  "text": "Ez a mecset központi spirituális helyszín a környező lakónegyedek lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        55.477707,
+                        25.37472
+                  ]
+            },
+            {
+                  "name": "Alsaliheen Mosque",
+                  "text": "Egyszerű kialakítású mecset, amely vendégszerető légköréről és közösségi tevékenységeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.466892,
+                        25.341824
+                  ]
+            },
+            {
+                  "name": "Mahmoud Ibn Alrabe'i Mosque",
+                  "text": "Helyi muszlim imaház, amelyet modern építészete és minaretjei jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.461545,
+                        25.356253
+                  ]
+            },
+            {
+                  "name": "Al Hamidiyah Mosque",
+                  "text": "Ez a mecset nyugodt környezetet biztosít a lelki elmélyüléshez a várostól távol.",
+                  "category": "landmark",
+                  "coords": [
+                        55.532647,
+                        25.395933
+                  ]
+            },
+            {
+                  "name": "Masjid Al Tilawah",
+                  "text": "Jelentős vallási központ, amely a Korán tanítására és recitálására összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        55.466874,
+                        25.320634
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abi Motei",
+                  "text": "Aktív közösségi mecset, amely a hitélet fontos bázisaként működik a negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        55.4502,
+                        25.327708
+                  ]
+            },
+            {
+                  "name": "Souq Al Haraj for Cars",
+                  "text": "Egy hatalmas, nyüzsgő járműpiac, amely a régió egyik legfontosabb autókereskedelmi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        55.478894,
+                        25.346892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lucky Roundabout",
+                  "text": "Un sens giratoriu proeminent din Sharjah, folosit adesea ca punct de reper local pentru navigație.",
+                  "category": "landmark",
+                  "coords": [
+                        55.476777,
+                        25.375698
+                  ]
+            },
+            {
+                  "name": "unisat drinks",
+                  "text": "O oprire populară locală pentru răcoritoare, cunoscută pentru selecția sa variată de băuturi.",
+                  "category": "landmark",
+                  "coords": [
+                        55.473013,
+                        25.37823
+                  ]
+            },
+            {
+                  "name": "Geyan ajman ko room",
+                  "text": "O atracție locală lângă mlaștina Wasit, care oferă perspective asupra culturii regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        55.463612,
+                        25.384084
+                  ]
+            },
+            {
+                  "name": "Sharjah Shooting Club",
+                  "text": "O facilitate sportivă de top care oferă tir sportiv și poligoane de tragere interioare moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        55.485045,
+                        25.356327
+                  ]
+            },
+            {
+                  "name": "Al Zahia Theatre & Art Centre",
+                  "text": "Un centru cultural modern care găzduiește spectacole de teatru și expoziții de artă rotative.",
+                  "category": "cultural",
+                  "coords": [
+                        55.455438,
+                        25.316686
+                  ]
+            },
+            {
+                  "name": "Magic Planet",
+                  "text": "Un centru de divertisment pentru familii cu jocuri arcade și diverse atracții interioare.",
+                  "category": "recreational",
+                  "coords": [
+                        55.454648,
+                        25.315212
+                  ]
+            },
+            {
+                  "name": "Wasit Nature Reserve",
+                  "text": "O zonă umedă protejată care servește ca habitat vital pentru numeroase specii de păsări migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        55.468102,
+                        25.363921
+                  ]
+            },
+            {
+                  "name": "Umm Ayman Masjid",
+                  "text": "O moschee urbană modernă care oferă un spațiu liniștit pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        55.456049,
+                        25.309546
+                  ]
+            },
+            {
+                  "name": "A/c maintenance shop",
+                  "text": "O mică sală de rugăciune (musalla) situată într-o zonă comercială locală pentru lucrători și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        55.449291,
+                        25.312007
+                  ]
+            },
+            {
+                  "name": "Harfan mosque",
+                  "text": "Această moschee este un loc spiritual central pentru rezidenții din zonele rezidențiale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        55.477707,
+                        25.37472
+                  ]
+            },
+            {
+                  "name": "Alsaliheen Mosque",
+                  "text": "O moschee cu design simplu, cunoscută pentru atmosfera sa primitoare și activitățile comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        55.466892,
+                        25.341824
+                  ]
+            },
+            {
+                  "name": "Mahmoud Ibn Alrabe'i Mosque",
+                  "text": "Un lăcaș de cult musulman local, caracterizat prin arhitectura sa modernă și minarete.",
+                  "category": "landmark",
+                  "coords": [
+                        55.461545,
+                        25.356253
+                  ]
+            },
+            {
+                  "name": "Al Hamidiyah Mosque",
+                  "text": "Această moschee oferă un mediu liniștit pentru reflecție spirituală, departe de oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        55.532647,
+                        25.395933
+                  ]
+            },
+            {
+                  "name": "Masjid Al Tilawah",
+                  "text": "Un centru religios important care se concentrează pe predarea și recitarea Coranului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.466874,
+                        25.320634
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abi Motei",
+                  "text": "O moschee comunitară activă care funcționează ca o bază importantă pentru credință în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        55.4502,
+                        25.327708
+                  ]
+            },
+            {
+                  "name": "Souq Al Haraj for Cars",
+                  "text": "O piață de vehicule mare și animată, cunoscută ca un hub major pentru comerțul cu mașini din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        55.478894,
+                        25.346892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lucky Roundabout",
+                  "text": "A prominent traffic circle in Sharjah often used as a local navigational landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        55.476777,
+                        25.375698
+                  ]
+            },
+            {
+                  "name": "unisat drinks",
+                  "text": "A popular local refreshment stop known for its wide selection of beverages.",
+                  "category": "landmark",
+                  "coords": [
+                        55.473013,
+                        25.37823
+                  ]
+            },
+            {
+                  "name": "Geyan ajman ko room",
+                  "text": "A local attraction near the Wasit wetlands offering insights into regional culture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.463612,
+                        25.384084
+                  ]
+            },
+            {
+                  "name": "Sharjah Shooting Club",
+                  "text": "A premier sports facility offering professional clay shooting and modern indoor ranges.",
+                  "category": "landmark",
+                  "coords": [
+                        55.485045,
+                        25.356327
+                  ]
+            },
+            {
+                  "name": "Al Zahia Theatre & Art Centre",
+                  "text": "A modern cultural center hosting theatrical performances and rotating art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        55.455438,
+                        25.316686
+                  ]
+            },
+            {
+                  "name": "Magic Planet",
+                  "text": "A family-friendly entertainment center featuring arcade games and various indoor rides.",
+                  "category": "recreational",
+                  "coords": [
+                        55.454648,
+                        25.315212
+                  ]
+            },
+            {
+                  "name": "Wasit Nature Reserve",
+                  "text": "A protected wetland area that serves as a vital habitat for numerous migratory bird species.",
+                  "category": "natural",
+                  "coords": [
+                        55.468102,
+                        25.363921
+                  ]
+            },
+            {
+                  "name": "Umm Ayman Masjid",
+                  "text": "A modern urban mosque providing a peaceful space for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        55.456049,
+                        25.309546
+                  ]
+            },
+            {
+                  "name": "A/c maintenance shop",
+                  "text": "A small prayer room (musalla) located within a local commercial area for workers and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        55.449291,
+                        25.312007
+                  ]
+            },
+            {
+                  "name": "Harfan mosque",
+                  "text": "This mosque is a central spiritual site for residents of the surrounding residential areas.",
+                  "category": "landmark",
+                  "coords": [
+                        55.477707,
+                        25.37472
+                  ]
+            },
+            {
+                  "name": "Alsaliheen Mosque",
+                  "text": "A simply designed mosque known for its welcoming atmosphere and community activities.",
+                  "category": "landmark",
+                  "coords": [
+                        55.466892,
+                        25.341824
+                  ]
+            },
+            {
+                  "name": "Mahmoud Ibn Alrabe'i Mosque",
+                  "text": "A local Muslim place of worship characterized by its modern architecture and minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        55.461545,
+                        25.356253
+                  ]
+            },
+            {
+                  "name": "Al Hamidiyah Mosque",
+                  "text": "This mosque provides a serene environment for spiritual reflection away from the city.",
+                  "category": "landmark",
+                  "coords": [
+                        55.532647,
+                        25.395933
+                  ]
+            },
+            {
+                  "name": "Masjid Al Tilawah",
+                  "text": "A significant religious center focused on the teaching and recitation of the Quran.",
+                  "category": "landmark",
+                  "coords": [
+                        55.466874,
+                        25.320634
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abi Motei",
+                  "text": "An active community mosque that functions as an important pillar for faith in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        55.4502,
+                        25.327708
+                  ]
+            },
+            {
+                  "name": "Souq Al Haraj for Cars",
+                  "text": "A large, bustling vehicle marketplace known as a major trade hub for cars in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        55.478894,
+                        25.346892
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-SH",
     coords: [55.47, 25.36],
@@ -963,7 +5211,160 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "wadi-bih-nature-v2",
+    id: "wadi-bih-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Bahar",
+                  "text": "Ein schroffer Kalksteingipfel im Hadschar-Gebirge, der das zerklüftete Gelände des Wadi Bih überragt.",
+                  "category": "natural",
+                  "coords": [
+                        56.181628,
+                        25.75632
+                  ]
+            },
+            {
+                  "name": "Jabal Qada'ah (major)",
+                  "text": "Ein markanter Berg in der Ru'us al-Jibal-Kette, der weite Ausblicke über die kargen Gipfel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.142129,
+                        25.777986
+                  ]
+            },
+            {
+                  "name": "Jabal Hebs",
+                  "text": "Ein hoher Berggipfel im Hadschar-Massiv, der für seine steilen Felswände und kargen Pfade bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.139792,
+                        25.800394
+                  ]
+            },
+            {
+                  "name": "Jabal Tafif",
+                  "text": "Ein abgelegener Gipfel in den Bergen von Ras Al Khaimah, der für anspruchsvolles Bergwandern geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        56.169221,
+                        25.72786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Bahar",
+                  "text": "A Hadzsar-hegység egyik sziklás mészkőcsúcsa, amely a Wadi Bih vidékére néz.",
+                  "category": "natural",
+                  "coords": [
+                        56.181628,
+                        25.75632
+                  ]
+            },
+            {
+                  "name": "Jabal Qada'ah (major)",
+                  "text": "A Ru'us al-Jibal-hegység egyik kiemelkedő csúcsa, ahonnan panoráma nyílik a kopár vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        56.142129,
+                        25.777986
+                  ]
+            },
+            {
+                  "name": "Jabal Hebs",
+                  "text": "A Hadzsar-masszívum egyik magas csúcsa, amely meredek sziklafalairól és kopár ösvényeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        56.139792,
+                        25.800394
+                  ]
+            },
+            {
+                  "name": "Jabal Tafif",
+                  "text": "Ras Al Khaimah hegységének egy távoli csúcsa, amely a kihívást jelentő hegyi túrázásról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        56.169221,
+                        25.72786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Bahar",
+                  "text": "Un vârf muntos calcaros din Munții Hajar, care domină terenul accidentat din Wadi Bih.",
+                  "category": "natural",
+                  "coords": [
+                        56.181628,
+                        25.75632
+                  ]
+            },
+            {
+                  "name": "Jabal Qada'ah (major)",
+                  "text": "Un vârf proeminent din lanțul Ru'us al-Jibal, oferind vederi largi peste crestele aride.",
+                  "category": "natural",
+                  "coords": [
+                        56.142129,
+                        25.777986
+                  ]
+            },
+            {
+                  "name": "Jabal Hebs",
+                  "text": "Un vârf muntos înalt din masivul Hajar, cunoscut pentru pereții săi stâncoși și potecile aride.",
+                  "category": "natural",
+                  "coords": [
+                        56.139792,
+                        25.800394
+                  ]
+            },
+            {
+                  "name": "Jabal Tafif",
+                  "text": "Un vârf izolat din munții Ras Al Khaimah, apreciat pentru drumețiile montane solicitante.",
+                  "category": "natural",
+                  "coords": [
+                        56.169221,
+                        25.72786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Bahar",
+                  "text": "A rugged limestone peak in the Hajar Mountains overlooking the fractured terrain of Wadi Bih.",
+                  "category": "natural",
+                  "coords": [
+                        56.181628,
+                        25.75632
+                  ]
+            },
+            {
+                  "name": "Jabal Qada'ah (major)",
+                  "text": "A prominent mountain in the Ru'us al-Jibal range, offering expansive views over the arid peaks.",
+                  "category": "natural",
+                  "coords": [
+                        56.142129,
+                        25.777986
+                  ]
+            },
+            {
+                  "name": "Jabal Hebs",
+                  "text": "A high mountain peak in the Hajar massif, known for its steep rock faces and arid trails.",
+                  "category": "natural",
+                  "coords": [
+                        56.139792,
+                        25.800394
+                  ]
+            },
+            {
+                  "name": "Jabal Tafif",
+                  "text": "A remote peak in the Ras Al Khaimah mountains, noted for challenging mountain trekking.",
+                  "category": "natural",
+                  "coords": [
+                        56.169221,
+                        25.72786
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AE-RK",
     coords: [56.12, 25.80],
@@ -1023,7 +5424,304 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "jebel-yibir-nature-v2",
+    id: "jebel-yibir-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Shariya",
+                  "text": "Ein abgelegener Gipfel im Jebel-Yibir-Massiv, der die karge und trockene Gebirgslandschaft der Hadschar-Region prägt.",
+                  "category": "natural",
+                  "coords": [
+                        56.175683,
+                        25.600571
+                  ]
+            },
+            {
+                  "name": "Jabal Ayuzah",
+                  "text": "Ein hoher Bergkamm in den nördlichen VAE, bekannt für seine weiten Panoramen über die Wüstenberge.",
+                  "category": "natural",
+                  "coords": [
+                        56.195123,
+                        25.619263
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hamri",
+                  "text": "Ein kahler Berggipfel in der Nähe von Jebel Yibir, der oft als Ziel für anspruchsvolle Geländewagentouren dient.",
+                  "category": "natural",
+                  "coords": [
+                        56.154668,
+                        25.575894
+                  ]
+            },
+            {
+                  "name": "Site 28 - Modern farm where bronze coins were found",
+                  "text": "Eine moderne Farm bei Jebel Yibir, auf deren Gelände historische Bronzemünzen entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        56.141298,
+                        25.586978
+                  ]
+            },
+            {
+                  "name": "Site 11 - Isolated stone cairn",
+                  "text": "Eine archäologische Stätte bei Jebel Yibir, die durch einen isoliert stehenden Steinhaufen (Cairn) markiert wird.",
+                  "category": "historical",
+                  "coords": [
+                        56.130755,
+                        25.588783
+                  ]
+            },
+            {
+                  "name": "Site 31 - Habitation - Recently abandoned houses",
+                  "text": "Diese Ausgrabungsstätte umfasst eine Gruppe erst vor kurzer Zeit verlassener Häuser in der Jebel-Yibir-Region.",
+                  "category": "historical",
+                  "coords": [
+                        56.134245,
+                        25.592752
+                  ]
+            },
+            {
+                  "name": "Jabal As Sudah",
+                  "text": "Ein markanter Gipfel im Hadschar-Gebirge, der weite Ausblicke über die zerklüftete Wüstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.143995,
+                        25.553086
+                  ]
+            },
+            {
+                  "name": "Jabal Mubraḩah",
+                  "text": "Dieser Gipfel im Hadschar-Gebirge gehört zu den höchsten Erhebungen an der Grenze zwischen den VAE und Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.127862,
+                        25.551511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Shariya",
+                  "text": "A Jebel Yibir-masszívum egyik távoli csúcsa, amely a Hadzsar-régió kopár és száraz hegyi táját jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        56.175683,
+                        25.600571
+                  ]
+            },
+            {
+                  "name": "Jabal Ayuzah",
+                  "text": "Magas hegygerinc az Egyesült Arab Emírségek északi részén, amely a sivatagi hegyekre nyíló széles panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        56.195123,
+                        25.619263
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hamri",
+                  "text": "Kopár hegycsúcs a Jebel Yibir közelében, amely gyakran célpontja a kihívást jelentő terepjárós túráknak.",
+                  "category": "natural",
+                  "coords": [
+                        56.154668,
+                        25.575894
+                  ]
+            },
+            {
+                  "name": "Site 28 - Modern farm where bronze coins were found",
+                  "text": "Modern gazdaság Jebel Yibir közelében, amelynek területén történelmi bronzérméket találtak.",
+                  "category": "historical",
+                  "coords": [
+                        56.141298,
+                        25.586978
+                  ]
+            },
+            {
+                  "name": "Site 11 - Isolated stone cairn",
+                  "text": "Régészeti lelőhely Jebel Yibirnél, amelyet egy magányosan álló kőhalom (cairn) jelöl.",
+                  "category": "historical",
+                  "coords": [
+                        56.130755,
+                        25.588783
+                  ]
+            },
+            {
+                  "name": "Site 31 - Habitation - Recently abandoned houses",
+                  "text": "Ez a régészeti helyszín nemrégiben elhagyott házak csoportját foglalja magában a Jebel Yibir régióban.",
+                  "category": "historical",
+                  "coords": [
+                        56.134245,
+                        25.592752
+                  ]
+            },
+            {
+                  "name": "Jabal As Sudah",
+                  "text": "A Hádzsar-hegység egyik jellegzetes csúcsa, amely tágas kilátást nyújt a sivatagi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        56.143995,
+                        25.553086
+                  ]
+            },
+            {
+                  "name": "Jabal Mubraḩah",
+                  "text": "A Hádzsar-hegység ezen csúcsa az Egyesült Arab Emírségek és Omán határvidékének egyik legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        56.127862,
+                        25.551511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Shariya",
+                  "text": "Un vârf izolat în masivul Jebel Yibir, definind peisajul montan arid și sterp al regiunii Hajar.",
+                  "category": "natural",
+                  "coords": [
+                        56.175683,
+                        25.600571
+                  ]
+            },
+            {
+                  "name": "Jabal Ayuzah",
+                  "text": "O creastă muntoasă înaltă din nordul EAU, cunoscută pentru panoramele largi asupra munților deșertici.",
+                  "category": "natural",
+                  "coords": [
+                        56.195123,
+                        25.619263
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hamri",
+                  "text": "Un vârf muntos golaș lângă Jebel Yibir, adesea destinație pentru tururi solicitante cu vehicule de teren.",
+                  "category": "natural",
+                  "coords": [
+                        56.154668,
+                        25.575894
+                  ]
+            },
+            {
+                  "name": "Site 28 - Modern farm where bronze coins were found",
+                  "text": "O fermă modernă lângă Jebel Yibir, pe terenul căreia au fost descoperite monede antice de bronz.",
+                  "category": "historical",
+                  "coords": [
+                        56.141298,
+                        25.586978
+                  ]
+            },
+            {
+                  "name": "Site 11 - Isolated stone cairn",
+                  "text": "Un sit arheologic lângă Jebel Yibir, marcat de un mormânt izolat de piatră de tip cairn.",
+                  "category": "historical",
+                  "coords": [
+                        56.130755,
+                        25.588783
+                  ]
+            },
+            {
+                  "name": "Site 31 - Habitation - Recently abandoned houses",
+                  "text": "Acest sit arheologic cuprinde un grup de case abandonate recent în regiunea Jebel Yibir.",
+                  "category": "historical",
+                  "coords": [
+                        56.134245,
+                        25.592752
+                  ]
+            },
+            {
+                  "name": "Jabal As Sudah",
+                  "text": "Un vârf proeminent în Munții Hajar, oferind vederi largi asupra peisajului muntos deșertic.",
+                  "category": "natural",
+                  "coords": [
+                        56.143995,
+                        25.553086
+                  ]
+            },
+            {
+                  "name": "Jabal Mubraḩah",
+                  "text": "Acest vârf din Munții Hajar este unul dintre cele mai înalte puncte de la granița dintre EAU și Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.127862,
+                        25.551511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Shariya",
+                  "text": "A remote summit in the Jebel Yibir massif, characterizing the barren and arid mountain landscape of the Hajar region.",
+                  "category": "natural",
+                  "coords": [
+                        56.175683,
+                        25.600571
+                  ]
+            },
+            {
+                  "name": "Jabal Ayuzah",
+                  "text": "A high mountain ridge in the northern UAE, known for its wide panoramas over the desert mountains.",
+                  "category": "natural",
+                  "coords": [
+                        56.195123,
+                        25.619263
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hamri",
+                  "text": "A bare mountain peak near Jebel Yibir, often used as a destination for challenging off-road driving tours.",
+                  "category": "natural",
+                  "coords": [
+                        56.154668,
+                        25.575894
+                  ]
+            },
+            {
+                  "name": "Site 28 - Modern farm where bronze coins were found",
+                  "text": "A modern farm near Jebel Yibir where historical bronze coins were discovered on-site.",
+                  "category": "historical",
+                  "coords": [
+                        56.141298,
+                        25.586978
+                  ]
+            },
+            {
+                  "name": "Site 11 - Isolated stone cairn",
+                  "text": "An archaeological site near Jebel Yibir marked by an isolated stone cairn.",
+                  "category": "historical",
+                  "coords": [
+                        56.130755,
+                        25.588783
+                  ]
+            },
+            {
+                  "name": "Site 31 - Habitation - Recently abandoned houses",
+                  "text": "This archaeological site features a cluster of recently abandoned houses in the Jebel Yibir region.",
+                  "category": "historical",
+                  "coords": [
+                        56.134245,
+                        25.592752
+                  ]
+            },
+            {
+                  "name": "Jabal As Sudah",
+                  "text": "A prominent peak in the Hajar Mountains offering expansive views over the rugged desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        56.143995,
+                        25.553086
+                  ]
+            },
+            {
+                  "name": "Jabal Mubrahah",
+                  "text": "This peak in the Hajar Mountains is one of the highest elevations on the UAE-Oman border region.",
+                  "category": "natural",
+                  "coords": [
+                        56.127862,
+                        25.551511
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AE-RK",
     coords: [56.13, 25.64],
@@ -1083,7 +5781,52 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "al-wathba-salt-lake-nature-v2",
+    id: "al-wathba-salt-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fossil Dunes",
+                  "text": "Faszinierende, vom Wind geformte fossile Sanddünen, die über Jahrtausende zu bizarren Formationen erstarrten.",
+                  "category": "landmark",
+                  "coords": [
+                        54.579574,
+                        24.171272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fossil Dunes",
+                  "text": "Lenyűgöző, szélfútta fosszilis homokdűnék, amelyek évezredek alatt különleges alakzatokká kövültek.",
+                  "category": "landmark",
+                  "coords": [
+                        54.579574,
+                        24.171272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fossil Dunes",
+                  "text": "Dune de nisip fosilizate fascinante, modelate de vânt în formațiuni bizare de-a lungul mileniilor.",
+                  "category": "landmark",
+                  "coords": [
+                        54.579574,
+                        24.171272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fossil Dunes",
+                  "text": "Fascinating wind-sculpted fossil dunes that hardened into unique formations over thousands of years.",
+                  "category": "landmark",
+                  "coords": [
+                        54.579574,
+                        24.171272
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AE-AZ",
     coords: [54.55, 24.15],
@@ -1143,7 +5886,232 @@ export const poiExtraUaeNatureV2: POI[] = [
     },
   },
   {
-    id: "mushrif-national-park-nature-v2",
+    id: "mushrif-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Game Street Dubai",
+                  "text": "Ein spezielles Gaming-Ziel in Al Khawaneej mit einer Vielzahl von digitalen und interaktiven Unterhaltungsangeboten.",
+                  "category": "landmark",
+                  "coords": [
+                        55.505228,
+                        25.22322
+                  ]
+            },
+            {
+                  "name": "Happy Fun",
+                  "text": "Ein lokaler Vergnügungspark im Viertel Al Khawaneej mit Fahrgeschäften und Spielen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        55.450086,
+                        25.217049
+                  ]
+            },
+            {
+                  "name": "Last Exit Al Khawaneej",
+                  "text": "Ein rustikaler Food-Truck-Standort in Al Khawaneej, der im Vintage-Bauernhof-Stil gestaltet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.474188,
+                        25.234808
+                  ]
+            },
+            {
+                  "name": "Dubai Crocodile Museum",
+                  "text": "Dieses Museum im Krokodilpark informiert Besucher über die Evolution und Biologie dieser Reptilien.",
+                  "category": "museum",
+                  "coords": [
+                        55.440845,
+                        25.201949
+                  ]
+            },
+            {
+                  "name": "Aventura Parks",
+                  "text": "Ein Outdoor-Abenteuerpark im Mushrif Park mit Seilparcours und Seilrutschen durch Ghaf-Baumwälder.",
+                  "category": "recreational",
+                  "coords": [
+                        55.449375,
+                        25.223206
+                  ]
+            },
+            {
+                  "name": "Mushrif National Park",
+                  "text": "Einer der ältesten Parks Dubais mit einem „International Village“, das 13 Modelle traditioneller Häuser aus aller Welt zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.452452,
+                        25.218278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Game Street Dubai",
+                  "text": "Al Khawaneej szerencsejáték- és szórakoztató központja, amely különféle digitális és interaktív kikapcsolódást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        55.505228,
+                        25.22322
+                  ]
+            },
+            {
+                  "name": "Happy Fun",
+                  "text": "Helyi vidámpark Al Khawaneej területén, körhintákkal és játékokkal gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        55.450086,
+                        25.217049
+                  ]
+            },
+            {
+                  "name": "Last Exit Al Khawaneej",
+                  "text": "Rusztikus hangulatú food truck központ Al Khawaneejben, amelyet veterán tanyasi esztétikával terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.474188,
+                        25.234808
+                  ]
+            },
+            {
+                  "name": "Dubai Crocodile Museum",
+                  "text": "A krokodilparkban található múzeum a látogatókat ezeknek a hüllőknek a fejlődéséről és biológiájáról tanítja.",
+                  "category": "museum",
+                  "coords": [
+                        55.440845,
+                        25.201949
+                  ]
+            },
+            {
+                  "name": "Aventura Parks",
+                  "text": "Szabadtéri kalandpark a Mushrif Parkban, kötélpályákkal és zipline-okkal a Ghaf-erdőkön keresztül.",
+                  "category": "recreational",
+                  "coords": [
+                        55.449375,
+                        25.223206
+                  ]
+            },
+            {
+                  "name": "Mushrif National Park",
+                  "text": "Dubai egyik legrégebbi parkja, amelyben egy „Nemzetközi falu” található a világ 13 hagyományos házának modelljével.",
+                  "category": "landmark",
+                  "coords": [
+                        55.452452,
+                        25.218278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Game Street Dubai",
+                  "text": "O destinație dedicată jocurilor din Al Khawaneej, care oferă o varietate de divertisment digital și interactiv.",
+                  "category": "landmark",
+                  "coords": [
+                        55.505228,
+                        25.22322
+                  ]
+            },
+            {
+                  "name": "Happy Fun",
+                  "text": "Un parc de distracții local în zona Al Khawaneej, cu tobogane și jocuri pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        55.450086,
+                        25.217049
+                  ]
+            },
+            {
+                  "name": "Last Exit Al Khawaneej",
+                  "text": "O destinație de tip food truck cu tematică rustică în Al Khawaneej, concepută cu o estetică de fermă vintage.",
+                  "category": "landmark",
+                  "coords": [
+                        55.474188,
+                        25.234808
+                  ]
+            },
+            {
+                  "name": "Dubai Crocodile Museum",
+                  "text": "Situat în parcul crocodililor, acest muzeu educă vizitatorii despre evoluția și biologia acestor reptile.",
+                  "category": "museum",
+                  "coords": [
+                        55.440845,
+                        25.201949
+                  ]
+            },
+            {
+                  "name": "Aventura Parks",
+                  "text": "Un parc de aventură în aer liber în Parcul Mushrif, cu trasee de frânghii și tiroliene prin pădurile de arbori Ghaf.",
+                  "category": "recreational",
+                  "coords": [
+                        55.449375,
+                        25.223206
+                  ]
+            },
+            {
+                  "name": "Mushrif National Park",
+                  "text": "Unul dintre cele mai vechi parcuri din Dubai, acesta include un „Sat Internațional” cu 13 modele de case tradiționale din întreaga lume.",
+                  "category": "landmark",
+                  "coords": [
+                        55.452452,
+                        25.218278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Game Street Dubai",
+                  "text": "A dedicated gaming destination in Al Khawaneej offering a variety of digital and interactive entertainment.",
+                  "category": "landmark",
+                  "coords": [
+                        55.505228,
+                        25.22322
+                  ]
+            },
+            {
+                  "name": "Happy Fun",
+                  "text": "A local amusement park in the Al Khawaneej area featuring rides and games for children.",
+                  "category": "recreational",
+                  "coords": [
+                        55.450086,
+                        25.217049
+                  ]
+            },
+            {
+                  "name": "Last Exit Al Khawaneej",
+                  "text": "A rustic-themed food truck destination in Al Khawaneej designed with a vintage farm aesthetic.",
+                  "category": "landmark",
+                  "coords": [
+                        55.474188,
+                        25.234808
+                  ]
+            },
+            {
+                  "name": "Dubai Crocodile Museum",
+                  "text": "Located within the crocodile park, this museum educates visitors about the evolution and biology of these reptiles.",
+                  "category": "museum",
+                  "coords": [
+                        55.440845,
+                        25.201949
+                  ]
+            },
+            {
+                  "name": "Aventura Parks",
+                  "text": "An outdoor adventure park in Mushrif Park featuring rope courses and ziplines through Ghaf tree forests.",
+                  "category": "recreational",
+                  "coords": [
+                        55.449375,
+                        25.223206
+                  ]
+            },
+            {
+                  "name": "Mushrif National Park",
+                  "text": "One of Dubai's oldest parks, it features an 'International Village' with 13 models of traditional houses from around the world.",
+                  "category": "landmark",
+                  "coords": [
+                        55.452452,
+                        25.218278
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AE-DU",
     coords: [55.44, 25.21],

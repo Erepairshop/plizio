@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraUaeHistoryV2: POI[] = [
   {
-    id: "al-fahidi-fort-history-v2",
+    id: "al-fahidi-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mawaheb Art Studio",
+                  "text": "Ein kreatives Kunstatelier in Al Fahidi, das Künstler mit besonderen Bedürfnissen unterstützt.",
+                  "category": "museum",
+                  "coords": [
+                        55.299423,
+                        25.264408
+                  ]
+            },
+            {
+                  "name": "Dubai Textile Souk",
+                  "text": "Ein historischer Marktplatz voller farbenfroher Seide, bestickter Stoffe und feiner Textilien.",
+                  "category": "landmark",
+                  "coords": [
+                        55.296206,
+                        25.264141
+                  ]
+            },
+            {
+                  "name": "madhu suparmarke bur dubai",
+                  "text": "Ein lokaler Marktstandort für tägliche Einkäufe im historischen Bur Dubai Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.296246,
+                        25.261875
+                  ]
+            },
+            {
+                  "name": "Dubai-Museum",
+                  "text": "Dieses im Al Fahidi Fort untergebrachte Museum zeigt die Verwandlung Dubais vom Fischerdorf zur Metropole.",
+                  "category": "museum",
+                  "coords": [
+                        55.297183,
+                        25.263521
+                  ]
+            },
+            {
+                  "name": "Geat design",
+                  "text": "Eine Galerie, die innovatives zeitgenössisches Design und kreative Konzepte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        55.301874,
+                        25.255276
+                  ]
+            },
+            {
+                  "name": "Take Off VR Park",
+                  "text": "Ein Indoor-Themenpark, der immersive Virtual-Reality-Spiele und futuristische Erlebnisse bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        55.303004,
+                        25.254204
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Ein ruhiger Raum, der ausschließlich für die täglichen muslimischen Gebete reserviert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.30012,
+                        25.254096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mawaheb Art Studio",
+                  "text": "Kreatív művészeti stúdió az Al Fahidi negyedben, amely fogyatékkal élő művészeket támogat.",
+                  "category": "museum",
+                  "coords": [
+                        55.299423,
+                        25.264408
+                  ]
+            },
+            {
+                  "name": "Dubai Textile Souk",
+                  "text": "Történelmi piac, amely tele van színes selymekkel, hímzett kelmékkel és finom textilekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.296206,
+                        25.264141
+                  ]
+            },
+            {
+                  "name": "madhu suparmarke bur dubai",
+                  "text": "Helyi bevásárlóhely a mindennapi igényekhez Bur Dubai történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.296246,
+                        25.261875
+                  ]
+            },
+            {
+                  "name": "Dubai Museum",
+                  "text": "Az Al Fahidi erődben működő múzeum Dubaj halászfaluból metropolisszá válását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.297183,
+                        25.263521
+                  ]
+            },
+            {
+                  "name": "Geat design",
+                  "text": "Innovatív kortárs designt és kreatív koncepciókat bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        55.301874,
+                        25.255276
+                  ]
+            },
+            {
+                  "name": "Take Off VR Park",
+                  "text": "Fedett vidámpark, amely magával ragadó virtuális valóság játékokat és futurisztikus élményeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        55.303004,
+                        25.254204
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Csendes helyiség, amelyet kizárólag a napi muzulmán imádságok elvégzésére tartanak fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        55.30012,
+                        25.254096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mawaheb Art Studio",
+                  "text": "Un studio de artă creativă în Al Fahidi, care sprijină artiștii cu nevoi speciale.",
+                  "category": "museum",
+                  "coords": [
+                        55.299423,
+                        25.264408
+                  ]
+            },
+            {
+                  "name": "Dubai Textile Souk",
+                  "text": "O piață istorică plină de mătase colorată, țesături brodate și textile fine.",
+                  "category": "landmark",
+                  "coords": [
+                        55.296206,
+                        25.264141
+                  ]
+            },
+            {
+                  "name": "madhu suparmarke bur dubai",
+                  "text": "O locație de piață locală pentru cumpărături zilnice în cartierul istoric Bur Dubai.",
+                  "category": "landmark",
+                  "coords": [
+                        55.296246,
+                        25.261875
+                  ]
+            },
+            {
+                  "name": "Dubai Museum",
+                  "text": "Găzduit în Fortul Al Fahidi, acest muzeu prezintă transformarea Dubaiului din sat de pescari în metropolă.",
+                  "category": "museum",
+                  "coords": [
+                        55.297183,
+                        25.263521
+                  ]
+            },
+            {
+                  "name": "Geat design",
+                  "text": "O galerie care prezintă design contemporan inovator și concepte creative.",
+                  "category": "museum",
+                  "coords": [
+                        55.301874,
+                        25.255276
+                  ]
+            },
+            {
+                  "name": "Take Off VR Park",
+                  "text": "Un parc tematic interior care oferă jocuri de realitate virtuală imersive și experiențe futuriste.",
+                  "category": "recreational",
+                  "coords": [
+                        55.303004,
+                        25.254204
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Un spațiu liniștit rezervat exclusiv pentru efectuarea rugăciunilor musulmane zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        55.30012,
+                        25.254096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mawaheb Art Studio",
+                  "text": "A creative art studio in Al Fahidi supporting artists with special needs.",
+                  "category": "museum",
+                  "coords": [
+                        55.299423,
+                        25.264408
+                  ]
+            },
+            {
+                  "name": "Dubai Textile Souk",
+                  "text": "A historic marketplace filled with colorful silks, embroidered fabrics, and fine textiles.",
+                  "category": "landmark",
+                  "coords": [
+                        55.296206,
+                        25.264141
+                  ]
+            },
+            {
+                  "name": "madhu suparmarke bur dubai",
+                  "text": "A local market location for daily shopping in the historic Bur Dubai district.",
+                  "category": "landmark",
+                  "coords": [
+                        55.296246,
+                        25.261875
+                  ]
+            },
+            {
+                  "name": "Dubai Museum",
+                  "text": "Housed in Al Fahidi Fort, this museum showcases Dubai's transformation from a fishing village to a metropolis.",
+                  "category": "museum",
+                  "coords": [
+                        55.297183,
+                        25.263521
+                  ]
+            },
+            {
+                  "name": "Geat design",
+                  "text": "A gallery showcasing innovative contemporary design and creative concepts.",
+                  "category": "museum",
+                  "coords": [
+                        55.301874,
+                        25.255276
+                  ]
+            },
+            {
+                  "name": "Take Off VR Park",
+                  "text": "An indoor theme park offering immersive virtual reality games and futuristic experiences.",
+                  "category": "recreational",
+                  "coords": [
+                        55.303004,
+                        25.254204
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "A quiet space reserved exclusively for performing daily Muslim prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        55.30012,
+                        25.254096
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-DU",
     coords: [55.2997, 25.2635],
@@ -39,7 +300,1024 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "al-ahmadiya-school-history-v2",
+    id: "al-ahmadiya-school-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diplomat hotel",
+                  "text": "Ein markantes Gebäude im historischen Handelsviertel Al Ras, nahe dem Dubai Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.312951,
+                        25.27685
+                  ]
+            },
+            {
+                  "name": "Al Zarooni Mosque",
+                  "text": "Eine traditionelle Moschee im Deira-Viertel mit einem markanten Minarett und klassischer Dekoration.",
+                  "category": "religious",
+                  "coords": [
+                        55.305448,
+                        25.273283
+                  ]
+            },
+            {
+                  "name": "Old Souq",
+                  "text": "Ein historischer Marktplatz, der für seine aromatischen Gewürze und farbenfrohen Textilien berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.310315,
+                        25.278957
+                  ]
+            },
+            {
+                  "name": "Al Falasi Building",
+                  "text": "Ein urbaner Aussichtspunkt, der einen direkten Blick auf die traditionellen Dhow-Anlegestellen am Creek bietet.",
+                  "category": "natural",
+                  "coords": [
+                        55.311542,
+                        25.273875
+                  ]
+            },
+            {
+                  "name": "Traditional Souq",
+                  "text": "Ein überdachter Markt, der den traditionellen Baustil der Golfregion aus dem 19. Jahrhundert zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.310479,
+                        25.274272
+                  ]
+            },
+            {
+                  "name": "Aerosoft by Sylvia & Jangjoo",
+                  "text": "Eine spezialisierte Einzelhandelsboutique im Herzen der geschäftigen Einkaufszone von Deira.",
+                  "category": "landmark",
+                  "coords": [
+                        55.299591,
+                        25.273459
+                  ]
+            },
+            {
+                  "name": "Sabka Bus Station",
+                  "text": "Ein geschäftiger Verkehrsknotenpunkt, der einen Einblick in das Alltagsleben im Viertel Al Sabkha bietet.",
+                  "category": "natural",
+                  "coords": [
+                        55.302774,
+                        25.269865
+                  ]
+            },
+            {
+                  "name": "Women's museum",
+                  "text": "Das als Bait Al Banat bekannte Museum dokumentiert die Leistungen der Frauen in den Emiraten.",
+                  "category": "museum",
+                  "coords": [
+                        55.298703,
+                        25.271823
+                  ]
+            },
+            {
+                  "name": "Creek view from top of parking garage",
+                  "text": "Eine erhöhte Plattform mit weitem Blick auf die hölzernen Transportschiffe auf dem Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        55.298869,
+                        25.267624
+                  ]
+            },
+            {
+                  "name": "Heritage House",
+                  "text": "Ein ehemaliges Kaufmannshaus aus dem Jahr 1890, das aus Korallenstein und Gips erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        55.294747,
+                        25.268624
+                  ]
+            },
+            {
+                  "name": "Gold centar",
+                  "text": "Ein Einkaufszentrum im Stadtteil Deira, das auf den Groß- und Einzelhandel mit Goldschmuck spezialisiert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.297446,
+                        25.271356
+                  ]
+            },
+            {
+                  "name": "Pet's Beach",
+                  "text": "Ein haustierfreundlicher Küstenabschnitt in der Nähe von Al Mamzar, an dem Hunde im Sand spielen dürfen.",
+                  "category": "recreational",
+                  "coords": [
+                        55.294061,
+                        25.300182
+                  ]
+            },
+            {
+                  "name": "Deira Gold Souk",
+                  "text": "Ein weltberühmter traditioneller Basar mit hunderten von Händlern, die Goldschmuck und kostbare Edelsteine anbieten.",
+                  "category": "landmark",
+                  "coords": [
+                        55.29805,
+                        25.270088
+                  ]
+            },
+            {
+                  "name": "Dubai Municipality Museum",
+                  "text": "Dieses Museum in einem Gebäude aus den 1950er Jahren dokumentiert die administrative Entwicklung der Stadt am Dubai Creek.",
+                  "category": "museum",
+                  "coords": [
+                        55.297835,
+                        25.267897
+                  ]
+            },
+            {
+                  "name": "Deira Islands Beach",
+                  "text": "Ein weitläufiger Sandstrand auf den künstlich angelegten Deira Islands, ideal für lange Spaziergänge am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        55.300896,
+                        25.301631
+                  ]
+            },
+            {
+                  "name": "Saifee Masjid",
+                  "text": "Eine Moschee im Viertel Deira, die als wichtiges religiöses Zentrum für die Dawoodi-Bohra-Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.304093,
+                        25.273506
+                  ]
+            },
+            {
+                  "name": "Masjid Al Iman",
+                  "text": "Eine lokale Moschee mit einem traditionellen Minarett, die als spiritueller Treffpunkt für die Bewohner von Hor Al Anz dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.298849,
+                        25.269174
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Hail",
+                  "text": "Ein muslimisches Gotteshaus im Wohngebiet Abu Hail, das durch seine schlichte und moderne Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.335103,
+                        25.290335
+                  ]
+            },
+            {
+                  "name": "Al Badoor Masjid",
+                  "text": "Eine belebte Nachbarschaftsmoschee im Herzen des Naif-Viertels, die täglich viele Gläubige aus den umliegenden Märkten empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.3332,
+                        25.289158
+                  ]
+            },
+            {
+                  "name": "khalid Masjid",
+                  "text": "Ein zentrales muslimisches Gotteshaus in Deira, das einen ruhigen Rückzugsort inmitten des geschäftigen Handelsviertels bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309492,
+                        25.275184
+                  ]
+            },
+            {
+                  "name": "Somali Masjid",
+                  "text": "Diese Moschee im Naif-Viertel dient primär der somalischen Diaspora als wichtiges religiöses und soziales Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        55.307154,
+                        25.276944
+                  ]
+            },
+            {
+                  "name": "Rashid Abdullah Hamd Al Futtaim Masjid (204)",
+                  "text": "Eine moderne, großflächige Moschee in Deira, die durch ihre helle Steinfassade und ihr hohes Minarett auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.313777,
+                        25.280795
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "Ein geschäftiger Markt am Wasser, auf dem Fischer ihren frischen Fang aus dem Persischen Golf direkt an die Kunden verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        55.323955,
+                        25.292359
+                  ]
+            },
+            {
+                  "name": "Fruits & Vegetables Market",
+                  "text": "Ein großer Freiluftmarkt in Deira, der eine enorme Auswahl an frischem Obst und Gemüse aus der gesamten Region bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.323045,
+                        25.291682
+                  ]
+            },
+            {
+                  "name": "Deira Night Souk",
+                  "text": "Ein moderner Markt am Ufer der Deira Islands, der abends mit hunderten von kleinen Läden und Cafés zum Leben erwacht.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306547,
+                        25.287284
+                  ]
+            },
+            {
+                  "name": "Naif electronics shops area",
+                  "text": "Ein geschäftiges Viertel, das für seine hohe Dichte an Geschäften für preiswerte Mobiltelefone und Unterhaltungselektronik bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        55.307881,
+                        25.272915
+                  ]
+            },
+            {
+                  "name": "Yousaf Ahmad Grocery",
+                  "text": "Ein traditioneller kleiner Tante-Emma-Laden, der die Bewohner des Naif-Viertels mit frischen Waren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        55.337541,
+                        25.291584
+                  ]
+            },
+            {
+                  "name": "Naif Market",
+                  "text": "Dieser ehemalige Kamelmarkt ist heute ein lebhaftes Zentrum für Textilien, Henna-Produkte und lokale Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305116,
+                        25.271587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diplomat hotel",
+                  "text": "Jellegzetes épület az Al Ras történelmi kereskedelmi negyedben, a Dubai-öböl közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.312951,
+                        25.27685
+                  ]
+            },
+            {
+                  "name": "Al Zarooni Mosque",
+                  "text": "Hagyományos mecset Deira negyedben, jellegzetes minarettel és klasszikus díszítéssel.",
+                  "category": "religious",
+                  "coords": [
+                        55.305448,
+                        25.273283
+                  ]
+            },
+            {
+                  "name": "Old Souq",
+                  "text": "Történelmi piactér, amely aromás fűszereiről és színes textiljeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        55.310315,
+                        25.278957
+                  ]
+            },
+            {
+                  "name": "Al Falasi Building",
+                  "text": "Városi kilátópont, ahonnan közvetlen rálátás nyílik az öböl menti hagyományos dhow-kikötőkre.",
+                  "category": "natural",
+                  "coords": [
+                        55.311542,
+                        25.273875
+                  ]
+            },
+            {
+                  "name": "Traditional Souq",
+                  "text": "Fedett piac, amely a 19. századi öböl menti építészeti stílust mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        55.310479,
+                        25.274272
+                  ]
+            },
+            {
+                  "name": "Aerosoft by Sylvia & Jangjoo",
+                  "text": "Speciális kiskereskedelmi butik Deira nyüzsgő bevásárlónegyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.299591,
+                        25.273459
+                  ]
+            },
+            {
+                  "name": "Sabka Bus Station",
+                  "text": "Nyüzsgő közlekedési csomópont, amely betekintést nyújt az Al Sabkha negyed mindennapjaiba.",
+                  "category": "natural",
+                  "coords": [
+                        55.302774,
+                        25.269865
+                  ]
+            },
+            {
+                  "name": "Women's museum",
+                  "text": "A Bait Al Banat néven is ismert múzeum az emírségi nők eredményeit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        55.298703,
+                        25.271823
+                  ]
+            },
+            {
+                  "name": "Creek view from top of parking garage",
+                  "text": "Emelt platform, ahonnan pazar kilátás nyílik a vízen ringatózó fa szállítóhajókra.",
+                  "category": "natural",
+                  "coords": [
+                        55.298869,
+                        25.267624
+                  ]
+            },
+            {
+                  "name": "Heritage House",
+                  "text": "Egykori kereskedőház 1890-ből, amely korallkőből és gipszből épült.",
+                  "category": "historical",
+                  "coords": [
+                        55.294747,
+                        25.268624
+                  ]
+            },
+            {
+                  "name": "Gold centar",
+                  "text": "Aranyékszerek nagy- és kiskereskedelmére szakosodott bevásárlóközpont Deira negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.297446,
+                        25.271356
+                  ]
+            },
+            {
+                  "name": "Pet's Beach",
+                  "text": "Kisállatbarát tengerparti szakasz Al Mamzar közelében, ahol a kutyák is a homokban játszhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        55.294061,
+                        25.300182
+                  ]
+            },
+            {
+                  "name": "Deira Gold Souk",
+                  "text": "Világhírű hagyományos bazár, ahol kereskedők százai kínálnak aranyékszereket és értékes drágaköveket.",
+                  "category": "landmark",
+                  "coords": [
+                        55.29805,
+                        25.270088
+                  ]
+            },
+            {
+                  "name": "Dubai Municipality Museum",
+                  "text": "Az 1950-es évekbeli épületben helyet kapott múzeum a város közigazgatási fejlődését mutatja be a Dubai-öböl partján.",
+                  "category": "museum",
+                  "coords": [
+                        55.297835,
+                        25.267897
+                  ]
+            },
+            {
+                  "name": "Deira Islands Beach",
+                  "text": "Kiterjedt homokos tengerpart a mesterséges Deira-szigeteken, amely ideális hosszú tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        55.300896,
+                        25.301631
+                  ]
+            },
+            {
+                  "name": "Saifee Masjid",
+                  "text": "Deira negyedében található mecset, amely a Dawoodi Bohra közösség fontos vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.304093,
+                        25.273506
+                  ]
+            },
+            {
+                  "name": "Masjid Al Iman",
+                  "text": "Helyi mecset hagyományos minarettel, amely Hor Al Anz lakóinak lelki találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        55.298849,
+                        25.269174
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Hail",
+                  "text": "Abu Hail lakóövezetében található muszlim imaház, amely letisztult és modern építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.335103,
+                        25.290335
+                  ]
+            },
+            {
+                  "name": "Al Badoor Masjid",
+                  "text": "Forgalmas szomszédsági mecset a Naif negyed szívében, amely naponta sok hívőt fogad a környező piacokról.",
+                  "category": "landmark",
+                  "coords": [
+                        55.3332,
+                        25.289158
+                  ]
+            },
+            {
+                  "name": "khalid Masjid",
+                  "text": "Központi muszlim imaház Deirában, amely nyugodt menedéket nyújt a pezsgő kereskedelmi negyed közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309492,
+                        25.275184
+                  ]
+            },
+            {
+                  "name": "Somali Masjid",
+                  "text": "Ez a Naif negyedben található mecset elsősorban a szomáliai diaszpóra fontos vallási és közösségi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.307154,
+                        25.276944
+                  ]
+            },
+            {
+                  "name": "Rashid Abdullah Hamd Al Futtaim Masjid (204)",
+                  "text": "Modern, tágas mecset Deirában, amely világos kőhomlokzatával és magas minaretjével hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.313777,
+                        25.280795
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "Forgalmas vízparti piac, ahol a halászok közvetlenül a vásárlóknak adják el a Perzsa-öbölből származó friss fogást.",
+                  "category": "cultural",
+                  "coords": [
+                        55.323955,
+                        25.292359
+                  ]
+            },
+            {
+                  "name": "Fruits & Vegetables Market",
+                  "text": "Hatalmas szabadtéri piac Deirában, amely friss gyümölcsök és zöldségek óriási választékát kínálja a régió minden részéről.",
+                  "category": "cultural",
+                  "coords": [
+                        55.323045,
+                        25.291682
+                  ]
+            },
+            {
+                  "name": "Deira Night Souk",
+                  "text": "Modern piac a Deira-szigetek partján, amely esténként kel életre több száz kis üzlettel és kávézóval.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306547,
+                        25.287284
+                  ]
+            },
+            {
+                  "name": "Naif electronics shops area",
+                  "text": "Forgalmas negyed, amely az olcsó mobiltelefonokat és szórakoztató elektronikai cikkeket kínáló üzletek sűrűségéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        55.307881,
+                        25.272915
+                  ]
+            },
+            {
+                  "name": "Yousaf Ahmad Grocery",
+                  "text": "Hagyományos kis sarki fűszeres, amely friss áruval látja el a Naif negyed lakóit.",
+                  "category": "cultural",
+                  "coords": [
+                        55.337541,
+                        25.291584
+                  ]
+            },
+            {
+                  "name": "Naif Market",
+                  "text": "Ez az egykori tevepiac ma a textilek, henna termékek és helyi háztartási cikkek pezsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305116,
+                        25.271587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diplomat hotel",
+                  "text": "O clădire proeminentă în districtul comercial istoric Al Ras, aproape de Dubai Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.312951,
+                        25.27685
+                  ]
+            },
+            {
+                  "name": "Al Zarooni Mosque",
+                  "text": "O moschee tradițională în cartierul Deira, cu un minaret distinctiv și decorațiuni clasice.",
+                  "category": "religious",
+                  "coords": [
+                        55.305448,
+                        25.273283
+                  ]
+            },
+            {
+                  "name": "Old Souq",
+                  "text": "O piață istorică renumită pentru condimentele sale aromate și textilele colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        55.310315,
+                        25.278957
+                  ]
+            },
+            {
+                  "name": "Al Falasi Building",
+                  "text": "Un punct de observație urban care oferă o vedere directă asupra docurilor tradiționale de dhow-uri de pe Creek.",
+                  "category": "natural",
+                  "coords": [
+                        55.311542,
+                        25.273875
+                  ]
+            },
+            {
+                  "name": "Traditional Souq",
+                  "text": "O piață acoperită care prezintă stilul arhitectural tradițional al Golfului din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        55.310479,
+                        25.274272
+                  ]
+            },
+            {
+                  "name": "Aerosoft by Sylvia & Jangjoo",
+                  "text": "Un magazin specializat în inima zonei comerciale aglomerate din Deira.",
+                  "category": "landmark",
+                  "coords": [
+                        55.299591,
+                        25.273459
+                  ]
+            },
+            {
+                  "name": "Sabka Bus Station",
+                  "text": "Un nod de tranzit aglomerat care oferă o privire asupra vieții de zi cu zi în cartierul Al Sabkha.",
+                  "category": "natural",
+                  "coords": [
+                        55.302774,
+                        25.269865
+                  ]
+            },
+            {
+                  "name": "Women's museum",
+                  "text": "Muzeul cunoscut și sub numele de Bait Al Banat documentează realizările femeilor din Emirate.",
+                  "category": "museum",
+                  "coords": [
+                        55.298703,
+                        25.271823
+                  ]
+            },
+            {
+                  "name": "Creek view from top of parking garage",
+                  "text": "O platformă ridicată cu o vedere panoramică asupra navelor tradiționale de transport de pe apă.",
+                  "category": "natural",
+                  "coords": [
+                        55.298869,
+                        25.267624
+                  ]
+            },
+            {
+                  "name": "Heritage House",
+                  "text": "O fostă casă de negustor din 1890, construită din piatră de corali și gips.",
+                  "category": "historical",
+                  "coords": [
+                        55.294747,
+                        25.268624
+                  ]
+            },
+            {
+                  "name": "Gold centar",
+                  "text": "Un centru comercial din districtul Deira, specializat în vânzarea de bijuterii din aur cu ridicata și cu amănuntul.",
+                  "category": "landmark",
+                  "coords": [
+                        55.297446,
+                        25.271356
+                  ]
+            },
+            {
+                  "name": "Pet's Beach",
+                  "text": "O porțiune de coastă pet-friendly lângă Al Mamzar, unde câinii au voie să se joace pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        55.294061,
+                        25.300182
+                  ]
+            },
+            {
+                  "name": "Deira Gold Souk",
+                  "text": "Un bazar tradițional renumit mondial, cu sute de comercianți care oferă bijuterii din aur și pietre prețioase.",
+                  "category": "landmark",
+                  "coords": [
+                        55.29805,
+                        25.270088
+                  ]
+            },
+            {
+                  "name": "Dubai Municipality Museum",
+                  "text": "Găzduit într-o clădire din anii 1950, acest muzeu documentează dezvoltarea administrativă a orașului lângă Dubai Creek.",
+                  "category": "museum",
+                  "coords": [
+                        55.297835,
+                        25.267897
+                  ]
+            },
+            {
+                  "name": "Deira Islands Beach",
+                  "text": "O plajă de nisip întinsă pe insulele artificiale Deira Islands, ideală pentru plimbări lungi la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        55.300896,
+                        25.301631
+                  ]
+            },
+            {
+                  "name": "Saifee Masjid",
+                  "text": "O moschee din cartierul Deira care servește ca centru religios important pentru comunitatea Dawoodi Bohra.",
+                  "category": "landmark",
+                  "coords": [
+                        55.304093,
+                        25.273506
+                  ]
+            },
+            {
+                  "name": "Masjid Al Iman",
+                  "text": "O moschee locală cu un minaret tradițional, servind drept loc de întâlnire spirituală pentru locuitorii din Hor Al Anz.",
+                  "category": "landmark",
+                  "coords": [
+                        55.298849,
+                        25.269174
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Hail",
+                  "text": "Un lăcaș de cult musulman în zona rezidențială Abu Hail, remarcabil prin arhitectura sa simplă și modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        55.335103,
+                        25.290335
+                  ]
+            },
+            {
+                  "name": "Al Badoor Masjid",
+                  "text": "O moschee de cartier animată în inima districtului Naif, care primește zilnic mulți credincioși din piețele din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        55.3332,
+                        25.289158
+                  ]
+            },
+            {
+                  "name": "khalid Masjid",
+                  "text": "Un lăcaș de cult musulman central în Deira, oferind un refugiu liniștit în mijlocul cartierului comercial agitat.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309492,
+                        25.275184
+                  ]
+            },
+            {
+                  "name": "Somali Masjid",
+                  "text": "Această moschee din cartierul Naif servește în principal diaspora somaleză ca un important centru religios și social.",
+                  "category": "landmark",
+                  "coords": [
+                        55.307154,
+                        25.276944
+                  ]
+            },
+            {
+                  "name": "Rashid Abdullah Hamd Al Futtaim Masjid (204)",
+                  "text": "O moschee modernă și spațioasă în Deira, remarcată prin fațada din piatră deschisă la culoare și minaretul înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.313777,
+                        25.280795
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "O piață agitată pe malul apei, unde pescarii își vând captura proaspătă din Golful Persic direct clienților.",
+                  "category": "cultural",
+                  "coords": [
+                        55.323955,
+                        25.292359
+                  ]
+            },
+            {
+                  "name": "Fruits & Vegetables Market",
+                  "text": "O piață mare în aer liber din Deira, care oferă o varietate imensă de fructe și legume proaspete din întreaga regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        55.323045,
+                        25.291682
+                  ]
+            },
+            {
+                  "name": "Deira Night Souk",
+                  "text": "O piață modernă pe malul insulelor Deira, care prinde viață seara cu sute de magazine mici și cafenele.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306547,
+                        25.287284
+                  ]
+            },
+            {
+                  "name": "Naif electronics shops area",
+                  "text": "Un cartier agitat, cunoscut pentru densitatea mare de magazine care vând telefoane mobile și electronice la prețuri accesibles.",
+                  "category": "cultural",
+                  "coords": [
+                        55.307881,
+                        25.272915
+                  ]
+            },
+            {
+                  "name": "Yousaf Ahmad Grocery",
+                  "text": "O băcănie tradițională mică care deservește locuitorii din cartierul Naif cu produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        55.337541,
+                        25.291584
+                  ]
+            },
+            {
+                  "name": "Naif Market",
+                  "text": "Această fostă piață de cămile este acum un centru vibrant pentru textile, produse din henna și articole de uz casnic locale.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305116,
+                        25.271587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diplomat hotel",
+                  "text": "A prominent building in the historic Al Ras trading district, near the Dubai Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.312951,
+                        25.27685
+                  ]
+            },
+            {
+                  "name": "Al Zarooni Mosque",
+                  "text": "A traditional mosque in the Deira district with a distinctive minaret and classical decoration.",
+                  "category": "religious",
+                  "coords": [
+                        55.305448,
+                        25.273283
+                  ]
+            },
+            {
+                  "name": "Old Souq",
+                  "text": "A historic marketplace famous for its aromatic spices and colorful textiles.",
+                  "category": "landmark",
+                  "coords": [
+                        55.310315,
+                        25.278957
+                  ]
+            },
+            {
+                  "name": "Al Falasi Building",
+                  "text": "An urban viewpoint offering a direct look at the traditional dhow docks along the Creek.",
+                  "category": "natural",
+                  "coords": [
+                        55.311542,
+                        25.273875
+                  ]
+            },
+            {
+                  "name": "Traditional Souq",
+                  "text": "A covered souq showcasing the traditional 19th-century Gulf architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        55.310479,
+                        25.274272
+                  ]
+            },
+            {
+                  "name": "Aerosoft by Sylvia & Jangjoo",
+                  "text": "A specialized retail boutique in the heart of the busy Deira shopping zone.",
+                  "category": "landmark",
+                  "coords": [
+                        55.299591,
+                        25.273459
+                  ]
+            },
+            {
+                  "name": "Sabka Bus Station",
+                  "text": "A busy transit hub offering a glimpse into the daily life of the Al Sabkha neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        55.302774,
+                        25.269865
+                  ]
+            },
+            {
+                  "name": "Women's museum",
+                  "text": "Known as Bait Al Banat, this museum documents the achievements of Emirati women.",
+                  "category": "museum",
+                  "coords": [
+                        55.298703,
+                        25.271823
+                  ]
+            },
+            {
+                  "name": "Creek view from top of parking garage",
+                  "text": "An elevated platform with sweeping views of the traditional wooden transport dhows on the water.",
+                  "category": "natural",
+                  "coords": [
+                        55.298869,
+                        25.267624
+                  ]
+            },
+            {
+                  "name": "Heritage House",
+                  "text": "A former 1890s merchant's house built using coral stone and gypsum.",
+                  "category": "historical",
+                  "coords": [
+                        55.294747,
+                        25.268624
+                  ]
+            },
+            {
+                  "name": "Gold centar",
+                  "text": "A retail complex in the Deira district specialized in wholesale and retail gold jewelry.",
+                  "category": "landmark",
+                  "coords": [
+                        55.297446,
+                        25.271356
+                  ]
+            },
+            {
+                  "name": "Pet's Beach",
+                  "text": "A pet-friendly coastal stretch near Al Mamzar where dogs are allowed to play on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        55.294061,
+                        25.300182
+                  ]
+            },
+            {
+                  "name": "Deira Gold Souk",
+                  "text": "A world-famous traditional bazaar featuring hundreds of retailers selling gold jewelry and precious stones.",
+                  "category": "landmark",
+                  "coords": [
+                        55.29805,
+                        25.270088
+                  ]
+            },
+            {
+                  "name": "Dubai Municipality Museum",
+                  "text": "Housed in a 1950s building, this museum documents the city's administrative development near Dubai Creek.",
+                  "category": "museum",
+                  "coords": [
+                        55.297835,
+                        25.267897
+                  ]
+            },
+            {
+                  "name": "Deira Islands Beach",
+                  "text": "An expansive sandy beach on the man-made Deira Islands, ideal for long walks by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        55.300896,
+                        25.301631
+                  ]
+            },
+            {
+                  "name": "Saifee Masjid",
+                  "text": "A mosque in the Deira district that serves as an important religious center for the Dawoodi Bohra community.",
+                  "category": "landmark",
+                  "coords": [
+                        55.304093,
+                        25.273506
+                  ]
+            },
+            {
+                  "name": "Masjid Al Iman",
+                  "text": "A local mosque with a traditional minaret, serving as a spiritual gathering place for the residents of Hor Al Anz.",
+                  "category": "landmark",
+                  "coords": [
+                        55.298849,
+                        25.269174
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Hail",
+                  "text": "A Muslim place of worship in the Abu Hail residential area, notable for its simple and modern architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.335103,
+                        25.290335
+                  ]
+            },
+            {
+                  "name": "Al Badoor Masjid",
+                  "text": "A busy neighborhood mosque in the heart of the Naif district, welcoming many worshippers daily from surrounding markets.",
+                  "category": "landmark",
+                  "coords": [
+                        55.3332,
+                        25.289158
+                  ]
+            },
+            {
+                  "name": "khalid Masjid",
+                  "text": "A central Muslim place of worship in Deira, providing a quiet retreat in the middle of the bustling commercial district.",
+                  "category": "landmark",
+                  "coords": [
+                        55.309492,
+                        25.275184
+                  ]
+            },
+            {
+                  "name": "Somali Masjid",
+                  "text": "Located in the Naif area, this mosque serves as a key religious and social hub for the Somali diaspora.",
+                  "category": "landmark",
+                  "coords": [
+                        55.307154,
+                        25.276944
+                  ]
+            },
+            {
+                  "name": "Rashid Abdullah Hamd Al Futtaim Masjid (204)",
+                  "text": "A modern, spacious mosque in Deira, noted for its light stone facade and tall minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        55.313777,
+                        25.280795
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "A bustling waterfront market where fishermen sell their fresh catch from the Persian Gulf directly to customers.",
+                  "category": "cultural",
+                  "coords": [
+                        55.323955,
+                        25.292359
+                  ]
+            },
+            {
+                  "name": "Fruits & Vegetables Market",
+                  "text": "A large open-air market in Deira offering a vast selection of fresh fruits and vegetables from across the region.",
+                  "category": "cultural",
+                  "coords": [
+                        55.323045,
+                        25.291682
+                  ]
+            },
+            {
+                  "name": "Deira Night Souk",
+                  "text": "A modern waterfront market on Deira Islands that comes alive in the evening with hundreds of small shops and cafes.",
+                  "category": "cultural",
+                  "coords": [
+                        55.306547,
+                        25.287284
+                  ]
+            },
+            {
+                  "name": "Naif electronics shops area",
+                  "text": "A busy district known for its high concentration of shops selling affordable mobile phones and consumer electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        55.307881,
+                        25.272915
+                  ]
+            },
+            {
+                  "name": "Yousaf Ahmad Grocery",
+                  "text": "A traditional small convenience store serving the residents of the Naif neighborhood with fresh goods.",
+                  "category": "cultural",
+                  "coords": [
+                        55.337541,
+                        25.291584
+                  ]
+            },
+            {
+                  "name": "Naif Market",
+                  "text": "This former camel market is now a bustling hub for textiles, henna products, and local household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        55.305116,
+                        25.271587
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AE-DU",
     coords: [55.2965, 25.2690],
@@ -75,7 +1353,520 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "jazirat-al-hamra-ghost-town-history-v2",
+    id: "jazirat-al-hamra-ghost-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emirates Roundabout",
+                  "text": "Ein markanter Orientierungspunkt am Eingang zur historischen Geisterstadt Al Jazirah Al Hamra.",
+                  "category": "landmark",
+                  "coords": [
+                        55.861478,
+                        25.718602
+                  ]
+            },
+            {
+                  "name": "Al Jazirah al Hamra - Old Town",
+                  "text": "Eine verlassene Perlenfischersiedlung mit Ruinen aus traditionellem Korallengestein und Lehmziegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        55.791418,
+                        25.708357
+                  ]
+            },
+            {
+                  "name": "Ghost Town entrance & main attraction",
+                  "text": "Erkunden Sie dieses verlassene Perlentaucherdorf mit seiner traditionellen Korallenstein-Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        55.793623,
+                        25.71171
+                  ]
+            },
+            {
+                  "name": "Al Hamra Residence Beach",
+                  "text": "Ein entspannter Sandstrand direkt neben dem gehobenen Wohnkomplex Al Hamra.",
+                  "category": "recreational",
+                  "coords": [
+                        55.772704,
+                        25.687707
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "Ein natürlicher Küstenabschnitt mit malerischem Blick auf den Arabischen Golf.",
+                  "category": "recreational",
+                  "coords": [
+                        55.773851,
+                        25.690098
+                  ]
+            },
+            {
+                  "name": "Al Hamra Public Beach",
+                  "text": "Ein beliebter, öffentlich zugänglicher Sandstrand zum Schwimmen und Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        55.780607,
+                        25.700154
+                  ]
+            },
+            {
+                  "name": "The Ritz-Carlton Ras Al Khaimah, Al Hamra Beach",
+                  "text": "Ein exklusiver Sandstrand, der zum luxuriösen Ritz-Carlton Resort gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        55.774831,
+                        25.694196
+                  ]
+            },
+            {
+                  "name": "Waldorf Astoria Ras Al Khaimah Private Beach",
+                  "text": "Ein sorgfältig gepflegter Privatstrand, der exklusiv für Gäste des Waldorf Astoria reserviert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        55.771309,
+                        25.685849
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Ein ruhiger Strandabschnitt, der für sein klares Wasser und seine Meeresfauna bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        55.745844,
+                        25.679731
+                  ]
+            },
+            {
+                  "name": "Santorini Beach",
+                  "text": "Ein Küstenort mit weiß-blauer Ästhetik, inspiriert von den griechischen Kykladen-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        55.750484,
+                        25.678999
+                  ]
+            },
+            {
+                  "name": "Bin Majid Resort Beach",
+                  "text": "Ein verwalteter Strandbereich mit verschiedenen Wassersportmöglichkeiten und Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        55.758727,
+                        25.668898
+                  ]
+            },
+            {
+                  "name": "Rixos Bab Al Bahr Beach",
+                  "text": "Ein weitläufiger Strand am ikonischen, pyramidenförmigen Rixos-Resort.",
+                  "category": "recreational",
+                  "coords": [
+                        55.75003,
+                        25.663879
+                  ]
+            },
+            {
+                  "name": "St Mary Indian Orthodox Church",
+                  "text": "Eine christliche Kultstätte, die der indisch-orthodoxen Gemeinde in Ras Al Khaimah dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.807791,
+                        25.665883
+                  ]
+            },
+            {
+                  "name": "Masjid Umar bin Al-Khathab",
+                  "text": "Eine lokale muslimische Moschee, die durch ihr traditionelles Minarett und ihre schlichte Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.78084,
+                        25.663011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emirates Roundabout",
+                  "text": "Jelentős tájékozódási pont Al Jazirah Al Hamra történelmi szellemvárosának bejáratánál.",
+                  "category": "landmark",
+                  "coords": [
+                        55.861478,
+                        25.718602
+                  ]
+            },
+            {
+                  "name": "Al Jazirah al Hamra - Old Town",
+                  "text": "Elhagyatott gyöngyhalsz falu romos házaival, amelyek hagyományos korallkőből és vályogtéglából épültek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.791418,
+                        25.708357
+                  ]
+            },
+            {
+                  "name": "Ghost Town entrance & main attraction",
+                  "text": "Fedezze fel ezt az elhagyatott gyöngyhalász falut, amely hagyományos korallkő építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.793623,
+                        25.71171
+                  ]
+            },
+            {
+                  "name": "Al Hamra Residence Beach",
+                  "text": "Pihentető homokos tengerpart az előkelő Al Hamra lakópark szomszédságában.",
+                  "category": "recreational",
+                  "coords": [
+                        55.772704,
+                        25.687707
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "Természetes tengerparti szakasz, amely festői kilátást nyújt az Arab-öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        55.773851,
+                        25.690098
+                  ]
+            },
+            {
+                  "name": "Al Hamra Public Beach",
+                  "text": "Népszerű, nyilvános homokos tengerpart, amely kiváló úszásra és napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        55.780607,
+                        25.700154
+                  ]
+            },
+            {
+                  "name": "The Ritz-Carlton Ras Al Khaimah, Al Hamra Beach",
+                  "text": "Exkluzív homokos tengerpart a luxus Ritz-Carlton üdülőhely területén.",
+                  "category": "recreational",
+                  "coords": [
+                        55.774831,
+                        25.694196
+                  ]
+            },
+            {
+                  "name": "Waldorf Astoria Ras Al Khaimah Private Beach",
+                  "text": "Gondosan karbantartott privát strand a Waldorf Astoria szálloda vendégei számára.",
+                  "category": "recreational",
+                  "coords": [
+                        55.771309,
+                        25.685849
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Nyugodt tengerparti rész, amely tiszta vizéről és tengeri élővilágáról nevezetes.",
+                  "category": "recreational",
+                  "coords": [
+                        55.745844,
+                        25.679731
+                  ]
+            },
+            {
+                  "name": "Santorini Beach",
+                  "text": "Görög Kükládok-szigetek ihlette kék-fehér esztétikájú tengerparti helyszín.",
+                  "category": "recreational",
+                  "coords": [
+                        55.750484,
+                        25.678999
+                  ]
+            },
+            {
+                  "name": "Bin Majid Resort Beach",
+                  "text": "Kiépített tengerparti szakasz különféle vízisport- és szabadidős lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        55.758727,
+                        25.668898
+                  ]
+            },
+            {
+                  "name": "Rixos Bab Al Bahr Beach",
+                  "text": "Kiterjedt tengerparti szakasz az ikonikus, piramis alakú Rixos üdülőhelynél.",
+                  "category": "recreational",
+                  "coords": [
+                        55.75003,
+                        25.663879
+                  ]
+            },
+            {
+                  "name": "St Mary Indian Orthodox Church",
+                  "text": "A helyi indiai ortodox közösséget kiszolgáló keresztény templom Ras Al Khaimahban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.807791,
+                        25.665883
+                  ]
+            },
+            {
+                  "name": "Masjid Umar bin Al-Khathab",
+                  "text": "Helyi muzulmán mecset, amelyet hagyományos minaretje és letisztult építészete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        55.78084,
+                        25.663011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emirates Roundabout",
+                  "text": "Un punct de reper proeminent la intrarea în orașul fantomă istoric Al Jazirah Al Hamra.",
+                  "category": "landmark",
+                  "coords": [
+                        55.861478,
+                        25.718602
+                  ]
+            },
+            {
+                  "name": "Al Jazirah al Hamra - Old Town",
+                  "text": "Un fost sat de pescuitori de perle, cu ruine din piatră de corali și cărămizi de chirpici tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        55.791418,
+                        25.708357
+                  ]
+            },
+            {
+                  "name": "Ghost Town entrance & main attraction",
+                  "text": "Explorați acest sat de pescari de perle abandonat, cu arhitectură tradițională din piatră de coral.",
+                  "category": "landmark",
+                  "coords": [
+                        55.793623,
+                        25.71171
+                  ]
+            },
+            {
+                  "name": "Al Hamra Residence Beach",
+                  "text": "O plajă cu nisip relaxantă, situată lângă complexul rezidențial de lux Al Hamra.",
+                  "category": "recreational",
+                  "coords": [
+                        55.772704,
+                        25.687707
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "O fâșie naturală de coastă care oferă priveliști pitorești spre Golful Arabic.",
+                  "category": "recreational",
+                  "coords": [
+                        55.773851,
+                        25.690098
+                  ]
+            },
+            {
+                  "name": "Al Hamra Public Beach",
+                  "text": "O zonă de coastă populară cu nisip, deschisă publicului pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        55.780607,
+                        25.700154
+                  ]
+            },
+            {
+                  "name": "The Ritz-Carlton Ras Al Khaimah, Al Hamra Beach",
+                  "text": "O plajă exclusivistă cu nisip, care aparține complexului de lux Ritz-Carlton.",
+                  "category": "recreational",
+                  "coords": [
+                        55.774831,
+                        25.694196
+                  ]
+            },
+            {
+                  "name": "Waldorf Astoria Ras Al Khaimah Private Beach",
+                  "text": "O plajă privată meticulos întreținută, rezervată oaspeților hotelului Waldorf Astoria.",
+                  "category": "recreational",
+                  "coords": [
+                        55.771309,
+                        25.685849
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "O zonă de plajă liniștită, cunoscută pentru apele sale limpezi și fauna marină.",
+                  "category": "recreational",
+                  "coords": [
+                        55.745844,
+                        25.679731
+                  ]
+            },
+            {
+                  "name": "Santorini Beach",
+                  "text": "Un punct de coastă cu o estetică alb-albastră, inspirată de insulele grecești Ciclade.",
+                  "category": "recreational",
+                  "coords": [
+                        55.750484,
+                        25.678999
+                  ]
+            },
+            {
+                  "name": "Bin Majid Resort Beach",
+                  "text": "O zonă de plajă amenajată care oferă diverse sporturi nautice și facilități de relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        55.758727,
+                        25.668898
+                  ]
+            },
+            {
+                  "name": "Rixos Bab Al Bahr Beach",
+                  "text": "O plajă întinsă situată la complexul iconic Rixos, în formă de piramidă.",
+                  "category": "recreational",
+                  "coords": [
+                        55.75003,
+                        25.663879
+                  ]
+            },
+            {
+                  "name": "St Mary Indian Orthodox Church",
+                  "text": "Un lăcaș de cult creștin care deservește comunitatea ortodoxă indiană din Ras Al Khaimah.",
+                  "category": "landmark",
+                  "coords": [
+                        55.807791,
+                        25.665883
+                  ]
+            },
+            {
+                  "name": "Masjid Umar bin Al-Khathab",
+                  "text": "O moschee musulmană locală, caracterizată prin minaretul său tradițional și arhitectura simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        55.78084,
+                        25.663011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emirates Roundabout",
+                  "text": "A prominent landmark located at the entrance to the historic ghost town of Al Jazirah Al Hamra.",
+                  "category": "landmark",
+                  "coords": [
+                        55.861478,
+                        25.718602
+                  ]
+            },
+            {
+                  "name": "Al Jazirah al Hamra - Old Town",
+                  "text": "An abandoned pearling village featuring ruins built from traditional coral stone and mud bricks.",
+                  "category": "landmark",
+                  "coords": [
+                        55.791418,
+                        25.708357
+                  ]
+            },
+            {
+                  "name": "Ghost Town entrance & main attraction",
+                  "text": "Explore this abandoned pearling village featuring traditional coral-stone architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.793623,
+                        25.71171
+                  ]
+            },
+            {
+                  "name": "Al Hamra Residence Beach",
+                  "text": "A relaxing sandy beach located adjacent to the upscale Al Hamra residence complex.",
+                  "category": "recreational",
+                  "coords": [
+                        55.772704,
+                        25.687707
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "A natural stretch of coastline offering scenic views of the Arabian Gulf.",
+                  "category": "recreational",
+                  "coords": [
+                        55.773851,
+                        25.690098
+                  ]
+            },
+            {
+                  "name": "Al Hamra Public Beach",
+                  "text": "A popular sandy shoreline open to the public for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        55.780607,
+                        25.700154
+                  ]
+            },
+            {
+                  "name": "The Ritz-Carlton Ras Al Khaimah, Al Hamra Beach",
+                  "text": "An exclusive sandy beach belonging to the luxury Ritz-Carlton resort.",
+                  "category": "recreational",
+                  "coords": [
+                        55.774831,
+                        25.694196
+                  ]
+            },
+            {
+                  "name": "Waldorf Astoria Ras Al Khaimah Private Beach",
+                  "text": "A meticulously maintained private beach reserved for guests of the Waldorf Astoria.",
+                  "category": "recreational",
+                  "coords": [
+                        55.771309,
+                        25.685849
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "A tranquil beach area known for its clear waters and marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        55.745844,
+                        25.679731
+                  ]
+            },
+            {
+                  "name": "Santorini Beach",
+                  "text": "A coastal spot featuring white and blue aesthetics inspired by the Greek Cyclades islands.",
+                  "category": "recreational",
+                  "coords": [
+                        55.750484,
+                        25.678999
+                  ]
+            },
+            {
+                  "name": "Bin Majid Resort Beach",
+                  "text": "A managed beach area offering various water sports and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        55.758727,
+                        25.668898
+                  ]
+            },
+            {
+                  "name": "Rixos Bab Al Bahr Beach",
+                  "text": "An expansive beach located at the iconic pyramid-shaped Rixos resort.",
+                  "category": "recreational",
+                  "coords": [
+                        55.75003,
+                        25.663879
+                  ]
+            },
+            {
+                  "name": "St Mary Indian Orthodox Church",
+                  "text": "A Christian place of worship serving the Indian Orthodox community in Ras Al Khaimah.",
+                  "category": "landmark",
+                  "coords": [
+                        55.807791,
+                        25.665883
+                  ]
+            },
+            {
+                  "name": "Masjid Umar bin Al-Khathab",
+                  "text": "A local Muslim mosque characterized by its traditional minaret and simple architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.78084,
+                        25.663011
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AE-RK",
     coords: [55.7958, 25.7088],
@@ -111,7 +1902,88 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "bidaa-bint-saud-history-v2",
+    id: "bidaa-bint-saud-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "AAN2499",
+                  "text": "Ein erhöhter Aussichtspunkt mit Blick auf die antiken Gräber und archäologischen Stätten von Bidaa Bint Saud.",
+                  "category": "natural",
+                  "coords": [
+                        55.691896,
+                        24.314628
+                  ]
+            },
+            {
+                  "name": "Al Ain",
+                  "text": "Von diesem Punkt aus hat man einen weiten Panoramablick über die grüne Gartenstadt Al-Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.78453,
+                        24.340808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AAN2499",
+                  "text": "Magaslati kilátópont, ahonnan Bidaa Bint Saud ősi sírjaira és régészeti lelőhelyeire nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        55.691896,
+                        24.314628
+                  ]
+            },
+            {
+                  "name": "Al Ain",
+                  "text": "Erről a pontról széles panoráma nyílik Al-Ain zöldellő kertvárosára.",
+                  "category": "natural",
+                  "coords": [
+                        55.78453,
+                        24.340808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AAN2499",
+                  "text": "Un punct de observație ridicat, cu vedere spre mormintele antice și siturile arheologice din Bidaa Bint Saud.",
+                  "category": "natural",
+                  "coords": [
+                        55.691896,
+                        24.314628
+                  ]
+            },
+            {
+                  "name": "Al Ain",
+                  "text": "Din acest punct se deschide o panoramă largă asupra orașului grădină Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.78453,
+                        24.340808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AAN2499",
+                  "text": "An elevated viewpoint overlooking the ancient tombs and archaeological sites of Bidaa Bint Saud.",
+                  "category": "natural",
+                  "coords": [
+                        55.691896,
+                        24.314628
+                  ]
+            },
+            {
+                  "name": "Al Ain",
+                  "text": "This point offers a wide panoramic view over the lush greenery of Al Ain's garden city.",
+                  "category": "natural",
+                  "coords": [
+                        55.78453,
+                        24.340808
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AE-AZ",
     coords: [55.7202, 24.3644],
@@ -147,7 +2019,124 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "jebel-buhais-history-v2",
+    id: "jebel-buhais-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Thuqeibah",
+                  "text": "Diese archäologische Stätte aus der Eisenzeit umfasst Reste von Steinhäusern und ein antikes Falaj-System.",
+                  "category": "historical",
+                  "coords": [
+                        55.802484,
+                        24.955155
+                  ]
+            },
+            {
+                  "name": "Jabal Umaylih",
+                  "text": "Ein markanter Berg, der für seine fossilen Funde und seine Lage inmitten der Fayah-Wüste bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        55.822463,
+                        25.050063
+                  ]
+            },
+            {
+                  "name": "Al Fayah Mosque",
+                  "text": "Eine moderne Moschee am Fuße des Jebel Fayah, die mit ihrer schlichten Architektur die Berglandschaft ergänzt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.799073,
+                        25.051783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Thuqeibah",
+                  "text": "Ez a vaskori régészeti lelőhely kőházak maradványait és egy ősi Falaj-rendszert foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        55.802484,
+                        24.955155
+                  ]
+            },
+            {
+                  "name": "Jabal Umaylih",
+                  "text": "Jellegzetes hegy, amely fosszilis leleteiről és a Fayah-sivatag közepén elfoglalt helyéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        55.822463,
+                        25.050063
+                  ]
+            },
+            {
+                  "name": "Al Fayah Mosque",
+                  "text": "Modern mecset a Jebel Fayah lábánál, amely letisztult építészetével kiegészíti a hegyi tájat.",
+                  "category": "landmark",
+                  "coords": [
+                        55.799073,
+                        25.051783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Thuqeibah",
+                  "text": "Acest sit arheologic din epoca fierului cuprinde resturi de case din piatră și un sistem antic Falaj.",
+                  "category": "historical",
+                  "coords": [
+                        55.802484,
+                        24.955155
+                  ]
+            },
+            {
+                  "name": "Jabal Umaylih",
+                  "text": "Un munte distinctiv cunoscut pentru fosilele sale și locația sa în mijlocul deșertului Fayah.",
+                  "category": "natural",
+                  "coords": [
+                        55.822463,
+                        25.050063
+                  ]
+            },
+            {
+                  "name": "Al Fayah Mosque",
+                  "text": "O moschee modernă la poalele Jebel Fayah, a cărei arhitectură simplă completează peisajul montan.",
+                  "category": "landmark",
+                  "coords": [
+                        55.799073,
+                        25.051783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Thuqeibah",
+                  "text": "This Iron Age archaeological site features the remains of stone houses and an ancient Falaj irrigation system.",
+                  "category": "historical",
+                  "coords": [
+                        55.802484,
+                        24.955155
+                  ]
+            },
+            {
+                  "name": "Jabal Umaylih",
+                  "text": "A distinctive mountain known for its fossil finds and its location in the middle of the Fayah desert.",
+                  "category": "natural",
+                  "coords": [
+                        55.822463,
+                        25.050063
+                  ]
+            },
+            {
+                  "name": "Al Fayah Mosque",
+                  "text": "A modern mosque at the foot of Jebel Fayah, with simple architecture that complements the mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        55.799073,
+                        25.051783
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AE-SH",
     coords: [55.7972, 25.0113],
@@ -183,7 +2172,412 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sakamkam-fort-history-v2",
+    id: "sakamkam-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Fariq",
+                  "text": "Ein felsiger Berggipfel oberhalb von Sakamkam, der weite Ausblicke auf die Küstenebene bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.298847,
+                        25.198784
+                  ]
+            },
+            {
+                  "name": "Fujairah Theatre",
+                  "text": "Ein kulturelles Zentrum für darstellende Künste, das lokale Theaterproduktionen und Veranstaltungen in Fujairah beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        56.353827,
+                        25.146233
+                  ]
+            },
+            {
+                  "name": "St. Gregorios Orthodox Church",
+                  "text": "Eine dem heiligen Gregor gewidmete Kirche der malankarisch-orthodox-syrischen Gemeinde in Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342216,
+                        25.147968
+                  ]
+            },
+            {
+                  "name": "Salamah Bin Thabit Mosque",
+                  "text": "Eine ruhige Nachbarschaftsmoschee im historischen Viertel Sakamkam von Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.349701,
+                        25.143087
+                  ]
+            },
+            {
+                  "name": "Immanuel Mar Thoma Church",
+                  "text": "Ein bedeutendes Gotteshaus für die syrisch-christliche Mar-Thoma-Gemeinde aus Südindien.",
+                  "category": "landmark",
+                  "coords": [
+                        56.341234,
+                        25.148216
+                  ]
+            },
+            {
+                  "name": "Habib Bin Zaid Mosque",
+                  "text": "Eine kleine Gemeindemoschee in Sakamkam, die einen friedlichen Raum für die täglichen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        56.351254,
+                        25.140417
+                  ]
+            },
+            {
+                  "name": "Salem Bin Umair Mosque",
+                  "text": "Eine Nachbarschaftsmoschee am Stadtrand von Fujairah, die durch ihre traditionelle Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        56.339414,
+                        25.165408
+                  ]
+            },
+            {
+                  "name": "Masjid Noor",
+                  "text": "Eine hell gestaltete Moschee, die das Wohnviertel Sakamkam in Fujairah mit Gebetsräumen versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        56.34781,
+                        25.141489
+                  ]
+            },
+            {
+                  "name": "Al Rahmah Mosque",
+                  "text": "Ein friedliches Gotteshaus unweit der neueren Wohngebiete von Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346174,
+                        25.144892
+                  ]
+            },
+            {
+                  "name": "Al Numan Bin Malik Mosque",
+                  "text": "Eine örtliche Moschee, die der Gemeinde Sakamkam wichtige religiöse Dienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342584,
+                        25.144622
+                  ]
+            },
+            {
+                  "name": "Amr Ibn Al Aas Mosque",
+                  "text": "Eine Moschee in Fujairah, die den spirituellen Bedürfnissen der umliegenden Bewohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346591,
+                        25.155848
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Fariq",
+                  "text": "Sziklás hegycsúcs Sakamkam felett, amely panorámás kilátást nyújt a tengerparti síkságra.",
+                  "category": "natural",
+                  "coords": [
+                        56.298847,
+                        25.198784
+                  ]
+            },
+            {
+                  "name": "Fujairah Theatre",
+                  "text": "Kulturális központ, amely helyi színházi előadásoknak és rendezvényeknek ad otthont Fujairahban.",
+                  "category": "cultural",
+                  "coords": [
+                        56.353827,
+                        25.146233
+                  ]
+            },
+            {
+                  "name": "St. Gregorios Orthodox Church",
+                  "text": "A malankara ortodox szír közösségnek szentelt templom Fujairah városában.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342216,
+                        25.147968
+                  ]
+            },
+            {
+                  "name": "Salamah Bin Thabit Mosque",
+                  "text": "Nyugodt kis mecset Fujairah történelmi Sakamkam negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        56.349701,
+                        25.143087
+                  ]
+            },
+            {
+                  "name": "Immanuel Mar Thoma Church",
+                  "text": "A Dél-Indiából származó szír keresztény Mar Thoma közösség fontos temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        56.341234,
+                        25.148216
+                  ]
+            },
+            {
+                  "name": "Habib Bin Zaid Mosque",
+                  "text": "Közösségi mecset Sakamkam területén, amely békés helyszínt biztosít a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        56.351254,
+                        25.140417
+                  ]
+            },
+            {
+                  "name": "Salem Bin Umair Mosque",
+                  "text": "Hagyományos építészetű mecset Fujairah külvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        56.339414,
+                        25.165408
+                  ]
+            },
+            {
+                  "name": "Masjid Noor",
+                  "text": "Világos közösségi mecset, amely Sakamkam lakónegyedét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        56.34781,
+                        25.141489
+                  ]
+            },
+            {
+                  "name": "Al Rahmah Mosque",
+                  "text": "Békés imaház Fujairah újabb lakóövezeteinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346174,
+                        25.144892
+                  ]
+            },
+            {
+                  "name": "Al Numan Bin Malik Mosque",
+                  "text": "Helyi mecset, amely fontos vallási szolgáltatásokat nyújt Sakamkam közösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342584,
+                        25.144622
+                  ]
+            },
+            {
+                  "name": "Amr Ibn Al Aas Mosque",
+                  "text": "Helyi mecset, amely Fujairah lakóinak spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346591,
+                        25.155848
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Fariq",
+                  "text": "Un vârf stâncos deasupra zonei Sakamkam, oferind priveliști panoramice asupra câmpiei de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        56.298847,
+                        25.198784
+                  ]
+            },
+            {
+                  "name": "Fujairah Theatre",
+                  "text": "Un centru cultural pentru artele spectacolului, care găzduiește producții teatrale locale și evenimente în Fujairah.",
+                  "category": "cultural",
+                  "coords": [
+                        56.353827,
+                        25.146233
+                  ]
+            },
+            {
+                  "name": "St. Gregorios Orthodox Church",
+                  "text": "O biserică dedicată comunității ortodoxe siriene Malankara din Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342216,
+                        25.147968
+                  ]
+            },
+            {
+                  "name": "Salamah Bin Thabit Mosque",
+                  "text": "O moschee liniștită de cartier situată în districtul istoric Sakamkam din Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.349701,
+                        25.143087
+                  ]
+            },
+            {
+                  "name": "Immanuel Mar Thoma Church",
+                  "text": "Un lăcaș de cult important pentru comunitatea creștină siriană Mar Thoma din sudul Indiei.",
+                  "category": "landmark",
+                  "coords": [
+                        56.341234,
+                        25.148216
+                  ]
+            },
+            {
+                  "name": "Habib Bin Zaid Mosque",
+                  "text": "O moschee comunitară din Sakamkam care oferă un spațiu liniștit pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        56.351254,
+                        25.140417
+                  ]
+            },
+            {
+                  "name": "Salem Bin Umair Mosque",
+                  "text": "O moschee de cartier situată la periferia orașului Fujairah, caracterizată prin arhitectura sa tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        56.339414,
+                        25.165408
+                  ]
+            },
+            {
+                  "name": "Masjid Noor",
+                  "text": "O moschee comunitară luminoasă care deservește cartierul rezidențial Sakamkam din Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.34781,
+                        25.141489
+                  ]
+            },
+            {
+                  "name": "Al Rahmah Mosque",
+                  "text": "Un lăcaș de cult liniștit situat în apropierea noilor zone rezidențiale din Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346174,
+                        25.144892
+                  ]
+            },
+            {
+                  "name": "Al Numan Bin Malik Mosque",
+                  "text": "O moschee locală care oferă servicii religioase esențiale comunității din Sakamkam.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342584,
+                        25.144622
+                  ]
+            },
+            {
+                  "name": "Amr Ibn Al Aas Mosque",
+                  "text": "O moschee de cartier care deservește nevoile spirituale ale rezidenților locali din Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346591,
+                        25.155848
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Fariq",
+                  "text": "A rocky peak rising above the Sakamkam area, offering panoramic views of the coastal plains.",
+                  "category": "natural",
+                  "coords": [
+                        56.298847,
+                        25.198784
+                  ]
+            },
+            {
+                  "name": "Fujairah Theatre",
+                  "text": "A central hub for the performing arts, hosting local theatrical productions and cultural events in Fujairah.",
+                  "category": "cultural",
+                  "coords": [
+                        56.353827,
+                        25.146233
+                  ]
+            },
+            {
+                  "name": "St. Gregorios Orthodox Church",
+                  "text": "A dedicated place of worship for the Malankara Orthodox Syrian community in Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342216,
+                        25.147968
+                  ]
+            },
+            {
+                  "name": "Salamah Bin Thabit Mosque",
+                  "text": "A tranquil neighborhood mosque located in the historic Sakamkam district of Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.349701,
+                        25.143087
+                  ]
+            },
+            {
+                  "name": "Immanuel Mar Thoma Church",
+                  "text": "A significant place of worship for the Mar Thoma Syrian Christian community from South India.",
+                  "category": "landmark",
+                  "coords": [
+                        56.341234,
+                        25.148216
+                  ]
+            },
+            {
+                  "name": "Habib Bin Zaid Mosque",
+                  "text": "A community mosque providing a peaceful space for daily prayers in the Sakamkam area.",
+                  "category": "landmark",
+                  "coords": [
+                        56.351254,
+                        25.140417
+                  ]
+            },
+            {
+                  "name": "Salem Bin Umair Mosque",
+                  "text": "A neighborhood mosque characterized by its traditional architecture in the outskirts of Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.339414,
+                        25.165408
+                  ]
+            },
+            {
+                  "name": "Masjid Noor",
+                  "text": "A brightly lit community mosque serving the residential neighborhood of Sakamkam.",
+                  "category": "landmark",
+                  "coords": [
+                        56.34781,
+                        25.141489
+                  ]
+            },
+            {
+                  "name": "Al Rahmah Mosque",
+                  "text": "A peaceful place of worship located near the residential developments of Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346174,
+                        25.144892
+                  ]
+            },
+            {
+                  "name": "Al Numan Bin Malik Mosque",
+                  "text": "A local mosque providing essential religious services to the Sakamkam community.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342584,
+                        25.144622
+                  ]
+            },
+            {
+                  "name": "Amr Ibn Al Aas Mosque",
+                  "text": "A neighborhood mosque serving the spiritual needs of the local residents in Fujairah.",
+                  "category": "landmark",
+                  "coords": [
+                        56.346591,
+                        25.155848
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-FU",
     coords: [56.3333, 25.1555],
@@ -219,7 +2613,124 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "awhlah-fort-history-v2",
+    id: "awhlah-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Ahmaren",
+                  "text": "Ein markanter Berggipfel nahe der Grenze zu Oman, der die Wüstenlandschaft der Region Fujairah überragt.",
+                  "category": "natural",
+                  "coords": [
+                        56.270372,
+                        24.813879
+                  ]
+            },
+            {
+                  "name": "Wahla Fort",
+                  "text": "Diese massive Festung wurde auf Fundamenten aus der Eisenzeit errichtet und verfügt über einen markanten, hohen Rundturm.",
+                  "category": "castle",
+                  "coords": [
+                        56.303463,
+                        24.907906
+                  ]
+            },
+            {
+                  "name": "Ajib Castle",
+                  "text": "Die Ruinen dieser historischen Befestigungsanlage liegen eingebettet in die schroffen Hügel nahe der Küste von Fujairah.",
+                  "category": "historical",
+                  "coords": [
+                        56.288871,
+                        24.777827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Ahmaren",
+                  "text": "Egy látványos hegycsúcs az ománi határ közelében, amely Fujairah sivatagi tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        56.270372,
+                        24.813879
+                  ]
+            },
+            {
+                  "name": "Wahla Fort",
+                  "text": "Ez a masszív erőd egy vaskori erődítmény alapjaira épült, és egy jellegzetes, magas kerek toronnyal rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        56.303463,
+                        24.907906
+                  ]
+            },
+            {
+                  "name": "Ajib Castle",
+                  "text": "Ennek a történelmi erődítménynek a romjai Fujairah tengerpartjához közeli zord dombok között bújnak meg.",
+                  "category": "historical",
+                  "coords": [
+                        56.288871,
+                        24.777827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Ahmaren",
+                  "text": "Un vârf muntos izbitor lângă granița cu Oman, care domină peisajul deșertic al regiunii Fujairah.",
+                  "category": "natural",
+                  "coords": [
+                        56.270372,
+                        24.813879
+                  ]
+            },
+            {
+                  "name": "Wahla Fort",
+                  "text": "Această fortăreață masivă a fost construită pe fundații din Epoca Fierului și are un turn rotund distinctiv și înalt.",
+                  "category": "castle",
+                  "coords": [
+                        56.303463,
+                        24.907906
+                  ]
+            },
+            {
+                  "name": "Ajib Castle",
+                  "text": "Ruinele acestei fortificații istorice sunt cuibărite printre dealurile accidentate de lângă coasta Fujairah.",
+                  "category": "historical",
+                  "coords": [
+                        56.288871,
+                        24.777827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Ahmaren",
+                  "text": "A striking mountain peak near the Oman border that towers over the desert landscape of the Fujairah region.",
+                  "category": "natural",
+                  "coords": [
+                        56.270372,
+                        24.813879
+                  ]
+            },
+            {
+                  "name": "Wahla Fort",
+                  "text": "Built on foundations dating back to the Iron Age, this massive fortress features a distinctive and tall circular tower.",
+                  "category": "castle",
+                  "coords": [
+                        56.303463,
+                        24.907906
+                  ]
+            },
+            {
+                  "name": "Ajib Castle",
+                  "text": "The ruins of this historic fortification are nestled among the rugged hills near the Fujairah coast.",
+                  "category": "historical",
+                  "coords": [
+                        56.288871,
+                        24.777827
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-FU",
     coords: [56.2995, 24.8465],
@@ -255,7 +2766,196 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "umm-an-nar-site-history-v2",
+    id: "umm-an-nar-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Umm Al Nar Archeological Site",
+                  "text": "Eine bedeutende Ausgrabungsstätte mit kreisförmigen Steingräbern aus der Bronzezeit (Umm-al-Nar-Kultur).",
+                  "category": "historical",
+                  "coords": [
+                        54.514184,
+                        24.438588
+                  ]
+            },
+            {
+                  "name": "SN IP 001",
+                  "text": "Ein industrieller Orientierungspunkt im Hafenbereich von Umm Al Nar.",
+                  "category": "landmark",
+                  "coords": [
+                        54.513958,
+                        24.419193
+                  ]
+            },
+            {
+                  "name": "Al Raha Beach Theater",
+                  "text": "Ein markantes Theater am Wasser, das oft als Austragungsort für die berühmte Poesie-Show 'Million's Poet' dient.",
+                  "category": "cultural",
+                  "coords": [
+                        54.537173,
+                        24.429627
+                  ]
+            },
+            {
+                  "name": "Al Rayyana Mosque",
+                  "text": "Eine zeitgenössische Moschee, die der modernen Wohnanlage Al Rayyana als religiöses Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        54.53662,
+                        24.411961
+                  ]
+            },
+            {
+                  "name": "Khalifa City A Market",
+                  "text": "Ein lebhafter lokaler Marktplatz in Khalifa City, ideal für frische Lebensmittel und Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        54.565565,
+                        24.421578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Umm Al Nar Archeological Site",
+                  "text": "Jelentős régészeti lelőhely a bronzkori Umm al-Nar kultúra jellegzetes kerek kősírjaival.",
+                  "category": "historical",
+                  "coords": [
+                        54.514184,
+                        24.438588
+                  ]
+            },
+            {
+                  "name": "SN IP 001",
+                  "text": "Ipari tájékozódási pont Umm Al Nar kikötői negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.513958,
+                        24.419193
+                  ]
+            },
+            {
+                  "name": "Al Raha Beach Theater",
+                  "text": "Jellegzetes vízparti színház, amely gyakran ad otthont a híres 'Million's Poet' vetélkedőnek.",
+                  "category": "cultural",
+                  "coords": [
+                        54.537173,
+                        24.429627
+                  ]
+            },
+            {
+                  "name": "Al Rayyana Mosque",
+                  "text": "Kortárs mecset, amely az Al Rayyana lakópark vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        54.53662,
+                        24.411961
+                  ]
+            },
+            {
+                  "name": "Khalifa City A Market",
+                  "text": "Nyüzsgő helyi piac Khalifa Cityben, amely friss élelmiszereket és napi cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        54.565565,
+                        24.421578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Umm Al Nar Archeological Site",
+                  "text": "Un sit arheologic major ce cuprinde morminte circulare din piatră din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        54.514184,
+                        24.438588
+                  ]
+            },
+            {
+                  "name": "SN IP 001",
+                  "text": "Un punct de reper industrial situat în zona portuară Umm Al Nar.",
+                  "category": "landmark",
+                  "coords": [
+                        54.513958,
+                        24.419193
+                  ]
+            },
+            {
+                  "name": "Al Raha Beach Theater",
+                  "text": "Un teatru distinctiv pe malul apei, sediul frecvent al celebrului concurs de poezie 'Million's Poet'.",
+                  "category": "cultural",
+                  "coords": [
+                        54.537173,
+                        24.429627
+                  ]
+            },
+            {
+                  "name": "Al Rayyana Mosque",
+                  "text": "O moschee contemporană care servește ca centru religios pentru complexul rezidențial Al Rayyana.",
+                  "category": "landmark",
+                  "coords": [
+                        54.53662,
+                        24.411961
+                  ]
+            },
+            {
+                  "name": "Khalifa City A Market",
+                  "text": "O piață locală plină de viață în Khalifa City, ideală pentru alimente proaspete și produse de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        54.565565,
+                        24.421578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Umm Al Nar Archeological Site",
+                  "text": "A major archaeological site featuring circular stone tombs from the Bronze Age Umm al-Nar culture.",
+                  "category": "historical",
+                  "coords": [
+                        54.514184,
+                        24.438588
+                  ]
+            },
+            {
+                  "name": "SN IP 001",
+                  "text": "An industrial landmark located within the port area of Umm Al Nar.",
+                  "category": "landmark",
+                  "coords": [
+                        54.513958,
+                        24.419193
+                  ]
+            },
+            {
+                  "name": "Al Raha Beach Theater",
+                  "text": "A striking waterfront theater, often the venue for the famous 'Million's Poet' television show.",
+                  "category": "cultural",
+                  "coords": [
+                        54.537173,
+                        24.429627
+                  ]
+            },
+            {
+                  "name": "Al Rayyana Mosque",
+                  "text": "A contemporary mosque serving as the religious center for the Al Rayyana residential community.",
+                  "category": "landmark",
+                  "coords": [
+                        54.53662,
+                        24.411961
+                  ]
+            },
+            {
+                  "name": "Khalifa City A Market",
+                  "text": "A bustling local marketplace in Khalifa City, ideal for fresh food and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        54.565565,
+                        24.421578
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AE-AZ",
     coords: [54.4988, 24.4428],
@@ -291,7 +2991,52 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "dalma-pearl-center-history-v2",
+    id: "dalma-pearl-center-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Delma Museum",
+                  "text": "Dieses Heimatmuseum auf der Insel Dalma zeigt die reiche Geschichte der Perlentaucherei der Region.",
+                  "category": "museum",
+                  "coords": [
+                        52.304561,
+                        24.482259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Delma Museum",
+                  "text": "Ez a Dalma-szigeten található örökségvédelmi múzeum a régió gazdag gyöngyhalászati történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        52.304561,
+                        24.482259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Delma Museum",
+                  "text": "Acest muzeu de patrimoniu de pe Insula Dalma prezintă istoria bogată a pescuitului de perle din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        52.304561,
+                        24.482259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Delma Museum",
+                  "text": "This heritage museum on Dalma Island showcases the region's rich pearl-diving history.",
+                  "category": "museum",
+                  "coords": [
+                        52.304561,
+                        24.482259
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AE-AZ",
     coords: [52.3175, 24.4844],
@@ -327,7 +3072,196 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "sheikh-saeed-house-history-v2",
+    id: "sheikh-saeed-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Shindagha Museum",
+                  "text": "Ein interaktives Museum, das die maritime Geschichte und das Erbe des Perlentauchens beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        55.289452,
+                        25.266427
+                  ]
+            },
+            {
+                  "name": "Spice Souk",
+                  "text": "Ein traditioneller Markt, berühmt für seine aromatischen Kräuter, exotischen Gewürze und Weihrauch.",
+                  "category": "landmark",
+                  "coords": [
+                        55.294481,
+                        25.264591
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "Ein rekonstruiertes Dorf, das das traditionelle Wüstenleben und alte Küstenhandwerke lebendig macht.",
+                  "category": "museum",
+                  "coords": [
+                        55.291156,
+                        25.269959
+                  ]
+            },
+            {
+                  "name": "Saeed Al Maktoum House",
+                  "text": "Die ehemalige Herrscherresidenz verfügt über traditionelle Windtürme und zeigt historische Fotografien der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        55.29009,
+                        25.267995
+                  ]
+            },
+            {
+                  "name": "Fatma Hassan Mohamed Yousef Bastaki Mosque",
+                  "text": "Eine Gemeindemoschee, die den Bewohnern und Besuchern in der Nähe des Dubai Creek dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2893,
+                        25.261888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Shindagha Museum",
+                  "text": "Interaktív múzeum, amely a tengeri történelmet és a gyöngyhalászat örökségét világítja meg.",
+                  "category": "museum",
+                  "coords": [
+                        55.289452,
+                        25.266427
+                  ]
+            },
+            {
+                  "name": "Spice Souk",
+                  "text": "Hagyományos piac, amely aromás gyógynövényeiről, egzotikus fűszereiről és tömjénjéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        55.294481,
+                        25.264591
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "Rekonstruált falu, amely életre kelti a hagyományos sivatagi életet és a régi tengerparti mesterségeket.",
+                  "category": "museum",
+                  "coords": [
+                        55.291156,
+                        25.269959
+                  ]
+            },
+            {
+                  "name": "Saeed Al Maktoum House",
+                  "text": "Az egykori uralkodói rezidencia hagyományos széltornyokkal rendelkezik, és a város történelmi fotóit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.29009,
+                        25.267995
+                  ]
+            },
+            {
+                  "name": "Fatma Hassan Mohamed Yousef Bastaki Mosque",
+                  "text": "A Dubai Creek közelében élőket és látogatókat kiszolgáló közösségi mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2893,
+                        25.261888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Shindagha Museum",
+                  "text": "Un muzeu interactiv care evidențiază istoria maritimă și moștenirea pescuitului de perle.",
+                  "category": "museum",
+                  "coords": [
+                        55.289452,
+                        25.266427
+                  ]
+            },
+            {
+                  "name": "Spice Souk",
+                  "text": "O piață tradițională renumită pentru ierburile sale aromatice, condimentele exotice și tămâie.",
+                  "category": "landmark",
+                  "coords": [
+                        55.294481,
+                        25.264591
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "Un sat reconstruit care readuce la viață viața tradițională din deșert și vechile meșteșuguri de coastă.",
+                  "category": "museum",
+                  "coords": [
+                        55.291156,
+                        25.269959
+                  ]
+            },
+            {
+                  "name": "Saeed Al Maktoum House",
+                  "text": "Fosta reședință a conducătorului are turnuri de vânt tradiționale și expune fotografii istorice ale orașului.",
+                  "category": "museum",
+                  "coords": [
+                        55.29009,
+                        25.267995
+                  ]
+            },
+            {
+                  "name": "Fatma Hassan Mohamed Yousef Bastaki Mosque",
+                  "text": "O moschee comunitară care deservește rezidenții și vizitatorii din apropierea Dubai Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2893,
+                        25.261888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Shindagha Museum",
+                  "text": "An interactive museum highlighting maritime history and the heritage of pearl diving.",
+                  "category": "museum",
+                  "coords": [
+                        55.289452,
+                        25.266427
+                  ]
+            },
+            {
+                  "name": "Spice Souk",
+                  "text": "A traditional market famous for its aromatic herbs, exotic spices, and incense.",
+                  "category": "landmark",
+                  "coords": [
+                        55.294481,
+                        25.264591
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "A reconstructed village that brings traditional desert life and old coastal crafts to life.",
+                  "category": "museum",
+                  "coords": [
+                        55.291156,
+                        25.269959
+                  ]
+            },
+            {
+                  "name": "Saeed Al Maktoum House",
+                  "text": "The former ruler's residence features traditional wind towers and displays historic photographs of the city.",
+                  "category": "museum",
+                  "coords": [
+                        55.29009,
+                        25.267995
+                  ]
+            },
+            {
+                  "name": "Fatma Hassan Mohamed Yousef Bastaki Mosque",
+                  "text": "A community mosque serving the residents and visitors near the Dubai Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.2893,
+                        25.261888
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-DU",
     coords: [55.2922, 25.2668],
@@ -363,7 +3297,484 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "dibba-al-hisn-fort-history-v2",
+    id: "dibba-al-hisn-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Wamm",
+                  "text": "Ein schroffer Berggipfel in der Nähe von Dibba, der die nördlichen Ausläufer des Hadschar-Gebirges prägt.",
+                  "category": "natural",
+                  "coords": [
+                        56.199712,
+                        25.601252
+                  ]
+            },
+            {
+                  "name": "Dibba Rock",
+                  "text": "Eine markante Felsinsel vor der Küste von Dibba, die als beliebtes Ziel für Taucher und Schnorchler bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        56.350242,
+                        25.603433
+                  ]
+            },
+            {
+                  "name": "Jabal Haryat Al Sidrah",
+                  "text": "Ein Gipfel im Musandam-Gebirge, der das Hinterland von Dibba Al-Hisn überragt.",
+                  "category": "natural",
+                  "coords": [
+                        56.322195,
+                        25.563297
+                  ]
+            },
+            {
+                  "name": "Area 6 - Area contains six circular oval cairn and mound tombs",
+                  "text": "Eine archäologische Zone mit sechs kreisförmigen Grabhügeln und Steinhaufen aus prähistorischer Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        56.205577,
+                        25.572008
+                  ]
+            },
+            {
+                  "name": "Dibba Theater",
+                  "text": "Ein lokales Kulturzentrum in Dibba, das als Bühne für regionale Theateraufführungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        56.276491,
+                        25.601959
+                  ]
+            },
+            {
+                  "name": "Akamiya Public Beach",
+                  "text": "Ein weitläufiger öffentlicher Sandstrand am Golf von Oman, ideal zum Schwimmen und für Spaziergänge.",
+                  "category": "recreational",
+                  "coords": [
+                        56.303861,
+                        25.609669
+                  ]
+            },
+            {
+                  "name": "Ridha Mosque",
+                  "text": "Eine moderne Moschee in Dibba, die sich durch ihr klassisches Minarett und die helle Fassade auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        56.28941,
+                        25.600368
+                  ]
+            },
+            {
+                  "name": "Baldiya Dibba",
+                  "text": "Ein zentral gelegenes muslimisches Gotteshaus in Dibba, das der örtlichen Gemeinschaft als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        56.27469,
+                        25.593869
+                  ]
+            },
+            {
+                  "name": "dibba al fujaira",
+                  "text": "Eine Moschee in Dibba Al-Fujairah, die als religiöser Treffpunkt im Küstenviertel fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        56.273097,
+                        25.593037
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ein schlichtes muslimisches Gebetshaus in Dibba, das sich harmonisch in die lokale Architektur einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        56.293708,
+                        25.607805
+                  ]
+            },
+            {
+                  "name": "Rashed Bin Ahmed A;Qassimi Mosque",
+                  "text": "Diese Moschee in Dibba besticht durch ihre traditionelle Gestaltung und ihre Bedeutung für das Gemeindeleben.",
+                  "category": "landmark",
+                  "coords": [
+                        56.278328,
+                        25.614627
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Mosque",
+                  "text": "Ein beeindruckendes islamisches Bauwerk in Dibba, benannt nach dem Gründervater der VAE.",
+                  "category": "landmark",
+                  "coords": [
+                        56.275086,
+                        25.600906
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "Ein lebhafter Marktplatz in Küstennähe, auf dem täglich frisch gefangener Fisch aus dem Golf angeboten wird.",
+                  "category": "cultural",
+                  "coords": [
+                        56.269024,
+                        25.650551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Wamm",
+                  "text": "Sziklás hegycsúcs Dibba közelében, amely a Hádzsar-hegység északi nyúlványait uralja.",
+                  "category": "natural",
+                  "coords": [
+                        56.199712,
+                        25.601252
+                  ]
+            },
+            {
+                  "name": "Dibba Rock",
+                  "text": "Jellegzetes sziklasziget Dibba partjainál, amely a búvárok és sznorkelezők népszerű célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        56.350242,
+                        25.603433
+                  ]
+            },
+            {
+                  "name": "Jabal Haryat Al Sidrah",
+                  "text": "A Muszandam-hegység egyik csúcsa, amely Dibba Al-Hisn hátországa fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        56.322195,
+                        25.563297
+                  ]
+            },
+            {
+                  "name": "Area 6 - Area contains six circular oval cairn and mound tombs",
+                  "text": "Régészeti terület hat kör alakú sírhalommal és kőrakással a történelem előtti időkből.",
+                  "category": "historical",
+                  "coords": [
+                        56.205577,
+                        25.572008
+                  ]
+            },
+            {
+                  "name": "Dibba Theater",
+                  "text": "Helyi kulturális központ Dibbában, amely regionális színi előadások helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        56.276491,
+                        25.601959
+                  ]
+            },
+            {
+                  "name": "Akamiya Public Beach",
+                  "text": "Tágas nyilvános homokos strand az Ománi-öböl partján, amely ideális úszáshoz és sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        56.303861,
+                        25.609669
+                  ]
+            },
+            {
+                  "name": "Ridha Mosque",
+                  "text": "Modern mecset Dibbában, amelyet klasszikus minaretje és világos homlokzata jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        56.28941,
+                        25.600368
+                  ]
+            },
+            {
+                  "name": "Baldiya Dibba",
+                  "text": "Központi fekvésű muszlim imaház Dibbában, amely a helyi közösség hitéletének színhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        56.27469,
+                        25.593869
+                  ]
+            },
+            {
+                  "name": "dibba al fujaira",
+                  "text": "Mecset Dibba Al-Fujairah városában, amely vallási gyülekezőhelyként szolgál a parti negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        56.273097,
+                        25.593037
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egyszerű muszlim imaház Dibbában, amely harmonikusan illeszkedik a helyi építészetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        56.293708,
+                        25.607805
+                  ]
+            },
+            {
+                  "name": "Rashed Bin Ahmed A;Qassimi Mosque",
+                  "text": "Ez a dibbai mecset hagyományos kialakításával és a közösségi életben betöltött szerepével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        56.278328,
+                        25.614627
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Mosque",
+                  "text": "Lenyűgöző iszlám építmény Dibbában, amelyet az Egyesült Arab Emírségek alapító atyjáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        56.275086,
+                        25.600906
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "Nyüzsgő piactér a part közelében, ahol naponta kínálnak frissen fogott halat az öbölből.",
+                  "category": "cultural",
+                  "coords": [
+                        56.269024,
+                        25.650551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Wamm",
+                  "text": "Un vârf muntos accidentat lângă Dibba, care domină ramificațiile nordice ale Munților Hajar.",
+                  "category": "natural",
+                  "coords": [
+                        56.199712,
+                        25.601252
+                  ]
+            },
+            {
+                  "name": "Dibba Rock",
+                  "text": "O insulă stâncoasă distinctivă în largul coastei Dibba, cunoscută ca destinație populară pentru scufundări.",
+                  "category": "landmark",
+                  "coords": [
+                        56.350242,
+                        25.603433
+                  ]
+            },
+            {
+                  "name": "Jabal Haryat Al Sidrah",
+                  "text": "Un vârf în Munții Musandam, care se înalță deasupra regiunii din spatele orașului Dibba Al-Hisn.",
+                  "category": "natural",
+                  "coords": [
+                        56.322195,
+                        25.563297
+                  ]
+            },
+            {
+                  "name": "Area 6 - Area contains six circular oval cairn and mound tombs",
+                  "text": "O zonă arheologică ce conține șase tumuli circulari și morminte de piatră din epoca preistorică.",
+                  "category": "historical",
+                  "coords": [
+                        56.205577,
+                        25.572008
+                  ]
+            },
+            {
+                  "name": "Dibba Theater",
+                  "text": "Un centru cultural local în Dibba, care servește ca scenă pentru spectacole de teatru regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        56.276491,
+                        25.601959
+                  ]
+            },
+            {
+                  "name": "Akamiya Public Beach",
+                  "text": "O plajă publică de nisip întinsă la Golful Oman, ideală pentru înot și plimbări.",
+                  "category": "recreational",
+                  "coords": [
+                        56.303861,
+                        25.609669
+                  ]
+            },
+            {
+                  "name": "Ridha Mosque",
+                  "text": "O moschee modernă în Dibba, caracterizată prin minaretul său clasic și fațada luminoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        56.28941,
+                        25.600368
+                  ]
+            },
+            {
+                  "name": "Baldiya Dibba",
+                  "text": "Un lăcaș de cult musulman situat central în Dibba, servind comunitatea locală pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        56.27469,
+                        25.593869
+                  ]
+            },
+            {
+                  "name": "dibba al fujaira",
+                  "text": "O moschee în Dibba Al-Fujairah, care funcționează ca loc de întâlnire religioasă în cartierul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        56.273097,
+                        25.593037
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O casă de rugăciune musulmană simplă în Dibba, care se integrează armonios în arhitectura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        56.293708,
+                        25.607805
+                  ]
+            },
+            {
+                  "name": "Rashed Bin Ahmed A;Qassimi Mosque",
+                  "text": "Această moschee din Dibba impresionează prin designul său tradițional și rolul său în viața comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        56.278328,
+                        25.614627
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Mosque",
+                  "text": "O structură islamică impresionantă în Dibba, numită după tatăl fondator al Emiratelor Arabe Unite.",
+                  "category": "landmark",
+                  "coords": [
+                        56.275086,
+                        25.600906
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "O piață plină de viață lângă coastă, unde se vinde zilnic pește proaspăt prins din golf.",
+                  "category": "cultural",
+                  "coords": [
+                        56.269024,
+                        25.650551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Wamm",
+                  "text": "A rugged mountain peak near Dibba that dominates the northern reaches of the Hajar range.",
+                  "category": "natural",
+                  "coords": [
+                        56.199712,
+                        25.601252
+                  ]
+            },
+            {
+                  "name": "Dibba Rock",
+                  "text": "A distinctive rocky islet off the coast of Dibba, famous as a popular spot for divers and snorkelers.",
+                  "category": "landmark",
+                  "coords": [
+                        56.350242,
+                        25.603433
+                  ]
+            },
+            {
+                  "name": "Jabal Haryat Al Sidrah",
+                  "text": "A peak in the Musandam mountains towering over the hinterland of Dibba Al-Hisn.",
+                  "category": "natural",
+                  "coords": [
+                        56.322195,
+                        25.563297
+                  ]
+            },
+            {
+                  "name": "Area 6 - Area contains six circular oval cairn and mound tombs",
+                  "text": "An archaeological area containing six circular mound tombs and cairns from prehistoric times.",
+                  "category": "historical",
+                  "coords": [
+                        56.205577,
+                        25.572008
+                  ]
+            },
+            {
+                  "name": "Dibba Theater",
+                  "text": "A local cultural center in Dibba that serves as a venue for regional theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        56.276491,
+                        25.601959
+                  ]
+            },
+            {
+                  "name": "Akamiya Public Beach",
+                  "text": "A spacious public sandy beach on the Gulf of Oman, ideal for swimming and seaside strolls.",
+                  "category": "recreational",
+                  "coords": [
+                        56.303861,
+                        25.609669
+                  ]
+            },
+            {
+                  "name": "Ridha Mosque",
+                  "text": "A modern mosque in Dibba characterized by its classical minaret and bright facade.",
+                  "category": "landmark",
+                  "coords": [
+                        56.28941,
+                        25.600368
+                  ]
+            },
+            {
+                  "name": "Baldiya Dibba",
+                  "text": "A centrally located Muslim place of worship in Dibba serving the local community for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        56.27469,
+                        25.593869
+                  ]
+            },
+            {
+                  "name": "dibba al fujaira",
+                  "text": "A mosque in Dibba Al-Fujairah that functions as a religious gathering place in the coastal district.",
+                  "category": "landmark",
+                  "coords": [
+                        56.273097,
+                        25.593037
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A simple Muslim prayer house in Dibba that blends harmoniously into the local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        56.293708,
+                        25.607805
+                  ]
+            },
+            {
+                  "name": "Rashed Bin Ahmed A;Qassimi Mosque",
+                  "text": "This mosque in Dibba stands out for its traditional design and its importance to community life.",
+                  "category": "landmark",
+                  "coords": [
+                        56.278328,
+                        25.614627
+                  ]
+            },
+            {
+                  "name": "Sheikh Zayed Mosque",
+                  "text": "An impressive Islamic structure in Dibba named after the founding father of the UAE.",
+                  "category": "landmark",
+                  "coords": [
+                        56.275086,
+                        25.600906
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "A lively marketplace near the coast offering daily fresh catches from the Gulf waters.",
+                  "category": "cultural",
+                  "coords": [
+                        56.269024,
+                        25.650551
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-SH",
     coords: [56.2691, 25.6171],
@@ -399,7 +3810,196 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "masfut-fort-history-v2",
+    id: "masfut-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hadf gorge",
+                  "text": "Eine schroffe Felsschlucht im Hadschar-Gebirge, die bei Wanderern für ihre steilen Wände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        56.022272,
+                        24.803957
+                  ]
+            },
+            {
+                  "name": "Jabal Abu As Samasim",
+                  "text": "Ein markanter Kalksteingipfel in den kargen Bergen bei Masfut, der weite Ausblicke über das Grenzgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.042385,
+                        24.867451
+                  ]
+            },
+            {
+                  "name": "Jabal Bu Faraj",
+                  "text": "Dieser Gipfel im Hadschar-Gebirge bietet einen Panoramablick über die Masfut-Enklave und ihre Wadis.",
+                  "category": "natural",
+                  "coords": [
+                        56.061958,
+                        24.871093
+                  ]
+            },
+            {
+                  "name": "Jabal Jima",
+                  "text": "Ein karger Berggipfel an der Grenze zum Oman, der durch seine zerklüftete Felsformationen besticht.",
+                  "category": "natural",
+                  "coords": [
+                        56.041278,
+                        24.907578
+                  ]
+            },
+            {
+                  "name": "Qarn Bint",
+                  "text": "Ein spitzer Gebirgskamm im Hadschar-Territorium, charakteristisch für die felsige Landschaft der Region.",
+                  "category": "natural",
+                  "coords": [
+                        55.976748,
+                        24.891522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hadf gorge",
+                  "text": "Egy zord sziklás szurdok a Hajar-hegységben, amely meredek falairól ismert a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        56.022272,
+                        24.803957
+                  ]
+            },
+            {
+                  "name": "Jabal Abu As Samasim",
+                  "text": "Jellegzetes mészkőcsúcs a Masfut melletti kopár hegyekben, ahonnan kilátás nyílik a határvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        56.042385,
+                        24.867451
+                  ]
+            },
+            {
+                  "name": "Jabal Bu Faraj",
+                  "text": "Ez a Hajar-hegységbeli csúcs panorámás kilátást nyújt a Masfut-enklávéra és annak vádiira.",
+                  "category": "natural",
+                  "coords": [
+                        56.061958,
+                        24.871093
+                  ]
+            },
+            {
+                  "name": "Jabal Jima",
+                  "text": "Kopár hegycsúcs az ománi határon, amely csipkés sziklaformációival tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        56.041278,
+                        24.907578
+                  ]
+            },
+            {
+                  "name": "Qarn Bint",
+                  "text": "Hegyes hegygerinc a Hajar területén, amely a régió sziklás tájára jellemző.",
+                  "category": "natural",
+                  "coords": [
+                        55.976748,
+                        24.891522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hadf gorge",
+                  "text": "Un defileu stâncos accidentat în munții Hajar, cunoscut de drumeți pentru pereții săi abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        56.022272,
+                        24.803957
+                  ]
+            },
+            {
+                  "name": "Jabal Abu As Samasim",
+                  "text": "Un vârf de calcar proeminent în munții arizi de lângă Masfut, oferind vederi largi asupra zonei de frontieră.",
+                  "category": "natural",
+                  "coords": [
+                        56.042385,
+                        24.867451
+                  ]
+            },
+            {
+                  "name": "Jabal Bu Faraj",
+                  "text": "Acest vârf din munții Hajar oferă o vedere panoramică asupra enclavei Masfut și a udedurilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        56.061958,
+                        24.871093
+                  ]
+            },
+            {
+                  "name": "Jabal Jima",
+                  "text": "Un vârf de munte arid la granița cu Oman, care se remarcă prin formațiunile sale stâncoase zimțate.",
+                  "category": "natural",
+                  "coords": [
+                        56.041278,
+                        24.907578
+                  ]
+            },
+            {
+                  "name": "Qarn Bint",
+                  "text": "O creastă muntoasă ascuțită în teritoriul Hajar, caracteristică peisajului stâncos al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        55.976748,
+                        24.891522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hadf gorge",
+                  "text": "A rugged rocky gorge in the Hajar Mountains, known among hikers for its steep cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        56.022272,
+                        24.803957
+                  ]
+            },
+            {
+                  "name": "Jabal Abu As Samasim",
+                  "text": "A prominent limestone peak in the arid mountains near Masfut, offering wide views over the border region.",
+                  "category": "natural",
+                  "coords": [
+                        56.042385,
+                        24.867451
+                  ]
+            },
+            {
+                  "name": "Jabal Bu Faraj",
+                  "text": "This Hajar Mountain peak provides a panoramic view over the Masfut enclave and its surrounding wadis.",
+                  "category": "natural",
+                  "coords": [
+                        56.061958,
+                        24.871093
+                  ]
+            },
+            {
+                  "name": "Jabal Jima",
+                  "text": "A barren mountain peak on the Omani border, featuring jagged rock formations and steep slopes.",
+                  "category": "natural",
+                  "coords": [
+                        56.041278,
+                        24.907578
+                  ]
+            },
+            {
+                  "name": "Qarn Bint",
+                  "text": "A sharp mountain ridge in the Hajar territory, characteristic of the region's rocky landscape.",
+                  "category": "natural",
+                  "coords": [
+                        55.976748,
+                        24.891522
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-AJ",
     coords: [56.0234, 24.8197],
@@ -435,7 +4035,304 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "ajman-fort-history-v2",
+    id: "ajman-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ajman Museum",
+                  "text": "Ein historisches Museum in einer Festung aus dem 18. Jahrhundert, das die Geschichte von Adschman beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        55.44554,
+                        25.413451
+                  ]
+            },
+            {
+                  "name": "Masjid Abdullah Omran Street",
+                  "text": "Diese islamische Moschee dient als lokaler Kultort in Adschman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.446311,
+                        25.408388
+                  ]
+            },
+            {
+                  "name": "Musalla Al Eid Mosque",
+                  "text": "Diese muslimische Moschee ist ein ausgewiesener Ort für Eid-Gebete und tägliche Andachten in Adschman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.445098,
+                        25.410702
+                  ]
+            },
+            {
+                  "name": "Sheikh Hameed Bin Abdul Aziz Al Nuaimi Mosque",
+                  "text": "Diese muslimische Moschee in der Gegend von Adschman ist religiösen Gottesdiensten gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.444963,
+                        25.415577
+                  ]
+            },
+            {
+                  "name": "Mohammed Obaid Al Zaabi Mosque",
+                  "text": "Eine traditionelle muslimische Moschee, die einen spirituellen Versammlungsraum in Adschman bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.447611,
+                        25.418042
+                  ]
+            },
+            {
+                  "name": "Jamia Arhama Bu Ali Al-Shuwaihi ​Mosque",
+                  "text": "Diese islamische Moschee in Adschman beherbergt Gemeindegebete und religiöse Aktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        55.448588,
+                        25.420601
+                  ]
+            },
+            {
+                  "name": "Qaser Al Mulook Foodstuff",
+                  "text": "Dieser lokale Marktplatz bietet verschiedene Lebensmittel und wichtige Vorräte in Adschman.",
+                  "category": "cultural",
+                  "coords": [
+                        55.468544,
+                        25.401077
+                  ]
+            },
+            {
+                  "name": "Al Barraq",
+                  "text": "Ein belebter Marktplatz in Adschman, auf dem lokale Waren gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        55.464782,
+                        25.402353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ajman Museum",
+                  "text": "Történelmi múzeum egy 18. századi erődben, amely Adzsmán történelmét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.44554,
+                        25.413451
+                  ]
+            },
+            {
+                  "name": "Masjid Abdullah Omran Street",
+                  "text": "Ez az iszlám mecset helyi istentiszteleti helyként szolgál Ajmanban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.446311,
+                        25.408388
+                  ]
+            },
+            {
+                  "name": "Musalla Al Eid Mosque",
+                  "text": "Ez a muszlim mecset az Eid imák és a napi istentiszteletek kijelölt helyszíne Ajmanban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.445098,
+                        25.410702
+                  ]
+            },
+            {
+                  "name": "Sheikh Hameed Bin Abdul Aziz Al Nuaimi Mosque",
+                  "text": "Ez a vallási szertartásoknak szentelt muszlim mecset Ajman térségében található.",
+                  "category": "landmark",
+                  "coords": [
+                        55.444963,
+                        25.415577
+                  ]
+            },
+            {
+                  "name": "Mohammed Obaid Al Zaabi Mosque",
+                  "text": "Hagyományos muszlim mecset, amely spirituális gyülekezési teret biztosít Ajmanban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.447611,
+                        25.418042
+                  ]
+            },
+            {
+                  "name": "Jamia Arhama Bu Ali Al-Shuwaihi ​Mosque",
+                  "text": "Az Ajmanban található iszlám mecset közösségi imáknak és vallási tevékenységeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        55.448588,
+                        25.420601
+                  ]
+            },
+            {
+                  "name": "Qaser Al Mulook Foodstuff",
+                  "text": "Ez a helyi piac különféle élelmiszereket és alapvető cikkeket kínál Ajmanban.",
+                  "category": "cultural",
+                  "coords": [
+                        55.468544,
+                        25.401077
+                  ]
+            },
+            {
+                  "name": "Al Barraq",
+                  "text": "Nyüzsgő piac Ajmanban, ahol helyi árukkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        55.464782,
+                        25.402353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ajman Museum",
+                  "text": "Un muzeu istoric găzduit într-un fort din secolul al XVIII-lea, care prezintă istoria și patrimoniul din Ajman.",
+                  "category": "museum",
+                  "coords": [
+                        55.44554,
+                        25.413451
+                  ]
+            },
+            {
+                  "name": "Masjid Abdullah Omran Street",
+                  "text": "Această moschee islamică servește ca un lăcaș de cult local în Ajman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.446311,
+                        25.408388
+                  ]
+            },
+            {
+                  "name": "Musalla Al Eid Mosque",
+                  "text": "Această moschee musulmană este un loc desemnat pentru rugăciunile de Eid și închinarea zilnică în Ajman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.445098,
+                        25.410702
+                  ]
+            },
+            {
+                  "name": "Sheikh Hameed Bin Abdul Aziz Al Nuaimi Mosque",
+                  "text": "Dedicată slujbelor religioase, această moschee musulmană este situată în zona Ajman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.444963,
+                        25.415577
+                  ]
+            },
+            {
+                  "name": "Mohammed Obaid Al Zaabi Mosque",
+                  "text": "O moschee musulmană tradițională care oferă un spațiu de adunare spirituală în Ajman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.447611,
+                        25.418042
+                  ]
+            },
+            {
+                  "name": "Jamia Arhama Bu Ali Al-Shuwaihi ​Mosque",
+                  "text": "Situată în Ajman, această moschee islamică găzduiește rugăciuni comunitare și activități religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        55.448588,
+                        25.420601
+                  ]
+            },
+            {
+                  "name": "Qaser Al Mulook Foodstuff",
+                  "text": "Această piață locală oferă diverse produse alimentare și provizii esențiale în Ajman.",
+                  "category": "cultural",
+                  "coords": [
+                        55.468544,
+                        25.401077
+                  ]
+            },
+            {
+                  "name": "Al Barraq",
+                  "text": "O piață plină de viață în Ajman, unde se comercializează mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        55.464782,
+                        25.402353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ajman Museum",
+                  "text": "A historical museum housed within an 18th-century fort, showcasing the history and heritage of Ajman.",
+                  "category": "museum",
+                  "coords": [
+                        55.44554,
+                        25.413451
+                  ]
+            },
+            {
+                  "name": "Masjid Abdullah Omran Street",
+                  "text": "This Islamic mosque serves as a local place of worship in Ajman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.446311,
+                        25.408388
+                  ]
+            },
+            {
+                  "name": "Musalla Al Eid Mosque",
+                  "text": "This Muslim mosque is a designated venue for Eid prayers and daily worship in Ajman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.445098,
+                        25.410702
+                  ]
+            },
+            {
+                  "name": "Sheikh Hameed Bin Abdul Aziz Al Nuaimi Mosque",
+                  "text": "Dedicated to religious services, this Muslim mosque is located in the Ajman area.",
+                  "category": "landmark",
+                  "coords": [
+                        55.444963,
+                        25.415577
+                  ]
+            },
+            {
+                  "name": "Mohammed Obaid Al Zaabi Mosque",
+                  "text": "A traditional Muslim mosque providing a spiritual gathering space in Ajman.",
+                  "category": "landmark",
+                  "coords": [
+                        55.447611,
+                        25.418042
+                  ]
+            },
+            {
+                  "name": "Jamia Arhama Bu Ali Al-Shuwaihi ​Mosque",
+                  "text": "Situated in Ajman, this Islamic mosque hosts community prayers and religious activities.",
+                  "category": "landmark",
+                  "coords": [
+                        55.448588,
+                        25.420601
+                  ]
+            },
+            {
+                  "name": "Qaser Al Mulook Foodstuff",
+                  "text": "This local marketplace offers various foodstuffs and essential provisions in Ajman.",
+                  "category": "cultural",
+                  "coords": [
+                        55.468544,
+                        25.401077
+                  ]
+            },
+            {
+                  "name": "Al Barraq",
+                  "text": "A bustling marketplace setting in Ajman where local goods and wares are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        55.464782,
+                        25.402353
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-AJ",
     coords: [55.4480, 25.4116],
@@ -471,7 +4368,124 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "umm-al-quwain-fort-history-v2",
+    id: "umm-al-quwain-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Khor Waterfront",
+                  "text": "Ein Erholungsgebiet am Wasser mit Blick auf die Lagune und Spazierwegen entlang der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        55.564981,
+                        25.58322
+                  ]
+            },
+            {
+                  "name": "Umm Al Quwain Museum",
+                  "text": "Das Museum befindet sich im historischen Fort von Umm al-Quwain und zeigt lokale Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        55.570683,
+                        25.584194
+                  ]
+            },
+            {
+                  "name": "Dreamland Aqua Park",
+                  "text": "Ein großer Wasserpark mit zahlreichen Rutschen, der im Juni 1997 an der Küste eröffnet wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        55.659774,
+                        25.589438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Khor Waterfront",
+                  "text": "Vízparti pihenőhely lagúnára néző kilátással és tengerparti sétányokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        55.564981,
+                        25.58322
+                  ]
+            },
+            {
+                  "name": "Umm Al Quwain Museum",
+                  "text": "Az Umm al-Quwain történelmi erődjében berendezett múzeum helyi régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        55.570683,
+                        25.584194
+                  ]
+            },
+            {
+                  "name": "Dreamland Aqua Park",
+                  "text": "Hatalmas vízi vidámpark számos csúszdával, amely 1997 júniusában nyílt meg a parton.",
+                  "category": "recreational",
+                  "coords": [
+                        55.659774,
+                        25.589438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Khor Waterfront",
+                  "text": "O zonă de recreere pe malul apei, cu vedere la lagună și alei de promenadă de-a lungul coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        55.564981,
+                        25.58322
+                  ]
+            },
+            {
+                  "name": "Umm Al Quwain Museum",
+                  "text": "Muzeul este găzduit în fortul istoric din Umm Al Quwain și expune artefacte locale.",
+                  "category": "museum",
+                  "coords": [
+                        55.570683,
+                        25.584194
+                  ]
+            },
+            {
+                  "name": "Dreamland Aqua Park",
+                  "text": "Un parc acvatic mare cu numeroase tobogane, deschis în iunie 1997 pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        55.659774,
+                        25.589438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Khor Waterfront",
+                  "text": "A waterfront recreation area offering lagoon views and walking paths along the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        55.564981,
+                        25.58322
+                  ]
+            },
+            {
+                  "name": "Umm Al Quwain Museum",
+                  "text": "The museum is housed within the historic Umm Al Quwain Fort and displays local artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        55.570683,
+                        25.584194
+                  ]
+            },
+            {
+                  "name": "Dreamland Aqua Park",
+                  "text": "A large water park with numerous slides that opened in June 1997 on the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        55.659774,
+                        25.589438
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-UQ",
     coords: [55.5728, 25.5833],
@@ -507,7 +4521,376 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "bait-al-naboodah-history-v2",
+    id: "bait-al-naboodah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Rayan Ornamental Fish Trading & Aquarium",
+                  "text": "Ein spezialisiertes Aquaristikgeschäft, das exotische Zierfische und Aquarienzubehör in der Nähe des historischen Ufers präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        55.380786,
+                        25.355991
+                  ]
+            },
+            {
+                  "name": "Al Mureijah Art Spaces",
+                  "text": "Ein zeitgenössisches Kunstzentrum der Sharjah Art Foundation, das restaurierte Korallensteingebäude für experimentelle Galerien nutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        55.382238,
+                        25.356972
+                  ]
+            },
+            {
+                  "name": "Emirates Handicraft Centre",
+                  "text": "Dieses Zentrum bewahrt traditionelle emiratische Fertigkeiten mit Live-Vorführungen von Palmenblattflechten und Sadu-Stickerei.",
+                  "category": "museum",
+                  "coords": [
+                        55.380551,
+                        25.35737
+                  ]
+            },
+            {
+                  "name": "Sharjah Institute Of Theatrical Arts",
+                  "text": "Ein Bildungszentrum für darstellende Künste, das Workshops und Studentenproduktionen in einer modernen Theateranlage veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.385114,
+                        25.356278
+                  ]
+            },
+            {
+                  "name": "Traditional Games House",
+                  "text": "Dieses Museum widmet sich der Bewahrung der Volksspiele, die emiratische Kinder vor dem Zeitalter der Technologie spielten.",
+                  "category": "museum",
+                  "coords": [
+                        55.384256,
+                        25.35778
+                  ]
+            },
+            {
+                  "name": "King Faisal Mosque",
+                  "text": "Als eines der größten Wahrzeichen von Schardscha verfügt diese Moschee über markante schräge Dachlinien und bietet Platz für bis zu 17.000 Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        55.387476,
+                        25.349473
+                  ]
+            },
+            {
+                  "name": "Ladies Prayer Room",
+                  "text": "Ein spezieller Gebetsraum für Frauen in der Nähe der historischen Stätten von Bait Al Naboodah.",
+                  "category": "landmark",
+                  "coords": [
+                        55.381307,
+                        25.350437
+                  ]
+            },
+            {
+                  "name": "Al Jami' Mosque",
+                  "text": "Die zentrale Freitagsmoschee des Viertels, die durch ihre klassische islamische Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.383324,
+                        25.357792
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "Eine elegante Moschee im Al Zahra Viertel, die als wichtiger Ort des Gebets dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.381759,
+                        25.357906
+                  ]
+            },
+            {
+                  "name": "Souq Al Jubail (fish, meat, fruit, vegetable market)",
+                  "text": "Ein moderner Marktplatz mit blauen Kuppeln, bekannt für seinen täglichen Fischmarkt und frisches Obst.",
+                  "category": "cultural",
+                  "coords": [
+                        55.379338,
+                        25.349523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Rayan Ornamental Fish Trading & Aquarium",
+                  "text": "Egzotikus díszhalakat és akváriumi felszereléseket bemutató szaküzlet a történelmi vízpart közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        55.380786,
+                        25.355991
+                  ]
+            },
+            {
+                  "name": "Al Mureijah Art Spaces",
+                  "text": "A Sharjah Art Foundation kortárs művészeti központja, amely felújított korallkő épületeket használ kísérleti galériák számára.",
+                  "category": "cultural",
+                  "coords": [
+                        55.382238,
+                        25.356972
+                  ]
+            },
+            {
+                  "name": "Emirates Handicraft Centre",
+                  "text": "Ez a központ a hagyományos emírségekbeli mesterségeket őrzi, ahol élőben mutatják be a pálmalevél-fonást és a sadu hímzést.",
+                  "category": "museum",
+                  "coords": [
+                        55.380551,
+                        25.35737
+                  ]
+            },
+            {
+                  "name": "Sharjah Institute Of Theatrical Arts",
+                  "text": "Az előadó-művészet oktatási központja, amely workshopoknak és hallgatói produkcióknak ad otthont egy modern színházi létesítményben.",
+                  "category": "cultural",
+                  "coords": [
+                        55.385114,
+                        25.356278
+                  ]
+            },
+            {
+                  "name": "Traditional Games House",
+                  "text": "Ez a múzeum az emírségekbeli gyerekek által a technológia kora előtt játszott népi játékok megőrzésének szentelt hely.",
+                  "category": "museum",
+                  "coords": [
+                        55.384256,
+                        25.35778
+                  ]
+            },
+            {
+                  "name": "King Faisal Mosque",
+                  "text": "Sharjah egyik legnagyobb nevezetessége, ez a mecset jellegzetes ferde tetővonalakkal rendelkezik, és akár 17 000 hívő befogadására is alkalmas.",
+                  "category": "landmark",
+                  "coords": [
+                        55.387476,
+                        25.349473
+                  ]
+            },
+            {
+                  "name": "Ladies Prayer Room",
+                  "text": "Külön női imaterem a Bait Al Naboodah történelmi helyszíneinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.381307,
+                        25.350437
+                  ]
+            },
+            {
+                  "name": "Al Jami' Mosque",
+                  "text": "A negyed központi pénteki mecsetje, amely klasszikus iszlám építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.383324,
+                        25.357792
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "Elegáns mecset az Al Zahra negyedben, amely fontos imádsági helyszínként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        55.381759,
+                        25.357906
+                  ]
+            },
+            {
+                  "name": "Souq Al Jubail (fish, meat, fruit, vegetable market)",
+                  "text": "Kék kupolás modern piaccsarnok, amely napi halpiacáról és friss gyümölcseiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        55.379338,
+                        25.349523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Rayan Ornamental Fish Trading & Aquarium",
+                  "text": "Un magazin acvatic specializat care prezintă pești ornamentali exotici și configurații de acvariu lângă malul istoric al apei.",
+                  "category": "recreational",
+                  "coords": [
+                        55.380786,
+                        25.355991
+                  ]
+            },
+            {
+                  "name": "Al Mureijah Art Spaces",
+                  "text": "Un hub de artă contemporană al Fundației de Artă Sharjah, care utilizează clădiri restaurate din piatră de corali pentru galerii experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        55.382238,
+                        25.356972
+                  ]
+            },
+            {
+                  "name": "Emirates Handicraft Centre",
+                  "text": "Acest centru păstrează abilitățile tradiționale emirate, cu demonstrații live de țesut frunze de palmier și broderie Sadu.",
+                  "category": "museum",
+                  "coords": [
+                        55.380551,
+                        25.35737
+                  ]
+            },
+            {
+                  "name": "Sharjah Institute Of Theatrical Arts",
+                  "text": "Un hub educațional pentru artele spectacolului, care găzduiește ateliere și producții studențești într-o facilitate de teatru modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        55.385114,
+                        25.356278
+                  ]
+            },
+            {
+                  "name": "Traditional Games House",
+                  "text": "Acest muzeu este dedicat păstrării jocurilor populare jucate de copiii din Emirate înainte de epoca tehnologiei.",
+                  "category": "museum",
+                  "coords": [
+                        55.384256,
+                        25.35778
+                  ]
+            },
+            {
+                  "name": "King Faisal Mosque",
+                  "text": "Unul dintre cele mai mari repere din Sharjah, această moschee are linii de acoperiș înclinate distinctive și poate găzdui până la 17.000 de credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        55.387476,
+                        25.349473
+                  ]
+            },
+            {
+                  "name": "Ladies Prayer Room",
+                  "text": "O sală de rugăciune dedicată femeilor, în apropierea siturilor istorice din Bait Al Naboodah.",
+                  "category": "landmark",
+                  "coords": [
+                        55.381307,
+                        25.350437
+                  ]
+            },
+            {
+                  "name": "Al Jami' Mosque",
+                  "text": "Moscheea centrală de vineri a cartierului, remarcabilă prin arhitectura sa islamică clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        55.383324,
+                        25.357792
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "O moschee elegantă în cartierul Al Zahra, servind ca un loc important de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        55.381759,
+                        25.357906
+                  ]
+            },
+            {
+                  "name": "Souq Al Jubail (fish, meat, fruit, vegetable market)",
+                  "text": "O piață modernă cu cupole albastre, cunoscută pentru piața zilnică de pește și fructele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        55.379338,
+                        25.349523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Rayan Ornamental Fish Trading & Aquarium",
+                  "text": "A specialized aquatic shop showcasing exotic ornamental fish and aquarium setups near the historic waterfront.",
+                  "category": "recreational",
+                  "coords": [
+                        55.380786,
+                        25.355991
+                  ]
+            },
+            {
+                  "name": "Al Mureijah Art Spaces",
+                  "text": "A contemporary art hub by the Sharjah Art Foundation, utilizing restored coral-stone buildings for experimental galleries.",
+                  "category": "cultural",
+                  "coords": [
+                        55.382238,
+                        25.356972
+                  ]
+            },
+            {
+                  "name": "Emirates Handicraft Centre",
+                  "text": "This center preserves traditional Emirati skills, with live demonstrations of palm-frond weaving and Sadu embroidery.",
+                  "category": "museum",
+                  "coords": [
+                        55.380551,
+                        25.35737
+                  ]
+            },
+            {
+                  "name": "Sharjah Institute Of Theatrical Arts",
+                  "text": "An educational hub for the performing arts, hosting workshops and student productions in a modern theater facility.",
+                  "category": "cultural",
+                  "coords": [
+                        55.385114,
+                        25.356278
+                  ]
+            },
+            {
+                  "name": "Traditional Games House",
+                  "text": "This museum is dedicated to preserving the folk games played by Emirati children before the age of technology.",
+                  "category": "museum",
+                  "coords": [
+                        55.384256,
+                        25.35778
+                  ]
+            },
+            {
+                  "name": "King Faisal Mosque",
+                  "text": "One of Sharjah's largest landmarks, this mosque features distinctive slanting rooflines and can hold up to 17,000 worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        55.387476,
+                        25.349473
+                  ]
+            },
+            {
+                  "name": "Ladies Prayer Room",
+                  "text": "A dedicated prayer space for women located near the historic sites of Bait Al Naboodah.",
+                  "category": "landmark",
+                  "coords": [
+                        55.381307,
+                        25.350437
+                  ]
+            },
+            {
+                  "name": "Al Jami' Mosque",
+                  "text": "The neighborhood's central Friday mosque, distinguished by its classical Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.383324,
+                        25.357792
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "An elegant mosque in the Al Zahra district, serving as a significant place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        55.381759,
+                        25.357906
+                  ]
+            },
+            {
+                  "name": "Souq Al Jubail (fish, meat, fruit, vegetable market)",
+                  "text": "A modern marketplace with blue domes, famous for its daily fish market and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        55.379338,
+                        25.349523
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-SH",
     coords: [55.3831, 25.3582],
@@ -543,7 +4926,268 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "souq-al-arsa-history-v2",
+    id: "souq-al-arsa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iqbal Sharjah",
+                  "text": "Ein Standort im historischen Viertel Heart of Sharjah, der lokale kulturelle Elemente präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38737,
+                        25.358447
+                  ]
+            },
+            {
+                  "name": "Sharjah Fort",
+                  "text": "Diese aus Korallenstein errichtete Festung aus dem 19. Jahrhundert diente als Residenz der Herrscherfamilie und beherbergt heute lokalgeschichtliche Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        55.386437,
+                        25.35863
+                  ]
+            },
+            {
+                  "name": "Poetry House",
+                  "text": "Dieses Museum ist der reichen Tradition der arabischen Literatur gewidmet und veranstaltet Lyriklesungen in einem restaurierten Hofhaus.",
+                  "category": "museum",
+                  "coords": [
+                        55.385919,
+                        25.357249
+                  ]
+            },
+            {
+                  "name": "Bait Al Naboodah Museum",
+                  "text": "Das prächtige ehemalige Wohnhaus eines wohlhabenden Perlenhändlers aus dem Jahr 1845 beeindruckt durch kunstvolle Teakholzschnitzereien.",
+                  "category": "museum",
+                  "coords": [
+                        55.384146,
+                        25.357985
+                  ]
+            },
+            {
+                  "name": "Al Daleel Mosque",
+                  "text": "Bekannt als eine der ältesten Moscheen der Gegend, bewahrt sie ihren klassischen Innenhof und die dicken Mauern im Festungsstil.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38618,
+                        25.360781
+                  ]
+            },
+            {
+                  "name": "Ebad Alrahman Mosque",
+                  "text": "Eine bescheidene Stadtviertel-Moschee, die inmitten der restaurierten historischen Gebäude eine ruhige Atmosphäre zum Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.387393,
+                        25.359451
+                  ]
+            },
+            {
+                  "name": "Obaid Bin Issa Mosque",
+                  "text": "Diese Moschee zeichnet sich durch ihr einfaches weißes Minarett und ihre zentrale Lage im alten Handelsviertel aus.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38354,
+                        25.359356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iqbal Sharjah",
+                  "text": "A történelmi Heart of Sharjah negyedben található helyszín, amely a helyi kulturális elemeket mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38737,
+                        25.358447
+                  ]
+            },
+            {
+                  "name": "Sharjah Fort",
+                  "text": "Ez a 19. századi korallkő erőd az uralkodó család rezidenciájaként szolgált, ma pedig helytörténeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        55.386437,
+                        25.35863
+                  ]
+            },
+            {
+                  "name": "Poetry House",
+                  "text": "Az arab irodalom gazdag hagyományainak szentelt múzeum, amely egy felújított udvari házban ad otthont költői esteknek.",
+                  "category": "museum",
+                  "coords": [
+                        55.385919,
+                        25.357249
+                  ]
+            },
+            {
+                  "name": "Bait Al Naboodah Museum",
+                  "text": "Egy gazdag gyöngykereskedő egykori pompás otthona, ez az 1845-ben épült ház bonyolult teakfa faragványokkal rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        55.384146,
+                        25.357985
+                  ]
+            },
+            {
+                  "name": "Al Daleel Mosque",
+                  "text": "A környék egyik legrégebbi mecseteként ismert, megőrizte klasszikus udvarát és vastag, védelmi stílusú falait.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38618,
+                        25.360781
+                  ]
+            },
+            {
+                  "name": "Ebad Alrahman Mosque",
+                  "text": "Szerény szomszédsági mecset, amely nyugodt légkört biztosít az imádkozáshoz a felújított örökségvédelmi épületek között.",
+                  "category": "landmark",
+                  "coords": [
+                        55.387393,
+                        25.359451
+                  ]
+            },
+            {
+                  "name": "Obaid Bin Issa Mosque",
+                  "text": "Ezt a mecsetet egyszerű fehér minaretje és a régi kereskedelmi negyedben elfoglalt központi helye különbözteti meg.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38354,
+                        25.359356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iqbal Sharjah",
+                  "text": "Un sit în districtul istoric Heart of Sharjah, care prezintă elemente culturale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38737,
+                        25.358447
+                  ]
+            },
+            {
+                  "name": "Sharjah Fort",
+                  "text": "Această fortăreață din piatră de corali din secolul al XIX-lea a servit drept reședință a familiei domnitoare și acum găzduiește exponate de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        55.386437,
+                        25.35863
+                  ]
+            },
+            {
+                  "name": "Poetry House",
+                  "text": "Dedicat tradiției bogate a literaturii arabe, acest muzeu găzduiește lecturi de poezie într-o casă cu curte restaurată.",
+                  "category": "museum",
+                  "coords": [
+                        55.385919,
+                        25.357249
+                  ]
+            },
+            {
+                  "name": "Bait Al Naboodah Museum",
+                  "text": "Fosta casă grandioasă a unui bogat negustor de perle, această clădire din 1845 prezintă sculpturi complicate din lemn de tec.",
+                  "category": "museum",
+                  "coords": [
+                        55.384146,
+                        25.357985
+                  ]
+            },
+            {
+                  "name": "Al Daleel Mosque",
+                  "text": "Cunoscută ca fiind una dintre cele mai vechi moschei din zonă, aceasta își păstrează curtea clasică și zidurile groase în stil defensiv.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38618,
+                        25.360781
+                  ]
+            },
+            {
+                  "name": "Ebad Alrahman Mosque",
+                  "text": "O moschee de cartier modestă care oferă o atmosferă senină pentru rugăciune printre clădirile de patrimoniu restaurate.",
+                  "category": "landmark",
+                  "coords": [
+                        55.387393,
+                        25.359451
+                  ]
+            },
+            {
+                  "name": "Obaid Bin Issa Mosque",
+                  "text": "Această moschee se distinge prin minaretul său alb simplu și prin locația sa centrală în vechiul district comercial.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38354,
+                        25.359356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iqbal Sharjah",
+                  "text": "A site within the historic Heart of Sharjah district showcasing local cultural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38737,
+                        25.358447
+                  ]
+            },
+            {
+                  "name": "Sharjah Fort",
+                  "text": "This 19th-century coral-stone fortress served as the ruling family's residence and now houses local history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        55.386437,
+                        25.35863
+                  ]
+            },
+            {
+                  "name": "Poetry House",
+                  "text": "Dedicated to the rich tradition of Arabic literature, this museum hosts poetry readings in a restored courtyard house.",
+                  "category": "museum",
+                  "coords": [
+                        55.385919,
+                        25.357249
+                  ]
+            },
+            {
+                  "name": "Bait Al Naboodah Museum",
+                  "text": "The grand former home of a wealthy pearl merchant, this 1845 house features intricate teak wood carvings.",
+                  "category": "museum",
+                  "coords": [
+                        55.384146,
+                        25.357985
+                  ]
+            },
+            {
+                  "name": "Al Daleel Mosque",
+                  "text": "Known as one of the oldest mosques in the area, it retains its classic courtyard and thick defensive-style walls.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38618,
+                        25.360781
+                  ]
+            },
+            {
+                  "name": "Ebad Alrahman Mosque",
+                  "text": "A modest neighborhood mosque that provides a serene atmosphere for prayer amidst the restored heritage buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        55.387393,
+                        25.359451
+                  ]
+            },
+            {
+                  "name": "Obaid Bin Issa Mosque",
+                  "text": "This mosque is distinguished by its simple white minaret and its central location in the old trading district.",
+                  "category": "landmark",
+                  "coords": [
+                        55.38354,
+                        25.359356
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "AE-SH",
     coords: [55.3835, 25.3587],
@@ -579,7 +5223,412 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "rumailah-site-history-v2",
+    id: "rumailah-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kitab round about",
+                  "text": "Ein Wahrzeichen in Form eines Kreisverkehrs mit einer monumentalen Skulptur des Heiligen Korans.",
+                  "category": "landmark",
+                  "coords": [
+                        55.777289,
+                        24.239127
+                  ]
+            },
+            {
+                  "name": "AAN2067",
+                  "text": "Ein Aussichtspunkt in der Nähe der Rumailah-Stätte, ideal zur Beobachtung der umliegenden Wüstenebene.",
+                  "category": "natural",
+                  "coords": [
+                        55.7322,
+                        24.23485
+                  ]
+            },
+            {
+                  "name": "Al-Khandaq fort",
+                  "text": "Eine imposante Lehmfestung in Buraimi, die für ihren tiefen, trockenen Verteidigungsgraben bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        55.77064,
+                        24.242942
+                  ]
+            },
+            {
+                  "name": "Bin Karam Mosque",
+                  "text": "Eine traditionelle Moschee im Stadtviertel Rumailah, die durch ihre klassische omanische Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        55.768708,
+                        24.25592
+                  ]
+            },
+            {
+                  "name": "Zayed Al Awal Mosque",
+                  "text": "Eine Gemeindemoschee in Rumailah, die einen friedlichen Ort für das tägliche Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.740315,
+                        24.244795
+                  ]
+            },
+            {
+                  "name": "Masjid Abdullah Rashid Al-Ghaithi",
+                  "text": "Eine lokale Moschee im Wohngebiet von Rumailah, die nach einem prominenten Gemeindemitglied benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.708482,
+                        24.242161
+                  ]
+            },
+            {
+                  "name": "Buraimi Market",
+                  "text": "Ein lebhafter traditioneller Markt, auf dem frisches Obst, Gemüse und lokale Handwerkskunst angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        55.772939,
+                        24.244642
+                  ]
+            },
+            {
+                  "name": "baqala",
+                  "text": "Ein typisch kleiner Nachbarschaftsladen in Rumailah für den täglichen Grundbedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        55.712888,
+                        24.236638
+                  ]
+            },
+            {
+                  "name": "Al Manhaj Grocery",
+                  "text": "Ein lokaler Lebensmittelladen in Rumailah, der für seine Auswahl an traditionellen Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        55.682661,
+                        24.239751
+                  ]
+            },
+            {
+                  "name": "Alwan Al Ain Grocery",
+                  "text": "Ein kleines Geschäft in der Nähe der Grenze, das frische Lebensmittel für die Anwohner bereithält.",
+                  "category": "cultural",
+                  "coords": [
+                        55.681219,
+                        24.242202
+                  ]
+            },
+            {
+                  "name": "Jabal Al Madeyna",
+                  "text": "Ein Marktplatz in der Nähe der Hügel von Al Madeyna, der als lokaler Handelsknotenpunkt fungiert.",
+                  "category": "cultural",
+                  "coords": [
+                        55.706189,
+                        24.235215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kitab round about",
+                  "text": "Egy jellegzetes körforgalom, amelynek közepén a Szent Koránt ábrázoló monumentális szobor áll.",
+                  "category": "landmark",
+                  "coords": [
+                        55.777289,
+                        24.239127
+                  ]
+            },
+            {
+                  "name": "AAN2067",
+                  "text": "Kilátópont a Rumailah-lelőhely közelében, amely ideális a környező sivatagi síkság megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        55.7322,
+                        24.23485
+                  ]
+            },
+            {
+                  "name": "Al-Khandaq fort",
+                  "text": "Impozáns vályogerőd Buraimiben, amely mély, száraz védőárkáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        55.77064,
+                        24.242942
+                  ]
+            },
+            {
+                  "name": "Bin Karam Mosque",
+                  "text": "Hagyományos mecset Rumailah negyedében, amely klasszikus ománi építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        55.768708,
+                        24.25592
+                  ]
+            },
+            {
+                  "name": "Zayed Al Awal Mosque",
+                  "text": "Közösségi mecset Rumailahban, amely békés helyszínt biztosít a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        55.740315,
+                        24.244795
+                  ]
+            },
+            {
+                  "name": "Masjid Abdullah Rashid Al-Ghaithi",
+                  "text": "Helyi mecset Rumailah lakóövezetében, amelyet a közösség egy neves tagjáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        55.708482,
+                        24.242161
+                  ]
+            },
+            {
+                  "name": "Buraimi Market",
+                  "text": "Lüktető hagyományos piac, ahol friss gyümölcsöt, zöldséget és helyi kézműves termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        55.772939,
+                        24.244642
+                  ]
+            },
+            {
+                  "name": "baqala",
+                  "text": "Jellemző kis sarki fűszeres Rumailahban a mindennapi alapvető szükségletekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        55.712888,
+                        24.236638
+                  ]
+            },
+            {
+                  "name": "Al Manhaj Grocery",
+                  "text": "Helyi élelmiszerbolt Rumailahban, amely hagyományos árukészletéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        55.682661,
+                        24.239751
+                  ]
+            },
+            {
+                  "name": "Alwan Al Ain Grocery",
+                  "text": "Egy kis üzlet a határ közelében, amely friss élelmiszereket kínál a környéken lakóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        55.681219,
+                        24.242202
+                  ]
+            },
+            {
+                  "name": "Jabal Al Madeyna",
+                  "text": "Piac az Al Madeyna-dombok közelében, amely helyi kereskedelmi csomópontként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        55.706189,
+                        24.235215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kitab round about",
+                  "text": "Un sens giratoriu emblematic ce prezintă o sculptură monumentală a Sfântului Coran.",
+                  "category": "landmark",
+                  "coords": [
+                        55.777289,
+                        24.239127
+                  ]
+            },
+            {
+                  "name": "AAN2067",
+                  "text": "Un punct de belvedere lângă situl Rumailah, ideal pentru observarea câmpiei deșertice înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        55.7322,
+                        24.23485
+                  ]
+            },
+            {
+                  "name": "Al-Khandaq fort",
+                  "text": "O fortăreață impunătoare din chirpici în Buraimi, cunoscută pentru șanțul său de apărare adânc și uscat.",
+                  "category": "castle",
+                  "coords": [
+                        55.77064,
+                        24.242942
+                  ]
+            },
+            {
+                  "name": "Bin Karam Mosque",
+                  "text": "O moschee tradițională în cartierul Rumailah, remarcabilă prin arhitectura sa clasică omaneză.",
+                  "category": "landmark",
+                  "coords": [
+                        55.768708,
+                        24.25592
+                  ]
+            },
+            {
+                  "name": "Zayed Al Awal Mosque",
+                  "text": "O moschee comunitară în Rumailah, care oferă un spațiu liniștit pentru rugăciunea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        55.740315,
+                        24.244795
+                  ]
+            },
+            {
+                  "name": "Masjid Abdullah Rashid Al-Ghaithi",
+                  "text": "O moschee locală în zona rezidențială Rumailah, numită după un membru proeminent al comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        55.708482,
+                        24.242161
+                  ]
+            },
+            {
+                  "name": "Buraimi Market",
+                  "text": "O piață tradițională plină de viață, unde se vând fructe proaspete, legume și produse de artizanat local.",
+                  "category": "cultural",
+                  "coords": [
+                        55.772939,
+                        24.244642
+                  ]
+            },
+            {
+                  "name": "baqala",
+                  "text": "O mică băcănie tipică de cartier în Rumailah pentru nevoile zilnice de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        55.712888,
+                        24.236638
+                  ]
+            },
+            {
+                  "name": "Al Manhaj Grocery",
+                  "text": "Un magazin alimentar local în Rumailah, cunoscut pentru selecția sa de produse tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        55.682661,
+                        24.239751
+                  ]
+            },
+            {
+                  "name": "Alwan Al Ain Grocery",
+                  "text": "Un mic magazin lângă graniță, care oferă produse alimentare proaspete pentru locuitorii din zonă.",
+                  "category": "cultural",
+                  "coords": [
+                        55.681219,
+                        24.242202
+                  ]
+            },
+            {
+                  "name": "Jabal Al Madeyna",
+                  "text": "O zonă comercială lângă dealurile Al Madeyna, care funcționează ca un nod comercial local.",
+                  "category": "cultural",
+                  "coords": [
+                        55.706189,
+                        24.235215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kitab round about",
+                  "text": "A landmark roundabout featuring a monumental sculpture of the Holy Quran.",
+                  "category": "landmark",
+                  "coords": [
+                        55.777289,
+                        24.239127
+                  ]
+            },
+            {
+                  "name": "AAN2067",
+                  "text": "A viewpoint near the Rumailah site, ideal for observing the surrounding desert plain.",
+                  "category": "natural",
+                  "coords": [
+                        55.7322,
+                        24.23485
+                  ]
+            },
+            {
+                  "name": "Al-Khandaq fort",
+                  "text": "An imposing mud-brick fort in Buraimi, known for its deep, dry defensive trench.",
+                  "category": "castle",
+                  "coords": [
+                        55.77064,
+                        24.242942
+                  ]
+            },
+            {
+                  "name": "Bin Karam Mosque",
+                  "text": "A traditional mosque in the Rumailah neighborhood, notable for its classic Omani architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.768708,
+                        24.25592
+                  ]
+            },
+            {
+                  "name": "Zayed Al Awal Mosque",
+                  "text": "A community mosque in Rumailah providing a peaceful space for daily prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        55.740315,
+                        24.244795
+                  ]
+            },
+            {
+                  "name": "Masjid Abdullah Rashid Al-Ghaithi",
+                  "text": "A local mosque in the Rumailah residential area, named after a prominent community member.",
+                  "category": "landmark",
+                  "coords": [
+                        55.708482,
+                        24.242161
+                  ]
+            },
+            {
+                  "name": "Buraimi Market",
+                  "text": "A bustling traditional market selling fresh fruit, vegetables, and local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        55.772939,
+                        24.244642
+                  ]
+            },
+            {
+                  "name": "baqala",
+                  "text": "A typical small neighborhood grocery store in Rumailah for daily essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        55.712888,
+                        24.236638
+                  ]
+            },
+            {
+                  "name": "Al Manhaj Grocery",
+                  "text": "A local grocery store in Rumailah known for its selection of traditional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        55.682661,
+                        24.239751
+                  ]
+            },
+            {
+                  "name": "Alwan Al Ain Grocery",
+                  "text": "A small shop near the border providing fresh food supplies for neighborhood residents.",
+                  "category": "cultural",
+                  "coords": [
+                        55.681219,
+                        24.242202
+                  ]
+            },
+            {
+                  "name": "Jabal Al Madeyna",
+                  "text": "A marketplace near the Al Madeyna hills, serving as a local commercial hub.",
+                  "category": "cultural",
+                  "coords": [
+                        55.706189,
+                        24.235215
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AE-AZ",
     coords: [55.7533, 24.2388],
@@ -615,7 +5664,268 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "tell-abraq-history-v2",
+    id: "tell-abraq-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sharjah Pygmy Zoo",
+                  "text": "Ein familienfreundlicher Zoo in Schardscha mit einer Vielzahl von Miniaturtieren in interaktiven Gehegen.",
+                  "category": "recreational",
+                  "coords": [
+                        55.600961,
+                        25.303834
+                  ]
+            },
+            {
+                  "name": "Al Badaia Palace",
+                  "text": "Eine ehemalige königliche Residenz, die traditionelle emiratische Architektur und prunkvolle dekorative Details zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.555771,
+                        25.279093
+                  ]
+            },
+            {
+                  "name": "Sharjah Mosque",
+                  "text": "Die größte Moschee von Schardscha ist ein Wahrzeichen im osmanischen Stil mit mehreren Kuppeln und zwei hohen Minaretten.",
+                  "category": "religious",
+                  "coords": [
+                        55.570563,
+                        25.240852
+                  ]
+            },
+            {
+                  "name": "Sharjah cooperative society accommodation Sajaa",
+                  "text": "Eine Gebetsstätte der Gemeinschaft im Wohngebiet Sajaa in Schardscha.",
+                  "category": "religious",
+                  "coords": [
+                        55.633274,
+                        25.305465
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Saeed Bin Ghalaita Mosque",
+                  "text": "Eine örtliche Moschee im Distrikt Sajaa, die einen Ort für die täglichen Gebete der Nachbarschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        55.594053,
+                        25.377104
+                  ]
+            },
+            {
+                  "name": "Livestock Market",
+                  "text": "Ein Betsaal, der verkehrsgünstig für Händler und Besucher auf dem Viehmarkt von Schardscha gelegen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.604176,
+                        25.305171
+                  ]
+            },
+            {
+                  "name": "Sharjah Livestock Market",
+                  "text": "Ein großer Marktplatz in Schardscha, auf dem traditioneller Viehhandel auf modernes Anlagendesign trifft.",
+                  "category": "cultural",
+                  "coords": [
+                        55.602253,
+                        25.304962
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sharjah Pygmy Zoo",
+                  "text": "Családbarát állatkert Sharjahban, ahol különféle miniatűr állatok láthatók interaktív kifutókban.",
+                  "category": "recreational",
+                  "coords": [
+                        55.600961,
+                        25.303834
+                  ]
+            },
+            {
+                  "name": "Al Badaia Palace",
+                  "text": "Egykori királyi rezidencia, amely a hagyományos emírségi építészetet és díszes dekoratív részleteket mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        55.555771,
+                        25.279093
+                  ]
+            },
+            {
+                  "name": "Sharjah Mosque",
+                  "text": "Sharjah legnagyobb mecsetje ez az oszmán stílusú épület, amely több kupolával és két tornyosodó minarettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        55.570563,
+                        25.240852
+                  ]
+            },
+            {
+                  "name": "Sharjah cooperative society accommodation Sajaa",
+                  "text": "Közösségi imaház Sharjah Sajaa lakóövezetében.",
+                  "category": "religious",
+                  "coords": [
+                        55.633274,
+                        25.305465
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Saeed Bin Ghalaita Mosque",
+                  "text": "Helyi mecset a Sajaa negyedben, amely napi imádkozási lehetőséget biztosít a környékbelieknek.",
+                  "category": "landmark",
+                  "coords": [
+                        55.594053,
+                        25.377104
+                  ]
+            },
+            {
+                  "name": "Livestock Market",
+                  "text": "A Sharjah-i állatvásár területén található imaház a kereskedők és látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        55.604176,
+                        25.305171
+                  ]
+            },
+            {
+                  "name": "Sharjah Livestock Market",
+                  "text": "Nagyszabású piactér Sharjahban, ahol a hagyományos állatkereskedelem modern környezettel párosul.",
+                  "category": "cultural",
+                  "coords": [
+                        55.602253,
+                        25.304962
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sharjah Pygmy Zoo",
+                  "text": "O grădină zoologică pentru familii din Sharjah, cu o varietate de animale în miniatură în incinte interactive.",
+                  "category": "recreational",
+                  "coords": [
+                        55.600961,
+                        25.303834
+                  ]
+            },
+            {
+                  "name": "Al Badaia Palace",
+                  "text": "O fostă reședință regală care prezintă arhitectura tradițională emiratiană și detalii decorative ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        55.555771,
+                        25.279093
+                  ]
+            },
+            {
+                  "name": "Sharjah Mosque",
+                  "text": "Cea mai mare moschee din Sharjah, acest reper în stil otoman are mai multe domuri și două minarete înalte.",
+                  "category": "religious",
+                  "coords": [
+                        55.570563,
+                        25.240852
+                  ]
+            },
+            {
+                  "name": "Sharjah cooperative society accommodation Sajaa",
+                  "text": "Un lăcaș de cult comunitar situat în zona rezidențială Sajaa din Sharjah.",
+                  "category": "religious",
+                  "coords": [
+                        55.633274,
+                        25.305465
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Saeed Bin Ghalaita Mosque",
+                  "text": "O moschee locală din districtul Sajaa, care oferă un loc pentru rugăciunile zilnice ale cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.594053,
+                        25.377104
+                  ]
+            },
+            {
+                  "name": "Livestock Market",
+                  "text": "O sală de rugăciune situată convenabil pentru comercianți și vizitatori la piața de animale din Sharjah.",
+                  "category": "landmark",
+                  "coords": [
+                        55.604176,
+                        25.305171
+                  ]
+            },
+            {
+                  "name": "Sharjah Livestock Market",
+                  "text": "O piață de mari dimensiuni din Sharjah, unde comerțul tradițional cu animale întâlnește designul modern al facilităților.",
+                  "category": "cultural",
+                  "coords": [
+                        55.602253,
+                        25.304962
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sharjah Pygmy Zoo",
+                  "text": "A family-friendly zoo in Sharjah featuring a variety of miniature animals in interactive enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        55.600961,
+                        25.303834
+                  ]
+            },
+            {
+                  "name": "Al Badaia Palace",
+                  "text": "A former royal residence showcasing traditional Emirati architecture and ornate decorative details.",
+                  "category": "landmark",
+                  "coords": [
+                        55.555771,
+                        25.279093
+                  ]
+            },
+            {
+                  "name": "Sharjah Mosque",
+                  "text": "The largest mosque in Sharjah, this Ottoman-style landmark features multiple domes and two towering minarets.",
+                  "category": "religious",
+                  "coords": [
+                        55.570563,
+                        25.240852
+                  ]
+            },
+            {
+                  "name": "Sharjah cooperative society accommodation Sajaa",
+                  "text": "A community place of worship located within the Sajaa residential area of Sharjah.",
+                  "category": "religious",
+                  "coords": [
+                        55.633274,
+                        25.305465
+                  ]
+            },
+            {
+                  "name": "Abdullah Bin Saeed Bin Ghalaita Mosque",
+                  "text": "A local mosque in the Sajaa district providing a place for daily prayers for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        55.594053,
+                        25.377104
+                  ]
+            },
+            {
+                  "name": "Livestock Market",
+                  "text": "A prayer hall conveniently located for traders and visitors at the Sharjah livestock market.",
+                  "category": "landmark",
+                  "coords": [
+                        55.604176,
+                        25.305171
+                  ]
+            },
+            {
+                  "name": "Sharjah Livestock Market",
+                  "text": "A large-scale marketplace in Sharjah where traditional livestock trade meets modern facility design.",
+                  "category": "cultural",
+                  "coords": [
+                        55.602253,
+                        25.304962
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AE-UQ",
     coords: [55.5900, 25.2922],
@@ -651,7 +5961,448 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "qasr-al-ain-history-v2",
+    id: "qasr-al-ain-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "AAN2060",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Wüstenlandschaft von Al Ain bietet.",
+                  "category": "natural",
+                  "coords": [
+                        55.7854,
+                        24.22734
+                  ]
+            },
+            {
+                  "name": "Camel Market Al Ain",
+                  "text": "Ein traditioneller Markt, auf dem Kamele in einer authentischen Wüstenatmosphäre gehandelt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        55.77429,
+                        24.228635
+                  ]
+            },
+            {
+                  "name": "AAN2291",
+                  "text": "Bietet einen Panoramablick auf die grünen Oasen und die moderne Entwicklung von Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.7575,
+                        24.19934
+                  ]
+            },
+            {
+                  "name": "AAN2457",
+                  "text": "Ein Aussichtspunkt mit Blick auf das zerklüftete Gelände rund um die Stadt Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76894,
+                        24.22437
+                  ]
+            },
+            {
+                  "name": "AAN2287",
+                  "text": "Ein erhöhter Ort zur Beobachtung der Dattelpalmenhaine, die das Stadtbild prägen.",
+                  "category": "natural",
+                  "coords": [
+                        55.775106,
+                        24.218408
+                  ]
+            },
+            {
+                  "name": "AAN2059",
+                  "text": "Ein Aussichtspunkt, um die einzigartige Mischung aus Natur und Architektur in Al Ain zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        55.76464,
+                        24.19464
+                  ]
+            },
+            {
+                  "name": "Al Ain Oasis",
+                  "text": "Ein UNESCO-Welterbe mit Tausenden von Dattelpalmen und einem antiken Bewässerungssystem.",
+                  "category": "landmark",
+                  "coords": [
+                        55.76931,
+                        24.215158
+                  ]
+            },
+            {
+                  "name": "Al Muraba'a Fort",
+                  "text": "Eine historische Festung aus Lehmziegeln, die einst zum Schutz der Oase Al Ain erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        55.775001,
+                        24.220707
+                  ]
+            },
+            {
+                  "name": "Sultan bin Zayed Fort",
+                  "text": "Ein Fort aus dem 19. Jahrhundert, das als Herrschersitz diente und heute lokale Geschichte zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.774184,
+                        24.21637
+                  ]
+            },
+            {
+                  "name": "St. Mary's Catholic Church",
+                  "text": "Eine markante katholische Kirche, die der christlichen Gemeinde in der historischen Stadt Al Ain dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.757505,
+                        24.204794
+                  ]
+            },
+            {
+                  "name": "Evangelical Church",
+                  "text": "Eine christliche Gebetsstätte, die der lokalen Gemeinschaft in der historischen Umgebung von Al Ain dient.",
+                  "category": "landmark",
+                  "coords": [
+                        55.759261,
+                        24.20793
+                  ]
+            },
+            {
+                  "name": "Masjid Utba Bin Rabia",
+                  "text": "Eine lokale Moschee für tägliche Gebete in der Nähe des historischen Viertels Qasr Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.772596,
+                        24.20374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AAN2060",
+                  "text": "Kilátópont, ahonnan tágas kilátás nyílik Al Ain sivatagi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        55.7854,
+                        24.22734
+                  ]
+            },
+            {
+                  "name": "Camel Market Al Ain",
+                  "text": "Hagyományos piac, ahol tevéket árulnak eredeti sivatagi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        55.77429,
+                        24.228635
+                  ]
+            },
+            {
+                  "name": "AAN2291",
+                  "text": "Panorámás kilátást nyújt Al Ain zöld oázisaira és modern fejlesztéseire.",
+                  "category": "natural",
+                  "coords": [
+                        55.7575,
+                        24.19934
+                  ]
+            },
+            {
+                  "name": "AAN2457",
+                  "text": "Kilátópont, ahonnan rálátás nyílik az Al Ain városát körülvevő tagolt terepre.",
+                  "category": "natural",
+                  "coords": [
+                        55.76894,
+                        24.22437
+                  ]
+            },
+            {
+                  "name": "AAN2287",
+                  "text": "Magaslati pont a városképet meghatározó datolyapálma-ligetek megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        55.775106,
+                        24.218408
+                  ]
+            },
+            {
+                  "name": "AAN2059",
+                  "text": "Kilátópont, ahonnan megcsodálható Al Ain természetének és építészetének egyedi ötvözete.",
+                  "category": "natural",
+                  "coords": [
+                        55.76464,
+                        24.19464
+                  ]
+            },
+            {
+                  "name": "Al Ain Oasis",
+                  "text": "UNESCO világörökségi helyszín több ezer datolyapálmával és egy ősi öntözőrendszerrel.",
+                  "category": "landmark",
+                  "coords": [
+                        55.76931,
+                        24.215158
+                  ]
+            },
+            {
+                  "name": "Al Muraba'a Fort",
+                  "text": "Történelmi vályogtégla erőd, amelyet egykor az Al Ain oázis védelmére építettek.",
+                  "category": "castle",
+                  "coords": [
+                        55.775001,
+                        24.220707
+                  ]
+            },
+            {
+                  "name": "Sultan bin Zayed Fort",
+                  "text": "19. századi erőd, amely az uralkodó család lakhelye volt, ma pedig a helyi történelmet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        55.774184,
+                        24.21637
+                  ]
+            },
+            {
+                  "name": "St. Mary's Catholic Church",
+                  "text": "Jellegzetes katolikus templom, amely az Al Ain történelmi városában élő keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        55.757505,
+                        24.204794
+                  ]
+            },
+            {
+                  "name": "Evangelical Church",
+                  "text": "A helyi közösséget kiszolgáló keresztény templom Al Ain történelmi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.759261,
+                        24.20793
+                  ]
+            },
+            {
+                  "name": "Masjid Utba Bin Rabia",
+                  "text": "Helyi mecset a napi imádságokhoz a történelmi Qasr Al Ain negyed közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.772596,
+                        24.20374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AAN2060",
+                  "text": "Un punct de observație care oferă o vedere largă asupra peisajului deșertic din Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.7854,
+                        24.22734
+                  ]
+            },
+            {
+                  "name": "Camel Market Al Ain",
+                  "text": "O piață tradițională unde se vând cămile într-o atmosferă autentică de deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.77429,
+                        24.228635
+                  ]
+            },
+            {
+                  "name": "AAN2291",
+                  "text": "Oferă o vedere panoramică asupra oazelor verzi și a dezvoltării moderne din Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.7575,
+                        24.19934
+                  ]
+            },
+            {
+                  "name": "AAN2457",
+                  "text": "Un punct de observație cu vedere spre terenul accidentat din jurul orașului Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76894,
+                        24.22437
+                  ]
+            },
+            {
+                  "name": "AAN2287",
+                  "text": "Un loc elevat pentru observarea livezilor de curmali care definesc peisajul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        55.775106,
+                        24.218408
+                  ]
+            },
+            {
+                  "name": "AAN2059",
+                  "text": "Un punct de observație pentru a admira amestecul unic de natură și arhitectură din Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76464,
+                        24.19464
+                  ]
+            },
+            {
+                  "name": "Al Ain Oasis",
+                  "text": "Sit din patrimoniul mondial UNESCO, cu mii de curmali și un sistem antic de irigații.",
+                  "category": "landmark",
+                  "coords": [
+                        55.76931,
+                        24.215158
+                  ]
+            },
+            {
+                  "name": "Al Muraba'a Fort",
+                  "text": "O cetate istorică din cărămizi de lut, construită odinioară pentru a proteja oaza Al Ain.",
+                  "category": "castle",
+                  "coords": [
+                        55.775001,
+                        24.220707
+                  ]
+            },
+            {
+                  "name": "Sultan bin Zayed Fort",
+                  "text": "O cetate din secolul al XIX-lea care a servit ca reședință domnească și care acum prezintă istoria locală.",
+                  "category": "landmark",
+                  "coords": [
+                        55.774184,
+                        24.21637
+                  ]
+            },
+            {
+                  "name": "St. Mary's Catholic Church",
+                  "text": "O biserică catolică proeminentă care deservește comunitatea creștină din orașul istoric Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.757505,
+                        24.204794
+                  ]
+            },
+            {
+                  "name": "Evangelical Church",
+                  "text": "Un lăcaș de cult creștin care deservește comunitatea locală în cadrul istoric din Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.759261,
+                        24.20793
+                  ]
+            },
+            {
+                  "name": "Masjid Utba Bin Rabia",
+                  "text": "O moschee locală pentru rugăciunile zilnice, situată lângă cartierul istoric Qasr Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.772596,
+                        24.20374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AAN2060",
+                  "text": "A viewpoint offering broad vistas over the desert landscape of Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.7854,
+                        24.22734
+                  ]
+            },
+            {
+                  "name": "Camel Market Al Ain",
+                  "text": "A traditional market where camels are traded in an authentic desert setting.",
+                  "category": "landmark",
+                  "coords": [
+                        55.77429,
+                        24.228635
+                  ]
+            },
+            {
+                  "name": "AAN2291",
+                  "text": "Provides a panoramic view of the green oases and modern development of Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.7575,
+                        24.19934
+                  ]
+            },
+            {
+                  "name": "AAN2457",
+                  "text": "A viewpoint overlooking the rugged terrain surrounding the city of Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76894,
+                        24.22437
+                  ]
+            },
+            {
+                  "name": "AAN2287",
+                  "text": "An elevated spot for observing the date palm groves that define the city-scape.",
+                  "category": "natural",
+                  "coords": [
+                        55.775106,
+                        24.218408
+                  ]
+            },
+            {
+                  "name": "AAN2059",
+                  "text": "A viewpoint to admire the unique blend of nature and architecture in Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76464,
+                        24.19464
+                  ]
+            },
+            {
+                  "name": "Al Ain Oasis",
+                  "text": "A UNESCO World Heritage site featuring thousands of date palms and an ancient irrigation system.",
+                  "category": "landmark",
+                  "coords": [
+                        55.76931,
+                        24.215158
+                  ]
+            },
+            {
+                  "name": "Al Muraba'a Fort",
+                  "text": "A historic mud-brick fort once built to protect the Al Ain oasis.",
+                  "category": "castle",
+                  "coords": [
+                        55.775001,
+                        24.220707
+                  ]
+            },
+            {
+                  "name": "Sultan bin Zayed Fort",
+                  "text": "A 19th-century fort that served as a ruling residence and now showcases local history.",
+                  "category": "landmark",
+                  "coords": [
+                        55.774184,
+                        24.21637
+                  ]
+            },
+            {
+                  "name": "St. Mary's Catholic Church",
+                  "text": "A prominent Catholic church serving the Christian community in the historic city of Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.757505,
+                        24.204794
+                  ]
+            },
+            {
+                  "name": "Evangelical Church",
+                  "text": "A Christian place of worship serving the local community in the historical setting of Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.759261,
+                        24.20793
+                  ]
+            },
+            {
+                  "name": "Masjid Utba Bin Rabia",
+                  "text": "A local mosque for daily prayers located near the Qasr Al Ain historical district.",
+                  "category": "landmark",
+                  "coords": [
+                        55.772596,
+                        24.20374
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "AE-AZ",
     coords: [55.7619, 24.2144],
@@ -687,7 +6438,484 @@ export const poiExtraUaeHistoryV2: POI[] = [
     },
   },
   {
-    id: "al-qattara-tombs-history-v2",
+    id: "al-qattara-tombs-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "AAN2557",
+                  "text": "Ein Aussichtspunkt in Al Qattara, der einen Blick auf die historischen Palmenhaine der Oase bietet.",
+                  "category": "natural",
+                  "coords": [
+                        55.755365,
+                        24.260083
+                  ]
+            },
+            {
+                  "name": "AAN2281",
+                  "text": "Ein erhöhter Punkt in der Nähe der Al-Qattara-Gräber, ideal zur Betrachtung der archäologischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        55.71132,
+                        24.25093
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "Ein Freilichtmuseum in Al Qattara, das das traditionelle emiratische Leben und Handwerk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        55.745965,
+                        24.310353
+                  ]
+            },
+            {
+                  "name": "AAN2611",
+                  "text": "Dieser Aussichtspunkt bietet eine Perspektive auf die antiken Ausgrabungsstätten der Al-Qattara-Region.",
+                  "category": "natural",
+                  "coords": [
+                        55.765005,
+                        24.289026
+                  ]
+            },
+            {
+                  "name": "AAN2035",
+                  "text": "Ein Panoramapunkt, von dem aus man den Kontrast zwischen der Oase und der modernen Stadt Al Ain sieht.",
+                  "category": "natural",
+                  "coords": [
+                        55.76715,
+                        24.27676
+                  ]
+            },
+            {
+                  "name": "Rumailah",
+                  "text": "Ein archäologisch bedeutendes Gebiet in Al Qattara mit Siedlungsspuren aus der Eisenzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        55.759131,
+                        24.276974
+                  ]
+            },
+            {
+                  "name": "Eid Mosque",
+                  "text": "Ein großer, offener Gebetsplatz, der speziell für die festlichen Versammlungen zum Eid-Fest genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        55.704095,
+                        24.258481
+                  ]
+            },
+            {
+                  "name": "Sheikh Essa Mosque",
+                  "text": "Eine Moschee im Herzen von Al Qattara, die durch ihre schlichte, funktionale Wüstenarchitektur geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        55.741282,
+                        24.273533
+                  ]
+            },
+            {
+                  "name": "EMIRATO de DUBAI (UAE) Mezquita de Al Ain",
+                  "text": "Eine bedeutende religiöse Stätte in Al Ain, die als Wahrzeichen islamischer Architektur in der Region gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.757091,
+                        24.269693
+                  ]
+            },
+            {
+                  "name": "Reef Al Arab Grocery",
+                  "text": "Ein kleiner, traditioneller Lebensmittelladen, der die Bewohner der Al-Qattara-Oase versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        55.718846,
+                        24.25258
+                  ]
+            },
+            {
+                  "name": "Sama Al Huir Foodstuff Trading",
+                  "text": "Ein lokaler Händler für Grundnahrungsmittel im historischen Viertel von Al Qattara.",
+                  "category": "cultural",
+                  "coords": [
+                        55.684754,
+                        24.24631
+                  ]
+            },
+            {
+                  "name": "Naseem Al Ain Grocery Shop",
+                  "text": "Ein typischer emiratischer Nachbarschaftsladen für den schnellen Einkauf täglicher Essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        55.706672,
+                        24.251307
+                  ]
+            },
+            {
+                  "name": "Slayem Sorour Grocery",
+                  "text": "Ein kleiner Tante-Emma-Laden in Al Qattara, der frische Waren und lokale Produkte anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        55.704769,
+                        24.257217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AAN2557",
+                  "text": "Kilátópont Al Qattarában, ahonnan rálátás nyílik az oázis történelmi pálmaligeteire.",
+                  "category": "natural",
+                  "coords": [
+                        55.755365,
+                        24.260083
+                  ]
+            },
+            {
+                  "name": "AAN2281",
+                  "text": "Magaslati pont az Al Qattara-sírok közelében, amely ideális a régészeti táj megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        55.71132,
+                        24.25093
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "Szabadtéri múzeum Al Qattarában, amely a hagyományos emírségi életet és mesterségeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        55.745965,
+                        24.310353
+                  ]
+            },
+            {
+                  "name": "AAN2611",
+                  "text": "Ez a kilátó rálátást biztosít az Al Qattara régió ősi régészeti feltárásaira.",
+                  "category": "natural",
+                  "coords": [
+                        55.765005,
+                        24.289026
+                  ]
+            },
+            {
+                  "name": "AAN2035",
+                  "text": "Panorámás pont, ahonnan látható az oázis és a modern Al Ain városa közötti kontraszt.",
+                  "category": "natural",
+                  "coords": [
+                        55.76715,
+                        24.27676
+                  ]
+            },
+            {
+                  "name": "Rumailah",
+                  "text": "Régészetileg jelentős terület Al Qattarában, vaskori településnyomokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        55.759131,
+                        24.276974
+                  ]
+            },
+            {
+                  "name": "Eid Mosque",
+                  "text": "Nagy, nyitott imatér, amelyet kifejezetten az Eid-ünnepek ünnepi gyülekezeteihez használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        55.704095,
+                        24.258481
+                  ]
+            },
+            {
+                  "name": "Sheikh Essa Mosque",
+                  "text": "Al Qattara szívében található mecset, amelyet egyszerű, funkcionális sivatagi építészet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        55.741282,
+                        24.273533
+                  ]
+            },
+            {
+                  "name": "EMIRATO de DUBAI (UAE) Mezquita de Al Ain",
+                  "text": "Jelentős vallási helyszín Al Ainban, amely az iszlám építészet egyik fontos mérföldköve a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.757091,
+                        24.269693
+                  ]
+            },
+            {
+                  "name": "Reef Al Arab Grocery",
+                  "text": "Kicsi, hagyományos élelmiszerbolt, amely az Al Qattara oázis lakóit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        55.718846,
+                        24.25258
+                  ]
+            },
+            {
+                  "name": "Sama Al Huir Foodstuff Trading",
+                  "text": "Alapvető élelmiszerek helyi kereskedése Al Qattara történelmi negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        55.684754,
+                        24.24631
+                  ]
+            },
+            {
+                  "name": "Naseem Al Ain Grocery Shop",
+                  "text": "Jellemző emírségi sarki bolt a napi szükségletek gyors beszerzéséhez.",
+                  "category": "cultural",
+                  "coords": [
+                        55.706672,
+                        24.251307
+                  ]
+            },
+            {
+                  "name": "Slayem Sorour Grocery",
+                  "text": "Kicsi vegyesbolt Al Qattarában, amely friss árut és helyi termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        55.704769,
+                        24.257217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AAN2557",
+                  "text": "Un punct de observație în Al Qattara, oferind o vedere asupra livezilor istorice de palmiere ale oazei.",
+                  "category": "natural",
+                  "coords": [
+                        55.755365,
+                        24.260083
+                  ]
+            },
+            {
+                  "name": "AAN2281",
+                  "text": "Un punct la înălțime lângă mormintele Al Qattara, ideal pentru vizualizarea peisajului arheologic.",
+                  "category": "natural",
+                  "coords": [
+                        55.71132,
+                        24.25093
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "Un muzeu în aer liber din Al Qattara, care prezintă viața și meșteșugurile tradiționale emirateze.",
+                  "category": "museum",
+                  "coords": [
+                        55.745965,
+                        24.310353
+                  ]
+            },
+            {
+                  "name": "AAN2611",
+                  "text": "Acest punct de belvedere oferă o perspectivă asupra siturilor antice excavate din regiunea Al Qattara.",
+                  "category": "natural",
+                  "coords": [
+                        55.765005,
+                        24.289026
+                  ]
+            },
+            {
+                  "name": "AAN2035",
+                  "text": "Un punct panoramic de unde se poate observa contrastul dintre oază și orașul modern Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76715,
+                        24.27676
+                  ]
+            },
+            {
+                  "name": "Rumailah",
+                  "text": "O zonă de importanță arheologică în Al Qattara, cu urme de așezări din Epoca Fierului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.759131,
+                        24.276974
+                  ]
+            },
+            {
+                  "name": "Eid Mosque",
+                  "text": "Un spațiu de rugăciune vast și deschis, utilizat special pentru adunările festive de Eid.",
+                  "category": "landmark",
+                  "coords": [
+                        55.704095,
+                        24.258481
+                  ]
+            },
+            {
+                  "name": "Sheikh Essa Mosque",
+                  "text": "O moschee în inima zonei Al Qattara, caracterizată prin arhitectura sa de deșert simplă și funcțională.",
+                  "category": "landmark",
+                  "coords": [
+                        55.741282,
+                        24.273533
+                  ]
+            },
+            {
+                  "name": "EMIRATO de DUBAI (UAE) Mezquita de Al Ain",
+                  "text": "Un sit religios semnificativ în Al Ain, considerat un reper al arhitecturii islamice din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        55.757091,
+                        24.269693
+                  ]
+            },
+            {
+                  "name": "Reef Al Arab Grocery",
+                  "text": "O mică băcănie tradițională care deservește locuitorii din oaza Al Qattara.",
+                  "category": "cultural",
+                  "coords": [
+                        55.718846,
+                        24.25258
+                  ]
+            },
+            {
+                  "name": "Sama Al Huir Foodstuff Trading",
+                  "text": "Un comerciant local de produse alimentare de bază în cartierul istoric Al Qattara.",
+                  "category": "cultural",
+                  "coords": [
+                        55.684754,
+                        24.24631
+                  ]
+            },
+            {
+                  "name": "Naseem Al Ain Grocery Shop",
+                  "text": "Un magazin tipic emiratez de cartier pentru cumpărături rapide de produse esențiale.",
+                  "category": "cultural",
+                  "coords": [
+                        55.706672,
+                        24.251307
+                  ]
+            },
+            {
+                  "name": "Slayem Sorour Grocery",
+                  "text": "Un mic magazin mixt în Al Qattara, care oferă mărfuri proaspete și produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        55.704769,
+                        24.257217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AAN2557",
+                  "text": "A viewpoint in Al Qattara offering a view over the oasis's historic palm groves.",
+                  "category": "natural",
+                  "coords": [
+                        55.755365,
+                        24.260083
+                  ]
+            },
+            {
+                  "name": "AAN2281",
+                  "text": "An elevated point near the Al Qattara tombs, ideal for viewing the archaeological landscape.",
+                  "category": "natural",
+                  "coords": [
+                        55.71132,
+                        24.25093
+                  ]
+            },
+            {
+                  "name": "Heritage Village",
+                  "text": "An open-air museum in Al Qattara showcasing traditional Emirati life and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        55.745965,
+                        24.310353
+                  ]
+            },
+            {
+                  "name": "AAN2611",
+                  "text": "This viewpoint offers a perspective on the ancient excavated sites of the Al Qattara region.",
+                  "category": "natural",
+                  "coords": [
+                        55.765005,
+                        24.289026
+                  ]
+            },
+            {
+                  "name": "AAN2035",
+                  "text": "A panoramic point from which to see the contrast between the oasis and the modern city of Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76715,
+                        24.27676
+                  ]
+            },
+            {
+                  "name": "Rumailah",
+                  "text": "An archaeologically significant area in Al Qattara featuring Iron Age settlement remains.",
+                  "category": "landmark",
+                  "coords": [
+                        55.759131,
+                        24.276974
+                  ]
+            },
+            {
+                  "name": "Eid Mosque",
+                  "text": "A large, open prayer space used specifically for festive Eid gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        55.704095,
+                        24.258481
+                  ]
+            },
+            {
+                  "name": "Sheikh Essa Mosque",
+                  "text": "A mosque in the heart of Al Qattara, characterized by its simple, functional desert architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        55.741282,
+                        24.273533
+                  ]
+            },
+            {
+                  "name": "EMIRATO de DUBAI (UAE) Mezquita de Al Ain",
+                  "text": "A significant religious site in Al Ain, serving as a landmark of Islamic architecture in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        55.757091,
+                        24.269693
+                  ]
+            },
+            {
+                  "name": "Reef Al Arab Grocery",
+                  "text": "A small, traditional grocery store serving the residents of the Al Qattara oasis.",
+                  "category": "cultural",
+                  "coords": [
+                        55.718846,
+                        24.25258
+                  ]
+            },
+            {
+                  "name": "Sama Al Huir Foodstuff Trading",
+                  "text": "A local trader of basic foodstuffs in the historical neighborhood of Al Qattara.",
+                  "category": "cultural",
+                  "coords": [
+                        55.684754,
+                        24.24631
+                  ]
+            },
+            {
+                  "name": "Naseem Al Ain Grocery Shop",
+                  "text": "A typical Emirati neighborhood shop for quick purchases of daily essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        55.706672,
+                        24.251307
+                  ]
+            },
+            {
+                  "name": "Slayem Sorour Grocery",
+                  "text": "A small general store in Al Qattara offering fresh goods and local products.",
+                  "category": "cultural",
+                  "coords": [
+                        55.704769,
+                        24.257217
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "AE-AZ",
     coords: [55.7486, 24.2697],

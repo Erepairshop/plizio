@@ -707,7 +707,88 @@ imageHint: "Snowy peak of Mount Koshtan-Tau against blue sky",
     },
     image: "/poi-images/russia-mount-koshtan-tau-relief-v2.webp",
 },  {
-    id: "russia-mount-pobeda-relief-v2",
+    id: "russia-mount-pobeda-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pobeda",
+                  "text": "Der höchste Punkt des Tscherskigebirges, der inmitten der vergletscherten Gipfel Jakutiens auf 3.003 Meter ansteigt.",
+                  "category": "natural",
+                  "coords": [
+                        146.010922,
+                        65.177351
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi prirodnyi park << Momskii>>",
+                  "text": "Ein Naturschutzgebiet mit dem erloschenen Vulkan Balagan-Tas und dem weiten Tal des Flusses Moma.",
+                  "category": "natural",
+                  "coords": [
+                        146.06644,
+                        65.155386
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pobeda",
+                  "text": "A Cserszkij-hegység legmagasabb pontja, amely 3003 méter magasan emelkedik Jakutföld eljegesedett csúcsai között.",
+                  "category": "natural",
+                  "coords": [
+                        146.010922,
+                        65.177351
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi prirodnyi park << Momskii>>",
+                  "text": "Természetvédelmi terület, ahol a kialudt Balagan-Tas vulkán és a Moma-folyó széles völgye található.",
+                  "category": "natural",
+                  "coords": [
+                        146.06644,
+                        65.155386
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pobeda",
+                  "text": "Cel mai înalt punct al lanțului muntos Cerski, ridicându-se la 3.003 metri printre vârfurile glaciare din Iacuția.",
+                  "category": "natural",
+                  "coords": [
+                        146.010922,
+                        65.177351
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi prirodnyi park << Momskii>>",
+                  "text": "O rezervație naturală care include vulcanul stins Balagan-Tas și valea largă a râului Moma.",
+                  "category": "natural",
+                  "coords": [
+                        146.06644,
+                        65.155386
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peak Pobeda",
+                  "text": "The highest point of the Chersky Range, rising to 3,003 meters amidst the glaciated peaks of Yakutia.",
+                  "category": "natural",
+                  "coords": [
+                        146.010922,
+                        65.177351
+                  ]
+            },
+            {
+                  "name": "Natsional'nyi prirodnyi park << Momskii>>",
+                  "text": "A nature reserve featuring the extinct Balagan-Tas volcano and the wide Moma River valley.",
+                  "category": "natural",
+                  "coords": [
+                        146.06644,
+                        65.155386
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "peak",
     name: { de: "Pik Pobeda (Sacha)", hu: "Pobeda-csúcs", ro: "Vârful Pobeda", en: "Mount Pobeda"},
@@ -753,7 +834,124 @@ imageHint: "Isolated snowy peak of Mount Pobeda in Yakutia",
     },
     image: "/poi-images/russia-mount-pobeda-relief-v2.webp",
 },  {
-    id: "russia-mount-munku-sardyk-relief-v2",
+    id: "russia-mount-munku-sardyk-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Munku-Sardyk",
+                  "text": "Mit 3.491 Metern ist der Munku-Sardyk der höchste Gipfel des Sajan-Gebirges an der Grenze zwischen Russland und der Mongolei.",
+                  "category": "landmark",
+                  "coords": [
+                        100.597055,
+                        51.718833
+                  ]
+            },
+            {
+                  "name": "Sviashchennaia stupa Prosvetleniia",
+                  "text": "Diese weiße Stupa der Erleuchtung steht in der alpinen Tundra des Munku-Sardyk als Symbol für Frieden.",
+                  "category": "religious",
+                  "coords": [
+                        100.708865,
+                        51.770437
+                  ]
+            },
+            {
+                  "name": "Sviashchennye vrata \"Nukhen Dabaan\"",
+                  "text": "Ein natürliches Felsentor am Munku-Sardyk, das von Einheimischen als heiliger Durchgang zu den Berggöttern verehrt wird.",
+                  "category": "religious",
+                  "coords": [
+                        100.689736,
+                        51.781653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Munku-Sardyk",
+                  "text": "A 3491 méter magas Munku-Szardik a Szaján-hegység legmagasabb csúcsa az orosz-mongol határon.",
+                  "category": "landmark",
+                  "coords": [
+                        100.597055,
+                        51.718833
+                  ]
+            },
+            {
+                  "name": "Sviashchennaia stupa Prosvetleniia",
+                  "text": "Ez a fehér Megvilágosodás-sztúpa a Munku-Szardik alpesi tundráján áll a béke szimbólumaként.",
+                  "category": "religious",
+                  "coords": [
+                        100.708865,
+                        51.770437
+                  ]
+            },
+            {
+                  "name": "Sviashchennye vrata \"Nukhen Dabaan\"",
+                  "text": "Természetes sziklakapu a Munku-Szardikon, amelyet a helyiek a hegyi istenekhez vezető szent átjáróként tisztelnek.",
+                  "category": "religious",
+                  "coords": [
+                        100.689736,
+                        51.781653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Munku-Sardyk",
+                  "text": "Cu o înălțime de 3.491 de metri, Munku-Sardîk este cel mai înalt vârf din Munții Saian, situat la granița ruso-mongolă.",
+                  "category": "landmark",
+                  "coords": [
+                        100.597055,
+                        51.718833
+                  ]
+            },
+            {
+                  "name": "Sviashchennaia stupa Prosvetleniia",
+                  "text": "Această stupă albă a Iluminării se află în tundra alpină de pe Munku-Sardîk ca simbol al păcii.",
+                  "category": "religious",
+                  "coords": [
+                        100.708865,
+                        51.770437
+                  ]
+            },
+            {
+                  "name": "Sviashchennye vrata \"Nukhen Dabaan\"",
+                  "text": "O poartă naturală de stâncă pe Munku-Sardîk, venerată de localnici ca o trecere sacră către zeii munților.",
+                  "category": "religious",
+                  "coords": [
+                        100.689736,
+                        51.781653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Munku-Sardyk",
+                  "text": "Rising to 3,491 metres, Munku-Sardyk is the highest peak of the Sayan Mountains on the Russian-Mongolian border.",
+                  "category": "landmark",
+                  "coords": [
+                        100.597055,
+                        51.718833
+                  ]
+            },
+            {
+                  "name": "Sviashchennaia stupa Prosvetleniia",
+                  "text": "This white Stupa of Enlightenment stands in the alpine tundra of Munku-Sardyk as a symbol of peace.",
+                  "category": "religious",
+                  "coords": [
+                        100.708865,
+                        51.770437
+                  ]
+            },
+            {
+                  "name": "Sviashchennye vrata \"Nukhen Dabaan\"",
+                  "text": "A natural rock gate on Munku-Sardyk revered by locals as a sacred passage to the mountain gods.",
+                  "category": "religious",
+                  "coords": [
+                        100.689736,
+                        51.781653
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "peak",
     name: { de: "Munku Sardyk", hu: "Munku-Szardik", ro: "Munku Sardîk", en: "Mount Munku-Sardyk"},
@@ -799,7 +997,52 @@ imageHint: "Snowy peak of Munku-Sardyk on the Mongolian border",
     },
     image: "/poi-images/russia-mount-munku-sardyk-relief-v2.webp",
 },  {
-    id: "russia-kronotsky-volcano-relief-v2",
+    id: "russia-kronotsky-volcano-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vid na ozero Kronotskoe so sklona Kronotskoi sopki",
+                  "text": "Dieser Aussichtspunkt an den Hängen des Vulkans Kronotski bietet weite Ausblicke auf den darunter liegenden Kronotskoje-See.",
+                  "category": "natural",
+                  "coords": [
+                        160.522016,
+                        54.775165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vid na ozero Kronotskoe so sklona Kronotskoi sopki",
+                  "text": "A Kronockij vulkán lejtőin található kilátópontról széles kilátás nyílik az alatta elterülő Kronockoje-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        160.522016,
+                        54.775165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vid na ozero Kronotskoe so sklona Kronotskoi sopki",
+                  "text": "Acest punct de belvedere de pe pantele vulcanului Kronotsky oferă o priveliște amplă asupra lacului Kronotskoye situat la bază.",
+                  "category": "natural",
+                  "coords": [
+                        160.522016,
+                        54.775165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vid na ozero Kronotskoe so sklona Kronotskoi sopki",
+                  "text": "This viewpoint on the slopes of the Kronotsky volcano offers sweeping vistas of Lake Kronotskoye below.",
+                  "category": "natural",
+                  "coords": [
+                        160.522016,
+                        54.775165
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "peak",
     name: { de: "Kronozki-Vulkan", hu: "Kronockij-vulkán", ro: "Vulcanul Kronoțki", en: "Kronotsky Volcano"},
@@ -845,7 +1088,124 @@ imageHint: "Symmetrical snowy volcano cone reflected in a lake",
     },
     image: "/poi-images/russia-kronotsky-volcano-relief-v2.webp",
 },  {
-    id: "russia-koryaksky-volcano-relief-v2",
+    id: "russia-koryaksky-volcano-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koriakskie narzany",
+                  "text": "Natürliche Mineralwasserquellen, die aus dem schroffen vulkanischen Gelände nahe dem Korjakski sprudeln.",
+                  "category": "landmark",
+                  "coords": [
+                        158.755081,
+                        53.392451
+                  ]
+            },
+            {
+                  "name": "Koriakskaia sopka",
+                  "text": "Ein aktiver Stratovulkan auf der Halbinsel Kamtschatka mit einem markant gefurchten, konischen Profil.",
+                  "category": "landmark",
+                  "coords": [
+                        158.711565,
+                        53.320473
+                  ]
+            },
+            {
+                  "name": "Vekovye derev'ia",
+                  "text": "Ein uralter Hain aus säkularen Bäumen, der in der rauen Vulkanlandschaft nahe dem Korjakski überlebt hat.",
+                  "category": "landmark",
+                  "coords": [
+                        158.598856,
+                        53.295545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koriakskie narzany",
+                  "text": "Természetes ásványvízforrások, amelyek a Korjakszkij vulkán melletti zord terepen buzognak fel.",
+                  "category": "landmark",
+                  "coords": [
+                        158.755081,
+                        53.392451
+                  ]
+            },
+            {
+                  "name": "Koriakskaia sopka",
+                  "text": "Aktív rétegvulkán a Kamcsatka-félszigeten, jellegzetesen barázdált, kúpos profillal.",
+                  "category": "landmark",
+                  "coords": [
+                        158.711565,
+                        53.320473
+                  ]
+            },
+            {
+                  "name": "Vekovye derev'ia",
+                  "text": "Ősi, évszázados fákból álló liget, amely a Korjakszkij vulkán melletti zord tájon maradt fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        158.598856,
+                        53.295545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koriakskie narzany",
+                  "text": "Izvoare naturale de apă minerală care țâșnesc din terenul vulcanic accidentat de lângă Koriaksky.",
+                  "category": "landmark",
+                  "coords": [
+                        158.755081,
+                        53.392451
+                  ]
+            },
+            {
+                  "name": "Koriakskaia sopka",
+                  "text": "Un stratovulcan activ din Peninsula Kamceatka cu un profil conic, distinctiv canelat.",
+                  "category": "landmark",
+                  "coords": [
+                        158.711565,
+                        53.320473
+                  ]
+            },
+            {
+                  "name": "Vekovye derev'ia",
+                  "text": "Un crâng străvechi de copaci seculari care supraviețuiesc în peisajul vulcanic accidentat de lângă Koriaksky.",
+                  "category": "landmark",
+                  "coords": [
+                        158.598856,
+                        53.295545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koriakskie narzany",
+                  "text": "Natural mineral water springs bubbling up from the rugged volcanic terrain near Koryaksky.",
+                  "category": "landmark",
+                  "coords": [
+                        158.755081,
+                        53.392451
+                  ]
+            },
+            {
+                  "name": "Koryaksky",
+                  "text": "An active stratovolcano on the Kamchatka Peninsula with a distinctively grooved, conical profile.",
+                  "category": "landmark",
+                  "coords": [
+                        158.711565,
+                        53.320473
+                  ]
+            },
+            {
+                  "name": "Vekovye derev'ia",
+                  "text": "An ancient grove of secular trees surviving in the rugged volcanic landscape near Koryaksky.",
+                  "category": "landmark",
+                  "coords": [
+                        158.598856,
+                        53.295545
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "peak",
     name: { de: "Korjakski", hu: "Korjakszkij-vulkán", ro: "Vulcanul Koriakski", en: "Koryaksky Volcano"},
@@ -891,7 +1251,232 @@ imageHint: "Large volcano overlooking Petropavlovsk-Kamchatsky city",
     },
     image: "/poi-images/russia-koryaksky-volcano-relief-v2.webp",
 },  {
-    id: "russia-avachinsky-volcano-relief-v2",
+    id: "russia-avachinsky-volcano-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vidovka Avachinskogo perevala",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick auf den zerklüfteten Awatscha-Gebirgspass bietet.",
+                  "category": "natural",
+                  "coords": [
+                        158.770813,
+                        53.280225
+                  ]
+            },
+            {
+                  "name": "Vidovka na gore Verbliud",
+                  "text": "Ein Aussichtspunkt auf dem einzigartigen doppelhöckrigen Kamelberg nahe dem Awatscha-Vulkan.",
+                  "category": "natural",
+                  "coords": [
+                        158.76487,
+                        53.272013
+                  ]
+            },
+            {
+                  "name": "Vidovka na goru Verbliud",
+                  "text": "Ein malerischer Aussichtspunkt, der klare Ausblicke auf die markante Felsformation bietet, die als Kamelberg bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        158.764064,
+                        53.270096
+                  ]
+            },
+            {
+                  "name": "Seismostantsiia",
+                  "text": "Eine funktionelle seismische Überwachungsstation, die den aktiven Awatscha-Vulkan beobachtet.",
+                  "category": "landmark",
+                  "coords": [
+                        158.811815,
+                        53.26608
+                  ]
+            },
+            {
+                  "name": "Lavovaia pad' nash marshrut 1",
+                  "text": "Diese vulkanische Route führt durch die zerklüfteten Lavafelder am Awatschinski-Vulkan und bietet Wanderern beeindruckende Ausblicke auf erhärtete geologische Formationen.",
+                  "category": "landmark",
+                  "coords": [
+                        158.815452,
+                        53.22509
+                  ]
+            },
+            {
+                  "name": "Lavovaia pad' nash pod'em",
+                  "text": "Dieser steile Aufstiegspfad durch das lokale Lavatal ist eine Herausforderung für Abenteurer, die die Hänge des Awatschinski-Vulkans erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        158.812278,
+                        53.220473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vidovka Avachinskogo perevala",
+                  "text": "Festői kilátó, amely lenyűgöző kilátást nyújt a zord Avacsinszkij hágóra.",
+                  "category": "natural",
+                  "coords": [
+                        158.770813,
+                        53.280225
+                  ]
+            },
+            {
+                  "name": "Vidovka na gore Verbliud",
+                  "text": "Az Avacsinszkij vulkán melletti, egyedülálló kétpúpú Teve-hegyen található kilátó.",
+                  "category": "natural",
+                  "coords": [
+                        158.76487,
+                        53.272013
+                  ]
+            },
+            {
+                  "name": "Vidovka na goru Verbliud",
+                  "text": "Festői kilátópont, amely tiszta rálátást nyújt a Teve-hegyként ismert jellegzetes sziklaalakzatra.",
+                  "category": "natural",
+                  "coords": [
+                        158.764064,
+                        53.270096
+                  ]
+            },
+            {
+                  "name": "Seismostantsiia",
+                  "text": "A működő Avacsinszkij vulkánt megfigyelő szeizmikus állomás.",
+                  "category": "landmark",
+                  "coords": [
+                        158.811815,
+                        53.26608
+                  ]
+            },
+            {
+                  "name": "Lavovaia pad' nash marshrut 1",
+                  "text": "Ez a vulkáni útvonal az Avacsinszkij-vulkán zord lávamezőin halad keresztül, és lenyűgöző kilátást nyújt a megszilárdult geológiai képződményekre.",
+                  "category": "landmark",
+                  "coords": [
+                        158.815452,
+                        53.22509
+                  ]
+            },
+            {
+                  "name": "Lavovaia pad' nash pod'em",
+                  "text": "A helyi lávavölgyön keresztül vezető meredek emelkedőként ez az ösvény kihívást jelent az Avacsinszkij-vulkán lejtőit felfedező kalandorok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        158.812278,
+                        53.220473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vidovka Avachinskogo perevala",
+                  "text": "Un punct de belvedere pitoresc care oferă vederi ample asupra trecătorii montane accidentate Avachinsky.",
+                  "category": "natural",
+                  "coords": [
+                        158.770813,
+                        53.280225
+                  ]
+            },
+            {
+                  "name": "Vidovka na gore Verbliud",
+                  "text": "Un punct de observație situat pe Muntele Cămilei cu două cocoașe unic, lângă Avachinsky.",
+                  "category": "natural",
+                  "coords": [
+                        158.76487,
+                        53.272013
+                  ]
+            },
+            {
+                  "name": "Vidovka na goru Verbliud",
+                  "text": "Un punct de belvedere pitoresc care oferă o priveliște clară asupra formațiunii stâncoase distinctive cunoscute sub numele de Muntele Cămilei.",
+                  "category": "natural",
+                  "coords": [
+                        158.764064,
+                        53.270096
+                  ]
+            },
+            {
+                  "name": "Seismostantsiia",
+                  "text": "O stație funcțională de monitorizare seismică care observă vulcanul activ Avachinsky.",
+                  "category": "landmark",
+                  "coords": [
+                        158.811815,
+                        53.26608
+                  ]
+            },
+            {
+                  "name": "Lavovaia pad' nash marshrut 1",
+                  "text": "Acest traseu vulcanic traversează câmpurile accidentate de lavă din apropierea Vulcanului Avacinski, oferind drumeților priveliști impresionante ale formațiunilor geologice întărite.",
+                  "category": "landmark",
+                  "coords": [
+                        158.815452,
+                        53.22509
+                  ]
+            },
+            {
+                  "name": "Lavovaia pad' nash pod'em",
+                  "text": "Servind ca o potecă de urcare abruptă prin valea locală de lavă, acest traseu îi provoacă pe aventurierii care explorează pantele Vulcanului Avacinski.",
+                  "category": "landmark",
+                  "coords": [
+                        158.812278,
+                        53.220473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vidovka Avachinskogo perevala",
+                  "text": "A scenic overlook providing expansive views of the rugged Avachinsky mountain pass.",
+                  "category": "natural",
+                  "coords": [
+                        158.770813,
+                        53.280225
+                  ]
+            },
+            {
+                  "name": "Vidovka na gore Verbliud",
+                  "text": "An observation point situated on the unique double-humped Camel Mountain near Avachinsky.",
+                  "category": "natural",
+                  "coords": [
+                        158.76487,
+                        53.272013
+                  ]
+            },
+            {
+                  "name": "Vidovka na goru Verbliud",
+                  "text": "A scenic vantage point offering clear sights of the distinctive rock formation known as Camel Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        158.764064,
+                        53.270096
+                  ]
+            },
+            {
+                  "name": "Seismostantsiia",
+                  "text": "A functional seismic monitoring station observing the active Avachinsky volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        158.811815,
+                        53.26608
+                  ]
+            },
+            {
+                  "name": "Lavovaia pad' nash marshrut 1",
+                  "text": "This volcanic route traverses the rugged lava fields near Avachinsky Volcano, offering hikers striking views of hardened geological formations.",
+                  "category": "landmark",
+                  "coords": [
+                        158.815452,
+                        53.22509
+                  ]
+            },
+            {
+                  "name": "Lavovaia pad' nash pod'em",
+                  "text": "Serving as a steep ascent path through the local lava valley, this trail challenges adventurers exploring the slopes of the Avachinsky Volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        158.812278,
+                        53.220473
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "peak",
     name: { de: "Awatschinskaja Sopka", hu: "Avacsinszkij-vulkán", ro: "Vulcanul Avacinski", en: "Avachinsky Volcano"},
@@ -1121,7 +1706,88 @@ imageHint: "Jagged mountain peaks overlooking Lake Baikal",
     },
     image: "/poi-images/russia-barguzin-range-relief-v2.webp",
 },  {
-    id: "russia-khamar-daban-relief-v2",
+    id: "russia-khamar-daban-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skazochnaia tropa",
+                  "text": "Ein Naturpfad im Chamar-Daban-Gebirge mit Holzskulpturen von Märchenfiguren.",
+                  "category": "landmark",
+                  "coords": [
+                        104.108241,
+                        51.497409
+                  ]
+            },
+            {
+                  "name": "Blagaia vest'",
+                  "text": "Eine religiöse Stätte inmitten der malerischen Berglandschaft des Chamar-Daban.",
+                  "category": "religious",
+                  "coords": [
+                        104.138932,
+                        51.523184
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skazochnaia tropa",
+                  "text": "Tanösvény a Hamar-Daban-hegységben, amely mesefigurák fafaragásaival van díszítve.",
+                  "category": "landmark",
+                  "coords": [
+                        104.108241,
+                        51.497409
+                  ]
+            },
+            {
+                  "name": "Blagaia vest'",
+                  "text": "Vallási helyszín a Hamar-Daban festői hegyi környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        104.138932,
+                        51.523184
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skazochnaia tropa",
+                  "text": "Un traseu natural în munții Hamar-Daban, decorat cu sculpturi în lemn ale personajelor de basm.",
+                  "category": "landmark",
+                  "coords": [
+                        104.108241,
+                        51.497409
+                  ]
+            },
+            {
+                  "name": "Blagaia vest'",
+                  "text": "Un lăcaș de cult situat în decorul montan pitoresc din Hamar-Daban.",
+                  "category": "religious",
+                  "coords": [
+                        104.138932,
+                        51.523184
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skazochnaia tropa",
+                  "text": "A nature trail in the Khamar-Daban mountains featuring wooden sculptures of fairy tale characters.",
+                  "category": "landmark",
+                  "coords": [
+                        104.108241,
+                        51.497409
+                  ]
+            },
+            {
+                  "name": "Blagaia vest'",
+                  "text": "A religious site situated in the scenic mountain setting of Khamar-Daban.",
+                  "category": "religious",
+                  "coords": [
+                        104.138932,
+                        51.523184
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "mountain",
     name: { de: "Chamar-Daban", hu: "Hamar-Daban", ro: "Munții Hamar-Daban", en: "Khamar-Daban"},
@@ -1167,7 +1833,88 @@ imageHint: "Lush green mountain forests and rocky ridges south of Baikal",
     },
     image: "/poi-images/russia-khamar-daban-relief-v2.webp",
 },  {
-    id: "russia-baikal-mountains-relief-v2",
+    id: "russia-baikal-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istok reki Lena",
+                  "text": "Dieses Wahrzeichen im Baikal-Lena-Naturreservat markiert den offiziellen Ursprung des großen sibirischen Flusses Lena.",
+                  "category": "landmark",
+                  "coords": [
+                        108.084911,
+                        53.933706
+                  ]
+            },
+            {
+                  "name": "Chasovnia Innokentiia, mitropolita Moskovskogo",
+                  "text": "Diese 1997 von Wladimir Trapeznikow entworfene Kapelle steht einsam in der Berglandschaft nahe der Lena-Quelle.",
+                  "category": "landmark",
+                  "coords": [
+                        107.885591,
+                        53.994126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istok reki Lena",
+                  "text": "Ez a Bajkál-Léna természetvédelmi területen található pont jelöli a hatalmas szibériai Léna folyó hivatalos forrását.",
+                  "category": "landmark",
+                  "coords": [
+                        108.084911,
+                        53.933706
+                  ]
+            },
+            {
+                  "name": "Chasovnia Innokentiia, mitropolita Moskovskogo",
+                  "text": "Ezt az 1997-ben Vlagyimir Trapeznyikov által tervezett kápolnát a Léna forrása melletti hegyi tájban emelték.",
+                  "category": "landmark",
+                  "coords": [
+                        107.885591,
+                        53.994126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istok reki Lena",
+                  "text": "Acest punct de reper din Rezervația Naturală Baikal-Lena marchează originea oficială a marelui fluviu siberian Lena.",
+                  "category": "landmark",
+                  "coords": [
+                        108.084911,
+                        53.933706
+                  ]
+            },
+            {
+                  "name": "Chasovnia Innokentiia, mitropolita Moskovskogo",
+                  "text": "Această capelă proiectată în 1997 de Vladimir Trapeznikov se află izolată în peisajul montan de lângă izvorul Lenei.",
+                  "category": "landmark",
+                  "coords": [
+                        107.885591,
+                        53.994126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Source of the River Lena",
+                  "text": "This landmark in the Baikal-Lena Nature Reserve marks the official starting point of the great Siberian river Lena.",
+                  "category": "landmark",
+                  "coords": [
+                        108.084911,
+                        53.933706
+                  ]
+            },
+            {
+                  "name": "Chasovnia Innokentiia, mitropolita Moskovskogo",
+                  "text": "Designed in 1997 by Vladimir Trapeznikov, this chapel stands isolated in the mountain landscape near the source of the Lena.",
+                  "category": "landmark",
+                  "coords": [
+                        107.885591,
+                        53.994126
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "mountain",
     name: { de: "Baikalgebirge", hu: "Bajkál-hegység", ro: "Munții Baikal", en: "Baikal Mountains"},
@@ -1213,7 +1960,88 @@ imageHint: "Snow-capped mountains rising directly from the blue Baikal water",
     },
     image: "/poi-images/russia-baikal-mountains-relief-v2.webp",
 },  {
-    id: "russia-mount-narodnaya-relief-v2",
+    id: "russia-mount-narodnaya-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Narodnaja",
+                  "text": "Mit 1895 Metern ist dies der höchste Gipfel des gesamten Uralgebirges.",
+                  "category": "natural",
+                  "coords": [
+                        60.114108,
+                        65.034987
+                  ]
+            },
+            {
+                  "name": "Smotrovaia na Goluboe ozero",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick auf den tiefblauen Gebirgssee Goluboe.",
+                  "category": "natural",
+                  "coords": [
+                        60.124801,
+                        65.038623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Narodnaia",
+                  "text": "A maga 1895 méterével ez az egész Urál-hegység legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        60.114108,
+                        65.034987
+                  ]
+            },
+            {
+                  "name": "Smotrovaia na Goluboe ozero",
+                  "text": "Erről a kilátópontról pazar kilátás nyílik a mélykék Goluboje-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        60.124801,
+                        65.038623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Narodnaia",
+                  "text": "Cu o înălțime de 1895 de metri, acesta este cel mai înalt vârf din întreg lanțul Munților Ural.",
+                  "category": "natural",
+                  "coords": [
+                        60.114108,
+                        65.034987
+                  ]
+            },
+            {
+                  "name": "Smotrovaia na Goluboe ozero",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra lacului montan de un albastru profund, Goluboe.",
+                  "category": "natural",
+                  "coords": [
+                        60.124801,
+                        65.038623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Narodnaya",
+                  "text": "At 1,895 meters, this is the highest peak in the entire Ural Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        60.114108,
+                        65.034987
+                  ]
+            },
+            {
+                  "name": "Smotrovaia na Goluboe ozero",
+                  "text": "This vantage point offers a sweeping view of the deep blue Goluboe mountain lake.",
+                  "category": "natural",
+                  "coords": [
+                        60.124801,
+                        65.038623
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "peak",
     name: { de: "Narodnaja", hu: "Narodnaja", ro: "Muntele Narodnaia", en: "Mount Narodnaya"},
@@ -1582,7 +2410,52 @@ imageHint: "Eroded hills and forests of Timan Ridge",
     image: "/poi-images/russia-sikhote-alin-pass-relief-v2.webp",
   },
   {
-    id: "russia-salair-ridge-relief-v2",
+    id: "russia-salair-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mordovskaia Izba",
+                  "text": "Ein ethnographisches Museum, das eine traditionelle mordwinische Bauernhütte mit authentischer Inneneinrichtung und Handwerkskunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        85.008795,
+                        54.031478
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mordovskaia Izba",
+                  "text": "Néprajzi múzeum, amely egy hagyományos mordvin parasztházat mutat be autentikus berendezéssel és mesterségekkel.",
+                  "category": "museum",
+                  "coords": [
+                        85.008795,
+                        54.031478
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mordovskaia Izba",
+                  "text": "Un muzeu etnografic care prezintă o colibă tradițională țărănească mordvină, cu mobilier interior și meșteșuguri autentice.",
+                  "category": "museum",
+                  "coords": [
+                        85.008795,
+                        54.031478
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mordovskaia Izba",
+                  "text": "An ethnographic museum showcasing a traditional Mordvin peasant hut with authentic interior furnishings and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        85.008795,
+                        54.031478
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RU",
     name: { de: "Salair-Rücken", hu: "Szalair-hátság", ro: "Creasta Salair", en: "Salair Ridge" },
@@ -2122,7 +2995,88 @@ imageHint: "Eroded hills and forests of Timan Ridge",
     image: "/poi-images/russia-vitim-range-relief-v2.webp",
   },
   {
-    id: "russia-salair-range-relief-v2",
+    id: "russia-salair-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Razvaliny Gorskinskoi GES (pervaia v Sibiri)",
+                  "text": "Die Ruinen der Gorskaja-Wasserkraftanlage markieren die Überreste der allerersten derartigen Anlage in Sibirien.",
+                  "category": "historical",
+                  "coords": [
+                        85.597644,
+                        54.440675
+                  ]
+            },
+            {
+                  "name": "Drevlepravoslavnaia tserkov'",
+                  "text": "Die Altorthodoxe Kirche bewahrt die alten liturgischen Traditionen und die Architektur der Altgläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        85.395646,
+                        54.455785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Razvaliny Gorskinskoi GES (pervaia v Sibiri)",
+                  "text": "A Gorszkaja vízerőmű romjai az első ilyen jellegű létesítmény maradványait jelzik Szibériában.",
+                  "category": "historical",
+                  "coords": [
+                        85.597644,
+                        54.440675
+                  ]
+            },
+            {
+                  "name": "Drevlepravoslavnaia tserkov'",
+                  "text": "Az óhitű ortodox templom az óhitűek ősi liturgikus hagyományait és építészetét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.395646,
+                        54.455785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Razvaliny Gorskinskoi GES (pervaia v Sibiri)",
+                  "text": "Ruinele centralei hidroelectrice Gorskaya marchează rămășițele primei astfel de instalații din Siberia.",
+                  "category": "historical",
+                  "coords": [
+                        85.597644,
+                        54.440675
+                  ]
+            },
+            {
+                  "name": "Drevlepravoslavnaia tserkov'",
+                  "text": "Biserica de rit vechi ortodox păstrează vechile tradiții liturgice și arhitectura credincioșilor de rit vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.395646,
+                        54.455785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Razvaliny Gorskinskoi GES (pervaia v Sibiri)",
+                  "text": "The ruins of the Gorskaya hydroelectric station mark the remains of the very first such facility in Siberia.",
+                  "category": "historical",
+                  "coords": [
+                        85.597644,
+                        54.440675
+                  ]
+            },
+            {
+                  "name": "Drevlepravoslavnaia tserkov'",
+                  "text": "The Old Orthodox Church preserves the ancient liturgical traditions and architecture of the Old Believers.",
+                  "category": "landmark",
+                  "coords": [
+                        85.395646,
+                        54.455785
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "RU",
     name: { de: "Salair-Gebirge", hu: "Szalair-hegység", ro: "Munții Salair", en: "Salair Range" },

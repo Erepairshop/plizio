@@ -299,7 +299,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Muse Sultanat",
-                  "text": "Muse Sultanat ist ein Museum in Kousséri.",
+                  "text": "Museum in Kousseri mit Blick auf den Logone-Fluss, das die lokale Geschichte zeigt.",
                   "category": "museum",
                   "coords": [
                         15.033168,
@@ -308,7 +308,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument",
-                  "text": "Monument ist ein Denkmal in Kousséri.",
+                  "text": "Steinmonument auf dem Hauptplatz von Kousseri, ein Symbol der Stadt.",
                   "category": "historical",
                   "coords": [
                         15.03315,
@@ -317,7 +317,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Connection",
-                  "text": "Connection ist eine Sehenswürdigkeit in Kousséri.",
+                  "text": "Wahrzeichen, das die Verbindung zwischen Kamerun und dem Tschad in Kousseri darstellt.",
                   "category": "landmark",
                   "coords": [
                         15.053584,
@@ -326,7 +326,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Stèle Commandant Lamy",
-                  "text": "Stèle Commandant Lamy ist ein Denkmal in Kousséri.",
+                  "text": "Stele zu Ehren des französischen Kommandanten Lamy in Kousseri, nahe seinem Schlachtfeld.",
                   "category": "historical",
                   "coords": [
                         15.033816,
@@ -337,7 +337,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Muse Sultanat",
-                  "text": "A Muse Sultanat egy múzeum Kousséri városában.",
+                  "text": "Múzeum Kousseriben a Logone folyóra néző kilátással, helyi történelemmel.",
                   "category": "museum",
                   "coords": [
                         15.033168,
@@ -346,7 +346,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument",
-                  "text": "A Monument egy emlékmű Kousséri városában.",
+                  "text": "Kőemlék Kousseri főterén, a város szimbóluma.",
                   "category": "historical",
                   "coords": [
                         15.03315,
@@ -355,7 +355,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Connection",
-                  "text": "A Connection egy látványosság Kousséri városában.",
+                  "text": "Tájékozódási pont, amely Kamerun és Csád közötti kapcsolatot jelképezi Kousseriben.",
                   "category": "landmark",
                   "coords": [
                         15.053584,
@@ -364,7 +364,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Stèle Commandant Lamy",
-                  "text": "A Stèle Commandant Lamy egy emlékmű Kousséri városában.",
+                  "text": "Sztélé Lamy francia parancsnok tiszteletére Kousseriben, a csatatér közelében.",
                   "category": "historical",
                   "coords": [
                         15.033816,
@@ -375,7 +375,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Muse Sultanat",
-                  "text": "Muse Sultanat este un muzeu în Kousséri.",
+                  "text": "Muzeu în Kousseri cu vedere la râul Logone, ce prezintă istoria locală.",
                   "category": "museum",
                   "coords": [
                         15.033168,
@@ -384,7 +384,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument",
-                  "text": "Monument este un monument în Kousséri.",
+                  "text": "Monument de piatră în piața centrală a orașului Kousseri, simbol al orașului.",
                   "category": "historical",
                   "coords": [
                         15.03315,
@@ -393,7 +393,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Connection",
-                  "text": "Connection este o atracție în Kousséri.",
+                  "text": "Punct de reper ce simbolizează legătura dintre Camerun și Ciad în Kousseri.",
                   "category": "landmark",
                   "coords": [
                         15.053584,
@@ -402,7 +402,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Stèle Commandant Lamy",
-                  "text": "Stèle Commandant Lamy este un monument în Kousséri.",
+                  "text": "Stelă în cinstea comandantului francez Lamy în Kousseri, lângă câmpul de luptă.",
                   "category": "historical",
                   "coords": [
                         15.033816,
@@ -413,7 +413,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Muse Sultanat",
-                  "text": "Muse Sultanat is a museum in Kousséri.",
+                  "text": "Museum in Kousseri overlooking the Logone River, displaying local history.",
                   "category": "museum",
                   "coords": [
                         15.033168,
@@ -422,7 +422,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument",
-                  "text": "Monument is a monument in Kousséri.",
+                  "text": "Stone monument in Kousseri's main square, a city symbol.",
                   "category": "historical",
                   "coords": [
                         15.03315,
@@ -431,7 +431,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Connection",
-                  "text": "Connection is an attraction in Kousséri.",
+                  "text": "Landmark symbolizing the connection between Cameroon and Chad in Kousseri.",
                   "category": "landmark",
                   "coords": [
                         15.053584,
@@ -440,7 +440,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Stèle Commandant Lamy",
-                  "text": "Stèle Commandant Lamy is a monument in Kousséri.",
+                  "text": "Stele honouring French commander Lamy in Kousseri, near his battlefield.",
                   "category": "historical",
                   "coords": [
                         15.033816,
@@ -517,7 +517,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mama Endah Residence",
-                  "text": "Ein Aussichtspunkt an der Mama Endah Residenz in Kumba.",
+                  "text": "Privates Wohnhaus mit tropischem Garten in Kumba, umgeben von Natur.",
                   "category": "natural",
                   "coords": [
                         9.452272,
@@ -526,7 +526,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Awah Eric Residence",
-                  "text": "Eine Sehenswürdigkeit an der Awah Eric Residenz in Kumba.",
+                  "text": "Markantes Wohngebäude im Zentrum von Kumba, ein stadtbekannter Orientierungspunkt.",
                   "category": "landmark",
                   "coords": [
                         9.46541,
@@ -535,7 +535,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Matoh Park Junction",
-                  "text": "Eine Sehenswürdigkeit an der Matoh Park Kreuzung in Kumba.",
+                  "text": "Verkehrsknotenpunkt mit Parkanlage in Kumba, ein Treffpunkt der Einheimischen.",
                   "category": "landmark",
                   "coords": [
                         9.450876,
@@ -544,7 +544,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Amusement Parc",
-                  "text": "Ein Freizeitpark in der Stadt Kumba.",
+                  "text": "Vergnügungspark mit Fahrgeschäften und Spielplätzen in Kumba.",
                   "category": "landmark",
                   "coords": [
                         9.441244,
@@ -555,7 +555,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mama Endah Residence",
-                  "text": "Kilátó a Mama Endah rezidenciánál, Kumbában.",
+                  "text": "Magánrezidencia trópusi kerttel Kumbában, természeti környezetben.",
                   "category": "natural",
                   "coords": [
                         9.452272,
@@ -564,7 +564,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Awah Eric Residence",
-                  "text": "Látványosság az Awah Eric rezidenciánál Kumbában.",
+                  "text": "Feltűnő lakóépület Kumba központjában, a város ismert tájékozódási pontja.",
                   "category": "landmark",
                   "coords": [
                         9.46541,
@@ -573,7 +573,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Matoh Park Junction",
-                  "text": "Látványosság a Matoh Park csomópontnál Kumbában.",
+                  "text": "Útkereszteződés parkkal Kumbában, a helyiek találkozóhelye.",
                   "category": "landmark",
                   "coords": [
                         9.450876,
@@ -582,7 +582,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Amusement Parc",
-                  "text": "Vidámpark Kumba városában.",
+                  "text": "Vidámpark játékokkal és hintákkal Kumbában.",
                   "category": "landmark",
                   "coords": [
                         9.441244,
@@ -593,7 +593,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mama Endah Residence",
-                  "text": "Un punct de belvedere la Reședința Mama Endah din Kumba.",
+                  "text": "Reședință privată cu grădină tropicală în Kumba, înconjurată de natură.",
                   "category": "natural",
                   "coords": [
                         9.452272,
@@ -602,7 +602,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Awah Eric Residence",
-                  "text": "O atracție situată la Reședința Awah Eric din Kumba.",
+                  "text": "Clădire de locuit distinctă în centrul orașului Kumba, un reper cunoscut.",
                   "category": "landmark",
                   "coords": [
                         9.46541,
@@ -611,7 +611,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Matoh Park Junction",
-                  "text": "O atracție la intersecția Matoh Park din Kumba.",
+                  "text": "Intersecție cu parc în Kumba, loc de întâlnire al localnicilor.",
                   "category": "landmark",
                   "coords": [
                         9.450876,
@@ -620,7 +620,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Amusement Parc",
-                  "text": "Un parc de distracții în orașul Kumba.",
+                  "text": "Parc de distracții cu carusele și locuri de joacă în Kumba.",
                   "category": "landmark",
                   "coords": [
                         9.441244,
@@ -631,7 +631,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mama Endah Residence",
-                  "text": "A viewpoint located at Mama Endah Residence in Kumba.",
+                  "text": "Private residence with tropical gardens in Kumba, surrounded by nature.",
                   "category": "natural",
                   "coords": [
                         9.452272,
@@ -640,7 +640,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Awah Eric Residence",
-                  "text": "An attraction located at the Awah Eric Residence in Kumba.",
+                  "text": "Distinctive residential building in central Kumba, a known landmark.",
                   "category": "landmark",
                   "coords": [
                         9.46541,
@@ -649,7 +649,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Matoh Park Junction",
-                  "text": "An attraction situated at Matoh Park Junction in Kumba.",
+                  "text": "Road junction with a park in Kumba, a local meeting point.",
                   "category": "landmark",
                   "coords": [
                         9.450876,
@@ -658,7 +658,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Amusement Parc",
-                  "text": "An amusement park located in the city of Kumba.",
+                  "text": "Amusement park with rides and playgrounds in Kumba.",
                   "category": "landmark",
                   "coords": [
                         9.441244,
@@ -735,7 +735,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Palais des Sultans Bamouns",
-                  "text": "Historischer Sultanspalast in Foumban.",
+                  "text": "Der frühe 20. Jahrhundert Palast der Bamun-Sultane in Foumban mit traditioneller Architektur.",
                   "category": "castle",
                   "coords": [
                         10.901194,
@@ -744,7 +744,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Tambour",
-                  "text": "Museum für traditionelle Musik in Foumban.",
+                  "text": "Museum in Foumban, das einer großen Zeremonialtrommel der Bamoun gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         10.903027,
@@ -753,7 +753,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Musée de Arts et Traditions Bamoun",
-                  "text": "Museum für Kunst und Traditionen in Foumban.",
+                  "text": "Museum im historischen Bamoun-Palast in Foumban mit Kunst und Traditionen der Bamoun.",
                   "category": "museum",
                   "coords": [
                         10.900755,
@@ -764,7 +764,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Palais des Sultans Bamouns",
-                  "text": "Történelmi szultáni palota Foumbanban.",
+                  "text": "A 20. század elején épült Bamun szultáni palota Foumbanban, hagyományos építészeti stílusban.",
                   "category": "castle",
                   "coords": [
                         10.901194,
@@ -773,7 +773,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Tambour",
-                  "text": "Hagyományos zenei múzeum Foumbanban.",
+                  "text": "Múzeum Foumbanban, egy hatalmas bamoun szertartásos dob bemutatásával.",
                   "category": "museum",
                   "coords": [
                         10.903027,
@@ -782,7 +782,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Musée de Arts et Traditions Bamoun",
-                  "text": "Művészeti és hagyományőrző múzeum Foumbanban.",
+                  "text": "Múzeum a történelmi bamoun palotában Foumbanban, a bamoun művészet és hagyományok bemutatásával.",
                   "category": "museum",
                   "coords": [
                         10.900755,
@@ -793,7 +793,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Palais des Sultans Bamouns",
-                  "text": "Palat istoric al sultanului în Foumban.",
+                  "text": "Palatul sultanilor Bamoun din secolul al XX-lea din Foumban, cu arhitectură tradițională.",
                   "category": "castle",
                   "coords": [
                         10.901194,
@@ -802,7 +802,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Tambour",
-                  "text": "Muzeu de muzică tradițională în Foumban.",
+                  "text": "Muzeu în Foumban dedicat unei mari tobe ceremoniale Bamoun.",
                   "category": "museum",
                   "coords": [
                         10.903027,
@@ -811,7 +811,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Musée de Arts et Traditions Bamoun",
-                  "text": "Muzeu de artă și tradiții în Foumban.",
+                  "text": "Muzeu în palatul istoric Bamoun din Foumban, cu arta și tradițiile Bamoun.",
                   "category": "museum",
                   "coords": [
                         10.900755,
@@ -822,7 +822,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Palais des Sultans Bamouns",
-                  "text": "Historic sultan's palace in Foumban.",
+                  "text": "The early 20th-century palace of the Bamoun sultans in Foumban, featuring traditional architecture.",
                   "category": "castle",
                   "coords": [
                         10.901194,
@@ -831,7 +831,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Grand Tambour",
-                  "text": "Museum of traditional music in Foumban.",
+                  "text": "Museum in Foumban dedicated to a giant ceremonial Bamoun drum.",
                   "category": "museum",
                   "coords": [
                         10.903027,
@@ -840,7 +840,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Musée de Arts et Traditions Bamoun",
-                  "text": "Museum of art and traditions in Foumban.",
+                  "text": "Museum in the historic Bamoun palace in Foumban, showcasing Bamoun art and traditions.",
                   "category": "museum",
                   "coords": [
                         10.900755,
@@ -884,7 +884,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "chefferie Bameboro",
-                  "text": "Das traditionelle Schloss Chefferie Bameboro in Mbouda.",
+                  "text": "Traditionelle Häuptlingsburg mit befestigten Mauern in Mbouda.",
                   "category": "castle",
                   "coords": [
                         10.227938,
@@ -895,7 +895,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "chefferie Bameboro",
-                  "text": "A Chefferie Bameboro hagyományos kastély Mboudában.",
+                  "text": "Hagyományos főnöki erődítmény megerősített falakkal Mboudában.",
                   "category": "castle",
                   "coords": [
                         10.227938,
@@ -906,7 +906,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "chefferie Bameboro",
-                  "text": "Castelul tradițional Chefferie Bameboro din Mbouda.",
+                  "text": "Cetate tradițională a șefului cu ziduri fortificate în Mbouda.",
                   "category": "castle",
                   "coords": [
                         10.227938,
@@ -917,7 +917,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "chefferie Bameboro",
-                  "text": "The traditional castle of Chefferie Bameboro in Mbouda.",
+                  "text": "Traditional chieftaincy castle with fortified walls in Mbouda.",
                   "category": "castle",
                   "coords": [
                         10.227938,
@@ -1025,7 +1025,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Phare de Kribi",
-                  "text": "Der Leuchtturm von Kribi an der kamerunischen Küste.",
+                  "text": "Historischer Leuchtturm am Hafen von Kribi am Golf von Guinea.",
                   "category": "landmark",
                   "coords": [
                         9.903982,
@@ -1034,7 +1034,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "\"Boucanier\" Bibiana",
-                  "text": "Die Sehenswürdigkeit \"Boucanier\" Bibiana in Kribi.",
+                  "text": "Piraten-Themenlokal am Strand von Kribi mit Meerblick.",
                   "category": "landmark",
                   "coords": [
                         9.912004,
@@ -1043,7 +1043,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer socioculturel de la famille bansoa a kribi",
-                  "text": "Das soziokulturelle Zentrum der Familie Bansoa in Kribi.",
+                  "text": "Soziokulturelles Zentrum der Familie Bansoa in Kribi für Gemeinschaftsveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         9.916067,
@@ -1052,7 +1052,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer social et culturel baleng",
-                  "text": "Ein soziales und kulturelles Zentrum in Kribi.",
+                  "text": "Soziales und kulturelles Zentrum der Baleng-Gemeinschaft in Kribi.",
                   "category": "cultural",
                   "coords": [
                         9.924373,
@@ -1061,7 +1061,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Association socio culturelle bafung de l'ocean",
-                  "text": "Das soziokulturelle Zentrum Bafung de l'Ocean in Kribi.",
+                  "text": "Kulturverein der Bafung aus der Ozeanregion in Kribi.",
                   "category": "cultural",
                   "coords": [
                         9.918266,
@@ -1070,7 +1070,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
-                  "text": "Das Kultur- und Sozialzentrum der Bameka-Gemeinde in Kribi.",
+                  "text": "Kultur- und Sozialzentrum der Bameka-Gemeinschaft aus der Ozeanregion in Kribi.",
                   "category": "cultural",
                   "coords": [
                         9.917172,
@@ -1081,7 +1081,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Phare de Kribi",
-                  "text": "Kribi világítótornya a kameruni tengerparton.",
+                  "text": "Történelmi világítótorony Kribi kikötőjében a Guineai-öböl partján.",
                   "category": "landmark",
                   "coords": [
                         9.903982,
@@ -1090,7 +1090,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "\"Boucanier\" Bibiana",
-                  "text": "A \"Boucanier\" Bibiana nevű látványosság Kribiben.",
+                  "text": "Kalóz témájú étterem a kribi tengerparton, tengerre néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         9.912004,
@@ -1099,7 +1099,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer socioculturel de la famille bansoa a kribi",
-                  "text": "A Bansoa család szociokulturális központja Kribiben.",
+                  "text": "A Bansoa család szociokulturális központja Kribiben közösségi eseményekre.",
                   "category": "cultural",
                   "coords": [
                         9.916067,
@@ -1108,7 +1108,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer social et culturel baleng",
-                  "text": "Szociális és kulturális központ Kribi városában.",
+                  "text": "A Baleng közösség szociális és kulturális központja Kribiben.",
                   "category": "cultural",
                   "coords": [
                         9.924373,
@@ -1117,7 +1117,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Association socio culturelle bafung de l'ocean",
-                  "text": "A Bafung de l'Ocean szociokulturális központ Kribiben.",
+                  "text": "A Bafung kulturális egyesület a tengeri régióból, Kribiben.",
                   "category": "cultural",
                   "coords": [
                         9.918266,
@@ -1126,7 +1126,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
-                  "text": "A bameka közösség kulturális és szociális központja Kribiben.",
+                  "text": "A Bameka közösség kulturális és szociális központja a tengeri régióból Kribiben.",
                   "category": "cultural",
                   "coords": [
                         9.917172,
@@ -1137,7 +1137,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Phare de Kribi",
-                  "text": "Farul din Kribi de pe coasta Camerunului.",
+                  "text": "Farul istoric din portul Kribi, pe Golful Guineei.",
                   "category": "landmark",
                   "coords": [
                         9.903982,
@@ -1146,7 +1146,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "\"Boucanier\" Bibiana",
-                  "text": "Atracția \"Boucanier\" Bibiana din Kribi.",
+                  "text": "Local cu tematică de pirați pe plaja din Kribi, cu vedere la mare.",
                   "category": "landmark",
                   "coords": [
                         9.912004,
@@ -1155,7 +1155,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer socioculturel de la famille bansoa a kribi",
-                  "text": "Centrul socio-cultural al familiei Bansoa din Kribi.",
+                  "text": "Centrul socio-cultural al familiei Bansoa în Kribi pentru evenimente comunitare.",
                   "category": "cultural",
                   "coords": [
                         9.916067,
@@ -1164,7 +1164,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer social et culturel baleng",
-                  "text": "Un centru social și cultural din orașul Kribi.",
+                  "text": "Centrul social și cultural al comunității Baleng din Kribi.",
                   "category": "cultural",
                   "coords": [
                         9.924373,
@@ -1173,7 +1173,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Association socio culturelle bafung de l'ocean",
-                  "text": "Centrul socio-cultural Bafung de l'Ocean din Kribi.",
+                  "text": "Asociația culturală Bafung din regiunea Oceanului în Kribi.",
                   "category": "cultural",
                   "coords": [
                         9.918266,
@@ -1182,7 +1182,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
-                  "text": "Centrul cultural și social al comunității Bameka din Kribi.",
+                  "text": "Centrul cultural și social al comunității Bameka din regiunea Oceanului în Kribi.",
                   "category": "cultural",
                   "coords": [
                         9.917172,
@@ -1193,7 +1193,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Phare de Kribi",
-                  "text": "The Kribi lighthouse on the coast of Cameroon.",
+                  "text": "Historic lighthouse at Kribi port on the Gulf of Guinea.",
                   "category": "landmark",
                   "coords": [
                         9.903982,
@@ -1202,7 +1202,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "\"Boucanier\" Bibiana",
-                  "text": "The \"Boucanier\" Bibiana attraction located in Kribi.",
+                  "text": "Pirate-themed restaurant on the beach in Kribi, overlooking the ocean.",
                   "category": "landmark",
                   "coords": [
                         9.912004,
@@ -1211,7 +1211,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer socioculturel de la famille bansoa a kribi",
-                  "text": "The socio-cultural center of the Bansoa family in Kribi.",
+                  "text": "Socio-cultural centre of the Bansoa family in Kribi for community events.",
                   "category": "cultural",
                   "coords": [
                         9.916067,
@@ -1220,7 +1220,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer social et culturel baleng",
-                  "text": "A social and cultural arts center in Kribi.",
+                  "text": "Social and cultural centre of the Baleng community in Kribi.",
                   "category": "cultural",
                   "coords": [
                         9.924373,
@@ -1229,7 +1229,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Association socio culturelle bafung de l'ocean",
-                  "text": "The socio-cultural center Bafung de l'Ocean in Kribi.",
+                  "text": "Cultural association of the Bafung people from the Ocean region in Kribi.",
                   "category": "cultural",
                   "coords": [
                         9.918266,
@@ -1238,7 +1238,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
-                  "text": "The cultural and social center of the Bameka community in Kribi.",
+                  "text": "Cultural and social centre of the Bameka community from the Ocean region in Kribi.",
                   "category": "cultural",
                   "coords": [
                         9.917172,
@@ -1379,7 +1379,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centre Culturel de La Valee du Logone",
-                  "text": "Centre Culturel de La Valee du Logone ist ein Kunstzentrum in Yagoua.",
+                  "text": "Kulturzentrum im Logone-Tal in Yagoua, das die traditionelle Kirdi-Kultur präsentiert.",
                   "category": "cultural",
                   "coords": [
                         15.224346,
@@ -1390,7 +1390,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Culturel de La Valee du Logone",
-                  "text": "A Centre Culturel de La Valee du Logone egy művészeti központ Yagoua városában.",
+                  "text": "Kulturális központ a Logone-völgyben Yagouában, a hagyományos kirdi kultúra bemutatásával.",
                   "category": "cultural",
                   "coords": [
                         15.224346,
@@ -1401,7 +1401,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Culturel de La Valee du Logone",
-                  "text": "Centre Culturel de La Valee du Logone este un centru de arte în Yagoua.",
+                  "text": "Centrul cultural din Valea Logone în Yagoua, prezentând cultura tradițională Kirdi.",
                   "category": "cultural",
                   "coords": [
                         15.224346,
@@ -1412,7 +1412,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centre Culturel de La Valee du Logone",
-                  "text": "Centre Culturel de La Valee du Logone is an arts centre in Yagoua.",
+                  "text": "Cultural centre in the Logone Valley in Yagoua, showcasing traditional Kirdi culture.",
                   "category": "cultural",
                   "coords": [
                         15.224346,
@@ -1552,7 +1552,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lamidat de Tibati",
-                  "text": "Schlossartige Residenz in Tibati.",
+                  "text": "Traditioneller Palast des Lamido in Tibati, im sudano-sahelischen Stil erbaut.",
                   "category": "castle",
                   "coords": [
                         12.632296,
@@ -1563,7 +1563,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lamidat de Tibati",
-                  "text": "Kastélyszerű rezidencia Tibatiban.",
+                  "text": "A lamidó hagyományos palotája Tibatiban, szudáni-szaheli építészeti stílusban.",
                   "category": "castle",
                   "coords": [
                         12.632296,
@@ -1574,7 +1574,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lamidat de Tibati",
-                  "text": "Reședință tip castel în Tibati.",
+                  "text": "Palatul tradițional al lamido-ului din Tibati, construit în stil sudano-sahelian.",
                   "category": "castle",
                   "coords": [
                         12.632296,
@@ -1585,7 +1585,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lamidat de Tibati",
-                  "text": "Castle-like residence in Tibati.",
+                  "text": "Traditional palace of the Lamido in Tibati, built in Sudano-Sahelian architectural style.",
                   "category": "castle",
                   "coords": [
                         12.632296,
@@ -1661,7 +1661,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Chefferie Bangangté",
-                  "text": "Chefferie Bangangté ist ein Schloss in Bangangté.",
+                  "text": "Traditionelles Häuptlingsschloss der Bangangté inmitten der Stadt Bangangté.",
                   "category": "castle",
                   "coords": [
                         10.543293,
@@ -1672,7 +1672,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Chefferie Bangangté",
-                  "text": "A Chefferie Bangangté egy kastély Bangangté városában.",
+                  "text": "A Bangangté törzs hagyományos főnöki vára Bangangté városában.",
                   "category": "castle",
                   "coords": [
                         10.543293,
@@ -1683,7 +1683,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Chefferie Bangangté",
-                  "text": "Chefferie Bangangté este un castel în Bangangté.",
+                  "text": "Castel tradițional al șefului Bangangté în orașul Bangangté.",
                   "category": "castle",
                   "coords": [
                         10.543293,
@@ -1694,7 +1694,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Chefferie Bangangté",
-                  "text": "Chefferie Bangangté is a castle in Bangangté.",
+                  "text": "Traditional chieftaincy castle of the Bangangté in the town of Bangangté.",
                   "category": "castle",
                   "coords": [
                         10.543293,
@@ -1867,7 +1867,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Limbe Wildlife Centre",
-                  "text": "Ein Wildtierzentrum und Zoo in Limbe.",
+                  "text": "Wildtier-Rehabilitationszentrum in Limbe, das Affen und andere Tiere pflegt.",
                   "category": "family",
                   "coords": [
                         9.197516,
@@ -1876,7 +1876,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "\"Jungle Village\" Open Air Theatre",
-                  "text": "Das Freilichttheater \"Jungle Village\" in Limbe.",
+                  "text": "Freilufttheater in einem Dschungelgarten in Limbe mit tropischer Atmosphäre.",
                   "category": "cultural",
                   "coords": [
                         9.203954,
@@ -1903,7 +1903,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Alfred Saker",
-                  "text": "Das Alfred-Saker-Denkmal in Limbe.",
+                  "text": "Denkmal für den Missionar Alfred Saker in Limbe, nahe der Küste.",
                   "category": "historical",
                   "coords": [
                         9.208445,
@@ -1912,7 +1912,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Tali Residence",
-                  "text": "Ein Aussichtspunkt an der Tali Residenz in Limbe.",
+                  "text": "Privates Anwesen mit großem Garten und Meerblick in Limbe.",
                   "category": "natural",
                   "coords": [
                         9.200383,
@@ -1921,7 +1921,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Enow A. Residence",
-                  "text": "Ein Aussichtspunkt an der Enow A. Residenz in Limbe.",
+                  "text": "Wohnhaus mit umliegender Natur und tropischer Vegetation in Limbe.",
                   "category": "natural",
                   "coords": [
                         9.194415,
@@ -1930,7 +1930,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "wimbum cultural and development association",
-                  "text": "Ein Kunst- und Kulturzentrum in Limbe.",
+                  "text": "Kulturverein der Wimbum in Limbe zur Förderung ihrer Traditionen.",
                   "category": "cultural",
                   "coords": [
                         9.209824,
@@ -1941,7 +1941,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Limbe Wildlife Centre",
-                  "text": "Vadvédelmi központ és állatkert Limbe városában.",
+                  "text": "Vadvédelmi központ Limbe-ben, amely majmokat és más állatokat gondoz.",
                   "category": "family",
                   "coords": [
                         9.197516,
@@ -1950,7 +1950,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "\"Jungle Village\" Open Air Theatre",
-                  "text": "A \"Jungle Village\" szabadtéri színház Limbe városában.",
+                  "text": "Szabadtéri színház dzsungelkertben Limbe-ben, trópusi hangulattal.",
                   "category": "cultural",
                   "coords": [
                         9.203954,
@@ -1977,7 +1977,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Alfred Saker",
-                  "text": "Alfred Saker emlékműve Limbe városában.",
+                  "text": "Alfred Saker misszionárius emlékműve Limbe-ben, a tengerpart közelében.",
                   "category": "historical",
                   "coords": [
                         9.208445,
@@ -1986,7 +1986,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Tali Residence",
-                  "text": "Kilátó a Tali rezidenciánál Limbe városában.",
+                  "text": "Magánbirtok nagy kerttel és tengerre néző kilátással Limbe-ben.",
                   "category": "natural",
                   "coords": [
                         9.200383,
@@ -1995,7 +1995,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Enow A. Residence",
-                  "text": "Kilátó az Enow A. rezidenciánál Limbe városában.",
+                  "text": "Lakóház környező természettel és trópusi növényzettel Limbe-ben.",
                   "category": "natural",
                   "coords": [
                         9.194415,
@@ -2004,7 +2004,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "wimbum cultural and development association",
-                  "text": "Művészeti és kulturális központ Limbe városában.",
+                  "text": "A Wimbum kulturális egyesület Limbe-ben hagyományaik ápolására.",
                   "category": "cultural",
                   "coords": [
                         9.209824,
@@ -2015,7 +2015,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Limbe Wildlife Centre",
-                  "text": "Un centru pentru animale sălbatice și grădină zoologică în Limbe.",
+                  "text": "Centru de reabilitare a faunei sălbatice în Limbe, îngrijind maimuțe și alte animale.",
                   "category": "family",
                   "coords": [
                         9.197516,
@@ -2024,7 +2024,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "\"Jungle Village\" Open Air Theatre",
-                  "text": "Teatrul în aer liber „Jungle Village” din Limbe.",
+                  "text": "Teatru în aer liber într-o grădină de junglă în Limbe, cu atmosferă tropicală.",
                   "category": "cultural",
                   "coords": [
                         9.203954,
@@ -2051,7 +2051,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Alfred Saker",
-                  "text": "Monumentul dedicat lui Alfred Saker în Limbe.",
+                  "text": "Monument al misionarului Alfred Saker în Limbe, lângă coastă.",
                   "category": "historical",
                   "coords": [
                         9.208445,
@@ -2060,7 +2060,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Tali Residence",
-                  "text": "Un punct de belvedere la Reședința Tali din Limbe.",
+                  "text": "Proprietate privată cu grădină mare și vedere la mare în Limbe.",
                   "category": "natural",
                   "coords": [
                         9.200383,
@@ -2069,7 +2069,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Enow A. Residence",
-                  "text": "Un punct de belvedere la Reședința Enow A. din Limbe.",
+                  "text": "Casă de locuit cu natură înconjurătoare și vegetație tropicală în Limbe.",
                   "category": "natural",
                   "coords": [
                         9.194415,
@@ -2078,7 +2078,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "wimbum cultural and development association",
-                  "text": "Un centru cultural și de arte din Limbe.",
+                  "text": "Asociația culturală Wimbum în Limbe pentru promovarea tradițiilor lor.",
                   "category": "cultural",
                   "coords": [
                         9.209824,
@@ -2089,7 +2089,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Limbe Wildlife Centre",
-                  "text": "A wildlife center and zoo located in Limbe.",
+                  "text": "Wildlife rehabilitation centre in Limbe, caring for primates and other animals.",
                   "category": "family",
                   "coords": [
                         9.197516,
@@ -2098,7 +2098,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "\"Jungle Village\" Open Air Theatre",
-                  "text": "The \"Jungle Village\" open-air theater in Limbe.",
+                  "text": "Open-air theatre in a jungle garden in Limbe, with a tropical atmosphere.",
                   "category": "cultural",
                   "coords": [
                         9.203954,
@@ -2125,7 +2125,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Alfred Saker",
-                  "text": "The Alfred Saker Monument located in Limbe.",
+                  "text": "Monument to missionary Alfred Saker in Limbe, near the coast.",
                   "category": "historical",
                   "coords": [
                         9.208445,
@@ -2134,7 +2134,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Tali Residence",
-                  "text": "A viewpoint situated at the Tali Residence in Limbe.",
+                  "text": "Private estate with a large garden and ocean view in Limbe.",
                   "category": "natural",
                   "coords": [
                         9.200383,
@@ -2143,7 +2143,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Enow A. Residence",
-                  "text": "A viewpoint at the Enow A. Residence in Limbe.",
+                  "text": "Residential house with surrounding nature and tropical vegetation in Limbe.",
                   "category": "natural",
                   "coords": [
                         9.194415,
@@ -2152,7 +2152,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "wimbum cultural and development association",
-                  "text": "An arts and cultural center situated in Limbe.",
+                  "text": "Cultural association of the Wimbum people in Limbe, promoting their traditions.",
                   "category": "cultural",
                   "coords": [
                         9.209824,
@@ -2229,7 +2229,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Naikom Palace",
-                  "text": "Palast in Wum.",
+                  "text": "Traditioneller Palast des Nso-Häuptlings in Wum mit kunstvollen Schnitzereien.",
                   "category": "castle",
                   "coords": [
                         10.071075,
@@ -2238,7 +2238,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Maagha Palace",
-                  "text": "Palast in Wum.",
+                  "text": "Palast des Maagha-Häuptlings in Wum, umgeben von Hügeln.",
                   "category": "castle",
                   "coords": [
                         10.069958,
@@ -2249,7 +2249,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Naikom Palace",
-                  "text": "Palota Wumban.",
+                  "text": "A Nso főnök hagyományos palotája Wumban, díszes faragványokkal.",
                   "category": "castle",
                   "coords": [
                         10.071075,
@@ -2258,7 +2258,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Maagha Palace",
-                  "text": "Palota Wumban.",
+                  "text": "A Maagha főnök palotája Wumban, dombokkal körülvéve.",
                   "category": "castle",
                   "coords": [
                         10.069958,
@@ -2269,7 +2269,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Naikom Palace",
-                  "text": "Palat în Wum.",
+                  "text": "Palatul tradițional al șefului Nso în Wum, cu sculpturi ornamentale.",
                   "category": "castle",
                   "coords": [
                         10.071075,
@@ -2278,7 +2278,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Maagha Palace",
-                  "text": "Palat în Wum.",
+                  "text": "Palatul șefului Maagha în Wum, înconjurat de dealuri.",
                   "category": "castle",
                   "coords": [
                         10.069958,
@@ -2289,7 +2289,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Naikom Palace",
-                  "text": "Palace in Wum.",
+                  "text": "Traditional palace of the Nso chief in Wum, with ornate carvings.",
                   "category": "castle",
                   "coords": [
                         10.071075,
@@ -2298,7 +2298,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Maagha Palace",
-                  "text": "Palace in Wum.",
+                  "text": "Palace of the Maagha chief in Wum, surrounded by hills.",
                   "category": "castle",
                   "coords": [
                         10.069958,
@@ -2504,7 +2504,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée de Kaélé",
-                  "text": "Museum in Kaélé.",
+                  "text": "Museum in Kaélé mit Artefakten der Mundang-Ethnie.",
                   "category": "museum",
                   "coords": [
                         14.44743,
@@ -2515,7 +2515,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée de Kaélé",
-                  "text": "Múzeum Kaélében.",
+                  "text": "Múzeum Kaéléban, a mundang etnikum tárgyaival.",
                   "category": "museum",
                   "coords": [
                         14.44743,
@@ -2526,7 +2526,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée de Kaélé",
-                  "text": "Muzeu în Kaélé.",
+                  "text": "Muzeu în Kaélé cu artefacte ale etniei Mundang.",
                   "category": "museum",
                   "coords": [
                         14.44743,
@@ -2537,7 +2537,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée de Kaélé",
-                  "text": "Museum in Kaélé.",
+                  "text": "Museum in Kaélé displaying artifacts of the Mundang people.",
                   "category": "museum",
                   "coords": [
                         14.44743,
@@ -3158,7 +3158,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Chefferie Bandjoun",
-                  "text": "Chefferie Bandjoun ist ein bedeutendes traditionelles Häuptlingstum und Schloss in Bandjoun.",
+                  "text": "Der traditionelle Häuptlingspalast von Bandjoun mit reetgedeckten Dächern und geschnitzten Holzsäulen.",
                   "category": "castle",
                   "coords": [
                         10.409635,
@@ -3167,7 +3167,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Roi KAMGA Joseph II",
-                  "text": "Roi KAMGA Joseph II ist ein Denkmal in Bandjoun.",
+                  "text": "Denkmal für König Kamga Joseph II. im Häuptlingshof von Bandjoun.",
                   "category": "historical",
                   "coords": [
                         10.408469,
@@ -3178,7 +3178,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Chefferie Bandjoun",
-                  "text": "A Chefferie Bandjoun egy fontos hagyományos központ és kastély Bandjoun városában.",
+                  "text": "Bandjoun hagyományos főnöki palotája nádtetőkkel és faragott fa oszlopokkal.",
                   "category": "castle",
                   "coords": [
                         10.409635,
@@ -3187,7 +3187,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Roi KAMGA Joseph II",
-                  "text": "A Roi KAMGA Joseph II egy emlékmű Bandjoun városában.",
+                  "text": "Kamga Joseph II. király emlékműve a bandjouni főnöki udvarban.",
                   "category": "historical",
                   "coords": [
                         10.408469,
@@ -3198,7 +3198,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Chefferie Bandjoun",
-                  "text": "Chefferie Bandjoun este o importantă căpetenie tradițională și un castel în Bandjoun.",
+                  "text": "Palatul tradițional al căpeteniei din Bandjoun, cu acoperișuri de stuf și stâlpi de lemn sculptați.",
                   "category": "castle",
                   "coords": [
                         10.409635,
@@ -3207,7 +3207,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Roi KAMGA Joseph II",
-                  "text": "Roi KAMGA Joseph II este un monument în Bandjoun.",
+                  "text": "Monument al regelui Kamga Joseph al II-lea în curtea șefului din Bandjoun.",
                   "category": "historical",
                   "coords": [
                         10.408469,
@@ -3218,7 +3218,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Chefferie Bandjoun",
-                  "text": "Chefferie Bandjoun is an important traditional chiefdom and castle in Bandjoun.",
+                  "text": "The traditional Bandjoun chief's palace, known for its thatched roofs and carved wooden pillars.",
                   "category": "castle",
                   "coords": [
                         10.409635,
@@ -3227,7 +3227,7 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             },
             {
                   "name": "Roi KAMGA Joseph II",
-                  "text": "Roi KAMGA Joseph II is a monument in Bandjoun.",
+                  "text": "Monument to King Kamga Joseph II in the chieftaincy courtyard of Bandjoun.",
                   "category": "historical",
                   "coords": [
                         10.408469,

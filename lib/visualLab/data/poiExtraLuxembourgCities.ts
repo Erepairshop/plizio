@@ -7,7 +7,7 @@ export const luxembourgExtraCities: POI[] = [
       "de": [
             {
                   "name": "Musée Dräi Eechelen",
-                  "text": "Musée Dräi Eechelen ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "text": "Museum in der Festung Thüngen mit drei Türmen, das die Festungsgeschichte Luxemburgs zeigt.",
                   "category": "museum",
                   "coords": [
                         6.139297,
@@ -16,7 +16,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Casino Luxembourg - Forum d'art contemporain",
-                  "text": "Casino Luxembourg - Forum d'art contemporain ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "text": "Zentrum für zeitgenössische Kunst in einem ehemaligen Casinogebäude aus dem 19. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         6.127167,
@@ -25,7 +25,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Großherzogliches Palais",
-                  "text": "Grand Ducal Palace ist eine bekannte Burg in Luxemburg-Stadt.",
+                  "text": "Renaissance-Palast, offizielle Residenz des Großherzogs von Luxemburg.",
                   "category": "castle",
                   "coords": [
                         6.132913,
@@ -34,7 +34,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Musée national d'histoire naturelle",
-                  "text": "Musée national d'histoire naturelle ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "text": "Naturkundemuseum in der ehemaligen Münsterabtei mit Dinosaurier-Skeletten.",
                   "category": "museum",
                   "coords": [
                         6.135605,
@@ -43,7 +43,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Lëtzebuerg City Museum",
-                  "text": "Lëtzebuerg City Museum ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "text": "Museum zur Stadtgeschichte Luxemburgs in vier historischen Altstadthäusern.",
                   "category": "museum",
                   "coords": [
                         6.133629,
@@ -52,7 +52,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Villa Vauban",
-                  "text": "Villa Vauban ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "text": "Kunstmuseum in einer Villa aus dem 19. Jahrhundert, umgeben von einem Park.",
                   "category": "museum",
                   "coords": [
                         6.122488,
@@ -70,7 +70,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Château de Septfontaines",
-                  "text": "Château de Septfontaines ist eine bekannte Burg in Luxemburg-Stadt.",
+                  "text": "Ruine einer Burg mit sieben Quellen (Septfontaines bedeutet ‚sieben Brunnen‘).",
                   "category": "castle",
                   "coords": [
                         6.105077,
@@ -79,7 +79,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Dumoulin",
-                  "text": "Fort Dumoulin ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "text": "Eine Festung aus dem 19. Jahrhundert des Luxemburger Befestigungsrings, benannt nach einer ehemaligen Windmühle (Dumoulin = Mühle).",
                   "category": "fortress",
                   "coords": [
                         6.150797,
@@ -88,7 +88,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Parkhöhe",
-                  "text": "Fort Parkhöhe ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "text": "Eine Festung auf einem Parkhügel, Teil des Luxemburger Befestigungsrings.",
                   "category": "fortress",
                   "coords": [
                         6.146439,
@@ -97,7 +97,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rheinsheim",
-                  "text": "Fort Rheinsheim ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "text": "Eine Festung des 19. Jahrhunderts im Luxemburger Befestigungsring, benannt nach dem Ort Rheinsheim.",
                   "category": "fortress",
                   "coords": [
                         6.121804,
@@ -106,7 +106,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Olizy",
-                  "text": "Fort Olizy ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "text": "Eine Festung des 19. Jahrhunderts im Luxemburger Befestigungsring.",
                   "category": "fortress",
                   "coords": [
                         6.136778,
@@ -115,7 +115,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Niedergrünewald",
-                  "text": "Fort Niedergrünewald ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "text": "Eine Festung des 19. Jahrhunderts im Luxemburger Befestigungsring; der Name bedeutet ‚Niedergrünewald‘ (unterer Grünwald).",
                   "category": "fortress",
                   "coords": [
                         6.133855,
@@ -124,7 +124,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rumigny",
-                  "text": "Fort Rumigny ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "text": "Eine Festung des 19. Jahrhunderts im Luxemburger Befestigungsring, benannt nach Rumigny.",
                   "category": "fortress",
                   "coords": [
                         6.145647,
@@ -133,7 +133,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rubamprez",
-                  "text": "Fort Rubamprez ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "text": "Eine Festung des 19. Jahrhunderts im Luxemburger Befestigungsring.",
                   "category": "fortress",
                   "coords": [
                         6.143118,
@@ -142,7 +142,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Mansfeld-Schloss",
-                  "text": "\"La Fontaine\" Castle ist eine bekannte archäologische Stätte in Luxemburg-Stadt.",
+                  "text": "Ruinen eines Schlosses mit einem großen Brunnen, nach dem es benannt ist.",
                   "category": "historical",
                   "coords": [
                         6.1443,
@@ -151,7 +151,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Gëlle Fra",
-                  "text": "Gëlle Fra ist ein bekanntes Denkmal in Luxemburg-Stadt.",
+                  "text": "Goldenes Frauen-Kriegsdenkmal auf dem Verfassungsplatz.",
                   "category": "historical",
                   "coords": [
                         6.12936,
@@ -160,7 +160,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Hôtel de Ville",
-                  "text": "Hôtel de Ville ist ein bekanntes Rathaus in Luxemburg-Stadt.",
+                  "text": "Rathaus auf dem Place Guillaume II.",
                   "category": "historical",
                   "coords": [
                         6.130489,
@@ -169,7 +169,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Grand Théâtre de Luxembourg",
-                  "text": "Grand Théâtre de Luxembourg ist ein bekanntes Theater in Luxemburg-Stadt.",
+                  "text": "Modernes Theater am Place de la Gare.",
                   "category": "cultural",
                   "coords": [
                         6.127874,
@@ -178,7 +178,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Rotondes",
-                  "text": "Rotondes ist ein bekanntes Kunstzentrum in Luxemburg-Stadt.",
+                  "text": "Kulturzentrum in zwei ehemaligen Eisenbahnrundhallen.",
                   "category": "cultural",
                   "coords": [
                         6.136469,
@@ -187,7 +187,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Le Juste Milieu",
-                  "text": "Le Juste Milieu ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Moschee im Stadtteil Bonnevoie.",
                   "category": "religious",
                   "coords": [
                         6.134788,
@@ -196,7 +196,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Exaltation-de-la-Sainte-Croix",
-                  "text": "Exaltation-de-la-Sainte-Croix ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Katholische Kirche im Stadtteil Hamm, geweiht der Kreuzerhöhung.",
                   "category": "religious",
                   "coords": [
                         6.167644,
@@ -205,7 +205,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Marie Reine de la Paix",
-                  "text": "Marie Reine de la Paix ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Katholische Kirche im Stadtteil Bonnevoie, geweiht Maria, der Königin des Friedens.",
                   "category": "religious",
                   "coords": [
                         6.138443,
@@ -214,7 +214,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Johanneskirche",
-                  "text": "Saint-Jean-Baptiste ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Katholische Kirche im Stadtteil Grund, geweiht Johannes dem Täufer.",
                   "category": "religious",
                   "coords": [
                         6.136186,
@@ -223,7 +223,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Liebfrauendom",
-                  "text": "Notre-Dame Cathedral ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Kathedrale Notre-Dame, gotische Kathedrale im historischen Zentrum von Luxemburg.",
                   "category": "religious",
                   "coords": [
                         6.131589,
@@ -232,7 +232,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Pie X",
-                  "text": "Saint-Pie X ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Katholische Kirche im Stadtteil Belair, geweiht Papst Pius X.",
                   "category": "religious",
                   "coords": [
                         6.108094,
@@ -241,7 +241,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "St.-Michaelskirche",
-                  "text": "Église de Saint-Michel ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Eine der ältesten katholischen Kirchen der Stadt, im historischen Zentrum.",
                   "category": "religious",
                   "coords": [
                         6.134862,
@@ -250,7 +250,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Saint-Joseph ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Katholische Kirche im Stadtteil Limpertsberg, geweiht dem heiligen Josef.",
                   "category": "religious",
                   "coords": [
                         6.121024,
@@ -259,7 +259,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Grande Synagogue de Luxembourg",
-                  "text": "Grande Synagogue de Luxembourg ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Hauptsynagoge Luxemburgs, nach dem Zweiten Weltkrieg wiederaufgebaut.",
                   "category": "religious",
                   "coords": [
                         6.121644,
@@ -268,7 +268,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "St. Peter und Paul",
-                  "text": "Saints-Pierre-et-Paul ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "text": "Katholische Kirche im Stadtteil Hollerich, geweiht den heiligen Petrus und Paulus.",
                   "category": "religious",
                   "coords": [
                         6.118872,
@@ -295,7 +295,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert ist eine Kirche im Stadtteil Dommeldingen in Luxemburg-Stadt.",
+                  "text": "Katholische Kirche im Stadtteil Dommeldange, geweiht dem heiligen Hubertus.",
                   "category": "religious",
                   "coords": [
                         6.138333,
@@ -304,7 +304,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
-                  "text": "Die Evangelische Gemeinde deutscher Sprache in Luxemburg-Stadt ist auch als Martin-Luther-Haus bekannt.",
+                  "text": "Evangelische Kirche für die deutschsprachige Gemeinde in Luxemburg (Martin-Luther-Haus).",
                   "category": "religious",
                   "coords": [
                         6.115389,
@@ -313,7 +313,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Sainte-Thérèse de Lisieux",
-                  "text": "Sainte-Thérèse de Lisieux ist eine Kirche im Stadtviertel Gasperich von Luxemburg-Stadt.",
+                  "text": "Katholische Kirche im Stadtteil Gasperich, geweiht der heiligen Therese von Lisieux.",
                   "category": "religious",
                   "coords": [
                         6.122428,
@@ -322,7 +322,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Peter und Paul (russ.-orth.)",
-                  "text": "Saints-Apôtres-Pierre-et-Paul ist die russisch-orthodoxe Kirche von Luxemburg-Stadt.",
+                  "text": "Russisch-orthodoxe Kirche in Luxemburg, geweiht den heiligen Aposteln Petrus und Paulus.",
                   "category": "religious",
                   "coords": [
                         6.119516,
@@ -331,7 +331,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Martin",
-                  "text": "Saint-Martin ist eine Kirche im Viertel Weimerskirch in Luxemburg-Stadt.",
+                  "text": "Katholische Kirche im Stadtteil Weimerskirch, geweiht dem heiligen Martin.",
                   "category": "religious",
                   "coords": [
                         6.13509,
@@ -358,7 +358,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Chapelle du Christ-Roi",
-                  "text": "Die Chapelle du Christ-Roi ist eine religiöse Kapelle in Luxemburg-Stadt.",
+                  "text": "Katholische Kapelle, geweiht Christus dem König.",
                   "category": "religious",
                   "coords": [
                         6.116645,
@@ -448,7 +448,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Viaduc Pulvermühle",
-                  "text": "Das Viaduc Pulvermühle ist ein großes Eisenbahnviadukt in Luxemburg-Stadt.",
+                  "text": "Eisenbahnviadukt aus dem 19. Jahrhundert über die Alzette in Pulvermuhl.",
                   "category": "landmark",
                   "coords": [
                         6.139312,
@@ -475,7 +475,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Pafendaller Viaduc",
-                  "text": "Das Pafendaller Viaduc ist eine markante Brücke im Stadtgebiet von Luxemburg-Stadt.",
+                  "text": "Eisenbahnviadukt über das Pfaffenthal im Stadtteil Clausen.",
                   "category": "landmark",
                   "coords": [
                         6.138071,
@@ -738,7 +738,7 @@ export const luxembourgExtraCities: POI[] = [
       "hu": [
             {
                   "name": "Musée Dräi Eechelen",
-                  "text": "A Musée Dräi Eechelen egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "text": "Múzeum a Thüngen erődben, három toronnyal, Luxemburg erődítéstörténetét bemutatva.",
                   "category": "museum",
                   "coords": [
                         6.139297,
@@ -747,7 +747,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Casino Luxembourg - Forum d'art contemporain",
-                  "text": "A Casino Luxembourg - Forum d'art contemporain egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "text": "Kortárs művészeti központ egy 19. századi egykori kaszinóépületben.",
                   "category": "museum",
                   "coords": [
                         6.127167,
@@ -756,7 +756,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Palais Grand Ducal",
-                  "text": "A Grand Ducal Palace egy jelentős vár Luxemburg-Stadt városában.",
+                  "text": "Reneszánsz palota, Luxemburg nagyhercegének hivatalos rezidenciája.",
                   "category": "castle",
                   "coords": [
                         6.132913,
@@ -765,7 +765,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Musée national d'histoire naturelle",
-                  "text": "A Musée national d'histoire naturelle egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "text": "Természettudományi múzeum a volt Münster-apátságban, dinoszaurusz csontvázakkal.",
                   "category": "museum",
                   "coords": [
                         6.135605,
@@ -774,7 +774,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Lëtzebuerg City Museum",
-                  "text": "A Lëtzebuerg City Museum egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "text": "Luxemburg várostörténeti múzeuma négy történelmi óvárosi házban.",
                   "category": "museum",
                   "coords": [
                         6.133629,
@@ -783,7 +783,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Villa Vauban",
-                  "text": "A Villa Vauban egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "text": "Művészeti múzeum egy 19. századi villában, parkkal körülvéve.",
                   "category": "museum",
                   "coords": [
                         6.122488,
@@ -801,7 +801,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Château de Septfontaines",
-                  "text": "A Château de Septfontaines egy jelentős vár Luxemburg-Stadt városában.",
+                  "text": "Várrom hét forrással (Septfontaines jelentése ‚hét kút‘).",
                   "category": "castle",
                   "coords": [
                         6.105077,
@@ -810,7 +810,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Dumoulin",
-                  "text": "A Fort Dumoulin egy jelentős erőd Luxemburg-Stadt városában.",
+                  "text": "A luxemburgi erődgyűrű egy 19. századi erődje, nevét egykori szélmalomról kapta (Dumoulin = malom).",
                   "category": "fortress",
                   "coords": [
                         6.150797,
@@ -819,7 +819,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Parkhöhe",
-                  "text": "A Fort Parkhöhe egy jelentős erőd Luxemburg-Stadt városában.",
+                  "text": "Erőd egy parkos dombon, a luxemburgi erődgyűrű része.",
                   "category": "fortress",
                   "coords": [
                         6.146439,
@@ -828,7 +828,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rheinsheim",
-                  "text": "A Fort Rheinsheim egy jelentős erőd Luxemburg-Stadt városában.",
+                  "text": "A luxemburgi erődgyűrű egy 19. századi erődje, Rheinsheimről elnevezve.",
                   "category": "fortress",
                   "coords": [
                         6.121804,
@@ -837,7 +837,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Olizy",
-                  "text": "A Fort Olizy egy jelentős erőd Luxemburg-Stadt városában.",
+                  "text": "A luxemburgi erődgyűrű egy 19. századi erődje.",
                   "category": "fortress",
                   "coords": [
                         6.136778,
@@ -846,7 +846,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Niedergrünewald",
-                  "text": "A Fort Niedergrünewald egy jelentős erőd Luxemburg-Stadt városában.",
+                  "text": "A luxemburgi erődgyűrű egy 19. századi erődje; neve ‚alsó zöld erdőt‘ jelent.",
                   "category": "fortress",
                   "coords": [
                         6.133855,
@@ -855,7 +855,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rumigny",
-                  "text": "A Fort Rumigny egy jelentős erőd Luxemburg-Stadt városában.",
+                  "text": "A luxemburgi erődgyűrű egy 19. századi erődje, Rumigny-ről elnevezve.",
                   "category": "fortress",
                   "coords": [
                         6.145647,
@@ -864,7 +864,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rubamprez",
-                  "text": "A Fort Rubamprez egy jelentős erőd Luxemburg-Stadt városában.",
+                  "text": "A luxemburgi erődgyűrű egy 19. századi erődje.",
                   "category": "fortress",
                   "coords": [
                         6.143118,
@@ -873,7 +873,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Schlass La Fontaine",
-                  "text": "A \"La Fontaine\" Castle egy jelentős régészeti lelőhely Luxemburg-Stadt városában.",
+                  "text": "Egy kastély romjai nagy szökőkúttal, amelyről a nevét kapta.",
                   "category": "historical",
                   "coords": [
                         6.1443,
@@ -882,7 +882,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Gëlle Fra",
-                  "text": "A Gëlle Fra egy jelentős emlékmű Luxemburg-Stadt városában.",
+                  "text": "Arany Hölgy háborús emlékmű az Alkotmány téren.",
                   "category": "historical",
                   "coords": [
                         6.12936,
@@ -891,7 +891,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Hôtel de Ville",
-                  "text": "A Hôtel de Ville egy jelentős városháza Luxemburg-Stadt városában.",
+                  "text": "Városháza a II. Vilmos téren.",
                   "category": "historical",
                   "coords": [
                         6.130489,
@@ -900,7 +900,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Grand Théâtre de Luxembourg",
-                  "text": "A Grand Théâtre de Luxembourg egy jelentős színház Luxemburg-Stadt városában.",
+                  "text": "Modern színház a Place de la Gare téren.",
                   "category": "cultural",
                   "coords": [
                         6.127874,
@@ -909,7 +909,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Rotondes",
-                  "text": "A Rotondes egy jelentős művészeti központ Luxemburg-Stadt városában.",
+                  "text": "Kulturális központ két egykori vasúti forgóházban.",
                   "category": "cultural",
                   "coords": [
                         6.136469,
@@ -918,7 +918,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Le Juste Milieu",
-                  "text": "A Le Juste Milieu egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "Mecset a Bonnevoie negyedben.",
                   "category": "religious",
                   "coords": [
                         6.134788,
@@ -927,7 +927,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Exaltation-de-la-Sainte-Croix",
-                  "text": "Az Exaltation-de-la-Sainte-Croix egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "Katolikus templom a Hamm negyedben, a Szent Kereszt felmagasztalásának szentelve.",
                   "category": "religious",
                   "coords": [
                         6.167644,
@@ -936,7 +936,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Marie Reine de la Paix",
-                  "text": "A Marie Reine de la Paix egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "Katolikus templom a Bonnevoie negyedben, Máriának, a Béke Királynőjének szentelve.",
                   "category": "religious",
                   "coords": [
                         6.138443,
@@ -945,7 +945,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "A Saint-Jean-Baptiste egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "Katolikus templom a Grund negyedben, Keresztelő Szent Jánosnak szentelve.",
                   "category": "religious",
                   "coords": [
                         6.136186,
@@ -954,7 +954,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame de Luxembourg",
-                  "text": "A Notre-Dame Cathedral egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "Notre-Dame-székesegyház, gótikus katedrális Luxembourg történelmi központjában.",
                   "category": "religious",
                   "coords": [
                         6.131589,
@@ -963,7 +963,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Pie X",
-                  "text": "A Saint-Pie X egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "Katolikus templom a Belair negyedben, X. Piusz pápának szentelve.",
                   "category": "religious",
                   "coords": [
                         6.108094,
@@ -972,7 +972,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Église de Saint-Michel",
-                  "text": "Az Église de Saint-Michel egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "A város egyik legrégebbi katolikus temploma a történelmi központban.",
                   "category": "religious",
                   "coords": [
                         6.134862,
@@ -981,7 +981,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "A Saint-Joseph egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "Katolikus templom a Limpertsberg negyedben, Szent Józsefnek szentelve.",
                   "category": "religious",
                   "coords": [
                         6.121024,
@@ -990,7 +990,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Grande Synagogue de Luxembourg",
-                  "text": "A Grande Synagogue de Luxembourg egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "Luxemburg fő zsinagógája, a második világháború után építették újjá.",
                   "category": "religious",
                   "coords": [
                         6.121644,
@@ -999,7 +999,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "A Saints-Pierre-et-Paul egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "text": "Katolikus templom a Hollerich negyedben, Szent Péternek és Pálnak szentelve.",
                   "category": "religious",
                   "coords": [
                         6.118872,
@@ -1026,7 +1026,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "A Saint-Hubert templom Luxemburg-Stadt Dommeldange nevű részén található.",
+                  "text": "Katolikus templom a Dommeldange negyedben, Szent Hubertusznak szentelve.",
                   "category": "religious",
                   "coords": [
                         6.138333,
@@ -1035,7 +1035,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
-                  "text": "Az Evangelische Gemeinde deutscher Sprache in Luxemburg egy istentiszteleti hely, amely Martin-Luther-Haus néven ismert Luxemburg-Stadtban.",
+                  "text": "Evangélikus templom a német ajkú közösség számára Luxemburgban (Martin-Luther-Haus).",
                   "category": "religious",
                   "coords": [
                         6.115389,
@@ -1044,7 +1044,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Sainte-Thérèse de Lisieux",
-                  "text": "A Sainte-Thérèse de Lisieux templom Luxemburg-Stadt Gasperich negyedében található.",
+                  "text": "Katolikus templom a Gasperich negyedben, Lisieux-i Szent Teréznek szentelve.",
                   "category": "religious",
                   "coords": [
                         6.122428,
@@ -1053,7 +1053,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saints-Apôtres-Pierre-et-Paul",
-                  "text": "A Saints-Apôtres-Pierre-et-Paul az orosz ortodox templom Luxemburg-Stadtban.",
+                  "text": "Ortodox orosz templom Luxemburgban, Szent Péter és Pál apostoloknak szentelve.",
                   "category": "religious",
                   "coords": [
                         6.119516,
@@ -1062,7 +1062,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Martin",
-                  "text": "A Saint-Martin templom Luxemburg-Stadt Weimerskirch negyedében helyezkedik el.",
+                  "text": "Katolikus templom a Weimerskirch negyedben, Szent Mártonnak szentelve.",
                   "category": "religious",
                   "coords": [
                         6.13509,
@@ -1089,7 +1089,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Chapelle du Christ-Roi",
-                  "text": "A Chapelle du Christ-Roi egy vallási kápolna Luxemburg-Stadt területén.",
+                  "text": "Katolikus kápolna, Krisztus Királynak szentelve.",
                   "category": "religious",
                   "coords": [
                         6.116645,
@@ -1179,7 +1179,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Viaduc Pulvermühle",
-                  "text": "A Viaduc Pulvermühle egy fontos vasúti viadukt Luxemburg-Stadtban.",
+                  "text": "19. századi vasúti viadukt az Alzette folyó felett Pulvermuhlban.",
                   "category": "landmark",
                   "coords": [
                         6.139312,
@@ -1206,7 +1206,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Pafendaller Viaduc",
-                  "text": "A Pafendaller Viaduc egy jelentős szerkezeti híd Luxemburg-Stadtban.",
+                  "text": "Vasúti viadukt a Pfaffenthal-völgy felett a Clausen negyedben.",
                   "category": "landmark",
                   "coords": [
                         6.138071,
@@ -1469,7 +1469,7 @@ export const luxembourgExtraCities: POI[] = [
       "ro": [
             {
                   "name": "Musée Dräi Eechelen",
-                  "text": "Musée Dräi Eechelen este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "text": "Muzeu în fortăreața Thüngen cu trei turnuri, care prezintă istoria fortificațiilor Luxemburgului.",
                   "category": "museum",
                   "coords": [
                         6.139297,
@@ -1478,7 +1478,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Casino Luxembourg - Forum d'art contemporain",
-                  "text": "Casino Luxembourg - Forum d'art contemporain este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "text": "Centru de artă contemporană într-o fostă clădire de cazino din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         6.127167,
@@ -1487,7 +1487,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Palais Grand Ducal",
-                  "text": "Grand Ducal Palace este un castel notabil situat în Luxemburg-Stadt.",
+                  "text": "Palat renascentist, reședința oficială a Marelui Duce de Luxemburg.",
                   "category": "castle",
                   "coords": [
                         6.132913,
@@ -1496,7 +1496,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Musée national d'histoire naturelle",
-                  "text": "Musée national d'histoire naturelle este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "text": "Muzeu de istorie naturală în fosta abație Münster, cu schelete de dinozauri.",
                   "category": "museum",
                   "coords": [
                         6.135605,
@@ -1505,7 +1505,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Lëtzebuerg City Museum",
-                  "text": "Lëtzebuerg City Museum este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "text": "Muzeu al istoriei orașului Luxemburg găzduit în patru case istorice din centrul vechi.",
                   "category": "museum",
                   "coords": [
                         6.133629,
@@ -1514,7 +1514,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Villa Vauban",
-                  "text": "Villa Vauban este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "text": "Muzeu de artă într-o vilă din secolul al XIX-lea, înconjurat de un parc.",
                   "category": "museum",
                   "coords": [
                         6.122488,
@@ -1532,7 +1532,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Château de Septfontaines",
-                  "text": "Château de Septfontaines este un castel notabil situat în Luxemburg-Stadt.",
+                  "text": "Ruinele unui castel cu șapte izvoare (Septfontaines înseamnă ‚șapte fântâni‘).",
                   "category": "castle",
                   "coords": [
                         6.105077,
@@ -1541,7 +1541,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Dumoulin",
-                  "text": "Fort Dumoulin este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "text": "O fortăreață din secolul al XIX-lea a centurii de fortificații a Luxemburgului, numită după o fostă moară de vânt (Dumoulin = moară).",
                   "category": "fortress",
                   "coords": [
                         6.150797,
@@ -1550,7 +1550,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Parkhöhe",
-                  "text": "Fort Parkhöhe este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "text": "O fortăreață pe un deal cu parc, parte a centurii de fortificații a Luxemburgului.",
                   "category": "fortress",
                   "coords": [
                         6.146439,
@@ -1559,7 +1559,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rheinsheim",
-                  "text": "Fort Rheinsheim este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "text": "O fortăreață din secolul al XIX-lea a centurii de fortificații a Luxemburgului, numită după localitatea Rheinsheim.",
                   "category": "fortress",
                   "coords": [
                         6.121804,
@@ -1568,7 +1568,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Olizy",
-                  "text": "Fort Olizy este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "text": "O fortăreață din secolul al XIX-lea a centurii de fortificații a Luxemburgului.",
                   "category": "fortress",
                   "coords": [
                         6.136778,
@@ -1577,7 +1577,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Niedergrünewald",
-                  "text": "Fort Niedergrünewald este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "text": "O fortăreață din secolul al XIX-lea a centurii de fortificații a Luxemburgului; numele înseamnă ‚pădurea verde de jos‘.",
                   "category": "fortress",
                   "coords": [
                         6.133855,
@@ -1586,7 +1586,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rumigny",
-                  "text": "Fort Rumigny este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "text": "O fortăreață din secolul al XIX-lea a centurii de fortificații a Luxemburgului, numită după Rumigny.",
                   "category": "fortress",
                   "coords": [
                         6.145647,
@@ -1595,7 +1595,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rubamprez",
-                  "text": "Fort Rubamprez este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "text": "O fortăreață din secolul al XIX-lea a centurii de fortificații a Luxemburgului.",
                   "category": "fortress",
                   "coords": [
                         6.143118,
@@ -1604,7 +1604,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Schlass La Fontaine",
-                  "text": "\"La Fontaine\" Castle este un sit arheologic notabil situat în Luxemburg-Stadt.",
+                  "text": "Ruinele unui castel cu o fântână mare, de la care provine numele.",
                   "category": "historical",
                   "coords": [
                         6.1443,
@@ -1613,7 +1613,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Gëlle Fra",
-                  "text": "Gëlle Fra este un monument notabil situat în Luxemburg-Stadt.",
+                  "text": "Monumentul de război Femeia de Aur de pe Piața Constituției.",
                   "category": "historical",
                   "coords": [
                         6.12936,
@@ -1622,7 +1622,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Hôtel de Ville",
-                  "text": "Hôtel de Ville este o primărie notabilă situată în Luxemburg-Stadt.",
+                  "text": "Primăria de pe Piața Guillaume II.",
                   "category": "historical",
                   "coords": [
                         6.130489,
@@ -1631,7 +1631,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Grand Théâtre de Luxembourg",
-                  "text": "Grand Théâtre de Luxembourg este un teatru notabil situat în Luxemburg-Stadt.",
+                  "text": "Teatru modern pe Place de la Gare.",
                   "category": "cultural",
                   "coords": [
                         6.127874,
@@ -1640,7 +1640,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Rotondes",
-                  "text": "Rotondes este un centru de arte notabil situat în Luxemburg-Stadt.",
+                  "text": "Centru cultural în două foste remize de locomotivă rotunde.",
                   "category": "cultural",
                   "coords": [
                         6.136469,
@@ -1649,7 +1649,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Le Juste Milieu",
-                  "text": "Le Juste Milieu este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Moschee în cartierul Bonnevoie.",
                   "category": "religious",
                   "coords": [
                         6.134788,
@@ -1658,7 +1658,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Exaltation-de-la-Sainte-Croix",
-                  "text": "Exaltation-de-la-Sainte-Croix este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Biserică catolică în cartierul Hamm, închinată Înălțării Sfintei Cruci.",
                   "category": "religious",
                   "coords": [
                         6.167644,
@@ -1667,7 +1667,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Marie Reine de la Paix",
-                  "text": "Marie Reine de la Paix este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Biserică catolică în cartierul Bonnevoie, închinată Mariei, Regina Păcii.",
                   "category": "religious",
                   "coords": [
                         6.138443,
@@ -1676,7 +1676,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Saint-Jean-Baptiste este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Biserică catolică în cartierul Grund, închinată Sfântului Ioan Botezătorul.",
                   "category": "religious",
                   "coords": [
                         6.136186,
@@ -1685,7 +1685,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame de Luxembourg",
-                  "text": "Notre-Dame Cathedral este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Catedrala Notre-Dame, catedrală gotică în centrul istoric al Luxemburgului.",
                   "category": "religious",
                   "coords": [
                         6.131589,
@@ -1694,7 +1694,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Pie X",
-                  "text": "Saint-Pie X este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Biserică catolică în cartierul Belair, închinată Papei Pius al X-lea.",
                   "category": "religious",
                   "coords": [
                         6.108094,
@@ -1703,7 +1703,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Église de Saint-Michel",
-                  "text": "Église de Saint-Michel este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Una dintre cele mai vechi biserici catolice ale orașului, în centrul istoric.",
                   "category": "religious",
                   "coords": [
                         6.134862,
@@ -1712,7 +1712,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Saint-Joseph este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Biserică catolică în cartierul Limpertsberg, închinată Sfântului Iosif.",
                   "category": "religious",
                   "coords": [
                         6.121024,
@@ -1721,7 +1721,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Grande Synagogue de Luxembourg",
-                  "text": "Grande Synagogue de Luxembourg este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Marea sinagogă a Luxemburgului, reconstruită după cel de-al Doilea Război Mondial.",
                   "category": "religious",
                   "coords": [
                         6.121644,
@@ -1730,7 +1730,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "Saints-Pierre-et-Paul este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "text": "Biserică catolică în cartierul Hollerich, închinată Sfinților Petru și Pavel.",
                   "category": "religious",
                   "coords": [
                         6.118872,
@@ -1757,7 +1757,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert este o biserică situată în zona Dommeldange din Luxemburg-Stadt.",
+                  "text": "Biserică catolică în cartierul Dommeldange, închinată Sfântului Hubert.",
                   "category": "religious",
                   "coords": [
                         6.138333,
@@ -1766,7 +1766,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
-                  "text": "Evangelische Gemeinde deutscher Sprache in Luxemburg este un lăcaș de cult cunoscut sub numele de Martin-Luther-Haus în Luxemburg-Stadt.",
+                  "text": "Biserică evanghelică pentru comunitatea de limbă germană din Luxemburg (Martin-Luther-Haus).",
                   "category": "religious",
                   "coords": [
                         6.115389,
@@ -1775,7 +1775,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Sainte-Thérèse de Lisieux",
-                  "text": "Sainte-Thérèse de Lisieux este o biserică situată în cartierul Gasperich din Luxemburg-Stadt.",
+                  "text": "Biserică catolică în cartierul Gasperich, închinată Sfintei Tereza de Lisieux.",
                   "category": "religious",
                   "coords": [
                         6.122428,
@@ -1784,7 +1784,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saints-Apôtres-Pierre-et-Paul",
-                  "text": "Saints-Apôtres-Pierre-et-Paul este biserica ortodoxă rusă din Luxemburg-Stadt.",
+                  "text": "Biserică ortodoxă rusă în Luxemburg, închinată Sfinților Apostoli Petru și Pavel.",
                   "category": "religious",
                   "coords": [
                         6.119516,
@@ -1793,7 +1793,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Martin",
-                  "text": "Saint-Martin este o biserică situată în cartierul Weimerskirch din Luxemburg-Stadt.",
+                  "text": "Biserică catolică în cartierul Weimerskirch, închinată Sfântului Martin.",
                   "category": "religious",
                   "coords": [
                         6.13509,
@@ -1820,7 +1820,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Chapelle du Christ-Roi",
-                  "text": "Chapelle du Christ-Roi este o capelă religioasă situată în Luxemburg-Stadt.",
+                  "text": "Capelă catolică închinată lui Cristos Rege.",
                   "category": "religious",
                   "coords": [
                         6.116645,
@@ -1910,7 +1910,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Viaduc Pulvermühle",
-                  "text": "Viaduc Pulvermühle este un important viaduct feroviar situat în Luxemburg-Stadt.",
+                  "text": "Viaduct feroviar din secolul al XIX-lea peste râul Alzette în Pulvermuhl.",
                   "category": "landmark",
                   "coords": [
                         6.139312,
@@ -1937,7 +1937,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Pafendaller Viaduc",
-                  "text": "Pafendaller Viaduc este un pod structural proeminent situat în Luxemburg-Stadt.",
+                  "text": "Viaduct feroviar peste valea Pfaffenthal în cartierul Clausen.",
                   "category": "landmark",
                   "coords": [
                         6.138071,
@@ -2200,7 +2200,7 @@ export const luxembourgExtraCities: POI[] = [
       "en": [
             {
                   "name": "Musée Dräi Eechelen",
-                  "text": "Musée Dräi Eechelen is a notable museum located in Luxemburg-Stadt.",
+                  "text": "Museum in the Fort Thüngen fortress with three towers, showcasing Luxembourg's fortress history.",
                   "category": "museum",
                   "coords": [
                         6.139297,
@@ -2209,7 +2209,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Casino Luxembourg - Forum d'art contemporain",
-                  "text": "Casino Luxembourg - Forum d'art contemporain is a notable museum located in Luxemburg-Stadt.",
+                  "text": "Contemporary art centre in a former 19th-century casino building.",
                   "category": "museum",
                   "coords": [
                         6.127167,
@@ -2218,7 +2218,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Grand Ducal Palace",
-                  "text": "Grand Ducal Palace is a notable castle located in Luxemburg-Stadt.",
+                  "text": "Renaissance palace, official residence of the Grand Duke of Luxembourg.",
                   "category": "castle",
                   "coords": [
                         6.132913,
@@ -2227,7 +2227,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Musée national d'histoire naturelle",
-                  "text": "Musée national d'histoire naturelle is a notable museum located in Luxemburg-Stadt.",
+                  "text": "Natural history museum in the former Münster Abbey, featuring dinosaur skeletons.",
                   "category": "museum",
                   "coords": [
                         6.135605,
@@ -2236,7 +2236,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Lëtzebuerg City Museum",
-                  "text": "Lëtzebuerg City Museum is a notable museum located in Luxemburg-Stadt.",
+                  "text": "Museum of Luxembourg City history housed in four historic old-town houses.",
                   "category": "museum",
                   "coords": [
                         6.133629,
@@ -2245,7 +2245,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Villa Vauban",
-                  "text": "Villa Vauban is a notable museum located in Luxemburg-Stadt.",
+                  "text": "Art museum in a 19th-century villa surrounded by a park.",
                   "category": "museum",
                   "coords": [
                         6.122488,
@@ -2263,7 +2263,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Château de Septfontaines",
-                  "text": "Château de Septfontaines is a notable castle located in Luxemburg-Stadt.",
+                  "text": "Ruined castle with seven springs (Septfontaines means 'seven fountains').",
                   "category": "castle",
                   "coords": [
                         6.105077,
@@ -2272,7 +2272,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Dumoulin",
-                  "text": "Fort Dumoulin is a notable fort located in Luxemburg-Stadt.",
+                  "text": "A 19th-century fortress of the Luxembourg fortifications, named after a former windmill (Dumoulin means mill).",
                   "category": "fortress",
                   "coords": [
                         6.150797,
@@ -2281,7 +2281,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Parkhöhe",
-                  "text": "Fort Parkhöhe is a notable fort located in Luxemburg-Stadt.",
+                  "text": "A fortress on a park hill, part of the Luxembourg fortifications.",
                   "category": "fortress",
                   "coords": [
                         6.146439,
@@ -2290,7 +2290,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rheinsheim",
-                  "text": "Fort Rheinsheim is a notable fort located in Luxemburg-Stadt.",
+                  "text": "A 19th-century fortress of the Luxembourg fortifications, named after Rheinsheim.",
                   "category": "fortress",
                   "coords": [
                         6.121804,
@@ -2299,7 +2299,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Olizy",
-                  "text": "Fort Olizy is a notable fort located in Luxemburg-Stadt.",
+                  "text": "A 19th-century fortress of the Luxembourg fortifications.",
                   "category": "fortress",
                   "coords": [
                         6.136778,
@@ -2308,7 +2308,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Niedergrünewald",
-                  "text": "Fort Niedergrünewald is a notable fort located in Luxemburg-Stadt.",
+                  "text": "A 19th-century fortress of the Luxembourg fortifications; the name means 'lower green forest'.",
                   "category": "fortress",
                   "coords": [
                         6.133855,
@@ -2317,7 +2317,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rumigny",
-                  "text": "Fort Rumigny is a notable fort located in Luxemburg-Stadt.",
+                  "text": "A 19th-century fortress of the Luxembourg fortifications, named after Rumigny.",
                   "category": "fortress",
                   "coords": [
                         6.145647,
@@ -2326,7 +2326,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Fort Rubamprez",
-                  "text": "Fort Rubamprez is a notable fort located in Luxemburg-Stadt.",
+                  "text": "A 19th-century fortress of the Luxembourg fortifications.",
                   "category": "fortress",
                   "coords": [
                         6.143118,
@@ -2335,7 +2335,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "\"La Fontaine\" Castle",
-                  "text": "\"La Fontaine\" Castle is a notable archaeological site located in Luxemburg-Stadt.",
+                  "text": "Ruins of a castle with a large fountain, after which it is named.",
                   "category": "historical",
                   "coords": [
                         6.1443,
@@ -2344,7 +2344,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Gëlle Fra",
-                  "text": "Gëlle Fra is a notable monument located in Luxemburg-Stadt.",
+                  "text": "Golden lady war memorial on Constitution Square.",
                   "category": "historical",
                   "coords": [
                         6.12936,
@@ -2353,7 +2353,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Hôtel de Ville",
-                  "text": "Hôtel de Ville is a notable town hall located in Luxemburg-Stadt.",
+                  "text": "City hall on Place Guillaume II.",
                   "category": "historical",
                   "coords": [
                         6.130489,
@@ -2362,7 +2362,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Grand Théâtre de Luxembourg",
-                  "text": "Grand Théâtre de Luxembourg is a notable theatre located in Luxemburg-Stadt.",
+                  "text": "Modern theatre on the Place de la Gare.",
                   "category": "cultural",
                   "coords": [
                         6.127874,
@@ -2371,7 +2371,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Rotondes",
-                  "text": "Rotondes is a notable arts centre located in Luxemburg-Stadt.",
+                  "text": "Cultural centre in two former railway roundhouses.",
                   "category": "cultural",
                   "coords": [
                         6.136469,
@@ -2380,7 +2380,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Le Juste Milieu",
-                  "text": "Le Juste Milieu is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "A mosque in the Bonnevoie district.",
                   "category": "religious",
                   "coords": [
                         6.134788,
@@ -2389,7 +2389,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Exaltation-de-la-Sainte-Croix",
-                  "text": "Exaltation-de-la-Sainte-Croix is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "A Catholic church in the Hamm district dedicated to the Exaltation of the Holy Cross.",
                   "category": "religious",
                   "coords": [
                         6.167644,
@@ -2398,7 +2398,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Marie Reine de la Paix",
-                  "text": "Marie Reine de la Paix is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "A Catholic church in Bonnevoie dedicated to Mary, Queen of Peace.",
                   "category": "religious",
                   "coords": [
                         6.138443,
@@ -2407,7 +2407,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Saint-Jean-Baptiste is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "A Catholic church in the Grund district dedicated to John the Baptist.",
                   "category": "religious",
                   "coords": [
                         6.136186,
@@ -2416,7 +2416,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Notre-Dame Cathedral",
-                  "text": "Notre-Dame Cathedral is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "Notre-Dame Cathedral, Gothic cathedral in the historic center of Luxembourg City.",
                   "category": "religious",
                   "coords": [
                         6.131589,
@@ -2425,7 +2425,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Pie X",
-                  "text": "Saint-Pie X is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "A Catholic church in Belair dedicated to Pope Pius X.",
                   "category": "religious",
                   "coords": [
                         6.108094,
@@ -2434,7 +2434,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Église de Saint-Michel",
-                  "text": "Église de Saint-Michel is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "One of the oldest Catholic churches in the city, in the historic centre.",
                   "category": "religious",
                   "coords": [
                         6.134862,
@@ -2443,7 +2443,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Saint-Joseph is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "A Catholic church in Limpertsberg dedicated to Saint Joseph.",
                   "category": "religious",
                   "coords": [
                         6.121024,
@@ -2452,7 +2452,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Grande Synagogue de Luxembourg",
-                  "text": "Grande Synagogue de Luxembourg is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "The main synagogue of Luxembourg, rebuilt after World War II.",
                   "category": "religious",
                   "coords": [
                         6.121644,
@@ -2461,7 +2461,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "Saints-Pierre-et-Paul is a notable place of worship located in Luxemburg-Stadt.",
+                  "text": "A Catholic church in Hollerich dedicated to Saints Peter and Paul.",
                   "category": "religious",
                   "coords": [
                         6.118872,
@@ -2488,7 +2488,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert is a church located in the Dommeldange area of Luxemburg-Stadt.",
+                  "text": "A Catholic church in Dommeldange dedicated to Saint Hubert.",
                   "category": "religious",
                   "coords": [
                         6.138333,
@@ -2497,7 +2497,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
-                  "text": "The Evangelische Gemeinde deutscher Sprache in Luxemburg is a place of worship known as the Martin-Luther-Haus in Luxemburg-Stadt.",
+                  "text": "A Protestant church for the German-speaking community in Luxembourg (Martin-Luther House).",
                   "category": "religious",
                   "coords": [
                         6.115389,
@@ -2506,7 +2506,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Sainte-Thérèse de Lisieux",
-                  "text": "Sainte-Thérèse de Lisieux is a church serving the Gasperich district in Luxemburg-Stadt.",
+                  "text": "A Catholic church in Gasperich dedicated to Saint Thérèse of Lisieux.",
                   "category": "religious",
                   "coords": [
                         6.122428,
@@ -2515,7 +2515,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saints-Apôtres-Pierre-et-Paul",
-                  "text": "Saints-Apôtres-Pierre-et-Paul is the Russian Orthodox church located in Luxemburg-Stadt.",
+                  "text": "A Russian Orthodox church in Luxembourg dedicated to Saints Peter and Paul.",
                   "category": "religious",
                   "coords": [
                         6.119516,
@@ -2524,7 +2524,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Saint-Martin",
-                  "text": "Saint-Martin is a church situated in the Weimerskirch neighborhood of Luxemburg-Stadt.",
+                  "text": "A Catholic church in Weimerskirch dedicated to Saint Martin.",
                   "category": "religious",
                   "coords": [
                         6.13509,
@@ -2551,7 +2551,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Chapelle du Christ-Roi",
-                  "text": "Chapelle du Christ-Roi is a notable religious chapel situated in Luxemburg-Stadt.",
+                  "text": "A Catholic chapel dedicated to Christ the King.",
                   "category": "religious",
                   "coords": [
                         6.116645,
@@ -2641,7 +2641,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Viaduc Pulvermühle",
-                  "text": "The Viaduc Pulvermühle is a major railway viaduct serving Luxemburg-Stadt.",
+                  "text": "A 19th-century railway viaduct over the Alzette river in Pulvermuhl.",
                   "category": "landmark",
                   "coords": [
                         6.139312,
@@ -2668,7 +2668,7 @@ export const luxembourgExtraCities: POI[] = [
             },
             {
                   "name": "Pafendaller Viaduc",
-                  "text": "The Pafendaller Viaduc is a prominent structural bridge located in Luxemburg-Stadt.",
+                  "text": "A railway viaduct over the Pfaffenthal valley in the Clausen district.",
                   "category": "landmark",
                   "coords": [
                         6.138071,

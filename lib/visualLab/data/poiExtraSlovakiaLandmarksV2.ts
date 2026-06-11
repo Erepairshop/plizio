@@ -345,7 +345,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ruine Röthelstein",
-                  "text": "Die Überreste einer mittelalterlichen Burgruine in der Nähe von Devín.",
+                  "text": "Die Ruine Röthelstein ist die Ruine einer mittelalterlichen Burg auf einer Felsklippe über der Donau, nahe der Burg Devín.",
                   "category": "castle",
                   "coords": [
                         16.95426,
@@ -381,7 +381,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sokoliareň a minizoo Devín",
-                  "text": "Ein kleines Tiergehege und ein Zentrum für Falknerei in Devín.",
+                  "text": "Eine Falknerei mit Minizoo unterhalb der Burg Devín.",
                   "category": "recreational",
                   "coords": [
                         16.979728,
@@ -437,7 +437,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ruine Röthelstein",
-                  "text": "Egy középkori várrom maradványai Dévény közelében.",
+                  "text": "A Röthelstein romja egy középkori várrom egy sziklán a Duna fölött, a Dévényi vár közelében.",
                   "category": "castle",
                   "coords": [
                         16.95426,
@@ -473,7 +473,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sokoliareň a minizoo Devín",
-                  "text": "Egy kis állatkert és solymászati központ Dévényben.",
+                  "text": "Egy solymászat és mini állatkert a Devín vára alatt.",
                   "category": "recreational",
                   "coords": [
                         16.979728,
@@ -529,7 +529,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ruine Röthelstein",
-                  "text": "Vestigiile unei ruine de castel medieval în apropiere de Devín.",
+                  "text": "Ruinele Röthelstein sunt ruinele unui castel medieval pe o stâncă de calcar deasupra Dunării, lângă Castelul Devin.",
                   "category": "castle",
                   "coords": [
                         16.95426,
@@ -565,7 +565,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sokoliareň a minizoo Devín",
-                  "text": "O mică grădină zoologică și un centru de șoimărit în Devín.",
+                  "text": "Un șoimerie cu mini-grădină zoologică sub castelul Devín.",
                   "category": "recreational",
                   "coords": [
                         16.979728,
@@ -621,7 +621,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Ruine Röthelstein",
-                  "text": "The remains of a medieval castle ruin near Devín.",
+                  "text": "Ruine Röthelstein is the ruin of a medieval castle on a limestone cliff above the Danube, near Devín Castle.",
                   "category": "castle",
                   "coords": [
                         16.95426,
@@ -657,7 +657,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sokoliareň a minizoo Devín",
-                  "text": "A small animal enclosure and falconry center in Devín.",
+                  "text": "A falconry center with a mini-zoo beneath Devín Castle.",
                   "category": "recreational",
                   "coords": [
                         16.979728,
@@ -994,7 +994,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Drugetovská kúria",
-                  "text": "Ein historisches Herrenhaus in der Nähe der Burg Čachtice.",
+                  "text": "Herrenhaus aus dem 17. Jahrhundert nahe der Burg Čachtice.",
                   "category": "historical",
                   "coords": [
                         17.785113,
@@ -1059,7 +1059,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Drugetovská kúria",
-                  "text": "Történelmi kúria Csejte vára közelében.",
+                  "text": "17. századi kúria a Csáktornyai vár közelében.",
                   "category": "historical",
                   "coords": [
                         17.785113,
@@ -1124,7 +1124,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Drugetovská kúria",
-                  "text": "Un conac istoric situat în apropierea Castelului Čachtice.",
+                  "text": "Conac din secolul al XVII-lea lângă Castelul Čachtice.",
                   "category": "historical",
                   "coords": [
                         17.785113,
@@ -1189,7 +1189,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Drugetovská kúria",
-                  "text": "A historic manor house located near Čachtice Castle.",
+                  "text": "17th-century manor house near Čachtice Castle.",
                   "category": "historical",
                   "coords": [
                         17.785113,
@@ -1248,7 +1248,7 @@ export const slovakiaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Ivanovská skala",
-                  "text": "Eine archäologische Stätte bei der Burg Beckov.",
+                  "text": "Die Ivanovská skala ist eine Felsformation mit den Ruinen der Burg Biatek nahe der Burg Beckov.",
                   "category": "historical",
                   "coords": [
                         17.904583,
@@ -1275,7 +1275,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nudistická pláž",
-                  "text": "Ein FKK-Strand in der Nähe von Beckov.",
+                  "text": "Ein FKK-Strand an der Waag unterhalb der Burg Beckov.",
                   "category": "recreational",
                   "coords": [
                         17.875505,
@@ -1284,7 +1284,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Centrum novej evanjelizácie sv. Jána Pavla II.",
-                  "text": "Ein religiöses Zentrum und Kloster in Beckov.",
+                  "text": "Ein modernes Pilgerzentrum, benannt nach Johannes Paul II., am Fuß der Burg Beckov.",
                   "category": "religious",
                   "coords": [
                         17.895717,
@@ -1293,7 +1293,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Skalice",
-                  "text": "Ein Berggipfel in der Nähe der Burg Beckov.",
+                  "text": "Die Skalice ist eine Felsformation auf dem Hügel unterhalb der Burg Beckov.",
                   "category": "landmark",
                   "coords": [
                         17.901523,
@@ -1302,7 +1302,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lašid",
-                  "text": "Ein Berggipfel bei Beckov.",
+                  "text": "Der Lašid ist ein kleines Höhlensystem im Hügel der Burg Beckov.",
                   "category": "landmark",
                   "coords": [
                         17.932053,
@@ -1311,7 +1311,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Románsky kostolík",
-                  "text": "Die Überreste einer kleinen romanischen Kirche bei Beckov.",
+                  "text": "Die romanische Rotunde (Románsky kostolík) ist eine frühromanische Kirche am Fuß der Burg Beckov.",
                   "category": "historical",
                   "coords": [
                         17.87001,
@@ -1340,7 +1340,7 @@ export const slovakiaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Ivanovská skala",
-                  "text": "Régészeti lelőhely a beckói vár közelében.",
+                  "text": "Az Ivanovská skala egy sziklaformáció a Biatek vár romjaival, Beckov vára közelében.",
                   "category": "historical",
                   "coords": [
                         17.904583,
@@ -1367,7 +1367,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nudistická pláž",
-                  "text": "Nudista strand Beckó közelében.",
+                  "text": "Egy nudista strand a Vág folyónál, Beckov vára alatt.",
                   "category": "recreational",
                   "coords": [
                         17.875505,
@@ -1376,7 +1376,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Centrum novej evanjelizácie sv. Jána Pavla II.",
-                  "text": "Vallási központ és kolostor Beckón.",
+                  "text": "Egy modern zarándokközpont, amelyet II. János Pál pápa tiszteletére neveztek el, Beckov vára lábánál.",
                   "category": "religious",
                   "coords": [
                         17.895717,
@@ -1385,7 +1385,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Skalice",
-                  "text": "Hegyi csúcs a beckói vár közelében.",
+                  "text": "A Skalice egy sziklaalakzat a Beckov vára alatti dombon.",
                   "category": "landmark",
                   "coords": [
                         17.901523,
@@ -1394,7 +1394,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lašid",
-                  "text": "Hegyi csúcs Beckó közelében.",
+                  "text": "A Lašid egy kis barlangrendszer a Beckov vára dombjában.",
                   "category": "landmark",
                   "coords": [
                         17.932053,
@@ -1403,7 +1403,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Románsky kostolík",
-                  "text": "Egy kis román stílusú templom maradványai Beckó közelében.",
+                  "text": "A román kori rotunda (Románsky kostolík) egy kora román kori templom a Beckov vára lábánál.",
                   "category": "historical",
                   "coords": [
                         17.87001,
@@ -1432,7 +1432,7 @@ export const slovakiaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Ivanovská skala",
-                  "text": "Un sit arheologic lângă castelul Beckov.",
+                  "text": "Ivanovská skala este o formațiune stâncoasă cu ruinele Castelului Biatek, lângă Castelul Beckov.",
                   "category": "historical",
                   "coords": [
                         17.904583,
@@ -1459,7 +1459,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nudistická pláž",
-                  "text": "O plajă de nudism lângă Beckov.",
+                  "text": "O plajă nudistă pe râul Váh, sub castelul Beckov.",
                   "category": "recreational",
                   "coords": [
                         17.875505,
@@ -1468,7 +1468,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Centrum novej evanjelizácie sv. Jána Pavla II.",
-                  "text": "Un centru religios și mănăstire în Beckov.",
+                  "text": "Un centru modern de evangelizare dedicat Papei Ioan Paul al II-lea, la poalele castelului Beckov.",
                   "category": "religious",
                   "coords": [
                         17.895717,
@@ -1477,7 +1477,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Skalice",
-                  "text": "Un vârf montan lângă castelul Beckov.",
+                  "text": "Skalice este o formațiune de stâncă pe dealul de sub Castelul Beckov.",
                   "category": "landmark",
                   "coords": [
                         17.901523,
@@ -1486,7 +1486,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lašid",
-                  "text": "Un vârf montan lângă Beckov.",
+                  "text": "Lašid este un sistem mic de peșteri în dealul Castelului Beckov.",
                   "category": "landmark",
                   "coords": [
                         17.932053,
@@ -1495,7 +1495,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Románsky kostolík",
-                  "text": "Resturile unei mici biserici romanice lângă Beckov.",
+                  "text": "Rotonda romanică (Románsky kostolík) este o biserică romanică timpurie la poalele Castelului Beckov.",
                   "category": "historical",
                   "coords": [
                         17.87001,
@@ -1524,7 +1524,7 @@ export const slovakiaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Ivanovská skala",
-                  "text": "An archaeological site located near Beckov Castle.",
+                  "text": "Ivanovská skala is a rock formation with the ruins of Biatek Castle, near Beckov Castle.",
                   "category": "historical",
                   "coords": [
                         17.904583,
@@ -1551,7 +1551,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Nudistická pláž",
-                  "text": "A nudist beach located near Beckov.",
+                  "text": "A nudist beach on the Váh River below Beckov Castle.",
                   "category": "recreational",
                   "coords": [
                         17.875505,
@@ -1560,7 +1560,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Centrum novej evanjelizácie sv. Jána Pavla II.",
-                  "text": "A religious center and monastery in Beckov.",
+                  "text": "A modern evangelization center dedicated to Pope John Paul II at the foot of Beckov Castle.",
                   "category": "religious",
                   "coords": [
                         17.895717,
@@ -1569,7 +1569,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Skalice",
-                  "text": "A mountain peak near Beckov Castle.",
+                  "text": "Skalice is a rock formation on the hill below Beckov Castle.",
                   "category": "landmark",
                   "coords": [
                         17.901523,
@@ -1578,7 +1578,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Lašid",
-                  "text": "A mountain peak near Beckov.",
+                  "text": "Lašid is a small cave system in the Beckov Castle hill.",
                   "category": "landmark",
                   "coords": [
                         17.932053,
@@ -1587,7 +1587,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Románsky kostolík",
-                  "text": "The ruins of a small Romanesque church near Beckov.",
+                  "text": "The Romanesque rotunda (Románsky kostolík) is an early Romanesque church at the foot of Beckov Castle.",
                   "category": "historical",
                   "coords": [
                         17.87001,
@@ -1803,7 +1803,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Panoramapark",
-                  "text": "Ein Freizeitpark mit malerischer Aussicht in der Nähe von Strečno.",
+                  "text": "Ein Park mit Panoramablick auf die Burg Strečno und das Waagtal.",
                   "category": "recreational",
                   "coords": [
                         18.870693,
@@ -1830,7 +1830,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jungle park",
-                  "text": "Ein Abenteuerpark in der Nähe der Burg Strečno.",
+                  "text": "Ein Dschungel-Abenteuerpark am Fuße der Burg Strečno.",
                   "category": "recreational",
                   "coords": [
                         18.82575,
@@ -1895,7 +1895,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Panoramapark",
-                  "text": "Szabadidőpark festői kilátással Sztrecsény közelében.",
+                  "text": "Egy park panorámás kilátással a Strečno várára és a Vág völgyére.",
                   "category": "recreational",
                   "coords": [
                         18.870693,
@@ -1922,7 +1922,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jungle park",
-                  "text": "Kalandpark Sztrecsény vára közelében.",
+                  "text": "Egy dzsungel kalandpark a Strečno vára lábánál.",
                   "category": "recreational",
                   "coords": [
                         18.82575,
@@ -1987,7 +1987,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Panoramapark",
-                  "text": "Un parc de agrement care oferă vederi pitorești lângă Strečno.",
+                  "text": "Un parc cu vedere panoramică asupra castelului Strečno și a văii Váhului.",
                   "category": "recreational",
                   "coords": [
                         18.870693,
@@ -2014,7 +2014,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jungle park",
-                  "text": "Un parc de aventură situat în apropierea castelului Strečno.",
+                  "text": "Un parc de aventură tip junglă la poalele castelului Strečno.",
                   "category": "recreational",
                   "coords": [
                         18.82575,
@@ -2079,7 +2079,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Panoramapark",
-                  "text": "A leisure park offering scenic views near Strečno.",
+                  "text": "A park with panoramic views of Strečno Castle and the Váh Valley.",
                   "category": "recreational",
                   "coords": [
                         18.870693,
@@ -2106,7 +2106,7 @@ export const slovakiaLandmarksV2: POI[] = [
             },
             {
                   "name": "Jungle park",
-                  "text": "An adventure park located near Strečno Castle.",
+                  "text": "A jungle-themed adventure park at the foot of Strečno Castle.",
                   "category": "recreational",
                   "coords": [
                         18.82575,

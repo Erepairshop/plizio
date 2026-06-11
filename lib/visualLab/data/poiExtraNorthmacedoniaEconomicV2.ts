@@ -7,7 +7,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Zooloshka gradina",
-                  "text": "Der städtische Zoo von Bitola in Nordmazedonien.",
+                  "text": "Der Zoo von Bitola ist ein kleiner Zoo in der Industriezone von Bitola.",
                   "category": "recreational",
                   "coords": [
                         21.341247,
@@ -16,7 +16,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Bitolska Tvrdina",
-                  "text": "Eine historische osmanische Festung und Kaserne in Bitola.",
+                  "text": "Die Festung von Bitola ist eine antike Zitadelle auf einem Hügel über der Stadt.",
                   "category": "castle",
                   "coords": [
                         21.331274,
@@ -25,7 +25,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Ein Museum im Gedenkhaus des Revolutionärs Goce Deltschew.",
+                  "text": "Goce Delchev Memorial House in Bitola zeigt persönliche Gegenstände des Revolutionärs.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -34,7 +34,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Muzej na Bitola",
-                  "text": "Das Nationalmuseum von Bitola, untergebracht in der ehemaligen Militärakademie.",
+                  "text": "Das Museum von Bitola zeigt archäologische und ethnografische Sammlungen der Region.",
                   "category": "museum",
                   "coords": [
                         21.335644,
@@ -52,7 +52,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Muzej na khristijanskata i muslimanskata kultura",
-                  "text": "Ein Museum für christliche und muslimische Kultur in der Neuen Moschee.",
+                  "text": "Das Museum für christliche und muslimische Kultur ist in der Neuen Moschee von Bitola untergebracht.",
                   "category": "museum",
                   "coords": [
                         21.33494,
@@ -61,7 +61,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Mémorial de Bitola",
-                  "text": "Eine Gedenkstätte und ein Museum in Bitola.",
+                  "text": "Das Mémorial de Bitola ist ein Museum, das der Geschichte Bitolas gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         21.358605,
@@ -70,7 +70,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sv. Troitsa",
-                  "text": "Eine orthodoxe Kirche der Heiligen Dreifaltigkeit in Bitola.",
+                  "text": "Die Heilige Dreifaltigkeit ist eine orthodoxe Kirche in der Industriezone von Bitola.",
                   "category": "landmark",
                   "coords": [
                         21.341526,
@@ -90,7 +90,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Zooloshka gradina",
-                  "text": "Bitola városi állatkertje Észak-Macedóniában.",
+                  "text": "A Bitolai Állatkert egy kis állatkert Bitola ipari övezetében.",
                   "category": "recreational",
                   "coords": [
                         21.341247,
@@ -99,7 +99,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Bitolska Tvrdina",
-                  "text": "Történelmi oszmán erőd és laktanya Bitolában.",
+                  "text": "Bitola erődje egy ókori citadella a város feletti dombon.",
                   "category": "castle",
                   "coords": [
                         21.331274,
@@ -108,7 +108,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Goce Delcsev forradalmár emlékháza és múzeuma.",
+                  "text": "A Goce Delchev Emlékház Bitolában a forradalmár személyes tárgyait mutatja be.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -117,7 +117,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Muzej na Bitola",
-                  "text": "Bitola nemzeti múzeuma, amely az egykori katonai akadémián található.",
+                  "text": "A Bitolai Múzeum a régió régészeti és néprajzi gyűjteményeit mutatja be.",
                   "category": "museum",
                   "coords": [
                         21.335644,
@@ -135,7 +135,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Muzej na khristijanskata i muslimanskata kultura",
-                  "text": "A keresztény és muszlim kultúra múzeuma az Új-mecsetben.",
+                  "text": "A Keresztény és Muszlim Kultúra Múzeuma Bitola Új Mecsetében kapott helyet.",
                   "category": "museum",
                   "coords": [
                         21.33494,
@@ -144,7 +144,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Mémorial de Bitola",
-                  "text": "Emlékhely és múzeum Bitola városában.",
+                  "text": "A Mémorial de Bitola egy múzeum, amely Bitola történelmének állít emléket.",
                   "category": "museum",
                   "coords": [
                         21.358605,
@@ -153,7 +153,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sv. Troitsa",
-                  "text": "Szentháromság ortodox templom Bitolában.",
+                  "text": "A Szentháromság egy ortodox templom Bitola ipari övezetében.",
                   "category": "landmark",
                   "coords": [
                         21.341526,
@@ -173,7 +173,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Zooloshka gradina",
-                  "text": "Grădina zoologică municipală din Bitola, Macedonia de Nord.",
+                  "text": "Grădina Zoologică Bitola este o grădină zoologică mică în zona industrială a Bitolei.",
                   "category": "recreational",
                   "coords": [
                         21.341247,
@@ -182,7 +182,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Bitolska Tvrdina",
-                  "text": "O fortăreață și cazarmă otomană istorică în Bitola.",
+                  "text": "Fortăreața Bitolei este o cetate antică pe un deal deasupra orașului.",
                   "category": "castle",
                   "coords": [
                         21.331274,
@@ -191,7 +191,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Casă memorială și muzeu dedicat revoluționarului Goce Delchev.",
+                  "text": "Casa Memorială Goce Delchev din Bitola expune obiecte personale ale revoluționarului.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -200,7 +200,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Muzej na Bitola",
-                  "text": "Muzeul Național din Bitola, situat în fosta academie militară.",
+                  "text": "Muzeul Bitolei prezintă colecții arheologice și etnografice din regiune.",
                   "category": "museum",
                   "coords": [
                         21.335644,
@@ -218,7 +218,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Muzej na khristijanskata i muslimanskata kultura",
-                  "text": "Muzeu al culturii creștine și musulmane situat în Noua Moschee.",
+                  "text": "Muzeul Culturii Creștine și Musulmane este găzduit în Noua Moschee din Bitola.",
                   "category": "museum",
                   "coords": [
                         21.33494,
@@ -227,7 +227,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Mémorial de Bitola",
-                  "text": "Un memorial și muzeu în orașul Bitola.",
+                  "text": "Memorialul de Bitola este un muzeu dedicat istoriei orașului Bitola.",
                   "category": "museum",
                   "coords": [
                         21.358605,
@@ -236,7 +236,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sv. Troitsa",
-                  "text": "O biserică ortodoxă cu hramul Sfânta Treime din Bitola.",
+                  "text": "Sfânta Treime este o biserică ortodoxă în zona industrială a Bitolei.",
                   "category": "landmark",
                   "coords": [
                         21.341526,
@@ -256,7 +256,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Bitola Zoo",
-                  "text": "The municipal zoo of Bitola in North Macedonia.",
+                  "text": "Bitola Zoo is a small zoo in the industrial zone of Bitola.",
                   "category": "recreational",
                   "coords": [
                         21.341247,
@@ -265,7 +265,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Fortress of Bitola",
-                  "text": "A historic Ottoman fortress and barracks in Bitola.",
+                  "text": "Fortress of Bitola is an ancient citadel on a hill above the city.",
                   "category": "castle",
                   "coords": [
                         21.331274,
@@ -274,7 +274,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "A museum in the memorial house of the revolutionary Goce Delchev.",
+                  "text": "Goce Delchev Memorial House in Bitola exhibits personal belongings of the revolutionary.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -283,7 +283,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of Bitola",
-                  "text": "The National Museum of Bitola, located in the former military academy.",
+                  "text": "Museum of Bitola showcases archaeological and ethnographic collections from the region.",
                   "category": "museum",
                   "coords": [
                         21.335644,
@@ -301,7 +301,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Museum of christian and muslim culture",
-                  "text": "A museum of Christian and Muslim culture located in the New Mosque.",
+                  "text": "Museum of Christian and Muslim Culture is housed in the New Mosque of Bitola.",
                   "category": "museum",
                   "coords": [
                         21.33494,
@@ -310,7 +310,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Mémorial de Bitola",
-                  "text": "A memorial and museum in the city of Bitola.",
+                  "text": "Mémorial de Bitola is a museum memorial dedicated to Bitola's history.",
                   "category": "museum",
                   "coords": [
                         21.358605,
@@ -319,7 +319,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Trinity",
-                  "text": "An Orthodox church of the Holy Trinity in Bitola.",
+                  "text": "St. Trinity is an Orthodox church in Bitola's industrial zone.",
                   "category": "landmark",
                   "coords": [
                         21.341526,
@@ -1096,7 +1096,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sv. Arkhangel Mikhail (Фитијата)",
-                  "text": "Ein religiöses Bauwerk in Stip, bekannt als die Kirche des Erzengels Michael (Fitijata).",
+                  "text": "Der Erzengel Michael (Fitijata) ist eine orthodoxe Kirche im Textilbezirk von Štip.",
                   "category": "religious",
                   "coords": [
                         22.188146,
@@ -1105,7 +1105,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sv. Troitsa",
-                  "text": "Die Dreifaltigkeitskirche ist ein markantes religiöses Gebäude in Novo Selo.",
+                  "text": "Die Heilige Dreifaltigkeit ist eine orthodoxe Kirche in Novo Selo, dem Textilbezirk von Štip.",
                   "category": "religious",
                   "coords": [
                         22.175186,
@@ -1170,7 +1170,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sv. Arkhangel Mikhail (Фитијата)",
-                  "text": "Vallási épület Stipben, amely Szent Mihály arkangyal (Fitijata) templomaként ismert.",
+                  "text": "A Szent Mihály arkangyal (Fitijata) egy ortodox templom Štip textilkerületében.",
                   "category": "religious",
                   "coords": [
                         22.188146,
@@ -1179,7 +1179,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sv. Troitsa",
-                  "text": "A Szentháromság-templom Novo Selo egyik jellegzetes vallási épülete.",
+                  "text": "A Szentháromság egy ortodox templom Novo Selóban, Štip textilkerületében.",
                   "category": "religious",
                   "coords": [
                         22.175186,
@@ -1244,7 +1244,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sv. Arkhangel Mikhail (Фитијата)",
-                  "text": "Un edificiu religios din Stip, cunoscut sub numele de biserica Sfântului Arhanghel Mihail (Fitijata).",
+                  "text": "Sfântul Arhanghel Mihail (Fitijata) este o biserică ortodoxă în districtul textil din Štip.",
                   "category": "religious",
                   "coords": [
                         22.188146,
@@ -1253,7 +1253,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sv. Troitsa",
-                  "text": "Biserica Sfânta Treime este o clădire religioasă proeminentă din Novo Selo.",
+                  "text": "Sfânta Treime este o biserică ortodoxă în Novo Selo, districtul textil din Štip.",
                   "category": "religious",
                   "coords": [
                         22.175186,
@@ -1318,7 +1318,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "St. Archangel Michael (Fitijata)",
-                  "text": "A religious building in Stip, known as the church of St. Archangel Michael (Fitijata).",
+                  "text": "St. Archangel Michael (Fitijata) is an Orthodox church in the textile district of Štip.",
                   "category": "religious",
                   "coords": [
                         22.188146,
@@ -1327,7 +1327,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Holy Trinity",
-                  "text": "The Holy Trinity church is a prominent religious building in Novo Selo.",
+                  "text": "Holy Trinity is an Orthodox church in Novo Selo, Štip's textile district.",
                   "category": "religious",
                   "coords": [
                         22.175186,
@@ -1420,7 +1420,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "House of Lambeski",
-                  "text": "Ein Museum in Ohrid, das in einem traditionellen bürgerlichen Haus untergebracht ist.",
+                  "text": "Das Haus von Lambeski ist ein historisches Wohnmuseum in Ohrid, das das Erbe einer lokalen Familie bewahrt.",
                   "category": "museum",
                   "coords": [
                         20.797043,
@@ -1447,7 +1447,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sveti Kiril i Metodij",
-                  "text": "Denkmäler zu Ehren der Heiligen Kyrill und Methodius in Ohrid.",
+                  "text": "Das Denkmal der Heiligen Kyrill und Method in Ohrid ehrt die Slawenapostel.",
                   "category": "historical",
                   "coords": [
                         20.799994,
@@ -1483,7 +1483,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sveti Naum Ohridski Čudotvorec",
-                  "text": "Ein Denkmal in Ohrid, das dem Heiligen Naum gewidmet ist.",
+                  "text": "Das Denkmal für den Heiligen Naum von Ohrid ehrt den mit der Region verbundenen Heiligen.",
                   "category": "historical",
                   "coords": [
                         20.799023,
@@ -1501,7 +1501,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Very old tree",
-                  "text": "Ein jahrhundertealter Platanenbaum mit einem markanten gespaltenen Stamm in Ohrid.",
+                  "text": "Die alte Platane mit gegabeltem Stamm ist ein jahrhundertealtes Wahrzeichen in Ohrid.",
                   "category": "landmark",
                   "coords": [
                         20.800318,
@@ -1566,7 +1566,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "House of Lambeski",
-                  "text": "Múzeum Ohridban, amely egy hagyományos polgári házban található.",
+                  "text": "A Lambeski-ház egy történelmi lakóház múzeum Ohridban, amely egy helyi család örökségét őrzi.",
                   "category": "museum",
                   "coords": [
                         20.797043,
@@ -1593,7 +1593,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sveti Kiril i Metodij",
-                  "text": "Szent Cirill és Metód tiszteletére emelt emlékművek Ohridban.",
+                  "text": "A Szent Cirill és Metód-emlékmű Ohridban a szláv apostolok előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
                         20.799994,
@@ -1629,7 +1629,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sveti Naum Ohridski Čudotvorec",
-                  "text": "Szent Naumnak szentelt emlékmű Ohridban.",
+                  "text": "Az Ohridi Szent Naum-emlékmű a régióhoz kötődő szentet tiszteli.",
                   "category": "historical",
                   "coords": [
                         20.799023,
@@ -1647,7 +1647,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Very old tree",
-                  "text": "Egy évszázados platánfa Ohridban, jellegzetes kettéágazó törzzsel.",
+                  "text": "Az elágazó törzsű öreg platánfa egy évszázados nevezetesség Ohridban.",
                   "category": "landmark",
                   "coords": [
                         20.800318,
@@ -1712,7 +1712,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "House of Lambeski",
-                  "text": "Un muzeu în Ohrid găzduit într-o casă tradițională orășenească.",
+                  "text": "Casa Lambeski este un muzeu istoric de locuință din Ohrid, care păstrează moștenirea unei familii locale.",
                   "category": "museum",
                   "coords": [
                         20.797043,
@@ -1739,7 +1739,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sveti Kiril i Metodij",
-                  "text": "Monumente în onoarea Sfinților Chiril și Metodiu în Ohrid.",
+                  "text": "Monumentul Sfinților Chiril și Metodie din Ohrida onorează apostolii slavilor.",
                   "category": "historical",
                   "coords": [
                         20.799994,
@@ -1775,7 +1775,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Sveti Naum Ohridski Čudotvorec",
-                  "text": "Un monument în Ohrid dedicat Sfântului Naum.",
+                  "text": "Monumentul Sfântului Naum de Ohrid îl onorează pe sfântul asociat cu regiunea.",
                   "category": "historical",
                   "coords": [
                         20.799023,
@@ -1793,7 +1793,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Very old tree",
-                  "text": "Un platan vechi de secole cu un trunchi despicat distinctiv în Ohrid.",
+                  "text": "Platanul bătrân cu trunchi bifurcat este un reper secular în Ohrid.",
                   "category": "landmark",
                   "coords": [
                         20.800318,
@@ -1858,7 +1858,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "House of Lambeski",
-                  "text": "A museum in Ohrid housed in a traditional town house.",
+                  "text": "House of Lambeski is a historic house museum in Ohrid preserving a local family's heritage.",
                   "category": "museum",
                   "coords": [
                         20.797043,
@@ -1885,7 +1885,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Monuments of Saints Cyril and Methodius",
-                  "text": "Monuments honoring Saints Cyril and Methodius in Ohrid.",
+                  "text": "Monument to Saints Cyril and Methodius in Ohrid honors the Slavic apostles.",
                   "category": "historical",
                   "coords": [
                         20.799994,
@@ -1921,7 +1921,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Monument to St. Naum of Ohrid",
-                  "text": "A monument in Ohrid dedicated to Saint Naum.",
+                  "text": "Monument to St. Naum of Ohrid honors the saint associated with the region.",
                   "category": "historical",
                   "coords": [
                         20.799023,
@@ -1939,7 +1939,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Old plane tree with a forked trunk",
-                  "text": "A centuries-old plane tree with a distinctive forked trunk in Ohrid.",
+                  "text": "The old plane tree with a forked trunk is a centuries-old landmark in Ohrid.",
                   "category": "landmark",
                   "coords": [
                         20.800318,
@@ -2064,7 +2064,196 @@ export const northmacedoniaEconomicV2: POI[] = [
     image: "/poi-images/northmacedonia-kocani-rice-processing-economic-v2.webp",
   },
   {
-    id: "northmacedonia-tetovo-trade-hub-economic-v2", "sights": {"de": [{"name": "Theater", "text": "Das Theater in Tetovo ist ein Zentrum für kulturelle Aufführungen.", "category": "cultural", "coords": [20.972968, 42.009858]}, {"name": "Begov amam", "text": "Bey's Hamam in Tetovo ist ein historisches Badehaus, das heute als Museum dient.", "category": "museum", "coords": [20.967348, 42.006281]}, {"name": "Tetovsko Kale", "text": "Die Festung von Tetovo bietet Ruinen aus verschiedenen historischen Epochen.", "category": "historical", "coords": [20.960153, 42.019574]}, {"name": "terminal mitnitsa tetovo", "text": "Das Terminal Mitnitsa Tetovo ist ein lokales Denkmal in der Stadt.", "category": "historical", "coords": [20.968153, 41.997443]}, {"name": "Arabati baba-teke", "text": "Ein historisches Derwisch-Kloster in Tetovo.", "category": "landmark", "coords": [20.957197, 42.003672]}], "hu": [{"name": "Theater", "text": "A tetovói színház a kulturális előadások központja.", "category": "cultural", "coords": [20.972968, 42.009858]}, {"name": "Begov amam", "text": "A tetovói Bey Hamam egy történelmi fürdőház, amely ma múzeumként működik.", "category": "museum", "coords": [20.967348, 42.006281]}, {"name": "Tetovsko Kale", "text": "A tetovói erőd különböző történelmi korszakokból származó romokat mutat be.", "category": "historical", "coords": [20.960153, 42.019574]}, {"name": "terminal mitnitsa tetovo", "text": "A Terminal Mitnitsa Tetovo a város egyik helyi emlékműve.", "category": "historical", "coords": [20.968153, 41.997443]}, {"name": "Arabati baba-teke", "text": "Történelmi dervis kolostor Tetovóban.", "category": "landmark", "coords": [20.957197, 42.003672]}], "ro": [{"name": "Theater", "text": "Teatrul din Tetovo este un centru pentru spectacole culturale.", "category": "cultural", "coords": [20.972968, 42.009858]}, {"name": "Begov amam", "text": "Bey's Hamam din Tetovo este o baie istorică ce servește astăzi ca muzeu.", "category": "museum", "coords": [20.967348, 42.006281]}, {"name": "Tetovsko Kale", "text": "Cetatea Tetovo prezintă ruine din diverse epoci istorice.", "category": "historical", "coords": [20.960153, 42.019574]}, {"name": "terminal mitnitsa tetovo", "text": "Terminal Mitnitsa Tetovo este un monument local în oraș.", "category": "historical", "coords": [20.968153, 41.997443]}, {"name": "Arabati baba-teke", "text": "O mănăstire istorică a dervișilor din Tetovo.", "category": "landmark", "coords": [20.957197, 42.003672]}], "en": [{"name": "Theater", "text": "The theater in Tetovo is a center for cultural performances.", "category": "cultural", "coords": [20.972968, 42.009858]}, {"name": "Bey's Hamam", "text": "Bey's Hamam in Tetovo is a historical bathhouse that now functions as a museum.", "category": "museum", "coords": [20.967348, 42.006281]}, {"name": "Tetovo Fortress", "text": "Tetovo Fortress features ruins from various historical periods.", "category": "historical", "coords": [20.960153, 42.019574]}, {"name": "terminal mitnitsa tetovo", "text": "The terminal mitnitsa tetovo is a local monument in the city.", "category": "historical", "coords": [20.968153, 41.997443]}, {"name": "Arabati baba-teke", "text": "A historic dervish monastery located in Tetovo.", "category": "landmark", "coords": [20.957197, 42.003672]}]},
+    id: "northmacedonia-tetovo-trade-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theater",
+                  "text": "Das Theater in Tetovo ist die Hauptbühne der Stadt für Theaterstücke und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        20.972968,
+                        42.009858
+                  ]
+            },
+            {
+                  "name": "Begov amam",
+                  "text": "Das Bey's Hamam ist ein restauriertes osmanisches Badehausmuseum in Tetovo.",
+                  "category": "museum",
+                  "coords": [
+                        20.967348,
+                        42.006281
+                  ]
+            },
+            {
+                  "name": "Tetovsko Kale",
+                  "text": "Die Festung von Tetovo bietet Ruinen aus verschiedenen historischen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        20.960153,
+                        42.019574
+                  ]
+            },
+            {
+                  "name": "terminal mitnitsa tetovo",
+                  "text": "Das Terminal Mitnitsa Tetovo ist ein historisches Zollgebäude in Tetovo.",
+                  "category": "historical",
+                  "coords": [
+                        20.968153,
+                        41.997443
+                  ]
+            },
+            {
+                  "name": "Arabati baba-teke",
+                  "text": "Arabati baba-teke ist ein Bektaschi-Sufi-Kloster und bedeutendes Wahrzeichen in Tetovo.",
+                  "category": "landmark",
+                  "coords": [
+                        20.957197,
+                        42.003672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theater",
+                  "text": "A tetovói Színház a város fő színpada színdarabok és koncertek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        20.972968,
+                        42.009858
+                  ]
+            },
+            {
+                  "name": "Begov amam",
+                  "text": "A Bey's Hamam egy helyreállított oszmán fürdőmúzeum Tetovóban.",
+                  "category": "museum",
+                  "coords": [
+                        20.967348,
+                        42.006281
+                  ]
+            },
+            {
+                  "name": "Tetovsko Kale",
+                  "text": "A tetovói erőd különböző történelmi korszakokból származó romokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        20.960153,
+                        42.019574
+                  ]
+            },
+            {
+                  "name": "terminal mitnitsa tetovo",
+                  "text": "A Terminal Mitnitsa Tetovo egy történelmi vámépület Tetovóban.",
+                  "category": "historical",
+                  "coords": [
+                        20.968153,
+                        41.997443
+                  ]
+            },
+            {
+                  "name": "Arabati baba-teke",
+                  "text": "Az Arabati baba-teke egy bektasi szúfi rendház és fontos nevezetesség Tetovóban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.957197,
+                        42.003672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theater",
+                  "text": "Teatrul din Tetovo este principala scenă a orașului pentru piese de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        20.972968,
+                        42.009858
+                  ]
+            },
+            {
+                  "name": "Begov amam",
+                  "text": "Bey's Hamam este un muzeu restaurat de baie otomană din Tetovo.",
+                  "category": "museum",
+                  "coords": [
+                        20.967348,
+                        42.006281
+                  ]
+            },
+            {
+                  "name": "Tetovsko Kale",
+                  "text": "Cetatea Tetovo prezintă ruine din diverse epoci istorice.",
+                  "category": "historical",
+                  "coords": [
+                        20.960153,
+                        42.019574
+                  ]
+            },
+            {
+                  "name": "terminal mitnitsa tetovo",
+                  "text": "Terminalul Mitnitsa Tetovo este o clădire istorică vamală din Tetovo.",
+                  "category": "historical",
+                  "coords": [
+                        20.968153,
+                        41.997443
+                  ]
+            },
+            {
+                  "name": "Arabati baba-teke",
+                  "text": "Arabati baba-teke este un lăcaș sufit bektashian și un reper important în Tetovo.",
+                  "category": "landmark",
+                  "coords": [
+                        20.957197,
+                        42.003672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theater",
+                  "text": "The Theater in Tetovo is the city's main stage for plays and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        20.972968,
+                        42.009858
+                  ]
+            },
+            {
+                  "name": "Bey's Hamam",
+                  "text": "Bey's Hamam is a restored Ottoman bathhouse museum in Tetovo.",
+                  "category": "museum",
+                  "coords": [
+                        20.967348,
+                        42.006281
+                  ]
+            },
+            {
+                  "name": "Tetovo Fortress",
+                  "text": "Tetovo Fortress features ruins from various historical periods.",
+                  "category": "historical",
+                  "coords": [
+                        20.960153,
+                        42.019574
+                  ]
+            },
+            {
+                  "name": "terminal mitnitsa tetovo",
+                  "text": "Terminal mitnitsa Tetovo is a historical customs building in Tetovo.",
+                  "category": "historical",
+                  "coords": [
+                        20.968153,
+                        41.997443
+                  ]
+            },
+            {
+                  "name": "Arabati baba-teke",
+                  "text": "Arabati baba-teke is a Bektashi Sufi lodge and important landmark in Tetovo.",
+                  "category": "landmark",
+                  "coords": [
+                        20.957197,
+                        42.003672
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Handelszentrum Tetovo", hu: "Tetovói Kereskedelmi Központ", ro: "Centrul Comercial Tetovo", en: "Tetovo Trade Hub" },
@@ -2203,7 +2392,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Sahat Kula",
-                  "text": "Ein historischer Uhrturm und ein Wahrzeichen von Gostivar.",
+                  "text": "Sahat Kula ist ein osmanischer Uhrturm in Gostivar.",
                   "category": "historical",
                   "coords": [
                         20.910857,
@@ -2214,7 +2403,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Sahat Kula",
-                  "text": "Történelmi óratorony, amely Gostivar egyik jelképe.",
+                  "text": "A Sahat Kula egy oszmán óratorony Gostivarban.",
                   "category": "historical",
                   "coords": [
                         20.910857,
@@ -2225,7 +2414,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Sahat Kula",
-                  "text": "Un turn cu ceas istoric și un reper important al orașului Gostivar.",
+                  "text": "Sahat Kula este un turn de ceas otoman în Gostivar.",
                   "category": "historical",
                   "coords": [
                         20.910857,
@@ -2236,7 +2425,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Sahat Kula",
-                  "text": "A historical clock tower and a landmark of Gostivar.",
+                  "text": "Sahat Kula is an Ottoman clock tower in Gostivar.",
                   "category": "historical",
                   "coords": [
                         20.910857,
@@ -2293,7 +2482,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Zena",
-                  "text": "Ein Denkmal in Kumanovo, das an lokale Geschichte erinnert.",
+                  "text": "Zena ist ein historisches Denkmal in der Industriezone von Kumanovo.",
                   "category": "historical",
                   "coords": [
                         21.72005,
@@ -2320,7 +2509,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Gradski bazen",
-                  "text": "Das öffentliche Schwimmbad der Stadt Kumanovo.",
+                  "text": "Gradski bazen ist ein öffentliches Schwimmbad in Kumanovo.",
                   "category": "recreational",
                   "coords": [
                         21.726818,
@@ -2331,7 +2520,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Zena",
-                  "text": "A helyi történelemnek emléket állító emlékmű Kumanovóban.",
+                  "text": "A Zena egy történelmi emlékmű Kumanovo ipari övezetében.",
                   "category": "historical",
                   "coords": [
                         21.72005,
@@ -2358,7 +2547,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Gradski bazen",
-                  "text": "Kumanovo városi nyilvános úszómedencéje.",
+                  "text": "A Gradski bazen egy nyilvános uszoda Kumanovóban.",
                   "category": "recreational",
                   "coords": [
                         21.726818,
@@ -2369,7 +2558,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Zena",
-                  "text": "Un monument din Kumanovo care onorează istoria locală.",
+                  "text": "Zena este un monument istoric în zona industrială a orașului Kumanovo.",
                   "category": "historical",
                   "coords": [
                         21.72005,
@@ -2396,7 +2585,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Gradski bazen",
-                  "text": "Piscina publică a orașului situată în Kumanovo.",
+                  "text": "Gradski bazen este o piscină publică în Kumanovo.",
                   "category": "recreational",
                   "coords": [
                         21.726818,
@@ -2407,7 +2596,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Zena",
-                  "text": "A monument in Kumanovo commemorating local history.",
+                  "text": "Zena is a historical monument in the industrial zone of Kumanovo.",
                   "category": "historical",
                   "coords": [
                         21.72005,
@@ -2434,7 +2623,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Gradski bazen",
-                  "text": "The city's public swimming pool located in Kumanovo.",
+                  "text": "Gradski bazen is a public swimming pool in Kumanovo.",
                   "category": "recreational",
                   "coords": [
                         21.726818,
@@ -2774,7 +2963,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Olympic swimming pool - Centar ist ein Schwimmbad im Industriegebiet Gazi Baba.",
+                  "text": "Das Olympia-Schwimmbad - Centar ist eine große Schwimmbadanlage in Gazi Baba, Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -2875,7 +3064,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Az Olympic swimming pool - Centar egy uszoda a Gazi Baba ipari övezetben.",
+                  "text": "Az Olimpiai Uszoda – Centar egy nagy medencekomplexum Gazi Babában, Szkopjéban.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -2976,7 +3165,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Olympic swimming pool - Centar este o piscină situată în zona industrială Gazi Baba.",
+                  "text": "Piscina Olimpică - Centar este un complex mare de înot în Gazi Baba, Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -3077,7 +3266,7 @@ export const northmacedoniaEconomicV2: POI[] = [
             },
             {
                   "name": "Olympic swimming pool - Centar",
-                  "text": "Olympic swimming pool - Centar is a swimming pool located in the Gazi Baba Industrial Zone.",
+                  "text": "Olympic swimming pool - Centar is a large pool facility in Gazi Baba, Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.439118,

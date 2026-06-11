@@ -71,7 +71,232 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-ayubia-nationalpark-life-v2",
+    id: "pk-ayubia-nationalpark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miranjani",
+                  "text": "Der höchste Gipfel der Galyat-Region bietet aus fast 3.000 Metern Höhe einen weiten Blick auf den Himalaya.",
+                  "category": "natural",
+                  "coords": [
+                        73.407233,
+                        34.105087
+                  ]
+            },
+            {
+                  "name": "best dhaba",
+                  "text": "Ein beliebtes lokales Restaurant am Straßenrand, das traditionelle Speisen in den Bergen serviert.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468615,
+                        33.97851
+                  ]
+            },
+            {
+                  "name": "Rahat Kada Guest House",
+                  "text": "Ein Gästehaus in den kühlen Höhenlagen des Ayubia-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        73.440674,
+                        33.942148
+                  ]
+            },
+            {
+                  "name": "Majid e Bilal",
+                  "text": "Eine kleine Bergmoschee, die den Besuchern und Einheimischen in Ayubia dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473125,
+                        34.007147
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Usmania",
+                  "text": "Die zentrale Freitagsmoschee für die Gemeinde im Hochland von Ayubia.",
+                  "category": "landmark",
+                  "coords": [
+                        73.396012,
+                        33.943429
+                  ]
+            },
+            {
+                  "name": "Mohra Sharif",
+                  "text": "Ein bedeutendes spirituelles Zentrum und Schrein der Sufi-Tradition in den Bergen.",
+                  "category": "religious",
+                  "coords": [
+                        73.426676,
+                        33.945606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miranjani",
+                  "text": "A Galyat-régió legmagasabb csúcsa, ahonnan közel 3000 méteres magasságból nyílik kilátás a Himalájára.",
+                  "category": "natural",
+                  "coords": [
+                        73.407233,
+                        34.105087
+                  ]
+            },
+            {
+                  "name": "best dhaba",
+                  "text": "Népszerű helyi útszéli étterem, amely hagyományos ételeket kínál a hegyekben.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468615,
+                        33.97851
+                  ]
+            },
+            {
+                  "name": "Rahat Kada Guest House",
+                  "text": "Vendégház az Ayubia Nemzeti Park hűvös, magaslati területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.440674,
+                        33.942148
+                  ]
+            },
+            {
+                  "name": "Majid e Bilal",
+                  "text": "Kisméretű hegyi mecset, amely az Ayubia látogatóit és helyieit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473125,
+                        34.007147
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Usmania",
+                  "text": "Központi pénteki mecset az Ayubia-fennsík közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.396012,
+                        33.943429
+                  ]
+            },
+            {
+                  "name": "Mohra Sharif",
+                  "text": "A szúfi hagyomány jelentős spirituális központja és kegyhelye a hegyekben.",
+                  "category": "religious",
+                  "coords": [
+                        73.426676,
+                        33.945606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miranjani",
+                  "text": "Cel mai înalt vârf din regiunea Galyat, oferind vederi panoramice asupra Himalayei de la aproape 3.000 de metri altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        73.407233,
+                        34.105087
+                  ]
+            },
+            {
+                  "name": "best dhaba",
+                  "text": "Un restaurant local popular de la marginea drumului, care servește mâncăruri tradiționale în munți.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468615,
+                        33.97851
+                  ]
+            },
+            {
+                  "name": "Rahat Kada Guest House",
+                  "text": "O pensiune situată în zonele răcoroase de mare altitudine din Parcul Național Ayubia.",
+                  "category": "landmark",
+                  "coords": [
+                        73.440674,
+                        33.942148
+                  ]
+            },
+            {
+                  "name": "Majid e Bilal",
+                  "text": "O mică moschee de munte care deservește vizitatorii și localnicii din Ayubia.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473125,
+                        34.007147
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Usmania",
+                  "text": "Moscheea centrală de vineri pentru comunitatea din zonele muntoase din Ayubia.",
+                  "category": "landmark",
+                  "coords": [
+                        73.396012,
+                        33.943429
+                  ]
+            },
+            {
+                  "name": "Mohra Sharif",
+                  "text": "Un important centru spiritual și altar al tradiției sufi din munți.",
+                  "category": "religious",
+                  "coords": [
+                        73.426676,
+                        33.945606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miranjani",
+                  "text": "The highest peak in the Galyat region, offering expansive views of the Himalayas from nearly 3,000 metres.",
+                  "category": "natural",
+                  "coords": [
+                        73.407233,
+                        34.105087
+                  ]
+            },
+            {
+                  "name": "best dhaba",
+                  "text": "A popular local roadside eatery serving traditional food in the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468615,
+                        33.97851
+                  ]
+            },
+            {
+                  "name": "Rahat Kada Guest House",
+                  "text": "A guest house located in the cool, high-altitude areas of Ayubia National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        73.440674,
+                        33.942148
+                  ]
+            },
+            {
+                  "name": "Majid e Bilal",
+                  "text": "A small mountain mosque serving visitors and locals in Ayubia.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473125,
+                        34.007147
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Usmania",
+                  "text": "The central Friday mosque for the community in the Ayubia highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        73.396012,
+                        33.943429
+                  ]
+            },
+            {
+                  "name": "Mohra Sharif",
+                  "text": "A significant spiritual center and shrine of the Sufi tradition in the mountains.",
+                  "category": "religious",
+                  "coords": [
+                        73.426676,
+                        33.945606
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PK-KP",
     coords: [73.40, 34.02],
@@ -139,7 +364,196 @@ export const poiExtraPakistanLifeV2: POI[] = [
     },
   },
   {
-    id: "pk-changa-manga-life-v2",
+    id: "pk-changa-manga-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pagoda",
+                  "text": "Die Pagode ist eine interessante architektonische Sehenswürdigkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        74.004086,
+                        31.079976
+                  ]
+            },
+            {
+                  "name": "Changa Manga Forest and Wildlife Park",
+                  "text": "Der Changa Manga Forest and Wildlife Park ist ein großer Wildpark.",
+                  "category": "recreational",
+                  "coords": [
+                        73.967331,
+                        31.060632
+                  ]
+            },
+            {
+                  "name": "Din Poultry Farms",
+                  "text": "Die Din Poultry Farms bieten einen interessanten Aussichtspunkt über das Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        73.905345,
+                        31.108801
+                  ]
+            },
+            {
+                  "name": "Changa Mange Wildlife Park",
+                  "text": "Der Changa Mange Wildlife Park beheimatet verschiedene Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        73.996444,
+                        31.081161
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Masjid ist eine örtliche Moschee und ein Zentrum des islamischen Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        73.905136,
+                        31.110568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pagoda",
+                  "text": "A pagoda egy érdekes építészeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        74.004086,
+                        31.079976
+                  ]
+            },
+            {
+                  "name": "Changa Manga Forest and Wildlife Park",
+                  "text": "A Changa Manga Forest and Wildlife Park egy nagy vadaspark.",
+                  "category": "recreational",
+                  "coords": [
+                        73.967331,
+                        31.060632
+                  ]
+            },
+            {
+                  "name": "Din Poultry Farms",
+                  "text": "A Din Poultry Farms érdekes kilátópontot kínálnak a területre.",
+                  "category": "natural",
+                  "coords": [
+                        73.905345,
+                        31.108801
+                  ]
+            },
+            {
+                  "name": "Changa Mange Wildlife Park",
+                  "text": "A Changa Mange Wildlife Park különféle állatfajoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        73.996444,
+                        31.081161
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "A Masjid egy helyi mecset és az iszlám imádság központja.",
+                  "category": "religious",
+                  "coords": [
+                        73.905136,
+                        31.110568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pagoda",
+                  "text": "Pagoda este o atracție arhitecturală interesantă.",
+                  "category": "landmark",
+                  "coords": [
+                        74.004086,
+                        31.079976
+                  ]
+            },
+            {
+                  "name": "Changa Manga Forest and Wildlife Park",
+                  "text": "Changa Manga Forest and Wildlife Park este un mare parc de animale sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        73.967331,
+                        31.060632
+                  ]
+            },
+            {
+                  "name": "Din Poultry Farms",
+                  "text": "Din Poultry Farms oferă un punct de belvedere interesant asupra zonei.",
+                  "category": "natural",
+                  "coords": [
+                        73.905345,
+                        31.108801
+                  ]
+            },
+            {
+                  "name": "Changa Mange Wildlife Park",
+                  "text": "Parcul de animale sălbatice Changa Mange găzduiește diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        73.996444,
+                        31.081161
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Masjid este o moschee locală și un centru de rugăciune islamică.",
+                  "category": "religious",
+                  "coords": [
+                        73.905136,
+                        31.110568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pagoda",
+                  "text": "The Pagoda is an interesting architectural attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        74.004086,
+                        31.079976
+                  ]
+            },
+            {
+                  "name": "Changa Manga Forest and Wildlife Park",
+                  "text": "The Changa Manga Forest and Wildlife Park is a large wildlife park.",
+                  "category": "recreational",
+                  "coords": [
+                        73.967331,
+                        31.060632
+                  ]
+            },
+            {
+                  "name": "Din Poultry Farms",
+                  "text": "The Din Poultry Farms offer an interesting viewpoint over the grounds.",
+                  "category": "natural",
+                  "coords": [
+                        73.905345,
+                        31.108801
+                  ]
+            },
+            {
+                  "name": "Changa Mange Wildlife Park",
+                  "text": "The Changa Mange Wildlife Park is home to various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        73.996444,
+                        31.081161
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Masjid is a local mosque and a center of Islamic prayer.",
+                  "category": "religious",
+                  "coords": [
+                        73.905136,
+                        31.110568
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PK-PB",
     coords: [73.96, 31.08],
@@ -207,7 +621,1276 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-lahore-safari-life-v2",
+    id: "pk-lahore-safari-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haveli hanjra",
+                  "text": "Ein traditionelles Anwesen im Haveli-Stil in Lahore, das als Ausstellungsraum für lokale Kunst und Kultur dient.",
+                  "category": "museum",
+                  "coords": [
+                        74.235452,
+                        31.452988
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar-e-Madina",
+                  "text": "Eine Gemeinde-Moschee in Lahore, die für ihre ruhige Atmosphäre und die täglichen Gebetsversammlungen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        74.282096,
+                        31.428154
+                  ]
+            },
+            {
+                  "name": "Mosque/Imam Bargha Memoona",
+                  "text": "Ein schiitisches religiöses Zentrum in Lahore, das sowohl als Moschee als auch als Imam-Bargah für Versammlungen dient.",
+                  "category": "religious",
+                  "coords": [
+                        74.24795,
+                        31.411967
+                  ]
+            },
+            {
+                  "name": "Lake City Grand Mosque",
+                  "text": "Ein modernes architektonisches Wahrzeichen mit einer großen Kuppel, das die neue Wohnsiedlung Lake City überragt.",
+                  "category": "religious",
+                  "coords": [
+                        74.253153,
+                        31.354231
+                  ]
+            },
+            {
+                  "name": "E-2 Majid",
+                  "text": "Eine kleine Moschee im Block E-2, die als wichtiges religiöses Zentrum für die unmittelbare Nachbarschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        74.266898,
+                        31.437484
+                  ]
+            },
+            {
+                  "name": "Muhafiz Town Masjid",
+                  "text": "Ein muslimisches Gebetshaus in der Vorstadt Muhafiz Town, das den Bewohnern einen Ort der Andacht bietet.",
+                  "category": "religious",
+                  "coords": [
+                        74.218497,
+                        31.45251
+                  ]
+            },
+            {
+                  "name": "Mosque A block",
+                  "text": "Eine lokale Moschee im A-Block, die der Gemeinschaft einen Ort für die täglichen gemeinschaftlichen Gebete bietet.",
+                  "category": "religious",
+                  "coords": [
+                        74.200123,
+                        31.432036
+                  ]
+            },
+            {
+                  "name": "Uol Mosque",
+                  "text": "Ein elegantes muslimisches Gotteshaus auf dem Campus der University of Lahore für Studenten und Fakultät.",
+                  "category": "religious",
+                  "coords": [
+                        74.241374,
+                        31.391507
+                  ]
+            },
+            {
+                  "name": "H Block Market",
+                  "text": "Ein lokales Geschäftsviertel im H-Block von Lahore, das eine Vielzahl von Dienstleistern und Läden beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        74.215253,
+                        31.447318
+                  ]
+            },
+            {
+                  "name": "J Block Market",
+                  "text": "Ein belebtes Einkaufszentrum im J-Block, das die Bewohner mit Waren des täglichen Bedarfs und Gastronomie versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        74.210207,
+                        31.447874
+                  ]
+            },
+            {
+                  "name": "Jaffarabad Market",
+                  "text": "Ein lokaler Marktplatz in Jaffarabad, der für seine Auswahl an frischem Obst, Gemüse und traditionellen Snacks bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        74.264077,
+                        31.434613
+                  ]
+            },
+            {
+                  "name": "E Block Market",
+                  "text": "Ein lebhaftes Einkaufszentrum im E-Block von Valencia Town, das Anwohner mit täglichen Gebrauchsgegenständen versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        74.212393,
+                        31.438019
+                  ]
+            },
+            {
+                  "name": "C Block Market",
+                  "text": "Ein lokaler Basar im C-Block, der ein wichtiges Zentrum für den Einkauf von Lebensmitteln und Haushaltswaren in der Gemeinde darstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        74.214635,
+                        31.431405
+                  ]
+            },
+            {
+                  "name": "E- Block Commercia",
+                  "text": "Ein sich entwickelnder Geschäftsbezirk mit verschiedenen Einzelhandelsgeschäften und Dienstleistern im südlichen Teil von Lahore.",
+                  "category": "landmark",
+                  "coords": [
+                        74.222427,
+                        31.451171
+                  ]
+            },
+            {
+                  "name": "Valencia Graveyard",
+                  "text": "Ein friedlicher muslimischer Friedhof in Valencia Town, der durch seine traditionellen Grabsteine und die ruhige Atmosphäre besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        74.267013,
+                        31.398118
+                  ]
+            },
+            {
+                  "name": "Valencia Town Central Masjid",
+                  "text": "Die zentrale Moschee von Valencia Town, ein wichtiges religiöses Wahrzeichen mit beeindruckenden Minaretten und großer Gebetshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        74.261212,
+                        31.40831
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Ahle Hadees",
+                  "text": "Ein bedeutendes islamisches Gotteshaus der Ahle-Hadees-Glaubensrichtung, das für seine klaren architektonischen Linien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.266612,
+                        31.434391
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque",
+                  "text": "Eine große Gemeindemoschee in der Safari-Life-Gegend, die als spirituelles Zentrum für die täglichen Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.213575,
+                        31.439479
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Ghulzar-e-Madina",
+                  "text": "Dieses Gotteshaus dient der muslimischen Gemeinde vor Ort als Ort der Ruhe und des gemeinschaftlichen Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        74.211403,
+                        31.431059
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Darbar Wali",
+                  "text": "Eine traditionell gestaltete Moschee in Lahore, die für ihre einladende Atmosphäre während der Freitagsgebete bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.211462,
+                        31.429361
+                  ]
+            },
+            {
+                  "name": "Tricon Mosque",
+                  "text": "Ein modernes islamisches Bauwerk mit elegantem Design, das den Bewohnern der Tricon-Gegend als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.165382,
+                        31.408994
+                  ]
+            },
+            {
+                  "name": "CIIT Mosque",
+                  "text": "Diese Moschee befindet sich auf dem Campus des COMSATS-Instituts und bietet Studenten einen Raum für spirituelle Einkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        74.212249,
+                        31.401702
+                  ]
+            },
+            {
+                  "name": "Madinah Masjid",
+                  "text": "Eine kleine, aber wichtige Nachbarschaftsmoschee, die ein integraler Bestandteil des täglichen Lebens der Anwohner ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.282886,
+                        31.438625
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque Nespak D1",
+                  "text": "Eine Moschee im Nespak-Viertel, die sich durch ihre gepflegte Anlage und die traditionelle grüne Kuppel auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.280921,
+                        31.436296
+                  ]
+            },
+            {
+                  "name": "Shrine of Khaki Shah",
+                  "text": "Ein verehrter Sufi-Schrein, der dem lokalen Heiligen Khaki Shah gewidmet ist und Pilger aus der ganzen Region anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        74.284698,
+                        31.42408
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "Ein zentrales islamisches Gebetshaus in der Region, das Architektur mit spiritueller Gemeinschaft verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.228394,
+                        31.455179
+                  ]
+            },
+            {
+                  "name": "Fazil Masjid",
+                  "text": "Eine lokal bedeutsame Moschee, die als Zentrum für religiöse Bildung und tägliche Zusammenkünfte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.22657,
+                        31.456652
+                  ]
+            },
+            {
+                  "name": "Masjid Quba, J Block",
+                  "text": "Diese im J-Block gelegene Moschee ist nach der historischen Quba-Moschee benannt und dient als wichtiger lokaler Treffpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.212505,
+                        31.447194
+                  ]
+            },
+            {
+                  "name": "BHUBTIAN",
+                  "text": "Ein Aussichtspunkt in Bhubtian, der einen weiten Blick über die Hauptverkehrsstraßen und die Stadtentwicklung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        74.230534,
+                        31.397089
+                  ]
+            },
+            {
+                  "name": "DHL WH",
+                  "text": "Ein erhöhter Standort in der Nähe von Logistikzentren, der eine Perspektive auf das geschäftige industrielle Leben der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        74.250865,
+                        31.391888
+                  ]
+            },
+            {
+                  "name": "Rana Waseem WH",
+                  "text": "Ein Aussichtspunkt, der den Blick auf die umliegenden Lagerhäuser und die fortschreitende Expansion im Süden Lahores freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        74.253659,
+                        31.456563
+                  ]
+            },
+            {
+                  "name": "SHAUKAT KHANUM",
+                  "text": "Ein Aussichtspunkt in der Nähe des bekannten Shaukat-Khanum-Krankenhauses mit Blick auf das moderne Johar Town.",
+                  "category": "natural",
+                  "coords": [
+                        74.269956,
+                        31.44803
+                  ]
+            },
+            {
+                  "name": "Safaa Office",
+                  "text": "Bietet eine Perspektive auf die Geschäfts- und Bürogebäude im sich schnell entwickelnden Viertel.",
+                  "category": "natural",
+                  "coords": [
+                        74.248698,
+                        31.460763
+                  ]
+            },
+            {
+                  "name": "IES Office",
+                  "text": "Ein Standort mit Blick auf lokale Verwaltungsstrukturen und die wachsende Infrastruktur Lahores.",
+                  "category": "natural",
+                  "coords": [
+                        74.245689,
+                        31.461931
+                  ]
+            },
+            {
+                  "name": "TT Regar House",
+                  "text": "Ein lokaler Beobachtungspunkt, der Einblicke in das tägliche Leben und die Wohnarchitektur der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        74.247183,
+                        31.461032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haveli hanjra",
+                  "text": "Hagyományos haveli-stílusú birtok Lahore-ban, amely a helyi művészet és kultúra kiállítóhelyeként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        74.235452,
+                        31.452988
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar-e-Madina",
+                  "text": "Közösségi mecset Lahore-ban, amely nyugodt légköréről és napi imádságairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        74.282096,
+                        31.428154
+                  ]
+            },
+            {
+                  "name": "Mosque/Imam Bargha Memoona",
+                  "text": "Síita vallási központ Lahore-ban, amely mecsetként és Imam-bargahként is szolgál a gyülekezetek számára.",
+                  "category": "religious",
+                  "coords": [
+                        74.24795,
+                        31.411967
+                  ]
+            },
+            {
+                  "name": "Lake City Grand Mosque",
+                  "text": "Modern építészeti látványosság hatalmas kupolával, amely a Lake City lakónegyed fölé magasodik.",
+                  "category": "religious",
+                  "coords": [
+                        74.253153,
+                        31.354231
+                  ]
+            },
+            {
+                  "name": "E-2 Majid",
+                  "text": "Kisméretű mecset az E-2 blokkban, amely a közvetlen szomszédság fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        74.266898,
+                        31.437484
+                  ]
+            },
+            {
+                  "name": "Muhafiz Town Masjid",
+                  "text": "Muszlim imaház Muhafiz Town kertvárosában, amely áhítati helyet biztosít a lakók számára.",
+                  "category": "religious",
+                  "coords": [
+                        74.218497,
+                        31.45251
+                  ]
+            },
+            {
+                  "name": "Mosque A block",
+                  "text": "Helyi mecset az A-blokkban, amely közösségi helyszínt biztosít a napi közös imádkozáshoz.",
+                  "category": "religious",
+                  "coords": [
+                        74.200123,
+                        31.432036
+                  ]
+            },
+            {
+                  "name": "Uol Mosque",
+                  "text": "Elegáns muszlim imaház a Lahore-i Egyetem kampuszán, a hallgatók és az oktatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        74.241374,
+                        31.391507
+                  ]
+            },
+            {
+                  "name": "H Block Market",
+                  "text": "Helyi kereskedelmi negyed Lahore H-blokkjában, amely számos szolgáltatót és üzletet foglal magában.",
+                  "category": "cultural",
+                  "coords": [
+                        74.215253,
+                        31.447318
+                  ]
+            },
+            {
+                  "name": "J Block Market",
+                  "text": "Forgalmas bevásárlóközpont a J-blokkban, amely napi szükségleti cikkekkel és étkezési lehetőségekkel várja a lakókat.",
+                  "category": "cultural",
+                  "coords": [
+                        74.210207,
+                        31.447874
+                  ]
+            },
+            {
+                  "name": "Jaffarabad Market",
+                  "text": "Helyi piactér Jaffarabadban, amely friss gyümölcs-, zöldségválasztékáról és hagyományos ételeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        74.264077,
+                        31.434613
+                  ]
+            },
+            {
+                  "name": "E Block Market",
+                  "text": "Forgalmas bevásárlóközpont Valencia Town E-blokkjában, amely napi szükségleti cikkekkel látja el a lakókat.",
+                  "category": "cultural",
+                  "coords": [
+                        74.212393,
+                        31.438019
+                  ]
+            },
+            {
+                  "name": "C Block Market",
+                  "text": "Helyi bazár a C-blokkban, amely az élelmiszer- és háztartási cikkek vásárlásának fontos központja a közösségben.",
+                  "category": "cultural",
+                  "coords": [
+                        74.214635,
+                        31.431405
+                  ]
+            },
+            {
+                  "name": "E- Block Commercia",
+                  "text": "Fejlődő üzleti negyed különféle kiskereskedelmi üzletekkel és szolgáltatókkal Lahore déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.222427,
+                        31.451171
+                  ]
+            },
+            {
+                  "name": "Valencia Graveyard",
+                  "text": "Békés muszlim temető Valencia Townban, amely hagyományos sírköveiről és nyugodt légköréről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        74.267013,
+                        31.398118
+                  ]
+            },
+            {
+                  "name": "Valencia Town Central Masjid",
+                  "text": "Valencia Town központi mecsetje, fontos vallási helyszín lenyűgöző minaretekkel és nagy imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        74.261212,
+                        31.40831
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Ahle Hadees",
+                  "text": "Az Ahle Hadees irányzat jelentős iszlám temploma, amely letisztult építészeti vonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        74.266612,
+                        31.434391
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque",
+                  "text": "Nagy közösségi mecset a Safari Life területén, amely a napi imádságok szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        74.213575,
+                        31.439479
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Ghulzar-e-Madina",
+                  "text": "Ez a templom a helyi muszlim közösség számára a nyugalom és a közös ima helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        74.211403,
+                        31.431059
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Darbar Wali",
+                  "text": "Hagyományos tervezésű mecset Lahore-ban, amely a pénteki imák idején tapasztalható barátságos légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        74.211462,
+                        31.429361
+                  ]
+            },
+            {
+                  "name": "Tricon Mosque",
+                  "text": "Elegáns kialakítású, modern iszlám építmény, amely a Tricon terület lakói számára szolgál imahelyként.",
+                  "category": "landmark",
+                  "coords": [
+                        74.165382,
+                        31.408994
+                  ]
+            },
+            {
+                  "name": "CIIT Mosque",
+                  "text": "Ez a mecset a COMSATS Intézet kampuszán található, és spirituális elvonulást biztosít a hallgatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        74.212249,
+                        31.401702
+                  ]
+            },
+            {
+                  "name": "Madinah Masjid",
+                  "text": "Kicsi, de fontos környékbeli mecset, amely a helyi lakosok mindennapi életének szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        74.282886,
+                        31.438625
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque Nespak D1",
+                  "text": "Mecset a Nespak negyedben, amely gondozott környezetével és hagyományos zöld kupolájával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        74.280921,
+                        31.436296
+                  ]
+            },
+            {
+                  "name": "Shrine of Khaki Shah",
+                  "text": "Tisztelt szúfi szentély, amelyet Khaki Shah helyi szentnek szenteltek, és a régió minden részéről vonzza a zarándokokat.",
+                  "category": "landmark",
+                  "coords": [
+                        74.284698,
+                        31.42408
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "A régió központi iszlám imaháza, amely ötvözi az építészetet a spirituális közösséggel.",
+                  "category": "landmark",
+                  "coords": [
+                        74.228394,
+                        31.455179
+                  ]
+            },
+            {
+                  "name": "Fazil Masjid",
+                  "text": "Helyi jelentőségű mecset, amely a vallási oktatás és a napi összejövetelek központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        74.22657,
+                        31.456652
+                  ]
+            },
+            {
+                  "name": "Masjid Quba, J Block",
+                  "text": "Ez a J-blokkban található mecset a történelmi Quba mecsetről kapta a nevét, és fontos helyi találkozóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        74.212505,
+                        31.447194
+                  ]
+            },
+            {
+                  "name": "BHUBTIAN",
+                  "text": "Kilátópont Bhubtianban, ahonnan széles kilátás nyílik a fő közlekedési utakra és a városfejlesztésre.",
+                  "category": "natural",
+                  "coords": [
+                        74.230534,
+                        31.397089
+                  ]
+            },
+            {
+                  "name": "DHL WH",
+                  "text": "Logisztikai központok közelében található magaslati hely, amely rálátást biztosít a régió nyüzsgő ipari életére.",
+                  "category": "natural",
+                  "coords": [
+                        74.250865,
+                        31.391888
+                  ]
+            },
+            {
+                  "name": "Rana Waseem WH",
+                  "text": "Kilátópont, ahonnan rálátás nyílik a környező raktárakra és Lahore déli részének folyamatos terjeszkedésére.",
+                  "category": "natural",
+                  "coords": [
+                        74.253659,
+                        31.456563
+                  ]
+            },
+            {
+                  "name": "SHAUKAT KHANUM",
+                  "text": "A híres Shaukat Khanum Kórház közelében lévő kilátópont, rálátással a modern Johar Townra.",
+                  "category": "natural",
+                  "coords": [
+                        74.269956,
+                        31.44803
+                  ]
+            },
+            {
+                  "name": "Safaa Office",
+                  "text": "Betekintést nyújt a gyorsan fejlődő negyed üzleti és irodaépületeire.",
+                  "category": "natural",
+                  "coords": [
+                        74.248698,
+                        31.460763
+                  ]
+            },
+            {
+                  "name": "IES Office",
+                  "text": "Helyszín, ahonnan rálátás nyílik a helyi közigazgatási struktúrákra és Lahore növekvő infrastruktúrájára.",
+                  "category": "natural",
+                  "coords": [
+                        74.245689,
+                        31.461931
+                  ]
+            },
+            {
+                  "name": "TT Regar House",
+                  "text": "Helyi megfigyelőpont, amely betekintést nyújt a régió mindennapi életébe és lakóépületeibe.",
+                  "category": "natural",
+                  "coords": [
+                        74.247183,
+                        31.461032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haveli hanjra",
+                  "text": "O proprietate tradițională în stil haveli din Lahore, care servește ca spațiu de expoziție pentru arta și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        74.235452,
+                        31.452988
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar-e-Madina",
+                  "text": "O moschee comunitară din Lahore, cunoscută pentru atmosfera sa liniștită și adunările zilnice de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        74.282096,
+                        31.428154
+                  ]
+            },
+            {
+                  "name": "Mosque/Imam Bargha Memoona",
+                  "text": "Un centru religios șiit din Lahore, servind atât ca moschee, cât și ca Imam-bargah pentru adunări.",
+                  "category": "religious",
+                  "coords": [
+                        74.24795,
+                        31.411967
+                  ]
+            },
+            {
+                  "name": "Lake City Grand Mosque",
+                  "text": "Un punct de reper arhitectural modern, cu o cupolă grandioasă, care domină zona rezidențială Lake City.",
+                  "category": "religious",
+                  "coords": [
+                        74.253153,
+                        31.354231
+                  ]
+            },
+            {
+                  "name": "E-2 Majid",
+                  "text": "O moschee mică în blocul E-2, servind ca centru religios important pentru vecinătatea imediată.",
+                  "category": "religious",
+                  "coords": [
+                        74.266898,
+                        31.437484
+                  ]
+            },
+            {
+                  "name": "Muhafiz Town Masjid",
+                  "text": "Un lăcaș de cult musulman în suburbia Muhafiz Town, oferind un loc de devoțiune pentru locuitori.",
+                  "category": "religious",
+                  "coords": [
+                        74.218497,
+                        31.45251
+                  ]
+            },
+            {
+                  "name": "Mosque A block",
+                  "text": "O moschee locală în blocul A, oferind comunității un spațiu pentru rugăciunile colective zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        74.200123,
+                        31.432036
+                  ]
+            },
+            {
+                  "name": "Uol Mosque",
+                  "text": "Un lăcaș de cult musulman elegant, situat în campusul Universității din Lahore, pentru studenți și facultate.",
+                  "category": "religious",
+                  "coords": [
+                        74.241374,
+                        31.391507
+                  ]
+            },
+            {
+                  "name": "H Block Market",
+                  "text": "Un centru comercial local în blocul H din Lahore, care găzduiește o varietate de servicii și magazine.",
+                  "category": "cultural",
+                  "coords": [
+                        74.215253,
+                        31.447318
+                  ]
+            },
+            {
+                  "name": "J Block Market",
+                  "text": "Un centru comercial aglomerat în blocul J, care oferă locuitorilor bunuri de larg consum și opțiuni de luat masa.",
+                  "category": "cultural",
+                  "coords": [
+                        74.210207,
+                        31.447874
+                  ]
+            },
+            {
+                  "name": "Jaffarabad Market",
+                  "text": "O piață locală în Jaffarabad, cunoscută pentru selecția sa de fructe și legume proaspete și gustări tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        74.264077,
+                        31.434613
+                  ]
+            },
+            {
+                  "name": "E Block Market",
+                  "text": "Un centru comercial aglomerat în Blocul E din Valencia Town, care oferă rezidenților produse de strictă necesitate.",
+                  "category": "cultural",
+                  "coords": [
+                        74.212393,
+                        31.438019
+                  ]
+            },
+            {
+                  "name": "C Block Market",
+                  "text": "Un bazar local în Blocul C, reprezentând un centru important pentru cumpărăturile de alimente și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        74.214635,
+                        31.431405
+                  ]
+            },
+            {
+                  "name": "E- Block Commercia",
+                  "text": "Un district comercial în curs de dezvoltare, cu diverse magazine și furnizori de servicii în partea de sud a orașului Lahore.",
+                  "category": "landmark",
+                  "coords": [
+                        74.222427,
+                        31.451171
+                  ]
+            },
+            {
+                  "name": "Valencia Graveyard",
+                  "text": "Un cimitir musulman liniștit în Valencia Town, remarcabil prin pietrele funerare tradiționale și atmosfera calmă.",
+                  "category": "landmark",
+                  "coords": [
+                        74.267013,
+                        31.398118
+                  ]
+            },
+            {
+                  "name": "Valencia Town Central Masjid",
+                  "text": "Moscheea centrală din Valencia Town, un reper religios important cu minarete impresionante și o sală mare de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        74.261212,
+                        31.40831
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Ahle Hadees",
+                  "text": "Un lăcaș de cult islamic important al confesiunii Ahle Hadees, cunoscut pentru liniile sale arhitecturale clare.",
+                  "category": "landmark",
+                  "coords": [
+                        74.266612,
+                        31.434391
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque",
+                  "text": "O moschee comunitară mare în zona Safari Life, care servește ca centru spiritual pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        74.213575,
+                        31.439479
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Ghulzar-e-Madina",
+                  "text": "Acest lăcaș de cult servește comunității musulmane locale ca loc de liniște și rugăciune comună.",
+                  "category": "landmark",
+                  "coords": [
+                        74.211403,
+                        31.431059
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Darbar Wali",
+                  "text": "O moschee cu design tradițional în Lahore, cunoscută pentru atmosfera sa primitoare în timpul rugăciunilor de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        74.211462,
+                        31.429361
+                  ]
+            },
+            {
+                  "name": "Tricon Mosque",
+                  "text": "O structură islamică modernă cu un design elegant, care servește drept loc de rugăciune pentru locuitorii zonei Tricon.",
+                  "category": "landmark",
+                  "coords": [
+                        74.165382,
+                        31.408994
+                  ]
+            },
+            {
+                  "name": "CIIT Mosque",
+                  "text": "Această moschee se află în campusul Institutului COMSATS, oferind studenților un spațiu pentru reculegere spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.212249,
+                        31.401702
+                  ]
+            },
+            {
+                  "name": "Madinah Masjid",
+                  "text": "O moschee mică, dar importantă, de cartier, care este o parte integrantă a vieții de zi cu zi a rezidenților.",
+                  "category": "landmark",
+                  "coords": [
+                        74.282886,
+                        31.438625
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque Nespak D1",
+                  "text": "O moschee în cartierul Nespak, remarcabilă prin împrejurimile sale bine întreținute și domul verde tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        74.280921,
+                        31.436296
+                  ]
+            },
+            {
+                  "name": "Shrine of Khaki Shah",
+                  "text": "Un sanctuar sufit venerat, dedicat sfântului local Khaki Shah, care atrage pelerini din întreaga regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        74.284698,
+                        31.42408
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "O casă de rugăciune islamică centrală în regiune, care îmbină arhitectura cu comunitatea spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.228394,
+                        31.455179
+                  ]
+            },
+            {
+                  "name": "Fazil Masjid",
+                  "text": "O moschee importantă la nivel local, care servește ca centru pentru educația religioasă și adunările zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        74.22657,
+                        31.456652
+                  ]
+            },
+            {
+                  "name": "Masjid Quba, J Block",
+                  "text": "Situată în Blocul J, această moschee poartă numele istoricei moschei Quba și servește ca un important loc de întâlnire local.",
+                  "category": "landmark",
+                  "coords": [
+                        74.212505,
+                        31.447194
+                  ]
+            },
+            {
+                  "name": "BHUBTIAN",
+                  "text": "Un punct de observație în Bhubtian, oferind o vedere largă asupra drumurilor principale și a dezvoltării urbane.",
+                  "category": "natural",
+                  "coords": [
+                        74.230534,
+                        31.397089
+                  ]
+            },
+            {
+                  "name": "DHL WH",
+                  "text": "O locație înaltă lângă centrele logistice, oferind o perspectivă asupra vieții industriale agitate a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        74.250865,
+                        31.391888
+                  ]
+            },
+            {
+                  "name": "Rana Waseem WH",
+                  "text": "Un punct de observație care oferă o vedere asupra depozitelor din jur și a expansiunii continue în sudul orașului Lahore.",
+                  "category": "natural",
+                  "coords": [
+                        74.253659,
+                        31.456563
+                  ]
+            },
+            {
+                  "name": "SHAUKAT KHANUM",
+                  "text": "Un punct de observație lângă cunoscutul spital Shaukat Khanum, cu vedere spre modernul Johar Town.",
+                  "category": "natural",
+                  "coords": [
+                        74.269956,
+                        31.44803
+                  ]
+            },
+            {
+                  "name": "Safaa Office",
+                  "text": "Oferă o perspectivă asupra clădirilor de afaceri și birouri din cartierul în plină dezvoltare.",
+                  "category": "natural",
+                  "coords": [
+                        74.248698,
+                        31.460763
+                  ]
+            },
+            {
+                  "name": "IES Office",
+                  "text": "O locație cu vedere spre structurile administrative locale și infrastructura în creștere a orașului Lahore.",
+                  "category": "natural",
+                  "coords": [
+                        74.245689,
+                        31.461931
+                  ]
+            },
+            {
+                  "name": "TT Regar House",
+                  "text": "Un punct de observație local care oferă perspective asupra vieții de zi cu zi și a arhitecturii rezidențiale din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        74.247183,
+                        31.461032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haveli hanjra",
+                  "text": "A traditional haveli-style estate in Lahore, serving as a gallery space for local art and culture.",
+                  "category": "museum",
+                  "coords": [
+                        74.235452,
+                        31.452988
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar-e-Madina",
+                  "text": "A community mosque in Lahore, known for its serene atmosphere and daily prayer gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        74.282096,
+                        31.428154
+                  ]
+            },
+            {
+                  "name": "Mosque/Imam Bargha Memoona",
+                  "text": "A Shia religious center in Lahore, serving as both a mosque and an Imam-bargah for gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        74.24795,
+                        31.411967
+                  ]
+            },
+            {
+                  "name": "Lake City Grand Mosque",
+                  "text": "A modern architectural landmark with a grand dome serving the contemporary Lake City development.",
+                  "category": "religious",
+                  "coords": [
+                        74.253153,
+                        31.354231
+                  ]
+            },
+            {
+                  "name": "E-2 Majid",
+                  "text": "A small mosque in the E-2 block, serving as a key religious center for the immediate neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        74.266898,
+                        31.437484
+                  ]
+            },
+            {
+                  "name": "Muhafiz Town Masjid",
+                  "text": "A Muslim place of worship in the suburban Muhafiz Town, providing a place of devotion for residents.",
+                  "category": "religious",
+                  "coords": [
+                        74.218497,
+                        31.45251
+                  ]
+            },
+            {
+                  "name": "Mosque A block",
+                  "text": "A local mosque in the A-block, providing the community with a space for daily congregational prayers.",
+                  "category": "religious",
+                  "coords": [
+                        74.200123,
+                        31.432036
+                  ]
+            },
+            {
+                  "name": "Uol Mosque",
+                  "text": "An elegant Muslim place of worship located on the campus of the University of Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.241374,
+                        31.391507
+                  ]
+            },
+            {
+                  "name": "H Block Market",
+                  "text": "A local commercial area in Lahore's H-block, housing a variety of service providers and shops.",
+                  "category": "cultural",
+                  "coords": [
+                        74.215253,
+                        31.447318
+                  ]
+            },
+            {
+                  "name": "J Block Market",
+                  "text": "A busy shopping hub in the J-block, providing residents with daily necessities and dining options.",
+                  "category": "cultural",
+                  "coords": [
+                        74.210207,
+                        31.447874
+                  ]
+            },
+            {
+                  "name": "Jaffarabad Market",
+                  "text": "A local marketplace in Jaffarabad known for its selection of fresh produce and traditional street snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        74.264077,
+                        31.434613
+                  ]
+            },
+            {
+                  "name": "E Block Market",
+                  "text": "A busy neighborhood hub in Valencia Town's E Block providing daily essentials and local services to residents.",
+                  "category": "cultural",
+                  "coords": [
+                        74.212393,
+                        31.438019
+                  ]
+            },
+            {
+                  "name": "C Block Market",
+                  "text": "A local bazaar in C Block that serves as a key community hub for grocery and household shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        74.214635,
+                        31.431405
+                  ]
+            },
+            {
+                  "name": "E- Block Commercia",
+                  "text": "A developing commercial district featuring various retail outlets and service providers in the southern part of Lahore.",
+                  "category": "landmark",
+                  "coords": [
+                        74.222427,
+                        31.451171
+                  ]
+            },
+            {
+                  "name": "Valencia Graveyard",
+                  "text": "A peaceful Muslim cemetery in Valencia Town, notable for its traditional gravestones and serene atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        74.267013,
+                        31.398118
+                  ]
+            },
+            {
+                  "name": "Valencia Town Central Masjid",
+                  "text": "The primary mosque of Valencia Town, a major religious landmark featuring prominent minarets and a large prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        74.261212,
+                        31.40831
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Ahle Hadees",
+                  "text": "A significant Islamic place of worship for the Ahle Hadees denomination, known for its clean architectural lines.",
+                  "category": "landmark",
+                  "coords": [
+                        74.266612,
+                        31.434391
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque",
+                  "text": "A large community mosque in the Safari Life area that serves as a spiritual center for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        74.213575,
+                        31.439479
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Ghulzar-e-Madina",
+                  "text": "This place of worship serves the local Muslim community as a site for tranquility and communal prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        74.211403,
+                        31.431059
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Darbar Wali",
+                  "text": "A traditionally designed mosque in Lahore known for its welcoming atmosphere during Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        74.211462,
+                        31.429361
+                  ]
+            },
+            {
+                  "name": "Tricon Mosque",
+                  "text": "A modern Islamic structure with an elegant design, serving as a place of worship for the residents of the Tricon area.",
+                  "category": "landmark",
+                  "coords": [
+                        74.165382,
+                        31.408994
+                  ]
+            },
+            {
+                  "name": "CIIT Mosque",
+                  "text": "Located within the COMSATS Institute campus, this mosque provides a space for spiritual reflection for students.",
+                  "category": "landmark",
+                  "coords": [
+                        74.212249,
+                        31.401702
+                  ]
+            },
+            {
+                  "name": "Madinah Masjid",
+                  "text": "A small but vital neighborhood mosque that is an integral part of the daily life of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        74.282886,
+                        31.438625
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque Nespak D1",
+                  "text": "A mosque in the Nespak neighborhood, notable for its well-maintained surroundings and traditional green dome.",
+                  "category": "landmark",
+                  "coords": [
+                        74.280921,
+                        31.436296
+                  ]
+            },
+            {
+                  "name": "Shrine of Khaki Shah",
+                  "text": "A revered Sufi shrine dedicated to the local saint Khaki Shah, attracting pilgrims from across the region.",
+                  "category": "landmark",
+                  "coords": [
+                        74.284698,
+                        31.42408
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "A central Islamic prayer house in the region that combines architecture with spiritual community.",
+                  "category": "landmark",
+                  "coords": [
+                        74.228394,
+                        31.455179
+                  ]
+            },
+            {
+                  "name": "Fazil Masjid",
+                  "text": "A locally significant mosque serving as a hub for religious education and daily gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        74.22657,
+                        31.456652
+                  ]
+            },
+            {
+                  "name": "Masjid Quba, J Block",
+                  "text": "Located in J Block, this mosque is named after the historic Quba Mosque and serves as an important local meeting point.",
+                  "category": "landmark",
+                  "coords": [
+                        74.212505,
+                        31.447194
+                  ]
+            },
+            {
+                  "name": "BHUBTIAN",
+                  "text": "A vantage point in Bhubtian offering a wide view over the main thoroughfares and urban development.",
+                  "category": "natural",
+                  "coords": [
+                        74.230534,
+                        31.397089
+                  ]
+            },
+            {
+                  "name": "DHL WH",
+                  "text": "An elevated location near logistics hubs providing a perspective on the region's busy industrial activity.",
+                  "category": "natural",
+                  "coords": [
+                        74.250865,
+                        31.391888
+                  ]
+            },
+            {
+                  "name": "Rana Waseem WH",
+                  "text": "A viewpoint offering a look at the surrounding warehouses and the ongoing expansion in southern Lahore.",
+                  "category": "natural",
+                  "coords": [
+                        74.253659,
+                        31.456563
+                  ]
+            },
+            {
+                  "name": "SHAUKAT KHANUM",
+                  "text": "A vantage point near the prominent Shaukat Khanum Hospital, overlooking the modern Johar Town area.",
+                  "category": "natural",
+                  "coords": [
+                        74.269956,
+                        31.44803
+                  ]
+            },
+            {
+                  "name": "Safaa Office",
+                  "text": "Provides a perspective on the business and office buildings in the rapidly developing neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        74.248698,
+                        31.460763
+                  ]
+            },
+            {
+                  "name": "IES Office",
+                  "text": "A location overlooking local administrative structures and the growing infrastructure of Lahore.",
+                  "category": "natural",
+                  "coords": [
+                        74.245689,
+                        31.461931
+                  ]
+            },
+            {
+                  "name": "TT Regar House",
+                  "text": "A local observation point providing insights into the daily life and residential architecture of the region.",
+                  "category": "natural",
+                  "coords": [
+                        74.247183,
+                        31.461032
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PK-PB",
     coords: [74.21, 31.38],
@@ -275,7 +1958,52 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-lal-suhanra-life-v2",
+    id: "pk-lal-suhanra-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lal Suhanra National Park",
+                  "text": "Dieses große Biosphärenreservat in Pakistan ist einzigartig für seine Kombination aus Wüstenlandschaften, Wäldern und Feuchtgebieten.",
+                  "category": "landmark",
+                  "coords": [
+                        72.048495,
+                        29.314572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lal Suhanra National Park",
+                  "text": "Ez a nagy pakisztáni bioszféra-rezervátum egyedülálló a sivatagi tájak, erdők és vizes élőhelyek kombinációjában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.048495,
+                        29.314572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lal Suhanra National Park",
+                  "text": "Această mare rezervație a biosferei din Pakistan este unică prin combinația sa de peisaje deșertice, păduri și zone umede.",
+                  "category": "landmark",
+                  "coords": [
+                        72.048495,
+                        29.314572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lal Suhanra National Park",
+                  "text": "This large biosphere reserve in Pakistan is unique for its combination of desert landscapes, forests, and wetland habitats.",
+                  "category": "landmark",
+                  "coords": [
+                        72.048495,
+                        29.314572
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "PK-PB",
     coords: [72.08, 29.37],
@@ -343,7 +2071,88 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-margalla-hills-life-v2",
+    id: "pk-margalla-hills-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Selfie Point Trail 4",
+                  "text": "Dieser Aussichtspunkt am Wanderweg Trail 4 bietet einen weiten Panoramablick über die Stadt Islamabad und das bewaldete Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        73.043649,
+                        33.74679
+                  ]
+            },
+            {
+                  "name": "Chak Jabbi",
+                  "text": "Überreste alter Siedlungen in den Margalla-Hügeln, die Einblicke in die historische Besiedlung dieser Gebirgsregion geben.",
+                  "category": "historical",
+                  "coords": [
+                        73.032267,
+                        33.755587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Selfie Point Trail 4",
+                  "text": "Ez a kilátópont a 4-es számú túraútvonalon széles panorámát nyújt Iszlámábád városára és az erdős hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        73.043649,
+                        33.74679
+                  ]
+            },
+            {
+                  "name": "Chak Jabbi",
+                  "text": "Régi települések maradványai a Margalla-hegyen, amelyek betekintést nyújtanak a hegység történelmi lakottságába.",
+                  "category": "historical",
+                  "coords": [
+                        73.032267,
+                        33.755587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Selfie Point Trail 4",
+                  "text": "Acest punct de observație de pe traseul Trail 4 oferă o vedere panoramică largă asupra orașului Islamabad și a munților împăduriți.",
+                  "category": "natural",
+                  "coords": [
+                        73.043649,
+                        33.74679
+                  ]
+            },
+            {
+                  "name": "Chak Jabbi",
+                  "text": "Rămășițe ale unor așezări vechi din dealurile Margalla, care oferă o perspectivă asupra locuirii istorice a acestei regiuni muntoase.",
+                  "category": "historical",
+                  "coords": [
+                        73.032267,
+                        33.755587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Selfie Point Trail 4",
+                  "text": "This viewpoint on Trail 4 offers a wide panoramic view over the city of Islamabad and the forested mountains.",
+                  "category": "natural",
+                  "coords": [
+                        73.043649,
+                        33.74679
+                  ]
+            },
+            {
+                  "name": "Chak Jabbi",
+                  "text": "Remains of old settlements in the Margalla Hills, providing insight into the historical habitation of this mountain region.",
+                  "category": "historical",
+                  "coords": [
+                        73.032267,
+                        33.755587
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PK-IS",
     coords: [73.04, 33.74],
@@ -479,7 +2288,1240 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-jallo-park-life-v2",
+    id: "pk-jallo-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jallo Park",
+                  "text": "Der Jallo Park ist ein bekannter öffentlicher Park und Wildreservat, das 1978 in der Nähe von Lahore gegründet wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        74.474534,
+                        31.57177
+                  ]
+            },
+            {
+                  "name": "Lahore Grand Marquee",
+                  "text": "Das Lahore Grand Marquee ist ein elegantes Veranstaltungsgebäude im Jallo-Park-Viertel.",
+                  "category": "castle",
+                  "coords": [
+                        74.46145,
+                        31.579093
+                  ]
+            },
+            {
+                  "name": "Al Feroz house",
+                  "text": "Das Al-Feroz-Haus ist ein bemerkenswerter Privatwohnsitz in der Nähe des Jallo-Parks.",
+                  "category": "castle",
+                  "coords": [
+                        74.418254,
+                        31.557461
+                  ]
+            },
+            {
+                  "name": "Baba Qazi Shah Darbar",
+                  "text": "Baba Qazi Shah Darbar ist ein angesehenes lokales Denkmal und eine spirituelle Stätte im Jallo Park.",
+                  "category": "historical",
+                  "coords": [
+                        74.460192,
+                        31.581946
+                  ]
+            },
+            {
+                  "name": "Haveli Sardar Teja Singh Sandhu Zaildar Manhala",
+                  "text": "Dieses historische Haveli in Manhala ist ein traditionelles befestigtes Wohnhaus in der Nähe des Jallo-Parks.",
+                  "category": "fortress",
+                  "coords": [
+                        74.543504,
+                        31.527445
+                  ]
+            },
+            {
+                  "name": "Manhala Kos Minar",
+                  "text": "Manhala Kos Minar ist ein antiker Meilenstein aus der Mogulzeit in der Nähe des Jallo-Parks.",
+                  "category": "fortress",
+                  "coords": [
+                        74.527121,
+                        31.532917
+                  ]
+            },
+            {
+                  "name": "Tomb of Rehmat Ullah Shah Hazori",
+                  "text": "Das Grabmal von Rehmat Ullah Shah Hazori ist eine bedeutende Gedenkstätte im Jallo-Park-Viertel.",
+                  "category": "historical",
+                  "coords": [
+                        74.50204,
+                        31.513957
+                  ]
+            },
+            {
+                  "name": "Major Aziz Bhatti Shaheed NH place of Shahadat",
+                  "text": "Dieses Denkmal markiert den Ort des Martyriums von Major Aziz Bhatti in der Nähe des Jallo-Parks.",
+                  "category": "historical",
+                  "coords": [
+                        74.505406,
+                        31.485388
+                  ]
+            },
+            {
+                  "name": "Saien Sadaq Darbar",
+                  "text": "Saien Sadaq Darbar ist ein lokaler spiritueller Schrein und eine Gebetsstätte im Jallo Park.",
+                  "category": "religious",
+                  "coords": [
+                        74.447061,
+                        31.557247
+                  ]
+            },
+            {
+                  "name": "Mosque B Block",
+                  "text": "Die Moschee im Block B dient den religiösen Bedürfnissen der Jallo-Park-Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        74.454578,
+                        31.579796
+                  ]
+            },
+            {
+                  "name": "Jinaz Gah",
+                  "text": "Jinaz Gah ist ein spezieller Bereich für Totengebete im Jallo Park.",
+                  "category": "religious",
+                  "coords": [
+                        74.543301,
+                        31.532804
+                  ]
+            },
+            {
+                  "name": "Cavalary Ground Market",
+                  "text": "Der Cavalary Ground Market ist ein lebhaftes Einkaufsziel im Bezirk Jallo Park.",
+                  "category": "cultural",
+                  "coords": [
+                        74.428489,
+                        31.487347
+                  ]
+            },
+            {
+                  "name": "New Apostolic",
+                  "text": "Die Neuapostolische Kirche bietet Christen im Jallo Park eine geistliche Heimat.",
+                  "category": "landmark",
+                  "coords": [
+                        74.459061,
+                        31.58137
+                  ]
+            },
+            {
+                  "name": "Sati Smadh Mata Manhala",
+                  "text": "Sati Smadh Mata Manhala ist eine historische religiöse Stätte der Sikhs in der Nähe des Jallo-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        74.541674,
+                        31.529261
+                  ]
+            },
+            {
+                  "name": "Sector A",
+                  "text": "Sektor A beherbergt eine lokale muslimische Gebetsstätte im Bereich des Jallo-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        74.419527,
+                        31.537137
+                  ]
+            },
+            {
+                  "name": "Sector D",
+                  "text": "Sektor D dient den religiösen Bedürfnissen der muslimischen Bewohner in der Nähe des Jallo-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        74.41947,
+                        31.533533
+                  ]
+            },
+            {
+                  "name": "Sector B",
+                  "text": "Sektor B beherbergt eine Gemeindemoschee und ein religiöses Zentrum im Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.41318,
+                        31.537608
+                  ]
+            },
+            {
+                  "name": "Qardoba",
+                  "text": "Qardoba ist eine muslimische Gebetsstätte im Viertel Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.411349,
+                        31.533943
+                  ]
+            },
+            {
+                  "name": "Majid Alzizia AhalHadees",
+                  "text": "Majid Alzizia AhalHadees ist eine aktive Moschee für Gebete in der Gegend von Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.419731,
+                        31.545157
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar e Habib",
+                  "text": "Die Jamia Masjid Gulzar e Habib ist ein prominentes Zentrum für islamische Gottesdienste im Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.423453,
+                        31.543143
+                  ]
+            },
+            {
+                  "name": "Haji Pura Masjid",
+                  "text": "Die Haji Pura Masjid dient der lokalen muslimischen Gemeinde in der Nähe der Jallo-Park-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        74.426569,
+                        31.561585
+                  ]
+            },
+            {
+                  "name": "Dolo Doggar",
+                  "text": "Dolo Doggar ist eine lokale Stätte von religiöser Bedeutung im Jallo-Park-Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        74.450281,
+                        31.557877
+                  ]
+            },
+            {
+                  "name": "Lakkan Shrine",
+                  "text": "Der Lakkan-Schrein ist ein spirituelles Wahrzeichen und ein Ort der Andacht im Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.513525,
+                        31.607719
+                  ]
+            },
+            {
+                  "name": "Taqiya Mare Shah Masjid",
+                  "text": "Die Taqiya-Mare-Shah-Moschee ist eine traditionelle muslimische Gebetsstätte im Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.545895,
+                        31.530323
+                  ]
+            },
+            {
+                  "name": "Manhala Shahi Masjid",
+                  "text": "Eine lokale Moschee in pk-jallo-park-life-v2, die als Ort des Gebets und der Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.544429,
+                        31.531251
+                  ]
+            },
+            {
+                  "name": "Juttan Wali Masjid",
+                  "text": "Eine traditionelle muslimische Gebetsstätte für die Anwohner von pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.540737,
+                        31.526071
+                  ]
+            },
+            {
+                  "name": "Aik Minar Wali Masjid",
+                  "text": "Ein architektonisch schlichter muslimischer Sakralbau in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.427263,
+                        31.548155
+                  ]
+            },
+            {
+                  "name": "Mewati Masjid 03024437422",
+                  "text": "Eine Moschee in pk-jallo-park-life-v2, die der lokalen Bevölkerung als Gebetshaus dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.425683,
+                        31.490893
+                  ]
+            },
+            {
+                  "name": "Jamia Masid Noor Mustafa",
+                  "text": "Ein wichtiges muslimisches Zentrum für Gebete und religiöse Unterweisung in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.425888,
+                        31.496301
+                  ]
+            },
+            {
+                  "name": "Markaz Al-Hadi",
+                  "text": "Eine religiöse Einrichtung in pk-jallo-park-life-v2, die dem muslimischen Glauben gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.422976,
+                        31.500269
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Sehajpal",
+                  "text": "Eine Gemeindemoschee in pk-jallo-park-life-v2, die den täglichen Gebetsritus unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.435376,
+                        31.505651
+                  ]
+            },
+            {
+                  "name": "The Salvation Army Church Gohawa",
+                  "text": "Eine christliche Kirche der Heilsarmee, die Gottesdienste in pk-jallo-park-life-v2 anbietet. ü",
+                  "category": "landmark",
+                  "coords": [
+                        74.429899,
+                        31.491729
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Umer-e-Farooq",
+                  "text": "Ein Ort der Andacht und des muslimischen Glaubens in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.462392,
+                        31.51879
+                  ]
+            },
+            {
+                  "name": "DHA Phase 8 Masjid",
+                  "text": "Diese moderne Moschee dient der muslimischen Gemeinde in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.437035,
+                        31.510042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jallo Park",
+                  "text": "A Jallo Park egy népszerű nyilvános park és vadrezervátum Lahore közelében, amelyet 1978-ban alapítottak.",
+                  "category": "recreational",
+                  "coords": [
+                        74.474534,
+                        31.57177
+                  ]
+            },
+            {
+                  "name": "Lahore Grand Marquee",
+                  "text": "A Lahore Grand Marquee egy elegáns rendezvényhelyszín a Jallo Park környékén.",
+                  "category": "castle",
+                  "coords": [
+                        74.46145,
+                        31.579093
+                  ]
+            },
+            {
+                  "name": "Al Feroz house",
+                  "text": "Az Al Feroz ház egy nevezetes magánrezidencia a Jallo Park közelében.",
+                  "category": "castle",
+                  "coords": [
+                        74.418254,
+                        31.557461
+                  ]
+            },
+            {
+                  "name": "Baba Qazi Shah Darbar",
+                  "text": "A Baba Qazi Shah Darbar egy tisztelt helyi emlékmű és spirituális helyszín a Jallo Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        74.460192,
+                        31.581946
+                  ]
+            },
+            {
+                  "name": "Haveli Sardar Teja Singh Sandhu Zaildar Manhala",
+                  "text": "Ez a Manhalában található történelmi haveli egy hagyományos erődített lakóház a Jallo Park közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        74.543504,
+                        31.527445
+                  ]
+            },
+            {
+                  "name": "Manhala Kos Minar",
+                  "text": "A Manhala Kos Minar egy ősi, mogul korszakbeli mérföldkő a Jallo Park közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        74.527121,
+                        31.532917
+                  ]
+            },
+            {
+                  "name": "Tomb of Rehmat Ullah Shah Hazori",
+                  "text": "Rehmat Ullah Shah Hazori síremléke egy jelentős emlékhely a Jallo Park környékén.",
+                  "category": "historical",
+                  "coords": [
+                        74.50204,
+                        31.513957
+                  ]
+            },
+            {
+                  "name": "Major Aziz Bhatti Shaheed NH place of Shahadat",
+                  "text": "Ez az emlékmű Aziz Bhatti őrnagy mártíromságának helyét jelzi a Jallo Park közelében.",
+                  "category": "historical",
+                  "coords": [
+                        74.505406,
+                        31.485388
+                  ]
+            },
+            {
+                  "name": "Saien Sadaq Darbar",
+                  "text": "A Saien Sadaq Darbar egy helyi spirituális kegyhely és istentiszteleti hely a Jallo Parkban.",
+                  "category": "religious",
+                  "coords": [
+                        74.447061,
+                        31.557247
+                  ]
+            },
+            {
+                  "name": "Mosque B Block",
+                  "text": "A B blokk mecsetje a Jallo Park közösségének vallási igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        74.454578,
+                        31.579796
+                  ]
+            },
+            {
+                  "name": "Jinaz Gah",
+                  "text": "A Jinaz Gah egy temetési imákra kijelölt terület a Jallo Parkban.",
+                  "category": "religious",
+                  "coords": [
+                        74.543301,
+                        31.532804
+                  ]
+            },
+            {
+                  "name": "Cavalary Ground Market",
+                  "text": "A Cavalary Ground Market egy nyüzsgő bevásárlóhely a Jallo Park negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        74.428489,
+                        31.487347
+                  ]
+            },
+            {
+                  "name": "New Apostolic",
+                  "text": "Az Új Apostoli Egyház lelki otthont nyújt a Jallo Parkban élő keresztényeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.459061,
+                        31.58137
+                  ]
+            },
+            {
+                  "name": "Sati Smadh Mata Manhala",
+                  "text": "A Sati Smadh Mata Manhala egy történelmi szikh vallási helyszín a Jallo Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.541674,
+                        31.529261
+                  ]
+            },
+            {
+                  "name": "Sector A",
+                  "text": "Az A szektor egy helyi muszlim istentiszteleti helyet foglal magában a Jallo Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.419527,
+                        31.537137
+                  ]
+            },
+            {
+                  "name": "Sector D",
+                  "text": "A D szektor a Jallo Park környékén élő muszlim lakosok vallási igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.41947,
+                        31.533533
+                  ]
+            },
+            {
+                  "name": "Sector B",
+                  "text": "A B szektor egy közösségi mecsetnek és vallási központnak ad otthont a Jallo Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        74.41318,
+                        31.537608
+                  ]
+            },
+            {
+                  "name": "Qardoba",
+                  "text": "Qardoba egy muszlim istentiszteleti hely a Jallo Park negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        74.411349,
+                        31.533943
+                  ]
+            },
+            {
+                  "name": "Majid Alzizia AhalHadees",
+                  "text": "A Majid Alzizia AhalHadees egy aktív mecset az imádsághoz a Jallo Park környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.419731,
+                        31.545157
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar e Habib",
+                  "text": "A Jamia Masjid Gulzar e Habib az iszlám istentisztelet egyik kiemelkedő központja a Jallo Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        74.423453,
+                        31.543143
+                  ]
+            },
+            {
+                  "name": "Haji Pura Masjid",
+                  "text": "A Haji Pura Masjid a helyi muszlim közösséget szolgálja a Jallo Park régió közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.426569,
+                        31.561585
+                  ]
+            },
+            {
+                  "name": "Dolo Doggar",
+                  "text": "Dolo Doggar egy vallási jelentőségű helyi helyszín a Jallo Park környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.450281,
+                        31.557877
+                  ]
+            },
+            {
+                  "name": "Lakkan Shrine",
+                  "text": "A Lakkan kegyhely egy spirituális nevezetesség és az áhítat helyszíne a Jallo Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        74.513525,
+                        31.607719
+                  ]
+            },
+            {
+                  "name": "Taqiya Mare Shah Masjid",
+                  "text": "A Taqiya Mare Shah mecset egy hagyományos muszlim istentiszteleti hely a Jallo Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        74.545895,
+                        31.530323
+                  ]
+            },
+            {
+                  "name": "Manhala Shahi Masjid",
+                  "text": "Helyi mecset pk-jallo-park-life-v2 területén, amely imádság és közösségi összejövetelek helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        74.544429,
+                        31.531251
+                  ]
+            },
+            {
+                  "name": "Juttan Wali Masjid",
+                  "text": "Hagyományos muszlim imaház pk-jallo-park-life-v2 lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        74.540737,
+                        31.526071
+                  ]
+            },
+            {
+                  "name": "Aik Minar Wali Masjid",
+                  "text": "Egy építészetileg egyszerű muszlim szakrális épület pk-jallo-park-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.427263,
+                        31.548155
+                  ]
+            },
+            {
+                  "name": "Mewati Masjid 03024437422",
+                  "text": "Egy mecset pk-jallo-park-life-v2 területén, amely imaházként szolgál a helyi lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        74.425683,
+                        31.490893
+                  ]
+            },
+            {
+                  "name": "Jamia Masid Noor Mustafa",
+                  "text": "Fontos muszlim központ imádságok és vallási oktatás számára pk-jallo-park-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.425888,
+                        31.496301
+                  ]
+            },
+            {
+                  "name": "Markaz Al-Hadi",
+                  "text": "Vallási intézmény pk-jallo-park-life-v2 területén, amelyet a muszlim hitnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.422976,
+                        31.500269
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Sehajpal",
+                  "text": "Közösségi mecset pk-jallo-park-life-v2 területén, amely támogatja a napi imarítust.",
+                  "category": "landmark",
+                  "coords": [
+                        74.435376,
+                        31.505651
+                  ]
+            },
+            {
+                  "name": "The Salvation Army Church Gohawa",
+                  "text": "Az Üdvhadsereg keresztény temploma, amely istentiszteleteket kínál pk-jallo-park-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.429899,
+                        31.491729
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Umer-e-Farooq",
+                  "text": "Az áhítat és a muszlim hit helyszíne pk-jallo-park-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.462392,
+                        31.51879
+                  ]
+            },
+            {
+                  "name": "DHA Phase 8 Masjid",
+                  "text": "Ez a modern mecset a muszlim közösséget szolgálja pk-jallo-park-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        74.437035,
+                        31.510042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jallo Park",
+                  "text": "Parcul Jallo este un parc public și o rezervație naturală proeminentă, înființată în 1978 lângă Lahore.",
+                  "category": "recreational",
+                  "coords": [
+                        74.474534,
+                        31.57177
+                  ]
+            },
+            {
+                  "name": "Lahore Grand Marquee",
+                  "text": "Lahore Grand Marquee este o clădire elegantă pentru evenimente din zona Parcului Jallo.",
+                  "category": "castle",
+                  "coords": [
+                        74.46145,
+                        31.579093
+                  ]
+            },
+            {
+                  "name": "Al Feroz house",
+                  "text": "Casa Al Feroz este o reședință privată notabilă din vecinătatea Parcului Jallo.",
+                  "category": "castle",
+                  "coords": [
+                        74.418254,
+                        31.557461
+                  ]
+            },
+            {
+                  "name": "Baba Qazi Shah Darbar",
+                  "text": "Baba Qazi Shah Darbar este un monument local respectat și un sit spiritual din Parcul Jallo.",
+                  "category": "historical",
+                  "coords": [
+                        74.460192,
+                        31.581946
+                  ]
+            },
+            {
+                  "name": "Haveli Sardar Teja Singh Sandhu Zaildar Manhala",
+                  "text": "Această haveli istorică din Manhala este o reședință fortificată tradițională de lângă Parcul Jallo.",
+                  "category": "fortress",
+                  "coords": [
+                        74.543504,
+                        31.527445
+                  ]
+            },
+            {
+                  "name": "Manhala Kos Minar",
+                  "text": "Manhala Kos Minar este o structură antică de tip bornă kilometrică din epoca mogulă, situată lângă Parcul Jallo.",
+                  "category": "fortress",
+                  "coords": [
+                        74.527121,
+                        31.532917
+                  ]
+            },
+            {
+                  "name": "Tomb of Rehmat Ullah Shah Hazori",
+                  "text": "Mormântul lui Rehmat Ullah Shah Hazori este un sit memorial semnificativ din zona Parcului Jallo.",
+                  "category": "historical",
+                  "coords": [
+                        74.50204,
+                        31.513957
+                  ]
+            },
+            {
+                  "name": "Major Aziz Bhatti Shaheed NH place of Shahadat",
+                  "text": "Acest monument marchează locul martiriului maiorului Aziz Bhatti, lângă Parcul Jallo.",
+                  "category": "historical",
+                  "coords": [
+                        74.505406,
+                        31.485388
+                  ]
+            },
+            {
+                  "name": "Saien Sadaq Darbar",
+                  "text": "Saien Sadaq Darbar este un sanctuar spiritual local și un lăcaș de cult din Parcul Jallo.",
+                  "category": "religious",
+                  "coords": [
+                        74.447061,
+                        31.557247
+                  ]
+            },
+            {
+                  "name": "Mosque B Block",
+                  "text": "Moscheea din Blocul B servește nevoile religioase ale comunității din Parcul Jallo.",
+                  "category": "religious",
+                  "coords": [
+                        74.454578,
+                        31.579796
+                  ]
+            },
+            {
+                  "name": "Jinaz Gah",
+                  "text": "Jinaz Gah este o zonă dedicată rugăciunilor funerare, situată în Parcul Jallo.",
+                  "category": "religious",
+                  "coords": [
+                        74.543301,
+                        31.532804
+                  ]
+            },
+            {
+                  "name": "Cavalary Ground Market",
+                  "text": "Cavalary Ground Market este o destinație de cumpărături animată din districtul Parcului Jallo.",
+                  "category": "cultural",
+                  "coords": [
+                        74.428489,
+                        31.487347
+                  ]
+            },
+            {
+                  "name": "New Apostolic",
+                  "text": "Biserica Nouapostolică oferă o casă spirituală pentru creștinii din Parcul Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.459061,
+                        31.58137
+                  ]
+            },
+            {
+                  "name": "Sati Smadh Mata Manhala",
+                  "text": "Sati Smadh Mata Manhala este un sit religios sikh istoric situat lângă Parcul Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.541674,
+                        31.529261
+                  ]
+            },
+            {
+                  "name": "Sector A",
+                  "text": "Sectorul A conține un lăcaș de cult musulman local în zona Parcului Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.419527,
+                        31.537137
+                  ]
+            },
+            {
+                  "name": "Sector D",
+                  "text": "Sectorul D deservește nevoile religioase ale rezidenților musulmani din vecinătatea Parcului Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.41947,
+                        31.533533
+                  ]
+            },
+            {
+                  "name": "Sector B",
+                  "text": "Sectorul B găzduiește o moschee comunitară și un centru religios în Parcul Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.41318,
+                        31.537608
+                  ]
+            },
+            {
+                  "name": "Qardoba",
+                  "text": "Qardoba este un lăcaș de cult musulman situat în cartierul Parcului Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.411349,
+                        31.533943
+                  ]
+            },
+            {
+                  "name": "Majid Alzizia AhalHadees",
+                  "text": "Majid Alzizia AhalHadees este o moschee activă pentru rugăciune în zona Parcului Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.419731,
+                        31.545157
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar e Habib",
+                  "text": "Jamia Masjid Gulzar e Habib este un centru proeminent pentru cultul islamic din Parcul Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.423453,
+                        31.543143
+                  ]
+            },
+            {
+                  "name": "Haji Pura Masjid",
+                  "text": "Haji Pura Masjid servește comunitatea musulmană locală de lângă regiunea Parcului Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.426569,
+                        31.561585
+                  ]
+            },
+            {
+                  "name": "Dolo Doggar",
+                  "text": "Dolo Doggar este un sit local cu semnificație religioasă din zona Parcului Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.450281,
+                        31.557877
+                  ]
+            },
+            {
+                  "name": "Lakkan Shrine",
+                  "text": "Sanctuarul Lakkan este un reper spiritual și un loc de devoțiune în Parcul Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.513525,
+                        31.607719
+                  ]
+            },
+            {
+                  "name": "Taqiya Mare Shah Masjid",
+                  "text": "Moscheea Taqiya Mare Shah este un lăcaș de cult musulman tradițional din Parcul Jallo.",
+                  "category": "landmark",
+                  "coords": [
+                        74.545895,
+                        31.530323
+                  ]
+            },
+            {
+                  "name": "Manhala Shahi Masjid",
+                  "text": "O moschee locală în pk-jallo-park-life-v2, care servește ca loc de rugăciune și adunare a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        74.544429,
+                        31.531251
+                  ]
+            },
+            {
+                  "name": "Juttan Wali Masjid",
+                  "text": "Un lăcaș de cult musulman tradițional pentru rezidenții din pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.540737,
+                        31.526071
+                  ]
+            },
+            {
+                  "name": "Aik Minar Wali Masjid",
+                  "text": "Un edificiu sacru musulman simplu din punct de vedere arhitectural în pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.427263,
+                        31.548155
+                  ]
+            },
+            {
+                  "name": "Mewati Masjid 03024437422",
+                  "text": "O moschee în pk-jallo-park-life-v2 care servește drept casă de rugăciune pentru populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.425683,
+                        31.490893
+                  ]
+            },
+            {
+                  "name": "Jamia Masid Noor Mustafa",
+                  "text": "Un centru musulman important pentru rugăciuni și instruire religioasă în pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.425888,
+                        31.496301
+                  ]
+            },
+            {
+                  "name": "Markaz Al-Hadi",
+                  "text": "O instituție religioasă în pk-jallo-park-life-v2 dedicată credinței musulmane.",
+                  "category": "landmark",
+                  "coords": [
+                        74.422976,
+                        31.500269
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Sehajpal",
+                  "text": "O moschee comunitară în pk-jallo-park-life-v2 care susține ritualul zilnic de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        74.435376,
+                        31.505651
+                  ]
+            },
+            {
+                  "name": "The Salvation Army Church Gohawa",
+                  "text": "O biserică creștină a Armatei Salvării care oferă servicii religioase în pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.429899,
+                        31.491729
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Umer-e-Farooq",
+                  "text": "Un loc de devoțiune și de credință musulmană în pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.462392,
+                        31.51879
+                  ]
+            },
+            {
+                  "name": "DHA Phase 8 Masjid",
+                  "text": "Această moschee modernă deservește comunitatea musulmană din pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.437035,
+                        31.510042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jallo Park",
+                  "text": "Jallo Park is a prominent public park and wildlife preserve established in 1978 near Lahore.",
+                  "category": "recreational",
+                  "coords": [
+                        74.474534,
+                        31.57177
+                  ]
+            },
+            {
+                  "name": "Lahore Grand Marquee",
+                  "text": "Lahore Grand Marquee is an elegant venue building in the Jallo Park area.",
+                  "category": "castle",
+                  "coords": [
+                        74.46145,
+                        31.579093
+                  ]
+            },
+            {
+                  "name": "Al Feroz house",
+                  "text": "Al Feroz house is a notable private residence in the vicinity of Jallo Park.",
+                  "category": "castle",
+                  "coords": [
+                        74.418254,
+                        31.557461
+                  ]
+            },
+            {
+                  "name": "Baba Qazi Shah Darbar",
+                  "text": "Baba Qazi Shah Darbar is a respected local monument and spiritual site in Jallo Park.",
+                  "category": "historical",
+                  "coords": [
+                        74.460192,
+                        31.581946
+                  ]
+            },
+            {
+                  "name": "Haveli Sardar Teja Singh Sandhu Zaildar Manhala",
+                  "text": "This historic haveli in Manhala is a traditional fortified residence near Jallo Park.",
+                  "category": "fortress",
+                  "coords": [
+                        74.543504,
+                        31.527445
+                  ]
+            },
+            {
+                  "name": "Manhala Kos Minar",
+                  "text": "Manhala Kos Minar is an ancient Mughal-era milestone structure located near Jallo Park.",
+                  "category": "fortress",
+                  "coords": [
+                        74.527121,
+                        31.532917
+                  ]
+            },
+            {
+                  "name": "Tomb of Rehmat Ullah Shah Hazori",
+                  "text": "The Tomb of Rehmat Ullah Shah Hazori is a significant memorial site in the Jallo Park area.",
+                  "category": "historical",
+                  "coords": [
+                        74.50204,
+                        31.513957
+                  ]
+            },
+            {
+                  "name": "Major Aziz Bhatti Shaheed NH place of Shahadat",
+                  "text": "This monument marks the place of martyrdom of Major Aziz Bhatti near Jallo Park.",
+                  "category": "historical",
+                  "coords": [
+                        74.505406,
+                        31.485388
+                  ]
+            },
+            {
+                  "name": "Saien Sadaq Darbar",
+                  "text": "Saien Sadaq Darbar is a local spiritual shrine and place of worship in Jallo Park.",
+                  "category": "religious",
+                  "coords": [
+                        74.447061,
+                        31.557247
+                  ]
+            },
+            {
+                  "name": "Mosque B Block",
+                  "text": "The Mosque in B Block serves the religious needs of the Jallo Park community.",
+                  "category": "religious",
+                  "coords": [
+                        74.454578,
+                        31.579796
+                  ]
+            },
+            {
+                  "name": "Jinaz Gah",
+                  "text": "Jinaz Gah is a dedicated area for funeral prayers located within Jallo Park.",
+                  "category": "religious",
+                  "coords": [
+                        74.543301,
+                        31.532804
+                  ]
+            },
+            {
+                  "name": "Cavalary Ground Market",
+                  "text": "Cavalary Ground Market is a bustling shopping destination in the Jallo Park district.",
+                  "category": "cultural",
+                  "coords": [
+                        74.428489,
+                        31.487347
+                  ]
+            },
+            {
+                  "name": "New Apostolic",
+                  "text": "The New Apostolic Church provides a spiritual home for Christians in Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.459061,
+                        31.58137
+                  ]
+            },
+            {
+                  "name": "Sati Smadh Mata Manhala",
+                  "text": "Sati Smadh Mata Manhala is a historical Sikh religious site located near Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.541674,
+                        31.529261
+                  ]
+            },
+            {
+                  "name": "Sector A",
+                  "text": "Sector A contains a local Muslim place of worship within the Jallo Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        74.419527,
+                        31.537137
+                  ]
+            },
+            {
+                  "name": "Sector D",
+                  "text": "Sector D serves the religious needs of Muslim residents in the Jallo Park vicinity.",
+                  "category": "landmark",
+                  "coords": [
+                        74.41947,
+                        31.533533
+                  ]
+            },
+            {
+                  "name": "Sector B",
+                  "text": "Sector B is home to a community mosque and religious center in Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.41318,
+                        31.537608
+                  ]
+            },
+            {
+                  "name": "Qardoba",
+                  "text": "Qardoba is a Muslim place of worship located in the Jallo Park neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        74.411349,
+                        31.533943
+                  ]
+            },
+            {
+                  "name": "Majid Alzizia AhalHadees",
+                  "text": "Majid Alzizia AhalHadees is an active mosque for prayer in the Jallo Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        74.419731,
+                        31.545157
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar e Habib",
+                  "text": "Jamia Masjid Gulzar e Habib is a prominent center for Islamic worship in Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.423453,
+                        31.543143
+                  ]
+            },
+            {
+                  "name": "Haji Pura Masjid",
+                  "text": "Haji Pura Masjid serves the local Muslim community near the Jallo Park region.",
+                  "category": "landmark",
+                  "coords": [
+                        74.426569,
+                        31.561585
+                  ]
+            },
+            {
+                  "name": "Dolo Doggar",
+                  "text": "Dolo Doggar is a local site of religious significance in the Jallo Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        74.450281,
+                        31.557877
+                  ]
+            },
+            {
+                  "name": "Lakkan Shrine",
+                  "text": "Lakkan Shrine is a spiritual landmark and place of devotion in Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.513525,
+                        31.607719
+                  ]
+            },
+            {
+                  "name": "Taqiya Mare Shah Masjid",
+                  "text": "Taqiya Mare Shah Masjid is a traditional Muslim place of worship in Jallo Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.545895,
+                        31.530323
+                  ]
+            },
+            {
+                  "name": "Manhala Shahi Masjid",
+                  "text": "A local mosque providing a place for prayer and community gathering in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.544429,
+                        31.531251
+                  ]
+            },
+            {
+                  "name": "Juttan Wali Masjid",
+                  "text": "A traditional muslim place of worship for the residents of pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.540737,
+                        31.526071
+                  ]
+            },
+            {
+                  "name": "Aik Minar Wali Masjid",
+                  "text": "An architecturally simple muslim sacred building in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.427263,
+                        31.548155
+                  ]
+            },
+            {
+                  "name": "Mewati Masjid 03024437422",
+                  "text": "A mosque in pk-jallo-park-life-v2 serving as a house of prayer for the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        74.425683,
+                        31.490893
+                  ]
+            },
+            {
+                  "name": "Jamia Masid Noor Mustafa",
+                  "text": "An important muslim center for prayers and religious instruction in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.425888,
+                        31.496301
+                  ]
+            },
+            {
+                  "name": "Markaz Al-Hadi",
+                  "text": "A religious institution in pk-jallo-park-life-v2 dedicated to the muslim faith.",
+                  "category": "landmark",
+                  "coords": [
+                        74.422976,
+                        31.500269
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Sehajpal",
+                  "text": "A community mosque in pk-jallo-park-life-v2 supporting the daily prayer ritual.",
+                  "category": "landmark",
+                  "coords": [
+                        74.435376,
+                        31.505651
+                  ]
+            },
+            {
+                  "name": "The Salvation Army Church Gohawa",
+                  "text": "A Christian church of The Salvation Army offering services in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.429899,
+                        31.491729
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Umer-e-Farooq",
+                  "text": "A place of devotion and muslim faith in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.462392,
+                        31.51879
+                  ]
+            },
+            {
+                  "name": "DHA Phase 8 Masjid",
+                  "text": "This modern mosque serves the muslim community in pk-jallo-park-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        74.437035,
+                        31.510042
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PK-PB",
     coords: [74.46, 31.56],
@@ -547,7 +3589,1348 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-joyland-lahore-life-v2",
+    id: "pk-joyland-lahore-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bell AH-1 Cobra",
+                  "text": "Die Bell AH-1 Cobra ist ein als Attraktion ausgestellter Kampfhubschrauber im Lahore-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        74.398598,
+                        31.532494
+                  ]
+            },
+            {
+                  "name": "S-60",
+                  "text": "Die S-60 ist ein historisches Flugabwehrgeschütz, das in Lahore ausgestellt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        74.398315,
+                        31.531585
+                  ]
+            },
+            {
+                  "name": "Model Town Central Park",
+                  "text": "Der Model Town Central Park ist ein bekannter öffentlicher Park und Erholungsort in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.326152,
+                        31.484563
+                  ]
+            },
+            {
+                  "name": "Gulshan-e-Iqbal Park",
+                  "text": "Der Gulshan-e-Iqbal Park ist ein großer Freizeitpark in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.289105,
+                        31.51341
+                  ]
+            },
+            {
+                  "name": "Lodhi camp PAF Base Lahore",
+                  "text": "Das Lodhi camp PAF Base Lahore ist eine militärische Anlage in Lahore.",
+                  "category": "castle",
+                  "coords": [
+                        74.39412,
+                        31.530173
+                  ]
+            },
+            {
+                  "name": "Abdul Rehman Chughtai Museum",
+                  "text": "Das Abdul Rehman Chughtai Museum ist eine kulturelle Einrichtung in Lahore.",
+                  "category": "museum",
+                  "coords": [
+                        74.330467,
+                        31.505781
+                  ]
+            },
+            {
+                  "name": "Ejaz Art Gallery",
+                  "text": "Die Ejaz Art Gallery ist eine Kunstgalerie in Lahore.",
+                  "category": "museum",
+                  "coords": [
+                        74.352438,
+                        31.513966
+                  ]
+            },
+            {
+                  "name": "Mian Azhar's Home",
+                  "text": "Mian Azhar's Home ist ein bedeutendes Bauwerk in Lahore.",
+                  "category": "castle",
+                  "coords": [
+                        74.294257,
+                        31.474806
+                  ]
+            },
+            {
+                  "name": "Expo Center",
+                  "text": "Das Expo Center in Lahore ist ein Ausstellungszentrum für verschiedene Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        74.261148,
+                        31.464866
+                  ]
+            },
+            {
+                  "name": "Baba Qutab Shah Mazar",
+                  "text": "Das Baba Qutab Shah Mazar ist ein Denkmal und Schrein in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.348995,
+                        31.501983
+                  ]
+            },
+            {
+                  "name": "Metal Eagle",
+                  "text": "Khayaban-e-Iqbal ist ein Denkmal in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.356891,
+                        31.476361
+                  ]
+            },
+            {
+                  "name": "Bab-e-Pakistan",
+                  "text": "Das Bab-e-Pakistan ist ein bedeutendes Denkmal in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.357112,
+                        31.480186
+                  ]
+            },
+            {
+                  "name": "Faisal Auditorium",
+                  "text": "Das Faisal Auditorium ist ein Theater- und Veranstaltungsort in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.308506,
+                        31.503489
+                  ]
+            },
+            {
+                  "name": "Shalimar Theatre",
+                  "text": "Das Shalimar Theatre ist eine Bühne für darstellende Künste in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.418903,
+                        31.485677
+                  ]
+            },
+            {
+                  "name": "open air",
+                  "text": "Das Open Air Theatre ist ein Freilufttheater in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.330748,
+                        31.514112
+                  ]
+            },
+            {
+                  "name": "Naqshbandi Masjid HKS PAK",
+                  "text": "Die Naqshbandi Masjid HKS PAK ist ein Gotteshaus in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.402966,
+                        31.481632
+                  ]
+            },
+            {
+                  "name": "Eid Gha",
+                  "text": "Nishat park ist ein religiös genutzter Platz in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.386023,
+                        31.495284
+                  ]
+            },
+            {
+                  "name": "Masjid Hassan",
+                  "text": "Die Masjid Hassan ist eine Andachtsstätte in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.376648,
+                        31.489069
+                  ]
+            },
+            {
+                  "name": "Noor-ul-Huda",
+                  "text": "Noor-ul-Huda ist ein islamisches Gotteshaus in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.293147,
+                        31.432574
+                  ]
+            },
+            {
+                  "name": "Umer Farooq Masjid",
+                  "text": "Die Umer Farooq Masjid ist ein Gotteshaus in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.302422,
+                        31.440148
+                  ]
+            },
+            {
+                  "name": "Taqwaa Masjid",
+                  "text": "Die Taqwaa Masjid ist ein Andachtsort in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.293663,
+                        31.439262
+                  ]
+            },
+            {
+                  "name": "Darbar",
+                  "text": "Der Darbar ist ein Schrein und Gotteshaus in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.404069,
+                        31.491644
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muzafar",
+                  "text": "Die Masjid Al-Muzafar ist eine Moschee in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.38901,
+                        31.486431
+                  ]
+            },
+            {
+                  "name": "W Block Mosque",
+                  "text": "Die W Block Mosque ist eine lokale Moschee in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.3765,
+                        31.477466
+                  ]
+            },
+            {
+                  "name": "Main Falcon Mosque",
+                  "text": "Die Main Falcon Mosque ist ein islamisches Gotteshaus in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.349775,
+                        31.494666
+                  ]
+            },
+            {
+                  "name": "C Block Mosque",
+                  "text": "Die C Block Mosque ist eine Moschee in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.327357,
+                        31.493105
+                  ]
+            },
+            {
+                  "name": "K Block Mosque",
+                  "text": "Die K Block Mosque ist eine religiöse Stätte in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.312836,
+                        31.487697
+                  ]
+            },
+            {
+                  "name": "G Block Masjid",
+                  "text": "Die G Block Masjid ist eine Moschee für die Bewohner in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.324184,
+                        31.476513
+                  ]
+            },
+            {
+                  "name": "Waqas Market",
+                  "text": "Der Waqas Market ist ein lokaler Marktplatz in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.406561,
+                        31.496807
+                  ]
+            },
+            {
+                  "name": "Fortress Market",
+                  "text": "Der Fortress Market ist ein belebter Marktplatz in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.364238,
+                        31.533203
+                  ]
+            },
+            {
+                  "name": "Rahat Marketplace",
+                  "text": "Der Rahat Marketplace ist ein lokales Einkaufsgebiet in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.376938,
+                        31.529478
+                  ]
+            },
+            {
+                  "name": "G Block MARKET DHA",
+                  "text": "Der G Block MARKET DHA ist ein lokaler Marktplatz in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.394212,
+                        31.484221
+                  ]
+            },
+            {
+                  "name": "H Block Market",
+                  "text": "Der H Block Market ist ein kommerzieller Marktplatz in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.395596,
+                        31.482254
+                  ]
+            },
+            {
+                  "name": "Block A Market Place",
+                  "text": "Der Block A Market Place ist ein lokaler Markt in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.330328,
+                        31.4828
+                  ]
+            },
+            {
+                  "name": "Bank Square Market - C Block",
+                  "text": "Der Bank Square Market im C Block ist ein Einkaufsbereich in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.325984,
+                        31.488477
+                  ]
+            },
+            {
+                  "name": "Raja Market",
+                  "text": "Der Raja Market ist ein traditioneller Marktplatz in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.326309,
+                        31.510268
+                  ]
+            },
+            {
+                  "name": "Bakar Mandi Lahore",
+                  "text": "Bakar Mandi ist ein spezialisierter Marktplatz in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.341584,
+                        31.51567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bell AH-1 Cobra",
+                  "text": "A Bell AH-1 Cobra egy kiállított harci helikopter és látványosság Lahore-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        74.398598,
+                        31.532494
+                  ]
+            },
+            {
+                  "name": "S-60",
+                  "text": "Az S-60 egy történelmi légvédelmi ágyú, amely Lahore-ban tekinthető meg.",
+                  "category": "landmark",
+                  "coords": [
+                        74.398315,
+                        31.531585
+                  ]
+            },
+            {
+                  "name": "Model Town Central Park",
+                  "text": "A Model Town Central Park egy ismert nyilvános park és pihenőhely Lahore-ban.",
+                  "category": "park",
+                  "coords": [
+                        74.326152,
+                        31.484563
+                  ]
+            },
+            {
+                  "name": "Gulshan-e-Iqbal Park",
+                  "text": "A Gulshan-e-Iqbal Park egy nagy szabadidőpark Lahore városában.",
+                  "category": "park",
+                  "coords": [
+                        74.289105,
+                        31.51341
+                  ]
+            },
+            {
+                  "name": "Lodhi camp PAF Base Lahore",
+                  "text": "A Lodhi camp PAF Base Lahore egy katonai létesítmény Lahore területén.",
+                  "category": "castle",
+                  "coords": [
+                        74.39412,
+                        31.530173
+                  ]
+            },
+            {
+                  "name": "Abdul Rehman Chughtai Museum",
+                  "text": "Az Abdul Rehman Chughtai Museum egy kulturális intézmény Lahore városában.",
+                  "category": "museum",
+                  "coords": [
+                        74.330467,
+                        31.505781
+                  ]
+            },
+            {
+                  "name": "Ejaz Art Gallery",
+                  "text": "Az Ejaz Art Gallery egy művészeti galéria Lahore területén.",
+                  "category": "museum",
+                  "coords": [
+                        74.352438,
+                        31.513966
+                  ]
+            },
+            {
+                  "name": "Mian Azhar's Home",
+                  "text": "A Mian Azhar's Home egy jelentős épület Lahore városában.",
+                  "category": "castle",
+                  "coords": [
+                        74.294257,
+                        31.474806
+                  ]
+            },
+            {
+                  "name": "Expo Center",
+                  "text": "A lahore-i Expo Center különféle rendezvényeknek otthont adó kiállítási központ.",
+                  "category": "museum",
+                  "coords": [
+                        74.261148,
+                        31.464866
+                  ]
+            },
+            {
+                  "name": "Baba Qutab Shah Mazar",
+                  "text": "A Baba Qutab Shah Mazar egy emlékmű és szentély Lahore városában.",
+                  "category": "historical",
+                  "coords": [
+                        74.348995,
+                        31.501983
+                  ]
+            },
+            {
+                  "name": "Metal Eagle",
+                  "text": "A Khayaban-e-Iqbal egy emlékmű Lahore területén.",
+                  "category": "historical",
+                  "coords": [
+                        74.356891,
+                        31.476361
+                  ]
+            },
+            {
+                  "name": "Bab-e-Pakistan",
+                  "text": "A Bab-e-Pakistan egy jelentős nemzeti emlékmű Lahore-ban.",
+                  "category": "historical",
+                  "coords": [
+                        74.357112,
+                        31.480186
+                  ]
+            },
+            {
+                  "name": "Faisal Auditorium",
+                  "text": "A Faisal Auditorium egy színház és rendezvényközpont Lahore városában.",
+                  "category": "cultural",
+                  "coords": [
+                        74.308506,
+                        31.503489
+                  ]
+            },
+            {
+                  "name": "Shalimar Theatre",
+                  "text": "A Shalimar Theatre egy előadó-művészeti létesítmény Lahore területén.",
+                  "category": "cultural",
+                  "coords": [
+                        74.418903,
+                        31.485677
+                  ]
+            },
+            {
+                  "name": "open air",
+                  "text": "Az Open Air Theatre egy szabadtéri színház Lahore városában.",
+                  "category": "cultural",
+                  "coords": [
+                        74.330748,
+                        31.514112
+                  ]
+            },
+            {
+                  "name": "Naqshbandi Masjid HKS PAK",
+                  "text": "A Naqshbandi Masjid HKS PAK egy vallási imahely Lahore területén.",
+                  "category": "religious",
+                  "coords": [
+                        74.402966,
+                        31.481632
+                  ]
+            },
+            {
+                  "name": "Eid Gha",
+                  "text": "A Nishat park egy vallási célokat is szolgáló hely Lahore városában.",
+                  "category": "religious",
+                  "coords": [
+                        74.386023,
+                        31.495284
+                  ]
+            },
+            {
+                  "name": "Masjid Hassan",
+                  "text": "A Masjid Hassan egy imaház Lahore területén.",
+                  "category": "religious",
+                  "coords": [
+                        74.376648,
+                        31.489069
+                  ]
+            },
+            {
+                  "name": "Noor-ul-Huda",
+                  "text": "A Noor-ul-Huda egy istentiszteleti hely Lahore városában.",
+                  "category": "religious",
+                  "coords": [
+                        74.293147,
+                        31.432574
+                  ]
+            },
+            {
+                  "name": "Umer Farooq Masjid",
+                  "text": "Az Umer Farooq Masjid egy vallási épület Lahore területén.",
+                  "category": "religious",
+                  "coords": [
+                        74.302422,
+                        31.440148
+                  ]
+            },
+            {
+                  "name": "Taqwaa Masjid",
+                  "text": "A Taqwaa Masjid egy imaház Lahore városában.",
+                  "category": "religious",
+                  "coords": [
+                        74.293663,
+                        31.439262
+                  ]
+            },
+            {
+                  "name": "Darbar",
+                  "text": "A Darbar egy szentély és imahely Lahore területén.",
+                  "category": "religious",
+                  "coords": [
+                        74.404069,
+                        31.491644
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muzafar",
+                  "text": "A Masjid Al-Muzafar egy mecset Lahore városában.",
+                  "category": "religious",
+                  "coords": [
+                        74.38901,
+                        31.486431
+                  ]
+            },
+            {
+                  "name": "W Block Mosque",
+                  "text": "A W Block Mosque egy helyi közösségi mecset Lahore területén.",
+                  "category": "religious",
+                  "coords": [
+                        74.3765,
+                        31.477466
+                  ]
+            },
+            {
+                  "name": "Main Falcon Mosque",
+                  "text": "A Main Falcon Mosque egy iszlám imahely Lahore városában.",
+                  "category": "religious",
+                  "coords": [
+                        74.349775,
+                        31.494666
+                  ]
+            },
+            {
+                  "name": "C Block Mosque",
+                  "text": "A C Block Mosque egy mecset Lahore területén.",
+                  "category": "religious",
+                  "coords": [
+                        74.327357,
+                        31.493105
+                  ]
+            },
+            {
+                  "name": "K Block Mosque",
+                  "text": "A K Block Mosque egy vallási imahely Lahore városában.",
+                  "category": "religious",
+                  "coords": [
+                        74.312836,
+                        31.487697
+                  ]
+            },
+            {
+                  "name": "G Block Masjid",
+                  "text": "A G Block Masjid egy mecset Lahore lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        74.324184,
+                        31.476513
+                  ]
+            },
+            {
+                  "name": "Waqas Market",
+                  "text": "A Waqas Market egy helyi piac Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.406561,
+                        31.496807
+                  ]
+            },
+            {
+                  "name": "Fortress Market",
+                  "text": "A Fortress Market egy nyüzsgő piac Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.364238,
+                        31.533203
+                  ]
+            },
+            {
+                  "name": "Rahat Marketplace",
+                  "text": "A Rahat Marketplace egy helyi bevásárlónegyed Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.376938,
+                        31.529478
+                  ]
+            },
+            {
+                  "name": "G Block MARKET DHA",
+                  "text": "A G Block MARKET DHA egy szomszédsági piac Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.394212,
+                        31.484221
+                  ]
+            },
+            {
+                  "name": "H Block Market",
+                  "text": "A H Block Market egy kereskedelmi piac Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.395596,
+                        31.482254
+                  ]
+            },
+            {
+                  "name": "Block A Market Place",
+                  "text": "A Block A Market Place egy helyi piac Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.330328,
+                        31.4828
+                  ]
+            },
+            {
+                  "name": "Bank Square Market - C Block",
+                  "text": "A C blokkban található Bank Square Market egy bevásárlóterület Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.325984,
+                        31.488477
+                  ]
+            },
+            {
+                  "name": "Raja Market",
+                  "text": "A Raja Market egy hagyományos piac Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.326309,
+                        31.510268
+                  ]
+            },
+            {
+                  "name": "Bakar Mandi Lahore",
+                  "text": "A Bakar Mandi egy speciális piac Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.341584,
+                        31.51567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bell AH-1 Cobra",
+                  "text": "Bell AH-1 Cobra este un elicopter de atac expus ca atracție în Lahore.",
+                  "category": "landmark",
+                  "coords": [
+                        74.398598,
+                        31.532494
+                  ]
+            },
+            {
+                  "name": "S-60",
+                  "text": "S-60 este un tun antiaerian istoric expus ca atracție în Lahore.",
+                  "category": "landmark",
+                  "coords": [
+                        74.398315,
+                        31.531585
+                  ]
+            },
+            {
+                  "name": "Model Town Central Park",
+                  "text": "Model Town Central Park este un parc public binecunoscut și loc de recreere în Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.326152,
+                        31.484563
+                  ]
+            },
+            {
+                  "name": "Gulshan-e-Iqbal Park",
+                  "text": "Gulshan-e-Iqbal Park este un parc de recreere mare din Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.289105,
+                        31.51341
+                  ]
+            },
+            {
+                  "name": "Lodhi camp PAF Base Lahore",
+                  "text": "Lodhi camp PAF Base Lahore este o instalație militară din Lahore.",
+                  "category": "castle",
+                  "coords": [
+                        74.39412,
+                        31.530173
+                  ]
+            },
+            {
+                  "name": "Abdul Rehman Chughtai Museum",
+                  "text": "Abdul Rehman Chughtai Museum este o instituție culturală din Lahore.",
+                  "category": "museum",
+                  "coords": [
+                        74.330467,
+                        31.505781
+                  ]
+            },
+            {
+                  "name": "Ejaz Art Gallery",
+                  "text": "Ejaz Art Gallery este o galerie de artă din Lahore.",
+                  "category": "museum",
+                  "coords": [
+                        74.352438,
+                        31.513966
+                  ]
+            },
+            {
+                  "name": "Mian Azhar's Home",
+                  "text": "Mian Azhar's Home este o clădire notabilă din Lahore.",
+                  "category": "castle",
+                  "coords": [
+                        74.294257,
+                        31.474806
+                  ]
+            },
+            {
+                  "name": "Expo Center",
+                  "text": "Expo Center din Lahore este un centru de expoziții pentru diverse evenimente.",
+                  "category": "museum",
+                  "coords": [
+                        74.261148,
+                        31.464866
+                  ]
+            },
+            {
+                  "name": "Baba Qutab Shah Mazar",
+                  "text": "Baba Qutab Shah Mazar este un monument și altar în Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.348995,
+                        31.501983
+                  ]
+            },
+            {
+                  "name": "Metal Eagle",
+                  "text": "Khayaban-e-Iqbal este un monument din Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.356891,
+                        31.476361
+                  ]
+            },
+            {
+                  "name": "Bab-e-Pakistan",
+                  "text": "Bab-e-Pakistan este un monument important din Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.357112,
+                        31.480186
+                  ]
+            },
+            {
+                  "name": "Faisal Auditorium",
+                  "text": "Faisal Auditorium este un teatru și sală de evenimente din Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.308506,
+                        31.503489
+                  ]
+            },
+            {
+                  "name": "Shalimar Theatre",
+                  "text": "Shalimar Theatre este un loc pentru artele spectacolului în Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.418903,
+                        31.485677
+                  ]
+            },
+            {
+                  "name": "open air",
+                  "text": "Open Air este un teatru în aer liber din Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.330748,
+                        31.514112
+                  ]
+            },
+            {
+                  "name": "Naqshbandi Masjid HKS PAK",
+                  "text": "Naqshbandi Masjid HKS PAK este un lăcaș de cult din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.402966,
+                        31.481632
+                  ]
+            },
+            {
+                  "name": "Eid Gha",
+                  "text": "Nishat park este un lăcaș de cult și spațiu religios din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.386023,
+                        31.495284
+                  ]
+            },
+            {
+                  "name": "Masjid Hassan",
+                  "text": "Masjid Hassan este un loc de rugăciune în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.376648,
+                        31.489069
+                  ]
+            },
+            {
+                  "name": "Noor-ul-Huda",
+                  "text": "Noor-ul-Huda este un lăcaș de cult din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.293147,
+                        31.432574
+                  ]
+            },
+            {
+                  "name": "Umer Farooq Masjid",
+                  "text": "Umer Farooq Masjid este o clădire religioasă din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.302422,
+                        31.440148
+                  ]
+            },
+            {
+                  "name": "Taqwaa Masjid",
+                  "text": "Taqwaa Masjid este un loc de cult în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.293663,
+                        31.439262
+                  ]
+            },
+            {
+                  "name": "Darbar",
+                  "text": "Darbar este un lăcaș de cult din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.404069,
+                        31.491644
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muzafar",
+                  "text": "Masjid Al-Muzafar este o moschee situată în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.38901,
+                        31.486431
+                  ]
+            },
+            {
+                  "name": "W Block Mosque",
+                  "text": "W Block Mosque este o moschee de cartier din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.3765,
+                        31.477466
+                  ]
+            },
+            {
+                  "name": "Main Falcon Mosque",
+                  "text": "Main Falcon Mosque este o moschee islamică din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.349775,
+                        31.494666
+                  ]
+            },
+            {
+                  "name": "C Block Mosque",
+                  "text": "C Block Mosque este o moschee în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.327357,
+                        31.493105
+                  ]
+            },
+            {
+                  "name": "K Block Mosque",
+                  "text": "K Block Mosque este o moschee din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.312836,
+                        31.487697
+                  ]
+            },
+            {
+                  "name": "G Block Masjid",
+                  "text": "G Block Masjid este o moschee locală din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.324184,
+                        31.476513
+                  ]
+            },
+            {
+                  "name": "Waqas Market",
+                  "text": "Waqas Market este o piață locală din Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.406561,
+                        31.496807
+                  ]
+            },
+            {
+                  "name": "Fortress Market",
+                  "text": "Fortress Market este o piață plină de viață situată în Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.364238,
+                        31.533203
+                  ]
+            },
+            {
+                  "name": "Rahat Marketplace",
+                  "text": "Rahat Marketplace este o zonă comercială locală din Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.376938,
+                        31.529478
+                  ]
+            },
+            {
+                  "name": "G Block MARKET DHA",
+                  "text": "G Block MARKET DHA este o piață de cartier din Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.394212,
+                        31.484221
+                  ]
+            },
+            {
+                  "name": "H Block Market",
+                  "text": "H Block Market este o piață comercială din Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.395596,
+                        31.482254
+                  ]
+            },
+            {
+                  "name": "Block A Market Place",
+                  "text": "Block A Market Place este o piață locală care funcționează în Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.330328,
+                        31.4828
+                  ]
+            },
+            {
+                  "name": "Bank Square Market - C Block",
+                  "text": "Bank Square Market din C Block este o zonă comercială din Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.325984,
+                        31.488477
+                  ]
+            },
+            {
+                  "name": "Raja Market",
+                  "text": "Raja Market este o piață tradițională situată în Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.326309,
+                        31.510268
+                  ]
+            },
+            {
+                  "name": "Bakar Mandi Lahore",
+                  "text": "Bakar Mandi este o piață specializată situată în Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.341584,
+                        31.51567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bell AH-1 Cobra",
+                  "text": "The Bell AH-1 Cobra is an attack helicopter displayed as an attraction in Lahore.",
+                  "category": "landmark",
+                  "coords": [
+                        74.398598,
+                        31.532494
+                  ]
+            },
+            {
+                  "name": "S-60",
+                  "text": "The S-60 is a historical anti-aircraft gun exhibited as an attraction in Lahore.",
+                  "category": "landmark",
+                  "coords": [
+                        74.398315,
+                        31.531585
+                  ]
+            },
+            {
+                  "name": "Model Town Central Park",
+                  "text": "Model Town Central Park is a well-known public park and recreation area in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.326152,
+                        31.484563
+                  ]
+            },
+            {
+                  "name": "Gulshan-e-Iqbal Park",
+                  "text": "Gulshan-e-Iqbal Park is a large recreational park located in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.289105,
+                        31.51341
+                  ]
+            },
+            {
+                  "name": "Lodhi camp PAF Base Lahore",
+                  "text": "Lodhi camp PAF Base Lahore is a military-related site in Lahore.",
+                  "category": "castle",
+                  "coords": [
+                        74.39412,
+                        31.530173
+                  ]
+            },
+            {
+                  "name": "Abdul Rehman Chughtai Museum",
+                  "text": "Abdul Rehman Chughtai Museum is a cultural institution in Lahore.",
+                  "category": "museum",
+                  "coords": [
+                        74.330467,
+                        31.505781
+                  ]
+            },
+            {
+                  "name": "Ejaz Art Gallery",
+                  "text": "Ejaz Art Gallery is an art gallery located in Lahore.",
+                  "category": "museum",
+                  "coords": [
+                        74.352438,
+                        31.513966
+                  ]
+            },
+            {
+                  "name": "Mian Azhar's Home",
+                  "text": "Mian Azhar's Home is a notable architectural structure in Lahore.",
+                  "category": "castle",
+                  "coords": [
+                        74.294257,
+                        31.474806
+                  ]
+            },
+            {
+                  "name": "Expo Center",
+                  "text": "The Expo Center in Lahore is an exhibition facility for various events.",
+                  "category": "museum",
+                  "coords": [
+                        74.261148,
+                        31.464866
+                  ]
+            },
+            {
+                  "name": "Baba Qutab Shah Mazar",
+                  "text": "Baba Qutab Shah Mazar is a monument and shrine located in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.348995,
+                        31.501983
+                  ]
+            },
+            {
+                  "name": "Khayaban-e-Iqbal",
+                  "text": "Khayaban-e-Iqbal is a monument situated in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.356891,
+                        31.476361
+                  ]
+            },
+            {
+                  "name": "Bab-e-Pakistan",
+                  "text": "Bab-e-Pakistan is a significant national monument in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.357112,
+                        31.480186
+                  ]
+            },
+            {
+                  "name": "Faisal Auditorium",
+                  "text": "Faisal Auditorium is a theater and event venue in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.308506,
+                        31.503489
+                  ]
+            },
+            {
+                  "name": "Shalimar Theatre",
+                  "text": "Shalimar Theatre is a venue for performing arts in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.418903,
+                        31.485677
+                  ]
+            },
+            {
+                  "name": "open air",
+                  "text": "The open air venue is an outdoor theater in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.330748,
+                        31.514112
+                  ]
+            },
+            {
+                  "name": "Naqshbandi Masjid HKS PAK",
+                  "text": "Naqshbandi Masjid HKS PAK is a place of worship in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.402966,
+                        31.481632
+                  ]
+            },
+            {
+                  "name": "Nishat park",
+                  "text": "Nishat park serves as a place of worship in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.386023,
+                        31.495284
+                  ]
+            },
+            {
+                  "name": "Masjid Hassan",
+                  "text": "Masjid Hassan is a place of worship situated in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.376648,
+                        31.489069
+                  ]
+            },
+            {
+                  "name": "Noor-ul-Huda",
+                  "text": "Noor-ul-Huda is a place of worship in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.293147,
+                        31.432574
+                  ]
+            },
+            {
+                  "name": "Umer Farooq Masjid",
+                  "text": "Umer Farooq Masjid is a religious place of worship in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.302422,
+                        31.440148
+                  ]
+            },
+            {
+                  "name": "Taqwaa Masjid",
+                  "text": "Taqwaa Masjid is a place of worship located in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.293663,
+                        31.439262
+                  ]
+            },
+            {
+                  "name": "Darbar",
+                  "text": "Darbar is a shrine and place of worship in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.404069,
+                        31.491644
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muzafar",
+                  "text": "Masjid Al-Muzafar is a mosque located in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.38901,
+                        31.486431
+                  ]
+            },
+            {
+                  "name": "W Block Mosque",
+                  "text": "W Block Mosque is a local community mosque in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.3765,
+                        31.477466
+                  ]
+            },
+            {
+                  "name": "Main Falcon Mosque",
+                  "text": "Main Falcon Mosque is an Islamic place of worship in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.349775,
+                        31.494666
+                  ]
+            },
+            {
+                  "name": "C Block Mosque",
+                  "text": "C Block Mosque is a mosque situated in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.327357,
+                        31.493105
+                  ]
+            },
+            {
+                  "name": "K Block Mosque",
+                  "text": "K Block Mosque is a local mosque in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.312836,
+                        31.487697
+                  ]
+            },
+            {
+                  "name": "G Block Masjid",
+                  "text": "G Block Masjid is a neighborhood mosque in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.324184,
+                        31.476513
+                  ]
+            },
+            {
+                  "name": "Waqas Market",
+                  "text": "Waqas Market is a local marketplace located in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.406561,
+                        31.496807
+                  ]
+            },
+            {
+                  "name": "Fortress Market",
+                  "text": "Fortress Market is a bustling marketplace situated in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.364238,
+                        31.533203
+                  ]
+            },
+            {
+                  "name": "Rahat Marketplace",
+                  "text": "Rahat Marketplace is a local shopping area located in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.376938,
+                        31.529478
+                  ]
+            },
+            {
+                  "name": "G Block MARKET DHA",
+                  "text": "G Block MARKET DHA is a neighborhood marketplace situated in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.394212,
+                        31.484221
+                  ]
+            },
+            {
+                  "name": "H Block Market",
+                  "text": "H Block Market is a commercial marketplace found in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.395596,
+                        31.482254
+                  ]
+            },
+            {
+                  "name": "Block A Market Place",
+                  "text": "Block A Market Place is a local market operating in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.330328,
+                        31.4828
+                  ]
+            },
+            {
+                  "name": "Bank Square Market - C Block",
+                  "text": "Bank Square Market in C Block is a shopping area located in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.325984,
+                        31.488477
+                  ]
+            },
+            {
+                  "name": "Raja Market",
+                  "text": "Raja Market is a traditional marketplace situated in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.326309,
+                        31.510268
+                  ]
+            },
+            {
+                  "name": "Bakar Mandi Lahore",
+                  "text": "Bakar Mandi is a specialized marketplace located in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.341584,
+                        31.51567
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "PK-PB",
     coords: [74.34, 31.51],
@@ -615,7 +4998,160 @@ export const poiExtraPakistanLifeV2: POI[] = [
     },
   },
   {
-    id: "pk-punjab-wheat-life-v2",
+    id: "pk-punjab-wheat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Darbar Warraich Shareef",
+                  "text": "Ein verehrter muslimischer Schrein im landwirtschaftlichen Kernland von Punjab, der von lokalen Gläubigen auf der Suche nach Segen und spirituellem Trost besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        73.015245,
+                        31.010481
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Chak 443 GB Warraichan",
+                  "text": "Die Haupt-Freitagsmoschee, die der ländlichen Gemeinde von Chak 443 GB mit geräumigen Hallen für wöchentliche Gemeindegebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.016395,
+                        31.021341
+                  ]
+            },
+            {
+                  "name": "Masjid Chak 443 GB Warraichan",
+                  "text": "Eine lokale Dorfmoschee, die einen ruhigen, engagierten Ort für die tägliche islamische Anbetung im Weizenanbaugebiet von Punjab bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.019065,
+                        31.022138
+                  ]
+            },
+            {
+                  "name": "Galla Mandi",
+                  "text": "Ein geschäftiger landwirtschaftlicher Getreidemarkt, auf dem sich lokale Bauern aus den Ebenen des Punjab versammeln, um ihren Weizen und ihre saisonalen Ernten zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        73.135533,
+                        31.032535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Darbar Warraich Shareef",
+                  "text": "Tisztelt muszlim szentély Pandzsáb mezőgazdasági szívében, amelyet helyi hívők látogatnak áldást és spirituális vigaszt keresve.",
+                  "category": "landmark",
+                  "coords": [
+                        73.015245,
+                        31.010481
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Chak 443 GB Warraichan",
+                  "text": "A Chak 443 GB vidéki közösségét szolgáló fő pénteki mecset, tágas termekkel a heti gyülekezeti imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        73.016395,
+                        31.021341
+                  ]
+            },
+            {
+                  "name": "Masjid Chak 443 GB Warraichan",
+                  "text": "Egy helyi falusi mecset, amely csendes, dedikált helyet biztosít a napi iszlám istentisztelet számára Pandzsáb búzatermelő kerületében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.019065,
+                        31.022138
+                  ]
+            },
+            {
+                  "name": "Galla Mandi",
+                  "text": "Egy nyüzsgő mezőgazdasági gabonapiac, ahol a pandzsábi síkság helyi gazdái összegyűlnek, hogy búzával és szezonális termésükkel kereskedjenek.",
+                  "category": "cultural",
+                  "coords": [
+                        73.135533,
+                        31.032535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Darbar Warraich Shareef",
+                  "text": "Un altar musulman venerat în inima agricolă a Punjabului, vizitat de credincioșii locali care caută binecuvântări și alinare spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        73.015245,
+                        31.010481
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Chak 443 GB Warraichan",
+                  "text": "Principala moschee de vineri care deservește comunitatea rurală din Chak 443 GB, având săli spațioase pentru rugăciunile comune săptămânale.",
+                  "category": "landmark",
+                  "coords": [
+                        73.016395,
+                        31.021341
+                  ]
+            },
+            {
+                  "name": "Masjid Chak 443 GB Warraichan",
+                  "text": "O moschee locală de sat care oferă un loc liniștit, dedicat pentru închinarea islamică zilnică în districtul cultivat cu grâu din Punjab.",
+                  "category": "landmark",
+                  "coords": [
+                        73.019065,
+                        31.022138
+                  ]
+            },
+            {
+                  "name": "Galla Mandi",
+                  "text": "O piață agricolă de cereale plină de viață, unde fermierii locali din câmpiile Punjabului se adună pentru a face comerț cu grâul și recoltele lor sezoniere.",
+                  "category": "cultural",
+                  "coords": [
+                        73.135533,
+                        31.032535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Darbar Warraich Shareef",
+                  "text": "A revered Muslim shrine in the agricultural heartland of Punjab, visited by local devotees seeking blessings and spiritual solace.",
+                  "category": "landmark",
+                  "coords": [
+                        73.015245,
+                        31.010481
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Chak 443 GB Warraichan",
+                  "text": "The primary Friday mosque serving the rural community of Chak 443 GB with spacious halls for weekly congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.016395,
+                        31.021341
+                  ]
+            },
+            {
+                  "name": "Masjid Chak 443 GB Warraichan",
+                  "text": "A local village mosque providing a quiet, dedicated place for daily Islamic worship within the wheat-farming district of Punjab.",
+                  "category": "landmark",
+                  "coords": [
+                        73.019065,
+                        31.022138
+                  ]
+            },
+            {
+                  "name": "Galla Mandi",
+                  "text": "A bustling agricultural grain market where local farmers from the Punjab plains gather to trade their wheat and seasonal harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        73.135533,
+                        31.032535
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "PK-PB",
     coords: [73.10, 31.00],
@@ -683,7 +5219,736 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-multan-mango-life-v2",
+    id: "pk-multan-mango-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jheel",
+                  "text": "Jheel ist ein malerischer Aussichtspunkt mit entspannendem Blick aufs Wasser in Multan.",
+                  "category": "natural",
+                  "coords": [
+                        71.416725,
+                        30.178804
+                  ]
+            },
+            {
+                  "name": "chah sham lot wala old shujabad road multan",
+                  "text": "Chah Sham Lot Wala an der Old Shujabad Road ist eine schlossähnliche Anlage in Multan.",
+                  "category": "castle",
+                  "coords": [
+                        71.444979,
+                        30.159949
+                  ]
+            },
+            {
+                  "name": "Chaman Zar-E-Askari",
+                  "text": "Chaman Zar-E-Askari ist ein ansprechender Freizeitpark für die Bewohner von Multan.",
+                  "category": "recreational",
+                  "coords": [
+                        71.413493,
+                        30.178649
+                  ]
+            },
+            {
+                  "name": "Ali park",
+                  "text": "Der Ali Park ist eine urbane Sehenswürdigkeit und öffentliche Grünfläche in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.394063,
+                        30.194828
+                  ]
+            },
+            {
+                  "name": "Masjid Street 9",
+                  "text": "Die Masjid Street 9 ist eine lokale islamische Kultstätte in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.432226,
+                        30.170002
+                  ]
+            },
+            {
+                  "name": "Awano Wali Masjid Basti Awan Wali",
+                  "text": "Die Awano Wali Masjid in Basti Awan Wali ist eine lokale Moschee in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.432505,
+                        30.168607
+                  ]
+            },
+            {
+                  "name": "Masjid Basti Awan Wali",
+                  "text": "Die Masjid Basti Awan Wali ist eine aktive islamische Moschee in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.431131,
+                        30.168607
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Rehmat E Habibullah",
+                  "text": "Die Jamia Masjid Rehmat E Habibullah ist eine markante Moschee in der Region Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.457211,
+                        30.158489
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Farooq e Azam Madina Abad.",
+                  "text": "Die Jamia Masjid Farooq e Azam in Madina Abad ist eine islamische Kultstätte in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.447225,
+                        30.173886
+                  ]
+            },
+            {
+                  "name": "Jamia masjid Farooqia",
+                  "text": "Die Jamia Masjid Farooqia ist eine zentrale Moschee für die islamische Gemeinde in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.438413,
+                        30.16489
+                  ]
+            },
+            {
+                  "name": "Almadina Mosque",
+                  "text": "Die Almadina Mosque ist ein religiöser Ort des islamischen Gebets in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.44244,
+                        30.15938
+                  ]
+            },
+            {
+                  "name": "PIR PAKHU DARBAR",
+                  "text": "Pir Pakhu Darbar ist ein heiliger Ort der Anbetung in Multan.",
+                  "category": "religious",
+                  "coords": [
+                        71.431131,
+                        30.163608
+                  ]
+            },
+            {
+                  "name": "Sahaba Masjid",
+                  "text": "Die Sahaba Masjid ist eine islamische Gebetsstätte in der Stadt Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.402451,
+                        30.164598
+                  ]
+            },
+            {
+                  "name": "Khalid Bin Waleed",
+                  "text": "Khalid Bin Waleed ist eine lokale Moschee für den islamischen Gottesdienst in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.404733,
+                        30.16378
+                  ]
+            },
+            {
+                  "name": "Gausia Masjid",
+                  "text": "Die Gausia Masjid ist eine Gemeindemoschee für die muslimische Bevölkerung von Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.375573,
+                        30.145332
+                  ]
+            },
+            {
+                  "name": "Shershah Jamia Masjid",
+                  "text": "Die Shershah Jamia Masjid ist eine bedeutende islamische Kultstätte in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.347672,
+                        30.09666
+                  ]
+            },
+            {
+                  "name": "Radhe Krishna Temple",
+                  "text": "Der Radhe Krishna Temple ist eine buddhistische Kultstätte in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.490174,
+                        30.092435
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Madni",
+                  "text": "Die Jamia Masjid Madni ist eine Moschee für die lokale islamische Gemeinde in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.456103,
+                        30.133218
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Redeemer",
+                  "text": "Die Cathedral of the Holy Redeemer ist eine historische christliche Kathedrale in Multan.",
+                  "category": "religious",
+                  "coords": [
+                        71.431751,
+                        30.182712
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "Die Jamia Masjid ist eine Moschee in Multan, in der sich Gläubige zum Gebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        71.448673,
+                        30.14794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jheel",
+                  "text": "A Jheel egy festői kilátó, amely pihentető kilátást nyújt a vízre Multánban.",
+                  "category": "natural",
+                  "coords": [
+                        71.416725,
+                        30.178804
+                  ]
+            },
+            {
+                  "name": "chah sham lot wala old shujabad road multan",
+                  "text": "A Chah Sham Lot Wala a régi Shujabad úton egy kastélyszerű építmény Multánban.",
+                  "category": "castle",
+                  "coords": [
+                        71.444979,
+                        30.159949
+                  ]
+            },
+            {
+                  "name": "Chaman Zar-E-Askari",
+                  "text": "A Chaman Zar-E-Askari egy kellemes vidámpark Multán lakosai számára.",
+                  "category": "recreational",
+                  "coords": [
+                        71.413493,
+                        30.178649
+                  ]
+            },
+            {
+                  "name": "Ali park",
+                  "text": "Az Ali Park egy városi látványosság és nyilvános zöldterület Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.394063,
+                        30.194828
+                  ]
+            },
+            {
+                  "name": "Masjid Street 9",
+                  "text": "A Masjid Street 9 egy helyi iszlám istentiszteleti hely Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.432226,
+                        30.170002
+                  ]
+            },
+            {
+                  "name": "Awano Wali Masjid Basti Awan Wali",
+                  "text": "Az Awano Wali Masjid Basti Awan Wali-ban egy helyi mecset Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.432505,
+                        30.168607
+                  ]
+            },
+            {
+                  "name": "Masjid Basti Awan Wali",
+                  "text": "A Masjid Basti Awan Wali egy aktív iszlám mecset Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.431131,
+                        30.168607
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Rehmat E Habibullah",
+                  "text": "A Jamia Masjid Rehmat E Habibullah egy kiemelkedő mecset a multáni régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.457211,
+                        30.158489
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Farooq e Azam Madina Abad.",
+                  "text": "A Jamia Masjid Farooq e Azam Madina Abadban egy iszlám istentiszteleti hely Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.447225,
+                        30.173886
+                  ]
+            },
+            {
+                  "name": "Jamia masjid Farooqia",
+                  "text": "A Jamia Masjid Farooqia egy központi mecset az iszlám közösség számára Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.438413,
+                        30.16489
+                  ]
+            },
+            {
+                  "name": "Almadina Mosque",
+                  "text": "Az Almadina Mosque az iszlám ima vallási helyszíne Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.44244,
+                        30.15938
+                  ]
+            },
+            {
+                  "name": "PIR PAKHU DARBAR",
+                  "text": "A Pir Pakhu Darbar egy szent istentiszteleti hely Multánban.",
+                  "category": "religious",
+                  "coords": [
+                        71.431131,
+                        30.163608
+                  ]
+            },
+            {
+                  "name": "Sahaba Masjid",
+                  "text": "A Sahaba Masjid egy iszlám imaház Multán városában.",
+                  "category": "landmark",
+                  "coords": [
+                        71.402451,
+                        30.164598
+                  ]
+            },
+            {
+                  "name": "Khalid Bin Waleed",
+                  "text": "A Khalid Bin Waleed egy helyi mecset az iszlám istentisztelet számára Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.404733,
+                        30.16378
+                  ]
+            },
+            {
+                  "name": "Gausia Masjid",
+                  "text": "A Gausia Masjid egy közösségi mecset Multán muszlim lakossága számára.",
+                  "category": "landmark",
+                  "coords": [
+                        71.375573,
+                        30.145332
+                  ]
+            },
+            {
+                  "name": "Shershah Jamia Masjid",
+                  "text": "A Shershah Jamia Masjid egy jelentős iszlám istentiszteleti hely Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.347672,
+                        30.09666
+                  ]
+            },
+            {
+                  "name": "Radhe Krishna Temple",
+                  "text": "A Radhe Krishna Temple egy buddhista istentiszteleti hely Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.490174,
+                        30.092435
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Madni",
+                  "text": "A Jamia Masjid Madni egy mecset a helyi iszlám közösség számára Multánban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.456103,
+                        30.133218
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Redeemer",
+                  "text": "A Cathedral of the Holy Redeemer egy történelmi keresztény katedrális Multánban.",
+                  "category": "religious",
+                  "coords": [
+                        71.431751,
+                        30.182712
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "A Jamia Masjid egy mecset Multánban, ahol a hívők imádkozni gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        71.448673,
+                        30.14794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jheel",
+                  "text": "Jheel este un punct de belvedere pitoresc care oferă vedere la apă în Multan.",
+                  "category": "natural",
+                  "coords": [
+                        71.416725,
+                        30.178804
+                  ]
+            },
+            {
+                  "name": "chah sham lot wala old shujabad road multan",
+                  "text": "Chah Sham Lot Wala de pe vechiul drum Shujabad este o structură de tip castel din Multan.",
+                  "category": "castle",
+                  "coords": [
+                        71.444979,
+                        30.159949
+                  ]
+            },
+            {
+                  "name": "Chaman Zar-E-Askari",
+                  "text": "Chaman Zar-E-Askari este un parc tematic atractiv pentru locuitorii din Multan.",
+                  "category": "recreational",
+                  "coords": [
+                        71.413493,
+                        30.178649
+                  ]
+            },
+            {
+                  "name": "Ali park",
+                  "text": "Ali Park este o atracție urbană și un spațiu verde public în Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.394063,
+                        30.194828
+                  ]
+            },
+            {
+                  "name": "Masjid Street 9",
+                  "text": "Masjid Street 9 este un lăcaș de cult islamic local din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.432226,
+                        30.170002
+                  ]
+            },
+            {
+                  "name": "Awano Wali Masjid Basti Awan Wali",
+                  "text": "Awano Wali Masjid din Basti Awan Wali este o moschee locală din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.432505,
+                        30.168607
+                  ]
+            },
+            {
+                  "name": "Masjid Basti Awan Wali",
+                  "text": "Masjid Basti Awan Wali este o moschee islamică activă din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.431131,
+                        30.168607
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Rehmat E Habibullah",
+                  "text": "Jamia Masjid Rehmat E Habibullah este o moschee importantă din regiunea Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.457211,
+                        30.158489
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Farooq e Azam Madina Abad.",
+                  "text": "Jamia Masjid Farooq e Azam din Madina Abad este un lăcaș de cult islamic din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.447225,
+                        30.173886
+                  ]
+            },
+            {
+                  "name": "Jamia masjid Farooqia",
+                  "text": "Jamia Masjid Farooqia este o moschee centrală pentru comunitatea islamică din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.438413,
+                        30.16489
+                  ]
+            },
+            {
+                  "name": "Almadina Mosque",
+                  "text": "Moscheea Almadina este un loc religios de rugăciune islamică în Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.44244,
+                        30.15938
+                  ]
+            },
+            {
+                  "name": "PIR PAKHU DARBAR",
+                  "text": "Pir Pakhu Darbar este un lăcaș de cult sacru din Multan.",
+                  "category": "religious",
+                  "coords": [
+                        71.431131,
+                        30.163608
+                  ]
+            },
+            {
+                  "name": "Sahaba Masjid",
+                  "text": "Sahaba Masjid este o facilitate de rugăciune islamică din orașul Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.402451,
+                        30.164598
+                  ]
+            },
+            {
+                  "name": "Khalid Bin Waleed",
+                  "text": "Khalid Bin Waleed este o moschee locală pentru cultul islamic din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.404733,
+                        30.16378
+                  ]
+            },
+            {
+                  "name": "Gausia Masjid",
+                  "text": "Gausia Masjid este o moschee comunitară pentru populația musulmană din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.375573,
+                        30.145332
+                  ]
+            },
+            {
+                  "name": "Shershah Jamia Masjid",
+                  "text": "Shershah Jamia Masjid este un lăcaș de cult islamic important din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.347672,
+                        30.09666
+                  ]
+            },
+            {
+                  "name": "Radhe Krishna Temple",
+                  "text": "Radhe Krishna Temple este un lăcaș de cult budist din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.490174,
+                        30.092435
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Madni",
+                  "text": "Jamia Masjid Madni este o moschee pentru comunitatea islamică locală din Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.456103,
+                        30.133218
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Redeemer",
+                  "text": "Cathedral of the Holy Redeemer este o catedrală creștină istorică din Multan.",
+                  "category": "religious",
+                  "coords": [
+                        71.431751,
+                        30.182712
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "Jamia Masjid este o moschee din Multan unde credincioșii se adună pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        71.448673,
+                        30.14794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jheel",
+                  "text": "Jheel is a scenic viewpoint offering relaxing water views in Multan.",
+                  "category": "natural",
+                  "coords": [
+                        71.416725,
+                        30.178804
+                  ]
+            },
+            {
+                  "name": "chah sham lot wala old shujabad road multan",
+                  "text": "Chah Sham Lot Wala on Old Shujabad Road is a castle-like structure located in Multan.",
+                  "category": "castle",
+                  "coords": [
+                        71.444979,
+                        30.159949
+                  ]
+            },
+            {
+                  "name": "Chaman Zar-E-Askari",
+                  "text": "Chaman Zar-E-Askari is an engaging theme park offering recreation in Multan.",
+                  "category": "recreational",
+                  "coords": [
+                        71.413493,
+                        30.178649
+                  ]
+            },
+            {
+                  "name": "Ali park",
+                  "text": "Ali Park is a pleasant urban attraction and green space situated in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.394063,
+                        30.194828
+                  ]
+            },
+            {
+                  "name": "Masjid Street 9",
+                  "text": "Masjid Street 9 is a local Islamic place of worship situated in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.432226,
+                        30.170002
+                  ]
+            },
+            {
+                  "name": "Awano Wali Masjid Basti Awan Wali",
+                  "text": "Awano Wali Masjid in Basti Awan Wali is a mosque serving the local community in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.432505,
+                        30.168607
+                  ]
+            },
+            {
+                  "name": "Masjid Basti Awan Wali",
+                  "text": "Masjid Basti Awan Wali is an active Islamic mosque located in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.431131,
+                        30.168607
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Rehmat E Habibullah",
+                  "text": "Jamia Masjid Rehmat E Habibullah is a prominent mosque providing a place of worship in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.457211,
+                        30.158489
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Farooq e Azam Madina Abad.",
+                  "text": "Jamia Masjid Farooq e Azam in Madina Abad is an Islamic place of worship located in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.447225,
+                        30.173886
+                  ]
+            },
+            {
+                  "name": "Jamia masjid Farooqia",
+                  "text": "Jamia Masjid Farooqia is a central mosque for the Islamic community in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.438413,
+                        30.16489
+                  ]
+            },
+            {
+                  "name": "Almadina Mosque",
+                  "text": "Almadina Mosque is a religious site for Islamic prayer in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.44244,
+                        30.15938
+                  ]
+            },
+            {
+                  "name": "PIR PAKHU DARBAR",
+                  "text": "Pir Pakhu Darbar is a sacred place of worship situated in Multan.",
+                  "category": "religious",
+                  "coords": [
+                        71.431131,
+                        30.163608
+                  ]
+            },
+            {
+                  "name": "Sahaba Masjid",
+                  "text": "Sahaba Masjid is an Islamic prayer facility located in the city of Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.402451,
+                        30.164598
+                  ]
+            },
+            {
+                  "name": "Khalid Bin Waleed",
+                  "text": "Khalid Bin Waleed is a local mosque dedicated to Islamic worship in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.404733,
+                        30.16378
+                  ]
+            },
+            {
+                  "name": "Gausia Masjid",
+                  "text": "Gausia Masjid is a community mosque serving the Muslim population of Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.375573,
+                        30.145332
+                  ]
+            },
+            {
+                  "name": "Shershah Jamia Masjid",
+                  "text": "Shershah Jamia Masjid is a prominent Islamic place of worship in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.347672,
+                        30.09666
+                  ]
+            },
+            {
+                  "name": "Radhe Krishna Temple",
+                  "text": "The Radhe Krishna Temple is a Buddhist site of worship located in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.490174,
+                        30.092435
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Madni",
+                  "text": "Jamia Masjid Madni is a significant mosque for the local Islamic community in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.456103,
+                        30.133218
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Redeemer",
+                  "text": "The Cathedral of the Holy Redeemer is a historic Christian cathedral located in Multan.",
+                  "category": "religious",
+                  "coords": [
+                        71.431751,
+                        30.182712
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "Jamia Masjid is a mosque where local Muslims gather for prayer in Multan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.448673,
+                        30.14794
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "PK-PB",
     coords: [71.43, 30.15],
@@ -819,7 +6084,124 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-hunza-apricot-life-v2",
+    id: "pk-hunza-apricot-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beautiful Viewpoint of Valley",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über das Hunza-Tal und die umliegenden schneebedeckten Gipfel des Karakorum.",
+                  "category": "natural",
+                  "coords": [
+                        74.585565,
+                        36.301987
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ein erhöhter Standort im Tal, der sich ideal zum Fotografieren der terrassierten Aprikosengärten und der zerklüfteten Berglandschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        74.581927,
+                        36.264944
+                  ]
+            },
+            {
+                  "name": "Aga Khanabad Jamatkhana",
+                  "text": "Dieses religiöse Zentrum der Ismailiten im Hunza-Tal dient der Gemeinde als Ort für Gebete und soziale Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        74.61417,
+                        36.306372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beautiful Viewpoint of Valley",
+                  "text": "Ez a kilátópont széles panorámát nyújt a Hunza-völgyre és a Karakorum környező hófedte csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        74.585565,
+                        36.301987
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "A völgy egy magasabb pontján található helyszín, amely ideális a teraszos sárgabarackosok és a zord hegyi táj fotózására.",
+                  "category": "natural",
+                  "coords": [
+                        74.581927,
+                        36.264944
+                  ]
+            },
+            {
+                  "name": "Aga Khanabad Jamatkhana",
+                  "text": "Az iszmáilita közösségnek ez a vallási központja a Hunza-völgyben imádságok és közösségi összejövetelek helyszínéül szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        74.61417,
+                        36.306372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beautiful Viewpoint of Valley",
+                  "text": "Acest punct de observare oferă o vedere panoramică largă asupra văii Hunza și a vârfurilor înzăpezite ale Karakorumului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        74.585565,
+                        36.301987
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "O locație elevată în vale, ideală pentru fotografierea livezilor de caiși terasate și a peisajului montan accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        74.581927,
+                        36.264944
+                  ]
+            },
+            {
+                  "name": "Aga Khanabad Jamatkhana",
+                  "text": "Acest centru religios ismailit din Valea Hunza servește comunitatea ca loc pentru rugăciuni și adunări sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        74.61417,
+                        36.306372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beautiful Viewpoint of Valley",
+                  "text": "This viewpoint offers a wide panoramic view over the Hunza Valley and the surrounding snow-capped peaks of the Karakoram.",
+                  "category": "natural",
+                  "coords": [
+                        74.585565,
+                        36.301987
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "An elevated location in the valley, ideal for photographing the terraced apricot orchards and the rugged mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        74.581927,
+                        36.264944
+                  ]
+            },
+            {
+                  "name": "Aga Khanabad Jamatkhana",
+                  "text": "This Ismaili religious center in the Hunza Valley serves the community as a place for prayer and social gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        74.61417,
+                        36.306372
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "PK-GB",
     coords: [74.65, 36.31],
@@ -887,7 +6269,52 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-sindh-cotton-life-v2",
+    id: "pk-sindh-cotton-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dargah Sayyed Bilawali",
+                  "text": "Ein verehrter Schrein inmitten der landwirtschaftlich geprägten Baumwollregion der Provinz Sindh.",
+                  "category": "religious",
+                  "coords": [
+                        68.527091,
+                        26.008332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dargah Sayyed Bilawali",
+                  "text": "Tisztelt szentély a Sindh tartomány mezőgazdasági jellegű, gyapottermesztő régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        68.527091,
+                        26.008332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dargah Sayyed Bilawali",
+                  "text": "Un altar venerat în mijlocul regiunii agricole cultivate cu bumbac din provincia Sindh.",
+                  "category": "religious",
+                  "coords": [
+                        68.527091,
+                        26.008332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dargah Sayyed Bilawali",
+                  "text": "A revered shrine amid the agriculturally focused cotton-growing region of Sindh Province.",
+                  "category": "religious",
+                  "coords": [
+                        68.527091,
+                        26.008332
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "PK-SD",
     coords: [68.50, 26.00],
@@ -955,7 +6382,880 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-daman-e-koh-life-v2",
+    id: "pk-daman-e-koh-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "OGDC",
+                  "text": "Ein Aussichtspunkt nahe dem Hauptsitz der Öl- und Gasgesellschaft, mit Blick auf die Margalla-Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        73.079821,
+                        33.72298
+                  ]
+            },
+            {
+                  "name": "Gallery 6",
+                  "text": "Eine renommierte Kunstgalerie in Islamabad, die zeitgenössische Werke pakistanischer Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        73.07555,
+                        33.729424
+                  ]
+            },
+            {
+                  "name": "Rawal Lake Viewpoint",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über den Rawal-See und den umliegenden Park bietet.",
+                  "category": "natural",
+                  "coords": [
+                        73.056866,
+                        33.740857
+                  ]
+            },
+            {
+                  "name": "CADD",
+                  "text": "Ein administratives Zentrum in der Nähe der Margalla-Hügel, das Teil der modernen Stadtplanung Islamabads ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095949,
+                        33.737824
+                  ]
+            },
+            {
+                  "name": "Khaas Art Gallery",
+                  "text": "Eine exklusive Kunstgalerie, die für ihre wechselnden Ausstellungen moderner und traditioneller pakistanischer Kunst bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        73.080416,
+                        33.740768
+                  ]
+            },
+            {
+                  "name": "Trail 3 hill top",
+                  "text": "Der Gipfel des beliebten Wanderwegs Trail 3, der Wanderer mit einem Panoramablick über die Stadt belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        73.079353,
+                        33.748509
+                  ]
+            },
+            {
+                  "name": "Daman-e-Koh",
+                  "text": "Ein berühmter Aussichtspunkt in den Margalla-Hügeln mit Blick auf den schachbrettartigen Stadtplan von Islamabad.",
+                  "category": "natural",
+                  "coords": [
+                        73.05704,
+                        33.738367
+                  ]
+            },
+            {
+                  "name": "Bruti waterfalls & ponds (do not litter!)",
+                  "text": "Versteckte Kaskaden und natürliche Schwimmbecken im Wald, die über einen Wanderweg in den Hügeln erreichbar sind.",
+                  "category": "landmark",
+                  "coords": [
+                        73.113912,
+                        33.774283
+                  ]
+            },
+            {
+                  "name": "Dino Valley",
+                  "text": "Ein Themenpark in den Hügeln mit großen Dinosaurierfiguren und Attraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        73.123311,
+                        33.793157
+                  ]
+            },
+            {
+                  "name": "Marghazar Zoo",
+                  "text": "Ein am Fuße der Margalla-Hügel gelegenener Zoo, der einst eine Vielzahl von Tieren in einer grünen Umgebung beherbergte.",
+                  "category": "recreational",
+                  "coords": [
+                        73.058641,
+                        33.733875
+                  ]
+            },
+            {
+                  "name": "Islamabad Viewpoint",
+                  "text": "Ein erhöhter Standort in den Margalla-Hügeln, der einen direkten Blick auf das Wahrzeichen Faisal-Moschee bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.053741,
+                        33.739745
+                  ]
+            },
+            {
+                  "name": "Motamar Mosque",
+                  "text": "Diese Moschee ist dem Motamar Al-Alam Al-Islami (Weltmoslemkongress) angeschlossen und liegt nahe dem Stadtzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078918,
+                        33.73096
+                  ]
+            },
+            {
+                  "name": "Sonnet Guest House",
+                  "text": "Ein bescheidener Gebetsraum in einem ruhigen Viertel am Rande der Margalla-Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08099,
+                        33.730591
+                  ]
+            },
+            {
+                  "name": "PTV HQ Mosque",
+                  "text": "Die Moschee am Hauptsitz des pakistanischen Fernsehens, die den dortigen Mitarbeitern als Andachtsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        73.090998,
+                        33.733133
+                  ]
+            },
+            {
+                  "name": "Secretariat Mosque",
+                  "text": "Eine Moschee im Regierungsviertel, die speziell für Beamte des Sekretariats in Islamabad errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        73.09481,
+                        33.735752
+                  ]
+            },
+            {
+                  "name": "Bari Imam Darbar",
+                  "text": "Ein bedeutender Schrein aus dem 17. Jahrhundert, der dem Schutzpatron von Islamabad, Bari Imam, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.110658,
+                        33.744712
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "Eine bekannte Moschee und Koranschule, die für ihre religiösen Bildungsangebote in der Hauptstadt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        73.060046,
+                        33.722826
+                  ]
+            },
+            {
+                  "name": "Lal Masjid",
+                  "text": "Diese markante Moschee aus rotem Backstein ist ein historisch bedeutendes religiöses Zentrum im Herzen Islamabads.",
+                  "category": "landmark",
+                  "coords": [
+                        73.068335,
+                        33.71991
+                  ]
+            },
+            {
+                  "name": "Admin Mosque",
+                  "text": "Eine Moschee im Verwaltungsbezirk der Stadt, die durch ihre schlichte, funktionale Architektur besticht.",
+                  "category": "religious",
+                  "coords": [
+                        73.150181,
+                        33.748298
+                  ]
+            },
+            {
+                  "name": "NTC Mosque",
+                  "text": "Diese Moschee dient den Mitarbeitern des nationalen Telekommunikationsunternehmens in Islamabad für ihre täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089419,
+                        33.728526
+                  ]
+            },
+            {
+                  "name": "Jabbi Masjid",
+                  "text": "Diese lokale Moschee in der Nähe von Daman-e-Koh dient als schlichter Gebetsort für die Gemeinde am Fuße der Margalla-Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        73.143837,
+                        33.753777
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Mohra Shah Walli",
+                  "text": "Eine muslimische Gebetsstätte im Viertel Mohra Shah Walli, die durch ihre traditionelle Architektur im ländlichen Islamabad besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        73.147782,
+                        33.753389
+                  ]
+            },
+            {
+                  "name": "Masjid Aqsa",
+                  "text": "Eine Moschee in der Nähe des Daman-e-Koh-Parks, die Wanderern und Einheimischen einen ruhigen Raum für die täglichen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.073983,
+                        33.733735
+                  ]
+            },
+            {
+                  "name": "Ghausia Plaza",
+                  "text": "Ein lokaler Marktplatz in der Nähe der Margalla-Hügel, der für seine kleinen Geschäfte und den täglichen Bedarf der Anwohner bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        73.081699,
+                        33.722926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "OGDC",
+                  "text": "Kilátópont az olaj- és gáztársaság székháza közelében, kilátással a Margalla-hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        73.079821,
+                        33.72298
+                  ]
+            },
+            {
+                  "name": "Gallery 6",
+                  "text": "Iszlámábád neves művészeti galériája, amely pakisztáni művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        73.07555,
+                        33.729424
+                  ]
+            },
+            {
+                  "name": "Rawal Lake Viewpoint",
+                  "text": "Kilátópont, ahonnan pazar kilátás nyílik a Rawal-tóra és a környező parkra.",
+                  "category": "natural",
+                  "coords": [
+                        73.056866,
+                        33.740857
+                  ]
+            },
+            {
+                  "name": "CADD",
+                  "text": "Adminisztratív központ a Margalla-hegyek közelében, amely Iszlámábád modern várostervezésének része.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095949,
+                        33.737824
+                  ]
+            },
+            {
+                  "name": "Khaas Art Gallery",
+                  "text": "Exkluzív művészeti galéria, amely a modern és hagyományos pakisztáni művészet időszaki kiállításairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        73.080416,
+                        33.740768
+                  ]
+            },
+            {
+                  "name": "Trail 3 hill top",
+                  "text": "A népszerű Trail 3 túraútvonal csúcsa, amely panorámás városi kilátással jutalmazza a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        73.079353,
+                        33.748509
+                  ]
+            },
+            {
+                  "name": "Daman-e-Koh",
+                  "text": "Híres kilátóhely a Margalla-hegyekben, ahonnan belátni Iszlámábád sakktáblaszerű várostérképét.",
+                  "category": "natural",
+                  "coords": [
+                        73.05704,
+                        33.738367
+                  ]
+            },
+            {
+                  "name": "Bruti waterfalls & ponds (do not litter!)",
+                  "text": "Rejtett erdei zuhatagok és természetes úszómedencék, amelyek a dombokon átvezető túraúton érhetők el.",
+                  "category": "landmark",
+                  "coords": [
+                        73.113912,
+                        33.774283
+                  ]
+            },
+            {
+                  "name": "Dino Valley",
+                  "text": "Dinoszaurusz-tematikájú élménypark a hegyekben, hatalmas őshüllő-figurákkal és családi attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        73.123311,
+                        33.793157
+                  ]
+            },
+            {
+                  "name": "Marghazar Zoo",
+                  "text": "A Margalla-hegyek lábánál fekvő állatkert, amely egykor számos állatnak adott otthont zöld környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        73.058641,
+                        33.733875
+                  ]
+            },
+            {
+                  "name": "Islamabad Viewpoint",
+                  "text": "Magaslati pont a Margalla-hegyekben, ahonnan közvetlen kilátás nyílik a jellegzetes Faisal-mecsetre.",
+                  "category": "landmark",
+                  "coords": [
+                        73.053741,
+                        33.739745
+                  ]
+            },
+            {
+                  "name": "Motamar Mosque",
+                  "text": "Ez a mecset a Muszlim Világkongresszushoz (Motamar Al-Alam Al-Islami) kapcsolódik, és a városközpont közelében fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078918,
+                        33.73096
+                  ]
+            },
+            {
+                  "name": "Sonnet Guest House",
+                  "text": "Szerény imaszoba egy csendes negyedben, a Margalla-hegyek peremén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08099,
+                        33.730591
+                  ]
+            },
+            {
+                  "name": "PTV HQ Mosque",
+                  "text": "A pakisztáni televízió székházánál található mecset, amely az ott dolgozók áhítati helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        73.090998,
+                        33.733133
+                  ]
+            },
+            {
+                  "name": "Secretariat Mosque",
+                  "text": "A kormányzati negyedben található mecset, amelyet kifejezetten az iszlámábádi titkárság tisztviselői számára építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        73.09481,
+                        33.735752
+                  ]
+            },
+            {
+                  "name": "Bari Imam Darbar",
+                  "text": "Iszlámábád védőszentjének, Bari Imámnak szentelt jelentős 17. századi síremlék.",
+                  "category": "landmark",
+                  "coords": [
+                        73.110658,
+                        33.744712
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "Ismert mecset és vallási iskola, amely a fővárosban nyújtott hitéleti oktatásáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        73.060046,
+                        33.722826
+                  ]
+            },
+            {
+                  "name": "Lal Masjid",
+                  "text": "Ez a jellegzetes vörös téglás mecset történelmi jelentőségű vallási központ Iszlámábád szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.068335,
+                        33.71991
+                  ]
+            },
+            {
+                  "name": "Admin Mosque",
+                  "text": "A város adminisztratív negyedében található mecset, amely egyszerű, funkcionális építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        73.150181,
+                        33.748298
+                  ]
+            },
+            {
+                  "name": "NTC Mosque",
+                  "text": "Ez a mecset a nemzeti távközlési vállalat iszlámábádi dolgozóinak napi imádságait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089419,
+                        33.728526
+                  ]
+            },
+            {
+                  "name": "Jabbi Masjid",
+                  "text": "Ez a helyi mecset a Daman-e-Koh közelében egyszerű imádsági helyként szolgál a Margalla-hegy lábánál élő közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.143837,
+                        33.753777
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Mohra Shah Walli",
+                  "text": "Mohra Shah Walli negyedében található mecset, amely Iszlámábád vidéki részének hagyományos építészetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.147782,
+                        33.753389
+                  ]
+            },
+            {
+                  "name": "Masjid Aqsa",
+                  "text": "A Daman-e-Koh park közelében található mecset, amely csendes helyet kínál a napi imákhoz a túrázóknak és a helyieknek.",
+                  "category": "landmark",
+                  "coords": [
+                        73.073983,
+                        33.733735
+                  ]
+            },
+            {
+                  "name": "Ghausia Plaza",
+                  "text": "Helyi piactér a Margalla-hegy közelében, amely kis üzleteiről és a lakosok napi szükségleteit kielégítő kínálatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        73.081699,
+                        33.722926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "OGDC",
+                  "text": "Un punct de belvedere lângă sediul companiei de petrol și gaze, cu vedere spre dealurile Margalla.",
+                  "category": "natural",
+                  "coords": [
+                        73.079821,
+                        33.72298
+                  ]
+            },
+            {
+                  "name": "Gallery 6",
+                  "text": "O galerie de artă renumită din Islamabad, care prezintă lucrări contemporane ale artiștilor pakistanezi.",
+                  "category": "museum",
+                  "coords": [
+                        73.07555,
+                        33.729424
+                  ]
+            },
+            {
+                  "name": "Rawal Lake Viewpoint",
+                  "text": "Un punct de observație care oferă o vedere largă asupra lacului Rawal și a parcului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        73.056866,
+                        33.740857
+                  ]
+            },
+            {
+                  "name": "CADD",
+                  "text": "Un centru administrativ lângă dealurile Margalla, care face parte din planificarea urbană modernă a Islamabadului.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095949,
+                        33.737824
+                  ]
+            },
+            {
+                  "name": "Khaas Art Gallery",
+                  "text": "O galerie de artă exclusivistă, cunoscută pentru expozițiile sale temporare de artă pakistaneză modernă și tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        73.080416,
+                        33.740768
+                  ]
+            },
+            {
+                  "name": "Trail 3 hill top",
+                  "text": "Vârful popularului traseu de drumeție Trail 3, care recompensează drumeții cu o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        73.079353,
+                        33.748509
+                  ]
+            },
+            {
+                  "name": "Daman-e-Koh",
+                  "text": "Un punct de belvedere faimos în dealurile Margalla, oferind o vedere asupra planului de oraș în formă de rețea al Islamabadului.",
+                  "category": "natural",
+                  "coords": [
+                        73.05704,
+                        33.738367
+                  ]
+            },
+            {
+                  "name": "Bruti waterfalls & ponds (do not litter!)",
+                  "text": "Cascade ascunse și bazine naturale în pădure, accesibile printr-o potecă de drumeție în dealuri.",
+                  "category": "landmark",
+                  "coords": [
+                        73.113912,
+                        33.774283
+                  ]
+            },
+            {
+                  "name": "Dino Valley",
+                  "text": "Un parc tematic în dealuri, cu figurine mari de dinozauri și atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        73.123311,
+                        33.793157
+                  ]
+            },
+            {
+                  "name": "Marghazar Zoo",
+                  "text": "O grădină zoologică situată la poalele dealurilor Margalla, care găzduia odinioară o varietate de animale într-un cadru verde.",
+                  "category": "recreational",
+                  "coords": [
+                        73.058641,
+                        33.733875
+                  ]
+            },
+            {
+                  "name": "Islamabad Viewpoint",
+                  "text": "Un loc ridicat în dealurile Margalla, care oferă o vedere directă spre emblematica Moschee Faisal.",
+                  "category": "landmark",
+                  "coords": [
+                        73.053741,
+                        33.739745
+                  ]
+            },
+            {
+                  "name": "Motamar Mosque",
+                  "text": "Această moschee este afiliată Congresului Mondial Musulman (Motamar Al-Alam Al-Islami) și se află lângă centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078918,
+                        33.73096
+                  ]
+            },
+            {
+                  "name": "Sonnet Guest House",
+                  "text": "O sală de rugăciune modestă într-un cartier liniștit de la marginea dealurilor Margalla.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08099,
+                        33.730591
+                  ]
+            },
+            {
+                  "name": "PTV HQ Mosque",
+                  "text": "Moscheea de la sediul televiziunii pakistaneze, servind ca loc de devoțiune pentru angajații de acolo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.090998,
+                        33.733133
+                  ]
+            },
+            {
+                  "name": "Secretariat Mosque",
+                  "text": "O moschee în zona guvernamentală, construită special pentru oficialii secretariatului din Islamabad.",
+                  "category": "landmark",
+                  "coords": [
+                        73.09481,
+                        33.735752
+                  ]
+            },
+            {
+                  "name": "Bari Imam Darbar",
+                  "text": "Un altar important din secolul al XVII-lea, dedicat sfântului patron al Islamabadului, Bari Imam.",
+                  "category": "landmark",
+                  "coords": [
+                        73.110658,
+                        33.744712
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "O moschee și școală religioasă cunoscută, renumită pentru programele sale de educație religioasă din capitală.",
+                  "category": "landmark",
+                  "coords": [
+                        73.060046,
+                        33.722826
+                  ]
+            },
+            {
+                  "name": "Lal Masjid",
+                  "text": "Această moschee distinctivă din cărămidă roșie este un centru religios istoric important în inima Islamabadului.",
+                  "category": "landmark",
+                  "coords": [
+                        73.068335,
+                        33.71991
+                  ]
+            },
+            {
+                  "name": "Admin Mosque",
+                  "text": "O moschee în districtul administrativ al orașului, remarcată prin arhitectura sa simplă și funcțională.",
+                  "category": "religious",
+                  "coords": [
+                        73.150181,
+                        33.748298
+                  ]
+            },
+            {
+                  "name": "NTC Mosque",
+                  "text": "Această moschee deservește angajații companiei naționale de telecomunicații din Islamabad pentru rugăciunile lor zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089419,
+                        33.728526
+                  ]
+            },
+            {
+                  "name": "Jabbi Masjid",
+                  "text": "Această moschee locală de lângă Daman-e-Koh servește ca un simplu loc de rugăciune pentru comunitatea de la poalele dealurilor Margalla.",
+                  "category": "landmark",
+                  "coords": [
+                        73.143837,
+                        33.753777
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Mohra Shah Walli",
+                  "text": "Un lăcaș de rugăciune musulman în cartierul Mohra Shah Walli, care se remarcă prin arhitectura sa tradițională din zona rurală a Islamabadului.",
+                  "category": "landmark",
+                  "coords": [
+                        73.147782,
+                        33.753389
+                  ]
+            },
+            {
+                  "name": "Masjid Aqsa",
+                  "text": "O moschee situată lângă parcul Daman-e-Koh, care oferă un spațiu liniștit pentru rugăciunile zilnice drumeților și localnicilor.",
+                  "category": "landmark",
+                  "coords": [
+                        73.073983,
+                        33.733735
+                  ]
+            },
+            {
+                  "name": "Ghausia Plaza",
+                  "text": "O piață locală lângă dealurile Margalla, cunoscută pentru micile sale magazine și produsele de necesitate zilnică pentru rezidenți.",
+                  "category": "cultural",
+                  "coords": [
+                        73.081699,
+                        33.722926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "OGDC",
+                  "text": "A viewpoint near the oil and gas company headquarters, overlooking the Margalla Hills.",
+                  "category": "natural",
+                  "coords": [
+                        73.079821,
+                        33.72298
+                  ]
+            },
+            {
+                  "name": "Gallery 6",
+                  "text": "A renowned art gallery in Islamabad showcasing contemporary works by Pakistani artists.",
+                  "category": "museum",
+                  "coords": [
+                        73.07555,
+                        33.729424
+                  ]
+            },
+            {
+                  "name": "Rawal Lake Viewpoint",
+                  "text": "A vantage point offering a wide view over Rawal Lake and the surrounding parkland.",
+                  "category": "natural",
+                  "coords": [
+                        73.056866,
+                        33.740857
+                  ]
+            },
+            {
+                  "name": "CADD",
+                  "text": "An administrative center near the Margalla Hills, part of Islamabad's modern urban planning.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095949,
+                        33.737824
+                  ]
+            },
+            {
+                  "name": "Khaas Art Gallery",
+                  "text": "An exclusive art gallery known for its rotating exhibitions of modern and traditional Pakistani art.",
+                  "category": "museum",
+                  "coords": [
+                        73.080416,
+                        33.740768
+                  ]
+            },
+            {
+                  "name": "Trail 3 hill top",
+                  "text": "The summit of the popular Trail 3 hiking path, rewarding hikers with a panoramic city view.",
+                  "category": "natural",
+                  "coords": [
+                        73.079353,
+                        33.748509
+                  ]
+            },
+            {
+                  "name": "Daman-e-Koh",
+                  "text": "A famous lookout point in the Margalla Hills overlooking Islamabad's grid-like city plan.",
+                  "category": "natural",
+                  "coords": [
+                        73.05704,
+                        33.738367
+                  ]
+            },
+            {
+                  "name": "Bruti waterfalls & ponds (do not litter!)",
+                  "text": "Hidden forest cascades and natural swimming pools accessible via a hiking trail in the hills.",
+                  "category": "landmark",
+                  "coords": [
+                        73.113912,
+                        33.774283
+                  ]
+            },
+            {
+                  "name": "Dino Valley",
+                  "text": "A dinosaur-themed amusement park in the hills featuring large prehistoric figures and family attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        73.123311,
+                        33.793157
+                  ]
+            },
+            {
+                  "name": "Islamabad Zoo",
+                  "text": "A zoo located at the foot of the Margalla Hills, formerly home to a variety of animals in a leafy setting.",
+                  "category": "recreational",
+                  "coords": [
+                        73.058641,
+                        33.733875
+                  ]
+            },
+            {
+                  "name": "Islamabad Viewpoint",
+                  "text": "An elevated spot in the Margalla Hills providing a direct view of the landmark Faisal Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        73.053741,
+                        33.739745
+                  ]
+            },
+            {
+                  "name": "Motamar Mosque",
+                  "text": "This mosque is affiliated with the World Muslim Congress (Motamar Al-Alam Al-Islami) and sits near the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078918,
+                        33.73096
+                  ]
+            },
+            {
+                  "name": "Sonnet Guest House",
+                  "text": "A modest prayer space located in a quiet neighborhood at the edge of the Margalla Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        73.08099,
+                        33.730591
+                  ]
+            },
+            {
+                  "name": "PTV HQ Mosque",
+                  "text": "The mosque at the Pakistan Television headquarters, serving as a place of devotion for staff there.",
+                  "category": "landmark",
+                  "coords": [
+                        73.090998,
+                        33.733133
+                  ]
+            },
+            {
+                  "name": "Secretariat Mosque",
+                  "text": "A mosque in the government zone, built specifically for officials at the Secretariat in Islamabad.",
+                  "category": "landmark",
+                  "coords": [
+                        73.09481,
+                        33.735752
+                  ]
+            },
+            {
+                  "name": "Bari Imam Darbar",
+                  "text": "A significant 17th-century shrine dedicated to the patron saint of Islamabad, Bari Imam.",
+                  "category": "landmark",
+                  "coords": [
+                        73.110658,
+                        33.744712
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "A well-known mosque and religious school noted for its educational programs in the capital.",
+                  "category": "landmark",
+                  "coords": [
+                        73.060046,
+                        33.722826
+                  ]
+            },
+            {
+                  "name": "Lal Masjid",
+                  "text": "This distinctive red-brick mosque is a historically significant religious center in the heart of Islamabad.",
+                  "category": "landmark",
+                  "coords": [
+                        73.068335,
+                        33.71991
+                  ]
+            },
+            {
+                  "name": "Admin Mosque",
+                  "text": "A mosque in the city's administrative district, noted for its simple, functional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        73.150181,
+                        33.748298
+                  ]
+            },
+            {
+                  "name": "NTC Mosque",
+                  "text": "This mosque serves the employees of the national telecommunication corporation in Islamabad for their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.089419,
+                        33.728526
+                  ]
+            },
+            {
+                  "name": "Jabbi Masjid",
+                  "text": "This local mosque near Daman-e-Koh serves as a simple place of prayer for the community at the foot of the Margalla Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        73.143837,
+                        33.753777
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Mohra Shah Walli",
+                  "text": "A Muslim place of worship in the Mohra Shah Walli neighborhood, reflecting traditional architecture in rural Islamabad.",
+                  "category": "landmark",
+                  "coords": [
+                        73.147782,
+                        33.753389
+                  ]
+            },
+            {
+                  "name": "Masjid Aqsa",
+                  "text": "A mosque located near Daman-e-Koh park, offering a quiet space for daily prayers for hikers and locals alike.",
+                  "category": "landmark",
+                  "coords": [
+                        73.073983,
+                        33.733735
+                  ]
+            },
+            {
+                  "name": "Ghausia Plaza",
+                  "text": "A local marketplace near the Margalla Hills, known for its small shops and daily necessities for residents.",
+                  "category": "cultural",
+                  "coords": [
+                        73.081699,
+                        33.722926
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PK-IS",
     coords: [73.05, 33.74],
@@ -1023,7 +7323,1384 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-danzoo-karachi-life-v2",
+    id: "pk-danzoo-karachi-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jamia Masjid Rehmania",
+                  "text": "Eine große Freitagsmoschee im Vorort mit einem markanten Minarett für die lokale Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        67.083833,
+                        24.99377
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Farooq e Azam",
+                  "text": "Diese bedeutende Stadtteilmoschee ist nach dem zweiten Kalifen benannt und dient als religiöses Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        67.085687,
+                        24.993901
+                  ]
+            },
+            {
+                  "name": "Bab e Faizan e Aarfi Sarkar r.a",
+                  "text": "Ein verziertes Tor, das zu einer spirituellen Stätte oder einer Versammlungshalle der Sufis führt.",
+                  "category": "religious",
+                  "coords": [
+                        67.088294,
+                        24.99456
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Ibrahim",
+                  "text": "Eine traditionelle sunnitische Moschee, die den Bewohnern im Viertel Saadi Town als Gebetsstätte dient.",
+                  "category": "religious",
+                  "coords": [
+                        67.086518,
+                        24.994847
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Khuwaja",
+                  "text": "Ein lokales Gotteshaus, das für seine auf die Gemeinschaft ausgerichteten religiösen Versammlungen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        67.063198,
+                        24.997392
+                  ]
+            },
+            {
+                  "name": "Darbar Hazrat Fahimuddin Chishti Malangi",
+                  "text": "Ein Sufi-Schrein des Chishti-Ordens, der Gläubige zur spirituellen Meditation und Einkehr anzieht.",
+                  "category": "religious",
+                  "coords": [
+                        67.063925,
+                        24.998914
+                  ]
+            },
+            {
+                  "name": "Aziziya Masjid",
+                  "text": "Ein moderner Moscheebau, der sich in einem neu entstehenden Wohnsektor von Karatschi befindet.",
+                  "category": "religious",
+                  "coords": [
+                        67.064287,
+                        25.000972
+                  ]
+            },
+            {
+                  "name": "Azeemia Jama Masjid",
+                  "text": "Diese Moschee ist mit dem Azeemia-Sufi-Orden verbunden und für ihre spirituellen Lehren bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        67.074426,
+                        25.020204
+                  ]
+            },
+            {
+                  "name": "Wednesday & Sunday Bazar",
+                  "text": "Ein lebhafter Freiluftmarkt, auf dem Einheimische zweimal wöchentlich Textilien und frische Lebensmittel handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        67.072009,
+                        25.020454
+                  ]
+            },
+            {
+                  "name": "Saadi Town Block 4 Market",
+                  "text": "Ein geschäftiger lokaler Marktplatz, der den umliegenden Wohnblock mit Gütern des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        67.171958,
+                        24.965068
+                  ]
+            },
+            {
+                  "name": "Super Highway Vegitable Market",
+                  "text": "Ein riesiger Großhandelsknotenpunkt für landwirtschaftliche Erzeugnisse am Rande der Stadt am Super Highway.",
+                  "category": "cultural",
+                  "coords": [
+                        67.153187,
+                        24.994414
+                  ]
+            },
+            {
+                  "name": "Bhutto Arcade",
+                  "text": "Eine kommerzielle Einkaufspassage mit verschiedenen Einzelhandelsgeschäften und lokalen Unternehmen.",
+                  "category": "cultural",
+                  "coords": [
+                        67.119011,
+                        24.978962
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Ein markantes privates Wohnhaus innerhalb des Danzoo-Freizeit- und Wohnkomplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        67.173694,
+                        24.965555
+                  ]
+            },
+            {
+                  "name": "MTI training or PSCRB",
+                  "text": "Ein maritimes Ausbildungszentrum, das spezialisierte Sicherheitskurse für professionelle Seeleute anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        67.122788,
+                        24.975998
+                  ]
+            },
+            {
+                  "name": "Masjid Quba",
+                  "text": "Eine lokale Moschee, benannt nach der historischen ersten Moschee des Islam in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        67.117688,
+                        25.016258
+                  ]
+            },
+            {
+                  "name": "Noorani mosques",
+                  "text": "Eine kleine Stadtteilmoschee, die den Anwohnern als Ort für die täglichen Pflichtgebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        67.080406,
+                        25.009182
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Siddiqiua",
+                  "text": "Ein islamisches Gotteshaus, das die spirituellen Bedürfnisse der umliegenden Wohngemeinschaft erfüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        67.08316,
+                        24.989991
+                  ]
+            },
+            {
+                  "name": "Masjid Qayyum",
+                  "text": "Eine lokale Moschee inmitten der städtischen Zersiedelung des Ballungsraums Karatschi.",
+                  "category": "landmark",
+                  "coords": [
+                        67.055655,
+                        25.003736
+                  ]
+            },
+            {
+                  "name": "Momin Masjid",
+                  "text": "Eine traditionelle Moschee, die als Zentrum für religiöse Bildung und das tägliche Gebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        67.054529,
+                        25.020019
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Khanqah Jalilia",
+                  "text": "Eine Moschee, die in eine Sufi-Khanqah integriert ist und für spirituelle Rückzüge genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        67.053994,
+                        25.015562
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Qasim",
+                  "text": "Eine schlichte Stadtteilmoschee, die der Gemeinde für die fünf täglichen Gebete offensteht.",
+                  "category": "landmark",
+                  "coords": [
+                        67.06871,
+                        25.027922
+                  ]
+            },
+            {
+                  "name": "Siddiq e Akbar Jama Masjid",
+                  "text": "Eine große Moschee, die zu Ehren von Abu Bakr, dem ersten Kalifen des Islam, benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        67.069513,
+                        25.017455
+                  ]
+            },
+            {
+                  "name": "Farooq Azam Jama Masjid",
+                  "text": "Eine Freitagsmoschee, die der wachsenden Bevölkerung der nördlichen Vororte als Gebetsstätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070378,
+                        25.001243
+                  ]
+            },
+            {
+                  "name": "Jama Masjid O Imam Bargah e Jafaria",
+                  "text": "Eine kombinierte Einrichtung, die sowohl als Moschee als auch als schiitische Trauerhalle fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070015,
+                        25.002565
+                  ]
+            },
+            {
+                  "name": "Aqsa Masjid",
+                  "text": "Eine Moschee, die nach der heiligen Stätte in Jerusalem benannt ist und die Anwohner bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        67.072725,
+                        24.998385
+                  ]
+            },
+            {
+                  "name": "Khatoon e jannat mosque",
+                  "text": "Eine Moschee, die Fatima, der Tochter des Propheten Mohammed, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        67.079774,
+                        25.011363
+                  ]
+            },
+            {
+                  "name": "2Khatam-ul-Ambia",
+                  "text": "Ein islamisches Gotteshaus, dessen Name die Endgültigkeit des Prophetentums ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        67.056986,
+                        25.044293
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Rashida .",
+                  "text": "Eine Moschee in einem Wohngebiet, die spirituelle Dienste für die örtliche Nachbarschaft anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        67.081298,
+                        24.991576
+                  ]
+            },
+            {
+                  "name": "Jama Masjid E Quba",
+                  "text": "Eine Gemeindemoschee in den sich entwickelnden Wohngebieten in der Nähe des Super Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        67.079712,
+                        24.99
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Aloom e Sharia",
+                  "text": "Eine Moschee mit einer angeschlossenen religiösen Schule für das Studium des islamischen Rechts.",
+                  "category": "landmark",
+                  "coords": [
+                        67.055314,
+                        25.007714
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Fatah",
+                  "text": "Eine kleine lokale Moschee, die im Bezirk für das gemeinschaftliche Gebet genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        67.058441,
+                        25.013432
+                  ]
+            },
+            {
+                  "name": "Hari Masjid",
+                  "text": "Bekannt als die \"Grüne Moschee\", zeichnet sie sich oft durch ihre markante grüne Kuppel aus.",
+                  "category": "landmark",
+                  "coords": [
+                        67.06759,
+                        25.018263
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Bilal",
+                  "text": "Eine moderne Moschee in Karachi, die als lokales spirituelles Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        67.066056,
+                        25.021831
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Anwaar-e-Madina",
+                  "text": "Dieses muslimische Gotteshaus in Karachi zeichnet sich durch seine schlichte, moderne Architektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        67.063932,
+                        25.024606
+                  ]
+            },
+            {
+                  "name": "Ameer Hamza Masjid",
+                  "text": "Eine Moschee im Viertel Bahria Town, die Gläubigen Raum für das tägliche Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        67.073207,
+                        25.02952
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar Muhammadi",
+                  "text": "Ein muslimisches Gebetshaus in Karachi, das durch seine lokale Bedeutung für die Gemeinde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        67.075013,
+                        25.024348
+                  ]
+            },
+            {
+                  "name": "Masjid E Aehle Sunnat",
+                  "text": "Diese Moschee ist ein zentraler Treffpunkt für die sunnitische Gemeinde in Karachi.",
+                  "category": "landmark",
+                  "coords": [
+                        67.069612,
+                        25.021596
+                  ]
+            },
+            {
+                  "name": "Marium Masjid",
+                  "text": "Ein friedliches muslimisches Heiligtum, das in die moderne Stadtlandschaft von Karachi eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        67.07176,
+                        25.042096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jamia Masjid Rehmania",
+                  "text": "Nagy gyülekezeti mecset az elővárosban, kiemelkedő minarettel a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        67.083833,
+                        24.99377
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Farooq e Azam",
+                  "text": "Ez a jelentős környékbeli mecset a második kalifáról kapta a nevét, és vallási központként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        67.085687,
+                        24.993901
+                  ]
+            },
+            {
+                  "name": "Bab e Faizan e Aarfi Sarkar r.a",
+                  "text": "Díszes kapu, amely egy szúfi spirituális helyhez vagy gyülekezeti csarnokhoz vezet.",
+                  "category": "religious",
+                  "coords": [
+                        67.088294,
+                        24.99456
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Ibrahim",
+                  "text": "Hagyományos szunnita mecset, amely a Saadi Town negyed lakóinak szolgál imádkozóhelyül.",
+                  "category": "religious",
+                  "coords": [
+                        67.086518,
+                        24.994847
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Khuwaja",
+                  "text": "Helyi istentiszteleti hely, amely a közösségre összpontosító vallási összejöveteleiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        67.063198,
+                        24.997392
+                  ]
+            },
+            {
+                  "name": "Darbar Hazrat Fahimuddin Chishti Malangi",
+                  "text": "A Csisti rend szúfi kegyhelye, amely spirituális meditációra és elmélyülésre vonzza a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        67.063925,
+                        24.998914
+                  ]
+            },
+            {
+                  "name": "Aziziya Masjid",
+                  "text": "Modern mecsetépület Karacsi egyik fejlődő lakónegyedében.",
+                  "category": "religious",
+                  "coords": [
+                        67.064287,
+                        25.000972
+                  ]
+            },
+            {
+                  "name": "Azeemia Jama Masjid",
+                  "text": "Ez a mecset az Azeemia szúfi rendhez kötődik, és spirituális tanításairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        67.074426,
+                        25.020204
+                  ]
+            },
+            {
+                  "name": "Wednesday & Sunday Bazar",
+                  "text": "Élénk szabadtéri piac, ahol a helyiek hetente kétszer textíliákkal és friss élelmiszerekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        67.072009,
+                        25.020454
+                  ]
+            },
+            {
+                  "name": "Saadi Town Block 4 Market",
+                  "text": "Forgalmas helyi piactér, amely a környező lakótömböt látja el napi szükségleti cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        67.171958,
+                        24.965068
+                  ]
+            },
+            {
+                  "name": "Super Highway Vegitable Market",
+                  "text": "Hatalmas mezőgazdasági nagykereskedelmi központ a város szélén, a Super Highway mentén.",
+                  "category": "cultural",
+                  "coords": [
+                        67.153187,
+                        24.994414
+                  ]
+            },
+            {
+                  "name": "Bhutto Arcade",
+                  "text": "Kereskedelmi bevásárlóárkád, amely különböző kiskereskedelmi üzleteknek és helyi vállalkozásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        67.119011,
+                        24.978962
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Jellegzetes magánlakás a Danzoo szabadidős és lakókomplexumon belül.",
+                  "category": "landmark",
+                  "coords": [
+                        67.173694,
+                        24.965555
+                  ]
+            },
+            {
+                  "name": "MTI training or PSCRB",
+                  "text": "Tengerészeti képzőközpont, amely speciális biztonsági tanfolyamokat kínál hivatásos tengerészek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        67.122788,
+                        24.975998
+                  ]
+            },
+            {
+                  "name": "Masjid Quba",
+                  "text": "Helyi mecset, amelyet az iszlám történelmi első mecsetéről neveztek el Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        67.117688,
+                        25.016258
+                  ]
+            },
+            {
+                  "name": "Noorani mosques",
+                  "text": "Kis környékbeli mecset, amely a helyi lakosok napi kötelező imáinak helyszínéül szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        67.080406,
+                        25.009182
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Siddiqiua",
+                  "text": "Iszlám istentiszteleti hely, amely a környező lakóközösség spirituális igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        67.08316,
+                        24.989991
+                  ]
+            },
+            {
+                  "name": "Masjid Qayyum",
+                  "text": "Helyi mecset Karacsi világvárosi területének városi terjeszkedése közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        67.055655,
+                        25.003736
+                  ]
+            },
+            {
+                  "name": "Momin Masjid",
+                  "text": "Hagyományos mecset, amely a vallási oktatás és a napi imádság központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        67.054529,
+                        25.020019
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Khanqah Jalilia",
+                  "text": "Szúfi kánkába integrált mecset, amelyet spirituális elvonulásokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        67.053994,
+                        25.015562
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Qasim",
+                  "text": "Egyszerű környékbeli mecset, amely a napi öt ima idejére várja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        67.06871,
+                        25.027922
+                  ]
+            },
+            {
+                  "name": "Siddiq e Akbar Jama Masjid",
+                  "text": "Nagy mecset, amelyet Abu Bakr, az iszlám első kalifája tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        67.069513,
+                        25.017455
+                  ]
+            },
+            {
+                  "name": "Farooq Azam Jama Masjid",
+                  "text": "Pénteki mecset, amely az északi külvárosok növekvő lakosságának szolgál imádkozóhelyül.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070378,
+                        25.001243
+                  ]
+            },
+            {
+                  "name": "Jama Masjid O Imam Bargah e Jafaria",
+                  "text": "Kombinált létesítmény, amely mecsetként és síita gyászcsarnokként is funkcionál.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070015,
+                        25.002565
+                  ]
+            },
+            {
+                  "name": "Aqsa Masjid",
+                  "text": "Jeruzsálem szent helyéről elnevezett mecset, amely a helyi lakosokat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        67.072725,
+                        24.998385
+                  ]
+            },
+            {
+                  "name": "Khatoon e jannat mosque",
+                  "text": "Mecset, amelyet Fatimának, Mohamed próféta lányának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        67.079774,
+                        25.011363
+                  ]
+            },
+            {
+                  "name": "2Khatam-ul-Ambia",
+                  "text": "Iszlám istentiszteleti hely, amelynek neve a prófétaság lezártsága előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        67.056986,
+                        25.044293
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Rashida .",
+                  "text": "Lakóövezeti mecset, amely spirituális szolgáltatásokat nyújt a környékbeli lakóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        67.081298,
+                        24.991576
+                  ]
+            },
+            {
+                  "name": "Jama Masjid E Quba",
+                  "text": "Közösségi mecset a Super Highway közelében lévő fejlődő lakóövezetekben.",
+                  "category": "landmark",
+                  "coords": [
+                        67.079712,
+                        24.99
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Aloom e Sharia",
+                  "text": "Mecset a hozzá tartozó vallási iskolával az iszlám jog tanulmányozására.",
+                  "category": "landmark",
+                  "coords": [
+                        67.055314,
+                        25.007714
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Fatah",
+                  "text": "Kisméretű helyi mecset, amelyet a kerületben közösségi imádkozásra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        67.058441,
+                        25.013432
+                  ]
+            },
+            {
+                  "name": "Hari Masjid",
+                  "text": "\"Zöld mecsetként\" ismert, gyakran jellegzetes zöld kupolájáról ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        67.06759,
+                        25.018263
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Bilal",
+                  "text": "Modern mecset Karacsiban, amely a helyi közösség hitéletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        67.066056,
+                        25.021831
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Anwaar-e-Madina",
+                  "text": "Ez a karacsi muszlim imaház egyszerű, modern építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        67.063932,
+                        25.024606
+                  ]
+            },
+            {
+                  "name": "Ameer Hamza Masjid",
+                  "text": "Egy mecset a Bahria Town negyedben, amely a hívőknek ad helyet a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        67.073207,
+                        25.02952
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar Muhammadi",
+                  "text": "Karacsi muszlim imaház, amely a helyi közösség számára fontos vallási helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        67.075013,
+                        25.024348
+                  ]
+            },
+            {
+                  "name": "Masjid E Aehle Sunnat",
+                  "text": "Ez a mecset a karacsi szunnita közösség központi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        67.069612,
+                        25.021596
+                  ]
+            },
+            {
+                  "name": "Marium Masjid",
+                  "text": "Békés muszlim szentély, amely Karacsi modern városi tájába illeszkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        67.07176,
+                        25.042096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jamia Masjid Rehmania",
+                  "text": "O moschee mare de vineri din suburbie, cu un minaret proeminent pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        67.083833,
+                        24.99377
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Farooq e Azam",
+                  "text": "Această moschee importantă de cartier poartă numele celui de-al doilea calif și servește drept centru religios.",
+                  "category": "religious",
+                  "coords": [
+                        67.085687,
+                        24.993901
+                  ]
+            },
+            {
+                  "name": "Bab e Faizan e Aarfi Sarkar r.a",
+                  "text": "O poartă ornamentată care duce la un sit spiritual sufi sau la o sală de adunare.",
+                  "category": "religious",
+                  "coords": [
+                        67.088294,
+                        24.99456
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Ibrahim",
+                  "text": "O moschee sunnită tradițională care servește drept loc de rugăciune pentru locuitorii din cartierul Saadi Town.",
+                  "category": "religious",
+                  "coords": [
+                        67.086518,
+                        24.994847
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Khuwaja",
+                  "text": "Un lăcaș de cult local cunoscut pentru adunările sale religioase axate pe comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        67.063198,
+                        24.997392
+                  ]
+            },
+            {
+                  "name": "Darbar Hazrat Fahimuddin Chishti Malangi",
+                  "text": "Un altar sufi al ordinului Chishti, care atrage credincioșii pentru meditație spirituală și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        67.063925,
+                        24.998914
+                  ]
+            },
+            {
+                  "name": "Aziziya Masjid",
+                  "text": "O structură modernă de moschee situată într-un sector rezidențial în curs de dezvoltare din Karachi.",
+                  "category": "religious",
+                  "coords": [
+                        67.064287,
+                        25.000972
+                  ]
+            },
+            {
+                  "name": "Azeemia Jama Masjid",
+                  "text": "Această moschee este asociată cu ordinul sufi Azeemia, fiind cunoscută pentru învățăturile sale spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        67.074426,
+                        25.020204
+                  ]
+            },
+            {
+                  "name": "Wednesday & Sunday Bazar",
+                  "text": "O piață vibrantă în aer liber, unde localnicii fac comerț cu textile și alimente proaspete de două ori pe săptămână.",
+                  "category": "cultural",
+                  "coords": [
+                        67.072009,
+                        25.020454
+                  ]
+            },
+            {
+                  "name": "Saadi Town Block 4 Market",
+                  "text": "O piață locală aglomerată care furnizează produse esențiale zilnice blocului rezidențial din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        67.171958,
+                        24.965068
+                  ]
+            },
+            {
+                  "name": "Super Highway Vegitable Market",
+                  "text": "Un imens nod comercial angro pentru produse agricole situat la periferia orașului, pe Super Highway.",
+                  "category": "cultural",
+                  "coords": [
+                        67.153187,
+                        24.994414
+                  ]
+            },
+            {
+                  "name": "Bhutto Arcade",
+                  "text": "O arcadă comercială care găzduiește diverse magazine de vânzare cu amănuntul și afaceri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        67.119011,
+                        24.978962
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "O reședință privată distinctivă în cadrul complexului de agrement și locuințe Danzoo.",
+                  "category": "landmark",
+                  "coords": [
+                        67.173694,
+                        24.965555
+                  ]
+            },
+            {
+                  "name": "MTI training or PSCRB",
+                  "text": "Un centru de instruire maritimă care oferă cursuri specializate de siguranță pentru marinarii profesioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        67.122788,
+                        24.975998
+                  ]
+            },
+            {
+                  "name": "Masjid Quba",
+                  "text": "O moschee locală numită după prima moschee istorică a Islamului din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        67.117688,
+                        25.016258
+                  ]
+            },
+            {
+                  "name": "Noorani mosques",
+                  "text": "O mică moschee de cartier care servește drept loc pentru rugăciunile zilnice ale rezidenților locali.",
+                  "category": "landmark",
+                  "coords": [
+                        67.080406,
+                        25.009182
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Siddiqiua",
+                  "text": "Un lăcaș de cult islamic care satisface nevoile spirituale ale comunității rezidențiale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        67.08316,
+                        24.989991
+                  ]
+            },
+            {
+                  "name": "Masjid Qayyum",
+                  "text": "O moschee locală situată în mijlocul expansiunii urbane a zonei metropolitane Karachi.",
+                  "category": "landmark",
+                  "coords": [
+                        67.055655,
+                        25.003736
+                  ]
+            },
+            {
+                  "name": "Momin Masjid",
+                  "text": "O moschee tradițională care servește drept centru pentru educația religioasă și rugăciunea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        67.054529,
+                        25.020019
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Khanqah Jalilia",
+                  "text": "O moschee integrată într-un khanqah sufi, utilizată pentru retrageri spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        67.053994,
+                        25.015562
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Qasim",
+                  "text": "O moschee simplă de cartier, deschisă comunității pentru cele cinci rugăciuni zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        67.06871,
+                        25.027922
+                  ]
+            },
+            {
+                  "name": "Siddiq e Akbar Jama Masjid",
+                  "text": "O moschee mare numită în onoarea lui Abu Bakr, primul calif al Islamului.",
+                  "category": "landmark",
+                  "coords": [
+                        67.069513,
+                        25.017455
+                  ]
+            },
+            {
+                  "name": "Farooq Azam Jama Masjid",
+                  "text": "O moschee de vineri care servește drept loc de rugăciune pentru populația în creștere din suburbiile nordice.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070378,
+                        25.001243
+                  ]
+            },
+            {
+                  "name": "Jama Masjid O Imam Bargah e Jafaria",
+                  "text": "O facilitate combinată care funcționează atât ca moschee, cât și ca sală de doliu șiită.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070015,
+                        25.002565
+                  ]
+            },
+            {
+                  "name": "Aqsa Masjid",
+                  "text": "O moschee numită după locul sfânt din Ierusalim, care deservește locuitorii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        67.072725,
+                        24.998385
+                  ]
+            },
+            {
+                  "name": "Khatoon e jannat mosque",
+                  "text": "O moschee dedicată Fatimei, fiica profetului Mahomed.",
+                  "category": "landmark",
+                  "coords": [
+                        67.079774,
+                        25.011363
+                  ]
+            },
+            {
+                  "name": "2Khatam-ul-Ambia",
+                  "text": "Un lăcaș de cult islamic al cărui nume onorează finalitatea profeției.",
+                  "category": "landmark",
+                  "coords": [
+                        67.056986,
+                        25.044293
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Rashida .",
+                  "text": "O moschee rezidențială care oferă servicii spirituale cartierului local.",
+                  "category": "landmark",
+                  "coords": [
+                        67.081298,
+                        24.991576
+                  ]
+            },
+            {
+                  "name": "Jama Masjid E Quba",
+                  "text": "O moschee comunitară situată în zonele rezidențiale în curs de dezvoltare de lângă Super Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        67.079712,
+                        24.99
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Aloom e Sharia",
+                  "text": "O moschee cu o școală religioasă atașată pentru studiul legii islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        67.055314,
+                        25.007714
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Fatah",
+                  "text": "O mică moschee locală utilizată pentru rugăciunea comună în district.",
+                  "category": "landmark",
+                  "coords": [
+                        67.058441,
+                        25.013432
+                  ]
+            },
+            {
+                  "name": "Hari Masjid",
+                  "text": "Cunoscută sub numele de „Moscheea Verde”, este adesea recunoscută după cupola sa verde distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        67.06759,
+                        25.018263
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Bilal",
+                  "text": "O moschee modernă din Karachi, care servește drept centru spiritual local.",
+                  "category": "landmark",
+                  "coords": [
+                        67.066056,
+                        25.021831
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Anwaar-e-Madina",
+                  "text": "Acest lăcaș de cult musulman din Karachi se remarcă prin arhitectura sa simplă și modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        67.063932,
+                        25.024606
+                  ]
+            },
+            {
+                  "name": "Ameer Hamza Masjid",
+                  "text": "O moschee din cartierul Bahria Town, care oferă spațiu pentru rugăciunile zilnice ale credincioșilor.",
+                  "category": "landmark",
+                  "coords": [
+                        67.073207,
+                        25.02952
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar Muhammadi",
+                  "text": "O casă de rugăciune musulmană din Karachi, cunoscută pentru importanța sa locală pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        67.075013,
+                        25.024348
+                  ]
+            },
+            {
+                  "name": "Masjid E Aehle Sunnat",
+                  "text": "Această moschee este un punct de întâlnire central pentru comunitatea sunnită din Karachi.",
+                  "category": "landmark",
+                  "coords": [
+                        67.069612,
+                        25.021596
+                  ]
+            },
+            {
+                  "name": "Marium Masjid",
+                  "text": "Un sanctuar musulman liniștit, integrat în peisajul urban modern din Karachi.",
+                  "category": "landmark",
+                  "coords": [
+                        67.07176,
+                        25.042096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jamia Masjid Rehmania",
+                  "text": "A large congregational mosque in the suburb featuring a prominent minaret for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        67.083833,
+                        24.99377
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Farooq e Azam",
+                  "text": "This significant neighborhood mosque is named after the second Caliph and serves as a religious center.",
+                  "category": "religious",
+                  "coords": [
+                        67.085687,
+                        24.993901
+                  ]
+            },
+            {
+                  "name": "Bab e Faizan e Aarfi Sarkar r.a",
+                  "text": "An ornate gateway leading to a Sufi spiritual site or congregation hall.",
+                  "category": "religious",
+                  "coords": [
+                        67.088294,
+                        24.99456
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Ibrahim",
+                  "text": "A traditional Sunni mosque serving as a place of prayer for residents in the Saadi Town area.",
+                  "category": "religious",
+                  "coords": [
+                        67.086518,
+                        24.994847
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Khuwaja",
+                  "text": "A local place of worship known for its community-focused religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        67.063198,
+                        24.997392
+                  ]
+            },
+            {
+                  "name": "Darbar Hazrat Fahimuddin Chishti Malangi",
+                  "text": "A Sufi shrine of the Chishti order, attracting devotees for spiritual meditation and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        67.063925,
+                        24.998914
+                  ]
+            },
+            {
+                  "name": "Aziziya Masjid",
+                  "text": "A modern mosque structure located within a developing residential sector of Karachi.",
+                  "category": "religious",
+                  "coords": [
+                        67.064287,
+                        25.000972
+                  ]
+            },
+            {
+                  "name": "Azeemia Jama Masjid",
+                  "text": "This mosque is associated with the Azeemia Sufi order, known for its spiritual teachings.",
+                  "category": "religious",
+                  "coords": [
+                        67.074426,
+                        25.020204
+                  ]
+            },
+            {
+                  "name": "Wednesday & Sunday Bazar",
+                  "text": "A vibrant open-air market where locals trade textiles and fresh food twice weekly.",
+                  "category": "cultural",
+                  "coords": [
+                        67.072009,
+                        25.020454
+                  ]
+            },
+            {
+                  "name": "Saadi Town Block 4 Market",
+                  "text": "A busy local marketplace providing daily essentials to the surrounding residential block.",
+                  "category": "cultural",
+                  "coords": [
+                        67.171958,
+                        24.965068
+                  ]
+            },
+            {
+                  "name": "Super Highway Vegitable Market",
+                  "text": "A massive wholesale agricultural hub located on the city's outskirts along the Super Highway.",
+                  "category": "cultural",
+                  "coords": [
+                        67.153187,
+                        24.994414
+                  ]
+            },
+            {
+                  "name": "Bhutto Arcade",
+                  "text": "A commercial shopping arcade housing various retail shops and local businesses.",
+                  "category": "cultural",
+                  "coords": [
+                        67.119011,
+                        24.978962
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "A prominent private residence within the Danzoo leisure and housing complex.",
+                  "category": "landmark",
+                  "coords": [
+                        67.173694,
+                        24.965555
+                  ]
+            },
+            {
+                  "name": "MTI training or PSCRB",
+                  "text": "A maritime training center providing specialized safety courses for professional seafarers.",
+                  "category": "landmark",
+                  "coords": [
+                        67.122788,
+                        24.975998
+                  ]
+            },
+            {
+                  "name": "Masjid Quba",
+                  "text": "A local mosque named after the historical first mosque of Islam in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        67.117688,
+                        25.016258
+                  ]
+            },
+            {
+                  "name": "Noorani mosques",
+                  "text": "A small neighborhood mosque serving as a place for daily prayers for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        67.080406,
+                        25.009182
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Siddiqiua",
+                  "text": "An Islamic place of worship serving the spiritual needs of the nearby residential community.",
+                  "category": "landmark",
+                  "coords": [
+                        67.08316,
+                        24.989991
+                  ]
+            },
+            {
+                  "name": "Masjid Qayyum",
+                  "text": "A local mosque situated amidst the urban sprawl of the Karachi metropolitan area.",
+                  "category": "landmark",
+                  "coords": [
+                        67.055655,
+                        25.003736
+                  ]
+            },
+            {
+                  "name": "Momin Masjid",
+                  "text": "A traditional mosque serving as a center for religious education and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        67.054529,
+                        25.020019
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Khanqah Jalilia",
+                  "text": "A mosque integrated with a Sufi khanqah used for spiritual retreats.",
+                  "category": "landmark",
+                  "coords": [
+                        67.053994,
+                        25.015562
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Qasim",
+                  "text": "A simple neighborhood mosque open to the community for the five daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        67.06871,
+                        25.027922
+                  ]
+            },
+            {
+                  "name": "Siddiq e Akbar Jama Masjid",
+                  "text": "A large mosque named in honor of Abu Bakr, the first Caliph of Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        67.069513,
+                        25.017455
+                  ]
+            },
+            {
+                  "name": "Farooq Azam Jama Masjid",
+                  "text": "A Friday mosque serving as a place of prayer for the growing population of the northern suburbs.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070378,
+                        25.001243
+                  ]
+            },
+            {
+                  "name": "Jama Masjid O Imam Bargah e Jafaria",
+                  "text": "A combined facility serving as both a mosque and a Shia mourning hall.",
+                  "category": "landmark",
+                  "coords": [
+                        67.070015,
+                        25.002565
+                  ]
+            },
+            {
+                  "name": "Aqsa Masjid",
+                  "text": "A mosque named after the holy site in Jerusalem, serving local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        67.072725,
+                        24.998385
+                  ]
+            },
+            {
+                  "name": "Khatoon e jannat mosque",
+                  "text": "A mosque dedicated to Fatima, the daughter of Prophet Muhammad.",
+                  "category": "landmark",
+                  "coords": [
+                        67.079774,
+                        25.011363
+                  ]
+            },
+            {
+                  "name": "2Khatam-ul-Ambia",
+                  "text": "An Islamic place of worship whose name honors the finality of the Prophethood.",
+                  "category": "landmark",
+                  "coords": [
+                        67.056986,
+                        25.044293
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Rashida .",
+                  "text": "A residential mosque providing spiritual services to the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        67.081298,
+                        24.991576
+                  ]
+            },
+            {
+                  "name": "Jama Masjid E Quba",
+                  "text": "A community mosque located in the developing residential areas near the Super Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        67.079712,
+                        24.99
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Aloom e Sharia",
+                  "text": "A mosque featuring an attached religious school for the study of Islamic law.",
+                  "category": "landmark",
+                  "coords": [
+                        67.055314,
+                        25.007714
+                  ]
+            },
+            {
+                  "name": "Jama Masjid Fatah",
+                  "text": "A small local mosque used for communal worship in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        67.058441,
+                        25.013432
+                  ]
+            },
+            {
+                  "name": "Hari Masjid",
+                  "text": "Known as the \"Green Mosque,\" it is often recognized by its distinctive green dome.",
+                  "category": "landmark",
+                  "coords": [
+                        67.06759,
+                        25.018263
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Bilal",
+                  "text": "A modern mosque in Karachi that serves as a local spiritual center.",
+                  "category": "landmark",
+                  "coords": [
+                        67.066056,
+                        25.021831
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Anwaar-e-Madina",
+                  "text": "This Muslim house of worship in Karachi stands out for its simple, modern architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        67.063932,
+                        25.024606
+                  ]
+            },
+            {
+                  "name": "Ameer Hamza Masjid",
+                  "text": "A mosque in the Bahria Town district providing space for the daily prayers of the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        67.073207,
+                        25.02952
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gulzar Muhammadi",
+                  "text": "A Muslim prayer house in Karachi known for its local importance to the community.",
+                  "category": "landmark",
+                  "coords": [
+                        67.075013,
+                        25.024348
+                  ]
+            },
+            {
+                  "name": "Masjid E Aehle Sunnat",
+                  "text": "This mosque is a central meeting point for the Sunni community in Karachi.",
+                  "category": "landmark",
+                  "coords": [
+                        67.069612,
+                        25.021596
+                  ]
+            },
+            {
+                  "name": "Marium Masjid",
+                  "text": "A peaceful Muslim sanctuary embedded in the modern urban landscape of Karachi.",
+                  "category": "landmark",
+                  "coords": [
+                        67.07176,
+                        25.042096
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "PK-SD",
     coords: [67.14, 25.05],
@@ -1159,7 +8836,664 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-soan-valley-farms-life-v2",
+    id: "pk-soan-valley-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daep Sharif Chashma",
+                  "text": "Daep Sharif Chashma ist eine bekannte Touristenattraktion in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.076209,
+                        32.531106
+                  ]
+            },
+            {
+                  "name": "Sakesri",
+                  "text": "Sakesri ist ein malerischer Aussichtspunkt, der einen Panoramablick in pk-soan-valley-farms-life-v2 bietet.",
+                  "category": "natural",
+                  "coords": [
+                        72.128088,
+                        32.529974
+                  ]
+            },
+            {
+                  "name": "Choha",
+                  "text": "Choha ist eine Sehenswürdigkeit und lokale Attraktion in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.138811,
+                        32.531369
+                  ]
+            },
+            {
+                  "name": "Daep Sharif Masjid",
+                  "text": "Die Daep Sharif Masjid ist ein bemerkenswertes muslimisches Gotteshaus in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.075722,
+                        32.535481
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "Die Jamia Masjid dient als zentrale Moschee für die lokale Gemeinschaft in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.15963,
+                        32.488745
+                  ]
+            },
+            {
+                  "name": "East Janazagah",
+                  "text": "East Janazagah ist eine ausgewiesene islamische Stätte für Beerdigungsgebete in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.139262,
+                        32.527846
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gull Town",
+                  "text": "Die Jamia Masjid Gull Town ist ein muslimisches Gotteshaus in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.124966,
+                        32.552506
+                  ]
+            },
+            {
+                  "name": "Hazrat Baba Ghos Shah Remutullah Aleh",
+                  "text": "Hazrat Baba Ghos Shah Remutullah Aleh ist eine wichtige islamische religiöse Stätte in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.152249,
+                        32.565881
+                  ]
+            },
+            {
+                  "name": "Masjid Mahallah Jahanabad",
+                  "text": "Die Masjid Mahallah Jahanabad ist eine Nachbarschaftsmoschee für die muslimische Gemeinschaft in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.161482,
+                        32.571908
+                  ]
+            },
+            {
+                  "name": "Hospital Mosque",
+                  "text": "Die Hospital Mosque bietet einen Ort für islamische Gebete in der Nähe der medizinischen Einrichtungen in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.157294,
+                        32.573637
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Madni",
+                  "text": "Die Jamia Masjid Madni ist eine markante Moschee, die den örtlichen Gläubigen in pk-soan-valley-farms-life-v2 dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.158477,
+                        32.571781
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Diese lokale Moschee ist ein Ort islamischer Gottesdienste in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.153498,
+                        32.573228
+                  ]
+            },
+            {
+                  "name": "Muhammadi Masjid",
+                  "text": "Die Muhammadi Masjid ist eine religiöse Stätte, an der sich Muslime zum Gebet in pk-soan-valley-farms-life-v2 versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        72.150441,
+                        32.572083
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Haji Qutb Din Mohalla Ajwal",
+                  "text": "Die Jamia Masjid Haji Qutb Din Mohalla Ajwal ist ein anerkanntes islamisches Zentrum in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.153724,
+                        32.568724
+                  ]
+            },
+            {
+                  "name": "Gull Town",
+                  "text": "Gull Town ist ein lokales Viertel mit islamischen Gemeinschaftsstätten in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.126017,
+                        32.553389
+                  ]
+            },
+            {
+                  "name": "Doctor Wali Masjid",
+                  "text": "Die Doctor Wali Masjid ist eine Moschee, die den religiösen Bedürfnissen von pk-soan-valley-farms-life-v2 dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.156199,
+                        32.569537
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque Hafeezia Chishtia",
+                  "text": "Die Jamia Mosque Hafeezia Chishtia ist eine wichtige muslimische Gebetsstätte in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.136679,
+                        32.525476
+                  ]
+            },
+            {
+                  "name": "Graveyard Mosque",
+                  "text": "Die Friedhofsmoschee ist ein feierlicher Ort der Anbetung in der Nähe der Grabstätten in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.133746,
+                        32.525856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daep Sharif Chashma",
+                  "text": "A Daep Sharif Chashma egy ismert turisztikai látványosság pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.076209,
+                        32.531106
+                  ]
+            },
+            {
+                  "name": "Sakesri",
+                  "text": "A Sakesri egy festői kilátó, amely panorámás kilátást nyújt pk-soan-valley-farms-life-v2 környékére.",
+                  "category": "natural",
+                  "coords": [
+                        72.128088,
+                        32.529974
+                  ]
+            },
+            {
+                  "name": "Choha",
+                  "text": "Choha egy érdekes hely és helyi látványosság pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.138811,
+                        32.531369
+                  ]
+            },
+            {
+                  "name": "Daep Sharif Masjid",
+                  "text": "A Daep Sharif mecset egy figyelemre méltó muszlim istentiszteleti hely pk-soan-valley-farms-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.075722,
+                        32.535481
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "A Jamia mecset a helyi közösség központi mecsetjeként szolgál pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.15963,
+                        32.488745
+                  ]
+            },
+            {
+                  "name": "East Janazagah",
+                  "text": "Az East Janazagah egy iszlám temetési imákra kijelölt hely pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.139262,
+                        32.527846
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gull Town",
+                  "text": "A Jamia Masjid Gull Town egy muszlim imaház pk-soan-valley-farms-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.124966,
+                        32.552506
+                  ]
+            },
+            {
+                  "name": "Hazrat Baba Ghos Shah Remutullah Aleh",
+                  "text": "A Hazrat Baba Ghos Shah Remutullah Aleh egy fontos iszlám vallási helyszín pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.152249,
+                        32.565881
+                  ]
+            },
+            {
+                  "name": "Masjid Mahallah Jahanabad",
+                  "text": "A Masjid Mahallah Jahanabad a helyi muszlim közösség mecsetje pk-soan-valley-farms-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.161482,
+                        32.571908
+                  ]
+            },
+            {
+                  "name": "Hospital Mosque",
+                  "text": "A Kórház mecset iszlám imádkozási lehetőséget biztosít az egészségügyi intézmények közelében pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.157294,
+                        32.573637
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Madni",
+                  "text": "A Jamia Masjid Madni egy kiemelkedő mecset, amely a helyi hívőket szolgálja pk-soan-valley-farms-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.158477,
+                        32.571781
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ez a helyi mecset az iszlám istentisztelet helye pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.153498,
+                        32.573228
+                  ]
+            },
+            {
+                  "name": "Muhammadi Masjid",
+                  "text": "A Muhammadi Masjid egy vallási helyszín, ahol a muszlimok imádkozni gyűlnek össze pk-soan-valley-farms-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.150441,
+                        32.572083
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Haji Qutb Din Mohalla Ajwal",
+                  "text": "A Jamia Masjid Haji Qutb Din Mohalla Ajwal egy elismert iszlám központ pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.153724,
+                        32.568724
+                  ]
+            },
+            {
+                  "name": "Gull Town",
+                  "text": "A Gull Town egy helyi negyed iszlám közösségi helyszínekkel pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.126017,
+                        32.553389
+                  ]
+            },
+            {
+                  "name": "Doctor Wali Masjid",
+                  "text": "A Doctor Wali Masjid egy mecset, amely pk-soan-valley-farms-life-v2 vallási igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        72.156199,
+                        32.569537
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque Hafeezia Chishtia",
+                  "text": "A Jamia Mosque Hafeezia Chishtia egy fontos muszlim istentiszteleti létesítmény pk-soan-valley-farms-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.136679,
+                        32.525476
+                  ]
+            },
+            {
+                  "name": "Graveyard Mosque",
+                  "text": "A Temetői mecset egy ünnepélyes istentiszteleti hely, amely a temetkezési helyek közelében található pk-soan-valley-farms-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.133746,
+                        32.525856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daep Sharif Chashma",
+                  "text": "Daep Sharif Chashma este o atracție turistică cunoscută situată în pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.076209,
+                        32.531106
+                  ]
+            },
+            {
+                  "name": "Sakesri",
+                  "text": "Sakesri este un punct de belvedere pitoresc care oferă priveliști panoramice în pk-soan-valley-farms-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        72.128088,
+                        32.529974
+                  ]
+            },
+            {
+                  "name": "Choha",
+                  "text": "Choha este un punct de interes și o atracție locală în pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.138811,
+                        32.531369
+                  ]
+            },
+            {
+                  "name": "Daep Sharif Masjid",
+                  "text": "Daep Sharif Masjid este un loc de cult musulman notabil din pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.075722,
+                        32.535481
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "Jamia Masjid servește ca moschee centrală pentru comunitatea locală din pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.15963,
+                        32.488745
+                  ]
+            },
+            {
+                  "name": "East Janazagah",
+                  "text": "East Janazagah este un loc islamic desemnat pentru rugăciunile funerare în pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.139262,
+                        32.527846
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gull Town",
+                  "text": "Jamia Masjid Gull Town este o casă de rugăciune musulmană situată în pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.124966,
+                        32.552506
+                  ]
+            },
+            {
+                  "name": "Hazrat Baba Ghos Shah Remutullah Aleh",
+                  "text": "Hazrat Baba Ghos Shah Remutullah Aleh este un important sit religios islamic din pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.152249,
+                        32.565881
+                  ]
+            },
+            {
+                  "name": "Masjid Mahallah Jahanabad",
+                  "text": "Masjid Mahallah Jahanabad este o moschee de cartier pentru comunitatea musulmană din pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.161482,
+                        32.571908
+                  ]
+            },
+            {
+                  "name": "Hospital Mosque",
+                  "text": "Moscheea Spitalului oferă un loc pentru rugăciune islamică lângă facilitățile medicale din pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.157294,
+                        32.573637
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Madni",
+                  "text": "Jamia Masjid Madni este o moschee proeminentă care servește credincioșii locali din pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.158477,
+                        32.571781
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee locală este un loc de cult islamic în pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.153498,
+                        32.573228
+                  ]
+            },
+            {
+                  "name": "Muhammadi Masjid",
+                  "text": "Muhammadi Masjid este un sit religios unde musulmanii se adună pentru rugăciune în pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.150441,
+                        32.572083
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Haji Qutb Din Mohalla Ajwal",
+                  "text": "Jamia Masjid Haji Qutb Din Mohalla Ajwal este un centru islamic recunoscut din pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.153724,
+                        32.568724
+                  ]
+            },
+            {
+                  "name": "Gull Town",
+                  "text": "Gull Town este un cartier local care prezintă situri ale comunității islamice în pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.126017,
+                        32.553389
+                  ]
+            },
+            {
+                  "name": "Doctor Wali Masjid",
+                  "text": "Doctor Wali Masjid este o moschee dedicată servirii nevoilor religioase din pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.156199,
+                        32.569537
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque Hafeezia Chishtia",
+                  "text": "Jamia Mosque Hafeezia Chishtia este o importantă facilitate de cult musulman situată în pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.136679,
+                        32.525476
+                  ]
+            },
+            {
+                  "name": "Graveyard Mosque",
+                  "text": "Moscheea Cimitirului este un lăcaș de cult solemn situat în apropierea locurilor de înmormântare din pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.133746,
+                        32.525856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daep Sharif Chashma",
+                  "text": "Daep Sharif Chashma is a known tourist attraction located in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.076209,
+                        32.531106
+                  ]
+            },
+            {
+                  "name": "Sakesri",
+                  "text": "Sakesri is a scenic viewpoint offering panoramic vistas in pk-soan-valley-farms-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        72.128088,
+                        32.529974
+                  ]
+            },
+            {
+                  "name": "Choha",
+                  "text": "Choha is a point of interest and local attraction in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.138811,
+                        32.531369
+                  ]
+            },
+            {
+                  "name": "Daep Sharif Masjid",
+                  "text": "Daep Sharif Masjid is a notable Muslim place of worship in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.075722,
+                        32.535481
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid",
+                  "text": "Jamia Masjid serves as a central mosque for the local community in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.15963,
+                        32.488745
+                  ]
+            },
+            {
+                  "name": "East Janazagah",
+                  "text": "East Janazagah is a designated Islamic site for funeral prayers in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.139262,
+                        32.527846
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Gull Town",
+                  "text": "Jamia Masjid Gull Town is a Muslim house of worship situated in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.124966,
+                        32.552506
+                  ]
+            },
+            {
+                  "name": "Hazrat Baba Ghos Shah Remutullah Aleh",
+                  "text": "Hazrat Baba Ghos Shah Remutullah Aleh is an important Islamic religious site in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.152249,
+                        32.565881
+                  ]
+            },
+            {
+                  "name": "Masjid Mahallah Jahanabad",
+                  "text": "Masjid Mahallah Jahanabad is a neighborhood mosque for the Muslim community in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.161482,
+                        32.571908
+                  ]
+            },
+            {
+                  "name": "Hospital Mosque",
+                  "text": "The Hospital Mosque provides a place for Islamic prayer near the medical facilities in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.157294,
+                        32.573637
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Madni",
+                  "text": "Jamia Masjid Madni is a prominent mosque serving the local worshippers in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.158477,
+                        32.571781
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This local mosque is a place of Islamic worship in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.153498,
+                        32.573228
+                  ]
+            },
+            {
+                  "name": "Muhammadi Masjid",
+                  "text": "Muhammadi Masjid is a religious site where Muslims gather for prayer in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.150441,
+                        32.572083
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Haji Qutb Din Mohalla Ajwal",
+                  "text": "Jamia Masjid Haji Qutb Din Mohalla Ajwal is a recognized Islamic center in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.153724,
+                        32.568724
+                  ]
+            },
+            {
+                  "name": "Gull Town",
+                  "text": "Gull Town is a local neighborhood featuring Islamic community sites in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.126017,
+                        32.553389
+                  ]
+            },
+            {
+                  "name": "Doctor Wali Masjid",
+                  "text": "Doctor Wali Masjid is a mosque dedicated to serving the religious needs of pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.156199,
+                        32.569537
+                  ]
+            },
+            {
+                  "name": "Jamia Mosque Hafeezia Chishtia",
+                  "text": "Jamia Mosque Hafeezia Chishtia is an important Muslim worship facility located in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.136679,
+                        32.525476
+                  ]
+            },
+            {
+                  "name": "Graveyard Mosque",
+                  "text": "The Graveyard Mosque is a solemn place of worship situated near the burial grounds in pk-soan-valley-farms-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.133746,
+                        32.525856
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "PK-PB",
     coords: [72.10, 32.50],
@@ -1228,7 +9562,88 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-taunsa-barrage-wildlife-life-v2",
+    id: "pk-taunsa-barrage-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taunsa Barrage Dolphin Sanctuary",
+                  "text": "Dieses wichtige Schutzgebiet, das sich am Indus erstreckt, konzentriert sich auf die Erhaltung des seltenen blinden Indus-Delfins.",
+                  "category": "natural",
+                  "coords": [
+                        70.832164,
+                        30.544921
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Basti Jannu Sharif",
+                  "text": "Diese Moschee liegt in einer ländlichen Siedlung nahe der Taunsa-Staustufe und ist das religiöse Herz der örtlichen Dorfgemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        70.930142,
+                        30.537965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taunsa Barrage Dolphin Sanctuary",
+                  "text": "Az Indus mentén húzódó fontos védett terület a ritka vak indusi folyamidelfin megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        70.832164,
+                        30.544921
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Basti Jannu Sharif",
+                  "text": "A Taunsa-gát melletti vidéki településen található mecset a helyi faluközösség vallási szíve.",
+                  "category": "landmark",
+                  "coords": [
+                        70.930142,
+                        30.537965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taunsa Barrage Dolphin Sanctuary",
+                  "text": "Această zonă protejată importantă, situată de-a lungul fluviului Indus, se concentrează pe conservarea rarisimului delfin orb de Indus.",
+                  "category": "natural",
+                  "coords": [
+                        70.832164,
+                        30.544921
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Basti Jannu Sharif",
+                  "text": "Situată într-o așezare rurală de lângă barajul Taunsa, această moschee este inima religioasă a comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        70.930142,
+                        30.537965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taunsa Barrage Dolphin Sanctuary",
+                  "text": "Spanning the waters of the Indus River, this critical sanctuary focuses on the conservation of the rare blind Indus dolphin.",
+                  "category": "natural",
+                  "coords": [
+                        70.832164,
+                        30.544921
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Basti Jannu Sharif",
+                  "text": "Situated in a rural settlement near the Taunsa Barrage, this mosque is the religious heart of the local village community.",
+                  "category": "landmark",
+                  "coords": [
+                        70.930142,
+                        30.537965
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "PK-PB",
     coords: [70.85, 30.51],
@@ -1296,7 +9711,1348 @@ export const poiExtraPakistanLifeV2: POI[] = [
     }
   },
   {
-    id: "pk-bagh-e-jinnah-life-v2",
+    id: "pk-bagh-e-jinnah-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chauburji",
+                  "text": "Chauburji ist ein markantes Denkmal aus der Mogulzeit in Lahore, bekannt für seine vier Minarette.",
+                  "category": "historical",
+                  "coords": [
+                        74.304593,
+                        31.553933
+                  ]
+            },
+            {
+                  "name": "Shuhada",
+                  "text": "Die Masjid-e-Shuhada ist eine bekannte Kultstätte in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.319957,
+                        31.561261
+                  ]
+            },
+            {
+                  "name": "Shrine of Mian Mir",
+                  "text": "Der Schrein von Mian Mir ist ein berühmter Sufi-Schrein und eine Kultstätte in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.360086,
+                        31.548372
+                  ]
+            },
+            {
+                  "name": "Jinnah Gardens",
+                  "text": "Die Jinnah Gardens, auch bekannt als Bagh-e-Jinnah, sind ein großer historischer Park in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.330543,
+                        31.552611
+                  ]
+            },
+            {
+                  "name": "Race Course Park",
+                  "text": "Der Race Course Park, offiziell Jilani Park, ist ein großer öffentlicher Park in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.336505,
+                        31.543583
+                  ]
+            },
+            {
+                  "name": "Zaman Park",
+                  "text": "Der Zaman Park ist ein Stadtpark und Wohngebiet in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.353279,
+                        31.550819
+                  ]
+            },
+            {
+                  "name": "Akhavan House",
+                  "text": "Das Akhavan House ist ein architektonisches Denkmal in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.33975,
+                        31.556281
+                  ]
+            },
+            {
+                  "name": "Bait Raza",
+                  "text": "Bait Raza ist ein lokales Denkmal in der Stadt Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.288738,
+                        31.530736
+                  ]
+            },
+            {
+                  "name": "Grand Battery",
+                  "text": "Die Grand Battery ist ein historisches Denkmal in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.285053,
+                        31.528073
+                  ]
+            },
+            {
+                  "name": "Tomb of Mian Wazir Ali",
+                  "text": "Das Grab von Mian Wazir Ali ist eine monumentale Grabstätte in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.306161,
+                        31.550711
+                  ]
+            },
+            {
+                  "name": "Darbar Bibi Fatima Kalan",
+                  "text": "Darbar Bibi Fatima Kalan ist ein Gedenkmonument in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.309008,
+                        31.562668
+                  ]
+            },
+            {
+                  "name": "Kos Minar",
+                  "text": "Der Kos Minar ist ein altes Meilenstein-Denkmal in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.353325,
+                        31.564574
+                  ]
+            },
+            {
+                  "name": "Shadi Lal Haveli",
+                  "text": "Das Shadi Lal Haveli ist ein traditionelles Herrenhaus in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.30991,
+                        31.560724
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial",
+                  "text": "Das Queen Victoria Memorial ist ein Denkmal aus der Kolonialzeit in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.324695,
+                        31.560073
+                  ]
+            },
+            {
+                  "name": "Baradari of Wazir Khan",
+                  "text": "Das Baradari von Wazir Khan ist ein historisches Pavillon-Denkmal in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.307732,
+                        31.567739
+                  ]
+            },
+            {
+                  "name": "Alhamra Art Centre",
+                  "text": "Das Alhamra Art Centre ist ein bedeutender kultureller Veranstaltungsort für die Künste in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.329639,
+                        31.557971
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Dieses Amphitheater ist ein Freilufttheater in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.327273,
+                        31.553826
+                  ]
+            },
+            {
+                  "name": "Janazgah",
+                  "text": "Janazgah ist eine spezielle Kultstätte für Trauergebete in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.316979,
+                        31.535643
+                  ]
+            },
+            {
+                  "name": "Darbar Shahanshah Wali",
+                  "text": "Darbar Shahanshah Wali ist eine spirituelle Kultstätte in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.314438,
+                        31.530395
+                  ]
+            },
+            {
+                  "name": "Shrine of Khajoor Wali Sarkar",
+                  "text": "Der Schrein von Khajoor Wali Sarkar ist eine verehrte Kultstätte in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.304896,
+                        31.529449
+                  ]
+            },
+            {
+                  "name": "Shrine of Tariq Abbas Durrani",
+                  "text": "Der Schrein von Tariq Abbas Durrani ist eine religiöse Kultstätte in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.360762,
+                        31.545861
+                  ]
+            },
+            {
+                  "name": "Shrine of Rangilay Shah",
+                  "text": "Der Schrein von Rangilay Shah ist eine heilige Kultstätte in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.361493,
+                        31.546812
+                  ]
+            },
+            {
+                  "name": "Shrine of Pir Ghazi Baba",
+                  "text": "Der Schrein von Pir Ghazi Baba ist eine Kultstätte und ein Pilgerort in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.315237,
+                        31.535524
+                  ]
+            },
+            {
+                  "name": "Khizra Masjid",
+                  "text": "Die Khizra Masjid ist eine lokale Moschee, die einen Raum zum Beten in Lahore bietet.",
+                  "category": "religious",
+                  "coords": [
+                        74.303972,
+                        31.533955
+                  ]
+            },
+            {
+                  "name": "Noorani Masjid",
+                  "text": "Die Noorani Masjid ist eine funktionierende Moschee in der Stadt Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.299465,
+                        31.536899
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Umer Farooq",
+                  "text": "Die Jamia Masjid Umer Farooq ist eine Versammlungs-Moschee in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.297592,
+                        31.537423
+                  ]
+            },
+            {
+                  "name": "Jaffria Imam Bargah",
+                  "text": "Jaffria Imam Bargah ist eine Moschee und Versammlungshalle in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.281087,
+                        31.538345
+                  ]
+            },
+            {
+                  "name": "Miani Sahib Eidgah and Janazgah",
+                  "text": "Miani Sahib Eidgah und Janazgah ist eine bekannte Kultstätte und ein Ort für Trauergebete in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.307288,
+                        31.55141
+                  ]
+            },
+            {
+                  "name": "Shrine of Hazrat Wasif Ali Wasif",
+                  "text": "Der Schrein von Hazrat Wasif Ali Wasif ist eine angesehene Kultstätte in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.310979,
+                        31.549851
+                  ]
+            },
+            {
+                  "name": "Jan Muhammad Hazoori Dargah Mosque",
+                  "text": "Die Jan Muhammad Hazoori Dargah Mosque ist ein lokales islamisches Gotteshaus in pk-bagh-e-jinnah-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        74.34448,
+                        31.564053
+                  ]
+            },
+            {
+                  "name": "Naqi Market",
+                  "text": "Der Naqi Market ist ein belebter Marktplatz für lokale Einkäufe in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.321659,
+                        31.560575
+                  ]
+            },
+            {
+                  "name": "Marble Market",
+                  "text": "Der Marble Market ist ein kommerzieller Handelsbereich in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.320531,
+                        31.529302
+                  ]
+            },
+            {
+                  "name": "Moon Market Iqbal Town",
+                  "text": "Der Moon Market Iqbal Town ist ein lokaler Markt, der verschiedene Waren in pk-bagh-e-jinnah-life-v2 anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        74.291153,
+                        31.520158
+                  ]
+            },
+            {
+                  "name": "Tollinton Bird Market",
+                  "text": "Der Tollinton Bird Market ist ein spezialisierter Marktplatz in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.319143,
+                        31.542747
+                  ]
+            },
+            {
+                  "name": "Mobile Market",
+                  "text": "Der Mobile Market ist ein spezieller kommerzieller Bereich in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.319868,
+                        31.564117
+                  ]
+            },
+            {
+                  "name": "Dharampura Main Bazaar",
+                  "text": "Der Dharampura Main Bazaar ist ein zentraler Marktplatz für die Bewohner von pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.364726,
+                        31.551628
+                  ]
+            },
+            {
+                  "name": "City Shopping Center",
+                  "text": "Das City Shopping Center ist ein kommerzieller Komplex für Einzelhandelsaktivitäten in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.363441,
+                        31.552469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chauburji",
+                  "text": "A Chauburji egy kiemelkedő mogul kori műemlék Lahorban, amely négy minaretjéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        74.304593,
+                        31.553933
+                  ]
+            },
+            {
+                  "name": "Shuhada",
+                  "text": "A Masjid-e-Shuhada egy figyelemre méltó istentiszteleti hely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.319957,
+                        31.561261
+                  ]
+            },
+            {
+                  "name": "Shrine of Mian Mir",
+                  "text": "A Mian Mir szentély egy híres szúfi szentély és istentiszteleti hely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.360086,
+                        31.548372
+                  ]
+            },
+            {
+                  "name": "Jinnah Gardens",
+                  "text": "A Jinnah Gardens, más néven Bagh-e-Jinnah, egy nagy történelmi park Lahorban.",
+                  "category": "park",
+                  "coords": [
+                        74.330543,
+                        31.552611
+                  ]
+            },
+            {
+                  "name": "Race Course Park",
+                  "text": "A Race Course Park, hivatalos nevén Jilani Park, egy nagy közpark Lahorban.",
+                  "category": "park",
+                  "coords": [
+                        74.336505,
+                        31.543583
+                  ]
+            },
+            {
+                  "name": "Zaman Park",
+                  "text": "A Zaman Park egy városi park és lakóövezet Lahorban.",
+                  "category": "park",
+                  "coords": [
+                        74.353279,
+                        31.550819
+                  ]
+            },
+            {
+                  "name": "Akhavan House",
+                  "text": "Az Akhavan House egy építészeti emlékmű Lahorban.",
+                  "category": "historical",
+                  "coords": [
+                        74.33975,
+                        31.556281
+                  ]
+            },
+            {
+                  "name": "Bait Raza",
+                  "text": "A Bait Raza egy helyi műemlék Lahor városában.",
+                  "category": "historical",
+                  "coords": [
+                        74.288738,
+                        31.530736
+                  ]
+            },
+            {
+                  "name": "Grand Battery",
+                  "text": "A Grand Battery egy történelmi műemlék Lahorban.",
+                  "category": "historical",
+                  "coords": [
+                        74.285053,
+                        31.528073
+                  ]
+            },
+            {
+                  "name": "Tomb of Mian Wazir Ali",
+                  "text": "Mian Wazir Ali sírja egy monumentális temetkezési hely Lahorban.",
+                  "category": "historical",
+                  "coords": [
+                        74.306161,
+                        31.550711
+                  ]
+            },
+            {
+                  "name": "Darbar Bibi Fatima Kalan",
+                  "text": "A Darbar Bibi Fatima Kalan egy emlékmű Lahorban.",
+                  "category": "historical",
+                  "coords": [
+                        74.309008,
+                        31.562668
+                  ]
+            },
+            {
+                  "name": "Kos Minar",
+                  "text": "A Kos Minar egy ősi mérföldkő-emlékmű Lahorban.",
+                  "category": "historical",
+                  "coords": [
+                        74.353325,
+                        31.564574
+                  ]
+            },
+            {
+                  "name": "Shadi Lal Haveli",
+                  "text": "A Shadi Lal Haveli egy hagyományos udvarház Lahorban.",
+                  "category": "historical",
+                  "coords": [
+                        74.30991,
+                        31.560724
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial",
+                  "text": "A Viktória királynő emlékmű egy gyarmati korszakból származó műemlék Lahorban.",
+                  "category": "historical",
+                  "coords": [
+                        74.324695,
+                        31.560073
+                  ]
+            },
+            {
+                  "name": "Baradari of Wazir Khan",
+                  "text": "A Wazir Khan Baradarija egy történelmi pavilon emlékmű Lahorban.",
+                  "category": "historical",
+                  "coords": [
+                        74.307732,
+                        31.567739
+                  ]
+            },
+            {
+                  "name": "Alhamra Art Centre",
+                  "text": "Az Alhamra Művészeti Központ egy kiemelkedő, művészeteknek szentelt kulturális helyszín Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.329639,
+                        31.557971
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ez az amfiteátrum egy szabadtéri színházi helyszín Lahorban.",
+                  "category": "cultural",
+                  "coords": [
+                        74.327273,
+                        31.553826
+                  ]
+            },
+            {
+                  "name": "Janazgah",
+                  "text": "A Janazgah egy temetési imákra felszentelt istentiszteleti hely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.316979,
+                        31.535643
+                  ]
+            },
+            {
+                  "name": "Darbar Shahanshah Wali",
+                  "text": "A Darbar Shahanshah Wali egy spirituális istentiszteleti hely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.314438,
+                        31.530395
+                  ]
+            },
+            {
+                  "name": "Shrine of Khajoor Wali Sarkar",
+                  "text": "A Khajoor Wali Sarkar szentély egy tisztelt istentiszteleti hely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.304896,
+                        31.529449
+                  ]
+            },
+            {
+                  "name": "Shrine of Tariq Abbas Durrani",
+                  "text": "Tariq Abbas Durrani szentélye egy vallási istentiszteleti hely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.360762,
+                        31.545861
+                  ]
+            },
+            {
+                  "name": "Shrine of Rangilay Shah",
+                  "text": "A Rangilay Shah szentély egy szent istentiszteleti hely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.361493,
+                        31.546812
+                  ]
+            },
+            {
+                  "name": "Shrine of Pir Ghazi Baba",
+                  "text": "Pir Ghazi Baba szentélye egy istentiszteleti és zarándokhely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.315237,
+                        31.535524
+                  ]
+            },
+            {
+                  "name": "Khizra Masjid",
+                  "text": "A Khizra Masjid egy helyi mecset, amely imádkozási helyet biztosít Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.303972,
+                        31.533955
+                  ]
+            },
+            {
+                  "name": "Noorani Masjid",
+                  "text": "A Noorani Masjid egy működő mecset Lahor városában.",
+                  "category": "religious",
+                  "coords": [
+                        74.299465,
+                        31.536899
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Umer Farooq",
+                  "text": "A Jamia Masjid Umer Farooq egy gyülekezeti mecset Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.297592,
+                        31.537423
+                  ]
+            },
+            {
+                  "name": "Jaffria Imam Bargah",
+                  "text": "A Jaffria Imam Bargah egy mecset és gyülekezeti terem Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.281087,
+                        31.538345
+                  ]
+            },
+            {
+                  "name": "Miani Sahib Eidgah and Janazgah",
+                  "text": "A Miani Sahib Eidgah és Janazgah egy figyelemre méltó istentiszteleti és temetési imádkozóhely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.307288,
+                        31.55141
+                  ]
+            },
+            {
+                  "name": "Shrine of Hazrat Wasif Ali Wasif",
+                  "text": "Hazrat Wasif Ali Wasif szentélye egy tisztelt istentiszteleti hely Lahorban.",
+                  "category": "religious",
+                  "coords": [
+                        74.310979,
+                        31.549851
+                  ]
+            },
+            {
+                  "name": "Jan Muhammad Hazoori Dargah Mosque",
+                  "text": "A Jan Muhammad Hazoori Dargah Mosque egy helyi iszlám istentiszteleti hely a pk-bagh-e-jinnah-life-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        74.34448,
+                        31.564053
+                  ]
+            },
+            {
+                  "name": "Naqi Market",
+                  "text": "A Naqi Market egy helyi vásárlási lehetőségeket kínáló piac a pk-bagh-e-jinnah-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        74.321659,
+                        31.560575
+                  ]
+            },
+            {
+                  "name": "Marble Market",
+                  "text": "A Marble Market egy kereskedelmi piac a pk-bagh-e-jinnah-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        74.320531,
+                        31.529302
+                  ]
+            },
+            {
+                  "name": "Moon Market Iqbal Town",
+                  "text": "A Moon Market Iqbal Town egy különféle árukat kínáló piac a pk-bagh-e-jinnah-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        74.291153,
+                        31.520158
+                  ]
+            },
+            {
+                  "name": "Tollinton Bird Market",
+                  "text": "A Tollinton Bird Market egy speciális piac a pk-bagh-e-jinnah-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        74.319143,
+                        31.542747
+                  ]
+            },
+            {
+                  "name": "Mobile Market",
+                  "text": "A Mobile Market egy dedikált kereskedelmi terület a pk-bagh-e-jinnah-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        74.319868,
+                        31.564117
+                  ]
+            },
+            {
+                  "name": "Dharampura Main Bazaar",
+                  "text": "A Dharampura Main Bazaar egy központi piac a pk-bagh-e-jinnah-life-v2 lakói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        74.364726,
+                        31.551628
+                  ]
+            },
+            {
+                  "name": "City Shopping Center",
+                  "text": "A City Shopping Center egy kiskereskedelmi tevékenységeket szolgáló komplexum a pk-bagh-e-jinnah-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        74.363441,
+                        31.552469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chauburji",
+                  "text": "Chauburji este un monument proeminent din epoca Mughal situat în Lahore, cunoscut pentru cele patru minarete ale sale.",
+                  "category": "historical",
+                  "coords": [
+                        74.304593,
+                        31.553933
+                  ]
+            },
+            {
+                  "name": "Shuhada",
+                  "text": "Masjid-e-Shuhada este un lăcaș de cult notabil situat în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.319957,
+                        31.561261
+                  ]
+            },
+            {
+                  "name": "Shrine of Mian Mir",
+                  "text": "Altarul lui Mian Mir este un faimos altar sufit și lăcaș de cult situat în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.360086,
+                        31.548372
+                  ]
+            },
+            {
+                  "name": "Jinnah Gardens",
+                  "text": "Jinnah Gardens, cunoscut și sub numele de Bagh-e-Jinnah, este un parc istoric major din Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.330543,
+                        31.552611
+                  ]
+            },
+            {
+                  "name": "Race Course Park",
+                  "text": "Race Course Park, oficial Jilani Park, este un parc public mare situat în Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.336505,
+                        31.543583
+                  ]
+            },
+            {
+                  "name": "Zaman Park",
+                  "text": "Zaman Park este un parc urban și o zonă rezidențială din Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.353279,
+                        31.550819
+                  ]
+            },
+            {
+                  "name": "Akhavan House",
+                  "text": "Casa Akhavan este un monument arhitectural situat în Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.33975,
+                        31.556281
+                  ]
+            },
+            {
+                  "name": "Bait Raza",
+                  "text": "Bait Raza este un monument local situat în orașul Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.288738,
+                        31.530736
+                  ]
+            },
+            {
+                  "name": "Grand Battery",
+                  "text": "Grand Battery este un monument istoric situat în Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.285053,
+                        31.528073
+                  ]
+            },
+            {
+                  "name": "Tomb of Mian Wazir Ali",
+                  "text": "Mormântul lui Mian Wazir Ali este un loc de înmormântare monumental situat în Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.306161,
+                        31.550711
+                  ]
+            },
+            {
+                  "name": "Darbar Bibi Fatima Kalan",
+                  "text": "Darbar Bibi Fatima Kalan este un monument memorial situat în Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.309008,
+                        31.562668
+                  ]
+            },
+            {
+                  "name": "Kos Minar",
+                  "text": "Kos Minar este un vechi monument kilometric situat în Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.353325,
+                        31.564574
+                  ]
+            },
+            {
+                  "name": "Shadi Lal Haveli",
+                  "text": "Shadi Lal Haveli este un conac tradițional situat în Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.30991,
+                        31.560724
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial",
+                  "text": "Memorialul Regina Victoria este un monument din epoca colonială situat în Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.324695,
+                        31.560073
+                  ]
+            },
+            {
+                  "name": "Baradari of Wazir Khan",
+                  "text": "Baradari din Wazir Khan este un monument de tip pavilion istoric situat în Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.307732,
+                        31.567739
+                  ]
+            },
+            {
+                  "name": "Alhamra Art Centre",
+                  "text": "Centrul de Artă Alhamra este un loc cultural proeminent dedicat artelor din Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.329639,
+                        31.557971
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Acest amfiteatru este un loc de teatru în aer liber situat în Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.327273,
+                        31.553826
+                  ]
+            },
+            {
+                  "name": "Janazgah",
+                  "text": "Janazgah este un lăcaș de cult dedicat rugăciunilor funerare situat în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.316979,
+                        31.535643
+                  ]
+            },
+            {
+                  "name": "Darbar Shahanshah Wali",
+                  "text": "Darbar Shahanshah Wali este un lăcaș de cult spiritual situat în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.314438,
+                        31.530395
+                  ]
+            },
+            {
+                  "name": "Shrine of Khajoor Wali Sarkar",
+                  "text": "Altarul lui Khajoor Wali Sarkar este un lăcaș de cult venerat situat în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.304896,
+                        31.529449
+                  ]
+            },
+            {
+                  "name": "Shrine of Tariq Abbas Durrani",
+                  "text": "Altarul lui Tariq Abbas Durrani este un lăcaș de cult religios situat în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.360762,
+                        31.545861
+                  ]
+            },
+            {
+                  "name": "Shrine of Rangilay Shah",
+                  "text": "Altarul lui Rangilay Shah este un lăcaș de cult sacru situat în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.361493,
+                        31.546812
+                  ]
+            },
+            {
+                  "name": "Shrine of Pir Ghazi Baba",
+                  "text": "Altarul lui Pir Ghazi Baba este un lăcaș de cult și pelerinaj din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.315237,
+                        31.535524
+                  ]
+            },
+            {
+                  "name": "Khizra Masjid",
+                  "text": "Khizra Masjid este o moschee locală care oferă un spațiu de rugăciune în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.303972,
+                        31.533955
+                  ]
+            },
+            {
+                  "name": "Noorani Masjid",
+                  "text": "Noorani Masjid este o moschee funcțională situată în orașul Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.299465,
+                        31.536899
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Umer Farooq",
+                  "text": "Jamia Masjid Umer Farooq este o moschee congregațională situată în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.297592,
+                        31.537423
+                  ]
+            },
+            {
+                  "name": "Jaffria Imam Bargah",
+                  "text": "Jaffria Imam Bargah este o moschee și o sală de adunare situată în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.281087,
+                        31.538345
+                  ]
+            },
+            {
+                  "name": "Miani Sahib Eidgah and Janazgah",
+                  "text": "Miani Sahib Eidgah și Janazgah este un lăcaș de cult notabil și un teren de rugăciune funerară din Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.307288,
+                        31.55141
+                  ]
+            },
+            {
+                  "name": "Shrine of Hazrat Wasif Ali Wasif",
+                  "text": "Altarul lui Hazrat Wasif Ali Wasif este un lăcaș de cult respectat situat în Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.310979,
+                        31.549851
+                  ]
+            },
+            {
+                  "name": "Jan Muhammad Hazoori Dargah Mosque",
+                  "text": "Moscheea Jan Muhammad Hazoori Dargah este un lăcaș de cult islamic local situat în pk-bagh-e-jinnah-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        74.34448,
+                        31.564053
+                  ]
+            },
+            {
+                  "name": "Naqi Market",
+                  "text": "Naqi Market este o piață comercială pentru cumpărături locale în pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.321659,
+                        31.560575
+                  ]
+            },
+            {
+                  "name": "Marble Market",
+                  "text": "Marble Market este o zonă comercială situată în pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.320531,
+                        31.529302
+                  ]
+            },
+            {
+                  "name": "Moon Market Iqbal Town",
+                  "text": "Moon Market Iqbal Town este o piață locală ce oferă diverse mărfuri în pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.291153,
+                        31.520158
+                  ]
+            },
+            {
+                  "name": "Tollinton Bird Market",
+                  "text": "Tollinton Bird Market este o piață specializată din pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.319143,
+                        31.542747
+                  ]
+            },
+            {
+                  "name": "Mobile Market",
+                  "text": "Mobile Market este o zonă comercială dedicată în pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.319868,
+                        31.564117
+                  ]
+            },
+            {
+                  "name": "Dharampura Main Bazaar",
+                  "text": "Dharampura Main Bazaar este o piață centrală pentru locuitorii din pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.364726,
+                        31.551628
+                  ]
+            },
+            {
+                  "name": "City Shopping Center",
+                  "text": "City Shopping Center este un complex comercial pentru activități de retail în pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.363441,
+                        31.552469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chauburji",
+                  "text": "Chauburji is a prominent Mughal-era monument located in Lahore, known for its four minarets.",
+                  "category": "historical",
+                  "coords": [
+                        74.304593,
+                        31.553933
+                  ]
+            },
+            {
+                  "name": "Shuhada",
+                  "text": "Masjid-e-Shuhada is a notable place of worship situated in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.319957,
+                        31.561261
+                  ]
+            },
+            {
+                  "name": "Shrine of Mian Mir",
+                  "text": "The Shrine of Mian Mir is a famous Sufi shrine and place of worship located in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.360086,
+                        31.548372
+                  ]
+            },
+            {
+                  "name": "Jinnah Gardens",
+                  "text": "Jinnah Gardens, also known as Bagh-e-Jinnah, is a major historical park in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.330543,
+                        31.552611
+                  ]
+            },
+            {
+                  "name": "Race Course Park",
+                  "text": "Race Course Park, officially Jilani Park, is a large public park situated in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.336505,
+                        31.543583
+                  ]
+            },
+            {
+                  "name": "Zaman Park",
+                  "text": "Zaman Park is an urban park and residential area located in Lahore.",
+                  "category": "park",
+                  "coords": [
+                        74.353279,
+                        31.550819
+                  ]
+            },
+            {
+                  "name": "Akhavan House",
+                  "text": "Akhavan House is an architectural monument situated in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.33975,
+                        31.556281
+                  ]
+            },
+            {
+                  "name": "Bait Raza",
+                  "text": "Bait Raza is a local monument situated in the city of Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.288738,
+                        31.530736
+                  ]
+            },
+            {
+                  "name": "Grand Battery",
+                  "text": "Grand Battery is a historical monument located in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.285053,
+                        31.528073
+                  ]
+            },
+            {
+                  "name": "Tomb of Mian Wazir Ali",
+                  "text": "The Tomb of Mian Wazir Ali is a monumental burial site located in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.306161,
+                        31.550711
+                  ]
+            },
+            {
+                  "name": "Darbar Bibi Fatima Kalan",
+                  "text": "Darbar Bibi Fatima Kalan is a memorial monument located in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.309008,
+                        31.562668
+                  ]
+            },
+            {
+                  "name": "Kos Minar",
+                  "text": "Kos Minar is an ancient milestone monument situated in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.353325,
+                        31.564574
+                  ]
+            },
+            {
+                  "name": "Shadi Lal Haveli",
+                  "text": "Shadi Lal Haveli is a traditional manor house located in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.30991,
+                        31.560724
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial",
+                  "text": "The Queen Victoria Memorial is a colonial-era monument situated in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.324695,
+                        31.560073
+                  ]
+            },
+            {
+                  "name": "Baradari of Wazir Khan",
+                  "text": "The Baradari of Wazir Khan is a historic pavilion monument located in Lahore.",
+                  "category": "historical",
+                  "coords": [
+                        74.307732,
+                        31.567739
+                  ]
+            },
+            {
+                  "name": "Alhamra Art Centre",
+                  "text": "The Alhamra Art Centre is a prominent cultural venue dedicated to the arts in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.329639,
+                        31.557971
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "This amphitheater is an open-air theatre venue located in Lahore.",
+                  "category": "cultural",
+                  "coords": [
+                        74.327273,
+                        31.553826
+                  ]
+            },
+            {
+                  "name": "Janazgah",
+                  "text": "Janazgah is a dedicated place of worship for funeral prayers situated in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.316979,
+                        31.535643
+                  ]
+            },
+            {
+                  "name": "Darbar Shahanshah Wali",
+                  "text": "Darbar Shahanshah Wali is a spiritual place of worship located in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.314438,
+                        31.530395
+                  ]
+            },
+            {
+                  "name": "Shrine of Khajoor Wali Sarkar",
+                  "text": "The Shrine of Khajoor Wali Sarkar is a revered place of worship situated in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.304896,
+                        31.529449
+                  ]
+            },
+            {
+                  "name": "Shrine of Tariq Abbas Durrani",
+                  "text": "The Shrine of Tariq Abbas Durrani is a religious place of worship located in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.360762,
+                        31.545861
+                  ]
+            },
+            {
+                  "name": "Shrine of Rangilay Shah",
+                  "text": "The Shrine of Rangilay Shah is a sacred place of worship located in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.361493,
+                        31.546812
+                  ]
+            },
+            {
+                  "name": "Shrine of Pir Ghazi Baba",
+                  "text": "The Shrine of Pir Ghazi Baba is a place of worship and pilgrimage in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.315237,
+                        31.535524
+                  ]
+            },
+            {
+                  "name": "Khizra Masjid",
+                  "text": "Khizra Masjid is a local mosque providing a space for prayer in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.303972,
+                        31.533955
+                  ]
+            },
+            {
+                  "name": "Noorani Masjid",
+                  "text": "Noorani Masjid is a functioning mosque situated in the city of Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.299465,
+                        31.536899
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Umer Farooq",
+                  "text": "Jamia Masjid Umer Farooq is a congregational mosque located in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.297592,
+                        31.537423
+                  ]
+            },
+            {
+                  "name": "Jaffria Imam Bargah",
+                  "text": "Jaffria Imam Bargah is a mosque and congregation hall located in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.281087,
+                        31.538345
+                  ]
+            },
+            {
+                  "name": "Miani Sahib Eidgah and Janazgah",
+                  "text": "Miani Sahib Eidgah and Janazgah is a notable place of worship and funeral prayer ground in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.307288,
+                        31.55141
+                  ]
+            },
+            {
+                  "name": "Shrine of Hazrat Wasif Ali Wasif",
+                  "text": "The Shrine of Hazrat Wasif Ali Wasif is a respected place of worship situated in Lahore.",
+                  "category": "religious",
+                  "coords": [
+                        74.310979,
+                        31.549851
+                  ]
+            },
+            {
+                  "name": "Jan Muhammad Hazoori Dargah Mosque",
+                  "text": "The Jan Muhammad Hazoori Dargah Mosque is a local Islamic place of worship situated in pk-bagh-e-jinnah-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        74.34448,
+                        31.564053
+                  ]
+            },
+            {
+                  "name": "Naqi Market",
+                  "text": "Naqi Market is a bustling marketplace for local shopping in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.321659,
+                        31.560575
+                  ]
+            },
+            {
+                  "name": "Marble Market",
+                  "text": "Marble Market is a commercial trading area located in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.320531,
+                        31.529302
+                  ]
+            },
+            {
+                  "name": "Moon Market Iqbal Town",
+                  "text": "Moon Market Iqbal Town is a local market offering various goods in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.291153,
+                        31.520158
+                  ]
+            },
+            {
+                  "name": "Tollinton Bird Market",
+                  "text": "Tollinton Bird Market is a specialized marketplace found in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.319143,
+                        31.542747
+                  ]
+            },
+            {
+                  "name": "Mobile Market",
+                  "text": "Mobile Market is a dedicated commercial area in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.319868,
+                        31.564117
+                  ]
+            },
+            {
+                  "name": "Dharampura Main Bazaar",
+                  "text": "Dharampura Main Bazaar is a central marketplace for the residents of pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.364726,
+                        31.551628
+                  ]
+            },
+            {
+                  "name": "City Shopping Center",
+                  "text": "The City Shopping Center is a commercial complex for retail activities in pk-bagh-e-jinnah-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        74.363441,
+                        31.552469
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PK-PB",
     coords: [74.32, 31.55],

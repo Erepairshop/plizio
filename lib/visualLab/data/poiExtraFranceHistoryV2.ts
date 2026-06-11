@@ -2434,7 +2434,7 @@ export const franceHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Château de la Tour du Breuil",
-                  "text": "Ein historisches Schloss in der Nähe von Valençay.",
+                  "text": "Schloss in Valençay, eingetragen als historisches Denkmal, das mit der Familie Talleyrand verbunden ist.",
                   "category": "castle",
                   "coords": [
                         1.54634,
@@ -2488,7 +2488,7 @@ export const franceHistoryV2: POI[] = [
             },
             {
                   "name": "Chapelle Notre-Dame",
-                  "text": "Eine kleine Kapelle in der Gegend von Valençay.",
+                  "text": "Kapelle Notre-Dame in Valençay Talleyrand.",
                   "category": "religious",
                   "coords": [
                         1.568185,
@@ -2497,7 +2497,7 @@ export const franceHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Martin",
-                  "text": "Die historische Pfarrkirche von Valençay.",
+                  "text": "Kirche Saint-Martin in Valençay, nahe dem Schloss Talleyrand.",
                   "category": "religious",
                   "coords": [
                         1.574152,
@@ -2508,7 +2508,7 @@ export const franceHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Château de la Tour du Breuil",
-                  "text": "Történelmi kastély Valençay környékén.",
+                  "text": "Kastély Valençay-ban, történelmi műemlék, amely a Talleyrand családhoz kötődik.",
                   "category": "castle",
                   "coords": [
                         1.54634,
@@ -2562,7 +2562,7 @@ export const franceHistoryV2: POI[] = [
             },
             {
                   "name": "Chapelle Notre-Dame",
-                  "text": "Egy kis kápolna Valençay környékén.",
+                  "text": "Notre-Dame kápolna Valençay Talleyrandban.",
                   "category": "religious",
                   "coords": [
                         1.568185,
@@ -2571,7 +2571,7 @@ export const franceHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Martin",
-                  "text": "Valençay történelmi plébániatemploma.",
+                  "text": "Szent Márton-templom Valençay-ban, a Talleyrand-kastély közelében.",
                   "category": "religious",
                   "coords": [
                         1.574152,
@@ -2582,7 +2582,7 @@ export const franceHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Château de la Tour du Breuil",
-                  "text": "Un castel istoric situat în apropiere de Valençay.",
+                  "text": "Castel în Valençay, monument istoric asociat familiei Talleyrand.",
                   "category": "castle",
                   "coords": [
                         1.54634,
@@ -2636,7 +2636,7 @@ export const franceHistoryV2: POI[] = [
             },
             {
                   "name": "Chapelle Notre-Dame",
-                  "text": "O mică capelă situată în zona Valençay.",
+                  "text": "Capela Notre-Dame în Valençay Talleyrand.",
                   "category": "religious",
                   "coords": [
                         1.568185,
@@ -2645,7 +2645,7 @@ export const franceHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Martin",
-                  "text": "Biserica parohială istorică din Valençay.",
+                  "text": "Biserica Saint-Martin din Valençay, lângă castelul Talleyrand.",
                   "category": "religious",
                   "coords": [
                         1.574152,
@@ -2656,7 +2656,7 @@ export const franceHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Château de la Tour du Breuil",
-                  "text": "A historic castle located in the vicinity of Valençay.",
+                  "text": "Castle in Valençay, listed as a historical monument, associated with the Talleyrand family.",
                   "category": "castle",
                   "coords": [
                         1.54634,
@@ -2710,7 +2710,7 @@ export const franceHistoryV2: POI[] = [
             },
             {
                   "name": "Chapelle Notre-Dame",
-                  "text": "A small chapel located in the Valençay area.",
+                  "text": "Notre-Dame chapel in Valençay Talleyrand.",
                   "category": "religious",
                   "coords": [
                         1.568185,
@@ -2719,7 +2719,7 @@ export const franceHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Martin",
-                  "text": "The historic parish church of Valençay.",
+                  "text": "Church Saint-Martin in Valençay, near the Château de Talleyrand.",
                   "category": "religious",
                   "coords": [
                         1.574152,

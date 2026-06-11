@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraQatarLandmarksV2: POI[] = [
   {
-    id: "qatar-museum-of-islamic-art-landmarks-v2",
+    id: "qatar-museum-of-islamic-art-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The 7 Sculpture By Richard Serra",
+                  "text": "Eine über 24 Meter hohe Stahlskulptur von Richard Serra, die aus sieben massiven Platten besteht und direkt am Hafen steht.",
+                  "category": "landmark",
+                  "coords": [
+                        51.539774,
+                        25.297949
+                  ]
+            },
+            {
+                  "name": "Museum für Islamische Kunst",
+                  "text": "Das von I.M. Pei entworfene Museum beherbergt eine bedeutende Sammlung islamischer Kunst aus 1.400 Jahren Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        51.539397,
+                        25.295528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The 7 Sculpture By Richard Serra",
+                  "text": "Richard Serra több mint 24 méter magas acélszobra, amely hét hatalmas lemezből áll, és közvetlenül a kikötőben áll.",
+                  "category": "landmark",
+                  "coords": [
+                        51.539774,
+                        25.297949
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Art",
+                  "text": "Az I.M. Pei által tervezett múzeum az iszlám művészet jelentős gyűjteményének ad otthont 1400 év történelméből.",
+                  "category": "museum",
+                  "coords": [
+                        51.539397,
+                        25.295528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The 7 Sculpture By Richard Serra",
+                  "text": "O sculptură de oțel de peste 24 de metri înălțime de Richard Serra, compusă din șapte plăci masive, situată chiar în port.",
+                  "category": "landmark",
+                  "coords": [
+                        51.539774,
+                        25.297949
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Art",
+                  "text": "Muzeul proiectat de I.M. Pei găzduiește o colecție importantă de artă islamică din 1.400 de ani de istorie.",
+                  "category": "museum",
+                  "coords": [
+                        51.539397,
+                        25.295528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The 7 Sculpture By Richard Serra",
+                  "text": "An 80-foot high steel sculpture by Richard Serra, composed of seven massive plates, standing right in the harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        51.539774,
+                        25.297949
+                  ]
+            },
+            {
+                  "name": "Museum of Islamic Art",
+                  "text": "Designed by I.M. Pei, the museum houses a major collection of Islamic art spanning 1,400 years of history.",
+                  "category": "museum",
+                  "coords": [
+                        51.539397,
+                        25.295528
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.5395, 25.2954],
@@ -67,7 +148,196 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-national-museum-landmarks-v2",
+    id: "qatar-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sheikh Abdulla bin Jassim Al-Thani Palace",
+                  "text": "Dieser restaurierte Palast aus dem frühen 20. Jahrhundert diente einst als Residenz der Herrscherfamilie von Katar.",
+                  "category": "castle",
+                  "coords": [
+                        51.548275,
+                        25.287927
+                  ]
+            },
+            {
+                  "name": "Oasis Beach Club",
+                  "text": "Dieses Strandresort bietet Freizeiteinrichtungen und einen weiten Blick auf die moderne Skyline von Doha.",
+                  "category": "recreational",
+                  "coords": [
+                        51.558936,
+                        25.286068
+                  ]
+            },
+            {
+                  "name": "National Museum of Qatar",
+                  "text": "Die Architektur dieses von Jean Nouvel entworfenen Museums ist von der Formation der Wüstenrose inspiriert.",
+                  "category": "museum",
+                  "coords": [
+                        51.549175,
+                        25.287705
+                  ]
+            },
+            {
+                  "name": "Nasser Ali Majid Al-Badr Mosque",
+                  "text": "Diese Moschee zeichnet sich durch ihr traditionelles Mauerwerk und ein klassisch gestaltetes Minarett aus.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550589,
+                        25.25955
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr Al Siddiq",
+                  "text": "Ein markantes religiöses Wahrzeichen, das für seine friedliche Gebetshalle und sein schlichtes, traditionelles Design bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.551125,
+                        25.282109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sheikh Abdulla bin Jassim Al-Thani Palace",
+                  "text": "Ez a felújított, 20. század eleji palota egykor a katari uralkodócsalád rezidenciájaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        51.548275,
+                        25.287927
+                  ]
+            },
+            {
+                  "name": "Oasis Beach Club",
+                  "text": "Ez a tengerparti üdülőhely kikapcsolódási lehetőségeket és széles kilátást kínál Doha modern látképére.",
+                  "category": "recreational",
+                  "coords": [
+                        51.558936,
+                        25.286068
+                  ]
+            },
+            {
+                  "name": "National Museum of Qatar",
+                  "text": "A Jean Nouvel által tervezett múzeum építészetét a sivatagi rózsa nevű kristályformáció ihlette.",
+                  "category": "museum",
+                  "coords": [
+                        51.549175,
+                        25.287705
+                  ]
+            },
+            {
+                  "name": "Nasser Ali Majid Al-Badr Mosque",
+                  "text": "Ez a mecset hagyományos kőművesmunkáival és klasszikus kialakítású minaretjével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550589,
+                        25.25955
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr Al Siddiq",
+                  "text": "Jellegzetes vallási helyszín, amely békés imaterméről és letisztult, hagyományos kialakításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.551125,
+                        25.282109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sheikh Abdulla bin Jassim Al-Thani Palace",
+                  "text": "Acest palat restaurat de la începutul secolului XX a servit cândva drept reședință a familiei domnitoare din Qatar.",
+                  "category": "castle",
+                  "coords": [
+                        51.548275,
+                        25.287927
+                  ]
+            },
+            {
+                  "name": "Oasis Beach Club",
+                  "text": "Această stațiune de pe plajă oferă facilități de recreere și o vedere largă asupra orizontului modern din Doha.",
+                  "category": "recreational",
+                  "coords": [
+                        51.558936,
+                        25.286068
+                  ]
+            },
+            {
+                  "name": "National Museum of Qatar",
+                  "text": "Arhitectura acestui muzeu, proiectat de Jean Nouvel, este inspirată de formațiunea de cristal „trandafirul deșertului”.",
+                  "category": "museum",
+                  "coords": [
+                        51.549175,
+                        25.287705
+                  ]
+            },
+            {
+                  "name": "Nasser Ali Majid Al-Badr Mosque",
+                  "text": "Această moschee se remarcă prin zidăria sa tradițională și printr-un minaret cu design clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550589,
+                        25.25955
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr Al Siddiq",
+                  "text": "Un reper religios important, cunoscut pentru sala sa de rugăciune liniștită și designul tradițional simplu.",
+                  "category": "landmark",
+                  "coords": [
+                        51.551125,
+                        25.282109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sheikh Abdulla bin Jassim Al-Thani Palace",
+                  "text": "This restored early 20th-century palace once served as the residence of Qatar's ruling family.",
+                  "category": "castle",
+                  "coords": [
+                        51.548275,
+                        25.287927
+                  ]
+            },
+            {
+                  "name": "Oasis Beach Club",
+                  "text": "This beach resort offers recreational facilities and a wide view of Doha's modern skyline.",
+                  "category": "recreational",
+                  "coords": [
+                        51.558936,
+                        25.286068
+                  ]
+            },
+            {
+                  "name": "National Museum of Qatar",
+                  "text": "The architecture of this museum, designed by Jean Nouvel, is inspired by the desert rose crystal formation.",
+                  "category": "museum",
+                  "coords": [
+                        51.549175,
+                        25.287705
+                  ]
+            },
+            {
+                  "name": "Nasser Ali Majid Al-Badr Mosque",
+                  "text": "This mosque stands out for its traditional stonework and a classically designed minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        51.550589,
+                        25.25955
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Bakr Al Siddiq",
+                  "text": "A prominent religious landmark known for its peaceful prayer hall and simple traditional design.",
+                  "category": "landmark",
+                  "coords": [
+                        51.551125,
+                        25.282109
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.5492, 25.2869],
@@ -131,7 +401,52 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-souq-waqif-landmarks-v2",
+    id: "qatar-souq-waqif-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parisa Souq Waqif",
+                  "text": "Dieses prunkvolle iranische Restaurant ist für seine glitzernden Spiegelmosaike und kunstvollen Verzierungen bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.533596,
+                        25.287801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parisa Souq Waqif",
+                  "text": "Ez a díszes iráni étterem csillogó tükörmozaikjairól és művészi díszítéseiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        51.533596,
+                        25.287801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parisa Souq Waqif",
+                  "text": "Acest restaurant iranian somptuos este cunoscut pentru mozaicurile sale de oglinzi strălucitoare și decorațiunile artistice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.533596,
+                        25.287801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parisa Souq Waqif",
+                  "text": "This ornate Iranian restaurant is famous for its dazzling mirror mosaics and artistic decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        51.533596,
+                        25.287801
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.5333, 25.2878],
@@ -195,7 +510,160 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-the-pearl-landmarks-v2",
+    id: "qatar-the-pearl-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Pearl-Quatar",
+                  "text": "Eine künstliche Inselgruppe mit luxuriösen Jachthäfen im mediterranen Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        51.551205,
+                        25.369545
+                  ]
+            },
+            {
+                  "name": "Isola Dana",
+                  "text": "Eine exklusive Gruppe privater Inseln innerhalb der luxuriösen Anlage The Pearl.",
+                  "category": "landmark",
+                  "coords": [
+                        51.579174,
+                        25.365806
+                  ]
+            },
+            {
+                  "name": "Venetian Carousel",
+                  "text": "Ein klassisches zweistöckiges Karussell im venezianisch inspirierten Viertel Qanat Quartier.",
+                  "category": "landmark",
+                  "coords": [
+                        51.547952,
+                        25.370912
+                  ]
+            },
+            {
+                  "name": "Costa Fanar Mosque",
+                  "text": "Eine zeitgenössische Moschee, die das Wohngebiet Costa Fanar auf der Insel The Pearl bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        51.553279,
+                        25.374545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Pearl-Quatar",
+                  "text": "Egy mesterséges szigetcsoport luxusjachtkikötőkkel és mediterrán stílusú épületekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        51.551205,
+                        25.369545
+                  ]
+            },
+            {
+                  "name": "Isola Dana",
+                  "text": "Exkluzív privát szigetcsoport a The Pearl luxusnegyedén belül.",
+                  "category": "landmark",
+                  "coords": [
+                        51.579174,
+                        25.365806
+                  ]
+            },
+            {
+                  "name": "Venetian Carousel",
+                  "text": "Egy klasszikus kétszintes körhinta a velencei stílusú Qanat negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.547952,
+                        25.370912
+                  ]
+            },
+            {
+                  "name": "Costa Fanar Mosque",
+                  "text": "Egy kortárs mecset, amely a The Pearl szigeten található Costa Fanar lakónegyedet szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        51.553279,
+                        25.374545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Pearl-Quatar",
+                  "text": "Un arhipelag artificial cu porturi de agrement de lux și arhitectură în stil mediteranean.",
+                  "category": "landmark",
+                  "coords": [
+                        51.551205,
+                        25.369545
+                  ]
+            },
+            {
+                  "name": "Isola Dana",
+                  "text": "Un grup exclusivist de insule private în cadrul dezvoltării de lux The Pearl.",
+                  "category": "landmark",
+                  "coords": [
+                        51.579174,
+                        25.365806
+                  ]
+            },
+            {
+                  "name": "Venetian Carousel",
+                  "text": "Un carusel clasic cu două niveluri situat în cartierul Qanat, inspirat de Veneția.",
+                  "category": "landmark",
+                  "coords": [
+                        51.547952,
+                        25.370912
+                  ]
+            },
+            {
+                  "name": "Costa Fanar Mosque",
+                  "text": "O moschee contemporană care servește zona rezidențială Costa Fanar de pe insula The Pearl.",
+                  "category": "landmark",
+                  "coords": [
+                        51.553279,
+                        25.374545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Pearl-Quatar",
+                  "text": "A man-made island archipelago featuring luxury yacht marinas and Mediterranean-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        51.551205,
+                        25.369545
+                  ]
+            },
+            {
+                  "name": "Isola Dana",
+                  "text": "An exclusive cluster of private islands within the luxury Pearl development.",
+                  "category": "landmark",
+                  "coords": [
+                        51.579174,
+                        25.365806
+                  ]
+            },
+            {
+                  "name": "Venetian Carousel",
+                  "text": "A classic two-tier carousel located in the Venetian-inspired Qanat Quartier.",
+                  "category": "landmark",
+                  "coords": [
+                        51.547952,
+                        25.370912
+                  ]
+            },
+            {
+                  "name": "Costa Fanar Mosque",
+                  "text": "A contemporary mosque serving the Costa Fanar residential area on The Pearl island.",
+                  "category": "landmark",
+                  "coords": [
+                        51.553279,
+                        25.374545
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.5497, 25.3714],
@@ -259,7 +727,268 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-katara-cultural-village-landmarks-v2",
+    id: "qatar-katara-cultural-village-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yousef Ahmad",
+                  "text": "Dieser Kunstraum im Katara Cultural Village ist den Werken des katarischen Pionierkünstlers Yousef Ahmad gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        51.5263,
+                        25.360776
+                  ]
+            },
+            {
+                  "name": "Katara Cultural Village",
+                  "text": "Ein weitläufiger Kulturbezirk mit Amphitheatern, Galerien und traditioneller Architektur direkt am Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        51.524741,
+                        25.360913
+                  ]
+            },
+            {
+                  "name": "Lightning Stairs",
+                  "text": "Diese modern gestaltete Treppe im Katara-Viertel ist besonders für ihre markante abendliche Beleuchtung bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.529291,
+                        25.360908
+                  ]
+            },
+            {
+                  "name": "Katara Pigeon Towers (",
+                  "text": "Diese traditionellen Lehmziegelbauten dienten historisch zur Beherbergung von Tauben und sind ein Wahrzeichen von Katara.",
+                  "category": "landmark",
+                  "coords": [
+                        51.52505,
+                        25.359161
+                  ]
+            },
+            {
+                  "name": "OliOli Doha Children's Museum",
+                  "text": "Ein interaktives Museum für Kinder mit verschiedenen Themengalerien, die zum spielerischen Lernen einladen.",
+                  "category": "museum",
+                  "coords": [
+                        51.524321,
+                        25.361843
+                  ]
+            },
+            {
+                  "name": "Katara Art Center",
+                  "text": "Ein Zentrum für zeitgenössische Kunst im Katara-Bezirk, das Ateliers, Ausstellungsräume und Workshops bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        51.527454,
+                        25.360836
+                  ]
+            },
+            {
+                  "name": "Grace Fellowship",
+                  "text": "Eine moderne christliche Kapelle, die Gottesdienste im Katara Cultural Village anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498057,
+                        25.355857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yousef Ahmad",
+                  "text": "A Katara kulturális negyedben található művészeti tér Yousef Ahmad úttörő katari művész munkásságának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        51.5263,
+                        25.360776
+                  ]
+            },
+            {
+                  "name": "Katara Cultural Village",
+                  "text": "Kiterjedt kulturális negyed amfiteátrumokkal, galériákkal és hagyományos építészettel közvetlenül a tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        51.524741,
+                        25.360913
+                  ]
+            },
+            {
+                  "name": "Lightning Stairs",
+                  "text": "Ez a modern kialakítású lépcsősor a Katara negyedben különösen a jellegzetes esti kivilágításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.529291,
+                        25.360908
+                  ]
+            },
+            {
+                  "name": "Katara Pigeon Towers (",
+                  "text": "Ezek a hagyományos vályogtéglából készült tornyok galambok tartására szolgáltak, és Katara egyik jelképének számítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.52505,
+                        25.359161
+                  ]
+            },
+            {
+                  "name": "OliOli Doha Children's Museum",
+                  "text": "Interaktív gyermekmúzeum különböző tematikus galériákkal, amelyek játékos tanulásra ösztönöznek.",
+                  "category": "museum",
+                  "coords": [
+                        51.524321,
+                        25.361843
+                  ]
+            },
+            {
+                  "name": "Katara Art Center",
+                  "text": "Kortárs művészeti központ a Katara negyedben, amely műtermeknek, kiállítótereknek és workshopoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        51.527454,
+                        25.360836
+                  ]
+            },
+            {
+                  "name": "Grace Fellowship",
+                  "text": "Egy modern keresztény kápolna, amely istentiszteleteknek ad otthont a Katara kulturális negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498057,
+                        25.355857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yousef Ahmad",
+                  "text": "Acest spațiu de artă din Katara Cultural Village este dedicat lucrărilor artistului pionier qatarian Yousef Ahmad.",
+                  "category": "museum",
+                  "coords": [
+                        51.5263,
+                        25.360776
+                  ]
+            },
+            {
+                  "name": "Katara Cultural Village",
+                  "text": "Un district cultural vast cu amfiteatre, galerii și arhitectură tradițională chiar pe malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        51.524741,
+                        25.360913
+                  ]
+            },
+            {
+                  "name": "Lightning Stairs",
+                  "text": "Această scară cu design modern din districtul Katara este cunoscută în special pentru iluminarea sa nocturnă distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.529291,
+                        25.360908
+                  ]
+            },
+            {
+                  "name": "Katara Pigeon Towers (",
+                  "text": "Aceste turnuri tradiționale din cărămidă de lut au servit istoric pentru adăpostirea porumbeilor și sunt un simbol al Katarei.",
+                  "category": "landmark",
+                  "coords": [
+                        51.52505,
+                        25.359161
+                  ]
+            },
+            {
+                  "name": "OliOli Doha Children's Museum",
+                  "text": "Un muzeu interactiv pentru copii, cu diverse galerii tematice care încurajează învățarea prin joc.",
+                  "category": "museum",
+                  "coords": [
+                        51.524321,
+                        25.361843
+                  ]
+            },
+            {
+                  "name": "Katara Art Center",
+                  "text": "Un centru de artă contemporană din districtul Katara, care găzduiește studiouri, spații de expoziție și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        51.527454,
+                        25.360836
+                  ]
+            },
+            {
+                  "name": "Grace Fellowship",
+                  "text": "O capelă creștină modernă care oferă servicii religioase în satul cultural Katara.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498057,
+                        25.355857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yousef Ahmad",
+                  "text": "This art space within Katara Cultural Village is dedicated to the works of the pioneering Qatari artist Yousef Ahmad.",
+                  "category": "museum",
+                  "coords": [
+                        51.5263,
+                        25.360776
+                  ]
+            },
+            {
+                  "name": "Katara Cultural Village",
+                  "text": "A sprawling cultural district featuring amphitheatres, galleries, and traditional architecture right on the waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        51.524741,
+                        25.360913
+                  ]
+            },
+            {
+                  "name": "Lightning Stairs",
+                  "text": "This modernly designed staircase in the Katara district is especially known for its distinctive evening lighting.",
+                  "category": "landmark",
+                  "coords": [
+                        51.529291,
+                        25.360908
+                  ]
+            },
+            {
+                  "name": "Katara Pigeon Towers",
+                  "text": "These traditional mud-brick structures were historically used to house pigeons and are a landmark of Katara.",
+                  "category": "landmark",
+                  "coords": [
+                        51.52505,
+                        25.359161
+                  ]
+            },
+            {
+                  "name": "OliOli Doha Children's Museum",
+                  "text": "An interactive children's museum with various themed galleries designed for experiential learning.",
+                  "category": "museum",
+                  "coords": [
+                        51.524321,
+                        25.361843
+                  ]
+            },
+            {
+                  "name": "Katara Art Center",
+                  "text": "A contemporary art hub in the Katara district featuring studios, exhibition spaces, and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        51.527454,
+                        25.360836
+                  ]
+            },
+            {
+                  "name": "Grace Fellowship",
+                  "text": "A modern Christian chapel offering worship services within the Katara Cultural Village.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498057,
+                        25.355857
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.5269, 25.3592],
@@ -323,7 +1052,304 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-aspire-tower-landmarks-v2",
+    id: "qatar-aspire-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Rayyan Palace",
+                  "text": "Der Al Rayyan Palace ist ein prunkvolles Schloss in qatar-aspire-tower-landmarks-v2.",
+                  "category": "castle",
+                  "coords": [
+                        51.469755,
+                        25.286477
+                  ]
+            },
+            {
+                  "name": "Antique Gallery",
+                  "text": "Die Antique Gallery ist ein Ausstellungsraum in qatar-aspire-tower-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.4888,
+                        25.258464
+                  ]
+            },
+            {
+                  "name": "Fine Arts Center",
+                  "text": "Das Fine Arts Center fungiert als Theater in qatar-aspire-tower-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        51.48265,
+                        25.262863
+                  ]
+            },
+            {
+                  "name": "Aspire Tower",
+                  "text": "Der Aspire Tower ist ein markanter, 300 Meter hoher Wolkenkratzer und eine Attraktion in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.444747,
+                        25.262524
+                  ]
+            },
+            {
+                  "name": "Al Bayan Mosque",
+                  "text": "Die Al Bayan Mosque ist ein islamisches Gotteshaus in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.481409,
+                        25.268871
+                  ]
+            },
+            {
+                  "name": "Doha Fellowship",
+                  "text": "Die Doha Fellowship ist eine christliche Gemeinde und Kultstätte in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.481169,
+                        25.271004
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Diese Masjid ist eine lokale muslimische Kultstätte in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.47965,
+                        25.27162
+                  ]
+            },
+            {
+                  "name": "Aspire Mosque",
+                  "text": "Die Aspire Mosque ist eine islamische religiöse Stätte in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.446379,
+                        25.261838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Rayyan Palace",
+                  "text": "Az Al Rayyan Palace egy kastélyépület qatar-aspire-tower-landmarks-v2 területén.",
+                  "category": "castle",
+                  "coords": [
+                        51.469755,
+                        25.286477
+                  ]
+            },
+            {
+                  "name": "Antique Gallery",
+                  "text": "Az Antique Gallery egy galéria qatar-aspire-tower-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        51.4888,
+                        25.258464
+                  ]
+            },
+            {
+                  "name": "Fine Arts Center",
+                  "text": "A Fine Arts Center egy színházként működő központ qatar-aspire-tower-landmarks-v2 régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        51.48265,
+                        25.262863
+                  ]
+            },
+            {
+                  "name": "Aspire Tower",
+                  "text": "Az Aspire Tower egy 300 méter magas felhőkarcoló és turisztikai látványosság qatar-aspire-tower-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.444747,
+                        25.262524
+                  ]
+            },
+            {
+                  "name": "Al Bayan Mosque",
+                  "text": "Az Al Bayan Mosque egy muszlim imahely qatar-aspire-tower-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.481409,
+                        25.268871
+                  ]
+            },
+            {
+                  "name": "Doha Fellowship",
+                  "text": "A Doha Fellowship egy keresztény imahely qatar-aspire-tower-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.481169,
+                        25.271004
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Ez a mecset egy muszlim vallási hely qatar-aspire-tower-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.47965,
+                        25.27162
+                  ]
+            },
+            {
+                  "name": "Aspire Mosque",
+                  "text": "Az Aspire Mosque egy iszlám vallási központ qatar-aspire-tower-landmarks-v2 régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.446379,
+                        25.261838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Rayyan Palace",
+                  "text": "Al Rayyan Palace este un palat impunător din qatar-aspire-tower-landmarks-v2.",
+                  "category": "castle",
+                  "coords": [
+                        51.469755,
+                        25.286477
+                  ]
+            },
+            {
+                  "name": "Antique Gallery",
+                  "text": "Antique Gallery este un spațiu expozițional din qatar-aspire-tower-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.4888,
+                        25.258464
+                  ]
+            },
+            {
+                  "name": "Fine Arts Center",
+                  "text": "Fine Arts Center funcționează ca un teatru în qatar-aspire-tower-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        51.48265,
+                        25.262863
+                  ]
+            },
+            {
+                  "name": "Aspire Tower",
+                  "text": "Aspire Tower este un zgârie-nori de 300 de metri și o atracție proeminentă din qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.444747,
+                        25.262524
+                  ]
+            },
+            {
+                  "name": "Al Bayan Mosque",
+                  "text": "Al Bayan Mosque este un lăcaș de cult islamic din qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.481409,
+                        25.268871
+                  ]
+            },
+            {
+                  "name": "Doha Fellowship",
+                  "text": "Doha Fellowship este un loc de cult creștin din qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.481169,
+                        25.271004
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Acest masjid este un loc de rugăciune islamic în qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.47965,
+                        25.27162
+                  ]
+            },
+            {
+                  "name": "Aspire Mosque",
+                  "text": "Aspire Mosque este un sit religios islamic din qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.446379,
+                        25.261838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Rayyan Palace",
+                  "text": "Al Rayyan Palace is a majestic castle located in qatar-aspire-tower-landmarks-v2.",
+                  "category": "castle",
+                  "coords": [
+                        51.469755,
+                        25.286477
+                  ]
+            },
+            {
+                  "name": "Antique Gallery",
+                  "text": "The Antique Gallery is an exhibition space in qatar-aspire-tower-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        51.4888,
+                        25.258464
+                  ]
+            },
+            {
+                  "name": "Fine Arts Center",
+                  "text": "The Fine Arts Center functions as a theatre in qatar-aspire-tower-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        51.48265,
+                        25.262863
+                  ]
+            },
+            {
+                  "name": "Aspire Tower",
+                  "text": "Aspire Tower is a 300-metre-tall skyscraper hotel and prominent attraction in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.444747,
+                        25.262524
+                  ]
+            },
+            {
+                  "name": "Al Bayan Mosque",
+                  "text": "Al Bayan Mosque is a Muslim place of worship situated in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.481409,
+                        25.268871
+                  ]
+            },
+            {
+                  "name": "Doha Fellowship",
+                  "text": "Doha Fellowship is a Christian place of worship in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.481169,
+                        25.271004
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "This masjid is a local Muslim place of worship in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.47965,
+                        25.27162
+                  ]
+            },
+            {
+                  "name": "Aspire Mosque",
+                  "text": "Aspire Mosque is an Islamic religious site located in qatar-aspire-tower-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        51.446379,
+                        25.261838
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-RA",
     coords: [51.4442, 25.2636],
@@ -387,7 +1413,196 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-state-grand-mosque-landmarks-v2",
+    id: "qatar-state-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imam Mohammed Bin Abdul Wahab Mosque",
+                  "text": "Als nationale Staatsmoschee Katars bietet dieses massive architektonische Wunderwerk Platz für bis zu 30.000 Gläubige und verfügt über 93 Kuppeln.",
+                  "category": "religious",
+                  "coords": [
+                        51.505123,
+                        25.317091
+                  ]
+            },
+            {
+                  "name": "Wadi Al Sail Natural Reserve",
+                  "text": "Diese geschützte ökologische Zone bewahrt die einheimische Wüstenflora und -fauna inmitten der umliegenden Stadtentwicklung.",
+                  "category": "natural",
+                  "coords": [
+                        51.508871,
+                        25.310589
+                  ]
+            },
+            {
+                  "name": "Gebetsraum",
+                  "text": "Diese ruhige, spezielle muslimische Einrichtung bietet Besuchern einen bequemen Raum, um während der Erkundung der Gegend ihre täglichen Gebete zu verrichten.",
+                  "category": "landmark",
+                  "coords": [
+                        51.510523,
+                        25.307436
+                  ]
+            },
+            {
+                  "name": "Munira Bint Sultan Bin Nasser Al-Suwaidi Mosque",
+                  "text": "Diese Viertelmoschee, die mit modernen islamischen Architekturelementen geschmückt ist, wurde zu Ehren von Munira Bint Sultan benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.506834,
+                        25.335827
+                  ]
+            },
+            {
+                  "name": "Ahmed bin Abdullah Al-Misnad Mosque",
+                  "text": "Diese klassisch gestaltete islamische Moschee dient der lokalen sunnitischen Gemeinde und veranstaltet tägliche Gemeinschaftsgebete und Freitagspredigten.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498979,
+                        25.338742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imam Mohammed Bin Abdul Wahab Mosque",
+                  "text": "Katar nemzeti állami mecsetjeként ez a hatalmas, 93 kupolával rendelkező építészeti csoda akár 30 000 hívő befogadására is alkalmas.",
+                  "category": "religious",
+                  "coords": [
+                        51.505123,
+                        25.317091
+                  ]
+            },
+            {
+                  "name": "Wadi Al Sail Natural Reserve",
+                  "text": "Ez a védett ökológiai övezet megőrzi az őshonos sivatagi növény- és állatvilágot a környező városi fejlesztések közepette.",
+                  "category": "natural",
+                  "coords": [
+                        51.508871,
+                        25.310589
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Ez a csendes, dedikált muszlim létesítmény kényelmes helyet biztosít a látogatóknak, hogy elvégezzék napi imáikat a környék felfedezése közben.",
+                  "category": "landmark",
+                  "coords": [
+                        51.510523,
+                        25.307436
+                  ]
+            },
+            {
+                  "name": "Munira Bint Sultan Bin Nasser Al-Suwaidi Mosque",
+                  "text": "A modern iszlám építészeti jegyekkel díszített környékbeli mecsetet Munira Bint Sultan tiszteletére nevezték el.",
+                  "category": "landmark",
+                  "coords": [
+                        51.506834,
+                        25.335827
+                  ]
+            },
+            {
+                  "name": "Ahmed bin Abdullah Al-Misnad Mosque",
+                  "text": "A helyi szunnita közösséget szolgáló, klasszikus kialakítású iszlám mecset ad otthont a napi gyülekezeti imáknak és a pénteki prédikációknak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498979,
+                        25.338742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imam Mohammed Bin Abdul Wahab Mosque",
+                  "text": "Ca moschee națională de stat a Qatarului, această minune arhitecturală masivă poate găzdui până la 30.000 de credincioși și are 93 de cupole.",
+                  "category": "religious",
+                  "coords": [
+                        51.505123,
+                        25.317091
+                  ]
+            },
+            {
+                  "name": "Wadi Al Sail Natural Reserve",
+                  "text": "Această zonă ecologică protejată conservă flora și fauna deșertică nativă în mijlocul dezvoltării urbane înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        51.508871,
+                        25.310589
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Această facilitate musulmană liniștită și dedicată oferă un spațiu convenabil vizitatorilor pentru a-și efectua rugăciunile zilnice în timp ce explorează zona.",
+                  "category": "landmark",
+                  "coords": [
+                        51.510523,
+                        25.307436
+                  ]
+            },
+            {
+                  "name": "Munira Bint Sultan Bin Nasser Al-Suwaidi Mosque",
+                  "text": "Împodobită cu accente arhitecturale islamice moderne, această moschee de cartier este numită în onoarea Munirei Bint Sultan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.506834,
+                        25.335827
+                  ]
+            },
+            {
+                  "name": "Ahmed bin Abdullah Al-Misnad Mosque",
+                  "text": "Deservind comunitatea sunnită locală, această moschee islamică cu un design clasic găzduiește rugăciuni congregaționale zilnice și predici de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498979,
+                        25.338742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imam Mohammed Bin Abdul Wahab Mosque",
+                  "text": "As Qatar's national state mosque, this massive architectural marvel can accommodate up to 30,000 worshippers and features 93 domes.",
+                  "category": "religious",
+                  "coords": [
+                        51.505123,
+                        25.317091
+                  ]
+            },
+            {
+                  "name": "Wadi Al Sail Natural Reserve",
+                  "text": "This protected ecological zone preserves the native desert flora and fauna amidst the surrounding urban development.",
+                  "category": "natural",
+                  "coords": [
+                        51.508871,
+                        25.310589
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "This quiet, dedicated Muslim facility provides a convenient space for visitors to perform their daily prayers while exploring the area.",
+                  "category": "landmark",
+                  "coords": [
+                        51.510523,
+                        25.307436
+                  ]
+            },
+            {
+                  "name": "Munira Bint Sultan Bin Nasser Al-Suwaidi Mosque",
+                  "text": "Graced with modern Islamic architectural touches, this neighborhood mosque is named in honor of Munira Bint Sultan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.506834,
+                        25.335827
+                  ]
+            },
+            {
+                  "name": "Ahmed bin Abdullah Al-Misnad Mosque",
+                  "text": "Serving the local Sunni community, this classically designed Islamic mosque hosts daily congregational prayers and Friday sermons.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498979,
+                        25.338742
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.5086, 25.3125],
@@ -451,7 +1666,88 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
       {
-    id: "qatar-doha-corniche-landmarks-v2",
+    id: "qatar-doha-corniche-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fifa World Cup Qatar 2022 Logo Statue",
+                  "text": "Diese Statue an der Corniche zeigt das offizielle Logo der Fußball-Weltmeisterschaft 2022 in Katar.",
+                  "category": "landmark",
+                  "coords": [
+                        51.527173,
+                        25.304449
+                  ]
+            },
+            {
+                  "name": "Qatar National Theater",
+                  "text": "Ein bedeutendes Kulturzentrum an der Corniche, das für Theateraufführungen, Konzerte und Kinovorführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        51.516388,
+                        25.305098
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fifa World Cup Qatar 2022 Logo Statue",
+                  "text": "Ez a Corniche mentén található szobor a 2022-es katari labdarúgó-világbajnokság hivatalos logóját ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        51.527173,
+                        25.304449
+                  ]
+            },
+            {
+                  "name": "Qatar National Theater",
+                  "text": "Jelentős kulturális központ a Corniche mentén, amelyet színházi előadásokra, koncertekre és mozivetítésekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        51.516388,
+                        25.305098
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fifa World Cup Qatar 2022 Logo Statue",
+                  "text": "Această statuie de pe Corniche reprezintă sigla oficială a Cupei Mondiale de Fotbal din 2022 din Qatar.",
+                  "category": "landmark",
+                  "coords": [
+                        51.527173,
+                        25.304449
+                  ]
+            },
+            {
+                  "name": "Qatar National Theater",
+                  "text": "Un centru cultural important de pe Corniche, folosit pentru spectacole de teatru, concerte și proiecții de film.",
+                  "category": "cultural",
+                  "coords": [
+                        51.516388,
+                        25.305098
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fifa World Cup Qatar 2022 Logo Statue",
+                  "text": "This statue on the Corniche depicts the official logo of the 2022 FIFA World Cup in Qatar.",
+                  "category": "landmark",
+                  "coords": [
+                        51.527173,
+                        25.304449
+                  ]
+            },
+            {
+                  "name": "Qatar National Theater",
+                  "text": "A major cultural hub on the Corniche used for theatrical performances, concerts, and cinema screenings.",
+                  "category": "cultural",
+                  "coords": [
+                        51.516388,
+                        25.305098
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.5175, 25.2986],
@@ -515,7 +1811,52 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-national-library-landmarks-v2",
+    id: "qatar-national-library-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Education City Community Housing (ECCH) Lot 1",
+                  "text": "Ein Aussichtspunkt in Education City mit Blick auf die moderne Architektur und die Studentenwohnheime des Viertels.",
+                  "category": "natural",
+                  "coords": [
+                        51.414165,
+                        25.326553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Education City Community Housing (ECCH) Lot 1",
+                  "text": "Kilátópont az Education Cityben, rálátással a negyed modern építészetére és diákotthonaira.",
+                  "category": "natural",
+                  "coords": [
+                        51.414165,
+                        25.326553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Education City Community Housing (ECCH) Lot 1",
+                  "text": "Un punct de observație în Education City, cu vedere la arhitectura modernă și rezidențele studențești din district.",
+                  "category": "natural",
+                  "coords": [
+                        51.414165,
+                        25.326553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Education City Community Housing (ECCH) Lot 1",
+                  "text": "A viewpoint in Education City with views of the district's modern architecture and student residences.",
+                  "category": "natural",
+                  "coords": [
+                        51.414165,
+                        25.326553
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-RA",
     coords: [51.4331, 25.3188],
@@ -579,7 +1920,52 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-east-west-west-east-landmarks-v2",
+    id: "qatar-east-west-west-east-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bir Zekrit Central Mosque",
+                  "text": "Die Zentralmoschee von Bir Zekrit fungiert als wichtigstes religiöses Zentrum inmitten der markanten Wüstenlandschaften im Westen Katars.",
+                  "category": "landmark",
+                  "coords": [
+                        50.88272,
+                        25.445194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bir Zekrit Central Mosque",
+                  "text": "A Bir Zekrit Központi Mecset a nyugat-katari sivatagi tájak fókuszponti vallási központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        50.88272,
+                        25.445194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bir Zekrit Central Mosque",
+                  "text": "Moscheea Centrală Bir Zekrit acționează ca centrul religios principal în mijlocul peisajelor deșertice distincte din vestul Qatarului.",
+                  "category": "landmark",
+                  "coords": [
+                        50.88272,
+                        25.445194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bir Zekrit Central Mosque",
+                  "text": "Bir Zekrit Central Mosque acts as the focal religious center amidst the distinct desert landscapes of western Qatar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.88272,
+                        25.445194
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-SH",
     coords: [50.8808, 25.4858],
@@ -643,7 +2029,88 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-falcon-souq-landmarks-v2",
+    id: "qatar-falcon-souq-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Koot Fort",
+                  "text": "Dieses strahlend weiße Militärfort wurde ursprünglich 1927 als Polizeistation zum Schutz des nahe gelegenen Souq Waqif erbaut und ist heute ein historisches Denkmal.",
+                  "category": "castle",
+                  "coords": [
+                        51.530997,
+                        25.286595
+                  ]
+            },
+            {
+                  "name": "Souq Waqif Mosque",
+                  "text": "Diese Moschee fügt sich nahtlos in die traditionelle Lehmarchitektur des geschäftigen Marktes ein und ruft Verkäufer und Käufer zum Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.531575,
+                        25.288328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Koot Fort",
+                  "text": "Az eredetileg 1927-ben, a közeli Souq Waqif védelmére szolgáló rendőrőrsként épült, hófehér katonai erőd ma történelmi műemlékként áll.",
+                  "category": "castle",
+                  "coords": [
+                        51.530997,
+                        25.286595
+                  ]
+            },
+            {
+                  "name": "Souq Waqif Mosque",
+                  "text": "A nyüzsgő piac hagyományos vályogépítészetébe zökkenőmentesen illeszkedő mecset imára hívja az árusokat és a vásárlókat.",
+                  "category": "landmark",
+                  "coords": [
+                        51.531575,
+                        25.288328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Koot Fort",
+                  "text": "Construit inițial în 1927 ca o secție de poliție pentru a proteja Souq Waqif din apropiere, acest fort militar de un alb pur este acum un monument istoric.",
+                  "category": "castle",
+                  "coords": [
+                        51.530997,
+                        25.286595
+                  ]
+            },
+            {
+                  "name": "Souq Waqif Mosque",
+                  "text": "Integrându-se perfect în arhitectura tradițională din chirpici a pieței pline de viață, această moschee cheamă vânzătorii și cumpărătorii la rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        51.531575,
+                        25.288328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Koot Fort",
+                  "text": "Originally constructed in 1927 as a police station to protect the nearby Souq Waqif, this stark white military fort now stands as a historic monument.",
+                  "category": "castle",
+                  "coords": [
+                        51.530997,
+                        25.286595
+                  ]
+            },
+            {
+                  "name": "Souq Waqif Mosque",
+                  "text": "Blending seamlessly into the traditional mud-rendered architecture of the bustling market, this mosque calls vendors and shoppers to prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        51.531575,
+                        25.288328
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.5317, 25.2872],
@@ -707,7 +2174,124 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-villaggio-mall-landmarks-v2",
+    id: "qatar-villaggio-mall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jungle Zone",
+                  "text": "Ein lebhafter Indoor-Themenpark im Dschungel-Stil mit Fahrgeschäften für Kinder in der Hyatt Plaza.",
+                  "category": "recreational",
+                  "coords": [
+                        51.43687,
+                        25.25579
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Ein Vergnügungspark in der Nähe der Villaggio Mall mit einer Reihe familienfreundlicher Fahrgeschäfte und Spiele.",
+                  "category": "recreational",
+                  "coords": [
+                        51.434081,
+                        25.243338
+                  ]
+            },
+            {
+                  "name": "Doha Zoo",
+                  "text": "Dieses Gelände in der Nähe der Aspire Zone beherbergte traditionell viele exotische und einheimische Tiere.",
+                  "category": "recreational",
+                  "coords": [
+                        51.434772,
+                        25.247176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jungle Zone",
+                  "text": "Élénk, dzsungel témájú fedett vidámpark gyermekjátékokkal a Hyatt Plazában.",
+                  "category": "recreational",
+                  "coords": [
+                        51.43687,
+                        25.25579
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Vidámpark a Villaggio Mall közelében, amely családbarát játékok és élmények széles választékát kínálja.",
+                  "category": "recreational",
+                  "coords": [
+                        51.434081,
+                        25.243338
+                  ]
+            },
+            {
+                  "name": "Doha Zoo",
+                  "text": "Az Aspire Zone közelében található terület hagyományosan számos egzotikus és helyi állat otthona volt.",
+                  "category": "recreational",
+                  "coords": [
+                        51.434772,
+                        25.247176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jungle Zone",
+                  "text": "Un parc tematic interior vibrant cu tematică de junglă, având carusele pentru copii în Hyatt Plaza.",
+                  "category": "recreational",
+                  "coords": [
+                        51.43687,
+                        25.25579
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Un parc de distracții lângă Villaggio Mall, oferind o gamă de carusele și jocuri pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        51.434081,
+                        25.243338
+                  ]
+            },
+            {
+                  "name": "Doha Zoo",
+                  "text": "Acest sit de lângă Aspire Zone a găzduit tradițional multe animale exotice și locale.",
+                  "category": "recreational",
+                  "coords": [
+                        51.434772,
+                        25.247176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jungle Zone",
+                  "text": "A vibrant jungle-themed indoor theme park featuring rides for children within the Hyatt Plaza.",
+                  "category": "recreational",
+                  "coords": [
+                        51.43687,
+                        25.25579
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "An amusement park near Villaggio Mall offering a range of family-friendly rides and games.",
+                  "category": "recreational",
+                  "coords": [
+                        51.434081,
+                        25.243338
+                  ]
+            },
+            {
+                  "name": "Doha Zoo",
+                  "text": "This site near the Aspire Zone has traditionally been home to many exotic and local animals.",
+                  "category": "recreational",
+                  "coords": [
+                        51.434772,
+                        25.247176
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-RA",
     coords: [51.4428, 25.2597],
@@ -771,7 +2355,88 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-banana-island-landmarks-v2",
+    id: "qatar-banana-island-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prayer Room",
+                  "text": "Dieser ruhige Gebetsraum ist in die Luxus-Resort-Einrichtungen von Banana Island integriert und mit Gebetsteppichen für die Gäste ausgestattet.",
+                  "category": "religious",
+                  "coords": [
+                        51.612679,
+                        25.270755
+                  ]
+            },
+            {
+                  "name": "Mens Prayer Room",
+                  "text": "Der Männergebetsraum befindet sich im Inselresort und verfügt über spezielle Wascheinrichtungen, um ein komfortables Gebetserlebnis zu gewährleisten.",
+                  "category": "religious",
+                  "coords": [
+                        51.61159,
+                        25.260989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prayer Room",
+                  "text": "A Banana Island luxus üdülőlétesítményeibe integrált csendes imaszoba figyelmesen imaszőnyegekkel van felszerelve a vendégek számára.",
+                  "category": "religious",
+                  "coords": [
+                        51.612679,
+                        25.270755
+                  ]
+            },
+            {
+                  "name": "Mens Prayer Room",
+                  "text": "A szigeti üdülőhelyen található férfi imaterem kijelölt mosdóhelységekkel rendelkezik a kényelmes istentiszteleti élmény biztosítása érdekében.",
+                  "category": "religious",
+                  "coords": [
+                        51.61159,
+                        25.260989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prayer Room",
+                  "text": "Integrată în facilitățile complexului de lux de pe Insula Banana, această cameră de rugăciune liniștită este atent dotată cu covoare de rugăciune pentru oaspeți.",
+                  "category": "religious",
+                  "coords": [
+                        51.612679,
+                        25.270755
+                  ]
+            },
+            {
+                  "name": "Mens Prayer Room",
+                  "text": "Situată în complexul insular, Sala de rugăciune pentru bărbați dispune de facilități de abluțiune desemnate, pentru a asigura o experiență de cult confortabilă.",
+                  "category": "religious",
+                  "coords": [
+                        51.61159,
+                        25.260989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prayer Room",
+                  "text": "Integrated into the luxury resort facilities of Banana Island, this quiet prayer room is thoughtfully equipped with prayer rugs for guests.",
+                  "category": "religious",
+                  "coords": [
+                        51.612679,
+                        25.270755
+                  ]
+            },
+            {
+                  "name": "Mens Prayer Room",
+                  "text": "Located in the island resort, the Men's Prayer Room features designated ablution facilities to ensure a comfortable worship experience.",
+                  "category": "religious",
+                  "coords": [
+                        51.61159,
+                        25.260989
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.6444, 25.3056],
@@ -835,7 +2500,124 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
     {
-    id: "qatar-msheireb-museums-landmarks-v2",
+    id: "qatar-msheireb-museums-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emiri Diwan",
+                  "text": "Dieser palastartige Komplex dominiert die Uferpromenade von Doha und fungiert als souveränes Organ und Verwaltungsbüro des Emirs von Katar.",
+                  "category": "castle",
+                  "coords": [
+                        51.527052,
+                        25.291183
+                  ]
+            },
+            {
+                  "name": "Al Shuyukh Mosque",
+                  "text": "Dieses markante islamische Zentrum befindet sich neben dem Emiri Diwan und beherbergt häufig Mitglieder der Herrscherfamilie zum Freitagsgebet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.528503,
+                        25.289191
+                  ]
+            },
+            {
+                  "name": "Falcon Souq",
+                  "text": "Dieser spezialisierte arabische Markt widmet sich ganz dem traditionellen Falknereisport und verkauft abgerichtete Vögel und spezielle Lederhauben.",
+                  "category": "cultural",
+                  "coords": [
+                        51.530596,
+                        25.289016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emiri Diwan",
+                  "text": "A katari emír szuverén testületeként és közigazgatási hivatalaként funkcionáló palotakomplexum uralja Doha vízpartját.",
+                  "category": "castle",
+                  "coords": [
+                        51.527052,
+                        25.291183
+                  ]
+            },
+            {
+                  "name": "Al Shuyukh Mosque",
+                  "text": "Az Emiri Diwan mellett található kiemelkedő iszlám központ gyakran ad otthont az uralkodócsalád tagjainak a pénteki imákon.",
+                  "category": "landmark",
+                  "coords": [
+                        51.528503,
+                        25.289191
+                  ]
+            },
+            {
+                  "name": "Falcon Souq",
+                  "text": "Ez a specializált arab piac teljes egészében a hagyományos solymászatnak van szentelve, ahol kiképzett madarakat és speciális bőrcsuklyákat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        51.530596,
+                        25.289016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emiri Diwan",
+                  "text": "Funcționând ca organ suveran și birou administrativ al Emirului Qatarului, acest complex palatial domină faleza din Doha.",
+                  "category": "castle",
+                  "coords": [
+                        51.527052,
+                        25.291183
+                  ]
+            },
+            {
+                  "name": "Al Shuyukh Mosque",
+                  "text": "Situat lângă Emiri Diwan, acest centru islamic proeminent găzduiește frecvent membri ai familiei conducătoare pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        51.528503,
+                        25.289191
+                  ]
+            },
+            {
+                  "name": "Falcon Souq",
+                  "text": "Această piață arabă specializată este dedicată în întregime sportului tradițional al șoimăritului, vânzând păsări dresate și glugi de piele specializate.",
+                  "category": "cultural",
+                  "coords": [
+                        51.530596,
+                        25.289016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emiri Diwan",
+                  "text": "Functioning as the sovereign body and administrative office of the Amir of Qatar, this palatial complex commands the Doha waterfront.",
+                  "category": "castle",
+                  "coords": [
+                        51.527052,
+                        25.291183
+                  ]
+            },
+            {
+                  "name": "Al Shuyukh Mosque",
+                  "text": "Situated next to the Emiri Diwan, this prominent Islamic center frequently hosts members of the ruling family for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        51.528503,
+                        25.289191
+                  ]
+            },
+            {
+                  "name": "Falcon Souq",
+                  "text": "This specialized Arabian marketplace is entirely dedicated to the traditional sport of falconry, selling trained birds and specialized leather hoods.",
+                  "category": "cultural",
+                  "coords": [
+                        51.530596,
+                        25.289016
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-DA",
     coords: [51.5303, 25.2889],
@@ -899,7 +2681,124 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-mathaf-museum-landmarks-v2",
+    id: "qatar-mathaf-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arabisches Museum für moderne Kunst",
+                  "text": "Dieses Museum, das in einem ehemaligen Schulgebäude in der Education City untergebracht ist, bietet eine arabische Perspektive auf moderne und zeitgenössische Kunst von den 1840er Jahren bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        51.419884,
+                        25.310619
+                  ]
+            },
+            {
+                  "name": "Masjid Tamim aldary",
+                  "text": "Diese Moschee ist dem Gefährten Tamim al-Dari gewidmet und bietet den Bewohnern des Viertels einen eleganten islamischen Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        51.421614,
+                        25.287743
+                  ]
+            },
+            {
+                  "name": "Al Shafi Mosque",
+                  "text": "Diese hübsch erbaute lokale Moschee ist ein Eckpfeiler für das tägliche spirituelle und gemeinschaftliche Leben der Muslime im Bezirk.",
+                  "category": "landmark",
+                  "coords": [
+                        51.420838,
+                        25.294853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mathaf: Arab Museum of Modern Art",
+                  "text": "Az Education City egyik egykori iskolaépületében található múzeum arab szemszögből mutatja be a modern és kortárs művészetet az 1840-es évektől napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        51.419884,
+                        25.310619
+                  ]
+            },
+            {
+                  "name": "Masjid Tamim aldary",
+                  "text": "A Tamim al-Dari prófétai társnak szentelt mecset elegáns iszlám imádkozóhelyet biztosít a környék lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        51.421614,
+                        25.287743
+                  ]
+            },
+            {
+                  "name": "Al Shafi Mosque",
+                  "text": "Ez az ízlésesen megépített helyi mecset a környékbeli muszlimok mindennapi spirituális és közösségi életének sarokköve.",
+                  "category": "landmark",
+                  "coords": [
+                        51.420838,
+                        25.294853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mathaf: Arab Museum of Modern Art",
+                  "text": "Găzduit într-o fostă clădire de școală din Education City, acest muzeu oferă o perspectivă arabă asupra artei moderne și contemporane din anii 1840 până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        51.419884,
+                        25.310619
+                  ]
+            },
+            {
+                  "name": "Masjid Tamim aldary",
+                  "text": "Dedicată companionului Tamim al-Dari, această moschee oferă un spațiu elegant de rugăciune islamică pentru locuitorii cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        51.421614,
+                        25.287743
+                  ]
+            },
+            {
+                  "name": "Al Shafi Mosque",
+                  "text": "Această moschee locală frumos construită este o piatră de temelie pentru viața spirituală și comunală zilnică a musulmanilor din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        51.420838,
+                        25.294853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mathaf: Arab Museum of Modern Art",
+                  "text": "Housed in a former school building in Education City, this museum offers an Arab perspective on modern and contemporary art from the 1840s to the present.",
+                  "category": "museum",
+                  "coords": [
+                        51.419884,
+                        25.310619
+                  ]
+            },
+            {
+                  "name": "Masjid Tamim aldary",
+                  "text": "Dedicated to the companion Tamim al-Dari, this mosque provides an elegant Islamic prayer space for the neighborhood's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        51.421614,
+                        25.287743
+                  ]
+            },
+            {
+                  "name": "Al Shafi Mosque",
+                  "text": "This neatly constructed local mosque is a cornerstone for the daily spiritual and communal life of the district's Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        51.420838,
+                        25.294853
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-RA",
     coords: [51.4283, 25.3106],
@@ -963,7 +2862,124 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-lusail-stadium-landmarks-v2",
+    id: "qatar-lusail-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Section 2 fiderpiller 03",
+                  "text": "Ein strukturelles Denkmal in der Nähe des Lusail-Stadions, dem Austragungsort des WM-Finales.",
+                  "category": "historical",
+                  "coords": [
+                        51.480362,
+                        25.449531
+                  ]
+            },
+            {
+                  "name": "Sec2 fid 7",
+                  "text": "Ein architektonisches Markierungselement im modernen Lusail Stadium Distrikt.",
+                  "category": "historical",
+                  "coords": [
+                        51.476184,
+                        25.457066
+                  ]
+            },
+            {
+                  "name": "Site of the 2022 FIFA World Cup Final",
+                  "text": "Das ikonische Lusail-Stadion, in dem 2022 das Finale der Fußball-Weltmeisterschaft stattfand.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491171,
+                        25.421967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Section 2 fiderpiller 03",
+                  "text": "Szerkezeti emlékmű a világbajnoki döntőnek otthont adó Lusail Stadion közelében.",
+                  "category": "historical",
+                  "coords": [
+                        51.480362,
+                        25.449531
+                  ]
+            },
+            {
+                  "name": "Sec2 fid 7",
+                  "text": "Építészeti jelzőelem a modern Lusail Stadion negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        51.476184,
+                        25.457066
+                  ]
+            },
+            {
+                  "name": "Site of the 2022 FIFA World Cup Final",
+                  "text": "Az ikonikus Lusail Stadion, ahol a 2022-es labdarúgó-világbajnokság döntőjét rendezték.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491171,
+                        25.421967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Section 2 fiderpiller 03",
+                  "text": "Un monument structural situat lângă Stadionul Lusail, locul de desfășurare a finalei Cupei Mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        51.480362,
+                        25.449531
+                  ]
+            },
+            {
+                  "name": "Sec2 fid 7",
+                  "text": "Un element de marcare arhitecturală în districtul modern al Stadionului Lusail.",
+                  "category": "historical",
+                  "coords": [
+                        51.476184,
+                        25.457066
+                  ]
+            },
+            {
+                  "name": "Site of the 2022 FIFA World Cup Final",
+                  "text": "Ironicul Stadion Lusail, unde a avut loc finala Cupei Mondiale de Fotbal din 2022.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491171,
+                        25.421967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Section 2 fiderpiller 03",
+                  "text": "A structural monument located near the Lusail Stadium, host of the World Cup final.",
+                  "category": "historical",
+                  "coords": [
+                        51.480362,
+                        25.449531
+                  ]
+            },
+            {
+                  "name": "Sec2 fid 7",
+                  "text": "An architectural marker element within the modern Lusail Stadium district.",
+                  "category": "historical",
+                  "coords": [
+                        51.476184,
+                        25.457066
+                  ]
+            },
+            {
+                  "name": "Site of the 2022 FIFA World Cup Final",
+                  "text": "The iconic Lusail Stadium, which hosted the final match of the 2022 FIFA World Cup.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491171,
+                        25.421967
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-ZA",
     coords: [51.4925, 25.4208],
@@ -1027,7 +3043,196 @@ export const poiExtraQatarLandmarksV2: POI[] = [
     },
   },
   {
-    id: "qatar-al-bayt-stadium-landmarks-v2",
+    id: "qatar-al-bayt-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Section 4 fiderpiller 30",
+                  "text": "Ein strukturelles Denkmal im Bereich des modernen Al-Bayt-Stadions.",
+                  "category": "historical",
+                  "coords": [
+                        51.483927,
+                        25.643028
+                  ]
+            },
+            {
+                  "name": "Section 4 fiderpiller 31",
+                  "text": "Ein architektonischer Markierungspunkt unweit des markanten WM-Stadions von Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.478717,
+                        25.644999
+                  ]
+            },
+            {
+                  "name": "Fidwepiler 39 sec4",
+                  "text": "Ein Monumentalkomplex, der Teil der Infrastruktur rund um das Al-Bayt-Stadion ist.",
+                  "category": "historical",
+                  "coords": [
+                        51.505525,
+                        25.638629
+                  ]
+            },
+            {
+                  "name": "Al-Bayt-Stadion",
+                  "text": "Dieses 2021 eröffnete Stadion ist einem traditionellen Nomadenzelt nachempfunden.",
+                  "category": "landmark",
+                  "coords": [
+                        51.487811,
+                        25.652125
+                  ]
+            },
+            {
+                  "name": "Al Khor Moschee",
+                  "text": "Ein bedeutendes islamisches Gebetshaus im Schatten des großen Al-Bayt-Stadions.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50684,
+                        25.684738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Section 4 fiderpiller 30",
+                  "text": "Egy szerkezeti emlékmű a modern Al Bayt Stadion környékén.",
+                  "category": "historical",
+                  "coords": [
+                        51.483927,
+                        25.643028
+                  ]
+            },
+            {
+                  "name": "Section 4 fiderpiller 31",
+                  "text": "Építészeti jelzőpont az al-khori világbajnoki stadion közelében.",
+                  "category": "historical",
+                  "coords": [
+                        51.478717,
+                        25.644999
+                  ]
+            },
+            {
+                  "name": "Fidwepiler 39 sec4",
+                  "text": "Az Al Bayt Stadion körüli infrastruktúra részét képező emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        51.505525,
+                        25.638629
+                  ]
+            },
+            {
+                  "name": "Al Bayt Stadion",
+                  "text": "A 2021-ben megnyitott stadiont egy hagyományos nomád sátorról mintázták.",
+                  "category": "landmark",
+                  "coords": [
+                        51.487811,
+                        25.652125
+                  ]
+            },
+            {
+                  "name": "Al Khor Mosque",
+                  "text": "Jelentős iszlám imaház a monumentális Al Bayt Stadion közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50684,
+                        25.684738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Section 4 fiderpiller 30",
+                  "text": "Un monument structural situat în zona modernului stadion Al Bayt.",
+                  "category": "historical",
+                  "coords": [
+                        51.483927,
+                        25.643028
+                  ]
+            },
+            {
+                  "name": "Section 4 fiderpiller 31",
+                  "text": "Un punct de reper arhitectural aflat în apropierea stadionului de campionat mondial din Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.478717,
+                        25.644999
+                  ]
+            },
+            {
+                  "name": "Fidwepiler 39 sec4",
+                  "text": "Un monument ce face parte din infrastructura din jurul stadionului Al Bayt.",
+                  "category": "historical",
+                  "coords": [
+                        51.505525,
+                        25.638629
+                  ]
+            },
+            {
+                  "name": "Stadionul Al Bayt",
+                  "text": "Inaugurat în 2021, acest stadion este proiectat sub forma unui cort tradițional nomad.",
+                  "category": "landmark",
+                  "coords": [
+                        51.487811,
+                        25.652125
+                  ]
+            },
+            {
+                  "name": "Al Khor Mosque",
+                  "text": "O importantă casă de rugăciune islamică situată în apropierea marelui stadion Al Bayt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50684,
+                        25.684738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Section 4 fiderpiller 30",
+                  "text": "A structural monument located within the precinct of the modern Al Bayt Stadium.",
+                  "category": "historical",
+                  "coords": [
+                        51.483927,
+                        25.643028
+                  ]
+            },
+            {
+                  "name": "Section 4 fiderpiller 31",
+                  "text": "An architectural marker situated near the prominent World Cup stadium in Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.478717,
+                        25.644999
+                  ]
+            },
+            {
+                  "name": "Fidwepiler 39 sec4",
+                  "text": "A monument forming part of the infrastructure surrounding the Al Bayt Stadium.",
+                  "category": "historical",
+                  "coords": [
+                        51.505525,
+                        25.638629
+                  ]
+            },
+            {
+                  "name": "Al Bayt Stadium",
+                  "text": "Opened in 2021, this stadium is designed to resemble a traditional nomad tent.",
+                  "category": "landmark",
+                  "coords": [
+                        51.487811,
+                        25.652125
+                  ]
+            },
+            {
+                  "name": "Al Khor Mosque",
+                  "text": "A significant Islamic place of worship located near the monumental Al Bayt Stadium.",
+                  "category": "landmark",
+                  "coords": [
+                        51.50684,
+                        25.684738
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "QA-KH",
     coords: [51.4853, 25.6525],

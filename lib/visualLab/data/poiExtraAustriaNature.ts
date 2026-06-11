@@ -8,7 +8,7 @@ export const poiExtraAustriaNature: POI[] = [
       "de": [
             {
                   "name": "Vorderreuterstein",
-                  "text": "Ein Berggipfel im Nationalpark Kalkalpen.",
+                  "text": "Der Vorderreuterstein ist ein markanter Stein im Nationalpark Kalkalpen.",
                   "category": "landmark",
                   "coords": [
                         14.355953,
@@ -26,7 +26,7 @@ export const poiExtraAustriaNature: POI[] = [
             },
             {
                   "name": "Karstquelle Maulaufloch",
-                  "text": "Eine natürliche Karstquelle im Nationalpark.",
+                  "text": "Karstquelle Maulaufloch, die aus dem Kalkstein des Nationalparks entspringt.",
                   "category": "landmark",
                   "coords": [
                         14.386167,
@@ -37,7 +37,7 @@ export const poiExtraAustriaNature: POI[] = [
       "hu": [
             {
                   "name": "Vorderreuterstein",
-                  "text": "Hegycsúcs a Kalkalpen Nemzeti Parkban.",
+                  "text": "A Vorderreuterstein egy jellegzetes kő a Kalkalpen Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         14.355953,
@@ -55,7 +55,7 @@ export const poiExtraAustriaNature: POI[] = [
             },
             {
                   "name": "Karstquelle Maulaufloch",
-                  "text": "Természetes karsztforrás a nemzeti parkban.",
+                  "text": "A Maulaufloch karsztforrás, amely a nemzeti park mészkövéből tör elő.",
                   "category": "landmark",
                   "coords": [
                         14.386167,
@@ -66,7 +66,7 @@ export const poiExtraAustriaNature: POI[] = [
       "ro": [
             {
                   "name": "Vorderreuterstein",
-                  "text": "Un vârf montan în Parcul Național Kalkalpen.",
+                  "text": "Vorderreuterstein este o piatră proeminentă în Parcul Național Kalkalpen.",
                   "category": "landmark",
                   "coords": [
                         14.355953,
@@ -84,7 +84,7 @@ export const poiExtraAustriaNature: POI[] = [
             },
             {
                   "name": "Karstquelle Maulaufloch",
-                  "text": "O sursă carstică naturală situată în parcul național.",
+                  "text": "Izvorul carstic Maulaufloch, care țâșnește din calcarul parcului național.",
                   "category": "landmark",
                   "coords": [
                         14.386167,
@@ -95,7 +95,7 @@ export const poiExtraAustriaNature: POI[] = [
       "en": [
             {
                   "name": "Vorderreuterstein",
-                  "text": "A mountain peak in the Kalkalpen National Park.",
+                  "text": "Vorderreuterstein is a prominent rock in the Kalkalpen National Park.",
                   "category": "landmark",
                   "coords": [
                         14.355953,
@@ -113,7 +113,7 @@ export const poiExtraAustriaNature: POI[] = [
             },
             {
                   "name": "Karstquelle Maulaufloch",
-                  "text": "A natural karst spring located in the national park.",
+                  "text": "Karst spring Maulaufloch emerging from the limestone of the national park.",
                   "category": "landmark",
                   "coords": [
                         14.386167,
@@ -659,7 +659,7 @@ export const poiExtraAustriaNature: POI[] = [
             },
             {
                   "name": "Hohe Gamsfeldspitze",
-                  "text": "Die Hohe Gamsfeldspitze ist ein Berggipfel im Dachsteinmassiv.",
+                  "text": "Die Hohe Gamsfeldspitze ist ein Gipfel im Dachsteinmassiv, bekannt für Gämsen.",
                   "category": "landmark",
                   "coords": [
                         13.645396,
@@ -733,7 +733,7 @@ export const poiExtraAustriaNature: POI[] = [
             },
             {
                   "name": "Hohe Gamsfeldspitze",
-                  "text": "A Hohe Gamsfeldspitze egy hegycsúcs a Dachstein-masszívumban.",
+                  "text": "A Hohe Gamsfeldspitze egy csúcs a Dachstein-masszívumban, híres a zergékről.",
                   "category": "landmark",
                   "coords": [
                         13.645396,
@@ -807,7 +807,7 @@ export const poiExtraAustriaNature: POI[] = [
             },
             {
                   "name": "Hohe Gamsfeldspitze",
-                  "text": "Hohe Gamsfeldspitze este un vârf montan situat în Masivul Dachstein.",
+                  "text": "Hohe Gamsfeldspitze este un vârf în Masivul Dachstein, cunoscut pentru caprele negre.",
                   "category": "landmark",
                   "coords": [
                         13.645396,
@@ -881,7 +881,7 @@ export const poiExtraAustriaNature: POI[] = [
             },
             {
                   "name": "Hohe Gamsfeldspitze",
-                  "text": "Hohe Gamsfeldspitze is a mountain peak located in the Dachstein Massif.",
+                  "text": "Hohe Gamsfeldspitze is a peak in the Dachstein Massif known for chamois.",
                   "category": "landmark",
                   "coords": [
                         13.645396,
@@ -1343,7 +1343,7 @@ export const poiExtraAustriaNature: POI[] = [
       "de": [
             {
                   "name": "Naturschutzgebiet Grüner See",
-                  "text": "Ein geschütztes Gebiet rund um den landschaftlich reizvollen Grünen See.",
+                  "text": "Naturschutzgebiet um den smaragdgrünen Grünen See, im Frühling überschwemmte Wiesen.",
                   "category": "natural",
                   "coords": [
                         15.056278,
@@ -1417,7 +1417,7 @@ export const poiExtraAustriaNature: POI[] = [
       "hu": [
             {
                   "name": "Naturschutzgebiet Grüner See",
-                  "text": "A festői zöld tó (Grüner See) körüli védett természeti terület.",
+                  "text": "Természetvédelmi terület a smaragdzöld Zöld-tó körül, tavasszal elöntött rétekkel.",
                   "category": "natural",
                   "coords": [
                         15.056278,
@@ -1491,7 +1491,7 @@ export const poiExtraAustriaNature: POI[] = [
       "ro": [
             {
                   "name": "Naturschutzgebiet Grüner See",
-                  "text": "O zonă protejată în jurul pitorescului Lac Verde (Grüner See).",
+                  "text": "Rezervație naturală în jurul Lacului Verde, cu pajiști inundate primăvara.",
                   "category": "natural",
                   "coords": [
                         15.056278,
@@ -1565,7 +1565,7 @@ export const poiExtraAustriaNature: POI[] = [
       "en": [
             {
                   "name": "Naturschutzgebiet Grüner See",
-                  "text": "A protected area surrounding the scenic Green Lake.",
+                  "text": "Nature reserve around the emerald Green Lake, with meadows flooded in spring.",
                   "category": "natural",
                   "coords": [
                         15.056278,

@@ -728,7 +728,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sunset Dhow Safari",
-                  "text": "Ein beliebtes Ausflugsziel in Vilankulo.",
+                  "text": "Die Sunset Dhow Safari ist eine traditionelle Dhau-Kreuzfahrt bei Sonnenuntergang entlang der Küste von Vilankulo.",
                   "category": "landmark",
                   "coords": [
                         35.319748,
@@ -739,7 +739,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sunset Dhow Safari",
-                  "text": "Népszerű kirándulóhely Vilankulóban.",
+                  "text": "A Sunset Dhow Safari egy hagyományos dhau hajókirándulás naplementekor Vilankulo partjainál.",
                   "category": "landmark",
                   "coords": [
                         35.319748,
@@ -750,7 +750,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sunset Dhow Safari",
-                  "text": "O destinație populară pentru excursii în Vilankulo.",
+                  "text": "Sunset Dhow Safari este o croazieră tradițională cu dhow la apus de soare de-a lungul coastei Vilankulo.",
                   "category": "landmark",
                   "coords": [
                         35.319748,
@@ -761,7 +761,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sunset Dhow Safari",
-                  "text": "A popular excursion destination in Vilankulo.",
+                  "text": "Sunset Dhow Safari is a traditional dhow cruise at sunset along the coast of Vilankulo.",
                   "category": "landmark",
                   "coords": [
                         35.319748,
@@ -953,7 +953,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Incomati Conservancy",
-                  "text": "Incomati Conservancy ist ein Naturschutzgebiet in Ressano Garcia.",
+                  "text": "Das Incomati Conservancy ist ein Wildtierschutzgebiet entlang des Incomati-Flusses.",
                   "category": "natural",
                   "coords": [
                         32.067548,
@@ -964,7 +964,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Incomati Conservancy",
-                  "text": "Az Incomati Conservancy egy természetvédelmi terület Ressano Garcia városában.",
+                  "text": "Az Incomati Conservancy egy vadvédelmi terület az Incomati folyó mentén.",
                   "category": "natural",
                   "coords": [
                         32.067548,
@@ -975,7 +975,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Incomati Conservancy",
-                  "text": "Incomati Conservancy este o rezervație naturală în Ressano Garcia.",
+                  "text": "Incomati Conservancy este o rezervație naturală de-a lungul râului Incomati.",
                   "category": "natural",
                   "coords": [
                         32.067548,
@@ -986,7 +986,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Incomati Conservancy",
-                  "text": "Incomati Conservancy is a nature reserve in Ressano Garcia.",
+                  "text": "Incomati Conservancy is a wildlife reserve along the Incomati River.",
                   "category": "natural",
                   "coords": [
                         32.067548,
@@ -1646,7 +1646,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "de": [
             {
                   "name": "MUSEU DA MASACRE DE MUEDA",
-                  "text": "Das MUSEU DA MASACRE DE MUEDA ist ein Museum in Mueda.",
+                  "text": "Das MUSEU DA MASACRE DE MUEDA dokumentiert das Massaker von 1960 durch die portugiesischen Kolonialtruppen.",
                   "category": "museum",
                   "coords": [
                         39.546089,
@@ -1657,7 +1657,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "MUSEU DA MASACRE DE MUEDA",
-                  "text": "A MUSEU DA MASACRE DE MUEDA egy múzeum Mueda városában.",
+                  "text": "A MUSEU DA MASACRE DE MUEDA az 1960-as mészárlást dokumentálja, amelyet a portugál gyarmati erők követtek el.",
                   "category": "museum",
                   "coords": [
                         39.546089,
@@ -1668,7 +1668,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "MUSEU DA MASACRE DE MUEDA",
-                  "text": "MUSEU DA MASACRE DE MUEDA este un muzeu din Mueda.",
+                  "text": "MUSEU DA MASACRE DE MUEDA documentează masacrul din 1960 comis de forțele coloniale portugheze.",
                   "category": "museum",
                   "coords": [
                         39.546089,
@@ -1679,7 +1679,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       "en": [
             {
                   "name": "MUSEU DA MASACRE DE MUEDA",
-                  "text": "MUSEU DA MASACRE DE MUEDA is a museum located in Mueda.",
+                  "text": "MUSEU DA MASACRE DE MUEDA documents the 1960 massacre by Portuguese colonial forces.",
                   "category": "museum",
                   "coords": [
                         39.546089,
@@ -2177,7 +2177,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado municipal",
-                  "text": "Der städtische Markt bietet eine Wasserzapfstelle in Chókwè.",
+                  "text": "Der Mercado municipal ist ein lebhafter Markt mit lokalen Produkten und Kunsthandwerk in Chokwe.",
                   "category": "landmark",
                   "coords": [
                         32.980861,
@@ -2186,7 +2186,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja",
-                  "text": "Dieser Kirchenstandort umfasst eine Wasserzapfstelle in Chókwè.",
+                  "text": "Die Igreja ist eine koloniale katholische Kirche im Zentrum von Chokwe.",
                   "category": "landmark",
                   "coords": [
                         32.986414,
@@ -2213,7 +2213,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Velha Apóstolo",
-                  "text": "Die Igreja Velha Apóstolo ist ein Standort mit einer Wasserzapfstelle in Chókwè.",
+                  "text": "Die Igreja Velha Apóstolo ist eine alte protestantische Kirche aus dem frühen 20. Jahrhundert in Chokwe.",
                   "category": "landmark",
                   "coords": [
                         32.978955,
@@ -2242,7 +2242,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado municipal",
-                  "text": "Az önkormányzati piacon található egy vízvételi pont Chókwèban.",
+                  "text": "A Mercado municipal egy nyüzsgő piac helyi termékekkel és kézműves árukkal Chokwe-ban.",
                   "category": "landmark",
                   "coords": [
                         32.980861,
@@ -2251,7 +2251,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja",
-                  "text": "Ez a templom egy vízcsappal rendelkezik Chókwè városában.",
+                  "text": "Az Igreja egy gyarmati katolikus templom Chokwe központjában.",
                   "category": "landmark",
                   "coords": [
                         32.986414,
@@ -2278,7 +2278,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Velha Apóstolo",
-                  "text": "Az Igreja Velha Apóstolo egy vízvételi pont Chókwè városában.",
+                  "text": "Az Igreja Velha Apóstolo egy régi protestáns templom a 20. század elejéről Chokwe-ban.",
                   "category": "landmark",
                   "coords": [
                         32.978955,
@@ -2307,7 +2307,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado municipal",
-                  "text": "Piața municipală este un punct de apă în Chókwè.",
+                  "text": "Mercado municipal este o piață animată cu produse locale și meșteșuguri în Chokwe.",
                   "category": "landmark",
                   "coords": [
                         32.980861,
@@ -2316,7 +2316,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja",
-                  "text": "Această locație a bisericii include un robinet de apă în Chókwè.",
+                  "text": "Igreja este o biserică catolică colonială în centrul orașului Chokwe.",
                   "category": "landmark",
                   "coords": [
                         32.986414,
@@ -2343,7 +2343,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Velha Apóstolo",
-                  "text": "Igreja Velha Apóstolo este o locație cu punct de apă în Chókwè.",
+                  "text": "Igreja Velha Apóstolo este o veche biserică protestantă de la începutul secolului al XX-lea în Chokwe.",
                   "category": "landmark",
                   "coords": [
                         32.978955,
@@ -2372,7 +2372,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado municipal",
-                  "text": "The municipal market is a water tap location in Chókwè.",
+                  "text": "Mercado municipal is a bustling market with local produce and crafts in Chokwe.",
                   "category": "landmark",
                   "coords": [
                         32.980861,
@@ -2381,7 +2381,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja",
-                  "text": "This church location includes a water tap in Chókwè.",
+                  "text": "Igreja is a colonial Catholic church in the center of Chokwe.",
                   "category": "landmark",
                   "coords": [
                         32.986414,
@@ -2408,7 +2408,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja Velha Apóstolo",
-                  "text": "Igreja Velha Apóstolo is a water tap location in Chókwè.",
+                  "text": "Igreja Velha Apóstolo is an old Protestant church from the early 20th century in Chokwe.",
                   "category": "landmark",
                   "coords": [
                         32.978955,

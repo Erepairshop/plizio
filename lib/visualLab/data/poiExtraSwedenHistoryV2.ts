@@ -180,7 +180,7 @@ imageHint: "Läckö Castle on Lake Vänern",
       "de": [
             {
                   "name": "Badplats Hedlandet",
-                  "text": "Ein Strand in der Nähe von Schloss Gripsholm.",
+                  "text": "Badplats Hedlandet, ein Badeplatz am Mälaren bei Schloss Gripsholm.",
                   "category": "recreational",
                   "coords": [
                         17.232988,
@@ -252,7 +252,7 @@ imageHint: "Läckö Castle on Lake Vänern",
             },
             {
                   "name": "Mariefreds Strandbad",
-                  "text": "Ein öffentlicher Badeplatz am See nahe dem Schloss Gripsholm.",
+                  "text": "Mariefreds Strandbad, ein Strandbad am Mälaren bei Schloss Gripsholm.",
                   "category": "recreational",
                   "coords": [
                         17.253957,
@@ -263,7 +263,7 @@ imageHint: "Läckö Castle on Lake Vänern",
       "hu": [
             {
                   "name": "Badplats Hedlandet",
-                  "text": "Strand a Gripsholm-kastély közelében.",
+                  "text": "Badplats Hedlandet, egy fürdőhely a Mälaren-tónál a Gripsholm kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         17.232988,
@@ -335,7 +335,7 @@ imageHint: "Läckö Castle on Lake Vänern",
             },
             {
                   "name": "Mariefreds Strandbad",
-                  "text": "Nyilvános tavi fürdőhely a Gripsholm-kastély közelében.",
+                  "text": "Mariefreds Strandbad, egy strandfürdő a Mälaren-tónál a Gripsholm kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         17.253957,
@@ -346,7 +346,7 @@ imageHint: "Läckö Castle on Lake Vänern",
       "ro": [
             {
                   "name": "Badplats Hedlandet",
-                  "text": "O plajă lângă Castelul Gripsholm.",
+                  "text": "Badplats Hedlandet, o plajă pe lacul Mälaren lângă Castelul Gripsholm.",
                   "category": "recreational",
                   "coords": [
                         17.232988,
@@ -418,7 +418,7 @@ imageHint: "Läckö Castle on Lake Vänern",
             },
             {
                   "name": "Mariefreds Strandbad",
-                  "text": "Un loc public de scăldat pe malul lacului, lângă castelul Gripsholm.",
+                  "text": "Mariefreds Strandbad, o plajă pe lacul Mälaren lângă Castelul Gripsholm.",
                   "category": "recreational",
                   "coords": [
                         17.253957,
@@ -429,7 +429,7 @@ imageHint: "Läckö Castle on Lake Vänern",
       "en": [
             {
                   "name": "Badplats Hedlandet",
-                  "text": "A beach near Gripsholm Castle.",
+                  "text": "Badplats Hedlandet, a beach on Lake Mälaren near Gripsholm Castle.",
                   "category": "recreational",
                   "coords": [
                         17.232988,
@@ -501,7 +501,7 @@ imageHint: "Läckö Castle on Lake Vänern",
             },
             {
                   "name": "Mariefreds Strandbad",
-                  "text": "A public lakeside bathing spot near Gripsholm Castle.",
+                  "text": "Mariefreds Strandbad, a lakeside beach near Gripsholm Castle.",
                   "category": "recreational",
                   "coords": [
                         17.253957,
@@ -577,7 +577,7 @@ imageHint: "Gripsholm Castle red brick walls",
             },
             {
                   "name": "Arnöhuvud",
-                  "text": "Ein geschütztes Naturgebiet am Ufer des Mälaren.",
+                  "text": "Arnöhuvud ist eine felsige Landspitze am Mälaren gegenüber von Schloss Skokloster.",
                   "category": "natural",
                   "coords": [
                         17.549991,
@@ -604,7 +604,7 @@ imageHint: "Gripsholm Castle red brick walls",
             },
             {
                   "name": "Skofjärden",
-                  "text": "Eine weite Bucht des Schärenmeeres am See Mälaren.",
+                  "text": "Skofjärden – Bucht nahe Schloss Skokloster.",
                   "category": "landmark",
                   "coords": [
                         17.626118,
@@ -651,7 +651,7 @@ imageHint: "Gripsholm Castle red brick walls",
             },
             {
                   "name": "Arnöhuvud",
-                  "text": "Védett természeti terület a Mälaren-tó partján.",
+                  "text": "Arnöhuvud egy sziklás földnyelv a Mälaren-tónál, a Skokloster kastéllyal szemben.",
                   "category": "natural",
                   "coords": [
                         17.549991,
@@ -678,7 +678,7 @@ imageHint: "Gripsholm Castle red brick walls",
             },
             {
                   "name": "Skofjärden",
-                  "text": "A Mälaren-tó egyik tágas öble a Skokloster-kastély közelében.",
+                  "text": "Skofjärden – öböl a Skokloster-kastély közelében.",
                   "category": "landmark",
                   "coords": [
                         17.626118,
@@ -725,7 +725,7 @@ imageHint: "Gripsholm Castle red brick walls",
             },
             {
                   "name": "Arnöhuvud",
-                  "text": "O zonă naturală protejată pe malul lacului Mälaren.",
+                  "text": "Arnöhuvud este un cap stâncos pe lacul Mälaren, vizavi de Castelul Skokloster.",
                   "category": "natural",
                   "coords": [
                         17.549991,
@@ -752,7 +752,7 @@ imageHint: "Gripsholm Castle red brick walls",
             },
             {
                   "name": "Skofjärden",
-                  "text": "Un golf larg al lacului Mälaren în apropierea castelului Skokloster.",
+                  "text": "Skofjärden – golf lângă Castelul Skokloster.",
                   "category": "landmark",
                   "coords": [
                         17.626118,
@@ -799,7 +799,7 @@ imageHint: "Gripsholm Castle red brick walls",
             },
             {
                   "name": "Arnöhuvud",
-                  "text": "A protected nature area on the shores of Lake Mälaren.",
+                  "text": "Arnöhuvud is a rocky headland on Lake Mälaren opposite Skokloster Castle.",
                   "category": "natural",
                   "coords": [
                         17.549991,
@@ -826,7 +826,7 @@ imageHint: "Gripsholm Castle red brick walls",
             },
             {
                   "name": "Skofjärden",
-                  "text": "A wide bay of Lake Mälaren near the Skokloster Castle.",
+                  "text": "Skofjärden – bay near Skokloster Castle.",
                   "category": "landmark",
                   "coords": [
                         17.626118,
@@ -994,7 +994,7 @@ imageHint: "Lund Cathedral Romanesque facade",
       "de": [
             {
                   "name": "Adelsö badplats",
-                  "text": "Strand in der Nähe der Birka-Ruinen auf Adelsö.",
+                  "text": "Adelsö badplats ist ein Badestrand auf der Insel Adelsö nahe den Wikingerruinen von Birka.",
                   "category": "recreational",
                   "coords": [
                         17.534104,
@@ -1050,7 +1050,7 @@ imageHint: "Lund Cathedral Romanesque facade",
       "hu": [
             {
                   "name": "Adelsö badplats",
-                  "text": "Strand a Birka-romok közelében, Adelsö szigetén.",
+                  "text": "Adelsö badplats egy fürdőstrand az Adelsö szigetén, a birka viking romok közelében.",
                   "category": "recreational",
                   "coords": [
                         17.534104,
@@ -1106,7 +1106,7 @@ imageHint: "Lund Cathedral Romanesque facade",
       "ro": [
             {
                   "name": "Adelsö badplats",
-                  "text": "Plajă lângă ruinele Birka de pe Adelsö.",
+                  "text": "Adelsö badplats este o plajă de scăldat pe insula Adelsö, lângă ruinele vikinge de la Birka.",
                   "category": "recreational",
                   "coords": [
                         17.534104,
@@ -1162,7 +1162,7 @@ imageHint: "Lund Cathedral Romanesque facade",
       "en": [
             {
                   "name": "Adelsö badplats",
-                  "text": "Beach near the Birka Ruins on Adelsö.",
+                  "text": "Adelsö badplats is a bathing beach on the island of Adelsö near the Viking ruins of Birka.",
                   "category": "recreational",
                   "coords": [
                         17.534104,
@@ -1718,7 +1718,7 @@ imageHint: "Tanum rock carvings red petroglyphs",
             },
             {
                   "name": "Olas Fiskebod",
-                  "text": "Ein kleines Museum in Ales Stenar.",
+                  "text": "Olas Fiskebod, ein Museum in einer historischen Fischerhütte nahe der Steinsetzung Ales Stenar.",
                   "category": "museum",
                   "coords": [
                         14.062938,
@@ -1756,7 +1756,7 @@ imageHint: "Tanum rock carvings red petroglyphs",
             },
             {
                   "name": "Olas Fiskebod",
-                  "text": "Egy kis múzeum Ales Stenar városában.",
+                  "text": "Olas Fiskebod, egy múzeum egy történelmi halászkunyhóban, Ales Stenar közelében.",
                   "category": "museum",
                   "coords": [
                         14.062938,
@@ -1794,7 +1794,7 @@ imageHint: "Tanum rock carvings red petroglyphs",
             },
             {
                   "name": "Olas Fiskebod",
-                  "text": "Un mic muzeu în Ales Stenar.",
+                  "text": "Olas Fiskebod, un muzeu într-o colibă de pescari istorică lângă aliniamentul de pietre Ales Stenar.",
                   "category": "museum",
                   "coords": [
                         14.062938,
@@ -1832,7 +1832,7 @@ imageHint: "Tanum rock carvings red petroglyphs",
             },
             {
                   "name": "Olas Fiskebod",
-                  "text": "A small museum located in Ales Stenar.",
+                  "text": "Olas Fiskebod, a museum in a historic fisherman's hut near the Ales Stenar stone ship.",
                   "category": "museum",
                   "coords": [
                         14.062938,
@@ -2082,7 +2082,7 @@ imageHint: "Gamla Uppsala burial mounds and church",
             },
             {
                   "name": "Surte Glasbruksmuseum",
-                  "text": "Ein Museum in Surte, das der Geschichte der Glasherstellung gewidmet ist.",
+                  "text": "Surte Glasbruksmuseum – Glasmuseum in Surte nahe der Festung Bohus.",
                   "category": "museum",
                   "coords": [
                         12.013899,
@@ -2156,7 +2156,7 @@ imageHint: "Gamla Uppsala burial mounds and church",
             },
             {
                   "name": "Surte Glasbruksmuseum",
-                  "text": "Az üveggyártás történetének szentelt múzeum Surte településen.",
+                  "text": "Surte Glasbruksmuseum – üvegmúzeum Surteban, Bohus erőd közelében.",
                   "category": "museum",
                   "coords": [
                         12.013899,
@@ -2230,7 +2230,7 @@ imageHint: "Gamla Uppsala burial mounds and church",
             },
             {
                   "name": "Surte Glasbruksmuseum",
-                  "text": "Un muzeu în Surte dedicat istoriei fabricării sticlei.",
+                  "text": "Surte Glasbruksmuseum – muzeul sticlei în Surte, lângă Fortăreața Bohus.",
                   "category": "museum",
                   "coords": [
                         12.013899,
@@ -2304,7 +2304,7 @@ imageHint: "Gamla Uppsala burial mounds and church",
             },
             {
                   "name": "Surte Glasbruksmuseum",
-                  "text": "A museum in Surte dedicated to the history of glassmaking.",
+                  "text": "Surte Glasbruksmuseum – glass museum in Surte near Bohus Fortress.",
                   "category": "museum",
                   "coords": [
                         12.013899,
@@ -3323,7 +3323,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Kungsbackafjorden",
-                  "text": "Eine Bucht des Kattegat in der Nähe von Schloss Tjolöholm.",
+                  "text": "Kungsbackafjorden – Fjord nahe Schloss Tjolöholm.",
                   "category": "landmark",
                   "coords": [
                         12.062523,
@@ -3332,7 +3332,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Tjolöholms Slottskyrka",
-                  "text": "Die zum Anwesen Tjolöholm gehörende Schlosskirche.",
+                  "text": "Tjolöholms Slottskyrka – Schlosskirche von Tjolöholm.",
                   "category": "religious",
                   "coords": [
                         12.109389,
@@ -3370,7 +3370,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Kungsbackafjorden",
-                  "text": "A Kattegat egyik öble a Tjolöholm-kastély közelében.",
+                  "text": "Kungsbackafjorden – fjord a Tjolöholm-kastély közelében.",
                   "category": "landmark",
                   "coords": [
                         12.062523,
@@ -3379,7 +3379,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Tjolöholms Slottskyrka",
-                  "text": "A Tjolöholm-birtokhoz tartozó kastélytemplom.",
+                  "text": "Tjolöholms Slottskyrka – a Tjolöholm-kastély temploma.",
                   "category": "religious",
                   "coords": [
                         12.109389,
@@ -3417,7 +3417,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Kungsbackafjorden",
-                  "text": "Un golf al strâmtorii Kattegat, situat lângă castelul Tjolöholm.",
+                  "text": "Kungsbackafjorden – fiord lângă Castelul Tjolöholm.",
                   "category": "landmark",
                   "coords": [
                         12.062523,
@@ -3426,7 +3426,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Tjolöholms Slottskyrka",
-                  "text": "Biserica castelului ce aparține domeniului Tjolöholm.",
+                  "text": "Tjolöholms Slottskyrka – biserica castelului Tjolöholm.",
                   "category": "religious",
                   "coords": [
                         12.109389,
@@ -3464,7 +3464,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Kungsbackafjorden",
-                  "text": "A bay of the Kattegat located near Tjolöholm Castle.",
+                  "text": "Kungsbackafjorden – fjord near Tjolöholm Castle.",
                   "category": "landmark",
                   "coords": [
                         12.062523,
@@ -3473,7 +3473,7 @@ imageHint: "Sigtuna church ruins and runestone",
             },
             {
                   "name": "Tjolöholms Slottskyrka",
-                  "text": "The castle church belonging to the Tjolöholm estate.",
+                  "text": "Tjolöholms Slottskyrka – castle church at Tjolöholm.",
                   "category": "religious",
                   "coords": [
                         12.109389,
@@ -3659,7 +3659,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Vallby kyrka",
-                  "text": "Eine mittelalterliche Steinkirche in der Region Schonen.",
+                  "text": "Vallby kyrka bei Glimmingehus in Schonen.",
                   "category": "religious",
                   "coords": [
                         14.205725,
@@ -3697,7 +3697,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Vallby kyrka",
-                  "text": "Középkori kőtemplom Skåne régiójában.",
+                  "text": "Vallby kyrka Glimmingehus mellett, Skåne-ban.",
                   "category": "religious",
                   "coords": [
                         14.205725,
@@ -3735,7 +3735,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Vallby kyrka",
-                  "text": "O biserică medievală de piatră situată în regiunea Scania.",
+                  "text": "Vallby kyrca lângă Glimmingehus, în Scania.",
                   "category": "religious",
                   "coords": [
                         14.205725,
@@ -3773,7 +3773,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Vallby kyrka",
-                  "text": "A medieval stone church located in the Scania region.",
+                  "text": "Vallby kyrka near Glimmingehus in Skåne.",
                   "category": "religious",
                   "coords": [
                         14.205725,
@@ -3859,7 +3859,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Torslunda naturreservat",
-                  "text": "Ein Naturschutzgebiet, das für seine reiche Flora und Fauna bekannt ist.",
+                  "text": "Torslunda naturreservat – 2010 eingerichtetes Naturschutzgebiet nahe der Klosterruine Skokloster.",
                   "category": "natural",
                   "coords": [
                         17.650673,
@@ -3868,7 +3868,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Skofjärden",
-                  "text": "Eine Bucht des Mälarensees in der Nähe von Skokloster.",
+                  "text": "Skofjärden – Bucht nahe der Klosterruine Skokloster.",
                   "category": "landmark",
                   "coords": [
                         17.626118,
@@ -3877,7 +3877,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Flasta kyrkoruin",
-                  "text": "Die Ruinen einer mittelalterlichen Kirche in der Nähe von Skokloster.",
+                  "text": "Flasta kyrkoruin – Kirchenruine nahe der Klosterruine Skokloster.",
                   "category": "historical",
                   "coords": [
                         17.608402,
@@ -3933,7 +3933,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Torslunda naturreservat",
-                  "text": "Gazdag növény- és állatvilágáról nevezetes természetvédelmi terület.",
+                  "text": "Torslunda naturreservat – 2010-ben létesített természetvédelmi terület a Skokloster-apátság romjai közelében.",
                   "category": "natural",
                   "coords": [
                         17.650673,
@@ -3942,7 +3942,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Skofjärden",
-                  "text": "A Mälaren-tó egyik öble Skokloster közelében.",
+                  "text": "Skofjärden – öböl a Skokloster-apátság romjai közelében.",
                   "category": "landmark",
                   "coords": [
                         17.626118,
@@ -3951,7 +3951,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Flasta kyrkoruin",
-                  "text": "Egy középkori templom romjai Skokloster közelében.",
+                  "text": "Flasta kyrkoruin – templomrom a Skokloster-apátság romjai közelében.",
                   "category": "historical",
                   "coords": [
                         17.608402,
@@ -4007,7 +4007,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Torslunda naturreservat",
-                  "text": "O rezervație naturală cunoscută pentru flora și fauna sa bogată.",
+                  "text": "Torslunda naturreservat – rezervație naturală înființată în 2010, lângă ruinele Abației Skokloster.",
                   "category": "natural",
                   "coords": [
                         17.650673,
@@ -4016,7 +4016,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Skofjärden",
-                  "text": "Un golf al lacului Mälaren situat lângă Skokloster.",
+                  "text": "Skofjärden – golf lângă ruinele Abației Skokloster.",
                   "category": "landmark",
                   "coords": [
                         17.626118,
@@ -4025,7 +4025,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Flasta kyrkoruin",
-                  "text": "Ruinele unei biserici medievale situate lângă Skokloster.",
+                  "text": "Flasta kyrkoruin – ruină de biserică lângă ruinele Abației Skokloster.",
                   "category": "historical",
                   "coords": [
                         17.608402,
@@ -4081,7 +4081,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Torslunda naturreservat",
-                  "text": "A nature reserve known for its rich flora and fauna.",
+                  "text": "Torslunda naturreservat – nature reserve established 2010 near Skokloster Abbey Ruins.",
                   "category": "natural",
                   "coords": [
                         17.650673,
@@ -4090,7 +4090,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Skofjärden",
-                  "text": "A bay of Lake Mälaren located near Skokloster.",
+                  "text": "Skofjärden – bay near Skokloster Abbey Ruins.",
                   "category": "landmark",
                   "coords": [
                         17.626118,
@@ -4099,7 +4099,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Flasta church ruins",
-                  "text": "The ruins of a medieval church located near Skokloster.",
+                  "text": "Flasta church ruins near Skokloster Abbey Ruins.",
                   "category": "historical",
                   "coords": [
                         17.608402,
@@ -4219,7 +4219,7 @@ imageHint: "Stockholm Royal Palace facade",
       "de": [
             {
                   "name": "Sandviks Badplats",
-                  "text": "Ein Strand nahe Schloss Nynäs.",
+                  "text": "Sandviks Badplats, ein Badeplatz in Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.418563,
@@ -4255,7 +4255,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Lilla badet",
-                  "text": "Ein öffentliches Bad beim Gut Nynäs.",
+                  "text": "Lilla badet, ein kleiner Badeplatz in Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.410277,
@@ -4264,7 +4264,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Minibadet",
-                  "text": "Ein Kinderbad beim Gut Nynäs.",
+                  "text": "Minibadet, ein Mini-Badeplatz in Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.412812,
@@ -4273,7 +4273,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Stora badet",
-                  "text": "Ein großer Badeplatz beim Gut Nynäs.",
+                  "text": "Stora badet, ein großer Badeplatz in Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.41073,
@@ -4284,7 +4284,7 @@ imageHint: "Stockholm Royal Palace facade",
       "hu": [
             {
                   "name": "Sandviks Badplats",
-                  "text": "Strand a Nynäs-kastély közelében.",
+                  "text": "Sandviks Badplats, egy fürdőhely Nynas Manorban.",
                   "category": "recreational",
                   "coords": [
                         17.418563,
@@ -4320,7 +4320,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Lilla badet",
-                  "text": "Nyilvános fürdő a Nynäs-kúriánál.",
+                  "text": "Lilla badet, egy kis fürdőhely Nynas Manorban.",
                   "category": "recreational",
                   "coords": [
                         17.410277,
@@ -4329,7 +4329,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Minibadet",
-                  "text": "Gyermekfürdő a Nynäs-kúriánál.",
+                  "text": "Minibadet, egy mini fürdőhely Nynas Manorban.",
                   "category": "recreational",
                   "coords": [
                         17.412812,
@@ -4338,7 +4338,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Stora badet",
-                  "text": "Nagy fürdőhely a Nynäs-kúriánál.",
+                  "text": "Stora badet, egy nagy fürdőhely Nynas Manorban.",
                   "category": "recreational",
                   "coords": [
                         17.41073,
@@ -4349,7 +4349,7 @@ imageHint: "Stockholm Royal Palace facade",
       "ro": [
             {
                   "name": "Sandviks Badplats",
-                  "text": "O plajă lângă Castelul Nynäs.",
+                  "text": "Sandviks Badplats, o plajă în Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.418563,
@@ -4385,7 +4385,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Lilla badet",
-                  "text": "O baie publică la Conacul Nynäs.",
+                  "text": "Lilla badet, o plajă mică în Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.410277,
@@ -4394,7 +4394,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Minibadet",
-                  "text": "O baie mică la Conacul Nynäs.",
+                  "text": "Minibadet, o mini-plajă în Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.412812,
@@ -4403,7 +4403,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Stora badet",
-                  "text": "O zonă mare de scăldat la Conacul Nynäs.",
+                  "text": "Stora badet, o plajă mare în Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.41073,
@@ -4414,7 +4414,7 @@ imageHint: "Stockholm Royal Palace facade",
       "en": [
             {
                   "name": "Sandviks Badplats",
-                  "text": "A beach near Nynäs Manor.",
+                  "text": "Sandviks Badplats, a bathing spot in Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.418563,
@@ -4450,7 +4450,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Lilla badet",
-                  "text": "A public bath at Nynäs Manor.",
+                  "text": "Lilla badet, a small bathing spot in Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.410277,
@@ -4459,7 +4459,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Minibadet",
-                  "text": "A small swimming facility at Nynäs Manor.",
+                  "text": "Minibadet, a mini bathing spot in Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.412812,
@@ -4468,7 +4468,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Stora badet",
-                  "text": "A large bathing area at Nynäs Manor.",
+                  "text": "Stora badet, a large bathing spot in Nynas Manor.",
                   "category": "recreational",
                   "coords": [
                         17.41073,
@@ -5092,7 +5092,7 @@ imageHint: "Stockholm Royal Palace facade",
       "de": [
             {
                   "name": "Sätra strandbad",
-                  "text": "Sätra strandbad ist ein Strand bei Drottningholm.",
+                  "text": "Sätra strandbad ist ein Strand am Mälaren südlich von Schloss Drottningholm.",
                   "category": "recreational",
                   "coords": [
                         17.891847,
@@ -5101,7 +5101,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Johannesdalsbadet",
-                  "text": "Strand in der Nähe des Drottningholm-Theaters.",
+                  "text": "Johannesdalsbadet ist ein Badeplatz am Mälaren nahe dem Park von Schloss Drottningholm.",
                   "category": "recreational",
                   "coords": [
                         17.868332,
@@ -5112,7 +5112,7 @@ imageHint: "Stockholm Royal Palace facade",
       "hu": [
             {
                   "name": "Sätra strandbad",
-                  "text": "Sätra strandbad egy strand Drottningholm közelében.",
+                  "text": "Sätra strandbad egy strand a Mälaren-tó partján, a Drottningholm palotától délre.",
                   "category": "recreational",
                   "coords": [
                         17.891847,
@@ -5121,7 +5121,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Johannesdalsbadet",
-                  "text": "Strand a Drottningholm Színház közelében.",
+                  "text": "Johannesdalsbadet egy tóparti fürdőhely a Mälaren-tónál, a Drottningholm palota parkja közelében.",
                   "category": "recreational",
                   "coords": [
                         17.868332,
@@ -5132,7 +5132,7 @@ imageHint: "Stockholm Royal Palace facade",
       "ro": [
             {
                   "name": "Sätra strandbad",
-                  "text": "Sätra strandbad este o plajă lângă Drottningholm.",
+                  "text": "Sätra strandbad este o plajă pe lacul Mälaren, situată la sud de Palatul Drottningholm.",
                   "category": "recreational",
                   "coords": [
                         17.891847,
@@ -5141,7 +5141,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Johannesdalsbadet",
-                  "text": "Plajă lângă Teatrul Drottningholm.",
+                  "text": "Johannesdalsbadet este o zonă de baie pe malul lacului Mälaren, lângă parcul Palatului Drottningholm.",
                   "category": "recreational",
                   "coords": [
                         17.868332,
@@ -5152,7 +5152,7 @@ imageHint: "Stockholm Royal Palace facade",
       "en": [
             {
                   "name": "Sätra strandbad",
-                  "text": "Sätra strandbad is a beach near Drottningholm.",
+                  "text": "Sätra strandbad is a beach on Lake Mälaren located just south of Drottningholm Palace.",
                   "category": "recreational",
                   "coords": [
                         17.891847,
@@ -5161,7 +5161,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Johannesdalsbadet",
-                  "text": "Beach near the Drottningholm Theatre.",
+                  "text": "Johannesdalsbadet is a lakeside bathing area on Lake Mälaren near the Drottningholm Palace park.",
                   "category": "recreational",
                   "coords": [
                         17.868332,
@@ -5893,7 +5893,7 @@ imageHint: "Stockholm Royal Palace facade",
       "de": [
             {
                   "name": "Stilleryd Badplats",
-                  "text": "Badestelle bei der Festung Karlshamn.",
+                  "text": "Stilleryd Badplats, ein Badeplatz in Karlshamn Fort.",
                   "category": "recreational",
                   "coords": [
                         14.813446,
@@ -5904,7 +5904,7 @@ imageHint: "Stockholm Royal Palace facade",
       "hu": [
             {
                   "name": "Stilleryd Badplats",
-                  "text": "Fürdőhely a Karlshamn erőd közelében.",
+                  "text": "Stilleryd Badplats, egy fürdőhely Karlshamn Fortban.",
                   "category": "recreational",
                   "coords": [
                         14.813446,
@@ -5915,7 +5915,7 @@ imageHint: "Stockholm Royal Palace facade",
       "ro": [
             {
                   "name": "Stilleryd Badplats",
-                  "text": "Loc de îmbăiere lângă fortăreața Karlshamn.",
+                  "text": "Stilleryd Badplats, o plajă în Karlshamn Fort.",
                   "category": "recreational",
                   "coords": [
                         14.813446,
@@ -5926,7 +5926,7 @@ imageHint: "Stockholm Royal Palace facade",
       "en": [
             {
                   "name": "Stilleryd Badplats",
-                  "text": "Bathing spot near the Karlshamn fortress.",
+                  "text": "Stilleryd Badplats, a beach in Karlshamn Fort.",
                   "category": "recreational",
                   "coords": [
                         14.813446,
@@ -6028,7 +6028,7 @@ imageHint: "Stockholm Royal Palace facade",
       "de": [
             {
                   "name": "Rävsta",
-                  "text": "Naturschutzgebiet in Sigtuna.",
+                  "text": "Rävsta ist ein Naturschutzgebiet mit Eichenwald an den Ufern des Mälaren bei Sigtuna.",
                   "category": "natural",
                   "coords": [
                         17.771629,
@@ -6037,7 +6037,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Hällsboskogen",
-                  "text": "Naturschutzgebiet in Sigtuna.",
+                  "text": "Hällsboskogen ist ein Waldgebiet mit Wanderwegen nördlich von Sigtuna.",
                   "category": "natural",
                   "coords": [
                         17.68454,
@@ -6046,7 +6046,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Munkholmen",
-                  "text": "Naturschutzgebiet in Sigtuna.",
+                  "text": "Munkholmen ist eine kleine Insel im Mälaren vor der Küste Sigtunas, bekannt für ihre Vogelwelt.",
                   "category": "natural",
                   "coords": [
                         17.742326,
@@ -6055,7 +6055,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Schloss Venngarn",
-                  "text": "Ein historisches Schloss in der Nähe von Sigtuna.",
+                  "text": "Venngarn slott – Schloss in Sigtuna.",
                   "category": "castle",
                   "coords": [
                         17.719802,
@@ -6082,7 +6082,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Sigtuna museum",
-                  "text": "Heimatmuseum in Sigtuna, das die lokale Geschichte präsentiert.",
+                  "text": "Sigtuna museum, das Stadtmuseum von Sigtuna mit Ausstellungen zur Wikingerzeit.",
                   "category": "museum",
                   "coords": [
                         17.718749,
@@ -6091,7 +6091,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Sigtunafjärden",
-                  "text": "Eine Bucht des Mälaren-Sees bei Sigtuna.",
+                  "text": "Sigtunafjärden – Bucht in Sigtuna.",
                   "category": "landmark",
                   "coords": [
                         17.723237,
@@ -6102,7 +6102,7 @@ imageHint: "Stockholm Royal Palace facade",
       "hu": [
             {
                   "name": "Rävsta",
-                  "text": "Természetvédelmi terület Sigtunában.",
+                  "text": "Rävsta egy természetvédelmi terület tölgyes erdővel a Mälaren-tó partján, Sigtuna közelében.",
                   "category": "natural",
                   "coords": [
                         17.771629,
@@ -6111,7 +6111,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Hällsboskogen",
-                  "text": "Természetvédelmi terület Sigtunában.",
+                  "text": "Hällsboskogen egy erdős terület túraútvonalakkal Sigtuna városától északra.",
                   "category": "natural",
                   "coords": [
                         17.68454,
@@ -6120,7 +6120,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Munkholmen",
-                  "text": "Természetvédelmi terület Sigtunában.",
+                  "text": "Munkholmen egy kis sziget a Mälaren-tóban Sigtuna partjainál, madárvilágáról ismert.",
                   "category": "natural",
                   "coords": [
                         17.742326,
@@ -6129,7 +6129,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Wenngarns slott",
-                  "text": "Történelmi kastély Sigtuna közelében.",
+                  "text": "Venngarn slott – kastély Sigtunában.",
                   "category": "castle",
                   "coords": [
                         17.719802,
@@ -6156,7 +6156,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Sigtuna museum",
-                  "text": "Helytörténeti múzeum Sigtunában.",
+                  "text": "Sigtuna museum, Sigtuna városi múzeuma viking kori kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         17.718749,
@@ -6165,7 +6165,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Sigtunafjärden",
-                  "text": "A Mälaren-tó egyik öble Sigtunánál.",
+                  "text": "Sigtunafjärden – öböl Sigtunában.",
                   "category": "landmark",
                   "coords": [
                         17.723237,
@@ -6176,7 +6176,7 @@ imageHint: "Stockholm Royal Palace facade",
       "ro": [
             {
                   "name": "Rävsta",
-                  "text": "Rezervație naturală în Sigtuna.",
+                  "text": "Rävsta este o rezervație naturală cu pădure de stejari pe malurile lacului Mälaren, lângă Sigtuna.",
                   "category": "natural",
                   "coords": [
                         17.771629,
@@ -6185,7 +6185,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Hällsboskogen",
-                  "text": "Rezervație naturală în Sigtuna.",
+                  "text": "Hällsboskogen este o zonă împădurită cu trasee de drumeție la nord de orașul Sigtuna.",
                   "category": "natural",
                   "coords": [
                         17.68454,
@@ -6194,7 +6194,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Munkholmen",
-                  "text": "Rezervație naturală în Sigtuna.",
+                  "text": "Munkholmen este o insulă mică în lacul Mälaren, în largul coastei Sigtunei, cunoscută pentru păsări.",
                   "category": "natural",
                   "coords": [
                         17.742326,
@@ -6203,7 +6203,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Wenngarns slott",
-                  "text": "Un castel istoric lângă Sigtuna.",
+                  "text": "Venngarn slott – castel în Sigtuna.",
                   "category": "castle",
                   "coords": [
                         17.719802,
@@ -6230,7 +6230,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Sigtuna museum",
-                  "text": "Muzeu de istorie locală în Sigtuna.",
+                  "text": "Sigtuna museum, muzeul orașului Sigtuna cu expoziții despre epoca vikingă.",
                   "category": "museum",
                   "coords": [
                         17.718749,
@@ -6239,7 +6239,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Sigtunafjärden",
-                  "text": "Un golf al lacului Mälaren în apropiere de Sigtuna.",
+                  "text": "Sigtunafjärden – golf în Sigtuna.",
                   "category": "landmark",
                   "coords": [
                         17.723237,
@@ -6250,7 +6250,7 @@ imageHint: "Stockholm Royal Palace facade",
       "en": [
             {
                   "name": "Rävsta",
-                  "text": "A nature reserve located in Sigtuna.",
+                  "text": "Rävsta is a nature reserve with oak forest on the shores of Lake Mälaren, near Sigtuna.",
                   "category": "natural",
                   "coords": [
                         17.771629,
@@ -6259,7 +6259,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Hällsboskogen",
-                  "text": "A nature reserve situated in Sigtuna.",
+                  "text": "Hällsboskogen is a forested area with hiking trails north of Sigtuna town.",
                   "category": "natural",
                   "coords": [
                         17.68454,
@@ -6268,7 +6268,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Munkholmen",
-                  "text": "A nature reserve located in Sigtuna.",
+                  "text": "Munkholmen is a small island in Lake Mälaren off the coast of Sigtuna, known for birdlife.",
                   "category": "natural",
                   "coords": [
                         17.742326,
@@ -6277,7 +6277,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Venngarn Castle",
-                  "text": "A historic castle located near Sigtuna.",
+                  "text": "Venngarn Castle in Sigtuna.",
                   "category": "castle",
                   "coords": [
                         17.719802,
@@ -6304,7 +6304,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Sigtuna museum",
-                  "text": "A local history museum located in Sigtuna.",
+                  "text": "Sigtuna museum, the town museum of Sigtuna with Viking-age exhibits.",
                   "category": "museum",
                   "coords": [
                         17.718749,
@@ -6313,7 +6313,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Sigtunafjärden",
-                  "text": "A bay of Lake Mälaren located at Sigtuna.",
+                  "text": "Sigtunafjärden – bay in Sigtuna.",
                   "category": "landmark",
                   "coords": [
                         17.723237,
@@ -6370,7 +6370,7 @@ imageHint: "Stockholm Royal Palace facade",
       "de": [
             {
                   "name": "Hultserum",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Tuna.",
+                  "text": "Ein bewaldeter Hügel nahe der Tuna-Kirche.",
                   "category": "natural",
                   "coords": [
                         16.199881,
@@ -6381,7 +6381,7 @@ imageHint: "Stockholm Royal Palace facade",
       "hu": [
             {
                   "name": "Hultserum",
-                  "text": "Természetvédelmi terület Tuna közelében.",
+                  "text": "Erdős domb a Tuna templom közelében.",
                   "category": "natural",
                   "coords": [
                         16.199881,
@@ -6392,7 +6392,7 @@ imageHint: "Stockholm Royal Palace facade",
       "ro": [
             {
                   "name": "Hultserum",
-                  "text": "O rezervație naturală în apropiere de Tuna.",
+                  "text": "Un deal împădurit lângă Biserica Tuna.",
                   "category": "natural",
                   "coords": [
                         16.199881,
@@ -6403,7 +6403,7 @@ imageHint: "Stockholm Royal Palace facade",
       "en": [
             {
                   "name": "Hultserum",
-                  "text": "A nature reserve located near Tuna.",
+                  "text": "A wooded hillside near Tuna Church.",
                   "category": "natural",
                   "coords": [
                         16.199881,
@@ -6460,7 +6460,7 @@ imageHint: "Stockholm Royal Palace facade",
       "de": [
             {
                   "name": "Fibbetorpsskogen",
-                  "text": "Ein Naturschutzgebiet mit Wald in der Nähe von Nora.",
+                  "text": "Ein dichter Wald nahe der Stadt Nora.",
                   "category": "natural",
                   "coords": [
                         15.001665,
@@ -6478,7 +6478,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Trollstigen",
-                  "text": "Eine lokale Attraktion in der Stadt Nora.",
+                  "text": "Ein gewundener Bergpfad bei Nora.",
                   "category": "landmark",
                   "coords": [
                         15.056489,
@@ -6487,7 +6487,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Bryggeriet Konst AB",
-                  "text": "Ein Kunstzentrum in einer ehemaligen Brauerei in Nora.",
+                  "text": "Eine ehemalige Brauerei, heute Kunstraum in Nora.",
                   "category": "cultural",
                   "coords": [
                         15.029595,
@@ -6496,7 +6496,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Nora kyrka",
-                  "text": "Eine große neugotische Kirche in der Stadt Nora.",
+                  "text": "Nora kyrka – Kirche in Nora, Västmanland.",
                   "category": "religious",
                   "coords": [
                         15.040566,
@@ -6507,7 +6507,7 @@ imageHint: "Stockholm Royal Palace facade",
       "hu": [
             {
                   "name": "Fibbetorpsskogen",
-                  "text": "Erdős természetvédelmi terület Nora közelében.",
+                  "text": "Sűrű erdő Nora város közelében.",
                   "category": "natural",
                   "coords": [
                         15.001665,
@@ -6525,7 +6525,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Trollstigen",
-                  "text": "Helyi látnivaló Nora városában.",
+                  "text": "Kanyargó hegyi ösvény Nora mellett.",
                   "category": "landmark",
                   "coords": [
                         15.056489,
@@ -6534,7 +6534,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Bryggeriet Konst AB",
-                  "text": "Művészeti központ egy egykori sörgyárban, Norában.",
+                  "text": "Egykori sörfőzde, ma művészeti tér Norában.",
                   "category": "cultural",
                   "coords": [
                         15.029595,
@@ -6543,7 +6543,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Nora kyrka",
-                  "text": "Nagy neogótikus templom Nora városában.",
+                  "text": "Nora kyrka – templom Norában, Västmanlandban.",
                   "category": "religious",
                   "coords": [
                         15.040566,
@@ -6554,7 +6554,7 @@ imageHint: "Stockholm Royal Palace facade",
       "ro": [
             {
                   "name": "Fibbetorpsskogen",
-                  "text": "O rezervație naturală cu pădure lângă Nora.",
+                  "text": "O pădure deasă lângă orașul Nora.",
                   "category": "natural",
                   "coords": [
                         15.001665,
@@ -6572,7 +6572,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Trollstigen",
-                  "text": "O atracție locală în orașul Nora.",
+                  "text": "Un drum de munte șerpuitor lângă Nora.",
                   "category": "landmark",
                   "coords": [
                         15.056489,
@@ -6581,7 +6581,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Bryggeriet Konst AB",
-                  "text": "Un centru de artă situat într-o fostă berărie din Nora.",
+                  "text": "O fostă fabrică de bere, acum spațiu artistic în Nora.",
                   "category": "cultural",
                   "coords": [
                         15.029595,
@@ -6590,7 +6590,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Nora kyrka",
-                  "text": "O biserică neogotică mare în orașul Nora.",
+                  "text": "Nora kyrca – biserică în Nora, Västmanland.",
                   "category": "religious",
                   "coords": [
                         15.040566,
@@ -6601,7 +6601,7 @@ imageHint: "Stockholm Royal Palace facade",
       "en": [
             {
                   "name": "Fibbetorpsskogen",
-                  "text": "A nature reserve featuring forest land near Nora.",
+                  "text": "A dense forest near Nora Town.",
                   "category": "natural",
                   "coords": [
                         15.001665,
@@ -6619,7 +6619,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Trollstigen",
-                  "text": "A local attraction in the town of Nora.",
+                  "text": "A winding mountain path near Nora Town.",
                   "category": "landmark",
                   "coords": [
                         15.056489,
@@ -6628,7 +6628,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Bryggeriet Konst AB",
-                  "text": "An arts centre located in a former brewery in Nora.",
+                  "text": "A former brewery turned art space in Nora Town.",
                   "category": "cultural",
                   "coords": [
                         15.029595,
@@ -6637,7 +6637,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Nora kyrka",
-                  "text": "A large Neo-Gothic church in the town of Nora.",
+                  "text": "Nora kyrka – church in Nora, Västmanland.",
                   "category": "religious",
                   "coords": [
                         15.040566,
@@ -6919,7 +6919,7 @@ imageHint: "Stockholm Royal Palace facade",
       "de": [
             {
                   "name": "Kjörselviken, Västra Sund",
-                  "text": "Ein Strand bei Arvika.",
+                  "text": "Ein Badeplatz an der Bucht Kjörselviken nahe der Arvika Kunsthalle.",
                   "category": "recreational",
                   "coords": [
                         12.555844,
@@ -6928,7 +6928,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Ingestrand",
-                  "text": "Strand in der Nähe von Arvika.",
+                  "text": "Ein Sandstrand nahe der Arvika Kunsthalle.",
                   "category": "recreational",
                   "coords": [
                         12.597346,
@@ -6939,7 +6939,7 @@ imageHint: "Stockholm Royal Palace facade",
       "hu": [
             {
                   "name": "Kjörselviken, Västra Sund",
-                  "text": "Strand Arvika közelében.",
+                  "text": "Strand a Kjörselviken-öbölben, az Arvika Művészeti Csarnok közelében.",
                   "category": "recreational",
                   "coords": [
                         12.555844,
@@ -6948,7 +6948,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Ingestrand",
-                  "text": "Part Arvika közelében.",
+                  "text": "Homokos strand az Arvika Művészeti Csarnok közelében.",
                   "category": "recreational",
                   "coords": [
                         12.597346,
@@ -6959,7 +6959,7 @@ imageHint: "Stockholm Royal Palace facade",
       "ro": [
             {
                   "name": "Kjörselviken, Västra Sund",
-                  "text": "O plajă lângă Arvika.",
+                  "text": "O plajă în golful Kjörselviken lângă Sala de Artă Arvika.",
                   "category": "recreational",
                   "coords": [
                         12.555844,
@@ -6968,7 +6968,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Ingestrand",
-                  "text": "Plajă în apropiere de Arvika.",
+                  "text": "O plajă cu nisip lângă Sala de Artă Arvika.",
                   "category": "recreational",
                   "coords": [
                         12.597346,
@@ -6979,7 +6979,7 @@ imageHint: "Stockholm Royal Palace facade",
       "en": [
             {
                   "name": "Kjörselviken, Västra Sund",
-                  "text": "A beach near Arvika.",
+                  "text": "A bathing bay at Kjörselviken near Arvika Art Hall.",
                   "category": "recreational",
                   "coords": [
                         12.555844,
@@ -6988,7 +6988,7 @@ imageHint: "Stockholm Royal Palace facade",
             },
             {
                   "name": "Ingestrand",
-                  "text": "Beach near Arvika.",
+                  "text": "A sandy beach near Arvika Art Hall.",
                   "category": "recreational",
                   "coords": [
                         12.597346,
@@ -7090,7 +7090,7 @@ imageHint: "Stockholm Royal Palace facade",
       "de": [
             {
                   "name": "Råssnäsbadet",
-                  "text": "Råssnäsbadet liegt bei Motala.",
+                  "text": "Råssnäsbadet ist ein Seeuferstrand am Vättern nahe dem Motala Industrimuseum.",
                   "category": "recreational",
                   "coords": [
                         14.990734,
@@ -7101,7 +7101,7 @@ imageHint: "Stockholm Royal Palace facade",
       "hu": [
             {
                   "name": "Råssnäsbadet",
-                  "text": "Råssnäsbadet Motala közelében található.",
+                  "text": "Råssnäsbadet egy tóparti strand a Vättern-tónál, a Motalai Ipari Múzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         14.990734,
@@ -7112,7 +7112,7 @@ imageHint: "Stockholm Royal Palace facade",
       "ro": [
             {
                   "name": "Råssnäsbadet",
-                  "text": "Råssnäsbadet este situată lângă Motala.",
+                  "text": "Råssnäsbadet este o plajă pe malul lacului Vättern, lângă Muzeul Industrial Motala.",
                   "category": "recreational",
                   "coords": [
                         14.990734,
@@ -7123,7 +7123,7 @@ imageHint: "Stockholm Royal Palace facade",
       "en": [
             {
                   "name": "Råssnäsbadet",
-                  "text": "Råssnäsbadet is located near Motala.",
+                  "text": "Råssnäsbadet is a lakeside beach on Lake Vättern near the Motala Industrial Museum.",
                   "category": "recreational",
                   "coords": [
                         14.990734,

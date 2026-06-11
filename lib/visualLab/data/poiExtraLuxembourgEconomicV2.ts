@@ -151,7 +151,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Grand Théâtre de Luxembourg",
-                  "text": "Der Hauptveranstaltungsort der Stadt für Schauspiel, Oper und Ballett.",
+                  "text": "Grand Théâtre de Luxembourg ist das Nationaltheater Luxemburgs im Kirchberg-Viertel.",
                   "category": "cultural",
                   "coords": [
                         6.127874,
@@ -286,7 +286,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Quirin",
-                  "text": "Eine historische Kapelle, die dem Heiligen Quirin gewidmet ist.",
+                  "text": "Chapelle Saint-Quirin (Grëinskapell) ist eine barocke Kapelle im Kirchberg-Viertel.",
                   "category": "landmark",
                   "coords": [
                         6.135101,
@@ -331,7 +331,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Alte Brücke",
-                  "text": "Ein historisches Viadukt, das auch als Passerelle bekannt ist.",
+                  "text": "Pont Viaduc (Passerelle) ist eine 255 Meter lange und 45 Meter hohe Brücke, die die Oberstadt mit Kirchberg verbindet.",
                   "category": "landmark",
                   "coords": [
                         6.133566,
@@ -403,7 +403,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Edmond de la Fontaine & Michel Lentz",
-                  "text": "Ein Denkmal zu Ehren bedeutender luxemburgischer Dichter.",
+                  "text": "Das Denkmal für Edmond de la Fontaine und Michel Lentz zeigt die beiden luxemburgischen Dichter im Parc de l'Europe in Kirchberg.",
                   "category": "historical",
                   "coords": [
                         6.128603,
@@ -412,7 +412,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Sainte-Cunégonde",
-                  "text": "Eine lokale Kirche im historischen Viertel Clausen.",
+                  "text": "Sainte-Cunégonde ist eine moderne katholische Kirche in Kirchberg mit einem auffälligen Glockenturm.",
                   "category": "religious",
                   "coords": [
                         6.143291,
@@ -448,7 +448,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Notre-Dame, Salut des Infirmes",
-                  "text": "Ein religiöser Ort, der als Zuflucht für Kranke bekannt ist.",
+                  "text": "Notre-Dame, Salut des Infirmes ist eine Wallfahrtskapelle im Kirchberg-Viertel, der Muttergottes geweiht.",
                   "category": "religious",
                   "coords": [
                         6.145624,
@@ -783,7 +783,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Grand Théâtre de Luxembourg",
-                  "text": "A város legfontosabb dráma-, opera- és balettelőadásainak helyszíne.",
+                  "text": "A Grand Théâtre de Luxembourg Luxemburg nemzeti színháza a Kirchberg negyedben.",
                   "category": "cultural",
                   "coords": [
                         6.127874,
@@ -918,7 +918,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Quirin",
-                  "text": "Szent Quirinus tiszteletére szentelt történelmi kápolna.",
+                  "text": "A Chapelle Saint-Quirin (Grëinskapell) egy barokk kápolna a Kirchberg negyedben.",
                   "category": "landmark",
                   "coords": [
                         6.135101,
@@ -963,7 +963,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Pont Viaduc",
-                  "text": "Történelmi viadukt, amelyet Passerelle néven is ismernek.",
+                  "text": "A Pont Viaduc (Passerelle) egy 255 méter hosszú és 45 méter magas híd, amely a Felsővárost köti össze Kirchberggel.",
                   "category": "landmark",
                   "coords": [
                         6.133566,
@@ -1035,7 +1035,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Edmond de la Fontaine & Michel Lentz",
-                  "text": "Emlékmű a jelentős luxemburgi költők tiszteletére.",
+                  "text": "Edmond de la Fontaine és Michel Lentz emlékműve a két luxemburgi költőt ábrázolja a kirchbergi Europe parkban.",
                   "category": "historical",
                   "coords": [
                         6.128603,
@@ -1044,7 +1044,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Sainte-Cunégonde",
-                  "text": "Helyi templom a történelmi Clausen negyedben.",
+                  "text": "Sainte-Cunégonde egy modern katolikus templom Kirchbergben, feltűnő harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         6.143291,
@@ -1080,7 +1080,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Notre-Dame, Salut des Infirmes",
-                  "text": "Vallási helyszín, amely a betegek menedékeként ismert.",
+                  "text": "Notre-Dame, Salut des Infirmes egy búcsújáró kápolna a Kirchberg negyedben, Szűz Máriának szentelve.",
                   "category": "religious",
                   "coords": [
                         6.145624,
@@ -1415,7 +1415,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Grand Théâtre de Luxembourg",
-                  "text": "Principalul loc de desfășurare pentru teatru, operă și balet din oraș.",
+                  "text": "Grand Théâtre de Luxembourg este teatrul național al Luxemburgului în cartierul Kirchberg.",
                   "category": "cultural",
                   "coords": [
                         6.127874,
@@ -1550,7 +1550,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Quirin",
-                  "text": "O capelă istorică dedicată Sfântului Quirin.",
+                  "text": "Chapelle Saint-Quirin (Grëinskapell) este o capelă barocă în cartierul Kirchberg.",
                   "category": "landmark",
                   "coords": [
                         6.135101,
@@ -1595,7 +1595,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Pont Viaduc",
-                  "text": "Un viaduct istoric cunoscut și sub numele de Passerelle.",
+                  "text": "Pont Viaduc (Passerelle) este un pod lung de 255 de metri și înalt de 45 de metri, care leagă Orașul Superior de Kirchberg.",
                   "category": "landmark",
                   "coords": [
                         6.133566,
@@ -1667,7 +1667,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Edmond de la Fontaine & Michel Lentz",
-                  "text": "Un monument ridicat în onoarea unor importanți poeți luxemburghezi.",
+                  "text": "Monumentul lui Edmond de la Fontaine și Michel Lentz îi înfățișează pe cei doi poeți luxemburghezi în Parc de l'Europe din Kirchberg.",
                   "category": "historical",
                   "coords": [
                         6.128603,
@@ -1676,7 +1676,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Sainte-Cunégonde",
-                  "text": "O biserică locală în cartierul istoric Clausen.",
+                  "text": "Sainte-Cunégonde este o biserică catolică modernă în Kirchberg, cu un turn de clopotniță izbitor.",
                   "category": "religious",
                   "coords": [
                         6.143291,
@@ -1712,7 +1712,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Notre-Dame, Salut des Infirmes",
-                  "text": "Un lăcaș religios cunoscut ca refugiu pentru cei bolnavi.",
+                  "text": "Notre-Dame, Salut des Infirmes este o capelă de pelerinaj în cartierul Kirchberg, dedicată Fecioarei Maria.",
                   "category": "religious",
                   "coords": [
                         6.145624,
@@ -2047,7 +2047,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Grand Théâtre de Luxembourg",
-                  "text": "The city's main venue for drama, opera, and ballet.",
+                  "text": "Grand Théâtre de Luxembourg is the national theatre of Luxembourg in the Kirchberg district.",
                   "category": "cultural",
                   "coords": [
                         6.127874,
@@ -2182,7 +2182,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Quirin",
-                  "text": "A historic chapel dedicated to Saint Quirin.",
+                  "text": "Chapelle Saint-Quirin (Grëinskapell) is a Baroque chapel in the Kirchberg district.",
                   "category": "landmark",
                   "coords": [
                         6.135101,
@@ -2227,7 +2227,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Pont Viaduc",
-                  "text": "A historic viaduct also known as the Passerelle.",
+                  "text": "Pont Viaduc (Passerelle) is a 255-metre-long, 45-metre-high bridge connecting the Upper Town to Kirchberg.",
                   "category": "landmark",
                   "coords": [
                         6.133566,
@@ -2299,7 +2299,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Edmond de la Fontaine & Michel Lentz",
-                  "text": "A monument honoring significant Luxembourgish poets.",
+                  "text": "The monument of Edmond de la Fontaine and Michel Lentz depicts the two Luxembourgish poets in Parc de l'Europe, Kirchberg.",
                   "category": "historical",
                   "coords": [
                         6.128603,
@@ -2308,7 +2308,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Sainte-Cunégonde",
-                  "text": "A local church in the historic Clausen district.",
+                  "text": "Sainte-Cunégonde is a modern Catholic church in Kirchberg with a striking bell tower.",
                   "category": "religious",
                   "coords": [
                         6.143291,
@@ -2344,7 +2344,7 @@ export const luxembourgEconomicV2: POI[] = [
             },
             {
                   "name": "Notre-Dame, Salut des Infirmes",
-                  "text": "A religious site known as a sanctuary for the sick.",
+                  "text": "Notre-Dame, Salut des Infirmes is a pilgrimage chapel in the Kirchberg district, dedicated to Our Lady.",
                   "category": "religious",
                   "coords": [
                         6.145624,

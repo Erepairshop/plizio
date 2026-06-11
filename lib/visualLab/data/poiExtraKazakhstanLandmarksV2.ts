@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraKazakhstanLandmarksV2: POI[] = [
   {
-    id: "bayterek-tower-landmarks-v2",
+    id: "bayterek-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pamiatnik Sharliu De Golliu",
+                  "text": "Dieses Denkmal ehrt den ehemaligen französischen Präsidenten und steht als Symbol der diplomatischen Freundschaft.",
+                  "category": "historical",
+                  "coords": [
+                        71.44866,
+                        51.141465
+                  ]
+            },
+            {
+                  "name": "Bajterek-Turm",
+                  "text": "Der ikonische Turm stellt ein goldenes Ei in den Ästen eines Lebensbaumes dar und bietet eine Panorama-Aussichtsplattform.",
+                  "category": "historical",
+                  "coords": [
+                        71.430515,
+                        51.128284
+                  ]
+            },
+            {
+                  "name": "Zhetisu saiabag'y",
+                  "text": "Dieser weitläufige Park wurde gestaltet, um die vielfältigen Landschaften und Pflanzen der Region Siebenstromland darzustellen.",
+                  "category": "park",
+                  "coords": [
+                        71.438547,
+                        51.135802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pamiatnik Sharliu De Golliu",
+                  "text": "Ez az emlékmű a volt francia elnök előtt tiszteleg, és a diplomáciai barátság szimbólumaként áll.",
+                  "category": "historical",
+                  "coords": [
+                        71.44866,
+                        51.141465
+                  ]
+            },
+            {
+                  "name": "B@iterek",
+                  "text": "Az ikonikus torony egy aranytojást ábrázol az életfa ágai között, és panorámás kilátóplatformot kínál.",
+                  "category": "historical",
+                  "coords": [
+                        71.430515,
+                        51.128284
+                  ]
+            },
+            {
+                  "name": "Zhetisu saiabag'y",
+                  "text": "Ezt a tágas parkot úgy alakították ki, hogy bemutassa a Hétfolyó-vidék változatos tájait és növényvilágát.",
+                  "category": "park",
+                  "coords": [
+                        71.438547,
+                        51.135802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pamiatnik Sharliu De Golliu",
+                  "text": "Acest monument îl onorează pe fostul președinte francez și reprezintă un simbol al prieteniei diplomatice.",
+                  "category": "historical",
+                  "coords": [
+                        71.44866,
+                        51.141465
+                  ]
+            },
+            {
+                  "name": "B@iterek",
+                  "text": "Turnul iconic reprezintă un ou de aur în ramurile unui arbore al vieții și oferă o platformă de observație panoramică.",
+                  "category": "historical",
+                  "coords": [
+                        71.430515,
+                        51.128284
+                  ]
+            },
+            {
+                  "name": "Zhetisu saiabag'y",
+                  "text": "Acest parc vast a fost amenajat pentru a reprezenta peisajele și flora diversă a regiunii celor șapte râuri.",
+                  "category": "park",
+                  "coords": [
+                        71.438547,
+                        51.135802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pamiatnik Sharliu De Golliu",
+                  "text": "This monument honors the former French president and stands as a symbol of diplomatic friendship.",
+                  "category": "historical",
+                  "coords": [
+                        71.44866,
+                        51.141465
+                  ]
+            },
+            {
+                  "name": "Bayterek",
+                  "text": "The iconic tower represents a golden egg in the branches of a mythical tree and features a panoramic observation deck.",
+                  "category": "historical",
+                  "coords": [
+                        71.430515,
+                        51.128284
+                  ]
+            },
+            {
+                  "name": "Zhetysu Park",
+                  "text": "This expansive park was designed to showcase the diverse landscapes and flora of the Zhetysu region.",
+                  "category": "park",
+                  "coords": [
+                        71.438547,
+                        51.135802
+                  ]
+            }
+      ]
+},
     type: "icon",
     parent: "KZ-AST",
     coords: [71.4305, 51.1283],
@@ -59,7 +176,124 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "khan-shatyr-landmarks-v2",
+    id: "khan-shatyr-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "NLO",
+                  "text": "Eine Ufo-thematisierte Attraktion innerhalb des Unterhaltungskomplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        71.404625,
+                        51.132246
+                  ]
+            },
+            {
+                  "name": "Sky Beach Club",
+                  "text": "Ein künstlicher Sandstrandbereich innerhalb des überdachten Komplexes.",
+                  "category": "recreational",
+                  "coords": [
+                        71.403713,
+                        51.132889
+                  ]
+            },
+            {
+                  "name": "Khram vo imia prepodobnogo Sergiia Radonezhskogo",
+                  "text": "Eine orthodoxe Kirche, die dem Heiligen Sergius von Radonesch geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        71.38396,
+                        51.074932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NLO",
+                  "text": "Egy ufó-témájú látványosság a szórakoztató központban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.404625,
+                        51.132246
+                  ]
+            },
+            {
+                  "name": "Sky Beach Club",
+                  "text": "Egy mesterséges homokos strandrész a fedett komplexumon belül.",
+                  "category": "recreational",
+                  "coords": [
+                        71.403713,
+                        51.132889
+                  ]
+            },
+            {
+                  "name": "Khram vo imia prepodobnogo Sergiia Radonezhskogo",
+                  "text": "Radonyezsi Szent Szergijnek szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        71.38396,
+                        51.074932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NLO",
+                  "text": "O atracție cu tematică OZN situată în complexul de divertisment.",
+                  "category": "landmark",
+                  "coords": [
+                        71.404625,
+                        51.132246
+                  ]
+            },
+            {
+                  "name": "Sky Beach Club",
+                  "text": "O zonă de plajă artificială cu nisip în cadrul complexului interior.",
+                  "category": "recreational",
+                  "coords": [
+                        71.403713,
+                        51.132889
+                  ]
+            },
+            {
+                  "name": "Khram vo imia prepodobnogo Sergiia Radonezhskogo",
+                  "text": "O biserică ortodoxă închinată Sfântului Serghie de Radonej.",
+                  "category": "religious",
+                  "coords": [
+                        71.38396,
+                        51.074932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NLO",
+                  "text": "A UFO-themed attraction located within the entertainment complex.",
+                  "category": "landmark",
+                  "coords": [
+                        71.404625,
+                        51.132246
+                  ]
+            },
+            {
+                  "name": "Sky Beach Club",
+                  "text": "An artificial sandy beach area within the indoor complex.",
+                  "category": "recreational",
+                  "coords": [
+                        71.403713,
+                        51.132889
+                  ]
+            },
+            {
+                  "name": "Khram vo imia prepodobnogo Sergiia Radonezhskogo",
+                  "text": "An Orthodox church dedicated to St. Sergius of Radonezh.",
+                  "category": "religious",
+                  "coords": [
+                        71.38396,
+                        51.074932
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KZ-AST",
     coords: [71.4036, 51.1325],
@@ -171,7 +405,628 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "medeu-rink-landmarks-v2",
+    id: "medeu-rink-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zamartas",
+                  "text": "Ein hochgelegener Aussichtspunkt in der Nähe des Medeu-Damms mit Blick auf die weltberühmte Eisbahn.",
+                  "category": "natural",
+                  "coords": [
+                        77.033659,
+                        43.198431
+                  ]
+            },
+            {
+                  "name": "Butakovskii sark'yramasy",
+                  "text": "Ein malerischer natürlicher Wasserfall, der in der grünen Butakovka-Schlucht über eine Klippe stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        77.114007,
+                        43.172306
+                  ]
+            },
+            {
+                  "name": "Tynyshtau",
+                  "text": "Ein Bergaussichtspunkt mit friedlicher Atmosphäre und Blick auf die Alatau-Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        77.086678,
+                        43.16914
+                  ]
+            },
+            {
+                  "name": "Bu'tak'ty",
+                  "text": "Eine archäologische Ausgrabungsstätte in den Ausläufern mit den Überresten einer prähistorischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        77.081269,
+                        43.182945
+                  ]
+            },
+            {
+                  "name": "Selezashchitnaia damba",
+                  "text": "Ein massiver Schlammstrom-Schutzdamm bei Medeu, der Almaty vor Bergfluten schützen soll.",
+                  "category": "landmark",
+                  "coords": [
+                        77.062236,
+                        43.150604
+                  ]
+            },
+            {
+                  "name": "Mokhnatka",
+                  "text": "Ein markanter, kiefernbewachsener Gipfel bei Medeu, der wegen seines dichten Waldes „Mohnatka“ genannt wird.",
+                  "category": "natural",
+                  "coords": [
+                        77.050169,
+                        43.149073
+                  ]
+            },
+            {
+                  "name": "Kimasar",
+                  "text": "Ein archäologischer Lagerplatz und ein malerisches Wandertal im Transili-Alatau-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        77.100852,
+                        43.157638
+                  ]
+            },
+            {
+                  "name": "Panorama Kok-Zhailiau",
+                  "text": "Ein spektakulärer Aussichtspunkt auf einer Hochebene mit 360-Grad-Blick auf die umliegenden Berge.",
+                  "category": "natural",
+                  "coords": [
+                        77.024911,
+                        43.134994
+                  ]
+            },
+            {
+                  "name": "Birinshi kindik",
+                  "text": "Ein Aussichtspunkt auf einem Bergrücken mit Blick auf die zerklüftete Alpenlandschaft von Medeu.",
+                  "category": "natural",
+                  "coords": [
+                        76.976999,
+                        43.161957
+                  ]
+            },
+            {
+                  "name": "Ushinshi kindik",
+                  "text": "Ein hochgelegener Aussichtspunkt entlang der Wanderwege mit weitem Blick in das Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        76.987959,
+                        43.154978
+                  ]
+            },
+            {
+                  "name": "Pavlin aialdamasy",
+                  "text": "Eine markante Bushaltestelle aus der Sowjetzeit, die mit leuchtenden Mosaikmustern eines Pfaus verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.016559,
+                        43.174508
+                  ]
+            },
+            {
+                  "name": "Slonikha",
+                  "text": "Ein malerischer Bergaussichtspunkt, benannt nach einer Felsformation, die einem Elefanten ähnelt.",
+                  "category": "natural",
+                  "coords": [
+                        77.046451,
+                        43.167596
+                  ]
+            },
+            {
+                  "name": "Griby",
+                  "text": "Ein einzigartiges Bushäuschen aus Beton in der spielerischen Form eines Riesenschwamms.",
+                  "category": "landmark",
+                  "coords": [
+                        77.056512,
+                        43.158918
+                  ]
+            },
+            {
+                  "name": "Podzemnaia tserkov'",
+                  "text": "Eine kleine, abgelegene unterirdische Kapelle, die direkt in den Bergfelsen gehauen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        77.047361,
+                        43.157195
+                  ]
+            },
+            {
+                  "name": "Bania ot Gostevogo Doma",
+                  "text": "Ein traditionelles russisches Badehaus für ein rustikales Wellness-Erlebnis in den Medeu-Bergen.",
+                  "category": "recreational",
+                  "coords": [
+                        77.121683,
+                        43.192803
+                  ]
+            },
+            {
+                  "name": "Bania - t/b Elik-Sai",
+                  "text": "Eine Berksauna in der Elik-Sai-Schlucht, die bei Wanderern und Outdoor-Fans beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        77.120409,
+                        43.192444
+                  ]
+            },
+            {
+                  "name": "Gorelnık termaldy bulaǵy",
+                  "text": "Eine natürliche heiße Quelle mit Thermalbecken im Freien am Medeu-Wanderweg.",
+                  "category": "natural",
+                  "coords": [
+                        77.066584,
+                        43.141721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamartas",
+                  "text": "Magaslati kilátópont a Medeu-gát közelében, ahonnan kilátás nyílik a világhírű jégpályára.",
+                  "category": "natural",
+                  "coords": [
+                        77.033659,
+                        43.198431
+                  ]
+            },
+            {
+                  "name": "Butakovskii sark'yramasy",
+                  "text": "Festői természetes vízesés, amely egy sziklafalon zúdul le a zöldellő Butakovka-szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        77.114007,
+                        43.172306
+                  ]
+            },
+            {
+                  "name": "Tynyshtau",
+                  "text": "Hegyi kilátópont nyugodt légkörrel és kilátással az Alatau-csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        77.086678,
+                        43.16914
+                  ]
+            },
+            {
+                  "name": "Bu'tak'ty",
+                  "text": "Régészeti lelőhely a dombok között, amely egy praehisztorikus település maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        77.081269,
+                        43.182945
+                  ]
+            },
+            {
+                  "name": "Selezashchitnaia damba",
+                  "text": "Masszív iszapömlés elleni gát Medeu-nál, amelyet Almati hegyi áradásoktól való megvédésére terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        77.062236,
+                        43.150604
+                  ]
+            },
+            {
+                  "name": "Mokhnatka",
+                  "text": "Jellegzetes fenyővel borított csúcs Medeu közelében, amelyet sűrű erdője miatt „Bozontosnak” neveznek.",
+                  "category": "natural",
+                  "coords": [
+                        77.050169,
+                        43.149073
+                  ]
+            },
+            {
+                  "name": "Kimasar",
+                  "text": "Régészeti táborhely és festői kirándulóvölgy az Ili-Alatau-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        77.100852,
+                        43.157638
+                  ]
+            },
+            {
+                  "name": "Panorama Kok-Zhailiau",
+                  "text": "Látványos kilátópont egy magas fennsíkon, ahonnan 360 fokos kilátás nyílik a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        77.024911,
+                        43.134994
+                  ]
+            },
+            {
+                  "name": "Birinshi kindik",
+                  "text": "Hegygerinc-kilátó, ahonnan kilátás nyílik Medeu zord alpesi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        76.976999,
+                        43.161957
+                  ]
+            },
+            {
+                  "name": "Ushinshi kindik",
+                  "text": "Magaslati kilátó a túraútvonalak mentén, ahonnan mélyen be lehet látni a hegységbe.",
+                  "category": "natural",
+                  "coords": [
+                        76.987959,
+                        43.154978
+                  ]
+            },
+            {
+                  "name": "Pavlin aialdamasy",
+                  "text": "Jellegzetes szovjet kori buszmegálló, amelyet egy páva élénk mozaikmintáival díszítettek.",
+                  "category": "landmark",
+                  "coords": [
+                        77.016559,
+                        43.174508
+                  ]
+            },
+            {
+                  "name": "Slonikha",
+                  "text": "Festői hegyi kilátópont, amelyet egy elefántra hasonlító sziklaalakzatról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        77.046451,
+                        43.167596
+                  ]
+            },
+            {
+                  "name": "Griby",
+                  "text": "Egyedülálló beton buszmegálló, amelyet egy óriási gomba játékos alakjára terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        77.056512,
+                        43.158918
+                  ]
+            },
+            {
+                  "name": "Podzemnaia tserkov'",
+                  "text": "Kicsi, eldugott földalatti kápolna, amelyet közvetlenül a hegyi sziklába vájtak.",
+                  "category": "religious",
+                  "coords": [
+                        77.047361,
+                        43.157195
+                  ]
+            },
+            {
+                  "name": "Bania ot Gostevogo Doma",
+                  "text": "Hagyományos orosz fürdőház, amely rusztikus wellness-élményt nyújt a Medeu-hegyekben.",
+                  "category": "recreational",
+                  "coords": [
+                        77.121683,
+                        43.192803
+                  ]
+            },
+            {
+                  "name": "Bania - t/b Elik-Sai",
+                  "text": "Hegyi szauna az Elik-Sai szurdokban, amely népszerű a túrázók és a természetjárók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        77.120409,
+                        43.192444
+                  ]
+            },
+            {
+                  "name": "Gorelnık termaldy bulaǵy",
+                  "text": "Természetes meleg forrás szabadtéri termálmedencékkel a Medeu-túraútvonal mentén.",
+                  "category": "natural",
+                  "coords": [
+                        77.066584,
+                        43.141721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamartas",
+                  "text": "Un punct de belvedere la mare înălțime, lângă barajul Medeu, oferind priveliști spre faimosul patinoar.",
+                  "category": "natural",
+                  "coords": [
+                        77.033659,
+                        43.198431
+                  ]
+            },
+            {
+                  "name": "Butakovskii sark'yramasy",
+                  "text": "O cascadă naturală pitorească care cade peste o stâncă în cheile verzi Butakovka.",
+                  "category": "landmark",
+                  "coords": [
+                        77.114007,
+                        43.172306
+                  ]
+            },
+            {
+                  "name": "Tynyshtau",
+                  "text": "Un punct de belvedere montan care oferă o atmosferă liniștită și vederi spre vârfurile Alatau.",
+                  "category": "natural",
+                  "coords": [
+                        77.086678,
+                        43.16914
+                  ]
+            },
+            {
+                  "name": "Bu'tak'ty",
+                  "text": "Un sit arheologic în dealuri, care conține resturile unei așezări preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        77.081269,
+                        43.182945
+                  ]
+            },
+            {
+                  "name": "Selezashchitnaia damba",
+                  "text": "Un baraj masiv împotriva viiturilor la Medeu, conceput pentru a proteja Almaty de inundațiile montane.",
+                  "category": "landmark",
+                  "coords": [
+                        77.062236,
+                        43.150604
+                  ]
+            },
+            {
+                  "name": "Mokhnatka",
+                  "text": "Un vârf proeminent acoperit cu pini lângă Medeu, numit „Mohnatka” datorită aspectului său de pădure densă.",
+                  "category": "natural",
+                  "coords": [
+                        77.050169,
+                        43.149073
+                  ]
+            },
+            {
+                  "name": "Kimasar",
+                  "text": "Un camping arheologic și o vale pitorească pentru drumeții situată în munții Alatau.",
+                  "category": "landmark",
+                  "coords": [
+                        77.100852,
+                        43.157638
+                  ]
+            },
+            {
+                  "name": "Panorama Kok-Zhailiau",
+                  "text": "Un punct de belvedere spectaculos pe un platou înalt, oferind vederi de 360 de grade asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        77.024911,
+                        43.134994
+                  ]
+            },
+            {
+                  "name": "Birinshi kindik",
+                  "text": "Un punct de belvedere pe o creastă montană, oferind vederi spre peisajul alpin accidentat de la Medeu.",
+                  "category": "natural",
+                  "coords": [
+                        76.976999,
+                        43.161957
+                  ]
+            },
+            {
+                  "name": "Ushinshi kindik",
+                  "text": "Un punct de belvedere la mare înălțime de-a lungul traseelor de drumeție, oferind vederi adânc în lanțul muntos.",
+                  "category": "natural",
+                  "coords": [
+                        76.987959,
+                        43.154978
+                  ]
+            },
+            {
+                  "name": "Pavlin aialdamasy",
+                  "text": "O stație de autobuz distinctivă din epoca sovietică, decorată cu modele de mozaic vibrante ale unui păun.",
+                  "category": "landmark",
+                  "coords": [
+                        77.016559,
+                        43.174508
+                  ]
+            },
+            {
+                  "name": "Slonikha",
+                  "text": "Un punct de belvedere montan pitoresc, numit după o formațiune stâncoasă care seamănă cu un elefant.",
+                  "category": "natural",
+                  "coords": [
+                        77.046451,
+                        43.167596
+                  ]
+            },
+            {
+                  "name": "Griby",
+                  "text": "O stație de autobuz unică din beton, proiectată în forma fantezistă a unei ciuperci uriașe.",
+                  "category": "landmark",
+                  "coords": [
+                        77.056512,
+                        43.158918
+                  ]
+            },
+            {
+                  "name": "Podzemnaia tserkov'",
+                  "text": "O mică capelă subterană retrasă, sculptată direct în stânca muntelui.",
+                  "category": "religious",
+                  "coords": [
+                        77.047361,
+                        43.157195
+                  ]
+            },
+            {
+                  "name": "Bania ot Gostevogo Doma",
+                  "text": "O baie rusească tradițională care oferă o experiență rustică de spa în munții Medeu.",
+                  "category": "recreational",
+                  "coords": [
+                        77.121683,
+                        43.192803
+                  ]
+            },
+            {
+                  "name": "Bania - t/b Elik-Sai",
+                  "text": "O saună montană situată în cheile Elik-Sai, populară printre drumeți și pasionații de aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        77.120409,
+                        43.192444
+                  ]
+            },
+            {
+                  "name": "Gorelnık termaldy bulaǵy",
+                  "text": "Un izvor termal natural cu piscine termale în aer liber, accesibil de-a lungul traseului de drumeție Medeu.",
+                  "category": "natural",
+                  "coords": [
+                        77.066584,
+                        43.141721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "1600m lookout",
+                  "text": "A high-altitude viewpoint near the Medeu dam offering vistas of the world-famous ice rink.",
+                  "category": "natural",
+                  "coords": [
+                        77.033659,
+                        43.198431
+                  ]
+            },
+            {
+                  "name": "Butakovskiy waterfall",
+                  "text": "A scenic natural waterfall cascading down a cliff in the verdant Butakovka Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        77.114007,
+                        43.172306
+                  ]
+            },
+            {
+                  "name": "Tynyshtau",
+                  "text": "A mountain lookout point providing a peaceful atmosphere and views of the Alatau peaks.",
+                  "category": "natural",
+                  "coords": [
+                        77.086678,
+                        43.16914
+                  ]
+            },
+            {
+                  "name": "Bu'tak'ty",
+                  "text": "An archaeological site in the foothills containing the remains of a prehistoric settlement.",
+                  "category": "historical",
+                  "coords": [
+                        77.081269,
+                        43.182945
+                  ]
+            },
+            {
+                  "name": "Debris dam",
+                  "text": "A massive anti-mudflow dam at Medeu designed to protect Almaty from mountain floods.",
+                  "category": "landmark",
+                  "coords": [
+                        77.062236,
+                        43.150604
+                  ]
+            },
+            {
+                  "name": "Mohnatka",
+                  "text": "A prominent pine-covered peak near Medeu, named \"Shaggy\" for its dense forest appearance.",
+                  "category": "natural",
+                  "coords": [
+                        77.050169,
+                        43.149073
+                  ]
+            },
+            {
+                  "name": "Kimasar",
+                  "text": "An archaeological campsite and scenic hiking valley located in the Trans-Ili Alatau mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        77.100852,
+                        43.157638
+                  ]
+            },
+            {
+                  "name": "Panorama Kok-Zhailiau",
+                  "text": "A spectacular lookout point on a high plateau offering 360-degree views of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        77.024911,
+                        43.134994
+                  ]
+            },
+            {
+                  "name": "Birinshi kindik",
+                  "text": "A mountain ridge viewpoint offering vistas of the rugged alpine landscape of Medeu.",
+                  "category": "natural",
+                  "coords": [
+                        76.976999,
+                        43.161957
+                  ]
+            },
+            {
+                  "name": "Ushinshi kindik",
+                  "text": "A high-altitude lookout along the hiking trails providing views deep into the mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        76.987959,
+                        43.154978
+                  ]
+            },
+            {
+                  "name": "Peacock Bus Stop",
+                  "text": "A distinctive Soviet-era bus stop decorated with vibrant mosaic patterns of a peacock.",
+                  "category": "landmark",
+                  "coords": [
+                        77.016559,
+                        43.174508
+                  ]
+            },
+            {
+                  "name": "Slonikha",
+                  "text": "A scenic mountain viewpoint named for a rock formation that resembles an elephant.",
+                  "category": "natural",
+                  "coords": [
+                        77.046451,
+                        43.167596
+                  ]
+            },
+            {
+                  "name": "\"Mushroom\" bus stop",
+                  "text": "A unique concrete bus shelter designed in the whimsical shape of a giant mushroom.",
+                  "category": "landmark",
+                  "coords": [
+                        77.056512,
+                        43.158918
+                  ]
+            },
+            {
+                  "name": "Podzemnaia tserkov'",
+                  "text": "A small, secluded underground chapel carved directly into the mountain rock.",
+                  "category": "religious",
+                  "coords": [
+                        77.047361,
+                        43.157195
+                  ]
+            },
+            {
+                  "name": "Bania ot Gostevogo Doma",
+                  "text": "A traditional Russian bathhouse providing a rustic spa experience in the Medeu mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        77.121683,
+                        43.192803
+                  ]
+            },
+            {
+                  "name": "Bania - t/b Elik-Sai",
+                  "text": "A mountain sauna located in the Elik-Sai gorge, popular with hikers and outdoor enthusiasts.",
+                  "category": "recreational",
+                  "coords": [
+                        77.120409,
+                        43.192444
+                  ]
+            },
+            {
+                  "name": "Gorelnık termaldy bulaǵy",
+                  "text": "A natural hot spring featuring open-air thermal pools accessible along the Medeu hiking path.",
+                  "category": "natural",
+                  "coords": [
+                        77.066584,
+                        43.141721
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KZ-ALA",
     coords: [77.0589, 43.1575],
@@ -227,7 +1082,1096 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "ascension-cathedral-landmarks-v2",
+    id: "ascension-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "K'azak'stan Respublikasy ortalyk' temirzhol koligi mu'razhaiy",
+                  "text": "Ein Museum zur Geschichte der kasachischen Eisenbahn mit einer Sammlung von Oldtimer-Lokomotiven und technischer Ausrüstung.",
+                  "category": "museum",
+                  "coords": [
+                        76.946496,
+                        43.251813
+                  ]
+            },
+            {
+                  "name": "Dinmu'khamed K'onaev P@ter Mu'razhaiy",
+                  "text": "Die ehemalige Residenz des kasachischen Führers Dinmuchamed Kunajew, die heute als Museum sein Leben und Werk dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        76.948455,
+                        43.252717
+                  ]
+            },
+            {
+                  "name": "Tsentr sblizheniia kul'tur",
+                  "text": "Ein in einem historischen Gebäude untergebrachtes Museum, das sich der Literatur und dem interkulturellen Austausch widmet.",
+                  "category": "museum",
+                  "coords": [
+                        76.951204,
+                        43.249836
+                  ]
+            },
+            {
+                  "name": "Yk'ylas atyndag'y khalyk' muzykalyk' aspaptar mu'razhaiy",
+                  "text": "Dieses Museum in einem markanten Holzgebäude von 1908 zeigt über 1.000 traditionelle kasachische Musikinstrumente.",
+                  "category": "museum",
+                  "coords": [
+                        76.95687,
+                        43.259465
+                  ]
+            },
+            {
+                  "name": "D. A. K'onaev eskertkishi",
+                  "text": "Eine 1978 errichtete Bronzebüste zu Ehren des prominenten kasachischen Politikers Dinmuchamed Kunajew.",
+                  "category": "historical",
+                  "coords": [
+                        76.949633,
+                        43.25281
+                  ]
+            },
+            {
+                  "name": "Turkiia Respublikasynyn' Generaldyk' Konsuldyg'y",
+                  "text": "Ein historisches Herrenhaus aus dem frühen 20. Jahrhundert, das früher als Wohnsitz für den Direktor des Männer-Gymnasiums diente.",
+                  "category": "historical",
+                  "coords": [
+                        76.953729,
+                        43.255661
+                  ]
+            },
+            {
+                  "name": "Dom brat'ev Breusovykh",
+                  "text": "Ein bemerkenswertes historisches Wohnhaus in Almaty, das für die Brüder Breussow erbaut wurde und die Architektur des frühen 20. Jahrhunderts zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        76.959048,
+                        43.259368
+                  ]
+            },
+            {
+                  "name": "Dom aksakala Seidalina",
+                  "text": "Ein historisches Holzherrenhaus aus dem späten 19. Jahrhundert, das einem lokalen Ältesten (Aksakal) gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        76.943738,
+                        43.261593
+                  ]
+            },
+            {
+                  "name": "Khalyk'tyk' Bak'ylau Komiteti",
+                  "text": "Ein Verwaltungsgebäude aus der Sowjetzeit, in dem einst das Komitee für Volkskontrolle untergebracht war.",
+                  "category": "historical",
+                  "coords": [
+                        76.940138,
+                        43.258722
+                  ]
+            },
+            {
+                  "name": "ART",
+                  "text": "Almatys führendes unabhängiges Theater 'Artishock', das für seine experimentellen und zeitgenössischen Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.95431,
+                        43.259698
+                  ]
+            },
+            {
+                  "name": "Zhambyl atyndag'y K'azak' Memlekettik filarmoniiasy",
+                  "text": "Nach dem kasachischen Volkspoeten Zhambyl Akyn benannt, ist dieses Konzerthaus ein Zentrum für klassische Musik.",
+                  "category": "cultural",
+                  "coords": [
+                        76.957858,
+                        43.256414
+                  ]
+            },
+            {
+                  "name": "Kok Bazar",
+                  "text": "Almatys lebhaftester Markt, berühmt für frische lokale Produkte, Gewürze und traditionelle kasachische Delikatessen.",
+                  "category": "cultural",
+                  "coords": [
+                        76.954865,
+                        43.263708
+                  ]
+            },
+            {
+                  "name": "Memlekettik k'uyrshak' teatry",
+                  "text": "Eines der ältesten Puppentheater Kasachstans, das Stücke sowohl auf Kasachisch als auch auf Russisch aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        76.952401,
+                        43.261289
+                  ]
+            },
+            {
+                  "name": "TsUM",
+                  "text": "Ein Wahrzeichen Almatys, dieses historische Kaufhaus ist für seine markante klassische Fassade bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        76.941443,
+                        43.262321
+                  ]
+            },
+            {
+                  "name": "Dom zodchikh Zenkovykh",
+                  "text": "Das ehemalige Wohnhaus der berühmten Architektenfamilie Zenkov, Pioniere der erdbebensicheren Holzbauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        76.930527,
+                        43.255869
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa G.A. Shakhvorostova",
+                  "text": "Ein elegantes Händlerhaus aus dem späten 19. Jahrhundert, das die Architektur des alten Verny repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945913,
+                        43.258526
+                  ]
+            },
+            {
+                  "name": "K'aztu'tyg'uodag'y g'imaraty",
+                  "text": "Ein markantes Gebäude aus den 1950er Jahren, das an einer zentralen Kreuzung ein bedeutendes Beispiel städtischer Architektur ist.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945773,
+                        43.255348
+                  ]
+            },
+            {
+                  "name": "Dom vracha Fidlera",
+                  "text": "Ein charmantes historisches Holzhaus, das einst dem prominenten Stadtarzt Dr. Fiedler gehörte.",
+                  "category": "landmark",
+                  "coords": [
+                        76.958797,
+                        43.257216
+                  ]
+            },
+            {
+                  "name": "Vernyi ush klassty uchilishchesi",
+                  "text": "Ein Schulgebäude aus dem 19. Jahrhundert, das an die Bildungstraditionen der Stadt während der Verny-Ära erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        76.957172,
+                        43.260994
+                  ]
+            },
+            {
+                  "name": "Christi-Himmelfahrt-Kathedrale",
+                  "text": "Diese prächtige orthodoxe Kathedrale wurde 1907 vollständig aus Holz und ohne Metallnägel erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        76.953156,
+                        43.25878
+                  ]
+            },
+            {
+                  "name": "K'yzyl tan' matalar uii",
+                  "text": "Ein reich verziertes Holzgebäude aus dem Jahr 1912, das heute als Stoffgeschäft mit traditionellem Flair dient.",
+                  "category": "landmark",
+                  "coords": [
+                        76.950271,
+                        43.262626
+                  ]
+            },
+            {
+                  "name": "Alma Museum",
+                  "text": "Dieses Museum feiert Almatys Erbe als 'Stadt der Äpfel' und beleuchtet die Geschichte der Frucht.",
+                  "category": "museum",
+                  "coords": [
+                        76.944588,
+                        43.250165
+                  ]
+            },
+            {
+                  "name": "Dom-muzei Akhmeta i Gazizy Zhubanovykh",
+                  "text": "Das Gedenkhaus der berühmten kasachischen Komponisten Achmet und Gasisa Schubanow zeigt deren persönliches Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        76.941065,
+                        43.251307
+                  ]
+            },
+            {
+                  "name": "Nu'rg'isa Tilendievtin' memorialdyk' mu'razhaiy",
+                  "text": "Ein Museum, das dem Leben und Werk von Nurgisa Tlendijew, einem bedeutenden Komponisten und Dirigenten, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        76.951325,
+                        43.253305
+                  ]
+            },
+            {
+                  "name": "S@bit Mu'k'anovtyn' mu'razhai-uii",
+                  "text": "Das ehemalige Wohnhaus des bedeutenden kasachischen Schriftstellers Sabit Mukanow, heute eine literarische Gedenkstätte.",
+                  "category": "museum",
+                  "coords": [
+                        76.9487,
+                        43.250905
+                  ]
+            },
+            {
+                  "name": "K'R K'aruly kushterinin' @skeri-tarikhi mu'razhaiy",
+                  "text": "Eine Sammlung historischer Waffen und Ausrüstungen, die die Militärgeschichte Kasachstans dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        76.957159,
+                        43.258479
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Geroiu Sovetskogo Soiuza Manshuk Mametovoi",
+                  "text": "Ein Denkmal zu Ehren von Manschuk Mametowa, der ersten kasachischen Frau, die als Heldin der Sowjetunion geehrt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        76.932028,
+                        43.253636
+                  ]
+            },
+            {
+                  "name": "Monument \"Khalyk' Birligi\"",
+                  "text": "Dieses Denkmal symbolisiert die Einheit und den Frieden zwischen den verschiedenen ethnischen Gruppen Kasachstans.",
+                  "category": "historical",
+                  "coords": [
+                        76.930551,
+                        43.253547
+                  ]
+            },
+            {
+                  "name": "Kazgor",
+                  "text": "Ein Denkmal am Hauptsitz des führenden kasachischen Design- und Architekturinstituts Kazgor.",
+                  "category": "historical",
+                  "coords": [
+                        76.940871,
+                        43.257667
+                  ]
+            },
+            {
+                  "name": "Interius",
+                  "text": "Ein kleines, zeitgenössisches Theater, das für seine experimentellen Produktionen und intime Atmosphäre bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.960259,
+                        43.25857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "K'azak'stan Respublikasy ortalyk' temirzhol koligi mu'razhaiy",
+                  "text": "A kazah vasút történetének szentelt múzeum, veterán mozdonyok és műszaki berendezések gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        76.946496,
+                        43.251813
+                  ]
+            },
+            {
+                  "name": "Dinmu'khamed K'onaev P@ter Mu'razhaiy",
+                  "text": "Dinmuhamed Kunajev kazah vezető egykori rezidenciája, amely ma múzeumként dokumentálja életét és munkásságát.",
+                  "category": "museum",
+                  "coords": [
+                        76.948455,
+                        43.252717
+                  ]
+            },
+            {
+                  "name": "Tsentr sblizheniia kul'tur",
+                  "text": "Egy történelmi épületben helyet kapó múzeum, amelyet az irodalomnak és a kultúrák közötti párbeszédnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        76.951204,
+                        43.249836
+                  ]
+            },
+            {
+                  "name": "Yk'ylas atyndag'y khalyk' muzykalyk' aspaptar mu'razhaiy",
+                  "text": "Ez az 1908-as, jellegzetes faépületben található múzeum több mint 1000 hagyományos kazah hangszert mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        76.95687,
+                        43.259465
+                  ]
+            },
+            {
+                  "name": "D. A. K'onaev eskertkishi",
+                  "text": "Egy 1978-ban állított bronz mellszobor a neves kazah politikus, Dinmuhamed Kunajev tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        76.949633,
+                        43.25281
+                  ]
+            },
+            {
+                  "name": "Turkiia Respublikasynyn' Generaldyk' Konsuldyg'y",
+                  "text": "Egy történelmi, 20. század eleji kúria, amely korábban a Fiúgimnázium igazgatójának lakhelyeként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        76.953729,
+                        43.255661
+                  ]
+            },
+            {
+                  "name": "Dom brat'ev Breusovykh",
+                  "text": "Egy nevezetes történelmi lakóház Almatiban, amely a Breuszov testvérek számára épült, bemutatva a 20. század eleji építészetet.",
+                  "category": "historical",
+                  "coords": [
+                        76.959048,
+                        43.259368
+                  ]
+            },
+            {
+                  "name": "Dom aksakala Seidalina",
+                  "text": "Egy 19. század végéről származó, történelmi faudvarház, amely egy helyi bölcs (akszakál) otthona volt.",
+                  "category": "historical",
+                  "coords": [
+                        76.943738,
+                        43.261593
+                  ]
+            },
+            {
+                  "name": "Khalyk'tyk' Bak'ylau Komiteti",
+                  "text": "Szovjet korszakból származó hivatali épület, amely egykor a Népellenőrzési Bizottságnak adott otthont.",
+                  "category": "historical",
+                  "coords": [
+                        76.940138,
+                        43.258722
+                  ]
+            },
+            {
+                  "name": "ART",
+                  "text": "Almati vezető független színháza, az Artishock, amely kísérleti és kortárs előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        76.95431,
+                        43.259698
+                  ]
+            },
+            {
+                  "name": "Zhambyl atyndag'y K'azak' Memlekettik filarmoniiasy",
+                  "text": "A kazah népi költőről, Zsambyl Akynról elnevezett hangversenyterem a klasszikus zenei élet központja.",
+                  "category": "cultural",
+                  "coords": [
+                        76.957858,
+                        43.256414
+                  ]
+            },
+            {
+                  "name": "Kok Bazar",
+                  "text": "Almati legélénkebb piaca, amely friss helyi termékeiről, fűszereiről és hagyományos kazah finomságairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        76.954865,
+                        43.263708
+                  ]
+            },
+            {
+                  "name": "Memlekettik k'uyrshak' teatry",
+                  "text": "Kazahsztán egyik legrégebbi bábszínháza, amely kazah és orosz nyelven is tart előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        76.952401,
+                        43.261289
+                  ]
+            },
+            {
+                  "name": "TsUM",
+                  "text": "Almati egyik jelképe, ez a történelmi áruház jellegzetes klasszikus homlokzatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        76.941443,
+                        43.262321
+                  ]
+            },
+            {
+                  "name": "Dom zodchikh Zenkovykh",
+                  "text": "A híres Zenkov építészcsalád egykori lakóháza, akik a földrengésbiztos faépítészet úttörői voltak.",
+                  "category": "landmark",
+                  "coords": [
+                        76.930527,
+                        43.255869
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa G.A. Shakhvorostova",
+                  "text": "Elegáns 19. század végi kereskedőház, amely a régi Vernij városának építészetét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945913,
+                        43.258526
+                  ]
+            },
+            {
+                  "name": "K'aztu'tyg'uodag'y g'imaraty",
+                  "text": "Jellegzetes 1950-es évekbeli épület, amely egy központi kereszteződésben a városi építészet fontos példája.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945773,
+                        43.255348
+                  ]
+            },
+            {
+                  "name": "Dom vracha Fidlera",
+                  "text": "Bájos történelmi faház, amely egykor a város neves orvosáé, Dr. Fiedleré volt.",
+                  "category": "landmark",
+                  "coords": [
+                        76.958797,
+                        43.257216
+                  ]
+            },
+            {
+                  "name": "Vernyi ush klassty uchilishchesi",
+                  "text": "19. századi iskolaépület, amely a város Vernij-korszak alatti oktatási hagyományait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        76.957172,
+                        43.260994
+                  ]
+            },
+            {
+                  "name": "Voznesensk Shirkeui",
+                  "text": "Ez a pompás ortodox székesegyház 1907-ben épült, teljesen fából és fém szögek nélkül.",
+                  "category": "landmark",
+                  "coords": [
+                        76.953156,
+                        43.25878
+                  ]
+            },
+            {
+                  "name": "K'yzyl tan' matalar uii",
+                  "text": "Gazdagon díszített 1912-es faépület, amely ma hagyományos hangulatú szövetboltként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        76.950271,
+                        43.262626
+                  ]
+            },
+            {
+                  "name": "Alma Museum",
+                  "text": "Ez a múzeum Almati 'almák városa' örökségét ünnepli, bemutatva a gyümölcs történetét.",
+                  "category": "museum",
+                  "coords": [
+                        76.944588,
+                        43.250165
+                  ]
+            },
+            {
+                  "name": "Dom-muzei Akhmeta i Gazizy Zhubanovykh",
+                  "text": "A híres kazah zeneszerzők, Ahmet és Gaziza Zsubanov emlékháza személyes hagyatékukat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.941065,
+                        43.251307
+                  ]
+            },
+            {
+                  "name": "Nu'rg'isa Tilendievtin' memorialdyk' mu'razhaiy",
+                  "text": "Nurgisza Tlendijev, a kiváló zeneszerző és karmester életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        76.951325,
+                        43.253305
+                  ]
+            },
+            {
+                  "name": "S@bit Mu'k'anovtyn' mu'razhai-uii",
+                  "text": "A neves kazah író, Szabit Mukanov egykori otthona, amely ma irodalmi emlékhely.",
+                  "category": "museum",
+                  "coords": [
+                        76.9487,
+                        43.250905
+                  ]
+            },
+            {
+                  "name": "K'R K'aruly kushterinin' @skeri-tarikhi mu'razhaiy",
+                  "text": "Történelmi fegyverek és felszerelések gyűjteménye, amely Kazahsztán hadtörténetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        76.957159,
+                        43.258479
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Geroiu Sovetskogo Soiuza Manshuk Mametovoi",
+                  "text": "Emlékmű Mansuk Mametova tiszteletére, aki az első kazah nő volt, akit a Szovjetunió Hősévé avattak.",
+                  "category": "historical",
+                  "coords": [
+                        76.932028,
+                        43.253636
+                  ]
+            },
+            {
+                  "name": "Monument \"Khalyk' Birligi\"",
+                  "text": "Ez az emlékmű a Kazahsztán különböző etnikai csoportjai közötti egységet és békét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        76.930551,
+                        43.253547
+                  ]
+            },
+            {
+                  "name": "Kazgor",
+                  "text": "Emlékmű a vezető kazah tervező és építészeti intézet, a Kazgor székházánál.",
+                  "category": "historical",
+                  "coords": [
+                        76.940871,
+                        43.257667
+                  ]
+            },
+            {
+                  "name": "Interius",
+                  "text": "Kicsi, kortárs színház, amely kísérleti produkcióiról és bensőséges hangulatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        76.960259,
+                        43.25857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "K'azak'stan Respublikasy ortalyk' temirzhol koligi mu'razhaiy",
+                  "text": "Un muzeu dedicat istoriei căilor ferate kazahe, cu o colecție de locomotive de epocă și echipamente tehnice.",
+                  "category": "museum",
+                  "coords": [
+                        76.946496,
+                        43.251813
+                  ]
+            },
+            {
+                  "name": "Dinmu'khamed K'onaev P@ter Mu'razhaiy",
+                  "text": "Fosta reședință a liderului kazah Dinmuhamed Kunaev, care astăzi documentează viața și activitatea sa ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        76.948455,
+                        43.252717
+                  ]
+            },
+            {
+                  "name": "Tsentr sblizheniia kul'tur",
+                  "text": "Un muzeu găzduit într-o clădire istorică, dedicat literaturii și schimbului intercultural.",
+                  "category": "museum",
+                  "coords": [
+                        76.951204,
+                        43.249836
+                  ]
+            },
+            {
+                  "name": "Yk'ylas atyndag'y khalyk' muzykalyk' aspaptar mu'razhaiy",
+                  "text": "Acest muzeu situat într'o clădire de lemn remarcabilă din 1908 expune peste 1.000 de instrumente muzicale tradiționale kazahe.",
+                  "category": "museum",
+                  "coords": [
+                        76.95687,
+                        43.259465
+                  ]
+            },
+            {
+                  "name": "D. A. K'onaev eskertkishi",
+                  "text": "Un bust de bronz ridicat în 1978 în onoarea proeminentului politician kazah Dinmuhamed Kunaev.",
+                  "category": "historical",
+                  "coords": [
+                        76.949633,
+                        43.25281
+                  ]
+            },
+            {
+                  "name": "Turkiia Respublikasynyn' Generaldyk' Konsuldyg'y",
+                  "text": "Un conac istoric de la începutul secolului al XX-lea, care a servit anterior drept reședință pentru directorul Gimnaziului de Băieți.",
+                  "category": "historical",
+                  "coords": [
+                        76.953729,
+                        43.255661
+                  ]
+            },
+            {
+                  "name": "Dom brat'ev Breusovykh",
+                  "text": "O reședință istorică notabilă din Almaty construită pentru frații Breusov, care prezintă arhitectura de la începutul secolului al XX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        76.959048,
+                        43.259368
+                  ]
+            },
+            {
+                  "name": "Dom aksakala Seidalina",
+                  "text": "Un conac istoric din lemn de la sfârșitul secolului al XIX-lea, care a aparținut unui bătrân local (aksakal).",
+                  "category": "historical",
+                  "coords": [
+                        76.943738,
+                        43.261593
+                  ]
+            },
+            {
+                  "name": "Khalyk'tyk' Bak'ylau Komiteti",
+                  "text": "O clădire administrativă din epoca sovietică, care a găzduit cândva Comitetul de Control al Poporului.",
+                  "category": "historical",
+                  "coords": [
+                        76.940138,
+                        43.258722
+                  ]
+            },
+            {
+                  "name": "ART",
+                  "text": "Cel mai important teatru independent din Almaty, Artishock, cunoscut pentru spectacolele sale experimentale și contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        76.95431,
+                        43.259698
+                  ]
+            },
+            {
+                  "name": "Zhambyl atyndag'y K'azak' Memlekettik filarmoniiasy",
+                  "text": "Numită după poetul popular kazah Jambîl Akîn, această sală de concerte este un centru al muzicii clasice.",
+                  "category": "cultural",
+                  "coords": [
+                        76.957858,
+                        43.256414
+                  ]
+            },
+            {
+                  "name": "Kok Bazar",
+                  "text": "Cea mai vibrantă piață din Almaty, celebră pentru produsele locale proaspete, condimente și delicatese kazahe tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        76.954865,
+                        43.263708
+                  ]
+            },
+            {
+                  "name": "Memlekettik k'uyrshak' teatry",
+                  "text": "Unul dintre cele mai vechi teatre de păpuși din Kazahstan, care pune în scenă piese atât în kazahei, cât și în rusă.",
+                  "category": "cultural",
+                  "coords": [
+                        76.952401,
+                        43.261289
+                  ]
+            },
+            {
+                  "name": "TsUM",
+                  "text": "Un reper al orașului Almaty, acest magazin universal istoric este cunoscut pentru fațada sa clasică distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        76.941443,
+                        43.262321
+                  ]
+            },
+            {
+                  "name": "Dom zodchikh Zenkovykh",
+                  "text": "Fosta locuință a celebrei familii de arhitecți Zenkov, pionieri ai arhitecturii din lemn rezistente la cutremure.",
+                  "category": "landmark",
+                  "coords": [
+                        76.930527,
+                        43.255869
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa G.A. Shakhvorostova",
+                  "text": "O casă de negustor elegantă de la sfârșitul secolului al XIX-lea, reprezentativă pentru arhitectura vechiului Vernîi.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945913,
+                        43.258526
+                  ]
+            },
+            {
+                  "name": "K'aztu'tyg'uodag'y g'imaraty",
+                  "text": "O clădire distinctivă din anii 1950, care reprezintă un exemplu important de arhitectură urbană într-o intersecție centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945773,
+                        43.255348
+                  ]
+            },
+            {
+                  "name": "Dom vracha Fidlera",
+                  "text": "O casă fermecătoare din lemn, care a aparținut odinioară proeminentului medic al orașului, Dr. Fiedler.",
+                  "category": "landmark",
+                  "coords": [
+                        76.958797,
+                        43.257216
+                  ]
+            },
+            {
+                  "name": "Vernyi ush klassty uchilishchesi",
+                  "text": "O clădire școlară din secolul al XIX-lea, care păstrează tradițiile educaționale ale orașului din era Vernîi.",
+                  "category": "landmark",
+                  "coords": [
+                        76.957172,
+                        43.260994
+                  ]
+            },
+            {
+                  "name": "Voznesensk Shirkeui",
+                  "text": "Această magnifică catedrală ortodoxă a fost construită în 1907 în întregime din lemn, fără cuie de metal.",
+                  "category": "landmark",
+                  "coords": [
+                        76.953156,
+                        43.25878
+                  ]
+            },
+            {
+                  "name": "K'yzyl tan' matalar uii",
+                  "text": "O clădire din lemn bogat ornamentată din 1912, care servește astăzi ca magazin de țesături cu un aer tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        76.950271,
+                        43.262626
+                  ]
+            },
+            {
+                  "name": "Alma Museum",
+                  "text": "Acest muzeu celebrează moștenirea orașului Almaty ca 'oraș al merelor', prezentând istoria acestui fruct.",
+                  "category": "museum",
+                  "coords": [
+                        76.944588,
+                        43.250165
+                  ]
+            },
+            {
+                  "name": "Dom-muzei Akhmeta i Gazizy Zhubanovykh",
+                  "text": "Casa memorială a celebrilor compozitori kazahi Ahmet și Gaziza Jubanov prezintă moștenirea lor personală.",
+                  "category": "museum",
+                  "coords": [
+                        76.941065,
+                        43.251307
+                  ]
+            },
+            {
+                  "name": "Nu'rg'isa Tilendievtin' memorialdyk' mu'razhaiy",
+                  "text": "Un muzeu dedicat vieții și operei lui Nurgisa Tlendiev, un compozitor și dirijor marcant.",
+                  "category": "museum",
+                  "coords": [
+                        76.951325,
+                        43.253305
+                  ]
+            },
+            {
+                  "name": "S@bit Mu'k'anovtyn' mu'razhai-uii",
+                  "text": "Fosta locuință a proeminentului scriitor kazah Sabit Mukanov, devenită astăzi un sit memorial literar.",
+                  "category": "museum",
+                  "coords": [
+                        76.9487,
+                        43.250905
+                  ]
+            },
+            {
+                  "name": "K'R K'aruly kushterinin' @skeri-tarikhi mu'razhaiy",
+                  "text": "O colecție de arme și echipamente istorice care documentează istoria militară a Kazahstanului.",
+                  "category": "museum",
+                  "coords": [
+                        76.957159,
+                        43.258479
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Geroiu Sovetskogo Soiuza Manshuk Mametovoi",
+                  "text": "Un monument în cinstea lui Manșuk Mametova, prima femeie kazahă onorată ca Erou al Uniunii Sovietice.",
+                  "category": "historical",
+                  "coords": [
+                        76.932028,
+                        43.253636
+                  ]
+            },
+            {
+                  "name": "Monument \"Khalyk' Birligi\"",
+                  "text": "Acest monument simbolizează unitatea și pacea dintre diferitele grupuri etnice din Kazahstan.",
+                  "category": "historical",
+                  "coords": [
+                        76.930551,
+                        43.253547
+                  ]
+            },
+            {
+                  "name": "Kazgor",
+                  "text": "Un monument situat la sediul principalului institut de design și arhitectură din Kazahstan, Kazgor.",
+                  "category": "historical",
+                  "coords": [
+                        76.940871,
+                        43.257667
+                  ]
+            },
+            {
+                  "name": "Interius",
+                  "text": "Un teatru mic și contemporan, cunoscut pentru producțiile sale experimentale și atmosfera intimă.",
+                  "category": "cultural",
+                  "coords": [
+                        76.960259,
+                        43.25857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kazakh Railway Museum",
+                  "text": "A museum dedicated to the history of the Kazakh railway, featuring a collection of vintage locomotives and technical equipment.",
+                  "category": "museum",
+                  "coords": [
+                        76.946496,
+                        43.251813
+                  ]
+            },
+            {
+                  "name": "Dinmukhamed Kunayev Apartment Museum",
+                  "text": "The former residence of Kazakh leader Dinmukhamed Kunayev, now a museum documenting his life and work.",
+                  "category": "museum",
+                  "coords": [
+                        76.948455,
+                        43.252717
+                  ]
+            },
+            {
+                  "name": "Tsentr sblizheniia kul'tur",
+                  "text": "A museum housed in a historic building, dedicated to literature and intercultural exchange.",
+                  "category": "museum",
+                  "coords": [
+                        76.951204,
+                        43.249836
+                  ]
+            },
+            {
+                  "name": "Kazakh museum of folk musical instruments",
+                  "text": "Housed in a striking 1908 wooden building, this museum displays over 1,000 traditional Kazakh musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        76.95687,
+                        43.259465
+                  ]
+            },
+            {
+                  "name": "Monument to D.A. Konaev",
+                  "text": "A bronze bust erected in 1978 to honor the prominent Kazakh politician Dinmukhamed Kunayev.",
+                  "category": "historical",
+                  "coords": [
+                        76.949633,
+                        43.25281
+                  ]
+            },
+            {
+                  "name": "Turkiia Respublikasynyn' Generaldyk' Konsuldyg'y",
+                  "text": "A historic early 20th-century manor that formerly served as the residence for the director of the Men's Gymnasium.",
+                  "category": "historical",
+                  "coords": [
+                        76.953729,
+                        43.255661
+                  ]
+            },
+            {
+                  "name": "Dom brat'ev Breusovykh",
+                  "text": "A notable historic residence in Almaty built for the Breusov brothers, showcasing early 20th-century architecture.",
+                  "category": "historical",
+                  "coords": [
+                        76.959048,
+                        43.259368
+                  ]
+            },
+            {
+                  "name": "Dom aksakala Seidalina",
+                  "text": "A historic wooden manor from the late 19th century that belonged to a local elder (aksakal).",
+                  "category": "historical",
+                  "coords": [
+                        76.943738,
+                        43.261593
+                  ]
+            },
+            {
+                  "name": "Khalyk'tyk' Bak'ylau Komiteti",
+                  "text": "A Soviet-era administrative building that once housed the Committee of People's Control.",
+                  "category": "historical",
+                  "coords": [
+                        76.940138,
+                        43.258722
+                  ]
+            },
+            {
+                  "name": "ART",
+                  "text": "Almaty's leading independent theatre 'Artishock', known for its experimental and contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        76.95431,
+                        43.259698
+                  ]
+            },
+            {
+                  "name": "Kazakh State Philharmonic named after Zhambyl",
+                  "text": "Named after the Kazakh folk poet Zhambyl Akyn, this concert hall is a center for classical music.",
+                  "category": "cultural",
+                  "coords": [
+                        76.957858,
+                        43.256414
+                  ]
+            },
+            {
+                  "name": "Green bazar",
+                  "text": "Almaty's most vibrant market, famous for fresh local produce, spices, and traditional Kazakh delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        76.954865,
+                        43.263708
+                  ]
+            },
+            {
+                  "name": "State puppet theater",
+                  "text": "One of Kazakhstan's oldest puppet theaters, performing plays in both Kazakh and Russian.",
+                  "category": "cultural",
+                  "coords": [
+                        76.952401,
+                        43.261289
+                  ]
+            },
+            {
+                  "name": "Central Universal Store",
+                  "text": "A landmark of Almaty, this historic department store is known for its distinctive classical facade.",
+                  "category": "landmark",
+                  "coords": [
+                        76.941443,
+                        43.262321
+                  ]
+            },
+            {
+                  "name": "Dom zodchikh Zenkovykh",
+                  "text": "The former residence of the famous Zenkov family of architects, pioneers of earthquake-resistant wooden architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        76.930527,
+                        43.255869
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa G.A. Shakhvorostova",
+                  "text": "An elegant late 19th-century merchant's house representing the architecture of old Vernyi.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945913,
+                        43.258526
+                  ]
+            },
+            {
+                  "name": "K'aztu'tyg'uodag'y g'imaraty",
+                  "text": "A distinctive 1950s building that stands as a major example of urban architecture at a central intersection.",
+                  "category": "landmark",
+                  "coords": [
+                        76.945773,
+                        43.255348
+                  ]
+            },
+            {
+                  "name": "Dom vracha Fidlera",
+                  "text": "A charming historic wooden house that once belonged to the prominent city doctor, Dr. Fiedler.",
+                  "category": "landmark",
+                  "coords": [
+                        76.958797,
+                        43.257216
+                  ]
+            },
+            {
+                  "name": "Vernyi ush klassty uchilishchesi",
+                  "text": "A 19th-century school building that preserves the educational traditions of the city during the Vernyi era.",
+                  "category": "landmark",
+                  "coords": [
+                        76.957172,
+                        43.260994
+                  ]
+            },
+            {
+                  "name": "Ascension Cathedral",
+                  "text": "This magnificent Orthodox cathedral was built in 1907 entirely of wooden parts and without metal nails.",
+                  "category": "landmark",
+                  "coords": [
+                        76.953156,
+                        43.25878
+                  ]
+            },
+            {
+                  "name": "K'yzyl tan' matalar uii",
+                  "text": "A richly decorated 1912 wooden building that now serves as a fabric store with a traditional flair.",
+                  "category": "landmark",
+                  "coords": [
+                        76.950271,
+                        43.262626
+                  ]
+            },
+            {
+                  "name": "Alma Museum",
+                  "text": "This museum celebrates Almaty's heritage as the 'city of apples', showcasing the history of the fruit.",
+                  "category": "museum",
+                  "coords": [
+                        76.944588,
+                        43.250165
+                  ]
+            },
+            {
+                  "name": "Dom-muzei Akhmeta i Gazizy Zhubanovykh",
+                  "text": "The memorial house of famous Kazakh composers Akhmet and Gaziza Zhubanov showcases their personal legacy.",
+                  "category": "museum",
+                  "coords": [
+                        76.941065,
+                        43.251307
+                  ]
+            },
+            {
+                  "name": "Nu'rg'isa Tilendievtin' memorialdyk' mu'razhaiy",
+                  "text": "A museum dedicated to the life and work of Nurgisa Tlendiev, a prominent composer and conductor.",
+                  "category": "museum",
+                  "coords": [
+                        76.951325,
+                        43.253305
+                  ]
+            },
+            {
+                  "name": "S@bit Mu'k'anovtyn' mu'razhai-uii",
+                  "text": "The former residence of the prominent Kazakh writer Sabit Mukanov, now a literary memorial site.",
+                  "category": "museum",
+                  "coords": [
+                        76.9487,
+                        43.250905
+                  ]
+            },
+            {
+                  "name": "Military Museum",
+                  "text": "A collection of historical weapons and equipment documenting the military history of Kazakhstan.",
+                  "category": "museum",
+                  "coords": [
+                        76.957159,
+                        43.258479
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Geroiu Sovetskogo Soiuza Manshuk Mametovoi",
+                  "text": "A monument honoring Manshuk Mametova, the first Kazakh woman to be named a Hero of the Soviet Union.",
+                  "category": "historical",
+                  "coords": [
+                        76.932028,
+                        43.253636
+                  ]
+            },
+            {
+                  "name": "Monument \"Khalyk' Birligi\"",
+                  "text": "This monument symbolizes the unity and peace between the various ethnic groups of Kazakhstan.",
+                  "category": "historical",
+                  "coords": [
+                        76.930551,
+                        43.253547
+                  ]
+            },
+            {
+                  "name": "Kazgor",
+                  "text": "A monument located at the headquarters of the leading Kazakh design and architectural institute, Kazgor.",
+                  "category": "historical",
+                  "coords": [
+                        76.940871,
+                        43.257667
+                  ]
+            },
+            {
+                  "name": "Interius",
+                  "text": "A small, contemporary theatre known for its experimental productions and intimate atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        76.960259,
+                        43.25857
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KZ-ALA",
     coords: [76.9531, 43.2586],
@@ -283,7 +2227,232 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "kok-tobe-landmarks-v2",
+    id: "kok-tobe-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bitlz",
+                  "text": "Ein Bronzedenkmal auf dem Kok-Tobe-Hügel mit lebensgroßen Statuen der berühmten Liverpooler Band.",
+                  "category": "historical",
+                  "coords": [
+                        76.975969,
+                        43.2331
+                  ]
+            },
+            {
+                  "name": "Pirat",
+                  "text": "Ein Fahrgeschäft mit Piratenthema im Park auf dem Kok-Tobe-Hügel.",
+                  "category": "recreational",
+                  "coords": [
+                        76.976488,
+                        43.230708
+                  ]
+            },
+            {
+                  "name": "\"Kok-Tobe\" teledidar mu'narasy",
+                  "text": "Dieser 1985 fertiggestellte Fernsehturm ist ein markantes Merkmal der Skyline von Almaty.",
+                  "category": "landmark",
+                  "coords": [
+                        76.976313,
+                        43.228706
+                  ]
+            },
+            {
+                  "name": "Almaty 1000 let",
+                  "text": "Ein Denkmal auf dem Kok-Tobe-Hügel, das der 1000-jährigen Geschichte der Stadt Almaty gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        76.96085,
+                        43.229213
+                  ]
+            },
+            {
+                  "name": "Almatinskaia tserkov' Von Buddistov",
+                  "text": "Ein ruhiger buddhistischer Tempel, der 1997 gegründet wurde und als spirituelles Zentrum in den Ausläufern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        76.96695,
+                        43.222685
+                  ]
+            },
+            {
+                  "name": "Al'-Khamid",
+                  "text": "Eine moderne Moschee am Fuße des Kok-Tobe-Gebirgszugs.",
+                  "category": "landmark",
+                  "coords": [
+                        76.972554,
+                        43.222418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bitlz",
+                  "text": "Bronz emlékmű a Kok-Tobe-hegyen, amely a híres liverpooli zenekar tagjait ábrázolja életnagyságban.",
+                  "category": "historical",
+                  "coords": [
+                        76.975969,
+                        43.2331
+                  ]
+            },
+            {
+                  "name": "Pirat",
+                  "text": "Kalóz témájú vidámparki játék a Kok-Tobe-hegyi parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        76.976488,
+                        43.230708
+                  ]
+            },
+            {
+                  "name": "\"Kok-Tobe\" teledidar mu'narasy",
+                  "text": "Az 1985-ben elkészült magaslati televíziótorony Almati látképének meghatározó eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        76.976313,
+                        43.228706
+                  ]
+            },
+            {
+                  "name": "Almaty 1000 let",
+                  "text": "Emlékmű a Kok-Tobe-hegyen, amelyet Almati városának 1000 éves történelmének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        76.96085,
+                        43.229213
+                  ]
+            },
+            {
+                  "name": "Almatinskaia tserkov' Von Buddistov",
+                  "text": "1997-ben alapított nyugodt buddhista templom, amely szellemi központként szolgál a dombok között.",
+                  "category": "landmark",
+                  "coords": [
+                        76.96695,
+                        43.222685
+                  ]
+            },
+            {
+                  "name": "Al'-Khamid",
+                  "text": "Modern mecset a Kok-Tobe-hegység lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        76.972554,
+                        43.222418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bitlz",
+                  "text": "Un monument de bronz pe dealul Kok-Tobe, cu statui în mărime naturală ale faimoasei trupe din Liverpool.",
+                  "category": "historical",
+                  "coords": [
+                        76.975969,
+                        43.2331
+                  ]
+            },
+            {
+                  "name": "Pirat",
+                  "text": "O atracție de divertisment cu tematică de pirați situată în parcul de pe dealul Kok-Tobe.",
+                  "category": "recreational",
+                  "coords": [
+                        76.976488,
+                        43.230708
+                  ]
+            },
+            {
+                  "name": "\"Kok-Tobe\" teledidar mu'narasy",
+                  "text": "Finalizat în 1985, acest turn de televiziune este o caracteristică dominantă a orizontului orașului Almaty.",
+                  "category": "landmark",
+                  "coords": [
+                        76.976313,
+                        43.228706
+                  ]
+            },
+            {
+                  "name": "Almaty 1000 let",
+                  "text": "Un monument pe dealul Kok-Tobe dedicat istoriei de 1000 de ani a orașului Almaty.",
+                  "category": "historical",
+                  "coords": [
+                        76.96085,
+                        43.229213
+                  ]
+            },
+            {
+                  "name": "Almatinskaia tserkov' Von Buddistov",
+                  "text": "Un templu budist liniștit înființat în 1997, care servește ca centru spiritual în dealurile de la poalele munților.",
+                  "category": "landmark",
+                  "coords": [
+                        76.96695,
+                        43.222685
+                  ]
+            },
+            {
+                  "name": "Al'-Khamid",
+                  "text": "O moschee modernă situată la baza lanțului muntos Kok-Tobe.",
+                  "category": "landmark",
+                  "coords": [
+                        76.972554,
+                        43.222418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Beatles",
+                  "text": "A bronze monument on the Kok-Tobe hill featuring life-sized statues of the famous Liverpool band.",
+                  "category": "historical",
+                  "coords": [
+                        76.975969,
+                        43.2331
+                  ]
+            },
+            {
+                  "name": "Pirat",
+                  "text": "A pirate-themed amusement ride located within the hilltop park on Kok-Tobe.",
+                  "category": "recreational",
+                  "coords": [
+                        76.976488,
+                        43.230708
+                  ]
+            },
+            {
+                  "name": "Kok Tobe tower",
+                  "text": "Completed in 1985, this high-altitude television tower is a dominant feature of the Almaty skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        76.976313,
+                        43.228706
+                  ]
+            },
+            {
+                  "name": "Almaty 1000 let",
+                  "text": "A monument on Kok-Tobe hill dedicated to the 1000-year history of the city of Almaty.",
+                  "category": "historical",
+                  "coords": [
+                        76.96085,
+                        43.229213
+                  ]
+            },
+            {
+                  "name": "Almaty Buddhist Temple",
+                  "text": "A tranquil Buddhist temple established in 1997, serving as a spiritual center in the foothills.",
+                  "category": "landmark",
+                  "coords": [
+                        76.96695,
+                        43.222685
+                  ]
+            },
+            {
+                  "name": "Al'-Khamid",
+                  "text": "A modern mosque situated at the base of the Kok-Tobe mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        76.972554,
+                        43.222418
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KZ-ALA",
     coords: [76.9753, 43.2325],
@@ -339,7 +2508,124 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "palace-of-peace-landmarks-v2",
+    id: "palace-of-peace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bauyrzhan Momyshu'ly",
+                  "text": "Denkmal für den kasachischen Helden des Zweiten Weltkriegs, Bauyrschan Momyschuly, ein Symbol nationaler Tapferkeit.",
+                  "category": "historical",
+                  "coords": [
+                        71.459662,
+                        51.134595
+                  ]
+            },
+            {
+                  "name": "Drakon",
+                  "text": "Interaktive Attraktion mit drachenbezogenen Skulpturen und Unterhaltung für Familien und Kinder.",
+                  "category": "landmark",
+                  "coords": [
+                        71.451044,
+                        51.132533
+                  ]
+            },
+            {
+                  "name": "Nasarbajew-Zentrum 2",
+                  "text": "Modernes architektonisches Wahrzeichen, das ein Bildungs- und Kulturzentrum mit Fokus auf die Landesgeschichte beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        71.442215,
+                        51.114659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bauyrzhan Momyshu'ly",
+                  "text": "A második világháborús kazah hősnek, Bauirzsan Momisulinak szentelt emlékmű, a nemzeti bátorság jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        71.459662,
+                        51.134595
+                  ]
+            },
+            {
+                  "name": "Drakon",
+                  "text": "Interaktív látványosság sárkány témájú szobrokkal és szórakozási lehetőségekkel családok és gyermekek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        71.451044,
+                        51.132533
+                  ]
+            },
+            {
+                  "name": "Nazarbaev ortalyg'y-2",
+                  "text": "Modern építészeti nevezetesség, amely az ország történelmére összpontosító oktatási és kulturális központnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        71.442215,
+                        51.114659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bauyrzhan Momyshu'ly",
+                  "text": "Monument dedicat eroului kazah din Al Doilea Război Mondial, Bauyrzhan Momyshuly, simbol al vitejiei naționale.",
+                  "category": "historical",
+                  "coords": [
+                        71.459662,
+                        51.134595
+                  ]
+            },
+            {
+                  "name": "Drakon",
+                  "text": "Atracție interactivă cu sculpturi cu tematică de dragon și divertisment pentru familii și copii.",
+                  "category": "landmark",
+                  "coords": [
+                        71.451044,
+                        51.132533
+                  ]
+            },
+            {
+                  "name": "Nazarbaev ortalyg'y-2",
+                  "text": "Reper arhitectural modern care adăpostește un centru educațional și cultural axat pe istoria națiunii.",
+                  "category": "museum",
+                  "coords": [
+                        71.442215,
+                        51.114659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bauyrzhan Momyshu'ly",
+                  "text": "Monument dedicated to the Kazakh hero of World War II, Bauyrzhan Momyshuly, a symbol of national bravery.",
+                  "category": "historical",
+                  "coords": [
+                        71.459662,
+                        51.134595
+                  ]
+            },
+            {
+                  "name": "Dragon",
+                  "text": "Interactive attraction featuring dragon-themed sculptures and entertainment for families and children.",
+                  "category": "landmark",
+                  "coords": [
+                        71.451044,
+                        51.132533
+                  ]
+            },
+            {
+                  "name": "Nazarbayev Center 2",
+                  "text": "Modern architectural landmark housing an educational and cultural center focused on the nation's history.",
+                  "category": "museum",
+                  "coords": [
+                        71.442215,
+                        51.114659
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KZ-AST",
     coords: [71.4603, 51.1228],
@@ -395,7 +2681,448 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "hazret-sultan-mosque-landmarks-v2",
+    id: "hazret-sultan-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "A. S. Pushkinu",
+                  "text": "Denkmal für den berühmten russischen Dichter Alexander Puschkin, das die kulturellen Bindungen im Herzen der Hauptstadt symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        71.469872,
+                        51.159591
+                  ]
+            },
+            {
+                  "name": "Zhertvam Chernobyl'skoi tragedii",
+                  "text": "Feierliche Gedenkstätte mit Gedenktafeln, die die Opfer der Katastrophe von Tschernobyl ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        71.473607,
+                        51.156483
+                  ]
+            },
+            {
+                  "name": "Beit Rakhel' Khabad Liubavich",
+                  "text": "Größte Synagoge Zentralasiens, die durch ihre markante blau-weiße Fassade und den zentralen Standort besticht.",
+                  "category": "religious",
+                  "coords": [
+                        71.461711,
+                        51.157334
+                  ]
+            },
+            {
+                  "name": "Pogibshim v Afganistane",
+                  "text": "Denkmal zu Ehren der Soldaten, die während des Afghanistan-Krieges ihr Leben verloren haben.",
+                  "category": "historical",
+                  "coords": [
+                        71.477219,
+                        51.157152
+                  ]
+            },
+            {
+                  "name": "Lev Nikolaevich Gumilev eskertkishi",
+                  "text": "Statue zu Ehren des einflussreichen Historikers Lew Gumiljow, gelegen nahe der nach ihm benannten Universität.",
+                  "category": "historical",
+                  "coords": [
+                        71.471839,
+                        51.156033
+                  ]
+            },
+            {
+                  "name": "Hazrat-Sultan-Moschee",
+                  "text": "Größte Moschee Kasachstans, beeindruckt mit weißem Marmor und einer gewaltigen 51 Meter hohen Kuppel.",
+                  "category": "religious",
+                  "coords": [
+                        71.472173,
+                        51.125433
+                  ]
+            },
+            {
+                  "name": "Evangelichesko-Liuteranskaia tserkov'",
+                  "text": "Moderne lutherische Kirche, die der protestantischen Gemeinde dient und regelmäßige deutschsprachige Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        71.524982,
+                        51.146113
+                  ]
+            },
+            {
+                  "name": "Ak meshit",
+                  "text": "Als „Weiße Moschee“ bekannt, ist dieses elegante Gotteshaus ein friedlicher spiritueller Orientierungspunkt der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        71.516934,
+                        51.156543
+                  ]
+            },
+            {
+                  "name": "Sviato-Uspenskii kafedral'nyi sobor",
+                  "text": "Russisch-orthodoxe Kathedrale mit goldenen Kuppeln, die als geistliches Zentrum für die orthodoxen Christen der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        71.481364,
+                        51.149495
+                  ]
+            },
+            {
+                  "name": "Goriachii khleb",
+                  "text": "Beliebter lokaler Marktplatz, der besonders für sein frisches, warmes und traditionelles kasachisches Brot bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        71.492093,
+                        51.153069
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "Ausgedehnte Gewerbezone, spezialisiert auf Baustoffe und Werkzeuge für Heimwerker und Profis.",
+                  "category": "cultural",
+                  "coords": [
+                        71.536277,
+                        51.137392
+                  ]
+            },
+            {
+                  "name": "Altyn Bu",
+                  "text": "Traditionelles öffentliches Badehaus, das entspannende Dampfbäder und Wellnessbehandlungen in geselligem Rahmen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        71.503777,
+                        51.156061
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "A. S. Pushkinu",
+                  "text": "A híres orosz költőnek, Alekszandr Puskinnek szentelt emlékmű, amely a kulturális kötődéseket jelképezi a főváros szívében.",
+                  "category": "historical",
+                  "coords": [
+                        71.469872,
+                        51.159591
+                  ]
+            },
+            {
+                  "name": "Zhertvam Chernobyl'skoi tragedii",
+                  "text": "Ünnepélyes emlékhely emléktáblákkal, amely a csernobili katasztrófa áldozatai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        71.473607,
+                        51.156483
+                  ]
+            },
+            {
+                  "name": "Beit Rakhel' Khabad Liubavich",
+                  "text": "Közép-Ázsia legnagyobb zsinagógája, amely jellegzetes kék-fehér homlokzatával és központi elhelyezkedésével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        71.461711,
+                        51.157334
+                  ]
+            },
+            {
+                  "name": "Pogibshim v Afganistane",
+                  "text": "Az afganisztáni háborúban életüket vesztett katonák tiszteletére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        71.477219,
+                        51.157152
+                  ]
+            },
+            {
+                  "name": "Lev Nikolaevich Gumilev eskertkishi",
+                  "text": "A befolyásos történész és etnológus, Lev Gumiljov szobra a róla elnevezett egyetem közelében.",
+                  "category": "historical",
+                  "coords": [
+                        71.471839,
+                        51.156033
+                  ]
+            },
+            {
+                  "name": "@ziret Su'ltan meshiti",
+                  "text": "Kazahsztán legnagyobb mecsetje, amely lenyűgöző fehér márványával és 51 méteres kupolájával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        71.472173,
+                        51.125433
+                  ]
+            },
+            {
+                  "name": "Evangelichesko-Liuteranskaia tserkov'",
+                  "text": "Modern evangélikus templom, amely a protestáns közösséget szolgálja, rendszeres német nyelvű istentiszteletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        71.524982,
+                        51.146113
+                  ]
+            },
+            {
+                  "name": "Ak meshit",
+                  "text": "A „Fehér mecsetként” ismert elegáns imaház a város békés spirituális helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        71.516934,
+                        51.156543
+                  ]
+            },
+            {
+                  "name": "Sviato-Uspenskii kafedral'nyi sobor",
+                  "text": "Orosz ortodox székesegyház aranykupolákkal, amely a város ortodox keresztényeinek fő szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        71.481364,
+                        51.149495
+                  ]
+            },
+            {
+                  "name": "Goriachii khleb",
+                  "text": "Népszerű helyi piactér, amely különösen a friss, meleg és hagyományos kazah kenyereiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        71.492093,
+                        51.153069
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "Kiterjedt kereskedelmi övezet, amely építőanyagokra és barkácsolási szerszámokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        71.536277,
+                        51.137392
+                  ]
+            },
+            {
+                  "name": "Altyn Bu",
+                  "text": "Hagyományos nyilvános fürdőház, amely pihentető gőzfürdőket és wellness kezeléseket kínál közösségi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        71.503777,
+                        51.156061
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "A. S. Pushkinu",
+                  "text": "Monument dedicat celebrului poet rus Alexandr Pușkin, simbolizând legăturile culturale în inima capitalei.",
+                  "category": "historical",
+                  "coords": [
+                        71.469872,
+                        51.159591
+                  ]
+            },
+            {
+                  "name": "Zhertvam Chernobyl'skoi tragedii",
+                  "text": "Memorial solemn care onorează victimele dezastrului de la Cernobîl prin plăci comemorative.",
+                  "category": "historical",
+                  "coords": [
+                        71.473607,
+                        51.156483
+                  ]
+            },
+            {
+                  "name": "Beit Rakhel' Khabad Liubavich",
+                  "text": "Cea mai mare sinagogă din Asia Centrală, caracterizată prin fațada sa proeminentă în alb și albastru.",
+                  "category": "religious",
+                  "coords": [
+                        71.461711,
+                        51.157334
+                  ]
+            },
+            {
+                  "name": "Pogibshim v Afganistane",
+                  "text": "Monument dedicat soldaților care și-au pierdut viața în timpul războiului din Afganistan.",
+                  "category": "historical",
+                  "coords": [
+                        71.477219,
+                        51.157152
+                  ]
+            },
+            {
+                  "name": "Lev Nikolaevich Gumilev eskertkishi",
+                  "text": "Statuie în onoarea influentului istoric Lev Gumiliov, situată lângă universitatea care îi poartă numele.",
+                  "category": "historical",
+                  "coords": [
+                        71.471839,
+                        51.156033
+                  ]
+            },
+            {
+                  "name": "@ziret Su'ltan meshiti",
+                  "text": "Cea mai mare moschee din Kazahstan, remarcabilă prin marmura albă și o cupolă masivă de 51 de metri.",
+                  "category": "religious",
+                  "coords": [
+                        71.472173,
+                        51.125433
+                  ]
+            },
+            {
+                  "name": "Evangelichesko-Liuteranskaia tserkov'",
+                  "text": "Biserică luterană modernă care deservește comunitatea protestantă locală, oferind slujbe regulate în limba germană.",
+                  "category": "landmark",
+                  "coords": [
+                        71.524982,
+                        51.146113
+                  ]
+            },
+            {
+                  "name": "Ak meshit",
+                  "text": "Cunoscută sub numele de „Moscheea Albă”, acest lăcaș de cult elegant este un reper spiritual pașnic.",
+                  "category": "landmark",
+                  "coords": [
+                        71.516934,
+                        51.156543
+                  ]
+            },
+            {
+                  "name": "Sviato-Uspenskii kafedral'nyi sobor",
+                  "text": "Catedrală ortodoxă rusă cu cupole aurii, servind ca centru spiritual principal pentru creștinii ortodocși din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        71.481364,
+                        51.149495
+                  ]
+            },
+            {
+                  "name": "Goriachii khleb",
+                  "text": "Piață locală populară, cunoscută în special pentru pâinea sa tradițională caldă și proaspătă.",
+                  "category": "cultural",
+                  "coords": [
+                        71.492093,
+                        51.153069
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "Zonă comercială vastă, specializată în materiale de construcții și unelte pentru amenajarea locuinței.",
+                  "category": "cultural",
+                  "coords": [
+                        71.536277,
+                        51.137392
+                  ]
+            },
+            {
+                  "name": "Altyn Bu",
+                  "text": "Baie publică tradițională care oferă băi de aburi relaxante și tratamente de wellness într-un cadru social.",
+                  "category": "recreational",
+                  "coords": [
+                        71.503777,
+                        51.156061
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "A. S. Pushkinu",
+                  "text": "Monument dedicated to the famous Russian poet Alexander Pushkin, symbolizing cultural ties in the heart of the capital.",
+                  "category": "historical",
+                  "coords": [
+                        71.469872,
+                        51.159591
+                  ]
+            },
+            {
+                  "name": "Zhertvam Chernobyl'skoi tragedii",
+                  "text": "Solemn memorial honoring the victims of the Chernobyl disaster with commemorative plaques.",
+                  "category": "historical",
+                  "coords": [
+                        71.473607,
+                        51.156483
+                  ]
+            },
+            {
+                  "name": "Beit Rachel Chabad Lubavitch",
+                  "text": "The largest synagogue in Central Asia, characterized by its prominent blue and white facade.",
+                  "category": "religious",
+                  "coords": [
+                        71.461711,
+                        51.157334
+                  ]
+            },
+            {
+                  "name": "Pogibshim v Afganistane",
+                  "text": "Memorial dedicated to the soldiers who lost their lives during the Afghan war.",
+                  "category": "historical",
+                  "coords": [
+                        71.477219,
+                        51.157152
+                  ]
+            },
+            {
+                  "name": "Lev Nikolaevich Gumilev eskertkishi",
+                  "text": "Statue honoring the influential historian Lev Gumilev, located near the university named after him.",
+                  "category": "historical",
+                  "coords": [
+                        71.471839,
+                        51.156033
+                  ]
+            },
+            {
+                  "name": "Hazrat Sultan Mosque",
+                  "text": "The largest mosque in Kazakhstan, featuring striking white marble and a massive 51-meter dome.",
+                  "category": "religious",
+                  "coords": [
+                        71.472173,
+                        51.125433
+                  ]
+            },
+            {
+                  "name": "Evangelichesko-Liuteranskaia tserkov'",
+                  "text": "Modern Lutheran church serving the local Protestant community with regular German-language services.",
+                  "category": "landmark",
+                  "coords": [
+                        71.524982,
+                        51.146113
+                  ]
+            },
+            {
+                  "name": "Ak meshit",
+                  "text": "Known as the \"White Mosque,\" this elegant place of worship is a peaceful spiritual landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        71.516934,
+                        51.156543
+                  ]
+            },
+            {
+                  "name": "Sviato-Uspenskii kafedral'nyi sobor",
+                  "text": "Russian Orthodox Cathedral with golden domes, serving as the main spiritual center for the city's Orthodox Christians.",
+                  "category": "landmark",
+                  "coords": [
+                        71.481364,
+                        51.149495
+                  ]
+            },
+            {
+                  "name": "Goriachii khleb",
+                  "text": "Popular local marketplace especially known for its fresh, warm traditional breads.",
+                  "category": "cultural",
+                  "coords": [
+                        71.492093,
+                        51.153069
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "Expansive commercial zone specializing in building materials and hardware for home improvement.",
+                  "category": "cultural",
+                  "coords": [
+                        71.536277,
+                        51.137392
+                  ]
+            },
+            {
+                  "name": "Altyn Bu",
+                  "text": "Traditional public bathhouse offering relaxing steam rooms and wellness treatments in a social setting.",
+                  "category": "recreational",
+                  "coords": [
+                        71.503777,
+                        51.156061
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KZ-AST",
     coords: [71.4719, 51.1256],
@@ -451,7 +3178,1420 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "independence-monument-almaty-landmarks-v2",
+    id: "independence-monument-almaty-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Äuesow-Haus",
+                  "text": "Literarisches Gedenkmuseum im ehemaligen Wohnhaus des berühmten kasachischen Schriftstellers Muchtar Äuesow.",
+                  "category": "museum",
+                  "coords": [
+                        76.949609,
+                        43.243428
+                  ]
+            },
+            {
+                  "name": "Zentrales Staatliches Museum der Republik Kasachstan",
+                  "text": "Eines der größten Museen Kasachstans mit über 300.000 Exponaten zur Geschichte und Kultur des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        76.950741,
+                        43.235878
+                  ]
+            },
+            {
+                  "name": "Staatliches Kastejew-Museum der Künste",
+                  "text": "Nationales Kunstmuseum, das nach Abylchan Kastejew benannt ist und eine herausragende Sammlung kasachischer Malerei zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        76.919459,
+                        43.235668
+                  ]
+            },
+            {
+                  "name": "Respublikanskii muzei sportivnoi i olimpiiskoi slavy",
+                  "text": "Museum, das der Sportgeschichte Kasachstans und den Erfolgen seiner olympischen Medaillengewinner gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        76.932811,
+                        43.252045
+                  ]
+            },
+            {
+                  "name": "Abai Eskertkishi",
+                  "text": "Bronzestatue des berühmten Dichters und Philosophen Abai Qunanbaiuly auf dem gleichnamigen zentralen Platz in Almaty.",
+                  "category": "historical",
+                  "coords": [
+                        76.957497,
+                        43.243115
+                  ]
+            },
+            {
+                  "name": "Altyn adam",
+                  "text": "Monument der Unabhängigkeit auf dem Platz der Republik, gekrönt von der Figur des legendären „Goldenen Mannes“.",
+                  "category": "historical",
+                  "coords": [
+                        76.945418,
+                        43.238556
+                  ]
+            },
+            {
+                  "name": "Almaty k'alalyk' @kimdigi",
+                  "text": "Das repräsentative Verwaltungsgebäude der Stadtverwaltung von Almaty am Platz der Republik.",
+                  "category": "historical",
+                  "coords": [
+                        76.945717,
+                        43.236322
+                  ]
+            },
+            {
+                  "name": "Dom Bauma",
+                  "text": "Historisches Holzhaus des Forstsachverständigen Eduard Baum aus dem 19. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        76.932181,
+                        43.248148
+                  ]
+            },
+            {
+                  "name": "Zazerkal'e",
+                  "text": "Beliebtes Puppentheater, das kreative Aufführungen für Kinder und Familien anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        76.900902,
+                        43.239776
+                  ]
+            },
+            {
+                  "name": "K'azak' Memlekettik Tsirki",
+                  "text": "Modernistisches Zirkusgebäude mit einem markanten, zeltförmigen Dach aus der Sowjetära.",
+                  "category": "cultural",
+                  "coords": [
+                        76.917284,
+                        43.239184
+                  ]
+            },
+            {
+                  "name": "Sezam",
+                  "text": "Kleines Theater, das auf Zauberei, Illusionen und Varieté-Shows spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.917912,
+                        43.241702
+                  ]
+            },
+            {
+                  "name": "N. Sats atyndag'y balalar men zhasospirimderge arnalg'an teatr",
+                  "text": "Staatliches Theater für Kinder und Jugendliche, benannt nach der Regisseurin Natalija Saz.",
+                  "category": "cultural",
+                  "coords": [
+                        76.867841,
+                        43.221631
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozhiei Materi Vsekh skorbiashchikh Radoste",
+                  "text": "Russische-orthodoxe Kirche, die der Ikone der Gottesmutter „Aller Betrübten Freude“ geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        76.878649,
+                        43.243836
+                  ]
+            },
+            {
+                  "name": "Khram sviatykh pervoverkhovnykh apostolov Petra i Pavla",
+                  "text": "Orthodoxes Gotteshaus, das den Aposteln Petrus und Paulus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        76.896485,
+                        43.193731
+                  ]
+            },
+            {
+                  "name": "Nu'r-Mub@rak",
+                  "text": "Ägyptisch-islamische Universität und Kulturzentrum mit einer markanten Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        76.916934,
+                        43.212041
+                  ]
+            },
+            {
+                  "name": "Mikhail Lermontov atyndag'y memlekettik akademiialyk' orys drama teatry",
+                  "text": "Russisches Dramentheater, das 1933 gegründet wurde und klassische Stücke aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        76.944083,
+                        43.24318
+                  ]
+            },
+            {
+                  "name": "Nikolaus-Kathedrale",
+                  "text": "Historische russisch-orthodoxe Kathedrale aus Holz mit reich verzierter Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        76.92809,
+                        43.248398
+                  ]
+            },
+            {
+                  "name": "Staatliches Kasachisches akademisches Abai Opern- und Balletthaus",
+                  "text": "Nationales Opern- und Balletttheater, das seit 1949 in einem prachtvollen neoklassizistischen Gebäude untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945791,
+                        43.248656
+                  ]
+            },
+            {
+                  "name": "Kieli Ushbirlik Rim-Katolik K@tidraly",
+                  "text": "Moderne römisch-katholische Kathedrale der Stadt, die der Heiligsten Dreifaltigkeit geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        76.870382,
+                        43.256471
+                  ]
+            },
+            {
+                  "name": "Khram Khrista Spasitelia",
+                  "text": "Große orthodoxe Erlöser-Kathedrale mit auffälligen goldenen Kuppeln.",
+                  "category": "religious",
+                  "coords": [
+                        76.83205,
+                        43.245332
+                  ]
+            },
+            {
+                  "name": "K'azak'stan Respublikasy Prezidentinin' mu'rag'aty",
+                  "text": "Modernes Archivgebäude, das die offiziellen Dokumente der Präsidentschaft der Republik aufbewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        76.956807,
+                        43.239898
+                  ]
+            },
+            {
+                  "name": "K'u'rmetti azamat Golovizinnin' uii 1905-1908 zhzh",
+                  "text": "1908 erbautes Holzhaus des Kaufmanns Golowisin im charakteristischen Verny-Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        76.948387,
+                        43.24452
+                  ]
+            },
+            {
+                  "name": "K'azak' radioteletsentrinin' apparattyk'-studiialyk' kesheni",
+                  "text": "Studiokomplex des kasachischen Fernseh- und Radiozentrums mit moderner Rundfunktechnik.",
+                  "category": "landmark",
+                  "coords": [
+                        76.942179,
+                        43.234556
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Gavrilova",
+                  "text": "Ehemaliges Wohnhaus des Kaufmanns Gawrilow, ein gut erhaltenes Beispiel für russische Holzarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        76.940648,
+                        43.242964
+                  ]
+            },
+            {
+                  "name": "Vernenskaia observatoriia",
+                  "text": "Historisches Observatorium aus dem frühen 20. Jahrhundert, das die astronomische Forschung der Region markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        76.934181,
+                        43.239622
+                  ]
+            },
+            {
+                  "name": "Saka kurgan",
+                  "text": "Antiker skythischer Grabhügel aus der Saka-Zeit, der sich auf dem Gelände des Botanischen Gartens befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        76.912845,
+                        43.221967
+                  ]
+            },
+            {
+                  "name": "Bas Botanikalyk' Bak'",
+                  "text": "Weitläufiger botanischer Garten mit einer umfangreichen Sammlung von Pflanzen aus dem Transili-Alatau.",
+                  "category": "park",
+                  "coords": [
+                        76.915294,
+                        43.219233
+                  ]
+            },
+            {
+                  "name": "K'azak'stan Respublikasynyn' Tu'n'g'ysh Prezidentinin' atyndag'y Saiabak'",
+                  "text": "Großzügige Parkanlage mit einer monumentalen Springbrunnenanlage und Blick auf die Berge.",
+                  "category": "park",
+                  "coords": [
+                        76.886568,
+                        43.187032
+                  ]
+            },
+            {
+                  "name": "The One",
+                  "text": "Galerie für zeitgenössische Kunst, die Werke lokaler und internationaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        76.954763,
+                        43.225255
+                  ]
+            },
+            {
+                  "name": "Ty Khudozhnik",
+                  "text": "Kreativstudio und Kunstgalerie, in der Besucher malen und lokale Ausstellungen sehen können.",
+                  "category": "museum",
+                  "coords": [
+                        76.959894,
+                        43.240162
+                  ]
+            },
+            {
+                  "name": "Iandeks Mu'razhaiy",
+                  "text": "Technikmuseum mit Exponaten zur Geschichte der Computer und alten Videospielkonsolen.",
+                  "category": "museum",
+                  "coords": [
+                        76.94592,
+                        43.231895
+                  ]
+            },
+            {
+                  "name": "Tarikhi Mu'razhai",
+                  "text": "Museum zur lokalen Geschichte mit Funden aus archäologischen Ausgrabungen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        76.921748,
+                        43.224808
+                  ]
+            },
+            {
+                  "name": "Biologiialyk' Mu'razhai",
+                  "text": "Biologisches Museum, das sich der Flora und Fauna des Transili-Alatau widmet.",
+                  "category": "museum",
+                  "coords": [
+                        76.920692,
+                        43.224121
+                  ]
+            },
+            {
+                  "name": "Almaty Oner Mu'razhaiy",
+                  "text": "Kunstmuseum mit einer bedeutenden Sammlung kasachischer Malerei und Skulptur.",
+                  "category": "museum",
+                  "coords": [
+                        76.94911,
+                        43.227177
+                  ]
+            },
+            {
+                  "name": "@l-Farabi Mu'razhaiy",
+                  "text": "Museum, das dem Leben und Werk des mittelalterlichen Philosophen Al-Farabi gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        76.923917,
+                        43.222078
+                  ]
+            },
+            {
+                  "name": "Almaty mu'razhaiy",
+                  "text": "Stadtmuseum, das die Entwicklung Almatys von einer Siedlung zur modernen Metropole zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        76.936075,
+                        43.248712
+                  ]
+            },
+            {
+                  "name": "3 Arka",
+                  "text": "Modernes Denkmal bestehend aus drei symbolischen Bögen auf einem öffentlichen Platz.",
+                  "category": "historical",
+                  "coords": [
+                        76.87702,
+                        43.205649
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Birzhanu Kozhakulovu",
+                  "text": "Denkmal zu Ehren des berühmten kasachischen Dichters und Sängers Birzhan-Sal.",
+                  "category": "historical",
+                  "coords": [
+                        76.880991,
+                        43.198597
+                  ]
+            },
+            {
+                  "name": "Nazarbaev eskertkishi",
+                  "text": "Monumentales Denkmal für den ersten Präsidenten Kasachstans, Nursultan Nasarbajew.",
+                  "category": "historical",
+                  "coords": [
+                        76.885055,
+                        43.192356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "@uezov mu'razhai-uii",
+                  "text": "Irodalmi emlékmúzeum a híres kazah író, Muhtar Auezov egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        76.949609,
+                        43.243428
+                  ]
+            },
+            {
+                  "name": "K'azak'stan Respublikasynyn' Memlekettik Ortalyk' Mu'razhaiy",
+                  "text": "Kazahsztán egyik legnagyobb múzeuma, több mint 300 000 kiállítási tárggyal az ország történelméről és kultúrájáról.",
+                  "category": "museum",
+                  "coords": [
+                        76.950741,
+                        43.235878
+                  ]
+            },
+            {
+                  "name": "K'R Memlekettik @. K'asteev atyndag'y oner mu'razhaiy",
+                  "text": "Abylkhan Kasteevről elnevezett nemzeti művészeti múzeum, amely a kazah festészet kiváló gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.919459,
+                        43.235668
+                  ]
+            },
+            {
+                  "name": "Respublikanskii muzei sportivnoi i olimpiiskoi slavy",
+                  "text": "Kazahsztán sporttörténetének és olimpiai érmesei sikereinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        76.932811,
+                        43.252045
+                  ]
+            },
+            {
+                  "name": "Abai Eskertkishi",
+                  "text": "Abaj Kunanbajuli híres költő és filozófus bronzszobra Almaty azonos nevű központi terén.",
+                  "category": "historical",
+                  "coords": [
+                        76.957497,
+                        43.243115
+                  ]
+            },
+            {
+                  "name": "Altyn adam",
+                  "text": "A függetlenség emlékműve a Köztársaság téren, melyet a legendás „Aranyember” alakja koronáz meg.",
+                  "category": "historical",
+                  "coords": [
+                        76.945418,
+                        43.238556
+                  ]
+            },
+            {
+                  "name": "Almaty k'alalyk' @kimdigi",
+                  "text": "Almaty városvezetésének reprezentatív adminisztratív épülete a Köztársaság téren.",
+                  "category": "historical",
+                  "coords": [
+                        76.945717,
+                        43.236322
+                  ]
+            },
+            {
+                  "name": "Dom Bauma",
+                  "text": "Eduard Baum erdész 19. századi faháza, amely az egykori városi építészet emléke.",
+                  "category": "historical",
+                  "coords": [
+                        76.932181,
+                        43.248148
+                  ]
+            },
+            {
+                  "name": "Zazerkal'e",
+                  "text": "Népszerű bábszínház, amely gyermekközönségnek szóló kreatív előadásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        76.900902,
+                        43.239776
+                  ]
+            },
+            {
+                  "name": "K'azak' Memlekettik Tsirki",
+                  "text": "Modernista cirkuszépület jellegzetes, sátor alakú tetővel a szovjet korszakból.",
+                  "category": "cultural",
+                  "coords": [
+                        76.917284,
+                        43.239184
+                  ]
+            },
+            {
+                  "name": "Sezam",
+                  "text": "Bűvészmutatványokra, illúziókra és varieté-műsorokra szakosodott kis színház.",
+                  "category": "cultural",
+                  "coords": [
+                        76.917912,
+                        43.241702
+                  ]
+            },
+            {
+                  "name": "N. Sats atyndag'y balalar men zhasospirimderge arnalg'an teatr",
+                  "text": "Natalija Szac rendezőről elnevezett állami színház gyermekek és fiatalok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        76.867841,
+                        43.221631
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozhiei Materi Vsekh skorbiashchikh Radoste",
+                  "text": "Az „Összes Szomorúak Öröme” Istenszülő-ikonnak szentelt orosz ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        76.878649,
+                        43.243836
+                  ]
+            },
+            {
+                  "name": "Khram sviatykh pervoverkhovnykh apostolov Petra i Pavla",
+                  "text": "Péter és Pál apostoloknak szentelt ortodox istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        76.896485,
+                        43.193731
+                  ]
+            },
+            {
+                  "name": "Nu'r-Mub@rak",
+                  "text": "Egyiptomi-iszlám egyetem és kulturális központ jellegzetes mecsettel.",
+                  "category": "religious",
+                  "coords": [
+                        76.916934,
+                        43.212041
+                  ]
+            },
+            {
+                  "name": "Mikhail Lermontov atyndag'y memlekettik akademiialyk' orys drama teatry",
+                  "text": "1933-ban alapított orosz drámai színház, amely klasszikus darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        76.944083,
+                        43.24318
+                  ]
+            },
+            {
+                  "name": "Nikol'sk shirkeui",
+                  "text": "Történelmi fából készült orosz ortodox székesegyház gazdagon díszített belsővel.",
+                  "category": "religious",
+                  "coords": [
+                        76.92809,
+                        43.248398
+                  ]
+            },
+            {
+                  "name": "Abai atyndag'y K'azak' U'lttyk' opera zh@ne balet teatry",
+                  "text": "Nemzeti operaház és balettszínház, amely 1949 óta működik pompás neoklasszicista épületében.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945791,
+                        43.248656
+                  ]
+            },
+            {
+                  "name": "Kieli Ushbirlik Rim-Katolik K@tidraly",
+                  "text": "A város modern római katolikus székesegyháza, amelyet a Szentháromságnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        76.870382,
+                        43.256471
+                  ]
+            },
+            {
+                  "name": "Khram Khrista Spasitelia",
+                  "text": "Hatalmas ortodox Krisztus Megváltó-székesegyház feltűnő aranykupolákkal.",
+                  "category": "religious",
+                  "coords": [
+                        76.83205,
+                        43.245332
+                  ]
+            },
+            {
+                  "name": "K'azak'stan Respublikasy Prezidentinin' mu'rag'aty",
+                  "text": "Modern levéltári épület, amely a köztársasági elnökség hivatalos dokumentumait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        76.956807,
+                        43.239898
+                  ]
+            },
+            {
+                  "name": "K'u'rmetti azamat Golovizinnin' uii 1905-1908 zhzh",
+                  "text": "Golovizin kereskedő 1908-ban épült faháza a jellegzetes Vernij-stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        76.948387,
+                        43.24452
+                  ]
+            },
+            {
+                  "name": "K'azak' radioteletsentrinin' apparattyk'-studiialyk' kesheni",
+                  "text": "A kazah televíziós és rádióközpont stúdiókomplexuma modern műsorszórási technológiával.",
+                  "category": "landmark",
+                  "coords": [
+                        76.942179,
+                        43.234556
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Gavrilova",
+                  "text": "Gavrilov kereskedő egykori lakóháza, az orosz faépítészet jól megőrzött példája.",
+                  "category": "landmark",
+                  "coords": [
+                        76.940648,
+                        43.242964
+                  ]
+            },
+            {
+                  "name": "Vernenskaia observatoriia",
+                  "text": "20. század eleji történelmi csillagvizsgáló, amely a régió csillagászati kutatásainak emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        76.934181,
+                        43.239622
+                  ]
+            },
+            {
+                  "name": "Saka kurgan",
+                  "text": "Ókori szkíta sírhalom a szaka korszakból, amely a botanikus kert területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        76.912845,
+                        43.221967
+                  ]
+            },
+            {
+                  "name": "Bas Botanikalyk' Bak'",
+                  "text": "Kiterjedt botanikus kert az Ili-Alatau hegység növényvilágának gazdag gyűjteményével.",
+                  "category": "park",
+                  "coords": [
+                        76.915294,
+                        43.219233
+                  ]
+            },
+            {
+                  "name": "K'azak'stan Respublikasynyn' Tu'n'g'ysh Prezidentinin' atyndag'y Saiabak'",
+                  "text": "Tágas park monumentális szökőkútrendszerrel és kilátással a közeli hegyekre.",
+                  "category": "park",
+                  "coords": [
+                        76.886568,
+                        43.187032
+                  ]
+            },
+            {
+                  "name": "The One",
+                  "text": "Kortárs művészeti galéria, amely helyi és nemzetközi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.954763,
+                        43.225255
+                  ]
+            },
+            {
+                  "name": "Ty Khudozhnik",
+                  "text": "Kreatív stúdió és művészeti galéria, ahol a látogatók festhetnek és kiállításokat nézhetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        76.959894,
+                        43.240162
+                  ]
+            },
+            {
+                  "name": "Iandeks Mu'razhaiy",
+                  "text": "Technológiai múzeum a számítógépek és régi videojáték-konzolok történetét bemutató tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        76.94592,
+                        43.231895
+                  ]
+            },
+            {
+                  "name": "Tarikhi Mu'razhai",
+                  "text": "Helytörténeti múzeum a régió régészeti ásatásaiból származó leletekkel.",
+                  "category": "museum",
+                  "coords": [
+                        76.921748,
+                        43.224808
+                  ]
+            },
+            {
+                  "name": "Biologiialyk' Mu'razhai",
+                  "text": "Biológiai múzeum, amely az Ili-Alatau hegység növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.920692,
+                        43.224121
+                  ]
+            },
+            {
+                  "name": "Almaty Oner Mu'razhaiy",
+                  "text": "Művészeti múzeum a kazah festészet és szobrászat jelentős gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        76.94911,
+                        43.227177
+                  ]
+            },
+            {
+                  "name": "@l-Farabi Mu'razhaiy",
+                  "text": "A középkori filozófus, Al-Fárábí életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        76.923917,
+                        43.222078
+                  ]
+            },
+            {
+                  "name": "Almaty mu'razhaiy",
+                  "text": "Várostörténeti múzeum, amely Almati fejlődését mutatja be a településtől a metropoliszig.",
+                  "category": "museum",
+                  "coords": [
+                        76.936075,
+                        43.248712
+                  ]
+            },
+            {
+                  "name": "3 Arka",
+                  "text": "Három szimbolikus ívből álló modern emlékmű egy nyilvános téren.",
+                  "category": "historical",
+                  "coords": [
+                        76.87702,
+                        43.205649
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Birzhanu Kozhakulovu",
+                  "text": "A híres kazah költő és énekes, Birzsan-szal tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        76.880991,
+                        43.198597
+                  ]
+            },
+            {
+                  "name": "Nazarbaev eskertkishi",
+                  "text": "Nurszultan Nazarbajev, Kazahsztán első elnökének monumentális emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        76.885055,
+                        43.192356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "@uezov mu'razhai-uii",
+                  "text": "Muzeu memorial literar în fosta casă a celebrului scriitor kazah Muhtar Auezov.",
+                  "category": "museum",
+                  "coords": [
+                        76.949609,
+                        43.243428
+                  ]
+            },
+            {
+                  "name": "K'azak'stan Respublikasynyn' Memlekettik Ortalyk' Mu'razhaiy",
+                  "text": "Unul dintre cele mai mari muzee din Kazahstan, cu peste 300.000 de exponate despre istoria și cultura țării.",
+                  "category": "museum",
+                  "coords": [
+                        76.950741,
+                        43.235878
+                  ]
+            },
+            {
+                  "name": "K'R Memlekettik @. K'asteev atyndag'y oner mu'razhaiy",
+                  "text": "Muzeu național de artă, numit după Abîlhan Kasteev, care prezintă o colecție remarcabilă de pictură kazahă.",
+                  "category": "museum",
+                  "coords": [
+                        76.919459,
+                        43.235668
+                  ]
+            },
+            {
+                  "name": "Respublikanskii muzei sportivnoi i olimpiiskoi slavy",
+                  "text": "Muzeu dedicat istoriei sportului din Kazahstan și succeselor medaliaților săi olimpici.",
+                  "category": "museum",
+                  "coords": [
+                        76.932811,
+                        43.252045
+                  ]
+            },
+            {
+                  "name": "Abai Eskertkishi",
+                  "text": "Statuia de bronz a celebrului poet și filozof Abai Kunanbaiulî în piața centrală cu același nume din Almatî.",
+                  "category": "historical",
+                  "coords": [
+                        76.957497,
+                        43.243115
+                  ]
+            },
+            {
+                  "name": "Altyn adam",
+                  "text": "Monumentul Independenței din Piața Republicii, încununat de figura legendarului „Om de Aur”.",
+                  "category": "historical",
+                  "coords": [
+                        76.945418,
+                        43.238556
+                  ]
+            },
+            {
+                  "name": "Almaty k'alalyk' @kimdigi",
+                  "text": "Clădirea administrativă reprezentativă a primăriei orașului Almatî, situată în Piața Republicii.",
+                  "category": "historical",
+                  "coords": [
+                        76.945717,
+                        43.236322
+                  ]
+            },
+            {
+                  "name": "Dom Bauma",
+                  "text": "Casă istorică din lemn din secolul al XIX-lea, care a aparținut silvicultorului Eduard Baum.",
+                  "category": "historical",
+                  "coords": [
+                        76.932181,
+                        43.248148
+                  ]
+            },
+            {
+                  "name": "Zazerkal'e",
+                  "text": "Teatru de păpuși popular, care oferă spectacole creative dedicate copiilor și familiilor.",
+                  "category": "cultural",
+                  "coords": [
+                        76.900902,
+                        43.239776
+                  ]
+            },
+            {
+                  "name": "K'azak' Memlekettik Tsirki",
+                  "text": "Clădire modernistă de circ, cu un acoperiș distinctiv în formă de cort din epoca sovietică.",
+                  "category": "cultural",
+                  "coords": [
+                        76.917284,
+                        43.239184
+                  ]
+            },
+            {
+                  "name": "Sezam",
+                  "text": "Teatru mic specializat în spectacole de magie, iluzionism și varietate.",
+                  "category": "cultural",
+                  "coords": [
+                        76.917912,
+                        43.241702
+                  ]
+            },
+            {
+                  "name": "N. Sats atyndag'y balalar men zhasospirimderge arnalg'an teatr",
+                  "text": "Teatru de stat pentru copii și tineret, numit după regizoarea Natalia Saț.",
+                  "category": "cultural",
+                  "coords": [
+                        76.867841,
+                        43.221631
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozhiei Materi Vsekh skorbiashchikh Radoste",
+                  "text": "Biserică ortodoxă rusă închinată Icoanei Maicii Domnului „Bucuria tuturor celor necăjiți”.",
+                  "category": "religious",
+                  "coords": [
+                        76.878649,
+                        43.243836
+                  ]
+            },
+            {
+                  "name": "Khram sviatykh pervoverkhovnykh apostolov Petra i Pavla",
+                  "text": "Lăcaș de cult ortodox închinat Sfinților Apostoli Petru și Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        76.896485,
+                        43.193731
+                  ]
+            },
+            {
+                  "name": "Nu'r-Mub@rak",
+                  "text": "Universitate și centru cultural egipteano-islamic, prevăzut cu o moschee.",
+                  "category": "religious",
+                  "coords": [
+                        76.916934,
+                        43.212041
+                  ]
+            },
+            {
+                  "name": "Mikhail Lermontov atyndag'y memlekettik akademiialyk' orys drama teatry",
+                  "text": "Teatru dramatic rus fondat în 1933, care pune în scenă piese clasice.",
+                  "category": "cultural",
+                  "coords": [
+                        76.944083,
+                        43.24318
+                  ]
+            },
+            {
+                  "name": "Nikol'sk shirkeui",
+                  "text": "Catedrală ortodoxă rusă istorică, realizată din lemn, cu un interior bogat decorat.",
+                  "category": "religious",
+                  "coords": [
+                        76.92809,
+                        43.248398
+                  ]
+            },
+            {
+                  "name": "Abai atyndag'y K'azak' U'lttyk' opera zh@ne balet teatry",
+                  "text": "Teatru național de operă și balet, găzduit din 1949 într-o clădire neoclasică grandioasă.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945791,
+                        43.248656
+                  ]
+            },
+            {
+                  "name": "Kieli Ushbirlik Rim-Katolik K@tidraly",
+                  "text": "Catedrală romano-catolică modernă, închinată Preasfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        76.870382,
+                        43.256471
+                  ]
+            },
+            {
+                  "name": "Khram Khrista Spasitelia",
+                  "text": "Catedrală ortodoxă mare, închinată lui Hristos Mântuitorul, cu turle aurite.",
+                  "category": "religious",
+                  "coords": [
+                        76.83205,
+                        43.245332
+                  ]
+            },
+            {
+                  "name": "K'azak'stan Respublikasy Prezidentinin' mu'rag'aty",
+                  "text": "Clădire de arhivă modernă care păstrează documentele oficiale ale președinției republicii.",
+                  "category": "landmark",
+                  "coords": [
+                        76.956807,
+                        43.239898
+                  ]
+            },
+            {
+                  "name": "K'u'rmetti azamat Golovizinnin' uii 1905-1908 zhzh",
+                  "text": "Casă din lemn construită în 1908 pentru negustorul Golovizin în stilul specific Vernîi.",
+                  "category": "landmark",
+                  "coords": [
+                        76.948387,
+                        43.24452
+                  ]
+            },
+            {
+                  "name": "K'azak' radioteletsentrinin' apparattyk'-studiialyk' kesheni",
+                  "text": "Complex de studiouri al centrului de televiziune și radio din Kazahstan.",
+                  "category": "landmark",
+                  "coords": [
+                        76.942179,
+                        43.234556
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Gavrilova",
+                  "text": "Fosta reședință a negustorului Gavrilov, un exemplu bine conservat de arhitectură rusă din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        76.940648,
+                        43.242964
+                  ]
+            },
+            {
+                  "name": "Vernenskaia observatoriia",
+                  "text": "Observator istoric de la începutul secolului al XX-lea, reprezentativ pentru cercetarea astronomică.",
+                  "category": "landmark",
+                  "coords": [
+                        76.934181,
+                        43.239622
+                  ]
+            },
+            {
+                  "name": "Saka kurgan",
+                  "text": "Tumul scit antic din perioada Saka, situat pe teritoriul grădinii botanice.",
+                  "category": "landmark",
+                  "coords": [
+                        76.912845,
+                        43.221967
+                  ]
+            },
+            {
+                  "name": "Bas Botanikalyk' Bak'",
+                  "text": "Grădină botanică vastă, cu o colecție bogată de plante din munții Trans-Ili Alatau.",
+                  "category": "park",
+                  "coords": [
+                        76.915294,
+                        43.219233
+                  ]
+            },
+            {
+                  "name": "K'azak'stan Respublikasynyn' Tu'n'g'ysh Prezidentinin' atyndag'y Saiabak'",
+                  "text": "Parc spațios cu un sistem monumental de fântâni arteziene și vedere spre munți.",
+                  "category": "park",
+                  "coords": [
+                        76.886568,
+                        43.187032
+                  ]
+            },
+            {
+                  "name": "The One",
+                  "text": "Galerie de artă contemporană care expune lucrări ale artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        76.954763,
+                        43.225255
+                  ]
+            },
+            {
+                  "name": "Ty Khudozhnik",
+                  "text": "Studio creativ și galerie de artă unde vizitatorii pot picta sau vedea expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        76.959894,
+                        43.240162
+                  ]
+            },
+            {
+                  "name": "Iandeks Mu'razhaiy",
+                  "text": "Muzeu tehnologic cu exponate despre istoria computerelor și console vechi de jocuri.",
+                  "category": "museum",
+                  "coords": [
+                        76.94592,
+                        43.231895
+                  ]
+            },
+            {
+                  "name": "Tarikhi Mu'razhai",
+                  "text": "Muzeu de istorie locală cu descoperiri provenite din săpăturile arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        76.921748,
+                        43.224808
+                  ]
+            },
+            {
+                  "name": "Biologiialyk' Mu'razhai",
+                  "text": "Muzeu biologic dedicat florei și faunei din munții Trans-Ili Alatau.",
+                  "category": "museum",
+                  "coords": [
+                        76.920692,
+                        43.224121
+                  ]
+            },
+            {
+                  "name": "Almaty Oner Mu'razhaiy",
+                  "text": "Muzeu de artă cu o colecție importantă de pictură și sculptură kazahă.",
+                  "category": "museum",
+                  "coords": [
+                        76.94911,
+                        43.227177
+                  ]
+            },
+            {
+                  "name": "@l-Farabi Mu'razhaiy",
+                  "text": "Muzeu dedicat vieții și operei filosofului medieval Al-Farabi.",
+                  "category": "museum",
+                  "coords": [
+                        76.923917,
+                        43.222078
+                  ]
+            },
+            {
+                  "name": "Almaty mu'razhaiy",
+                  "text": "Muzeu municipal care prezintă evoluția orașului Almatî de la așezare la metropolă.",
+                  "category": "museum",
+                  "coords": [
+                        76.936075,
+                        43.248712
+                  ]
+            },
+            {
+                  "name": "3 Arka",
+                  "text": "Monument modern format din trei arcade simbolice, situat într-o piață publică.",
+                  "category": "historical",
+                  "coords": [
+                        76.87702,
+                        43.205649
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Birzhanu Kozhakulovu",
+                  "text": "Monument ridicat în onoarea celebrului poet și cântăreț kazah Birjan-sal.",
+                  "category": "historical",
+                  "coords": [
+                        76.880991,
+                        43.198597
+                  ]
+            },
+            {
+                  "name": "Nazarbaev eskertkishi",
+                  "text": "Monument monumental dedicat primului președinte al Kazahstanului, Nursultan Nazarbaev.",
+                  "category": "historical",
+                  "coords": [
+                        76.885055,
+                        43.192356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "M. Auezov house",
+                  "text": "Literary memorial museum in the former home of the famous Kazakh writer Mukhtar Auezov.",
+                  "category": "museum",
+                  "coords": [
+                        76.949609,
+                        43.243428
+                  ]
+            },
+            {
+                  "name": "Central State Museum of the Republic of Kazakhstan",
+                  "text": "One of the largest museums in Kazakhstan, housing over 300,000 exhibits on the country's history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        76.950741,
+                        43.235878
+                  ]
+            },
+            {
+                  "name": "Kazakhstan Museum of Arts",
+                  "text": "National arts museum named after Abylkhan Kasteev, featuring a premier collection of Kazakh painting.",
+                  "category": "museum",
+                  "coords": [
+                        76.919459,
+                        43.235668
+                  ]
+            },
+            {
+                  "name": "Respublikanskii muzei sportivnoi i olimpiiskoi slavy",
+                  "text": "Museum dedicated to the history of sports in Kazakhstan and the achievements of its Olympic medalists.",
+                  "category": "museum",
+                  "coords": [
+                        76.932811,
+                        43.252045
+                  ]
+            },
+            {
+                  "name": "Abay monument",
+                  "text": "Bronze statue of the famous poet and philosopher Abai Qunanbaiuly on the central square named after him in Almaty.",
+                  "category": "historical",
+                  "coords": [
+                        76.957497,
+                        43.243115
+                  ]
+            },
+            {
+                  "name": "Golden Warrior",
+                  "text": "Independence monument on Republic Square, crowned by the figure of the legendary 'Golden Man'.",
+                  "category": "historical",
+                  "coords": [
+                        76.945418,
+                        43.238556
+                  ]
+            },
+            {
+                  "name": "Almaty City Akimat",
+                  "text": "The representative administrative building of the Almaty city government located on Republic Square.",
+                  "category": "historical",
+                  "coords": [
+                        76.945717,
+                        43.236322
+                  ]
+            },
+            {
+                  "name": "Dom Bauma",
+                  "text": "19th-century wooden house of forestry expert Eduard Baum, a relic of early city architecture.",
+                  "category": "historical",
+                  "coords": [
+                        76.932181,
+                        43.248148
+                  ]
+            },
+            {
+                  "name": "Zazerkal'e",
+                  "text": "Popular puppet theatre offering creative performances for children and families.",
+                  "category": "cultural",
+                  "coords": [
+                        76.900902,
+                        43.239776
+                  ]
+            },
+            {
+                  "name": "Kazakh State Circus",
+                  "text": "Modernist circus building featuring a distinctive tent-shaped roof from the Soviet era.",
+                  "category": "cultural",
+                  "coords": [
+                        76.917284,
+                        43.239184
+                  ]
+            },
+            {
+                  "name": "Sezam",
+                  "text": "Small theatre specialized in magic, illusion, and variety performances.",
+                  "category": "cultural",
+                  "coords": [
+                        76.917912,
+                        43.241702
+                  ]
+            },
+            {
+                  "name": "N. Sats atyndag'y balalar men zhasospirimderge arnalg'an teatr",
+                  "text": "State theatre for children and young audiences, named after director Natalya Sats.",
+                  "category": "cultural",
+                  "coords": [
+                        76.867841,
+                        43.221631
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozhiei Materi Vsekh skorbiashchikh Radoste",
+                  "text": "Russian Orthodox church dedicated to the Icon of the Mother of God \"Joy of All Who Sorrow\".",
+                  "category": "religious",
+                  "coords": [
+                        76.878649,
+                        43.243836
+                  ]
+            },
+            {
+                  "name": "Khram sviatykh pervoverkhovnykh apostolov Petra i Pavla",
+                  "text": "Orthodox place of worship dedicated to the Apostles Peter and Paul.",
+                  "category": "religious",
+                  "coords": [
+                        76.896485,
+                        43.193731
+                  ]
+            },
+            {
+                  "name": "Nu'r-Mub@rak",
+                  "text": "Egyptian-Islamic university and cultural centre featuring a prominent mosque.",
+                  "category": "religious",
+                  "coords": [
+                        76.916934,
+                        43.212041
+                  ]
+            },
+            {
+                  "name": "M. J. Lermontov State Academic Russian Drama Theatre",
+                  "text": "Russian drama theatre founded in 1933, performing a wide range of classical plays.",
+                  "category": "cultural",
+                  "coords": [
+                        76.944083,
+                        43.24318
+                  ]
+            },
+            {
+                  "name": "Nikol'sk shirkeui",
+                  "text": "Historic wooden Russian Orthodox cathedral known for its ornate interior and blue domes.",
+                  "category": "religious",
+                  "coords": [
+                        76.92809,
+                        43.248398
+                  ]
+            },
+            {
+                  "name": "Kazakh State Academic Opera and Ballet House named after Abay",
+                  "text": "National opera and ballet theatre housed in a grand neoclassical building since 1949.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945791,
+                        43.248656
+                  ]
+            },
+            {
+                  "name": "The Most Holy Trinity Roman Catholic Cathedral",
+                  "text": "Modern Roman Catholic cathedral in the city, dedicated to the Most Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        76.870382,
+                        43.256471
+                  ]
+            },
+            {
+                  "name": "Khram Khrista Spasitelia",
+                  "text": "Large Orthodox Cathedral of Christ the Saviour featuring prominent golden domes.",
+                  "category": "religious",
+                  "coords": [
+                        76.83205,
+                        43.245332
+                  ]
+            },
+            {
+                  "name": "K'azak'stan Respublikasy Prezidentinin' mu'rag'aty",
+                  "text": "Modern archive building housing the official documents of the Republic's presidency.",
+                  "category": "landmark",
+                  "coords": [
+                        76.956807,
+                        43.239898
+                  ]
+            },
+            {
+                  "name": "House of merchant T. A. Golovizina",
+                  "text": "Wooden mansion of merchant Golovizin built in 1908 in the characteristic Verny style.",
+                  "category": "landmark",
+                  "coords": [
+                        76.948387,
+                        43.24452
+                  ]
+            },
+            {
+                  "name": "K'azak' radioteletsentrinin' apparattyk'-studiialyk' kesheni",
+                  "text": "Studio complex of the Kazakh television and radio centre, a hub for national broadcasting.",
+                  "category": "landmark",
+                  "coords": [
+                        76.942179,
+                        43.234556
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Gavrilova",
+                  "text": "Former residence of merchant Gavrilov, a well-preserved example of Russian wooden architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        76.940648,
+                        43.242964
+                  ]
+            },
+            {
+                  "name": "Vernenskaia observatoriia",
+                  "text": "Historic early 20th-century observatory marking the regional history of astronomical research.",
+                  "category": "landmark",
+                  "coords": [
+                        76.934181,
+                        43.239622
+                  ]
+            },
+            {
+                  "name": "Saka kurgan",
+                  "text": "Ancient Scythian burial mound from the Saka period, located within the botanical garden.",
+                  "category": "landmark",
+                  "coords": [
+                        76.912845,
+                        43.221967
+                  ]
+            },
+            {
+                  "name": "Bas Botanikalyk' Bak'",
+                  "text": "Extensive botanical garden featuring a diverse collection of flora from the Trans-Ili Alatau.",
+                  "category": "park",
+                  "coords": [
+                        76.915294,
+                        43.219233
+                  ]
+            },
+            {
+                  "name": "Park named after the First President of the Republic of Kazakhstan",
+                  "text": "Spacious park featuring a monumental fountain system and views of the nearby mountains.",
+                  "category": "park",
+                  "coords": [
+                        76.886568,
+                        43.187032
+                  ]
+            },
+            {
+                  "name": "The One",
+                  "text": "Contemporary art gallery exhibiting works by local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        76.954763,
+                        43.225255
+                  ]
+            },
+            {
+                  "name": "Ty Khudozhnik",
+                  "text": "Creative studio and art gallery where visitors can paint and view local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        76.959894,
+                        43.240162
+                  ]
+            },
+            {
+                  "name": "Yandex Museum",
+                  "text": "Tech museum featuring exhibits on the history of computing and vintage gaming consoles.",
+                  "category": "museum",
+                  "coords": [
+                        76.94592,
+                        43.231895
+                  ]
+            },
+            {
+                  "name": "Historical museum",
+                  "text": "Local history museum displaying artifacts from archaeological excavations in the region.",
+                  "category": "museum",
+                  "coords": [
+                        76.921748,
+                        43.224808
+                  ]
+            },
+            {
+                  "name": "Biological museum",
+                  "text": "Biological museum dedicated to the flora and fauna of the Trans-Ili Alatau mountains.",
+                  "category": "museum",
+                  "coords": [
+                        76.920692,
+                        43.224121
+                  ]
+            },
+            {
+                  "name": "Almaty Museum of Arts",
+                  "text": "Art museum housing a significant collection of Kazakh painting and sculpture.",
+                  "category": "museum",
+                  "coords": [
+                        76.94911,
+                        43.227177
+                  ]
+            },
+            {
+                  "name": "Al-Farabi Museum",
+                  "text": "Museum dedicated to the life and work of the medieval philosopher Al-Farabi.",
+                  "category": "museum",
+                  "coords": [
+                        76.923917,
+                        43.222078
+                  ]
+            },
+            {
+                  "name": "Almaty Museum",
+                  "text": "City museum chronicling Almaty's evolution from a settlement to a modern metropolis.",
+                  "category": "museum",
+                  "coords": [
+                        76.936075,
+                        43.248712
+                  ]
+            },
+            {
+                  "name": "3 Arka",
+                  "text": "Modern monument consisting of three symbolic arches located in a public square.",
+                  "category": "historical",
+                  "coords": [
+                        76.87702,
+                        43.205649
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Birzhanu Kozhakulovu",
+                  "text": "Monument honoring the famous Kazakh poet and singer Birzhan-sal.",
+                  "category": "historical",
+                  "coords": [
+                        76.880991,
+                        43.198597
+                  ]
+            },
+            {
+                  "name": "Monument to Nazarbayev",
+                  "text": "Monumental memorial dedicated to the first president of Kazakhstan, Nursultan Nazarbayev.",
+                  "category": "historical",
+                  "coords": [
+                        76.885055,
+                        43.192356
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KZ-ALA",
     coords: [76.9456, 43.2389],
@@ -563,7 +4703,124 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "arystan-bab-landmarks-v2",
+    id: "arystan-bab-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mardankuiik k'alashyg'y",
+                  "text": "Eine antike Wallburg in der Nähe von Arystan-Bab, die ehemals als Verteidigungsanlage diente.",
+                  "category": "historical",
+                  "coords": [
+                        68.247661,
+                        42.903896
+                  ]
+            },
+            {
+                  "name": "Gorodishche Kuiruktobe",
+                  "text": "Die archäologische Ausgrabungsstätte Kuiruktobe bewahrt Reste einer Siedlung an der Seidenstraße.",
+                  "category": "landmark",
+                  "coords": [
+                        68.252661,
+                        42.853932
+                  ]
+            },
+            {
+                  "name": "Shakhristan",
+                  "text": "Der historische Innenstadtbereich einer mittelalterlichen Stadtruine in der Region Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.229936,
+                        42.874875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mardankuiik k'alashyg'y",
+                  "text": "Egy ősi földvár Arystan-Bab közelében, amely egykor védelmi célokat szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        68.247661,
+                        42.903896
+                  ]
+            },
+            {
+                  "name": "Gorodishche Kuiruktobe",
+                  "text": "A Kuiruktobe régészeti lelőhely egy selyemút menti település maradványait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        68.252661,
+                        42.853932
+                  ]
+            },
+            {
+                  "name": "Shakhristan",
+                  "text": "Egy középkori városrom történelmi belső városrésze a Turkesztán régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.229936,
+                        42.874875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mardankuiik k'alashyg'y",
+                  "text": "O fortificație antică lângă Arystan-Bab, care a servit în trecut ca structură defensivă.",
+                  "category": "historical",
+                  "coords": [
+                        68.247661,
+                        42.903896
+                  ]
+            },
+            {
+                  "name": "Gorodishche Kuiruktobe",
+                  "text": "Situl arheologic Kuiruktobe păstrează vestigiile unei așezări de pe Drumul Mătăsii.",
+                  "category": "landmark",
+                  "coords": [
+                        68.252661,
+                        42.853932
+                  ]
+            },
+            {
+                  "name": "Shakhristan",
+                  "text": "Zona centrală istorică a ruinelor unui oraș medieval din regiunea Turkistan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.229936,
+                        42.874875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hill fort",
+                  "text": "An ancient hill fort near Arystan-Bab that formerly served as a defensive structure.",
+                  "category": "historical",
+                  "coords": [
+                        68.247661,
+                        42.903896
+                  ]
+            },
+            {
+                  "name": "Gorodishche Kuiruktobe",
+                  "text": "The Kuiruktobe archaeological site preserves the remains of a Silk Road settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        68.252661,
+                        42.853932
+                  ]
+            },
+            {
+                  "name": "Shakhristan",
+                  "text": "The historic inner city area of a medieval town ruin in the Turkistan region.",
+                  "category": "landmark",
+                  "coords": [
+                        68.229936,
+                        42.874875
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KZ-TUR",
     coords: [68.2683, 42.8500],
@@ -619,7 +4876,52 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "national-museum-kazakhstan-landmarks-v2",
+    id: "national-museum-kazakhstan-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "K'.K'uanyshbaev atyndag'y Memlekettik akademiialyk' k'azak' muzykalyk'-drama teatry",
+                  "text": "Staatliches akademisches Theater für kasachische Musik und Drama, das traditionelle und zeitgenössische Bühnenstücke aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.479936,
+                        51.120589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "K'.K'uanyshbaev atyndag'y Memlekettik akademiialyk' k'azak' muzykalyk'-drama teatry",
+                  "text": "Állami akadémiai kazah zenei és drámai színház, amely hagyományos és kortárs darabokat egyaránt színpadra állít.",
+                  "category": "cultural",
+                  "coords": [
+                        71.479936,
+                        51.120589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "K'.K'uanyshbaev atyndag'y Memlekettik akademiialyk' k'azak' muzykalyk'-drama teatry",
+                  "text": "Teatrul Academic de Stat de Muzică și Dramă Kazahă, care găzduiește spectacole de scenă tradiționale și contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        71.479936,
+                        51.120589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "K'.K'uanyshbaev atyndag'y Memlekettik akademiialyk' k'azak' muzykalyk'-drama teatry",
+                  "text": "State Academic Kazakh Musical and Drama Theatre hosting traditional and contemporary stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        71.479936,
+                        51.120589
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KZ-AST",
     coords: [71.4725, 51.1217],
@@ -675,7 +4977,772 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "shymbulak-resort-landmarks-v2",
+    id: "shymbulak-resort-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zhog'arg'y Butakovskii sark'yramasy",
+                  "text": "Ein beeindruckender, 30 Meter hoher Wasserfall in der malerischen Butakowka-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        77.121444,
+                        43.155881
+                  ]
+            },
+            {
+                  "name": "Samaia vyshka",
+                  "text": "Ein hochgelegener Aussichtspunkt mit Panoramablick auf die Gipfel des Transili-Alatau.",
+                  "category": "natural",
+                  "coords": [
+                        77.111325,
+                        43.112841
+                  ]
+            },
+            {
+                  "name": "On'tustik Shymbu'lak' shyn'y",
+                  "text": "Ein schroffer Berggipfel im Transili-Alatau mit direktem Blick auf das Skigebiet Shymbulak.",
+                  "category": "natural",
+                  "coords": [
+                        77.112367,
+                        43.121165
+                  ]
+            },
+            {
+                  "name": "Oktiabr'skaia peshchera",
+                  "text": "Eine Kalksteinhöhle in der Nähe des Bogdanowitsch-Gletschers auf 3300 Metern Höhe.",
+                  "category": "landmark",
+                  "coords": [
+                        77.110699,
+                        43.100913
+                  ]
+            },
+            {
+                  "name": "Bogdanovich mu'zdyk'",
+                  "text": "Ein alpiner Gletscher im Transili-Alatau, der über den Talgar-Pass von Shymbulak aus erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.11197,
+                        43.100393
+                  ]
+            },
+            {
+                  "name": "Almaty",
+                  "text": "Ein markanter Berggipfel im Transili-Alatau, der eine Höhe von 3680 Metern erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        77.120124,
+                        43.086054
+                  ]
+            },
+            {
+                  "name": "Bogdanovich mu'zdyg'ynyn' korinisi",
+                  "text": "Ein Aussichtspunkt mit weitem Blick auf die Eisfelder und Spalten des Bogdanowitsch-Gletschers.",
+                  "category": "natural",
+                  "coords": [
+                        77.105567,
+                        43.08801
+                  ]
+            },
+            {
+                  "name": "Abai",
+                  "text": "Ein pyramidenförmiger Gipfel, benannt nach dem berühmten kasachischen Dichter Abai Qunanbajuly.",
+                  "category": "natural",
+                  "coords": [
+                        77.097392,
+                        43.091521
+                  ]
+            },
+            {
+                  "name": "Skaly trenirovochnye",
+                  "text": "Granitfelsen in der Nähe von Shymbulak, die von Bergsteigern für das Techniktraining genutzt werden.",
+                  "category": "natural",
+                  "coords": [
+                        77.069871,
+                        43.109499
+                  ]
+            },
+            {
+                  "name": "K'ara sark'yrama",
+                  "text": "Ein Wasserfall in der Gorelnik-Schlucht, der für seine dunkle, felsige Kulisse bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.069426,
+                        43.104984
+                  ]
+            },
+            {
+                  "name": "Burkit u'iasy",
+                  "text": "Ein Aussichtspunkt mit Panoramablick aus der Vogelperspektive auf die Skipisten von Shymbulak.",
+                  "category": "natural",
+                  "coords": [
+                        77.052621,
+                        43.119719
+                  ]
+            },
+            {
+                  "name": "Kuigensai zhog'arg'y sark'yramasy",
+                  "text": "Die obere Kaskade des Gorelnik-Flusses, eingebettet in eine tiefe, felsige Bergschlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        77.053985,
+                        43.120512
+                  ]
+            },
+            {
+                  "name": "Amankeldi",
+                  "text": "Ein beliebter Bergsteigergipfel im Transili-Alatau mit einer Höhe von 3999 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        77.098001,
+                        43.084133
+                  ]
+            },
+            {
+                  "name": "Pioner",
+                  "text": "Ein scharfer Gipfel im Transili-Alatau, der häufig für technisches Klettertraining genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        77.104774,
+                        43.083604
+                  ]
+            },
+            {
+                  "name": "Uchitel'",
+                  "text": "Ein 4045 Meter hoher Gipfel, der eine klassische Aufstiegsroute für Bergsteiger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        77.106344,
+                        43.081693
+                  ]
+            },
+            {
+                  "name": "Geroev-panfilovtsev",
+                  "text": "Ein Berggipfel, der zu Ehren der legendären 28 Panfilow-Gardisten benannt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        77.114406,
+                        43.079649
+                  ]
+            },
+            {
+                  "name": "M@nshuk M@metovanyn'",
+                  "text": "Dieser nach einer sowjetischen Kriegsheldin benannte Gipfel beherbergt einen markanten Hängegletscher.",
+                  "category": "natural",
+                  "coords": [
+                        77.114054,
+                        43.075175
+                  ]
+            },
+            {
+                  "name": "Chkalov",
+                  "text": "Ein vergletscherter Gipfel im Transili-Alatau, der eine Höhe von 3892 Metern erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        77.127625,
+                        43.103584
+                  ]
+            },
+            {
+                  "name": "Talg'ar",
+                  "text": "Ein Hochgebirgspass auf 3163 Metern, der den Zugang zum weiten Bogdanowitsch-Gletscher ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        77.149171,
+                        43.118546
+                  ]
+            },
+            {
+                  "name": "Kolokol'chik",
+                  "text": "Eine markante Felsformation in Form einer Glocke in der Nähe der alpinen Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        77.134716,
+                        43.166642
+                  ]
+            },
+            {
+                  "name": "Polevaia bania",
+                  "text": "Eine rustikale Bergsauna, die ein traditionelles Dampfbad-Erlebnis unter freiem Himmel bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        77.160457,
+                        43.108789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zhog'arg'y Butakovskii sark'yramasy",
+                  "text": "Egy lenyűgöző, 30 méter magas vízesés a festői Butakovka-szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        77.121444,
+                        43.155881
+                  ]
+            },
+            {
+                  "name": "Samaia vyshka",
+                  "text": "Magaslati kilátópont, amely panorámás kilátást nyújt a Transz-Ili Alatau csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        77.111325,
+                        43.112841
+                  ]
+            },
+            {
+                  "name": "On'tustik Shymbu'lak' shyn'y",
+                  "text": "Egy sziklás hegycsúcs a Transz-Ili Alatau-ban, amely a Shymbulak síközpontra néz.",
+                  "category": "natural",
+                  "coords": [
+                        77.112367,
+                        43.121165
+                  ]
+            },
+            {
+                  "name": "Oktiabr'skaia peshchera",
+                  "text": "Egy mészkőbarlang a Bogdanovics-gleccser közelében, 3300 méteres magasságban.",
+                  "category": "landmark",
+                  "coords": [
+                        77.110699,
+                        43.100913
+                  ]
+            },
+            {
+                  "name": "Bogdanovich mu'zdyk'",
+                  "text": "A Transz-Ili Alatau egyik gleccsere, amely a Talgar-hágón keresztül érhető el Shymbulak felől.",
+                  "category": "landmark",
+                  "coords": [
+                        77.11197,
+                        43.100393
+                  ]
+            },
+            {
+                  "name": "Almaty",
+                  "text": "A Transz-Ili Alatau hegylánc egyik csúcsa, amely 3680 méter magas.",
+                  "category": "natural",
+                  "coords": [
+                        77.120124,
+                        43.086054
+                  ]
+            },
+            {
+                  "name": "Bogdanovich mu'zdyg'ynyn' korinisi",
+                  "text": "Kilátópont, ahonnan rálátni a Bogdanovics-gleccser hatalmas jégmezőire és hasadékaira.",
+                  "category": "natural",
+                  "coords": [
+                        77.105567,
+                        43.08801
+                  ]
+            },
+            {
+                  "name": "Abai",
+                  "text": "A híres kazah költőről, Abaj Kunanbajuliról elnevezett gúla alakú hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        77.097392,
+                        43.091521
+                  ]
+            },
+            {
+                  "name": "Skaly trenirovochnye",
+                  "text": "Hegymászók által technikai gyakorlásra használt gránitsziklák Shymbulak közelében.",
+                  "category": "natural",
+                  "coords": [
+                        77.069871,
+                        43.109499
+                  ]
+            },
+            {
+                  "name": "K'ara sark'yrama",
+                  "text": "A Gorelnik-szurdok vízesése, amely sötét, sziklás hátteréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        77.069426,
+                        43.104984
+                  ]
+            },
+            {
+                  "name": "Burkit u'iasy",
+                  "text": "Kilátópont, ahonnan madártávlatból nyílik kilátás Shymbulak sípályáira.",
+                  "category": "natural",
+                  "coords": [
+                        77.052621,
+                        43.119719
+                  ]
+            },
+            {
+                  "name": "Kuigensai zhog'arg'y sark'yramasy",
+                  "text": "A Gorelnik-folyó felső zúgója, amely egy mély, sziklás hegyi szakadékban található.",
+                  "category": "landmark",
+                  "coords": [
+                        77.053985,
+                        43.120512
+                  ]
+            },
+            {
+                  "name": "Amankeldi",
+                  "text": "Népszerű hegymászócsúcs a Transz-Ili Alatau-ban, amely 3999 méter magas.",
+                  "category": "natural",
+                  "coords": [
+                        77.098001,
+                        43.084133
+                  ]
+            },
+            {
+                  "name": "Pioner",
+                  "text": "Egy hegyes csúcs a Transz-Ili Alatau-ban, amelyet gyakran használnak technikai mászóedzésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        77.104774,
+                        43.083604
+                  ]
+            },
+            {
+                  "name": "Uchitel'",
+                  "text": "Egy 4045 méteres csúcs, amely klasszikus mászóútvonalat kínál a hegymászóknak.",
+                  "category": "natural",
+                  "coords": [
+                        77.106344,
+                        43.081693
+                  ]
+            },
+            {
+                  "name": "Geroev-panfilovtsev",
+                  "text": "A legendás 28 Panfilov-gárdista tiszteletére elnevezett hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        77.114406,
+                        43.079649
+                  ]
+            },
+            {
+                  "name": "M@nshuk M@metovanyn'",
+                  "text": "A szovjet háborús hősnőről elnevezett csúcs egy látványos függőgleccserrel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        77.114054,
+                        43.075175
+                  ]
+            },
+            {
+                  "name": "Chkalov",
+                  "text": "Eljegesedett csúcs a Transz-Ili Alatau-ban, amely 3892 méter magas.",
+                  "category": "natural",
+                  "coords": [
+                        77.127625,
+                        43.103584
+                  ]
+            },
+            {
+                  "name": "Talg'ar",
+                  "text": "Egy 3163 méter magasan fekvő hágó, amely hozzáférést biztosít a hatalmas Bogdanovics-gleccserhez.",
+                  "category": "landmark",
+                  "coords": [
+                        77.149171,
+                        43.118546
+                  ]
+            },
+            {
+                  "name": "Kolokol'chik",
+                  "text": "Egy harangra emlékeztető jellegzetes sziklaformáció az alpesi túraútvonalak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        77.134716,
+                        43.166642
+                  ]
+            },
+            {
+                  "name": "Polevaia bania",
+                  "text": "Egy rusztikus hegyi szauna, amely hagyományos gőzfürdőélményt kínál a szabad ég alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        77.160457,
+                        43.108789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zhog'arg'y Butakovskii sark'yramasy",
+                  "text": "O cascadă impresionantă de 30 de metri înălțime situată în defileul Butakovka.",
+                  "category": "landmark",
+                  "coords": [
+                        77.121444,
+                        43.155881
+                  ]
+            },
+            {
+                  "name": "Samaia vyshka",
+                  "text": "Un punct de observație la înălțime ce oferă vederi panoramice asupra vârfurilor Trans-Ili Alatau.",
+                  "category": "natural",
+                  "coords": [
+                        77.111325,
+                        43.112841
+                  ]
+            },
+            {
+                  "name": "On'tustik Shymbu'lak' shyn'y",
+                  "text": "Un vârf muntos accidentat din Trans-Ili Alatau care domină stațiunea de schi Shymbulak.",
+                  "category": "natural",
+                  "coords": [
+                        77.112367,
+                        43.121165
+                  ]
+            },
+            {
+                  "name": "Oktiabr'skaia peshchera",
+                  "text": "O peșteră de calcar situată lângă ghețarul Bogdanovici, la 3300 de metri altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        77.110699,
+                        43.100913
+                  ]
+            },
+            {
+                  "name": "Bogdanovich mu'zdyk'",
+                  "text": "Un ghețar alpin din Trans-Ili Alatau accesibil prin pasul Talgar pornind de la stațiunea Shymbulak.",
+                  "category": "landmark",
+                  "coords": [
+                        77.11197,
+                        43.100393
+                  ]
+            },
+            {
+                  "name": "Almaty",
+                  "text": "Un vârf montan din lanțul Trans-Ili Alatau care atinge înălțimea de 3680 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        77.120124,
+                        43.086054
+                  ]
+            },
+            {
+                  "name": "Bogdanovich mu'zdyg'ynyn' korinisi",
+                  "text": "Un punct de observație ce oferă o priveliște asupra câmpurilor de gheață și a crevaselor ghețarului Bogdanovici.",
+                  "category": "natural",
+                  "coords": [
+                        77.105567,
+                        43.08801
+                  ]
+            },
+            {
+                  "name": "Abai",
+                  "text": "Un vârf în formă de piramidă numit după celebrul poet kazah Abai Kunanbaev.",
+                  "category": "natural",
+                  "coords": [
+                        77.097392,
+                        43.091521
+                  ]
+            },
+            {
+                  "name": "Skaly trenirovochnye",
+                  "text": "Perți de stâncă din granit utilizați de alpiniști pentru antrenament tehnic lângă Shymbulak.",
+                  "category": "natural",
+                  "coords": [
+                        77.069871,
+                        43.109499
+                  ]
+            },
+            {
+                  "name": "K'ara sark'yrama",
+                  "text": "O cascadă din defileul Gorelnik, cunoscută pentru decorul său stâncos de culoare închisă.",
+                  "category": "landmark",
+                  "coords": [
+                        77.069426,
+                        43.104984
+                  ]
+            },
+            {
+                  "name": "Burkit u'iasy",
+                  "text": "Un punct de observație panoramic ce oferă o vedere de ansamblu asupra pârtiilor de schi Shymbulak.",
+                  "category": "natural",
+                  "coords": [
+                        77.052621,
+                        43.119719
+                  ]
+            },
+            {
+                  "name": "Kuigensai zhog'arg'y sark'yramasy",
+                  "text": "Cascada superioară a râului Gorelnik, cuibărită într-o râpă montană adâncă și stâncoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        77.053985,
+                        43.120512
+                  ]
+            },
+            {
+                  "name": "Amankeldi",
+                  "text": "Un vârf montan popular pentru alpiniști, având 3999 de metri, în Trans-Ili Alatau.",
+                  "category": "natural",
+                  "coords": [
+                        77.098001,
+                        43.084133
+                  ]
+            },
+            {
+                  "name": "Pioner",
+                  "text": "Un vârf ascuțit din Trans-Ili Alatau utilizat frecvent pentru antrenamente de alpinism tehnic.",
+                  "category": "natural",
+                  "coords": [
+                        77.104774,
+                        43.083604
+                  ]
+            },
+            {
+                  "name": "Uchitel'",
+                  "text": "Un vârf de 4045 de metri care oferă o rută clasică de ascensiune pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        77.106344,
+                        43.081693
+                  ]
+            },
+            {
+                  "name": "Geroev-panfilovtsev",
+                  "text": "Un vârf muntos numit în onoarea celor 28 de legendari ostași ai lui Panfilov.",
+                  "category": "natural",
+                  "coords": [
+                        77.114406,
+                        43.079649
+                  ]
+            },
+            {
+                  "name": "M@nshuk M@metovanyn'",
+                  "text": "Numit după o eroină de război sovietică, acest vârf are un ghețar suspendat proeminent.",
+                  "category": "natural",
+                  "coords": [
+                        77.114054,
+                        43.075175
+                  ]
+            },
+            {
+                  "name": "Chkalov",
+                  "text": "Un vârf acoperit de ghețari din Trans-Ili Alatau, atingând o altitudine de 3892 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        77.127625,
+                        43.103584
+                  ]
+            },
+            {
+                  "name": "Talg'ar",
+                  "text": "O trecătoare montană înaltă, la 3163 de metri, care oferă acces la ghețarul vast Bogdanovici.",
+                  "category": "landmark",
+                  "coords": [
+                        77.149171,
+                        43.118546
+                  ]
+            },
+            {
+                  "name": "Kolokol'chik",
+                  "text": "O formațiune stâncoasă distinctivă ce seamănă cu un clopot, situată lângă potecile alpine.",
+                  "category": "landmark",
+                  "coords": [
+                        77.134716,
+                        43.166642
+                  ]
+            },
+            {
+                  "name": "Polevaia bania",
+                  "text": "O saună montană rustică ce oferă o experiență tradițională de baie cu aburi sub cerul liber.",
+                  "category": "recreational",
+                  "coords": [
+                        77.160457,
+                        43.108789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zhog'arg'y Butakovskii sark'yramasy",
+                  "text": "An impressive 30-meter-high waterfall located in the scenic Butakovka Gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        77.121444,
+                        43.155881
+                  ]
+            },
+            {
+                  "name": "Samaia vyshka",
+                  "text": "A high-altitude viewpoint offering panoramic vistas of the Trans-Ili Alatau peaks.",
+                  "category": "natural",
+                  "coords": [
+                        77.111325,
+                        43.112841
+                  ]
+            },
+            {
+                  "name": "On'tustik Shymbu'lak' shyn'y",
+                  "text": "A rugged mountain peak in the Trans-Ili Alatau overlooking the Shymbulak ski resort.",
+                  "category": "natural",
+                  "coords": [
+                        77.112367,
+                        43.121165
+                  ]
+            },
+            {
+                  "name": "Oktyabrskaya cave",
+                  "text": "A limestone cave located near the Bogdanovich glacier at an altitude of 3300 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        77.110699,
+                        43.100913
+                  ]
+            },
+            {
+                  "name": "Bogdanovich glacier",
+                  "text": "An alpine glacier in the Trans-Ili Alatau accessible via the Talgar Pass from the Shymbulak resort.",
+                  "category": "landmark",
+                  "coords": [
+                        77.11197,
+                        43.100393
+                  ]
+            },
+            {
+                  "name": "Almaty",
+                  "text": "A prominent mountain peak reaching 3680 meters in the Trans-Ili Alatau range.",
+                  "category": "natural",
+                  "coords": [
+                        77.120124,
+                        43.086054
+                  ]
+            },
+            {
+                  "name": "Bogdanovich Glacier (View Point)",
+                  "text": "A viewpoint offering a vista of the vast ice fields and crevasses of the Bogdanovich glacier.",
+                  "category": "natural",
+                  "coords": [
+                        77.105567,
+                        43.08801
+                  ]
+            },
+            {
+                  "name": "Abay",
+                  "text": "A pyramid-shaped peak named after the famous Kazakh poet Abay Qunanbayuly.",
+                  "category": "natural",
+                  "coords": [
+                        77.097392,
+                        43.091521
+                  ]
+            },
+            {
+                  "name": "Training rocks",
+                  "text": "Granite rock faces used by climbers for technical practice near the Shymbulak resort.",
+                  "category": "natural",
+                  "coords": [
+                        77.069871,
+                        43.109499
+                  ]
+            },
+            {
+                  "name": "K'ara sark'yrama",
+                  "text": "A waterfall in the Gorelnik Gorge known for its dark, rocky backdrop.",
+                  "category": "landmark",
+                  "coords": [
+                        77.069426,
+                        43.104984
+                  ]
+            },
+            {
+                  "name": "Eagle Nest",
+                  "text": "A scenic lookout point offering a bird's-eye view of the Shymbulak ski runs.",
+                  "category": "natural",
+                  "coords": [
+                        77.052621,
+                        43.119719
+                  ]
+            },
+            {
+                  "name": "Gorel'nik superior waterfall",
+                  "text": "The upper cascade of the Gorelnik river, nestled in a deep, rocky mountain ravine.",
+                  "category": "landmark",
+                  "coords": [
+                        77.053985,
+                        43.120512
+                  ]
+            },
+            {
+                  "name": "Amankeldy",
+                  "text": "A popular mountaineering peak standing at 3999 meters in the Trans-Ili Alatau.",
+                  "category": "natural",
+                  "coords": [
+                        77.098001,
+                        43.084133
+                  ]
+            },
+            {
+                  "name": "Pioneer",
+                  "text": "A sharp peak in the Trans-Ili Alatau frequently used for technical climbing training.",
+                  "category": "natural",
+                  "coords": [
+                        77.104774,
+                        43.083604
+                  ]
+            },
+            {
+                  "name": "Uchitel'",
+                  "text": "A 4045-meter peak offering a classic ascent route for mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        77.106344,
+                        43.081693
+                  ]
+            },
+            {
+                  "name": "Geroev-panfilovcev",
+                  "text": "A mountain peak named in honor of the legendary 28 Panfilov guardsmen.",
+                  "category": "natural",
+                  "coords": [
+                        77.114406,
+                        43.079649
+                  ]
+            },
+            {
+                  "name": "Manshuk Mametova",
+                  "text": "Named after a Soviet war hero, this peak features a prominent hanging glacier.",
+                  "category": "natural",
+                  "coords": [
+                        77.114054,
+                        43.075175
+                  ]
+            },
+            {
+                  "name": "Chkalov",
+                  "text": "A glaciated peak in the Trans-Ili Alatau reaching an elevation of 3892 meters.",
+                  "category": "natural",
+                  "coords": [
+                        77.127625,
+                        43.103584
+                  ]
+            },
+            {
+                  "name": "Talgarskiy",
+                  "text": "A high mountain pass at 3163 meters, providing access to the vast Bogdanovich glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        77.149171,
+                        43.118546
+                  ]
+            },
+            {
+                  "name": "Bell",
+                  "text": "A distinctive rock formation resembling a bell located near the alpine trails.",
+                  "category": "landmark",
+                  "coords": [
+                        77.134716,
+                        43.166642
+                  ]
+            },
+            {
+                  "name": "Polevaia bania",
+                  "text": "A rustic mountain sauna offering a traditional steam bath experience in the open air.",
+                  "category": "recreational",
+                  "coords": [
+                        77.160457,
+                        43.108789
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KZ-ALA",
     coords: [77.0811, 43.1283],
@@ -787,7 +5854,52 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "beket-ata-landmarks-v2",
+    id: "beket-ata-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beket-Ata",
+                  "text": "Diese direkt in die Kalksteinfelsen des Ustjurt-Plateaus gehauene unterirdische Moschee ist eine verehrte Sufi-Pilgerstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        54.07016,
+                        43.597134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beket-Ata",
+                  "text": "Az Ustyurt-fennsík mészkőszikláiba vájt földalatti mecset egy tisztelt szufi zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        54.07016,
+                        43.597134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beket-Ata",
+                  "text": "Sculptată direct în stâncile de calcar ale Platoului Ustyurt, această moschee subterană este un venerat loc de pelerinaj sufit.",
+                  "category": "landmark",
+                  "coords": [
+                        54.07016,
+                        43.597134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beket Ata underground mosque",
+                  "text": "Carved directly into the limestone cliffs of the Ustyurt Plateau, this subterranean mosque is a revered Sufi pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        54.07016,
+                        43.597134
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KZ-MAN",
     coords: [54.0625, 43.5939],
@@ -843,7 +5955,124 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "astana-opera-landmarks-v2",
+    id: "astana-opera-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Astana-Ekspo KS",
+                  "text": "Diese moderne Galerie befindet sich auf dem Gelände der Weltausstellung Expo 2017 und präsentiert zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        71.418251,
+                        51.129493
+                  ]
+            },
+            {
+                  "name": "Astana Opera",
+                  "text": "Das Opernhaus beeindruckt durch seine neoklassizistische Architektur und ist die größte Bühne dieser Art in Zentralasien.",
+                  "category": "cultural",
+                  "coords": [
+                        71.410685,
+                        51.135521
+                  ]
+            },
+            {
+                  "name": "@bu Nasyr @l-Farabi meshiti",
+                  "text": "Diese Moschee ist bekannt für ihre strahlend weißen Wände und die goldene Kuppel, die das Stadtbild prägt.",
+                  "category": "religious",
+                  "coords": [
+                        71.415661,
+                        51.126644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Astana-Ekspo KS",
+                  "text": "Ez a modern galéria a 2017-es világkiállítás területén található, és kortárs művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        71.418251,
+                        51.129493
+                  ]
+            },
+            {
+                  "name": "Astana Opera",
+                  "text": "Az operaház neoklasszicista építészetével nyűgöz le, és Közép-Ázsia legnagyobb ilyen jellegű színpadának ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        71.410685,
+                        51.135521
+                  ]
+            },
+            {
+                  "name": "@bu Nasyr @l-Farabi meshiti",
+                  "text": "Ez a mecset hófehér falairól és arany kupolájáról ismert, amely meghatározza a városképet.",
+                  "category": "religious",
+                  "coords": [
+                        71.415661,
+                        51.126644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Astana-Ekspo KS",
+                  "text": "Această galerie modernă este situată pe terenul expoziției mondiale Expo 2017 și prezintă lucrări de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        71.418251,
+                        51.129493
+                  ]
+            },
+            {
+                  "name": "Astana Opera",
+                  "text": "Opera impresionează prin arhitectura sa neoclasică și găzduiește cea mai mare scenă de acest tip din Asia Centrală.",
+                  "category": "cultural",
+                  "coords": [
+                        71.410685,
+                        51.135521
+                  ]
+            },
+            {
+                  "name": "@bu Nasyr @l-Farabi meshiti",
+                  "text": "Această moschee este cunoscută pentru pereții săi albi strălucitori și cupola aurie care domină peisajul urban.",
+                  "category": "religious",
+                  "coords": [
+                        71.415661,
+                        51.126644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Astana-Ekspo KS",
+                  "text": "This modern gallery is located on the grounds of the Expo 2017 world exhibition and showcases contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        71.418251,
+                        51.129493
+                  ]
+            },
+            {
+                  "name": "Astana Opera",
+                  "text": "The opera house impresses with its neoclassical architecture and stands as the largest stage of its kind in Central Asia.",
+                  "category": "cultural",
+                  "coords": [
+                        71.410685,
+                        51.135521
+                  ]
+            },
+            {
+                  "name": "Abu Nasir Al-Farabi Mosque",
+                  "text": "This mosque is known for its bright white walls and golden dome, which is a prominent feature of the city skyline.",
+                  "category": "religious",
+                  "coords": [
+                        71.415661,
+                        51.126644
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KZ-AST",
     coords: [71.4108, 51.1350],
@@ -899,7 +6128,160 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "otrar-ruins-landmarks-v2",
+    id: "otrar-ruins-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vizit tsentr \"Otyrar\"",
+                  "text": "Ein modernes Besucherzentrum, das die tragische Geschichte der mongolischen Belagerung von Otrar dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        68.291953,
+                        42.850609
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Otrara",
+                  "text": "Dieses Museum bewahrt archäologische Funde aus den nahegelegenen Ruinen der einstigen Metropole Otrar auf.",
+                  "category": "museum",
+                  "coords": [
+                        68.368321,
+                        42.776175
+                  ]
+            },
+            {
+                  "name": "Gorodishche Sharafkent (Sharab)",
+                  "text": "Ein historisches Zentrum der Gelehrsamkeit an der Seidenstraße, wo einst der berühmte Eroberer Tamerlan verstarb.",
+                  "category": "landmark",
+                  "coords": [
+                        68.302748,
+                        42.852526
+                  ]
+            },
+            {
+                  "name": "Gorodishche",
+                  "text": "Ein Siedlungshügel, der die Fundamente einer mittelalterlichen Zitadelle und öffentlicher Badehäuser preisgibt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.309729,
+                        42.828528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vizit tsentr \"Otyrar\"",
+                  "text": "Modern látogatóközpont, amely Otrar mongol ostromának tragikus történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        68.291953,
+                        42.850609
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Otrara",
+                  "text": "Ez a múzeum az egykori Otrar metropolisz közeli romjaiból származó régészeti leleteket őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        68.368321,
+                        42.776175
+                  ]
+            },
+            {
+                  "name": "Gorodishche Sharafkent (Sharab)",
+                  "text": "A Selyemút történelmi tudományos központja, ahol egykor a híres hódító, Timur Lenk elhunyt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.302748,
+                        42.852526
+                  ]
+            },
+            {
+                  "name": "Gorodishche",
+                  "text": "Településhalom, amely egy középkori citadella és nyilvános fürdők alapjait tárja fel.",
+                  "category": "landmark",
+                  "coords": [
+                        68.309729,
+                        42.828528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vizit tsentr \"Otyrar\"",
+                  "text": "Un centru modern pentru vizitatori care documentează istoria tragică a asediului mongol asupra Otrarului.",
+                  "category": "museum",
+                  "coords": [
+                        68.291953,
+                        42.850609
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Otrara",
+                  "text": "Acest muzeu păstrează descoperiri arheologice din ruinele din apropiere ale fostei metropole Otrar.",
+                  "category": "museum",
+                  "coords": [
+                        68.368321,
+                        42.776175
+                  ]
+            },
+            {
+                  "name": "Gorodishche Sharafkent (Sharab)",
+                  "text": "Un centru istoric al învățăturii de pe Drumul Mătăsii, unde a murit cândva celebrul cuceritor Tamerlan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.302748,
+                        42.852526
+                  ]
+            },
+            {
+                  "name": "Gorodishche",
+                  "text": "O movilă de așezare care dezvăluie fundațiile unei citadele medievale și ale unor băi publice.",
+                  "category": "landmark",
+                  "coords": [
+                        68.309729,
+                        42.828528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Visitor center 'Otyrar'",
+                  "text": "A modern visitor center documenting the tragic history of the Mongol siege of Otrar.",
+                  "category": "museum",
+                  "coords": [
+                        68.291953,
+                        42.850609
+                  ]
+            },
+            {
+                  "name": "Muzei istorii Otrara",
+                  "text": "This museum preserves archaeological finds from the nearby ruins of the former metropolis of Otrar.",
+                  "category": "museum",
+                  "coords": [
+                        68.368321,
+                        42.776175
+                  ]
+            },
+            {
+                  "name": "Otrar",
+                  "text": "A historic center of learning on the Silk Road, where the famous conqueror Tamerlane once passed away.",
+                  "category": "landmark",
+                  "coords": [
+                        68.302748,
+                        42.852526
+                  ]
+            },
+            {
+                  "name": "Gorodishche",
+                  "text": "A settlement mound revealing the foundations of a medieval citadel and public bathhouses.",
+                  "category": "landmark",
+                  "coords": [
+                        68.309729,
+                        42.828528
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KZ-TUR",
     coords: [68.3039, 42.8525],
@@ -1011,7 +6393,88 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "kazakh-eli-monument-landmarks-v2",
+    id: "kazakh-eli-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalmuseum der Republik Kasachstan",
+                  "text": "In einem markanten blau-weißen Gebäude untergebracht, zeigt dieses Museum die Geschichte Kasachstans von der Antike bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        71.469382,
+                        51.11823
+                  ]
+            },
+            {
+                  "name": "KADEX",
+                  "text": "Große internationale Luftfahrt- und Verteidigungsmesse, die regelmäßig auf dem Luftwaffenstützpunkt der Stadt stattfindet.",
+                  "category": "landmark",
+                  "coords": [
+                        71.472884,
+                        51.040352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "K'azak'stan Respublikasynyn' U'lttyk' Mu'razhaiy",
+                  "text": "Egy feltűnő kék-fehér épületben kapott helyet a múzeum, amely Kazahsztán történelmét mutatja be az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        71.469382,
+                        51.11823
+                  ]
+            },
+            {
+                  "name": "KADEX",
+                  "text": "Nagyszabású nemzetközi repülési és haditechnikai kiállítás, amelyet a város légitámaszpontján rendeznek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        71.472884,
+                        51.040352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "K'azak'stan Respublikasynyn' U'lttyk' Mu'razhaiy",
+                  "text": "Găzduit într-o clădire distinctivă alb-albastră, acest muzeu prezintă istoria Kazahstanului din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        71.469382,
+                        51.11823
+                  ]
+            },
+            {
+                  "name": "KADEX",
+                  "text": "Expoziție internațională de aviație și apărare la scară largă, organizată la baza aeriană a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        71.472884,
+                        51.040352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of the Republic of Kazakhstan",
+                  "text": "Housed in a striking blue and white building, this museum showcases Kazakhstan's history from ancient times to the present.",
+                  "category": "museum",
+                  "coords": [
+                        71.469382,
+                        51.11823
+                  ]
+            },
+            {
+                  "name": "KADEX",
+                  "text": "Large-scale international aviation and defense exhibition held at the city's airbase.",
+                  "category": "landmark",
+                  "coords": [
+                        71.472884,
+                        51.040352
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KZ-AST",
     coords: [71.4689, 51.1214],
@@ -1067,7 +6530,1168 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
     }
   },
   {
-    id: "central-mosque-almaty-landmarks-v2",
+    id: "central-mosque-almaty-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bekinis",
+                  "text": "Historische Grenzbefestigung aus dem 19. Jahrhundert, die den Ursprung der modernen Stadt markiert.",
+                  "category": "fortress",
+                  "coords": [
+                        76.964502,
+                        43.275965
+                  ]
+            },
+            {
+                  "name": "Alibi Zhangil'din",
+                  "text": "Denkmal für Alibi Schangildin, einen bedeutenden Revolutionär und Forschungsreisenden.",
+                  "category": "historical",
+                  "coords": [
+                        76.948536,
+                        43.340269
+                  ]
+            },
+            {
+                  "name": "Bekinis",
+                  "text": "Archäologische Stätte der ursprünglichen Festung Wernij, die im 19. Jahrhundert erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        76.964508,
+                        43.274971
+                  ]
+            },
+            {
+                  "name": "Sofiia atyndag'y sobor",
+                  "text": "Rekonstruierte russisch-orthodoxe Kathedrale mit klassischer Architektur und goldenen Details.",
+                  "category": "religious",
+                  "coords": [
+                        76.958695,
+                        43.269618
+                  ]
+            },
+            {
+                  "name": "Almaty Ortalyk' Meshiti",
+                  "text": "Beeindruckende Moschee mit weißem Marmor, goldenen Ornamenten und einer großen blauen Kuppel.",
+                  "category": "religious",
+                  "coords": [
+                        76.953099,
+                        43.268309
+                  ]
+            },
+            {
+                  "name": "@ulie Karapet shirkeui",
+                  "text": "Armenisch-apostolische Kirche, die im traditionellen Stil aus vulkanischem Tuffstein erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        76.950739,
+                        43.329761
+                  ]
+            },
+            {
+                  "name": "German theater",
+                  "text": "Staatliches Theater, das Aufführungen in deutscher Sprache zeigt und die deutsche Minderheit vertritt.",
+                  "category": "cultural",
+                  "coords": [
+                        76.956181,
+                        43.302758
+                  ]
+            },
+            {
+                  "name": "Pokrovskaia Tserkov'",
+                  "text": "Eine orthodoxe Kirche in Almaty, die für ihren traditionellen russischen Stil und ihre blauen Kuppeln bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        76.965889,
+                        43.318761
+                  ]
+            },
+            {
+                  "name": "Kasaner Kathedrale",
+                  "text": "Eine der ältesten orthodoxen Kirchen der Stadt mit charakteristischen weißen Mauern und grünen Dächern.",
+                  "category": "religious",
+                  "coords": [
+                        76.976159,
+                        43.284626
+                  ]
+            },
+            {
+                  "name": "Kopes G'abdulvalievtin' sauda uii",
+                  "text": "Ein historisches Handelshaus aus dem 19. Jahrhundert, das die Architektur des alten Almaty im Verniy-Stil zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        76.947572,
+                        43.264933
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Filippova",
+                  "text": "Ein gut erhaltenes Kaufmannshaus aus dem frühen 20. Jahrhundert, das die koloniale Geschichte der Stadt widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        76.962276,
+                        43.264908
+                  ]
+            },
+            {
+                  "name": "Baum Tog'aiy",
+                  "text": "Ein riesiger Stadtwaldpark und ein botanisches Denkmal, das Ende des 19. Jahrhunderts von Eduard Baum angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        76.949767,
+                        43.306688
+                  ]
+            },
+            {
+                  "name": "Gaka art space",
+                  "text": "Eine moderne Kunstgalerie in Almaty, die Werke zeitgenössischer kasachischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        76.958703,
+                        43.268033
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Ein dekoratives Denkmal in Almaty, das als symbolischer Triumphbogen an einer der Hauptstraßen der Stadt gestaltet ist.",
+                  "category": "historical",
+                  "coords": [
+                        76.867007,
+                        43.312529
+                  ]
+            },
+            {
+                  "name": "Almaty",
+                  "text": "Ein 1975 errichtetes Denkmal, das der Geschichte und dem Namen der Stadt Almaty gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        76.939169,
+                        43.35688
+                  ]
+            },
+            {
+                  "name": "Barakholka nizhniaia",
+                  "text": "Ein belebter Abschnitt von Almatys riesigem Flohmarktviertel, der für seine authentische lokale Atmosphäre bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.901185,
+                        43.321544
+                  ]
+            },
+            {
+                  "name": "84\\2",
+                  "text": "Ein spezieller Handelssektor innerhalb des Baracholka-Marktkomplexes, der eine Vielzahl von Konsumgütern anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        76.897688,
+                        43.310127
+                  ]
+            },
+            {
+                  "name": "90\\1",
+                  "text": "Ein nummerierter Verkaufsbereich im weitläufigen Barakholka-Marktviertel von Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.899321,
+                        43.312104
+                  ]
+            },
+            {
+                  "name": "Saudakent, rynok",
+                  "text": "Ein lokaler Marktplatz in Almaty, auf dem Waren aus der Region Saudakent angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        76.902694,
+                        43.265712
+                  ]
+            },
+            {
+                  "name": "23\\5",
+                  "text": "Ein kleinerer Handelsabschnitt im Bereich des großen Baracholka-Flohmarkts.",
+                  "category": "cultural",
+                  "coords": [
+                        76.892035,
+                        43.292035
+                  ]
+            },
+            {
+                  "name": "Ialian novyi",
+                  "text": "Ein neuerer Abschnitt des Ialian-Marktes, der für erschwingliche Importwaren und Kleidung bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89059,
+                        43.287657
+                  ]
+            },
+            {
+                  "name": "Ak-bulak",
+                  "text": "Ein Marktplatz in Almaty, der für seine Auswahl an Haushaltswaren und Textilien bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.890973,
+                        43.296209
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "Ein spezialisierter Baumarkt in Almaty, der Werkzeuge und Materialien für Bauvorhaben anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        76.884888,
+                        43.273251
+                  ]
+            },
+            {
+                  "name": "Adem TK",
+                  "text": "Ein moderner, mehrstöckiger Einkaufskomplex im Baracholka-Viertel, der auf Kleidung und Textilien spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.888265,
+                        43.277035
+                  ]
+            },
+            {
+                  "name": "Posudnyi",
+                  "text": "Ein spezialisierter Marktbereich in Almaty, der für eine große Auswahl an Geschirr und Küchenutensilien bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.889554,
+                        43.282983
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi",
+                  "text": "Ein zentraler Ort für Baumaterialien und Heimwerkerbedarf im nördlichen Teil der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        76.891495,
+                        43.282133
+                  ]
+            },
+            {
+                  "name": "Rynok Salem",
+                  "text": "Ein lebhafter Marktplatz in Almaty, der eine Mischung aus Lebensmitteln und Haushaltswaren für die Anwohner bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        76.896447,
+                        43.300334
+                  ]
+            },
+            {
+                  "name": "2\\3",
+                  "text": "Ein kleinerer Handelssektor im großen Flohmarktkomplex im Norden von Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89297,
+                        43.306769
+                  ]
+            },
+            {
+                  "name": "2\\5",
+                  "text": "Ein Teil des dichten Netzwerks von Verkaufsstellen im traditionellen Handelsviertel der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        76.895743,
+                        43.310671
+                  ]
+            },
+            {
+                  "name": "2\\4",
+                  "text": "Ein nummerierter Marktstand, der eine Vielzahl preiswerter lokaler und importierter Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        76.896257,
+                        43.309689
+                  ]
+            },
+            {
+                  "name": "2\\7",
+                  "text": "Ein funktioneller Verkaufsabschnitt im nördlichen Industrie- und Marktgebiet von Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.895204,
+                        43.309264
+                  ]
+            },
+            {
+                  "name": "Arlan",
+                  "text": "Ein Marktplatz in Almaty, der für seine Auswahl an traditionellen Waren und Kleidung bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89915,
+                        43.316791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bekinis",
+                  "text": "19. századi határvédelmi erődítmény, amely a modern város eredetét jelzi.",
+                  "category": "fortress",
+                  "coords": [
+                        76.964502,
+                        43.275965
+                  ]
+            },
+            {
+                  "name": "Alibi Zhangil'din",
+                  "text": "Alibi Zsangeldin jelentős forradalmár és kutató tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        76.948536,
+                        43.340269
+                  ]
+            },
+            {
+                  "name": "Bekinis",
+                  "text": "Az eredeti, 19. században épült Vernij erőd régészeti helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        76.964508,
+                        43.274971
+                  ]
+            },
+            {
+                  "name": "Sofiia atyndag'y sobor",
+                  "text": "Újjáépített orosz ortodox székesegyház klasszikus építészettel és arany díszítéssel.",
+                  "category": "religious",
+                  "coords": [
+                        76.958695,
+                        43.269618
+                  ]
+            },
+            {
+                  "name": "Almaty Ortalyk' Meshiti",
+                  "text": "Lenyűgöző mecset fehér márvánnyal, arany díszítésekkel és egy nagy kék kupolával.",
+                  "category": "religious",
+                  "coords": [
+                        76.953099,
+                        43.268309
+                  ]
+            },
+            {
+                  "name": "@ulie Karapet shirkeui",
+                  "text": "Örmény apostoli templom, amely hagyományos stílusban, vulkáni tufából épült.",
+                  "category": "religious",
+                  "coords": [
+                        76.950739,
+                        43.329761
+                  ]
+            },
+            {
+                  "name": "German theater",
+                  "text": "Német nyelven játszó állami színház, amely a helyi német kisebbséget képviseli.",
+                  "category": "cultural",
+                  "coords": [
+                        76.956181,
+                        43.302758
+                  ]
+            },
+            {
+                  "name": "Pokrovskaia Tserkov'",
+                  "text": "Almati ortodox temploma, amely hagyományos orosz stílusáról és kék kupoláiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        76.965889,
+                        43.318761
+                  ]
+            },
+            {
+                  "name": "K'azandyk' K'u'dai Anasynyn' belgishesinin' k'u'rmetine sobor",
+                  "text": "A város egyik legrégebbi ortodox temploma, jellegzetes fehér falaival és zöld tetőivel.",
+                  "category": "religious",
+                  "coords": [
+                        76.976159,
+                        43.284626
+                  ]
+            },
+            {
+                  "name": "Kopes G'abdulvalievtin' sauda uii",
+                  "text": "Egy történelmi, 19. századi kereskedőház, amely a régi Almati Vernij-stílusú építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        76.947572,
+                        43.264933
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Filippova",
+                  "text": "Egy jól megőrzött kereskedőház a 20. század elejéről, amely a város gyarmati múltját tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        76.962276,
+                        43.264908
+                  ]
+            },
+            {
+                  "name": "Baum Tog'aiy",
+                  "text": "Egy hatalmas városi erdőpark és botanikai műemlék, amelyet a 19. század végén Eduard Baum telepített.",
+                  "category": "park",
+                  "coords": [
+                        76.949767,
+                        43.306688
+                  ]
+            },
+            {
+                  "name": "Gaka art space",
+                  "text": "Modern művészeti galéria Almatiban, amely kortárs kazah művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.958703,
+                        43.268033
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Almati egyik díszes emlékműve, amelyet szimbolikus diadalívként alakítottak ki a város egyik főútján.",
+                  "category": "historical",
+                  "coords": [
+                        76.867007,
+                        43.312529
+                  ]
+            },
+            {
+                  "name": "Almaty",
+                  "text": "Egy 1975-ben emelt emlékmű, amelyet Almati városának történelmének és nevének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        76.939169,
+                        43.35688
+                  ]
+            },
+            {
+                  "name": "Barakholka nizhniaia",
+                  "text": "Almati hatalmas bolhapiac-negyedének nyüzsgő része, amely autentikus helyi hangulatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        76.901185,
+                        43.321544
+                  ]
+            },
+            {
+                  "name": "84\\2",
+                  "text": "Egy konkrét kereskedelmi szektor a Baraholka piac-komplexumban, amely különféle fogyasztási cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        76.897688,
+                        43.310127
+                  ]
+            },
+            {
+                  "name": "90\\1",
+                  "text": "Egy számozott árusítóhely Almati kiterjedt Baraholka piacnegyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        76.899321,
+                        43.312104
+                  ]
+            },
+            {
+                  "name": "Saudakent, rynok",
+                  "text": "Egy helyi piactér Almatiban, ahol Szaudakent régiójából származó árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        76.902694,
+                        43.265712
+                  ]
+            },
+            {
+                  "name": "23\\5",
+                  "text": "Egy kisebb kereskedelmi szekció a nagy Baraholka bolhapiac területén.",
+                  "category": "cultural",
+                  "coords": [
+                        76.892035,
+                        43.292035
+                  ]
+            },
+            {
+                  "name": "Ialian novyi",
+                  "text": "Az Ialian piac egy újabb szakasza, amely megfizethető importcikkeiről és ruháiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89059,
+                        43.287657
+                  ]
+            },
+            {
+                  "name": "Ak-bulak",
+                  "text": "Piactér Almatiban, amely háztartási cikkek és textilek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        76.890973,
+                        43.296209
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "Specializált építőanyag-piac Almatiban, amely szerszámokat és anyagokat kínál építkezésekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        76.884888,
+                        43.273251
+                  ]
+            },
+            {
+                  "name": "Adem TK",
+                  "text": "Egy modern, többszintes bevásárlóközpont a Baraholka negyedben, amely ruházatra és textilekre szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        76.888265,
+                        43.277035
+                  ]
+            },
+            {
+                  "name": "Posudnyi",
+                  "text": "Speciális piaci részleg Almatiban, amely edények és konyhai eszközök széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        76.889554,
+                        43.282983
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi",
+                  "text": "Építőanyagok és barkácsfelszerelések központi helyszíne a város északi részén.",
+                  "category": "cultural",
+                  "coords": [
+                        76.891495,
+                        43.282133
+                  ]
+            },
+            {
+                  "name": "Rynok Salem",
+                  "text": "Nyüzsgő piactér Almatiban, amely élelmiszerek és háztartási cikkek keverékét kínálja a helyi lakosoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        76.896447,
+                        43.300334
+                  ]
+            },
+            {
+                  "name": "2\\3",
+                  "text": "Egy kisebb kereskedelmi szektor Almati északi részén, a nagy bolhapiac-komplexumban.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89297,
+                        43.306769
+                  ]
+            },
+            {
+                  "name": "2\\5",
+                  "text": "A város hagyományos kereskedelmi negyedében található árusítóhelyek sűrű hálózatának része.",
+                  "category": "cultural",
+                  "coords": [
+                        76.895743,
+                        43.310671
+                  ]
+            },
+            {
+                  "name": "2\\4",
+                  "text": "Egy számozott piaci stand, amely különféle olcsó helyi és importált árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        76.896257,
+                        43.309689
+                  ]
+            },
+            {
+                  "name": "2\\7",
+                  "text": "Funkcionális árusító szekció Almati északi ipari és piaci övezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        76.895204,
+                        43.309264
+                  ]
+            },
+            {
+                  "name": "Arlan",
+                  "text": "Piactér Almatiban, amely hagyományos áruk és ruhák választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89915,
+                        43.316791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bekinis",
+                  "text": "Fortificație de frontieră din secolul al XIX-lea, care marchează originile orașului modern.",
+                  "category": "fortress",
+                  "coords": [
+                        76.964502,
+                        43.275965
+                  ]
+            },
+            {
+                  "name": "Alibi Zhangil'din",
+                  "text": "Monument dedicat lui Alibi Jangheldin, un important revoluționar și explorator.",
+                  "category": "historical",
+                  "coords": [
+                        76.948536,
+                        43.340269
+                  ]
+            },
+            {
+                  "name": "Bekinis",
+                  "text": "Sit arheologic al fortăreței originale Vernîi, construită în secolul al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        76.964508,
+                        43.274971
+                  ]
+            },
+            {
+                  "name": "Sofiia atyndag'y sobor",
+                  "text": "Catedrală ortodoxă rusă reconstruită, cu arhitectură clasică și detalii aurii.",
+                  "category": "religious",
+                  "coords": [
+                        76.958695,
+                        43.269618
+                  ]
+            },
+            {
+                  "name": "Almaty Ortalyk' Meshiti",
+                  "text": "Moschee impresionantă cu marmură albă, ornamente aurii și o cupolă albastră mare.",
+                  "category": "religious",
+                  "coords": [
+                        76.953099,
+                        43.268309
+                  ]
+            },
+            {
+                  "name": "@ulie Karapet shirkeui",
+                  "text": "Biserică apostolică armeană construită în stil tradițional din tuf vulcanic.",
+                  "category": "religious",
+                  "coords": [
+                        76.950739,
+                        43.329761
+                  ]
+            },
+            {
+                  "name": "German theater",
+                  "text": "Teatru de stat care prezintă spectacole în limba germană, reprezentând minoritatea germană.",
+                  "category": "cultural",
+                  "coords": [
+                        76.956181,
+                        43.302758
+                  ]
+            },
+            {
+                  "name": "Pokrovskaia Tserkov'",
+                  "text": "O biserică ortodoxă din Almaty, cunoscută pentru stilul rusesc tradițional și cupolele sale albastre.",
+                  "category": "religious",
+                  "coords": [
+                        76.965889,
+                        43.318761
+                  ]
+            },
+            {
+                  "name": "K'azandyk' K'u'dai Anasynyn' belgishesinin' k'u'rmetine sobor",
+                  "text": "Una dintre cele mai vechi biserici ortodoxe din oraș, cu pereți albi caracteristici și acoperișuri verzi.",
+                  "category": "religious",
+                  "coords": [
+                        76.976159,
+                        43.284626
+                  ]
+            },
+            {
+                  "name": "Kopes G'abdulvalievtin' sauda uii",
+                  "text": "O casă comercială istorică din secolul al XIX-lea, care prezintă arhitectura în stil Vernîi a vechiului Almaty.",
+                  "category": "landmark",
+                  "coords": [
+                        76.947572,
+                        43.264933
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Filippova",
+                  "text": "O casă de negustor bine conservată de la începutul secolului al XX-lea, reflectând istoria colonială a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        76.962276,
+                        43.264908
+                  ]
+            },
+            {
+                  "name": "Baum Tog'aiy",
+                  "text": "Un parc forestier urban masiv și monument botanic plantat la sfârșitul secolului al XIX-lea de Eduard Baum.",
+                  "category": "park",
+                  "coords": [
+                        76.949767,
+                        43.306688
+                  ]
+            },
+            {
+                  "name": "Gaka art space",
+                  "text": "O galerie de artă modernă din Almaty care expune lucrări ale artiștilor kazahi contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        76.958703,
+                        43.268033
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Un monument decorativ din Almaty conceput ca un arc de triumf simbolic pe unul dintre bulevardele principale ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        76.867007,
+                        43.312529
+                  ]
+            },
+            {
+                  "name": "Almaty",
+                  "text": "Un monument ridicat în 1975, dedicat istoriei și numelui orașului Almaty.",
+                  "category": "historical",
+                  "coords": [
+                        76.939169,
+                        43.35688
+                  ]
+            },
+            {
+                  "name": "Barakholka nizhniaia",
+                  "text": "O secțiune plină de viață a uriașului district al pieței de vechituri din Almaty, cunoscută pentru atmosfera sa locală autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        76.901185,
+                        43.321544
+                  ]
+            },
+            {
+                  "name": "84\\2",
+                  "text": "Un sector comercial specific în cadrul complexului pieței Baraholka, care oferă o varietate de bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        76.897688,
+                        43.310127
+                  ]
+            },
+            {
+                  "name": "90\\1",
+                  "text": "O zonă de vânzare numerotată în vastul district al pieței Baraholka din Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.899321,
+                        43.312104
+                  ]
+            },
+            {
+                  "name": "Saudakent, rynok",
+                  "text": "O piață locală din Almaty care oferă mărfuri provenite din regiunea Saudakent.",
+                  "category": "cultural",
+                  "coords": [
+                        76.902694,
+                        43.265712
+                  ]
+            },
+            {
+                  "name": "23\\5",
+                  "text": "O secțiune comercială mai mică în zona marii piețe de vechituri Baraholka.",
+                  "category": "cultural",
+                  "coords": [
+                        76.892035,
+                        43.292035
+                  ]
+            },
+            {
+                  "name": "Ialian novyi",
+                  "text": "O secțiune mai nouă a pieței Ialian, cunoscută pentru mărfuri de import accesibile și îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89059,
+                        43.287657
+                  ]
+            },
+            {
+                  "name": "Ak-bulak",
+                  "text": "O piață din Almaty cunoscută pentru selecția sa de articole de uz casnic și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        76.890973,
+                        43.296209
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "O piață specializată de construcții din Almaty, care oferă unelte și materiale pentru proiecte de edificare.",
+                  "category": "cultural",
+                  "coords": [
+                        76.884888,
+                        43.273251
+                  ]
+            },
+            {
+                  "name": "Adem TK",
+                  "text": "Un complex comercial modern, cu mai multe etaje, în cartierul Baraholka, specializat în îmbrăcăminte și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        76.888265,
+                        43.277035
+                  ]
+            },
+            {
+                  "name": "Posudnyi",
+                  "text": "O secțiune de piață specializată din Almaty, cunoscută pentru o selecție largă de veselă și ustensile de bucătărie.",
+                  "category": "cultural",
+                  "coords": [
+                        76.889554,
+                        43.282983
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi",
+                  "text": "O locație centrală pentru materiale de construcție și articole de bricolaj în partea de nord a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        76.891495,
+                        43.282133
+                  ]
+            },
+            {
+                  "name": "Rynok Salem",
+                  "text": "O piață plină de viață din Almaty, care oferă un amestec de produse alimentare și articole de uz casnic pentru rezidenții locali.",
+                  "category": "cultural",
+                  "coords": [
+                        76.896447,
+                        43.300334
+                  ]
+            },
+            {
+                  "name": "2\\3",
+                  "text": "Un sector comercial mai mic în cadrul marelui complex de piețe de vechituri din nordul orașului Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89297,
+                        43.306769
+                  ]
+            },
+            {
+                  "name": "2\\5",
+                  "text": "O parte a rețelei dense de puncte de vânzare din cartierul comercial tradițional al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        76.895743,
+                        43.310671
+                  ]
+            },
+            {
+                  "name": "2\\4",
+                  "text": "O tarabă de piață numerotată care oferă o varietate de mărfuri locale și de import la prețuri accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        76.896257,
+                        43.309689
+                  ]
+            },
+            {
+                  "name": "2\\7",
+                  "text": "O secțiune de vânzare funcțională în zona industrială și comercială de nord a orașului Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.895204,
+                        43.309264
+                  ]
+            },
+            {
+                  "name": "Arlan",
+                  "text": "O piață din Almaty cunoscută pentru selecția sa de mărfuri tradiționale și îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89915,
+                        43.316791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Verniy Fortress",
+                  "text": "19th-century border fortification marking the origins of the modern city.",
+                  "category": "fortress",
+                  "coords": [
+                        76.964502,
+                        43.275965
+                  ]
+            },
+            {
+                  "name": "Alibi Zhangildin Statue",
+                  "text": "Monument dedicated to Alibi Zhangildin, a prominent revolutionary and explorer.",
+                  "category": "historical",
+                  "coords": [
+                        76.948536,
+                        43.340269
+                  ]
+            },
+            {
+                  "name": "Bekinis",
+                  "text": "Archaeological site of the original Verny fortress, established in the 19th century.",
+                  "category": "historical",
+                  "coords": [
+                        76.964508,
+                        43.274971
+                  ]
+            },
+            {
+                  "name": "Sofiia atyndag'y sobor",
+                  "text": "Reconstructed Russian Orthodox cathedral featuring classic architecture and golden details.",
+                  "category": "religious",
+                  "coords": [
+                        76.958695,
+                        43.269618
+                  ]
+            },
+            {
+                  "name": "Almaty Central Mosque",
+                  "text": "Impressive mosque featuring white marble, golden ornaments, and a large blue dome.",
+                  "category": "religious",
+                  "coords": [
+                        76.953099,
+                        43.268309
+                  ]
+            },
+            {
+                  "name": "@ulie Karapet shirkeui",
+                  "text": "Armenian Apostolic church built in the traditional style using volcanic tuff stone.",
+                  "category": "religious",
+                  "coords": [
+                        76.950739,
+                        43.329761
+                  ]
+            },
+            {
+                  "name": "German theater",
+                  "text": "State theatre performing plays in the German language, representing the local German minority.",
+                  "category": "cultural",
+                  "coords": [
+                        76.956181,
+                        43.302758
+                  ]
+            },
+            {
+                  "name": "Pokrovskaia Tserkov'",
+                  "text": "An Orthodox church in Almaty known for its traditional Russian style and blue domes.",
+                  "category": "religious",
+                  "coords": [
+                        76.965889,
+                        43.318761
+                  ]
+            },
+            {
+                  "name": "Our Lady of Kazan church",
+                  "text": "One of the city's oldest Orthodox churches, featuring characteristic white walls and green roofs.",
+                  "category": "religious",
+                  "coords": [
+                        76.976159,
+                        43.284626
+                  ]
+            },
+            {
+                  "name": "Merchant Gabdulvaliev's Trading House",
+                  "text": "A historic 19th-century trading house showcasing the Verniy-style architecture of old Almaty.",
+                  "category": "landmark",
+                  "coords": [
+                        76.947572,
+                        43.264933
+                  ]
+            },
+            {
+                  "name": "Dom kuptsa Filippova",
+                  "text": "A well-preserved merchant's house from the early 20th century, reflecting the city's colonial history.",
+                  "category": "landmark",
+                  "coords": [
+                        76.962276,
+                        43.264908
+                  ]
+            },
+            {
+                  "name": "Baum grove",
+                  "text": "A massive urban forest park and botanical monument planted in the late 19th century by Eduard Baum.",
+                  "category": "park",
+                  "coords": [
+                        76.949767,
+                        43.306688
+                  ]
+            },
+            {
+                  "name": "Gaka art space",
+                  "text": "A modern art gallery in Almaty showcasing works by contemporary Kazakh artists.",
+                  "category": "museum",
+                  "coords": [
+                        76.958703,
+                        43.268033
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "A decorative monument in Almaty designed as a symbolic triumphal arch on one of the city's main avenues.",
+                  "category": "historical",
+                  "coords": [
+                        76.867007,
+                        43.312529
+                  ]
+            },
+            {
+                  "name": "Almaty",
+                  "text": "A monument erected in 1975 dedicated to the history and name of Almaty city.",
+                  "category": "historical",
+                  "coords": [
+                        76.939169,
+                        43.35688
+                  ]
+            },
+            {
+                  "name": "Barakholka nizhniaia",
+                  "text": "A bustling section of Almaty's massive flea market district known for its authentic local atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        76.901185,
+                        43.321544
+                  ]
+            },
+            {
+                  "name": "84\\2",
+                  "text": "A specific trading sector within the Barakholka market complex, offering a variety of consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        76.897688,
+                        43.310127
+                  ]
+            },
+            {
+                  "name": "90\\1",
+                  "text": "A numbered vending area within Almaty's sprawling Barakholka market district.",
+                  "category": "cultural",
+                  "coords": [
+                        76.899321,
+                        43.312104
+                  ]
+            },
+            {
+                  "name": "Saudakent, rynok",
+                  "text": "A local marketplace in Almaty featuring goods sourced from the Saudakent region.",
+                  "category": "cultural",
+                  "coords": [
+                        76.902694,
+                        43.265712
+                  ]
+            },
+            {
+                  "name": "23\\5",
+                  "text": "A smaller trading section within the area of the large Barakholka flea market.",
+                  "category": "cultural",
+                  "coords": [
+                        76.892035,
+                        43.292035
+                  ]
+            },
+            {
+                  "name": "Ialian novyi",
+                  "text": "A newer section of the Ialian market known for affordable imported goods and clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89059,
+                        43.287657
+                  ]
+            },
+            {
+                  "name": "Ak-bulak",
+                  "text": "A marketplace in Almaty known for its selection of household goods and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        76.890973,
+                        43.296209
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "A specialized construction market in Almaty offering tools and materials for building projects.",
+                  "category": "cultural",
+                  "coords": [
+                        76.884888,
+                        43.273251
+                  ]
+            },
+            {
+                  "name": "Adem TK",
+                  "text": "A modern multi-level shopping complex in the Barakholka district specializing in clothing and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        76.888265,
+                        43.277035
+                  ]
+            },
+            {
+                  "name": "Posudnyi",
+                  "text": "A specialized market section in Almaty known for a wide selection of tableware and kitchen utensils.",
+                  "category": "cultural",
+                  "coords": [
+                        76.889554,
+                        43.282983
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi",
+                  "text": "A central location for building materials and home improvement supplies in the northern part of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        76.891495,
+                        43.282133
+                  ]
+            },
+            {
+                  "name": "Rynok Salem",
+                  "text": "A lively marketplace in Almaty offering a mix of food and household goods for local residents.",
+                  "category": "cultural",
+                  "coords": [
+                        76.896447,
+                        43.300334
+                  ]
+            },
+            {
+                  "name": "2\\3",
+                  "text": "A smaller trading sector within the large flea market complex in northern Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89297,
+                        43.306769
+                  ]
+            },
+            {
+                  "name": "2\\5",
+                  "text": "Part of the dense network of vending stalls in the city's traditional commercial district.",
+                  "category": "cultural",
+                  "coords": [
+                        76.895743,
+                        43.310671
+                  ]
+            },
+            {
+                  "name": "2\\4",
+                  "text": "A numbered market stall offering a variety of inexpensive local and imported goods.",
+                  "category": "cultural",
+                  "coords": [
+                        76.896257,
+                        43.309689
+                  ]
+            },
+            {
+                  "name": "2\\7",
+                  "text": "A functional vending section in the northern industrial and market area of Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.895204,
+                        43.309264
+                  ]
+            },
+            {
+                  "name": "Arlan",
+                  "text": "A marketplace in Almaty known for its selection of traditional goods and clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        76.89915,
+                        43.316791
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KZ-ALA",
     coords: [76.9511, 43.2686],

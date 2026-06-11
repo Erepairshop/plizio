@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraIndonesiaReliefV2: POI[] = [
   {
-    id: "barisan-mountains-relief-v2",
+    id: "barisan-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Al-Hidayah",
+                  "text": "Eine lokale Dorfmoschee vor der üppigen, zerklüfteten Kulisse des Barisan-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        102.192343,
+                        -3.434489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Al-Hidayah",
+                  "text": "Egy helyi falusi mecset a Barisan-hegység buja, zord háttere előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.192343,
+                        -3.434489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Al-Hidayah",
+                  "text": "O moschee de sat situată pe fundalul luxuriant și accidentat al Munților Barisan.",
+                  "category": "landmark",
+                  "coords": [
+                        102.192343,
+                        -3.434489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Al-Hidayah",
+                  "text": "A local village mosque set against the lush, rugged backdrop of the Barisan Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        102.192343,
+                        -3.434489
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ID-SU",
     coords: [102.25, -3.5],
@@ -99,7 +144,124 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "dieng-plateau-relief-v2",
+    id: "dieng-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stunning Sunrise Viewpoint",
+                  "text": "Ein Aussichtspunkt auf dem Dieng-Plateau, der einen spektakulären Blick auf den Sonnenaufgang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        109.93515,
+                        -7.200904
+                  ]
+            },
+            {
+                  "name": "Candi Dwarawati",
+                  "text": "Eine archäologische Stätte mit den Ruinen eines antiken Hindu-Tempels auf dem Dieng-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        109.910807,
+                        -7.197522
+                  ]
+            },
+            {
+                  "name": "Tuk Bimo Lukar",
+                  "text": "Eine heilige Quelle auf dem Dieng-Plateau, deren Wasser laut Legende ewige Jugend verleiht.",
+                  "category": "landmark",
+                  "coords": [
+                        109.913015,
+                        -7.204555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stunning Sunrise Viewpoint",
+                  "text": "Kilátópont a Dieng-fennsíkon, amely látványos kilátást nyújt a napfelkeltére.",
+                  "category": "natural",
+                  "coords": [
+                        109.93515,
+                        -7.200904
+                  ]
+            },
+            {
+                  "name": "Candi Dwarawati",
+                  "text": "Régészeti lelőhely egy ősi hindu templom romjaival a Dieng-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        109.910807,
+                        -7.197522
+                  ]
+            },
+            {
+                  "name": "Tuk Bimo Lukar",
+                  "text": "Szent forrás a Dieng-fennsíkon, amelynek vize a legenda szerint örök ifjúságot ad.",
+                  "category": "landmark",
+                  "coords": [
+                        109.913015,
+                        -7.204555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stunning Sunrise Viewpoint",
+                  "text": "Un punct de observație pe platoul Dieng, care oferă o vedere spectaculoasă asupra răsăritului.",
+                  "category": "natural",
+                  "coords": [
+                        109.93515,
+                        -7.200904
+                  ]
+            },
+            {
+                  "name": "Candi Dwarawati",
+                  "text": "Un sit arheologic cu ruinele unui templu hindus antic pe platoul Dieng.",
+                  "category": "historical",
+                  "coords": [
+                        109.910807,
+                        -7.197522
+                  ]
+            },
+            {
+                  "name": "Tuk Bimo Lukar",
+                  "text": "Un izvor sacru pe platoul Dieng, a cărui apă, conform legendei, oferă tinerețe veșnică.",
+                  "category": "landmark",
+                  "coords": [
+                        109.913015,
+                        -7.204555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stunning Sunrise Viewpoint",
+                  "text": "A viewpoint on the Dieng Plateau offering a spectacular view of the sunrise.",
+                  "category": "natural",
+                  "coords": [
+                        109.93515,
+                        -7.200904
+                  ]
+            },
+            {
+                  "name": "Candi Dwarawati",
+                  "text": "An archaeological site featuring the ruins of an ancient Hindu temple on the Dieng Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        109.910807,
+                        -7.197522
+                  ]
+            },
+            {
+                  "name": "Tuk Bimo Lukar",
+                  "text": "A sacred spring on the Dieng Plateau whose water is said to grant eternal youth according to legend.",
+                  "category": "landmark",
+                  "coords": [
+                        109.913015,
+                        -7.204555
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "ID-JT",
     coords: [109.9167, -7.2],
@@ -147,7 +309,1384 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "kerinci-valley-relief-v2",
+    id: "kerinci-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Kerinci",
+                  "text": "Das Museum zeigt Megalith-Statuen und alte Rindenmanuskripte, die typisch für das Kerinci-Tal sind.",
+                  "category": "museum",
+                  "coords": [
+                        101.523666,
+                        -2.127802
+                  ]
+            },
+            {
+                  "name": "Masjid Kuno Tanjung Pauh Ilir",
+                  "text": "Eine Jahrhunderte alte Holzzoschee mit einem mehrstufigen Dach und traditionellen Schnitzereien.",
+                  "category": "religious",
+                  "coords": [
+                        101.434787,
+                        -2.117546
+                  ]
+            },
+            {
+                  "name": "Bukit Tebakar",
+                  "text": "Ein markanter Berggipfel im Kerinci-Seblat-Nationalpark mit Panoramablick über das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        101.526342,
+                        -2.029707
+                  ]
+            },
+            {
+                  "name": "Baitul Makmur",
+                  "text": "Eine Dorfmoschee im Kerinci-Tal, die für ihre traditionelle sumatranische Dachlinie bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.42587,
+                        -2.070368
+                  ]
+            },
+            {
+                  "name": "Pasar Tanjung Bajure",
+                  "text": "Der Hauptmarktplatz von Sungai Penuh, auf dem lokaler Tee und Zimt gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        101.398981,
+                        -2.063581
+                  ]
+            },
+            {
+                  "name": "Pasar Hiang",
+                  "text": "Ein traditioneller Hochlandmarkt, auf dem Bauern frische Bergprodukte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        101.467186,
+                        -2.081655
+                  ]
+            },
+            {
+                  "name": "Pasar Sanggaran Agung",
+                  "text": "Ein Markt am Seeufer, der für seine Vielfalt an frischen Fischen aus dem Kerinci-See bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        101.520952,
+                        -2.119792
+                  ]
+            },
+            {
+                  "name": "Pasar Jujun",
+                  "text": "Ein geschäftiger lokaler Knotenpunkt für den Handel mit den berühmten Kaffee- und Gewürzernten der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        101.50772,
+                        -2.179634
+                  ]
+            },
+            {
+                  "name": "Objek Wisata Danau Kerinci",
+                  "text": "Ein malerischer Vulkansee, der von fruchtbaren Hügeln und lokalen Fischerdörfern umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.522538,
+                        -2.126982
+                  ]
+            },
+            {
+                  "name": "Mushollah Raudatul Abadin",
+                  "text": "Ein bescheidener Gemeinschaftsgebetraum in einem ruhigen Kerinci-Dorf.",
+                  "category": "landmark",
+                  "coords": [
+                        101.48964,
+                        -2.104081
+                  ]
+            },
+            {
+                  "name": "Masjid Ad Din",
+                  "text": "Eine lokale Moschee, die als religiöses und soziales Zentrum für die Gemeinschaft im Tal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.469607,
+                        -2.079633
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim",
+                  "text": "Ein einfacher Ort der Anbetung für die täglichen Gebete im ländlichen Kerinci-Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        101.397746,
+                        -2.065687
+                  ]
+            },
+            {
+                  "name": "Al-Akbar",
+                  "text": "Eine Moschee, die der lokalen muslimischen Bevölkerung im malerischen Bezirk Kerinci dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.400437,
+                        -2.062334
+                  ]
+            },
+            {
+                  "name": "Masjid Taqwa",
+                  "text": "Eine Gemeinschaftsmoschee, in der sich die Bewohner des Tals zum Freitagsgebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        101.400534,
+                        -2.07167
+                  ]
+            },
+            {
+                  "name": "Mushalla Nurul Ikhsan",
+                  "text": "Ein kleines Gebetshaus in der Nachbarschaft für die lokale muslimische Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440627,
+                        -2.14439
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mubarak",
+                  "text": "Eine Moschee inmitten der grünen Reisfelder und Hügel der Kerinci-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        101.467717,
+                        -2.171551
+                  ]
+            },
+            {
+                  "name": "Masjid Keramat",
+                  "text": "Eine traditionelle Moschee im Hochland des Kerinci-Tals, die als lokales spirituelles Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.466926,
+                        -2.170026
+                  ]
+            },
+            {
+                  "name": "Musholla Baitul Nur",
+                  "text": "Ein bescheidenes islamisches Gebetshaus für die lokale Gemeinschaft im Kerinci-Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        101.444675,
+                        -2.151552
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Ihsan",
+                  "text": "Ein islamisches Gotteshaus mit traditioneller Dachgestaltung in der fruchtbaren Region des Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        101.431963,
+                        -2.119386
+                  ]
+            },
+            {
+                  "name": "Musholla Shilaturrahmi",
+                  "text": "Eine kleine Gemeinschaftsgebetsstätte inmitten der üppigen Landschaften der Kerinci-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        101.426771,
+                        -2.107093
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Tanjung Pauh Mudik",
+                  "text": "Eine bedeutende große Moschee mit charakteristischen lokalen Bauelementen in Tanjung Pauh Mudik.",
+                  "category": "landmark",
+                  "coords": [
+                        101.428591,
+                        -2.109784
+                  ]
+            },
+            {
+                  "name": "Masjid Pahlawan",
+                  "text": "Eine Gemeindemoschee, die zu Ehren von Helden benannt wurde und den Gläubigen im Kerinci-Tal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440235,
+                        -2.099494
+                  ]
+            },
+            {
+                  "name": "Nurul Iman",
+                  "text": "Ein spiritueller Treffpunkt für die lokale Bevölkerung in der malerischen Umgebung des Kerinci-Hochlands.",
+                  "category": "landmark",
+                  "coords": [
+                        101.411756,
+                        -2.090596
+                  ]
+            },
+            {
+                  "name": "Nurul Falah",
+                  "text": "Ein lokaler Gebetsort, der durch seine typische Lage in einem sumatranischen Dorf geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.414983,
+                        -2.090907
+                  ]
+            },
+            {
+                  "name": "Masjid Jamik Kumun",
+                  "text": "Eine bedeutende Freitagsmoschee im Kumun-Distrikt des Hochlandtals.",
+                  "category": "landmark",
+                  "coords": [
+                        101.416812,
+                        -2.092535
+                  ]
+            },
+            {
+                  "name": "Mushala",
+                  "text": "Ein einfaches, funktionales Gebetshaus für den täglichen islamischen Gottesdienst in der Bergregion.",
+                  "category": "landmark",
+                  "coords": [
+                        101.417109,
+                        -2.089763
+                  ]
+            },
+            {
+                  "name": "Nurul Islam",
+                  "text": "Eine Stadtteilmoschee, die Raum für tägliche Gebete und Gemeinschaftstreffen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.423904,
+                        -2.061934
+                  ]
+            },
+            {
+                  "name": "Manarul Huda",
+                  "text": "Eine lokale religiöse Stätte, die den Dorfgemeinschaften des fruchtbaren Kerinci-Tals dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.425337,
+                        -2.065048
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiatul Ikhlas",
+                  "text": "Eine Gemeindemoschee, die von den Anwohnern für die wichtigen Freitagsgebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        101.437063,
+                        -2.076015
+                  ]
+            },
+            {
+                  "name": "Musholla Nurul Iman",
+                  "text": "Ein kleiner, lokaler Gebetsraum, der in die Landschaft des Kerinci-Hochlands eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.439881,
+                        -2.077624
+                  ]
+            },
+            {
+                  "name": "Masjid Jamik Al-Falah",
+                  "text": "Eine zentrale Moschee für die Gemeinschaft mit typisch regionaler islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440994,
+                        -2.077163
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas",
+                  "text": "Ein spirituelles Zentrum für die Gläubigen in der Region des Kerinci-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427543,
+                        -2.082938
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrohmi",
+                  "text": "Ein traditionelles islamisches Gebetshaus, das der lokalen Bevölkerung zur Verfügung steht.",
+                  "category": "landmark",
+                  "coords": [
+                        101.448611,
+                        -2.088207
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Sebukar",
+                  "text": "Eine große, zentrale Hauptmoschee, die das Sebukar-Gebiet im Kerinci-Hochland versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        101.457512,
+                        -2.096007
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Abrar",
+                  "text": "Ein Ort der Andacht für die muslimische Gemeinde in dem vulkanisch geprägten Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445652,
+                        -2.083661
+                  ]
+            },
+            {
+                  "name": "Masjid Jami'atul Hikmah",
+                  "text": "Eine Gemeindemoschee, die islamische Rituale und Versammlungen in der Region ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        101.452896,
+                        -2.078095
+                  ]
+            },
+            {
+                  "name": "Masjid Addarain",
+                  "text": "Eine Stadtteilmoschee, die einen friedlichen Ort für Gebete im Kerinci-Tal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.459472,
+                        -2.076901
+                  ]
+            },
+            {
+                  "name": "Masjid Sabilul Huda",
+                  "text": "Ein lokales islamisches Zentrum für spirituelle Reflexion und gemeinsames Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.470208,
+                        -2.077078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Kerinci",
+                  "text": "A múzeum a Kerinci-völgyre jellemző megalitikus szobrokat és ősi kéregkéziratokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        101.523666,
+                        -2.127802
+                  ]
+            },
+            {
+                  "name": "Masjid Kuno Tanjung Pauh Ilir",
+                  "text": "Évszázados fa mecset többszintes tetővel és hagyományos faragványokkal.",
+                  "category": "religious",
+                  "coords": [
+                        101.434787,
+                        -2.117546
+                  ]
+            },
+            {
+                  "name": "Bukit Tebakar",
+                  "text": "A Kerinci Seblat Nemzeti Park jellegzetes hegycsúcsa, ahonnan panorámás kilátás nyílik a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        101.526342,
+                        -2.029707
+                  ]
+            },
+            {
+                  "name": "Baitul Makmur",
+                  "text": "Falusi mecset a Kerinci-völgyben, amely hagyományos szumátrai tetővonaláról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        101.42587,
+                        -2.070368
+                  ]
+            },
+            {
+                  "name": "Pasar Tanjung Bajure",
+                  "text": "Sungai Penuh fő piaca, ahol helyi teával és fahéjjal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        101.398981,
+                        -2.063581
+                  ]
+            },
+            {
+                  "name": "Pasar Hiang",
+                  "text": "Hagyományos hegyvidéki piac, ahol a gazdák friss hegyi termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        101.467186,
+                        -2.081655
+                  ]
+            },
+            {
+                  "name": "Pasar Sanggaran Agung",
+                  "text": "Tóparti piac, amely a Kerinci-tóból származó friss halak választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        101.520952,
+                        -2.119792
+                  ]
+            },
+            {
+                  "name": "Pasar Jujun",
+                  "text": "Nyüzsgő helyi központ a régió híres kávé- és fűszertermésének kereskedelmére.",
+                  "category": "cultural",
+                  "coords": [
+                        101.50772,
+                        -2.179634
+                  ]
+            },
+            {
+                  "name": "Objek Wisata Danau Kerinci",
+                  "text": "Festői vulkáni tó, amelyet termékeny dombok és helyi halászfalvak vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        101.522538,
+                        -2.126982
+                  ]
+            },
+            {
+                  "name": "Mushollah Raudatul Abadin",
+                  "text": "Szerény közösségi imaház egy csendes Kerinci-faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.48964,
+                        -2.104081
+                  ]
+            },
+            {
+                  "name": "Masjid Ad Din",
+                  "text": "Helyi mecset, amely a völgy közösségének vallási és társadalmi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        101.469607,
+                        -2.079633
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim",
+                  "text": "Egyszerű istentiszteleti hely a napi imákhoz a vidéki Kerinci-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        101.397746,
+                        -2.065687
+                  ]
+            },
+            {
+                  "name": "Al-Akbar",
+                  "text": "Mecset, amely a helyi muszlim lakosságot szolgálja a festői Kerinci körzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.400437,
+                        -2.062334
+                  ]
+            },
+            {
+                  "name": "Masjid Taqwa",
+                  "text": "Közösségi mecset, ahol a völgy lakói a pénteki imára gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        101.400534,
+                        -2.07167
+                  ]
+            },
+            {
+                  "name": "Mushalla Nurul Ikhsan",
+                  "text": "Kis szomszédsági imaház a helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440627,
+                        -2.14439
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mubarak",
+                  "text": "Mecset a Kerinci régió zöld rizsföldjei és dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        101.467717,
+                        -2.171551
+                  ]
+            },
+            {
+                  "name": "Masjid Keramat",
+                  "text": "Hagyományos mecset a Kerinci-völgyi felföldön, amely helyi spirituális központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        101.466926,
+                        -2.170026
+                  ]
+            },
+            {
+                  "name": "Musholla Baitul Nur",
+                  "text": "Szerény iszlám imaház, amely a helyi közösséget szolgálja a Kerinci-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        101.444675,
+                        -2.151552
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Ihsan",
+                  "text": "Iszlám istentiszteleti hely hagyományos tetőszerkezettel a völgy termékeny régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.431963,
+                        -2.119386
+                  ]
+            },
+            {
+                  "name": "Musholla Shilaturrahmi",
+                  "text": "Kisméretű közösségi imaház a Kerinci-régió buja tájai között.",
+                  "category": "landmark",
+                  "coords": [
+                        101.426771,
+                        -2.107093
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Tanjung Pauh Mudik",
+                  "text": "Jelentős nagymecset jellegzetes helyi építészeti elemekkel Tanjung Pauh Mudikban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.428591,
+                        -2.109784
+                  ]
+            },
+            {
+                  "name": "Masjid Pahlawan",
+                  "text": "A hősök tiszteletére elnevezett közösségi mecset, amely a Kerinci-völgy hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440235,
+                        -2.099494
+                  ]
+            },
+            {
+                  "name": "Nurul Iman",
+                  "text": "Lelki találkozóhely a helyi lakosság számára a Kerinci-felföld festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        101.411756,
+                        -2.090596
+                  ]
+            },
+            {
+                  "name": "Nurul Falah",
+                  "text": "Helyi imádságos hely, amelyet a tipikus szumátrai falusi környezet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        101.414983,
+                        -2.090907
+                  ]
+            },
+            {
+                  "name": "Masjid Jamik Kumun",
+                  "text": "Jelentős pénteki mecset a felföldi völgy Kumun negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        101.416812,
+                        -2.092535
+                  ]
+            },
+            {
+                  "name": "Mushala",
+                  "text": "Egyszerű, funkcionális imaház a napi iszlám istentiszteletekhez a hegyvidéki régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.417109,
+                        -2.089763
+                  ]
+            },
+            {
+                  "name": "Nurul Islam",
+                  "text": "Környékbeli mecset, amely helyet biztosít a napi imádságokhoz és közösségi összejövetelekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        101.423904,
+                        -2.061934
+                  ]
+            },
+            {
+                  "name": "Manarul Huda",
+                  "text": "Helyi vallási helyszín, amely a termékeny Kerinci-völgy falusi közösségeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.425337,
+                        -2.065048
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiatul Ikhlas",
+                  "text": "Közösségi mecset, amelyet a helyi lakosok a fontos pénteki imákhoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        101.437063,
+                        -2.076015
+                  ]
+            },
+            {
+                  "name": "Musholla Nurul Iman",
+                  "text": "Kicsi, helyi imaszoba a Kerinci-felföld tájába ágyazva.",
+                  "category": "landmark",
+                  "coords": [
+                        101.439881,
+                        -2.077624
+                  ]
+            },
+            {
+                  "name": "Masjid Jamik Al-Falah",
+                  "text": "A közösség központi mecsetje, tipikus regionális iszlám építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440994,
+                        -2.077163
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas",
+                  "text": "Lelki központ a hívők számára a Kerinci-völgy régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427543,
+                        -2.082938
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrohmi",
+                  "text": "Hagyományos iszlám imaház, amely a helyi lakosságot szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        101.448611,
+                        -2.088207
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Sebukar",
+                  "text": "Nagy, központi főmecset, amely a Kerinci-felföld Sebukar területét szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        101.457512,
+                        -2.096007
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Abrar",
+                  "text": "Imaház a helyi muszlim közösség számára a vulkanikus eredetű völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445652,
+                        -2.083661
+                  ]
+            },
+            {
+                  "name": "Masjid Jami'atul Hikmah",
+                  "text": "Közösségi mecset, amely iszlám szertartásoknak és összejöveteleknek ad otthont a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        101.452896,
+                        -2.078095
+                  ]
+            },
+            {
+                  "name": "Masjid Addarain",
+                  "text": "Környékbeli mecset, amely békés helyet biztosít az imádsághoz a Kerinci-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        101.459472,
+                        -2.076901
+                  ]
+            },
+            {
+                  "name": "Masjid Sabilul Huda",
+                  "text": "Helyi iszlám központ a lelki elmélyüléshez és a közös imádkozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        101.470208,
+                        -2.077078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Kerinci",
+                  "text": "Muzeul expune statui megalitice și manuscrise vechi pe scoarță de copac, unice în valea Kerinci.",
+                  "category": "museum",
+                  "coords": [
+                        101.523666,
+                        -2.127802
+                  ]
+            },
+            {
+                  "name": "Masjid Kuno Tanjung Pauh Ilir",
+                  "text": "O moschee de lemn veche de secole, cu un acoperiș etajat și sculpturi tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        101.434787,
+                        -2.117546
+                  ]
+            },
+            {
+                  "name": "Bukit Tebakar",
+                  "text": "Un vârf muntos proeminent din Parcul Național Kerinci Seblat, cu vederi panoramice asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        101.526342,
+                        -2.029707
+                  ]
+            },
+            {
+                  "name": "Baitul Makmur",
+                  "text": "O moschee sătească din valea Kerinci, cunoscută pentru linia acoperișului tradițional sumatran.",
+                  "category": "religious",
+                  "coords": [
+                        101.42587,
+                        -2.070368
+                  ]
+            },
+            {
+                  "name": "Pasar Tanjung Bajure",
+                  "text": "Piața principală din Sungai Penuh, unde se comercializează ceai local și scorțișoară.",
+                  "category": "cultural",
+                  "coords": [
+                        101.398981,
+                        -2.063581
+                  ]
+            },
+            {
+                  "name": "Pasar Hiang",
+                  "text": "O piață tradițională de munte unde fermierii vând produse montane proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        101.467186,
+                        -2.081655
+                  ]
+            },
+            {
+                  "name": "Pasar Sanggaran Agung",
+                  "text": "O piață de pe malul lacului, cunoscută pentru varietatea de pește proaspăt din lacul Kerinci.",
+                  "category": "cultural",
+                  "coords": [
+                        101.520952,
+                        -2.119792
+                  ]
+            },
+            {
+                  "name": "Pasar Jujun",
+                  "text": "Un nod local aglomerat pentru comercializarea faimoaselor recolte de cafea și condimente din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        101.50772,
+                        -2.179634
+                  ]
+            },
+            {
+                  "name": "Objek Wisata Danau Kerinci",
+                  "text": "Un lac vulcanic pitoresc, înconjurat de dealuri fertile și sate de pescari locale.",
+                  "category": "landmark",
+                  "coords": [
+                        101.522538,
+                        -2.126982
+                  ]
+            },
+            {
+                  "name": "Mushollah Raudatul Abadin",
+                  "text": "O sală de rugăciune comunitară modestă, situată într-un sat liniștit din Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.48964,
+                        -2.104081
+                  ]
+            },
+            {
+                  "name": "Masjid Ad Din",
+                  "text": "O moschee locală care servește ca centru religios și social pentru comunitatea din vale.",
+                  "category": "landmark",
+                  "coords": [
+                        101.469607,
+                        -2.079633
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim",
+                  "text": "Un lăcaș de cult simplu pentru rugăciunile zilnice în zonele rurale înalte din Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.397746,
+                        -2.065687
+                  ]
+            },
+            {
+                  "name": "Al-Akbar",
+                  "text": "O moschee care deservește populația musulmană locală din pitorescul district Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.400437,
+                        -2.062334
+                  ]
+            },
+            {
+                  "name": "Masjid Taqwa",
+                  "text": "O moschee comunitară unde locuitorii se adună pentru rugăciunea de vineri în vale.",
+                  "category": "landmark",
+                  "coords": [
+                        101.400534,
+                        -2.07167
+                  ]
+            },
+            {
+                  "name": "Mushalla Nurul Ikhsan",
+                  "text": "O mică casă de rugăciune de cartier pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440627,
+                        -2.14439
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mubarak",
+                  "text": "O moschee situată printre câmpurile verzi de orez și dealurile regiunii Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.467717,
+                        -2.171551
+                  ]
+            },
+            {
+                  "name": "Masjid Keramat",
+                  "text": "O moschee tradițională din valea muntoasă Kerinci, servind ca centru spiritual local.",
+                  "category": "landmark",
+                  "coords": [
+                        101.466926,
+                        -2.170026
+                  ]
+            },
+            {
+                  "name": "Musholla Baitul Nur",
+                  "text": "O casă de rugăciune islamică modestă care deservește comunitatea locală din regiunea muntoasă Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.444675,
+                        -2.151552
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Ihsan",
+                  "text": "Un lăcaș de cult islamic cu un design tradițional al acoperișului în regiunea fertilă a văii.",
+                  "category": "landmark",
+                  "coords": [
+                        101.431963,
+                        -2.119386
+                  ]
+            },
+            {
+                  "name": "Musholla Shilaturrahmi",
+                  "text": "O mică sală de rugăciune comunitară situată printre peisajele luxuriante ale regiunii Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.426771,
+                        -2.107093
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Tanjung Pauh Mudik",
+                  "text": "O moschee mare proeminentă, cu elemente arhitecturale locale caracteristice în Tanjung Pauh Mudik.",
+                  "category": "landmark",
+                  "coords": [
+                        101.428591,
+                        -2.109784
+                  ]
+            },
+            {
+                  "name": "Masjid Pahlawan",
+                  "text": "O moschee comunitară numită în onoarea eroilor, care deservește credincioșii din Valea Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440235,
+                        -2.099494
+                  ]
+            },
+            {
+                  "name": "Nurul Iman",
+                  "text": "Un punct de întâlnire spiritual pentru populația locală în cadrul pitoresc al munților Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.411756,
+                        -2.090596
+                  ]
+            },
+            {
+                  "name": "Nurul Falah",
+                  "text": "Un loc local de rugăciune caracterizat prin cadrul său tipic de sat sumatran.",
+                  "category": "landmark",
+                  "coords": [
+                        101.414983,
+                        -2.090907
+                  ]
+            },
+            {
+                  "name": "Masjid Jamik Kumun",
+                  "text": "O moschee de vineri importantă, situată în districtul Kumun din valea muntoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        101.416812,
+                        -2.092535
+                  ]
+            },
+            {
+                  "name": "Mushala",
+                  "text": "O casă de rugăciune simplă și funcțională pentru cultul islamic zilnic în regiunea muntoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        101.417109,
+                        -2.089763
+                  ]
+            },
+            {
+                  "name": "Nurul Islam",
+                  "text": "O moschee de cartier care oferă spațiu pentru rugăciunile zilnice și întâlnirile comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        101.423904,
+                        -2.061934
+                  ]
+            },
+            {
+                  "name": "Manarul Huda",
+                  "text": "Un sit religios local care deservește comunitățile rurale din valea fertilă Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.425337,
+                        -2.065048
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiatul Ikhlas",
+                  "text": "O moschee comunitară utilizată de locuitorii locali pentru rugăciunile importante de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        101.437063,
+                        -2.076015
+                  ]
+            },
+            {
+                  "name": "Musholla Nurul Iman",
+                  "text": "O mică sală de rugăciune locală, cuibărită în peisajul muntos din Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.439881,
+                        -2.077624
+                  ]
+            },
+            {
+                  "name": "Masjid Jamik Al-Falah",
+                  "text": "O moschee centrală pentru comunitate, cu arhitectură islamică regională tipică.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440994,
+                        -2.077163
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas",
+                  "text": "Un centru spiritual pentru credincioșii din regiunea văii Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427543,
+                        -2.082938
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrohmi",
+                  "text": "O casă de rugăciune islamică tradițională care deservește populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        101.448611,
+                        -2.088207
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Sebukar",
+                  "text": "O moschee mare, centrală, care deservește zona Sebukar din munții Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.457512,
+                        -2.096007
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Abrar",
+                  "text": "Un loc de închinare pentru comunitatea musulmană locală din valea de origine vulcanică.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445652,
+                        -2.083661
+                  ]
+            },
+            {
+                  "name": "Masjid Jami'atul Hikmah",
+                  "text": "O moschee comunitară care facilitează ritualurile și adunările islamice în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        101.452896,
+                        -2.078095
+                  ]
+            },
+            {
+                  "name": "Masjid Addarain",
+                  "text": "O moschee de cartier care oferă un spațiu liniștit pentru rugăciune în valea Kerinci.",
+                  "category": "landmark",
+                  "coords": [
+                        101.459472,
+                        -2.076901
+                  ]
+            },
+            {
+                  "name": "Masjid Sabilul Huda",
+                  "text": "Un centru islamic local pentru reflecție spirituală și rugăciune comună.",
+                  "category": "landmark",
+                  "coords": [
+                        101.470208,
+                        -2.077078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Kerinci",
+                  "text": "Displays megalithic statues and ancient bark manuscripts unique to the Kerinci valley.",
+                  "category": "museum",
+                  "coords": [
+                        101.523666,
+                        -2.127802
+                  ]
+            },
+            {
+                  "name": "Masjid Kuno Tanjung Pauh Ilir",
+                  "text": "A centuries-old wooden mosque featuring a tiered roof and traditional carvings.",
+                  "category": "religious",
+                  "coords": [
+                        101.434787,
+                        -2.117546
+                  ]
+            },
+            {
+                  "name": "Bukit Tebakar",
+                  "text": "A prominent mountain peak in Kerinci Seblat National Park with panoramic valley views.",
+                  "category": "natural",
+                  "coords": [
+                        101.526342,
+                        -2.029707
+                  ]
+            },
+            {
+                  "name": "Baitul Makmur",
+                  "text": "A village mosque in the Kerinci valley known for its traditional Sumatran roofline.",
+                  "category": "religious",
+                  "coords": [
+                        101.42587,
+                        -2.070368
+                  ]
+            },
+            {
+                  "name": "Pasar Tanjung Bajure",
+                  "text": "The main marketplace of Sungai Penuh, trading in local tea and cinnamon.",
+                  "category": "cultural",
+                  "coords": [
+                        101.398981,
+                        -2.063581
+                  ]
+            },
+            {
+                  "name": "Pasar Hiang",
+                  "text": "A traditional highland market where farmers sell fresh mountain produce.",
+                  "category": "cultural",
+                  "coords": [
+                        101.467186,
+                        -2.081655
+                  ]
+            },
+            {
+                  "name": "Pasar Sanggaran Agung",
+                  "text": "A lakeside market known for its variety of fresh fish from Lake Kerinci.",
+                  "category": "cultural",
+                  "coords": [
+                        101.520952,
+                        -2.119792
+                  ]
+            },
+            {
+                  "name": "Pasar Jujun",
+                  "text": "A busy local hub for trading the region's famous coffee and spice harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        101.50772,
+                        -2.179634
+                  ]
+            },
+            {
+                  "name": "Objek Wisata Danau Kerinci",
+                  "text": "A scenic volcanic lake surrounded by fertile hills and local fishing villages.",
+                  "category": "landmark",
+                  "coords": [
+                        101.522538,
+                        -2.126982
+                  ]
+            },
+            {
+                  "name": "Mushollah Raudatul Abadin",
+                  "text": "A modest community prayer room located in a quiet Kerinci village.",
+                  "category": "landmark",
+                  "coords": [
+                        101.48964,
+                        -2.104081
+                  ]
+            },
+            {
+                  "name": "Masjid Ad Din",
+                  "text": "A local mosque serving as a religious and social center for the valley community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.469607,
+                        -2.079633
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim",
+                  "text": "A simple place of worship for daily prayers in the rural Kerinci highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        101.397746,
+                        -2.065687
+                  ]
+            },
+            {
+                  "name": "Al-Akbar",
+                  "text": "A mosque serving the local Muslim population in the scenic Kerinci district.",
+                  "category": "landmark",
+                  "coords": [
+                        101.400437,
+                        -2.062334
+                  ]
+            },
+            {
+                  "name": "Masjid Taqwa",
+                  "text": "A community mosque where residents gather for Friday prayers in the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        101.400534,
+                        -2.07167
+                  ]
+            },
+            {
+                  "name": "Mushalla Nurul Ikhsan",
+                  "text": "A small neighborhood prayer house for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440627,
+                        -2.14439
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mubarak",
+                  "text": "A mosque situated amidst the green rice fields and hills of the Kerinci region.",
+                  "category": "landmark",
+                  "coords": [
+                        101.467717,
+                        -2.171551
+                  ]
+            },
+            {
+                  "name": "Masjid Keramat",
+                  "text": "A traditional mosque in the highland Kerinci Valley, serving as a local spiritual center.",
+                  "category": "landmark",
+                  "coords": [
+                        101.466926,
+                        -2.170026
+                  ]
+            },
+            {
+                  "name": "Musholla Baitul Nur",
+                  "text": "A modest Islamic prayer house serving the local community in the Kerinci highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        101.444675,
+                        -2.151552
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Ihsan",
+                  "text": "An Islamic place of worship with traditional roof styling in the fertile region of the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        101.431963,
+                        -2.119386
+                  ]
+            },
+            {
+                  "name": "Musholla Shilaturrahmi",
+                  "text": "A small community prayer hall located amidst the lush landscapes of the Kerinci region.",
+                  "category": "landmark",
+                  "coords": [
+                        101.426771,
+                        -2.107093
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Tanjung Pauh Mudik",
+                  "text": "A prominent grand mosque featuring characteristic local architectural elements in Tanjung Pauh Mudik.",
+                  "category": "landmark",
+                  "coords": [
+                        101.428591,
+                        -2.109784
+                  ]
+            },
+            {
+                  "name": "Masjid Pahlawan",
+                  "text": "A community mosque named in honor of heroes, serving the faithful in the Kerinci Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440235,
+                        -2.099494
+                  ]
+            },
+            {
+                  "name": "Nurul Iman",
+                  "text": "A spiritual meeting point for the local population in the scenic setting of the Kerinci highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        101.411756,
+                        -2.090596
+                  ]
+            },
+            {
+                  "name": "Nurul Falah",
+                  "text": "A local place of prayer characterized by its typical Sumatran village setting.",
+                  "category": "landmark",
+                  "coords": [
+                        101.414983,
+                        -2.090907
+                  ]
+            },
+            {
+                  "name": "Masjid Jamik Kumun",
+                  "text": "A significant congregational mosque located in the Kumun district of the highland valley.",
+                  "category": "landmark",
+                  "coords": [
+                        101.416812,
+                        -2.092535
+                  ]
+            },
+            {
+                  "name": "Mushala",
+                  "text": "A simple, functional prayer house for daily Islamic worship in the highland region.",
+                  "category": "landmark",
+                  "coords": [
+                        101.417109,
+                        -2.089763
+                  ]
+            },
+            {
+                  "name": "Nurul Islam",
+                  "text": "A neighborhood mosque providing a space for daily prayers and community gathering.",
+                  "category": "landmark",
+                  "coords": [
+                        101.423904,
+                        -2.061934
+                  ]
+            },
+            {
+                  "name": "Manarul Huda",
+                  "text": "A local religious site serving the village communities of the fertile Kerinci Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        101.425337,
+                        -2.065048
+                  ]
+            },
+            {
+                  "name": "Masjid Jamiatul Ikhlas",
+                  "text": "A congregational mosque used by local residents for important Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        101.437063,
+                        -2.076015
+                  ]
+            },
+            {
+                  "name": "Musholla Nurul Iman",
+                  "text": "A small, local prayer room nestled within the Kerinci highland landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        101.439881,
+                        -2.077624
+                  ]
+            },
+            {
+                  "name": "Masjid Jamik Al-Falah",
+                  "text": "A central mosque for the community, featuring typical regional Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        101.440994,
+                        -2.077163
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas",
+                  "text": "A spiritual hub for the faithful in the Kerinci Valley region.",
+                  "category": "landmark",
+                  "coords": [
+                        101.427543,
+                        -2.082938
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrohmi",
+                  "text": "A traditional Islamic house of prayer serving the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        101.448611,
+                        -2.088207
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Sebukar",
+                  "text": "A large, central grand mosque serving the Sebukar area of the Kerinci highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        101.457512,
+                        -2.096007
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Abrar",
+                  "text": "A place of worship for the local Muslim community in the volcanic valley.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445652,
+                        -2.083661
+                  ]
+            },
+            {
+                  "name": "Masjid Jami'atul Hikmah",
+                  "text": "A community mosque facilitating Islamic rituals and gatherings in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        101.452896,
+                        -2.078095
+                  ]
+            },
+            {
+                  "name": "Masjid Addarain",
+                  "text": "A neighborhood mosque providing a peaceful space for prayer in the Kerinci Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        101.459472,
+                        -2.076901
+                  ]
+            },
+            {
+                  "name": "Masjid Sabilul Huda",
+                  "text": "A local Islamic center for spiritual reflection and communal prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        101.470208,
+                        -2.077078
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "ID-JA",
     coords: [101.48, -2.1],
@@ -195,7 +1734,1312 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "baliem-valley-relief-v2",
+    id: "baliem-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salib Wio Silimo",
+                  "text": "Das Wio Silimo Cross ist ein bemerkenswertes Denkmal im Baliem-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        138.942675,
+                        -4.097948
+                  ]
+            },
+            {
+                  "name": "Pasar Missi",
+                  "text": "Pasar Missi ist ein belebter Marktplatz, auf dem sich die Einheimischen im Baliem-Tal treffen.",
+                  "category": "cultural",
+                  "coords": [
+                        138.949103,
+                        -4.104372
+                  ]
+            },
+            {
+                  "name": "Pasar Potikelek",
+                  "text": "Pasar Potikelek ist ein lebhafter Marktplatz für lokale Waren im Baliem-Tal.",
+                  "category": "cultural",
+                  "coords": [
+                        138.940865,
+                        -4.089374
+                  ]
+            },
+            {
+                  "name": "Pasar Baru",
+                  "text": "Der Jibama-Markt dient als lokaler Handelsplatz und Markt im Baliem-Tal.",
+                  "category": "cultural",
+                  "coords": [
+                        138.940468,
+                        -4.069446
+                  ]
+            },
+            {
+                  "name": "Pasar Sinakma",
+                  "text": "Der Sinakma-Markt ist ein traditioneller Marktplatz zum Einkaufen und Handeln im Baliem-Tal.",
+                  "category": "cultural",
+                  "coords": [
+                        138.931487,
+                        -4.105188
+                  ]
+            },
+            {
+                  "name": "Pasir Putih",
+                  "text": "White Sands ist eine natürliche Attraktion mit einzigartigen malerischen Ausblicken im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.951396,
+                        -4.037222
+                  ]
+            },
+            {
+                  "name": "GKIP Kingmi",
+                  "text": "GKIP Kingmi ist ein christliches Kirchengebäude im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.951211,
+                        -4.103705
+                  ]
+            },
+            {
+                  "name": "GKITP Aithousa Betlehem",
+                  "text": "GKITP Aithousa Betlehem dient als christliche Kultstätte im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.948201,
+                        -4.097065
+                  ]
+            },
+            {
+                  "name": "GIDI Efesus",
+                  "text": "GIDI Efesus ist eine lokale christliche Kirche für die Gemeinde im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940697,
+                        -4.097236
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Yerusalem",
+                  "text": "GIDI Jemaat Yerusalem ist eine christliche religiöse Stätte im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940607,
+                        -4.087934
+                  ]
+            },
+            {
+                  "name": "GPdI Elroi",
+                  "text": "GPdI Elroi ist ein christliches Gottesdienstzentrum im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.943469,
+                        -4.082016
+                  ]
+            },
+            {
+                  "name": "GKII Filadelfia",
+                  "text": "GKII Filadelfia bietet einen Raum für christliche Zusammenkünfte im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940633,
+                        -4.081863
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik",
+                  "text": "Gereja Katolik ist eine katholisch-christliche Kirche im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.987124,
+                        -4.071241
+                  ]
+            },
+            {
+                  "name": "Gereja Baptis Apela",
+                  "text": "Gereja Baptis Apela ist eine baptistisch-christliche Gemeinde im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.893425,
+                        -4.064361
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Paroki Bunda Maria - Pikhe",
+                  "text": "Gereja Katolik Paroki Bunda Maria - Pikhe ist eine katholische Pfarrkirche im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.936291,
+                        -4.052177
+                  ]
+            },
+            {
+                  "name": "Gereja Baptis Subaga",
+                  "text": "Gereja Baptis Subaga dient als baptistisch-christliche Kultstätte im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.907523,
+                        -4.085034
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Agape",
+                  "text": "GIDI Jemaat Agape ist eine christliche Kirche für die lokale Gemeinde im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930427,
+                        -4.101773
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Jemaat Allah Filadelfia",
+                  "text": "Gereja Sidang Jemaat Allah Filadelfia ist eine aktive christliche Kirche im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.931744,
+                        -4.101893
+                  ]
+            },
+            {
+                  "name": "GKITP Elim",
+                  "text": "GKITP Elim bietet als christliche Kirche religiöse Dienste im Baliem-Tal an.",
+                  "category": "landmark",
+                  "coords": [
+                        138.93626,
+                        -4.110607
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Kristus Penebus Hepuba",
+                  "text": "Gereja Katolik Kristus Penebus Hepuba ist eine katholische religiöse Stätte im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.975153,
+                        -4.154406
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahman",
+                  "text": "Die Baiturrahman-Moschee ist eine wichtige muslimische Kultstätte im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.941832,
+                        -4.099482
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Kristus Jaya",
+                  "text": "Gereja Katolik Kristus Jaya ist eine katholisch-christliche Kirche für die Gläubigen im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.947244,
+                        -4.100801
+                  ]
+            },
+            {
+                  "name": "GIDI Damai",
+                  "text": "GIDI Damai ist eine lokale christliche Gemeindekirche im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.949557,
+                        -4.087211
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Kalvari",
+                  "text": "GIDI Jemaat Kalvari dient als christliche Gottesdiensteinrichtung im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.952988,
+                        -4.094263
+                  ]
+            },
+            {
+                  "name": "Gereja Kemah Injil Jemaat Betel (KINGMI)",
+                  "text": "Gereja Kemah Injil Jemaat Betel (KINGMI) ist eine christliche religiöse Einrichtung im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.946326,
+                        -4.091285
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ikhsan Polres Jayawijaya",
+                  "text": "Die Masjid Al Ikhsan Polres Jayawijaya ist eine muslimische Moschee im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.944861,
+                        -4.095025
+                  ]
+            },
+            {
+                  "name": "GKI Jemaat Effata",
+                  "text": "GKI Jemaat Effata ist eine christliche Pfarrei der örtlichen Gemeinde im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.942445,
+                        -4.094689
+                  ]
+            },
+            {
+                  "name": "Gereja Advent Wamena",
+                  "text": "Gereja Advent Wamena ist eine adventistisch-christliche Kirche im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.942957,
+                        -4.089385
+                  ]
+            },
+            {
+                  "name": "Gereja Betel Jemaat Anugerah",
+                  "text": "Gereja Betel Jemaat Anugerah ist eine prominente christliche Kultstätte im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930069,
+                        -4.076486
+                  ]
+            },
+            {
+                  "name": "GKII Jemaat Moria Hom-Hom",
+                  "text": "GKII Jemaat Moria Hom-Hom ist eine christliche Kirche, die Gläubige im Baliem-Tal willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930396,
+                        -4.067134
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Di Troas",
+                  "text": "GIDI Jemaat Di Troas fungiert als lokale christliche Gemeindekirche im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.928567,
+                        -4.074363
+                  ]
+            },
+            {
+                  "name": "GKITP Laghairoi",
+                  "text": "GKITP Laghairoi ist ein etabliertes christliches Kirchengebäude im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.93279,
+                        -4.077922
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat PNIEL Musiama",
+                  "text": "GIDI Jemaat PNIEL Musiama ist ein christliches religiöses Zentrum im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.929725,
+                        -4.071692
+                  ]
+            },
+            {
+                  "name": "GIDI Tiranus",
+                  "text": "GIDI Tiranus ist eine christliche Gemeinde für die Gläubigen im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.931422,
+                        -4.073249
+                  ]
+            },
+            {
+                  "name": "GIDI Filipi",
+                  "text": "GIDI Filipi ist eine christliche Andachtsstätte im Gebiet des Baliem-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        138.935221,
+                        -4.077299
+                  ]
+            },
+            {
+                  "name": "GSJA Shekinah",
+                  "text": "GSJA Shekinah ist ein christliches Gemeindegebäude im Baliem-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        138.936835,
+                        -4.083411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salib Wio Silimo",
+                  "text": "A Wio Silimo Cross egy nevezetes emlékmű a Baliem-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        138.942675,
+                        -4.097948
+                  ]
+            },
+            {
+                  "name": "Pasar Missi",
+                  "text": "A Pasar Missi egy nyüzsgő piac, ahol a helyiek összegyűlnek a Baliem-völgyben.",
+                  "category": "cultural",
+                  "coords": [
+                        138.949103,
+                        -4.104372
+                  ]
+            },
+            {
+                  "name": "Pasar Potikelek",
+                  "text": "A Pasar Potikelek egy nyüzsgő piac, amely helyi árukat kínál a Baliem-völgyben.",
+                  "category": "cultural",
+                  "coords": [
+                        138.940865,
+                        -4.089374
+                  ]
+            },
+            {
+                  "name": "Pasar Baru",
+                  "text": "A Jibama piac helyi kereskedelmi csomópontként és piacként szolgál a Baliem-völgyben.",
+                  "category": "cultural",
+                  "coords": [
+                        138.940468,
+                        -4.069446
+                  ]
+            },
+            {
+                  "name": "Pasar Sinakma",
+                  "text": "A Sinakma piac egy hagyományos piactér vásárlásra és kereskedésre a Baliem-völgyben.",
+                  "category": "cultural",
+                  "coords": [
+                        138.931487,
+                        -4.105188
+                  ]
+            },
+            {
+                  "name": "Pasir Putih",
+                  "text": "A White Sands egy természeti látványosság, amely egyedülálló festői kilátást nyújt a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.951396,
+                        -4.037222
+                  ]
+            },
+            {
+                  "name": "GKIP Kingmi",
+                  "text": "A GKIP Kingmi egy keresztény templomépület a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.951211,
+                        -4.103705
+                  ]
+            },
+            {
+                  "name": "GKITP Aithousa Betlehem",
+                  "text": "A GKITP Aithousa Betlehem keresztény istentiszteleti helyként szolgál a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.948201,
+                        -4.097065
+                  ]
+            },
+            {
+                  "name": "GIDI Efesus",
+                  "text": "A GIDI Efesus egy helyi keresztény templom, amely a Baliem-völgy közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940697,
+                        -4.097236
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Yerusalem",
+                  "text": "A GIDI Jemaat Yerusalem egy keresztény vallási helyszín a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940607,
+                        -4.087934
+                  ]
+            },
+            {
+                  "name": "GPdI Elroi",
+                  "text": "A GPdI Elroi egy keresztény istentiszteleti központ a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.943469,
+                        -4.082016
+                  ]
+            },
+            {
+                  "name": "GKII Filadelfia",
+                  "text": "A GKII Filadelfia teret ad a keresztény összejöveteleknek a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940633,
+                        -4.081863
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik",
+                  "text": "A Gereja Katolik egy katolikus keresztény templom a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.987124,
+                        -4.071241
+                  ]
+            },
+            {
+                  "name": "Gereja Baptis Apela",
+                  "text": "A Gereja Baptis Apela egy baptista keresztény gyülekezet a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.893425,
+                        -4.064361
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Paroki Bunda Maria - Pikhe",
+                  "text": "A Gereja Katolik Paroki Bunda Maria - Pikhe egy katolikus plébániatemplom a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.936291,
+                        -4.052177
+                  ]
+            },
+            {
+                  "name": "Gereja Baptis Subaga",
+                  "text": "A Gereja Baptis Subaga baptista keresztény istentiszteleti helyként szolgál a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.907523,
+                        -4.085034
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Agape",
+                  "text": "A GIDI Jemaat Agape egy keresztény templom, amely a helyi gyülekezetet szolgálja a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930427,
+                        -4.101773
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Jemaat Allah Filadelfia",
+                  "text": "A Gereja Sidang Jemaat Allah Filadelfia egy aktív keresztény templom a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.931744,
+                        -4.101893
+                  ]
+            },
+            {
+                  "name": "GKITP Elim",
+                  "text": "A GKITP Elim keresztény templomként vallási szolgáltatásokat nyújt a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.93626,
+                        -4.110607
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Kristus Penebus Hepuba",
+                  "text": "A Gereja Katolik Kristus Penebus Hepuba egy katolikus vallási helyszín a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.975153,
+                        -4.154406
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahman",
+                  "text": "A Baiturrahman mecset egy fontos muszlim imahely a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.941832,
+                        -4.099482
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Kristus Jaya",
+                  "text": "A Gereja Katolik Kristus Jaya egy katolikus keresztény templom, amely a hívőket szolgálja a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.947244,
+                        -4.100801
+                  ]
+            },
+            {
+                  "name": "GIDI Damai",
+                  "text": "A GIDI Damai egy helyi keresztény közösségi templom a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.949557,
+                        -4.087211
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Kalvari",
+                  "text": "A GIDI Jemaat Kalvari keresztény istentiszteleti létesítményként szolgál a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.952988,
+                        -4.094263
+                  ]
+            },
+            {
+                  "name": "Gereja Kemah Injil Jemaat Betel (KINGMI)",
+                  "text": "A Gereja Kemah Injil Jemaat Betel (KINGMI) egy keresztény vallási intézmény a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.946326,
+                        -4.091285
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ikhsan Polres Jayawijaya",
+                  "text": "A Masjid Al Ikhsan Polres Jayawijaya egy muszlim mecset a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.944861,
+                        -4.095025
+                  ]
+            },
+            {
+                  "name": "GKI Jemaat Effata",
+                  "text": "A GKI Jemaat Effata egy keresztény plébánia, amely a helyi közösséghez tartozik a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.942445,
+                        -4.094689
+                  ]
+            },
+            {
+                  "name": "Gereja Advent Wamena",
+                  "text": "A Gereja Advent Wamena egy adventista keresztény templom a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.942957,
+                        -4.089385
+                  ]
+            },
+            {
+                  "name": "Gereja Betel Jemaat Anugerah",
+                  "text": "A Gereja Betel Jemaat Anugerah egy kiemelkedő keresztény imahely a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930069,
+                        -4.076486
+                  ]
+            },
+            {
+                  "name": "GKII Jemaat Moria Hom-Hom",
+                  "text": "A GKII Jemaat Moria Hom-Hom egy keresztény templom, amely a hívőket fogadja a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930396,
+                        -4.067134
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Di Troas",
+                  "text": "A GIDI Jemaat Di Troas egy helyi keresztény közösségi templomként működik a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.928567,
+                        -4.074363
+                  ]
+            },
+            {
+                  "name": "GKITP Laghairoi",
+                  "text": "A GKITP Laghairoi egy megalapozott keresztény templomépület a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.93279,
+                        -4.077922
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat PNIEL Musiama",
+                  "text": "A GIDI Jemaat PNIEL Musiama egy keresztény vallási központ a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.929725,
+                        -4.071692
+                  ]
+            },
+            {
+                  "name": "GIDI Tiranus",
+                  "text": "A GIDI Tiranus egy keresztény gyülekezet, amely a hívőket szolgálja a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.931422,
+                        -4.073249
+                  ]
+            },
+            {
+                  "name": "GIDI Filipi",
+                  "text": "A GIDI Filipi egy keresztény istentiszteleti hely a Baliem-völgy térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        138.935221,
+                        -4.077299
+                  ]
+            },
+            {
+                  "name": "GSJA Shekinah",
+                  "text": "A GSJA Shekinah egy keresztény gyülekezeti épület a Baliem-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        138.936835,
+                        -4.083411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salib Wio Silimo",
+                  "text": "Crucea Wio Silimo este un monument notabil situat în Valea Baliem.",
+                  "category": "historical",
+                  "coords": [
+                        138.942675,
+                        -4.097948
+                  ]
+            },
+            {
+                  "name": "Pasar Missi",
+                  "text": "Pasar Missi este o piață plină de viață unde se adună localnicii din Valea Baliem.",
+                  "category": "cultural",
+                  "coords": [
+                        138.949103,
+                        -4.104372
+                  ]
+            },
+            {
+                  "name": "Pasar Potikelek",
+                  "text": "Pasar Potikelek este o piață vibrantă care oferă bunuri locale în Valea Baliem.",
+                  "category": "cultural",
+                  "coords": [
+                        138.940865,
+                        -4.089374
+                  ]
+            },
+            {
+                  "name": "Pasar Baru",
+                  "text": "Piața Jibama servește ca un centru comercial și o piață locală în Valea Baliem.",
+                  "category": "cultural",
+                  "coords": [
+                        138.940468,
+                        -4.069446
+                  ]
+            },
+            {
+                  "name": "Pasar Sinakma",
+                  "text": "Piața Sinakma este o piață tradițională pentru cumpărături și comerț în Valea Baliem.",
+                  "category": "cultural",
+                  "coords": [
+                        138.931487,
+                        -4.105188
+                  ]
+            },
+            {
+                  "name": "Pasir Putih",
+                  "text": "White Sands este o atracție naturală care oferă vederi pitorești unice în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.951396,
+                        -4.037222
+                  ]
+            },
+            {
+                  "name": "GKIP Kingmi",
+                  "text": "GKIP Kingmi este o biserică creștină situată în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.951211,
+                        -4.103705
+                  ]
+            },
+            {
+                  "name": "GKITP Aithousa Betlehem",
+                  "text": "GKITP Aithousa Betlehem servește ca lăcaș de cult creștin în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.948201,
+                        -4.097065
+                  ]
+            },
+            {
+                  "name": "GIDI Efesus",
+                  "text": "GIDI Efesus este o biserică creștină locală care servește comunitatea din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940697,
+                        -4.097236
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Yerusalem",
+                  "text": "GIDI Jemaat Yerusalem este un sit religios creștin situat în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940607,
+                        -4.087934
+                  ]
+            },
+            {
+                  "name": "GPdI Elroi",
+                  "text": "GPdI Elroi este un centru de cult creștin stabilit în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.943469,
+                        -4.082016
+                  ]
+            },
+            {
+                  "name": "GKII Filadelfia",
+                  "text": "GKII Filadelfia oferă un spațiu pentru adunări creștine în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940633,
+                        -4.081863
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik",
+                  "text": "Gereja Katolik este o biserică creștină catolică aflată în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.987124,
+                        -4.071241
+                  ]
+            },
+            {
+                  "name": "Gereja Baptis Apela",
+                  "text": "Gereja Baptis Apela este o congregație creștină baptistă situată în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.893425,
+                        -4.064361
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Paroki Bunda Maria - Pikhe",
+                  "text": "Gereja Katolik Paroki Bunda Maria - Pikhe este o biserică parohială catolică din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.936291,
+                        -4.052177
+                  ]
+            },
+            {
+                  "name": "Gereja Baptis Subaga",
+                  "text": "Gereja Baptis Subaga servește ca lăcaș de cult creștin baptist în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.907523,
+                        -4.085034
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Agape",
+                  "text": "GIDI Jemaat Agape este o biserică creștină care servește congregația locală din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930427,
+                        -4.101773
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Jemaat Allah Filadelfia",
+                  "text": "Gereja Sidang Jemaat Allah Filadelfia este o biserică creștină activă din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.931744,
+                        -4.101893
+                  ]
+            },
+            {
+                  "name": "GKITP Elim",
+                  "text": "GKITP Elim oferă servicii religioase ca biserică creștină în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.93626,
+                        -4.110607
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Kristus Penebus Hepuba",
+                  "text": "Gereja Katolik Kristus Penebus Hepuba este un sit religios catolic situat în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.975153,
+                        -4.154406
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahman",
+                  "text": "Moscheea Baiturrahman este un important lăcaș de cult musulman din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.941832,
+                        -4.099482
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Kristus Jaya",
+                  "text": "Gereja Katolik Kristus Jaya este o biserică creștină catolică care servește credincioșii din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.947244,
+                        -4.100801
+                  ]
+            },
+            {
+                  "name": "GIDI Damai",
+                  "text": "GIDI Damai este o biserică comunitară creștină locală situată în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.949557,
+                        -4.087211
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Kalvari",
+                  "text": "GIDI Jemaat Kalvari servește ca o facilitate de cult creștin în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.952988,
+                        -4.094263
+                  ]
+            },
+            {
+                  "name": "Gereja Kemah Injil Jemaat Betel (KINGMI)",
+                  "text": "Gereja Kemah Injil Jemaat Betel (KINGMI) este o instituție religioasă creștină din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.946326,
+                        -4.091285
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ikhsan Polres Jayawijaya",
+                  "text": "Masjid Al Ikhsan Polres Jayawijaya este o moschee musulmană situată în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.944861,
+                        -4.095025
+                  ]
+            },
+            {
+                  "name": "GKI Jemaat Effata",
+                  "text": "GKI Jemaat Effata este o parohie creștină aparținând comunității locale din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.942445,
+                        -4.094689
+                  ]
+            },
+            {
+                  "name": "Gereja Advent Wamena",
+                  "text": "Gereja Advent Wamena este o biserică creștină adventistă situată în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.942957,
+                        -4.089385
+                  ]
+            },
+            {
+                  "name": "Gereja Betel Jemaat Anugerah",
+                  "text": "Gereja Betel Jemaat Anugerah este un important lăcaș de cult creștin din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930069,
+                        -4.076486
+                  ]
+            },
+            {
+                  "name": "GKII Jemaat Moria Hom-Hom",
+                  "text": "GKII Jemaat Moria Hom-Hom este o biserică creștină care primește credincioșii din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930396,
+                        -4.067134
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Di Troas",
+                  "text": "GIDI Jemaat Di Troas funcționează ca o biserică comunitară creștină locală în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.928567,
+                        -4.074363
+                  ]
+            },
+            {
+                  "name": "GKITP Laghairoi",
+                  "text": "GKITP Laghairoi este o clădire de biserică creștină consacrată situată în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.93279,
+                        -4.077922
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat PNIEL Musiama",
+                  "text": "GIDI Jemaat PNIEL Musiama este un centru religios creștin aflat în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.929725,
+                        -4.071692
+                  ]
+            },
+            {
+                  "name": "GIDI Tiranus",
+                  "text": "GIDI Tiranus este o congregație creștină care servește credincioșii din Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.931422,
+                        -4.073249
+                  ]
+            },
+            {
+                  "name": "GIDI Filipi",
+                  "text": "GIDI Filipi este un lăcaș de cult creștin din zona Văii Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.935221,
+                        -4.077299
+                  ]
+            },
+            {
+                  "name": "GSJA Shekinah",
+                  "text": "GSJA Shekinah este o clădire a congregației creștine situată în Valea Baliem.",
+                  "category": "landmark",
+                  "coords": [
+                        138.936835,
+                        -4.083411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wio Silimo Cross",
+                  "text": "The Wio Silimo Cross is a notable monument located in the Baliem Valley.",
+                  "category": "historical",
+                  "coords": [
+                        138.942675,
+                        -4.097948
+                  ]
+            },
+            {
+                  "name": "Pasar Missi",
+                  "text": "Pasar Missi is a bustling marketplace where locals gather in the Baliem Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        138.949103,
+                        -4.104372
+                  ]
+            },
+            {
+                  "name": "Pasar Potikelek",
+                  "text": "Pasar Potikelek is a vibrant marketplace offering local goods in the Baliem Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        138.940865,
+                        -4.089374
+                  ]
+            },
+            {
+                  "name": "Jibama Market",
+                  "text": "Jibama Market serves as a local trading hub and marketplace in the Baliem Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        138.940468,
+                        -4.069446
+                  ]
+            },
+            {
+                  "name": "Sinakma Market",
+                  "text": "Sinakma Market is a traditional marketplace for shopping and trading in the Baliem Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        138.931487,
+                        -4.105188
+                  ]
+            },
+            {
+                  "name": "White Sands",
+                  "text": "White Sands is a natural attraction offering unique scenic views in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.951396,
+                        -4.037222
+                  ]
+            },
+            {
+                  "name": "GKIP Kingmi",
+                  "text": "GKIP Kingmi is a Christian church building located in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.951211,
+                        -4.103705
+                  ]
+            },
+            {
+                  "name": "GKITP Aithousa Betlehem",
+                  "text": "GKITP Aithousa Betlehem serves as a Christian place of worship in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.948201,
+                        -4.097065
+                  ]
+            },
+            {
+                  "name": "GIDI Efesus",
+                  "text": "GIDI Efesus is a local Christian church serving the community in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940697,
+                        -4.097236
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Yerusalem",
+                  "text": "GIDI Jemaat Yerusalem is a Christian religious site located in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940607,
+                        -4.087934
+                  ]
+            },
+            {
+                  "name": "GPdI Elroi",
+                  "text": "GPdI Elroi is a Christian worship center established in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.943469,
+                        -4.082016
+                  ]
+            },
+            {
+                  "name": "GKII Filadelfia",
+                  "text": "GKII Filadelfia provides a space for Christian gatherings in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.940633,
+                        -4.081863
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik",
+                  "text": "Gereja Katolik is a Catholic Christian church found in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.987124,
+                        -4.071241
+                  ]
+            },
+            {
+                  "name": "Gereja Baptis Apela",
+                  "text": "Gereja Baptis Apela is a Baptist Christian congregation located in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.893425,
+                        -4.064361
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Paroki Bunda Maria - Pikhe",
+                  "text": "Gereja Katolik Paroki Bunda Maria - Pikhe is a Catholic parish church in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.936291,
+                        -4.052177
+                  ]
+            },
+            {
+                  "name": "Gereja Baptis Subaga",
+                  "text": "Gereja Baptis Subaga serves as a Baptist Christian place of worship in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.907523,
+                        -4.085034
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Agape",
+                  "text": "GIDI Jemaat Agape is a Christian church serving the local congregation in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930427,
+                        -4.101773
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Jemaat Allah Filadelfia",
+                  "text": "Gereja Sidang Jemaat Allah Filadelfia is an active Christian church in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.931744,
+                        -4.101893
+                  ]
+            },
+            {
+                  "name": "GKITP Elim",
+                  "text": "GKITP Elim provides religious services as a Christian church in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.93626,
+                        -4.110607
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Kristus Penebus Hepuba",
+                  "text": "Gereja Katolik Kristus Penebus Hepuba is a Catholic religious site situated in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.975153,
+                        -4.154406
+                  ]
+            },
+            {
+                  "name": "Baiturrahman Mosque",
+                  "text": "Baiturrahman Mosque is an important Muslim place of worship in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.941832,
+                        -4.099482
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Kristus Jaya",
+                  "text": "Gereja Katolik Kristus Jaya is a Catholic Christian church serving the faithful in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.947244,
+                        -4.100801
+                  ]
+            },
+            {
+                  "name": "GIDI Damai",
+                  "text": "GIDI Damai is a local Christian community church located in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.949557,
+                        -4.087211
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Kalvari",
+                  "text": "GIDI Jemaat Kalvari serves as a Christian worship facility in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.952988,
+                        -4.094263
+                  ]
+            },
+            {
+                  "name": "Gereja Kemah Injil Jemaat Betel (KINGMI)",
+                  "text": "Gereja Kemah Injil Jemaat Betel (KINGMI) is a Christian religious institution in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.946326,
+                        -4.091285
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ikhsan Polres Jayawijaya",
+                  "text": "Masjid Al Ikhsan Polres Jayawijaya is a Muslim mosque situated in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.944861,
+                        -4.095025
+                  ]
+            },
+            {
+                  "name": "GKI Jemaat Effata",
+                  "text": "GKI Jemaat Effata is a Christian parish belonging to the local community in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.942445,
+                        -4.094689
+                  ]
+            },
+            {
+                  "name": "Gereja Advent Wamena",
+                  "text": "Gereja Advent Wamena is an Adventist Christian church located in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.942957,
+                        -4.089385
+                  ]
+            },
+            {
+                  "name": "Gereja Betel Jemaat Anugerah",
+                  "text": "Gereja Betel Jemaat Anugerah is a prominent Christian place of worship in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930069,
+                        -4.076486
+                  ]
+            },
+            {
+                  "name": "GKII Jemaat Moria Hom-Hom",
+                  "text": "GKII Jemaat Moria Hom-Hom is a Christian church welcoming believers in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.930396,
+                        -4.067134
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat Di Troas",
+                  "text": "GIDI Jemaat Di Troas operates as a local Christian community church in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.928567,
+                        -4.074363
+                  ]
+            },
+            {
+                  "name": "GKITP Laghairoi",
+                  "text": "GKITP Laghairoi is an established Christian church building situated in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.93279,
+                        -4.077922
+                  ]
+            },
+            {
+                  "name": "GIDI Jemaat PNIEL Musiama",
+                  "text": "GIDI Jemaat PNIEL Musiama is a Christian religious center found in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.929725,
+                        -4.071692
+                  ]
+            },
+            {
+                  "name": "GIDI Tiranus",
+                  "text": "GIDI Tiranus is a Christian congregation serving the faithful in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.931422,
+                        -4.073249
+                  ]
+            },
+            {
+                  "name": "GIDI Filipi",
+                  "text": "GIDI Filipi is a Christian place of worship located in the Baliem Valley area.",
+                  "category": "landmark",
+                  "coords": [
+                        138.935221,
+                        -4.077299
+                  ]
+            },
+            {
+                  "name": "GSJA Shekinah",
+                  "text": "GSJA Shekinah is a Christian congregation building situated in the Baliem Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        138.936835,
+                        -4.083411
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "ID-PE",
     coords: [138.95, -4.1],
@@ -387,7 +3231,268 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "pink-beach-komodo-relief-v2",
+    id: "pink-beach-komodo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandy Island",
+                  "text": "Sandy Island ist eine malerische Attraktion nahe dem Pink Beach und dem Komodo-Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        119.589963,
+                        -8.547356
+                  ]
+            },
+            {
+                  "name": "Kampung Komodo",
+                  "text": "Das Komodo Village ist eine sehenswerte Siedlung in der Region des Pink Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        119.488614,
+                        -8.589551
+                  ]
+            },
+            {
+                  "name": "Regata Hill",
+                  "text": "Der Regata Hill bietet einen hervorragenden Aussichtspunkt am Pink Beach.",
+                  "category": "natural",
+                  "coords": [
+                        119.49827,
+                        -8.570099
+                  ]
+            },
+            {
+                  "name": "Komodo Dragon Nest",
+                  "text": "Der Aussichtspunkt Komodo Dragon Nest gewährt Einblicke in der Nähe des Pink Beach.",
+                  "category": "natural",
+                  "coords": [
+                        119.501876,
+                        -8.564126
+                  ]
+            },
+            {
+                  "name": "Pantai Merah Muda",
+                  "text": "Pink Beach ist ein berühmter Strand mit rötlichem Sand in dieser Region.",
+                  "category": "recreational",
+                  "coords": [
+                        119.519798,
+                        -8.601288
+                  ]
+            },
+            {
+                  "name": "Jamiatul Amaliyah",
+                  "text": "Jamiatul Amaliyah ist eine muslimische Einrichtung in der Nähe des Pink Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        119.490547,
+                        -8.590233
+                  ]
+            },
+            {
+                  "name": "Bustanul Jannah",
+                  "text": "Bustanul Jannah ist ein muslimisches Zentrum am Pink Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        119.487876,
+                        -8.592218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandy Island",
+                  "text": "A Sandy Island egy festői látványosság a Pink Beach és a Komodo-dombormű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        119.589963,
+                        -8.547356
+                  ]
+            },
+            {
+                  "name": "Kampung Komodo",
+                  "text": "A Komodo Village egy figyelemre méltó település a Pink Beach régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.488614,
+                        -8.589551
+                  ]
+            },
+            {
+                  "name": "Regata Hill",
+                  "text": "A Regata Hill kiváló kilátópontot kínál a Pink Beachnél.",
+                  "category": "natural",
+                  "coords": [
+                        119.49827,
+                        -8.570099
+                  ]
+            },
+            {
+                  "name": "Komodo Dragon Nest",
+                  "text": "A Komodo Dragon Nest egy egyedi kilátópont a Pink Beach közelében.",
+                  "category": "natural",
+                  "coords": [
+                        119.501876,
+                        -8.564126
+                  ]
+            },
+            {
+                  "name": "Pantai Merah Muda",
+                  "text": "A Pink Beach egy híres, rózsaszínes homokú strand ebben a régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        119.519798,
+                        -8.601288
+                  ]
+            },
+            {
+                  "name": "Jamiatul Amaliyah",
+                  "text": "A Jamiatul Amaliyah egy muszlim létesítmény a Pink Beach környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        119.490547,
+                        -8.590233
+                  ]
+            },
+            {
+                  "name": "Bustanul Jannah",
+                  "text": "A Bustanul Jannah egy muszlim központ a Pink Beach térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        119.487876,
+                        -8.592218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandy Island",
+                  "text": "Sandy Island este o atracție pitorească lângă Pink Beach și Relieful Komodo.",
+                  "category": "landmark",
+                  "coords": [
+                        119.589963,
+                        -8.547356
+                  ]
+            },
+            {
+                  "name": "Kampung Komodo",
+                  "text": "Komodo Village este o așezare atractivă în zona Pink Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        119.488614,
+                        -8.589551
+                  ]
+            },
+            {
+                  "name": "Regata Hill",
+                  "text": "Regata Hill oferă un punct de belvedere excelent la Pink Beach.",
+                  "category": "natural",
+                  "coords": [
+                        119.49827,
+                        -8.570099
+                  ]
+            },
+            {
+                  "name": "Komodo Dragon Nest",
+                  "text": "Punctul de observație Komodo Dragon Nest oferă o priveliște inedită lângă Pink Beach.",
+                  "category": "natural",
+                  "coords": [
+                        119.501876,
+                        -8.564126
+                  ]
+            },
+            {
+                  "name": "Pantai Merah Muda",
+                  "text": "Pink Beach este o plajă faimoasă cu nisip rozatic din această regiune.",
+                  "category": "recreational",
+                  "coords": [
+                        119.519798,
+                        -8.601288
+                  ]
+            },
+            {
+                  "name": "Jamiatul Amaliyah",
+                  "text": "Jamiatul Amaliyah este o instituție musulmană din zona Pink Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        119.490547,
+                        -8.590233
+                  ]
+            },
+            {
+                  "name": "Bustanul Jannah",
+                  "text": "Bustanul Jannah este un centru musulman aflat la Pink Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        119.487876,
+                        -8.592218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandy Island",
+                  "text": "Sandy Island is a picturesque attraction near Pink Beach and the Komodo Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        119.589963,
+                        -8.547356
+                  ]
+            },
+            {
+                  "name": "Komodo Village",
+                  "text": "Komodo Village is a notable settlement in the Pink Beach region.",
+                  "category": "landmark",
+                  "coords": [
+                        119.488614,
+                        -8.589551
+                  ]
+            },
+            {
+                  "name": "Regata Hill",
+                  "text": "Regata Hill offers an excellent viewpoint at Pink Beach.",
+                  "category": "natural",
+                  "coords": [
+                        119.49827,
+                        -8.570099
+                  ]
+            },
+            {
+                  "name": "Komodo Dragon Nest",
+                  "text": "The Komodo Dragon Nest viewpoint provides unique sights near Pink Beach.",
+                  "category": "natural",
+                  "coords": [
+                        119.501876,
+                        -8.564126
+                  ]
+            },
+            {
+                  "name": "Pink Beach",
+                  "text": "Pink Beach is a famous beach with pinkish sand in this region.",
+                  "category": "recreational",
+                  "coords": [
+                        119.519798,
+                        -8.601288
+                  ]
+            },
+            {
+                  "name": "Jamiatul Amaliyah",
+                  "text": "Jamiatul Amaliyah is a Muslim establishment near Pink Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        119.490547,
+                        -8.590233
+                  ]
+            },
+            {
+                  "name": "Bustanul Jannah",
+                  "text": "Bustanul Jannah is a Muslim center located near Pink Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        119.487876,
+                        -8.592218
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "ID-NT",
     coords: [119.522, -8.591],
@@ -435,7 +3540,304 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "bada-valley-relief-v2",
+    id: "bada-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baula",
+                  "text": "Baula ist ein Denkmal in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.250941,
+                        -1.901411
+                  ]
+            },
+            {
+                  "name": "Palindo statue",
+                  "text": "Die Palindo-Statue ist eine bedeutende archäologische Stätte in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.25495,
+                        -1.859615
+                  ]
+            },
+            {
+                  "name": "Suso",
+                  "text": "Suso ist eine archäologische Stätte in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.24645,
+                        -1.86369
+                  ]
+            },
+            {
+                  "name": "Loga statue",
+                  "text": "Die Loga-Statue ist ein historischer Fundort in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.279655,
+                        -1.863776
+                  ]
+            },
+            {
+                  "name": "Langke Bulawa statue",
+                  "text": "Die Langke Bulawa-Statue ist eine archäologische Stätte in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.291542,
+                        -1.853113
+                  ]
+            },
+            {
+                  "name": "Oba statue",
+                  "text": "Die Oba-Statue ist eine archäologische Stätte in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.231436,
+                        -1.868569
+                  ]
+            },
+            {
+                  "name": "Mpeime",
+                  "text": "Mpeime ist eine archäologische Stätte in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.230599,
+                        -1.864954
+                  ]
+            },
+            {
+                  "name": "Gereja Bada",
+                  "text": "Die Gereja Bada ist eine christliche Kirche in bada-valley-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.276481,
+                        -1.848286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baula",
+                  "text": "A Baula egy műemlék bada-valley-relief-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        120.250941,
+                        -1.901411
+                  ]
+            },
+            {
+                  "name": "Palindo statue",
+                  "text": "A Palindo szobor egy jelentős régészeti lelőhely bada-valley-relief-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        120.25495,
+                        -1.859615
+                  ]
+            },
+            {
+                  "name": "Suso",
+                  "text": "A Suso egy régészeti lelőhely bada-valley-relief-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        120.24645,
+                        -1.86369
+                  ]
+            },
+            {
+                  "name": "Loga statue",
+                  "text": "A Loga szobor egy történelmi régészeti helyszín bada-valley-relief-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        120.279655,
+                        -1.863776
+                  ]
+            },
+            {
+                  "name": "Langke Bulawa statue",
+                  "text": "A Langke Bulawa szobor egy régészeti lelőhely bada-valley-relief-v2 régióban.",
+                  "category": "historical",
+                  "coords": [
+                        120.291542,
+                        -1.853113
+                  ]
+            },
+            {
+                  "name": "Oba statue",
+                  "text": "Az Oba szobor egy ősi régészeti emlék bada-valley-relief-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        120.231436,
+                        -1.868569
+                  ]
+            },
+            {
+                  "name": "Mpeime",
+                  "text": "A Mpeime egy régészeti lelőhely bada-valley-relief-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        120.230599,
+                        -1.864954
+                  ]
+            },
+            {
+                  "name": "Gereja Bada",
+                  "text": "A Gereja Bada egy keresztény templom bada-valley-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        120.276481,
+                        -1.848286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baula",
+                  "text": "Baula este un monument din bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.250941,
+                        -1.901411
+                  ]
+            },
+            {
+                  "name": "Palindo statue",
+                  "text": "Statuia Palindo este un sit arheologic important din bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.25495,
+                        -1.859615
+                  ]
+            },
+            {
+                  "name": "Suso",
+                  "text": "Suso este un sit arheologic situat în bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.24645,
+                        -1.86369
+                  ]
+            },
+            {
+                  "name": "Loga statue",
+                  "text": "Statuia Loga este o locație arheologică din bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.279655,
+                        -1.863776
+                  ]
+            },
+            {
+                  "name": "Langke Bulawa statue",
+                  "text": "Statuia Langke Bulawa este un sit arheologic în bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.291542,
+                        -1.853113
+                  ]
+            },
+            {
+                  "name": "Oba statue",
+                  "text": "Statuia Oba este o atracție arheologică din bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.231436,
+                        -1.868569
+                  ]
+            },
+            {
+                  "name": "Mpeime",
+                  "text": "Mpeime este un sit arheologic situat în bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.230599,
+                        -1.864954
+                  ]
+            },
+            {
+                  "name": "Gereja Bada",
+                  "text": "Gereja Bada este o biserică din bada-valley-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.276481,
+                        -1.848286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baula",
+                  "text": "Baula is a monument situated in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.250941,
+                        -1.901411
+                  ]
+            },
+            {
+                  "name": "Palindo statue",
+                  "text": "The Palindo statue is a notable archaeological site located in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.25495,
+                        -1.859615
+                  ]
+            },
+            {
+                  "name": "Suso",
+                  "text": "Suso is an archaeological site in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.24645,
+                        -1.86369
+                  ]
+            },
+            {
+                  "name": "Loga statue",
+                  "text": "The Loga statue is a historical archaeological site in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.279655,
+                        -1.863776
+                  ]
+            },
+            {
+                  "name": "Langke Bulawa statue",
+                  "text": "The Langke Bulawa statue is an archaeological site located in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.291542,
+                        -1.853113
+                  ]
+            },
+            {
+                  "name": "Oba statue",
+                  "text": "The Oba statue is an ancient archaeological site in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.231436,
+                        -1.868569
+                  ]
+            },
+            {
+                  "name": "Mpeime",
+                  "text": "Mpeime is an archaeological site found in bada-valley-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.230599,
+                        -1.864954
+                  ]
+            },
+            {
+                  "name": "Gereja Bada",
+                  "text": "Gereja Bada is a Christian church located in bada-valley-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.276481,
+                        -1.848286
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "ID-ST",
     coords: [120.25, -1.85],
@@ -483,7 +3885,628 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "harau-valley-relief-v2",
+    id: "harau-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Sikat",
+                  "text": "Bukit Sikat ist ein beeindruckender Berggipfel, der sich über dem Gebiet harau-valley-relief-v2 erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        100.694114,
+                        -0.113936
+                  ]
+            },
+            {
+                  "name": "Bukit Rangkak",
+                  "text": "Bukit Rangkak ist ein markanter Gipfel, der anspruchsvolle Aufstiege in harau-valley-relief-v2 bietet.",
+                  "category": "natural",
+                  "coords": [
+                        100.690849,
+                        -0.079442
+                  ]
+            },
+            {
+                  "name": "Bukit Kambut",
+                  "text": "Bukit Kambut ist ein malerischer Berggipfel in der Landschaft von harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.704192,
+                        -0.05233
+                  ]
+            },
+            {
+                  "name": "Kelok 9",
+                  "text": "Kelok 9 ist ein berühmter Aussichtspunkt mit spektakulärem Blick auf die kurvenreiche Überführungsstraße in harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.697849,
+                        -0.068139
+                  ]
+            },
+            {
+                  "name": "Kelok Sembilan",
+                  "text": "Kelok Sembilan dient als ikonischer Aussichtspunkt mit Blick auf die dramatischen, erhöhten Serpentinen von harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.698788,
+                        -0.068176
+                  ]
+            },
+            {
+                  "name": "Bukit Kumayan",
+                  "text": "Bukit Kumayan ist ein markanter Gipfel, der einen Panoramablick über die Region harau-valley-relief-v2 bietet.",
+                  "category": "natural",
+                  "coords": [
+                        100.684177,
+                        -0.021669
+                  ]
+            },
+            {
+                  "name": "Bukit Ataptungko",
+                  "text": "Bukit Ataptungko ist ein erkennbarer natürlicher Gipfel in der Landschaft von harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.654651,
+                        -0.006196
+                  ]
+            },
+            {
+                  "name": "Bukit Lintabung",
+                  "text": "Bukit Lintabung ist ein Berggipfel, der Teil des zerklüfteten Geländes in harau-valley-relief-v2 ist.",
+                  "category": "natural",
+                  "coords": [
+                        100.610529,
+                        -0.008657
+                  ]
+            },
+            {
+                  "name": "Bukit Batuitam",
+                  "text": "Der Gipfel des Bukit Batuitam ist eine markante geologische Formation in harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6084,
+                        0.0017
+                  ]
+            },
+            {
+                  "name": "Ngarai Abu",
+                  "text": "Ngarai Abu ist ein markanter Berggipfel und ein natürliches Wahrzeichen in harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6185,
+                        0.0159
+                  ]
+            },
+            {
+                  "name": "Ngarai Kambing",
+                  "text": "Ngarai Kambing ist ein markanter Gipfel, der sich dramatisch über die Landschaft von harau-valley-relief-v2 erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        100.6462,
+                        0.0197
+                  ]
+            },
+            {
+                  "name": "Bukit Sialang",
+                  "text": "Bukit Sialang ist ein natürlicher Gipfel, der zu den malerischen Horizonten von harau-valley-relief-v2 beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        100.6354,
+                        0.0173
+                  ]
+            },
+            {
+                  "name": "Bukit Akarkatidingbaruk",
+                  "text": "Der Gipfel des Bukit Akarkatidingbaruk bietet wunderschöne Naturerlebnisse in der Region harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6505,
+                        0.0023
+                  ]
+            },
+            {
+                  "name": "Bukit Sibantinggi",
+                  "text": "Bukit Sibantinggi ist ein hoher Berggipfel innerhalb der Grenzen von harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6814,
+                        0.0149
+                  ]
+            },
+            {
+                  "name": "Taman Wisata Alam Lembah Harau",
+                  "text": "Der Naturerholungspark Lembah Harau ist ein wunderschönes Naturschutzgebiet, das die üppige Umwelt von harau-valley-relief-v2 schützt.",
+                  "category": "natural",
+                  "coords": [
+                        100.710907,
+                        -0.069475
+                  ]
+            },
+            {
+                  "name": "Cagar Alam Lembah Harau",
+                  "text": "Das Naturschutzgebiet Lembah Harau bewahrt die reiche Artenvielfalt und die atemberaubenden Granitfelsen von harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.667411,
+                        -0.102373
+                  ]
+            },
+            {
+                  "name": "Masjid Mujahiddin Sungai Antuan",
+                  "text": "Masjid Mujahiddin Sungai Antuan ist eine wichtige islamische Kultstätte in harau-valley-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        100.581219,
+                        -0.081688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Sikat",
+                  "text": "A Bukit Sikat egy lenyűgöző hegycsúcs, amely a harau-valley-relief-v2 térség fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        100.694114,
+                        -0.113936
+                  ]
+            },
+            {
+                  "name": "Bukit Rangkak",
+                  "text": "A Bukit Rangkak egy nevezetes hegycsúcs a harau-valley-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        100.690849,
+                        -0.079442
+                  ]
+            },
+            {
+                  "name": "Bukit Kambut",
+                  "text": "A Bukit Kambut egy festői hegycsúcs a harau-valley-relief-v2 táján.",
+                  "category": "natural",
+                  "coords": [
+                        100.704192,
+                        -0.05233
+                  ]
+            },
+            {
+                  "name": "Kelok 9",
+                  "text": "A Kelok 9 egy híres kilátó, amely lenyűgöző látványt nyújt a kanyargós felüljáró útra a harau-valley-relief-v2 térségében.",
+                  "category": "natural",
+                  "coords": [
+                        100.697849,
+                        -0.068139
+                  ]
+            },
+            {
+                  "name": "Kelok Sembilan",
+                  "text": "A Kelok Sembilan egy ikonikus kilátó, amely a harau-valley-relief-v2 drámai, magaslati kanyargós útjaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        100.698788,
+                        -0.068176
+                  ]
+            },
+            {
+                  "name": "Bukit Kumayan",
+                  "text": "A Bukit Kumayan egy kiemelkedő hegycsúcs, amely panorámás kilátást kínál a harau-valley-relief-v2 régióra.",
+                  "category": "natural",
+                  "coords": [
+                        100.684177,
+                        -0.021669
+                  ]
+            },
+            {
+                  "name": "Bukit Ataptungko",
+                  "text": "A Bukit Ataptungko egy könnyen felismerhető természetes hegycsúcs a harau-valley-relief-v2 tájain.",
+                  "category": "natural",
+                  "coords": [
+                        100.654651,
+                        -0.006196
+                  ]
+            },
+            {
+                  "name": "Bukit Lintabung",
+                  "text": "A Bukit Lintabung egy hegycsúcs, amely a harau-valley-relief-v2 zord terepének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        100.610529,
+                        -0.008657
+                  ]
+            },
+            {
+                  "name": "Bukit Batuitam",
+                  "text": "A Bukit Batuitam csúcsa egy különleges geológiai képződmény a harau-valley-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        100.6084,
+                        0.0017
+                  ]
+            },
+            {
+                  "name": "Ngarai Abu",
+                  "text": "A Ngarai Abu egy feltűnő hegycsúcs és természeti nevezetesség a harau-valley-relief-v2 térségében.",
+                  "category": "natural",
+                  "coords": [
+                        100.6185,
+                        0.0159
+                  ]
+            },
+            {
+                  "name": "Ngarai Kambing",
+                  "text": "A Ngarai Kambing egy kiemelkedő hegycsúcs, amely drámaian emelkedik a harau-valley-relief-v2 tája fölé.",
+                  "category": "natural",
+                  "coords": [
+                        100.6462,
+                        0.0197
+                  ]
+            },
+            {
+                  "name": "Bukit Sialang",
+                  "text": "A Bukit Sialang egy természetes hegycsúcs, amely hozzájárul a harau-valley-relief-v2 festői horizontjához.",
+                  "category": "natural",
+                  "coords": [
+                        100.6354,
+                        0.0173
+                  ]
+            },
+            {
+                  "name": "Bukit Akarkatidingbaruk",
+                  "text": "A Bukit Akarkatidingbaruk csúcsa gyönyörű természeti kilátást nyújt a harau-valley-relief-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        100.6505,
+                        0.0023
+                  ]
+            },
+            {
+                  "name": "Bukit Sibantinggi",
+                  "text": "A Bukit Sibantinggi egy magasan fekvő hegycsúcs a harau-valley-relief-v2 határain belül.",
+                  "category": "natural",
+                  "coords": [
+                        100.6814,
+                        0.0149
+                  ]
+            },
+            {
+                  "name": "Taman Wisata Alam Lembah Harau",
+                  "text": "A Lembah Harau Természetvédelmi Rekreációs Park egy gyönyörű természetvédelmi terület, amely a harau-valley-relief-v2 buja környezetét védi.",
+                  "category": "natural",
+                  "coords": [
+                        100.710907,
+                        -0.069475
+                  ]
+            },
+            {
+                  "name": "Cagar Alam Lembah Harau",
+                  "text": "A Lembah Harau Természetvédelmi Terület megőrzi a harau-valley-relief-v2 gazdag biodiverzitását és lenyűgöző gránitszikláit.",
+                  "category": "natural",
+                  "coords": [
+                        100.667411,
+                        -0.102373
+                  ]
+            },
+            {
+                  "name": "Masjid Mujahiddin Sungai Antuan",
+                  "text": "A Masjid Mujahiddin Sungai Antuan egy fontos iszlám imahely a harau-valley-relief-v2 térségében.",
+                  "category": "religious",
+                  "coords": [
+                        100.581219,
+                        -0.081688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Sikat",
+                  "text": "Bukit Sikat este un vârf de munte impresionant care se înalță deasupra zonei harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.694114,
+                        -0.113936
+                  ]
+            },
+            {
+                  "name": "Bukit Rangkak",
+                  "text": "Bukit Rangkak este un vârf montan notabil situat în regiunea harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.690849,
+                        -0.079442
+                  ]
+            },
+            {
+                  "name": "Bukit Kambut",
+                  "text": "Bukit Kambut este un vârf montan pitoresc situat în peisajul din harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.704192,
+                        -0.05233
+                  ]
+            },
+            {
+                  "name": "Kelok 9",
+                  "text": "Kelok 9 este un punct de belvedere faimos care oferă vederi spectaculoase ale drumului șerpuit din harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.697849,
+                        -0.068139
+                  ]
+            },
+            {
+                  "name": "Kelok Sembilan",
+                  "text": "Kelok Sembilan servește ca un punct de belvedere iconic cu vedere la drumurile dramatice șerpuite din harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.698788,
+                        -0.068176
+                  ]
+            },
+            {
+                  "name": "Bukit Kumayan",
+                  "text": "Bukit Kumayan este un vârf proeminent care oferă vederi panoramice asupra regiunii harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.684177,
+                        -0.021669
+                  ]
+            },
+            {
+                  "name": "Bukit Ataptungko",
+                  "text": "Bukit Ataptungko este un vârf natural ușor de recunoscut în peisajul din harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.654651,
+                        -0.006196
+                  ]
+            },
+            {
+                  "name": "Bukit Lintabung",
+                  "text": "Bukit Lintabung este un vârf muntos care face parte din terenul accidentat din harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.610529,
+                        -0.008657
+                  ]
+            },
+            {
+                  "name": "Bukit Batuitam",
+                  "text": "Vârful Bukit Batuitam este o caracteristică geologică distinctă situată în harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6084,
+                        0.0017
+                  ]
+            },
+            {
+                  "name": "Ngarai Abu",
+                  "text": "Ngarai Abu este un vârf de munte impresionant și un punct de reper natural în harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6185,
+                        0.0159
+                  ]
+            },
+            {
+                  "name": "Ngarai Kambing",
+                  "text": "Ngarai Kambing este un vârf proeminent care se înalță dramatic deasupra peisajului din harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6462,
+                        0.0197
+                  ]
+            },
+            {
+                  "name": "Bukit Sialang",
+                  "text": "Bukit Sialang este un vârf natural ce contribuie la orizonturile pitorești din harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6354,
+                        0.0173
+                  ]
+            },
+            {
+                  "name": "Bukit Akarkatidingbaruk",
+                  "text": "Vârful Bukit Akarkatidingbaruk oferă priveliști naturale frumoase în regiunea harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6505,
+                        0.0023
+                  ]
+            },
+            {
+                  "name": "Bukit Sibantinggi",
+                  "text": "Bukit Sibantinggi este un vârf montan înalt situat în limitele harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6814,
+                        0.0149
+                  ]
+            },
+            {
+                  "name": "Taman Wisata Alam Lembah Harau",
+                  "text": "Parcul Natural de Recreere Lembah Harau este o rezervație naturală frumoasă care protejează mediul luxuriant din harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.710907,
+                        -0.069475
+                  ]
+            },
+            {
+                  "name": "Cagar Alam Lembah Harau",
+                  "text": "Rezervația Naturală Lembah Harau păstrează biodiversitatea bogată și stâncile uimitoare de granit din harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.667411,
+                        -0.102373
+                  ]
+            },
+            {
+                  "name": "Masjid Mujahiddin Sungai Antuan",
+                  "text": "Masjid Mujahiddin Sungai Antuan este un important lăcaș de cult islamic situat în harau-valley-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        100.581219,
+                        -0.081688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Sikat",
+                  "text": "Bukit Sikat is an impressive mountain peak rising over the harau-valley-relief-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        100.694114,
+                        -0.113936
+                  ]
+            },
+            {
+                  "name": "Bukit Rangkak",
+                  "text": "Bukit Rangkak is a notable peak providing challenging ascents in harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.690849,
+                        -0.079442
+                  ]
+            },
+            {
+                  "name": "Bukit Kambut",
+                  "text": "Bukit Kambut is a scenic mountain peak located within the landscape of harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.704192,
+                        -0.05233
+                  ]
+            },
+            {
+                  "name": "Kelok 9",
+                  "text": "Kelok 9 is a famous viewpoint offering spectacular sights of the winding overpass road in harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.697849,
+                        -0.068139
+                  ]
+            },
+            {
+                  "name": "Kelok Sembilan",
+                  "text": "Kelok Sembilan serves as an iconic viewpoint overlooking the dramatic elevated winding roads of harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.698788,
+                        -0.068176
+                  ]
+            },
+            {
+                  "name": "Bukit Kumayan",
+                  "text": "Bukit Kumayan is a prominent peak offering panoramic vistas over the harau-valley-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        100.684177,
+                        -0.021669
+                  ]
+            },
+            {
+                  "name": "Bukit Ataptungko",
+                  "text": "Bukit Ataptungko stands as a recognizable natural peak within the harau-valley-relief-v2 landscape.",
+                  "category": "natural",
+                  "coords": [
+                        100.654651,
+                        -0.006196
+                  ]
+            },
+            {
+                  "name": "Bukit Lintabung",
+                  "text": "Bukit Lintabung is a mountainous peak forming part of the rugged terrain in harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.610529,
+                        -0.008657
+                  ]
+            },
+            {
+                  "name": "Bukit Batuitam",
+                  "text": "The peak of Bukit Batuitam is a distinct geological feature located in harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6084,
+                        0.0017
+                  ]
+            },
+            {
+                  "name": "Ngarai Abu",
+                  "text": "Ngarai Abu is a striking mountain peak and natural landmark in harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6185,
+                        0.0159
+                  ]
+            },
+            {
+                  "name": "Ngarai Kambing",
+                  "text": "Ngarai Kambing is a prominent peak rising dramatically over the landscape of harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6462,
+                        0.0197
+                  ]
+            },
+            {
+                  "name": "Bukit Sialang",
+                  "text": "Bukit Sialang is a natural peak attraction contributing to the scenic horizons of harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6354,
+                        0.0173
+                  ]
+            },
+            {
+                  "name": "Bukit Akarkatidingbaruk",
+                  "text": "The peak of Bukit Akarkatidingbaruk offers beautiful natural vistas in the harau-valley-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        100.6505,
+                        0.0023
+                  ]
+            },
+            {
+                  "name": "Bukit Sibantinggi",
+                  "text": "Bukit Sibantinggi is an elevated mountain peak located within the bounds of harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.6814,
+                        0.0149
+                  ]
+            },
+            {
+                  "name": "Lembah Harau Nature Recreation Park",
+                  "text": "The Lembah Harau Nature Recreation Park is a beautiful nature reserve protecting the lush environment of harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.710907,
+                        -0.069475
+                  ]
+            },
+            {
+                  "name": "Lembah Harau Nature Reserve",
+                  "text": "The Lembah Harau Nature Reserve preserves the rich biodiversity and stunning granite cliffs of harau-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        100.667411,
+                        -0.102373
+                  ]
+            },
+            {
+                  "name": "Masjid Mujahiddin Sungai Antuan",
+                  "text": "Masjid Mujahiddin Sungai Antuan is an important Islamic place of worship located in harau-valley-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        100.581219,
+                        -0.081688
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "ID-SB",
     coords: [100.65, -0.0667],
@@ -531,7 +4554,124 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "togean-islands-coast-relief-v2",
+    id: "togean-islands-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ferry - Desa Tobil",
+                  "text": "Die Ferry - Desa Tobil ist eine lokale Attraktion in togean-islands-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.869193,
+                        -0.368
+                  ]
+            },
+            {
+                  "name": "Karina",
+                  "text": "Karina ist ein Strand in togean-islands-coast-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.899451,
+                        -0.335158
+                  ]
+            },
+            {
+                  "name": "Masjid An'Nur",
+                  "text": "Die Masjid An'Nur ist eine islamische Stätte in togean-islands-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.8669,
+                        -0.413218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ferry - Desa Tobil",
+                  "text": "A Ferry - Desa Tobil egy látványosság togean-islands-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.869193,
+                        -0.368
+                  ]
+            },
+            {
+                  "name": "Karina",
+                  "text": "A Karina egy strand togean-islands-coast-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        121.899451,
+                        -0.335158
+                  ]
+            },
+            {
+                  "name": "Masjid An'Nur",
+                  "text": "A Masjid An'Nur egy mecset togean-islands-coast-relief-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.8669,
+                        -0.413218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ferry - Desa Tobil",
+                  "text": "Ferry - Desa Tobil este o atracție din togean-islands-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.869193,
+                        -0.368
+                  ]
+            },
+            {
+                  "name": "Karina",
+                  "text": "Karina este o plajă din togean-islands-coast-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.899451,
+                        -0.335158
+                  ]
+            },
+            {
+                  "name": "Masjid An'Nur",
+                  "text": "Masjid An'Nur este un lăcaș islamic din togean-islands-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.8669,
+                        -0.413218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ferry - Desa Tobil",
+                  "text": "Ferry - Desa Tobil is a local attraction in togean-islands-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.869193,
+                        -0.368
+                  ]
+            },
+            {
+                  "name": "Karina",
+                  "text": "Karina is a beach located in togean-islands-coast-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        121.899451,
+                        -0.335158
+                  ]
+            },
+            {
+                  "name": "Masjid An'Nur",
+                  "text": "Masjid An'Nur is an Islamic site in togean-islands-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.8669,
+                        -0.413218
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "ID-ST",
     coords: [121.9, -0.4],
@@ -579,7 +4719,52 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "alas-valley-relief-v2",
+    id: "alas-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Panji",
+                  "text": "Ein markanter Berggipfel im Alas-Tal, der einen weiten Blick über das indonesische Hochland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        97.5762,
+                        3.1282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Panji",
+                  "text": "Kiemelkedő hegycsúcs az Alas-völgyben, ahonnan pazar kilátás nyílik az indonéz felföldre.",
+                  "category": "natural",
+                  "coords": [
+                        97.5762,
+                        3.1282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Panji",
+                  "text": "Un vârf muntos proeminent în Valea Alas, oferind vederi largi asupra zonelor muntoase indoneziene.",
+                  "category": "natural",
+                  "coords": [
+                        97.5762,
+                        3.1282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Panji",
+                  "text": "A prominent mountain peak in the Alas Valley offering wide views over the Indonesian highlands.",
+                  "category": "natural",
+                  "coords": [
+                        97.5762,
+                        3.1282
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "ID-AC",
     coords: [97.6, 3.2],
@@ -627,7 +4812,808 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "mbeliling-forest-coast-relief-v2",
+    id: "mbeliling-forest-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "View point on Labuan Bajo & Komodo",
+                  "text": "Dieser Aussichtspunkt in mbeliling-forest-coast-relief-v2 bietet malerische Ausblicke auf Labuan Bajo und Komodo.",
+                  "category": "natural",
+                  "coords": [
+                        119.991556,
+                        -8.583657
+                  ]
+            },
+            {
+                  "name": "Cancan walung",
+                  "text": "Cancan walung ist eine lokale Touristenattraktion in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995325,
+                        -8.558359
+                  ]
+            },
+            {
+                  "name": "Compang Uling",
+                  "text": "Compang Uling ist eine archäologische Stätte, die historische Überreste in mbeliling-forest-coast-relief-v2 bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        120.049738,
+                        -8.602932
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Fatima, Wangkung",
+                  "text": "Die Gereja Santa Maria Fatima, Wangkung ist eine lokale Kultstätte in der Gegend von mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.005647,
+                        -8.516147
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Theresia Lisieux, Longgo Dalong",
+                  "text": "Gereja Santa Theresia Lisieux in Longgo Dalong dient als Kultstätte für die lokale Gemeinde von mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        119.937327,
+                        -8.569591
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Mikhael, Noa",
+                  "text": "Gereja Santo Mikhael in Noa ist eine bemerkenswerte religiöse Stätte in mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.04435,
+                        -8.58363
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Penghibur Orang Berdukacita, Rekas",
+                  "text": "Diese Kirche in Rekas fungiert als spirituelles Zentrum und Kultstätte in mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.054213,
+                        -8.621745
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Klaus, Werang",
+                  "text": "Gereja Santo Klaus in Werang ist ein Ort der Anbetung für die Bewohner von mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.008963,
+                        -8.652447
+                  ]
+            },
+            {
+                  "name": "Kapela Roe",
+                  "text": "Kapela Roe ist eine christliche Kapelle, die religiöse Gottesdienste in der Region mbeliling-forest-coast-relief-v2 anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.020435,
+                        -8.595652
+                  ]
+            },
+            {
+                  "name": "Masjid Kengos",
+                  "text": "Masjid Kengos ist eine Moschee für die lokale muslimische Gemeinde in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047861,
+                        -8.574148
+                  ]
+            },
+            {
+                  "name": "Kapela Tondong Raja",
+                  "text": "Kapela Tondong Raja ist eine lokale christliche Kapelle in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.057639,
+                        -8.586668
+                  ]
+            },
+            {
+                  "name": "Masjid Muntung",
+                  "text": "Masjid Muntung ist eine islamische Kultstätte in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.050752,
+                        -8.594376
+                  ]
+            },
+            {
+                  "name": "Masjid Ndewel",
+                  "text": "Die Masjid Ndewel befindet sich in mbeliling-forest-coast-relief-v2 und bietet einen Versammlungsort für islamische Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046514,
+                        -8.584528
+                  ]
+            },
+            {
+                  "name": "Kapela Wae Masa",
+                  "text": "Kapela Wae Masa ist ein Ort der Anbetung für die Anwohner von mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.028128,
+                        -8.5931
+                  ]
+            },
+            {
+                  "name": "Masjid Rangga watu",
+                  "text": "Die Masjid Rangga watu ist eine Moschee, die spirituelle Dienste in mbeliling-forest-coast-relief-v2 anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.043231,
+                        -8.612285
+                  ]
+            },
+            {
+                  "name": "Masjid Bambor",
+                  "text": "Die Masjid Bambor ist ein lokales muslimisches Gemeindezentrum in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.058099,
+                        -8.613536
+                  ]
+            },
+            {
+                  "name": "Kapela Pusut",
+                  "text": "Kapela Pusut ist eine etablierte Kultstätte in mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.071685,
+                        -8.653744
+                  ]
+            },
+            {
+                  "name": "Kapela Santu Klaus",
+                  "text": "Kapela Santu Klaus ist eine christliche religiöse Einrichtung in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.005923,
+                        -8.642239
+                  ]
+            },
+            {
+                  "name": "Masjid Kondas",
+                  "text": "Die Masjid Kondas bietet einen Raum für islamische Gottesdienste im Bereich von mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.034469,
+                        -8.574359
+                  ]
+            },
+            {
+                  "name": "Kapela St. Yohanes Pemandi",
+                  "text": "Kapela St. Yohanes Pemandi ist eine christliche Kapelle, die den örtlichen Gläubigen von mbeliling-forest-coast-relief-v2 dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.039773,
+                        -8.574692
+                  ]
+            },
+            {
+                  "name": "Pasar Rekas",
+                  "text": "Pasar Rekas ist ein lokaler Markt, auf dem in mbeliling-forest-coast-relief-v2 Waren des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        120.050849,
+                        -8.625584
+                  ]
+            },
+            {
+                  "name": "Pasar Werang",
+                  "text": "Besucher von mbeliling-forest-coast-relief-v2 können auf dem Pasar Werang den lokalen Handel erleben.",
+                  "category": "cultural",
+                  "coords": [
+                        120.010876,
+                        -8.651564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View point on Labuan Bajo & Komodo",
+                  "text": "Ez a kilátó mbeliling-forest-coast-relief-v2 területén festői kilátást nyújt Labuan Bajóra és Komodóra.",
+                  "category": "natural",
+                  "coords": [
+                        119.991556,
+                        -8.583657
+                  ]
+            },
+            {
+                  "name": "Cancan walung",
+                  "text": "A Cancan walung egy helyi turisztikai látványosság mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995325,
+                        -8.558359
+                  ]
+            },
+            {
+                  "name": "Compang Uling",
+                  "text": "A Compang Uling egy régészeti lelőhely, amely történelmi maradványokat őriz mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        120.049738,
+                        -8.602932
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Fatima, Wangkung",
+                  "text": "A Gereja Santa Maria Fatima, Wangkung egy helyi istentiszteleti hely mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        120.005647,
+                        -8.516147
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Theresia Lisieux, Longgo Dalong",
+                  "text": "A Longgo Dalongban található Gereja Santa Theresia Lisieux a mbeliling-forest-coast-relief-v2 közösség istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        119.937327,
+                        -8.569591
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Mikhael, Noa",
+                  "text": "A noai Gereja Santo Mikhael egy figyelemre méltó vallási hely mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        120.04435,
+                        -8.58363
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Penghibur Orang Berdukacita, Rekas",
+                  "text": "Ez a rekasi templom szellemi központként és istentiszteleti helyként működik mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        120.054213,
+                        -8.621745
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Klaus, Werang",
+                  "text": "A werangi Gereja Santo Klaus istentiszteleti hely a mbeliling-forest-coast-relief-v2 területén élők számára.",
+                  "category": "religious",
+                  "coords": [
+                        120.008963,
+                        -8.652447
+                  ]
+            },
+            {
+                  "name": "Kapela Roe",
+                  "text": "A Kapela Roe egy keresztény kápolna, amely vallási szolgáltatásokat nyújt mbeliling-forest-coast-relief-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.020435,
+                        -8.595652
+                  ]
+            },
+            {
+                  "name": "Masjid Kengos",
+                  "text": "A Masjid Kengos egy mecset, amely a helyi muszlim közösséget szolgálja ki mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047861,
+                        -8.574148
+                  ]
+            },
+            {
+                  "name": "Kapela Tondong Raja",
+                  "text": "A Kapela Tondong Raja egy helyi keresztény kápolna mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.057639,
+                        -8.586668
+                  ]
+            },
+            {
+                  "name": "Masjid Muntung",
+                  "text": "A Masjid Muntung egy iszlám istentiszteleti hely mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.050752,
+                        -8.594376
+                  ]
+            },
+            {
+                  "name": "Masjid Ndewel",
+                  "text": "A mbeliling-forest-coast-relief-v2 területén található Masjid Ndewel az iszlám imák gyülekezési helye.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046514,
+                        -8.584528
+                  ]
+            },
+            {
+                  "name": "Kapela Wae Masa",
+                  "text": "A Kapela Wae Masa egy istentiszteleti hely mbeliling-forest-coast-relief-v2 helyi lakosai számára.",
+                  "category": "religious",
+                  "coords": [
+                        120.028128,
+                        -8.5931
+                  ]
+            },
+            {
+                  "name": "Masjid Rangga watu",
+                  "text": "A Masjid Rangga watu egy mecset, amely vallási szolgáltatásokat nyújt mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.043231,
+                        -8.612285
+                  ]
+            },
+            {
+                  "name": "Masjid Bambor",
+                  "text": "A Masjid Bambor egy helyi muszlim gyülekezeti központ mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.058099,
+                        -8.613536
+                  ]
+            },
+            {
+                  "name": "Kapela Pusut",
+                  "text": "A Kapela Pusut egy bejáratott istentiszteleti hely, amely mbeliling-forest-coast-relief-v2 területén található.",
+                  "category": "religious",
+                  "coords": [
+                        120.071685,
+                        -8.653744
+                  ]
+            },
+            {
+                  "name": "Kapela Santu Klaus",
+                  "text": "A Kapela Santu Klaus egy keresztény vallási létesítmény mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.005923,
+                        -8.642239
+                  ]
+            },
+            {
+                  "name": "Masjid Kondas",
+                  "text": "A Masjid Kondas teret biztosít az iszlám istentiszteletnek mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.034469,
+                        -8.574359
+                  ]
+            },
+            {
+                  "name": "Kapela St. Yohanes Pemandi",
+                  "text": "A Kapela St. Yohanes Pemandi egy keresztény kápolna, amely a mbeliling-forest-coast-relief-v2 helyi híveit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        120.039773,
+                        -8.574692
+                  ]
+            },
+            {
+                  "name": "Pasar Rekas",
+                  "text": "A Pasar Rekas egy helyi piac, ahol napi árukkal kereskednek mbeliling-forest-coast-relief-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        120.050849,
+                        -8.625584
+                  ]
+            },
+            {
+                  "name": "Pasar Werang",
+                  "text": "A mbeliling-forest-coast-relief-v2 látogatói a Pasar Werang piacon tapasztalhatják meg a helyi kereskedelmet.",
+                  "category": "cultural",
+                  "coords": [
+                        120.010876,
+                        -8.651564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View point on Labuan Bajo & Komodo",
+                  "text": "Acest punct de belvedere din mbeliling-forest-coast-relief-v2 oferă priveliști pitorești spre Labuan Bajo și Komodo.",
+                  "category": "natural",
+                  "coords": [
+                        119.991556,
+                        -8.583657
+                  ]
+            },
+            {
+                  "name": "Cancan walung",
+                  "text": "Cancan walung este o atracție turistică locală situată în mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995325,
+                        -8.558359
+                  ]
+            },
+            {
+                  "name": "Compang Uling",
+                  "text": "Compang Uling este un sit arheologic care păstrează vestigii istorice în mbeliling-forest-coast-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.049738,
+                        -8.602932
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Fatima, Wangkung",
+                  "text": "Gereja Santa Maria Fatima, Wangkung este un lăcaș de cult local în zona mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.005647,
+                        -8.516147
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Theresia Lisieux, Longgo Dalong",
+                  "text": "Gereja Santa Theresia Lisieux din Longgo Dalong servește ca lăcaș de cult pentru comunitatea din mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        119.937327,
+                        -8.569591
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Mikhael, Noa",
+                  "text": "Gereja Santo Mikhael din Noa este un loc religios notabil din mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.04435,
+                        -8.58363
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Penghibur Orang Berdukacita, Rekas",
+                  "text": "Această biserică din Rekas funcționează ca centru spiritual și lăcaș de cult în mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.054213,
+                        -8.621745
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Klaus, Werang",
+                  "text": "Gereja Santo Klaus din Werang este un lăcaș de cult pentru locuitorii din mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.008963,
+                        -8.652447
+                  ]
+            },
+            {
+                  "name": "Kapela Roe",
+                  "text": "Kapela Roe este o capelă creștină care oferă servicii religioase în regiunea mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.020435,
+                        -8.595652
+                  ]
+            },
+            {
+                  "name": "Masjid Kengos",
+                  "text": "Masjid Kengos este o moschee care servește comunitatea musulmană locală din mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047861,
+                        -8.574148
+                  ]
+            },
+            {
+                  "name": "Kapela Tondong Raja",
+                  "text": "Kapela Tondong Raja este o capelă creștină locală situată în mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.057639,
+                        -8.586668
+                  ]
+            },
+            {
+                  "name": "Masjid Muntung",
+                  "text": "Masjid Muntung este un lăcaș de cult islamic situat în mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.050752,
+                        -8.594376
+                  ]
+            },
+            {
+                  "name": "Masjid Ndewel",
+                  "text": "Situată în mbeliling-forest-coast-relief-v2, Masjid Ndewel oferă un loc de adunare pentru rugăciunile islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046514,
+                        -8.584528
+                  ]
+            },
+            {
+                  "name": "Kapela Wae Masa",
+                  "text": "Kapela Wae Masa este un lăcaș de cult pentru locuitorii din mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.028128,
+                        -8.5931
+                  ]
+            },
+            {
+                  "name": "Masjid Rangga watu",
+                  "text": "Masjid Rangga watu este o moschee care oferă servicii spirituale în mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.043231,
+                        -8.612285
+                  ]
+            },
+            {
+                  "name": "Masjid Bambor",
+                  "text": "Masjid Bambor este un centru de congregație musulman local situat în mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.058099,
+                        -8.613536
+                  ]
+            },
+            {
+                  "name": "Kapela Pusut",
+                  "text": "Kapela Pusut este un lăcaș de cult consacrat, aflat în mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.071685,
+                        -8.653744
+                  ]
+            },
+            {
+                  "name": "Kapela Santu Klaus",
+                  "text": "Kapela Santu Klaus este o clădire religioasă creștină situată în mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.005923,
+                        -8.642239
+                  ]
+            },
+            {
+                  "name": "Masjid Kondas",
+                  "text": "Masjid Kondas oferă un spațiu pentru cultul islamic în zona mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.034469,
+                        -8.574359
+                  ]
+            },
+            {
+                  "name": "Kapela St. Yohanes Pemandi",
+                  "text": "Kapela St. Yohanes Pemandi este o capelă creștină care deservește credincioșii locali din mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.039773,
+                        -8.574692
+                  ]
+            },
+            {
+                  "name": "Pasar Rekas",
+                  "text": "Pasar Rekas este o piață locală unde se comercializează bunuri de zi cu zi în mbeliling-forest-coast-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        120.050849,
+                        -8.625584
+                  ]
+            },
+            {
+                  "name": "Pasar Werang",
+                  "text": "Vizitatorii din mbeliling-forest-coast-relief-v2 pot experimenta comerțul local la Pasar Werang.",
+                  "category": "cultural",
+                  "coords": [
+                        120.010876,
+                        -8.651564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View point on Labuan Bajo & Komodo",
+                  "text": "This viewpoint in mbeliling-forest-coast-relief-v2 offers scenic overlooks of Labuan Bajo and Komodo.",
+                  "category": "natural",
+                  "coords": [
+                        119.991556,
+                        -8.583657
+                  ]
+            },
+            {
+                  "name": "Cancan walung",
+                  "text": "Cancan walung is a local tourist attraction located in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995325,
+                        -8.558359
+                  ]
+            },
+            {
+                  "name": "Compang Uling",
+                  "text": "Compang Uling is an archaeological site preserving historical remnants in mbeliling-forest-coast-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        120.049738,
+                        -8.602932
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Fatima, Wangkung",
+                  "text": "The Gereja Santa Maria Fatima, Wangkung is a local place of worship in the mbeliling-forest-coast-relief-v2 area.",
+                  "category": "religious",
+                  "coords": [
+                        120.005647,
+                        -8.516147
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Theresia Lisieux, Longgo Dalong",
+                  "text": "Gereja Santa Theresia Lisieux in Longgo Dalong serves as a place of worship for the local community of mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        119.937327,
+                        -8.569591
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Mikhael, Noa",
+                  "text": "Gereja Santo Mikhael in Noa is a notable religious site within mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.04435,
+                        -8.58363
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Penghibur Orang Berdukacita, Rekas",
+                  "text": "This church in Rekas functions as a spiritual center and place of worship in mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.054213,
+                        -8.621745
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Klaus, Werang",
+                  "text": "Gereja Santo Klaus in Werang is a place of worship for residents in mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.008963,
+                        -8.652447
+                  ]
+            },
+            {
+                  "name": "Kapela Roe",
+                  "text": "Kapela Roe is a Christian chapel providing religious services in the mbeliling-forest-coast-relief-v2 region.",
+                  "category": "landmark",
+                  "coords": [
+                        120.020435,
+                        -8.595652
+                  ]
+            },
+            {
+                  "name": "Masjid Kengos",
+                  "text": "Masjid Kengos is a mosque serving the local Muslim community in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.047861,
+                        -8.574148
+                  ]
+            },
+            {
+                  "name": "Kapela Tondong Raja",
+                  "text": "Kapela Tondong Raja is a local Christian chapel located in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.057639,
+                        -8.586668
+                  ]
+            },
+            {
+                  "name": "Masjid Muntung",
+                  "text": "Masjid Muntung is an Islamic place of worship situated in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.050752,
+                        -8.594376
+                  ]
+            },
+            {
+                  "name": "Masjid Ndewel",
+                  "text": "Located in mbeliling-forest-coast-relief-v2, Masjid Ndewel offers a gathering place for Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        120.046514,
+                        -8.584528
+                  ]
+            },
+            {
+                  "name": "Kapela Wae Masa",
+                  "text": "Kapela Wae Masa is a place of worship for the local residents of mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.028128,
+                        -8.5931
+                  ]
+            },
+            {
+                  "name": "Masjid Rangga watu",
+                  "text": "Masjid Rangga watu is a mosque providing spiritual services in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.043231,
+                        -8.612285
+                  ]
+            },
+            {
+                  "name": "Masjid Bambor",
+                  "text": "Masjid Bambor is a local Muslim congregation center located in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.058099,
+                        -8.613536
+                  ]
+            },
+            {
+                  "name": "Kapela Pusut",
+                  "text": "Kapela Pusut is an established place of worship found within mbeliling-forest-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        120.071685,
+                        -8.653744
+                  ]
+            },
+            {
+                  "name": "Kapela Santu Klaus",
+                  "text": "Kapela Santu Klaus is a Christian religious facility situated in mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.005923,
+                        -8.642239
+                  ]
+            },
+            {
+                  "name": "Masjid Kondas",
+                  "text": "Masjid Kondas provides a space for Islamic worship in the area of mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.034469,
+                        -8.574359
+                  ]
+            },
+            {
+                  "name": "Kapela St. Yohanes Pemandi",
+                  "text": "Kapela St. Yohanes Pemandi is a Christian chapel serving the local faithful of mbeliling-forest-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        120.039773,
+                        -8.574692
+                  ]
+            },
+            {
+                  "name": "Pasar Rekas",
+                  "text": "Pasar Rekas is a local marketplace where daily goods are traded in mbeliling-forest-coast-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        120.050849,
+                        -8.625584
+                  ]
+            },
+            {
+                  "name": "Pasar Werang",
+                  "text": "Visitors to mbeliling-forest-coast-relief-v2 can experience local commerce at Pasar Werang.",
+                  "category": "cultural",
+                  "coords": [
+                        120.010876,
+                        -8.651564
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "ID-NT",
     coords: [120.0, -8.6],
@@ -723,7 +5709,628 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "tengger-caldera-desert-relief-v2",
+    id: "tengger-caldera-desert-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bike parking and lowest viewpoint",
+                  "text": "Ein niedriger gelegener Aussichtspunkt, der einen ersten, gut zugänglichen Blick auf die weite Tengger-Caldera bietet.",
+                  "category": "natural",
+                  "coords": [
+                        112.953037,
+                        -7.911389
+                  ]
+            },
+            {
+                  "name": "Sunrise Point 1",
+                  "text": "Ein hochgelegener Aussichtspunkt, der ideal ist, um den Sonnenaufgang über den rauchenden Vulkankratern zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        112.951088,
+                        -7.90458
+                  ]
+            },
+            {
+                  "name": "Nice panorama",
+                  "text": "Ein breiter Beobachtungspunkt, der einen Panoramablick auf die einsame vulkanische Wüstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        112.949416,
+                        -7.90566
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "Ein beliebter Grat für Wanderer, um das erste Morgenlicht zu erleben, das den Boden der Caldera beleuchtet.",
+                  "category": "natural",
+                  "coords": [
+                        112.949812,
+                        -7.91021
+                  ]
+            },
+            {
+                  "name": "Seruni Viewpoint",
+                  "text": "Eine befestigte Aussichtsterrasse mit direktem Blick auf den aktiven Krater des Mount Bromo.",
+                  "category": "natural",
+                  "coords": [
+                        112.951049,
+                        -7.910989
+                  ]
+            },
+            {
+                  "name": "Kingkong Hill",
+                  "text": "Einer der höchsten zugänglichen Gipfel, der den ikonischen Weitwinkelblick auf das gesamte Vulkanmassiv bietet.",
+                  "category": "natural",
+                  "coords": [
+                        112.948348,
+                        -7.909098
+                  ]
+            },
+            {
+                  "name": "Secret free entrance to Bromo",
+                  "text": "Ein versteckter Wanderweg, den Einheimische und preisbewusste Reisende nutzen, um die Caldera zu Fuß zu betreten.",
+                  "category": "landmark",
+                  "coords": [
+                        112.963504,
+                        -7.921756
+                  ]
+            },
+            {
+                  "name": "free path to sunrise hill 2 hours",
+                  "text": "Ein steiler, zweistündiger Wanderweg durch die Hügel, der zu einem erhöhten Aussichtspunkt für den Sonnenaufgang führt.",
+                  "category": "landmark",
+                  "coords": [
+                        112.97858,
+                        -7.917408
+                  ]
+            },
+            {
+                  "name": "Museum Tengger",
+                  "text": "Ein Kulturmuseum, das Artefakte und die traditionelle Lebensweise des lokalen Volkes der Tenggeresen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        112.983849,
+                        -7.915719
+                  ]
+            },
+            {
+                  "name": "Ngadas Bat Cave",
+                  "text": "Eine natürliche Kalksteinhöhle in der Nähe des Dorfes Ngadas, die für ihre große Fledermauskolonie bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        112.995483,
+                        -7.917399
+                  ]
+            },
+            {
+                  "name": "The Sea Of Sand",
+                  "text": "Eine weite Ebene aus grauem Vulkansand, die den Fuß des Mount Bromo in der Caldera umgibt.",
+                  "category": "landmark",
+                  "coords": [
+                        112.965901,
+                        -7.930039
+                  ]
+            },
+            {
+                  "name": "Gulang Batuk",
+                  "text": "Ein natürliches Wahrzeichen im Vulkanpark, das Ausblicke auf die umliegenden schroffen Krater und Grate bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        112.948348,
+                        -7.935249
+                  ]
+            },
+            {
+                  "name": "Pura Luhur Poten",
+                  "text": "Ein isolierter Hindu-Tempel, der markant im Sandmeer steht und für das Yadnya-Kasada-Opferfest genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        112.954236,
+                        -7.933372
+                  ]
+            },
+            {
+                  "name": "Pura Agung Dharma Bakti",
+                  "text": "Eine traditionelle hinduistische Gebetsstätte vor der dramatischen Kulisse der vulkanischen Gipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        112.993629,
+                        -7.918944
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein Hindu-Tempel mit kunstvollen Schnitzereien im balinesischen Stil, gelegen an den Hängen der Caldera.",
+                  "category": "landmark",
+                  "coords": [
+                        112.958095,
+                        -7.932821
+                  ]
+            },
+            {
+                  "name": "Mushola",
+                  "text": "Ein einfacher muslimischer Gebetsraum für Reisende, die sich in dem abgelegenen vulkanischen Gelände bewegen.",
+                  "category": "landmark",
+                  "coords": [
+                        112.948381,
+                        -7.905171
+                  ]
+            },
+            {
+                  "name": "Pura Brahma Karana",
+                  "text": "Ein Hindu-Tempel, der der Bewahrung der tenggeresischen Rituale am Rande des Vulkans gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        112.964523,
+                        -7.92169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bike parking and lowest viewpoint",
+                  "text": "Alacsonyabban fekvő kilátóhely, amely könnyen elérhető első rálátást nyújt a hatalmas Tengger-kalderára.",
+                  "category": "natural",
+                  "coords": [
+                        112.953037,
+                        -7.911389
+                  ]
+            },
+            {
+                  "name": "Sunrise Point 1",
+                  "text": "Magaslati kilátóhely, amely tökéletes helyszín a füstölgő vulkáni kráterek feletti napfelkelte megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        112.951088,
+                        -7.90458
+                  ]
+            },
+            {
+                  "name": "Nice panorama",
+                  "text": "Tágas kilátópont, ahonnan panorámás kilátás nyílik a kietlen vulkáni sivatagi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        112.949416,
+                        -7.90566
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "Népszerű gerinc a túrázók számára, ahonnan megcsodálható a kaldera alját megvilágító első reggeli fény.",
+                  "category": "natural",
+                  "coords": [
+                        112.949812,
+                        -7.91021
+                  ]
+            },
+            {
+                  "name": "Seruni Viewpoint",
+                  "text": "Kiépített kilátóterasz, ahonnan közvetlen rálátás nyílik az aktív Mount Bromo kráterére.",
+                  "category": "natural",
+                  "coords": [
+                        112.951049,
+                        -7.910989
+                  ]
+            },
+            {
+                  "name": "Kingkong Hill",
+                  "text": "Az egyik legmagasabb elérhető csúcs, amely az ikonikus, széles látószögű kilátást nyújtja a teljes vulkáni masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        112.948348,
+                        -7.909098
+                  ]
+            },
+            {
+                  "name": "Secret free entrance to Bromo",
+                  "text": "Rejtett gyalogút, amelyet a helyiek és a kalandvágyó utazók használnak, hogy gyalog jussanak be a kalderába.",
+                  "category": "landmark",
+                  "coords": [
+                        112.963504,
+                        -7.921756
+                  ]
+            },
+            {
+                  "name": "free path to sunrise hill 2 hours",
+                  "text": "Meredek, kétórás túraútvonal a dombokon keresztül, amely egy magaslati napfelkelte-kilátóhoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        112.97858,
+                        -7.917408
+                  ]
+            },
+            {
+                  "name": "Museum Tengger",
+                  "text": "Kulturális múzeum, amely a helyi tengger nép tárgyi emlékeit és hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        112.983849,
+                        -7.915719
+                  ]
+            },
+            {
+                  "name": "Ngadas Bat Cave",
+                  "text": "Természetes mészkőbarlang Ngadas falu közelében, amely az ott élő népes denevérkolóniájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        112.995483,
+                        -7.917399
+                  ]
+            },
+            {
+                  "name": "The Sea Of Sand",
+                  "text": "Hatalmas szürke vulkáni homoksíkság, amely a Mount Bromo lábát veszi körül a kalderában.",
+                  "category": "landmark",
+                  "coords": [
+                        112.965901,
+                        -7.930039
+                  ]
+            },
+            {
+                  "name": "Gulang Batuk",
+                  "text": "Természetes tájékozódási pont a vulkáni parkban, kilátással a környező sziklás kráterekre és gerincekre.",
+                  "category": "landmark",
+                  "coords": [
+                        112.948348,
+                        -7.935249
+                  ]
+            },
+            {
+                  "name": "Pura Luhur Poten",
+                  "text": "Magányos hindu templom a Homoktenger közepén, amely a Yadnya Kasada áldozati fesztivál központi helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        112.954236,
+                        -7.933372
+                  ]
+            },
+            {
+                  "name": "Pura Agung Dharma Bakti",
+                  "text": "Hagyományos hindu istentiszteleti hely a vulkáni csúcsok drámai háttere előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        112.993629,
+                        -7.918944
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Bonyolult, balinéz stílusú faragványokkal díszített hindu templom a kaldera lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        112.958095,
+                        -7.932821
+                  ]
+            },
+            {
+                  "name": "Mushola",
+                  "text": "Egyszerű muszlim imaház a távoli vulkáni területen közlekedő utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        112.948381,
+                        -7.905171
+                  ]
+            },
+            {
+                  "name": "Pura Brahma Karana",
+                  "text": "Hindu templom a vulkán peremének közelében, amely a tengger rituálék megőrzését szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        112.964523,
+                        -7.92169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bike parking and lowest viewpoint",
+                  "text": "Un punct de observație situat la o altitudine mai joasă, oferind o primă vedere accesibilă asupra vastei caldere Tengger.",
+                  "category": "natural",
+                  "coords": [
+                        112.953037,
+                        -7.911389
+                  ]
+            },
+            {
+                  "name": "Sunrise Point 1",
+                  "text": "Un punct de belvedere înalt, poziționat perfect pentru a urmări răsăritul soarelui peste craterele vulcanice fumegânde.",
+                  "category": "natural",
+                  "coords": [
+                        112.951088,
+                        -7.90458
+                  ]
+            },
+            {
+                  "name": "Nice panorama",
+                  "text": "Un punct de observație larg care oferă o vedere panoramică asupra peisajului deșertic vulcanic dezolant.",
+                  "category": "natural",
+                  "coords": [
+                        112.949416,
+                        -7.90566
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "O creastă populară pentru excursioniști pentru a vedea prima lumină a dimineții care iluminează fundul calderei.",
+                  "category": "natural",
+                  "coords": [
+                        112.949812,
+                        -7.91021
+                  ]
+            },
+            {
+                  "name": "Seruni Viewpoint",
+                  "text": "O terasă de observație amenajată, cu vedere directă către craterul activ al muntelui Bromo.",
+                  "category": "natural",
+                  "coords": [
+                        112.951049,
+                        -7.910989
+                  ]
+            },
+            {
+                  "name": "Kingkong Hill",
+                  "text": "Unul dintre cele mai înalte vârfuri accesibile, oferind imaginea iconică de ansamblu a întregului masiv vulcanic.",
+                  "category": "natural",
+                  "coords": [
+                        112.948348,
+                        -7.909098
+                  ]
+            },
+            {
+                  "name": "Secret free entrance to Bromo",
+                  "text": "O potecă ascunsă folosită de localnici și călători pentru a intra pe jos în calderă.",
+                  "category": "landmark",
+                  "coords": [
+                        112.963504,
+                        -7.921756
+                  ]
+            },
+            {
+                  "name": "free path to sunrise hill 2 hours",
+                  "text": "O potecă de drumeție abruptă de două ore prin dealuri, care duce la un punct de belvedere ridicat pentru răsărit.",
+                  "category": "landmark",
+                  "coords": [
+                        112.97858,
+                        -7.917408
+                  ]
+            },
+            {
+                  "name": "Museum Tengger",
+                  "text": "Un muzeu cultural care prezintă artefacte și modul de viață tradițional al populației locale Tengger.",
+                  "category": "museum",
+                  "coords": [
+                        112.983849,
+                        -7.915719
+                  ]
+            },
+            {
+                  "name": "Ngadas Bat Cave",
+                  "text": "O peșteră naturală de calcar lângă satul Ngadas, cunoscută pentru marea sa colonie de lilieci.",
+                  "category": "landmark",
+                  "coords": [
+                        112.995483,
+                        -7.917399
+                  ]
+            },
+            {
+                  "name": "The Sea Of Sand",
+                  "text": "O câmpie vastă de nisip vulcanic cenușiu care înconjoară baza muntelui Bromo în interiorul calderei.",
+                  "category": "landmark",
+                  "coords": [
+                        112.965901,
+                        -7.930039
+                  ]
+            },
+            {
+                  "name": "Gulang Batuk",
+                  "text": "Un punct de reper natural în parcul vulcanic, oferind priveliști asupra craterelor și crestelor accidentate din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        112.948348,
+                        -7.935249
+                  ]
+            },
+            {
+                  "name": "Pura Luhur Poten",
+                  "text": "Un templu hindu izolat care se ridică în mijlocul Mării de Nisip, folosit pentru festivalul sacrificial Yadnya Kasada.",
+                  "category": "religious",
+                  "coords": [
+                        112.954236,
+                        -7.933372
+                  ]
+            },
+            {
+                  "name": "Pura Agung Dharma Bakti",
+                  "text": "Un lăcaș de cult hindu tradițional, situat pe fundalul dramatic al vârfurilor vulcanice.",
+                  "category": "landmark",
+                  "coords": [
+                        112.993629,
+                        -7.918944
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un templu hindu cu sculpturi complicate în stil balinez, situat pe pantele calderei.",
+                  "category": "landmark",
+                  "coords": [
+                        112.958095,
+                        -7.932821
+                  ]
+            },
+            {
+                  "name": "Mushola",
+                  "text": "O sală de rugăciune musulmană simplă, pusă la dispoziția călătorilor care traversează terenul vulcanic izolat.",
+                  "category": "landmark",
+                  "coords": [
+                        112.948381,
+                        -7.905171
+                  ]
+            },
+            {
+                  "name": "Pura Brahma Karana",
+                  "text": "Un templu hindu dedicat conservării ritualurilor Tengger, situat lângă marginea vulcanului.",
+                  "category": "landmark",
+                  "coords": [
+                        112.964523,
+                        -7.92169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Car park and lowest viewpoint",
+                  "text": "A lower-altitude viewpoint providing an accessible first look at the vast Tengger caldera.",
+                  "category": "natural",
+                  "coords": [
+                        112.953037,
+                        -7.911389
+                  ]
+            },
+            {
+                  "name": "Sunrise Point 1",
+                  "text": "A high vantage point perfectly positioned to watch the sun rise over the smoking volcanic craters.",
+                  "category": "natural",
+                  "coords": [
+                        112.951088,
+                        -7.90458
+                  ]
+            },
+            {
+                  "name": "Nice panorama",
+                  "text": "A broad observation spot offering a panoramic vista of the desolate volcanic desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        112.949416,
+                        -7.90566
+                  ]
+            },
+            {
+                  "name": "Sunrise viewpoint",
+                  "text": "A popular ridge for hikers to witness the first morning light illuminating the caldera floor.",
+                  "category": "natural",
+                  "coords": [
+                        112.949812,
+                        -7.91021
+                  ]
+            },
+            {
+                  "name": "Seruni Viewpoint",
+                  "text": "An established viewing terrace with a direct line of sight to the active Mount Bromo crater.",
+                  "category": "natural",
+                  "coords": [
+                        112.951049,
+                        -7.910989
+                  ]
+            },
+            {
+                  "name": "Kingkong Hill",
+                  "text": "One of the highest accessible peaks offering the iconic wide-angle view of the entire volcanic massif.",
+                  "category": "natural",
+                  "coords": [
+                        112.948348,
+                        -7.909098
+                  ]
+            },
+            {
+                  "name": "Secret free entrance to Bromo",
+                  "text": "A hidden walking trail used by locals and budget travelers to enter the caldera on foot.",
+                  "category": "landmark",
+                  "coords": [
+                        112.963504,
+                        -7.921756
+                  ]
+            },
+            {
+                  "name": "free path to sunrise hill 2 hours",
+                  "text": "A steep two-hour hiking path through the hills leading to an elevated sunrise viewpoint.",
+                  "category": "landmark",
+                  "coords": [
+                        112.97858,
+                        -7.917408
+                  ]
+            },
+            {
+                  "name": "Museum Tengger",
+                  "text": "A cultural museum showcasing artifacts and traditional ways of life of the local Tenggerese people.",
+                  "category": "museum",
+                  "coords": [
+                        112.983849,
+                        -7.915719
+                  ]
+            },
+            {
+                  "name": "Ngadas Bat Cave",
+                  "text": "A natural limestone cave near Ngadas village known for its large colony of resident bats.",
+                  "category": "landmark",
+                  "coords": [
+                        112.995483,
+                        -7.917399
+                  ]
+            },
+            {
+                  "name": "The Sea Of Sand",
+                  "text": "A vast plain of grey volcanic sand that surrounds the base of Mount Bromo within the caldera.",
+                  "category": "landmark",
+                  "coords": [
+                        112.965901,
+                        -7.930039
+                  ]
+            },
+            {
+                  "name": "Gulang Batuk",
+                  "text": "A natural landmark within the volcanic park, offering views of the surrounding rugged craters and ridges.",
+                  "category": "landmark",
+                  "coords": [
+                        112.948348,
+                        -7.935249
+                  ]
+            },
+            {
+                  "name": "Pura Luhur Poten",
+                  "text": "An isolated Hindu temple standing prominently on the Sea of Sand, used for the Yadnya Kasada sacrificial festival.",
+                  "category": "religious",
+                  "coords": [
+                        112.954236,
+                        -7.933372
+                  ]
+            },
+            {
+                  "name": "Pura Agung Dharma Bakti",
+                  "text": "A traditional Hindu place of worship set against the dramatic backdrop of the volcanic peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        112.993629,
+                        -7.918944
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A Hindu temple featuring intricate Balinese-style carvings, situated on the slopes of the caldera.",
+                  "category": "landmark",
+                  "coords": [
+                        112.958095,
+                        -7.932821
+                  ]
+            },
+            {
+                  "name": "Mushola",
+                  "text": "A simple Muslim prayer room provided for travelers navigating the remote volcanic terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        112.948381,
+                        -7.905171
+                  ]
+            },
+            {
+                  "name": "Pura Brahma Karana",
+                  "text": "A Hindu temple dedicated to the preservation of Tenggerese rituals near the rim of the volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        112.964523,
+                        -7.92169
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "ID-JI",
     coords: [112.95, -7.93],
@@ -771,7 +6378,124 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "karst-of-maros-pangkep-relief-v2",
+    id: "karst-of-maros-pangkep-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Taqwa",
+                  "text": "Diese muslimische Moschee fügt sich in die markante, von steilen Kalksteinfelsen geprägte Karstlandschaft von Maros Pangkep ein.",
+                  "category": "landmark",
+                  "coords": [
+                        119.608165,
+                        -4.785781
+                  ]
+            },
+            {
+                  "name": "Masjid Raodhatul Muttaqin",
+                  "text": "Die Masjid Raodhatul Muttaqin dient den Gläubigen, die am Rande der berühmten indonesischen Karstformationen leben, als Gebetsort.",
+                  "category": "landmark",
+                  "coords": [
+                        119.606334,
+                        -4.799506
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Huda",
+                  "text": "Inmitten des tropischen Reliefs des Maros Pangkep Karstgebietes bietet die Masjid Nurul Huda einen Raum für das islamische Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.596154,
+                        -4.803555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Taqwa",
+                  "text": "Ez a muszlim mecset beleolvad a meredek mészkősziklák által meghatározott, lenyűgöző maros-pangkepi karszttájba.",
+                  "category": "landmark",
+                  "coords": [
+                        119.608165,
+                        -4.785781
+                  ]
+            },
+            {
+                  "name": "Masjid Raodhatul Muttaqin",
+                  "text": "A Masjid Raodhatul Muttaqin imaházként szolgál a híres indonéz karsztképződmények peremén élő hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        119.606334,
+                        -4.799506
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Huda",
+                  "text": "A maros-pangkepi karsztvidék trópusi domborzati viszonyai közepette a Masjid Nurul Huda teret biztosít az iszlám imádságnak.",
+                  "category": "landmark",
+                  "coords": [
+                        119.596154,
+                        -4.803555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Taqwa",
+                  "text": "Această moschee musulmană se integrează în peisajul carstic impresionant, dominat de stânci abrupte de calcar din Maros Pangkep.",
+                  "category": "landmark",
+                  "coords": [
+                        119.608165,
+                        -4.785781
+                  ]
+            },
+            {
+                  "name": "Masjid Raodhatul Muttaqin",
+                  "text": "Masjid Raodhatul Muttaqin servește ca loc de rugăciune pentru credincioșii care trăiesc la marginea faimoaselor formațiuni carstice indoneziene.",
+                  "category": "landmark",
+                  "coords": [
+                        119.606334,
+                        -4.799506
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Huda",
+                  "text": "În mijlocul reliefului tropical al zonei carstice Maros Pangkep, Masjid Nurul Huda oferă un spațiu pentru rugăciunea islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        119.596154,
+                        -4.803555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Taqwa",
+                  "text": "This Muslim mosque blends into the striking karst landscape, characterized by steep limestone cliffs in Maros Pangkep.",
+                  "category": "landmark",
+                  "coords": [
+                        119.608165,
+                        -4.785781
+                  ]
+            },
+            {
+                  "name": "Masjid Raodhatul Muttaqin",
+                  "text": "Masjid Raodhatul Muttaqin serves as a place of prayer for the believers living on the edge of the famous Indonesian karst formations.",
+                  "category": "landmark",
+                  "coords": [
+                        119.606334,
+                        -4.799506
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Huda",
+                  "text": "Amidst the tropical relief of the Maros Pangkep karst area, Masjid Nurul Huda offers a space for Islamic prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        119.596154,
+                        -4.803555
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "ID-SN",
     coords: [119.65, -4.75],
@@ -819,7 +6543,196 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "ciletuh-palabuhanratu-geopark-coast-relief-v2",
+    id: "ciletuh-palabuhanratu-geopark-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puncak Darma",
+                  "text": "Der Puncak Darma bietet einen herrlichen Aussichtspunkt in Ciletuh-Palabuhanratu.",
+                  "category": "natural",
+                  "coords": [
+                        106.471382,
+                        -7.167325
+                  ]
+            },
+            {
+                  "name": "Flog Rock",
+                  "text": "Flog Rock ist eine natürliche Attraktion in Ciletuh-Palabuhanratu.",
+                  "category": "landmark",
+                  "coords": [
+                        106.376009,
+                        -7.236812
+                  ]
+            },
+            {
+                  "name": "Palangpang",
+                  "text": "Palangpang ist ein malerischer Strand in Ciletuh-Palabuhanratu.",
+                  "category": "recreational",
+                  "coords": [
+                        106.461359,
+                        -7.181451
+                  ]
+            },
+            {
+                  "name": "Suaka Margasatwa Cikepuh",
+                  "text": "Das Cikepuh Wildlife Refuge ist ein geschütztes Naturschutzgebiet in der Region des Ciletuh-Palabuhanratu Geoparks.",
+                  "category": "natural",
+                  "coords": [
+                        106.413652,
+                        -7.250683
+                  ]
+            },
+            {
+                  "name": "Pasar Ikan",
+                  "text": "Pasar Ikan ist ein lokaler Markt in der Küstenregion des Ciletuh-Palabuhanratu Geoparks.",
+                  "category": "cultural",
+                  "coords": [
+                        106.455445,
+                        -7.187507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puncak Darma",
+                  "text": "A Puncak Darma csodálatos kilátópontot kínál Ciletuh-Palabuhanratuban.",
+                  "category": "natural",
+                  "coords": [
+                        106.471382,
+                        -7.167325
+                  ]
+            },
+            {
+                  "name": "Flog Rock",
+                  "text": "A Flog Rock egy természeti látványosság Ciletuh-Palabuhanratuban.",
+                  "category": "landmark",
+                  "coords": [
+                        106.376009,
+                        -7.236812
+                  ]
+            },
+            {
+                  "name": "Palangpang",
+                  "text": "A Palangpang egy festői strand Ciletuh-Palabuhanratuban.",
+                  "category": "recreational",
+                  "coords": [
+                        106.461359,
+                        -7.181451
+                  ]
+            },
+            {
+                  "name": "Suaka Margasatwa Cikepuh",
+                  "text": "A Cikepuh Wildlife Refuge egy védett természetvédelmi terület a Ciletuh-Palabuhanratu Geopark területén.",
+                  "category": "natural",
+                  "coords": [
+                        106.413652,
+                        -7.250683
+                  ]
+            },
+            {
+                  "name": "Pasar Ikan",
+                  "text": "A Pasar Ikan egy helyi piac a Ciletuh-Palabuhanratu Geopark tengerparti régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.455445,
+                        -7.187507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puncak Darma",
+                  "text": "Puncak Darma oferă un punct de vedere magnific în Ciletuh-Palabuhanratu.",
+                  "category": "natural",
+                  "coords": [
+                        106.471382,
+                        -7.167325
+                  ]
+            },
+            {
+                  "name": "Flog Rock",
+                  "text": "Flog Rock este o atracție naturală în Ciletuh-Palabuhanratu.",
+                  "category": "landmark",
+                  "coords": [
+                        106.376009,
+                        -7.236812
+                  ]
+            },
+            {
+                  "name": "Palangpang",
+                  "text": "Palangpang este o plajă pitorească în Ciletuh-Palabuhanratu.",
+                  "category": "recreational",
+                  "coords": [
+                        106.461359,
+                        -7.181451
+                  ]
+            },
+            {
+                  "name": "Suaka Margasatwa Cikepuh",
+                  "text": "Cikepuh Wildlife Refuge este o rezervație naturală protejată din zona Geoparcului Ciletuh-Palabuhanratu.",
+                  "category": "natural",
+                  "coords": [
+                        106.413652,
+                        -7.250683
+                  ]
+            },
+            {
+                  "name": "Pasar Ikan",
+                  "text": "Pasar Ikan este o piață locală situată în regiunea de coastă a Geoparcului Ciletuh-Palabuhanratu.",
+                  "category": "cultural",
+                  "coords": [
+                        106.455445,
+                        -7.187507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puncak Darma",
+                  "text": "Puncak Darma offers a magnificent viewpoint in Ciletuh-Palabuhanratu.",
+                  "category": "natural",
+                  "coords": [
+                        106.471382,
+                        -7.167325
+                  ]
+            },
+            {
+                  "name": "Flog Rock",
+                  "text": "Flog Rock is a natural attraction in Ciletuh-Palabuhanratu.",
+                  "category": "landmark",
+                  "coords": [
+                        106.376009,
+                        -7.236812
+                  ]
+            },
+            {
+                  "name": "Palangpang",
+                  "text": "Palangpang is a picturesque beach in Ciletuh-Palabuhanratu.",
+                  "category": "recreational",
+                  "coords": [
+                        106.461359,
+                        -7.181451
+                  ]
+            },
+            {
+                  "name": "Cikepuh Wildlife Refuge",
+                  "text": "Cikepuh Wildlife Refuge is a protected nature reserve located in the Ciletuh-Palabuhanratu Geopark area.",
+                  "category": "natural",
+                  "coords": [
+                        106.413652,
+                        -7.250683
+                  ]
+            },
+            {
+                  "name": "Pasar Ikan",
+                  "text": "Pasar Ikan is a local marketplace situated in the Ciletuh-Palabuhanratu Geopark coastal region.",
+                  "category": "cultural",
+                  "coords": [
+                        106.455445,
+                        -7.187507
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "ID-JB",
     coords: [106.45, -7.22],
@@ -867,7 +6780,1168 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
     },
   },
   {
-    id: "agung-volcano-relief-v2",
+    id: "agung-volcano-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pura Besakih",
+                  "text": "Pura Besakih, oft als \"Muttertempel\" bezeichnet, ist das größte hinduistische Heiligtum in agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.450706,
+                        -8.375361
+                  ]
+            },
+            {
+                  "name": "Gunung Agung",
+                  "text": "Der Mount Agung ist ein aktiver Vulkan und der höchste Gipfel in agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.503266,
+                        -8.341492
+                  ]
+            },
+            {
+                  "name": "Pura Pesimpangan",
+                  "text": "Pura Pesimpangan ist eine Kultstätte in agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.444056,
+                        -8.3836
+                  ]
+            },
+            {
+                  "name": "Pura Merajan Selonding",
+                  "text": "Pura Merajan Selonding ist eine Kultstätte in agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.449737,
+                        -8.375799
+                  ]
+            },
+            {
+                  "name": "Pura Penataran Agung Nangka",
+                  "text": "Pura Penataran Agung Nangka ist eine Kultstätte in agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.539991,
+                        -8.380869
+                  ]
+            },
+            {
+                  "name": "Pura Pasar Agung",
+                  "text": "Pura Pasar Agung ist eine Kultstätte in agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.503117,
+                        -8.368699
+                  ]
+            },
+            {
+                  "name": "Bukit Tanahnui",
+                  "text": "Bukit Tanahnui ist ein Berggipfel in agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.4363,
+                        -8.3233
+                  ]
+            },
+            {
+                  "name": "Bukit Asah",
+                  "text": "Bukit Asah ist ein Berggipfel in agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.4349,
+                        -8.3345
+                  ]
+            },
+            {
+                  "name": "Gunung Paon",
+                  "text": "Gunung Paon ist ein malerischer Gipfel im Gebiet agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5573,
+                        -8.3787
+                  ]
+            },
+            {
+                  "name": "Bukit Puncaksari",
+                  "text": "Bukit Puncaksari ist ein lokaler Berggipfel in der Region agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5227,
+                        -8.3953
+                  ]
+            },
+            {
+                  "name": "Bukit Pilangsari",
+                  "text": "Bukit Pilangsari ist ein markanter Gipfel im Gebiet agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5175,
+                        -8.4285
+                  ]
+            },
+            {
+                  "name": "Bukit Lalang",
+                  "text": "Der Gipfel des Bukit Lalang bietet Naturlandschaften im Gebiet agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.516,
+                        -8.4197
+                  ]
+            },
+            {
+                  "name": "Bukit Pangi",
+                  "text": "Bukit Pangi ist ein Berggipfel in der Region agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5035,
+                        -8.4079
+                  ]
+            },
+            {
+                  "name": "Bukit Cemara",
+                  "text": "Bukit Cemara ist ein bemerkenswerter Gipfel im Gebiet agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5193,
+                        -8.4078
+                  ]
+            },
+            {
+                  "name": "Bukit Buntut",
+                  "text": "Der natürliche Gipfel des Bukit Buntut ist Teil der Landschaft von agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5337,
+                        -8.4032
+                  ]
+            },
+            {
+                  "name": "Bukit Satu",
+                  "text": "Bukit Satu ist ein Berggipfel in der Region agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5213,
+                        -8.4204
+                  ]
+            },
+            {
+                  "name": "Bukit Kecing",
+                  "text": "Bukit Kecing ist eine natürliche Erhebung im Gebiet agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.525,
+                        -8.43
+                  ]
+            },
+            {
+                  "name": "Bukit Kresek",
+                  "text": "Der in agung-volcano-relief-v2 gelegene Bukit Kresek ist ein malerischer Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        115.529,
+                        -8.4243
+                  ]
+            },
+            {
+                  "name": "Basecamp Pendakian Gunung Agung via Pura Lawangan Nangka",
+                  "text": "Diese Galerie dient als Basislager für Wanderungen auf den Berg Agung im Gebiet agung-volcano-relief-v2.",
+                  "category": "museum",
+                  "coords": [
+                        115.536575,
+                        -8.377164
+                  ]
+            },
+            {
+                  "name": "Monumen Perjuangan Tanah Aron",
+                  "text": "Das Monumen Perjuangan Tanah Aron ist ein historisches Denkmal in agung-volcano-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        115.544549,
+                        -8.371699
+                  ]
+            },
+            {
+                  "name": "Desa Temukus Marigold Flower Field",
+                  "text": "Das Studentenblumenfeld von Desa Temukus ist eine farbenprächtige Naturattraktion in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.46231,
+                        -8.369147
+                  ]
+            },
+            {
+                  "name": "Gedong Pelinggih Ida Ratu Bukit Kiwa",
+                  "text": "Gedong Pelinggih Ida Ratu Bukit Kiwa ist ein traditioneller hinduistischer Schrein in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.453104,
+                        -8.373076
+                  ]
+            },
+            {
+                  "name": "Besakih Temple",
+                  "text": "Der Besakih-Tempel ist ein bedeutender und weitläufiger hinduistischer Tempelkomplex in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.446396,
+                        -8.323242
+                  ]
+            },
+            {
+                  "name": "Pura Girikusuma",
+                  "text": "Pura Girikusuma ist ein lokaler hinduistischer Tempel im Gebiet agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.483091,
+                        -8.346752
+                  ]
+            },
+            {
+                  "name": "Smal shrine for offerings",
+                  "text": "Dieser kleine hinduistische Schrein für Opfergaben ist ein ruhiger Ort der Andacht in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.505121,
+                        -8.35085
+                  ]
+            },
+            {
+                  "name": "Pura Puseh Desa Adat Datah",
+                  "text": "Pura Puseh Desa Adat Datah ist ein traditioneller hinduistischer Dorftempel in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.595065,
+                        -8.341207
+                  ]
+            },
+            {
+                  "name": "Pura Pengubengan",
+                  "text": "Pura Pengubengan ist ein ruhiger hinduistischer Tempel im Gebiet agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.461391,
+                        -8.363617
+                  ]
+            },
+            {
+                  "name": "Pura Petirtaan",
+                  "text": "Pura Petirtaan ist ein heiliger Wassertempel des hinduistischen Glaubens in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.509406,
+                        -8.381024
+                  ]
+            },
+            {
+                  "name": "Pura Puseh Abiantihing",
+                  "text": "Pura Puseh Abiantihing ist eine religiöse Stätte, die der hinduistischen Anbetung in agung-volcano-relief-v2 gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        115.534115,
+                        -8.42559
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Puri",
+                  "text": "Pura Dalem Puri ist ein wichtiger hinduistischer Tempel im Gebiet agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.443699,
+                        -8.379011
+                  ]
+            },
+            {
+                  "name": "Pura Batu Madeg",
+                  "text": "Der hinduistische Tempel Pura Batu Madeg gehört zu den heiligen Stätten in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.452712,
+                        -8.372102
+                  ]
+            },
+            {
+                  "name": "Pura Pedharman Ratu Pasek",
+                  "text": "Pura Pedharman Ratu Pasek ist ein hinduistischer Familien- oder Clantempel in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.452799,
+                        -8.374202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pura Besakih",
+                  "text": "A Pura Besakih egy hatalmas hindu templomkomplexum agung-volcano-relief-v2 területén, amelyet Bali \"anyatemplomaként\" ismernek.",
+                  "category": "religious",
+                  "coords": [
+                        115.450706,
+                        -8.375361
+                  ]
+            },
+            {
+                  "name": "Gunung Agung",
+                  "text": "A Mount Agung egy aktív vulkán és a legmagasabb hegycsúcs agung-volcano-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        115.503266,
+                        -8.341492
+                  ]
+            },
+            {
+                  "name": "Pura Pesimpangan",
+                  "text": "A Pura Pesimpangan egy istentiszteleti hely agung-volcano-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        115.444056,
+                        -8.3836
+                  ]
+            },
+            {
+                  "name": "Pura Merajan Selonding",
+                  "text": "A Pura Merajan Selonding egy istentiszteleti hely agung-volcano-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        115.449737,
+                        -8.375799
+                  ]
+            },
+            {
+                  "name": "Pura Penataran Agung Nangka",
+                  "text": "A Pura Penataran Agung Nangka egy istentiszteleti hely agung-volcano-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        115.539991,
+                        -8.380869
+                  ]
+            },
+            {
+                  "name": "Pura Pasar Agung",
+                  "text": "A Pura Pasar Agung egy istentiszteleti hely agung-volcano-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        115.503117,
+                        -8.368699
+                  ]
+            },
+            {
+                  "name": "Bukit Tanahnui",
+                  "text": "A Bukit Tanahnui egy hegycsúcs agung-volcano-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        115.4363,
+                        -8.3233
+                  ]
+            },
+            {
+                  "name": "Bukit Asah",
+                  "text": "A Bukit Asah egy hegycsúcs agung-volcano-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        115.4349,
+                        -8.3345
+                  ]
+            },
+            {
+                  "name": "Gunung Paon",
+                  "text": "A Gunung Paon egy festői hegycsúcs az agung-volcano-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        115.5573,
+                        -8.3787
+                  ]
+            },
+            {
+                  "name": "Bukit Puncaksari",
+                  "text": "A Bukit Puncaksari egy helyi hegycsúcs az agung-volcano-relief-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        115.5227,
+                        -8.3953
+                  ]
+            },
+            {
+                  "name": "Bukit Pilangsari",
+                  "text": "A Bukit Pilangsari egy kiemelkedő hegycsúcs az agung-volcano-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        115.5175,
+                        -8.4285
+                  ]
+            },
+            {
+                  "name": "Bukit Lalang",
+                  "text": "A Bukit Lalang csúcsa természetes tájat kínál az agung-volcano-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        115.516,
+                        -8.4197
+                  ]
+            },
+            {
+                  "name": "Bukit Pangi",
+                  "text": "A Bukit Pangi egy hegycsúcs az agung-volcano-relief-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        115.5035,
+                        -8.4079
+                  ]
+            },
+            {
+                  "name": "Bukit Cemara",
+                  "text": "A Bukit Cemara egy figyelemre méltó hegycsúcs az agung-volcano-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        115.5193,
+                        -8.4078
+                  ]
+            },
+            {
+                  "name": "Bukit Buntut",
+                  "text": "A Bukit Buntut természetes csúcsa az agung-volcano-relief-v2 tájának része.",
+                  "category": "natural",
+                  "coords": [
+                        115.5337,
+                        -8.4032
+                  ]
+            },
+            {
+                  "name": "Bukit Satu",
+                  "text": "A Bukit Satu egy hegycsúcs az agung-volcano-relief-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        115.5213,
+                        -8.4204
+                  ]
+            },
+            {
+                  "name": "Bukit Kecing",
+                  "text": "A Bukit Kecing egy természetes magaslat az agung-volcano-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        115.525,
+                        -8.43
+                  ]
+            },
+            {
+                  "name": "Bukit Kresek",
+                  "text": "Az agung-volcano-relief-v2 területén található Bukit Kresek egy festői hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        115.529,
+                        -8.4243
+                  ]
+            },
+            {
+                  "name": "Basecamp Pendakian Gunung Agung via Pura Lawangan Nangka",
+                  "text": "Ez a galéria az Agung-hegyi túrák alaptáboraként szolgál az agung-volcano-relief-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        115.536575,
+                        -8.377164
+                  ]
+            },
+            {
+                  "name": "Monumen Perjuangan Tanah Aron",
+                  "text": "A Monumen Perjuangan Tanah Aron egy történelmi emlékmű az agung-volcano-relief-v2 régióban.",
+                  "category": "historical",
+                  "coords": [
+                        115.544549,
+                        -8.371699
+                  ]
+            },
+            {
+                  "name": "Desa Temukus Marigold Flower Field",
+                  "text": "A Desa Temukus körömvirágmező egy élénk természeti látványosság az agung-volcano-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.46231,
+                        -8.369147
+                  ]
+            },
+            {
+                  "name": "Gedong Pelinggih Ida Ratu Bukit Kiwa",
+                  "text": "A Gedong Pelinggih Ida Ratu Bukit Kiwa egy hagyományos hindu szentély az agung-volcano-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.453104,
+                        -8.373076
+                  ]
+            },
+            {
+                  "name": "Besakih Temple",
+                  "text": "A Besakih-templom egy jelentős és kiterjedt hindu templomkomplexum az agung-volcano-relief-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        115.446396,
+                        -8.323242
+                  ]
+            },
+            {
+                  "name": "Pura Girikusuma",
+                  "text": "A Pura Girikusuma egy helyi hindu templom az agung-volcano-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.483091,
+                        -8.346752
+                  ]
+            },
+            {
+                  "name": "Smal shrine for offerings",
+                  "text": "Ez a kis hindu áldozati szentély a csendes áhítat helyszíne az agung-volcano-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.505121,
+                        -8.35085
+                  ]
+            },
+            {
+                  "name": "Pura Puseh Desa Adat Datah",
+                  "text": "A Pura Puseh Desa Adat Datah egy hagyományos hindu falusi templom az agung-volcano-relief-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        115.595065,
+                        -8.341207
+                  ]
+            },
+            {
+                  "name": "Pura Pengubengan",
+                  "text": "A Pura Pengubengan egy békés hindu templom az agung-volcano-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.461391,
+                        -8.363617
+                  ]
+            },
+            {
+                  "name": "Pura Petirtaan",
+                  "text": "A Pura Petirtaan a hindu vallás szent vízi temploma az agung-volcano-relief-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        115.509406,
+                        -8.381024
+                  ]
+            },
+            {
+                  "name": "Pura Puseh Abiantihing",
+                  "text": "A Pura Puseh Abiantihing a hindu vallásnak szentelt vallási helyszín az agung-volcano-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.534115,
+                        -8.42559
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Puri",
+                  "text": "A Pura Dalem Puri egy fontos hindu templom az agung-volcano-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.443699,
+                        -8.379011
+                  ]
+            },
+            {
+                  "name": "Pura Batu Madeg",
+                  "text": "A Pura Batu Madeg hindu templom az agung-volcano-relief-v2 szent helyeinek egyike.",
+                  "category": "landmark",
+                  "coords": [
+                        115.452712,
+                        -8.372102
+                  ]
+            },
+            {
+                  "name": "Pura Pedharman Ratu Pasek",
+                  "text": "A Pura Pedharman Ratu Pasek egy hindu családi vagy nemzetségi templom az agung-volcano-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.452799,
+                        -8.374202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pura Besakih",
+                  "text": "Pura Besakih este un mare complex de temple hinduse din agung-volcano-relief-v2, cunoscut și sub numele de „Templul Mamă”.",
+                  "category": "religious",
+                  "coords": [
+                        115.450706,
+                        -8.375361
+                  ]
+            },
+            {
+                  "name": "Gunung Agung",
+                  "text": "Muntele Agung este un vulcan activ și cel mai înalt vârf din agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.503266,
+                        -8.341492
+                  ]
+            },
+            {
+                  "name": "Pura Pesimpangan",
+                  "text": "Pura Pesimpangan este un lăcaș de cult situat în agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.444056,
+                        -8.3836
+                  ]
+            },
+            {
+                  "name": "Pura Merajan Selonding",
+                  "text": "Pura Merajan Selonding este un lăcaș de cult situat în agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.449737,
+                        -8.375799
+                  ]
+            },
+            {
+                  "name": "Pura Penataran Agung Nangka",
+                  "text": "Pura Penataran Agung Nangka este un lăcaș de cult situat în agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.539991,
+                        -8.380869
+                  ]
+            },
+            {
+                  "name": "Pura Pasar Agung",
+                  "text": "Pura Pasar Agung este un lăcaș de cult situat în agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.503117,
+                        -8.368699
+                  ]
+            },
+            {
+                  "name": "Bukit Tanahnui",
+                  "text": "Bukit Tanahnui este un vârf montan situat în agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.4363,
+                        -8.3233
+                  ]
+            },
+            {
+                  "name": "Bukit Asah",
+                  "text": "Bukit Asah este un vârf montan situat în agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.4349,
+                        -8.3345
+                  ]
+            },
+            {
+                  "name": "Gunung Paon",
+                  "text": "Gunung Paon este un vârf pitoresc situat în zona agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5573,
+                        -8.3787
+                  ]
+            },
+            {
+                  "name": "Bukit Puncaksari",
+                  "text": "Bukit Puncaksari este un vârf montan local din regiunea agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5227,
+                        -8.3953
+                  ]
+            },
+            {
+                  "name": "Bukit Pilangsari",
+                  "text": "Bukit Pilangsari este un vârf proeminent situat în zona agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5175,
+                        -8.4285
+                  ]
+            },
+            {
+                  "name": "Bukit Lalang",
+                  "text": "Vârful Bukit Lalang oferă peisaje naturale în zona agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.516,
+                        -8.4197
+                  ]
+            },
+            {
+                  "name": "Bukit Pangi",
+                  "text": "Bukit Pangi este un vârf montan situat în regiunea agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5035,
+                        -8.4079
+                  ]
+            },
+            {
+                  "name": "Bukit Cemara",
+                  "text": "Bukit Cemara este un vârf notabil de explorat în zona agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5193,
+                        -8.4078
+                  ]
+            },
+            {
+                  "name": "Bukit Buntut",
+                  "text": "Vârful natural Bukit Buntut face parte din peisajul agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5337,
+                        -8.4032
+                  ]
+            },
+            {
+                  "name": "Bukit Satu",
+                  "text": "Bukit Satu este un vârf montan situat în regiunea agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.5213,
+                        -8.4204
+                  ]
+            },
+            {
+                  "name": "Bukit Kecing",
+                  "text": "Bukit Kecing este o elevație naturală aflată în zona agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.525,
+                        -8.43
+                  ]
+            },
+            {
+                  "name": "Bukit Kresek",
+                  "text": "Situat în agung-volcano-relief-v2, Bukit Kresek este un vârf montan pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        115.529,
+                        -8.4243
+                  ]
+            },
+            {
+                  "name": "Basecamp Pendakian Gunung Agung via Pura Lawangan Nangka",
+                  "text": "Această galerie servește drept tabără de bază pentru drumețiile pe Muntele Agung din zona agung-volcano-relief-v2.",
+                  "category": "museum",
+                  "coords": [
+                        115.536575,
+                        -8.377164
+                  ]
+            },
+            {
+                  "name": "Monumen Perjuangan Tanah Aron",
+                  "text": "Monumen Perjuangan Tanah Aron este un monument istoric situat în agung-volcano-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        115.544549,
+                        -8.371699
+                  ]
+            },
+            {
+                  "name": "Desa Temukus Marigold Flower Field",
+                  "text": "Câmpul de flori de gălbenele din Desa Temukus este o atracție naturală vibrantă din agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.46231,
+                        -8.369147
+                  ]
+            },
+            {
+                  "name": "Gedong Pelinggih Ida Ratu Bukit Kiwa",
+                  "text": "Gedong Pelinggih Ida Ratu Bukit Kiwa este un altar hindus tradițional situat în agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.453104,
+                        -8.373076
+                  ]
+            },
+            {
+                  "name": "Besakih Temple",
+                  "text": "Templul Besakih este un complex de temple hinduse semnificativ și extins din agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.446396,
+                        -8.323242
+                  ]
+            },
+            {
+                  "name": "Pura Girikusuma",
+                  "text": "Pura Girikusuma este un templu hindus local situat în zona agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.483091,
+                        -8.346752
+                  ]
+            },
+            {
+                  "name": "Smal shrine for offerings",
+                  "text": "Acest mic altar hindus pentru ofrande este un loc liniștit de devotament în agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.505121,
+                        -8.35085
+                  ]
+            },
+            {
+                  "name": "Pura Puseh Desa Adat Datah",
+                  "text": "Pura Puseh Desa Adat Datah este un templu hindus tradițional de sat din agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.595065,
+                        -8.341207
+                  ]
+            },
+            {
+                  "name": "Pura Pengubengan",
+                  "text": "Pura Pengubengan este un templu hindus liniștit situat în zona agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.461391,
+                        -8.363617
+                  ]
+            },
+            {
+                  "name": "Pura Petirtaan",
+                  "text": "Pura Petirtaan este un templu sacru al apei din credința hindusă în agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.509406,
+                        -8.381024
+                  ]
+            },
+            {
+                  "name": "Pura Puseh Abiantihing",
+                  "text": "Pura Puseh Abiantihing este un loc religios dedicat cultului hindus în agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.534115,
+                        -8.42559
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Puri",
+                  "text": "Pura Dalem Puri este un templu hindus important situat în zona agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.443699,
+                        -8.379011
+                  ]
+            },
+            {
+                  "name": "Pura Batu Madeg",
+                  "text": "Templul hindus Pura Batu Madeg face parte din siturile sacre din agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.452712,
+                        -8.372102
+                  ]
+            },
+            {
+                  "name": "Pura Pedharman Ratu Pasek",
+                  "text": "Pura Pedharman Ratu Pasek este un templu hindus dedicat familiei sau clanului în agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.452799,
+                        -8.374202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pura Besakih",
+                  "text": "Pura Besakih is a significant Hindu temple complex in agung-volcano-relief-v2, widely recognized as Bali's \"Mother Temple\".",
+                  "category": "religious",
+                  "coords": [
+                        115.450706,
+                        -8.375361
+                  ]
+            },
+            {
+                  "name": "Mount Agung",
+                  "text": "Mount Agung is an active volcano and the highest peak located in agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.503266,
+                        -8.341492
+                  ]
+            },
+            {
+                  "name": "Pura Pesimpangan",
+                  "text": "Pura Pesimpangan is a place of worship located in agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.444056,
+                        -8.3836
+                  ]
+            },
+            {
+                  "name": "Pura Merajan Selonding",
+                  "text": "Pura Merajan Selonding is a place of worship located in agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.449737,
+                        -8.375799
+                  ]
+            },
+            {
+                  "name": "Pura Penataran Agung Nangka",
+                  "text": "Pura Penataran Agung Nangka is a place of worship located in agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.539991,
+                        -8.380869
+                  ]
+            },
+            {
+                  "name": "Pura Pasar Agung",
+                  "text": "Pura Pasar Agung is a place of worship located in agung-volcano-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        115.503117,
+                        -8.368699
+                  ]
+            },
+            {
+                  "name": "Bukit Tanahnui",
+                  "text": "Bukit Tanahnui is a mountain peak located in agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.4363,
+                        -8.3233
+                  ]
+            },
+            {
+                  "name": "Bukit Asah",
+                  "text": "Bukit Asah is a mountain peak located in agung-volcano-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        115.4349,
+                        -8.3345
+                  ]
+            },
+            {
+                  "name": "Gunung Paon",
+                  "text": "Gunung Paon is a scenic peak located in the agung-volcano-relief-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        115.5573,
+                        -8.3787
+                  ]
+            },
+            {
+                  "name": "Bukit Puncaksari",
+                  "text": "Bukit Puncaksari is a local mountain peak located in the agung-volcano-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        115.5227,
+                        -8.3953
+                  ]
+            },
+            {
+                  "name": "Bukit Pilangsari",
+                  "text": "Bukit Pilangsari is a prominent peak situated in the agung-volcano-relief-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        115.5175,
+                        -8.4285
+                  ]
+            },
+            {
+                  "name": "Bukit Lalang",
+                  "text": "The peak of Bukit Lalang offers natural scenery in the agung-volcano-relief-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        115.516,
+                        -8.4197
+                  ]
+            },
+            {
+                  "name": "Bukit Pangi",
+                  "text": "Bukit Pangi is a mountain peak located within the agung-volcano-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        115.5035,
+                        -8.4079
+                  ]
+            },
+            {
+                  "name": "Bukit Cemara",
+                  "text": "Bukit Cemara is a notable peak to explore in the agung-volcano-relief-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        115.5193,
+                        -8.4078
+                  ]
+            },
+            {
+                  "name": "Bukit Buntut",
+                  "text": "The natural peak of Bukit Buntut is part of the agung-volcano-relief-v2 landscape.",
+                  "category": "natural",
+                  "coords": [
+                        115.5337,
+                        -8.4032
+                  ]
+            },
+            {
+                  "name": "Bukit Satu",
+                  "text": "Bukit Satu is a mountain peak situated in the agung-volcano-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        115.5213,
+                        -8.4204
+                  ]
+            },
+            {
+                  "name": "Bukit Kecing",
+                  "text": "Bukit Kecing is a natural elevation found in the agung-volcano-relief-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        115.525,
+                        -8.43
+                  ]
+            },
+            {
+                  "name": "Bukit Kresek",
+                  "text": "Located in agung-volcano-relief-v2, Bukit Kresek is a scenic mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        115.529,
+                        -8.4243
+                  ]
+            },
+            {
+                  "name": "Basecamp Pendakian Gunung Agung from Pura Lawangan Nangka",
+                  "text": "This gallery serves as a basecamp for Mount Agung hikes in the agung-volcano-relief-v2 area.",
+                  "category": "museum",
+                  "coords": [
+                        115.536575,
+                        -8.377164
+                  ]
+            },
+            {
+                  "name": "Monumen Perjuangan Tanah Aron",
+                  "text": "Monumen Perjuangan Tanah Aron is a historical monument located in agung-volcano-relief-v2.",
+                  "category": "historical",
+                  "coords": [
+                        115.544549,
+                        -8.371699
+                  ]
+            },
+            {
+                  "name": "Desa Temukus Marigold Flower Field",
+                  "text": "The Desa Temukus Marigold Flower Field is a vibrant natural attraction in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.46231,
+                        -8.369147
+                  ]
+            },
+            {
+                  "name": "Gedong Pelinggih Ida Ratu Bukit Kiwa",
+                  "text": "Gedong Pelinggih Ida Ratu Bukit Kiwa is a traditional Hindu shrine situated in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.453104,
+                        -8.373076
+                  ]
+            },
+            {
+                  "name": "Besakih Temple",
+                  "text": "The Besakih Temple is a significant and sprawling Hindu temple complex in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.446396,
+                        -8.323242
+                  ]
+            },
+            {
+                  "name": "Pura Girikusuma",
+                  "text": "Pura Girikusuma is a local Hindu temple located within the agung-volcano-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        115.483091,
+                        -8.346752
+                  ]
+            },
+            {
+                  "name": "Smal shrine for offerings",
+                  "text": "This small Hindu shrine for offerings is a quiet place of devotion in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.505121,
+                        -8.35085
+                  ]
+            },
+            {
+                  "name": "Pura Puseh Desa Adat Datah",
+                  "text": "Pura Puseh Desa Adat Datah is a traditional Hindu village temple in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.595065,
+                        -8.341207
+                  ]
+            },
+            {
+                  "name": "Pura Pengubengan",
+                  "text": "Pura Pengubengan is a serene Hindu temple located in the agung-volcano-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        115.461391,
+                        -8.363617
+                  ]
+            },
+            {
+                  "name": "Pura Petirtaan",
+                  "text": "Pura Petirtaan is a sacred water temple of the Hindu faith in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.509406,
+                        -8.381024
+                  ]
+            },
+            {
+                  "name": "Pura Puseh Abiantihing",
+                  "text": "Pura Puseh Abiantihing is a religious site dedicated to Hindu worship in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.534115,
+                        -8.42559
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Puri",
+                  "text": "Pura Dalem Puri is an important Hindu temple located within the agung-volcano-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        115.443699,
+                        -8.379011
+                  ]
+            },
+            {
+                  "name": "Pura Batu Madeg",
+                  "text": "The Hindu temple of Pura Batu Madeg is part of the sacred sites in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.452712,
+                        -8.372102
+                  ]
+            },
+            {
+                  "name": "Pura Pedharman Ratu Pasek",
+                  "text": "Pura Pedharman Ratu Pasek is a dedicated Hindu family or clan temple in agung-volcano-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.452799,
+                        -8.374202
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ID-BA",
     coords: [115.508, -8.342],

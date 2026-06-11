@@ -1470,7 +1470,7 @@ export const moldovaLifeV2: POI[] = [
             },
             {
                   "name": "Belvedere spre Lacul Beleu",
-                  "text": "Aussichtspunkt mit Panoramablick über den Beleu-See.",
+                  "text": "Belvedere (Aussichtspunkt) mit Blick auf den Lacul Beleu, ein Naturausblick.",
                   "category": "natural",
                   "coords": [
                         28.164445,
@@ -1488,7 +1488,7 @@ export const moldovaLifeV2: POI[] = [
             },
             {
                   "name": "Turnul Lebedelor",
-                  "text": "Ein Aussichtsturm zur Vogelbeobachtung am Beleu-See.",
+                  "text": "Swan Tower ist eine natürliche Felsformation oder Hügel nahe dem Beleu-See.",
                   "category": "natural",
                   "coords": [
                         28.120569,
@@ -1526,7 +1526,7 @@ export const moldovaLifeV2: POI[] = [
             },
             {
                   "name": "Belvedere spre Lacul Beleu",
-                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a Beleu-tóra.",
+                  "text": "Belvedere (kilátó) a Beleu-tóra, természeti látványosság.",
                   "category": "natural",
                   "coords": [
                         28.164445,
@@ -1544,7 +1544,7 @@ export const moldovaLifeV2: POI[] = [
             },
             {
                   "name": "Turnul Lebedelor",
-                  "text": "Madármegfigyelő torony a Beleu-tónál.",
+                  "text": "A Swan Tower természetes sziklaalakzat vagy domb a Beleu-tó közelében.",
                   "category": "natural",
                   "coords": [
                         28.120569,
@@ -1582,7 +1582,7 @@ export const moldovaLifeV2: POI[] = [
             },
             {
                   "name": "Belvedere spre Lacul Beleu",
-                  "text": "Punct de observație ce oferă vederi panoramice asupra Lacului Beleu.",
+                  "text": "Belvedere spre Lacul Beleu, un punct de belvedere natural.",
                   "category": "natural",
                   "coords": [
                         28.164445,
@@ -1600,7 +1600,7 @@ export const moldovaLifeV2: POI[] = [
             },
             {
                   "name": "Turnul Lebedelor",
-                  "text": "Un turn de observație pentru birdwatching la Lacul Beleu.",
+                  "text": "Swan Tower este o formațiune naturală de stâncă sau deal lângă Lacul Beleu.",
                   "category": "natural",
                   "coords": [
                         28.120569,
@@ -1638,7 +1638,7 @@ export const moldovaLifeV2: POI[] = [
             },
             {
                   "name": "Belvedere spre Lacul Beleu",
-                  "text": "Viewpoint offering panoramic views over Lake Beleu.",
+                  "text": "Belvedere viewpoint overlooking Lacul Beleu, a natural scenic spot.",
                   "category": "natural",
                   "coords": [
                         28.164445,
@@ -1656,7 +1656,7 @@ export const moldovaLifeV2: POI[] = [
             },
             {
                   "name": "Swan Tower",
-                  "text": "An observation tower for birdwatching at Lake Beleu.",
+                  "text": "Swan Tower is a natural rock formation or hill near Beleu Lake.",
                   "category": "natural",
                   "coords": [
                         28.120569,

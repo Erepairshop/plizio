@@ -52,7 +52,340 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["The Riyadh Metro project uses automated, driverless trains for all its lines.", "The city’s King Salman Park will be seven times larger than London’s Hyde Park.", "Riyadh experiences very low humidity, making the heat feel dry rather than sultry.", "The Murabba Palace was the primary residence of King Abdulaziz in the 1930s.", "The city is a major center for Islamic banking and finance in the Middle East.", "Riyadh's skyline includes the 385-meter PIF Tower, the tallest in the city.", "The historical district of Al-Bat'ha is the oldest commercial heart of Riyadh.", "Riyadh hosts the G20 summits and other major international diplomatic events."],
     }, image: "/poi-images/riyadh-cities-v2.webp"},
   {
-    id: "jeddah-cities-v2",
+    id: "jeddah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "King Saud Mosque",
+                  "text": "Eine bedeutende islamische Moschee in Dschidda, entworfen vom Architekten Abdel-Wahed El-Wakil und mit markantem Mauerwerk.",
+                  "category": "religious",
+                  "coords": [
+                        39.182536,
+                        21.521864
+                  ]
+            },
+            {
+                  "name": "Tawheed Masjed",
+                  "text": "Eine lokale islamische Moschee, die den Bewohnern in Dschidda einen Raum für das Gemeinschaftsgebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.204497,
+                        21.56678
+                  ]
+            },
+            {
+                  "name": "Masjid el-Aziziyah",
+                  "text": "Ein islamisches Gotteshaus, das den spirituellen Bedürfnissen des Viertels Al-Aziziyah in Dschidda dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.212924,
+                        21.552642
+                  ]
+            },
+            {
+                  "name": "Tin Mosque",
+                  "text": "Eine lokale Viertelmoschee in Dschidda, die eine friedliche Umgebung für die täglichen islamischen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.209232,
+                        21.538993
+                  ]
+            },
+            {
+                  "name": "Al-Redwan Mosque",
+                  "text": "Eine Gemeindemoschee, in der sich einheimische Muslime in Dschidda zu Gebet und Andacht versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        39.204192,
+                        21.560442
+                  ]
+            },
+            {
+                  "name": "Masjid Ta'wun",
+                  "text": "Ein islamisches Gotteshaus, das als spirituelles Zentrum für die lokale Nachbarschaft in Dschidda dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.205087,
+                        21.556251
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "Eine islamische Viertelmoschee im Bezirk Al Zahra in Dschidda für tägliche Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        39.211282,
+                        21.536644
+                  ]
+            },
+            {
+                  "name": "Souq Ghorab",
+                  "text": "Ein geschäftiger lokaler Marktplatz in Dschidda, der eine Vielzahl an traditionellen Waren und Dingen des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        39.175987,
+                        21.550666
+                  ]
+            },
+            {
+                  "name": "Hayat Market",
+                  "text": "Ein kommerzieller Marktplatzkomplex, auf dem Einheimische in Dschidda Kleidung, Lebensmittel und verschiedene Alltagsgegenstände einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        39.212328,
+                        21.547494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King Saud Mosque",
+                  "text": "Egy kiemelkedő iszlám mecset Dzsiddában, amelyet Abdel-Wahed El-Wakil építész tervezett, és jellegzetes téglafalazattal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        39.182536,
+                        21.521864
+                  ]
+            },
+            {
+                  "name": "Tawheed Masjed",
+                  "text": "Helyi iszlám mecset, amely gyülekezeti imateret biztosít a dzsiddai lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.204497,
+                        21.56678
+                  ]
+            },
+            {
+                  "name": "Masjid el-Aziziyah",
+                  "text": "Iszlám istentiszteleti hely, amely a dzsiddai Al-Aziziyah negyed spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        39.212924,
+                        21.552642
+                  ]
+            },
+            {
+                  "name": "Tin Mosque",
+                  "text": "Helyi környékbeli mecset Dzsiddában, amely békés környezetet kínál a napi iszlám imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        39.209232,
+                        21.538993
+                  ]
+            },
+            {
+                  "name": "Al-Redwan Mosque",
+                  "text": "Közösségi mecset, amely összegyűjti a helyi muszlimokat imára és istentiszteletre Dzsiddában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.204192,
+                        21.560442
+                  ]
+            },
+            {
+                  "name": "Masjid Ta'wun",
+                  "text": "Iszlám istentiszteleti ház, amely spirituális központként szolgál a helyi környéken Dzsiddában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.205087,
+                        21.556251
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "Iszlám mecset a dzsiddai Al Zahra negyedben a napi gyülekezetek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.211282,
+                        21.536644
+                  ]
+            },
+            {
+                  "name": "Souq Ghorab",
+                  "text": "Egy forgalmas helyi piac Dzsiddában, amely különféle hagyományos árukat és mindennapi szükségleteket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        39.175987,
+                        21.550666
+                  ]
+            },
+            {
+                  "name": "Hayat Market",
+                  "text": "Egy kereskedelmi piactér-komplexum Dzsiddában, ahol a helyiek ruhákat, élelmiszereket és különféle mindennapi cikkeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        39.212328,
+                        21.547494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King Saud Mosque",
+                  "text": "O moschee islamică proeminentă din Jeddah, proiectată de arhitectul Abdel-Wahed El-Wakil, având zidărie distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        39.182536,
+                        21.521864
+                  ]
+            },
+            {
+                  "name": "Tawheed Masjed",
+                  "text": "O moschee islamică locală care oferă un spațiu de rugăciune congregațională pentru locuitorii din Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.204497,
+                        21.56678
+                  ]
+            },
+            {
+                  "name": "Masjid el-Aziziyah",
+                  "text": "Un lăcaș de cult islamic care deservește nevoile spirituale ale districtului Al-Aziziyah din Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.212924,
+                        21.552642
+                  ]
+            },
+            {
+                  "name": "Tin Mosque",
+                  "text": "O moschee locală de cartier din Jeddah, oferind un mediu liniștit pentru rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        39.209232,
+                        21.538993
+                  ]
+            },
+            {
+                  "name": "Al-Redwan Mosque",
+                  "text": "O moschee comunitară care adună musulmanii locali pentru rugăciune și închinare în Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.204192,
+                        21.560442
+                  ]
+            },
+            {
+                  "name": "Masjid Ta'wun",
+                  "text": "O casă de cult islamică ce servește ca centru spiritual pentru cartierul local din Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.205087,
+                        21.556251
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "O moschee islamică de cartier situată în districtul Al Zahra din Jeddah pentru congregațiile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        39.211282,
+                        21.536644
+                  ]
+            },
+            {
+                  "name": "Souq Ghorab",
+                  "text": "O piață locală aglomerată din Jeddah, care oferă o varietate de bunuri tradiționale și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        39.175987,
+                        21.550666
+                  ]
+            },
+            {
+                  "name": "Hayat Market",
+                  "text": "Un complex comercial de piață unde localnicii cumpără îmbrăcăminte, alimente și diverse articole de zi cu zi din Jeddah.",
+                  "category": "cultural",
+                  "coords": [
+                        39.212328,
+                        21.547494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King Saud Mosque",
+                  "text": "A prominent Islamic mosque in Jeddah designed by architect Abdel-Wahed El-Wakil featuring distinctive brickwork.",
+                  "category": "religious",
+                  "coords": [
+                        39.182536,
+                        21.521864
+                  ]
+            },
+            {
+                  "name": "Tawheed Masjed",
+                  "text": "A local Islamic mosque providing a congregational prayer space for residents in Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.204497,
+                        21.56678
+                  ]
+            },
+            {
+                  "name": "Masjid el-Aziziyah",
+                  "text": "An Islamic place of worship serving the spiritual needs of the Al-Aziziyah district in Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.212924,
+                        21.552642
+                  ]
+            },
+            {
+                  "name": "Tin Mosque",
+                  "text": "A local neighborhood mosque in Jeddah offering a peaceful environment for daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        39.209232,
+                        21.538993
+                  ]
+            },
+            {
+                  "name": "Al-Redwan Mosque",
+                  "text": "A community mosque gathering local Muslims for prayer and worship in Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.204192,
+                        21.560442
+                  ]
+            },
+            {
+                  "name": "Masjid Ta'wun",
+                  "text": "An Islamic house of worship serving as a spiritual center for the local neighborhood in Jeddah.",
+                  "category": "landmark",
+                  "coords": [
+                        39.205087,
+                        21.556251
+                  ]
+            },
+            {
+                  "name": "Al Zahra Mosque",
+                  "text": "A neighborhood Islamic mosque located in the Al Zahra district of Jeddah for daily congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        39.211282,
+                        21.536644
+                  ]
+            },
+            {
+                  "name": "Souq Ghorab",
+                  "text": "A busy local marketplace in Jeddah offering a variety of traditional goods and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        39.175987,
+                        21.550666
+                  ]
+            },
+            {
+                  "name": "Hayat Market",
+                  "text": "A commercial marketplace complex where locals shop for clothing, food, and various daily items in Jeddah.",
+                  "category": "cultural",
+                  "coords": [
+                        39.212328,
+                        21.547494
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-02",
     coords: [39.1979, 21.5433],
@@ -156,7 +489,1384 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["The holiest city in Islam and the birthplace of the Prophet Muhammad.", "The Masjid al-Haram surrounds the Kaaba, the focal point of prayer.", "Makkah Royal Clock Tower stands at 601 meters (1,972 feet).", "Mecca's permanent population is around 2 million, doubling during Hajj.", "The city is located in a valley of the Sarawat Mountains.", "Non-Muslims are strictly prohibited from entering the holy city limits.", "The Zamzam Well has provided water to pilgrims for over 4,000 years.", "Mecca was a prominent trade center on the ancient Incense Route."],
     }, image: "/poi-images/mecca-cities-v2.webp"},
   {
-    id: "medina-cities-v2",
+    id: "medina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prophetenmoschee",
+                  "text": "Diese weitläufige Stätte in Medina wurde 622 gegründet und ist das zweitheiligste Heiligtum des Islam.",
+                  "category": "religious",
+                  "coords": [
+                        39.61116,
+                        24.468792
+                  ]
+            },
+            {
+                  "name": "Dar Al Madinah Museum",
+                  "text": "Ein Kulturmuseum, das das architektonische und städtebauliche Erbe von Medina zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        39.687627,
+                        24.476697
+                  ]
+            },
+            {
+                  "name": "Eastern Expansion Of The Prophet's Mosque",
+                  "text": "Eine moderne architektonische Erweiterung, die zusätzlichen Gebetsraum für muslimische Pilger in Medina bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.615376,
+                        24.469955
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Khaldoun",
+                  "text": "Eine islamische Kultstätte in Medina, die ihren Namen von dem berühmten arabischen Gelehrten hat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.653502,
+                        24.477807
+                  ]
+            },
+            {
+                  "name": "Masjid Sheikh Abdullatif bin Ibrahim Al-Abdullatif",
+                  "text": "Ein islamischer Gebetssaal in der Gemeinde, der die Wohngebiete von Medina versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.638372,
+                        24.460949
+                  ]
+            },
+            {
+                  "name": "Masjid Al Komkomgi",
+                  "text": "Eine Moschee in der Nachbarschaft, die einen speziellen Raum für islamische Gebete in Medina bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.62787,
+                        24.460666
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ashki",
+                  "text": "Ein islamisches Heiligtum, das den Einheimischen in Medina einen ruhigen spirituellen Rückzugsort bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.625053,
+                        24.461774
+                  ]
+            },
+            {
+                  "name": "Masjid Al Khalil",
+                  "text": "Eine islamische Kultstätte, die den täglichen Gemeindengebeten in Medina gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.622084,
+                        24.462
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nasr",
+                  "text": "Eine lokale islamische Gebetseinrichtung, die den spirituellen Bedürfnissen der Einwohner von Medina dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.599304,
+                        24.483924
+                  ]
+            },
+            {
+                  "name": "Masjid Al Khair",
+                  "text": "Eine traditionelle islamische Moschee, die als religiöses Zentrum für das umliegende Viertel Medina fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.592347,
+                        24.483277
+                  ]
+            },
+            {
+                  "name": "Masjid Al Hedaya",
+                  "text": "Ein islamisches Gottesdienstzentrum in Medina, das für seine täglichen Gebetsversammlungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.595342,
+                        24.482806
+                  ]
+            },
+            {
+                  "name": "Majid Mohamed Mahmoud Al Fadil",
+                  "text": "Ein spezieller islamischer Gebetssaal, der muslimischen Gläubigen in Medina Platz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594731,
+                        24.480403
+                  ]
+            },
+            {
+                  "name": "Masjid Hussain Hashim",
+                  "text": "Eine lokale Moschee, die als Schwerpunkt für Gebete der islamischen Gemeinde in Medina fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.597055,
+                        24.480378
+                  ]
+            },
+            {
+                  "name": "Masjid Al Radwan",
+                  "text": "Ein islamisches Heiligtum in Medina, das einen Ort für tägliche Besinnung und Anbetung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.609489,
+                        24.483454
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahma",
+                  "text": "Eine islamische Gemeindemoschee, die die spirituelle Verbindung innerhalb Medinas fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626604,
+                        24.484707
+                  ]
+            },
+            {
+                  "name": "Masjid Al Laos",
+                  "text": "Eine islamische Kultstätte, die der Bevölkerung von Medina regelmäßige Gebetsgottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.621639,
+                        24.484956
+                  ]
+            },
+            {
+                  "name": "Masjid As Saeaty",
+                  "text": "Ein lokaler islamischer Gebetsraum, der den gläubigen Bewohnern von Medina dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.623136,
+                        24.483438
+                  ]
+            },
+            {
+                  "name": "Masjid Sharif Al Aitani",
+                  "text": "Eine auf die Gemeinde ausgerichtete islamische Moschee in der heiligen Stadt Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.619084,
+                        24.481708
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ajlan",
+                  "text": "Eine islamische Kultstätte, in der sich die Einwohner von Medina zum täglichen Gebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        39.62203,
+                        24.480734
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hassawi",
+                  "text": "Ein islamisches Nachbarschaftszentrum, das die täglichen Gebete der muslimischen Gemeinde von Medina erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.624299,
+                        24.477283
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kuwaiti",
+                  "text": "Ein islamischer Gebetssaal, der auf die spirituellen Bedürfnisse der Gläubigen in Medina zugeschnitten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626145,
+                        24.476929
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Harithi",
+                  "text": "Eine lokale Moschee, die einen wesentlichen Raum für islamische Gemeindengebete in Medina bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.627705,
+                        24.475781
+                  ]
+            },
+            {
+                  "name": "Masjid Chilwan",
+                  "text": "Eine islamische Kultstätte, eingebettet in ein Wohnviertel von Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626556,
+                        24.473236
+                  ]
+            },
+            {
+                  "name": "Masjid Al Iman",
+                  "text": "Eine traditionelle islamische Moschee, die als spiritueller Anker für ihr Viertel in Medina dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626255,
+                        24.471138
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Dharr Al-Ghafari",
+                  "text": "Eine islamische Kultstätte in Medina, die nach einem verehrten frühen Gefährten des Propheten benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.614609,
+                        24.475662
+                  ]
+            },
+            {
+                  "name": "Masjid Imam Al Bukhari",
+                  "text": "Eine islamische Moschee in Medina zu Ehren des berühmten persisch-islamischen Gelehrten und Hadith-Sammlers.",
+                  "category": "landmark",
+                  "coords": [
+                        39.613628,
+                        24.472917
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ijabah",
+                  "text": "Eine historische islamische Moschee in Medina, die historisch mit einem bedeutenden Bittgebet des Propheten in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        39.618453,
+                        24.471986
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sudairy",
+                  "text": "Ein lokaler islamischer Gebetssaal, der die täglichen religiösen Pflichten der Einwohner von Medina erfüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.63304,
+                        24.462792
+                  ]
+            },
+            {
+                  "name": "Masjid Ihsan",
+                  "text": "Eine islamische Kultstätte, die sich der Bereitstellung einer ruhigen Gebetsumgebung in Medina widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.636542,
+                        24.463077
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmad ibn Hanbal",
+                  "text": "Eine islamische Moschee in Medina, die den Namen des einflussreichen Begründers der hanbalitischen Rechtsschule trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.634432,
+                        24.468197
+                  ]
+            },
+            {
+                  "name": "Masjid Al Zughaibi",
+                  "text": "Ein islamisches Heiligtum in der Nachbarschaft, das sich auf regelmäßige Gemeindengebete in Medina konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.628779,
+                        24.478172
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Al-Qayyim",
+                  "text": "Diese muslimische Moschee in der Gegend von Medina ist nach dem berühmten islamischen Gelehrten Ibn al-Qayyim benannt. Sie bietet einen traditionellen Raum für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        39.636325,
+                        24.474266
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amirah Sheikha",
+                  "text": "Dieses muslimische Gotteshaus in der Gegend von Medina trägt den Titel einer 'Amirah' oder Prinzessin. Es dient als geweihter Zufluchtsort für islamische Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        39.638897,
+                        24.47365
+                  ]
+            },
+            {
+                  "name": "Masjid Al Manar",
+                  "text": "Diese muslimische Moschee mit der Bedeutung 'Der Leuchtturm' steht in der Gegend von Medina als religiöser Mittelpunkt. Sie bietet den islamischen Gläubigen eine eigene Halle für ihre Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        39.637889,
+                        24.476996
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Yahya",
+                  "text": "Dieses lokale muslimische Gotteshaus im Gebiet von Medina dient als spiritueller Anker für die Nachbarschaft. Es wird regelmäßig für die fünf täglichen islamischen Gebete genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.641693,
+                        24.478079
+                  ]
+            },
+            {
+                  "name": "Masjid Salahdeen Khouja",
+                  "text": "Diese muslimische Moschee in der Gegend von Medina trägt einen Namen, der an das historische Erbe von Salahuddin erinnert. Sie fungiert als traditionelles Gemeindezentrum für das islamische Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.642589,
+                        24.476232
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Kradh",
+                  "text": "Diese muslimische Moschee bietet einen ausgewiesenen Raum für islamische Rituale und ist ein wesentlicher Bestandteil der religiösen Infrastruktur im Gebiet von Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.646459,
+                        24.472447
+                  ]
+            },
+            {
+                  "name": "Masjid Naif Al Roithi",
+                  "text": "Dieses muslimische Heiligtum im Gebiet von Medina versammelt die lokale Gemeinschaft zu islamischen Predigten und Gottesdiensten. Es ist ein friedliches architektonisches Bauwerk, das dem Gebet gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.641854,
+                        24.466153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prophet's Mosque",
+                  "text": "A 622-ben alapított, kiterjedt medinai helyszín az iszlám második legszentebb szentélye.",
+                  "category": "religious",
+                  "coords": [
+                        39.61116,
+                        24.468792
+                  ]
+            },
+            {
+                  "name": "Dar Al Madinah Museum",
+                  "text": "Medina építészeti és városi örökségét bemutató kulturális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        39.687627,
+                        24.476697
+                  ]
+            },
+            {
+                  "name": "Eastern Expansion Of The Prophet's Mosque",
+                  "text": "Egy modern építészeti kiegészítés, amely további imateret biztosít a muszlim zarándokok számára Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.615376,
+                        24.469955
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Khaldoun",
+                  "text": "Egy iszlám istentiszteleti hely Medinában, amely a híres arab tudósról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        39.653502,
+                        24.477807
+                  ]
+            },
+            {
+                  "name": "Masjid Sheikh Abdullatif bin Ibrahim Al-Abdullatif",
+                  "text": "A medinai lakóövezeteket kiszolgáló közösségi iszlám imaterem.",
+                  "category": "landmark",
+                  "coords": [
+                        39.638372,
+                        24.460949
+                  ]
+            },
+            {
+                  "name": "Masjid Al Komkomgi",
+                  "text": "Egy környékbeli mecset, amely dedikált teret biztosít az iszlám imákhoz Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.62787,
+                        24.460666
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ashki",
+                  "text": "Egy iszlám szentély, amely csendes spirituális menedéket kínál a helyieknek Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.625053,
+                        24.461774
+                  ]
+            },
+            {
+                  "name": "Masjid Al Khalil",
+                  "text": "A napi gyülekezeti imáknak szentelt iszlám istentiszteleti hely Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.622084,
+                        24.462
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nasr",
+                  "text": "Egy helyi iszlám imalétesítmény, amely Medina lakóinak spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        39.599304,
+                        24.483924
+                  ]
+            },
+            {
+                  "name": "Masjid Al Khair",
+                  "text": "Egy hagyományos iszlám mecset, amely a környező medinai negyed vallási központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        39.592347,
+                        24.483277
+                  ]
+            },
+            {
+                  "name": "Masjid Al Hedaya",
+                  "text": "Egy iszlám istentiszteleti központ Medinában, amely napi imaösszejöveteleiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.595342,
+                        24.482806
+                  ]
+            },
+            {
+                  "name": "Majid Mohamed Mahmoud Al Fadil",
+                  "text": "Egy dedikált iszlám imaterem, amely muszlim hívőknek ad helyet Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594731,
+                        24.480403
+                  ]
+            },
+            {
+                  "name": "Masjid Hussain Hashim",
+                  "text": "Egy helyi mecset, amely az iszlám közösségi imák fókuszpontjaként működik Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.597055,
+                        24.480378
+                  ]
+            },
+            {
+                  "name": "Masjid Al Radwan",
+                  "text": "Egy iszlám szentély Medinában, amely helyet biztosít a napi elmélkedésnek és istentiszteletnek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.609489,
+                        24.483454
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahma",
+                  "text": "Egy közösségi iszlám mecset, amely elősegíti a spirituális kapcsolatot Medinán belül.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626604,
+                        24.484707
+                  ]
+            },
+            {
+                  "name": "Masjid Al Laos",
+                  "text": "Iszlám istentiszteleti hely, amely rendszeres imaszolgáltatásokat kínál Medina lakosságának.",
+                  "category": "landmark",
+                  "coords": [
+                        39.621639,
+                        24.484956
+                  ]
+            },
+            {
+                  "name": "Masjid As Saeaty",
+                  "text": "Helyi iszlám imaterem, amely Medina hívő lakosait szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        39.623136,
+                        24.483438
+                  ]
+            },
+            {
+                  "name": "Masjid Sharif Al Aitani",
+                  "text": "Egy közösségközpontú iszlám mecset Medina szent városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.619084,
+                        24.481708
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ajlan",
+                  "text": "Egy iszlám istentiszteleti létesítmény, ahol Medina lakosai gyűlnek össze napi imára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.62203,
+                        24.480734
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hassawi",
+                  "text": "Egy környékbeli iszlám központ, amely megkönnyíti a napi imákat Medina muszlim közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.624299,
+                        24.477283
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kuwaiti",
+                  "text": "Egy iszlám imaterem, amelyet úgy terveztek, hogy kiszolgálja a hívők spirituális igényeit Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626145,
+                        24.476929
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Harithi",
+                  "text": "Egy helyi mecset, amely elengedhetetlen teret biztosít az iszlám gyülekezeti imákhoz Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.627705,
+                        24.475781
+                  ]
+            },
+            {
+                  "name": "Masjid Chilwan",
+                  "text": "Iszlám istentiszteleti hely Medina egyik lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626556,
+                        24.473236
+                  ]
+            },
+            {
+                  "name": "Masjid Al Iman",
+                  "text": "Hagyományos iszlám mecset, amely spirituális horgonyként szolgál a medinai negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626255,
+                        24.471138
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Dharr Al-Ghafari",
+                  "text": "Iszlám istentiszteleti hely Medinában, amelyet a Próféta egy nagyra becsült korai társáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        39.614609,
+                        24.475662
+                  ]
+            },
+            {
+                  "name": "Masjid Imam Al Bukhari",
+                  "text": "Egy iszlám mecset Medinában, amely a neves perzsa iszlám tudóst és hadísz-gyűjtőt tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        39.613628,
+                        24.472917
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ijabah",
+                  "text": "Egy történelmi iszlám mecset Medinában, amely történelmileg a Próféta egy jelentős könyörgéséhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        39.618453,
+                        24.471986
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sudairy",
+                  "text": "Egy helyi iszlám imaterem, amely a medinai lakosok napi vallási kötelességeit látja el.",
+                  "category": "landmark",
+                  "coords": [
+                        39.63304,
+                        24.462792
+                  ]
+            },
+            {
+                  "name": "Masjid Ihsan",
+                  "text": "Egy iszlám istentiszteleti hely, amely nyugodt imakörnyezetet biztosít Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.636542,
+                        24.463077
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmad ibn Hanbal",
+                  "text": "Iszlám mecset Medinában, amely a hanbali jogtudományi iskola befolyásos alapítójának nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        39.634432,
+                        24.468197
+                  ]
+            },
+            {
+                  "name": "Masjid Al Zughaibi",
+                  "text": "Egy környékbeli iszlám szentély, amely a rendszeres gyülekezeti imákra összpontosít Medinában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.628779,
+                        24.478172
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Al-Qayyim",
+                  "text": "Ez a Medina környéki muszlim mecset a neves iszlám tudós, Ibn al-Qajjim nevét viseli. Hagyományos teret biztosít a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        39.636325,
+                        24.474266
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amirah Sheikha",
+                  "text": "A Medina területén található muszlim imahely egy 'Amira', azaz hercegnő címét viseli. Kijelölt szentélyként szolgál az iszlám imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        39.638897,
+                        24.47365
+                  ]
+            },
+            {
+                  "name": "Masjid Al Manar",
+                  "text": "A 'Világítótorony' jelentésű muszlim mecset a Medina környékén áll, mint vallási központ. Külön imatermet biztosít az iszlám hívők gyülekezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        39.637889,
+                        24.476996
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Yahya",
+                  "text": "Ez a helyi muszlim imahely Medina térségében a környék spirituális támaszaként szolgál. Rendszeresen használják a napi öt iszlám imára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.641693,
+                        24.478079
+                  ]
+            },
+            {
+                  "name": "Masjid Salahdeen Khouja",
+                  "text": "A Medina területén található muszlim mecset a történelmi Szaladin örökségét idéző nevet viseli. Hagyományos közösségi központként működik az iszlám imádkozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        39.642589,
+                        24.476232
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Kradh",
+                  "text": "Ez a muszlim mecset, amely kijelölt helyet biztosít az iszlám rituálék számára, a Medina környéki vallási infrastruktúra szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        39.646459,
+                        24.472447
+                  ]
+            },
+            {
+                  "name": "Masjid Naif Al Roithi",
+                  "text": "Ez a Medina környéki muszlim szentély összegyűjti a helyi közösséget az iszlám prédikációkra és istentiszteletekre. Ez egy békés építészeti alkotás, amelyet az imának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        39.641854,
+                        24.466153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moscheea Profetului",
+                  "text": "Înființat în 622, acest vast sit din Medina este al doilea cel mai sfânt sanctuar din Islam.",
+                  "category": "religious",
+                  "coords": [
+                        39.61116,
+                        24.468792
+                  ]
+            },
+            {
+                  "name": "Dar Al Madinah Museum",
+                  "text": "Un muzeu cultural care prezintă patrimoniul arhitectural și urban din Medina.",
+                  "category": "museum",
+                  "coords": [
+                        39.687627,
+                        24.476697
+                  ]
+            },
+            {
+                  "name": "Eastern Expansion Of The Prophet's Mosque",
+                  "text": "O extindere arhitecturală modernă care oferă spațiu suplimentar de rugăciune pentru pelerinii musulmani din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.615376,
+                        24.469955
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Khaldoun",
+                  "text": "Un lăcaș de cult islamic din Medina, care își ia numele de la faimosul savant arab.",
+                  "category": "landmark",
+                  "coords": [
+                        39.653502,
+                        24.477807
+                  ]
+            },
+            {
+                  "name": "Masjid Sheikh Abdullatif bin Ibrahim Al-Abdullatif",
+                  "text": "O sală de rugăciune islamică comunitară care deservește zonele rezidențiale din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.638372,
+                        24.460949
+                  ]
+            },
+            {
+                  "name": "Masjid Al Komkomgi",
+                  "text": "O moschee de cartier care oferă un spațiu dedicat rugăciunilor islamice în Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.62787,
+                        24.460666
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ashki",
+                  "text": "Un sanctuar islamic care oferă o retragere spirituală liniștită pentru localnicii din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.625053,
+                        24.461774
+                  ]
+            },
+            {
+                  "name": "Masjid Al Khalil",
+                  "text": "Un lăcaș de cult islamic dedicat rugăciunilor congregaționale zilnice din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.622084,
+                        24.462
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nasr",
+                  "text": "O unitate locală de rugăciune islamică care servește nevoilor spirituale ale locuitorilor din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.599304,
+                        24.483924
+                  ]
+            },
+            {
+                  "name": "Masjid Al Khair",
+                  "text": "O moschee islamică tradițională care acționează ca un centru religios pentru cartierul înconjurător din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.592347,
+                        24.483277
+                  ]
+            },
+            {
+                  "name": "Masjid Al Hedaya",
+                  "text": "Un centru de cult islamic din Medina, cunoscut pentru adunările sale zilnice de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        39.595342,
+                        24.482806
+                  ]
+            },
+            {
+                  "name": "Majid Mohamed Mahmoud Al Fadil",
+                  "text": "O sală de rugăciune islamică dedicată care găzduiește credincioși musulmani în Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594731,
+                        24.480403
+                  ]
+            },
+            {
+                  "name": "Masjid Hussain Hashim",
+                  "text": "O moschee locală care funcționează ca un punct focal pentru rugăciunile comunității islamice din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.597055,
+                        24.480378
+                  ]
+            },
+            {
+                  "name": "Masjid Al Radwan",
+                  "text": "Un sanctuar islamic din Medina care oferă un loc pentru reflecție și închinare zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        39.609489,
+                        24.483454
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahma",
+                  "text": "O moschee islamică comunitară care favorizează conexiunea spirituală în cadrul Medinei.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626604,
+                        24.484707
+                  ]
+            },
+            {
+                  "name": "Masjid Al Laos",
+                  "text": "Un lăcaș de cult islamic care oferă servicii regulate de rugăciune populației din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.621639,
+                        24.484956
+                  ]
+            },
+            {
+                  "name": "Masjid As Saeaty",
+                  "text": "O sală de rugăciune islamică locală care îi deservește pe locuitorii credincioși din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.623136,
+                        24.483438
+                  ]
+            },
+            {
+                  "name": "Masjid Sharif Al Aitani",
+                  "text": "O moschee islamică axată pe comunitate, situată în orașul sfânt Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.619084,
+                        24.481708
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ajlan",
+                  "text": "Un lăcaș de cult islamic unde locuitorii din Medina se adună pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        39.62203,
+                        24.480734
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hassawi",
+                  "text": "Un centru islamic de cartier care facilitează rugăciunile zilnice pentru comunitatea musulmană din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.624299,
+                        24.477283
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kuwaiti",
+                  "text": "O sală de rugăciune islamică concepută pentru a servi nevoilor spirituale ale închinătorilor din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626145,
+                        24.476929
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Harithi",
+                  "text": "O moschee locală care oferă un spațiu esențial pentru rugăciunile congregaționale islamice din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.627705,
+                        24.475781
+                  ]
+            },
+            {
+                  "name": "Masjid Chilwan",
+                  "text": "Un lăcaș de cult islamic încorporat într-un cartier rezidențial din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626556,
+                        24.473236
+                  ]
+            },
+            {
+                  "name": "Masjid Al Iman",
+                  "text": "O moschee islamică tradițională care servește drept ancoră spirituală pentru cartierul său din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626255,
+                        24.471138
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Dharr Al-Ghafari",
+                  "text": "Un lăcaș de cult islamic din Medina, numit după un venerat tovarăș timpuriu al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        39.614609,
+                        24.475662
+                  ]
+            },
+            {
+                  "name": "Masjid Imam Al Bukhari",
+                  "text": "O moschee islamică din Medina care onorează renumitul savant islamic persan și compilator de hadith-uri.",
+                  "category": "landmark",
+                  "coords": [
+                        39.613628,
+                        24.472917
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ijabah",
+                  "text": "O moschee islamică istorică din Medina asociată istoric cu o cerere semnificativă a Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        39.618453,
+                        24.471986
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sudairy",
+                  "text": "O sală de rugăciune islamică locală care se adresează îndatoririlor religioase zilnice ale locuitorilor din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.63304,
+                        24.462792
+                  ]
+            },
+            {
+                  "name": "Masjid Ihsan",
+                  "text": "Un lăcaș de cult islamic dedicat oferirii unui mediu senin de rugăciune în Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.636542,
+                        24.463077
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmad ibn Hanbal",
+                  "text": "O moschee islamică din Medina care poartă numele fondatorului influent al școlii de jurisprudență Hanbali.",
+                  "category": "landmark",
+                  "coords": [
+                        39.634432,
+                        24.468197
+                  ]
+            },
+            {
+                  "name": "Masjid Al Zughaibi",
+                  "text": "Un sanctuar islamic de cartier axat pe rugăciunile congregaționale regulate din Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.628779,
+                        24.478172
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Al-Qayyim",
+                  "text": "Această moschee musulmană din zona Medina poartă numele renumitului savant islamic Ibn al-Qayyim. Ea oferă un spațiu tradițional pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        39.636325,
+                        24.474266
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amirah Sheikha",
+                  "text": "Situat în zona Medina, acest lăcaș de cult musulman poartă titlul unei 'Amirah' sau prințese. Acesta servește ca un sanctuar dedicat rugăciunilor islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        39.638897,
+                        24.47365
+                  ]
+            },
+            {
+                  "name": "Masjid Al Manar",
+                  "text": "Însemnând „Farul”, această moschee musulmană se află în zona Medina ca un punct focal religios. Ea oferă o sală dedicată adunărilor credincioșilor islamici.",
+                  "category": "landmark",
+                  "coords": [
+                        39.637889,
+                        24.476996
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Yahya",
+                  "text": "Acest lăcaș de cult musulman local din zona Medina servește drept ancoră spirituală pentru cartier. Este folosit în mod regulat pentru cele cinci rugăciuni islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        39.641693,
+                        24.478079
+                  ]
+            },
+            {
+                  "name": "Masjid Salahdeen Khouja",
+                  "text": "Situată în zona Medina, această moschee musulmană poartă un nume care evocă moștenirea istorică a lui Salahuddin. Ea funcționează ca un centru comunitar tradițional pentru rugăciunea islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        39.642589,
+                        24.476232
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Kradh",
+                  "text": "Oferind un spațiu desemnat pentru ritualurile islamice, această moschee musulmană este o parte integrantă a infrastructurii religioase din zona Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.646459,
+                        24.472447
+                  ]
+            },
+            {
+                  "name": "Masjid Naif Al Roithi",
+                  "text": "Acest sanctuar musulman din zona Medina adună comunitatea locală pentru predici și slujbe islamice. Este o structură arhitecturală pașnică, dedicată rugăciunii.",
+                  "category": "landmark",
+                  "coords": [
+                        39.641854,
+                        24.466153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prophet's Mosque",
+                  "text": "Established in 622, this sprawling site in Medina is the second holiest sanctuary in Islam.",
+                  "category": "religious",
+                  "coords": [
+                        39.61116,
+                        24.468792
+                  ]
+            },
+            {
+                  "name": "Dar Al Madinah Museum",
+                  "text": "A cultural museum showcasing the architectural and urban heritage of Medina.",
+                  "category": "museum",
+                  "coords": [
+                        39.687627,
+                        24.476697
+                  ]
+            },
+            {
+                  "name": "Eastern Expansion Of The Prophet's Mosque",
+                  "text": "A modern architectural extension providing additional prayer space for Muslim pilgrims in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.615376,
+                        24.469955
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Khaldoun",
+                  "text": "An Islamic place of worship in Medina, taking its name from the famous Arab scholar.",
+                  "category": "landmark",
+                  "coords": [
+                        39.653502,
+                        24.477807
+                  ]
+            },
+            {
+                  "name": "Masjid Sheikh Abdullatif bin Ibrahim Al-Abdullatif",
+                  "text": "A community Islamic prayer hall serving the residential areas of Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.638372,
+                        24.460949
+                  ]
+            },
+            {
+                  "name": "Masjid Al Komkomgi",
+                  "text": "A neighborhood mosque providing a dedicated space for Islamic prayers in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.62787,
+                        24.460666
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ashki",
+                  "text": "An Islamic sanctuary offering a quiet spiritual retreat for locals in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.625053,
+                        24.461774
+                  ]
+            },
+            {
+                  "name": "Masjid Al Khalil",
+                  "text": "An Islamic place of worship dedicated to daily congregational prayers in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.622084,
+                        24.462
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nasr",
+                  "text": "A local Islamic prayer facility serving the spiritual needs of Medina's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        39.599304,
+                        24.483924
+                  ]
+            },
+            {
+                  "name": "Masjid Al Khair",
+                  "text": "A traditional Islamic mosque acting as a religious center for the surrounding Medina neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        39.592347,
+                        24.483277
+                  ]
+            },
+            {
+                  "name": "Masjid Al Hedaya",
+                  "text": "An Islamic worship center in Medina known for its daily prayer gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        39.595342,
+                        24.482806
+                  ]
+            },
+            {
+                  "name": "Majid Mohamed Mahmoud Al Fadil",
+                  "text": "A dedicated Islamic prayer hall accommodating Muslim worshippers in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.594731,
+                        24.480403
+                  ]
+            },
+            {
+                  "name": "Masjid Hussain Hashim",
+                  "text": "A local mosque functioning as a focal point for Islamic community prayers in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.597055,
+                        24.480378
+                  ]
+            },
+            {
+                  "name": "Masjid Al Radwan",
+                  "text": "An Islamic sanctuary in Medina providing a place for daily reflection and worship.",
+                  "category": "landmark",
+                  "coords": [
+                        39.609489,
+                        24.483454
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahma",
+                  "text": "A community Islamic mosque fostering spiritual connection within Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626604,
+                        24.484707
+                  ]
+            },
+            {
+                  "name": "Masjid Al Laos",
+                  "text": "An Islamic place of worship offering regular prayer services to the Medina populace.",
+                  "category": "landmark",
+                  "coords": [
+                        39.621639,
+                        24.484956
+                  ]
+            },
+            {
+                  "name": "Masjid As Saeaty",
+                  "text": "A local Islamic prayer room serving the faithful residents of Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.623136,
+                        24.483438
+                  ]
+            },
+            {
+                  "name": "Masjid Sharif Al Aitani",
+                  "text": "A community-focused Islamic mosque located in the holy city of Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.619084,
+                        24.481708
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ajlan",
+                  "text": "An Islamic worship facility where residents of Medina gather for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        39.62203,
+                        24.480734
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hassawi",
+                  "text": "A neighborhood Islamic center facilitating daily prayers for Medina's Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        39.624299,
+                        24.477283
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kuwaiti",
+                  "text": "An Islamic prayer hall designed to serve the spiritual needs of worshippers in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626145,
+                        24.476929
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Harithi",
+                  "text": "A local mosque providing an essential space for Islamic congregational prayers in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.627705,
+                        24.475781
+                  ]
+            },
+            {
+                  "name": "Masjid Chilwan",
+                  "text": "An Islamic worship site embedded within a residential neighborhood of Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626556,
+                        24.473236
+                  ]
+            },
+            {
+                  "name": "Masjid Al Iman",
+                  "text": "A traditional Islamic mosque serving as a spiritual anchor for its Medina neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        39.626255,
+                        24.471138
+                  ]
+            },
+            {
+                  "name": "Masjid Abu Dharr Al-Ghafari",
+                  "text": "An Islamic place of worship in Medina named after a revered early companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.614609,
+                        24.475662
+                  ]
+            },
+            {
+                  "name": "Masjid Imam Al Bukhari",
+                  "text": "An Islamic mosque in Medina honoring the renowned Persian Islamic scholar and hadith compiler.",
+                  "category": "landmark",
+                  "coords": [
+                        39.613628,
+                        24.472917
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ijabah",
+                  "text": "A historic Islamic mosque in Medina historically associated with a significant supplication by the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.618453,
+                        24.471986
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Sudairy",
+                  "text": "A local Islamic prayer hall catering to the daily religious duties of Medina residents.",
+                  "category": "landmark",
+                  "coords": [
+                        39.63304,
+                        24.462792
+                  ]
+            },
+            {
+                  "name": "Masjid Ihsan",
+                  "text": "An Islamic place of worship dedicated to providing a serene prayer environment in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.636542,
+                        24.463077
+                  ]
+            },
+            {
+                  "name": "Masjid Ahmad ibn Hanbal",
+                  "text": "An Islamic mosque in Medina bearing the name of the influential founder of the Hanbali school of jurisprudence.",
+                  "category": "landmark",
+                  "coords": [
+                        39.634432,
+                        24.468197
+                  ]
+            },
+            {
+                  "name": "Masjid Al Zughaibi",
+                  "text": "A neighborhood Islamic sanctuary focused on regular congregational prayers in Medina.",
+                  "category": "landmark",
+                  "coords": [
+                        39.628779,
+                        24.478172
+                  ]
+            },
+            {
+                  "name": "Masjid Ibn Al-Qayyim",
+                  "text": "This Muslim mosque in the Medina area is named after the renowned Islamic scholar Ibn al-Qayyim. It provides a traditional space for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        39.636325,
+                        24.474266
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amirah Sheikha",
+                  "text": "Located in the Medina area, this Muslim place of worship bears the title of an 'Amirah' or princess. It serves as a dedicated sanctuary for Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        39.638897,
+                        24.47365
+                  ]
+            },
+            {
+                  "name": "Masjid Al Manar",
+                  "text": "Meaning 'The Lighthouse', this Muslim mosque stands in the Medina area as a religious focal point. It provides a dedicated hall for Islamic faithful to gather.",
+                  "category": "landmark",
+                  "coords": [
+                        39.637889,
+                        24.476996
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Yahya",
+                  "text": "This local Muslim place of worship in the Medina area serves as a spiritual anchor for the neighborhood. It is regularly used for the five daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        39.641693,
+                        24.478079
+                  ]
+            },
+            {
+                  "name": "Masjid Salahdeen Khouja",
+                  "text": "Situated in the Medina area, this Muslim mosque bears a name evoking the historical legacy of Salahuddin. It functions as a traditional community center for Islamic prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        39.642589,
+                        24.476232
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Kradh",
+                  "text": "Providing a designated space for Islamic rituals, this Muslim mosque is an integral part of the Medina area's religious infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        39.646459,
+                        24.472447
+                  ]
+            },
+            {
+                  "name": "Masjid Naif Al Roithi",
+                  "text": "This Muslim sanctuary in the Medina area gathers the local community for Islamic sermons and worship. It is a peaceful architectural structure devoted to prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        39.641854,
+                        24.466153
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-03",
     coords: [39.6122, 24.4686],
@@ -205,7 +1915,664 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["The second holiest city in Islam and the burial place of Muhammad.", "Al-Masjid an-Nabawi is the city's central and most sacred landmark.", "Elevation is approximately 608 meters (1,995 feet) above sea level.", "Quba Mosque is the oldest mosque in the world, founded by the Prophet.", "Medina is the global center for Ajwa date production.", "The city served as the capital of the Islamic Empire until 661 CE.", "Mount Uhud is a major historical and geographical feature to the north.", "The city's expansion plans aim to accommodate 30 million visitors by 2030."],
     }, image: "/poi-images/medina-cities-v2.webp"},
   {
-    id: "dammam-cities-v2",
+    id: "dammam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "VRMates",
+                  "text": "Ein Indoor-Unterhaltungszentrum in Dammam, das immersive Virtual-Reality-Spiele anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.059438,
+                        26.470767
+                  ]
+            },
+            {
+                  "name": "Global City Dammam",
+                  "text": "Ein Familien-Themenpark mit Fahrgeschäften und saisonalen kulturellen Veranstaltungen.",
+                  "category": "recreational",
+                  "coords": [
+                        50.067342,
+                        26.464553
+                  ]
+            },
+            {
+                  "name": "Sails Roundabout",
+                  "text": "Ein Wahrzeichen von Dammam mit weißen Segelskulpturen, die an das maritime Erbe der Stadt erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        50.112002,
+                        26.455919
+                  ]
+            },
+            {
+                  "name": "Masts Roundabout",
+                  "text": "Dieser dekorative Kreisverkehr zeigt Schiffsmasten als Tribut an die Seefahrertradition der Region.",
+                  "category": "historical",
+                  "coords": [
+                        50.120233,
+                        26.455965
+                  ]
+            },
+            {
+                  "name": "`Ayn Judaywil",
+                  "text": "Archäologische Stätte mit den Ruinen einer alten Quelle und Siedlung bei Dammam.",
+                  "category": "historical",
+                  "coords": [
+                        50.036566,
+                        26.448258
+                  ]
+            },
+            {
+                  "name": "Masjid Ar Rayyan",
+                  "text": "Lokale Nachbarschaftsmoschee im Wohnviertel Ar Rayyan in Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.108218,
+                        26.437922
+                  ]
+            },
+            {
+                  "name": "Masjed alquds",
+                  "text": "Gemeindemoschee im Al-Quds-Viertel von Dammam, die tägliche Gebete anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.0725,
+                        26.454556
+                  ]
+            },
+            {
+                  "name": "Al Furqan Mosque",
+                  "text": "Eine moderne Moschee im Zentrum von Dammam, die für ihre schlichte Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.046019,
+                        26.39777
+                  ]
+            },
+            {
+                  "name": "Alsalm Joma'a Mosque",
+                  "text": "Eine bedeutende Moschee für das Freitagsgebet im Stadtteil Al Salam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.045624,
+                        26.404205
+                  ]
+            },
+            {
+                  "name": "Masjid Haroun Al Rasheed",
+                  "text": "Diese Moschee ist nach dem berühmten abbasidischen Kalifen benannt und dient der lokalen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        50.081521,
+                        26.418816
+                  ]
+            },
+            {
+                  "name": "Imam Al Bukhari Mosque",
+                  "text": "Gemeindemoschee im Wohngebiet von Dammam, benannt nach dem Sammler prophetischer Überlieferungen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.079797,
+                        26.421552
+                  ]
+            },
+            {
+                  "name": "Masjid Al Sahaba",
+                  "text": "Eine Nachbarschaftsmoschee im Al-Sahaba-Viertel, die ein Zentrum für lokale Bewohner ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.082957,
+                        26.422962
+                  ]
+            },
+            {
+                  "name": "The Prophet Mosque",
+                  "text": "Eine lokale Moschee in Dammam, die zum Gedenken an den Propheten des Islam errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        50.044205,
+                        26.466801
+                  ]
+            },
+            {
+                  "name": "Al-Hamzah Mosque",
+                  "text": "Gemeindemoschee im Al-Hamzah-Viertel, die tägliche Gebetsdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.052483,
+                        26.475331
+                  ]
+            },
+            {
+                  "name": "Imam Zain Al-Abideen Mosque",
+                  "text": "Eine Moschee in Dammam, die der lokalen Gemeinde als Ort der Besinnung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.038871,
+                        26.484724
+                  ]
+            },
+            {
+                  "name": "Imam Al-Baqir (AS) Mosque",
+                  "text": "Eine schiitische Moschee im Gebiet von Dammam, benannt nach einem Nachkommen des Propheten.",
+                  "category": "landmark",
+                  "coords": [
+                        50.030065,
+                        26.472461
+                  ]
+            },
+            {
+                  "name": "Alhasan Bin Ali Mosque",
+                  "text": "Eine kleine Moschee in einem der vielen Wohnviertel von Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.039194,
+                        26.469686
+                  ]
+            },
+            {
+                  "name": "Lulu Mall Dammam",
+                  "text": "Ein großes Einkaufszentrum in Dammam mit einem Supermarkt und zahlreichen Einzelhandelsgeschäften.",
+                  "category": "cultural",
+                  "coords": [
+                        50.096903,
+                        26.428274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "VRMates",
+                  "text": "Fedett szórakoztató központ Dammamban, amely magával ragadó virtuális valóság játékokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        50.059438,
+                        26.470767
+                  ]
+            },
+            {
+                  "name": "Global City Dammam",
+                  "text": "Családi vidámpark vidámparki játékokkal és szezonális kulturális eseményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        50.067342,
+                        26.464553
+                  ]
+            },
+            {
+                  "name": "Sails Roundabout",
+                  "text": "Dammam egyik jelképe fehér vitorlaszobrokkal, amelyek a város tengeri örökségére emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        50.112002,
+                        26.455919
+                  ]
+            },
+            {
+                  "name": "Masts Roundabout",
+                  "text": "Ez a dekoratív körforgalom hajóárbocokat ábrázol a régió tengerész hagyományai előtti tisztelgésként.",
+                  "category": "historical",
+                  "coords": [
+                        50.120233,
+                        26.455965
+                  ]
+            },
+            {
+                  "name": "`Ayn Judaywil",
+                  "text": "Régészeti lelőhely egy ősi forrás és település romjaival Dammam közelében.",
+                  "category": "historical",
+                  "coords": [
+                        50.036566,
+                        26.448258
+                  ]
+            },
+            {
+                  "name": "Masjid Ar Rayyan",
+                  "text": "Helyi szomszédsági mecset Dammam Ar Rayyan lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.108218,
+                        26.437922
+                  ]
+            },
+            {
+                  "name": "Masjed alquds",
+                  "text": "Közösségi mecset Dammam Al Quds negyedében, amely napi imádságoknak ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.0725,
+                        26.454556
+                  ]
+            },
+            {
+                  "name": "Al Furqan Mosque",
+                  "text": "Modern mecset Dammam központjában, amely letisztult építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        50.046019,
+                        26.39777
+                  ]
+            },
+            {
+                  "name": "Alsalm Joma'a Mosque",
+                  "text": "A pénteki imák fontos helyszíne az Al Salam városrészben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.045624,
+                        26.404205
+                  ]
+            },
+            {
+                  "name": "Masjid Haroun Al Rasheed",
+                  "text": "Ezt a mecsetet a híres abbászida kalifáról nevezték el, és a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        50.081521,
+                        26.418816
+                  ]
+            },
+            {
+                  "name": "Imam Al Bukhari Mosque",
+                  "text": "Közösségi mecset Dammam lakóövezetében, a prófétai hagyományok gyűjtőjéről elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        50.079797,
+                        26.421552
+                  ]
+            },
+            {
+                  "name": "Masjid Al Sahaba",
+                  "text": "Szomszédsági mecset az Al Sahaba negyedben, amely a helyi lakosok központja.",
+                  "category": "landmark",
+                  "coords": [
+                        50.082957,
+                        26.422962
+                  ]
+            },
+            {
+                  "name": "The Prophet Mosque",
+                  "text": "Helyi mecset Dammamban, amelyet az iszlám prófétájának emlékére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        50.044205,
+                        26.466801
+                  ]
+            },
+            {
+                  "name": "Al-Hamzah Mosque",
+                  "text": "Közösségi mecset az Al Hamzah negyedben, ahol napi imaalkalmakat tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        50.052483,
+                        26.475331
+                  ]
+            },
+            {
+                  "name": "Imam Zain Al-Abideen Mosque",
+                  "text": "Mecset Dammamban, amely a helyi közösség számára az elmélyülés helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        50.038871,
+                        26.484724
+                  ]
+            },
+            {
+                  "name": "Imam Al-Baqir (AS) Mosque",
+                  "text": "Síita mecset Dammam területén, a Próféta egyik leszármazottjáról elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        50.030065,
+                        26.472461
+                  ]
+            },
+            {
+                  "name": "Alhasan Bin Ali Mosque",
+                  "text": "Kisméretű mecset Dammam számos lakónegyedének egyikében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.039194,
+                        26.469686
+                  ]
+            },
+            {
+                  "name": "Lulu Mall Dammam",
+                  "text": "Nagy bevásárlóközpont Dammamban hipermarkettel és számos üzlettel.",
+                  "category": "cultural",
+                  "coords": [
+                        50.096903,
+                        26.428274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "VRMates",
+                  "text": "Un centru de divertisment de interior în Dammam care oferă jocuri captivante în realitate virtuală.",
+                  "category": "landmark",
+                  "coords": [
+                        50.059438,
+                        26.470767
+                  ]
+            },
+            {
+                  "name": "Global City Dammam",
+                  "text": "Un parc tematic pentru familii, cu atracții și evenimente culturale sezoniere.",
+                  "category": "recreational",
+                  "coords": [
+                        50.067342,
+                        26.464553
+                  ]
+            },
+            {
+                  "name": "Sails Roundabout",
+                  "text": "Un punct de reper din Dammam cu sculpturi de pânze albe care amintesc de moștenirea maritimă a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        50.112002,
+                        26.455919
+                  ]
+            },
+            {
+                  "name": "Masts Roundabout",
+                  "text": "Acest sens giratoriu decorativ prezintă catarge de navă ca omagiu adus tradiției maritime a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        50.120233,
+                        26.455965
+                  ]
+            },
+            {
+                  "name": "`Ayn Judaywil",
+                  "text": "Sit arheologic cu ruinele unui izvor și ale unei așezări antice lângă Dammam.",
+                  "category": "historical",
+                  "coords": [
+                        50.036566,
+                        26.448258
+                  ]
+            },
+            {
+                  "name": "Masjid Ar Rayyan",
+                  "text": "Moschee locală de cartier în zona rezidențială Ar Rayyan din Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.108218,
+                        26.437922
+                  ]
+            },
+            {
+                  "name": "Masjed alquds",
+                  "text": "Moschee comunitară în cartierul Al Quds din Dammam, care găzduiește rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.0725,
+                        26.454556
+                  ]
+            },
+            {
+                  "name": "Al Furqan Mosque",
+                  "text": "O moschee modernă în centrul orașului Dammam, cunoscută pentru arhitectura sa simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        50.046019,
+                        26.39777
+                  ]
+            },
+            {
+                  "name": "Alsalm Joma'a Mosque",
+                  "text": "O moschee importantă pentru rugăciunea de vineri în cartierul Al Salam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.045624,
+                        26.404205
+                  ]
+            },
+            {
+                  "name": "Masjid Haroun Al Rasheed",
+                  "text": "Această moschee poartă numele celebrului calif abasid și deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        50.081521,
+                        26.418816
+                  ]
+            },
+            {
+                  "name": "Imam Al Bukhari Mosque",
+                  "text": "Moschee comunitară în zona rezidențială din Dammam, numită după colecționarul de tradiții profetice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.079797,
+                        26.421552
+                  ]
+            },
+            {
+                  "name": "Masjid Al Sahaba",
+                  "text": "O moschee de cartier în zona Al Sahaba, care este un centru pentru locuitorii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.082957,
+                        26.422962
+                  ]
+            },
+            {
+                  "name": "The Prophet Mosque",
+                  "text": "O moschee locală din Dammam, ridicată în memoria profetului islamului.",
+                  "category": "landmark",
+                  "coords": [
+                        50.044205,
+                        26.466801
+                  ]
+            },
+            {
+                  "name": "Al-Hamzah Mosque",
+                  "text": "Moschee comunitară în cartierul Al Hamzah, care oferă servicii de rugăciune zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.052483,
+                        26.475331
+                  ]
+            },
+            {
+                  "name": "Imam Zain Al-Abideen Mosque",
+                  "text": "O moschee din Dammam care servește comunității locale ca loc de reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        50.038871,
+                        26.484724
+                  ]
+            },
+            {
+                  "name": "Imam Al-Baqir (AS) Mosque",
+                  "text": "O moschee șiită din zona Dammam, numită după un descendent al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        50.030065,
+                        26.472461
+                  ]
+            },
+            {
+                  "name": "Alhasan Bin Ali Mosque",
+                  "text": "O mică moschee în unul dintre multele cartiere rezidențiale din Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.039194,
+                        26.469686
+                  ]
+            },
+            {
+                  "name": "Lulu Mall Dammam",
+                  "text": "Un centru comercial mare din Dammam, cu un hipermarket și numeroase magazine de vânzare cu amănuntul.",
+                  "category": "cultural",
+                  "coords": [
+                        50.096903,
+                        26.428274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "VRMates",
+                  "text": "An indoor entertainment center in Dammam offering immersive virtual reality gaming experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        50.059438,
+                        26.470767
+                  ]
+            },
+            {
+                  "name": "Global City Dammam",
+                  "text": "A family theme park featuring amusement rides and seasonal cultural events.",
+                  "category": "recreational",
+                  "coords": [
+                        50.067342,
+                        26.464553
+                  ]
+            },
+            {
+                  "name": "Sails Roundabout",
+                  "text": "An iconic Dammam landmark featuring white sail sculptures that commemorate the city's maritime heritage.",
+                  "category": "historical",
+                  "coords": [
+                        50.112002,
+                        26.455919
+                  ]
+            },
+            {
+                  "name": "Masts Roundabout",
+                  "text": "This decorative roundabout features ship masts as a tribute to the region's seafaring tradition.",
+                  "category": "historical",
+                  "coords": [
+                        50.120233,
+                        26.455965
+                  ]
+            },
+            {
+                  "name": "`Ayn Judaywil",
+                  "text": "Archaeological site featuring the ruins of an ancient spring and settlement near Dammam.",
+                  "category": "historical",
+                  "coords": [
+                        50.036566,
+                        26.448258
+                  ]
+            },
+            {
+                  "name": "Masjid Ar Rayyan",
+                  "text": "Local neighborhood mosque in the Ar Rayyan residential district of Dammam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.108218,
+                        26.437922
+                  ]
+            },
+            {
+                  "name": "Masjed alquds",
+                  "text": "Community mosque in the Al Quds neighborhood of Dammam, hosting daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.0725,
+                        26.454556
+                  ]
+            },
+            {
+                  "name": "Al Furqan Mosque",
+                  "text": "A modern mosque in central Dammam known for its clean architectural lines.",
+                  "category": "landmark",
+                  "coords": [
+                        50.046019,
+                        26.39777
+                  ]
+            },
+            {
+                  "name": "Alsalm Joma'a Mosque",
+                  "text": "A significant mosque for Friday prayers located in the Al Salam district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.045624,
+                        26.404205
+                  ]
+            },
+            {
+                  "name": "Masjid Haroun Al Rasheed",
+                  "text": "This mosque is named after the famous Abbasid caliph and serves the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        50.081521,
+                        26.418816
+                  ]
+            },
+            {
+                  "name": "Imam Al Bukhari Mosque",
+                  "text": "Community mosque in the residential area of Dammam, named after the collector of prophetic traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        50.079797,
+                        26.421552
+                  ]
+            },
+            {
+                  "name": "Masjid Al Sahaba",
+                  "text": "A neighborhood mosque in the Al Sahaba district that serves as a center for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        50.082957,
+                        26.422962
+                  ]
+            },
+            {
+                  "name": "The Prophet Mosque",
+                  "text": "A local mosque in Dammam erected in memory of the Prophet of Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        50.044205,
+                        26.466801
+                  ]
+            },
+            {
+                  "name": "Al-Hamzah Mosque",
+                  "text": "Community mosque in the Al Hamzah neighborhood offering daily prayer services.",
+                  "category": "landmark",
+                  "coords": [
+                        50.052483,
+                        26.475331
+                  ]
+            },
+            {
+                  "name": "Imam Zain Al-Abideen Mosque",
+                  "text": "A mosque in Dammam that serves as a place of reflection for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        50.038871,
+                        26.484724
+                  ]
+            },
+            {
+                  "name": "Imam Al-Baqir (AS) Mosque",
+                  "text": "A Shia mosque in the Dammam area, named after a descendant of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.030065,
+                        26.472461
+                  ]
+            },
+            {
+                  "name": "Alhasan Bin Ali Mosque",
+                  "text": "A small mosque located in one of Dammam's many residential neighborhoods.",
+                  "category": "landmark",
+                  "coords": [
+                        50.039194,
+                        26.469686
+                  ]
+            },
+            {
+                  "name": "Lulu Mall Dammam",
+                  "text": "A large shopping mall in Dammam featuring a hypermarket and numerous retail stores.",
+                  "category": "cultural",
+                  "coords": [
+                        50.096903,
+                        26.428274
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-04",
     coords: [50.1033, 26.4333],
@@ -258,7 +2625,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Shubra Palast in Ta'if",
-                  "text": "Der Shubra Palast in Ta'if ist ein historisches Museum.",
+                  "text": "Der Shubra-Palast in Taif ist ein historischer Palast aus dem frühen 20. Jahrhundert, heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         40.415208,
@@ -267,7 +2634,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Hokair Time",
-                  "text": "Al Hokair Time ist ein Themenpark in Ta'if.",
+                  "text": "Ein Familienunterhaltungszentrum mit Fahrgeschäften in Taif.",
                   "category": "family",
                   "coords": [
                         40.414947,
@@ -276,7 +2643,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Ibn Abbas Moschee",
-                  "text": "Die Abdullah Ibn Abbas Moschee ist ein bedeutendes Gotteshaus in Ta'if.",
+                  "text": "Die Abdullah-Ibn-Abbas-Moschee in Taif gilt als Ort, an dem der Prophet Muhammad betete.",
                   "category": "religious",
                   "coords": [
                         40.408456,
@@ -294,7 +2661,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Addas Moschee",
-                  "text": "Die Addas Moschee ist ein Gotteshaus in Ta'if.",
+                  "text": "Die Addas-Moschee in Taif erinnert an den Besuch des Propheten Muhammad in Taif.",
                   "category": "religious",
                   "coords": [
                         40.390919,
@@ -305,7 +2672,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ta'if-i Shubra Palota",
-                  "text": "A Ta'if-i Shubra Palota egy történelmi múzeum.",
+                  "text": "A Shubra-palota Taifban egy történelmi palota a 20. század elejéről, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         40.415208,
@@ -314,7 +2681,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Hokair Time",
-                  "text": "Az Al Hokair Time egy vidámpark Ta'ifban.",
+                  "text": "Egy családi szórakoztató központ játékokkal és attrakciókkal Taifban.",
                   "category": "family",
                   "coords": [
                         40.414947,
@@ -323,7 +2690,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Ibn Abbas mecset",
-                  "text": "Az Abdullah Ibn Abbas mecset egy jelentős imaház Ta'ifban.",
+                  "text": "Az Abdullah ibn Abbász mecset Taifban állítólag az a hely, ahol Mohamed próféta imádkozott.",
                   "category": "religious",
                   "coords": [
                         40.408456,
@@ -341,7 +2708,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Addas mecset",
-                  "text": "Az Addas mecset egy imaház Ta'ifban.",
+                  "text": "Az Addas-mecset Taifban Mohamed próféta taifi látogatására emlékeztet.",
                   "category": "religious",
                   "coords": [
                         40.390919,
@@ -352,7 +2719,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Palatul Shubra din Ta'if",
-                  "text": "Palatul Shubra din Ta'if este un muzeu istoric.",
+                  "text": "Palatul Shubra din Taif este un palat istoric construit la începutul secolului XX, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         40.415208,
@@ -361,7 +2728,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Hokair Time",
-                  "text": "Al Hokair Time este un parc tematic în Ta'if.",
+                  "text": "Un centru de divertisment pentru familii cu curse și jocuri în Taif.",
                   "category": "family",
                   "coords": [
                         40.414947,
@@ -370,7 +2737,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Moscheea Abdullah Ibn Abbas",
-                  "text": "Moscheea Abdullah Ibn Abbas este un lăcaș de cult important în Ta'if.",
+                  "text": "Moscheea Abdullah ibn Abbas din Taif este considerată locul unde s-a rugat Profetul Mahomed.",
                   "category": "religious",
                   "coords": [
                         40.408456,
@@ -388,7 +2755,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Moscheea Addas",
-                  "text": "Moscheea Addas este un lăcaș de cult în Ta'if.",
+                  "text": "Moscheea Addas din Taif comemorează vizita Profetului Mahomed la Taif.",
                   "category": "religious",
                   "coords": [
                         40.390919,
@@ -399,7 +2766,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Shubra Palace",
-                  "text": "The Shubra Palace in Ta'if is a historic museum.",
+                  "text": "Shubra Palace in Taif is a historic palace built in the early 20th century, now a museum.",
                   "category": "museum",
                   "coords": [
                         40.415208,
@@ -408,7 +2775,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Hokair Time",
-                  "text": "Al Hokair Time is a theme park in Ta'if.",
+                  "text": "A family entertainment center with rides and games in Taif.",
                   "category": "family",
                   "coords": [
                         40.414947,
@@ -417,7 +2784,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Ibn Abbas Mosque",
-                  "text": "The Abdullah Ibn Abbas Mosque is a significant place of worship in Ta'if.",
+                  "text": "The Abdullah Ibn Abbas Mosque in Taif is believed to be the site where the Prophet Muhammad prayed.",
                   "category": "religious",
                   "coords": [
                         40.408456,
@@ -435,7 +2802,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Addas Mosque",
-                  "text": "The Addas Mosque is a place of worship in Ta'if.",
+                  "text": "The Addas Mosque in Taif commemorates the Prophet Muhammad's visit to Taif.",
                   "category": "religious",
                   "coords": [
                         40.390919,
@@ -499,7 +2866,52 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     }
   },
   {
-    id: "tabuk-cities-v2",
+    id: "tabuk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praying Ground",
+                  "text": "Ein offener Gebetsplatz unter dem Himmel der saudi-arabischen Stadt Tabuk für große islamische Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        36.626197,
+                        28.33924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praying Ground",
+                  "text": "Egy nyitott imatér a szaúd-arábiai Tabuk égboltja alatt, amelyet nagy iszlám összejövetelekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        36.626197,
+                        28.33924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praying Ground",
+                  "text": "Un spațiu de rugăciune în aer liber sub cerul orașului saudit Tabuk, utilizat pentru mari adunări islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        36.626197,
+                        28.33924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praying Ground",
+                  "text": "An open-air praying ground under the sky of the Saudi Arabian city of Tabuk, used for large Islamic gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        36.626197,
+                        28.33924
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-07",
     coords: [36.5715, 28.3833],
@@ -548,7 +2960,232 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["Tabuk Castle was built by the Ottomans to protect the water wells along the Hajj route.", "The city is located approximately 1,100 kilometers northwest of Riyadh.", "The Prince Sultan Bin Abdulaziz Airport was upgraded to international status in 2011.", "The 'Spring of Tabuk' provided water for the Prophet's army during the expedition.", "The region is a major hub for the Saudi poultry industry.", "Snowfall on the mountains near Tabuk often attracts thousands of local visitors.", "The historical site of Aynunah was a key port on the Red Sea for the Nabateans.", "Tabuk’s strategic location makes it a key part of the Arab bridge maritime link."],
     }, image: "/poi-images/tabuk-cities-v2.webp"},
   {
-    id: "buraidah-cities-v2",
+    id: "buraidah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buraidah Museum",
+                  "text": "Das Buraidah-Museum bewahrt das kulturelle Erbe der Provinz Qasim und zeigt regionale Antiquitäten und traditionelle saudische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        43.957614,
+                        26.350244
+                  ]
+            },
+            {
+                  "name": "Qassim Regional Museum",
+                  "text": "Ein regionales Museum in Buraida, das die kulturellen und historischen Artefakte der Region Al-Qassim präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        43.943893,
+                        26.37917
+                  ]
+            },
+            {
+                  "name": "Al Omayrini Mosque",
+                  "text": "Ein lokales islamisches Gotteshaus, das der muslimischen Gemeinde in Buraida dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.023209,
+                        26.331598
+                  ]
+            },
+            {
+                  "name": "Hamad Al Furaih Mosque",
+                  "text": "Eine Gemeindemoschee in Buraida, in der sich einheimische Muslime zu ihren täglichen Gebeten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        44.021161,
+                        26.330349
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Ein islamischer Gebetssaal im Viertel, der einen ruhigen Raum für die tägliche Andacht in Buraida bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.933982,
+                        26.378743
+                  ]
+            },
+            {
+                  "name": "sfra 009",
+                  "text": "Ein lokaler islamischer Gebetsraum, der muslimischen Gläubigen in Buraida einen eigenen Raum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.928393,
+                        26.378757
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buraidah Museum",
+                  "text": "A Burajda Múzeum Al-Kaszim tartomány kulturális örökségét őrzi, regionális régiségeket és hagyományos szaúdi műtárgyakat bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        43.957614,
+                        26.350244
+                  ]
+            },
+            {
+                  "name": "Qassim Regional Museum",
+                  "text": "A Buraidahban található regionális múzeum, amely Al-Qassim térségének kulturális és történelmi leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        43.943893,
+                        26.37917
+                  ]
+            },
+            {
+                  "name": "Al Omayrini Mosque",
+                  "text": "Helyi iszlám istentiszteleti hely, amely a buraidahi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.023209,
+                        26.331598
+                  ]
+            },
+            {
+                  "name": "Hamad Al Furaih Mosque",
+                  "text": "Közösségi mecset Buraidahban, ahol a helyi muszlimok összegyűlnek napi imáikra.",
+                  "category": "landmark",
+                  "coords": [
+                        44.021161,
+                        26.330349
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "A környékbeli iszlám imaterem, amely csendes teret kínál a napi imádat számára Buraidahban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.933982,
+                        26.378743
+                  ]
+            },
+            {
+                  "name": "sfra 009",
+                  "text": "Egy helyi iszlám imaszoba, amely dedikált teret biztosít a muszlim hívők számára Buraidahban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.928393,
+                        26.378757
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buraidah Museum",
+                  "text": "Muzeul Buraidah conservă moștenirea culturală a provinciei Qassim, expunând antichități regionale și artefacte tradiționale saudite.",
+                  "category": "museum",
+                  "coords": [
+                        43.957614,
+                        26.350244
+                  ]
+            },
+            {
+                  "name": "Qassim Regional Museum",
+                  "text": "Un muzeu regional din Buraidah care expune artefacte culturale și istorice ale zonei Al-Qassim.",
+                  "category": "museum",
+                  "coords": [
+                        43.943893,
+                        26.37917
+                  ]
+            },
+            {
+                  "name": "Al Omayrini Mosque",
+                  "text": "Un lăcaș de cult islamic local care deservește comunitatea musulmană din Buraidah.",
+                  "category": "landmark",
+                  "coords": [
+                        44.023209,
+                        26.331598
+                  ]
+            },
+            {
+                  "name": "Hamad Al Furaih Mosque",
+                  "text": "O moschee comunitară din Buraidah, unde musulmanii locali se adună pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.021161,
+                        26.330349
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "O sală de rugăciune islamică de cartier care oferă un spațiu liniștit pentru cultul zilnic în Buraidah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.933982,
+                        26.378743
+                  ]
+            },
+            {
+                  "name": "sfra 009",
+                  "text": "O cameră de rugăciune islamică locală, care oferă un spațiu dedicat închinătorilor musulmani din Buraidah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.928393,
+                        26.378757
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buraidah Museum",
+                  "text": "The Buraidah Museum preserves the cultural heritage of the Qassim Province, displaying regional antiquities and traditional Saudi artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        43.957614,
+                        26.350244
+                  ]
+            },
+            {
+                  "name": "Qassim Regional Museum",
+                  "text": "A regional museum in Buraidah showcasing the cultural and historical artifacts of the Al-Qassim area.",
+                  "category": "museum",
+                  "coords": [
+                        43.943893,
+                        26.37917
+                  ]
+            },
+            {
+                  "name": "Al Omayrini Mosque",
+                  "text": "A local Islamic place of worship serving the Muslim community in Buraidah.",
+                  "category": "landmark",
+                  "coords": [
+                        44.023209,
+                        26.331598
+                  ]
+            },
+            {
+                  "name": "Hamad Al Furaih Mosque",
+                  "text": "A community mosque in Buraidah where local Muslims gather for their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.021161,
+                        26.330349
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "A neighborhood Islamic prayer hall offering a quiet space for daily worship in Buraidah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.933982,
+                        26.378743
+                  ]
+            },
+            {
+                  "name": "sfra 009",
+                  "text": "A local Islamic prayer room providing a dedicated space for Muslim worshipers in Buraidah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.928393,
+                        26.378757
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-05",
     coords: [43.9750, 26.3260],
@@ -601,7 +3238,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bin Hamsan Heritage Village",
-                  "text": "قرية بن حمسان التراثية ist ein Museum in Chamis Muschait.",
+                  "text": "Ein Museumsdorf mit traditioneller Architektur in Mushait.",
                   "category": "museum",
                   "coords": [
                         42.757427,
@@ -612,7 +3249,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bin Hamsan Heritage Village",
-                  "text": "A قرية بن حمسان التراثية egy múzeum Chamis Muschait városában.",
+                  "text": "Egy örökségfalu, amely hagyományos építészetet mutat be Mushaitban.",
                   "category": "museum",
                   "coords": [
                         42.757427,
@@ -623,7 +3260,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bin Hamsan Heritage Village",
-                  "text": "قرية بن حمسان التراثية este un muzeu în Chamis Muschait.",
+                  "text": "Un sat-muzeu cu arhitectură tradițională în Mushait.",
                   "category": "museum",
                   "coords": [
                         42.757427,
@@ -634,7 +3271,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bin Hamsan Heritage Village",
-                  "text": "قرية بن حمسان التراثية is a museum located in Chamis Muschait.",
+                  "text": "A heritage village displaying traditional architecture in Mushait.",
                   "category": "museum",
                   "coords": [
                         42.757427,
@@ -697,7 +3334,268 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["À environ 2 000 mètres dans les montagnes de l'Asir", "Environ 630 000 habitants dans la province d'Asir", "Nom dérivé du marché traditionnel du jeudi (chamis)", "Base aérienne du roi Khaled depuis 1965", "Lieu de déploiement important pendant la deuxième guerre du Golfe 1990/91", "Intégration au royaume d'Arabie saoudite en 1932", "Températures estivales inférieures à 30 degrés Celsius", "Forme une zone métropolitaine contiguë avec Abha"],
     }, image: "/poi-images/khamis-mushait-cities-v2.webp"},
   {
-    id: "abha-cities-v2",
+    id: "abha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Dabbab Walkway",
+                  "text": "Ein Panoramaweg in Abha, der oft von Nebel eingehüllt ist und das Gefühl vermittelt, über den Wolken zu gehen.",
+                  "category": "landmark",
+                  "coords": [
+                        42.507581,
+                        18.196825
+                  ]
+            },
+            {
+                  "name": "Green Mountain",
+                  "text": "Ein markanter Hügel in Abha, der nachts grün beleuchtet wird und per Seilbahn erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.506557,
+                        18.204428
+                  ]
+            },
+            {
+                  "name": "Shada Archaeological Palace",
+                  "text": "Ein historisches Lehmgebäude in Abha, das mit seinen mehreren Stockwerken die traditionelle Architektur der Asir-Region zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.500999,
+                        18.216591
+                  ]
+            },
+            {
+                  "name": "Shamsan Historical Castle",
+                  "text": "Eine historische osmanische Festung auf einem Hügel, die einen weiten Blick über die Stadt Abha bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        42.503622,
+                        18.225197
+                  ]
+            },
+            {
+                  "name": "Hotel",
+                  "text": "Ein muslimischer Gebetsraum innerhalb eines Hotelkomplexes in Abha für Reisende und Gäste.",
+                  "category": "landmark",
+                  "coords": [
+                        42.562745,
+                        18.212531
+                  ]
+            },
+            {
+                  "name": "King Faisal Mosque",
+                  "text": "Eine bedeutende Moschee in Abha, benannt nach König Faisal, mit markanten Minaretten und großem Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        42.488532,
+                        18.221881
+                  ]
+            },
+            {
+                  "name": "King Abdulaziz Grand Mosque",
+                  "text": "Die Große Moschee von Abha, ein zentrales religiöses Bauwerk mit moderner islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        42.499769,
+                        18.216697
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Dabbab Walkway",
+                  "text": "Panoráma sétány Abha-ban, amelyet gyakran köd borít, így olyan érzést kelt, mintha a felhők felett járnánk.",
+                  "category": "landmark",
+                  "coords": [
+                        42.507581,
+                        18.196825
+                  ]
+            },
+            {
+                  "name": "Green Mountain",
+                  "text": "Jellegzetes domb Abha-ban, amely éjszaka zöld kivilágítást kap, és drótkötélpályával érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        42.506557,
+                        18.204428
+                  ]
+            },
+            {
+                  "name": "Shada Archaeological Palace",
+                  "text": "Történelmi agyagépület Abha-ban, amely több emeletével az Aszír-régió hagyományos építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        42.500999,
+                        18.216591
+                  ]
+            },
+            {
+                  "name": "Shamsan Historical Castle",
+                  "text": "Történelmi oszmán erőd egy dombtetőn, amely tágas kilátást nyújt Abha városára.",
+                  "category": "landmark",
+                  "coords": [
+                        42.503622,
+                        18.225197
+                  ]
+            },
+            {
+                  "name": "Hotel",
+                  "text": "Muszlim imaterem egy Abha-i szállodakomplexumon belül utazók és vendégek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        42.562745,
+                        18.212531
+                  ]
+            },
+            {
+                  "name": "King Faisal Mosque",
+                  "text": "Jelentős mecset Abha-ban, amely Faisal királyról kapta a nevét, jellegzetes minaretekkel és nagy imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        42.488532,
+                        18.221881
+                  ]
+            },
+            {
+                  "name": "King Abdulaziz Grand Mosque",
+                  "text": "Abha nagymecsete, egy központi vallási épület modern iszlám építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.499769,
+                        18.216697
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Dabbab Walkway",
+                  "text": "O pasarelă panoramică în Abha, adesea învăluită în ceață, oferind senzația de a merge pe deasupra norilor.",
+                  "category": "landmark",
+                  "coords": [
+                        42.507581,
+                        18.196825
+                  ]
+            },
+            {
+                  "name": "Green Mountain",
+                  "text": "Un deal proeminent în Abha, iluminat în verde noaptea și accesibil cu telecabina.",
+                  "category": "landmark",
+                  "coords": [
+                        42.506557,
+                        18.204428
+                  ]
+            },
+            {
+                  "name": "Shada Archaeological Palace",
+                  "text": "O clădire istorică din lut în Abha, prezentând arhitectura tradițională a regiunii Asir prin cele câteva etaje ale sale.",
+                  "category": "landmark",
+                  "coords": [
+                        42.500999,
+                        18.216591
+                  ]
+            },
+            {
+                  "name": "Shamsan Historical Castle",
+                  "text": "O fortăreață otomană istorică pe un deal, oferind o vedere largă asupra orașului Abha.",
+                  "category": "landmark",
+                  "coords": [
+                        42.503622,
+                        18.225197
+                  ]
+            },
+            {
+                  "name": "Hotel",
+                  "text": "O sală de rugăciune musulmană în cadrul unui complex hotelier din Abha, pentru călători și oaspeți.",
+                  "category": "landmark",
+                  "coords": [
+                        42.562745,
+                        18.212531
+                  ]
+            },
+            {
+                  "name": "King Faisal Mosque",
+                  "text": "O moschee importantă în Abha, numită după regele Faisal, cu minarete proeminente și o sală mare de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        42.488532,
+                        18.221881
+                  ]
+            },
+            {
+                  "name": "King Abdulaziz Grand Mosque",
+                  "text": "Marea Moschee din Abha, o structură religioasă centrală cu arhitectură islamică modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        42.499769,
+                        18.216697
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Dabbab Walkway",
+                  "text": "A panoramic walkway in Abha often shrouded in fog, giving the sensation of walking above the clouds.",
+                  "category": "landmark",
+                  "coords": [
+                        42.507581,
+                        18.196825
+                  ]
+            },
+            {
+                  "name": "Green Mountain",
+                  "text": "A prominent hill in Abha that is lit green at night and accessible via a cable car.",
+                  "category": "landmark",
+                  "coords": [
+                        42.506557,
+                        18.204428
+                  ]
+            },
+            {
+                  "name": "Shada Archaeological Palace",
+                  "text": "A historic mud-brick building in Abha showcasing the traditional multi-story architecture of the Asir region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.500999,
+                        18.216591
+                  ]
+            },
+            {
+                  "name": "Shamsan Historical Castle",
+                  "text": "A historical Ottoman fortress perched on a hill, providing expansive views over the city of Abha.",
+                  "category": "landmark",
+                  "coords": [
+                        42.503622,
+                        18.225197
+                  ]
+            },
+            {
+                  "name": "Hotel",
+                  "text": "A Muslim prayer room within a hotel complex in Abha catering to travelers and guests.",
+                  "category": "landmark",
+                  "coords": [
+                        42.562745,
+                        18.212531
+                  ]
+            },
+            {
+                  "name": "King Faisal Mosque",
+                  "text": "A significant mosque in Abha named after King Faisal, featuring prominent minarets and a large prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        42.488532,
+                        18.221881
+                  ]
+            },
+            {
+                  "name": "King Abdulaziz Grand Mosque",
+                  "text": "The Grand Mosque of Abha, a central religious structure featuring modern Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        42.499769,
+                        18.216697
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-14",
     coords: [42.5053, 18.2164],
@@ -746,7 +3644,268 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["Abha is located at an elevation of 2,270 meters (7,448 feet) in the Sarawat Mountains.", "It serves as the administrative capital of the 'Asir Region.", "Asir National Park was established in 1981 as the first in Saudi Arabia.", "The traditional Al-Qatt Al-Asiri wall art is a UNESCO-recognized cultural heritage.", "The city's climate is characterized by low humidity and moderate temperatures.", "Al Habala village is famous for its cable car access to a cliffside settlement.", "Abha's population has grown to over 300,000 residents in the metropolitan area.", "The region is a major producer of highland honey and mountain fruits."],
     }, image: "/poi-images/abha-cities-v2.webp"},
   {
-    id: "al-hofuf-cities-v2",
+    id: "al-hofuf-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr al Khizam",
+                  "text": "Ein historischer Palast in Al-Hofuf, der für seine strategische Rolle beim Schutz der südlichen Zugänge zur Stadt bekannt war.",
+                  "category": "castle",
+                  "coords": [
+                        49.55,
+                        25.35
+                  ]
+            },
+            {
+                  "name": "Khuzam Palace",
+                  "text": "Diese ehemalige königliche Residenz in Al-Hofuf zeigt eindrucksvolle Verteidigungsstrukturen und traditionelle saudische Baukunst.",
+                  "category": "landmark",
+                  "coords": [
+                        49.576874,
+                        25.368043
+                  ]
+            },
+            {
+                  "name": "Ibrahim's Palace",
+                  "text": "Eine monumentale Festung in Hofuf, die islamische Kuppeln mit osmanischer Militärarchitektur kombiniert und zum UNESCO-Erbe gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        49.586754,
+                        25.378936
+                  ]
+            },
+            {
+                  "name": "Ammar bin Yasser mosque may Allah be pleased with him",
+                  "text": "Eine nach einem Gefährten des Propheten benannte Moschee, die für ihre klassische Gestaltung und lokale Frömmigkeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.562785,
+                        25.362854
+                  ]
+            },
+            {
+                  "name": "Mosque of the Custodian of the Two Holy Mosques.",
+                  "text": "Diese große Freitagsmoschee in Al-Hofuf ist ein architektonisches Wahrzeichen und Zentrum für bedeutende religiöse Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        49.564277,
+                        25.362583
+                  ]
+            },
+            {
+                  "name": "Masjid Ali Bin Abi Taleb",
+                  "text": "Eine Stadtmoschee in Hofuf, die durch ihre elegante Fassade und die zentrale Lage im historischen Viertel auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.548346,
+                        25.370486
+                  ]
+            },
+            {
+                  "name": "Al Salmaniyah Congregational Mosque",
+                  "text": "Ein weiträumiges muslimisches Gemeindezentrum in Al-Hofuf, das Platz für tausende Gläubige bei den täglichen Gebeten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.550775,
+                        25.369193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr al Khizam",
+                  "text": "Történelmi palota Al-Hofufban, amely a város déli bejáratainak védelmében betöltött stratégiai szerepéről volt ismert.",
+                  "category": "castle",
+                  "coords": [
+                        49.55,
+                        25.35
+                  ]
+            },
+            {
+                  "name": "Khuzam Palace",
+                  "text": "Ez az egykori királyi rezidencia Al-Hofufban lenyűgöző védelmi struktúrákat és hagyományos szaúdi építészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        49.576874,
+                        25.368043
+                  ]
+            },
+            {
+                  "name": "Ibrahim's Palace",
+                  "text": "Monumentális erőd Hofufban, amely az iszlám kupolákat ötvözi az oszmán katonai építészettel; az UNESCO világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        49.586754,
+                        25.378936
+                  ]
+            },
+            {
+                  "name": "Ammar bin Yasser mosque may Allah be pleased with him",
+                  "text": "A próféta egyik társáról elnevezett mecset, amely klasszikus kialakításáról és a helyi vallásosságban betöltött szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        49.562785,
+                        25.362854
+                  ]
+            },
+            {
+                  "name": "Mosque of the Custodian of the Two Holy Mosques.",
+                  "text": "Ez a nagy pénteki mecset Al-Hofufban építészeti jelkép és a jelentős vallási összejövetelek központja.",
+                  "category": "landmark",
+                  "coords": [
+                        49.564277,
+                        25.362583
+                  ]
+            },
+            {
+                  "name": "Masjid Ali Bin Abi Taleb",
+                  "text": "Városi mecset Hofufban, amely elegáns homlokzatával és a történelmi negyedben elfoglalt központi helyével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        49.548346,
+                        25.370486
+                  ]
+            },
+            {
+                  "name": "Al Salmaniyah Congregational Mosque",
+                  "text": "Tágas muszlim közösségi központ Al-Hofufban, amely hívők ezreinek biztosít helyet a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        49.550775,
+                        25.369193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr al Khizam",
+                  "text": "Un palat istoric din Al-Hofuf, cunoscut pentru rolul său strategic în protejarea intrărilor sudice ale orașului.",
+                  "category": "castle",
+                  "coords": [
+                        49.55,
+                        25.35
+                  ]
+            },
+            {
+                  "name": "Khuzam Palace",
+                  "text": "Această fostă reședință regală din Al-Hofuf prezintă structuri defensive impresionante și arhitectură tradițională saudită.",
+                  "category": "landmark",
+                  "coords": [
+                        49.576874,
+                        25.368043
+                  ]
+            },
+            {
+                  "name": "Ibrahim's Palace",
+                  "text": "O fortăreață monumentală în Hofuf, care combină domurile islamice cu arhitectura militară otomană, fiind parte din patrimoniul UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        49.586754,
+                        25.378936
+                  ]
+            },
+            {
+                  "name": "Ammar bin Yasser mosque may Allah be pleased with him",
+                  "text": "O moschee numită după un însoțitor al Profetului, cunoscută pentru designul său clasic și evlavia locală.",
+                  "category": "landmark",
+                  "coords": [
+                        49.562785,
+                        25.362854
+                  ]
+            },
+            {
+                  "name": "Mosque of the Custodian of the Two Holy Mosques.",
+                  "text": "Această mare moschee de vineri din Al-Hofuf este un reper arhitectural și un centru pentru adunări religioase importante.",
+                  "category": "landmark",
+                  "coords": [
+                        49.564277,
+                        25.362583
+                  ]
+            },
+            {
+                  "name": "Masjid Ali Bin Abi Taleb",
+                  "text": "O moschee urbană în Hofuf, care se remarcă prin fațada sa elegantă și locația centrală în cartierul istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        49.548346,
+                        25.370486
+                  ]
+            },
+            {
+                  "name": "Al Salmaniyah Congregational Mosque",
+                  "text": "Un centru comunitar musulman spațios din Al-Hofuf, care oferă loc pentru mii de credincioși la rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        49.550775,
+                        25.369193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr al Khizam",
+                  "text": "A historic palace in Al-Hofuf known for its strategic role in protecting the southern entrances to the city.",
+                  "category": "castle",
+                  "coords": [
+                        49.55,
+                        25.35
+                  ]
+            },
+            {
+                  "name": "Khuzam Palace",
+                  "text": "This former royal residence in Al-Hofuf showcases impressive defensive structures and traditional Saudi architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        49.576874,
+                        25.368043
+                  ]
+            },
+            {
+                  "name": "Ibrahim's Palace",
+                  "text": "A monumental fortress in Hofuf that blends Islamic domes with Ottoman military architecture and is part of the UNESCO heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        49.586754,
+                        25.378936
+                  ]
+            },
+            {
+                  "name": "Ammar bin Yasser mosque may Allah be pleased with him",
+                  "text": "A mosque named after a companion of the Prophet, known for its classical design and local piety.",
+                  "category": "landmark",
+                  "coords": [
+                        49.562785,
+                        25.362854
+                  ]
+            },
+            {
+                  "name": "Mosque of the Custodian of the Two Holy Mosques.",
+                  "text": "This large Friday mosque in Al-Hofuf is an architectural landmark and center for major religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        49.564277,
+                        25.362583
+                  ]
+            },
+            {
+                  "name": "Masjid Ali Bin Abi Taleb",
+                  "text": "An urban mosque in Hofuf, noted for its elegant facade and central location within the historic district.",
+                  "category": "landmark",
+                  "coords": [
+                        49.548346,
+                        25.370486
+                  ]
+            },
+            {
+                  "name": "Al Salmaniyah Congregational Mosque",
+                  "text": "A spacious Muslim community center in Al-Hofuf, providing room for thousands of worshipers during daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        49.550775,
+                        25.369193
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-04",
     coords: [49.5653, 25.3646],
@@ -805,7 +3964,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Qasr Sahud",
-                  "text": "Qasr Sahud ist eine historische Burg in Al Mubarraz.",
+                  "text": "Qasr Sahud ist eine historische Burg in Mubarraz, einst eine Verteidigungsfestung.",
                   "category": "castle",
                   "coords": [
                         49.583342,
@@ -814,7 +3973,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ayn an Najm",
-                  "text": "Ayn an Najm ist eine Ruinenstätte in Al Mubarraz.",
+                  "text": "Eine historische Quelle namens 'Sternquelle' in Mubarraz.",
                   "category": "historical",
                   "coords": [
                         49.558598,
@@ -823,7 +3982,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Schiffs-Denkmal (Duwar al-Safina)",
-                  "text": "Das Schiffs-Denkmal (Duwar al-Safina) ist eine bekannte Sehenswürdigkeit in Al Mubarraz.",
+                  "text": "Ein schiffsformiges Monument an einem Kreisverkehr in Mubarraz.",
                   "category": "historical",
                   "coords": [
                         49.606857,
@@ -834,7 +3993,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Qasr Sahud",
-                  "text": "A Qasr Sahud egy történelmi vár Al Mubarrazban.",
+                  "text": "A Qasr Sahud egy történelmi vár Mubarrazban, egykor védőerőd.",
                   "category": "castle",
                   "coords": [
                         49.583342,
@@ -843,7 +4002,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ayn an Najm",
-                  "text": "Az Ayn an Najm egy romterület Al Mubarrazban.",
+                  "text": "Egy történelmi forrás, a 'Csillag-forrás' Mubarrazban.",
                   "category": "historical",
                   "coords": [
                         49.558598,
@@ -852,7 +4011,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hajó-emlékmű (Duwar al-Safina)",
-                  "text": "A Hajó-emlékmű (Duwar al-Safina) egy ismert látnivaló Al Mubarrazban.",
+                  "text": "Egy hajó alakú emlékmű egy körforgalomban Mubarrazban.",
                   "category": "historical",
                   "coords": [
                         49.606857,
@@ -863,7 +4022,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Qasr Sahud",
-                  "text": "Qasr Sahud este un castel istoric în Al Mubarraz.",
+                  "text": "Qasr Sahud este un castel istoric din Mubarraz, cândva o fortăreață defensivă.",
                   "category": "castle",
                   "coords": [
                         49.583342,
@@ -872,7 +4031,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ayn an Najm",
-                  "text": "Ayn an Najm este un sit în ruină în Al Mubarraz.",
+                  "text": "Un izvor istoric numit 'Fântâna Stelei' în Mubarraz.",
                   "category": "historical",
                   "coords": [
                         49.558598,
@@ -881,7 +4040,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Navei (Duwar al-Safina)",
-                  "text": "Monumentul Navei (Duwar al-Safina) este un punct de reper cunoscut în Al Mubarraz.",
+                  "text": "Un monument în formă de navă la un sens giratoriu în Mubarraz.",
                   "category": "historical",
                   "coords": [
                         49.606857,
@@ -892,7 +4051,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Qasr Sahud",
-                  "text": "Qasr Sahud is a historic castle in Al Mubarraz.",
+                  "text": "Qasr Sahud is a historic castle in Mubarraz, once a defensive fort.",
                   "category": "castle",
                   "coords": [
                         49.583342,
@@ -901,7 +4060,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "`Ayn an Najm",
-                  "text": "Ayn an Najm is a ruin site in Al Mubarraz.",
+                  "text": "A historical spring called 'Star Spring' in Mubarraz.",
                   "category": "historical",
                   "coords": [
                         49.558598,
@@ -910,7 +4069,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ship Monument (Duwar al-Safina)",
-                  "text": "The Ship Monument (Duwar al-Safina) is a well-known landmark in Al Mubarraz.",
+                  "text": "A monument shaped like a ship at a roundabout in Mubarraz.",
                   "category": "historical",
                   "coords": [
                         49.606857,
@@ -973,7 +4132,52 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["Environ 300 000 habitants dans l'oasis d'Al-Ahsa", "Ville jumelle d'Hofuf dans la Province orientale", "Forteresse du château de Khuzam du XIXe siècle", "Conquête par Ibn Saud en 1913", "Centre important de la population chiite", "Oasis d'Al-Ahsa classée au patrimoine mondial de l'UNESCO depuis 2018", "Économie basée sur les palmiers dattiers et les services pétroliers", "Incorporation au Royaume d'Arabie saoudite en 1932"],
     }, image: "/poi-images/al-mubarraz-cities-v2.webp"},
   {
-    id: "hail-cities-v2",
+    id: "hail-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "A'Arif Fort",
+                  "text": "Das A'Arif Fort ist eine historische Lehmziegelfestung auf einem Hügel mit Panoramablick über die Umgebung.",
+                  "category": "castle",
+                  "coords": [
+                        41.703345,
+                        27.517094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "A'Arif Fort",
+                  "text": "Az A'Arif erőd egy történelmi, dombtetőn álló vályogtégla erődítmény, amely panorámás kilátást nyújt a környékre.",
+                  "category": "castle",
+                  "coords": [
+                        41.703345,
+                        27.517094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "A'Arif Fort",
+                  "text": "Fortul A'Arif este o fortăreață istorică din cărămidă de noroi pe un deal, care oferă vederi panoramice asupra zonei înconjurătoare.",
+                  "category": "castle",
+                  "coords": [
+                        41.703345,
+                        27.517094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "A'Arif Fort",
+                  "text": "A'Arif Fort is a historic hilltop mud-brick fortress offering panoramic views over the surrounding area.",
+                  "category": "castle",
+                  "coords": [
+                        41.703345,
+                        27.517094
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-06",
     coords: [41.6907, 27.5158],
@@ -1023,7 +4227,160 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "najran-cities-v2",
+    id: "najran-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qal`at Ra`um",
+                  "text": "Eine antike Steinfestung auf einem steilen Gipfel, die das fruchtbare Najran-Tal überblickt.",
+                  "category": "historical",
+                  "coords": [
+                        44.087364,
+                        17.469074
+                  ]
+            },
+            {
+                  "name": "Aan Palace",
+                  "text": "Ein prächtiger Lehmpalast in Najran, der für seine mehrstöckige 'Midmakh'-Architektur mit weißen Verzierungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.095979,
+                        17.480249
+                  ]
+            },
+            {
+                  "name": "Emara Palace",
+                  "text": "Ein historischer Regierungssitz in Najran, ein massiver Bau aus Lehmziegeln mit einem großen Innenhof.",
+                  "category": "castle",
+                  "coords": [
+                        44.131819,
+                        17.490106
+                  ]
+            },
+            {
+                  "name": "Mintaqat al `Ajmah al Athariyah",
+                  "text": "Eine bedeutende archäologische Stätte in Najran mit Überresten antiker Zivilisationen und Inschriften.",
+                  "category": "historical",
+                  "coords": [
+                        44.147539,
+                        17.526365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qal`at Ra`um",
+                  "text": "Ősi kőerőd egy meredek csúcson, amely a termékeny Najran-völgyre néz.",
+                  "category": "historical",
+                  "coords": [
+                        44.087364,
+                        17.469074
+                  ]
+            },
+            {
+                  "name": "Aan Palace",
+                  "text": "Pompás agyagpalota Najranban, amely a fehér díszítésekkel ellátott, többemeletes „midmakh” építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.095979,
+                        17.480249
+                  ]
+            },
+            {
+                  "name": "Emara Palace",
+                  "text": "Történelmi kormányzati székhely Najranban, egy masszív vályogtégla épület nagy belső udvarral.",
+                  "category": "castle",
+                  "coords": [
+                        44.131819,
+                        17.490106
+                  ]
+            },
+            {
+                  "name": "Mintaqat al `Ajmah al Athariyah",
+                  "text": "Jelentős régészeti lelőhely Najranban, ősi civilizációk maradványaival és feliratokkal.",
+                  "category": "historical",
+                  "coords": [
+                        44.147539,
+                        17.526365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qal`at Ra`um",
+                  "text": "O fortăreață antică din piatră pe un vârf abrupt, cu vedere spre valea fertilă Najran.",
+                  "category": "historical",
+                  "coords": [
+                        44.087364,
+                        17.469074
+                  ]
+            },
+            {
+                  "name": "Aan Palace",
+                  "text": "Un palat magnific din lut în Najran, cunoscut pentru arhitectura „midmakh” pe mai multe niveluri cu decorațiuni albe.",
+                  "category": "landmark",
+                  "coords": [
+                        44.095979,
+                        17.480249
+                  ]
+            },
+            {
+                  "name": "Emara Palace",
+                  "text": "Un sediu guvernamental istoric în Najran, o construcție masivă din cărămizi de lut cu o curte interioară mare.",
+                  "category": "castle",
+                  "coords": [
+                        44.131819,
+                        17.490106
+                  ]
+            },
+            {
+                  "name": "Mintaqat al `Ajmah al Athariyah",
+                  "text": "Un sit arheologic important în Najran, cu rămășițe ale civilizațiilor antice și inscripții.",
+                  "category": "historical",
+                  "coords": [
+                        44.147539,
+                        17.526365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qal`at Ra`um",
+                  "text": "An ancient stone fortress perched on a steep peak overlooking the fertile Najran valley.",
+                  "category": "historical",
+                  "coords": [
+                        44.087364,
+                        17.469074
+                  ]
+            },
+            {
+                  "name": "Aan Palace",
+                  "text": "A magnificent mud-brick palace in Najran known for its multi-story 'midmakh' architecture with white decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        44.095979,
+                        17.480249
+                  ]
+            },
+            {
+                  "name": "Emara Palace",
+                  "text": "A historic government seat in Najran, a massive mud-brick structure featuring a large central courtyard.",
+                  "category": "castle",
+                  "coords": [
+                        44.131819,
+                        17.490106
+                  ]
+            },
+            {
+                  "name": "Mintaqat al `Ajmah al Athariyah",
+                  "text": "A significant archaeological site in Najran featuring remains of ancient civilizations and inscriptions.",
+                  "category": "historical",
+                  "coords": [
+                        44.147539,
+                        17.526365
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-10",
     coords: [44.1277, 17.4933],
@@ -1072,7 +4429,196 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["The city is a major center for the Banu Yam and Hamdan tribes.", "Najran's Al-Aan Palace is a prime example of traditional mud-tower architecture.", "The historical site of Hima, north of the city, is a UNESCO World Heritage site.", "Najran experiences a semi-arid climate with seasonal rains in the wadi.", "The city served as the seat of a bishopric in the pre-Islamic era.", "Agriculture in Najran focuses on dates, wheat, and diverse vegetable crops.", "The city is connected by a domestic airport with flights to major Saudi hubs.", "Najran's local museum houses artifacts dating back to the Bronze Age."],
     }, image: "/poi-images/najran-cities-v2.webp"},
   {
-    id: "al-jubail-cities-v2",
+    id: "al-jubail-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jalmolda Shorelane",
+                  "text": "Islamische Einrichtung in Al-Dschubail, die mit der städtischen Verwaltung der Royal Commission verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        49.650819,
+                        26.999851
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Lokales islamisches Gotteshaus, das den täglichen Gebetsbedarf der Nachbarschaft in Al-Dschubail deckt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.65262,
+                        26.993128
+                  ]
+            },
+            {
+                  "name": "Daawah Center",
+                  "text": "Islamisches Zentrum in Al-Dschubail, das Gemeindeaufklärung und religiöse Bildungsprogramme anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        49.659452,
+                        27.010388
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdulaziz Mosque",
+                  "text": "Diese dem Kalifen Omar Bin Abdulaziz gewidmete Moschee ist ein spiritueller Mittelpunkt im Herzen von Al-Dschubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.650194,
+                        27.014781
+                  ]
+            },
+            {
+                  "name": "Khonaini Meat, Fish, Vegetable",
+                  "text": "Belebter Frischemarkt in Al-Dschubail, der sich auf lokales Fleisch, Meeresfrüchte und frisches Gemüse spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66459,
+                        27.002123
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jalmolda Shorelane",
+                  "text": "Az Al-Jubail-i Királyi Bizottság városvezetéséhez kapcsolódó iszlám létesítmény.",
+                  "category": "landmark",
+                  "coords": [
+                        49.650819,
+                        26.999851
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Helyi iszlám istentiszteleti hely, amely Al-Jubail lakóinak napi imádkozási igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        49.65262,
+                        26.993128
+                  ]
+            },
+            {
+                  "name": "Daawah Center",
+                  "text": "Iszlám központ Al-Jubailban, amely közösségi programokat és vallási oktatást kínál a híveknek.",
+                  "category": "landmark",
+                  "coords": [
+                        49.659452,
+                        27.010388
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdulaziz Mosque",
+                  "text": "Az Omar Bin Abdulaziz kalifának szentelt mecset egy spirituális központ Al-Jubail szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        49.650194,
+                        27.014781
+                  ]
+            },
+            {
+                  "name": "Khonaini Meat, Fish, Vegetable",
+                  "text": "Nyüzsgő piac Al-Jubailban, amely helyi húsokra, tenger gyümölcseire és friss zöldségekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66459,
+                        27.002123
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jalmolda Shorelane",
+                  "text": "Instituție islamică din Al-Jubail asociată cu administrația urbană a Comisiei Regale.",
+                  "category": "landmark",
+                  "coords": [
+                        49.650819,
+                        26.999851
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Lăcaș de cult islamic de cartier care deservește nevoile zilnice de rugăciune ale comunității din Al-Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.65262,
+                        26.993128
+                  ]
+            },
+            {
+                  "name": "Daawah Center",
+                  "text": "Centru de propagare islamică din Al-Jubail, care oferă educație religioasă și programe comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        49.659452,
+                        27.010388
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdulaziz Mosque",
+                  "text": "Dedicată califului Omar Bin Abdulaziz, această moschee este un punct spiritual central în Al-Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.650194,
+                        27.014781
+                  ]
+            },
+            {
+                  "name": "Khonaini Meat, Fish, Vegetable",
+                  "text": "Piață aglomerată din Al-Jubail, specializată în carne locală, fructe de mare și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66459,
+                        27.002123
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Commission",
+                  "text": "Islamic facility in Al-Jubail associated with the urban administration of the Royal Commission.",
+                  "category": "landmark",
+                  "coords": [
+                        49.650819,
+                        26.999851
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Neighborhood Islamic place of worship serving the daily prayer needs of the Al-Jubail community.",
+                  "category": "landmark",
+                  "coords": [
+                        49.65262,
+                        26.993128
+                  ]
+            },
+            {
+                  "name": "Daawah Center",
+                  "text": "Islamic propagation center in Al-Jubail offering community outreach and religious education programs.",
+                  "category": "landmark",
+                  "coords": [
+                        49.659452,
+                        27.010388
+                  ]
+            },
+            {
+                  "name": "Omar Bin Abdulaziz Mosque",
+                  "text": "Dedicated to the caliph Omar Bin Abdulaziz, this mosque serves as a spiritual focal point in Al-Jubail.",
+                  "category": "landmark",
+                  "coords": [
+                        49.650194,
+                        27.014781
+                  ]
+            },
+            {
+                  "name": "Khonaini Meat, Fish, Vegetable",
+                  "text": "Bustling fresh produce market in Al-Jubail specializing in local meats, seafood, and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66459,
+                        27.002123
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-04",
     coords: [49.6583, 27.0111],
@@ -1186,7 +4732,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mamlaka al-Haywan",
-                  "text": "Mamlaka al-Haywan ist ein Zoo in Yanbu.",
+                  "text": "Ein Familien-Themenpark mit Tierattraktionen in Yanbu.",
                   "category": "family",
                   "coords": [
                         38.065505,
@@ -1195,7 +4741,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "3-Segelboot-Denkmal",
-                  "text": "Das 3-Segelboot-Denkmal ist ein Wahrzeichen in Yanbu.",
+                  "text": "Ein Denkmal mit drei Segelbooten in Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.046285,
@@ -1204,7 +4750,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Shells Monument",
-                  "text": "Das Muschel-Denkmal ist ein Wahrzeichen in Yanbu.",
+                  "text": "Ein Denkmal aus großen Muscheln in Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.072651,
@@ -1213,7 +4759,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "'Fisch im Korb'-Denkmal",
-                  "text": "Das 'Fisch im Korb'-Denkmal ist eine interessante Skulptur in Yanbu.",
+                  "text": "Eine Skulptur eines Fisches in einem Korb in Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.059932,
@@ -1222,7 +4768,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Denkmal des zerbrochenen Kruges",
-                  "text": "Das Denkmal des zerbrochenen Kruges ist eine Sehenswürdigkeit in Yanbu.",
+                  "text": "Ein Denkmal eines zerbrochenen Krugs in Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.061401,
@@ -1231,7 +4777,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "historische Viertel von Yanbu",
-                  "text": "Das historische Viertel von Yanbu ist eine beliebte Attraktion.",
+                  "text": "Das historische Viertel von Yanbu mit alten Steinbauten.",
                   "category": "landmark",
                   "coords": [
                         38.059971,
@@ -1242,7 +4788,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mamlaka al-Haywan",
-                  "text": "A Mamlaka al-Haywan egy állatkert Yanbuban.",
+                  "text": "Egy családi tematikus park állat témájú látnivalókkal Yanbu-ban.",
                   "category": "family",
                   "coords": [
                         38.065505,
@@ -1251,7 +4797,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "3 vitorlás emlékmű",
-                  "text": "A 3 vitorlás emlékmű egy jelkép Yanbuban.",
+                  "text": "Egy emlékmű, amely három vitorlást ábrázol Yanbu-ban.",
                   "category": "historical",
                   "coords": [
                         38.046285,
@@ -1260,7 +4806,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Shells Monument",
-                  "text": "A kagyló-emlékmű egy jelkép Yanbuban.",
+                  "text": "Egy emlékmű nagy kagylókból Yanbu-ban.",
                   "category": "historical",
                   "coords": [
                         38.072651,
@@ -1269,7 +4815,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "'Hal",
-                  "text": "A 'Hal a kosárban' emlékmű egy érdekes szobor Yanbuban.",
+                  "text": "Egy halat ábrázoló szobor kosárban Yanbu-ban.",
                   "category": "historical",
                   "coords": [
                         38.059932,
@@ -1278,7 +4824,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "törött korsó emlékmű",
-                  "text": "A törött korsó emlékmű egy látnivaló Yanbuban.",
+                  "text": "Egy törött korsót ábrázoló emlékmű Yanbu-ban.",
                   "category": "historical",
                   "coords": [
                         38.061401,
@@ -1287,7 +4833,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Historic Yanbu",
-                  "text": "Yanbu történelmi negyede egy népszerű látnivaló.",
+                  "text": "Yanbu történelmi negyede régi kőépületekkel.",
                   "category": "landmark",
                   "coords": [
                         38.059971,
@@ -1298,7 +4844,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mamlaka al-Haywan",
-                  "text": "Mamlaka al-Haywan este o grădină zoologică în Yanbu.",
+                  "text": "Un parc tematic pentru familii cu atracții pe temă animală în Yanbu.",
                   "category": "family",
                   "coords": [
                         38.065505,
@@ -1307,7 +4853,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul celor 3 veliere",
-                  "text": "Monumentul celor 3 veliere este un punct de reper în Yanbu.",
+                  "text": "Un monument cu trei bărci cu pânze în Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.046285,
@@ -1316,7 +4862,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Shells Monument",
-                  "text": "Monumentul scoicilor este un punct de reper în Yanbu.",
+                  "text": "Un monument din scoici mari în Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.072651,
@@ -1325,7 +4871,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul 'Peștele în coș'",
-                  "text": "Monumentul 'Peștele în coș' este o sculptură interesantă în Yanbu.",
+                  "text": "O sculptură a unui pește într-un coș în Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.059932,
@@ -1334,7 +4880,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul ulciorului spart",
-                  "text": "Monumentul ulciorului spart este o atracție în Yanbu.",
+                  "text": "Un monument al unui ulcior spart în Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.061401,
@@ -1343,7 +4889,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cartierul istoric al orașului Yanbu",
-                  "text": "Cartierul istoric al orașului Yanbu este o atracție populară.",
+                  "text": "Cartierul istoric al Yanbului cu clădiri vechi de piatră.",
                   "category": "landmark",
                   "coords": [
                         38.059971,
@@ -1354,7 +4900,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mamlaka al-Haywan",
-                  "text": "Mamlaka al-Haywan is a zoo in Yanbu.",
+                  "text": "A family theme park with animal-themed attractions in Yanbu.",
                   "category": "family",
                   "coords": [
                         38.065505,
@@ -1363,7 +4909,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "3 Sailboats Monument",
-                  "text": "The 3 Sailboats Monument is a landmark in Yanbu.",
+                  "text": "A monument featuring three sailboats in Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.046285,
@@ -1372,7 +4918,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Shells Monument",
-                  "text": "The Shells Monument is a landmark in Yanbu.",
+                  "text": "A monument made of large shells in Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.072651,
@@ -1381,7 +4927,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Fish in a Basket",
-                  "text": "The 'Fish in a Basket' monument is an interesting sculpture in Yanbu.",
+                  "text": "A sculpture of a fish in a basket in Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.059932,
@@ -1390,7 +4936,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "broken jar",
-                  "text": "The broken jar monument is an attraction in Yanbu.",
+                  "text": "A monument of a broken jar in Yanbu.",
                   "category": "historical",
                   "coords": [
                         38.061401,
@@ -1399,7 +4945,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Yanbu Historic Area",
-                  "text": "The historic area of Yanbu is a popular attraction.",
+                  "text": "The historic district of Yanbu with old stone buildings.",
                   "category": "landmark",
                   "coords": [
                         38.059971,
@@ -1517,7 +5063,52 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["Environ 524 000 habitants sur le golfe Persique", "Traces de la culture Dilmun dès le troisième millénaire av. J.-C.", "État carmate d'environ 899 à 1077", "Domination portugaise de 1521 à 1551", "Conquête par Ibn Saoud en 1913", "Population majoritairement chiite", "Oasis de Qatif avec plus d'un million de palmiers-dattiers", "Longue tradition de pêche dans le golfe Persique"],
     }, image: "/poi-images/qatif-cities-v2.webp"},
   {
-    id: "arar-cities-v2",
+    id: "arar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baijan Amusement Park",
+                  "text": "Der Baijan Amusement Park ist ein familienorientierter Themenpark mit verschiedenen Freizeitfahrgeschäften und Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        41.090173,
+                        30.920941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baijan Amusement Park",
+                  "text": "A Baijan Vidámpark egy családbarát élménypark, amely különféle szórakoztató túrákat és látványosságokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        41.090173,
+                        30.920941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baijan Amusement Park",
+                  "text": "Parcul de distracții Baijan este un parc tematic orientat spre familie, oferind diverse atracții și curse recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        41.090173,
+                        30.920941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baijan Amusement Park",
+                  "text": "Baijan Amusement Park is a family-oriented theme park featuring various recreational rides and attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        41.090173,
+                        30.920941
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-08",
     coords: [41.0194, 30.9753],
@@ -1566,7 +5157,88 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["Founded in 1951 as a maintenance station for the Trans-Arabian Pipeline.", "Administrative capital of the Northern Borders Province of Saudi Arabia.", "Situated at an elevation of approximately 530 meters (1,739 feet).", "The city is located roughly 60 kilometers from the border with Iraq.", "Arar is home to the Northern Borders University, established in 2007.", "The region is a major hub for the Kingdom's phosphate mining industry.", "The climate is extreme, with winter temperatures occasionally dropping to -2°C.", "Arar serves as a vital logistics link on the highway to Jordan and Iraq."],
     }, image: "/poi-images/arar-cities-v2.webp"},
   {
-    id: "sakakah-cities-v2",
+    id: "sakakah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque",
+                  "text": "Diese örtliche Moschee in den Wohnstraßen von Sakaka bietet der muslimischen Gemeinde einen Raum für ihre täglichen Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        40.200032,
+                        29.973016
+                  ]
+            },
+            {
+                  "name": "Masjid Shaykh Faysal",
+                  "text": "Die Masjid Shaykh Faysal ist ein bedeutendes islamisches Versammlungszentrum innerhalb des Stadtgebiets von Sakaka.",
+                  "category": "landmark",
+                  "coords": [
+                        40.210319,
+                        29.985282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque",
+                  "text": "Ez a helyi mecset Sakaka lakóutcáin teret biztosít a muszlim közösségnek mindennapi áhítatához.",
+                  "category": "landmark",
+                  "coords": [
+                        40.200032,
+                        29.973016
+                  ]
+            },
+            {
+                  "name": "Masjid Shaykh Faysal",
+                  "text": "A Masjid Shaykh Faysal jelentős iszlám gyülekezeti központ Sakaka városán belül.",
+                  "category": "landmark",
+                  "coords": [
+                        40.210319,
+                        29.985282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee locală de pe străzile rezidențiale din Sakakah oferă comunității musulmane un spațiu pentru devoțiunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        40.200032,
+                        29.973016
+                  ]
+            },
+            {
+                  "name": "Masjid Shaykh Faysal",
+                  "text": "Masjid Shaykh Faysal este un important centru de adunare islamic în zona urbană a orașului Sakakah.",
+                  "category": "landmark",
+                  "coords": [
+                        40.210319,
+                        29.985282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "This local mosque situated in the residential streets of Sakakah offers the Muslim community a space for their daily devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        40.200032,
+                        29.973016
+                  ]
+            },
+            {
+                  "name": "Masjid Shaykh Faysal",
+                  "text": "Masjid Shaykh Faysal is a significant Islamic assembly center within the urban area of Sakakah.",
+                  "category": "landmark",
+                  "coords": [
+                        40.210319,
+                        29.985282
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-12",
     coords: [40.2064, 29.9697],
@@ -1615,7 +5287,376 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["The Al-Jouf region accounts for about 67% of Saudi Arabia's total olive oil production.", "Sakakah's domestic airport serves several daily flights to Riyadh and Jeddah.", "Za'abal Castle is accessible via a steep, winding stone staircase.", "The city's climate allows for the successful cultivation of grapes and citrus.", "Archaeologists believe the Rajajil site was used for burial or religious rites.", "Sakakah has grown significantly since the 1970s due to agricultural subsidies.", "The town of Dumat al-Jandal, with its ancient mosque, is a short drive away.", "Sakakah is a key stop on the modern highway connecting Saudi Arabia and Jordan."],
     }, image: "/poi-images/sakakah-cities-v2.webp"},
   {
-    id: "jizan-cities-v2",
+    id: "jizan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shati' al Qarn",
+                  "text": "Ein ruhiger Sandstrand an der Küste von Jizan, ideal für Spaziergänge am Roten Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        42.582257,
+                        16.841612
+                  ]
+            },
+            {
+                  "name": "Awqat Saeeda Theme Park",
+                  "text": "Ein moderner Freizeitpark in Jizan mit verschiedenen Fahrgeschäften und Unterhaltungsangeboten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        42.542935,
+                        16.879035
+                  ]
+            },
+            {
+                  "name": "al-dosariyeh Castle",
+                  "text": "Eine historische Festung auf einem Hügel in Jizan, die einst zur Verteidigung des Hafens diente.",
+                  "category": "castle",
+                  "coords": [
+                        42.545524,
+                        16.887893
+                  ]
+            },
+            {
+                  "name": "North Corniche",
+                  "text": "Eine weitläufige Parkanlage an der nördlichen Uferpromenade von Jizan mit Grünflächen und Meerblick.",
+                  "category": "park",
+                  "coords": [
+                        42.54658,
+                        16.916522
+                  ]
+            },
+            {
+                  "name": "Jizan port control tower",
+                  "text": "Der markante Kontrollturm des Hafens von Jizan, der Schiffen als weithin sichtbarer Orientierungspunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        42.529508,
+                        16.885062
+                  ]
+            },
+            {
+                  "name": "Moschee",
+                  "text": "Ein traditioneller muslimischer Gebetsort in Jizan mit schlichter lokaler Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        42.583555,
+                        16.884935
+                  ]
+            },
+            {
+                  "name": "Eid Mosque",
+                  "text": "Ein Ort für die Eid-Gebete in Jizan, der während der islamischen Festtage eine zentrale Rolle spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.56808,
+                        16.918369
+                  ]
+            },
+            {
+                  "name": "the beach",
+                  "text": "Ein muslimischer Gebetsplatz in unmittelbarer Nähe zum Strand von Jizan für religiöse Andacht am Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        42.550456,
+                        16.921159
+                  ]
+            },
+            {
+                  "name": "Dates and grains market",
+                  "text": "Ein lebhafter Markt in Jizan, der auf den Handel mit regionalen Datteln und verschiedenen Getreidesorten spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        42.546666,
+                        16.90049
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "Ein authentischer Fischmarkt am Hafen von Jizan, wo täglich frischer Fang aus dem Roten Meer angeboten wird.",
+                  "category": "cultural",
+                  "coords": [
+                        42.545759,
+                        16.900013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shati' al Qarn",
+                  "text": "Nyugodt homokos tengerpart Dzsizán partvidékén, amely ideális a Vörös-tenger menti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        42.582257,
+                        16.841612
+                  ]
+            },
+            {
+                  "name": "Awqat Saeeda Theme Park",
+                  "text": "Modern vidámpark Dzsizánban, különféle játékokkal és szórakozási lehetőségekkel családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        42.542935,
+                        16.879035
+                  ]
+            },
+            {
+                  "name": "al-dosariyeh Castle",
+                  "text": "Történelmi erőd egy dombtetőn Dzsizánban, amely egykor a kikötő védelmét szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        42.545524,
+                        16.887893
+                  ]
+            },
+            {
+                  "name": "North Corniche",
+                  "text": "Kiterjedt parkrendszer Dzsizán északi tengerparti sétányán, zöldfelületekkel és tengeri kilátással.",
+                  "category": "park",
+                  "coords": [
+                        42.54658,
+                        16.916522
+                  ]
+            },
+            {
+                  "name": "Jizan port control tower",
+                  "text": "Dzsizán kikötőjének jellegzetes irányítótornya, amely messziről látható tájékozódási pont a hajók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        42.529508,
+                        16.885062
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Hagyományos muszlim imádkozóhely Dzsizánban, egyszerű helyi építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.583555,
+                        16.884935
+                  ]
+            },
+            {
+                  "name": "Eid Mosque",
+                  "text": "Id-imádságok helyszíne Dzsizánban, amely központi szerepet játszik az iszlám ünnepnapok alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.56808,
+                        16.918369
+                  ]
+            },
+            {
+                  "name": "the beach",
+                  "text": "Muszlim imádkozóhely Dzsizán tengerpartjának közvetlen közelében, tengerparti áhítatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        42.550456,
+                        16.921159
+                  ]
+            },
+            {
+                  "name": "Dates and grains market",
+                  "text": "Nyüzsgő piac Dzsizánban, amely a regionális datolya és különféle gabonafélék kereskedelmére szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        42.546666,
+                        16.90049
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "Autentikus halpiac Dzsizán kikötőjénél, ahol naponta friss fogást kínálnak a Vörös-tengerből.",
+                  "category": "cultural",
+                  "coords": [
+                        42.545759,
+                        16.900013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shati' al Qarn",
+                  "text": "O plajă liniștită de nisip pe coasta orașului Jizan, ideală pentru plimbări pe malul Mării Roșii.",
+                  "category": "recreational",
+                  "coords": [
+                        42.582257,
+                        16.841612
+                  ]
+            },
+            {
+                  "name": "Awqat Saeeda Theme Park",
+                  "text": "Un parc de distracții modern în Jizan, cu diverse atracții și opțiuni de divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        42.542935,
+                        16.879035
+                  ]
+            },
+            {
+                  "name": "al-dosariyeh Castle",
+                  "text": "O fortăreață istorică pe un deal din Jizan, care a servit odinioară la apărarea portului.",
+                  "category": "castle",
+                  "coords": [
+                        42.545524,
+                        16.887893
+                  ]
+            },
+            {
+                  "name": "North Corniche",
+                  "text": "Un parc vast pe faleza de nord a orașului Jizan, cu spații verzi și vedere la mare.",
+                  "category": "park",
+                  "coords": [
+                        42.54658,
+                        16.916522
+                  ]
+            },
+            {
+                  "name": "Jizan port control tower",
+                  "text": "Turnul de control proeminent al portului Jizan, care servește ca punct de reper vizibil de la distanță pentru nave.",
+                  "category": "landmark",
+                  "coords": [
+                        42.529508,
+                        16.885062
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un loc de rugăciune musulman tradițional în Jizan, cu arhitectură locală simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        42.583555,
+                        16.884935
+                  ]
+            },
+            {
+                  "name": "Eid Mosque",
+                  "text": "Un loc pentru rugăciunile de Eid în Jizan, care joacă un rol central în timpul sărbătorilor islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        42.56808,
+                        16.918369
+                  ]
+            },
+            {
+                  "name": "the beach",
+                  "text": "Un spațiu de rugăciune musulman în imediata apropiere a plajei din Jizan, pentru devoțiune lângă mare.",
+                  "category": "landmark",
+                  "coords": [
+                        42.550456,
+                        16.921159
+                  ]
+            },
+            {
+                  "name": "Dates and grains market",
+                  "text": "O piață animată în Jizan, specializată în comerțul cu curmale regionale și diverse tipuri de cereale.",
+                  "category": "cultural",
+                  "coords": [
+                        42.546666,
+                        16.90049
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "O piață de pește autentică în portul Jizan, unde se vinde zilnic captura proaspătă din Marea Roșie.",
+                  "category": "cultural",
+                  "coords": [
+                        42.545759,
+                        16.900013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shati' al Qarn",
+                  "text": "A peaceful sandy beach on the Jizan coast, ideal for strolls along the Red Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        42.582257,
+                        16.841612
+                  ]
+            },
+            {
+                  "name": "Awqat Saeeda Theme Park",
+                  "text": "A modern theme park in Jizan featuring various rides and entertainment options for families.",
+                  "category": "recreational",
+                  "coords": [
+                        42.542935,
+                        16.879035
+                  ]
+            },
+            {
+                  "name": "al-dosariyeh Castle",
+                  "text": "A historical hilltop fortress in Jizan that once served to defend the port city.",
+                  "category": "castle",
+                  "coords": [
+                        42.545524,
+                        16.887893
+                  ]
+            },
+            {
+                  "name": "North Corniche",
+                  "text": "A sprawling park area on Jizan's northern waterfront promenade, featuring green spaces and sea views.",
+                  "category": "park",
+                  "coords": [
+                        42.54658,
+                        16.916522
+                  ]
+            },
+            {
+                  "name": "Jizan port control tower",
+                  "text": "The prominent control tower of Jizan's port, serving as a landmark visible from afar for ships.",
+                  "category": "landmark",
+                  "coords": [
+                        42.529508,
+                        16.885062
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A traditional Muslim place of prayer in Jizan featuring simple local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        42.583555,
+                        16.884935
+                  ]
+            },
+            {
+                  "name": "Eid Mosque",
+                  "text": "A dedicated site for Eid prayers in Jizan, playing a central role during Islamic festive days.",
+                  "category": "landmark",
+                  "coords": [
+                        42.56808,
+                        16.918369
+                  ]
+            },
+            {
+                  "name": "the beach",
+                  "text": "A Muslim prayer space located in close proximity to the Jizan beach for devotion by the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        42.550456,
+                        16.921159
+                  ]
+            },
+            {
+                  "name": "Dates and grains market",
+                  "text": "A lively market in Jizan specializing in the trade of regional dates and various types of grains.",
+                  "category": "cultural",
+                  "coords": [
+                        42.546666,
+                        16.90049
+                  ]
+            },
+            {
+                  "name": "Fish Market",
+                  "text": "An authentic fish market at Jizan's port offering a daily fresh catch from the Red Sea.",
+                  "category": "cultural",
+                  "coords": [
+                        42.545759,
+                        16.900013
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SA-09",
     coords: [42.5511, 16.8892],
@@ -1719,7 +5760,160 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["Environ 147 000 habitants à la frontière avec la Jordanie", "À environ 540 mètres d'altitude dans la région d'Al-Dschauf", "Forteresse de Kaf de l'époque ottomane", "Passage frontalier Halat Ammar vers la Jordanie", "Extraction de sel du Sabkhat al-Qurayyat", "Conquête par Ibn Saud en 1922", "Gare du chemin de fer du Hedjaz de 1908 à 1916", "L'une des plus grandes zones de culture d'olives du Royaume"],
     }, image: "/poi-images/al-qurayyat-cities-v2.webp"},
   {
-    id: "dhahran-cities-v2",
+    id: "dhahran-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ibrahim Al-Ajami Mosque",
+                  "text": "Die Ibrahim-Al-Ajami-Moschee ist ein gut besuchtes islamisches Nachbarschaftszentrum im städtischen Wohngebiet von Dhahran.",
+                  "category": "landmark",
+                  "coords": [
+                        50.174344,
+                        26.298407
+                  ]
+            },
+            {
+                  "name": "Jabal Mosque",
+                  "text": "Die Jabal-Moschee bietet eine ruhige muslimische Gebetsumgebung vor der Kulisse der Stadtlandschaft von Dhahran.",
+                  "category": "landmark",
+                  "coords": [
+                        50.142485,
+                        26.307604
+                  ]
+            },
+            {
+                  "name": "Othman Ibn Affan Mosque",
+                  "text": "Diese nach dem dritten Kalifen benannte, geräumige muslimische Moschee in Dhahran verfügt über traditionelle Bögen und ein markantes Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        50.149939,
+                        26.295221
+                  ]
+            },
+            {
+                  "name": "Ad Diwan (Bilal bin Rabah) Mosque",
+                  "text": "Die Ad Diwan Moschee dient der muslimischen Gemeinde von Dhahran mit einem strukturierten Gebetssaal, der für tägliche Versammlungen vorgesehen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        50.130202,
+                        26.303299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ibrahim Al-Ajami Mosque",
+                  "text": "Az Ibrahim Al-Ajami mecset egy látogatott iszlám szomszédsági központ, amely Dhahran városi lakóövezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        50.174344,
+                        26.298407
+                  ]
+            },
+            {
+                  "name": "Jabal Mosque",
+                  "text": "A Jabal mecset nyugodt muszlim imakörnyezetet biztosít Dhahran városának városi tája mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.142485,
+                        26.307604
+                  ]
+            },
+            {
+                  "name": "Othman Ibn Affan Mosque",
+                  "text": "A harmadik kalifáról elnevezett tágas dhahrani muszlim mecset hagyományos boltívekkel és kiemelkedő minarettel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.149939,
+                        26.295221
+                  ]
+            },
+            {
+                  "name": "Ad Diwan (Bilal bin Rabah) Mosque",
+                  "text": "Az Ad Diwan mecset a dhahrani muszlim közösséget szolgálja egy strukturált imateremmel, amelyet a napi gyülekezetek számára szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        50.130202,
+                        26.303299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ibrahim Al-Ajami Mosque",
+                  "text": "Moscheea Ibrahim Al-Ajami este un centru islamic de cartier bine frecventat situat în grila rezidențială urbană a orașului Dhahran.",
+                  "category": "landmark",
+                  "coords": [
+                        50.174344,
+                        26.298407
+                  ]
+            },
+            {
+                  "name": "Jabal Mosque",
+                  "text": "Moscheea Jabal oferă un mediu de rugăciune musulman liniștit, amplasat în peisajul urban al orașului Dhahran.",
+                  "category": "landmark",
+                  "coords": [
+                        50.142485,
+                        26.307604
+                  ]
+            },
+            {
+                  "name": "Othman Ibn Affan Mosque",
+                  "text": "Numită după cel de-al treilea calif, această moschee musulmană spațioasă din Dhahran prezintă arcade tradiționale și un minaret proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        50.149939,
+                        26.295221
+                  ]
+            },
+            {
+                  "name": "Ad Diwan (Bilal bin Rabah) Mosque",
+                  "text": "Moscheea Ad Diwan deservește comunitatea musulmană din Dhahran cu o sală de rugăciune structurată, dedicată adunărilor zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        50.130202,
+                        26.303299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ibrahim Al-Ajami Mosque",
+                  "text": "The Ibrahim Al-Ajami Mosque is a well-attended neighborhood Islamic center located in the urban residential grid of Dhahran.",
+                  "category": "landmark",
+                  "coords": [
+                        50.174344,
+                        26.298407
+                  ]
+            },
+            {
+                  "name": "Jabal Mosque",
+                  "text": "The Jabal Mosque provides a serene Muslim prayer environment set against the urban landscape of Dhahran city.",
+                  "category": "landmark",
+                  "coords": [
+                        50.142485,
+                        26.307604
+                  ]
+            },
+            {
+                  "name": "Othman Ibn Affan Mosque",
+                  "text": "Named after the third caliph, this spacious Muslim mosque in Dhahran features traditional arches and a prominent minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        50.149939,
+                        26.295221
+                  ]
+            },
+            {
+                  "name": "Ad Diwan (Bilal bin Rabah) Mosque",
+                  "text": "The Ad Diwan Mosque serves the Dhahran Muslim community with a structured prayer hall dedicated to daily congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        50.130202,
+                        26.303299
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-04",
     coords: [50.1500, 26.2833],
@@ -1827,7 +6021,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tarout Castle",
-                  "text": "Das Tarout Castle ist ein Schloss in Tarut.",
+                  "text": "Eine historische Burg auf der Insel Tarut im Persischen Golf.",
                   "category": "castle",
                   "coords": [
                         50.066063,
@@ -1836,7 +6030,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Khidr Mosque",
-                  "text": "Die Al Khidr Mosque ist eine religiöse Stätte in Tarut.",
+                  "text": "Die Al-Khidr-Moschee in Tarut ist eine alte Moschee auf der Insel Tarut.",
                   "category": "religious",
                   "coords": [
                         50.079157,
@@ -1847,7 +6041,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tarout Castle",
-                  "text": "A Tarout Castle egy kastély Tarut városában.",
+                  "text": "Egy történelmi vár a Tarut szigeten a Perzsa-öbölben.",
                   "category": "castle",
                   "coords": [
                         50.066063,
@@ -1856,7 +6050,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Khidr Mosque",
-                  "text": "Az Al Khidr Mosque egy istentiszteleti hely Tarut városában.",
+                  "text": "Az Al-Khidr mecset Tarutban egy ősi mecset Tarut szigetén.",
                   "category": "religious",
                   "coords": [
                         50.079157,
@@ -1867,7 +6061,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tarout Castle",
-                  "text": "Tarout Castle este un castel în Tarut.",
+                  "text": "Un castel istoric pe insula Tarut, în Golful Persic.",
                   "category": "castle",
                   "coords": [
                         50.066063,
@@ -1876,7 +6070,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Khidr Mosque",
-                  "text": "Al Khidr Mosque este un lăcaș de cult în Tarut.",
+                  "text": "Moscheea Al Khidr din Tarut este o moschee veche pe insula Tarut.",
                   "category": "religious",
                   "coords": [
                         50.079157,
@@ -1887,7 +6081,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tarout Castle",
-                  "text": "The Tarout Castle is a castle located in Tarut.",
+                  "text": "A historic castle on Tarout Island in the Persian Gulf.",
                   "category": "castle",
                   "coords": [
                         50.066063,
@@ -1896,7 +6090,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Khidr Mosque",
-                  "text": "The Al Khidr Mosque is a place of worship located in Tarut.",
+                  "text": "Al Khidr Mosque in Tarut is an ancient mosque on Tarut Island.",
                   "category": "religious",
                   "coords": [
                         50.079157,
@@ -1963,7 +6157,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Stone Monument with Inscriptions",
-                  "text": "Das Stone Monument with Inscriptions ist ein Denkmal in Al-Chubar.",
+                  "text": "Ein Steinmonument mit antiken Inschriften in Khobar.",
                   "category": "historical",
                   "coords": [
                         50.223811,
@@ -1972,7 +6166,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Flame Statue",
-                  "text": "Die Flame Statue ist ein Denkmal in Al-Chubar.",
+                  "text": "Eine Flammenstatue in Khobar.",
                   "category": "historical",
                   "coords": [
                         50.224182,
@@ -1981,7 +6175,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sea Wave Statue",
-                  "text": "Die Sea Wave Statue ist ein Denkmal in Al-Chubar.",
+                  "text": "Eine Statue, die eine Meereswelle darstellt, in Khobar.",
                   "category": "historical",
                   "coords": [
                         50.224702,
@@ -1990,7 +6184,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "GCC Monument (Khobar)",
-                  "text": "Das GCC Monument (Khobar) ist ein Denkmal in Al-Chubar.",
+                  "text": "Ein Denkmal, das die Zusammenarbeit der Golfstaaten symbolisiert, in Khobar.",
                   "category": "historical",
                   "coords": [
                         50.206892,
@@ -2001,7 +6195,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Stone Monument with Inscriptions",
-                  "text": "A Stone Monument with Inscriptions egy emlékmű Al-Chubar városában.",
+                  "text": "Egy kőemlékmű ősi feliratokkal Khobarban.",
                   "category": "historical",
                   "coords": [
                         50.223811,
@@ -2010,7 +6204,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Flame Statue",
-                  "text": "A Flame Statue egy emlékmű Al-Chubar területén.",
+                  "text": "Egy láng alakú szobor Khobarban.",
                   "category": "historical",
                   "coords": [
                         50.224182,
@@ -2019,7 +6213,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sea Wave Statue",
-                  "text": "A Sea Wave Statue egy emlékmű Al-Chubar városában.",
+                  "text": "Egy tengeri hullámot ábrázoló szobor Khobarban.",
                   "category": "historical",
                   "coords": [
                         50.224702,
@@ -2028,7 +6222,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "GCC Monument (Khobar)",
-                  "text": "A GCC Monument (Khobar) egy emlékmű Al-Chubarban.",
+                  "text": "Egy emlékmű, amely az Öböl-együttműködést szimbolizálja Khobarban.",
                   "category": "historical",
                   "coords": [
                         50.206892,
@@ -2039,7 +6233,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Stone Monument with Inscriptions",
-                  "text": "Stone Monument with Inscriptions este un monument din Al-Chubar.",
+                  "text": "Un monument de piatră cu inscripții antice în Khobar.",
                   "category": "historical",
                   "coords": [
                         50.223811,
@@ -2048,7 +6242,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Flame Statue",
-                  "text": "Flame Statue este un monument situat în Al-Chubar.",
+                  "text": "O statuie în formă de flacără în Khobar.",
                   "category": "historical",
                   "coords": [
                         50.224182,
@@ -2057,7 +6251,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sea Wave Statue",
-                  "text": "Sea Wave Statue este un monument din Al-Chubar.",
+                  "text": "O statuie reprezentând un val marin în Khobar.",
                   "category": "historical",
                   "coords": [
                         50.224702,
@@ -2066,7 +6260,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "GCC Monument (Khobar)",
-                  "text": "GCC Monument (Khobar) este un monument din Al-Chubar.",
+                  "text": "Un monument care simbolizează cooperarea în Golf, în Khobar.",
                   "category": "historical",
                   "coords": [
                         50.206892,
@@ -2077,7 +6271,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Stone Monument with Inscriptions",
-                  "text": "The Stone Monument with Inscriptions is a monument in Al-Chubar.",
+                  "text": "A stone monument carved with ancient inscriptions in Khobar.",
                   "category": "historical",
                   "coords": [
                         50.223811,
@@ -2086,7 +6280,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Flame Statue",
-                  "text": "The Flame Statue is a monument located in Al-Chubar.",
+                  "text": "A statue in the shape of a flame in Khobar.",
                   "category": "historical",
                   "coords": [
                         50.224182,
@@ -2095,7 +6289,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sea Wave Statue",
-                  "text": "The Sea Wave Statue is a monument situated in Al-Chubar.",
+                  "text": "A statue depicting a sea wave in Khobar.",
                   "category": "historical",
                   "coords": [
                         50.224702,
@@ -2104,7 +6298,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "GCC Monument (Khobar)",
-                  "text": "The GCC Monument (Khobar) is a monument located in Al-Chubar.",
+                  "text": "A monument symbolizing Gulf cooperation in Khobar.",
                   "category": "historical",
                   "coords": [
                         50.206892,
@@ -2222,7 +6416,196 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["Environ 76 000 habitants à la frontière avec le Koweït", "Découverte de pétrole dans la zone neutre 1957/58", "Le traité d'Uqair de 1922 a créé la zone neutre", "Division de la zone neutre 1965 (SA) et 1969 (KW)", "Bataille d'Al-Chafdschi du 29 janvier au 1er février 1991", "Premier combat terrestre important de la seconde guerre du Golfe", "Khafji Joint Operations produit environ 300 000 barils de brut par jour", "Plages relativement préservées sur le golfe Persique"],
     }, image: "/poi-images/al-khafji-cities-v2.webp"},
   {
-    id: "hafar-al-batin-cities-v2",
+    id: "hafar-al-batin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abdullah Ash-Shurai'a Mosque",
+                  "text": "Die am 6. Mai 2019 eröffnete islamische Gebetsstätte Abdullah Ash-Shurai'a Mosque dient den Gläubigen in Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.97665,
+                        28.418856
+                  ]
+            },
+            {
+                  "name": "Almugheera Bin Shu'ba",
+                  "text": "Die nach einem Prophetengefährten benannte Almugheera Bin Shu'ba Moschee ist ein Ort der islamischen Einkehr in Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.97812,
+                        28.457027
+                  ]
+            },
+            {
+                  "name": "Sheikh Abdul Rahman al-Mahdi Mosque",
+                  "text": "Diese Moschee in Hafar Al-Batin ist eine feste islamische Institution für die täglichen gemeinschaftlichen Gebete der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        45.949275,
+                        28.426852
+                  ]
+            },
+            {
+                  "name": "Al-Hani'an Mosque",
+                  "text": "Die Al-Hani'an Moschee ist ein fester Bestandteil der islamischen Infrastruktur im Stadtbild von Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.946413,
+                        28.422314
+                  ]
+            },
+            {
+                  "name": "Ateiba bin Ghazwan Mosque",
+                  "text": "Die Ateiba bin Ghazwan Moschee, benannt nach einem historischen muslimischen Führer, bietet einen Ort für Freitagsgebete in Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.945572,
+                        28.418335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abdullah Ash-Shurai'a Mosque",
+                  "text": "A 2019. május 6-án megnyílt Abdullah Ash-Shurai'a iszlám imahely Hafar Al-Batin hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.97665,
+                        28.418856
+                  ]
+            },
+            {
+                  "name": "Almugheera Bin Shu'ba",
+                  "text": "A próféta egyik társáról elnevezett Almugheera Bin Shu'ba mecset az iszlám elmélkedés helye Hafar Al-Batinban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.97812,
+                        28.457027
+                  ]
+            },
+            {
+                  "name": "Sheikh Abdul Rahman al-Mahdi Mosque",
+                  "text": "Ez a Hafar Al-Batin-i mecset a szomszédság napi közös imáinak szilárd iszlám intézménye.",
+                  "category": "landmark",
+                  "coords": [
+                        45.949275,
+                        28.426852
+                  ]
+            },
+            {
+                  "name": "Al-Hani'an Mosque",
+                  "text": "Az Al-Hani'an Mecset a Hafar Al-Batin-i városkép iszlám infrastruktúrájának szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        45.946413,
+                        28.422314
+                  ]
+            },
+            {
+                  "name": "Ateiba bin Ghazwan Mosque",
+                  "text": "A történelmi muszlim vezetőről elnevezett Ateiba bin Ghazwan mecset pénteki imák helyszíne Hafar Al-Batinban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.945572,
+                        28.418335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abdullah Ash-Shurai'a Mosque",
+                  "text": "Deschis pe 6 mai 2019, lăcașul de rugăciune islamic Abdullah Ash-Shurai'a servește credincioșilor din Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.97665,
+                        28.418856
+                  ]
+            },
+            {
+                  "name": "Almugheera Bin Shu'ba",
+                  "text": "Numită după un tovarăș al profetului, Moscheea Almugheera Bin Shu'ba este un loc de reculegere islamică în Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.97812,
+                        28.457027
+                  ]
+            },
+            {
+                  "name": "Sheikh Abdul Rahman al-Mahdi Mosque",
+                  "text": "Această moschee din Hafar Al-Batin este o instituție islamică solidă pentru rugăciunile comunale zilnice ale cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        45.949275,
+                        28.426852
+                  ]
+            },
+            {
+                  "name": "Al-Hani'an Mosque",
+                  "text": "Moscheea Al-Hani'an este o parte integrantă a infrastructurii islamice din peisajul urban al orașului Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.946413,
+                        28.422314
+                  ]
+            },
+            {
+                  "name": "Ateiba bin Ghazwan Mosque",
+                  "text": "Moscheea Ateiba bin Ghazwan, numită după un lider musulman istoric, oferă un loc pentru rugăciunile de vineri din Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.945572,
+                        28.418335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abdullah Ash-Shurai'a Mosque",
+                  "text": "Opened on May 6, 2019, the Islamic prayer site Abdullah Ash-Shurai'a Mosque serves the faithful in Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.97665,
+                        28.418856
+                  ]
+            },
+            {
+                  "name": "Almugheera Bin Shu'ba",
+                  "text": "Named after a companion of the prophet, the Almugheera Bin Shu'ba Mosque is a place of Islamic reflection in Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.97812,
+                        28.457027
+                  ]
+            },
+            {
+                  "name": "Sheikh Abdul Rahman al-Mahdi Mosque",
+                  "text": "This mosque in Hafar Al-Batin is an established Islamic institution for the daily communal prayers of the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        45.949275,
+                        28.426852
+                  ]
+            },
+            {
+                  "name": "Al-Hani'an Mosque",
+                  "text": "Al-Hani'an Mosque is an integral part of the Islamic infrastructure within the cityscape of Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.946413,
+                        28.422314
+                  ]
+            },
+            {
+                  "name": "Ateiba bin Ghazwan Mosque",
+                  "text": "The Ateiba bin Ghazwan Mosque, named after a historical Muslim leader, provides a venue for Friday prayers in Hafar Al-Batin.",
+                  "category": "landmark",
+                  "coords": [
+                        45.945572,
+                        28.418335
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-04",
     coords: [45.9667, 28.4333],
@@ -2281,7 +6664,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al-Junaibi Archaeological Palace",
-                  "text": "قصر الجنيني الاثري ist eine archäologische Stätte in Unaiza.",
+                  "text": "Ein archäologischer Palast mit antiken Ruinen in Unayzah.",
                   "category": "historical",
                   "coords": [
                         43.985374,
@@ -2290,7 +6673,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Salehi Heritage House",
-                  "text": "بيت الصالحي التراثي ist eine archäologische Stätte in Unaiza.",
+                  "text": "Ein traditionelles Wohnhaus im Nadschd-Stil in Unayzah.",
                   "category": "historical",
                   "coords": [
                         43.974323,
@@ -2299,7 +6682,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unaiza Clock Tower",
-                  "text": "ساعة عنيزة ist ein Denkmal in Unaiza.",
+                  "text": "Ein Uhrturm im Zentrum von Unayzah.",
                   "category": "historical",
                   "coords": [
                         43.987374,
@@ -2308,7 +6691,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ibn Uthaymeen Mosque",
-                  "text": "جامع ابن عثيمين ist eine religiöse Stätte in Unaiza.",
+                  "text": "Die Ibn-Uthaymeen-Moschee in Unayzah ist eine bedeutende Moschee, benannt nach dem Gelehrten Ibn Uthaymeen.",
                   "category": "religious",
                   "coords": [
                         43.972198,
@@ -2319,7 +6702,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al-Junaibi Archaeological Palace",
-                  "text": "A قصر الجنيني الاثري egy régészeti lelőhely Unaiza városában.",
+                  "text": "Egy régészeti palota ősi romokkal Unayzahban.",
                   "category": "historical",
                   "coords": [
                         43.985374,
@@ -2328,7 +6711,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Salehi Heritage House",
-                  "text": "A بيت الصالحي التراثي egy régészeti emlékhely Unaiza területén.",
+                  "text": "Egy örökségház hagyományos Nadzsdi építészettel Unayzahban.",
                   "category": "historical",
                   "coords": [
                         43.974323,
@@ -2337,7 +6720,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unaiza Clock Tower",
-                  "text": "A ساعة عنيزة egy emlékmű Unaiza városában.",
+                  "text": "Egy óratorony Unayzah központjában.",
                   "category": "historical",
                   "coords": [
                         43.987374,
@@ -2346,7 +6729,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ibn Uthaymeen Mosque",
-                  "text": "A جامع ابن عثيمين egy vallási imahely Unaiza területén.",
+                  "text": "Az Ibn Uthaymeen mecset Unayzahban egy kiemelkedő mecset, amely Ibn Uthaymeen tudósról kapta a nevét.",
                   "category": "religious",
                   "coords": [
                         43.972198,
@@ -2357,7 +6740,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Al-Junaibi Archaeological Palace",
-                  "text": "قصر الجنيني الاثري este un sit arheologic din Unaiza.",
+                  "text": "Un palat arheologic cu ruine antice în Unayzah.",
                   "category": "historical",
                   "coords": [
                         43.985374,
@@ -2366,7 +6749,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Salehi Heritage House",
-                  "text": "بيت الصالحي التراثي este un sit arheologic situat în Unaiza.",
+                  "text": "O casă de patrimoniu cu arhitectură tradițională Najdi în Unayzah.",
                   "category": "historical",
                   "coords": [
                         43.974323,
@@ -2375,7 +6758,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unaiza Clock Tower",
-                  "text": "ساعة عنيزة este un monument din Unaiza.",
+                  "text": "Un turn cu ceas în centrul orașului Unayzah.",
                   "category": "historical",
                   "coords": [
                         43.987374,
@@ -2384,7 +6767,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ibn Uthaymeen Mosque",
-                  "text": "جامع ابن عثيمين este un lăcaș de cult din Unaiza.",
+                  "text": "Moscheea Ibn Uthaymeen din Unayzah este o moschee proeminentă numită după savantul Ibn Uthaymeen.",
                   "category": "religious",
                   "coords": [
                         43.972198,
@@ -2395,7 +6778,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al-Junaibi Archaeological Palace",
-                  "text": "قصر الجنيني الاثري is an archaeological site located in Unaiza.",
+                  "text": "An archaeological palace with ancient ruins in Unayzah.",
                   "category": "historical",
                   "coords": [
                         43.985374,
@@ -2404,7 +6787,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Salehi Heritage House",
-                  "text": "بيت الصالحي التراثي is an archaeological site situated in Unaiza.",
+                  "text": "A heritage house with traditional Najdi architecture in Unayzah.",
                   "category": "historical",
                   "coords": [
                         43.974323,
@@ -2413,7 +6796,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unaiza Clock Tower",
-                  "text": "ساعة عنيزة is a monument located in Unaiza.",
+                  "text": "A clock tower in the center of Unayzah.",
                   "category": "historical",
                   "coords": [
                         43.987374,
@@ -2422,7 +6805,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ibn Uthaymeen Mosque",
-                  "text": "جامع ابن عثيمين is a place of worship located in Unaiza.",
+                  "text": "Ibn Uthaymeen Mosque in Unayzah is a prominent mosque named after the scholar Ibn Uthaymeen.",
                   "category": "religious",
                   "coords": [
                         43.972198,
@@ -2489,7 +6872,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "historische Haus Beit Al-Rabiah",
-                  "text": "Das historische Haus Beit Al-Rabiah ist eine Ruinenstätte in Al-Madschma'a.",
+                  "text": "Ein historisches Haus mit traditionellem Design in Majmaah.",
                   "category": "historical",
                   "coords": [
                         45.334961,
@@ -2498,7 +6881,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "old town of Harmah",
-                  "text": "Die Altstadt von Harmah ist eine historische Ruinenstätte bei Al-Madschma'a.",
+                  "text": "Die Altstadt von Harmah mit Lehmziegelhäusern.",
                   "category": "historical",
                   "coords": [
                         45.341962,
@@ -2509,7 +6892,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Beit Al-Rabiah történelmi ház",
-                  "text": "A Beit Al-Rabiah történelmi ház egy romterület Al-Madschma'ában.",
+                  "text": "Egy történelmi ház hagyományos kialakítással Majmaahban.",
                   "category": "historical",
                   "coords": [
                         45.334961,
@@ -2518,7 +6901,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "old town of Harmah",
-                  "text": "Harmah óvárosa egy történelmi romterület Al-Madschma'a közelében.",
+                  "text": "Harmah óvárosa vályogházakkal.",
                   "category": "historical",
                   "coords": [
                         45.341962,
@@ -2529,7 +6912,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Casa istorică Beit Al-Rabiah",
-                  "text": "Casa istorică Beit Al-Rabiah este un sit în ruină în Al-Madschma'a.",
+                  "text": "O casă istorică cu design tradițional în Majmaah.",
                   "category": "historical",
                   "coords": [
                         45.334961,
@@ -2538,7 +6921,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "old town of Harmah",
-                  "text": "Orașul vechi Harmah este un sit în ruină istoric lângă Al-Madschma'a.",
+                  "text": "Orașul vechi al Harmahului cu case din chirpici.",
                   "category": "historical",
                   "coords": [
                         45.341962,
@@ -2549,7 +6932,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "historic house Beit Al-Rabiah",
-                  "text": "The historic house Beit Al-Rabiah is a ruin site in Al-Madschma'a.",
+                  "text": "A historic house with traditional design in Majmaah.",
                   "category": "historical",
                   "coords": [
                         45.334961,
@@ -2558,7 +6941,7 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
             },
             {
                   "name": "old town of Harmah",
-                  "text": "The old town of Harmah is a historic ruin site near Al-Madschma'a.",
+                  "text": "The old town of Harmah with mud-brick houses.",
                   "category": "historical",
                   "coords": [
                         45.341962,

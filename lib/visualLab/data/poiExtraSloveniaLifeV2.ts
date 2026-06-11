@@ -367,7 +367,7 @@ imageHint: "Strunjan cliffs and Adriatic sea",
       "de": [
             {
                   "name": "Debeli rtič",
-                  "text": "Strand Debeli rtič.",
+                  "text": "Natürlicher Kiesstrand und Naturreservat an der slowenischen Küste bei Debeli rtič.",
                   "category": "recreational",
                   "coords": [
                         13.707962,
@@ -405,7 +405,7 @@ imageHint: "Strunjan cliffs and Adriatic sea",
       "hu": [
             {
                   "name": "Debeli rtič",
-                  "text": "Debeli rtič strand.",
+                  "text": "Természetes kavicsos strand és természetvédelmi terület a szlovén tengerparton, Debeli rtičnél.",
                   "category": "recreational",
                   "coords": [
                         13.707962,
@@ -443,7 +443,7 @@ imageHint: "Strunjan cliffs and Adriatic sea",
       "ro": [
             {
                   "name": "Debeli rtič",
-                  "text": "Plaja Debeli rtič.",
+                  "text": "Plajă naturală de pietriș și rezervație naturală pe coasta slovenă la Debeli rtič.",
                   "category": "recreational",
                   "coords": [
                         13.707962,
@@ -481,7 +481,7 @@ imageHint: "Strunjan cliffs and Adriatic sea",
       "en": [
             {
                   "name": "Debeli rtič",
-                  "text": "Debeli rtič Beach.",
+                  "text": "Natural gravel beach and nature reserve on the Slovenian coast at Debeli rtič.",
                   "category": "recreational",
                   "coords": [
                         13.707962,
@@ -1294,7 +1294,7 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
             },
             {
                   "name": "Zimski bazen Hardek",
-                  "text": "Eine Hallenbadanlage in Ormož.",
+                  "text": "Hallenbad in Hardek, ganzjährig geöffnet, in der Nähe von Ormož.",
                   "category": "recreational",
                   "coords": [
                         16.153949,
@@ -1332,7 +1332,7 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
             },
             {
                   "name": "Zimski bazen Hardek",
-                  "text": "Fedett uszodakomplexum Ormožban.",
+                  "text": "Fedett uszoda Hardekben, egész évben nyitva, Ormož közelében.",
                   "category": "recreational",
                   "coords": [
                         16.153949,
@@ -1370,7 +1370,7 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
             },
             {
                   "name": "Zimski bazen Hardek",
-                  "text": "O facilitate de înot acoperită situată în Ormož.",
+                  "text": "Piscină interioară în Hardek, deschisă tot anul, lângă Ormož.",
                   "category": "recreational",
                   "coords": [
                         16.153949,
@@ -1408,7 +1408,7 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
             },
             {
                   "name": "Zimski bazen Hardek",
-                  "text": "An indoor swimming facility located in Ormož.",
+                  "text": "Indoor swimming pool in Hardek, open year-round, near Ormož.",
                   "category": "recreational",
                   "coords": [
                         16.153949,
@@ -1627,7 +1627,7 @@ imageHint: "Krakovo Forest ancient oak trees and water",
             },
             {
                   "name": "Okno v Tošču",
-                  "text": "Ein natürliches Felsfenster in der Nähe des Tošč-Gipfels.",
+                  "text": "Natürliches Felsenfenster in den Polhov Gradec Dolomiten.",
                   "category": "landmark",
                   "coords": [
                         14.321492,
@@ -1692,7 +1692,7 @@ imageHint: "Krakovo Forest ancient oak trees and water",
             },
             {
                   "name": "Okno v Tošču",
-                  "text": "Természetes sziklaablak a Tošč-csúcs közelében.",
+                  "text": "Természetes sziklaablak a Polhov Gradec Dolomitokban.",
                   "category": "landmark",
                   "coords": [
                         14.321492,
@@ -1757,7 +1757,7 @@ imageHint: "Krakovo Forest ancient oak trees and water",
             },
             {
                   "name": "Okno v Tošču",
-                  "text": "O fereastră naturală în stâncă situată lângă vârful Tošč.",
+                  "text": "Fereastră naturală de stâncă în Dolomiții Polhov Gradec.",
                   "category": "landmark",
                   "coords": [
                         14.321492,
@@ -1822,7 +1822,7 @@ imageHint: "Krakovo Forest ancient oak trees and water",
             },
             {
                   "name": "Okno v Tošču",
-                  "text": "A natural rock window located near the Tošč peak.",
+                  "text": "Natural rock window in the Polhov Gradec Dolomites.",
                   "category": "landmark",
                   "coords": [
                         14.321492,
@@ -2140,7 +2140,7 @@ imageHint: "Golte alpine garden and mountain peaks",
             },
             {
                   "name": "Račka vrata",
-                  "text": "Eine natürliche Felsöffnung im Landschaftspark Robanov Kot.",
+                  "text": "Felsformation in Robanov Kot, die an ein Ententor erinnert.",
                   "category": "landmark",
                   "coords": [
                         14.728066,
@@ -2196,7 +2196,7 @@ imageHint: "Golte alpine garden and mountain peaks",
             },
             {
                   "name": "Račka vrata",
-                  "text": "Egy természetes sziklakapu a Robanov Kot tájvédelmi parkban.",
+                  "text": "Sziklaformáció Robanov Kotban, amely egy kacsakapuhoz hasonlít.",
                   "category": "landmark",
                   "coords": [
                         14.728066,
@@ -2252,7 +2252,7 @@ imageHint: "Golte alpine garden and mountain peaks",
             },
             {
                   "name": "Račka vrata",
-                  "text": "O poartă naturală de stâncă în parcul peisagistic Robanov Kot.",
+                  "text": "Formațiune stâncoasă în Robanov Kot care amintește de o poartă de rață.",
                   "category": "landmark",
                   "coords": [
                         14.728066,
@@ -2308,7 +2308,7 @@ imageHint: "Golte alpine garden and mountain peaks",
             },
             {
                   "name": "Račka vrata",
-                  "text": "A natural rock gate in the Robanov Kot Landscape Park.",
+                  "text": "Rock formation in Robanov Kot resembling a duck gate.",
                   "category": "landmark",
                   "coords": [
                         14.728066,
@@ -3418,7 +3418,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
       "de": [
             {
                   "name": "Grabljice",
-                  "text": "Strand bei Iski Vintgar.",
+                  "text": "Natürliche Badebucht im Iski Vintgar, umgeben von Felsen.",
                   "category": "recreational",
                   "coords": [
                         14.492687,
@@ -3436,7 +3436,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Gozdni rezervat Mokerc",
-                  "text": "Ein Waldnaturschutzgebiet in der Nähe der Iški-Vintgar-Schlucht.",
+                  "text": "Waldreservat im Iski Vintgar mit alten Buchenbeständen.",
                   "category": "natural",
                   "coords": [
                         14.484245,
@@ -3454,7 +3454,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Velika Pasica",
-                  "text": "Eine Höhle in der Nähe der Iški-Vintgar-Schlucht in Slowenien.",
+                  "text": "Eine Karsthöhle in der Iski Vintgar Schlucht.",
                   "category": "landmark",
                   "coords": [
                         14.493243,
@@ -3463,7 +3463,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Mokrec",
-                  "text": "Ein Gipfel im Krim-Hügelland bei der Iški-Vintgar-Schlucht.",
+                  "text": "Ein Berggipfel im Iski Vintgar Gebiet.",
                   "category": "landmark",
                   "coords": [
                         14.527117,
@@ -3472,7 +3472,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Kamenica",
-                  "text": "Ein Berggipfel in der Region der Iški-Vintgar-Schlucht.",
+                  "text": "Steinerne Felssäule in der Iski Vintgar-Schlucht.",
                   "category": "landmark",
                   "coords": [
                         14.466509,
@@ -3492,7 +3492,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
       "hu": [
             {
                   "name": "Grabljice",
-                  "text": "Strand Iski Vintgar közelében.",
+                  "text": "Természetes fürdőöböl az Iski Vintgar szurdokban, sziklákkal körülvéve.",
                   "category": "recreational",
                   "coords": [
                         14.492687,
@@ -3510,7 +3510,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Gozdni rezervat Mokerc",
-                  "text": "Erdőrezervátum az Iški Vintgar-szurdok közelében.",
+                  "text": "Erdőrezervátum az Iski Vintgarban, régi bükkösökkel.",
                   "category": "natural",
                   "coords": [
                         14.484245,
@@ -3528,7 +3528,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Velika Pasica",
-                  "text": "Barlang az Iški Vintgar-szurdok közelében Szlovéniában.",
+                  "text": "Egy karsztbarlang az Iski Vintgar-szurdokban.",
                   "category": "landmark",
                   "coords": [
                         14.493243,
@@ -3537,7 +3537,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Mokrec",
-                  "text": "Hegycsúcs a Krim-hegyvidéken, az Iški Vintgar-szurdok közelében.",
+                  "text": "Egy hegycsúcs az Iski Vintgar területén.",
                   "category": "landmark",
                   "coords": [
                         14.527117,
@@ -3546,7 +3546,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Kamenica",
-                  "text": "Hegycsúcs az Iški Vintgar-szurdok régiójában.",
+                  "text": "Kőoszlop-sziklaformáció az Iski Vintgar-szurdokban.",
                   "category": "landmark",
                   "coords": [
                         14.466509,
@@ -3566,7 +3566,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
       "ro": [
             {
                   "name": "Grabljice",
-                  "text": "Plajă lângă Iski Vintgar.",
+                  "text": "Golf natural de scăldat în cheile Iski Vintgar, înconjurat de stânci.",
                   "category": "recreational",
                   "coords": [
                         14.492687,
@@ -3584,7 +3584,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Gozdni rezervat Mokerc",
-                  "text": "O rezervație forestieră lângă cheile Iški Vintgar.",
+                  "text": "Rezervație forestieră în Iski Vintgar cu păduri bătrâne de fag.",
                   "category": "natural",
                   "coords": [
                         14.484245,
@@ -3602,7 +3602,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Velika Pasica",
-                  "text": "O peșteră lângă cheile Iški Vintgar din Slovenia.",
+                  "text": "O peșteră carstică în cheile Iski Vintgar.",
                   "category": "landmark",
                   "coords": [
                         14.493243,
@@ -3611,7 +3611,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Mokrec",
-                  "text": "Un vârf în dealurile Krim, lângă cheile Iški Vintgar.",
+                  "text": "Un vârf montan în zona Iski Vintgar.",
                   "category": "landmark",
                   "coords": [
                         14.527117,
@@ -3620,7 +3620,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Kamenica",
-                  "text": "Un vârf muntos în regiunea cheilor Iški Vintgar.",
+                  "text": "Formațiune de stâncă în formă de coloană în cheile Iski Vintgar.",
                   "category": "landmark",
                   "coords": [
                         14.466509,
@@ -3640,7 +3640,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
       "en": [
             {
                   "name": "Grabljice",
-                  "text": "Beach near Iski Vintgar.",
+                  "text": "Natural swimming cove in the Iski Vintgar gorge, surrounded by rocks.",
                   "category": "recreational",
                   "coords": [
                         14.492687,
@@ -3658,7 +3658,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Gozdni rezervat Mokerc",
-                  "text": "A forest reserve near the Iški Vintgar gorge.",
+                  "text": "Forest reserve in Iski Vintgar with old beech stands.",
                   "category": "natural",
                   "coords": [
                         14.484245,
@@ -3676,7 +3676,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Velika Pasica",
-                  "text": "A cave near the Iški Vintgar gorge in Slovenia.",
+                  "text": "A karst cave in the Iski Vintgar gorge.",
                   "category": "landmark",
                   "coords": [
                         14.493243,
@@ -3685,7 +3685,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Mokrec",
-                  "text": "A peak in the Krim hills near the Iški Vintgar gorge.",
+                  "text": "A mountain peak in the Iski Vintgar area.",
                   "category": "landmark",
                   "coords": [
                         14.527117,
@@ -3694,7 +3694,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
             },
             {
                   "name": "Kamenica",
-                  "text": "A mountain peak in the Iški Vintgar gorge region.",
+                  "text": "Stone pillar rock formation in the Iski Vintgar gorge.",
                   "category": "landmark",
                   "coords": [
                         14.466509,
@@ -3760,7 +3760,7 @@ imageHint: "Iski Vintgar gorge with clear river and rocks",
       "de": [
             {
                   "name": "Skalca",
-                  "text": "Strand am Zbilje-See.",
+                  "text": "Kleiner Kiesstrand am Zbiljsko-See, beliebt zum Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         14.364731,
@@ -3771,7 +3771,7 @@ imageHint: "Iski Vintgar gorge with clear river and rocks",
       "hu": [
             {
                   "name": "Skalca",
-                  "text": "Strand a Zbilje-tónál.",
+                  "text": "Kis kavicsos strand a Zbiljsko-tónál, népszerű napozáshoz.",
                   "category": "recreational",
                   "coords": [
                         14.364731,
@@ -3782,7 +3782,7 @@ imageHint: "Iski Vintgar gorge with clear river and rocks",
       "ro": [
             {
                   "name": "Skalca",
-                  "text": "Plajă la Lacul Zbilje.",
+                  "text": "Plajă mică de pietriș la lacul Zbiljsko, populară pentru plajă.",
                   "category": "recreational",
                   "coords": [
                         14.364731,
@@ -3793,7 +3793,7 @@ imageHint: "Iski Vintgar gorge with clear river and rocks",
       "en": [
             {
                   "name": "Skalca",
-                  "text": "Beach at Zbilje Lake.",
+                  "text": "Small pebble beach on Lake Zbiljsko, popular for sunbathing.",
                   "category": "recreational",
                   "coords": [
                         14.364731,
@@ -3850,7 +3850,7 @@ imageHint: "Zbilje Lake with many white swans",
       "de": [
             {
                   "name": "Hudi grad",
-                  "text": "Ruinen einer alten Burg, die sich oberhalb der Dovžan-Schlucht befinden.",
+                  "text": "Eine Burg, erbaut 1156 in der Dovzan-Schlucht.",
                   "category": "castle",
                   "coords": [
                         14.288787,
@@ -3895,7 +3895,7 @@ imageHint: "Zbilje Lake with many white swans",
             },
             {
                   "name": "Grad Neuhaus",
-                  "text": "Ruinen eines Schlosses aus dem 16. Jahrhundert oberhalb von Tržič.",
+                  "text": "Die Ruine der Burg Neuhaus in der Dovzan-Schlucht.",
                   "category": "historical",
                   "coords": [
                         14.310128,
@@ -3915,7 +3915,7 @@ imageHint: "Zbilje Lake with many white swans",
       "hu": [
             {
                   "name": "Hudi grad",
-                  "text": "Egy régi vár romjai, amelyek a Dovžan-szurdok felett találhatók.",
+                  "text": "Egy 1156-ban épült vár a Dovzan-szurdokban.",
                   "category": "castle",
                   "coords": [
                         14.288787,
@@ -3960,7 +3960,7 @@ imageHint: "Zbilje Lake with many white swans",
             },
             {
                   "name": "Grad Neuhaus",
-                  "text": "16. századi kastély romjai Tržič felett.",
+                  "text": "A Neuhaus-vár romjai a Dovzan-szurdokban.",
                   "category": "historical",
                   "coords": [
                         14.310128,
@@ -3980,7 +3980,7 @@ imageHint: "Zbilje Lake with many white swans",
       "ro": [
             {
                   "name": "Hudi grad",
-                  "text": "Ruinele unui vechi castel, situate deasupra cheilor Dovžan.",
+                  "text": "Un castel construit în 1156 în Cheile Dovzan.",
                   "category": "castle",
                   "coords": [
                         14.288787,
@@ -4025,7 +4025,7 @@ imageHint: "Zbilje Lake with many white swans",
             },
             {
                   "name": "Grad Neuhaus",
-                  "text": "Ruinele unui castel din secolul al XVI-lea, situat deasupra orașului Tržič.",
+                  "text": "Ruinele Castelului Neuhaus în Cheile Dovzan.",
                   "category": "historical",
                   "coords": [
                         14.310128,
@@ -4045,7 +4045,7 @@ imageHint: "Zbilje Lake with many white swans",
       "en": [
             {
                   "name": "Hudi grad",
-                  "text": "Ruins of an old castle located above the Dovžan Gorge.",
+                  "text": "A castle built in 1156 in the Dovzan Gorge.",
                   "category": "castle",
                   "coords": [
                         14.288787,
@@ -4090,7 +4090,7 @@ imageHint: "Zbilje Lake with many white swans",
             },
             {
                   "name": "Grad Neuhaus",
-                  "text": "Ruins of a 16th-century castle located above Tržič.",
+                  "text": "The ruins of Neuhaus Castle in the Dovzan Gorge.",
                   "category": "historical",
                   "coords": [
                         14.310128,
@@ -4152,7 +4152,88 @@ imageHint: "Dovzan Gorge rocks and river with fossils",
     },
     image: "/poi-images/slovenia-dovzan-gorge-life-v2.webp",
 },  {
-    id: "slovenia-race-ponds-life-v2", "sights": {"de": [{"name": "Jezero Rogoza", "text": "Strand am Rogoza-See.", "category": "recreational", "coords": [15.66989, 46.483548]}, {"name": "Plaža Rogoza", "text": "Ruhig an den Gewässern der Race Ponds gelegen, präsentiert sich die Plaža Rogoza als bezaubernder Süßwasser-Rückzugsort. Die Stimmung ist sehr ländlich und unaufgeregt, was den Platz besonders bei jenen beliebt macht, die Natur pur suchen. Man verbringt den Tag am besten mit gemütlichen Runden im Wasser, Sonnenbädern am Ufer oder dem Lauschen der heimischen Tierwelt. Wer neben dem Handtuch auch ein Mückenspray einpackt, stellt maximalen Komfort in dieser wasserreichen Umgebung sicher.", "category": "recreational", "coords": [15.673894, 46.486766]}], "hu": [{"name": "Jezero Rogoza", "text": "Strand a Rogoza-tónál.", "category": "recreational", "coords": [15.66989, 46.483548]}, {"name": "Plaža Rogoza", "text": "A Race tavak békés vize mellett csendesen megbúvó Plaža Rogoza egy bájos édesvízi menedék. A hangulat meghitten vidékies és rendkívül nyugodt, így erős kedvence azoknak, akik a tiszta természetet keresik. Akár egy egész napot is könnyedén eltölthetünk itt ráérős úszkálással, a partokon való napozással, vagy egyszerűen csak a helyi állatvilág hallgatásával. Ha a strandtörölköző mellé egy megbízható szúnyogriasztót is csomagolunk, garantálhatjuk a maximális kényelmet a vizes környezetben.", "category": "recreational", "coords": [15.673894, 46.486766]}], "ro": [{"name": "Jezero Rogoza", "text": "Plajă la Lacul Rogoza.", "category": "recreational", "coords": [15.66989, 46.483548]}, {"name": "Plaža Rogoza", "text": "Amplasată liniștit lângă apele de la Race Ponds, Plaža Rogoza reprezintă o retragere încântătoare cu apă dulce. Atmosfera este intim rurală și excepțional de calmă, fiind o favorită pentru cei care caută natura pură. Vă puteți petrece cu ușurință întreaga zi bucurându-vă de înot de agrement, făcând plajă pe maluri sau pur și simplu ascultând fauna locală. Împachetarea unui spray de încredere împotriva insectelor alături de prosopul de plajă va asigura un confort maxim în apropierea acestui mediu apos.", "category": "recreational", "coords": [15.673894, 46.486766]}], "en": [{"name": "Jezero Rogoza", "text": "Beach at Rogoza Lake.", "category": "recreational", "coords": [15.66989, 46.483548]}, {"name": "Plaža Rogoza", "text": "Nestled quietly by the serene waters of the Race Ponds, Plaža Rogoza stands as a lovely freshwater retreat. The vibe is intimately rural and exceptionally calm, making it a strong favorite for those seeking pure nature. You can easily spend the entire day enjoying leisurely swims, sunning on the banks, or simply listening to the local wildlife. Packing a reliable bug spray alongside your beach towel will ensure maximum comfort near this aquatic environment.", "category": "recreational", "coords": [15.673894, 46.486766]}]},
+    id: "slovenia-race-ponds-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Badesee Rogoza in der Region Race, mit Liegewiesen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.66989,
+                        46.483548
+                  ]
+            },
+            {
+                  "name": "Plaža Rogoza",
+                  "text": "Ruhig an den Gewässern der Race Ponds gelegen, präsentiert sich die Plaža Rogoza als bezaubernder Süßwasser-Rückzugsort. Die Stimmung ist sehr ländlich und unaufgeregt, was den Platz besonders bei jenen beliebt macht, die Natur pur suchen. Man verbringt den Tag am besten mit gemütlichen Runden im Wasser, Sonnenbädern am Ufer oder dem Lauschen der heimischen Tierwelt. Wer neben dem Handtuch auch ein Mückenspray einpackt, stellt maximalen Komfort in dieser wasserreichen Umgebung sicher.",
+                  "category": "recreational",
+                  "coords": [
+                        15.673894,
+                        46.486766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Rogoza fürdőtó a Race régióban, napozórétekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        15.66989,
+                        46.483548
+                  ]
+            },
+            {
+                  "name": "Plaža Rogoza",
+                  "text": "A Race tavak békés vize mellett csendesen megbúvó Plaža Rogoza egy bájos édesvízi menedék. A hangulat meghitten vidékies és rendkívül nyugodt, így erős kedvence azoknak, akik a tiszta természetet keresik. Akár egy egész napot is könnyedén eltölthetünk itt ráérős úszkálással, a partokon való napozással, vagy egyszerűen csak a helyi állatvilág hallgatásával. Ha a strandtörölköző mellé egy megbízható szúnyogriasztót is csomagolunk, garantálhatjuk a maximális kényelmet a vizes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        15.673894,
+                        46.486766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Lac de scăldat Rogoza în regiunea Race, cu pajiști pentru plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        15.66989,
+                        46.483548
+                  ]
+            },
+            {
+                  "name": "Plaža Rogoza",
+                  "text": "Amplasată liniștit lângă apele de la Race Ponds, Plaža Rogoza reprezintă o retragere încântătoare cu apă dulce. Atmosfera este intim rurală și excepțional de calmă, fiind o favorită pentru cei care caută natura pură. Vă puteți petrece cu ușurință întreaga zi bucurându-vă de înot de agrement, făcând plajă pe maluri sau pur și simplu ascultând fauna locală. Împachetarea unui spray de încredere împotriva insectelor alături de prosopul de plajă va asigura un confort maxim în apropierea acestui mediu apos.",
+                  "category": "recreational",
+                  "coords": [
+                        15.673894,
+                        46.486766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Rogoza bathing lake in the Race region, with sunbathing lawns.",
+                  "category": "recreational",
+                  "coords": [
+                        15.66989,
+                        46.483548
+                  ]
+            },
+            {
+                  "name": "Plaža Rogoza",
+                  "text": "Nestled quietly by the serene waters of the Race Ponds, Plaža Rogoza stands as a lovely freshwater retreat. The vibe is intimately rural and exceptionally calm, making it a strong favorite for those seeking pure nature. You can easily spend the entire day enjoying leisurely swims, sunning on the banks, or simply listening to the local wildlife. Packing a reliable bug spray alongside your beach towel will ensure maximum comfort near this aquatic environment.",
+                  "category": "recreational",
+                  "coords": [
+                        15.673894,
+                        46.486766
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "wildlife",
     name: { de: "Rače-Teiche", hu: "Račei-tavak", ro: "Iazurile Rače", en: "Rače Ponds"},

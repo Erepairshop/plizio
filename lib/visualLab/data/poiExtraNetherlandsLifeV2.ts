@@ -1672,7 +1672,7 @@ export const netherlandsLifeV2: POI[] = [
             },
             {
                   "name": "Eemhoeve",
-                  "text": "Ein Bauernhof oder Tierpark im Gebiet des Arkemheen-Polders.",
+                  "text": "Die Eemhoeve ist ein Bauernhof-Campingplatz in Arkemheen Polder, umgeben von Weiden und Wassergräben.",
                   "category": "recreational",
                   "coords": [
                         5.396467,
@@ -1764,7 +1764,7 @@ export const netherlandsLifeV2: POI[] = [
             },
             {
                   "name": "Eemhoeve",
-                  "text": "Farm vagy állatpark az Arkemheen polder területén.",
+                  "text": "Az Eemhoeve egy gazdasági kemping az Arkemheen Polderben, legelőkkel és vízárkokkal körülvéve.",
                   "category": "recreational",
                   "coords": [
                         5.396467,
@@ -1856,7 +1856,7 @@ export const netherlandsLifeV2: POI[] = [
             },
             {
                   "name": "Eemhoeve",
-                  "text": "O fermă sau parc zoologic în zona polderului Arkemheen.",
+                  "text": "Eemhoeve este o fermă de camping în Arkemheen Polder, înconjurată de pășuni și șanțuri.",
                   "category": "recreational",
                   "coords": [
                         5.396467,
@@ -1948,7 +1948,7 @@ export const netherlandsLifeV2: POI[] = [
             },
             {
                   "name": "Eemhoeve",
-                  "text": "A farm or animal park in the Arkemheen polder area.",
+                  "text": "Eemhoeve is a farm campsite in the Arkemheen Polder, surrounded by pastures and ditches.",
                   "category": "recreational",
                   "coords": [
                         5.396467,
@@ -2032,7 +2032,7 @@ export const netherlandsLifeV2: POI[] = [
       "de": [
             {
                   "name": "Stavenisse Badstrand",
-                  "text": "Badstrand in Stavenisse, Nationalpark Oosterschelde.",
+                  "text": "Der Stavenisse Badstrand ist ein Badestrand im Nationaal Park Oosterschelde, mit Blick auf das Wattenmeer.",
                   "category": "recreational",
                   "coords": [
                         4.004534,
@@ -2070,7 +2070,7 @@ export const netherlandsLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Stavenisse Badstrand",
-                  "text": "Stavenisse badstrand, Oosterschelde Nemzeti Park.",
+                  "text": "A Stavenisse Badstrand egy fürdőstrand a Nationaal Park Oosterschelde területén, a Watt-tengerre néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         4.004534,
@@ -2108,7 +2108,7 @@ export const netherlandsLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Stavenisse Badstrand",
-                  "text": "Plajă în Stavenisse, Parcul Național Oosterschelde.",
+                  "text": "Stavenisse Badstrand este o plajă de scăldat în Parcul Național Oosterschelde, cu vedere spre Marea Wadden.",
                   "category": "recreational",
                   "coords": [
                         4.004534,
@@ -2146,7 +2146,7 @@ export const netherlandsLifeV2: POI[] = [
       "en": [
             {
                   "name": "Stavenisse Badstrand",
-                  "text": "Badstrand in Stavenisse, Oosterschelde National Park.",
+                  "text": "Stavenisse Badstrand is a bathing beach in Nationaal Park Oosterschelde, overlooking the Wadden Sea.",
                   "category": "recreational",
                   "coords": [
                         4.004534,
@@ -3670,7 +3670,7 @@ export const netherlandsLifeV2: POI[] = [
             },
             {
                   "name": "5R",
-                  "text": "Ein Schwimmbecken in der Umgebung des Hortus Haren.",
+                  "text": "5R ist ein Veranstaltungsort im Botanischen Garten Groningen, für Konzerte und Feste.",
                   "category": "recreational",
                   "coords": [
                         6.58461,
@@ -3789,7 +3789,7 @@ export const netherlandsLifeV2: POI[] = [
             },
             {
                   "name": "5R",
-                  "text": "Úszómedence a Hortus Haren környékén.",
+                  "text": "Az 5R egy rendezvényhelyszín a Groningeni Botanikus Kertben, koncerteknek és fesztiváloknak.",
                   "category": "recreational",
                   "coords": [
                         6.58461,
@@ -3908,7 +3908,7 @@ export const netherlandsLifeV2: POI[] = [
             },
             {
                   "name": "5R",
-                  "text": "O piscină situată în zona Hortus Haren.",
+                  "text": "5R este un spațiu pentru evenimente în Grădina Botanică din Groningen, pentru concerte și festivaluri.",
                   "category": "recreational",
                   "coords": [
                         6.58461,
@@ -4027,7 +4027,7 @@ export const netherlandsLifeV2: POI[] = [
             },
             {
                   "name": "5R",
-                  "text": "A swimming pool located in the area of Hortus Haren.",
+                  "text": "5R is an event venue in the Botanic Garden of Groningen, hosting concerts and festivals.",
                   "category": "recreational",
                   "coords": [
                         6.58461,

@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraMongoliaLifeV2: POI[] = [
   {
-    id: "mn-ikh-nart-life-v2",
+    id: "mn-ikh-nart-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Former \"Burgas Ni Am Monastery\"",
+                  "text": "Überreste eines Klosters aus dem 19. Jahrhundert in einem versteckten Weidental im Ikh Nart Naturschutzgebiet.",
+                  "category": "historical",
+                  "coords": [
+                        108.642908,
+                        45.7243
+                  ]
+            },
+            {
+                  "name": "Ancient burial sites",
+                  "text": "Archäologische Stätte mit antiken Steingräbern aus der Bronzezeit im steinigen Gelände von Ikh Nart.",
+                  "category": "historical",
+                  "coords": [
+                        108.65441,
+                        45.755644
+                  ]
+            },
+            {
+                  "name": "Ikh Nart science camp",
+                  "text": "Forschungsstation im Ikh Nart Reservat, die sich der Erhaltung von Argali-Wildschafen und Steinböcken widmet.",
+                  "category": "historical",
+                  "coords": [
+                        108.675899,
+                        45.709877
+                  ]
+            },
+            {
+                  "name": "Zam",
+                  "text": "Ein Pfad durch die dramatischen Felsformationen von Ikh Nart, der ideal zur Beobachtung von Wildtieren ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.710747,
+                        45.708504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Former \"Burgas Ni Am Monastery\"",
+                  "text": "Egy 19. századi kolostor maradványai egy rejtett fűzfás völgyben az Ikh Nart természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        108.642908,
+                        45.7243
+                  ]
+            },
+            {
+                  "name": "Ancient burial sites",
+                  "text": "Régészeti lelőhely bronzkori kősírokkal az Ikh Nart sziklás terepén.",
+                  "category": "historical",
+                  "coords": [
+                        108.65441,
+                        45.755644
+                  ]
+            },
+            {
+                  "name": "Ikh Nart science camp",
+                  "text": "Az Ikh Nart rezervátum kutatóállomása, amely az argali vadjuhok és kőszáli kecskék védelmével foglalkozik.",
+                  "category": "historical",
+                  "coords": [
+                        108.675899,
+                        45.709877
+                  ]
+            },
+            {
+                  "name": "Zam",
+                  "text": "Az Ikh Nart drámai sziklaalakzatai között vezető ösvény, amely ideális a vadvilág megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        108.710747,
+                        45.708504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Former \"Burgas Ni Am Monastery\"",
+                  "text": "Rămășițele unei mănăstiri din secolul al XIX-lea, într-o vale ascunsă cu sălcii din rezervația Ikh Nart.",
+                  "category": "historical",
+                  "coords": [
+                        108.642908,
+                        45.7243
+                  ]
+            },
+            {
+                  "name": "Ancient burial sites",
+                  "text": "Sit arheologic cu morminte antice din piatră din Epoca Bronzului, în terenul stâncos din Ikh Nart.",
+                  "category": "historical",
+                  "coords": [
+                        108.65441,
+                        45.755644
+                  ]
+            },
+            {
+                  "name": "Ikh Nart science camp",
+                  "text": "Stație de cercetare din rezervația Ikh Nart, dedicată conservării oilor sălbatice Argali și a caprelor negre.",
+                  "category": "historical",
+                  "coords": [
+                        108.675899,
+                        45.709877
+                  ]
+            },
+            {
+                  "name": "Zam",
+                  "text": "O potecă prin formațiunile stâncoase dramatice din Ikh Nart, ideală pentru observarea faunei sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        108.710747,
+                        45.708504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Former \"Burgas Ni Am Monastery\"",
+                  "text": "Remains of a 19th-century monastery situated in a hidden willow valley within the Ikh Nart Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        108.642908,
+                        45.7243
+                  ]
+            },
+            {
+                  "name": "Ancient burial sites",
+                  "text": "Archaeological site featuring ancient stone burial mounds from the Bronze Age in the rocky terrain of Ikh Nart.",
+                  "category": "historical",
+                  "coords": [
+                        108.65441,
+                        45.755644
+                  ]
+            },
+            {
+                  "name": "Ikh Nart science camp",
+                  "text": "Research station in the Ikh Nart reserve dedicated to the conservation of Argali wild sheep and Ibex.",
+                  "category": "historical",
+                  "coords": [
+                        108.675899,
+                        45.709877
+                  ]
+            },
+            {
+                  "name": "Zam",
+                  "text": "A path through the dramatic rock formations of Ikh Nart, ideal for spotting local wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        108.710747,
+                        45.708504
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "MN-035",
     coords: [108.6333, 45.7167],
@@ -423,7 +576,52 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mn-sharga-reserve-life-v2",
+    id: "mn-sharga-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Niitiin khaluun us",
+                  "text": "In der Nähe des Sharga-Naturreservats gelegen, dient dieses öffentliche Badehaus als wichtige hygienische Einrichtung für Einwohner und lokale Ranger.",
+                  "category": "recreational",
+                  "coords": [
+                        95.269453,
+                        46.267189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Niitiin khaluun us",
+                  "text": "A Sharga Természetvédelmi Terület közelében található közösségi fürdőház létfontosságú higiéniai létesítményként szolgál a lakosok és a helyi vadőrök számára.",
+                  "category": "recreational",
+                  "coords": [
+                        95.269453,
+                        46.267189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Niitiin khaluun us",
+                  "text": "Situată în apropiere de Rezervația Naturală Sharga, această baie comunală servește ca o facilitate igienică vitală pentru rezidenți și pădurarii locali.",
+                  "category": "recreational",
+                  "coords": [
+                        95.269453,
+                        46.267189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niitiin khaluun us",
+                  "text": "Located near the Sharga Nature Reserve, this communal bathhouse serves as a vital hygienic facility for residents and local rangers.",
+                  "category": "recreational",
+                  "coords": [
+                        95.269453,
+                        46.267189
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "MN-031",
     coords: [95.2000, 46.3000],
@@ -663,7 +861,52 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mn-darkhan-wheat-life-v2",
+    id: "mn-darkhan-wheat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "khaluun usni gazar",
+                  "text": "Dieses traditionelle mongolische öffentliche Badehaus dient der lokalen Gemeinde im landwirtschaftlichen Zentrum Darchan.",
+                  "category": "recreational",
+                  "coords": [
+                        105.918565,
+                        49.49221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "khaluun usni gazar",
+                  "text": "Ez a hagyományos mongol nyilvános fürdőház a helyi közösséget szolgálja ki Darhan mezőgazdasági központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        105.918565,
+                        49.49221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "khaluun usni gazar",
+                  "text": "Această baie publică tradițională mongolă deservește comunitatea locală din centrul agricol Darkhan.",
+                  "category": "recreational",
+                  "coords": [
+                        105.918565,
+                        49.49221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "khaluun usni gazar",
+                  "text": "This traditional Mongolian public bathhouse serves the local community in the agricultural hub of Darkhan.",
+                  "category": "recreational",
+                  "coords": [
+                        105.918565,
+                        49.49221
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MN-037",
     coords: [105.9000, 49.5000],
@@ -723,7 +966,52 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mn-selenge-farms-life-v2",
+    id: "mn-selenge-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eezh mod",
+                  "text": "Eezh mod ist eine heilige Kultstätte inmitten der landwirtschaftlichen Landschaften der Selenge-Farmregion.",
+                  "category": "religious",
+                  "coords": [
+                        106.200455,
+                        50.153375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eezh mod",
+                  "text": "Az Eezh mod egy szent istentiszteleti hely a Selengei farmok mezőgazdasági tájain.",
+                  "category": "religious",
+                  "coords": [
+                        106.200455,
+                        50.153375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eezh mod",
+                  "text": "Eezh mod este un lăcaș de cult sacru situat în peisajele agricole ale regiunii fermelor Selenge.",
+                  "category": "religious",
+                  "coords": [
+                        106.200455,
+                        50.153375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eezh mod",
+                  "text": "Eezh mod is a sacred place of worship located amid the agricultural landscapes of the Selenge farms region.",
+                  "category": "religious",
+                  "coords": [
+                        106.200455,
+                        50.153375
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MN-049",
     coords: [106.1000, 50.1000],
@@ -783,7 +1071,52 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mn-khovd-watermelon-life-v2",
+    id: "mn-khovd-watermelon-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "building on top of the hill",
+                  "text": "Dieses Gebäude auf einem Felsvorsprung bietet einen Panoramablick auf das Tal des Flusses Bujant.",
+                  "category": "natural",
+                  "coords": [
+                        91.607329,
+                        48.024775
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "building on top of the hill",
+                  "text": "Ez a sziklás kiszögellés tetején álló épület panorámás kilátást nyújt a Bujant-folyó völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        91.607329,
+                        48.024775
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "building on top of the hill",
+                  "text": "Această structură din vârful unui afloriment stâncos oferă vederi panoramice asupra văii râului Buyant.",
+                  "category": "natural",
+                  "coords": [
+                        91.607329,
+                        48.024775
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "building on top of the hill",
+                  "text": "This structure atop a rocky outcrop offers panoramic views of the Buyant River valley.",
+                  "category": "natural",
+                  "coords": [
+                        91.607329,
+                        48.024775
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MN-043",
     coords: [91.6000, 48.0000],
@@ -843,7 +1176,52 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mn-gobi-camel-farm-life-v2",
+    id: "mn-gobi-camel-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dalanzadgad Way from Yol Am",
+                  "text": "Eine Panoramastraße durch die Wüste, die das Gebirge mit der Provinzhauptstadt Dalanzadgad verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.052441,
+                        43.569169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dalanzadgad Way from Yol Am",
+                  "text": "Panorámás sivatagi útvonal, amely összeköti a hegyeket a tartományi fővárossal, Dalanzadgaddal.",
+                  "category": "landmark",
+                  "coords": [
+                        104.052441,
+                        43.569169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dalanzadgad Way from Yol Am",
+                  "text": "O rută pitorească prin deșert care leagă munții de capitala provincială Dalanzadgad.",
+                  "category": "landmark",
+                  "coords": [
+                        104.052441,
+                        43.569169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dalanzadgad Way from Yol Am",
+                  "text": "A scenic desert route connecting the mountains to the provincial capital, Dalanzadgad.",
+                  "category": "landmark",
+                  "coords": [
+                        104.052441,
+                        43.569169
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MN-053",
     coords: [104.0000, 43.5000],
@@ -903,7 +1281,916 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mn-ub-botanical-garden-life-v2",
+    id: "mn-ub-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mongol ulsyn Arkheologyn muzei",
+                  "text": "Dieses Museum beherbergt prähistorische Felsmalereien und Funde aus der Ära des Xiongnu-Reiches.",
+                  "category": "museum",
+                  "coords": [
+                        106.972927,
+                        47.914624
+                  ]
+            },
+            {
+                  "name": "Shinzhlekh ukhaany akademi",
+                  "text": "Bietet eine erhöhte Perspektive auf die akademischen Gebäude und die umliegenden Wohnviertel.",
+                  "category": "natural",
+                  "coords": [
+                        106.971426,
+                        47.91547
+                  ]
+            },
+            {
+                  "name": "Tsaiz zakh",
+                  "text": "Ein Aussichtspunkt, der den Blick über das rege Treiben und die Stände des Tsaiz-Marktplatzes freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        106.974727,
+                        47.924424
+                  ]
+            },
+            {
+                  "name": "URLAN studi",
+                  "text": "Ein kreatives Atelier, das lokale Kunst präsentiert und Ausblicke auf die Skyline von Ulaanbaatar bietet.",
+                  "category": "natural",
+                  "coords": [
+                        106.962014,
+                        47.916285
+                  ]
+            },
+            {
+                  "name": "Unen aldartny sum",
+                  "text": "Die einzige russisch-orthodoxe Kirche in Ulaanbaatar, erkennbar an ihren leuchtend blauen Wänden und goldenen Kuppeln.",
+                  "category": "religious",
+                  "coords": [
+                        106.95942,
+                        47.916452
+                  ]
+            },
+            {
+                  "name": "Odon oron sudlalyn muzei",
+                  "text": "Das Museum zeigt historische mongolische astronomische Instrumente und antike Sternenkarten.",
+                  "category": "museum",
+                  "coords": [
+                        106.954126,
+                        47.920858
+                  ]
+            },
+            {
+                  "name": "Khadgaa tsirk",
+                  "text": "Ein Veranstaltungsort für die weltberühmte mongolische Akrobatik und traditionelle Zirkuskunst.",
+                  "category": "cultural",
+                  "coords": [
+                        106.944088,
+                        47.902686
+                  ]
+            },
+            {
+                  "name": "Kathedrale Sankt Peter und Paul",
+                  "text": "Eine einzigartige katholische Kathedrale, die im kreisförmigen Architekturstil einer traditionellen mongolischen Ger erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        106.975888,
+                        47.912082
+                  ]
+            },
+            {
+                  "name": "Zhukovyn Muzei",
+                  "text": "Das Museum befindet sich im ehemaligen Wohnhaus des sowjetischen Marschalls Schukow während der Schlacht am Chalchin Gol.",
+                  "category": "museum",
+                  "coords": [
+                        106.953047,
+                        47.918029
+                  ]
+            },
+            {
+                  "name": "Mongol tsergiin muzei",
+                  "text": "Das Museum präsentiert eine Sammlung mongolischer Rüstungen, mittelalterlicher Waffen und moderner Militärfahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        106.953278,
+                        47.922526
+                  ]
+            },
+            {
+                  "name": "Oiuun ukhaany muzei",
+                  "text": "Ein weltweit einzigartiges Museum mit über 11.000 Puzzles, Schachspielen und Logikspielzeugen.",
+                  "category": "museum",
+                  "coords": [
+                        106.941862,
+                        47.917445
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar ireedui sum",
+                  "text": "Ein modernes protestantisches Gotteshaus, das als geistliches Zentrum für die lokale Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        106.985071,
+                        47.927283
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar zuun baptist sum",
+                  "text": "Eine christliche Freikirche im östlichen Distrikt der Stadt, die regelmäßige Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.970056,
+                        47.920766
+                  ]
+            },
+            {
+                  "name": "kingdom of Jesus",
+                  "text": "Eine lokale christliche Versammlungshalle für Gottesdienste und gemeinschaftliche Treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        106.941677,
+                        47.919732
+                  ]
+            },
+            {
+                  "name": "Christ First Church",
+                  "text": "Ein evangelisches Kirchenzentrum mit Fokus auf religiöse Erziehung und Sonntagsgottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        106.944863,
+                        47.911667
+                  ]
+            },
+            {
+                  "name": "Yrzhanshadduvlin gandan",
+                  "text": "Ein friedlicher buddhistischer Tempel, der für traditionelle Gesänge und religiöse Praktiken genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        106.975227,
+                        47.917201
+                  ]
+            },
+            {
+                  "name": "Tarvalin khiid",
+                  "text": "Ein buddhistisches Kloster im Wohnviertel, in dem Mönche tägliche Rituale und Gebete durchführen.",
+                  "category": "landmark",
+                  "coords": [
+                        106.955874,
+                        47.921613
+                  ]
+            },
+            {
+                  "name": "Bibliin surgaltyn tov",
+                  "text": "Eine religiöse Einrichtung, die sich dem Bibelstudium und der Gemeindearbeit widmet.",
+                  "category": "religious",
+                  "coords": [
+                        106.946467,
+                        47.926868
+                  ]
+            },
+            {
+                  "name": "Sain uils Khristiin Chuulgan",
+                  "text": "Ein spezieller Ort für christliche Anbetung und Gebete innerhalb des Stadtgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        106.944562,
+                        47.923986
+                  ]
+            },
+            {
+                  "name": "Nomgon",
+                  "text": "Ein traditioneller Basar in den östlichen Vororten, bekannt für lokale Produkte und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        106.961009,
+                        47.928121
+                  ]
+            },
+            {
+                  "name": "Tsetserleg",
+                  "text": "Ein lebhafter Marktplatz in der Nähe der grünen botanischen Anlagen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.962105,
+                        47.928456
+                  ]
+            },
+            {
+                  "name": "Koka kola",
+                  "text": "Ein Handelsviertel und Markt in unmittelbarer Nähe zum industriellen Getränkevertrieb der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.96425,
+                        47.929065
+                  ]
+            },
+            {
+                  "name": "Dunzhingarav khudaldaany tov",
+                  "text": "Dieses große Einkaufszentrum beherbergt zahlreiche Stände mit moderner Kleidung und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        106.94762,
+                        47.906266
+                  ]
+            },
+            {
+                  "name": "Narantuul zakh",
+                  "text": "Ulaanbaatars berühmter 'Schwarzmarkt' ist ein riesiger Freiluftmarkt für traditionelle mongolische Kleidung und Reitbedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        106.949754,
+                        47.909617
+                  ]
+            },
+            {
+                  "name": "Ogoomor tekhnikiin zakh",
+                  "text": "Dieser spezialisierte Marktplatz ist das Zentrum für Fahrzeugteile und technische Ausrüstung in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.955792,
+                        47.90879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mongol ulsyn Arkheologyn muzei",
+                  "text": "Ez a múzeum prehisztorikus sziklarajzoknak és a hun birodalom korából származó leleteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        106.972927,
+                        47.914624
+                  ]
+            },
+            {
+                  "name": "Shinzhlekh ukhaany akademi",
+                  "text": "Magaslati kilátást nyújt az akadémiai épületekre és a környező lakónegyedekre.",
+                  "category": "natural",
+                  "coords": [
+                        106.971426,
+                        47.91547
+                  ]
+            },
+            {
+                  "name": "Tsaiz zakh",
+                  "text": "Kilátóhely, ahonnan rálátni a Tsaiz piactér élénk kereskedelmére és standjaira.",
+                  "category": "natural",
+                  "coords": [
+                        106.974727,
+                        47.924424
+                  ]
+            },
+            {
+                  "name": "URLAN studi",
+                  "text": "Kreatív műterem, amely helyi művészetet mutat be, kilátással Ulánbátor panorámájára.",
+                  "category": "natural",
+                  "coords": [
+                        106.962014,
+                        47.916285
+                  ]
+            },
+            {
+                  "name": "Unen aldartny sum",
+                  "text": "Ulánbátor egyetlen orosz ortodox temploma, amely élénkkék falairól és arany hagymakupoláiról ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        106.95942,
+                        47.916452
+                  ]
+            },
+            {
+                  "name": "Odon oron sudlalyn muzei",
+                  "text": "A múzeum történelmi mongol csillagászati eszközöket és ősi csillagtérképeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        106.954126,
+                        47.920858
+                  ]
+            },
+            {
+                  "name": "Khadgaa tsirk",
+                  "text": "A világhírű mongol akrobatika és a hagyományos cirkuszművészet bemutatóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        106.944088,
+                        47.902686
+                  ]
+            },
+            {
+                  "name": "Saint Peter and Paul Cathedral",
+                  "text": "Egyedülálló katolikus székesegyház, amely egy hagyományos mongol jurta kör alakú építészeti stílusában épült.",
+                  "category": "religious",
+                  "coords": [
+                        106.975888,
+                        47.912082
+                  ]
+            },
+            {
+                  "name": "Zhukovyn Muzei",
+                  "text": "A múzeum Zsukov szovjet marsall egykori lakóházában található a Halhin-goli csata idejéből.",
+                  "category": "museum",
+                  "coords": [
+                        106.953047,
+                        47.918029
+                  ]
+            },
+            {
+                  "name": "Mongol tsergiin muzei",
+                  "text": "A múzeum mongol páncélok, középkori fegyverek és modern katonai járművek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        106.953278,
+                        47.922526
+                  ]
+            },
+            {
+                  "name": "Oiuun ukhaany muzei",
+                  "text": "Világviszonylatban is egyedülálló múzeum, amely több mint 11 000 ördöglakatot, sakk-készletet és logikai játékot mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        106.941862,
+                        47.917445
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar ireedui sum",
+                  "text": "Modern protestáns templom, amely a helyi közösség szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        106.985071,
+                        47.927283
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar zuun baptist sum",
+                  "text": "Keresztény baptista templom a város keleti negyedében, amely rendszeres istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        106.970056,
+                        47.920766
+                  ]
+            },
+            {
+                  "name": "kingdom of Jesus",
+                  "text": "Helyi keresztény gyülekezeti terem istentiszteletek és közösségi összejövetelek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        106.941677,
+                        47.919732
+                  ]
+            },
+            {
+                  "name": "Christ First Church",
+                  "text": "Evangéliumi keresztény templom, amely a vallási oktatásra és a vasárnapi istentiszteletekre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        106.944863,
+                        47.911667
+                  ]
+            },
+            {
+                  "name": "Yrzhanshadduvlin gandan",
+                  "text": "Békés buddhista templom, amelyet hagyományos kántálásra és vallási gyakorlatokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        106.975227,
+                        47.917201
+                  ]
+            },
+            {
+                  "name": "Tarvalin khiid",
+                  "text": "Városnegyedi buddhista kolostor, ahol a szerzetesek napi rituálékat és imákat végeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        106.955874,
+                        47.921613
+                  ]
+            },
+            {
+                  "name": "Bibliin surgaltyn tov",
+                  "text": "Bibliai tanulmányoknak és közösségi tevékenységeknek szentelt vallási intézmény.",
+                  "category": "religious",
+                  "coords": [
+                        106.946467,
+                        47.926868
+                  ]
+            },
+            {
+                  "name": "Sain uils Khristiin Chuulgan",
+                  "text": "Keresztény istentiszteleteknek és imáknak szentelt hely a város területén.",
+                  "category": "landmark",
+                  "coords": [
+                        106.944562,
+                        47.923986
+                  ]
+            },
+            {
+                  "name": "Nomgon",
+                  "text": "Hagyományos bazár a keleti elővárosban, amely helyi termékeiről és háztartási cikkeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        106.961009,
+                        47.928121
+                  ]
+            },
+            {
+                  "name": "Tsetserleg",
+                  "text": "Nyüzsgő piactér a város zöld botanikus kertjeinek szomszédságában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.962105,
+                        47.928456
+                  ]
+            },
+            {
+                  "name": "Koka kola",
+                  "text": "Kereskedelmi terület és piac a város ipari italelosztó központja közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        106.96425,
+                        47.929065
+                  ]
+            },
+            {
+                  "name": "Dunzhingarav khudaldaany tov",
+                  "text": "Ez a hatalmas modern bevásárlóközpont számos ruházati és háztartási szaküzletnek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        106.94762,
+                        47.906266
+                  ]
+            },
+            {
+                  "name": "Narantuul zakh",
+                  "text": "Ulánbátor híres 'fekete piaca' egy hatalmas szabadtéri helyszín, ahol hagyományos mongol ruhákat és lovas felszereléseket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.949754,
+                        47.909617
+                  ]
+            },
+            {
+                  "name": "Ogoomor tekhnikiin zakh",
+                  "text": "Ez a specializált piactér a város gépjárműalkatrész- és műszaki felszerelés-kereskedelmének központja.",
+                  "category": "cultural",
+                  "coords": [
+                        106.955792,
+                        47.90879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mongol ulsyn Arkheologyn muzei",
+                  "text": "Acest muzeu găzduiește picturi rupestre preistorice și descoperiri din epoca Imperiului Xiongnu.",
+                  "category": "museum",
+                  "coords": [
+                        106.972927,
+                        47.914624
+                  ]
+            },
+            {
+                  "name": "Shinzhlekh ukhaany akademi",
+                  "text": "Oferă o perspectivă ridicată asupra clădirilor academice și a cartierelor rezidențiale din jur.",
+                  "category": "natural",
+                  "coords": [
+                        106.971426,
+                        47.91547
+                  ]
+            },
+            {
+                  "name": "Tsaiz zakh",
+                  "text": "Un punct de observație care oferă o vedere asupra comerțului plin de viață și a tarabelor din piața Tsaiz.",
+                  "category": "natural",
+                  "coords": [
+                        106.974727,
+                        47.924424
+                  ]
+            },
+            {
+                  "name": "URLAN studi",
+                  "text": "Un studio creativ care prezintă artă locală, oferind în același timp vederi spre orizontul orașului Ulaanbaatar.",
+                  "category": "natural",
+                  "coords": [
+                        106.962014,
+                        47.916285
+                  ]
+            },
+            {
+                  "name": "Unen aldartny sum",
+                  "text": "Singura biserică ortodoxă rusă din Ulaanbaatar, remarcabilă prin pereții albaștri strălucitori și cupolele aurii.",
+                  "category": "religious",
+                  "coords": [
+                        106.95942,
+                        47.916452
+                  ]
+            },
+            {
+                  "name": "Odon oron sudlalyn muzei",
+                  "text": "Muzeul expune instrumente astronomice mongole istorice și hărți cerești antice.",
+                  "category": "museum",
+                  "coords": [
+                        106.954126,
+                        47.920858
+                  ]
+            },
+            {
+                  "name": "Khadgaa tsirk",
+                  "text": "Un loc de spectacol pentru acrobația mongolă de renume mondial și artele tradiționale de circ.",
+                  "category": "cultural",
+                  "coords": [
+                        106.944088,
+                        47.902686
+                  ]
+            },
+            {
+                  "name": "Saint Peter and Paul Cathedral",
+                  "text": "O catedrală catolică unică, construită în stilul arhitectural circular al unei iurte tradiționale mongole.",
+                  "category": "religious",
+                  "coords": [
+                        106.975888,
+                        47.912082
+                  ]
+            },
+            {
+                  "name": "Zhukovyn Muzei",
+                  "text": "Muzeul este situat în fosta reședință a mareșalului sovietic Jukov din timpul bătăliei de la Khalkhin Gol.",
+                  "category": "museum",
+                  "coords": [
+                        106.953047,
+                        47.918029
+                  ]
+            },
+            {
+                  "name": "Mongol tsergiin muzei",
+                  "text": "Muzeul prezintă o colecție de armuri mongole, arme medievale și vehicule militare moderne.",
+                  "category": "museum",
+                  "coords": [
+                        106.953278,
+                        47.922526
+                  ]
+            },
+            {
+                  "name": "Oiuun ukhaany muzei",
+                  "text": "Un muzeu unic în lume, care adăpostește peste 11.000 de puzzle-uri, seturi de șah și jucării logice.",
+                  "category": "museum",
+                  "coords": [
+                        106.941862,
+                        47.917445
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar ireedui sum",
+                  "text": "Un lăcaș de cult protestant modern care servește ca centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        106.985071,
+                        47.927283
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar zuun baptist sum",
+                  "text": "O biserică creștină baptistă în districtul estic al orașului, care oferă servicii religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        106.970056,
+                        47.920766
+                  ]
+            },
+            {
+                  "name": "kingdom of Jesus",
+                  "text": "O sală de adunare creștină locală pentru închinare și întâlniri comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        106.941677,
+                        47.919732
+                  ]
+            },
+            {
+                  "name": "Christ First Church",
+                  "text": "Un centru bisericesc evanghelic axat pe educația religioasă și serviciile de duminică.",
+                  "category": "landmark",
+                  "coords": [
+                        106.944863,
+                        47.911667
+                  ]
+            },
+            {
+                  "name": "Yrzhanshadduvlin gandan",
+                  "text": "Un templu budist liniștit, utilizat pentru incantații tradiționale și practici religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        106.975227,
+                        47.917201
+                  ]
+            },
+            {
+                  "name": "Tarvalin khiid",
+                  "text": "O mănăstire budistă de cartier unde călugării oficiază ritualuri și rugăciuni zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        106.955874,
+                        47.921613
+                  ]
+            },
+            {
+                  "name": "Bibliin surgaltyn tov",
+                  "text": "O instituție religioasă dedicată studiilor biblice și activităților comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        106.946467,
+                        47.926868
+                  ]
+            },
+            {
+                  "name": "Sain uils Khristiin Chuulgan",
+                  "text": "Un loc dedicat închinării și rugăciunii creștine în interiorul zonei urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        106.944562,
+                        47.923986
+                  ]
+            },
+            {
+                  "name": "Nomgon",
+                  "text": "Un bazar tradițional în suburbiile estice, cunoscut pentru produsele locale și articolele de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.961009,
+                        47.928121
+                  ]
+            },
+            {
+                  "name": "Tsetserleg",
+                  "text": "O piață plină de viață situată în apropierea spațiilor botanice verzi ale orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        106.962105,
+                        47.928456
+                  ]
+            },
+            {
+                  "name": "Koka kola",
+                  "text": "O zonă comercială și o piață situată lângă centrul industrial de distribuție a băuturilor din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        106.96425,
+                        47.929065
+                  ]
+            },
+            {
+                  "name": "Dunzhingarav khudaldaany tov",
+                  "text": "Acest centru comercial modern găzduiește numeroase magazine de îmbrăcăminte și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        106.94762,
+                        47.906266
+                  ]
+            },
+            {
+                  "name": "Narantuul zakh",
+                  "text": "Celebrul „Târg Negru” din Ulaanbaatar este o piață uriașă în aer liber pentru haine tradiționale mongole și echipamente de echitație.",
+                  "category": "cultural",
+                  "coords": [
+                        106.949754,
+                        47.909617
+                  ]
+            },
+            {
+                  "name": "Ogoomor tekhnikiin zakh",
+                  "text": "Această piață specializată este centrul pentru piese auto și echipamente tehnice din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        106.955792,
+                        47.90879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mongol ulsyn Arkheologyn muzei",
+                  "text": "This museum houses prehistoric rock paintings and finds from the era of the Xiongnu Empire.",
+                  "category": "museum",
+                  "coords": [
+                        106.972927,
+                        47.914624
+                  ]
+            },
+            {
+                  "name": "Shinzhlekh ukhaany akademi",
+                  "text": "Offers an elevated perspective of the academic buildings and surrounding residential quarters.",
+                  "category": "natural",
+                  "coords": [
+                        106.971426,
+                        47.91547
+                  ]
+            },
+            {
+                  "name": "Tsaiz zakh",
+                  "text": "A viewpoint overlooking the lively trade and stalls of the Tsaiz marketplace.",
+                  "category": "natural",
+                  "coords": [
+                        106.974727,
+                        47.924424
+                  ]
+            },
+            {
+                  "name": "URLAN studi",
+                  "text": "A creative studio showcasing local art with views across the Ulaanbaatar skyline.",
+                  "category": "natural",
+                  "coords": [
+                        106.962014,
+                        47.916285
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Orthodox Church",
+                  "text": "The only Russian Orthodox church in Ulaanbaatar, distinguished by its bright blue walls and golden onion domes.",
+                  "category": "religious",
+                  "coords": [
+                        106.95942,
+                        47.916452
+                  ]
+            },
+            {
+                  "name": "Odon oron sudlalyn muzei",
+                  "text": "The museum displays historical Mongolian astronomical instruments and ancient celestial maps.",
+                  "category": "museum",
+                  "coords": [
+                        106.954126,
+                        47.920858
+                  ]
+            },
+            {
+                  "name": "Circus Mongolia Khadgaa",
+                  "text": "A performance venue for world-renowned Mongolian acrobatics and traditional circus arts.",
+                  "category": "cultural",
+                  "coords": [
+                        106.944088,
+                        47.902686
+                  ]
+            },
+            {
+                  "name": "Saint Peter and Paul Cathedral",
+                  "text": "A unique Catholic cathedral built with the circular architectural style of a traditional Mongolian ger.",
+                  "category": "religious",
+                  "coords": [
+                        106.975888,
+                        47.912082
+                  ]
+            },
+            {
+                  "name": "Museum of Jukov",
+                  "text": "The museum is located in the building where Soviet Marshal Zhukov lived during the Battle of Khalkhin Gol.",
+                  "category": "museum",
+                  "coords": [
+                        106.953047,
+                        47.918029
+                  ]
+            },
+            {
+                  "name": "Mongol tsergiin muzei",
+                  "text": "The museum showcases a collection of Mongolian armor, medieval weaponry, and modern military vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        106.953278,
+                        47.922526
+                  ]
+            },
+            {
+                  "name": "International Intellectual Museum",
+                  "text": "A world-unique museum housing over 11,000 puzzles, chess sets, and logical toys.",
+                  "category": "museum",
+                  "coords": [
+                        106.941862,
+                        47.917445
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar ireedui sum",
+                  "text": "A modern Protestant place of worship serving as a spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        106.985071,
+                        47.927283
+                  ]
+            },
+            {
+                  "name": "Ulaanbaatar east baptist church",
+                  "text": "A Christian Baptist church in the city's eastern district providing regular religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        106.970056,
+                        47.920766
+                  ]
+            },
+            {
+                  "name": "kingdom of Jesus",
+                  "text": "A local Christian assembly hall for worship and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        106.941677,
+                        47.919732
+                  ]
+            },
+            {
+                  "name": "Christ First Church",
+                  "text": "An evangelical Christian church center focused on religious education and Sunday services.",
+                  "category": "landmark",
+                  "coords": [
+                        106.944863,
+                        47.911667
+                  ]
+            },
+            {
+                  "name": "Yrzhanshadduvlin gandan",
+                  "text": "A serene Buddhist temple used for traditional chanting and religious practices.",
+                  "category": "landmark",
+                  "coords": [
+                        106.975227,
+                        47.917201
+                  ]
+            },
+            {
+                  "name": "Tarvalin khiid",
+                  "text": "A neighborhood Buddhist monastery where monks perform daily rituals and prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        106.955874,
+                        47.921613
+                  ]
+            },
+            {
+                  "name": "Bibliin surgaltyn tov",
+                  "text": "A religious institution dedicated to biblical studies and community outreach.",
+                  "category": "religious",
+                  "coords": [
+                        106.946467,
+                        47.926868
+                  ]
+            },
+            {
+                  "name": "Christian Church",
+                  "text": "A dedicated place for Christian worship and prayer within the urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        106.944562,
+                        47.923986
+                  ]
+            },
+            {
+                  "name": "Nomgon",
+                  "text": "A traditional bazaar in the eastern suburbs known for local products and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        106.961009,
+                        47.928121
+                  ]
+            },
+            {
+                  "name": "Tsetserleg",
+                  "text": "A lively marketplace located in proximity to the city's green botanical spaces.",
+                  "category": "cultural",
+                  "coords": [
+                        106.962105,
+                        47.928456
+                  ]
+            },
+            {
+                  "name": "Koka kola",
+                  "text": "A commercial area and market situated near the city's industrial beverage distribution hub.",
+                  "category": "cultural",
+                  "coords": [
+                        106.96425,
+                        47.929065
+                  ]
+            },
+            {
+                  "name": "Dunzhingarav khudaldaany tov",
+                  "text": "This large modern shopping complex houses numerous stalls selling clothing and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.94762,
+                        47.906266
+                  ]
+            },
+            {
+                  "name": "Narantuul zakh",
+                  "text": "Ulaanbaatar's famous 'Black Market' is a massive open-air venue for traditional Mongolian clothing and riding gear.",
+                  "category": "cultural",
+                  "coords": [
+                        106.949754,
+                        47.909617
+                  ]
+            },
+            {
+                  "name": "Ogoomor tekhnikiin zakh",
+                  "text": "This specialized marketplace is the city's hub for vehicle parts and technical equipment.",
+                  "category": "cultural",
+                  "coords": [
+                        106.955792,
+                        47.90879
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "MN-1",
     coords: [106.9600, 47.9100],
@@ -1023,7 +2310,304 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mn-national-amusement-park-life-v2",
+    id: "mn-national-amusement-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fresco Bayan Mongol",
+                  "text": "Vom Fresco-Gebäude aus hat man einen weiten Blick über das moderne Bayan Mongol Wohnviertel.",
+                  "category": "natural",
+                  "coords": [
+                        106.934258,
+                        47.905353
+                  ]
+            },
+            {
+                  "name": "Khan Uul Duureg",
+                  "text": "Ein monumentales Denkmal im Khan-Uul-Distrikt nahe dem Ufer des Tuul-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        106.910629,
+                        47.9033
+                  ]
+            },
+            {
+                  "name": "Mongolyn tomor zamyn tuukhiin muzei",
+                  "text": "Freilichtmuseum mit historischen Dampflokomotiven und Eisenbahnwaggons aus der Sowjetära.",
+                  "category": "museum",
+                  "coords": [
+                        106.908928,
+                        47.908109
+                  ]
+            },
+            {
+                  "name": "Mangasyn am",
+                  "text": "Eine landschaftlich reizvolle Attraktion im Bereich des Nationalen Vergnügungsparks.",
+                  "category": "landmark",
+                  "coords": [
+                        106.921494,
+                        47.908618
+                  ]
+            },
+            {
+                  "name": "Air Cycle",
+                  "text": "Ein Hochbahn-Fahrradweg, der einen weiten Blick über das Gelände des Vergnügungsparks bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.921863,
+                        47.909693
+                  ]
+            },
+            {
+                  "name": "Undesnii Soiol amraltyn khureelen UndUsUn u soyul amaralta iin qUriyeleng",
+                  "text": "Der zentrale Freizeitpark der Mongolei mit Karussells und einem markanten Märchenschloss.",
+                  "category": "recreational",
+                  "coords": [
+                        106.919464,
+                        47.910473
+                  ]
+            },
+            {
+                  "name": "Khas suudlyn burees",
+                  "text": "Ein kleiner Ort der Besinnung und Anbetung innerhalb des belebten Parkgeländes.",
+                  "category": "religious",
+                  "coords": [
+                        106.937213,
+                        47.908573
+                  ]
+            },
+            {
+                  "name": "Naran plaza",
+                  "text": "Ein moderner Komplex, der als Ort für spirituelle Zusammenkünfte im Parkviertel dient.",
+                  "category": "religious",
+                  "coords": [
+                        106.913147,
+                        47.909655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fresco Bayan Mongol",
+                  "text": "A Fresco épülettől tágas kilátás nyílik a modern Bayan Mongol lakónegyedre.",
+                  "category": "natural",
+                  "coords": [
+                        106.934258,
+                        47.905353
+                  ]
+            },
+            {
+                  "name": "Khan Uul Duureg",
+                  "text": "Monumentális emlékmű a Khan Uul kerületben, a Tuul-folyó partjának közelében.",
+                  "category": "historical",
+                  "coords": [
+                        106.910629,
+                        47.9033
+                  ]
+            },
+            {
+                  "name": "Mongolyn tomor zamyn tuukhiin muzei",
+                  "text": "Szabadtéri múzeum, amely történelmi gőzmozdonyokat és szovjet kori vasúti kocsikat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        106.908928,
+                        47.908109
+                  ]
+            },
+            {
+                  "name": "Mangasyn am",
+                  "text": "Gleccservölgyre emlékeztető látványosság a nemzeti vidámpark területén.",
+                  "category": "landmark",
+                  "coords": [
+                        106.921494,
+                        47.908618
+                  ]
+            },
+            {
+                  "name": "Air Cycle",
+                  "text": "Magaslati pályán mozgó pedálos kerékpárút, amely kilátást nyújt a vidámpark területére.",
+                  "category": "landmark",
+                  "coords": [
+                        106.921863,
+                        47.909693
+                  ]
+            },
+            {
+                  "name": "Undesnii Soiol amraltyn khureelen UndUsUn u soyul amaralta iin qUriyeleng",
+                  "text": "Mongólia központi vidámparkja körhintákkal és egy jellegzetes mesebeli kastéllyal.",
+                  "category": "recreational",
+                  "coords": [
+                        106.919464,
+                        47.910473
+                  ]
+            },
+            {
+                  "name": "Khas suudlyn burees",
+                  "text": "A vidámpark forgalmas területén található kis vallási emlékhely.",
+                  "category": "religious",
+                  "coords": [
+                        106.937213,
+                        47.908573
+                  ]
+            },
+            {
+                  "name": "Naran plaza",
+                  "text": "Modern épületegyüttes, amely közösségi és hitéleti helyszínként szolgál a park közelében.",
+                  "category": "religious",
+                  "coords": [
+                        106.913147,
+                        47.909655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fresco Bayan Mongol",
+                  "text": "De la clădirea Fresco se deschide o vedere largă asupra cartierului rezidențial modern Bayan Mongol.",
+                  "category": "natural",
+                  "coords": [
+                        106.934258,
+                        47.905353
+                  ]
+            },
+            {
+                  "name": "Khan Uul Duureg",
+                  "text": "Un monument monumental în districtul Khan Uul, situat lângă malul râului Tuul.",
+                  "category": "historical",
+                  "coords": [
+                        106.910629,
+                        47.9033
+                  ]
+            },
+            {
+                  "name": "Mongolyn tomor zamyn tuukhiin muzei",
+                  "text": "Muzeu în aer liber care expune locomotive cu abur istorice și vagoane de tren din era sovietică.",
+                  "category": "museum",
+                  "coords": [
+                        106.908928,
+                        47.908109
+                  ]
+            },
+            {
+                  "name": "Mangasyn am",
+                  "text": "O atracție pitorească situată în zona Parcului Național de Distracții.",
+                  "category": "landmark",
+                  "coords": [
+                        106.921494,
+                        47.908618
+                  ]
+            },
+            {
+                  "name": "Air Cycle",
+                  "text": "O pistă de biciclete suspendată care oferă o vedere panoramică asupra parcului de distracții.",
+                  "category": "landmark",
+                  "coords": [
+                        106.921863,
+                        47.909693
+                  ]
+            },
+            {
+                  "name": "Undesnii Soiol amraltyn khureelen UndUsUn u soyul amaralta iin qUriyeleng",
+                  "text": "Principalul parc de distracții din Mongolia, cu carusele și un castel de basm emblematic.",
+                  "category": "recreational",
+                  "coords": [
+                        106.919464,
+                        47.910473
+                  ]
+            },
+            {
+                  "name": "Khas suudlyn burees",
+                  "text": "Un mic loc de rugăciune și închinare situat în incinta parcului aglomerat.",
+                  "category": "religious",
+                  "coords": [
+                        106.937213,
+                        47.908573
+                  ]
+            },
+            {
+                  "name": "Naran plaza",
+                  "text": "Un complex modern care servește ca loc pentru adunări spirituale în zona parcului.",
+                  "category": "religious",
+                  "coords": [
+                        106.913147,
+                        47.909655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fresco Bayan Mongol",
+                  "text": "The Fresco building area provides an expansive view over the modern Bayan Mongol residential district.",
+                  "category": "natural",
+                  "coords": [
+                        106.934258,
+                        47.905353
+                  ]
+            },
+            {
+                  "name": "Khan Uul Duureg",
+                  "text": "A monumental landmark in the Khan Uul district located near the banks of the Tuul River.",
+                  "category": "historical",
+                  "coords": [
+                        106.910629,
+                        47.9033
+                  ]
+            },
+            {
+                  "name": "Mongolian Railway History Museum",
+                  "text": "Outdoor museum displaying historic steam locomotives and Soviet-era train carriages.",
+                  "category": "museum",
+                  "coords": [
+                        106.908928,
+                        47.908109
+                  ]
+            },
+            {
+                  "name": "Mangasyn am",
+                  "text": "A scenic themed attraction located within the grounds of the National Amusement Park.",
+                  "category": "landmark",
+                  "coords": [
+                        106.921494,
+                        47.908618
+                  ]
+            },
+            {
+                  "name": "Air Cycle",
+                  "text": "An elevated pedal-powered cycle track offering views over the amusement park grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        106.921863,
+                        47.909693
+                  ]
+            },
+            {
+                  "name": "National Amusement Park of Mongolia",
+                  "text": "Mongolia's primary theme park featuring carousels and an iconic central castle.",
+                  "category": "recreational",
+                  "coords": [
+                        106.919464,
+                        47.910473
+                  ]
+            },
+            {
+                  "name": "Khas suudlyn burees",
+                  "text": "A small site for prayer and worship located within the busy amusement park grounds.",
+                  "category": "religious",
+                  "coords": [
+                        106.937213,
+                        47.908573
+                  ]
+            },
+            {
+                  "name": "Naran plaza",
+                  "text": "A modern complex serving as a site for spiritual gatherings near the park area.",
+                  "category": "religious",
+                  "coords": [
+                        106.913147,
+                        47.909655
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "MN-1",
     coords: [106.9180, 47.9080],
@@ -1083,7 +2667,160 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mn-buddha-park-life-v2",
+    id: "mn-buddha-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Serp i Molot",
+                  "text": "Ein Denkmal im sowjetischen Stil, das die ikonischen Symbole Hammer und Sichel zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        106.915393,
+                        47.886841
+                  ]
+            },
+            {
+                  "name": "I Te Zhun emchiin dursgald zoriulsan tsetserlegt khureelen",
+                  "text": "Ein Gedenkpark für den koreanischen Arzt Dr. Lee Tae-joon, der sich für das mongolische Volk einsetzte.",
+                  "category": "landmark",
+                  "coords": [
+                        106.91327,
+                        47.8874
+                  ]
+            },
+            {
+                  "name": "Budda",
+                  "text": "Eine monumentale goldene Buddha-Statue, die im Zentrum des Friedensparks thront.",
+                  "category": "historical",
+                  "coords": [
+                        106.912156,
+                        47.885993
+                  ]
+            },
+            {
+                  "name": "Tsagaandarium",
+                  "text": "Eine Kunstgalerie und ein Museum, das zeitgenössische mongolische Werke in einem modernen Ambiente präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        106.910856,
+                        47.887812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Serp i Molot",
+                  "text": "Szovjet stílusú emlékmű, amely az ikonikus sarló és kalapács szimbólumokat ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        106.915393,
+                        47.886841
+                  ]
+            },
+            {
+                  "name": "I Te Zhun emchiin dursgald zoriulsan tsetserlegt khureelen",
+                  "text": "Emlékpark Dr. Lee Tae-joon koreai orvos tiszteletére, aki a mongol népet szolgálta.",
+                  "category": "landmark",
+                  "coords": [
+                        106.91327,
+                        47.8874
+                  ]
+            },
+            {
+                  "name": "Budda",
+                  "text": "Monumentális arany Buddha-szobor, amely a béke-park központjában magasodik.",
+                  "category": "historical",
+                  "coords": [
+                        106.912156,
+                        47.885993
+                  ]
+            },
+            {
+                  "name": "Tsagaandarium",
+                  "text": "Művészeti galéria és múzeum, amely kortárs mongol műveket mutat be modern környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        106.910856,
+                        47.887812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Serp i Molot",
+                  "text": "Un monument în stil sovietic care înfățișează simbolurile iconice ale secerii și ciocanului.",
+                  "category": "historical",
+                  "coords": [
+                        106.915393,
+                        47.886841
+                  ]
+            },
+            {
+                  "name": "I Te Zhun emchiin dursgald zoriulsan tsetserlegt khureelen",
+                  "text": "Un parc memorial dedicat medicului coreean Dr. Lee Tae-joon, care a servit poporul mongol.",
+                  "category": "landmark",
+                  "coords": [
+                        106.91327,
+                        47.8874
+                  ]
+            },
+            {
+                  "name": "Budda",
+                  "text": "O statuie monumentală de aur a lui Buddha, care tronează în centrul parcului păcii.",
+                  "category": "historical",
+                  "coords": [
+                        106.912156,
+                        47.885993
+                  ]
+            },
+            {
+                  "name": "Tsagaandarium",
+                  "text": "O galerie de artă și muzeu care prezintă lucrări mongole contemporane într-un ambient modern.",
+                  "category": "museum",
+                  "coords": [
+                        106.910856,
+                        47.887812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Serp i Molot",
+                  "text": "A Soviet-style monument featuring the iconic sickle and hammer symbols.",
+                  "category": "historical",
+                  "coords": [
+                        106.915393,
+                        47.886841
+                  ]
+            },
+            {
+                  "name": "Dr. Lee Tae-joon Memorial Park",
+                  "text": "A memorial park dedicated to the Korean doctor Dr. Lee Tae-joon, who served the Mongolian people.",
+                  "category": "landmark",
+                  "coords": [
+                        106.91327,
+                        47.8874
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "A monumental golden Buddha statue standing prominently at the center of the peace park.",
+                  "category": "historical",
+                  "coords": [
+                        106.912156,
+                        47.885993
+                  ]
+            },
+            {
+                  "name": "Tsagaandarium",
+                  "text": "An art gallery and museum showcasing contemporary Mongolian works in a modern setting.",
+                  "category": "museum",
+                  "coords": [
+                        106.910856,
+                        47.887812
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "MN-1",
     coords: [106.9150, 47.8860],
@@ -1143,7 +2880,88 @@ export const poiExtraMongoliaLifeV2: POI[] = [
     },
   },
   {
-    id: "mn-misheel-kids-park-life-v2",
+    id: "mn-misheel-kids-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "ALS Minerals and Geochemistry - Mongolia",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick über das industrielle Misheel-Viertel und den Fluss Tuul.",
+                  "category": "natural",
+                  "coords": [
+                        106.898902,
+                        47.896453
+                  ]
+            },
+            {
+                  "name": "Nar vanchin",
+                  "text": "Ein ruhiger buddhistischer Schrein im modernen Misheel-Viertel der mongolischen Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.865361,
+                        47.881053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ALS Minerals and Geochemistry - Mongolia",
+                  "text": "Ebből a kilátópontból rálátni a Misheel ipari negyedre és a Tuul-folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        106.898902,
+                        47.896453
+                  ]
+            },
+            {
+                  "name": "Nar vanchin",
+                  "text": "Egy nyugodt buddhista szentély a mongol főváros modern Misheel negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        106.865361,
+                        47.881053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ALS Minerals and Geochemistry - Mongolia",
+                  "text": "Acest punct de observare oferă o vedere asupra cartierului industrial Misheel și a râului Tuul.",
+                  "category": "natural",
+                  "coords": [
+                        106.898902,
+                        47.896453
+                  ]
+            },
+            {
+                  "name": "Nar vanchin",
+                  "text": "Un altar budist liniștit situat în cartierul modern Misheel din capitala mongolă.",
+                  "category": "landmark",
+                  "coords": [
+                        106.865361,
+                        47.881053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ALS Minerals and Geochemistry - Mongolia",
+                  "text": "This viewpoint offers a vista over the industrial Misheel district and the Tuul River.",
+                  "category": "natural",
+                  "coords": [
+                        106.898902,
+                        47.896453
+                  ]
+            },
+            {
+                  "name": "Nar vanchin",
+                  "text": "A serene Buddhist shrine located in the modern Misheel district of the Mongolian capital.",
+                  "category": "landmark",
+                  "coords": [
+                        106.865361,
+                        47.881053
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "MN-1",
     coords: [106.9050, 47.8920],

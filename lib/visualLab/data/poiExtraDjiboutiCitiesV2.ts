@@ -500,7 +500,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "‘Amayle",
-                  "text": "‘Amayle ist ein natürlicher Berggipfel in Alaili Dadda.",
+                  "text": "Felsiger Hügel in der Wüstenebene von Dadda, Djibouti.",
                   "category": "natural",
                   "coords": [
                         43.015676,
@@ -518,7 +518,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Bâhi",
-                  "text": "Bâhi ist ein markanter Berggipfel in Alaili Dadda.",
+                  "text": "Hügel mit Akazienbewuchs nahe der Oase von Dadda.",
                   "category": "natural",
                   "coords": [
                         43.033333,
@@ -529,7 +529,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "‘Amayle",
-                  "text": "Az ‘Amayle egy természetes hegycsúcs Alaili Dadda területén.",
+                  "text": "Sziklás domb a Dadda sivatagi síkságán, Dzsibuti.",
                   "category": "natural",
                   "coords": [
                         43.015676,
@@ -547,7 +547,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Bâhi",
-                  "text": "A Bâhi egy kiemelkedő hegycsúcs Alaili Dadda területén.",
+                  "text": "Akácfákkal borított domb a Dadda-oázis közelében.",
                   "category": "natural",
                   "coords": [
                         43.033333,
@@ -558,7 +558,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "‘Amayle",
-                  "text": "‘Amayle este un vârf muntos natural situat în Alaili Dadda.",
+                  "text": "Deal stâncos în câmpia deșertică a Dadda, Djibouti.",
                   "category": "natural",
                   "coords": [
                         43.015676,
@@ -576,7 +576,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Bâhi",
-                  "text": "Bâhi este un vârf muntos proeminent din Alaili Dadda.",
+                  "text": "Deal acoperit de salcâmi lângă oaza Dadda.",
                   "category": "natural",
                   "coords": [
                         43.033333,
@@ -587,7 +587,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "‘Amayle",
-                  "text": "‘Amayle is a natural mountain peak located in Alaili Dadda.",
+                  "text": "Rocky hill in the desert plain of Dadda, Djibouti.",
                   "category": "natural",
                   "coords": [
                         43.015676,
@@ -605,7 +605,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Bâhi",
-                  "text": "Bâhi is a prominent mountain peak in Alaili Dadda.",
+                  "text": "Hill with acacia trees near the Dadda oasis.",
                   "category": "natural",
                   "coords": [
                         43.033333,
@@ -713,7 +713,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Boûri San",
-                  "text": "Boûri San ist ein Berggipfel in Khor Angar.",
+                  "text": "Vulkanischer Hügelkamm bei Angar, Djibouti.",
                   "category": "natural",
                   "coords": [
                         43.3293,
@@ -724,7 +724,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Boûri San",
-                  "text": "A Boûri San egy hegycsúcs Khor Angar területén.",
+                  "text": "Vulkanikus gerinc Angar közelében, Dzsibuti.",
                   "category": "natural",
                   "coords": [
                         43.3293,
@@ -735,7 +735,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Boûri San",
-                  "text": "Boûri San este un vârf montan situat în Khor Angar.",
+                  "text": "Creastă vulcanică lângă Angar, Djibouti.",
                   "category": "natural",
                   "coords": [
                         43.3293,
@@ -746,7 +746,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Boûri San",
-                  "text": "Boûri San is a mountain peak located in Khor Angar.",
+                  "text": "Volcanic ridge near Angar, Djibouti.",
                   "category": "natural",
                   "coords": [
                         43.3293,
@@ -806,7 +806,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ḏertim",
-                  "text": "Ḏertim ist ein natürlicher Berggipfel in der Nähe von Randa.",
+                  "text": "Tafelberg aus Basalt in der Randa-Region.",
                   "category": "natural",
                   "coords": [
                         42.648333,
@@ -815,7 +815,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Ado Dâba",
-                  "text": "‘Ado Dâba ist ein Berggipfel in der Region von Randa.",
+                  "text": "Hügel mit weißen Gipfelfelsen, in der Randa-Ebene.",
                   "category": "natural",
                   "coords": [
                         42.633611,
@@ -826,7 +826,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ḏertim",
-                  "text": "A Ḏertim egy természetes hegycsúcs Randa közelében.",
+                  "text": "Bazalt asztalhegy a Randa régióban.",
                   "category": "natural",
                   "coords": [
                         42.648333,
@@ -835,7 +835,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Ado Dâba",
-                  "text": "Az ‘Ado Dâba egy hegycsúcs Randa térségében.",
+                  "text": "Fehér csúcssziklákkal tarkított domb a Randa-síkságon.",
                   "category": "natural",
                   "coords": [
                         42.633611,
@@ -846,7 +846,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ḏertim",
-                  "text": "Ḏertim este un vârf muntos natural situat în apropiere de Randa.",
+                  "text": "Masă de bazalt în regiunea Randa.",
                   "category": "natural",
                   "coords": [
                         42.648333,
@@ -855,7 +855,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Ado Dâba",
-                  "text": "‘Ado Dâba este un vârf montan din regiunea Randa.",
+                  "text": "Deal cu stânci albe în vârf, în câmpia Randa.",
                   "category": "natural",
                   "coords": [
                         42.633611,
@@ -866,7 +866,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ḏertim",
-                  "text": "Ḏertim is a natural mountain peak located near Randa.",
+                  "text": "Basalt mesa in the Randa region.",
                   "category": "natural",
                   "coords": [
                         42.648333,
@@ -875,7 +875,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Ado Dâba",
-                  "text": "‘Ado Dâba is a mountain peak situated in the region of Randa.",
+                  "text": "Hill with white summit rocks in the Randa plain.",
                   "category": "natural",
                   "coords": [
                         42.633611,
@@ -935,7 +935,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Assamo",
-                  "text": "Fort Assamo ist eine Festung in Assamo.",
+                  "text": "Historische Festung in Assamo.",
                   "category": "fortress",
                   "coords": [
                         42.83925,
@@ -944,7 +944,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Golẖol",
-                  "text": "Golẖol ist ein Gipfel in Assamo.",
+                  "text": "Runder Hügel im Trockental von Assamo, Djibouti.",
                   "category": "natural",
                   "coords": [
                         42.831944,
@@ -953,7 +953,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Lammoûdley",
-                  "text": "Lammoûdley ist ein Gipfel in Assamo.",
+                  "text": "Hügelkette entlang eines Wadis bei Assamo.",
                   "category": "natural",
                   "coords": [
                         42.85,
@@ -964,7 +964,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Assamo",
-                  "text": "A(z) Fort Assamo egy erőd Assamo településen.",
+                  "text": "Történelmi erőd Assamóban.",
                   "category": "fortress",
                   "coords": [
                         42.83925,
@@ -973,7 +973,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Golẖol",
-                  "text": "A(z) Golẖol egy hegycsúcs Assamo településen.",
+                  "text": "Kerek domb az Assamo száraz völgyében, Dzsibuti.",
                   "category": "natural",
                   "coords": [
                         42.831944,
@@ -982,7 +982,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Lammoûdley",
-                  "text": "A(z) Lammoûdley egy hegycsúcs Assamo településen.",
+                  "text": "Dombvonulat egy vádimentén Assamo mellett.",
                   "category": "natural",
                   "coords": [
                         42.85,
@@ -993,7 +993,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Assamo",
-                  "text": "Fort Assamo este un fort în Assamo.",
+                  "text": "Fortăreață istorică în Assamo.",
                   "category": "fortress",
                   "coords": [
                         42.83925,
@@ -1002,7 +1002,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Golẖol",
-                  "text": "Golẖol este un vârf în Assamo.",
+                  "text": "Deal rotund în valea secată a Assamo, Djibouti.",
                   "category": "natural",
                   "coords": [
                         42.831944,
@@ -1011,7 +1011,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Lammoûdley",
-                  "text": "Lammoûdley este un vârf în Assamo.",
+                  "text": "Șir de dealuri de-a lungul unui wadi lângă Assamo.",
                   "category": "natural",
                   "coords": [
                         42.85,
@@ -1022,7 +1022,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Assamo",
-                  "text": "Fort Assamo is a fort located in Assamo.",
+                  "text": "Historic fortress in Assamo.",
                   "category": "fortress",
                   "coords": [
                         42.83925,
@@ -1031,7 +1031,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Golẖol",
-                  "text": "Golẖol is a peak located in Assamo.",
+                  "text": "Round hill in the dry valley of Assamo, Djibouti.",
                   "category": "natural",
                   "coords": [
                         42.831944,
@@ -1040,7 +1040,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Lammoûdley",
-                  "text": "Lammoûdley is a peak located in Assamo.",
+                  "text": "Hill range along a wadi near Assamo.",
                   "category": "natural",
                   "coords": [
                         42.85,
@@ -1100,7 +1100,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nidiq",
-                  "text": "Nidiq ist ein natürlicher Gipfel in Goubetto.",
+                  "text": "Isolierter Felsgipfel in der Goubetto-Steppe.",
                   "category": "natural",
                   "coords": [
                         43.026111,
@@ -1111,7 +1111,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nidiq",
-                  "text": "A Nidiq egy természetes hegycsúcs Goubetto területén.",
+                  "text": "Magányos sziklacsúcs a Goubetto-sztyeppén.",
                   "category": "natural",
                   "coords": [
                         43.026111,
@@ -1122,7 +1122,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nidiq",
-                  "text": "Nidiq este un vârf natural situat în Goubetto.",
+                  "text": "Vârf stâncos izolat în stepa Goubetto.",
                   "category": "natural",
                   "coords": [
                         43.026111,
@@ -1133,7 +1133,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nidiq",
-                  "text": "Nidiq is a natural peak situated in Goubetto.",
+                  "text": "Isolated rock peak in the Goubetto steppe.",
                   "category": "natural",
                   "coords": [
                         43.026111,
@@ -1193,7 +1193,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Koulamâlé",
-                  "text": "Koulamâlé ist ein Berggipfel, der in Chebelle liegt.",
+                  "text": "Hügel mit Lavafeldern in der Chebelle-Region.",
                   "category": "natural",
                   "coords": [
                         42.965278,
@@ -1202,7 +1202,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Boullé",
-                  "text": "Boullé ist ein natürlicher Berggipfel in Chebelle.",
+                  "text": "Kegelförmiger Hügel aus vulkanischer Asche in Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.966667,
@@ -1211,7 +1211,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Téouaïle",
-                  "text": "Téouaïle ist ein markanter Berggipfel in Chebelle.",
+                  "text": "Hügel mit einer markanten Kerbe im Gipfel, Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.966667,
@@ -1220,7 +1220,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gaski",
-                  "text": "Gaski ist ein Berggipfel in der Landschaft von Chebelle.",
+                  "text": "Flacher Hügel, bedeckt mit schwarzem Geröll, Chebelle.",
                   "category": "natural",
                   "coords": [
                         43.0,
@@ -1229,7 +1229,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gâchan",
-                  "text": "Gâchan ist ein natürlicher Berggipfel in Chebelle.",
+                  "text": "Hügel mit rötlichem Gestein in der Chebelle-Wüste.",
                   "category": "natural",
                   "coords": [
                         42.980278,
@@ -1238,7 +1238,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏaoual",
-                  "text": "Ḏaoual ist ein Berggipfel in der Umgebung von Chebelle.",
+                  "text": "Zwei kleine Hügel nebeneinander in der Chebelle-Ebene.",
                   "category": "natural",
                   "coords": [
                         42.979722,
@@ -1247,7 +1247,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏaoualé",
-                  "text": "Ḏaoualé ist ein Berggipfel in der Gegend von Chebelle.",
+                  "text": "Hügel mit Gipfelplateau in der Chebelle-Region.",
                   "category": "natural",
                   "coords": [
                         43.006667,
@@ -1256,7 +1256,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ibrîn",
-                  "text": "Ibrîn ist ein markanter Berggipfel in Chebelle.",
+                  "text": "Felsvorsprung in einer Schlucht bei Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.988611,
@@ -1267,7 +1267,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Koulamâlé",
-                  "text": "A Koulamâlé egy hegycsúcs, amely Chebelle területén található.",
+                  "text": "Lávamezőkkel borított domb a Chebelle régióban.",
                   "category": "natural",
                   "coords": [
                         42.965278,
@@ -1276,7 +1276,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Boullé",
-                  "text": "A Boullé egy természetes hegycsúcs Chebelle területén.",
+                  "text": "Vulkanikus hamuból álló kúp alakú domb Chebelle-ben.",
                   "category": "natural",
                   "coords": [
                         42.966667,
@@ -1285,7 +1285,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Téouaïle",
-                  "text": "A Téouaïle egy kiemelkedő hegycsúcs Chebelle területén.",
+                  "text": "Jellegzetes bevágással rendelkező domb a Chebelle-ben.",
                   "category": "natural",
                   "coords": [
                         42.966667,
@@ -1294,7 +1294,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gaski",
-                  "text": "A Gaski egy hegycsúcs Chebelle vidékén.",
+                  "text": "Fekete kaviccsal borított lapos domb Chebelle-ben.",
                   "category": "natural",
                   "coords": [
                         43.0,
@@ -1303,7 +1303,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gâchan",
-                  "text": "A Gâchan egy természetes hegycsúcs Chebelle területén.",
+                  "text": "Vöröses kőzetű domb a Chebelle-sivatagban.",
                   "category": "natural",
                   "coords": [
                         42.980278,
@@ -1312,7 +1312,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏaoual",
-                  "text": "A Ḏaoual egy hegycsúcs Chebelle környékén.",
+                  "text": "Két kicsi domb egymás mellett a Chebelle-síkságon.",
                   "category": "natural",
                   "coords": [
                         42.979722,
@@ -1321,7 +1321,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏaoualé",
-                  "text": "A Ḏaoualé egy hegycsúcs Chebelle térségében.",
+                  "text": "Csúcsi platóval rendelkező domb a Chebelle régióban.",
                   "category": "natural",
                   "coords": [
                         43.006667,
@@ -1330,7 +1330,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ibrîn",
-                  "text": "Az Ibrîn egy kiemelkedő hegycsúcs Chebelle területén.",
+                  "text": "Sziklás kiszögellés egy szurdokban Chebelle mellett.",
                   "category": "natural",
                   "coords": [
                         42.988611,
@@ -1341,7 +1341,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Koulamâlé",
-                  "text": "Koulamâlé este un vârf muntos situat în Chebelle.",
+                  "text": "Deal cu câmpuri de lavă în regiunea Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.965278,
@@ -1350,7 +1350,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Boullé",
-                  "text": "Boullé este un vârf montan natural din Chebelle.",
+                  "text": "Deal conic din cenușă vulcanică în Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.966667,
@@ -1359,7 +1359,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Téouaïle",
-                  "text": "Téouaïle este un vârf muntos proeminent din Chebelle.",
+                  "text": "Deal cu o crestătură distinctă în vârf, Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.966667,
@@ -1368,7 +1368,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gaski",
-                  "text": "Gaski este un vârf montan din peisajul orașului Chebelle.",
+                  "text": "Deal plat acoperit cu pietriș negru, Chebelle.",
                   "category": "natural",
                   "coords": [
                         43.0,
@@ -1377,7 +1377,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gâchan",
-                  "text": "Gâchan este un vârf muntos natural aflat în Chebelle.",
+                  "text": "Deal cu rocă roșiatică în deșertul Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.980278,
@@ -1386,7 +1386,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏaoual",
-                  "text": "Ḏaoual este un vârf montan din împrejurimile orașului Chebelle.",
+                  "text": "Două dealuri mici alăturate în câmpia Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.979722,
@@ -1395,7 +1395,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏaoualé",
-                  "text": "Ḏaoualé este un vârf montan din regiunea Chebelle.",
+                  "text": "Deal cu un platou în vârf în regiunea Chebelle.",
                   "category": "natural",
                   "coords": [
                         43.006667,
@@ -1404,7 +1404,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ibrîn",
-                  "text": "Ibrîn este un vârf muntos proeminent din Chebelle.",
+                  "text": "Afloriment stâncos într-o cheie lângă Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.988611,
@@ -1415,7 +1415,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Koulamâlé",
-                  "text": "Koulamâlé is a mountain peak located in Chebelle.",
+                  "text": "Hill with lava fields in the Chebelle region.",
                   "category": "natural",
                   "coords": [
                         42.965278,
@@ -1424,7 +1424,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Boullé",
-                  "text": "Boullé is a natural mountain peak in Chebelle.",
+                  "text": "Conical hill of volcanic ash in Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.966667,
@@ -1433,7 +1433,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Téouaïle",
-                  "text": "Téouaïle is a prominent mountain peak in Chebelle.",
+                  "text": "Hill with a distinct notch at the summit, Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.966667,
@@ -1442,7 +1442,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gaski",
-                  "text": "Gaski is a mountain peak situated in the landscape of Chebelle.",
+                  "text": "Flat hill covered with black gravel, Chebelle.",
                   "category": "natural",
                   "coords": [
                         43.0,
@@ -1451,7 +1451,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gâchan",
-                  "text": "Gâchan is a natural mountain peak located in Chebelle.",
+                  "text": "Hill with reddish rock in the Chebelle desert.",
                   "category": "natural",
                   "coords": [
                         42.980278,
@@ -1460,7 +1460,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏaoual",
-                  "text": "Ḏaoual is a mountain peak situated in the vicinity of Chebelle.",
+                  "text": "Two small hills side by side in the Chebelle plain.",
                   "category": "natural",
                   "coords": [
                         42.979722,
@@ -1469,7 +1469,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏaoualé",
-                  "text": "Ḏaoualé is a mountain peak located in the area of Chebelle.",
+                  "text": "Hill with a summit plateau in the Chebelle region.",
                   "category": "natural",
                   "coords": [
                         43.006667,
@@ -1478,7 +1478,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ibrîn",
-                  "text": "Ibrîn is a prominent mountain peak in Chebelle.",
+                  "text": "Rocky outcrop in a gorge near Chebelle.",
                   "category": "natural",
                   "coords": [
                         42.988611,
@@ -1538,7 +1538,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lebi Yar",
-                  "text": "Lebi Yar ist ein Gipfel in Sankal.",
+                  "text": "Hügel mit Termitenhügeln in der Sankal-Savanne.",
                   "category": "natural",
                   "coords": [
                         42.329565,
@@ -1549,7 +1549,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lebi Yar",
-                  "text": "A(z) Lebi Yar egy hegycsúcs Sankal településen.",
+                  "text": "Termeszvárakkal tarkított domb a Sankal-szavannán.",
                   "category": "natural",
                   "coords": [
                         42.329565,
@@ -1560,7 +1560,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lebi Yar",
-                  "text": "Lebi Yar este un vârf în Sankal.",
+                  "text": "Deal cu movile de termite în savana Sankal.",
                   "category": "natural",
                   "coords": [
                         42.329565,
@@ -1571,7 +1571,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lebi Yar",
-                  "text": "Lebi Yar is a peak located in Sankal.",
+                  "text": "Hill with termite mounds in the Sankal savanna.",
                   "category": "natural",
                   "coords": [
                         42.329565,
@@ -1631,7 +1631,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sidiẖa Kôma",
-                  "text": "Sidiẖa Kôma ist ein Gipfel in der Region Bondara.",
+                  "text": "Doppelgipfeliger Hügel in der Bondara-Ebene.",
                   "category": "natural",
                   "coords": [
                         42.157778,
@@ -1642,7 +1642,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sidiẖa Kôma",
-                  "text": "A Sidiẖa Kôma egy hegycsúcs Bondara régiójában.",
+                  "text": "Kétcsúcsú domb a Bondara-síkságon.",
                   "category": "natural",
                   "coords": [
                         42.157778,
@@ -1653,7 +1653,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sidiẖa Kôma",
-                  "text": "Sidiẖa Kôma este un vârf montan situat în regiunea Bondara.",
+                  "text": "Deal cu două vârfuri în câmpia Bondara.",
                   "category": "natural",
                   "coords": [
                         42.157778,
@@ -1664,7 +1664,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sidiẖa Kôma",
-                  "text": "Sidiẖa Kôma is a peak located in the region of Bondara.",
+                  "text": "Twin-peaked hill in the Bondara plain.",
                   "category": "natural",
                   "coords": [
                         42.157778,
@@ -1820,7 +1820,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gabla",
-                  "text": "Gabla ist ein Berggipfel in Doumera.",
+                  "text": "Hügel nahe der Salzpfannen von Doumera.",
                   "category": "natural",
                   "coords": [
                         43.134631,
@@ -1831,7 +1831,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gabla",
-                  "text": "A Gabla egy hegycsúcs Doumera területén.",
+                  "text": "Domb a Doumera-i sómedencék közelében.",
                   "category": "natural",
                   "coords": [
                         43.134631,
@@ -1842,7 +1842,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gabla",
-                  "text": "Gabla este un vârf de munte situat în Doumera.",
+                  "text": "Deal în apropierea tăvilor de sare de la Doumera.",
                   "category": "natural",
                   "coords": [
                         43.134631,
@@ -1853,7 +1853,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gabla",
-                  "text": "Gabla is a mountain peak found in Doumera.",
+                  "text": "Hill near the salt pans of Doumera.",
                   "category": "natural",
                   "coords": [
                         43.134631,
@@ -1961,7 +1961,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ali Kôma",
-                  "text": "Ali Koma ist ein Gipfel in Kouta Bouyya.",
+                  "text": "Hügel mit Aussicht auf die Bouyya-Oase.",
                   "category": "natural",
                   "coords": [
                         42.453889,
@@ -1972,7 +1972,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ali Kôma",
-                  "text": "A(z) Ali Koma egy hegycsúcs Kouta Bouyya településen.",
+                  "text": "Domb a Bouyya-oázisra nyíló kilátással.",
                   "category": "natural",
                   "coords": [
                         42.453889,
@@ -1983,7 +1983,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ali Kôma",
-                  "text": "Ali Koma este un vârf în Kouta Bouyya.",
+                  "text": "Deal cu vedere spre oaza Bouyya.",
                   "category": "natural",
                   "coords": [
                         42.453889,
@@ -1994,7 +1994,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ali Koma",
-                  "text": "Ali Koma is a peak located in Kouta Bouyya.",
+                  "text": "Hill overlooking the Bouyya oasis.",
                   "category": "natural",
                   "coords": [
                         42.453889,
@@ -2103,7 +2103,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hankatta",
-                  "text": "Hankatta ist ein Berggipfel, der in Sagallou liegt.",
+                  "text": "Schwarzfelshügel in der Sagallou-Steppe.",
                   "category": "natural",
                   "coords": [
                         42.729167,
@@ -2112,7 +2112,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Garrôni ‘Ale",
-                  "text": "Garrôni ‘Ale ist ein natürlicher Berggipfel in Sagallou.",
+                  "text": "Hügel mit einem weißen Kalksteinband, Sagallou.",
                   "category": "natural",
                   "coords": [
                         42.701111,
@@ -2121,7 +2121,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Asa Kôma",
-                  "text": "‘Asa Kôma ist ein Berggipfel in der Landschaft von Sagallou.",
+                  "text": "Hügel in Form eines Kamelsattels, Sagallou.",
                   "category": "natural",
                   "coords": [
                         42.709722,
@@ -2132,7 +2132,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hankatta",
-                  "text": "A Hankatta egy hegycsúcs, amely Sagallou területén található.",
+                  "text": "Fekete sziklás domb a Sagallou-sztyeppén.",
                   "category": "natural",
                   "coords": [
                         42.729167,
@@ -2141,7 +2141,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Garrôni ‘Ale",
-                  "text": "A Garrôni ‘Ale egy természetes hegycsúcs Sagallou területén.",
+                  "text": "Fehér mészkő sávval rendelkező domb Sagallou-ban.",
                   "category": "natural",
                   "coords": [
                         42.701111,
@@ -2150,7 +2150,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Asa Kôma",
-                  "text": "Az ‘Asa Kôma egy hegycsúcs Sagallou vidékén.",
+                  "text": "Tevehát alakú domb Sagallou-ban.",
                   "category": "natural",
                   "coords": [
                         42.709722,
@@ -2161,7 +2161,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hankatta",
-                  "text": "Hankatta este un vârf muntos situat în Sagallou.",
+                  "text": "Deal de stâncă neagră în stepa Sagallou.",
                   "category": "natural",
                   "coords": [
                         42.729167,
@@ -2170,7 +2170,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Garrôni ‘Ale",
-                  "text": "Garrôni ‘Ale este un vârf montan natural din Sagallou.",
+                  "text": "Deal cu un strat de calcar alb, Sagallou.",
                   "category": "natural",
                   "coords": [
                         42.701111,
@@ -2179,7 +2179,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Asa Kôma",
-                  "text": "‘Asa Kôma este un vârf montan din peisajul din Sagallou.",
+                  "text": "Deal în formă de șa de cămilă, Sagallou.",
                   "category": "natural",
                   "coords": [
                         42.709722,
@@ -2190,7 +2190,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hankatta",
-                  "text": "Hankatta is a mountain peak located in Sagallou.",
+                  "text": "Black rock hill in the Sagallou steppe.",
                   "category": "natural",
                   "coords": [
                         42.729167,
@@ -2199,7 +2199,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Garrôni ‘Ale",
-                  "text": "Garrôni ‘Ale is a natural mountain peak in Sagallou.",
+                  "text": "Hill with a band of white limestone, Sagallou.",
                   "category": "natural",
                   "coords": [
                         42.701111,
@@ -2208,7 +2208,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Asa Kôma",
-                  "text": "‘Asa Kôma is a mountain peak situated in the landscape of Sagallou.",
+                  "text": "Camel-saddle-shaped hill in Sagallou.",
                   "category": "natural",
                   "coords": [
                         42.709722,
@@ -2317,7 +2317,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ḏaba‘as",
-                  "text": "Ḏaba‘as ist ein Berggipfel in Beyadde.",
+                  "text": "Hügel mit einem natürlichen Felsbogen, Beyadde.",
                   "category": "natural",
                   "coords": [
                         42.866667,
@@ -2328,7 +2328,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ḏaba‘as",
-                  "text": "A Ḏaba‘as egy hegycsúcs Beyadde területén.",
+                  "text": "Természetes sziklaíves domb Beyadde-ban.",
                   "category": "natural",
                   "coords": [
                         42.866667,
@@ -2339,7 +2339,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ḏaba‘as",
-                  "text": "Ḏaba‘as este un vârf montan situat în Beyadde.",
+                  "text": "Deal cu un arc natural de stâncă, Beyadde.",
                   "category": "natural",
                   "coords": [
                         42.866667,
@@ -2350,7 +2350,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ḏaba‘as",
-                  "text": "Ḏaba‘as is a mountain peak located in Beyadde.",
+                  "text": "Hill with a natural rock arch, Beyadde.",
                   "category": "natural",
                   "coords": [
                         42.866667,
@@ -2652,7 +2652,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Boûdo Guêra",
-                  "text": "Boûdo Guêra ist ein Berggipfel in Hanle.",
+                  "text": "Ein saisonaler Flusslauf in der Nähe von Hanle.",
                   "category": "natural",
                   "coords": [
                         42.06,
@@ -2661,7 +2661,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ourwali",
-                  "text": "Ourwali ist ein natürlicher Gipfel in Hanle.",
+                  "text": "Ein felsiger Hügel in der Trockenregion von Hanle.",
                   "category": "natural",
                   "coords": [
                         42.066389,
@@ -2670,7 +2670,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "H̱âẖayle",
-                  "text": "H̱âẖayle ist ein Gipfel in der Gegend von Hanle.",
+                  "text": "Eine natürliche Senke mit Salzkruste in der Hanle-Ebene.",
                   "category": "natural",
                   "coords": [
                         42.036944,
@@ -2681,7 +2681,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Boûdo Guêra",
-                  "text": "A Boûdo Guêra egy hegycsúcs Hanle területén.",
+                  "text": "Időszakos vízfolyás Hanle közelében.",
                   "category": "natural",
                   "coords": [
                         42.06,
@@ -2690,7 +2690,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ourwali",
-                  "text": "Az Ourwali egy természetes hegycsúcs Hanle területén.",
+                  "text": "Egy sziklás domb Hanle száraz területén.",
                   "category": "natural",
                   "coords": [
                         42.066389,
@@ -2699,7 +2699,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "H̱âẖayle",
-                  "text": "A H̱âẖayle egy hegycsúcs Hanle környékén.",
+                  "text": "Természetes mélyedés sókéreggel a Hanle-síkságon.",
                   "category": "natural",
                   "coords": [
                         42.036944,
@@ -2710,7 +2710,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Boûdo Guêra",
-                  "text": "Boûdo Guêra este un vârf montan situat în Hanle.",
+                  "text": "Un curs de apă sezonier lângă Hanle.",
                   "category": "natural",
                   "coords": [
                         42.06,
@@ -2719,7 +2719,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ourwali",
-                  "text": "Ourwali este un vârf natural situat în Hanle.",
+                  "text": "Un deal stâncos în regiunea aridă a lui Hanle.",
                   "category": "natural",
                   "coords": [
                         42.066389,
@@ -2728,7 +2728,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "H̱âẖayle",
-                  "text": "H̱âẖayle este un vârf situat în zona Hanle.",
+                  "text": "O depresiune naturală cu crustă de sare în câmpia Hanle.",
                   "category": "natural",
                   "coords": [
                         42.036944,
@@ -2739,7 +2739,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Boûdo Guêra",
-                  "text": "Boûdo Guêra is a mountain peak situated in Hanle.",
+                  "text": "A seasonal riverbed near Hanle.",
                   "category": "natural",
                   "coords": [
                         42.06,
@@ -2748,7 +2748,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ourwali",
-                  "text": "Ourwali is a natural peak located in Hanle.",
+                  "text": "A rocky hill in the dry region of Hanle.",
                   "category": "natural",
                   "coords": [
                         42.066389,
@@ -2757,7 +2757,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "H̱âẖayle",
-                  "text": "H̱âẖayle is a peak positioned in the area of Hanle.",
+                  "text": "A natural depression with salt crust in the Hanle plain.",
                   "category": "natural",
                   "coords": [
                         42.036944,
@@ -2913,7 +2913,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ali Addé",
-                  "text": "Ali Addé ist ein Berggipfel in Petit Bara.",
+                  "text": "Eine trockene Wadischlucht nahe Bara.",
                   "category": "natural",
                   "coords": [
                         42.928682,
@@ -2922,7 +2922,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏiyya‘",
-                  "text": "Ḏiyya‘ ist ein markanter Gipfel in Petit Bara.",
+                  "text": "Ein kleiner Felsvorsprung mit Aussicht auf die Bara-Steppe.",
                   "category": "natural",
                   "coords": [
                         42.9475,
@@ -2933,7 +2933,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ali Addé",
-                  "text": "Az Ali Addé egy hegycsúcs Petit Bara területén.",
+                  "text": "Száraz vádimentes szurdok Bara közelében.",
                   "category": "natural",
                   "coords": [
                         42.928682,
@@ -2942,7 +2942,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏiyya‘",
-                  "text": "A Ḏiyya‘ egy kiemelkedő hegycsúcs Petit Bara területén.",
+                  "text": "Egy kis sziklaperem kilátással a Bara-sztyeppére.",
                   "category": "natural",
                   "coords": [
                         42.9475,
@@ -2953,7 +2953,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ali Addé",
-                  "text": "Ali Addé este un vârf montan situat în Petit Bara.",
+                  "text": "O râpă de wadi uscat lângă Bara.",
                   "category": "natural",
                   "coords": [
                         42.928682,
@@ -2962,7 +2962,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏiyya‘",
-                  "text": "Ḏiyya‘ este un vârf proeminent situat în Petit Bara.",
+                  "text": "O mică faleză stâncoasă cu vedere spre stepa Bara.",
                   "category": "natural",
                   "coords": [
                         42.9475,
@@ -2973,7 +2973,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ali Addé",
-                  "text": "Ali Addé is a mountain peak located in Petit Bara.",
+                  "text": "A dry wadi canyon near Bara.",
                   "category": "natural",
                   "coords": [
                         42.928682,
@@ -2982,7 +2982,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Ḏiyya‘",
-                  "text": "Ḏiyya‘ is a prominent peak situated in Petit Bara.",
+                  "text": "A small rock ledge overlooking the Bara steppe.",
                   "category": "natural",
                   "coords": [
                         42.9475,
@@ -3091,7 +3091,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kalâloho",
-                  "text": "Kalâloho ist ein Gipfel in We`a.",
+                  "text": "Ein isolierter Basaltfelsen in der Ebene von A.",
                   "category": "natural",
                   "coords": [
                         42.848056,
@@ -3100,7 +3100,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Ali Faḏên",
-                  "text": "‘Ali Faḏên ist ein Gipfel in We`a.",
+                  "text": "Eine termitenhügelartige Erhebung bei A.",
                   "category": "natural",
                   "coords": [
                         42.844167,
@@ -3109,7 +3109,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gaourir",
-                  "text": "Gaourir ist ein Gipfel in We`a.",
+                  "text": "Ein trockenes Flussbett mit Akazienbestand im Umland von A.",
                   "category": "natural",
                   "coords": [
                         42.821667,
@@ -3127,7 +3127,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Nostra",
-                  "text": "Nostra ist eine Touristenattraktion in We`a.",
+                  "text": "Wahrzeichen namens \"Nostra\" in der Stadt A.",
                   "category": "landmark",
                   "coords": [
                         42.822124,
@@ -3136,7 +3136,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "UNITE MIDNIMO",
-                  "text": "UNITE MIDNIMO ist eine Touristenattraktion in We`a.",
+                  "text": "Wahrzeichen mit der Aufschrift \"UNITE MIDNIMO\" in der Stadt A.",
                   "category": "landmark",
                   "coords": [
                         42.826968,
@@ -3145,7 +3145,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "letters",
-                  "text": "letters ist eine Touristenattraktion in We`a.",
+                  "text": "Buchstabenskulptur in der Stadt A.",
                   "category": "landmark",
                   "coords": [
                         42.828923,
@@ -3154,7 +3154,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "star",
-                  "text": "star ist eine Touristenattraktion in We`a.",
+                  "text": "Sternförmiges Monument in der Stadt A.",
                   "category": "landmark",
                   "coords": [
                         42.825806,
@@ -3163,7 +3163,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "LEGIO",
-                  "text": "LEGIO ist eine Touristenattraktion in We`a.",
+                  "text": "Monument mit Verweis auf die römische Legion in der Stadt A.",
                   "category": "landmark",
                   "coords": [
                         42.825691,
@@ -3172,7 +3172,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "FAD",
-                  "text": "FAD ist eine Touristenattraktion in We`a.",
+                  "text": "Wahrzeichen namens \"FAD\" in der Stadt A.",
                   "category": "landmark",
                   "coords": [
                         42.824921,
@@ -3183,7 +3183,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kalâloho",
-                  "text": "A(z) Kalâloho egy hegycsúcs We`a településen.",
+                  "text": "Egy elszigetelt bazaltszikla A síkságán.",
                   "category": "natural",
                   "coords": [
                         42.848056,
@@ -3192,7 +3192,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Ali Faḏên",
-                  "text": "A(z) ‘Ali Faḏên egy hegycsúcs We`a településen.",
+                  "text": "Termeszdombszerű kiemelkedés A mellett.",
                   "category": "natural",
                   "coords": [
                         42.844167,
@@ -3201,7 +3201,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gaourir",
-                  "text": "A(z) Gaourir egy hegycsúcs We`a településen.",
+                  "text": "Száraz folyómeder akácfákkal A környékén.",
                   "category": "natural",
                   "coords": [
                         42.821667,
@@ -3219,7 +3219,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Nostra",
-                  "text": "A(z) Nostra egy turisztikai látványosság We`a településen.",
+                  "text": "\"Nostra\" nevű nevezetesség A városában.",
                   "category": "landmark",
                   "coords": [
                         42.822124,
@@ -3228,7 +3228,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "UNITE MIDNIMO",
-                  "text": "A(z) UNITE MIDNIMO egy turisztikai látványosság We`a településen.",
+                  "text": "\"UNITE MIDNIMO\" feliratú nevezetesség A városában.",
                   "category": "landmark",
                   "coords": [
                         42.826968,
@@ -3237,7 +3237,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "letters",
-                  "text": "A(z) letters egy turisztikai látványosság We`a településen.",
+                  "text": "Betűszobor A városában.",
                   "category": "landmark",
                   "coords": [
                         42.828923,
@@ -3246,7 +3246,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "star",
-                  "text": "A(z) star egy turisztikai látványosság We`a településen.",
+                  "text": "Csillag alakú emlékmű A városában.",
                   "category": "landmark",
                   "coords": [
                         42.825806,
@@ -3255,7 +3255,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "LEGIO",
-                  "text": "A(z) LEGIO egy turisztikai látványosság We`a településen.",
+                  "text": "Római légióra utaló emlékmű A városában.",
                   "category": "landmark",
                   "coords": [
                         42.825691,
@@ -3264,7 +3264,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "FAD",
-                  "text": "A(z) FAD egy turisztikai látványosság We`a településen.",
+                  "text": "\"FAD\" nevű nevezetesség A városában.",
                   "category": "landmark",
                   "coords": [
                         42.824921,
@@ -3275,7 +3275,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kalâloho",
-                  "text": "Kalâloho este un vârf în We`a.",
+                  "text": "O stâncă de bazalt izolată în câmpia lui A.",
                   "category": "natural",
                   "coords": [
                         42.848056,
@@ -3284,7 +3284,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Ali Faḏên",
-                  "text": "‘Ali Faḏên este un vârf în We`a.",
+                  "text": "O înălțime asemănătoare unui mușuroi de termite lângă A.",
                   "category": "natural",
                   "coords": [
                         42.844167,
@@ -3293,7 +3293,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gaourir",
-                  "text": "Gaourir este un vârf în We`a.",
+                  "text": "Un albie uscată de râu cu salcâmi în zona A.",
                   "category": "natural",
                   "coords": [
                         42.821667,
@@ -3311,7 +3311,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Nostra",
-                  "text": "Nostra este o atracție turistică în We`a.",
+                  "text": "Reper numit \"Nostra\" în orașul A.",
                   "category": "landmark",
                   "coords": [
                         42.822124,
@@ -3320,7 +3320,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "UNITE MIDNIMO",
-                  "text": "UNITE MIDNIMO este o atracție turistică în We`a.",
+                  "text": "Reper cu inscripția \"UNITE MIDNIMO\" în orașul A.",
                   "category": "landmark",
                   "coords": [
                         42.826968,
@@ -3329,7 +3329,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "letters",
-                  "text": "letters este o atracție turistică în We`a.",
+                  "text": "Sculptură de litere în orașul A.",
                   "category": "landmark",
                   "coords": [
                         42.828923,
@@ -3338,7 +3338,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "star",
-                  "text": "star este o atracție turistică în We`a.",
+                  "text": "Monument în formă de stea în orașul A.",
                   "category": "landmark",
                   "coords": [
                         42.825806,
@@ -3347,7 +3347,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "LEGIO",
-                  "text": "LEGIO este o atracție turistică în We`a.",
+                  "text": "Monument care face referire la legiunea romană în orașul A.",
                   "category": "landmark",
                   "coords": [
                         42.825691,
@@ -3356,7 +3356,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "FAD",
-                  "text": "FAD este o atracție turistică în We`a.",
+                  "text": "Reper numit \"FAD\" în orașul A.",
                   "category": "landmark",
                   "coords": [
                         42.824921,
@@ -3367,7 +3367,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kalâloho",
-                  "text": "Kalâloho is a peak located in We`a.",
+                  "text": "An isolated basalt rock in the plain of A.",
                   "category": "natural",
                   "coords": [
                         42.848056,
@@ -3376,7 +3376,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "‘Ali Faḏên",
-                  "text": "‘Ali Faḏên is a peak located in We`a.",
+                  "text": "A termite-mound-like elevation near A.",
                   "category": "natural",
                   "coords": [
                         42.844167,
@@ -3385,7 +3385,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Gaourir",
-                  "text": "Gaourir is a peak located in We`a.",
+                  "text": "A dry riverbed with acacia trees in the A hinterland.",
                   "category": "natural",
                   "coords": [
                         42.821667,
@@ -3403,7 +3403,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Nostra",
-                  "text": "Nostra is a tourist attraction located in We`a.",
+                  "text": "Landmark called \"Nostra\" in the city of A.",
                   "category": "landmark",
                   "coords": [
                         42.822124,
@@ -3412,7 +3412,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "UNITE MIDNIMO",
-                  "text": "UNITE MIDNIMO is a tourist attraction located in We`a.",
+                  "text": "Landmark with the inscription \"UNITE MIDNIMO\" in the city of A.",
                   "category": "landmark",
                   "coords": [
                         42.826968,
@@ -3421,7 +3421,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "letters",
-                  "text": "letters is a tourist attraction located in We`a.",
+                  "text": "Sculpture of letters in the city of A.",
                   "category": "landmark",
                   "coords": [
                         42.828923,
@@ -3430,7 +3430,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "star",
-                  "text": "star is a tourist attraction located in We`a.",
+                  "text": "Star-shaped monument in the city of A.",
                   "category": "landmark",
                   "coords": [
                         42.825806,
@@ -3439,7 +3439,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "LEGIO",
-                  "text": "LEGIO is a tourist attraction located in We`a.",
+                  "text": "Monument referencing the Roman legion in the city of A.",
                   "category": "landmark",
                   "coords": [
                         42.825691,
@@ -3448,7 +3448,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "FAD",
-                  "text": "FAD is a tourist attraction located in We`a.",
+                  "text": "Landmark called \"FAD\" in the city of A.",
                   "category": "landmark",
                   "coords": [
                         42.824921,
@@ -3893,7 +3893,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Air Ops",
-                  "text": "Air Ops ist eine lokale Attraktion in der Stadt Negad.",
+                  "text": "Ehemaliges Luftoperationszentrum in Negad.",
                   "category": "landmark",
                   "coords": [
                         43.148235,
@@ -3902,7 +3902,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Air Djibouti",
-                  "text": "Air Djibouti ist ein Denkmal in Negad.",
+                  "text": "Ehemaliger Hauptsitz von Air Djibouti in Negad.",
                   "category": "historical",
                   "coords": [
                         43.146374,
@@ -3922,7 +3922,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Air Ops",
-                  "text": "Az Air Ops egy helyi látványosság Negad városában.",
+                  "text": "Egykori légiműveleti központ Negadban.",
                   "category": "landmark",
                   "coords": [
                         43.148235,
@@ -3931,7 +3931,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Air Djibouti",
-                  "text": "Az Air Djibouti egy műemlék Negadban.",
+                  "text": "Az Air Djibouti egykori központja Negadban.",
                   "category": "historical",
                   "coords": [
                         43.146374,
@@ -3951,7 +3951,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Air Ops",
-                  "text": "Air Ops este o atracție locală situată în orașul Negad.",
+                  "text": "Fost centru de operațiuni aeriene în Negad.",
                   "category": "landmark",
                   "coords": [
                         43.148235,
@@ -3960,7 +3960,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Air Djibouti",
-                  "text": "Air Djibouti este un monument situat în Negad.",
+                  "text": "Fostul sediu al Air Djibouti în Negad.",
                   "category": "historical",
                   "coords": [
                         43.146374,
@@ -3980,7 +3980,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Air Ops",
-                  "text": "Air Ops is a local attraction situated in the city of Negad.",
+                  "text": "Former air operations center in Negad.",
                   "category": "landmark",
                   "coords": [
                         43.148235,
@@ -3989,7 +3989,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Air Djibouti",
-                  "text": "Air Djibouti is a monument located in Negad.",
+                  "text": "Former headquarters of Air Djibouti in Negad.",
                   "category": "historical",
                   "coords": [
                         43.146374,
@@ -4058,7 +4058,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Goumbourta Déïdéï",
-                  "text": "Goumbourta Déïdéï ist ein Gipfel in Chabelley.",
+                  "text": "Eine tiefe Erosionsrinne in der Chabelley-Steppe.",
                   "category": "natural",
                   "coords": [
                         43.081389,
@@ -4067,7 +4067,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Hadle-Médou",
-                  "text": "Hadle-Médou ist ein Berggipfel in Chabelley.",
+                  "text": "Ein flacher Tümpel, der in der Regenzeit Wasser führt, bei Chabelley.",
                   "category": "natural",
                   "coords": [
                         43.083333,
@@ -4076,7 +4076,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Qorroto ‘As Madou",
-                  "text": "Qorroto ‘As Madou ist ein natürlicher Gipfel in Chabelley.",
+                  "text": "Eine vulkanische Tuffsteinformation in der Nähe von Chabelley.",
                   "category": "natural",
                   "coords": [
                         43.082222,
@@ -4087,7 +4087,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Goumbourta Déïdéï",
-                  "text": "A Goumbourta Déïdéï egy hegycsúcs Chabelley területén.",
+                  "text": "Mély eróziós árok a Chabelley-sztyeppén.",
                   "category": "natural",
                   "coords": [
                         43.081389,
@@ -4096,7 +4096,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Hadle-Médou",
-                  "text": "A Hadle-Médou egy hegycsúcs Chabelley területén.",
+                  "text": "Sekély pocsolya, amely az esős évszakban vizet tart, Chabelley mellett.",
                   "category": "natural",
                   "coords": [
                         43.083333,
@@ -4105,7 +4105,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Qorroto ‘As Madou",
-                  "text": "A Qorroto ‘As Madou egy természetes hegycsúcs Chabelley területén.",
+                  "text": "Vulkanikus tufaképződmény Chabelley közelében.",
                   "category": "natural",
                   "coords": [
                         43.082222,
@@ -4116,7 +4116,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Goumbourta Déïdéï",
-                  "text": "Goumbourta Déïdéï este un vârf montan situat în Chabelley.",
+                  "text": "O ravenă adâncă de eroziune în stepa Chabelley.",
                   "category": "natural",
                   "coords": [
                         43.081389,
@@ -4125,7 +4125,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Hadle-Médou",
-                  "text": "Hadle-Médou este un vârf montan situat în Chabelley.",
+                  "text": "O baltă superficială care reține apă în sezonul ploios, lângă Chabelley.",
                   "category": "natural",
                   "coords": [
                         43.083333,
@@ -4134,7 +4134,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Qorroto ‘As Madou",
-                  "text": "Qorroto ‘As Madou este un vârf natural situat în Chabelley.",
+                  "text": "O formațiune de tuf vulcanic lângă Chabelley.",
                   "category": "natural",
                   "coords": [
                         43.082222,
@@ -4145,7 +4145,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Goumbourta Déïdéï",
-                  "text": "Goumbourta Déïdéï is a peak found in Chabelley.",
+                  "text": "A deep erosion gully in the Chabelley steppe.",
                   "category": "natural",
                   "coords": [
                         43.081389,
@@ -4154,7 +4154,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Hadle-Médou",
-                  "text": "Hadle-Médou is a mountain peak located in Chabelley.",
+                  "text": "A shallow pool that holds water in the rainy season, near Chabelley.",
                   "category": "natural",
                   "coords": [
                         43.083333,
@@ -4163,7 +4163,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             },
             {
                   "name": "Qorroto ‘As Madou",
-                  "text": "Qorroto ‘As Madou is a natural peak situated in Chabelley.",
+                  "text": "A volcanic tuff formation near Chabelley.",
                   "category": "natural",
                   "coords": [
                         43.082222,

@@ -277,7 +277,7 @@ export const solomonislandsEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Reba Cabe",
-                  "text": "Reba Cabe ist eine Attraktion am Marktplatz von Auki.",
+                  "text": "Reba Cabe am Auki-Markt, ein Treffpunkt für Einheimische und Händler.",
                   "category": "landmark",
                   "coords": [
                         160.705998,
@@ -288,7 +288,7 @@ export const solomonislandsEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Reba Cabe",
-                  "text": "A Reba Cabe egy látványosság a Marktplatz von Auki területén.",
+                  "text": "Reba Cabe az auki piacon, a helyiek és kereskedők találkozóhelye.",
                   "category": "landmark",
                   "coords": [
                         160.705998,
@@ -299,7 +299,7 @@ export const solomonislandsEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Reba Cabe",
-                  "text": "Reba Cabe este o atracție turistică situată în Marktplatz von Auki.",
+                  "text": "Reba Cabe la piața din Auki, un punct de întâlnire pentru localnici și comercianți.",
                   "category": "landmark",
                   "coords": [
                         160.705998,
@@ -310,7 +310,7 @@ export const solomonislandsEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Reba Cabe",
-                  "text": "Reba Cabe is an attraction located in Marktplatz von Auki.",
+                  "text": "Reba Cabe at Auki Market, a meeting point for locals and traders.",
                   "category": "landmark",
                   "coords": [
                         160.705998,
@@ -547,7 +547,7 @@ export const solomonislandsEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Graciosa Bay (Nabakaenga)",
-                  "text": "Graciosa Bay (Nabakaenga) ist eine Bucht in Exportpunkt Lata.",
+                  "text": "Geschützte Bucht auf Nendo Island mit geschichtlichem Walfanghafen nahe Lata.",
                   "category": "landmark",
                   "coords": [
                         165.815258,
@@ -558,7 +558,7 @@ export const solomonislandsEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Graciosa Bay (Nabakaenga)",
-                  "text": "A Graciosa Bay (Nabakaenga) egy öböl Exportpunkt Lata területén.",
+                  "text": "Védett öböl Nendo szigetén, történelmi bálnavadász-kikötővel Lata közelében.",
                   "category": "landmark",
                   "coords": [
                         165.815258,
@@ -569,7 +569,7 @@ export const solomonislandsEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Graciosa Bay (Nabakaenga)",
-                  "text": "Graciosa Bay (Nabakaenga) este un golf situat în Exportpunkt Lata.",
+                  "text": "Golf adăpostit pe insula Nendo, cu un fost port de vânătoare de balene lângă Lata.",
                   "category": "landmark",
                   "coords": [
                         165.815258,
@@ -580,7 +580,7 @@ export const solomonislandsEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Graciosa Bay (Nabakaenga)",
-                  "text": "Graciosa Bay (Nabakaenga) is a bay located in Exportpunkt Lata.",
+                  "text": "Sheltered bay on Nendo Island, site of a former whaling station near Lata.",
                   "category": "landmark",
                   "coords": [
                         165.815258,

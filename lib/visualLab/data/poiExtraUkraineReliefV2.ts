@@ -52,7 +52,7 @@ export const ukraineReliefV2: POI[] = [
             },
             {
                   "name": "Dzembronia",
-                  "text": "Die Dzembronia ist ein markanter Berggipfel im Tschornohora-Massiv.",
+                  "text": "Die Dzembronia ist ein 1.877 m hoher Berg im Tschornohora-Kamm der Karpaten.",
                   "category": "landmark",
                   "coords": [
                         24.6054,
@@ -108,7 +108,7 @@ export const ukraineReliefV2: POI[] = [
             },
             {
                   "name": "Dzembronia",
-                  "text": "A Dzembronia a Csornohora-hegység egyik jellegzetes hegycsúcsa.",
+                  "text": "A Dzembronia egy 1877 m magas hegy a Csornohora-hegységben, a Kárpátokban.",
                   "category": "landmark",
                   "coords": [
                         24.6054,
@@ -164,7 +164,7 @@ export const ukraineReliefV2: POI[] = [
             },
             {
                   "name": "Dzembronia",
-                  "text": "Dzembronia este un vârf montan proeminent din masivul Ciornohora.",
+                  "text": "Dzembronia este un munte de 1.877 m în creasta Chornohora din Carpați.",
                   "category": "landmark",
                   "coords": [
                         24.6054,
@@ -220,7 +220,7 @@ export const ukraineReliefV2: POI[] = [
             },
             {
                   "name": "Dzembronia",
-                  "text": "Dzembronia is a prominent mountain peak in the Chornohora range.",
+                  "text": "Dzembronia is a 1,877 m mountain in the Chornohora ridge of the Carpathians.",
                   "category": "landmark",
                   "coords": [
                         24.6054,
@@ -1959,7 +1959,7 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
       "de": [
             {
                   "name": "Prirodnyi zapovednik <<Karadagskii>>",
-                  "text": "Ein bedeutendes Naturschutzgebiet im Karadag-Gebirgsmassiv.",
+                  "text": "Naturreservat Kardagakskiy: umfasst das vulkanische Karadag-Massiv mit seinen Küstenfelsen.",
                   "category": "natural",
                   "coords": [
                         35.220877,
@@ -2015,7 +2015,7 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
       "hu": [
             {
                   "name": "Prirodnyi zapovednik <<Karadagskii>>",
-                  "text": "Fontos természetvédelmi terület a Karadag-hegységben.",
+                  "text": "Kardagakskiy természetvédelmi terület: magában foglalja a Karadag vulkáni masszívumot és partszikláit.",
                   "category": "natural",
                   "coords": [
                         35.220877,
@@ -2071,7 +2071,7 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
       "ro": [
             {
                   "name": "Prirodnyi zapovednik <<Karadagskii>>",
-                  "text": "O rezervație naturală importantă în masivul Karadag.",
+                  "text": "Rezervația naturală Kardagakskiy: cuprinde masivul vulcanic Karadag și stâncile sale de coastă.",
                   "category": "natural",
                   "coords": [
                         35.220877,
@@ -2127,7 +2127,7 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
       "en": [
             {
                   "name": "Kardagakskiy nature reserve",
-                  "text": "An important nature reserve located in the Karadag massif.",
+                  "text": "Kardagakskiy nature reserve: encompassing the Karadag volcanic massif and its coastal cliffs.",
                   "category": "natural",
                   "coords": [
                         35.220877,
@@ -2430,7 +2430,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
             },
             {
                   "name": "Kinets' G'org'anu",
-                  "text": "Ein markanter Berggipfel im Gorganu-Massiv am Sywulja.",
+                  "text": "Der Kinets Gorganu ist ein 1.519 m hoher Gipfel in den Gorgany-Bergen der Karpaten.",
                   "category": "landmark",
                   "coords": [
                         24.083888,
@@ -2439,7 +2439,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
             },
             {
                   "name": "Samorobna laznia z pichkoiu-kam'iankoiu",
-                  "text": "Ein handgefertigtes öffentliches Bad am Berg Sywulja.",
+                  "text": "Samorobna laznia z pichkoiu-kam'iankoiu: eine traditionelle finnische Sauna (Laznia) mit einem Steinofen auf dem Berg Syvulia.",
                   "category": "recreational",
                   "coords": [
                         24.148832,
@@ -2513,7 +2513,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
             },
             {
                   "name": "Kinets' G'org'anu",
-                  "text": "Jellegzetes hegycsúcs a Szivulja-hegy közelében.",
+                  "text": "A Kinets Gorganu egy 1519 m magas csúcs a Gorgány-hegységben, a Kárpátokban.",
                   "category": "landmark",
                   "coords": [
                         24.083888,
@@ -2522,7 +2522,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
             },
             {
                   "name": "Samorobna laznia z pichkoiu-kam'iankoiu",
-                  "text": "Kézzel épített közfürdő a Szivulja-hegyen.",
+                  "text": "Samorobna laznia z pichkoiu-kam'iankoiu: hagyományos fatüzelésű szauna (laznia) kőkemencével a Szivulja-hegyen.",
                   "category": "recreational",
                   "coords": [
                         24.148832,
@@ -2596,7 +2596,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
             },
             {
                   "name": "Kinets' G'org'anu",
-                  "text": "Un vârf montan proeminent situat în apropierea muntelui Syvulia.",
+                  "text": "Kinets Gorganu este un vârf de 1.519 m în Munții Gorgany din Carpați.",
                   "category": "landmark",
                   "coords": [
                         24.083888,
@@ -2605,7 +2605,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
             },
             {
                   "name": "Samorobna laznia z pichkoiu-kam'iankoiu",
-                  "text": "O baie publică artizanală pe muntele Syvulia.",
+                  "text": "Samorobna laznia z pichkoiu-kam'iankoiu: o saună tradițională din lemn (laznia) cu sobă de piatră pe Muntele Syvulia.",
                   "category": "recreational",
                   "coords": [
                         24.148832,
@@ -2679,7 +2679,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
             },
             {
                   "name": "Kinets Gorganu",
-                  "text": "A prominent mountain peak located near Mount Syvulia.",
+                  "text": "Kinets Gorganu is a 1,519 m peak in the Gorgany range of the Carpathians.",
                   "category": "landmark",
                   "coords": [
                         24.083888,
@@ -2688,7 +2688,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
             },
             {
                   "name": "Samorobna laznia z pichkoiu-kam'iankoiu",
-                  "text": "A handmade public bath on Mount Syvulia.",
+                  "text": "Samorobna laznia z pichkoiu-kam'iankoiu: a traditional wooden sauna with a stone stove on Mount Syvulia.",
                   "category": "recreational",
                   "coords": [
                         24.148832,
@@ -2746,7 +2746,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
       "de": [
             {
                   "name": "Vorozhes'ke",
-                  "text": "Ein geschütztes Berggebiet mit einem Gletschersee.",
+                  "text": "Die Vorozheske ist ein 1.702 m hoher Berg im Swydowez-Massiv der Karpaten.",
                   "category": "natural",
                   "coords": [
                         24.192787,
@@ -2793,7 +2793,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
       "hu": [
             {
                   "name": "Vorozhes'ke",
-                  "text": "Védett hegyi terület egy gleccsertóval.",
+                  "text": "A Vorozseszka egy 1702 m magas hegy a Szvidovec-hegységben, a Kárpátokban.",
                   "category": "natural",
                   "coords": [
                         24.192787,
@@ -2840,7 +2840,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
       "ro": [
             {
                   "name": "Vorozhes'ke",
-                  "text": "O zonă montană protejată care include un lac glaciar.",
+                  "text": "Vorozheske este un munte de 1.702 m în masivul Svydoveț din Carpați.",
                   "category": "natural",
                   "coords": [
                         24.192787,
@@ -2887,7 +2887,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
       "en": [
             {
                   "name": "Vorozheske",
-                  "text": "A protected mountain area featuring a glacial lake.",
+                  "text": "Vorozheske is a 1,702 m mountain in the Svydovets massif of the Carpathians.",
                   "category": "natural",
                   "coords": [
                         24.192787,
@@ -4020,7 +4020,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Kraieznavchii muzei",
-                  "text": "Regionalmuseum in Iwano-Frankiwsk, das sich im historischen Rathaus befindet.",
+                  "text": "Regionalmuseum Iwano-Frankiwsk: Das Museum überblickt das Iwano-Frankiwsk-Plateau.",
                   "category": "museum",
                   "coords": [
                         24.710327,
@@ -4029,7 +4029,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Kazka",
-                  "text": "Freizeitpark in Iwano-Frankiwsk.",
+                  "text": "Kazka: ein märchenhaft gestalteter Erholungspark auf dem Iwano-Frankiwsk-Plateau.",
                   "category": "recreational",
                   "coords": [
                         24.745154,
@@ -4094,7 +4094,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Kraieznavchii muzei",
-                  "text": "Ivano-frankivszki regionális múzeum, amely a történelmi városháza épületében található.",
+                  "text": "Ivano-Frankivsk-i Regionális Múzeum: a múzeum a Ivano-Frankivsk-fennsíkra néz.",
                   "category": "museum",
                   "coords": [
                         24.710327,
@@ -4103,7 +4103,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Kazka",
-                  "text": "Vidámpark Ivano-Frankivszkban.",
+                  "text": "Kazka: egy mese tematikájú rekreációs park az Ivano-Frankivsk-fennsíkon.",
                   "category": "recreational",
                   "coords": [
                         24.745154,
@@ -4168,7 +4168,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Kraieznavchii muzei",
-                  "text": "Muzeul regional din Ivano-Frankivsk, situat în clădirea istorică a primăriei.",
+                  "text": "Muzeul Regional Ivano-Frankivsk: muzeul oferă vedere spre Podișul Ivano-Frankivsk.",
                   "category": "museum",
                   "coords": [
                         24.710327,
@@ -4177,7 +4177,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Kazka",
-                  "text": "Parc de distracții în Ivano-Frankivsk.",
+                  "text": "Kazka: un parc de agrement cu tematică basm pe Podișul Ivano-Frankivsk.",
                   "category": "recreational",
                   "coords": [
                         24.745154,
@@ -4242,7 +4242,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Ivano-Frankivsk Regional Museum",
-                  "text": "Regional museum in Ivano-Frankivsk, located in the historic City Hall building.",
+                  "text": "Ivano-Frankivsk Regional Museum: the museum overlooks the Ivano-Frankivsk Plateau.",
                   "category": "museum",
                   "coords": [
                         24.710327,
@@ -4251,7 +4251,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Kazka",
-                  "text": "Theme park in Ivano-Frankivsk.",
+                  "text": "Kazka: a fairy-tale-themed recreational park on the Ivano-Frankivsk Plateau.",
                   "category": "recreational",
                   "coords": [
                         24.745154,
@@ -4335,7 +4335,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Munchelik",
-                  "text": "Ein weiterer Gipfel in den Karpaten, der für Wanderer von Interesse ist.",
+                  "text": "Der Muntschelyk ist ein felsiger Gipfel auf dem Berg Tytow mit Panoramablick auf das Krimgebirge.",
                   "category": "landmark",
                   "coords": [
                         24.654739,
@@ -4364,7 +4364,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Munchelik",
-                  "text": "Újabb kárpáti hegycsúcs, amely a túrázók számára érdekes.",
+                  "text": "A Munchelyk egy sziklás csúcs a Titov-hegyen, panorámás kilátással a Krími-hegységre.",
                   "category": "landmark",
                   "coords": [
                         24.654739,
@@ -4393,7 +4393,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Munchelik",
-                  "text": "Un alt vârf din Carpați, de interes pentru drumeți.",
+                  "text": "Munchelyk este un vârf stâncos pe Muntele Tytov, cu vedere panoramică asupra Munților Crimeii.",
                   "category": "landmark",
                   "coords": [
                         24.654739,
@@ -4422,7 +4422,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Munchelyk",
-                  "text": "Another peak in the Carpathians of interest to hikers.",
+                  "text": "Munchelyk is a rocky peak on Mount Tytov with panoramic views of the Crimean Mountains.",
                   "category": "landmark",
                   "coords": [
                         24.654739,
@@ -4893,7 +4893,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Bukovel's'ki chani",
-                  "text": "Traditionelle Badebottiche am Berg Dowbuschanka.",
+                  "text": "Bukovel's'ki chani: Skipisten auf dem Berg Dovbushanka, Teil des Bukovel-Resorts.",
                   "category": "recreational",
                   "coords": [
                         24.409961,
@@ -4902,7 +4902,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Motuzkovii park",
-                  "text": "Ein Freizeitpark in der Region des Berges Dowbuschanka.",
+                  "text": "Motuzkovii park: ein Abenteuer-Seilpark auf dem Berg Dovbushanka.",
                   "category": "recreational",
                   "coords": [
                         24.406992,
@@ -4994,7 +4994,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Bukovel's'ki chani",
-                  "text": "Hagyományos fürdődézsák a Dovbusanka-hegyen.",
+                  "text": "Bukovel's'ki chani: sípályák a Dovbushanka-hegyen, a Bukovel üdülőhely része.",
                   "category": "recreational",
                   "coords": [
                         24.409961,
@@ -5003,7 +5003,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Motuzkovii park",
-                  "text": "Egy élménypark a Dovbusanka-hegy közelében.",
+                  "text": "Motuzkovii park: egy kalandos kötélpark a Dovbushanka-hegyen.",
                   "category": "recreational",
                   "coords": [
                         24.406992,
@@ -5095,7 +5095,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Bukovel's'ki chani",
-                  "text": "Băi tradiționale cu ciubere pe muntele Dovbushanka.",
+                  "text": "Bukovel's'ki chani: pârtii de schi pe Muntele Dovbushanka, parte a stațiunii Bukovel.",
                   "category": "recreational",
                   "coords": [
                         24.409961,
@@ -5104,7 +5104,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Motuzkovii park",
-                  "text": "Un parc de distracții situat în zona Muntelui Dovbușanka.",
+                  "text": "Motuzkovii park: un parc de aventură cu frânghii pe Muntele Dovbushanka.",
                   "category": "recreational",
                   "coords": [
                         24.406992,
@@ -5196,7 +5196,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Bukovel's'ki chani",
-                  "text": "Traditional bathing vats on Mount Dovbushanka.",
+                  "text": "Bukovel's'ki chani: ski slopes on Mount Dovbushanka, part of the Bukovel resort.",
                   "category": "recreational",
                   "coords": [
                         24.409961,
@@ -5205,7 +5205,7 @@ imageHint: "Rolling plateau of the Azov Upland",
             },
             {
                   "name": "Motuzkovii park",
-                  "text": "A theme park located in the Mount Dovbushanka area.",
+                  "text": "Motuzkovii park: an adventure rope park on Mount Dovbushanka.",
                   "category": "recreational",
                   "coords": [
                         24.406992,

@@ -405,7 +405,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Patio PD Teodoro Nvé Aconibe",
-                  "text": "Patio PD Teodoro Nvé Aconibe ist ein lokales Denkmal in Akonibe.",
+                  "text": "Ein historischer Innenhof in Aconibe, benannt nach Teodoro Nvé, genutzt für Gemeinschaftstreffen.",
                   "category": "historical",
                   "coords": [
                         10.949757,
@@ -416,7 +416,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Patio PD Teodoro Nvé Aconibe",
-                  "text": "A Patio PD Teodoro Nvé Aconibe egy helyi emlékmű Akonibe városában.",
+                  "text": "Történelmi belső udvar Aconibében, Teodoro Nvéről elnevezve, közösségi összejövetelekre használják.",
                   "category": "historical",
                   "coords": [
                         10.949757,
@@ -427,7 +427,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Patio PD Teodoro Nvé Aconibe",
-                  "text": "Patio PD Teodoro Nvé Aconibe este un monument local situat în Akonibe.",
+                  "text": "Un curte interioară istorică în Aconibe, numită după Teodoro Nvé, folosită pentru întruniri comunitare.",
                   "category": "historical",
                   "coords": [
                         10.949757,
@@ -438,7 +438,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Patio PD Teodoro Nvé Aconibe",
-                  "text": "Patio PD Teodoro Nvé Aconibe is a local monument situated in Akonibe.",
+                  "text": "A historic courtyard in Aconibe named after Teodoro Nvé, used for community gatherings.",
                   "category": "historical",
                   "coords": [
                         10.949757,
@@ -675,7 +675,88 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     }
   },
   {
-    id: "riaba-cities-v2", "sights": {"de": [{"name": "Riaba Beach", "text": "An der malerischen Küste Äquatorialguineas erwartet der Riaba Beach seine Gäste als natürliches Erholungsgebiet in der gleichnamigen Stadt. Diese friedliche Umgebung zieht vor allem Erholungssuchende an, die eine authentische und ruhige Atmosphäre schätzen. Besucher können hier unbeschwert schwimmen, am Ufer sonnenbaden oder ausgiebige Strandspaziergänge unternehmen. Ein früher Besuch sichert die entspanntesten Momente am Wasser.", "category": "recreational", "coords": [8.764862, 3.39111]}, {"name": "Faro de Riaba", "text": "Faro de Riaba ist ein Leuchtturm in der Stadt Riaba.", "category": "landmark", "coords": [8.765453, 3.392747]}], "hu": [{"name": "Riaba Beach", "text": "Egyenlítői-Guinea festői partvonalán a Riaba Beach természetes pihenőövezetként várja vendégeit az azonos nevű városban. Ez a békés környezet elsősorban a kikapcsolódásra vágyókat vonzza, akik értékelik a csendes, autentikus hangulatot. A látogatók nyugodtan úszhatnak, napozhatnak a parton, vagy hosszú sétákat tehetnek a tengerpart mentén. Érdemes korán érkezni, hogy a vízparti nyugalom legszebb pillanatait élvezhessük.", "category": "recreational", "coords": [8.764862, 3.39111]}, {"name": "Faro de Riaba", "text": "A Faro de Riaba egy világítótorony Riaba városában.", "category": "landmark", "coords": [8.765453, 3.392747]}], "ro": [{"name": "Riaba Beach", "text": "Pe coasta pitorească a Guineei Ecuatoriale, Riaba Beach își așteaptă oaspeții ca o zonă naturală de recreere în orașul cu același nume. Acest mediu liniștit atrage în special persoanele care caută relaxare și apreciază o atmosferă autentică. Vizitatorii pot înota, se pot bucura de soare pe mal sau pot face plimbări lungi pe plajă. O sosire matinală vă va asigura cele mai relaxante momente la malul apei.", "category": "recreational", "coords": [8.764862, 3.39111]}, {"name": "Faro de Riaba", "text": "Faro de Riaba este un far situat în orașul Riaba.", "category": "landmark", "coords": [8.765453, 3.392747]}], "en": [{"name": "Riaba Beach", "text": "Nestled on the scenic coast of Equatorial Guinea, Riaba Beach serves as a natural coastal recreation area within the town of Riaba. This peaceful setting naturally attracts those seeking a quiet, authentic seaside atmosphere. Visitors can look forward to refreshing swims, sunbathing on the shore, or taking extended walks along the water. Arriving early in the day guarantees the most tranquil moments by the sea.", "category": "recreational", "coords": [8.764862, 3.39111]}, {"name": "Faro de Riaba", "text": "Faro de Riaba is a lighthouse situated in the city of Riaba.", "category": "landmark", "coords": [8.765453, 3.392747]}]},
+    id: "riaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riaba Beach",
+                  "text": "An der malerischen Küste Äquatorialguineas erwartet der Riaba Beach seine Gäste als natürliches Erholungsgebiet in der gleichnamigen Stadt. Diese friedliche Umgebung zieht vor allem Erholungssuchende an, die eine authentische und ruhige Atmosphäre schätzen. Besucher können hier unbeschwert schwimmen, am Ufer sonnenbaden oder ausgiebige Strandspaziergänge unternehmen. Ein früher Besuch sichert die entspanntesten Momente am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        8.764862,
+                        3.39111
+                  ]
+            },
+            {
+                  "name": "Faro de Riaba",
+                  "text": "Ein Leuchtturm an der Küste von Riaba, der Schiffe in den Hafen lotst.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765453,
+                        3.392747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riaba Beach",
+                  "text": "Egyenlítői-Guinea festői partvonalán a Riaba Beach természetes pihenőövezetként várja vendégeit az azonos nevű városban. Ez a békés környezet elsősorban a kikapcsolódásra vágyókat vonzza, akik értékelik a csendes, autentikus hangulatot. A látogatók nyugodtan úszhatnak, napozhatnak a parton, vagy hosszú sétákat tehetnek a tengerpart mentén. Érdemes korán érkezni, hogy a vízparti nyugalom legszebb pillanatait élvezhessük.",
+                  "category": "recreational",
+                  "coords": [
+                        8.764862,
+                        3.39111
+                  ]
+            },
+            {
+                  "name": "Faro de Riaba",
+                  "text": "Világítótorony Riaba partján, amely a hajókat a kikötőbe vezeti.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765453,
+                        3.392747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riaba Beach",
+                  "text": "Pe coasta pitorească a Guineei Ecuatoriale, Riaba Beach își așteaptă oaspeții ca o zonă naturală de recreere în orașul cu același nume. Acest mediu liniștit atrage în special persoanele care caută relaxare și apreciază o atmosferă autentică. Vizitatorii pot înota, se pot bucura de soare pe mal sau pot face plimbări lungi pe plajă. O sosire matinală vă va asigura cele mai relaxante momente la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        8.764862,
+                        3.39111
+                  ]
+            },
+            {
+                  "name": "Faro de Riaba",
+                  "text": "Un far pe coasta Riabei, care ghidează navele în port.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765453,
+                        3.392747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riaba Beach",
+                  "text": "Nestled on the scenic coast of Equatorial Guinea, Riaba Beach serves as a natural coastal recreation area within the town of Riaba. This peaceful setting naturally attracts those seeking a quiet, authentic seaside atmosphere. Visitors can look forward to refreshing swims, sunbathing on the shore, or taking extended walks along the water. Arriving early in the day guarantees the most tranquil moments by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        8.764862,
+                        3.39111
+                  ]
+            },
+            {
+                  "name": "Faro de Riaba",
+                  "text": "A lighthouse on the coast of Riaba, guiding ships into the harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765453,
+                        3.392747
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GQ-BS",
     coords: [8.7619, 3.3811],
@@ -1135,7 +1216,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Palacio Presidencial",
-                  "text": "Palacio Presidencial ist ein bemerkenswertes schlossähnliches Gebäude in der Stadt Moca.",
+                  "text": "Ein historischer Palast in Moca, einst Residenz des Präsidenten.",
                   "category": "castle",
                   "coords": [
                         8.665149,
@@ -1144,7 +1225,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Vida Salvaje BBPP de Moka",
-                  "text": "Das Wildlife Centre BBPP of Moka ist ein Museum in der Stadt Moca.",
+                  "text": "Ein Wildtierschutzzentrum und Museum auf der Insel Bioko, das die Artenvielfalt zeigt.",
                   "category": "museum",
                   "coords": [
                         8.662154,
@@ -1164,7 +1245,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Palacio Presidencial",
-                  "text": "A Palacio Presidencial egy jelentős kastély jellegű épület Moca városában.",
+                  "text": "Történelmi palota Mocában, egykor az elnök rezidenciája.",
                   "category": "castle",
                   "coords": [
                         8.665149,
@@ -1173,7 +1254,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Vida Salvaje BBPP de Moka",
-                  "text": "A Wildlife Centre BBPP of Moka egy múzeum, amely Moca városában található.",
+                  "text": "Vadvédelmi központ és múzeum a Bioko-szigeten, a biológiai sokféleség bemutatásával.",
                   "category": "museum",
                   "coords": [
                         8.662154,
@@ -1193,7 +1274,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Palacio Presidencial",
-                  "text": "Palacio Presidencial este o clădire notabilă sub formă de castel, situată în orașul Moca.",
+                  "text": "Un palat istoric în Moca, odinioară reședința președintelui.",
                   "category": "castle",
                   "coords": [
                         8.665149,
@@ -1202,7 +1283,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Vida Salvaje BBPP de Moka",
-                  "text": "Wildlife Centre BBPP of Moka este un muzeu situat în orașul Moca.",
+                  "text": "Un centru de conservare a vieții sălbatice și muzeu pe insula Bioko, care prezintă biodiversitatea.",
                   "category": "museum",
                   "coords": [
                         8.662154,
@@ -1222,7 +1303,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Palacio Presidencial",
-                  "text": "Palacio Presidencial is a notable castle structure located in the city of Moca.",
+                  "text": "A historic palace in Moca, once the residence of the president.",
                   "category": "castle",
                   "coords": [
                         8.665149,
@@ -1231,7 +1312,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
             },
             {
                   "name": "Wildlife Centre BBPP of Moka",
-                  "text": "The Wildlife Centre BBPP of Moka is a museum located in the city of Moca.",
+                  "text": "A wildlife conservation centre and museum on Bioko Island, showcasing biodiversity.",
                   "category": "museum",
                   "coords": [
                         8.662154,

@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraPhilippinesLifeV2: POI[] = [
   {
-    id: "ph-calauit-safari-park-life-v2",
+    id: "ph-calauit-safari-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shallow water. Easy walk to the island",
+                  "text": "Diese Naturattraktion bietet seichtes Wasser, das Besuchern einen einfachen Spaziergang direkt zur nahe gelegenen Insel im Gebiet des Calauit Safari Parks ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        120.049108,
+                        12.228888
+                  ]
+            },
+            {
+                  "name": "Johnson island",
+                  "text": "Johnson Island ist eine vorgelagerte Attraktion in der Nähe des Calauit Safari Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        120.049068,
+                        12.232212
+                  ]
+            },
+            {
+                  "name": "JP's viewpoint",
+                  "text": "Der Aussichtspunkt JP's ist ein Beobachtungsort, der malerische Panoramen in der Region des Calauit Safari Parks bietet.",
+                  "category": "natural",
+                  "coords": [
+                        120.051262,
+                        12.231897
+                  ]
+            },
+            {
+                  "name": "Cashew Grove Beach Resort",
+                  "text": "Das Cashew Grove Beach Resort ist eine Küstenunterkunft in der Nähe der Tierwelt des Calauit Safari Parks.",
+                  "category": "recreational",
+                  "coords": [
+                        120.036191,
+                        12.234356
+                  ]
+            },
+            {
+                  "name": "Sunrise Beach",
+                  "text": "Sunrise Beach ist ein Sandstrand im Gebiet des Calauit Safari Parks, der für sein frühes Morgenlicht bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        120.089888,
+                        12.233449
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach bietet einen sandigen Küstenabschnitt in der Nähe des Calauit Safari Parks, der ideal für abendliche Ausblicke ist.",
+                  "category": "recreational",
+                  "coords": [
+                        120.088321,
+                        12.232882
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Hidden Beach ist ein abgelegener Küstenabschnitt in der Nähe des Calauit Safari Parks.",
+                  "category": "recreational",
+                  "coords": [
+                        120.089784,
+                        12.23479
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Diese christliche Iglesia ni Cristo Kirche befindet sich in der weiteren Region des Calauit Safari Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        120.019,
+                        12.240872
+                  ]
+            },
+            {
+                  "name": "born again",
+                  "text": "Dieser Versammlungsort der Born Again Christen dient den Gläubigen in der Nähe des Calauit Safari Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        120.018123,
+                        12.239324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shallow water. Easy walk to the island",
+                  "text": "Ez a természeti látványosság sekély vizű, amely lehetővé teszi a látogatók számára, hogy egyszerűen átsétáljanak a Calauit Szafaripark területén lévő közeli szigetre.",
+                  "category": "landmark",
+                  "coords": [
+                        120.049108,
+                        12.228888
+                  ]
+            },
+            {
+                  "name": "Johnson island",
+                  "text": "A Johnson-sziget egy tengeri látványosság, amely a Calauit Szafaripark közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        120.049068,
+                        12.232212
+                  ]
+            },
+            {
+                  "name": "JP's viewpoint",
+                  "text": "A JP kilátója egy megfigyelőhely, amely festői panorámát biztosít a Calauit Szafaripark régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        120.051262,
+                        12.231897
+                  ]
+            },
+            {
+                  "name": "Cashew Grove Beach Resort",
+                  "text": "A Cashew Grove Beach Resort egy tengerparti szálláshely, amely a Calauit Szafaripark vadvilágának közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        120.036191,
+                        12.234356
+                  ]
+            },
+            {
+                  "name": "Sunrise Beach",
+                  "text": "A Sunrise Beach egy homokos part a Calauit Szafaripark területén, amely kora reggeli fényeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        120.089888,
+                        12.233449
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "A Sunset Beach egy tengerparti homokos sáv a Calauit Szafaripark közelében, amely ideális az esti kilátáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        120.088321,
+                        12.232882
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "A Hidden Beach egy eldugott tengerparti hely a Calauit Szafaripark közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        120.089784,
+                        12.23479
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Ez a keresztény Iglesia ni Cristo templom a Calauit Szafaripark tágabb régiójában áll.",
+                  "category": "landmark",
+                  "coords": [
+                        120.019,
+                        12.240872
+                  ]
+            },
+            {
+                  "name": "born again",
+                  "text": "Ez a Born Again keresztény gyülekezeti hely a Calauit Szafaripark közelében lévő hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        120.018123,
+                        12.239324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shallow water. Easy walk to the island",
+                  "text": "Această atracție naturală prezintă ape puțin adânci care permit vizitatorilor o plimbare simplă direct către insula din apropiere, în zona Parcului Safari Calauit.",
+                  "category": "landmark",
+                  "coords": [
+                        120.049108,
+                        12.228888
+                  ]
+            },
+            {
+                  "name": "Johnson island",
+                  "text": "Insula Johnson este o atracție situată în larg, în vecinătatea Parcului Safari Calauit.",
+                  "category": "landmark",
+                  "coords": [
+                        120.049068,
+                        12.232212
+                  ]
+            },
+            {
+                  "name": "JP's viewpoint",
+                  "text": "Punctul de belvedere JP este un loc de observație care oferă panorame pitorești în regiunea Parcului Safari Calauit.",
+                  "category": "natural",
+                  "coords": [
+                        120.051262,
+                        12.231897
+                  ]
+            },
+            {
+                  "name": "Cashew Grove Beach Resort",
+                  "text": "Cashew Grove Beach Resort este o unitate de cazare de pe coastă situată aproape de fauna sălbatică a Parcului Safari Calauit.",
+                  "category": "recreational",
+                  "coords": [
+                        120.036191,
+                        12.234356
+                  ]
+            },
+            {
+                  "name": "Sunrise Beach",
+                  "text": "Sunrise Beach este un țărm nisipos din zona Parcului Safari Calauit, cunoscut pentru lumina dimineții timpurii.",
+                  "category": "recreational",
+                  "coords": [
+                        120.089888,
+                        12.233449
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach oferă o fâșie nisipoasă de coastă lângă Parcul Safari Calauit, ideală pentru priveliști de seară.",
+                  "category": "recreational",
+                  "coords": [
+                        120.088321,
+                        12.232882
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Hidden Beach este un loc retras de coastă, ascuns în vecinătatea Parcului Safari Calauit.",
+                  "category": "recreational",
+                  "coords": [
+                        120.089784,
+                        12.23479
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Această biserică creștină Iglesia ni Cristo se află în regiunea mai largă a Parcului Safari Calauit.",
+                  "category": "landmark",
+                  "coords": [
+                        120.019,
+                        12.240872
+                  ]
+            },
+            {
+                  "name": "born again",
+                  "text": "Acest loc de adunare creștin Born Again servește credincioșilor din apropierea Parcului Safari Calauit.",
+                  "category": "landmark",
+                  "coords": [
+                        120.018123,
+                        12.239324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shallow water. Easy walk to the island",
+                  "text": "This natural attraction features shallow waters that allow visitors a simple walk directly to the nearby island in the Calauit Safari Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        120.049108,
+                        12.228888
+                  ]
+            },
+            {
+                  "name": "Johnson island",
+                  "text": "Johnson Island is an offshore attraction located in the vicinity of the Calauit Safari Park.",
+                  "category": "landmark",
+                  "coords": [
+                        120.049068,
+                        12.232212
+                  ]
+            },
+            {
+                  "name": "JP's viewpoint",
+                  "text": "JP's viewpoint is an observation spot providing scenic panoramas in the Calauit Safari Park region.",
+                  "category": "natural",
+                  "coords": [
+                        120.051262,
+                        12.231897
+                  ]
+            },
+            {
+                  "name": "Cashew Grove Beach Resort",
+                  "text": "Cashew Grove Beach Resort is a coastal accommodation located near the wildlife of the Calauit Safari Park.",
+                  "category": "recreational",
+                  "coords": [
+                        120.036191,
+                        12.234356
+                  ]
+            },
+            {
+                  "name": "Sunrise Beach",
+                  "text": "Sunrise Beach is a sandy shoreline in the Calauit Safari Park area known for its early morning light.",
+                  "category": "recreational",
+                  "coords": [
+                        120.089888,
+                        12.233449
+                  ]
+            },
+            {
+                  "name": "Sunset Beach",
+                  "text": "Sunset Beach offers a coastal sandy stretch near the Calauit Safari Park, ideal for evening views.",
+                  "category": "recreational",
+                  "coords": [
+                        120.088321,
+                        12.232882
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Hidden Beach is a secluded coastal spot tucked away in the vicinity of the Calauit Safari Park.",
+                  "category": "recreational",
+                  "coords": [
+                        120.089784,
+                        12.23479
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "This Christian Iglesia ni Cristo church stands within the wider region of the Calauit Safari Park.",
+                  "category": "landmark",
+                  "coords": [
+                        120.019,
+                        12.240872
+                  ]
+            },
+            {
+                  "name": "born again",
+                  "text": "This Born Again Christian gathering place serves worshippers near the Calauit Safari Park.",
+                  "category": "landmark",
+                  "coords": [
+                        120.018123,
+                        12.239324
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "PH-PLW",
     coords: [120.0820, 12.2858],
@@ -56,7 +389,844 @@ export const poiExtraPhilippinesLifeV2: POI[] = [
     
   },
   {
-    id: "ph-philippine-tarsier-sanctuary-life-v2",
+    id: "ph-philippine-tarsier-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abatan River Community Life Tour",
+                  "text": "Diese kulturelle Bootsfahrt gleitet einen gewundenen Mangroven-Wasserweg hinunter und bietet einen tiefen Einblick in traditionelle Flussdörfer und lokale Handwerkskunst.",
+                  "category": "landmark",
+                  "coords": [
+                        123.873828,
+                        9.725663
+                  ]
+            },
+            {
+                  "name": "Maribojoc Mangrove Firefly",
+                  "text": "Im Schutz der Nacht können Besucher hier eine ruhige Bootsfahrt unternehmen, um Tausende von Glühwürmchen zu beobachten, die die dichten Mangrovenbäume beleuchten.",
+                  "category": "landmark",
+                  "coords": [
+                        123.877049,
+                        9.729529
+                  ]
+            },
+            {
+                  "name": "Philippine Tarsier Sanctuary",
+                  "text": "Dieses als geschütztes Waldgebiet fungierende Naturschutzzentrum widmet sich streng dem Erhalt eines der kleinsten und empfindlichsten Primaten der Welt.",
+                  "category": "recreational",
+                  "coords": [
+                        123.952555,
+                        9.691528
+                  ]
+            },
+            {
+                  "name": "Bilal Pass",
+                  "text": "Dieser malerische Gebirgspass, der an einer erhöhten Straße liegt, bietet weitreichende Panoramablicke auf die üppige, sanft hügelige Landschaft von Bohol.",
+                  "category": "natural",
+                  "coords": [
+                        123.957985,
+                        9.699749
+                  ]
+            },
+            {
+                  "name": "Sikatuna's Mirror of the World",
+                  "text": "Dieser weitläufige botanische Park erfreut Besucher mit seinen akribisch verkleinerten Nachbildungen berühmter Weltmonumente wie dem Eiffelturm und der Christusstatue.",
+                  "category": "landmark",
+                  "coords": [
+                        123.975237,
+                        9.670286
+                  ]
+            },
+            {
+                  "name": "Bohol Island",
+                  "text": "Weltbekannt für ihre einzigartigen geologischen Chocolate Hills, bietet diese große tropische Insel auch äußerst vielfältige Meeresökosysteme an ihren Küsten.",
+                  "category": "landmark",
+                  "coords": [
+                        124.041813,
+                        9.731608
+                  ]
+            },
+            {
+                  "name": "Old Municipal Hall",
+                  "text": "Dieses ehemalige Verwaltungsgebäude in der Nähe des Schutzgebietes dient heute als kulturhistorisches Museum der Region.",
+                  "category": "museum",
+                  "coords": [
+                        123.971814,
+                        9.754946
+                  ]
+            },
+            {
+                  "name": "Bat Cave",
+                  "text": "Diese natürliche Höhle in der Nähe des Schutzgebiets bietet Besuchern die Möglichkeit, Fledermauskolonien in ihrem unterirdischen Lebensraum zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        124.017901,
+                        9.657838
+                  ]
+            },
+            {
+                  "name": "Loboc Zipline & Cable Ride",
+                  "text": "Diese hoch über dem malerischen Loboc-Fluss schwebende Abenteuerattraktion bietet eine rasante Fahrt durch die Baumkronen des Tropenwaldes.",
+                  "category": "landmark",
+                  "coords": [
+                        124.024751,
+                        9.656265
+                  ]
+            },
+            {
+                  "name": "Zoocolate Thrills",
+                  "text": "Dieser lokale Themenpark bietet neben familienfreundlichen Fahrgeschäften auch kleine Tiergehege und interaktive tropische Ausstellungen.",
+                  "category": "recreational",
+                  "coords": [
+                        124.026901,
+                        9.654978
+                  ]
+            },
+            {
+                  "name": "Abatan Community Life Tour",
+                  "text": "Geführte Flussbootstouren entlang des Abatan-Flusses zeigen das traditionelle Dorfleben und die lokalen Mangroven-Ökosysteme.",
+                  "category": "landmark",
+                  "coords": [
+                        123.874143,
+                        9.714632
+                  ]
+            },
+            {
+                  "name": "Sikatina Illusions Station",
+                  "text": "Diese verspielte Galerie in der Nähe des Koboldmaki-Schutzgebiets ist voll von perspektivischen Täuschungen und farbenfrohen interaktiven 3D-Kunstinstallationen.",
+                  "category": "landmark",
+                  "coords": [
+                        123.958029,
+                        9.686768
+                  ]
+            },
+            {
+                  "name": "birhen sa panabang",
+                  "text": "Dieser bescheidene christliche Schrein dient den lokalen Gläubigen als ruhiger, der Jungfrau der Hilfe geweihter Ort der Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        123.885489,
+                        9.709996
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Dieser Königreichssaal zeichnet sich durch seinen schlichten architektonischen Stil aus und dient als lokales Zentrum für Zusammenkünfte und Bibelstudien der Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        123.936748,
+                        9.713729
+                  ]
+            },
+            {
+                  "name": "Panon sa 12 ka Banay",
+                  "text": "Diese besondere christliche Gemeinde versammelt sich in einem bescheidenen Gemeinschaftsgebäude, das der religiösen Bewegung „Herde der 12 Stämme“ gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        123.995541,
+                        9.736109
+                  ]
+            },
+            {
+                  "name": "St. Anthony of Padua Parish Church",
+                  "text": "Eine robuste katholische Pfarrkirche vor Ort, die als spiritueller Anker für die Gemeinde dient und dem Heiligen Antonius von Padua geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        123.974342,
+                        9.689191
+                  ]
+            },
+            {
+                  "name": "Calunasan Norte Chapel",
+                  "text": "Eingebettet in ihr Barangay hält diese malerische Dorfkapelle regelmäßige christliche Messen für die nahegelegene Bauerngemeinde ab.",
+                  "category": "landmark",
+                  "coords": [
+                        124.007308,
+                        9.642232
+                  ]
+            },
+            {
+                  "name": "Kingdon Hall of Jeovah's Witnesses",
+                  "text": "Dieses schlichte Gotteshaus dient der örtlichen Gemeinde der Zeugen Jehovas mit seinem typisch ungeschmückten Versammlungssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        124.028836,
+                        9.642206
+                  ]
+            },
+            {
+                  "name": "Busao Catholic Church",
+                  "text": "Im Herzen des Dorfes Busao gelegen, bietet diese katholische Kirche einen geräumigen Saal für den Sonntagsgottesdienst und religiöse Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        123.90274,
+                        9.746323
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Village Parish",
+                  "text": "Diese einladende Pfarrkirche, die für die unmittelbare Nachbarschaft erbaut wurde, konzentriert ihre Andacht auf den marianischen Titel „Unsere Liebe Frau vom Dorf“.",
+                  "category": "landmark",
+                  "coords": [
+                        123.921213,
+                        9.688388
+                  ]
+            },
+            {
+                  "name": "Sr. Santo Niño Chapel",
+                  "text": "Eine bescheidene christliche Kapelle, die von den Einheimischen häufig aufgesucht wird, um das Heilige Kind (Santo Niño) durch Gebete und Kerzenopfer zu ehren.",
+                  "category": "landmark",
+                  "coords": [
+                        124.033953,
+                        9.669143
+                  ]
+            },
+            {
+                  "name": "March of Faith Christian Church",
+                  "text": "Diese Kirche ist eine unabhängige christliche Gemeinschaft und versammelt ihre Gemeinde zu lebendigen Gottesdiensten und sozialen Programmen.",
+                  "category": "landmark",
+                  "coords": [
+                        124.002882,
+                        9.772902
+                  ]
+            },
+            {
+                  "name": "Cortes Public Market",
+                  "text": "Dieser belebte lokale Markt im Zentrum der Gemeinde bietet Stände, die überquellen vor frischen tropischen Früchten, Gemüse und Dingen des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        123.878555,
+                        9.720692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abatan River Community Life Tour",
+                  "text": "Ez a kulturális hajóút egy kanyargós mangrove-vízi úton halad lefelé, elmélyült bepillantást nyújtva a hagyományos folyóparti falvakba és a helyi kézművességbe.",
+                  "category": "landmark",
+                  "coords": [
+                        123.873828,
+                        9.725663
+                  ]
+            },
+            {
+                  "name": "Maribojoc Mangrove Firefly",
+                  "text": "Az éj leple alatt a látogatók egy csendes csónakázáson vehetnek részt, hogy tanúi legyenek, amint szentjánosbogarak ezrei világítják meg a sűrű mangrovefákat.",
+                  "category": "landmark",
+                  "coords": [
+                        123.877049,
+                        9.729529
+                  ]
+            },
+            {
+                  "name": "Philippine Tarsier Sanctuary",
+                  "text": "Védett erdei környezetként működő természetvédelmi központ, amely szigorúan a világ egyik legkisebb és legérzékenyebb főemlősének megőrzésének van szentelve.",
+                  "category": "recreational",
+                  "coords": [
+                        123.952555,
+                        9.691528
+                  ]
+            },
+            {
+                  "name": "Bilal Pass",
+                  "text": "A magaslati út mentén fekvő festői hegyi hágóról lenyűgöző panoráma nyílik a buja, dombos Boholano tájra.",
+                  "category": "natural",
+                  "coords": [
+                        123.957985,
+                        9.699749
+                  ]
+            },
+            {
+                  "name": "Sikatuna's Mirror of the World",
+                  "text": "Ez a kiterjedt botanikus park a világ híres műemlékeinek, mint például az Eiffel-torony és a Megváltó Krisztus szobrának aprólékosan kicsinyített másolataival gyönyörködteti a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        123.975237,
+                        9.670286
+                  ]
+            },
+            {
+                  "name": "Bohol Island",
+                  "text": "Az egyedülálló geológiai Csokoládé-dombjairól világszerte híres nagy trópusi sziget partjai mentén rendkívül változatos tengeri ökoszisztémákkal is büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        124.041813,
+                        9.731608
+                  ]
+            },
+            {
+                  "name": "Old Municipal Hall",
+                  "text": "A rezervátum közelében található egykori önkormányzati épület ma a régió történelmi emlékeit bemutató múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        123.971814,
+                        9.754946
+                  ]
+            },
+            {
+                  "name": "Bat Cave",
+                  "text": "Ez a rezervátumhoz közeli természetes barlang lehetőséget kínál a látogatóknak, hogy sötét, földalatti élőhelyükön figyeljék meg a denevérkolóniákat.",
+                  "category": "landmark",
+                  "coords": [
+                        124.017901,
+                        9.657838
+                  ]
+            },
+            {
+                  "name": "Loboc Zipline & Cable Ride",
+                  "text": "A festői Loboc-folyó felett magasan átívelő kalandpark izgalmas légi utazást kínál a trópusi erdő lombkoronája felett.",
+                  "category": "landmark",
+                  "coords": [
+                        124.024751,
+                        9.656265
+                  ]
+            },
+            {
+                  "name": "Zoocolate Thrills",
+                  "text": "Ez a helyi vidámpark a családbarát attrakciók mellett kisebb állatkerti részleggel és interaktív trópusi kiállításokkal is várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        124.026901,
+                        9.654978
+                  ]
+            },
+            {
+                  "name": "Abatan Community Life Tour",
+                  "text": "Az Abatan-folyón vezetett hajótúrák bemutatják a hagyományos falusi életmódot és a helyi mangrove-ökoszisztémákat.",
+                  "category": "landmark",
+                  "coords": [
+                        123.874143,
+                        9.714632
+                  ]
+            },
+            {
+                  "name": "Sikatina Illusions Station",
+                  "text": "A koboldmaki rezervátum közelében található játékos galéria tele van perspektivikus trükkökkel és színes, interaktív 3D-s művészeti installációkkal.",
+                  "category": "landmark",
+                  "coords": [
+                        123.958029,
+                        9.686768
+                  ]
+            },
+            {
+                  "name": "birhen sa panabang",
+                  "text": "Ez a szerény keresztény szentély a helyi hívek számára a Segítő Szűz Máriának szentelt csendes áhítat helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        123.885489,
+                        9.709996
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A kifejezetten egyszerű építészeti stílusú Királyság-terem a Jehova Tanúi helyi összejöveteleinek és bibliatanulmányozásainak központja.",
+                  "category": "landmark",
+                  "coords": [
+                        123.936748,
+                        9.713729
+                  ]
+            },
+            {
+                  "name": "Panon sa 12 ka Banay",
+                  "text": "Ez a különleges keresztény gyülekezet egy szerény közösségi épületben gyűlik össze, amelyet a „12 Törzs Nyája” vallási mozgalomnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        123.995541,
+                        9.736109
+                  ]
+            },
+            {
+                  "name": "St. Anthony of Padua Parish Church",
+                  "text": "Egy robusztus helyi katolikus plébániatemplom, amely a közösség spirituális horgonyaként szolgál, Páduai Szent Antalnak szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        123.974342,
+                        9.689191
+                  ]
+            },
+            {
+                  "name": "Calunasan Norte Chapel",
+                  "text": "A barangayban megbúvó festői falusi kápolna rendszeres keresztény miséket tart a közeli mezőgazdasági közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        124.007308,
+                        9.642232
+                  ]
+            },
+            {
+                  "name": "Kingdon Hall of Jeovah's Witnesses",
+                  "text": "Ez az egyszerű istentiszteleti hely a Jehova Tanúi helyi gyülekezetét szolgálja ki jellegzetesen dísztelen gyülekezeti termével.",
+                  "category": "landmark",
+                  "coords": [
+                        124.028836,
+                        9.642206
+                  ]
+            },
+            {
+                  "name": "Busao Catholic Church",
+                  "text": "A Busao falu szívében található katolikus templom tágas termet biztosít a vasárnapi istentiszteletek és vallási ünnepek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        123.90274,
+                        9.746323
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Village Parish",
+                  "text": "Ez a közvetlen környéket kiszolgáló barátságos plébániatemplom a Falusi Miasszonyunk Mária-titulus köré összpontosítja tiszteletét.",
+                  "category": "landmark",
+                  "coords": [
+                        123.921213,
+                        9.688388
+                  ]
+            },
+            {
+                  "name": "Sr. Santo Niño Chapel",
+                  "text": "Egy szerény keresztény kápolna, amelyet a helyiek gyakran látogatnak, hogy imákkal és gyertyafelajánlásokkal tiszteljék a Szent Gyermeket (Santo Niño).",
+                  "category": "landmark",
+                  "coords": [
+                        124.033953,
+                        9.669143
+                  ]
+            },
+            {
+                  "name": "March of Faith Christian Church",
+                  "text": "Ez a független keresztény közösségként működő templom lelkes dicsőítésre és közösségi programokra gyűjti össze gyülekezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        124.002882,
+                        9.772902
+                  ]
+            },
+            {
+                  "name": "Cortes Public Market",
+                  "text": "A település központjában található nyüzsgő helyi piacon friss trópusi gyümölcsöktől, zöldségektől és napi szükségleti cikkektől roskadozó standok várják a vásárlókat.",
+                  "category": "cultural",
+                  "coords": [
+                        123.878555,
+                        9.720692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abatan River Community Life Tour",
+                  "text": "Această călătorie culturală cu barca alunecă pe o cale navigabilă șerpuită printre mangrove, oferind o privire captivantă asupra satelor tradiționale de pe malul râului și a măiestriei locale.",
+                  "category": "landmark",
+                  "coords": [
+                        123.873828,
+                        9.725663
+                  ]
+            },
+            {
+                  "name": "Maribojoc Mangrove Firefly",
+                  "text": "La adăpostul nopții, vizitatorii pot face o plimbare liniștită cu barca aici pentru a asista la mii de licurici care iluminează copacii deși de mangrove.",
+                  "category": "landmark",
+                  "coords": [
+                        123.877049,
+                        9.729529
+                  ]
+            },
+            {
+                  "name": "Philippine Tarsier Sanctuary",
+                  "text": "Funcționând ca un mediu forestier protejat, acest centru de conservare este dedicat strict conservării uneia dintre cele mai mici și mai sensibile primate din lume.",
+                  "category": "recreational",
+                  "coords": [
+                        123.952555,
+                        9.691528
+                  ]
+            },
+            {
+                  "name": "Bilal Pass",
+                  "text": "Amplasată de-a lungul unui drum înălțat, această trecătoare montană pitorească oferă panorame vaste ale peisajului luxuriant și deluros din Bohol.",
+                  "category": "natural",
+                  "coords": [
+                        123.957985,
+                        9.699749
+                  ]
+            },
+            {
+                  "name": "Sikatuna's Mirror of the World",
+                  "text": "Acest parc botanic întins încântă vizitatorii cu replicile sale meticulos micșorate ale unor monumente globale celebre, precum Turnul Eiffel și Hristos Mântuitorul.",
+                  "category": "landmark",
+                  "coords": [
+                        123.975237,
+                        9.670286
+                  ]
+            },
+            {
+                  "name": "Bohol Island",
+                  "text": "Renumită la nivel global pentru faimoasele sale Dealuri de Ciocolată cu structură geologică unică, această mare insulă tropicală se mândrește, de asemenea, cu ecosisteme marine extrem de diverse de-a lungul țărmurilor sale.",
+                  "category": "landmark",
+                  "coords": [
+                        124.041813,
+                        9.731608
+                  ]
+            },
+            {
+                  "name": "Old Municipal Hall",
+                  "text": "Această fostă clădire administrativă din apropierea sanctuarului servește acum ca muzeu cultural cu artefacte istorice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        123.971814,
+                        9.754946
+                  ]
+            },
+            {
+                  "name": "Bat Cave",
+                  "text": "Această cavernă naturală de lângă sanctuar oferă vizitatorilor șansa de a observa coloniile de lilieci în habitatul lor subteran întunecat.",
+                  "category": "landmark",
+                  "coords": [
+                        124.017901,
+                        9.657838
+                  ]
+            },
+            {
+                  "name": "Loboc Zipline & Cable Ride",
+                  "text": "Suspendată la mare înălțime deasupra pitorescului râu Loboc, această atracție de aventură oferă o plimbare aeriană palpitantă prin coronamentul pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        124.024751,
+                        9.656265
+                  ]
+            },
+            {
+                  "name": "Zoocolate Thrills",
+                  "text": "Acest parc tematic local include o mică grădină zoologică, alături de atracții pentru familii și expoziții tropicale interactive.",
+                  "category": "recreational",
+                  "coords": [
+                        124.026901,
+                        9.654978
+                  ]
+            },
+            {
+                  "name": "Abatan Community Life Tour",
+                  "text": "Tururile ghidate cu barca de-a lungul râului Abatan prezintă stilul de viață tradițional al satului și ecosistemele locale de mangrove.",
+                  "category": "landmark",
+                  "coords": [
+                        123.874143,
+                        9.714632
+                  ]
+            },
+            {
+                  "name": "Sikatina Illusions Station",
+                  "text": "Această galerie jucăușă din apropierea sanctuarului tarsierilor este plină de iluzii vizuale de perspectivă și instalații de artă 3D interactive și colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        123.958029,
+                        9.686768
+                  ]
+            },
+            {
+                  "name": "birhen sa panabang",
+                  "text": "Acest sanctuar creștin modest servește credincioșilor locali ca un loc liniștit de devotament dedicat Fecioarei Ajutorului.",
+                  "category": "landmark",
+                  "coords": [
+                        123.885489,
+                        9.709996
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Având un stil arhitectural distinct de simplu, această Sală a Regatului funcționează ca un centru local pentru întrunirile și studiul biblic al Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        123.936748,
+                        9.713729
+                  ]
+            },
+            {
+                  "name": "Panon sa 12 ka Banay",
+                  "text": "Această congregație creștină specializată se adună într-o clădire comunitară umilă, dedicată mișcării religioase „Turma celor 12 Triburi”.",
+                  "category": "landmark",
+                  "coords": [
+                        123.995541,
+                        9.736109
+                  ]
+            },
+            {
+                  "name": "St. Anthony of Padua Parish Church",
+                  "text": "O biserică parohială catolică locală robustă, care se înalță ca o ancoră spirituală pentru comunitate, dedicată Sfântului Anton de Padova.",
+                  "category": "landmark",
+                  "coords": [
+                        123.974342,
+                        9.689191
+                  ]
+            },
+            {
+                  "name": "Calunasan Norte Chapel",
+                  "text": "Amplasată în barangay-ul său, această capelă de sat pitorească ține liturghii creștine regulate pentru comunitatea agricolă din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        124.007308,
+                        9.642232
+                  ]
+            },
+            {
+                  "name": "Kingdon Hall of Jeovah's Witnesses",
+                  "text": "Acest lăcaș de cult simplu servește congregația locală a Martorilor lui Iehova, având un interior tipic neornamentat al sălii de ședințe.",
+                  "category": "landmark",
+                  "coords": [
+                        124.028836,
+                        9.642206
+                  ]
+            },
+            {
+                  "name": "Busao Catholic Church",
+                  "text": "Situată în inima satului Busao, această biserică catolică oferă o sală spațioasă pentru slujbele de duminică și sărbătorile religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        123.90274,
+                        9.746323
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Village Parish",
+                  "text": "Această biserică parohială primitoare, construită pentru a servi cartierul imediat, își centrează devotamentul în jurul titlului marian de Sfânta Fecioară a Satului.",
+                  "category": "landmark",
+                  "coords": [
+                        123.921213,
+                        9.688388
+                  ]
+            },
+            {
+                  "name": "Sr. Santo Niño Chapel",
+                  "text": "O capelă creștină modestă vizitată frecvent de localnici pentru a onora Pruncul Sfânt (Santo Niño) prin rugăciuni și ofrande de lumânări.",
+                  "category": "landmark",
+                  "coords": [
+                        124.033953,
+                        9.669143
+                  ]
+            },
+            {
+                  "name": "March of Faith Christian Church",
+                  "text": "Funcționând ca o părtășie creștină independentă, această biserică își adună congregația pentru slujbe pline de spirit și programe de asistență comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        124.002882,
+                        9.772902
+                  ]
+            },
+            {
+                  "name": "Cortes Public Market",
+                  "text": "Situat în centrul municipal, acest piață locală plină de viață oferă tarabe pline de fructe tropicale proaspete, legume și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        123.878555,
+                        9.720692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abatan River Community Life Tour",
+                  "text": "This cultural boat journey glides down a winding mangrove waterway, offering an immersive look into traditional riverside villages and local craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        123.873828,
+                        9.725663
+                  ]
+            },
+            {
+                  "name": "Maribojoc Mangrove Firefly",
+                  "text": "Under the cover of night, visitors can take a quiet boat ride here to witness thousands of fireflies illuminating the dense mangrove trees.",
+                  "category": "landmark",
+                  "coords": [
+                        123.877049,
+                        9.729529
+                  ]
+            },
+            {
+                  "name": "Philippine Tarsier Sanctuary",
+                  "text": "Operating as a protected forest environment, this conservation center is strictly dedicated to preserving one of the world's smallest and most sensitive primates.",
+                  "category": "recreational",
+                  "coords": [
+                        123.952555,
+                        9.691528
+                  ]
+            },
+            {
+                  "name": "Bilal Pass",
+                  "text": "Perched along an elevated roadside, this scenic mountain pass offers sweeping panoramas of the lush, rolling Boholano landscape.",
+                  "category": "natural",
+                  "coords": [
+                        123.957985,
+                        9.699749
+                  ]
+            },
+            {
+                  "name": "Sikatuna's Mirror of the World",
+                  "text": "This sprawling botanical park delights visitors with its meticulously scaled-down replicas of famous global monuments like the Eiffel Tower and Christ the Redeemer.",
+                  "category": "landmark",
+                  "coords": [
+                        123.975237,
+                        9.670286
+                  ]
+            },
+            {
+                  "name": "Bohol Island",
+                  "text": "Globally famous for its unique geological Chocolate Hills, this large tropical island also boasts highly diverse marine ecosystems along its shores.",
+                  "category": "landmark",
+                  "coords": [
+                        124.041813,
+                        9.731608
+                  ]
+            },
+            {
+                  "name": "Old Municipal Hall",
+                  "text": "This former local government building near the sanctuary now serves as a cultural museum displaying regional historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        123.971814,
+                        9.754946
+                  ]
+            },
+            {
+                  "name": "Bat Cave",
+                  "text": "This natural cavern near the sanctuary offers visitors a chance to observe roosting bat colonies in their dark subterranean habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        124.017901,
+                        9.657838
+                  ]
+            },
+            {
+                  "name": "Loboc Zipline & Cable Ride",
+                  "text": "Suspended high above the scenic Loboc River, this adventure attraction provides a thrilling aerial ride through the tropical forest canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        124.024751,
+                        9.656265
+                  ]
+            },
+            {
+                  "name": "Zoocolate Thrills",
+                  "text": "This local theme park features an intimate animal enclosure alongside family-friendly rides and interactive tropical exhibits.",
+                  "category": "recreational",
+                  "coords": [
+                        124.026901,
+                        9.654978
+                  ]
+            },
+            {
+                  "name": "Abatan Community Life Tour",
+                  "text": "Guided riverboat tours along the Abatan waterway showcase the traditional village lifestyle and local mangrove ecosystems.",
+                  "category": "landmark",
+                  "coords": [
+                        123.874143,
+                        9.714632
+                  ]
+            },
+            {
+                  "name": "Sikatina Illusions Station",
+                  "text": "This playful gallery near the tarsier sanctuary is filled with perspective-bending visual trickery and colorful interactive 3D art installations.",
+                  "category": "landmark",
+                  "coords": [
+                        123.958029,
+                        9.686768
+                  ]
+            },
+            {
+                  "name": "birhen sa panabang",
+                  "text": "This modest Christian shrine serves the local faithful as a quiet place of devotion dedicated to the Virgin of Help.",
+                  "category": "landmark",
+                  "coords": [
+                        123.885489,
+                        9.709996
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Featuring a distinctively simple architectural style, this Kingdom Hall functions as the local center for Jehovah's Witnesses' meetings and Bible study.",
+                  "category": "landmark",
+                  "coords": [
+                        123.936748,
+                        9.713729
+                  ]
+            },
+            {
+                  "name": "Panon sa 12 ka Banay",
+                  "text": "This specialized Christian congregation gathers in a humble community building dedicated to the \"Flock of the 12 Tribes\" religious movement.",
+                  "category": "landmark",
+                  "coords": [
+                        123.995541,
+                        9.736109
+                  ]
+            },
+            {
+                  "name": "St. Anthony of Padua Parish Church",
+                  "text": "A robust local Catholic parish church standing as a spiritual anchor for the community, dedicated to Saint Anthony of Padua.",
+                  "category": "landmark",
+                  "coords": [
+                        123.974342,
+                        9.689191
+                  ]
+            },
+            {
+                  "name": "Calunasan Norte Chapel",
+                  "text": "Nestled in its barangay, this quaint village chapel holds regular Christian mass for the nearby agricultural community.",
+                  "category": "landmark",
+                  "coords": [
+                        124.007308,
+                        9.642232
+                  ]
+            },
+            {
+                  "name": "Kingdon Hall of Jeovah's Witnesses",
+                  "text": "This straightforward place of worship serves the local congregation of Jehovah's Witnesses with its typically unadorned meeting hall interior.",
+                  "category": "landmark",
+                  "coords": [
+                        124.028836,
+                        9.642206
+                  ]
+            },
+            {
+                  "name": "Busao Catholic Church",
+                  "text": "Located in the heart of Busao village, this Catholic church provides a spacious hall for Sunday worship and religious celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        123.90274,
+                        9.746323
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Village Parish",
+                  "text": "This welcoming parish church, built to serve the immediate neighborhood, centers its devotion around the Marian title of Our Lady of the Village.",
+                  "category": "landmark",
+                  "coords": [
+                        123.921213,
+                        9.688388
+                  ]
+            },
+            {
+                  "name": "Sr. Santo Niño Chapel",
+                  "text": "A modest Christian chapel frequently visited by locals to honor the Holy Child (Santo Niño) through prayers and candle offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        124.033953,
+                        9.669143
+                  ]
+            },
+            {
+                  "name": "March of Faith Christian Church",
+                  "text": "Operating as an independent Christian fellowship, this church gathers its congregation for spirited praise and community outreach programs.",
+                  "category": "landmark",
+                  "coords": [
+                        124.002882,
+                        9.772902
+                  ]
+            },
+            {
+                  "name": "Cortes Public Market",
+                  "text": "Situated in the municipal center, this bustling local market offers stalls overflowing with fresh tropical fruits, vegetables, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        123.878555,
+                        9.720692
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "PH-BOH",
     coords: [123.9575, 9.6975],
@@ -110,7 +1280,1384 @@ image: "/poi-images/ph-philippine-tarsier-sanctuary-life-v2.webp",
     
   },
   {
-    id: "ph-la-mesa-ecopark-life-v2",
+    id: "ph-la-mesa-ecopark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathedral Shrine of the Good Shepherd",
+                  "text": "Dieser bedeutende katholische Schrein, der als Novaliches-Kathedrale bekannt ist, dient als Sitz der Diözese Novaliches.",
+                  "category": "religious",
+                  "coords": [
+                        121.06724,
+                        14.697436
+                  ]
+            },
+            {
+                  "name": "La Mesa Watershed Reservation",
+                  "text": "Ein wichtiges Schutzgebiet, das den letzten verbliebenen Regenwald seiner Größe in Metro Manila umfasst und den La-Mesa-Staudamm umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        121.098225,
+                        14.740543
+                  ]
+            },
+            {
+                  "name": "La Mesa Eco Park",
+                  "text": "Ein 33 Hektar großer ökologischer Naturpark an den Grenzen des La Mesa Wasserschutzgebietes mit Picknickplätzen und Waldwegen.",
+                  "category": "park",
+                  "coords": [
+                        121.075403,
+                        14.711871
+                  ]
+            },
+            {
+                  "name": "Glorieta Park",
+                  "text": "Ein öffentlicher Erholungspark in der Umgebung, der den Anwohnern grüne Freiflächen und schattige Bereiche zum Entspannen bietet.",
+                  "category": "park",
+                  "coords": [
+                        121.059557,
+                        14.767614
+                  ]
+            },
+            {
+                  "name": "Bagong Silangan Barangay Hall",
+                  "text": "Das lokale Verwaltungszentrum, in dem kommunale Dienstleistungen und Versammlungen für das Barangay Bagong Silangan organisiert werden.",
+                  "category": "historical",
+                  "coords": [
+                        121.110541,
+                        14.697837
+                  ]
+            },
+            {
+                  "name": "Rodriguez Municipal Hall",
+                  "text": "Das primäre Regierungsgebäude, das als Verwaltungssitz der Gemeinde Rodriguez dient.",
+                  "category": "historical",
+                  "coords": [
+                        121.145478,
+                        14.732449
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ein lokales Versammlungshaus, das der Gemeinde der Heiligen der Letzten Tage einen Ort für den Sonntagsgottesdienst und Gemeindeaktivitäten bietet.",
+                  "category": "religious",
+                  "coords": [
+                        121.133865,
+                        14.746705
+                  ]
+            },
+            {
+                  "name": "Mount Mataba",
+                  "text": "Ein markanter lokaler Gipfel in der Nähe des Wasserschutzgebiets, der unberührte Wanderwege und einen erhöhten Panoramablick über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.16394,
+                        14.693512
+                  ]
+            },
+            {
+                  "name": "Jose C. de Venecia Jr. Museum",
+                  "text": "Ein neu eröffnetes, im Jahr 2025 eingeweihtes Museum, das dem politischen Vermächtnis und Leben von Jose C. de Venecia Jr. gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        121.09446,
+                        14.695978
+                  ]
+            },
+            {
+                  "name": "Eco Center",
+                  "text": "Ein pädagogisches Museum, das sich auf die regionale Ökologie konzentriert und Exponate zum Naturschutz in der Nähe des La Mesa Wasserschutzgebiets zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        121.072386,
+                        14.712627
+                  ]
+            },
+            {
+                  "name": "jhon monument",
+                  "text": "Ein lokales steinernes Gedenkmonument in der Nähe des La Mesa Ecoparks.",
+                  "category": "historical",
+                  "coords": [
+                        121.021793,
+                        14.725434
+                  ]
+            },
+            {
+                  "name": "Mater Carmeli School Stage",
+                  "text": "Eine Theaterbühne auf dem Gelände der Mater Carmeli School, die für Schüleraufführungen und akademische Zeremonien genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        121.072576,
+                        14.739323
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Ein moderner lokaler Königreichssaal, der den biblischen Zusammenkünften und der gemeinschaftlichen Anbetung der Zeugen Jehovas gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        121.088069,
+                        14.683291
+                  ]
+            },
+            {
+                  "name": "Church of Jesus On Fire",
+                  "text": "Eine lebendige charismatische christliche Kirche in der Umgebung, in der energische und leidenschaftliche Gottesdienste stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        121.147552,
+                        14.728369
+                  ]
+            },
+            {
+                  "name": "San Jose Manggagawa Parish",
+                  "text": "Eine katholische Pfarrkirche, die dem heiligen Josef dem Arbeiter gewidmet ist und den spirituellen Bedürfnissen der umliegenden Nachbarschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.135468,
+                        14.731384
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan Pangarap",
+                  "text": "Ein lokales Versammlungszentrum für die Members Church of God International, das speziell der Gemeinde des Pangarap Village dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.093525,
+                        14.762527
+                  ]
+            },
+            {
+                  "name": "Pentecostal Missionary Church of Christ (4th Watch)",
+                  "text": "Eine pfingstliche Missionskirche, die sich in der Nähe des La Mesa Ecopark befindet.",
+                  "category": "religious",
+                  "coords": [
+                        121.121347,
+                        14.749448
+                  ]
+            },
+            {
+                  "name": "The Risen Lord Chapel",
+                  "text": "Eine lokale christliche Kapelle, die als Andachtsort in der Region La Mesa Ecopark dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.062967,
+                        14.717394
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord",
+                  "text": "Ein lokales Gemeinde- und Anbetungszentrum der Jesus-is-Lord-Bewegung.",
+                  "category": "religious",
+                  "coords": [
+                        121.082306,
+                        14.767687
+                  ]
+            },
+            {
+                  "name": "Jesus Our Salvation Christian Church",
+                  "text": "Eine christliche Kirche, die Jesus unserem Heil gewidmet ist und Gläubigen einen Versammlungsort bietet.",
+                  "category": "religious",
+                  "coords": [
+                        121.047986,
+                        14.766106
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan Zabarte",
+                  "text": "Ein religiöser Treffpunkt und eine Kirche für die Gemeinde Ang Dating Daan entlang der Zabarte.",
+                  "category": "religious",
+                  "coords": [
+                        121.043546,
+                        14.758244
+                  ]
+            },
+            {
+                  "name": "Matarik Samatiran Church",
+                  "text": "Eine lokale Kircheneinrichtung, die den religiösen Bedürfnissen der Gemeinde Matarik Samatiran dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.040171,
+                        14.769623
+                  ]
+            },
+            {
+                  "name": "Come To Jesus Community Church of Union",
+                  "text": "Eine gemeinschaftsorientierte christliche Kirche, die Gläubige im Union-Gebiet einlädt.",
+                  "category": "religious",
+                  "coords": [
+                        121.030835,
+                        14.76137
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Holy Rosary Chapel",
+                  "text": "Eine katholische Kapelle, die Unserer Lieben Frau vom Heiligen Rosenkranz gewidmet ist und den lokalen Gläubigen dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.03664,
+                        14.746684
+                  ]
+            },
+            {
+                  "name": "BF Homes Phase III Catholic Church",
+                  "text": "Ein katholisches Kirchengebäude, das für die Bewohner von BF Homes Phase III errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        121.027463,
+                        14.737484
+                  ]
+            },
+            {
+                  "name": "Acts Christian Church",
+                  "text": "Eine christliche Kultstätte, die religiöse Gemeindedienste in der Nähe des La Mesa Ecopark anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        121.039091,
+                        14.752902
+                  ]
+            },
+            {
+                  "name": "JOA PAROKYA",
+                  "text": "Eine lokale Pfarrkirche, die spirituelle Führung und Messen für die Gemeinde anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        121.045036,
+                        14.714703
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo - Lokal ng Silanganan Ext.",
+                  "text": "Ein Gotteshaus der Iglesia Ni Cristo, das der lokalen Gemeinde Silanganan Extension dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.015133,
+                        14.733783
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Eine katholische Kapelle, die Unserer Lieben Frau von Lourdes in der örtlichen Nachbarschaft gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        120.996948,
+                        14.755834
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Pabahay 2000 Branch",
+                  "text": "Eine Zweigkirche der Iglesia ni Cristo in der Gemeinde Pabahay 2000.",
+                  "category": "religious",
+                  "coords": [
+                        121.032474,
+                        14.788642
+                  ]
+            },
+            {
+                  "name": "Joyful Life with Jesus Ministries",
+                  "text": "Eine von den Joyful Life with Jesus Ministries betriebene Kircheneinrichtung für das Gemeindegebet.",
+                  "category": "religious",
+                  "coords": [
+                        121.075464,
+                        14.68416
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sacred Heart Chapel",
+                  "text": "Eine katholische Kapelle zu Ehren Unserer Lieben Frau vom Heiligsten Herzen, die Raum für Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        121.077118,
+                        14.683899
+                  ]
+            },
+            {
+                  "name": "Members Church of God International",
+                  "text": "Ein Gemeindeort der Members Church of God International für lokale religiöse Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        121.076409,
+                        14.693231
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo (San Mateo Locale)",
+                  "text": "Eine lokale Kirchenzweigstelle der Iglesia Ni Cristo im Bezirk San Mateo.",
+                  "category": "religious",
+                  "coords": [
+                        121.122117,
+                        14.699419
+                  ]
+            },
+            {
+                  "name": "Penial Christian Fellowship",
+                  "text": "Eine christliche Gemeinschaftskirche, die sich auf den Gemeindegottesdienst und spirituelle Führung konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        121.069791,
+                        14.799136
+                  ]
+            },
+            {
+                  "name": "Marville Subdv Brgy. Sto Cristo Church",
+                  "text": "Eine Gemeindekirche, die für die Bewohner der Marville Subdivision im Barangay Sto Cristo gegründet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        121.069233,
+                        14.806251
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Ein lokaler Andachtsort, der einen Ort für religiöse Zeremonien und Gebete bietet.",
+                  "category": "religious",
+                  "coords": [
+                        121.060473,
+                        14.800526
+                  ]
+            },
+            {
+                  "name": "North Diamond Subdivision Chapel",
+                  "text": "Eine kleine Kapelle innerhalb der North Diamond Subdivision für den Gottesdienst der Anwohner.",
+                  "category": "religious",
+                  "coords": [
+                        121.072455,
+                        14.793865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathedral Shrine of the Good Shepherd",
+                  "text": "Ez a Novaliches katedrális néven ismert jelentős katolikus kegyhely a Novaliches egyházmegye székhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        121.06724,
+                        14.697436
+                  ]
+            },
+            {
+                  "name": "La Mesa Watershed Reservation",
+                  "text": "Egy létfontosságú védett terület, amely Metro Manila utolsó ekkora méretű esőerdejét foglalja magába a La Mesa-gát körül.",
+                  "category": "natural",
+                  "coords": [
+                        121.098225,
+                        14.740543
+                  ]
+            },
+            {
+                  "name": "La Mesa Eco Park",
+                  "text": "A La Mesa vízgyűjtő határai mentén fekvő 33 hektáros ökológiai natúrpark piknikezőhelyekkel és erdei ösvényekkel.",
+                  "category": "park",
+                  "coords": [
+                        121.075403,
+                        14.711871
+                  ]
+            },
+            {
+                  "name": "Glorieta Park",
+                  "text": "Nyilvános szabadidőpark a környéken, amely zöld nyílt tereket és árnyékos területeket kínál a helyi lakosok számára a pihenéshez.",
+                  "category": "park",
+                  "coords": [
+                        121.059557,
+                        14.767614
+                  ]
+            },
+            {
+                  "name": "Bagong Silangan Barangay Hall",
+                  "text": "A helyi önkormányzati adminisztratív központ, ahol a Bagong Silangan barangay számára szerveznek közösségi szolgáltatásokat és gyűléseket.",
+                  "category": "historical",
+                  "coords": [
+                        121.110541,
+                        14.697837
+                  ]
+            },
+            {
+                  "name": "Rodriguez Municipal Hall",
+                  "text": "Az elsődleges kormányzati épület, amely Rodriguez önkormányzatának adminisztratív központjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        121.145478,
+                        14.732449
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Egy helyi gyülekezeti ház, amely helyet biztosít a vasárnapi istentiszteleteknek és a közösségi tevékenységeknek az Utolsó Napi Szentek közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.133865,
+                        14.746705
+                  ]
+            },
+            {
+                  "name": "Mount Mataba",
+                  "text": "A vízgyűjtő közelében található kiemelkedő helyi hegycsúcs, amely egyenetlen túraútvonalakat és magaslati panorámát kínál a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        121.16394,
+                        14.693512
+                  ]
+            },
+            {
+                  "name": "Jose C. de Venecia Jr. Museum",
+                  "text": "A 2025-ben felavatott, újonnan megnyílt múzeum Jose C. de Venecia Jr. politikai örökségének és életének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        121.09446,
+                        14.695978
+                  ]
+            },
+            {
+                  "name": "Eco Center",
+                  "text": "A regionális ökológiára összpontosító oktatási múzeum, amely a La Mesa vízgyűjtő közelében lévő környezetvédelmi kiállításokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.072386,
+                        14.712627
+                  ]
+            },
+            {
+                  "name": "jhon monument",
+                  "text": "Egy helyi kő emlékmű a La Mesa Ecopark területének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        121.021793,
+                        14.725434
+                  ]
+            },
+            {
+                  "name": "Mater Carmeli School Stage",
+                  "text": "A Mater Carmeli Iskola területén található színházi színpad, amelyet diákdarabokhoz és iskolai ünnepségekhez használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        121.072576,
+                        14.739323
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Egy modern helyi Királyság-terem, amelyet Jehova Tanúi bibliai összejöveteleinek és közösségi istentiszteleteinek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        121.088069,
+                        14.683291
+                  ]
+            },
+            {
+                  "name": "Church of Jesus On Fire",
+                  "text": "Egy élénk karizmatikus keresztény gyülekezet a helyi térségben, amely energikus és szenvedélyes istentiszteleteknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        121.147552,
+                        14.728369
+                  ]
+            },
+            {
+                  "name": "San Jose Manggagawa Parish",
+                  "text": "A Munkás Szent Józsefnek szentelt katolikus plébániatemplom, amely a környező negyed spirituális igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        121.135468,
+                        14.731384
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan Pangarap",
+                  "text": "A Members Church of God International helyi gyülekezeti központja, amely kifejezetten a Pangarap Village közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        121.093525,
+                        14.762527
+                  ]
+            },
+            {
+                  "name": "Pentecostal Missionary Church of Christ (4th Watch)",
+                  "text": "Egy pünkösdi missziós templom, amely a La Mesa Ecopark közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        121.121347,
+                        14.749448
+                  ]
+            },
+            {
+                  "name": "The Risen Lord Chapel",
+                  "text": "Egy helyi keresztény kápolna, amely istentiszteleti helyként szolgál a La Mesa Ecopark területén.",
+                  "category": "religious",
+                  "coords": [
+                        121.062967,
+                        14.717394
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord",
+                  "text": "A Jesus is Lord mozgalom helyi gyülekezeti és istentiszteleti központja.",
+                  "category": "religious",
+                  "coords": [
+                        121.082306,
+                        14.767687
+                  ]
+            },
+            {
+                  "name": "Jesus Our Salvation Christian Church",
+                  "text": "Egy keresztény templom, amelyet a Jézus a mi Megváltásunk nevű gyülekezet használ istentiszteleti helyként.",
+                  "category": "religious",
+                  "coords": [
+                        121.047986,
+                        14.766106
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan Zabarte",
+                  "text": "Az Ang Dating Daan gyülekezet vallási találkozóhelye és temploma a Zabarte mentén.",
+                  "category": "religious",
+                  "coords": [
+                        121.043546,
+                        14.758244
+                  ]
+            },
+            {
+                  "name": "Matarik Samatiran Church",
+                  "text": "Egy helyi templom, amely a Matarik Samatiran közösség vallási igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        121.040171,
+                        14.769623
+                  ]
+            },
+            {
+                  "name": "Come To Jesus Community Church of Union",
+                  "text": "Egy közösségközpontú keresztény templom, amely a Union területén várja a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        121.030835,
+                        14.76137
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Holy Rosary Chapel",
+                  "text": "A Rózsafüzér Királynőjének szentelt katolikus kápolna, amely a helyi híveket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        121.03664,
+                        14.746684
+                  ]
+            },
+            {
+                  "name": "BF Homes Phase III Catholic Church",
+                  "text": "Egy katolikus templomépület, amelyet a BF Homes Phase III lakóinak szolgálatára hoztak létre.",
+                  "category": "religious",
+                  "coords": [
+                        121.027463,
+                        14.737484
+                  ]
+            },
+            {
+                  "name": "Acts Christian Church",
+                  "text": "Keresztény istentiszteleti hely, amely vallási közösségi szolgáltatásokat nyújt a La Mesa Ecopark közelében.",
+                  "category": "religious",
+                  "coords": [
+                        121.039091,
+                        14.752902
+                  ]
+            },
+            {
+                  "name": "JOA PAROKYA",
+                  "text": "Egy helyi plébániatemplom, amely spirituális útmutatást és miséket biztosít a közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.045036,
+                        14.714703
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo - Lokal ng Silanganan Ext.",
+                  "text": "Az Iglesia Ni Cristo egyházhoz tartozó istentiszteleti hely, amely a Silanganan Extension gyülekezetet szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        121.015133,
+                        14.733783
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "A Lourdes-i Szűzanyának szentelt katolikus kápolna a helyi környéken.",
+                  "category": "religious",
+                  "coords": [
+                        120.996948,
+                        14.755834
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Pabahay 2000 Branch",
+                  "text": "Az Iglesia ni Cristo egyik ága, amely a Pabahay 2000 közösségben található.",
+                  "category": "religious",
+                  "coords": [
+                        121.032474,
+                        14.788642
+                  ]
+            },
+            {
+                  "name": "Joyful Life with Jesus Ministries",
+                  "text": "A Joyful Life with Jesus Ministries által működtetett egyházi létesítmény közösségi imádkozásra.",
+                  "category": "religious",
+                  "coords": [
+                        121.075464,
+                        14.68416
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sacred Heart Chapel",
+                  "text": "A Szent Szív Miasszonyunk tiszteletére szentelt katolikus kápolna, amely teret ad az elmélkedésnek.",
+                  "category": "religious",
+                  "coords": [
+                        121.077118,
+                        14.683899
+                  ]
+            },
+            {
+                  "name": "Members Church of God International",
+                  "text": "A Members Church of God International gyülekezeti helyszíne helyi vallási összejövetelek számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.076409,
+                        14.693231
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo (San Mateo Locale)",
+                  "text": "Az Iglesia Ni Cristo helyi templomi ága, amely a San Mateo kerületben található.",
+                  "category": "religious",
+                  "coords": [
+                        121.122117,
+                        14.699419
+                  ]
+            },
+            {
+                  "name": "Penial Christian Fellowship",
+                  "text": "Egy keresztény közösségi templom, amely a közösségi istentiszteletre és a spirituális útmutatásra összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        121.069791,
+                        14.799136
+                  ]
+            },
+            {
+                  "name": "Marville Subdv Brgy. Sto Cristo Church",
+                  "text": "Egy közösségi templom, amelyet a Barangay Sto Cristo-i Marville Subdivision lakóinak szolgálatára alapítottak.",
+                  "category": "religious",
+                  "coords": [
+                        121.069233,
+                        14.806251
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Helyi istentiszteleti hely, amely vallási szertartásoknak és imáknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        121.060473,
+                        14.800526
+                  ]
+            },
+            {
+                  "name": "North Diamond Subdivision Chapel",
+                  "text": "Egy kis kápolna a North Diamond Subdivision területén a helyi lakosok istentiszteleteihez.",
+                  "category": "religious",
+                  "coords": [
+                        121.072455,
+                        14.793865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathedral Shrine of the Good Shepherd",
+                  "text": "Cunoscut sub numele de Catedrala din Novaliches, acest altar catolic major servește drept sediu al Diecezei de Novaliches.",
+                  "category": "religious",
+                  "coords": [
+                        121.06724,
+                        14.697436
+                  ]
+            },
+            {
+                  "name": "La Mesa Watershed Reservation",
+                  "text": "O arie protejată vitală care conține ultima pădure tropicală rămasă de această dimensiune în Metro Manila, înconjurând Barajul La Mesa.",
+                  "category": "natural",
+                  "coords": [
+                        121.098225,
+                        14.740543
+                  ]
+            },
+            {
+                  "name": "La Mesa Eco Park",
+                  "text": "Un parc natural ecologic de 33 de hectare situat la granițele bazinului hidrografic La Mesa, cu locuri de picnic și trasee împădurite.",
+                  "category": "park",
+                  "coords": [
+                        121.075403,
+                        14.711871
+                  ]
+            },
+            {
+                  "name": "Glorieta Park",
+                  "text": "Un parc de recreere public din zonă care oferă spații deschisi verzi și zone umbrite pentru relaxarea locuitorilor.",
+                  "category": "park",
+                  "coords": [
+                        121.059557,
+                        14.767614
+                  ]
+            },
+            {
+                  "name": "Bagong Silangan Barangay Hall",
+                  "text": "Centrul administrativ al guvernului local unde sunt organizate servicii comunitare și întâlniri pentru barangay-ul Bagong Silangan.",
+                  "category": "historical",
+                  "coords": [
+                        121.110541,
+                        14.697837
+                  ]
+            },
+            {
+                  "name": "Rodriguez Municipal Hall",
+                  "text": "Principala clădire guvernamentală care servește drept sediu administrativ pentru municipalitatea Rodriguez.",
+                  "category": "historical",
+                  "coords": [
+                        121.145478,
+                        14.732449
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "O casă de întruniri locală care oferă un loc pentru închinarea de duminică și activități comunitare pentru congregația Sfinților din Zilele din Urmă.",
+                  "category": "religious",
+                  "coords": [
+                        121.133865,
+                        14.746705
+                  ]
+            },
+            {
+                  "name": "Mount Mataba",
+                  "text": "Un vârf local proeminent lângă bazinul hidrografic, oferind trasee accidentate de drumeții și vederi panoramice ridicate asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        121.16394,
+                        14.693512
+                  ]
+            },
+            {
+                  "name": "Jose C. de Venecia Jr. Museum",
+                  "text": "Un muzeu recent deschis, inaugurat în 2025, dedicat moștenirii politice și vieții lui Jose C. de Venecia Jr.",
+                  "category": "museum",
+                  "coords": [
+                        121.09446,
+                        14.695978
+                  ]
+            },
+            {
+                  "name": "Eco Center",
+                  "text": "Un muzeu educațional axat pe ecologia regională, prezentând expoziții legate de conservarea mediului în apropierea bazinului hidrografic La Mesa.",
+                  "category": "museum",
+                  "coords": [
+                        121.072386,
+                        14.712627
+                  ]
+            },
+            {
+                  "name": "jhon monument",
+                  "text": "Un monument memorial local din piatră situat în vecinătatea parcului ecologic La Mesa.",
+                  "category": "historical",
+                  "coords": [
+                        121.021793,
+                        14.725434
+                  ]
+            },
+            {
+                  "name": "Mater Carmeli School Stage",
+                  "text": "O scenă de teatru pentru spectacole situată pe terenul Școlii Mater Carmeli, folosită pentru piese de teatru studențești și ceremonii academice.",
+                  "category": "cultural",
+                  "coords": [
+                        121.072576,
+                        14.739323
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "O Sală a Regatului locală modernă, dedicată întrunirilor biblice și închinării comunitare a Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        121.088069,
+                        14.683291
+                  ]
+            },
+            {
+                  "name": "Church of Jesus On Fire",
+                  "text": "O biserică creștină carismatică vibrantă din zona locală, care găzduiește servicii de închinare energice și pasionale.",
+                  "category": "religious",
+                  "coords": [
+                        121.147552,
+                        14.728369
+                  ]
+            },
+            {
+                  "name": "San Jose Manggagawa Parish",
+                  "text": "O biserică parohială catolică dedicată Sfântului Iosif Muncitorul, care servește nevoilor spirituale ale cartierului înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        121.135468,
+                        14.731384
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan Pangarap",
+                  "text": "Un centru local de adunare pentru Members Church of God International, care deservește în mod special comunitatea din Pangarap Village.",
+                  "category": "religious",
+                  "coords": [
+                        121.093525,
+                        14.762527
+                  ]
+            },
+            {
+                  "name": "Pentecostal Missionary Church of Christ (4th Watch)",
+                  "text": "O biserică misionară penticostală situată în vecinătatea La Mesa Ecopark.",
+                  "category": "religious",
+                  "coords": [
+                        121.121347,
+                        14.749448
+                  ]
+            },
+            {
+                  "name": "The Risen Lord Chapel",
+                  "text": "O capelă creștină locală care servește drept lăcaș de cult în zona La Mesa Ecopark.",
+                  "category": "religious",
+                  "coords": [
+                        121.062967,
+                        14.717394
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord",
+                  "text": "O congregație locală și un centru de cult al mișcării Jesus is Lord.",
+                  "category": "religious",
+                  "coords": [
+                        121.082306,
+                        14.767687
+                  ]
+            },
+            {
+                  "name": "Jesus Our Salvation Christian Church",
+                  "text": "O biserică creștină dedicată Mântuitorului nostru Iisus, oferind un spațiu de adunare pentru credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        121.047986,
+                        14.766106
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan Zabarte",
+                  "text": "Un loc de întâlnire religioasă și biserică pentru congregația Ang Dating Daan de-a lungul Zabarte.",
+                  "category": "religious",
+                  "coords": [
+                        121.043546,
+                        14.758244
+                  ]
+            },
+            {
+                  "name": "Matarik Samatiran Church",
+                  "text": "O biserică locală care deservește nevoile religioase ale comunității Matarik Samatiran.",
+                  "category": "religious",
+                  "coords": [
+                        121.040171,
+                        14.769623
+                  ]
+            },
+            {
+                  "name": "Come To Jesus Community Church of Union",
+                  "text": "O biserică creștină axată pe comunitate, care invită credincioșii din zona Union.",
+                  "category": "religious",
+                  "coords": [
+                        121.030835,
+                        14.76137
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Holy Rosary Chapel",
+                  "text": "O capelă catolică dedicată Maicii Domnului a Sfântului Rozariu, care deservește credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        121.03664,
+                        14.746684
+                  ]
+            },
+            {
+                  "name": "BF Homes Phase III Catholic Church",
+                  "text": "O biserică catolică înființată pentru a deservi rezidenții din BF Homes Phase III.",
+                  "category": "religious",
+                  "coords": [
+                        121.027463,
+                        14.737484
+                  ]
+            },
+            {
+                  "name": "Acts Christian Church",
+                  "text": "Un lăcaș de cult creștin care oferă servicii religioase comunitare lângă La Mesa Ecopark.",
+                  "category": "religious",
+                  "coords": [
+                        121.039091,
+                        14.752902
+                  ]
+            },
+            {
+                  "name": "JOA PAROKYA",
+                  "text": "O biserică parohială locală care oferă îndrumare spirituală și slujbe pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        121.045036,
+                        14.714703
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo - Lokal ng Silanganan Ext.",
+                  "text": "Un lăcaș de cult aparținând Iglesia Ni Cristo, care deservește localitatea Silanganan Extension.",
+                  "category": "religious",
+                  "coords": [
+                        121.015133,
+                        14.733783
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "O capelă catolică dedicată Maicii Domnului de la Lourdes, situată în cartierul local.",
+                  "category": "religious",
+                  "coords": [
+                        120.996948,
+                        14.755834
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Pabahay 2000 Branch",
+                  "text": "O filială a bisericii Iglesia ni Cristo situată în comunitatea Pabahay 2000.",
+                  "category": "religious",
+                  "coords": [
+                        121.032474,
+                        14.788642
+                  ]
+            },
+            {
+                  "name": "Joyful Life with Jesus Ministries",
+                  "text": "O unitate bisericească operată de Joyful Life with Jesus Ministries pentru rugăciunea comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        121.075464,
+                        14.68416
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sacred Heart Chapel",
+                  "text": "O capelă catolică în cinstea Maicii Domnului a Sfintei Inimi, oferind un spațiu de reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        121.077118,
+                        14.683899
+                  ]
+            },
+            {
+                  "name": "Members Church of God International",
+                  "text": "Un loc de congregație al Members Church of God International pentru adunări religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        121.076409,
+                        14.693231
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo (San Mateo Locale)",
+                  "text": "O filială bisericească locală a Iglesia Ni Cristo situată în districtul San Mateo.",
+                  "category": "religious",
+                  "coords": [
+                        121.122117,
+                        14.699419
+                  ]
+            },
+            {
+                  "name": "Penial Christian Fellowship",
+                  "text": "O biserică de părtășie creștină care se concentrează pe cultul comunitar și pe îndrumarea spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        121.069791,
+                        14.799136
+                  ]
+            },
+            {
+                  "name": "Marville Subdv Brgy. Sto Cristo Church",
+                  "text": "O biserică comunitară înființată pentru a deservi locuitorii subdiviziunii Marville din Barangay Sto Cristo.",
+                  "category": "religious",
+                  "coords": [
+                        121.069233,
+                        14.806251
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Un lăcaș de cult local care oferă un spațiu pentru ceremonii religioase și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        121.060473,
+                        14.800526
+                  ]
+            },
+            {
+                  "name": "North Diamond Subdivision Chapel",
+                  "text": "O mică capelă amplasată în subdiviziunea North Diamond pentru cultul rezidenților locali.",
+                  "category": "religious",
+                  "coords": [
+                        121.072455,
+                        14.793865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral Shrine of the Good Shepherd",
+                  "text": "Known as the Novaliches Cathedral, this major Catholic shrine serves as the seat of the Diocese of Novaliches.",
+                  "category": "religious",
+                  "coords": [
+                        121.06724,
+                        14.697436
+                  ]
+            },
+            {
+                  "name": "La Mesa Watershed Reservation",
+                  "text": "A vital protected area that contains the last remaining rainforest of its size in Metro Manila, surrounding the La Mesa Dam.",
+                  "category": "natural",
+                  "coords": [
+                        121.098225,
+                        14.740543
+                  ]
+            },
+            {
+                  "name": "La Mesa Eco Park",
+                  "text": "A 33-hectare ecological nature park situated along the boundaries of the La Mesa Watershed, featuring picnic spots and forested trails.",
+                  "category": "park",
+                  "coords": [
+                        121.075403,
+                        14.711871
+                  ]
+            },
+            {
+                  "name": "Glorieta Park",
+                  "text": "A public recreational park in the area offering green open spaces and shaded areas for local residents to relax.",
+                  "category": "park",
+                  "coords": [
+                        121.059557,
+                        14.767614
+                  ]
+            },
+            {
+                  "name": "Bagong Silangan Barangay Hall",
+                  "text": "The local government administrative center where community services and meetings are organized for the Bagong Silangan barangay.",
+                  "category": "historical",
+                  "coords": [
+                        121.110541,
+                        14.697837
+                  ]
+            },
+            {
+                  "name": "Rodriguez Municipal Hall",
+                  "text": "The primary government building serving as the administrative headquarters for the municipality of Rodriguez.",
+                  "category": "historical",
+                  "coords": [
+                        121.145478,
+                        14.732449
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A local meetinghouse providing a place for Sunday worship and community activities for the Latter-day Saints congregation.",
+                  "category": "religious",
+                  "coords": [
+                        121.133865,
+                        14.746705
+                  ]
+            },
+            {
+                  "name": "Mount Mataba",
+                  "text": "A prominent local peak near the watershed offering rugged hiking trails and elevated panoramic views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.16394,
+                        14.693512
+                  ]
+            },
+            {
+                  "name": "Jose C. de Venecia Jr. Museum",
+                  "text": "A newly opened museum, inaugurated in 2025, dedicated to the political legacy and life of Jose C. de Venecia Jr.",
+                  "category": "museum",
+                  "coords": [
+                        121.09446,
+                        14.695978
+                  ]
+            },
+            {
+                  "name": "Eco Center",
+                  "text": "An educational museum focused on regional ecology, displaying exhibits related to environmental conservation near the La Mesa Watershed.",
+                  "category": "museum",
+                  "coords": [
+                        121.072386,
+                        14.712627
+                  ]
+            },
+            {
+                  "name": "jhon monument",
+                  "text": "A local memorial stone monument situated in the vicinity of the La Mesa Ecopark area.",
+                  "category": "historical",
+                  "coords": [
+                        121.021793,
+                        14.725434
+                  ]
+            },
+            {
+                  "name": "Mater Carmeli School Stage",
+                  "text": "A performance theatre stage located within the Mater Carmeli School grounds, used for student plays and academic ceremonies.",
+                  "category": "cultural",
+                  "coords": [
+                        121.072576,
+                        14.739323
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A modern local Kingdom Hall dedicated to the scriptural meetings and community worship of Jehovah's Witnesses.",
+                  "category": "religious",
+                  "coords": [
+                        121.088069,
+                        14.683291
+                  ]
+            },
+            {
+                  "name": "Church of Jesus On Fire",
+                  "text": "A vibrant charismatic Christian church in the local area that hosts energetic and passionate worship services.",
+                  "category": "religious",
+                  "coords": [
+                        121.147552,
+                        14.728369
+                  ]
+            },
+            {
+                  "name": "San Jose Manggagawa Parish",
+                  "text": "A Catholic parish church dedicated to St. Joseph the Worker, serving the spiritual needs of the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        121.135468,
+                        14.731384
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan Pangarap",
+                  "text": "A local gathering center for the Members Church of God International, specifically serving the Pangarap Village community.",
+                  "category": "religious",
+                  "coords": [
+                        121.093525,
+                        14.762527
+                  ]
+            },
+            {
+                  "name": "Pentecostal Missionary Church of Christ (4th Watch)",
+                  "text": "A Pentecostal missionary church facility located in the vicinity of La Mesa Ecopark.",
+                  "category": "religious",
+                  "coords": [
+                        121.121347,
+                        14.749448
+                  ]
+            },
+            {
+                  "name": "The Risen Lord Chapel",
+                  "text": "A local Christian chapel serving as a place of worship in the La Mesa Ecopark area.",
+                  "category": "religious",
+                  "coords": [
+                        121.062967,
+                        14.717394
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord",
+                  "text": "A local congregation and worship center of the Jesus is Lord movement.",
+                  "category": "religious",
+                  "coords": [
+                        121.082306,
+                        14.767687
+                  ]
+            },
+            {
+                  "name": "Jesus Our Salvation Christian Church",
+                  "text": "A Christian church dedicated to Jesus Our Salvation, providing a gathering space for worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        121.047986,
+                        14.766106
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan Zabarte",
+                  "text": "A religious meeting place and church for the Ang Dating Daan congregation along Zabarte.",
+                  "category": "religious",
+                  "coords": [
+                        121.043546,
+                        14.758244
+                  ]
+            },
+            {
+                  "name": "Matarik Samatiran Church",
+                  "text": "A local church establishment serving the religious needs of the Matarik Samatiran community.",
+                  "category": "religious",
+                  "coords": [
+                        121.040171,
+                        14.769623
+                  ]
+            },
+            {
+                  "name": "Come To Jesus Community Church of Union",
+                  "text": "A community-focused Christian church inviting worshippers in the Union area.",
+                  "category": "religious",
+                  "coords": [
+                        121.030835,
+                        14.76137
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Holy Rosary Chapel",
+                  "text": "A Catholic chapel dedicated to Our Lady of the Holy Rosary, serving the local faithful.",
+                  "category": "religious",
+                  "coords": [
+                        121.03664,
+                        14.746684
+                  ]
+            },
+            {
+                  "name": "BF Homes Phase III Catholic Church",
+                  "text": "A Catholic church building established to serve the residents of BF Homes Phase III.",
+                  "category": "religious",
+                  "coords": [
+                        121.027463,
+                        14.737484
+                  ]
+            },
+            {
+                  "name": "Acts Christian Church",
+                  "text": "A Christian place of worship offering religious community services near La Mesa Ecopark.",
+                  "category": "religious",
+                  "coords": [
+                        121.039091,
+                        14.752902
+                  ]
+            },
+            {
+                  "name": "JOA PAROKYA",
+                  "text": "A local parish church providing spiritual guidance and masses for the community.",
+                  "category": "religious",
+                  "coords": [
+                        121.045036,
+                        14.714703
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo - Lokal ng Silanganan Ext.",
+                  "text": "A place of worship belonging to the Iglesia Ni Cristo serving the Silanganan Extension locale.",
+                  "category": "religious",
+                  "coords": [
+                        121.015133,
+                        14.733783
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "A Catholic chapel devoted to Our Lady of Lourdes situated in the local neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        120.996948,
+                        14.755834
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Pabahay 2000 Branch",
+                  "text": "A branch church of the Iglesia ni Cristo located within the Pabahay 2000 community.",
+                  "category": "religious",
+                  "coords": [
+                        121.032474,
+                        14.788642
+                  ]
+            },
+            {
+                  "name": "Joyful Life with Jesus Ministries",
+                  "text": "A church facility operated by the Joyful Life with Jesus Ministries for community prayer.",
+                  "category": "religious",
+                  "coords": [
+                        121.075464,
+                        14.68416
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sacred Heart Chapel",
+                  "text": "A Catholic chapel honoring Our Lady of the Sacred Heart, offering space for reflection.",
+                  "category": "religious",
+                  "coords": [
+                        121.077118,
+                        14.683899
+                  ]
+            },
+            {
+                  "name": "Members Church of God International",
+                  "text": "A congregation site for the Members Church of God International for local religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        121.076409,
+                        14.693231
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo (San Mateo Locale)",
+                  "text": "A local church branch of Iglesia Ni Cristo situated in the San Mateo district.",
+                  "category": "religious",
+                  "coords": [
+                        121.122117,
+                        14.699419
+                  ]
+            },
+            {
+                  "name": "Penial Christian Fellowship",
+                  "text": "A Christian fellowship church focusing on community worship and spiritual guidance.",
+                  "category": "religious",
+                  "coords": [
+                        121.069791,
+                        14.799136
+                  ]
+            },
+            {
+                  "name": "Marville Subdv Brgy. Sto Cristo Church",
+                  "text": "A community church established to serve the residents of Marville Subdivision in Barangay Sto Cristo.",
+                  "category": "religious",
+                  "coords": [
+                        121.069233,
+                        14.806251
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "A local place of worship providing a venue for religious ceremonies and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        121.060473,
+                        14.800526
+                  ]
+            },
+            {
+                  "name": "North Diamond Subdivision Chapel",
+                  "text": "A small chapel nestled within the North Diamond Subdivision for local residents' worship.",
+                  "category": "religious",
+                  "coords": [
+                        121.072455,
+                        14.793865
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PH-00",
     coords: [121.0772, 14.7198],
@@ -164,7 +2711,88 @@ image: "/poi-images/ph-la-mesa-ecopark-life-v2.webp",
     
   },
   {
-    id: "ph-manila-ocean-park-life-v2",
+    id: "ph-manila-ocean-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anchorage Area At Manila - (Baseco)",
+                  "text": "Der Ankerplatz bei Baseco ist ein weitläufiges Meeresgebiet, in dem zahlreiche Schiffe vor der Küste Manilas vor Anker gehen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.940433,
+                        14.57084
+                  ]
+            },
+            {
+                  "name": "Ocean Park Aqua Adventure",
+                  "text": "Der Ocean Park Aqua Adventure ist ein Wasser-Themenpark mit aufregenden Wasserrutschen und interaktiven Meeresbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        120.973207,
+                        14.579236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anchorage Area At Manila - (Baseco)",
+                  "text": "A Baseco horgonyzóhely egy kiterjedt tengeri övezet, ahol számos hajó vet horgonyt Manila partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        120.940433,
+                        14.57084
+                  ]
+            },
+            {
+                  "name": "Ocean Park Aqua Adventure",
+                  "text": "Az Ocean Park Aqua Adventure egy vízi vidámpark, amely izgalmas vízi csúszdákkal és interaktív tengeri medencékkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        120.973207,
+                        14.579236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anchorage Area At Manila - (Baseco)",
+                  "text": "Zona de ancoraj din Baseco este o întinsă zonă maritimă unde numeroase nave aruncă ancora în largul coastei Manilei.",
+                  "category": "landmark",
+                  "coords": [
+                        120.940433,
+                        14.57084
+                  ]
+            },
+            {
+                  "name": "Ocean Park Aqua Adventure",
+                  "text": "Ocean Park Aqua Adventure este un parc tematic acvatic care oferă tobogane de apă captivante și piscine marine interactive.",
+                  "category": "recreational",
+                  "coords": [
+                        120.973207,
+                        14.579236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anchorage Area At Manila - (Baseco)",
+                  "text": "The Anchorage Area at Baseco is a sprawling maritime zone where numerous vessels drop anchor off the coast of Manila.",
+                  "category": "landmark",
+                  "coords": [
+                        120.940433,
+                        14.57084
+                  ]
+            },
+            {
+                  "name": "Ocean Park Aqua Adventure",
+                  "text": "Ocean Park Aqua Adventure is an aquatic theme park featuring thrilling water slides and interactive marine pools.",
+                  "category": "recreational",
+                  "coords": [
+                        120.973207,
+                        14.579236
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "PH-00",
     coords: [120.9723, 14.5796],
@@ -218,7 +2846,268 @@ image: "/poi-images/ph-manila-ocean-park-life-v2.webp",
     
   },
   {
-    id: "ph-dole-pineapple-plantation-life-v2",
+    id: "ph-dole-pineapple-plantation-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Binahon Agroforestry Farm Viewdeck",
+                  "text": "Das Binahon Agroforestry Farm Viewdeck bietet einen weiten Blick über die nachhaltig bewirtschafteten Felder und Baumschulen der Farm.",
+                  "category": "natural",
+                  "coords": [
+                        124.927242,
+                        8.055467
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "Diese katholische Kirche bietet den Arbeitern und der Gemeinde in der Nähe der Dole-Ananasplantage einen Ort für Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        124.895279,
+                        8.048188
+                  ]
+            },
+            {
+                  "name": "Brgy. Basak SDA Church",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten, die der lokalen Gemeinschaft in der Nähe der Ananasplantagen dient.",
+                  "category": "religious",
+                  "coords": [
+                        124.862085,
+                        8.042316
+                  ]
+            },
+            {
+                  "name": "Fourth Square Church",
+                  "text": "Eine lokale christliche Kirche inmitten der landwirtschaftlichen Region der Ananasplantagen.",
+                  "category": "religious",
+                  "coords": [
+                        124.921904,
+                        8.054318
+                  ]
+            },
+            {
+                  "name": "Berean Baptist Church",
+                  "text": "Ein Versammlungsraum der Baptisten, der den Bewohnern des Plantagenbezirks dient.",
+                  "category": "religious",
+                  "coords": [
+                        124.895898,
+                        8.05135
+                  ]
+            },
+            {
+                  "name": "St. Therese of the Child Jesus Parish",
+                  "text": "Eine katholische Pfarrei, die der Heiligen Therese gewidmet ist und sich um die Gläubigen in der Plantagenregion kümmert.",
+                  "category": "landmark",
+                  "coords": [
+                        124.791611,
+                        8.017299
+                  ]
+            },
+            {
+                  "name": "Kibangay Public Market",
+                  "text": "Ein belebter öffentlicher Markt, auf dem lokale Erzeugnisse und Waren aus den umliegenden landwirtschaftlichen Gebieten angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        124.891581,
+                        8.047215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Binahon Agroforestry Farm Viewdeck",
+                  "text": "A Binahon agrárerdészeti farm kilátója a fenntarthatóan művelt földekre és a faiskolákra nyújt nagyszerű rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        124.927242,
+                        8.055467
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "Ez a katolikus templom misézőhelyet biztosít a Dole ananászültetvény közelében élő munkásoknak és a közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        124.895279,
+                        8.048188
+                  ]
+            },
+            {
+                  "name": "Brgy. Basak SDA Church",
+                  "text": "Egy Hetednapi Adventista templom, amely az ananászültetvények közelében élő helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        124.862085,
+                        8.042316
+                  ]
+            },
+            {
+                  "name": "Fourth Square Church",
+                  "text": "Egy helyi keresztény templom, amely az ananászültetvények mezőgazdasági régiójában fészkel.",
+                  "category": "religious",
+                  "coords": [
+                        124.921904,
+                        8.054318
+                  ]
+            },
+            {
+                  "name": "Berean Baptist Church",
+                  "text": "Egy baptista gyülekezeti tér, amely az ültetvényi kerület lakóit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        124.895898,
+                        8.05135
+                  ]
+            },
+            {
+                  "name": "St. Therese of the Child Jesus Parish",
+                  "text": "Szent Teréznek szentelt katolikus plébánia, amely az ültetvényes régió hívőit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        124.791611,
+                        8.017299
+                  ]
+            },
+            {
+                  "name": "Kibangay Public Market",
+                  "text": "Egy nyüzsgő nyilvános piac, amely a környező mezőgazdasági területek helyi termékeit és áruit kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        124.891581,
+                        8.047215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Binahon Agroforestry Farm Viewdeck",
+                  "text": "Punctul de belvedere al fermei agroforestiere Binahon oferă o privire de ansamblu asupra terenurilor cultivate durabil și pepinierelor.",
+                  "category": "natural",
+                  "coords": [
+                        124.927242,
+                        8.055467
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "Această biserică catolică servește ca loc de rugăciune și liturghie pentru lucrătorii și comunitatea de lângă plantația de ananas Dole.",
+                  "category": "landmark",
+                  "coords": [
+                        124.895279,
+                        8.048188
+                  ]
+            },
+            {
+                  "name": "Brgy. Basak SDA Church",
+                  "text": "O biserică a Adventiștilor de Ziua a Șaptea care deservește comunitatea locală din apropierea plantațiilor de ananas.",
+                  "category": "religious",
+                  "coords": [
+                        124.862085,
+                        8.042316
+                  ]
+            },
+            {
+                  "name": "Fourth Square Church",
+                  "text": "O biserică creștină locală situată în regiunea agricolă a plantațiilor de ananas.",
+                  "category": "religious",
+                  "coords": [
+                        124.921904,
+                        8.054318
+                  ]
+            },
+            {
+                  "name": "Berean Baptist Church",
+                  "text": "Un spațiu de congregație baptistă care deservește locuitorii districtului plantațiilor.",
+                  "category": "religious",
+                  "coords": [
+                        124.895898,
+                        8.05135
+                  ]
+            },
+            {
+                  "name": "St. Therese of the Child Jesus Parish",
+                  "text": "O parohie catolică dedicată Sfintei Tereza, care se adresează credincioșilor din regiunea plantațiilor.",
+                  "category": "landmark",
+                  "coords": [
+                        124.791611,
+                        8.017299
+                  ]
+            },
+            {
+                  "name": "Kibangay Public Market",
+                  "text": "O piață publică plină de viață care oferă produse locale și bunuri din zonele agricole înconjurătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        124.891581,
+                        8.047215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Binahon Agroforestry Farm Viewdeck",
+                  "text": "The Binahon Agroforestry Farm Viewdeck provides sweeping views over the sustainable agricultural fields and tree nurseries of the estate.",
+                  "category": "natural",
+                  "coords": [
+                        124.927242,
+                        8.055467
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "This Catholic church serves the religious needs of the local community and workers near the Dole pineapple plantation.",
+                  "category": "landmark",
+                  "coords": [
+                        124.895279,
+                        8.048188
+                  ]
+            },
+            {
+                  "name": "Brgy. Basak SDA Church",
+                  "text": "A Seventh-Day Adventist church serving the local community near the pineapple plantations.",
+                  "category": "religious",
+                  "coords": [
+                        124.862085,
+                        8.042316
+                  ]
+            },
+            {
+                  "name": "Fourth Square Church",
+                  "text": "A local Christian church nestled in the agricultural region of the pineapple plantations.",
+                  "category": "religious",
+                  "coords": [
+                        124.921904,
+                        8.054318
+                  ]
+            },
+            {
+                  "name": "Berean Baptist Church",
+                  "text": "A Baptist congregation space serving the residents of the plantation district.",
+                  "category": "religious",
+                  "coords": [
+                        124.895898,
+                        8.05135
+                  ]
+            },
+            {
+                  "name": "St. Therese of the Child Jesus Parish",
+                  "text": "A Catholic parish dedicated to St. Therese, catering to the faithful in the plantation region.",
+                  "category": "landmark",
+                  "coords": [
+                        124.791611,
+                        8.017299
+                  ]
+            },
+            {
+                  "name": "Kibangay Public Market",
+                  "text": "A bustling public market offering local produce and goods from the surrounding agricultural areas.",
+                  "category": "cultural",
+                  "coords": [
+                        124.891581,
+                        8.047215
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "PH-BUK",
     coords: [124.865, 8.015],
@@ -272,7 +3161,1456 @@ image: "/poi-images/ph-dole-pineapple-plantation-life-v2.webp",
     
   },
   {
-    id: "ph-eden-nature-park-life-v2",
+    id: "ph-eden-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bong Perez Art Gallery",
+                  "text": "Diese gemütliche Kunstgalerie nahe dem Eden Nature Park zeigt Gemälde und visuelle Kunstwerke, die oft die lebendige Kultur Mindanaos widerspiegeln.",
+                  "category": "museum",
+                  "coords": [
+                        125.541027,
+                        7.057478
+                  ]
+            },
+            {
+                  "name": "The Broadway Melodies",
+                  "text": "Als lokales Kunst- und Kulturzentrum beherbergt dieser Veranstaltungsort musikalische Proben und kreative Aufführungen für die Gemeinde nahe den Bergparks.",
+                  "category": "cultural",
+                  "coords": [
+                        125.556807,
+                        7.055792
+                  ]
+            },
+            {
+                  "name": "SGI Davao Culture Center",
+                  "text": "Dieses von der Soka Gakkai International geleitete Kulturzentrum fördert Frieden und Kunst durch Gemeindeausstellungen und buddhistisch inspirierte Zusammenkünfte.",
+                  "category": "cultural",
+                  "coords": [
+                        125.564297,
+                        7.062677
+                  ]
+            },
+            {
+                  "name": "San Roque Chapel",
+                  "text": "Dieses San Roque gewidmete, einfache Gotteshaus dient den Vorstädten rund um den Eden Nature Park mit regelmäßigen wöchentlichen Messen.",
+                  "category": "religious",
+                  "coords": [
+                        125.52334,
+                        7.097407
+                  ]
+            },
+            {
+                  "name": "Sr. San Vicente Ferrer Chapel",
+                  "text": "Dieses dem heiligen Vinzenz Ferrer geweihte lokale Heiligtum bietet den umliegenden Gläubigen einen zugänglichen Ort für Andachten und Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        125.513544,
+                        7.088232
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Chapel",
+                  "text": "Diese in der ländlichen Tradition verwurzelte Nachbarschaftskapelle verehrt den heiligen Isidor von Madrid und dient lokalen Familien als spiritueller Anker.",
+                  "category": "religious",
+                  "coords": [
+                        125.504009,
+                        7.050629
+                  ]
+            },
+            {
+                  "name": "Sr. San Isidro Labrador Chapel",
+                  "text": "Diese kleine katholische Kapelle in den grünen Ausläufern nahe dem Eden Nature Park ist dem Schutzpatron der Bauern geweiht und lädt zum Gebet ein.",
+                  "category": "religious",
+                  "coords": [
+                        125.525313,
+                        7.058305
+                  ]
+            },
+            {
+                  "name": "Baptist Church",
+                  "text": "Dieses lokale baptistische Gotteshaus legt großen Wert auf die biblische Lehre und lädt die Gemeinde zu lebendigen Sonntagsgottesdiensten ein.",
+                  "category": "religious",
+                  "coords": [
+                        125.567283,
+                        7.053199
+                  ]
+            },
+            {
+                  "name": "Fatima Chapel",
+                  "text": "Dieses der Muttergottes von Fatima geweihte Gemeindesanctuary ist ein geschätzter Ort für Marienandachten und lokale katholische Zusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        125.569904,
+                        7.051475
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Diese nach der berühmten Marienerscheinung benannte, bescheidene lokale Kapelle bietet eine friedliche Atmosphäre für Rosenkranzgebete.",
+                  "category": "religious",
+                  "coords": [
+                        125.574221,
+                        7.059475
+                  ]
+            },
+            {
+                  "name": "Mission Society of the Philippines",
+                  "text": "Dieses Missionshaus dient als spirituelles Zentrum für katholische Missionare, die von hier aus Hilfs- und Sozialprogramme im Großraum Davao koordinieren.",
+                  "category": "religious",
+                  "coords": [
+                        125.548094,
+                        7.076517
+                  ]
+            },
+            {
+                  "name": "Sr. San Labrador Chapel",
+                  "text": "Versteckt in einem Wohnviertel bietet diese einfache Kapelle katholischen Familien einen vertrauten Ort für die Feier religiöser Festtage.",
+                  "category": "religious",
+                  "coords": [
+                        125.576208,
+                        7.036934
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten feiert ihre Gottesdienste samstags und dient als Zentrum für Bibelstudien und Gesundheitsinitiativen in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        125.495208,
+                        7.032198
+                  ]
+            },
+            {
+                  "name": "KJC Toril Workers House",
+                  "text": "Diese religiöse Einrichtung in Toril ist mit dem Kingdom of Jesus Christ verbunden und dient sowohl als Versammlungshaus als auch als Wohnquartier für Kirchenmitarbeiter.",
+                  "category": "religious",
+                  "coords": [
+                        125.502034,
+                        7.013376
+                  ]
+            },
+            {
+                  "name": "KLC of Toril",
+                  "text": "Dieses Zentrum im geschäftigen Toril-Viertel bietet Räumlichkeiten für regelmäßige Gottesdienste und Gemeindeberatungen.",
+                  "category": "religious",
+                  "coords": [
+                        125.496505,
+                        7.022518
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Miguel",
+                  "text": "Diese kleine GKK-Kapelle steht unter dem Schutz des Erzengels Michael und ist ein regelmäßiger Ort für katholische Basisversammlungen und Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        125.449912,
+                        7.041665
+                  ]
+            },
+            {
+                  "name": "CB Sisters",
+                  "text": "Dieses von einer katholischen Schwesternkongregation geführte Ordenshaus dient als friedliche Enklave für spirituelle Einkehrtage und andächtige Kontemplation.",
+                  "category": "religious",
+                  "coords": [
+                        125.567388,
+                        7.046176
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "Diese Kirche, die ihr Viertel mit einer starken christlichen Präsenz prägt, ehrt Christkönig mit gut besuchten Wochenendliturgien und Chorgesang.",
+                  "category": "religious",
+                  "coords": [
+                        125.532931,
+                        7.038863
+                  ]
+            },
+            {
+                  "name": "Dream at Bethel Dormitory",
+                  "text": "Dieser Komplex, der eine kirchliche Arbeit neben einer Wohneinrichtung betreibt, unterstützt junge christliche Studenten mit spiritueller Führung und Unterkünften.",
+                  "category": "religious",
+                  "coords": [
+                        125.492594,
+                        7.087927
+                  ]
+            },
+            {
+                  "name": "Ulas Mini Market",
+                  "text": "Dieser geschäftige Nachbarschaftsmarkt in Ulas bietet den Anwohnern täglich Zugang zu frischen regionalen Produkten, Grundnahrungsmitteln und Streetfood-Ständen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.545199,
+                        7.055101
+                  ]
+            },
+            {
+                  "name": "Shanghai Market",
+                  "text": "Dieser lebhafte Freiluftmarkt dient der umliegenden Gemeinde und bietet eine vielfältige Auswahl an erschwinglichem Gemüse, Fleisch und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        125.571853,
+                        7.041377
+                  ]
+            },
+            {
+                  "name": "Toril Public Market",
+                  "text": "Als wichtiges Handelszentrum für den Bezirk Toril ist dieser weitläufige öffentliche Markt voller Verkäufer, die frische Meeresfrüchte, Obst und Dinge des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        125.495989,
+                        7.018454
+                  ]
+            },
+            {
+                  "name": "Mintal Public Market",
+                  "text": "Dieser traditionelle überdachte Markt im historischen Viertel Mintal ist der wichtigste Ort für Einheimische, um frische landwirtschaftliche Produkte und lokales Fleisch zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.501228,
+                        7.092467
+                  ]
+            },
+            {
+                  "name": "Tagpuan Market",
+                  "text": "Ein belebter Marktplatz in der Nähe des Naturparks, auf dem Einheimische ihre Waren tauschen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.53964,
+                        7.051388
+                  ]
+            },
+            {
+                  "name": "Matina Public Market",
+                  "text": "Ein belebter Marktplatz, auf dem lokale Verkäufer frische Produkte und regionale Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        125.569958,
+                        7.058546
+                  ]
+            },
+            {
+                  "name": "Bukid Amara",
+                  "text": "Eine landschaftlich reizvolle Attraktion in der Nähe des Naturparks, die Besuchern einen ruhigen Rückzugsort im Freien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.514622,
+                        7.04478
+                  ]
+            },
+            {
+                  "name": "Franciscan Sisters of Immaculate Concepcion",
+                  "text": "Eine christliche Stätte in der Nähe des Naturparks, die als spiritueller Rückzugsort und Gemeindezentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.53286,
+                        7.09501
+                  ]
+            },
+            {
+                  "name": "Muslim Kapatiran Dawah Center",
+                  "text": "Ein islamisches Gemeindezentrum, das spirituelles Wachstum und Gemeinschaft in der Region fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.53708,
+                        7.083475
+                  ]
+            },
+            {
+                  "name": "My Sanctuary",
+                  "text": "Ein ruhiger christlicher Ort der Besinnung inmitten der natürlichen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        125.528943,
+                        7.098337
+                  ]
+            },
+            {
+                  "name": "Sacred Jerusalem Garden 1",
+                  "text": "Eine christliche Gartenattraktion, die für ruhige Gebete und Meditationen im Freien konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        125.491461,
+                        7.090939
+                  ]
+            },
+            {
+                  "name": "Holy Ground Family Fellowship",
+                  "text": "Ein lokaler christlicher Versammlungsort, an dem sich Familien zum gemeinsamen Gottesdienst treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.499549,
+                        7.093053
+                  ]
+            },
+            {
+                  "name": "Marist Sisters",
+                  "text": "Ein Ort einer christlichen Ordensgemeinschaft, der der spirituellen Bildung und dem lokalen Dienst gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.504294,
+                        7.091456
+                  ]
+            },
+            {
+                  "name": "St. Padre Pio Chapel",
+                  "text": "Eine christliche Kapelle, die als besonderer Ort der katholischen Andacht und des Gebets dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.525994,
+                        7.081998
+                  ]
+            },
+            {
+                  "name": "San Vicente Ferrer Village Chapel",
+                  "text": "Eine lokale christliche Dorfkapelle, in der Gemeindemessen und religiöse Zusammenkünfte stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        125.52529,
+                        7.072752
+                  ]
+            },
+            {
+                  "name": "South Hills Community Church",
+                  "text": "Eine auf die Gemeinde ausgerichtete christliche Kirche, die Gottesdienste für die Nachbarschaft anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.537109,
+                        7.05272
+                  ]
+            },
+            {
+                  "name": "Universal Cathedral",
+                  "text": "Eine bedeutende christliche Kathedrale, die als wichtiges Zentrum für Gottesdienste und Versammlungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.552139,
+                        7.057599
+                  ]
+            },
+            {
+                  "name": "Word of God",
+                  "text": "Eine christliche Kultstätte, die biblischen Lehren und dem gemeinsamen Gebet gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.55569,
+                        7.060804
+                  ]
+            },
+            {
+                  "name": "Rivier Retreat House",
+                  "text": "Ein christliches Exerzitienhaus, das Besuchern eine ruhige Umgebung für spirituelle Erneuerung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553684,
+                        7.063586
+                  ]
+            },
+            {
+                  "name": "International One Way Church",
+                  "text": "Eine christliche Kirche, die internationale und lokale Gemeindemitglieder zu wöchentlichen Gottesdiensten willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.567213,
+                        7.048286
+                  ]
+            },
+            {
+                  "name": "Hanshin Beatitude Evangelical Church",
+                  "text": "Eine evangelikale christliche Kirche, die sich auf Gemeindeaufbau und spirituelle Versammlungen konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562874,
+                        7.054361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bong Perez Art Gallery",
+                  "text": "Az Eden Természetvédelmi Park közelében található intim művészeti galéria olyan festményeket és alkotásokat mutat be, amelyek gyakran Mindanao vibráló kultúráját tükrözik.",
+                  "category": "museum",
+                  "coords": [
+                        125.541027,
+                        7.057478
+                  ]
+            },
+            {
+                  "name": "The Broadway Melodies",
+                  "text": "A helyi művészeti és kulturális központként működő helyszín zenei próbáknak és kreatív előadásoknak ad otthont a hegyi parkok közelében élő közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        125.556807,
+                        7.055792
+                  ]
+            },
+            {
+                  "name": "SGI Davao Culture Center",
+                  "text": "A Soka Gakkai International által kezelt kulturális központ a békét és a művészeteket hirdeti közösségi kiállítások és buddhista ihletésű filozófiai összejövetelek révén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.564297,
+                        7.062677
+                  ]
+            },
+            {
+                  "name": "San Roque Chapel",
+                  "text": "A San Roquénak szentelt letisztult istentiszteleti hely az Eden Természetvédelmi Park körüli külvárosi negyedeket szolgálja ki heti rendszeres misékkel.",
+                  "category": "religious",
+                  "coords": [
+                        125.52334,
+                        7.097407
+                  ]
+            },
+            {
+                  "name": "Sr. San Vicente Ferrer Chapel",
+                  "text": "A Ferrer Szent Vince tiszteletére emelt helyi szentély könnyen megközelíthető teret biztosít a környékbeli hívőknek a közös áhítathoz és imához.",
+                  "category": "religious",
+                  "coords": [
+                        125.513544,
+                        7.088232
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Chapel",
+                  "text": "A helyi mezőgazdasági örökségben gyökerező környékbeli kápolna a Földműves Szent Izidort tiszteli, és a helyi családok spirituális bázisaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        125.504009,
+                        7.050629
+                  ]
+            },
+            {
+                  "name": "Sr. San Isidro Labrador Chapel",
+                  "text": "Az Eden Természetvédelmi Park közelében, a zöldellő hegyoldalban található kis katolikus kápolna a gazdák védőszentjének van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        125.525313,
+                        7.058305
+                  ]
+            },
+            {
+                  "name": "Baptist Church",
+                  "text": "A bibliai tanításokra nagy hangsúlyt fektető helyi baptista templom élénk vasárnapi istentiszteletekkel és himnuszénekléssel várja a közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        125.567283,
+                        7.053199
+                  ]
+            },
+            {
+                  "name": "Fatima Chapel",
+                  "text": "A Fatimai Szűzanyának szentelt közösségi szentély a Mária-tisztelet és a helyi katolikus összejövetelek kedvelt helyszíne a kerületben.",
+                  "category": "religious",
+                  "coords": [
+                        125.569904,
+                        7.051475
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "A híres Mária-jelenésről elnevezett szerény helyi kápolna békés légkört kínál a rózsafüzér imádságokhoz és a közösségi istentiszteletekhez a hegyi parkok közelében.",
+                  "category": "religious",
+                  "coords": [
+                        125.574221,
+                        7.059475
+                  ]
+            },
+            {
+                  "name": "Mission Society of the Philippines",
+                  "text": "Ez a missziós ház spirituális és adminisztratív központként szolgál a nagyobb Davao területén szociális programokat koordináló katolikus misszionáriusok számára.",
+                  "category": "religious",
+                  "coords": [
+                        125.548094,
+                        7.076517
+                  ]
+            },
+            {
+                  "name": "Sr. San Labrador Chapel",
+                  "text": "A lakóövezetben megbújó egyszerű kápolna ismerős helyszínt biztosít a katolikus családok számára a vallási ünnepek megtartására.",
+                  "category": "religious",
+                  "coords": [
+                        125.576208,
+                        7.036934
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "A szombati napokon istentiszteletet tartó Hetednapi Adventista gyülekezet a bibliai tanulmányok és a közösségi egészségügyi kezdeményezések központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        125.495208,
+                        7.032198
+                  ]
+            },
+            {
+                  "name": "KJC Toril Workers House",
+                  "text": "A Torilban található, a Jézus Krisztus Királysága egyházhoz kötődő vallási létesítmény egyszerre működik gyülekezeti házként és a munkások lakhelyeként.",
+                  "category": "religious",
+                  "coords": [
+                        125.502034,
+                        7.013376
+                  ]
+            },
+            {
+                  "name": "KLC of Toril",
+                  "text": "A nyüzsgő Toril negyedben található központ rendszeres istentiszteletekhez és közösségi tanácsadáshoz biztosít helyet a helyiek számára.",
+                  "category": "religious",
+                  "coords": [
+                        125.496505,
+                        7.022518
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Miguel",
+                  "text": "A Szent Mihály arkangyal oltalmába ajánlott kis GKK kápolna a helyi katolikus összejövetelek és közös imádságok állandó helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        125.449912,
+                        7.041665
+                  ]
+            },
+            {
+                  "name": "CB Sisters",
+                  "text": "A katolikus apácák kongregációja által fenntartott vallási ház békés enklávéként működik a spirituális elvonulásokhoz és az áhítatos elmélkedéshez.",
+                  "category": "religious",
+                  "coords": [
+                        125.567388,
+                        7.046176
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "A környéket határozott keresztény jelenléttel megerősítő templom jól látogatott hétvégi liturgiákkal és kórusénekléssel tiszteli meg Krisztus Királyt.",
+                  "category": "religious",
+                  "coords": [
+                        125.532931,
+                        7.038863
+                  ]
+            },
+            {
+                  "name": "Dream at Bethel Dormitory",
+                  "text": "A lakóintézmény mellett egyházi szolgálatot is működtető komplexum spirituális útmutatással és szállással is támogatja a fiatal keresztény diákokat.",
+                  "category": "religious",
+                  "coords": [
+                        125.492594,
+                        7.087927
+                  ]
+            },
+            {
+                  "name": "Ulas Mini Market",
+                  "text": "Ez a nyüzsgő környékbeli piac az Ulas negyedben napi szinten biztosít friss regionális termékeket, alapvető élelmiszereket és utcai ételeket a helyi lakosok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        125.545199,
+                        7.055101
+                  ]
+            },
+            {
+                  "name": "Shanghai Market",
+                  "text": "A környező közösséget kiszolgáló nyüzsgő szabadtéri piac megfizethető zöldségek, húsok és háztartási cikkek változatos választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        125.571853,
+                        7.041377
+                  ]
+            },
+            {
+                  "name": "Toril Public Market",
+                  "text": "A Toril negyed fő kereskedelmi központjaként ez a kiterjedt nyilvános piac tele van frissen fogott tenger gyümölcseit, gyümölcsöket és napi szükségleti cikkeket árusító árusokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        125.495989,
+                        7.018454
+                  ]
+            },
+            {
+                  "name": "Mintal Public Market",
+                  "text": "A történelmi Mintal területén található hagyományos fedett piac a helyiek elsődleges helyszíne a friss mezőgazdasági termékek és a helyi húsok beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        125.501228,
+                        7.092467
+                  ]
+            },
+            {
+                  "name": "Tagpuan Market",
+                  "text": "Egy nyüzsgő piac a natúrpark közelében, ahol a helyiek árukat cserélnek.",
+                  "category": "cultural",
+                  "coords": [
+                        125.53964,
+                        7.051388
+                  ]
+            },
+            {
+                  "name": "Matina Public Market",
+                  "text": "Egy nyüzsgő piac, ahol a helyi árusok friss termékeket és regionális árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.569958,
+                        7.058546
+                  ]
+            },
+            {
+                  "name": "Bukid Amara",
+                  "text": "Egy festői látványosság a natúrpark közelében, amely békés szabadtéri menedéket kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.514622,
+                        7.04478
+                  ]
+            },
+            {
+                  "name": "Franciscan Sisters of Immaculate Concepcion",
+                  "text": "Egy keresztény hely a natúrpark közelében, amely spirituális menedékként és közösségi központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.53286,
+                        7.09501
+                  ]
+            },
+            {
+                  "name": "Muslim Kapatiran Dawah Center",
+                  "text": "Egy iszlám közösségi központ, amely a spirituális fejlődést és a közösségi életet ápolja a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        125.53708,
+                        7.083475
+                  ]
+            },
+            {
+                  "name": "My Sanctuary",
+                  "text": "Egy nyugodt keresztény elmélkedési helyszín a természetes környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.528943,
+                        7.098337
+                  ]
+            },
+            {
+                  "name": "Sacred Jerusalem Garden 1",
+                  "text": "Egy keresztény kerti látványosság, amelyet csendes imádkozásra és szabadtéri meditációra terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.491461,
+                        7.090939
+                  ]
+            },
+            {
+                  "name": "Holy Ground Family Fellowship",
+                  "text": "Egy helyi keresztény közösségi tér, amely családokat gyűjt össze közös istentiszteletre.",
+                  "category": "landmark",
+                  "coords": [
+                        125.499549,
+                        7.093053
+                  ]
+            },
+            {
+                  "name": "Marist Sisters",
+                  "text": "Egy keresztény szerzetesközösség helyszíne, amely a spirituális oktatásnak és a helyi szolgálatnak szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        125.504294,
+                        7.091456
+                  ]
+            },
+            {
+                  "name": "St. Padre Pio Chapel",
+                  "text": "Egy keresztény kápolna, amely a katolikus áhítat és imádság dedikált helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.525994,
+                        7.081998
+                  ]
+            },
+            {
+                  "name": "San Vicente Ferrer Village Chapel",
+                  "text": "Egy helyi keresztény falusi kápolna, amely közösségi miséknek és vallási összejöveteleknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        125.52529,
+                        7.072752
+                  ]
+            },
+            {
+                  "name": "South Hills Community Church",
+                  "text": "Egy közösségközpontú keresztény templom, amely vallási szolgáltatásokat nyújt a környékbelieknek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.537109,
+                        7.05272
+                  ]
+            },
+            {
+                  "name": "Universal Cathedral",
+                  "text": "Egy kiemelkedő keresztény katedrális, amely az istentisztelet és a gyülekezet fontos központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.552139,
+                        7.057599
+                  ]
+            },
+            {
+                  "name": "Word of God",
+                  "text": "Egy keresztény istentiszteleti hely, amelyet a bibliai tanításoknak és a közösségi imának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.55569,
+                        7.060804
+                  ]
+            },
+            {
+                  "name": "Rivier Retreat House",
+                  "text": "Egy keresztény lelkigyakorlatos ház, amely nyugodt környezetet kínál a látogatóknak a spirituális megújuláshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553684,
+                        7.063586
+                  ]
+            },
+            {
+                  "name": "International One Way Church",
+                  "text": "Egy keresztény templom, amely nemzetközi és helyi gyülekezeti tagokat egyaránt fogad heti istentiszteleteire.",
+                  "category": "landmark",
+                  "coords": [
+                        125.567213,
+                        7.048286
+                  ]
+            },
+            {
+                  "name": "Hanshin Beatitude Evangelical Church",
+                  "text": "Egy evangéliumi keresztény templom, amely a közösségi szerepvállalásra és a spirituális összejövetelekre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562874,
+                        7.054361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bong Perez Art Gallery",
+                  "text": "Prezentând talentul regional, această galerie de artă din apropierea Parcului Natural Eden expune picturi care reflectă adesea cultura vibrantă din Mindanao.",
+                  "category": "museum",
+                  "coords": [
+                        125.541027,
+                        7.057478
+                  ]
+            },
+            {
+                  "name": "The Broadway Melodies",
+                  "text": "Funcționând ca un centru cultural, această locație găzduiește repetiții muzicale și spectacole creative pentru comunitatea din apropierea parcurilor montane.",
+                  "category": "cultural",
+                  "coords": [
+                        125.556807,
+                        7.055792
+                  ]
+            },
+            {
+                  "name": "SGI Davao Culture Center",
+                  "text": "Administrat de Soka Gakkai Internațional, acest centru cultural promovează pacea și artele prin expoziții comunitare și adunări de inspirație budistă.",
+                  "category": "cultural",
+                  "coords": [
+                        125.564297,
+                        7.062677
+                  ]
+            },
+            {
+                  "name": "San Roque Chapel",
+                  "text": "Dedicat lui San Roque, acest lăcaș de cult simplu deservește cartierele suburbane din jurul Parcului Natural Eden cu liturghii săptămânale regulate.",
+                  "category": "religious",
+                  "coords": [
+                        125.52334,
+                        7.097407
+                  ]
+            },
+            {
+                  "name": "Sr. San Vicente Ferrer Chapel",
+                  "text": "Onorându-l pe Sfântul Vincent Ferrer, acest sanctuar religios local oferă un spațiu accesibil credincioșilor din împrejurimi pentru a se aduna la rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        125.513544,
+                        7.088232
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Chapel",
+                  "text": "Înrădăcinată în moștenirea agricolă locală, această capelă de cartier îl venerează pe Sfântul Isidor Plugarul și servește ca o ancoră spirituală pentru familiile locale.",
+                  "category": "religious",
+                  "coords": [
+                        125.504009,
+                        7.050629
+                  ]
+            },
+            {
+                  "name": "Sr. San Isidro Labrador Chapel",
+                  "text": "Aflată la poalele dealurilor verzi de lângă Eden Nature Park, această mică capelă dedicată patronului fermierilor oferă un loc liniștit pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        125.525313,
+                        7.058305
+                  ]
+            },
+            {
+                  "name": "Baptist Church",
+                  "text": "Funcționând cu un accent puternic pe predarea scripturii, acest lăcaș de cult baptist primește comunitatea pentru slujbe pline de viață duminica.",
+                  "category": "religious",
+                  "coords": [
+                        125.567283,
+                        7.053199
+                  ]
+            },
+            {
+                  "name": "Fatima Chapel",
+                  "text": "Dedicat Fecioarei din Fatima, acest sanctuar comunitar este un loc prețuit pentru devoțiuni mariane și adunări catolice în district.",
+                  "category": "religious",
+                  "coords": [
+                        125.569904,
+                        7.051475
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Numită după faimoasa apariție mariană, această capelă oferă o atmosferă pașnică pentru privegheri și închinare comunitară în apropierea parcurilor montane.",
+                  "category": "religious",
+                  "coords": [
+                        125.574221,
+                        7.059475
+                  ]
+            },
+            {
+                  "name": "Mission Society of the Philippines",
+                  "text": "Această casă de misiune servește ca centru spiritual și administrativ pentru misionarii catolici care coordonează programe sociale în zona Davao.",
+                  "category": "religious",
+                  "coords": [
+                        125.548094,
+                        7.076517
+                  ]
+            },
+            {
+                  "name": "Sr. San Labrador Chapel",
+                  "text": "Ascunsă într-o zonă rezidențială, această capelă oferă familiilor catolice o locație familiară de cartier pentru a respecta zilele de sărbătoare religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        125.576208,
+                        7.036934
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "Observând închinarea sâmbăta, această biserică adventistă servește drept punct focal pentru studiu biblic și inițiative comunitare de sănătate în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        125.495208,
+                        7.032198
+                  ]
+            },
+            {
+                  "name": "KJC Toril Workers House",
+                  "text": "Asociată cu Regatul lui Isus Hristos, această unitate religioasă din Toril funcționează atât ca casă de întâlnire, cât și ca locuință pentru lucrătorii bisericii.",
+                  "category": "religious",
+                  "coords": [
+                        125.502034,
+                        7.013376
+                  ]
+            },
+            {
+                  "name": "KLC of Toril",
+                  "text": "Situat în districtul plin de viață Toril, acest centru oferă spațiu pentru servicii scripturale regulate și consiliere comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        125.496505,
+                        7.022518
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Miguel",
+                  "text": "Invocând protecția Sfântului Arhanghel Mihail, această mică capelă GKK este un cadru regulat pentru adunări catolice și rugăciuni comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        125.449912,
+                        7.041665
+                  ]
+            },
+            {
+                  "name": "CB Sisters",
+                  "text": "Această casă religioasă întreținută de o congregație de surori catolice funcționează ca o enclavă pașnică pentru retrageri spirituale și contemplare evlavioasă.",
+                  "category": "religious",
+                  "coords": [
+                        125.567388,
+                        7.046176
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "Ancorându-și cartierul cu o prezență creștină robustă, această biserică îl onorează pe Hristos Regele prin liturghii de weekend cu o mare participare.",
+                  "category": "religious",
+                  "coords": [
+                        125.532931,
+                        7.038863
+                  ]
+            },
+            {
+                  "name": "Dream at Bethel Dormitory",
+                  "text": "Operând o lucrare a bisericii alături de o facilitate de locuit, acest complex sprijină tinerii studenți creștini atât cu îndrumare spirituală, cât și cu cazare.",
+                  "category": "religious",
+                  "coords": [
+                        125.492594,
+                        7.087927
+                  ]
+            },
+            {
+                  "name": "Ulas Mini Market",
+                  "text": "Această piață de cartier plină de viață din Ulas oferă locuitorilor acces zilnic la produse regionale proaspete, alimente de bază și tarabe cu mâncare stradală.",
+                  "category": "cultural",
+                  "coords": [
+                        125.545199,
+                        7.055101
+                  ]
+            },
+            {
+                  "name": "Shanghai Market",
+                  "text": "Deservind comunitatea înconjurătoare, această piață animată în aer liber oferă o selecție variată de legume accesibile, carne și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        125.571853,
+                        7.041377
+                  ]
+            },
+            {
+                  "name": "Toril Public Market",
+                  "text": "Fiind un centru comercial major pentru districtul Toril, această piață publică extinsă este plină de vânzători de fructe de mare proaspăt prinse, fructe și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        125.495989,
+                        7.018454
+                  ]
+            },
+            {
+                  "name": "Mintal Public Market",
+                  "text": "Situată în zona istorică Mintal, această piață tradițională acoperită este locul principal unde localnicii pot achiziționa produse agricole proaspete și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        125.501228,
+                        7.092467
+                  ]
+            },
+            {
+                  "name": "Tagpuan Market",
+                  "text": "O piață plină de viață în apropierea parcului natural, unde localnicii fac schimb de mărfuri.",
+                  "category": "cultural",
+                  "coords": [
+                        125.53964,
+                        7.051388
+                  ]
+            },
+            {
+                  "name": "Matina Public Market",
+                  "text": "O piață plină de viață unde vânzătorii locali vând produse proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.569958,
+                        7.058546
+                  ]
+            },
+            {
+                  "name": "Bukid Amara",
+                  "text": "O atracție pitorească în apropierea parcului natural, care oferă vizitatorilor un refugiu liniștit în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        125.514622,
+                        7.04478
+                  ]
+            },
+            {
+                  "name": "Franciscan Sisters of Immaculate Concepcion",
+                  "text": "Un sit creștin din apropierea parcului natural, care servește drept refugiu spiritual și centru comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        125.53286,
+                        7.09501
+                  ]
+            },
+            {
+                  "name": "Muslim Kapatiran Dawah Center",
+                  "text": "Un centru comunitar islamic care promovează creșterea spirituală și comuniunea în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        125.53708,
+                        7.083475
+                  ]
+            },
+            {
+                  "name": "My Sanctuary",
+                  "text": "Un loc de reflecție creștin și liniștit, amplasat în mijlocul naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        125.528943,
+                        7.098337
+                  ]
+            },
+            {
+                  "name": "Sacred Jerusalem Garden 1",
+                  "text": "O grădină creștină concepută pentru rugăciune liniștită și meditație în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        125.491461,
+                        7.090939
+                  ]
+            },
+            {
+                  "name": "Holy Ground Family Fellowship",
+                  "text": "Un spațiu local de comuniune creștină care adună familiile pentru închinare comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        125.499549,
+                        7.093053
+                  ]
+            },
+            {
+                  "name": "Marist Sisters",
+                  "text": "Un loc al comunității religioase creștine dedicat educației spirituale și serviciului local.",
+                  "category": "landmark",
+                  "coords": [
+                        125.504294,
+                        7.091456
+                  ]
+            },
+            {
+                  "name": "St. Padre Pio Chapel",
+                  "text": "O capelă creștină care servește drept loc dedicat devoțiunii și rugăciunii catolice.",
+                  "category": "landmark",
+                  "coords": [
+                        125.525994,
+                        7.081998
+                  ]
+            },
+            {
+                  "name": "San Vicente Ferrer Village Chapel",
+                  "text": "O capelă creștină de sat care găzduiește slujbe comunitare și adunări religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        125.52529,
+                        7.072752
+                  ]
+            },
+            {
+                  "name": "South Hills Community Church",
+                  "text": "O biserică creștină axată pe comunitate, care oferă servicii religioase cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.537109,
+                        7.05272
+                  ]
+            },
+            {
+                  "name": "Universal Cathedral",
+                  "text": "O catedrală creștină proeminentă care servește ca centru major pentru închinare și congregație.",
+                  "category": "landmark",
+                  "coords": [
+                        125.552139,
+                        7.057599
+                  ]
+            },
+            {
+                  "name": "Word of God",
+                  "text": "Un lăcaș de cult creștin dedicat învățăturilor biblice și rugăciunii comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        125.55569,
+                        7.060804
+                  ]
+            },
+            {
+                  "name": "Rivier Retreat House",
+                  "text": "O casă de retragere creștină care oferă vizitatorilor un mediu senin pentru reînnoire spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553684,
+                        7.063586
+                  ]
+            },
+            {
+                  "name": "International One Way Church",
+                  "text": "O biserică creștină care primește enoriași internaționali și locali pentru slujbele săptămânale.",
+                  "category": "landmark",
+                  "coords": [
+                        125.567213,
+                        7.048286
+                  ]
+            },
+            {
+                  "name": "Hanshin Beatitude Evangelical Church",
+                  "text": "O biserică evanghelică creștină axată pe implicarea comunității și adunările spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562874,
+                        7.054361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bong Perez Art Gallery",
+                  "text": "Showcasing regional talent, this intimate art gallery near Eden Nature Park displays paintings and visual artworks that often reflect Mindanao's vibrant culture.",
+                  "category": "museum",
+                  "coords": [
+                        125.541027,
+                        7.057478
+                  ]
+            },
+            {
+                  "name": "The Broadway Melodies",
+                  "text": "Functioning as a local arts and cultural center, this venue hosts musical rehearsals and creative performances for the community near the mountain parks.",
+                  "category": "cultural",
+                  "coords": [
+                        125.556807,
+                        7.055792
+                  ]
+            },
+            {
+                  "name": "SGI Davao Culture Center",
+                  "text": "Managed by Soka Gakkai International, this culture center promotes peace and arts through community exhibitions and Buddhist-inspired philosophical gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        125.564297,
+                        7.062677
+                  ]
+            },
+            {
+                  "name": "San Roque Chapel",
+                  "text": "Dedicated to San Roque, this straightforward place of worship serves the suburban neighborhoods around Eden Nature Park with regular weekly masses.",
+                  "category": "religious",
+                  "coords": [
+                        125.52334,
+                        7.097407
+                  ]
+            },
+            {
+                  "name": "Sr. San Vicente Ferrer Chapel",
+                  "text": "Honoring Saint Vincent Ferrer, this local religious sanctuary provides an accessible space for the surrounding faithful to gather for devotions and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        125.513544,
+                        7.088232
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Chapel",
+                  "text": "Rooted in the local agricultural heritage, this neighborhood chapel venerates Saint Isidore the Laborer and serves as a spiritual anchor for local families.",
+                  "category": "religious",
+                  "coords": [
+                        125.504009,
+                        7.050629
+                  ]
+            },
+            {
+                  "name": "Sr. San Isidro Labrador Chapel",
+                  "text": "Found in the green foothills near Eden Nature Park, this small Catholic chapel dedicated to the patron saint of farmers offers a quiet spot for neighborhood prayer.",
+                  "category": "religious",
+                  "coords": [
+                        125.525313,
+                        7.058305
+                  ]
+            },
+            {
+                  "name": "Baptist Church",
+                  "text": "Operating with a strong focus on scriptural teaching, this local Baptist place of worship welcomes the community for lively Sunday services and hymn singing.",
+                  "category": "religious",
+                  "coords": [
+                        125.567283,
+                        7.053199
+                  ]
+            },
+            {
+                  "name": "Fatima Chapel",
+                  "text": "Dedicated to Our Lady of Fatima, this community sanctuary is a cherished location for Marian devotions and localized Catholic gatherings in the district.",
+                  "category": "religious",
+                  "coords": [
+                        125.569904,
+                        7.051475
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Chapel",
+                  "text": "Named for the famous Marian apparition, this modest local chapel offers a peaceful atmosphere for rosary vigils and community worship near the mountain parks.",
+                  "category": "religious",
+                  "coords": [
+                        125.574221,
+                        7.059475
+                  ]
+            },
+            {
+                  "name": "Mission Society of the Philippines",
+                  "text": "This mission house serves as a spiritual and administrative center for Catholic missionaries coordinating outreach and social programs in the greater Davao area.",
+                  "category": "religious",
+                  "coords": [
+                        125.548094,
+                        7.076517
+                  ]
+            },
+            {
+                  "name": "Sr. San Labrador Chapel",
+                  "text": "Tucked into a residential pocket, this straightforward chapel provides Catholic families with a familiar neighborhood venue for observing religious feast days.",
+                  "category": "religious",
+                  "coords": [
+                        125.576208,
+                        7.036934
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "Observing worship on Saturdays, this Seventh-Day Adventist church acts as a focal point for biblical study and community health initiatives in the area.",
+                  "category": "religious",
+                  "coords": [
+                        125.495208,
+                        7.032198
+                  ]
+            },
+            {
+                  "name": "KJC Toril Workers House",
+                  "text": "Associated with the Kingdom of Jesus Christ, this religious facility in Toril functions as both a meeting house and residential quarters for church workers.",
+                  "category": "religious",
+                  "coords": [
+                        125.502034,
+                        7.013376
+                  ]
+            },
+            {
+                  "name": "KLC of Toril",
+                  "text": "Located within the bustling Toril district, this Kingdom Light Congregation center provides space for regular scriptural services and community counseling.",
+                  "category": "religious",
+                  "coords": [
+                        125.496505,
+                        7.022518
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Miguel",
+                  "text": "Invoking the protection of Saint Michael the Archangel, this small GKK chapel is a regular setting for grassroots Catholic gatherings and localized community prayers.",
+                  "category": "religious",
+                  "coords": [
+                        125.449912,
+                        7.041665
+                  ]
+            },
+            {
+                  "name": "CB Sisters",
+                  "text": "This religious house maintained by a congregation of Catholic sisters functions as a peaceful enclave for spiritual retreats and devout contemplation.",
+                  "category": "religious",
+                  "coords": [
+                        125.567388,
+                        7.046176
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "Anchoring its neighborhood with a robust Christian presence, this church honors Christ the King with well-attended weekend liturgies and choral singing.",
+                  "category": "religious",
+                  "coords": [
+                        125.532931,
+                        7.038863
+                  ]
+            },
+            {
+                  "name": "Dream at Bethel Dormitory",
+                  "text": "Operating a church ministry alongside a living facility, this complex supports young Christian students and residents with both spiritual guidance and lodging.",
+                  "category": "religious",
+                  "coords": [
+                        125.492594,
+                        7.087927
+                  ]
+            },
+            {
+                  "name": "Ulas Mini Market",
+                  "text": "This bustling neighborhood marketplace in Ulas provides local residents with daily access to fresh regional produce, basic groceries, and street food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        125.545199,
+                        7.055101
+                  ]
+            },
+            {
+                  "name": "Shanghai Market",
+                  "text": "Serving the surrounding community, this lively open-air market offers a varied selection of affordable vegetables, meats, and household wares.",
+                  "category": "cultural",
+                  "coords": [
+                        125.571853,
+                        7.041377
+                  ]
+            },
+            {
+                  "name": "Toril Public Market",
+                  "text": "As a major commercial hub for the Toril district, this expansive public market is packed with vendors selling freshly caught seafood, fruits, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        125.495989,
+                        7.018454
+                  ]
+            },
+            {
+                  "name": "Mintal Public Market",
+                  "text": "Located in the historic Mintal area, this traditional covered marketplace is the primary spot for locals to purchase fresh agricultural goods and local meats.",
+                  "category": "cultural",
+                  "coords": [
+                        125.501228,
+                        7.092467
+                  ]
+            },
+            {
+                  "name": "Tagpuan Market",
+                  "text": "A bustling marketplace near the nature park where locals gather to trade goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.53964,
+                        7.051388
+                  ]
+            },
+            {
+                  "name": "Matina Public Market",
+                  "text": "A bustling marketplace where local vendors sell fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.569958,
+                        7.058546
+                  ]
+            },
+            {
+                  "name": "Bukid Amara",
+                  "text": "A scenic attraction near the nature park offering visitors a peaceful outdoor retreat.",
+                  "category": "landmark",
+                  "coords": [
+                        125.514622,
+                        7.04478
+                  ]
+            },
+            {
+                  "name": "Franciscan Sisters of Immaculate Concepcion",
+                  "text": "A Christian site serving as a spiritual retreat and community center near the nature park.",
+                  "category": "landmark",
+                  "coords": [
+                        125.53286,
+                        7.09501
+                  ]
+            },
+            {
+                  "name": "Muslim Kapatiran Dawah Center",
+                  "text": "An Islamic community center fostering spiritual growth and fellowship in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.53708,
+                        7.083475
+                  ]
+            },
+            {
+                  "name": "My Sanctuary",
+                  "text": "A tranquil Christian place of reflection set amidst the natural surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        125.528943,
+                        7.098337
+                  ]
+            },
+            {
+                  "name": "Sacred Jerusalem Garden 1",
+                  "text": "A Christian garden attraction designed for quiet prayer and meditation outdoors.",
+                  "category": "landmark",
+                  "coords": [
+                        125.491461,
+                        7.090939
+                  ]
+            },
+            {
+                  "name": "Holy Ground Family Fellowship",
+                  "text": "A local Christian fellowship space gathering families for communal worship.",
+                  "category": "landmark",
+                  "coords": [
+                        125.499549,
+                        7.093053
+                  ]
+            },
+            {
+                  "name": "Marist Sisters",
+                  "text": "A Christian religious community site dedicated to spiritual education and local service.",
+                  "category": "landmark",
+                  "coords": [
+                        125.504294,
+                        7.091456
+                  ]
+            },
+            {
+                  "name": "St. Padre Pio Chapel",
+                  "text": "A Christian chapel serving as a dedicated place of Catholic devotion and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        125.525994,
+                        7.081998
+                  ]
+            },
+            {
+                  "name": "San Vicente Ferrer Village Chapel",
+                  "text": "A local Christian village chapel hosting community masses and religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        125.52529,
+                        7.072752
+                  ]
+            },
+            {
+                  "name": "South Hills Community Church",
+                  "text": "A community-focused Christian church providing religious services to the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        125.537109,
+                        7.05272
+                  ]
+            },
+            {
+                  "name": "Universal Cathedral",
+                  "text": "A prominent Christian cathedral serving as a major center for worship and congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        125.552139,
+                        7.057599
+                  ]
+            },
+            {
+                  "name": "Word of God",
+                  "text": "A Christian place of worship dedicated to biblical teachings and community prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        125.55569,
+                        7.060804
+                  ]
+            },
+            {
+                  "name": "Rivier Retreat House",
+                  "text": "A Christian retreat facility offering visitors a serene environment for spiritual renewal.",
+                  "category": "landmark",
+                  "coords": [
+                        125.553684,
+                        7.063586
+                  ]
+            },
+            {
+                  "name": "International One Way Church",
+                  "text": "A Christian church welcoming international and local congregants for weekly services.",
+                  "category": "landmark",
+                  "coords": [
+                        125.567213,
+                        7.048286
+                  ]
+            },
+            {
+                  "name": "Hanshin Beatitude Evangelical Church",
+                  "text": "An evangelical Christian church focused on community outreach and spiritual gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562874,
+                        7.054361
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PH-DAS",
     coords: [125.4983, 7.0211],
@@ -326,7 +4664,1240 @@ image: "/poi-images/ph-eden-nature-park-life-v2.webp",
     
   },
   {
-    id: "ph-hacienda-luisita-life-v2",
+    id: "ph-hacienda-luisita-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tarlac Cathedral",
+                  "text": "Eine bedeutende katholische Kathedrale, die dem Heiligen Sebastian gewidmet ist und für ihren modernen Wiederaufbau nach dem Krieg bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        120.588107,
+                        15.487733
+                  ]
+            },
+            {
+                  "name": "DZTC Transmitter",
+                  "text": "Eine hoch aufragende Sendeantenne für Radioübertragungen, die die lokale Skyline dominiert.",
+                  "category": "tower",
+                  "coords": [
+                        120.597706,
+                        15.493027
+                  ]
+            },
+            {
+                  "name": "Tarlac Provincial Capitol",
+                  "text": "Der neoklassizistische Sitz der Provinzregierung, der markant auf einem malerischen Hügel steht.",
+                  "category": "historical",
+                  "coords": [
+                        120.588029,
+                        15.480313
+                  ]
+            },
+            {
+                  "name": "Maria Cristina Park",
+                  "text": "Eine landschaftlich gestaltete öffentliche Grünanlage in der Nähe des Kapitols, die zu Ehren einer lokalen historischen Persönlichkeit benannt wurde.",
+                  "category": "park",
+                  "coords": [
+                        120.58817,
+                        15.481451
+                  ]
+            },
+            {
+                  "name": "Nayong Pilipino",
+                  "text": "Ein Freilicht-Kulturmuseumspark, der Nachbildungen berühmter philippinischer Sehenswürdigkeiten und einheimischer Architektur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        120.587196,
+                        15.479139
+                  ]
+            },
+            {
+                  "name": "Aquino Center and Museum",
+                  "text": "Ein historisches Museum, das das Erbe und die Erinnerungsstücke von Corazon und Ninoy Aquino bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        120.601926,
+                        15.434521
+                  ]
+            },
+            {
+                  "name": "Armed Forces Museum of the Province of Tarlac",
+                  "text": "Ein militärhistorisches Museum, das Artefakte und Dokumente der philippinischen Streitkräfte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        120.598529,
+                        15.435248
+                  ]
+            },
+            {
+                  "name": "Diwa ng Tarlac",
+                  "text": "Ein Kultur- und Kongresszentrum, das Kunstausstellungen veranstaltet und das Erbe der Provinz feiert.",
+                  "category": "museum",
+                  "coords": [
+                        120.587935,
+                        15.482546
+                  ]
+            },
+            {
+                  "name": "Capas National Shrine",
+                  "text": "Ein feierlicher Gedenkobelisk, der die philippinischen und amerikanischen Soldaten des Todesmarsches von Bataan ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        120.545271,
+                        15.348929
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ein lokales Gemeindehaus der Mormonen, das Gottesdienste und gemeindliche Dienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        120.594524,
+                        15.494923
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Ein christlicher Gottesdienstraum, in dem sich die lokale Gemeinde zum Gebet und zur Gemeinschaft versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        120.59144,
+                        15.487322
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo - Locale of Tarlac City",
+                  "text": "Diese lokale Gemeinde der philippinischen unabhängigen christlichen Kirche dient den Gläubigen im Gebiet von Tarlac City.",
+                  "category": "religious",
+                  "coords": [
+                        120.590699,
+                        15.484678
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Ruiz Parish",
+                  "text": "Diese dem ersten philippinischen Heiligen gewidmete Pfarrkirche dient der katholischen Gemeinde in der Region Hacienda Luisita.",
+                  "category": "religious",
+                  "coords": [
+                        120.588274,
+                        15.472066
+                  ]
+            },
+            {
+                  "name": "Red Cross Chapel",
+                  "text": "Diese kleine christliche Kapelle bietet einen ruhigen Ort für Gebet und spirituelle Reflexion innerhalb der örtlichen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        120.604868,
+                        15.465009
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Chapel",
+                  "text": "Eine Marienkapelle, die den spirituellen Bedürfnissen der katholischen Bewohner in der Gegend von Tarlac dient.",
+                  "category": "religious",
+                  "coords": [
+                        120.603431,
+                        15.462724
+                  ]
+            },
+            {
+                  "name": "Saint Michael the Archangel Parish",
+                  "text": "Diese Pfarrkirche versammelt die örtliche katholische Gemeinde unter dem Patronat des Erzengels Michael.",
+                  "category": "religious",
+                  "coords": [
+                        120.597845,
+                        15.428728
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Parish Church",
+                  "text": "Diese der Marienerscheinung von Lourdes gewidmete Pfarrkirche dient den örtlichen katholischen Gläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        120.619094,
+                        15.483232
+                  ]
+            },
+            {
+                  "name": "San Jose United Methodist Church",
+                  "text": "Ein markantes protestantisches Gotteshaus, in dem methodistische Gottesdienste und Gemeindetreffen in der Gegend stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        120.649723,
+                        15.489749
+                  ]
+            },
+            {
+                  "name": "Sandugo",
+                  "text": "Ein geschäftiger lokaler Marktplatz, auf dem Händler frische regionale Produkte und alltägliche Haushaltswaren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.587701,
+                        15.486622
+                  ]
+            },
+            {
+                  "name": "Danganan",
+                  "text": "Dieser Gemeindemarkt bietet eine lebhafte Auswahl an lokalen Lebensmitteln, Lebensmitteln und handwerklichen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        120.536325,
+                        15.356827
+                  ]
+            },
+            {
+                  "name": "Market Basket",
+                  "text": "Ein lokales Handelszentrum, das die Bewohner mit Waren des täglichen Bedarfs, frischem Fleisch und regionalen landwirtschaftlichen Erzeugnissen versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        120.598598,
+                        15.440833
+                  ]
+            },
+            {
+                  "name": "Tarlac Public Market B Section",
+                  "text": "Dieser spezielle Bereich des weitläufigen Marktkomplexes von Tarlac ist spezialisierten lokalen Händlern und Trockenwaren gewidmet.",
+                  "category": "cultural",
+                  "coords": [
+                        120.590461,
+                        15.491939
+                  ]
+            },
+            {
+                  "name": "Tarlac City Downtown Public Market",
+                  "text": "Das geschäftige zentrale Handelszentrum in der Innenstadt von Tarlac mit unzähligen Ständen für frische Meeresfrüchte, Gemüse und regionale Delikatessen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.591776,
+                        15.489466
+                  ]
+            },
+            {
+                  "name": "Sampaguita Garden",
+                  "text": "Eine bezaubernde lokale Attraktion, in der wahrscheinlich die duftende Nationalblume der Philippinen gezüchtet und präsentiert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        120.613608,
+                        15.473131
+                  ]
+            },
+            {
+                  "name": "Tarvet Chapel",
+                  "text": "Eine bescheidene christliche Kapelle, die der nahe gelegenen Gemeinde in Tarlac eine ruhige Umgebung für Gottesdienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.59399,
+                        15.454998
+                  ]
+            },
+            {
+                  "name": "San Sebastian Village Church",
+                  "text": "Diese in der Wohnsiedlung gelegene christliche Kirche fungiert als spirituelles Zentrum für ihre Bewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        120.594542,
+                        15.469361
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Ein zweckmäßiges, modernes Gebäude, das als zentraler Treffpunkt und Gotteshaus für die örtlichen Zeugen Jehovas dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.59873,
+                        15.423338
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Lokal ng Tibag",
+                  "text": "Diese einzigartig gestaltete Kirche mit ihren charakteristischen schmalen Türmen richtet sich an die Anhänger der Iglesia ni Cristo im Barangay Tibag.",
+                  "category": "landmark",
+                  "coords": [
+                        120.581217,
+                        15.488807
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Lokal ng San Isidro",
+                  "text": "Das ausgewiesene Gotteshaus der Gemeinde San Isidro der unabhängigen Konfession Iglesia ni Cristo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.587986,
+                        15.50284
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Parish Church",
+                  "text": "Eine zentrale katholische Pfarrkirche, die ihre Andacht auf den Heiligen Rosenkranz konzentriert und der Gemeinde tägliche Sakramente anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.531837,
+                        15.357913
+                  ]
+            },
+            {
+                  "name": "Dutung A Matas Chapel",
+                  "text": "Diese lokale christliche Kapelle versammelt die Gläubigen der umliegenden Nachbarschaft zum wöchentlichen Gebet und zur Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        120.625831,
+                        15.333041
+                  ]
+            },
+            {
+                  "name": "Manlapig Catholic Chapel",
+                  "text": "Ein katholischer Gebetsraum im Viertel, in dem die Bewohner der Gegend von Manlapig kleinere liturgische Gottesdienste feiern.",
+                  "category": "landmark",
+                  "coords": [
+                        120.567631,
+                        15.359831
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Diese für ihr pastellfarbenes Äußeres und ihre spitzen fialen im gotischen Stil bekannte Kirche dient den INC-Mitgliedern der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        120.556245,
+                        15.371099
+                  ]
+            },
+            {
+                  "name": "San Felipe Parish",
+                  "text": "Diese nach dem Heiligen Philippus benannte christliche Gemeinde bietet der örtlichen Gemeinde von Tarlac religiöse Führung und regelmäßige Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.555684,
+                        15.372454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tarlac Cathedral",
+                  "text": "Szent Sebestyénnek szentelt jelentős katolikus katedrális, amely a háború utáni modern újjáépítéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        120.588107,
+                        15.487733
+                  ]
+            },
+            {
+                  "name": "DZTC Transmitter",
+                  "text": "Egy magasba tornyosuló rádióadó antenna, amely uralja a helyi látképet.",
+                  "category": "tower",
+                  "coords": [
+                        120.597706,
+                        15.493027
+                  ]
+            },
+            {
+                  "name": "Tarlac Provincial Capitol",
+                  "text": "A tartományi kormányzat neoklasszikus székhelye, amely egy festői dombon áll.",
+                  "category": "historical",
+                  "coords": [
+                        120.588029,
+                        15.480313
+                  ]
+            },
+            {
+                  "name": "Maria Cristina Park",
+                  "text": "Egy parkosított nyilvános zöldterület a Capitolium közelében, amelyet egy helyi történelmi személyiségről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        120.58817,
+                        15.481451
+                  ]
+            },
+            {
+                  "name": "Nayong Pilipino",
+                  "text": "Egy szabadtéri kulturális múzeumpark, amely híres fülöp-szigeteki nevezetességek másolatait és az őslakos építészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        120.587196,
+                        15.479139
+                  ]
+            },
+            {
+                  "name": "Aquino Center and Museum",
+                  "text": "Történelmi múzeum, amely Corazon és Ninoy Aquino örökségét és emléktárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        120.601926,
+                        15.434521
+                  ]
+            },
+            {
+                  "name": "Armed Forces Museum of the Province of Tarlac",
+                  "text": "Hadtörténeti múzeum, amely a fülöp-szigeteki fegyveres erők műtárgyait és dokumentumait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        120.598529,
+                        15.435248
+                  ]
+            },
+            {
+                  "name": "Diwa ng Tarlac",
+                  "text": "Egy kulturális és kongresszusi központ, amely művészeti kiállításoknak ad otthont, és a tartomány örökségét ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        120.587935,
+                        15.482546
+                  ]
+            },
+            {
+                  "name": "Capas National Shrine",
+                  "text": "Egy ünnepélyes emlékobeliszk, amely a bataani halálmenet fülöp-szigeteki és amerikai katonái előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        120.545271,
+                        15.348929
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A mormonok helyi gyülekezeti háza, amely istentiszteletet és közösségi szolgáltatásokat nyújt.",
+                  "category": "religious",
+                  "coords": [
+                        120.594524,
+                        15.494923
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Egy keresztény istentiszteleti tér, ahol a helyi gyülekezet imára és közösségre gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        120.59144,
+                        15.487322
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo - Locale of Tarlac City",
+                  "text": "A Fülöp-szigeteki független keresztény felekezet helyi gyülekezete a Tarlac City területén élő hívőket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        120.590699,
+                        15.484678
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Ruiz Parish",
+                  "text": "Az első Fülöp-szigeteki szentnek szentelt plébániatemplom a Hacienda Luisita régió katolikus közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        120.588274,
+                        15.472066
+                  ]
+            },
+            {
+                  "name": "Red Cross Chapel",
+                  "text": "Ez a kis keresztény kápolna csendes teret biztosít az imádkozáshoz és a spirituális elmélyüléshez a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        120.604868,
+                        15.465009
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Chapel",
+                  "text": "Egy Szűz Máriának szentelt kápolna, amely a tarlaci katolikus lakosok spirituális igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        120.603431,
+                        15.462724
+                  ]
+            },
+            {
+                  "name": "Saint Michael the Archangel Parish",
+                  "text": "Ez a plébániatemplom a helyi katolikus közösséget fogja össze Szent Mihály arkangyal védnöksége alatt.",
+                  "category": "religious",
+                  "coords": [
+                        120.597845,
+                        15.428728
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Parish Church",
+                  "text": "A lourdes-i Mária-jelenéseknek szentelt plébániatemplom a helyi katolikus hívőket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        120.619094,
+                        15.483232
+                  ]
+            },
+            {
+                  "name": "San Jose United Methodist Church",
+                  "text": "Egy jelentős protestáns istentiszteleti hely, amely metodista szertartásoknak és közösségi összejöveteleknek ad otthont a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        120.649723,
+                        15.489749
+                  ]
+            },
+            {
+                  "name": "Sandugo",
+                  "text": "Egy forgalmas helyi piac, ahol az árusok friss regionális termékeket és mindennapi háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        120.587701,
+                        15.486622
+                  ]
+            },
+            {
+                  "name": "Danganan",
+                  "text": "Ez a közösségi piac helyi élelmiszerek, élelmiszeripari termékek és kézműves áruk élénk választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        120.536325,
+                        15.356827
+                  ]
+            },
+            {
+                  "name": "Market Basket",
+                  "text": "Helyi kereskedelmi központ, amely napi szükségleti cikkekkel, friss húsokkal és regionális mezőgazdasági terményekkel látja el a lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        120.598598,
+                        15.440833
+                  ]
+            },
+            {
+                  "name": "Tarlac Public Market B Section",
+                  "text": "A kiterjedt tarlaci piac ezen különálló zónája a speciális helyi árusoknak és a szárazáruknak van szentelve.",
+                  "category": "cultural",
+                  "coords": [
+                        120.590461,
+                        15.491939
+                  ]
+            },
+            {
+                  "name": "Tarlac City Downtown Public Market",
+                  "text": "A nyüzsgő központi kereskedelmi központ Tarlac belvárosában, ahol számtalan friss tenger gyümölcseit, zöldséget és regionális finomságokat kínáló stand található.",
+                  "category": "cultural",
+                  "coords": [
+                        120.591776,
+                        15.489466
+                  ]
+            },
+            {
+                  "name": "Sampaguita Garden",
+                  "text": "Elbűvölő helyi látványosság, amely valószínűleg a Fülöp-szigetek illatos nemzeti virágát termesztik és mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        120.613608,
+                        15.473131
+                  ]
+            },
+            {
+                  "name": "Tarvet Chapel",
+                  "text": "Egy szerény keresztény kápolna, amely békés istentiszteleti környezetet biztosít a tarlaci közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        120.59399,
+                        15.454998
+                  ]
+            },
+            {
+                  "name": "San Sebastian Village Church",
+                  "text": "A lakóövezetben található keresztény templom a helyi lakosok spirituális központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        120.594542,
+                        15.469361
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Praktikus, modern épület, amely a helyi Jehova Tanúi központi találkozóhelyeként és istentiszteleti központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        120.59873,
+                        15.423338
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Lokal ng Tibag",
+                  "text": "Ez az egyedi tervezésű templom a rá jellemző keskeny tornyokkal a Tibag barangay Iglesia ni Cristo híveit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        120.581217,
+                        15.488807
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Lokal ng San Isidro",
+                  "text": "A független Iglesia ni Cristo felekezet San Isidro-i gyülekezetének kijelölt istentiszteleti épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        120.587986,
+                        15.50284
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Parish Church",
+                  "text": "Egy központi katolikus plébánia, amelynek áhítata a Szent Rózsafüzérre összpontosít, és napi szentségeket kínál a közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        120.531837,
+                        15.357913
+                  ]
+            },
+            {
+                  "name": "Dutung A Matas Chapel",
+                  "text": "Ez a helyi keresztény kápolna a környező környék hívőit gyűjti össze heti imára és közösségi együttlétre.",
+                  "category": "landmark",
+                  "coords": [
+                        120.625831,
+                        15.333041
+                  ]
+            },
+            {
+                  "name": "Manlapig Catholic Chapel",
+                  "text": "Egy környékbeli katolikus imatér, ahol a Manlapig terület lakói kisebb léptékű liturgikus szertartásokat ünnepelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        120.567631,
+                        15.359831
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "A pasztellszínű külsejéről és a gótikus stílusú éles fiáléiról ismert templom a régió INC-tagjait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        120.556245,
+                        15.371099
+                  ]
+            },
+            {
+                  "name": "San Felipe Parish",
+                  "text": "A Szent Fülöpről elnevezett keresztény plébánia vallási útmutatást és rendszeres miséket biztosít a helyi tarlaci közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        120.555684,
+                        15.372454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tarlac Cathedral",
+                  "text": "O catedrală catolică semnificativă dedicată Sfântului Sebastian, cunoscută pentru reconstrucția sa modernă de după război.",
+                  "category": "religious",
+                  "coords": [
+                        120.588107,
+                        15.487733
+                  ]
+            },
+            {
+                  "name": "DZTC Transmitter",
+                  "text": "O antenă de radiodifuziune impunătoare care domină orizontul local pentru transmisiile radio.",
+                  "category": "tower",
+                  "coords": [
+                        120.597706,
+                        15.493027
+                  ]
+            },
+            {
+                  "name": "Tarlac Provincial Capitol",
+                  "text": "Sediul neoclasic al guvernului provincial, situat proeminent pe un deal pitoresc.",
+                  "category": "historical",
+                  "coords": [
+                        120.588029,
+                        15.480313
+                  ]
+            },
+            {
+                  "name": "Maria Cristina Park",
+                  "text": "Un spațiu verde public amenajat lângă capitoliu, numit în onoarea unei figuri istorice locale.",
+                  "category": "park",
+                  "coords": [
+                        120.58817,
+                        15.481451
+                  ]
+            },
+            {
+                  "name": "Nayong Pilipino",
+                  "text": "Un parc-muzeu cultural în aer liber care prezintă replici ale faimoaselor repere și ale arhitecturii indigene filipineze.",
+                  "category": "museum",
+                  "coords": [
+                        120.587196,
+                        15.479139
+                  ]
+            },
+            {
+                  "name": "Aquino Center and Museum",
+                  "text": "Un muzeu istoric care păstrează moștenirea și obiectele personale ale lui Corazon și Ninoy Aquino.",
+                  "category": "museum",
+                  "coords": [
+                        120.601926,
+                        15.434521
+                  ]
+            },
+            {
+                  "name": "Armed Forces Museum of the Province of Tarlac",
+                  "text": "Un muzeu de istorie militară care expune artefacte și documente din forțele armate filipineze.",
+                  "category": "museum",
+                  "coords": [
+                        120.598529,
+                        15.435248
+                  ]
+            },
+            {
+                  "name": "Diwa ng Tarlac",
+                  "text": "Un centru cultural și de convenții care găzduiește expoziții de artă și celebrează moștenirea provinciei.",
+                  "category": "museum",
+                  "coords": [
+                        120.587935,
+                        15.482546
+                  ]
+            },
+            {
+                  "name": "Capas National Shrine",
+                  "text": "Un obelisc memorial solemn care onorează soldații filipinezi și americani din Marșul Morții de la Bataan.",
+                  "category": "historical",
+                  "coords": [
+                        120.545271,
+                        15.348929
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "O casă de întruniri locală a mormonilor care oferă slujbe și servicii comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        120.594524,
+                        15.494923
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Un spațiu de cult creștin care adună congregația locală pentru rugăciune și părtășie.",
+                  "category": "religious",
+                  "coords": [
+                        120.59144,
+                        15.487322
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo - Locale of Tarlac City",
+                  "text": "Această congregație locală a confesiunii creștine independente din Filipine deservește credincioșii din zona Tarlac City.",
+                  "category": "religious",
+                  "coords": [
+                        120.590699,
+                        15.484678
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Ruiz Parish",
+                  "text": "Dedicată primului sfânt filipinez, această biserică parohială deservește comunitatea catolică din regiunea Hacienda Luisita.",
+                  "category": "religious",
+                  "coords": [
+                        120.588274,
+                        15.472066
+                  ]
+            },
+            {
+                  "name": "Red Cross Chapel",
+                  "text": "Această mică capelă creștină oferă un spațiu liniștit pentru rugăciune și reflecție spirituală în cadrul comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        120.604868,
+                        15.465009
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Chapel",
+                  "text": "O capelă mariană care deservește nevoile spirituale ale rezidenților catolici din zona Tarlac.",
+                  "category": "religious",
+                  "coords": [
+                        120.603431,
+                        15.462724
+                  ]
+            },
+            {
+                  "name": "Saint Michael the Archangel Parish",
+                  "text": "Această biserică parohială adună congregația catolică locală sub patronajul Sfântului Arhanghel Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        120.597845,
+                        15.428728
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Parish Church",
+                  "text": "Dedicată aparițiilor mariane de la Lourdes, această biserică parohială deservește credincioșii catolici locali.",
+                  "category": "religious",
+                  "coords": [
+                        120.619094,
+                        15.483232
+                  ]
+            },
+            {
+                  "name": "San Jose United Methodist Church",
+                  "text": "Un lăcaș de cult protestant proeminent, care găzduiește slujbe metodiste și adunări comunitare în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        120.649723,
+                        15.489749
+                  ]
+            },
+            {
+                  "name": "Sandugo",
+                  "text": "O piață locală aglomerată, unde vânzătorii oferă produse regionale proaspete și bunuri de uz casnic zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        120.587701,
+                        15.486622
+                  ]
+            },
+            {
+                  "name": "Danganan",
+                  "text": "Această piață comunitară oferă o gamă vibrantă de alimente locale, produse de băcănie și bunuri artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        120.536325,
+                        15.356827
+                  ]
+            },
+            {
+                  "name": "Market Basket",
+                  "text": "Un centru comercial local care oferă rezidenților necesitățile zilnice, carne proaspătă și recolte agricole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        120.598598,
+                        15.440833
+                  ]
+            },
+            {
+                  "name": "Tarlac Public Market B Section",
+                  "text": "Această zonă specifică a vastului complex de piețe din Tarlac este dedicată vânzătorilor locali specializați și produselor uscate.",
+                  "category": "cultural",
+                  "coords": [
+                        120.590461,
+                        15.491939
+                  ]
+            },
+            {
+                  "name": "Tarlac City Downtown Public Market",
+                  "text": "Centrul comercial aglomerat din centrul orașului Tarlac, cu nenumărate tarabe cu fructe de mare proaspete, legume și delicatese regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        120.591776,
+                        15.489466
+                  ]
+            },
+            {
+                  "name": "Sampaguita Garden",
+                  "text": "O atracție locală fermecătoare care cultivă și expune, probabil, floarea națională parfumată a Filipinelor.",
+                  "category": "landmark",
+                  "coords": [
+                        120.613608,
+                        15.473131
+                  ]
+            },
+            {
+                  "name": "Tarvet Chapel",
+                  "text": "O capelă creștină modestă, care oferă un mediu de cult senin pentru comunitatea din apropiere din Tarlac.",
+                  "category": "landmark",
+                  "coords": [
+                        120.59399,
+                        15.454998
+                  ]
+            },
+            {
+                  "name": "San Sebastian Village Church",
+                  "text": "Situată în zona rezidențială, această biserică creștină funcționează ca nucleu spiritual pentru locuitorii săi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.594542,
+                        15.469361
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "O clădire modernă și funcțională, care servește drept loc central de întâlnire și lăcaș de cult pentru Martorii lui Iehova locali.",
+                  "category": "landmark",
+                  "coords": [
+                        120.59873,
+                        15.423338
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Lokal ng Tibag",
+                  "text": "Această biserică cu un design unic, cu turlele sale înguste caracteristice, se adresează adepților Iglesia ni Cristo din cartierul Tibag.",
+                  "category": "landmark",
+                  "coords": [
+                        120.581217,
+                        15.488807
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Lokal ng San Isidro",
+                  "text": "Clădirea de cult desemnată pentru congregația San Isidro a confesiunii independente Iglesia ni Cristo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.587986,
+                        15.50284
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Parish Church",
+                  "text": "O parohie catolică centrală care își concentrează devotamentul pe Sfântul Rozariu și oferă sacramente zilnice comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        120.531837,
+                        15.357913
+                  ]
+            },
+            {
+                  "name": "Dutung A Matas Chapel",
+                  "text": "Această capelă creștină locală adună credincioșii din cartierul înconjurător pentru rugăciune și părtășie săptămânală.",
+                  "category": "landmark",
+                  "coords": [
+                        120.625831,
+                        15.333041
+                  ]
+            },
+            {
+                  "name": "Manlapig Catholic Chapel",
+                  "text": "Un spațiu de rugăciune catolic de cartier unde locuitorii din zona Manlapig celebrează slujbe liturgice la scară mai mică.",
+                  "category": "landmark",
+                  "coords": [
+                        120.567631,
+                        15.359831
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Distinctivă prin exteriorul său pastelat și pinaclurile ascuțite în stil gotic, această biserică deservește membrii INC din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        120.556245,
+                        15.371099
+                  ]
+            },
+            {
+                  "name": "San Felipe Parish",
+                  "text": "Numită după Sfântul Filip, această parohie creștină oferă îndrumare religioasă și liturghii regulate pentru comunitatea locală din Tarlac.",
+                  "category": "landmark",
+                  "coords": [
+                        120.555684,
+                        15.372454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tarlac Cathedral",
+                  "text": "A significant Catholic cathedral dedicated to Saint Sebastian, known for its post-war modern reconstruction.",
+                  "category": "religious",
+                  "coords": [
+                        120.588107,
+                        15.487733
+                  ]
+            },
+            {
+                  "name": "DZTC Transmitter",
+                  "text": "A towering broadcasting antenna dominating the local skyline for radio transmissions.",
+                  "category": "tower",
+                  "coords": [
+                        120.597706,
+                        15.493027
+                  ]
+            },
+            {
+                  "name": "Tarlac Provincial Capitol",
+                  "text": "The neoclassical seat of the provincial government, set prominently on a scenic hill.",
+                  "category": "historical",
+                  "coords": [
+                        120.588029,
+                        15.480313
+                  ]
+            },
+            {
+                  "name": "Maria Cristina Park",
+                  "text": "A landscaped public green space near the capitol, named in honor of a local historical figure.",
+                  "category": "park",
+                  "coords": [
+                        120.58817,
+                        15.481451
+                  ]
+            },
+            {
+                  "name": "Nayong Pilipino",
+                  "text": "An open-air cultural museum park showcasing replicas of famous Philippine landmarks and indigenous architecture.",
+                  "category": "museum",
+                  "coords": [
+                        120.587196,
+                        15.479139
+                  ]
+            },
+            {
+                  "name": "Aquino Center and Museum",
+                  "text": "A historical museum preserving the legacy and memorabilia of Corazon and Ninoy Aquino.",
+                  "category": "museum",
+                  "coords": [
+                        120.601926,
+                        15.434521
+                  ]
+            },
+            {
+                  "name": "Armed Forces Museum of the Province of Tarlac",
+                  "text": "A military history museum exhibiting artifacts and documents from the Philippine armed forces.",
+                  "category": "museum",
+                  "coords": [
+                        120.598529,
+                        15.435248
+                  ]
+            },
+            {
+                  "name": "Diwa ng Tarlac",
+                  "text": "A cultural and convention center hosting art exhibitions and celebrating the province's heritage.",
+                  "category": "museum",
+                  "coords": [
+                        120.587935,
+                        15.482546
+                  ]
+            },
+            {
+                  "name": "Capas National Shrine",
+                  "text": "A solemn memorial obelisk honoring the Filipino and American soldiers of the Bataan Death March.",
+                  "category": "historical",
+                  "coords": [
+                        120.545271,
+                        15.348929
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A local Mormon meetinghouse providing worship and community services.",
+                  "category": "religious",
+                  "coords": [
+                        120.594524,
+                        15.494923
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "A Christian worship space gathering the local congregation for prayer and fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        120.59144,
+                        15.487322
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo - Locale of Tarlac City",
+                  "text": "This local congregation of the Philippine-based independent Christian denomination serves worshippers in the Tarlac City area.",
+                  "category": "religious",
+                  "coords": [
+                        120.590699,
+                        15.484678
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Ruiz Parish",
+                  "text": "Dedicated to the first Filipino saint, this local parish church serves the Catholic community in the Hacienda Luisita region.",
+                  "category": "religious",
+                  "coords": [
+                        120.588274,
+                        15.472066
+                  ]
+            },
+            {
+                  "name": "Red Cross Chapel",
+                  "text": "This small Christian chapel provides a quiet space for prayer and spiritual reflection within the local community.",
+                  "category": "religious",
+                  "coords": [
+                        120.604868,
+                        15.465009
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Chapel",
+                  "text": "A dedicated Marian chapel serving the spiritual needs of Catholic residents in the Tarlac area.",
+                  "category": "religious",
+                  "coords": [
+                        120.603431,
+                        15.462724
+                  ]
+            },
+            {
+                  "name": "Saint Michael the Archangel Parish",
+                  "text": "This parish church gathers the local Catholic congregation under the patronage of Saint Michael the Archangel.",
+                  "category": "religious",
+                  "coords": [
+                        120.597845,
+                        15.428728
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Parish Church",
+                  "text": "Serving the local Catholic faithful, this parish church is dedicated to the Marian apparitions at Lourdes.",
+                  "category": "religious",
+                  "coords": [
+                        120.619094,
+                        15.483232
+                  ]
+            },
+            {
+                  "name": "San Jose United Methodist Church",
+                  "text": "A prominent Protestant place of worship hosting Methodist services and community gatherings in the area.",
+                  "category": "religious",
+                  "coords": [
+                        120.649723,
+                        15.489749
+                  ]
+            },
+            {
+                  "name": "Sandugo",
+                  "text": "A busy local marketplace where vendors sell fresh regional produce and daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        120.587701,
+                        15.486622
+                  ]
+            },
+            {
+                  "name": "Danganan",
+                  "text": "This community marketplace offers a vibrant array of local foods, groceries, and artisanal goods.",
+                  "category": "cultural",
+                  "coords": [
+                        120.536325,
+                        15.356827
+                  ]
+            },
+            {
+                  "name": "Market Basket",
+                  "text": "A local commercial hub providing residents with daily necessities, fresh meats, and regional agricultural harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        120.598598,
+                        15.440833
+                  ]
+            },
+            {
+                  "name": "Tarlac Public Market B Section",
+                  "text": "This specific zone of the sprawling Tarlac market complex is dedicated to specialized local vendors and dry goods.",
+                  "category": "cultural",
+                  "coords": [
+                        120.590461,
+                        15.491939
+                  ]
+            },
+            {
+                  "name": "Tarlac City Downtown Public Market",
+                  "text": "The bustling central trading center in downtown Tarlac, featuring countless stalls of fresh seafood, vegetables, and regional delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        120.591776,
+                        15.489466
+                  ]
+            },
+            {
+                  "name": "Sampaguita Garden",
+                  "text": "A charming local attraction likely cultivating and showcasing the Philippines' fragrant national flower.",
+                  "category": "landmark",
+                  "coords": [
+                        120.613608,
+                        15.473131
+                  ]
+            },
+            {
+                  "name": "Tarvet Chapel",
+                  "text": "A modest Christian chapel providing a serene worship environment for the nearby community in Tarlac.",
+                  "category": "landmark",
+                  "coords": [
+                        120.59399,
+                        15.454998
+                  ]
+            },
+            {
+                  "name": "San Sebastian Village Church",
+                  "text": "Situated within the residential village, this Christian church functions as the spiritual core for its local inhabitants.",
+                  "category": "landmark",
+                  "coords": [
+                        120.594542,
+                        15.469361
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A functional, modern building serving as the central meeting place and worship center for local Jehovah's Witnesses.",
+                  "category": "landmark",
+                  "coords": [
+                        120.59873,
+                        15.423338
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Lokal ng Tibag",
+                  "text": "This uniquely designed church with its signature narrow spires caters to the Iglesia ni Cristo followers in the Tibag barangay.",
+                  "category": "landmark",
+                  "coords": [
+                        120.581217,
+                        15.488807
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Lokal ng San Isidro",
+                  "text": "The designated worship building for the San Isidro congregation of the independent Iglesia ni Cristo denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        120.587986,
+                        15.50284
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Parish Church",
+                  "text": "A central Catholic parish focusing its devotion on the Holy Rosary and offering daily sacraments to the community.",
+                  "category": "landmark",
+                  "coords": [
+                        120.531837,
+                        15.357913
+                  ]
+            },
+            {
+                  "name": "Dutung A Matas Chapel",
+                  "text": "This local Christian chapel gathers the faithful of the surrounding neighborhood for weekly prayer and fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        120.625831,
+                        15.333041
+                  ]
+            },
+            {
+                  "name": "Manlapig Catholic Chapel",
+                  "text": "A neighborhood Catholic prayer space where residents of the Manlapig area celebrate smaller scale liturgical services.",
+                  "category": "landmark",
+                  "coords": [
+                        120.567631,
+                        15.359831
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Distinctive for its pastel exterior and sharp gothic-style pinnacles, this church serves the INC members of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        120.556245,
+                        15.371099
+                  ]
+            },
+            {
+                  "name": "San Felipe Parish",
+                  "text": "Named after Saint Philip, this Christian parish provides religious guidance and regular masses for the local Tarlac community.",
+                  "category": "landmark",
+                  "coords": [
+                        120.555684,
+                        15.372454
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "PH-TAR",
     coords: [120.6000, 15.4167],
@@ -380,7 +5951,1168 @@ image: "/poi-images/ph-hacienda-luisita-life-v2.webp",
     
   },
   {
-    id: "ph-mindanao-baptist-rural-life-center-life-v2",
+    id: "ph-mindanao-baptist-rural-life-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of God",
+                  "text": "Ein lokales Gotteshaus der Gemeinde Church of God im ländlichen Bezirk von Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.341362,
+                        6.755952
+                  ]
+            },
+            {
+                  "name": "The Kingdom of Jesus Christ",
+                  "text": "Ein Gottesdienstzentrum der Konfession The Kingdom of Jesus Christ im ländlichen Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.35458,
+                        6.754889
+                  ]
+            },
+            {
+                  "name": "The Jesus is Lord Ministries International",
+                  "text": "Ein Zweig einer internationalen charismatischen christlichen Kirche in der Landwirtschaftsregion Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.343193,
+                        6.639142
+                  ]
+            },
+            {
+                  "name": "Redeemed By The Blood Ministries",
+                  "text": "Ein lokales christliches Gemeindegebäude, das ländliche Gottesdienste in Mindanao anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        125.338271,
+                        6.640947
+                  ]
+            },
+            {
+                  "name": "Pastulan sa Mga Pinatikang Katawhan sa Silangan Ministry Church",
+                  "text": "Eine regionale indigene Missionskirche, die der lokalen spirituellen Gemeinschaft in Mindanao dient.",
+                  "category": "religious",
+                  "coords": [
+                        125.220932,
+                        6.663151
+                  ]
+            },
+            {
+                  "name": "Garden of Eden Cathedral of Praise",
+                  "text": "Ein Lobpreis- und Anbetungszentrum, das den Namen Garden of Eden Cathedral in der Landschaft von Mindanao trägt.",
+                  "category": "religious",
+                  "coords": [
+                        125.32976,
+                        6.762719
+                  ]
+            },
+            {
+                  "name": "Four Square",
+                  "text": "Eine lokale Foursquare Gospel-Kirche, die pfingstlerische Gottesdienste im ländlichen Mindanao anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        125.360172,
+                        6.744346
+                  ]
+            },
+            {
+                  "name": "Vegetable Section",
+                  "text": "Ein eigener Bereich des lokalen öffentlichen Marktes mit Ständen voller frischer landwirtschaftlicher Produkte aus Mindanao.",
+                  "category": "cultural",
+                  "coords": [
+                        125.344224,
+                        6.640226
+                  ]
+            },
+            {
+                  "name": "Matti Market Vendors Association",
+                  "text": "Ein kooperativer Marktplatz, der von lokalen Verkäufern in Matti betrieben wird und tägliche Lebensmittel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        125.305513,
+                        6.767428
+                  ]
+            },
+            {
+                  "name": "Digos City Public Market",
+                  "text": "Der kommerzielle Hauptmarkt in Digos City, der von Händlern belebt wird, die regionales Fleisch und Gemüse verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.356663,
+                        6.748496
+                  ]
+            },
+            {
+                  "name": "Hagonoy Public Market",
+                  "text": "Ein belebter städtischer Markt in Hagonoy, auf dem die örtlichen Bauern ihre frische Ernte zum Verkauf anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        125.295213,
+                        6.68412
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Jose",
+                  "text": "Eine katholische Kapelle der kirchlichen Basisgemeinde, die dem Heiligen Josef im ländlichen Mindanao geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.333596,
+                        6.764757
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muadz",
+                  "text": "Eine lokale islamische Moschee, die den täglichen Gebetsbedürfnissen von Muslimen im Landwirtschaftszentrum von Mindanao dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.336997,
+                        6.770799
+                  ]
+            },
+            {
+                  "name": "GKK San Antonio De Padua",
+                  "text": "Ein lokales katholisches Versammlungshaus, das nach Antonius von Padua benannt ist und die Gläubigen in Mindanao versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.324972,
+                        6.758123
+                  ]
+            },
+            {
+                  "name": "Mary Mediatrix",
+                  "text": "Ein christlicher Andachtsort in der Region Mindanao, der Maria als Mittlerin aller Gnaden ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.341139,
+                        6.762099
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Fatima Chapel",
+                  "text": "Eine ländliche katholische Gemeindekapelle in Mindanao, die der Jungfrau von Fatima gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.350574,
+                        6.741286
+                  ]
+            },
+            {
+                  "name": "Digos City Southern Baptist Church",
+                  "text": "Das Kirchengebäude einer Gemeinde der Südlichen Baptisten, das Gottesdienste in Digos City anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.356077,
+                        6.743302
+                  ]
+            },
+            {
+                  "name": "GKK Divine Mercy",
+                  "text": "Eine kleine katholische Kapelle in der ländlichen Landschaft von Mindanao, die der Andacht zur Barmherzigkeit Gottes gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.353551,
+                        6.743634
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muhmin",
+                  "text": "Eine islamische Kultstätte, die der lokalen muslimischen Gemeinschaft in der Region Mindanao dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.358522,
+                        6.745777
+                  ]
+            },
+            {
+                  "name": "Panon sa 12 ka Banay",
+                  "text": "Ein lokaler christlicher Versammlungsort im Bereich des Mindanao Rural Life Centers.",
+                  "category": "landmark",
+                  "coords": [
+                        125.337303,
+                        6.741131
+                  ]
+            },
+            {
+                  "name": "GKK - Senior Sto. Niño",
+                  "text": "Eine lokale christliche Gemeindekapelle in Mindanao, die dem verehrten Santo Niño gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.259411,
+                        6.619665
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Fatima",
+                  "text": "Eine christliche Nachbarschaftskapelle in der Region Mindanao, die Unserer Lieben Frau von Fatima gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.280261,
+                        6.75497
+                  ]
+            },
+            {
+                  "name": "Lokal ng Tres de Mayo, Iglesia ni Cristo",
+                  "text": "Ein lokales Gotteshaus der christlichen Glaubensgemeinschaft Iglesia ni Cristo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.331263,
+                        6.766078
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ein Versammlungshaus der Heiligen der Letzten Tage, das den spirituellen Bedürfnissen der lokalen Gemeinde in Mindanao dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.350092,
+                        6.756789
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Lourdes",
+                  "text": "Eine bescheidene christliche Gemeindekapelle in Mindanao, die Unserer Lieben Frau von Lourdes gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.348897,
+                        6.757408
+                  ]
+            },
+            {
+                  "name": "Power Southern Baptist Church",
+                  "text": "Ein südliches baptistisches Gottesdienstzentrum, das in der ländlichen Region Mindanao errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        125.342689,
+                        6.764707
+                  ]
+            },
+            {
+                  "name": "The United Methodist Church",
+                  "text": "Ein Versammlungsort der evangelisch-methodistischen Kirche, der Raum für christliche Gottesdienste in Mindanao bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.358545,
+                        6.743038
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Eine charakteristische Kapelle der Iglesia ni Cristo, die der christlichen Gemeinde in der Region Mindanao dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.354966,
+                        6.732603
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Parish Church",
+                  "text": "Eine christliche Pfarrkirche, die dem Heiligen Isidor von Madrid, dem Schutzpatron der Bauern, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.355431,
+                        6.738099
+                  ]
+            },
+            {
+                  "name": "GKK Santa Ana",
+                  "text": "Eine christliche Basis-Gemeindekapelle in der Region Mindanao, die der Heiligen Anna gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.335619,
+                        6.753526
+                  ]
+            },
+            {
+                  "name": "Maliit Digos Chapel",
+                  "text": "Eine kleine, lokale christliche Kapelle, die einen spirituellen Versammlungsraum für die Gemeinde in Digos bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.250572,
+                        6.697141
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador",
+                  "text": "Ein christliches Gotteshaus in Mindanao, das dem Schutzpatron der Landarbeiter gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.300456,
+                        6.687004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of God",
+                  "text": "Az Isten Egyháza gyülekezet helyi istentiszteleti helye a mindanaói vidéki körzetben.",
+                  "category": "religious",
+                  "coords": [
+                        125.341362,
+                        6.755952
+                  ]
+            },
+            {
+                  "name": "The Kingdom of Jesus Christ",
+                  "text": "A The Kingdom of Jesus Christ felekezethez tartozó istentiszteleti központ Mindanao vidékén.",
+                  "category": "religious",
+                  "coords": [
+                        125.35458,
+                        6.754889
+                  ]
+            },
+            {
+                  "name": "The Jesus is Lord Ministries International",
+                  "text": "Egy nemzetközi karizmatikus keresztény egyház fiókintézménye a mindanaói mezőgazdasági régióban.",
+                  "category": "religious",
+                  "coords": [
+                        125.343193,
+                        6.639142
+                  ]
+            },
+            {
+                  "name": "Redeemed By The Blood Ministries",
+                  "text": "Egy helyi keresztény szolgálati épület, amely vidéki vallási szolgáltatásokat nyújt Mindanaón.",
+                  "category": "religious",
+                  "coords": [
+                        125.338271,
+                        6.640947
+                  ]
+            },
+            {
+                  "name": "Pastulan sa Mga Pinatikang Katawhan sa Silangan Ministry Church",
+                  "text": "Regionális bennszülött missziós egyház, amely a mindanaói helyi szellemi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        125.220932,
+                        6.663151
+                  ]
+            },
+            {
+                  "name": "Garden of Eden Cathedral of Praise",
+                  "text": "Egy dicsőítő és istentiszteleti központ, amely az Édenkert Katedrális nevet viseli Mindanao vidékén.",
+                  "category": "religious",
+                  "coords": [
+                        125.32976,
+                        6.762719
+                  ]
+            },
+            {
+                  "name": "Four Square",
+                  "text": "Egy helyi Foursquare Gospel templom, amely pünkösdi istentiszteletet kínál Mindanao vidékén.",
+                  "category": "religious",
+                  "coords": [
+                        125.360172,
+                        6.744346
+                  ]
+            },
+            {
+                  "name": "Vegetable Section",
+                  "text": "A helyi nyilvános piac egy külön területe, ahol friss mindanaói termékekkel teli standok találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        125.344224,
+                        6.640226
+                  ]
+            },
+            {
+                  "name": "Matti Market Vendors Association",
+                  "text": "A helyi árusok által üzemeltetett szövetkezeti piactér Mattiban, amely napi élelmiszereket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        125.305513,
+                        6.767428
+                  ]
+            },
+            {
+                  "name": "Digos City Public Market",
+                  "text": "Digos City fő kereskedelmi piaca, amely nyüzsög a regionális húst és zöldséget árusító kereskedőktől.",
+                  "category": "cultural",
+                  "coords": [
+                        125.356663,
+                        6.748496
+                  ]
+            },
+            {
+                  "name": "Hagonoy Public Market",
+                  "text": "Egy forgalmas önkormányzati piac Hagonoyban, ahová a helyi gazdák eladásra hozzák friss termésüket.",
+                  "category": "cultural",
+                  "coords": [
+                        125.295213,
+                        6.68412
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Jose",
+                  "text": "Szent Józsefnek szentelt katolikus egyházi alapközösségi kápolna Mindanao vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.333596,
+                        6.764757
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muadz",
+                  "text": "Helyi iszlám mecset, amely a mindanaói mezőgazdasági központ muszlimjainak napi imaszükségleteit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.336997,
+                        6.770799
+                  ]
+            },
+            {
+                  "name": "GKK San Antonio De Padua",
+                  "text": "Egy helyi katolikus gyülekezeti ház, amelyet Páduai Szent Antalról neveztek el, és amely összegyűjti a mindanaói híveket.",
+                  "category": "landmark",
+                  "coords": [
+                        125.324972,
+                        6.758123
+                  ]
+            },
+            {
+                  "name": "Mary Mediatrix",
+                  "text": "Keresztény istentiszteleti hely a mindanaói régióban, amely Máriát, mint minden kegyelem közvetítőjét tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        125.341139,
+                        6.762099
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Fatima Chapel",
+                  "text": "Egy vidéki katolikus közösségi kápolna a mindanaói régióban, amelyet a fatimai Szűzanyának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.350574,
+                        6.741286
+                  ]
+            },
+            {
+                  "name": "Digos City Southern Baptist Church",
+                  "text": "Egy déli baptista gyülekezet templomépülete, amely istentiszteleteket tart Digos Cityben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.356077,
+                        6.743302
+                  ]
+            },
+            {
+                  "name": "GKK Divine Mercy",
+                  "text": "Az Isteni Irgalmasság tiszteletére szentelt kis katolikus kápolna a mindanaói vidéki tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        125.353551,
+                        6.743634
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muhmin",
+                  "text": "Iszlám istentiszteleti hely, amely a helyi muszlim közösséget szolgálja Mindanao régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.358522,
+                        6.745777
+                  ]
+            },
+            {
+                  "name": "Panon sa 12 ka Banay",
+                  "text": "Helyi keresztény gyülekezeti helyszín a mindanaói vidéki életközpont területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.337303,
+                        6.741131
+                  ]
+            },
+            {
+                  "name": "GKK - Senior Sto. Niño",
+                  "text": "A tisztelt Santo Niño tiszteletére szentelt helyi keresztény közösségi kápolna Mindanaóban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.259411,
+                        6.619665
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Fatima",
+                  "text": "A Fatimai Szűzanya tiszteletére szentelt keresztény szomszédsági kápolna Mindanao régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.280261,
+                        6.75497
+                  ]
+            },
+            {
+                  "name": "Lokal ng Tres de Mayo, Iglesia ni Cristo",
+                  "text": "Az Iglesia ni Cristo keresztény felekezethez tartozó helyi gyülekezeti istentiszteleti épület.",
+                  "category": "landmark",
+                  "coords": [
+                        125.331263,
+                        6.766078
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Az Utolsó Napok Szentjeinek gyülekezeti háza, amely a helyi mindanaói gyülekezet spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.350092,
+                        6.756789
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Lourdes",
+                  "text": "A Lourdes-i Szűzanya tiszteletére emelt szerény keresztény közösségi kápolna Mindanaóban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.348897,
+                        6.757408
+                  ]
+            },
+            {
+                  "name": "Power Southern Baptist Church",
+                  "text": "Déli baptista istentiszteleti központ, amelyet Mindanao vidéki régiójában hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        125.342689,
+                        6.764707
+                  ]
+            },
+            {
+                  "name": "The United Methodist Church",
+                  "text": "Az Egyesült Metodista Egyház gyülekezeti helyszíne, amely teret biztosít a keresztény istentiszteletnek Mindanaóban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.358545,
+                        6.743038
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Az Iglesia ni Cristo jellegzetes kápolnája, amely a mindanaói terület keresztény közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.354966,
+                        6.732603
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Parish Church",
+                  "text": "A földművesek védőszentjének, Földműves Szent Izidornak szentelt keresztény plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        125.355431,
+                        6.738099
+                  ]
+            },
+            {
+                  "name": "GKK Santa Ana",
+                  "text": "A mindanaói régióban található, Szent Annának szentelt keresztény közösségi kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        125.335619,
+                        6.753526
+                  ]
+            },
+            {
+                  "name": "Maliit Digos Chapel",
+                  "text": "Egy kis helyi keresztény kápolna, amely spirituális gyülekezési teret kínál a digosi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.250572,
+                        6.697141
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador",
+                  "text": "Mezőgazdasági munkások védőszentjének szentelt keresztény istentiszteleti hely Mindanaóban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.300456,
+                        6.687004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of God",
+                  "text": "Un lăcaș de cult local pentru congregația Bisericii lui Dumnezeu din districtul rural Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.341362,
+                        6.755952
+                  ]
+            },
+            {
+                  "name": "The Kingdom of Jesus Christ",
+                  "text": "Un centru de cult aparținând confesiunii Regatul lui Isus Hristos în zona rurală Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.35458,
+                        6.754889
+                  ]
+            },
+            {
+                  "name": "The Jesus is Lord Ministries International",
+                  "text": "O filială a bisericii creștine carismatice internaționale situată în regiunea agricolă Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.343193,
+                        6.639142
+                  ]
+            },
+            {
+                  "name": "Redeemed By The Blood Ministries",
+                  "text": "O clădire locală a slujirii creștine care oferă servicii religioase rurale în Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.338271,
+                        6.640947
+                  ]
+            },
+            {
+                  "name": "Pastulan sa Mga Pinatikang Katawhan sa Silangan Ministry Church",
+                  "text": "O biserică regională a slujirii indigene care deservește comunitatea spirituală locală din Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.220932,
+                        6.663151
+                  ]
+            },
+            {
+                  "name": "Garden of Eden Cathedral of Praise",
+                  "text": "Un centru de laudă și închinare care poartă numele Catedrala Grădina Edenului în mediul rural din Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.32976,
+                        6.762719
+                  ]
+            },
+            {
+                  "name": "Four Square",
+                  "text": "O biserică locală a Evangheliei Foursquare care oferă un cult penticostal în zona rurală Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.360172,
+                        6.744346
+                  ]
+            },
+            {
+                  "name": "Vegetable Section",
+                  "text": "O zonă dedicată a pieței publice locale, cu tarabe pline cu produse proaspete din Mindanao.",
+                  "category": "cultural",
+                  "coords": [
+                        125.344224,
+                        6.640226
+                  ]
+            },
+            {
+                  "name": "Matti Market Vendors Association",
+                  "text": "Un spațiu de piață cooperativ administrat de vânzători locali din Matti, oferind provizii zilnice de alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        125.305513,
+                        6.767428
+                  ]
+            },
+            {
+                  "name": "Digos City Public Market",
+                  "text": "Principala piață comercială din orașul Digos, plină de comercianți care vând carne și legume regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.356663,
+                        6.748496
+                  ]
+            },
+            {
+                  "name": "Hagonoy Public Market",
+                  "text": "O piață municipală aglomerată din Hagonoy, unde fermierii locali își aduc recoltele proaspete la vânzare.",
+                  "category": "cultural",
+                  "coords": [
+                        125.295213,
+                        6.68412
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Jose",
+                  "text": "O capelă a comunității ecleziale de bază catolice dedicată Sfântului Iosif, situată în zona rurală Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.333596,
+                        6.764757
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muadz",
+                  "text": "O moschee islamică locală care deservește nevoile zilnice de rugăciune ale musulmanilor din centrul agricol din Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.336997,
+                        6.770799
+                  ]
+            },
+            {
+                  "name": "GKK San Antonio De Padua",
+                  "text": "O casă de întrunire catolică locală numită după Anton de Padova, adunând credincioșii din Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.324972,
+                        6.758123
+                  ]
+            },
+            {
+                  "name": "Mary Mediatrix",
+                  "text": "Un lăcaș de cult creștin care o onorează pe Maria ca Mijlocitoare a tuturor Harurilor în regiunea Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.341139,
+                        6.762099
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Fatima Chapel",
+                  "text": "O capelă rurală a comunității catolice dedicată Fecioarei de la Fatima în Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.350574,
+                        6.741286
+                  ]
+            },
+            {
+                  "name": "Digos City Southern Baptist Church",
+                  "text": "O biserică a unei congregații a Baptiștilor din Sud care oferă servicii religioase în orașul Digos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.356077,
+                        6.743302
+                  ]
+            },
+            {
+                  "name": "GKK Divine Mercy",
+                  "text": "O mică capelă catolică dedicată devotamentului Divinei Îndurări în peisajul rural din Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.353551,
+                        6.743634
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muhmin",
+                  "text": "Un lăcaș de cult islamic care deservește comunitatea musulmană locală din regiunea Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.358522,
+                        6.745777
+                  ]
+            },
+            {
+                  "name": "Panon sa 12 ka Banay",
+                  "text": "Un loc de adunare al bisericii creștine locale din zona centrului de viață rurală din Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.337303,
+                        6.741131
+                  ]
+            },
+            {
+                  "name": "GKK - Senior Sto. Niño",
+                  "text": "O capelă a comunității creștine locale dedicată veneratului Santo Niño din Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.259411,
+                        6.619665
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Fatima",
+                  "text": "O capelă creștină de cartier dedicată Maicii Domnului din Fatima, în regiunea Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.280261,
+                        6.75497
+                  ]
+            },
+            {
+                  "name": "Lokal ng Tres de Mayo, Iglesia ni Cristo",
+                  "text": "O clădire de cult a congregației locale aparținând confesiunii creștine Iglesia ni Cristo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.331263,
+                        6.766078
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "O casă de întruniri a Sfinților din Zilele din Urmă care deservește nevoile spirituale ale congregației locale din Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.350092,
+                        6.756789
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Lourdes",
+                  "text": "O capelă modestă a comunității creștine care o onorează pe Maica Domnului de la Lourdes în Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.348897,
+                        6.757408
+                  ]
+            },
+            {
+                  "name": "Power Southern Baptist Church",
+                  "text": "Un centru de cult baptist de sud înființat în regiunea rurală din Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.342689,
+                        6.764707
+                  ]
+            },
+            {
+                  "name": "The United Methodist Church",
+                  "text": "Un site al congregației metodiste unite care oferă un spațiu pentru cultul creștin în Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.358545,
+                        6.743038
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "O capelă caracteristică a Iglesia ni Cristo care deservește comunitatea creștină din zona Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.354966,
+                        6.732603
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Parish Church",
+                  "text": "O biserică parohială creștină dedicată Sfântului Isidor Muncitorul, sfântul patron al fermierilor.",
+                  "category": "landmark",
+                  "coords": [
+                        125.355431,
+                        6.738099
+                  ]
+            },
+            {
+                  "name": "GKK Santa Ana",
+                  "text": "O capelă a comunității creștine de bază dedicată Sfintei Ana în regiunea Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.335619,
+                        6.753526
+                  ]
+            },
+            {
+                  "name": "Maliit Digos Chapel",
+                  "text": "O mică capelă creștină locală care oferă un spațiu de adunare spirituală pentru comunitatea din Digos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.250572,
+                        6.697141
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador",
+                  "text": "Un lăcaș de cult creștin din Mindanao dedicat sfântului patron al muncitorilor agricoli.",
+                  "category": "landmark",
+                  "coords": [
+                        125.300456,
+                        6.687004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of God",
+                  "text": "A local place of worship for the Church of God congregation in the Mindanao rural district.",
+                  "category": "religious",
+                  "coords": [
+                        125.341362,
+                        6.755952
+                  ]
+            },
+            {
+                  "name": "The Kingdom of Jesus Christ",
+                  "text": "A worship center belonging to The Kingdom of Jesus Christ denomination in rural Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.35458,
+                        6.754889
+                  ]
+            },
+            {
+                  "name": "The Jesus is Lord Ministries International",
+                  "text": "An international charismatic Christian church branch set in the Mindanao agricultural region.",
+                  "category": "religious",
+                  "coords": [
+                        125.343193,
+                        6.639142
+                  ]
+            },
+            {
+                  "name": "Redeemed By The Blood Ministries",
+                  "text": "A local Christian ministry building providing rural religious services in Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.338271,
+                        6.640947
+                  ]
+            },
+            {
+                  "name": "Pastulan sa Mga Pinatikang Katawhan sa Silangan Ministry Church",
+                  "text": "A regional indigenous ministry church serving the local spiritual community in Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.220932,
+                        6.663151
+                  ]
+            },
+            {
+                  "name": "Garden of Eden Cathedral of Praise",
+                  "text": "A praise and worship center taking the name Garden of Eden Cathedral in the Mindanao countryside.",
+                  "category": "religious",
+                  "coords": [
+                        125.32976,
+                        6.762719
+                  ]
+            },
+            {
+                  "name": "Four Square",
+                  "text": "A local Foursquare Gospel church offering Pentecostal worship in rural Mindanao.",
+                  "category": "religious",
+                  "coords": [
+                        125.360172,
+                        6.744346
+                  ]
+            },
+            {
+                  "name": "Vegetable Section",
+                  "text": "A dedicated area of the local public market featuring stalls piled high with fresh Mindanao produce.",
+                  "category": "cultural",
+                  "coords": [
+                        125.344224,
+                        6.640226
+                  ]
+            },
+            {
+                  "name": "Matti Market Vendors Association",
+                  "text": "A cooperative market space run by local vendors in Matti, offering daily food supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        125.305513,
+                        6.767428
+                  ]
+            },
+            {
+                  "name": "Digos City Public Market",
+                  "text": "The main commercial marketplace in Digos City, bustling with traders selling regional meats and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        125.356663,
+                        6.748496
+                  ]
+            },
+            {
+                  "name": "Hagonoy Public Market",
+                  "text": "A busy municipal market in Hagonoy where local farmers bring their fresh harvests for sale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.295213,
+                        6.68412
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Jose",
+                  "text": "A Catholic Basic Ecclesial Community chapel dedicated to Saint Joseph in rural Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.333596,
+                        6.764757
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muadz",
+                  "text": "A local Islamic mosque serving the daily prayer needs of Muslims in the agricultural center of Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.336997,
+                        6.770799
+                  ]
+            },
+            {
+                  "name": "GKK San Antonio De Padua",
+                  "text": "A local Catholic meeting house named for Anthony of Padua, gathering the faithful in Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.324972,
+                        6.758123
+                  ]
+            },
+            {
+                  "name": "Mary Mediatrix",
+                  "text": "A Christian place of worship honoring Mary as the Mediatrix of all Graces in the Mindanao region.",
+                  "category": "landmark",
+                  "coords": [
+                        125.341139,
+                        6.762099
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Fatima Chapel",
+                  "text": "A rural Catholic community chapel dedicated to the Virgin of Fatima in Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.350574,
+                        6.741286
+                  ]
+            },
+            {
+                  "name": "Digos City Southern Baptist Church",
+                  "text": "A Southern Baptist congregation's church building providing services in Digos City.",
+                  "category": "landmark",
+                  "coords": [
+                        125.356077,
+                        6.743302
+                  ]
+            },
+            {
+                  "name": "GKK Divine Mercy",
+                  "text": "A small Catholic chapel dedicated to the Divine Mercy devotion in the rural Mindanao landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        125.353551,
+                        6.743634
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muhmin",
+                  "text": "An Islamic place of worship serving the local Muslim community in the Mindanao region.",
+                  "category": "landmark",
+                  "coords": [
+                        125.358522,
+                        6.745777
+                  ]
+            },
+            {
+                  "name": "Panon sa 12 ka Banay",
+                  "text": "A local Christian church gathering site in the Mindanao rural life center area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.337303,
+                        6.741131
+                  ]
+            },
+            {
+                  "name": "GKK - Senior Sto. Niño",
+                  "text": "A local Christian community chapel dedicated to the revered Santo Niño in Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.259411,
+                        6.619665
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Fatima",
+                  "text": "A Christian neighborhood chapel dedicated to Our Lady of Fatima in the Mindanao region.",
+                  "category": "landmark",
+                  "coords": [
+                        125.280261,
+                        6.75497
+                  ]
+            },
+            {
+                  "name": "Lokal ng Tres de Mayo, Iglesia ni Cristo",
+                  "text": "A local congregation worship building belonging to the Iglesia ni Cristo Christian denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        125.331263,
+                        6.766078
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A Latter-day Saints meetinghouse serving the spiritual needs of the local Mindanao congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        125.350092,
+                        6.756789
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Lourdes",
+                  "text": "A modest Christian community chapel honoring Our Lady of Lourdes in Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.348897,
+                        6.757408
+                  ]
+            },
+            {
+                  "name": "Power Southern Baptist Church",
+                  "text": "A Southern Baptist worship center established in the rural region of Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.342689,
+                        6.764707
+                  ]
+            },
+            {
+                  "name": "The United Methodist Church",
+                  "text": "A United Methodist congregation site providing a space for Christian worship in Mindanao.",
+                  "category": "landmark",
+                  "coords": [
+                        125.358545,
+                        6.743038
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "A characteristic chapel of the Iglesia ni Cristo serving the Christian community in the Mindanao area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.354966,
+                        6.732603
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador Parish Church",
+                  "text": "A Christian parish church dedicated to St. Isidore the Laborer, the patron saint of farmers.",
+                  "category": "landmark",
+                  "coords": [
+                        125.355431,
+                        6.738099
+                  ]
+            },
+            {
+                  "name": "GKK Santa Ana",
+                  "text": "A grassroots Christian community chapel dedicated to Saint Anne in the Mindanao region.",
+                  "category": "landmark",
+                  "coords": [
+                        125.335619,
+                        6.753526
+                  ]
+            },
+            {
+                  "name": "Maliit Digos Chapel",
+                  "text": "A small, localized Christian chapel offering a spiritual gathering space for the Digos community.",
+                  "category": "landmark",
+                  "coords": [
+                        125.250572,
+                        6.697141
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador",
+                  "text": "A Christian place of worship in Mindanao dedicated to the patron saint of agricultural workers.",
+                  "category": "landmark",
+                  "coords": [
+                        125.300456,
+                        6.687004
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "PH-DAS",
     coords: [125.283, 6.7],
@@ -434,7 +7166,1240 @@ image: "/poi-images/ph-mindanao-baptist-rural-life-center-life-v2.webp",
     
   },
   {
-    id: "ph-zoobic-safari-life-v2",
+    id: "ph-zoobic-safari-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ocean Adventure",
+                  "text": "Ein Meerespark in der Subic-Bucht, der in seinem Freiwasserbecken Delfin- und Seelöwenshows bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.253032,
+                        14.764473
+                  ]
+            },
+            {
+                  "name": "Subic Bay",
+                  "text": "Eine tiefe Meeresbucht, die historisch als bedeutender US-Marinestützpunkt bekannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        120.23193,
+                        14.782086
+                  ]
+            },
+            {
+                  "name": "Olongapo City Hall",
+                  "text": "Das zentrale Rathaus, in dem die städtische Verwaltung von Olongapo nahe der Subic-Bucht untergebracht ist.",
+                  "category": "historical",
+                  "coords": [
+                        120.287601,
+                        14.842481
+                  ]
+            },
+            {
+                  "name": "Ilanin Bay",
+                  "text": "Eine malerische Küstenbucht in der Subic-Region, die von einem geschützten Waldreservat gesäumt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.256755,
+                        14.766942
+                  ]
+            },
+            {
+                  "name": "Mount Panaigar",
+                  "text": "Ein markanter Berggipfel, der sich über der üppigen Dschungellandschaft der Subic-Bucht erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        120.25,
+                        14.866667
+                  ]
+            },
+            {
+                  "name": "Battery Warwick",
+                  "text": "Die historischen militärischen Ruinen einer alten Küstenverteidigungsbatterie in der Nähe der Subic-Bucht.",
+                  "category": "historical",
+                  "coords": [
+                        120.225078,
+                        14.769611
+                  ]
+            },
+            {
+                  "name": "Faithway Bible Baptist Church",
+                  "text": "Ein lokales Gotteshaus, das der christlichen Baptistengemeinde in Olongapo dient.",
+                  "category": "religious",
+                  "coords": [
+                        120.249262,
+                        14.857689
+                  ]
+            },
+            {
+                  "name": "Prayer of Faith Church",
+                  "text": "Ein spiritueller Gebetsort, der christliche Gottesdienste für die Gemeinde in der Nähe der Subic-Bucht anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        120.248083,
+                        14.862716
+                  ]
+            },
+            {
+                  "name": "Santa Rita Parish Church",
+                  "text": "Eine bedeutende katholische Pfarrkirche, in der sich die Gläubigen von Olongapo versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        120.291359,
+                        14.849052
+                  ]
+            },
+            {
+                  "name": "Saint Anthony of Padua Parish Church",
+                  "text": "Ein katholisches Gotteshaus in Olongapo, das dem Heiligen Antonius von Padua gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        120.244876,
+                        14.852575
+                  ]
+            },
+            {
+                  "name": "Pagasa Public Market",
+                  "text": "Ein belebter öffentlicher Markt in Olongapo, der frische Lebensmittel und regionale Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        120.287156,
+                        14.829165
+                  ]
+            },
+            {
+                  "name": "Olongapo public market",
+                  "text": "Ein lebhafter kommerzieller Marktplatz, auf dem alltägliche Notwendigkeiten in Olongapo verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        120.286865,
+                        14.841072
+                  ]
+            },
+            {
+                  "name": "West Bajac-Bajac Public Market",
+                  "text": "Ein großer traditioneller Markt in Olongapo, auf dem die Einheimischen frische Lebensmittel einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.286109,
+                        14.843465
+                  ]
+            },
+            {
+                  "name": "Ray Wolf",
+                  "text": "Eine lokale Attraktion und ein interessanter Anziehungspunkt innerhalb der Subic-Bucht-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        120.286318,
+                        14.820111
+                  ]
+            },
+            {
+                  "name": "Inflatable Island",
+                  "text": "Ein riesiger schwimmender Spielplatz und Wasserpark auf den Gewässern der Subic-Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        120.267846,
+                        14.8374
+                  ]
+            },
+            {
+                  "name": "Kalaklan Lighthouse",
+                  "text": "Ein maritimer Leuchtturm, der den Schiffsverkehr vor der Küste von Olongapo sicher navigiert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268227,
+                        14.82376
+                  ]
+            },
+            {
+                  "name": "Garden Maze",
+                  "text": "Eine komplexe Freiluft-Labyrinth-Attraktion, die für Besucher in der Subic-Gegend gestaltet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        120.28891,
+                        14.772747
+                  ]
+            },
+            {
+                  "name": "JEST Camp",
+                  "text": "Ein Dschungel-Überlebenstrainingslager, das ursprünglich vom US-Militär genutzt wurde und heute eine Touristenattraktion ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.294393,
+                        14.792078
+                  ]
+            },
+            {
+                  "name": "Aborigine Settlement",
+                  "text": "Eine indigene kulturelle Attraktion, die die traditionelle Lebensweise in der Nähe von Subic zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.315673,
+                        14.783871
+                  ]
+            },
+            {
+                  "name": "Trailhead Hill 394",
+                  "text": "Der Ausgangspunkt für einen malerischen Wanderweg, der den bewaldeten Hill 394 in Subic hinaufführt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.309941,
+                        14.761495
+                  ]
+            },
+            {
+                  "name": "Mayanga Lighthouse",
+                  "text": "Ein maritimer Leuchtturm, der 1997 erbaut wurde, um die Schifffahrt in den Gewässern der Subic-Bucht zu unterstützen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.234698,
+                        14.832196
+                  ]
+            },
+            {
+                  "name": "Bundok bato",
+                  "text": "Eine felsige Bergattraktion, die sich ideal für Outdoor-Erkundungen in der Region der Subic-Bucht eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.247783,
+                        14.864453
+                  ]
+            },
+            {
+                  "name": "Jesus is the Way, the Truth, and the Life Church",
+                  "text": "Eine christliche Kirche, die der lokalen Gemeinde in Olongapo einen spirituellen Raum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.285581,
+                        14.838869
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan - Lokal ng Olongapo",
+                  "text": "Ein lokales Versammlungshaus und eine christliche Begegnungsstätte für die religiöse Gruppe Ang Dating Daan in Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.28409,
+                        14.837682
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Eine christliche Kultstätte der Zeugen Jehovas im Stadtgebiet von Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.284102,
+                        14.841104
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Ein ruhiges buddhistisches Heiligtum in der Nähe der Zoobic Safari, das Raum für Meditation und traditionelle Riten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.288854,
+                        14.707593
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Eine lokale christliche Gemeinde, die den Gläubigen in der Nähe des Safarigebiets dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.245211,
+                        14.859227
+                  ]
+            },
+            {
+                  "name": "Kingdom of Hall Jehovah Witnesses",
+                  "text": "Ein christlicher Treffpunkt der Zeugen Jehovas für Bibelstudien in der Nähe der Safari.",
+                  "category": "landmark",
+                  "coords": [
+                        120.243716,
+                        14.859806
+                  ]
+            },
+            {
+                  "name": "Assembly of God",
+                  "text": "Eine lokale christliche Kirche, die Gottesdienste für die Assembly of God-Gemeinde in der Umgebung anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.244615,
+                        14.856995
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ein lokales islamisches Gotteshaus, das der muslimischen Gemeinschaft in der Nähe der Safari für tägliche Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.243407,
+                        14.856026
+                  ]
+            },
+            {
+                  "name": "Sta. Monica Community Chapel",
+                  "text": "Eine kleine christliche Kapelle, die der Heiligen Monika gewidmet ist und den Anwohnern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.251717,
+                        14.856726
+                  ]
+            },
+            {
+                  "name": "Convenant of Grace",
+                  "text": "Eine lokale christliche Kirche, die Gläubige zu protestantischen Gottesdiensten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.254474,
+                        14.852899
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "Eine traditionelle katholische Kirche, die regelmäßige Gottesdienste und Sakramente für die Gemeinde abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        120.256082,
+                        14.857327
+                  ]
+            },
+            {
+                  "name": "Place of Worship",
+                  "text": "Ein lokaler christlicher Versammlungsort, der seiner Gemeinde spirituelle Führung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.265127,
+                        14.862763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ocean Adventure",
+                  "text": "Szabadtéri tengeri park a Subic-öbölben, amely delfin- és oroszlánfóka-műsorokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        120.253032,
+                        14.764473
+                  ]
+            },
+            {
+                  "name": "Subic Bay",
+                  "text": "Egy mély vizű öböl, amely történelmileg jelentős amerikai haditengerészeti támaszpontként volt ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.23193,
+                        14.782086
+                  ]
+            },
+            {
+                  "name": "Olongapo City Hall",
+                  "text": "Olongapo városának központi városháza a Subic-öböl közelében.",
+                  "category": "historical",
+                  "coords": [
+                        120.287601,
+                        14.842481
+                  ]
+            },
+            {
+                  "name": "Ilanin Bay",
+                  "text": "Egy festői part menti öböl a Subic térségben, amelyet védett erdőrezervátum övez.",
+                  "category": "landmark",
+                  "coords": [
+                        120.256755,
+                        14.766942
+                  ]
+            },
+            {
+                  "name": "Mount Panaigar",
+                  "text": "Kiemelkedő hegycsúcs, amely a Subic-öböl buja dzsungeltája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        120.25,
+                        14.866667
+                  ]
+            },
+            {
+                  "name": "Battery Warwick",
+                  "text": "Egy régi partvédelmi üteg történelmi katonai romjai a Subic-öböl közelében.",
+                  "category": "historical",
+                  "coords": [
+                        120.225078,
+                        14.769611
+                  ]
+            },
+            {
+                  "name": "Faithway Bible Baptist Church",
+                  "text": "Egy helyi istentiszteleti hely, amely az olongapói keresztény baptista közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        120.249262,
+                        14.857689
+                  ]
+            },
+            {
+                  "name": "Prayer of Faith Church",
+                  "text": "Spirituális imaház, amely keresztény istentiszteleteket tart a Subic-öböl környéki közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        120.248083,
+                        14.862716
+                  ]
+            },
+            {
+                  "name": "Santa Rita Parish Church",
+                  "text": "Olongapo hívőit szolgáló jelentős katolikus plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        120.291359,
+                        14.849052
+                  ]
+            },
+            {
+                  "name": "Saint Anthony of Padua Parish Church",
+                  "text": "Páduai Szent Antalnak szentelt katolikus istentiszteleti hely Olongapóban.",
+                  "category": "religious",
+                  "coords": [
+                        120.244876,
+                        14.852575
+                  ]
+            },
+            {
+                  "name": "Pagasa Public Market",
+                  "text": "Nyüzsgő nyilvános piac Olongapóban, ahol friss termékeket és regionális árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        120.287156,
+                        14.829165
+                  ]
+            },
+            {
+                  "name": "Olongapo public market",
+                  "text": "Élénk kereskedelmi piactér, ahol mindennapi szükségleti cikkeket árusítanak Olongapóban.",
+                  "category": "cultural",
+                  "coords": [
+                        120.286865,
+                        14.841072
+                  ]
+            },
+            {
+                  "name": "West Bajac-Bajac Public Market",
+                  "text": "Egy nagy hagyományos piac Olongapóban, ahol a helyiek friss élelmiszert vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        120.286109,
+                        14.843465
+                  ]
+            },
+            {
+                  "name": "Ray Wolf",
+                  "text": "Helyi látványosság és figyelemre méltó érdekes pont a Subic-öböl térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.286318,
+                        14.820111
+                  ]
+            },
+            {
+                  "name": "Inflatable Island",
+                  "text": "Hatalmas úszó játszótér és vízi park a Subic-öböl vizén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.267846,
+                        14.8374
+                  ]
+            },
+            {
+                  "name": "Kalaklan Lighthouse",
+                  "text": "Tengeri világítótorony, amely az Olongapo partjainál lévő hajóforgalmat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268227,
+                        14.82376
+                  ]
+            },
+            {
+                  "name": "Garden Maze",
+                  "text": "Látogatók számára kialakított bonyolult szabadtéri labirintus attrakció a Subic térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        120.28891,
+                        14.772747
+                  ]
+            },
+            {
+                  "name": "JEST Camp",
+                  "text": "Eredetileg az amerikai hadsereg által használt dzsungel túlélőtábor, amely ma turisztikai látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        120.294393,
+                        14.792078
+                  ]
+            },
+            {
+                  "name": "Aborigine Settlement",
+                  "text": "Őslakos kulturális látványosság, amely a hagyományos helyi életmódot mutatja be Subic közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.315673,
+                        14.783871
+                  ]
+            },
+            {
+                  "name": "Trailhead Hill 394",
+                  "text": "Egy festői túraútvonal kezdőpontja, amely az erdős, 394-es hegyre vezet Subicban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.309941,
+                        14.761495
+                  ]
+            },
+            {
+                  "name": "Mayanga Lighthouse",
+                  "text": "Tengeri világítótorony, amely 1997-ben épült a Subic-öböl vizein való navigáció segítésére.",
+                  "category": "landmark",
+                  "coords": [
+                        120.234698,
+                        14.832196
+                  ]
+            },
+            {
+                  "name": "Bundok bato",
+                  "text": "Sziklás hegyi látványosság, amely népszerű szabadtéri felfedezések célpontja a Subic-öböl térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.247783,
+                        14.864453
+                  ]
+            },
+            {
+                  "name": "Jesus is the Way, the Truth, and the Life Church",
+                  "text": "Keresztény templom, amely spirituális teret biztosít az olongapói helyi gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        120.285581,
+                        14.838869
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan - Lokal ng Olongapo",
+                  "text": "Az Ang Dating Daan vallási csoport helyi káptalanja és keresztény találkozóhelye Olongapóban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.28409,
+                        14.837682
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Jehova Tanúinak dedikált keresztény istentiszteleti létesítménye Olongapóban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.284102,
+                        14.841104
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Egy békés buddhista szentély a Zoobic Safari közelében, amely teret ad a meditációnak és a hagyományos szertartásoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        120.288854,
+                        14.707593
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Helyi keresztény gyülekezet, amely a szafari területéhez közeli hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        120.245211,
+                        14.859227
+                  ]
+            },
+            {
+                  "name": "Kingdom of Hall Jehovah Witnesses",
+                  "text": "Jehova Tanúinak keresztény találkozóhelye bibliatanulmányozásra a szafari közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.243716,
+                        14.859806
+                  ]
+            },
+            {
+                  "name": "Assembly of God",
+                  "text": "Egy helyi keresztény templom, amely istentiszteleteket tart az Assembly of God gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        120.244615,
+                        14.856995
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egy helyi iszlám istentiszteleti hely, amely a muszlim közösséget szolgálja napi imákkal a szafari közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        120.243407,
+                        14.856026
+                  ]
+            },
+            {
+                  "name": "Sta. Monica Community Chapel",
+                  "text": "Egy Szent Mónikának szentelt kis keresztény kápolna, amely a környék lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        120.251717,
+                        14.856726
+                  ]
+            },
+            {
+                  "name": "Convenant of Grace",
+                  "text": "Egy helyi keresztény templom, amely protestáns istentiszteletekre gyűjti össze a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        120.254474,
+                        14.852899
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "Hagyományos katolikus templom, amely rendszeres istentiszteleteknek és közösségi szentségeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        120.256082,
+                        14.857327
+                  ]
+            },
+            {
+                  "name": "Place of Worship",
+                  "text": "Egy helyi keresztény gyülekezeti hely, amely spirituális útmutatást nyújt a közösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        120.265127,
+                        14.862763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ocean Adventure",
+                  "text": "Un parc marin cu apă deschisă în Golful Subic, ce oferă spectacole cu delfini și lei de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        120.253032,
+                        14.764473
+                  ]
+            },
+            {
+                  "name": "Subic Bay",
+                  "text": "Un golf de mare adâncime, cunoscut în istorie ca o importantă bază navală a Statelor Unite.",
+                  "category": "landmark",
+                  "coords": [
+                        120.23193,
+                        14.782086
+                  ]
+            },
+            {
+                  "name": "Olongapo City Hall",
+                  "text": "Primăria centrală care administrează orașul Olongapo de lângă Golful Subic.",
+                  "category": "historical",
+                  "coords": [
+                        120.287601,
+                        14.842481
+                  ]
+            },
+            {
+                  "name": "Ilanin Bay",
+                  "text": "Un golf pitoresc de coastă în zona Subic, mărginit de o rezervație forestieră protejată.",
+                  "category": "landmark",
+                  "coords": [
+                        120.256755,
+                        14.766942
+                  ]
+            },
+            {
+                  "name": "Mount Panaigar",
+                  "text": "Un vârf de munte proeminent care se înalță deasupra peisajului luxuriant de junglă din regiunea Golfului Subic.",
+                  "category": "natural",
+                  "coords": [
+                        120.25,
+                        14.866667
+                  ]
+            },
+            {
+                  "name": "Battery Warwick",
+                  "text": "Ruinele militare istorice ale unei vechi baterii de apărare a coastei lângă Golful Subic.",
+                  "category": "historical",
+                  "coords": [
+                        120.225078,
+                        14.769611
+                  ]
+            },
+            {
+                  "name": "Faithway Bible Baptist Church",
+                  "text": "Un lăcaș de cult local care deservește comunitatea creștină baptistă din Olongapo.",
+                  "category": "religious",
+                  "coords": [
+                        120.249262,
+                        14.857689
+                  ]
+            },
+            {
+                  "name": "Prayer of Faith Church",
+                  "text": "Un lăcaș de cult spiritual ce găzduiește comunitatea creștină din apropierea Golfului Subic.",
+                  "category": "religious",
+                  "coords": [
+                        120.248083,
+                        14.862716
+                  ]
+            },
+            {
+                  "name": "Santa Rita Parish Church",
+                  "text": "O importantă biserică parohială catolică ce adună credincioșii din Olongapo.",
+                  "category": "religious",
+                  "coords": [
+                        120.291359,
+                        14.849052
+                  ]
+            },
+            {
+                  "name": "Saint Anthony of Padua Parish Church",
+                  "text": "Un lăcaș de cult catolic dedicat Sfântului Anton de Padova în Olongapo.",
+                  "category": "religious",
+                  "coords": [
+                        120.244876,
+                        14.852575
+                  ]
+            },
+            {
+                  "name": "Pagasa Public Market",
+                  "text": "O piață publică plină de viață din Olongapo, care oferă produse proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        120.287156,
+                        14.829165
+                  ]
+            },
+            {
+                  "name": "Olongapo public market",
+                  "text": "O piață comercială vibrantă unde se vând necesități zilnice în Olongapo.",
+                  "category": "cultural",
+                  "coords": [
+                        120.286865,
+                        14.841072
+                  ]
+            },
+            {
+                  "name": "West Bajac-Bajac Public Market",
+                  "text": "O importantă piață tradițională din Olongapo, unde localnicii își fac cumpărăturile de alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        120.286109,
+                        14.843465
+                  ]
+            },
+            {
+                  "name": "Ray Wolf",
+                  "text": "O atracție locală și un punct de interes notabil în zona Golfului Subic.",
+                  "category": "landmark",
+                  "coords": [
+                        120.286318,
+                        14.820111
+                  ]
+            },
+            {
+                  "name": "Inflatable Island",
+                  "text": "Un loc de joacă uriaș plutitor și un parc acvatic situat pe apele Golfului Subic.",
+                  "category": "landmark",
+                  "coords": [
+                        120.267846,
+                        14.8374
+                  ]
+            },
+            {
+                  "name": "Kalaklan Lighthouse",
+                  "text": "Un far de coastă care ghidează traficul maritim în apropiere de Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268227,
+                        14.82376
+                  ]
+            },
+            {
+                  "name": "Garden Maze",
+                  "text": "O atracție complexă sub formă de labirint în aer liber, concepută pentru vizitatorii din zona Subic.",
+                  "category": "landmark",
+                  "coords": [
+                        120.28891,
+                        14.772747
+                  ]
+            },
+            {
+                  "name": "JEST Camp",
+                  "text": "O tabără de antrenament pentru supraviețuire în junglă, folosită inițial de armata americană, acum atracție turistică.",
+                  "category": "landmark",
+                  "coords": [
+                        120.294393,
+                        14.792078
+                  ]
+            },
+            {
+                  "name": "Aborigine Settlement",
+                  "text": "O atracție culturală indigenă care prezintă modul de viață tradițional local din apropiere de Subic.",
+                  "category": "landmark",
+                  "coords": [
+                        120.315673,
+                        14.783871
+                  ]
+            },
+            {
+                  "name": "Trailhead Hill 394",
+                  "text": "Punctul de plecare pentru un traseu de drumeție pitoresc care urcă pe dealul împădurit 394 din Subic.",
+                  "category": "landmark",
+                  "coords": [
+                        120.309941,
+                        14.761495
+                  ]
+            },
+            {
+                  "name": "Mayanga Lighthouse",
+                  "text": "Un far maritim construit în 1997 pentru a ajuta la navigarea în apele Golfului Subic.",
+                  "category": "landmark",
+                  "coords": [
+                        120.234698,
+                        14.832196
+                  ]
+            },
+            {
+                  "name": "Bundok bato",
+                  "text": "O atracție montană stâncoasă populară pentru explorări în aer liber în regiunea Golfului Subic.",
+                  "category": "landmark",
+                  "coords": [
+                        120.247783,
+                        14.864453
+                  ]
+            },
+            {
+                  "name": "Jesus is the Way, the Truth, and the Life Church",
+                  "text": "O biserică creștină care oferă un spațiu de cult pentru congregația locală din Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.285581,
+                        14.838869
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan - Lokal ng Olongapo",
+                  "text": "Un capitol local și loc de întâlnire creștină pentru grupul religios Ang Dating Daan din Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.28409,
+                        14.837682
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "O clădire de cult creștină dedicată Martorilor lui Iehova în Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.284102,
+                        14.841104
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "Un sanctuar budist liniștit lângă Zoobic Safari, oferind un spațiu pentru meditație și rituri tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        120.288854,
+                        14.707593
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "O congregație creștină locală care deservește credincioșii din apropierea zonei de safari.",
+                  "category": "landmark",
+                  "coords": [
+                        120.245211,
+                        14.859227
+                  ]
+            },
+            {
+                  "name": "Kingdom of Hall Jehovah Witnesses",
+                  "text": "Un loc de întâlnire creștin pentru studiul biblic al Martorilor lui Iehova, lângă safari.",
+                  "category": "landmark",
+                  "coords": [
+                        120.243716,
+                        14.859806
+                  ]
+            },
+            {
+                  "name": "Assembly of God",
+                  "text": "O biserică creștină locală care oferă slujbe pentru congregația Assembly of God din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.244615,
+                        14.856995
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un lăcaș de cult islamic local care deservește comunitatea musulmană cu rugăciuni zilnice lângă safari.",
+                  "category": "landmark",
+                  "coords": [
+                        120.243407,
+                        14.856026
+                  ]
+            },
+            {
+                  "name": "Sta. Monica Community Chapel",
+                  "text": "O mică capelă creștină închinată Sfintei Monica, care deservește locuitorii din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        120.251717,
+                        14.856726
+                  ]
+            },
+            {
+                  "name": "Convenant of Grace",
+                  "text": "O biserică creștină locală care adună credincioșii pentru slujbe protestante.",
+                  "category": "landmark",
+                  "coords": [
+                        120.254474,
+                        14.852899
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "O biserică catolică tradițională care găzduiește slujbe regulate și sacramente pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        120.256082,
+                        14.857327
+                  ]
+            },
+            {
+                  "name": "Place of Worship",
+                  "text": "Un loc de adunare creștin local care oferă îndrumare spirituală comunității sale.",
+                  "category": "landmark",
+                  "coords": [
+                        120.265127,
+                        14.862763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ocean Adventure",
+                  "text": "An open-water marine park in Subic Bay featuring dolphin and sea lion shows.",
+                  "category": "landmark",
+                  "coords": [
+                        120.253032,
+                        14.764473
+                  ]
+            },
+            {
+                  "name": "Subic Bay",
+                  "text": "A deep-water bay known for its history as a major US naval facility.",
+                  "category": "landmark",
+                  "coords": [
+                        120.23193,
+                        14.782086
+                  ]
+            },
+            {
+                  "name": "Olongapo City Hall",
+                  "text": "The central municipal building administering the city of Olongapo near Subic Bay.",
+                  "category": "historical",
+                  "coords": [
+                        120.287601,
+                        14.842481
+                  ]
+            },
+            {
+                  "name": "Ilanin Bay",
+                  "text": "A scenic coastal bay in the Subic area bordered by a protected forest reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        120.256755,
+                        14.766942
+                  ]
+            },
+            {
+                  "name": "Mount Panaigar",
+                  "text": "A prominent mountain peak rising above the lush jungle landscape of the Subic Bay region.",
+                  "category": "natural",
+                  "coords": [
+                        120.25,
+                        14.866667
+                  ]
+            },
+            {
+                  "name": "Battery Warwick",
+                  "text": "The historic military ruins of an old coastal defense battery near Subic Bay.",
+                  "category": "historical",
+                  "coords": [
+                        120.225078,
+                        14.769611
+                  ]
+            },
+            {
+                  "name": "Faithway Bible Baptist Church",
+                  "text": "A local place of worship serving the Christian Baptist community in Olongapo.",
+                  "category": "religious",
+                  "coords": [
+                        120.249262,
+                        14.857689
+                  ]
+            },
+            {
+                  "name": "Prayer of Faith Church",
+                  "text": "A spiritual place of worship accommodating the Christian community near Subic Bay.",
+                  "category": "religious",
+                  "coords": [
+                        120.248083,
+                        14.862716
+                  ]
+            },
+            {
+                  "name": "Santa Rita Parish Church",
+                  "text": "A prominent Catholic parish church serving the faithful in Olongapo.",
+                  "category": "religious",
+                  "coords": [
+                        120.291359,
+                        14.849052
+                  ]
+            },
+            {
+                  "name": "Saint Anthony of Padua Parish Church",
+                  "text": "A Catholic place of worship dedicated to St. Anthony of Padua in Olongapo.",
+                  "category": "religious",
+                  "coords": [
+                        120.244876,
+                        14.852575
+                  ]
+            },
+            {
+                  "name": "Pagasa Public Market",
+                  "text": "A bustling public marketplace offering fresh produce and local goods in Olongapo.",
+                  "category": "cultural",
+                  "coords": [
+                        120.287156,
+                        14.829165
+                  ]
+            },
+            {
+                  "name": "Olongapo public market",
+                  "text": "A vibrant commercial marketplace selling a variety of daily necessities in Olongapo.",
+                  "category": "cultural",
+                  "coords": [
+                        120.286865,
+                        14.841072
+                  ]
+            },
+            {
+                  "name": "West Bajac-Bajac Public Market",
+                  "text": "A major traditional marketplace in Olongapo where locals shop for fresh food.",
+                  "category": "cultural",
+                  "coords": [
+                        120.286109,
+                        14.843465
+                  ]
+            },
+            {
+                  "name": "Ray Wolf",
+                  "text": "A local attraction and notable point of interest within the Subic Bay area.",
+                  "category": "landmark",
+                  "coords": [
+                        120.286318,
+                        14.820111
+                  ]
+            },
+            {
+                  "name": "Inflatable Island",
+                  "text": "A massive floating playground and water park situated on the waters of Subic Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        120.267846,
+                        14.8374
+                  ]
+            },
+            {
+                  "name": "Kalaklan Lighthouse",
+                  "text": "A coastal lighthouse structure guiding maritime traffic near Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.268227,
+                        14.82376
+                  ]
+            },
+            {
+                  "name": "Garden Maze",
+                  "text": "An intricate outdoor maze attraction designed for visitors in the Subic area.",
+                  "category": "landmark",
+                  "coords": [
+                        120.28891,
+                        14.772747
+                  ]
+            },
+            {
+                  "name": "JEST Camp",
+                  "text": "A jungle survival training camp originally used by the US military, now a tourist attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        120.294393,
+                        14.792078
+                  ]
+            },
+            {
+                  "name": "Aborigine Settlement",
+                  "text": "An indigenous cultural attraction showcasing traditional local ways of life near Subic.",
+                  "category": "landmark",
+                  "coords": [
+                        120.315673,
+                        14.783871
+                  ]
+            },
+            {
+                  "name": "Trailhead Hill 394",
+                  "text": "The starting point for a scenic hiking trail leading up the forested Hill 394 in Subic.",
+                  "category": "landmark",
+                  "coords": [
+                        120.309941,
+                        14.761495
+                  ]
+            },
+            {
+                  "name": "Mayanga Lighthouse",
+                  "text": "A maritime lighthouse constructed in 1997 to aid navigation in the Subic Bay waters.",
+                  "category": "landmark",
+                  "coords": [
+                        120.234698,
+                        14.832196
+                  ]
+            },
+            {
+                  "name": "Bundok bato",
+                  "text": "A rocky mountain attraction popular for outdoor exploration in the Subic Bay region.",
+                  "category": "landmark",
+                  "coords": [
+                        120.247783,
+                        14.864453
+                  ]
+            },
+            {
+                  "name": "Jesus is the Way, the Truth, and the Life Church",
+                  "text": "A Christian church providing a place of worship for the local congregation in Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.285581,
+                        14.838869
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan - Lokal ng Olongapo",
+                  "text": "A local chapter and Christian meeting place for the Ang Dating Daan religious group in Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.28409,
+                        14.837682
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A dedicated Christian worship facility for Jehovah's Witnesses in Olongapo.",
+                  "category": "landmark",
+                  "coords": [
+                        120.284102,
+                        14.841104
+                  ]
+            },
+            {
+                  "name": "Buddhist Temple",
+                  "text": "A serene Buddhist sanctuary near Zoobic Safari, offering a space for meditation and traditional rites.",
+                  "category": "landmark",
+                  "coords": [
+                        120.288854,
+                        14.707593
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "A local Christian congregation serving worshippers in the community near the safari area.",
+                  "category": "landmark",
+                  "coords": [
+                        120.245211,
+                        14.859227
+                  ]
+            },
+            {
+                  "name": "Kingdom of Hall Jehovah Witnesses",
+                  "text": "A Christian meeting place for Bible study and the Jehovah's Witnesses congregation near the safari.",
+                  "category": "landmark",
+                  "coords": [
+                        120.243716,
+                        14.859806
+                  ]
+            },
+            {
+                  "name": "Assembly of God",
+                  "text": "A local Christian church providing services for the Assembly of God congregation in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        120.244615,
+                        14.856995
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local Islamic place of worship serving the Muslim community with daily prayers near the safari.",
+                  "category": "landmark",
+                  "coords": [
+                        120.243407,
+                        14.856026
+                  ]
+            },
+            {
+                  "name": "Sta. Monica Community Chapel",
+                  "text": "A small Christian chapel dedicated to St. Monica, serving nearby residents.",
+                  "category": "landmark",
+                  "coords": [
+                        120.251717,
+                        14.856726
+                  ]
+            },
+            {
+                  "name": "Convenant of Grace",
+                  "text": "A local Christian church gathering worshippers for Protestant services.",
+                  "category": "landmark",
+                  "coords": [
+                        120.254474,
+                        14.852899
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "A traditional Catholic church hosting regular services and community sacraments.",
+                  "category": "landmark",
+                  "coords": [
+                        120.256082,
+                        14.857327
+                  ]
+            },
+            {
+                  "name": "Place of Worship",
+                  "text": "A local Christian gathering place providing spiritual guidance for its community.",
+                  "category": "landmark",
+                  "coords": [
+                        120.265127,
+                        14.862763
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "PH-ZMB",
     coords: [120.3019, 14.7925],
@@ -488,7 +8453,1312 @@ image: "/poi-images/ph-zoobic-safari-life-v2.webp",
     
   },
   {
-    id: "ph-enchanted-kingdom-life-v2",
+    id: "ph-enchanted-kingdom-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santa Rosa de Lima Parish Church",
+                  "text": "Diese bemerkenswerte katholische Pfarrkirche ist ein bedeutendes historisches Wahrzeichen in Santa Rosa, Laguna, und der ersten Heiligen Amerikas gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        121.111321,
+                        14.314024
+                  ]
+            },
+            {
+                  "name": "Space Shuttle",
+                  "text": "Diese Vekoma Boomerang-Achterbahn befindet sich im Themenpark Enchanted Kingdom und katapultiert ihre Fahrgäste vorwärts und rückwärts durch aufregende Inversionen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.094364,
+                        14.281504
+                  ]
+            },
+            {
+                  "name": "Enchanted Kingdom",
+                  "text": "Enchanted Kingdom ist ein beliebter Freizeitpark in Santa Rosa, Laguna, der für Fahrgeschäfte wie die Achterbahn Space Shuttle bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        121.095916,
+                        14.281338
+                  ]
+            },
+            {
+                  "name": "School of Dr. Jose P. Rizal Site and Museum",
+                  "text": "Dieses Museum in Biñan bewahrt die historische Stätte, an der der philippinische Nationalheld Dr. Jose Rizal seine erste formelle Ausbildung erhielt.",
+                  "category": "museum",
+                  "coords": [
+                        121.083661,
+                        14.336578
+                  ]
+            },
+            {
+                  "name": "KM 0 Post - Biñan City",
+                  "text": "Dieser lokale Kilometer-Null-Stein dient als zentraler geografischer Referenzpunkt für Entfernungsmessungen ab der Stadt Biñan.",
+                  "category": "historical",
+                  "coords": [
+                        121.074456,
+                        14.329891
+                  ]
+            },
+            {
+                  "name": "Welcome Arch - Province of Cavite, Municipality of Carmona",
+                  "text": "Dieses bogenförmige Tor markiert die Provinzgrenze und heißt Reisende willkommen, die in die Gemeinde Carmona in Cavite einfahren.",
+                  "category": "historical",
+                  "coords": [
+                        121.068364,
+                        14.32896
+                  ]
+            },
+            {
+                  "name": "Santa Rosa Welcome sign",
+                  "text": "Dieses markante Denkmal am Straßenrand begrüßt die in der Stadt Santa Rosa ankommenden Besucher mit einem großen Willkommensgruß.",
+                  "category": "historical",
+                  "coords": [
+                        121.118132,
+                        14.275788
+                  ]
+            },
+            {
+                  "name": "ADD San Pedro Coordinating Center",
+                  "text": "Dieses Koordinationszentrum dient als lokaler Versammlungsort und Kultstätte für die Religionsgemeinschaft Ang Dating Daan in San Pedro.",
+                  "category": "religious",
+                  "coords": [
+                        121.065716,
+                        14.346778
+                  ]
+            },
+            {
+                  "name": "Terry Town Chapel",
+                  "text": "Eingebettet in ein Wohnviertel bietet diese kleine Gemeindekapelle einen ruhigen Raum für tägliche Gebete und lokale religiöse Zusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        121.114767,
+                        14.322745
+                  ]
+            },
+            {
+                  "name": "Seventh-day Adventist Church",
+                  "text": "Dieses protestantische Kirchengebäude beherbergt Sabbatgottesdienste am Samstag und Gemeindeprogramme für die lokale Adventisten-Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        121.083089,
+                        14.331376
+                  ]
+            },
+            {
+                  "name": "Biñan Faith Bible Christian Church",
+                  "text": "Diese christliche Kirche in Biñan fungiert als spirituelles Zentrum für bibelbasierte Gottesdienste und Gemeinschaftsaktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        121.078496,
+                        14.327716
+                  ]
+            },
+            {
+                  "name": "Pacita Christian Bible Fellowship",
+                  "text": "Im Bereich des Pacita-Komplexes gelegen, bietet dieses lokale Gemeinschaftszentrum Bibelstudiengruppen und regelmäßige christliche Gottesdienste an.",
+                  "category": "religious",
+                  "coords": [
+                        121.057509,
+                        14.34457
+                  ]
+            },
+            {
+                  "name": "Word of Faith Baptist Christian Church",
+                  "text": "Diese baptistische Kultstätte zeichnet sich durch ihre gemeindeorientierten Dienste und regelmäßigen Sonntagsversammlungen in der Region aus.",
+                  "category": "religious",
+                  "coords": [
+                        121.065971,
+                        14.334802
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan (MCGI)",
+                  "text": "Dieses lokale Kapitelhaus, das der Members Church of God International dient, ist ein Zentrum für religiöse Übertragungen und Gemeindesgebete.",
+                  "category": "religious",
+                  "coords": [
+                        121.077832,
+                        14.318894
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan (MCGI) Lokal ng Dila",
+                  "text": "Diese spezifische lokale Zweigstelle in Dila bietet den Mitgliedern der MCGI-Gemeinde einen eigenen Gottesdienstraum und einen Bereich zum Ansehen von Übertragungen.",
+                  "category": "religious",
+                  "coords": [
+                        121.108467,
+                        14.28739
+                  ]
+            },
+            {
+                  "name": "Lifegiver Santa Rosa",
+                  "text": "Als evangelikales christliches Zentrum in Santa Rosa organisiert diese Kirche energiegeladene Gottesdienste und Jugendprogramme.",
+                  "category": "religious",
+                  "coords": [
+                        121.126982,
+                        14.298431
+                  ]
+            },
+            {
+                  "name": "Saint Clare's Convent",
+                  "text": "Dieses friedliche Klostergebäude dient als Klausur für Nonnen und bietet eine ruhige Kapelle für das kontemplative Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        121.123193,
+                        14.281009
+                  ]
+            },
+            {
+                  "name": "ADD Cabuyao Coordinating Center",
+                  "text": "Dieses lokale Zentrum in der Gemeinde Cabuyao koordiniert religiöse Aktivitäten und regelmäßige Zusammenkünfte für die Ang Dating Daan-Anhänger.",
+                  "category": "religious",
+                  "coords": [
+                        121.127846,
+                        14.275584
+                  ]
+            },
+            {
+                  "name": "Word for the World Cabuyao",
+                  "text": "Diese christliche Gemeinschaft in Cabuyao konzentriert sich auf zeitgenössische Anbetungsmusik und Lehren, die der lokalen Gemeinschaft das Evangelium verkünden.",
+                  "category": "religious",
+                  "coords": [
+                        121.123603,
+                        14.271322
+                  ]
+            },
+            {
+                  "name": "Lokal ng Elises",
+                  "text": "Eine engagierte lokale Gemeindehalle, die den spirituellen Bedürfnissen und den regelmäßigen wöchentlichen Gottesdiensten der umliegenden Nachbarschaft Elises dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.019685,
+                        14.313234
+                  ]
+            },
+            {
+                  "name": "Church of Christ at GMA",
+                  "text": "Dieses Gebäude der Church of Christ im GMA-Gebiet bietet einen formellen Rahmen für A-cappella-Gesang und biblische Predigten.",
+                  "category": "religious",
+                  "coords": [
+                        121.021813,
+                        14.311072
+                  ]
+            },
+            {
+                  "name": "Malia Seventh-day Adventist Church",
+                  "text": "Dieser Zweig der Adventistenkirche im Malia-Gebiet hält den Samstagsgottesdienst ab und organisiert aktive Gesundheitsinitiativen für die Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        121.023314,
+                        14.31265
+                  ]
+            },
+            {
+                  "name": "ADD Chrysanthemum",
+                  "text": "Dieses Koordinationszentrum im Chrysanthemum Village ist ein spezieller Treffpunkt für die lokalen Mitglieder von Ang Dating Daan.",
+                  "category": "religious",
+                  "coords": [
+                        121.045792,
+                        14.342442
+                  ]
+            },
+            {
+                  "name": "Filinvest Seventh Day Adventist Church",
+                  "text": "Diese Kirche im Wohngebiet Filinvest richtet sich an Familien der Siebenten-Tags-Adventisten mit Sabbatschulprogrammen und wöchentlichen Predigten.",
+                  "category": "religious",
+                  "coords": [
+                        121.021654,
+                        14.333123
+                  ]
+            },
+            {
+                  "name": "The Holy Family Chapel",
+                  "text": "Diese intime katholische Kapelle ist der Heiligen Familie gewidmet und bietet einen heiligen Raum für Nachbarschaftsmessen und private Andachten.",
+                  "category": "religious",
+                  "coords": [
+                        121.042512,
+                        14.333623
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Diese Kapelle der Iglesia Ni Cristo ist für ihre markanten neugotischen Türme bekannt und stellt ein bedeutendes architektonisches und religiöses Wahrzeichen der Region dar.",
+                  "category": "religious",
+                  "coords": [
+                        121.030457,
+                        14.335059
+                  ]
+            },
+            {
+                  "name": "Langgam Church",
+                  "text": "Diese lokale Kirche im Barangay Langgam fungiert als primäres spirituelles Heiligtum für die Bewohner des umliegenden Dorfes.",
+                  "category": "religious",
+                  "coords": [
+                        121.017989,
+                        14.326428
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Ruiz Parish Church",
+                  "text": "Diese katholische Pfarrkirche, die dem ersten philippinischen Heiligen gewidmet ist, verfügt über ein geräumiges Kirchenschiff für große Sonntagsgemeinden.",
+                  "category": "religious",
+                  "coords": [
+                        121.09865,
+                        14.28068
+                  ]
+            },
+            {
+                  "name": "Carpenter's House Baptist Church",
+                  "text": "Diese baptistische Kirche, die nach dem biblischen Handwerk Jesu benannt ist, bietet Bibelstudien und Programme zur Unterstützung der Gemeinde an.",
+                  "category": "religious",
+                  "coords": [
+                        121.108621,
+                        14.289681
+                  ]
+            },
+            {
+                  "name": "Talipapa",
+                  "text": "Dieser kleine, traditionelle „Talipapa“-Frischmarkt ist voll von lokalen Händlern, die frisch gefangenen Fisch, Fleisch und lokal angebautes Gemüse verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026965,
+                        14.320958
+                  ]
+            },
+            {
+                  "name": "Big J Mini Market",
+                  "text": "Ein kompakter Nachbarschaftsmarkt, auf dem die Anwohner bequem Lebensmittel des täglichen Bedarfs, frische Produkte und grundlegende Haushaltswaren kaufen können.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026013,
+                        14.320151
+                  ]
+            },
+            {
+                  "name": "San Jose Public Market",
+                  "text": "Dieser belebte öffentliche Markt im Viertel San Jose ist ein tägliches Ziel für Einheimische, die frisches Fleisch, Gewürze und alltägliche Trockenwaren suchen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.034059,
+                        14.330508
+                  ]
+            },
+            {
+                  "name": "Sanjos Market",
+                  "text": "Dieser Marktbereich dient als lebhafter Handelsplatz der Gemeinde und ist voll von unabhängigen Einzelhändlern, die eine Mischung aus Lebensmitteln und Kleidung verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.015517,
+                        14.326113
+                  ]
+            },
+            {
+                  "name": "Santa Rosa Wet & Dry Market",
+                  "text": "Dieser weitläufige städtische Markt ist in Nassbereiche für frische Meeresfrüchte und Fleisch sowie Trockenbereiche für Reis, Getreide und Textilien unterteilt.",
+                  "category": "cultural",
+                  "coords": [
+                        121.111836,
+                        14.315843
+                  ]
+            },
+            {
+                  "name": "Biñan Public Market",
+                  "text": "Dieser belebte öffentliche Markt ist als wichtiges Handelszentrum der Stadt bekannt und berühmt für den Verkauf lokaler süßer Leckereien wie Puto Biñan.",
+                  "category": "cultural",
+                  "coords": [
+                        121.0847,
+                        14.338074
+                  ]
+            },
+            {
+                  "name": "Tubigan",
+                  "text": "Dieser lokale Marktplatz im Barangay Tubigan bietet den Bewohnern täglichen Zugang zu frischen landwirtschaftlichen Produkten und Haushaltsartikeln.",
+                  "category": "cultural",
+                  "coords": [
+                        121.07628,
+                        14.328854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santa Rosa de Lima Parish Church",
+                  "text": "Ez a figyelemre méltó katolikus plébániatemplom Santa Rosa (Laguna) jelentős történelmi nevezetessége, amelyet az amerikai kontinens első szentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        121.111321,
+                        14.314024
+                  ]
+            },
+            {
+                  "name": "Space Shuttle",
+                  "text": "Az Enchanted Kingdom vidámparkban található Vekoma Boomerang hullámvasút előre és hátrafelé is izgalmas hurkokon repíti át az utasokat.",
+                  "category": "landmark",
+                  "coords": [
+                        121.094364,
+                        14.281504
+                  ]
+            },
+            {
+                  "name": "Enchanted Kingdom",
+                  "text": "Az Enchanted Kingdom egy népszerű vidámpark Santa Rosa városában, amely olyan ikonikus játékairól ismert, mint a Space Shuttle hullámvasút.",
+                  "category": "recreational",
+                  "coords": [
+                        121.095916,
+                        14.281338
+                  ]
+            },
+            {
+                  "name": "School of Dr. Jose P. Rizal Site and Museum",
+                  "text": "Ez a biñani múzeum őrzi azt a történelmi helyszínt, ahol a fülöp-szigeteki nemzeti hős, Dr. Jose Rizal megkapta első formális oktatását.",
+                  "category": "museum",
+                  "coords": [
+                        121.083661,
+                        14.336578
+                  ]
+            },
+            {
+                  "name": "KM 0 Post - Biñan City",
+                  "text": "Ez a helyi nulla kilométerkő központi földrajzi referenciapontként szolgál a Biñan városától mért távolságokhoz.",
+                  "category": "historical",
+                  "coords": [
+                        121.074456,
+                        14.329891
+                  ]
+            },
+            {
+                  "name": "Welcome Arch - Province of Cavite, Municipality of Carmona",
+                  "text": "Ez az íves kapuépítmény jelzi a tartományi határt, és üdvözli a Cavite tartománybeli Carmona önkormányzatába érkező utazókat.",
+                  "category": "historical",
+                  "coords": [
+                        121.068364,
+                        14.32896
+                  ]
+            },
+            {
+                  "name": "Santa Rosa Welcome sign",
+                  "text": "Ez a kiemelkedő út menti emlékmű egy nagy, barátságos felirattal köszönti a Santa Rosa városába érkező látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        121.118132,
+                        14.275788
+                  ]
+            },
+            {
+                  "name": "ADD San Pedro Coordinating Center",
+                  "text": "Ez a koordinációs központ az Ang Dating Daan vallási gyülekezet helyi találkozóhelyeként és istentiszteleti tereként szolgál San Pedróban.",
+                  "category": "religious",
+                  "coords": [
+                        121.065716,
+                        14.346778
+                  ]
+            },
+            {
+                  "name": "Terry Town Chapel",
+                  "text": "Ez a lakónegyedben megbúvó kis közösségi kápolna csendes teret biztosít a napi imákhoz és a helyi vallási összejövetelekhez.",
+                  "category": "religious",
+                  "coords": [
+                        121.114767,
+                        14.322745
+                  ]
+            },
+            {
+                  "name": "Seventh-day Adventist Church",
+                  "text": "Ez a protestáns templomépület szombati istentiszteleteknek és közösségi programoknak ad otthont a helyi adventista gyülekezet számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.083089,
+                        14.331376
+                  ]
+            },
+            {
+                  "name": "Biñan Faith Bible Christian Church",
+                  "text": "Ez a biñani keresztény templom a bibliai alapú istentiszteletek és a közösségi tevékenységek szellemi központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        121.078496,
+                        14.327716
+                  ]
+            },
+            {
+                  "name": "Pacita Christian Bible Fellowship",
+                  "text": "A Pacita Complex területén található helyi közösségi központ bibliatanulmányozó csoportokat és rendszeres keresztény istentiszteleteket kínál.",
+                  "category": "religious",
+                  "coords": [
+                        121.057509,
+                        14.34457
+                  ]
+            },
+            {
+                  "name": "Word of Faith Baptist Christian Church",
+                  "text": "Ezt a baptista istentiszteleti helyet a közösségközpontú szolgálatok és a környékbeli rendszeres vasárnapi gyülekezetek jellemzik.",
+                  "category": "religious",
+                  "coords": [
+                        121.065971,
+                        14.334802
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan (MCGI)",
+                  "text": "A Members Church of God International egyházat szolgáló helyi gyülekezeti ház a vallási közvetítések és a közösségi imák központja.",
+                  "category": "religious",
+                  "coords": [
+                        121.077832,
+                        14.318894
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan (MCGI) Lokal ng Dila",
+                  "text": "Ez a dila-i helyi kirendeltség dedikált istentiszteleti teret és közvetítésnéző helyet biztosít az MCGI gyülekezet tagjai számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.108467,
+                        14.28739
+                  ]
+            },
+            {
+                  "name": "Lifegiver Santa Rosa",
+                  "text": "A Santa Rosában evangéliumi keresztény központként működő templom energikus istentiszteleteket és ifjúsági programokat szervez.",
+                  "category": "religious",
+                  "coords": [
+                        121.126982,
+                        14.298431
+                  ]
+            },
+            {
+                  "name": "Saint Clare's Convent",
+                  "text": "Ez a békés kolostorépület apácák zárt lakhelyeként szolgál, és egy nyugodt kápolnát is magában foglal a szemlélődő imákhoz.",
+                  "category": "religious",
+                  "coords": [
+                        121.123193,
+                        14.281009
+                  ]
+            },
+            {
+                  "name": "ADD Cabuyao Coordinating Center",
+                  "text": "A Cabuyao településen található helyi központ az Ang Dating Daan követőinek vallási tevékenységeit és rendszeres összejöveteleit koordinálja.",
+                  "category": "religious",
+                  "coords": [
+                        121.127846,
+                        14.275584
+                  ]
+            },
+            {
+                  "name": "Word for the World Cabuyao",
+                  "text": "Ez a cabuyaói keresztény közösség a kortárs dicsőítő zenére és az evangélium helyi közösségben való terjesztésére összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        121.123603,
+                        14.271322
+                  ]
+            },
+            {
+                  "name": "Lokal ng Elises",
+                  "text": "Egy dedikált helyi gyülekezeti terem, amely a környező Elises negyed spirituális igényeit és rendszeres heti istentiszteleteit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        121.019685,
+                        14.313234
+                  ]
+            },
+            {
+                  "name": "Church of Christ at GMA",
+                  "text": "A GMA területén található Krisztus Egyháza épület formális keretet biztosít az a capella énekléshez és a bibliai prédikációkhoz.",
+                  "category": "religious",
+                  "coords": [
+                        121.021813,
+                        14.311072
+                  ]
+            },
+            {
+                  "name": "Malia Seventh-day Adventist Church",
+                  "text": "Az adventista egyház ezen maliai kirendeltsége szombati istentiszteleteket tart, és aktív közösségi egészségügyi kezdeményezéseket szervez.",
+                  "category": "religious",
+                  "coords": [
+                        121.023314,
+                        14.31265
+                  ]
+            },
+            {
+                  "name": "ADD Chrysanthemum",
+                  "text": "A Chrysanthemum Village-ben található koordinációs központ az Ang Dating Daan helyi tagjainak dedikált találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        121.045792,
+                        14.342442
+                  ]
+            },
+            {
+                  "name": "Filinvest Seventh Day Adventist Church",
+                  "text": "A Filinvest lakónegyedben található templom a hetednapi adventista családokat szolgálja ki szombatiskolai programokkal és heti prédikációkkal.",
+                  "category": "religious",
+                  "coords": [
+                        121.021654,
+                        14.333123
+                  ]
+            },
+            {
+                  "name": "The Holy Family Chapel",
+                  "text": "A Szent Családnak szentelt meghitt katolikus kápolna szent teret biztosít a környékbeli misékhez és az egyéni áhítathoz.",
+                  "category": "religious",
+                  "coords": [
+                        121.042512,
+                        14.333623
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "A jellegzetes neogótikus tornyairól ismert Iglesia Ni Cristo kápolna a környék kiemelkedő építészeti és vallási nevezetessége.",
+                  "category": "religious",
+                  "coords": [
+                        121.030457,
+                        14.335059
+                  ]
+            },
+            {
+                  "name": "Langgam Church",
+                  "text": "A Langgam barangay-ban található helyi templom elsődleges szellemi menedékként szolgál a környező falu lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.017989,
+                        14.326428
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Ruiz Parish Church",
+                  "text": "Az első fülöp-szigeteki szentnek dedikált katolikus plébániatemplom tágas főhajóval rendelkezik, amelyet a nagy vasárnapi gyülekezetek befogadására terveztek.",
+                  "category": "religious",
+                  "coords": [
+                        121.09865,
+                        14.28068
+                  ]
+            },
+            {
+                  "name": "Carpenter's House Baptist Church",
+                  "text": "A Jézus bibliai mesterségéről elnevezett baptista templom bibliatanulmányozásokat és közösségtámogató programokat kínál.",
+                  "category": "religious",
+                  "coords": [
+                        121.108621,
+                        14.289681
+                  ]
+            },
+            {
+                  "name": "Talipapa",
+                  "text": "Ez a kis, hagyományos „talipapa” nedves piac tele van helyi árusokkal, akik frissen fogott halat, húst és helyben termesztett zöldségeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026965,
+                        14.320958
+                  ]
+            },
+            {
+                  "name": "Big J Mini Market",
+                  "text": "Egy kompakt környékbeli piac, ahol a lakosok kényelmesen megvásárolhatják a napi élelmiszereket, a friss terményeket és az alapvető háztartási cikkeket.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026013,
+                        14.320151
+                  ]
+            },
+            {
+                  "name": "San Jose Public Market",
+                  "text": "A San Jose térségében található nyüzsgő közpiac a friss húsokat, fűszereket és mindennapi szárazárukat kereső helyiek mindennapi célpontja.",
+                  "category": "cultural",
+                  "coords": [
+                        121.034059,
+                        14.330508
+                  ]
+            },
+            {
+                  "name": "Sanjos Market",
+                  "text": "A nyüzsgő közösségi kereskedelmi központként működő piactér tele van független kiskereskedőkkel, akik élelmiszereket és ruházati cikkeket is árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        121.015517,
+                        14.326113
+                  ]
+            },
+            {
+                  "name": "Santa Rosa Wet & Dry Market",
+                  "text": "Ez a kiterjedt városi piac friss tenger gyümölcseit és húsokat kínáló nedves részlegekre, valamint rizst, gabonát és textileket árusító száraz részlegekre tagolódik.",
+                  "category": "cultural",
+                  "coords": [
+                        121.111836,
+                        14.315843
+                  ]
+            },
+            {
+                  "name": "Biñan Public Market",
+                  "text": "A város egyik fő kereskedelmi központjaként ismert nyüzsgő közpiac olyan helyi édességek árusításáról híres, mint a Puto Biñan.",
+                  "category": "cultural",
+                  "coords": [
+                        121.0847,
+                        14.338074
+                  ]
+            },
+            {
+                  "name": "Tubigan",
+                  "text": "A Tubigan barangay-ban található helyi piac napi szinten biztosít friss mezőgazdasági terményeket és alapvető háztartási cikkeket a lakosoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        121.07628,
+                        14.328854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santa Rosa de Lima Parish Church",
+                  "text": "Această biserică parohială catolică notabilă este un reper istoric semnificativ din Santa Rosa, Laguna, dedicat primului sfânt al Americii.",
+                  "category": "religious",
+                  "coords": [
+                        121.111321,
+                        14.314024
+                  ]
+            },
+            {
+                  "name": "Space Shuttle",
+                  "text": "Situat în parcul tematic Enchanted Kingdom, acest roller coaster Vekoma Boomerang își propulsează pasagerii înainte și înapoi prin inversiuni palpitante.",
+                  "category": "landmark",
+                  "coords": [
+                        121.094364,
+                        14.281504
+                  ]
+            },
+            {
+                  "name": "Enchanted Kingdom",
+                  "text": "Enchanted Kingdom este un popular parc de distracții din Santa Rosa, Laguna, recunoscut pentru atracții precum montagne rousse-ul Space Shuttle.",
+                  "category": "recreational",
+                  "coords": [
+                        121.095916,
+                        14.281338
+                  ]
+            },
+            {
+                  "name": "School of Dr. Jose P. Rizal Site and Museum",
+                  "text": "Acest muzeu din Biñan conservă situl istoric unde eroul național filipinez Dr. Jose Rizal a primit prima sa educație formală.",
+                  "category": "museum",
+                  "coords": [
+                        121.083661,
+                        14.336578
+                  ]
+            },
+            {
+                  "name": "KM 0 Post - Biñan City",
+                  "text": "Această bornă kilometrică zero servește ca punct de referință geografic central pentru distanțele măsurate din orașul Biñan.",
+                  "category": "historical",
+                  "coords": [
+                        121.074456,
+                        14.329891
+                  ]
+            },
+            {
+                  "name": "Welcome Arch - Province of Cavite, Municipality of Carmona",
+                  "text": "Această poartă arcuită marchează granița provincială, întâmpinând călătorii care intră în municipalitatea Carmona din Cavite.",
+                  "category": "historical",
+                  "coords": [
+                        121.068364,
+                        14.32896
+                  ]
+            },
+            {
+                  "name": "Santa Rosa Welcome sign",
+                  "text": "Acest monument rutier proeminent întâmpină vizitatorii care sosesc în orașul Santa Rosa cu un mesaj mare de bun venit.",
+                  "category": "historical",
+                  "coords": [
+                        121.118132,
+                        14.275788
+                  ]
+            },
+            {
+                  "name": "ADD San Pedro Coordinating Center",
+                  "text": "Acest centru de coordonare servește ca loc de adunare local și spațiu de cult pentru congregația religioasă Ang Dating Daan din San Pedro.",
+                  "category": "religious",
+                  "coords": [
+                        121.065716,
+                        14.346778
+                  ]
+            },
+            {
+                  "name": "Terry Town Chapel",
+                  "text": "Ascunsă într-un cartier rezidențial, această mică capelă comunitară oferă un spațiu liniștit pentru rugăciuni zilnice și adunări religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        121.114767,
+                        14.322745
+                  ]
+            },
+            {
+                  "name": "Seventh-day Adventist Church",
+                  "text": "Această biserică protestantă găzduiește slujbele de Sabat sâmbăta și programe comunitare pentru congregația adventistă locală.",
+                  "category": "religious",
+                  "coords": [
+                        121.083089,
+                        14.331376
+                  ]
+            },
+            {
+                  "name": "Biñan Faith Bible Christian Church",
+                  "text": "Situată în Biñan, această biserică creștină funcționează ca un centru spiritual dedicat închinării bazate pe Biblie și activităților de părtășie.",
+                  "category": "religious",
+                  "coords": [
+                        121.078496,
+                        14.327716
+                  ]
+            },
+            {
+                  "name": "Pacita Christian Bible Fellowship",
+                  "text": "Situat în zona Pacita Complex, acest centru de părtășie local oferă grupuri de studiu biblic și slujbe creștine regulate.",
+                  "category": "religious",
+                  "coords": [
+                        121.057509,
+                        14.34457
+                  ]
+            },
+            {
+                  "name": "Word of Faith Baptist Christian Church",
+                  "text": "Acest lăcaș de cult baptist este caracterizat de slujirile sale orientate spre comunitate și adunările duminicale regulate din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        121.065971,
+                        14.334802
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan (MCGI)",
+                  "text": "Deservind Members Church of God International, acest sediu local este un centru pentru emisiuni religioase și rugăciuni comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        121.077832,
+                        14.318894
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan (MCGI) Lokal ng Dila",
+                  "text": "Această ramură locală specifică din Dila oferă un spațiu de cult dedicat și o zonă de vizionare a transmisiunilor pentru membrii congregației MCGI.",
+                  "category": "religious",
+                  "coords": [
+                        121.108467,
+                        14.28739
+                  ]
+            },
+            {
+                  "name": "Lifegiver Santa Rosa",
+                  "text": "Funcționând ca un centru creștin evanghelic în Santa Rosa, această biserică organizează slujbe pline de energie și programe pentru tineret.",
+                  "category": "religious",
+                  "coords": [
+                        121.126982,
+                        14.298431
+                  ]
+            },
+            {
+                  "name": "Saint Clare's Convent",
+                  "text": "Această clădire liniștită de mănăstire servește ca reședință de clauzură pentru călugărițe și oferă o capelă senină pentru rugăciune contemplativă.",
+                  "category": "religious",
+                  "coords": [
+                        121.123193,
+                        14.281009
+                  ]
+            },
+            {
+                  "name": "ADD Cabuyao Coordinating Center",
+                  "text": "Situat în municipalitatea Cabuyao, acest centru local coordonează activitățile religioase și adunările regulate pentru adepții Ang Dating Daan.",
+                  "category": "religious",
+                  "coords": [
+                        121.127846,
+                        14.275584
+                  ]
+            },
+            {
+                  "name": "Word for the World Cabuyao",
+                  "text": "Această comunitate creștină din Cabuyao se concentrează pe muzică de închinare contemporană și învățături care răspândesc Evanghelia comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        121.123603,
+                        14.271322
+                  ]
+            },
+            {
+                  "name": "Lokal ng Elises",
+                  "text": "O sală de congregație locală dedicată care deservește nevoile spirituale și slujbele săptămânale regulate ale cartierului învecinat Elises.",
+                  "category": "religious",
+                  "coords": [
+                        121.019685,
+                        14.313234
+                  ]
+            },
+            {
+                  "name": "Church of Christ at GMA",
+                  "text": "Situată în zona GMA, această clădire a Bisericii lui Hristos oferă un cadru formal pentru cântări a capella și predici biblice.",
+                  "category": "religious",
+                  "coords": [
+                        121.021813,
+                        14.311072
+                  ]
+            },
+            {
+                  "name": "Malia Seventh-day Adventist Church",
+                  "text": "Această filială a bisericii adventiste din zona Malia respectă închinarea de sâmbătă și organizează inițiative active de sănătate comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        121.023314,
+                        14.31265
+                  ]
+            },
+            {
+                  "name": "ADD Chrysanthemum",
+                  "text": "Situat în Chrysanthemum Village, acest centru de coordonare este un loc de întâlnire dedicat membrilor locali Ang Dating Daan.",
+                  "category": "religious",
+                  "coords": [
+                        121.045792,
+                        14.342442
+                  ]
+            },
+            {
+                  "name": "Filinvest Seventh Day Adventist Church",
+                  "text": "Situată în zona rezidențială Filinvest, această biserică se adresează familiilor adventiste de ziua a șaptea cu programe de școală de Sabat și predici săptămânale.",
+                  "category": "religious",
+                  "coords": [
+                        121.021654,
+                        14.333123
+                  ]
+            },
+            {
+                  "name": "The Holy Family Chapel",
+                  "text": "Dedicată Sfintei Familii, această capelă catolică intimă oferă un spațiu sacru pentru slujbele din cartier și devotamentul privat.",
+                  "category": "religious",
+                  "coords": [
+                        121.042512,
+                        14.333623
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Cunoscută pentru turlele sale neo-gotice distinctive, această capelă Iglesia Ni Cristo este un reper arhitectural și religios proeminent în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        121.030457,
+                        14.335059
+                  ]
+            },
+            {
+                  "name": "Langgam Church",
+                  "text": "Situată în barangay-ul Langgam, această biserică locală acționează ca principalul sanctuar spiritual pentru locuitorii satului din jur.",
+                  "category": "religious",
+                  "coords": [
+                        121.017989,
+                        14.326428
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Ruiz Parish Church",
+                  "text": "Dedicată primului sfânt filipinez, această biserică parohială catolică are o navă spațioasă concepută pentru a găzdui marile congregații de duminică.",
+                  "category": "religious",
+                  "coords": [
+                        121.09865,
+                        14.28068
+                  ]
+            },
+            {
+                  "name": "Carpenter's House Baptist Church",
+                  "text": "Purtând numele meseriei biblice a lui Iisus, această biserică baptistă oferă sesiuni de studiu biblic și programe de sprijin comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        121.108621,
+                        14.289681
+                  ]
+            },
+            {
+                  "name": "Talipapa",
+                  "text": "Această mică piață tradițională de tip „talipapa” este plină de vânzători locali care oferă pește proaspăt, carne și legume cultivate pe plan local.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026965,
+                        14.320958
+                  ]
+            },
+            {
+                  "name": "Big J Mini Market",
+                  "text": "O piață de cartier compactă unde locuitorii pot cumpăra convenabil alimente zilnice, produse proaspete și articole de uz casnic de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026013,
+                        14.320151
+                  ]
+            },
+            {
+                  "name": "San Jose Public Market",
+                  "text": "Această piață publică plină de viață din zona San Jose este o destinație zilnică pentru localnicii care caută carne proaspătă, condimente și produse uscate de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        121.034059,
+                        14.330508
+                  ]
+            },
+            {
+                  "name": "Sanjos Market",
+                  "text": "Servind ca un post de comerț comunitar plin de viață, această zonă de piață este plină de comercianți independenți care vând un amestec de alimente și haine.",
+                  "category": "cultural",
+                  "coords": [
+                        121.015517,
+                        14.326113
+                  ]
+            },
+            {
+                  "name": "Santa Rosa Wet & Dry Market",
+                  "text": "Această piață municipală extinsă este împărțită în secțiuni umede pentru fructe de mare și carne proaspătă, și secțiuni uscate pentru orez, cereale și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        121.111836,
+                        14.315843
+                  ]
+            },
+            {
+                  "name": "Biñan Public Market",
+                  "text": "Cunoscută ca un centru comercial major în oraș, această piață publică aglomerată este renumită pentru vânzarea de dulciuri locale precum Puto Biñan.",
+                  "category": "cultural",
+                  "coords": [
+                        121.0847,
+                        14.338074
+                  ]
+            },
+            {
+                  "name": "Tubigan",
+                  "text": "Situată în barangay-ul Tubigan, această piață locală oferă locuitorilor acces zilnic la produse agricole proaspete și produse de bază pentru casă.",
+                  "category": "cultural",
+                  "coords": [
+                        121.07628,
+                        14.328854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santa Rosa de Lima Parish Church",
+                  "text": "This notable Catholic parish church is a significant historical landmark in Santa Rosa, Laguna, dedicated to the first saint of the Americas.",
+                  "category": "religious",
+                  "coords": [
+                        121.111321,
+                        14.314024
+                  ]
+            },
+            {
+                  "name": "Space Shuttle",
+                  "text": "Located within the Enchanted Kingdom theme park, this Vekoma Boomerang roller coaster propels riders forwards and backwards through thrilling inversions.",
+                  "category": "landmark",
+                  "coords": [
+                        121.094364,
+                        14.281504
+                  ]
+            },
+            {
+                  "name": "Enchanted Kingdom",
+                  "text": "Enchanted Kingdom is a popular theme park in Santa Rosa, Laguna, featuring well-known rides like the Space Shuttle roller coaster.",
+                  "category": "recreational",
+                  "coords": [
+                        121.095916,
+                        14.281338
+                  ]
+            },
+            {
+                  "name": "School of Dr. Jose P. Rizal Site and Museum",
+                  "text": "This museum in Biñan preserves the historical site where the Philippine national hero Dr. Jose Rizal received his early formal education.",
+                  "category": "museum",
+                  "coords": [
+                        121.083661,
+                        14.336578
+                  ]
+            },
+            {
+                  "name": "KM 0 Post - Biñan City",
+                  "text": "This local kilometer zero marker serves as a central geographic reference point for distances measured from Biñan City.",
+                  "category": "historical",
+                  "coords": [
+                        121.074456,
+                        14.329891
+                  ]
+            },
+            {
+                  "name": "Welcome Arch - Province of Cavite, Municipality of Carmona",
+                  "text": "This arched gateway structure proudly marks the provincial border, welcoming travelers entering the municipality of Carmona in Cavite.",
+                  "category": "historical",
+                  "coords": [
+                        121.068364,
+                        14.32896
+                  ]
+            },
+            {
+                  "name": "Santa Rosa Welcome sign",
+                  "text": "This prominent roadside monument greets visitors arriving in the city of Santa Rosa with a large, welcoming display.",
+                  "category": "historical",
+                  "coords": [
+                        121.118132,
+                        14.275788
+                  ]
+            },
+            {
+                  "name": "ADD San Pedro Coordinating Center",
+                  "text": "This coordination center serves as a local gathering place and worship facility for the Ang Dating Daan religious congregation in San Pedro.",
+                  "category": "religious",
+                  "coords": [
+                        121.065716,
+                        14.346778
+                  ]
+            },
+            {
+                  "name": "Terry Town Chapel",
+                  "text": "Nestled within a residential neighborhood, this small community chapel provides a quiet space for daily prayers and local religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        121.114767,
+                        14.322745
+                  ]
+            },
+            {
+                  "name": "Seventh-day Adventist Church",
+                  "text": "This protestant church building hosts Saturday Sabbath services and community outreach programs for the local Adventist congregation.",
+                  "category": "religious",
+                  "coords": [
+                        121.083089,
+                        14.331376
+                  ]
+            },
+            {
+                  "name": "Biñan Faith Bible Christian Church",
+                  "text": "Located in Biñan, this Christian church functions as a spiritual center dedicated to Bible-based worship and fellowship activities.",
+                  "category": "religious",
+                  "coords": [
+                        121.078496,
+                        14.327716
+                  ]
+            },
+            {
+                  "name": "Pacita Christian Bible Fellowship",
+                  "text": "Situated in the Pacita Complex area, this local fellowship center offers Bible study groups and regular Christian worship services.",
+                  "category": "religious",
+                  "coords": [
+                        121.057509,
+                        14.34457
+                  ]
+            },
+            {
+                  "name": "Word of Faith Baptist Christian Church",
+                  "text": "This Baptist place of worship is characterized by its community-focused ministries and regular Sunday congregations in the area.",
+                  "category": "religious",
+                  "coords": [
+                        121.065971,
+                        14.334802
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan (MCGI)",
+                  "text": "Serving the Members Church of God International, this local chapter house is a hub for religious broadcasts and community prayer.",
+                  "category": "religious",
+                  "coords": [
+                        121.077832,
+                        14.318894
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan (MCGI) Lokal ng Dila",
+                  "text": "This specific local branch in Dila provides a dedicated worship space and broadcast viewing area for members of the MCGI congregation.",
+                  "category": "religious",
+                  "coords": [
+                        121.108467,
+                        14.28739
+                  ]
+            },
+            {
+                  "name": "Lifegiver Santa Rosa",
+                  "text": "Operating as an evangelical Christian center in Santa Rosa, this church organizes energetic worship services and youth outreach programs.",
+                  "category": "religious",
+                  "coords": [
+                        121.126982,
+                        14.298431
+                  ]
+            },
+            {
+                  "name": "Saint Clare's Convent",
+                  "text": "This peaceful convent building serves as a cloistered residence for nuns and offers a serene chapel for contemplative prayer.",
+                  "category": "religious",
+                  "coords": [
+                        121.123193,
+                        14.281009
+                  ]
+            },
+            {
+                  "name": "ADD Cabuyao Coordinating Center",
+                  "text": "Located in the municipality of Cabuyao, this local center coordinates religious activities and regular gatherings for the Ang Dating Daan followers.",
+                  "category": "religious",
+                  "coords": [
+                        121.127846,
+                        14.275584
+                  ]
+            },
+            {
+                  "name": "Word for the World Cabuyao",
+                  "text": "This Cabuyao-based Christian fellowship focuses on contemporary worship music and teachings spreading the Gospel to the local community.",
+                  "category": "religious",
+                  "coords": [
+                        121.123603,
+                        14.271322
+                  ]
+            },
+            {
+                  "name": "Lokal ng Elises",
+                  "text": "A dedicated local congregation hall serving the spiritual needs and regular weekly services of the surrounding Elises neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        121.019685,
+                        14.313234
+                  ]
+            },
+            {
+                  "name": "Church of Christ at GMA",
+                  "text": "Situated in the GMA area, this Church of Christ building provides a formal setting for a capella singing and scriptural sermons.",
+                  "category": "religious",
+                  "coords": [
+                        121.021813,
+                        14.311072
+                  ]
+            },
+            {
+                  "name": "Malia Seventh-day Adventist Church",
+                  "text": "This branch of the Adventist church in the Malia area observes Saturday worship and organizes active community health initiatives.",
+                  "category": "religious",
+                  "coords": [
+                        121.023314,
+                        14.31265
+                  ]
+            },
+            {
+                  "name": "ADD Chrysanthemum",
+                  "text": "Located within the Chrysanthemum Village, this coordination center is a dedicated meeting spot for the local Ang Dating Daan members.",
+                  "category": "religious",
+                  "coords": [
+                        121.045792,
+                        14.342442
+                  ]
+            },
+            {
+                  "name": "Filinvest SDA Church",
+                  "text": "Set within the Filinvest residential area, this church caters to Seventh-day Adventist families with Sabbath school programs and weekly sermons.",
+                  "category": "religious",
+                  "coords": [
+                        121.021654,
+                        14.333123
+                  ]
+            },
+            {
+                  "name": "The Holy Family Chapel",
+                  "text": "Dedicated to the Holy Family, this intimate Catholic chapel provides a sacred space for neighborhood masses and private devotion.",
+                  "category": "religious",
+                  "coords": [
+                        121.042512,
+                        14.333623
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Known for its distinctive neo-Gothic spires, this Iglesia Ni Cristo chapel is a prominent architectural and religious landmark in the local area.",
+                  "category": "religious",
+                  "coords": [
+                        121.030457,
+                        14.335059
+                  ]
+            },
+            {
+                  "name": "Langgam Church",
+                  "text": "Situated in the barangay of Langgam, this local church acts as the primary spiritual sanctuary for the surrounding village residents.",
+                  "category": "religious",
+                  "coords": [
+                        121.017989,
+                        14.326428
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Ruiz Parish Church",
+                  "text": "Dedicated to the first Filipino saint, this Catholic parish church features a spacious nave designed to accommodate large Sunday congregations.",
+                  "category": "religious",
+                  "coords": [
+                        121.09865,
+                        14.28068
+                  ]
+            },
+            {
+                  "name": "Carpenter's House Baptist Church",
+                  "text": "Taking its name from the biblical trade of Jesus, this Baptist church offers Bible study sessions and community support programs.",
+                  "category": "religious",
+                  "coords": [
+                        121.108621,
+                        14.289681
+                  ]
+            },
+            {
+                  "name": "Talipapa",
+                  "text": "This small, traditional \"talipapa\" wet market is filled with local vendors selling freshly caught fish, meat, and locally grown vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026965,
+                        14.320958
+                  ]
+            },
+            {
+                  "name": "Big J Mini Market",
+                  "text": "A compact neighborhood marketplace where residents can conveniently purchase daily groceries, fresh produce, and basic household items.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026013,
+                        14.320151
+                  ]
+            },
+            {
+                  "name": "San Jose Public Market",
+                  "text": "This bustling public market in the San Jose area is a daily destination for locals seeking fresh meats, spices, and everyday dry goods.",
+                  "category": "cultural",
+                  "coords": [
+                        121.034059,
+                        14.330508
+                  ]
+            },
+            {
+                  "name": "Sanjos Market",
+                  "text": "Serving as a lively community trading post, this market area is packed with independent retailers selling a mix of food supplies and clothes.",
+                  "category": "cultural",
+                  "coords": [
+                        121.015517,
+                        14.326113
+                  ]
+            },
+            {
+                  "name": "Santa Rosa Wet & Dry Market",
+                  "text": "This expansive municipal market is divided into wet sections for fresh seafood and meats, and dry sections for rice, grains, and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        121.111836,
+                        14.315843
+                  ]
+            },
+            {
+                  "name": "Biñan Public Market",
+                  "text": "Known as a major commercial center in the city, this bustling public market is famous for selling local sweet treats like Puto Biñan.",
+                  "category": "cultural",
+                  "coords": [
+                        121.0847,
+                        14.338074
+                  ]
+            },
+            {
+                  "name": "Tubigan",
+                  "text": "Located in the Tubigan barangay, this local marketplace provides residents with daily access to fresh agricultural produce and household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        121.07628,
+                        14.328854
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "PH-LAG",
     coords: [121.0964, 14.2889],
@@ -542,7 +9812,88 @@ image: "/poi-images/ph-enchanted-kingdom-life-v2.webp",
     
   },
   {
-    id: "ph-danasan-ecoadventure-park-life-v2",
+    id: "ph-danasan-ecoadventure-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tuburan 360 viewpoint",
+                  "text": "Ein malerischer Aussichtspunkt auf einem Hügel, der einen unverbauten Panoramablick über die hügelige Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        123.86535,
+                        10.674039
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora Virgen de los Remedios Parish Church",
+                  "text": "Eine prominente christliche Pfarrkirche mit traditioneller religiöser Architektur, die einer großen lokalen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        123.791627,
+                        10.65586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tuburan 360 viewpoint",
+                  "text": "Egy festői dombtetőn lévő kilátó, amely akadálytalan, panorámás kilátást nyújt a dombos vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        123.86535,
+                        10.674039
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora Virgen de los Remedios Parish Church",
+                  "text": "Egy kiemelkedő keresztény plébániatemplom hagyományos vallási építészettel, amely egy nagy helyi gyülekezetet szolgál ki.",
+                  "category": "landmark",
+                  "coords": [
+                        123.791627,
+                        10.65586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tuburan 360 viewpoint",
+                  "text": "Un punct de observație pitoresc pe un deal, oferind vederi panoramice neobstrucționate asupra zonei rurale deluroase.",
+                  "category": "natural",
+                  "coords": [
+                        123.86535,
+                        10.674039
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora Virgen de los Remedios Parish Church",
+                  "text": "O biserică parohială creștină proeminentă, având o arhitectură religioasă tradițională și deservind o congregație locală mare.",
+                  "category": "landmark",
+                  "coords": [
+                        123.791627,
+                        10.65586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tuburan 360 viewpoint",
+                  "text": "A scenic hilltop observation point offering unobstructed, panoramic views over the rolling countryside.",
+                  "category": "natural",
+                  "coords": [
+                        123.86535,
+                        10.674039
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora Virgen de los Remedios Parish Church",
+                  "text": "A prominent Christian parish church featuring traditional religious architecture and serving a large local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        123.791627,
+                        10.65586
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PH-CEB",
     coords: [123.8647, 10.6385],
@@ -596,7 +9947,808 @@ image: "/poi-images/ph-danasan-ecoadventure-park-life-v2.webp",
     
   },
   {
-    id: "ph-malagos-garden-resort-life-v2",
+    id: "ph-malagos-garden-resort-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Vicente Ferrer",
+                  "text": "Eine lokale christliche Kapelle in der Nähe der üppigen Umgebung des Malagos Garden Resorts.",
+                  "category": "landmark",
+                  "coords": [
+                        125.389453,
+                        7.085408
+                  ]
+            },
+            {
+                  "name": "Sitio Santo Niño Chapel",
+                  "text": "Eine kleine Gemeindekapelle, die einen Raum für christliche Gottesdienste im Feriengebiet Malagos bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.448035,
+                        7.107413
+                  ]
+            },
+            {
+                  "name": "Señor San Agustin",
+                  "text": "Eine christliche Kirche, die den örtlichen Anhängern in der Nähe des beliebten Malagos Garden Resorts dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.404,
+                        7.087624
+                  ]
+            },
+            {
+                  "name": "Santa Cruz Chapel",
+                  "text": "Die Santa Cruz Chapel bietet der örtlichen Gemeinde in der Nähe des Malagos Garden Resorts einen ruhigen Ort der Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        125.4161,
+                        7.123525
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Dieser lokale Königreichssaal dient als christlicher Treffpunkt für Zeugen Jehovas, die im Bezirk Malagos leben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.489885,
+                        7.135448
+                  ]
+            },
+            {
+                  "name": "San Roque Chapel",
+                  "text": "Die San Roque Chapel ist ein bescheidenes christliches Heiligtum, das sich um die spirituellen Bedürfnisse der Bewohner rund um Malagos kümmert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.478598,
+                        7.145357
+                  ]
+            },
+            {
+                  "name": "Riverside Fundamental Baptist Church",
+                  "text": "Die Riverside Fundamental Baptist Church ist ein christlicher Versammlungsort in der Nähe der Wasserwege des Malagos-Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        125.477297,
+                        7.16746
+                  ]
+            },
+            {
+                  "name": "Sr. San Isidro Labrador",
+                  "text": "Sr. San Isidro Labrador ist eine christliche Kapelle, die ihrem Schutzpatron gewidmet ist und der landwirtschaftlichen Gemeinde von Malagos dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.471569,
+                        7.165604
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Nicolas De Tolentino",
+                  "text": "GKK Sr. San Nicolas De Tolentino fungiert als Basisgemeinde und Treffpunkt für Gottesdienste in Malagos.",
+                  "category": "religious",
+                  "coords": [
+                        125.4733,
+                        7.185015
+                  ]
+            },
+            {
+                  "name": "Missionaries of the Assumption",
+                  "text": "Das Zentrum der Missionaries of the Assumption unterstützt die christliche Pastoral- und Gemeindearbeit in der Umgebung von Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.520939,
+                        7.122199
+                  ]
+            },
+            {
+                  "name": "Holy Family Novitiate",
+                  "text": "Das Holy Family Novitiate ist ein christliches Ausbildungshaus inmitten der üppigen tropischen Umgebung von Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.485516,
+                        7.112371
+                  ]
+            },
+            {
+                  "name": "The Sisters Apostles of Jesus Crucifixed",
+                  "text": "Die Sisters Apostles of Jesus Crucifixed unterhalten in Malagos eine dem Gebet gewidmete christliche Ordensresidenz.",
+                  "category": "landmark",
+                  "coords": [
+                        125.484353,
+                        7.111284
+                  ]
+            },
+            {
+                  "name": "Christian Alliance Church",
+                  "text": "Die Christian Alliance Church bringt lokale Gläubige zu Gottesdienst und Gemeinschaft im Bezirk Malagos zusammen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.428541,
+                        7.114729
+                  ]
+            },
+            {
+                  "name": "San Francisco De Asis Church",
+                  "text": "Die Kirche San Francisco De Asis ist eine christliche Pfarrei, die in Malagos regelmäßige Messen und spirituelle Begleitung anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.433958,
+                        7.127454
+                  ]
+            },
+            {
+                  "name": "Christian Fellowship Church",
+                  "text": "Die Christian Fellowship Church in Malagos dient als lebendiges Zentrum für gemeinsame christliche Gottesdienste und Aktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        125.470226,
+                        7.168144
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Diese durch ihre markanten architektonischen Türme gekennzeichnete Kapelle der Iglesia ni Cristo dient der christlichen Gemeinde in Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.449165,
+                        7.129121
+                  ]
+            },
+            {
+                  "name": "Redeemed Baptist Church",
+                  "text": "Die Redeemed Baptist Church bietet der Gemeinde von Malagos ein einladendes christliches Umfeld für das Erlernen der Heiligen Schrift.",
+                  "category": "landmark",
+                  "coords": [
+                        125.477234,
+                        7.134551
+                  ]
+            },
+            {
+                  "name": "Saint John Paul II Parish Church",
+                  "text": "Die Pfarrkirche Saint John Paul II ist ein bedeutendes christliches Zentrum, das dem verehrten Papst gewidmet ist und den Gläubigen von Malagos dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.482246,
+                        7.135729
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Lourdes",
+                  "text": "GKK Birhen sa Lourdes ist eine lokale Marienverehrungskapelle, in der sich die christlichen Einwohner von Malagos zum Beten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        125.480345,
+                        7.190835
+                  ]
+            },
+            {
+                  "name": "San Antonio De Padua",
+                  "text": "San Antonio De Padua ist eine christliche Kapelle in Malagos, in der Einheimische den Heiligen verehren, der dafür bekannt ist, verlorene Gegenstände wiederzufinden.",
+                  "category": "landmark",
+                  "coords": [
+                        125.491642,
+                        7.107985
+                  ]
+            },
+            {
+                  "name": "Holy Place Church",
+                  "text": "Die Holy Place Church fungiert als lokales christliches Gottesdienstzentrum, das den Gemeinschaftsgeist im Bezirk Malagos fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.494846,
+                        7.116562
+                  ]
+            },
+            {
+                  "name": "Sr. San Roque",
+                  "text": "Sr. San Roque ist eine kleine christliche Kapelle, die dem Heiligen Rochus gewidmet ist und einen ruhigen Gebetsraum in Malagos bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.473132,
+                        7.100185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Vicente Ferrer",
+                  "text": "Helyi keresztény kápolna a Malagos Garden Resort buja környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.389453,
+                        7.085408
+                  ]
+            },
+            {
+                  "name": "Sitio Santo Niño Chapel",
+                  "text": "Egy kis közösségi kápolna, amely teret ad a keresztény istentiszteleteknek a Malagos üdülőövezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.448035,
+                        7.107413
+                  ]
+            },
+            {
+                  "name": "Señor San Agustin",
+                  "text": "Keresztény templom, amely a helyi híveket szolgálja a népszerű Malagos Garden Resort közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.404,
+                        7.087624
+                  ]
+            },
+            {
+                  "name": "Santa Cruz Chapel",
+                  "text": "A Santa Cruz-kápolna csendes istentiszteleti helyet kínál a Malagos Garden Resort környékének helyi közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        125.4161,
+                        7.123525
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Ez a helyi Királyság-terem a Malagos negyedben élő Jehova Tanúi keresztény találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.489885,
+                        7.135448
+                  ]
+            },
+            {
+                  "name": "San Roque Chapel",
+                  "text": "A San Roque-kápolna egy szerény keresztény szentély, amely a Malagos környékén élők spirituális igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        125.478598,
+                        7.145357
+                  ]
+            },
+            {
+                  "name": "Riverside Fundamental Baptist Church",
+                  "text": "A Riverside Fundamentalista Baptista Egyház keresztény gyülekezeti térként áll a Malagos-vidék folyóvizei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.477297,
+                        7.16746
+                  ]
+            },
+            {
+                  "name": "Sr. San Isidro Labrador",
+                  "text": "A védőszentjének szentelt Sr. San Isidro Labrador egy keresztény kápolna, amely Malagos mezőgazdasági közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.471569,
+                        7.165604
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Nicolas De Tolentino",
+                  "text": "A GKK Sr. San Nicolas De Tolentino alapvető egyházi közösségi gyülekezőhelyként működik az istentiszteletekhez Malagosban.",
+                  "category": "religious",
+                  "coords": [
+                        125.4733,
+                        7.185015
+                  ]
+            },
+            {
+                  "name": "Missionaries of the Assumption",
+                  "text": "A Missionaries of the Assumption központja támogatja a keresztény lelkipásztori és közösségi munkát Malagos környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.520939,
+                        7.122199
+                  ]
+            },
+            {
+                  "name": "Holy Family Novitiate",
+                  "text": "A Holy Family Novitiate egy keresztény képzési ház Malagos buja, trópusi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.485516,
+                        7.112371
+                  ]
+            },
+            {
+                  "name": "The Sisters Apostles of Jesus Crucifixed",
+                  "text": "A Megfeszített Jézus Apostolai Nővérek egy imádságnak szentelt keresztény vallási rezidenciát tartanak fenn Malagosban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.484353,
+                        7.111284
+                  ]
+            },
+            {
+                  "name": "Christian Alliance Church",
+                  "text": "A Keresztény Szövetség Egyház összefogja a helyi hívőket az istentiszteletre és a közösségi életre a Malagos negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.428541,
+                        7.114729
+                  ]
+            },
+            {
+                  "name": "San Francisco De Asis Church",
+                  "text": "A San Francisco De Asis templom egy keresztény egyházközség, amely rendszeres miséket és spirituális útmutatást kínál Malagosban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.433958,
+                        7.127454
+                  ]
+            },
+            {
+                  "name": "Christian Fellowship Church",
+                  "text": "A malagosi Christian Fellowship Church a közösségi keresztény istentiszteletek és tevékenységek élénk központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.470226,
+                        7.168144
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "A jellegzetes építészeti tornyairól ismert Iglesia ni Cristo kápolna a malagosi keresztény gyülekezetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.449165,
+                        7.129121
+                  ]
+            },
+            {
+                  "name": "Redeemed Baptist Church",
+                  "text": "A Megváltott Baptista Egyház barátságos keresztény környezetet kínál a szentírás tanulmányozásához a malagosi közösségben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.477234,
+                        7.134551
+                  ]
+            },
+            {
+                  "name": "Saint John Paul II Parish Church",
+                  "text": "A Szent II. János Pál plébániatemplom egy kiemelkedő keresztény központ, amelyet a tisztelt pápának szenteltek, és a malagosi híveket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.482246,
+                        7.135729
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Lourdes",
+                  "text": "A GKK Birhen sa Lourdes egy helyi Mária-tisztelet kápolna, ahol Malagos keresztény lakosai összegyűlnek imádkozni.",
+                  "category": "landmark",
+                  "coords": [
+                        125.480345,
+                        7.190835
+                  ]
+            },
+            {
+                  "name": "San Antonio De Padua",
+                  "text": "A San Antonio De Padua egy keresztény kápolna Malagosban, ahol a helyiek az elveszett tárgyak megtalálásáról ismert szentet tisztelik.",
+                  "category": "landmark",
+                  "coords": [
+                        125.491642,
+                        7.107985
+                  ]
+            },
+            {
+                  "name": "Holy Place Church",
+                  "text": "A Holy Place Church helyi keresztény istentiszteleti központként működik, amely elősegíti a közösségi szellemet a Malagos negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.494846,
+                        7.116562
+                  ]
+            },
+            {
+                  "name": "Sr. San Roque",
+                  "text": "A Sr. San Roque egy Szent Rókusnak szentelt kis keresztény kápolna, amely csendes imateret kínál Malagosban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.473132,
+                        7.100185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Vicente Ferrer",
+                  "text": "O capelă creștină locală situată lângă împrejurimile luxuriante ale Malagos Garden Resort.",
+                  "category": "landmark",
+                  "coords": [
+                        125.389453,
+                        7.085408
+                  ]
+            },
+            {
+                  "name": "Sitio Santo Niño Chapel",
+                  "text": "O mică capelă comunitară care oferă un spațiu pentru cultul creștin în zona stațiunii Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.448035,
+                        7.107413
+                  ]
+            },
+            {
+                  "name": "Señor San Agustin",
+                  "text": "O biserică creștină care deservește devotații locali din apropierea popularei stațiuni Malagos Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        125.404,
+                        7.087624
+                  ]
+            },
+            {
+                  "name": "Santa Cruz Chapel",
+                  "text": "Capela Santa Cruz oferă un loc liniștit de rugăciune pentru comunitatea locală din apropierea zonei Malagos Garden Resort.",
+                  "category": "religious",
+                  "coords": [
+                        125.4161,
+                        7.123525
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Această Sală a Regatului locală servește ca loc de întâlnire creștină pentru Martorii lui Iehova care locuiesc în districtul Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.489885,
+                        7.135448
+                  ]
+            },
+            {
+                  "name": "San Roque Chapel",
+                  "text": "Capela San Roque este un sanctuar creștin modest care răspunde nevoilor spirituale ale locuitorilor din jurul zonei Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.478598,
+                        7.145357
+                  ]
+            },
+            {
+                  "name": "Riverside Fundamental Baptist Church",
+                  "text": "Biserica Baptistă Fundamentală Riverside este un spațiu de adunare creștină lângă căile navigabile din zona Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.477297,
+                        7.16746
+                  ]
+            },
+            {
+                  "name": "Sr. San Isidro Labrador",
+                  "text": "Dedicată sfântului său patron, Sr. San Isidro Labrador este o capelă creștină care servește comunitatea agricolă din Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.471569,
+                        7.165604
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Nicolas De Tolentino",
+                  "text": "GKK Sr. San Nicolas De Tolentino funcționează ca un punct de adunare comunitar eclezial de bază pentru rugăciune în Malagos.",
+                  "category": "religious",
+                  "coords": [
+                        125.4733,
+                        7.185015
+                  ]
+            },
+            {
+                  "name": "Missionaries of the Assumption",
+                  "text": "Centrul Misionarilor Adormirii Maicii Domnului sprijină activitățile creștine pastorale și comunitare din vecinătatea Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.520939,
+                        7.122199
+                  ]
+            },
+            {
+                  "name": "Holy Family Novitiate",
+                  "text": "Novițiatul Sfintei Familii este o casă de formare creștină situată în mijlocul mediului tropical luxuriant din Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.485516,
+                        7.112371
+                  ]
+            },
+            {
+                  "name": "The Sisters Apostles of Jesus Crucifixed",
+                  "text": "Surorile Apostoli ale lui Isus Răstignit mențin o reședință religioasă creștină dedicată rugăciunii în Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.484353,
+                        7.111284
+                  ]
+            },
+            {
+                  "name": "Christian Alliance Church",
+                  "text": "Biserica Alianței Creștine adună credincioșii locali pentru închinare și părtășie în districtul Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.428541,
+                        7.114729
+                  ]
+            },
+            {
+                  "name": "San Francisco De Asis Church",
+                  "text": "Biserica San Francisco De Asis este o parohie creștină care oferă slujbe regulate și îndrumare spirituală în Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.433958,
+                        7.127454
+                  ]
+            },
+            {
+                  "name": "Christian Fellowship Church",
+                  "text": "Biserica Părtășiei Creștine din Malagos servește ca un centru vibrant pentru închinarea și activitățile creștine comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        125.470226,
+                        7.168144
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Caracterizată prin turlele sale arhitecturale distincte, această capelă Iglesia ni Cristo deservește congregația creștină din Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.449165,
+                        7.129121
+                  ]
+            },
+            {
+                  "name": "Redeemed Baptist Church",
+                  "text": "Biserica Baptistă Răscumpărată oferă un mediu creștin primitor pentru învățarea scripturilor în comunitatea din Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.477234,
+                        7.134551
+                  ]
+            },
+            {
+                  "name": "Saint John Paul II Parish Church",
+                  "text": "Biserica Parohială Sfântul Ioan Paul al II-lea este un centru creștin proeminent dedicat veneratului Papă, care servește credincioșii din Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.482246,
+                        7.135729
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Lourdes",
+                  "text": "GKK Birhen sa Lourdes este o capelă locală de devoțiune mariană unde rezidenții creștini din Malagos se adună pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        125.480345,
+                        7.190835
+                  ]
+            },
+            {
+                  "name": "San Antonio De Padua",
+                  "text": "San Antonio De Padua este o capelă creștină din Malagos unde localnicii îl venerează pe sfântul cunoscut pentru găsirea obiectelor pierdute.",
+                  "category": "landmark",
+                  "coords": [
+                        125.491642,
+                        7.107985
+                  ]
+            },
+            {
+                  "name": "Holy Place Church",
+                  "text": "Biserica Holy Place funcționează ca un centru local de închinare creștină, promovând spiritul comunitar în districtul Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.494846,
+                        7.116562
+                  ]
+            },
+            {
+                  "name": "Sr. San Roque",
+                  "text": "Sr. San Roque este o mică capelă creștină dedicată Sfântului Roch, oferind un spațiu de rugăciune liniștit în Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.473132,
+                        7.100185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Vicente Ferrer",
+                  "text": "A local Christian chapel located near the lush environs of the Malagos Garden Resort.",
+                  "category": "landmark",
+                  "coords": [
+                        125.389453,
+                        7.085408
+                  ]
+            },
+            {
+                  "name": "Sitio Santo Niño Chapel",
+                  "text": "A small community chapel providing a space for Christian worship in the Malagos resort area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.448035,
+                        7.107413
+                  ]
+            },
+            {
+                  "name": "Señor San Agustin",
+                  "text": "A Christian church serving the local devotees near the popular Malagos Garden Resort.",
+                  "category": "landmark",
+                  "coords": [
+                        125.404,
+                        7.087624
+                  ]
+            },
+            {
+                  "name": "Santa Cruz Chapel",
+                  "text": "The Santa Cruz Chapel provides a quiet place of worship for the local community near the Malagos Garden Resort area.",
+                  "category": "religious",
+                  "coords": [
+                        125.4161,
+                        7.123525
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "This local Kingdom Hall serves as a Christian meeting place for Jehovah's Witnesses residing in the Malagos district.",
+                  "category": "landmark",
+                  "coords": [
+                        125.489885,
+                        7.135448
+                  ]
+            },
+            {
+                  "name": "San Roque Chapel",
+                  "text": "San Roque Chapel is a modest Christian sanctuary catering to the spiritual needs of residents around Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.478598,
+                        7.145357
+                  ]
+            },
+            {
+                  "name": "Riverside Fundamental Baptist Church",
+                  "text": "The Riverside Fundamental Baptist Church stands as a Christian gathering space near the riverways of the Malagos area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.477297,
+                        7.16746
+                  ]
+            },
+            {
+                  "name": "Sr. San Isidro Labrador",
+                  "text": "Dedicated to its patron saint, Sr. San Isidro Labrador is a Christian chapel serving the agricultural community of Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.471569,
+                        7.165604
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Nicolas De Tolentino",
+                  "text": "GKK Sr. San Nicolas De Tolentino functions as a basic ecclesial community gathering point for worship in Malagos.",
+                  "category": "religious",
+                  "coords": [
+                        125.4733,
+                        7.185015
+                  ]
+            },
+            {
+                  "name": "Missionaries of the Assumption",
+                  "text": "The Missionaries of the Assumption center supports Christian pastoral and community outreach in the Malagos vicinity.",
+                  "category": "landmark",
+                  "coords": [
+                        125.520939,
+                        7.122199
+                  ]
+            },
+            {
+                  "name": "Holy Family Novitiate",
+                  "text": "The Holy Family Novitiate is a Christian formation house set amidst the lush, tropical environment of Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.485516,
+                        7.112371
+                  ]
+            },
+            {
+                  "name": "The Sisters Apostles of Jesus Crucifixed",
+                  "text": "The Sisters Apostles of Jesus Crucifixed maintain a Christian religious residence dedicated to prayer in Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.484353,
+                        7.111284
+                  ]
+            },
+            {
+                  "name": "Christian Alliance Church",
+                  "text": "The Christian Alliance Church brings together local believers for worship and fellowship in the Malagos district.",
+                  "category": "landmark",
+                  "coords": [
+                        125.428541,
+                        7.114729
+                  ]
+            },
+            {
+                  "name": "San Francisco De Asis Church",
+                  "text": "San Francisco De Asis Church is a Christian parish offering regular mass and spiritual guidance in Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.433958,
+                        7.127454
+                  ]
+            },
+            {
+                  "name": "Christian Fellowship Church",
+                  "text": "Christian Fellowship Church in Malagos serves as a vibrant hub for communal Christian worship and activities.",
+                  "category": "landmark",
+                  "coords": [
+                        125.470226,
+                        7.168144
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Characterized by its distinct architectural spires, this Iglesia ni Cristo chapel serves the Christian congregation in Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.449165,
+                        7.129121
+                  ]
+            },
+            {
+                  "name": "Redeemed Baptist Church",
+                  "text": "Redeemed Baptist Church offers a welcoming Christian environment for scripture learning in the Malagos community.",
+                  "category": "landmark",
+                  "coords": [
+                        125.477234,
+                        7.134551
+                  ]
+            },
+            {
+                  "name": "Saint John Paul II Parish Church",
+                  "text": "Saint John Paul II Parish Church is a prominent Christian center dedicated to the revered Pope, serving the Malagos faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        125.482246,
+                        7.135729
+                  ]
+            },
+            {
+                  "name": "GKK Birhen sa Lourdes",
+                  "text": "GKK Birhen sa Lourdes is a local Marian devotion chapel where Christian residents of Malagos gather to pray.",
+                  "category": "landmark",
+                  "coords": [
+                        125.480345,
+                        7.190835
+                  ]
+            },
+            {
+                  "name": "San Antonio De Padua",
+                  "text": "San Antonio De Padua is a Christian chapel in Malagos where locals venerate the saint known for finding lost items.",
+                  "category": "landmark",
+                  "coords": [
+                        125.491642,
+                        7.107985
+                  ]
+            },
+            {
+                  "name": "Holy Place Church",
+                  "text": "Holy Place Church functions as a localized Christian worship center fostering community spirit in the Malagos district.",
+                  "category": "landmark",
+                  "coords": [
+                        125.494846,
+                        7.116562
+                  ]
+            },
+            {
+                  "name": "Sr. San Roque",
+                  "text": "Sr. San Roque is a small Christian chapel dedicated to Saint Roch, offering a quiet prayer space in Malagos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.473132,
+                        7.100185
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "PH-DAS",
     coords: [125.4385, 7.1517],
@@ -650,7 +10802,1240 @@ image: "/poi-images/ph-malagos-garden-resort-life-v2.webp",
     
   },
   {
-    id: "ph-ninoy-aquino-parks-and-wildlife-center-life-v2",
+    id: "ph-ninoy-aquino-parks-and-wildlife-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quezon City Hall",
+                  "text": "Ein markanter 14-stöckiger Regierungsgebäudekomplex, der als Verwaltungszentrum von Quezon City dient.",
+                  "category": "historical",
+                  "coords": [
+                        121.050007,
+                        14.64638
+                  ]
+            },
+            {
+                  "name": "Capitol City Baptist Church",
+                  "text": "Eine etablierte Baptistenkirche an der West Avenue in Quezon City.",
+                  "category": "religious",
+                  "coords": [
+                        121.028801,
+                        14.651278
+                  ]
+            },
+            {
+                  "name": "Cubao Cathedral",
+                  "text": "Eine herausragende römisch-katholische Kathedrale im Stadtteil Cubao, die der Unbefleckten Empfängnis geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        121.043175,
+                        14.621904
+                  ]
+            },
+            {
+                  "name": "PETA Theater",
+                  "text": "Ein dynamisches Zentrum für Bildungstheater, das sich der Förderung und Aufführung der philippinischen Künste und Kultur widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026337,
+                        14.624405
+                  ]
+            },
+            {
+                  "name": "Ninoy Aquino Parks & Wildlife Center",
+                  "text": "Ein weitläufiger, 22,7 Hektar großer städtischer Naturpark mit einer Lagune und einer Wildtierrettungsstation.",
+                  "category": "park",
+                  "coords": [
+                        121.043736,
+                        14.650729
+                  ]
+            },
+            {
+                  "name": "Bantayog ng mga Bayani",
+                  "text": "Ein feierlicher Denkmalkomplex zu Ehren der Märtyrer, die der Marcos-Diktatur Widerstand leisteten.",
+                  "category": "historical",
+                  "coords": [
+                        121.039389,
+                        14.644301
+                  ]
+            },
+            {
+                  "name": "Boston Gallery",
+                  "text": "Eine intime Kunstgalerie, die eine wechselnde Auswahl zeitgenössischer philippinischer Kunstwerke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        121.042024,
+                        14.621794
+                  ]
+            },
+            {
+                  "name": "Gravity Art Space",
+                  "text": "Ein unabhängiger Ausstellungsraum für bildende Kunst, der sich der Ausrichtung lokaler zeitgenössischer Kunstausstellungen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        121.021884,
+                        14.631923
+                  ]
+            },
+            {
+                  "name": "One Art Gallery",
+                  "text": "Eine Galerie für moderne Kunst, die eine vielfältige Sammlung zeitgenössischer visueller Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        121.039634,
+                        14.637196
+                  ]
+            },
+            {
+                  "name": "Green Papaya Art Projects",
+                  "text": "Ein von Künstlern getragener Initiativraum zur Unterstützung experimenteller und zeitgenössischer multidisziplinärer Kunstprojekte.",
+                  "category": "museum",
+                  "coords": [
+                        121.036272,
+                        14.627791
+                  ]
+            },
+            {
+                  "name": "Pinoy Pawnstars Museum",
+                  "text": "Ein vielseitiges Museum, das eine vielfältige Sammlung von philippinischen Vintage-Erinnerungsstücken und historischen Artefakten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        121.055001,
+                        14.633658
+                  ]
+            },
+            {
+                  "name": "Tomas Morato Memorial",
+                  "text": "Ein öffentliches Denkmal zu Ehren von Tomas Morato, dem ersten Bürgermeister von Quezon City.",
+                  "category": "historical",
+                  "coords": [
+                        121.035362,
+                        14.634868
+                  ]
+            },
+            {
+                  "name": "Gateway Cineplex 10",
+                  "text": "Ein Multiplex-Kino im Geschäftsviertel, das aktuelle Mainstream-Filme zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        121.052673,
+                        14.622327
+                  ]
+            },
+            {
+                  "name": "The Art Gallery",
+                  "text": "Ein Ausstellungsort für lokale bildende Kunst und zeitgenössische kreative Werke.",
+                  "category": "cultural",
+                  "coords": [
+                        121.048105,
+                        14.644069
+                  ]
+            },
+            {
+                  "name": "Siningtinta Art Space",
+                  "text": "Ein unabhängiger Galerieraum, der sich auf zeitgenössische philippinische Kunstausstellungen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061689,
+                        14.637316
+                  ]
+            },
+            {
+                  "name": "New Frontier Theater",
+                  "text": "Ein klassisches Unterhaltungs- und Konzerthaus im belebten Viertel Cubao.",
+                  "category": "cultural",
+                  "coords": [
+                        121.053984,
+                        14.622345
+                  ]
+            },
+            {
+                  "name": "Green Papaya Art Projects EXT",
+                  "text": "Ein von Künstlern geführter Initiativraum für experimentelle Kunst und Gemeinschaftsprojekte.",
+                  "category": "cultural",
+                  "coords": [
+                        121.03967,
+                        14.633226
+                  ]
+            },
+            {
+                  "name": "JCTD QC",
+                  "text": "Ein lokales Gotteshaus, das den spirituellen Bedürfnissen der Nachbarschaftsgemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        121.022058,
+                        14.65327
+                  ]
+            },
+            {
+                  "name": "Life Gospel Center",
+                  "text": "Eine christliche Kircheneinrichtung, die Gottesdienste für lokale Gemeinden anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        121.053202,
+                        14.637349
+                  ]
+            },
+            {
+                  "name": "4R Fresh & Frozen Food Store",
+                  "text": "Ein Nachbarschaftsmarkt, der sich auf tägliche Lebensmittel und Tiefkühlfleisch spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        121.048397,
+                        14.62771
+                  ]
+            },
+            {
+                  "name": "SIDCOR Organic bazaar",
+                  "text": "Ein Wochenendbasar, der für seine frischen lokalen Produkte und Bio-Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        121.04585,
+                        14.648515
+                  ]
+            },
+            {
+                  "name": "Mini Palengke - South Triangle",
+                  "text": "Ein kompakter Frischmarkt in der Nachbarschaft, der Lebensmittel für den täglichen Bedarf anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        121.037775,
+                        14.636298
+                  ]
+            },
+            {
+                  "name": "Ramil's Store",
+                  "text": "Ein lokaler Marktstand, der alltägliche Haushaltswaren und Lebensmittel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        121.070871,
+                        14.634696
+                  ]
+            },
+            {
+                  "name": "Roxas Public Market",
+                  "text": "Ein belebter Frischmarkt mit zahlreichen Ständen für frische Produkte und Fleisch.",
+                  "category": "cultural",
+                  "coords": [
+                        121.019434,
+                        14.628974
+                  ]
+            },
+            {
+                  "name": "Congressman Calalay Public Market",
+                  "text": "Ein traditioneller Gemeinschaftsmarkt, auf dem Einheimische frische Waren für den täglichen Bedarf kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.015181,
+                        14.639363
+                  ]
+            },
+            {
+                  "name": "Muñoz Market",
+                  "text": "Ein geschäftiger öffentlicher Markt, der für seine große Vielfalt an frischen Lebensmitteln und Verkaufsständen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        121.019995,
+                        14.657016
+                  ]
+            },
+            {
+                  "name": "Kalayaan Plaza",
+                  "text": "Ein offener Marktplatz, der als zentraler Knotenpunkt für den Handel in der Gemeinde dient.",
+                  "category": "cultural",
+                  "coords": [
+                        121.054021,
+                        14.642526
+                  ]
+            },
+            {
+                  "name": "Molave Garden Wet Market",
+                  "text": "Ein lokaler Frischmarkt, der hauptsächlich frische Meeresfrüchte und knackiges Gemüse anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        121.064487,
+                        14.629038
+                  ]
+            },
+            {
+                  "name": "Fishing village",
+                  "text": "Eine lokale Attraktion am Wasser, wo man traditionelle Fischereipraktiken beobachten kann.",
+                  "category": "landmark",
+                  "coords": [
+                        121.042111,
+                        14.650503
+                  ]
+            },
+            {
+                  "name": "SM City North EDSA",
+                  "text": "Ein riesiger Einkaufszentrum-Komplex, der als wichtiges Ziel für Einzelhandel und Lifestyle dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.029787,
+                        14.656531
+                  ]
+            },
+            {
+                  "name": "Cubao Expo",
+                  "text": "Ein kreatives Areal mit Vintage-Läden, unabhängigen Galerien und einzigartigen Boutiquen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.056601,
+                        14.622222
+                  ]
+            },
+            {
+                  "name": "Gospel Light Baptist Church",
+                  "text": "Eine lokale baptistische Kirchengemeinde, in der sich die Gläubigen der Nachbarschaft versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        121.055369,
+                        14.636426
+                  ]
+            },
+            {
+                  "name": "Rejoice Family Baptist Church",
+                  "text": "Ein christlich-baptistisches Gotteshaus in der Nachbarschaft für regelmäßige Gebete und Gemeindedienste.",
+                  "category": "landmark",
+                  "coords": [
+                        121.04801,
+                        14.633312
+                  ]
+            },
+            {
+                  "name": "Sikatuna Baptist Church",
+                  "text": "Eine lokale christliche Gemeinde, die dem spirituellen Leben in der Gegend von Sikatuna dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060519,
+                        14.636629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quezon City Hall",
+                  "text": "Kiemelkedő, 14 emeletes kormányzati épületkomplexum, amely Quezon City adminisztratív központjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        121.050007,
+                        14.64638
+                  ]
+            },
+            {
+                  "name": "Capitol City Baptist Church",
+                  "text": "Egy jól bevált baptista templom Quezon City West Avenue-ján.",
+                  "category": "religious",
+                  "coords": [
+                        121.028801,
+                        14.651278
+                  ]
+            },
+            {
+                  "name": "Cubao Cathedral",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt, kiemelkedő római katolikus katedrális Cubao negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        121.043175,
+                        14.621904
+                  ]
+            },
+            {
+                  "name": "PETA Theater",
+                  "text": "Dinamikus oktatási színházi központ, amely a fülöp-szigeteki művészet és kultúra népszerűsítésének és előadásának szentelte magát.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026337,
+                        14.624405
+                  ]
+            },
+            {
+                  "name": "Ninoy Aquino Parks & Wildlife Center",
+                  "text": "Kiterjedt, 22,7 hektáros városi natúrpark lagúnával és vadvédelmi központtal.",
+                  "category": "park",
+                  "coords": [
+                        121.043736,
+                        14.650729
+                  ]
+            },
+            {
+                  "name": "Bantayog ng mga Bayani",
+                  "text": "Ünnepélyes emlékműkomplexum, amely a Marcos-diktatúrának ellenálló vértanúk előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        121.039389,
+                        14.644301
+                  ]
+            },
+            {
+                  "name": "Boston Gallery",
+                  "text": "Intim művészeti galéria, amely kortárs fülöp-szigeteki műalkotások változó válogatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.042024,
+                        14.621794
+                  ]
+            },
+            {
+                  "name": "Gravity Art Space",
+                  "text": "Független vizuális művészeti tér, amely helyi kortárs művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        121.021884,
+                        14.631923
+                  ]
+            },
+            {
+                  "name": "One Art Gallery",
+                  "text": "Modern művészeti galéria, amely kortárs vizuális alkotások változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.039634,
+                        14.637196
+                  ]
+            },
+            {
+                  "name": "Green Papaya Art Projects",
+                  "text": "Művészek által működtetett kezdeményezési tér, amely kísérleti és kortárs multidiszciplináris művészeti projekteket támogat.",
+                  "category": "museum",
+                  "coords": [
+                        121.036272,
+                        14.627791
+                  ]
+            },
+            {
+                  "name": "Pinoy Pawnstars Museum",
+                  "text": "Eklektikus múzeum, amely vintage fülöp-szigeteki emléktárgyak és történelmi leletek változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.055001,
+                        14.633658
+                  ]
+            },
+            {
+                  "name": "Tomas Morato Memorial",
+                  "text": "Tomas Morato, Quezon City első polgármestere tiszteletére állított nyilvános emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        121.035362,
+                        14.634868
+                  ]
+            },
+            {
+                  "name": "Gateway Cineplex 10",
+                  "text": "Egy többtermes mozikomplexum a kereskedelmi negyedben, amely a legújabb filmeket vetíti.",
+                  "category": "cultural",
+                  "coords": [
+                        121.052673,
+                        14.622327
+                  ]
+            },
+            {
+                  "name": "The Art Gallery",
+                  "text": "Helyi vizuális művészeteket és kortárs alkotásokat bemutató kiállítótér.",
+                  "category": "cultural",
+                  "coords": [
+                        121.048105,
+                        14.644069
+                  ]
+            },
+            {
+                  "name": "Siningtinta Art Space",
+                  "text": "Független galériatér, amely a kortárs fülöp-szigeteki művészeti kiállításokra fókuszál.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061689,
+                        14.637316
+                  ]
+            },
+            {
+                  "name": "New Frontier Theater",
+                  "text": "Klasszikus szórakoztató- és koncertterem a nyüzsgő Cubao negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        121.053984,
+                        14.622345
+                  ]
+            },
+            {
+                  "name": "Green Papaya Art Projects EXT",
+                  "text": "Művészek által működtetett kezdeményezés, amely kísérleti művészetnek és együttműködési projekteknek ad teret.",
+                  "category": "cultural",
+                  "coords": [
+                        121.03967,
+                        14.633226
+                  ]
+            },
+            {
+                  "name": "JCTD QC",
+                  "text": "A környékbeli közösség hitéletét szolgáló helyi istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        121.022058,
+                        14.65327
+                  ]
+            },
+            {
+                  "name": "Life Gospel Center",
+                  "text": "Keresztény templom, amely vallási szolgáltatásokat nyújt a helyi gyülekezetek számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.053202,
+                        14.637349
+                  ]
+            },
+            {
+                  "name": "4R Fresh & Frozen Food Store",
+                  "text": "Napi élelmiszerekre és fagyasztott húsokra szakosodott környékbeli piac.",
+                  "category": "cultural",
+                  "coords": [
+                        121.048397,
+                        14.62771
+                  ]
+            },
+            {
+                  "name": "SIDCOR Organic bazaar",
+                  "text": "Hétvégi bazár, amely friss helyi termékeiről és bioáruiról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        121.04585,
+                        14.648515
+                  ]
+            },
+            {
+                  "name": "Mini Palengke - South Triangle",
+                  "text": "Kompakt környékbeli piac, amely friss alapanyagokat és napi élelmiszereket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        121.037775,
+                        14.636298
+                  ]
+            },
+            {
+                  "name": "Ramil's Store",
+                  "text": "Helyi piaci stand, ahol mindennapi háztartási cikkeket és élelmiszereket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        121.070871,
+                        14.634696
+                  ]
+            },
+            {
+                  "name": "Roxas Public Market",
+                  "text": "Nyüzsgő környékbeli piac, ahol számos stand kínál friss zöldséget, gyümölcsöt és húst.",
+                  "category": "cultural",
+                  "coords": [
+                        121.019434,
+                        14.628974
+                  ]
+            },
+            {
+                  "name": "Congressman Calalay Public Market",
+                  "text": "Hagyományos közösségi piac, ahol a helyiek friss, napi árukat szereznek be.",
+                  "category": "cultural",
+                  "coords": [
+                        121.015181,
+                        14.639363
+                  ]
+            },
+            {
+                  "name": "Muñoz Market",
+                  "text": "Forgalmas nyilvános piac, amely a friss élelmiszerek és a kiskereskedelmi standok széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        121.019995,
+                        14.657016
+                  ]
+            },
+            {
+                  "name": "Kalayaan Plaza",
+                  "text": "Nyitott piactér, amely a közösségi kereskedelem központi csomópontjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        121.054021,
+                        14.642526
+                  ]
+            },
+            {
+                  "name": "Molave Garden Wet Market",
+                  "text": "Helyi piac, amely elsősorban friss tenger gyümölcseit és ropogós zöldségeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        121.064487,
+                        14.629038
+                  ]
+            },
+            {
+                  "name": "Fishing village",
+                  "text": "Helyi vízparti látványosság, ahol a hagyományos halászati módszerek figyelhetők meg.",
+                  "category": "landmark",
+                  "coords": [
+                        121.042111,
+                        14.650503
+                  ]
+            },
+            {
+                  "name": "SM City North EDSA",
+                  "text": "Hatalmas bevásárlóközpont-komplexum, amely a kiskereskedelem és az életmód egyik fő célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        121.029787,
+                        14.656531
+                  ]
+            },
+            {
+                  "name": "Cubao Expo",
+                  "text": "Kreatív negyed, amely vintage boltokat, független galériákat és egyedi butikokat rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.056601,
+                        14.622222
+                  ]
+            },
+            {
+                  "name": "Gospel Light Baptist Church",
+                  "text": "Helyi baptista keresztény gyülekezeti épület, ahol a környék hívői gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        121.055369,
+                        14.636426
+                  ]
+            },
+            {
+                  "name": "Rejoice Family Baptist Church",
+                  "text": "Környékbeli keresztény baptista istentiszteleti központ rendszeres imákhoz és közösségi alkalmakhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        121.04801,
+                        14.633312
+                  ]
+            },
+            {
+                  "name": "Sikatuna Baptist Church",
+                  "text": "A Sikatuna terület spirituális életét szolgáló helyi keresztény gyülekezet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060519,
+                        14.636629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quezon City Hall",
+                  "text": "Un complex proeminent de clădiri guvernamentale cu 14 etaje, care servește drept centru administrativ al orașului Quezon.",
+                  "category": "historical",
+                  "coords": [
+                        121.050007,
+                        14.64638
+                  ]
+            },
+            {
+                  "name": "Capitol City Baptist Church",
+                  "text": "O biserică baptistă bine stabilită, situată de-a lungul West Avenue din Quezon City.",
+                  "category": "religious",
+                  "coords": [
+                        121.028801,
+                        14.651278
+                  ]
+            },
+            {
+                  "name": "Cubao Cathedral",
+                  "text": "O proeminentă catedrală romano-catolică dedicată Imaculatei Concepții în cartierul Cubao.",
+                  "category": "religious",
+                  "coords": [
+                        121.043175,
+                        14.621904
+                  ]
+            },
+            {
+                  "name": "PETA Theater",
+                  "text": "Un centru de teatru educațional dinamic dedicat promovării și interpretării artelor și culturii filipineze.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026337,
+                        14.624405
+                  ]
+            },
+            {
+                  "name": "Ninoy Aquino Parks & Wildlife Center",
+                  "text": "Un parc natural urban întins de 22,7 hectare, cu o lagună și un centru de salvare a faunei sălbatice.",
+                  "category": "park",
+                  "coords": [
+                        121.043736,
+                        14.650729
+                  ]
+            },
+            {
+                  "name": "Bantayog ng mga Bayani",
+                  "text": "Un complex memorial solemn în onoarea martirilor care s-au opus dictaturii lui Marcos.",
+                  "category": "historical",
+                  "coords": [
+                        121.039389,
+                        14.644301
+                  ]
+            },
+            {
+                  "name": "Boston Gallery",
+                  "text": "O galerie de artă intimă care prezintă o selecție rotativă de opere de artă filipineze contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        121.042024,
+                        14.621794
+                  ]
+            },
+            {
+                  "name": "Gravity Art Space",
+                  "text": "Un spațiu independent de artă vizuală dedicat găzduirii expozițiilor de artă contemporană locală.",
+                  "category": "museum",
+                  "coords": [
+                        121.021884,
+                        14.631923
+                  ]
+            },
+            {
+                  "name": "One Art Gallery",
+                  "text": "O galerie de artă modernă care expune o colecție diversă de piese vizuale contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        121.039634,
+                        14.637196
+                  ]
+            },
+            {
+                  "name": "Green Papaya Art Projects",
+                  "text": "Un spațiu de inițiativă condus de artiști care sprijină proiecte de artă multidisciplinară experimentală și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        121.036272,
+                        14.627791
+                  ]
+            },
+            {
+                  "name": "Pinoy Pawnstars Museum",
+                  "text": "Un muzeu eclectic care prezintă o colecție diversă de amintiri filipineze de epocă și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        121.055001,
+                        14.633658
+                  ]
+            },
+            {
+                  "name": "Tomas Morato Memorial",
+                  "text": "Un monument public în onoarea lui Tomas Morato, primul primar al orașului Quezon.",
+                  "category": "historical",
+                  "coords": [
+                        121.035362,
+                        14.634868
+                  ]
+            },
+            {
+                  "name": "Gateway Cineplex 10",
+                  "text": "Un complex cinematografic cu mai multe ecrane situat în cartierul comercial, care difuzează filme de masă.",
+                  "category": "cultural",
+                  "coords": [
+                        121.052673,
+                        14.622327
+                  ]
+            },
+            {
+                  "name": "The Art Gallery",
+                  "text": "Un spațiu care expune arte vizuale locale și lucrări creative contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        121.048105,
+                        14.644069
+                  ]
+            },
+            {
+                  "name": "Siningtinta Art Space",
+                  "text": "Un spațiu independent de galerie, axat pe expoziții de artă contemporană filipineză.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061689,
+                        14.637316
+                  ]
+            },
+            {
+                  "name": "New Frontier Theater",
+                  "text": "O sală clasică de spectacole și concerte situată în cartierul plin de viață Cubao.",
+                  "category": "cultural",
+                  "coords": [
+                        121.053984,
+                        14.622345
+                  ]
+            },
+            {
+                  "name": "Green Papaya Art Projects EXT",
+                  "text": "Un spațiu de inițiativă condus de artiști, dedicat artei experimentale și proiectelor de colaborare.",
+                  "category": "cultural",
+                  "coords": [
+                        121.03967,
+                        14.633226
+                  ]
+            },
+            {
+                  "name": "JCTD QC",
+                  "text": "Un lăcaș de cult local care deservește nevoile spirituale ale comunității din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        121.022058,
+                        14.65327
+                  ]
+            },
+            {
+                  "name": "Life Gospel Center",
+                  "text": "O facilitate bisericească creștină care oferă servicii religioase pentru congregațiile locale.",
+                  "category": "religious",
+                  "coords": [
+                        121.053202,
+                        14.637349
+                  ]
+            },
+            {
+                  "name": "4R Fresh & Frozen Food Store",
+                  "text": "O piață de cartier specializată în produse alimentare zilnice și carne congelată.",
+                  "category": "cultural",
+                  "coords": [
+                        121.048397,
+                        14.62771
+                  ]
+            },
+            {
+                  "name": "SIDCOR Organic bazaar",
+                  "text": "Un bazar de weekend cunoscut pentru produsele locale proaspete și mărfurile organice.",
+                  "category": "cultural",
+                  "coords": [
+                        121.04585,
+                        14.648515
+                  ]
+            },
+            {
+                  "name": "Mini Palengke - South Triangle",
+                  "text": "O piață compactă de cartier care oferă alimente esențiale zilnice și ingrediente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        121.037775,
+                        14.636298
+                  ]
+            },
+            {
+                  "name": "Ramil's Store",
+                  "text": "O tarabă de piață locală care oferă bunuri de uz casnic și produse alimentare de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        121.070871,
+                        14.634696
+                  ]
+            },
+            {
+                  "name": "Roxas Public Market",
+                  "text": "O piață plină de viață în cartier, cu numeroase tarabe pentru produse proaspete și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        121.019434,
+                        14.628974
+                  ]
+            },
+            {
+                  "name": "Congressman Calalay Public Market",
+                  "text": "O piață comunitară tradițională unde localnicii se adună pentru a cumpăra bunuri proaspete zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        121.015181,
+                        14.639363
+                  ]
+            },
+            {
+                  "name": "Muñoz Market",
+                  "text": "O piață publică aglomerată, renumită pentru varietatea largă de alimente proaspete și tarabe de vânzare cu amănuntul.",
+                  "category": "cultural",
+                  "coords": [
+                        121.019995,
+                        14.657016
+                  ]
+            },
+            {
+                  "name": "Kalayaan Plaza",
+                  "text": "O piațetă deschisă care servește drept centru principal pentru comerțul comunitar.",
+                  "category": "cultural",
+                  "coords": [
+                        121.054021,
+                        14.642526
+                  ]
+            },
+            {
+                  "name": "Molave Garden Wet Market",
+                  "text": "O piață locală care oferă în principal fructe de mare proaspete și legume crocante.",
+                  "category": "cultural",
+                  "coords": [
+                        121.064487,
+                        14.629038
+                  ]
+            },
+            {
+                  "name": "Fishing village",
+                  "text": "O atracție comunitară locală pe malul apei, unde pot fi observate practicile tradiționale de pescuit.",
+                  "category": "landmark",
+                  "coords": [
+                        121.042111,
+                        14.650503
+                  ]
+            },
+            {
+                  "name": "SM City North EDSA",
+                  "text": "Un complex masiv de centre comerciale care servește ca o destinație majoră de retail și stil de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        121.029787,
+                        14.656531
+                  ]
+            },
+            {
+                  "name": "Cubao Expo",
+                  "text": "Un complex creativ care găzduiește magazine vintage, galerii independente și buticuri unice.",
+                  "category": "landmark",
+                  "coords": [
+                        121.056601,
+                        14.622222
+                  ]
+            },
+            {
+                  "name": "Gospel Light Baptist Church",
+                  "text": "O facilitate a congregației creștine baptiste locale care adună credincioșii din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        121.055369,
+                        14.636426
+                  ]
+            },
+            {
+                  "name": "Rejoice Family Baptist Church",
+                  "text": "Un centru de cult creștin baptist de cartier pentru rugăciune regulată și slujbe comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        121.04801,
+                        14.633312
+                  ]
+            },
+            {
+                  "name": "Sikatuna Baptist Church",
+                  "text": "O congregație creștină locală care deservește viața spirituală a zonei Sikatuna.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060519,
+                        14.636629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quezon City Hall",
+                  "text": "A prominent 14-story government building complex that serves as the administrative heart of Quezon City.",
+                  "category": "historical",
+                  "coords": [
+                        121.050007,
+                        14.64638
+                  ]
+            },
+            {
+                  "name": "Capitol City Baptist Church",
+                  "text": "A well-established Baptist church situated along West Avenue in Quezon City.",
+                  "category": "religious",
+                  "coords": [
+                        121.028801,
+                        14.651278
+                  ]
+            },
+            {
+                  "name": "Cubao Cathedral",
+                  "text": "A prominent Roman Catholic cathedral dedicated to the Immaculate Conception in the Cubao district.",
+                  "category": "religious",
+                  "coords": [
+                        121.043175,
+                        14.621904
+                  ]
+            },
+            {
+                  "name": "PETA Theater",
+                  "text": "A dynamic educational theater center dedicated to promoting and performing Philippine arts and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        121.026337,
+                        14.624405
+                  ]
+            },
+            {
+                  "name": "Ninoy Aquino Parks & Wildlife Center",
+                  "text": "An expansive 22.7-hectare urban nature park featuring a lagoon and a wildlife rescue center.",
+                  "category": "park",
+                  "coords": [
+                        121.043736,
+                        14.650729
+                  ]
+            },
+            {
+                  "name": "Monument of Heroes",
+                  "text": "A solemn memorial complex honoring the martyrs who resisted the Marcos dictatorship.",
+                  "category": "historical",
+                  "coords": [
+                        121.039389,
+                        14.644301
+                  ]
+            },
+            {
+                  "name": "Boston Gallery",
+                  "text": "An intimate art gallery showcasing a rotating selection of contemporary Filipino artworks.",
+                  "category": "museum",
+                  "coords": [
+                        121.042024,
+                        14.621794
+                  ]
+            },
+            {
+                  "name": "Gravity Art Space",
+                  "text": "An independent visual art space dedicated to hosting contemporary local art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        121.021884,
+                        14.631923
+                  ]
+            },
+            {
+                  "name": "One Art Gallery",
+                  "text": "A modern art gallery displaying a diverse collection of contemporary visual pieces.",
+                  "category": "museum",
+                  "coords": [
+                        121.039634,
+                        14.637196
+                  ]
+            },
+            {
+                  "name": "Green Papaya Art Projects",
+                  "text": "An artist-run initiative space supporting experimental and contemporary multidisciplinary art projects.",
+                  "category": "museum",
+                  "coords": [
+                        121.036272,
+                        14.627791
+                  ]
+            },
+            {
+                  "name": "Pinoy Pawnstars Museum",
+                  "text": "An eclectic museum showcasing a diverse collection of vintage Filipino memorabilia and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        121.055001,
+                        14.633658
+                  ]
+            },
+            {
+                  "name": "Tomas Morato Memorial",
+                  "text": "A public memorial monument honoring Tomas Morato, the first mayor of Quezon City.",
+                  "category": "historical",
+                  "coords": [
+                        121.035362,
+                        14.634868
+                  ]
+            },
+            {
+                  "name": "Gateway Cineplex 10",
+                  "text": "A multi-screen cinema complex offering mainstream film screenings in the commercial district.",
+                  "category": "cultural",
+                  "coords": [
+                        121.052673,
+                        14.622327
+                  ]
+            },
+            {
+                  "name": "The Art Gallery",
+                  "text": "A venue exhibiting local visual arts and contemporary creative works.",
+                  "category": "cultural",
+                  "coords": [
+                        121.048105,
+                        14.644069
+                  ]
+            },
+            {
+                  "name": "Siningtinta Art Space",
+                  "text": "An independent gallery space focusing on contemporary Philippine art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061689,
+                        14.637316
+                  ]
+            },
+            {
+                  "name": "New Frontier Theater",
+                  "text": "A classic entertainment and concert hall situated in the bustling Cubao district.",
+                  "category": "cultural",
+                  "coords": [
+                        121.053984,
+                        14.622345
+                  ]
+            },
+            {
+                  "name": "Green Papaya Art Projects EXT",
+                  "text": "An artist-run initiative space dedicated to experimental art and collaborative projects.",
+                  "category": "cultural",
+                  "coords": [
+                        121.03967,
+                        14.633226
+                  ]
+            },
+            {
+                  "name": "JCTD QC",
+                  "text": "A local place of worship serving the spiritual needs of the neighborhood community.",
+                  "category": "religious",
+                  "coords": [
+                        121.022058,
+                        14.65327
+                  ]
+            },
+            {
+                  "name": "Life Gospel Center",
+                  "text": "A Christian church facility offering religious services for local congregations.",
+                  "category": "religious",
+                  "coords": [
+                        121.053202,
+                        14.637349
+                  ]
+            },
+            {
+                  "name": "4R Fresh & Frozen Food Store",
+                  "text": "A neighborhood marketplace specializing in daily groceries and frozen meats.",
+                  "category": "cultural",
+                  "coords": [
+                        121.048397,
+                        14.62771
+                  ]
+            },
+            {
+                  "name": "SIDCOR Organic bazaar",
+                  "text": "A weekend bazaar widely known for its fresh local produce and organic goods.",
+                  "category": "cultural",
+                  "coords": [
+                        121.04585,
+                        14.648515
+                  ]
+            },
+            {
+                  "name": "Mini Palengke - South Triangle",
+                  "text": "A compact neighborhood wet market providing daily food essentials and fresh ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        121.037775,
+                        14.636298
+                  ]
+            },
+            {
+                  "name": "Ramil's Store",
+                  "text": "A local marketplace stand offering everyday household goods and groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        121.070871,
+                        14.634696
+                  ]
+            },
+            {
+                  "name": "Roxas Public Market",
+                  "text": "A bustling neighborhood wet market featuring numerous stalls for fresh produce and meat.",
+                  "category": "cultural",
+                  "coords": [
+                        121.019434,
+                        14.628974
+                  ]
+            },
+            {
+                  "name": "Congressman Calalay Public Market",
+                  "text": "A traditional community marketplace where locals gather to buy fresh daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        121.015181,
+                        14.639363
+                  ]
+            },
+            {
+                  "name": "Muñoz Market",
+                  "text": "A busy public market well known for its wide variety of fresh food and retail stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        121.019995,
+                        14.657016
+                  ]
+            },
+            {
+                  "name": "Kalayaan Plaza",
+                  "text": "An open marketplace plaza serving as a central hub for community commerce.",
+                  "category": "cultural",
+                  "coords": [
+                        121.054021,
+                        14.642526
+                  ]
+            },
+            {
+                  "name": "Molave Garden Wet Market",
+                  "text": "A local wet market primarily providing fresh seafood and crisp vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        121.064487,
+                        14.629038
+                  ]
+            },
+            {
+                  "name": "Fishing village",
+                  "text": "A local waterside community attraction where traditional fishing practices can be observed.",
+                  "category": "landmark",
+                  "coords": [
+                        121.042111,
+                        14.650503
+                  ]
+            },
+            {
+                  "name": "SM City North Edsa",
+                  "text": "A massive shopping mall complex that serves as a major retail and lifestyle destination.",
+                  "category": "landmark",
+                  "coords": [
+                        121.029787,
+                        14.656531
+                  ]
+            },
+            {
+                  "name": "Cubao Expo",
+                  "text": "A creative compound featuring vintage shops, independent galleries, and unique boutiques.",
+                  "category": "landmark",
+                  "coords": [
+                        121.056601,
+                        14.622222
+                  ]
+            },
+            {
+                  "name": "Gospel Light Baptist Church",
+                  "text": "A local Baptist Christian congregation facility gathering the neighborhood believers.",
+                  "category": "landmark",
+                  "coords": [
+                        121.055369,
+                        14.636426
+                  ]
+            },
+            {
+                  "name": "Rejoice Family Baptist Church",
+                  "text": "A neighborhood Christian Baptist worship center for regular prayer and community services.",
+                  "category": "landmark",
+                  "coords": [
+                        121.04801,
+                        14.633312
+                  ]
+            },
+            {
+                  "name": "Sikatuna Baptist Church",
+                  "text": "A local Christian congregation serving the spiritual life of the Sikatuna area.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060519,
+                        14.636629
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "PH-00",
     coords: [121.0475, 14.6486],
@@ -704,7 +12089,1240 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
     
   },
   {
-    id: "ph-burnham-park-life-v2",
+    id: "ph-burnham-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "General Emilio Aguinaldo Museum",
+                  "text": "Ein Museum, das das Erbe der Ersten Philippinischen Republik bewahrt und die originale philippinische Flagge beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        120.600904,
+                        16.412177
+                  ]
+            },
+            {
+                  "name": "Mansion House",
+                  "text": "Ein elegantes Herrenhaus aus dem Jahr 1908, das als offizieller Sommerpalast des Präsidenten der Philippinen dient.",
+                  "category": "historical",
+                  "coords": [
+                        120.621522,
+                        16.412366
+                  ]
+            },
+            {
+                  "name": "Gateway Community Church",
+                  "text": "Eine große Kultstätte, die der lokalen Gemeinschaft im geschäftigen, bergigen städtischen Zentrum von Baguio dient.",
+                  "category": "religious",
+                  "coords": [
+                        120.597562,
+                        16.414382
+                  ]
+            },
+            {
+                  "name": "San Jose Parish Church",
+                  "text": "Eine bekannte katholische Pfarrkirche, die den Bewohnern der Region La Trinidad spirituelle Dienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        120.586487,
+                        16.461163
+                  ]
+            },
+            {
+                  "name": "Burnham Park",
+                  "text": "Ein historischer städtischer Park, entworfen von Daniel Burnham, der um eine malerische künstliche Bootslagune zentriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.595192,
+                        16.409323
+                  ]
+            },
+            {
+                  "name": "Session Road",
+                  "text": "Die pulsierende Hauptverkehrsader der Stadt, gesäumt von geschäftigen Handelsbetrieben und historischen Art-Deco-Gebäuden.",
+                  "category": "landmark",
+                  "coords": [
+                        120.597223,
+                        16.412666
+                  ]
+            },
+            {
+                  "name": "Baguio Cathedral",
+                  "text": "Eine ikonische katholische Kathedrale auf einem markanten Hügel, erkennbar an ihrer unverwechselbaren rosa Fassade und den beiden Türmen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.598528,
+                        16.412729
+                  ]
+            },
+            {
+                  "name": "Wright Park",
+                  "text": "Ein ruhiger städtischer Park, berühmt für sein langgestrecktes Reflexionsbecken und die von hohen, duftenden Kiefern gesäumten Wege.",
+                  "category": "landmark",
+                  "coords": [
+                        120.618591,
+                        16.415022
+                  ]
+            },
+            {
+                  "name": "Mines View Park",
+                  "text": "Ein malerischer Vorgebirgspark, der einen spektakulären Panoramablick über die verlassenen Gold- und Kupferminen von Itogon bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.62745,
+                        16.419638
+                  ]
+            },
+            {
+                  "name": "Lion's Head",
+                  "text": "Eine 1972 geschnitzte, großformatige Kalksteinskulptur, die als beliebtes Fotomotiv an der malerischen Kennon Road dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.606002,
+                        16.367607
+                  ]
+            },
+            {
+                  "name": "Mount Mirador",
+                  "text": "Ein markanter Stadthügel, der eine weite Aussicht bietet und auf dessen Gipfel sich ein historisches Jesuiten-Retreat-Haus befindet.",
+                  "category": "natural",
+                  "coords": [
+                        120.580451,
+                        16.409349
+                  ]
+            },
+            {
+                  "name": "Colors of Stobosa",
+                  "text": "Diese farbenfrohe Hangsiedlung ist berühmt für ihre lebendigen, ineinandergreifenden Wandmalereien, die sich über Dutzende von Häusern erstrecken.",
+                  "category": "natural",
+                  "coords": [
+                        120.59744,
+                        16.433846
+                  ]
+            },
+            {
+                  "name": "Usec. Cabral Jump Spot",
+                  "text": "Dieser im Dezember 2025 eröffnete Aussichtspunkt bietet dramatische Panoramablicke auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        120.614501,
+                        16.328973
+                  ]
+            },
+            {
+                  "name": "Mount Kabuyao",
+                  "text": "Dieser hoch aufragende Gipfel ist an den riesigen Radarschüsseln auf seinem Gipfel zu erkennen und bietet einen weiten Blick über Baguio.",
+                  "category": "natural",
+                  "coords": [
+                        120.565169,
+                        16.35941
+                  ]
+            },
+            {
+                  "name": "Mount Santo Tomas",
+                  "text": "Als stark bewaldeter Berg, der sich steil über die Region erhebt, ist dieser markante Gipfel ein wichtiges Wahrzeichen der Cordillera Central.",
+                  "category": "natural",
+                  "coords": [
+                        120.561058,
+                        16.334839
+                  ]
+            },
+            {
+                  "name": "Baguio Botanical Garden",
+                  "text": "Dieser weitläufige öffentliche Garten bietet gewundene Steinpfade, einheimische Kiefern und Skulpturen, die die indigene Kultur der Kordilleren darstellen.",
+                  "category": "park",
+                  "coords": [
+                        120.613788,
+                        16.414261
+                  ]
+            },
+            {
+                  "name": "Bell House",
+                  "text": "Dieses restaurierte Haus aus der Kolonialzeit war einst die Residenz des kommandierenden Generals von Camp John Hay und dient heute als historisches Museum.",
+                  "category": "museum",
+                  "coords": [
+                        120.618249,
+                        16.39899
+                  ]
+            },
+            {
+                  "name": "Buddhavihāra",
+                  "text": "Diese ruhige buddhistische Kultstätte zeichnet sich durch traditionelle Architektur aus und bietet einen ruhigen Ort der Kontemplation zwischen den Kiefern.",
+                  "category": "religious",
+                  "coords": [
+                        120.597108,
+                        16.416912
+                  ]
+            },
+            {
+                  "name": "Baguio City Hall",
+                  "text": "Dieses im Mai 1950 eingeweihte Verwaltungsgebäude ist ein markantes architektonisches Wahrzeichen der Nachkriegszeit im Stadtzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        120.591335,
+                        16.413792
+                  ]
+            },
+            {
+                  "name": "Mount Kadang",
+                  "text": "Dieser markante Gipfel bietet raue Pfade durch dichte hochalpine Vegetation und fordert Wanderer mit seinen steilen Anstiegen heraus.",
+                  "category": "natural",
+                  "coords": [
+                        120.678056,
+                        16.425556
+                  ]
+            },
+            {
+                  "name": "Mount Calugong",
+                  "text": "Bekannt für seine einzigartigen Kalksteinfelsformationen in Gipfelnähe, bietet dieser Berg eine markante Naturkulisse entlang seiner Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        120.51589,
+                        16.387839
+                  ]
+            },
+            {
+                  "name": "Rizal Park",
+                  "text": "Dieser grüne Stadtpark im belebten Stadtzentrum bietet einen schattigen Treffpunkt rund um ein Denkmal für den Nationalhelden.",
+                  "category": "park",
+                  "coords": [
+                        120.592722,
+                        16.412632
+                  ]
+            },
+            {
+                  "name": "Benguet Provincial Capitol Museum",
+                  "text": "Dieses im Regierungskomplex der Provinz gelegene Museum zeigt Artefakte und Ausstellungen über das reiche kulturelle Erbe der Menschen in Benguet.",
+                  "category": "museum",
+                  "coords": [
+                        120.587206,
+                        16.46245
+                  ]
+            },
+            {
+                  "name": "PMA",
+                  "text": "Dieses Militärmuseum in der philippinischen Militärakademie zeigt historische Waffen, alte Panzer und Uniformen aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        120.62048,
+                        16.361306
+                  ]
+            },
+            {
+                  "name": "Arko Ni Apo Art Gallery",
+                  "text": "Diese ansprechende Galerie dient lokalen Künstlern als lebendiger Ort, um ihre zeitgenössischen Gemälde und von Ureinwohnern inspirierten Skulpturen auszustellen.",
+                  "category": "museum",
+                  "coords": [
+                        120.576219,
+                        16.429809
+                  ]
+            },
+            {
+                  "name": "BenCab Museum",
+                  "text": "Dieses von einem Nationalkünstler gegründete, mehrstöckige Museum bietet eine spektakuläre Sammlung zeitgenössischer philippinischer Kunst und indigener Artefakte der Kordilleren.",
+                  "category": "museum",
+                  "coords": [
+                        120.550342,
+                        16.410587
+                  ]
+            },
+            {
+                  "name": "Baguio Museum",
+                  "text": "In einem markant gestalteten Gebäude untergebracht, bewahrt diese Kulturinstitution detaillierte Dioramen und Artefakte, die die Geschichte der Kordillerenprovinzen umfassen.",
+                  "category": "museum",
+                  "coords": [
+                        120.598426,
+                        16.407027
+                  ]
+            },
+            {
+                  "name": "Museo Kordilyera",
+                  "text": "Dieses ethnografische Museum auf einem Universitätscampus widmet sich der Erhaltung und akademischen Erforschung der materiellen Kultur der Ureinwohner der Kordilleren.",
+                  "category": "museum",
+                  "coords": [
+                        120.597777,
+                        16.40576
+                  ]
+            },
+            {
+                  "name": "Victor Oteyza Community Art Space (VOCAS)",
+                  "text": "Dieses unkonventionelle Kulturzentrum ist voller eklektischer Upcycling-Kunst und komplizierter Holzschnitzereien und veranstaltet regelmäßig Kunstausstellungen und Vorführungen von Independent-Filmen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.598047,
+                        16.411644
+                  ]
+            },
+            {
+                  "name": "Little theatre",
+                  "text": "Dieser intime Veranstaltungsort bietet eine gemütliche Bühne für lokale Theaterproduktionen und Talentshows der Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        120.603762,
+                        16.414462
+                  ]
+            },
+            {
+                  "name": "Narda's Arts and Crafts",
+                  "text": "Dieses Kunstzentrum, das für seine komplizierten handgewebten Textilien gefeiert wird, präsentiert die farbenfrohen Webtraditionen der Hochlandgemeinden.",
+                  "category": "cultural",
+                  "coords": [
+                        120.601648,
+                        16.406035
+                  ]
+            },
+            {
+                  "name": "Ampitheater",
+                  "text": "Dieser Open-Air-Veranstaltungsort nutzt die natürliche Neigung des Geländes, um terrassenförmige Sitzplätze für Gemeindeaufführungen unter den Sternen zu bieten.",
+                  "category": "cultural",
+                  "coords": [
+                        120.621799,
+                        16.359643
+                  ]
+            },
+            {
+                  "name": "Missionary Sisters of the Immaculate Conception Novitiate House",
+                  "text": "Diese ruhige Kultstätte dient als religiöse Ausbildungsstätte und verfügt über eine ruhige Kapelle, die von gepflegten Gärten umgeben ist.",
+                  "category": "religious",
+                  "coords": [
+                        120.61849,
+                        16.42021
+                  ]
+            },
+            {
+                  "name": "Northern Sanctuary Metropolitan Community Church",
+                  "text": "Diese einladende Kirchengemeinde versammelt sich in einem unscheinbaren Andachtsraum, der inklusiven spirituellen Praktiken gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        120.599383,
+                        16.392155
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "General Emilio Aguinaldo Museum",
+                  "text": "Múzeum, amely az Első Fülöp-szigeteki Köztársaság örökségét őrzi, és az eredeti fülöp-szigeteki zászlónak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        120.600904,
+                        16.412177
+                  ]
+            },
+            {
+                  "name": "Mansion House",
+                  "text": "Egy elegáns 1908-as udvarház, amely a Fülöp-szigetek elnökének hivatalos nyári palotájaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        120.621522,
+                        16.412366
+                  ]
+            },
+            {
+                  "name": "Gateway Community Church",
+                  "text": "Egy nagy istentiszteleti hely, amely a helyi közösséget szolgálja Baguio nyüzsgő, hegyvidéki városközpontjában.",
+                  "category": "religious",
+                  "coords": [
+                        120.597562,
+                        16.414382
+                  ]
+            },
+            {
+                  "name": "San Jose Parish Church",
+                  "text": "Egy kiemelkedő katolikus plébániatemplom, amely spirituális szolgáltatásokat nyújt a La Trinidad terület lakosainak.",
+                  "category": "religious",
+                  "coords": [
+                        120.586487,
+                        16.461163
+                  ]
+            },
+            {
+                  "name": "Burnham Park",
+                  "text": "Daniel Burnham által tervezett történelmi városi örökségvédelmi park, melynek középpontjában egy festői, mesterséges csónakázó lagúna áll.",
+                  "category": "landmark",
+                  "coords": [
+                        120.595192,
+                        16.409323
+                  ]
+            },
+            {
+                  "name": "Session Road",
+                  "text": "A város nyüzsgő főútvonala, amelyet forgalmas kereskedelmi létesítmények és történelmi Art Deco épületek szegélyeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        120.597223,
+                        16.412666
+                  ]
+            },
+            {
+                  "name": "Baguio Cathedral",
+                  "text": "Egy ikonikus katolikus katedrális, amely egy kiemelkedő dombon helyezkedik el, és jellegzetes rózsaszín külsejéről, valamint ikertornyairól ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        120.598528,
+                        16.412729
+                  ]
+            },
+            {
+                  "name": "Wright Park",
+                  "text": "Békés városi park, amely hosszúkás tükörmedencéjéről és magas, illatos fenyőfákkal szegélyezett ösvényeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        120.618591,
+                        16.415022
+                  ]
+            },
+            {
+                  "name": "Mines View Park",
+                  "text": "Festői hegyfoki park, amely látványos panorámát nyújt Itogon elhagyott arany- és rézbányáira.",
+                  "category": "landmark",
+                  "coords": [
+                        120.62745,
+                        16.419638
+                  ]
+            },
+            {
+                  "name": "Lion's Head",
+                  "text": "Egy 1972-ben faragott, nagyméretű mészkőszobor, amely népszerű fotós nevezetességként szolgál a festői Kennon Road mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        120.606002,
+                        16.367607
+                  ]
+            },
+            {
+                  "name": "Mount Mirador",
+                  "text": "Egy kiemelkedő városi domb, amely lenyűgöző kilátást nyújt, csúcsán pedig egy történelmi jezsuita lelkigyakorlatos ház található.",
+                  "category": "natural",
+                  "coords": [
+                        120.580451,
+                        16.409349
+                  ]
+            },
+            {
+                  "name": "Colors of Stobosa",
+                  "text": "Ez a domboldali közösség a tucatnyi házat beborító, élénk és egymásba fonódó falfestményeiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        120.59744,
+                        16.433846
+                  ]
+            },
+            {
+                  "name": "Usec. Cabral Jump Spot",
+                  "text": "A 2025 decemberében megnyitott panorámás kilátó drámai kilátást nyújt a környező hegyi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        120.614501,
+                        16.328973
+                  ]
+            },
+            {
+                  "name": "Mount Kabuyao",
+                  "text": "A csúcsán lévő hatalmas radartányérokról felismerhető magasló hegyről pazar kilátás nyílik Baguióra.",
+                  "category": "natural",
+                  "coords": [
+                        120.565169,
+                        16.35941
+                  ]
+            },
+            {
+                  "name": "Mount Santo Tomas",
+                  "text": "A régió fölé meredeken magasodó, sűrű erdővel borított hegycsúcs a Cordillera Central egyik fő nevezetessége.",
+                  "category": "natural",
+                  "coords": [
+                        120.561058,
+                        16.334839
+                  ]
+            },
+            {
+                  "name": "Baguio Botanical Garden",
+                  "text": "Ez a kiterjedt nyilvános kert kanyargós kőösvényekkel, őshonos fenyőfákkal és az őslakos kordillerai kultúrát ábrázoló szobrokkal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        120.613788,
+                        16.414261
+                  ]
+            },
+            {
+                  "name": "Bell House",
+                  "text": "A Camp John Hay parancsnokló tábornokának egykori rezidenciája, ez a felújított gyarmati kori ház ma történelmi múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        120.618249,
+                        16.39899
+                  ]
+            },
+            {
+                  "name": "Buddhavihāra",
+                  "text": "Ez a békés buddhista istentiszteleti hely hagyományos építészettel és csendes elmélkedésre alkalmas térrel várja a látogatókat a fenyők között.",
+                  "category": "religious",
+                  "coords": [
+                        120.597108,
+                        16.416912
+                  ]
+            },
+            {
+                  "name": "Baguio City Hall",
+                  "text": "Az 1950 májusában felavatott, műemléki védelem alatt álló közigazgatási épület a városközpont kiemelkedő háború utáni építészeti mérföldköve.",
+                  "category": "landmark",
+                  "coords": [
+                        120.591335,
+                        16.413792
+                  ]
+            },
+            {
+                  "name": "Mount Kadang",
+                  "text": "A sűrű, magaslati növényzeten keresztül kanyargó, zord ösvényeket kínáló kiemelkedő csúcs meredek emelkedőivel teszi próbára a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        120.678056,
+                        16.425556
+                  ]
+            },
+            {
+                  "name": "Mount Calugong",
+                  "text": "A csúcs közelében található egyedülálló mészkő sziklaalakzatairól ismert hegy lenyűgöző természeti tájat kínál a túraútvonalak mentén.",
+                  "category": "natural",
+                  "coords": [
+                        120.51589,
+                        16.387839
+                  ]
+            },
+            {
+                  "name": "Rizal Park",
+                  "text": "A nyüzsgő városközpontban található lombos városi park árnyékos találkozóhelyet biztosít a nemzeti hős emlékműve körül.",
+                  "category": "park",
+                  "coords": [
+                        120.592722,
+                        16.412632
+                  ]
+            },
+            {
+                  "name": "Benguet Provincial Capitol Museum",
+                  "text": "A tartományi kapitólium épületegyüttesében található múzeum a bengueti emberek gazdag kulturális örökségét bemutató műtárgyakat és kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        120.587206,
+                        16.46245
+                  ]
+            },
+            {
+                  "name": "PMA",
+                  "text": "A Fülöp-szigeteki Katonai Akadémia területén található hadtörténeti múzeum történelmi fegyvereket, régi tankokat és különböző korokból származó egyenruhákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        120.62048,
+                        16.361306
+                  ]
+            },
+            {
+                  "name": "Arko Ni Apo Art Gallery",
+                  "text": "Ez a vonzó galéria élettel teli térként szolgál a helyi művészek számára kortárs festményeik és bennszülött ihletésű szobraik kiállítására.",
+                  "category": "museum",
+                  "coords": [
+                        120.576219,
+                        16.429809
+                  ]
+            },
+            {
+                  "name": "BenCab Museum",
+                  "text": "A Nemzeti Művész által alapított többszintes múzeum a kortárs fülöp-szigeteki művészet és az őslakos kordillerai műtárgyak látványos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        120.550342,
+                        16.410587
+                  ]
+            },
+            {
+                  "name": "Baguio Museum",
+                  "text": "A jellegzetes kialakítású épületben helyet kapó kulturális intézmény részletes diorámákat és a Kordillerák tartományainak történelmét felölelő műtárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        120.598426,
+                        16.407027
+                  ]
+            },
+            {
+                  "name": "Museo Kordilyera",
+                  "text": "Ez az egyetemi kampuszon található néprajzi múzeum az őslakos kordillerai tárgyi kultúra megőrzésének és tudományos tanulmányozásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        120.597777,
+                        16.40576
+                  ]
+            },
+            {
+                  "name": "Victor Oteyza Community Art Space (VOCAS)",
+                  "text": "Az eklektikus, újrahasznosított művészeti alkotásokkal és bonyolult fafaragásokkal teli bohém kulturális központ rendszeresen ad otthont művészeti kiállításoknak és független filmvetítéseknek.",
+                  "category": "cultural",
+                  "coords": [
+                        120.598047,
+                        16.411644
+                  ]
+            },
+            {
+                  "name": "Little theatre",
+                  "text": "Ez a meghitt előadóhelyszín hangulatos színpadot biztosít a helyi drámai produkciók és a közösségi tehetségkutatók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        120.603762,
+                        16.414462
+                  ]
+            },
+            {
+                  "name": "Narda's Arts and Crafts",
+                  "text": "A bonyolult, kézzel szőtt textíliáiról ünnepelt művészeti központ a hegyvidéki közösségek színes szövési hagyományait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        120.601648,
+                        16.406035
+                  ]
+            },
+            {
+                  "name": "Ampitheater",
+                  "text": "Ez a szabadtéri helyszín a terep természetes lejtését kihasználva teraszos ülőhelyeket biztosít a csillagos ég alatti közösségi előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        120.621799,
+                        16.359643
+                  ]
+            },
+            {
+                  "name": "Missionary Sisters of the Immaculate Conception Novitiate House",
+                  "text": "A vallási képzési központként szolgáló csendes istentiszteleti hely egy gondozott kertekkel körülvett, békés kápolnával rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        120.61849,
+                        16.42021
+                  ]
+            },
+            {
+                  "name": "Northern Sanctuary Metropolitan Community Church",
+                  "text": "Ez a barátságos egyházi közösség egy szerény, az inkluzív spirituális gyakorlatoknak szentelt istentiszteleti térben gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        120.599383,
+                        16.392155
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "General Emilio Aguinaldo Museum",
+                  "text": "Un muzeu care păstrează moștenirea Primei Republici Filipine și găzduiește steagul original filipinez.",
+                  "category": "museum",
+                  "coords": [
+                        120.600904,
+                        16.412177
+                  ]
+            },
+            {
+                  "name": "Mansion House",
+                  "text": "Un conac elegant din 1908, care servește drept palat oficial de vară al președintelui Filipinelor.",
+                  "category": "historical",
+                  "coords": [
+                        120.621522,
+                        16.412366
+                  ]
+            },
+            {
+                  "name": "Gateway Community Church",
+                  "text": "Un lăcaș de cult spațios care deservește comunitatea locală din centrul urban muntos și plin de viață Baguio.",
+                  "category": "religious",
+                  "coords": [
+                        120.597562,
+                        16.414382
+                  ]
+            },
+            {
+                  "name": "San Jose Parish Church",
+                  "text": "O biserică parohială catolică proeminentă care oferă servicii spirituale locuitorilor din zona La Trinidad.",
+                  "category": "religious",
+                  "coords": [
+                        120.586487,
+                        16.461163
+                  ]
+            },
+            {
+                  "name": "Burnham Park",
+                  "text": "Un parc istoric de patrimoniu urban proiectat de Daniel Burnham, centrat în jurul unei lagune artificiale pitorești pentru bărci.",
+                  "category": "landmark",
+                  "coords": [
+                        120.595192,
+                        16.409323
+                  ]
+            },
+            {
+                  "name": "Session Road",
+                  "text": "Principala arteră vibrantă a orașului, mărginită de unități comerciale pline de viață și clădiri istorice Art Deco.",
+                  "category": "landmark",
+                  "coords": [
+                        120.597223,
+                        16.412666
+                  ]
+            },
+            {
+                  "name": "Baguio Cathedral",
+                  "text": "O catedrală catolică iconică situată pe un deal proeminent, recunoscută după exteriorul său roz distinctiv și turlele gemene.",
+                  "category": "landmark",
+                  "coords": [
+                        120.598528,
+                        16.412729
+                  ]
+            },
+            {
+                  "name": "Wright Park",
+                  "text": "Un parc urban liniștit, faimos pentru piscina sa lungă de reflexie și potecile mărginite de pini înalți și parfumați.",
+                  "category": "landmark",
+                  "coords": [
+                        120.618591,
+                        16.415022
+                  ]
+            },
+            {
+                  "name": "Mines View Park",
+                  "text": "Un parc pe un promontoriu pitoresc, care oferă priveliști panoramice spectaculoase asupra minelor abandonate de aur și cupru din Itogon.",
+                  "category": "landmark",
+                  "coords": [
+                        120.62745,
+                        16.419638
+                  ]
+            },
+            {
+                  "name": "Lion's Head",
+                  "text": "O sculptură la scară largă în piatră de calcar sculptată în 1972, servind ca un punct de reper fotografic popular de-a lungul pitorescului drum Kennon.",
+                  "category": "landmark",
+                  "coords": [
+                        120.606002,
+                        16.367607
+                  ]
+            },
+            {
+                  "name": "Mount Mirador",
+                  "text": "Un deal proeminent al orașului, care oferă vederi ample și găzduiește o casă istorică de retragere iezuită la vârful său.",
+                  "category": "natural",
+                  "coords": [
+                        120.580451,
+                        16.409349
+                  ]
+            },
+            {
+                  "name": "Colors of Stobosa",
+                  "text": "Această comunitate pe deal este renumită pentru picturile sale murale vibrante care acoperă zeci de case.",
+                  "category": "natural",
+                  "coords": [
+                        120.59744,
+                        16.433846
+                  ]
+            },
+            {
+                  "name": "Usec. Cabral Jump Spot",
+                  "text": "Deschis în decembrie 2025, acest punct de belvedere panoramic oferă priveliști dramatice asupra peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        120.614501,
+                        16.328973
+                  ]
+            },
+            {
+                  "name": "Mount Kabuyao",
+                  "text": "Recunoscut după antenele radar uriașe de la vârful său, acest munte impunător oferă o panoramă vastă asupra orașului Baguio.",
+                  "category": "natural",
+                  "coords": [
+                        120.565169,
+                        16.35941
+                  ]
+            },
+            {
+                  "name": "Mount Santo Tomas",
+                  "text": "Fiind un munte puternic împădurit care se înalță abrupt deasupra regiunii, acest vârf proeminent este un reper major în Cordiliera Centrală.",
+                  "category": "natural",
+                  "coords": [
+                        120.561058,
+                        16.334839
+                  ]
+            },
+            {
+                  "name": "Baguio Botanical Garden",
+                  "text": "Această grădină publică extinsă are cărări șerpuite din piatră, pini nativi și sculpturi care înfățișează cultura indigenă din Cordiliera.",
+                  "category": "park",
+                  "coords": [
+                        120.613788,
+                        16.414261
+                  ]
+            },
+            {
+                  "name": "Bell House",
+                  "text": "Odinioară reședința generalului comandant al Camp John Hay, această casă restaurată din epoca colonială servește acum ca muzeu istoric.",
+                  "category": "museum",
+                  "coords": [
+                        120.618249,
+                        16.39899
+                  ]
+            },
+            {
+                  "name": "Buddhavihāra",
+                  "text": "Acest lăcaș de cult budist liniștit prezintă o arhitectură tradițională și oferă un spațiu tăcut pentru contemplare printre pini.",
+                  "category": "religious",
+                  "coords": [
+                        120.597108,
+                        16.416912
+                  ]
+            },
+            {
+                  "name": "Baguio City Hall",
+                  "text": "Inaugurată în mai 1950, această clădire administrativă de patrimoniu este un reper arhitectural postbelic proeminent în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        120.591335,
+                        16.413792
+                  ]
+            },
+            {
+                  "name": "Mount Kadang",
+                  "text": "Oferind trasee accidentate prin vegetație densă de mare altitudine, acest vârf proeminent provoacă drumeții prin pantele sale abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        120.678056,
+                        16.425556
+                  ]
+            },
+            {
+                  "name": "Mount Calugong",
+                  "text": "Cunoscut pentru formațiunile sale unice de stânci de calcar din apropierea vârfului, acest munte oferă un peisaj natural impresionant de-a lungul potecilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        120.51589,
+                        16.387839
+                  ]
+            },
+            {
+                  "name": "Rizal Park",
+                  "text": "Situat în centrul aglomerat al orașului, acest parc urban înfrunzit oferă un spațiu de adunare umbrit în jurul unui monument dedicat eroului național.",
+                  "category": "park",
+                  "coords": [
+                        120.592722,
+                        16.412632
+                  ]
+            },
+            {
+                  "name": "Benguet Provincial Capitol Museum",
+                  "text": "Situat în complexul capitoliului provincial, acest muzeu expune artefacte și expoziții care detaliază bogata moștenire culturală a populației Benguet.",
+                  "category": "museum",
+                  "coords": [
+                        120.587206,
+                        16.46245
+                  ]
+            },
+            {
+                  "name": "PMA",
+                  "text": "Acest muzeu militar de la Academia Militară Filipineză expune armament istoric, tancuri de epocă și uniforme din diverse epoci.",
+                  "category": "museum",
+                  "coords": [
+                        120.62048,
+                        16.361306
+                  ]
+            },
+            {
+                  "name": "Arko Ni Apo Art Gallery",
+                  "text": "Această galerie captivantă servește ca un spațiu plin de viață pentru artiștii locali care își expun picturile contemporane și sculpturile de inspirație indigenă.",
+                  "category": "museum",
+                  "coords": [
+                        120.576219,
+                        16.429809
+                  ]
+            },
+            {
+                  "name": "BenCab Museum",
+                  "text": "Fondat de un Artist Național, acest muzeu pe mai multe niveluri prezintă o colecție spectaculoasă de artă filipineză contemporană și artefacte indigene din Cordiliera.",
+                  "category": "museum",
+                  "coords": [
+                        120.550342,
+                        16.410587
+                  ]
+            },
+            {
+                  "name": "Baguio Museum",
+                  "text": "Găzduită într-o clădire cu design distinct, această instituție culturală conservă diorame detaliate și artefacte care acoperă istoria provinciilor din Cordiliera.",
+                  "category": "museum",
+                  "coords": [
+                        120.598426,
+                        16.407027
+                  ]
+            },
+            {
+                  "name": "Museo Kordilyera",
+                  "text": "Acest muzeu etnografic dintr-un campus universitar este dedicat conservării și studiului academic al culturii materiale indigene din Cordiliera.",
+                  "category": "museum",
+                  "coords": [
+                        120.597777,
+                        16.40576
+                  ]
+            },
+            {
+                  "name": "Victor Oteyza Community Art Space (VOCAS)",
+                  "text": "Plin de artă reciclată eclectică și sculpturi complicate în lemn, acest centru cultural boem găzduiește regulat expoziții de artă și proiecții de filme independente.",
+                  "category": "cultural",
+                  "coords": [
+                        120.598047,
+                        16.411644
+                  ]
+            },
+            {
+                  "name": "Little theatre",
+                  "text": "Această locație de spectacol intimă oferă o scenă primitoare pentru producțiile dramatice locale și prezentările de talente ale comunității.",
+                  "category": "cultural",
+                  "coords": [
+                        120.603762,
+                        16.414462
+                  ]
+            },
+            {
+                  "name": "Narda's Arts and Crafts",
+                  "text": "Celebrat pentru textilele sale țesute manual cu o complexitate deosebită, acest centru de arte prezintă tradițiile colorate de țesut ale comunităților montane.",
+                  "category": "cultural",
+                  "coords": [
+                        120.601648,
+                        16.406035
+                  ]
+            },
+            {
+                  "name": "Ampitheater",
+                  "text": "Această locație în aer liber utilizează panta naturală a terenului pentru a oferi locuri pe terase destinate spectacolelor comunitare sub stele.",
+                  "category": "cultural",
+                  "coords": [
+                        120.621799,
+                        16.359643
+                  ]
+            },
+            {
+                  "name": "Missionary Sisters of the Immaculate Conception Novitiate House",
+                  "text": "Servind ca o facilitate de formare religioasă, acest lăcaș de cult liniștit are o capelă tăcută înconjurată de grădini bine îngrijite.",
+                  "category": "religious",
+                  "coords": [
+                        120.61849,
+                        16.42021
+                  ]
+            },
+            {
+                  "name": "Northern Sanctuary Metropolitan Community Church",
+                  "text": "Această comunitate bisericească primitoare se adună într-un spațiu de cult modest, dedicat practicilor spirituale incluzive.",
+                  "category": "religious",
+                  "coords": [
+                        120.599383,
+                        16.392155
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "General Emilio Aguinaldo Museum",
+                  "text": "A museum preserving the legacy of the First Philippine Republic and housing the original Philippine flag.",
+                  "category": "museum",
+                  "coords": [
+                        120.600904,
+                        16.412177
+                  ]
+            },
+            {
+                  "name": "Mansion House",
+                  "text": "An elegant 1908 manor serving as the official summer palace of the President of the Philippines.",
+                  "category": "historical",
+                  "coords": [
+                        120.621522,
+                        16.412366
+                  ]
+            },
+            {
+                  "name": "Gateway Community Church",
+                  "text": "A large place of worship serving the local community within the bustling mountainous urban center of Baguio.",
+                  "category": "religious",
+                  "coords": [
+                        120.597562,
+                        16.414382
+                  ]
+            },
+            {
+                  "name": "San Jose Parish Church",
+                  "text": "A prominent Catholic parish church providing spiritual services for the residents of the La Trinidad area.",
+                  "category": "religious",
+                  "coords": [
+                        120.586487,
+                        16.461163
+                  ]
+            },
+            {
+                  "name": "Burnham Park",
+                  "text": "A historic urban heritage park designed by Daniel Burnham, centered around a scenic man-made boating lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        120.595192,
+                        16.409323
+                  ]
+            },
+            {
+                  "name": "Session Road",
+                  "text": "The vibrant main thoroughfare of the city, lined with bustling commercial establishments and historic Art Deco buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        120.597223,
+                        16.412666
+                  ]
+            },
+            {
+                  "name": "Baguio Cathedral",
+                  "text": "An iconic Catholic cathedral positioned on a prominent hill, recognizable by its distinct pink exterior and twin spires.",
+                  "category": "landmark",
+                  "coords": [
+                        120.598528,
+                        16.412729
+                  ]
+            },
+            {
+                  "name": "Wright Park",
+                  "text": "A tranquil urban park famous for its elongated reflecting pool and tall, fragrant pine-lined pathways.",
+                  "category": "landmark",
+                  "coords": [
+                        120.618591,
+                        16.415022
+                  ]
+            },
+            {
+                  "name": "Mines View Park",
+                  "text": "A scenic promontory park offering spectacular panoramic vistas over the abandoned gold and copper mines of Itogon.",
+                  "category": "landmark",
+                  "coords": [
+                        120.62745,
+                        16.419638
+                  ]
+            },
+            {
+                  "name": "Lion's Head",
+                  "text": "A large-scale limestone sculpture carved in 1972, serving as a popular photographic landmark along the scenic Kennon Road.",
+                  "category": "landmark",
+                  "coords": [
+                        120.606002,
+                        16.367607
+                  ]
+            },
+            {
+                  "name": "Mount Mirador",
+                  "text": "A prominent city hill offering expansive views and housing a historic Jesuit retreat house at its summit.",
+                  "category": "natural",
+                  "coords": [
+                        120.580451,
+                        16.409349
+                  ]
+            },
+            {
+                  "name": "Colors of Stobosa",
+                  "text": "This colorful hillside community is renowned for its vibrant, interlocking murals painted across dozens of houses.",
+                  "category": "natural",
+                  "coords": [
+                        120.59744,
+                        16.433846
+                  ]
+            },
+            {
+                  "name": "Usec. Cabral Jump Spot",
+                  "text": "Opened in December 2025, this panoramic viewpoint offers dramatic vistas of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        120.614501,
+                        16.328973
+                  ]
+            },
+            {
+                  "name": "Mount Kabuyao",
+                  "text": "Recognizable by the giant radar dishes at its summit, this towering peak offers sweeping views over Baguio.",
+                  "category": "natural",
+                  "coords": [
+                        120.565169,
+                        16.35941
+                  ]
+            },
+            {
+                  "name": "Mount Santo Tomas",
+                  "text": "As a heavily forested mountain rising steeply above the region, this prominent peak is a major landmark in the Cordillera Central.",
+                  "category": "natural",
+                  "coords": [
+                        120.561058,
+                        16.334839
+                  ]
+            },
+            {
+                  "name": "Baguio Botanical Garden",
+                  "text": "This expansive public garden features winding stone paths, native pine trees, and sculptures depicting indigenous Cordilleran culture.",
+                  "category": "park",
+                  "coords": [
+                        120.613788,
+                        16.414261
+                  ]
+            },
+            {
+                  "name": "Bell House",
+                  "text": "Once the residence of the commanding general of Camp John Hay, this restored colonial-era house now serves as a historical museum.",
+                  "category": "museum",
+                  "coords": [
+                        120.618249,
+                        16.39899
+                  ]
+            },
+            {
+                  "name": "Baguio Buddha Temple",
+                  "text": "This serene Buddhist place of worship features traditional architecture and provides a quiet space for contemplation among the pines.",
+                  "category": "religious",
+                  "coords": [
+                        120.597108,
+                        16.416912
+                  ]
+            },
+            {
+                  "name": "Baguio City Hall",
+                  "text": "Inaugurated in May 1950, this heritage administrative building stands as a prominent post-war architectural landmark in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        120.591335,
+                        16.413792
+                  ]
+            },
+            {
+                  "name": "Mount Kadang",
+                  "text": "Offering rugged trails through dense high-altitude vegetation, this prominent peak challenges hikers with its steep inclines.",
+                  "category": "natural",
+                  "coords": [
+                        120.678056,
+                        16.425556
+                  ]
+            },
+            {
+                  "name": "Mount Calugong",
+                  "text": "Known for its unique limestone rock formations near the summit, this mountain offers striking natural scenery along its hiking paths.",
+                  "category": "natural",
+                  "coords": [
+                        120.51589,
+                        16.387839
+                  ]
+            },
+            {
+                  "name": "Rizal Park",
+                  "text": "Situated in the bustling city center, this leafy urban park provides a shaded gathering space surrounding a monument to the national hero.",
+                  "category": "park",
+                  "coords": [
+                        120.592722,
+                        16.412632
+                  ]
+            },
+            {
+                  "name": "Benguet Provincial Capitol Museum",
+                  "text": "Located within the provincial capitol complex, this museum displays artifacts and exhibits detailing the rich cultural heritage of the Benguet people.",
+                  "category": "museum",
+                  "coords": [
+                        120.587206,
+                        16.46245
+                  ]
+            },
+            {
+                  "name": "PMA",
+                  "text": "This military museum at the Philippine Military Academy showcases historical armaments, vintage tanks, and uniforms from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        120.62048,
+                        16.361306
+                  ]
+            },
+            {
+                  "name": "Arko Ni Apo Art Gallery",
+                  "text": "This engaging gallery serves as a lively space for local artists to exhibit their contemporary paintings and indigenous-inspired sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        120.576219,
+                        16.429809
+                  ]
+            },
+            {
+                  "name": "BenCab Museum",
+                  "text": "Founded by a National Artist, this multi-level museum features a spectacular collection of contemporary Philippine art and indigenous Cordilleran artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        120.550342,
+                        16.410587
+                  ]
+            },
+            {
+                  "name": "Baguio Museum",
+                  "text": "Housed in a distinctively designed building, this cultural institution preserves detailed dioramas and artifacts spanning the history of the Cordillera provinces.",
+                  "category": "museum",
+                  "coords": [
+                        120.598426,
+                        16.407027
+                  ]
+            },
+            {
+                  "name": "Museo Kordilyera",
+                  "text": "This ethnographic museum on a university campus is dedicated to the preservation and academic study of indigenous Cordilleran material culture.",
+                  "category": "museum",
+                  "coords": [
+                        120.597777,
+                        16.40576
+                  ]
+            },
+            {
+                  "name": "Victor Oteyza Community Art Space (VOCAS)",
+                  "text": "Filled with eclectic upcycled art and intricate woodcarvings, this bohemian cultural hub regularly hosts art exhibitions and independent film screenings.",
+                  "category": "cultural",
+                  "coords": [
+                        120.598047,
+                        16.411644
+                  ]
+            },
+            {
+                  "name": "Little theatre",
+                  "text": "This intimate performance venue provides a cozy stage for local dramatic productions and community talent showcases.",
+                  "category": "cultural",
+                  "coords": [
+                        120.603762,
+                        16.414462
+                  ]
+            },
+            {
+                  "name": "Narda's Arts and Crafts",
+                  "text": "Celebrated for its intricate handwoven textiles, this arts center showcases the colorful weaving traditions of the highland communities.",
+                  "category": "cultural",
+                  "coords": [
+                        120.601648,
+                        16.406035
+                  ]
+            },
+            {
+                  "name": "Ampitheater",
+                  "text": "This open-air venue utilizes the natural slope of the terrain to provide terraced seating for community performances under the stars.",
+                  "category": "cultural",
+                  "coords": [
+                        120.621799,
+                        16.359643
+                  ]
+            },
+            {
+                  "name": "Missionary Sisters of the Immaculate Conception Novitiate House",
+                  "text": "Serving as a religious training facility, this quiet place of worship features a serene chapel surrounded by well-kept gardens.",
+                  "category": "religious",
+                  "coords": [
+                        120.61849,
+                        16.42021
+                  ]
+            },
+            {
+                  "name": "Northern Sanctuary Metropolitan Community Church",
+                  "text": "This welcoming church community gathers in an unassuming worship space dedicated to inclusive spiritual practices.",
+                  "category": "religious",
+                  "coords": [
+                        120.599383,
+                        16.392155
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PH-BEN",
     coords: [120.5956, 16.4125],
@@ -757,7 +13375,1204 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
     
   },
   {
-    id: "ph-philippine-eagle-center-life-v2",
+    id: "ph-philippine-eagle-center-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Philippine Eagle",
+                  "text": "Ein Schutzgebiet, das dem vom Aussterben bedrohten, majestätischen Philippinenadler, einem der größten Adler der Welt, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.414683,
+                        7.185405
+                  ]
+            },
+            {
+                  "name": "Malagos Chocolate Museum",
+                  "text": "Ein Museum, das den Prozess der Schokoladenherstellung von der Bohne bis zur Tafel unter Verwendung von lokal angebautem Kakao beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        125.427966,
+                        7.191754
+                  ]
+            },
+            {
+                  "name": "Philippine-Japan Historical Museum",
+                  "text": "Ein Museum, das die historischen Verbindungen und Kriegsereignisse zwischen den Philippinen und Japan in der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        125.460322,
+                        7.188239
+                  ]
+            },
+            {
+                  "name": "Birhen sa Lourdes Chapel",
+                  "text": "Eine lokale katholische Kapelle, die Unserer Lieben Frau von Lourdes gewidmet ist und der umliegenden Nachbarschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        125.36921,
+                        7.179759
+                  ]
+            },
+            {
+                  "name": "GKK Señor San Roque",
+                  "text": "Eine Basisgemeinde-Kapelle (GKK), die San Roque gewidmet ist und die lokalen katholischen Gläubigen versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        125.37637,
+                        7.128108
+                  ]
+            },
+            {
+                  "name": "Santa Cruz Chapel",
+                  "text": "Eine kleine katholische Kapelle, benannt nach dem Heiligen Kreuz, die einen Raum für das Gebet in der Nachbarschaft bietet.",
+                  "category": "religious",
+                  "coords": [
+                        125.375419,
+                        7.14892
+                  ]
+            },
+            {
+                  "name": "Sr. San Vicente Ferrer",
+                  "text": "Ein lokales Gotteshaus zu Ehren von San Vicente Ferrer, das den spirituellen Bedürfnissen der Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        125.360348,
+                        7.117214
+                  ]
+            },
+            {
+                  "name": "Sr. Santo Niño Chapel",
+                  "text": "Eine Gemeindekapelle, die dem Santo Niño, einer zentralen Figur der katholischen Verehrung auf den Philippinen, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        125.400573,
+                        7.11708
+                  ]
+            },
+            {
+                  "name": "Birhen sa Fatima Chapel",
+                  "text": "Eine Nachbarschaftskapelle, die Unserer Lieben Frau von Fatima gewidmet ist und einen friedlichen Ort zum Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        125.402461,
+                        7.186261
+                  ]
+            },
+            {
+                  "name": "Upper Malagos Alliance Church",
+                  "text": "Eine lokale christliche Allianz-Kirche, die der Gemeinde im Gebiet Upper Malagos dient.",
+                  "category": "religious",
+                  "coords": [
+                        125.41091,
+                        7.191833
+                  ]
+            },
+            {
+                  "name": "GKK Mother of Perpetual Help",
+                  "text": "Eine Kapelle der kirchlichen Basisgemeinde (GKK), die der Mutter der Immerwährenden Hilfe gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        125.42328,
+                        7.185818
+                  ]
+            },
+            {
+                  "name": "GKK Senior San Roque",
+                  "text": "Eine gemeindebasierte katholische Kapelle (GKK), die Senior San Roque gewidmet und aktiv im lokalen religiösen Leben ist.",
+                  "category": "religious",
+                  "coords": [
+                        125.431407,
+                        7.190186
+                  ]
+            },
+            {
+                  "name": "Malagos Community Alliance Church",
+                  "text": "Eine evangelische Allianz-Kirche, die Gottesdienste und Gemeindeunterstützung in Malagos anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        125.433332,
+                        7.190462
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Vicente Ferrer",
+                  "text": "Eine lokale katholische Basiskapelle (GKK) zu Ehren des heiligen Vinzenz Ferrer in der Nachbarschaft.",
+                  "category": "religious",
+                  "coords": [
+                        125.470088,
+                        7.19004
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "Eine lokale katholische Kapelle, die der Unbefleckten Empfängnis gewidmet ist und Gemeindemessen abhält.",
+                  "category": "religious",
+                  "coords": [
+                        125.488988,
+                        7.223528
+                  ]
+            },
+            {
+                  "name": "GKK Berhin Del Rosario",
+                  "text": "Eine Basisgemeinde-Kapelle, die Unserer Lieben Frau vom Rosenkranz gewidmet ist und den lokalen Gläubigen dient.",
+                  "category": "religious",
+                  "coords": [
+                        125.40735,
+                        7.19686
+                  ]
+            },
+            {
+                  "name": "Calinan Public Market",
+                  "text": "Ein belebter öffentlicher Markt in Calinan, auf dem Händler frische lokale Produkte, Fleisch und Waren des täglichen Bedarfs verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.45453,
+                        7.190763
+                  ]
+            },
+            {
+                  "name": "Phoebus Amusement Park",
+                  "text": "Ein lokaler Vergnügungspark, der Fahrgeschäfte und Unterhaltung für Familien in der Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.38335,
+                        7.133591
+                  ]
+            },
+            {
+                  "name": "Malagos Bird Show",
+                  "text": "Eine interaktive Wildtierattraktion mit abgerichteten Raubvögeln und anderen Vogelarten.",
+                  "category": "landmark",
+                  "coords": [
+                        125.426107,
+                        7.191181
+                  ]
+            },
+            {
+                  "name": "Salon Memorial Alliance Church",
+                  "text": "Eine christliche Allianz-Kirche, die spirituelle Führung und regelmäßige Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.392031,
+                        7.178312
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Ein Gotteshaus der lokalen Gemeinde der Zeugen Jehovas, das für Bibelstudien und Zusammenkünfte genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        125.380662,
+                        7.152624
+                  ]
+            },
+            {
+                  "name": "Mosque Tamayong",
+                  "text": "Eine lokale Moschee, die der islamischen Gemeinschaft in der Gegend von Tamayong für die täglichen Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.389636,
+                        7.141574
+                  ]
+            },
+            {
+                  "name": "Camacop Tamayong Evangelical Church",
+                  "text": "Diese lokale evangelische Kirche dient der Gemeinde in der Nähe des Philippine Eagle Centers und bietet einen eigenen Raum für Gottesdienst und Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        125.394261,
+                        7.142498
+                  ]
+            },
+            {
+                  "name": "Prayer House",
+                  "text": "Umgeben von der üppigen Natur nahe dem Philippine Eagle Center bietet dieses christliche Gebetshaus einen ruhigen Rückzugsort für Besinnung und Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        125.381113,
+                        7.132427
+                  ]
+            },
+            {
+                  "name": "GKK Santa Catalina",
+                  "text": "Diese kleine GKK-Nachbarschaftskapelle versammelt die lokale katholische Gemeinde zu Gebetstreffen in der Nähe des Naturschutzgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        125.371754,
+                        7.123627
+                  ]
+            },
+            {
+                  "name": "Cawayan Alliance Church",
+                  "text": "Als spirituelles Zentrum der Gemeinde veranstaltet diese christliche Allianz-Kirche regelmäßige Gottesdienste für protestantische Gläubige in den waldreichen Außenbezirken.",
+                  "category": "landmark",
+                  "coords": [
+                        125.410686,
+                        7.156761
+                  ]
+            },
+            {
+                  "name": "Victory Chapel Christian Center - Baguio",
+                  "text": "Dieses christliche Zentrum im Baguio-Viertel nahe dem Eagle Center bietet zeitgemäße Gottesdienste und spirituelle Hilfsprogramme.",
+                  "category": "landmark",
+                  "coords": [
+                        125.406614,
+                        7.173553
+                  ]
+            },
+            {
+                  "name": "GKK Inahan sa Kanunay'ng Panabang",
+                  "text": "Diese der Mutter von der Immerwährenden Hilfe geweihte katholische Gemeindekapelle ist ein einfacher, aber wichtiger Ort für Rosenkranzgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        125.427312,
+                        7.162254
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary GKK Wangan",
+                  "text": "Diese an der Basis organisierte katholische Kapelle in Wangan ist dem Unbefleckten Herzen Mariens geweiht und ermöglicht regelmäßige Nachbarschaftsliturgien.",
+                  "category": "landmark",
+                  "coords": [
+                        125.439998,
+                        7.162124
+                  ]
+            },
+            {
+                  "name": "UCCP",
+                  "text": "Dieses protestantische Gotteshaus gehört zur United Church of Christ der Philippinen und bietet einen Gemeinschaftsraum für Sonntagsgottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        125.44878,
+                        7.189603
+                  ]
+            },
+            {
+                  "name": "MCGI Church",
+                  "text": "Diese lokale Gruppe der Members Church of God International versammelt Gemeindemitglieder in der Nähe der Naturschutzgebiete zu biblischen Vorträgen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.455259,
+                        7.185328
+                  ]
+            },
+            {
+                  "name": "La Roca Church",
+                  "text": "Diese lokale christliche Kirche liegt in der Nähe der Naturpfade der Umgebung und bietet ihrer Gemeinde lebendige Gottesdienste und Gemeinschaftsaktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        125.39873,
+                        7.120321
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Mit den markanten spitzen Türmen ihrer Konfession bietet diese lokale Iglesia-ni-Cristo-Gemeinde einen feierlichen Rahmen für strukturierte christliche Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        125.399672,
+                        7.169961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Philippine Eagle",
+                  "text": "Egy természetvédelmi terület, amelyet a kritikusan veszélyeztetett, fenséges fülöp-szigeteki sasnak, a világ egyik legnagyobb sasának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.414683,
+                        7.185405
+                  ]
+            },
+            {
+                  "name": "Malagos Chocolate Museum",
+                  "text": "Egy múzeum, amely a babból táblává alakuló csokoládékészítés folyamatát mutatja be, helyben termesztett kakaó felhasználásával.",
+                  "category": "museum",
+                  "coords": [
+                        125.427966,
+                        7.191754
+                  ]
+            },
+            {
+                  "name": "Philippine-Japan Historical Museum",
+                  "text": "Egy múzeum, amely a Fülöp-szigetek és Japán közötti történelmi kapcsolatokat és a régió háborús eseményeit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        125.460322,
+                        7.188239
+                  ]
+            },
+            {
+                  "name": "Birhen sa Lourdes Chapel",
+                  "text": "Egy helyi katolikus kápolna, amelyet a Lourdes-i Miasszonyunknak szenteltek, és a környező környéket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        125.36921,
+                        7.179759
+                  ]
+            },
+            {
+                  "name": "GKK Señor San Roque",
+                  "text": "Egy San Roque-nak szentelt közösségi kápolna (GKK), amely a helyi katolikus hívőket gyűjti össze.",
+                  "category": "religious",
+                  "coords": [
+                        125.37637,
+                        7.128108
+                  ]
+            },
+            {
+                  "name": "Santa Cruz Chapel",
+                  "text": "Egy Szent Keresztről elnevezett kis katolikus kápolna, amely teret ad a környékbeliek imádságának.",
+                  "category": "religious",
+                  "coords": [
+                        125.375419,
+                        7.14892
+                  ]
+            },
+            {
+                  "name": "Sr. San Vicente Ferrer",
+                  "text": "San Vicente Ferrer tiszteletére emelt helyi istentiszteleti hely, amely a közösség spirituális szükségleteit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        125.360348,
+                        7.117214
+                  ]
+            },
+            {
+                  "name": "Sr. Santo Niño Chapel",
+                  "text": "A Santo Niñónak, a fülöp-szigeteki katolikus áhítat központi alakjának szentelt közösségi kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        125.400573,
+                        7.11708
+                  ]
+            },
+            {
+                  "name": "Birhen sa Fatima Chapel",
+                  "text": "A Fatimai Miasszonyunknak szentelt szomszédsági kápolna, amely békés helyet kínál az imádságra.",
+                  "category": "religious",
+                  "coords": [
+                        125.402461,
+                        7.186261
+                  ]
+            },
+            {
+                  "name": "Upper Malagos Alliance Church",
+                  "text": "Egy helyi keresztény szövetségi templom, amely a gyülekezetet szolgálja a Felső-Malagos térségében.",
+                  "category": "religious",
+                  "coords": [
+                        125.41091,
+                        7.191833
+                  ]
+            },
+            {
+                  "name": "GKK Mother of Perpetual Help",
+                  "text": "Egy alapvető egyházi közösség (GKK) kápolnája, amelyet a Mindenkor Segítő Szűzanyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        125.42328,
+                        7.185818
+                  ]
+            },
+            {
+                  "name": "GKK Senior San Roque",
+                  "text": "Egy közösségi alapú katolikus kápolna (GKK), amelyet Senior San Roque-nak szenteltek, és amely aktív a helyi hitéletben.",
+                  "category": "religious",
+                  "coords": [
+                        125.431407,
+                        7.190186
+                  ]
+            },
+            {
+                  "name": "Malagos Community Alliance Church",
+                  "text": "Egy evangéliumi szövetségi templom, amely istentiszteleteket és közösségi támogatást nyújt Malagosban.",
+                  "category": "religious",
+                  "coords": [
+                        125.433332,
+                        7.190462
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Vicente Ferrer",
+                  "text": "Egy helyi alulról szerveződő katolikus kápolna (GKK), amely a környékbeli Ferrer Szent Vincét tiszteli.",
+                  "category": "religious",
+                  "coords": [
+                        125.470088,
+                        7.19004
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "Egy helyi katolikus kápolna, amelyet a Szeplőtelen Fogantatásnak szenteltek, és ahol közösségi miséket tartanak.",
+                  "category": "religious",
+                  "coords": [
+                        125.488988,
+                        7.223528
+                  ]
+            },
+            {
+                  "name": "GKK Berhin Del Rosario",
+                  "text": "A Rózsafüzér Királynőjének szentelt közösségi kápolna, amely a helyi híveket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        125.40735,
+                        7.19686
+                  ]
+            },
+            {
+                  "name": "Calinan Public Market",
+                  "text": "Egy nyüzsgő nyilvános piac Calinanban, ahol az árusok friss helyi termékeket, húst és mindennapi árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.45453,
+                        7.190763
+                  ]
+            },
+            {
+                  "name": "Phoebus Amusement Park",
+                  "text": "Egy helyi vidámpark, amely túrákat és szórakozást kínál a környékbeli családok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.38335,
+                        7.133591
+                  ]
+            },
+            {
+                  "name": "Malagos Bird Show",
+                  "text": "Egy interaktív vadvilági látványosság képzett ragadozó madarakkal és más madárfajokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        125.426107,
+                        7.191181
+                  ]
+            },
+            {
+                  "name": "Salon Memorial Alliance Church",
+                  "text": "Egy keresztény szövetségi templom, amely spirituális iránymutatást és rendszeres istentiszteleteket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.392031,
+                        7.178312
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Jehova Tanúi helyi gyülekezetének istentiszteleti helye, amelyet bibliatanulmányozásra és összejövetelekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.380662,
+                        7.152624
+                  ]
+            },
+            {
+                  "name": "Mosque Tamayong",
+                  "text": "Egy helyi mecset, amely a tamayongi iszlám közösséget szolgálja a napi imák során.",
+                  "category": "landmark",
+                  "coords": [
+                        125.389636,
+                        7.141574
+                  ]
+            },
+            {
+                  "name": "Camacop Tamayong Evangelical Church",
+                  "text": "Ez a helyi evangéliumi keresztény templom a Fülöp-szigeteki Sasközpont közelében élő közösséget szolgálja, teret adva a rendszeres istentiszteleteknek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.394261,
+                        7.142498
+                  ]
+            },
+            {
+                  "name": "Prayer House",
+                  "text": "A Fülöp-szigeteki Sasközpont buja zöld környezetében fekvő keresztény imaház csendes menedéket nyújt az elmélyüléshez és a helyi összejövetelekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        125.381113,
+                        7.132427
+                  ]
+            },
+            {
+                  "name": "GKK Santa Catalina",
+                  "text": "Ez az egyszerű GKK szomszédsági kápolna a helyi katolikus közösséget gyűjti össze imamegbeszélésekre a természetvédelmi terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.371754,
+                        7.123627
+                  ]
+            },
+            {
+                  "name": "Cawayan Alliance Church",
+                  "text": "A közösség spirituális központjaként működő Keresztény Alliansz templom rendszeres istentiszteleteket tart az erdős külvárosban élő protestáns hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.410686,
+                        7.156761
+                  ]
+            },
+            {
+                  "name": "Victory Chapel Christian Center - Baguio",
+                  "text": "Az Eagle Center közelében, a Baguio negyedben található keresztény központ kortárs istentiszteleteket és spirituális missziós programokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.406614,
+                        7.173553
+                  ]
+            },
+            {
+                  "name": "GKK Inahan sa Kanunay'ng Panabang",
+                  "text": "A Mindenkor Segítő Szűz Máriának szentelt katolikus közösségi kápolna egyszerű, de létfontosságú helyszíne a rendszeres rózsafüzér imádságoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.427312,
+                        7.162254
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary GKK Wangan",
+                  "text": "A Wanganban található katolikus kápolnát Mária Szeplőtelen Szívének szentelték, amely rendszeres szomszédsági liturgiáknak és közösségi eseményeknek ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.439998,
+                        7.162124
+                  ]
+            },
+            {
+                  "name": "UCCP",
+                  "text": "A Fülöp-szigeteki Egyesült Krisztus Egyházához tartozó protestáns istentiszteleti központ közösségi teret biztosít a vasárnapi istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        125.44878,
+                        7.189603
+                  ]
+            },
+            {
+                  "name": "MCGI Church",
+                  "text": "A Members Church of God International helyi szervezete a természetvédelmi területek közelében gyűjti össze a híveket rendszeres bibliai felolvasásokra.",
+                  "category": "landmark",
+                  "coords": [
+                        125.455259,
+                        7.185328
+                  ]
+            },
+            {
+                  "name": "La Roca Church",
+                  "text": "A környék természetjáró ösvényei közelében található helyi keresztény templom élénk istentiszteletekkel és közösségi programokkal szolgálja gyülekezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        125.39873,
+                        7.120321
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "A felekezetre jellemző hegyes tornyokkal rendelkező helyi Iglesia ni Cristo épület formális környezetet biztosít a strukturált keresztény istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        125.399672,
+                        7.169961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Philippine Eagle",
+                  "text": "Un centru de conservare dedicat maiestuoasei acvile filipineze, o specie pe cale de dispariție, considerată una dintre cele mai mari acvile din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        125.414683,
+                        7.185405
+                  ]
+            },
+            {
+                  "name": "Malagos Chocolate Museum",
+                  "text": "Un muzeu care explorează procesul de fabricare a ciocolatei de la boabe la tabletă folosind cacao cultivată local.",
+                  "category": "museum",
+                  "coords": [
+                        125.427966,
+                        7.191754
+                  ]
+            },
+            {
+                  "name": "Philippine-Japan Historical Museum",
+                  "text": "Un muzeu care documentează legăturile istorice și evenimentele din timpul războiului dintre Filipine și Japonia în această regiune.",
+                  "category": "museum",
+                  "coords": [
+                        125.460322,
+                        7.188239
+                  ]
+            },
+            {
+                  "name": "Birhen sa Lourdes Chapel",
+                  "text": "O capelă catolică locală dedicată Maicii Domnului de la Lourdes, care deservește cartierul înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        125.36921,
+                        7.179759
+                  ]
+            },
+            {
+                  "name": "GKK Señor San Roque",
+                  "text": "O capelă comunitară de bază (GKK) dedicată lui San Roque, care adună credincioșii catolici locali.",
+                  "category": "religious",
+                  "coords": [
+                        125.37637,
+                        7.128108
+                  ]
+            },
+            {
+                  "name": "Santa Cruz Chapel",
+                  "text": "O mică capelă catolică numită după Sfânta Cruce, oferind un spațiu de rugăciune pentru cartier.",
+                  "category": "religious",
+                  "coords": [
+                        125.375419,
+                        7.14892
+                  ]
+            },
+            {
+                  "name": "Sr. San Vicente Ferrer",
+                  "text": "Un lăcaș de cult local în onoarea lui San Vicente Ferrer, servind nevoile spirituale ale comunității.",
+                  "category": "religious",
+                  "coords": [
+                        125.360348,
+                        7.117214
+                  ]
+            },
+            {
+                  "name": "Sr. Santo Niño Chapel",
+                  "text": "O capelă comunitară dedicată lui Santo Niño, o figură centrală în devotamentul catolic filipinez.",
+                  "category": "religious",
+                  "coords": [
+                        125.400573,
+                        7.11708
+                  ]
+            },
+            {
+                  "name": "Birhen sa Fatima Chapel",
+                  "text": "O capelă de cartier dedicată Maicii Domnului de la Fatima, oferind un loc liniștit pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        125.402461,
+                        7.186261
+                  ]
+            },
+            {
+                  "name": "Upper Malagos Alliance Church",
+                  "text": "O biserică a alianței creștine locale care deservește congregația din zona Upper Malagos.",
+                  "category": "religious",
+                  "coords": [
+                        125.41091,
+                        7.191833
+                  ]
+            },
+            {
+                  "name": "GKK Mother of Perpetual Help",
+                  "text": "O capelă comunitară eclezială de bază (GKK) dedicată Maicii Domnului a Ajutorului Perpetuu.",
+                  "category": "religious",
+                  "coords": [
+                        125.42328,
+                        7.185818
+                  ]
+            },
+            {
+                  "name": "GKK Senior San Roque",
+                  "text": "O capelă catolică comunitară (GKK) dedicată Seniorului San Roque, activă în viața religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        125.431407,
+                        7.190186
+                  ]
+            },
+            {
+                  "name": "Malagos Community Alliance Church",
+                  "text": "O biserică evanghelică a Alianței care oferă servicii de cult și sprijin comunitar în Malagos.",
+                  "category": "religious",
+                  "coords": [
+                        125.433332,
+                        7.190462
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Vicente Ferrer",
+                  "text": "O capelă catolică locală de bază (GKK) care îl onorează pe Sfântul Vincent Ferrer în cartier.",
+                  "category": "religious",
+                  "coords": [
+                        125.470088,
+                        7.19004
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "O capelă catolică locală dedicată Imaculatei Concepții, care găzduiește slujbe comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        125.488988,
+                        7.223528
+                  ]
+            },
+            {
+                  "name": "GKK Berhin Del Rosario",
+                  "text": "O capelă comunitară de bază dedicată Maicii Domnului a Rozariului, care deservește credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        125.40735,
+                        7.19686
+                  ]
+            },
+            {
+                  "name": "Calinan Public Market",
+                  "text": "O piață publică plină de viață în Calinan, unde vânzătorii oferă produse locale proaspete, carne și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        125.45453,
+                        7.190763
+                  ]
+            },
+            {
+                  "name": "Phoebus Amusement Park",
+                  "text": "Un parc de distracții local care oferă atracții și divertisment pentru familiile din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        125.38335,
+                        7.133591
+                  ]
+            },
+            {
+                  "name": "Malagos Bird Show",
+                  "text": "O atracție interactivă cu animale sălbatice, cu păsări de pradă dresate și alte specii aviare.",
+                  "category": "landmark",
+                  "coords": [
+                        125.426107,
+                        7.191181
+                  ]
+            },
+            {
+                  "name": "Salon Memorial Alliance Church",
+                  "text": "O biserică a alianței creștine care oferă îndrumare spirituală și servicii de cult regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        125.392031,
+                        7.178312
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Un lăcaș de cult pentru congregația locală a Martorilor lui Iehova, folosit pentru studiul Bibliei și întâlniri.",
+                  "category": "landmark",
+                  "coords": [
+                        125.380662,
+                        7.152624
+                  ]
+            },
+            {
+                  "name": "Mosque Tamayong",
+                  "text": "O moschee locală care deservește comunitatea islamică din zona Tamayong pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        125.389636,
+                        7.141574
+                  ]
+            },
+            {
+                  "name": "Camacop Tamayong Evangelical Church",
+                  "text": "Această biserică creștină evanghelică locală deservește comunitatea din apropierea Philippine Eagle Center, oferind un spațiu dedicat pentru închinare.",
+                  "category": "landmark",
+                  "coords": [
+                        125.394261,
+                        7.142498
+                  ]
+            },
+            {
+                  "name": "Prayer House",
+                  "text": "Situată în împrejurimile luxuriante din apropierea Philippine Eagle Center, această casă de rugăciune creștină oferă un sanctuar liniștit pentru reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        125.381113,
+                        7.132427
+                  ]
+            },
+            {
+                  "name": "GKK Santa Catalina",
+                  "text": "Această capelă de cartier GKK adună comunitatea catolică locală pentru întâlniri de rugăciune în apropierea rezervației naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        125.371754,
+                        7.123627
+                  ]
+            },
+            {
+                  "name": "Cawayan Alliance Church",
+                  "text": "Funcționând ca un centru spiritual comunitar, această biserică a Alianței Creștine găzduiește slujbe regulate pentru credincioșii protestanți de la periferia împădurită.",
+                  "category": "landmark",
+                  "coords": [
+                        125.410686,
+                        7.156761
+                  ]
+            },
+            {
+                  "name": "Victory Chapel Christian Center - Baguio",
+                  "text": "Situat în districtul Baguio, lângă Eagle Center, acest centru creștin oferă servicii de închinare contemporane și programe spirituale de asistență.",
+                  "category": "landmark",
+                  "coords": [
+                        125.406614,
+                        7.173553
+                  ]
+            },
+            {
+                  "name": "GKK Inahan sa Kanunay'ng Panabang",
+                  "text": "Dedicată Maicii Noastre a Ajutorului Perpetuu, această capelă comunitară catolică este un loc simplu pentru rugăciunile regulate ale rozariului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.427312,
+                        7.162254
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary GKK Wangan",
+                  "text": "Situată în Wangan, această capelă catolică este dedicată Inimii Imaculate a Mariei, facilitând liturghia regulată a cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.439998,
+                        7.162124
+                  ]
+            },
+            {
+                  "name": "UCCP",
+                  "text": "Aparținând Bisericii Unite a lui Hristos din Filipine, acest centru de închinare protestant oferă un spațiu comun pentru slujbele de duminică.",
+                  "category": "landmark",
+                  "coords": [
+                        125.44878,
+                        7.189603
+                  ]
+            },
+            {
+                  "name": "MCGI Church",
+                  "text": "Această filială a Bisericii Membrilor lui Dumnezeu Internațional adună enoriașii în apropierea rezervațiilor naturale pentru expuneri biblice.",
+                  "category": "landmark",
+                  "coords": [
+                        125.455259,
+                        7.185328
+                  ]
+            },
+            {
+                  "name": "La Roca Church",
+                  "text": "Situată în apropierea traseelor naturale din zonă, această biserică creștină servește congregația sa cu servicii de închinare pline de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        125.39873,
+                        7.120321
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Având turlele ascuțite distinctive ale denominației sale, această biserică Iglesia ni Cristo oferă un cadru formal pentru închinarea creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        125.399672,
+                        7.169961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Philippine Eagle",
+                  "text": "A conservation site dedicated to the critically endangered, majestic Philippine eagle, one of the largest eagles in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        125.414683,
+                        7.185405
+                  ]
+            },
+            {
+                  "name": "Malagos Chocolate Museum",
+                  "text": "A museum exploring the bean-to-bar chocolate making process using locally grown cacao.",
+                  "category": "museum",
+                  "coords": [
+                        125.427966,
+                        7.191754
+                  ]
+            },
+            {
+                  "name": "Philippine-Japan Historical Museum",
+                  "text": "A museum documenting the historical ties and wartime events between the Philippines and Japan in the region.",
+                  "category": "museum",
+                  "coords": [
+                        125.460322,
+                        7.188239
+                  ]
+            },
+            {
+                  "name": "Birhen sa Lourdes Chapel",
+                  "text": "A local Catholic chapel dedicated to Our Lady of Lourdes, serving the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        125.36921,
+                        7.179759
+                  ]
+            },
+            {
+                  "name": "GKK Señor San Roque",
+                  "text": "A grassroots community chapel (GKK) dedicated to San Roque, gathering local Catholic faithful.",
+                  "category": "religious",
+                  "coords": [
+                        125.37637,
+                        7.128108
+                  ]
+            },
+            {
+                  "name": "Santa Cruz Chapel",
+                  "text": "A small Catholic chapel named after the Holy Cross, providing a space for neighborhood prayer.",
+                  "category": "religious",
+                  "coords": [
+                        125.375419,
+                        7.14892
+                  ]
+            },
+            {
+                  "name": "Sr. San Vicente Ferrer",
+                  "text": "A local place of worship honoring San Vicente Ferrer, serving the spiritual needs of the community.",
+                  "category": "religious",
+                  "coords": [
+                        125.360348,
+                        7.117214
+                  ]
+            },
+            {
+                  "name": "Sr. Santo Niño Chapel",
+                  "text": "A community chapel dedicated to the Santo Niño, a central figure in Philippine Catholic devotion.",
+                  "category": "religious",
+                  "coords": [
+                        125.400573,
+                        7.11708
+                  ]
+            },
+            {
+                  "name": "Birhen sa Fatima Chapel",
+                  "text": "A neighborhood chapel dedicated to Our Lady of Fatima, offering a peaceful place for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        125.402461,
+                        7.186261
+                  ]
+            },
+            {
+                  "name": "Upper Malagos Alliance Church",
+                  "text": "A local Christian alliance church serving the congregation in the Upper Malagos area.",
+                  "category": "religious",
+                  "coords": [
+                        125.41091,
+                        7.191833
+                  ]
+            },
+            {
+                  "name": "GKK Mother of Perpetual Help",
+                  "text": "A basic ecclesial community (GKK) chapel dedicated to the Mother of Perpetual Help.",
+                  "category": "religious",
+                  "coords": [
+                        125.42328,
+                        7.185818
+                  ]
+            },
+            {
+                  "name": "GKK Senior San Roque",
+                  "text": "A community-based Catholic chapel (GKK) dedicated to Senior San Roque, active in local religious life.",
+                  "category": "religious",
+                  "coords": [
+                        125.431407,
+                        7.190186
+                  ]
+            },
+            {
+                  "name": "Malagos Community Alliance Church",
+                  "text": "An evangelical Alliance church providing worship services and community support in Malagos.",
+                  "category": "religious",
+                  "coords": [
+                        125.433332,
+                        7.190462
+                  ]
+            },
+            {
+                  "name": "GKK Sr. San Vicente Ferrer",
+                  "text": "A local grassroots Catholic chapel (GKK) honoring St. Vincent Ferrer in the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        125.470088,
+                        7.19004
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "A local Catholic chapel dedicated to the Immaculate Conception, hosting community masses.",
+                  "category": "religious",
+                  "coords": [
+                        125.488988,
+                        7.223528
+                  ]
+            },
+            {
+                  "name": "GKK Berhin Del Rosario",
+                  "text": "A grassroots community chapel dedicated to Our Lady of the Rosary, serving the local faithful.",
+                  "category": "religious",
+                  "coords": [
+                        125.40735,
+                        7.19686
+                  ]
+            },
+            {
+                  "name": "Calinan Public Market",
+                  "text": "A bustling public market in Calinan where vendors sell fresh local produce, meat, and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.45453,
+                        7.190763
+                  ]
+            },
+            {
+                  "name": "Phoebus Amusement Park",
+                  "text": "A local amusement park offering rides and entertainment for families in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.38335,
+                        7.133591
+                  ]
+            },
+            {
+                  "name": "Malagos Bird Show",
+                  "text": "An interactive wildlife attraction featuring trained birds of prey and other avian species.",
+                  "category": "landmark",
+                  "coords": [
+                        125.426107,
+                        7.191181
+                  ]
+            },
+            {
+                  "name": "Salon Memorial Alliance Church",
+                  "text": "A Christian alliance church providing spiritual guidance and regular worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        125.392031,
+                        7.178312
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A place of worship for the local congregation of Jehovah's Witnesses, used for Bible study and meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        125.380662,
+                        7.152624
+                  ]
+            },
+            {
+                  "name": "Mosque Tamayong",
+                  "text": "A local mosque serving the Islamic community in the Tamayong area for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        125.389636,
+                        7.141574
+                  ]
+            },
+            {
+                  "name": "Camacop Tamayong Evangelical Church",
+                  "text": "This local Evangelical Christian church serves the community near the Philippine Eagle Center, providing a dedicated space for regular worship and fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        125.394261,
+                        7.142498
+                  ]
+            },
+            {
+                  "name": "Prayer House",
+                  "text": "Set in the lush surroundings near the Philippine Eagle Center, this Christian prayer house offers a quiet sanctuary for personal reflection and local gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        125.381113,
+                        7.132427
+                  ]
+            },
+            {
+                  "name": "GKK Santa Catalina",
+                  "text": "This basic Gagmay'ng Kristohanong Katilingban (GKK) neighborhood chapel gathers the local Catholic community for prayer meetings near the nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        125.371754,
+                        7.123627
+                  ]
+            },
+            {
+                  "name": "Cawayan Alliance Church",
+                  "text": "Operating as a community spiritual hub, this Christian Alliance church hosts regular services for Protestant believers residing in the forested outskirts.",
+                  "category": "landmark",
+                  "coords": [
+                        125.410686,
+                        7.156761
+                  ]
+            },
+            {
+                  "name": "Victory Chapel Christian Center - Baguio",
+                  "text": "Located in the Baguio district near the Eagle Center, this Christian center provides contemporary worship services and spiritual outreach programs.",
+                  "category": "landmark",
+                  "coords": [
+                        125.406614,
+                        7.173553
+                  ]
+            },
+            {
+                  "name": "GKK Inahan sa Kanunay'ng Panabang",
+                  "text": "Devoted to Our Mother of Perpetual Help, this Catholic community chapel stands as a simple but vital place for regular rosary prayers and local worship.",
+                  "category": "landmark",
+                  "coords": [
+                        125.427312,
+                        7.162254
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary GKK Wangan",
+                  "text": "Situated in Wangan, this grassroots Catholic chapel is dedicated to the Immaculate Heart of Mary, facilitating regular neighborhood liturgy and fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        125.439998,
+                        7.162124
+                  ]
+            },
+            {
+                  "name": "UCCP",
+                  "text": "Belonging to the United Church of Christ in the Philippines, this Protestant worship center provides a communal space for Sunday services and Christian teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        125.44878,
+                        7.189603
+                  ]
+            },
+            {
+                  "name": "MCGI Church",
+                  "text": "This local chapter of the Members Church of God International gathers congregants near the nature reserves for regular biblical expositions and choir singing.",
+                  "category": "landmark",
+                  "coords": [
+                        125.455259,
+                        7.185328
+                  ]
+            },
+            {
+                  "name": "La Roca Church",
+                  "text": "Located near the area's nature trails, this local Christian church serves its congregation with lively worship services and regular fellowship activities.",
+                  "category": "landmark",
+                  "coords": [
+                        125.39873,
+                        7.120321
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo",
+                  "text": "Featuring the distinctive pointed spires of its denomination, this local Iglesia ni Cristo locale provides a formal setting for structured Christian worship.",
+                  "category": "landmark",
+                  "coords": [
+                        125.399672,
+                        7.169961
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "PH-DAS",
     coords: [125.435, 7.155],
@@ -811,7 +14626,88 @@ image: "/poi-images/ph-philippine-eagle-center-life-v2.webp",
     
   },
   {
-    id: "ph-cebu-safari-and-adventure-park-life-v2",
+    id: "ph-cebu-safari-and-adventure-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "small, open 3 sides",
+                  "text": "Ein kleiner, offener religiöser Pavillon mit drei unbedeckten Seiten, der einen schattigen, luftigen Ort für ruhige Besinnung in der Nähe des Cebu Safari-Gebiets bietet.",
+                  "category": "religious",
+                  "coords": [
+                        123.909116,
+                        10.511787
+                  ]
+            },
+            {
+                  "name": "Lawaan Parish Church",
+                  "text": "Diese lokale Pfarrkirche in Lawaan dient als Gemeindezentrum für katholische Gottesdienste im weiteren Hinterland von Cebu.",
+                  "category": "religious",
+                  "coords": [
+                        123.900607,
+                        10.549898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "small, open 3 sides",
+                  "text": "Egy kicsi, szabadtéri, három oldalán nyitott vallási pavilon, amely árnyékos, szellős helyet kínál a csendes elmélkedésre a Cebu Safari területének közelében.",
+                  "category": "religious",
+                  "coords": [
+                        123.909116,
+                        10.511787
+                  ]
+            },
+            {
+                  "name": "Lawaan Parish Church",
+                  "text": "Ez a lawaani helyi plébániatemplom a katolikus istentiszteletek közösségi központjaként szolgál Cebu tágabb hátországában.",
+                  "category": "religious",
+                  "coords": [
+                        123.900607,
+                        10.549898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "small, open 3 sides",
+                  "text": "Un mic pavilion religios în aer liber, cu trei laturi expuse, oferind un loc umbrit și aerisit pentru reflecție liniștită lângă zona Cebu Safari.",
+                  "category": "religious",
+                  "coords": [
+                        123.909116,
+                        10.511787
+                  ]
+            },
+            {
+                  "name": "Lawaan Parish Church",
+                  "text": "Această biserică parohială locală din Lawaan servește ca un ancoraj comunitar pentru cultul catolic în regiunea extinsă Cebu.",
+                  "category": "religious",
+                  "coords": [
+                        123.900607,
+                        10.549898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "small, open 3 sides",
+                  "text": "A small, open-air religious pavilion with three exposed sides, offering a shaded, breezy spot for quiet reflection near the Cebu Safari area.",
+                  "category": "religious",
+                  "coords": [
+                        123.909116,
+                        10.511787
+                  ]
+            },
+            {
+                  "name": "Lawaan Parish Church",
+                  "text": "This local parish church in Lawaan serves as a community anchor for Catholic worship in the greater Cebu hinterland.",
+                  "category": "religious",
+                  "coords": [
+                        123.900607,
+                        10.549898
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "PH-CEB",
     coords: [123.8694, 10.5891],
@@ -865,7 +14761,1204 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
     
   },
   {
-    id: "ph-quezon-memorial-circle-life-v2",
+    id: "ph-quezon-memorial-circle-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Presidential Car Museum",
+                  "text": "Dieses am 19. August 2018 eröffnete Museum in Quezon City bewahrt und zeigt die historischen Staatsfahrzeuge ehemaliger philippinischer Präsidenten.",
+                  "category": "museum",
+                  "coords": [
+                        121.051205,
+                        14.650295
+                  ]
+            },
+            {
+                  "name": "Quezon City Experience",
+                  "text": "Dieses als QCX bekannte interaktive soziokulturelle Museum führt Besucher durch die reiche Geschichte und Stadtentwicklung von Quezon City.",
+                  "category": "museum",
+                  "coords": [
+                        121.051174,
+                        14.651537
+                  ]
+            },
+            {
+                  "name": "Vargas Museum",
+                  "text": "Dieses mehrstöckige Museum an der University of the Philippines beherbergt Jorge B. Vargas' umfangreiche Sammlung von Filipiniana-Kunst, Briefmarken und historischen Archiven.",
+                  "category": "museum",
+                  "coords": [
+                        121.066811,
+                        14.653318
+                  ]
+            },
+            {
+                  "name": "San Nicolas de Tolentino Parish Church",
+                  "text": "Diese katholische Pfarrkirche in Quezon City wird von den Augustiner-Rekollekten verwaltet und dient als spiritueller Anker für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        121.037551,
+                        14.672245
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo @ Templo Central",
+                  "text": "Dieser massive, aufwendig gestaltete Tempel dient als Hauptsitz der Konfession und bietet Platz für Tausende von Gläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        121.065278,
+                        14.663404
+                  ]
+            },
+            {
+                  "name": "Church of the Risen Lord",
+                  "text": "Diese protestantische Kirche auf dem Universitätscampus ist für ihr markantes, modernes sattelförmiges Betondach bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        121.071986,
+                        14.659817
+                  ]
+            },
+            {
+                  "name": "Tower of Power",
+                  "text": "Dieser am 7. November 1988 eingeweihte, hoch aufragende Rundfunksender dient als wichtige Kommunikationsstruktur für die Region.",
+                  "category": "tower",
+                  "coords": [
+                        121.050018,
+                        14.669963
+                  ]
+            },
+            {
+                  "name": "Quezon Memorial Circle",
+                  "text": "Dieser große Nationalpark zeichnet sich durch sein hoch aufragendes Art-déco-Mausoleum aus, das die Überreste des ehemaligen philippinischen Präsidenten Manuel L. Quezon birgt.",
+                  "category": "park",
+                  "coords": [
+                        121.049285,
+                        14.651463
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Parish",
+                  "text": "Diese katholische Pfarrkirche verfügt über einen geräumigen Innenraum, der der Marienverehrung der Verkündigung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        121.031666,
+                        14.678764
+                  ]
+            },
+            {
+                  "name": "Gimenez Gallery",
+                  "text": "Diese Kunstgalerie auf dem Universitätsgelände beherbergt wechselnde Ausstellungen zeitgenössischer bildender Kunst und studentischer Werke.",
+                  "category": "museum",
+                  "coords": [
+                        121.067958,
+                        14.657196
+                  ]
+            },
+            {
+                  "name": "Tandang Sora Women's Museum",
+                  "text": "Dieses Spezialmuseum feiert das Leben und die heldenhaften Beiträge von Melchora Aquino, die oft als Mutter der philippinischen Revolution bezeichnet wird.",
+                  "category": "museum",
+                  "coords": [
+                        121.045609,
+                        14.683179
+                  ]
+            },
+            {
+                  "name": "INC Museum and Gallery",
+                  "text": "In einem großen, klassisch inspirierten Gebäude untergebracht, bewahrt diese Institution das detaillierte institutionelle Erbe und die Meilensteine der INC-Konfession.",
+                  "category": "museum",
+                  "coords": [
+                        121.048832,
+                        14.662903
+                  ]
+            },
+            {
+                  "name": "Bulwagang Recoletos",
+                  "text": "Dieses Museum für religiöses Erbe stellt religiöse Artefakte aus und dokumentiert die Missionsgeschichte des Augustiner-Rekollekten-Ordens im Land.",
+                  "category": "museum",
+                  "coords": [
+                        121.060893,
+                        14.678916
+                  ]
+            },
+            {
+                  "name": "Jose Rizal",
+                  "text": "Diese Gedenkstatue im Freien ehrt den philippinischen Nationalhelden und zeigt ihn in typischer Kleidung des späten 19. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        121.070139,
+                        14.653306
+                  ]
+            },
+            {
+                  "name": "Manny Pacquiao's monument",
+                  "text": "Diese Hommage steht als dauerhaftes Denkmal für den weltweit anerkannten Boxchampion und fängt seine ikonische Kampfhaltung ein.",
+                  "category": "historical",
+                  "coords": [
+                        121.062304,
+                        14.65239
+                  ]
+            },
+            {
+                  "name": "FYM Monument",
+                  "text": "Dieses große öffentliche Denkmal erinnert an Felix Y. Manalo und ehrt seine Rolle als Gründer der Iglesia ni Cristo.",
+                  "category": "historical",
+                  "coords": [
+                        121.063501,
+                        14.662841
+                  ]
+            },
+            {
+                  "name": "Teatrong Mulat ng Pilipinas",
+                  "text": "Dieses auf traditionelles asiatisches Puppenspiel spezialisierte, einzigartige Kindertheater erweckt die philippinische Folklore durch aufwendig gefertigte Puppen zum Leben.",
+                  "category": "cultural",
+                  "coords": [
+                        121.057419,
+                        14.646531
+                  ]
+            },
+            {
+                  "name": "Villamor Hall",
+                  "text": "Ausgestattet mit klassischen Säulen an der Fassade, dient diese große Universitätshalle als prunkvoller Veranstaltungsort für Konzerte und Abschlussfeiern.",
+                  "category": "cultural",
+                  "coords": [
+                        121.066091,
+                        14.656769
+                  ]
+            },
+            {
+                  "name": "Krus na Ligas Baptist Church",
+                  "text": "Eingebettet in das historische Viertel Krus na Ligas, versammelt sich hier diese lokale Baptistengemeinde zu regelmäßiger christlicher Gemeinschaft und zum Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        121.063197,
+                        14.645721
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan",
+                  "text": "Dieses unkomplizierte lokale Koordinierungszentrum bietet den Mitgliedern der religiösen Organisation Ang Dating Daan Räumlichkeiten für Bibelstudien.",
+                  "category": "religious",
+                  "coords": [
+                        121.026529,
+                        14.696036
+                  ]
+            },
+            {
+                  "name": "Sta. Cleofe Chapel Arboretum",
+                  "text": "Versteckt zwischen den üppigen Bäumen eines lokalen Arboretums, bietet diese kleine Kapelle einen ruhigen, naturverbundenen Zufluchtsort zum Nachdenken.",
+                  "category": "religious",
+                  "coords": [
+                        121.050456,
+                        14.661052
+                  ]
+            },
+            {
+                  "name": "Garahe",
+                  "text": "Dieser lokale Marktplatz fungiert als ungezwungener Treffpunkt der Gemeinde und versammelt kleine Händler, die informelle Speiseoptionen und tägliche Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.037174,
+                        14.685859
+                  ]
+            },
+            {
+                  "name": "Citi Plaza 2",
+                  "text": "Diese kommerzielle Plaza mit mehreren Ständen richtet sich mit einer Vielzahl lokaler Einzelhandelswaren und schnellen Dienstleistungen an städtische Käufer.",
+                  "category": "cultural",
+                  "coords": [
+                        121.044635,
+                        14.676066
+                  ]
+            },
+            {
+                  "name": "Project 6 Cooperative Market",
+                  "text": "Dieser überdachte Markt, der von einer lokalen Genossenschaft im Distrikt Project 6 verwaltet wird, sichert den zuverlässigen Zugang zu landwirtschaftlichen Produkten und Fleisch.",
+                  "category": "cultural",
+                  "coords": [
+                        121.036606,
+                        14.663
+                  ]
+            },
+            {
+                  "name": "Talipapa ng Krus na Ligas",
+                  "text": "Dieser wichtige Frischmarkt liegt im Herzen der Gemeinde Krus na Ligas und versorgt die Bewohner mit ihrem täglichen Fang und frischem Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061952,
+                        14.64692
+                  ]
+            },
+            {
+                  "name": "Sabina Market",
+                  "text": "Dieses von morgendlicher Aktivität erfüllte Viertel-Handelszentrum versorgt lokale Haushalte mit erschwinglichen Lebensmitteln und Streetfood.",
+                  "category": "cultural",
+                  "coords": [
+                        121.023978,
+                        14.686207
+                  ]
+            },
+            {
+                  "name": "Bagbag Wet & Dry Market",
+                  "text": "Dieser lebendige Handelsknotenpunkt, der Verkaufsstände für Rohprodukte mit trockenen Haushaltswaren kombiniert, verankert den täglichen Handel in der Gegend von Bagbag.",
+                  "category": "cultural",
+                  "coords": [
+                        121.030335,
+                        14.697337
+                  ]
+            },
+            {
+                  "name": "Visayas Avenue Wet & Dry Market",
+                  "text": "Diese umfassende Marktanlage flankiert die geschäftige Visayas Avenue und bietet alles von frisch geschlachtetem Fleisch bis hin zu speziellen lokalen Gewürzen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.043121,
+                        14.675607
+                  ]
+            },
+            {
+                  "name": "UP Wet & Dry Market",
+                  "text": "Dieser dynamische Marktplatz in der Nähe des Universitätsgeländes wird von Studenten und Mitarbeitern besucht, die nach erschwinglichen Mahlzeiten und frischem Obst suchen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.052835,
+                        14.654261
+                  ]
+            },
+            {
+                  "name": "E.M. Platas Rice Dealer",
+                  "text": "Der Reishändler E.M. Platas ist ein lokaler Marktplatz für Getreide in ph-quezon-memorial-circle-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061073,
+                        14.645084
+                  ]
+            },
+            {
+                  "name": "Krus na Ligas Wet Market",
+                  "text": "Der Krus na Ligas Wet Market ist ein traditioneller Frischmarkt für lokale Erzeugnisse in ph-quezon-memorial-circle-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        121.063423,
+                        14.644354
+                  ]
+            },
+            {
+                  "name": "Don Antonio Wet and Dry Market",
+                  "text": "Der Don Antonio Wet and Dry Market bietet eine große Vielfalt an frischen und haltbaren Waren in ph-quezon-memorial-circle-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        121.083381,
+                        14.677116
+                  ]
+            },
+            {
+                  "name": "Hillcrest Family Life Baptist Church",
+                  "text": "Die Hillcrest Family Life Baptist Church ist ein christliches baptistisches Gotteshaus in ph-quezon-memorial-circle-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060301,
+                        14.64256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Presidential Car Museum",
+                  "text": "A 2018. augusztus 19-én megnyílt Quezon City-i múzeum a korábbi fülöp-szigeteki elnökök által használt történelmi állami járműveket őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.051205,
+                        14.650295
+                  ]
+            },
+            {
+                  "name": "Quezon City Experience",
+                  "text": "A QCX néven ismert interaktív szociokulturális múzeum Quezon City gazdag történelmén és városfejlődésén vezeti végig a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        121.051174,
+                        14.651537
+                  ]
+            },
+            {
+                  "name": "Vargas Museum",
+                  "text": "A Fülöp-szigeteki Egyetemen található többszintes múzeum Jorge B. Vargas kiterjedt Filipiniana művészeti, bélyeg- és történelmi archívumát őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        121.066811,
+                        14.653318
+                  ]
+            },
+            {
+                  "name": "San Nicolas de Tolentino Parish Church",
+                  "text": "Ezt a Quezon City-i katolikus plébániatemplomot az ágoston-rendi rekollektek igazgatják, és a helyi közösség spirituális horgonyaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        121.037551,
+                        14.672245
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo @ Templo Central",
+                  "text": "A felekezet főhadiszállásaként szolgáló hatalmas, bonyolult tervezésű templom hívők ezreinek befogadására alkalmas.",
+                  "category": "religious",
+                  "coords": [
+                        121.065278,
+                        14.663404
+                  ]
+            },
+            {
+                  "name": "Church of the Risen Lord",
+                  "text": "Az egyetemi kampuszon található protestáns templomot jellegzetes, modernista nyereg alakú betonteteje teszi híressé.",
+                  "category": "religious",
+                  "coords": [
+                        121.071986,
+                        14.659817
+                  ]
+            },
+            {
+                  "name": "Tower of Power",
+                  "text": "Az 1988. november 7-én felavatott magasodó műsorszóró adó a régió egyik legfontosabb kommunikációs létesítményeként szolgál.",
+                  "category": "tower",
+                  "coords": [
+                        121.050018,
+                        14.669963
+                  ]
+            },
+            {
+                  "name": "Quezon Memorial Circle",
+                  "text": "Ezt a nagy nemzeti parkot magasodó art deco mauzóleuma határozza meg, amely a korábbi fülöp-szigeteki elnök, Manuel L. Quezon földi maradványait őrzi.",
+                  "category": "park",
+                  "coords": [
+                        121.049285,
+                        14.651463
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Parish",
+                  "text": "Ez a katolikus plébániatemplom tágas belső térrel rendelkezik, amelyet az Angyali üdvözlet Mária-tiszteletének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        121.031666,
+                        14.678764
+                  ]
+            },
+            {
+                  "name": "Gimenez Gallery",
+                  "text": "Az egyetem területén található művészeti galéria kortárs vizuális művészeti alkotások és hallgatói munkák változó kiállításainak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        121.067958,
+                        14.657196
+                  ]
+            },
+            {
+                  "name": "Tandang Sora Women's Museum",
+                  "text": "Ez a speciális múzeum Melchora Aquino életét és hősies tetteit ünnepli, akit gyakran a fülöp-szigeteki forradalom anyjaként is emlegetnek.",
+                  "category": "museum",
+                  "coords": [
+                        121.045609,
+                        14.683179
+                  ]
+            },
+            {
+                  "name": "INC Museum and Gallery",
+                  "text": "Egy nagy, klasszikus ihletésű épületben helyet kapó intézmény az INC felekezet részletes intézményi örökségét és mérföldköveit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        121.048832,
+                        14.662903
+                  ]
+            },
+            {
+                  "name": "Bulwagang Recoletos",
+                  "text": "Ez a vallási örökségi múzeum vallási műtárgyakat állít ki, és az ágoston-rendi rekollektek országos missziós történetét krónikázza.",
+                  "category": "museum",
+                  "coords": [
+                        121.060893,
+                        14.678916
+                  ]
+            },
+            {
+                  "name": "Jose Rizal",
+                  "text": "Ez a szabadtéri emlékmű a fülöp-szigeteki nemzeti hőst tiszteli meg, akit a 19. század végi tipikus öltözetben ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        121.070139,
+                        14.653306
+                  ]
+            },
+            {
+                  "name": "Manny Pacquiao's monument",
+                  "text": "Ez a tiszteletadás tartós emlékműként áll a világszerte elismert ökölvívó bajnok előtt, megörökítve ikonikus harci testtartását.",
+                  "category": "historical",
+                  "coords": [
+                        121.062304,
+                        14.65239
+                  ]
+            },
+            {
+                  "name": "FYM Monument",
+                  "text": "Ez a nagyszabású köztéri emlékmű Felix Y. Manalónak állít emléket, tisztelegve az Iglesia ni Cristo alapítójaként betöltött szerepe előtt.",
+                  "category": "historical",
+                  "coords": [
+                        121.063501,
+                        14.662841
+                  ]
+            },
+            {
+                  "name": "Teatrong Mulat ng Pilipinas",
+                  "text": "A hagyományos ázsiai bábszínházra specializálódott egyedülálló gyermekszínház bonyolultan kidolgozott babákon keresztül kelti életre a fülöp-szigeteki folklórt.",
+                  "category": "cultural",
+                  "coords": [
+                        121.057419,
+                        14.646531
+                  ]
+            },
+            {
+                  "name": "Villamor Hall",
+                  "text": "A homlokzatán klasszikus oszlopokkal díszített hatalmas egyetemi csarnok koncertek és diplomaosztó ünnepségek nagyszabású helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        121.066091,
+                        14.656769
+                  ]
+            },
+            {
+                  "name": "Krus na Ligas Baptist Church",
+                  "text": "A történelmi Krus na Ligas negyedben megbúvó helyi baptista gyülekezet itt gyűlik össze rendszeres keresztény közösségre és imára.",
+                  "category": "religious",
+                  "coords": [
+                        121.063197,
+                        14.645721
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan",
+                  "text": "Ez az egyszerű helyi koordinációs központ az Ang Dating Daan vallási szervezet tagjainak szolgál a szentírás-tanulmányozás helyszíneként.",
+                  "category": "religious",
+                  "coords": [
+                        121.026529,
+                        14.696036
+                  ]
+            },
+            {
+                  "name": "Sta. Cleofe Chapel Arboretum",
+                  "text": "Egy helyi arborétum buja fái között megbúvó kis kápolna csendes, természethez kötődő szentélyt kínál az elmélkedéshez.",
+                  "category": "religious",
+                  "coords": [
+                        121.050456,
+                        14.661052
+                  ]
+            },
+            {
+                  "name": "Garahe",
+                  "text": "Kötetlen közösségi központként funkcionálva ez a helyi piactér apró árusokat gyűjt össze, hogy informális étkezési lehetőségeket és napi cikkeket kínáljanak.",
+                  "category": "cultural",
+                  "coords": [
+                        121.037174,
+                        14.685859
+                  ]
+            },
+            {
+                  "name": "Citi Plaza 2",
+                  "text": "Ez a több standdal rendelkező kereskedelmi pláza a városi vásárlókat szolgálja ki különféle helyi kiskereskedelmi árukkal és gyors szolgáltatásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        121.044635,
+                        14.676066
+                  ]
+            },
+            {
+                  "name": "Project 6 Cooperative Market",
+                  "text": "A Project 6 negyed helyi szövetkezete által fenntartott fedett piac megbízható hozzáférést biztosít a mezőgazdasági termékekhez és a húsokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        121.036606,
+                        14.663
+                  ]
+            },
+            {
+                  "name": "Talipapa ng Krus na Ligas",
+                  "text": "Ez az alapvető nyerspiac a Krus na Ligas közösség szívében fekszik, napi fogással és friss zöldségekkel ellátva a lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061952,
+                        14.64692
+                  ]
+            },
+            {
+                  "name": "Sabina Market",
+                  "text": "A reggeli forgatagtól nyüzsgő környékbeli kereskedelmi terület megfizethető élelmiszerekkel és utcai ételekkel látja el a helyi háztartásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        121.023978,
+                        14.686207
+                  ]
+            },
+            {
+                  "name": "Bagbag Wet & Dry Market",
+                  "text": "A nyerstermék-standokat és a háztartási szárazárukat ötvöző élénk kereskedelmi központ a Bagbag terület napi kereskedelmének horgonya.",
+                  "category": "cultural",
+                  "coords": [
+                        121.030335,
+                        14.697337
+                  ]
+            },
+            {
+                  "name": "Visayas Avenue Wet & Dry Market",
+                  "text": "A forgalmas Visayas Avenue mentén elterülő átfogó piac a frissen vágott húsoktól a speciális helyi fűszerekig mindent kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        121.043121,
+                        14.675607
+                  ]
+            },
+            {
+                  "name": "UP Wet & Dry Market",
+                  "text": "Az egyetem területének közelében található dinamikus piacot gyakran látogatják diákok és munkatársak, akik megfizethető ételeket és friss gyümölcsöt keresnek.",
+                  "category": "cultural",
+                  "coords": [
+                        121.052835,
+                        14.654261
+                  ]
+            },
+            {
+                  "name": "E.M. Platas Rice Dealer",
+                  "text": "Az E.M. Platas rizskereskedés egy helyi piac gabonafélék számára ph-quezon-memorial-circle-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061073,
+                        14.645084
+                  ]
+            },
+            {
+                  "name": "Krus na Ligas Wet Market",
+                  "text": "A Krus na Ligas nedvespiac egy hagyományos piac friss termékek számára ph-quezon-memorial-circle-life-v2 városában.",
+                  "category": "cultural",
+                  "coords": [
+                        121.063423,
+                        14.644354
+                  ]
+            },
+            {
+                  "name": "Don Antonio Wet and Dry Market",
+                  "text": "A Don Antonio vegyespiac friss és tartós áruk széles választékát kínálja ph-quezon-memorial-circle-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        121.083381,
+                        14.677116
+                  ]
+            },
+            {
+                  "name": "Hillcrest Family Life Baptist Church",
+                  "text": "A Hillcrest Family Life baptista templom egy keresztény imahely ph-quezon-memorial-circle-life-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060301,
+                        14.64256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Presidential Car Museum",
+                  "text": "Deschis pe 19 august 2018, acest muzeu din Quezon City păstrează și expune vehiculele de stat istorice folosite de foștii președinți filipinezi.",
+                  "category": "museum",
+                  "coords": [
+                        121.051205,
+                        14.650295
+                  ]
+            },
+            {
+                  "name": "Quezon City Experience",
+                  "text": "Cunoscut sub numele de QCX, acest muzeu socio-cultural interactiv ghidează vizitatorii prin istoria bogată și dezvoltarea urbană a orașului Quezon.",
+                  "category": "museum",
+                  "coords": [
+                        121.051174,
+                        14.651537
+                  ]
+            },
+            {
+                  "name": "Vargas Museum",
+                  "text": "Situat la Universitatea din Filipine, acest muzeu pe mai multe niveluri găzduiește colecția extinsă de artă Filipiniana, timbre și arhive istorice a lui Jorge B. Vargas.",
+                  "category": "museum",
+                  "coords": [
+                        121.066811,
+                        14.653318
+                  ]
+            },
+            {
+                  "name": "San Nicolas de Tolentino Parish Church",
+                  "text": "Această biserică parohială catolică din Quezon City este administrată de Recolecții Augustinieni și servește ca o ancoră spirituală pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        121.037551,
+                        14.672245
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo @ Templo Central",
+                  "text": "Servind drept sediu principal pentru confesiune, acest templu masiv, cu un design complex, poate găzdui mii de credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        121.065278,
+                        14.663404
+                  ]
+            },
+            {
+                  "name": "Church of the Risen Lord",
+                  "text": "Situată în campusul universitar, această biserică protestantă este celebrată pentru acoperișul său modern, în formă de șa, din beton.",
+                  "category": "religious",
+                  "coords": [
+                        121.071986,
+                        14.659817
+                  ]
+            },
+            {
+                  "name": "Tower of Power",
+                  "text": "Inaugurat pe 7 noiembrie 1988, acest transmițător de radiodifuziune înalt servește ca o structură majoră de comunicații pentru regiune.",
+                  "category": "tower",
+                  "coords": [
+                        121.050018,
+                        14.669963
+                  ]
+            },
+            {
+                  "name": "Quezon Memorial Circle",
+                  "text": "Acest mare parc național este definit de mausoleul său impunător în stil art deco, care conține rămășițele fostului președinte filipinez Manuel L. Quezon.",
+                  "category": "park",
+                  "coords": [
+                        121.049285,
+                        14.651463
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Parish",
+                  "text": "Această biserică parohială catolică are un interior spațios dedicat devotamentului marian al Bunei Vestiri.",
+                  "category": "religious",
+                  "coords": [
+                        121.031666,
+                        14.678764
+                  ]
+            },
+            {
+                  "name": "Gimenez Gallery",
+                  "text": "Situată în incinta universității, această galerie de artă găzduiește expoziții rotative de arte vizuale contemporane și lucrări ale studenților.",
+                  "category": "museum",
+                  "coords": [
+                        121.067958,
+                        14.657196
+                  ]
+            },
+            {
+                  "name": "Tandang Sora Women's Museum",
+                  "text": "Acest muzeu specializat celebrează viața și contribuțiile eroice ale Melchorei Aquino, denumită adesea Mama Revoluției Filipineze.",
+                  "category": "museum",
+                  "coords": [
+                        121.045609,
+                        14.683179
+                  ]
+            },
+            {
+                  "name": "INC Museum and Gallery",
+                  "text": "Găzduită într-o clădire grandioasă, de inspirație clasică, această instituție păstrează patrimoniul instituțional detaliat și etapele confesionale ale INC.",
+                  "category": "museum",
+                  "coords": [
+                        121.048832,
+                        14.662903
+                  ]
+            },
+            {
+                  "name": "Bulwagang Recoletos",
+                  "text": "Acest muzeu de patrimoniu religios expune artefacte religioase și relatează istoria misionară a ordinului Recolecților Augustinieni din țară.",
+                  "category": "museum",
+                  "coords": [
+                        121.060893,
+                        14.678916
+                  ]
+            },
+            {
+                  "name": "Jose Rizal",
+                  "text": "Această statuie memorială în aer liber îl onorează pe eroul național filipinez, înfățișându-l în ținuta tipică a sfârșitului de secol XIX.",
+                  "category": "historical",
+                  "coords": [
+                        121.070139,
+                        14.653306
+                  ]
+            },
+            {
+                  "name": "Manny Pacquiao's monument",
+                  "text": "Acest omagiu se înalță ca un monument de durată dedicat campionului de box recunoscut la nivel mondial, surprinzând poziția sa emblematică de luptă.",
+                  "category": "historical",
+                  "coords": [
+                        121.062304,
+                        14.65239
+                  ]
+            },
+            {
+                  "name": "FYM Monument",
+                  "text": "Acest grandios monument public îl comemorează pe Felix Y. Manalo, onorând rolul său de fondator al Iglesia ni Cristo.",
+                  "category": "historical",
+                  "coords": [
+                        121.063501,
+                        14.662841
+                  ]
+            },
+            {
+                  "name": "Teatrong Mulat ng Pilipinas",
+                  "text": "Specializat în teatrul tradițional asiatic de păpuși, acest teatru unic pentru copii dă viață folclorului filipinez prin păpuși lucrate complex.",
+                  "category": "cultural",
+                  "coords": [
+                        121.057419,
+                        14.646531
+                  ]
+            },
+            {
+                  "name": "Villamor Hall",
+                  "text": "Împodobită cu coloane clasice pe fațada sa, această sală universitară majoră servește drept o locație grandioasă pentru concerte și ceremonii de absolvire.",
+                  "category": "cultural",
+                  "coords": [
+                        121.066091,
+                        14.656769
+                  ]
+            },
+            {
+                  "name": "Krus na Ligas Baptist Church",
+                  "text": "Integrată în cartierul istoric Krus na Ligas, această congregație baptistă locală se adună aici pentru părtășie și rugăciune creștină regulată.",
+                  "category": "religious",
+                  "coords": [
+                        121.063197,
+                        14.645721
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan",
+                  "text": "Acest centru de coordonare local simplu servește membrilor organizației religioase Ang Dating Daan cu un spațiu pentru studii scripturale.",
+                  "category": "religious",
+                  "coords": [
+                        121.026529,
+                        14.696036
+                  ]
+            },
+            {
+                  "name": "Sta. Cleofe Chapel Arboretum",
+                  "text": "Ascunsă printre copacii luxurianți ai unui arboretum local, această mică capelă oferă un sanctuar liniștit, legat de natură, pentru reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        121.050456,
+                        14.661052
+                  ]
+            },
+            {
+                  "name": "Garahe",
+                  "text": "Funcționând ca un centru comunitar informal, acest spațiu de piață localizat adună mici vânzători pentru a vinde opțiuni de luat masa și mărfuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        121.037174,
+                        14.685859
+                  ]
+            },
+            {
+                  "name": "Citi Plaza 2",
+                  "text": "Această piațetă comercială cu mai multe tarabe se adresează cumpărătorilor urbani cu o varietate de bunuri de vânzare cu amănuntul și servicii rapide.",
+                  "category": "cultural",
+                  "coords": [
+                        121.044635,
+                        14.676066
+                  ]
+            },
+            {
+                  "name": "Project 6 Cooperative Market",
+                  "text": "Administrată de o cooperativă locală în cartierul Project 6, această piață acoperită asigură accesul fiabil la produse agricole și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        121.036606,
+                        14.663
+                  ]
+            },
+            {
+                  "name": "Talipapa ng Krus na Ligas",
+                  "text": "Această piață alimentară esențială se află în inima comunității Krus na Ligas, oferind locuitorilor captura zilnică și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061952,
+                        14.64692
+                  ]
+            },
+            {
+                  "name": "Sabina Market",
+                  "text": "Purtând forfotă matinală, această zonă de comerț din cartier aprovizionează gospodăriile locale cu alimente accesibile și mâncare de stradă.",
+                  "category": "cultural",
+                  "coords": [
+                        121.023978,
+                        14.686207
+                  ]
+            },
+            {
+                  "name": "Bagbag Wet & Dry Market",
+                  "text": "Combinând tarabele cu produse crude cu mărfuri de uz casnic uscate, acest centru comercial plin de viață ancorează comerțul zilnic din zona Bagbag.",
+                  "category": "cultural",
+                  "coords": [
+                        121.030335,
+                        14.697337
+                  ]
+            },
+            {
+                  "name": "Visayas Avenue Wet & Dry Market",
+                  "text": "Flancând aglomerata Visayas Avenue, această unitate de piață cuprinzătoare oferă totul, de la carne proaspăt tăiată până la condimente locale specializate.",
+                  "category": "cultural",
+                  "coords": [
+                        121.043121,
+                        14.675607
+                  ]
+            },
+            {
+                  "name": "UP Wet & Dry Market",
+                  "text": "Situată lângă terenurile universității, această piață dinamică este frecventată de studenți și personal în căutare de mese la prețuri accesibile și fructe proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        121.052835,
+                        14.654261
+                  ]
+            },
+            {
+                  "name": "E.M. Platas Rice Dealer",
+                  "text": "E.M. Platas Rice Dealer este o piață locală axată pe comerțul cu orez și cereale în ph-quezon-memorial-circle-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061073,
+                        14.645084
+                  ]
+            },
+            {
+                  "name": "Krus na Ligas Wet Market",
+                  "text": "Piața tradițională de produse proaspete Krus na Ligas oferă ingrediente locale în ph-quezon-memorial-circle-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        121.063423,
+                        14.644354
+                  ]
+            },
+            {
+                  "name": "Don Antonio Wet and Dry Market",
+                  "text": "Piața mixtă Don Antonio oferă o varietate de produse proaspete și uscate în ph-quezon-memorial-circle-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        121.083381,
+                        14.677116
+                  ]
+            },
+            {
+                  "name": "Hillcrest Family Life Baptist Church",
+                  "text": "Biserica Baptistă Hillcrest Family Life este un lăcaș de cult creștin situat în ph-quezon-memorial-circle-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060301,
+                        14.64256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Presidential Car Museum",
+                  "text": "Opened on August 19, 2018, this Quezon City museum preserves and displays the historic state vehicles used by former Philippine presidents.",
+                  "category": "museum",
+                  "coords": [
+                        121.051205,
+                        14.650295
+                  ]
+            },
+            {
+                  "name": "Quezon City Experience",
+                  "text": "Known as QCX, this interactive socio-cultural museum guides visitors through the rich history and urban development of Quezon City.",
+                  "category": "museum",
+                  "coords": [
+                        121.051174,
+                        14.651537
+                  ]
+            },
+            {
+                  "name": "Vargas Museum",
+                  "text": "Located at the University of the Philippines, this multi-level museum houses Jorge B. Vargas's extensive collection of Filipiniana art, stamps, and historical archives.",
+                  "category": "museum",
+                  "coords": [
+                        121.066811,
+                        14.653318
+                  ]
+            },
+            {
+                  "name": "San Nicolas de Tolentino Parish Church",
+                  "text": "This Catholic parish church in Quezon City is administered by the Augustinian Recollects and serves as a spiritual anchor for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        121.037551,
+                        14.672245
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo Central Temple",
+                  "text": "Serving as the main headquarters for the denomination, this massive, intricately designed temple can accommodate thousands of worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        121.065278,
+                        14.663404
+                  ]
+            },
+            {
+                  "name": "Church of the Risen Lord",
+                  "text": "Situated on the university campus, this Protestant church is celebrated for its distinctive, modernist saddle-shaped concrete roof.",
+                  "category": "religious",
+                  "coords": [
+                        121.071986,
+                        14.659817
+                  ]
+            },
+            {
+                  "name": "Tower of Power",
+                  "text": "Inaugurated on November 7, 1988, this towering broadcasting transmitter serves as a major communications structure for the region.",
+                  "category": "tower",
+                  "coords": [
+                        121.050018,
+                        14.669963
+                  ]
+            },
+            {
+                  "name": "Quezon Memorial Circle",
+                  "text": "This large national park is defined by its towering art deco mausoleum, which contains the remains of former Philippine President Manuel L. Quezon.",
+                  "category": "park",
+                  "coords": [
+                        121.049285,
+                        14.651463
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Parish",
+                  "text": "This Catholic parish church features a spacious interior dedicated to the Marian devotion of the Annunciation.",
+                  "category": "religious",
+                  "coords": [
+                        121.031666,
+                        14.678764
+                  ]
+            },
+            {
+                  "name": "Gimenez Gallery",
+                  "text": "Situated within the university grounds, this art gallery hosts rotating exhibitions of contemporary visual arts and student works.",
+                  "category": "museum",
+                  "coords": [
+                        121.067958,
+                        14.657196
+                  ]
+            },
+            {
+                  "name": "Tandang Sora Women's Museum",
+                  "text": "This specialized museum celebrates the life and heroic contributions of Melchora Aquino, often referred to as the Mother of the Philippine Revolution.",
+                  "category": "museum",
+                  "coords": [
+                        121.045609,
+                        14.683179
+                  ]
+            },
+            {
+                  "name": "INC Museum and Gallery",
+                  "text": "Housed in a grand, classically inspired building, this institution preserves the detailed institutional heritage and milestones of the INC denomination.",
+                  "category": "museum",
+                  "coords": [
+                        121.048832,
+                        14.662903
+                  ]
+            },
+            {
+                  "name": "Bulwagang Recoletos",
+                  "text": "This religious heritage museum exhibits religious artifacts and chronicles the missionary history of the Augustinian Recollect order in the country.",
+                  "category": "museum",
+                  "coords": [
+                        121.060893,
+                        14.678916
+                  ]
+            },
+            {
+                  "name": "Jose Rizal",
+                  "text": "This outdoor memorial statue honors the Philippine national hero, depicting him in typical late-19th-century attire.",
+                  "category": "historical",
+                  "coords": [
+                        121.070139,
+                        14.653306
+                  ]
+            },
+            {
+                  "name": "Manny Pacquiao's monument",
+                  "text": "This tribute stands as a lasting monument to the globally recognized boxing champion, capturing his iconic fighting stance.",
+                  "category": "historical",
+                  "coords": [
+                        121.062304,
+                        14.65239
+                  ]
+            },
+            {
+                  "name": "FYM Monument",
+                  "text": "This grand public monument commemorates Felix Y. Manalo, honoring his role as the founder of the Iglesia ni Cristo.",
+                  "category": "historical",
+                  "coords": [
+                        121.063501,
+                        14.662841
+                  ]
+            },
+            {
+                  "name": "Mulat Theater",
+                  "text": "Specializing in traditional Asian puppetry, this unique children's theater brings Filipino folklore to life through intricately crafted dolls.",
+                  "category": "cultural",
+                  "coords": [
+                        121.057419,
+                        14.646531
+                  ]
+            },
+            {
+                  "name": "Villamor Hall",
+                  "text": "Graced with classical columns at its facade, this major university hall serves as a grand venue for concerts and graduation ceremonies.",
+                  "category": "cultural",
+                  "coords": [
+                        121.066091,
+                        14.656769
+                  ]
+            },
+            {
+                  "name": "Krus na Ligas Baptist Church",
+                  "text": "Embedded in the historic Krus na Ligas neighborhood, this local Baptist congregation gathers here for regular Christian fellowship and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        121.063197,
+                        14.645721
+                  ]
+            },
+            {
+                  "name": "Ang Dating Daan",
+                  "text": "This straightforward local coordinating center serves members of the Ang Dating Daan religious organization with a space for scriptural studies.",
+                  "category": "religious",
+                  "coords": [
+                        121.026529,
+                        14.696036
+                  ]
+            },
+            {
+                  "name": "Sta. Cleofe Chapel Arboretum",
+                  "text": "Tucked within the lush trees of a local arboretum, this small chapel provides a quiet, nature-bound sanctuary for reflection.",
+                  "category": "religious",
+                  "coords": [
+                        121.050456,
+                        14.661052
+                  ]
+            },
+            {
+                  "name": "Garahe",
+                  "text": "Functioning as a casual community hub, this localized market space gathers small vendors to sell informal dining options and daily wares.",
+                  "category": "cultural",
+                  "coords": [
+                        121.037174,
+                        14.685859
+                  ]
+            },
+            {
+                  "name": "Citi Plaza 2",
+                  "text": "This multi-stall commercial plaza caters to urban shoppers with a variety of localized retail goods and quick services.",
+                  "category": "cultural",
+                  "coords": [
+                        121.044635,
+                        14.676066
+                  ]
+            },
+            {
+                  "name": "Project 6 Cooperative Market",
+                  "text": "Managed by a local cooperative in the Project 6 district, this covered market secures reliable access to agricultural products and meats.",
+                  "category": "cultural",
+                  "coords": [
+                        121.036606,
+                        14.663
+                  ]
+            },
+            {
+                  "name": "Talipapa ng Krus na Ligas",
+                  "text": "This essential wet market lies at the heart of the Krus na Ligas community, providing residents with their daily catch and fresh vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061952,
+                        14.64692
+                  ]
+            },
+            {
+                  "name": "Sabina Market",
+                  "text": "Bustling with morning activity, this neighborhood trading area supplies local households with affordable groceries and street food.",
+                  "category": "cultural",
+                  "coords": [
+                        121.023978,
+                        14.686207
+                  ]
+            },
+            {
+                  "name": "Bagbag Wet & Dry Market",
+                  "text": "Combining raw produce stalls with household dry goods, this lively commercial hub anchors the daily commerce of the Bagbag area.",
+                  "category": "cultural",
+                  "coords": [
+                        121.030335,
+                        14.697337
+                  ]
+            },
+            {
+                  "name": "Visayas Avenue Wet & Dry Market",
+                  "text": "Flanking the busy Visayas Avenue, this comprehensive market facility offers everything from newly butchered meats to specialized local condiments.",
+                  "category": "cultural",
+                  "coords": [
+                        121.043121,
+                        14.675607
+                  ]
+            },
+            {
+                  "name": "UP Wet & Dry Market",
+                  "text": "Located near the university grounds, this dynamic marketplace is frequented by students and staff searching for affordable meals and fresh fruit.",
+                  "category": "cultural",
+                  "coords": [
+                        121.052835,
+                        14.654261
+                  ]
+            },
+            {
+                  "name": "E.M. Platas Rice Dealer",
+                  "text": "E.M. Platas Rice Dealer is a local marketplace focusing on rice trade in ph-quezon-memorial-circle-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        121.061073,
+                        14.645084
+                  ]
+            },
+            {
+                  "name": "Krus na Ligas Wet Market",
+                  "text": "Krus na Ligas Wet Market is a traditional fresh produce market supplying local ingredients in ph-quezon-memorial-circle-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        121.063423,
+                        14.644354
+                  ]
+            },
+            {
+                  "name": "Don Antonio Wet and Dry Market",
+                  "text": "Don Antonio Wet and Dry Market provides a wide variety of fresh produce and non-perishable goods in ph-quezon-memorial-circle-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        121.083381,
+                        14.677116
+                  ]
+            },
+            {
+                  "name": "Hillcrest Family Life Baptist Church",
+                  "text": "Hillcrest Family Life Baptist Church is a Christian place of worship located in ph-quezon-memorial-circle-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        121.060301,
+                        14.64256
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PH-00",
     coords: [121.0494, 14.6514],
@@ -919,7 +16012,1384 @@ image: "/poi-images/ph-quezon-memorial-circle-life-v2.webp",
     
   },
   {
-    id: "ph-irri-rice-research-life-v2",
+    id: "ph-irri-rice-research-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diocesan Shrine of Saint Therese of the Child Jesus",
+                  "text": "Ein bekannter katholischer Diözesanschrein in der Nähe der Reisforschungseinrichtungen, der der Heiligen Therese vom Kinde Jesu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        121.244816,
+                        14.165188
+                  ]
+            },
+            {
+                  "name": "Saint Augustine Parish",
+                  "text": "Die historische katholische Pfarrkirche von San Agustin in der Gemeinde Bay, Laguna.",
+                  "category": "religious",
+                  "coords": [
+                        121.28423,
+                        14.180594
+                  ]
+            },
+            {
+                  "name": "DZLB Transmission Tower",
+                  "text": "Der DZLB-Sendeturm ist eine Rundfunkstruktur, die das Gebiet der Universität der Philippinen Los Baños versorgt.",
+                  "category": "tower",
+                  "coords": [
+                        121.242956,
+                        14.168016
+                  ]
+            },
+            {
+                  "name": "Mount Mahanggulod",
+                  "text": "Der Mount Mahanggulod ist ein natürlicher Gipfel, der sich über die grüne Landschaft der Region Los Baños erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.242297,
+                        14.130081
+                  ]
+            },
+            {
+                  "name": "Mount Bulalo",
+                  "text": "Der Mount Bulalo ist ein malerischer Berggipfel, der Teil des zerklüfteten Geländes der Umgebung ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.226046,
+                        14.101158
+                  ]
+            },
+            {
+                  "name": "Mount Cabulugan",
+                  "text": "Der Mount Cabulugan ist ein hochgelegener Gipfel, der einen weiten Blick auf das umliegende Naturgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.214117,
+                        14.118426
+                  ]
+            },
+            {
+                  "name": "Mount Putinglupa",
+                  "text": "Der Mount Putinglupa ist ein lokaler Berggipfel, dessen Name in der Landessprache als \"weiße Erde\" übersetzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        121.229861,
+                        14.131341
+                  ]
+            },
+            {
+                  "name": "Mount Putong Bay",
+                  "text": "Der Mount Putong Bay ist ein markanter Gipfel, der sich in der bergigen Landschaft der lokalen Region erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        121.245751,
+                        14.135011
+                  ]
+            },
+            {
+                  "name": "Mount Tayog Pato",
+                  "text": "Der Mount Tayog Pato ist ein natürlicher Berggipfel, der Teil der malerischen Topographie der Gegend ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.246458,
+                        14.142995
+                  ]
+            },
+            {
+                  "name": "Imoc Hill",
+                  "text": "Der Imoc Hill ist eine markante Erhebung, die einen Aussichtspunkt über das grüne Tiefland der Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.304317,
+                        14.112663
+                  ]
+            },
+            {
+                  "name": "Riceworld",
+                  "text": "Riceworld ist ein Bildungsmuseum des International Rice Research Institute, das sich ganz der Wissenschaft und dem Anbau von Reis widmet.",
+                  "category": "museum",
+                  "coords": [
+                        121.254548,
+                        14.168444
+                  ]
+            },
+            {
+                  "name": "Cleanergy Center",
+                  "text": "Das Cleanergy Center ist eine Bildungseinrichtung mit interaktiven Ausstellungen zu erneuerbaren Energien und Stromerzeugung.",
+                  "category": "museum",
+                  "coords": [
+                        121.225656,
+                        14.090482
+                  ]
+            },
+            {
+                  "name": "Former Site of MRH Unit 1",
+                  "text": "Das ehemalige Gelände der MRH Unit 1 enthält die baulichen Ruinen eines früheren Studentenwohnheims der Universität.",
+                  "category": "historical",
+                  "coords": [
+                        121.24047,
+                        14.161021
+                  ]
+            },
+            {
+                  "name": "UPLB Oblation",
+                  "text": "Die UPLB Oblation ist eine symbolische Bronzestatue, die einen nackten Mann mit ausgestreckten Armen darstellt und die selbstlose Hingabe an die Nation repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        121.241552,
+                        14.165003
+                  ]
+            },
+            {
+                  "name": "UPOU Oblation",
+                  "text": "Die UPOU Oblation ist ein markantes Campus-Denkmal, das akademische Freiheit und öffentlichen Dienst an der Open University symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        121.26265,
+                        14.174877
+                  ]
+            },
+            {
+                  "name": "UPLB Academic Heritage Tower",
+                  "text": "Der UPLB Academic Heritage Tower ist ein Gedenkbauwerk, das das bildungspolitische Erbe der Universität feiert.",
+                  "category": "historical",
+                  "coords": [
+                        121.242652,
+                        14.166277
+                  ]
+            },
+            {
+                  "name": "The Chimney",
+                  "text": "Der Schornstein steht als einsame Mauerwerksruine und deutet auf die historische industrielle oder wohnliche Aktivität des Geländes hin.",
+                  "category": "historical",
+                  "coords": [
+                        121.241482,
+                        14.166222
+                  ]
+            },
+            {
+                  "name": "Dioscoro L. Umali Hall",
+                  "text": "Die 1969 eröffnete Dioscoro L. Umali Hall ist ein großes Campus-Theater, das für wichtige Universitätsversammlungen und kulturelle Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        121.24013,
+                        14.163984
+                  ]
+            },
+            {
+                  "name": "Los Baños Seventh-Day Adventist Church",
+                  "text": "Die Los Baños Seventh-Day Adventist Church ist ein lokales religiöses Gebäude, in dem sich die Sabbat-haltende Gemeinde zum Gottesdienst versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        121.244435,
+                        14.175157
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Locale of Victoria",
+                  "text": "Die Iglesia ni Cristo - Locale of Victoria zeichnet sich durch die markante Turmarchitektur der Konfession aus und dient als Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        121.326457,
+                        14.226619
+                  ]
+            },
+            {
+                  "name": "Christ Commission Fellowship - Bay",
+                  "text": "Die Christ Commission Fellowship in Bay ist eine überkonfessionelle christliche Kirche, die moderne Gottesdienste und geistliche Gemeinschaft bietet.",
+                  "category": "religious",
+                  "coords": [
+                        121.273998,
+                        14.159406
+                  ]
+            },
+            {
+                  "name": "VCCF",
+                  "text": "Die Victorius Cross Christian Fellowship Church ist eine lokale Gemeinde, die sich in einem eigenen Heiligtum zum Gebet und zum Religionsstudium versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        121.256256,
+                        14.179462
+                  ]
+            },
+            {
+                  "name": "Sitio Pag-asa Sub Parish",
+                  "text": "Die Sitio Pag-asa Sub Parish ist eine bescheidene katholische Gemeindekirche, die gegründet wurde, um den geistlichen Bedürfnissen der örtlichen Nachbarschaft zu dienen.",
+                  "category": "religious",
+                  "coords": [
+                        121.251456,
+                        14.17171
+                  ]
+            },
+            {
+                  "name": "2428 Grocers Corporation (Gina's Store)",
+                  "text": "Dieser lokale Marktplatz, vor Ort als Gina's Store bekannt, bietet eine Vielzahl von alltäglichen Lebensmitteln und frischen lokalen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        121.240961,
+                        14.179695
+                  ]
+            },
+            {
+                  "name": "Bay Public Market",
+                  "text": "Der Bay Public Market dient als zentraler Handelsplatz für die Gemeinde, vollgepackt mit Ständen, die lokale landwirtschaftliche Erzeugnisse anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        121.285432,
+                        14.180406
+                  ]
+            },
+            {
+                  "name": "Calauan Public Market",
+                  "text": "Der Calauan Public Market ist der wichtigste Freiluftbasar der Stadt, der von Einheimischen besucht wird, die frische Meeresfrüchte und Früchte der Saison kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        121.315002,
+                        14.146877
+                  ]
+            },
+            {
+                  "name": "Makiling Rainforest Park - Central Nursery",
+                  "text": "Die Central Nursery des Makiling Rainforest Park kultiviert eine vielfältige Auswahl an endemischen Baumsetzlingen und tropischer Flora.",
+                  "category": "landmark",
+                  "coords": [
+                        121.228216,
+                        14.135151
+                  ]
+            },
+            {
+                  "name": "Dao sa SU",
+                  "text": "Dao sa SU ist ein ikonischer und massiver Dao-Baum, der als beliebtes natürliches Wahrzeichen im Bereich der Studentenvereinigung der Universität dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.241302,
+                        14.162983
+                  ]
+            },
+            {
+                  "name": "Mud Springs",
+                  "text": "Mud Springs ist eine geothermische Attraktion am Mount Makiling, die durch blubbernde Becken mit heißem, schwefelhaltigem Schlamm gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.221184,
+                        14.136626
+                  ]
+            },
+            {
+                  "name": "Fertility Tree",
+                  "text": "Der Fruchtbarkeitsbaum ist eine weitläufige, jahrhundertealte Akazie auf dem Universitätscampus, um die sich historisch studentische Folklore rankt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.24259,
+                        14.159816
+                  ]
+            },
+            {
+                  "name": "Kapok Tree",
+                  "text": "Dieser hoch aufragende Kapokbaum ist ein bemerkenswertes botanisches Exemplar auf dem Campus, das leicht an seinem stacheligen Stamm und seinen flauschigen Samenkapseln zu erkennen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.241255,
+                        14.163897
+                  ]
+            },
+            {
+                  "name": "Fantasy Farm",
+                  "text": "Fantasy Farm ist eine familienorientierte Agrotourismus-Attraktion mit bunten Gärten und interaktiven Tierbegegnungen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316352,
+                        14.160498
+                  ]
+            },
+            {
+                  "name": "Hidden Valley Springs",
+                  "text": "Hidden Valley Springs ist ein ökologisches Resort, das sich in einem abgelegenen tropischen Regenwald befindet und seinen Gästen natürliche Thermalbecken bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.258003,
+                        14.095889
+                  ]
+            },
+            {
+                  "name": "Vraja Eco Village - ISKCON Temple",
+                  "text": "Das Vraja Eco Village verfügt über einen ISKCON Hare Krishna-Tempel, der nachhaltige Landwirtschaft mit spirituellen Rückzugspraktiken verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.259356,
+                        14.091115
+                  ]
+            },
+            {
+                  "name": "Grand Harvest Christian Ministries",
+                  "text": "Grand Harvest Christian Ministries ist ein evangelikales Gemeindezentrum, das sich der Ausrichtung lebhafter Lobpreis- und Anbetungsversammlungen widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.274576,
+                        14.151189
+                  ]
+            },
+            {
+                  "name": "Christ Covenant Church",
+                  "text": "Die Christ Covenant Church ist ein lokales christliches Heiligtum, in dem sich Familien wöchentlich zu biblischer Lehre und gemeinsamen Gebeten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        121.275039,
+                        14.158829
+                  ]
+            },
+            {
+                  "name": "Church Among the Palms",
+                  "text": "Inmitten eines Hains tropischer Palmen gelegen, bietet die Church Among the Palms einen friedlichen, schattigen Ort für christliche Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        121.240362,
+                        14.167641
+                  ]
+            },
+            {
+                  "name": "Church in Los Baños Meeting Hall",
+                  "text": "Die Church in Los Baños Meeting Hall ist ein praktisches Versammlungsgebäude, das für christliche Gemeinschaft und regelmäßiges Bibelstudium konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        121.242466,
+                        14.169543
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diocesan Shrine of Saint Therese of the Child Jesus",
+                  "text": "A rizskutató létesítmények közelében található, a Gyermek Jézusról nevezett Szent Teréznek szentelt nevezetes katolikus egyházmegyei kegyhely.",
+                  "category": "religious",
+                  "coords": [
+                        121.244816,
+                        14.165188
+                  ]
+            },
+            {
+                  "name": "Saint Augustine Parish",
+                  "text": "A történelmi San Agustin katolikus plébániatemplom Bay községében, Laguna tartományban.",
+                  "category": "religious",
+                  "coords": [
+                        121.28423,
+                        14.180594
+                  ]
+            },
+            {
+                  "name": "DZLB Transmission Tower",
+                  "text": "A DZLB adótorony egy műsorszóró létesítmény, amely a Los Baños-i Fülöp-szigeteki Egyetem térségét szolgálja ki.",
+                  "category": "tower",
+                  "coords": [
+                        121.242956,
+                        14.168016
+                  ]
+            },
+            {
+                  "name": "Mount Mahanggulod",
+                  "text": "A Mount Mahanggulod egy természetes hegycsúcs, amely a Los Baños régió zöldellő tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        121.242297,
+                        14.130081
+                  ]
+            },
+            {
+                  "name": "Mount Bulalo",
+                  "text": "A Mount Bulalo egy festői hegycsúcs, amely a környéket övező egyenetlen terep részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        121.226046,
+                        14.101158
+                  ]
+            },
+            {
+                  "name": "Mount Cabulugan",
+                  "text": "A Mount Cabulugan egy magaslati hegycsúcs, ahonnan szélesvásznú kilátás nyílik a környező természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        121.214117,
+                        14.118426
+                  ]
+            },
+            {
+                  "name": "Mount Putinglupa",
+                  "text": "A Mount Putinglupa egy helyi hegycsúcs, melynek neve az őslakosok nyelvén \"fehér földet\" jelent.",
+                  "category": "natural",
+                  "coords": [
+                        121.229861,
+                        14.131341
+                  ]
+            },
+            {
+                  "name": "Mount Putong Bay",
+                  "text": "A Mount Putong Bay egy kiemelkedő hegycsúcs, amely a helyi régió hegyvidéki tájából emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        121.245751,
+                        14.135011
+                  ]
+            },
+            {
+                  "name": "Mount Tayog Pato",
+                  "text": "A Mount Tayog Pato egy természetes hegycsúcs, amely a terület festői domborzatának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        121.246458,
+                        14.142995
+                  ]
+            },
+            {
+                  "name": "Imoc Hill",
+                  "text": "Az Imoc Hill egy figyelemre méltó magaslat, ahonnan nagyszerű kilátás nyílik a zöldellő alföldi környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        121.304317,
+                        14.112663
+                  ]
+            },
+            {
+                  "name": "Riceworld",
+                  "text": "A Riceworld a Nemzetközi Rizskutató Intézet oktatási múzeuma, amelyet teljes egészében a rizs tudományának és termesztésének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        121.254548,
+                        14.168444
+                  ]
+            },
+            {
+                  "name": "Cleanergy Center",
+                  "text": "A Cleanergy Center egy oktatási létesítmény, amely a megújuló energiát és az áramtermelést bemutató interaktív kiállításokkal várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        121.225656,
+                        14.090482
+                  ]
+            },
+            {
+                  "name": "Former Site of MRH Unit 1",
+                  "text": "Az MRH Unit 1 egykori helyén egy múltbeli egyetemi kollégium építészeti romjai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        121.24047,
+                        14.161021
+                  ]
+            },
+            {
+                  "name": "UPLB Oblation",
+                  "text": "Az UPLB Oblation egy szimbolikus bronzszobor, amely egy kitárt karú meztelen férfit ábrázol, jelképezve a nemzet iránti önzetlen áldozatot.",
+                  "category": "historical",
+                  "coords": [
+                        121.241552,
+                        14.165003
+                  ]
+            },
+            {
+                  "name": "UPOU Oblation",
+                  "text": "Az UPOU Oblation egy kiemelkedő egyetemi emlékmű, amely az akadémiai szabadságot és a közszolgálatot szimbolizálja a Nyitott Egyetemen.",
+                  "category": "historical",
+                  "coords": [
+                        121.26265,
+                        14.174877
+                  ]
+            },
+            {
+                  "name": "UPLB Academic Heritage Tower",
+                  "text": "Az UPLB Academic Heritage Tower egy emlékmű, amely az egyetem oktatási öröksége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        121.242652,
+                        14.166277
+                  ]
+            },
+            {
+                  "name": "The Chimney",
+                  "text": "A Kémény egy magányos falazatromként áll, amely a hely történelmi ipari vagy lakóépületi tevékenységére utal.",
+                  "category": "historical",
+                  "coords": [
+                        121.241482,
+                        14.166222
+                  ]
+            },
+            {
+                  "name": "Dioscoro L. Umali Hall",
+                  "text": "Az 1969-ben megnyílt Dioscoro L. Umali Hall egy nagy egyetemi színház, amely fontos egyetemi gyűléseknek és kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        121.24013,
+                        14.163984
+                  ]
+            },
+            {
+                  "name": "Los Baños Seventh-Day Adventist Church",
+                  "text": "A Los Baños-i Hetednapi Adventista Templom egy helyi vallási épület, ahol a szombatot tartó gyülekezet istentiszteletre gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        121.244435,
+                        14.175157
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Locale of Victoria",
+                  "text": "Az Iglesia ni Cristo - Locale of Victoria a felekezet jellegzetes tornyos építészetét viseli magán, és istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        121.326457,
+                        14.226619
+                  ]
+            },
+            {
+                  "name": "Christ Commission Fellowship - Bay",
+                  "text": "A bay-i Christ Commission Fellowship egy felekezetközi keresztény közösség, amely modern istentiszteleteket és szellemi közösséget biztosít.",
+                  "category": "religious",
+                  "coords": [
+                        121.273998,
+                        14.159406
+                  ]
+            },
+            {
+                  "name": "VCCF",
+                  "text": "A Victorius Cross Christian Fellowship Church egy helyi gyülekezet, amely egy dedikált szentélyben gyűlik össze imádkozni és vallást tanulmányozni.",
+                  "category": "religious",
+                  "coords": [
+                        121.256256,
+                        14.179462
+                  ]
+            },
+            {
+                  "name": "Sitio Pag-asa Sub Parish",
+                  "text": "A Sitio Pag-asa alplébánia egy szerény katolikus közösségi templom, amelyet a helyi lakosok lelki igényeinek kielégítésére hoztak létre.",
+                  "category": "religious",
+                  "coords": [
+                        121.251456,
+                        14.17171
+                  ]
+            },
+            {
+                  "name": "2428 Grocers Corporation (Gina's Store)",
+                  "text": "A helyiek által Gina's Store néven ismert környékbeli piac különféle mindennapi élelmiszereket és friss helyi termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        121.240961,
+                        14.179695
+                  ]
+            },
+            {
+                  "name": "Bay Public Market",
+                  "text": "A Bay Public Market a település központi kereskedelmi pontjaként szolgál, tele helyi mezőgazdasági termékeket kínáló standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        121.285432,
+                        14.180406
+                  ]
+            },
+            {
+                  "name": "Calauan Public Market",
+                  "text": "A Calauan Public Market a város elsődleges szabadtéri bazárja, amelyet a helyiek friss tenger gyümölcsei és szezonális gyümölcsök vásárlására keresnek fel.",
+                  "category": "cultural",
+                  "coords": [
+                        121.315002,
+                        14.146877
+                  ]
+            },
+            {
+                  "name": "Makiling Rainforest Park - Central Nursery",
+                  "text": "A Makiling Esőerdő Park központi faiskolája az endemikus facsemeték és a trópusi növényvilág széles választékát neveli.",
+                  "category": "landmark",
+                  "coords": [
+                        121.228216,
+                        14.135151
+                  ]
+            },
+            {
+                  "name": "Dao sa SU",
+                  "text": "A Dao sa SU egy ikonikus és hatalmas Dao fa, amely népszerű természeti tájékozódási pontként szolgál az egyetem Diákszövetségének területén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.241302,
+                        14.162983
+                  ]
+            },
+            {
+                  "name": "Mud Springs",
+                  "text": "A Mud Springs egy geotermikus látványosság a Makiling-hegyen, amelyet forró, kénes iszapból álló, buborékoló medencék jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.221184,
+                        14.136626
+                  ]
+            },
+            {
+                  "name": "Fertility Tree",
+                  "text": "A Termékenység fája egy kiterjedt, évszázados akácfa az egyetem kampuszán, amelyhez hagyományosan számos diákköztörténet fűződik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.24259,
+                        14.159816
+                  ]
+            },
+            {
+                  "name": "Kapok Tree",
+                  "text": "Ez a magasba törő kapokfa egy figyelemre méltó botanikai példány a kampuszon, amely könnyen felismerhető tüskés törzséről és bolyhos maggubóiról.",
+                  "category": "landmark",
+                  "coords": [
+                        121.241255,
+                        14.163897
+                  ]
+            },
+            {
+                  "name": "Fantasy Farm",
+                  "text": "A Fantasy Farm egy családcentrikus agroturisztikai látványosság, amely színes kertekkel és interaktív állatos programokkal várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316352,
+                        14.160498
+                  ]
+            },
+            {
+                  "name": "Hidden Valley Springs",
+                  "text": "A Hidden Valley Springs egy ökológiai üdülőközpont, amely egy eldugott trópusi esőerdőben fészkel, és természetes termálmedencéket kínál vendégeinek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.258003,
+                        14.095889
+                  ]
+            },
+            {
+                  "name": "Vraja Eco Village - ISKCON Temple",
+                  "text": "A Vraja Ökofalu egy ISKCON Hare Krisna templomot foglal magában, amely a fenntartható mezőgazdaságot spirituális elvonulási gyakorlatokkal ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        121.259356,
+                        14.091115
+                  ]
+            },
+            {
+                  "name": "Grand Harvest Christian Ministries",
+                  "text": "A Grand Harvest Christian Ministries egy evangéliumi közösségi központ, amely lelkes dicsőítő és istentiszteleti összejöveteleknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        121.274576,
+                        14.151189
+                  ]
+            },
+            {
+                  "name": "Christ Covenant Church",
+                  "text": "A Christ Covenant Church egy helyi keresztény szentély, ahol a családok hetente összegyűlnek bibliai tanításra és közös imára.",
+                  "category": "landmark",
+                  "coords": [
+                        121.275039,
+                        14.158829
+                  ]
+            },
+            {
+                  "name": "Church Among the Palms",
+                  "text": "A trópusi pálmafák ligetében megbúvó Church Among the Palms békés, árnyékos helyszínt biztosít a keresztény istentiszteletek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        121.240362,
+                        14.167641
+                  ]
+            },
+            {
+                  "name": "Church in Los Baños Meeting Hall",
+                  "text": "A Church in Los Baños gyülekezeti terme egy praktikus közösségi épület, amelyet keresztény testvériségre és rendszeres szentírás-tanulmányozásra terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.242466,
+                        14.169543
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diocesan Shrine of Saint Therese of the Child Jesus",
+                  "text": "Un sanctuar diecezan catolic notabil în apropierea facilităților de cercetare a orezului, închinat Sfintei Tereza a Pruncului Isus.",
+                  "category": "religious",
+                  "coords": [
+                        121.244816,
+                        14.165188
+                  ]
+            },
+            {
+                  "name": "Saint Augustine Parish",
+                  "text": "Biserica parohială catolică istorică din San Agustin situată în municipalitatea Bay, Laguna.",
+                  "category": "religious",
+                  "coords": [
+                        121.28423,
+                        14.180594
+                  ]
+            },
+            {
+                  "name": "DZLB Transmission Tower",
+                  "text": "Turnul de transmisie DZLB este o structură de difuzare care deservește zona Universității Filipinelor Los Baños.",
+                  "category": "tower",
+                  "coords": [
+                        121.242956,
+                        14.168016
+                  ]
+            },
+            {
+                  "name": "Mount Mahanggulod",
+                  "text": "Muntele Mahanggulod este un vârf natural care se înalță deasupra peisajului înverzit al regiunii Los Baños.",
+                  "category": "natural",
+                  "coords": [
+                        121.242297,
+                        14.130081
+                  ]
+            },
+            {
+                  "name": "Mount Bulalo",
+                  "text": "Muntele Bulalo este un vârf montan pitoresc care face parte din terenul accidentat ce înconjoară zona.",
+                  "category": "natural",
+                  "coords": [
+                        121.226046,
+                        14.101158
+                  ]
+            },
+            {
+                  "name": "Mount Cabulugan",
+                  "text": "Muntele Cabulugan este un vârf înalt care oferă vederi panoramice asupra terenului natural din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.214117,
+                        14.118426
+                  ]
+            },
+            {
+                  "name": "Mount Putinglupa",
+                  "text": "Muntele Putinglupa este un vârf montan local al cărui nume se traduce prin „pământ alb” în limba nativă.",
+                  "category": "natural",
+                  "coords": [
+                        121.229861,
+                        14.131341
+                  ]
+            },
+            {
+                  "name": "Mount Putong Bay",
+                  "text": "Muntele Putong Bay este un vârf proeminent care se înalță în peisajul muntos al regiunii locale.",
+                  "category": "natural",
+                  "coords": [
+                        121.245751,
+                        14.135011
+                  ]
+            },
+            {
+                  "name": "Mount Tayog Pato",
+                  "text": "Muntele Tayog Pato reprezintă un vârf montan natural care face parte din topografia pitorească a zonei.",
+                  "category": "natural",
+                  "coords": [
+                        121.246458,
+                        14.142995
+                  ]
+            },
+            {
+                  "name": "Imoc Hill",
+                  "text": "Dealul Imoc este o colină notabilă care oferă un punct de observație deasupra împrejurimilor înverzite de câmpie.",
+                  "category": "natural",
+                  "coords": [
+                        121.304317,
+                        14.112663
+                  ]
+            },
+            {
+                  "name": "Riceworld",
+                  "text": "Riceworld este un muzeu educațional al Institutului Internațional de Cercetare a Orezului, dedicat în întregime științei și cultivării orezului.",
+                  "category": "museum",
+                  "coords": [
+                        121.254548,
+                        14.168444
+                  ]
+            },
+            {
+                  "name": "Cleanergy Center",
+                  "text": "Cleanergy Center este o facilitate educațională cu expoziții interactive despre energia regenerabilă și generarea de energie.",
+                  "category": "museum",
+                  "coords": [
+                        121.225656,
+                        14.090482
+                  ]
+            },
+            {
+                  "name": "Former Site of MRH Unit 1",
+                  "text": "Fostul amplasament al MRH Unit 1 conține ruinele structurale ale unui vechi cămin studențesc universitar.",
+                  "category": "historical",
+                  "coords": [
+                        121.24047,
+                        14.161021
+                  ]
+            },
+            {
+                  "name": "UPLB Oblation",
+                  "text": "Oblațiunea UPLB este o statuie simbolică din bronz, înfățișând un bărbat gol cu brațele întinse, reprezentând ofranda altruistă adusă națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        121.241552,
+                        14.165003
+                  ]
+            },
+            {
+                  "name": "UPOU Oblation",
+                  "text": "Oblațiunea UPOU este un monument proeminent în campus, care simbolizează libertatea academică și serviciul public la Universitatea Deschisă.",
+                  "category": "historical",
+                  "coords": [
+                        121.26265,
+                        14.174877
+                  ]
+            },
+            {
+                  "name": "UPLB Academic Heritage Tower",
+                  "text": "Turnul Patrimoniului Academic UPLB este o structură comemorativă care celebrează moștenirea educațională a universității.",
+                  "category": "historical",
+                  "coords": [
+                        121.242652,
+                        14.166277
+                  ]
+            },
+            {
+                  "name": "The Chimney",
+                  "text": "Coșul de fum se înalță ca o ruină solitară de zidărie, sugerând activitatea istorică industrială sau rezidențială a sitului.",
+                  "category": "historical",
+                  "coords": [
+                        121.241482,
+                        14.166222
+                  ]
+            },
+            {
+                  "name": "Dioscoro L. Umali Hall",
+                  "text": "Deschisă în 1969, Sala Dioscoro L. Umali este un teatru spațios de campus care găzduiește convocări universitare majore și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        121.24013,
+                        14.163984
+                  ]
+            },
+            {
+                  "name": "Los Baños Seventh-Day Adventist Church",
+                  "text": "Biserica Adventistă de Ziua a Șaptea din Los Baños este o clădire religioasă locală unde congregația care ține Sabatul se adună pentru închinare.",
+                  "category": "religious",
+                  "coords": [
+                        121.244435,
+                        14.175157
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Locale of Victoria",
+                  "text": "Iglesia ni Cristo - Locația Victoria prezintă arhitectura distinctivă cu turle a confesiunii și servește drept lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        121.326457,
+                        14.226619
+                  ]
+            },
+            {
+                  "name": "Christ Commission Fellowship - Bay",
+                  "text": "Christ Commission Fellowship din Bay este o biserică creștină non-confesională care oferă slujbe moderne de închinare și părtășie spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        121.273998,
+                        14.159406
+                  ]
+            },
+            {
+                  "name": "VCCF",
+                  "text": "Biserica Victorius Cross Christian Fellowship este o congregație locală care se adună într-un sanctuar dedicat pentru rugăciune și studiu religios.",
+                  "category": "religious",
+                  "coords": [
+                        121.256256,
+                        14.179462
+                  ]
+            },
+            {
+                  "name": "Sitio Pag-asa Sub Parish",
+                  "text": "Subparohia Sitio Pag-asa este o biserică comunitară catolică modestă, înființată pentru a sluji nevoile spirituale ale cartierului local.",
+                  "category": "religious",
+                  "coords": [
+                        121.251456,
+                        14.17171
+                  ]
+            },
+            {
+                  "name": "2428 Grocers Corporation (Gina's Store)",
+                  "text": "Cunoscut pe plan local ca Magazinul Ginei, această piață de cartier oferă o varietate de alimente de zi cu zi și produse locale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        121.240961,
+                        14.179695
+                  ]
+            },
+            {
+                  "name": "Bay Public Market",
+                  "text": "Piața Publică Bay servește drept punct central de comerț pentru municipalitate, fiind plină de tarabe care oferă recolte agricole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        121.285432,
+                        14.180406
+                  ]
+            },
+            {
+                  "name": "Calauan Public Market",
+                  "text": "Piața Publică Calauan este principalul bazar în aer liber al orașului, frecventat de localnici care cumpără fructe de mare proaspete și fructe de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        121.315002,
+                        14.146877
+                  ]
+            },
+            {
+                  "name": "Makiling Rainforest Park - Central Nursery",
+                  "text": "Pepiniera Centrală a Parcului Pădurii Tropicale Makiling cultivă o gamă diversă de puieți de copaci endemici și floră tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        121.228216,
+                        14.135151
+                  ]
+            },
+            {
+                  "name": "Dao sa SU",
+                  "text": "Dao sa SU este un arbore masiv și iconic de tip Dao, servind ca punct de reper natural popular în zona Uniunii Studenților a universității.",
+                  "category": "landmark",
+                  "coords": [
+                        121.241302,
+                        14.162983
+                  ]
+            },
+            {
+                  "name": "Mud Springs",
+                  "text": "Mud Springs este o atracție geotermală de pe Muntele Makiling, prezentând bazine clocotitoare cu noroi fierbinte, sulfuros.",
+                  "category": "landmark",
+                  "coords": [
+                        121.221184,
+                        14.136626
+                  ]
+            },
+            {
+                  "name": "Fertility Tree",
+                  "text": "Arborele Fertilității este un salcâm întins, vechi de secole, aflat în campusul universitar, înconjurat istoric de folclorul studențesc.",
+                  "category": "landmark",
+                  "coords": [
+                        121.24259,
+                        14.159816
+                  ]
+            },
+            {
+                  "name": "Kapok Tree",
+                  "text": "Acest impunător arbore Kapok este un specimen botanic notabil din campus, ușor de recunoscut după trunchiul său spinos și păstăile pufoase cu semințe.",
+                  "category": "landmark",
+                  "coords": [
+                        121.241255,
+                        14.163897
+                  ]
+            },
+            {
+                  "name": "Fantasy Farm",
+                  "text": "Fantasy Farm este o atracție de agroturism orientată către familie, cu grădini colorate și interacțiuni directe cu animalele.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316352,
+                        14.160498
+                  ]
+            },
+            {
+                  "name": "Hidden Valley Springs",
+                  "text": "Hidden Valley Springs este o stațiune ecologică cuibărită într-o pădure tropicală retrasă, oferind oaspeților săi bazine termale naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        121.258003,
+                        14.095889
+                  ]
+            },
+            {
+                  "name": "Vraja Eco Village - ISKCON Temple",
+                  "text": "Vraja Eco Village include un templu ISKCON Hare Krishna care integrează agricultura durabilă cu practicile de retragere spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        121.259356,
+                        14.091115
+                  ]
+            },
+            {
+                  "name": "Grand Harvest Christian Ministries",
+                  "text": "Grand Harvest Christian Ministries este un centru comunitar evanghelic dedicat găzduirii unor adunări pline de spirit pentru laudă și închinare.",
+                  "category": "landmark",
+                  "coords": [
+                        121.274576,
+                        14.151189
+                  ]
+            },
+            {
+                  "name": "Christ Covenant Church",
+                  "text": "Biserica Christ Covenant este un sanctuar creștin local unde familiile se adună săptămânal pentru învățături biblice și rugăciuni comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        121.275039,
+                        14.158829
+                  ]
+            },
+            {
+                  "name": "Church Among the Palms",
+                  "text": "Situată în mijlocul unui crâng de palmieri tropicali, Church Among the Palms oferă un loc pașnic și umbrit pentru închinarea creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        121.240362,
+                        14.167641
+                  ]
+            },
+            {
+                  "name": "Church in Los Baños Meeting Hall",
+                  "text": "Sala de Întâlniri a Bisericii din Los Baños este o clădire practică de adunare, concepută pentru părtășia creștină și studiul regulat al scripturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        121.242466,
+                        14.169543
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diocesan Shrine of Saint Therese of the Child Jesus",
+                  "text": "A notable Catholic diocesan shrine near the rice research facilities, dedicated to Saint Therese of the Child Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        121.244816,
+                        14.165188
+                  ]
+            },
+            {
+                  "name": "Saint Augustine Parish",
+                  "text": "The historic Catholic parish church of San Agustin located in the municipality of Bay, Laguna.",
+                  "category": "religious",
+                  "coords": [
+                        121.28423,
+                        14.180594
+                  ]
+            },
+            {
+                  "name": "DZLB Transmission Tower",
+                  "text": "The DZLB Transmission Tower is a broadcasting structure serving the University of the Philippines Los Baños area.",
+                  "category": "tower",
+                  "coords": [
+                        121.242956,
+                        14.168016
+                  ]
+            },
+            {
+                  "name": "Mount Mahanggulod",
+                  "text": "Mount Mahanggulod is a natural peak rising above the verdant landscape of the Los Baños region.",
+                  "category": "natural",
+                  "coords": [
+                        121.242297,
+                        14.130081
+                  ]
+            },
+            {
+                  "name": "Mount Bulalo",
+                  "text": "Mount Bulalo is a scenic mountain peak that forms part of the rugged terrain surrounding the area.",
+                  "category": "natural",
+                  "coords": [
+                        121.226046,
+                        14.101158
+                  ]
+            },
+            {
+                  "name": "Mount Cabulugan",
+                  "text": "Mount Cabulugan is an elevated peak offering sweeping views of the surrounding natural terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.214117,
+                        14.118426
+                  ]
+            },
+            {
+                  "name": "Mount Putinglupa",
+                  "text": "Mount Putinglupa is a local mountain peak whose name translates to \"white earth\" in the native language.",
+                  "category": "natural",
+                  "coords": [
+                        121.229861,
+                        14.131341
+                  ]
+            },
+            {
+                  "name": "Mount Putong Bay",
+                  "text": "Mount Putong Bay is a prominent peak rising within the mountainous landscape of the local region.",
+                  "category": "natural",
+                  "coords": [
+                        121.245751,
+                        14.135011
+                  ]
+            },
+            {
+                  "name": "Mount Tayog Pato",
+                  "text": "Mount Tayog Pato stands as a natural mountain summit forming part of the area's scenic topography.",
+                  "category": "natural",
+                  "coords": [
+                        121.246458,
+                        14.142995
+                  ]
+            },
+            {
+                  "name": "Imoc Hill",
+                  "text": "Imoc Hill is a notable upland rise offering a vantage point over the verdant lowland surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        121.304317,
+                        14.112663
+                  ]
+            },
+            {
+                  "name": "Riceworld",
+                  "text": "Riceworld is an educational museum of the International Rice Research Institute dedicated entirely to the science and cultivation of rice.",
+                  "category": "museum",
+                  "coords": [
+                        121.254548,
+                        14.168444
+                  ]
+            },
+            {
+                  "name": "Cleanergy Center",
+                  "text": "The Cleanergy Center is an educational facility featuring interactive exhibits on renewable energy and power generation.",
+                  "category": "museum",
+                  "coords": [
+                        121.225656,
+                        14.090482
+                  ]
+            },
+            {
+                  "name": "Former Site of MRH Unit 1",
+                  "text": "The Former Site of MRH Unit 1 contains the structural ruins of a past university residential hall.",
+                  "category": "historical",
+                  "coords": [
+                        121.24047,
+                        14.161021
+                  ]
+            },
+            {
+                  "name": "UPLB Oblation",
+                  "text": "The UPLB Oblation is a symbolic bronze statue depicting a naked man with outstretched arms, representing selfless offering to the nation.",
+                  "category": "historical",
+                  "coords": [
+                        121.241552,
+                        14.165003
+                  ]
+            },
+            {
+                  "name": "UPOU Oblation",
+                  "text": "The UPOU Oblation is a prominent campus monument symbolising academic freedom and public service at the Open University.",
+                  "category": "historical",
+                  "coords": [
+                        121.26265,
+                        14.174877
+                  ]
+            },
+            {
+                  "name": "UPLB Academic Heritage Tower",
+                  "text": "The UPLB Academic Heritage Tower is a commemorative structure celebrating the educational legacy of the university.",
+                  "category": "historical",
+                  "coords": [
+                        121.242652,
+                        14.166277
+                  ]
+            },
+            {
+                  "name": "The Chimney",
+                  "text": "The Chimney stands as a solitary masonry ruin, hinting at the historical industrial or residential activity of the site.",
+                  "category": "historical",
+                  "coords": [
+                        121.241482,
+                        14.166222
+                  ]
+            },
+            {
+                  "name": "Dioscoro L. Umali Hall",
+                  "text": "Opened in 1969, the Dioscoro L. Umali Hall is a large campus theatre that hosts major university convocations and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        121.24013,
+                        14.163984
+                  ]
+            },
+            {
+                  "name": "Los Baños Seventh-Day Adventist Church",
+                  "text": "The Los Baños Seventh-Day Adventist Church is a local religious building where the Sabbath-keeping congregation gathers for worship.",
+                  "category": "religious",
+                  "coords": [
+                        121.244435,
+                        14.175157
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo - Locale of Victoria",
+                  "text": "The Iglesia ni Cristo - Locale of Victoria features the denomination's distinctive spired architecture and serves as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        121.326457,
+                        14.226619
+                  ]
+            },
+            {
+                  "name": "Christ Commission Fellowship - Bay",
+                  "text": "Christ Commission Fellowship in Bay is a non-denominational Christian church providing modern worship services and spiritual fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        121.273998,
+                        14.159406
+                  ]
+            },
+            {
+                  "name": "Victorius Cross Christian Fellowship Church",
+                  "text": "The Victorius Cross Christian Fellowship Church is a local congregation gathering in a dedicated sanctuary for prayer and religious study.",
+                  "category": "religious",
+                  "coords": [
+                        121.256256,
+                        14.179462
+                  ]
+            },
+            {
+                  "name": "Sitio Pag-asa Sub Parish",
+                  "text": "Sitio Pag-asa Sub Parish is a modest Catholic community church established to serve the spiritual needs of the local neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        121.251456,
+                        14.17171
+                  ]
+            },
+            {
+                  "name": "2428 Grocers Corporation (Gina's Store)",
+                  "text": "Known locally as Gina's Store, this neighborhood marketplace offers a variety of everyday groceries and fresh local produce.",
+                  "category": "cultural",
+                  "coords": [
+                        121.240961,
+                        14.179695
+                  ]
+            },
+            {
+                  "name": "Bay Public Market",
+                  "text": "Bay Public Market serves as a central trading spot for the municipality, packed with stalls offering local agricultural harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        121.285432,
+                        14.180406
+                  ]
+            },
+            {
+                  "name": "Calauan Public Market",
+                  "text": "Calauan Public Market is the town's primary open-air bazaar, frequented by locals purchasing fresh seafood and seasonal fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        121.315002,
+                        14.146877
+                  ]
+            },
+            {
+                  "name": "Makiling Rainforest Park - Central Nursery",
+                  "text": "The Central Nursery of the Makiling Rainforest Park cultivates a diverse array of endemic tree saplings and tropical flora.",
+                  "category": "landmark",
+                  "coords": [
+                        121.228216,
+                        14.135151
+                  ]
+            },
+            {
+                  "name": "Dao sa SU",
+                  "text": "Dao sa SU is an iconic and massive Dao tree serving as a popular natural landmark at the university's Student Union area.",
+                  "category": "landmark",
+                  "coords": [
+                        121.241302,
+                        14.162983
+                  ]
+            },
+            {
+                  "name": "Mud Springs",
+                  "text": "Mud Springs is a geothermal attraction on Mount Makiling featuring bubbling pools of hot, sulfuric mud.",
+                  "category": "landmark",
+                  "coords": [
+                        121.221184,
+                        14.136626
+                  ]
+            },
+            {
+                  "name": "Fertility Tree",
+                  "text": "The Fertility Tree is a sprawling, centuries-old acacia on the university campus, historically surrounded by student folklore.",
+                  "category": "landmark",
+                  "coords": [
+                        121.24259,
+                        14.159816
+                  ]
+            },
+            {
+                  "name": "Kapok Tree",
+                  "text": "This towering Kapok Tree is a notable botanical specimen on the campus, easily recognised by its spiky trunk and fluffy seed pods.",
+                  "category": "landmark",
+                  "coords": [
+                        121.241255,
+                        14.163897
+                  ]
+            },
+            {
+                  "name": "Fantasy Farm",
+                  "text": "Fantasy Farm is a family-oriented agritourism attraction featuring colourful gardens and interactive animal encounters.",
+                  "category": "landmark",
+                  "coords": [
+                        121.316352,
+                        14.160498
+                  ]
+            },
+            {
+                  "name": "Hidden Valley Springs",
+                  "text": "Hidden Valley Springs is an ecological resort nestled within a secluded tropical rainforest, offering natural thermal pools for its guests.",
+                  "category": "landmark",
+                  "coords": [
+                        121.258003,
+                        14.095889
+                  ]
+            },
+            {
+                  "name": "Vraja Eco Village - ISKCON Temple",
+                  "text": "The Vraja Eco Village features an ISKCON Hare Krishna temple that integrates sustainable agriculture with spiritual retreat practices.",
+                  "category": "landmark",
+                  "coords": [
+                        121.259356,
+                        14.091115
+                  ]
+            },
+            {
+                  "name": "Grand Harvest Christian Ministries",
+                  "text": "Grand Harvest Christian Ministries is an evangelical community center dedicated to hosting spirited praise and worship gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        121.274576,
+                        14.151189
+                  ]
+            },
+            {
+                  "name": "Christ Covenant Church",
+                  "text": "Christ Covenant Church is a local Christian sanctuary where families gather weekly for biblical teaching and communal prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        121.275039,
+                        14.158829
+                  ]
+            },
+            {
+                  "name": "Church Among the Palms",
+                  "text": "Set amidst a grove of tropical palm trees, the Church Among the Palms provides a peaceful, shaded venue for Christian worship.",
+                  "category": "landmark",
+                  "coords": [
+                        121.240362,
+                        14.167641
+                  ]
+            },
+            {
+                  "name": "Church in Los Baños Meeting Hall",
+                  "text": "The Church in Los Baños Meeting Hall is a practical assembly building designed for Christian fellowship and regular scripture study.",
+                  "category": "landmark",
+                  "coords": [
+                        121.242466,
+                        14.169543
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "PH-LAG",
     coords: [121.258, 14.168],
@@ -973,7 +17443,1312 @@ image: "/poi-images/ph-irri-rice-research-life-v2.webp",
     
   },
   {
-    id: "ph-avilon-zoo-life-v2",
+    id: "ph-avilon-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pamitinan Cave",
+                  "text": "Eine historisch bedeutsame Kalksteinhöhle, in der Andres Bonifacio und andere Katipuneros 1895 die Unabhängigkeit von Spanien erklärten.",
+                  "category": "natural",
+                  "coords": [
+                        121.189225,
+                        14.730121
+                  ]
+            },
+            {
+                  "name": "Pamitinan Protected Landscape",
+                  "text": "Ein 908 Hektar großes Schutzgebiet in den Ausläufern der Sierra Madre, das die lokale Flora und Fauna bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        121.190028,
+                        14.733894
+                  ]
+            },
+            {
+                  "name": "Avilon Zoo",
+                  "text": "Ein 7,5 Hektar großer zoologischer Park, der Tausende von Tieren beherbergt und der größte Zoo der Philippinen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        121.152174,
+                        14.744309
+                  ]
+            },
+            {
+                  "name": "Mount Hapunang Banoy",
+                  "text": "Ein Berggipfel, der für seine zerklüfteten Kalksteinfelsformationen und malerischen Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.191622,
+                        14.739579
+                  ]
+            },
+            {
+                  "name": "Mount Binicayan",
+                  "text": "Ein markanter Kalksteingipfel, der Wanderern Panoramablicke bietet, einschließlich eines berühmten Wolkenmeeres.",
+                  "category": "natural",
+                  "coords": [
+                        121.190579,
+                        14.72513
+                  ]
+            },
+            {
+                  "name": "Mount Pamitinan",
+                  "text": "Ein markanter Kalksteinberg, der bei Wanderanfängern beliebt ist und in der Nähe des Wawa-Staudamms liegt.",
+                  "category": "natural",
+                  "coords": [
+                        121.191461,
+                        14.731139
+                  ]
+            },
+            {
+                  "name": "Tugbok ti Apánluk",
+                  "text": "Ein Berggipfel mit zerklüftetem Gelände und weiten Naturlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        121.171361,
+                        14.724937
+                  ]
+            },
+            {
+                  "name": "Mount Compananan",
+                  "text": "Ein bemerkenswerter Gipfel in der Region, der anspruchsvolle Pfade und Ausblicke auf die umliegende Wildnis bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.234416,
+                        14.735502
+                  ]
+            },
+            {
+                  "name": "Mount Malemod",
+                  "text": "Ein malerischer Berggipfel, der Trekker anzieht, die ruhige Naturerlebnisse in der lokalen Bergkette suchen.",
+                  "category": "natural",
+                  "coords": [
+                        121.230966,
+                        14.756705
+                  ]
+            },
+            {
+                  "name": "Mount Ayaas",
+                  "text": "Ein grasbewachsener Berggipfel, der Wanderern einen weiten Blick auf die umliegenden Hügel und Wasserwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.207755,
+                        14.751117
+                  ]
+            },
+            {
+                  "name": "Mount Malac",
+                  "text": "Ein bewaldeter Gipfel, der für seine Artenvielfalt und steilen, unbefestigten Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.226849,
+                        14.79342
+                  ]
+            },
+            {
+                  "name": "Mount Caypipili",
+                  "text": "Ein natürlicher Gipfel in der lokalen Bergkette, der sich durch seine dichte tropische Vegetation auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        121.234346,
+                        14.773299
+                  ]
+            },
+            {
+                  "name": "Mount Bituan",
+                  "text": "Ein ruhiger Gipfel, der eine abenteuerliche Wanderung durch unberührte Waldlandschaften bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.255513,
+                        14.822909
+                  ]
+            },
+            {
+                  "name": "Mount Lubog",
+                  "text": "Ein markanter Berggipfel mit komplexer Karsttopographie und anspruchsvollen Kletterbedingungen.",
+                  "category": "natural",
+                  "coords": [
+                        121.236976,
+                        14.839025
+                  ]
+            },
+            {
+                  "name": "Mount Lacutan",
+                  "text": "Ein erhöhter Naturgipfel, der wegen seines weiten Blicks auf die umliegende Provinzlandschaft beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        121.153755,
+                        14.799271
+                  ]
+            },
+            {
+                  "name": "Mount Oriod",
+                  "text": "Ein abgelegener Berggipfel, der ein intensives Wandererlebnis durch raues Naturterrain bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.221031,
+                        14.869598
+                  ]
+            },
+            {
+                  "name": "Pentecostal Missionary Church of Christ (4th watch)",
+                  "text": "Diese pfingstliche Freikirche der 4th Watch-Bewegung bietet einen Ort für lokale christliche Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        121.141217,
+                        14.745585
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Das markante Gebäude der Iglesia Ni Cristo ist ein wichtiges Gotteshaus dieser unabhängigen christlichen Konfession.",
+                  "category": "religious",
+                  "coords": [
+                        121.130272,
+                        14.758713
+                  ]
+            },
+            {
+                  "name": "Gethsemane Prayer Mountain",
+                  "text": "Der Gethsemane Prayer Mountain ist ein in die Natur eingebetteter, ruhiger Rückzugsort für Gebet und Meditation.",
+                  "category": "religious",
+                  "coords": [
+                        121.173809,
+                        14.755364
+                  ]
+            },
+            {
+                  "name": "Mother of Good Counsel Monastery",
+                  "text": "Das Mother of Good Counsel Monastery ist ein Klosterkomplex, der sich dem spirituellen und kontemplativen Leben widmet.",
+                  "category": "religious",
+                  "coords": [
+                        121.106328,
+                        14.792024
+                  ]
+            },
+            {
+                  "name": "Claret Catholic Church",
+                  "text": "Die Claret Catholic Church ist ein katholisches Gotteshaus, das regelmäßige Messen für die örtliche Gemeinde abhält.",
+                  "category": "religious",
+                  "coords": [
+                        121.148954,
+                        14.748473
+                  ]
+            },
+            {
+                  "name": "Merkantot",
+                  "text": "Der Merkantot-Markt ist ein belebter lokaler Handelsplatz, auf dem Alltagsgüter und frische Produkte verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        121.13451,
+                        14.756843
+                  ]
+            },
+            {
+                  "name": "Dansalan Market",
+                  "text": "Der Dansalan Market bietet eine Vielzahl von Ständen, an denen lokale Händler ihre Waren feilbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        121.138655,
+                        14.745869
+                  ]
+            },
+            {
+                  "name": "Ka Domeng Wet and Dry Market",
+                  "text": "Der Ka Domeng Wet and Dry Market ist ein traditioneller Markt, der frische Lebensmittel und Haushaltswaren kombiniert.",
+                  "category": "cultural",
+                  "coords": [
+                        121.085991,
+                        14.809709
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet Besuchern einen weiten Blick über die umliegende Landschaft der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        121.190183,
+                        14.723717
+                  ]
+            },
+            {
+                  "name": "Balete Tree",
+                  "text": "Der riesige Balete-Baum, eine markante Würgefeige, ist eine faszinierende natürliche Attraktion der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        121.188868,
+                        14.732422
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Die Blue Lagoon ist ein Gewässer, dessen Name von seiner charakteristischen, oft klaren Färbung herrührt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.226568,
+                        14.83402
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo Lokal ng Bagong Buhay",
+                  "text": "Die christliche Gemeinde Iglesia ni Cristo Lokal ng Bagong Buhay versammelt sich in diesem lokalen Gotteshaus.",
+                  "category": "landmark",
+                  "coords": [
+                        121.138527,
+                        14.7542
+                  ]
+            },
+            {
+                  "name": "God's Precious Pebbles Church Ministry",
+                  "text": "Die God's Precious Pebbles Church Ministry ist eine christliche Einrichtung, die sich der spirituellen Betreuung widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.164222,
+                        14.755781
+                  ]
+            },
+            {
+                  "name": "Blessed Sacrament Novitiate",
+                  "text": "Das Blessed Sacrament Novitiate dient der religiösen Ausbildung und spirituellen Formung christlicher Novizen.",
+                  "category": "landmark",
+                  "coords": [
+                        121.118773,
+                        14.793418
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Dieses Versammlungshaus der Kirche Jesu Christi der Heiligen der Letzten Tage ist ein Zentrum für mormonische Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        121.161608,
+                        14.733044
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "Die Immaculate Conception Chapel ist eine christliche Kapelle, die der Unbefleckten Empfängnis geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.137489,
+                        14.752645
+                  ]
+            },
+            {
+                  "name": "Raudhatul Salam Mosque",
+                  "text": "Die Raudhatul Salam Moschee ist ein islamisches Gotteshaus, in dem sich die muslimische Gemeinschaft zum Gebet trifft.",
+                  "category": "landmark",
+                  "coords": [
+                        121.148982,
+                        14.763063
+                  ]
+            },
+            {
+                  "name": "Padre Pio Mountain of Healing",
+                  "text": "Der Padre Pio Mountain of Healing ist eine christliche Pilgerstätte, die Gläubige auf der Suche nach Heilung anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        121.107851,
+                        14.834488
+                  ]
+            },
+            {
+                  "name": "Metro Manila Skyline Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen beeindruckenden Blick auf die Skyline der Metropolregion Manila.",
+                  "category": "natural",
+                  "coords": [
+                        121.219067,
+                        14.813371
+                  ]
+            },
+            {
+                  "name": "Biak na Mukha",
+                  "text": "Der Aussichtspunkt Biak na Mukha bietet Besuchern einen Panoramablick auf die umgebende hügelige Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        121.177901,
+                        14.816811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pamitinan Cave",
+                  "text": "Történelmileg jelentős mészkőbarlang, ahol Andres Bonifacio és más katipunerók 1895-ben kikiáltották a Spanyolországtól való függetlenséget.",
+                  "category": "natural",
+                  "coords": [
+                        121.189225,
+                        14.730121
+                  ]
+            },
+            {
+                  "name": "Pamitinan Protected Landscape",
+                  "text": "Egy 908 hektáros védett terület a Sierra Madre hegységben, amely megőrzi a helyi növény- és állatvilágot.",
+                  "category": "natural",
+                  "coords": [
+                        121.190028,
+                        14.733894
+                  ]
+            },
+            {
+                  "name": "Avilon Zoo",
+                  "text": "Egy 7,5 hektáros állatkert, amely több ezer állatnak ad otthont, és a Fülöp-szigetek legnagyobb állatkertjeként működik.",
+                  "category": "recreational",
+                  "coords": [
+                        121.152174,
+                        14.744309
+                  ]
+            },
+            {
+                  "name": "Mount Hapunang Banoy",
+                  "text": "Egy hegycsúcs, amely csipkézett mészkő sziklaalakzatairól és festői túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.191622,
+                        14.739579
+                  ]
+            },
+            {
+                  "name": "Mount Binicayan",
+                  "text": "Különleges mészkőcsúcs, amely panorámás kilátást, többek között egy híres felhőtengert kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        121.190579,
+                        14.72513
+                  ]
+            },
+            {
+                  "name": "Mount Pamitinan",
+                  "text": "Egy kiemelkedő mészkőhegy, amely népszerű a kezdő túrázók körében, és a Wawa-gát közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        121.191461,
+                        14.731139
+                  ]
+            },
+            {
+                  "name": "Tugbok ti Apánluk",
+                  "text": "Sziklás tereppel és panorámás természeti tájakkal rendelkező hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        121.171361,
+                        14.724937
+                  ]
+            },
+            {
+                  "name": "Mount Compananan",
+                  "text": "A régió egyik figyelemre méltó csúcsa, amely kihívást jelentő ösvényeket és kilátást kínál a környező vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        121.234416,
+                        14.735502
+                  ]
+            },
+            {
+                  "name": "Mount Malemod",
+                  "text": "Festői hegycsúcs, amely csendes természetbeli kikapcsolódásra vágyó túrázókat vonz a helyi hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        121.230966,
+                        14.756705
+                  ]
+            },
+            {
+                  "name": "Mount Ayaas",
+                  "text": "Füves hegycsúcs, amelyről a túrázók számára széles kilátás nyílik a környező dombokra és vízi utakra.",
+                  "category": "natural",
+                  "coords": [
+                        121.207755,
+                        14.751117
+                  ]
+            },
+            {
+                  "name": "Mount Malac",
+                  "text": "Erdős csúcs, amely biológiai sokféleségéről és meredek, burkolatlan túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        121.226849,
+                        14.79342
+                  ]
+            },
+            {
+                  "name": "Mount Caypipili",
+                  "text": "A helyi hegység egyik természetes csúcsa, amelyet sűrű trópusi növényzete jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        121.234346,
+                        14.773299
+                  ]
+            },
+            {
+                  "name": "Mount Bituan",
+                  "text": "Csendes csúcs, amely kalandos túrát kínál az érintetlen erdei tájakon keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        121.255513,
+                        14.822909
+                  ]
+            },
+            {
+                  "name": "Mount Lubog",
+                  "text": "Kiemelkedő hegycsúcs, amely összetett karsztos domborzattal és kihívást jelentő mászási körülményekkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        121.236976,
+                        14.839025
+                  ]
+            },
+            {
+                  "name": "Mount Lacutan",
+                  "text": "Magasan fekvő természetes csúcs, amelyet a környező tartományi tájra nyíló széles kilátás miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        121.153755,
+                        14.799271
+                  ]
+            },
+            {
+                  "name": "Mount Oriod",
+                  "text": "Félreeső hegycsúcs, amely elmélyült túrázási élményt nyújt a zord természeti terepen keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        121.221031,
+                        14.869598
+                  ]
+            },
+            {
+                  "name": "Pentecostal Missionary Church of Christ (4th watch)",
+                  "text": "Ez a pünkösdi 4. Őrváltás missziós gyülekezet a helyi közösség számára biztosít istentiszteleti helyet.",
+                  "category": "religious",
+                  "coords": [
+                        121.141217,
+                        14.745585
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Az Iglesia Ni Cristo jellegzetes épülete e független keresztény felekezet fontos istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        121.130272,
+                        14.758713
+                  ]
+            },
+            {
+                  "name": "Gethsemane Prayer Mountain",
+                  "text": "A Gethsemane Imádság Hegye egy természetben elhelyezkedő, csendes elvonulóhely a vallási meditációhoz.",
+                  "category": "religious",
+                  "coords": [
+                        121.173809,
+                        14.755364
+                  ]
+            },
+            {
+                  "name": "Mother of Good Counsel Monastery",
+                  "text": "A Jó Tanács Anyja Kolostor egy vallási épületegyüttes, amely a szemlélődő és spirituális életnek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        121.106328,
+                        14.792024
+                  ]
+            },
+            {
+                  "name": "Claret Catholic Church",
+                  "text": "A Claret Katolikus Templom egy katolikus imahely, amely rendszeres szentmiséket tart a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.148954,
+                        14.748473
+                  ]
+            },
+            {
+                  "name": "Merkantot",
+                  "text": "A Merkantot piac egy nyüzsgő helyi kereskedelmi tér, ahol mindennapi cikkeket és friss terményeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        121.13451,
+                        14.756843
+                  ]
+            },
+            {
+                  "name": "Dansalan Market",
+                  "text": "A Dansalan Piac számos standdal várja a vásárlókat, ahol a helyi árusok kínálják portékáikat.",
+                  "category": "cultural",
+                  "coords": [
+                        121.138655,
+                        14.745869
+                  ]
+            },
+            {
+                  "name": "Ka Domeng Wet and Dry Market",
+                  "text": "A Ka Domeng Wet and Dry Market egy hagyományos piac, amely a friss élelmiszereket és a háztartási cikkeket ötvözi.",
+                  "category": "cultural",
+                  "coords": [
+                        121.085991,
+                        14.809709
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "Ez a kilátó széles panorámát nyújt a látogatóknak a régió környező tájára.",
+                  "category": "landmark",
+                  "coords": [
+                        121.190183,
+                        14.723717
+                  ]
+            },
+            {
+                  "name": "Balete Tree",
+                  "text": "A hatalmas Balete-fa, amely egy jellegzetes fojtófüge, a környék egyik lenyűgöző természeti látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        121.188868,
+                        14.732422
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "A Blue Lagoon egy olyan vízfelület, amelynek neve jellegzetes, gyakran tiszta kék színéből ered.",
+                  "category": "landmark",
+                  "coords": [
+                        121.226568,
+                        14.83402
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo Lokal ng Bagong Buhay",
+                  "text": "Az Iglesia ni Cristo Lokal ng Bagong Buhay keresztény közösség ezen a helyi imahelyen tartja összejöveteleit.",
+                  "category": "landmark",
+                  "coords": [
+                        121.138527,
+                        14.7542
+                  ]
+            },
+            {
+                  "name": "God's Precious Pebbles Church Ministry",
+                  "text": "A God's Precious Pebbles Church Ministry egy keresztény intézmény, amely a spirituális gondozásnak szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        121.164222,
+                        14.755781
+                  ]
+            },
+            {
+                  "name": "Blessed Sacrament Novitiate",
+                  "text": "A Blessed Sacrament Novitiate a keresztény novíciusok vallási képzését és spirituális formálását szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        121.118773,
+                        14.793418
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyházának ez a gyülekezeti háza a mormon istentiszteletek központja.",
+                  "category": "landmark",
+                  "coords": [
+                        121.161608,
+                        14.733044
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "Az Immaculate Conception Chapel egy Szeplőtelen Fogantatásnak szentelt keresztény kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        121.137489,
+                        14.752645
+                  ]
+            },
+            {
+                  "name": "Raudhatul Salam Mosque",
+                  "text": "A Raudhatul Salam Mecset egy iszlám imahely, ahol a muszlim közösség összegyűlik imádkozni.",
+                  "category": "landmark",
+                  "coords": [
+                        121.148982,
+                        14.763063
+                  ]
+            },
+            {
+                  "name": "Padre Pio Mountain of Healing",
+                  "text": "A Padre Pio Gyógyulás Hegye egy keresztény zarándokhely, amely a gyógyulást kereső hívőket vonzza.",
+                  "category": "landmark",
+                  "coords": [
+                        121.107851,
+                        14.834488
+                  ]
+            },
+            {
+                  "name": "Metro Manila Skyline Viewpoint",
+                  "text": "Ez a kilátópont lenyűgöző panorámát nyújt a Fővárosi Régió, Manila égboltjára.",
+                  "category": "natural",
+                  "coords": [
+                        121.219067,
+                        14.813371
+                  ]
+            },
+            {
+                  "name": "Biak na Mukha",
+                  "text": "A Biak na Mukha kilátó panorámás kilátást nyújt a látogatóknak a környező dombos tájra.",
+                  "category": "natural",
+                  "coords": [
+                        121.177901,
+                        14.816811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pamitinan Cave",
+                  "text": "O peșteră de calcar semnificativă istoric în care Andres Bonifacio și alți Katipuneros au declarat independența față de Spania în 1895.",
+                  "category": "natural",
+                  "coords": [
+                        121.189225,
+                        14.730121
+                  ]
+            },
+            {
+                  "name": "Pamitinan Protected Landscape",
+                  "text": "O arie protejată de 908 hectare în lanțul muntos Sierra Madre care conservă flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        121.190028,
+                        14.733894
+                  ]
+            },
+            {
+                  "name": "Avilon Zoo",
+                  "text": "Un parc zoologic de 7,5 hectare care adăpostește mii de animale și este cel mai mare grădină zoologică din Filipine.",
+                  "category": "recreational",
+                  "coords": [
+                        121.152174,
+                        14.744309
+                  ]
+            },
+            {
+                  "name": "Mount Hapunang Banoy",
+                  "text": "Un vârf de munte cunoscut pentru formațiunile sale stâncoase de calcar și traseele pitorești de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        121.191622,
+                        14.739579
+                  ]
+            },
+            {
+                  "name": "Mount Binicayan",
+                  "text": "Un vârf distinct de calcar care oferă drumeților vederi panoramice, inclusiv o faimoasă mare de nori.",
+                  "category": "natural",
+                  "coords": [
+                        121.190579,
+                        14.72513
+                  ]
+            },
+            {
+                  "name": "Mount Pamitinan",
+                  "text": "Un munte proeminent de calcar popular printre excursioniștii începători, situat lângă barajul Wawa.",
+                  "category": "natural",
+                  "coords": [
+                        121.191461,
+                        14.731139
+                  ]
+            },
+            {
+                  "name": "Tugbok ti Apánluk",
+                  "text": "Un vârf de munte cu teren accidentat și peisaje naturale panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        121.171361,
+                        14.724937
+                  ]
+            },
+            {
+                  "name": "Mount Compananan",
+                  "text": "Un vârf notabil din regiune care oferă trasee provocatoare și vederi ale sălbăticiei din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.234416,
+                        14.735502
+                  ]
+            },
+            {
+                  "name": "Mount Malemod",
+                  "text": "Un vârf de munte pitoresc care atrage pasionații de drumeții în căutare de evadări liniștite în natură în lanțul local.",
+                  "category": "natural",
+                  "coords": [
+                        121.230966,
+                        14.756705
+                  ]
+            },
+            {
+                  "name": "Mount Ayaas",
+                  "text": "Un vârf de munte înierbat care oferă drumeților vederi ample asupra dealurilor și căilor navigabile din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.207755,
+                        14.751117
+                  ]
+            },
+            {
+                  "name": "Mount Malac",
+                  "text": "Un vârf împădurit cunoscut pentru biodiversitatea sa și traseele de drumeție abrupte, neasfaltate.",
+                  "category": "natural",
+                  "coords": [
+                        121.226849,
+                        14.79342
+                  ]
+            },
+            {
+                  "name": "Mount Caypipili",
+                  "text": "Un vârf natural din lanțul muntos local care se distinge prin vegetația sa tropicală densă.",
+                  "category": "natural",
+                  "coords": [
+                        121.234346,
+                        14.773299
+                  ]
+            },
+            {
+                  "name": "Mount Bituan",
+                  "text": "Un vârf senin care oferă o drumeție plină de aventură prin peisaje împădurite neatinse.",
+                  "category": "natural",
+                  "coords": [
+                        121.255513,
+                        14.822909
+                  ]
+            },
+            {
+                  "name": "Mount Lubog",
+                  "text": "Un vârf de munte proeminent, cu o topografie carstică complexă și condiții de alpinism provocatoare.",
+                  "category": "natural",
+                  "coords": [
+                        121.236976,
+                        14.839025
+                  ]
+            },
+            {
+                  "name": "Mount Lacutan",
+                  "text": "Un vârf natural înalt, favorizat pentru priveliștile sale ample asupra peisajului provincial din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.153755,
+                        14.799271
+                  ]
+            },
+            {
+                  "name": "Mount Oriod",
+                  "text": "Un vârf de munte izolat care oferă o experiență captivantă de drumeție pe un teren natural accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        121.221031,
+                        14.869598
+                  ]
+            },
+            {
+                  "name": "Pentecostal Missionary Church of Christ (4th watch)",
+                  "text": "Această biserică misionară penticostală din a 4-a Veghe servește ca loc de adunare și rugăciune pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        121.141217,
+                        14.745585
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "Clădirea distinctivă a Iglesia Ni Cristo este un lăcaș de cult important pentru această confesiune creștină independentă.",
+                  "category": "religious",
+                  "coords": [
+                        121.130272,
+                        14.758713
+                  ]
+            },
+            {
+                  "name": "Gethsemane Prayer Mountain",
+                  "text": "Muntele de Rugăciune Gethsemane este o locație de retragere liniștită, integrată în natură, destinată meditației spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        121.173809,
+                        14.755364
+                  ]
+            },
+            {
+                  "name": "Mother of Good Counsel Monastery",
+                  "text": "Mănăstirea Maicii Bunului Sfat este un complex monahal dedicat vieții spirituale și contemplative.",
+                  "category": "religious",
+                  "coords": [
+                        121.106328,
+                        14.792024
+                  ]
+            },
+            {
+                  "name": "Claret Catholic Church",
+                  "text": "Biserica Catolică Claret este un lăcaș de cult catolic care oficiază slujbe regulate pentru parohia locală.",
+                  "category": "religious",
+                  "coords": [
+                        121.148954,
+                        14.748473
+                  ]
+            },
+            {
+                  "name": "Merkantot",
+                  "text": "Piața Merkantot este un loc de comerț local plin de viață, unde se vând bunuri de zi cu zi și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        121.13451,
+                        14.756843
+                  ]
+            },
+            {
+                  "name": "Dansalan Market",
+                  "text": "Piața Dansalan oferă o varietate de tarabe unde comercianții locali își expun mărfurile.",
+                  "category": "cultural",
+                  "coords": [
+                        121.138655,
+                        14.745869
+                  ]
+            },
+            {
+                  "name": "Ka Domeng Wet and Dry Market",
+                  "text": "Piața agroalimentară și de mărfuri Ka Domeng este un târg tradițional ce combină vânzarea de alimente proaspete cu cea de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        121.085991,
+                        14.809709
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "Acest punct de belvedere oferă vizitatorilor o panoramă largă asupra peisajului înconjurător al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        121.190183,
+                        14.723717
+                  ]
+            },
+            {
+                  "name": "Balete Tree",
+                  "text": "Uriașul copac Balete, un ficus strangulator proeminent, este o atracție naturală fascinantă a zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        121.188868,
+                        14.732422
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Laguna Albastră este o atracție acvatică al cărei nume provine de la culoarea sa caracteristică, adesea clară.",
+                  "category": "landmark",
+                  "coords": [
+                        121.226568,
+                        14.83402
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo Lokal ng Bagong Buhay",
+                  "text": "Comunitatea creștină Iglesia ni Cristo Lokal ng Bagong Buhay se adună în acest lăcaș de cult local.",
+                  "category": "landmark",
+                  "coords": [
+                        121.138527,
+                        14.7542
+                  ]
+            },
+            {
+                  "name": "God's Precious Pebbles Church Ministry",
+                  "text": "God's Precious Pebbles Church Ministry este o facilitate creștină dedicată asistenței și îndrumării spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        121.164222,
+                        14.755781
+                  ]
+            },
+            {
+                  "name": "Blessed Sacrament Novitiate",
+                  "text": "Noviciatul Preasfântului Sacrament servește pregătirii religioase și formării spirituale a novicilor creștini.",
+                  "category": "landmark",
+                  "coords": [
+                        121.118773,
+                        14.793418
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Această casă de întruniri a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă este un centru pentru slujbele mormone.",
+                  "category": "landmark",
+                  "coords": [
+                        121.161608,
+                        14.733044
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "Capela Neprihănitei Zămisliri este un mic lăcaș de cult creștin dedicat acestui dogme.",
+                  "category": "landmark",
+                  "coords": [
+                        121.137489,
+                        14.752645
+                  ]
+            },
+            {
+                  "name": "Raudhatul Salam Mosque",
+                  "text": "Moscheea Raudhatul Salam este un lăcaș de cult islamic unde comunitatea musulmană se întâlnește pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        121.148982,
+                        14.763063
+                  ]
+            },
+            {
+                  "name": "Padre Pio Mountain of Healing",
+                  "text": "Muntele Vindecării Padre Pio este un loc de pelerinaj creștin care atrage credincioșii în căutarea alinării.",
+                  "category": "landmark",
+                  "coords": [
+                        121.107851,
+                        14.834488
+                  ]
+            },
+            {
+                  "name": "Metro Manila Skyline Viewpoint",
+                  "text": "Acest punct de observare oferă o vedere impresionantă a orizontului urban din regiunea metropolitană Manila.",
+                  "category": "natural",
+                  "coords": [
+                        121.219067,
+                        14.813371
+                  ]
+            },
+            {
+                  "name": "Biak na Mukha",
+                  "text": "Punctul de belvedere Biak na Mukha oferă vizitatorilor o panoramă a peisajului deluros din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.177901,
+                        14.816811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pamitinan Cave",
+                  "text": "A historically significant limestone cave where Andres Bonifacio and other Katipuneros declared independence from Spain in 1895.",
+                  "category": "natural",
+                  "coords": [
+                        121.189225,
+                        14.730121
+                  ]
+            },
+            {
+                  "name": "Pamitinan Protected Landscape",
+                  "text": "A 908-hectare protected area in the Sierra Madre mountain range that preserves local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        121.190028,
+                        14.733894
+                  ]
+            },
+            {
+                  "name": "Avilon Zoo",
+                  "text": "A 7.5-hectare zoological park that houses thousands of animals and serves as the largest zoo in the Philippines.",
+                  "category": "recreational",
+                  "coords": [
+                        121.152174,
+                        14.744309
+                  ]
+            },
+            {
+                  "name": "Mount Hapunang Banoy",
+                  "text": "A mountain peak known for its jagged limestone rock formations and scenic hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        121.191622,
+                        14.739579
+                  ]
+            },
+            {
+                  "name": "Mount Binicayan",
+                  "text": "A distinctive limestone peak offering hikers panoramic views, including a famous sea of clouds.",
+                  "category": "natural",
+                  "coords": [
+                        121.190579,
+                        14.72513
+                  ]
+            },
+            {
+                  "name": "Mount Pamitinan",
+                  "text": "A prominent limestone mountain popular among beginner hikers, situated near the Wawa Dam.",
+                  "category": "natural",
+                  "coords": [
+                        121.191461,
+                        14.731139
+                  ]
+            },
+            {
+                  "name": "Tugbok ti Apánluk",
+                  "text": "A mountain peak featuring rugged terrain and panoramic natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        121.171361,
+                        14.724937
+                  ]
+            },
+            {
+                  "name": "Mount Compananan",
+                  "text": "A notable peak in the region offering challenging trails and views of the surrounding wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        121.234416,
+                        14.735502
+                  ]
+            },
+            {
+                  "name": "Mount Malemod",
+                  "text": "A scenic mountain peak that attracts trekkers seeking quiet natural escapes in the local range.",
+                  "category": "natural",
+                  "coords": [
+                        121.230966,
+                        14.756705
+                  ]
+            },
+            {
+                  "name": "Mount Ayaas",
+                  "text": "A grassy mountain peak providing hikers with sweeping views of the surrounding hills and waterways.",
+                  "category": "natural",
+                  "coords": [
+                        121.207755,
+                        14.751117
+                  ]
+            },
+            {
+                  "name": "Mount Malac",
+                  "text": "A forested peak known for its biodiversity and steep, unpaved hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        121.226849,
+                        14.79342
+                  ]
+            },
+            {
+                  "name": "Mount Caypipili",
+                  "text": "A natural peak in the local mountain range distinguished by its dense tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        121.234346,
+                        14.773299
+                  ]
+            },
+            {
+                  "name": "Mount Bituan",
+                  "text": "A serene peak offering an adventurous hike through untouched woodland landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        121.255513,
+                        14.822909
+                  ]
+            },
+            {
+                  "name": "Mount Lubog",
+                  "text": "A prominent mountain peak featuring complex karst topography and challenging climbing conditions.",
+                  "category": "natural",
+                  "coords": [
+                        121.236976,
+                        14.839025
+                  ]
+            },
+            {
+                  "name": "Mount Lacutan",
+                  "text": "An elevated natural peak favored for its sweeping views of the surrounding provincial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.153755,
+                        14.799271
+                  ]
+            },
+            {
+                  "name": "Mount Oriod",
+                  "text": "A remote mountain peak providing an immersive hiking experience through rugged natural terrain.",
+                  "category": "natural",
+                  "coords": [
+                        121.221031,
+                        14.869598
+                  ]
+            },
+            {
+                  "name": "Pentecostal Missionary Church of Christ (4th watch)",
+                  "text": "This Pentecostal Missionary Church of Christ (4th Watch) provides a gathering place for local Christian worship.",
+                  "category": "religious",
+                  "coords": [
+                        121.141217,
+                        14.745585
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo",
+                  "text": "The distinctive building of the Iglesia Ni Cristo serves as an important place of worship for this independent Christian denomination.",
+                  "category": "religious",
+                  "coords": [
+                        121.130272,
+                        14.758713
+                  ]
+            },
+            {
+                  "name": "Gethsemane Prayer Mountain",
+                  "text": "Gethsemane Prayer Mountain is a peaceful, nature-bound retreat offering a quiet space for prayer and meditation.",
+                  "category": "religious",
+                  "coords": [
+                        121.173809,
+                        14.755364
+                  ]
+            },
+            {
+                  "name": "Mother of Good Counsel Monastery",
+                  "text": "The Mother of Good Counsel Monastery is a monastic complex dedicated to spiritual reflection and the contemplative life.",
+                  "category": "religious",
+                  "coords": [
+                        121.106328,
+                        14.792024
+                  ]
+            },
+            {
+                  "name": "Claret Catholic Church",
+                  "text": "Claret Catholic Church is a Catholic place of worship holding regular mass for the local parish community.",
+                  "category": "religious",
+                  "coords": [
+                        121.148954,
+                        14.748473
+                  ]
+            },
+            {
+                  "name": "Merkantot",
+                  "text": "Merkantot market is a bustling local trading area offering everyday goods and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        121.13451,
+                        14.756843
+                  ]
+            },
+            {
+                  "name": "Dansalan Market",
+                  "text": "Dansalan Market features a variety of stalls where local vendors sell their trade goods and produce.",
+                  "category": "cultural",
+                  "coords": [
+                        121.138655,
+                        14.745869
+                  ]
+            },
+            {
+                  "name": "Ka Domeng Wet and Dry Market",
+                  "text": "Ka Domeng Wet and Dry Market is a traditional marketplace combining fresh food stalls with household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        121.085991,
+                        14.809709
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "This viewpoint offers visitors sweeping panoramic views of the region's surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        121.190183,
+                        14.723717
+                  ]
+            },
+            {
+                  "name": "Balete Tree",
+                  "text": "The giant Balete Tree, a prominent strangler fig, stands as a fascinating natural attraction in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        121.188868,
+                        14.732422
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "The Blue Lagoon is a body of water named for its characteristic, often clear coloration.",
+                  "category": "landmark",
+                  "coords": [
+                        121.226568,
+                        14.83402
+                  ]
+            },
+            {
+                  "name": "Iglesia ni Cristo Lokal ng Bagong Buhay",
+                  "text": "The Christian congregation of Iglesia ni Cristo Lokal ng Bagong Buhay gathers in this local place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        121.138527,
+                        14.7542
+                  ]
+            },
+            {
+                  "name": "God's Precious Pebbles Church Ministry",
+                  "text": "God's Precious Pebbles Church Ministry is a Christian facility dedicated to spiritual care and local ministry.",
+                  "category": "landmark",
+                  "coords": [
+                        121.164222,
+                        14.755781
+                  ]
+            },
+            {
+                  "name": "Blessed Sacrament Novitiate",
+                  "text": "The Blessed Sacrament Novitiate serves as a religious training and spiritual formation center for Christian novices.",
+                  "category": "landmark",
+                  "coords": [
+                        121.118773,
+                        14.793418
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "This meetinghouse for The Church of Jesus Christ of Latter-day Saints is a center for Mormon worship and community activities.",
+                  "category": "landmark",
+                  "coords": [
+                        121.161608,
+                        14.733044
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception Chapel",
+                  "text": "The Immaculate Conception Chapel is a smaller Christian place of worship dedicated to the Immaculate Conception.",
+                  "category": "landmark",
+                  "coords": [
+                        121.137489,
+                        14.752645
+                  ]
+            },
+            {
+                  "name": "Raudhatul Salam Mosque",
+                  "text": "Raudhatul Salam Mosque is an Islamic place of worship where the Muslim community gathers for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        121.148982,
+                        14.763063
+                  ]
+            },
+            {
+                  "name": "Padre Pio Mountain of Healing",
+                  "text": "Padre Pio Mountain of Healing is a Christian pilgrimage destination attracting devotees seeking spiritual and physical healing.",
+                  "category": "landmark",
+                  "coords": [
+                        121.107851,
+                        14.834488
+                  ]
+            },
+            {
+                  "name": "Metro Manila Skyline Viewpoint",
+                  "text": "This vantage point provides an impressive elevated view of the sprawling Metro Manila skyline.",
+                  "category": "natural",
+                  "coords": [
+                        121.219067,
+                        14.813371
+                  ]
+            },
+            {
+                  "name": "Biak na Mukha",
+                  "text": "The Biak na Mukha viewpoint allows visitors to enjoy panoramic sights of the surrounding hilly landscape.",
+                  "category": "natural",
+                  "coords": [
+                        121.177901,
+                        14.816811
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "PH-RIZ",
     coords: [121.1764, 14.7961],
@@ -1027,7 +18802,1240 @@ image: "/poi-images/ph-avilon-zoo-life-v2.webp",
     
   },
   {
-    id: "ph-star-city-life-v2",
+    id: "ph-star-city-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "GSIS Museo ng Sining",
+                  "text": "Dieses Kunstmuseum beherbergt eine bedeutende Sammlung von Werken philippinischer Meister.",
+                  "category": "museum",
+                  "coords": [
+                        120.984383,
+                        14.547449
+                  ]
+            },
+            {
+                  "name": "Aliw Theater",
+                  "text": "Ein großer Veranstaltungsort für darstellende Künste, der für Konzerte, Ballette und Theaterproduktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        120.985855,
+                        14.556928
+                  ]
+            },
+            {
+                  "name": "Tanghalang Pambansa",
+                  "text": "Dieses von Leandro Locsin entworfene und 1969 eröffnete nationale Kunstzentrum ist der Hauptveranstaltungsort des Kulturzentrums der Philippinen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.985676,
+                        14.558312
+                  ]
+            },
+            {
+                  "name": "Folk Arts Theater",
+                  "text": "Das im Juli 1974 eröffnete, bekannte Theater ist Schauplatz bedeutender kultureller Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.980991,
+                        14.556771
+                  ]
+            },
+            {
+                  "name": "APEC Sculpture Garden",
+                  "text": "Dieser Skulpturengarten im Freien zeigt eine Sammlung einzigartiger Kunstwerke, die von den Mitgliedsstaaten der Asiatisch-Pazifischen Wirtschaftsgemeinschaft gestiftet wurden.",
+                  "category": "park",
+                  "coords": [
+                        120.981985,
+                        14.554881
+                  ]
+            },
+            {
+                  "name": "Star City",
+                  "text": "Ein bekannter Vergnügungspark, der eine Vielzahl an aufregenden Fahrgeschäften im Innen- und Außenbereich für alle Altersgruppen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        120.985717,
+                        14.555787
+                  ]
+            },
+            {
+                  "name": "Crocoseum",
+                  "text": "Eine pädagogische Museumsausstellung, die sich der Biologie der Krokodile und den Bemühungen um ihren Schutz widmet.",
+                  "category": "museum",
+                  "coords": [
+                        120.988183,
+                        14.554432
+                  ]
+            },
+            {
+                  "name": "Museum of Contemporary Art and Design",
+                  "text": "Ein modernes Museum mit dynamischen Ausstellungen innovativer zeitgenössischer Kunst und fortschrittlicher Designkonzepte.",
+                  "category": "museum",
+                  "coords": [
+                        120.996562,
+                        14.562751
+                  ]
+            },
+            {
+                  "name": "Altro Mondo Creative Space",
+                  "text": "Ein zeitgenössischer Galerieraum, der den Werken aufstrebender und etablierter lokaler bildender Künstler gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        121.011869,
+                        14.564303
+                  ]
+            },
+            {
+                  "name": "Yuchengco Museum",
+                  "text": "Ein Kunst- und Geschichtsmuseum, das eine bedeutende Sammlung sino-philippinischer Artefakte und moderner Gemälde beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        121.016384,
+                        14.560387
+                  ]
+            },
+            {
+                  "name": "Gen. Vicente Lim Memorial",
+                  "text": "Ein feierliches Steindenkmal, das dem Heldentum und den Opfern von General Vicente Lim Tribut zollt.",
+                  "category": "historical",
+                  "coords": [
+                        120.987432,
+                        14.559296
+                  ]
+            },
+            {
+                  "name": "PICC",
+                  "text": "Ein bedeutender Veranstaltungsort für Kongresse und Aufführungen, bekannt für große internationale Konferenzen und Theaterproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        120.983332,
+                        14.555179
+                  ]
+            },
+            {
+                  "name": "Opera Haus",
+                  "text": "Eine spezielle kulturelle Einrichtung zur Förderung klassischer Gesangsaufführungen und der Opernausbildung.",
+                  "category": "cultural",
+                  "coords": [
+                        121.001676,
+                        14.556867
+                  ]
+            },
+            {
+                  "name": "Pao Ong Kong Chinese Temple",
+                  "text": "Eine traditionelle chinesische Kultstätte, die mit kunstvollen Drachenmotiven und leuchtend roten architektonischen Details geschmückt ist.",
+                  "category": "religious",
+                  "coords": [
+                        120.991137,
+                        14.556177
+                  ]
+            },
+            {
+                  "name": "Manila Po An Temple",
+                  "text": "Ein friedliches Heiligtum, das den traditionellen daoistischen oder buddhistischen Praktiken der lokalen chinesisch-philippinischen Gemeinschaft gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        120.993049,
+                        14.560281
+                  ]
+            },
+            {
+                  "name": "Palanan Public Market",
+                  "text": "Ein belebter Wochenmarkt in der Nachbarschaft, der eine große Auswahl an frischen Produkten, Fleisch und Haushaltswaren des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        121.002062,
+                        14.561808
+                  ]
+            },
+            {
+                  "name": "Dampa sa Pasay",
+                  "text": "Ein beliebter Markt für Meeresfrüchte, auf dem Besucher frischen Fang kaufen und diesen in den angrenzenden Restaurants nach Wunsch zubereiten lassen können.",
+                  "category": "cultural",
+                  "coords": [
+                        120.986159,
+                        14.545137
+                  ]
+            },
+            {
+                  "name": "Amazing Show",
+                  "text": "Ein lebhaftes Unterhaltungslokal im Kabarett-Stil mit extravaganten Kostümen und aufwendigen musikalischen Darbietungen.",
+                  "category": "landmark",
+                  "coords": [
+                        120.982337,
+                        14.550673
+                  ]
+            },
+            {
+                  "name": "Balangay Boats Dock Site",
+                  "text": "Ein Anlegeplatz mit Nachbildungen der traditionellen Balangay-Holzboote, die von frühen austronesischen Seefahrern genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        120.979895,
+                        14.557227
+                  ]
+            },
+            {
+                  "name": "CIBI II Philippines",
+                  "text": "Ein modernes Geschäftsgebäude und eine Attraktion, die im geschäftigen Stadtbezirk durch ihre Unternehmensarchitektur auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.007638,
+                        14.562545
+                  ]
+            },
+            {
+                  "name": "Immanuel Church",
+                  "text": "Eine bescheidene lokale christliche Kirche, die regelmäßige Gottesdienste und Gemeindeprogramme anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.985625,
+                        14.547807
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "Ein christliches Zentrum, das sich der wohltätigen Arbeit widmet und Bedürftigen spirituelle Führung und soziale Dienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996601,
+                        14.555819
+                  ]
+            },
+            {
+                  "name": "World Mission Society Church of God",
+                  "text": "Ein lokaler Zweig der christlichen Religionsbewegung, der sich auf intensive Bibelstudien und ehrenamtliches Engagement in der Gemeinde konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        121.013917,
+                        14.566168
+                  ]
+            },
+            {
+                  "name": "Bethany Baptist Church",
+                  "text": "Eine baptistische Gemeinde im Viertel, die ihren Gläubigen wöchentliche Gottesdienste und Jugendprogramme anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.003617,
+                        14.556497
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Church",
+                  "text": "Eine feierliche katholische Kirche, die für ihre engagierten lokalen Gemeindemitglieder und ihre Architektur bekannt ist, welche die Verehrung der Jungfrau Maria hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.992827,
+                        14.551592
+                  ]
+            },
+            {
+                  "name": "Immanuel Beautiful Church",
+                  "text": "Eine einladende christliche Gemeinde, die für ihre lebendigen Gottesdienste und karitativen Einrichtungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994892,
+                        14.552399
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo, Lokal ng Proprietarios",
+                  "text": "Eine lokale Kapelle der Iglesia ni Cristo, die sich durch ihre markanten Türme und strenge architektonische Einheitlichkeit auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994679,
+                        14.550033
+                  ]
+            },
+            {
+                  "name": "Pasay City Seventh-day Adventist Church",
+                  "text": "Eine lokale Gemeinde der Siebenten-Tags-Adventisten, die am Samstag Gottesdienst feiert und Gesundheits- sowie Religionsseminare anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996049,
+                        14.554358
+                  ]
+            },
+            {
+                  "name": "San Isidro Parish Church",
+                  "text": "Eine historische katholische Pfarrkirche, die dem Heiligen Isidor von Madrid gewidmet ist und als spirituelles Zentrum für die umliegende Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996709,
+                        14.558214
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ein gepflegtes, standardisiertes Gemeindehaus, das Platz für die Sonntagsgottesdienste und Hilfsorganisationen der Heiligen der Letzten Tage bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.995597,
+                        14.557485
+                  ]
+            },
+            {
+                  "name": "Manila Adventist Medical Center Church",
+                  "text": "Eine christliche Gottesdienststätte auf dem Gelände des medizinischen Zentrums, die Patienten, Mitarbeitern und lokalen Gemeindemitgliedern dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994915,
+                        14.555312
+                  ]
+            },
+            {
+                  "name": "Fo Guang Shan Mabuhay Temple",
+                  "text": "Ein friedlicher buddhistischer Tempel des Fo-Guang-Shan-Ordens, der den humanistischen Buddhismus durch kulturelle und pädagogische Aktivitäten fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.991904,
+                        14.560449
+                  ]
+            },
+            {
+                  "name": "St. Joseph the Worker Parish Church",
+                  "text": "Eine dem heiligen Josef dem Arbeiter geweihte Pfarrkirche, die Einheimische durch ihre gemeindeorientierten Messen und feierlichen katholischen Riten anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        121.003033,
+                        14.56176
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo-Locale of Makati",
+                  "text": "Eine imposante christliche Kapelle der Iglesia Ni Cristo, die sich durch ihre elegante Fassade und die markant aufragenden Türme auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.001095,
+                        14.560744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "GSIS Museo ng Sining",
+                  "text": "Ez a művészeti múzeum a fülöp-szigeteki mesterek alkotásainak jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        120.984383,
+                        14.547449
+                  ]
+            },
+            {
+                  "name": "Aliw Theater",
+                  "text": "Jelentős előadóművészeti helyszín, amely koncertjeiről, balett- és színházi produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        120.985855,
+                        14.556928
+                  ]
+            },
+            {
+                  "name": "Tanghalang Pambansa",
+                  "text": "A Leandro Locsin által tervezett és 1969-ben megnyílt nemzeti művészeti központ a Fülöp-szigeteki Kulturális Központ kiemelt helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        120.985676,
+                        14.558312
+                  ]
+            },
+            {
+                  "name": "Folk Arts Theater",
+                  "text": "Az 1974 júliusában megnyílt színház jelentős kulturális előadásoknak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        120.980991,
+                        14.556771
+                  ]
+            },
+            {
+                  "name": "APEC Sculpture Garden",
+                  "text": "Ez a szabadtéri kert az Ázsiai és Csendes-óceáni Gazdasági Együttműködés tagállamai által adományozott egyedi szobrok gyűjteményét mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        120.981985,
+                        14.554881
+                  ]
+            },
+            {
+                  "name": "Star City",
+                  "text": "Egy jól ismert vidámpark, amely különféle izgalmas beltéri és kültéri játékokat kínál minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        120.985717,
+                        14.555787
+                  ]
+            },
+            {
+                  "name": "Crocoseum",
+                  "text": "Egy oktató jellegű múzeumi kiállítás, amely a krokodilok biológiáját és a természetvédelmi erőfeszítéseket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        120.988183,
+                        14.554432
+                  ]
+            },
+            {
+                  "name": "Museum of Contemporary Art and Design",
+                  "text": "Egy modern múzeum, amely innovatív kortárs művészeti alkotások és progresszív formatervezési koncepciók dinamikus kiállításait vonultatja fel.",
+                  "category": "museum",
+                  "coords": [
+                        120.996562,
+                        14.562751
+                  ]
+            },
+            {
+                  "name": "Altro Mondo Creative Space",
+                  "text": "Kortárs galériatér, amely feltörekvő és elismert helyi vizuális művészek alkotásainak bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        121.011869,
+                        14.564303
+                  ]
+            },
+            {
+                  "name": "Yuchengco Museum",
+                  "text": "Művészeti és történelmi múzeum, amely a kínai-fülöp-szigeteki műtárgyak és modern festmények kiemelkedő gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        121.016384,
+                        14.560387
+                  ]
+            },
+            {
+                  "name": "Gen. Vicente Lim Memorial",
+                  "text": "Ünnepélyes kőemlékmű, amely Vicente Lim tábornok hősiessége és áldozatvállalása előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        120.987432,
+                        14.559296
+                  ]
+            },
+            {
+                  "name": "PICC",
+                  "text": "Jelentős kongresszusi és előadóművészeti központ, amely rangos nemzetközi konferenciáknak és nagyszabású színházi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        120.983332,
+                        14.555179
+                  ]
+            },
+            {
+                  "name": "Opera Haus",
+                  "text": "Egy dedikált kulturális létesítmény, amely a klasszikus énekes előadásokat és az operai képzést támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        121.001676,
+                        14.556867
+                  ]
+            },
+            {
+                  "name": "Pao Ong Kong Chinese Temple",
+                  "text": "Hagyományos kínai istentiszteleti hely, amelyet bonyolult sárkánymotívumok és élénkpiros építészeti részletek díszítenek.",
+                  "category": "religious",
+                  "coords": [
+                        120.991137,
+                        14.556177
+                  ]
+            },
+            {
+                  "name": "Manila Po An Temple",
+                  "text": "Békés szentély, amelyet a helyi kínai-fülöp-szigeteki közösség hagyományos taoista vagy buddhista gyakorlatainak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        120.993049,
+                        14.560281
+                  ]
+            },
+            {
+                  "name": "Palanan Public Market",
+                  "text": "Egy nyüzsgő környékbeli piac, amely friss termények, húsok és mindennapi háztartási cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        121.002062,
+                        14.561808
+                  ]
+            },
+            {
+                  "name": "Dampa sa Pasay",
+                  "text": "Népszerű tenger gyümölcsei piac, ahol a látogatók megvásárolhatják a friss fogást, és a szomszédos helyi éttermekben ízlés szerint elkészíttethetik.",
+                  "category": "cultural",
+                  "coords": [
+                        120.986159,
+                        14.545137
+                  ]
+            },
+            {
+                  "name": "Amazing Show",
+                  "text": "Élénk, kabaré stílusú szórakozóhely, amely extravagáns jelmezekkel és kidolgozott zenei előadásokkal várja a közönséget.",
+                  "category": "landmark",
+                  "coords": [
+                        120.982337,
+                        14.550673
+                  ]
+            },
+            {
+                  "name": "Balangay Boats Dock Site",
+                  "text": "A korai ausztronéz tengerészek által használt hagyományos fa balangay hajók másolatait bemutató kikötőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        120.979895,
+                        14.557227
+                  ]
+            },
+            {
+                  "name": "CIBI II Philippines",
+                  "text": "Modern kereskedelmi épület és látványosság, amely vállalati építészetével tűnik ki a nyüzsgő városi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        121.007638,
+                        14.562545
+                  ]
+            },
+            {
+                  "name": "Immanuel Church",
+                  "text": "Szerény helyi keresztény templom, amely rendszeres istentiszteleteket és közösségi programokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        120.985625,
+                        14.547807
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "A jótékonysági munkának szentelt keresztény központ, amely lelki útmutatást és szociális szolgáltatásokat nyújt a rászorulóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996601,
+                        14.555819
+                  ]
+            },
+            {
+                  "name": "World Mission Society Church of God",
+                  "text": "A keresztény vallási mozgalom helyi ága, amely kiterjedt bibliatanulmányozásra és közösségi önkéntes erőfeszítésekre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        121.013917,
+                        14.566168
+                  ]
+            },
+            {
+                  "name": "Bethany Baptist Church",
+                  "text": "Környékbeli baptista gyülekezet, amely heti istentiszteletekkel és ifjúsági missziós programokkal szolgálja híveit.",
+                  "category": "landmark",
+                  "coords": [
+                        121.003617,
+                        14.556497
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Church",
+                  "text": "Ünnepélyes katolikus templom, amely a hűséges helyi egyházközségéről és a Szűz Mária iránti tiszteletet hangsúlyozó építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.992827,
+                        14.551592
+                  ]
+            },
+            {
+                  "name": "Immanuel Beautiful Church",
+                  "text": "Barátságos keresztény közösségi terem, amely élénk közösségi istentiszteleteiről és karitatív szolgálatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994892,
+                        14.552399
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo, Lokal ng Proprietarios",
+                  "text": "Az Iglesia ni Cristo helyi kápolnája, amelyet jellegzetes tornyai és szigorú építészeti egységessége jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994679,
+                        14.550033
+                  ]
+            },
+            {
+                  "name": "Pasay City Seventh-day Adventist Church",
+                  "text": "A Hetednapi Adventista Egyház helyi gyülekezete, amely szombati istentiszteleteket tart, valamint egészségügyi és vallási szemináriumokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996049,
+                        14.554358
+                  ]
+            },
+            {
+                  "name": "San Isidro Parish Church",
+                  "text": "San Isidro labradornak szentelt történelmi katolikus plébániatemplom, amely a környező közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996709,
+                        14.558214
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Gondozott, szabványosított gyülekezeti ház, amely teret ad az Utolsó Napi Szentek vasárnapi istentiszteleteinek és segédszervezeteinek.",
+                  "category": "landmark",
+                  "coords": [
+                        120.995597,
+                        14.557485
+                  ]
+            },
+            {
+                  "name": "Manila Adventist Medical Center Church",
+                  "text": "Az orvosi központ területén található keresztény istentiszteleti létesítmény a betegek, a személyzet és a helyi gyülekezet tagjainak szolgálatában áll.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994915,
+                        14.555312
+                  ]
+            },
+            {
+                  "name": "Fo Guang Shan Mabuhay Temple",
+                  "text": "A Fo Guang Shan rend békés buddhista temploma, amely kulturális és oktatási tevékenységeken keresztül népszerűsíti a humanista buddhizmust.",
+                  "category": "landmark",
+                  "coords": [
+                        120.991904,
+                        14.560449
+                  ]
+            },
+            {
+                  "name": "St. Joseph the Worker Parish Church",
+                  "text": "A Munkás Szent Józsefnek szentelt plébániatemplom, amely közösségközpontú miséivel és ünnepélyes katolikus szertartásaival vonzza a helyieket.",
+                  "category": "landmark",
+                  "coords": [
+                        121.003033,
+                        14.56176
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo-Locale of Makati",
+                  "text": "Az Iglesia Ni Cristo impozáns keresztény kápolnája, amelyet elegáns homlokzata és kiemelkedő, magasba nyúló tornyai jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.001095,
+                        14.560744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "GSIS Museo ng Sining",
+                  "text": "Acest muzeu de artă găzduiește o colecție importantă de lucrări ale maeștrilor filipinezi.",
+                  "category": "museum",
+                  "coords": [
+                        120.984383,
+                        14.547449
+                  ]
+            },
+            {
+                  "name": "Aliw Theater",
+                  "text": "O importantă locație pentru artele spectacolului, cunoscută pentru găzduirea de concerte, balete și producții teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        120.985855,
+                        14.556928
+                  ]
+            },
+            {
+                  "name": "Tanghalang Pambansa",
+                  "text": "Proiectat de Leandro Locsin și deschis în 1969, acest centru național de arte este principalul sediu al Centrului Cultural din Filipine.",
+                  "category": "cultural",
+                  "coords": [
+                        120.985676,
+                        14.558312
+                  ]
+            },
+            {
+                  "name": "Folk Arts Theater",
+                  "text": "Inaugurat în iulie 1974, acest teatru proeminent găzduiește spectacole și evenimente culturale majore.",
+                  "category": "cultural",
+                  "coords": [
+                        120.980991,
+                        14.556771
+                  ]
+            },
+            {
+                  "name": "APEC Sculpture Garden",
+                  "text": "Această grădină în aer liber prezintă o colecție de sculpturi unice, donate de economiile membre ale Cooperării Economice Asia-Pacific.",
+                  "category": "park",
+                  "coords": [
+                        120.981985,
+                        14.554881
+                  ]
+            },
+            {
+                  "name": "Star City",
+                  "text": "Un parc de distracții renumit care oferă o varietate de atracții palpitante în interior și în aer liber pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        120.985717,
+                        14.555787
+                  ]
+            },
+            {
+                  "name": "Crocoseum",
+                  "text": "O expoziție muzeală educativă axată pe prezentarea biologiei crocodililor și a eforturilor de conservare a acestora.",
+                  "category": "museum",
+                  "coords": [
+                        120.988183,
+                        14.554432
+                  ]
+            },
+            {
+                  "name": "Museum of Contemporary Art and Design",
+                  "text": "Un muzeu modern cu expoziții dinamice de artă contemporană inovatoare și concepte de design progresist.",
+                  "category": "museum",
+                  "coords": [
+                        120.996562,
+                        14.562751
+                  ]
+            },
+            {
+                  "name": "Altro Mondo Creative Space",
+                  "text": "Un spațiu de galerie contemporană dedicat expunerii lucrărilor artiștilor vizuali locali emergenți și consacrați.",
+                  "category": "museum",
+                  "coords": [
+                        121.011869,
+                        14.564303
+                  ]
+            },
+            {
+                  "name": "Yuchengco Museum",
+                  "text": "Un muzeu de artă și istorie care găzduiește o colecție distinsă de artefacte sino-filipineze și picturi moderne.",
+                  "category": "museum",
+                  "coords": [
+                        121.016384,
+                        14.560387
+                  ]
+            },
+            {
+                  "name": "Gen. Vicente Lim Memorial",
+                  "text": "Un monument solemn din piatră care aduce un omagiu eroismului și sacrificiilor generalului Vicente Lim.",
+                  "category": "historical",
+                  "coords": [
+                        120.987432,
+                        14.559296
+                  ]
+            },
+            {
+                  "name": "PICC",
+                  "text": "Un important centru de convenții și spectacole, cunoscut pentru găzduirea unor conferințe internaționale proeminente și a unor producții teatrale pe scară largă.",
+                  "category": "cultural",
+                  "coords": [
+                        120.983332,
+                        14.555179
+                  ]
+            },
+            {
+                  "name": "Opera Haus",
+                  "text": "O facilitate culturală dedicată promovării spectacolelor vocale clasice și pregătirii operistice.",
+                  "category": "cultural",
+                  "coords": [
+                        121.001676,
+                        14.556867
+                  ]
+            },
+            {
+                  "name": "Pao Ong Kong Chinese Temple",
+                  "text": "Un lăcaș de cult chinezesc tradițional, împodobit cu motive complexe de dragoni și detalii arhitecturale roșii vibrante.",
+                  "category": "religious",
+                  "coords": [
+                        120.991137,
+                        14.556177
+                  ]
+            },
+            {
+                  "name": "Manila Po An Temple",
+                  "text": "Un sanctuar liniștit dedicat practicilor tradiționale taoiste sau budiste în rândul comunității locale chinezo-filipineze.",
+                  "category": "religious",
+                  "coords": [
+                        120.993049,
+                        14.560281
+                  ]
+            },
+            {
+                  "name": "Palanan Public Market",
+                  "text": "O piață de cartier plină de viață care oferă o gamă largă de produse proaspete, carne și bunuri de uz casnic zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        121.002062,
+                        14.561808
+                  ]
+            },
+            {
+                  "name": "Dampa sa Pasay",
+                  "text": "O piață populară de fructe de mare unde vizitatorii pot cumpăra capturi proaspete și le pot găti la comandă în restaurantele locale adiacente.",
+                  "category": "cultural",
+                  "coords": [
+                        120.986159,
+                        14.545137
+                  ]
+            },
+            {
+                  "name": "Amazing Show",
+                  "text": "Un loc de divertisment vibrant în stil cabaret, cu costume extravagante și spectacole muzicale elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        120.982337,
+                        14.550673
+                  ]
+            },
+            {
+                  "name": "Balangay Boats Dock Site",
+                  "text": "O zonă de acostare care prezintă replici ale ambarcațiunilor tradiționale din lemn Balangay, folosite de primii navigatori austronezieni.",
+                  "category": "landmark",
+                  "coords": [
+                        120.979895,
+                        14.557227
+                  ]
+            },
+            {
+                  "name": "CIBI II Philippines",
+                  "text": "O clădire comercială modernă și o atracție notabilă în districtul urban aglomerat pentru arhitectura sa corporativă.",
+                  "category": "landmark",
+                  "coords": [
+                        121.007638,
+                        14.562545
+                  ]
+            },
+            {
+                  "name": "Immanuel Church",
+                  "text": "O biserică creștină locală modestă, care oferă slujbe religioase regulate și programe de asistență comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        120.985625,
+                        14.547807
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "Un centru creștin dedicat muncii caritabile, oferind îndrumare spirituală și servicii sociale celor nevoiași.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996601,
+                        14.555819
+                  ]
+            },
+            {
+                  "name": "World Mission Society Church of God",
+                  "text": "O filială locală a mișcării religioase creștine axată pe studiul extins al Bibliei și pe eforturile de voluntariat în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        121.013917,
+                        14.566168
+                  ]
+            },
+            {
+                  "name": "Bethany Baptist Church",
+                  "text": "O congregație baptistă de cartier care își slujește credincioșii prin slujbe săptămânale și programe de slujire a tinerilor.",
+                  "category": "landmark",
+                  "coords": [
+                        121.003617,
+                        14.556497
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Church",
+                  "text": "O biserică catolică solemnă, remarcabilă pentru enoriașii locali devotați și pentru arhitectura care subliniază devotamentul față de Fecioara Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        120.992827,
+                        14.551592
+                  ]
+            },
+            {
+                  "name": "Immanuel Beautiful Church",
+                  "text": "O sală primitoare de părtășie creștină, cunoscută pentru închinarea vibrantă a comunității și pentru slujirile de asistență.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994892,
+                        14.552399
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo, Lokal ng Proprietarios",
+                  "text": "O capelă locală a Iglesia ni Cristo, caracterizată prin turlele sale distinctive și uniformitatea arhitecturală strictă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994679,
+                        14.550033
+                  ]
+            },
+            {
+                  "name": "Pasay City Seventh-day Adventist Church",
+                  "text": "O congregație locală a Bisericii Adventiste de Ziua a Șaptea care respectă închinarea de sâmbătă și oferă seminarii de sănătate și religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996049,
+                        14.554358
+                  ]
+            },
+            {
+                  "name": "San Isidro Parish Church",
+                  "text": "O biserică parohială catolică istorică dedicată lui San Isidro Labrador, servind drept centru spiritual pentru comunitatea din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996709,
+                        14.558214
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "O casă de adunare ordonată și standardizată, care oferă spațiu pentru slujba de duminică și pentru organizațiile auxiliare ale Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.995597,
+                        14.557485
+                  ]
+            },
+            {
+                  "name": "Manila Adventist Medical Center Church",
+                  "text": "O unitate de cult creștin situată în incinta centrului medical pentru a deservi pacienții, personalul și enoriașii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994915,
+                        14.555312
+                  ]
+            },
+            {
+                  "name": "Fo Guang Shan Mabuhay Temple",
+                  "text": "Un templu budist senin al ordinului Fo Guang Shan care promovează budismul umanist prin activități culturale și educaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        120.991904,
+                        14.560449
+                  ]
+            },
+            {
+                  "name": "St. Joseph the Worker Parish Church",
+                  "text": "O biserică parohială dedicată Sfântului Iosif Muncitorul, atrăgând localnicii pentru slujbele sale axate pe comunitate și riturile catolice solemne.",
+                  "category": "landmark",
+                  "coords": [
+                        121.003033,
+                        14.56176
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo-Locale of Makati",
+                  "text": "O capelă creștină impunătoare aparținând Iglesia Ni Cristo, caracterizată prin fațada sa elegantă și turlele proeminente.",
+                  "category": "landmark",
+                  "coords": [
+                        121.001095,
+                        14.560744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "GSIS Museo ng Sining",
+                  "text": "This art museum houses a significant collection of works by Filipino masters.",
+                  "category": "museum",
+                  "coords": [
+                        120.984383,
+                        14.547449
+                  ]
+            },
+            {
+                  "name": "Aliw Theater",
+                  "text": "A major performing arts venue known for hosting concerts, ballets, and theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        120.985855,
+                        14.556928
+                  ]
+            },
+            {
+                  "name": "Tanghalang Pambansa",
+                  "text": "Designed by Leandro Locsin and opened in 1969, this national arts centre serves as the flagship venue of the Cultural Center of the Philippines.",
+                  "category": "cultural",
+                  "coords": [
+                        120.985676,
+                        14.558312
+                  ]
+            },
+            {
+                  "name": "Francisco Balagtas Theater",
+                  "text": "Opened in July 1974, this prominent theater hosts major cultural performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        120.980991,
+                        14.556771
+                  ]
+            },
+            {
+                  "name": "APEC Sculpture Garden",
+                  "text": "This outdoor garden features a collection of unique sculptures contributed by member economies of the Asia-Pacific Economic Cooperation.",
+                  "category": "park",
+                  "coords": [
+                        120.981985,
+                        14.554881
+                  ]
+            },
+            {
+                  "name": "Star City",
+                  "text": "A well-known amusement park offering a variety of thrilling indoor and outdoor rides for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        120.985717,
+                        14.555787
+                  ]
+            },
+            {
+                  "name": "Crocoseum",
+                  "text": "An educational museum exhibit focused on showcasing crocodilian biology and conservation efforts.",
+                  "category": "museum",
+                  "coords": [
+                        120.988183,
+                        14.554432
+                  ]
+            },
+            {
+                  "name": "Museum of Contemporary Art and Design",
+                  "text": "A modern museum featuring dynamic exhibitions of innovative contemporary art and progressive design concepts.",
+                  "category": "museum",
+                  "coords": [
+                        120.996562,
+                        14.562751
+                  ]
+            },
+            {
+                  "name": "Altro Mondo Creative Space",
+                  "text": "A contemporary gallery space dedicated to displaying works by emerging and established local visual artists.",
+                  "category": "museum",
+                  "coords": [
+                        121.011869,
+                        14.564303
+                  ]
+            },
+            {
+                  "name": "Yuchengco Museum",
+                  "text": "An art and history museum housing a distinguished collection of Sino-Filipino artifacts and modern paintings.",
+                  "category": "museum",
+                  "coords": [
+                        121.016384,
+                        14.560387
+                  ]
+            },
+            {
+                  "name": "Gen. Vicente Lim Memorial",
+                  "text": "A solemn stone monument paying tribute to the heroism and sacrifices of General Vicente Lim.",
+                  "category": "historical",
+                  "coords": [
+                        120.987432,
+                        14.559296
+                  ]
+            },
+            {
+                  "name": "PICC",
+                  "text": "A major convention and performance venue known for hosting prominent international conferences and large-scale theater productions.",
+                  "category": "cultural",
+                  "coords": [
+                        120.983332,
+                        14.555179
+                  ]
+            },
+            {
+                  "name": "Opera Haus",
+                  "text": "A dedicated cultural facility fostering classical vocal performances and operatic training.",
+                  "category": "cultural",
+                  "coords": [
+                        121.001676,
+                        14.556867
+                  ]
+            },
+            {
+                  "name": "Pao Ong Kong Chinese Temple",
+                  "text": "A traditional Chinese place of worship adorned with intricate dragon motifs and vibrant red architectural details.",
+                  "category": "religious",
+                  "coords": [
+                        120.991137,
+                        14.556177
+                  ]
+            },
+            {
+                  "name": "Manila Po An Temple",
+                  "text": "A peaceful sanctuary dedicated to traditional Taoist or Buddhist practices among the local Chinese-Filipino community.",
+                  "category": "religious",
+                  "coords": [
+                        120.993049,
+                        14.560281
+                  ]
+            },
+            {
+                  "name": "Palanan Public Market",
+                  "text": "A bustling neighborhood market offering an array of fresh produce, meats, and daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        121.002062,
+                        14.561808
+                  ]
+            },
+            {
+                  "name": "Dampa sa Pasay",
+                  "text": "A popular seafood market where visitors can purchase fresh catch and have it cooked to order in adjacent local restaurants.",
+                  "category": "cultural",
+                  "coords": [
+                        120.986159,
+                        14.545137
+                  ]
+            },
+            {
+                  "name": "Amazing Show",
+                  "text": "A vibrant cabaret-style entertainment venue featuring extravagant costumes and elaborate musical performances.",
+                  "category": "landmark",
+                  "coords": [
+                        120.982337,
+                        14.550673
+                  ]
+            },
+            {
+                  "name": "Balangay Boats Dock Site",
+                  "text": "A mooring area showcasing replicas of the traditional Balangay wooden boats used by early Austronesian navigators.",
+                  "category": "landmark",
+                  "coords": [
+                        120.979895,
+                        14.557227
+                  ]
+            },
+            {
+                  "name": "CIBI II Philippines",
+                  "text": "A modern commercial building and attraction notable within the busy urban district for its corporate architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        121.007638,
+                        14.562545
+                  ]
+            },
+            {
+                  "name": "Immanuel Church",
+                  "text": "A modest local Christian church offering regular worship services and community outreach programs.",
+                  "category": "landmark",
+                  "coords": [
+                        120.985625,
+                        14.547807
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "A Christian center dedicated to charitable work, providing spiritual guidance and social services to the needy.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996601,
+                        14.555819
+                  ]
+            },
+            {
+                  "name": "World Mission Society Church of God",
+                  "text": "A local branch of the Christian religious movement focusing on extensive Bible study and community volunteer efforts.",
+                  "category": "landmark",
+                  "coords": [
+                        121.013917,
+                        14.566168
+                  ]
+            },
+            {
+                  "name": "Bethany Baptist Church",
+                  "text": "A neighborhood Baptist congregation serving its faithful with weekly services and youth ministry programs.",
+                  "category": "landmark",
+                  "coords": [
+                        121.003617,
+                        14.556497
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Church",
+                  "text": "A solemn Catholic church notable for its devoted local parishioners and architecture highlighting devotion to the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        120.992827,
+                        14.551592
+                  ]
+            },
+            {
+                  "name": "Immanuel Beautiful Church",
+                  "text": "A welcoming Christian fellowship hall known for its vibrant community worship and outreach ministries.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994892,
+                        14.552399
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo, Lokal ng Proprietarios",
+                  "text": "A local chapel of the Iglesia ni Cristo characterized by its distinctive spires and strict architectural uniformity.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994679,
+                        14.550033
+                  ]
+            },
+            {
+                  "name": "Pasay City Seventh-day Adventist Church",
+                  "text": "A local Seventh-day Adventist congregation observing Saturday worship and offering health and religious seminars.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996049,
+                        14.554358
+                  ]
+            },
+            {
+                  "name": "San Isidro Parish Church",
+                  "text": "A historic Catholic parish church dedicated to San Isidro Labrador, serving as a spiritual center for the surrounding community.",
+                  "category": "landmark",
+                  "coords": [
+                        120.996709,
+                        14.558214
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A neat, standardized meetinghouse providing space for Sunday worship and auxiliary organizations of the Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        120.995597,
+                        14.557485
+                  ]
+            },
+            {
+                  "name": "Manila Adventist Medical Center Church",
+                  "text": "A Christian worship facility situated within the medical center grounds to serve patients, staff, and local congregants.",
+                  "category": "landmark",
+                  "coords": [
+                        120.994915,
+                        14.555312
+                  ]
+            },
+            {
+                  "name": "Fo Guang Shan Mabuhay Temple",
+                  "text": "A serene Buddhist temple of the Fo Guang Shan order promoting humanistic Buddhism through cultural and educational activities.",
+                  "category": "landmark",
+                  "coords": [
+                        120.991904,
+                        14.560449
+                  ]
+            },
+            {
+                  "name": "St. Joseph the Worker Parish Church",
+                  "text": "A parish church dedicated to Saint Joseph the Worker, drawing locals for its community-focused masses and solemn Catholic rites.",
+                  "category": "landmark",
+                  "coords": [
+                        121.003033,
+                        14.56176
+                  ]
+            },
+            {
+                  "name": "Iglesia Ni Cristo-Locale of Makati",
+                  "text": "An imposing Christian chapel belonging to the Iglesia Ni Cristo, characterized by its elegant facade and prominent towering spires.",
+                  "category": "landmark",
+                  "coords": [
+                        121.001095,
+                        14.560744
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "PH-00",
     coords: [120.985, 14.558],
@@ -1081,7 +20089,1096 @@ image: "/poi-images/ph-star-city-life-v2.webp",
     
   },
   {
-    id: "ph-masungi-georeserve-life-v2",
+    id: "ph-masungi-georeserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Museum of the Philippines - Rizal",
+                  "text": "Diese Stätte des Nationalmuseums schützt die Angono-Petroglyphen, alte Felsgravuren, die an den Wänden eines flachen Felsunterstands entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        121.186521,
+                        14.532992
+                  ]
+            },
+            {
+                  "name": "Pintô Art Museum",
+                  "text": "Inmitten angelegter Gärten präsentiert das Pintô Art Museum zeitgenössische philippinische Ausstellungen in einem Komplex aus weißen Villen im mediterranen Stil.",
+                  "category": "museum",
+                  "coords": [
+                        121.163867,
+                        14.581169
+                  ]
+            },
+            {
+                  "name": "St Joseph Parish Church",
+                  "text": "Diese historische katholische Pfarrkirche in Baras besticht durch ihre traditionelle Steinfassade.",
+                  "category": "religious",
+                  "coords": [
+                        121.267631,
+                        14.523004
+                  ]
+            },
+            {
+                  "name": "Antipolo Cathedral",
+                  "text": "Als Nationalheiligtum Unserer Lieben Frau vom Frieden und der Guten Reise zieht diese markante Kathedrale jedes Jahr Tausende katholischer Pilger an.",
+                  "category": "religious",
+                  "coords": [
+                        121.176673,
+                        14.587694
+                  ]
+            },
+            {
+                  "name": "Bosoboso Church",
+                  "text": "Diese historische Steinkirche in Antipolo ist berühmt für ihre wunderschön restaurierten Ruinen in einer ruhigen ländlichen Landschaft.",
+                  "category": "religious",
+                  "coords": [
+                        121.238103,
+                        14.63952
+                  ]
+            },
+            {
+                  "name": "Hinulugang Taktak",
+                  "text": "Dieser berühmte geschützte Nationalpark in Antipolo bietet einen malerischen Wasserfall, der seit langem ein beliebtes Erholungsziel ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.167655,
+                        14.594679
+                  ]
+            },
+            {
+                  "name": "Rizal Provincial Capitol",
+                  "text": "Als Verwaltungssitz der Provinz Rizal überwacht dieses markante Regierungsgebäude die lokalen bürgerlichen Angelegenheiten.",
+                  "category": "historical",
+                  "coords": [
+                        121.169236,
+                        14.586132
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Dieses moderne Gemeindehaus dient der örtlichen Mormonen-Gemeinde als spirituelles Zentrum für Gottesdienst und Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        121.239984,
+                        14.520672
+                  ]
+            },
+            {
+                  "name": "Tanay Church",
+                  "text": "Diese als bedeutendes Kulturerbe anerkannte, große katholische Kirche aus der Kolonialzeit zeichnet sich durch wunderschön erhaltene Sakralarchitektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        121.284741,
+                        14.498754
+                  ]
+            },
+            {
+                  "name": "Mount Balidbiran",
+                  "text": "Dieser markante Berggipfel bietet Wanderern und Naturliebhabern einen weiten Panoramablick über die üppigen umliegenden Landschaften.",
+                  "category": "natural",
+                  "coords": [
+                        121.244918,
+                        14.61716
+                  ]
+            },
+            {
+                  "name": "Mount Tanauan",
+                  "text": "Dieser natürliche Berggipfel ragt markant über die Region hinaus und bietet anspruchsvolle Wanderwege für engagierte Outdoor-Abenteurer.",
+                  "category": "natural",
+                  "coords": [
+                        121.238918,
+                        14.612681
+                  ]
+            },
+            {
+                  "name": "Mount Yabang",
+                  "text": "Dieser von tropischer Vegetation bedeckte, hochgelegene Berggipfel ist ein ruhiges Ziel für Trekking- und Naturfotografie.",
+                  "category": "natural",
+                  "coords": [
+                        121.216798,
+                        14.654078
+                  ]
+            },
+            {
+                  "name": "Mount Kaymayuman",
+                  "text": "Dieser schroffe Berggipfel ist Teil der lokalen Landschaft und lädt Kletterer ein, seine bewaldeten Hänge zu erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        121.223518,
+                        14.638492
+                  ]
+            },
+            {
+                  "name": "Morong Plaza",
+                  "text": "Dieser öffentliche Stadtplatz im Herzen von Morong dient als Treffpunkt der Gemeinde, umgeben von lokalem Kulturerbe.",
+                  "category": "park",
+                  "coords": [
+                        121.23874,
+                        14.512665
+                  ]
+            },
+            {
+                  "name": "Pinugu Residence",
+                  "text": "Diese imposante Privatresidenz besticht durch ihre schlossähnlichen architektonischen Merkmale und die robuste Außengestaltung.",
+                  "category": "castle",
+                  "coords": [
+                        121.176184,
+                        14.635386
+                  ]
+            },
+            {
+                  "name": "ArtSector Gallery & Chimney Café 360º",
+                  "text": "Dieser im November 2019 eröffnete, mehrstöckige Kunstraum verbindet zeitgenössische Ausstellungen mit einem Aussichtscafé, das einen weiten 360-Grad-Blick bietet.",
+                  "category": "museum",
+                  "coords": [
+                        121.172112,
+                        14.521572
+                  ]
+            },
+            {
+                  "name": "Kilometer 26",
+                  "text": "Dieses kleine Monument, das als offizieller Autobahnstein dient, markiert genau sechsundzwanzig Kilometer vom nationalen Nullpunkt entfernt.",
+                  "category": "historical",
+                  "coords": [
+                        121.159321,
+                        14.572021
+                  ]
+            },
+            {
+                  "name": "Assumpta Theater",
+                  "text": "Dieser lokale Veranstaltungsort für darstellende Künste verfügt über eine Bühne und ein Auditorium, das für Gemeindetheater und kulturelle Präsentationen ausgelegt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        121.181404,
+                        14.601744
+                  ]
+            },
+            {
+                  "name": "Grace Foursquare Church",
+                  "text": "Dieses bescheidene Kirchengebäude dient der lokalen evangelikalen Gemeinde und beherbergt regelmäßige Gottesdienste und Gebetsgruppen des Foursquare Gospel.",
+                  "category": "religious",
+                  "coords": [
+                        121.234534,
+                        14.480987
+                  ]
+            },
+            {
+                  "name": "The White Cross",
+                  "text": "Gekennzeichnet durch sein namensgebendes hellweißes Kruzifix, fungiert diese Stätte als Open-Air-Andachtsort für vorbeikommende Reisende.",
+                  "category": "religious",
+                  "coords": [
+                        121.230152,
+                        14.490533
+                  ]
+            },
+            {
+                  "name": "Bible Fellowship Baptist Church",
+                  "text": "Als lokales Zentrum der Baptistengemeinde bietet dieses Gebäude einen eigenen Saal für wöchentliche Predigten und Bibelstudien.",
+                  "category": "religious",
+                  "coords": [
+                        121.234216,
+                        14.495572
+                  ]
+            },
+            {
+                  "name": "Promised Land Baptist Church",
+                  "text": "Dieses christliche Gemeindehaus versammelt seine baptistischen Gemeindemitglieder in einem einfachen, gemeinschaftsorientierten Heiligtum zum Gottesdienst.",
+                  "category": "religious",
+                  "coords": [
+                        121.250717,
+                        14.539004
+                  ]
+            },
+            {
+                  "name": "Lagundi Foursquare Church",
+                  "text": "Diese evangelische Kircheneinrichtung im Viertel Lagundi wird aktiv für Gemeindegottesdienste und Jugendgruppen genutzt.",
+                  "category": "religious",
+                  "coords": [
+                        121.258309,
+                        14.540417
+                  ]
+            },
+            {
+                  "name": "Blessed Mount Foursquare Church",
+                  "text": "Diese Nachbarschaftskapelle bietet einen einladenden Raum für evangelikale Gläubige, um an musikgeführten Foursquare-Gospel-Gottesdiensten teilzunehmen.",
+                  "category": "religious",
+                  "coords": [
+                        121.175032,
+                        14.500013
+                  ]
+            },
+            {
+                  "name": "Family of Lord Jesus",
+                  "text": "Als unabhängige christliche Gemeinschaft veranstaltet dieses religiöse Zentrum familienorientierte Gebetstreffen und biblische Lehren.",
+                  "category": "religious",
+                  "coords": [
+                        121.16992,
+                        14.622983
+                  ]
+            },
+            {
+                  "name": "MCGI Localle Cogeo",
+                  "text": "Dieses spezielle Koordinierungszentrum, das dem Bezirk Cogeo dient, gehört der Members Church of God International für lokale Gemeindemitglieder an.",
+                  "category": "religious",
+                  "coords": [
+                        121.17963,
+                        14.625866
+                  ]
+            },
+            {
+                  "name": "fatima village",
+                  "text": "Eingebettet in das Wohngebiet Fatima bringt dieses gemeinschaftliche Gotteshaus lokale Nachbarn zu spirituellen Gottesdiensten zusammen.",
+                  "category": "religious",
+                  "coords": [
+                        121.185512,
+                        14.595991
+                  ]
+            },
+            {
+                  "name": "IGLESIA NI CRISTO Solid, Rizal",
+                  "text": "Dieses makellose Heiligtum der Iglesia ni Cristo zeichnet sich durch seine markanten neugotischen Türme aus und bietet einer großen Gemeinde in Rizal Platz.",
+                  "category": "religious",
+                  "coords": [
+                        121.201934,
+                        14.586142
+                  ]
+            },
+            {
+                  "name": "Saarland Chapel",
+                  "text": "Diese von der Gemeinde errichtete Kapelle verfügt über eine einfache architektonische Aufteilung und ist für regelmäßige religiöse Aktivitäten in der Nachbarschaft vorgesehen.",
+                  "category": "religious",
+                  "coords": [
+                        121.181476,
+                        14.592307
+                  ]
+            },
+            {
+                  "name": "Alpha Baptist Church",
+                  "text": "Diese christlich-protestantische Einrichtung bietet eine Versammlungshalle, in der sich lokale Baptistenmitglieder zu Chorproben und Predigten treffen.",
+                  "category": "religious",
+                  "coords": [
+                        121.173235,
+                        14.583824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Museum of the Philippines - Rizal",
+                  "text": "A Nemzeti Múzeum ezen helyszíne védi az Angono-petroglifákat, a régi sziklavéseteket, amelyeket egy sekély sziklamenedék falain fedeztek fel.",
+                  "category": "museum",
+                  "coords": [
+                        121.186521,
+                        14.532992
+                  ]
+            },
+            {
+                  "name": "Pintô Art Museum",
+                  "text": "A parkosított kertek között található Pintô Művészeti Múzeum kortárs Fülöp-szigeteki kiállításokat mutat be egy mediterrán stílusú, fehér villákból álló komplexumban.",
+                  "category": "museum",
+                  "coords": [
+                        121.163867,
+                        14.581169
+                  ]
+            },
+            {
+                  "name": "St Joseph Parish Church",
+                  "text": "Ez a történelmi katolikus plébániatemplom Barasban található, és hagyományos kőhomlokzatával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        121.267631,
+                        14.523004
+                  ]
+            },
+            {
+                  "name": "Antipolo Cathedral",
+                  "text": "A Béke és Jó Út Miasszonyunk Nemzeti Kegyhelyeként ez a kiemelkedő katedrális katolikus zarándokok ezreit vonzza évente.",
+                  "category": "religious",
+                  "coords": [
+                        121.176673,
+                        14.587694
+                  ]
+            },
+            {
+                  "name": "Bosoboso Church",
+                  "text": "Ez az Antipolóban található történelmi kőtemplom a békés vidéki tájban megbúvó, gyönyörűen felújított romjairól híres.",
+                  "category": "religious",
+                  "coords": [
+                        121.238103,
+                        14.63952
+                  ]
+            },
+            {
+                  "name": "Hinulugang Taktak",
+                  "text": "Ez a híres antipolói védett nemzeti park egy festői vízesést rejt, amely régóta népszerű rekreációs úti cél.",
+                  "category": "landmark",
+                  "coords": [
+                        121.167655,
+                        14.594679
+                  ]
+            },
+            {
+                  "name": "Rizal Provincial Capitol",
+                  "text": "Rizal tartomány közigazgatási központjaként ez a kiemelkedő kormányzati épület felügyeli a helyi polgári ügyeket.",
+                  "category": "historical",
+                  "coords": [
+                        121.169236,
+                        14.586132
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ez a modern gyülekezeti ház a helyi mormon közösséget szolgálja az istentiszteletek és a közösségi élet központjaként.",
+                  "category": "religious",
+                  "coords": [
+                        121.239984,
+                        14.520672
+                  ]
+            },
+            {
+                  "name": "Tanay Church",
+                  "text": "A jelentős kulturális örökségként elismert nagyszerű, gyarmati korszakból származó katolikus templom gyönyörűen megőrzött vallási építészettel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        121.284741,
+                        14.498754
+                  ]
+            },
+            {
+                  "name": "Mount Balidbiran",
+                  "text": "Ez a kiemelkedő hegycsúcs lenyűgöző panorámát kínál a túrázóknak és a természetkedvelőknek a környező buja tájakra.",
+                  "category": "natural",
+                  "coords": [
+                        121.244918,
+                        14.61716
+                  ]
+            },
+            {
+                  "name": "Mount Tanauan",
+                  "text": "A régió fölé magasodó természetes hegycsúcs kihívást jelentő ösvényeket kínál az elhivatott szabadtéri kalandorok számára.",
+                  "category": "natural",
+                  "coords": [
+                        121.238918,
+                        14.612681
+                  ]
+            },
+            {
+                  "name": "Mount Yabang",
+                  "text": "A trópusi növényzettel borított magaslati hegycsúcs békés úti cél a túrázás és a természetfotózás szerelmeseinek.",
+                  "category": "natural",
+                  "coords": [
+                        121.216798,
+                        14.654078
+                  ]
+            },
+            {
+                  "name": "Mount Kaymayuman",
+                  "text": "Ez a zord hegycsúcs a helyi domborzat része, amely hívogató az erdős lejtőin navigáló hegymászók számára.",
+                  "category": "natural",
+                  "coords": [
+                        121.223518,
+                        14.638492
+                  ]
+            },
+            {
+                  "name": "Morong Plaza",
+                  "text": "A Morong szívében található nyilvános tér közösségi találkozóhelyként szolgál a helyi örökség ölelésében.",
+                  "category": "park",
+                  "coords": [
+                        121.23874,
+                        14.512665
+                  ]
+            },
+            {
+                  "name": "Pinugu Residence",
+                  "text": "Ez az impozáns magánrezidencia kastélyszerű építészeti jellemzőivel és robusztus külső kialakításával tűnik ki.",
+                  "category": "castle",
+                  "coords": [
+                        121.176184,
+                        14.635386
+                  ]
+            },
+            {
+                  "name": "ArtSector Gallery & Chimney Café 360º",
+                  "text": "A 2019 novemberében megnyílt többszintes művészeti tér kortárs kiállításokat ötvöz egy körpanorámás kávézóval.",
+                  "category": "museum",
+                  "coords": [
+                        121.172112,
+                        14.521572
+                  ]
+            },
+            {
+                  "name": "Kilometer 26",
+                  "text": "Hivatalos autópálya-jelzőként funkcionálva ez a kis műemlék pontosan huszonhat kilométert jelöl a nemzeti nullaponttól.",
+                  "category": "historical",
+                  "coords": [
+                        121.159321,
+                        14.572021
+                  ]
+            },
+            {
+                  "name": "Assumpta Theater",
+                  "text": "Ez a helyi előadóművészeti helyszín színpaddal és nézőtérrel rendelkezik, amelyet közösségi színdarabok és kulturális bemutatók számára terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        121.181404,
+                        14.601744
+                  ]
+            },
+            {
+                  "name": "Grace Foursquare Church",
+                  "text": "A helyi evangéliumi közösséget szolgáló szerény templomépület rendszeres Foursquare Gospel istentiszteleteknek és imacsoportoknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        121.234534,
+                        14.480987
+                  ]
+            },
+            {
+                  "name": "The White Cross",
+                  "text": "A névadó vakítóan fehér feszületről felismerhető hely szabadtéri áhítati pontként szolgál az átutazók számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.230152,
+                        14.490533
+                  ]
+            },
+            {
+                  "name": "Bible Fellowship Baptist Church",
+                  "text": "Helyi baptista gyülekezeti központként ez az épület dedikált termet biztosít a heti prédikációk és a szentírás-tanulmányozás számára.",
+                  "category": "religious",
+                  "coords": [
+                        121.234216,
+                        14.495572
+                  ]
+            },
+            {
+                  "name": "Promised Land Baptist Church",
+                  "text": "Ez a keresztény gyülekezeti ház egy egyszerű, közösségközpontú szentélyben gyűjti össze baptista híveit istentiszteletre.",
+                  "category": "religious",
+                  "coords": [
+                        121.250717,
+                        14.539004
+                  ]
+            },
+            {
+                  "name": "Lagundi Foursquare Church",
+                  "text": "A Lagundi negyedben található protestáns templomi létesítményt aktívan használják közösségi istentiszteletekre és ifjúsági találkozókra.",
+                  "category": "religious",
+                  "coords": [
+                        121.258309,
+                        14.540417
+                  ]
+            },
+            {
+                  "name": "Blessed Mount Foursquare Church",
+                  "text": "Ez a környékbeli kápolna barátságos teret biztosít az evangéliumi hívők számára, hogy részt vegyenek a zenével kísért Foursquare Gospel istentiszteleteken.",
+                  "category": "religious",
+                  "coords": [
+                        121.175032,
+                        14.500013
+                  ]
+            },
+            {
+                  "name": "Family of Lord Jesus",
+                  "text": "Független keresztény közösségként működő vallási központ családcentrikus imaösszejöveteleknek és bibliai tanításoknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        121.16992,
+                        14.622983
+                  ]
+            },
+            {
+                  "name": "MCGI Localle Cogeo",
+                  "text": "A Cogeo körzetet szolgáló speciális koordinációs központ a Members Church of God International helyi gyülekezetéhez tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        121.17963,
+                        14.625866
+                  ]
+            },
+            {
+                  "name": "fatima village",
+                  "text": "A Fatima lakóövezetben megbúvó közösségi istentiszteleti hely spirituális szertartásokra hozza össze a helyi szomszédokat.",
+                  "category": "religious",
+                  "coords": [
+                        121.185512,
+                        14.595991
+                  ]
+            },
+            {
+                  "name": "IGLESIA NI CRISTO Solid, Rizal",
+                  "text": "A jellegzetes neogótikus tornyairól ismert, makulátlan Iglesia ni Cristo szentély egy nagy gyülekezetnek ad otthont Rizalban.",
+                  "category": "religious",
+                  "coords": [
+                        121.201934,
+                        14.586142
+                  ]
+            },
+            {
+                  "name": "Saarland Chapel",
+                  "text": "Ez a közösség által épített kápolna egyszerű építészeti elrendezéssel rendelkezik, és a rendszeres környékbeli vallási tevékenységeknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        121.181476,
+                        14.592307
+                  ]
+            },
+            {
+                  "name": "Alpha Baptist Church",
+                  "text": "Ez a keresztény protestáns létesítmény egy gyülekezeti termet biztosít, ahol a helyi baptista tagok kóruspróbákra és prédikációkra gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        121.173235,
+                        14.583824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Museum of the Philippines - Rizal",
+                  "text": "Acest sit al Muzeului Național protejează Petroglifele din Angono, gravuri antice în piatră descoperite pe pereții unui adăpost stâncos puțin adânc.",
+                  "category": "museum",
+                  "coords": [
+                        121.186521,
+                        14.532992
+                  ]
+            },
+            {
+                  "name": "Pintô Art Museum",
+                  "text": "Înconjurat de grădini amenajate, Muzeul de Artă Pintô prezintă expoziții filipineze contemporane într-un complex de vile albe în stil mediteranean.",
+                  "category": "museum",
+                  "coords": [
+                        121.163867,
+                        14.581169
+                  ]
+            },
+            {
+                  "name": "St Joseph Parish Church",
+                  "text": "Această biserică parohială catolică istorică din Baras se remarcă prin fațada sa tradițională din piatră.",
+                  "category": "religious",
+                  "coords": [
+                        121.267631,
+                        14.523004
+                  ]
+            },
+            {
+                  "name": "Antipolo Cathedral",
+                  "text": "Fiind Sanctuarul Național al Maicii Domnului a Păcii și a Bunei Călătorii, această catedrală proeminentă atrage anual mii de pelerini catolici.",
+                  "category": "religious",
+                  "coords": [
+                        121.176673,
+                        14.587694
+                  ]
+            },
+            {
+                  "name": "Bosoboso Church",
+                  "text": "Această biserică istorică din piatră din Antipolo este celebrată pentru ruinele sale frumos restaurate, amplasate într-un peisaj rural liniștit.",
+                  "category": "religious",
+                  "coords": [
+                        121.238103,
+                        14.63952
+                  ]
+            },
+            {
+                  "name": "Hinulugang Taktak",
+                  "text": "Acest faimos parc național protejat din Antipolo are o cascadă pitorească care este de mult timp o destinație de recreere populară.",
+                  "category": "landmark",
+                  "coords": [
+                        121.167655,
+                        14.594679
+                  ]
+            },
+            {
+                  "name": "Rizal Provincial Capitol",
+                  "text": "Funcționând ca sediu administrativ al provinciei Rizal, această clădire guvernamentală proeminentă supraveghează afacerile civice locale.",
+                  "category": "historical",
+                  "coords": [
+                        121.169236,
+                        14.586132
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Această casă de adunare modernă deservește comunitatea locală de mormoni ca centru dedicat pentru cult și părtășie.",
+                  "category": "religious",
+                  "coords": [
+                        121.239984,
+                        14.520672
+                  ]
+            },
+            {
+                  "name": "Tanay Church",
+                  "text": "Recunoscută ca un sit important al patrimoniului cultural, această mare biserică catolică din epoca colonială prezintă o arhitectură religioasă frumos conservată.",
+                  "category": "religious",
+                  "coords": [
+                        121.284741,
+                        14.498754
+                  ]
+            },
+            {
+                  "name": "Mount Balidbiran",
+                  "text": "Acest vârf de munte proeminent oferă drumeților și pasionaților de natură vederi panoramice ample asupra peisajelor luxuriante din jur.",
+                  "category": "natural",
+                  "coords": [
+                        121.244918,
+                        14.61716
+                  ]
+            },
+            {
+                  "name": "Mount Tanauan",
+                  "text": "Ridicându-se proeminent deasupra regiunii, acest vârf montan natural oferă trasee provocatoare pentru aventurierii dedicați în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        121.238918,
+                        14.612681
+                  ]
+            },
+            {
+                  "name": "Mount Yabang",
+                  "text": "Acoperit de vegetație tropicală, acest vârf de munte înalt este o destinație senină pentru drumeții și fotografierea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        121.216798,
+                        14.654078
+                  ]
+            },
+            {
+                  "name": "Mount Kaymayuman",
+                  "text": "Acest vârf de munte accidentat face parte din relieful local, invitând alpiniștii să-i parcurgă pantele împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        121.223518,
+                        14.638492
+                  ]
+            },
+            {
+                  "name": "Morong Plaza",
+                  "text": "Situată în inima orașului Morong, această piață publică servește ca spațiu de adunare a comunității, înconjurată de moștenirea locală.",
+                  "category": "park",
+                  "coords": [
+                        121.23874,
+                        14.512665
+                  ]
+            },
+            {
+                  "name": "Pinugu Residence",
+                  "text": "Această reședință privată impunătoare iese în evidență prin caracteristicile sale arhitecturale asemănătoare unui castel și prin designul exterior robust.",
+                  "category": "castle",
+                  "coords": [
+                        121.176184,
+                        14.635386
+                  ]
+            },
+            {
+                  "name": "ArtSector Gallery & Chimney Café 360º",
+                  "text": "Deschis în noiembrie 2019, acest spațiu de artă pe mai multe niveluri combină expoziții contemporane cu o cafenea de observație care oferă vederi ample de 360 de grade.",
+                  "category": "museum",
+                  "coords": [
+                        121.172112,
+                        14.521572
+                  ]
+            },
+            {
+                  "name": "Kilometer 26",
+                  "text": "Funcționând ca un marcaj rutier oficial, acest mic monument marchează exact douăzeci și șase de kilometri de la punctul zero național.",
+                  "category": "historical",
+                  "coords": [
+                        121.159321,
+                        14.572021
+                  ]
+            },
+            {
+                  "name": "Assumpta Theater",
+                  "text": "Acest loc local de arte spectacolului are o scenă și un auditoriu concepute pentru piese de teatru comunitare și prezentări culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        121.181404,
+                        14.601744
+                  ]
+            },
+            {
+                  "name": "Grace Foursquare Church",
+                  "text": "Deservind comunitatea evanghelică locală, această clădire modestă a bisericii găzduiește slujbe regulate Foursquare Gospel și grupuri de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        121.234534,
+                        14.480987
+                  ]
+            },
+            {
+                  "name": "The White Cross",
+                  "text": "Marcat de crucifixul său alb strălucitor omonim, acest sit funcționează ca un loc de devoțiune în aer liber pentru călătorii aflați în trecere.",
+                  "category": "religious",
+                  "coords": [
+                        121.230152,
+                        14.490533
+                  ]
+            },
+            {
+                  "name": "Bible Fellowship Baptist Church",
+                  "text": "Ca centru local al congregației baptiste, această clădire oferă o sală dedicată pentru predicile săptămânale și studiul biblic.",
+                  "category": "religious",
+                  "coords": [
+                        121.234216,
+                        14.495572
+                  ]
+            },
+            {
+                  "name": "Promised Land Baptist Church",
+                  "text": "Această casă de adunare creștină își adună enoriașii baptiști într-un sanctuar simplu, axat pe comunitate, pentru închinare.",
+                  "category": "religious",
+                  "coords": [
+                        121.250717,
+                        14.539004
+                  ]
+            },
+            {
+                  "name": "Lagundi Foursquare Church",
+                  "text": "Situată în cartierul Lagundi, această unitate bisericească protestantă este utilizată activ pentru slujbele comunității și adunările de tineret.",
+                  "category": "religious",
+                  "coords": [
+                        121.258309,
+                        14.540417
+                  ]
+            },
+            {
+                  "name": "Blessed Mount Foursquare Church",
+                  "text": "Această capelă de cartier oferă un spațiu primitor pentru credincioșii evanghelici pentru a participa la slujbele muzicale Foursquare Gospel.",
+                  "category": "religious",
+                  "coords": [
+                        121.175032,
+                        14.500013
+                  ]
+            },
+            {
+                  "name": "Family of Lord Jesus",
+                  "text": "Funcționând ca o părtășie creștină independentă, acest centru religios găzduiește întâlniri de rugăciune orientate spre familie și învățături biblice.",
+                  "category": "religious",
+                  "coords": [
+                        121.16992,
+                        14.622983
+                  ]
+            },
+            {
+                  "name": "MCGI Localle Cogeo",
+                  "text": "Deservind districtul Cogeo, acest centru specific de coordonare aparține Members Church of God International pentru enoriașii locali.",
+                  "category": "religious",
+                  "coords": [
+                        121.17963,
+                        14.625866
+                  ]
+            },
+            {
+                  "name": "fatima village",
+                  "text": "Amplasat în cartierul rezidențial Fatima, acest lăcaș de cult comunal aduce laolaltă vecinii locali pentru slujbe spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        121.185512,
+                        14.595991
+                  ]
+            },
+            {
+                  "name": "IGLESIA NI CRISTO Solid, Rizal",
+                  "text": "Caracterizat prin turlele sale neo-gotice distincte, acest sanctuar imaculat Iglesia ni Cristo găzduiește o congregație numeroasă în Rizal.",
+                  "category": "religious",
+                  "coords": [
+                        121.201934,
+                        14.586142
+                  ]
+            },
+            {
+                  "name": "Saarland Chapel",
+                  "text": "Această capelă construită de comunitate are o structură arhitecturală simplă, dedicată găzduirii activităților religioase regulate din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        121.181476,
+                        14.592307
+                  ]
+            },
+            {
+                  "name": "Alpha Baptist Church",
+                  "text": "Această unitate creștină protestantă oferă o sală de adunare unde membrii baptiști locali se adună pentru repetiții de cor și predici.",
+                  "category": "religious",
+                  "coords": [
+                        121.173235,
+                        14.583824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of the Philippines - Rizal",
+                  "text": "This National Museum site protects the Angono Petroglyphs, ancient rock engravings discovered on the walls of a shallow rock shelter.",
+                  "category": "museum",
+                  "coords": [
+                        121.186521,
+                        14.532992
+                  ]
+            },
+            {
+                  "name": "Pintô Art Museum",
+                  "text": "Set amidst landscaped gardens, the Pintô Art Museum showcases contemporary Philippine exhibits within a complex of white, Mediterranean-style villas.",
+                  "category": "museum",
+                  "coords": [
+                        121.163867,
+                        14.581169
+                  ]
+            },
+            {
+                  "name": "St Joseph Parish Church",
+                  "text": "This historic Catholic parish church in Baras features a traditional stone facade that reflects its deep roots in the region.",
+                  "category": "religious",
+                  "coords": [
+                        121.267631,
+                        14.523004
+                  ]
+            },
+            {
+                  "name": "Antipolo Cathedral",
+                  "text": "As the National Shrine of Our Lady of Peace and Good Voyage, this prominent cathedral draws thousands of Catholic pilgrims every year.",
+                  "category": "religious",
+                  "coords": [
+                        121.176673,
+                        14.587694
+                  ]
+            },
+            {
+                  "name": "Bosoboso Church",
+                  "text": "This historic stone church in Antipolo is celebrated for its beautifully restored ruins nestled within a serene rural landscape.",
+                  "category": "religious",
+                  "coords": [
+                        121.238103,
+                        14.63952
+                  ]
+            },
+            {
+                  "name": "Hinulugang Taktak",
+                  "text": "This famous protected national park in Antipolo features a scenic waterfall that has long been a popular recreational destination.",
+                  "category": "landmark",
+                  "coords": [
+                        121.167655,
+                        14.594679
+                  ]
+            },
+            {
+                  "name": "Rizal Provincial Capitol",
+                  "text": "Functioning as the administrative seat of Rizal province, this prominent government building oversees local civic affairs.",
+                  "category": "historical",
+                  "coords": [
+                        121.169236,
+                        14.586132
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "This modern meetinghouse serves the local Mormon community as a dedicated center for worship and fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        121.239984,
+                        14.520672
+                  ]
+            },
+            {
+                  "name": "Tanay Church",
+                  "text": "Recognised as a significant cultural heritage site, this grand colonial-era Catholic church features beautifully preserved religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        121.284741,
+                        14.498754
+                  ]
+            },
+            {
+                  "name": "Mount Balidbiran",
+                  "text": "This prominent mountain peak offers hikers and nature enthusiasts sweeping panoramic views over the lush surrounding landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        121.244918,
+                        14.61716
+                  ]
+            },
+            {
+                  "name": "Mount Tanauan",
+                  "text": "Rising prominently above the region, this natural mountain peak provides challenging trails for dedicated outdoor adventurers.",
+                  "category": "natural",
+                  "coords": [
+                        121.238918,
+                        14.612681
+                  ]
+            },
+            {
+                  "name": "Mount Yabang",
+                  "text": "Covered in tropical vegetation, this elevated mountain summit is a serene destination for trekking and nature photography.",
+                  "category": "natural",
+                  "coords": [
+                        121.216798,
+                        14.654078
+                  ]
+            },
+            {
+                  "name": "Mount Kaymayuman",
+                  "text": "This rugged mountain peak forms part of the local terrain, inviting climbers to navigate its forested slopes.",
+                  "category": "natural",
+                  "coords": [
+                        121.223518,
+                        14.638492
+                  ]
+            },
+            {
+                  "name": "Morong Plaza",
+                  "text": "Situated at the heart of Morong, this public town square serves as a community gathering space surrounded by local heritage.",
+                  "category": "park",
+                  "coords": [
+                        121.23874,
+                        14.512665
+                  ]
+            },
+            {
+                  "name": "Pinugu Residence",
+                  "text": "This imposing private residence stands out with its castle-like architectural features and sturdy exterior design.",
+                  "category": "castle",
+                  "coords": [
+                        121.176184,
+                        14.635386
+                  ]
+            },
+            {
+                  "name": "ArtSector Gallery & Chimney Café 360º",
+                  "text": "Opened in November 2019, this multi-level art space pairs contemporary exhibitions with an observation cafe offering sweeping 360-degree views.",
+                  "category": "museum",
+                  "coords": [
+                        121.172112,
+                        14.521572
+                  ]
+            },
+            {
+                  "name": "Kilometer 26",
+                  "text": "Functioning as an official highway marker, this small monument marks exactly twenty-six kilometers from the national zero point.",
+                  "category": "historical",
+                  "coords": [
+                        121.159321,
+                        14.572021
+                  ]
+            },
+            {
+                  "name": "Assumpta Theater",
+                  "text": "This local performing arts venue features a stage and auditorium setup designed for community plays and cultural presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        121.181404,
+                        14.601744
+                  ]
+            },
+            {
+                  "name": "Grace Foursquare Church",
+                  "text": "Serving the local Evangelical community, this modest church building hosts regular Foursquare Gospel services and prayer groups.",
+                  "category": "religious",
+                  "coords": [
+                        121.234534,
+                        14.480987
+                  ]
+            },
+            {
+                  "name": "The White Cross",
+                  "text": "Marked by its eponymous bright white crucifix, this site functions as an open-air devotional spot for passing travelers.",
+                  "category": "religious",
+                  "coords": [
+                        121.230152,
+                        14.490533
+                  ]
+            },
+            {
+                  "name": "Bible Fellowship Baptist Church",
+                  "text": "As a local Baptist congregation center, this building provides a dedicated hall for weekly sermons and scriptural study.",
+                  "category": "religious",
+                  "coords": [
+                        121.234216,
+                        14.495572
+                  ]
+            },
+            {
+                  "name": "Promised Land Baptist Church",
+                  "text": "This Christian meetinghouse gathers its Baptist parishioners in a simple, community-focused sanctuary for worship.",
+                  "category": "religious",
+                  "coords": [
+                        121.250717,
+                        14.539004
+                  ]
+            },
+            {
+                  "name": "Lagundi Foursquare Church",
+                  "text": "Situated in the Lagundi neighborhood, this Protestant church facility is actively used for community worship and youth fellowships.",
+                  "category": "religious",
+                  "coords": [
+                        121.258309,
+                        14.540417
+                  ]
+            },
+            {
+                  "name": "Blessed Mount Foursquare Church",
+                  "text": "This neighborhood chapel provides a welcoming space for Evangelical believers to participate in music-led Foursquare Gospel services.",
+                  "category": "religious",
+                  "coords": [
+                        121.175032,
+                        14.500013
+                  ]
+            },
+            {
+                  "name": "Family of Lord Jesus",
+                  "text": "Operating as an independent Christian fellowship, this religious center hosts family-oriented prayer meetings and biblical teachings.",
+                  "category": "religious",
+                  "coords": [
+                        121.16992,
+                        14.622983
+                  ]
+            },
+            {
+                  "name": "MCGI Localle Cogeo",
+                  "text": "Serving the Cogeo district, this specific coordinating center belongs to the Members Church of God International for local congregants.",
+                  "category": "religious",
+                  "coords": [
+                        121.17963,
+                        14.625866
+                  ]
+            },
+            {
+                  "name": "fatima village",
+                  "text": "Nestled within the Fatima residential subdivision, this communal place of worship brings local neighbors together for spiritual services.",
+                  "category": "religious",
+                  "coords": [
+                        121.185512,
+                        14.595991
+                  ]
+            },
+            {
+                  "name": "IGLESIA NI CRISTO Solid, Rizal",
+                  "text": "Characterised by its distinct neo-Gothic spires, this immaculate Iglesia ni Cristo sanctuary accommodates a large congregation in Rizal.",
+                  "category": "religious",
+                  "coords": [
+                        121.201934,
+                        14.586142
+                  ]
+            },
+            {
+                  "name": "Saarland Chapel",
+                  "text": "This community-built chapel features a straightforward architectural layout dedicated to hosting regular neighborhood religious activities.",
+                  "category": "religious",
+                  "coords": [
+                        121.181476,
+                        14.592307
+                  ]
+            },
+            {
+                  "name": "Alpha Baptist Church",
+                  "text": "This Christian Protestant facility provides an assembly hall where local Baptist members gather for choir practice and sermons.",
+                  "category": "religious",
+                  "coords": [
+                        121.173235,
+                        14.583824
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PH-RIZ",
     coords: [121.2333, 14.5667],

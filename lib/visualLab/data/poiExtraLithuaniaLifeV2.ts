@@ -34,7 +34,7 @@ export const lithuaniaLifeV2: POI[] = [
             },
             {
                   "name": "Paukščių kaimas",
-                  "text": "Ein Park und Zoo, der verschiedenen Vogelarten gewidmet ist.",
+                  "text": "Vogel-Dorf im Nationalpark Aukštaitija.",
                   "category": "recreational",
                   "coords": [
                         25.988435,
@@ -108,7 +108,7 @@ export const lithuaniaLifeV2: POI[] = [
             },
             {
                   "name": "Paukščių kaimas",
-                  "text": "Különböző madárfajoknak szentelt park és állatkert.",
+                  "text": "Madárfalu az Aukštaitija Nemzeti Parkban.",
                   "category": "recreational",
                   "coords": [
                         25.988435,
@@ -182,7 +182,7 @@ export const lithuaniaLifeV2: POI[] = [
             },
             {
                   "name": "Paukščių kaimas",
-                  "text": "Un parc și grădină zoologică dedicată diverselor specii de păsări.",
+                  "text": "Satul păsărilor din Parcul Național Aukštaitija.",
                   "category": "recreational",
                   "coords": [
                         25.988435,
@@ -256,7 +256,7 @@ export const lithuaniaLifeV2: POI[] = [
             },
             {
                   "name": "Paukščių kaimas",
-                  "text": "A park and zoo dedicated to various bird species.",
+                  "text": "Bird Village in Aukštaitija National Park.",
                   "category": "recreational",
                   "coords": [
                         25.988435,
@@ -368,7 +368,7 @@ imageHint: "Aukštaitija National Park lake and forest",
             },
             {
                   "name": "Dziackagirio gamtinis pažintinis takas",
-                  "text": "Ein Naturlehrpfad im Nationalpark Dzūkija.",
+                  "text": "Naturlehrpfad Dziackagiris im Nationalpark Dzūkija.",
                   "category": "landmark",
                   "coords": [
                         24.399168,
@@ -377,7 +377,7 @@ imageHint: "Aukštaitija National Park lake and forest",
             },
             {
                   "name": "Šaudzyklos kalnas",
-                  "text": "Ein Aussichtspunkt im Nationalpark Dzūkija.",
+                  "text": "Schießplatz-Berg im Nationalpark Dzūkija.",
                   "category": "natural",
                   "coords": [
                         24.377271,
@@ -433,7 +433,7 @@ imageHint: "Aukštaitija National Park lake and forest",
             },
             {
                   "name": "Dziackagirio gamtinis pažintinis takas",
-                  "text": "Természeti tanösvény a Dzūkija Nemzeti Parkban.",
+                  "text": "Dziackagirisi természeti tanösvény a Dzūkija Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         24.399168,
@@ -442,7 +442,7 @@ imageHint: "Aukštaitija National Park lake and forest",
             },
             {
                   "name": "Šaudzyklos kalnas",
-                  "text": "Kilátópont a Dzūkija Nemzeti Parkban.",
+                  "text": "Lőtér-hegy a Dzūkija Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
                         24.377271,
@@ -498,7 +498,7 @@ imageHint: "Aukštaitija National Park lake and forest",
             },
             {
                   "name": "Dziackagirio gamtinis pažintinis takas",
-                  "text": "Un traseu educativ natural în Parcul Național Dzūkija.",
+                  "text": "Traseu natural didactic Dziackagiris în Parcul Național Dzūkija.",
                   "category": "landmark",
                   "coords": [
                         24.399168,
@@ -507,7 +507,7 @@ imageHint: "Aukštaitija National Park lake and forest",
             },
             {
                   "name": "Šaudzyklos kalnas",
-                  "text": "Un punct de belvedere în Parcul Național Dzūkija.",
+                  "text": "Muntele poligon de tragere în Parcul Național Dzūkija.",
                   "category": "natural",
                   "coords": [
                         24.377271,
@@ -563,7 +563,7 @@ imageHint: "Aukštaitija National Park lake and forest",
             },
             {
                   "name": "Dziackagirio gamtinis pažintinis takas",
-                  "text": "A nature educational trail in Dzūkija National Park.",
+                  "text": "Dziackagiris nature educational trail in Dzūkija National Park.",
                   "category": "landmark",
                   "coords": [
                         24.399168,
@@ -572,7 +572,7 @@ imageHint: "Aukštaitija National Park lake and forest",
             },
             {
                   "name": "Shooting-range mountain",
-                  "text": "A viewpoint in the Dzūkija National Park.",
+                  "text": "Shooting-range mountain in Dzūkija National Park.",
                   "category": "natural",
                   "coords": [
                         24.377271,
@@ -1539,7 +1539,7 @@ imageHint: "Vilnius University Botanical Garden Kairėnai",
       "de": [
             {
                   "name": "Šančių paplūdimys",
-                  "text": "Badestelle Šančiai, in der Nähe des Botanischen Gartens Kaunas.",
+                  "text": "Strand im Stadtteil Šančiai nahe dem Botanischen Garten Kaunas.",
                   "category": "recreational",
                   "coords": [
                         23.931287,
@@ -1550,7 +1550,7 @@ imageHint: "Vilnius University Botanical Garden Kairėnai",
       "hu": [
             {
                   "name": "Šančių paplūdimys",
-                  "text": "Šančiai fürdőhely, a Kaunasi Botanikus Kert közelében.",
+                  "text": "Strand a Šančiai negyedben, a kaunasi botanikus kert közelében.",
                   "category": "recreational",
                   "coords": [
                         23.931287,
@@ -1561,7 +1561,7 @@ imageHint: "Vilnius University Botanical Garden Kairėnai",
       "ro": [
             {
                   "name": "Šančių paplūdimys",
-                  "text": "Loc de scăldat Šančiai, în apropierea Grădinii Botanice din Kaunas.",
+                  "text": "Plajă în cartierul Šančiai lângă Grădina Botanică Kaunas.",
                   "category": "recreational",
                   "coords": [
                         23.931287,
@@ -1572,7 +1572,7 @@ imageHint: "Vilnius University Botanical Garden Kairėnai",
       "en": [
             {
                   "name": "Šančių paplūdimys",
-                  "text": "Šančiai beach, near the Kaunas Botanical Garden.",
+                  "text": "Šančiai beach near Kaunas Botanical Garden.",
                   "category": "recreational",
                   "coords": [
                         23.931287,
@@ -2483,7 +2483,7 @@ imageHint: "Pūčkoriai outcrop Pavilniai park",
       "de": [
             {
                   "name": "Valakampių nudistų paplūdimys",
-                  "text": "Der FKK-Strand Valakampiai im Regionalpark Verkiai.",
+                  "text": "Nudistenstrand in Valakampiai im Regionalpark Verkiai.",
                   "category": "recreational",
                   "coords": [
                         25.295582,
@@ -2494,7 +2494,7 @@ imageHint: "Pūčkoriai outcrop Pavilniai park",
       "hu": [
             {
                   "name": "Valakampių nudistų paplūdimys",
-                  "text": "Valakampiai nudista strand a Verkiai Regionális Parkban.",
+                  "text": "Nudista strand Valakampiai-ban, a Verkiai Regionális Parkban.",
                   "category": "recreational",
                   "coords": [
                         25.295582,
@@ -2505,7 +2505,7 @@ imageHint: "Pūčkoriai outcrop Pavilniai park",
       "ro": [
             {
                   "name": "Valakampių nudistų paplūdimys",
-                  "text": "Plaja de nudiști Valakampiai din parcul regional Verkiai.",
+                  "text": "Plajă nudistă în Valakampiai din Parcul Regional Verkiai.",
                   "category": "recreational",
                   "coords": [
                         25.295582,
@@ -2516,7 +2516,7 @@ imageHint: "Pūčkoriai outcrop Pavilniai park",
       "en": [
             {
                   "name": "Valakampių nudistų paplūdimys",
-                  "text": "Valakampių nudist beach in Verkiai Regional Park.",
+                  "text": "Nudist beach in Valakampiai, Verkiai Regional Park.",
                   "category": "recreational",
                   "coords": [
                         25.295582,
@@ -4175,7 +4175,7 @@ imageHint: "Sirvėta hilly landscape and forest",
       "de": [
             {
                   "name": "Pietinis pliažas",
-                  "text": "Der südliche Strand im Regionalpark Tytuvėnai.",
+                  "text": "Südstrand im Regionalpark Tytuvėnai.",
                   "category": "recreational",
                   "coords": [
                         23.19721,
@@ -4305,7 +4305,7 @@ imageHint: "Sirvėta hilly landscape and forest",
       "ro": [
             {
                   "name": "Pietinis pliažas",
-                  "text": "Plaja sudică în parcul regional Tytuvėnai.",
+                  "text": "Plaja de sud din Parcul Regional Tytuvėnai.",
                   "category": "recreational",
                   "coords": [
                         23.19721,

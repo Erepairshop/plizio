@@ -374,7 +374,7 @@ imageHint: "Hofdi House Reykjavik summit",
       "de": [
             {
                   "name": "Slakki",
-                  "text": "Ein kleiner Streichelzoo in der Nähe der Kathedrale von Skálholt.",
+                  "text": "Slakki, ein Erholungsgebiet mit Wanderwegen nahe der Kathedrale von Skálholt.",
                   "category": "recreational",
                   "coords": [
                         -20.50724,
@@ -383,7 +383,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Fornleifasvæði",
-                  "text": "Archäologische Ausgrabungsstätte mit Ruinen in Skálholt.",
+                  "text": "Archäologische Ausgrabungsstätte im Bereich der Skálholt-Kathedrale mit mittelalterlichen Ruinen.",
                   "category": "historical",
                   "coords": [
                         -20.524465,
@@ -392,7 +392,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Mosfellskirkja",
-                  "text": "Eine Kirche in der Region Skálholt.",
+                  "text": "Kirche in der Nähe der Kathedrale von Skálholt.",
                   "category": "religious",
                   "coords": [
                         -20.603757,
@@ -401,7 +401,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Laugarás Lagoon",
-                  "text": "Die Laugarás-Lagune ist ein öffentliches Bad bei der Kathedrale von Skálholt.",
+                  "text": "Die geothermische Lagune Laugarás bei Skálholt zum Baden.",
                   "category": "recreational",
                   "coords": [
                         -20.507482,
@@ -412,7 +412,7 @@ imageHint: "Hofdi House Reykjavik summit",
       "hu": [
             {
                   "name": "Slakki",
-                  "text": "Egy kis állatsimogató Skálholt katedrálisának közelében.",
+                  "text": "Slakki, egy szabadidős terület túraútvonalakkal Skálholt székesegyház közelében.",
                   "category": "recreational",
                   "coords": [
                         -20.50724,
@@ -421,7 +421,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Fornleifasvæði",
-                  "text": "Régészeti lelőhely és romok Skálholt területén.",
+                  "text": "Régészeti feltárás Skálholt székesegyház területén, középkori romokkal.",
                   "category": "historical",
                   "coords": [
                         -20.524465,
@@ -430,7 +430,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Mosfellskirkja",
-                  "text": "Templom Skálholt régiójában.",
+                  "text": "Templom a Skálholti székesegyház közelében.",
                   "category": "religious",
                   "coords": [
                         -20.603757,
@@ -439,7 +439,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Laugarás Lagoon",
-                  "text": "A Laugarás lagúna egy nyilvános fürdő a skálholti székesegyház közelében.",
+                  "text": "A Laugarás geotermikus lagúna Skálholt mellett fürdőzéshez.",
                   "category": "recreational",
                   "coords": [
                         -20.507482,
@@ -450,7 +450,7 @@ imageHint: "Hofdi House Reykjavik summit",
       "ro": [
             {
                   "name": "Slakki",
-                  "text": "O mică grădină zoologică situată în apropierea Catedralei Skálholt.",
+                  "text": "Slakki, o zonă de recreere cu trasee de drumeție lângă Catedrala Skálholt.",
                   "category": "recreational",
                   "coords": [
                         -20.50724,
@@ -459,7 +459,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Fornleifasvæði",
-                  "text": "Sit arheologic și ruine situate în Skálholt.",
+                  "text": "Sit arheologic în zona Catedralei Skálholt, cu ruine medievale.",
                   "category": "historical",
                   "coords": [
                         -20.524465,
@@ -468,7 +468,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Mosfellskirkja",
-                  "text": "O biserică situată în regiunea Skálholt.",
+                  "text": "Biserică lângă Catedrala din Skálholt.",
                   "category": "religious",
                   "coords": [
                         -20.603757,
@@ -477,7 +477,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Laugarás Lagoon",
-                  "text": "Laguna Laugarás este o baie publică situată lângă Catedrala Skálholt.",
+                  "text": "Laguna geotermală Laugarás lângă Skálholt pentru scăldat.",
                   "category": "recreational",
                   "coords": [
                         -20.507482,
@@ -488,7 +488,7 @@ imageHint: "Hofdi House Reykjavik summit",
       "en": [
             {
                   "name": "Slakki",
-                  "text": "A small petting zoo located near Skálholt Cathedral.",
+                  "text": "Slakki, a recreational area with hiking trails near Skálholt Cathedral.",
                   "category": "recreational",
                   "coords": [
                         -20.50724,
@@ -497,7 +497,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Fornleifasvæði",
-                  "text": "Archaeological site featuring ruins in Skálholt.",
+                  "text": "Archaeological excavation site near Skálholt Cathedral with medieval ruins.",
                   "category": "historical",
                   "coords": [
                         -20.524465,
@@ -506,7 +506,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Mosfellskirkja",
-                  "text": "A church located in the Skálholt region.",
+                  "text": "Church near Skálholt Cathedral.",
                   "category": "religious",
                   "coords": [
                         -20.603757,
@@ -515,7 +515,7 @@ imageHint: "Hofdi House Reykjavik summit",
             },
             {
                   "name": "Laugarás Lagoon",
-                  "text": "Laugarás Lagoon is a public bath located near Skálholt Cathedral.",
+                  "text": "Laugarás Lagoon, a geothermal swimming lagoon near Skálholt.",
                   "category": "recreational",
                   "coords": [
                         -20.507482,

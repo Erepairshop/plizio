@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraAzerbaijanNatureV2: POI[] = [
   {
-    id: "goygol-national-park-nature-v2",
+    id: "goygol-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qaya \\ Əzgilli",
+                  "text": "Qaya Əzgilli ist eine markante natürliche Felsformation inmitten der üppig bewaldeten Landschaften des Göygöl-Nationalparks. Die schroffen Felsvorsprünge bieten Wanderern, die die vielfältige Flora der Region erkunden, einen malerischen Aussichtspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.242809,
+                        40.40202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qaya \\ Əzgilli",
+                  "text": "A Qaya Əzgilli egy feltűnő természetes sziklaalakzat a Göygöl Nemzeti Park buja erdős tájain. A zord sziklakiszögellések festői kilátópontot nyújtanak a terület változatos növényvilágát felfedező túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        46.242809,
+                        40.40202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qaya \\ Əzgilli",
+                  "text": "Qaya Əzgilli este o formațiune stâncoasă naturală impresionantă, amplasată printre peisajele împădurite luxuriante ale Parcului Național Goygol. Aflorismentele accidentate oferă un punct de belvedere pitoresc pentru drumeții care explorează flora diversă a zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        46.242809,
+                        40.40202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qaya \\ Əzgilli",
+                  "text": "Qaya Əzgilli is a striking natural rock formation nestled within the lush forested landscapes of Goygol National Park. The rugged outcrops provide a scenic viewpoint for hikers exploring the area's diverse flora.",
+                  "category": "landmark",
+                  "coords": [
+                        46.242809,
+                        40.40202
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AZ-GOY",
     coords: [46.3167, 40.4000],
@@ -39,7 +84,232 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/goygol-national-park-nature-v2.webp"},
   {
-    id: "lake-goygol-nature-v2",
+    id: "lake-goygol-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qədim Alban Kilsəsi \\ Qarabulaq",
+                  "text": "Die Überreste eines alten kaukasisch-albanischen Heiligtums in der malerischen Umgebung des Dorfes Chaykend.",
+                  "category": "landmark",
+                  "coords": [
+                        46.373923,
+                        40.456262
+                  ]
+            },
+            {
+                  "name": "Göygöl",
+                  "text": "Ein herrlicher Hochgebirgssee, der 1139 durch ein Erdbeben entstand und für sein tiefblaues Wasser berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        46.32726,
+                        40.414283
+                  ]
+            },
+            {
+                  "name": "Yeni Zod Alban Kilsəsi",
+                  "text": "Eine antike Steinkirche im Dorf Yeni Zod, die ein bedeutendes Denkmal der kaukasisch-albanischen Ära darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.335998,
+                        40.465228
+                  ]
+            },
+            {
+                  "name": "Qədim Alban Kilsəsi \\ Yeni Zod",
+                  "text": "Eine historische Stätte mit den steinernen Überresten eines frühen christlichen Tempels der kaukasischen Albaner.",
+                  "category": "landmark",
+                  "coords": [
+                        46.337354,
+                        40.490426
+                  ]
+            },
+            {
+                  "name": "Qədim Körpu \\ Yeni Zod",
+                  "text": "Diese verwitterte Steinbrücke aus der Antike überspannt einen kleinen Bach in der Nähe von Yeni Zod.",
+                  "category": "landmark",
+                  "coords": [
+                        46.344253,
+                        40.490411
+                  ]
+            },
+            {
+                  "name": "Toğanalı Məscidi",
+                  "text": "Die Dorfmoschee von Toğanalı dient als religiöses und soziales Zentrum für die lokale Gemeinschaft am Fuße der Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        46.329481,
+                        40.440931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qədim Alban Kilsəsi \\ Qarabulaq",
+                  "text": "Egy ősi kaukázusi albán szentély maradványai Csajkend falu festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.373923,
+                        40.456262
+                  ]
+            },
+            {
+                  "name": "Göygöl",
+                  "text": "Gyönyörű alpesi tó, amely az 1139-es földrengés során keletkezett, és mélykék vizéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        46.32726,
+                        40.414283
+                  ]
+            },
+            {
+                  "name": "Yeni Zod Alban Kilsəsi",
+                  "text": "Yeni Zod faluban található ősi kőtemplom, amely a kaukázusi albán korszak fontos emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        46.335998,
+                        40.465228
+                  ]
+            },
+            {
+                  "name": "Qədim Alban Kilsəsi \\ Yeni Zod",
+                  "text": "Történelmi helyszín, amely egy korai keresztény kaukázusi albán templom kőmaradványait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        46.337354,
+                        40.490426
+                  ]
+            },
+            {
+                  "name": "Qədim Körpu \\ Yeni Zod",
+                  "text": "Antik eredetű, patinás kőhíd, amely egy helyi patakot ível át Yeni Zod közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        46.344253,
+                        40.490411
+                  ]
+            },
+            {
+                  "name": "Toğanalı Məscidi",
+                  "text": "Toğanalı falusi mecsetje, amely a hegyvidéki közösség vallási és szociális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        46.329481,
+                        40.440931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qədim Alban Kilsəsi \\ Qarabulaq",
+                  "text": "Rămășițele unui vechi sanctuar albanian caucazian situate în împrejurimile pitorești ale satului Chaykend.",
+                  "category": "landmark",
+                  "coords": [
+                        46.373923,
+                        40.456262
+                  ]
+            },
+            {
+                  "name": "Göygöl",
+                  "text": "Un lac alpin superb format în urma unui cutremur în 1139, faimos pentru apele sale de un albastru profund.",
+                  "category": "natural",
+                  "coords": [
+                        46.32726,
+                        40.414283
+                  ]
+            },
+            {
+                  "name": "Yeni Zod Alban Kilsəsi",
+                  "text": "O biserică veche de piatră din satul Yeni Zod, care reprezintă un monument important al erei albaniene caucaziene.",
+                  "category": "landmark",
+                  "coords": [
+                        46.335998,
+                        40.465228
+                  ]
+            },
+            {
+                  "name": "Qədim Alban Kilsəsi \\ Yeni Zod",
+                  "text": "Un sit istoric care cuprinde rămășițele de piatră ale unui templu creștin timpuriu al albanienilor caucazieni.",
+                  "category": "landmark",
+                  "coords": [
+                        46.337354,
+                        40.490426
+                  ]
+            },
+            {
+                  "name": "Qədim Körpu \\ Yeni Zod",
+                  "text": "Acest pod de piatră din antichitate traversează un pârâu local în apropiere de Yeni Zod.",
+                  "category": "landmark",
+                  "coords": [
+                        46.344253,
+                        40.490411
+                  ]
+            },
+            {
+                  "name": "Toğanalı Məscidi",
+                  "text": "Moscheea din satul Toğanalı servește drept centru religios și social pentru comunitatea locală de la poalele munților.",
+                  "category": "landmark",
+                  "coords": [
+                        46.329481,
+                        40.440931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancient Albanian Chuech \\ Chaykend",
+                  "text": "The remains of an ancient Caucasian Albanian sanctuary in the picturesque surroundings of Chaykend village.",
+                  "category": "landmark",
+                  "coords": [
+                        46.373923,
+                        40.456262
+                  ]
+            },
+            {
+                  "name": "Goygol lake",
+                  "text": "A stunning alpine lake formed by an earthquake in 1139, famous for its deep blue water.",
+                  "category": "natural",
+                  "coords": [
+                        46.32726,
+                        40.414283
+                  ]
+            },
+            {
+                  "name": "Yeni Zod Alban Kilsəsi",
+                  "text": "An ancient stone church in Yeni Zod village, serving as an important monument of the Caucasian Albanian era.",
+                  "category": "landmark",
+                  "coords": [
+                        46.335998,
+                        40.465228
+                  ]
+            },
+            {
+                  "name": "Ancient Albanian Chuech",
+                  "text": "A historical site featuring the stone remains of an early Christian Caucasian Albanian temple.",
+                  "category": "landmark",
+                  "coords": [
+                        46.337354,
+                        40.490426
+                  ]
+            },
+            {
+                  "name": "Qədim Körpu \\ Yeni Zod",
+                  "text": "A weathered stone bridge from antiquity spanning a local stream near Yeni Zod.",
+                  "category": "landmark",
+                  "coords": [
+                        46.344253,
+                        40.490411
+                  ]
+            },
+            {
+                  "name": "Toğanalı Məscidi",
+                  "text": "The village mosque of Toğanalı serves as the religious and social center for the local community at the foot of the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        46.329481,
+                        40.440931
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AZ-GOY",
     coords: [46.3269, 40.4092],
@@ -75,7 +345,88 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/lake-goygol-nature-v2.webp"},
   {
-    id: "mount-bazarduzu-nature-v2",
+    id: "mount-bazarduzu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Southernmost point of Russia",
+                  "text": "Dieser Grenzpunkt an den hohen Hängen des Berges Bazardüzü markiert das südliche Ende des russischen Territoriums.",
+                  "category": "landmark",
+                  "coords": [
+                        47.783138,
+                        41.185756
+                  ]
+            },
+            {
+                  "name": "Bazardüzü",
+                  "text": "Mit 4.466 Metern ist dies der höchste Gipfel Aserbaidschans im Großen Kaukasus an der Grenze zu Dagestan.",
+                  "category": "natural",
+                  "coords": [
+                        47.858157,
+                        41.220763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Southernmost point of Russia",
+                  "text": "Ez a határpont a Bazardüzü-hegy magas lejtőin Oroszország területének legdélebbi pontját jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        47.783138,
+                        41.185756
+                  ]
+            },
+            {
+                  "name": "Bazardüzü",
+                  "text": "4466 méteres magasságával ez Azerbajdzsán legmagasabb csúcsa a Nagy-Kaukázusban, a dagesztáni határon.",
+                  "category": "natural",
+                  "coords": [
+                        47.858157,
+                        41.220763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Southernmost point of Russia",
+                  "text": "Acest punct de frontieră de pe pantele înalte ale muntelui Bazardüzü marchează limita sudică a teritoriului rus.",
+                  "category": "landmark",
+                  "coords": [
+                        47.783138,
+                        41.185756
+                  ]
+            },
+            {
+                  "name": "Bazardüzü",
+                  "text": "Cu o înălțime de 4.466 de metri, acesta este cel mai înalt vârf din Azerbaidjan, situat în Caucazul Mare.",
+                  "category": "natural",
+                  "coords": [
+                        47.858157,
+                        41.220763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Southernmost point of Russia",
+                  "text": "Located on the high slopes of Mount Bazardüzü, this border point marks the southern limit of Russian territory.",
+                  "category": "landmark",
+                  "coords": [
+                        47.783138,
+                        41.185756
+                  ]
+            },
+            {
+                  "name": "Bazardüzü",
+                  "text": "At 4,466 metres, this is the highest peak in Azerbaijan, located in the Greater Caucasus on the border with Dagestan.",
+                  "category": "natural",
+                  "coords": [
+                        47.858157,
+                        41.220763
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AZ-QUS",
     coords: [47.8581, 41.2206],
@@ -111,7 +462,700 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/mount-bazarduzu-nature-v2.webp"},
   {
-    id: "kura-river-nature-v2",
+    id: "kura-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Das Heydər Əliyev Muzeyi ist ein Museum in der Region kura-river-nature-v2.",
+                  "category": "museum",
+                  "coords": [
+                        47.045795,
+                        40.772744
+                  ]
+            },
+            {
+                  "name": "Qullə",
+                  "text": "Qullə ist eine lokale Sehenswürdigkeit in kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.025415,
+                        40.777775
+                  ]
+            },
+            {
+                  "name": "Rabitə qulləsi",
+                  "text": "Rabitə qulləsi ist eine Fernmeldeturm-Attraktion in kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.055476,
+                        40.734196
+                  ]
+            },
+            {
+                  "name": "Dövlət Bayrağı",
+                  "text": "Dövlət Bayrağı ist eine Staatsflaggen-Attraktion in der Gegend kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.087315,
+                        40.75685
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "Abidə ist ein Denkmal in der Region kura-river-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        47.086949,
+                        40.755563
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəb",
+                  "text": "Musiqi məktəb ist ein Kunstzentrum, das als Musikschule in kura-river-nature-v2 dient.",
+                  "category": "cultural",
+                  "coords": [
+                        47.048301,
+                        40.767477
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünastlıq Muzeyi",
+                  "text": "Tarix Diyarşünastlıq Muzeyi ist ein lokales Geschichtsmuseum in kura-river-nature-v2.",
+                  "category": "museum",
+                  "coords": [
+                        47.050975,
+                        40.77094
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ Yeni Mingəçevir",
+                  "text": "Mədəniyyət Evi \\ Yeni Mingəçevir ist ein Theater und Kulturhaus in kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.019899,
+                        40.773292
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi \\ QRES Mingəçevir",
+                  "text": "Gənclik Mərkəzi \\ QRES Mingəçevir ist ein Jugendkunstzentrum in der Region kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        46.999541,
+                        40.770477
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ QRES Mingəçevir",
+                  "text": "Mədəniyyət Evi \\ QRES Mingəçevir ist ein Kulturhaus und Theater in kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        46.99584,
+                        40.769242
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Bayraq ist eine Attraktion in der Region kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.006031,
+                        40.767137
+                  ]
+            },
+            {
+                  "name": "Ağsaray Delyuks Otel",
+                  "text": "Ağsaray Delyuks Otel ist ein lokales Hotel in der Gegend von kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.03542,
+                        40.768903
+                  ]
+            },
+            {
+                  "name": "River Sayd Otel",
+                  "text": "Das River Side Hotel \\ Mingəçevir bietet Hotelunterkünfte für Besucher von kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.035378,
+                        40.765378
+                  ]
+            },
+            {
+                  "name": "Mingəçevir şəhərinin tarixi muzeyi",
+                  "text": "Die Capital bank ist als Museum in der Region kura-river-nature-v2 kategorisiert.",
+                  "category": "museum",
+                  "coords": [
+                        47.039988,
+                        40.771654
+                  ]
+            },
+            {
+                  "name": "Mingəçevir Alman qəbirstanlığı",
+                  "text": "Mingəçevir Alman qəbirstanlığı ist ein historischer deutscher Friedhof, der als Park in kura-river-nature-v2 dient.",
+                  "category": "park",
+                  "coords": [
+                        47.041626,
+                        40.779989
+                  ]
+            },
+            {
+                  "name": "Alxan Məscidi \\ Hacıselli",
+                  "text": "Alxan Məscidi \\ Hacıselli ist eine Moschee in der Region kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.120788,
+                        40.712181
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Məscid ist eine lokale Moschee, die Gläubigen in kura-river-nature-v2 dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.023084,
+                        40.772182
+                  ]
+            },
+            {
+                  "name": "Yarmarka Mingəçevir",
+                  "text": "Yarmarka Mingəçevir ist ein lokaler Marktplatz in der Gegend von kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.057206,
+                        40.767696
+                  ]
+            },
+            {
+                  "name": "Kolxoz Bazarı",
+                  "text": "Kolxoz Bazarı ist ein traditioneller Marktplatz in kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.017354,
+                        40.771592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "A Heydər Əliyev Muzeyi egy múzeum a kura-river-nature-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        47.045795,
+                        40.772744
+                  ]
+            },
+            {
+                  "name": "Qullə",
+                  "text": "A Qullə egy helyi látványosság a kura-river-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.025415,
+                        40.777775
+                  ]
+            },
+            {
+                  "name": "Rabitə qulləsi",
+                  "text": "A Rabitə qulləsi egy kommunikációs torony, amely látványosság a kura-river-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.055476,
+                        40.734196
+                  ]
+            },
+            {
+                  "name": "Dövlət Bayrağı",
+                  "text": "A Dövlət Bayrağı egy állami zászlót bemutató látványosság a kura-river-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.087315,
+                        40.75685
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "Az Abidə egy emlékmű a kura-river-nature-v2 régióban.",
+                  "category": "historical",
+                  "coords": [
+                        47.086949,
+                        40.755563
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəb",
+                  "text": "A Musiqi məktəb egy művészeti központként működő zeneiskola a kura-river-nature-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        47.048301,
+                        40.767477
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünastlıq Muzeyi",
+                  "text": "A Tarix Diyarşünastlıq Muzeyi egy helytörténeti múzeum a kura-river-nature-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        47.050975,
+                        40.77094
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ Yeni Mingəçevir",
+                  "text": "A Mədəniyyət Evi \\ Yeni Mingəçevir egy színház és kultúrház a kura-river-nature-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        47.019899,
+                        40.773292
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi \\ QRES Mingəçevir",
+                  "text": "A Gənclik Mərkəzi \\ QRES Mingəçevir egy ifjúsági művészeti központ a kura-river-nature-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        46.999541,
+                        40.770477
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ QRES Mingəçevir",
+                  "text": "A Mədəniyyət Evi \\ QRES Mingəçevir egy kultúrház és színház a kura-river-nature-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        46.99584,
+                        40.769242
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "A Bayraq egy látványosság a kura-river-nature-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.006031,
+                        40.767137
+                  ]
+            },
+            {
+                  "name": "Ağsaray Delyuks Otel",
+                  "text": "Az Ağsaray Delyuks Otel egy helyi szálloda a kura-river-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.03542,
+                        40.768903
+                  ]
+            },
+            {
+                  "name": "River Sayd Otel",
+                  "text": "A River Side Hotel \\ Mingəçevir szállodai elszállásolást kínál a kura-river-nature-v2 látogatóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        47.035378,
+                        40.765378
+                  ]
+            },
+            {
+                  "name": "Mingəçevir şəhərinin tarixi muzeyi",
+                  "text": "A Capital bank egy múzeumként besorolt látnivaló a kura-river-nature-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        47.039988,
+                        40.771654
+                  ]
+            },
+            {
+                  "name": "Mingəçevir Alman qəbirstanlığı",
+                  "text": "A Mingəçevir Alman qəbirstanlığı egy történelmi német temető, amely parkként funkcionál a kura-river-nature-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        47.041626,
+                        40.779989
+                  ]
+            },
+            {
+                  "name": "Alxan Məscidi \\ Hacıselli",
+                  "text": "Az Alxan Məscidi \\ Hacıselli egy mecset a kura-river-nature-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.120788,
+                        40.712181
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "A Məscid egy helyi mecset, amely a hívőket szolgálja a kura-river-nature-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.023084,
+                        40.772182
+                  ]
+            },
+            {
+                  "name": "Yarmarka Mingəçevir",
+                  "text": "A Yarmarka Mingəçevir egy helyi piac a kura-river-nature-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        47.057206,
+                        40.767696
+                  ]
+            },
+            {
+                  "name": "Kolxoz Bazarı",
+                  "text": "A Kolxoz Bazarı egy hagyományos piac a kura-river-nature-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        47.017354,
+                        40.771592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Heydər Əliyev Muzeyi este un muzeu situat în zona kura-river-nature-v2.",
+                  "category": "museum",
+                  "coords": [
+                        47.045795,
+                        40.772744
+                  ]
+            },
+            {
+                  "name": "Qullə",
+                  "text": "Qullə este o atracție locală situată în kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.025415,
+                        40.777775
+                  ]
+            },
+            {
+                  "name": "Rabitə qulləsi",
+                  "text": "Rabitə qulləsi este o atracție reprezentând un turn de comunicații în kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.055476,
+                        40.734196
+                  ]
+            },
+            {
+                  "name": "Dövlət Bayrağı",
+                  "text": "Dövlət Bayrağı este o atracție reprezentând steagul de stat în zona kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.087315,
+                        40.75685
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "Abidə este un monument situat în regiunea kura-river-nature-v2.",
+                  "category": "historical",
+                  "coords": [
+                        47.086949,
+                        40.755563
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəb",
+                  "text": "Musiqi məktəb este un centru de arte care funcționează ca școală de muzică în kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.048301,
+                        40.767477
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünastlıq Muzeyi",
+                  "text": "Tarix Diyarşünastlıq Muzeyi este un muzeu de istorie locală situat în kura-river-nature-v2.",
+                  "category": "museum",
+                  "coords": [
+                        47.050975,
+                        40.77094
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ Yeni Mingəçevir",
+                  "text": "Mədəniyyət Evi \\ Yeni Mingəçevir este un teatru și casă de cultură situată în kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.019899,
+                        40.773292
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi \\ QRES Mingəçevir",
+                  "text": "Gənclik Mərkəzi \\ QRES Mingəçevir este un centru de arte pentru tineret în zona kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        46.999541,
+                        40.770477
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ QRES Mingəçevir",
+                  "text": "Mədəniyyət Evi \\ QRES Mingəçevir este o casă de cultură și teatru situată în kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        46.99584,
+                        40.769242
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Bayraq este o atracție situată în regiunea kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.006031,
+                        40.767137
+                  ]
+            },
+            {
+                  "name": "Ağsaray Delyuks Otel",
+                  "text": "Ağsaray Delyuks Otel este un hotel local ce oferă cazare în kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.03542,
+                        40.768903
+                  ]
+            },
+            {
+                  "name": "River Sayd Otel",
+                  "text": "River Side Hotel \\ Mingəçevir oferă cazare la hotel vizitatorilor din kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.035378,
+                        40.765378
+                  ]
+            },
+            {
+                  "name": "Mingəçevir şəhərinin tarixi muzeyi",
+                  "text": "Capital bank este clasificată ca un muzeu în zona kura-river-nature-v2.",
+                  "category": "museum",
+                  "coords": [
+                        47.039988,
+                        40.771654
+                  ]
+            },
+            {
+                  "name": "Mingəçevir Alman qəbirstanlığı",
+                  "text": "Mingəçevir Alman qəbirstanlığı este un cimitir istoric german care servește ca parc în kura-river-nature-v2.",
+                  "category": "park",
+                  "coords": [
+                        47.041626,
+                        40.779989
+                  ]
+            },
+            {
+                  "name": "Alxan Məscidi \\ Hacıselli",
+                  "text": "Alxan Məscidi \\ Hacıselli este o moschee situată în regiunea kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.120788,
+                        40.712181
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Məscid este o moschee locală pentru credincioșii din kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.023084,
+                        40.772182
+                  ]
+            },
+            {
+                  "name": "Yarmarka Mingəçevir",
+                  "text": "Yarmarka Mingəçevir este o piață locală din zona kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.057206,
+                        40.767696
+                  ]
+            },
+            {
+                  "name": "Kolxoz Bazarı",
+                  "text": "Kolxoz Bazarı este o piață tradițională situată în kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.017354,
+                        40.771592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Heydər Əliyev Muzeyi is a museum located in the kura-river-nature-v2 area.",
+                  "category": "museum",
+                  "coords": [
+                        47.045795,
+                        40.772744
+                  ]
+            },
+            {
+                  "name": "Qullə",
+                  "text": "Qullə is a local attraction located in kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.025415,
+                        40.777775
+                  ]
+            },
+            {
+                  "name": "Rabitə qulləsi",
+                  "text": "Rabitə qulləsi is a communication tower attraction in kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.055476,
+                        40.734196
+                  ]
+            },
+            {
+                  "name": "Dövlət Bayrağı",
+                  "text": "Dövlət Bayrağı is a state flag attraction located in the kura-river-nature-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        47.087315,
+                        40.75685
+                  ]
+            },
+            {
+                  "name": "Abidə",
+                  "text": "Abidə is a monument situated in the kura-river-nature-v2 region.",
+                  "category": "historical",
+                  "coords": [
+                        47.086949,
+                        40.755563
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəb",
+                  "text": "Musiqi məktəb is an arts centre serving as a music school in kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.048301,
+                        40.767477
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünastlıq Muzeyi",
+                  "text": "Tarix Diyarşünastlıq Muzeyi is a local history museum situated in kura-river-nature-v2.",
+                  "category": "museum",
+                  "coords": [
+                        47.050975,
+                        40.77094
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ Yeni Mingəçevir",
+                  "text": "Mədəniyyət Evi \\ Yeni Mingəçevir is a theatre and cultural house located in kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.019899,
+                        40.773292
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi \\ QRES Mingəçevir",
+                  "text": "Gənclik Mərkəzi \\ QRES Mingəçevir is a youth arts centre in the kura-river-nature-v2 area.",
+                  "category": "cultural",
+                  "coords": [
+                        46.999541,
+                        40.770477
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ QRES Mingəçevir",
+                  "text": "Mədəniyyət Evi \\ QRES Mingəçevir is a cultural house and theatre situated in kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        46.99584,
+                        40.769242
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Bayraq is an attraction located in the kura-river-nature-v2 region.",
+                  "category": "landmark",
+                  "coords": [
+                        47.006031,
+                        40.767137
+                  ]
+            },
+            {
+                  "name": "Ağsaray Delyuks Otel",
+                  "text": "Ağsaray Delyuks Otel is a local hotel providing accommodation in kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.03542,
+                        40.768903
+                  ]
+            },
+            {
+                  "name": "River Side Hotel \\ Mingəçevir",
+                  "text": "River Side Hotel \\ Mingəçevir offers hotel accommodations to visitors of kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.035378,
+                        40.765378
+                  ]
+            },
+            {
+                  "name": "Capital bank",
+                  "text": "Capital bank is categorized as a museum sight in the kura-river-nature-v2 area.",
+                  "category": "museum",
+                  "coords": [
+                        47.039988,
+                        40.771654
+                  ]
+            },
+            {
+                  "name": "Mingəçevir Alman qəbirstanlığı",
+                  "text": "Mingəçevir Alman qəbirstanlığı is a historical German cemetery serving as a park in kura-river-nature-v2.",
+                  "category": "park",
+                  "coords": [
+                        47.041626,
+                        40.779989
+                  ]
+            },
+            {
+                  "name": "Alxan Məscidi \\ Hacıselli",
+                  "text": "Alxan Məscidi \\ Hacıselli is a mosque located in the kura-river-nature-v2 region.",
+                  "category": "landmark",
+                  "coords": [
+                        47.120788,
+                        40.712181
+                  ]
+            },
+            {
+                  "name": "Məscid",
+                  "text": "Məscid is a local mosque serving worshippers in kura-river-nature-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        47.023084,
+                        40.772182
+                  ]
+            },
+            {
+                  "name": "Yarmarka Mingəçevir",
+                  "text": "Yarmarka Mingəçevir is a local marketplace in the kura-river-nature-v2 area.",
+                  "category": "cultural",
+                  "coords": [
+                        47.057206,
+                        40.767696
+                  ]
+            },
+            {
+                  "name": "Kolxoz Bazarı",
+                  "text": "Kolxoz Bazarı is a traditional marketplace located in kura-river-nature-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        47.017354,
+                        40.771592
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AZ-MI",
     coords: [47.0500, 40.7667],
@@ -170,7 +1214,52 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
     },
     factsAdvanced: { multi4: ["Hossza 1072 kilométer.", "Törökországban ered.", "Határfolyó Törökország, Örményország, Irán és Azerbajdzsán között.", "Az ókorban Araxes néven volt ismert.", "A Kura folyóba torkollik Sabirabadnál.", "Vize létfontosságú az öntözéshez.", "A közös azeri-iráni Arasz-víztározó is rajta épült."] }, image: "/poi-images/aras-river-nature-v2.webp"},
   {
-    id: "shirvan-national-park-nature-v2",
+    id: "shirvan-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Məscid \\ Bala Surra",
+                  "text": "Diese kleine Dorfmoschee in der Nähe der Halbwüstenlandschaft des Schirwan-Nationalparks dient der lokalen Hirtengemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        49.01884,
+                        39.517804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Məscid \\ Bala Surra",
+                  "text": "A Shirvan Nemzeti Park félsivatagi tája közelében fekvő kis falusi mecset a helyi pásztorközösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        49.01884,
+                        39.517804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Məscid \\ Bala Surra",
+                  "text": "Situată în apropierea peisajului semideșertic al Parcului Național Shirvan, această mică moschee din sat deservește comunitatea pastorală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        49.01884,
+                        39.517804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Məscid \\ Bala Surra",
+                  "text": "Located near the semi-desert landscape of Shirvan National Park, this small village mosque serves the local pastoral community.",
+                  "category": "landmark",
+                  "coords": [
+                        49.01884,
+                        39.517804
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AZ-SAL",
     coords: [49.1333, 39.5333],
@@ -242,7 +1331,160 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/hirkan-national-park-nature-v2.webp"},
   {
-    id: "shahdag-national-park-nature-v2",
+    id: "shahdag-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roller Coaster",
+                  "text": "Eine aufregende Achterbahn im Shahdag-Nationalpark für Abenteuerlustige.",
+                  "category": "recreational",
+                  "coords": [
+                        48.147961,
+                        41.322951
+                  ]
+            },
+            {
+                  "name": "Şahcahanbanu Məscidi",
+                  "text": "Eine muslimische Gebetsstätte im Bereich des Shahdag-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        48.138408,
+                        41.335153
+                  ]
+            },
+            {
+                  "name": "Arslan Məscidi",
+                  "text": "Eine traditionelle Moschee für die Gläubigen im Shahdag-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112344,
+                        41.297654
+                  ]
+            },
+            {
+                  "name": "Yanardağ Xınalıq",
+                  "text": "Eine zoroastrische Stätte im Shahdag-Nationalpark, bekannt für ihre natürlichen Flammen.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099259,
+                        41.209328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roller Coaster",
+                  "text": "Izgalmas hullámvasút a Shahdag Nemzeti Parkban a kalandvágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        48.147961,
+                        41.322951
+                  ]
+            },
+            {
+                  "name": "Şahcahanbanu Məscidi",
+                  "text": "Muszlim imaház a Shahdag Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.138408,
+                        41.335153
+                  ]
+            },
+            {
+                  "name": "Arslan Məscidi",
+                  "text": "Hagyományos mecset a hívők számára a Shahdag Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112344,
+                        41.297654
+                  ]
+            },
+            {
+                  "name": "Yanardağ Xınalıq",
+                  "text": "Zoroasztriánus helyszín a Shahdag Nemzeti Parkban, amely természetes tüzeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099259,
+                        41.209328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roller Coaster",
+                  "text": "Un roller coaster captivant în Parcul Național Shahdag pentru amatorii de aventură.",
+                  "category": "recreational",
+                  "coords": [
+                        48.147961,
+                        41.322951
+                  ]
+            },
+            {
+                  "name": "Şahcahanbanu Məscidi",
+                  "text": "Un lăcaș de cult musulman în zona Parcului Național Shahdag.",
+                  "category": "landmark",
+                  "coords": [
+                        48.138408,
+                        41.335153
+                  ]
+            },
+            {
+                  "name": "Arslan Məscidi",
+                  "text": "O moschee tradițională pentru credincioși în Parcul Național Shahdag.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112344,
+                        41.297654
+                  ]
+            },
+            {
+                  "name": "Yanardağ Xınalıq",
+                  "text": "Un sit zoroastrian din Parcul Național Shahdag, cunoscut pentru flăcările sale naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099259,
+                        41.209328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roller Coaster",
+                  "text": "An exciting roller coaster in Shahdag National Park for adventure seekers.",
+                  "category": "recreational",
+                  "coords": [
+                        48.147961,
+                        41.322951
+                  ]
+            },
+            {
+                  "name": "Şahcahanbanu Məscidi",
+                  "text": "A Muslim place of worship located in the Shahdag National Park area.",
+                  "category": "landmark",
+                  "coords": [
+                        48.138408,
+                        41.335153
+                  ]
+            },
+            {
+                  "name": "Arslan Məscidi",
+                  "text": "A traditional mosque for worshippers in the Shahdag National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        48.112344,
+                        41.297654
+                  ]
+            },
+            {
+                  "name": "New Yanardag (New \"fire mountain\") soldier blocking the entrance can’t go there anymore",
+                  "text": "A Zoroastrian site in Shahdag National Park known for its natural flames.",
+                  "category": "landmark",
+                  "coords": [
+                        48.099259,
+                        41.209328
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AZ-QUS",
     coords: [48.0833, 41.2667],
@@ -350,7 +1592,196 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/lake-maralgol-nature-v2.webp"},
   {
-    id: "absheron-national-park-nature-v2",
+    id: "absheron-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mələyim səni sevirəm",
+                  "text": "Dieser abgelegene Strand liegt an der äußersten Spitze von Abscheron und bietet unberührte Natur direkt am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        50.36911,
+                        40.20495
+                  ]
+            },
+            {
+                  "name": "Şah Dili Qoruğu",
+                  "text": "Diese markante Sandzunge bildet den südlichsten Punkt der Halbinsel Abscheron und ragt weit ins Kaspische Meer hinein.",
+                  "category": "landmark",
+                  "coords": [
+                        50.366153,
+                        40.241385
+                  ]
+            },
+            {
+                  "name": "Şah Dili Qoruğu",
+                  "text": "Dieses Schutzgebiet am Ende der Halbinsel ist ein wichtiger Lebensraum für Gazellen und zahlreiche Zugvögel.",
+                  "category": "natural",
+                  "coords": [
+                        50.36178,
+                        40.270823
+                  ]
+            },
+            {
+                  "name": "Sarıdaş çimərliyi",
+                  "text": "Ein ruhiger Naturstrand im Nationalpark, der für seine raue Küstenschönheit und Kalksteinformationen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        50.31261,
+                        40.320684
+                  ]
+            },
+            {
+                  "name": "Zirə çimərliyi",
+                  "text": "Dieser Strand in der Nähe des Dorfes Zirə bietet eine weite Küstenlinie und ist für seine windigen Bedingungen bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        50.29638,
+                        40.32502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mələyim səni sevirəm",
+                  "text": "Ez az elszigetelt strand az Absheron-félsziget legvégén található, érintetlen tengerparti környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        50.36911,
+                        40.20495
+                  ]
+            },
+            {
+                  "name": "Şah Dili Qoruğu",
+                  "text": "Ez a jellegzetes homoknyelv az Absheron-félsziget legdélebbi pontja, amely hosszan benyúlik a Kaszpi-tengerbe.",
+                  "category": "landmark",
+                  "coords": [
+                        50.366153,
+                        40.241385
+                  ]
+            },
+            {
+                  "name": "Şah Dili Qoruğu",
+                  "text": "A félsziget végén található védett terület a gazellák és számos költözőmadár fontos élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        50.36178,
+                        40.270823
+                  ]
+            },
+            {
+                  "name": "Sarıdaş çimərliyi",
+                  "text": "Csendes természeti strand a nemzeti parkban, amely vadregényes partjáról és mészkőképződményeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        50.31261,
+                        40.320684
+                  ]
+            },
+            {
+                  "name": "Zirə çimərliyi",
+                  "text": "A Zirə falu közelében található strand tágas parttal rendelkezik, és szeles időjárásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        50.29638,
+                        40.32502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mələyim səni sevirəm",
+                  "text": "Această plajă izolată se află în vârful extrem al Absheronului, oferind natură virgină la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        50.36911,
+                        40.20495
+                  ]
+            },
+            {
+                  "name": "Şah Dili Qoruğu",
+                  "text": "Această limbă de nisip distinctivă formează cel mai sudic punct al peninsulei Absheron, înaintând mult în Marea Caspică.",
+                  "category": "landmark",
+                  "coords": [
+                        50.366153,
+                        40.241385
+                  ]
+            },
+            {
+                  "name": "Şah Dili Qoruğu",
+                  "text": "Această zonă protejată de la capătul peninsulei este un habitat important pentru gazele și numeroase păsări migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        50.36178,
+                        40.270823
+                  ]
+            },
+            {
+                  "name": "Sarıdaş çimərliyi",
+                  "text": "O plajă naturală liniștită din parcul național, cunoscută pentru frumusețea sa de coastă aspră și formațiunile de calcar.",
+                  "category": "recreational",
+                  "coords": [
+                        50.31261,
+                        40.320684
+                  ]
+            },
+            {
+                  "name": "Zirə çimərliyi",
+                  "text": "Această plajă de lângă satul Ziră oferă o linie de coastă vastă și este cunoscută pentru condițiile sale cu vânt.",
+                  "category": "recreational",
+                  "coords": [
+                        50.29638,
+                        40.32502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mələyim səni sevirəm",
+                  "text": "This isolated beach is located at the extreme tip of Absheron, offering pristine nature by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        50.36911,
+                        40.20495
+                  ]
+            },
+            {
+                  "name": "Şah Dili Qoruğu",
+                  "text": "This distinctive sand spit forms the southernmost point of the Absheron Peninsula, extending far into the Caspian Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        50.366153,
+                        40.241385
+                  ]
+            },
+            {
+                  "name": "Shah Dili Absheron natural park",
+                  "text": "This protected area at the peninsula's end is a vital habitat for gazelles and numerous migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        50.36178,
+                        40.270823
+                  ]
+            },
+            {
+                  "name": "Sarıdaş çimərliyi",
+                  "text": "A quiet natural beach within the national park, known for its rugged coastal beauty and limestone formations.",
+                  "category": "recreational",
+                  "coords": [
+                        50.31261,
+                        40.320684
+                  ]
+            },
+            {
+                  "name": "Zirə çimərliyi",
+                  "text": "This beach near Zira village offers a vast coastline and is known for its windy conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        50.29638,
+                        40.32502
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AZ-B",
     coords: [50.3667, 40.2833],
@@ -386,7 +1817,268 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/absheron-national-park-nature-v2.webp"},
   {
-    id: "zangezur-national-park-nature-v2",
+    id: "zangezur-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sarıqaya",
+                  "text": "Der Berg ist für seine auffälligen gelblichen Felsformationen in der geschützten Parklandschaft bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        45.893468,
+                        39.132805
+                  ]
+            },
+            {
+                  "name": "Potıkingədik",
+                  "text": "Ein markanter Gipfel im Sangesur-Nationalpark, umgeben von alpiner Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        45.961974,
+                        39.058776
+                  ]
+            },
+            {
+                  "name": "Piyazbaşı",
+                  "text": "Diese Erhebung bietet einen Panoramablick auf die unberührte Wildnis des Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        45.980575,
+                        39.046155
+                  ]
+            },
+            {
+                  "name": "Yağlıdərə - Փառական",
+                  "text": "Ein hochgelegener Grenzberg, der für seine steilen Hänge und seine strategische Lage bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        46.03917,
+                        39.089091
+                  ]
+            },
+            {
+                  "name": "Սիսկատար",
+                  "text": "Ein schroffer Berggipfel, der die unberührte Natur des Sangesur-Gebirges verkörpert.",
+                  "category": "natural",
+                  "coords": [
+                        46.017072,
+                        39.1157
+                  ]
+            },
+            {
+                  "name": "Qaranquş",
+                  "text": "Dieser nach Schwalben benannte Berg ragt steil in der geschützten Zone empor.",
+                  "category": "natural",
+                  "coords": [
+                        45.957147,
+                        39.124091
+                  ]
+            },
+            {
+                  "name": "Artım",
+                  "text": "Ein abgelegener Gipfel im südlichen Teil des Sangesur-Gebirges, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        45.96328,
+                        39.094863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sarıqaya",
+                  "text": "A hegy feltűnő sárgás sziklaformációiról ismert a védett park területén.",
+                  "category": "natural",
+                  "coords": [
+                        45.893468,
+                        39.132805
+                  ]
+            },
+            {
+                  "name": "Potıkingədik",
+                  "text": "A Zangezur Nemzeti Park egyik jellegzetes csúcsa, amelyet alpesi flóra és fauna vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        45.961974,
+                        39.058776
+                  ]
+            },
+            {
+                  "name": "Piyazbaşı",
+                  "text": "Ez a magaslat panorámás kilátást nyújt a nemzeti park érintetlen vadonára.",
+                  "category": "natural",
+                  "coords": [
+                        45.980575,
+                        39.046155
+                  ]
+            },
+            {
+                  "name": "Yağlıdərə - Փառական",
+                  "text": "Magasan fekvő határhegy, amely meredek lejtőiről és stratégiai elhelyezkedéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        46.03917,
+                        39.089091
+                  ]
+            },
+            {
+                  "name": "Սիսկատար",
+                  "text": "Egy zord hegycsúcs, amely a Zangezur-hegység érintetlen természetét jelképezi.",
+                  "category": "natural",
+                  "coords": [
+                        46.017072,
+                        39.1157
+                  ]
+            },
+            {
+                  "name": "Qaranquş",
+                  "text": "Ez a fecskékről elnevezett hegy meredeken emelkedik ki a védett övezetben.",
+                  "category": "natural",
+                  "coords": [
+                        45.957147,
+                        39.124091
+                  ]
+            },
+            {
+                  "name": "Artım",
+                  "text": "A Zangezur-hegység déli részének egyik távoli csúcsa, amely ideális természetmegfigyelésre.",
+                  "category": "natural",
+                  "coords": [
+                        45.96328,
+                        39.094863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sarıqaya",
+                  "text": "Muntele este cunoscut pentru formațiunile sale stâncoase gălbui din peisajul protejat al parcului.",
+                  "category": "natural",
+                  "coords": [
+                        45.893468,
+                        39.132805
+                  ]
+            },
+            {
+                  "name": "Potıkingədik",
+                  "text": "Un vârf proeminent din Parcul Național Zangezur, înconjurat de floră și faună alpină.",
+                  "category": "natural",
+                  "coords": [
+                        45.961974,
+                        39.058776
+                  ]
+            },
+            {
+                  "name": "Piyazbaşı",
+                  "text": "Această înălțime oferă o vedere panoramică asupra sălbăticiei virgine a parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        45.980575,
+                        39.046155
+                  ]
+            },
+            {
+                  "name": "Yağlıdərə - Փառական",
+                  "text": "Un munte de frontieră situat la mare altitudine, cunoscut pentru pantele sale abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        46.03917,
+                        39.089091
+                  ]
+            },
+            {
+                  "name": "Սիսկատար",
+                  "text": "Un vârf muntos colțuros care întruchipează natura neatinsă a munților Zangezur.",
+                  "category": "natural",
+                  "coords": [
+                        46.017072,
+                        39.1157
+                  ]
+            },
+            {
+                  "name": "Qaranquş",
+                  "text": "Acest munte, numit după rândunele, se ridică abrupt în zona protejată a parcului.",
+                  "category": "natural",
+                  "coords": [
+                        45.957147,
+                        39.124091
+                  ]
+            },
+            {
+                  "name": "Artım",
+                  "text": "Un vârf izolat din partea de sud a munților Zangezur, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        45.96328,
+                        39.094863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sarıqaya",
+                  "text": "The mountain is known for its striking yellowish rock formations within the protected parkland.",
+                  "category": "natural",
+                  "coords": [
+                        45.893468,
+                        39.132805
+                  ]
+            },
+            {
+                  "name": "Potıkingədik",
+                  "text": "A prominent summit in the Zangezur National Park, surrounded by alpine flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        45.961974,
+                        39.058776
+                  ]
+            },
+            {
+                  "name": "Piyasbashi",
+                  "text": "This elevation offers panoramic views over the untouched wilderness of the national park.",
+                  "category": "natural",
+                  "coords": [
+                        45.980575,
+                        39.046155
+                  ]
+            },
+            {
+                  "name": "Paravor",
+                  "text": "A high-altitude border peak known for its steep slopes and strategic location.",
+                  "category": "natural",
+                  "coords": [
+                        46.03917,
+                        39.089091
+                  ]
+            },
+            {
+                  "name": "Siskatar",
+                  "text": "A craggy mountain summit that embodies the pristine nature of the Zangezur range.",
+                  "category": "natural",
+                  "coords": [
+                        46.017072,
+                        39.1157
+                  ]
+            },
+            {
+                  "name": "Garangush",
+                  "text": "Named after swallows, this mountain rises steeply within the protected zone of the park.",
+                  "category": "natural",
+                  "coords": [
+                        45.957147,
+                        39.124091
+                  ]
+            },
+            {
+                  "name": "Artım",
+                  "text": "A remote peak in the southern part of the Zangezur range, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        45.96328,
+                        39.094863
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AZ-ORD",
     coords: [45.9833, 39.1167],
@@ -422,7 +2114,52 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     },},
   {
-    id: "ag-gel-national-park-nature-v2",
+    id: "ag-gel-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ağ Göl Milli Parkı",
+                  "text": "Dieser Nationalpark zeichnet sich durch eine bedeutende Halbwüsten-Feuchtgebietslandschaft aus, die als wichtiges Schutzgebiet für Zugvögel dient.",
+                  "category": "natural",
+                  "coords": [
+                        47.574431,
+                        39.989035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ağ Göl Milli Parkı",
+                  "text": "Ez a nemzeti park egy jelentős félsivatagi vizes élőhely, amely fontos menedéket nyújt a vándormadarak számára.",
+                  "category": "natural",
+                  "coords": [
+                        47.574431,
+                        39.989035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ağ Göl Milli Parkı",
+                  "text": "Acest parc național prezintă un peisaj umed semideșertic semnificativ, care servește ca sanctuar crucial pentru păsările migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        47.574431,
+                        39.989035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ağ Göl Milli Parkı",
+                  "text": "This national park features a significant semi-desert wetland landscape that serves as a crucial sanctuary for migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        47.574431,
+                        39.989035
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "AZ-AGJ",
     coords: [47.6000, 40.0167],
@@ -602,7 +2339,304 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/mount-qapijiq-nature-v2.webp"},
   {
-    id: "samur-river-nature-v2",
+    id: "samur-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Subtropicheskii lianovyi les",
+                  "text": "Ein seltener subtropischer Lianenwald im Delta des Flusses Samur, der durch seine dichte, urwaldähnliche Vegetation besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        48.51796,
+                        41.850849
+                  ]
+            },
+            {
+                  "name": "Mesto dlia perekhoda/pereezda reki vbrod",
+                  "text": "Ein natürlicher Übergang am Fluss Samur, der traditionell von Fahrzeugen und Vieh zur Überquerung genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        48.460691,
+                        41.826613
+                  ]
+            },
+            {
+                  "name": "Plotina",
+                  "text": "Ein Damm am Fluss Samur, der zur Regulierung des Wasserstands und zur Bewässerung der umliegenden Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.410464,
+                        41.808262
+                  ]
+            },
+            {
+                  "name": "Pole orkhidei",
+                  "text": "Eine naturbelassene Wiese im Samur-Delta, die für ihre saisonale Pracht wilder Orchideen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        48.508215,
+                        41.893677
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Saidu Kuchkhiuru",
+                  "text": "Ein Denkmal zu Ehren von Said Kotschchjurski, einem bedeutenden lesgischen Dichter und Aschyken des 18. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        48.390949,
+                        41.762607
+                  ]
+            },
+            {
+                  "name": "Armianskaia tserkov' Sviatogo Grigorisa",
+                  "text": "Eine armenische Kirche aus dem 19. Jahrhundert in Njugdi, die an der Stelle des Martyriums des Heiligen Grigoris errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        48.438832,
+                        41.871565
+                  ]
+            },
+            {
+                  "name": "Akhliu Sunna val'-Dzhamaa",
+                  "text": "Ein lokales religiöses Zentrum der sunnitischen Gemeinschaft in der Nähe des Samur-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        48.439222,
+                        41.869659
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Ein bescheidenes muslimisches Gotteshaus, das die traditionelle Architektur der ländlichen Dagestan-Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.435539,
+                        41.860608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Subtropicheskii lianovyi les",
+                  "text": "Ritka szubtrópusi liánerdő a Szamur-folyó deltájában, amely sűrű, dzsungelszerű növényzetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        48.51796,
+                        41.850849
+                  ]
+            },
+            {
+                  "name": "Mesto dlia perekhoda/pereezda reki vbrod",
+                  "text": "Természetes gázló a Szamur-folyón, amelyet hagyományosan járművek és állatok használnak az átkeléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        48.460691,
+                        41.826613
+                  ]
+            },
+            {
+                  "name": "Plotina",
+                  "text": "Gát a Szamur-folyón, amely a vízszint szabályozására és a környező vidék öntözésére szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        48.410464,
+                        41.808262
+                  ]
+            },
+            {
+                  "name": "Pole orkhidei",
+                  "text": "Természetes rét a Szamur-deltában, amely a vadon élő orchideák szezonális virágzásáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        48.508215,
+                        41.893677
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Saidu Kuchkhiuru",
+                  "text": "Emlékmű Szaid Kucshjur tiszteletére, aki a 18. század neves lezg költője és asikja volt.",
+                  "category": "historical",
+                  "coords": [
+                        48.390949,
+                        41.762607
+                  ]
+            },
+            {
+                  "name": "Armianskaia tserkov' Sviatogo Grigorisa",
+                  "text": "Egy 19. századi örmény templom Nyugdi faluban, amely Szent Grigorisz mártíromságának helyén épült.",
+                  "category": "religious",
+                  "coords": [
+                        48.438832,
+                        41.871565
+                  ]
+            },
+            {
+                  "name": "Akhliu Sunna val'-Dzhamaa",
+                  "text": "A szunnita közösség helyi vallási központja a Szamur-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.439222,
+                        41.869659
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Szerény muszlim imaház, amely a vidéki Dagesztán hagyományos építészetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        48.435539,
+                        41.860608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Subtropicheskii lianovyi les",
+                  "text": "O pădure subtropicală de liane rară în delta râului Samur, remarcabilă prin vegetația sa densă de tip junglă.",
+                  "category": "landmark",
+                  "coords": [
+                        48.51796,
+                        41.850849
+                  ]
+            },
+            {
+                  "name": "Mesto dlia perekhoda/pereezda reki vbrod",
+                  "text": "Un vad natural pe râul Samur, utilizat tradițional de vehicule și animale pentru traversare.",
+                  "category": "landmark",
+                  "coords": [
+                        48.460691,
+                        41.826613
+                  ]
+            },
+            {
+                  "name": "Plotina",
+                  "text": "Un baraj pe râul Samur, utilizat pentru reglarea nivelului apei și irigarea regiunii înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        48.410464,
+                        41.808262
+                  ]
+            },
+            {
+                  "name": "Pole orkhidei",
+                  "text": "O pajiște naturală în delta Samurului, renumită pentru înflorirea sezonieră a orhideelor sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        48.508215,
+                        41.893677
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Saidu Kuchkhiuru",
+                  "text": "Un monument dedicat lui Said Kochkhyursky, un renumit poet și așic lezghin din secolul al XVIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        48.390949,
+                        41.762607
+                  ]
+            },
+            {
+                  "name": "Armianskaia tserkov' Sviatogo Grigorisa",
+                  "text": "O biserică armenească din secolul al XIX-lea în satul Nyugdi, construită pe locul martiriului Sfântului Grigoris.",
+                  "category": "religious",
+                  "coords": [
+                        48.438832,
+                        41.871565
+                  ]
+            },
+            {
+                  "name": "Akhliu Sunna val'-Dzhamaa",
+                  "text": "Un centru religios local al comunității sunnite din apropierea râului Samur.",
+                  "category": "landmark",
+                  "coords": [
+                        48.439222,
+                        41.869659
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Un lăcaș de cult musulman modest, care reflectă arhitectura tradițională a regiunii rurale din Daghestan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.435539,
+                        41.860608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subtropicheskii lianovyi les",
+                  "text": "A rare subtropical liana forest in the Samur River delta, notable for its dense, jungle-like vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        48.51796,
+                        41.850849
+                  ]
+            },
+            {
+                  "name": "Mesto dlia perekhoda/pereezda reki vbrod",
+                  "text": "A natural fording point on the Samur River, traditionally used by vehicles and livestock for crossing.",
+                  "category": "landmark",
+                  "coords": [
+                        48.460691,
+                        41.826613
+                  ]
+            },
+            {
+                  "name": "Plotina",
+                  "text": "A dam on the Samur River used for water level regulation and irrigation of the surrounding region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.410464,
+                        41.808262
+                  ]
+            },
+            {
+                  "name": "Pole orkhidei",
+                  "text": "A natural meadow in the Samur delta, famous for its seasonal blooms of wild orchids.",
+                  "category": "landmark",
+                  "coords": [
+                        48.508215,
+                        41.893677
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Saidu Kuchkhiuru",
+                  "text": "A monument honoring Said Kochkhyursky, a prominent 18th-century Lezgin poet and ashik.",
+                  "category": "historical",
+                  "coords": [
+                        48.390949,
+                        41.762607
+                  ]
+            },
+            {
+                  "name": "Armianskaia tserkov' Sviatogo Grigorisa",
+                  "text": "A 19th-century Armenian church in Nyugdi, built on the site of the martyrdom of Saint Grigoris.",
+                  "category": "religious",
+                  "coords": [
+                        48.438832,
+                        41.871565
+                  ]
+            },
+            {
+                  "name": "Akhliu Sunna val'-Dzhamaa",
+                  "text": "A local religious center of the Sunni community located near the Samur River.",
+                  "category": "landmark",
+                  "coords": [
+                        48.439222,
+                        41.869659
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "A modest Muslim prayer house reflecting the traditional architecture of the rural Dagestan region.",
+                  "category": "landmark",
+                  "coords": [
+                        48.435539,
+                        41.860608
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AZ-XAC",
     coords: [48.4833, 41.8167],
@@ -638,7 +2672,772 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/samur-river-nature-v2.webp"},
   {
-    id: "guba-khachmaz-forests-nature-v2",
+    id: "guba-khachmaz-forests-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quba Giriş",
+                  "text": "Quba Giriş ist eine touristische Sehenswürdigkeit in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.568618,
+                        41.364224
+                  ]
+            },
+            {
+                  "name": "Mələk Uşaq Mərkəzi",
+                  "text": "Das Mələk Uşaq Mərkəzi ist ein Kunstzentrum in der Stadt Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.551178,
+                        41.364635
+                  ]
+            },
+            {
+                  "name": "Hündür Kümbəzli Hamam",
+                  "text": "Das Hundur Gumbazli Hamam ist ein historisches türkisches Bad mit hoher Kuppel in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.507465,
+                        41.362367
+                  ]
+            },
+            {
+                  "name": "Dağ yəhudilərin muzeyi",
+                  "text": "Das Jüdische Museum in Guba widmet sich der Geschichte der örtlichen Gemeinschaft.",
+                  "category": "museum",
+                  "coords": [
+                        48.509715,
+                        41.367437
+                  ]
+            },
+            {
+                  "name": "Cümə Məscidi",
+                  "text": "Die Juma-Moschee ist eine bedeutende religiöse Sehenswürdigkeit in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.51212,
+                        41.363195
+                  ]
+            },
+            {
+                  "name": "Hacı Cəfər Məscidi",
+                  "text": "Die Haji-Jafar-Moschee ist eine historische muslimische Stätte in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.509673,
+                        41.362835
+                  ]
+            },
+            {
+                  "name": "İncəsənət Məktəbi",
+                  "text": "Die İncəsənət Məktəbi ist eine Kunstschule und ein Kulturzentrum in Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.511849,
+                        41.361579
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Das Heydər Əliyev Mərkəzi ist ein Museum und Kulturzentrum in Guba.",
+                  "category": "museum",
+                  "coords": [
+                        48.553557,
+                        41.36536
+                  ]
+            },
+            {
+                  "name": "Mikva Sloboda",
+                  "text": "Mikva Sloboda ist ein rituelles Bad und eine Sehenswürdigkeit in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.509449,
+                        41.369136
+                  ]
+            },
+            {
+                  "name": "Klub",
+                  "text": "Der Klub ist eine kulturelle Einrichtung und ein Theater in Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.562671,
+                        41.427207
+                  ]
+            },
+            {
+                  "name": "Quba Geschichte und Ethnographie Museum",
+                  "text": "Das Geschichts- und Ethnografiemuseum in Guba zeigt das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        48.505771,
+                        41.362527
+                  ]
+            },
+            {
+                  "name": "Qırmızı Qəsəbə Dairəsi",
+                  "text": "Qırmızı Qəsəbə Dairəsi ist eine Sehenswürdigkeit in der berühmten Siedlung von Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.519234,
+                        41.371322
+                  ]
+            },
+            {
+                  "name": "Hello Motel Qusar",
+                  "text": "Das Hello Motel Qusar bietet Unterkünfte in der Nähe von Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.467724,
+                        41.442866
+                  ]
+            },
+            {
+                  "name": "Göy məscid",
+                  "text": "Die Göy məscid (Blaue Moschee) ist eine muslimische Gebetsstätte in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.560482,
+                        41.42457
+                  ]
+            },
+            {
+                  "name": "İmam Zaman Ağa Məscidi",
+                  "text": "Die İmam Zaman Ağa Məscidi ist eine muslimische Moschee in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.501742,
+                        41.449023
+                  ]
+            },
+            {
+                  "name": "Sübhan Məscidi",
+                  "text": "Die Sübhan-Moschee ist ein muslimisches Gotteshaus in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.491743,
+                        41.440129
+                  ]
+            },
+            {
+                  "name": "Ağ məscid",
+                  "text": "Die Ağ məscid (Weiße Moschee) ist eine muslimische Gebetsstätte in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.593699,
+                        41.407475
+                  ]
+            },
+            {
+                  "name": "I Nügədi kənd məscidi",
+                  "text": "Die I Nügədi kənd məscidi ist eine dörfliche muslimische Moschee bei Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.561291,
+                        41.324833
+                  ]
+            },
+            {
+                  "name": "Altı günbəz sinaqoqu",
+                  "text": "Die Sechs-Kuppel-Synagoge ist ein historisches jüdisches Bauwerk in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.507445,
+                        41.366392
+                  ]
+            },
+            {
+                  "name": "Ərdəbil məscidi",
+                  "text": "Die Ardabil-Moschee ist eine muslimische religiöse Stätte in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.515052,
+                        41.364163
+                  ]
+            },
+            {
+                  "name": "Quba Bazarı",
+                  "text": "Der Quba Bazarı ist ein lebendiger lokaler Marktplatz in Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.528328,
+                        41.361362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quba Giriş",
+                  "text": "A Quba Giriş egy turisztikai látványosság Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.568618,
+                        41.364224
+                  ]
+            },
+            {
+                  "name": "Mələk Uşaq Mərkəzi",
+                  "text": "A Mələk Uşaq Mərkəzi egy művészeti központ Guba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.551178,
+                        41.364635
+                  ]
+            },
+            {
+                  "name": "Hündür Kümbəzli Hamam",
+                  "text": "A Hundur Gumbazli Hamam egy történelmi, magas kupolás törökfürdő Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.507465,
+                        41.362367
+                  ]
+            },
+            {
+                  "name": "Dağ yəhudilərin muzeyi",
+                  "text": "A gubai Zsidó Múzeum a helyi közösség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.509715,
+                        41.367437
+                  ]
+            },
+            {
+                  "name": "Cümə Məscidi",
+                  "text": "A Juma-mecset Guba egyik jelentős vallási látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        48.51212,
+                        41.363195
+                  ]
+            },
+            {
+                  "name": "Hacı Cəfər Məscidi",
+                  "text": "A Haji Jafar-mecset egy történelmi muszlim helyszín Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.509673,
+                        41.362835
+                  ]
+            },
+            {
+                  "name": "İncəsənət Məktəbi",
+                  "text": "Az İncəsənət Məktəbi egy művészeti iskola és kulturális központ Guba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.511849,
+                        41.361579
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "A Heydər Əliyev Mərkəzi egy múzeum és kulturális központ Guba városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.553557,
+                        41.36536
+                  ]
+            },
+            {
+                  "name": "Mikva Sloboda",
+                  "text": "A Mikva Sloboda egy rituális fürdő és látnivaló Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.509449,
+                        41.369136
+                  ]
+            },
+            {
+                  "name": "Klub",
+                  "text": "A Klub egy kulturális intézmény és színház Guba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.562671,
+                        41.427207
+                  ]
+            },
+            {
+                  "name": "Quba Tarix və Etnoqrafiya muzeyi",
+                  "text": "A gubai Történeti és Néprajzi Múzeum a régió kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        48.505771,
+                        41.362527
+                  ]
+            },
+            {
+                  "name": "Qırmızı Qəsəbə Dairəsi",
+                  "text": "A Qırmızı Qəsəbə Dairəsi Guba híres településének egyik látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        48.519234,
+                        41.371322
+                  ]
+            },
+            {
+                  "name": "Hello Motel Qusar",
+                  "text": "A Hello Motel Qusar szállást kínál Guba közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.467724,
+                        41.442866
+                  ]
+            },
+            {
+                  "name": "Göy məscid",
+                  "text": "A Göy məscid (Kék mecset) egy muszlim imaház Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.560482,
+                        41.42457
+                  ]
+            },
+            {
+                  "name": "İmam Zaman Ağa Məscidi",
+                  "text": "Az İmam Zaman Ağa Məscidi egy muszlim mecset Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.501742,
+                        41.449023
+                  ]
+            },
+            {
+                  "name": "Sübhan Məscidi",
+                  "text": "A Sübhan-mecset egy muszlim templom Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.491743,
+                        41.440129
+                  ]
+            },
+            {
+                  "name": "Ağ məscid",
+                  "text": "Az Ağ məscid (Fehér mecset) egy muszlim imaház Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.593699,
+                        41.407475
+                  ]
+            },
+            {
+                  "name": "I Nügədi kənd məscidi",
+                  "text": "Az I Nügədi kənd məscidi egy muszlim falusi mecset Guba közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        48.561291,
+                        41.324833
+                  ]
+            },
+            {
+                  "name": "Altı günbəz sinaqoqu",
+                  "text": "A Hatkupolás zsinagóga egy történelmi zsidó építmény Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.507445,
+                        41.366392
+                  ]
+            },
+            {
+                  "name": "Ərdəbil məscidi",
+                  "text": "Az Ardabil-mecset egy muszlim vallási helyszín Guba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.515052,
+                        41.364163
+                  ]
+            },
+            {
+                  "name": "Quba Bazarı",
+                  "text": "A Quba Bazarı egy nyüzsgő helyi piac Guba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.528328,
+                        41.361362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quba Giriş",
+                  "text": "Quba Giriş este o atracție turistică din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.568618,
+                        41.364224
+                  ]
+            },
+            {
+                  "name": "Mələk Uşaq Mərkəzi",
+                  "text": "Mələk Uşaq Mərkəzi este un centru de artă din orașul Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.551178,
+                        41.364635
+                  ]
+            },
+            {
+                  "name": "Hündür Kümbəzli Hamam",
+                  "text": "Hundur Gumbazli Hamam este o baie turcească istorică cu cupolă înaltă din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.507465,
+                        41.362367
+                  ]
+            },
+            {
+                  "name": "Dağ yəhudilərin muzeyi",
+                  "text": "Muzeul Evreiesc din Guba este dedicat istoriei comunității locale.",
+                  "category": "museum",
+                  "coords": [
+                        48.509715,
+                        41.367437
+                  ]
+            },
+            {
+                  "name": "Cümə Məscidi",
+                  "text": "Moscheea Juma este o atracție religioasă importantă din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.51212,
+                        41.363195
+                  ]
+            },
+            {
+                  "name": "Hacı Cəfər Məscidi",
+                  "text": "Moscheea Haji Jafar este un sit istoric musulman din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.509673,
+                        41.362835
+                  ]
+            },
+            {
+                  "name": "İncəsənət Məktəbi",
+                  "text": "İncəsənət Məktəbi este o școală de artă și centru cultural din Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.511849,
+                        41.361579
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Centrul Heydər Əliyev este un muzeu și centru cultural din Guba.",
+                  "category": "museum",
+                  "coords": [
+                        48.553557,
+                        41.36536
+                  ]
+            },
+            {
+                  "name": "Mikva Sloboda",
+                  "text": "Mikva Sloboda este o baie rituală și o atracție din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.509449,
+                        41.369136
+                  ]
+            },
+            {
+                  "name": "Klub",
+                  "text": "Klub este o instituție culturală și teatru din Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.562671,
+                        41.427207
+                  ]
+            },
+            {
+                  "name": "Quba Tarix və Etnoqrafiya muzeyi",
+                  "text": "Muzeul de Istorie și Etnografie din Guba prezintă moștenirea culturală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        48.505771,
+                        41.362527
+                  ]
+            },
+            {
+                  "name": "Qırmızı Qəsəbə Dairəsi",
+                  "text": "Qırmızı Qəsəbə Dairəsi este un obiectiv turistic din celebra așezare din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.519234,
+                        41.371322
+                  ]
+            },
+            {
+                  "name": "Hello Motel Qusar",
+                  "text": "Hello Motel Qusar oferă cazare în apropiere de Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.467724,
+                        41.442866
+                  ]
+            },
+            {
+                  "name": "Göy məscid",
+                  "text": "Göy məscid (Moscheea Albastră) este un lăcaș de rugăciune musulman din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.560482,
+                        41.42457
+                  ]
+            },
+            {
+                  "name": "İmam Zaman Ağa Məscidi",
+                  "text": "İmam Zaman Ağa Məscidi este o moschee musulmană din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.501742,
+                        41.449023
+                  ]
+            },
+            {
+                  "name": "Sübhan Məscidi",
+                  "text": "Moscheea Sübhan este un lăcaș de cult musulman din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.491743,
+                        41.440129
+                  ]
+            },
+            {
+                  "name": "Ağ məscid",
+                  "text": "Ağ məscid (Moscheea Albă) este un lăcaș de rugăciune musulman din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.593699,
+                        41.407475
+                  ]
+            },
+            {
+                  "name": "I Nügədi kənd məscidi",
+                  "text": "I Nügədi kənd məscidi este o moschee musulmană de sat de lângă Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.561291,
+                        41.324833
+                  ]
+            },
+            {
+                  "name": "Altı günbəz sinaqoqu",
+                  "text": "Sinagoga cu Șase Cupole este o structură evreiască istorică din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.507445,
+                        41.366392
+                  ]
+            },
+            {
+                  "name": "Ərdəbil məscidi",
+                  "text": "Moscheea Ardabil este un sit religios musulman din Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.515052,
+                        41.364163
+                  ]
+            },
+            {
+                  "name": "Quba Bazarı",
+                  "text": "Quba Bazarı este o piață locală plină de viață din Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.528328,
+                        41.361362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quba Giriş",
+                  "text": "Quba Giriş is a tourist attraction located in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.568618,
+                        41.364224
+                  ]
+            },
+            {
+                  "name": "Mələk Uşaq Mərkəzi",
+                  "text": "Mələk Uşaq Mərkəzi is an arts centre in the city of Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.551178,
+                        41.364635
+                  ]
+            },
+            {
+                  "name": "Old doomed Turkish bathroom - Hundur Gumbazli High Domed Hamam",
+                  "text": "Hundur Gumbazli Hamam is a historical high-domed Turkish bath in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.507465,
+                        41.362367
+                  ]
+            },
+            {
+                  "name": "Jewish Museum",
+                  "text": "The Jewish Museum in Guba is dedicated to the history of the local community.",
+                  "category": "museum",
+                  "coords": [
+                        48.509715,
+                        41.367437
+                  ]
+            },
+            {
+                  "name": "Juma Mosque",
+                  "text": "Juma Mosque is a significant religious attraction in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.51212,
+                        41.363195
+                  ]
+            },
+            {
+                  "name": "Haji Jafar Mosque",
+                  "text": "Haji Jafar Mosque is a historical Muslim site located in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.509673,
+                        41.362835
+                  ]
+            },
+            {
+                  "name": "İncəsənət Məktəbi",
+                  "text": "İncəsənət Məktəbi is an arts school and cultural centre in Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.511849,
+                        41.361579
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Heydər Əliyev Mərkəzi is a museum and cultural centre in Guba.",
+                  "category": "museum",
+                  "coords": [
+                        48.553557,
+                        41.36536
+                  ]
+            },
+            {
+                  "name": "Mikva Sloboda",
+                  "text": "Mikva Sloboda is a ritual bath and point of interest in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.509449,
+                        41.369136
+                  ]
+            },
+            {
+                  "name": "Klub",
+                  "text": "Klub is a cultural institution and theatre in Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.562671,
+                        41.427207
+                  ]
+            },
+            {
+                  "name": "History and Ethnography Museum",
+                  "text": "The History and Ethnography Museum in Guba showcases the region's cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        48.505771,
+                        41.362527
+                  ]
+            },
+            {
+                  "name": "Qırmızı Qəsəbə Dairəsi",
+                  "text": "Qırmızı Qəsəbə Dairəsi is a point of interest in Guba's famous settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        48.519234,
+                        41.371322
+                  ]
+            },
+            {
+                  "name": "Hello Motel Qusar",
+                  "text": "Hello Motel Qusar provides accommodation near Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.467724,
+                        41.442866
+                  ]
+            },
+            {
+                  "name": "Göy məscid",
+                  "text": "Göy məscid (Blue Mosque) is a Muslim place of worship in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.560482,
+                        41.42457
+                  ]
+            },
+            {
+                  "name": "İmam Zaman Ağa Məscidi",
+                  "text": "İmam Zaman Ağa Məscidi is a Muslim mosque in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.501742,
+                        41.449023
+                  ]
+            },
+            {
+                  "name": "Sübhan Məscidi",
+                  "text": "Sübhan Mosque is a Muslim place of worship in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.491743,
+                        41.440129
+                  ]
+            },
+            {
+                  "name": "Ağ məscid",
+                  "text": "Ağ məscid (White Mosque) is a Muslim place of worship in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.593699,
+                        41.407475
+                  ]
+            },
+            {
+                  "name": "I Nügədi kənd məscidi",
+                  "text": "I Nügədi kənd məscidi is a village Muslim mosque near Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.561291,
+                        41.324833
+                  ]
+            },
+            {
+                  "name": "Six Dome Synagogue",
+                  "text": "Six Dome Synagogue is a historical Jewish structure in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.507445,
+                        41.366392
+                  ]
+            },
+            {
+                  "name": "Ardabil mosque",
+                  "text": "Ardabil mosque is a Muslim religious site in Guba.",
+                  "category": "landmark",
+                  "coords": [
+                        48.515052,
+                        41.364163
+                  ]
+            },
+            {
+                  "name": "Quba Bazarı",
+                  "text": "Quba Bazarı is a vibrant local marketplace in Guba.",
+                  "category": "cultural",
+                  "coords": [
+                        48.528328,
+                        41.361362
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "AZ-QBA",
     coords: [48.5000, 41.3667],
@@ -674,7 +3473,88 @@ export const poiExtraAzerbaijanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/guba-khachmaz-forests-nature-v2.webp"},
   {
-    id: "lake-batabat-nature-v2",
+    id: "lake-batabat-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "I love Balabat Sign",
+                  "text": "Ein beliebter Fotospot mit Panoramablick auf den malerischen Batabat-Bergsee.",
+                  "category": "landmark",
+                  "coords": [
+                        45.779468,
+                        39.528611
+                  ]
+            },
+            {
+                  "name": "Batabat Bulağı",
+                  "text": "Eine natürliche Gebirgsquelle, bekannt für ihr reines und eiskaltes Trinkwasser.",
+                  "category": "landmark",
+                  "coords": [
+                        45.803623,
+                        39.544182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "I love Balabat Sign",
+                  "text": "Népszerű fotóhelyszín, ahonnan panorámás kilátás nyílik a festői Batabat-hegyi tóra.",
+                  "category": "landmark",
+                  "coords": [
+                        45.779468,
+                        39.528611
+                  ]
+            },
+            {
+                  "name": "Batabat Bulağı",
+                  "text": "Természetes hegyi forrás, amely tiszta és jéghideg ivóvizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.803623,
+                        39.544182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "I love Balabat Sign",
+                  "text": "Un loc popular pentru fotografii, cu vedere panoramică spre lacul montan pitoresc Batabat.",
+                  "category": "landmark",
+                  "coords": [
+                        45.779468,
+                        39.528611
+                  ]
+            },
+            {
+                  "name": "Batabat Bulağı",
+                  "text": "Un izvor natural de munte, cunoscut pentru apa sa potabilă pură și rece ca gheața.",
+                  "category": "landmark",
+                  "coords": [
+                        45.803623,
+                        39.544182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "I love Balabat Sign",
+                  "text": "A popular photo spot overlooking the scenic mountain lake of Batabat.",
+                  "category": "landmark",
+                  "coords": [
+                        45.779468,
+                        39.528611
+                  ]
+            },
+            {
+                  "name": "Batabat Bulağı",
+                  "text": "A natural mountain spring known for its pure and ice-cold drinking water.",
+                  "category": "landmark",
+                  "coords": [
+                        45.803623,
+                        39.544182
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AZ-SHK",
     coords: [45.7833, 39.5333],

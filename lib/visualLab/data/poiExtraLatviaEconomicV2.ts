@@ -97,7 +97,7 @@ export const latviaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Olaines Vēstures un Mākslas muzejs",
-                  "text": "Museum für Geschichte und Kunst in Olaine.",
+                  "text": "Museum für Geschichte und Kunst von Olaine, Schwerpunkt auf der Pharmazieindustrie.",
                   "category": "museum",
                   "coords": [
                         23.936799,
@@ -124,7 +124,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Pirmā pasaules kara nocietinājumu līnija",
-                  "text": "Überreste einer Verteidigungslinie aus dem Ersten Weltkrieg.",
+                  "text": "Erster-Weltkrieg-Befestigungslinie bei Olaine mit erhaltenen Gräben und Bunkern.",
                   "category": "landmark",
                   "coords": [
                         23.930251,
@@ -133,7 +133,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Olaines luterāņu baznīca",
-                  "text": "Eine evangelisch-lutherische Kirche in Olaine.",
+                  "text": "Lutherische Kirche aus dem 20. Jahrhundert in Olaine, denkmalgeschützt.",
                   "category": "religious",
                   "coords": [
                         23.982984,
@@ -144,7 +144,7 @@ export const latviaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Olaines Vēstures un Mākslas muzejs",
-                  "text": "Olaine történelmi és művészeti múzeuma.",
+                  "text": "Olaine Történeti és Művészeti Múzeuma, a gyógyszeripar történetével.",
                   "category": "museum",
                   "coords": [
                         23.936799,
@@ -171,7 +171,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Pirmā pasaules kara nocietinājumu līnija",
-                  "text": "Egy első világháborús védelmi vonal maradványai.",
+                  "text": "Első világháborús erődítményvonal Olaine mellett, megőrzött árkokkal és bunkerekkel.",
                   "category": "landmark",
                   "coords": [
                         23.930251,
@@ -180,7 +180,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Olaines luterāņu baznīca",
-                  "text": "Evangélikus-lutheránus templom Olaine városában.",
+                  "text": "20. századi evangélikus templom Olaine-ban, műemlék.",
                   "category": "religious",
                   "coords": [
                         23.982984,
@@ -191,7 +191,7 @@ export const latviaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Olaines Vēstures un Mākslas muzejs",
-                  "text": "Muzeul de istorie și artă din Olaine.",
+                  "text": "Muzeul de Istorie și Artă din Olaine, cu accent pe istoria industriei farmaceutice.",
                   "category": "museum",
                   "coords": [
                         23.936799,
@@ -218,7 +218,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Pirmā pasaules kara nocietinājumu līnija",
-                  "text": "Rămășițele unei linii de fortificații din Primul Război Mondial.",
+                  "text": "Linia de fortificații din Primul Război Mondial lângă Olaine, cu șanțuri și buncăre păstrate.",
                   "category": "landmark",
                   "coords": [
                         23.930251,
@@ -227,7 +227,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Olaines luterāņu baznīca",
-                  "text": "O biserică evanghelică luterană din Olaine.",
+                  "text": "Biserică luterană din secolul al XX-lea în Olaine, monument protejat.",
                   "category": "religious",
                   "coords": [
                         23.982984,
@@ -238,7 +238,7 @@ export const latviaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Museum of History And Art of Olaine",
-                  "text": "Museum of history and art located in Olaine.",
+                  "text": "Museum of History and Art of Olaine showcases local pharmaceutical industry history.",
                   "category": "museum",
                   "coords": [
                         23.936799,
@@ -265,7 +265,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Pirmā pasaules kara nocietinājumu līnija",
-                  "text": "Remains of a defense line from World War I.",
+                  "text": "First World War fortification line near Olaine, with preserved trenches and bunkers.",
                   "category": "landmark",
                   "coords": [
                         23.930251,
@@ -274,7 +274,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Olaines luterāņu baznīca",
-                  "text": "An Evangelical Lutheran church in Olaine.",
+                  "text": "20th-century Lutheran church in Olaine, a protected monument.",
                   "category": "religious",
                   "coords": [
                         23.982984,
@@ -556,7 +556,7 @@ export const latviaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Nūdistu pludmale",
-                  "text": "Dies ist ein FKK-Strand in der Nähe von Ventspils.",
+                  "text": "FKK-Strand am Terminal Ventspils Chemical, ein abgelegener Sandstreifen.",
                   "category": "recreational",
                   "coords": [
                         21.522811,
@@ -565,7 +565,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Sērfotāju pludmales zona",
-                  "text": "Ein ausgewiesener Bereich für Surfer in der Nähe von Ventspils.",
+                  "text": "Surfstrandzone am Terminal Ventspils Chemical, bekannt für Windwellen.",
                   "category": "recreational",
                   "coords": [
                         21.525859,
@@ -574,7 +574,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Pludmales volejbola zona",
-                  "text": "Ein Bereich für Beachvolleyball in der Nähe von Ventspils.",
+                  "text": "Beachvolleyballzone am Terminal Ventspils Chemical mit mehreren Plätzen.",
                   "category": "recreational",
                   "coords": [
                         21.527576,
@@ -594,7 +594,7 @@ export const latviaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Nūdistu pludmale",
-                  "text": "Ez egy nudista strand Ventspils közelében.",
+                  "text": "Nudista strand a Ventspils Chemical terminálnál, eldugott homokos partszakasz.",
                   "category": "recreational",
                   "coords": [
                         21.522811,
@@ -603,7 +603,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Sērfotāju pludmales zona",
-                  "text": "Kijelölt szörfös terület Ventspils közelében.",
+                  "text": "Szörfözők strandja a Ventspils Chemical terminálnál, ismert szélhullámairól.",
                   "category": "recreational",
                   "coords": [
                         21.525859,
@@ -612,7 +612,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Pludmales volejbola zona",
-                  "text": "Strandröplabda terület Ventspils közelében.",
+                  "text": "Strandröplabda zóna a Ventspils Chemical terminálnál, több pályával.",
                   "category": "recreational",
                   "coords": [
                         21.527576,
@@ -632,7 +632,7 @@ export const latviaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Nūdistu pludmale",
-                  "text": "Aceasta este o plajă pentru nudiști situată lângă Ventspils.",
+                  "text": "Plajă nudistă la Terminalul Chimic Ventspils, o porțiune retrasă de nisip.",
                   "category": "recreational",
                   "coords": [
                         21.522811,
@@ -641,7 +641,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Sērfotāju pludmales zona",
-                  "text": "O zonă desemnată pentru surferi situată lângă Ventspils.",
+                  "text": "Zona de plajă pentru surf la Terminalul Chimic Ventspils, cunoscută pentru valurile de vânt constante.",
                   "category": "recreational",
                   "coords": [
                         21.525859,
@@ -650,7 +650,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Pludmales volejbola zona",
-                  "text": "O zonă pentru volei pe plajă lângă Ventspils.",
+                  "text": "Zonă de volei pe plajă la Terminalul Chimic Ventspils, cu mai multe terenuri.",
                   "category": "recreational",
                   "coords": [
                         21.527576,
@@ -670,7 +670,7 @@ export const latviaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Nūdistu pludmale",
-                  "text": "This is a nudist beach near Ventspils.",
+                  "text": "Nudist beach at Ventspils Chemical Terminal, a secluded sandy stretch.",
                   "category": "recreational",
                   "coords": [
                         21.522811,
@@ -679,7 +679,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Sērfotāju pludmales zona",
-                  "text": "A designated surfing area near Ventspils.",
+                  "text": "Surfer's beach zone near Ventspils Chemical Terminal, known for consistent wind waves.",
                   "category": "recreational",
                   "coords": [
                         21.525859,
@@ -688,7 +688,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Pludmales volejbola zona",
-                  "text": "An area for beach volleyball near Ventspils.",
+                  "text": "Beach volleyball zone at Ventspils Chemical Terminal, with multiple courts.",
                   "category": "recreational",
                   "coords": [
                         21.527576,
@@ -844,7 +844,7 @@ export const latviaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Jumpravas ezera peldvieta",
-                  "text": "Ein Badeplatz am Jumpravas-See bei Tukums.",
+                  "text": "Jumpravas ezera peldvieta, ein See-Badeplatz in Tukums mit Sandstrand.",
                   "category": "recreational",
                   "coords": [
                         23.128761,
@@ -855,7 +855,7 @@ export const latviaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Jumpravas ezera peldvieta",
-                  "text": "Fürdőhely a Jumpravas-tónál, Tukums mellett.",
+                  "text": "Jumpravas ezera peldvieta, tavi fürdőhely Tukumsban, homokos parttal.",
                   "category": "recreational",
                   "coords": [
                         23.128761,
@@ -866,7 +866,7 @@ export const latviaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Jumpravas ezera peldvieta",
-                  "text": "O zonă de scăldat la lacul Jumpravas, lângă Tukums.",
+                  "text": "Jumpravas ezera peldvieta, loc de înot în lacul din Tukums, cu plajă nisipoasă.",
                   "category": "recreational",
                   "coords": [
                         23.128761,
@@ -877,7 +877,7 @@ export const latviaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Jumpravas ezera peldvieta",
-                  "text": "A swimming spot at Lake Jumpravas near Tukums.",
+                  "text": "Jumpravas ezera peldvieta, a lake swimming spot in Tukums, with a sandy beach.",
                   "category": "recreational",
                   "coords": [
                         23.128761,
@@ -1024,7 +1024,7 @@ export const latviaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Dzirnavas dīķa peldētava",
-                  "text": "Dzirnavas dīķa peldētava ist ein Badeplatz in Grobiņa.",
+                  "text": "Dzirnavas dīķa peldētava, ein Mühlenteich-Badeplatz bei Grobina Wind Energy, mit Holzsteg.",
                   "category": "recreational",
                   "coords": [
                         21.155364,
@@ -1035,7 +1035,7 @@ export const latviaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Dzirnavas dīķa peldētava",
-                  "text": "A Dzirnavas dīķa peldētava egy fürdőhely Grobiňában.",
+                  "text": "Dzirnavas dīķa peldētava, malomtó-fürdőhely Grobina Wind Energy közelében, fa stéggel.",
                   "category": "recreational",
                   "coords": [
                         21.155364,
@@ -1046,7 +1046,7 @@ export const latviaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Dzirnavas dīķa peldētava",
-                  "text": "Dzirnavas dīķa peldētava este o zonă de scăldat în Grobiņa.",
+                  "text": "Dzirnavas dīķa peldētava, un loc de scăldat în iaz de moară lângă Grobina Wind Energy, cu debarcader de lemn.",
                   "category": "recreational",
                   "coords": [
                         21.155364,
@@ -1057,7 +1057,7 @@ export const latviaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Dzirnavas dīķa peldētava",
-                  "text": "Dzirnavas dīķa peldētava is a swimming spot in Grobiņa.",
+                  "text": "Dzirnavas dīķa peldētava, a mill pond swimming area near Grobina Wind Energy, with wooden pier.",
                   "category": "recreational",
                   "coords": [
                         21.155364,
@@ -1258,7 +1258,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Saltavots",
-                  "text": "Eine natürliche Quelle, die für ihr klares und kaltes Wasser bekannt ist.",
+                  "text": "Saltavots, eine natürliche Salzwasserquelle in Sigulda, bekannt für ihr Mineralwasser.",
                   "category": "landmark",
                   "coords": [
                         24.850724,
@@ -1321,7 +1321,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Paradīzes kalns",
-                  "text": "Ein beliebter Aussichtshügel, der als Paradiesberg bekannt ist.",
+                  "text": "Paradieshügel in Sigulda, bietet Panoramablick auf das Gauja-Tal.",
                   "category": "natural",
                   "coords": [
                         24.86574,
@@ -1357,7 +1357,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "bijušais tramplīns",
-                  "text": "Der Standort einer ehemaligen Skisprungschanze in Sigulda.",
+                  "text": "Ehemalige Skisprungschanze in Sigulda, jetzt Aussichtspunkt.",
                   "category": "landmark",
                   "coords": [
                         24.870748,
@@ -1384,7 +1384,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Komplex neue Burg von Sigulda",
-                  "text": "Der architektonische Komplex rund um das Neue Schloss von Sigulda.",
+                  "text": "Komplex des Neuen Schlosses Sigulda, umfasst mittelalterliche Burg und modernes Herrenhaus.",
                   "category": "landmark",
                   "coords": [
                         24.851292,
@@ -1393,7 +1393,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Mežakaķis",
-                  "text": "Ein Freizeitzentrum und Abenteuerpark für Familien in Sigulda.",
+                  "text": "Mežakaķis, eine Waldkatzenstatue in Sigulda, beliebtes Fotomotiv.",
                   "category": "landmark",
                   "coords": [
                         24.828482,
@@ -1575,7 +1575,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Saltavots",
-                  "text": "Természetes forrás, amely tiszta és hideg vizéről ismert.",
+                  "text": "Saltavots, természetes sós forrás Siguldában, ásványvíztartalmáról ismert.",
                   "category": "landmark",
                   "coords": [
                         24.850724,
@@ -1638,7 +1638,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Paradīzes kalns",
-                  "text": "Népszerű kilátódomb, amelyet Paradicsom-dombként ismernek.",
+                  "text": "Paradicsom-hegy Siguldában, panorámás kilátással a Gauja-völgyre.",
                   "category": "natural",
                   "coords": [
                         24.86574,
@@ -1674,7 +1674,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "bijušais tramplīns",
-                  "text": "Egy egykori síugró sánc helyszíne Siguldában.",
+                  "text": "Egykori síugrósánc Siguldában, ma kilátóhely.",
                   "category": "landmark",
                   "coords": [
                         24.870748,
@@ -1701,7 +1701,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Siguldas Jaunās pils komplekss",
-                  "text": "A siguldai Új Vár körüli építészeti együttes.",
+                  "text": "A Siguldai Új Kastély komplexuma, középkori várral és modern kúriával.",
                   "category": "landmark",
                   "coords": [
                         24.851292,
@@ -1710,7 +1710,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Mežakaķis",
-                  "text": "Szabadidő- és kalandpark családok számára Siguldában.",
+                  "text": "Mežakaķis, erdei macska szobor Siguldában, népszerű fotópont.",
                   "category": "landmark",
                   "coords": [
                         24.828482,
@@ -1892,7 +1892,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Saltavots",
-                  "text": "Un izvor natural cunoscut pentru apa sa limpede și rece.",
+                  "text": "Saltavots, un izvor natural sărat în Sigulda, cunoscut pentru apa minerală.",
                   "category": "landmark",
                   "coords": [
                         24.850724,
@@ -1955,7 +1955,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Paradīzes kalns",
-                  "text": "Un deal de observație popular, cunoscut sub numele de Dealul Paradisului.",
+                  "text": "Dealul Paradisului în Sigulda, oferă vedere panoramică asupra văii Gauja.",
                   "category": "natural",
                   "coords": [
                         24.86574,
@@ -1991,7 +1991,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "bijušais tramplīns",
-                  "text": "Locul unei foste trambuline de sărituri cu schiurile în Sigulda.",
+                  "text": "Fosta trambulină de sărituri cu schiurile în Sigulda, acum punct de observație.",
                   "category": "landmark",
                   "coords": [
                         24.870748,
@@ -2018,7 +2018,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Siguldas Jaunās pils komplekss",
-                  "text": "Complexul arhitectural din jurul Noului Castel din Sigulda.",
+                  "text": "Complexul Noului Castel Sigulda, include un castel medieval și un conac modern.",
                   "category": "landmark",
                   "coords": [
                         24.851292,
@@ -2027,7 +2027,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Mežakaķis",
-                  "text": "Un centru de agrement și parc de aventură pentru familii în Sigulda.",
+                  "text": "Mežakaķis, o statuie a unei pisici de pădure în Sigulda, loc popular pentru fotografii.",
                   "category": "landmark",
                   "coords": [
                         24.828482,
@@ -2209,7 +2209,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Saltavots",
-                  "text": "A natural spring known for its clear and cold water.",
+                  "text": "Saltavots, a natural salt spring in Sigulda, known for its mineral-rich water.",
                   "category": "landmark",
                   "coords": [
                         24.850724,
@@ -2272,7 +2272,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Paradise hill",
-                  "text": "A popular observation hill known as Paradise Hill.",
+                  "text": "Paradise hill in Sigulda offers panoramic views over the Gauja valley.",
                   "category": "natural",
                   "coords": [
                         24.86574,
@@ -2308,7 +2308,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "bijušais tramplīns",
-                  "text": "The site of a former ski jumping hill in Sigulda.",
+                  "text": "Former ski jump in Sigulda, now a lookout point.",
                   "category": "landmark",
                   "coords": [
                         24.870748,
@@ -2335,7 +2335,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Complex of Sigulda New Castle",
-                  "text": "The architectural complex surrounding the New Castle of Sigulda.",
+                  "text": "The Sigulda New Castle complex includes a Medieval castle and a modern manor.",
                   "category": "landmark",
                   "coords": [
                         24.851292,
@@ -2344,7 +2344,7 @@ export const latviaEconomicV2: POI[] = [
             },
             {
                   "name": "Mežakaķis",
-                  "text": "A leisure and adventure park for families in Sigulda.",
+                  "text": "Mežakaķis, a forest cat statue in Sigulda, a popular photo spot.",
                   "category": "landmark",
                   "coords": [
                         24.828482,

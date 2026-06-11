@@ -360,7 +360,7 @@ imageHint: "Kruopine hill landscape Lithuania",
       "de": [
             {
                   "name": "Minčios vandens malūnas",
-                  "text": "Eine historische Wassermühle in der Region.",
+                  "text": "Wassermühle Minčia am Nevaišiai-Hügel.",
                   "category": "landmark",
                   "coords": [
                         25.980239,
@@ -369,7 +369,7 @@ imageHint: "Kruopine hill landscape Lithuania",
             },
             {
                   "name": "Švedriškės Šv. Jono Krikštytojo bažnyčia",
-                  "text": "Eine hölzerne katholische Kirche in Švedriškė.",
+                  "text": "Katholische Kirche des Heiligen Johannes des Täufers in Švedriškė.",
                   "category": "religious",
                   "coords": [
                         26.073301,
@@ -380,7 +380,7 @@ imageHint: "Kruopine hill landscape Lithuania",
       "hu": [
             {
                   "name": "Minčios vandens malūnas",
-                  "text": "Történelmi vízimalom a régióban.",
+                  "text": "Minčia vízimalom a Nevaišiai-dombnál.",
                   "category": "landmark",
                   "coords": [
                         25.980239,
@@ -389,7 +389,7 @@ imageHint: "Kruopine hill landscape Lithuania",
             },
             {
                   "name": "Švedriškės Šv. Jono Krikštytojo bažnyčia",
-                  "text": "Fából készült katolikus templom Švedriškėben.",
+                  "text": "Keresztelő Szent János római katolikus temploma Švedriškėben.",
                   "category": "religious",
                   "coords": [
                         26.073301,
@@ -400,7 +400,7 @@ imageHint: "Kruopine hill landscape Lithuania",
       "ro": [
             {
                   "name": "Minčios vandens malūnas",
-                  "text": "O moară de apă istorică în regiune.",
+                  "text": "Moara de apă Minčia lângă Dealul Nevaišiai.",
                   "category": "landmark",
                   "coords": [
                         25.980239,
@@ -409,7 +409,7 @@ imageHint: "Kruopine hill landscape Lithuania",
             },
             {
                   "name": "Švedriškės Šv. Jono Krikštytojo bažnyčia",
-                  "text": "O biserică catolică de lemn în Švedriškė.",
+                  "text": "Biserica catolică a Sfântului Ioan Botezătorul din Švedriškė.",
                   "category": "religious",
                   "coords": [
                         26.073301,
@@ -420,7 +420,7 @@ imageHint: "Kruopine hill landscape Lithuania",
       "en": [
             {
                   "name": "Minčios vandens malūnas",
-                  "text": "A historic water mill in the region.",
+                  "text": "Minčia water mill near Nevaišiai Hill.",
                   "category": "landmark",
                   "coords": [
                         25.980239,
@@ -429,7 +429,7 @@ imageHint: "Kruopine hill landscape Lithuania",
             },
             {
                   "name": "Švedriškės Šv. Jono Krikštytojo bažnyčia",
-                  "text": "A wooden Catholic church in Švedriškė.",
+                  "text": "Catholic church of St. John the Baptist in Švedriškė.",
                   "category": "religious",
                   "coords": [
                         26.073301,
@@ -723,7 +723,7 @@ imageHint: "Satrija hill and landscape Telšiai district Lithuania",
             },
             {
                   "name": "Skardis ir Vištyčio vaizdas",
-                  "text": "Aussichtspunkt mit Blick auf das Kliff und den Wystiter See.",
+                  "text": "Steilhang und Blick auf den Vištytis-See vom Pavistytis-Hügel.",
                   "category": "natural",
                   "coords": [
                         22.760452,
@@ -770,7 +770,7 @@ imageHint: "Satrija hill and landscape Telšiai district Lithuania",
             },
             {
                   "name": "Skardis ir Vištyčio vaizdas",
-                  "text": "Kilátóhely, ahonnan rálátni a meredek partra és a Vištytis-tóra.",
+                  "text": "Szikla és kilátás a Vištytis-tóra a Pavistytis-dombról.",
                   "category": "natural",
                   "coords": [
                         22.760452,
@@ -817,7 +817,7 @@ imageHint: "Satrija hill and landscape Telšiai district Lithuania",
             },
             {
                   "name": "Skardis ir Vištyčio vaizdas",
-                  "text": "Punct de belvedere care oferă o vedere asupra falezei și a lacului Vištytis.",
+                  "text": "Stâncă și vedere spre Lacul Vištytis de pe Dealul Pavistytis.",
                   "category": "natural",
                   "coords": [
                         22.760452,
@@ -864,7 +864,7 @@ imageHint: "Satrija hill and landscape Telšiai district Lithuania",
             },
             {
                   "name": "Skardis ir Vištyčio vaizdas",
-                  "text": "Viewpoint overlooking the cliff and Lake Vištytis.",
+                  "text": "Cliff and view of Lake Vištytis from Pavistytis Hill.",
                   "category": "natural",
                   "coords": [
                         22.760452,
@@ -977,7 +977,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
       "de": [
             {
                   "name": "Staniuliškių piliakalnis",
-                  "text": "Der Staniuliškės-Burghügel ist eine historische befestigte Stätte in Litauen.",
+                  "text": "Eine Hügelburg an den Hängen des Ladakalnis-Hügels.",
                   "category": "historical",
                   "coords": [
                         25.930583,
@@ -1040,7 +1040,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
             },
             {
                   "name": "Paukščių kaimas",
-                  "text": "Ein ländlicher Tierpark, der sich auf die Haltung verschiedener Vögel spezialisiert hat.",
+                  "text": "Vogel-Dorf am Ladakalnis-Hügel.",
                   "category": "recreational",
                   "coords": [
                         25.988435,
@@ -1051,7 +1051,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
       "hu": [
             {
                   "name": "Staniuliškių piliakalnis",
-                  "text": "A Staniuliškės-várhegy egy történelmi erődített hely Litvániában.",
+                  "text": "Egy földvár a Ladakalnis-domb lejtőin.",
                   "category": "historical",
                   "coords": [
                         25.930583,
@@ -1114,7 +1114,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
             },
             {
                   "name": "Paukščių kaimas",
-                  "text": "Vidéki állatpark, amely különféle madarak tartására szakosodott.",
+                  "text": "Madárfalu a Ladakalnis-dombnál.",
                   "category": "recreational",
                   "coords": [
                         25.988435,
@@ -1125,7 +1125,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
       "ro": [
             {
                   "name": "Staniuliškių piliakalnis",
-                  "text": "Fortăreața Staniuliškės este un sit istoric fortificat din Lituania.",
+                  "text": "O fortificație de deal pe versanții Dealului Ladakalnis.",
                   "category": "historical",
                   "coords": [
                         25.930583,
@@ -1188,7 +1188,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
             },
             {
                   "name": "Paukščių kaimas",
-                  "text": "Un parc de animale rural specializat în creșterea diverselor păsări.",
+                  "text": "Satul păsărilor lângă Dealul Ladakalnis.",
                   "category": "recreational",
                   "coords": [
                         25.988435,
@@ -1199,7 +1199,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
       "en": [
             {
                   "name": "Staniuliškių piliakalnis",
-                  "text": "Staniuliškės hillfort is a historical fortified site in Lithuania.",
+                  "text": "A hillfort on the slopes of Ladakalnis Hill.",
                   "category": "historical",
                   "coords": [
                         25.930583,
@@ -1262,7 +1262,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
             },
             {
                   "name": "Paukščių kaimas",
-                  "text": "A rural animal park specializing in various birds.",
+                  "text": "Bird Village near Ladakalnis Hill.",
                   "category": "recreational",
                   "coords": [
                         25.988435,
@@ -3347,7 +3347,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Juozapinės kalno II regykla",
-                  "text": "Ein markierter Aussichtspunkt auf dem Juozapinė-Hügel.",
+                  "text": "Zweiter Aussichtspunkt auf dem Juozapinė-Kamm.",
                   "category": "natural",
                   "coords": [
                         25.629523,
@@ -3356,7 +3356,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Juozapinės kalno III regykla",
-                  "text": "Ein weiterer Aussichtspunkt auf dem Juozapinė-Hügel.",
+                  "text": "Dritter Aussichtspunkt auf dem Juozapinė-Kamm.",
                   "category": "natural",
                   "coords": [
                         25.627874,
@@ -3394,7 +3394,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Juozapinės kalno II regykla",
-                  "text": "Kijelölt kilátópont a Juozapinė-dombon.",
+                  "text": "Második kilátó a Juozapinė-gerincen.",
                   "category": "natural",
                   "coords": [
                         25.629523,
@@ -3403,7 +3403,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Juozapinės kalno III regykla",
-                  "text": "Egy másik kilátópont a Juozapinė-dombon.",
+                  "text": "Harmadik kilátó a Juozapinė-gerincen.",
                   "category": "natural",
                   "coords": [
                         25.627874,
@@ -3441,7 +3441,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Juozapinės kalno II regykla",
-                  "text": "Un punct de belvedere amenajat pe dealul Juozapinė.",
+                  "text": "Al doilea punct de observare pe Creasta Juozapinė.",
                   "category": "natural",
                   "coords": [
                         25.629523,
@@ -3450,7 +3450,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Juozapinės kalno III regykla",
-                  "text": "Un alt punct de belvedere situat pe dealul Juozapinė.",
+                  "text": "Al treilea punct de observare pe Creasta Juozapinė.",
                   "category": "natural",
                   "coords": [
                         25.627874,
@@ -3488,7 +3488,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Juozapinės kalno II regykla",
-                  "text": "A designated viewpoint located on the Juozapinė Hill.",
+                  "text": "Second observation point on Juozapinė Ridge.",
                   "category": "natural",
                   "coords": [
                         25.629523,
@@ -3497,7 +3497,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Juozapinės kalno III regykla",
-                  "text": "Another viewpoint located on the Juozapinė Hill.",
+                  "text": "Third observation point on Juozapinė Ridge.",
                   "category": "natural",
                   "coords": [
                         25.627874,
@@ -3608,7 +3608,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
       "de": [
             {
                   "name": "Betygalos I piliakalnis",
-                  "text": "Ein historischer Burghügel in der Nähe des Dubysa-Tals.",
+                  "text": "Ein Hügelfort auf dem Dubysa-Steilhang.",
                   "category": "historical",
                   "coords": [
                         23.371611,
@@ -3635,7 +3635,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Betygalos muziejus",
-                  "text": "Ein lokales Museum im Dubysa-Hanggebiet.",
+                  "text": "Museum Betygala am Dubysa-Steilhang.",
                   "category": "museum",
                   "coords": [
                         23.370281,
@@ -3673,7 +3673,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
       "hu": [
             {
                   "name": "Betygalos I piliakalnis",
-                  "text": "Történelmi várhely a Dubysa-völgy közelében.",
+                  "text": "Halomszerű erőd a Dubysa-sziklafalon.",
                   "category": "historical",
                   "coords": [
                         23.371611,
@@ -3700,7 +3700,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Betygalos muziejus",
-                  "text": "Helyi múzeum a Dubysa-lejtő területén.",
+                  "text": "Betygala múzeum a Dubysa-szirten.",
                   "category": "museum",
                   "coords": [
                         23.370281,
@@ -3738,7 +3738,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
       "ro": [
             {
                   "name": "Betygalos I piliakalnis",
-                  "text": "O colină fortificată istorică lângă valea Dubysa.",
+                  "text": "Un tumul de fortificație pe faleza Dubysa.",
                   "category": "historical",
                   "coords": [
                         23.371611,
@@ -3765,7 +3765,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Betygalos muziejus",
-                  "text": "Un muzeu local în zona versantului Dubysa.",
+                  "text": "Muzeul Betygala pe Escarpamentul Dubysa.",
                   "category": "museum",
                   "coords": [
                         23.370281,
@@ -3803,7 +3803,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
       "en": [
             {
                   "name": "Betygalos I piliakalnis",
-                  "text": "A historic hillfort site near the Dubysa valley.",
+                  "text": "A hillfort mound on the Dubysa Escarpment.",
                   "category": "historical",
                   "coords": [
                         23.371611,
@@ -3830,7 +3830,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
             },
             {
                   "name": "Betygalos muziejus",
-                  "text": "A local museum in the Dubysa Escarpment area.",
+                  "text": "Betygala museum on the Dubysa Escarpment.",
                   "category": "museum",
                   "coords": [
                         23.370281,
@@ -4328,7 +4328,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
       "de": [
             {
                   "name": "Marijampolės nudistų paplūdimys",
-                  "text": "FKK-Strand von Marijampolė im Šešupė-Tal.",
+                  "text": "Nudistenstrand in Marijampolė im Šešupė-Tal.",
                   "category": "recreational",
                   "coords": [
                         23.348408,
@@ -4339,7 +4339,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
       "hu": [
             {
                   "name": "Marijampolės nudistų paplūdimys",
-                  "text": "Marijampolė nudista strand a Šešupė-völgyben.",
+                  "text": "Nudista strand Marijampolėben a Šešupė-völgyben.",
                   "category": "recreational",
                   "coords": [
                         23.348408,
@@ -4350,7 +4350,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
       "ro": [
             {
                   "name": "Marijampolės nudistų paplūdimys",
-                  "text": "Plaja de nudiști din Marijampolė în valea Šešupė.",
+                  "text": "Plajă nudistă în Marijampolė în Valea Šešupė.",
                   "category": "recreational",
                   "coords": [
                         23.348408,
@@ -4361,7 +4361,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
       "en": [
             {
                   "name": "Marijampolės nudistų paplūdimys",
-                  "text": "Marijampolė nudist beach in Šešupė Valley.",
+                  "text": "Nudist beach in Marijampolė in the Šešupė Valley.",
                   "category": "recreational",
                   "coords": [
                         23.348408,

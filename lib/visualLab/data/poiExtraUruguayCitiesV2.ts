@@ -96,7 +96,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casona Afcrami",
-                  "text": "Die Casona Afcrami ist ein bemerkenswertes historisches Gebäude in Las Piedras.",
+                  "text": "Casona Afcrami: ein historisches Herrenhaus in der Stadt Piedras.",
                   "category": "landmark",
                   "coords": [
                         -56.217258,
@@ -134,7 +134,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casona Afcrami",
-                  "text": "A Casona Afcrami egy figyelemre méltó történelmi épület Las Piedrasban.",
+                  "text": "Casona Afcrami: egy történelmi kúria Piedras városában.",
                   "category": "landmark",
                   "coords": [
                         -56.217258,
@@ -172,7 +172,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casona Afcrami",
-                  "text": "Casona Afcrami este o clădire istorică remarcabilă din Las Piedras.",
+                  "text": "Casona Afcrami: un conac istoric în orașul Piedras.",
                   "category": "landmark",
                   "coords": [
                         -56.217258,
@@ -210,7 +210,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casona Afcrami",
-                  "text": "Casona Afcrami is a notable historical building in Las Piedras.",
+                  "text": "Casona Afcrami: a historic mansion in the town of Piedras.",
                   "category": "landmark",
                   "coords": [
                         -56.217258,
@@ -438,7 +438,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Quinta Capurro",
-                  "text": "Quinta Capurro ist ein malerischer Park in Santa Lucía.",
+                  "text": "Quinta Capurro: ein Park auf dem ehemaligen Capurro-Anwesen am Bach Lucia.",
                   "category": "park",
                   "coords": [
                         -56.382538,
@@ -449,7 +449,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Quinta Capurro",
-                  "text": "A Quinta Capurro egy festői park Santa Lucía városában.",
+                  "text": "Quinta Capurro: park a volt Capurro birtokon, a Lucia-patak közelében.",
                   "category": "park",
                   "coords": [
                         -56.382538,
@@ -460,7 +460,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Quinta Capurro",
-                  "text": "Quinta Capurro este un parc pitoresc situat în Santa Lucía.",
+                  "text": "Quinta Capurro: un parc pe fosta moșie Capurro, lângă pârâul Lucia.",
                   "category": "park",
                   "coords": [
                         -56.382538,
@@ -471,7 +471,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Quinta Capurro",
-                  "text": "Quinta Capurro is a scenic park located in Santa Lucía.",
+                  "text": "Quinta Capurro: a park on the former Capurro estate, near the Lucia stream.",
                   "category": "park",
                   "coords": [
                         -56.382538,
@@ -1078,7 +1078,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro AlSur",
-                  "text": "Das Teatro AlSur ist ein lokales Theater in Atlantida.",
+                  "text": "Teatro AlSur: ein Kulturtheater in Atlántida, das lokale Aufführungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -55.758114,
@@ -1114,7 +1114,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Expoplatea de Atlántida",
-                  "text": "Expoplatea ist eine beliebte Freiluftattraktion in Atlantida.",
+                  "text": "Expoplatea de Atlántida: ein Ausstellungsort auf dem Hauptplatz von Atlántida.",
                   "category": "landmark",
                   "coords": [
                         -55.763322,
@@ -1134,7 +1134,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro AlSur",
-                  "text": "A Teatro AlSur egy helyi színház Atlantidában.",
+                  "text": "Teatro AlSur: egy kulturális színház Atlántidában, helyi előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -55.758114,
@@ -1170,7 +1170,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Expoplatea de Atlántida",
-                  "text": "Az Expoplatea egy népszerű szabadtéri látványosság Atlantidában.",
+                  "text": "Expoplatea de Atlántida: kiállítóhely Atlántida főterén.",
                   "category": "landmark",
                   "coords": [
                         -55.763322,
@@ -1190,7 +1190,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro AlSur",
-                  "text": "Teatro AlSur este un teatru local din Atlantida.",
+                  "text": "Teatro AlSur: un teatru cultural în Atlántida, care găzduiește spectacole locale.",
                   "category": "cultural",
                   "coords": [
                         -55.758114,
@@ -1226,7 +1226,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Expoplatea de Atlántida",
-                  "text": "Expoplatea este o atracție populară în aer liber din Atlantida.",
+                  "text": "Expoplatea de Atlántida: un loc de expoziție în piața principală din Atlántida.",
                   "category": "landmark",
                   "coords": [
                         -55.763322,
@@ -1246,7 +1246,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro AlSur",
-                  "text": "Teatro AlSur is a local theatre venue in Atlantida.",
+                  "text": "Teatro AlSur: a cultural theatre in Atlántida, hosting local performances.",
                   "category": "cultural",
                   "coords": [
                         -55.758114,
@@ -1282,7 +1282,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Expoplatea de Atlántida",
-                  "text": "Expoplatea is a popular outdoor attraction in Atlantida.",
+                  "text": "Expoplatea de Atlántida: an exhibition venue on the main square of Atlántida.",
                   "category": "landmark",
                   "coords": [
                         -55.763322,
@@ -1410,7 +1410,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Vista 4 mares",
-                  "text": "Eine Sehenswürdigkeit in Punta del Este.",
+                  "text": "Vista 4 mares: ein Aussichtspunkt mit Panoramablick auf vier Strände von Punta del Este.",
                   "category": "landmark",
                   "coords": [
                         -54.951175,
@@ -1419,7 +1419,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Muelle La Pastora",
-                  "text": "Ein Aussichtspunkt in Punta del Este.",
+                  "text": "Sunset point: ein natürlicher Aussichtspunkt an der Küste von Punta del Este, berühmt für seine Sonnenuntergänge.",
                   "category": "natural",
                   "coords": [
                         -54.942055,
@@ -1428,7 +1428,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Montepilatus",
-                  "text": "Eine Kunstgalerie in Punta del Este.",
+                  "text": "Montepilatus: ein Museum nach dem Schweizer Berg benannt, gelegen in Punta del Este.",
                   "category": "museum",
                   "coords": [
                         -54.930734,
@@ -1437,7 +1437,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "La Vista",
-                  "text": "Eine Galerie in Punta del Este.",
+                  "text": "La Vista: ein Museum mit malerischem Blick auf die Küste von Punta del Este.",
                   "category": "museum",
                   "coords": [
                         -54.94012,
@@ -1446,7 +1446,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Guerra",
-                  "text": "Eine Kunstgalerie in Punta del Este.",
+                  "text": "Guerra: ein Museum, das der Militärgeschichte in Punta del Este gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -54.949041,
@@ -1455,7 +1455,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Batería de La Concepción",
-                  "text": "Historische Ruinen in Punta del Este.",
+                  "text": "Conception's Battery: eine Küstenartillerie-Batterie aus dem 19. Jahrhundert in Punta del Este.",
                   "category": "historical",
                   "coords": [
                         -54.972624,
@@ -1464,7 +1464,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Batería de Santa Ana",
-                  "text": "Historische Ruinen in Punta del Este.",
+                  "text": "Saint Ana's Battery: eine historische Küstenfestung in Punta del Este.",
                   "category": "historical",
                   "coords": [
                         -54.975692,
@@ -1511,7 +1511,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Vista 4 mares",
-                  "text": "Látványosság Punta del Este városában.",
+                  "text": "Vista 4 mares: egy kilátópont, ahonnan négy punta del este-i strand panorámája látszik.",
                   "category": "landmark",
                   "coords": [
                         -54.951175,
@@ -1520,7 +1520,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Muelle La Pastora",
-                  "text": "Kilátópont Punta del Este városában.",
+                  "text": "Sunset point: egy természetes kilátópont Punta del Este partján, híres naplementéiről.",
                   "category": "natural",
                   "coords": [
                         -54.942055,
@@ -1529,7 +1529,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Montepilatus",
-                  "text": "Művészeti galéria Punta del Este városában.",
+                  "text": "Montepilatus: a svájci hegyről elnevezett múzeum Punta del Estében.",
                   "category": "museum",
                   "coords": [
                         -54.930734,
@@ -1538,7 +1538,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "La Vista",
-                  "text": "Galéria Punta del Este városában.",
+                  "text": "La Vista: múzeum, mely gyönyörű kilátást nyújt Punta del Este partvidékére.",
                   "category": "museum",
                   "coords": [
                         -54.94012,
@@ -1547,7 +1547,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Guerra",
-                  "text": "Művészeti galéria Punta del Este városában.",
+                  "text": "Guerra: a hadtörténetnek szentelt múzeum Punta del Estében.",
                   "category": "museum",
                   "coords": [
                         -54.949041,
@@ -1556,7 +1556,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Batería de La Concepción",
-                  "text": "Történelmi romok Punta del Este városában.",
+                  "text": "Conception's Battery: egy 19. századi tengerparti tüzérségi üteg Punta del Estében.",
                   "category": "historical",
                   "coords": [
                         -54.972624,
@@ -1565,7 +1565,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Batería de Santa Ana",
-                  "text": "Történelmi romok Punta del Este városában.",
+                  "text": "Saint Ana's Battery: történelmi tengerparti erőd Punta del Estében.",
                   "category": "historical",
                   "coords": [
                         -54.975692,
@@ -1612,7 +1612,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Vista 4 mares",
-                  "text": "O atracție în Punta del Este.",
+                  "text": "Vista 4 mares: un punct de belvedere cu vedere panoramică asupra a patru plaje din Punta del Este.",
                   "category": "landmark",
                   "coords": [
                         -54.951175,
@@ -1621,7 +1621,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Muelle La Pastora",
-                  "text": "Un punct de belvedere în Punta del Este.",
+                  "text": "Sunset point: un punct de belvedere natural pe coasta Punta del Este, renumit pentru apusurile sale.",
                   "category": "natural",
                   "coords": [
                         -54.942055,
@@ -1630,7 +1630,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Montepilatus",
-                  "text": "O galerie de artă în Punta del Este.",
+                  "text": "Montepilatus: un muzeu denumit după muntele elvețian, situat în Punta del Este.",
                   "category": "museum",
                   "coords": [
                         -54.930734,
@@ -1639,7 +1639,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "La Vista",
-                  "text": "O galerie în Punta del Este.",
+                  "text": "La Vista: un muzeu care oferă o vedere pitorească asupra coastei Punta del Este.",
                   "category": "museum",
                   "coords": [
                         -54.94012,
@@ -1648,7 +1648,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Guerra",
-                  "text": "O galerie în Punta del Este.",
+                  "text": "Guerra: un muzeu dedicat istoriei militare din Punta del Este.",
                   "category": "museum",
                   "coords": [
                         -54.949041,
@@ -1657,7 +1657,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Batería de La Concepción",
-                  "text": "Ruine istorice în Punta del Este.",
+                  "text": "Conception's Battery: o baterie de artilerie de coastă din secolul al XIX-lea în Punta del Este.",
                   "category": "historical",
                   "coords": [
                         -54.972624,
@@ -1666,7 +1666,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Batería de Santa Ana",
-                  "text": "Ruine în Punta del Este.",
+                  "text": "Saint Ana's Battery: o fortăreață istorică de coastă în Punta del Este.",
                   "category": "historical",
                   "coords": [
                         -54.975692,
@@ -1713,7 +1713,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Vista 4 mares",
-                  "text": "A tourist attraction in Punta del Este.",
+                  "text": "Vista 4 mares: a viewpoint offering panoramic views of four beaches in Punta del Este.",
                   "category": "landmark",
                   "coords": [
                         -54.951175,
@@ -1722,7 +1722,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Sunset point",
-                  "text": "A viewpoint in Punta del Este.",
+                  "text": "Sunset point: a natural viewpoint on the coast of Punta del Este, famous for its sunsets.",
                   "category": "natural",
                   "coords": [
                         -54.942055,
@@ -1731,7 +1731,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Montepilatus",
-                  "text": "An art gallery in Punta del Este.",
+                  "text": "Montepilatus: a museum named after the Swiss mountain, located in Punta del Este.",
                   "category": "museum",
                   "coords": [
                         -54.930734,
@@ -1740,7 +1740,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "La Vista",
-                  "text": "A gallery in Punta del Este.",
+                  "text": "La Vista: a museum offering scenic views of Punta del Este's coastline.",
                   "category": "museum",
                   "coords": [
                         -54.94012,
@@ -1749,7 +1749,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Guerra",
-                  "text": "A gallery in Punta del Este.",
+                  "text": "Guerra: a museum dedicated to military history in Punta del Este.",
                   "category": "museum",
                   "coords": [
                         -54.949041,
@@ -1758,7 +1758,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Conception's Battery",
-                  "text": "Historical ruins in Punta del Este.",
+                  "text": "Conception's Battery: a 19th-century coastal artillery battery in Punta del Este.",
                   "category": "historical",
                   "coords": [
                         -54.972624,
@@ -1767,7 +1767,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Saint Ana's Battery",
-                  "text": "Historical ruins in Punta del Este.",
+                  "text": "Saint Ana's Battery: a historical coastal fortress in Punta del Este.",
                   "category": "historical",
                   "coords": [
                         -54.975692,
@@ -1922,7 +1922,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura de Pan de Azucar",
-                  "text": "Die Casa de la Cultura ist ein aktives Kunstzentrum in Pan de Azúcar.",
+                  "text": "Casa de la Cultura de Pan de Azucar: das Kulturzentrum von Pan de Azúcar, untergebracht in einem historischen Gebäude.",
                   "category": "cultural",
                   "coords": [
                         -55.223296,
@@ -1960,7 +1960,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura de Pan de Azucar",
-                  "text": "A Casa de la Cultura egy aktív művészeti központ Pan de Azúcarban.",
+                  "text": "Casa de la Cultura de Pan de Azucar: Pan de Azúcar kulturális központja egy történelmi épületben.",
                   "category": "cultural",
                   "coords": [
                         -55.223296,
@@ -1998,7 +1998,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura de Pan de Azucar",
-                  "text": "Casa de la Cultura este un centru de arte activ situat în Pan de Azúcar.",
+                  "text": "Casa de la Cultura de Pan de Azucar: centrul cultural al orașului Pan de Azúcar, găzduit într-o clădire istorică.",
                   "category": "cultural",
                   "coords": [
                         -55.223296,
@@ -2036,7 +2036,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura de Pan de Azucar",
-                  "text": "The Casa de la Cultura is an active arts centre located in Pan de Azúcar.",
+                  "text": "Casa de la Cultura de Pan de Azucar: the cultural center of Pan de Azúcar, housed in a historic building.",
                   "category": "cultural",
                   "coords": [
                         -55.223296,
@@ -2929,7 +2929,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Historico Regional de Dolores",
-                  "text": "Regionalmuseum für Geschichte in Dolores.",
+                  "text": "Museo Historico Regional de Dolores: ein regionales Geschichtsmuseum in der Stadt Dolores.",
                   "category": "museum",
                   "coords": [
                         -58.224981,
@@ -2938,7 +2938,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Nuestra Señora de Dolores",
-                  "text": "Eine Kirche und Sehenswürdigkeit in Dolores.",
+                  "text": "Iglesia Nuestra Señora de Dolores: eine katholische Kirche in der Stadt Dolores.",
                   "category": "landmark",
                   "coords": [
                         -58.216126,
@@ -2949,7 +2949,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Historico Regional de Dolores",
-                  "text": "Helytörténeti múzeum Dolores városában.",
+                  "text": "Museo Historico Regional de Dolores: regionális történeti múzeum Dolores városában.",
                   "category": "museum",
                   "coords": [
                         -58.224981,
@@ -2958,7 +2958,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Nuestra Señora de Dolores",
-                  "text": "Templom és látványosság Dolores városában.",
+                  "text": "Iglesia Nuestra Señora de Dolores: egy katolikus templom Dolores városában.",
                   "category": "landmark",
                   "coords": [
                         -58.216126,
@@ -2969,7 +2969,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Historico Regional de Dolores",
-                  "text": "Muzeu istoric regional în Dolores.",
+                  "text": "Museo Historico Regional de Dolores: un muzeu regional de istorie în orașul Dolores.",
                   "category": "museum",
                   "coords": [
                         -58.224981,
@@ -2978,7 +2978,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Nuestra Señora de Dolores",
-                  "text": "O biserică și atracție în Dolores.",
+                  "text": "Iglesia Nuestra Señora de Dolores: o biserică catolică în orașul Dolores.",
                   "category": "landmark",
                   "coords": [
                         -58.216126,
@@ -2989,7 +2989,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Historico Regional de Dolores",
-                  "text": "Regional history museum in Dolores.",
+                  "text": "Museo Historico Regional de Dolores: a regional history museum in the city of Dolores.",
                   "category": "museum",
                   "coords": [
                         -58.224981,
@@ -2998,7 +2998,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Nuestra Señora de Dolores",
-                  "text": "A church and attraction in Dolores.",
+                  "text": "Iglesia Nuestra Señora de Dolores: a Catholic church in the town of Dolores.",
                   "category": "landmark",
                   "coords": [
                         -58.216126,
@@ -3911,7 +3911,304 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["Lascano offre un aperçu approfondi de la culture et des traditions régionales.", "La ville se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs de Lascano de nombreuses possibilités de loisirs actifs."],
     }, image: "/poi-images/lascano-cities-v2.webp"},
   {
-    id: "la-paloma-cities-v2", "sights": {"de": [{"name": "Playa La Balconada", "text": "Vor der Küstenkulisse von La Paloma gelegen, ist dieser beliebte Strand weithin für seine atemberaubenden Sonnenuntergänge bekannt. Die Atmosphäre ist angenehm lebhaft, wenn sich Einheimische und Besucher am Ufer versammeln. Besucher können entspannte Spaziergänge im Sand oder eine Erfrischung im uruguayischen Wasser genießen. Es empfiehlt sich, am späten Nachmittag einzutreffen, um das farbenfrohe Abendschauspiel nicht zu verpassen.", "category": "recreational", "coords": [-54.165304, -34.664685]}, {"name": "Playa del Faro", "text": "Ganz in der Nähe des markanten Leuchtturms von La Paloma bietet dieser Küstenabschnitt eine reizvolle maritime Kulisse. Eine friedliche Atmosphäre umgibt die Gegend, was sie zu einem hervorragenden Ort für ruhige Momente am Meer macht. Sonnenbaden und ausgedehnte Küstenspaziergänge gehören zu den Hauptaktivitäten an diesem malerischen Ufer. Ein Besuch bei klarem Wetter lohnt sich besonders, um das historische Bauwerk am Horizont zu fotografieren.", "category": "recreational", "coords": [-54.160646, -34.666707]}, {"name": "Playa El Cabito", "text": "In der Küstenstadt La Paloma gelegen, fängt dieser einladende Strand die Essenz der uruguayischen Meeresküste ein. Er strahlt typischerweise eine entspannte, lokale Atmosphäre aus und zieht Besucher an, die ein langsameres Tempo schätzen. Man darf sich auf ruhige Momente beim Schwimmen oder beim einfachen Entspannen im Sand freuen. Ein morgendlicher Besuch garantiert einen friedlichen Start in den Tag am Ozean.", "category": "recreational", "coords": [-54.168927, -34.664759]}, {"name": "Playa Los Botes", "text": "Entlang der malerischen Küste von La Paloma bietet dieser Sandstrand einen zeitlosen Zufluchtsort am Meer. Die Umgebung ist wunderbar entspannt und verbindet den Rhythmus der Wellen mit einem freundlichen Gemeinschaftsgefühl. Wer hier Zeit verbringt, kann sich auf herrliche Strandspaziergänge und reichlich Gelegenheit zum Sonnenbaden freuen. Ein leichtes Picknick ist die perfekte Ergänzung für einen entspannten Nachmittag an diesem Ufer.", "category": "recreational", "coords": [-54.176003, -34.662363]}, {"name": "Tortugas Karumbé", "text": "Ein Zentrum zum Schutz von Meeresschildkröten in La Paloma.", "category": "family", "coords": [-54.153969, -34.66159]}, {"name": "Faro Cabo Santa Maria", "text": "Ein historischer Leuchtturm und Aussichtspunkt in La Paloma.", "category": "natural", "coords": [-54.152853, -34.668214]}, {"name": "Puerto", "text": "Der Hafenbereich von La Paloma mit Blick auf die Küste.", "category": "natural", "coords": [-54.144643, -34.648212]}, {"name": "La Paloma", "text": "Eine Sehenswürdigkeit im Badeort La Paloma.", "category": "landmark", "coords": [-54.154847, -34.667688]}], "hu": [{"name": "Playa La Balconada", "text": "A La Paloma partvidékén elterülő népszerű strand messze földön híres lélegzetelállító naplementéiről. A hangulat kellemesen élénk, ahogy a helyiek és a látogatók összegyűlnek a vízparton. Sétálhat egyet a homokban, vagy élvezheti a hűsítő uruguayi habokat. Érdemes a késő délutáni órákban érkezni, hogy ne maradjon le az esti színkavalkádról.", "category": "recreational", "coords": [-54.165304, -34.664685]}, {"name": "Playa del Faro", "text": "A La Paloma ikonikus világítótornya közelében megbúvó partszakasz bájos tengeri környezetet kínál. A környéket általában békés hangulat lengi be, így kiváló helyszín a csendes tengerparti pihenésre. A napozás és a kellemes séták jelentik a fő vonzerőt ezen a festői parton. Érdemes tiszta időben érkezni, hogy a közeli építményt megörökíthessük a horizonton.", "category": "recreational", "coords": [-54.160646, -34.666707]}, {"name": "Playa El Cabito", "text": "A partmenti La Paloma városában található hívogató strand tökéletesen megragadja az uruguayi tengerpart esszenciáját. Általában nyugodt, helyi hangulatot áraszt, vonzva azokat, akik értékelik a lassabb tempót. A látogatók békés úszásra vagy egyszerű, homokban való pihenésre számíthatnak. Egy kora reggeli séta ideális módja annak, hogy nyugodtan indítsuk a napot az óceánnál.", "category": "recreational", "coords": [-54.168927, -34.664759]}, {"name": "Playa Los Botes", "text": "A La Paloma festői partvonalán elterülő homokos strand időtálló tengerparti menedéket nyújt. A környezet csodálatosan laza, ötvözve a hullámok ritmusát a barátságos közösségi érzéssel. Az itt töltött idő kellemes tengerparti sétákat és bőséges napozási lehetőséget ígér. Egy könnyű piknik tökéletesen kiegészíti az ezen a parton eltöltött pihentető délutánt.", "category": "recreational", "coords": [-54.176003, -34.662363]}, {"name": "Tortugas Karumbé", "text": "Tengeri teknősök védelmével foglalkozó központ La Palomában.", "category": "family", "coords": [-54.153969, -34.66159]}, {"name": "Faro Cabo Santa Maria", "text": "Történelmi világítótorony és kilátópont La Palomában.", "category": "natural", "coords": [-54.152853, -34.668214]}, {"name": "Puerto", "text": "La Paloma kikötői negyede, kilátással a tengerpartra.", "category": "natural", "coords": [-54.144643, -34.648212]}, {"name": "La Paloma", "text": "Látványosság La Paloma üdülőhelyén.", "category": "landmark", "coords": [-54.154847, -34.667688]}], "ro": [{"name": "Playa La Balconada", "text": "Situată pe coasta din La Paloma, această plajă populară este renumită pentru apusurile sale uluitoare. Atmosfera este plină de viață, atrăgând deopotrivă localnici și vizitatori pe țărmurile sale. Vă puteți aștepta la plimbări relaxante pe nisip și la momente reconfortante în apele uruguayene. Este recomandat să ajungeți spre sfârșitul după-amiezii pentru a admira spectacolul serii.", "category": "recreational", "coords": [-54.165304, -34.664685]}, {"name": "Playa del Faro", "text": "Amplasată în apropierea farului din La Paloma, această întindere de coastă oferă un cadru maritim fermecător. O atmosferă liniștită înconjoară de obicei zona, fiind un loc excelent pentru relaxare la malul mării. Plaja este perfectă pentru băi de soare și plimbări blânde pe țărmul pitoresc. O idee bună este să luați cu dumneavoastră aparatul foto pentru a surprinde farul la orizont.", "category": "recreational", "coords": [-54.160646, -34.666707]}, {"name": "Playa El Cabito", "text": "Situată în orașul de coastă La Paloma, această plajă primitoare surprinde perfect esența litoralului uruguayan. Emană de obicei o atmosferă locală relaxată, atrăgându-i pe cei care preferă un ritm mai lent. Vizitatorii se pot bucura de momente liniștite de înot sau se pot odihni pe nisipul cald. O vizită matinală garantează un început de zi pașnic la malul oceanului.", "category": "recreational", "coords": [-54.168927, -34.664759]}, {"name": "Playa Los Botes", "text": "Întinzându-se de-a lungul coastei pitorești din La Paloma, această plajă de nisip oferă o evadare maritimă atemporală. Mediul este minunat de relaxant, îmbinând ritmul valurilor cu o atmosferă prietenoasă. Timpul petrecut aici aduce plimbări încântătoare pe țărm și oportunități ample de a face plajă. Un picnic ușor va completa perfect o după-amiază leneșă pe aceste nisipuri.", "category": "recreational", "coords": [-54.176003, -34.662363]}, {"name": "Tortugas Karumbé", "text": "Un centru pentru protecția țestoaselor marine în La Paloma.", "category": "family", "coords": [-54.153969, -34.66159]}, {"name": "Faro Cabo Santa Maria", "text": "Un far istoric și punct de belvedere în La Paloma.", "category": "natural", "coords": [-54.152853, -34.668214]}, {"name": "Puerto", "text": "Zona portuară din La Paloma, oferind vedere spre coastă.", "category": "natural", "coords": [-54.144643, -34.648212]}, {"name": "La Paloma", "text": "O atracție în stațiunea La Paloma.", "category": "landmark", "coords": [-54.154847, -34.667688]}], "en": [{"name": "Playa La Balconada", "text": "Set against the coastal backdrop of La Paloma, this beloved beach is widely recognized for its breathtaking sunset views. The atmosphere remains pleasantly lively as locals and visitors gather along the shoreline. Expect to enjoy relaxing strolls on the sand or a refreshing dip in the Uruguayan waters. Arriving late in the afternoon is highly recommended to catch the spectacular evening sky.", "category": "recreational", "coords": [-54.165304, -34.664685]}, {"name": "Playa del Faro", "text": "Nestled close to the iconic lighthouse of La Paloma, this coastal stretch offers a charming maritime setting. A peaceful atmosphere typically surrounds the area, making it an excellent spot for quiet reflection by the sea. Sunbathing and gentle coastal walks are the main highlights for anyone visiting this scenic shore. Bringing a camera is a great idea to capture the nearby beacon against the horizon.", "category": "recreational", "coords": [-54.160646, -34.666707]}, {"name": "Playa El Cabito", "text": "Located within the coastal city of La Paloma, this inviting beach captures the essence of the Uruguayan seaside. It typically exudes a relaxed local vibe, drawing those who appreciate a slower pace. Visitors can look forward to peaceful moments of swimming or simply unwinding on the soft sands. A morning visit ensures a calm start to a day by the ocean.", "category": "recreational", "coords": [-54.168927, -34.664759]}, {"name": "Playa Los Botes", "text": "Spanning the scenic shoreline of La Paloma, this sandy beach offers a timeless coastal escape. The environment is wonderfully laid-back, blending the rhythm of the waves with a friendly community feel. Spending time here involves delightful seaside walks and ample opportunities for soaking up the sun. Packing a light picnic will perfectly complement an afternoon spent on these shores.", "category": "recreational", "coords": [-54.176003, -34.662363]}, {"name": "Tortugas Karumbé", "text": "A center for the protection of sea turtles in La Paloma.", "category": "family", "coords": [-54.153969, -34.66159]}, {"name": "Faro Cabo Santa Maria", "text": "A historical lighthouse and viewpoint in La Paloma.", "category": "natural", "coords": [-54.152853, -34.668214]}, {"name": "Puerto", "text": "The port area of La Paloma offering views of the coast.", "category": "natural", "coords": [-54.144643, -34.648212]}, {"name": "La Paloma", "text": "An attraction in the resort town of La Paloma.", "category": "landmark", "coords": [-54.154847, -34.667688]}]},
+    id: "la-paloma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa La Balconada",
+                  "text": "Vor der Küstenkulisse von La Paloma gelegen, ist dieser beliebte Strand weithin für seine atemberaubenden Sonnenuntergänge bekannt. Die Atmosphäre ist angenehm lebhaft, wenn sich Einheimische und Besucher am Ufer versammeln. Besucher können entspannte Spaziergänge im Sand oder eine Erfrischung im uruguayischen Wasser genießen. Es empfiehlt sich, am späten Nachmittag einzutreffen, um das farbenfrohe Abendschauspiel nicht zu verpassen.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.165304,
+                        -34.664685
+                  ]
+            },
+            {
+                  "name": "Playa del Faro",
+                  "text": "Ganz in der Nähe des markanten Leuchtturms von La Paloma bietet dieser Küstenabschnitt eine reizvolle maritime Kulisse. Eine friedliche Atmosphäre umgibt die Gegend, was sie zu einem hervorragenden Ort für ruhige Momente am Meer macht. Sonnenbaden und ausgedehnte Küstenspaziergänge gehören zu den Hauptaktivitäten an diesem malerischen Ufer. Ein Besuch bei klarem Wetter lohnt sich besonders, um das historische Bauwerk am Horizont zu fotografieren.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.160646,
+                        -34.666707
+                  ]
+            },
+            {
+                  "name": "Playa El Cabito",
+                  "text": "In der Küstenstadt La Paloma gelegen, fängt dieser einladende Strand die Essenz der uruguayischen Meeresküste ein. Er strahlt typischerweise eine entspannte, lokale Atmosphäre aus und zieht Besucher an, die ein langsameres Tempo schätzen. Man darf sich auf ruhige Momente beim Schwimmen oder beim einfachen Entspannen im Sand freuen. Ein morgendlicher Besuch garantiert einen friedlichen Start in den Tag am Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.168927,
+                        -34.664759
+                  ]
+            },
+            {
+                  "name": "Playa Los Botes",
+                  "text": "Entlang der malerischen Küste von La Paloma bietet dieser Sandstrand einen zeitlosen Zufluchtsort am Meer. Die Umgebung ist wunderbar entspannt und verbindet den Rhythmus der Wellen mit einem freundlichen Gemeinschaftsgefühl. Wer hier Zeit verbringt, kann sich auf herrliche Strandspaziergänge und reichlich Gelegenheit zum Sonnenbaden freuen. Ein leichtes Picknick ist die perfekte Ergänzung für einen entspannten Nachmittag an diesem Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.176003,
+                        -34.662363
+                  ]
+            },
+            {
+                  "name": "Tortugas Karumbé",
+                  "text": "Ein Zentrum zum Schutz von Meeresschildkröten in La Paloma.",
+                  "category": "family",
+                  "coords": [
+                        -54.153969,
+                        -34.66159
+                  ]
+            },
+            {
+                  "name": "Faro Cabo Santa Maria",
+                  "text": "Der Leuchtturm Faro Cabo Santa Maria in Paloma steht auf einer sandigen Landzunge an der Südspitze Uruguays.",
+                  "category": "natural",
+                  "coords": [
+                        -54.152853,
+                        -34.668214
+                  ]
+            },
+            {
+                  "name": "Puerto",
+                  "text": "Der Hafenbereich von La Paloma mit Blick auf die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        -54.144643,
+                        -34.648212
+                  ]
+            },
+            {
+                  "name": "La Paloma",
+                  "text": "La Paloma: der ikonische Leuchtturm von La Paloma, ein Wahrzeichen an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.154847,
+                        -34.667688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa La Balconada",
+                  "text": "A La Paloma partvidékén elterülő népszerű strand messze földön híres lélegzetelállító naplementéiről. A hangulat kellemesen élénk, ahogy a helyiek és a látogatók összegyűlnek a vízparton. Sétálhat egyet a homokban, vagy élvezheti a hűsítő uruguayi habokat. Érdemes a késő délutáni órákban érkezni, hogy ne maradjon le az esti színkavalkádról.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.165304,
+                        -34.664685
+                  ]
+            },
+            {
+                  "name": "Playa del Faro",
+                  "text": "A La Paloma ikonikus világítótornya közelében megbúvó partszakasz bájos tengeri környezetet kínál. A környéket általában békés hangulat lengi be, így kiváló helyszín a csendes tengerparti pihenésre. A napozás és a kellemes séták jelentik a fő vonzerőt ezen a festői parton. Érdemes tiszta időben érkezni, hogy a közeli építményt megörökíthessük a horizonton.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.160646,
+                        -34.666707
+                  ]
+            },
+            {
+                  "name": "Playa El Cabito",
+                  "text": "A partmenti La Paloma városában található hívogató strand tökéletesen megragadja az uruguayi tengerpart esszenciáját. Általában nyugodt, helyi hangulatot áraszt, vonzva azokat, akik értékelik a lassabb tempót. A látogatók békés úszásra vagy egyszerű, homokban való pihenésre számíthatnak. Egy kora reggeli séta ideális módja annak, hogy nyugodtan indítsuk a napot az óceánnál.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.168927,
+                        -34.664759
+                  ]
+            },
+            {
+                  "name": "Playa Los Botes",
+                  "text": "A La Paloma festői partvonalán elterülő homokos strand időtálló tengerparti menedéket nyújt. A környezet csodálatosan laza, ötvözve a hullámok ritmusát a barátságos közösségi érzéssel. Az itt töltött idő kellemes tengerparti sétákat és bőséges napozási lehetőséget ígér. Egy könnyű piknik tökéletesen kiegészíti az ezen a parton eltöltött pihentető délutánt.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.176003,
+                        -34.662363
+                  ]
+            },
+            {
+                  "name": "Tortugas Karumbé",
+                  "text": "Tengeri teknősök védelmével foglalkozó központ La Palomában.",
+                  "category": "family",
+                  "coords": [
+                        -54.153969,
+                        -34.66159
+                  ]
+            },
+            {
+                  "name": "Faro Cabo Santa Maria",
+                  "text": "A Faro Cabo Santa Maria világítótorony Palomában egy homokos földnyelven áll, Uruguay déli csücskén.",
+                  "category": "natural",
+                  "coords": [
+                        -54.152853,
+                        -34.668214
+                  ]
+            },
+            {
+                  "name": "Puerto",
+                  "text": "La Paloma kikötői negyede, kilátással a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        -54.144643,
+                        -34.648212
+                  ]
+            },
+            {
+                  "name": "La Paloma",
+                  "text": "La Paloma: La Paloma ikonikus világítótornya, egy tengerparti nevezetesség.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.154847,
+                        -34.667688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa La Balconada",
+                  "text": "Situată pe coasta din La Paloma, această plajă populară este renumită pentru apusurile sale uluitoare. Atmosfera este plină de viață, atrăgând deopotrivă localnici și vizitatori pe țărmurile sale. Vă puteți aștepta la plimbări relaxante pe nisip și la momente reconfortante în apele uruguayene. Este recomandat să ajungeți spre sfârșitul după-amiezii pentru a admira spectacolul serii.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.165304,
+                        -34.664685
+                  ]
+            },
+            {
+                  "name": "Playa del Faro",
+                  "text": "Amplasată în apropierea farului din La Paloma, această întindere de coastă oferă un cadru maritim fermecător. O atmosferă liniștită înconjoară de obicei zona, fiind un loc excelent pentru relaxare la malul mării. Plaja este perfectă pentru băi de soare și plimbări blânde pe țărmul pitoresc. O idee bună este să luați cu dumneavoastră aparatul foto pentru a surprinde farul la orizont.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.160646,
+                        -34.666707
+                  ]
+            },
+            {
+                  "name": "Playa El Cabito",
+                  "text": "Situată în orașul de coastă La Paloma, această plajă primitoare surprinde perfect esența litoralului uruguayan. Emană de obicei o atmosferă locală relaxată, atrăgându-i pe cei care preferă un ritm mai lent. Vizitatorii se pot bucura de momente liniștite de înot sau se pot odihni pe nisipul cald. O vizită matinală garantează un început de zi pașnic la malul oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.168927,
+                        -34.664759
+                  ]
+            },
+            {
+                  "name": "Playa Los Botes",
+                  "text": "Întinzându-se de-a lungul coastei pitorești din La Paloma, această plajă de nisip oferă o evadare maritimă atemporală. Mediul este minunat de relaxant, îmbinând ritmul valurilor cu o atmosferă prietenoasă. Timpul petrecut aici aduce plimbări încântătoare pe țărm și oportunități ample de a face plajă. Un picnic ușor va completa perfect o după-amiază leneșă pe aceste nisipuri.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.176003,
+                        -34.662363
+                  ]
+            },
+            {
+                  "name": "Tortugas Karumbé",
+                  "text": "Un centru pentru protecția țestoaselor marine în La Paloma.",
+                  "category": "family",
+                  "coords": [
+                        -54.153969,
+                        -34.66159
+                  ]
+            },
+            {
+                  "name": "Faro Cabo Santa Maria",
+                  "text": "Farul Faro Cabo Santa Maria din Paloma se află pe un promontoriu nisipos la extremitatea sudică a Uruguayului.",
+                  "category": "natural",
+                  "coords": [
+                        -54.152853,
+                        -34.668214
+                  ]
+            },
+            {
+                  "name": "Puerto",
+                  "text": "Zona portuară din La Paloma, oferind vedere spre coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -54.144643,
+                        -34.648212
+                  ]
+            },
+            {
+                  "name": "La Paloma",
+                  "text": "La Paloma: farul iconic al localității La Paloma, un reper de pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.154847,
+                        -34.667688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa La Balconada",
+                  "text": "Set against the coastal backdrop of La Paloma, this beloved beach is widely recognized for its breathtaking sunset views. The atmosphere remains pleasantly lively as locals and visitors gather along the shoreline. Expect to enjoy relaxing strolls on the sand or a refreshing dip in the Uruguayan waters. Arriving late in the afternoon is highly recommended to catch the spectacular evening sky.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.165304,
+                        -34.664685
+                  ]
+            },
+            {
+                  "name": "Playa del Faro",
+                  "text": "Nestled close to the iconic lighthouse of La Paloma, this coastal stretch offers a charming maritime setting. A peaceful atmosphere typically surrounds the area, making it an excellent spot for quiet reflection by the sea. Sunbathing and gentle coastal walks are the main highlights for anyone visiting this scenic shore. Bringing a camera is a great idea to capture the nearby beacon against the horizon.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.160646,
+                        -34.666707
+                  ]
+            },
+            {
+                  "name": "Playa El Cabito",
+                  "text": "Located within the coastal city of La Paloma, this inviting beach captures the essence of the Uruguayan seaside. It typically exudes a relaxed local vibe, drawing those who appreciate a slower pace. Visitors can look forward to peaceful moments of swimming or simply unwinding on the soft sands. A morning visit ensures a calm start to a day by the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.168927,
+                        -34.664759
+                  ]
+            },
+            {
+                  "name": "Playa Los Botes",
+                  "text": "Spanning the scenic shoreline of La Paloma, this sandy beach offers a timeless coastal escape. The environment is wonderfully laid-back, blending the rhythm of the waves with a friendly community feel. Spending time here involves delightful seaside walks and ample opportunities for soaking up the sun. Packing a light picnic will perfectly complement an afternoon spent on these shores.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.176003,
+                        -34.662363
+                  ]
+            },
+            {
+                  "name": "Tortugas Karumbé",
+                  "text": "A center for the protection of sea turtles in La Paloma.",
+                  "category": "family",
+                  "coords": [
+                        -54.153969,
+                        -34.66159
+                  ]
+            },
+            {
+                  "name": "Faro Cabo Santa Maria",
+                  "text": "Faro Cabo Santa Maria lighthouse in Paloma stands on a sandy headland at the southern tip of Uruguay.",
+                  "category": "natural",
+                  "coords": [
+                        -54.152853,
+                        -34.668214
+                  ]
+            },
+            {
+                  "name": "Puerto",
+                  "text": "The port area of La Paloma offering views of the coast.",
+                  "category": "natural",
+                  "coords": [
+                        -54.144643,
+                        -34.648212
+                  ]
+            },
+            {
+                  "name": "La Paloma",
+                  "text": "La Paloma: the iconic lighthouse at La Paloma, a landmark along the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.154847,
+                        -34.667688
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-RO",
     coords: [-54.1667, -34.6667],
@@ -4168,7 +4465,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Reloj De Sol",
-                  "text": "Reloj De Sol ist eine Sehenswürdigkeit in Nueva Palmira.",
+                  "text": "Reloj De Sol: eine historische Sonnenuhr in der Stadt Palmira.",
                   "category": "landmark",
                   "coords": [
                         -58.415877,
@@ -4177,7 +4474,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Muelle Nueva Palmira",
-                  "text": "Muelle Nueva Palmira ist eine Attraktion in der Stadt Nueva Palmira.",
+                  "text": "Muelle Nueva Palmira: der Pier von Nueva Palmira, ein Wahrzeichen am Uruguay-Fluss.",
                   "category": "landmark",
                   "coords": [
                         -58.41635,
@@ -4197,7 +4494,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Reloj De Sol",
-                  "text": "A Reloj De Sol egy látványosság Nueva Palmira városában.",
+                  "text": "Reloj De Sol: egy történelmi napóra Palmira városában.",
                   "category": "landmark",
                   "coords": [
                         -58.415877,
@@ -4206,7 +4503,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Muelle Nueva Palmira",
-                  "text": "A Muelle Nueva Palmira egy nevezetesség Nueva Palmira városában.",
+                  "text": "Muelle Nueva Palmira: Nueva Palmira mólója, egy nevezetesség az Uruguay folyón.",
                   "category": "landmark",
                   "coords": [
                         -58.41635,
@@ -4226,7 +4523,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Reloj De Sol",
-                  "text": "Reloj De Sol este o atracție din orașul Nueva Palmira.",
+                  "text": "Reloj De Sol: un cadran solar istoric în orașul Palmira.",
                   "category": "landmark",
                   "coords": [
                         -58.415877,
@@ -4235,7 +4532,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Muelle Nueva Palmira",
-                  "text": "Muelle Nueva Palmira este o atracție locală situată în Nueva Palmira.",
+                  "text": "Muelle Nueva Palmira: cheiul din Nueva Palmira, un reper pe râul Uruguay.",
                   "category": "landmark",
                   "coords": [
                         -58.41635,
@@ -4255,7 +4552,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Reloj De Sol",
-                  "text": "Reloj De Sol is a tourist attraction to visit in Nueva Palmira.",
+                  "text": "Reloj De Sol: a historic sundial in the town of Palmira.",
                   "category": "landmark",
                   "coords": [
                         -58.415877,
@@ -4264,7 +4561,7 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             },
             {
                   "name": "Muelle Nueva Palmira",
-                  "text": "Muelle Nueva Palmira is a local attraction located in Nueva Palmira.",
+                  "text": "Muelle Nueva Palmira: the pier of Nueva Palmira, a landmark on the Uruguay River.",
                   "category": "landmark",
                   "coords": [
                         -58.41635,

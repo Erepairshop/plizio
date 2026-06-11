@@ -44,7 +44,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Carrefour Dix-Huit-Horia",
-                  "text": "Carrefour Dix-Huit-Horia ist eine Sehenswürdigkeit in Nzérékoré.",
+                  "text": "Verkehrsknotenpunkt und Marktplatz in Nzérékoré.",
                   "category": "landmark",
                   "coords": [
                         -8.811051,
@@ -53,7 +53,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "Place des Martyrs",
-                  "text": "Place des Martyrs ist ein Denkmal in Nzérékoré.",
+                  "text": "Platz, der an die Märtyrer des guineischen Unabhängigkeitskampfes erinnert.",
                   "category": "historical",
                   "coords": [
                         -8.820135,
@@ -64,7 +64,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Carrefour Dix-Huit-Horia",
-                  "text": "A Carrefour Dix-Huit-Horia egy látványosság Nzérékoré városában.",
+                  "text": "Forgalmas útkereszteződés és piac Nzérékoréban.",
                   "category": "landmark",
                   "coords": [
                         -8.811051,
@@ -73,7 +73,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "Place des Martyrs",
-                  "text": "A Place des Martyrs egy emlékmű Nzérékoré városában.",
+                  "text": "Tér, amely Guinea függetlenségi harcának mártírjaira emlékezik.",
                   "category": "historical",
                   "coords": [
                         -8.820135,
@@ -84,7 +84,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Carrefour Dix-Huit-Horia",
-                  "text": "Carrefour Dix-Huit-Horia este o atracție situată în Nzérékoré.",
+                  "text": "Intersecție aglomerată și piață în Nzérékoré.",
                   "category": "landmark",
                   "coords": [
                         -8.811051,
@@ -93,7 +93,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "Place des Martyrs",
-                  "text": "Place des Martyrs este un monument situat în Nzérékoré.",
+                  "text": "Piață care comemorează martirii luptei pentru independență a Guineei.",
                   "category": "historical",
                   "coords": [
                         -8.820135,
@@ -104,7 +104,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Carrefour Dix-Huit-Horia",
-                  "text": "Carrefour Dix-Huit-Horia is a point of attraction located in Nzérékoré.",
+                  "text": "Busy intersection and market area in Nzérékoré.",
                   "category": "landmark",
                   "coords": [
                         -8.811051,
@@ -113,7 +113,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "Place des Martyrs",
-                  "text": "Place des Martyrs is a monument located in Nzérékoré.",
+                  "text": "Square commemorating the martyrs of Guinea's independence struggle.",
                   "category": "historical",
                   "coords": [
                         -8.820135,
@@ -168,7 +168,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Maison des Jeunes de Kankan",
-                  "text": "Das Maison des Jeunes de Kankan ist ein Theatergebäude in Kankan.",
+                  "text": "Jugendkulturzentrum mit Workshops und Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -9.302626,
@@ -177,7 +177,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "La statue du militaire",
-                  "text": "La statue du militaire ist ein Denkmal in der Stadt Kankan.",
+                  "text": "Bronzestatue eines Kolonialsoldaten im Stadtzentrum.",
                   "category": "historical",
                   "coords": [
                         -9.309568,
@@ -186,7 +186,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "Elhadj Fila Camara",
-                  "text": "Elhadj Fila Camara ist ein Herrenhaus in der Stadt Kankan.",
+                  "text": "Mausoleum zu Ehren des muslimischen Gelehrten Elhadj Fila Camara aus dem 19. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         -9.306293,
@@ -197,7 +197,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Maison des Jeunes de Kankan",
-                  "text": "A Maison des Jeunes de Kankan egy színházépület Kankan városában.",
+                  "text": "Ifjúsági kulturális központ workshopokkal és előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -9.302626,
@@ -206,7 +206,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "La statue du militaire",
-                  "text": "A La statue du militaire egy emlékmű Kankan városában.",
+                  "text": "Bronzszobor egy gyarmati kori katonáról a városközpontban.",
                   "category": "historical",
                   "coords": [
                         -9.309568,
@@ -215,7 +215,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "Elhadj Fila Camara",
-                  "text": "Az Elhadj Fila Camara egy kúria Kankan városában.",
+                  "text": "Mauzóleum a 19. századi muszlim tudós Elhadj Fila Camara tiszteletére.",
                   "category": "historical",
                   "coords": [
                         -9.306293,
@@ -226,7 +226,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Maison des Jeunes de Kankan",
-                  "text": "Maison des Jeunes de Kankan este o clădire de teatru din Kankan.",
+                  "text": "Centru cultural pentru tineret cu ateliere și spectacole.",
                   "category": "cultural",
                   "coords": [
                         -9.302626,
@@ -235,7 +235,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "La statue du militaire",
-                  "text": "La statue du militaire este un monument din orașul Kankan.",
+                  "text": "Statuie de bronz a unui soldat din epoca colonială în centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -9.309568,
@@ -244,7 +244,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "Elhadj Fila Camara",
-                  "text": "Elhadj Fila Camara este un conac în orașul Kankan.",
+                  "text": "Mausoleu dedicat savantului musulman Elhadj Fila Camara din secolul al XIX-lea.",
                   "category": "historical",
                   "coords": [
                         -9.306293,
@@ -255,7 +255,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Maison des Jeunes de Kankan",
-                  "text": "The Maison des Jeunes de Kankan is a theatre building in Kankan.",
+                  "text": "Cultural center for youth offering workshops and performances.",
                   "category": "cultural",
                   "coords": [
                         -9.302626,
@@ -264,7 +264,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "La statue du militaire",
-                  "text": "La statue du militaire is a monument in the city of Kankan.",
+                  "text": "Bronze statue of a colonial-era soldier in the city center.",
                   "category": "historical",
                   "coords": [
                         -9.309568,
@@ -273,7 +273,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
             },
             {
                   "name": "Elhadj Fila Camara",
-                  "text": "Elhadj Fila Camara is a manor in the city of Kankan.",
+                  "text": "Mausoleum dedicated to the 19th-century Muslim scholar Elhadj Fila Camara.",
                   "category": "historical",
                   "coords": [
                         -9.306293,
@@ -371,7 +371,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Petit Musée du Fouta",
-                  "text": "Das Petit Musée du Fouta ist ein Museum in der Stadt Labé.",
+                  "text": "Kleines Museum mit Ausstellungen zur Fulani-Kultur und Artefakten aus dem Fouta Djallon.",
                   "category": "museum",
                   "coords": [
                         -12.306539,
@@ -382,7 +382,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Petit Musée du Fouta",
-                  "text": "A Petit Musée du Fouta egy múzeum Labé városában.",
+                  "text": "Kis múzeum a fulani kultúra és a Fouta Djallon tárgyainak bemutatásával.",
                   "category": "museum",
                   "coords": [
                         -12.306539,
@@ -393,7 +393,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Petit Musée du Fouta",
-                  "text": "Petit Musée du Fouta este un muzeu situat în orașul Labé.",
+                  "text": "Mic muzeu cu exponate ale culturii fulani și artefacte din Fouta Djallon.",
                   "category": "museum",
                   "coords": [
                         -12.306539,
@@ -404,7 +404,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Petit Musée du Fouta",
-                  "text": "The Petit Musée du Fouta is a museum situated in the city of Labé.",
+                  "text": "Small museum showcasing Fulani culture and artifacts from Fouta Djallon.",
                   "category": "museum",
                   "coords": [
                         -12.306539,
@@ -856,7 +856,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Permanence de Siguiri",
-                  "text": "Permanence de Siguiri ist ein bekanntes Denkmal in Siguiri.",
+                  "text": "Historisches Kolonialgebäude, das als Regierungsbüro in Siguiri dient.",
                   "category": "historical",
                   "coords": [
                         -9.174386,
@@ -867,7 +867,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Permanence de Siguiri",
-                  "text": "A Permanence de Siguiri egy ismert emlékmű Siguiri városában.",
+                  "text": "Történelmi gyarmati épület, amely kormányzati irodaként szolgál Siguiriban.",
                   "category": "historical",
                   "coords": [
                         -9.174386,
@@ -878,7 +878,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Permanence de Siguiri",
-                  "text": "Permanence de Siguiri este un monument cunoscut din Siguiri.",
+                  "text": "Clădire colonială istorică folosită ca birou guvernamental în Siguiri.",
                   "category": "historical",
                   "coords": [
                         -9.174386,
@@ -889,7 +889,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Permanence de Siguiri",
-                  "text": "Permanence de Siguiri is a well-known monument in Siguiri.",
+                  "text": "Historic colonial building used as a government office in Siguiri.",
                   "category": "historical",
                   "coords": [
                         -9.174386,
@@ -1033,7 +1033,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centre Culturel de Dubréka",
-                  "text": "Das Centre Culturel de Dubréka ist ein Kunstzentrum in Dubréka.",
+                  "text": "Kulturzentrum mit Kunstausstellungen und Musikveranstaltungen in Dubréka.",
                   "category": "cultural",
                   "coords": [
                         -13.521304,
@@ -1044,7 +1044,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Culturel de Dubréka",
-                  "text": "A Centre Culturel de Dubréka egy művészeti központ Dubrékában.",
+                  "text": "Kulturális központ művészeti kiállításokkal és zenei eseményekkel Dubrékában.",
                   "category": "cultural",
                   "coords": [
                         -13.521304,
@@ -1055,7 +1055,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Culturel de Dubréka",
-                  "text": "Centre Culturel de Dubréka este un centru cultural din Dubréka.",
+                  "text": "Centru cultural cu expoziții de artă și evenimente muzicale în Dubréka.",
                   "category": "cultural",
                   "coords": [
                         -13.521304,
@@ -1066,7 +1066,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centre Culturel de Dubréka",
-                  "text": "The Centre Culturel de Dubréka is an arts centre in Dubréka.",
+                  "text": "Cultural center hosting art exhibitions and music events in Dubréka.",
                   "category": "cultural",
                   "coords": [
                         -13.521304,
@@ -1606,7 +1606,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Maison de la jeunesse de Mandiana",
-                  "text": "Das Maison de la jeunesse de Mandiana ist ein Theater in Mandiana.",
+                  "text": "Das Maison de la jeunesse ist das wichtigste Jugendkulturzentrum in Mandiana, Guinea.",
                   "category": "cultural",
                   "coords": [
                         -8.693444,
@@ -1617,7 +1617,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Maison de la jeunesse de Mandiana",
-                  "text": "A Maison de la jeunesse de Mandiana egy színház Mandianában.",
+                  "text": "A Maison de la jeunesse a fő ifjúsági kulturális központ Mandianában, Guineában.",
                   "category": "cultural",
                   "coords": [
                         -8.693444,
@@ -1628,7 +1628,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Maison de la jeunesse de Mandiana",
-                  "text": "Maison de la jeunesse de Mandiana este un teatru din Mandiana.",
+                  "text": "Maison de la jeunesse este principalul centru cultural pentru tineret din Mandiana, Guineea.",
                   "category": "cultural",
                   "coords": [
                         -8.693444,
@@ -1639,7 +1639,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Maison de la jeunesse de Mandiana",
-                  "text": "The Maison de la jeunesse de Mandiana is a theatre in Mandiana.",
+                  "text": "The Maison de la jeunesse is the main youth cultural centre in Mandiana, Guinea.",
                   "category": "cultural",
                   "coords": [
                         -8.693444,

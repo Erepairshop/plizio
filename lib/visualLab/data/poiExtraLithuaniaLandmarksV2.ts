@@ -227,7 +227,7 @@ imageHint: "Kaunas Castle round tower and ruins",
             },
             {
                   "name": "Juodkrantės moterų paplūdymys",
-                  "text": "Ein ausgewiesener Frauenstrand in Juodkrantė.",
+                  "text": "Frauenstrand in Juodkrantė am Hügel der Hexen.",
                   "category": "recreational",
                   "coords": [
                         21.100887,
@@ -236,7 +236,7 @@ imageHint: "Kaunas Castle round tower and ruins",
             },
             {
                   "name": "Juodkrantės nudistų paplūdimys",
-                  "text": "Ein FKK-Strand in der Nähe von Juodkrantė.",
+                  "text": "Nudistenstrand in Juodkrantė am Hügel der Hexen.",
                   "category": "recreational",
                   "coords": [
                         21.097215,
@@ -292,7 +292,7 @@ imageHint: "Kaunas Castle round tower and ruins",
             },
             {
                   "name": "Juodkrantės moterų paplūdymys",
-                  "text": "Kijelölt női strand Juodkrantėban.",
+                  "text": "Női strand Juodkrantėben, a Boszorkányok dombjánál.",
                   "category": "recreational",
                   "coords": [
                         21.100887,
@@ -301,7 +301,7 @@ imageHint: "Kaunas Castle round tower and ruins",
             },
             {
                   "name": "Juodkrantės nudistų paplūdimys",
-                  "text": "Nudista strand Juodkrantė közelében.",
+                  "text": "Nudista strand Juodkrantėben, a Boszorkányok dombjánál.",
                   "category": "recreational",
                   "coords": [
                         21.097215,
@@ -357,7 +357,7 @@ imageHint: "Kaunas Castle round tower and ruins",
             },
             {
                   "name": "Juodkrantės moterų paplūdymys",
-                  "text": "O plajă desemnată pentru femei în Juodkrantė.",
+                  "text": "Plajă pentru femei în Juodkrantė, lângă Dealul Vrăjitoarelor.",
                   "category": "recreational",
                   "coords": [
                         21.100887,
@@ -366,7 +366,7 @@ imageHint: "Kaunas Castle round tower and ruins",
             },
             {
                   "name": "Juodkrantės nudistų paplūdimys",
-                  "text": "O plajă de nudiști situată lângă Juodkrantė.",
+                  "text": "Plajă nudistă în Juodkrantė, lângă Dealul Vrăjitoarelor.",
                   "category": "recreational",
                   "coords": [
                         21.097215,
@@ -422,7 +422,7 @@ imageHint: "Kaunas Castle round tower and ruins",
             },
             {
                   "name": "Juodkrantės moterų paplūdymys",
-                  "text": "A designated women's beach in Juodkrantė.",
+                  "text": "Women's beach in Juodkrantė near the Hill of Witches.",
                   "category": "recreational",
                   "coords": [
                         21.100887,
@@ -431,7 +431,7 @@ imageHint: "Kaunas Castle round tower and ruins",
             },
             {
                   "name": "Juodkrantė Nudist Beach",
-                  "text": "A nudist beach located near Juodkrantė.",
+                  "text": "Nudist beach in Juodkrantė near the Hill of Witches.",
                   "category": "recreational",
                   "coords": [
                         21.097215,
@@ -933,7 +933,7 @@ imageHint: "Rumsiskes Open Air Museum traditional wooden houses",
       "de": [
             {
                   "name": "Buivydiškių paplūdimys",
-                  "text": "Strand Buivydiškės beim Fernsehturm Vilnius.",
+                  "text": "Strand in der Nähe des Vilnius Fernsehturms.",
                   "category": "recreational",
                   "coords": [
                         25.202395,
@@ -944,7 +944,7 @@ imageHint: "Rumsiskes Open Air Museum traditional wooden houses",
       "hu": [
             {
                   "name": "Buivydiškių paplūdimys",
-                  "text": "Buivydiškės strand a vilniusi tévétoronynál.",
+                  "text": "Strand a vilniusi tévétorony közelében.",
                   "category": "recreational",
                   "coords": [
                         25.202395,
@@ -955,7 +955,7 @@ imageHint: "Rumsiskes Open Air Museum traditional wooden houses",
       "ro": [
             {
                   "name": "Buivydiškių paplūdimys",
-                  "text": "Plaja Buivydiškės lângă turnul TV din Vilnius.",
+                  "text": "Plajă lângă Turnul de televiziune din Vilnius.",
                   "category": "recreational",
                   "coords": [
                         25.202395,
@@ -966,7 +966,7 @@ imageHint: "Rumsiskes Open Air Museum traditional wooden houses",
       "en": [
             {
                   "name": "Buivydiškių paplūdimys",
-                  "text": "Buivydiškių beach near Vilnius Tv Tower.",
+                  "text": "Beach near Vilnius TV Tower.",
                   "category": "recreational",
                   "coords": [
                         25.202395,
@@ -1914,7 +1914,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
       "de": [
             {
                   "name": "Senasis Lampėdžių paplūdimys",
-                  "text": "Alter Lampėdžiai-Strand beim Schloss Raudondvaris.",
+                  "text": "Alter Lampėdžiai-Strand in der Nähe der Burg Raudondvaris.",
                   "category": "recreational",
                   "coords": [
                         23.818473,
@@ -1923,7 +1923,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
             },
             {
                   "name": "Nemuno nudistų paplūdimys",
-                  "text": "FKK-Badestelle Nemunas, nahe dem Schloss Raudondvaris.",
+                  "text": "Nudistenstrand am Nemunas bei der Burg Raudondvaris.",
                   "category": "recreational",
                   "coords": [
                         23.810296,
@@ -1934,7 +1934,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
       "hu": [
             {
                   "name": "Senasis Lampėdžių paplūdimys",
-                  "text": "Régi Lampėdžiai strand a Raudondvaris kastélynál.",
+                  "text": "Régi Lampėdžiai-strand a Raudondvaris-kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         23.818473,
@@ -1943,7 +1943,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
             },
             {
                   "name": "Nemuno nudistų paplūdimys",
-                  "text": "Nemuno nudista fürdőhely, a Raudondvaris kastély közelében.",
+                  "text": "Nudista strand a Nemunas partján, a Raudondvaris-kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         23.810296,
@@ -1954,7 +1954,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
       "ro": [
             {
                   "name": "Senasis Lampėdžių paplūdimys",
-                  "text": "Vechea plajă Lampėdžiai lângă castelul Raudondvaris.",
+                  "text": "Vechea plajă Lampėdžiai lângă Castelul Raudondvaris.",
                   "category": "recreational",
                   "coords": [
                         23.818473,
@@ -1963,7 +1963,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
             },
             {
                   "name": "Nemuno nudistų paplūdimys",
-                  "text": "Plajă de nudiști Nemuno, situată lângă Castelul Raudondvaris.",
+                  "text": "Plajă nudistă pe râul Nemunas lângă Castelul Raudondvaris.",
                   "category": "recreational",
                   "coords": [
                         23.810296,
@@ -1974,7 +1974,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
       "en": [
             {
                   "name": "Senasis Lampėdžių paplūdimys",
-                  "text": "Old Lampėdžių beach near Raudondvaris Castle.",
+                  "text": "Old Lampėdžiai beach near Raudondvaris Castle.",
                   "category": "recreational",
                   "coords": [
                         23.818473,
@@ -1983,7 +1983,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
             },
             {
                   "name": "Nemuno nudistų paplūdimys",
-                  "text": "Nemuno naturist beach, near Raudondvaris Castle.",
+                  "text": "Nudist beach on the Nemunas River near Raudondvaris Castle.",
                   "category": "recreational",
                   "coords": [
                         23.810296,

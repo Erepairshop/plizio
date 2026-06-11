@@ -3,7 +3,772 @@ import { POI } from './poi';
 export const austriaEconomicV2: POI[] = [
 
   {
-    id: "austria-vocklabruck-economic-v2", "sights": {"de": [{"name": "Heimathaus", "text": "Ein Heimatmuseum, das die lokale Geschichte von Vöcklabruck bewahrt.", "category": "museum", "coords": [13.65499, 48.007411]}, {"name": "Museum der Heimatvertriebenen", "text": "Ein Museum, das dem Schicksal und der Geschichte der Heimatvertriebenen gewidmet ist.", "category": "museum", "coords": [13.652188, 48.007606]}, {"name": "Schloss Neuwartenburg", "text": "Ein prächtiges Barockschloss in der Nähe von Vöcklabruck.", "category": "castle", "coords": [13.622876, 48.011581]}, {"name": "Burgturm Alt-Wartenburg", "text": "Der gut erhaltene Turm der ehemaligen Burganlage Alt-Wartenburg.", "category": "castle", "coords": [13.623718, 48.014168]}, {"name": "Burgruine Alt-Wartenburg", "text": "Die malerischen Ruinen der mittelalterlichen Burg Alt-Wartenburg.", "category": "castle", "coords": [13.623116, 48.015613]}, {"name": "Alte Stadtmauer", "text": "Überreste der historischen Stadtbefestigung von Vöcklabruck.", "category": "museum", "coords": [13.655088, 48.009514]}, {"name": "Freibad Vöcklabruck", "text": "Ein beliebtes Freibad für Wassersport und Erholung in Vöcklabruck.", "category": "family", "coords": [13.64962, 48.010395]}, {"name": "OKH", "text": "Ein Zentrum für kulturelle Aktivitäten und Freizeitgestaltung.", "category": "cultural", "coords": [13.64813, 48.00597]}, {"name": "Graffiti Copy-Austellung", "text": "Eine Galerie in Vöcklabruck, die sich der Kunst des Graffiti widmet.", "category": "museum", "coords": [13.657094, 48.008642]}, {"name": "Hamisches Gatterl", "text": "In der Landschaft um das österreichische Voecklabruck bietet das Hamisches Gatterl Naturfreunden ein besonderes Erlebnis. Von diesem erhöhten Aussichtspunkt aus lässt sich die umliegende Gegend hervorragend überblicken. Wanderer machen hier gerne Halt, um die weite Natur zu genießen.", "category": "natural", "coords": [13.666905, 48.011617]}, {"name": "Kunekune Schweine", "text": "Eine lokale Attraktion, bei der Kunekune-Schweine beobachtet werden können.", "category": "landmark", "coords": [13.620869, 48.007055]}, {"name": "Schlierwand Alpakas", "text": "Ein Erlebnisbauernhof, der Alpakas als besondere Attraktion zeigt.", "category": "landmark", "coords": [13.637847, 48.00939]}, {"name": "Raum 4-11-13", "text": "Ein moderner Ausstellungsraum für zeitgenössische Kunst in Vöcklabruck.", "category": "museum", "coords": [13.655899, 48.007908]}, {"name": "Schöndorfer Kirche", "text": "Die historische Schöndorfer Kirche am Rande von Vöcklabruck.", "category": "religious", "coords": [13.656572, 48.002438]}, {"name": "Evangelische Kirche", "text": "Ein evangelisches Gotteshaus für die Gemeinde in Vöcklabruck.", "category": "religious", "coords": [13.65058, 48.00574]}, {"name": "Oberer Stadtturm", "text": "Ein historischer Stadtturm, der das Stadtbild von Vöcklabruck prägt.", "category": "fortress", "coords": [13.653408, 48.007233]}, {"name": "Dörflkirche", "text": "Eine charmante Kirche in einem der Stadtteile von Vöcklabruck.", "category": "religious", "coords": [13.658599, 48.010273]}, {"name": "Pfarrkirche Regau", "text": "Die katholische Pfarrkirche in der Gemeinde Regau bei Vöcklabruck.", "category": "religious", "coords": [13.688245, 47.991905]}, {"name": "St. Anna", "text": "Eine sehenswerte Filialkirche in Oberthalheim bei Vöcklabruck.", "category": "religious", "coords": [13.630775, 48.005834]}, {"name": "Attersee", "text": "Der Attersee bei Vöcklabruck lädt zum Schwimmen und zum Genießen der Landschaft ein.", "category": "natural", "coords": [13.539114, 47.869936]}, {"name": "Dschungelspielplatz", "text": "Dieser thematisch gestaltete Spielplatz in Vöcklabruck bietet Kindern ein besonderes Spielerlebnis.", "category": "family", "coords": [13.652179, 48.010728]}], "hu": [{"name": "Heimathaus", "text": "Helytörténeti múzeum, amely Vöcklabruck múltját őrzi.", "category": "museum", "coords": [13.65499, 48.007411]}, {"name": "Museum der Heimatvertriebenen", "text": "A kitelepítettek sorsának és történelmének szentelt múzeum.", "category": "museum", "coords": [13.652188, 48.007606]}, {"name": "Schloss Neuwartenburg", "text": "Pompás barokk kastély Vöcklabruck közelében.", "category": "castle", "coords": [13.622876, 48.011581]}, {"name": "Burgturm Alt-Wartenburg", "text": "Az egykori Alt-Wartenburg várának jól megőrzött tornya.", "category": "castle", "coords": [13.623718, 48.014168]}, {"name": "Burgruine Alt-Wartenburg", "text": "Az Alt-Wartenburg középkori várának festői romjai.", "category": "castle", "coords": [13.623116, 48.015613]}, {"name": "Alte Stadtmauer", "text": "Vöcklabruck történelmi városfalának maradványai.", "category": "museum", "coords": [13.655088, 48.009514]}, {"name": "Freibad Vöcklabruck", "text": "Népszerű strandfürdő vízi sportokhoz és kikapcsolódáshoz Vöcklabruckban.", "category": "family", "coords": [13.64962, 48.010395]}, {"name": "Offenes Kunst- und Kulturhaus", "text": "Kulturális tevékenységek és szabadidős programok központja.", "category": "cultural", "coords": [13.64813, 48.00597]}, {"name": "Graffiti Copy-Austellung", "text": "Vöcklabrucki galéria, amely a graffiti művészetének szentelt.", "category": "museum", "coords": [13.657094, 48.008642]}, {"name": "Hamisches Gatterl", "text": "Az ausztriai Voecklabruck körüli tájon a Hamisches Gatterl különleges élményt nyújt a természetbarátoknak. Ebből a magaslati kilátóból kiválóan belátható a környező vidék. A túrázók szívesen állnak meg itt, hogy élvezzék a tágas természetet.", "category": "natural", "coords": [13.666905, 48.011617]}, {"name": "Kunekune Schweine", "text": "Helyi látványosság, ahol Kunekune sertések láthatók.", "category": "landmark", "coords": [13.620869, 48.007055]}, {"name": "Schlierwand Alpakas", "text": "Élménymezőgazdaság, ahol az alpakák jelentik a fő látványosságot.", "category": "landmark", "coords": [13.637847, 48.00939]}, {"name": "Raum 4-11-13", "text": "Modern kiállítótér a kortárs művészet számára Vöcklabruckban.", "category": "museum", "coords": [13.655899, 48.007908]}, {"name": "Schöndorfer Kirche", "text": "A történelmi Schöndorfer templom Vöcklabruck szélén.", "category": "religious", "coords": [13.656572, 48.002438]}, {"name": "Evangelische Kirche", "text": "Evangélikus templom a vöcklabrucki gyülekezet számára.", "category": "religious", "coords": [13.65058, 48.00574]}, {"name": "Oberer Stadtturm", "text": "Történelmi várostorony, amely meghatározza Vöcklabruck látképét.", "category": "fortress", "coords": [13.653408, 48.007233]}, {"name": "Dörflkirche", "text": "Bájos templom Vöcklabruck egyik városrészében.", "category": "religious", "coords": [13.658599, 48.010273]}, {"name": "Pfarrkirche Regau", "text": "Katolikus plébániatemplom a Vöcklabruck melletti Regau községben.", "category": "religious", "coords": [13.688245, 47.991905]}, {"name": "St. Anna", "text": "Vöcklabruck melletti Oberthalheim figyelemre méltó filiális temploma.", "category": "religious", "coords": [13.630775, 48.005834]}, {"name": "Attersee", "text": "A Vöcklabruck közeli Attersee úszásra és a táj élvezetére csábít.", "category": "natural", "coords": [13.539114, 47.869936]}, {"name": "Dschungelspielplatz", "text": "Ez a tematikus játszótér Vöcklabruckban különleges játékélményt nyújt a gyerekeknek.", "category": "family", "coords": [13.652179, 48.010728]}], "ro": [{"name": "Heimathaus", "text": "Un muzeu local care păstrează istoria orașului Vöcklabruck.", "category": "museum", "coords": [13.65499, 48.007411]}, {"name": "Museum der Heimatvertriebenen", "text": "Un muzeu dedicat destinului și istoriei persoanelor expulzate.", "category": "museum", "coords": [13.652188, 48.007606]}, {"name": "Schloss Neuwartenburg", "text": "Un splendid castel baroc în apropiere de Vöcklabruck.", "category": "castle", "coords": [13.622876, 48.011581]}, {"name": "Burgturm Alt-Wartenburg", "text": "Turnul bine conservat al fostei cetăți Alt-Wartenburg.", "category": "castle", "coords": [13.623718, 48.014168]}, {"name": "Burgruine Alt-Wartenburg", "text": "Ruinele pitorești ale castelului medieval Alt-Wartenburg.", "category": "castle", "coords": [13.623116, 48.015613]}, {"name": "Alte Stadtmauer", "text": "Rămășițele fortificațiilor istorice ale orașului Vöcklabruck.", "category": "museum", "coords": [13.655088, 48.009514]}, {"name": "Freibad Vöcklabruck", "text": "Un ștrand popular pentru sporturi nautice și recreere în Vöcklabruck.", "category": "family", "coords": [13.64962, 48.010395]}, {"name": "Offenes Kunst- und Kulturhaus", "text": "Un centru pentru activități culturale și petrecerea timpului liber.", "category": "cultural", "coords": [13.64813, 48.00597]}, {"name": "Graffiti Copy-Austellung", "text": "O galerie din Vöcklabruck dedicată artei graffiti.", "category": "museum", "coords": [13.657094, 48.008642]}, {"name": "Hamisches Gatterl", "text": "În peisajul din jurul orașului austriac Voecklabruck, Hamisches Gatterl oferă o experiență specială iubitorilor de natură. De la acest punct de belvedere ridicat, zona înconjurătoare poate fi admirată excelent. Drumeții se opresc adesea aici pentru a se bucura de natura vastă.", "category": "natural", "coords": [13.666905, 48.011617]}, {"name": "Kunekune Schweine", "text": "O atracție locală unde pot fi văzuți porci Kunekune.", "category": "landmark", "coords": [13.620869, 48.007055]}, {"name": "Schlierwand Alpakas", "text": "O fermă de experiență care prezintă alpacalele ca atracție specială.", "category": "landmark", "coords": [13.637847, 48.00939]}, {"name": "Raum 4-11-13", "text": "Un spațiu expozițional modern pentru artă contemporană în Vöcklabruck.", "category": "museum", "coords": [13.655899, 48.007908]}, {"name": "Schöndorfer Kirche", "text": "Biserica istorică Schöndorfer de la marginea orașului Vöcklabruck.", "category": "religious", "coords": [13.656572, 48.002438]}, {"name": "Evangelische Kirche", "text": "Un lăcaș de cult evanghelic pentru comunitatea din Vöcklabruck.", "category": "religious", "coords": [13.65058, 48.00574]}, {"name": "Oberer Stadtturm", "text": "Un turn istoric al orașului care definește imaginea orașului Vöcklabruck.", "category": "fortress", "coords": [13.653408, 48.007233]}, {"name": "Dörflkirche", "text": "O biserică fermecătoare într-unul dintre cartierele orașului Vöcklabruck.", "category": "religious", "coords": [13.658599, 48.010273]}, {"name": "Pfarrkirche Regau", "text": "Biserica parohială catolică din comuna Regau, lângă Vöcklabruck.", "category": "religious", "coords": [13.688245, 47.991905]}, {"name": "St. Anna", "text": "O biserică filială demnă de vizitat în Oberthalheim, lângă Vöcklabruck.", "category": "religious", "coords": [13.630775, 48.005834]}, {"name": "Attersee", "text": "Lacul Atter de lângă Vöcklabruck invită la înot și la admirarea peisajului.", "category": "natural", "coords": [13.539114, 47.869936]}, {"name": "Dschungelspielplatz", "text": "Acest loc de joacă tematic din Vöcklabruck oferă copiilor o experiență de joacă deosebită.", "category": "family", "coords": [13.652179, 48.010728]}], "en": [{"name": "Heimathaus", "text": "A local history museum preserving the heritage of Vöcklabruck.", "category": "museum", "coords": [13.65499, 48.007411]}, {"name": "Museum der Heimatvertriebenen", "text": "A museum dedicated to the fate and history of displaced persons.", "category": "museum", "coords": [13.652188, 48.007606]}, {"name": "Schloss Neuwartenburg", "text": "A magnificent Baroque castle near Vöcklabruck.", "category": "castle", "coords": [13.622876, 48.011581]}, {"name": "Burgturm Alt-Wartenburg", "text": "The well-preserved tower of the former Alt-Wartenburg castle complex.", "category": "castle", "coords": [13.623718, 48.014168]}, {"name": "Burgruine Alt-Wartenburg", "text": "The picturesque ruins of the medieval Alt-Wartenburg castle.", "category": "castle", "coords": [13.623116, 48.015613]}, {"name": "Alte Stadtmauer", "text": "Remnants of the historical city walls of Vöcklabruck.", "category": "museum", "coords": [13.655088, 48.009514]}, {"name": "Freibad Vöcklabruck", "text": "A popular outdoor pool for water sports and recreation in Vöcklabruck.", "category": "family", "coords": [13.64962, 48.010395]}, {"name": "arts and leisure center", "text": "A center for cultural activities and leisure pursuits.", "category": "cultural", "coords": [13.64813, 48.00597]}, {"name": "Graffiti Copy-Austellung", "text": "A gallery in Vöcklabruck dedicated to the art of graffiti.", "category": "museum", "coords": [13.657094, 48.008642]}, {"name": "Hamisches Gatterl", "text": "In the landscape surrounding Voecklabruck in Austria, the Hamisches Gatterl offers nature lovers a special experience. From this elevated viewpoint, the surrounding area can be perfectly surveyed. Hikers like to stop here to enjoy the vast outdoors.", "category": "natural", "coords": [13.666905, 48.011617]}, {"name": "Kunekune Schweine", "text": "A local attraction where Kunekune pigs can be observed.", "category": "landmark", "coords": [13.620869, 48.007055]}, {"name": "Schlierwand Alpakas", "text": "An adventure farm featuring alpacas as a special attraction.", "category": "landmark", "coords": [13.637847, 48.00939]}, {"name": "Raum 4-11-13", "text": "A modern exhibition space for contemporary art in Vöcklabruck.", "category": "museum", "coords": [13.655899, 48.007908]}, {"name": "Schöndorfer Kirche", "text": "The historical Schöndorfer church on the outskirts of Vöcklabruck.", "category": "religious", "coords": [13.656572, 48.002438]}, {"name": "Evangelische Kirche", "text": "An evangelical place of worship for the community in Vöcklabruck.", "category": "religious", "coords": [13.65058, 48.00574]}, {"name": "Oberer Stadtturm", "text": "A historical city tower that characterizes the cityscape of Vöcklabruck.", "category": "fortress", "coords": [13.653408, 48.007233]}, {"name": "Dörflkirche", "text": "A charming church in one of the districts of Vöcklabruck.", "category": "religious", "coords": [13.658599, 48.010273]}, {"name": "Pfarrkirche Regau", "text": "The Catholic parish church in the municipality of Regau near Vöcklabruck.", "category": "religious", "coords": [13.688245, 47.991905]}, {"name": "St. Anna", "text": "A noteworthy filial church in Oberthalheim near Vöcklabruck.", "category": "religious", "coords": [13.630775, 48.005834]}, {"name": "Lake Atter", "text": "Lake Atter near Vöcklabruck invites visitors for swimming and enjoying the scenery.", "category": "natural", "coords": [13.539114, 47.869936]}, {"name": "Dschungelspielplatz", "text": "This themed playground in Vöcklabruck offers children a special play experience.", "category": "family", "coords": [13.652179, 48.010728]}]},
+    id: "austria-vocklabruck-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heimathaus",
+                  "text": "Ein Heimatmuseum, das die lokale Geschichte von Vöcklabruck bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        13.65499,
+                        48.007411
+                  ]
+            },
+            {
+                  "name": "Museum der Heimatvertriebenen",
+                  "text": "Ein Museum, das dem Schicksal und der Geschichte der Heimatvertriebenen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.652188,
+                        48.007606
+                  ]
+            },
+            {
+                  "name": "Schloss Neuwartenburg",
+                  "text": "Schloss Neuwartenburg ist ein Schloss in Vöcklabruck, das auf einem Hügel über der Stadt thront.",
+                  "category": "castle",
+                  "coords": [
+                        13.622876,
+                        48.011581
+                  ]
+            },
+            {
+                  "name": "Burgturm Alt-Wartenburg",
+                  "text": "Der gut erhaltene Turm der ehemaligen Burganlage Alt-Wartenburg.",
+                  "category": "castle",
+                  "coords": [
+                        13.623718,
+                        48.014168
+                  ]
+            },
+            {
+                  "name": "Burgruine Alt-Wartenburg",
+                  "text": "Die Burgruine Alt-Wartenburg ist die Ruine einer mittelalterlichen Höhenburg bei Vöcklabruck.",
+                  "category": "castle",
+                  "coords": [
+                        13.623116,
+                        48.015613
+                  ]
+            },
+            {
+                  "name": "Alte Stadtmauer",
+                  "text": "Die Alte Stadtmauer von Vöcklabruck ist ein erhaltener Abschnitt der mittelalterlichen Befestigung.",
+                  "category": "museum",
+                  "coords": [
+                        13.655088,
+                        48.009514
+                  ]
+            },
+            {
+                  "name": "Freibad Vöcklabruck",
+                  "text": "Ein beliebtes Freibad für Wassersport und Erholung in Vöcklabruck.",
+                  "category": "family",
+                  "coords": [
+                        13.64962,
+                        48.010395
+                  ]
+            },
+            {
+                  "name": "OKH",
+                  "text": "Das arts and leisure center in Vöcklabruck bietet Ateliers, Konzerträume und Freizeitkurse.",
+                  "category": "cultural",
+                  "coords": [
+                        13.64813,
+                        48.00597
+                  ]
+            },
+            {
+                  "name": "Graffiti Copy-Austellung",
+                  "text": "Eine Galerie in Vöcklabruck, die sich der Kunst des Graffiti widmet.",
+                  "category": "museum",
+                  "coords": [
+                        13.657094,
+                        48.008642
+                  ]
+            },
+            {
+                  "name": "Hamisches Gatterl",
+                  "text": "In der Landschaft um das österreichische Voecklabruck bietet das Hamisches Gatterl Naturfreunden ein besonderes Erlebnis. Von diesem erhöhten Aussichtspunkt aus lässt sich die umliegende Gegend hervorragend überblicken. Wanderer machen hier gerne Halt, um die weite Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        13.666905,
+                        48.011617
+                  ]
+            },
+            {
+                  "name": "Kunekune Schweine",
+                  "text": "Eine lokale Attraktion, bei der Kunekune-Schweine beobachtet werden können.",
+                  "category": "landmark",
+                  "coords": [
+                        13.620869,
+                        48.007055
+                  ]
+            },
+            {
+                  "name": "Schlierwand Alpakas",
+                  "text": "Ein Erlebnisbauernhof, der Alpakas als besondere Attraktion zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.637847,
+                        48.00939
+                  ]
+            },
+            {
+                  "name": "Raum 4-11-13",
+                  "text": "Ein moderner Ausstellungsraum für zeitgenössische Kunst in Vöcklabruck.",
+                  "category": "museum",
+                  "coords": [
+                        13.655899,
+                        48.007908
+                  ]
+            },
+            {
+                  "name": "Schöndorfer Kirche",
+                  "text": "Die historische Schöndorfer Kirche am Rande von Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.656572,
+                        48.002438
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Ein evangelisches Gotteshaus für die Gemeinde in Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.65058,
+                        48.00574
+                  ]
+            },
+            {
+                  "name": "Oberer Stadtturm",
+                  "text": "Ein historischer Stadtturm, der das Stadtbild von Vöcklabruck prägt.",
+                  "category": "fortress",
+                  "coords": [
+                        13.653408,
+                        48.007233
+                  ]
+            },
+            {
+                  "name": "Dörflkirche",
+                  "text": "Eine charmante Kirche in einem der Stadtteile von Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.658599,
+                        48.010273
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Regau",
+                  "text": "Die katholische Pfarrkirche in der Gemeinde Regau bei Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.688245,
+                        47.991905
+                  ]
+            },
+            {
+                  "name": "St. Anna",
+                  "text": "Eine sehenswerte Filialkirche in Oberthalheim bei Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.630775,
+                        48.005834
+                  ]
+            },
+            {
+                  "name": "Attersee",
+                  "text": "Der Attersee bei Vöcklabruck lädt zum Schwimmen und zum Genießen der Landschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        13.539114,
+                        47.869936
+                  ]
+            },
+            {
+                  "name": "Dschungelspielplatz",
+                  "text": "Dieser thematisch gestaltete Spielplatz in Vöcklabruck bietet Kindern ein besonderes Spielerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        13.652179,
+                        48.010728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heimathaus",
+                  "text": "Helytörténeti múzeum, amely Vöcklabruck múltját őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        13.65499,
+                        48.007411
+                  ]
+            },
+            {
+                  "name": "Museum der Heimatvertriebenen",
+                  "text": "A kitelepítettek sorsának és történelmének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.652188,
+                        48.007606
+                  ]
+            },
+            {
+                  "name": "Schloss Neuwartenburg",
+                  "text": "A Neuwartenburg-kastély Vöcklabruckban található, egy dombon a város fölött.",
+                  "category": "castle",
+                  "coords": [
+                        13.622876,
+                        48.011581
+                  ]
+            },
+            {
+                  "name": "Burgturm Alt-Wartenburg",
+                  "text": "Az egykori Alt-Wartenburg várának jól megőrzött tornya.",
+                  "category": "castle",
+                  "coords": [
+                        13.623718,
+                        48.014168
+                  ]
+            },
+            {
+                  "name": "Burgruine Alt-Wartenburg",
+                  "text": "Alt-Wartenburg várrom egy középkori magaslati vár romja Vöcklabruck mellett.",
+                  "category": "castle",
+                  "coords": [
+                        13.623116,
+                        48.015613
+                  ]
+            },
+            {
+                  "name": "Alte Stadtmauer",
+                  "text": "A vöcklabrucki óvárosfal a középkori erődítés egy megmaradt szakasza.",
+                  "category": "museum",
+                  "coords": [
+                        13.655088,
+                        48.009514
+                  ]
+            },
+            {
+                  "name": "Freibad Vöcklabruck",
+                  "text": "Népszerű strandfürdő vízi sportokhoz és kikapcsolódáshoz Vöcklabruckban.",
+                  "category": "family",
+                  "coords": [
+                        13.64962,
+                        48.010395
+                  ]
+            },
+            {
+                  "name": "Offenes Kunst- und Kulturhaus",
+                  "text": "A vöcklabrucki arts and leisure center műtermeket, koncerttermeket és szabadidős tanfolyamokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        13.64813,
+                        48.00597
+                  ]
+            },
+            {
+                  "name": "Graffiti Copy-Austellung",
+                  "text": "Vöcklabrucki galéria, amely a graffiti művészetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        13.657094,
+                        48.008642
+                  ]
+            },
+            {
+                  "name": "Hamisches Gatterl",
+                  "text": "Az ausztriai Voecklabruck körüli tájon a Hamisches Gatterl különleges élményt nyújt a természetbarátoknak. Ebből a magaslati kilátóból kiválóan belátható a környező vidék. A túrázók szívesen állnak meg itt, hogy élvezzék a tágas természetet.",
+                  "category": "natural",
+                  "coords": [
+                        13.666905,
+                        48.011617
+                  ]
+            },
+            {
+                  "name": "Kunekune Schweine",
+                  "text": "Helyi látványosság, ahol Kunekune sertések láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        13.620869,
+                        48.007055
+                  ]
+            },
+            {
+                  "name": "Schlierwand Alpakas",
+                  "text": "Élménymezőgazdaság, ahol az alpakák jelentik a fő látványosságot.",
+                  "category": "landmark",
+                  "coords": [
+                        13.637847,
+                        48.00939
+                  ]
+            },
+            {
+                  "name": "Raum 4-11-13",
+                  "text": "Modern kiállítótér a kortárs művészet számára Vöcklabruckban.",
+                  "category": "museum",
+                  "coords": [
+                        13.655899,
+                        48.007908
+                  ]
+            },
+            {
+                  "name": "Schöndorfer Kirche",
+                  "text": "A történelmi Schöndorfer templom Vöcklabruck szélén.",
+                  "category": "religious",
+                  "coords": [
+                        13.656572,
+                        48.002438
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Evangélikus templom a vöcklabrucki gyülekezet számára.",
+                  "category": "religious",
+                  "coords": [
+                        13.65058,
+                        48.00574
+                  ]
+            },
+            {
+                  "name": "Oberer Stadtturm",
+                  "text": "Történelmi várostorony, amely meghatározza Vöcklabruck látképét.",
+                  "category": "fortress",
+                  "coords": [
+                        13.653408,
+                        48.007233
+                  ]
+            },
+            {
+                  "name": "Dörflkirche",
+                  "text": "Bájos templom Vöcklabruck egyik városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        13.658599,
+                        48.010273
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Regau",
+                  "text": "Katolikus plébániatemplom a Vöcklabruck melletti Regau községben.",
+                  "category": "religious",
+                  "coords": [
+                        13.688245,
+                        47.991905
+                  ]
+            },
+            {
+                  "name": "St. Anna",
+                  "text": "Vöcklabruck melletti Oberthalheim figyelemre méltó filiális temploma.",
+                  "category": "religious",
+                  "coords": [
+                        13.630775,
+                        48.005834
+                  ]
+            },
+            {
+                  "name": "Attersee",
+                  "text": "A Vöcklabruck közeli Attersee úszásra és a táj élvezetére csábít.",
+                  "category": "natural",
+                  "coords": [
+                        13.539114,
+                        47.869936
+                  ]
+            },
+            {
+                  "name": "Dschungelspielplatz",
+                  "text": "Ez a tematikus játszótér Vöcklabruckban különleges játékélményt nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.652179,
+                        48.010728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heimathaus",
+                  "text": "Un muzeu local care păstrează istoria orașului Vöcklabruck.",
+                  "category": "museum",
+                  "coords": [
+                        13.65499,
+                        48.007411
+                  ]
+            },
+            {
+                  "name": "Museum der Heimatvertriebenen",
+                  "text": "Un muzeu dedicat destinului și istoriei persoanelor expulzate.",
+                  "category": "museum",
+                  "coords": [
+                        13.652188,
+                        48.007606
+                  ]
+            },
+            {
+                  "name": "Schloss Neuwartenburg",
+                  "text": "Castelul Schloss Neuwartenburg este situat în Vöcklabruck, pe o colină deasupra orașului.",
+                  "category": "castle",
+                  "coords": [
+                        13.622876,
+                        48.011581
+                  ]
+            },
+            {
+                  "name": "Burgturm Alt-Wartenburg",
+                  "text": "Turnul bine conservat al fostei cetăți Alt-Wartenburg.",
+                  "category": "castle",
+                  "coords": [
+                        13.623718,
+                        48.014168
+                  ]
+            },
+            {
+                  "name": "Burgruine Alt-Wartenburg",
+                  "text": "Ruina de castel Burgruine Alt-Wartenburg este ruina unui castel medieval de înălțime lângă Vöcklabruck.",
+                  "category": "castle",
+                  "coords": [
+                        13.623116,
+                        48.015613
+                  ]
+            },
+            {
+                  "name": "Alte Stadtmauer",
+                  "text": "Zidul vechi al orașului Vöcklabruck este o secțiune păstrată a fortificației medievale.",
+                  "category": "museum",
+                  "coords": [
+                        13.655088,
+                        48.009514
+                  ]
+            },
+            {
+                  "name": "Freibad Vöcklabruck",
+                  "text": "Un ștrand popular pentru sporturi nautice și recreere în Vöcklabruck.",
+                  "category": "family",
+                  "coords": [
+                        13.64962,
+                        48.010395
+                  ]
+            },
+            {
+                  "name": "Offenes Kunst- und Kulturhaus",
+                  "text": "Centrul de arte și agrement din Vöcklabruck oferă ateliere, săli de concerte și cursuri de timp liber.",
+                  "category": "cultural",
+                  "coords": [
+                        13.64813,
+                        48.00597
+                  ]
+            },
+            {
+                  "name": "Graffiti Copy-Austellung",
+                  "text": "O galerie din Vöcklabruck dedicată artei graffiti.",
+                  "category": "museum",
+                  "coords": [
+                        13.657094,
+                        48.008642
+                  ]
+            },
+            {
+                  "name": "Hamisches Gatterl",
+                  "text": "În peisajul din jurul orașului austriac Voecklabruck, Hamisches Gatterl oferă o experiență specială iubitorilor de natură. De la acest punct de belvedere ridicat, zona înconjurătoare poate fi admirată excelent. Drumeții se opresc adesea aici pentru a se bucura de natura vastă.",
+                  "category": "natural",
+                  "coords": [
+                        13.666905,
+                        48.011617
+                  ]
+            },
+            {
+                  "name": "Kunekune Schweine",
+                  "text": "O atracție locală unde pot fi văzuți porci Kunekune.",
+                  "category": "landmark",
+                  "coords": [
+                        13.620869,
+                        48.007055
+                  ]
+            },
+            {
+                  "name": "Schlierwand Alpakas",
+                  "text": "O fermă de experiență care prezintă alpacalele ca atracție specială.",
+                  "category": "landmark",
+                  "coords": [
+                        13.637847,
+                        48.00939
+                  ]
+            },
+            {
+                  "name": "Raum 4-11-13",
+                  "text": "Un spațiu expozițional modern pentru artă contemporană în Vöcklabruck.",
+                  "category": "museum",
+                  "coords": [
+                        13.655899,
+                        48.007908
+                  ]
+            },
+            {
+                  "name": "Schöndorfer Kirche",
+                  "text": "Biserica istorică Schöndorfer de la marginea orașului Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.656572,
+                        48.002438
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Un lăcaș de cult evanghelic pentru comunitatea din Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.65058,
+                        48.00574
+                  ]
+            },
+            {
+                  "name": "Oberer Stadtturm",
+                  "text": "Un turn istoric al orașului care definește imaginea orașului Vöcklabruck.",
+                  "category": "fortress",
+                  "coords": [
+                        13.653408,
+                        48.007233
+                  ]
+            },
+            {
+                  "name": "Dörflkirche",
+                  "text": "O biserică fermecătoare într-unul dintre cartierele orașului Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.658599,
+                        48.010273
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Regau",
+                  "text": "Biserica parohială catolică din comuna Regau, lângă Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.688245,
+                        47.991905
+                  ]
+            },
+            {
+                  "name": "St. Anna",
+                  "text": "O biserică filială demnă de vizitat în Oberthalheim, lângă Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.630775,
+                        48.005834
+                  ]
+            },
+            {
+                  "name": "Attersee",
+                  "text": "Lacul Atter de lângă Vöcklabruck invită la înot și la admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        13.539114,
+                        47.869936
+                  ]
+            },
+            {
+                  "name": "Dschungelspielplatz",
+                  "text": "Acest loc de joacă tematic din Vöcklabruck oferă copiilor o experiență de joacă deosebită.",
+                  "category": "family",
+                  "coords": [
+                        13.652179,
+                        48.010728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heimathaus",
+                  "text": "A local history museum preserving the heritage of Vöcklabruck.",
+                  "category": "museum",
+                  "coords": [
+                        13.65499,
+                        48.007411
+                  ]
+            },
+            {
+                  "name": "Museum der Heimatvertriebenen",
+                  "text": "A museum dedicated to the fate and history of displaced persons.",
+                  "category": "museum",
+                  "coords": [
+                        13.652188,
+                        48.007606
+                  ]
+            },
+            {
+                  "name": "Schloss Neuwartenburg",
+                  "text": "Schloss Neuwartenburg is a castle in Vöcklabruck, perched on a hill above the town.",
+                  "category": "castle",
+                  "coords": [
+                        13.622876,
+                        48.011581
+                  ]
+            },
+            {
+                  "name": "Burgturm Alt-Wartenburg",
+                  "text": "The well-preserved tower of the former Alt-Wartenburg castle complex.",
+                  "category": "castle",
+                  "coords": [
+                        13.623718,
+                        48.014168
+                  ]
+            },
+            {
+                  "name": "Burgruine Alt-Wartenburg",
+                  "text": "Burgruine Alt-Wartenburg is the ruin of a medieval hilltop castle near Vöcklabruck.",
+                  "category": "castle",
+                  "coords": [
+                        13.623116,
+                        48.015613
+                  ]
+            },
+            {
+                  "name": "Alte Stadtmauer",
+                  "text": "The old city wall of Vöcklabruck is a preserved section of the medieval fortification.",
+                  "category": "museum",
+                  "coords": [
+                        13.655088,
+                        48.009514
+                  ]
+            },
+            {
+                  "name": "Freibad Vöcklabruck",
+                  "text": "A popular outdoor pool for water sports and recreation in Vöcklabruck.",
+                  "category": "family",
+                  "coords": [
+                        13.64962,
+                        48.010395
+                  ]
+            },
+            {
+                  "name": "arts and leisure center",
+                  "text": "The arts and leisure center in Vöcklabruck offers studios, concert rooms, and leisure courses.",
+                  "category": "cultural",
+                  "coords": [
+                        13.64813,
+                        48.00597
+                  ]
+            },
+            {
+                  "name": "Graffiti Copy-Austellung",
+                  "text": "A gallery in Vöcklabruck dedicated to the art of graffiti.",
+                  "category": "museum",
+                  "coords": [
+                        13.657094,
+                        48.008642
+                  ]
+            },
+            {
+                  "name": "Hamisches Gatterl",
+                  "text": "In the landscape surrounding Voecklabruck in Austria, the Hamisches Gatterl offers nature lovers a special experience. From this elevated viewpoint, the surrounding area can be perfectly surveyed. Hikers like to stop here to enjoy the vast outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        13.666905,
+                        48.011617
+                  ]
+            },
+            {
+                  "name": "Kunekune Schweine",
+                  "text": "A local attraction where Kunekune pigs can be observed.",
+                  "category": "landmark",
+                  "coords": [
+                        13.620869,
+                        48.007055
+                  ]
+            },
+            {
+                  "name": "Schlierwand Alpakas",
+                  "text": "An adventure farm featuring alpacas as a special attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        13.637847,
+                        48.00939
+                  ]
+            },
+            {
+                  "name": "Raum 4-11-13",
+                  "text": "A modern exhibition space for contemporary art in Vöcklabruck.",
+                  "category": "museum",
+                  "coords": [
+                        13.655899,
+                        48.007908
+                  ]
+            },
+            {
+                  "name": "Schöndorfer Kirche",
+                  "text": "The historical Schöndorfer church on the outskirts of Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.656572,
+                        48.002438
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "An evangelical place of worship for the community in Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.65058,
+                        48.00574
+                  ]
+            },
+            {
+                  "name": "Oberer Stadtturm",
+                  "text": "A historical city tower that characterizes the cityscape of Vöcklabruck.",
+                  "category": "fortress",
+                  "coords": [
+                        13.653408,
+                        48.007233
+                  ]
+            },
+            {
+                  "name": "Dörflkirche",
+                  "text": "A charming church in one of the districts of Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.658599,
+                        48.010273
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Regau",
+                  "text": "The Catholic parish church in the municipality of Regau near Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.688245,
+                        47.991905
+                  ]
+            },
+            {
+                  "name": "St. Anna",
+                  "text": "A noteworthy filial church in Oberthalheim near Vöcklabruck.",
+                  "category": "religious",
+                  "coords": [
+                        13.630775,
+                        48.005834
+                  ]
+            },
+            {
+                  "name": "Lake Atter",
+                  "text": "Lake Atter near Vöcklabruck invites visitors for swimming and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        13.539114,
+                        47.869936
+                  ]
+            },
+            {
+                  "name": "Dschungelspielplatz",
+                  "text": "This themed playground in Vöcklabruck offers children a special play experience.",
+                  "category": "family",
+                  "coords": [
+                        13.652179,
+                        48.010728
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT",
     name: { de: "Vöcklabruck", hu: "Vöcklabruck", ro: "Vöcklabruck", en: "Voecklabruck" },
@@ -403,7 +1168,7 @@ export const austriaEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Tabor Feldbach",
-                  "text": "Eine ehemalige Festungsanlage in Feldbach, die heute Museen beherbergt.",
+                  "text": "Der Tabor Feldbach ist ein Museum in einer ehemaligen Wehrkirche in Feldbach.",
                   "category": "museum",
                   "coords": [
                         15.887859,
@@ -430,7 +1195,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Kunsthalle Feldbach",
-                  "text": "Ein Ausstellungszentrum für zeitgenössische Kunst in Feldbach.",
+                  "text": "Die Kunsthalle Feldbach ist eine Ausstellungshalle für zeitgenössische Kunst im Bezirk Südoststeiermark.",
                   "category": "cultural",
                   "coords": [
                         15.886863,
@@ -439,7 +1204,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "KS Room",
-                  "text": "Ein Raum für kulturelle Veranstaltungen und Kunst in Feldbach.",
+                  "text": "Der KS Room in Feldbach ist ein kleiner Veranstaltungsraum für Konzerte und Lesungen.",
                   "category": "cultural",
                   "coords": [
                         15.875821,
@@ -448,7 +1213,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Evangelische Pfarrkirche",
-                  "text": "Die evangelische Kirche der Gemeinde Feldbach.",
+                  "text": "Die Evangelische Pfarrkirche in Feldbach ist die protestantische Pfarrkirche der Stadt.",
                   "category": "religious",
                   "coords": [
                         15.88363,
@@ -457,7 +1222,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Franz-Josef-Brücke",
-                  "text": "Eine Brücke über den Fluss Raab in der Stadt Feldbach.",
+                  "text": "Die Franz-Josef-Brücke in Feldbach ist eine historische Brücke über die Raab, benannt nach Kaiser Franz Joseph.",
                   "category": "landmark",
                   "coords": [
                         15.888583,
@@ -477,7 +1242,7 @@ export const austriaEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Tabor Feldbach",
-                  "text": "Egykori erődítmény Feldbachban, amely ma múzeumoknak ad otthont.",
+                  "text": "A Tabor Feldbach egy múzeum egy egykori erődtemplomban Feldbachban.",
                   "category": "museum",
                   "coords": [
                         15.887859,
@@ -504,7 +1269,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Kunsthalle Feldbach",
-                  "text": "Kortárs művészeti kiállító központ Feldbachban.",
+                  "text": "A Feldbachi Művészeti Csarnok kortárs művészeti kiállítóterem a Délkelet-stájer járásban.",
                   "category": "cultural",
                   "coords": [
                         15.886863,
@@ -513,7 +1278,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "KS Room",
-                  "text": "Kulturális rendezvények és művészetek helyszíne Feldbachban.",
+                  "text": "A feldbachi KS Room egy kis rendezvényterem koncertek és felolvasások számára.",
                   "category": "cultural",
                   "coords": [
                         15.875821,
@@ -522,7 +1287,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Evangelische Pfarrkirche",
-                  "text": "Feldbach község evangélikus temploma.",
+                  "text": "A Feldbachi Evangélikus Plébániatemplom a város protestáns plébániatemploma.",
                   "category": "religious",
                   "coords": [
                         15.88363,
@@ -531,7 +1296,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Franz-Josef-Brücke",
-                  "text": "Híd a Rába folyón Feldbach városában.",
+                  "text": "A Feldbachi Ferenc József híd egy történelmi híd a Raab folyón, amely Ferenc József császárról kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         15.888583,
@@ -551,7 +1316,7 @@ export const austriaEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Tabor Feldbach",
-                  "text": "O fostă fortificație în Feldbach, care astăzi găzduiește muzee.",
+                  "text": "Tabor Feldbach este un muzeu într-o fostă biserică fortificată din Feldbach.",
                   "category": "museum",
                   "coords": [
                         15.887859,
@@ -578,7 +1343,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Kunsthalle Feldbach",
-                  "text": "Un centru expozițional pentru artă contemporană în Feldbach.",
+                  "text": "Sala de Artă din Feldbach este o sală de expoziții pentru artă contemporană în districtul Südoststeiermark.",
                   "category": "cultural",
                   "coords": [
                         15.886863,
@@ -587,7 +1352,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "KS Room",
-                  "text": "Un spațiu pentru evenimente culturale și artă în Feldbach.",
+                  "text": "Sala KS din Feldbach este o mică sală de evenimente pentru concerte și lecturi.",
                   "category": "cultural",
                   "coords": [
                         15.875821,
@@ -596,7 +1361,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Evangelische Pfarrkirche",
-                  "text": "Biserica evanghelică a comunității din Feldbach.",
+                  "text": "Biserica Parohială Evanghelică din Feldbach este biserica parohială protestantă a orașului.",
                   "category": "religious",
                   "coords": [
                         15.88363,
@@ -605,7 +1370,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Franz-Josef-Brücke",
-                  "text": "Un pod peste râul Raab în orașul Feldbach.",
+                  "text": "Podul Franz-Josef din Feldbach este un pod istoric peste râul Raab, numit după împăratul Franz Joseph.",
                   "category": "landmark",
                   "coords": [
                         15.888583,
@@ -625,7 +1390,7 @@ export const austriaEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Tabor Feldbach",
-                  "text": "A former fortress in Feldbach that now houses museums.",
+                  "text": "Tabor Feldbach is a museum housed in a former fortified church in Feldbach.",
                   "category": "museum",
                   "coords": [
                         15.887859,
@@ -652,7 +1417,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Kunsthalle Feldbach",
-                  "text": "An exhibition center for contemporary art in Feldbach.",
+                  "text": "Kunsthalle Feldbach is an exhibition hall for contemporary art in the Südoststeiermark district.",
                   "category": "cultural",
                   "coords": [
                         15.886863,
@@ -661,7 +1426,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "KS Room",
-                  "text": "A space for cultural events and art in Feldbach.",
+                  "text": "The KS Room in Feldbach is a small event space for concerts and readings.",
                   "category": "cultural",
                   "coords": [
                         15.875821,
@@ -670,7 +1435,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Evangelische Pfarrkirche",
-                  "text": "The Protestant church of the Feldbach community.",
+                  "text": "Evangelische Pfarrkirche is the Protestant parish church in Feldbach.",
                   "category": "religious",
                   "coords": [
                         15.88363,
@@ -679,7 +1444,7 @@ export const austriaEconomicV2: POI[] = [
             },
             {
                   "name": "Franz-Josef-Brücke",
-                  "text": "A bridge over the river Raab in the town of Feldbach.",
+                  "text": "Franz-Josef-Brücke is a historic bridge over the Raab river in Feldbach, named after Emperor Franz Joseph.",
                   "category": "landmark",
                   "coords": [
                         15.888583,

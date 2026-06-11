@@ -137,7 +137,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Csiky",
-                  "text": "Ein lokaler See in der Nähe von Turda, bekannt für seine ruhige Lage.",
+                  "text": "Der Csiky-See in Turda, ein See, der nach der Familie Csiky benannt ist.",
                   "category": "natural",
                   "coords": [
                         23.806504,
@@ -146,7 +146,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Grădina Zoologică Turda",
-                  "text": "Ein Zoo in Turda, in dem Besucher verschiedene Tiere sehen können.",
+                  "text": "Der Zoo von Turda, ein kleiner Zoo mit heimischen Tierarten.",
                   "category": "family",
                   "coords": [
                         23.810138,
@@ -253,7 +253,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Csíki-tó",
-                  "text": "Helyi tó Torda közelében, amely nyugodt fekvéséről ismert.",
+                  "text": "A Csiky-tó Tordán, egy tó, amely a Csiky családról kapta a nevét.",
                   "category": "natural",
                   "coords": [
                         23.806504,
@@ -262,7 +262,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Grădina Zoologică Turda",
-                  "text": "Állatkert Turdán, ahol a látogatók különféle állatokat láthatnak.",
+                  "text": "A tordai állatkert, egy kisebb állatkert helyi állatfajokkal.",
                   "category": "family",
                   "coords": [
                         23.810138,
@@ -369,7 +369,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Csiky",
-                  "text": "Un lac local lângă Turda, cunoscut pentru locația sa liniștită.",
+                  "text": "Lacul Csiky din Turda, un lac numit după familia Csiky.",
                   "category": "natural",
                   "coords": [
                         23.806504,
@@ -378,7 +378,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Grădina Zoologică Turda",
-                  "text": "O grădină zoologică în Turda unde vizitatorii pot vedea diverse animale.",
+                  "text": "Grădina Zoologică Turda, o grădină zoologică mică cu specii locale.",
                   "category": "family",
                   "coords": [
                         23.810138,
@@ -485,7 +485,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Csiky",
-                  "text": "A local lake near Turda, known for its quiet location.",
+                  "text": "Lacul Csiky in Turda, a lake named after the Csiky family.",
                   "category": "natural",
                   "coords": [
                         23.806504,
@@ -494,7 +494,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Turda Zoo",
-                  "text": "A zoo in Turda where visitors can see various animals.",
+                  "text": "Turda Zoo, a small zoo featuring local animal species.",
                   "category": "family",
                   "coords": [
                         23.810138,
@@ -630,7 +630,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Stat și Casa de Cultură a Sindicatelor",
-                  "text": "Ein wichtiges kulturelles Zentrum und Theater in Reschitza.",
+                  "text": "Das Staatstheater und das Kulturhaus der Gewerkschaften in Reșița, zwei kulturelle Einrichtungen unter einem Dach.",
                   "category": "cultural",
                   "coords": [
                         21.891763,
@@ -639,7 +639,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Școala Pittner",
-                  "text": "Ein Museum in einem historischen Schulgebäude in Reschitza.",
+                  "text": "Die Pittner-Schule in Reșița, heute ein Museum zur Geschichte der lokalen Bildung.",
                   "category": "museum",
                   "coords": [
                         21.907826,
@@ -648,7 +648,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Societatea pentru Cultura Metarsis",
-                  "text": "Ein Verein zur Förderung der Kultur in Reschitza.",
+                  "text": "Die „Societatea pentru Cultura Metarsis” in Reșița, ein Gebäude der Kulturgesellschaft Metarsis.",
                   "category": "landmark",
                   "coords": [
                         21.895208,
@@ -746,7 +746,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Stat și Casa de Cultură a Sindicatelor",
-                  "text": "Fontos kulturális központ és színház Resicabányán.",
+                  "text": "Az Állami Színház és a Szakszervezetek Művelődési Háza Resicabányán, két kulturális intézmény egy fedél alatt.",
                   "category": "cultural",
                   "coords": [
                         21.891763,
@@ -755,7 +755,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Școala Pittner",
-                  "text": "Múzeum egy történelmi iskolaépületben Resicabányán.",
+                  "text": "A Pittner-iskola Resicabányán, ma a helyi oktatás történetének múzeuma.",
                   "category": "museum",
                   "coords": [
                         21.907826,
@@ -764,7 +764,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Societatea pentru Cultura Metarsis",
-                  "text": "Kulturális egyesület Resicabánya városában.",
+                  "text": "A „Societatea pentru Cultura Metarsis” Resicabányán, a Metarsis Kulturális Társaság épülete.",
                   "category": "landmark",
                   "coords": [
                         21.895208,
@@ -862,7 +862,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Stat și Casa de Cultură a Sindicatelor",
-                  "text": "Un centru cultural important și teatru din Reșița.",
+                  "text": "Teatrul de Stat și Casa de Cultură a Sindicatelor din Reșița, două instituții culturale sub același acoperiș.",
                   "category": "cultural",
                   "coords": [
                         21.891763,
@@ -871,7 +871,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Școala Pittner",
-                  "text": "Un muzeu situat într-o clădire istorică de școală din Reșița.",
+                  "text": "Școala Pittner din Reșița, acum un muzeu al istoriei educației locale.",
                   "category": "museum",
                   "coords": [
                         21.907826,
@@ -880,7 +880,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Societatea pentru Cultura Metarsis",
-                  "text": "O asociație pentru promovarea culturii în Reșița.",
+                  "text": "„Societatea pentru Cultura Metarsis” din Reșița, clădirea societății culturale Metarsis.",
                   "category": "landmark",
                   "coords": [
                         21.895208,
@@ -978,7 +978,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Stat și Casa de Cultură a Sindicatelor",
-                  "text": "An important cultural center and theatre in Reșița.",
+                  "text": "The State Theatre and the Trade Unions' Cultural House in Reșița, two cultural venues under one roof.",
                   "category": "cultural",
                   "coords": [
                         21.891763,
@@ -987,7 +987,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Școala Pittner",
-                  "text": "A museum located in a historic school building in Reșița.",
+                  "text": "The Pittner School in Reșița, now a museum of local education history.",
                   "category": "museum",
                   "coords": [
                         21.907826,
@@ -996,7 +996,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Societatea pentru Cultura Metarsis",
-                  "text": "A society for the promotion of culture in Reșița.",
+                  "text": "The „Societatea pentru Cultura Metarsis” (Society for Metarsis Culture) in Reșița, the building of the Metarsis cultural society.",
                   "category": "landmark",
                   "coords": [
                         21.895208,
@@ -2223,7 +2223,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Ocniţa",
-                  "text": "Der See Lacul Ocniţa befindet sich in Râmnicu Vâlcea.",
+                  "text": "Der Ocniţa-See in Râmnicu Vâlcea, ein See, der in einem ehemaligen Salzbergwerk entstanden ist.",
                   "category": "natural",
                   "coords": [
                         24.271239,
@@ -2232,7 +2232,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul din Brazi",
-                  "text": "Lacul din Brazi ist ein See in Râmnicu Vâlcea.",
+                  "text": "Der „Lacul din Brazi” (See der Tannen) in Râmnicu Vâlcea, ein von Tannen umgebener See.",
                   "category": "natural",
                   "coords": [
                         24.296362,
@@ -2250,7 +2250,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Govora",
-                  "text": "Der Stausee Acumularea Govora liegt in der Nähe von Râmnicu Vâlcea.",
+                  "text": "Stausee am Fluss Govora bei Râmnicu Vâlcea.",
                   "category": "natural",
                   "coords": [
                         24.320049,
@@ -2259,7 +2259,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Râureni",
-                  "text": "Der See Acumularea Râureni befindet sich in Râmnicu Vâlcea.",
+                  "text": "Stausee im Ortsteil Râureni von Râmnicu Vâlcea.",
                   "category": "natural",
                   "coords": [
                         24.372854,
@@ -2268,7 +2268,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Râmnicu Vâlcea",
-                  "text": "Der Stausee Acumularea Râmnicu Vâlcea prägt die Landschaft von Râmnicu Vâlcea.",
+                  "text": "Stausee zur Wasserversorgung der Stadt Râmnicu Vâlcea.",
                   "category": "natural",
                   "coords": [
                         24.387498,
@@ -2492,7 +2492,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Ocniţa",
-                  "text": "A Lacul Ocniţa egy tó Râmnicu Vâlcea városában.",
+                  "text": "Az Ocniţa-tó Râmnicu Vâlcea-ban, egy egykori sóbánya helyén kialakult tó.",
                   "category": "natural",
                   "coords": [
                         24.271239,
@@ -2501,7 +2501,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul din Brazi",
-                  "text": "A Lacul din Brazi tó Râmnicu Vâlcea területén található.",
+                  "text": "A „Lacul din Brazi” (Fenyves-tó) Râmnicu Vâlcea-ban, egy fenyőfákkal körülvett tó.",
                   "category": "natural",
                   "coords": [
                         24.296362,
@@ -2519,7 +2519,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Govora",
-                  "text": "Az Acumularea Govora egy víztározó tó Râmnicu Vâlcea közelében.",
+                  "text": "Víztározó a Govora folyón, Râmnicu Vâlcea mellett.",
                   "category": "natural",
                   "coords": [
                         24.320049,
@@ -2528,7 +2528,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Râureni",
-                  "text": "Az Acumularea Râureni tó Râmnicu Vâlcea városában található.",
+                  "text": "Víztározó Râmnicu Vâlcea Râureni negyedében.",
                   "category": "natural",
                   "coords": [
                         24.372854,
@@ -2537,7 +2537,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Râmnicu Vâlcea",
-                  "text": "Az Acumularea Râmnicu Vâlcea tó a város egyik jelentős vízfelülete.",
+                  "text": "Víztározó Râmnicu Vâlcea város vízellátására.",
                   "category": "natural",
                   "coords": [
                         24.387498,
@@ -2761,7 +2761,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Ocniţa",
-                  "text": "Lacul Ocnița este situat în Râmnicu Vâlcea.",
+                  "text": "Lacul Ocniţa din Râmnicu Vâlcea, un lac format într-o fostă salină.",
                   "category": "natural",
                   "coords": [
                         24.271239,
@@ -2770,7 +2770,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul din Brazi",
-                  "text": "Lacul din Brazi este un lac situat în Râmnicu Vâlcea.",
+                  "text": "„Lacul din Brazi” din Râmnicu Vâlcea, un lac înconjurat de brazi.",
                   "category": "natural",
                   "coords": [
                         24.296362,
@@ -2788,7 +2788,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Govora",
-                  "text": "Acumularea Govora este un lac de acumulare situat lângă Râmnicu Vâlcea.",
+                  "text": "Acumulare pe râul Govora lângă Râmnicu Vâlcea.",
                   "category": "natural",
                   "coords": [
                         24.320049,
@@ -2797,7 +2797,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Râureni",
-                  "text": "Acumularea Râureni este un lac situat în Râmnicu Vâlcea.",
+                  "text": "Acumulare în cartierul Râureni din Râmnicu Vâlcea.",
                   "category": "natural",
                   "coords": [
                         24.372854,
@@ -2806,7 +2806,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Râmnicu Vâlcea",
-                  "text": "Acumularea Râmnicu Vâlcea este un lac important din Râmnicu Vâlcea.",
+                  "text": "Acumulare pentru alimentarea cu apă a orașului Râmnicu Vâlcea.",
                   "category": "natural",
                   "coords": [
                         24.387498,
@@ -3030,7 +3030,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Ocniţa",
-                  "text": "Lacul Ocnița is a lake located in Ramnicu Valcea.",
+                  "text": "Lacul Ocniţa in Râmnicu Vâlcea, a lake formed in a former salt mine.",
                   "category": "natural",
                   "coords": [
                         24.271239,
@@ -3039,7 +3039,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul din Brazi",
-                  "text": "Lacul din Brazi is a lake situated in Ramnicu Valcea.",
+                  "text": "„Lacul din Brazi” (Lake of the Fir Trees) in Râmnicu Vâlcea, a lake surrounded by fir trees.",
                   "category": "natural",
                   "coords": [
                         24.296362,
@@ -3057,7 +3057,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Govora",
-                  "text": "Acumularea Govora is a reservoir lake located near Ramnicu Valcea.",
+                  "text": "Reservoir on the Govora River near Râmnicu Vâlcea.",
                   "category": "natural",
                   "coords": [
                         24.320049,
@@ -3066,7 +3066,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Râureni",
-                  "text": "Acumularea Râureni is a lake located in Ramnicu Valcea.",
+                  "text": "Reservoir in the Râureni district of Râmnicu Vâlcea.",
                   "category": "natural",
                   "coords": [
                         24.372854,
@@ -3075,7 +3075,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Râmnicu Vâlcea",
-                  "text": "Acumularea Râmnicu Vâlcea is a significant lake in Ramnicu Valcea.",
+                  "text": "Reservoir supplying water to the city of Râmnicu Vâlcea.",
                   "category": "natural",
                   "coords": [
                         24.387498,
@@ -3227,7 +3227,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Johnannes-Products Codlea (1960)",
-                  "text": "Ein Denkmal in Zeiden, das an die Industriegeschichte erinnert.",
+                  "text": "Industrieanlage aus dem Jahr 1960 in Codlea.",
                   "category": "historical",
                   "coords": [
                         25.452349,
@@ -3332,7 +3332,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Johnannes-Products Codlea (1960)",
-                  "text": "Feketehalmi emlékmű, amely az ipari múltra emlékeztet.",
+                  "text": "1960-ban alapított ipari létesítmény Codleában.",
                   "category": "historical",
                   "coords": [
                         25.452349,
@@ -3437,7 +3437,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Johnannes-Products Codlea (1960)",
-                  "text": "Un monument în Codlea care amintește de istoria industrială.",
+                  "text": "Ansamblu industrial fondat în 1960 la Codlea.",
                   "category": "historical",
                   "coords": [
                         25.452349,
@@ -3542,7 +3542,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Johnannes-Products Codlea (1960)",
-                  "text": "A monument in Codlea commemorating industrial history.",
+                  "text": "Industrial site founded in 1960 in Codlea.",
                   "category": "historical",
                   "coords": [
                         25.452349,
@@ -3673,7 +3673,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Mutu",
-                  "text": "Der Lacul Mutu ist ein See in Lupeni, der eine ruhige Naturkulisse bietet.",
+                  "text": "See im Schiltal nahe der Stadt Lupeni.",
                   "category": "natural",
                   "coords": [
                         23.250353,
@@ -3721,7 +3721,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Mutu",
-                  "text": "A Lacul Mutu egy tó Lupényban, amely nyugodt természeti környezetet kínál.",
+                  "text": "Tó a Zsil-völgyben, Lupeni közelében.",
                   "category": "natural",
                   "coords": [
                         23.250353,
@@ -3769,7 +3769,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Mutu",
-                  "text": "Lacul Mutu este un lac din Lupeni ce oferă un cadru natural liniștit.",
+                  "text": "Lac în Valea Jiului, lângă Lupeni.",
                   "category": "natural",
                   "coords": [
                         23.250353,
@@ -3817,7 +3817,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Mutu",
-                  "text": "Lacul Mutu is a lake in Lupeni offering a quiet natural setting.",
+                  "text": "Lake in the Jiu Valley near Lupeni.",
                   "category": "natural",
                   "coords": [
                         23.250353,
@@ -4273,7 +4273,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Zoo",
-                  "text": "Ein kleiner Tierpark für Besucher in Ovidiu.",
+                  "text": "Kleiner Zoo mit einheimischen Tieren in Ovidiu.",
                   "category": "family",
                   "coords": [
                         28.582728,
@@ -4313,7 +4313,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Zoo",
-                  "text": "Egy kis állatkert a látogatók számára Ovidiuban.",
+                  "text": "Mini állatkert helyi állatokkal Ovidiuban.",
                   "category": "family",
                   "coords": [
                         28.582728,
@@ -4353,7 +4353,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Zoo",
-                  "text": "Un mic parc zoologic pentru vizitatori în Ovidiu.",
+                  "text": "Grădină zoologică mică cu animale locale în Ovidiu.",
                   "category": "family",
                   "coords": [
                         28.582728,
@@ -4393,7 +4393,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Zoo",
-                  "text": "A small zoo for visitors in Ovidiu.",
+                  "text": "Small zoo featuring local animals in Ovidiu.",
                   "category": "family",
                   "coords": [
                         28.582728,
@@ -4673,7 +4673,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Bâtca Doamnei",
-                  "text": "Der See Acumularea Bâtca Doamnei befindet sich in der Region Pangrați.",
+                  "text": "Stausee am Bâtca Doamnei-Hügel bei Pangrati.",
                   "category": "natural",
                   "coords": [
                         26.323562,
@@ -4712,7 +4712,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Bâtca Doamnei",
-                  "text": "Az Acumularea Bâtca Doamnei tó Pangrați térségében található.",
+                  "text": "Víztározó a Bâtca Doamnei-dombon, Pangrati mellett.",
                   "category": "natural",
                   "coords": [
                         26.323562,
@@ -4751,7 +4751,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Bâtca Doamnei",
-                  "text": "Lacul de acumulare Bâtca Doamnei este situat în zona localității Pangrați.",
+                  "text": "Acumulare pe dealul Bâtca Doamnei lângă Pangrati.",
                   "category": "natural",
                   "coords": [
                         26.323562,
@@ -4790,7 +4790,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Acumularea Bâtca Doamnei",
-                  "text": "Acumularea Bâtca Doamnei is a reservoir lake located in the Pangrati area.",
+                  "text": "Reservoir on Bâtca Doamnei hill near Pangrati.",
                   "category": "natural",
                   "coords": [
                         26.323562,
@@ -4887,7 +4887,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Reci",
-                  "text": "Der Strand Băile Reci befindet sich in Techirghiol.",
+                  "text": "Kaltwasserbäder am Techirghiol-See.",
                   "category": "recreational",
                   "coords": [
                         28.607926,
@@ -4941,7 +4941,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Vară",
-                  "text": "Ein Veranstaltungsort für Aufführungen unter freiem Himmel in Techirghiol.",
+                  "text": "Freilichtbühne am Ufer des Techirghiol-Sees.",
                   "category": "landmark",
                   "coords": [
                         28.635995,
@@ -5045,7 +5045,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Reci",
-                  "text": "A Băile Reci strand Techirghiolban található.",
+                  "text": "Hideg fürdők a Techirghiol-tó mellett.",
                   "category": "recreational",
                   "coords": [
                         28.607926,
@@ -5099,7 +5099,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Vară",
-                  "text": "Szabadtéri előadások helyszíne Techirghiolban.",
+                  "text": "Szabadtéri színpad a Techirghiol-tó partján.",
                   "category": "landmark",
                   "coords": [
                         28.635995,
@@ -5203,7 +5203,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Reci",
-                  "text": "Plaja Băile Reci este situată în Techirghiol.",
+                  "text": "Băi reci lângă lacul Techirghiol.",
                   "category": "recreational",
                   "coords": [
                         28.607926,
@@ -5257,7 +5257,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Vară",
-                  "text": "Un spațiu pentru spectacole în aer liber în Techirghiol.",
+                  "text": "Teatru de vară pe malul lacului Techirghiol.",
                   "category": "landmark",
                   "coords": [
                         28.635995,
@@ -5361,7 +5361,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Reci",
-                  "text": "Băile Reci beach is located in Techirghiol.",
+                  "text": "Cold baths near Lake Techirghiol.",
                   "category": "recreational",
                   "coords": [
                         28.607926,
@@ -5415,7 +5415,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Vară",
-                  "text": "A venue for open-air performances in Techirghiol.",
+                  "text": "Open-air theatre on the shore of Lake Techirghiol.",
                   "category": "landmark",
                   "coords": [
                         28.635995,
@@ -5546,7 +5546,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Urmele Cetății Vársarka",
-                  "text": "Die Ruinen einer alten Festung in Bălan.",
+                  "text": "Ruinen der mittelalterlichen Burg Vársarka bei Balan.",
                   "category": "historical",
                   "coords": [
                         25.794317,
@@ -5567,7 +5567,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Vársarka romok",
-                  "text": "Egy régi erődítmény romjai Balánbánya területén.",
+                  "text": "A középkori Vársarka vár romjai Balan mellett.",
                   "category": "historical",
                   "coords": [
                         25.794317,
@@ -5588,7 +5588,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Urmele Cetății Vársarka",
-                  "text": "Ruinele unei vechi cetăți în Bălan.",
+                  "text": "Ruinele cetății medievale Vársarka lângă Balan.",
                   "category": "historical",
                   "coords": [
                         25.794317,
@@ -5609,7 +5609,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Urmele Cetății Vársarka",
-                  "text": "The ruins of an old fortress in Bălan.",
+                  "text": "Ruins of the medieval Vársarka fortress near Balan.",
                   "category": "historical",
                   "coords": [
                         25.794317,
@@ -5716,7 +5716,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Cristian",
-                  "text": "Der See Balta Cristian liegt bei Ghimbav und bietet eine natürliche Kulisse.",
+                  "text": "Teich im Ort Cristian bei Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.513429,
@@ -5725,7 +5725,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 1",
-                  "text": "Lac balastiera 1 ist ein See in der Nähe von Ghimbav.",
+                  "text": "Erster Kiesgrubensee bei Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.530528,
@@ -5734,7 +5734,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 2",
-                  "text": "Der See Lac balastiera 2 befindet sich bei Ghimbav.",
+                  "text": "Zweiter Kiesgrubensee bei Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.527745,
@@ -5743,7 +5743,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 3",
-                  "text": "Lac balastiera 3 ist ein Gewässer in der Region Ghimbav.",
+                  "text": "Dritter Kiesgrubensee bei Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.527105,
@@ -5803,7 +5803,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Cristian",
-                  "text": "A Ghimbav melletti Balta Cristian tó természetközeli élményt nyújt.",
+                  "text": "Tó Cristian faluban, Ghimbav közelében.",
                   "category": "natural",
                   "coords": [
                         25.513429,
@@ -5812,7 +5812,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 1",
-                  "text": "A Lac balastiera 1 egy tó Ghimbav közelében.",
+                  "text": "Első kavicsbánya-tó Ghimbav mellett.",
                   "category": "natural",
                   "coords": [
                         25.530528,
@@ -5821,7 +5821,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 2",
-                  "text": "A Lac balastiera 2 tó Ghimbav mellett fekszik.",
+                  "text": "Második kavicsbánya-tó Ghimbav mellett.",
                   "category": "natural",
                   "coords": [
                         25.527745,
@@ -5830,7 +5830,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 3",
-                  "text": "A Lac balastiera 3 egy állóvíz Ghimbav környékén.",
+                  "text": "Harmadik kavicsbánya-tó Ghimbav mellett.",
                   "category": "natural",
                   "coords": [
                         25.527105,
@@ -5890,7 +5890,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Cristian",
-                  "text": "Lacul Balta Cristian de lângă Ghimbav oferă un peisaj natural relaxant.",
+                  "text": "Balta din satul Cristian, lângă Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.513429,
@@ -5899,7 +5899,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 1",
-                  "text": "Lac balastiera 1 este un lac situat în apropiere de Ghimbav.",
+                  "text": "Primul lac de balastieră lângă Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.530528,
@@ -5908,7 +5908,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 2",
-                  "text": "Lacul Lac balastiera 2 este situat lângă Ghimbav.",
+                  "text": "Al doilea lac de balastieră lângă Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.527745,
@@ -5917,7 +5917,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 3",
-                  "text": "Lac balastiera 3 este un lac din zona localității Ghimbav.",
+                  "text": "Al treilea lac de balastieră lângă Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.527105,
@@ -5977,7 +5977,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Cristian",
-                  "text": "Balta Cristian is a lake near Ghimbav, offering a natural setting.",
+                  "text": "Pond in the village of Cristian near Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.513429,
@@ -5986,7 +5986,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 1",
-                  "text": "Lac balastiera 1 is a lake located near Ghimbav.",
+                  "text": "First gravel pit lake near Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.530528,
@@ -5995,7 +5995,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 2",
-                  "text": "Lac balastiera 2 is a lake situated near Ghimbav.",
+                  "text": "Second gravel pit lake near Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.527745,
@@ -6004,7 +6004,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lac balastiera 3",
-                  "text": "Lac balastiera 3 is a lake in the Ghimbav area.",
+                  "text": "Third gravel pit lake near Ghimbav.",
                   "category": "natural",
                   "coords": [
                         25.527105,
@@ -6092,7 +6092,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul Memorial \"Nicolae Iorga\"",
-                  "text": "Gedenkmuseum im ehemaligen Wohnhaus des Historikers Nicolae Iorga.",
+                  "text": "Gedenkmuseum für Nicolae Iorga, eröffnet 1997 in Vălenii de Munte.",
                   "category": "museum",
                   "coords": [
                         26.040309,
@@ -6101,7 +6101,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Memorială \"Nicolae Tonitza\"",
-                  "text": "Ein Gedenkhaus, das dem Leben des Malers Nicolae Tonitza gewidmet ist.",
+                  "text": "Gedenkhaus des Malers Nicolae Tonitza in Vălenii de Munte.",
                   "category": "museum",
                   "coords": [
                         26.032266,
@@ -6187,7 +6187,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul Memorial \"Nicolae Iorga\"",
-                  "text": "Emlékmúzeum Nicolae Iorga történész egykori lakóházában.",
+                  "text": "Nicolae Iorga emlékmúzeuma, 1997-ben nyílt Vălenii de Munte-ban.",
                   "category": "museum",
                   "coords": [
                         26.040309,
@@ -6196,7 +6196,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Memorială \"Nicolae Tonitza\"",
-                  "text": "Nicolae Tonitza festő életének szentelt emlékház.",
+                  "text": "Nicolae Tonitza festő emlékháza Vălenii de Muntéban.",
                   "category": "museum",
                   "coords": [
                         26.032266,
@@ -6282,7 +6282,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul Memorial \"Nicolae Iorga\"",
-                  "text": "Muzeu memorial în fosta locuință a istoricului Nicolae Iorga.",
+                  "text": "Muzeu memorial „Nicolae Iorga”, deschis în 1997 în Vălenii de Munte.",
                   "category": "museum",
                   "coords": [
                         26.040309,
@@ -6291,7 +6291,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Memorială \"Nicolae Tonitza\"",
-                  "text": "O casă memorială dedicat vieții pictorului Nicolae Tonitza.",
+                  "text": "Casa memorială a pictorului Nicolae Tonitza din Vălenii de Munte.",
                   "category": "museum",
                   "coords": [
                         26.032266,
@@ -6377,7 +6377,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "\"Nicolae Iorga\" Memorial Museum",
-                  "text": "Memorial museum in the former residence of historian Nicolae Iorga.",
+                  "text": "Memorial museum for Nicolae Iorga opened in 1997 in Vălenii de Munte.",
                   "category": "museum",
                   "coords": [
                         26.040309,
@@ -6386,7 +6386,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "\"Nicolae Tonitza\" Memorial House",
-                  "text": "A memorial house dedicated to the life of painter Nicolae Tonitza.",
+                  "text": "Memorial house of painter Nicolae Tonitza in Vălenii de Munte.",
                   "category": "museum",
                   "coords": [
                         26.032266,
@@ -6747,7 +6747,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "Der See Lacul Peștelui liegt in Câmpina.",
+                  "text": "Durch Ölschlamm verschmutzter See bei Câmpina.",
                   "category": "natural",
                   "coords": [
                         25.756138,
@@ -6765,7 +6765,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Curiacul",
-                  "text": "Der See Lacul Curiacul befindet sich im Stadtgebiet von Câmpina.",
+                  "text": "See namens Curiacul in der Nähe von Câmpina.",
                   "category": "natural",
                   "coords": [
                         25.7257,
@@ -6783,7 +6783,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Bucea",
-                  "text": "Der Spielplatz Parc Bucea befindet sich in Câmpina.",
+                  "text": "Öffentlicher Park Bucea in Câmpina.",
                   "category": "family",
                   "coords": [
                         25.741361,
@@ -6867,7 +6867,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "A Lacul Peștelui egy tó Câmpina városában.",
+                  "text": "Olajiszappal szennyezett tó Câmpina mellett.",
                   "category": "natural",
                   "coords": [
                         25.756138,
@@ -6885,7 +6885,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Curiacul",
-                  "text": "A Lacul Curiacul tó Câmpina belterületén található.",
+                  "text": "Curiacul nevű tó Câmpina közelében.",
                   "category": "natural",
                   "coords": [
                         25.7257,
@@ -6903,7 +6903,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Bucea",
-                  "text": "A Parc Bucea játszótér Câmpina városában található.",
+                  "text": "Bucea közpark Câmpinában.",
                   "category": "family",
                   "coords": [
                         25.741361,
@@ -6987,7 +6987,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "Lacul Peștelui este un lac situat în Câmpina.",
+                  "text": "Lac contaminat cu deșeuri petroliere lângă Câmpina.",
                   "category": "natural",
                   "coords": [
                         25.756138,
@@ -7005,7 +7005,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Curiacul",
-                  "text": "Lacul Curiacul este situat în orașul Câmpina.",
+                  "text": "Lacul Curiacul în apropiere de Câmpina.",
                   "category": "natural",
                   "coords": [
                         25.7257,
@@ -7023,7 +7023,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Bucea",
-                  "text": "Locul de joacă Parc Bucea este situat în Câmpina.",
+                  "text": "Parc public Bucea în Câmpina.",
                   "category": "family",
                   "coords": [
                         25.741361,
@@ -7107,7 +7107,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "Lacul Peștelui is a lake located in Campina.",
+                  "text": "Lake contaminated with oil waste near Câmpina.",
                   "category": "natural",
                   "coords": [
                         25.756138,
@@ -7125,7 +7125,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Curiacul",
-                  "text": "Lacul Curiacul is a lake located within the city of Campina.",
+                  "text": "Lake called Curiacul near Câmpina.",
                   "category": "natural",
                   "coords": [
                         25.7257,
@@ -7143,7 +7143,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Bucea",
-                  "text": "Parc Bucea is a playground located in Campina.",
+                  "text": "Bucea public park in Câmpina.",
                   "category": "family",
                   "coords": [
                         25.741361,
@@ -7229,7 +7229,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Eroilor",
-                  "text": "Ein Denkmal zu Ehren der Helden in der Stadt Băicoi.",
+                  "text": "Heldenmonument in Baicoi.",
                   "category": "historical",
                   "coords": [
                         25.852461,
@@ -7259,7 +7259,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Eroilor",
-                  "text": "Hősök tiszteletére állított emlékmű Băicoi városában.",
+                  "text": "Hősök emlékműve Baicoiban.",
                   "category": "historical",
                   "coords": [
                         25.852461,
@@ -7289,7 +7289,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Eroilor",
-                  "text": "Un monument ridicat în onoarea eroilor în orașul Băicoi.",
+                  "text": "Monumentul eroilor din Baicoi.",
                   "category": "historical",
                   "coords": [
                         25.852461,
@@ -7319,7 +7319,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Eroilor",
-                  "text": "A monument honoring the heroes in the town of Băicoi.",
+                  "text": "Heroes' monument in Baicoi.",
                   "category": "historical",
                   "coords": [
                         25.852461,
@@ -7669,7 +7669,7 @@ export const romaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ACHETRANS-Boldesti Scaieni",
-                  "text": "Ein lokales Denkmal in der Stadt Boldești-Scăeni.",
+                  "text": "Ehemaliger Transportstützpunkt in Boldești-Scăeni.",
                   "category": "historical",
                   "coords": [
                         26.024929,
@@ -7689,7 +7689,7 @@ export const romaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ACHETRANS-Boldesti Scaieni",
-                  "text": "Helyi emlékmű Boldești-Scăeni városában.",
+                  "text": "Egykori szállítási telep Boldești-Scăeniben.",
                   "category": "historical",
                   "coords": [
                         26.024929,
@@ -7709,7 +7709,7 @@ export const romaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ACHETRANS-Boldesti Scaieni",
-                  "text": "Un monument local în orașul Boldești-Scăeni.",
+                  "text": "Fost depozit de transport în Boldești-Scăeni.",
                   "category": "historical",
                   "coords": [
                         26.024929,
@@ -7729,7 +7729,7 @@ export const romaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "ACHETRANS-Boldesti Scaieni",
-                  "text": "A local monument in the town of Boldești-Scăeni.",
+                  "text": "Former transport depot in Boldești-Scăeni.",
                   "category": "historical",
                   "coords": [
                         26.024929,
@@ -7826,7 +7826,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul Foisorul Bellu Urlați",
-                  "text": "Das Foisorul-Bellu-Museum, Teil des historischen Bellu-Anwesens in Urlați.",
+                  "text": "Museum in der ehemaligen Bellu-Sommerresidenz in Urlați.",
                   "category": "museum",
                   "coords": [
                         26.232806,
@@ -7835,7 +7835,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Conacul Nucu",
-                  "text": "Ein historisches Herrenhaus in der Weinregion von Urlați.",
+                  "text": "Herrenhaus Nucu in Urlați.",
                   "category": "historical",
                   "coords": [
                         26.230097,
@@ -7876,7 +7876,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul Foisorul Bellu Urlați",
-                  "text": "A Foisorul Bellu múzeum, az urlati-i Bellu-birtok része.",
+                  "text": "Múzeum a Bellu család egykori nyári rezidenciájában, Urlați-ban.",
                   "category": "museum",
                   "coords": [
                         26.232806,
@@ -7885,7 +7885,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Conacul Nucu",
-                  "text": "Egy történelmi kúria Urlați borvidékén.",
+                  "text": "Nucu-kúria Urlați-ban.",
                   "category": "historical",
                   "coords": [
                         26.230097,
@@ -7926,7 +7926,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul Foisorul Bellu Urlați",
-                  "text": "Muzeul Foișorul Bellu, parte a domeniului istoric Bellu din Urlați.",
+                  "text": "Muzeu în fosta reședință de vară Bellu din Urlați.",
                   "category": "museum",
                   "coords": [
                         26.232806,
@@ -7935,7 +7935,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Conacul Nucu",
-                  "text": "Un conac istoric în regiunea viticolă Urlați.",
+                  "text": "Conacul Nucu din Urlați.",
                   "category": "historical",
                   "coords": [
                         26.230097,
@@ -7976,7 +7976,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul Foisorul Bellu Urlați",
-                  "text": "The Foisorul Bellu Museum, part of the historical Bellu estate in Urlați.",
+                  "text": "Museum in the former Bellu summer residence in Urlați.",
                   "category": "museum",
                   "coords": [
                         26.232806,
@@ -7985,7 +7985,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Conacul Nucu",
-                  "text": "A historical manor house in the wine region of Urlați.",
+                  "text": "Nucu manor house in Urlați.",
                   "category": "historical",
                   "coords": [
                         26.230097,
@@ -9843,7 +9843,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "Ein See in Cornu, der einen malerischen Anblick bietet.",
+                  "text": "Mit Ölschlamm belasteter See bei Cornu.",
                   "category": "natural",
                   "coords": [
                         25.756138,
@@ -9852,7 +9852,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Sarate Soimul",
-                  "text": "Ein See in Cornu, bekannt für seine malerische Umgebung.",
+                  "text": "Salzbäder „Șoimul“ (Falke) in Cornu.",
                   "category": "natural",
                   "coords": [
                         25.797566,
@@ -9870,7 +9870,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Piscină adulți",
-                  "text": "Ein Schwimmbecken für Erwachsene in Cornu für ruhige Momente.",
+                  "text": "Schwimmbad für Erwachsene in Cornu.",
                   "category": "family",
                   "coords": [
                         25.694334,
@@ -9879,7 +9879,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "G-Club",
-                  "text": "Ein Schwimmbad in Cornu, ideal für Familien.",
+                  "text": "Familienclub G-Club in Cornu.",
                   "category": "family",
                   "coords": [
                         25.673112,
@@ -9947,7 +9947,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "Cornu területén található tó, amely festői látványt nyújt.",
+                  "text": "Olajiszappal szennyezett tó Cornu mellett.",
                   "category": "natural",
                   "coords": [
                         25.756138,
@@ -9956,7 +9956,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Sarate Soimul",
-                  "text": "Cornu területén található tó, amely festői környezetéről ismert.",
+                  "text": "„Șoimul” (Sólyom) sós fürdők Cornuban.",
                   "category": "natural",
                   "coords": [
                         25.797566,
@@ -9974,7 +9974,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Piscină adulți",
-                  "text": "Felnőtt úszómedence Cornu területén a nyugodt pillanatokért.",
+                  "text": "Felnőtt medence Cornuban.",
                   "category": "family",
                   "coords": [
                         25.694334,
@@ -9983,7 +9983,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "G-Club",
-                  "text": "Egy úszómedence Cornuban, amely alkalmas családok számára.",
+                  "text": "G-Club családi szórakozóhely Cornuban.",
                   "category": "family",
                   "coords": [
                         25.673112,
@@ -10051,7 +10051,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "Un lac situat în Cornu, oferind o vedere pitorească.",
+                  "text": "Lac cu deșeuri petroliere lângă Cornu.",
                   "category": "natural",
                   "coords": [
                         25.756138,
@@ -10060,7 +10060,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Sarate Soimul",
-                  "text": "Un lac în Cornu, cunoscut pentru împrejurimile sale pitorești.",
+                  "text": "Băi sărate „Șoimul” în Cornu.",
                   "category": "natural",
                   "coords": [
                         25.797566,
@@ -10078,7 +10078,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Piscină adulți",
-                  "text": "O piscină pentru adulți în Cornu pentru momente de liniște.",
+                  "text": "Piscină pentru adulți în Cornu.",
                   "category": "family",
                   "coords": [
                         25.694334,
@@ -10087,7 +10087,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "G-Club",
-                  "text": "O piscină în Cornu, potrivită pentru familii.",
+                  "text": "Clubul de familie G-Club în Cornu.",
                   "category": "family",
                   "coords": [
                         25.673112,
@@ -10155,7 +10155,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "A lake located in Cornu, offering a scenic view.",
+                  "text": "Lake polluted with oil waste near Cornu.",
                   "category": "natural",
                   "coords": [
                         25.756138,
@@ -10164,7 +10164,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Sarate Soimul",
-                  "text": "A lake in Cornu, known for its scenic surroundings.",
+                  "text": "„Șoimul” (Falcon) salt baths in Cornu.",
                   "category": "natural",
                   "coords": [
                         25.797566,
@@ -10182,7 +10182,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Piscină adulți",
-                  "text": "A swimming pool for adults in Cornu for quiet moments.",
+                  "text": "Adults' swimming pool in Cornu.",
                   "category": "family",
                   "coords": [
                         25.694334,
@@ -10191,7 +10191,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "G-Club",
-                  "text": "A swimming pool in Cornu, suitable for families.",
+                  "text": "G-Club family entertainment venue in Cornu.",
                   "category": "family",
                   "coords": [
                         25.673112,
@@ -10269,7 +10269,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Tineretului",
-                  "text": "Ein kulturelles Veranstaltungszentrum in Bănești.",
+                  "text": "Jugendkulturhaus in Bănești.",
                   "category": "cultural",
                   "coords": [
                         25.741466,
@@ -10278,7 +10278,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeu Parohial",
-                  "text": "Ein kleines Pfarreimuseum in Bănești.",
+                  "text": "Gemeindemuseum in Bănești.",
                   "category": "museum",
                   "coords": [
                         25.751924,
@@ -10296,7 +10296,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Sarate Soimul",
-                  "text": "Băile Sărate Șoimul ist ein See in Bănești, der für sein salzhaltiges Wasser bekannt ist.",
+                  "text": "Salzbäder „Șoimul“ in Bănești.",
                   "category": "natural",
                   "coords": [
                         25.797566,
@@ -10305,7 +10305,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Curiacul",
-                  "text": "Der Lacul Curiacul in Bănești ist ein ruhiges Gewässer in der Region.",
+                  "text": "See Curiacul in Bănești.",
                   "category": "natural",
                   "coords": [
                         25.7257,
@@ -10314,7 +10314,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Bucea",
-                  "text": "Der Parc Bucea ist ein kleiner Spielplatz in Bănești für die lokale Gemeinschaft.",
+                  "text": "Park Bucea in Bănești.",
                   "category": "family",
                   "coords": [
                         25.741361,
@@ -10354,7 +10354,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Tineretului",
-                  "text": "Kulturális rendezvényközpont Bănești községben.",
+                  "text": "Ifjúsági ház Bănești-ben.",
                   "category": "cultural",
                   "coords": [
                         25.741466,
@@ -10363,7 +10363,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeu Parohial",
-                  "text": "Kisméretű plébániai múzeum Bănești községben.",
+                  "text": "Egyházi múzeum Bănești-ben.",
                   "category": "museum",
                   "coords": [
                         25.751924,
@@ -10381,7 +10381,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Sarate Soimul",
-                  "text": "A Băile Sărate Șoimul egy tó Băneștiben, amely sós vizéről ismert.",
+                  "text": "„Șoimul” sós fürdők Bănești-ben.",
                   "category": "natural",
                   "coords": [
                         25.797566,
@@ -10390,7 +10390,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Curiacul",
-                  "text": "A Băneștiben található Lacul Curiacul egy csendes vízfelület a régióban.",
+                  "text": "Curiacul-tó Bănești-ben.",
                   "category": "natural",
                   "coords": [
                         25.7257,
@@ -10399,7 +10399,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Bucea",
-                  "text": "A Parc Bucea egy kis játszótér Băneștiben a helyi közösség számára.",
+                  "text": "Bucea park Bănești-ben.",
                   "category": "family",
                   "coords": [
                         25.741361,
@@ -10439,7 +10439,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Tineretului",
-                  "text": "Un centru cultural pentru tineret în Bănești.",
+                  "text": "Casa Tineretului din Bănești.",
                   "category": "cultural",
                   "coords": [
                         25.741466,
@@ -10448,7 +10448,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeu Parohial",
-                  "text": "Un mic muzeu parohial în Bănești.",
+                  "text": "Muzeu parohial în Bănești.",
                   "category": "museum",
                   "coords": [
                         25.751924,
@@ -10466,7 +10466,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Sarate Soimul",
-                  "text": "Băile Sărate Șoimul este un lac din Bănești cunoscut pentru apa sa sărată.",
+                  "text": "Băi sărate „Șoimul” în Bănești.",
                   "category": "natural",
                   "coords": [
                         25.797566,
@@ -10475,7 +10475,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Curiacul",
-                  "text": "Lacul Curiacul din Bănești este o acumulare de apă liniștită din regiune.",
+                  "text": "Lacul Curiacul din Bănești.",
                   "category": "natural",
                   "coords": [
                         25.7257,
@@ -10484,7 +10484,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Bucea",
-                  "text": "Parc Bucea este un mic loc de joacă din Bănești pentru comunitatea locală.",
+                  "text": "Parc Bucea în Bănești.",
                   "category": "family",
                   "coords": [
                         25.741361,
@@ -10524,7 +10524,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Tineretului",
-                  "text": "A youth cultural center in Bănești.",
+                  "text": "Youth cultural centre in Bănești.",
                   "category": "cultural",
                   "coords": [
                         25.741466,
@@ -10533,7 +10533,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeu Parohial",
-                  "text": "A small parochial museum in Bănești.",
+                  "text": "Parish museum in Bănești.",
                   "category": "museum",
                   "coords": [
                         25.751924,
@@ -10551,7 +10551,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Băile Sarate Soimul",
-                  "text": "Băile Sărate Șoimul is a lake in Bănești known for its salt water.",
+                  "text": "„Șoimul” salt baths in Bănești.",
                   "category": "natural",
                   "coords": [
                         25.797566,
@@ -10560,7 +10560,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Curiacul",
-                  "text": "Lacul Curiacul in Bănești is a peaceful body of water in the region.",
+                  "text": "Lake Curiacul in Bănești.",
                   "category": "natural",
                   "coords": [
                         25.7257,
@@ -10569,7 +10569,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parc Bucea",
-                  "text": "Parc Bucea is a small playground in Bănești for the local community.",
+                  "text": "Bucea Park in Bănești.",
                   "category": "family",
                   "coords": [
                         25.741361,
@@ -10854,7 +10854,7 @@ export const romaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Castrul Roman",
-                  "text": "Die Überreste eines römischen Kastells in der Nähe von Ștefești.",
+                  "text": "Das Kastell Drajna de Sus ist ein römisches Fort mit sichtbaren Mauern und Toren bei Ștefești.",
                   "category": "historical",
                   "coords": [
                         26.072858,
@@ -10863,7 +10863,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Crucea Piscul Domnului",
-                  "text": "Ein monumentales Kreuz an einem Aussichtspunkt in Ștefești.",
+                  "text": "Kreuz auf dem „Hügel des Herrn“ in Ștefănești.",
                   "category": "historical",
                   "coords": [
                         26.059263,
@@ -10874,7 +10874,7 @@ export const romaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Castrul Roman",
-                  "text": "Római castrum maradványai Ștefești közelében.",
+                  "text": "A Drajna de Sus-i római erőd látható falakkal és kapukkal található Ștefești közelében.",
                   "category": "historical",
                   "coords": [
                         26.072858,
@@ -10883,7 +10883,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Crucea Piscul Domnului",
-                  "text": "Monumentális kereszt egy kilátóponton Ștefești területén.",
+                  "text": "Kereszt az „Úr dombján” Ștefănești-ben.",
                   "category": "historical",
                   "coords": [
                         26.059263,
@@ -10894,7 +10894,7 @@ export const romaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Castrul Roman",
-                  "text": "Vestigiile unui castru roman în apropiere de Ștefești.",
+                  "text": "Castrul roman de la Drajna de Sus are ziduri și porți vizibile, lângă Ștefești.",
                   "category": "historical",
                   "coords": [
                         26.072858,
@@ -10903,7 +10903,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Crucea Piscul Domnului",
-                  "text": "O cruce monumentală situată pe un punct de belvedere în Ștefești.",
+                  "text": "Cruce pe dealul „Piscul Domnului” în Ștefănești.",
                   "category": "historical",
                   "coords": [
                         26.059263,
@@ -10914,7 +10914,7 @@ export const romaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Castra of Drajna de Sus",
-                  "text": "The remains of a Roman castra near Ștefești.",
+                  "text": "The Roman fort of Drajna de Sus has visible walls and gates near Ștefești.",
                   "category": "historical",
                   "coords": [
                         26.072858,
@@ -10923,7 +10923,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Crucea Piscul Domnului",
-                  "text": "A monumental cross located at a viewpoint in Ștefești.",
+                  "text": "Cross on the Lord’s Hill in Ștefănești.",
                   "category": "historical",
                   "coords": [
                         26.059263,
@@ -10990,7 +10990,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Crucea Piscul Domnului",
-                  "text": "Ein religiöses Denkmal in der Gemeinde Teișani.",
+                  "text": "Kreuz auf dem „Hügel des Herrn“ in Teișani.",
                   "category": "historical",
                   "coords": [
                         26.059263,
@@ -10999,7 +10999,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Moara de apă Warthiadi",
-                  "text": "Ein historisches Denkmal einer alten Wassermühle in Teișani.",
+                  "text": "Wassermühle Warthiadi in Teișani.",
                   "category": "historical",
                   "coords": [
                         26.048919,
@@ -11008,7 +11008,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul eroilor",
-                  "text": "Ein Denkmal zu Ehren der lokalen Helden in Teișani.",
+                  "text": "Heldenmonument in Teișani.",
                   "category": "historical",
                   "coords": [
                         26.05653,
@@ -11026,7 +11026,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sărat Baia Baciului",
-                  "text": "Lacul Sărat Baia Baciului in Teișani ist ein See mit mineralreichem Wasser.",
+                  "text": "Salzsee „Baia Baciului“ (Hirtenbad) in Teișani.",
                   "category": "natural",
                   "coords": [
                         25.934231,
@@ -11046,7 +11046,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Crucea Piscul Domnului",
-                  "text": "Egy vallási emlékmű Teișani községben.",
+                  "text": "Kereszt az „Úr dombján” Teișani-ban.",
                   "category": "historical",
                   "coords": [
                         26.059263,
@@ -11055,7 +11055,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Moara de apă Warthiadi",
-                  "text": "Egy régi vízimalom történelmi emlékműve Teișani területén.",
+                  "text": "Warthiadi vízimalom Teișani-ban.",
                   "category": "historical",
                   "coords": [
                         26.048919,
@@ -11064,7 +11064,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul eroilor",
-                  "text": "A helyi hősök tiszteletére emelt emlékmű Teișani településen.",
+                  "text": "Hősök emlékműve Teișani-ban.",
                   "category": "historical",
                   "coords": [
                         26.05653,
@@ -11082,7 +11082,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sărat Baia Baciului",
-                  "text": "A Teișani-ban található Lacul Sărat Baia Baciului egy ásványi anyagokban gazdag tó.",
+                  "text": "„Baia Baciului” (Pásztorfürdő) sós tó Teișani-ban.",
                   "category": "natural",
                   "coords": [
                         25.934231,
@@ -11102,7 +11102,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Crucea Piscul Domnului",
-                  "text": "Un monument religios situat în localitatea Teișani.",
+                  "text": "Cruce pe dealul „Piscul Domnului” în Teișani.",
                   "category": "historical",
                   "coords": [
                         26.059263,
@@ -11111,7 +11111,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Moara de apă Warthiadi",
-                  "text": "Un monument istoric ce reprezintă o veche moară de apă în Teișani.",
+                  "text": "Moară de apă Warthiadi în Teișani.",
                   "category": "historical",
                   "coords": [
                         26.048919,
@@ -11120,7 +11120,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul eroilor",
-                  "text": "Un monument ridicat în cinstea eroilor locali din Teișani.",
+                  "text": "Monumentul eroilor din Teișani.",
                   "category": "historical",
                   "coords": [
                         26.05653,
@@ -11138,7 +11138,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sărat Baia Baciului",
-                  "text": "Lacul Sărat Baia Baciului din Teișani este un lac cu apă mineralizată.",
+                  "text": "Lac sărat „Baia Baciului” în Teișani.",
                   "category": "natural",
                   "coords": [
                         25.934231,
@@ -11158,7 +11158,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Crucea Piscul Domnului",
-                  "text": "A religious monument located in the town of Teișani.",
+                  "text": "Cross on the Lord’s Hill in Teișani.",
                   "category": "historical",
                   "coords": [
                         26.059263,
@@ -11167,7 +11167,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Moara de apă Warthiadi",
-                  "text": "A historical monument of an old water mill in Teișani.",
+                  "text": "Warthiadi water mill in Teișani.",
                   "category": "historical",
                   "coords": [
                         26.048919,
@@ -11176,7 +11176,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul eroilor",
-                  "text": "A monument dedicated to the local heroes in Teișani.",
+                  "text": "Heroes' monument in Teișani.",
                   "category": "historical",
                   "coords": [
                         26.05653,
@@ -11194,7 +11194,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sărat Baia Baciului",
-                  "text": "Lacul Sărat Baia Baciului in Teisani is a lake with mineral-rich water.",
+                  "text": "Salt lake „Baia Baciului” (Shepherd’s Bath) in Teișani.",
                   "category": "natural",
                   "coords": [
                         25.934231,
@@ -11898,7 +11898,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Vară",
-                  "text": "Ein Veranstaltungsort für kulturelle Aufführungen im Freien in Bucov.",
+                  "text": "Freilufttheater in Bucov.",
                   "category": "cultural",
                   "coords": [
                         26.060591,
@@ -12029,7 +12029,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Vară",
-                  "text": "Szabadtéri kulturális előadások helyszíne Bucov településen.",
+                  "text": "Szabadtéri színház Bucovban.",
                   "category": "cultural",
                   "coords": [
                         26.060591,
@@ -12160,7 +12160,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Vară",
-                  "text": "Un spațiu destinat spectacolelor culturale în aer liber din Bucov.",
+                  "text": "Teatru de vară în Bucov.",
                   "category": "cultural",
                   "coords": [
                         26.060591,
@@ -12291,7 +12291,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul de Vară",
-                  "text": "A venue for outdoor cultural performances in Bucov.",
+                  "text": "Open-air theatre in Bucov.",
                   "category": "cultural",
                   "coords": [
                         26.060591,
@@ -12613,7 +12613,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul Ancuța",
-                  "text": "Ein Theater in der Region Blejoi, das kulturelle Veranstaltungen anbietet.",
+                  "text": "Ancuța-Theater in Blejoi.",
                   "category": "cultural",
                   "coords": [
                         26.024432,
@@ -12667,7 +12667,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinele bisericii „Sfântul Visarion”",
-                  "text": "Die Überreste der alten St.-Visarion-Kirche in Blejoi.",
+                  "text": "Ruinen einer orthodoxen Kirche aus dem 17.–18. Jahrhundert in Blejoi.",
                   "category": "historical",
                   "coords": [
                         26.026587,
@@ -12876,7 +12876,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul Ancuța",
-                  "text": "Kulturális eseményeknek otthont adó színház Blejoi közelében.",
+                  "text": "Ancuța Színház Blejoi-ban.",
                   "category": "cultural",
                   "coords": [
                         26.024432,
@@ -12930,7 +12930,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinele bisericii „Sfântul Visarion”",
-                  "text": "A régi Szent Visarion-templom romjai Blejoi településen.",
+                  "text": "Egy ortodox templom romjai a 17–18. századból Blejoiban.",
                   "category": "historical",
                   "coords": [
                         26.026587,
@@ -13139,7 +13139,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatrul Ancuța",
-                  "text": "Un teatru situat în zona Blejoi ce oferă diverse evenimente culturale.",
+                  "text": "Teatrul Ancuța din Blejoi.",
                   "category": "cultural",
                   "coords": [
                         26.024432,
@@ -13193,7 +13193,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinele bisericii „Sfântul Visarion”",
-                  "text": "Ruinele vechii biserici Sfântul Visarion din localitatea Blejoi.",
+                  "text": "Ruinele unei biserici ortodoxe din secolele XVII–XVIII în Blejoi.",
                   "category": "historical",
                   "coords": [
                         26.026587,
@@ -13402,7 +13402,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Ancuța Theatre",
-                  "text": "A theatre in the Blejoi area offering cultural events.",
+                  "text": "Ancuța Theatre in Blejoi.",
                   "category": "cultural",
                   "coords": [
                         26.024432,
@@ -13456,7 +13456,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinele bisericii „Sfântul Visarion”",
-                  "text": "The ruins of the old Saint Visarion Church in Blejoi.",
+                  "text": "Ruins of an Orthodox church from the 17th–18th century in Blejoi.",
                   "category": "historical",
                   "coords": [
                         26.026587,
@@ -14290,7 +14290,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta de pescuit Clinceni",
-                  "text": "Ein Fischteich in der Gegend von Magurele.",
+                  "text": "Angelweiher in Clinceni bei Măgurele.",
                   "category": "natural",
                   "coords": [
                         25.963398,
@@ -14347,7 +14347,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta de pescuit Clinceni",
-                  "text": "Horgásztó Magurele környékén.",
+                  "text": "Horgásztó Clinceniben, Măgurele mellett.",
                   "category": "natural",
                   "coords": [
                         25.963398,
@@ -14404,7 +14404,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta de pescuit Clinceni",
-                  "text": "O baltă de pescuit situată în zona Măgurele.",
+                  "text": "Baltă de pescuit în Clinceni, lângă Măgurele.",
                   "category": "natural",
                   "coords": [
                         25.963398,
@@ -14461,7 +14461,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta de pescuit Clinceni",
-                  "text": "A fishing pond located in the Magurele area.",
+                  "text": "Fishing pond in Clinceni near Măgurele.",
                   "category": "natural",
                   "coords": [
                         25.963398,
@@ -14557,7 +14557,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Capela „Sfânta Treime\"",
-                  "text": "Eine religiöse Kapelle in der Stadt Buftea.",
+                  "text": "Die Kapelle „Heilige Dreifaltigkeit\" ist eine denkmalgeschützte orthodoxe Kapelle in Buftea.",
                   "category": "religious",
                   "coords": [
                         25.937857,
@@ -14597,7 +14597,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Capela „Sfânta Treime\"",
-                  "text": "Vallási kápolna Buftea városában.",
+                  "text": "A „Szent Háromság\" kápolna műemléki védettségű ortodox kápolna Bufteában.",
                   "category": "religious",
                   "coords": [
                         25.937857,
@@ -14637,7 +14637,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Capela „Sfânta Treime\"",
-                  "text": "O capelă religioasă în orașul Buftea.",
+                  "text": "Capela „Sfânta Treime” este o capelă ortodoxă monument istoric în Buftea.",
                   "category": "religious",
                   "coords": [
                         25.937857,
@@ -14677,7 +14677,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Capela „Sfânta Treime\"",
-                  "text": "A religious chapel in the town of Buftea.",
+                  "text": "The Holy Trinity Chapel is a heritage-listed Orthodox chapel in Buftea.",
                   "category": "religious",
                   "coords": [
                         25.937857,
@@ -14755,7 +14755,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Cociovalistea",
-                  "text": "Der See Cociovaliștea liegt in der Nähe von Otopeni.",
+                  "text": "Naturgebiet Cociovaliștea in Otopeni.",
                   "category": "natural",
                   "coords": [
                         26.071465,
@@ -14764,7 +14764,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Băneasa",
-                  "text": "Der Băneasa-See erstreckt sich bis in das Gebiet von Otopeni.",
+                  "text": "Der Băneasa-See in Otopeni ist ein Natursee nahe dem Băneasa-Wald.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -14773,7 +14773,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Chitila",
-                  "text": "Der Chitila-See befindet sich unweit von Otopeni.",
+                  "text": "Der Chitila-See in Otopeni liegt nahe der Stadt Chitila.",
                   "category": "natural",
                   "coords": [
                         26.00146,
@@ -14782,7 +14782,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Străulești",
-                  "text": "Der Străulești-See liegt in der Region Otopeni.",
+                  "text": "Der Străulești-See in Otopeni befindet sich nahe dem Dorf Străulești.",
                   "category": "natural",
                   "coords": [
                         26.011649,
@@ -14791,7 +14791,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Grivița",
-                  "text": "Der Grivița-See ist ein Gewässer nahe Otopeni.",
+                  "text": "Der Grivița-See in Otopeni liegt im Grivița-Viertel der Stadt.",
                   "category": "natural",
                   "coords": [
                         26.042831,
@@ -14800,7 +14800,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Herăstrău-See",
-                  "text": "Der Herăstrău-See befindet sich im weiteren Umkreis von Otopeni.",
+                  "text": "Der Herăstrău-See in Otopeni liegt nahe dem Herăstrău-Park.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -14809,7 +14809,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "Balta Pipera ist ein See in der Gegend von Otopeni.",
+                  "text": "Der Pipera-Teich in Otopeni liegt im Wohngebiet Pipera.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -14818,7 +14818,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Poppy Playground (închis)",
-                  "text": "Poppy Playground war ein Spielplatz in Otopeni.",
+                  "text": "Der geschlossene Poppy-Spielplatz in Otopeni ist ein mit Mohnblumen thematisierter Kinderspielplatz.",
                   "category": "family",
                   "coords": [
                         26.087716,
@@ -14894,7 +14894,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Cociovalistea",
-                  "text": "A Cociovaliștea tó Otopeni közelében található.",
+                  "text": "Cociovaliștea természeti terület Otopeni-ben.",
                   "category": "natural",
                   "coords": [
                         26.071465,
@@ -14903,7 +14903,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Băneasa",
-                  "text": "A Băneasa-tó Otopeni térségéig nyúlik el.",
+                  "text": "A Băneasa-tó Otopeni közelében, a Băneasa-erdő mellett található természetes tó.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -14912,7 +14912,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Chitila",
-                  "text": "A Chitila-tó Otopeni közelében fekszik.",
+                  "text": "A Chitila-tó Otopeniben, Chitila városa közelében található.",
                   "category": "natural",
                   "coords": [
                         26.00146,
@@ -14921,7 +14921,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Străulești",
-                  "text": "A Străulești-tó Otopeni környékén található.",
+                  "text": "A Străulești-tó Otopeniben, Străulești falu közelében van.",
                   "category": "natural",
                   "coords": [
                         26.011649,
@@ -14930,7 +14930,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Grivița",
-                  "text": "A Grivița-tó egy állóvíz Otopeni közelében.",
+                  "text": "A Grivița-tó Otopeniben, a Grivița negyedben található.",
                   "category": "natural",
                   "coords": [
                         26.042831,
@@ -14939,7 +14939,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Herăstrău",
-                  "text": "A Herăstrău-tó Otopeni tágabb környezetében található.",
+                  "text": "A Herăstrău-tó Otopeniben, a Herăstrău-park közelében található.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -14948,7 +14948,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "A Balta Pipera tó Otopeni térségében található.",
+                  "text": "A Pipera-tó Otopeniben, a Pipera lakóövezetben található.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -14957,7 +14957,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Poppy Playground (închis)",
-                  "text": "A Poppy Playground egykori játszótér Otopeni városában.",
+                  "text": "A zárt Poppy játszótér Otopeniben egy mákvirág-tematikájú gyerekjátszótér.",
                   "category": "family",
                   "coords": [
                         26.087716,
@@ -15033,7 +15033,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Cociovalistea",
-                  "text": "Lacul Cociovaliștea este situat în apropiere de Otopeni.",
+                  "text": "Zona naturală Cociovaliștea din Otopeni.",
                   "category": "natural",
                   "coords": [
                         26.071465,
@@ -15042,7 +15042,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Băneasa",
-                  "text": "Lacul Băneasa se întinde până în zona localității Otopeni.",
+                  "text": "Lacul Băneasa din Otopeni este un lac natural situat lângă Pădurea Băneasa.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -15051,7 +15051,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Chitila",
-                  "text": "Lacul Chitila este situat în vecinătatea orașului Otopeni.",
+                  "text": "Lacul Chitila din Otopeni este un lac natural lângă orașul Chitila.",
                   "category": "natural",
                   "coords": [
                         26.00146,
@@ -15060,7 +15060,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Străulești",
-                  "text": "Lacul Străulești se află în zona localității Otopeni.",
+                  "text": "Lacul Străulești din Otopeni este un lac natural aproape de satul Străulești.",
                   "category": "natural",
                   "coords": [
                         26.011649,
@@ -15069,7 +15069,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Grivița",
-                  "text": "Lacul Grivița este situat în apropiere de Otopeni.",
+                  "text": "Lacul Grivița din Otopeni este un lac natural în cartierul Grivița.",
                   "category": "natural",
                   "coords": [
                         26.042831,
@@ -15078,7 +15078,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău este situat în zona extinsă a localității Otopeni.",
+                  "text": "Lacul Herăstrău din Otopeni este un lac natural lângă Parcul Herăstrău.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -15087,7 +15087,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "Lacul Balta Pipera se află în zona localității Otopeni.",
+                  "text": "Balta Pipera din Otopeni este un iaz natural în cartierul rezidențial Pipera.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -15096,7 +15096,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Poppy Playground (închis)",
-                  "text": "Poppy Playground a fost un loc de joacă în Otopeni.",
+                  "text": "Poppy Playground din Otopeni este un loc de joacă pentru copii închis, tematic cu maci.",
                   "category": "family",
                   "coords": [
                         26.087716,
@@ -15172,7 +15172,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Cociovalistea",
-                  "text": "Cociovalistea is a lake located near Otopeni.",
+                  "text": "Cociovaliștea natural area in Otopeni.",
                   "category": "natural",
                   "coords": [
                         26.071465,
@@ -15181,7 +15181,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lake Băneasa",
-                  "text": "Lake Băneasa extends into the Otopeni area.",
+                  "text": "Lake Băneasa in Otopeni is a natural lake near the Băneasa Forest.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -15190,7 +15190,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Chitila",
-                  "text": "Lacul Chitila is a lake located near Otopeni.",
+                  "text": "Lacul Chitila in Otopeni is a natural lake near the town of Chitila.",
                   "category": "natural",
                   "coords": [
                         26.00146,
@@ -15199,7 +15199,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Străulești",
-                  "text": "Lacul Străulești is located in the Otopeni area.",
+                  "text": "Lacul Străulești in Otopeni is a natural lake near the village of Străulești.",
                   "category": "natural",
                   "coords": [
                         26.011649,
@@ -15208,7 +15208,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Grivița",
-                  "text": "Lacul Grivița is a lake located near Otopeni.",
+                  "text": "Lacul Grivița in Otopeni is a natural lake in the Grivița neighborhood.",
                   "category": "natural",
                   "coords": [
                         26.042831,
@@ -15217,7 +15217,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău is located in the broader Otopeni area.",
+                  "text": "Lacul Herăstrău in Otopeni is a natural lake near Herăstrău Park.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -15226,7 +15226,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "Balta Pipera is a lake in the Otopeni area.",
+                  "text": "Balta Pipera in Otopeni is a natural pond in the Pipera residential area.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -15235,7 +15235,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Poppy Playground (închis)",
-                  "text": "Poppy Playground was a playground in Otopeni.",
+                  "text": "Poppy Playground in Otopeni is a closed children's playground with a poppy theme.",
                   "category": "family",
                   "coords": [
                         26.087716,
@@ -15368,7 +15368,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul Pantelimon",
-                  "text": "Ein öffentlicher Erholungspark in der Stadt Pantelimon.",
+                  "text": "Der Pantelimon-Park in Pantelimon liegt am Ufer des Pantelimon-Sees.",
                   "category": "park",
                   "coords": [
                         26.200289,
@@ -15386,7 +15386,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Tunuri",
-                  "text": "Ein historisches Kanonendenkmal in der Stadt Pantelimon.",
+                  "text": "Eine historische Kanone, die auf dem Hauptplatz von Pantelimon ausgestellt ist.",
                   "category": "historical",
                   "coords": [
                         26.172542,
@@ -15413,7 +15413,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Strand Cara - Titan",
-                  "text": "Ein Wasserpark in Pantelimon, der Spaß für alle Altersgruppen bietet.",
+                  "text": "Das Strandbad Cara – Titan in Pantelimon ist ein Schwimmbadkomplex.",
                   "category": "family",
                   "coords": [
                         26.1624,
@@ -15422,7 +15422,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin de Înot Dante Aligheri",
-                  "text": "Ein Schwimmbad in Pantelimon zur Familienerholung.",
+                  "text": "Das Dante-Alighieri-Schwimmbad in Pantelimon ist ein Hallenbad benannt nach Dante Alighieri.",
                   "category": "family",
                   "coords": [
                         26.159568,
@@ -15463,7 +15463,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul Pantelimon",
-                  "text": "Egy nyilvános pihenőpark Pantelimon városában.",
+                  "text": "A Pantelimon-park Pantelimonban a Pantelimon-tó partján található.",
                   "category": "park",
                   "coords": [
                         26.200289,
@@ -15481,7 +15481,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Tunuri",
-                  "text": "Egy történelmi ágyú-emlékmű Pantelimon városában.",
+                  "text": "Egy történelmi ágyú, amely Pantelimon főterén van kiállítva.",
                   "category": "historical",
                   "coords": [
                         26.172542,
@@ -15508,7 +15508,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Strand Cara - Titan",
-                  "text": "Vízi park Pantelimonban, amely minden korosztály számára kikapcsolódást nyújt.",
+                  "text": "A Cara – Titan strand Pantelimonban egy úszómedence-komplexum.",
                   "category": "family",
                   "coords": [
                         26.1624,
@@ -15517,7 +15517,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin de Înot Dante Aligheri",
-                  "text": "Egy úszómedence Pantelimonban családi kikapcsolódáshoz.",
+                  "text": "A Dante Alighieri uszoda Pantelimonban egy fedett uszoda, amely Dante Alighieriről kapta a nevét.",
                   "category": "family",
                   "coords": [
                         26.159568,
@@ -15558,7 +15558,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul Pantelimon",
-                  "text": "Un parc public de recreere situat în orașul Pantelimon.",
+                  "text": "Parcul Pantelimon din Pantelimon este situat pe malul Lacului Pantelimon.",
                   "category": "park",
                   "coords": [
                         26.200289,
@@ -15576,7 +15576,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Tunuri",
-                  "text": "Un monument reprezentat de un tun istoric situat în orașul Pantelimon.",
+                  "text": "Un tun istoric expus în piața centrală din Pantelimon.",
                   "category": "historical",
                   "coords": [
                         26.172542,
@@ -15603,7 +15603,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Strand Cara - Titan",
-                  "text": "Un parc acvatic în Pantelimon, oferind distracție pentru toate vârstele.",
+                  "text": "Strandul Cara – Titan din Pantelimon este un complex de piscine.",
                   "category": "family",
                   "coords": [
                         26.1624,
@@ -15612,7 +15612,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin de Înot Dante Aligheri",
-                  "text": "O piscină în Pantelimon pentru recreere în familie.",
+                  "text": "Bazinul de Înot Dante Alighieri din Pantelimon este o piscină interioară numită după Dante Alighieri.",
                   "category": "family",
                   "coords": [
                         26.159568,
@@ -15653,7 +15653,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul Pantelimon",
-                  "text": "A public recreational park located in the town of Pantelimon.",
+                  "text": "Parcul Pantelimon in Pantelimon is a park on the shore of Lake Pantelimon.",
                   "category": "park",
                   "coords": [
                         26.200289,
@@ -15671,7 +15671,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Cannon",
-                  "text": "A historical cannon monument located in the town of Pantelimon.",
+                  "text": "A historical cannon displayed in the main square of Pantelimon.",
                   "category": "historical",
                   "coords": [
                         26.172542,
@@ -15698,7 +15698,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Strand Cara - Titan",
-                  "text": "A water park in Pantelimon, offering fun for all ages.",
+                  "text": "Cara – Titan swimming complex in Pantelimon is a pool complex.",
                   "category": "family",
                   "coords": [
                         26.1624,
@@ -15707,7 +15707,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Bazin de Înot Dante Aligheri",
-                  "text": "A swimming pool in Pantelimon for family recreation.",
+                  "text": "Dante Alighieri swimming pool in Pantelimon is an indoor pool named after Dante Alighieri.",
                   "category": "family",
                   "coords": [
                         26.159568,
@@ -15823,7 +15823,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "cristal brad-popești leordeni",
-                  "text": "Ein lokales Denkmal in Popești-Leordeni.",
+                  "text": "Das historische Kristallglas-Gebäude Cristal Brad in Popești-Leordeni.",
                   "category": "historical",
                   "coords": [
                         26.185242,
@@ -15832,7 +15832,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mănăstirea Ortodoxă Duminica Sfinților Romani",
-                  "text": "Ein orthodoxes Kloster in Popești-Leordeni.",
+                  "text": "Das orthodoxe Kloster Duminica Sfinților Romani in Popești-Leordeni, geweiht der Sonntag der Heiligen Römer.",
                   "category": "landmark",
                   "coords": [
                         26.149709,
@@ -15841,7 +15841,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica catolică „Sfânta Maria”",
-                  "text": "Die katholische Marienkirche in Popești-Leordeni.",
+                  "text": "Die katholische Kirche „Heilige Maria\" wurde 1903 in Popești-Leordeni erbaut.",
                   "category": "religious",
                   "coords": [
                         26.17601,
@@ -15919,7 +15919,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "cristal brad-popești leordeni",
-                  "text": "Helyi emlékmű Popești-Leordeni városában.",
+                  "text": "A Cristal Brad történelmi kristályüveg-épület Popești-Leordeniben.",
                   "category": "historical",
                   "coords": [
                         26.185242,
@@ -15928,7 +15928,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mănăstirea Ortodoxă Duminica Sfinților Romani",
-                  "text": "Ortodox kolostor Popești-Leordeni városában.",
+                  "text": "A Duminica Sfinților Romani ortodox kolostor Popești-Leordeniben, a Szent Rómaiak Vasárnapjának szentelve.",
                   "category": "landmark",
                   "coords": [
                         26.149709,
@@ -15937,7 +15937,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica catolică „Sfânta Maria”",
-                  "text": "Szent Mária katolikus templom Popești-Leordeni városában.",
+                  "text": "A „Szent Mária” katolikus templom 1903-ban épült Popești-Leordeni-ben.",
                   "category": "religious",
                   "coords": [
                         26.17601,
@@ -16015,7 +16015,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "cristal brad-popești leordeni",
-                  "text": "Un monument local în Popești-Leordeni.",
+                  "text": "Clădirea istorică Cristal Brad din Popești-Leordeni, fostă fabrică de sticlărie cu cristale.",
                   "category": "historical",
                   "coords": [
                         26.185242,
@@ -16024,7 +16024,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mănăstirea Ortodoxă Duminica Sfinților Romani",
-                  "text": "O mănăstire ortodoxă în Popești-Leordeni.",
+                  "text": "Mănăstirea Ortodoxă Duminica Sfinților Romani din Popești-Leordeni, dedicată Duminicii Sfinților Romani.",
                   "category": "landmark",
                   "coords": [
                         26.149709,
@@ -16033,7 +16033,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica catolică „Sfânta Maria”",
-                  "text": "Biserica catolică Sfânta Maria din Popești-Leordeni.",
+                  "text": "Biserica catolică „Sfânta Maria” a fost construită în 1903 în Popești-Leordeni.",
                   "category": "religious",
                   "coords": [
                         26.17601,
@@ -16111,7 +16111,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "cristal brad-popești leordeni",
-                  "text": "A local monument in Popești-Leordeni.",
+                  "text": "The historic crystal glass building Cristal Brad in Popești-Leordeni.",
                   "category": "historical",
                   "coords": [
                         26.185242,
@@ -16120,7 +16120,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Mănăstirea Ortodoxă Duminica Sfinților Romani",
-                  "text": "An Orthodox monastery in Popești-Leordeni.",
+                  "text": "The Orthodox monastery Duminica Sfinților Romani in Popești-Leordeni, dedicated to the Sunday of the Holy Romans.",
                   "category": "landmark",
                   "coords": [
                         26.149709,
@@ -16129,7 +16129,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Biserica catolică „Sfânta Maria”",
-                  "text": "The Catholic Saint Mary Church in Popești-Leordeni.",
+                  "text": "The Catholic Church of Saint Mary was built in 1903 in Popești-Leordeni.",
                   "category": "religious",
                   "coords": [
                         26.17601,
@@ -16256,7 +16256,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Aria naturală protejată Pajiștea Petricani",
-                  "text": "Ein geschütztes Naturgebiet in Voluntari, bekannt als Petricani-Wiese.",
+                  "text": "Das geschützte Naturgebiet Pajiștea Petricani in Voluntari ist eine Wiesenfläche.",
                   "category": "natural",
                   "coords": [
                         26.123013,
@@ -16301,7 +16301,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Băneasa",
-                  "text": "Der See Lacul Băneasa liegt im Gebiet von Voluntari.",
+                  "text": "Der Băneasa-See in Voluntari liegt nahe dem Băneasa-Viertel.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -16310,7 +16310,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul IOR",
-                  "text": "Der See Lacul IOR befindet sich in der Nähe von Voluntari.",
+                  "text": "Der IOR-See in Voluntari liegt angrenzend an den IOR-Park.",
                   "category": "natural",
                   "coords": [
                         26.155788,
@@ -16319,7 +16319,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Pantelimon",
-                  "text": "Der Pantelimon-See erstreckt sich bis nach Voluntari.",
+                  "text": "Der Pantelimon-See in Voluntari liegt im Pantelimon-Gebiet.",
                   "category": "natural",
                   "coords": [
                         26.209104,
@@ -16328,7 +16328,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Herăstrău-See",
-                  "text": "Der Herăstrău-See liegt im weiteren Umfeld von Voluntari.",
+                  "text": "Der Herăstrău-See in Voluntari liegt nahe dem Herăstrău-Viertel.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -16337,7 +16337,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Cernica",
-                  "text": "Der See Lacul Cernica befindet sich unweit von Voluntari.",
+                  "text": "Der Cernica-See in Voluntari liegt in der Nähe des Cernica-Gebiets.",
                   "category": "natural",
                   "coords": [
                         26.25824,
@@ -16346,7 +16346,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "Balta Pipera ist ein See im Bezirk Voluntari.",
+                  "text": "Der Pipera-Teich in Voluntari liegt im Pipera-Gebiet.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -16355,7 +16355,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Plumbuita",
-                  "text": "Der Plumbuita-See liegt in der Region Voluntari.",
+                  "text": "Der Plumbuita-See in Voluntari liegt im Plumbuita-Gebiet.",
                   "category": "natural",
                   "coords": [
                         26.131876,
@@ -16364,7 +16364,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lebedelor-See",
-                  "text": "Swan Lake (Lacul Lebedelor) befindet sich in Voluntari.",
+                  "text": "Der Schwanensee in Voluntari ist ein See, der für seine Schwäne bekannt ist.",
                   "category": "natural",
                   "coords": [
                         26.088734,
@@ -16373,7 +16373,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Dobroești",
-                  "text": "Der See Lacul Dobroești liegt bei Voluntari.",
+                  "text": "Der Dobroești-See in Voluntari liegt nahe dem Dorf Dobroești.",
                   "category": "natural",
                   "coords": [
                         26.173695,
@@ -16382,7 +16382,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Fundeni",
-                  "text": "Der Fundeni-See befindet sich in der Nähe von Voluntari.",
+                  "text": "Der Fundeni-See in Voluntari liegt nahe dem Fundeni-Viertel.",
                   "category": "natural",
                   "coords": [
                         26.150077,
@@ -16400,7 +16400,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kinder Village Playground",
-                  "text": "Der Kinder Village Playground befindet sich in Voluntari.",
+                  "text": "Der Kinder Village-Spielplatz in Voluntari ist ein Spielplatz in der Wohnanlage Kinder Village.",
                   "category": "family",
                   "coords": [
                         26.135336,
@@ -16409,7 +16409,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul Florilor",
-                  "text": "Der Spielplatz im Parcul Florilor in Voluntari ist ein Ort für Kinderfreizeit.",
+                  "text": "Der Blumenpark in Voluntari ist ein Park mit Blumengärten.",
                   "category": "family",
                   "coords": [
                         26.184957,
@@ -16418,7 +16418,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Loc de Joacă Terra Residence",
-                  "text": "Der Spielplatz Terra Residence liegt in Voluntari.",
+                  "text": "Der Spielplatz Terra Residence in Voluntari liegt in der Wohnsiedlung Terra Residence.",
                   "category": "family",
                   "coords": [
                         26.178365,
@@ -16507,7 +16507,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Aria naturală protejată Pajiștea Petricani",
-                  "text": "Védett természeti terület Voluntari-ban, a Petricani-rét.",
+                  "text": "A Pajiștea Petricani védett természeti terület Voluntariban egy rét.",
                   "category": "natural",
                   "coords": [
                         26.123013,
@@ -16552,7 +16552,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Băneasa",
-                  "text": "A Lacul Băneasa tó Voluntari területén található.",
+                  "text": "A Băneasa-tó Voluntariban, a Băneasa negyed közelében található.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -16561,7 +16561,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul IOR",
-                  "text": "A Lacul IOR tó Voluntari szomszédságában található.",
+                  "text": "Az IOR-tó Voluntariban az IOR-park szomszédságában található.",
                   "category": "natural",
                   "coords": [
                         26.155788,
@@ -16570,7 +16570,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Pantelimon",
-                  "text": "A Pantelimon-tó Voluntari környékéig húzódik.",
+                  "text": "A Pantelimon-tó Voluntariban a Pantelimon körzetben található.",
                   "category": "natural",
                   "coords": [
                         26.209104,
@@ -16579,7 +16579,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Herăstrău",
-                  "text": "A Herăstrău-tó Voluntari tágabb környezetében fekszik.",
+                  "text": "A Herăstrău-tó Voluntariban a Herăstrău negyed közelében van.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -16588,7 +16588,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Cernica",
-                  "text": "A Lacul Cernica tó Voluntari közelében található.",
+                  "text": "A Cernica-tó Voluntariban a Cernica körzet közelében található.",
                   "category": "natural",
                   "coords": [
                         26.25824,
@@ -16597,7 +16597,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "A Balta Pipera tó Voluntari körzetében található.",
+                  "text": "A Pipera-tó Voluntariban a Pipera körzetben található.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -16606,7 +16606,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Plumbuita",
-                  "text": "A Plumbuita-tó Voluntari térségében található.",
+                  "text": "A Plumbuita-tó Voluntariban a Plumbuita körzetben található.",
                   "category": "natural",
                   "coords": [
                         26.131876,
@@ -16615,7 +16615,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Lebedelor",
-                  "text": "A Swan Lake (Lacul Lebedelor) tó Voluntari városában található.",
+                  "text": "A Hattyú-tó Voluntariban egy tó, amely hattyúiról ismert.",
                   "category": "natural",
                   "coords": [
                         26.088734,
@@ -16624,7 +16624,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Dobroești",
-                  "text": "A Lacul Dobroești tó Voluntari mellett fekszik.",
+                  "text": "A Dobroești-tó Voluntariban Dobroești falu közelében van.",
                   "category": "natural",
                   "coords": [
                         26.173695,
@@ -16633,7 +16633,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Fundeni",
-                  "text": "A Fundeni-tó Voluntari szomszédságában található.",
+                  "text": "A Fundeni-tó Voluntariban a Fundeni negyed közelében található.",
                   "category": "natural",
                   "coords": [
                         26.150077,
@@ -16651,7 +16651,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kinder Village Playground",
-                  "text": "A Kinder Village Playground játszótér Voluntari városában található.",
+                  "text": "A Kinder Village játszótér Voluntariban a Kinder Village lakóparkban található.",
                   "category": "family",
                   "coords": [
                         26.135336,
@@ -16660,7 +16660,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul Florilor",
-                  "text": "A Voluntari-i Parcul Florilor játszótér kikapcsolódási hely a gyermekek számára.",
+                  "text": "A Virágok Parkja Voluntariban egy park virágágyásokkal.",
                   "category": "family",
                   "coords": [
                         26.184957,
@@ -16669,7 +16669,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Loc de Joacă Terra Residence",
-                  "text": "A Terra Residence játszótér Voluntari területén található.",
+                  "text": "A Terra Residence játszótér Voluntariban a Terra Residence lakóparkban található.",
                   "category": "family",
                   "coords": [
                         26.178365,
@@ -16758,7 +16758,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Aria naturală protejată Pajiștea Petricani",
-                  "text": "O arie naturală protejată din Voluntari, cunoscută sub numele de Pajiștea Petricani.",
+                  "text": "Aria naturală protejată Pajiștea Petricani din Voluntari este o pajiște ocrotită.",
                   "category": "natural",
                   "coords": [
                         26.123013,
@@ -16803,7 +16803,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Băneasa",
-                  "text": "Lacul Băneasa este situat în zona localității Voluntari.",
+                  "text": "Lacul Băneasa din Voluntari este un lac natural lângă cartierul Băneasa.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -16812,7 +16812,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul IOR",
-                  "text": "Lacul IOR este situat în apropiere de Voluntari.",
+                  "text": "Lacul IOR din Voluntari este un lac natural adiacent Parcului IOR.",
                   "category": "natural",
                   "coords": [
                         26.155788,
@@ -16821,7 +16821,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Pantelimon",
-                  "text": "Lacul Pantelimon se întinde până în zona orașului Voluntari.",
+                  "text": "Lacul Pantelimon din Voluntari este un lac natural în zona Pantelimon.",
                   "category": "natural",
                   "coords": [
                         26.209104,
@@ -16830,7 +16830,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău este situat în zona extinsă a localității Voluntari.",
+                  "text": "Lacul Herăstrău din Voluntari este un lac natural lângă cartierul Herăstrău.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -16839,7 +16839,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Cernica",
-                  "text": "Lacul Cernica este situat în vecinătatea orașului Voluntari.",
+                  "text": "Lacul Cernica din Voluntari este un lac natural aproape de zona Cernica.",
                   "category": "natural",
                   "coords": [
                         26.25824,
@@ -16848,7 +16848,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "Lacul Balta Pipera se află în zona orașului Voluntari.",
+                  "text": "Balta Pipera din Voluntari este un iaz natural în zona Pipera.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -16857,7 +16857,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita este situat în zona localității Voluntari.",
+                  "text": "Lacul Plumbuita din Voluntari este un lac natural în zona Plumbuita.",
                   "category": "natural",
                   "coords": [
                         26.131876,
@@ -16866,7 +16866,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Lebedelor",
-                  "text": "Lacul Lebedelor (Swan Lake) este situat în Voluntari.",
+                  "text": "Lacul Lebedei (Swan Lake) din Voluntari este un lac cunoscut pentru lebedele sale.",
                   "category": "natural",
                   "coords": [
                         26.088734,
@@ -16875,7 +16875,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Dobroești",
-                  "text": "Lacul Dobroești este situat lângă Voluntari.",
+                  "text": "Lacul Dobroești din Voluntari este un lac natural aproape de satul Dobroești.",
                   "category": "natural",
                   "coords": [
                         26.173695,
@@ -16884,7 +16884,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Fundeni",
-                  "text": "Lacul Fundeni se află în apropiere de Voluntari.",
+                  "text": "Lacul Fundeni din Voluntari este un lac natural lângă cartierul Fundeni.",
                   "category": "natural",
                   "coords": [
                         26.150077,
@@ -16902,7 +16902,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kinder Village Playground",
-                  "text": "Locul de joacă Kinder Village Playground este situat în Voluntari.",
+                  "text": "Locul de joacă Kinder Village din Voluntari este un loc de joacă în complexul rezidențial Kinder Village.",
                   "category": "family",
                   "coords": [
                         26.135336,
@@ -16911,7 +16911,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul Florilor",
-                  "text": "Locul de joacă din Parcul Florilor din Voluntari este un spațiu pentru copii.",
+                  "text": "Parcul Florilor din Voluntari este un parc cu grădini de flori.",
                   "category": "family",
                   "coords": [
                         26.184957,
@@ -16920,7 +16920,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Loc de Joacă Terra Residence",
-                  "text": "Locul de joacă Terra Residence este situat în Voluntari.",
+                  "text": "Locul de joacă Terra Residence din Voluntari este situat în ansamblul rezidențial Terra Residence.",
                   "category": "family",
                   "coords": [
                         26.178365,
@@ -17009,7 +17009,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Aria naturală protejată Pajiștea Petricani",
-                  "text": "A protected natural area in Voluntari known as the Petricani Meadow.",
+                  "text": "The protected natural area Pajiștea Petricani in Voluntari is a meadow.",
                   "category": "natural",
                   "coords": [
                         26.123013,
@@ -17054,7 +17054,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lake Băneasa",
-                  "text": "Lake Băneasa is a lake located in the Voluntari area.",
+                  "text": "Lake Băneasa in Voluntari is a natural lake near the Băneasa neighborhood.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -17063,7 +17063,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul IOR",
-                  "text": "Lacul IOR is a lake located near Voluntari.",
+                  "text": "Lacul IOR in Voluntari is a natural lake adjacent to IOR Park.",
                   "category": "natural",
                   "coords": [
                         26.155788,
@@ -17072,7 +17072,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Pantelimon",
-                  "text": "Lacul Pantelimon extends into the Voluntari area.",
+                  "text": "Lacul Pantelimon in Voluntari is a natural lake in the Pantelimon area.",
                   "category": "natural",
                   "coords": [
                         26.209104,
@@ -17081,7 +17081,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău is located in the broader Voluntari area.",
+                  "text": "Lacul Herăstrău in Voluntari is a natural lake near the Herăstrău neighborhood.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -17090,7 +17090,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Cernica",
-                  "text": "Lacul Cernica is located near Voluntari.",
+                  "text": "Lacul Cernica in Voluntari is a natural lake near the Cernica area.",
                   "category": "natural",
                   "coords": [
                         26.25824,
@@ -17099,7 +17099,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "Balta Pipera is a lake in the Voluntari district.",
+                  "text": "Balta Pipera in Voluntari is a natural pond in the Pipera area.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -17108,7 +17108,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita is a lake in the Voluntari area.",
+                  "text": "Lacul Plumbuita in Voluntari is a natural lake in the Plumbuita area.",
                   "category": "natural",
                   "coords": [
                         26.131876,
@@ -17117,7 +17117,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Swan Lake",
-                  "text": "Swan Lake (Lacul Lebedelor) is a lake located in Voluntari.",
+                  "text": "Swan Lake in Voluntari is a lake known for its swans.",
                   "category": "natural",
                   "coords": [
                         26.088734,
@@ -17126,7 +17126,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Dobroești",
-                  "text": "Lacul Dobroești is a lake situated near Voluntari.",
+                  "text": "Lacul Dobroești in Voluntari is a natural lake near the village of Dobroești.",
                   "category": "natural",
                   "coords": [
                         26.173695,
@@ -17135,7 +17135,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lake Fundeni",
-                  "text": "Lake Fundeni is located near Voluntari.",
+                  "text": "Lake Fundeni in Voluntari is a natural lake near the Fundeni neighborhood.",
                   "category": "natural",
                   "coords": [
                         26.150077,
@@ -17153,7 +17153,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kinder Village Playground",
-                  "text": "Kinder Village Playground is a playground located in Voluntari.",
+                  "text": "Kinder Village Playground in Voluntari is a playground in the Kinder Village residential complex.",
                   "category": "family",
                   "coords": [
                         26.135336,
@@ -17162,7 +17162,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul Florilor",
-                  "text": "The playground in Parcul Florilor in Voluntari is a space for children's recreation.",
+                  "text": "Parcul Florilor in Voluntari is a park with flower gardens.",
                   "category": "family",
                   "coords": [
                         26.184957,
@@ -17171,7 +17171,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Loc de Joacă Terra Residence",
-                  "text": "The Terra Residence playground is located in Voluntari.",
+                  "text": "Terra Residence playground in Voluntari is located in the Terra Residence housing estate.",
                   "category": "family",
                   "coords": [
                         26.178365,
@@ -17805,7 +17805,7 @@ export const romaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Balta de pescuit Clinceni",
-                  "text": "Der See Balta de pescuit Clinceni liegt bei Dărăști-Ilfov und ist für Angler geeignet.",
+                  "text": "Der Angelteich Clinceni in Dărăști-Ilfov liegt nahe dem Dorf Clinceni.",
                   "category": "natural",
                   "coords": [
                         25.963398,
@@ -17814,7 +17814,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Soare",
-                  "text": "Soare Lake ist ein Gewässer in der Nähe von Dărăști-Ilfov.",
+                  "text": "Der Sonnensee in Dărăști-Ilfov ist ein See namens „Sonnensee”.",
                   "category": "natural",
                   "coords": [
                         26.075719,
@@ -17823,7 +17823,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Argedava",
-                  "text": "Die Ruinen einer bedeutenden dakischen Festung aus der Antike.",
+                  "text": "Die antike dakische Festung Argedava ist eine archäologische Stätte bei Dărăști-Ilfov.",
                   "category": "historical",
                   "coords": [
                         25.964795,
@@ -17843,7 +17843,7 @@ export const romaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Balta de pescuit Clinceni",
-                  "text": "A Dărăști-Ilfov melletti Balta de pescuit Clinceni horgászatra alkalmas tó.",
+                  "text": "A Clinceni horgásztó Dărăști-Ilfovban Clinceni falu közelében található.",
                   "category": "natural",
                   "coords": [
                         25.963398,
@@ -17852,7 +17852,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Soare",
-                  "text": "A Soare Lake egy tó Dărăști-Ilfov környékén.",
+                  "text": "A Nap-tó Dărăști-Ilfovban egy tó, amelynek neve „Nap-tó”.",
                   "category": "natural",
                   "coords": [
                         26.075719,
@@ -17861,7 +17861,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Argedava",
-                  "text": "Egy jelentős ókori dák erődítmény romjai.",
+                  "text": "Az ősi dák erőd, Argedava, egy régészeti lelőhely Dărăști-Ilfov közelében.",
                   "category": "historical",
                   "coords": [
                         25.964795,
@@ -17881,7 +17881,7 @@ export const romaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Balta de pescuit Clinceni",
-                  "text": "Lacul Balta de pescuit Clinceni de lângă Dărăști-Ilfov este destinat pescuitului.",
+                  "text": "Balta de pescuit Clinceni din Dărăști-Ilfov este un iaz de pescuit lângă satul Clinceni.",
                   "category": "natural",
                   "coords": [
                         25.963398,
@@ -17890,7 +17890,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Soare",
-                  "text": "Lacul Soare Lake este situat în apropiere de Dărăști-Ilfov.",
+                  "text": "Lacul Soare din Dărăști-Ilfov este un lac numit „Soare” (Soarele).",
                   "category": "natural",
                   "coords": [
                         26.075719,
@@ -17899,7 +17899,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Argedava",
-                  "text": "Ruinele unei importante cetăți dacice din antichitate.",
+                  "text": "Cetatea dacică antică Argedava este un sit arheologic lângă Dărăști-Ilfov.",
                   "category": "historical",
                   "coords": [
                         25.964795,
@@ -17919,7 +17919,7 @@ export const romaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Balta de pescuit Clinceni",
-                  "text": "Balta de pescuit Clinceni is a lake near Darasti Ilfov, suitable for fishing.",
+                  "text": "Clinceni fishing pond in Dărăști-Ilfov is a fishing pond near the village of Clinceni.",
                   "category": "natural",
                   "coords": [
                         25.963398,
@@ -17928,7 +17928,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Soare Lake",
-                  "text": "Soare Lake is a lake located near Darasti Ilfov.",
+                  "text": "Soare Lake in Dărăști-Ilfov is a lake named 'Sun'.",
                   "category": "natural",
                   "coords": [
                         26.075719,
@@ -17937,7 +17937,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Argedava",
-                  "text": "The ruins of an important ancient Dacian fortress.",
+                  "text": "The ancient Dacian fortress Argedava is an archaeological site near Dărăști-Ilfov.",
                   "category": "historical",
                   "coords": [
                         25.964795,
@@ -18290,7 +18290,7 @@ export const romaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Acumularea Cocioc",
-                  "text": "Der See Acumularea Cocioc befindet sich in Vidra.",
+                  "text": "Das Cocioc-Reservoir in Vidra ist ein Stausee am Cocioc-Fluss.",
                   "category": "natural",
                   "coords": [
                         26.190696,
@@ -18308,7 +18308,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Soare",
-                  "text": "Der See Soare Lake liegt in der Region Vidra.",
+                  "text": "Der Sonnensee in Vidra ist ein See namens „Sonnensee”.",
                   "category": "natural",
                   "coords": [
                         26.075719,
@@ -18319,7 +18319,7 @@ export const romaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Acumularea Cocioc",
-                  "text": "Az Acumularea Cocioc tó Vidra községben található.",
+                  "text": "A Cocioc-víztározó Vidrában a Cocioc folyón található.",
                   "category": "natural",
                   "coords": [
                         26.190696,
@@ -18337,7 +18337,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Soare",
-                  "text": "A Soare Lake tó Vidra térségében található.",
+                  "text": "A Nap-tó Vidrában egy tó, amelynek neve „Nap-tó”.",
                   "category": "natural",
                   "coords": [
                         26.075719,
@@ -18348,7 +18348,7 @@ export const romaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Acumularea Cocioc",
-                  "text": "Lacul de acumulare Cocioc este situat în Vidra.",
+                  "text": "Acumularea Cocioc din Vidra este un lac de acumulare pe râul Cocioc.",
                   "category": "natural",
                   "coords": [
                         26.190696,
@@ -18366,7 +18366,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Soare",
-                  "text": "Lacul Soare Lake este situat în zona localității Vidra.",
+                  "text": "Lacul Soare din Vidra este un lac numit „Soare”.",
                   "category": "natural",
                   "coords": [
                         26.075719,
@@ -18377,7 +18377,7 @@ export const romaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Acumularea Cocioc",
-                  "text": "Acumularea Cocioc is a reservoir lake located in Vidra.",
+                  "text": "Cocioc Reservoir in Vidra is a reservoir on the Cocioc River.",
                   "category": "natural",
                   "coords": [
                         26.190696,
@@ -18395,7 +18395,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Soare Lake",
-                  "text": "Soare Lake is a lake located in the Vidra area.",
+                  "text": "Soare Lake in Vidra is a lake named 'Sun'.",
                   "category": "natural",
                   "coords": [
                         26.075719,
@@ -18480,7 +18480,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Piteasca 3",
-                  "text": "Ein malerischer See in der Gegend von Sindrilita.",
+                  "text": "Der dritte Teich im Piteasca-Gebiet bei Șindrilița.",
                   "category": "natural",
                   "coords": [
                         26.318661,
@@ -18572,7 +18572,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Piteasca 3",
-                  "text": "Festői tó Sindrilita környékén.",
+                  "text": "A harmadik tó a Piteasca körzetben, Șindrilița közelében.",
                   "category": "natural",
                   "coords": [
                         26.318661,
@@ -18664,7 +18664,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Piteasca 3",
-                  "text": "Un lac pitoresc situat în zona Șindrilița.",
+                  "text": "A treia baltă din zona Piteasca, lângă Șindrilița.",
                   "category": "natural",
                   "coords": [
                         26.318661,
@@ -18756,7 +18756,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Piteasca 3",
-                  "text": "A scenic lake located in the Sindrilita area.",
+                  "text": "The third pond in the Piteasca area, near Șindrilița.",
                   "category": "natural",
                   "coords": [
                         26.318661,
@@ -18919,7 +18919,7 @@ export const romaniaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Balta Creața 3",
-                  "text": "Balta Creața 3 ist ein See bei Dascălu.",
+                  "text": "Der dritte Teich im Creața-Gebiet bei Dascălu.",
                   "category": "natural",
                   "coords": [
                         26.2889,
@@ -18928,7 +18928,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Creața 1",
-                  "text": "Der See Balta Creața 1 befindet sich in der Nähe von Dascălu.",
+                  "text": "Der erste Teich im Creața-Gebiet bei Dascălu.",
                   "category": "natural",
                   "coords": [
                         26.277694,
@@ -18946,7 +18946,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Moara Vlăsiei 1",
-                  "text": "Der See Balta Moara Vlăsiei 1 befindet sich bei Dascălu.",
+                  "text": "Der erste Teich bei Moara Vlăsiei in Dascălu.",
                   "category": "natural",
                   "coords": [
                         26.188877,
@@ -18957,7 +18957,7 @@ export const romaniaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Balta Creața 3",
-                  "text": "A Balta Creața 3 tó Dascălu közelében található.",
+                  "text": "A harmadik tó a Creața körzetben, Dascălu közelében.",
                   "category": "natural",
                   "coords": [
                         26.2889,
@@ -18966,7 +18966,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Creața 1",
-                  "text": "A Balta Creața 1 tó Dascălu szomszédságában fekszik.",
+                  "text": "Az első tó a Creața körzetben, Dascălu közelében.",
                   "category": "natural",
                   "coords": [
                         26.277694,
@@ -18984,7 +18984,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Moara Vlăsiei 1",
-                  "text": "A Balta Moara Vlăsiei 1 tó Dascălu közelében fekszik.",
+                  "text": "Az első tó Moara Vlăsiei közelében, Dascăluban.",
                   "category": "natural",
                   "coords": [
                         26.188877,
@@ -18995,7 +18995,7 @@ export const romaniaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Balta Creața 3",
-                  "text": "Lacul Balta Creața 3 este situat lângă Dascălu.",
+                  "text": "A treia baltă din zona Creața, lângă Dascălu.",
                   "category": "natural",
                   "coords": [
                         26.2889,
@@ -19004,7 +19004,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Creața 1",
-                  "text": "Lacul Balta Creața 1 se află în apropiere de Dascălu.",
+                  "text": "Prima baltă din zona Creața, lângă Dascălu.",
                   "category": "natural",
                   "coords": [
                         26.277694,
@@ -19022,7 +19022,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Moara Vlăsiei 1",
-                  "text": "Lacul Balta Moara Vlăsiei 1 este situat lângă Dascălu.",
+                  "text": "Prima baltă lângă Moara Vlăsiei, în Dascălu.",
                   "category": "natural",
                   "coords": [
                         26.188877,
@@ -19033,7 +19033,7 @@ export const romaniaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Balta Creața 3",
-                  "text": "Balta Creața 3 is a lake situated near Dascalu.",
+                  "text": "The third pond in the Creața area, near Dascălu.",
                   "category": "natural",
                   "coords": [
                         26.2889,
@@ -19042,7 +19042,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Creața 1",
-                  "text": "Balta Creața 1 is a lake located near Dascalu.",
+                  "text": "The first pond in the Creața area, near Dascălu.",
                   "category": "natural",
                   "coords": [
                         26.277694,
@@ -19060,7 +19060,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Moara Vlăsiei 1",
-                  "text": "Balta Moara Vlăsiei 1 is a lake situated near Dascalu.",
+                  "text": "The first pond near Moara Vlăsiei, in Dascălu.",
                   "category": "natural",
                   "coords": [
                         26.188877,
@@ -19448,7 +19448,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Podișor 1",
-                  "text": "Ein ruhiger See in Periș, ideal für Spaziergänge in der Natur.",
+                  "text": "Der erste See im Podișor-Gebiet bei Periș.",
                   "category": "natural",
                   "coords": [
                         25.991984,
@@ -19524,7 +19524,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Podișor 1",
-                  "text": "Egy csendes tó Periș településen, amely ideális természeti sétákhoz.",
+                  "text": "Az első tó a Podișor körzetben, Periș közelében.",
                   "category": "natural",
                   "coords": [
                         25.991984,
@@ -19600,7 +19600,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Podișor 1",
-                  "text": "Un lac liniștit în Periș, ideal pentru plimbări în natură.",
+                  "text": "Primul lac din zona Podișor, lângă Periș.",
                   "category": "natural",
                   "coords": [
                         25.991984,
@@ -19676,7 +19676,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Podișor 1",
-                  "text": "A quiet lake in Peris, ideal for nature walks.",
+                  "text": "The first lake in the Podișor area, near Periș.",
                   "category": "natural",
                   "coords": [
                         25.991984,
@@ -20449,7 +20449,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Fortul 6 Afumați",
-                  "text": "Ein historisches Fort des Verteidigungsgürtels in Afumați.",
+                  "text": "Fort 6 Afumați ist ein Teil des Bukarester Verteidigungsrings.",
                   "category": "fortress",
                   "coords": [
                         26.201149,
@@ -20458,7 +20458,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Bateria Nr. 6 - 7",
-                  "text": "Eine weitere historische Batteriestellung in Afumați.",
+                  "text": "Batterie Nr. 6–7 in Afumați ist eine Artilleriebatterie der Bukarester Befestigungen.",
                   "category": "fortress",
                   "coords": [
                         26.214599,
@@ -20467,7 +20467,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Intrare-scari",
-                  "text": "Ein Aussichtspunkt in der Nähe von Afumați.",
+                  "text": "Der natürliche Eingangstreppen-Formation in Afumați.",
                   "category": "natural",
                   "coords": [
                         26.201955,
@@ -20476,7 +20476,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaura turela",
-                  "text": "Eine lokale Sehenswürdigkeit in Afumați.",
+                  "text": "Ein kleiner Turm mit einer Höhle in Afumați.",
                   "category": "landmark",
                   "coords": [
                         26.202085,
@@ -20506,7 +20506,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Fortul 6 Afumați",
-                  "text": "A védelmi gyűrű egyik történelmi erődje Afumați községben.",
+                  "text": "A 6. számú erőd Afumați a bukaresti védőgyűrű része.",
                   "category": "fortress",
                   "coords": [
                         26.201149,
@@ -20515,7 +20515,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Bateria Nr. 6 - 7",
-                  "text": "Egy másik történelmi ütegállás Afumați területén.",
+                  "text": "A 6–7. számú üteg Afumațiban a bukaresti erődítések tüzérütege.",
                   "category": "fortress",
                   "coords": [
                         26.214599,
@@ -20524,7 +20524,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Intrare-scari",
-                  "text": "Kilátópont Afumați község közelében.",
+                  "text": "Egy természetes lépcsős bejárati képződmény Afumațiban.",
                   "category": "natural",
                   "coords": [
                         26.201955,
@@ -20533,7 +20533,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaura turela",
-                  "text": "Helyi látnivaló Afumați településen.",
+                  "text": "Egy kis torony barlanggal Afumațiban.",
                   "category": "landmark",
                   "coords": [
                         26.202085,
@@ -20563,7 +20563,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Fortul 6 Afumați",
-                  "text": "Un fort istoric din centura de apărare situat în Afumați.",
+                  "text": "Fortul 6 Afumați face parte din inelul de fortificații al Bucureștiului.",
                   "category": "fortress",
                   "coords": [
                         26.201149,
@@ -20572,7 +20572,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Bateria Nr. 6 - 7",
-                  "text": "O altă baterie istorică în Afumați.",
+                  "text": "Bateria Nr. 6–7 din Afumați este o baterie de artilerie a fortificațiilor Bucureștiului.",
                   "category": "fortress",
                   "coords": [
                         26.214599,
@@ -20581,7 +20581,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Intrare-scari",
-                  "text": "Un punct de belvedere în apropiere de Afumați.",
+                  "text": "O formațiune naturală de tip intrare-scări în Afumați.",
                   "category": "natural",
                   "coords": [
                         26.201955,
@@ -20590,7 +20590,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaura turela",
-                  "text": "O atracție locală situată în Afumați.",
+                  "text": "Un mic turn cu o peșteră în Afumați.",
                   "category": "landmark",
                   "coords": [
                         26.202085,
@@ -20620,7 +20620,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Fortul 6 Afumați",
-                  "text": "A historic fort of the defensive belt located in Afumați.",
+                  "text": "Fort 6 Afumați is part of the Bucharest defensive ring.",
                   "category": "fortress",
                   "coords": [
                         26.201149,
@@ -20629,7 +20629,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Bateria Nr. 6 - 7",
-                  "text": "Another historic battery position in Afumați.",
+                  "text": "Battery No. 6–7 in Afumați is an artillery battery of the Bucharest fortifications.",
                   "category": "fortress",
                   "coords": [
                         26.214599,
@@ -20638,7 +20638,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Intrare-scari",
-                  "text": "A viewpoint located near Afumați.",
+                  "text": "A natural stair-like entrance formation in Afumați.",
                   "category": "natural",
                   "coords": [
                         26.201955,
@@ -20647,7 +20647,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Gaura turela",
-                  "text": "A local attraction located in Afumați.",
+                  "text": "A small turret with a cave in Afumați.",
                   "category": "landmark",
                   "coords": [
                         26.202085,
@@ -20733,7 +20733,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Băneasa",
-                  "text": "Der Băneasa-See liegt im weiteren Umfeld von Ștefăneștii de Jos.",
+                  "text": "Ein ruhiger See, umgeben von Grün in Ștefăneștii de Jos.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -20742,7 +20742,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Herăstrău-See",
-                  "text": "Der Herăstrău-See befindet sich in der Region Ștefăneștii de Jos.",
+                  "text": "Ein Erholungssee am Rande von Ștefăneștii de Jos.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -20751,7 +20751,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "Balta Pipera ist ein See nahe Ștefăneștii de Jos.",
+                  "text": "Ein kleiner Teich im Geschäftsviertel Pipera.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -20808,7 +20808,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Băneasa",
-                  "text": "A Băneasa-tó Ștefăneștii de Jos tágabb környezetében található.",
+                  "text": "Egy csendes tó zöldövezetben Ștefăneștii de Jos-ban.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -20817,7 +20817,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Herăstrău",
-                  "text": "A Herăstrău-tó Ștefăneștii de Jos térségében található.",
+                  "text": "Egy pihenőtó Ștefăneștii de Jos szélén.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -20826,7 +20826,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "A Balta Pipera tó Ștefăneștii de Jos közelében található.",
+                  "text": "Egy kis tó a Pipera üzleti negyedben.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -20883,7 +20883,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Băneasa",
-                  "text": "Lacul Băneasa este situat în zona extinsă a localității Ștefăneștii de Jos.",
+                  "text": "Un lac liniștit înconjurat de verdeață în Ștefăneștii de Jos.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -20892,7 +20892,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău se află în zona localității Ștefăneștii de Jos.",
+                  "text": "Un lac de agrement la marginea orașului Ștefăneștii de Jos.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -20901,7 +20901,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "Lacul Balta Pipera este situat în apropiere de Ștefăneștii de Jos.",
+                  "text": "Un mic iaz în cartierul de afaceri Pipera.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -20958,7 +20958,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lake Băneasa",
-                  "text": "Lake Băneasa is located in the broader Stefanestii De Jos area.",
+                  "text": "A calm lake surrounded by greenery in Ștefăneștii de Jos.",
                   "category": "natural",
                   "coords": [
                         26.126792,
@@ -20967,7 +20967,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău is located in the Stefanestii De Jos area.",
+                  "text": "A recreational lake on the edge of Ștefăneștii de Jos.",
                   "category": "natural",
                   "coords": [
                         26.082021,
@@ -20976,7 +20976,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Pipera",
-                  "text": "Balta Pipera is a lake located near Stefanestii De Jos.",
+                  "text": "A small pond in the Pipera business district.",
                   "category": "natural",
                   "coords": [
                         26.123002,
@@ -21152,7 +21152,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Plumbuita",
-                  "text": "Ein malerischer See in der Region Tunari.",
+                  "text": "Ein See in Tunari, beliebt zum Angeln.",
                   "category": "natural",
                   "coords": [
                         26.131876,
@@ -21353,7 +21353,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Plumbuita",
-                  "text": "Festői tó Tunari régiójában.",
+                  "text": "Egy tó Tunari-ban, népszerű horgászhely.",
                   "category": "natural",
                   "coords": [
                         26.131876,
@@ -21554,7 +21554,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Plumbuita",
-                  "text": "Un lac pitoresc situat în regiunea Tunari.",
+                  "text": "Un lac în Tunari, popular pentru pescuit.",
                   "category": "natural",
                   "coords": [
                         26.131876,
@@ -21755,7 +21755,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Plumbuita",
-                  "text": "A scenic lake located in the Tunari region.",
+                  "text": "A lake in Tunari, popular for fishing.",
                   "category": "natural",
                   "coords": [
                         26.131876,
@@ -22556,7 +22556,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Creața 1",
-                  "text": "Ein natürlicher See in der Gegend von Gradistea.",
+                  "text": "Der erste von mehreren Teichen in Grădiștea.",
                   "category": "natural",
                   "coords": [
                         26.277694,
@@ -22574,7 +22574,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Neagră",
-                  "text": "Ein See in Gradistea, bekannt für seine natürliche Umgebung.",
+                  "text": "Ein dunkler Teich in der Grădiștea-Region.",
                   "category": "natural",
                   "coords": [
                         26.287938,
@@ -22613,7 +22613,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Creața 1",
-                  "text": "Természetes tó Gradistea környékén.",
+                  "text": "Az első a Grădiștea-i tavak sorában.",
                   "category": "natural",
                   "coords": [
                         26.277694,
@@ -22631,7 +22631,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Neagră",
-                  "text": "Gradistea területén található tó, amely természeti környezetéről ismert.",
+                  "text": "Egy sötét tó a Grădiștea régióban.",
                   "category": "natural",
                   "coords": [
                         26.287938,
@@ -22670,7 +22670,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Creața 1",
-                  "text": "Un lac natural situat în zona Grădiștea.",
+                  "text": "Primul dintre mai multe iazuri din Grădiștea.",
                   "category": "natural",
                   "coords": [
                         26.277694,
@@ -22688,7 +22688,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Neagră",
-                  "text": "Un lac situat în Grădiștea, cunoscut pentru împrejurimile sale naturale.",
+                  "text": "Un iaz întunecat în regiunea Grădiștea.",
                   "category": "natural",
                   "coords": [
                         26.287938,
@@ -22727,7 +22727,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Creața 1",
-                  "text": "A natural lake located in the Gradistea area.",
+                  "text": "The first of several ponds in Grădiștea.",
                   "category": "natural",
                   "coords": [
                         26.277694,
@@ -22745,7 +22745,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Balta Neagră",
-                  "text": "A lake located in Gradistea, known for its natural surroundings.",
+                  "text": "A dark pond in the Grădiștea area.",
                   "category": "natural",
                   "coords": [
                         26.287938,
@@ -23416,7 +23416,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sărăcineanca",
-                  "text": "Ein natürlicher See in der Gegend von Ciolpani.",
+                  "text": "Ein See im Wald nahe Ciolpani.",
                   "category": "natural",
                   "coords": [
                         26.119606,
@@ -23547,7 +23547,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sărăcineanca",
-                  "text": "Természetes tó Ciolpani környékén.",
+                  "text": "Egy tó az erdőben Ciolpani közelében.",
                   "category": "natural",
                   "coords": [
                         26.119606,
@@ -23678,7 +23678,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sărăcineanca",
-                  "text": "Un lac natural situat în zona Ciolpani.",
+                  "text": "Un lac în pădurea de lângă Ciolpani.",
                   "category": "natural",
                   "coords": [
                         26.119606,
@@ -23809,7 +23809,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Sărăcineanca",
-                  "text": "A natural lake located in the Ciolpani area.",
+                  "text": "A lake in the forest near Ciolpani.",
                   "category": "natural",
                   "coords": [
                         26.119606,
@@ -23912,7 +23912,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina Spa Domnești",
-                  "text": "Moderner Wasserpark und Wellnesszentrum in Domnești.",
+                  "text": "Ein Schwimmbad und Spa in Domnești.",
                   "category": "recreational",
                   "coords": [
                         25.953182,
@@ -23921,7 +23921,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Eroilor",
-                  "text": "Ein den gefallenen Soldaten gewidmetes Denkmal in Domnești.",
+                  "text": "Ein Ehrenmal für die gefallenen Helden von Domnești.",
                   "category": "historical",
                   "coords": [
                         25.910968,
@@ -23968,7 +23968,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina Spa Domnești",
-                  "text": "Modern vízipark és wellnessközpont Domneștiben.",
+                  "text": "Egy uszoda és spa Domnești-ben.",
                   "category": "recreational",
                   "coords": [
                         25.953182,
@@ -23977,7 +23977,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Eroilor",
-                  "text": "Elesett katonáknak szentelt emlékmű Domneștiben.",
+                  "text": "Egy emlékmű Domnești hőseinek.",
                   "category": "historical",
                   "coords": [
                         25.910968,
@@ -24024,7 +24024,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina Spa Domnești",
-                  "text": "Parc acvatic modern și centru de wellness în Domnești.",
+                  "text": "O piscină și spa în Domnești.",
                   "category": "recreational",
                   "coords": [
                         25.953182,
@@ -24033,7 +24033,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Eroilor",
-                  "text": "Monument dedicat soldaților căzuți, situat în Domnești.",
+                  "text": "Un monument dedicat eroilor din Domnești.",
                   "category": "historical",
                   "coords": [
                         25.910968,
@@ -24080,7 +24080,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina Spa Domnești",
-                  "text": "Modern water park and wellness center in Domnești.",
+                  "text": "A swimming pool and spa in Domnești.",
                   "category": "recreational",
                   "coords": [
                         25.953182,
@@ -24089,7 +24089,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumentul Eroilor",
-                  "text": "Monument dedicated to fallen soldiers in Domnești.",
+                  "text": "A monument dedicated to the heroes of Domnești.",
                   "category": "historical",
                   "coords": [
                         25.910968,
@@ -24526,7 +24526,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Fortul Nr. 10 Leordeni",
-                  "text": "Eine historische Festungsanlage im Cernica-Wald bei Leordeni.",
+                  "text": "Eine Festung aus dem späten 19. Jahrhundert im Bukarester Gürtel, bei Leordeni.",
                   "category": "fortress",
                   "coords": [
                         26.219631,
@@ -24598,7 +24598,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Dobroești",
-                  "text": "Ein ruhiger See in Cernica, der zum Verweilen im Freien einlädt.",
+                  "text": "Ein See in der Nähe des Dobroești-Klosters.",
                   "category": "natural",
                   "coords": [
                         26.173695,
@@ -24658,7 +24658,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Fortul Nr. 10 Leordeni",
-                  "text": "Történelmi erődítmény a Cernica-erdőben, Leordeni közelében.",
+                  "text": "Egy 19. század végi erőd a Bukaresti védőövben, Leordeni mellett.",
                   "category": "fortress",
                   "coords": [
                         26.219631,
@@ -24730,7 +24730,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Dobroești",
-                  "text": "Egy csendes tó Cernica településen, amely szabadtéri pihenésre csábít.",
+                  "text": "Egy tó a Dobroești kolostor közelében.",
                   "category": "natural",
                   "coords": [
                         26.173695,
@@ -24790,7 +24790,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Fortul Nr. 10 Leordeni",
-                  "text": "O fortificație istorică situată în pădurea Cernica, lângă Leordeni.",
+                  "text": "Un fort de la sfârșitul secolului al XIX-lea din centura Bucureștiului, lângă Leordeni.",
                   "category": "fortress",
                   "coords": [
                         26.219631,
@@ -24862,7 +24862,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Dobroești",
-                  "text": "Un lac liniștit în Cernica, ce invită la petrecerea timpului în aer liber.",
+                  "text": "Un lac lângă mănăstirea Dobroești.",
                   "category": "natural",
                   "coords": [
                         26.173695,
@@ -24922,7 +24922,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Fortul Nr. 10 Leordeni",
-                  "text": "A historic fortification located in the Cernica forest near Leordeni.",
+                  "text": "A late-19th-century fort in the Bucharest defense belt, near Leordeni.",
                   "category": "fortress",
                   "coords": [
                         26.219631,
@@ -24994,7 +24994,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Dobroești",
-                  "text": "A quiet lake in Cernica, inviting outdoor relaxation.",
+                  "text": "A lake near the Dobroești monastery.",
                   "category": "natural",
                   "coords": [
                         26.173695,
@@ -25107,7 +25107,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Cernica",
-                  "text": "Der Lacul Cernica in Glina ist ein malerischer See, umgeben von natürlicher Schönheit.",
+                  "text": "Ein See am Fluss Cernica bei Glina.",
                   "category": "natural",
                   "coords": [
                         26.25824,
@@ -25170,7 +25170,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kiddo Play Academy",
-                  "text": "Kiddo Play Academy in Glina ist ein interaktiver Spielbereich für Kinder und Familien.",
+                  "text": "Ein Kinder-Indoorspielplatz in Glina.",
                   "category": "family",
                   "coords": [
                         26.150978,
@@ -25278,7 +25278,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Papa Ioan Paul II",
-                  "text": "Ein Denkmal in Glina, das Papst Johannes Paul II. gewidmet ist.",
+                  "text": "Ein Denkmal für Papst Johannes Paul II. in Glina.",
                   "category": "historical",
                   "coords": [
                         26.173272,
@@ -25344,7 +25344,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Cernica",
-                  "text": "A Lacul Cernica Glina területén egy festői tó, amelyet természeti szépség vesz körül.",
+                  "text": "Egy tó a Cernica folyón, Glina mellett.",
                   "category": "natural",
                   "coords": [
                         26.25824,
@@ -25407,7 +25407,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kiddo Play Academy",
-                  "text": "A Kiddo Play Academy Glina területén egy interaktív játszóhely gyerekeknek és családoknak.",
+                  "text": "Egy beltéri játszóház gyerekeknek Glina-ban.",
                   "category": "family",
                   "coords": [
                         26.150978,
@@ -25515,7 +25515,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Papa Ioan Paul II",
-                  "text": "II. János Pál pápának szentelt emlékmű Glinában.",
+                  "text": "II. János Pál pápa emlékműve Glina-ban.",
                   "category": "historical",
                   "coords": [
                         26.173272,
@@ -25581,7 +25581,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Cernica",
-                  "text": "Lacul Cernica din Glina este un lac pitoresc, înconjurat de frumusețe naturală.",
+                  "text": "Un lac pe râul Cernica lângă Glina.",
                   "category": "natural",
                   "coords": [
                         26.25824,
@@ -25644,7 +25644,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kiddo Play Academy",
-                  "text": "Kiddo Play Academy din Glina este un spațiu de joacă interactiv pentru copii și familii.",
+                  "text": "Un loc de joacă interior pentru copii în Glina.",
                   "category": "family",
                   "coords": [
                         26.150978,
@@ -25752,7 +25752,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Papa Ioan Paul II",
-                  "text": "Un monument din Glina dedicat Papei Ioan Paul al II-lea.",
+                  "text": "Un monument al Papei Ioan Paul al II-lea în Glina.",
                   "category": "historical",
                   "coords": [
                         26.173272,
@@ -25818,7 +25818,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Lacul Cernica",
-                  "text": "Lacul Cernica in Glina is a picturesque lake surrounded by natural beauty.",
+                  "text": "A lake on the Cernica River near Glina.",
                   "category": "natural",
                   "coords": [
                         26.25824,
@@ -25881,7 +25881,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Kiddo Play Academy",
-                  "text": "Kiddo Play Academy in Glina is an interactive play area for children and families.",
+                  "text": "An indoor play center for children in Glina.",
                   "category": "family",
                   "coords": [
                         26.150978,
@@ -25989,7 +25989,7 @@ export const romaniaCitiesV2: POI[] = [
             },
             {
                   "name": "Papa Ioan Paul II",
-                  "text": "A monument in Glina dedicated to Pope John Paul II.",
+                  "text": "A monument to Pope John Paul II in Glina.",
                   "category": "historical",
                   "coords": [
                         26.173272,

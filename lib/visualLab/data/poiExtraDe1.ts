@@ -2216,7 +2216,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Stauwehr Oberilzmühle",
-                  "text": "Badestelle am Stauwehr Oberilzmühle in Passau.",
+                  "text": "Stauwehr Oberilzmühle an der Ilz in Passau.",
                   "category": "recreational",
                   "coords": [
                         13.443962,
@@ -2225,7 +2225,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Innstrand",
-                  "text": "Strand am Inn in Passau.",
+                  "text": "Innstrand – Badestelle am Inn in Passau.",
                   "category": "recreational",
                   "coords": [
                         13.482743,
@@ -2243,7 +2243,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Spielplatz Mariahilf",
-                  "text": "Ein familienfreundlicher Spielplatz in der Nähe von Mariahilf in Passau.",
+                  "text": "Spielplatz Mariahilf am Mariahilfberg in Passau.",
                   "category": "family",
                   "coords": [
                         13.468705,
@@ -2422,7 +2422,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Stauwehr Oberilzmühle",
-                  "text": "Fürdőhely a passaui Oberilzmühle gátnál.",
+                  "text": "Oberilzmühle gát a Ilz folyón Passauban.",
                   "category": "recreational",
                   "coords": [
                         13.443962,
@@ -2431,7 +2431,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Innstrand",
-                  "text": "Inn-parti strand Passauban.",
+                  "text": "Innstrand – fürdőhely az Inn partján Passauban.",
                   "category": "recreational",
                   "coords": [
                         13.482743,
@@ -2449,7 +2449,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Spielplatz Mariahilf",
-                  "text": "Egy családbarát játszótér a passaui Mariahilf közelében.",
+                  "text": "Mariahilf játszótér a Mariahilf hegyen Passauban.",
                   "category": "family",
                   "coords": [
                         13.468705,
@@ -2628,7 +2628,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Stauwehr Oberilzmühle",
-                  "text": "Zonă de îmbăiere la barajul Oberilzmühle din Passau.",
+                  "text": "Barajul Oberilzmühle pe râul Ilz în Passau.",
                   "category": "recreational",
                   "coords": [
                         13.443962,
@@ -2637,7 +2637,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Innstrand",
-                  "text": "Plajă pe râul Inn în Passau.",
+                  "text": "Innstrand – plajă pe malul râului Inn în Passau.",
                   "category": "recreational",
                   "coords": [
                         13.482743,
@@ -2655,7 +2655,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Spielplatz Mariahilf",
-                  "text": "Un loc de joacă prietenos pentru familii în apropiere de Mariahilf în Passau.",
+                  "text": "Locul de joacă Mariahilf pe dealul Mariahilf din Passau.",
                   "category": "family",
                   "coords": [
                         13.468705,
@@ -2834,7 +2834,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Stauwehr Oberilzmühle",
-                  "text": "Swimming spot at the Oberilzmühle dam in Passau.",
+                  "text": "Oberilzmühle weir on the Ilz River in Passau.",
                   "category": "recreational",
                   "coords": [
                         13.443962,
@@ -2843,7 +2843,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Innstrand",
-                  "text": "Beach on the Inn river in Passau.",
+                  "text": "Innstrand – bathing spot on the Inn River in Passau.",
                   "category": "recreational",
                   "coords": [
                         13.482743,
@@ -2861,7 +2861,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Spielplatz Mariahilf",
-                  "text": "A family-friendly playground near Mariahilf in Passau.",
+                  "text": "Mariahilf playground on Mariahilf Hill in Passau.",
                   "category": "family",
                   "coords": [
                         13.468705,
@@ -3500,7 +3500,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Badewiese Familienbereich",
-                  "text": "Die Badewiese Familienbereich ist ein familienfreundlicher Badeplatz am Walchensee.",
+                  "text": "Familienbadewiese am Walchensee.",
                   "category": "recreational",
                   "coords": [
                         11.318567,
@@ -3583,7 +3583,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Badewiese Familienbereich",
-                  "text": "A Badewiese Familienbereich egy családbarát fürdőhely a Walchensee partján.",
+                  "text": "Családi fürdőrét a Walchensee-nél.",
                   "category": "recreational",
                   "coords": [
                         11.318567,
@@ -3666,7 +3666,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Badewiese Familienbereich",
-                  "text": "Badewiese Familienbereich este o zonă de înot orientată spre familii pe malul lacului Walchensee.",
+                  "text": "Pajiște de scăldat pentru familii la lacul Walchensee.",
                   "category": "recreational",
                   "coords": [
                         11.318567,
@@ -3749,7 +3749,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Badewiese Familienbereich",
-                  "text": "Badewiese Familienbereich is a family-oriented swimming area on the Walchensee.",
+                  "text": "Family bathing meadow at Walchensee.",
                   "category": "recreational",
                   "coords": [
                         11.318567,
@@ -4419,7 +4419,7 @@ export const poiExtraDe1: POI[] = [
       "de": [
             {
                   "name": "Schloss Au",
-                  "text": "Ein historisches Schloss im Hopfenanbaugebiet Hallertau.",
+                  "text": "Renaissanceschloss Au in der Hopfenregion Hallertau.",
                   "category": "castle",
                   "coords": [
                         11.742809,
@@ -4493,7 +4493,7 @@ export const poiExtraDe1: POI[] = [
       "hu": [
             {
                   "name": "Schloss Au",
-                  "text": "Történelmi kastély a hallertaui komlótermesztő vidéken.",
+                  "text": "Au reneszánsz kastély a Hallertau komlótermő régióban.",
                   "category": "castle",
                   "coords": [
                         11.742809,
@@ -4567,7 +4567,7 @@ export const poiExtraDe1: POI[] = [
       "ro": [
             {
                   "name": "Schloss Au",
-                  "text": "Un castel istoric situat în regiunea viticolă Hallertau.",
+                  "text": "Castelul renascentist Au în regiunea de hamei Hallertau.",
                   "category": "castle",
                   "coords": [
                         11.742809,
@@ -4641,7 +4641,7 @@ export const poiExtraDe1: POI[] = [
       "en": [
             {
                   "name": "Schloss Au",
-                  "text": "A historic castle located in the Hallertau hop-growing region.",
+                  "text": "Renaissance castle Schloss Au in the Hallertau hop-growing region.",
                   "category": "castle",
                   "coords": [
                         11.742809,
@@ -5428,7 +5428,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Lehrschwimmbecken",
-                  "text": "Das Lehrschwimmbecken in Münster ist ein schönes Ziel für Familien.",
+                  "text": "Lehrschwimmbecken in Münster.",
                   "category": "family",
                   "coords": [
                         7.593832,
@@ -5455,7 +5455,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Zaubersee",
-                  "text": "Der Zaubersee in Münster ist ein schönes Ziel für Familien.",
+                  "text": "Zaubersee – ein Märchensee für Familien in Münster.",
                   "category": "family",
                   "coords": [
                         7.610685,
@@ -6002,7 +6002,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Lehrschwimmbecken",
-                  "text": "A Münsterben található Lehrschwimmbecken remek helyszín családok számára.",
+                  "text": "Tanuszoda Münsterben.",
                   "category": "family",
                   "coords": [
                         7.593832,
@@ -6029,7 +6029,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Zaubersee",
-                  "text": "A Münsterben található Zaubersee remek helyszín családok számára.",
+                  "text": "Zaubersee – mesebeli tó családoknak Münsterben.",
                   "category": "family",
                   "coords": [
                         7.610685,
@@ -6569,7 +6569,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Lehrschwimmbecken",
-                  "text": "Lehrschwimmbecken din Münster este o destinație frumoasă pentru familii.",
+                  "text": "Bazin de învățare în Münster.",
                   "category": "family",
                   "coords": [
                         7.593832,
@@ -6596,7 +6596,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Zaubersee",
-                  "text": "Zaubersee din Münster este o destinație frumoasă pentru familii.",
+                  "text": "Zaubersee – un lac fermecat pentru familii în Münster.",
                   "category": "family",
                   "coords": [
                         7.610685,
@@ -7143,7 +7143,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Lehrschwimmbecken",
-                  "text": "The Lehrschwimmbecken in Münster is a great destination for families.",
+                  "text": "Teaching swimming pool in Münster.",
                   "category": "family",
                   "coords": [
                         7.593832,
@@ -7170,7 +7170,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Zaubersee",
-                  "text": "The Zaubersee in Münster is a great destination for families.",
+                  "text": "Zaubersee – a magical lake for families in Münster.",
                   "category": "family",
                   "coords": [
                         7.610685,
@@ -9772,7 +9772,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Südlicher Griessee",
-                  "text": "Der Südliche Griessee in Ulm ist ein idyllischer See in einer naturnahen Umgebung.",
+                  "text": "Südlicher Griessee – ein See südlich von Ulm.",
                   "category": "natural",
                   "coords": [
                         10.065196,
@@ -9790,7 +9790,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Werzler See",
-                  "text": "Der Werzler See in Ulm ist ein ruhiger Ort für Naturliebhaber.",
+                  "text": "Werzler See – ein Badesee bei Ulm.",
                   "category": "natural",
                   "coords": [
                         10.043015,
@@ -9826,7 +9826,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Werzler Weiher",
-                  "text": "Der Werzler Weiher in Ulm ist ein kleiner, malerischer Teich in der Region.",
+                  "text": "Werzler Weiher – ein kleiner Teich bei Ulm.",
                   "category": "natural",
                   "coords": [
                         10.045485,
@@ -9835,7 +9835,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Röhrensee",
-                  "text": "Der Röhrensee in Ulm ist ein schöner Ort für einen Spaziergang im Freien.",
+                  "text": "Röhrensee – ein See im Ulmer Stadtgebiet.",
                   "category": "natural",
                   "coords": [
                         10.034683,
@@ -9853,7 +9853,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Burlafinger Kiesgrube",
-                  "text": "Die Burlafinger Kiesgrube in Ulm ist ein See, der von Natur umgeben ist.",
+                  "text": "Burlafinger Kiesgrube – ein ehemaliger Kiesabbau, heute See bei Ulm.",
                   "category": "natural",
                   "coords": [
                         10.053404,
@@ -10348,7 +10348,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Südlicher Griessee",
-                  "text": "Az ulmi Südliche Griessee egy idilli tó természetközeli környezetben.",
+                  "text": "Südlicher Griessee – egy tó Ulm déli részén.",
                   "category": "natural",
                   "coords": [
                         10.065196,
@@ -10366,7 +10366,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Werzler See",
-                  "text": "Az ulmi Werzler See egy csendes hely a természet kedvelőinek.",
+                  "text": "Werzler See – fürdő tó Ulm mellett.",
                   "category": "natural",
                   "coords": [
                         10.043015,
@@ -10402,7 +10402,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Werzler Weiher",
-                  "text": "Az ulmi Werzler Weiher egy kicsi, festői tó a régióban.",
+                  "text": "Werzler Weiher – egy kis tó Ulm mellett.",
                   "category": "natural",
                   "coords": [
                         10.045485,
@@ -10411,7 +10411,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Röhrensee",
-                  "text": "Az ulmi Röhrensee szép hely egy szabadtéri sétához.",
+                  "text": "Röhrensee – egy tó Ulm város területén.",
                   "category": "natural",
                   "coords": [
                         10.034683,
@@ -10429,7 +10429,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Burlafinger Kiesgrube",
-                  "text": "Az ulmi Burlafinger Kiesgrube egy természettel körülvett tó.",
+                  "text": "Burlafinger Kiesgrube – egykori kavicsbánya, ma tó Ulm mellett.",
                   "category": "natural",
                   "coords": [
                         10.053404,
@@ -10924,7 +10924,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Südlicher Griessee",
-                  "text": "Südlicher Griessee din Ulm este un lac idilic într-un mediu natural.",
+                  "text": "Südlicher Griessee – un lac la sud de Ulm.",
                   "category": "natural",
                   "coords": [
                         10.065196,
@@ -10942,7 +10942,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Werzler See",
-                  "text": "Werzler See din Ulm este un loc liniștit pentru iubitorii de natură.",
+                  "text": "Werzler See – un lac de scăldat lângă Ulm.",
                   "category": "natural",
                   "coords": [
                         10.043015,
@@ -10978,7 +10978,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Werzler Weiher",
-                  "text": "Werzler Weiher din Ulm este un iaz mic și pitoresc din regiune.",
+                  "text": "Werzler Weiher – un iaz lângă Ulm.",
                   "category": "natural",
                   "coords": [
                         10.045485,
@@ -10987,7 +10987,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Röhrensee",
-                  "text": "Röhrensee din Ulm este un loc frumos pentru o plimbare în aer liber.",
+                  "text": "Röhrensee – un lac în zona urbană a Ulmului.",
                   "category": "natural",
                   "coords": [
                         10.034683,
@@ -11005,7 +11005,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Burlafinger Kiesgrube",
-                  "text": "Burlafinger Kiesgrube din Ulm este un lac înconjurat de natură.",
+                  "text": "Burlafinger Kiesgrube – o fostă carieră de pietriș, acum lac lângă Ulm.",
                   "category": "natural",
                   "coords": [
                         10.053404,
@@ -11500,7 +11500,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Südlicher Griessee",
-                  "text": "The Südlicher Griessee in Ulm is an idyllic lake in a natural setting.",
+                  "text": "Südlicher Griessee – a lake south of Ulm.",
                   "category": "natural",
                   "coords": [
                         10.065196,
@@ -11518,7 +11518,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Werzler See",
-                  "text": "The Werzler See in Ulm is a quiet place for nature lovers.",
+                  "text": "Werzler See – a swimming lake near Ulm.",
                   "category": "natural",
                   "coords": [
                         10.043015,
@@ -11554,7 +11554,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Werzler Weiher",
-                  "text": "The Werzler Weiher in Ulm is a small, picturesque pond in the region.",
+                  "text": "Werzler Weiher – a small pond near Ulm.",
                   "category": "natural",
                   "coords": [
                         10.045485,
@@ -11563,7 +11563,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Röhrensee",
-                  "text": "The Röhrensee in Ulm is a beautiful place for a walk outdoors.",
+                  "text": "Röhrensee – a lake within Ulm city limits.",
                   "category": "natural",
                   "coords": [
                         10.034683,
@@ -11581,7 +11581,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Burlafinger Kiesgrube",
-                  "text": "The Burlafinger Kiesgrube in Ulm is a lake surrounded by nature.",
+                  "text": "Burlafinger Kiesgrube – a former gravel pit turned lake near Ulm.",
                   "category": "natural",
                   "coords": [
                         10.053404,
@@ -12342,7 +12342,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Neues Kunstmuseum Tübingen",
-                  "text": "Ein Museum für zeitgenössische Kunst in Tübingen.",
+                  "text": "Neues Kunstmuseum Tübingen – Museum für moderne Kunst in Tübingen.",
                   "category": "museum",
                   "coords": [
                         9.084478,
@@ -12360,7 +12360,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Tübinger Freibad",
-                  "text": "Ein großes öffentliches Freibad in Tübingen.",
+                  "text": "Freibad in Tübingen.",
                   "category": "family",
                   "coords": [
                         9.040291,
@@ -12369,7 +12369,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Shedhalle",
-                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst in Tübingen.",
+                  "text": "Shedhalle – ehemalige Fabrikhalle, heute Ausstellungsraum in Tübingen.",
                   "category": "museum",
                   "coords": [
                         9.065568,
@@ -12378,7 +12378,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Ödenburg",
-                  "text": "Überreste einer mittelalterlichen Burganlage bei Tübingen.",
+                  "text": "Burgruine Ödenburg auf einem Hügel oberhalb von Tübingen.",
                   "category": "historical",
                   "coords": [
                         9.026391,
@@ -12387,7 +12387,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Alter Botanischer Garten",
-                  "text": "Eine historische Parkanlage im Zentrum von Tübingen.",
+                  "text": "Alter Botanischer Garten – historischer Botanischer Garten in Tübingen.",
                   "category": "park",
                   "coords": [
                         9.056845,
@@ -12432,7 +12432,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Baggersee Hirschau",
-                  "text": "Der Baggersee Hirschau in Tübingen ist ein schönes Ziel für Spaziergänge in der natürlichen Umgebung.",
+                  "text": "Baggersee Hirschau – Badesee bei Tübingen.",
                   "category": "natural",
                   "coords": [
                         9.003359,
@@ -12756,7 +12756,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Neues Kunstmuseum Tübingen",
-                  "text": "Kortárs művészeti múzeum Tübingenben.",
+                  "text": "Neues Kunstmuseum Tübingen – modern művészeti múzeum Tübingenben.",
                   "category": "museum",
                   "coords": [
                         9.084478,
@@ -12774,7 +12774,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Tübinger Freibad",
-                  "text": "Nagy nyilvános szabadtéri strandfürdő Tübingenben.",
+                  "text": "Tübingeni szabadtéri uszoda.",
                   "category": "family",
                   "coords": [
                         9.040291,
@@ -12783,7 +12783,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Shedhalle",
-                  "text": "Kortárs művészeti kiállítótér Tübingenben.",
+                  "text": "Shedhalle – egykori gyárépület, ma kiállítótér Tübingenben.",
                   "category": "museum",
                   "coords": [
                         9.065568,
@@ -12792,7 +12792,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Ödenburg",
-                  "text": "Egy középkori vár maradványai Tübingen közelében.",
+                  "text": "Ödenburg várrom egy dombon Tübingen felett.",
                   "category": "historical",
                   "coords": [
                         9.026391,
@@ -12801,7 +12801,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Alter Botanischer Garten",
-                  "text": "Történelmi parkerdő Tübingen központjában.",
+                  "text": "Alter Botanischer Garten – történelmi botanikus kert Tübingenben.",
                   "category": "park",
                   "coords": [
                         9.056845,
@@ -12846,7 +12846,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Baggersee Hirschau",
-                  "text": "A tübingeni Baggersee Hirschau kellemes úticél a természetes környezetben tett sétákhoz.",
+                  "text": "Baggersee Hirschau – fürdő tó Tübingen mellett.",
                   "category": "natural",
                   "coords": [
                         9.003359,
@@ -13170,7 +13170,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Neues Kunstmuseum Tübingen",
-                  "text": "Un muzeu de artă contemporană în Tübingen.",
+                  "text": "Neues Kunstmuseum Tübingen – muzeu de artă modernă în Tübingen.",
                   "category": "museum",
                   "coords": [
                         9.084478,
@@ -13188,7 +13188,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Tübinger Freibad",
-                  "text": "Un ștrand public mare în Tübingen.",
+                  "text": "Piscină în aer liber în Tübingen.",
                   "category": "family",
                   "coords": [
                         9.040291,
@@ -13197,7 +13197,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Shedhalle",
-                  "text": "Un spațiu expozițional pentru artă contemporană în Tübingen.",
+                  "text": "Shedhalle – fostă hală de fabrică, acum spațiu expozițional în Tübingen.",
                   "category": "museum",
                   "coords": [
                         9.065568,
@@ -13206,7 +13206,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Ödenburg",
-                  "text": "Ruinele unei cetăți medievale de lângă Tübingen.",
+                  "text": "Ruina cetății Ödenburg pe un deal deasupra Tübingenului.",
                   "category": "historical",
                   "coords": [
                         9.026391,
@@ -13215,7 +13215,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Alter Botanischer Garten",
-                  "text": "Un parc istoric situat în centrul orașului Tübingen.",
+                  "text": "Alter Botanischer Garten – grădină botanică istorică în Tübingen.",
                   "category": "park",
                   "coords": [
                         9.056845,
@@ -13260,7 +13260,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Baggersee Hirschau",
-                  "text": "Baggersee Hirschau din Tübingen este o destinație frumoasă pentru plimbări în mediul natural.",
+                  "text": "Baggersee Hirschau – lac de scăldat lângă Tübingen.",
                   "category": "natural",
                   "coords": [
                         9.003359,
@@ -13584,7 +13584,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Neues Kunstmuseum Tübingen",
-                  "text": "A museum for contemporary art in Tübingen.",
+                  "text": "Neues Kunstmuseum Tübingen – modern art museum in Tübingen.",
                   "category": "museum",
                   "coords": [
                         9.084478,
@@ -13602,7 +13602,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Tübinger Freibad",
-                  "text": "A large public outdoor swimming pool in Tübingen.",
+                  "text": "Tübingen outdoor swimming pool.",
                   "category": "family",
                   "coords": [
                         9.040291,
@@ -13611,7 +13611,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Shedhalle",
-                  "text": "An exhibition space for contemporary art in Tübingen.",
+                  "text": "Shedhalle – former factory hall turned exhibition space in Tübingen.",
                   "category": "museum",
                   "coords": [
                         9.065568,
@@ -13620,7 +13620,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Ödenburg",
-                  "text": "Remains of a medieval castle complex near Tübingen.",
+                  "text": "Castle ruin Ödenburg on a hill above Tübingen.",
                   "category": "historical",
                   "coords": [
                         9.026391,
@@ -13629,7 +13629,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Alter Botanischer Garten",
-                  "text": "A historical park in the center of Tübingen.",
+                  "text": "Alter Botanischer Garten – historic botanical garden in Tübingen.",
                   "category": "park",
                   "coords": [
                         9.056845,
@@ -13674,7 +13674,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Baggersee Hirschau",
-                  "text": "Baggersee Hirschau in Tuebingen is a nice destination for walks in the natural surroundings.",
+                  "text": "Baggersee Hirschau – swimming lake near Tübingen.",
                   "category": "natural",
                   "coords": [
                         9.003359,
@@ -13999,7 +13999,7 @@ export const poiExtraDe1: POI[] = [
       "de": [
             {
                   "name": "Strandbad Windgfällweiher",
-                  "text": "Das Strandbad Windgfällweiher liegt nahe am Titisee.",
+                  "text": "Strandbad Windgfällweiher – Badesee mit Strand im Schwarzwald bei Titisee.",
                   "category": "recreational",
                   "coords": [
                         8.127723,
@@ -14010,7 +14010,7 @@ export const poiExtraDe1: POI[] = [
       "hu": [
             {
                   "name": "Strandbad Windgfällweiher",
-                  "text": "A Strandbad Windgfällweiher strand a Titisee tó közelében található.",
+                  "text": "Strandbad Windgfällweiher – fürdő tó stranddal a Fekete-erdőben, Titisee mellett.",
                   "category": "recreational",
                   "coords": [
                         8.127723,
@@ -14021,7 +14021,7 @@ export const poiExtraDe1: POI[] = [
       "ro": [
             {
                   "name": "Strandbad Windgfällweiher",
-                  "text": "Strandul Windgfällweiher este situat în apropiere de lacul Titisee.",
+                  "text": "Strandbad Windgfällweiher – lac de scăldat cu plajă în Pădurea Neagră, lângă Titisee.",
                   "category": "recreational",
                   "coords": [
                         8.127723,
@@ -14032,7 +14032,7 @@ export const poiExtraDe1: POI[] = [
       "en": [
             {
                   "name": "Strandbad Windgfällweiher",
-                  "text": "Strandbad Windgfällweiher is located near Lake Titisee.",
+                  "text": "Strandbad Windgfällweiher – swimming lake with beach in the Black Forest near Titisee.",
                   "category": "recreational",
                   "coords": [
                         8.127723,
@@ -14540,7 +14540,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Obere Bommerweiher",
-                  "text": "Ein naturnaher Weiher in Konstanz, der sich hervorragend für Spaziergänge eignet.",
+                  "text": "Obere Bommerweiher – ein Weiher bei Konstanz.",
                   "category": "natural",
                   "coords": [
                         9.157578,
@@ -14675,7 +14675,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Mainau Kinderland",
-                  "text": "Das Mainau Kinderland ist ein Spieleparadies für Kinder auf der Blumeninsel Mainau.",
+                  "text": "Mainau Kinderland – Erlebnisbereich für Kinder auf der Insel Mainau im Bodensee.",
                   "category": "family",
                   "coords": [
                         9.191898,
@@ -14738,7 +14738,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Piazza Cisternino",
-                  "text": "Die Piazza Cisternino ist ein gestalteter Bereich für Freizeit und Begegnung in Konstanz.",
+                  "text": "Piazza Cisternino ist ein familienfreundlicher Platz mit Brunnen in der Altstadt von Konstanz.",
                   "category": "family",
                   "coords": [
                         9.174507,
@@ -14747,7 +14747,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Seerheinbad Tägerwilen",
-                  "text": "Das Seerheinbad Tägerwilen ist ein Ort für Entspannung und Baden am Wasser.",
+                  "text": "Das Seerheinbad Tägerwilen ist ein Freibad am Seerhein nahe Konstanz.",
                   "category": "family",
                   "coords": [
                         9.144115,
@@ -15051,7 +15051,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Obere Bommerweiher",
-                  "text": "Természetközeli tavacska Konstanzban, amely kiválóan alkalmas sétákra.",
+                  "text": "Obere Bommerweiher – egy tó Konstanz mellett.",
                   "category": "natural",
                   "coords": [
                         9.157578,
@@ -15186,7 +15186,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Mainau Kinderland",
-                  "text": "A Mainau Kinderland egy játékparadicsom a gyerekeknek a Mainau virágszigeten.",
+                  "text": "Mainau Kinderland – gyermekélménypark a Mainau szigeten a Bodeni-tón.",
                   "category": "family",
                   "coords": [
                         9.191898,
@@ -15249,7 +15249,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Piazza Cisternino",
-                  "text": "A Piazza Cisternino egy szabadidős és találkozási hely Konstanzban.",
+                  "text": "A Piazza Cisternino egy családbarát tér szökőkúttal Konstanz óvárosában.",
                   "category": "family",
                   "coords": [
                         9.174507,
@@ -15258,7 +15258,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Seerheinbad Tägerwilen",
-                  "text": "A tägerwileni Seerheinbad a kikapcsolódás és a vízi fürdőzés helyszíne.",
+                  "text": "A Seerheinbad Tägerwilen egy szabadtéri fürdő a Seerhein partján, Konstanz közelében.",
                   "category": "family",
                   "coords": [
                         9.144115,
@@ -15562,7 +15562,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Obere Bommerweiher",
-                  "text": "Un iaz aproape de natură în Constance, excelent pentru plimbări.",
+                  "text": "Obere Bommerweiher – un iaz lângă Konstanz.",
                   "category": "natural",
                   "coords": [
                         9.157578,
@@ -15697,7 +15697,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Mainau Kinderland",
-                  "text": "Mainau Kinderland este un paradis al jocurilor pentru copii pe insula florilor Mainau.",
+                  "text": "Mainau Kinderland – zonă de aventuri pentru copii pe insula Mainau din Lacul Constanța.",
                   "category": "family",
                   "coords": [
                         9.191898,
@@ -15760,7 +15760,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Piazza Cisternino",
-                  "text": "Piazza Cisternino este o zonă amenajată pentru recreere și întâlniri în Konstanz.",
+                  "text": "Piazza Cisternino este o piață pentru familii cu o fântână în centrul vechi al Constanței.",
                   "category": "family",
                   "coords": [
                         9.174507,
@@ -15769,7 +15769,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Seerheinbad Tägerwilen",
-                  "text": "Seerheinbad Tägerwilen este un loc pentru relaxare și scăldat pe malul apei.",
+                  "text": "Seerheinbad Tägerwilen este o baie în aer liber pe malul râului Seerhein, lângă Konstanz.",
                   "category": "family",
                   "coords": [
                         9.144115,
@@ -16073,7 +16073,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Obere Bommerweiher",
-                  "text": "A natural pond in Constance, excellent for walks.",
+                  "text": "Obere Bommerweiher – a pond near Konstanz.",
                   "category": "natural",
                   "coords": [
                         9.157578,
@@ -16208,7 +16208,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Mainau Kinderland",
-                  "text": "The Mainau Kinderland is a play paradise for children on the flower island of Mainau.",
+                  "text": "Mainau Kinderland – children's adventure area on Mainau Island in Lake Constance.",
                   "category": "family",
                   "coords": [
                         9.191898,
@@ -16271,7 +16271,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Piazza Cisternino",
-                  "text": "The Piazza Cisternino is a designed area for leisure and encounter in Constance.",
+                  "text": "Piazza Cisternino is a family-friendly square with a fountain in Konstanz's old town.",
                   "category": "family",
                   "coords": [
                         9.174507,
@@ -16280,7 +16280,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Seerheinbad Tägerwilen",
-                  "text": "The Seerheinbad Tägerwilen is a place for relaxation and bathing by the water.",
+                  "text": "Seerheinbad Tägerwilen is an outdoor swimming area on the Seerhein river near Konstanz.",
                   "category": "family",
                   "coords": [
                         9.144115,
@@ -16653,7 +16653,124 @@ export const poiExtraDe1: POI[] = [
       "tr": ["Saray, 1695 yılında Schloss Lützenburg adıyla kuruldu.", "Kraliçe Sophie Charlotte'un 1705'teki ölümünden sonra onun onuruna yeniden adlandırıldı.", "Dikkat çekici saray kubbesi toplam 48 metre yüksekliğe ulaşır.", "İkinci Dünya Savaşı'nda saray, 1943'teki bir hava saldırısında ağır hasar gördü.", "Külliye, Frankreich dışındaki en büyük 18. yüzyıl Fransız resim koleksiyonuna ev sahipliği yapar.", "Saray bahçesi, 1697'den itibaren Siméon Godeau tarafından Versailles örnek alınarak düzenlendi."]}, image: "/poi-images/landmark-charlottenburg-palace-extra.webp"},
 
   {
-    id: "forest-grunewald-extra", "sights": {"de": [{"name": "Hundebadestelle", "text": "Hundebadestelle im Grunewald bei Berlin.", "category": "recreational", "coords": [13.259048, 52.480219]}, {"name": "Radfahrerwiese", "text": "Die Radfahrerwiese befindet sich im Grunewald.", "category": "recreational", "coords": [13.18958, 52.458791]}, {"name": "Badestrand für Alle", "text": "Mitten im grünen Grunewald von Berlin lockt der Badestrand für Alle als unkompliziertes Ausflugsziel ans Wasser. Die entspannte, lokale Atmosphäre zieht Städter an, die an warmen Tagen Abkühlung suchen oder gemütlich am Ufer sitzen möchten. Bäume spenden natürlichen Schatten, während das kühle Nass zu einer spontanen Erfrischung einlädt. Besonders am Wochenende ist es ein lebhafter Treffpunkt, weshalb sich eine frühe Anreise empfiehlt.", "category": "recreational", "coords": [13.239586, 52.454429]}], "hu": [{"name": "Hundebadestelle", "text": "Kutyás fürdőhely a berlini Grunewald erdőben.", "category": "recreational", "coords": [13.259048, 52.480219]}, {"name": "Radfahrerwiese", "text": "A Radfahrerwiese a Grunewald erdőben található.", "category": "recreational", "coords": [13.18958, 52.458791]}, {"name": "Badestrand für Alle", "text": "A berlini zöldellő Grunewald szívében található Badestrand für Alle egyszerű és nagyszerű vízparti kirándulóhely. A nyugodt, helyi légkör vonzza a városiakat, akik a meleg napokon hűsölni vágynak, vagy csak kényelmesen szeretnének ülni a parton. A fák természetes árnyékot adnak, a hűs víz pedig egy spontán felfrissülésre csábít. Különösen hétvégén nyüzsgő találkozóhely, ezért érdemes korán érkezni.", "category": "recreational", "coords": [13.239586, 52.454429]}], "ro": [{"name": "Hundebadestelle", "text": "Zonă de îmbăiere pentru câini în pădurea Grunewald, lângă Berlin.", "category": "recreational", "coords": [13.259048, 52.480219]}, {"name": "Radfahrerwiese", "text": "Radfahrerwiese se află în pădurea Grunewald.", "category": "recreational", "coords": [13.18958, 52.458791]}, {"name": "Badestrand für Alle", "text": "În mijlocul pădurii verzi Grunewald din Berlin, Badestrand pentru Toți atrage ca o destinație de excursie necomplicată la malul apei. Atmosfera relaxată și locală atrage orășenii care caută răcorire în zilele călduroase sau care doresc să stea confortabil pe țărm. Copacii oferă umbră naturală, în timp ce apa rece vă invită la o împrospătare spontană. Mai ales în weekend, este un loc de întâlnire plin de viață, motiv pentru care se recomandă sosirea devreme.", "category": "recreational", "coords": [13.239586, 52.454429]}], "en": [{"name": "Hundebadestelle", "text": "Dog beach in the Grunewald forest near Berlin.", "category": "recreational", "coords": [13.259048, 52.480219]}, {"name": "Radfahrerwiese", "text": "Radfahrerwiese is located in the Grunewald forest.", "category": "recreational", "coords": [13.18958, 52.458791]}, {"name": "Badestrand für Alle", "text": "Right in the middle of Berlin's lush Grunewald, the Badestrand für Alle beckons as an uncomplicated waterfront excursion destination. The relaxed, highly local atmosphere draws city dwellers looking to cool down on warm days or simply sit comfortably by the shore. Trees provide wonderful natural shade, while the cool water practically begs for a spontaneous refreshing dip. It is a particularly lively gathering place on weekends, so an early arrival is definitely recommended.", "category": "recreational", "coords": [13.239586, 52.454429]}]},
+    id: "forest-grunewald-extra", "sights": {
+      "de": [
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Die Hundebadestelle im Grunewald ist ein ausgewiesener Bereich für Hunde am Teufelssee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.259048,
+                        52.480219
+                  ]
+            },
+            {
+                  "name": "Radfahrerwiese",
+                  "text": "Die Radfahrerwiese im Grunewald ist eine Wiese speziell für Radfahrer und Picknicks.",
+                  "category": "recreational",
+                  "coords": [
+                        13.18958,
+                        52.458791
+                  ]
+            },
+            {
+                  "name": "Badestrand für Alle",
+                  "text": "Mitten im grünen Grunewald von Berlin lockt der Badestrand für Alle als unkompliziertes Ausflugsziel ans Wasser. Die entspannte, lokale Atmosphäre zieht Städter an, die an warmen Tagen Abkühlung suchen oder gemütlich am Ufer sitzen möchten. Bäume spenden natürlichen Schatten, während das kühle Nass zu einer spontanen Erfrischung einlädt. Besonders am Wochenende ist es ein lebhafter Treffpunkt, weshalb sich eine frühe Anreise empfiehlt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.239586,
+                        52.454429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hundebadestelle",
+                  "text": "A Grunewald-i Hundebadestelle egy kijelölt kutyafürdő a Teufelssee-nél.",
+                  "category": "recreational",
+                  "coords": [
+                        13.259048,
+                        52.480219
+                  ]
+            },
+            {
+                  "name": "Radfahrerwiese",
+                  "text": "A Grunewald-i Radfahrerwiese egy rét, amelyet kerékpárosok számára alakítottak ki piknikezéssel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.18958,
+                        52.458791
+                  ]
+            },
+            {
+                  "name": "Badestrand für Alle",
+                  "text": "A berlini zöldellő Grunewald szívében található Badestrand für Alle egyszerű és nagyszerű vízparti kirándulóhely. A nyugodt, helyi légkör vonzza a városiakat, akik a meleg napokon hűsölni vágynak, vagy csak kényelmesen szeretnének ülni a parton. A fák természetes árnyékot adnak, a hűs víz pedig egy spontán felfrissülésre csábít. Különösen hétvégén nyüzsgő találkozóhely, ezért érdemes korán érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        13.239586,
+                        52.454429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Hundebadestelle din Grunewald este o zonă amenajată pentru câini lângă lacul Teufelssee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.259048,
+                        52.480219
+                  ]
+            },
+            {
+                  "name": "Radfahrerwiese",
+                  "text": "Radfahrerwiese din Grunewald este o pajiște dedicată cicliștilor și picnicurilor.",
+                  "category": "recreational",
+                  "coords": [
+                        13.18958,
+                        52.458791
+                  ]
+            },
+            {
+                  "name": "Badestrand für Alle",
+                  "text": "În mijlocul pădurii verzi Grunewald din Berlin, Badestrand pentru Toți atrage ca o destinație de excursie necomplicată la malul apei. Atmosfera relaxată și locală atrage orășenii care caută răcorire în zilele călduroase sau care doresc să stea confortabil pe țărm. Copacii oferă umbră naturală, în timp ce apa rece vă invită la o împrospătare spontană. Mai ales în weekend, este un loc de întâlnire plin de viață, motiv pentru care se recomandă sosirea devreme.",
+                  "category": "recreational",
+                  "coords": [
+                        13.239586,
+                        52.454429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Hundebadestelle in Grunewald is a designated dog bathing area at the Teufelssee lake.",
+                  "category": "recreational",
+                  "coords": [
+                        13.259048,
+                        52.480219
+                  ]
+            },
+            {
+                  "name": "Radfahrerwiese",
+                  "text": "Radfahrerwiese in Grunewald is a meadow for cyclists and picnics.",
+                  "category": "recreational",
+                  "coords": [
+                        13.18958,
+                        52.458791
+                  ]
+            },
+            {
+                  "name": "Badestrand für Alle",
+                  "text": "Right in the middle of Berlin's lush Grunewald, the Badestrand für Alle beckons as an uncomplicated waterfront excursion destination. The relaxed, highly local atmosphere draws city dwellers looking to cool down on warm days or simply sit comfortably by the shore. Trees provide wonderful natural shade, while the cool water practically begs for a spontaneous refreshing dip. It is a particularly lively gathering place on weekends, so an early arrival is definitely recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        13.239586,
+                        52.454429
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DE-BE",
     coords: [13.2167, 52.4833],
@@ -16729,7 +16846,7 @@ export const poiExtraDe1: POI[] = [
       "de": [
             {
                   "name": "Kleine Badewiese",
-                  "text": "Kleine Badewiese an der Havel in Berlin.",
+                  "text": "Die Kleine Badewiese an der Havel in Berlin ist eine kleine Wiese zum Baden am Fluss.",
                   "category": "recreational",
                   "coords": [
                         13.1858,
@@ -16738,7 +16855,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Kuhhorn",
-                  "text": "Strand Kuhhorn an der Havel in Berlin.",
+                  "text": "Kuhhorn ist ein Erholungsgebiet an der Havel in Berlin mit Liegewiesen und Badezugang.",
                   "category": "recreational",
                   "coords": [
                         13.191111,
@@ -16749,7 +16866,7 @@ export const poiExtraDe1: POI[] = [
       "hu": [
             {
                   "name": "Kleine Badewiese",
-                  "text": "Kleine Badewiese a berlini Havel folyónál.",
+                  "text": "A Kleine Badewiese a Havel folyónál Berlinben egy kis rét fürdőzésre a folyó partján.",
                   "category": "recreational",
                   "coords": [
                         13.1858,
@@ -16758,7 +16875,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Kuhhorn",
-                  "text": "Kuhhorn strand a berlini Havel folyónál.",
+                  "text": "A Kuhhorn egy rekreációs terület a Havel partján Berlinben, napozórétekkel és strandbejárattal.",
                   "category": "recreational",
                   "coords": [
                         13.191111,
@@ -16769,7 +16886,7 @@ export const poiExtraDe1: POI[] = [
       "ro": [
             {
                   "name": "Kleine Badewiese",
-                  "text": "Kleine Badewiese pe râul Havel în Berlin.",
+                  "text": "Kleine Badewiese pe râul Havel din Berlin este o mică pajiște pentru scăldat pe malul râului.",
                   "category": "recreational",
                   "coords": [
                         13.1858,
@@ -16778,7 +16895,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Kuhhorn",
-                  "text": "Plaja Kuhhorn de pe râul Havel, Berlin.",
+                  "text": "Kuhhorn este o zonă de agrement pe malul râului Havel din Berlin, cu pajiști și acces la înot.",
                   "category": "recreational",
                   "coords": [
                         13.191111,
@@ -16789,7 +16906,7 @@ export const poiExtraDe1: POI[] = [
       "en": [
             {
                   "name": "Kleine Badewiese",
-                  "text": "Kleine Badewiese on the river Havel in Berlin.",
+                  "text": "Kleine Badewiese on the Havel River in Berlin is a small lawn for swimming by the river.",
                   "category": "recreational",
                   "coords": [
                         13.1858,
@@ -16798,7 +16915,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Kuhhorn",
-                  "text": "Kuhhorn beach on the Havel river in Berlin.",
+                  "text": "Kuhhorn is a recreational area on the Havel river in Berlin with lawns and swimming access.",
                   "category": "recreational",
                   "coords": [
                         13.191111,
@@ -17099,7 +17216,7 @@ export const poiExtraDe1: POI[] = [
       "de": [
             {
                   "name": "Badestelle Kleiner Müggelsee",
-                  "text": "Badestelle am kleinen Müggelsee.",
+                  "text": "Die Badestelle am Kleinen Müggelsee in Berlin ist ein ausgewiesener Badebereich am See.",
                   "category": "recreational",
                   "coords": [
                         13.677312,
@@ -17108,7 +17225,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Kamerun",
-                  "text": "Der Strand Kamerun liegt am Müggelsee.",
+                  "text": "Kamerun ist ein Strandabschnitt am Müggelsee mit Sandstrand und Wassersportmöglichkeiten.",
                   "category": "recreational",
                   "coords": [
                         13.604607,
@@ -17117,7 +17234,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Läufer",
-                  "text": "Der Strand Läufer liegt am Müggelsee.",
+                  "text": "Läufer ist eine Laufstrecke entlang des Müggelsees mit Fitnessgeräten.",
                   "category": "recreational",
                   "coords": [
                         13.622312,
@@ -17126,7 +17243,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Surferwiese",
-                  "text": "Die Surferwiese liegt am Müggelsee.",
+                  "text": "Die Surferwiese am Müggelsee ist eine Wiese für Surfer und Sonnenanbeter.",
                   "category": "recreational",
                   "coords": [
                         13.652906,
@@ -17137,7 +17254,7 @@ export const poiExtraDe1: POI[] = [
       "hu": [
             {
                   "name": "Badestelle Kleiner Müggelsee",
-                  "text": "Fürdőhely a kis Müggelsee tónál.",
+                  "text": "A Kleiner Müggelsee fürdőhely Berlinben egy kijelölt fürdőzőhely a tó partján.",
                   "category": "recreational",
                   "coords": [
                         13.677312,
@@ -17146,7 +17263,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Kamerun",
-                  "text": "A Kamerun strand a Müggelsee tónál található.",
+                  "text": "A Kamerun egy homokos strand a Müggelsee-nél, vízi sportokkal.",
                   "category": "recreational",
                   "coords": [
                         13.604607,
@@ -17155,7 +17272,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Läufer",
-                  "text": "A Läufer strand a Müggelsee tónál található.",
+                  "text": "A Läufer egy futópálya a Müggelsee mentén, fitneszeszközökkel.",
                   "category": "recreational",
                   "coords": [
                         13.622312,
@@ -17164,7 +17281,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Surferwiese",
-                  "text": "A Surferwiese fürdőhely a Müggelsee tónál található.",
+                  "text": "A Müggelsee-i Surferwiese egy rét szörfösöknek és napozóknak.",
                   "category": "recreational",
                   "coords": [
                         13.652906,
@@ -17175,7 +17292,7 @@ export const poiExtraDe1: POI[] = [
       "ro": [
             {
                   "name": "Badestelle Kleiner Müggelsee",
-                  "text": "Loc de scăldat la lacul mic Müggelsee.",
+                  "text": "Zona de scăldat Kleiner Müggelsee din Berlin este o zonă amenajată pentru înot pe malul lacului.",
                   "category": "recreational",
                   "coords": [
                         13.677312,
@@ -17184,7 +17301,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Kamerun",
-                  "text": "Plaja Kamerun este situată la lacul Müggelsee.",
+                  "text": "Kamerun este o porțiune de plajă cu nisip pe lacul Müggelsee, cu sporturi nautice.",
                   "category": "recreational",
                   "coords": [
                         13.604607,
@@ -17193,7 +17310,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Läufer",
-                  "text": "Plaja Läufer este situată la lacul Müggelsee.",
+                  "text": "Läufer este o pistă de alergare de-a lungul lacului Müggelsee, cu echipamente de fitness.",
                   "category": "recreational",
                   "coords": [
                         13.622312,
@@ -17202,7 +17319,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Surferwiese",
-                  "text": "Surferwiese este situată la lacul Müggelsee.",
+                  "text": "Suprafața Surferwiese de pe lacul Müggelsee este o pajiște pentru surferi și plajă.",
                   "category": "recreational",
                   "coords": [
                         13.652906,
@@ -17213,7 +17330,7 @@ export const poiExtraDe1: POI[] = [
       "en": [
             {
                   "name": "Badestelle Kleiner Müggelsee",
-                  "text": "Bathing area at the small Müggelsee lake.",
+                  "text": "The bathing spot on Kleiner Müggelsee in Berlin is a designated swimming area on the lake.",
                   "category": "recreational",
                   "coords": [
                         13.677312,
@@ -17222,7 +17339,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Kamerun",
-                  "text": "Kamerun beach is located on Lake Mueggelsee.",
+                  "text": "Kamerun is a sandy beach section on Lake Müggelsee with water sports.",
                   "category": "recreational",
                   "coords": [
                         13.604607,
@@ -17231,7 +17348,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Läufer",
-                  "text": "Läufer beach is located on Lake Mueggelsee.",
+                  "text": "Läufer is a running trail along Lake Müggelsee with fitness equipment.",
                   "category": "recreational",
                   "coords": [
                         13.622312,
@@ -17240,7 +17357,7 @@ export const poiExtraDe1: POI[] = [
             },
             {
                   "name": "Surferwiese",
-                  "text": "Surferwiese is located on Lake Mueggelsee.",
+                  "text": "Surferwiese on Lake Müggelsee is a meadow for surfers and sunbathers.",
                   "category": "recreational",
                   "coords": [
                         13.652906,

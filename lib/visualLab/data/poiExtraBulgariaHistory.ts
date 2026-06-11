@@ -248,7 +248,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       "de": [
             {
                   "name": "Yuzhen plazh",
-                  "text": "Der Südstrand bei Nessebar am Schwarzen Meer.",
+                  "text": "Der Südstrand von Nessebar, eine breite Sandfläche mit Blick auf die Befestigungen der Altstadt.",
                   "category": "recreational",
                   "coords": [
                         27.716534,
@@ -268,7 +268,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       "hu": [
             {
                   "name": "Yuzhen plazh",
-                  "text": "Nessebar déli strandja a Fekete-tenger partján.",
+                  "text": "Nessebar déli strandja, széles homokos partszakasz a belváros erődítményeire néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         27.716534,
@@ -288,7 +288,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       "ro": [
             {
                   "name": "Yuzhen plazh",
-                  "text": "Plaja de sud din Nessebar, la Marea Neagră.",
+                  "text": "Plaja de Sud a Nessebarului, o întindere largă de nisip cu vedere la fortificațiile orașului vechi.",
                   "category": "recreational",
                   "coords": [
                         27.716534,
@@ -308,7 +308,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       "en": [
             {
                   "name": "Yuzhen plazh",
-                  "text": "The south beach near Nessebar on the Black Sea.",
+                  "text": "The southern beach of Nessebar, a wide sandy stretch with views of the old town's fortifications.",
                   "category": "recreational",
                   "coords": [
                         27.716534,
@@ -463,7 +463,7 @@ export const poiExtraBulgariaHistory: POI[] = [
             },
             {
                   "name": "Akvapark Waterland",
-                  "text": "Wasserpark mit Rutschen und Becken in Kasanlak.",
+                  "text": "Ein Wasserpark mit Rutschen und Becken, beliebt für Familienausflüge in Kazanlak.",
                   "category": "recreational",
                   "coords": [
                         25.426717,
@@ -528,7 +528,7 @@ export const poiExtraBulgariaHistory: POI[] = [
             },
             {
                   "name": "Akvapark Waterland",
-                  "text": "Csúszdákkal és medencékkel felszerelt vízipark Kazanlakban.",
+                  "text": "Egy vízipark csúszdákkal és medencékkel, népszerű családi kirándulásokhoz Kazanlakban.",
                   "category": "recreational",
                   "coords": [
                         25.426717,
@@ -593,7 +593,7 @@ export const poiExtraBulgariaHistory: POI[] = [
             },
             {
                   "name": "Akvapark Waterland",
-                  "text": "Parc acvatic cu tobogane și piscine în Kazanlâk.",
+                  "text": "Un parc acvatic cu tobogane și piscine, popular pentru excursii de familie în Kazanlâk.",
                   "category": "recreational",
                   "coords": [
                         25.426717,
@@ -658,7 +658,7 @@ export const poiExtraBulgariaHistory: POI[] = [
             },
             {
                   "name": "Akvapark Waterland",
-                  "text": "Water park with slides and pools located in Kazanlak.",
+                  "text": "A water park with slides and pools, popular for family outings in Kazanlak.",
                   "category": "recreational",
                   "coords": [
                         25.426717,

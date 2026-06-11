@@ -53,7 +53,7 @@ imageHint: "Stockholm Royal Palace facade at day",
       "de": [
             {
                   "name": "Långholmens klippbad",
-                  "text": "Långholmens klippbad ist ein Felsenstrand bei Stockholm.",
+                  "text": "Långholmens klippbad – Klippenbad auf Långholmen nahe dem Stockholmer Rathaus.",
                   "category": "recreational",
                   "coords": [
                         18.034881,
@@ -62,7 +62,7 @@ imageHint: "Stockholm Royal Palace facade at day",
             },
             {
                   "name": "Tanto strandbad",
-                  "text": "Tanto strandbad ist ein Strand bei Stockholm.",
+                  "text": "Tanto strandbad ist ein beliebter Stadtstrand am Ufer von Södermalm, nur wenige Gehminuten vom Stockholmer Rathaus entfernt.",
                   "category": "recreational",
                   "coords": [
                         18.038447,
@@ -71,7 +71,7 @@ imageHint: "Stockholm Royal Palace facade at day",
             },
             {
                   "name": "Vintervikens badplats",
-                  "text": "Vintervikens Badplats befindet sich in Stockholm.",
+                  "text": "Ein Badeplatz in der Vinterviken-Bucht nahe dem Stockholmer Rathaus.",
                   "category": "recreational",
                   "coords": [
                         17.987857,
@@ -91,7 +91,7 @@ imageHint: "Stockholm Royal Palace facade at day",
       "hu": [
             {
                   "name": "Långholmens klippbad",
-                  "text": "Långholmens klippbad egy sziklás fürdőhely Stockholmban.",
+                  "text": "Långholmens klippbad – sziklafürdő Långholmen szigetén, a stockholmi városháza közelében.",
                   "category": "recreational",
                   "coords": [
                         18.034881,
@@ -100,7 +100,7 @@ imageHint: "Stockholm Royal Palace facade at day",
             },
             {
                   "name": "Tanto strandbad",
-                  "text": "Tanto strandbad egy strand Stockholm közelében.",
+                  "text": "Tanto strandbad egy népszerű városi strand a Södermalm partján, rövid sétára a Stockholmi Városházától.",
                   "category": "recreational",
                   "coords": [
                         18.038447,
@@ -109,7 +109,7 @@ imageHint: "Stockholm Royal Palace facade at day",
             },
             {
                   "name": "Vintervikens badplats",
-                  "text": "Vintervikens Badplats Stockholmban található.",
+                  "text": "Strand a Vinterviken-öbölben, a stockholmi városháza közelében.",
                   "category": "recreational",
                   "coords": [
                         17.987857,
@@ -129,7 +129,7 @@ imageHint: "Stockholm Royal Palace facade at day",
       "ro": [
             {
                   "name": "Långholmens klippbad",
-                  "text": "Långholmens klippbad este o plajă stâncoasă lângă Stockholm.",
+                  "text": "Långholmens klippbad – baie pe stânci pe insula Långholmen, lângă Primăria Stockholm.",
                   "category": "recreational",
                   "coords": [
                         18.034881,
@@ -138,7 +138,7 @@ imageHint: "Stockholm Royal Palace facade at day",
             },
             {
                   "name": "Tanto strandbad",
-                  "text": "Tanto strandbad este o plajă lângă Stockholm.",
+                  "text": "Tanto strandbad este o plajă urbană populară pe malul Södermalm, la câțiva pași de Primăria Stockholm.",
                   "category": "recreational",
                   "coords": [
                         18.038447,
@@ -147,7 +147,7 @@ imageHint: "Stockholm Royal Palace facade at day",
             },
             {
                   "name": "Vintervikens badplats",
-                  "text": "Vintervikens Badplats este situată în Stockholm.",
+                  "text": "O plajă în golful Vinterviken lângă Primăria Stockholm.",
                   "category": "recreational",
                   "coords": [
                         17.987857,
@@ -167,7 +167,7 @@ imageHint: "Stockholm Royal Palace facade at day",
       "en": [
             {
                   "name": "Långholmens klippbad",
-                  "text": "Långholmens klippbad is a rocky beach near Stockholm.",
+                  "text": "Långholmens klippbad – cliff baths on Långholmen island near Stockholm City Hall.",
                   "category": "recreational",
                   "coords": [
                         18.034881,
@@ -176,7 +176,7 @@ imageHint: "Stockholm Royal Palace facade at day",
             },
             {
                   "name": "Tanto strandbad",
-                  "text": "Tanto strandbad is a beach near Stockholm.",
+                  "text": "Tanto strandbad is a popular city beach on the Södermalm shore, a short walk from Stockholm City Hall.",
                   "category": "recreational",
                   "coords": [
                         18.038447,
@@ -185,7 +185,7 @@ imageHint: "Stockholm Royal Palace facade at day",
             },
             {
                   "name": "Vintervikens badplats",
-                  "text": "Vintervikens Badplats is located in Stockholm.",
+                  "text": "A bathing area in Vinterviken bay close to Stockholm City Hall.",
                   "category": "recreational",
                   "coords": [
                         17.987857,
@@ -562,7 +562,7 @@ imageHint: "Avicii Arena globe building Stockholm",
       "de": [
             {
                   "name": "Jerusalemsbadet",
-                  "text": "Jerusalemsbadet liegt am Göta-Kanal.",
+                  "text": "Ein historisches Badehaus am Göta-Kanal.",
                   "category": "recreational",
                   "coords": [
                         15.013311,
@@ -573,7 +573,7 @@ imageHint: "Avicii Arena globe building Stockholm",
       "hu": [
             {
                   "name": "Jerusalemsbadet",
-                  "text": "Jerusalemsbadet a Göta-csatorna mellett található.",
+                  "text": "Történelmi fürdőház a Göta-csatornán.",
                   "category": "recreational",
                   "coords": [
                         15.013311,
@@ -584,7 +584,7 @@ imageHint: "Avicii Arena globe building Stockholm",
       "ro": [
             {
                   "name": "Jerusalemsbadet",
-                  "text": "Jerusalemsbadet este situată pe canalul Göta.",
+                  "text": "O baie istorică pe Canalul Göta.",
                   "category": "recreational",
                   "coords": [
                         15.013311,
@@ -595,7 +595,7 @@ imageHint: "Avicii Arena globe building Stockholm",
       "en": [
             {
                   "name": "Jerusalemsbadet",
-                  "text": "Jerusalemsbadet is located by the Göta Canal.",
+                  "text": "A historic bathhouse on the Göta Canal.",
                   "category": "recreational",
                   "coords": [
                         15.013311,
@@ -708,7 +708,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Lönnbäcken fyr",
-                  "text": "Ein kleiner Leuchtturm im Schärengarten vor Marstrand.",
+                  "text": "Lönnbäcken fyr ist ein Leuchtturm auf der Insel Marstrand nahe der Festung Carlsten.",
                   "category": "landmark",
                   "coords": [
                         11.553028,
@@ -744,7 +744,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Skallen fyr",
-                  "text": "Ein Leuchtfeuer an der schwedischen Westküste bei Marstrand.",
+                  "text": "Skallen fyr ist ein Leuchtturm auf einer Schäre vor Marstrand, unterhalb der Festung Carlsten.",
                   "category": "landmark",
                   "coords": [
                         11.558283,
@@ -771,7 +771,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Varmvattenbadhus",
-                  "text": "Ein Warmwasserbadhaus auf der Festung Carlsten.",
+                  "text": "Ein Warmwasserbadhaus an der Festung Carlsten.",
                   "category": "recreational",
                   "coords": [
                         11.579015,
@@ -791,7 +791,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Lönnbäcken fyr",
-                  "text": "Kisméretű világítótorony a Marstrand előtti szigetvilágban.",
+                  "text": "Lönnbäcken fyr egy világítótorony a Marstrand szigetén, a Carlsten erőd közelében.",
                   "category": "landmark",
                   "coords": [
                         11.553028,
@@ -827,7 +827,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Skallen fyr",
-                  "text": "Világítótorony a svéd nyugati parton, Marstrand közelében.",
+                  "text": "Skallen fyr egy világítótorony egy sziklán Marstrand előtt, a Carlsten erőd alatt.",
                   "category": "landmark",
                   "coords": [
                         11.558283,
@@ -854,7 +854,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Varmvattenbadhus",
-                  "text": "A Carlsten-erődnél található melegvizes fürdőház.",
+                  "text": "Meleg vizes fürdőház a Carlsten erődnél.",
                   "category": "recreational",
                   "coords": [
                         11.579015,
@@ -874,7 +874,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Lönnbäcken fyr",
-                  "text": "Un far mic în arhipelagul de lângă Marstrand.",
+                  "text": "Lönnbäcken fyr este un far pe insula Marstrand, lângă Fortăreața Carlsten.",
                   "category": "landmark",
                   "coords": [
                         11.553028,
@@ -910,7 +910,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Skallen fyr",
-                  "text": "Un far pe coasta de vest a Suediei, lângă Marstrand.",
+                  "text": "Skallen fyr este un far pe un insulă stâncoasă din fața Marstrand, sub Fortăreața Carlsten.",
                   "category": "landmark",
                   "coords": [
                         11.558283,
@@ -937,7 +937,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Varmvattenbadhus",
-                  "text": "O baie cu apă caldă situată la Cetatea Carlsten.",
+                  "text": "O baie cu apă caldă la Fortăreața Carlsten.",
                   "category": "recreational",
                   "coords": [
                         11.579015,
@@ -957,7 +957,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Lönnbäcken fyr",
-                  "text": "A small lighthouse in the archipelago off Marstrand.",
+                  "text": "Lönnbäcken fyr is a lighthouse on the island of Marstrand near the Carlsten Fortress.",
                   "category": "landmark",
                   "coords": [
                         11.553028,
@@ -993,7 +993,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Skallen fyr",
-                  "text": "A lighthouse on the Swedish west coast near Marstrand.",
+                  "text": "Skallen fyr is a lighthouse on a skerry off Marstrand, below Carlsten Fortress.",
                   "category": "landmark",
                   "coords": [
                         11.558283,
@@ -1020,7 +1020,7 @@ imageHint: "Kiruna Church red wooden building",
             },
             {
                   "name": "Varmvattenbadhus",
-                  "text": "A warm water bathhouse located at Carlsten Fortress.",
+                  "text": "A warm-water bathhouse at Carlsten Fortress.",
                   "category": "recreational",
                   "coords": [
                         11.579015,
@@ -1883,7 +1883,7 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
       "de": [
             {
                   "name": "Svaneholm Vassen",
-                  "text": "Svaneholm Vassen ist ein Feuchtgebiet und Naturreservat beim Schloss Svaneholm.",
+                  "text": "Svaneholm Vassen ist ein Naturschutzgebiet mit Feuchtwiesen rund um Schloss Svaneholm.",
                   "category": "natural",
                   "coords": [
                         13.470734,
@@ -1946,7 +1946,7 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
             },
             {
                   "name": "Flygmuseum Stenbäcks",
-                  "text": "Das Flygmuseum Stenbäcks ist ein Luftfahrtmuseum in der Nähe von Skurup.",
+                  "text": "Ein Luftfahrtmuseum nahe Schloss Svaneholm.",
                   "category": "museum",
                   "coords": [
                         13.437614,
@@ -1966,7 +1966,7 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
       "hu": [
             {
                   "name": "Svaneholm Vassen",
-                  "text": "Svaneholm Vassen egy mocsaras természetvédelmi terület a Svaneholm-kastélynál.",
+                  "text": "Svaneholm Vassen egy természetvédelmi terület nedves rétekkel, a Svaneholm kastély körül.",
                   "category": "natural",
                   "coords": [
                         13.470734,
@@ -2029,7 +2029,7 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
             },
             {
                   "name": "Flygmuseum Stenbäcks",
-                  "text": "A Flygmuseum Stenbäcks egy repülési múzeum Skurup közelében.",
+                  "text": "Repülőmúzeum a Svaneholm-kastély közelében.",
                   "category": "museum",
                   "coords": [
                         13.437614,
@@ -2049,7 +2049,7 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
       "ro": [
             {
                   "name": "Svaneholm Vassen",
-                  "text": "Svaneholm Vassen este o zonă umedă și rezervație naturală de lângă castelul Svaneholm.",
+                  "text": "Svaneholm Vassen este o rezervație naturală cu pajiști umede în jurul Castelului Svaneholm.",
                   "category": "natural",
                   "coords": [
                         13.470734,
@@ -2112,7 +2112,7 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
             },
             {
                   "name": "Flygmuseum Stenbäcks",
-                  "text": "Muzeul Aviației Stenbäcks este un muzeu de profil situat lângă Skurup.",
+                  "text": "Un muzeu de aviație lângă Castelul Svaneholm.",
                   "category": "museum",
                   "coords": [
                         13.437614,
@@ -2132,7 +2132,7 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
       "en": [
             {
                   "name": "Svaneholm Vassen",
-                  "text": "Svaneholm Vassen is a wetland area and nature reserve near Svaneholm Castle.",
+                  "text": "Svaneholm Vassen is a nature reserve with wet meadows surrounding Svaneholm Castle.",
                   "category": "natural",
                   "coords": [
                         13.470734,
@@ -2195,7 +2195,7 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
             },
             {
                   "name": "Flygmuseum Stenbäcks",
-                  "text": "Flygmuseum Stenbäcks is an aviation museum located near Skurup.",
+                  "text": "An aviation museum near Svaneholm Castle.",
                   "category": "museum",
                   "coords": [
                         13.437614,
@@ -2571,7 +2571,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
       "de": [
             {
                   "name": "Tinkarpsbadet",
-                  "text": "Tinkarpsbadet liegt in der Nähe von Schloss Sofiero.",
+                  "text": "Ein Badeplatz im Park von Schloss Sofiero.",
                   "category": "recreational",
                   "coords": [
                         12.665672,
@@ -2580,7 +2580,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Pålsjöbaden",
-                  "text": "Pålsjöbaden ist eine historische Badeanstalt bei Schloss Sofiero.",
+                  "text": "Ein Strandbad in Pålsjö nahe Schloss Sofiero.",
                   "category": "recreational",
                   "coords": [
                         12.676677,
@@ -2589,7 +2589,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Vikingstrand",
-                  "text": "Vikingstrand befindet sich bei Schloss Sofiero.",
+                  "text": "Ein Wikinger-Motivstrand nahe Schloss Sofiero.",
                   "category": "recreational",
                   "coords": [
                         12.669387,
@@ -2600,7 +2600,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
       "hu": [
             {
                   "name": "Tinkarpsbadet",
-                  "text": "Tinkarpsbadet a Sofiero-kastély közelében található.",
+                  "text": "Strand a Sofiero-kastély parkjában.",
                   "category": "recreational",
                   "coords": [
                         12.665672,
@@ -2609,7 +2609,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Pålsjöbaden",
-                  "text": "Pålsjöbaden egy történelmi fürdőhely a Sofiero-kastély közelében.",
+                  "text": "Strand Pålsjöban, a Sofiero-kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         12.676677,
@@ -2618,7 +2618,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Vikingstrand",
-                  "text": "Vikingstrand a Sofiero-kastély közelében található.",
+                  "text": "Viking tematikus strand a Sofiero-kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         12.669387,
@@ -2629,7 +2629,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
       "ro": [
             {
                   "name": "Tinkarpsbadet",
-                  "text": "Tinkarpsbadet este situată în apropierea Castelului Sofiero.",
+                  "text": "O plajă în parcul Castelului Sofiero.",
                   "category": "recreational",
                   "coords": [
                         12.665672,
@@ -2638,7 +2638,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Pålsjöbaden",
-                  "text": "Pålsjöbaden este o baie istorică lângă Castelul Sofiero.",
+                  "text": "O plajă în Pålsjö lângă Castelul Sofiero.",
                   "category": "recreational",
                   "coords": [
                         12.676677,
@@ -2647,7 +2647,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Vikingstrand",
-                  "text": "Vikingstrand este situată lângă Castelul Sofiero.",
+                  "text": "O plajă cu tematică vikingă lângă Castelul Sofiero.",
                   "category": "recreational",
                   "coords": [
                         12.669387,
@@ -2658,7 +2658,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
       "en": [
             {
                   "name": "Tinkarpsbadet",
-                  "text": "Tinkarpsbadet is located near Sofiero Palace.",
+                  "text": "A bathing spot in the grounds of Sofiero Palace.",
                   "category": "recreational",
                   "coords": [
                         12.665672,
@@ -2667,7 +2667,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Pålsjöbaden",
-                  "text": "Pålsjöbaden is a historic bathing facility near Sofiero Palace.",
+                  "text": "A beach at Pålsjö near Sofiero Palace.",
                   "category": "recreational",
                   "coords": [
                         12.676677,
@@ -2676,7 +2676,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Vikingstrand",
-                  "text": "Vikingstrand is located near Sofiero Palace.",
+                  "text": "A Viking-themed beach near Sofiero Palace.",
                   "category": "recreational",
                   "coords": [
                         12.669387,
@@ -2740,7 +2740,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Scenen Södra Bruket",
-                  "text": "Eine Bühne für kulturelle Veranstaltungen und Theateraufführungen.",
+                  "text": "Eine Freilichtbühne in Södra Bruket nahe der Eketorp-Festung.",
                   "category": "cultural",
                   "coords": [
                         16.408573,
@@ -2749,7 +2749,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Albrunna naturreservat",
-                  "text": "Ein Naturschutzgebiet mit einer vielfältigen Flora und Fauna.",
+                  "text": "Ein Naturreservat mit Kalksteinflächen auf Öland nahe der Eketorp-Festung.",
                   "category": "natural",
                   "coords": [
                         16.430823,
@@ -2758,7 +2758,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Albrunna lunds naturreservat",
-                  "text": "Ein geschütztes Waldgebiet mit wertvollem Baumbestand.",
+                  "text": "Ein bewaldetes Naturreservat in Albrunna auf Öland nahe der Eketorp-Festung.",
                   "category": "natural",
                   "coords": [
                         16.415546,
@@ -2805,7 +2805,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Scenen Södra Bruket",
-                  "text": "Kulturális események és színházi előadások helyszíne.",
+                  "text": "Szabadtéri színpad Södra Bruketben, az Eketorp-erőd közelében.",
                   "category": "cultural",
                   "coords": [
                         16.408573,
@@ -2814,7 +2814,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Albrunna naturreservat",
-                  "text": "Változatos flórával és faunával rendelkező természetvédelmi terület.",
+                  "text": "Természetvédelmi terület mészkőmezőkkel Ölandon, az Eketorp-erőd közelében.",
                   "category": "natural",
                   "coords": [
                         16.430823,
@@ -2823,7 +2823,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Albrunna lunds naturreservat",
-                  "text": "Védett erdei terület értékes faállománnyal.",
+                  "text": "Erdős természetvédelmi terület Albrunnában, Ölandon, az Eketorp-erőd közelében.",
                   "category": "natural",
                   "coords": [
                         16.415546,
@@ -2870,7 +2870,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Scenen Södra Bruket",
-                  "text": "O scenă pentru evenimente culturale și spectacole de teatru.",
+                  "text": "O scenă în aer liber la Södra Bruket lângă Fortăreața Eketorp.",
                   "category": "cultural",
                   "coords": [
                         16.408573,
@@ -2879,7 +2879,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Albrunna naturreservat",
-                  "text": "O rezervație naturală cu o floră și faună diversă.",
+                  "text": "O rezervație naturală cu calcar pe Öland lângă Fortăreața Eketorp.",
                   "category": "natural",
                   "coords": [
                         16.430823,
@@ -2888,7 +2888,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Albrunna lunds naturreservat",
-                  "text": "O zonă forestieră protejată cu arbori valoroși.",
+                  "text": "O rezervație naturală împădurită la Albrunna pe Öland lângă Fortăreața Eketorp.",
                   "category": "natural",
                   "coords": [
                         16.415546,
@@ -2935,7 +2935,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Scenen Södra Bruket",
-                  "text": "A stage for cultural events and theater performances.",
+                  "text": "An outdoor stage at Södra Bruket near Eketorp Fortress.",
                   "category": "cultural",
                   "coords": [
                         16.408573,
@@ -2944,7 +2944,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Albrunna naturreservat",
-                  "text": "A nature reserve featuring a diverse flora and fauna.",
+                  "text": "A nature reserve with limestone pavement on Öland near Eketorp Fortress.",
                   "category": "natural",
                   "coords": [
                         16.430823,
@@ -2953,7 +2953,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Albrunna lunds naturreservat",
-                  "text": "A protected woodland area with valuable tree stands.",
+                  "text": "A wooded nature reserve at Albrunna on Öland near Eketorp Fortress.",
                   "category": "natural",
                   "coords": [
                         16.415546,
@@ -3227,7 +3227,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Mejeriviken",
-                  "text": "Ein beliebter Strandabschnitt in der Nähe von Schloss Borgholm.",
+                  "text": "Eine Badebucht nahe Schloss Borgholm.",
                   "category": "recreational",
                   "coords": [
                         16.669995,
@@ -3310,7 +3310,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Mejeriviken",
-                  "text": "Népszerű strand szakasz a Borgholm vár közelében.",
+                  "text": "Strand-öböl a Borgholm-kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         16.669995,
@@ -3393,7 +3393,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Mejeriviken",
-                  "text": "O secțiune de plajă populară lângă castelul Borgholm.",
+                  "text": "Un golf de scăldat lângă Castelul Borgholm.",
                   "category": "recreational",
                   "coords": [
                         16.669995,
@@ -3476,7 +3476,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
             },
             {
                   "name": "Mejeriviken",
-                  "text": "A popular beach section near Borgholm Castle.",
+                  "text": "A swimming bay near Borgholm Castle.",
                   "category": "recreational",
                   "coords": [
                         16.669995,

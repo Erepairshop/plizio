@@ -871,7 +871,7 @@ export const austriaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Ahornkogl",
-                  "text": "Ein Berggipfel im Naturpark Sölktäler.",
+                  "text": "Der Ahornkogl ist ein von Ahornbäumen bewachsener Hügel im Naturpark Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.115007,
@@ -880,7 +880,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Gaßeneck",
-                  "text": "Ein markanter Gipfel in der Region des Naturparks Sölktäler.",
+                  "text": "Das Gaßeneck ist eine schmale Pass-Ecke im Naturpark Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.048165,
@@ -898,7 +898,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Riesnerkrispen",
-                  "text": "Ein Gipfel im Sölktäler Naturpark in der Steiermark.",
+                  "text": "Die Riesnerkrispen ist ein Grat im Naturpark Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.091782,
@@ -907,7 +907,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Steinkarspitze",
-                  "text": "Ein Berggipfel im Gebiet des Naturparks Sölktäler.",
+                  "text": "Die Steinkarspitze ist ein felsiger Kargipfel im Naturpark Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.072005,
@@ -927,7 +927,7 @@ export const austriaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Ahornkogl",
-                  "text": "Hegycsúcs a Sölktäler Natúrparkban.",
+                  "text": "Az Ahornkogl egy juharfákkal borított domb a Sölktäler Natúrparkban.",
                   "category": "landmark",
                   "coords": [
                         14.115007,
@@ -936,7 +936,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Gaßeneck",
-                  "text": "Jellegzetes hegycsúcs a Sölktäler Natúrpark területén.",
+                  "text": "A Gaßeneck egy keskeny hágó-sarok a Sölktäler Natúrparkban.",
                   "category": "landmark",
                   "coords": [
                         14.048165,
@@ -954,7 +954,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Riesnerkrispen",
-                  "text": "Hegycsúcs a stájerországi Sölktäler Natúrparkban.",
+                  "text": "A Riesnerkrispen egy gerinc a Sölktäler Natúrparkban.",
                   "category": "landmark",
                   "coords": [
                         14.091782,
@@ -963,7 +963,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Steinkarspitze",
-                  "text": "Hegycsúcs a Sölktäler Natúrpark területén.",
+                  "text": "A Steinkarspitze egy sziklás kár-csúcs a Sölktäler Natúrparkban.",
                   "category": "landmark",
                   "coords": [
                         14.072005,
@@ -983,7 +983,7 @@ export const austriaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Ahornkogl",
-                  "text": "Un vârf montan în Parcul Natural Sölktäler.",
+                  "text": "Ahornkogl este o colină acoperită de arțari în Parcul Natural Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.115007,
@@ -992,7 +992,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Gaßeneck",
-                  "text": "Un vârf montan în regiunea Parcului Natural Sölktäler.",
+                  "text": "Gaßeneck este un colț îngust de trecătoare în Parcul Natural Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.048165,
@@ -1010,7 +1010,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Riesnerkrispen",
-                  "text": "Un vârf în Parcul Natural Sölktäler din Stiria.",
+                  "text": "Riesnerkrispen este o creastă în Parcul Natural Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.091782,
@@ -1019,7 +1019,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Steinkarspitze",
-                  "text": "Un vârf montan în zona Parcului Natural Sölktäler.",
+                  "text": "Steinkarspitze este un vârf stâncos de circ glaciar în Parcul Natural Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.072005,
@@ -1039,7 +1039,7 @@ export const austriaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Ahornkogl",
-                  "text": "A mountain peak in the Sölktäler Nature Park.",
+                  "text": "Ahornkogl is a maple-covered hill in the Naturpark Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.115007,
@@ -1048,7 +1048,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Gaßeneck",
-                  "text": "A mountain peak in the Sölktäler Nature Park region.",
+                  "text": "Gaßeneck is a narrow pass corner in the Naturpark Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.048165,
@@ -1066,7 +1066,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Riesnerkrispen",
-                  "text": "A peak in the Sölktäler Nature Park in Styria.",
+                  "text": "Riesnerkrispen is a ridge in the Naturpark Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.091782,
@@ -1075,7 +1075,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Steinkarspitze",
-                  "text": "A mountain peak in the Sölktäler Nature Park area.",
+                  "text": "Steinkarspitze is a rocky cirque peak in the Naturpark Sölktäler.",
                   "category": "landmark",
                   "coords": [
                         14.072005,
@@ -1996,7 +1996,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Fossilienschauraum",
-                  "text": "Ein Ausstellungsraum für regionale Fossilienfunde.",
+                  "text": "Fossilienschauraum mit regionalen Funden im Wildpark Ernstbrunn.",
                   "category": "museum",
                   "coords": [
                         16.37656,
@@ -2061,7 +2061,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Fossilienschauraum",
-                  "text": "A környéken talált fosszíliákat bemutató kiállítóterem.",
+                  "text": "Ősleleteket bemutató kiállítóterem az Ernstbrunni Vadasparkban.",
                   "category": "museum",
                   "coords": [
                         16.37656,
@@ -2126,7 +2126,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Fossilienschauraum",
-                  "text": "O sală de expoziție pentru descoperiri fosile regionale.",
+                  "text": "Sala de expoziții cu fosile locale în Parcul Faunistic Ernstbrunn.",
                   "category": "museum",
                   "coords": [
                         16.37656,
@@ -2191,7 +2191,7 @@ export const austriaLifeV2: POI[] = [
             },
             {
                   "name": "Fossilienschauraum",
-                  "text": "An exhibition room for regional fossil finds.",
+                  "text": "Fossil display room with local finds at Ernstbrunn Wildlife Park.",
                   "category": "museum",
                   "coords": [
                         16.37656,

@@ -36,7 +36,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centre Culturel Canada",
-                  "text": "Das Centre Culturel Canada ist ein Kunst- und Kulturzentrum in Toamasina.",
+                  "text": "Das nach Kanada benannte Kulturzentrum in Toamasina.",
                   "category": "cultural",
                   "coords": [
                         49.410109,
@@ -47,7 +47,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Culturel Canada",
-                  "text": "A Centre Culturel Canada egy művészeti és kulturális központ Toamasina városában.",
+                  "text": "A Kanadáról elnevezett kulturális központ Toamasinában.",
                   "category": "cultural",
                   "coords": [
                         49.410109,
@@ -58,7 +58,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Culturel Canada",
-                  "text": "Centre Culturel Canada este un centru de artă și cultură din Toamasina.",
+                  "text": "Centrul cultural numit după Canada din Toamasina.",
                   "category": "cultural",
                   "coords": [
                         49.410109,
@@ -69,7 +69,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centre Culturel Canada",
-                  "text": "Centre Culturel Canada is an arts and cultural centre in Toamasina.",
+                  "text": "The Canada-named cultural centre in Toamasina.",
                   "category": "cultural",
                   "coords": [
                         49.410109,
@@ -116,7 +116,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée de la propriété intellectuelle",
-                  "text": "Das Musée de la propriété intellectuelle ist ein lokales Museum in Antsirabe.",
+                  "text": "Das Museum für geistiges Eigentum in Antsirabe.",
                   "category": "museum",
                   "coords": [
                         47.043145,
@@ -125,7 +125,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame-de-la-Salette",
-                  "text": "Die Cathédrale Notre-Dame-de-la-Salette ist eine markante katholische Kathedrale in Antsirabe.",
+                  "text": "Cathédrale Notre-Dame-de-la-Salette ist die Kathedrale des Bistums Antsirabe.",
                   "category": "religious",
                   "coords": [
                         47.034977,
@@ -136,7 +136,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée de la propriété intellectuelle",
-                  "text": "A Musée de la propriété intellectuelle egy helyi múzeum Antsirabe városában.",
+                  "text": "A szellemi tulajdon múzeuma Antsirabében.",
                   "category": "museum",
                   "coords": [
                         47.043145,
@@ -145,7 +145,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame-de-la-Salette",
-                  "text": "A Cathédrale Notre-Dame-de-la-Salette egy kiemelkedő katolikus katedrális Antsirabe városában.",
+                  "text": "A Notre-Dame-de-la-Salette-székesegyház az Antsirabe-i egyházmegye székesegyháza.",
                   "category": "religious",
                   "coords": [
                         47.034977,
@@ -156,7 +156,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée de la propriété intellectuelle",
-                  "text": "Musée de la propriété intellectuelle este un muzeu local situat în Antsirabe.",
+                  "text": "Muzeul proprietății intelectuale din Antsirabe.",
                   "category": "museum",
                   "coords": [
                         47.043145,
@@ -165,7 +165,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame-de-la-Salette",
-                  "text": "Cathédrale Notre-Dame-de-la-Salette este o importantă catedrală catolică situată în Antsirabe.",
+                  "text": "Catedrala Notre-Dame-de-la-Salette este catedrala diecezei de Antsirabe.",
                   "category": "religious",
                   "coords": [
                         47.034977,
@@ -176,7 +176,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée de la propriété intellectuelle",
-                  "text": "Musée de la propriété intellectuelle is a local museum situated in Antsirabe.",
+                  "text": "The Museum of Intellectual Property in Antsirabe.",
                   "category": "museum",
                   "coords": [
                         47.043145,
@@ -185,7 +185,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame-de-la-Salette",
-                  "text": "Cathédrale Notre-Dame-de-la-Salette is a prominent Catholic cathedral located in Antsirabe.",
+                  "text": "Cathédrale Notre-Dame-de-la-Salette is the cathedral of the Diocese of Antsirabe.",
                   "category": "religious",
                   "coords": [
                         47.034977,
@@ -235,7 +235,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée Diocèse Fianarantsoa",
-                  "text": "Museum in Fianarantsoa.",
+                  "text": "Das Diözesanmuseum von Fianarantsoa.",
                   "category": "museum",
                   "coords": [
                         47.076232,
@@ -244,7 +244,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Notre Dame de Lourdes",
-                  "text": "Aquarium in Fianarantsoa.",
+                  "text": "Das religiöse Zentrum Notre Dame de Lourdes in Fianarantsoa.",
                   "category": "family",
                   "coords": [
                         47.10935,
@@ -253,7 +253,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Fania",
-                  "text": "Museum in Fianarantsoa.",
+                  "text": "Das Museum Fania in Fianarantsoa.",
                   "category": "museum",
                   "coords": [
                         47.088297,
@@ -264,7 +264,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée Diocèse Fianarantsoa",
-                  "text": "Múzeum Fianarantsoában.",
+                  "text": "A Fianarantsoa-i egyházmegye múzeuma.",
                   "category": "museum",
                   "coords": [
                         47.076232,
@@ -273,7 +273,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Notre Dame de Lourdes",
-                  "text": "Akvárium Fianarantsoában.",
+                  "text": "A Fianarantsoa-i Notre Dame de Lourdes központ.",
                   "category": "family",
                   "coords": [
                         47.10935,
@@ -282,7 +282,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Fania",
-                  "text": "Múzeum Fianarantsoában.",
+                  "text": "A Fania múzeum Fianarantsoában.",
                   "category": "museum",
                   "coords": [
                         47.088297,
@@ -293,7 +293,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée Diocèse Fianarantsoa",
-                  "text": "Muzeu în Fianarantsoa.",
+                  "text": "Muzeul Diecezei din Fianarantsoa.",
                   "category": "museum",
                   "coords": [
                         47.076232,
@@ -302,7 +302,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Notre Dame de Lourdes",
-                  "text": "Acvariu în Fianarantsoa.",
+                  "text": "Centrul Notre Dame de Lourdes din Fianarantsoa.",
                   "category": "family",
                   "coords": [
                         47.10935,
@@ -311,7 +311,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Fania",
-                  "text": "Muzeu în Fianarantsoa.",
+                  "text": "Muzeul Fania din Fianarantsoa.",
                   "category": "museum",
                   "coords": [
                         47.088297,
@@ -322,7 +322,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée Diocèse Fianarantsoa",
-                  "text": "Museum in Fianarantsoa.",
+                  "text": "The Diocese Museum of Fianarantsoa.",
                   "category": "museum",
                   "coords": [
                         47.076232,
@@ -331,7 +331,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Centre Notre Dame de Lourdes",
-                  "text": "Aquarium in Fianarantsoa.",
+                  "text": "The Notre Dame de Lourdes centre in Fianarantsoa.",
                   "category": "family",
                   "coords": [
                         47.10935,
@@ -340,7 +340,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Fania",
-                  "text": "Museum in Fianarantsoa.",
+                  "text": "The Fania museum in Fianarantsoa.",
                   "category": "museum",
                   "coords": [
                         47.088297,
@@ -694,7 +694,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Broken lighthouse",
-                  "text": "Leuchtturm in Mananara Avaratra.",
+                  "text": "Ein zerbrochener Leuchtturm in Avaratra.",
                   "category": "landmark",
                   "coords": [
                         49.752742,
@@ -705,7 +705,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Broken lighthouse",
-                  "text": "Világítótorony Mananara Avaratrában.",
+                  "text": "Egy törött világítótorony Avaratrában.",
                   "category": "landmark",
                   "coords": [
                         49.752742,
@@ -716,7 +716,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Broken lighthouse",
-                  "text": "Far în Mananara Avaratra.",
+                  "text": "Un far spart în Avaratra.",
                   "category": "landmark",
                   "coords": [
                         49.752742,
@@ -727,7 +727,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Broken lighthouse",
-                  "text": "Lighthouse in Mananara Avaratra.",
+                  "text": "A broken lighthouse in Avaratra.",
                   "category": "landmark",
                   "coords": [
                         49.752742,
@@ -1119,7 +1119,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Vatomasy Malaza",
-                  "text": "Vatomasy Malaza ist eine Museumseinrichtung in Vohipeno.",
+                  "text": "Das Museum Vatomasy Malaza in Vohipeno.",
                   "category": "museum",
                   "coords": [
                         47.841323,
@@ -1130,7 +1130,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Vatomasy Malaza",
-                  "text": "A Vatomasy Malaza egy múzeumi létesítmény Vohipeno városában.",
+                  "text": "A Vatomasy Malaza múzeum Vohipenóban.",
                   "category": "museum",
                   "coords": [
                         47.841323,
@@ -1141,7 +1141,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Vatomasy Malaza",
-                  "text": "Vatomasy Malaza este o facilitate muzeală situată în Vohipeno.",
+                  "text": "Muzeul Vatomasy Malaza din Vohipeno.",
                   "category": "museum",
                   "coords": [
                         47.841323,
@@ -1152,7 +1152,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Vatomasy Malaza",
-                  "text": "Vatomasy Malaza is a museum facility located in Vohipeno.",
+                  "text": "The Vatomasy Malaza museum in Vohipeno.",
                   "category": "museum",
                   "coords": [
                         47.841323,
@@ -1278,7 +1278,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "HOUSE",
-                  "text": "HOUSE ist eine Burganlage in Sambava.",
+                  "text": "Das Schloss namens HOUSE in Sambava.",
                   "category": "castle",
                   "coords": [
                         50.164901,
@@ -1289,7 +1289,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "HOUSE",
-                  "text": "A HOUSE egy kastélyépület Sambava városában.",
+                  "text": "A HOUSE nevű kastély Sambavában.",
                   "category": "castle",
                   "coords": [
                         50.164901,
@@ -1300,7 +1300,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "HOUSE",
-                  "text": "HOUSE este o structură tip castel situată în Sambava.",
+                  "text": "Castelul numit HOUSE din Sambava.",
                   "category": "castle",
                   "coords": [
                         50.164901,
@@ -1311,7 +1311,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "HOUSE",
-                  "text": "HOUSE is a castle structure situated in Sambava.",
+                  "text": "The castle called HOUSE in Sambava.",
                   "category": "castle",
                   "coords": [
                         50.164901,
@@ -1437,7 +1437,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Old Lighthouse",
-                  "text": "Das Old Lighthouse besteht aus historischen Ruinen in Maroantsetra.",
+                  "text": "Ein alter Leuchtturm in Maroantsetra.",
                   "category": "historical",
                   "coords": [
                         49.737436,
@@ -1448,7 +1448,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Old Lighthouse",
-                  "text": "Az Old Lighthouse egy történelmi romterület Maroantsetra városában.",
+                  "text": "Egy régi világítótorony Maroantsetrában.",
                   "category": "historical",
                   "coords": [
                         49.737436,
@@ -1459,7 +1459,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Old Lighthouse",
-                  "text": "Old Lighthouse constă în ruine istorice situate în Maroantsetra.",
+                  "text": "Un far vechi în Maroantsetra.",
                   "category": "historical",
                   "coords": [
                         49.737436,
@@ -1470,7 +1470,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Old Lighthouse",
-                  "text": "The Old Lighthouse consists of historic ruins located in Maroantsetra.",
+                  "text": "An old lighthouse in Maroantsetra.",
                   "category": "historical",
                   "coords": [
                         49.737436,
@@ -1558,7 +1558,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fabrication de papier Antaimoro",
-                  "text": "Sehenswürdigkeit in Ambalavao.",
+                  "text": "Die traditionelle Antaimoro-Papierfabrik in Ambalavao.",
                   "category": "landmark",
                   "coords": [
                         46.941737,
@@ -1567,7 +1567,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Tsenan'Omby",
-                  "text": "Sehenswürdigkeit in Ambalavao.",
+                  "text": "Der Viehmarkt Tsenan'Omby in Ambalavao.",
                   "category": "landmark",
                   "coords": [
                         46.926511,
@@ -1578,7 +1578,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fabrication de papier Antaimoro",
-                  "text": "Látnivaló Ambalavaóban.",
+                  "text": "A hagyományos Antaimoro papírmanufaktúra Ambalavaóban.",
                   "category": "landmark",
                   "coords": [
                         46.941737,
@@ -1587,7 +1587,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Tsenan'Omby",
-                  "text": "Látnivaló Ambalavaóban.",
+                  "text": "A Tsenan'Omby marhavásár Ambalavaóban.",
                   "category": "landmark",
                   "coords": [
                         46.926511,
@@ -1598,7 +1598,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fabrication de papier Antaimoro",
-                  "text": "Atracție în Ambalavao.",
+                  "text": "Fabrica tradițională de hârtie Antaimoro din Ambalavao.",
                   "category": "landmark",
                   "coords": [
                         46.941737,
@@ -1607,7 +1607,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Tsenan'Omby",
-                  "text": "Atracție în Ambalavao.",
+                  "text": "Târgul de vite Tsenan'Omby din Ambalavao.",
                   "category": "landmark",
                   "coords": [
                         46.926511,
@@ -1618,7 +1618,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Antaimoro Paper Manufactory",
-                  "text": "Attraction in Ambalavao.",
+                  "text": "The traditional Antaimoro paper manufactory in Ambalavao.",
                   "category": "landmark",
                   "coords": [
                         46.941737,
@@ -1627,7 +1627,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Tsenan'Omby",
-                  "text": "Attraction in Ambalavao.",
+                  "text": "The Tsenan'Omby cattle market in Ambalavao.",
                   "category": "landmark",
                   "coords": [
                         46.926511,
@@ -1943,7 +1943,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bika",
-                  "text": "Bika ist ein lokales Theater in Tsiroanomandidy.",
+                  "text": "Die kulturelle Stätte Bika in Tsiroanomandidy.",
                   "category": "cultural",
                   "coords": [
                         46.042757,
@@ -1963,7 +1963,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bika",
-                  "text": "A Bika egy helyi színház Tsiroanomandidy városában.",
+                  "text": "A Bika kulturális helyszín Tsiroanomandidyban.",
                   "category": "cultural",
                   "coords": [
                         46.042757,
@@ -1983,7 +1983,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bika",
-                  "text": "Bika este un teatru local din Tsiroanomandidy.",
+                  "text": "Situl cultural Bika din Tsiroanomandidy.",
                   "category": "cultural",
                   "coords": [
                         46.042757,
@@ -2003,7 +2003,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bika",
-                  "text": "Bika is a local theatre venue located in Tsiroanomandidy.",
+                  "text": "The Bika cultural site in Tsiroanomandidy.",
                   "category": "cultural",
                   "coords": [
                         46.042757,
@@ -2366,7 +2366,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée océanographique",
-                  "text": "Das Musée océanographique ist ein ozeanografisches Museum in Hell-Ville.",
+                  "text": "Das Ozeanographische Museum in Ville.",
                   "category": "museum",
                   "coords": [
                         48.291104,
@@ -2375,7 +2375,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "LemuriaLand",
-                  "text": "LemuriaLand ist ein zoologischer Park in Hell-Ville.",
+                  "text": "Der Familienfreizeitpark LemuriaLand in Ville.",
                   "category": "family",
                   "coords": [
                         48.282518,
@@ -2384,7 +2384,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "L'arbre sacré Sakalava",
-                  "text": "L'arbre sacré Sakalava ist eine bedeutende kulturelle Attraktion in Hell-Ville.",
+                  "text": "Der heilige Baum der Sakalava in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.253078,
@@ -2393,7 +2393,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Nosy Easy Rent",
-                  "text": "Nosy Easy Rent ist ein Servicepunkt und eine Attraktion in Hell-Ville.",
+                  "text": "Das Wahrzeichen Nosy Easy Rent in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.265689,
@@ -2402,7 +2402,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Location Bienvenu",
-                  "text": "Location Bienvenu ist eine lokale Attraktion in der Stadt Hell-Ville.",
+                  "text": "Das Wahrzeichen Location Bienvenu in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.274526,
@@ -2411,7 +2411,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Vieux Port Disco",
-                  "text": "Vieux Port Disco ist eine beliebte Unterhaltungsattraktion in Hell-Ville.",
+                  "text": "Das Wahrzeichen Vieux Port Disco in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.27796,
@@ -2420,7 +2420,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Arbre Sacré",
-                  "text": "Arbre Sacré ist eine verehrte natürliche Attraktion in Hell-Ville.",
+                  "text": "Der heilige Baum (Arbre Sacré) in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.253354,
@@ -2431,7 +2431,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée océanographique",
-                  "text": "A Musée océanographique egy oceanográfiai múzeum Hell-Ville városában.",
+                  "text": "Az Oceanográfiai Múzeum Ville-ben.",
                   "category": "museum",
                   "coords": [
                         48.291104,
@@ -2440,7 +2440,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "LemuriaLand",
-                  "text": "A LemuriaLand egy állatkert Hell-Ville városában.",
+                  "text": "A LemuriaLand családi szórakoztató park Ville-ben.",
                   "category": "family",
                   "coords": [
                         48.282518,
@@ -2449,7 +2449,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "L'arbre sacré Sakalava",
-                  "text": "A L'arbre sacré Sakalava egy jelentős kulturális látványosság Hell-Ville városában.",
+                  "text": "A Sakalava szent fa Ville-ben.",
                   "category": "landmark",
                   "coords": [
                         48.253078,
@@ -2458,7 +2458,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Nosy Easy Rent",
-                  "text": "A Nosy Easy Rent egy szolgáltató pont és látványosság Hell-Ville városában.",
+                  "text": "A Nosy Easy Rent nevezetesség Ville-ben.",
                   "category": "landmark",
                   "coords": [
                         48.265689,
@@ -2467,7 +2467,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Location Bienvenu",
-                  "text": "A Location Bienvenu egy helyi látványosság Hell-Ville városában.",
+                  "text": "A Location Bienvenu nevezetesség Ville-ben.",
                   "category": "landmark",
                   "coords": [
                         48.274526,
@@ -2476,7 +2476,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Vieux Port Disco",
-                  "text": "A Vieux Port Disco egy népszerű szórakozóhely és látványosság Hell-Ville városában.",
+                  "text": "A Vieux Port Disco nevezetesség Ville-ben.",
                   "category": "landmark",
                   "coords": [
                         48.27796,
@@ -2485,7 +2485,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Arbre Sacré",
-                  "text": "Az Arbre Sacré egy tisztelt természeti látványosság Hell-Ville városában.",
+                  "text": "A szent fa (Arbre Sacré) Ville-ben.",
                   "category": "landmark",
                   "coords": [
                         48.253354,
@@ -2496,7 +2496,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée océanographique",
-                  "text": "Musée océanographique este un muzeu oceanografic situat în Hell-Ville.",
+                  "text": "Muzeul Oceanografic din Ville.",
                   "category": "museum",
                   "coords": [
                         48.291104,
@@ -2505,7 +2505,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "LemuriaLand",
-                  "text": "LemuriaLand este un parc zoologic localizat în Hell-Ville.",
+                  "text": "Parcul de distracții pentru familie LemuriaLand din Ville.",
                   "category": "family",
                   "coords": [
                         48.282518,
@@ -2514,7 +2514,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "L'arbre sacré Sakalava",
-                  "text": "L'arbre sacré Sakalava este o atracție culturală semnificativă aflată în Hell-Ville.",
+                  "text": "Arborele sacru al Sakalava din Ville.",
                   "category": "landmark",
                   "coords": [
                         48.253078,
@@ -2523,7 +2523,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Nosy Easy Rent",
-                  "text": "Nosy Easy Rent este un punct de atracție și servicii din Hell-Ville.",
+                  "text": "Punctul de reper Nosy Easy Rent din Ville.",
                   "category": "landmark",
                   "coords": [
                         48.265689,
@@ -2532,7 +2532,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Location Bienvenu",
-                  "text": "Location Bienvenu este o atracție locală din orașul Hell-Ville.",
+                  "text": "Punctul de reper Location Bienvenu din Ville.",
                   "category": "landmark",
                   "coords": [
                         48.274526,
@@ -2541,7 +2541,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Vieux Port Disco",
-                  "text": "Vieux Port Disco este o atracție de divertisment populară în Hell-Ville.",
+                  "text": "Punctul de reper Vieux Port Disco din Ville.",
                   "category": "landmark",
                   "coords": [
                         48.27796,
@@ -2550,7 +2550,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Arbre Sacré",
-                  "text": "Arbre Sacré este o atracție naturală venerată situată în Hell-Ville.",
+                  "text": "Arborele sacru (Arbre Sacré) din Ville.",
                   "category": "landmark",
                   "coords": [
                         48.253354,
@@ -2561,7 +2561,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée océanographique",
-                  "text": "Musée océanographique is an oceanographic museum situated in Hell-Ville.",
+                  "text": "The Oceanographic Museum in Ville.",
                   "category": "museum",
                   "coords": [
                         48.291104,
@@ -2570,7 +2570,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "LemuriaLand",
-                  "text": "LemuriaLand is a zoological park located in Hell-Ville.",
+                  "text": "The family amusement park LemuriaLand in Ville.",
                   "category": "family",
                   "coords": [
                         48.282518,
@@ -2579,7 +2579,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "L'arbre sacré Sakalava",
-                  "text": "L'arbre sacré Sakalava is a significant cultural attraction found in Hell-Ville.",
+                  "text": "The sacred tree of the Sakalava in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.253078,
@@ -2588,7 +2588,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Nosy Easy Rent",
-                  "text": "Nosy Easy Rent is a service point and attraction situated in Hell-Ville.",
+                  "text": "The landmark Nosy Easy Rent in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.265689,
@@ -2597,7 +2597,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Location Bienvenu",
-                  "text": "Location Bienvenu is a local attraction located in the city of Hell-Ville.",
+                  "text": "The landmark Location Bienvenu in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.274526,
@@ -2606,7 +2606,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Vieux Port Disco",
-                  "text": "Vieux Port Disco is a popular entertainment attraction in Hell-Ville.",
+                  "text": "The landmark Vieux Port Disco in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.27796,
@@ -2615,7 +2615,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             },
             {
                   "name": "Arbre Sacré",
-                  "text": "Arbre Sacré is a revered natural attraction located in Hell-Ville.",
+                  "text": "The sacred tree (Arbre Sacré) in Ville.",
                   "category": "landmark",
                   "coords": [
                         48.253354,
@@ -2931,7 +2931,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord",
-                  "text": "Das Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord ist ein Kunstzentrum in Befandriana-Avaratra.",
+                  "text": "Das Lese-, Informatik- und Kulturzentrum von Befandriana-Nord in Avaratra.",
                   "category": "cultural",
                   "coords": [
                         48.542284,
@@ -2942,7 +2942,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord",
-                  "text": "A Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord egy művészeti központ Befandriana-Avaratra városában.",
+                  "text": "A Befandriana-Nord-i Olvasási, Informatikai és Kulturális Központ Avaratrában.",
                   "category": "cultural",
                   "coords": [
                         48.542284,
@@ -2953,7 +2953,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord",
-                  "text": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord este un centru de artă în Befandriana-Avaratra.",
+                  "text": "Centrul de Lectură, Informatică și Cultură din Befandriana-Nord, Avaratra.",
                   "category": "cultural",
                   "coords": [
                         48.542284,
@@ -2964,7 +2964,7 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord",
-                  "text": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord is an arts centre in Befandriana-Avaratra.",
+                  "text": "The Centre for Reading, Computing and Culture of Befandriana-Nord in Avaratra.",
                   "category": "cultural",
                   "coords": [
                         48.542284,

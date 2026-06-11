@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraLebanonHistoryV2: POI[] = [
   {
-    id: "baalbek-ruins-history-v2",
+    id: "baalbek-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blick auf den Bacchus-Tempel",
+                  "text": "Dieser Aussichtspunkt bietet einen perfekten Blick auf den außergewöhnlich gut erhaltenen Bacchus-Tempel.",
+                  "category": "natural",
+                  "coords": [
+                        36.203476,
+                        34.006675
+                  ]
+            },
+            {
+                  "name": "Hexagonal forecourt",
+                  "text": "Ein einzigartiger sechseckiger Vorhof, der als monumentaler Eingang zum großen Hof von Baalbek diente.",
+                  "category": "historical",
+                  "coords": [
+                        36.205225,
+                        34.007214
+                  ]
+            },
+            {
+                  "name": "Venustempel",
+                  "text": "Ein kleiner, runder römischer Tempel in der Nähe des archäologischen Komplexes von Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.206204,
+                        34.006039
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Eine christliche Kirche in der historischen Stadt Baalbek, unweit der antiken Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        36.20493,
+                        34.00493
+                  ]
+            },
+            {
+                  "name": "Al Nahr Mosque",
+                  "text": "Eine historische Moschee am Flussufer in Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.208732,
+                        34.004947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "view on the Temple of Bacchus",
+                  "text": "Erről a kilátópontról tökéletes rálátás nyílik a kivételesen jó állapotban fennmaradt Bacchus-templomra.",
+                  "category": "natural",
+                  "coords": [
+                        36.203476,
+                        34.006675
+                  ]
+            },
+            {
+                  "name": "Hexagonal forecourt",
+                  "text": "Egyedülálló hatszögletű előudvar, amely Baalbek nagy udvarának monumentális bejárataként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        36.205225,
+                        34.007214
+                  ]
+            },
+            {
+                  "name": "Temple of Venus",
+                  "text": "Egy kis kör alakú római templom a baalbeki régészeti együttes közelében.",
+                  "category": "historical",
+                  "coords": [
+                        36.206204,
+                        34.006039
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Keresztény templom Baalbek történelmi városában, az antik romok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.20493,
+                        34.00493
+                  ]
+            },
+            {
+                  "name": "Al Nahr Mosque",
+                  "text": "Történelmi mecset a folyóparton Baalbek városában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.208732,
+                        34.004947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "view on the Temple of Bacchus",
+                  "text": "Acest punct de observație oferă o vedere perfectă asupra Templului lui Bacchus, excepțional de bine conservat.",
+                  "category": "natural",
+                  "coords": [
+                        36.203476,
+                        34.006675
+                  ]
+            },
+            {
+                  "name": "Hexagonal forecourt",
+                  "text": "O curte hexagonală unică, care servea drept intrare monumentală în marea curte din Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.205225,
+                        34.007214
+                  ]
+            },
+            {
+                  "name": "Temple of Venus",
+                  "text": "Unul dintre cele mai bine conservate temple romane din lume, dedicat zeului vinului.",
+                  "category": "historical",
+                  "coords": [
+                        36.206204,
+                        34.006039
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "O biserică creștină situată în orașul istoric Baalbek, aproape de ruinele antice.",
+                  "category": "landmark",
+                  "coords": [
+                        36.20493,
+                        34.00493
+                  ]
+            },
+            {
+                  "name": "Al Nahr Mosque",
+                  "text": "O moschee istorică situată pe malul râului în Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.208732,
+                        34.004947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "view on the Temple of Bacchus",
+                  "text": "This viewpoint offers a perfect gaze at the exceptionally well-preserved Temple of Bacchus.",
+                  "category": "natural",
+                  "coords": [
+                        36.203476,
+                        34.006675
+                  ]
+            },
+            {
+                  "name": "Hexagonal forecourt",
+                  "text": "A unique hexagonal forecourt that served as the monumental entrance to the Great Court of Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.205225,
+                        34.007214
+                  ]
+            },
+            {
+                  "name": "Temple of Venus",
+                  "text": "A small, circular Roman temple located near the main Baalbek archaeological complex.",
+                  "category": "historical",
+                  "coords": [
+                        36.206204,
+                        34.006039
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A Christian church located in the historic city of Baalbek near the ancient ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        36.20493,
+                        34.00493
+                  ]
+            },
+            {
+                  "name": "Al Nahr Mosque",
+                  "text": "A historic mosque situated along the riverbank in Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.208732,
+                        34.004947
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-BH",
     coords: [36.2045, 34.0071],
@@ -46,7 +235,448 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Établissement phénicien dédié au dieu Baal.", "Les travaux romains ont débuté vers 16 av. J.-C. sous Auguste.", "Extensions sur plus de 250 ans jusqu'au IIIe siècle après J.-C.", "Cultes païens interdits sous l'empereur Théodose Ier vers 379.", "Largement en ruines pendant la période ottomane (1516-1918).", "Fouilles systématiques dès 1898 sous Otto Puchstein.", "Patrimoine mondial de l'UNESCO depuis 1984.", "Plus grand ensemble de temples romains hors d'Italie."],
     }, image: "/poi-images/baalbek-ruins-history-v2.webp"},
   {
-    id: "byblos-castle-history-v2",
+    id: "byblos-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eye Park",
+                  "text": "Ein familienfreundlicher Freizeitpark in Küstennähe unweit der historischen Altstadt von Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656409,
+                        34.106891
+                  ]
+            },
+            {
+                  "name": "Testa di leone",
+                  "text": "Antike Verteidigungsanlagen aus der persischen Ära mit Blick auf das Mittelmeer.",
+                  "category": "castle",
+                  "coords": [
+                        35.64808,
+                        34.119333
+                  ]
+            },
+            {
+                  "name": "Byblos - Ancient Port",
+                  "text": "Einer der ältesten durchgehend genutzten Seehäfen der Welt mit antiken Hafenbecken.",
+                  "category": "historical",
+                  "coords": [
+                        35.646018,
+                        34.115893
+                  ]
+            },
+            {
+                  "name": "Ocean blue",
+                  "text": "Eine moderne Ferienanlage mit direktem Zugang zum Sandstrand am Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650802,
+                        34.105484
+                  ]
+            },
+            {
+                  "name": "Nomad Beach Resort",
+                  "text": "Ein Strandclub mit Holzhütten und Panoramablick auf das azurblaue Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650916,
+                        34.107839
+                  ]
+            },
+            {
+                  "name": "Byblos Archaeological Site",
+                  "text": "UNESCO-Welterbestätte mit phönizischen Tempeln, einer Kreuzritterburg und römischen Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        35.646101,
+                        34.119178
+                  ]
+            },
+            {
+                  "name": "Eddé Sands",
+                  "text": "Ein weitläufiger Sandstrand südlich des Hafens mit zahlreichen Außenpools und Gärten.",
+                  "category": "recreational",
+                  "coords": [
+                        35.648529,
+                        34.114528
+                  ]
+            },
+            {
+                  "name": "Othman Al Housami House",
+                  "text": "Ein traditionelles libanesisches Wohnhaus im Herzen der historischen Altstadt von Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.645134,
+                        34.118266
+                  ]
+            },
+            {
+                  "name": "Jbeil Public Beach",
+                  "text": "Der öffentliche Strand der Stadt, ideal zum Schwimmen im klaren Wasser des Mittelmeers.",
+                  "category": "recreational",
+                  "coords": [
+                        35.64775,
+                        34.115723
+                  ]
+            },
+            {
+                  "name": "Plage Des Rois",
+                  "text": "Ein privater Strandclub mit mehreren Pools direkt am felsigen Ufer von Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650614,
+                        34.112803
+                  ]
+            },
+            {
+                  "name": "Mar Zakhia",
+                  "text": "Eine dem Heiligen Zakhia gewidmete Kirche in den historischen Gassen von Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.650113,
+                        34.097703
+                  ]
+            },
+            {
+                  "name": "Saidet El Doueir",
+                  "text": "Ein kleines christliches Heiligtum, das die spirituelle Tradition der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658176,
+                        34.096961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eye Park",
+                  "text": "Családbarát szabadidőpark a tengerpart közelében, Büblosz történelmi óvárosának szomszédságában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656409,
+                        34.106891
+                  ]
+            },
+            {
+                  "name": "Testa di leone",
+                  "text": "Ókori perzsa korszakból származó védelmi romok, amelyek a Földközi-tengerre néznek.",
+                  "category": "castle",
+                  "coords": [
+                        35.64808,
+                        34.119333
+                  ]
+            },
+            {
+                  "name": "Byblos - Ancient Port",
+                  "text": "A világ egyik legrégebbi, folyamatosan használt tengeri kikötője ókori medencékkel.",
+                  "category": "historical",
+                  "coords": [
+                        35.646018,
+                        34.115893
+                  ]
+            },
+            {
+                  "name": "Ocean blue",
+                  "text": "Modern üdülőközpont közvetlen kijárattal a földközi-tengeri homokos strandra.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650802,
+                        34.105484
+                  ]
+            },
+            {
+                  "name": "Nomad Beach Resort",
+                  "text": "Strandklub faházakkal és panorámás kilátással az azúrkék tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650916,
+                        34.107839
+                  ]
+            },
+            {
+                  "name": "Byblos Archaeological Site",
+                  "text": "UNESCO világörökségi helyszín föníciai templomokkal, egy keresztes lovagvárral és római romokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.646101,
+                        34.119178
+                  ]
+            },
+            {
+                  "name": "Eddé Sands",
+                  "text": "Kiterjedt homokos strand a kikötőtől délre, számos szabadtéri medencével és kerttel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.648529,
+                        34.114528
+                  ]
+            },
+            {
+                  "name": "Othman Al Housami House",
+                  "text": "Hagyományos libanoni lakóház Büblosz történelmi óvárosának szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.645134,
+                        34.118266
+                  ]
+            },
+            {
+                  "name": "Jbeil Public Beach",
+                  "text": "A város nyilvános strandja, amely ideális a Földközi-tenger tiszta vizében való úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        35.64775,
+                        34.115723
+                  ]
+            },
+            {
+                  "name": "Plage Des Rois",
+                  "text": "Privát strandklub több medencével, közvetlenül Büblosz sziklás partján.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650614,
+                        34.112803
+                  ]
+            },
+            {
+                  "name": "Mar Zakhia",
+                  "text": "Szent Zakhiának szentelt templom Büblosz történelmi utcái között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.650113,
+                        34.097703
+                  ]
+            },
+            {
+                  "name": "Saidet El Doueir",
+                  "text": "Kisméretű keresztény szentély, amely a régió spirituális hagyományait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658176,
+                        34.096961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eye Park",
+                  "text": "Un parc de distracții pentru familii situat lângă coastă, în apropierea centrului istoric din Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656409,
+                        34.106891
+                  ]
+            },
+            {
+                  "name": "Testa di leone",
+                  "text": "Ruine defensive antice din epoca persană, cu vedere spre Marea Mediterană.",
+                  "category": "castle",
+                  "coords": [
+                        35.64808,
+                        34.119333
+                  ]
+            },
+            {
+                  "name": "Byblos - Ancient Port",
+                  "text": "Unul dintre cele mai vechi porturi maritime din lume folosite continuu, cu bazine antice.",
+                  "category": "historical",
+                  "coords": [
+                        35.646018,
+                        34.115893
+                  ]
+            },
+            {
+                  "name": "Ocean blue",
+                  "text": "O stațiune modernă de vacanță cu acces direct la plaja cu nisip de la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650802,
+                        34.105484
+                  ]
+            },
+            {
+                  "name": "Nomad Beach Resort",
+                  "text": "Un club de plajă cu cabane din lemn și vedere panoramică spre marea azurie.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650916,
+                        34.107839
+                  ]
+            },
+            {
+                  "name": "Byblos Archaeological Site",
+                  "text": "Sit din patrimoniul mondial UNESCO cu temple feniciene, un castel cruciat și ruine romane.",
+                  "category": "historical",
+                  "coords": [
+                        35.646101,
+                        34.119178
+                  ]
+            },
+            {
+                  "name": "Eddé Sands",
+                  "text": "O plajă întinsă cu nisip la sud de port, cu numeroase piscine exterioare și grădini.",
+                  "category": "recreational",
+                  "coords": [
+                        35.648529,
+                        34.114528
+                  ]
+            },
+            {
+                  "name": "Othman Al Housami House",
+                  "text": "O casă tradițională libaneză situată în inima centrului istoric din Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.645134,
+                        34.118266
+                  ]
+            },
+            {
+                  "name": "Jbeil Public Beach",
+                  "text": "Plaja publică a orașului, ideală pentru înot în apele clare ale Mediteranei.",
+                  "category": "recreational",
+                  "coords": [
+                        35.64775,
+                        34.115723
+                  ]
+            },
+            {
+                  "name": "Plage Des Rois",
+                  "text": "Un club de plajă privat cu mai multe piscine, situat chiar pe țărmul stâncos din Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650614,
+                        34.112803
+                  ]
+            },
+            {
+                  "name": "Mar Zakhia",
+                  "text": "O biserică dedicată Sfântului Zahia, situată pe străzile istorice din Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.650113,
+                        34.097703
+                  ]
+            },
+            {
+                  "name": "Saidet El Doueir",
+                  "text": "Un mic sanctuar creștin care reflectă tradiția spirituală a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658176,
+                        34.096961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eye Park",
+                  "text": "A family-friendly leisure park located near the coast close to the historic old town of Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656409,
+                        34.106891
+                  ]
+            },
+            {
+                  "name": "Persian fortress",
+                  "text": "Ancient defensive ruins from the Persian era overlooking the Mediterranean Sea.",
+                  "category": "castle",
+                  "coords": [
+                        35.64808,
+                        34.119333
+                  ]
+            },
+            {
+                  "name": "Byblos - Ancient Port",
+                  "text": "One of the oldest continuously inhabited maritime harbors in the world with ancient basins.",
+                  "category": "historical",
+                  "coords": [
+                        35.646018,
+                        34.115893
+                  ]
+            },
+            {
+                  "name": "Ocean blue",
+                  "text": "A modern holiday resort with direct access to the sandy Mediterranean beach.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650802,
+                        34.105484
+                  ]
+            },
+            {
+                  "name": "Nomad Beach Resort",
+                  "text": "A beach club featuring wooden cabins and panoramic views of the azure sea.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650916,
+                        34.107839
+                  ]
+            },
+            {
+                  "name": "Byblos Archaeological Site",
+                  "text": "UNESCO World Heritage site featuring Phoenician temples, a Crusader castle, and Roman ruins.",
+                  "category": "historical",
+                  "coords": [
+                        35.646101,
+                        34.119178
+                  ]
+            },
+            {
+                  "name": "Eddé Sands",
+                  "text": "An expansive sandy beach south of the harbor with numerous outdoor pools and gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        35.648529,
+                        34.114528
+                  ]
+            },
+            {
+                  "name": "Othman Al Housami House",
+                  "text": "A traditional Lebanese residential house located in the heart of Byblos' historic old town.",
+                  "category": "landmark",
+                  "coords": [
+                        35.645134,
+                        34.118266
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "The city's public beach, ideal for swimming in the clear Mediterranean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        35.64775,
+                        34.115723
+                  ]
+            },
+            {
+                  "name": "Plage Des Rois",
+                  "text": "A private beach club with multiple pools located right on the rocky shore of Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.650614,
+                        34.112803
+                  ]
+            },
+            {
+                  "name": "Mar Zakhia",
+                  "text": "A church dedicated to Saint Zakhia located within the historic alleys of Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.650113,
+                        34.097703
+                  ]
+            },
+            {
+                  "name": "Saidet El Doueir",
+                  "text": "A small Christian shrine reflecting the spiritual tradition of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658176,
+                        34.096961
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-JL",
     coords: [35.6455, 34.1195],
@@ -89,7 +719,412 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Début du peuplement attesté vers 8 800 av. J.-C.", "Principal centre de commerce du cèdre vers l'Égypte.", "Construction du château vers 1104 par Raymond de Saint-Gilles.", "Conquête par Saladin en 1188.", "Prise définitive par les mamelouks en 1266.", "Première fouille scientifique en 1860 par Ernest Renan.", "Berceau de l'alphabet phénicien au XIe siècle av. J.-C.", "Patrimoine mondial de l'UNESCO depuis 1984."],
     }, image: "/poi-images/byblos-castle-history-v2.webp"},
   {
-    id: "tyre-hippodrome-history-v2",
+    id: "tyre-hippodrome-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumental arch",
+                  "text": "Ein massiver römischer Triumphbogen aus dem 2. Jahrhundert am Eingang zur südlichen Nekropole der antiken Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.210428,
+                        33.270461
+                  ]
+            },
+            {
+                  "name": "Ruins of Tyre Necropolis",
+                  "text": "Ein riesiger römischer und byzantinischer Friedhof mit Hunderten von verzierten Stein- und Marmorsarkophagen an einer Säulenstraße.",
+                  "category": "historical",
+                  "coords": [
+                        35.212397,
+                        33.270256
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Mahalib",
+                  "text": "Eine antike Stätte bei Tyros mit bedeutenden Überresten phönizischer Siedlungen und landwirtschaftlicher Terrassen.",
+                  "category": "historical",
+                  "coords": [
+                        35.243368,
+                        33.317803
+                  ]
+            },
+            {
+                  "name": "Leontesbrücke",
+                  "text": "Eine historische Steinbogenbrücke über den Fluss Litani, die aus der Römerzeit stammt und in späteren Epochen umgebaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        35.250784,
+                        33.339524
+                  ]
+            },
+            {
+                  "name": "Phoenician cemetery",
+                  "text": "Eine antike Begräbnisstätte mit Schachtgräbern aus der phönizischen Zeit und verschiedenen Grabbeigaben aus der Eisenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        35.213591,
+                        33.271079
+                  ]
+            },
+            {
+                  "name": "Mirza Jalal",
+                  "text": "Ein lokales Heiligtum und eine historische Stätte in der Nähe der weitläufigen archäologischen Überreste von Tyros.",
+                  "category": "landmark",
+                  "coords": [
+                        35.28155,
+                        33.296165
+                  ]
+            },
+            {
+                  "name": "Tyre Hippodrome",
+                  "text": "Eine gewaltige römische Wagenrennbahn, die einst zu den größten der antiken Welt gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        35.209753,
+                        33.268353
+                  ]
+            },
+            {
+                  "name": "Sour Beach Tents",
+                  "text": "Ein beliebter Sandstrand an der Mittelmeerküste mit traditionellen Sonnenzelten.",
+                  "category": "recreational",
+                  "coords": [
+                        35.20997,
+                        33.259348
+                  ]
+            },
+            {
+                  "name": "Kmam Khomeyni Mosque",
+                  "text": "Eine große moderne Moschee mit markanten Minaretten, die das Stadtbild prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221887,
+                        33.267997
+                  ]
+            },
+            {
+                  "name": "Khadra Mosque",
+                  "text": "Eine historische Moschee mit grüner Kuppel in der Nähe des alten Hafens.",
+                  "category": "landmark",
+                  "coords": [
+                        35.206194,
+                        33.26621
+                  ]
+            },
+            {
+                  "name": "Tyre Municipal Green Market",
+                  "text": "Ein lebhafter städtischer Markt, bekannt für frische lokale Produkte und Gewürze.",
+                  "category": "cultural",
+                  "coords": [
+                        35.213363,
+                        33.264352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumental arch",
+                  "text": "Hatalmas, 2. századi római diadalív az antik város déli nekropoliszának bejáratánál.",
+                  "category": "historical",
+                  "coords": [
+                        35.210428,
+                        33.270461
+                  ]
+            },
+            {
+                  "name": "Ruins of Tyre Necropolis",
+                  "text": "Hatalmas római és bizánci temető több száz díszes kő- és márványszarkofággal egy oszlopcsarnokos út mentén.",
+                  "category": "historical",
+                  "coords": [
+                        35.212397,
+                        33.270256
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Mahalib",
+                  "text": "Türszosz közeli ősi lelőhely föníciai települések és mezőgazdasági teraszok jelentős maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.243368,
+                        33.317803
+                  ]
+            },
+            {
+                  "name": "Leontes Bridge",
+                  "text": "Történelmi kőboltozatos híd a Litáni-folyón, amely a római korig nyúlik vissza, és későbbi korszakokban újjáépítették.",
+                  "category": "historical",
+                  "coords": [
+                        35.250784,
+                        33.339524
+                  ]
+            },
+            {
+                  "name": "Phoenician cemetery",
+                  "text": "Ősi temetkezési hely föníciai kori aknavárakkal és különféle vaskori sírmellékletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        35.213591,
+                        33.271079
+                  ]
+            },
+            {
+                  "name": "Mirza Jalal",
+                  "text": "Helyi kegyhely és történelmi helyszín Türosz kiterjedt régészeti maradványainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.28155,
+                        33.296165
+                  ]
+            },
+            {
+                  "name": "Tyre Hippodrome",
+                  "text": "Hatalmas római kocsiverseny-pálya, amely egykor az ókori világ egyik legnagyobbja volt.",
+                  "category": "historical",
+                  "coords": [
+                        35.209753,
+                        33.268353
+                  ]
+            },
+            {
+                  "name": "Sour Beach Tents",
+                  "text": "Népszerű homokos tengerpart a Földközi-tenger mentén, hagyományos strandsátrakkal.",
+                  "category": "recreational",
+                  "coords": [
+                        35.20997,
+                        33.259348
+                  ]
+            },
+            {
+                  "name": "Kmam Khomeyni Mosque",
+                  "text": "Nagy, modern mecset jellegzetes minaretekkel, amely meghatározza a városképet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221887,
+                        33.267997
+                  ]
+            },
+            {
+                  "name": "Khadra Mosque",
+                  "text": "Történelmi mecset zöld kupolával a régi kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.206194,
+                        33.26621
+                  ]
+            },
+            {
+                  "name": "Tyre Municipal Green Market",
+                  "text": "Nyüzsgő városi piac, amely friss helyi termékeiről és fűszereiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.213363,
+                        33.264352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumental arch",
+                  "text": "Un arc de triumf roman masiv din secolul al II-lea, situat la intrarea în necropola sudică a orașului antic.",
+                  "category": "historical",
+                  "coords": [
+                        35.210428,
+                        33.270461
+                  ]
+            },
+            {
+                  "name": "Ruins of Tyre Necropolis",
+                  "text": "Un vast cimitir roman și bizantin, cu sute de sarcofage ornamentate din piatră și marmură de-a lungul unui drum cu coloane.",
+                  "category": "historical",
+                  "coords": [
+                        35.212397,
+                        33.270256
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Mahalib",
+                  "text": "Un sit antic lângă Tyr, care conține vestigii semnificative ale așezărilor feniciene și terase agricole.",
+                  "category": "historical",
+                  "coords": [
+                        35.243368,
+                        33.317803
+                  ]
+            },
+            {
+                  "name": "Leontes Bridge",
+                  "text": "Un pod istoric din piatră cu arcade peste râul Litani, datând din perioada romană și reconstruit în epocile ulterioare.",
+                  "category": "historical",
+                  "coords": [
+                        35.250784,
+                        33.339524
+                  ]
+            },
+            {
+                  "name": "Phoenician cemetery",
+                  "text": "Un sit funerar antic care conține morminte în puț din epoca feniciană și diverse ofrande funerare din Epoca Fierului.",
+                  "category": "historical",
+                  "coords": [
+                        35.213591,
+                        33.271079
+                  ]
+            },
+            {
+                  "name": "Mirza Jalal",
+                  "text": "Un sanctuar local și sit istoric situat în vecinătatea vestigiilor arheologice extinse ale Tyrului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.28155,
+                        33.296165
+                  ]
+            },
+            {
+                  "name": "Tyre Hippodrome",
+                  "text": "O pistă masivă de curse de care romane, cândva una dintre cele mai mari din lumea antică.",
+                  "category": "historical",
+                  "coords": [
+                        35.209753,
+                        33.268353
+                  ]
+            },
+            {
+                  "name": "Sour Beach Tents",
+                  "text": "O plajă de nisip populară de la malul Mediteranei, mărginită de corturi tradiționale.",
+                  "category": "recreational",
+                  "coords": [
+                        35.20997,
+                        33.259348
+                  ]
+            },
+            {
+                  "name": "Kmam Khomeyni Mosque",
+                  "text": "O moschee modernă mare, cu minarete distinctive, care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221887,
+                        33.267997
+                  ]
+            },
+            {
+                  "name": "Khadra Mosque",
+                  "text": "O moschee istorică cu cupolă verde, situată în apropierea portului vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.206194,
+                        33.26621
+                  ]
+            },
+            {
+                  "name": "Tyre Municipal Green Market",
+                  "text": "O piață municipală plină de viață, renumită pentru produsele locale proaspete și condimente.",
+                  "category": "cultural",
+                  "coords": [
+                        35.213363,
+                        33.264352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumental arch",
+                  "text": "A massive 2nd-century Roman triumphal arch standing at the entrance to the ancient city's southern necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        35.210428,
+                        33.270461
+                  ]
+            },
+            {
+                  "name": "Ruins of Tyre Necropolis",
+                  "text": "A vast Roman and Byzantine cemetery featuring hundreds of ornate stone and marble sarcophagi along a colonnaded road.",
+                  "category": "historical",
+                  "coords": [
+                        35.212397,
+                        33.270256
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Mahalib",
+                  "text": "An ancient site near Tyre containing significant remains of Phoenician settlements and agricultural terraces.",
+                  "category": "historical",
+                  "coords": [
+                        35.243368,
+                        33.317803
+                  ]
+            },
+            {
+                  "name": "Leontes Bridge",
+                  "text": "A historic stone arch bridge across the Litani River, dating back to the Roman period and rebuilt in later eras.",
+                  "category": "historical",
+                  "coords": [
+                        35.250784,
+                        33.339524
+                  ]
+            },
+            {
+                  "name": "Phoenician cemetery",
+                  "text": "An ancient burial site containing Phoenician-era shaft tombs and various funerary offerings from the Iron Age.",
+                  "category": "historical",
+                  "coords": [
+                        35.213591,
+                        33.271079
+                  ]
+            },
+            {
+                  "name": "Mirza Jalal",
+                  "text": "A local shrine and historic site situated in the vicinity of Tyre's extensive archaeological remains.",
+                  "category": "landmark",
+                  "coords": [
+                        35.28155,
+                        33.296165
+                  ]
+            },
+            {
+                  "name": "Tyre Hippodrome",
+                  "text": "A massive Roman chariot racing track, once one of the largest in the ancient world.",
+                  "category": "historical",
+                  "coords": [
+                        35.209753,
+                        33.268353
+                  ]
+            },
+            {
+                  "name": "Sour Beach Tents",
+                  "text": "A popular sandy beach lined with traditional sun tents along the Mediterranean coast.",
+                  "category": "recreational",
+                  "coords": [
+                        35.20997,
+                        33.259348
+                  ]
+            },
+            {
+                  "name": "Kmam Khomeyni Mosque",
+                  "text": "A large modern mosque with distinctive minarets serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221887,
+                        33.267997
+                  ]
+            },
+            {
+                  "name": "Khadra Mosque",
+                  "text": "An ancient green-domed mosque located near the historic port area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.206194,
+                        33.26621
+                  ]
+            },
+            {
+                  "name": "Tyre Municipal Green Market",
+                  "text": "A bustling municipal marketplace filled with fresh local produce and aromatic spices.",
+                  "category": "cultural",
+                  "coords": [
+                        35.213363,
+                        33.264352
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-JA",
     coords: [35.2096, 33.2678],
@@ -132,7 +1167,196 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Fondation de la ville phénicienne vers 2750 av. J.-C.", "Tyr a fondé Carthage en 814 av. J.-C.", "Siège et conquête par Alexandre le Grand en 332 av. J.-C.", "Le règne romain a débuté en 64 av. J.-C.", "Hippodrome érigé au IIe siècle apr. J.-C.", "Domination des Croisés de 1124 à 1291.", "Fouilles systématiques dès 1947 sous Maurice Chéhab.", "Patrimoine mondial de l'UNESCO depuis 1984."],
     }, image: "/poi-images/tyre-hippodrome-history-v2.webp"},
   {
-    id: "beiteddine-palace-history-v2",
+    id: "beiteddine-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beiteddine Palace",
+                  "text": "Ein prachtvoller Palastkomplex aus dem 19. Jahrhundert mit kunstvoller libanesischer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        35.57962,
+                        33.695993
+                  ]
+            },
+            {
+                  "name": "Mar Maroun Church",
+                  "text": "Eine maronitische christliche Kirche mit traditioneller libanesischer Steinarchitektur in den historischen Schuf-Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58116,
+                        33.695713
+                  ]
+            },
+            {
+                  "name": "beayni design",
+                  "text": "Ein lokaler Designmarkt, der handwerkliche Kunst und zeitgenössische libanesische Stile in der Nähe des Beiteddine-Palastes präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.588279,
+                        33.680649
+                  ]
+            },
+            {
+                  "name": "Al Makhazen",
+                  "text": "Ein historischer, gewölbter Marktplatz, bekannt für seine traditionellen Steinbögen und den lokalen Handel.",
+                  "category": "cultural",
+                  "coords": [
+                        35.587396,
+                        33.682584
+                  ]
+            },
+            {
+                  "name": "Calzo",
+                  "text": "Ein Boutique-Marktplatz für Mode und Accessoires in den malerischen Steingebäuden des Bergdorfes.",
+                  "category": "cultural",
+                  "coords": [
+                        35.57396,
+                        33.678857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beiteddine Palace",
+                  "text": "Pompás 19. századi palotaegyüttes bonyolult libanoni építészettel és mozaikos udvarokkal.",
+                  "category": "castle",
+                  "coords": [
+                        35.57962,
+                        33.695993
+                  ]
+            },
+            {
+                  "name": "Mar Maroun Church",
+                  "text": "Maronita keresztény templom hagyományos libanoni kőépítészettel a történelmi Shouf-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58116,
+                        33.695713
+                  ]
+            },
+            {
+                  "name": "beayni design",
+                  "text": "Helyi dizájnpiac kézműves termékekkel és kortárs libanoni stílusokkal a Beiteddine-palota közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        35.588279,
+                        33.680649
+                  ]
+            },
+            {
+                  "name": "Al Makhazen",
+                  "text": "Történelmi boltíves piactér, amely hagyományos kőíveiről és helyi kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.587396,
+                        33.682584
+                  ]
+            },
+            {
+                  "name": "Calzo",
+                  "text": "Divatcikkeket és kiegészítőket kínáló butikpiac a hegyi falu festői kőépületeiben.",
+                  "category": "cultural",
+                  "coords": [
+                        35.57396,
+                        33.678857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beiteddine Palace",
+                  "text": "Un complex palatinesc uimitor din secolul al XIX-lea, renumit pentru arhitectura libaneză și mozaicuri.",
+                  "category": "castle",
+                  "coords": [
+                        35.57962,
+                        33.695993
+                  ]
+            },
+            {
+                  "name": "Mar Maroun Church",
+                  "text": "O biserică creștină maronită cu arhitectură tradițională libaneză din piatră în munții istorici Chouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58116,
+                        33.695713
+                  ]
+            },
+            {
+                  "name": "beayni design",
+                  "text": "O piață locală de design care prezintă obiecte artizanale și stiluri libaneze contemporane lângă Palatul Beiteddine.",
+                  "category": "cultural",
+                  "coords": [
+                        35.588279,
+                        33.680649
+                  ]
+            },
+            {
+                  "name": "Al Makhazen",
+                  "text": "O piață istorică cu bolți, cunoscută pentru arcadele sale tradiționale din piatră și comerțul local.",
+                  "category": "cultural",
+                  "coords": [
+                        35.587396,
+                        33.682584
+                  ]
+            },
+            {
+                  "name": "Calzo",
+                  "text": "O piață tip boutique care oferă modă și accesorii în clădirile pitorești din piatră ale satului montan.",
+                  "category": "cultural",
+                  "coords": [
+                        35.57396,
+                        33.678857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beiteddine Palace",
+                  "text": "A stunning 19th-century palace complex known for its intricate Lebanese architecture and mosaic courtyards.",
+                  "category": "castle",
+                  "coords": [
+                        35.57962,
+                        33.695993
+                  ]
+            },
+            {
+                  "name": "Mar Maroun Church",
+                  "text": "A Maronite Christian church featuring traditional Lebanese stone architecture in the historic Chouf mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        35.58116,
+                        33.695713
+                  ]
+            },
+            {
+                  "name": "beayni design",
+                  "text": "A local design market showcasing artisanal crafts and contemporary Lebanese styles near the Beiteddine Palace.",
+                  "category": "cultural",
+                  "coords": [
+                        35.588279,
+                        33.680649
+                  ]
+            },
+            {
+                  "name": "Al Makhazen",
+                  "text": "A historic vaulted marketplace area known for its traditional stone arches and local trade.",
+                  "category": "cultural",
+                  "coords": [
+                        35.587396,
+                        33.682584
+                  ]
+            },
+            {
+                  "name": "Calzo",
+                  "text": "A boutique marketplace offering fashion and accessories within the scenic stone buildings of the mountain village.",
+                  "category": "cultural",
+                  "coords": [
+                        35.57396,
+                        33.678857
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "LB-JL",
     coords: [35.5800, 33.6953],
@@ -175,7 +1399,808 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Construit entre 1788 et 1818.", "Maître d'ouvrage : Émir Bachir Chehab II (1767-1850).", "Architectes italiens et artisans syriens impliqués.", "Bachir II exilé à Malte en 1840.", "Siège administratif sous le mandat français 1923-1943.", "Résidence d'été du président depuis 1943.", "Protégé lors de la guerre civile 1975-1990 par Walid Joumblatt.", "Mosaïques byzantines de Jiyeh exposées depuis 1984."],
     }, image: "/poi-images/beiteddine-palace-history-v2.webp"},
   {
-    id: "anjar-umayyad-city-history-v2",
+    id: "anjar-umayyad-city-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "abdelrahim",
+                  "text": "Ein prächtiges privates Herrenhaus, das den Baustil und den landwirtschaftlichen Wohlstand der Bekaa-Ebene widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        35.908665,
+                        33.761233
+                  ]
+            },
+            {
+                  "name": "anjar preserve",
+                  "text": "Ein geschütztes Feuchtgebiet in der Nähe der Umayyaden-Ruinen, das als wichtiger Lebensraum für Zugvögel und die lokale Flora dient.",
+                  "category": "natural",
+                  "coords": [
+                        35.949519,
+                        33.750799
+                  ]
+            },
+            {
+                  "name": "Khirbat `Ayn ad Din",
+                  "text": "Verstreute antike Ruinen am Stadtrand von Anjar, die auf eine lange Siedlungsgeschichte in der Bekaa-Ebene hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        35.983186,
+                        33.71639
+                  ]
+            },
+            {
+                  "name": "Thermal Baths",
+                  "text": "Die Überreste eines von den Umayyaden errichteten Badekomplexes im römischen Stil mit Fußbodenheizung und klassischem Mauerwerk.",
+                  "category": "historical",
+                  "coords": [
+                        35.934501,
+                        33.733753
+                  ]
+            },
+            {
+                  "name": "Moschee",
+                  "text": "Die archäologischen Überreste der Großen Umayyaden-Moschee, die den frühislamischen Baustil des 8. Jahrhunderts zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        35.934089,
+                        33.732025
+                  ]
+            },
+            {
+                  "name": "Omayyad City",
+                  "text": "Eine einzigartig geplante Handelsstadt aus dem 8. Jahrhundert, gegründet von Kalif Walid I., mit strengem rechteckigem Grundriss.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933464,
+                        33.733329
+                  ]
+            },
+            {
+                  "name": "Boghos Snabian House Museum",
+                  "text": "Ein Kulturmuseum in einem traditionellen Haus, das dem Leben und Werk des armenischen Schriftstellers Boghos Snabian gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        35.930886,
+                        33.729033
+                  ]
+            },
+            {
+                  "name": "Zekweh",
+                  "text": "Eine archäologische Stätte in der Nähe des Anti-Libanon-Gebirges mit Resten antiker landwirtschaftlicher Siedlungen und Steinbauten.",
+                  "category": "historical",
+                  "coords": [
+                        35.901851,
+                        33.712208
+                  ]
+            },
+            {
+                  "name": "Dakoue Roman temple",
+                  "text": "Die Ruinen eines römischen Tempels im Prostylos-Stil aus massiven Kalksteinblöcken mit Blick auf die fruchtbare Bekaa-Ebene.",
+                  "category": "historical",
+                  "coords": [
+                        35.87661,
+                        33.691325
+                  ]
+            },
+            {
+                  "name": "Monument Musa Dagh",
+                  "text": "Ein ergreifendes Denkmal und eine Gedenkstätte für den armenischen Widerstand bei der Verteidigung des Musa Dagh im Jahr 1915.",
+                  "category": "historical",
+                  "coords": [
+                        35.932452,
+                        33.724398
+                  ]
+            },
+            {
+                  "name": "omar bn-alkhatab",
+                  "text": "Eine zeitgenössische lokale Moschee, benannt nach Kalif Omar bin al-Chattab, die der vielfältigen Gemeinde von Anjar dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.901689,
+                        33.708589
+                  ]
+            },
+            {
+                  "name": "masjed khaled bn-lwalid",
+                  "text": "Eine lokale sunnitische Moschee, die dem Militärführer Chalid ibn al-Walid gewidmet ist und sich im Dorf Anjar befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.910526,
+                        33.706844
+                  ]
+            },
+            {
+                  "name": "masjed al-forqan",
+                  "text": "Eine Nachbarschaftsmoschee, die einen Ort für Gebet und religiöse Bildung in der östlichen Bekaa-Ebene bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.910482,
+                        33.702922
+                  ]
+            },
+            {
+                  "name": "othman ben affan",
+                  "text": "Eine Gemeindemoschee zu Ehren von Kalif Uthman ibn Affan, gelegen im Wohngebiet von Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.904182,
+                        33.775011
+                  ]
+            },
+            {
+                  "name": "masjed tho-alghafary",
+                  "text": "Ein muslimisches Gebetshaus im historischen Viertel von Anjar, das moderne religiöse Praxis mit alter Geschichte verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.900147,
+                        33.682031
+                  ]
+            },
+            {
+                  "name": "Armenian Evangelical Church Anjar",
+                  "text": "Diese Kirche ist ein geistliches Zentrum für die armenisch-evangelische Gemeinde in der geschichtsträchtigen Stadt Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933781,
+                        33.72878
+                  ]
+            },
+            {
+                  "name": "Abou Baker Al Siddik Mosque",
+                  "text": "Eine lokale Moschee in Anjar, die nach dem ersten Kalifen des Islam, Abu Bakr, benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.918141,
+                        33.704622
+                  ]
+            },
+            {
+                  "name": "Saad Bin Moaaz Mosque",
+                  "text": "Eine Gemeindemoschee in Anjar, die einen zentralen Raum für das tägliche Gebet und die muslimische Gemeinschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.92241,
+                        33.710697
+                  ]
+            },
+            {
+                  "name": "Église Catholique Arménienne Notre-Dame du Rosaire",
+                  "text": "Eine armenisch-katholische Kirche, die den lokalen Gläubigen nach dem armenischen Ritus in der Region Anjar dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927663,
+                        33.724623
+                  ]
+            },
+            {
+                  "name": "anjar products market",
+                  "text": "Ein lebhafter Markt, auf dem Besucher lokale libanesische Produkte und traditionelles armenisches Handwerk aus Anjar finden.",
+                  "category": "cultural",
+                  "coords": [
+                        35.92965,
+                        33.728448
+                  ]
+            },
+            {
+                  "name": "Arifian Supermarket",
+                  "text": "Ein lokaler Marktplatz in Anjar, der eine Vielzahl an Gütern des täglichen Bedarfs und regionalen Spezialitäten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.935441,
+                        33.730086
+                  ]
+            },
+            {
+                  "name": "Bedig Makhoulian Super Market",
+                  "text": "Ein familiengeführter Marktplatz, der die Gemeinde von Anjar mit frischen lokalen Erzeugnissen und Lebensmitteln versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.936498,
+                        33.730375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "abdelrahim",
+                  "text": "Impozáns magánúri ház, amely a Bekaa-völgy építészeti stílusát és mezőgazdasági gazdagságát tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        35.908665,
+                        33.761233
+                  ]
+            },
+            {
+                  "name": "anjar preserve",
+                  "text": "Védett mocsaras terület az Oméjjád-romok közelében, amely a költöző madarak és a helyi flóra fontos élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        35.949519,
+                        33.750799
+                  ]
+            },
+            {
+                  "name": "Khirbat `Ayn ad Din",
+                  "text": "Szétszórt ősi romok Anjar szélén, amelyek a Bekaa-völgy hosszú betelepülési múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.983186,
+                        33.71639
+                  ]
+            },
+            {
+                  "name": "Thermal Baths",
+                  "text": "Az Oméjjádok által épített római stílusú fürdőkomplexum maradványai padlófűtéssel és klasszikus téglafalakkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.934501,
+                        33.733753
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Az Oméjjád Nagymecset régészeti maradványai, amelyek a 8. század kora iszlám építészeti elrendezését mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        35.934089,
+                        33.732025
+                  ]
+            },
+            {
+                  "name": "Omayyad City",
+                  "text": "Egyedülálló módon tervezett 8. századi kereskedőváros, amelyet I. Valíd kalifa alapított, szigorú téglalap alaprajzzal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933464,
+                        33.733329
+                  ]
+            },
+            {
+                  "name": "Boghos Snabian House Museum",
+                  "text": "Hagyományos házban kialakított kulturális múzeum, amelyet Boghos Snabian örmény író életének és irodalmi munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        35.930886,
+                        33.729033
+                  ]
+            },
+            {
+                  "name": "Zekweh",
+                  "text": "Régészeti lelőhely az Anti-Libanon-hegység közelében, ősi mezőgazdasági települések és kőépítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        35.901851,
+                        33.712208
+                  ]
+            },
+            {
+                  "name": "Dakoue Roman temple",
+                  "text": "Masszív mészkőtömbökből épült prosztülosz stílusú római templom romjai, kilátással a termékeny Bekaa-völgyre.",
+                  "category": "historical",
+                  "coords": [
+                        35.87661,
+                        33.691325
+                  ]
+            },
+            {
+                  "name": "Monument Musa Dagh",
+                  "text": "Megható emlékmű és emlékhely, amelyet az 1915-ös Musa Dagh-i védelem örmény ellenállásának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        35.932452,
+                        33.724398
+                  ]
+            },
+            {
+                  "name": "omar bn-alkhatab",
+                  "text": "Omar bin al-Khattab kalifáról elnevezett modern helyi mecset, amely Anjar sokszínű közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.901689,
+                        33.708589
+                  ]
+            },
+            {
+                  "name": "masjed khaled bn-lwalid",
+                  "text": "Khalid ibn al-Walid hadvezérnek szentelt helyi szunnita mecset Anjar faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.910526,
+                        33.706844
+                  ]
+            },
+            {
+                  "name": "masjed al-forqan",
+                  "text": "Környékbeli mecset, amely imádságos helyet és vallási oktatást biztosít a Kelet-Bekaa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.910482,
+                        33.702922
+                  ]
+            },
+            {
+                  "name": "othman ben affan",
+                  "text": "Oszmán ibn Affán kalifa tiszteletére elnevezett közösségi mecset Anjar lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.904182,
+                        33.775011
+                  ]
+            },
+            {
+                  "name": "masjed tho-alghafary",
+                  "text": "Muzulmán istentiszteleti hely Anjar történelmi negyedében, amely a modern vallási életet ötvözi a múlt emlékeivel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.900147,
+                        33.682031
+                  ]
+            },
+            {
+                  "name": "Armenian Evangelical Church Anjar",
+                  "text": "Ez a templom az örmény evangélikus közösség lelki központja a történelmi jelentőségű Anjar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933781,
+                        33.72878
+                  ]
+            },
+            {
+                  "name": "Abou Baker Al Siddik Mosque",
+                  "text": "Egy helyi mecset Anjarban, amelyet az iszlám első kalifájáról, Abu Bakrról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        35.918141,
+                        33.704622
+                  ]
+            },
+            {
+                  "name": "Saad Bin Moaaz Mosque",
+                  "text": "Közösségi mecset Anjarban, amely központi helyet biztosít a napi imádságokhoz és a muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.92241,
+                        33.710697
+                  ]
+            },
+            {
+                  "name": "Église Catholique Arménienne Notre-Dame du Rosaire",
+                  "text": "Örmény katolikus templom, amely az örmény rítust követő helyi hívőket szolgálja Anjar régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927663,
+                        33.724623
+                  ]
+            },
+            {
+                  "name": "anjar products market",
+                  "text": "Lüktető piac, ahol a látogatók helyi libanoni termékeket és hagyományos anjari örmény kézműves tárgyakat találhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.92965,
+                        33.728448
+                  ]
+            },
+            {
+                  "name": "Arifian Supermarket",
+                  "text": "Egy helyi piac Anjarban, amely napi cikkek és regionális specialitások széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        35.935441,
+                        33.730086
+                  ]
+            },
+            {
+                  "name": "Bedig Makhoulian Super Market",
+                  "text": "Családi kézben lévő piac, amely friss helyi termékekkel és élelmiszerekkel látja el Anjar közösségét.",
+                  "category": "cultural",
+                  "coords": [
+                        35.936498,
+                        33.730375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "abdelrahim",
+                  "text": "Un conac privat grandios care reflectă stilul arhitectural și bogăția agricolă a văii Bekaa.",
+                  "category": "historical",
+                  "coords": [
+                        35.908665,
+                        33.761233
+                  ]
+            },
+            {
+                  "name": "anjar preserve",
+                  "text": "O zonă umedă protejată lângă ruinele omeiende, servind drept habitat critic pentru păsările migratoare și flora locală.",
+                  "category": "natural",
+                  "coords": [
+                        35.949519,
+                        33.750799
+                  ]
+            },
+            {
+                  "name": "Khirbat `Ayn ad Din",
+                  "text": "Ruine antice împrăștiate la marginea orașului Anjar, indicând o istorie lungă de așezări în Valea Bekaa.",
+                  "category": "historical",
+                  "coords": [
+                        35.983186,
+                        33.71639
+                  ]
+            },
+            {
+                  "name": "Thermal Baths",
+                  "text": "Rămășițele unui complex de băi în stil roman construit de omeiezi, cu podele încălzite și zidărie clasică.",
+                  "category": "historical",
+                  "coords": [
+                        35.934501,
+                        33.733753
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Rămășițele arheologice ale Marii Moschei Omeiende, care prezintă structura arhitecturală islamică timpurie din secolul al VIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        35.934089,
+                        33.732025
+                  ]
+            },
+            {
+                  "name": "Omayyad City",
+                  "text": "Un oraș comercial din secolul al VIII-lea, planificat în mod unic, fondat de califul Walid I, cu un plan dreptunghiular strict.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933464,
+                        33.733329
+                  ]
+            },
+            {
+                  "name": "Boghos Snabian House Museum",
+                  "text": "Un muzeu cultural găzduit într-o casă tradițională, dedicat vieții și operelor literare ale scriitorului armean Boghos Snabian.",
+                  "category": "museum",
+                  "coords": [
+                        35.930886,
+                        33.729033
+                  ]
+            },
+            {
+                  "name": "Zekweh",
+                  "text": "Un sit arheologic lângă munții Anti-Liban, cu rămășițe ale unor așezări agricole antice și structuri din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        35.901851,
+                        33.712208
+                  ]
+            },
+            {
+                  "name": "Dakoue Roman temple",
+                  "text": "Ruinele unui templu roman în stil Prostylos construit cu blocuri masive de calcar, cu vedere spre Valea fertilă Bekaa.",
+                  "category": "historical",
+                  "coords": [
+                        35.87661,
+                        33.691325
+                  ]
+            },
+            {
+                  "name": "Monument Musa Dagh",
+                  "text": "Un monument și memorial emoționant dedicat rezistenței armene din timpul apărării Musa Dagh din 1915.",
+                  "category": "historical",
+                  "coords": [
+                        35.932452,
+                        33.724398
+                  ]
+            },
+            {
+                  "name": "omar bn-alkhatab",
+                  "text": "O moschee locală contemporană, numită după califul Omar bin al-Khattab, care deservește comunitatea diversă din Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.901689,
+                        33.708589
+                  ]
+            },
+            {
+                  "name": "masjed khaled bn-lwalid",
+                  "text": "O moschee sunnită locală dedicată liderului militar Khalid ibn al-Walid, situată în satul Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.910526,
+                        33.706844
+                  ]
+            },
+            {
+                  "name": "masjed al-forqan",
+                  "text": "O moschee de cartier care oferă un loc de rugăciune și educație religioasă în estul Văii Bekaa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.910482,
+                        33.702922
+                  ]
+            },
+            {
+                  "name": "othman ben affan",
+                  "text": "O moschee comunitară numită în onoarea califului Uthman ibn Affan, situată în zona rezidențială din Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.904182,
+                        33.775011
+                  ]
+            },
+            {
+                  "name": "masjed tho-alghafary",
+                  "text": "Un lăcaș de cult musulman din cartierul istoric Anjar, care îmbină practica religioasă modernă cu istoria veche.",
+                  "category": "landmark",
+                  "coords": [
+                        35.900147,
+                        33.682031
+                  ]
+            },
+            {
+                  "name": "Armenian Evangelical Church Anjar",
+                  "text": "Această biserică este un centru spiritual pentru comunitatea evanghelică armeană din orașul istoric Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933781,
+                        33.72878
+                  ]
+            },
+            {
+                  "name": "Abou Baker Al Siddik Mosque",
+                  "text": "O moschee locală din Anjar, numită după primul calif al islamului, Abu Bakr.",
+                  "category": "landmark",
+                  "coords": [
+                        35.918141,
+                        33.704622
+                  ]
+            },
+            {
+                  "name": "Saad Bin Moaaz Mosque",
+                  "text": "O moschee comunitară din Anjar, care oferă un spațiu central pentru rugăciunea zilnică și comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.92241,
+                        33.710697
+                  ]
+            },
+            {
+                  "name": "Église Catholique Arménienne Notre-Dame du Rosaire",
+                  "text": "O biserică armeno-catolică care îi deservește pe credincioșii locali conform ritului armean în regiunea Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927663,
+                        33.724623
+                  ]
+            },
+            {
+                  "name": "anjar products market",
+                  "text": "O piață plină de viață unde vizitatorii pot găsi produse locale libaneze și meșteșuguri tradiționale armenești din Anjar.",
+                  "category": "cultural",
+                  "coords": [
+                        35.92965,
+                        33.728448
+                  ]
+            },
+            {
+                  "name": "Arifian Supermarket",
+                  "text": "O piață locală din Anjar care oferă o varietate de bunuri zilnice și specialități regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.935441,
+                        33.730086
+                  ]
+            },
+            {
+                  "name": "Bedig Makhoulian Super Market",
+                  "text": "O piață administrată de o familie, care aprovizionează comunitatea din Anjar cu produse locale proaspete și alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        35.936498,
+                        33.730375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "abdelrahim",
+                  "text": "A grand private manor house reflecting the architectural style and agricultural wealth of the Bekaa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.908665,
+                        33.761233
+                  ]
+            },
+            {
+                  "name": "anjar preserve",
+                  "text": "A protected wetland area near the Umayyad ruins, serving as a critical habitat for migratory birds and local flora.",
+                  "category": "natural",
+                  "coords": [
+                        35.949519,
+                        33.750799
+                  ]
+            },
+            {
+                  "name": "Khirbat `Ayn ad Din",
+                  "text": "At scattered ancient ruins on the outskirts of Anjar, indicating a long history of settlement in the Bekaa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.983186,
+                        33.71639
+                  ]
+            },
+            {
+                  "name": "Thermal Baths",
+                  "text": "The remains of a Roman-style bathing complex built by the Umayyads, featuring heated floors and classic brickwork.",
+                  "category": "historical",
+                  "coords": [
+                        35.934501,
+                        33.733753
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "The archaeological remains of the Umayyad Great Mosque, showcasing the early Islamic architectural layout of the 8th century.",
+                  "category": "historical",
+                  "coords": [
+                        35.934089,
+                        33.732025
+                  ]
+            },
+            {
+                  "name": "Omayyad City",
+                  "text": "A uniquely planned 8th-century commercial city founded by Caliph Walid I, featuring a strict rectangular layout and colonnaded streets.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933464,
+                        33.733329
+                  ]
+            },
+            {
+                  "name": "Boghos Snabian House Museum",
+                  "text": "A cultural museum housed in a traditional home, dedicated to the life and literary works of Armenian writer Boghos Snabian.",
+                  "category": "museum",
+                  "coords": [
+                        35.930886,
+                        33.729033
+                  ]
+            },
+            {
+                  "name": "Zekweh",
+                  "text": "An archaeological site near the Anti-Lebanon mountains featuring remains of ancient agricultural settlements and stone structures.",
+                  "category": "historical",
+                  "coords": [
+                        35.901851,
+                        33.712208
+                  ]
+            },
+            {
+                  "name": "Dakoue Roman temple",
+                  "text": "The ruins of a Prostyle-style Roman temple built with massive limestone blocks, overlooking the fertile Bekaa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        35.87661,
+                        33.691325
+                  ]
+            },
+            {
+                  "name": "Musa Dagh Monument",
+                  "text": "A poignant monument and memorial dedicated to the Armenian resistance of the 1915 Musa Dagh defense.",
+                  "category": "historical",
+                  "coords": [
+                        35.932452,
+                        33.724398
+                  ]
+            },
+            {
+                  "name": "omar bn-alkhatab",
+                  "text": "A contemporary local mosque named after Caliph Omar bin al-Khattab, serving the diverse community of Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.901689,
+                        33.708589
+                  ]
+            },
+            {
+                  "name": "masjed khaled bn-lwalid",
+                  "text": "A local Sunni mosque dedicated to the military leader Khalid ibn al-Walid, located within the village of Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.910526,
+                        33.706844
+                  ]
+            },
+            {
+                  "name": "masjed al-forqan",
+                  "text": "A neighborhood mosque providing a place of worship and religious education in the eastern Bekaa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.910482,
+                        33.702922
+                  ]
+            },
+            {
+                  "name": "othman ben affan",
+                  "text": "A community mosque named in honor of Caliph Uthman ibn Affan, situated in the residential area of Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.904182,
+                        33.775011
+                  ]
+            },
+            {
+                  "name": "masjed tho-alghafary",
+                  "text": "A Muslim place of worship in the historic quarter of Anjar, blending modern religious practice with ancient history.",
+                  "category": "landmark",
+                  "coords": [
+                        35.900147,
+                        33.682031
+                  ]
+            },
+            {
+                  "name": "Armenian Evangelical Church Anjar",
+                  "text": "This church is a spiritual center for the Armenian Evangelical community in the historic town of Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933781,
+                        33.72878
+                  ]
+            },
+            {
+                  "name": "Abou Baker Al Siddik Mosque",
+                  "text": "A local mosque in Anjar named after the first caliph of Islam, Abu Bakr.",
+                  "category": "landmark",
+                  "coords": [
+                        35.918141,
+                        33.704622
+                  ]
+            },
+            {
+                  "name": "Saad Bin Moaaz Mosque",
+                  "text": "A community mosque in Anjar providing a central space for daily prayer and the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.92241,
+                        33.710697
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary Armenian Catholic Church",
+                  "text": "An Armenian Catholic church serving the local faithful according to the Armenian rite in the Anjar region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.927663,
+                        33.724623
+                  ]
+            },
+            {
+                  "name": "anjar products market",
+                  "text": "A vibrant market where visitors can find local Lebanese products and traditional Armenian crafts from Anjar.",
+                  "category": "cultural",
+                  "coords": [
+                        35.92965,
+                        33.728448
+                  ]
+            },
+            {
+                  "name": "Arifian Supermarket",
+                  "text": "A local marketplace in Anjar offering a variety of daily goods and regional specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        35.935441,
+                        33.730086
+                  ]
+            },
+            {
+                  "name": "Bedig Makhoulian Super Market",
+                  "text": "A family-run marketplace supplying the Anjar community with fresh local produce and groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        35.936498,
+                        33.730375
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-BI",
     coords: [35.9333, 33.7333],
@@ -218,7 +2243,340 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Fondée vers 714 après J.-C. sous le calife al-Walid Ier.", "Seule ville omeyyade préservée au Liban.", "Plan urbain inspiré des camps militaires romains.", "Abandon après la chute des Omeyyades en 744.", "En ruines pendant la période ottomane (1516-1918).", "Fouilles systématiques dès 1949 sous Maurice Chéhab.", "Plus de 600 boutiques et palais mis au jour.", "Patrimoine mondial de l'UNESCO depuis 1984."],
     }, image: "/poi-images/anjar-umayyad-city-history-v2.webp"},
   {
-    id: "sidon-sea-castle-history-v2",
+    id: "sidon-sea-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alte Straßen von Sidon",
+                  "text": "Ein Labyrinth aus engen, kopfsteingepflasterten Gassen und antiken Torbögen im Herzen der historischen Altstadt von Sidon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369798,
+                        33.562128
+                  ]
+            },
+            {
+                  "name": "Saida Old City",
+                  "text": "Das antike Viertel von Saida am Meer, geprägt von mittelalterlicher Architektur und lebendigen lokalen Märkten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369911,
+                        33.563481
+                  ]
+            },
+            {
+                  "name": "Saida Old Souk",
+                  "text": "Ein traditioneller überdachter Basar mit Steinbögen, in dem Kunsthandwerk, Gewürze und lokale Köstlichkeiten verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.371897,
+                        33.564099
+                  ]
+            },
+            {
+                  "name": "Sidon Sea Castle",
+                  "text": "Diese Kreuzritterfestung aus dem Jahr 1228 steht auf einer kleinen Insel, die durch einen Damm mit dem Festland verbunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        35.370982,
+                        33.567156
+                  ]
+            },
+            {
+                  "name": "Saida History Museum",
+                  "text": "Ein Museum in einem restaurierten historischen Gebäude, das Artefakte aus der jahrtausendealten Geschichte von Saida zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        35.371317,
+                        33.562103
+                  ]
+            },
+            {
+                  "name": "El Barrane Mosque",
+                  "text": "Diese im Jahr 1572 gegründete Moschee befindet sich direkt außerhalb der ehemaligen Stadtmauern von Sidon.",
+                  "category": "religious",
+                  "coords": [
+                        35.371972,
+                        33.565191
+                  ]
+            },
+            {
+                  "name": "El-Omari Great Mosque",
+                  "text": "Die größte Moschee von Sidon, die auf den Fundamenten einer ehemaligen Kreuzritterkirche der Johanniter errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        35.367908,
+                        33.56198
+                  ]
+            },
+            {
+                  "name": "Al Zaatary Mosque",
+                  "text": "Eine zeitgenössische Moschee in Sidon mit großen Minaretten, die ein markantes Wahrzeichen im Stadtbild darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.376058,
+                        33.566954
+                  ]
+            },
+            {
+                  "name": "Abou Bakr Al Siddik Mosque",
+                  "text": "Ein modernes islamisches Gotteshaus in Sidon, das durch seine schlichte und elegante Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.377792,
+                        33.569442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Streets of Sidon",
+                  "text": "Szűk, macskaköves sikátorok és ősi boltívek labirintusa Szidón történelmi óvárosának szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369798,
+                        33.562128
+                  ]
+            },
+            {
+                  "name": "Saida Old City",
+                  "text": "Saida tengerparti ősi negyede, amelyet középkori építészet és nyüzsgő helyi piacok jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369911,
+                        33.563481
+                  ]
+            },
+            {
+                  "name": "Saida Old Souk",
+                  "text": "Hagyományos, kőíves fedett bazár, ahol kézműves termékeket, fűszereket és helyi finomságokat árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.371897,
+                        33.564099
+                  ]
+            },
+            {
+                  "name": "Sidon Sea Castle",
+                  "text": "Ez az 1228-ból származó keresztes lovagvár egy kis szigeten áll, amelyet kőgát köt össze a szárazfölddel.",
+                  "category": "castle",
+                  "coords": [
+                        35.370982,
+                        33.567156
+                  ]
+            },
+            {
+                  "name": "Saida History Museum",
+                  "text": "Egy restaurált történelmi épületben található múzeum, amely Saida több évezredes történelméből mutat be leleteket.",
+                  "category": "museum",
+                  "coords": [
+                        35.371317,
+                        33.562103
+                  ]
+            },
+            {
+                  "name": "El Barrane Mosque",
+                  "text": "Ez az 1572-ben alapított mecset közvetlenül Szidón egykori városfalain kívül található.",
+                  "category": "religious",
+                  "coords": [
+                        35.371972,
+                        33.565191
+                  ]
+            },
+            {
+                  "name": "El-Omari Great Mosque",
+                  "text": "Szidón legnagyobb mecsete, amely a johannita lovagok egykori keresztes templomának alapjaira épült.",
+                  "category": "religious",
+                  "coords": [
+                        35.367908,
+                        33.56198
+                  ]
+            },
+            {
+                  "name": "Al Zaatary Mosque",
+                  "text": "Egy kortárs mecset Szidónban, amelynek nagy minaretjei a városkép meghatározó elemei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.376058,
+                        33.566954
+                  ]
+            },
+            {
+                  "name": "Abou Bakr Al Siddik Mosque",
+                  "text": "Egy modern iszlám imaház Szidónban, amely egyszerű és elegáns építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.377792,
+                        33.569442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Streets of Sidon",
+                  "text": "Un labirint de alei înguste, pavate cu piatră, și arcade antice în inima centrului istoric al Sidonului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369798,
+                        33.562128
+                  ]
+            },
+            {
+                  "name": "Saida Old City",
+                  "text": "Vechiul cartier de pe malul mării din Saida, caracterizat prin arhitectură medievală și piețe locale pline de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369911,
+                        33.563481
+                  ]
+            },
+            {
+                  "name": "Saida Old Souk",
+                  "text": "Un bazar tradițional acoperit, cu arcade de piatră, unde se vând obiecte de artizanat, condimente și delicatese locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.371897,
+                        33.564099
+                  ]
+            },
+            {
+                  "name": "Sidon Sea Castle",
+                  "text": "Această fortăreață a cruciaților din 1228 se află pe o mică insulă legată de continent printr-un dig de piatră.",
+                  "category": "castle",
+                  "coords": [
+                        35.370982,
+                        33.567156
+                  ]
+            },
+            {
+                  "name": "Saida History Museum",
+                  "text": "Un muzeu situat într-o clădire istorică restaurată, care expune artefacte din istoria de mii de ani a orașului Saida.",
+                  "category": "museum",
+                  "coords": [
+                        35.371317,
+                        33.562103
+                  ]
+            },
+            {
+                  "name": "El Barrane Mosque",
+                  "text": "Această moschee fondată în 1572 este situată chiar în afara fostelor ziduri ale orașului Sidon.",
+                  "category": "religious",
+                  "coords": [
+                        35.371972,
+                        33.565191
+                  ]
+            },
+            {
+                  "name": "El-Omari Great Mosque",
+                  "text": "Cea mai mare moschee din Sidon, construită pe fundațiile unei foste biserici a cruciaților aparținând Cavalerilor Ioaniți.",
+                  "category": "religious",
+                  "coords": [
+                        35.367908,
+                        33.56198
+                  ]
+            },
+            {
+                  "name": "Al Zaatary Mosque",
+                  "text": "O moschee contemporană din Sidon, cu minarete mari care reprezintă un reper proeminent în peisajul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.376058,
+                        33.566954
+                  ]
+            },
+            {
+                  "name": "Abou Bakr Al Siddik Mosque",
+                  "text": "Un lăcaș de cult islamic modern din Sidon, care se remarcă prin arhitectura sa simplă și elegantă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.377792,
+                        33.569442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Streets of Sidon",
+                  "text": "A labyrinth of narrow, cobblestone alleys and ancient archways in the heart of Sidon's historic old town.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369798,
+                        33.562128
+                  ]
+            },
+            {
+                  "name": "Saida Old City",
+                  "text": "Saida's ancient seaside district, characterized by medieval architecture and vibrant local markets.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369911,
+                        33.563481
+                  ]
+            },
+            {
+                  "name": "Saida Old Souk",
+                  "text": "A traditional covered bazaar with stone arches selling handicrafts, spices, and local delicacies.",
+                  "category": "landmark",
+                  "coords": [
+                        35.371897,
+                        33.564099
+                  ]
+            },
+            {
+                  "name": "Sidon Sea Castle",
+                  "text": "This Crusader fortress from 1228 stands on a small island connected to the mainland by a stone causeway.",
+                  "category": "castle",
+                  "coords": [
+                        35.370982,
+                        33.567156
+                  ]
+            },
+            {
+                  "name": "Saida History Museum",
+                  "text": "A museum housed in a restored historic building, exhibiting artifacts from Saida's millennia-old history.",
+                  "category": "museum",
+                  "coords": [
+                        35.371317,
+                        33.562103
+                  ]
+            },
+            {
+                  "name": "El Barrane Mosque",
+                  "text": "This mosque founded in 1572 is located just outside the former city walls of Sidon.",
+                  "category": "religious",
+                  "coords": [
+                        35.371972,
+                        33.565191
+                  ]
+            },
+            {
+                  "name": "El-Omari Great Mosque",
+                  "text": "Sidon's largest mosque, built upon the foundations of a former Crusader church of the Knights Hospitaller.",
+                  "category": "religious",
+                  "coords": [
+                        35.367908,
+                        33.56198
+                  ]
+            },
+            {
+                  "name": "Al Zaatary Mosque",
+                  "text": "A contemporary mosque in Sidon with large minarets that form a prominent landmark in the cityscape.",
+                  "category": "landmark",
+                  "coords": [
+                        35.376058,
+                        33.566954
+                  ]
+            },
+            {
+                  "name": "Abou Bakr Al Siddik Mosque",
+                  "text": "A modern Islamic place of worship in Sidon, noted for its simple and elegant architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.377792,
+                        33.569442
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "LB-JA",
     coords: [35.3686, 33.5647],
@@ -261,7 +2619,196 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Sidon est attestée comme cité phénicienne depuis 4 000 av. J.-C.", "Château bâti en 1228 sous Balian de Sidon.", "Partiellement détruit dès l'année 1249.", "Conquête par le sultan mamelouk Baybars en 1291.", "Reconstruction sous Fakhr ad-Din II (1572-1635).", "Poste de garde à l'époque ottomane 1516-1918.", "Dégâts subis pendant la guerre civile 1975-1990.", "Restauration achevée en 1996."],
     }, image: "/poi-images/sidon-sea-castle-history-v2.webp"},
   {
-    id: "temple-of-bacchus-history-v2",
+    id: "temple-of-bacchus-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balbeek alter Bahnhof",
+                  "text": "Das erhaltene osmanische Bahnhofsgebäude der stillgelegten Eisenbahnstrecke in Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19502,
+                        34.002622
+                  ]
+            },
+            {
+                  "name": "Lion Temple's",
+                  "text": "Römische Tempelruinen, die für ihre kunstvollen Friese mit Löwenköpfen bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        36.202954,
+                        34.006593
+                  ]
+            },
+            {
+                  "name": "Stone of the Pregnant Woman",
+                  "text": "Ein gigantischer, 1000 Tonnen schwerer Monolith im antiken römischen Steinbruch.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19844,
+                        33.998937
+                  ]
+            },
+            {
+                  "name": "Dritter Monolith",
+                  "text": "Ein kolossaler, unfertiger Steinblock, einer der größten jemals behauenen Monolithen der Welt.",
+                  "category": "historical",
+                  "coords": [
+                        36.200097,
+                        33.999219
+                  ]
+            },
+            {
+                  "name": "Masjid As-Sayyida Khawla",
+                  "text": "Dieser bedeutende schiitische Schrein ist der Tochter von Imam Hussein gewidmet und beeindruckt durch seine prachtvollen Mosaike im persischen Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        36.201652,
+                        34.00153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baalbek old train station",
+                  "text": "Az egykori baalbeki vasútvonal fennmaradt oszmán kori állomásépülete.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19502,
+                        34.002622
+                  ]
+            },
+            {
+                  "name": "Lion Temple's",
+                  "text": "Római templomromok, amelyek oroszlánfejes díszítéseikről ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.202954,
+                        34.006593
+                  ]
+            },
+            {
+                  "name": "Stone of the Pregnant Woman",
+                  "text": "Hatalmas, 1000 tonnás monolit az ősi római kőfejtőben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19844,
+                        33.998937
+                  ]
+            },
+            {
+                  "name": "Third Monolith",
+                  "text": "Hatalmas, befejezetlen kőtömb, a világ egyik legnagyobb valaha megmunkált monolitja.",
+                  "category": "historical",
+                  "coords": [
+                        36.200097,
+                        33.999219
+                  ]
+            },
+            {
+                  "name": "Masjid As-Sayyida Khawla",
+                  "text": "Ez a jelentős síita kegyhely Imám Huszein lányának tiszteletére épült, és díszes, perzsa stílusú mozaikjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        36.201652,
+                        34.00153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baalbek old train station",
+                  "text": "Clădirea gării otomane a fostei căi ferate din Baalbek, păstrată până astăzi.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19502,
+                        34.002622
+                  ]
+            },
+            {
+                  "name": "Lion Temple's",
+                  "text": "Ruine de templu roman, cunoscute pentru frizele lor ornamentate cu capete de leu.",
+                  "category": "landmark",
+                  "coords": [
+                        36.202954,
+                        34.006593
+                  ]
+            },
+            {
+                  "name": "Stone of the Pregnant Woman",
+                  "text": "Un monolit gigantic de 1000 de tone situat în vechea carieră romană.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19844,
+                        33.998937
+                  ]
+            },
+            {
+                  "name": "Third Monolith",
+                  "text": "Un bloc de piatră colosal și neterminat, unul dintre cei mai mari monoliți sculptați vreodată.",
+                  "category": "historical",
+                  "coords": [
+                        36.200097,
+                        33.999219
+                  ]
+            },
+            {
+                  "name": "Masjid As-Sayyida Khawla",
+                  "text": "Acest sanctuar șiit important este dedicat fiicei Imamului Hussein și se remarcă prin mozaicurile sale spectaculoase în stil persan.",
+                  "category": "landmark",
+                  "coords": [
+                        36.201652,
+                        34.00153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baalbek old train station",
+                  "text": "The preserved Ottoman-era station building of the defunct railway in Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19502,
+                        34.002622
+                  ]
+            },
+            {
+                  "name": "Lion Temple",
+                  "text": "Roman temple ruins known for their ornate friezes featuring lion heads.",
+                  "category": "landmark",
+                  "coords": [
+                        36.202954,
+                        34.006593
+                  ]
+            },
+            {
+                  "name": "Stone of the Pregnant Woman",
+                  "text": "A gigantic, 1000-ton monolith lying in the ancient Roman quarry.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19844,
+                        33.998937
+                  ]
+            },
+            {
+                  "name": "Third Monolith",
+                  "text": "A colossal, unfinished stone block, one of the largest quarried monoliths in the world.",
+                  "category": "historical",
+                  "coords": [
+                        36.200097,
+                        33.999219
+                  ]
+            },
+            {
+                  "name": "Masjid As-Sayyida Khawla",
+                  "text": "This major Shia shrine is dedicated to the daughter of Imam Hussein and is renowned for its ornate Persian-style mosaic tilework.",
+                  "category": "landmark",
+                  "coords": [
+                        36.201652,
+                        34.00153
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-BH",
     coords: [36.2023, 34.0064],
@@ -305,7 +2852,124 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Achevé vers 150 ap. J.-C. sous Antonin le Pieux.", "Dimensions : surface au sol de 69 par 36 mètres.", "Les colonnes corinthiennes atteignent 19 mètres de haut.", "Probablement dédié à la déesse Atargatis.", "Transformation en église sous Théodose Ier vers 379 ap. J.-C.", "Visite de Guillaume II en 1898.", "Mission allemande sous Otto Puchstein 1898-1905.", "Classé à l'UNESCO depuis 1984, peu de dégâts de guerre."],
     }, image: "/poi-images/temple-of-bacchus-history-v2.webp"},
   {
-    id: "temple-of-jupiter-history-v2",
+    id: "temple-of-jupiter-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nördliche Stadttorruine",
+                  "text": "Diese Ruinen markieren den ehemaligen nördlichen Zugang zur antiken befestigten Stadt Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.203196,
+                        34.010735
+                  ]
+            },
+            {
+                  "name": "Flour Caves",
+                  "text": "In den Fels gehauene antike römische Grabhöhlen, die später vermutlich zur Lagerung genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        36.209246,
+                        34.01401
+                  ]
+            },
+            {
+                  "name": "Basin",
+                  "text": "Überreste eines antiken Wasserreservoirs oder rituellen Beckens in der Nähe des Tempelkomplexes von Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.204234,
+                        34.007289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Northern City Gate Ruin",
+                  "text": "Ezek a romok jelzik az egykori északi bejáratot Baalbek antik erődített városába.",
+                  "category": "landmark",
+                  "coords": [
+                        36.203196,
+                        34.010735
+                  ]
+            },
+            {
+                  "name": "Flour Caves",
+                  "text": "Sziklába vájt ókori római sírbarlangok, amelyeket később valószínűleg tárolásra használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        36.209246,
+                        34.01401
+                  ]
+            },
+            {
+                  "name": "Basin",
+                  "text": "Egy ókori víztározó vagy rituális medence maradványai a baalbeki templomkomplexum közelében.",
+                  "category": "historical",
+                  "coords": [
+                        36.204234,
+                        34.007289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Northern City Gate Ruin",
+                  "text": "Aceste ruine marchează fosta intrare nordică în orașul antic fortificat Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.203196,
+                        34.010735
+                  ]
+            },
+            {
+                  "name": "Flour Caves",
+                  "text": "Grote funerare romane antice săpate în stâncă, folosite ulterior probabil pentru depozitare.",
+                  "category": "landmark",
+                  "coords": [
+                        36.209246,
+                        34.01401
+                  ]
+            },
+            {
+                  "name": "Basin",
+                  "text": "Rămășițele unui rezervor antic de apă sau ale unui bazin ritualic lângă complexul de temple din Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.204234,
+                        34.007289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Northern City Gate Ruin",
+                  "text": "These ruins mark the former northern entrance to the ancient fortified city of Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.203196,
+                        34.010735
+                  ]
+            },
+            {
+                  "name": "Flour Caves",
+                  "text": "Ancient Roman burial caves carved into the rock, which were later used for storage purposes.",
+                  "category": "landmark",
+                  "coords": [
+                        36.209246,
+                        34.01401
+                  ]
+            },
+            {
+                  "name": "Basin",
+                  "text": "Remains of an ancient water reservoir or ritual basin located near the Baalbek temple complex.",
+                  "category": "historical",
+                  "coords": [
+                        36.204234,
+                        34.007289
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-BH",
     coords: [36.2044, 34.0074],
@@ -348,7 +3012,700 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Début de la construction vers 16 av. J.-C. sous Auguste.", "Achèvement vers 60 ap. J.-C. sous Néron.", "Initialement 54 colonnes corinthiennes de 22 mètres de haut.", "Seulement six colonnes sont encore debout aujourd'hui.", "Les mégalithes du Trilithe pèsent environ 800 tonnes chacun.", "Les séismes de 1759 détruisirent de nombreuses colonnes.", "Documentation par la mission allemande dès 1898.", "Classé au patrimoine mondial de l'UNESCO depuis 1984."],
     }, image: "/poi-images/temple-of-jupiter-history-v2.webp"},
   {
-    id: "tripoli-citadel-history-v2",
+    id: "tripoli-citadel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Saboun Caravanserai",
+                  "text": "Eine historische Karawanserei in Tripoli, die früher als Herberge für Seifenhändler diente.",
+                  "category": "landmark",
+                  "coords": [
+                        35.843609,
+                        34.43563
+                  ]
+            },
+            {
+                  "name": "Hammam Ezzeldine",
+                  "text": "Ein prächtiges öffentliches Bad aus der Mamlukenzeit mit beeindruckenden Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845186,
+                        34.435653
+                  ]
+            },
+            {
+                  "name": "Al-Tawbat Mosque",
+                  "text": "Eine bedeutende mamlukische Moschee in Tripoli mit einem markanten quadratischen Minarett.",
+                  "category": "religious",
+                  "coords": [
+                        35.846081,
+                        34.437867
+                  ]
+            },
+            {
+                  "name": "Bertasi Mosque",
+                  "text": "Diese zwischen 1290 und 1324 errichtete Moschee besticht durch ihre mamlukische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        35.846237,
+                        34.435649
+                  ]
+            },
+            {
+                  "name": "Museum of North Lebanon",
+                  "text": "Ein Museum in Tripoli, das archäologische Funde aus der gesamten Region Nordlibanon ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        35.84435,
+                        34.433367
+                  ]
+            },
+            {
+                  "name": "Mu'allaq Mosque",
+                  "text": "Eine im Jahr 1559 erbaute Moschee, die sich über einem Straßendurchgang befindet.",
+                  "category": "religious",
+                  "coords": [
+                        35.841889,
+                        34.432327
+                  ]
+            },
+            {
+                  "name": "Mansouri Great Mosque",
+                  "text": "Die größte Moschee Tripolis, die auf den Ruinen einer ehemaligen Kreuzritterkirche errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        35.842554,
+                        34.434498
+                  ]
+            },
+            {
+                  "name": "Al-Hamidi Mosque",
+                  "text": "Eine osmanische Moschee in Tripoli, die nach Sultan Abdul Hamid II. benannt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        35.844127,
+                        34.438337
+                  ]
+            },
+            {
+                  "name": "Saidet el Ouati",
+                  "text": "Eine kleine christliche Kapelle, die in der Nähe der historischen Altstadt von Tripoli liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.879176,
+                        34.354435
+                  ]
+            },
+            {
+                  "name": "Mosque Amira",
+                  "text": "Eine traditionelle Nachbarschaftsmoschee im historischen Viertel nahe der Zitadelle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.838175,
+                        34.428558
+                  ]
+            },
+            {
+                  "name": "Ras Maska Mosque",
+                  "text": "Diese Moschee dient der örtlichen Gemeinde im Stadtteil Ras Maska für Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        35.831731,
+                        34.401201
+                  ]
+            },
+            {
+                  "name": "Iman Mosque",
+                  "text": "Ein muslimisches Gotteshaus in Tripoli, das als Zentrum für religiöse Unterweisung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841732,
+                        34.424032
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "Eine der ältesten Moscheen im Viertel, die für ihren schlichten historischen Stil bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.842788,
+                        34.428208
+                  ]
+            },
+            {
+                  "name": "Al Amin Mosque",
+                  "text": "Eine Moschee in Tripoli, die nach einem der Namen Gottes benannt ist und Gläubige anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.84714,
+                        34.427933
+                  ]
+            },
+            {
+                  "name": "Al Bachir",
+                  "text": "Ein lokales muslimisches Gebetshaus in der Nähe der Zitadelle von Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848253,
+                        34.431004
+                  ]
+            },
+            {
+                  "name": "Al Rahmah",
+                  "text": "Diese Moschee im historischen Kern Tripolis bietet Raum für Besinnung und Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850211,
+                        34.433332
+                  ]
+            },
+            {
+                  "name": "Al Hamza Mosque",
+                  "text": "Eine nach einem Gefährten des Propheten benannte Moschee im geschäftigen Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.852775,
+                        34.432465
+                  ]
+            },
+            {
+                  "name": "Al Qubbet al Nasr",
+                  "text": "Eine historische Moschee auf einem Hügel, die einen weiten Blick über Tripoli bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850571,
+                        34.437779
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "Eine christliche Kirche, die der Erzengel Michael geweiht ist und im alten Tripoli liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850545,
+                        34.436403
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Saboun Caravanserai",
+                  "text": "Tripoli történelmi karavánszerája, amely egykor a szappankereskedők szálláshelye volt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.843609,
+                        34.43563
+                  ]
+            },
+            {
+                  "name": "Hammam Ezzeldine",
+                  "text": "Egy pompás mamlúk kori közfürdő, lenyűgöző kupolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845186,
+                        34.435653
+                  ]
+            },
+            {
+                  "name": "Al-Tawbat Mosque",
+                  "text": "Tripoli egyik jelentős mamlúk mecsetje, jellegzetes négyzet alakú minarettel.",
+                  "category": "religious",
+                  "coords": [
+                        35.846081,
+                        34.437867
+                  ]
+            },
+            {
+                  "name": "Bertasi Mosque",
+                  "text": "Ez az 1290 és 1324 között épült mecset lenyűgöző mamlúk építészetével.",
+                  "category": "religious",
+                  "coords": [
+                        35.846237,
+                        34.435649
+                  ]
+            },
+            {
+                  "name": "Museum of North Lebanon",
+                  "text": "Tripoli múzeuma, amely Észak-Libanon egész területéről származó régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.84435,
+                        34.433367
+                  ]
+            },
+            {
+                  "name": "Mu'allaq Mosque",
+                  "text": "Egy 1559-ben épült mecset, amely egy utcai átjáró felett helyezkedik el.",
+                  "category": "religious",
+                  "coords": [
+                        35.841889,
+                        34.432327
+                  ]
+            },
+            {
+                  "name": "Mansouri Great Mosque",
+                  "text": "Tripoli legnagyobb mecsetje, amely egy korábbi keresztes templom romjaira épült.",
+                  "category": "religious",
+                  "coords": [
+                        35.842554,
+                        34.434498
+                  ]
+            },
+            {
+                  "name": "Al-Hamidi Mosque",
+                  "text": "Tripoli oszmán mecsetje, amelyet II. Abdul-Hamid szultánról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        35.844127,
+                        34.438337
+                  ]
+            },
+            {
+                  "name": "Saidet el Ouati",
+                  "text": "Egy kis keresztény kápolna Tripoli történelmi óvárosának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.879176,
+                        34.354435
+                  ]
+            },
+            {
+                  "name": "Mosque Amira",
+                  "text": "Egy hagyományos szomszédsági mecset a citadella melletti történelmi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.838175,
+                        34.428558
+                  ]
+            },
+            {
+                  "name": "Ras Maska Mosque",
+                  "text": "Ez a mecset a Ras Maska negyed helyi közösségét szolgálja az imádságok során.",
+                  "category": "landmark",
+                  "coords": [
+                        35.831731,
+                        34.401201
+                  ]
+            },
+            {
+                  "name": "Iman Mosque",
+                  "text": "Tripoli egyik muszlim imaháza, amely vallási oktatási központként is működik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841732,
+                        34.424032
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "A negyed egyik legrégebbi mecsetje, amely egyszerű történelmi stílusáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.842788,
+                        34.428208
+                  ]
+            },
+            {
+                  "name": "Al Amin Mosque",
+                  "text": "Egy tripoli mecset, amelyet Isten egyik nevéről neveztek el, és sok hívőt vonz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.84714,
+                        34.427933
+                  ]
+            },
+            {
+                  "name": "Al Bachir",
+                  "text": "Egy helyi muszlim imaház a tripoli citadella közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848253,
+                        34.431004
+                  ]
+            },
+            {
+                  "name": "Al Rahmah",
+                  "text": "Tripoli történelmi magjában található mecset helyet kínál az elmélyülésre és imára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850211,
+                        34.433332
+                  ]
+            },
+            {
+                  "name": "Al Hamza Mosque",
+                  "text": "A próféta egyik társáról elnevezett mecset a nyüzsgő Tripoliban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.852775,
+                        34.432465
+                  ]
+            },
+            {
+                  "name": "Al Qubbet al Nasr",
+                  "text": "Egy dombtetőn álló történelmi mecset, ahonnan tágas kilátás nyílik Tripolira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850571,
+                        34.437779
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "Szent Mihály arkangyalnak szentelt keresztény templom Tripoli óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850545,
+                        34.436403
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Saboun Caravanserai",
+                  "text": "Un han istoric din Tripoli, care servea în trecut drept loc de cazare pentru negustorii de săpun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.843609,
+                        34.43563
+                  ]
+            },
+            {
+                  "name": "Hammam Ezzeldine",
+                  "text": "O baie publică splendidă din epoca mamelucă, cu cupole impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845186,
+                        34.435653
+                  ]
+            },
+            {
+                  "name": "Al-Tawbat Mosque",
+                  "text": "O moschee mamelucă importantă din Tripoli, cu un minaret pătrat distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        35.846081,
+                        34.437867
+                  ]
+            },
+            {
+                  "name": "Bertasi Mosque",
+                  "text": "Această moschee construită între 1290 și 1324 impresionează prin arhitectura sa mamelucă.",
+                  "category": "religious",
+                  "coords": [
+                        35.846237,
+                        34.435649
+                  ]
+            },
+            {
+                  "name": "Museum of North Lebanon",
+                  "text": "Un muzeu din Tripoli care expune descoperiri arheologice din întreaga regiune a Libanului de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        35.84435,
+                        34.433367
+                  ]
+            },
+            {
+                  "name": "Mu'allaq Mosque",
+                  "text": "O moschee construită în 1559, situată deasupra unui pasaj stradal.",
+                  "category": "religious",
+                  "coords": [
+                        35.841889,
+                        34.432327
+                  ]
+            },
+            {
+                  "name": "Mansouri Great Mosque",
+                  "text": "Cea mai mare moschee din Tripoli, construită pe ruinele unei foste biserici cruciate.",
+                  "category": "religious",
+                  "coords": [
+                        35.842554,
+                        34.434498
+                  ]
+            },
+            {
+                  "name": "Al-Hamidi Mosque",
+                  "text": "O moschee otomană din Tripoli, numită după sultanul Abdul Hamid al II-lea.",
+                  "category": "religious",
+                  "coords": [
+                        35.844127,
+                        34.438337
+                  ]
+            },
+            {
+                  "name": "Saidet el Ouati",
+                  "text": "O mică capelă creștină situată în apropierea centrului istoric din Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.879176,
+                        34.354435
+                  ]
+            },
+            {
+                  "name": "Mosque Amira",
+                  "text": "O moschee tradițională de cartier în districtul istoric de lângă citadelă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.838175,
+                        34.428558
+                  ]
+            },
+            {
+                  "name": "Ras Maska Mosque",
+                  "text": "Această moschee deservește comunitatea locală din cartierul Ras Maska pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.831731,
+                        34.401201
+                  ]
+            },
+            {
+                  "name": "Iman Mosque",
+                  "text": "Un lăcaș de cult musulman din Tripoli, care servește drept centru de instruire religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841732,
+                        34.424032
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "Una dintre cele mai vechi moschei din cartier, cunoscută pentru stilul său istoric simplu.",
+                  "category": "landmark",
+                  "coords": [
+                        35.842788,
+                        34.428208
+                  ]
+            },
+            {
+                  "name": "Al Amin Mosque",
+                  "text": "O moschee din Tripoli, numită după unul dintre numele lui Dumnezeu, care atrage credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        35.84714,
+                        34.427933
+                  ]
+            },
+            {
+                  "name": "Al Bachir",
+                  "text": "O casă de rugăciune musulmană locală în apropierea citadelei din Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848253,
+                        34.431004
+                  ]
+            },
+            {
+                  "name": "Al Rahmah",
+                  "text": "Această moschee din nucleul istoric al orașului Tripoli oferă spațiu pentru reflecție și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850211,
+                        34.433332
+                  ]
+            },
+            {
+                  "name": "Al Hamza Mosque",
+                  "text": "O moschee numită după un companion al profetului în forfotul orașului Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.852775,
+                        34.432465
+                  ]
+            },
+            {
+                  "name": "Al Qubbet al Nasr",
+                  "text": "O moschee istorică pe un deal, oferind o vedere largă asupra orașului Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850571,
+                        34.437779
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "O biserică creștină dedicată Sfântului Arhanghel Mihail, situată în vechiul Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850545,
+                        34.436403
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Saboun Caravanserai",
+                  "text": "A historic caravanserai in Tripoli that formerly served as an inn for soap merchants.",
+                  "category": "landmark",
+                  "coords": [
+                        35.843609,
+                        34.43563
+                  ]
+            },
+            {
+                  "name": "Hammam Ezzeldine",
+                  "text": "A magnificent Mamluk-era public bath with impressive domes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845186,
+                        34.435653
+                  ]
+            },
+            {
+                  "name": "Al-Tawbat Mosque",
+                  "text": "A significant Mamluk mosque in Tripoli featuring a distinctive square minaret.",
+                  "category": "religious",
+                  "coords": [
+                        35.846081,
+                        34.437867
+                  ]
+            },
+            {
+                  "name": "Bertasi Mosque",
+                  "text": "Built between 1290 and 1324, this mosque impresses with its Mamluk architecture.",
+                  "category": "religious",
+                  "coords": [
+                        35.846237,
+                        34.435649
+                  ]
+            },
+            {
+                  "name": "Museum of North Lebanon",
+                  "text": "A museum in Tripoli exhibiting archaeological finds from across the North Lebanon region.",
+                  "category": "museum",
+                  "coords": [
+                        35.84435,
+                        34.433367
+                  ]
+            },
+            {
+                  "name": "Mu'allaq Mosque",
+                  "text": "A mosque built in 1559, uniquely situated above a street passage.",
+                  "category": "religious",
+                  "coords": [
+                        35.841889,
+                        34.432327
+                  ]
+            },
+            {
+                  "name": "Mansouri Great Mosque",
+                  "text": "The largest mosque in Tripoli, built on the ruins of a former Crusader church.",
+                  "category": "religious",
+                  "coords": [
+                        35.842554,
+                        34.434498
+                  ]
+            },
+            {
+                  "name": "Al-Hamidi Mosque",
+                  "text": "An Ottoman-era mosque in Tripoli named after Sultan Abdul Hamid II.",
+                  "category": "religious",
+                  "coords": [
+                        35.844127,
+                        34.438337
+                  ]
+            },
+            {
+                  "name": "Saidet el Ouati",
+                  "text": "A small Christian chapel located near the historic old town of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.879176,
+                        34.354435
+                  ]
+            },
+            {
+                  "name": "Mosque Amira",
+                  "text": "A traditional neighborhood mosque in the historic district near the citadel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.838175,
+                        34.428558
+                  ]
+            },
+            {
+                  "name": "Ras Maska Mosque",
+                  "text": "This mosque serves the local community in the Ras Maska district for prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.831731,
+                        34.401201
+                  ]
+            },
+            {
+                  "name": "Iman Mosque",
+                  "text": "A Muslim place of worship in Tripoli that serves as a center for religious instruction.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841732,
+                        34.424032
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "One of the oldest mosques in the neighborhood, known for its simple historic style.",
+                  "category": "landmark",
+                  "coords": [
+                        35.842788,
+                        34.428208
+                  ]
+            },
+            {
+                  "name": "Al Amin Mosque",
+                  "text": "A mosque in Tripoli named after one of the names of God, attracting worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.84714,
+                        34.427933
+                  ]
+            },
+            {
+                  "name": "Al Bachir",
+                  "text": "A local Muslim prayer house located near the Tripoli citadel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.848253,
+                        34.431004
+                  ]
+            },
+            {
+                  "name": "Al Rahmah",
+                  "text": "This mosque in the historic core of Tripoli offers space for reflection and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850211,
+                        34.433332
+                  ]
+            },
+            {
+                  "name": "Al Hamza Mosque",
+                  "text": "A mosque named after a companion of the Prophet in the bustling city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.852775,
+                        34.432465
+                  ]
+            },
+            {
+                  "name": "Al Qubbet al Nasr",
+                  "text": "A historic hilltop mosque providing a wide view over the city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850571,
+                        34.437779
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "A Christian church dedicated to St. Michael located in old Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.850545,
+                        34.436403
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "LB-AS",
     coords: [35.8453, 34.4336],
@@ -391,7 +3748,592 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Fondée en 1103 par Raymond de Saint-Gilles.", "Tripoli tomba aux mains des croisés en 1109.", "Conquête par le sultan mamelouk Qala'ûn en 1289.", "Agrandissement en 1521-1522 sous Soliman le Magnifique.", "Développement dès 1808 par Moustafa Agha Barbar.", "Caserne sous le mandat français 1923-1943.", "Temporairement occupée pendant la guerre civile 1975-1990.", "Abrite aujourd'hui un musée historique."],
     }, image: "/poi-images/tripoli-citadel-history-v2.webp"},
   {
-    id: "beaufort-castle-history-v2",
+    id: "beaufort-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Beaufort",
+                  "text": "Diese imposante Kreuzfahrerfestung aus dem Jahr 1260 nimmt eine strategische Position mit Blick auf den Fluss Litani im Südlibanon ein.",
+                  "category": "castle",
+                  "coords": [
+                        35.532136,
+                        33.324407
+                  ]
+            },
+            {
+                  "name": "Wadi Al Hujair Nature Reserve",
+                  "text": "Dieses Naturschutzgebiet schützt ein tiefes Tal in der Nähe der Burg Beaufort, das durch seine mediterranen Wälder und wichtigen ökologischen Korridore gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.447324,
+                        33.277771
+                  ]
+            },
+            {
+                  "name": "Wadi El Hjeir Mosque",
+                  "text": "Diese islamische Stätte im Wadi-El-Hjeir-Tal nahe der Burg Beaufort dient den lokalen Gemeinden, die in der zerklüfteten Landschaft leben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.4376,
+                        33.306734
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Diese dem heiligen Georg geweihte christliche Kirche bietet den historischen christlichen Gemeinden in der Region der Burg Beaufort einen Ort des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        35.568045,
+                        33.330938
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Diese Kirche dient der maronitisch-katholischen Gemeinde in der Nähe der Burg Beaufort und ist ein Zeugnis des vielfältigen religiösen Erbes der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534869,
+                        33.386144
+                  ]
+            },
+            {
+                  "name": "Hussayniyat Al Nabatieh",
+                  "text": "Diese prominente Husseiniyya in Nabatäa dient schiitischen Muslimen als wichtige Versammlungshalle, insbesondere im Trauermonat Muharram.",
+                  "category": "landmark",
+                  "coords": [
+                        35.480461,
+                        33.378642
+                  ]
+            },
+            {
+                  "name": "Masjed Al Imam el Husein",
+                  "text": "Diese dem Imam Hussein gewidmete Moschee ist eine zentrale religiöse Stätte für die schiitisch-islamische Gemeinde, die in der Umgebung der Burg Beaufort lebt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.482573,
+                        33.377675
+                  ]
+            },
+            {
+                  "name": "El Bayyad Mosque",
+                  "text": "In der südlibanesischen Landschaft in der Nähe der Burg Beaufort gelegen, bietet diese Moschee tägliche spirituelle Dienste für die lokale muslimische Bevölkerung.",
+                  "category": "landmark",
+                  "coords": [
+                        35.480917,
+                        33.382121
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Zu Ehren des prophezeiten Erlösers des Islam benannt, versammelt diese Moschee die lokale Gemeinde in der Nähe der historischen Burg Beaufort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487803,
+                        33.384551
+                  ]
+            },
+            {
+                  "name": "Asarayya Mosque",
+                  "text": "Diese islamische Kultstätte ist ein wesentlicher Treffpunkt für die Anwohner, die im Schatten der majestätischen Burg Beaufort leben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.483016,
+                        33.376615
+                  ]
+            },
+            {
+                  "name": "Al Zahraa Mosque",
+                  "text": "Eine islamische Kultstätte, die der lokalen muslimischen Gemeinde in der Nähe der historischen Festung Beaufort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.481814,
+                        33.392568
+                  ]
+            },
+            {
+                  "name": "em moussa",
+                  "text": "Ein lokaler Handelsmarkt, der Anwohner und Besucher nahe der Burg Beaufort mit Waren des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.514064,
+                        33.308506
+                  ]
+            },
+            {
+                  "name": "Wafic market",
+                  "text": "Ein geschäftiger Marktplatz, der regionale Produkte und Haushaltswaren in der Umgebung der Burg Beaufort anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.51931,
+                        33.309658
+                  ]
+            },
+            {
+                  "name": "Groccery Store",
+                  "text": "Ein Lebensmittelmarkt, der die Region Beaufort mit frischen Lebensmitteln und Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.521605,
+                        33.314645
+                  ]
+            },
+            {
+                  "name": "mini market al mojtaba",
+                  "text": "Ein kompakter Nachbarschaftsmarkt, der nahe den Wahrzeichen von Beaufort wichtige Lebensmittel und lokale Waren verkauft.",
+                  "category": "cultural",
+                  "coords": [
+                        35.47901,
+                        33.394026
+                  ]
+            },
+            {
+                  "name": "Wissam Market",
+                  "text": "Ein lebhafter Händlermarkt, der im historischen Gebiet von Beaufort eine Vielzahl an Grundnahrungsmitteln anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.514831,
+                        33.310758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beaufort Castle",
+                  "text": "Az 1260-ból származó impozáns keresztes erőd stratégiai helyzetből tekint le a Litani-folyóra Dél-Libanonban.",
+                  "category": "castle",
+                  "coords": [
+                        35.532136,
+                        33.324407
+                  ]
+            },
+            {
+                  "name": "Wadi Al Hujair Nature Reserve",
+                  "text": "Ez a természetvédelmi terület a Beaufort-kastély közelében fekvő mély völgyet védi, amelyet mediterrán erdők és fontos ökológiai folyosók jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        35.447324,
+                        33.277771
+                  ]
+            },
+            {
+                  "name": "Wadi El Hjeir Mosque",
+                  "text": "A Beaufort-kastély közelében, a Wadi El Hjeir völgyében megbúvó iszlám helyszín a zord vidéken élő helyi közösségeket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.4376,
+                        33.306734
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Ez a Szent Györgynek szentelt keresztény templom istentiszteleti helyet biztosít a történelmi keresztény közösségek számára a Beaufort-kastély régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.568045,
+                        33.330938
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "A Beaufort-kastély közelében élő maronita katolikus közösséget szolgáló templom a régió sokszínű vallási örökségének bizonyítéka.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534869,
+                        33.386144
+                  ]
+            },
+            {
+                  "name": "Hussayniyat Al Nabatieh",
+                  "text": "Ez a nabatiehi kiemelkedő husszeinija létfontosságú gyülekezeti teremként szolgál a síita muszlimok számára, különösen a muharram gyász hónapjában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.480461,
+                        33.378642
+                  ]
+            },
+            {
+                  "name": "Masjed Al Imam el Husein",
+                  "text": "A Husszein imámnak szentelt mecset központi vallási helyszín a Beaufort-kastély környékén élő síita iszlám közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.482573,
+                        33.377675
+                  ]
+            },
+            {
+                  "name": "El Bayyad Mosque",
+                  "text": "A dél-libanoni vidéken, a Beaufort-kastély közelében található mecset napi spirituális szolgáltatásokat nyújt a helyi muszlim lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.480917,
+                        33.382121
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Az iszlám megjövendölt megváltójának tiszteletére elnevezett mecset a helyi közösséget gyűjti össze a történelmi Beaufort-kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487803,
+                        33.384551
+                  ]
+            },
+            {
+                  "name": "Asarayya Mosque",
+                  "text": "Ez az iszlám istentiszteleti hely alapvető közösségi központ a tekintélyt parancsoló Beaufort-kastély árnyékában élő lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.483016,
+                        33.376615
+                  ]
+            },
+            {
+                  "name": "Al Zahraa Mosque",
+                  "text": "Iszlám istentiszteleti hely, amely a helyi muszlim közösséget szolgálja Beaufort történelmi vára közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.481814,
+                        33.392568
+                  ]
+            },
+            {
+                  "name": "em moussa",
+                  "text": "Helyi piac, amely mindennapi cikkekkel látja el a Beaufort vár közelében élőket és az idelátogatókat.",
+                  "category": "cultural",
+                  "coords": [
+                        35.514064,
+                        33.308506
+                  ]
+            },
+            {
+                  "name": "Wafic market",
+                  "text": "Forgalmas piac, amely regionális termékeket és háztartási cikkeket kínál a Beaufort vár környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        35.51931,
+                        33.309658
+                  ]
+            },
+            {
+                  "name": "Groccery Store",
+                  "text": "Helyi élelmiszerpiac, amely friss élelmiszerekkel és napi szükségleti cikkekkel látja el Beaufort térségét.",
+                  "category": "cultural",
+                  "coords": [
+                        35.521605,
+                        33.314645
+                  ]
+            },
+            {
+                  "name": "mini market al mojtaba",
+                  "text": "Kompakt környékbeli piac, amely alapvető élelmiszereket és helyi árukat árul a beaufort-i nevezetességek közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        35.47901,
+                        33.394026
+                  ]
+            },
+            {
+                  "name": "Wissam Market",
+                  "text": "Élénk árusító piac, amely különféle alapvető cikkeket kínál a történelmi Beaufort térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        35.514831,
+                        33.310758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beaufort Castle",
+                  "text": "Datând din 1260, această fortăreață impunătoare a cruciaților deține o poziție strategică cu vedere la râul Litani din sudul Libanului.",
+                  "category": "castle",
+                  "coords": [
+                        35.532136,
+                        33.324407
+                  ]
+            },
+            {
+                  "name": "Wadi Al Hujair Nature Reserve",
+                  "text": "Această rezervație naturală protejează o vale adâncă de lângă Castelul Beaufort, caracterizată prin pădurea sa mediteraneană și importante coridoare ecologice.",
+                  "category": "natural",
+                  "coords": [
+                        35.447324,
+                        33.277771
+                  ]
+            },
+            {
+                  "name": "Wadi El Hjeir Mosque",
+                  "text": "Amplasat în valea Wadi El Hjeir de lângă Castelul Beaufort, acest sit islamic deservește comunitățile locale care locuiesc în peisajul accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.4376,
+                        33.306734
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Această biserică creștină, dedicată Sfântului Gheorghe, oferă un lăcaș de cult pentru comunitățile creștine istorice din regiunea Castelului Beaufort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.568045,
+                        33.330938
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Deservind comunitatea catolică maronită de lângă Castelul Beaufort, această biserică este o dovadă a patrimoniului religios divers al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534869,
+                        33.386144
+                  ]
+            },
+            {
+                  "name": "Hussayniyat Al Nabatieh",
+                  "text": "Această husseiniya proeminentă din Nabatieh servește ca o sală de adunare vitală pentru musulmanii șiiți, în special în luna de doliu Muharram.",
+                  "category": "landmark",
+                  "coords": [
+                        35.480461,
+                        33.378642
+                  ]
+            },
+            {
+                  "name": "Masjed Al Imam el Husein",
+                  "text": "Dedicată Imamului Hussein, această moschee este un sit religios central pentru comunitatea islamică șiită care locuiește în vecinătatea Castelului Beaufort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.482573,
+                        33.377675
+                  ]
+            },
+            {
+                  "name": "El Bayyad Mosque",
+                  "text": "Situată în peisajul din sudul Libanului, lângă Castelul Beaufort, această moschee oferă servicii spirituale zilnice pentru populația musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.480917,
+                        33.382121
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Numită în onoarea mântuitorului profețit al islamului, această moschee adună comunitatea locală lângă istoricul Castel Beaufort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487803,
+                        33.384551
+                  ]
+            },
+            {
+                  "name": "Asarayya Mosque",
+                  "text": "Acest lăcaș de cult islamic este un centru comunitar esențial pentru locuitorii care trăiesc în umbra impunătorului Castel Beaufort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.483016,
+                        33.376615
+                  ]
+            },
+            {
+                  "name": "Al Zahraa Mosque",
+                  "text": "Un lăcaș de cult islamic care deservește comunitatea musulmană locală din apropierea castelului istoric Beaufort.",
+                  "category": "landmark",
+                  "coords": [
+                        35.481814,
+                        33.392568
+                  ]
+            },
+            {
+                  "name": "em moussa",
+                  "text": "O piață comercială locală care oferă bunuri de zi cu zi locuitorilor și vizitatorilor din apropierea castelului Beaufort.",
+                  "category": "cultural",
+                  "coords": [
+                        35.514064,
+                        33.308506
+                  ]
+            },
+            {
+                  "name": "Wafic market",
+                  "text": "O piață plină de viață, care oferă produse regionale și articole de uz casnic în vecinătatea castelului Beaufort.",
+                  "category": "cultural",
+                  "coords": [
+                        35.51931,
+                        33.309658
+                  ]
+            },
+            {
+                  "name": "Groccery Store",
+                  "text": "O piață alimentară comunitară care aprovizionează regiunea Beaufort cu alimente proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        35.521605,
+                        33.314645
+                  ]
+            },
+            {
+                  "name": "mini market al mojtaba",
+                  "text": "O piață de cartier compactă, care vinde alimente esențiale și bunuri locale în apropierea reperelor din Beaufort.",
+                  "category": "cultural",
+                  "coords": [
+                        35.47901,
+                        33.394026
+                  ]
+            },
+            {
+                  "name": "Wissam Market",
+                  "text": "O piață animată de vânzători care oferă o varietate de produse de bază în zona istorică Beaufort.",
+                  "category": "cultural",
+                  "coords": [
+                        35.514831,
+                        33.310758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beaufort Castle",
+                  "text": "Dating back to 1260, this imposing Crusader fortress commands a strategic position overlooking the Litani River in southern Lebanon.",
+                  "category": "castle",
+                  "coords": [
+                        35.532136,
+                        33.324407
+                  ]
+            },
+            {
+                  "name": "Wadi Al Hujair Nature Reserve",
+                  "text": "This nature reserve protects a deep valley near Beaufort Castle, characterized by its Mediterranean woodland and important ecological corridors.",
+                  "category": "natural",
+                  "coords": [
+                        35.447324,
+                        33.277771
+                  ]
+            },
+            {
+                  "name": "Wadi El Hjeir Mosque",
+                  "text": "Nestled in the Wadi El Hjeir valley near Beaufort Castle, this Islamic site serves the local communities residing in the rugged landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        35.4376,
+                        33.306734
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "This Christian church, dedicated to St. George, provides a place of worship for the historic Christian communities in the Beaufort Castle region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.568045,
+                        33.330938
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Serving the Maronite Catholic community near Beaufort Castle, this church is a testament to the region's diverse religious heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534869,
+                        33.386144
+                  ]
+            },
+            {
+                  "name": "Hussayniyat Al Nabatieh",
+                  "text": "This prominent Hussainiya in Nabatieh serves as a vital congregation hall for Shia Muslims, particularly during the mourning month of Muharram.",
+                  "category": "landmark",
+                  "coords": [
+                        35.480461,
+                        33.378642
+                  ]
+            },
+            {
+                  "name": "Masjed Al Imam el Husein",
+                  "text": "Dedicated to Imam Hussein, this mosque is a central religious site for the Shia Islamic community residing in the vicinity of Beaufort Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.482573,
+                        33.377675
+                  ]
+            },
+            {
+                  "name": "El Bayyad Mosque",
+                  "text": "Located in the southern Lebanese landscape near Beaufort Castle, this mosque provides daily spiritual services for the local Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        35.480917,
+                        33.382121
+                  ]
+            },
+            {
+                  "name": "Imam Mahdi Mosque",
+                  "text": "Named in honor of the prophesied redeemer of Islam, this mosque gathers the local community near the historic Beaufort Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.487803,
+                        33.384551
+                  ]
+            },
+            {
+                  "name": "Asarayya Mosque",
+                  "text": "This Islamic place of worship is an essential community hub for residents living in the shadow of the commanding Beaufort Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.483016,
+                        33.376615
+                  ]
+            },
+            {
+                  "name": "Al Zahraa Mosque",
+                  "text": "An Islamic place of worship serving the local community near the historic Beaufort Castle area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.481814,
+                        33.392568
+                  ]
+            },
+            {
+                  "name": "em moussa",
+                  "text": "A local trading market providing everyday goods to residents and visitors near Beaufort Castle.",
+                  "category": "cultural",
+                  "coords": [
+                        35.514064,
+                        33.308506
+                  ]
+            },
+            {
+                  "name": "Wafic market",
+                  "text": "A bustling marketplace offering regional produce and household items in the Beaufort Castle vicinity.",
+                  "category": "cultural",
+                  "coords": [
+                        35.51931,
+                        33.309658
+                  ]
+            },
+            {
+                  "name": "Groccery Store",
+                  "text": "A community grocery market supplying fresh food and daily necessities to the Beaufort region.",
+                  "category": "cultural",
+                  "coords": [
+                        35.521605,
+                        33.314645
+                  ]
+            },
+            {
+                  "name": "mini market al mojtaba",
+                  "text": "A compact neighborhood market selling essential groceries and local goods near the Beaufort landmarks.",
+                  "category": "cultural",
+                  "coords": [
+                        35.47901,
+                        33.394026
+                  ]
+            },
+            {
+                  "name": "Wissam Market",
+                  "text": "A lively vendor market providing a variety of shopping staples in the historical Beaufort area.",
+                  "category": "cultural",
+                  "coords": [
+                        35.514831,
+                        33.310758
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-NA",
     coords: [35.5317, 33.3228],
@@ -434,7 +4376,232 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Construit dès 1139 sous Foulques d'Anjou.", "Conquête par Saladin en 1190.", "Prise définitive par Baibars en 1268.", "Renforcement vers 1620 sous Fakhr ad-Din II.", "Le séisme de 1837 en détruisit une grande partie.", "Occupation israélienne de 1982 au 24 mai 2000.", "Stratégiquement important lors de la guerre civile 1975-1990.", "Travaux de restauration commencés en 2008."],
     }, image: "/poi-images/beaufort-castle-history-v2.webp"},
   {
-    id: "roman-baths-beirut-history-v2",
+    id: "roman-baths-beirut-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cisterns of the Roman Baths",
+                  "text": "Gewölbte unterirdische Zisternen, die zur Wasserversorgung des römischen Thermalkomplexes dienten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502534,
+                        33.89673
+                  ]
+            },
+            {
+                  "name": "Hippodrom von Berytus",
+                  "text": "Archäologische Überreste des antiken römischen Hippodroms für Wagenrennen.",
+                  "category": "historical",
+                  "coords": [
+                        35.499921,
+                        33.897205
+                  ]
+            },
+            {
+                  "name": "All Saints' Anglican Church",
+                  "text": "Anglikanische Steinkirche für die internationale Gemeinde im Viertel Ras Beirut.",
+                  "category": "religious",
+                  "coords": [
+                        35.498261,
+                        33.901151
+                  ]
+            },
+            {
+                  "name": "Saint Louis",
+                  "text": "Kapuzinerkathedrale im Zentrum mit markantem Uhrturm und Architektur im Renaissancestil.",
+                  "category": "religious",
+                  "coords": [
+                        35.502565,
+                        33.897956
+                  ]
+            },
+            {
+                  "name": "Serail Hill",
+                  "text": "Historischer Hügel mit Blick auf das Meer, auf dem sich der osmanische Regierungssitz Grand Serail befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500931,
+                        33.89605
+                  ]
+            },
+            {
+                  "name": "Saint Elias Maronite Church",
+                  "text": "Elegante maronitische Kirche im Herzen des Beiruter Geschäftsviertels.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496346,
+                        33.897241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cisterns of the Roman Baths",
+                  "text": "Boltíves föld alatti ciszternák, amelyek a római termálkomplexum vízellátását szolgálták.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502534,
+                        33.89673
+                  ]
+            },
+            {
+                  "name": "Hippodrome of Berytus",
+                  "text": "Az ókori római hippodrom régészeti maradványai, ahol kocsiversenyeket rendeztek.",
+                  "category": "historical",
+                  "coords": [
+                        35.499921,
+                        33.897205
+                  ]
+            },
+            {
+                  "name": "All Saints' Anglican Church",
+                  "text": "Anglikán kőtemplom a Ras Bejrút negyed nemzetközi közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        35.498261,
+                        33.901151
+                  ]
+            },
+            {
+                  "name": "Saint Louis",
+                  "text": "Központi kapucinus katedrális jellegzetes óratoronnyal és reneszánsz stílusú építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        35.502565,
+                        33.897956
+                  ]
+            },
+            {
+                  "name": "Serail Hill",
+                  "text": "A tengerre néző történelmi domb, amely az oszmán kori Grand Serail kormányzati székhelynek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500931,
+                        33.89605
+                  ]
+            },
+            {
+                  "name": "Saint Elias Maronite Church",
+                  "text": "Elegáns maronita templom Bejrút üzleti negyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496346,
+                        33.897241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cisterns of the Roman Baths",
+                  "text": "Cisterne subterane boltite care serveau la alimentarea cu apă a complexului termal roman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502534,
+                        33.89673
+                  ]
+            },
+            {
+                  "name": "Hippodrome of Berytus",
+                  "text": "Rămășițe arheologice ale vechiului hipodrom roman folosit pentru cursele de care.",
+                  "category": "historical",
+                  "coords": [
+                        35.499921,
+                        33.897205
+                  ]
+            },
+            {
+                  "name": "All Saints' Anglican Church",
+                  "text": "Biserică anglicană din piatră pentru comunitatea internațională din cartierul Ras Beirut.",
+                  "category": "religious",
+                  "coords": [
+                        35.498261,
+                        33.901151
+                  ]
+            },
+            {
+                  "name": "Saint Louis",
+                  "text": "Catedrală capucină centrală cu un turn cu ceas distinctiv și arhitectură în stil renascentist.",
+                  "category": "religious",
+                  "coords": [
+                        35.502565,
+                        33.897956
+                  ]
+            },
+            {
+                  "name": "Serail Hill",
+                  "text": "Deal istoric cu vedere la mare, unde se află Grand Serail, sediul guvernului din epoca otomană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500931,
+                        33.89605
+                  ]
+            },
+            {
+                  "name": "Saint Elias Maronite Church",
+                  "text": "Biserică maronită elegantă situată în inima cartierului de afaceri din Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496346,
+                        33.897241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cisterns of the Roman Baths",
+                  "text": "Large vaulted underground chambers once used for storing water in the Roman baths.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502534,
+                        33.89673
+                  ]
+            },
+            {
+                  "name": "Hippodrome of Berytus",
+                  "text": "Archaeological remains of the Roman-era circus used for chariot racing.",
+                  "category": "historical",
+                  "coords": [
+                        35.499921,
+                        33.897205
+                  ]
+            },
+            {
+                  "name": "All Saints' Anglican Church",
+                  "text": "Stone Anglican church serving the English-speaking community in the Ras Beirut area.",
+                  "category": "religious",
+                  "coords": [
+                        35.498261,
+                        33.901151
+                  ]
+            },
+            {
+                  "name": "Saint Louis",
+                  "text": "Capuchin cathedral in central Beirut featuring a distinctive tower and Renaissance-style architecture.",
+                  "category": "religious",
+                  "coords": [
+                        35.502565,
+                        33.897956
+                  ]
+            },
+            {
+                  "name": "Serail Hill",
+                  "text": "Historic hill overlooking the Mediterranean, home to the Ottoman-era Grand Serail.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500931,
+                        33.89605
+                  ]
+            },
+            {
+                  "name": "Saint Elias Maronite Church",
+                  "text": "Elegant Maronite church located near the commercial heart of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        35.496346,
+                        33.897241
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-BA",
     coords: [35.5025, 33.8967],
@@ -477,7 +4644,916 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Béryte est devenue une colonie romaine en 14 av. J.-C.", "Célèbre école de droit du IIIe au VIe siècle.", "Thermes construits entre le Ier et le IIIe siècle ap. J.-C.", "Le séisme de 551 a détruit l'ancienne Béryte.", "Redécouverte en 1968 lors de la construction du Grand Sérail.", "Ensevelis à l'époque ottomane (1516-1918).", "Restauration 1995-1997 par Solidere.", "Ouverts au public depuis l'année 1998."],
     }, image: "/poi-images/roman-baths-beirut-history-v2.webp"},
   {
-    id: "our-lady-of-lebanon-history-v2",
+    id: "our-lady-of-lebanon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chateau Muzar",
+                  "text": "Ein weltweit renommiertes Weingut in Ghazir, bekannt für seine komplexen Weine aus historischen Gewölbekellern.",
+                  "category": "landmark",
+                  "coords": [
+                        35.669919,
+                        34.016349
+                  ]
+            },
+            {
+                  "name": "Roman temple site",
+                  "text": "Antike Steinfundamente eines römischen Heiligtums auf einem Hügel mit Blick auf das Mittelmeer.",
+                  "category": "historical",
+                  "coords": [
+                        35.680984,
+                        34.000522
+                  ]
+            },
+            {
+                  "name": "Malibu Bay",
+                  "text": "Ein Küstenresort in der Bucht von Jounieh mit einem Privatstrand und Pools mit Meerblick.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643735,
+                        33.999928
+                  ]
+            },
+            {
+                  "name": "Residence Simon Sfeir",
+                  "text": "Eine herrschaftliche Steinresidenz, die typische levantinische Architekturelemente aufweist.",
+                  "category": "castle",
+                  "coords": [
+                        35.682347,
+                        33.960046
+                  ]
+            },
+            {
+                  "name": "Museum of Independence",
+                  "text": "Ein historisches Museum in Ghazir, das dem libanesischen Kampf um die Unabhängigkeit gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "Public sand beach Jounieh",
+                  "text": "Ein beliebter Sandstrand, der einen weiten Panoramablick auf die Bucht und die Skyline von Jounieh bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990318
+                  ]
+            },
+            {
+                  "name": "Château Rweiss",
+                  "text": "Ein majestätisches Steinschloss auf einem Hügel, das heute als exklusiver Veranstaltungsort für Feierlichkeiten dient.",
+                  "category": "castle",
+                  "coords": [
+                        35.668483,
+                        34.003884
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "Ein großes privates Herrenhaus, das durch seine Steinmauern und das traditionelle rote Ziegeldach auffällt.",
+                  "category": "historical",
+                  "coords": [
+                        35.641051,
+                        33.985535
+                  ]
+            },
+            {
+                  "name": "Habchieh Church",
+                  "text": "Eine traditionelle maronitische Kirche, die der örtlichen Gemeinschaft in den libanesischen Bergen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.667551,
+                        34.017406
+                  ]
+            },
+            {
+                  "name": "Deir Sayidet el Tariq",
+                  "text": "Ein historisches Bergheiligtum an einem Pilgerweg, das der Jungfrau Maria gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663476,
+                        34.004141
+                  ]
+            },
+            {
+                  "name": "St Constantine & Helene church",
+                  "text": "Ein orthodoxes Gotteshaus mit klassischen Ikonen und einem friedlichen Innenhof.",
+                  "category": "religious",
+                  "coords": [
+                        35.635531,
+                        33.983636
+                  ]
+            },
+            {
+                  "name": "Deir Mar Mkhayel - Sehayle",
+                  "text": "Ein ruhiges maronitisches Kloster, das an einem Hang in der Region Sehayle liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.660887,
+                        33.964311
+                  ]
+            },
+            {
+                  "name": "St Nicolas convent",
+                  "text": "Ein religiöser Komplex mit einer kleinen Steinkapelle und einem ruhigen Kreuzgang.",
+                  "category": "religious",
+                  "coords": [
+                        35.691771,
+                        34.018834
+                  ]
+            },
+            {
+                  "name": "St. Simon Church",
+                  "text": "Eine lokale Bergkirche, die aus traditionellem libanesischem Kalkstein erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.713618,
+                        33.970051
+                  ]
+            },
+            {
+                  "name": "Sankt-Georgs-Kirche",
+                  "text": "Eine Gemeindekirche mit einem markanten Glockenturm und Ausblick auf das umliegende Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727843,
+                        33.987478
+                  ]
+            },
+            {
+                  "name": "Mar Doumit",
+                  "text": "Eine historische maronitische Stätte, die dem Heiligen Domitius gewidmet ist und inmitten von Mittelmeer-Kiefern liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.723447,
+                        33.985495
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "Diese christliche Kirche in der Region Harissa wurde im Jahr 1971 errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.70473,
+                        33.989256
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "Eine christliche Gebetsstätte in den Hügeln des Bezirks Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.666191,
+                        34.006895
+                  ]
+            },
+            {
+                  "name": "St. Doumit Church",
+                  "text": "Diese lokale christliche Kirche dient der Gemeinde in der Bergregion bei Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657073,
+                        33.996672
+                  ]
+            },
+            {
+                  "name": "St. Zakhia Church",
+                  "text": "Eine traditionelle Steinkirche, die dem Heiligen Zakhia in der Region Harissa geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.662534,
+                        33.989293
+                  ]
+            },
+            {
+                  "name": "Ste Therese Cathedral",
+                  "text": "Eine markante Kathedrale, die der heiligen Therese geweiht ist und im Hochland von Harissa liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663966,
+                        33.961851
+                  ]
+            },
+            {
+                  "name": "St. Paul Basilica",
+                  "text": "Eine majestätische griechisch-melkitische katholische Basilika, bekannt für ihre Architektur im byzantinischen Stil mit Blick auf die Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.65014,
+                        33.979364
+                  ]
+            },
+            {
+                  "name": "Kloster Bkerke",
+                  "text": "Der historische Sitz des maronitischen katholischen Patriarchats mit Blick auf die Bucht von Jounieh.",
+                  "category": "religious",
+                  "coords": [
+                        35.633841,
+                        33.96791
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Eine christliche Kirche in den Wohnhügeln der Region Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.635037,
+                        33.985272
+                  ]
+            },
+            {
+                  "name": "Deir Mar Geryes",
+                  "text": "Ein dem Heiligen Georg geweihtes Kloster, eingebettet in die grüne Landschaft der Harissa-Berge.",
+                  "category": "landmark",
+                  "coords": [
+                        35.652908,
+                        33.996117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chateau Muzar",
+                  "text": "Világhírű borászat Gazírban, amely történelmi boltíves pincéiből származó komplex borairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.669919,
+                        34.016349
+                  ]
+            },
+            {
+                  "name": "Roman temple site",
+                  "text": "Egy római kori szentély ősi kőalapjai egy dombon, kilátással a Földközi-tengerre.",
+                  "category": "historical",
+                  "coords": [
+                        35.680984,
+                        34.000522
+                  ]
+            },
+            {
+                  "name": "Malibu Bay",
+                  "text": "Közvetlen tengerparti üdülőhely a Jounieh-öbölben, saját stranddal és tengerre néző medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643735,
+                        33.999928
+                  ]
+            },
+            {
+                  "name": "Residence Simon Sfeir",
+                  "text": "Impozáns kőrezidencia, amely a hagyományos levantei építészet stílusjegyeit hordozza.",
+                  "category": "castle",
+                  "coords": [
+                        35.682347,
+                        33.960046
+                  ]
+            },
+            {
+                  "name": "Museum of Independence",
+                  "text": "Gazírban található történelmi múzeum, amelyet a libanoni függetlenségi harcnak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "Public sand beach Jounieh",
+                  "text": "Népszerű homokos tengerpart, amely panorámás kilátást nyújt az öbölre és Jounieh látképére.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990318
+                  ]
+            },
+            {
+                  "name": "Château Rweiss",
+                  "text": "Fenséges kőkastély egy dombtetőn, amely ma előkelő rendezvényhelyszínként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        35.668483,
+                        34.003884
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "Nagy magánbirtok, amelyet kőfalai és hagyományos vörös cseréptetője tesz jellegzetessé.",
+                  "category": "historical",
+                  "coords": [
+                        35.641051,
+                        33.985535
+                  ]
+            },
+            {
+                  "name": "Habchieh Church",
+                  "text": "Hagyományos maronita templom, amely a libanoni hegyek helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.667551,
+                        34.017406
+                  ]
+            },
+            {
+                  "name": "Deir Sayidet el Tariq",
+                  "text": "Történelmi hegyi szentély egy zarándokút mentén, amelyet Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663476,
+                        34.004141
+                  ]
+            },
+            {
+                  "name": "St Constantine & Helene church",
+                  "text": "Ortodox imaház klasszikus ikonokkal és egy békés belső udvarral.",
+                  "category": "religious",
+                  "coords": [
+                        35.635531,
+                        33.983636
+                  ]
+            },
+            {
+                  "name": "Deir Mar Mkhayel - Sehayle",
+                  "text": "Békés maronita kolostor egy domboldalon, Sehayle régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.660887,
+                        33.964311
+                  ]
+            },
+            {
+                  "name": "St Nicolas convent",
+                  "text": "Vallási épületegyüttes kis kőkápolnával és csendes keringővel.",
+                  "category": "religious",
+                  "coords": [
+                        35.691771,
+                        34.018834
+                  ]
+            },
+            {
+                  "name": "St. Simon Church",
+                  "text": "Helyi hegyi templom, amely hagyományos libanoni mészkőből épült.",
+                  "category": "landmark",
+                  "coords": [
+                        35.713618,
+                        33.970051
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Közösségi templom jellegzetes harangtoronnyal és kilátással a környező völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727843,
+                        33.987478
+                  ]
+            },
+            {
+                  "name": "Mar Doumit",
+                  "text": "Szent Domitiosznak szentelt történelmi maronita emlékhely mediterrán fenyők között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.723447,
+                        33.985495
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "Ez a Harissza környékén található keresztény templom 1971-ben épült.",
+                  "category": "landmark",
+                  "coords": [
+                        35.70473,
+                        33.989256
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "Keresztény kegyhely Harissza körzetének dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.666191,
+                        34.006895
+                  ]
+            },
+            {
+                  "name": "St. Doumit Church",
+                  "text": "Ez a helyi keresztény templom a Harissza melletti hegyvidéki közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657073,
+                        33.996672
+                  ]
+            },
+            {
+                  "name": "St. Zakhia Church",
+                  "text": "Szent Zakhiának szentelt hagyományos kőtemplom Harissza régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.662534,
+                        33.989293
+                  ]
+            },
+            {
+                  "name": "Ste Therese Cathedral",
+                  "text": "Szent Teréznek szentelt jelentős székesegyház Harissza fennsíkján.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663966,
+                        33.961851
+                  ]
+            },
+            {
+                  "name": "St. Paul Basilica",
+                  "text": "Fenséges görög melkita katolikus bazilika, amely bizánci stílusú építészetéről és az öbölre néző kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.65014,
+                        33.979364
+                  ]
+            },
+            {
+                  "name": "Bkerke",
+                  "text": "A maronita katolikus patriarchátus történelmi székhelye, amely a Jounieh-öbölre néz.",
+                  "category": "religious",
+                  "coords": [
+                        35.633841,
+                        33.96791
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Keresztény templom Harissza lakóövezetének dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.635037,
+                        33.985272
+                  ]
+            },
+            {
+                  "name": "Deir Mar Geryes",
+                  "text": "Szent Györgynek szentelt kolostor, Harissza hegyeinek zöld környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.652908,
+                        33.996117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chateau Muzar",
+                  "text": "O cramă de renume mondial din Ghazir, cunoscută pentru vinurile sale complexe din pivnițe istorice cu boltă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.669919,
+                        34.016349
+                  ]
+            },
+            {
+                  "name": "Roman temple site",
+                  "text": "Fundații antice de piatră ale unui sanctuar din epoca romană, situate pe un deal cu vedere la Mediterană.",
+                  "category": "historical",
+                  "coords": [
+                        35.680984,
+                        34.000522
+                  ]
+            },
+            {
+                  "name": "Malibu Bay",
+                  "text": "O stațiune de coastă în golful Jounieh, cu plajă privată și piscine cu vedere la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643735,
+                        33.999928
+                  ]
+            },
+            {
+                  "name": "Residence Simon Sfeir",
+                  "text": "O reședință impunătoare din piatră, care prezintă trăsături arhitecturale levantine tradiționale.",
+                  "category": "castle",
+                  "coords": [
+                        35.682347,
+                        33.960046
+                  ]
+            },
+            {
+                  "name": "Museum of Independence",
+                  "text": "Un muzeu istoric din Ghazir dedicat luptei libaneze pentru independență.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "Public sand beach Jounieh",
+                  "text": "O plajă de nisip populară care oferă vedere panoramică asupra golfului și a orizontului orașului Jounieh.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990318
+                  ]
+            },
+            {
+                  "name": "Château Rweiss",
+                  "text": "Un castel maiestuos din piatră situat pe un deal, care servește acum ca locație premium pentru evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        35.668483,
+                        34.003884
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "Un conac privat mare, caracterizat prin zidurile de piatră și acoperișul tradițional cu țiglă roșie.",
+                  "category": "historical",
+                  "coords": [
+                        35.641051,
+                        33.985535
+                  ]
+            },
+            {
+                  "name": "Habchieh Church",
+                  "text": "O biserică maronită tradițională care deservește comunitatea locală din munții Libanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.667551,
+                        34.017406
+                  ]
+            },
+            {
+                  "name": "Deir Sayidet el Tariq",
+                  "text": "Un sanctuar montan istoric situat pe un traseu de pelerinaj, dedicat Fecioarei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663476,
+                        34.004141
+                  ]
+            },
+            {
+                  "name": "St Constantine & Helene church",
+                  "text": "Un lăcaș de cult ortodox ce adăpostește icoane clasice și o curte interioară liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        35.635531,
+                        33.983636
+                  ]
+            },
+            {
+                  "name": "Deir Mar Mkhayel - Sehayle",
+                  "text": "O mănăstire maronită senină, cocoțată pe un deal în regiunea Sehayle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.660887,
+                        33.964311
+                  ]
+            },
+            {
+                  "name": "St Nicolas convent",
+                  "text": "Un complex religios care cuprinde o mică capelă de piatră și chilii liniștite.",
+                  "category": "religious",
+                  "coords": [
+                        35.691771,
+                        34.018834
+                  ]
+            },
+            {
+                  "name": "St. Simon Church",
+                  "text": "O biserică montană locală, construită din calcar tradițional libanez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.713618,
+                        33.970051
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "O biserică comunitară cu o clopotniță proeminentă și vedere asupra văii înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727843,
+                        33.987478
+                  ]
+            },
+            {
+                  "name": "Mar Doumit",
+                  "text": "Un sit maronit istoric dedicat Sfântului Domițiu, situat în mijlocul pinilor mediteraneeni.",
+                  "category": "landmark",
+                  "coords": [
+                        35.723447,
+                        33.985495
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "Această biserică creștină din regiunea Harissa a fost construită în anul 1971.",
+                  "category": "landmark",
+                  "coords": [
+                        35.70473,
+                        33.989256
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "Un lăcaș de cult creștin situat pe dealurile districtului Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.666191,
+                        34.006895
+                  ]
+            },
+            {
+                  "name": "St. Doumit Church",
+                  "text": "Această biserică creștină locală deservește comunitatea din zona montană de lângă Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657073,
+                        33.996672
+                  ]
+            },
+            {
+                  "name": "St. Zakhia Church",
+                  "text": "O biserică tradițională din piatră dedicată Sfântului Zakhia în regiunea Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.662534,
+                        33.989293
+                  ]
+            },
+            {
+                  "name": "Ste Therese Cathedral",
+                  "text": "O catedrală proeminentă dedicată Sfintei Tereza, situată în zonele înalte din Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663966,
+                        33.961851
+                  ]
+            },
+            {
+                  "name": "St. Paul Basilica",
+                  "text": "O bazilică greco-catolică melkită maiestuoasă, cunoscută pentru arhitectura sa în stil bizantin cu vedere la golf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.65014,
+                        33.979364
+                  ]
+            },
+            {
+                  "name": "Bkerke",
+                  "text": "Reședința istorică a Patriarhiei Maronite Catolice, cu vedere la Golful Jounieh.",
+                  "category": "religious",
+                  "coords": [
+                        35.633841,
+                        33.96791
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "O biserică creștină situată pe dealurile rezidențiale din regiunea Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.635037,
+                        33.985272
+                  ]
+            },
+            {
+                  "name": "Deir Mar Geryes",
+                  "text": "O mănăstire dedicată Sfântului Gheorghe, cuibărită în peisajul verde al munților Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.652908,
+                        33.996117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chateau Musar",
+                  "text": "A globally renowned winery in Ghazir, known for its complex wines from historic vaulted cellars.",
+                  "category": "landmark",
+                  "coords": [
+                        35.669919,
+                        34.016349
+                  ]
+            },
+            {
+                  "name": "Roman temple site",
+                  "text": "Ancient stone foundations of a Roman-era sanctuary set on a hill overlooking the Mediterranean.",
+                  "category": "historical",
+                  "coords": [
+                        35.680984,
+                        34.000522
+                  ]
+            },
+            {
+                  "name": "Malibu Bay",
+                  "text": "A coastal resort in Jounieh Bay featuring a private beach and sea-view pools.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643735,
+                        33.999928
+                  ]
+            },
+            {
+                  "name": "Residence Simon Sfeir",
+                  "text": "A stately stone residence featuring traditional Levantine architectural features.",
+                  "category": "castle",
+                  "coords": [
+                        35.682347,
+                        33.960046
+                  ]
+            },
+            {
+                  "name": "Museum of Independence",
+                  "text": "A historical museum in Ghazir dedicated to the Lebanese struggle for independence.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "Public sand beach Jounieh",
+                  "text": "A popular sandy shoreline offering panoramic views of the bay and the Jounieh skyline.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990318
+                  ]
+            },
+            {
+                  "name": "Château Rweiss",
+                  "text": "A majestic stone castle set on a hill, now serving as a premier venue for celebrations.",
+                  "category": "castle",
+                  "coords": [
+                        35.668483,
+                        34.003884
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "A large private manor characterized by its stone walls and traditional red-tiled roof.",
+                  "category": "historical",
+                  "coords": [
+                        35.641051,
+                        33.985535
+                  ]
+            },
+            {
+                  "name": "Habchieh Church",
+                  "text": "A traditional Maronite church serving the local community in the Lebanese mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        35.667551,
+                        34.017406
+                  ]
+            },
+            {
+                  "name": "Deir Sayidet el Tariq",
+                  "text": "A historic mountain sanctuary located along a pilgrim route, dedicated to the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663476,
+                        34.004141
+                  ]
+            },
+            {
+                  "name": "St Constantine & Helene church",
+                  "text": "An Orthodox place of worship featuring classical icons and a peaceful courtyard.",
+                  "category": "religious",
+                  "coords": [
+                        35.635531,
+                        33.983636
+                  ]
+            },
+            {
+                  "name": "Deir Mar Mkhayel - Sehayle",
+                  "text": "A serene Maronite monastery perched on a hillside in the Sehayle region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.660887,
+                        33.964311
+                  ]
+            },
+            {
+                  "name": "St Nicolas convent",
+                  "text": "A religious complex featuring a small stone chapel and peaceful cloisters.",
+                  "category": "religious",
+                  "coords": [
+                        35.691771,
+                        34.018834
+                  ]
+            },
+            {
+                  "name": "St. Simon Church",
+                  "text": "A local mountain church built from traditional Lebanese limestone.",
+                  "category": "landmark",
+                  "coords": [
+                        35.713618,
+                        33.970051
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A community church featuring a prominent bell tower and views of the surrounding valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.727843,
+                        33.987478
+                  ]
+            },
+            {
+                  "name": "Mar Doumit",
+                  "text": "A historic Maronite site dedicated to Saint Domitius, set amidst Mediterranean pines.",
+                  "category": "landmark",
+                  "coords": [
+                        35.723447,
+                        33.985495
+                  ]
+            },
+            {
+                  "name": "St. John the Baptist Church",
+                  "text": "This Christian church in the Harissa area was constructed in 1971.",
+                  "category": "landmark",
+                  "coords": [
+                        35.70473,
+                        33.989256
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "A Christian place of worship located in the hills of the Harissa district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.666191,
+                        34.006895
+                  ]
+            },
+            {
+                  "name": "St. Doumit Church",
+                  "text": "This local Christian church serves the community in the mountainous area near Harissa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657073,
+                        33.996672
+                  ]
+            },
+            {
+                  "name": "St. Zakhia Church",
+                  "text": "A traditional stone church dedicated to Saint Zakhia in the Harissa region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.662534,
+                        33.989293
+                  ]
+            },
+            {
+                  "name": "Ste Therese Cathedral",
+                  "text": "A prominent cathedral dedicated to Saint Therese, situated in the Harissa highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.663966,
+                        33.961851
+                  ]
+            },
+            {
+                  "name": "St. Paul Basilica",
+                  "text": "A majestic Greek Melkite Catholic basilica known for its Byzantine-style architecture overlooking the bay.",
+                  "category": "landmark",
+                  "coords": [
+                        35.65014,
+                        33.979364
+                  ]
+            },
+            {
+                  "name": "Bkerke",
+                  "text": "The historic see of the Maronite Catholic Patriarchate, overlooking the Bay of Jounieh.",
+                  "category": "religious",
+                  "coords": [
+                        35.633841,
+                        33.96791
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A Christian church located in the residential hills of the Harissa region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.635037,
+                        33.985272
+                  ]
+            },
+            {
+                  "name": "Deir Mar Geryes",
+                  "text": "A monastery dedicated to Saint George, nestled in the green landscape of the Harissa mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        35.652908,
+                        33.996117
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "LB-JL",
     coords: [35.6517, 33.9806],
@@ -520,7 +5596,448 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Inaugurée en 1908 pour le 50e anniversaire du dogme marial.", "Coulée dans l'atelier Imbert à Lyon, en France.", "Initiée par le patriarche maronite Elias Hoyek.", "Hauteur de la statue 8,5 mètres, poids 15 tonnes.", "Famine au Liban (1915-1918) avec 200 000 morts.", "Centre de pèlerinage sous le mandat français 1923-1943.", "Visite du pape Jean-Paul II le 11 mai 1997.", "Environ deux millions de pèlerins par an."],
     }, image: "/poi-images/our-lady-of-lebanon-history-v2.webp"},
   {
-    id: "eshmun-sanctuary-history-v2",
+    id: "eshmun-sanctuary-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "public beach",
+                  "text": "Ein Sandstrand nördlich von Sidon, der bei Einheimischen zum Schwimmen im Mittelmeer beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        35.383284,
+                        33.580014
+                  ]
+            },
+            {
+                  "name": "Byzantine Basilica",
+                  "text": "Die Überreste einer byzantinischen Basilika mit antiken Säulen im archäologischen Park von Eshmun.",
+                  "category": "historical",
+                  "coords": [
+                        35.397169,
+                        33.585673
+                  ]
+            },
+            {
+                  "name": "Throne of Astarte",
+                  "text": "Ein steinerner Thron, der von geflügelten Löwen flankiert wird und der Göttin Astarte gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.398247,
+                        33.585692
+                  ]
+            },
+            {
+                  "name": "Voile Sur Mer",
+                  "text": "Ein Ferienort am Meer, der einen weiten Blick auf das Mittelmeer und einen Zugang zum Strand bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.40008,
+                        33.614756
+                  ]
+            },
+            {
+                  "name": "Sidon Municipal Park",
+                  "text": "Ein öffentlicher Küstenpark in Sidon mit Grünflächen für Spaziergänge am Ufer des Mittelmeers.",
+                  "category": "park",
+                  "coords": [
+                        35.386012,
+                        33.587733
+                  ]
+            },
+            {
+                  "name": "Saint Mary Church",
+                  "text": "Diese Marienkirche liegt in der Nähe der archäologischen Stätte und dient der lokalen christlichen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.392335,
+                        33.574259
+                  ]
+            },
+            {
+                  "name": "Masjid Al Salam",
+                  "text": "Ein örtliches muslimisches Gebetshaus in der Nähe des historischen Eshmun-Heiligtums.",
+                  "category": "landmark",
+                  "coords": [
+                        35.388892,
+                        33.566674
+                  ]
+            },
+            {
+                  "name": "St. Mary Melkite Greek Church",
+                  "text": "Eine melkitische griechisch-katholische Kirche für die christliche Gemeinde nahe dem Eshmun-Heiligtum.",
+                  "category": "landmark",
+                  "coords": [
+                        35.407503,
+                        33.56641
+                  ]
+            },
+            {
+                  "name": "St. Joseph Greek Melkite Churhc",
+                  "text": "Eine griechisch-melkitische katholische Gebetsstätte in der Umgebung des alten phönizischen Heiligtums.",
+                  "category": "landmark",
+                  "coords": [
+                        35.409612,
+                        33.561715
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Eine Moschee mit traditioneller islamischer Architektur in der historischen Region bei Sidon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.413577,
+                        33.55753
+                  ]
+            },
+            {
+                  "name": "Masjid Bilal Bin Rabah",
+                  "text": "Eine örtliche Moschee, die Bilal Bin Rabah gewidmet ist und im historischen Eshmun-Heiligtumsviertel liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.398463,
+                        33.564536
+                  ]
+            },
+            {
+                  "name": "St. Anthony Church",
+                  "text": "Eine christliche Pfarrkirche in der historischen Landschaft rund um den Tempel von Eshmun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.402943,
+                        33.605548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "public beach",
+                  "text": "Homokos tengerpart Sidontól északra, amely a helyiek körében népszerű a földközi-tengeri fürdőzésre.",
+                  "category": "recreational",
+                  "coords": [
+                        35.383284,
+                        33.580014
+                  ]
+            },
+            {
+                  "name": "Byzantine Basilica",
+                  "text": "Egy bizánci bazilika maradványai ókori oszlopokkal az eshmuni régészeti parkban.",
+                  "category": "historical",
+                  "coords": [
+                        35.397169,
+                        33.585673
+                  ]
+            },
+            {
+                  "name": "Throne of Astarte",
+                  "text": "Szárnyas oroszlánokkal szegélyezett kőtrónus, amelyet Astarté istennőnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        35.398247,
+                        33.585692
+                  ]
+            },
+            {
+                  "name": "Voile Sur Mer",
+                  "text": "Tengerparti üdülőhely, amely széles kilátást nyújt a Földközi-tengerre és közvetlen lejutást a strandra.",
+                  "category": "recreational",
+                  "coords": [
+                        35.40008,
+                        33.614756
+                  ]
+            },
+            {
+                  "name": "Sidon Municipal Park",
+                  "text": "Tengerparti közpark Sidonban, zöld területekkel a földközi-tengeri sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        35.386012,
+                        33.587733
+                  ]
+            },
+            {
+                  "name": "Saint Mary Church",
+                  "text": "Ez a Szűz Mária-templom a régészeti lelőhely közelében található, és a helyi keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.392335,
+                        33.574259
+                  ]
+            },
+            {
+                  "name": "Masjid Al Salam",
+                  "text": "Egy helyi muszlim istentiszteleti hely a történelmi Eshmun-szentély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.388892,
+                        33.566674
+                  ]
+            },
+            {
+                  "name": "St. Mary Melkite Greek Church",
+                  "text": "Melkita görögkatolikus templom, amely a keresztény közösséget szolgálja az Eshmun-szentély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.407503,
+                        33.56641
+                  ]
+            },
+            {
+                  "name": "St. Joseph Greek Melkite Churhc",
+                  "text": "Görög melkita katolikus istentiszteleti hely az ősi föníciai szentély szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.409612,
+                        33.561715
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Hagyományos iszlám építészetű mecset Szidón közelében, a történelmi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.413577,
+                        33.55753
+                  ]
+            },
+            {
+                  "name": "Masjid Bilal Bin Rabah",
+                  "text": "Bilal Bin Rabah tiszteletére szentelt helyi mecset a történelmi Eshmun-szentély negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.398463,
+                        33.564536
+                  ]
+            },
+            {
+                  "name": "St. Anthony Church",
+                  "text": "Keresztény plébániatemplom az Eshmun-templomot körülvevő történelmi tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.402943,
+                        33.605548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "public beach",
+                  "text": "O plajă cu nisip la nord de Sidon, populară printre localnici pentru înot în Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        35.383284,
+                        33.580014
+                  ]
+            },
+            {
+                  "name": "Byzantine Basilica",
+                  "text": "Rămășițele unei basilici bizantine cu coloane antice în parcul arheologic din Eshmun.",
+                  "category": "historical",
+                  "coords": [
+                        35.397169,
+                        33.585673
+                  ]
+            },
+            {
+                  "name": "Throne of Astarte",
+                  "text": "Un tron de piatră flancat de lei înaripați, dedicat zeiței Astarte.",
+                  "category": "historical",
+                  "coords": [
+                        35.398247,
+                        33.585692
+                  ]
+            },
+            {
+                  "name": "Voile Sur Mer",
+                  "text": "O stațiune la malul mării care oferă o vedere largă asupra Mediteranei și acces la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        35.40008,
+                        33.614756
+                  ]
+            },
+            {
+                  "name": "Sidon Municipal Park",
+                  "text": "Un parc public de coastă în Sidon, cu spații verzi pentru plimbări pe țărmul Mediteranei.",
+                  "category": "park",
+                  "coords": [
+                        35.386012,
+                        33.587733
+                  ]
+            },
+            {
+                  "name": "Saint Mary Church",
+                  "text": "Această biserică a Sfintei Maria este situată lângă situl arheologic și deservește comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.392335,
+                        33.574259
+                  ]
+            },
+            {
+                  "name": "Masjid Al Salam",
+                  "text": "Un lăcaș de cult musulman local situat în apropierea zonei istorice a Sanctuarului Eshmun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.388892,
+                        33.566674
+                  ]
+            },
+            {
+                  "name": "St. Mary Melkite Greek Church",
+                  "text": "O biserică greco-catolică melkită care deservește comunitatea creștină locală de lângă Sanctuarul Eshmun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.407503,
+                        33.56641
+                  ]
+            },
+            {
+                  "name": "St. Joseph Greek Melkite Churhc",
+                  "text": "Un lăcaș de cult greco-melkit catolic situat în vecinătatea vechiului sanctuar fenician.",
+                  "category": "landmark",
+                  "coords": [
+                        35.409612,
+                        33.561715
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "O moschee cu arhitectură islamică tradițională situată în regiunea istorică de lângă Sidon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.413577,
+                        33.55753
+                  ]
+            },
+            {
+                  "name": "Masjid Bilal Bin Rabah",
+                  "text": "O moschee locală dedicată lui Bilal Bin Rabah, situată în districtul istoric al sanctuarului Eshmun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.398463,
+                        33.564536
+                  ]
+            },
+            {
+                  "name": "St. Anthony Church",
+                  "text": "O biserică parohială creștină situată în peisajul istoric din jurul Templului lui Eshmun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.402943,
+                        33.605548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "public beach",
+                  "text": "A sandy beach north of Sidon, popular among locals for swimming in the Mediterranean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        35.383284,
+                        33.580014
+                  ]
+            },
+            {
+                  "name": "Byzantine Basilica",
+                  "text": "The remains of a Byzantine basilica featuring ancient columns within the Eshmun archaeological park.",
+                  "category": "historical",
+                  "coords": [
+                        35.397169,
+                        33.585673
+                  ]
+            },
+            {
+                  "name": "Throne of Astarte",
+                  "text": "A stone throne flanked by winged lions, dedicated to the goddess Astarte.",
+                  "category": "historical",
+                  "coords": [
+                        35.398247,
+                        33.585692
+                  ]
+            },
+            {
+                  "name": "Voile Sur Mer",
+                  "text": "A seaside resort offering a wide view of the Mediterranean and access to the beach.",
+                  "category": "recreational",
+                  "coords": [
+                        35.40008,
+                        33.614756
+                  ]
+            },
+            {
+                  "name": "Sidon Municipal Park",
+                  "text": "A public coastal park in Sidon with green spaces for walks along the Mediterranean shore.",
+                  "category": "park",
+                  "coords": [
+                        35.386012,
+                        33.587733
+                  ]
+            },
+            {
+                  "name": "Saint Mary Church",
+                  "text": "This Saint Mary church is located near the archaeological site and serves the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.392335,
+                        33.574259
+                  ]
+            },
+            {
+                  "name": "Masjid Al Salam",
+                  "text": "A local Muslim place of worship situated near the historic Eshmun Sanctuary area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.388892,
+                        33.566674
+                  ]
+            },
+            {
+                  "name": "St. Mary Melkite Greek Church",
+                  "text": "A Melkite Greek Catholic church serving the local Christian community near the Eshmun Sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        35.407503,
+                        33.56641
+                  ]
+            },
+            {
+                  "name": "St. Joseph Greek Melkite Churhc",
+                  "text": "A Greek Melkite Catholic place of worship located in the vicinity of the ancient Phoenician sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        35.409612,
+                        33.561715
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "A mosque featuring traditional Islamic architecture located in the historic region near Sidon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.413577,
+                        33.55753
+                  ]
+            },
+            {
+                  "name": "Masjid Bilal Bin Rabah",
+                  "text": "A local mosque dedicated to Bilal Bin Rabah, situated within the historic Eshmun sanctuary district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.398463,
+                        33.564536
+                  ]
+            },
+            {
+                  "name": "St. Anthony Church",
+                  "text": "A Christian parish church located in the historic landscape surrounding the Temple of Eshmun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.402943,
+                        33.605548
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-JA",
     coords: [35.3853, 33.5828],
@@ -563,7 +6080,304 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Début de construction vers 600 av. J.-C. sous Echmounazar II.", "Extension sous Bodashtart à la fin du VIe siècle av. J.-C.", "Ajouts de mosaïques à l'époque romaine dès 64 av. J.-C.", "Perte de fonction après Théodose Ier vers 379 après J.-C.", "Enseveli pendant la période ottomane (1516-1918).", "Mise au jour systématique dès 1963 par Maurice Dunand.", "Travaux interrompus pendant la guerre civile 1975-1990."],
     }, image: "/poi-images/eshmun-sanctuary-history-v2.webp"},
   {
-    id: "mseilha-fort-history-v2",
+    id: "mseilha-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mussaylha Fort",
+                  "text": "Eine historische Verteidigungsfestung, die auf einem langen, schmalen Kalksteinfelsen in der Nähe des Flusses Nahr el-Jawz errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.689825,
+                        34.273765
+                  ]
+            },
+            {
+                  "name": "Couvent du Sacré Cœur",
+                  "text": "Ein lokales christliches Kloster, das dem Heiligen Herzen in der Region Mseilha gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.757416,
+                        34.237044
+                  ]
+            },
+            {
+                  "name": "Mar Youhanna Maroun",
+                  "text": "Eine christliche religiöse Stätte im Gebiet Mseilha, benannt nach dem maronitischen Heiligen Youhanna Maroun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75295,
+                        34.248292
+                  ]
+            },
+            {
+                  "name": "Kfifan's Monastery- Al Hardini",
+                  "text": "Ein bekanntes christliches Kloster, das als Heiligtum des maronitischen Heiligen Nimatullah Kassab Al-Hardini bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        35.722708,
+                        34.223242
+                  ]
+            },
+            {
+                  "name": "Saint Abdas Church",
+                  "text": "Eine lokale christliche Kultstätte, die dem Heiligen Abdas in der Nähe von Mseilha gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.722512,
+                        34.229489
+                  ]
+            },
+            {
+                  "name": "St. Pantaleon Church",
+                  "text": "Eine christliche Kirche zu Ehren des Heiligen Pantaleon, die der lokalen Gemeinde Mseilha dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.715055,
+                        34.243346
+                  ]
+            },
+            {
+                  "name": "Saint Charbel",
+                  "text": "Ein christliches Heiligtum bei Mseilha, das dem hochverehrten libanesischen maronitischen Mönch Sankt Scharbel gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.703172,
+                        34.25561
+                  ]
+            },
+            {
+                  "name": "Saint Elias",
+                  "text": "Eine dem Propheten Elias gewidmete christliche Kirche, die den Gläubigen im Gebiet von Mseilha dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.688004,
+                        34.277853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mussaylha Fort",
+                  "text": "Hosszú, keskeny mészkősziklára épült történelmi védőerőd a Nahr el-Jawz folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.689825,
+                        34.273765
+                  ]
+            },
+            {
+                  "name": "Couvent du Sacré Cœur",
+                  "text": "A Szent Szívnek szentelt helyi keresztény kolostor a Mseilha régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.757416,
+                        34.237044
+                  ]
+            },
+            {
+                  "name": "Mar Youhanna Maroun",
+                  "text": "A maronita szent, Youhanna Maroun nevét viselő keresztény vallási hely a Mseilha térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75295,
+                        34.248292
+                  ]
+            },
+            {
+                  "name": "Kfifan's Monastery- Al Hardini",
+                  "text": "A maronita szent, Nimatullah Kassab Al-Hardini szentélyeként ismert kiemelkedő keresztény kolostor.",
+                  "category": "religious",
+                  "coords": [
+                        35.722708,
+                        34.223242
+                  ]
+            },
+            {
+                  "name": "Saint Abdas Church",
+                  "text": "Szent Abdasnak szentelt helyi keresztény imahely Mseilha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.722512,
+                        34.229489
+                  ]
+            },
+            {
+                  "name": "St. Pantaleon Church",
+                  "text": "A Szent Pantaleont tisztelő keresztény templom, amely a helyi Mseilha közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.715055,
+                        34.243346
+                  ]
+            },
+            {
+                  "name": "Saint Charbel",
+                  "text": "A nagytiszteletű libanoni maronita szerzetesnek, Szent Charbelnek szentelt keresztény szentély Mseilha közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.703172,
+                        34.25561
+                  ]
+            },
+            {
+                  "name": "Saint Elias",
+                  "text": "Az Illés prófétának szentelt keresztény templom, amely a Mseilha terület hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.688004,
+                        34.277853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mussaylha Fort",
+                  "text": "O fortăreață de apărare istorică construită pe o stâncă lungă și îngustă de calcar lângă râul Nahr el-Jawz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.689825,
+                        34.273765
+                  ]
+            },
+            {
+                  "name": "Couvent du Sacré Cœur",
+                  "text": "O mănăstire creștină locală dedicată Inimii Sacre în regiunea Mseilha.",
+                  "category": "landmark",
+                  "coords": [
+                        35.757416,
+                        34.237044
+                  ]
+            },
+            {
+                  "name": "Mar Youhanna Maroun",
+                  "text": "Un lăcaș religios creștin din zona Mseilha numit după sfântul maronit Youhanna Maroun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75295,
+                        34.248292
+                  ]
+            },
+            {
+                  "name": "Kfifan's Monastery- Al Hardini",
+                  "text": "O mănăstire creștină proeminentă, cunoscută sub numele de sanctuarul sfântului maronit Nimatullah Kassab Al-Hardini.",
+                  "category": "religious",
+                  "coords": [
+                        35.722708,
+                        34.223242
+                  ]
+            },
+            {
+                  "name": "Saint Abdas Church",
+                  "text": "Un lăcaș de cult creștin local dedicat Sfântului Abdas lângă Mseilha.",
+                  "category": "landmark",
+                  "coords": [
+                        35.722512,
+                        34.229489
+                  ]
+            },
+            {
+                  "name": "St. Pantaleon Church",
+                  "text": "O biserică creștină care îl onorează pe Sfântul Pantelimon, deservind comunitatea locală Mseilha.",
+                  "category": "landmark",
+                  "coords": [
+                        35.715055,
+                        34.243346
+                  ]
+            },
+            {
+                  "name": "Saint Charbel",
+                  "text": "Un sanctuar creștin lângă Mseilha dedicat mult veneratului călugăr maronit libanez Sfântul Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.703172,
+                        34.25561
+                  ]
+            },
+            {
+                  "name": "Saint Elias",
+                  "text": "O biserică creștină dedicată profetului Ilie, care deservește credincioșii din zona Mseilha.",
+                  "category": "landmark",
+                  "coords": [
+                        35.688004,
+                        34.277853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mussaylha Fort",
+                  "text": "A historic defensive fortress constructed on a long, narrow limestone rock near the Nahr el-Jawz river.",
+                  "category": "landmark",
+                  "coords": [
+                        35.689825,
+                        34.273765
+                  ]
+            },
+            {
+                  "name": "Couvent du Sacré Cœur",
+                  "text": "A local Christian convent dedicated to the Sacred Heart in the Mseilha region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.757416,
+                        34.237044
+                  ]
+            },
+            {
+                  "name": "Mar Youhanna Maroun",
+                  "text": "A Christian religious site in the Mseilha area named after the Maronite saint Youhanna Maroun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.75295,
+                        34.248292
+                  ]
+            },
+            {
+                  "name": "Kfifan's Monastery- Al Hardini",
+                  "text": "A prominent Christian monastery known as the sanctuary of the Maronite saint Nimatullah Kassab Al-Hardini.",
+                  "category": "religious",
+                  "coords": [
+                        35.722708,
+                        34.223242
+                  ]
+            },
+            {
+                  "name": "Saint Abdas Church",
+                  "text": "A local Christian place of worship dedicated to Saint Abdas near Mseilha.",
+                  "category": "landmark",
+                  "coords": [
+                        35.722512,
+                        34.229489
+                  ]
+            },
+            {
+                  "name": "St. Pantaleon Church",
+                  "text": "A Christian church honoring Saint Pantaleon, serving the local Mseilha community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.715055,
+                        34.243346
+                  ]
+            },
+            {
+                  "name": "Saint Charbel",
+                  "text": "A Christian sanctuary near Mseilha dedicated to the highly venerated Lebanese Maronite monk Saint Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.703172,
+                        34.25561
+                  ]
+            },
+            {
+                  "name": "Saint Elias",
+                  "text": "A Christian church dedicated to the prophet Elias, serving the faithful in the Mseilha area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.688004,
+                        34.277853
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "LB-AS",
     coords: [35.6883, 34.2750],
@@ -606,7 +6420,484 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Érigée au XVIIe siècle sous Fakhr ad-Din II.", "Fakhr ad-Din a vécu de 1572 à 1635.", "Exécution de Fakhr ad-Din à Constantinople en 1635.", "Poste de garde à l'époque ottomane 1516-1918.", "Classée monument historique sous le mandat français 1923-1943.", "Figurait sur le billet de 25 livres de 1983.", "Épargnée par la guerre civile 1975-1990.", "Restauration achevée entre 2002 et 2004."],
     }, image: "/poi-images/mseilha-fort-history-v2.webp"},
   {
-    id: "deir-el-qamar-historic-square-history-v2",
+    id: "deir-el-qamar-historic-square-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Titanic Baakline",
+                  "text": "Eine beliebte Attraktion in Baakline mit Panoramablick auf die Chouf-Täler und die umliegenden historischen Dörfer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.54622,
+                        33.676396
+                  ]
+            },
+            {
+                  "name": "Hand Made Crafts",
+                  "text": "Ein Museum in Deir el Qamar, das traditionelles libanesisches Kunsthandwerk wie Stickereien und Holzarbeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        35.525239,
+                        33.690464
+                  ]
+            },
+            {
+                  "name": "El Mahkama El Mathhabiah",
+                  "text": "Ein historisches religiöses Gebäude am Hauptplatz von Deir el Qamar, das das administrative Erbe der Stadt widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        35.554299,
+                        33.674308
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Eine dem heiligen Michael gewidmete christliche Kirche, die zum architektonischen Erbe des historischen Deir el Qamar gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528232,
+                        33.680647
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "Eine der heiligen Thekla gewidmete religiöse Stätte mit traditionellem Mauerwerk, das typisch für die Chouf-Berge ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51605,
+                        33.729436
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Eine historische christliche Kirche, die dem heiligen Elias gewidmet ist und nahe dem zentralen Platz von Deir el Qamar liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518424,
+                        33.723708
+                  ]
+            },
+            {
+                  "name": "Saint Georgios Orthodox Church",
+                  "text": "Eine orthodoxe christliche Kirche, die dem heiligen Georg gewidmet ist und die schöne traditionelle libanesische Steinarchitektur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.524301,
+                        33.727045
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Eine traditionelle Steinkirche, die dem heiligen Georg gewidmet ist, im Herzen der historischen Stadt Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.569327,
+                        33.733376
+                  ]
+            },
+            {
+                  "name": "Saydet Al Fakira Church",
+                  "text": "Eine bescheidene Kapelle, die Unserer Lieben Frau der Armen gewidmet ist und für ihre friedliche Atmosphäre in den Chouf-Bergen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562941,
+                        33.697144
+                  ]
+            },
+            {
+                  "name": "Al Mir Fakhredine Al Maani Mosque",
+                  "text": "Diese 1493 von Emir Fakhreddine I. erbaute Moschee ist eine der ältesten im Libanongebirge und besitzt ein markantes achteckiges Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        35.564456,
+                        33.698044
+                  ]
+            },
+            {
+                  "name": "Mazar Haml llah",
+                  "text": "Ein kleiner christlicher Schrein und Wallfahrtsort in der malerischen Umgebung der Region Chouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.563447,
+                        33.702325
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Eine moderne Moschee für die örtliche Gemeinde in der historischen Stadt Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534758,
+                        33.628267
+                  ]
+            },
+            {
+                  "name": "Obied",
+                  "text": "Ein traditioneller Marktplatz, auf dem sich lokale Kunsthandwerker und Händler im historischen Zentrum von Deir el Qamar versammeln.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545146,
+                        33.749966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Titanic Baakline",
+                  "text": "Baakline népszerű látványossága, amely panorámás kilátást nyújt a Shouf-völgyekre és a környező történelmi falvakra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.54622,
+                        33.676396
+                  ]
+            },
+            {
+                  "name": "Hand Made Crafts",
+                  "text": "Deir el Qamar múzeuma, amely hagyományos libanoni kézműves termékeket, köztük hímzéseket és fafaragásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.525239,
+                        33.690464
+                  ]
+            },
+            {
+                  "name": "El Mahkama El Mathhabiah",
+                  "text": "Történelmi vallási épület Deir el Qamar főterén, amely a város közigazgatási örökségét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        35.554299,
+                        33.674308
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Szent Mihálynak szentelt keresztény templom, amely a történelmi Deir el Qamar építészeti örökségének része.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528232,
+                        33.680647
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "Szent Teklának szentelt vallási helyszín, amely a Chouf-hegységre jellemző hagyományos kőművesmunkával készült.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51605,
+                        33.729436
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Szent Illésnek szentelt történelmi keresztény templom Deir el Qamar központi tere közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518424,
+                        33.723708
+                  ]
+            },
+            {
+                  "name": "Saint Georgios Orthodox Church",
+                  "text": "Szent Györgynek szentelt ortodox keresztény templom, amely a gyönyörű hagyományos libanoni kőépítészetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        35.524301,
+                        33.727045
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Szent Györgynek szentelt hagyományos kőtemplom Deir el Qamar történelmi városának szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.569327,
+                        33.733376
+                  ]
+            },
+            {
+                  "name": "Saydet Al Fakira Church",
+                  "text": "A Szegények Boldogasszonyának szentelt szerény kápolna, amely a Chouf-hegységben található nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562941,
+                        33.697144
+                  ]
+            },
+            {
+                  "name": "Al Mir Fakhredine Al Maani Mosque",
+                  "text": "Az I. Fakhreddine emír által 1493-ban épített mecset Libanon-hegy egyik legrégebbi mecsetje, jellegzetes nyolcszögletű minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.564456,
+                        33.698044
+                  ]
+            },
+            {
+                  "name": "Mazar Haml llah",
+                  "text": "Kicsi keresztény szentély és zarándokhely a Shouf régió festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.563447,
+                        33.702325
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "A helyi közösséget szolgáló modern mecset Deir el Qamar történelmi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534758,
+                        33.628267
+                  ]
+            },
+            {
+                  "name": "Obied",
+                  "text": "Hagyományos piactér, ahol helyi kézművesek és kereskedők gyűlnek össze Deir el Qamar történelmi központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545146,
+                        33.749966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Titanic Baakline",
+                  "text": "O atracție populară în Baakline care oferă vederi panoramice asupra văilor Shouf și a satelor istorice din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.54622,
+                        33.676396
+                  ]
+            },
+            {
+                  "name": "Hand Made Crafts",
+                  "text": "Un muzeu din Deir el Qamar care prezintă obiecte de artizanat tradiționale libaneze, inclusiv broderii și lucrări în lemn.",
+                  "category": "museum",
+                  "coords": [
+                        35.525239,
+                        33.690464
+                  ]
+            },
+            {
+                  "name": "El Mahkama El Mathhabiah",
+                  "text": "O clădire religioasă istorică situată în piața principală din Deir el Qamar, reflectând moștenirea administrativă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        35.554299,
+                        33.674308
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "O biserică creștină dedicată Sfântului Mihail, parte a moștenirii arhitecturale a orașului istoric Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528232,
+                        33.680647
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "Un sit religios dedicat Sfintei Tecla, prezentând zidărie tradițională de piatră tipică munților Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51605,
+                        33.729436
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "O biserică creștină istorică dedicată Sfântului Ilie, situată lângă piața centrală din Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518424,
+                        33.723708
+                  ]
+            },
+            {
+                  "name": "Saint Georgios Orthodox Church",
+                  "text": "O biserică creștină ortodoxă dedicată Sfântului Gheorghe, care prezintă frumoasa arhitectură tradițională libaneză din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        35.524301,
+                        33.727045
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "O biserică tradițională de piatră dedicată Sfântului Gheorghe în inima orașului istoric Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.569327,
+                        33.733376
+                  ]
+            },
+            {
+                  "name": "Saydet Al Fakira Church",
+                  "text": "O capelă smerită dedicată Maicii Domnului a Săracilor, cunoscută pentru atmosfera sa senină din munții Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562941,
+                        33.697144
+                  ]
+            },
+            {
+                  "name": "Al Mir Fakhredine Al Maani Mosque",
+                  "text": "Construită în 1493 de Emirul Fakhreddine I, aceasta este una dintre cele mai vechi moschei din Muntele Liban, având un minaret octogonal distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        35.564456,
+                        33.698044
+                  ]
+            },
+            {
+                  "name": "Mazar Haml llah",
+                  "text": "Un mic altar creștin și loc de pelerinaj situat în cadrul pitoresc al regiunii Shouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.563447,
+                        33.702325
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "O moschee modernă care deservește comunitatea locală din orașul istoric Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534758,
+                        33.628267
+                  ]
+            },
+            {
+                  "name": "Obied",
+                  "text": "O piață tradițională unde meșteșugarii și comercianții locali se adună în centrul istoric al orașului Deir el Qamar.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545146,
+                        33.749966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Titanic Baakline",
+                  "text": "A popular attraction in Baakline offering panoramic views of the Shouf valleys and surrounding historic villages.",
+                  "category": "landmark",
+                  "coords": [
+                        35.54622,
+                        33.676396
+                  ]
+            },
+            {
+                  "name": "Hand Made Crafts",
+                  "text": "A museum in Deir el Qamar showcasing traditional Lebanese handicrafts, including embroidery and woodworking.",
+                  "category": "museum",
+                  "coords": [
+                        35.525239,
+                        33.690464
+                  ]
+            },
+            {
+                  "name": "El Mahkama El Mathhabiah",
+                  "text": "A historic religious building located on the main square of Deir el Qamar, reflecting the town's administrative heritage.",
+                  "category": "religious",
+                  "coords": [
+                        35.554299,
+                        33.674308
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "A Christian church dedicated to Saint Michael, part of the architectural heritage of historic Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.528232,
+                        33.680647
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "A religious site dedicated to Saint Thecla, featuring traditional stone masonry typical of the Shouf mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51605,
+                        33.729436
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "A historic Christian church dedicated to Saint Elias, located near the central square of Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.518424,
+                        33.723708
+                  ]
+            },
+            {
+                  "name": "Saint Georgios Orthodox Church",
+                  "text": "An Orthodox Christian church dedicated to Saint George, showcasing beautiful traditional Lebanese stone architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.524301,
+                        33.727045
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A traditional stone church dedicated to Saint George in the heart of the historic town of Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.569327,
+                        33.733376
+                  ]
+            },
+            {
+                  "name": "Saydet Al Fakira Church",
+                  "text": "A humble chapel dedicated to Our Lady of the Poor, known for its serene atmosphere in the Chouf mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562941,
+                        33.697144
+                  ]
+            },
+            {
+                  "name": "Al Mir Fakhredine Al Maani Mosque",
+                  "text": "Built in 1493 by Emir Fakhreddine I, this is one of the oldest mosques in Mount Lebanon, featuring a distinctive octagonal minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.564456,
+                        33.698044
+                  ]
+            },
+            {
+                  "name": "Mazar Haml llah",
+                  "text": "A small Christian shrine and place of pilgrimage located in the picturesque setting of the Shouf region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.563447,
+                        33.702325
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "A modern mosque serving the local community in the historic town of Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534758,
+                        33.628267
+                  ]
+            },
+            {
+                  "name": "Obied",
+                  "text": "A traditional marketplace where local artisans and traders gather in the historic center of Deir el Qamar.",
+                  "category": "cultural",
+                  "coords": [
+                        35.545146,
+                        33.749966
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "LB-JL",
     coords: [35.5639, 33.6983],
@@ -649,7 +6940,124 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Capitale du Mont-Liban de 1590 à 1840.", "Siège du gouvernement dès 1590 sous Fakhr ad-Din II.", "La mosquée de 1493 est le bâtiment le plus ancien conservé.", "Bachir Chehab II transféra la résidence à Beiteddine en 1812.", "Massacre de chrétiens en 1860 avec environ 2 000 morts.", "Présence d'une synagogue du XVIIe siècle.", "Classement monument historique sous le mandat français 1923-1943.", "Largement épargné lors de la guerre civile 1975-1990."],
     }, image: "/poi-images/deir-el-qamar-historic-square-history-v2.webp"},
   {
-    id: "temple-of-obelisks-history-v2",
+    id: "temple-of-obelisks-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Rochelle Beach Resort Amchit",
+                  "text": "Ein modernes Strandresort an den felsigen Ufern von Amchit, nördlich von Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.631803,
+                        34.165844
+                  ]
+            },
+            {
+                  "name": "Byblos Medieval Port",
+                  "text": "Ein geschichtsträchtiger Hafen, der von einer Kreuzritterburg bewacht wird und das maritime Erbe von Byblos zeigt.",
+                  "category": "castle",
+                  "coords": [
+                        35.642395,
+                        34.122206
+                  ]
+            },
+            {
+                  "name": "Lady of Deliverance Church - Byblos",
+                  "text": "Eine maronitische Kirche in der antiken Hafenstadt Byblos, einem Zentrum christlicher Tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64428,
+                        34.122138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Rochelle Beach Resort Amchit",
+                  "text": "Modern tengerparti üdülőhely Amchit sziklás partjainál, Büblosztól északra.",
+                  "category": "recreational",
+                  "coords": [
+                        35.631803,
+                        34.165844
+                  ]
+            },
+            {
+                  "name": "Byblos Medieval Port",
+                  "text": "Történelmi kikötő, amelyet egy keresztes lovagvár őriz, bemutatva Büblosz tengeri örökségét.",
+                  "category": "castle",
+                  "coords": [
+                        35.642395,
+                        34.122206
+                  ]
+            },
+            {
+                  "name": "Lady of Deliverance Church - Byblos",
+                  "text": "Maronita templom Büblosz ősi kikötővárosában, a keresztény hagyományok egyik központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64428,
+                        34.122138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Rochelle Beach Resort Amchit",
+                  "text": "O stațiune balneară modernă pe țărmurile stâncoase din Amchit, la nord de Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.631803,
+                        34.165844
+                  ]
+            },
+            {
+                  "name": "Byblos Medieval Port",
+                  "text": "Un port încărcat de istorie, străjuit de un castel cruciat, care prezintă moștenirea maritimă a Byblosului.",
+                  "category": "castle",
+                  "coords": [
+                        35.642395,
+                        34.122206
+                  ]
+            },
+            {
+                  "name": "Lady of Deliverance Church - Byblos",
+                  "text": "O biserică maronită din vechiul oraș portuar Byblos, un centru al tradiției creștine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64428,
+                        34.122138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Rochelle Beach Resort Amchit",
+                  "text": "A modern beach resort located on the rocky shores of Amchit, just north of Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.631803,
+                        34.165844
+                  ]
+            },
+            {
+                  "name": "Byblos Medieval Port",
+                  "text": "A historic harbor guarded by a Crusader castle, showcasing the maritime heritage of Byblos.",
+                  "category": "castle",
+                  "coords": [
+                        35.642395,
+                        34.122206
+                  ]
+            },
+            {
+                  "name": "Lady of Deliverance Church - Byblos",
+                  "text": "A Maronite church in the ancient port city of Byblos, a center of Christian tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64428,
+                        34.122138
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-JL",
     coords: [35.6444, 34.1200],
@@ -692,7 +7100,196 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Érigé entre 1900 et 1600 av. J.-C.", "Dédié au dieu cananéen Reshef.", "Plus de 26 obélisques en calcaire et en grès.", "Dégagement dès 1928 par Maurice Dunand.", "Déplacé de 40 mètres après 1932.", "Des milliers de statuettes en or et en bronze exhumées.", "Pillage du Musée national pendant la guerre civile 1975-1990.", "Inscrit au patrimoine mondial de l'UNESCO depuis 1984."],
     }, image: "/poi-images/temple-of-obelisks-history-v2.webp"},
   {
-    id: "faqra-ruins-history-v2",
+    id: "faqra-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Overlooking Faqra temple and the valley",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die römischen Ruinen von Faqra und die umliegenden Schluchten.",
+                  "category": "natural",
+                  "coords": [
+                        35.811345,
+                        33.999485
+                  ]
+            },
+            {
+                  "name": "Archeological site of Faqra",
+                  "text": "Römische Tempelanlagen und ein monumentaler Altarturm auf 1500 Metern Höhe.",
+                  "category": "historical",
+                  "coords": [
+                        35.808019,
+                        33.99797
+                  ]
+            },
+            {
+                  "name": "saydet al darjeh",
+                  "text": "Ein kleiner maronitischer Schrein namens „Unsere Liebe Frau von den Stufen“ nahe der Ruinen.",
+                  "category": "religious",
+                  "coords": [
+                        35.806673,
+                        34.022345
+                  ]
+            },
+            {
+                  "name": "saint Antoine church",
+                  "text": "Eine moderne maronitische Kirche, die das Bergdorf in der Nähe der Faqra-Ruinen bedient.",
+                  "category": "religious",
+                  "coords": [
+                        35.753671,
+                        33.977607
+                  ]
+            },
+            {
+                  "name": "Church of Mar Ephrem",
+                  "text": "Ein christliches Gotteshaus in der Bergregion, das dem Heiligen Ephräm gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766485,
+                        33.983439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Overlooking Faqra temple and the valley",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik Faqra római romjaira és a környező szurdokokra.",
+                  "category": "natural",
+                  "coords": [
+                        35.811345,
+                        33.999485
+                  ]
+            },
+            {
+                  "name": "Archeological site of Faqra",
+                  "text": "Római templomok és egy monumentális oltártorony 1500 méteres magasságban.",
+                  "category": "historical",
+                  "coords": [
+                        35.808019,
+                        33.99797
+                  ]
+            },
+            {
+                  "name": "saydet al darjeh",
+                  "text": "Egy kis maronita szentély vagy barlang a romok közelében, melynek neve Lépcsők Asszonya.",
+                  "category": "religious",
+                  "coords": [
+                        35.806673,
+                        34.022345
+                  ]
+            },
+            {
+                  "name": "saint Antoine church",
+                  "text": "Egy modern maronita templom, amely a Faqra-romok melletti hegyi falut szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        35.753671,
+                        33.977607
+                  ]
+            },
+            {
+                  "name": "Church of Mar Ephrem",
+                  "text": "Szent Efrémnek szentelt keresztény templom a hegyvidéki régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766485,
+                        33.983439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Overlooking Faqra temple and the valley",
+                  "text": "Un punct de observație cu vedere panoramică asupra ruinelor romane din Faqra și a canioanelor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        35.811345,
+                        33.999485
+                  ]
+            },
+            {
+                  "name": "Archeological site of Faqra",
+                  "text": "Temple romane și un turn-altar monumental situat la 1500 m altitudine.",
+                  "category": "historical",
+                  "coords": [
+                        35.808019,
+                        33.99797
+                  ]
+            },
+            {
+                  "name": "saydet al darjeh",
+                  "text": "Un mic altar maronit numit „Maica Domnului a Treptelor”, situat lângă ruine.",
+                  "category": "religious",
+                  "coords": [
+                        35.806673,
+                        34.022345
+                  ]
+            },
+            {
+                  "name": "saint Antoine church",
+                  "text": "O biserică maronită modernă care deservește satul de munte de lângă ruinele Faqra.",
+                  "category": "religious",
+                  "coords": [
+                        35.753671,
+                        33.977607
+                  ]
+            },
+            {
+                  "name": "Church of Mar Ephrem",
+                  "text": "Un lăcaș de cult creștin situat în regiunea muntoasă, dedicat Sfântului Efrem.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766485,
+                        33.983439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Overlooking Faqra temple and the valley",
+                  "text": "A viewpoint offering panoramic vistas of the Roman ruins of Faqra and the surrounding canyons.",
+                  "category": "natural",
+                  "coords": [
+                        35.811345,
+                        33.999485
+                  ]
+            },
+            {
+                  "name": "Archeological site of Faqra",
+                  "text": "Roman temples and a monumental altar tower situated at 1500m elevation.",
+                  "category": "historical",
+                  "coords": [
+                        35.808019,
+                        33.99797
+                  ]
+            },
+            {
+                  "name": "saydet al darjeh",
+                  "text": "A small Maronite shrine or grotto named \"Our Lady of the Stairs\" near the ruins.",
+                  "category": "religious",
+                  "coords": [
+                        35.806673,
+                        34.022345
+                  ]
+            },
+            {
+                  "name": "saint Antoine church",
+                  "text": "A modern Maronite church serving the mountain village near the Faqra ruins.",
+                  "category": "religious",
+                  "coords": [
+                        35.753671,
+                        33.977607
+                  ]
+            },
+            {
+                  "name": "Church of Mar Ephrem",
+                  "text": "A Christian place of worship in the mountain region dedicated to Saint Ephrem.",
+                  "category": "landmark",
+                  "coords": [
+                        35.766485,
+                        33.983439
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "LB-JL",
     coords: [35.8058, 33.9961],
@@ -735,7 +7332,340 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Altitude : 1 550 mètres dans les montagnes du Kesrouan.", "Consécration du temple datée de l'an 43 après J.-C.", "Érigé sous l'empereur Claude (41-54 après J.-C.).", "Dédié à Atargatis et Bel-Marqod.", "Tour-autel du IIe siècle après J.-C.", "Basilique byzantine après Théodose Ier vers 379.", "Documentation dès 1937 par Dunand et Krencker.", "Non endommagé lors de la guerre civile 1975-1990."],
     }, image: "/poi-images/faqra-ruins-history-v2.webp"},
   {
-    id: "martyrs-monument-beirut-history-v2",
+    id: "martyrs-monument-beirut-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancient Tell: Canaanite Gate",
+                  "text": "Ausgegrabene Ruinen eines Lehmziegeltores aus dem 2. Jahrtausend v. Chr., das die bronzezeitlichen Ursprünge Beiruts zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509031,
+                        33.898629
+                  ]
+            },
+            {
+                  "name": "Foch-Allenby District",
+                  "text": "Ein historisches Viertel, das für seine eleganten Fassaden im Pariser Stil und die Stadtplanung des frühen 20. Jahrhunderts bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.505797,
+                        33.899511
+                  ]
+            },
+            {
+                  "name": "Castle Square",
+                  "text": "Ein zentraler historischer Platz mit archäologischen Überresten und Blick auf die historischen Schichten Beiruts.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506862,
+                        33.899603
+                  ]
+            },
+            {
+                  "name": "Cinema Opera and Ezzeddine Building",
+                  "text": "Ein klassisches Art-déco-Gebäude, in dem früher eines der ikonischsten Kinos Beiruts untergebracht war.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506902,
+                        33.897011
+                  ]
+            },
+            {
+                  "name": "Lion of San Marco",
+                  "text": "Ein skulpturales Denkmal, das den geflügelten Löwen darstellt und Beirut als Symbol für die historischen Beziehungen zu Venedig geschenkt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        35.504926,
+                        33.896793
+                  ]
+            },
+            {
+                  "name": "Roman ruins viewpoint",
+                  "text": "Ein Aussichtspunkt mit Blick auf die ausgegrabenen Säulen und den Cardo der antiken römischen Stadt Berytus.",
+                  "category": "natural",
+                  "coords": [
+                        35.506135,
+                        33.896044
+                  ]
+            },
+            {
+                  "name": "Al-ʿUmarī-Moschee",
+                  "text": "Eine historische Moschee, die ursprünglich von den Kreuzfahrern als romanische St.-Johannes-der-Täufer-Kirche erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        35.505109,
+                        33.897758
+                  ]
+            },
+            {
+                  "name": "Kreuzritterburg",
+                  "text": "Mittelalterliche Ruinen einer Festung, die auf den Fundamenten eines antiken römischen Tempels in Hafennähe errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        35.507665,
+                        33.898632
+                  ]
+            },
+            {
+                  "name": "Holy Heart Church",
+                  "text": "Diese katholische Kirche in Beirut ist für ihre traditionelle maronitische Architektur und ihre spirituelle Bedeutung bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        35.510526,
+                        33.895407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancient Tell: Canaanite Gate",
+                  "text": "Egy i. e. 2. évezredből származó vályogtégla kapu feltárt romjai, amelyek Bejrút bronzkori eredetét mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509031,
+                        33.898629
+                  ]
+            },
+            {
+                  "name": "Foch-Allenby District",
+                  "text": "Elegáns, párizsi stílusú homlokzatairól és a 20. század eleji várostervezéséről ismert történelmi negyed.",
+                  "category": "landmark",
+                  "coords": [
+                        35.505797,
+                        33.899511
+                  ]
+            },
+            {
+                  "name": "Castle Square",
+                  "text": "Központi történelmi tér archéológiai maradványokkal és kilátással Bejrút történelmi rétegeire.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506862,
+                        33.899603
+                  ]
+            },
+            {
+                  "name": "Cinema Opera and Ezzeddine Building",
+                  "text": "Egy klasszikus art déco épület, amely korábban Bejrút egyik legikonikusabb mozijának adott otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506902,
+                        33.897011
+                  ]
+            },
+            {
+                  "name": "Lion of San Marco",
+                  "text": "Egy szobrászati emlékmű, amely a szárnyas oroszlánt ábrázolja, és amelyet Velencével való történelmi kapcsolatok jelképeként ajándékoztak Bejrútnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.504926,
+                        33.896793
+                  ]
+            },
+            {
+                  "name": "Roman ruins viewpoint",
+                  "text": "Kilátóhely, ahonnan rálátni Berytus ókori római városának feltárt oszlopaira és cardójára.",
+                  "category": "natural",
+                  "coords": [
+                        35.506135,
+                        33.896044
+                  ]
+            },
+            {
+                  "name": "Al-Omari Grand Mosque",
+                  "text": "Történelmi mecset, amelyet eredetileg a keresztes lovagok építettek román stílusú Keresztelő Szent János-templomként.",
+                  "category": "religious",
+                  "coords": [
+                        35.505109,
+                        33.897758
+                  ]
+            },
+            {
+                  "name": "Forteresse Croisée",
+                  "text": "Egy kikötő közeli ókori római templom alapjaira épült középkori erődítmény romjai.",
+                  "category": "historical",
+                  "coords": [
+                        35.507665,
+                        33.898632
+                  ]
+            },
+            {
+                  "name": "Holy Heart Church",
+                  "text": "Ez a bejrúti katolikus templom hagyományos maronita építészetéről és spirituális jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        35.510526,
+                        33.895407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancient Tell: Canaanite Gate",
+                  "text": "Ruinele excavate ale unei porți din cărămidă de lut din mileniul al II-lea î.Hr., care atestă originile Beirutului din Epoca Bronzului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509031,
+                        33.898629
+                  ]
+            },
+            {
+                  "name": "Foch-Allenby District",
+                  "text": "Un district istoric cunoscut pentru fațadele sale elegante în stil parizian și designul urban de la începutul secolului al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        35.505797,
+                        33.899511
+                  ]
+            },
+            {
+                  "name": "Castle Square",
+                  "text": "O piață istorică centrală cu vestigii arheologice și vederi asupra straturilor istorice ale Beirutului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506862,
+                        33.899603
+                  ]
+            },
+            {
+                  "name": "Cinema Opera and Ezzeddine Building",
+                  "text": "O clădire clasică Art Deco care a găzduit anterior unul dintre cele mai emblematice cinematografe din Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506902,
+                        33.897011
+                  ]
+            },
+            {
+                  "name": "Lion of San Marco",
+                  "text": "Un monument sculptural reprezentând leul înaripat, dăruit Beirutului pentru a simboliza legăturile istorice cu Veneția.",
+                  "category": "historical",
+                  "coords": [
+                        35.504926,
+                        33.896793
+                  ]
+            },
+            {
+                  "name": "Roman ruins viewpoint",
+                  "text": "Un punct de observație cu vedere la coloanele excavate și cardoul anticului oraș roman Berytus.",
+                  "category": "natural",
+                  "coords": [
+                        35.506135,
+                        33.896044
+                  ]
+            },
+            {
+                  "name": "Al-Omari Grand Mosque",
+                  "text": "O moschee istorică construită inițial de cruciați ca biserică romanică dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        35.505109,
+                        33.897758
+                  ]
+            },
+            {
+                  "name": "Forteresse Croisée",
+                  "text": "Ruinele medievale ale unei fortărețe construite pe fundațiile unui templu roman antic, lângă port.",
+                  "category": "historical",
+                  "coords": [
+                        35.507665,
+                        33.898632
+                  ]
+            },
+            {
+                  "name": "Holy Heart Church",
+                  "text": "Această biserică catolică din Beirut este cunoscută pentru arhitectura sa maronită tradițională și importanța sa spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        35.510526,
+                        33.895407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancient Tell: Canaanite Gate",
+                  "text": "Excavated ruins of a 2nd millennium BC mud-brick gate, showcasing Beirut's Bronze Age origins.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509031,
+                        33.898629
+                  ]
+            },
+            {
+                  "name": "Foch-Allenby District",
+                  "text": "A historic district known for its elegant Parisian-style facades and early 20th-century urban design.",
+                  "category": "landmark",
+                  "coords": [
+                        35.505797,
+                        33.899511
+                  ]
+            },
+            {
+                  "name": "Castle Square",
+                  "text": "A central historic square featuring archaeological remains and views of Beirut’s historic layers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506862,
+                        33.899603
+                  ]
+            },
+            {
+                  "name": "Cinema Opera and Ezzeddine Building",
+                  "text": "A classic Art Deco building that formerly housed one of Beirut's most iconic cinemas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.506902,
+                        33.897011
+                  ]
+            },
+            {
+                  "name": "Lion of San Marco",
+                  "text": "A sculptural monument depicting the winged lion, gifted to Beirut to symbolize historic ties with Venice.",
+                  "category": "historical",
+                  "coords": [
+                        35.504926,
+                        33.896793
+                  ]
+            },
+            {
+                  "name": "Roman ruins viewpoint",
+                  "text": "A vantage point overlooking the excavated columns and cardo of the ancient Roman city of Berytus.",
+                  "category": "natural",
+                  "coords": [
+                        35.506135,
+                        33.896044
+                  ]
+            },
+            {
+                  "name": "Al-Omari Grand Mosque",
+                  "text": "A historic mosque originally built as the Romanesque Church of Saint John the Baptist by the Crusaders.",
+                  "category": "religious",
+                  "coords": [
+                        35.505109,
+                        33.897758
+                  ]
+            },
+            {
+                  "name": "Crusader Castle",
+                  "text": "Medieval ruins of a fortress built on the foundations of an ancient Roman temple near the harbor.",
+                  "category": "historical",
+                  "coords": [
+                        35.507665,
+                        33.898632
+                  ]
+            },
+            {
+                  "name": "Holy Heart Church",
+                  "text": "This Catholic church in Beirut is known for its traditional Maronite architecture and spiritual significance.",
+                  "category": "religious",
+                  "coords": [
+                        35.510526,
+                        33.895407
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "LB-BA",
     coords: [35.5064, 33.8961],
@@ -778,7 +7708,448 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Exécution des 21 martyrs le 6 mai 1916.", "Ordonnée par le gouverneur Djemal Pacha.", "Premier monument de 1930 détruit.", "Statue actuelle de 1960 par Renato Marino Mazzacurati.", "Inaugurée sous le président Fouad Chehab.", "Ligne de démarcation lors de la guerre civile 1975-1990.", "Impacts de balles délibérément conservés en guise de mémorial.", "Restauré entre 1996 et 2004."],
     }, image: "/poi-images/martyrs-monument-beirut-history-v2.webp"},
   {
-    id: "monastery-mar-sarkis-history-v2",
+    id: "monastery-mar-sarkis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viewpoint to waterfall across the valley",
+                  "text": "Ein Aussichtspunkt mit direktem Blick auf die Wasserfälle im Qadisha-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        36.003574,
+                        34.245586
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Mar Elisha and waterfall",
+                  "text": "Ein Ausblick auf das Felsenkloster Mar Elisha und den benachbarten Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        36.001921,
+                        34.245989
+                  ]
+            },
+            {
+                  "name": "St. Elisha Kloster",
+                  "text": "Ein antikes maronitisches Kloster, das direkt in die Felswände des Qadisha-Tals gehauen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        36.001298,
+                        34.248376
+                  ]
+            },
+            {
+                  "name": "watermill",
+                  "text": "Die Steinruinen einer alten Wassermühle am Bachlauf im Talgrund.",
+                  "category": "historical",
+                  "coords": [
+                        35.98717,
+                        34.25199
+                  ]
+            },
+            {
+                  "name": "Gibran Museum",
+                  "text": "Ein Museum für den Dichter Khalil Gibran in einem ehemaligen Felsenkloster.",
+                  "category": "museum",
+                  "coords": [
+                        36.019114,
+                        34.249855
+                  ]
+            },
+            {
+                  "name": "Gibran Khalil Gibran House",
+                  "text": "Das Geburtshaus des berühmten libanesisch-amerikanischen Schriftstellers Khalil Gibran.",
+                  "category": "religious",
+                  "coords": [
+                        36.010584,
+                        34.249781
+                  ]
+            },
+            {
+                  "name": "Saint Shmouneh",
+                  "text": "Eine kleine christliche Gebetsstätte in der bergigen Landschaft nahe Mar Sarkis.",
+                  "category": "religious",
+                  "coords": [
+                        35.98938,
+                        34.248999
+                  ]
+            },
+            {
+                  "name": "Saint Bahnam",
+                  "text": "Eine religiöse Stätte des Heiligen Bahnam, die das christliche Erbe der Region widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        35.987754,
+                        34.250394
+                  ]
+            },
+            {
+                  "name": "St Basilios Church",
+                  "text": "Eine dem Heiligen Basilius gewidmete Kirche im historischen Viertel von Bcharre.",
+                  "category": "landmark",
+                  "coords": [
+                        36.014603,
+                        34.251068
+                  ]
+            },
+            {
+                  "name": "Saint Seba Basilic",
+                  "text": "Eine bedeutende christliche Basilika in Bcharre, die dem Heiligen Saba gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        36.010559,
+                        34.248583
+                  ]
+            },
+            {
+                  "name": "St Charbel Home",
+                  "text": "Das Elternhaus und die religiöse Gedenkstätte des heiligen Charbel Makhlouf.",
+                  "category": "landmark",
+                  "coords": [
+                        36.004404,
+                        34.237458
+                  ]
+            },
+            {
+                  "name": "Sanctuary Sacred Cove",
+                  "text": "Eine heilige christliche Stätte in einer natürlichen Felsnische oder Grotte im Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.992298,
+                        34.252379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viewpoint to waterfall across the valley",
+                  "text": "Kilátópont, ahonnan rálátni a Qadisha-kanyon vízeséseire.",
+                  "category": "natural",
+                  "coords": [
+                        36.003574,
+                        34.245586
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Mar Elisha and waterfall",
+                  "text": "Kilátóhely, ahonnan a sziklába épült Mar Elisha-kolostor és a mellette lévő vízesés látható.",
+                  "category": "natural",
+                  "coords": [
+                        36.001921,
+                        34.245989
+                  ]
+            },
+            {
+                  "name": "Saint Elisha Monastery",
+                  "text": "A sziklafalba vájt ősi maronita kolostor a Qadisha-völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        36.001298,
+                        34.248376
+                  ]
+            },
+            {
+                  "name": "watermill",
+                  "text": "Egy régi vízimalom kőromjai a völgy aljában futó patak partján.",
+                  "category": "historical",
+                  "coords": [
+                        35.98717,
+                        34.25199
+                  ]
+            },
+            {
+                  "name": "Gibran Museum",
+                  "text": "Kahlil Gibran költő múzeuma egy egykori sziklakolostor épületében.",
+                  "category": "museum",
+                  "coords": [
+                        36.019114,
+                        34.249855
+                  ]
+            },
+            {
+                  "name": "Gibran Khalil Gibran House",
+                  "text": "Kahlil Gibran híres libanoni-amerikai író szülőháza.",
+                  "category": "religious",
+                  "coords": [
+                        36.010584,
+                        34.249781
+                  ]
+            },
+            {
+                  "name": "Saint Shmouneh",
+                  "text": "Kis keresztény imáhely a Mar Sarkis közeli hegyi tájban.",
+                  "category": "religious",
+                  "coords": [
+                        35.98938,
+                        34.248999
+                  ]
+            },
+            {
+                  "name": "Saint Bahnam",
+                  "text": "Szent Bahnam tiszteletére emelt vallási helyszín, amely a régió keresztény örökségét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        35.987754,
+                        34.250394
+                  ]
+            },
+            {
+                  "name": "St Basilios Church",
+                  "text": "Szent Vazulnak szentelt keresztény templom Bcharre történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.014603,
+                        34.251068
+                  ]
+            },
+            {
+                  "name": "Saint Seba Basilic",
+                  "text": "Jelentős keresztény bazilika Bcharre városában, amelyet Szent Szabbásznak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.010559,
+                        34.248583
+                  ]
+            },
+            {
+                  "name": "St Charbel Home",
+                  "text": "Szent Charbel korai életéhez kapcsolódó szülőház és vallási emlékhely.",
+                  "category": "landmark",
+                  "coords": [
+                        36.004404,
+                        34.237458
+                  ]
+            },
+            {
+                  "name": "Sanctuary Sacred Cove",
+                  "text": "Szent keresztény helyszín a völgy egyik természetes sziklafülkéjében vagy barlangjában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.992298,
+                        34.252379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viewpoint to waterfall across the valley",
+                  "text": "Un punct de belvedere ce oferă o perspectivă clară asupra cascadelor din canionul Qadisha.",
+                  "category": "natural",
+                  "coords": [
+                        36.003574,
+                        34.245586
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Mar Elisha and waterfall",
+                  "text": "Un loc de observație cu vedere spre mănăstirea săpată în stâncă Mar Elisha și cascada sa.",
+                  "category": "natural",
+                  "coords": [
+                        36.001921,
+                        34.245989
+                  ]
+            },
+            {
+                  "name": "Saint Elisha Monastery",
+                  "text": "O mănăstirea maronită antică săpată direct în pereții de stâncă ai văii Qadisha.",
+                  "category": "religious",
+                  "coords": [
+                        36.001298,
+                        34.248376
+                  ]
+            },
+            {
+                  "name": "watermill",
+                  "text": "Ruinele de piatră ale unei vechi mori de apă situate pe cursul pârâului din vale.",
+                  "category": "historical",
+                  "coords": [
+                        35.98717,
+                        34.25199
+                  ]
+            },
+            {
+                  "name": "Gibran Museum",
+                  "text": "Muzeu dedicat poetului Kahlil Gibran, găzduit într-o fostă mănăstire săpată în stâncă.",
+                  "category": "museum",
+                  "coords": [
+                        36.019114,
+                        34.249855
+                  ]
+            },
+            {
+                  "name": "Gibran Khalil Gibran House",
+                  "text": "Casa natală a faimosului scriitor libanezo-american Kahlil Gibran.",
+                  "category": "religious",
+                  "coords": [
+                        36.010584,
+                        34.249781
+                  ]
+            },
+            {
+                  "name": "Saint Shmouneh",
+                  "text": "Un mic lăcaș de cult creștin cuibărit în peisajul montan de lângă Mar Sarkis.",
+                  "category": "religious",
+                  "coords": [
+                        35.98938,
+                        34.248999
+                  ]
+            },
+            {
+                  "name": "Saint Bahnam",
+                  "text": "Un sit religios dedicat Sfântului Bahnam, reflectând moștenirea creștină a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        35.987754,
+                        34.250394
+                  ]
+            },
+            {
+                  "name": "St Basilios Church",
+                  "text": "Biserică creștină dedicată Sfântului Vasile, situată în districtul istoric din Bcharre.",
+                  "category": "landmark",
+                  "coords": [
+                        36.014603,
+                        34.251068
+                  ]
+            },
+            {
+                  "name": "Saint Seba Basilic",
+                  "text": "O bazilică creștină semnificativă în Bcharre, dedicată Sfântului Sava.",
+                  "category": "landmark",
+                  "coords": [
+                        36.010559,
+                        34.248583
+                  ]
+            },
+            {
+                  "name": "St Charbel Home",
+                  "text": "Casa părintească și situl religios asociat cu viața timpurie a Sfântului Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        36.004404,
+                        34.237458
+                  ]
+            },
+            {
+                  "name": "Sanctuary Sacred Cove",
+                  "text": "Un loc sacru creștin situat într-o firidă naturală sau peșteră din stânca văii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.992298,
+                        34.252379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewpoint to waterfall across the valley",
+                  "text": "A viewpoint offering a clear perspective of the waterfalls cascading down the Qadisha canyon.",
+                  "category": "natural",
+                  "coords": [
+                        36.003574,
+                        34.245586
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Mar Elisha and waterfall",
+                  "text": "An overlook providing views of the cliffside Mar Elisha Monastery and its nearby waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        36.001921,
+                        34.245989
+                  ]
+            },
+            {
+                  "name": "Saint Elisha Monastery",
+                  "text": "An ancient Maronite monastery carved directly into the rock face of the Qadisha Valley.",
+                  "category": "religious",
+                  "coords": [
+                        36.001298,
+                        34.248376
+                  ]
+            },
+            {
+                  "name": "watermill",
+                  "text": "The stone ruins of an old watermill located along the stream in the valley floor.",
+                  "category": "historical",
+                  "coords": [
+                        35.98717,
+                        34.25199
+                  ]
+            },
+            {
+                  "name": "Gibran Museum",
+                  "text": "A museum dedicated to the poet Kahlil Gibran, housed in an ancient rock-cut monastery.",
+                  "category": "museum",
+                  "coords": [
+                        36.019114,
+                        34.249855
+                  ]
+            },
+            {
+                  "name": "Gibran Khalil Gibran House",
+                  "text": "The childhood home of the famous Lebanese-American writer Kahlil Gibran.",
+                  "category": "religious",
+                  "coords": [
+                        36.010584,
+                        34.249781
+                  ]
+            },
+            {
+                  "name": "Saint Shmouneh",
+                  "text": "A small Christian place of worship nestled in the mountainous landscape near Mar Sarkis.",
+                  "category": "religious",
+                  "coords": [
+                        35.98938,
+                        34.248999
+                  ]
+            },
+            {
+                  "name": "Saint Bahnam",
+                  "text": "A religious site dedicated to Saint Bahnam, reflecting the region's deep Christian heritage.",
+                  "category": "religious",
+                  "coords": [
+                        35.987754,
+                        34.250394
+                  ]
+            },
+            {
+                  "name": "St Basilios Church",
+                  "text": "A Christian church dedicated to Saint Basil, located in the historic district of Bcharre.",
+                  "category": "landmark",
+                  "coords": [
+                        36.014603,
+                        34.251068
+                  ]
+            },
+            {
+                  "name": "Saint Seba Basilic",
+                  "text": "A significant Christian basilica in Bcharre dedicated to Saint Saba.",
+                  "category": "landmark",
+                  "coords": [
+                        36.010559,
+                        34.248583
+                  ]
+            },
+            {
+                  "name": "St Charbel Home",
+                  "text": "The family home and religious site associated with the early life of Saint Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        36.004404,
+                        34.237458
+                  ]
+            },
+            {
+                  "name": "Sanctuary Sacred Cove",
+                  "text": "A sacred Christian site located in a natural rock cove or grotto within the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.992298,
+                        34.252379
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "LB-AS",
     coords: [36.0072, 34.2500],
@@ -821,7 +8192,124 @@ export const poiExtraLebanonHistoryV2: POI[] = [
       fr: ["Fondé au VIIe siècle par des moines syro-jacobites.", "Repris par l'église maronite au XIIe siècle.", "Reconstruction après le séisme de 1862.", "Khalil Gibran a vécu de 1883 à 1931.", "Mariana Gibran a acheté le monastère en 1932.", "Musée Gibran ouvert en 1975.", "Plus de 440 œuvres originales dans les collections du musée.", "Vallée de la Qadisha classée à l'UNESCO depuis 1998."],
     }, image: "/poi-images/monastery-mar-sarkis-history-v2.webp"},
   {
-    id: "rachaya-citadel-history-v2",
+    id: "rachaya-citadel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rashaya Palace",
+                  "text": "Eine historische Zitadelle in Rashaya, in der libanesische Unabhängigkeitsführer gefangen gehalten wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841494,
+                        33.499734
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "Eine griechisch-orthodoxe Kirche in Rashaya mit traditioneller Steinarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.783432,
+                        33.457038
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Eine christliche Kirche in Rashaya, die dem Heiligen Elias gewidmet ist und über der Stadt thront.",
+                  "category": "landmark",
+                  "coords": [
+                        35.80201,
+                        33.48406
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rashaya Palace",
+                  "text": "Történelmi citadella Rashayában, ahol a libanoni függetlenségi vezetőket raboskodtak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841494,
+                        33.499734
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "Görög ortodox templom Rashayában, hagyományos kőépítészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.783432,
+                        33.457038
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Szent Illésnek szentelt keresztény templom Rashayában, amely a város fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.80201,
+                        33.48406
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rashaya Palace",
+                  "text": "O citadelă istorică în Rashaya, unde au fost închiși liderii independenței libaneze.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841494,
+                        33.499734
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "O biserică ortodoxă greacă din Rashaya, cu arhitectură tradițională din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        35.783432,
+                        33.457038
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "O biserică creștină în Rashaya, dedicată Sfântului Ilie, care domină orașul.",
+                  "category": "landmark",
+                  "coords": [
+                        35.80201,
+                        33.48406
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rashaya Palace",
+                  "text": "A historic citadel in Rashaya where Lebanese independence leaders were once imprisoned.",
+                  "category": "landmark",
+                  "coords": [
+                        35.841494,
+                        33.499734
+                  ]
+            },
+            {
+                  "name": "St. Michael Church",
+                  "text": "A Greek Orthodox church in Rashaya featuring traditional stone architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.783432,
+                        33.457038
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "A Christian church in Rashaya dedicated to Saint Elias, overlooking the town.",
+                  "category": "landmark",
+                  "coords": [
+                        35.80201,
+                        33.48406
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "LB-BI",
     coords: [35.8417, 33.4986],

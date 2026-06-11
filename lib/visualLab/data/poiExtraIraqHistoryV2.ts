@@ -3,7 +3,520 @@ import type { POI } from "./poi";
 
 export const poiExtraIraqHistoryV2: POI[] = [
   {
-    id: "babylon-history-v2",
+    id: "babylon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qalat Shuhayb al Hamad",
+                  "text": "Eine historische Festungsanlage in der Nähe des antiken Babylons, die den Wüstenzugang bewachte.",
+                  "category": "castle",
+                  "coords": [
+                        44.48304,
+                        32.551377
+                  ]
+            },
+            {
+                  "name": "Al Hajj Shuhayb",
+                  "text": "Eine Festungsstruktur im historischen Distrikt von Babylon mit traditionellen Lehmziegelmauern.",
+                  "category": "castle",
+                  "coords": [
+                        44.483935,
+                        32.54943
+                  ]
+            },
+            {
+                  "name": "Babylon",
+                  "text": "Die weitläufigen Ruinen der antiken mesopotamischen Hauptstadt, die für ihre monumentalen Stadtmauern bekannt sind.",
+                  "category": "historical",
+                  "coords": [
+                        44.424156,
+                        32.539594
+                  ]
+            },
+            {
+                  "name": "Esaĝila",
+                  "text": "Die archäologischen Überreste des Marduk-Tempels, eines der wichtigsten religiösen Zentren des antiken Babylons.",
+                  "category": "historical",
+                  "coords": [
+                        44.421522,
+                        32.533727
+                  ]
+            },
+            {
+                  "name": "Präsidentenpalast von Sadam Hussein",
+                  "text": "Ein moderner Palast auf einem künstlichen Hügel, der einen Panoramablick über die Ausgrabungsstätten von Babylon bietet.",
+                  "category": "castle",
+                  "coords": [
+                        44.417183,
+                        32.543247
+                  ]
+            },
+            {
+                  "name": "Outer Wall of Babylon",
+                  "text": "Die massiven Überreste der äußeren Befestigungsanlagen, die einst die antike Metropole umschlossen.",
+                  "category": "historical",
+                  "coords": [
+                        44.437433,
+                        32.552827
+                  ]
+            },
+            {
+                  "name": "Turmbau zu Babel",
+                  "text": "Die archäologische Fundstätte der Etemenanki-Zikkurat, die als historisches Vorbild für den biblischen Turmbau zu Babel gilt.",
+                  "category": "historical",
+                  "coords": [
+                        44.421077,
+                        32.536303
+                  ]
+            },
+            {
+                  "name": "Babylonische Stadt",
+                  "text": "Ein bedeutender archäologischer Komplex in Mesopotamien mit rekonstruierten Tempeln und antiken Prozessionsstraßen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.426662,
+                        32.53738
+                  ]
+            },
+            {
+                  "name": "Ninmaḫ-Tempel",
+                  "text": "Ein antiker Tempel aus dem 6. Jahrhundert v. Chr., der der Muttergöttin Ninmach gewidmet war.",
+                  "category": "religious",
+                  "coords": [
+                        44.42327,
+                        32.543267
+                  ]
+            },
+            {
+                  "name": "Ischtar-Tor",
+                  "text": "Ein monumentales Stadttor aus dem Jahr 575 v. Chr., das ursprünglich mit blauen Glasurziegeln und Tierreliefs verziert war.",
+                  "category": "fortress",
+                  "coords": [
+                        44.423969,
+                        32.541481
+                  ]
+            },
+            {
+                  "name": "Tell Babil",
+                  "text": "Ein markanter Siedlungshügel, der die Überreste des nördlichen Palastkomplexes von König Nebukadnezar II. birgt.",
+                  "category": "historical",
+                  "coords": [
+                        44.424698,
+                        32.565423
+                  ]
+            },
+            {
+                  "name": "Imgur-Enlil and Nemed-Enlil",
+                  "text": "Die archäologischen Fundamente des doppelten Stadtmauersystems, das den inneren Kern des antiken Babylons schützte.",
+                  "category": "historical",
+                  "coords": [
+                        44.426595,
+                        32.529313
+                  ]
+            },
+            {
+                  "name": "Imam Salman",
+                  "text": "Ein schiitisches Heiligtum in der Nähe der Ruinen von Babylon, das dem Imam Salman gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4703,
+                        32.555057
+                  ]
+            },
+            {
+                  "name": "Almuttaqin",
+                  "text": "Eine lokale Moschee in der Nähe der archäologischen Stätten, die als spiritueller Treffpunkt für Pilger dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.338234,
+                        32.525093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qalat Shuhayb al Hamad",
+                  "text": "Egy történelmi erődítmény az ókori Babilon közelében, amely a sivatagi útvonalat őrizte.",
+                  "category": "castle",
+                  "coords": [
+                        44.48304,
+                        32.551377
+                  ]
+            },
+            {
+                  "name": "Al Hajj Shuhayb",
+                  "text": "Erődítmény Babilon történelmi negyedében, hagyományos vályogtégla falakkal.",
+                  "category": "castle",
+                  "coords": [
+                        44.483935,
+                        32.54943
+                  ]
+            },
+            {
+                  "name": "Babilon",
+                  "text": "Az ókori mezopotámiai főváros kiterjedt romjai, amely monumentális városfalairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        44.424156,
+                        32.539594
+                  ]
+            },
+            {
+                  "name": "Esagila",
+                  "text": "Marduk templomának régészeti maradványai, amely az ókori Babilon egyik legfontosabb vallási központja volt.",
+                  "category": "historical",
+                  "coords": [
+                        44.421522,
+                        32.533727
+                  ]
+            },
+            {
+                  "name": "Presidential Palace of Sadam Hussein",
+                  "text": "Egy mesterséges dombra épült modern palota, amely panorámás kilátást nyújt Babilon ásatásaira.",
+                  "category": "castle",
+                  "coords": [
+                        44.417183,
+                        32.543247
+                  ]
+            },
+            {
+                  "name": "Outer Wall of Babylon",
+                  "text": "A külső erődítmények masszív maradványai, amelyek egykor körülölelték az ókori metropoliszt.",
+                  "category": "historical",
+                  "coords": [
+                        44.437433,
+                        32.552827
+                  ]
+            },
+            {
+                  "name": "Tower of Babel",
+                  "text": "Az Etemenanki-ziggurat régészeti lelőhelye, amelyet a bibliai Bábel tornya történelmi alapjának tekintenek.",
+                  "category": "historical",
+                  "coords": [
+                        44.421077,
+                        32.536303
+                  ]
+            },
+            {
+                  "name": "Babilon",
+                  "text": "Jelentős mezopotámiai régészeti komplexum rekonstruált templomokkal és ókori felvonulási utakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.426662,
+                        32.53738
+                  ]
+            },
+            {
+                  "name": "Temple of Ninmakh",
+                  "text": "Egy i. e. 6. századból származó ókori templom, amelyet Ninmah anyaistennőnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        44.42327,
+                        32.543267
+                  ]
+            },
+            {
+                  "name": "Ishtar Gate",
+                  "text": "Egy i. e. 575-ből származó monumentális városkapu, amelyet eredetileg kék mázas téglák és állatreliefek díszítettek.",
+                  "category": "fortress",
+                  "coords": [
+                        44.423969,
+                        32.541481
+                  ]
+            },
+            {
+                  "name": "Tell Babil",
+                  "text": "Jellegzetes lakódomb, amely II. Nabukodonozor király északi palotakomplexumának maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        44.424698,
+                        32.565423
+                  ]
+            },
+            {
+                  "name": "Imgur-Enlil and Nemed-Enlil",
+                  "text": "Az ókori Babilon belső magját védő kettős városfalrendszer régészeti alapjai.",
+                  "category": "historical",
+                  "coords": [
+                        44.426595,
+                        32.529313
+                  ]
+            },
+            {
+                  "name": "Imam Salman",
+                  "text": "Egy síita szentély Babilon romjai közelében, amelyet Szalmán imámnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4703,
+                        32.555057
+                  ]
+            },
+            {
+                  "name": "Almuttaqin",
+                  "text": "Egy helyi mecset a régészeti lelőhelyek közelében, amely a zarándokok spirituális találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        44.338234,
+                        32.525093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qalat Shuhayb al Hamad",
+                  "text": "O fortificație istorică situată lângă vechiul Babilon, care păzea accesul dinspre deșert.",
+                  "category": "castle",
+                  "coords": [
+                        44.48304,
+                        32.551377
+                  ]
+            },
+            {
+                  "name": "Al Hajj Shuhayb",
+                  "text": "O structură de fortificație în districtul istoric al Babilonului, cu ziduri tradiționale din cărămidă de lut.",
+                  "category": "castle",
+                  "coords": [
+                        44.483935,
+                        32.54943
+                  ]
+            },
+            {
+                  "name": "Babylon",
+                  "text": "Ruinele vaste ale fostei capitale mesopotamiene, cunoscută pentru zidurile sale monumentale.",
+                  "category": "historical",
+                  "coords": [
+                        44.424156,
+                        32.539594
+                  ]
+            },
+            {
+                  "name": "Esagila",
+                  "text": "Rămășițele arheologice ale templului lui Marduk, unul dintre cele mai importante centre religioase din Babilonul antic.",
+                  "category": "historical",
+                  "coords": [
+                        44.421522,
+                        32.533727
+                  ]
+            },
+            {
+                  "name": "Presidential Palace of Sadam Hussein",
+                  "text": "Un palat modern construit pe un deal artificial, oferind o vedere panoramică asupra siturilor arheologice din Babilon.",
+                  "category": "castle",
+                  "coords": [
+                        44.417183,
+                        32.543247
+                  ]
+            },
+            {
+                  "name": "Outer Wall of Babylon",
+                  "text": "Rămășițele masive ale fortificațiilor exterioare care înconjurau odinioară metropola antică.",
+                  "category": "historical",
+                  "coords": [
+                        44.437433,
+                        32.552827
+                  ]
+            },
+            {
+                  "name": "Turnul Babel",
+                  "text": "Situl arheologic al ziguratului Etemenanki, considerat baza istorică a Turnului Babel biblic.",
+                  "category": "historical",
+                  "coords": [
+                        44.421077,
+                        32.536303
+                  ]
+            },
+            {
+                  "name": "Babylon city",
+                  "text": "Un important complex arheologic din Mesopotamia, cu temple reconstruite și străzi antice procesionale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.426662,
+                        32.53738
+                  ]
+            },
+            {
+                  "name": "Temple of Ninmakh",
+                  "text": "Un templu antic din secolul al VI-lea î.Hr., dedicat zeiței-mame Ninmah.",
+                  "category": "religious",
+                  "coords": [
+                        44.42327,
+                        32.543267
+                  ]
+            },
+            {
+                  "name": "Ishtar Gate",
+                  "text": "O poartă monumentală din anul 575 î.Hr., decorată inițial cu cărămizi smălțuite albastre și basoreliefuri cu animale.",
+                  "category": "fortress",
+                  "coords": [
+                        44.423969,
+                        32.541481
+                  ]
+            },
+            {
+                  "name": "Tell Babil",
+                  "text": "O colină proeminentă care adăpostește rămășițele complexului palatului de nord al regelui Nabucodonosor al II-lea.",
+                  "category": "historical",
+                  "coords": [
+                        44.424698,
+                        32.565423
+                  ]
+            },
+            {
+                  "name": "Imgur-Enlil and Nemed-Enlil",
+                  "text": "Fundațiile arheologice ale sistemului dublu de ziduri care proteja nucleul interior al Babilonului antic.",
+                  "category": "historical",
+                  "coords": [
+                        44.426595,
+                        32.529313
+                  ]
+            },
+            {
+                  "name": "Imam Salman",
+                  "text": "Un sanctuar șiit situat lângă ruinele Babilonului, dedicat Imamului Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4703,
+                        32.555057
+                  ]
+            },
+            {
+                  "name": "Almuttaqin",
+                  "text": "O moschee locală situată în apropierea siturilor arheologice, servind ca punct de întâlnire spiritual pentru pelerini.",
+                  "category": "religious",
+                  "coords": [
+                        44.338234,
+                        32.525093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qalat Shuhayb al Hamad",
+                  "text": "A historical fortification near ancient Babylon that guarded the desert approach.",
+                  "category": "castle",
+                  "coords": [
+                        44.48304,
+                        32.551377
+                  ]
+            },
+            {
+                  "name": "Al Hajj Shuhayb",
+                  "text": "A fortress structure in the historical district of Babylon featuring traditional mud-brick walls.",
+                  "category": "castle",
+                  "coords": [
+                        44.483935,
+                        32.54943
+                  ]
+            },
+            {
+                  "name": "Babylon",
+                  "text": "The sprawling ruins of the ancient Mesopotamian capital, renowned for its monumental city walls.",
+                  "category": "historical",
+                  "coords": [
+                        44.424156,
+                        32.539594
+                  ]
+            },
+            {
+                  "name": "Esagila",
+                  "text": "The archaeological remains of the temple of Marduk, one of the most important religious centers of ancient Babylon.",
+                  "category": "historical",
+                  "coords": [
+                        44.421522,
+                        32.533727
+                  ]
+            },
+            {
+                  "name": "Presidential Palace of Sadam Hussein",
+                  "text": "A modern palace built atop a man-made hill, offering a panoramic view over the Babylon excavation sites.",
+                  "category": "castle",
+                  "coords": [
+                        44.417183,
+                        32.543247
+                  ]
+            },
+            {
+                  "name": "Outer Wall of Babylon",
+                  "text": "The massive remains of the outer fortifications that once encircled the ancient metropolis.",
+                  "category": "historical",
+                  "coords": [
+                        44.437433,
+                        32.552827
+                  ]
+            },
+            {
+                  "name": "Tower of Babel",
+                  "text": "The archaeological site of the Etemenanki ziggurat, considered the historical basis for the biblical Tower of Babel.",
+                  "category": "historical",
+                  "coords": [
+                        44.421077,
+                        32.536303
+                  ]
+            },
+            {
+                  "name": "Babylon city",
+                  "text": "A major Mesopotamian archaeological complex featuring reconstructed temples and ancient processional ways.",
+                  "category": "landmark",
+                  "coords": [
+                        44.426662,
+                        32.53738
+                  ]
+            },
+            {
+                  "name": "Temple of Ninmakh",
+                  "text": "An ancient temple dating back to the 6th century BC, dedicated to the mother goddess Ninmakh.",
+                  "category": "religious",
+                  "coords": [
+                        44.42327,
+                        32.543267
+                  ]
+            },
+            {
+                  "name": "Ishtar Gate",
+                  "text": "A monumental city gate from 575 BC, originally decorated with blue glazed bricks and animal reliefs.",
+                  "category": "fortress",
+                  "coords": [
+                        44.423969,
+                        32.541481
+                  ]
+            },
+            {
+                  "name": "Tell Babil",
+                  "text": "A prominent settlement mound housing the remains of King Nebuchadnezzar II's northern palace complex.",
+                  "category": "historical",
+                  "coords": [
+                        44.424698,
+                        32.565423
+                  ]
+            },
+            {
+                  "name": "Imgur-Enlil and Nemed-Enlil",
+                  "text": "The archaeological foundations of the double city wall system that protected the inner core of ancient Babylon.",
+                  "category": "historical",
+                  "coords": [
+                        44.426595,
+                        32.529313
+                  ]
+            },
+            {
+                  "name": "Imam Salman",
+                  "text": "A Shia shrine located near the ruins of Babylon, dedicated to Imam Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4703,
+                        32.555057
+                  ]
+            },
+            {
+                  "name": "Almuttaqin",
+                  "text": "A local mosque situated near the archaeological sites, serving as a spiritual gathering place for pilgrims.",
+                  "category": "religious",
+                  "coords": [
+                        44.338234,
+                        32.525093
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IQ-BB",
     coords: [44.4208, 32.5422],
@@ -38,7 +551,196 @@ export const poiExtraIraqHistoryV2: POI[] = [
       fr: ["Les ruines de Babylone se situent à environ 85 kilomètres au sud de la capitale moderne, Bagdad.", "Sous Nabuchodonosor II (605-562 av. J.-C.), la ville a connu son apogée la plus fastueuse.", "La célèbre porte d'Ishtar a été construite vers 575 avant J.-C. dans le cadre de la voie processionnelle.", "Le rempart antique était considéré comme l'une des merveilles du monde en raison de son épaisseur et de sa hauteur.", "En 2019, l'UNESCO a officiellement déclaré Babylone patrimoine mondial.", "Robert Koldewey a dirigé les premières fouilles scientifiques de 1899 à 1917."],
     }, image: "/poi-images/babylon-history-v2.webp"},
   {
-    id: "ur-ziggurat-history-v2",
+    id: "ur-ziggurat-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Albuhera",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die Wüstenlandschaft nahe der antiken Stadt Ur.",
+                  "category": "natural",
+                  "coords": [
+                        46.029057,
+                        30.961862
+                  ]
+            },
+            {
+                  "name": "Tell al-`Ubaid",
+                  "text": "Tell al-Ubaid ist eine prähistorische Siedlung, die der Ubaid-Kultur des 5. Jahrtausends v. Chr. ihren Namen gab.",
+                  "category": "historical",
+                  "coords": [
+                        46.030628,
+                        30.972306
+                  ]
+            },
+            {
+                  "name": "Egipar",
+                  "text": "Das Egipar war der heilige Wohnsitz der Entu-Priesterinnen des Mondgottes Nanna im antiken Ur.",
+                  "category": "historical",
+                  "coords": [
+                        46.103723,
+                        30.961954
+                  ]
+            },
+            {
+                  "name": "Royal Cemetery at Ur",
+                  "text": "Auf dem königlichen Friedhof von Ur wurden spektakuläre sumerische Schätze wie die 'Standarte von Ur' entdeckt.",
+                  "category": "historical",
+                  "coords": [
+                        46.106155,
+                        30.961415
+                  ]
+            },
+            {
+                  "name": "Ur",
+                  "text": "Die antike Stadt Ur war ein mächtiger sumerischer Stadtstaat und gilt als die legendäre Geburtsstätte des Propheten Abraham.",
+                  "category": "historical",
+                  "coords": [
+                        46.105126,
+                        30.961653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albuhera",
+                  "text": "Ez a kilátópont tágas rálátást nyújt az antik Ur városa melletti sivatagi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        46.029057,
+                        30.961862
+                  ]
+            },
+            {
+                  "name": "Tell al-`Ubaid",
+                  "text": "Tell el-Ubaid egy őskori település, amely az i. e. 5. évezredből származó Ubaid-kultúra névadója.",
+                  "category": "historical",
+                  "coords": [
+                        46.030628,
+                        30.972306
+                  ]
+            },
+            {
+                  "name": "Egipar",
+                  "text": "Az Egipar a holdisten, Nanna entu-papnőinek szent lakhelye volt az ókori Ur városában.",
+                  "category": "historical",
+                  "coords": [
+                        46.103723,
+                        30.961954
+                  ]
+            },
+            {
+                  "name": "Royal Cemetery at Ur",
+                  "text": "Az uri királyi temetőben olyan látványos sumer kincseket fedeztek fel, mint az „uri udvari jelvény” (Standard of Ur).",
+                  "category": "historical",
+                  "coords": [
+                        46.106155,
+                        30.961415
+                  ]
+            },
+            {
+                  "name": "The ancient city of Ur",
+                  "text": "Az ókori Ur városa hatalmas sumer városállam volt, és Ábrahám próféta legendás szülőhelyeként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        46.105126,
+                        30.961653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albuhera",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra peisajului deșertic de lângă orașul antic Ur.",
+                  "category": "natural",
+                  "coords": [
+                        46.029057,
+                        30.961862
+                  ]
+            },
+            {
+                  "name": "Tell al-`Ubaid",
+                  "text": "Tell al-Ubaid este o așezare preistorică ce a dat numele culturii Ubaid din mileniul al V-lea î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        46.030628,
+                        30.972306
+                  ]
+            },
+            {
+                  "name": "Egipar",
+                  "text": "Egipar a fost reședința sacră a preoteselor Entu ale zeului lunii Nanna în vechiul oraș Ur.",
+                  "category": "historical",
+                  "coords": [
+                        46.103723,
+                        30.961954
+                  ]
+            },
+            {
+                  "name": "Royal Cemetery at Ur",
+                  "text": "Cimitirul Regal din Ur este locul unde au fost descoperite comori sumeriene spectaculoase, precum „Standardul din Ur”.",
+                  "category": "historical",
+                  "coords": [
+                        46.106155,
+                        30.961415
+                  ]
+            },
+            {
+                  "name": "The ancient city of Ur",
+                  "text": "Orașul antic Ur a fost un puternic oraș-stat sumerian și este cunoscut ca locul legendar de naștere al profetului Avraam.",
+                  "category": "historical",
+                  "coords": [
+                        46.105126,
+                        30.961653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albuhera",
+                  "text": "This viewpoint offers a wide vista over the desert landscape near the ancient city of Ur.",
+                  "category": "natural",
+                  "coords": [
+                        46.029057,
+                        30.961862
+                  ]
+            },
+            {
+                  "name": "Tell al-`Ubaid",
+                  "text": "Tell al-Ubaid is a prehistoric settlement that gave its name to the Ubaid culture of the 5th millennium BC.",
+                  "category": "historical",
+                  "coords": [
+                        46.030628,
+                        30.972306
+                  ]
+            },
+            {
+                  "name": "Egipar",
+                  "text": "The Egipar was the sacred residence of the Entu-priestesses of the moon god Nanna in ancient Ur.",
+                  "category": "historical",
+                  "coords": [
+                        46.103723,
+                        30.961954
+                  ]
+            },
+            {
+                  "name": "Royal Cemetery at Ur",
+                  "text": "The Royal Cemetery at Ur is where spectacular Sumerian treasures like the 'Standard of Ur' were discovered.",
+                  "category": "historical",
+                  "coords": [
+                        46.106155,
+                        30.961415
+                  ]
+            },
+            {
+                  "name": "The ancient city of Ur",
+                  "text": "The ancient city of Ur was a powerful Sumerian city-state and is known as the legendary birthplace of the Prophet Abraham.",
+                  "category": "historical",
+                  "coords": [
+                        46.105126,
+                        30.961653
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IQ-DQ",
     coords: [46.1033, 30.9625],
@@ -99,7 +801,1276 @@ export const poiExtraIraqHistoryV2: POI[] = [
       fr: ["Le système de fortification comprenait un mur intérieur de près de 2 kilomètres de long.", "Hatra a résisté avec succès à l'attaque de l'empereur Trajan en 116 après J.-C.", "La ville a été conquise en 241 après J.-C. par le roi sassanide Chahpour Ier.", "Hatra fut le premier site irakien inscrit au patrimoine mondial de l'UNESCO en 1985.", "Le grand quartier des temples au centre-ville s'étend sur 1,2 hectare.", "L'architecture de la ville allie la construction parthe à des éléments de façade romains."],
     }, image: "/poi-images/hatra-history-v2.webp"},
   {
-    id: "nineveh-history-v2",
+    id: "nineveh-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nebi Yunus",
+                  "text": "Nebi Yunus ist eine bedeutende archäologische Stätte im antiken Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.160989,
+                        36.347995
+                  ]
+            },
+            {
+                  "name": "Ninive",
+                  "text": "Ninive war eine bedeutende antike Metropole im heutigen Irak, deren Ruinen wertvolle archäologische Einblicke bieten.",
+                  "category": "historical",
+                  "coords": [
+                        43.162021,
+                        36.358194
+                  ]
+            },
+            {
+                  "name": "Hanging Gardens",
+                  "text": "Die hängenden Gärten gehören zu den faszinierenden Ruinen in der Umgebung von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.154039,
+                        36.359142
+                  ]
+            },
+            {
+                  "name": "jaddo",
+                  "text": "Jaddo ist eine alte Burgruine in der historischen Region von Ninive.",
+                  "category": "castle",
+                  "coords": [
+                        43.159314,
+                        36.355777
+                  ]
+            },
+            {
+                  "name": "Abo yazan",
+                  "text": "Abo Yazan ist eine historische Burganlage in der Gegend von Ninive.",
+                  "category": "castle",
+                  "coords": [
+                        43.199817,
+                        36.410649
+                  ]
+            },
+            {
+                  "name": "Library of Ashurbanipal",
+                  "text": "Die Bibliothek des Assurbanipal ist ein Museum in Ninive, das Artefakte aus dieser berühmten antiken Sammlung ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        43.15225,
+                        36.357351
+                  ]
+            },
+            {
+                  "name": "Baysan",
+                  "text": "Baysan ist eine archäologische Stätte in Ninive, die antike Überreste bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        43.104177,
+                        36.422439
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 3",
+                  "text": "Das Südwesttor 3 ist eines der antiken archäologischen Tore von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.162653,
+                        36.344622
+                  ]
+            },
+            {
+                  "name": "East Gate 2",
+                  "text": "Das Osttor 2 ist eine archäologische Stätte, die einen ehemaligen Eingang nach Ninive markiert.",
+                  "category": "historical",
+                  "coords": [
+                        43.175406,
+                        36.350685
+                  ]
+            },
+            {
+                  "name": "East Gate 1",
+                  "text": "Das Osttor 1 ist eine bemerkenswerte archäologische Ruine unter den antiken Toren von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.177729,
+                        36.339868
+                  ]
+            },
+            {
+                  "name": "South Gate 3",
+                  "text": "Das Südtor 3 ist ein freigelegter archäologischer Abschnitt der antiken Verteidigungsmauern in Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.176908,
+                        36.336428
+                  ]
+            },
+            {
+                  "name": "South Gate 2",
+                  "text": "Das Südtor 2 bietet einen Einblick in die archäologische Geschichte der Befestigungsanlagen von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.17443,
+                        36.336579
+                  ]
+            },
+            {
+                  "name": "South Gate 1",
+                  "text": "Das Südtor 1 ist ein archäologischer Überrest der historischen Stadttore von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.170683,
+                        36.336802
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 1",
+                  "text": "Das Südwesttor 1 ist eine antike archäologische Stätte innerhalb der Ruinen von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.168259,
+                        36.337983
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 2",
+                  "text": "Das Südwesttor 2 ist Teil des archäologischen Erbes der antiken Stadt Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.167706,
+                        36.338997
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 4",
+                  "text": "Das Südwesttor 4 markiert ein weiteres bedeutendes archäologisches Tor im historischen Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.158635,
+                        36.348627
+                  ]
+            },
+            {
+                  "name": "Quay Gate",
+                  "text": "Das Kaitor ist eine archäologische Ruine, die einst als Eingang nach Ninive diente.",
+                  "category": "historical",
+                  "coords": [
+                        43.15407,
+                        36.352874
+                  ]
+            },
+            {
+                  "name": "Round about",
+                  "text": "Round about ist ein lokales Denkmal in der Gegend von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.145831,
+                        36.377735
+                  ]
+            },
+            {
+                  "name": "Ashour Old City",
+                  "text": "Die Altstadt von Assur ist ein historisches Denkmal, das das antike Erbe in der Nähe von Ninive widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        43.155343,
+                        36.365943
+                  ]
+            },
+            {
+                  "name": "Sin Gate",
+                  "text": "Das Sin-Tor ist eine bekannte archäologische Stätte aus den antiken Mauern von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.143226,
+                        36.368326
+                  ]
+            },
+            {
+                  "name": "East Gate 6",
+                  "text": "Das Osttor 6 ist eine archäologische Stätte eines antiken Stadteingangs in Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.166808,
+                        36.371855
+                  ]
+            },
+            {
+                  "name": "East Gate 5",
+                  "text": "Das Osttor 5 ist eine archäologische Ruine eines historischen Tores in Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.17007,
+                        36.367484
+                  ]
+            },
+            {
+                  "name": "East Gate 4",
+                  "text": "Das Osttor 4 ist Teil des umfangreichen archäologischen Torsystems von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.172403,
+                        36.363277
+                  ]
+            },
+            {
+                  "name": "East Gate 3",
+                  "text": "Das Osttor 3 ist eine antike archäologische Stätte, die die vergangenen Befestigungsanlagen von Ninive repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        43.174073,
+                        36.359007
+                  ]
+            },
+            {
+                  "name": "TaherZinawaa",
+                  "text": "TaherZinawaa ist ein Denkmal in der historischen Region Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.191233,
+                        36.36657
+                  ]
+            },
+            {
+                  "name": "East Gate 7",
+                  "text": "Das Osttor 7 ist ein archäologischer Anziehungspunkt innerhalb der Ruinen von Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.1619,
+                        36.376365
+                  ]
+            },
+            {
+                  "name": "DawratAl3lamaa",
+                  "text": "DawratAl3lamaa ist ein Denkmal in Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.195606,
+                        36.391695
+                  ]
+            },
+            {
+                  "name": "Citadel of Nineveh",
+                  "text": "Die Zitadelle von Ninive ist eine wichtige archäologische Stätte mit den Überresten des antiken Stadtkerns.",
+                  "category": "historical",
+                  "coords": [
+                        43.152189,
+                        36.359415
+                  ]
+            },
+            {
+                  "name": "Palace of Ashurbanipal",
+                  "text": "Der Palast des Assurbanipal ist eine berühmte archäologische Stätte, die die Ruinen der Residenz des assyrischen Königs in Ninive zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        43.152489,
+                        36.361373
+                  ]
+            },
+            {
+                  "name": "Al-Mahmoud Mosque",
+                  "text": "Die Al-Mahmoud-Moschee ist ein lokales Gotteshaus in Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.163448,
+                        36.399104
+                  ]
+            },
+            {
+                  "name": "Mosque of God's beloved ones",
+                  "text": "Die Mosque of God's beloved ones ist eine religiöse Gebetsstätte in Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.154666,
+                        36.400383
+                  ]
+            },
+            {
+                  "name": "Mosque of Mercy of God",
+                  "text": "Die Mosque of Mercy of God ist ein aktives Gotteshaus, das der Gemeinde in Ninive dient.",
+                  "category": "religious",
+                  "coords": [
+                        43.151308,
+                        36.401992
+                  ]
+            },
+            {
+                  "name": "No God but Allah mosque",
+                  "text": "Die No God but Allah mosque ist ein Ort der Anbetung innerhalb von Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.191093,
+                        36.330874
+                  ]
+            },
+            {
+                  "name": "Al najat mosque",
+                  "text": "Die Al-Najat-Moschee ist ein bekannter Ort der islamischen Anbetung in Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.192986,
+                        36.331689
+                  ]
+            },
+            {
+                  "name": "Friendly mosque",
+                  "text": "Die Friendly mosque ist ein gemeinschaftliches Gotteshaus in Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.190256,
+                        36.324208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nebi Yunus",
+                  "text": "Nebi Yunus egy jelentős régészeti lelőhely az ókori Ninive területén.",
+                  "category": "historical",
+                  "coords": [
+                        43.160989,
+                        36.347995
+                  ]
+            },
+            {
+                  "name": "Ninive",
+                  "text": "Ninive az ókori Asszíria egyik legfontosabb városa volt, melynek romjai ma fontos régészeti lelőhelyek.",
+                  "category": "historical",
+                  "coords": [
+                        43.162021,
+                        36.358194
+                  ]
+            },
+            {
+                  "name": "Hanging Gardens",
+                  "text": "A függőkert a Ninive környéki lenyűgöző romok egyike.",
+                  "category": "historical",
+                  "coords": [
+                        43.154039,
+                        36.359142
+                  ]
+            },
+            {
+                  "name": "jaddo",
+                  "text": "Jaddo egy régi várkastély Ninive történelmi régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        43.159314,
+                        36.355777
+                  ]
+            },
+            {
+                  "name": "Abo yazan",
+                  "text": "Az Abo yazan egy történelmi kastélyépület Ninive területén.",
+                  "category": "castle",
+                  "coords": [
+                        43.199817,
+                        36.410649
+                  ]
+            },
+            {
+                  "name": "Library of Ashurbanipal",
+                  "text": "Az Asszurbanipál könyvtára egy múzeum Ninivében, amely e híres ókori gyűjtemény leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        43.15225,
+                        36.357351
+                  ]
+            },
+            {
+                  "name": "Baysan",
+                  "text": "Baysan egy régészeti lelőhely Ninivében, amely ókori maradványokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        43.104177,
+                        36.422439
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 3",
+                  "text": "A 3-as délnyugati kapu Ninive egyik ókori régészeti kapuépítménye.",
+                  "category": "historical",
+                  "coords": [
+                        43.162653,
+                        36.344622
+                  ]
+            },
+            {
+                  "name": "East Gate 2",
+                  "text": "A 2-es keleti kapu egy régészeti lelőhely, amely Ninive egyik egykori bejáratát jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        43.175406,
+                        36.350685
+                  ]
+            },
+            {
+                  "name": "East Gate 1",
+                  "text": "Az 1-es keleti kapu egy jelentős régészeti rom Ninive ókori kapui között.",
+                  "category": "historical",
+                  "coords": [
+                        43.177729,
+                        36.339868
+                  ]
+            },
+            {
+                  "name": "South Gate 3",
+                  "text": "A 3-as déli kapu az ókori védőfalak egyik feltárt régészeti szakasza Ninivében.",
+                  "category": "historical",
+                  "coords": [
+                        43.176908,
+                        36.336428
+                  ]
+            },
+            {
+                  "name": "South Gate 2",
+                  "text": "A 2-es déli kapu bepillantást enged Ninive erődítményeinek régészeti történetébe.",
+                  "category": "historical",
+                  "coords": [
+                        43.17443,
+                        36.336579
+                  ]
+            },
+            {
+                  "name": "South Gate 1",
+                  "text": "Az 1-es déli kapu Ninive történelmi városkapuinak egyik régészeti maradványa.",
+                  "category": "historical",
+                  "coords": [
+                        43.170683,
+                        36.336802
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 1",
+                  "text": "Az 1-es délnyugati kapu egy ókori régészeti lelőhely Ninive romjai között.",
+                  "category": "historical",
+                  "coords": [
+                        43.168259,
+                        36.337983
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 2",
+                  "text": "A 2-es délnyugati kapu Ninive ókori város régészeti örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        43.167706,
+                        36.338997
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 4",
+                  "text": "A 4-es délnyugati kapu egy újabb jelentős régészeti kaput jelöl a történelmi Ninivében.",
+                  "category": "historical",
+                  "coords": [
+                        43.158635,
+                        36.348627
+                  ]
+            },
+            {
+                  "name": "Quay Gate",
+                  "text": "A Rakpart kapu egy régészeti rom, amely egykor Ninive egyik bejárataként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        43.15407,
+                        36.352874
+                  ]
+            },
+            {
+                  "name": "Round about",
+                  "text": "A Round about egy helyi emlékmű Ninive térségében.",
+                  "category": "historical",
+                  "coords": [
+                        43.145831,
+                        36.377735
+                  ]
+            },
+            {
+                  "name": "Ashour Old City",
+                  "text": "Az Ashour óváros egy történelmi emlékmű, amely a Ninive melletti ókori örökséget tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        43.155343,
+                        36.365943
+                  ]
+            },
+            {
+                  "name": "Sin Gate",
+                  "text": "A Szín kapu egy ismert régészeti lelőhely Ninive ókori falaiból.",
+                  "category": "historical",
+                  "coords": [
+                        43.143226,
+                        36.368326
+                  ]
+            },
+            {
+                  "name": "East Gate 6",
+                  "text": "A 6-os keleti kapu egy ókori városbejárat régészeti lelőhelye Ninivében.",
+                  "category": "historical",
+                  "coords": [
+                        43.166808,
+                        36.371855
+                  ]
+            },
+            {
+                  "name": "East Gate 5",
+                  "text": "Az 5-ös keleti kapu egy történelmi kapu régészeti romja Ninivében.",
+                  "category": "historical",
+                  "coords": [
+                        43.17007,
+                        36.367484
+                  ]
+            },
+            {
+                  "name": "East Gate 4",
+                  "text": "A 4-es keleti kapu Ninive kiterjedt régészeti kapurendszerének része.",
+                  "category": "historical",
+                  "coords": [
+                        43.172403,
+                        36.363277
+                  ]
+            },
+            {
+                  "name": "East Gate 3",
+                  "text": "A 3-as keleti kapu egy ókori régészeti lelőhely, amely Ninive egykori erődítményeit képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        43.174073,
+                        36.359007
+                  ]
+            },
+            {
+                  "name": "TaherZinawaa",
+                  "text": "A TaherZinawaa egy emlékmű Ninive történelmi régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        43.191233,
+                        36.36657
+                  ]
+            },
+            {
+                  "name": "East Gate 7",
+                  "text": "A 7-es keleti kapu egy régészeti látványosság Ninive romjai között.",
+                  "category": "historical",
+                  "coords": [
+                        43.1619,
+                        36.376365
+                  ]
+            },
+            {
+                  "name": "DawratAl3lamaa",
+                  "text": "A DawratAl3lamaa egy emlékmű Ninivében.",
+                  "category": "historical",
+                  "coords": [
+                        43.195606,
+                        36.391695
+                  ]
+            },
+            {
+                  "name": "Citadel of Nineveh",
+                  "text": "Ninive fellegvára egy jelentős régészeti lelőhely, amely az ókori város magjának maradványait foglalja magába.",
+                  "category": "historical",
+                  "coords": [
+                        43.152189,
+                        36.359415
+                  ]
+            },
+            {
+                  "name": "Palace of Ashurbanipal",
+                  "text": "Az Asszurbanipál palota egy híres régészeti lelőhely, amely az asszír király rezidenciájának romjait mutatja be Ninivében.",
+                  "category": "historical",
+                  "coords": [
+                        43.152489,
+                        36.361373
+                  ]
+            },
+            {
+                  "name": "Al-Mahmoud Mosque",
+                  "text": "Az Al-Mahmoud mecset egy helyi istentiszteleti hely Ninivében.",
+                  "category": "religious",
+                  "coords": [
+                        43.163448,
+                        36.399104
+                  ]
+            },
+            {
+                  "name": "Mosque of God's beloved ones",
+                  "text": "A Mosque of God's beloved ones egy imádkozásra szolgáló vallási hely Ninivében.",
+                  "category": "religious",
+                  "coords": [
+                        43.154666,
+                        36.400383
+                  ]
+            },
+            {
+                  "name": "Mosque of Mercy of God",
+                  "text": "A Mosque of Mercy of God egy aktív istentiszteleti hely, amely a ninivei közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        43.151308,
+                        36.401992
+                  ]
+            },
+            {
+                  "name": "No God but Allah mosque",
+                  "text": "A No God but Allah mosque egy istentiszteleti hely Ninive területén.",
+                  "category": "religious",
+                  "coords": [
+                        43.191093,
+                        36.330874
+                  ]
+            },
+            {
+                  "name": "Al najat mosque",
+                  "text": "Az Al najat mecset az iszlám istentisztelet egyik kiemelkedő helyszíne Ninivében.",
+                  "category": "religious",
+                  "coords": [
+                        43.192986,
+                        36.331689
+                  ]
+            },
+            {
+                  "name": "Friendly mosque",
+                  "text": "A Friendly mosque egy közösségi istentiszteleti hely Ninivében.",
+                  "category": "religious",
+                  "coords": [
+                        43.190256,
+                        36.324208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nebi Yunus",
+                  "text": "Nebi Yunus este un important sit arheologic din antica Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.160989,
+                        36.347995
+                  ]
+            },
+            {
+                  "name": "Nineveh",
+                  "text": "Ninive a fost o importantă metropolă antică, ale cărei ruine oferă astăzi indicii arheologice valoroase.",
+                  "category": "historical",
+                  "coords": [
+                        43.162021,
+                        36.358194
+                  ]
+            },
+            {
+                  "name": "Hanging Gardens",
+                  "text": "Grădinile suspendate sunt unele dintre cele mai fascinante ruine din zona Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.154039,
+                        36.359142
+                  ]
+            },
+            {
+                  "name": "jaddo",
+                  "text": "Jaddo este un vechi castel aflat în regiunea istorică Ninive.",
+                  "category": "castle",
+                  "coords": [
+                        43.159314,
+                        36.355777
+                  ]
+            },
+            {
+                  "name": "Abo yazan",
+                  "text": "Abo yazan este o structură istorică de castel situată în zona Ninive.",
+                  "category": "castle",
+                  "coords": [
+                        43.199817,
+                        36.410649
+                  ]
+            },
+            {
+                  "name": "Library of Ashurbanipal",
+                  "text": "Biblioteca lui Assurbanipal este un muzeu din Ninive care expune artefacte din această renumită colecție antică.",
+                  "category": "museum",
+                  "coords": [
+                        43.15225,
+                        36.357351
+                  ]
+            },
+            {
+                  "name": "Baysan",
+                  "text": "Baysan este un sit arheologic din Ninive care păstrează vestigii antice.",
+                  "category": "historical",
+                  "coords": [
+                        43.104177,
+                        36.422439
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 3",
+                  "text": "Poarta de Sud-Vest 3 este una dintre vechile structuri de porți arheologice din Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.162653,
+                        36.344622
+                  ]
+            },
+            {
+                  "name": "East Gate 2",
+                  "text": "Poarta de Est 2 este un sit arheologic care marchează o fostă intrare în Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.175406,
+                        36.350685
+                  ]
+            },
+            {
+                  "name": "East Gate 1",
+                  "text": "Poarta de Est 1 este o ruină arheologică notabilă printre porțile antice din Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.177729,
+                        36.339868
+                  ]
+            },
+            {
+                  "name": "South Gate 3",
+                  "text": "Poarta de Sud 3 este o secțiune arheologică descoperită a vechilor ziduri de apărare din Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.176908,
+                        36.336428
+                  ]
+            },
+            {
+                  "name": "South Gate 2",
+                  "text": "Poarta de Sud 2 oferă o privire în istoria arheologică a fortificațiilor din Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.17443,
+                        36.336579
+                  ]
+            },
+            {
+                  "name": "South Gate 1",
+                  "text": "Poarta de Sud 1 este o rămășiță arheologică a porților istorice ale orașului Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.170683,
+                        36.336802
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 1",
+                  "text": "Poarta de Sud-Vest 1 este un sit arheologic antic situat în ruinele din Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.168259,
+                        36.337983
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 2",
+                  "text": "Poarta de Sud-Vest 2 face parte din patrimoniul arheologic al orașului antic Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.167706,
+                        36.338997
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 4",
+                  "text": "Poarta de Sud-Vest 4 marchează o altă poartă arheologică semnificativă din Ninive istoric.",
+                  "category": "historical",
+                  "coords": [
+                        43.158635,
+                        36.348627
+                  ]
+            },
+            {
+                  "name": "Quay Gate",
+                  "text": "Quay Gate este o ruină arheologică care a servit cândva ca intrare în Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.15407,
+                        36.352874
+                  ]
+            },
+            {
+                  "name": "Round about",
+                  "text": "Round about este un monument local situat în zona Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.145831,
+                        36.377735
+                  ]
+            },
+            {
+                  "name": "Ashour Old City",
+                  "text": "Orașul Vechi Ashour este un monument istoric ce reflectă moștenirea antică din apropiere de Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.155343,
+                        36.365943
+                  ]
+            },
+            {
+                  "name": "Sin Gate",
+                  "text": "Poarta Sin este un cunoscut sit arheologic din vechile ziduri ale orașului Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.143226,
+                        36.368326
+                  ]
+            },
+            {
+                  "name": "East Gate 6",
+                  "text": "Poarta de Est 6 este un sit arheologic al unei vechi intrări în orașul Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.166808,
+                        36.371855
+                  ]
+            },
+            {
+                  "name": "East Gate 5",
+                  "text": "Poarta de Est 5 este o ruină arheologică a unei porți istorice din Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.17007,
+                        36.367484
+                  ]
+            },
+            {
+                  "name": "East Gate 4",
+                  "text": "Poarta de Est 4 face parte din vastul sistem arheologic de porți din Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.172403,
+                        36.363277
+                  ]
+            },
+            {
+                  "name": "East Gate 3",
+                  "text": "Poarta de Est 3 este un sit arheologic antic ce reprezintă fostele fortificații ale orașului Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.174073,
+                        36.359007
+                  ]
+            },
+            {
+                  "name": "TaherZinawaa",
+                  "text": "TaherZinawaa este un monument aflat în regiunea istorică Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.191233,
+                        36.36657
+                  ]
+            },
+            {
+                  "name": "East Gate 7",
+                  "text": "Poarta de Est 7 este un punct de interes arheologic în ruinele din Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.1619,
+                        36.376365
+                  ]
+            },
+            {
+                  "name": "DawratAl3lamaa",
+                  "text": "DawratAl3lamaa este un monument comemorativ situat în Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.195606,
+                        36.391695
+                  ]
+            },
+            {
+                  "name": "Citadel of Nineveh",
+                  "text": "Cetatea Ninivei este un sit arheologic major ce prezintă vestigiile nucleului antic al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        43.152189,
+                        36.359415
+                  ]
+            },
+            {
+                  "name": "Palace of Ashurbanipal",
+                  "text": "Palatul lui Assurbanipal este un sit arheologic renumit care prezintă ruinele reședinței regelui asirian din Ninive.",
+                  "category": "historical",
+                  "coords": [
+                        43.152489,
+                        36.361373
+                  ]
+            },
+            {
+                  "name": "Al-Mahmoud Mosque",
+                  "text": "Moscheea Al-Mahmoud este un lăcaș de cult local situat în Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.163448,
+                        36.399104
+                  ]
+            },
+            {
+                  "name": "Mosque of God's beloved ones",
+                  "text": "Mosque of God's beloved ones este un loc religios de rugăciune situat în Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.154666,
+                        36.400383
+                  ]
+            },
+            {
+                  "name": "Mosque of Mercy of God",
+                  "text": "Mosque of Mercy of God este un lăcaș de cult activ care deservește comunitatea din Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.151308,
+                        36.401992
+                  ]
+            },
+            {
+                  "name": "No God but Allah mosque",
+                  "text": "No God but Allah mosque este un loc de cult dedicat, situat în Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.191093,
+                        36.330874
+                  ]
+            },
+            {
+                  "name": "Al najat mosque",
+                  "text": "Moscheea Al najat este un loc proeminent de cult islamic din Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.192986,
+                        36.331689
+                  ]
+            },
+            {
+                  "name": "Friendly mosque",
+                  "text": "Friendly mosque este un lăcaș de cult comunitar aflat în Ninive.",
+                  "category": "religious",
+                  "coords": [
+                        43.190256,
+                        36.324208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nebi Yunus",
+                  "text": "Nebi Yunus is a significant archaeological site in the ancient city of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.160989,
+                        36.347995
+                  ]
+            },
+            {
+                  "name": "Nineveh",
+                  "text": "Nineveh was an important ancient city of the Assyrian empire, its ruins now providing valuable archaeological insights.",
+                  "category": "historical",
+                  "coords": [
+                        43.162021,
+                        36.358194
+                  ]
+            },
+            {
+                  "name": "Hanging Gardens",
+                  "text": "The Hanging Gardens are among the fascinating ruins in the vicinity of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.154039,
+                        36.359142
+                  ]
+            },
+            {
+                  "name": "jaddo",
+                  "text": "Jaddo is an old castle situated in the historical region of Nineveh.",
+                  "category": "castle",
+                  "coords": [
+                        43.159314,
+                        36.355777
+                  ]
+            },
+            {
+                  "name": "Abo yazan",
+                  "text": "Abo yazan is a historical castle structure located in the Nineveh area.",
+                  "category": "castle",
+                  "coords": [
+                        43.199817,
+                        36.410649
+                  ]
+            },
+            {
+                  "name": "Library of Ashurbanipal",
+                  "text": "The Library of Ashurbanipal is a museum exhibiting artifacts from this renowned ancient collection in Nineveh.",
+                  "category": "museum",
+                  "coords": [
+                        43.15225,
+                        36.357351
+                  ]
+            },
+            {
+                  "name": "Baysan",
+                  "text": "Baysan is an archaeological site preserving ancient remains in Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.104177,
+                        36.422439
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 3",
+                  "text": "Southwest Gate 3 is one of the ancient archaeological gate structures of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.162653,
+                        36.344622
+                  ]
+            },
+            {
+                  "name": "East Gate 2",
+                  "text": "East Gate 2 is an archaeological site marking a former entrance to Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.175406,
+                        36.350685
+                  ]
+            },
+            {
+                  "name": "East Gate 1",
+                  "text": "East Gate 1 is a notable archaeological ruin among the ancient gates of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.177729,
+                        36.339868
+                  ]
+            },
+            {
+                  "name": "South Gate 3",
+                  "text": "South Gate 3 is an uncovered archaeological section of the ancient defensive walls in Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.176908,
+                        36.336428
+                  ]
+            },
+            {
+                  "name": "South Gate 2",
+                  "text": "South Gate 2 offers a glimpse into the archaeological history of Nineveh's fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        43.17443,
+                        36.336579
+                  ]
+            },
+            {
+                  "name": "South Gate 1",
+                  "text": "South Gate 1 is an archaeological remain of the historic city gates of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.170683,
+                        36.336802
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 1",
+                  "text": "Southwest Gate 1 is an ancient archaeological site within the ruins of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.168259,
+                        36.337983
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 2",
+                  "text": "Southwest Gate 2 is part of the archaeological heritage of the ancient city of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.167706,
+                        36.338997
+                  ]
+            },
+            {
+                  "name": "Southwest Gate 4",
+                  "text": "Southwest Gate 4 marks another significant archaeological gateway in historical Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.158635,
+                        36.348627
+                  ]
+            },
+            {
+                  "name": "Quay Gate",
+                  "text": "Quay Gate is an archaeological ruin that once served as an entrance to Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.15407,
+                        36.352874
+                  ]
+            },
+            {
+                  "name": "Round about",
+                  "text": "Round about is a local monument situated in the area of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.145831,
+                        36.377735
+                  ]
+            },
+            {
+                  "name": "Ashour Old City",
+                  "text": "Ashour Old City is a historical monument reflecting the ancient legacy near Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.155343,
+                        36.365943
+                  ]
+            },
+            {
+                  "name": "Sin Gate",
+                  "text": "Sin Gate is a well-known archaeological site from the ancient walls of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.143226,
+                        36.368326
+                  ]
+            },
+            {
+                  "name": "East Gate 6",
+                  "text": "East Gate 6 is an archaeological site of an ancient city entrance in Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.166808,
+                        36.371855
+                  ]
+            },
+            {
+                  "name": "East Gate 5",
+                  "text": "East Gate 5 is an archaeological ruin of a historical gate in Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.17007,
+                        36.367484
+                  ]
+            },
+            {
+                  "name": "East Gate 4",
+                  "text": "East Gate 4 is part of the extensive archaeological gate system of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.172403,
+                        36.363277
+                  ]
+            },
+            {
+                  "name": "East Gate 3",
+                  "text": "East Gate 3 is an ancient archaeological site representing Nineveh's past fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        43.174073,
+                        36.359007
+                  ]
+            },
+            {
+                  "name": "TaherZinawaa",
+                  "text": "TaherZinawaa is a monument standing in the historic region of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.191233,
+                        36.36657
+                  ]
+            },
+            {
+                  "name": "East Gate 7",
+                  "text": "East Gate 7 is an archaeological point of interest within the ruins of Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.1619,
+                        36.376365
+                  ]
+            },
+            {
+                  "name": "DawratAl3lamaa",
+                  "text": "DawratAl3lamaa is a commemorative monument located in Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.195606,
+                        36.391695
+                  ]
+            },
+            {
+                  "name": "Citadel of Nineveh",
+                  "text": "The Citadel of Nineveh is a major archaeological site featuring the remains of the ancient city's core.",
+                  "category": "historical",
+                  "coords": [
+                        43.152189,
+                        36.359415
+                  ]
+            },
+            {
+                  "name": "Palace of Ashurbanipal",
+                  "text": "The Palace of Ashurbanipal is a renowned archaeological site featuring the ruins of the Assyrian king's residence in Nineveh.",
+                  "category": "historical",
+                  "coords": [
+                        43.152489,
+                        36.361373
+                  ]
+            },
+            {
+                  "name": "Al-Mahmoud Mosque",
+                  "text": "Al-Mahmoud Mosque is a local place of worship situated in Nineveh.",
+                  "category": "religious",
+                  "coords": [
+                        43.163448,
+                        36.399104
+                  ]
+            },
+            {
+                  "name": "Mosque of God's beloved ones",
+                  "text": "Mosque of God's beloved ones is a religious site for prayer located in Nineveh.",
+                  "category": "religious",
+                  "coords": [
+                        43.154666,
+                        36.400383
+                  ]
+            },
+            {
+                  "name": "Mosque of Mercy of God",
+                  "text": "Mosque of Mercy of God is an active place of worship serving the community in Nineveh.",
+                  "category": "religious",
+                  "coords": [
+                        43.151308,
+                        36.401992
+                  ]
+            },
+            {
+                  "name": "No God but Allah mosque",
+                  "text": "No God but Allah mosque is a dedicated place of worship located within Nineveh.",
+                  "category": "religious",
+                  "coords": [
+                        43.191093,
+                        36.330874
+                  ]
+            },
+            {
+                  "name": "Al najat mosque",
+                  "text": "Al najat mosque is a prominent place of Islamic worship in Nineveh.",
+                  "category": "religious",
+                  "coords": [
+                        43.192986,
+                        36.331689
+                  ]
+            },
+            {
+                  "name": "Friendly mosque",
+                  "text": "Friendly mosque is a community place of worship found in Nineveh.",
+                  "category": "religious",
+                  "coords": [
+                        43.190256,
+                        36.324208
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IQ-NI",
     coords: [43.1492, 36.3592],
@@ -125,7 +2096,304 @@ export const poiExtraIraqHistoryV2: POI[] = [
       en: ["In the 7th century BC, Nineveh was the largest city in the world, covering 750 hectares.", "The outer city wall had a total length of approximately 12 kilometers.", "King Sennacherib made Nineveh the official Assyrian capital around 700 BC.", "Over 30,000 clay tablets were discovered in the ruins of the Library of Ashurbanipal.", "The city was destroyed in 612 BC by a coalition of Medes and Babylonians.", "The archaeological site today consists of two main mounds: Kuyunjik and Nabi Yunus."],
     }, image: "/poi-images/nineveh-history-v2.webp"},
   {
-    id: "samarra-great-mosque-history-v2",
+    id: "samarra-great-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "samarra park 2",
+                  "text": "Eine öffentliche Grünanlage in Samarra, die Raum für Erholung inmitten der historischen Denkmäler bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.892362,
+                        34.20366
+                  ]
+            },
+            {
+                  "name": "Palace bath",
+                  "text": "Die Überreste dieser historischen Badeanlage gehörten einst zum prunkvollen Palastkomplex der Abbasiden-Kalifen.",
+                  "category": "historical",
+                  "coords": [
+                        43.87661,
+                        34.229131
+                  ]
+            },
+            {
+                  "name": "Pool of Khalifa",
+                  "text": "Dieses monumentale Wasserbecken im Bereich der Abbasiden-Paläste diente einst repräsentativen und kühlenden Zwecken.",
+                  "category": "historical",
+                  "coords": [
+                        43.873199,
+                        34.231431
+                  ]
+            },
+            {
+                  "name": "castel sheek majid",
+                  "text": "Eine historische Residenz in Samarra, die Elemente der traditionellen irakischen Festungsarchitektur aufweist.",
+                  "category": "castle",
+                  "coords": [
+                        43.803244,
+                        34.205432
+                  ]
+            },
+            {
+                  "name": "Qasr al Ashaq",
+                  "text": "Die eindrucksvollen Ziegelruinen dieses abbasidischen Palastes liegen weithin sichtbar am Westufer des Tigris.",
+                  "category": "historical",
+                  "coords": [
+                        43.808786,
+                        34.24148
+                  ]
+            },
+            {
+                  "name": "Sur Ashnas Fortress",
+                  "text": "Diese weitläufige archäologische Stätte umfasst die befestigten Mauern einer antiken Enklave aus der Zeit der Kalifen.",
+                  "category": "historical",
+                  "coords": [
+                        43.844723,
+                        34.288199
+                  ]
+            },
+            {
+                  "name": "Minarett von Samarra",
+                  "text": "Das einzigartige spiralförmige Minarett ist das weltberühmte Wahrzeichen der Großen Moschee von Samarra aus dem 9. Jahrhundert.",
+                  "category": "tower",
+                  "coords": [
+                        43.880291,
+                        34.207166
+                  ]
+            },
+            {
+                  "name": "Al-Hamad Mosque",
+                  "text": "Eine muslimische Gebetsstätte in Samarra, die mit ihrer traditionellen Kuppel das Stadtbild der historischen Metropole prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.901319,
+                        34.208132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "samarra park 2",
+                  "text": "Szamarra egyik nyilvános parkja, amely pihenési lehetőséget nyújt a történelmi műemlékek szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.892362,
+                        34.20366
+                  ]
+            },
+            {
+                  "name": "Palace bath",
+                  "text": "Ennek a történelmi fürdőnek a maradványai egykor az abbászida kalifák pompás palotakomplexumához tartoztak.",
+                  "category": "historical",
+                  "coords": [
+                        43.87661,
+                        34.229131
+                  ]
+            },
+            {
+                  "name": "Pool of Khalifa",
+                  "text": "Az abbászida paloták területén található monumentális medence egykor reprezentatív és hűsítő célokat szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        43.873199,
+                        34.231431
+                  ]
+            },
+            {
+                  "name": "castel sheek majid",
+                  "text": "Szamarra egyik történelmi rezidenciája, amely a hagyományos iraki erődépítészet jegyeit viseli magán.",
+                  "category": "castle",
+                  "coords": [
+                        43.803244,
+                        34.205432
+                  ]
+            },
+            {
+                  "name": "Qasr al Ashaq",
+                  "text": "Ennek az abbászida palotának a lenyűgöző téglaromjai messziről láthatóak a Tigris nyugati partján.",
+                  "category": "historical",
+                  "coords": [
+                        43.808786,
+                        34.24148
+                  ]
+            },
+            {
+                  "name": "Sur Ashnas Fortress",
+                  "text": "Ez a kiterjedt régészeti lelőhely egy ősi, kalifák korabeli enklávé megerősített falait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        43.844723,
+                        34.288199
+                  ]
+            },
+            {
+                  "name": "Malwiya",
+                  "text": "Az egyedülálló spirális minaret a 9. századi Szamarrai nagymecset világhírű jelképe.",
+                  "category": "tower",
+                  "coords": [
+                        43.880291,
+                        34.207166
+                  ]
+            },
+            {
+                  "name": "Al-Hamad Mosque",
+                  "text": "Szamarrai muszlim imaház, amely hagyományos kupolájával hozzájárul a történelmi metropolisz városképéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        43.901319,
+                        34.208132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "samarra park 2",
+                  "text": "Un spațiu verde public din Samarra, care oferă loc de recreere în mijlocul monumentelor istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        43.892362,
+                        34.20366
+                  ]
+            },
+            {
+                  "name": "Palace bath",
+                  "text": "Rămășițele acestei băi istorice au aparținut odinioară complexului palatului somptuos al califilor abbasizi.",
+                  "category": "historical",
+                  "coords": [
+                        43.87661,
+                        34.229131
+                  ]
+            },
+            {
+                  "name": "Pool of Khalifa",
+                  "text": "Acest bazin monumental de apă din zona palatelor abbaside a servit odinioară unor scopuri reprezentative și de răcorire.",
+                  "category": "historical",
+                  "coords": [
+                        43.873199,
+                        34.231431
+                  ]
+            },
+            {
+                  "name": "castel sheek majid",
+                  "text": "O reședință istorică din Samarra, care prezintă elemente ale arhitecturii tradiționale de fortificație irakiene.",
+                  "category": "castle",
+                  "coords": [
+                        43.803244,
+                        34.205432
+                  ]
+            },
+            {
+                  "name": "Qasr al Ashaq",
+                  "text": "Ruinele impresionante de cărămidă ale acestui palat abbasid sunt vizibile de departe pe malul de vest al Tigrisului.",
+                  "category": "historical",
+                  "coords": [
+                        43.808786,
+                        34.24148
+                  ]
+            },
+            {
+                  "name": "Sur Ashnas Fortress",
+                  "text": "Acest sit arheologic vast cuprinde zidurile fortificate ale unei enclave antice din perioada califilor.",
+                  "category": "historical",
+                  "coords": [
+                        43.844723,
+                        34.288199
+                  ]
+            },
+            {
+                  "name": "Malwiya",
+                  "text": "Minaretul spiralat unic este simbolul faimos în întreaga lume al Marii Moschei din Samarra, datând din secolul al IX-lea.",
+                  "category": "tower",
+                  "coords": [
+                        43.880291,
+                        34.207166
+                  ]
+            },
+            {
+                  "name": "Al-Hamad Mosque",
+                  "text": "Un lăcaș de rugăciune musulman din Samarra, care contribuie la peisajul urban al metropolei istorice prin cupola sa tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        43.901319,
+                        34.208132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "samarra park 2",
+                  "text": "A public green space in Samarra that provides room for recreation amidst the historical monuments.",
+                  "category": "landmark",
+                  "coords": [
+                        43.892362,
+                        34.20366
+                  ]
+            },
+            {
+                  "name": "Palace bath",
+                  "text": "The remains of this historical bathhouse were once part of the grand palace complex of the Abbasid caliphs.",
+                  "category": "historical",
+                  "coords": [
+                        43.87661,
+                        34.229131
+                  ]
+            },
+            {
+                  "name": "Pool of Khalifa",
+                  "text": "This monumental water basin in the area of the Abbasid palaces once served ceremonial and cooling purposes.",
+                  "category": "historical",
+                  "coords": [
+                        43.873199,
+                        34.231431
+                  ]
+            },
+            {
+                  "name": "castel sheek majid",
+                  "text": "A historical residence in Samarra featuring elements of traditional Iraqi fortification architecture.",
+                  "category": "castle",
+                  "coords": [
+                        43.803244,
+                        34.205432
+                  ]
+            },
+            {
+                  "name": "Qasr al Ashaq",
+                  "text": "The impressive brick ruins of this Abbasid palace stand visibly on the west bank of the Tigris river.",
+                  "category": "historical",
+                  "coords": [
+                        43.808786,
+                        34.24148
+                  ]
+            },
+            {
+                  "name": "Sur Ashnas Fortress",
+                  "text": "This extensive archaeological site encompasses the fortified walls of an ancient enclave from the era of the caliphs.",
+                  "category": "historical",
+                  "coords": [
+                        43.844723,
+                        34.288199
+                  ]
+            },
+            {
+                  "name": "Malwiya",
+                  "text": "The unique spiral minaret is the world-famous landmark of the 9th-century Great Mosque of Samarra.",
+                  "category": "tower",
+                  "coords": [
+                        43.880291,
+                        34.207166
+                  ]
+            },
+            {
+                  "name": "Al-Hamad Mosque",
+                  "text": "A Muslim prayer house in Samarra that contributes to the cityscape of the historic metropolis with its traditional dome.",
+                  "category": "landmark",
+                  "coords": [
+                        43.901319,
+                        34.208132
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IQ-SD",
     coords: [43.8739, 34.2058],
@@ -151,7 +2419,232 @@ export const poiExtraIraqHistoryV2: POI[] = [
       en: ["The mosque was built between 848 and 851 under the reign of Caliph al-Mutawakkil.", "Spanning roughly 38,000 square meters, it was once the largest mosque in the world.", "The spiral Malwiya minaret reaches a total height of 52 meters.", "The outer brick walls are supported by 44 semi-circular defensive towers.", "Samarra served as the capital of the Abbasid Caliphate from 836 to 892.", "The site was officially designated a UNESCO World Heritage site in 2007."],
     }, image: "/poi-images/samarra-great-mosque-history-v2.webp"},
   {
-    id: "nimrud-history-v2",
+    id: "nimrud-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mar Behnam Kloster",
+                  "text": "Dieses syrisch-orthodoxe Kloster aus dem 4. Jahrhundert ist für seine kunstvollen Steinmetzarbeiten bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        43.405544,
+                        36.138292
+                  ]
+            },
+            {
+                  "name": "snedej",
+                  "text": "Ein lokaler Anziehungspunkt in der geschichtsträchtigen Ebene von Nimrud nahe dem Tigris.",
+                  "category": "landmark",
+                  "coords": [
+                        43.335197,
+                        36.069236
+                  ]
+            },
+            {
+                  "name": "Mashru Hasa al Mawsil Raqam Wahid",
+                  "text": "Diese markante Windmühle dient als Wahrzeichen für die Bewässerungsprojekte in der Nähe von Nimrud.",
+                  "category": "landmark",
+                  "coords": [
+                        43.283477,
+                        36.138685
+                  ]
+            },
+            {
+                  "name": "Fort Shalmaneser",
+                  "text": "Diese antiken Ruinen waren einst ein wichtiges militärisches Arsenal des assyrischen Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        43.346869,
+                        36.094159
+                  ]
+            },
+            {
+                  "name": "Northwest Palace (Palace of Ashur-Nasir-Pal II)",
+                  "text": "Die Haupresidenz von Ashurnasirpal II. beeindruckt durch monumentale assyrische Steinreliefs.",
+                  "category": "historical",
+                  "coords": [
+                        43.327529,
+                        36.099052
+                  ]
+            },
+            {
+                  "name": "Nimrud",
+                  "text": "Die antike neuassyrische Hauptstadt Nimrud ist berühmt für ihren markanten Zikkurat-Hügel.",
+                  "category": "historical",
+                  "coords": [
+                        43.328765,
+                        36.098476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ܕܝܪܐ ܪܡܪܝ ܒܗܢܡ",
+                  "text": "Ez a 4. századi szír ortodox kolostor a Nimrud közelében található, híres díszes kőfaragványairól.",
+                  "category": "religious",
+                  "coords": [
+                        43.405544,
+                        36.138292
+                  ]
+            },
+            {
+                  "name": "snedej",
+                  "text": "Helyi látványosság a Tigris folyó melletti történelmi Nimrud-síkságon.",
+                  "category": "landmark",
+                  "coords": [
+                        43.335197,
+                        36.069236
+                  ]
+            },
+            {
+                  "name": "Mashru Hasa al Mawsil Raqam Wahid",
+                  "text": "Ez a szélmalom a Nimrud környéki öntözési projektek egyik technikai nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        43.283477,
+                        36.138685
+                  ]
+            },
+            {
+                  "name": "Fort Shalmaneser",
+                  "text": "Ezek az ősi romok egykor az Asszír Birodalom fontos katonai fegyvertáraként szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        43.346869,
+                        36.094159
+                  ]
+            },
+            {
+                  "name": "Northwest Palace (Palace of Ashur-Nasir-Pal II)",
+                  "text": "II. Assur-nászir-apli főrezidenciája monumentális asszír kődomborműveivel nyűgözi le a látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        43.327529,
+                        36.099052
+                  ]
+            },
+            {
+                  "name": "Nimrud",
+                  "text": "Nimrud, az egykori újasszír főváros, híres a látványos zikkurat-dombjáról és palotáiról.",
+                  "category": "historical",
+                  "coords": [
+                        43.328765,
+                        36.098476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ܕܝܪܐ ܪܡܪܝ ܒܗܢܡ",
+                  "text": "Această mănăstire siriacă ortodoxă din secolul al IV-lea este renumită pentru sculpturile sale detaliate în piatră.",
+                  "category": "religious",
+                  "coords": [
+                        43.405544,
+                        36.138292
+                  ]
+            },
+            {
+                  "name": "snedej",
+                  "text": "O atracție locală situată în câmpia istorică Nimrud, în apropierea râului Tigru.",
+                  "category": "landmark",
+                  "coords": [
+                        43.335197,
+                        36.069236
+                  ]
+            },
+            {
+                  "name": "Mashru Hasa al Mawsil Raqam Wahid",
+                  "text": "Această moară de vânt servește ca reper pentru proiectele de irigații din apropierea sitului Nimrud.",
+                  "category": "landmark",
+                  "coords": [
+                        43.283477,
+                        36.138685
+                  ]
+            },
+            {
+                  "name": "Fort Shalmaneser",
+                  "text": "Aceste ruine antice au servit odinioară ca arsenal militar important al Imperiului Asirian.",
+                  "category": "historical",
+                  "coords": [
+                        43.346869,
+                        36.094159
+                  ]
+            },
+            {
+                  "name": "Northwest Palace (Palace of Ashur-Nasir-Pal II)",
+                  "text": "Reședința principală a lui Ashurnasirpal al II-lea impresionează prin reliefurile monumentale asiriene.",
+                  "category": "historical",
+                  "coords": [
+                        43.327529,
+                        36.099052
+                  ]
+            },
+            {
+                  "name": "Nimrud",
+                  "text": "Vechea capitală neo-asiriană Nimrud este faimoasă pentru colina sa proeminentă cu ziggurat.",
+                  "category": "historical",
+                  "coords": [
+                        43.328765,
+                        36.098476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mar Behnam Monastery",
+                  "text": "This 4th-century Syriac Orthodox monastery near Nimrud is renowned for its intricate stone carvings.",
+                  "category": "religious",
+                  "coords": [
+                        43.405544,
+                        36.138292
+                  ]
+            },
+            {
+                  "name": "snedej",
+                  "text": "A local attraction situated in the historic Nimrud plains near the Tigris River.",
+                  "category": "landmark",
+                  "coords": [
+                        43.335197,
+                        36.069236
+                  ]
+            },
+            {
+                  "name": "Mashru Hasa al Mawsil Raqam Wahid",
+                  "text": "This windmill serves as a landmark for the irrigation projects near the Nimrud plains.",
+                  "category": "landmark",
+                  "coords": [
+                        43.283477,
+                        36.138685
+                  ]
+            },
+            {
+                  "name": "Fort Shalmaneser",
+                  "text": "These ancient ruins once served as a major military arsenal of the Assyrian Empire.",
+                  "category": "historical",
+                  "coords": [
+                        43.346869,
+                        36.094159
+                  ]
+            },
+            {
+                  "name": "Northwest Palace (Palace of Ashur-Nasir-Pal II)",
+                  "text": "The primary residence of Ashurnasirpal II features monumental Assyrian stone reliefs.",
+                  "category": "historical",
+                  "coords": [
+                        43.327529,
+                        36.099052
+                  ]
+            },
+            {
+                  "name": "Nimrud",
+                  "text": "The ancient Neo-Assyrian capital of Nimrud is famous for its prominent ziggurat mound.",
+                  "category": "historical",
+                  "coords": [
+                        43.328765,
+                        36.098476
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IQ-NI",
     coords: [43.3283, 36.0983],
@@ -177,7 +2670,1240 @@ export const poiExtraIraqHistoryV2: POI[] = [
       en: ["Nimrud was founded in the 13th century BC by King Shalmaneser I.", "The Northwest Palace of Ashurnasirpal II covered an area of nearly 24 hectares.", "The monumental Lamassu statues often weighed over 30 tons each.", "The 'Treasure of Nimrud,' containing 613 gold items, was discovered in 1988.", "The city served as the capital of the Assyrian Empire until 706 BC.", "In 2015, large portions of the palace complexes were deliberately destroyed by ISIS."],
     }, image: "/poi-images/nimrud-history-v2.webp"},
   {
-    id: "erbil-citadel-history-v2",
+    id: "erbil-citadel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kurdish Textile Museum",
+                  "text": "Dieses Museum in der Zitadelle von Erbil präsentiert traditionelle handgewebte kurdische Teppiche.",
+                  "category": "museum",
+                  "coords": [
+                        44.010121,
+                        36.190196
+                  ]
+            },
+            {
+                  "name": "Mzgawti Xanaqa",
+                  "text": "Ein historischer Sufi-Schrein und eine Moschee im Herzen der antiken Zitadelle von Erbil.",
+                  "category": "religious",
+                  "coords": [
+                        44.011134,
+                        36.188859
+                  ]
+            },
+            {
+                  "name": "Ibn Khalakan Museum",
+                  "text": "Ein der Geschichte gewidmetes Museum in der Zitadelle, benannt nach dem berühmten Historiker Ibn Khallikan.",
+                  "category": "museum",
+                  "coords": [
+                        44.010697,
+                        36.186862
+                  ]
+            },
+            {
+                  "name": "Traditional Kurdish Costume Museum",
+                  "text": "Eine Ausstellung in der Zitadelle, die die Vielfalt der traditionellen kurdischen Volkstrachten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        44.010021,
+                        36.191677
+                  ]
+            },
+            {
+                  "name": "Iraqi Institute for the Conservation of Antiquities and Heritage",
+                  "text": "Ein Forschungszentrum in der Zitadelle, das sich auf die Restaurierung lokaler Antiquitäten spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        44.01337,
+                        36.193223
+                  ]
+            },
+            {
+                  "name": "koshki soor fast food rebin",
+                  "text": "Ein Gastronomiebetrieb, der sich in den historischen Mauern der antiken Zitadelle von Erbil befindet.",
+                  "category": "castle",
+                  "coords": [
+                        44.018462,
+                        36.177338
+                  ]
+            },
+            {
+                  "name": "ice cream dartoo",
+                  "text": "Ein Erfrischungsstand für Besucher inmitten der historischen Architektur der Zitadelle von Erbil.",
+                  "category": "castle",
+                  "coords": [
+                        44.073668,
+                        36.124873
+                  ]
+            },
+            {
+                  "name": "Khalnd Mosque",
+                  "text": "Eine bescheidene Moschee, die der lokalen Gemeinschaft innerhalb des Zitadellen-Bezirks dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.024386,
+                        36.172183
+                  ]
+            },
+            {
+                  "name": "LEGRAND",
+                  "text": "Ein Handelsplatz am Eingang zur Zitadelle, auf dem lokale Waren und Textilien verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        44.028223,
+                        36.159845
+                  ]
+            },
+            {
+                  "name": "MARKET",
+                  "text": "Ein traditioneller Marktplatz innerhalb der Zitadelle, der handwerkliche Produkte und Souvenirs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        44.027062,
+                        36.161743
+                  ]
+            },
+            {
+                  "name": "zanko puplic garden",
+                  "text": "Ein weitläufiger öffentlicher Stadtgarten in Erbil, der als grüne Ruheoase im Stadtzentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.031155,
+                        36.159495
+                  ]
+            },
+            {
+                  "name": "Haji Taha Qassab Masjid",
+                  "text": "Diese muslimische Gebetsstätte in Erbil wurde im Jahr 1962 für die lokale Gemeinde errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012584,
+                        36.181839
+                  ]
+            },
+            {
+                  "name": "Alti Barmakh Mosque",
+                  "text": "Ein lokales muslimisches Gotteshaus im Herzen von Erbil, das durch seine traditionelle Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.009806,
+                        36.188775
+                  ]
+            },
+            {
+                  "name": "Jadr Mosque",
+                  "text": "Eine muslimische Moschee in Erbil, die als wichtiges spirituelles Zentrum für das Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012917,
+                        36.190556
+                  ]
+            },
+            {
+                  "name": "Shekh Abdullah Mosque",
+                  "text": "Dieses nach Scheich Abdullah benannte muslimische Gotteshaus liegt im städtischen Bereich von Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012979,
+                        36.187845
+                  ]
+            },
+            {
+                  "name": "Abdullah Qurbani Mosque",
+                  "text": "Eine lokale muslimische Moschee in Erbil, die als Gebetsstätte für die Anwohner fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.020146,
+                        36.182574
+                  ]
+            },
+            {
+                  "name": "Shaekh Baqillani Mosque",
+                  "text": "Das nach Shaykh Baqillani benannte muslimische Gotteshaus ist ein markantes religiöses Gebäude in Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.019331,
+                        36.180049
+                  ]
+            },
+            {
+                  "name": "Shekh Mula Muhammad Balisani Mosque",
+                  "text": "Eine muslimische Moschee in Erbil, die der lokalen Glaubensgemeinschaft als Gebetsraum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.010059,
+                        36.19606
+                  ]
+            },
+            {
+                  "name": "Shahidan Mosque",
+                  "text": "Diese moderne muslimische Moschee in Erbil wurde im Jahr 2016 im zeitgenössischen Stil fertiggestellt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.04895,
+                        36.152397
+                  ]
+            },
+            {
+                  "name": "Shafaha Mosque",
+                  "text": "Ein muslimisches Gotteshaus im Stadtteil Erbil-Zitadelle, das der täglichen Religionsausübung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.047873,
+                        36.155891
+                  ]
+            },
+            {
+                  "name": "haji Jamal Mosque",
+                  "text": "Eine traditionelle muslimische Moschee in Erbil, benannt nach Haji Jamal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.032646,
+                        36.169024
+                  ]
+            },
+            {
+                  "name": "Shuhada Mosque",
+                  "text": "Dieses muslimische Gotteshaus in Erbil ist ein zentraler Treffpunkt für Gläubige in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.028711,
+                        36.167687
+                  ]
+            },
+            {
+                  "name": "Sleman Qasab Mosque",
+                  "text": "Eine muslimische Moschee im städtischen Gefüge von Erbil, benannt nach Sleman Qasab.",
+                  "category": "landmark",
+                  "coords": [
+                        44.020829,
+                        36.174018
+                  ]
+            },
+            {
+                  "name": "Qadir Bla Mosque",
+                  "text": "Das muslimische Gotteshaus Qadir Bla ist eine markante Moschee innerhalb der Stadt Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.018655,
+                        36.175977
+                  ]
+            },
+            {
+                  "name": "Runaki Mosque",
+                  "text": "Diese muslimische Moschee in Erbil zeichnet sich durch ihre Lage im geschäftigen Stadtzentrum aus.",
+                  "category": "landmark",
+                  "coords": [
+                        44.024964,
+                        36.167416
+                  ]
+            },
+            {
+                  "name": "Two Brothers Mosque",
+                  "text": "Eine nach den „Zwei Brüdern“ benannte muslimische Moschee in Erbil mit einer einzigartigen lokalen Identität.",
+                  "category": "landmark",
+                  "coords": [
+                        44.02181,
+                        36.16838
+                  ]
+            },
+            {
+                  "name": "Hamad Syan Mosque",
+                  "text": "Dieses muslimische Gotteshaus in Erbil ist ein wichtiges architektonisches Element des lokalen Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        44.031414,
+                        36.156913
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Dieses nach Imam Ali benannte muslimische Gotteshaus ist ein bedeutender Sakralbau in Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.033307,
+                        36.162805
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "Eine lokale muslimische Moschee in Erbil, die das Stadtbild durch ihr Minarett bereichert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.043484,
+                        36.157708
+                  ]
+            },
+            {
+                  "name": "Ferdaws Mosque",
+                  "text": "Das nach dem Paradies benannte muslimische Gotteshaus Ferdaws liegt zentral in Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.046006,
+                        36.145194
+                  ]
+            },
+            {
+                  "name": "Haji Jabar Ahmad Mantk Mosque",
+                  "text": "Eine muslimische Moschee in Erbil, die nach einem prominenten lokalen Gemeindemitglied benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        44.0617,
+                        36.138966
+                  ]
+            },
+            {
+                  "name": "Dar Alsalam Mosque",
+                  "text": "Dieses muslimische Gotteshaus in Erbil ist als Symbol des Friedens im Herzen der Stadt bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.063392,
+                        36.128723
+                  ]
+            },
+            {
+                  "name": "Abubakri Sadiq Mosque",
+                  "text": "Eine nach Abubakri Sadiq benannte muslimische Moschee in Erbil, die dem täglichen Gebet gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.069681,
+                        36.115303
+                  ]
+            },
+            {
+                  "name": "Shekh Mustafa Mosque",
+                  "text": "Eine nach Scheich Mustafa benannte muslimische Moschee, die ein religiöser Bezugspunkt in Erbil ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.01463,
+                        36.191717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kurdish Textile Museum",
+                  "text": "Az erbili fellegvárban található múzeum hagyományos, kézzel szőtt kurd szőnyegeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        44.010121,
+                        36.190196
+                  ]
+            },
+            {
+                  "name": "Mzgawti Xanaqa",
+                  "text": "Történelmi szúfi kegyhely és mecset az ősi erbili fellegvár szívében.",
+                  "category": "religious",
+                  "coords": [
+                        44.011134,
+                        36.188859
+                  ]
+            },
+            {
+                  "name": "Ibn Khalakan Museum",
+                  "text": "A fellegvárban található történeti múzeum, amelyet a híres történészről, Ibn Khallikanról neveztek el.",
+                  "category": "museum",
+                  "coords": [
+                        44.010697,
+                        36.186862
+                  ]
+            },
+            {
+                  "name": "Traditional Kurdish Costume Museum",
+                  "text": "A fellegvárban található kiállítás, amely a hagyományos kurd népviseletek sokszínűségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.010021,
+                        36.191677
+                  ]
+            },
+            {
+                  "name": "Iraqi Institute for the Conservation of Antiquities and Heritage",
+                  "text": "A fellegvárban található kutatóközpont, amely a helyi régiségek restaurálására szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        44.01337,
+                        36.193223
+                  ]
+            },
+            {
+                  "name": "koshki soor fast food rebin",
+                  "text": "Vendéglátóhely az ősi erbili fellegvár történelmi falai között.",
+                  "category": "castle",
+                  "coords": [
+                        44.018462,
+                        36.177338
+                  ]
+            },
+            {
+                  "name": "ice cream dartoo",
+                  "text": "Frissítőpont a látogatók számára az erbili fellegvár történelmi épületei között.",
+                  "category": "castle",
+                  "coords": [
+                        44.073668,
+                        36.124873
+                  ]
+            },
+            {
+                  "name": "Khalnd Mosque",
+                  "text": "Szerény mecset, amely a fellegvár területén belüli helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        44.024386,
+                        36.172183
+                  ]
+            },
+            {
+                  "name": "LEGRAND",
+                  "text": "Kereskedelmi hely a fellegvár bejáratánál, ahol helyi árukat és textileket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        44.028223,
+                        36.159845
+                  ]
+            },
+            {
+                  "name": "MARKET",
+                  "text": "Hagyományos piactér a fellegváron belül, ahol kézműves termékeket és szuveníreket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        44.027062,
+                        36.161743
+                  ]
+            },
+            {
+                  "name": "zanko puplic garden",
+                  "text": "Egy tágas nyilvános városi kert Erbilben, amely zöld pihenőhelyként szolgál a központban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.031155,
+                        36.159495
+                  ]
+            },
+            {
+                  "name": "Haji Taha Qassab Masjid",
+                  "text": "Ezt az erbili muszlim imaházat 1962-ben alapították a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012584,
+                        36.181839
+                  ]
+            },
+            {
+                  "name": "Alti Barmakh Mosque",
+                  "text": "Helyi muszlim templom Erbil szívében, amely hagyományos építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        44.009806,
+                        36.188775
+                  ]
+            },
+            {
+                  "name": "Jadr Mosque",
+                  "text": "Muszlim mecset Erbilben, amely a környék fontos spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012917,
+                        36.190556
+                  ]
+            },
+            {
+                  "name": "Shekh Abdullah Mosque",
+                  "text": "Ez a Sejk Abdullahról elnevezett muszlim templom Erbil városi területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012979,
+                        36.187845
+                  ]
+            },
+            {
+                  "name": "Abdullah Qurbani Mosque",
+                  "text": "Helyi muszlim mecset Erbilben, amely a környék lakói számára biztosít imaházat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.020146,
+                        36.182574
+                  ]
+            },
+            {
+                  "name": "Shaekh Baqillani Mosque",
+                  "text": "A Shaykh Baqillaniról elnevezett muszlim templom Erbil egyik jellegzetes vallási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        44.019331,
+                        36.180049
+                  ]
+            },
+            {
+                  "name": "Shekh Mula Muhammad Balisani Mosque",
+                  "text": "Muszlim mecset Erbilben, amely a helyi hívő közösség számára biztosít imateret.",
+                  "category": "landmark",
+                  "coords": [
+                        44.010059,
+                        36.19606
+                  ]
+            },
+            {
+                  "name": "Shahidan Mosque",
+                  "text": "Ez a modern erbili muszlim mecset 2016-ban készült el kortárs stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.04895,
+                        36.152397
+                  ]
+            },
+            {
+                  "name": "Shafaha Mosque",
+                  "text": "Muszlim imaház az erbili citadella negyedben, amely a napi vallásgyakorlatot szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.047873,
+                        36.155891
+                  ]
+            },
+            {
+                  "name": "haji Jamal Mosque",
+                  "text": "Hagyományos muszlim mecset Erbilben, amelyet Haji Jamalról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        44.032646,
+                        36.169024
+                  ]
+            },
+            {
+                  "name": "Shuhada Mosque",
+                  "text": "Ez az erbili muszlim templom a város hívőinek központi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        44.028711,
+                        36.167687
+                  ]
+            },
+            {
+                  "name": "Sleman Qasab Mosque",
+                  "text": "Muszlim mecset Erbil városi szövetében, Sleman Qasabról elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        44.020829,
+                        36.174018
+                  ]
+            },
+            {
+                  "name": "Qadir Bla Mosque",
+                  "text": "A Qadir Bla muszlim templom Erbil városának egyik jellegzetes mecsetje.",
+                  "category": "landmark",
+                  "coords": [
+                        44.018655,
+                        36.175977
+                  ]
+            },
+            {
+                  "name": "Runaki Mosque",
+                  "text": "Ez az erbili muszlim mecset a forgalmas városközpontban elfoglalt helyzetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        44.024964,
+                        36.167416
+                  ]
+            },
+            {
+                  "name": "Two Brothers Mosque",
+                  "text": "A „Két fivérről” elnevezett muszlim mecset Erbilben, egyedi helyi identitással.",
+                  "category": "landmark",
+                  "coords": [
+                        44.02181,
+                        36.16838
+                  ]
+            },
+            {
+                  "name": "Hamad Syan Mosque",
+                  "text": "Ez az erbili muszlim templom a helyi negyed fontos építészeti eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        44.031414,
+                        36.156913
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Ez az Imám Aliról elnevezett muszlim templom Erbil egyik jelentős szakrális épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        44.033307,
+                        36.162805
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "Helyi muszlim mecset Erbilben, amely minaretjével gazdagítja a városképet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.043484,
+                        36.157708
+                  ]
+            },
+            {
+                  "name": "Ferdaws Mosque",
+                  "text": "A paradicsomról elnevezett Ferdaws muszlim templom központi helyen található Erbilben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.046006,
+                        36.145194
+                  ]
+            },
+            {
+                  "name": "Haji Jabar Ahmad Mantk Mosque",
+                  "text": "Muszlim mecset Erbilben, amelyet a helyi közösség egyik prominens tagjáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        44.0617,
+                        36.138966
+                  ]
+            },
+            {
+                  "name": "Dar Alsalam Mosque",
+                  "text": "Ez az erbili muszlim templom a béke szimbólumaként ismert a város szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.063392,
+                        36.128723
+                  ]
+            },
+            {
+                  "name": "Abubakri Sadiq Mosque",
+                  "text": "Az Abubakri Sadiqról elnevezett muszlim mecset Erbilben, amelyet a napi imádkozásnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.069681,
+                        36.115303
+                  ]
+            },
+            {
+                  "name": "Shekh Mustafa Mosque",
+                  "text": "Sejk Mustafáról elnevezett muszlim mecset, amely vallási tájékozódási pont Erbilben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.01463,
+                        36.191717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kurdish Textile Museum",
+                  "text": "Acest muzeu din Cetatea Erbil prezintă covoare kurde tradiționale țesute manual.",
+                  "category": "museum",
+                  "coords": [
+                        44.010121,
+                        36.190196
+                  ]
+            },
+            {
+                  "name": "Mzgawti Xanaqa",
+                  "text": "Un sanctuar sufit istoric și o moschee în inima vechii Cetăți din Erbil.",
+                  "category": "religious",
+                  "coords": [
+                        44.011134,
+                        36.188859
+                  ]
+            },
+            {
+                  "name": "Ibn Khalakan Museum",
+                  "text": "Un muzeu dedicat istoriei situat în Cetate, numit după celebrul istoric Ibn Khallikan.",
+                  "category": "museum",
+                  "coords": [
+                        44.010697,
+                        36.186862
+                  ]
+            },
+            {
+                  "name": "Traditional Kurdish Costume Museum",
+                  "text": "O expoziție în Cetate care prezintă diversitatea costumelor populare tradiționale kurde.",
+                  "category": "museum",
+                  "coords": [
+                        44.010021,
+                        36.191677
+                  ]
+            },
+            {
+                  "name": "Iraqi Institute for the Conservation of Antiquities and Heritage",
+                  "text": "Un centru de cercetare din Cetate, specializat în restaurarea antichităților locale.",
+                  "category": "museum",
+                  "coords": [
+                        44.01337,
+                        36.193223
+                  ]
+            },
+            {
+                  "name": "koshki soor fast food rebin",
+                  "text": "O unitate de alimentație situată între zidurile istorice ale vechii Cetăți din Erbil.",
+                  "category": "castle",
+                  "coords": [
+                        44.018462,
+                        36.177338
+                  ]
+            },
+            {
+                  "name": "ice cream dartoo",
+                  "text": "Un punct de răcorire pentru vizitatori în mijlocul arhitecturii istorice a Cetății Erbil.",
+                  "category": "castle",
+                  "coords": [
+                        44.073668,
+                        36.124873
+                  ]
+            },
+            {
+                  "name": "Khalnd Mosque",
+                  "text": "O moschee modestă care deservește comunitatea locală din districtul Cetății.",
+                  "category": "religious",
+                  "coords": [
+                        44.024386,
+                        36.172183
+                  ]
+            },
+            {
+                  "name": "LEGRAND",
+                  "text": "Un loc de tranzacționare la intrarea în Cetate, unde se vând mărfuri și textile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        44.028223,
+                        36.159845
+                  ]
+            },
+            {
+                  "name": "MARKET",
+                  "text": "O piață tradițională în interiorul Cetății, care oferă produse artizanale și suveniruri.",
+                  "category": "cultural",
+                  "coords": [
+                        44.027062,
+                        36.161743
+                  ]
+            },
+            {
+                  "name": "zanko puplic garden",
+                  "text": "O grădină publică spațioasă în Erbil, care oferă o oază de liniște și verdeață în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.031155,
+                        36.159495
+                  ]
+            },
+            {
+                  "name": "Haji Taha Qassab Masjid",
+                  "text": "Acest lăcaș de cult musulman din Erbil a fost înființat în anul 1962 pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012584,
+                        36.181839
+                  ]
+            },
+            {
+                  "name": "Alti Barmakh Mosque",
+                  "text": "Un lăcaș de cult musulman local în inima orașului Erbil, remarcabil prin arhitectura sa tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        44.009806,
+                        36.188775
+                  ]
+            },
+            {
+                  "name": "Jadr Mosque",
+                  "text": "O moschee musulmană din Erbil, care servește ca un important centru spiritual pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012917,
+                        36.190556
+                  ]
+            },
+            {
+                  "name": "Shekh Abdullah Mosque",
+                  "text": "Acest lăcaș de cult musulman, numit după Shekh Abdullah, este situat în zona urbană a Erbilului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012979,
+                        36.187845
+                  ]
+            },
+            {
+                  "name": "Abdullah Qurbani Mosque",
+                  "text": "O moschee musulmană locală din Erbil, care funcționează ca lăcaș de rugăciune pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        44.020146,
+                        36.182574
+                  ]
+            },
+            {
+                  "name": "Shaekh Baqillani Mosque",
+                  "text": "Lăcașul de cult musulman numit după Shaykh Baqillani este o clădire religioasă distinctivă din Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.019331,
+                        36.180049
+                  ]
+            },
+            {
+                  "name": "Shekh Mula Muhammad Balisani Mosque",
+                  "text": "O moschee musulmană din Erbil, care oferă un spațiu de rugăciune pentru comunitatea locală de credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        44.010059,
+                        36.19606
+                  ]
+            },
+            {
+                  "name": "Shahidan Mosque",
+                  "text": "Această moschee musulmană modernă din Erbil a fost finalizată în anul 2016 în stil contemporan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.04895,
+                        36.152397
+                  ]
+            },
+            {
+                  "name": "Shafaha Mosque",
+                  "text": "Un lăcaș de cult musulman în cartierul Cetății Erbil, utilizat pentru practica religioasă zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        44.047873,
+                        36.155891
+                  ]
+            },
+            {
+                  "name": "haji Jamal Mosque",
+                  "text": "O moschee musulmană tradițională din Erbil, numită după Haji Jamal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.032646,
+                        36.169024
+                  ]
+            },
+            {
+                  "name": "Shuhada Mosque",
+                  "text": "Acest lăcaș de cult musulman din Erbil este un punct central de întâlnire pentru credincioșii din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        44.028711,
+                        36.167687
+                  ]
+            },
+            {
+                  "name": "Sleman Qasab Mosque",
+                  "text": "O moschee musulmană în țesutul urban al Erbilului, numită după Sleman Qasab.",
+                  "category": "landmark",
+                  "coords": [
+                        44.020829,
+                        36.174018
+                  ]
+            },
+            {
+                  "name": "Qadir Bla Mosque",
+                  "text": "Lăcașul de cult musulman Qadir Bla este o moschee distinctivă în orașul Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.018655,
+                        36.175977
+                  ]
+            },
+            {
+                  "name": "Runaki Mosque",
+                  "text": "Această moschee musulmană din Erbil se remarcă prin amplasarea sa în centrul aglomerat al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.024964,
+                        36.167416
+                  ]
+            },
+            {
+                  "name": "Two Brothers Mosque",
+                  "text": "O moschee musulmană din Erbil, numită după „Cei doi frați”, cu o identitate locală unică.",
+                  "category": "landmark",
+                  "coords": [
+                        44.02181,
+                        36.16838
+                  ]
+            },
+            {
+                  "name": "Hamad Syan Mosque",
+                  "text": "Acest lăcaș de cult musulman din Erbil este un element arhitectural important al cartierului local.",
+                  "category": "landmark",
+                  "coords": [
+                        44.031414,
+                        36.156913
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Acest lăcaș de cult musulman, numit după Imam Ali, este o clădire sacră importantă din Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.033307,
+                        36.162805
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "O moschee musulmană locală din Erbil, care îmbogățește peisajul urban prin minaretul său.",
+                  "category": "landmark",
+                  "coords": [
+                        44.043484,
+                        36.157708
+                  ]
+            },
+            {
+                  "name": "Ferdaws Mosque",
+                  "text": "Lăcașul de cult musulman Ferdaws, numit după paradis, este situat central în Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.046006,
+                        36.145194
+                  ]
+            },
+            {
+                  "name": "Haji Jabar Ahmad Mantk Mosque",
+                  "text": "O moschee musulmană din Erbil, numită după un membru proeminent al comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.0617,
+                        36.138966
+                  ]
+            },
+            {
+                  "name": "Dar Alsalam Mosque",
+                  "text": "Acest lăcaș de cult musulman din Erbil este cunoscut ca un simbol al păcii în inima orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.063392,
+                        36.128723
+                  ]
+            },
+            {
+                  "name": "Abubakri Sadiq Mosque",
+                  "text": "O moschee musulmană din Erbil, numită după Abubakri Sadiq, dedicată rugăciunii zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.069681,
+                        36.115303
+                  ]
+            },
+            {
+                  "name": "Shekh Mustafa Mosque",
+                  "text": "O moschee musulmană numită după Shekh Mustafa, care este un punct de referință religios în Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.01463,
+                        36.191717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kurdish Textile Museum",
+                  "text": "Located within the Erbil Citadel, this museum showcases traditional hand-woven Kurdish carpets.",
+                  "category": "museum",
+                  "coords": [
+                        44.010121,
+                        36.190196
+                  ]
+            },
+            {
+                  "name": "Mzgawti Xanaqa",
+                  "text": "A historic Sufi shrine and mosque located in the heart of the ancient Erbil Citadel.",
+                  "category": "religious",
+                  "coords": [
+                        44.011134,
+                        36.188859
+                  ]
+            },
+            {
+                  "name": "Ibn Khalakan Museum",
+                  "text": "A museum dedicated to history located in the Citadel, named after the famous historian Ibn Khallikan.",
+                  "category": "museum",
+                  "coords": [
+                        44.010697,
+                        36.186862
+                  ]
+            },
+            {
+                  "name": "Traditional Kurdish Costume Museum",
+                  "text": "An exhibition within the Citadel displaying the variety of traditional Kurdish folk costumes.",
+                  "category": "museum",
+                  "coords": [
+                        44.010021,
+                        36.191677
+                  ]
+            },
+            {
+                  "name": "Iraqi Institute for the Conservation of Antiquities and Heritage",
+                  "text": "A research center in the Citadel specializing in the restoration of local antiquities.",
+                  "category": "museum",
+                  "coords": [
+                        44.01337,
+                        36.193223
+                  ]
+            },
+            {
+                  "name": "koshki soor fast food rebin",
+                  "text": "A catering establishment located within the historic walls of the ancient Erbil Citadel.",
+                  "category": "castle",
+                  "coords": [
+                        44.018462,
+                        36.177338
+                  ]
+            },
+            {
+                  "name": "ice cream dartoo",
+                  "text": "A refreshment spot for visitors set amidst the historic architecture of the Erbil Citadel.",
+                  "category": "castle",
+                  "coords": [
+                        44.073668,
+                        36.124873
+                  ]
+            },
+            {
+                  "name": "Khalnd Mosque",
+                  "text": "A modest mosque serving the local community within the Citadel district.",
+                  "category": "religious",
+                  "coords": [
+                        44.024386,
+                        36.172183
+                  ]
+            },
+            {
+                  "name": "LEGRAND",
+                  "text": "A trading spot at the entrance to the Citadel selling local goods and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        44.028223,
+                        36.159845
+                  ]
+            },
+            {
+                  "name": "MARKET",
+                  "text": "A traditional marketplace inside the Citadel offering artisanal products and souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        44.027062,
+                        36.161743
+                  ]
+            },
+            {
+                  "name": "zanko puplic garden",
+                  "text": "A spacious public urban garden in Erbil that serves as a green retreat in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        44.031155,
+                        36.159495
+                  ]
+            },
+            {
+                  "name": "Haji Taha Qassab Masjid",
+                  "text": "This Muslim place of worship in Erbil was established in 1962 for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012584,
+                        36.181839
+                  ]
+            },
+            {
+                  "name": "Alti Barmakh Mosque",
+                  "text": "A local Muslim place of worship in the heart of Erbil, notable for its traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.009806,
+                        36.188775
+                  ]
+            },
+            {
+                  "name": "Jadr Mosque",
+                  "text": "A Muslim mosque in Erbil that serves as an important spiritual center for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012917,
+                        36.190556
+                  ]
+            },
+            {
+                  "name": "Shekh Abdullah Mosque",
+                  "text": "This Muslim place of worship, named after Shekh Abdullah, is located in the urban area of Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012979,
+                        36.187845
+                  ]
+            },
+            {
+                  "name": "Abdullah Qurbani Mosque",
+                  "text": "A local Muslim mosque in Erbil that functions as a house of prayer for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        44.020146,
+                        36.182574
+                  ]
+            },
+            {
+                  "name": "Shaykh Baqillani Mosque",
+                  "text": "The Muslim place of worship named after Shaykh Baqillani is a distinctive religious building in Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.019331,
+                        36.180049
+                  ]
+            },
+            {
+                  "name": "Shekh Mula Muhammad Balisani Mosque",
+                  "text": "A Muslim mosque in Erbil that provides a prayer space for the local community of believers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.010059,
+                        36.19606
+                  ]
+            },
+            {
+                  "name": "Shahidan Mosque",
+                  "text": "This modern Muslim mosque in Erbil was completed in 2016 in a contemporary style.",
+                  "category": "landmark",
+                  "coords": [
+                        44.04895,
+                        36.152397
+                  ]
+            },
+            {
+                  "name": "Shafaha Mosque",
+                  "text": "A Muslim place of worship in the Erbil Citadel district, used for daily religious practice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.047873,
+                        36.155891
+                  ]
+            },
+            {
+                  "name": "haji Jamal Mosque",
+                  "text": "A traditional Muslim mosque in Erbil, named after Haji Jamal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.032646,
+                        36.169024
+                  ]
+            },
+            {
+                  "name": "Shuhada Mosque",
+                  "text": "This Muslim place of worship in Erbil is a central meeting point for believers in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.028711,
+                        36.167687
+                  ]
+            },
+            {
+                  "name": "Sleman Qasab Mosque",
+                  "text": "A Muslim mosque in the urban fabric of Erbil, named after Sleman Qasab.",
+                  "category": "landmark",
+                  "coords": [
+                        44.020829,
+                        36.174018
+                  ]
+            },
+            {
+                  "name": "Qadir Bla Mosque",
+                  "text": "The Qadir Bla Muslim place of worship is a distinctive mosque within the city of Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.018655,
+                        36.175977
+                  ]
+            },
+            {
+                  "name": "Runaki Mosque",
+                  "text": "This Muslim mosque in Erbil is notable for its position within the busy city center.",
+                  "category": "landmark",
+                  "coords": [
+                        44.024964,
+                        36.167416
+                  ]
+            },
+            {
+                  "name": "Two Brothers Mosque",
+                  "text": "A Muslim mosque in Erbil named after the 'Two Brothers', with a unique local identity.",
+                  "category": "landmark",
+                  "coords": [
+                        44.02181,
+                        36.16838
+                  ]
+            },
+            {
+                  "name": "Hamad Syan Mosque",
+                  "text": "This Muslim place of worship in Erbil is an important architectural element of the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        44.031414,
+                        36.156913
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "This Muslim place of worship, named after Imam Ali, is a significant sacred building in Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.033307,
+                        36.162805
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "A local Muslim mosque in Erbil that enriches the cityscape with its minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        44.043484,
+                        36.157708
+                  ]
+            },
+            {
+                  "name": "Ferdaws Mosque",
+                  "text": "The Ferdaws Muslim place of worship, named after paradise, is centrally located in Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.046006,
+                        36.145194
+                  ]
+            },
+            {
+                  "name": "Haji Jabar Ahmad Mantk Mosque",
+                  "text": "A Muslim mosque in Erbil named after a prominent local community member.",
+                  "category": "landmark",
+                  "coords": [
+                        44.0617,
+                        36.138966
+                  ]
+            },
+            {
+                  "name": "Dar Alsalam Mosque",
+                  "text": "This Muslim place of worship in Erbil is known as a symbol of peace in the heart of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.063392,
+                        36.128723
+                  ]
+            },
+            {
+                  "name": "Abubakri Sadiq Mosque",
+                  "text": "A Muslim mosque in Erbil named after Abubakri Sadiq, dedicated to daily prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        44.069681,
+                        36.115303
+                  ]
+            },
+            {
+                  "name": "Shekh Mustafa Mosque",
+                  "text": "A Muslim mosque named after Shekh Mustafa, which is a religious landmark in Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.01463,
+                        36.191717
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IQ-AR",
     coords: [44.0100, 36.1911],
@@ -212,7 +3938,736 @@ export const poiExtraIraqHistoryV2: POI[] = [
       fr: ["La citadelle s'élève à environ 32 mètres au-dessus du niveau de la ville environnante.", "Les preuves archéologiques attestent d'une occupation depuis le Ve millénaire avant J.-C.", "Le tell elliptique couvre une superficie d'environ 10 hectares.", "La façade extérieure caractéristique des maisons date principalement du XIXe siècle.", "En 2014, la citadelle a été inscrite au patrimoine mondial de l'UNESCO.", "Le site abrite un musée historique du textile et un bain traditionnel."],
     }, image: "/poi-images/erbil-citadel-history-v2.webp"},
   {
-    id: "taq-kasra-history-v2",
+    id: "taq-kasra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Opis",
+                  "text": "Die Ruinen einer antiken mesopotamischen Stadt am Tigris, berühmt als Schauplatz einer bedeutenden Schlacht im Jahr 539 v. Chr.",
+                  "category": "historical",
+                  "coords": [
+                        44.522927,
+                        33.094636
+                  ]
+            },
+            {
+                  "name": "Khoké",
+                  "text": "Eine archäologische Stätte, die einen Teil der sassanidischen Stadt Weh-Ardaschir in der Nähe des Tigris darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        44.552031,
+                        33.099142
+                  ]
+            },
+            {
+                  "name": "Taq Kasra",
+                  "text": "Der weltweit größte einspannige Ziegelbogen aus der Sasanidenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        44.580787,
+                        33.093738
+                  ]
+            },
+            {
+                  "name": "Bany hjaim",
+                  "text": "Traditionelles Siedlungsgebiet in der historischen Region Madain.",
+                  "category": "landmark",
+                  "coords": [
+                        44.635027,
+                        33.146579
+                  ]
+            },
+            {
+                  "name": "Qala Hamza",
+                  "text": "Ruine einer Lehmziegelfestung im archäologischen Gebiet von Ktesiphon.",
+                  "category": "castle",
+                  "coords": [
+                        44.616031,
+                        33.032699
+                  ]
+            },
+            {
+                  "name": "Hamzah",
+                  "text": "Überreste einer historischen Burg in der Ebene nahe dem Tigris.",
+                  "category": "castle",
+                  "coords": [
+                        44.616759,
+                        33.033849
+                  ]
+            },
+            {
+                  "name": "Munir Beg",
+                  "text": "Antike Ruinen eines Lehmziegelgebäudes im Bezirk Ktesiphon.",
+                  "category": "historical",
+                  "coords": [
+                        44.633333,
+                        33.05
+                  ]
+            },
+            {
+                  "name": "Panorama of Al-Qadisiyyah",
+                  "text": "Denkmal, das 1980 zur Erinnerung an die historische Schlacht von al-Qadisiya eingeweiht wurde.",
+                  "category": "historical",
+                  "coords": [
+                        44.588597,
+                        33.093497
+                  ]
+            },
+            {
+                  "name": "Mosque of Salman Al-Muhammadi",
+                  "text": "Wichtiger Wallfahrtsort mit dem Schrein von Salman dem Perser, einem Gefährten des Propheten.",
+                  "category": "landmark",
+                  "coords": [
+                        44.581522,
+                        33.098355
+                  ]
+            },
+            {
+                  "name": "Seleucia",
+                  "text": "Bedeutende hellenistische Stadt, 305 v. Chr. von Seleukos I. Nikator am Tigris gegründet.",
+                  "category": "historical",
+                  "coords": [
+                        44.521348,
+                        33.095034
+                  ]
+            },
+            {
+                  "name": "Al-Furqan Mosque",
+                  "text": "Lokale islamische Gebetsstätte mit einem traditionellen Minarett.",
+                  "category": "religious",
+                  "coords": [
+                        44.594468,
+                        33.094176
+                  ]
+            },
+            {
+                  "name": "Husseiniya (Religious Hall)",
+                  "text": "Schiitisches Gemeindehaus für Trauerzeremonien und religiöse Bildung.",
+                  "category": "religious",
+                  "coords": [
+                        44.594452,
+                        33.098484
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Gemeindemoschee, die als Zentrum für die täglichen islamischen Gebete dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.590971,
+                        33.103391
+                  ]
+            },
+            {
+                  "name": "Sa’d Ibn Abi Waqqas Mosque",
+                  "text": "Moschee benannt nach dem General, der die muslimische Eroberung Persiens leitete.",
+                  "category": "religious",
+                  "coords": [
+                        44.584603,
+                        33.103803
+                  ]
+            },
+            {
+                  "name": "Al-Khulafa Mosque",
+                  "text": "Lokale Gebetsstätte für die muslimische Gemeinschaft im Gebiet von Salman Pak.",
+                  "category": "religious",
+                  "coords": [
+                        44.584111,
+                        33.107986
+                  ]
+            },
+            {
+                  "name": "Ahbab Al-Rasool Mosque (PBUH)",
+                  "text": "Nachbarschaftsmoschee, die den „Geliebten des Propheten“ gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.680302,
+                        33.12647
+                  ]
+            },
+            {
+                  "name": "Hussainiya & Imam Ali Mosque",
+                  "text": "Religiöser Komplex, der eine Moschee mit einer schiitischen Gedenkhalle kombiniert.",
+                  "category": "religious",
+                  "coords": [
+                        44.65821,
+                        33.146705
+                  ]
+            },
+            {
+                  "name": "Al-Noor Mosque",
+                  "text": "Moderne Moschee als spirituelles Zentrum für die Anwohner.",
+                  "category": "religious",
+                  "coords": [
+                        44.663299,
+                        33.145844
+                  ]
+            },
+            {
+                  "name": "Amna Al-Sadr Bint Al-Huda",
+                  "text": "Gedenkstätte für die einflussreiche schiitische Aktivistin und Schriftstellerin.",
+                  "category": "religious",
+                  "coords": [
+                        44.668574,
+                        33.13032
+                  ]
+            },
+            {
+                  "name": "Abi Dhar Al-Ghafari Mosque",
+                  "text": "Moschee benannt nach einem der asketischsten und hingebungsvollsten Gefährten des Propheten.",
+                  "category": "religious",
+                  "coords": [
+                        44.595902,
+                        33.100203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Opis",
+                  "text": "Egy ősi mezopotámiai város romjai a Tigris partján, amely az i. e. 539-ben vívott jelentős csata helyszíneként híres.",
+                  "category": "historical",
+                  "coords": [
+                        44.522927,
+                        33.094636
+                  ]
+            },
+            {
+                  "name": "Khoké",
+                  "text": "Régészeti lelőhely, amely a szászánida kori Weh-Ardasír városának egy részét képviseli a Tigris közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.552031,
+                        33.099142
+                  ]
+            },
+            {
+                  "name": "Taq Kasra",
+                  "text": "A világ legnagyobb fesztávolságú, téglából épült boltíve a Szászánida-korszakból.",
+                  "category": "historical",
+                  "coords": [
+                        44.580787,
+                        33.093738
+                  ]
+            },
+            {
+                  "name": "Bany hjaim",
+                  "text": "Hagyományos települési terület a történelmi Madain régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.635027,
+                        33.146579
+                  ]
+            },
+            {
+                  "name": "Qala Hamza",
+                  "text": "Egy vályogtégla erőd romjai Ktésziphón régészeti területén.",
+                  "category": "castle",
+                  "coords": [
+                        44.616031,
+                        33.032699
+                  ]
+            },
+            {
+                  "name": "Hamzah",
+                  "text": "Történelmi vár maradványai a Tigris folyó melletti síkságon.",
+                  "category": "castle",
+                  "coords": [
+                        44.616759,
+                        33.033849
+                  ]
+            },
+            {
+                  "name": "Munir Beg",
+                  "text": "Egy vályogtégla épület ókori romjai Ktésziphón kerületében.",
+                  "category": "historical",
+                  "coords": [
+                        44.633333,
+                        33.05
+                  ]
+            },
+            {
+                  "name": "Panorama of Al-Qadisiyyah",
+                  "text": "1980-ban felavatott emlékmű, amely a történelmi al-kádíszijai csatának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        44.588597,
+                        33.093497
+                  ]
+            },
+            {
+                  "name": "Mosque of Salman Al-Muhammadi",
+                  "text": "Fontos zarándokhely, ahol Szalmán al-Fáriszi, a Próféta egyik társának sírja található.",
+                  "category": "landmark",
+                  "coords": [
+                        44.581522,
+                        33.098355
+                  ]
+            },
+            {
+                  "name": "Seleucia",
+                  "text": "Jelentős hellenisztikus város, amelyet Kr. e. 305-ben alapított I. Szeleukosz Nikatór a Tigris mentén.",
+                  "category": "historical",
+                  "coords": [
+                        44.521348,
+                        33.095034
+                  ]
+            },
+            {
+                  "name": "Al-Furqan Mosque",
+                  "text": "Helyi iszlám imaház hagyományos minarettel.",
+                  "category": "religious",
+                  "coords": [
+                        44.594468,
+                        33.094176
+                  ]
+            },
+            {
+                  "name": "Husseiniya (Religious Hall)",
+                  "text": "Síita közösségi ház, amelyet gyászszertartásokra és vallási oktatásra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        44.594452,
+                        33.098484
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Közösségi mecset, amely a napi iszlám imádságok központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        44.590971,
+                        33.103391
+                  ]
+            },
+            {
+                  "name": "Sa’d Ibn Abi Waqqas Mosque",
+                  "text": "A Perzsia muszlim meghódítását vezető hadvezérről elnevezett mecset.",
+                  "category": "religious",
+                  "coords": [
+                        44.584603,
+                        33.103803
+                  ]
+            },
+            {
+                  "name": "Al-Khulafa Mosque",
+                  "text": "Helyi imaház a muszlim közösség számára Szalmán Pák területén.",
+                  "category": "religious",
+                  "coords": [
+                        44.584111,
+                        33.107986
+                  ]
+            },
+            {
+                  "name": "Ahbab Al-Rasool Mosque (PBUH)",
+                  "text": "A „Próféta Szeretteinek” szentelt környékbeli mecset.",
+                  "category": "religious",
+                  "coords": [
+                        44.680302,
+                        33.12647
+                  ]
+            },
+            {
+                  "name": "Hussainiya & Imam Ali Mosque",
+                  "text": "Vallási komplexum, amely egy mecsetet és egy síita emlékközpontot egyesít.",
+                  "category": "religious",
+                  "coords": [
+                        44.65821,
+                        33.146705
+                  ]
+            },
+            {
+                  "name": "Al-Noor Mosque",
+                  "text": "Modern mecset, amely lelki központként szolgál a helyi lakosok számára.",
+                  "category": "religious",
+                  "coords": [
+                        44.663299,
+                        33.145844
+                  ]
+            },
+            {
+                  "name": "Amna Al-Sadr Bint Al-Huda",
+                  "text": "Emlékhely a befolyásos síita aktivista és írónő tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        44.668574,
+                        33.13032
+                  ]
+            },
+            {
+                  "name": "Abi Dhar Al-Ghafari Mosque",
+                  "text": "A Próféta egyik legaszkétább és legelkötelezettebb társáról elnevezett mecset.",
+                  "category": "religious",
+                  "coords": [
+                        44.595902,
+                        33.100203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Opis",
+                  "text": "Ruinele unui oraș antic mesopotamian de pe Tigru, faimos ca locul unei bătălii majore din anul 539 î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        44.522927,
+                        33.094636
+                  ]
+            },
+            {
+                  "name": "Khoké",
+                  "text": "Un sit arheologic care reprezintă o parte a orașului Veh-Ardashir din epoca sasanidă, situat lângă Tigru.",
+                  "category": "historical",
+                  "coords": [
+                        44.552031,
+                        33.099142
+                  ]
+            },
+            {
+                  "name": "Taq Kasra",
+                  "text": "Cel mai mare arc de cărămidă cu o singură deschidere din lume, datând din era sasanidă.",
+                  "category": "historical",
+                  "coords": [
+                        44.580787,
+                        33.093738
+                  ]
+            },
+            {
+                  "name": "Bany hjaim",
+                  "text": "Zonă de așezare tradițională în regiunea istorică Madain.",
+                  "category": "landmark",
+                  "coords": [
+                        44.635027,
+                        33.146579
+                  ]
+            },
+            {
+                  "name": "Qala Hamza",
+                  "text": "Ruina unei cetăți de cărămidă nearsă în zona arheologică Ctesifon.",
+                  "category": "castle",
+                  "coords": [
+                        44.616031,
+                        33.032699
+                  ]
+            },
+            {
+                  "name": "Hamzah",
+                  "text": "Rămășițele unui castel istoric situat în câmpia de lângă fluviul Tigru.",
+                  "category": "castle",
+                  "coords": [
+                        44.616759,
+                        33.033849
+                  ]
+            },
+            {
+                  "name": "Munir Beg",
+                  "text": "Ruine antice ale unei structuri de cărămidă nearsă în districtul Ctesifon.",
+                  "category": "historical",
+                  "coords": [
+                        44.633333,
+                        33.05
+                  ]
+            },
+            {
+                  "name": "Panorama of Al-Qadisiyyah",
+                  "text": "Monument inaugurat în 1980 pentru a comemora bătălia istorică de la al-Qadisiyyah.",
+                  "category": "historical",
+                  "coords": [
+                        44.588597,
+                        33.093497
+                  ]
+            },
+            {
+                  "name": "Mosque of Salman Al-Muhammadi",
+                  "text": "Important loc de pelerinaj care adăpostește sanctuarul lui Salman Persanul, un companion al Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.581522,
+                        33.098355
+                  ]
+            },
+            {
+                  "name": "Seleucia",
+                  "text": "Oraș elenistic major fondat în 305 î.Hr. de Seleucus I Nicator pe fluviul Tigru.",
+                  "category": "historical",
+                  "coords": [
+                        44.521348,
+                        33.095034
+                  ]
+            },
+            {
+                  "name": "Al-Furqan Mosque",
+                  "text": "Lăcaș de cult islamic local cu un minaret tradițional.",
+                  "category": "religious",
+                  "coords": [
+                        44.594468,
+                        33.094176
+                  ]
+            },
+            {
+                  "name": "Husseiniya (Religious Hall)",
+                  "text": "Sală de adunare șiită folosită pentru ceremonii de doliu și educație religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        44.594452,
+                        33.098484
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Moschee comunitară care servește ca centru pentru rugăciunile islamice zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        44.590971,
+                        33.103391
+                  ]
+            },
+            {
+                  "name": "Sa’d Ibn Abi Waqqas Mosque",
+                  "text": "Moschee numită în onoarea generalului care a condus cucerirea musulmană a Persiei.",
+                  "category": "religious",
+                  "coords": [
+                        44.584603,
+                        33.103803
+                  ]
+            },
+            {
+                  "name": "Al-Khulafa Mosque",
+                  "text": "Lăcaș de cult local pentru comunitatea musulmană din zona Salman Pak.",
+                  "category": "religious",
+                  "coords": [
+                        44.584111,
+                        33.107986
+                  ]
+            },
+            {
+                  "name": "Ahbab Al-Rasool Mosque (PBUH)",
+                  "text": "Moschee de cartier dedicată „Iubiților Profetului”.",
+                  "category": "religious",
+                  "coords": [
+                        44.680302,
+                        33.12647
+                  ]
+            },
+            {
+                  "name": "Hussainiya & Imam Ali Mosque",
+                  "text": "Complex religios care combină o moschee cu o sală comemorativă șiită.",
+                  "category": "religious",
+                  "coords": [
+                        44.65821,
+                        33.146705
+                  ]
+            },
+            {
+                  "name": "Al-Noor Mosque",
+                  "text": "Moschee modernă care servește ca centru spiritual pentru rezidenții locali.",
+                  "category": "religious",
+                  "coords": [
+                        44.663299,
+                        33.145844
+                  ]
+            },
+            {
+                  "name": "Amna Al-Sadr Bint Al-Huda",
+                  "text": "Sanctuar memorial dedicat influentei activiste și scriitoare șiite.",
+                  "category": "religious",
+                  "coords": [
+                        44.668574,
+                        33.13032
+                  ]
+            },
+            {
+                  "name": "Abi Dhar Al-Ghafari Mosque",
+                  "text": "Moschee numită după unul dintre cei mai ascetici și devotați companioni ai Profetului.",
+                  "category": "religious",
+                  "coords": [
+                        44.595902,
+                        33.100203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Opis",
+                  "text": "The ruins of an ancient Mesopotamian city on the Tigris, famous as the site of a major battle in 539 BCE.",
+                  "category": "historical",
+                  "coords": [
+                        44.522927,
+                        33.094636
+                  ]
+            },
+            {
+                  "name": "Khoké",
+                  "text": "An archaeological site representing part of the Sassanid-era city of Veh-Ardashir, near the Tigris.",
+                  "category": "historical",
+                  "coords": [
+                        44.552031,
+                        33.099142
+                  ]
+            },
+            {
+                  "name": "Taq Kasra",
+                  "text": "The world's largest single-span brick arch from the Sasanian era.",
+                  "category": "historical",
+                  "coords": [
+                        44.580787,
+                        33.093738
+                  ]
+            },
+            {
+                  "name": "Bany hjaim",
+                  "text": "Traditional settlement area in the historic Madain region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.635027,
+                        33.146579
+                  ]
+            },
+            {
+                  "name": "Qala Hamza",
+                  "text": "Ruined mud-brick fortress located within the Ctesiphon archaeological area.",
+                  "category": "castle",
+                  "coords": [
+                        44.616031,
+                        33.032699
+                  ]
+            },
+            {
+                  "name": "Hamzah",
+                  "text": "Historic castle remains situated in the plains near the Tigris River.",
+                  "category": "castle",
+                  "coords": [
+                        44.616759,
+                        33.033849
+                  ]
+            },
+            {
+                  "name": "Munir Beg",
+                  "text": "Ancient ruins of a mud-brick structure located in the Ctesiphon district.",
+                  "category": "historical",
+                  "coords": [
+                        44.633333,
+                        33.05
+                  ]
+            },
+            {
+                  "name": "Panorama of Al-Qadisiyyah",
+                  "text": "Monument inaugurated in 1980 to commemorate the historic Battle of al-Qadisiyyah.",
+                  "category": "historical",
+                  "coords": [
+                        44.588597,
+                        33.093497
+                  ]
+            },
+            {
+                  "name": "Mosque of Salman Al-Muhammadi",
+                  "text": "Important pilgrimage site housing the shrine of Salman the Persian, a companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.581522,
+                        33.098355
+                  ]
+            },
+            {
+                  "name": "Seleucia",
+                  "text": "Major Hellenistic city founded in 305 BC by Seleucus I Nicator on the Tigris River.",
+                  "category": "historical",
+                  "coords": [
+                        44.521348,
+                        33.095034
+                  ]
+            },
+            {
+                  "name": "Al-Furqan Mosque",
+                  "text": "Local Islamic place of worship featuring a traditional minaret.",
+                  "category": "religious",
+                  "coords": [
+                        44.594468,
+                        33.094176
+                  ]
+            },
+            {
+                  "name": "Husseiniya (Religious Hall)",
+                  "text": "Shia assembly hall used for mourning ceremonies and religious education.",
+                  "category": "religious",
+                  "coords": [
+                        44.594452,
+                        33.098484
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Community mosque serving as a center for daily Islamic prayers.",
+                  "category": "religious",
+                  "coords": [
+                        44.590971,
+                        33.103391
+                  ]
+            },
+            {
+                  "name": "Sa’d Ibn Abi Waqqas Mosque",
+                  "text": "Mosque named in honor of the general who led the Muslim conquest of Persia.",
+                  "category": "religious",
+                  "coords": [
+                        44.584603,
+                        33.103803
+                  ]
+            },
+            {
+                  "name": "Al-Khulafa Mosque",
+                  "text": "Local place of worship for the Muslim community in the Salman Pak area.",
+                  "category": "religious",
+                  "coords": [
+                        44.584111,
+                        33.107986
+                  ]
+            },
+            {
+                  "name": "Ahbab Al-Rasool Mosque (PBUH)",
+                  "text": "Neighborhood mosque dedicated to the \"Beloved of the Prophet.\"",
+                  "category": "religious",
+                  "coords": [
+                        44.680302,
+                        33.12647
+                  ]
+            },
+            {
+                  "name": "Hussainiya & Imam Ali Mosque",
+                  "text": "Religious complex combining a mosque with a Shia commemorative hall.",
+                  "category": "religious",
+                  "coords": [
+                        44.65821,
+                        33.146705
+                  ]
+            },
+            {
+                  "name": "Al-Noor Mosque",
+                  "text": "Modern mosque serving as a spiritual center for the local residents.",
+                  "category": "religious",
+                  "coords": [
+                        44.663299,
+                        33.145844
+                  ]
+            },
+            {
+                  "name": "Amna Al-Sadr Bint Al-Huda",
+                  "text": "Memorial shrine dedicated to the influential Shia activist and writer.",
+                  "category": "religious",
+                  "coords": [
+                        44.668574,
+                        33.13032
+                  ]
+            },
+            {
+                  "name": "Abi Dhar Al-Ghafari Mosque",
+                  "text": "Mosque named after one of the most ascetic and devoted companions of the Prophet.",
+                  "category": "religious",
+                  "coords": [
+                        44.595902,
+                        33.100203
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IQ-BG",
     coords: [44.5806, 33.0936],
@@ -238,7 +4693,520 @@ export const poiExtraIraqHistoryV2: POI[] = [
       en: ["The barrel vault of Taq Kasra is approximately 37 meters high and 25 meters wide.", "It is recognized as the world's largest free-standing arch made of unreinforced brick.", "The structure served as the main hall of the Sasanian palace in Ctesiphon.", "In 1888, a major portion of the right palace facade collapsed during a flood.", "Ctesiphon served for centuries as the capital of the Sasanian Empire.", "The monument is located about 35 kilometers southeast of present-day Baghdad."],
     }, image: "/poi-images/taq-kasra-history-v2.webp"},
   {
-    id: "assur-history-v2",
+    id: "assur-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kharaib al Ashuriyin",
+                  "text": "Antike assyrische Überreste und Ruinen in der historischen archäologischen Landschaft von Assur.",
+                  "category": "historical",
+                  "coords": [
+                        43.257712,
+                        35.456143
+                  ]
+            },
+            {
+                  "name": "Albokhtab Hall",
+                  "text": "Ein befestigtes historisches Bauwerk oder eine Burganlage im antiken Stadtgebiet von Assur.",
+                  "category": "castle",
+                  "coords": [
+                        43.314084,
+                        35.450646
+                  ]
+            },
+            {
+                  "name": "Albokhatab Hall",
+                  "text": "Die Ruinen einer historischen Halle oder Festung in der Nähe der antiken Mauern der ersten assyrischen Hauptstadt.",
+                  "category": "castle",
+                  "coords": [
+                        43.31059,
+                        35.450537
+                  ]
+            },
+            {
+                  "name": "Kar-Tukulti-Ninurta",
+                  "text": "Ein antikes assyrisches Kultzentrum und eine königliche Residenz am östlichen Ufer des Tigris.",
+                  "category": "historical",
+                  "coords": [
+                        43.270297,
+                        35.49472
+                  ]
+            },
+            {
+                  "name": "Ashur (Qal'at Sherqat)",
+                  "text": "Die erste Hauptstadt des Assyrischen Reiches und eine UNESCO-Welterbestätte mit Blick auf den Tigris.",
+                  "category": "historical",
+                  "coords": [
+                        43.261103,
+                        35.455747
+                  ]
+            },
+            {
+                  "name": "New Palace",
+                  "text": "Die archäologischen Überreste einer königlichen Residenz aus der mittelassyrischen Zeit in Assur.",
+                  "category": "historical",
+                  "coords": [
+                        43.256067,
+                        35.458158
+                  ]
+            },
+            {
+                  "name": "Akitu-house",
+                  "text": "Eine antike zeremonielle Stätte, die für die assyrischen Neujahrsfeste außerhalb der Stadtmauern genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        43.25345,
+                        35.460534
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Assur",
+                  "text": "Die massiven, verwitterten Überreste einer Stufenpyramide, die dem obersten Gott der Assyrer gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        43.261161,
+                        35.459705
+                  ]
+            },
+            {
+                  "name": "Neo-Assyrian Temple of of Sîn and Šamaš",
+                  "text": "Archäologische Ruinen eines neuassyrischen Tempels, der dem Mondgott Sin und dem Sonnengott Schamasch gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        43.259769,
+                        35.458023
+                  ]
+            },
+            {
+                  "name": "Old Palace",
+                  "text": "Die Fundamentreste des frühesten Königspalastes in der antiken assyrischen Hauptstadt Assur.",
+                  "category": "historical",
+                  "coords": [
+                        43.259951,
+                        35.459042
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Anu",
+                  "text": "Die archäologische Stätte einer antiken Stufenpyramide, die Anu, dem Gott des Himmels, geweiht war.",
+                  "category": "historical",
+                  "coords": [
+                        43.258561,
+                        35.459137
+                  ]
+            },
+            {
+                  "name": "Temple of Nabu at Assur",
+                  "text": "Antike Tempelruinen, die Nabu gewidmet waren, dem assyrischen Gott der Weisheit und der Schreibkunst.",
+                  "category": "historical",
+                  "coords": [
+                        43.258597,
+                        35.45736
+                  ]
+            },
+            {
+                  "name": "Temple of Assur",
+                  "text": "Der wichtigste religiöse Komplex, der dem Nationalgott Assur am nördlichen Stadtrand gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        43.262727,
+                        35.460327
+                  ]
+            },
+            {
+                  "name": "Crown Prince's Palace",
+                  "text": "Ruinen des Palastes, der traditionell dem assyrischen Kronprinzen vorbehalten war.",
+                  "category": "historical",
+                  "coords": [
+                        43.264908,
+                        35.455885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kharaib al Ashuriyin",
+                  "text": "Ősi asszír maradványok és romok Assur történelmi régészeti táján.",
+                  "category": "historical",
+                  "coords": [
+                        43.257712,
+                        35.456143
+                  ]
+            },
+            {
+                  "name": "Albokhtab Hall",
+                  "text": "Erődített történelmi építmény vagy várhelyszín Assur ősi városterületén belül.",
+                  "category": "castle",
+                  "coords": [
+                        43.314084,
+                        35.450646
+                  ]
+            },
+            {
+                  "name": "Albokhatab Hall",
+                  "text": "Egy történelmi csarnok vagy erőd romjai az első asszír főváros ősi falainak közelében.",
+                  "category": "castle",
+                  "coords": [
+                        43.31059,
+                        35.450537
+                  ]
+            },
+            {
+                  "name": "Kar-Tukulti-Ninurta",
+                  "text": "Ősi asszír kultuszközpont és királyi rezidencia a Tigris keleti partján.",
+                  "category": "historical",
+                  "coords": [
+                        43.270297,
+                        35.49472
+                  ]
+            },
+            {
+                  "name": "Ashur (Qal'at Sherqat)",
+                  "text": "Az Asszír Birodalom első fővárosa és a Tigrisre néző UNESCO világörökségi helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        43.261103,
+                        35.455747
+                  ]
+            },
+            {
+                  "name": "New Palace",
+                  "text": "Egy közép-asszír korból származó királyi rezidencia régészeti maradványai Assurban.",
+                  "category": "historical",
+                  "coords": [
+                        43.256067,
+                        35.458158
+                  ]
+            },
+            {
+                  "name": "Akitu-house",
+                  "text": "Egy ősi ünnepi épülethelyszín, amelyet az asszír újévi fesztiválokhoz használtak a városfalakon kívül.",
+                  "category": "historical",
+                  "coords": [
+                        43.25345,
+                        35.460534
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Assur",
+                  "text": "Az asszírok legfőbb istenének szentelt lépcsős piramis hatalmas, megkopott maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        43.261161,
+                        35.459705
+                  ]
+            },
+            {
+                  "name": "Neo-Assyrian Temple of of Sîn and Šamaš",
+                  "text": "A holdistennek, Színnek és a napistennek, Samasnak szentelt újasszír templom régészeti romjai.",
+                  "category": "historical",
+                  "coords": [
+                        43.259769,
+                        35.458023
+                  ]
+            },
+            {
+                  "name": "Old Palace",
+                  "text": "A legkorábbi királyi palota alapmaradványai Assur ősi asszír fővárosában.",
+                  "category": "historical",
+                  "coords": [
+                        43.259951,
+                        35.459042
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Anu",
+                  "text": "Anu égistennek szentelt ősi lépcsős piramis régészeti helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        43.258561,
+                        35.459137
+                  ]
+            },
+            {
+                  "name": "Temple of Nabu at Assur",
+                  "text": "Nabu asszír bölcsesség- és írásistennek szentelt ősi templomromok.",
+                  "category": "historical",
+                  "coords": [
+                        43.258597,
+                        35.45736
+                  ]
+            },
+            {
+                  "name": "Temple of Assur",
+                  "text": "A nemzeti istennek, Assurnak szentelt elsődleges vallási komplexum a város északi szélén.",
+                  "category": "historical",
+                  "coords": [
+                        43.262727,
+                        35.460327
+                  ]
+            },
+            {
+                  "name": "Crown Prince's Palace",
+                  "text": "Az asszír trónörökös számára fenntartott palota régészeti romjai.",
+                  "category": "historical",
+                  "coords": [
+                        43.264908,
+                        35.455885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kharaib al Ashuriyin",
+                  "text": "Vestigii și ruine asiriene antice situate în peisajul arheologic istoric din Assur.",
+                  "category": "historical",
+                  "coords": [
+                        43.257712,
+                        35.456143
+                  ]
+            },
+            {
+                  "name": "Albokhtab Hall",
+                  "text": "O structură istorică fortificată sau un sit de castel situat în zona orașului antic Assur.",
+                  "category": "castle",
+                  "coords": [
+                        43.314084,
+                        35.450646
+                  ]
+            },
+            {
+                  "name": "Albokhatab Hall",
+                  "text": "Ruinele unei săli istorice sau ale unei fortificații în apropierea zidurilor antice ale primei capitale asiriene.",
+                  "category": "castle",
+                  "coords": [
+                        43.31059,
+                        35.450537
+                  ]
+            },
+            {
+                  "name": "Kar-Tukulti-Ninurta",
+                  "text": "Un centru de cult asirian antic și reședință regală fondată pe malul estic al Tigrului.",
+                  "category": "historical",
+                  "coords": [
+                        43.270297,
+                        35.49472
+                  ]
+            },
+            {
+                  "name": "Ashur (Qal'at Sherqat)",
+                  "text": "Prima capitală a Imperiului Asirian și un sit al Patrimoniului Mondial UNESCO cu vedere la Tigru.",
+                  "category": "historical",
+                  "coords": [
+                        43.261103,
+                        35.455747
+                  ]
+            },
+            {
+                  "name": "New Palace",
+                  "text": "Rămășițele arheologice ale unei reședințe regale datând din perioada asiriană mijlocie în Assur.",
+                  "category": "historical",
+                  "coords": [
+                        43.256067,
+                        35.458158
+                  ]
+            },
+            {
+                  "name": "Akitu-house",
+                  "text": "Un sit ceremonial antic utilizat pentru festivalurile de Anul Nou asirian în afara zidurilor orașului.",
+                  "category": "historical",
+                  "coords": [
+                        43.25345,
+                        35.460534
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Assur",
+                  "text": "Rămășițele masive ale unei piramide în trepte dedicate zeului suprem al asirienilor.",
+                  "category": "historical",
+                  "coords": [
+                        43.261161,
+                        35.459705
+                  ]
+            },
+            {
+                  "name": "Neo-Assyrian Temple of of Sîn and Šamaš",
+                  "text": "Ruinele arheologice ale unui templu neo-asirian dedicat zeului lunii Sin și zeului soarelui Shamash.",
+                  "category": "historical",
+                  "coords": [
+                        43.259769,
+                        35.458023
+                  ]
+            },
+            {
+                  "name": "Old Palace",
+                  "text": "Resturile de fundație ale celui mai vechi palat regal din antica capitală asiriană Assur.",
+                  "category": "historical",
+                  "coords": [
+                        43.259951,
+                        35.459042
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Anu",
+                  "text": "Sit arheologic al unei piramide în trepte antice consacrate lui Anu, zeul cerului.",
+                  "category": "historical",
+                  "coords": [
+                        43.258561,
+                        35.459137
+                  ]
+            },
+            {
+                  "name": "Temple of Nabu at Assur",
+                  "text": "Ruinele unui templu antic dedicat lui Nabu, zeul asirian al înțelepciunii și scrierii.",
+                  "category": "historical",
+                  "coords": [
+                        43.258597,
+                        35.45736
+                  ]
+            },
+            {
+                  "name": "Temple of Assur",
+                  "text": "Principalul complex religios dedicat zeului național Assur, situat la marginea de nord a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        43.262727,
+                        35.460327
+                  ]
+            },
+            {
+                  "name": "Crown Prince's Palace",
+                  "text": "Ruinele arheologice ale palatului rezervat tradițional prințului moștenitor asirian.",
+                  "category": "historical",
+                  "coords": [
+                        43.264908,
+                        35.455885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kharaib al Ashuriyin",
+                  "text": "Ancient Assyrian remains and ruins located in the historic archaeological landscape of Assur.",
+                  "category": "historical",
+                  "coords": [
+                        43.257712,
+                        35.456143
+                  ]
+            },
+            {
+                  "name": "Albokhtab Hall",
+                  "text": "A fortified historic structure or castle site situated within the ancient city area of Assur.",
+                  "category": "castle",
+                  "coords": [
+                        43.314084,
+                        35.450646
+                  ]
+            },
+            {
+                  "name": "Albokhatab Hall",
+                  "text": "The ruins of a historic hall or fortification near the ancient walls of the first Assyrian capital.",
+                  "category": "castle",
+                  "coords": [
+                        43.31059,
+                        35.450537
+                  ]
+            },
+            {
+                  "name": "Kar-Tukulti-Ninurta",
+                  "text": "An ancient Assyrian cult center and royal residence founded on the eastern bank of the Tigris.",
+                  "category": "historical",
+                  "coords": [
+                        43.270297,
+                        35.49472
+                  ]
+            },
+            {
+                  "name": "Ashur (Qal'at Sherqat)",
+                  "text": "The first capital of the Assyrian Empire and a UNESCO World Heritage Site overlooking the Tigris.",
+                  "category": "historical",
+                  "coords": [
+                        43.261103,
+                        35.455747
+                  ]
+            },
+            {
+                  "name": "New Palace",
+                  "text": "The archaeological remains of a royal residence dating back to the Middle Assyrian period in Assur.",
+                  "category": "historical",
+                  "coords": [
+                        43.256067,
+                        35.458158
+                  ]
+            },
+            {
+                  "name": "Akitu-house",
+                  "text": "An ancient ceremonial building site used for the Assyrian New Year festivals outside the city walls.",
+                  "category": "historical",
+                  "coords": [
+                        43.25345,
+                        35.460534
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Assur",
+                  "text": "The massive, weathered remains of a stepped pyramid dedicated to the supreme god of the Assyrians.",
+                  "category": "historical",
+                  "coords": [
+                        43.261161,
+                        35.459705
+                  ]
+            },
+            {
+                  "name": "Neo-Assyrian Temple of of Sîn and Šamaš",
+                  "text": "Archaeological ruins of a Neo-Assyrian temple dedicated to the moon god Sin and the sun god Shamash.",
+                  "category": "historical",
+                  "coords": [
+                        43.259769,
+                        35.458023
+                  ]
+            },
+            {
+                  "name": "Old Palace",
+                  "text": "The foundational remains of the earliest royal palace in the ancient Assyrian capital of Assur.",
+                  "category": "historical",
+                  "coords": [
+                        43.259951,
+                        35.459042
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Anu",
+                  "text": "The archaeological site of an ancient stepped pyramid consecrated to Anu, the god of the sky.",
+                  "category": "historical",
+                  "coords": [
+                        43.258561,
+                        35.459137
+                  ]
+            },
+            {
+                  "name": "Temple of Nabu at Assur",
+                  "text": "Ancient temple ruins dedicated to Nabu, the Assyrian god of wisdom and writing.",
+                  "category": "historical",
+                  "coords": [
+                        43.258597,
+                        35.45736
+                  ]
+            },
+            {
+                  "name": "Temple of Assur",
+                  "text": "The primary religious complex dedicated to the national god Assur on the northern edge of the city.",
+                  "category": "historical",
+                  "coords": [
+                        43.262727,
+                        35.460327
+                  ]
+            },
+            {
+                  "name": "Crown Prince's Palace",
+                  "text": "Ruined archaeological remains of the palace traditionally reserved for the Assyrian crown prince.",
+                  "category": "historical",
+                  "coords": [
+                        43.264908,
+                        35.455885
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IQ-SD",
     coords: [43.2625, 35.4561],
@@ -273,7 +5241,52 @@ export const poiExtraIraqHistoryV2: POI[] = [
       fr: ["Assur a été fondée au IIIe millénaire avant J.-C. comme centre commercial sur le Tigre.", "La ville abritait plus de 34 temples dédiés à diverses divinités assyriennes.", "Le temple principal du dieu Assur possédait une immense ziggourat visible de loin.", "En 614 avant J.-C., la ville est tombée aux mains des troupes coalisées des Mèdes.", "Le site a été déclaré simultanément patrimoine mondial de l'UNESCO et patrimoine en péril en 2003.", "Des archéologues allemands dirigés par Walter Andrae ont fouillé Assur entre 1903 et 1913."],
     }, image: "/poi-images/assur-history-v2.webp"},
   {
-    id: "al-ukhaidir-fortress-history-v2",
+    id: "al-ukhaidir-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Ukhaidir Fortress",
+                  "text": "Die Festung Al-Ukhaidir stammt aus dem Jahr 775 und ist eine massive frühislamische Verteidigungsanlage.",
+                  "category": "landmark",
+                  "coords": [
+                        43.60271,
+                        32.440507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ukhaidir-Acajaja erőd",
+                  "text": "A 775-ből származó Al-Ukhaidir erőd egy hatalmas kora iszlám védelmi építmény.",
+                  "category": "landmark",
+                  "coords": [
+                        43.60271,
+                        32.440507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Ukhaidir Fortress",
+                  "text": "Datând din anul 775, Fortăreața Al-Ukhaidir este o structură defensivă masivă de la începutul islamului.",
+                  "category": "landmark",
+                  "coords": [
+                        43.60271,
+                        32.440507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Ukhaidir Fortress",
+                  "text": "Dating back to the year 775, Al-Ukhaidir Fortress is a massive early Islamic defensive structure.",
+                  "category": "landmark",
+                  "coords": [
+                        43.60271,
+                        32.440507
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IQ-KA",
     coords: [43.6022, 32.4358],
@@ -308,7 +5321,592 @@ export const poiExtraIraqHistoryV2: POI[] = [
       fr: ["La forteresse a été construite vers 775 après J.-C. par Isa ibn Musa.", "Les murs extérieurs mesurent environ 175 sur 169 mètres.", "Le site dispose de quatre portes principales, une à chaque point cardinal.", "Des tours circulaires aux angles renforcent l'imposant système défensif.", "C'est l'un des exemples les mieux conservés de l'architecture abbasside du désert.", "La structure comprend une mosquée intégrée pour les habitants."],
     }, image: "/poi-images/al-ukhaidir-fortress-history-v2.webp"},
   {
-    id: "dur-kurigalzu-history-v2",
+    id: "dur-kurigalzu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "court",
+                  "text": "Die Ruinen eines antiken Palasthofes in der einstigen kassitischen Hauptstadt.",
+                  "category": "castle",
+                  "coords": [
+                        44.198098,
+                        33.30794
+                  ]
+            },
+            {
+                  "name": "Tall Abu Safa",
+                  "text": "Eine topografische Erhebung, die Ausblicke über die mesopotamische Ebene bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.188658,
+                        33.290138
+                  ]
+            },
+            {
+                  "name": "Camp Liberty",
+                  "text": "Eine ehemalige Militäranlage, die heute für zivile Zwecke und Unterkünfte genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        44.247216,
+                        33.299494
+                  ]
+            },
+            {
+                  "name": "Akarkuf;Aqarquf",
+                  "text": "Diese antike archäologische Stätte wurde um 1300 v. Chr. als Hauptstadt Dur-Kurigalzu gegründet.",
+                  "category": "historical",
+                  "coords": [
+                        44.187616,
+                        33.362348
+                  ]
+            },
+            {
+                  "name": "Dur-Kurigalzu ziggurat",
+                  "text": "Ein beeindruckender Turmbau aus Lehmziegeln, der bis ins 14. Jahrhundert v. Chr. zurückreicht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.202255,
+                        33.353753
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine lokale muslimische Gebetsstätte im Dorf nahe den antiken Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.261385,
+                        33.371078
+                  ]
+            },
+            {
+                  "name": "Imam Jafar Al-Tayar Mosque",
+                  "text": "Ein religiöses Heiligtum, das dem Gefährten des Prophets gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.258756,
+                        33.360643
+                  ]
+            },
+            {
+                  "name": "Ahl Al-Bait Mosque",
+                  "text": "Eine Stadtteilmoschee, benannt nach der Familie des Propheten Mohammed.",
+                  "category": "landmark",
+                  "coords": [
+                        44.254031,
+                        33.365052
+                  ]
+            },
+            {
+                  "name": "Al-Muhajirin and Al-Ansar Mosque",
+                  "text": "Eine religiöse Stätte zu Ehren der frühen Anhänger des Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        44.239987,
+                        33.36047
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Muntazr Mosque",
+                  "text": "Eine schiitische Gebetsstätte, die dem verborgenen Mahdi gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.259359,
+                        33.346314
+                  ]
+            },
+            {
+                  "name": "Al-Hadithi Mosque",
+                  "text": "Eine Moschee für die lokale Gemeinschaft in der Nähe der Ausgrabungsstätte Dur-Kurigalzu.",
+                  "category": "landmark",
+                  "coords": [
+                        44.264643,
+                        33.341322
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Sadq Mosque",
+                  "text": "Eine religiöse Stätte, die nach dem sechsten schiitischen Imam benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.266922,
+                        33.360252
+                  ]
+            },
+            {
+                  "name": "Alrahman mosque",
+                  "text": "Eine Gemeindemoschee für die täglichen islamischen Gebete und Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        44.190013,
+                        33.30627
+                  ]
+            },
+            {
+                  "name": "Mosque of Hamza Bin Abdul Muttalib",
+                  "text": "Ein Gebetssaal, benannt nach Hamza Bin Abdul Muttalib, dem \"Löwen Gottes\".",
+                  "category": "religious",
+                  "coords": [
+                        44.184,
+                        33.3031
+                  ]
+            },
+            {
+                  "name": "Hassan Mosque",
+                  "text": "Eine kleine Stadtteilmoschee, die einen Raum für geistige Einkehr bietet.",
+                  "category": "religious",
+                  "coords": [
+                        44.1787,
+                        33.2999
+                  ]
+            },
+            {
+                  "name": "Al-Lif Al-Khbeer Mosque",
+                  "text": "Ein lokales Gotteshaus für die muslimische Gemeinschaft in der Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        44.1676,
+                        33.413283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "court",
+                  "text": "Egy ősi palotaudvar romjai az egykori kasszita fővárosban.",
+                  "category": "castle",
+                  "coords": [
+                        44.198098,
+                        33.30794
+                  ]
+            },
+            {
+                  "name": "Tall Abu Safa",
+                  "text": "Topográfiai kiemelkedés, amely kilátást nyújt a mezopotámiai síkságra.",
+                  "category": "natural",
+                  "coords": [
+                        44.188658,
+                        33.290138
+                  ]
+            },
+            {
+                  "name": "Camp Liberty",
+                  "text": "Egykori katonai létesítmény, amelyet ma civil célokra és szálláshelyként használnak.",
+                  "category": "fortress",
+                  "coords": [
+                        44.247216,
+                        33.299494
+                  ]
+            },
+            {
+                  "name": "Akarkuf",
+                  "text": "Ezt az ősi régészeti lelőhelyet i. e. 1300 körül alapították Dur-Kurigalzu fővárosaként.",
+                  "category": "historical",
+                  "coords": [
+                        44.187616,
+                        33.362348
+                  ]
+            },
+            {
+                  "name": "Dur-Kurigalzu ziggurat",
+                  "text": "Lenyűgöző agyagtégla toronyépítmény, amely az i. e. 14. századig nyúlik vissza.",
+                  "category": "landmark",
+                  "coords": [
+                        44.202255,
+                        33.353753
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Helyi muszlim imaház az antik romok közeli faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.261385,
+                        33.371078
+                  ]
+            },
+            {
+                  "name": "Imam Jafar Al-Tayar Mosque",
+                  "text": "Vallási szentély, amelyet a Próféta társának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.258756,
+                        33.360643
+                  ]
+            },
+            {
+                  "name": "Ahl Al-Bait Mosque",
+                  "text": "A Mohamed próféta családjáról elnevezett környékbeli mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        44.254031,
+                        33.365052
+                  ]
+            },
+            {
+                  "name": "Al-Muhajirin and Al-Ansar Mosque",
+                  "text": "Vallási helyszín az iszlám korai követőinek tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        44.239987,
+                        33.36047
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Muntazr Mosque",
+                  "text": "Síita imaház, amelyet a rejtőzködő Mahdinak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.259359,
+                        33.346314
+                  ]
+            },
+            {
+                  "name": "Al-Hadithi Mosque",
+                  "text": "Mecset a helyi közösség számára a Dur-Kurigalzu régészeti lelőhely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.264643,
+                        33.341322
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Sadq Mosque",
+                  "text": "A hatodik síita imámról elnevezett vallási helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        44.266922,
+                        33.360252
+                  ]
+            },
+            {
+                  "name": "Alrahman mosque",
+                  "text": "Közösségi mecset a napi iszlám imákhoz és összejövetelekhez.",
+                  "category": "religious",
+                  "coords": [
+                        44.190013,
+                        33.30627
+                  ]
+            },
+            {
+                  "name": "Mosque of Hamza Bin Abdul Muttalib",
+                  "text": "Imaház Hamza Bin Abdul Muttalibról, „Isten oroszlánjáról” elnevezve.",
+                  "category": "religious",
+                  "coords": [
+                        44.184,
+                        33.3031
+                  ]
+            },
+            {
+                  "name": "Hassan Mosque",
+                  "text": "Kis környékbeli mecset, amely helyet biztosít a lelki elmélyüléshez.",
+                  "category": "religious",
+                  "coords": [
+                        44.1787,
+                        33.2999
+                  ]
+            },
+            {
+                  "name": "Al-Lif Al-Khbeer Mosque",
+                  "text": "Helyi istentiszteleti hely a környékbeli muszlim közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        44.1676,
+                        33.413283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "court",
+                  "text": "Ruinele unei curți de palat antice în fosta capitală casită.",
+                  "category": "castle",
+                  "coords": [
+                        44.198098,
+                        33.30794
+                  ]
+            },
+            {
+                  "name": "Tall Abu Safa",
+                  "text": "O proeminență topografică ce oferă priveliști asupra câmpiei mesopotamiene.",
+                  "category": "natural",
+                  "coords": [
+                        44.188658,
+                        33.290138
+                  ]
+            },
+            {
+                  "name": "Camp Liberty",
+                  "text": "O fostă instalație militară utilizată astăzi în scopuri civile și pentru cazare.",
+                  "category": "fortress",
+                  "coords": [
+                        44.247216,
+                        33.299494
+                  ]
+            },
+            {
+                  "name": "Akarkuf",
+                  "text": "Acest sit arheologic antic a fost fondat în jurul anului 1300 î.Hr. ca capitală Dur-Kurigalzu.",
+                  "category": "historical",
+                  "coords": [
+                        44.187616,
+                        33.362348
+                  ]
+            },
+            {
+                  "name": "Dur-Kurigalzu ziggurat",
+                  "text": "O impresionantă structură de tip turn din cărămidă nearsă, datând din secolul al XIV-lea î.Hr.",
+                  "category": "landmark",
+                  "coords": [
+                        44.202255,
+                        33.353753
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un lăcaș de rugăciune musulman local în satul de lângă ruinele antice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.261385,
+                        33.371078
+                  ]
+            },
+            {
+                  "name": "Imam Jafar Al-Tayar Mosque",
+                  "text": "Un sanctuar religios dedicat însoțitorului Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.258756,
+                        33.360643
+                  ]
+            },
+            {
+                  "name": "Ahl Al-Bait Mosque",
+                  "text": "O moschee de cartier numită după familia profetului Mahomed.",
+                  "category": "landmark",
+                  "coords": [
+                        44.254031,
+                        33.365052
+                  ]
+            },
+            {
+                  "name": "Al-Muhajirin and Al-Ansar Mosque",
+                  "text": "Un sit religios în onoarea primilor adepți ai islamului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.239987,
+                        33.36047
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Muntazr Mosque",
+                  "text": "Un lăcaș de rugăciune șiit dedicat lui Mahdi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.259359,
+                        33.346314
+                  ]
+            },
+            {
+                  "name": "Al-Hadithi Mosque",
+                  "text": "O moschee pentru comunitatea locală din apropierea sitului arheologic Dur-Kurigalzu.",
+                  "category": "landmark",
+                  "coords": [
+                        44.264643,
+                        33.341322
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Sadq Mosque",
+                  "text": "Un sit religios numit după cel de-al șaselea imam șiit.",
+                  "category": "landmark",
+                  "coords": [
+                        44.266922,
+                        33.360252
+                  ]
+            },
+            {
+                  "name": "Alrahman mosque",
+                  "text": "O moschee comunitară pentru rugăciunile și adunările islamice zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        44.190013,
+                        33.30627
+                  ]
+            },
+            {
+                  "name": "Mosque of Hamza Bin Abdul Muttalib",
+                  "text": "O sală de rugăciune numită după Hamza Bin Abdul Muttalib, „Leul lui Allah”.",
+                  "category": "religious",
+                  "coords": [
+                        44.184,
+                        33.3031
+                  ]
+            },
+            {
+                  "name": "Hassan Mosque",
+                  "text": "O mică moschee de cartier care oferă un spațiu pentru reflecție spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        44.1787,
+                        33.2999
+                  ]
+            },
+            {
+                  "name": "Al-Lif Al-Khbeer Mosque",
+                  "text": "Un lăcaș de cult local pentru comunitatea musulmană din împrejurimi.",
+                  "category": "religious",
+                  "coords": [
+                        44.1676,
+                        33.413283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "court",
+                  "text": "The ruins of an ancient palace courtyard located within the historic Kassite capital complex.",
+                  "category": "castle",
+                  "coords": [
+                        44.198098,
+                        33.30794
+                  ]
+            },
+            {
+                  "name": "Tall Abu Safa",
+                  "text": "A topographic eminence in the landscape offering views across the Mesopotamian plains.",
+                  "category": "natural",
+                  "coords": [
+                        44.188658,
+                        33.290138
+                  ]
+            },
+            {
+                  "name": "Camp Liberty",
+                  "text": "A former military installation that has transitioned to use for civilian housing and services.",
+                  "category": "fortress",
+                  "coords": [
+                        44.247216,
+                        33.299494
+                  ]
+            },
+            {
+                  "name": "Akarkuf",
+                  "text": "An ancient archaeological site founded around 1300 BC as the Kassite capital of Dur-Kurigalzu.",
+                  "category": "historical",
+                  "coords": [
+                        44.187616,
+                        33.362348
+                  ]
+            },
+            {
+                  "name": "Dur-Kurigalzu ziggurat",
+                  "text": "An impressive mud-brick ziggurat tower dating back to the 14th century BC.",
+                  "category": "landmark",
+                  "coords": [
+                        44.202255,
+                        33.353753
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local Muslim prayer site serving the village community near the ancient archaeological ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        44.261385,
+                        33.371078
+                  ]
+            },
+            {
+                  "name": "Imam Jafar Al-Tayar Mosque",
+                  "text": "A religious sanctuary dedicated to the memory of a prominent companion of the Prophet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.258756,
+                        33.360643
+                  ]
+            },
+            {
+                  "name": "Ahl Al-Bait Mosque",
+                  "text": "A neighborhood mosque named in honor of the family of the Prophet Muhammad.",
+                  "category": "landmark",
+                  "coords": [
+                        44.254031,
+                        33.365052
+                  ]
+            },
+            {
+                  "name": "Al-Muhajirin and Al-Ansar Mosque",
+                  "text": "A local religious site dedicated to the memory of the early followers of Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        44.239987,
+                        33.36047
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Muntazr Mosque",
+                  "text": "A Shia place of worship dedicated to the Mahdi, a central figure in Islamic eschatology.",
+                  "category": "landmark",
+                  "coords": [
+                        44.259359,
+                        33.346314
+                  ]
+            },
+            {
+                  "name": "Al-Hadithi Mosque",
+                  "text": "A mosque serving the local community near the Dur-Kurigalzu archaeological site.",
+                  "category": "landmark",
+                  "coords": [
+                        44.264643,
+                        33.341322
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Sadq Mosque",
+                  "text": "A religious site named after the sixth Shia Imam, Jafar al-Sadiq.",
+                  "category": "landmark",
+                  "coords": [
+                        44.266922,
+                        33.360252
+                  ]
+            },
+            {
+                  "name": "Alrahman mosque",
+                  "text": "A community mosque used for daily Islamic prayers and local religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        44.190013,
+                        33.30627
+                  ]
+            },
+            {
+                  "name": "Mosque of Hamza Bin Abdul Muttalib",
+                  "text": "A prayer hall named after Hamza Bin Abdul Muttalib, historically known as the 'Lion of Allah'.",
+                  "category": "religious",
+                  "coords": [
+                        44.184,
+                        33.3031
+                  ]
+            },
+            {
+                  "name": "Hassan Mosque",
+                  "text": "A small neighborhood mosque providing a peaceful space for spiritual reflection and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        44.1787,
+                        33.2999
+                  ]
+            },
+            {
+                  "name": "Al-Lif Al-Khbeer Mosque",
+                  "text": "A local place of worship serving the spiritual needs of the nearby Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        44.1676,
+                        33.413283
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IQ-BG",
     coords: [44.1989, 33.3536],
@@ -343,7 +5941,88 @@ export const poiExtraIraqHistoryV2: POI[] = [
       fr: ["La ville a été fondée au XIVe siècle avant J.-C. par Kurigalzu Ier.", "La ziggourat d'Aqar Quf était dédiée au dieu principal Enlil.", "Elle atteignait à l'origine une hauteur estimée à environ 52 mètres.", "Des couches de roseaux entre les briques servaient de renforcement structurel.", "Le site se trouve à environ 30 kilomètres à l'ouest de la Bagdad moderne.", "La cité servait de rempart stratégique contre les invasions assyriennes."],
     }, image: "/poi-images/dur-kurigalzu-history-v2.webp"},
   {
-    id: "borsippa-history-v2",
+    id: "borsippa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eurmeiminanki",
+                  "text": "Eurmeiminanki ist die imposante antike Zikkurat von Borsippa, die historisch dem Gott Nabu geweiht war. Diese hoch aufragende archäologische Stätte besteht aus massiven Lehmziegelruinen, die einst für den Turm zu Babel gehalten wurden.",
+                  "category": "historical",
+                  "coords": [
+                        44.341738,
+                        32.391771
+                  ]
+            },
+            {
+                  "name": "hot",
+                  "text": "Diese natürliche heiße Quelle in der Nähe von Borsippa bietet geothermisch erhitztes Wasser in einem Gebiet, das ansonsten für seine historischen Ruinen bekannt ist. Die warmen Becken bieten eine erholsame Pause inmitten der antiken Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        44.374052,
+                        32.443609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eurmeiminanki",
+                  "text": "Az Eurmeiminanki Borszippa impozáns ősi zikkuratja, amelyet történelmileg Nabu istennek szenteltek. Ez a tornyosuló régészeti lelőhely hatalmas vályogtégla romokból áll, amelyeket egykor a bábeli toronynak hittek.",
+                  "category": "historical",
+                  "coords": [
+                        44.341738,
+                        32.391771
+                  ]
+            },
+            {
+                  "name": "hot",
+                  "text": "Ez a Borszippa közelében található természetes meleg vizű forrás geotermikusan fűtött vizet biztosít egy olyan területen, amely egyébként történelmi romjairól ismert. A meleg medencék pihentető kikapcsolódást nyújtanak az ősi tájban.",
+                  "category": "natural",
+                  "coords": [
+                        44.374052,
+                        32.443609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eurmeiminanki",
+                  "text": "Eurmeiminanki este impozantul zigurat antic din Borsippa, dedicat istoric zeului Nabu. Acest sit arheologic impunător constă din ruine masive de cărămidă din lut, care odată se credea că sunt Turnul Babel.",
+                  "category": "historical",
+                  "coords": [
+                        44.341738,
+                        32.391771
+                  ]
+            },
+            {
+                  "name": "hot",
+                  "text": "Acest izvor termal natural din apropiere de Borsippa oferă ape încălzite geotermal într-o zonă cunoscută altfel pentru ruinele sale istorice. Bazinele calde oferă un răgaz de relaxare în mijlocul peisajului antic.",
+                  "category": "natural",
+                  "coords": [
+                        44.374052,
+                        32.443609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eurmeiminanki",
+                  "text": "Eurmeiminanki is the imposing ancient ziggurat of Borsippa, historically dedicated to the god Nabu. This towering archaeological site consists of massive mud-brick ruins that were once believed to be the Tower of Babel.",
+                  "category": "historical",
+                  "coords": [
+                        44.341738,
+                        32.391771
+                  ]
+            },
+            {
+                  "name": "hot",
+                  "text": "This natural hot spring near Borsippa provides geothermally heated waters in an area otherwise known for its historical ruins. The warm pools offer a relaxing respite amid the ancient landscape.",
+                  "category": "natural",
+                  "coords": [
+                        44.374052,
+                        32.443609
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IQ-BB",
     coords: [44.3414, 32.3922],
@@ -378,7 +6057,160 @@ export const poiExtraIraqHistoryV2: POI[] = [
       fr: ["Borsippa est située à environ 18 kilomètres au sud-ouest de Babylone.", "La ziggourat Birs Nimrud est dédiée au dieu Nabû.", "Les ruines actuelles de la ziggourat s'élèvent encore à 44 mètres.", "Nabuchodonosor II fit rénover le temple Ezida au VIe siècle avant J.-C.", "Les anciens voyageurs prenaient souvent le site pour la tour de Babel biblique.", "La ville était un centre de premier plan pour l'écriture cunéiforme et l'astronomie."],
     }, image: "/poi-images/borsippa-history-v2.webp"},
   {
-    id: "uruk-history-v2",
+    id: "uruk-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akkadian Uruk",
+                  "text": "Die Ruinen der antiken sumerischen Stadt Uruk, eine der ersten großen Städte der Menschheitsgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        45.631976,
+                        31.322716
+                  ]
+            },
+            {
+                  "name": "Kullaba district",
+                  "text": "Ein historisches Viertel innerhalb des antiken Uruk, das für seine frühen monumentalen Bauten bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        45.634885,
+                        31.323387
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Uruk",
+                  "text": "Diese monumentale Plattform aus Lehmziegeln in Uruk war einst dem Gott Anu geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        45.640208,
+                        31.324495
+                  ]
+            },
+            {
+                  "name": "Uruk",
+                  "text": "Diese antike mesopotamische Metropole gilt als Heimat des legendären Königs Gilgamesch.",
+                  "category": "historical",
+                  "coords": [
+                        45.638706,
+                        31.323597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akkadian Uruk",
+                  "text": "Az ősi sumer város, Uruk romjai, az emberiség történetének egyik első nagyvárosa.",
+                  "category": "historical",
+                  "coords": [
+                        45.631976,
+                        31.322716
+                  ]
+            },
+            {
+                  "name": "Kullaba district",
+                  "text": "Történelmi negyed az ősi Uruk területén, amely korai monumentális építményeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        45.634885,
+                        31.323387
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Uruk",
+                  "text": "Ez a monumentális vályogtégla platform Urukban egykor Anu istennek volt szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        45.640208,
+                        31.324495
+                  ]
+            },
+            {
+                  "name": "Uruk",
+                  "text": "Ezt az ősi mezopotámiai metropoliszt a legendás Gilgames király otthonaként tartják számon.",
+                  "category": "historical",
+                  "coords": [
+                        45.638706,
+                        31.323597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akkadian Uruk",
+                  "text": "Ruinele vechiului oraș sumerian Uruk, unul dintre primele mari orașe din istoria omenirii.",
+                  "category": "historical",
+                  "coords": [
+                        45.631976,
+                        31.322716
+                  ]
+            },
+            {
+                  "name": "Kullaba district",
+                  "text": "Un cartier istoric din interiorul anticului Uruk, cunoscut pentru structurile sale monumentale timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        45.634885,
+                        31.323387
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Uruk",
+                  "text": "Această platformă monumentală din cărămidă nearsă din Uruk a fost odată dedicată zeului Anu.",
+                  "category": "religious",
+                  "coords": [
+                        45.640208,
+                        31.324495
+                  ]
+            },
+            {
+                  "name": "Uruk",
+                  "text": "Această metropolă mesopotamiană antică este considerată casa legendarului rege Ghilgameș.",
+                  "category": "historical",
+                  "coords": [
+                        45.638706,
+                        31.323597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akkadian Uruk",
+                  "text": "The ruins of the ancient Sumerian city of Uruk, one of the first major cities in human history.",
+                  "category": "historical",
+                  "coords": [
+                        45.631976,
+                        31.322716
+                  ]
+            },
+            {
+                  "name": "Kullaba district",
+                  "text": "A historical district within ancient Uruk, known for its early monumental structures.",
+                  "category": "historical",
+                  "coords": [
+                        45.634885,
+                        31.323387
+                  ]
+            },
+            {
+                  "name": "Ziggurat of Uruk",
+                  "text": "This monumental mud-brick platform in Uruk was once dedicated to the god Anu.",
+                  "category": "religious",
+                  "coords": [
+                        45.640208,
+                        31.324495
+                  ]
+            },
+            {
+                  "name": "Uruk",
+                  "text": "This ancient Mesopotamian metropolis is considered the home of the legendary King Gilgamesh.",
+                  "category": "historical",
+                  "coords": [
+                        45.638706,
+                        31.323597
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IQ-MU",
     coords: [45.6394, 31.3253],
@@ -404,7 +6236,88 @@ export const poiExtraIraqHistoryV2: POI[] = [
       en: ["Uruk was the largest city in the world during the 4th millennium BC.", "The first cuneiform writing was developed here around 3200 BC.", "The Eanna district served as the spiritual hub for the goddess Inanna.", "The city's defensive walls were legendary, spanning nearly 10 kilometers.", "Gilgamesh is listed as a ruler of Uruk in the Sumerian King List.", "The site was designated a UNESCO World Heritage site in 2016."],
     }, image: "/poi-images/uruk-history-v2.webp"},
   {
-    id: "eridu-history-v2",
+    id: "eridu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abu Shahrain",
+                  "text": "Abu Shahrain ist der archäologische Hügel, der die Ruinen von Eridu markiert, einer der ältesten Städte der Menschheit.",
+                  "category": "historical",
+                  "coords": [
+                        45.995845,
+                        30.817345
+                  ]
+            },
+            {
+                  "name": "Eridu",
+                  "text": "Eridu gilt als die älteste Stadt Mesopotamiens und war nach der sumerischen Mythologie der Wohnsitz des Gottes Enki.",
+                  "category": "historical",
+                  "coords": [
+                        45.994835,
+                        30.825974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abu Shahrain",
+                  "text": "Abu Sahrain az a régészeti domb, amely Eridu, az emberiség egyik legrégebbi városának romjait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        45.995845,
+                        30.817345
+                  ]
+            },
+            {
+                  "name": "Eridu",
+                  "text": "Eridut Mezopotámia legősibb városának tekintik, amely a sumer mitológia szerint Enki isten lakhelye volt.",
+                  "category": "historical",
+                  "coords": [
+                        45.994835,
+                        30.825974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abu Shahrain",
+                  "text": "Abu Shahrain este movila arheologică ce marchează ruinele orașului Eridu, unul dintre cele mai vechi orașe din lume.",
+                  "category": "historical",
+                  "coords": [
+                        45.995845,
+                        30.817345
+                  ]
+            },
+            {
+                  "name": "Eridu",
+                  "text": "Eridu este considerat cel mai vechi oraș din Mesopotamia și a fost, conform mitologiei sumeriene, reședința zeului Enki.",
+                  "category": "historical",
+                  "coords": [
+                        45.994835,
+                        30.825974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abu Shahrain",
+                  "text": "Abu Shahrain is the archaeological mound marking the ruins of Eridu, one of the oldest cities in human history.",
+                  "category": "historical",
+                  "coords": [
+                        45.995845,
+                        30.817345
+                  ]
+            },
+            {
+                  "name": "Eridu",
+                  "text": "Eridu is considered the oldest city in Mesopotamia and was, according to Sumerian mythology, the home of the god Enki.",
+                  "category": "historical",
+                  "coords": [
+                        45.994835,
+                        30.825974
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IQ-DQ",
     coords: [45.9961, 30.8158],
@@ -439,7 +6352,412 @@ export const poiExtraIraqHistoryV2: POI[] = [
       fr: ["Eridu est considérée comme la plus ancienne cité de la Liste royale sumérienne.", "Sa fondation est datée d'environ 5400 avant J.-C.", "Le temple d'Enki a été reconstruit au moins 18 fois au même endroit.", "La ville était située à l'origine près du golfe Persique.", "Les ruines de la ziggourat sont encore visibles de loin dans le désert.", "Eridu fait partie du patrimoine mondial de l'UNESCO « Les Ahwar du sud de l'Irak »."],
     }, image: "/poi-images/eridu-history-v2.webp"},
   {
-    id: "lalish-temple-history-v2",
+    id: "lalish-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "qasrok vally",
+                  "text": "Ein Aussichtspunkt über das Qasrok-Tal, das für seine markanten Felsformationen und grünen Landschaften bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.380567,
+                        36.804787
+                  ]
+            },
+            {
+                  "name": "Nawroz Bride Hall (",
+                  "text": "Ein lokaler Versammlungsort und Festsaal für kulturelle Veranstaltungen und Zeremonien in der Region Lalish.",
+                  "category": "cultural",
+                  "coords": [
+                        43.349291,
+                        36.70803
+                  ]
+            },
+            {
+                  "name": "Saaid bak castle",
+                  "text": "Die historische Residenz des jesidischen Führers in Baadre, die imposant über dem Dorf thront.",
+                  "category": "castle",
+                  "coords": [
+                        43.250549,
+                        36.725848
+                  ]
+            },
+            {
+                  "name": "Baadra's Castle",
+                  "text": "Eine Festung in Baadre, die als Sitz des jesidischen Mirs dient und einen weiten Blick über die Ebene bietet.",
+                  "category": "castle",
+                  "coords": [
+                        43.253749,
+                        36.722734
+                  ]
+            },
+            {
+                  "name": "baranhaws Lalish",
+                  "text": "Ein heiliger Baukomplex im Lalish-Tal, der eine zentrale Rolle in den religiösen Riten der Jesiden spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.304358,
+                        36.771615
+                  ]
+            },
+            {
+                  "name": "shekh mshalah",
+                  "text": "Ein verehrter Schrein im heiligen Tal von Lalish, der einem jesidischen Heiligen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        43.28172,
+                        36.740313
+                  ]
+            },
+            {
+                  "name": "Haji Ali",
+                  "text": "Ein heiliger Ort innerhalb des Lalish-Komplexes, an dem jesidische Pilger Gebete und Rituale vollziehen.",
+                  "category": "landmark",
+                  "coords": [
+                        43.251813,
+                        36.717172
+                  ]
+            },
+            {
+                  "name": "Kheder aleas",
+                  "text": "Ein Schrein für Kheder Aleas in Lalish, einem wichtigen Heiligen im jesidischen Glauben.",
+                  "category": "landmark",
+                  "coords": [
+                        43.247554,
+                        36.704524
+                  ]
+            },
+            {
+                  "name": "Eiziy",
+                  "text": "Eine religiöse Stätte in Lalish, die Teil der weitläufigen Pilgeranlage im heiligen Tal ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.251521,
+                        36.72587
+                  ]
+            },
+            {
+                  "name": "Malake mera",
+                  "text": "Eine Gebetsstätte in Lalish, die durch die traditionelle jesidische Architektur und heilige Symbole geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.249322,
+                        36.727316
+                  ]
+            },
+            {
+                  "name": "Mkeris",
+                  "text": "Eine heilige Quelle in Lalish, deren Wasser in der jesidischen Tradition für seine reinigende Kraft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        43.337365,
+                        36.807881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "qasrok vally",
+                  "text": "Kilátópont a Qasrok-völgy felett, amely jellegzetes sziklaalakzatairól és zöldellő tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        43.380567,
+                        36.804787
+                  ]
+            },
+            {
+                  "name": "Nawroz Bride Hall (",
+                  "text": "Helyi gyülekezőhely és díszterem kulturális események és ünnepségek számára Lalish régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        43.349291,
+                        36.70803
+                  ]
+            },
+            {
+                  "name": "Saaid bak castle",
+                  "text": "A jazidi vezető történelmi rezidenciája Baadre faluban, amely impozánsan magasodik a település fölé.",
+                  "category": "castle",
+                  "coords": [
+                        43.250549,
+                        36.725848
+                  ]
+            },
+            {
+                  "name": "Baadra's Castle",
+                  "text": "Erődítmény Baadre faluban, amely a jazidi mír székhelyeként szolgál, és széles kilátást nyújt a síkságra.",
+                  "category": "castle",
+                  "coords": [
+                        43.253749,
+                        36.722734
+                  ]
+            },
+            {
+                  "name": "baranhaws Lalish",
+                  "text": "Szent épületegyüttes a Lalish-völgyben, amely központi szerepet játszik a jazidik vallási rítusaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.304358,
+                        36.771615
+                  ]
+            },
+            {
+                  "name": "shekh mshalah",
+                  "text": "Tisztelt szentély a szent Lalish-völgyben, amelyet egy jazidi szentnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        43.28172,
+                        36.740313
+                  ]
+            },
+            {
+                  "name": "Haji Ali",
+                  "text": "Szent hely a Lalish-komplexumon belül, ahol a jazidi zarándokok imáikat és rituáléikat végzik.",
+                  "category": "landmark",
+                  "coords": [
+                        43.251813,
+                        36.717172
+                  ]
+            },
+            {
+                  "name": "Kheder aleas",
+                  "text": "Kheder Aleas szentélye Lalishban, aki a jazidi hit egyik fontos szentje.",
+                  "category": "landmark",
+                  "coords": [
+                        43.247554,
+                        36.704524
+                  ]
+            },
+            {
+                  "name": "Eiziy",
+                  "text": "Vallási helyszín Lalishban, amely a szent völgy kiterjedt zarándokhelyének része.",
+                  "category": "landmark",
+                  "coords": [
+                        43.251521,
+                        36.72587
+                  ]
+            },
+            {
+                  "name": "Malake mera",
+                  "text": "Imahely Lalishban, amelyet a hagyományos jazidi építészet és szent szimbólumok jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        43.249322,
+                        36.727316
+                  ]
+            },
+            {
+                  "name": "Mkeris",
+                  "text": "Szent forrás Lalishban, amelynek vizét a jazidi hagyományban tisztító ereje miatt ismerik.",
+                  "category": "natural",
+                  "coords": [
+                        43.337365,
+                        36.807881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "qasrok vally",
+                  "text": "Un punct de observație peste Valea Qasrok, cunoscută pentru formațiunile stâncoase deosebite și peisajele verzi.",
+                  "category": "natural",
+                  "coords": [
+                        43.380567,
+                        36.804787
+                  ]
+            },
+            {
+                  "name": "Nawroz Bride Hall (",
+                  "text": "Un loc local de adunare și sală de festivități pentru evenimente culturale și ceremonii în regiunea Lalish.",
+                  "category": "cultural",
+                  "coords": [
+                        43.349291,
+                        36.70803
+                  ]
+            },
+            {
+                  "name": "Saaid bak castle",
+                  "text": "Reședința istorică a liderului yazidi din Baadre, care domină impunător satul de pe o înălțime.",
+                  "category": "castle",
+                  "coords": [
+                        43.250549,
+                        36.725848
+                  ]
+            },
+            {
+                  "name": "Baadra's Castle",
+                  "text": "O fortăreață în Baadre, servind drept sediu al Mir-ului yazidi, oferind o vedere largă asupra câmpiei.",
+                  "category": "castle",
+                  "coords": [
+                        43.253749,
+                        36.722734
+                  ]
+            },
+            {
+                  "name": "baranhaws Lalish",
+                  "text": "Un complex de clădiri sacre în Valea Lalish, jucând un rol central în riturile religioase ale yazidiților.",
+                  "category": "landmark",
+                  "coords": [
+                        43.304358,
+                        36.771615
+                  ]
+            },
+            {
+                  "name": "shekh mshalah",
+                  "text": "Un sanctuar venerat în valea sfântă Lalish, dedicat unui sfânt yazidit.",
+                  "category": "religious",
+                  "coords": [
+                        43.28172,
+                        36.740313
+                  ]
+            },
+            {
+                  "name": "Haji Ali",
+                  "text": "Un loc sacru în complexul Lalish, unde pelerinii yazidiți oficiază rugăciuni și ritualuri.",
+                  "category": "landmark",
+                  "coords": [
+                        43.251813,
+                        36.717172
+                  ]
+            },
+            {
+                  "name": "Kheder aleas",
+                  "text": "Un sanctuar dedicat lui Kheder Aleas în Lalish, un sfânt important în credința yazidită.",
+                  "category": "landmark",
+                  "coords": [
+                        43.247554,
+                        36.704524
+                  ]
+            },
+            {
+                  "name": "Eiziy",
+                  "text": "Un sit religios în Lalish, parte a vastului complex de pelerinaj din valea sfântă.",
+                  "category": "landmark",
+                  "coords": [
+                        43.251521,
+                        36.72587
+                  ]
+            },
+            {
+                  "name": "Malake mera",
+                  "text": "Un loc de rugăciune în Lalish, marcat de arhitectura tradițională yazidită și simboluri sacre.",
+                  "category": "landmark",
+                  "coords": [
+                        43.249322,
+                        36.727316
+                  ]
+            },
+            {
+                  "name": "Mkeris",
+                  "text": "Un izvor sacru în Lalish, a cărui apă este cunoscută în tradiția yazidită pentru puterea sa purificatoare.",
+                  "category": "natural",
+                  "coords": [
+                        43.337365,
+                        36.807881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "qasrok vally",
+                  "text": "A viewpoint overlooking the Qasrok valley, known for its striking rock formations and verdant landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        43.380567,
+                        36.804787
+                  ]
+            },
+            {
+                  "name": "Nawroz Bride Hall (",
+                  "text": "A local assembly hall and venue for cultural events and ceremonies in the Lalish region.",
+                  "category": "cultural",
+                  "coords": [
+                        43.349291,
+                        36.70803
+                  ]
+            },
+            {
+                  "name": "Saaid bak castle",
+                  "text": "The historic residence of the Yazidi leader in Baadre, perched imposingly above the village.",
+                  "category": "castle",
+                  "coords": [
+                        43.250549,
+                        36.725848
+                  ]
+            },
+            {
+                  "name": "Baadra's Castle",
+                  "text": "A fortress in Baadre serving as the seat of the Yazidi Mir, offering expansive views over the plains.",
+                  "category": "castle",
+                  "coords": [
+                        43.253749,
+                        36.722734
+                  ]
+            },
+            {
+                  "name": "baranhaws Lalish",
+                  "text": "A sacred building complex in the Lalish valley, playing a central role in Yazidi religious rites.",
+                  "category": "landmark",
+                  "coords": [
+                        43.304358,
+                        36.771615
+                  ]
+            },
+            {
+                  "name": "shekh mshalah",
+                  "text": "A revered shrine in the holy valley of Lalish, dedicated to a Yazidi holy figure.",
+                  "category": "religious",
+                  "coords": [
+                        43.28172,
+                        36.740313
+                  ]
+            },
+            {
+                  "name": "Haji Ali",
+                  "text": "A sacred spot within the Lalish complex where Yazidi pilgrims perform prayers and rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        43.251813,
+                        36.717172
+                  ]
+            },
+            {
+                  "name": "Kheder aleas",
+                  "text": "A shrine dedicated to Kheder Aleas in Lalish, an important figure in the Yazidi faith.",
+                  "category": "landmark",
+                  "coords": [
+                        43.247554,
+                        36.704524
+                  ]
+            },
+            {
+                  "name": "Eiziy",
+                  "text": "A religious site in Lalish, part of the extensive pilgrimage grounds in the holy valley.",
+                  "category": "landmark",
+                  "coords": [
+                        43.251521,
+                        36.72587
+                  ]
+            },
+            {
+                  "name": "Malake mera",
+                  "text": "A place of prayer in Lalish characterized by traditional Yazidi architecture and sacred symbols.",
+                  "category": "landmark",
+                  "coords": [
+                        43.249322,
+                        36.727316
+                  ]
+            },
+            {
+                  "name": "Mkeris",
+                  "text": "A sacred spring in Lalish whose water is known in Yazidi tradition for its purifying power.",
+                  "category": "natural",
+                  "coords": [
+                        43.337365,
+                        36.807881
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IQ-NI",
     coords: [43.3033, 36.7725],
@@ -465,7 +6783,232 @@ export const poiExtraIraqHistoryV2: POI[] = [
       en: ["Lalish is the preeminent spiritual center for Yazidis globally.", "The temple houses the shrine of Sheikh Adi, who died in 1162.", "The conical fluted roofs are a trademark of Yazidi sacred architecture.", "Pilgrims are required to remove their shoes upon entering the valley.", "The Kaniya Spi (White Spring) is used for holy baptismal rites.", "The annual 'Jashna Jama' feast attracts thousands of devotees to the site."],
     }, image: "/poi-images/lalish-temple-history-v2.webp"},
   {
-    id: "kish-history-v2",
+    id: "kish-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hursagkalama",
+                  "text": "Antiker sumerischer Bezirk von Kisch, Heimat des Tempels der Göttin Inanna.",
+                  "category": "historical",
+                  "coords": [
+                        44.599337,
+                        32.540786
+                  ]
+            },
+            {
+                  "name": "Tell Uhaimir",
+                  "text": "Hauptarchäologischer Hügel des antiken Kisch mit den Ruinen einer Zikkurat aus der Sasanidenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        44.585255,
+                        32.551978
+                  ]
+            },
+            {
+                  "name": "Ishan Mizyad",
+                  "text": "Archäologische Stätte mit den Überresten antiker Siedlungen nahe der Stadt Kisch.",
+                  "category": "historical",
+                  "coords": [
+                        44.555928,
+                        32.591302
+                  ]
+            },
+            {
+                  "name": "Kiš",
+                  "text": "Einer der ältesten sumerischen Stadtstaaten, bekannt als Sitz der ersten Dynastie nach der Sintflut.",
+                  "category": "historical",
+                  "coords": [
+                        44.604413,
+                        32.540012
+                  ]
+            },
+            {
+                  "name": "Tell Uhaimir (Kish)",
+                  "text": "Roter Hügel der antiken Stadt Kisch, wo Ausgräber bedeutende sumerische Ruinen fanden.",
+                  "category": "historical",
+                  "coords": [
+                        44.581706,
+                        32.552771
+                  ]
+            },
+            {
+                  "name": "Waqf Imam Zinad",
+                  "text": "Religiöse Stiftung zum Wohle der örtlichen muslimischen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        44.576767,
+                        32.465874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hursagkalama",
+                  "text": "Kis ősi sumer negyede, Inanna istennő templomának otthona.",
+                  "category": "historical",
+                  "coords": [
+                        44.599337,
+                        32.540786
+                  ]
+            },
+            {
+                  "name": "Tell Uhaimir",
+                  "text": "Az ősi Kis legfőbb régészeti dombja, egy szászánida kori zikkurat romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        44.585255,
+                        32.551978
+                  ]
+            },
+            {
+                  "name": "Ishan Mizyad",
+                  "text": "Kis városa közelében található ókori települések maradványait tartalmazó régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        44.555928,
+                        32.591302
+                  ]
+            },
+            {
+                  "name": "Kis",
+                  "text": "Az egyik legősibb sumer városállam, amely az özönvíz utáni első dinasztia székhelyeként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        44.604413,
+                        32.540012
+                  ]
+            },
+            {
+                  "name": "Tell Uhaimir (Kish)",
+                  "text": "Az ősi Kis város vörös dombja, ahol a régészek jelentős sumer romokat tártak fel.",
+                  "category": "historical",
+                  "coords": [
+                        44.581706,
+                        32.552771
+                  ]
+            },
+            {
+                  "name": "Waqf Imam Zinad",
+                  "text": "Vallási alapítványi helyszín a helyi muszlim közösség javára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.576767,
+                        32.465874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hursagkalama",
+                  "text": "Vechi district sumerian din Kish, locul unde se afla templul zeiței Inanna.",
+                  "category": "historical",
+                  "coords": [
+                        44.599337,
+                        32.540786
+                  ]
+            },
+            {
+                  "name": "Tell Uhaimir",
+                  "text": "Principalul movilă arheologică din anticul Kish, prezentând ruinele unui zigurat din era sasanidă.",
+                  "category": "historical",
+                  "coords": [
+                        44.585255,
+                        32.551978
+                  ]
+            },
+            {
+                  "name": "Ishan Mizyad",
+                  "text": "Situl arheologic care conține resturile unor așezări antice lângă orașul Kish.",
+                  "category": "historical",
+                  "coords": [
+                        44.555928,
+                        32.591302
+                  ]
+            },
+            {
+                  "name": "Kiș",
+                  "text": "Unul dintre cele mai vechi orașe-stat sumeriene, cunoscut ca reședință a primei dinastii de după potop.",
+                  "category": "historical",
+                  "coords": [
+                        44.604413,
+                        32.540012
+                  ]
+            },
+            {
+                  "name": "Tell Uhaimir (Kish)",
+                  "text": "Movila roșie a orașului antic Kish, unde excavatoarele au găsit ruine sumeriene semnificative.",
+                  "category": "historical",
+                  "coords": [
+                        44.581706,
+                        32.552771
+                  ]
+            },
+            {
+                  "name": "Waqf Imam Zinad",
+                  "text": "Situl unei fundații religioase gestionat în beneficiul comunității musulmane locale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.576767,
+                        32.465874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hursagkalama",
+                  "text": "Ancient Sumerian district of Kish, home to the temple of the goddess Inanna.",
+                  "category": "historical",
+                  "coords": [
+                        44.599337,
+                        32.540786
+                  ]
+            },
+            {
+                  "name": "Tell Uhaimir",
+                  "text": "Principal archaeological mound of ancient Kish, featuring the ruins of a Sasanian-era ziggurat.",
+                  "category": "historical",
+                  "coords": [
+                        44.585255,
+                        32.551978
+                  ]
+            },
+            {
+                  "name": "Ishan Mizyad",
+                  "text": "Archaeological site containing the remains of ancient settlements near the city of Kish.",
+                  "category": "historical",
+                  "coords": [
+                        44.555928,
+                        32.591302
+                  ]
+            },
+            {
+                  "name": "Kish",
+                  "text": "One of the oldest Sumerian city-states, known as the seat of the first post-diluvian dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        44.604413,
+                        32.540012
+                  ]
+            },
+            {
+                  "name": "Tell Uhaimir (Kish)",
+                  "text": "Red mound of the ancient city of Kish, where excavators found significant Sumerian ruins.",
+                  "category": "historical",
+                  "coords": [
+                        44.581706,
+                        32.552771
+                  ]
+            },
+            {
+                  "name": "Waqf Imam Zinad",
+                  "text": "Religious endowment site managed for the benefit of the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.576767,
+                        32.465874
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "IQ-BB",
     coords: [44.6294, 32.5403],
@@ -491,7 +7034,412 @@ export const poiExtraIraqHistoryV2: POI[] = [
       en: ["Kish is historically recognized as the first seat of kingship after the Flood.", "The archaeological site consists of over 40 individual mounds of ruins.", "The title 'King of Kish' came to symbolize overall rule over Sumer.", "Archaeologists discovered some of the world's oldest chariot wheels here.", "The city was primarily dedicated to the war god Zababa.", "Sargon of Akkad began his rise to power as an official in Kish."],
     }, image: "/poi-images/kish-history-v2.webp"},
   {
-    id: "imam-ali-mosque-history-v2",
+    id: "imam-ali-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dhu-Alfeekar sword monument",
+                  "text": "Ein Denkmal in Nadschaf, das Zulfikar darstellt, das berühmte zweispitzige Schwert von Imam Ali.",
+                  "category": "historical",
+                  "coords": [
+                        44.33222,
+                        32.001478
+                  ]
+            },
+            {
+                  "name": "The grave of the late Umm Shamil Afar Al-Maliki",
+                  "text": "Eine Grabstätte innerhalb des riesigen Wadi-us-Salaam, dem größten Friedhof der Welt.",
+                  "category": "historical",
+                  "coords": [
+                        44.297753,
+                        32.024674
+                  ]
+            },
+            {
+                  "name": "Bashir Cemetery",
+                  "text": "Ein Bereich der historischen Nekropole von Nadschaf, nahe dem Heiligtum von Imam Ali.",
+                  "category": "historical",
+                  "coords": [
+                        44.298074,
+                        32.027935
+                  ]
+            },
+            {
+                  "name": "Khan Shilan Museum",
+                  "text": "Diese historische Karawanserei beherbergt heute ein Museum zum Aufstand von 1920 gegen die britische Herrschaft.",
+                  "category": "museum",
+                  "coords": [
+                        44.319774,
+                        31.994682
+                  ]
+            },
+            {
+                  "name": "Mosque abbas allehrbi",
+                  "text": "Eine Moschee im historischen Kern von Nadschaf, unweit des Imam-Ali-Heiligtums.",
+                  "category": "religious",
+                  "coords": [
+                        44.309433,
+                        32.028314
+                  ]
+            },
+            {
+                  "name": "Omar Bin Al khattab's Mosque",
+                  "text": "Ein muslimisches Gotteshaus in der heiligen Stadt Nadschaf, benannt nach dem zweiten Kalifen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.337615,
+                        31.993143
+                  ]
+            },
+            {
+                  "name": "The shrine of the prophets Hood and Saleh",
+                  "text": "Ein bedeutender schiitischer Wallfahrtsort für die Propheten Hud und Salih auf dem Friedhof Wadi-us-Salaam.",
+                  "category": "religious",
+                  "coords": [
+                        44.316451,
+                        32.000143
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Eine Moschee im geschäftigen Viertel rund um das zentrale Heiligtum von Nadschaf.",
+                  "category": "religious",
+                  "coords": [
+                        44.348282,
+                        31.999188
+                  ]
+            },
+            {
+                  "name": "Great Najaf bazar",
+                  "text": "Der große traditionelle Markt von Nadschaf, berühmt für Gebetsketten und religiöse Souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        44.31832,
+                        31.996002
+                  ]
+            },
+            {
+                  "name": "Najaf Central Market",
+                  "text": "Ein belebtes Handelszentrum in Nadschaf, in dem Kleidung und Haushaltswaren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        44.339887,
+                        32.005676
+                  ]
+            },
+            {
+                  "name": "Grand Bazaar",
+                  "text": "Ein weitläufiger, überdachter Basar in der Nähe des Imam-Ali-Heiligtums mit einer Vielzahl lokaler Handwerkswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        44.317296,
+                        31.99601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dhu-Alfeekar sword monument",
+                  "text": "Emlékmű Nedzsefben, amely Zulfikart, Imam Ali híres kétágú kardját ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        44.33222,
+                        32.001478
+                  ]
+            },
+            {
+                  "name": "The grave of the late Umm Shamil Afar Al-Maliki",
+                  "text": "Sírhely a hatalmas Vádiusz-Szalámban, a világ legnagyobb temetőjében.",
+                  "category": "historical",
+                  "coords": [
+                        44.297753,
+                        32.024674
+                  ]
+            },
+            {
+                  "name": "Bashir Cemetery",
+                  "text": "Nedzsef történelmi nekropoliszának része az Imam Ali-szentély közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.298074,
+                        32.027935
+                  ]
+            },
+            {
+                  "name": "Khan Shilan Museum",
+                  "text": "Ez a történelmi karavánszeráj ma az 1920-as britellenes felkelésnek emléket állító múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        44.319774,
+                        31.994682
+                  ]
+            },
+            {
+                  "name": "Mosque abbas allehrbi",
+                  "text": "Mecset Nedzsef történelmi magjában, nem messze az Imam Ali-szentélytől.",
+                  "category": "religious",
+                  "coords": [
+                        44.309433,
+                        32.028314
+                  ]
+            },
+            {
+                  "name": "Omar Bin Al khattab's Mosque",
+                  "text": "Muszlim imaház Nedzsef szent városában, a második kalifáról elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        44.337615,
+                        31.993143
+                  ]
+            },
+            {
+                  "name": "The shrine of the prophets Hood and Saleh",
+                  "text": "Hud és Szalih próféták jelentős síita zarándokhelye a Vádiusz-Szalám temetőben.",
+                  "category": "religious",
+                  "coords": [
+                        44.316451,
+                        32.000143
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Mecset a nedzsefi központi szentélyt körülvevő forgalmas negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        44.348282,
+                        31.999188
+                  ]
+            },
+            {
+                  "name": "Great Najaf bazar",
+                  "text": "Nedzsef nagy hagyományos piaca, amely imafüzéreiről és vallási emléktárgyairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        44.31832,
+                        31.996002
+                  ]
+            },
+            {
+                  "name": "Najaf Central Market",
+                  "text": "Forgalmas kereskedelmi központ Nedzsefben, ahol ruházati és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        44.339887,
+                        32.005676
+                  ]
+            },
+            {
+                  "name": "Grand Bazaar",
+                  "text": "Kiterjedt fedett bazár az Imam Ali-szentély közelében, számos helyi kézműves termékkel.",
+                  "category": "cultural",
+                  "coords": [
+                        44.317296,
+                        31.99601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dhu-Alfeekar sword monument",
+                  "text": "Un monument din Najaf reprezentând Zulfikar, faimoasa sabie cu două vârfuri a imamului Ali.",
+                  "category": "historical",
+                  "coords": [
+                        44.33222,
+                        32.001478
+                  ]
+            },
+            {
+                  "name": "The grave of the late Umm Shamil Afar Al-Maliki",
+                  "text": "Un monument funerar în vastul Wadi-us-Salaam, cel mai mare cimitir din lume.",
+                  "category": "historical",
+                  "coords": [
+                        44.297753,
+                        32.024674
+                  ]
+            },
+            {
+                  "name": "Bashir Cemetery",
+                  "text": "O secțiune a necropolei istorice din Najaf, situată aproape de sanctuarul Imamului Ali.",
+                  "category": "historical",
+                  "coords": [
+                        44.298074,
+                        32.027935
+                  ]
+            },
+            {
+                  "name": "Khan Shilan Museum",
+                  "text": "Această fostă caravanserai istorică găzduiește acum un muzeu dedicat revoltei din 1920 împotriva stăpânirii britanice.",
+                  "category": "museum",
+                  "coords": [
+                        44.319774,
+                        31.994682
+                  ]
+            },
+            {
+                  "name": "Mosque abbas allehrbi",
+                  "text": "O moschee situată în nucleul istoric al orașului Najaf, nu departe de sanctuarul Imamului Ali.",
+                  "category": "religious",
+                  "coords": [
+                        44.309433,
+                        32.028314
+                  ]
+            },
+            {
+                  "name": "Omar Bin Al khattab's Mosque",
+                  "text": "Un lăcaș de cult musulman din orașul sfânt Najaf, numit după cel de-al doilea calif.",
+                  "category": "landmark",
+                  "coords": [
+                        44.337615,
+                        31.993143
+                  ]
+            },
+            {
+                  "name": "The shrine of the prophets Hood and Saleh",
+                  "text": "Un important loc de pelerinaj șiit pentru profeții Hud și Salih, situat în cimitirul Wadi-us-Salaam.",
+                  "category": "religious",
+                  "coords": [
+                        44.316451,
+                        32.000143
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "O moschee în cartierul animat din jurul sanctuarului central din Najaf.",
+                  "category": "religious",
+                  "coords": [
+                        44.348282,
+                        31.999188
+                  ]
+            },
+            {
+                  "name": "Great Najaf bazar",
+                  "text": "Marele bazar tradițional din Najaf, faimos pentru mătăniile de rugăciune și suvenirurile religioase.",
+                  "category": "cultural",
+                  "coords": [
+                        44.31832,
+                        31.996002
+                  ]
+            },
+            {
+                  "name": "Najaf Central Market",
+                  "text": "Un centru comercial aglomerat din Najaf, unde se vând haine și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        44.339887,
+                        32.005676
+                  ]
+            },
+            {
+                  "name": "Grand Bazaar",
+                  "text": "Un bazar acoperit vast lângă sanctuarul Imamului Ali, cu o varietate de produse artizanale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        44.317296,
+                        31.99601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dhu-Alfeekar sword monument",
+                  "text": "A monument in Najaf representing Zulfikar, the famous two-pointed sword of Imam Ali.",
+                  "category": "historical",
+                  "coords": [
+                        44.33222,
+                        32.001478
+                  ]
+            },
+            {
+                  "name": "The grave of the late Umm Shamil Afar Al-Maliki",
+                  "text": "A burial monument located within the vast Wadi-us-Salaam, the world's largest cemetery.",
+                  "category": "historical",
+                  "coords": [
+                        44.297753,
+                        32.024674
+                  ]
+            },
+            {
+                  "name": "Bashir Cemetery",
+                  "text": "A section of Najaf's historic necropolis, located near the Imam Ali Shrine.",
+                  "category": "historical",
+                  "coords": [
+                        44.298074,
+                        32.027935
+                  ]
+            },
+            {
+                  "name": "Khan Shilan Museum",
+                  "text": "This historic caravanserai now houses a museum dedicated to the 1920 uprising against British rule.",
+                  "category": "museum",
+                  "coords": [
+                        44.319774,
+                        31.994682
+                  ]
+            },
+            {
+                  "name": "Mosque abbas allehrbi",
+                  "text": "A mosque located in the historic core of Najaf, not far from the Imam Ali Shrine.",
+                  "category": "religious",
+                  "coords": [
+                        44.309433,
+                        32.028314
+                  ]
+            },
+            {
+                  "name": "Omar Bin Al khattab's Mosque",
+                  "text": "A Muslim place of worship in the holy city of Najaf, named after the second Caliph.",
+                  "category": "landmark",
+                  "coords": [
+                        44.337615,
+                        31.993143
+                  ]
+            },
+            {
+                  "name": "The shrine of the prophets Hood and Saleh",
+                  "text": "A significant Shia pilgrimage site for the prophets Hud and Salih, located in the Wadi-us-Salaam cemetery.",
+                  "category": "religious",
+                  "coords": [
+                        44.316451,
+                        32.000143
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "A mosque located in the busy district surrounding the central shrine of Najaf.",
+                  "category": "religious",
+                  "coords": [
+                        44.348282,
+                        31.999188
+                  ]
+            },
+            {
+                  "name": "Great Najaf bazar",
+                  "text": "The great traditional market of Najaf, famous for prayer beads and religious souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        44.31832,
+                        31.996002
+                  ]
+            },
+            {
+                  "name": "Najaf Central Market",
+                  "text": "A busy commercial hub in Najaf where clothing and household goods are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        44.339887,
+                        32.005676
+                  ]
+            },
+            {
+                  "name": "Grand Bazaar",
+                  "text": "An extensive covered bazaar near the Imam Ali Shrine featuring a variety of local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        44.317296,
+                        31.99601
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IQ-NA",
     coords: [44.3142, 31.9958],
@@ -517,7 +7465,484 @@ export const poiExtraIraqHistoryV2: POI[] = [
       en: ["The mosque contains the tomb of Ali ibn Abi Talib, the first Shia Imam.", "The first structure was built in 977 AD by Adud al-Dawla.", "The golden dome is famously plated with exactly 7,777 gilded tiles.", "The shrine makes Najaf the third holiest city in Shia Islam.", "The complex was significantly expanded in the 17th century by Shah Abbas I.", "It is located next to Wadi al-Salam, the largest cemetery on Earth."],
     }, image: "/poi-images/imam-ali-mosque-history-v2.webp"},
   {
-    id: "imam-husayn-shrine-history-v2",
+    id: "imam-husayn-shrine-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Check point karbala",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die Zufahrtsstraßen von Kerbela und das geschäftige Treiben der Pilgerströme.",
+                  "category": "natural",
+                  "coords": [
+                        44.120608,
+                        32.593923
+                  ]
+            },
+            {
+                  "name": "amirli imirli",
+                  "text": "Eine lokale Sehenswürdigkeit in Kerbela, die oft mit regionalen Traditionen und kulturellen Veranstaltungen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.067119,
+                        32.625507
+                  ]
+            },
+            {
+                  "name": "Islam memory Museum",
+                  "text": "Dieses Museum in Kerbela widmet sich der Bewahrung islamischer Geschichte und religiöser Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        44.042009,
+                        32.62249
+                  ]
+            },
+            {
+                  "name": "Hussein museum",
+                  "text": "Ein Museum innerhalb des Heiligtums in Kerbela, das wertvolle historische Geschenke und Reliquien aus Jahrhunderten ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        44.03193,
+                        32.615984
+                  ]
+            },
+            {
+                  "name": "Al-Abbas's Left Hand",
+                  "text": "Ein bronzenes Denkmal in Kerbela, das die Stelle markiert, an der Abbas ibn Ali im Kampf seine linke Hand verlor.",
+                  "category": "historical",
+                  "coords": [
+                        44.036831,
+                        32.61623
+                  ]
+            },
+            {
+                  "name": "Al-Abbas's Right Hand",
+                  "text": "Dieses Straßendenkmal in Kerbela erinnert an das Opfer von Abbas ibn Ali und markiert die Stelle seiner rechten Hand.",
+                  "category": "historical",
+                  "coords": [
+                        44.037435,
+                        32.617444
+                  ]
+            },
+            {
+                  "name": "Neighbor's Garage",
+                  "text": "Ein lokaler Orientierungspunkt in der Nähe der Heiligtümer von Kerbela, der oft als Treffpunkt für Besucher dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.040708,
+                        32.608285
+                  ]
+            },
+            {
+                  "name": "Al-Husseini camp",
+                  "text": "Dieses historische Denkmal in Kerbela markiert den Ort, an dem Imam Husayn und seine Gefährten vor der Schlacht ihr Lager aufschlugen.",
+                  "category": "historical",
+                  "coords": [
+                        44.030616,
+                        32.614545
+                  ]
+            },
+            {
+                  "name": "Karbala Mosque",
+                  "text": "Eine bedeutende Moschee in Karbala, die durch ihre traditionelle islamische Architektur und als Ort der spirituellen Einkehr besticht.",
+                  "category": "religious",
+                  "coords": [
+                        44.02957,
+                        32.581687
+                  ]
+            },
+            {
+                  "name": "Hlal",
+                  "text": "Ein Ort des Gebets in Kerbela, der besonders für seine ruhige Atmosphäre inmitten der belebten Pilgerstadt bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.131195,
+                        32.599952
+                  ]
+            },
+            {
+                  "name": "Imam Mansur",
+                  "text": "Eine religiöse Stätte in Kerbela, die dem Andenken an Imam Mansur gewidmet ist und von lokalen Pilgern besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.099737,
+                        32.591284
+                  ]
+            },
+            {
+                  "name": "Said Ismael",
+                  "text": "Ein muslimischer Schrein in Kerbela, der Said Ismael gewidmet ist und als Ort für Gebete und Gelübde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.099373,
+                        32.590299
+                  ]
+            },
+            {
+                  "name": "Al Maydan Bazar",
+                  "text": "Ein lebhafter traditioneller Markt in der Altstadt von Kerbela, bekannt für den Verkauf von Gebetsketten, Stoffen und Gewürzen.",
+                  "category": "cultural",
+                  "coords": [
+                        44.034469,
+                        32.613924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Check point karbala",
+                  "text": "Ez a kilátópont rálátást nyújt Kerbela bevezető útjaira és a zarándokok folyamatos áradatára.",
+                  "category": "natural",
+                  "coords": [
+                        44.120608,
+                        32.593923
+                  ]
+            },
+            {
+                  "name": "amirli imirli",
+                  "text": "Helyi látványosság Kerbelában, amely gyakran kapcsolódik a környék hagyományaihoz és kulturális eseményeihez.",
+                  "category": "landmark",
+                  "coords": [
+                        44.067119,
+                        32.625507
+                  ]
+            },
+            {
+                  "name": "Islam memory Museum",
+                  "text": "Ez a kerbelai múzeum az iszlám történelem és vallási műtárgyak megőrzésének szentelt intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        44.042009,
+                        32.62249
+                  ]
+            },
+            {
+                  "name": "Hussein museum",
+                  "text": "A kerbelai szentély területén található múzeum, amely évszázadok történelmi ajándékait és ereklyéit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.03193,
+                        32.615984
+                  ]
+            },
+            {
+                  "name": "Al-Abbas's Left Hand",
+                  "text": "Bronz emlékmű Kerbelában, amely azt a helyet jelöli, ahol Abbász ibn Ali elveszítette bal kezét a csatában.",
+                  "category": "historical",
+                  "coords": [
+                        44.036831,
+                        32.61623
+                  ]
+            },
+            {
+                  "name": "Al-Abbas's Right Hand",
+                  "text": "Utcai emlékmű Kerbelában, amely Abbász ibn Ali áldozatára emlékeztet, megjelölve jobb kezének elvesztési helyét.",
+                  "category": "historical",
+                  "coords": [
+                        44.037435,
+                        32.617444
+                  ]
+            },
+            {
+                  "name": "Neighbor's Garage",
+                  "text": "Helyi tájékozódási pont a kerbelai szentélyek közelében, amely gyakran szolgál találkozóhelyként a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.040708,
+                        32.608285
+                  ]
+            },
+            {
+                  "name": "Al-Husseini camp",
+                  "text": "Történelmi emlékhely Kerbelában, amely azt a helyet jelöli, ahol Huszein imám és társai táboroztak a csata előtt.",
+                  "category": "historical",
+                  "coords": [
+                        44.030616,
+                        32.614545
+                  ]
+            },
+            {
+                  "name": "Karbala Mosque",
+                  "text": "Jelentős mecset Kerbelában, amely hagyományos iszlám építészetével és spirituális hangulatával várja a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        44.02957,
+                        32.581687
+                  ]
+            },
+            {
+                  "name": "Hlal",
+                  "text": "Imádságos hely Kerbelában, amely nyugodt légköréről ismert a nyüzsgő zarándokváros központjában.",
+                  "category": "religious",
+                  "coords": [
+                        44.131195,
+                        32.599952
+                  ]
+            },
+            {
+                  "name": "Imam Mansur",
+                  "text": "Imám Manszúr emlékének szentelt vallási helyszín Kerbelában, amelyet főként a helyi zarándokok látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.099737,
+                        32.591284
+                  ]
+            },
+            {
+                  "name": "Said Ismael",
+                  "text": "Szaid Iszmaelnek szentelt muszlim kegyhely Kerbelában, ahol a hívők gyakran tesznek fogadalmakat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.099373,
+                        32.590299
+                  ]
+            },
+            {
+                  "name": "Al Maydan Bazar",
+                  "text": "Élénk hagyományos piac Kerbela óvárosában, ahol imafüzéreket, kelméket és fűszereket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        44.034469,
+                        32.613924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Check point karbala",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra drumurilor de acces din Karbala și a fluxului de pelerini.",
+                  "category": "natural",
+                  "coords": [
+                        44.120608,
+                        32.593923
+                  ]
+            },
+            {
+                  "name": "amirli imirli",
+                  "text": "O atracție locală în Karbala, adesea asociată cu tradițiile regionale și evenimentele culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.067119,
+                        32.625507
+                  ]
+            },
+            {
+                  "name": "Islam memory Museum",
+                  "text": "Acest muzeu din Karbala este dedicat conservării istoriei islamice și a artefactelor religioase.",
+                  "category": "museum",
+                  "coords": [
+                        44.042009,
+                        32.62249
+                  ]
+            },
+            {
+                  "name": "Hussein museum",
+                  "text": "Un muzeu situat în incinta sanctuarului din Karbala, care expune daruri istorice și relicve prețioase de-a lungul secolelor.",
+                  "category": "museum",
+                  "coords": [
+                        44.03193,
+                        32.615984
+                  ]
+            },
+            {
+                  "name": "Al-Abbas's Left Hand",
+                  "text": "Un monument din bronz în Karbala, care marchează locul unde se crede că Abbas ibn Ali și-a pierdut mâna stângă în luptă.",
+                  "category": "historical",
+                  "coords": [
+                        44.036831,
+                        32.61623
+                  ]
+            },
+            {
+                  "name": "Al-Abbas's Right Hand",
+                  "text": "Acest monument stradal din Karbala comemorează sacrificiul lui Abbas ibn Ali, marcând locul unde și-a pierdut mâna dreaptă.",
+                  "category": "historical",
+                  "coords": [
+                        44.037435,
+                        32.617444
+                  ]
+            },
+            {
+                  "name": "Neighbor's Garage",
+                  "text": "Un punct de reper local în apropierea sanctuarelor din Karbala, servind adesea ca loc de întâlnire pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        44.040708,
+                        32.608285
+                  ]
+            },
+            {
+                  "name": "Al-Husseini camp",
+                  "text": "Acest monument istoric din Karbala marchează locul unde Imamul Husayn și însoțitorii săi și-au stabilit tabăra înainte de bătălie.",
+                  "category": "historical",
+                  "coords": [
+                        44.030616,
+                        32.614545
+                  ]
+            },
+            {
+                  "name": "Karbala Mosque",
+                  "text": "O moschee importantă din Karbala, remarcabilă prin arhitectura sa islamică tradițională și atmosfera de reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        44.02957,
+                        32.581687
+                  ]
+            },
+            {
+                  "name": "Hlal",
+                  "text": "Un loc de rugăciune în Karbala, cunoscut pentru atmosfera sa liniștită în mijlocul orașului vibrant de pelerinaj.",
+                  "category": "religious",
+                  "coords": [
+                        44.131195,
+                        32.599952
+                  ]
+            },
+            {
+                  "name": "Imam Mansur",
+                  "text": "Un sit religios din Karbala dedicat memoriei Imamului Mansur, fiind frecventat de pelerinii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        44.099737,
+                        32.591284
+                  ]
+            },
+            {
+                  "name": "Said Ismael",
+                  "text": "Un sanctuar musulman în Karbala dedicat lui Said Ismael, servind drept loc pentru rugăciuni și jurăminte.",
+                  "category": "landmark",
+                  "coords": [
+                        44.099373,
+                        32.590299
+                  ]
+            },
+            {
+                  "name": "Al Maydan Bazar",
+                  "text": "O piață tradițională plină de viață în orașul vechi din Karbala, cunoscută pentru mătăsuri, mirodenii și mătănii.",
+                  "category": "cultural",
+                  "coords": [
+                        44.034469,
+                        32.613924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Check point karbala",
+                  "text": "This viewpoint offers an overview of the access routes to Karbala and the constant flow of visiting pilgrims.",
+                  "category": "natural",
+                  "coords": [
+                        44.120608,
+                        32.593923
+                  ]
+            },
+            {
+                  "name": "amirli imirli",
+                  "text": "A local attraction in Karbala often associated with regional traditions and cultural gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        44.067119,
+                        32.625507
+                  ]
+            },
+            {
+                  "name": "Islam memory Museum",
+                  "text": "A specialized museum in Karbala dedicated to preserving Islamic history and religious artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        44.042009,
+                        32.62249
+                  ]
+            },
+            {
+                  "name": "Hussein museum",
+                  "text": "A museum within the shrine complex in Karbala, displaying historical relics and precious gifts accumulated over centuries.",
+                  "category": "museum",
+                  "coords": [
+                        44.03193,
+                        32.615984
+                  ]
+            },
+            {
+                  "name": "Al-Abbas's Left Hand",
+                  "text": "A bronze monument in Karbala marking the spot where Abbas ibn Ali is believed to have lost his left hand in battle.",
+                  "category": "historical",
+                  "coords": [
+                        44.036831,
+                        32.61623
+                  ]
+            },
+            {
+                  "name": "Al-Abbas's Right Hand",
+                  "text": "A street monument in Karbala commemorating the sacrifice of Abbas ibn Ali, marking the location of his right hand's loss.",
+                  "category": "historical",
+                  "coords": [
+                        44.037435,
+                        32.617444
+                  ]
+            },
+            {
+                  "name": "Neighbor's Garage",
+                  "text": "A local landmark near the Karbala shrines, often serving as a familiar meeting point for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        44.040708,
+                        32.608285
+                  ]
+            },
+            {
+                  "name": "Al-Husseini camp",
+                  "text": "This historical monument in Karbala marks the site where Imam Husayn and his companions pitched their tents before the battle.",
+                  "category": "historical",
+                  "coords": [
+                        44.030616,
+                        32.614545
+                  ]
+            },
+            {
+                  "name": "Karbala Mosque",
+                  "text": "A significant mosque in Karbala, notable for its traditional Islamic architecture and as a place for spiritual reflection.",
+                  "category": "religious",
+                  "coords": [
+                        44.02957,
+                        32.581687
+                  ]
+            },
+            {
+                  "name": "Hlal",
+                  "text": "A place of worship in Karbala known for its serene atmosphere amidst the busy streets of the pilgrimage city.",
+                  "category": "religious",
+                  "coords": [
+                        44.131195,
+                        32.599952
+                  ]
+            },
+            {
+                  "name": "Imam Mansur",
+                  "text": "A religious site in Karbala dedicated to the memory of Imam Mansur, frequented by local pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        44.099737,
+                        32.591284
+                  ]
+            },
+            {
+                  "name": "Said Ismael",
+                  "text": "A Muslim shrine in Karbala dedicated to Said Ismael, serving as a site for prayers and religious vows.",
+                  "category": "landmark",
+                  "coords": [
+                        44.099373,
+                        32.590299
+                  ]
+            },
+            {
+                  "name": "Al Maydan Bazar",
+                  "text": "A vibrant traditional marketplace in Karbala's old city, famous for selling prayer beads, textiles, and spices.",
+                  "category": "cultural",
+                  "coords": [
+                        44.034469,
+                        32.613924
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IQ-KA",
     coords: [44.0294, 32.6161],
@@ -543,7 +7968,196 @@ export const poiExtraIraqHistoryV2: POI[] = [
       en: ["The shrine marks the burial place of Husayn ibn Ali (died 680 AD).", "The first structure was commissioned in 684 AD by Mukhtar al-Thaqafi.", "The Arba'in pilgrimage attracts over 20 million people annually.", "The golden dome was gifted in the 18th century by Karim Khan Zand.", "The shrine was razed in 850 AD by the Abbasid Caliph al-Mutawakkil.", "The complex features museums housing priceless historical Islamic relics."],
     }, image: "/poi-images/imam-husayn-shrine-history-v2.webp"},
   {
-    id: "al-mustansiriya-university-history-v2",
+    id: "al-mustansiriya-university-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "art",
+                  "text": "Ein Universitätstheater, das als Bühne für künstlerische Darbietungen und studentische Projekte dient.",
+                  "category": "cultural",
+                  "coords": [
+                        44.388774,
+                        33.328253
+                  ]
+            },
+            {
+                  "name": "Iraqi National Museum",
+                  "text": "Eines der weltweit bedeutendsten Museen für mesopotamische Geschichte mit Schätzen aus Sumer und Babylon.",
+                  "category": "museum",
+                  "coords": [
+                        44.384994,
+                        33.328167
+                  ]
+            },
+            {
+                  "name": "Ahrar Bridge",
+                  "text": "Eine wichtige Verkehrsbrücke aus Stahl, die das Stadtzentrum über den Tigris hinweg verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395407,
+                        33.332124
+                  ]
+            },
+            {
+                  "name": "Mustansiriya Madrasah",
+                  "text": "Ein Meisterwerk der abbasidischen Architektur aus dem 13. Jahrhundert, einst eine der führenden islamischen Hochschulen.",
+                  "category": "historical",
+                  "coords": [
+                        44.389855,
+                        33.338525
+                  ]
+            },
+            {
+                  "name": "Martyrs Bridge",
+                  "text": "Eine historische Brücke über den Tigris, die nach den politischen Märtyrern der irakischen Geschichte benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.38817,
+                        33.338264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "art",
+                  "text": "Egyetemi színház, amely művészeti előadások és hallgatói projektek színpadaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        44.388774,
+                        33.328253
+                  ]
+            },
+            {
+                  "name": "Iraqi National Museum",
+                  "text": "A világ egyik legjelentősebb mezopotámiai történeti múzeuma sumér és babiloni kincsekkel.",
+                  "category": "museum",
+                  "coords": [
+                        44.384994,
+                        33.328167
+                  ]
+            },
+            {
+                  "name": "Ahrar Bridge",
+                  "text": "Fontos acél közúti híd, amely a Tigris folyón keresztül köti össze a városközpontot.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395407,
+                        33.332124
+                  ]
+            },
+            {
+                  "name": "Mustansiriya Madrasah",
+                  "text": "A 13. századi abbászida építészet remekműve, amely egykor az egyik vezető iszlám főiskola volt.",
+                  "category": "historical",
+                  "coords": [
+                        44.389855,
+                        33.338525
+                  ]
+            },
+            {
+                  "name": "Martyrs Bridge",
+                  "text": "Történelmi híd a Tigrisen, amelyet az iraki történelem politikai mártírjairól neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        44.38817,
+                        33.338264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "art",
+                  "text": "Un teatru universitar care servește ca scenă pentru spectacole artistice și proiecte studențești.",
+                  "category": "cultural",
+                  "coords": [
+                        44.388774,
+                        33.328253
+                  ]
+            },
+            {
+                  "name": "Iraqi National Museum",
+                  "text": "Unul dintre cele mai importante muzee de istorie mesopotamiană din lume, cu comori din Sumer și Babilon.",
+                  "category": "museum",
+                  "coords": [
+                        44.384994,
+                        33.328167
+                  ]
+            },
+            {
+                  "name": "Ahrar Bridge",
+                  "text": "Un important pod rutier din oțel care conectează centrul orașului peste râul Tigru.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395407,
+                        33.332124
+                  ]
+            },
+            {
+                  "name": "Mustansiriya Madrasah",
+                  "text": "O capodoperă a arhitecturii abaside din secolul al XIII-lea, fostă una dintre cele mai importante școli islamice.",
+                  "category": "historical",
+                  "coords": [
+                        44.389855,
+                        33.338525
+                  ]
+            },
+            {
+                  "name": "Martyrs Bridge",
+                  "text": "Un pod istoric peste Tigru, numit după martirii politici din istoria Irakului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.38817,
+                        33.338264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "art",
+                  "text": "A university theater serving as a stage for artistic performances and student projects.",
+                  "category": "cultural",
+                  "coords": [
+                        44.388774,
+                        33.328253
+                  ]
+            },
+            {
+                  "name": "Iraqi National Museum",
+                  "text": "One of the world's most significant museums for Mesopotamian history, featuring Sumerian and Babylonian treasures.",
+                  "category": "museum",
+                  "coords": [
+                        44.384994,
+                        33.328167
+                  ]
+            },
+            {
+                  "name": "Ahrar Bridge",
+                  "text": "An important steel road bridge connecting the city center across the Tigris River.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395407,
+                        33.332124
+                  ]
+            },
+            {
+                  "name": "Mustansiriya Madrasah",
+                  "text": "A 13th-century masterpiece of Abbasid architecture, once one of the leading Islamic colleges.",
+                  "category": "historical",
+                  "coords": [
+                        44.389855,
+                        33.338525
+                  ]
+            },
+            {
+                  "name": "Martyrs Bridge",
+                  "text": "A historic bridge over the Tigris named after the political martyrs of Iraqi history.",
+                  "category": "landmark",
+                  "coords": [
+                        44.38817,
+                        33.338264
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "IQ-BG",
     coords: [44.3886, 33.3364],
@@ -578,7 +8192,1312 @@ export const poiExtraIraqHistoryV2: POI[] = [
       fr: ["L'université a été fondée en 1227 par le calife Al-Mustansir.", "C'est l'un des plus anciens établissements d'enseignement au monde.", "Le bâtiment abritait une bibliothèque de plus de 80 000 livres.", "La médecine et la pharmacie faisaient partie intégrante du programme.", "L'université disposait de sa propre section hospitalière.", "Le complexe monumental est un exemple du style abbasside mature."],
     }, image: "/poi-images/al-mustansiriya-university-history-v2.webp"},
   {
-    id: "al-shaheed-monument-history-v2",
+    id: "al-shaheed-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Ma'mal Street",
+                  "text": "Ein historischer Straßenzug in der Nähe des Al-Shaheed-Denkmals, der den städtebaulichen Charakter Bagdads widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        44.485217,
+                        33.382377
+                  ]
+            },
+            {
+                  "name": "sharie alkahraba",
+                  "text": "Diese belebte Geschäftsstraße in Bagdad ist weithin bekannt für ihre zahlreichen Geschäfte für Elektroartikel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.494976,
+                        33.380294
+                  ]
+            },
+            {
+                  "name": "The House of the Masters",
+                  "text": "Ein markantes historisches Gebäude mit traditionellen architektonischen Details, das an eine herrschaftliche Residenz erinnert.",
+                  "category": "castle",
+                  "coords": [
+                        44.511508,
+                        33.372449
+                  ]
+            },
+            {
+                  "name": "Tall Halawah",
+                  "text": "Ein antiker mesopotamischer Siedlungshügel, der archäologische Schichten aus vergangenen Jahrtausenden bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        44.487762,
+                        33.42558
+                  ]
+            },
+            {
+                  "name": "kids dream city",
+                  "text": "Ein farbenfroher Indoor-Vergnügungspark, der eine Vielzahl von Spielen und Attraktionen für Kinder bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.433665,
+                        33.343266
+                  ]
+            },
+            {
+                  "name": "asch-Schahid-Monument",
+                  "text": "Ein monumentales Denkmal aus dem Jahr 1983 mit einer gespaltenen türkisfarbenen Kuppel, entworfen von Ismail Fatah Al Turk.",
+                  "category": "landmark",
+                  "coords": [
+                        44.446125,
+                        33.343441
+                  ]
+            },
+            {
+                  "name": "Baghdad Aqua Park",
+                  "text": "Ein moderner Wasserpark mit Rutschen und Schwimmbecken, der Erholung von der Hitze der Stadt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        44.455533,
+                        33.33786
+                  ]
+            },
+            {
+                  "name": "Sindbad Land",
+                  "text": "Einer der größten Freizeitparks in Bagdad, bekannt für seine weithin sichtbaren Fahrgeschäfte und Riesenräder.",
+                  "category": "recreational",
+                  "coords": [
+                        44.449967,
+                        33.340791
+                  ]
+            },
+            {
+                  "name": "Al Rubaie Mosque",
+                  "text": "Eine lokale Nachbarschaftsmoschee mit einem schlanken Minarett, die als täglicher Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.450477,
+                        33.32323
+                  ]
+            },
+            {
+                  "name": "Teeba",
+                  "text": "Eine ruhige Gemeindemoschee, die einen friedlichen Raum für die täglichen Gebete der Anwohner bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.459282,
+                        33.330944
+                  ]
+            },
+            {
+                  "name": "Al-Thaqalayn Mosque",
+                  "text": "Eine schiitische Moschee, die für religiöse Zeremonien und Gedenkfeiern der lokalen Gemeinschaft genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.465509,
+                        33.353461
+                  ]
+            },
+            {
+                  "name": "ahmed alzady",
+                  "text": "Eine lokale religiöse Stätte und ein Ort der Besinnung, benannt nach einer respektierten Persönlichkeit.",
+                  "category": "religious",
+                  "coords": [
+                        44.448424,
+                        33.368314
+                  ]
+            },
+            {
+                  "name": "Owes Al-Qurni Mosque",
+                  "text": "Diese Moschee ist dem frühen islamischen Heiligen Uwais al-Qarni gewidmet und zieht lokale Gläubige an.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4645,
+                        33.3603
+                  ]
+            },
+            {
+                  "name": "Al-Imam Musa Al-Kazm Mosque",
+                  "text": "Eine verehrte Moschee, die dem Gedenken an den siebten schiitischen Imam, Musa al-Kadhim, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.503192,
+                        33.379602
+                  ]
+            },
+            {
+                  "name": "Batalat Karbala Mosque",
+                  "text": "Eine lokale Moschee zu Ehren von Zaynab bint Ali, die als Zentrum für das religiöse Leben im Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.496861,
+                        33.376562
+                  ]
+            },
+            {
+                  "name": "Sayd Al-Shuhada Mosque",
+                  "text": "Diese Moschee ist Imam Husayn gewidmet und ist ein bedeutender Ort für Gebete und Gedenkveranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        44.515523,
+                        33.37724
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad Al-Baqir Mosque",
+                  "text": "Eine religiöse Stätte, die dem fünften schiitischen Imam gewidmet ist und für seine ruhige Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.481598,
+                        33.394952
+                  ]
+            },
+            {
+                  "name": "Jamaa al-aabas",
+                  "text": "Eine Gemeinschaftsmoschee, die Al-Abbas ibn Ali gewidmet ist, einer zentralen Figur der Schlacht von Kerbela.",
+                  "category": "religious",
+                  "coords": [
+                        44.478757,
+                        33.39227
+                  ]
+            },
+            {
+                  "name": "Imam Al-Baqir Mosque",
+                  "text": "Eine Moschee in Bagdad, benannt nach Imam al-Baqir, die als Treffpunkt für das tägliche Gemeindengebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.479388,
+                        33.381217
+                  ]
+            },
+            {
+                  "name": "Al-Husen Al-Mujtabi Mosque",
+                  "text": "Ein Gebetshaus, das Imam Hasan al-Mujtaba gewidmet ist, dem Enkel des Propheten Mohammed.",
+                  "category": "religious",
+                  "coords": [
+                        44.459079,
+                        33.382012
+                  ]
+            },
+            {
+                  "name": "Al-Zahra Al-Batool Mosque",
+                  "text": "Diese Moschee ehrt Fatimah al-Zahra, die Tochter des Propheten, und ist ein wichtiger spiritueller Ort.",
+                  "category": "landmark",
+                  "coords": [
+                        44.452082,
+                        33.376901
+                  ]
+            },
+            {
+                  "name": "AL-Imamin AL-Askareain Mosque",
+                  "text": "Eine Gebetsstätte, die den beiden Askari-Imamen gewidmet ist und Gläubige aus der Umgebung anzieht.",
+                  "category": "religious",
+                  "coords": [
+                        44.457626,
+                        33.388521
+                  ]
+            },
+            {
+                  "name": "Al-Anbiya Mosque",
+                  "text": "Eine Moschee, die nach den Propheten benannt ist und als Ort für tägliche religiöse Unterweisungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.465364,
+                        33.402615
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Sadq Mosque",
+                  "text": "Ein religiöses Zentrum zu Ehren von Imam Ja'far al-Sadiq, dem Begründer der dschafaritischen Rechtsschule.",
+                  "category": "landmark",
+                  "coords": [
+                        44.479556,
+                        33.411602
+                  ]
+            },
+            {
+                  "name": "Tamhid Al-Zuhur Mosque",
+                  "text": "Eine lokale Gemeindemoschee, die einen friedlichen Raum für Reflexion und tägliche Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4361,
+                        33.398451
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Rada Mosque",
+                  "text": "Diese Moschee ist Imam Ali al-Ridha gewidmet und dient als wichtiges Zentrum für die lokale Frömmigkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        44.440985,
+                        33.380628
+                  ]
+            },
+            {
+                  "name": "Al-Mohsen Mosque",
+                  "text": "Eine Nachbarschaftsmoschee, die für ihre Beteiligung an sozialen Diensten und religiöser Bildung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.43927,
+                        33.37143
+                  ]
+            },
+            {
+                  "name": "Al-Imam Ali Mosque",
+                  "text": "Eine Moschee, die Imam Ali gewidmet ist, dem ersten schiitischen Imam, und ein zentraler Ort der Anbetung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.423222,
+                        33.35123
+                  ]
+            },
+            {
+                  "name": "Imam Ali Al-Hadi Mosque",
+                  "text": "Eine sakrale Stätte zu Ehren des zehnten Imams, Ali al-Hadi, die der spirituellen Stärkung der Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.432492,
+                        33.363144
+                  ]
+            },
+            {
+                  "name": "Al-Nabi Muhammad Mosque",
+                  "text": "Eine bedeutende Bagdader Moschee, die nach dem Propheten Mohammed benannt ist und ein großes Minarett besitzt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.440045,
+                        33.358661
+                  ]
+            },
+            {
+                  "name": "Rabi` Al-Awwal 12th Mosque",
+                  "text": "Der Name dieser Moschee erinnert an den 12. Rabi' al-Awwal, das überlieferte Datum der Geburt des Propheten.",
+                  "category": "landmark",
+                  "coords": [
+                        44.436799,
+                        33.345183
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "Eine christliche Kirche in Bagdad, die der Heiligen Dreifaltigkeit gewidmet ist und als Ort der Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.461948,
+                        33.355297
+                  ]
+            },
+            {
+                  "name": "Muslim Ibn Aqil Mosque",
+                  "text": "Eine Moschee in Bagdad, die Muslim ibn Aqil gewidmet ist, einer heldenhaften Figur der islamischen Frühgeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        44.45468,
+                        33.385368
+                  ]
+            },
+            {
+                  "name": "Al Ahba Market",
+                  "text": "Ein lebhafter lokaler Markt, auf dem frisches Obst, Gemüse und Textilien des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        44.450413,
+                        33.33397
+                  ]
+            },
+            {
+                  "name": "Alwat Jamilah",
+                  "text": "Einer der wichtigsten Großmärkte Bagdads für Lebensmittel, bekannt für seinen regen Handel mit Konsumgütern.",
+                  "category": "cultural",
+                  "coords": [
+                        44.434341,
+                        33.378148
+                  ]
+            },
+            {
+                  "name": "hassan sos",
+                  "text": "Eine örtlich bekannte heiße Quelle oder Thermalbad, die für ihr warmes und mineralreiches Wasser geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        44.445991,
+                        33.422634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Ma'mal Street",
+                  "text": "Történelmi utcarész az Al-Shaheed emlékmű közelében, amely Bagdad városépítészeti karakterét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        44.485217,
+                        33.382377
+                  ]
+            },
+            {
+                  "name": "sharie alkahraba",
+                  "text": "Ez a nyüzsgő bagdadi bevásárlóutca széles körben ismert számos elektromos cikkeket árusító üzletéről.",
+                  "category": "landmark",
+                  "coords": [
+                        44.494976,
+                        33.380294
+                  ]
+            },
+            {
+                  "name": "The House of the Masters",
+                  "text": "Jellegzetes történelmi épület hagyományos építészeti részletekkel, amely egy úri rezidenciára emlékeztet.",
+                  "category": "castle",
+                  "coords": [
+                        44.511508,
+                        33.372449
+                  ]
+            },
+            {
+                  "name": "Tall Halawah",
+                  "text": "Ősi mezopotámiai településhalom, amely az elmúlt évezredek régészeti rétegeit őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        44.487762,
+                        33.42558
+                  ]
+            },
+            {
+                  "name": "kids dream city",
+                  "text": "Színes fedett vidámpark, amely különféle játékokat és attrakciókat kínál gyermekek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.433665,
+                        33.343266
+                  ]
+            },
+            {
+                  "name": "Al-Shaheed Monument",
+                  "text": "Egy 1983-as monumentális emlékmű, amelynek kettéosztott türkizkék kupoláját Ismail Fatah Al Turk tervezte.",
+                  "category": "landmark",
+                  "coords": [
+                        44.446125,
+                        33.343441
+                  ]
+            },
+            {
+                  "name": "Baghdad Aqua Park",
+                  "text": "Modern vízi park csúszdákkal és medencékkel, amely kikapcsolódást nyújt a városi hőségben.",
+                  "category": "recreational",
+                  "coords": [
+                        44.455533,
+                        33.33786
+                  ]
+            },
+            {
+                  "name": "Sindbad Land",
+                  "text": "Bagdad egyik legnagyobb vidámparkja, amely messziről látható hullámvasútjairól és óriáskerekeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        44.449967,
+                        33.340791
+                  ]
+            },
+            {
+                  "name": "Al Rubaie Mosque",
+                  "text": "Helyi mecset karcsú minarettel, amely napi imádkozóhelyként szolgál a környékbelieknek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.450477,
+                        33.32323
+                  ]
+            },
+            {
+                  "name": "Teeba",
+                  "text": "Csendes közösségi mecset, amely békés helyszínt biztosít a környéken lakók napi imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.459282,
+                        33.330944
+                  ]
+            },
+            {
+                  "name": "Al-Thaqalayn Mosque",
+                  "text": "Síita mecset, amelyet vallási szertartásokra és a helyi közösség megemlékezéseire használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.465509,
+                        33.353461
+                  ]
+            },
+            {
+                  "name": "ahmed alzady",
+                  "text": "Helyi vallási helyszín és az elmélkedés helye, amelyet egy tisztelt személyiségről neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        44.448424,
+                        33.368314
+                  ]
+            },
+            {
+                  "name": "Owes Al-Qurni Mosque",
+                  "text": "Ezt a mecsetet Uwais al-Qarni korai iszlám szentnek szentelték, és vonzza a helyi hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4645,
+                        33.3603
+                  ]
+            },
+            {
+                  "name": "Al-Imam Musa Al-Kazm Mosque",
+                  "text": "A hetedik síita imám, Musza al-Kázim emlékének szentelt tisztelt mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        44.503192,
+                        33.379602
+                  ]
+            },
+            {
+                  "name": "Batalat Karbala Mosque",
+                  "text": "Zejnab bint Ali tiszteletére emelt helyi mecset, amely a környék vallási életének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.496861,
+                        33.376562
+                  ]
+            },
+            {
+                  "name": "Sayd Al-Shuhada Mosque",
+                  "text": "Ez a mecset Huszein imámnak van szentelve, és az imádságok és megemlékezések jelentős helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        44.515523,
+                        33.37724
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad Al-Baqir Mosque",
+                  "text": "Az ötödik síita imámnak szentelt vallási helyszín, amely nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.481598,
+                        33.394952
+                  ]
+            },
+            {
+                  "name": "Jamaa al-aabas",
+                  "text": "Közösségi mecset, amelyet al-Abbász ibn Alinak, a kerbelai csata központi alakjának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        44.478757,
+                        33.39227
+                  ]
+            },
+            {
+                  "name": "Imam Al-Baqir Mosque",
+                  "text": "Bagdadi mecset, amelyet al-Baqir imámról neveztek el, és a napi közösségi imák találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        44.479388,
+                        33.381217
+                  ]
+            },
+            {
+                  "name": "Al-Husen Al-Mujtabi Mosque",
+                  "text": "Imádság háza, amelyet Haszan al-Mudzsaba imámnak, Mohamed próféta unokájának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        44.459079,
+                        33.382012
+                  ]
+            },
+            {
+                  "name": "Al-Zahra Al-Batool Mosque",
+                  "text": "Ez a mecset Fatima al-Zahrát, a próféta lányát tiszteli meg, és fontos spirituális helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        44.452082,
+                        33.376901
+                  ]
+            },
+            {
+                  "name": "AL-Imamin AL-Askareain Mosque",
+                  "text": "A két Askari imámnak szentelt imádkozóhely, amely vonzza a környékbeli hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        44.457626,
+                        33.388521
+                  ]
+            },
+            {
+                  "name": "Al-Anbiya Mosque",
+                  "text": "A prófétákról elnevezett mecset, amely a napi vallási oktatás helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.465364,
+                        33.402615
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Sadq Mosque",
+                  "text": "Imám Dzsafar asz-Szádik, a dzsafarita jogi iskola alapítója tiszteletére emelt vallási központ.",
+                  "category": "landmark",
+                  "coords": [
+                        44.479556,
+                        33.411602
+                  ]
+            },
+            {
+                  "name": "Tamhid Al-Zuhur Mosque",
+                  "text": "Helyi közösségi mecset, amely békés teret biztosít az elmélkedéshez és a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4361,
+                        33.398451
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Rada Mosque",
+                  "text": "Ezt a mecsetet Ali ar-Rida imámnak szentelték, és a helyi vallásosság fontos központja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.440985,
+                        33.380628
+                  ]
+            },
+            {
+                  "name": "Al-Mohsen Mosque",
+                  "text": "Környékbeli mecset, amely a szociális szolgáltatásokban és a vallási oktatásban való részvételéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.43927,
+                        33.37143
+                  ]
+            },
+            {
+                  "name": "Al-Imam Ali Mosque",
+                  "text": "Ali imámnak, az első síita imámnak szentelt mecset, amely a hitélet központi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        44.423222,
+                        33.35123
+                  ]
+            },
+            {
+                  "name": "Imam Ali Al-Hadi Mosque",
+                  "text": "A tizedik imám, Ali al-Hadi tiszteletére emelt szent hely, amely a lakók spirituális épülését szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.432492,
+                        33.363144
+                  ]
+            },
+            {
+                  "name": "Al-Nabi Muhammad Mosque",
+                  "text": "Mohamed prófétáról elnevezett jelentős bagdadi mecset, amely nagy minarettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        44.440045,
+                        33.358661
+                  ]
+            },
+            {
+                  "name": "Rabi` Al-Awwal 12th Mosque",
+                  "text": "Ennek a mecsetnek a neve Rabi' al-Awwal 12-ére, a próféta születésének hagyományos dátumára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.436799,
+                        33.345183
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "A Szentháromságnak szentelt keresztény templom Bagdadban, amely a közösségi élet helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.461948,
+                        33.355297
+                  ]
+            },
+            {
+                  "name": "Muslim Ibn Aqil Mosque",
+                  "text": "Bagdadi mecset, amelyet Muslim ibn Aqilnek, a korai iszlám történelem hősies alakjának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.45468,
+                        33.385368
+                  ]
+            },
+            {
+                  "name": "Al Ahba Market",
+                  "text": "Élénk helyi piac, ahol friss gyümölcsökkel, zöldségekkel és napi szükségleti textilekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        44.450413,
+                        33.33397
+                  ]
+            },
+            {
+                  "name": "Alwat Jamilah",
+                  "text": "Bagdad egyik legfontosabb élelmiszer-nagykereskedelmi piaca, amely fogyasztási cikkek élénk kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.434341,
+                        33.378148
+                  ]
+            },
+            {
+                  "name": "hassan sos",
+                  "text": "Helyileg ismert melegvizes forrás vagy termálfürdő, amelyet meleg és ásványi anyagokban gazdag vize miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        44.445991,
+                        33.422634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Ma'mal Street",
+                  "text": "O zonă stradală istorică lângă Monumentul Al-Shaheed, reflectând caracterul urbanistic al Bagdadului.",
+                  "category": "historical",
+                  "coords": [
+                        44.485217,
+                        33.382377
+                  ]
+            },
+            {
+                  "name": "sharie alkahraba",
+                  "text": "Această stradă comercială animată din Bagdad este cunoscută pe scară largă pentru numeroasele sale magazine de articole electrice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.494976,
+                        33.380294
+                  ]
+            },
+            {
+                  "name": "The House of the Masters",
+                  "text": "O clădire istorică distinctivă, cu detalii arhitecturale tradiționale, care amintește de o reședință nobiliară.",
+                  "category": "castle",
+                  "coords": [
+                        44.511508,
+                        33.372449
+                  ]
+            },
+            {
+                  "name": "Tall Halawah",
+                  "text": "O movilă de așezare mesopotamiană antică, care păstrează straturi arheologice din mileniile trecute.",
+                  "category": "natural",
+                  "coords": [
+                        44.487762,
+                        33.42558
+                  ]
+            },
+            {
+                  "name": "kids dream city",
+                  "text": "Un parc de distracții interior colorat, care oferă o varietate de jocuri și atracții pentru copii.",
+                  "category": "landmark",
+                  "coords": [
+                        44.433665,
+                        33.343266
+                  ]
+            },
+            {
+                  "name": "Al-Shaheed Monument",
+                  "text": "Un monument memorial din 1983, cu o cupolă turcoaz divizată, proiectată de Ismail Fatah Al Turk.",
+                  "category": "landmark",
+                  "coords": [
+                        44.446125,
+                        33.343441
+                  ]
+            },
+            {
+                  "name": "Baghdad Aqua Park",
+                  "text": "Un parc acvatic modern cu tobogane și piscine, oferind recreere împotriva căldurii orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        44.455533,
+                        33.33786
+                  ]
+            },
+            {
+                  "name": "Sindbad Land",
+                  "text": "Unul dintre cele mai mari parcuri de distracții din Bagdad, cunoscut pentru caruselele și roțile sale panoramice vizibile de departe.",
+                  "category": "recreational",
+                  "coords": [
+                        44.449967,
+                        33.340791
+                  ]
+            },
+            {
+                  "name": "Al Rubaie Mosque",
+                  "text": "O moschee locală de cartier, cu un minaret zvelt, servind ca loc de rugăciune zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        44.450477,
+                        33.32323
+                  ]
+            },
+            {
+                  "name": "Teeba",
+                  "text": "O moschee comunitară liniștită, care oferă un spațiu pașnic pentru rugăciunile zilnice ale rezidenților.",
+                  "category": "landmark",
+                  "coords": [
+                        44.459282,
+                        33.330944
+                  ]
+            },
+            {
+                  "name": "Al-Thaqalayn Mosque",
+                  "text": "O moschee șiită utilizată pentru ceremonii religioase și comemorări ale comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.465509,
+                        33.353461
+                  ]
+            },
+            {
+                  "name": "ahmed alzady",
+                  "text": "Un sit religios local și un loc de reflecție, numit după o personalitate respectată.",
+                  "category": "religious",
+                  "coords": [
+                        44.448424,
+                        33.368314
+                  ]
+            },
+            {
+                  "name": "Owes Al-Qurni Mosque",
+                  "text": "Această moschee este dedicată sfântului islamic timpuriu Uwais al-Qarni și atrage credincioși locali.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4645,
+                        33.3603
+                  ]
+            },
+            {
+                  "name": "Al-Imam Musa Al-Kazm Mosque",
+                  "text": "O moschee venerată dedicată memoriei celui de-al șaptelea imam șiit, Musa al-Kadhim.",
+                  "category": "landmark",
+                  "coords": [
+                        44.503192,
+                        33.379602
+                  ]
+            },
+            {
+                  "name": "Batalat Karbala Mosque",
+                  "text": "O moschee locală în cinstea lui Zaynab bint Ali, servind ca centru pentru viața religioasă din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        44.496861,
+                        33.376562
+                  ]
+            },
+            {
+                  "name": "Sayd Al-Shuhada Mosque",
+                  "text": "Această moschee este dedicată imamului Husayn și este un loc semnificativ pentru rugăciuni și evenimente comemorative.",
+                  "category": "landmark",
+                  "coords": [
+                        44.515523,
+                        33.37724
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad Al-Baqir Mosque",
+                  "text": "Un sit religios dedicat celui de-al cincilea imam șiit, cunoscut pentru atmosfera sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        44.481598,
+                        33.394952
+                  ]
+            },
+            {
+                  "name": "Jamaa al-aabas",
+                  "text": "O moschee comunitară dedicată lui Al-Abbas ibn Ali, o figură centrală a bătăliei de la Karbala.",
+                  "category": "religious",
+                  "coords": [
+                        44.478757,
+                        33.39227
+                  ]
+            },
+            {
+                  "name": "Imam Al-Baqir Mosque",
+                  "text": "O moschee din Bagdad numită după imamul al-Baqir, servind ca loc de întâlnire pentru rugăciunea zilnică a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        44.479388,
+                        33.381217
+                  ]
+            },
+            {
+                  "name": "Al-Husen Al-Mujtabi Mosque",
+                  "text": "O casă de rugăciune dedicată imamului Hasan al-Mujtaba, nepotul profetului Mahomed.",
+                  "category": "religious",
+                  "coords": [
+                        44.459079,
+                        33.382012
+                  ]
+            },
+            {
+                  "name": "Al-Zahra Al-Batool Mosque",
+                  "text": "Această moschee o onorează pe Fatimah al-Zahra, fiica Profetului, fiind un loc spiritual important.",
+                  "category": "landmark",
+                  "coords": [
+                        44.452082,
+                        33.376901
+                  ]
+            },
+            {
+                  "name": "AL-Imamin AL-Askareain Mosque",
+                  "text": "Un loc de rugăciune dedicat celor doi imami Askari, atrăgând credincioși din zona înconjurătoare.",
+                  "category": "religious",
+                  "coords": [
+                        44.457626,
+                        33.388521
+                  ]
+            },
+            {
+                  "name": "Al-Anbiya Mosque",
+                  "text": "O moschee numită după profeți, servind ca loc pentru instruirea religioasă zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        44.465364,
+                        33.402615
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Sadq Mosque",
+                  "text": "Un centru religios în onoarea imamului Ja'far al-Sadiq, fondatorul școlii de drept Ja'fari.",
+                  "category": "landmark",
+                  "coords": [
+                        44.479556,
+                        33.411602
+                  ]
+            },
+            {
+                  "name": "Tamhid Al-Zuhur Mosque",
+                  "text": "O moschee comunitară locală care oferă un spațiu liniștit pentru reflecție și rugăciuni zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4361,
+                        33.398451
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Rada Mosque",
+                  "text": "Această moschee este dedicată imamului Ali al-Ridha și servește ca un centru important pentru evlavia locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.440985,
+                        33.380628
+                  ]
+            },
+            {
+                  "name": "Al-Mohsen Mosque",
+                  "text": "O moschee de cartier cunoscută pentru implicarea sa în servicii sociale și educație religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.43927,
+                        33.37143
+                  ]
+            },
+            {
+                  "name": "Al-Imam Ali Mosque",
+                  "text": "O moschee dedicată imamului Ali, primul imam șiit, fiind un loc central de închinare.",
+                  "category": "landmark",
+                  "coords": [
+                        44.423222,
+                        33.35123
+                  ]
+            },
+            {
+                  "name": "Imam Ali Al-Hadi Mosque",
+                  "text": "Un sit sacru în onoarea celui de-al zecelea imam, Ali al-Hadi, servind la întărirea spirituală a locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.432492,
+                        33.363144
+                  ]
+            },
+            {
+                  "name": "Al-Nabi Muhammad Mosque",
+                  "text": "O moschee importantă din Bagdad numită după profetul Mahomed, având un minaret mare.",
+                  "category": "landmark",
+                  "coords": [
+                        44.440045,
+                        33.358661
+                  ]
+            },
+            {
+                  "name": "Rabi` Al-Awwal 12th Mosque",
+                  "text": "Numele acestei moschei comemorează data de 12 Rabi' al-Awwal, data tradițională a nașterii Profetului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.436799,
+                        33.345183
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "O biserică creștină din Bagdad dedicată Sfintei Treimi, servind ca loc de comuniune.",
+                  "category": "landmark",
+                  "coords": [
+                        44.461948,
+                        33.355297
+                  ]
+            },
+            {
+                  "name": "Muslim Ibn Aqil Mosque",
+                  "text": "O moschee din Bagdad dedicată lui Muslim ibn Aqil, o figură eroică din istoria islamică timpurie.",
+                  "category": "landmark",
+                  "coords": [
+                        44.45468,
+                        33.385368
+                  ]
+            },
+            {
+                  "name": "Al Ahba Market",
+                  "text": "O piață locală vibrantă unde se comercializează fructe proaspete, legume și textile de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        44.450413,
+                        33.33397
+                  ]
+            },
+            {
+                  "name": "Alwat Jamilah",
+                  "text": "Una dintre cele mai importante piețe angro de alimente din Bagdad, cunoscută pentru comerțul intens cu bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        44.434341,
+                        33.378148
+                  ]
+            },
+            {
+                  "name": "hassan sos",
+                  "text": "Un izvor termal sau o baie termală cunoscută local, apreciată pentru apele sale calde și bogate în minerale.",
+                  "category": "natural",
+                  "coords": [
+                        44.445991,
+                        33.422634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Ma'mal Street",
+                  "text": "A historic street area near the Al-Shaheed Monument reflecting the urban character of Baghdad.",
+                  "category": "historical",
+                  "coords": [
+                        44.485217,
+                        33.382377
+                  ]
+            },
+            {
+                  "name": "sharie alkahraba",
+                  "text": "This bustling Baghdad commercial street is widely known for its numerous shops selling electrical goods.",
+                  "category": "landmark",
+                  "coords": [
+                        44.494976,
+                        33.380294
+                  ]
+            },
+            {
+                  "name": "The House of the Masters",
+                  "text": "A distinctive historic building with traditional architectural details, resembling a stately residence.",
+                  "category": "castle",
+                  "coords": [
+                        44.511508,
+                        33.372449
+                  ]
+            },
+            {
+                  "name": "Tall Halawah",
+                  "text": "An ancient Mesopotamian settlement mound that preserves archaeological layers from past millennia.",
+                  "category": "natural",
+                  "coords": [
+                        44.487762,
+                        33.42558
+                  ]
+            },
+            {
+                  "name": "kids dream city",
+                  "text": "A colorful indoor amusement park offering a variety of games and attractions for children.",
+                  "category": "landmark",
+                  "coords": [
+                        44.433665,
+                        33.343266
+                  ]
+            },
+            {
+                  "name": "Al-Shaheed Monument",
+                  "text": "A monumental 1983 memorial featuring a split turquoise dome designed by Ismail Fatah Al Turk.",
+                  "category": "landmark",
+                  "coords": [
+                        44.446125,
+                        33.343441
+                  ]
+            },
+            {
+                  "name": "Baghdad Aqua Park",
+                  "text": "A modern water park with slides and pools providing recreation from the city heat.",
+                  "category": "recreational",
+                  "coords": [
+                        44.455533,
+                        33.33786
+                  ]
+            },
+            {
+                  "name": "Sindbad Land",
+                  "text": "One of the largest amusement parks in Baghdad, known for its thrill rides and Ferris wheels visible from afar.",
+                  "category": "recreational",
+                  "coords": [
+                        44.449967,
+                        33.340791
+                  ]
+            },
+            {
+                  "name": "Al Rubaie Mosque",
+                  "text": "A local neighborhood mosque with a slender minaret, serving as a daily prayer site.",
+                  "category": "landmark",
+                  "coords": [
+                        44.450477,
+                        33.32323
+                  ]
+            },
+            {
+                  "name": "Teeba",
+                  "text": "A quiet community mosque providing a peaceful space for the daily prayers of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        44.459282,
+                        33.330944
+                  ]
+            },
+            {
+                  "name": "Al-Thaqalayn Mosque",
+                  "text": "A Shi'a mosque used for religious ceremonies and commemorations by the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.465509,
+                        33.353461
+                  ]
+            },
+            {
+                  "name": "ahmed alzady",
+                  "text": "A local religious site and place of reflection named after a respected figure.",
+                  "category": "religious",
+                  "coords": [
+                        44.448424,
+                        33.368314
+                  ]
+            },
+            {
+                  "name": "Owes Al-Qurni Mosque",
+                  "text": "This mosque is dedicated to the early Islamic saint Uwais al-Qarni and attracts local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4645,
+                        33.3603
+                  ]
+            },
+            {
+                  "name": "Al-Imam Musa Al-Kazm Mosque",
+                  "text": "A venerated mosque dedicated to the memory of the seventh Shi'a Imam, Musa al-Kadhim.",
+                  "category": "landmark",
+                  "coords": [
+                        44.503192,
+                        33.379602
+                  ]
+            },
+            {
+                  "name": "Batalat Karbala Mosque",
+                  "text": "A local mosque honoring Zaynab bint Ali, serving as a center for religious life in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        44.496861,
+                        33.376562
+                  ]
+            },
+            {
+                  "name": "Sayd Al-Shuhada Mosque",
+                  "text": "This mosque is dedicated to Imam Husayn and is a significant site for prayers and commemorative events.",
+                  "category": "landmark",
+                  "coords": [
+                        44.515523,
+                        33.37724
+                  ]
+            },
+            {
+                  "name": "Imam Muhammad Al-Baqir Mosque",
+                  "text": "A religious site dedicated to the fifth Shi'a Imam, known for its serene atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        44.481598,
+                        33.394952
+                  ]
+            },
+            {
+                  "name": "Jamaa al-aabas",
+                  "text": "A community mosque dedicated to Al-Abbas ibn Ali, a central figure of the Battle of Karbala.",
+                  "category": "religious",
+                  "coords": [
+                        44.478757,
+                        33.39227
+                  ]
+            },
+            {
+                  "name": "Imam Al-Baqir Mosque",
+                  "text": "A Baghdad mosque named after Imam al-Baqir, serving as a meeting point for daily communal prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        44.479388,
+                        33.381217
+                  ]
+            },
+            {
+                  "name": "Al-Husen Al-Mujtabi Mosque",
+                  "text": "A house of prayer dedicated to Imam Hasan al-Mujtaba, the grandson of the Prophet Muhammad.",
+                  "category": "religious",
+                  "coords": [
+                        44.459079,
+                        33.382012
+                  ]
+            },
+            {
+                  "name": "Al-Zahra Al-Batool Mosque",
+                  "text": "This mosque honors Fatimah al-Zahra, the daughter of the Prophet, and is an important spiritual site.",
+                  "category": "landmark",
+                  "coords": [
+                        44.452082,
+                        33.376901
+                  ]
+            },
+            {
+                  "name": "AL-Imamin AL-Askareain Mosque",
+                  "text": "A prayer site dedicated to the two Askari Imams, attracting worshippers from the surrounding area.",
+                  "category": "religious",
+                  "coords": [
+                        44.457626,
+                        33.388521
+                  ]
+            },
+            {
+                  "name": "Al-Anbiya Mosque",
+                  "text": "A mosque named after the prophets, serving as a venue for daily religious instruction.",
+                  "category": "landmark",
+                  "coords": [
+                        44.465364,
+                        33.402615
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Sadq Mosque",
+                  "text": "A religious center honoring Imam Ja'far al-Sadiq, the founder of the Ja'fari school of law.",
+                  "category": "landmark",
+                  "coords": [
+                        44.479556,
+                        33.411602
+                  ]
+            },
+            {
+                  "name": "Tamhid Al-Zuhur Mosque",
+                  "text": "A local community mosque providing a peaceful space for reflection and daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4361,
+                        33.398451
+                  ]
+            },
+            {
+                  "name": "Al-Imam Al-Rada Mosque",
+                  "text": "This mosque is dedicated to Imam Ali al-Ridha and serves as an important center for local piety.",
+                  "category": "landmark",
+                  "coords": [
+                        44.440985,
+                        33.380628
+                  ]
+            },
+            {
+                  "name": "Al-Mohsen Mosque",
+                  "text": "A neighborhood mosque known for its involvement in social services and religious education.",
+                  "category": "landmark",
+                  "coords": [
+                        44.43927,
+                        33.37143
+                  ]
+            },
+            {
+                  "name": "Al-Imam Ali Mosque",
+                  "text": "A mosque dedicated to Imam Ali, the first Shi'a Imam, and a central site of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        44.423222,
+                        33.35123
+                  ]
+            },
+            {
+                  "name": "Imam Ali Al-Hadi Mosque",
+                  "text": "A sacred site honoring the tenth Imam, Ali al-Hadi, serving the spiritual enrichment of residents.",
+                  "category": "landmark",
+                  "coords": [
+                        44.432492,
+                        33.363144
+                  ]
+            },
+            {
+                  "name": "Al-Nabi Muhammad Mosque",
+                  "text": "A prominent Baghdad mosque named after the Prophet Muhammad, featuring a large minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        44.440045,
+                        33.358661
+                  ]
+            },
+            {
+                  "name": "Rabi` Al-Awwal 12th Mosque",
+                  "text": "This mosque's name commemorates the 12th of Rabi' al-Awwal, the traditional date of the Prophet's birth.",
+                  "category": "landmark",
+                  "coords": [
+                        44.436799,
+                        33.345183
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "A Christian church in Baghdad dedicated to the Holy Trinity, serving as a place of fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        44.461948,
+                        33.355297
+                  ]
+            },
+            {
+                  "name": "Muslim Ibn Aqil Mosque",
+                  "text": "A Baghdad mosque dedicated to Muslim ibn Aqil, a heroic figure from early Islamic history.",
+                  "category": "landmark",
+                  "coords": [
+                        44.45468,
+                        33.385368
+                  ]
+            },
+            {
+                  "name": "Al Ahba Market",
+                  "text": "A vibrant local market where fresh fruits, vegetables, and daily necessity textiles are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        44.450413,
+                        33.33397
+                  ]
+            },
+            {
+                  "name": "Alwat Jamilah",
+                  "text": "One of Baghdad's most important wholesale food markets, known for its busy trade in consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        44.434341,
+                        33.378148
+                  ]
+            },
+            {
+                  "name": "hassan sos",
+                  "text": "A locally known hot spring or thermal bath valued for its warm and mineral-rich waters.",
+                  "category": "natural",
+                  "coords": [
+                        44.445991,
+                        33.422634
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "IQ-BG",
     coords: [44.4469, 33.3425],

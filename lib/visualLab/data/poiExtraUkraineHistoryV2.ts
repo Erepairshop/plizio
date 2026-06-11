@@ -7,7 +7,7 @@ export const ukraineHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Скалки",
-                  "text": "Скалки ist ein Strandabschnitt in Chersonesus.",
+                  "text": "Skalki, ein felsiges Erholungsgebiet in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.487929,
@@ -16,7 +16,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Средние скалки",
-                  "text": "Средние скалки ist ein Strandbereich in Chersonesus.",
+                  "text": "Mittlere Skalki, ein felsiges Gebiet in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.486733,
@@ -25,7 +25,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Малые скалки",
-                  "text": "Малые скалки ist ein kleiner Strand in Chersonesus.",
+                  "text": "Kleine Skalki, ein felsiges Gebiet in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.485671,
@@ -34,7 +34,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Яхт-Клуб Юг",
-                  "text": "Яхт-Клуб Юг ist ein Strandbereich am Yachtclub in Chersonesus.",
+                  "text": "Jachtclub Süd, ein Jachthafen in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.448973,
@@ -43,7 +43,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Пляж \"Парк Победы\"",
-                  "text": "Der Beach \"Victory Park\" ist ein beliebter Strand in Chersonesus.",
+                  "text": "Siegespark-Strand, ein Strand in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.45635,
@@ -52,7 +52,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Солнечный",
-                  "text": "Ein lokaler Strand im Gebiet von Chersones.",
+                  "text": "Der Strand Solnetschny („Sonnig“) in Chersones liegt an der Schwarzmeerküste nahe der antiken Stadt.",
                   "category": "recreational",
                   "coords": [
                         33.485017,
@@ -61,7 +61,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Песочный",
-                  "text": "Ein Sandstrand in der Region Chersones.",
+                  "text": "Sandstrand (Pesochny) in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.481237,
@@ -70,7 +70,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Дикий пляж",
-                  "text": "Ein natürlicher wilder Strand in Chersones.",
+                  "text": "Ein wilder, unerschlossener Strand in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.451398,
@@ -79,7 +79,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Вертолётка",
-                  "text": "Ein Küstenstrandabschnitt in Chersones.",
+                  "text": "Vertoletka-Strand, ein Erholungsgebiet in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.448104,
@@ -90,7 +90,7 @@ export const ukraineHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Скалки",
-                  "text": "A Скалки egy tengerparti strand Chersonesusban.",
+                  "text": "Skalki, egy sziklás rekreációs terület Chersonesusban.",
                   "category": "recreational",
                   "coords": [
                         33.487929,
@@ -99,7 +99,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Средние скалки",
-                  "text": "A Средние скалки egy tengerparti strand Chersonesusban.",
+                  "text": "Középső Skalki, egy sziklás terület Chersonesusban.",
                   "category": "recreational",
                   "coords": [
                         33.486733,
@@ -108,7 +108,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Малые скалки",
-                  "text": "A Малые скалки egy kisebb tengerparti strand Chersonesusban.",
+                  "text": "Kis Skalki, egy sziklás terület Chersonesusban.",
                   "category": "recreational",
                   "coords": [
                         33.485671,
@@ -117,7 +117,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Яхт-Клуб Юг",
-                  "text": "A Яхт-Клуб Юг egy tengerparti strand Chersonesusban.",
+                  "text": "Jachtklub Dél, egy kikötő Chersonesusban.",
                   "category": "recreational",
                   "coords": [
                         33.448973,
@@ -126,7 +126,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Пляж \"Парк Победы\"",
-                  "text": "A Beach \"Victory Park\" egy tengerparti strand Chersonesusban.",
+                  "text": "Győzelem Park strand, egy strand Chersonesusban.",
                   "category": "recreational",
                   "coords": [
                         33.45635,
@@ -135,7 +135,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Солнечный",
-                  "text": "Egy helyi strand Herszonészosz területén.",
+                  "text": "A Szolnyecsnij („Napos”) strand Herszonészosznál a Fekete-tenger partján található, az ókori város közelében.",
                   "category": "recreational",
                   "coords": [
                         33.485017,
@@ -144,7 +144,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Песочный",
-                  "text": "Homokos strand Herszonészosz régiójában.",
+                  "text": "Homokos strand (Peszocsnij) Chersonesusban.",
                   "category": "recreational",
                   "coords": [
                         33.481237,
@@ -153,7 +153,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Дикий пляж",
-                  "text": "Természetes vadvízi strand Herszonészoszban.",
+                  "text": "Egy vad, kiépítetlen strand Chersonesusban.",
                   "category": "recreational",
                   "coords": [
                         33.451398,
@@ -162,7 +162,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Вертолётка",
-                  "text": "Tengerparti strandterület Herszonészoszban.",
+                  "text": "Vertoletka strand, egy rekreációs terület Chersonesusban.",
                   "category": "recreational",
                   "coords": [
                         33.448104,
@@ -173,7 +173,7 @@ export const ukraineHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Скалки",
-                  "text": "Скалки este o plajă situată în Chersonesus.",
+                  "text": "Skalki, o zonă stâncoasă de agrement în Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.487929,
@@ -182,7 +182,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Средние скалки",
-                  "text": "Средние скалки este o plajă situată în Chersonesus.",
+                  "text": "Skalki de Mijloc, o zonă stâncoasă în Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.486733,
@@ -191,7 +191,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Малые скалки",
-                  "text": "Малые скалки este o plajă situată în Chersonesus.",
+                  "text": "Skalki Mici, o zonă stâncoasă în Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.485671,
@@ -200,7 +200,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Яхт-Клуб Юг",
-                  "text": "Яхт-Клуб Юг este o plajă situată în Chersonesus.",
+                  "text": "Yacht Club Sud, o marină în Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.448973,
@@ -209,7 +209,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Пляж \"Парк Победы\"",
-                  "text": "Beach \"Victory Park\" este o plajă situată în Chersonesus.",
+                  "text": "Plaja Parcul Victoriei, o plajă în Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.45635,
@@ -218,7 +218,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Солнечный",
-                  "text": "O plajă locală situată în zona Chersones.",
+                  "text": "Plaja Solnechny („Însorită”) din Chersones este situată pe coasta Mării Negre, lângă orașul antic.",
                   "category": "recreational",
                   "coords": [
                         33.485017,
@@ -227,7 +227,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Песочный",
-                  "text": "O plajă cu nisip situată în regiunea Chersones.",
+                  "text": "Plaja Nisipoasă (Pesochny) în Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.481237,
@@ -236,7 +236,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Дикий пляж",
-                  "text": "O plajă sălbatică naturală situată în Chersones.",
+                  "text": "O plajă sălbatică, neamenajată în Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.451398,
@@ -245,7 +245,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Вертолётка",
-                  "text": "O zonă de plajă de coastă în Chersones.",
+                  "text": "Plaja Vertoletka, o zonă de agrement în Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.448104,
@@ -256,7 +256,7 @@ export const ukraineHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Скалки",
-                  "text": "Скалки is a beach located in Chersonesus.",
+                  "text": "Skalki, a rocky recreational area in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.487929,
@@ -265,7 +265,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Средние скалки",
-                  "text": "Средние скалки is a beach located in Chersonesus.",
+                  "text": "Middle Skalki, a rocky area in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.486733,
@@ -274,7 +274,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Малые скалки",
-                  "text": "Малые скалки is a beach located in Chersonesus.",
+                  "text": "Small Skalki, a rocky area in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.485671,
@@ -283,7 +283,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Яхт-Клуб Юг",
-                  "text": "Яхт-Клуб Юг is a beach located in Chersonesus.",
+                  "text": "Yacht Club South, a marina in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.448973,
@@ -292,7 +292,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Beach \"Victory Park\"",
-                  "text": "Beach \"Victory Park\" is a beach located in Chersonesus.",
+                  "text": "Victory Park Beach, a beach in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.45635,
@@ -301,7 +301,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Солнечный",
-                  "text": "A local beach located in the Chersonesus area.",
+                  "text": "Solnechny („Sunny”) beach in Chersonesus lies on the Black Sea coast near the ancient city.",
                   "category": "recreational",
                   "coords": [
                         33.485017,
@@ -310,7 +310,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Песочный",
-                  "text": "A sandy beach situated in the Chersonesus region.",
+                  "text": "Sandy Beach (Pesochny) in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.481237,
@@ -319,7 +319,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Wild beach",
-                  "text": "A natural wild beach located in Chersonesus.",
+                  "text": "A wild, undeveloped beach in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.451398,
@@ -328,7 +328,7 @@ export const ukraineHistoryV2: POI[] = [
             },
             {
                   "name": "Vertoletka",
-                  "text": "A coastal beach area in Chersonesus.",
+                  "text": "Vertoletka Beach, a recreational area in Chersonesus.",
                   "category": "recreational",
                   "coords": [
                         33.448104,
@@ -559,7 +559,7 @@ imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk",
       "de": [
             {
                   "name": "Bila",
-                  "text": "Ein Denkmal auf dem Gelände des Schlosses Pidhirtsi.",
+                  "text": "Bila, ein historisches weißes Gebäude auf der Burg Pidhirtsi.",
                   "category": "historical",
                   "coords": [
                         24.94333,
@@ -570,7 +570,7 @@ imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk",
       "hu": [
             {
                   "name": "Bila",
-                  "text": "Egy emlékmű a pidhirtsi vár területén.",
+                  "text": "Bila, egy történelmi fehér épület a Pidhirtsi kastélyban.",
                   "category": "historical",
                   "coords": [
                         24.94333,
@@ -581,7 +581,7 @@ imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk",
       "ro": [
             {
                   "name": "Bila",
-                  "text": "Un monument situat pe terenul castelului Pidhirtsi.",
+                  "text": "Bila, o structură istorică albă la Castelul Pidhirtsi.",
                   "category": "historical",
                   "coords": [
                         24.94333,
@@ -592,7 +592,7 @@ imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk",
       "en": [
             {
                   "name": "Bila",
-                  "text": "A monument located on the grounds of Pidhirtsi Castle.",
+                  "text": "Bila, a historical white structure at Pidhirtsi Castle.",
                   "category": "historical",
                   "coords": [
                         24.94333,
@@ -2376,7 +2376,7 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
             },
             {
                   "name": "Ай-Панда",
-                  "text": "Eine Ferienanlage am Strand beim Woronzow-Palast.",
+                  "text": "Ai-Panda, ein Erholungsgebiet beim Woronzow-Palast.",
                   "category": "recreational",
                   "coords": [
                         34.004454,
@@ -2621,7 +2621,7 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
             },
             {
                   "name": "Ай-Панда",
-                  "text": "Tengerparti üdülőhely a Voroncov-palotánál.",
+                  "text": "Ai-Panda, egy rekreációs terület a Voroncov-palota közelében.",
                   "category": "recreational",
                   "coords": [
                         34.004454,
@@ -2866,7 +2866,7 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
             },
             {
                   "name": "Ай-Панда",
-                  "text": "O stațiune de plajă lângă Palatul Voronțov.",
+                  "text": "Ai-Panda, o zonă de agrement lângă Palatul Vorontsov.",
                   "category": "recreational",
                   "coords": [
                         34.004454,
@@ -3111,7 +3111,7 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
             },
             {
                   "name": "Ai-Panda",
-                  "text": "A beach resort near the Vorontsov Palace.",
+                  "text": "Ai-Panda, a recreational area near Vorontsov Palace.",
                   "category": "recreational",
                   "coords": [
                         34.004454,
@@ -3187,7 +3187,7 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
             },
             {
                   "name": "Дельфин",
-                  "text": "Ein bekannter Strandabschnitt an der Küste von Liwadija.",
+                  "text": "Delfinstrand, ein Erholungsstrand beim Livadija-Palast.",
                   "category": "recreational",
                   "coords": [
                         34.156657,
@@ -3196,7 +3196,7 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
             },
             {
                   "name": "Дельфин",
-                  "text": "Ein weiterer Küstenabschnitt für Badegäste in Liwadija.",
+                  "text": "Delfinstrand, ein Erholungsstrand beim Livadija-Palast.",
                   "category": "recreational",
                   "coords": [
                         34.155828,
@@ -3216,7 +3216,7 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
             },
             {
                   "name": "Дельфин",
-                  "text": "Ismert strandszakasz Livadia partjainál.",
+                  "text": "Delfin strand, egy rekreációs strand a Livadija-palota közelében.",
                   "category": "recreational",
                   "coords": [
                         34.156657,
@@ -3225,7 +3225,7 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
             },
             {
                   "name": "Дельфин",
-                  "text": "Egy másik tengerparti szakasz fürdőzőknek Livadiában.",
+                  "text": "Delfin strand, egy rekreációs strand a Livadija-palota közelében.",
                   "category": "recreational",
                   "coords": [
                         34.155828,
@@ -3245,7 +3245,7 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
             },
             {
                   "name": "Дельфин",
-                  "text": "O porțiune de plajă cunoscută pe coasta din Livadia.",
+                  "text": "Plaja Delfin, o plajă de agrement lângă Palatul Livadia.",
                   "category": "recreational",
                   "coords": [
                         34.156657,
@@ -3254,7 +3254,7 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
             },
             {
                   "name": "Дельфин",
-                  "text": "O altă secțiune de coastă pentru scăldat în Livadia.",
+                  "text": "Plaja Delfin, o plajă de agrement lângă Palatul Livadia.",
                   "category": "recreational",
                   "coords": [
                         34.155828,
@@ -3274,7 +3274,7 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
             },
             {
                   "name": "Дельфин",
-                  "text": "A well-known beach section on the coast of Livadia.",
+                  "text": "Dolphin Beach, a recreational beach near Livadia Palace.",
                   "category": "recreational",
                   "coords": [
                         34.156657,
@@ -3283,7 +3283,7 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
             },
             {
                   "name": "Дельфин",
-                  "text": "Another coastal section for bathers in Livadia.",
+                  "text": "Dolphin Beach, a recreational beach near Livadia Palace.",
                   "category": "recreational",
                   "coords": [
                         34.155828,
@@ -3341,7 +3341,7 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
       "de": [
             {
                   "name": "Изумрудный",
-                  "text": "Izumrudny ist ein Strand in der Nähe des Massandra-Palastes.",
+                  "text": "Smaragdstrand (Isumrudny) bei der Massandra-Palast.",
                   "category": "recreational",
                   "coords": [
                         34.195261,
@@ -3350,7 +3350,7 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
             },
             {
                   "name": "\"НЕБО beach\"",
-                  "text": "Das NEBO beach ist ein Strandresort in Massandra Palace.",
+                  "text": "Himmelstrand (NEBO Beach) bei der Massandra-Palast.",
                   "category": "recreational",
                   "coords": [
                         34.191218,
@@ -3361,7 +3361,7 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
       "hu": [
             {
                   "name": "Изумрудный",
-                  "text": "Az Izumrudnij egy strand a Masszandra-palota közelében.",
+                  "text": "Smaragd strand (Izumrudnyj) a Masszandra-palota közelében.",
                   "category": "recreational",
                   "coords": [
                         34.195261,
@@ -3370,7 +3370,7 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
             },
             {
                   "name": "\"НЕБО beach\"",
-                  "text": "A NEBO beach egy strandüdülőhely Massandra Palace-ban.",
+                  "text": "Ég strand (NEBO Beach) a Masszandra-palota közelében.",
                   "category": "recreational",
                   "coords": [
                         34.191218,
@@ -3381,7 +3381,7 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
       "ro": [
             {
                   "name": "Изумрудный",
-                  "text": "Izumrudny este o plajă situată în apropierea Palatului Massandra.",
+                  "text": "Plaja Smarald (Izumrudny) lângă Palatul Massandra.",
                   "category": "recreational",
                   "coords": [
                         34.195261,
@@ -3390,7 +3390,7 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
             },
             {
                   "name": "\"НЕБО beach\"",
-                  "text": "NEBO beach este o stațiune de plajă în Massandra Palace.",
+                  "text": "Plaja Cer (NEBO beach) lângă Palatul Massandra.",
                   "category": "recreational",
                   "coords": [
                         34.191218,
@@ -3401,7 +3401,7 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
       "en": [
             {
                   "name": "Изумрудный",
-                  "text": "Izumrudny is a beach located near the Massandra Palace.",
+                  "text": "Emerald Beach (Izumrudny) near Massandra Palace.",
                   "category": "recreational",
                   "coords": [
                         34.195261,
@@ -3410,7 +3410,7 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
             },
             {
                   "name": "\"НЕБО beach\"",
-                  "text": "NEBO beach is a beach resort located in Massandra Palace.",
+                  "text": "Sky Beach (NEBO beach) near Massandra Palace.",
                   "category": "recreational",
                   "coords": [
                         34.191218,
@@ -3468,7 +3468,7 @@ imageHint: "French-style Massandra Palace with ornate towers and yellow brickwor
       "de": [
             {
                   "name": "Galiavina \"Zirki\"",
-                  "text": "Die Lichtung \"Sterne\" ist ein malerischer Teil des Kachanivka-Anwesens.",
+                  "text": "Die Lichtung der Sterne, ein Wahrzeichen auf dem Gut Kachanivka.",
                   "category": "landmark",
                   "coords": [
                         32.663906,
@@ -3488,7 +3488,7 @@ imageHint: "French-style Massandra Palace with ornate towers and yellow brickwor
       "hu": [
             {
                   "name": "Galiavina \"Zirki\"",
-                  "text": "A „Csillagok” tisztás a Kachanivka-birtok egyik festői területe.",
+                  "text": "A Csillagok rétje, egy nevezetesség a Kachanivka birtokon.",
                   "category": "landmark",
                   "coords": [
                         32.663906,
@@ -3508,7 +3508,7 @@ imageHint: "French-style Massandra Palace with ornate towers and yellow brickwor
       "ro": [
             {
                   "name": "Galiavina \"Zirki\"",
-                  "text": "Poiana „Stele” este o zonă pitorească a domeniului Kachanivka.",
+                  "text": "Poiana Stelelor, un reper pe Domeniul Kachanivka.",
                   "category": "landmark",
                   "coords": [
                         32.663906,
@@ -3528,7 +3528,7 @@ imageHint: "French-style Massandra Palace with ornate towers and yellow brickwor
       "en": [
             {
                   "name": "The Glade \"Stars\"",
-                  "text": "The Glade \"Stars\" is a scenic part of the Kachanivka Estate.",
+                  "text": "The Glade of Stars, a landmark clearing at Kachanivka Estate.",
                   "category": "landmark",
                   "coords": [
                         32.663906,
@@ -4367,7 +4367,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "de": [
             {
                   "name": "Grinvich",
-                  "text": "Ein Strandresort in der Nähe der Burg von Sbarasch.",
+                  "text": "Greenwich, ein Erholungsgebiet auf der Burg Zbarazh.",
                   "category": "recreational",
                   "coords": [
                         25.750467,
@@ -4378,7 +4378,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "hu": [
             {
                   "name": "Grinvich",
-                  "text": "Tengerparti üdülőhely a zbarazsi vár közelében.",
+                  "text": "Greenwich, egy rekreációs terület a Zbarazs várban.",
                   "category": "recreational",
                   "coords": [
                         25.750467,
@@ -4389,7 +4389,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "ro": [
             {
                   "name": "Grinvich",
-                  "text": "O stațiune la plajă situată lângă Castelul Zbaraj.",
+                  "text": "Greenwich, o zonă de agrement la Castelul Zbarazh.",
                   "category": "recreational",
                   "coords": [
                         25.750467,
@@ -4400,7 +4400,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "en": [
             {
                   "name": "Grinvich",
-                  "text": "A beach resort situated near Zbarazh Castle.",
+                  "text": "Greenwich, a recreational area at Zbarazh Castle.",
                   "category": "recreational",
                   "coords": [
                         25.750467,
@@ -4583,7 +4583,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
             },
             {
                   "name": "Iosafatova dolina",
-                  "text": "Eine bemerkenswerte Touristenattraktion in Bakhchisaray Palace.",
+                  "text": "Tal Josaphat: ein Tal innerhalb des Bakhchysarai-Palastgeländes.",
                   "category": "landmark",
                   "coords": [
                         33.923228,
@@ -4630,7 +4630,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
             },
             {
                   "name": "Iosafatova dolina",
-                  "text": "Nevezetes turisztikai látványosság Bakhchisaray Palace városában.",
+                  "text": "Josafát völgye: egy völgy a Bahcsiszeráj palota területén.",
                   "category": "landmark",
                   "coords": [
                         33.923228,
@@ -4677,7 +4677,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
             },
             {
                   "name": "Iosafatova dolina",
-                  "text": "O atracție turistică notabilă în Bakhchisaray Palace.",
+                  "text": "Valea lui Iosafat: o vale din incinta Palatului Bakhchysarai.",
                   "category": "landmark",
                   "coords": [
                         33.923228,
@@ -4724,7 +4724,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
             },
             {
                   "name": "Valley of Josaphat",
-                  "text": "A notable tourist attraction in Bakhchisaray Palace.",
+                  "text": "Valley of Josaphat: a valley landmark within the Bakhchysarai Palace grounds.",
                   "category": "landmark",
                   "coords": [
                         33.923228,
@@ -5528,7 +5528,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "de": [
             {
                   "name": "Siglos Sukhodil's'kii",
-                  "text": "Ein Gipfel in der Nähe der Festung Bilhorod.",
+                  "text": "Syhlos Sukhodilskyi ist ein Höhlensystem aus Kalkstein in der Nähe der Burg von Bilhorod.",
                   "category": "landmark",
                   "coords": [
                         23.962331,
@@ -5539,7 +5539,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "hu": [
             {
                   "name": "Siglos Sukhodil's'kii",
-                  "text": "Egy hegycsúcs a Bilhorod-erőd közelében.",
+                  "text": "A Szihlosz Szuhodilszkij egy mészkőbarlang-rendszer a bilhorodi vár közelében.",
                   "category": "landmark",
                   "coords": [
                         23.962331,
@@ -5550,7 +5550,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "ro": [
             {
                   "name": "Siglos Sukhodil's'kii",
-                  "text": "Un vârf muntos situat în apropierea cetății Bilhorod.",
+                  "text": "Syhlos Sukhodilskyi este un sistem de peșteri de calcar lângă Castelul Bilhorod.",
                   "category": "landmark",
                   "coords": [
                         23.962331,
@@ -5561,7 +5561,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "en": [
             {
                   "name": "Syhlos Sukhodilskyi",
-                  "text": "A mountain peak located near the Bilhorod fortress.",
+                  "text": "Syhlos Sukhodilskyi is a limestone cave system near Bilhorod Castle.",
                   "category": "landmark",
                   "coords": [
                         23.962331,
@@ -6392,7 +6392,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "de": [
             {
                   "name": "Tsitadel' Baturins'koyi fortetsi",
-                  "text": "Rekonstruierte Zitadelle der Festung Baturyn aus dem 17. Jahrhundert.",
+                  "text": "Die Zitadelle der Baturyn-Festung ist eine rekonstruierte Festungsanlage aus dem 17. Jahrhundert, einstige Hauptstadt des Hetmanats.",
                   "category": "castle",
                   "coords": [
                         32.886913,
@@ -6403,7 +6403,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "hu": [
             {
                   "name": "Tsitadel' Baturins'koyi fortetsi",
-                  "text": "A 17. századi baturini erőd rekonstruált citadellája.",
+                  "text": "A Baturyni erőd citadellája egy rekonstruált 17. századi erődítmény, a hetmanátus egykori fővárosa.",
                   "category": "castle",
                   "coords": [
                         32.886913,
@@ -6414,7 +6414,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "ro": [
             {
                   "name": "Tsitadel' Baturins'koyi fortetsi",
-                  "text": "Citadela reconstruită a cetății Baturîn din secolul al XVII-lea.",
+                  "text": "Citadela cetății Baturyn este o fortăreață reconstruită din secolul XVII, fosta capitală a Hetmanatului.",
                   "category": "castle",
                   "coords": [
                         32.886913,
@@ -6425,7 +6425,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "en": [
             {
                   "name": "Baturyn fortress;Baturyn Fortress Citadel",
-                  "text": "Reconstructed citadel of the 17th-century Baturyn fortress.",
+                  "text": "Baturyn fortress citadel is a reconstructed 17th-century fortress, former capital of the Cossack Hetmanate.",
                   "category": "castle",
                   "coords": [
                         32.886913,
@@ -6842,7 +6842,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "de": [
             {
                   "name": "Grinvich",
-                  "text": "Ein Strandresort in der Nähe der Synagoge von Sbarasch.",
+                  "text": "Grinvich: ein Erholungsgebiet neben der Zbarazh-Synagoge.",
                   "category": "recreational",
                   "coords": [
                         25.750467,
@@ -6853,7 +6853,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "hu": [
             {
                   "name": "Grinvich",
-                  "text": "Tengerparti üdülőhely a zbarazsi zsinagóga közelében.",
+                  "text": "Grinvich: egy rekreációs terület a Zbarazh-i zsinagóga mellett.",
                   "category": "recreational",
                   "coords": [
                         25.750467,
@@ -6864,7 +6864,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "ro": [
             {
                   "name": "Grinvich",
-                  "text": "O stațiune la plajă situată lângă Sinagoga din Zbaraj.",
+                  "text": "Grinvich: o zonă de agrement lângă Sinagoga Zbarazh.",
                   "category": "recreational",
                   "coords": [
                         25.750467,
@@ -6875,7 +6875,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       "en": [
             {
                   "name": "Grinvich",
-                  "text": "A beach resort located near the Zbarazh Synagogue.",
+                  "text": "Grinvich: a recreational area adjacent to the Zbarazh Synagogue.",
                   "category": "recreational",
                   "coords": [
                         25.750467,

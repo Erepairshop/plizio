@@ -115,7 +115,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "Lielvārdes Dievukalns",
-                  "text": "Der Dievukalns ist eine bedeutende archäologische und mythologische Stätte in Lielvārde.",
+                  "text": "Alter Burgwall und heiliger Ort bei Jumprava mit Blick auf die Daugava.",
                   "category": "historical",
                   "coords": [
                         24.840981,
@@ -180,7 +180,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "Lielvārdes Dievukalns",
-                  "text": "A Dievukalns egy jelentős régészeti és mitológiai helyszín Lielvārde városában.",
+                  "text": "Ősi erődített domb és szent hely Jumprava mellett, a Daugavára néző kilátással.",
                   "category": "historical",
                   "coords": [
                         24.840981,
@@ -245,7 +245,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "Lielvārdes Dievukalns",
-                  "text": "Dievukalns este un sit arheologic și mitologic important din Lielvārde.",
+                  "text": "Movilă fortificată antică și loc sacru lângă Jumprava, cu vedere spre râul Daugava.",
                   "category": "historical",
                   "coords": [
                         24.840981,
@@ -310,7 +310,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "Lielvārdes Dievukalns",
-                  "text": "Dievukalns is a significant archaeological and mythological site in Lielvārde.",
+                  "text": "Ancient hillfort and sacred site near Jumprava, overlooking the Daugava River.",
                   "category": "historical",
                   "coords": [
                         24.840981,
@@ -448,7 +448,7 @@ export const latviaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "ZTornis",
-                  "text": "Ein Museum in Rubene Church, das lokale Geschichte präsentiert.",
+                  "text": "ZTornis, ein Turmmuseum in Rubene, zeigt lokale Geschichte.",
                   "category": "museum",
                   "coords": [
                         25.215018,
@@ -457,7 +457,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "dabas liegums „Zilaiskalns”",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Rubene Church.",
+                  "text": "Naturschutzgebiet Zilaiskalns in Rubene, mit einem markanten blauen Hügel.",
                   "category": "natural",
                   "coords": [
                         25.22348,
@@ -466,7 +466,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "Zrailbikes",
-                  "text": "Eine lokale Freizeitattraktion in Rubene Church.",
+                  "text": "Zrailbikes, Fahrradverleih und Trail-Zentrum im Bereich der Kirche von Rubene.",
                   "category": "landmark",
                   "coords": [
                         25.20461,
@@ -495,7 +495,7 @@ export const latviaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "ZTornis",
-                  "text": "Helytörténeti múzeum Rubene Church területén.",
+                  "text": "ZTornis, toronymúzeum Rubene-ben, helytörténeti kiállítással.",
                   "category": "museum",
                   "coords": [
                         25.215018,
@@ -504,7 +504,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "dabas liegums „Zilaiskalns”",
-                  "text": "Természetvédelmi terület Rubene Church közelében.",
+                  "text": "Zilaiskalns természetvédelmi terület Rubene-ben, jellegzetes kék dombbal.",
                   "category": "natural",
                   "coords": [
                         25.22348,
@@ -513,7 +513,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "Zrailbikes",
-                  "text": "Egy helyi szabadidős látványosság Rubene Church területén.",
+                  "text": "Zrailbikes, kerékpárkölcsönző és ösvényközpont a Rubene-i templom környékén.",
                   "category": "landmark",
                   "coords": [
                         25.20461,
@@ -542,7 +542,7 @@ export const latviaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "ZTornis",
-                  "text": "Un muzeu din Rubene Church ce prezintă istoria locală.",
+                  "text": "ZTornis, un muzeu turn în Rubene, cu exponate de istorie locală.",
                   "category": "museum",
                   "coords": [
                         25.215018,
@@ -551,7 +551,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "dabas liegums „Zilaiskalns”",
-                  "text": "O rezervație naturală în apropiere de Rubene Church.",
+                  "text": "Rezervația naturală Zilaiskalns în Rubene, cu un deal distinctiv de culoare albastră.",
                   "category": "natural",
                   "coords": [
                         25.22348,
@@ -560,7 +560,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "Zrailbikes",
-                  "text": "O atracție locală de agrement în Rubene Church.",
+                  "text": "Zrailbikes, o închiriere de biciclete și centru de trasee în zona Bisericii Rubene.",
                   "category": "landmark",
                   "coords": [
                         25.20461,
@@ -589,7 +589,7 @@ export const latviaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "ZTornis",
-                  "text": "A museum in Rubene Church showcasing local history.",
+                  "text": "ZTornis, a tower museum in Rubene, displaying local history exhibits.",
                   "category": "museum",
                   "coords": [
                         25.215018,
@@ -598,7 +598,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "dabas liegums „Zilaiskalns”",
-                  "text": "A nature reserve located near Rubene Church.",
+                  "text": "Zilaiskalns nature reserve in Rubene features a distinctive blue-hued hill.",
                   "category": "natural",
                   "coords": [
                         25.22348,
@@ -607,7 +607,7 @@ export const latviaHistoryV2: POI[] = [
             },
             {
                   "name": "Zrailbikes",
-                  "text": "A local leisure attraction in Rubene Church.",
+                  "text": "Zrailbikes, a bike rental and trail hub in Rubene Church area.",
                   "category": "landmark",
                   "coords": [
                         25.20461,
@@ -817,7 +817,7 @@ export const latviaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Strenču luterāņu baznīca",
-                  "text": "Eine lutherische Kirche in Strenči.",
+                  "text": "Historische lutherische Holzkirche in der Siedlung Seda.",
                   "category": "religious",
                   "coords": [
                         25.689633,
@@ -828,7 +828,7 @@ export const latviaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Strenču luterāņu baznīca",
-                  "text": "Evangélikus templom Strenči városában.",
+                  "text": "Történelmi evangélikus fatemplom Seda településen.",
                   "category": "religious",
                   "coords": [
                         25.689633,
@@ -839,7 +839,7 @@ export const latviaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Strenču luterāņu baznīca",
-                  "text": "O biserică luterană în Strenči.",
+                  "text": "Biserică luterană istorică din lemn în așezarea Seda.",
                   "category": "religious",
                   "coords": [
                         25.689633,
@@ -850,7 +850,7 @@ export const latviaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Strenču luterāņu baznīca",
-                  "text": "A Lutheran church located in Strenči.",
+                  "text": "Historic wooden Lutheran church in the settlement of Seda.",
                   "category": "religious",
                   "coords": [
                         25.689633,

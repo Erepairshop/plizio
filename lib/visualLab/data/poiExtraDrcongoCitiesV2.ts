@@ -142,7 +142,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ehemalige Residenz des Generalgouverneurs",
-                  "text": "Die ehemalige Residenz des Generalgouverneurs ist ein Museum in Boma.",
+                  "text": "Kolonialzeitliche Residenz des Generalgouverneurs in Boma, einstige Hauptstadt Belgisch-Kongos.",
                   "category": "museum",
                   "coords": [
                         13.056713,
@@ -151,7 +151,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Premier Camp Militaire",
-                  "text": "Premier Camp Militaire ist ein historisches Denkmal in Boma.",
+                  "text": "Erstes Militärlager des Kongo-Freistaats in Boma.",
                   "category": "historical",
                   "coords": [
                         13.051517,
@@ -162,7 +162,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Résidence du Premier Gouverneur Général du Congo",
-                  "text": "A főkormányzó egykori rezidenciája múzeumként működik Boma városában.",
+                  "text": "Gyarmati kori főkormányzói rezidencia Boma városában, a Belga Kongó egykori fővárosában.",
                   "category": "museum",
                   "coords": [
                         13.056713,
@@ -171,7 +171,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Premier Camp Militaire",
-                  "text": "A Premier Camp Militaire egy történelmi emlékmű Boma városában.",
+                  "text": "A Kongói Szabadállam első katonai tábora Boma városában.",
                   "category": "historical",
                   "coords": [
                         13.051517,
@@ -182,7 +182,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Résidence du Premier Gouverneur Général du Congo",
-                  "text": "Fosta reședință a Guvernatorului General este un muzeu din Boma.",
+                  "text": "Reședință colonială a guvernatorului general în Boma, fostă capitală a Congo-ului belgian.",
                   "category": "museum",
                   "coords": [
                         13.056713,
@@ -191,7 +191,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Premier Camp Militaire",
-                  "text": "Premier Camp Militaire este un monument istoric situat în Boma.",
+                  "text": "Prima tabără militară a Statului Liber Congo din Boma.",
                   "category": "historical",
                   "coords": [
                         13.051517,
@@ -202,7 +202,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Former residence of the Governor-General",
-                  "text": "The Former residence of the Governor-General is a museum in Boma.",
+                  "text": "Colonial-era residence of the governor-general in Boma, once capital of the Belgian Congo.",
                   "category": "museum",
                   "coords": [
                         13.056713,
@@ -211,7 +211,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Premier Camp Militaire",
-                  "text": "Premier Camp Militaire is a historic monument located in Boma.",
+                  "text": "First military camp of the Congo Free State in Boma.",
                   "category": "historical",
                   "coords": [
                         13.051517,
@@ -325,7 +325,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monument maman mvati a mpatu",
-                  "text": "Das Monument maman mvati a mpatu ist ein Denkmal in Mbanza-Ngungu.",
+                  "text": "Denkmal zu Ehren einer lokalen Mutterfigur in Mbanza Ngungu.",
                   "category": "historical",
                   "coords": [
                         14.860047,
@@ -334,7 +334,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Prophète SIMON KIMBANGU",
-                  "text": "Prophète SIMON KIMBANGU ist ein Denkmal in Mbanza-Ngungu.",
+                  "text": "Denkmal für den Propheten Simon Kimbangu, Gründer der Kimbanguistischen Kirche, in Mbanza Ngungu.",
                   "category": "historical",
                   "coords": [
                         14.875111,
@@ -343,7 +343,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Polyvalente",
-                  "text": "Die Salle Polyvalente ist ein Kulturzentrum in Mbanza-Ngungu.",
+                  "text": "Mehrzweck-Kulturhalle für Gemeindeveranstaltungen in Mbanza Ngungu.",
                   "category": "cultural",
                   "coords": [
                         14.857887,
@@ -354,7 +354,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monument maman mvati a mpatu",
-                  "text": "A Monument maman mvati a mpatu egy emlékmű Mbanza-Ngungu városában.",
+                  "text": "Egy helyi anya tiszteletére emelt emlékmű Mbanza Ngunguban.",
                   "category": "historical",
                   "coords": [
                         14.860047,
@@ -363,7 +363,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Prophète SIMON KIMBANGU",
-                  "text": "A Prophète SIMON KIMBANGU egy emlékmű Mbanza-Ngungu városában.",
+                  "text": "Simon Kimbangu próféta, a kimbanguista egyház alapítója emlékműve Mbanza Ngunguban.",
                   "category": "historical",
                   "coords": [
                         14.875111,
@@ -372,7 +372,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Polyvalente",
-                  "text": "A Salle Polyvalente egy művészeti központ Mbanza-Ngungu városában.",
+                  "text": "Többcélú kulturális terem közösségi eseményekkel Mbanza Ngunguban.",
                   "category": "cultural",
                   "coords": [
                         14.857887,
@@ -383,7 +383,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monument maman mvati a mpatu",
-                  "text": "Monument maman mvati a mpatu este un monument situat în Mbanza-Ngungu.",
+                  "text": "Monument în cinstea unei figuri materne locale din Mbanza Ngungu.",
                   "category": "historical",
                   "coords": [
                         14.860047,
@@ -392,7 +392,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Prophète SIMON KIMBANGU",
-                  "text": "Prophète SIMON KIMBANGU este un monument situat în Mbanza-Ngungu.",
+                  "text": "Monument profetului Simon Kimbangu, fondatorul Bisericii Kimbanguiste, în Mbanza Ngungu.",
                   "category": "historical",
                   "coords": [
                         14.875111,
@@ -401,7 +401,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Polyvalente",
-                  "text": "Salle Polyvalente este un centru de arte situat în Mbanza-Ngungu.",
+                  "text": "Sală polivalentă culturală pentru evenimente comunitare în Mbanza Ngungu.",
                   "category": "cultural",
                   "coords": [
                         14.857887,
@@ -412,7 +412,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monument maman mvati a mpatu",
-                  "text": "The Monument maman mvati a mpatu is a monument located in Mbanza-Ngungu.",
+                  "text": "Monument honoring a local mother figure in Mbanza Ngungu.",
                   "category": "historical",
                   "coords": [
                         14.860047,
@@ -421,7 +421,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Prophète SIMON KIMBANGU",
-                  "text": "Prophète SIMON KIMBANGU is a monument located in Mbanza-Ngungu.",
+                  "text": "Monument to Prophet Simon Kimbangu, founder of the Kimbanguist Church, in Mbanza Ngungu.",
                   "category": "historical",
                   "coords": [
                         14.875111,
@@ -430,7 +430,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Salle Polyvalente",
-                  "text": "Salle Polyvalente is an arts centre located in Mbanza-Ngungu.",
+                  "text": "Multi-purpose cultural hall hosting community events in Mbanza Ngungu.",
                   "category": "cultural",
                   "coords": [
                         14.857887,
@@ -1411,7 +1411,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée Nationale de BUTEMBO",
-                  "text": "Das Musée Nationale de BUTEMBO ist ein Museum in Butembo, das der nationalen Geschichte und Kultur gewidmet ist.",
+                  "text": "Nationalmuseum von Butembo, das die Kulturgeschichte des Nande-Volkes zeigt.",
                   "category": "museum",
                   "coords": [
                         29.294283,
@@ -1420,7 +1420,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Monument historique de Butembo",
-                  "text": "Das Monument historique de Butembo ist ein bedeutendes historisches Denkmal in Butembo.",
+                  "text": "Historisches Denkmal auf dem Hauptplatz von Butembo.",
                   "category": "historical",
                   "coords": [
                         29.292207,
@@ -1429,7 +1429,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie GTB",
-                  "text": "Die Galerie GTB ist eine Kunstgalerie in der Stadt Butembo.",
+                  "text": "Galerie GTB in Butembo mit lokalen Künstlern.",
                   "category": "museum",
                   "coords": [
                         29.293239,
@@ -1438,7 +1438,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Metronpez Fondationperuz",
-                  "text": "Metronpez Fondationperuz ist eine Kunstgalerie in Butembo.",
+                  "text": "Museum der Metronpez-Stiftung in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.291207,
@@ -1447,7 +1447,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie jolie reve",
-                  "text": "Galerie jolie reve ist eine Kunstgalerie in Butembo.",
+                  "text": "Galerie Jolie Rêve in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.292267,
@@ -1456,7 +1456,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Annuarite",
-                  "text": "Galerie Annuarite ist eine Kunstgalerie in Butembo.",
+                  "text": "Galerie Annuarite in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.291284,
@@ -1465,7 +1465,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Thengerwako",
-                  "text": "Galerie Thengerwako ist eine Kunstgalerie in Butembo.",
+                  "text": "Galerie Thengerwako in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.293882,
@@ -1474,7 +1474,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Katembo Ngesera",
-                  "text": "Galerie Katembo Ngesera ist eine Kunstgalerie in Butembo.",
+                  "text": "Galerie Katembo Ngesera in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.290177,
@@ -1485,7 +1485,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée Nationale de BUTEMBO",
-                  "text": "A Musée Nationale de BUTEMBO egy nemzeti történelemnek és kultúrának szentelt múzeum Butembo városában.",
+                  "text": "Butembo nemzeti múzeuma, amely a Nande nép kulturális történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         29.294283,
@@ -1494,7 +1494,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Monument historique de Butembo",
-                  "text": "A Monument historique de Butembo egy jelentős történelmi emlékmű Butembo városában.",
+                  "text": "Történelmi emlékmű Butembo főterén.",
                   "category": "historical",
                   "coords": [
                         29.292207,
@@ -1503,7 +1503,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie GTB",
-                  "text": "A Galerie GTB egy művészeti galéria Butembo városában.",
+                  "text": "GTB művészeti galéria Butemboban, helyi művészekkel.",
                   "category": "museum",
                   "coords": [
                         29.293239,
@@ -1512,7 +1512,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Metronpez Fondationperuz",
-                  "text": "A Metronpez Fondationperuz egy művészeti galéria Butembo városában.",
+                  "text": "Metronpez Alapítvány múzeuma Butemboban.",
                   "category": "museum",
                   "coords": [
                         29.291207,
@@ -1521,7 +1521,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie jolie reve",
-                  "text": "A Galerie jolie reve egy művészeti galéria Butembo városában.",
+                  "text": "Jolie Rêve művészeti galéria Butemboban.",
                   "category": "museum",
                   "coords": [
                         29.292267,
@@ -1530,7 +1530,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Annuarite",
-                  "text": "A Galerie Annuarite egy művészeti galéria Butembo városában.",
+                  "text": "Annuarite galéria Butemboban.",
                   "category": "museum",
                   "coords": [
                         29.291284,
@@ -1539,7 +1539,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Thengerwako",
-                  "text": "A Galerie Thengerwako egy művészeti galéria Butembo városában.",
+                  "text": "Thengerwako galéria Butemboban.",
                   "category": "museum",
                   "coords": [
                         29.293882,
@@ -1548,7 +1548,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Katembo Ngesera",
-                  "text": "A Galerie Katembo Ngesera egy művészeti galéria Butembo városában.",
+                  "text": "Katembo Ngesera galéria Butemboban.",
                   "category": "museum",
                   "coords": [
                         29.290177,
@@ -1559,7 +1559,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée Nationale de BUTEMBO",
-                  "text": "Musée Nationale de BUTEMBO este un muzeu din Butembo dedicat istoriei și culturii naționale.",
+                  "text": "Muzeul Național din Butembo dedicat istoriei culturale a poporului Nande.",
                   "category": "museum",
                   "coords": [
                         29.294283,
@@ -1568,7 +1568,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Monument historique de Butembo",
-                  "text": "Monument historique de Butembo este un monument istoric notabil situat în Butembo.",
+                  "text": "Monument istoric în piața principală din Butembo.",
                   "category": "historical",
                   "coords": [
                         29.292207,
@@ -1577,7 +1577,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie GTB",
-                  "text": "Galerie GTB este o galerie de artă situată în orașul Butembo.",
+                  "text": "Galerie GTB din Butembo cu artiști locali.",
                   "category": "museum",
                   "coords": [
                         29.293239,
@@ -1586,7 +1586,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Metronpez Fondationperuz",
-                  "text": "Metronpez Fondationperuz este o galerie de artă situată în Butembo.",
+                  "text": "Muzeul Fundației Metronpez din Butembo.",
                   "category": "museum",
                   "coords": [
                         29.291207,
@@ -1595,7 +1595,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie jolie reve",
-                  "text": "Galerie jolie reve este o galerie de artă situată în Butembo.",
+                  "text": "Galerie Jolie Rêve din Butembo.",
                   "category": "museum",
                   "coords": [
                         29.292267,
@@ -1604,7 +1604,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Annuarite",
-                  "text": "Galerie Annuarite este o galerie de artă situată în Butembo.",
+                  "text": "Galerie Annuarite din Butembo.",
                   "category": "museum",
                   "coords": [
                         29.291284,
@@ -1613,7 +1613,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Thengerwako",
-                  "text": "Galerie Thengerwako este o galerie de artă situată în Butembo.",
+                  "text": "Galerie Thengerwako din Butembo.",
                   "category": "museum",
                   "coords": [
                         29.293882,
@@ -1622,7 +1622,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Katembo Ngesera",
-                  "text": "Galerie Katembo Ngesera este o galerie de artă situată în Butembo.",
+                  "text": "Galerie Katembo Ngesera din Butembo.",
                   "category": "museum",
                   "coords": [
                         29.290177,
@@ -1633,7 +1633,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée Nationale de BUTEMBO",
-                  "text": "Musée Nationale de BUTEMBO is a museum in Butembo dedicated to national history and culture.",
+                  "text": "National museum of Butembo dedicated to the cultural history of the Nande people.",
                   "category": "museum",
                   "coords": [
                         29.294283,
@@ -1642,7 +1642,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Monument historique de Butembo",
-                  "text": "Monument historique de Butembo is a notable historical monument located in Butembo.",
+                  "text": "Historical monument in the main square of Butembo.",
                   "category": "historical",
                   "coords": [
                         29.292207,
@@ -1651,7 +1651,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie GTB",
-                  "text": "Galerie GTB is an art gallery situated in the city of Butembo.",
+                  "text": "GTB art gallery in Butembo featuring local artists.",
                   "category": "museum",
                   "coords": [
                         29.293239,
@@ -1660,7 +1660,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Metronpez Fondationperuz",
-                  "text": "Metronpez Fondationperuz is an art gallery located in Butembo.",
+                  "text": "Metronpez Foundation museum in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.291207,
@@ -1669,7 +1669,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie jolie reve",
-                  "text": "Galerie jolie reve is an art gallery located in Butembo.",
+                  "text": "Jolie Rêve art gallery in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.292267,
@@ -1678,7 +1678,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Annuarite",
-                  "text": "Galerie Annuarite is an art gallery located in Butembo.",
+                  "text": "Annuarite art gallery in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.291284,
@@ -1687,7 +1687,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Thengerwako",
-                  "text": "Galerie Thengerwako is an art gallery located in Butembo.",
+                  "text": "Thengerwako art gallery in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.293882,
@@ -1696,7 +1696,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
             },
             {
                   "name": "Galerie Katembo Ngesera",
-                  "text": "Galerie Katembo Ngesera is an art gallery located in Butembo.",
+                  "text": "Katembo Ngesera art gallery in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.290177,

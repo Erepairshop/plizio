@@ -403,7 +403,7 @@ export const portugalNatureV2: POI[] = [
             },
             {
                   "name": "Praia da Pontinha",
-                  "text": "Ein Strand am Fluss Tâmega.",
+                  "text": "Flussstrand am Ufer des Tâmega, flaches Wasser und grüne Umgebung.",
                   "category": "recreational",
                   "coords": [
                         -8.132076,
@@ -439,7 +439,7 @@ export const portugalNatureV2: POI[] = [
             },
             {
                   "name": "Piscina Municipal",
-                  "text": "Ein öffentliches Schwimmbad in der Nähe des Flusses Tâmega.",
+                  "text": "Freibad am Ufer des Tâmega, mit mehreren Becken und Grünflächen.",
                   "category": "recreational",
                   "coords": [
                         -8.145469,
@@ -495,7 +495,7 @@ export const portugalNatureV2: POI[] = [
             },
             {
                   "name": "Praia da Pontinha",
-                  "text": "Egy strand a Tâmega-folyó mentén.",
+                  "text": "Folyóparti strand a Tâmega partján, sekély víz és zöld környezet.",
                   "category": "recreational",
                   "coords": [
                         -8.132076,
@@ -531,7 +531,7 @@ export const portugalNatureV2: POI[] = [
             },
             {
                   "name": "Piscina Municipal",
-                  "text": "Közösségi úszómedence a Tâmega-folyó közelében.",
+                  "text": "Szabadtéri uszoda a Tâmega partján, több medencével és zöldterületekkel.",
                   "category": "recreational",
                   "coords": [
                         -8.145469,
@@ -587,7 +587,7 @@ export const portugalNatureV2: POI[] = [
             },
             {
                   "name": "Praia da Pontinha",
-                  "text": "O plajă situată de-a lungul râului Tâmega.",
+                  "text": "Plajă fluvială pe malul râului Tâmega, apă puțin adâncă și împrejurimi verzi.",
                   "category": "recreational",
                   "coords": [
                         -8.132076,
@@ -623,7 +623,7 @@ export const portugalNatureV2: POI[] = [
             },
             {
                   "name": "Piscina Municipal",
-                  "text": "O piscină publică situată în apropierea râului Tâmega.",
+                  "text": "Piscină în aer liber pe malul Tâmega, cu mai multe bazine și spații verzi.",
                   "category": "recreational",
                   "coords": [
                         -8.145469,
@@ -679,7 +679,7 @@ export const portugalNatureV2: POI[] = [
             },
             {
                   "name": "Praia da Pontinha",
-                  "text": "A beach located along the Tâmega River.",
+                  "text": "Riverside beach on the banks of the Tâmega River, shallow water and green surroundings.",
                   "category": "recreational",
                   "coords": [
                         -8.132076,
@@ -715,7 +715,7 @@ export const portugalNatureV2: POI[] = [
             },
             {
                   "name": "Piscina Municipal",
-                  "text": "A public swimming pool located near the Tâmega River.",
+                  "text": "Outdoor swimming pool on the banks of the Tâmega River, with multiple pools and green areas.",
                   "category": "recreational",
                   "coords": [
                         -8.145469,

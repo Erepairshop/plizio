@@ -147,7 +147,196 @@ export const poiExtraChinaReliefV2: POI[] = [
     },
   },
   {
-    id: "turpan-depression-relief-v2",
+    id: "turpan-depression-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karez",
+                  "text": "Diese Stätte zeigt eine antike Bewässerungstechnik, bei der Wasser durch unterirdische Tunnel aus den Bergen geleitet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        89.129114,
+                        42.980649
+                  ]
+            },
+            {
+                  "name": "Grape Valley",
+                  "text": "Eine üppig grüne Oase, die für ihre ausgedehnten Weinberge und traditionellen Trockenhäuser für Rosinen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        89.241952,
+                        42.999625
+                  ]
+            },
+            {
+                  "name": "Emin-Minarett",
+                  "text": "Dieses 1777 erbaute, 44 Meter hohe Lehmziegel-Minarett ist mit komplizierten geometrischen Blumenmustern verziert.",
+                  "category": "historical",
+                  "coords": [
+                        89.203499,
+                        42.934348
+                  ]
+            },
+            {
+                  "name": "Karez system Museum",
+                  "text": "Dieses Museum zeigt Modelle und Tunnel, die Turpans einzigartiges, 2.000 Jahre altes unterirdisches Wassernetz erklären.",
+                  "category": "museum",
+                  "coords": [
+                        89.145858,
+                        42.951074
+                  ]
+            },
+            {
+                  "name": "Turpan Museum",
+                  "text": "Das Museum beherbergt eine bedeutende Sammlung prähistorischer Dinosaurierfossilien und Seidenartefakte von der Seidenstraße.",
+                  "category": "museum",
+                  "coords": [
+                        89.188572,
+                        42.941255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karez",
+                  "text": "Ez a helyszín egy ősi öntözési technikát mutat be, amely föld alatti alagutak segítségével hozza a vizet a hegyekből.",
+                  "category": "landmark",
+                  "coords": [
+                        89.129114,
+                        42.980649
+                  ]
+            },
+            {
+                  "name": "Grape Valley",
+                  "text": "Egy buja zöld oázis, amely kiterjedt szőlőültetvényeiről és a mazsola készítéséhez használt hagyományos szárítóházairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        89.241952,
+                        42.999625
+                  ]
+            },
+            {
+                  "name": "emin minaret",
+                  "text": "Ez az 1777-ben épült, 44 méter magas vályogtégla minaret bonyolult geometrikus virágmintákkal van díszítve.",
+                  "category": "historical",
+                  "coords": [
+                        89.203499,
+                        42.934348
+                  ]
+            },
+            {
+                  "name": "Karez system Museum",
+                  "text": "Ez a múzeum modellek és alagutak segítségével mutatja be Turpán egyedülálló, 2000 éves föld alatti vízhálózatát.",
+                  "category": "museum",
+                  "coords": [
+                        89.145858,
+                        42.951074
+                  ]
+            },
+            {
+                  "name": "Turpan Museum",
+                  "text": "A múzeum őskori dinoszaurusz-fosszíliák és selyemúti selyemleletek jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        89.188572,
+                        42.941255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karez",
+                  "text": "Acest sit demonstrează o tehnică antică de irigare care folosește tuneluri subterane pentru a aduce apa din munți.",
+                  "category": "landmark",
+                  "coords": [
+                        89.129114,
+                        42.980649
+                  ]
+            },
+            {
+                  "name": "Grape Valley",
+                  "text": "O oază verde luxuriantă, faimoasă pentru podgoriile sale întinse și casele tradiționale de uscare a stafidelor.",
+                  "category": "landmark",
+                  "coords": [
+                        89.241952,
+                        42.999625
+                  ]
+            },
+            {
+                  "name": "emin minaret",
+                  "text": "Construit în 1777, acest minaret din cărămidă nearsă de 44 de metri este decorat cu modele florale geometrice complicate.",
+                  "category": "historical",
+                  "coords": [
+                        89.203499,
+                        42.934348
+                  ]
+            },
+            {
+                  "name": "Karez system Museum",
+                  "text": "Acest muzeu prezintă machete și tuneluri care explică rețeaua de apă subterană unică a Turpanului, veche de 2.000 de ani.",
+                  "category": "museum",
+                  "coords": [
+                        89.145858,
+                        42.951074
+                  ]
+            },
+            {
+                  "name": "Turpan Museum",
+                  "text": "Muzeul găzduiește o colecție semnificativă de fosile de dinozauri preistorici și artefacte de mătase de pe Drumul Mătăsii.",
+                  "category": "museum",
+                  "coords": [
+                        89.188572,
+                        42.941255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karez",
+                  "text": "This site demonstrates an ancient irrigation technique using underground tunnels to bring water from the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        89.129114,
+                        42.980649
+                  ]
+            },
+            {
+                  "name": "Grape Valley",
+                  "text": "A lush green oasis famous for its extensive vineyards and traditional drying houses for raisins.",
+                  "category": "landmark",
+                  "coords": [
+                        89.241952,
+                        42.999625
+                  ]
+            },
+            {
+                  "name": "emin minaret",
+                  "text": "Built in 1777, this 44-meter mud-brick minaret is decorated with intricate geometric floral patterns.",
+                  "category": "historical",
+                  "coords": [
+                        89.203499,
+                        42.934348
+                  ]
+            },
+            {
+                  "name": "Karez system Museum",
+                  "text": "This museum features models and tunnels explaining Turpan's unique 2,000-year-old underground water network.",
+                  "category": "museum",
+                  "coords": [
+                        89.145858,
+                        42.951074
+                  ]
+            },
+            {
+                  "name": "Turpan Museum",
+                  "text": "The museum houses a significant collection of prehistoric dinosaur fossils and Silk Road silk artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        89.188572,
+                        42.941255
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "CN-XJ",
     coords: [89.19, 42.95],
@@ -531,7 +720,160 @@ export const poiExtraChinaReliefV2: POI[] = [
     },
   },
   {
-    id: "wuyi-mountains-relief-v2",
+    id: "wuyi-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Longdu",
+                  "text": "Inmitten des zerklüfteten Geländes des Wuyi-Gebirges bietet diese landschaftliche Attraktion markante Ausblicke auf das einzigartige Relief der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        117.704091,
+                        27.727125
+                  ]
+            },
+            {
+                  "name": "River Drifting",
+                  "text": "Diese beliebte Wasserattraktion ermöglicht es Besuchern, auf den malerischen, kurvenreichen Wasserstraßen am Fuße des Wuyi-Gebirges zu treiben.",
+                  "category": "landmark",
+                  "coords": [
+                        117.769959,
+                        27.675091
+                  ]
+            },
+            {
+                  "name": "Wuyishan National Nature Reserve",
+                  "text": "Dieses weitläufige Naturschutzgebiet schützt eine reiche Artenvielfalt und die spektakulären Danxia-Landschaften des Wuyi-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        117.640192,
+                        27.710658
+                  ]
+            },
+            {
+                  "name": "Wuyishan Nature Museum",
+                  "text": "Dieses dem lokalen Ökosystem gewidmete Museum zeigt die einzigartige Flora, Fauna und Geologie des Wuyi-Gebirges.",
+                  "category": "museum",
+                  "coords": [
+                        117.67748,
+                        27.745731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Longdu",
+                  "text": "A Wuyi-hegység zord terepén található festői látványosság lenyűgöző kilátást nyújt a régió egyedülálló domborzatára.",
+                  "category": "landmark",
+                  "coords": [
+                        117.704091,
+                        27.727125
+                  ]
+            },
+            {
+                  "name": "River Drifting",
+                  "text": "Ez a népszerű vízi látványosság lehetővé teszi a látogatók számára, hogy végigsodródjanak a Wuyi-hegység lábánál kanyargó festői vízi utakon.",
+                  "category": "landmark",
+                  "coords": [
+                        117.769959,
+                        27.675091
+                  ]
+            },
+            {
+                  "name": "Wuyishan National Nature Reserve",
+                  "text": "Ez a kiterjedt természetvédelmi terület a Wuyi-hegység gazdag biodiverzitását és látványos Danxia domborzatát védi.",
+                  "category": "natural",
+                  "coords": [
+                        117.640192,
+                        27.710658
+                  ]
+            },
+            {
+                  "name": "Wuyishan Nature Museum",
+                  "text": "A helyi ökoszisztémának szentelt múzeum a Wuyi-hegység egyedülálló növény- és állatvilágát, valamint geológiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        117.67748,
+                        27.745731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Longdu",
+                  "text": "Situată în mijlocul terenului accidentat al Munților Wuyi, această atracție pitorească oferă vederi izbitoare ale reliefului unic al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        117.704091,
+                        27.727125
+                  ]
+            },
+            {
+                  "name": "River Drifting",
+                  "text": "Această atracție acvatică populară permite vizitatorilor să plutească de-a lungul cursurilor de apă pitorești și șerpuitoare de la baza Munților Wuyi.",
+                  "category": "landmark",
+                  "coords": [
+                        117.769959,
+                        27.675091
+                  ]
+            },
+            {
+                  "name": "Wuyishan National Nature Reserve",
+                  "text": "Această vastă rezervație naturală protejează o bogată biodiversitate și spectaculoasele forme de relief Danxia ale Munților Wuyi.",
+                  "category": "natural",
+                  "coords": [
+                        117.640192,
+                        27.710658
+                  ]
+            },
+            {
+                  "name": "Wuyishan Nature Museum",
+                  "text": "Dedicat ecosistemului local, acest muzeu expune flora, fauna și geologia unice ale Munților Wuyi.",
+                  "category": "museum",
+                  "coords": [
+                        117.67748,
+                        27.745731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Longdu",
+                  "text": "Set amidst the rugged terrain of the Wuyi Mountains, this scenic attraction offers striking views of the region's unique relief.",
+                  "category": "landmark",
+                  "coords": [
+                        117.704091,
+                        27.727125
+                  ]
+            },
+            {
+                  "name": "River Drifting",
+                  "text": "This popular waterborne attraction allows visitors to drift along the scenic, winding waterways at the base of the Wuyi Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        117.769959,
+                        27.675091
+                  ]
+            },
+            {
+                  "name": "Wuyishan National Nature Reserve",
+                  "text": "This expansive nature reserve protects a rich biodiversity and the spectacular Danxia landforms of the Wuyi Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        117.640192,
+                        27.710658
+                  ]
+            },
+            {
+                  "name": "Wuyishan Nature Museum",
+                  "text": "Dedicated to the local ecosystem, this museum exhibits the unique flora, fauna, and geology of the Wuyi Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        117.67748,
+                        27.745731
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CN-FJ",
     coords: [117.7, 27.7],
@@ -867,7 +1209,160 @@ export const poiExtraChinaReliefV2: POI[] = [
     },
   },
   {
-    id: "karakoram-range-relief-v2",
+    id: "karakoram-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praqpa Kangri",
+                  "text": "Ein gewaltiger Siebentausender im Karakorum, der sich über dem Godwin-Austen-Gletscher in der Nähe des Broad Peak erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        76.434174,
+                        35.829923
+                  ]
+            },
+            {
+                  "name": "Marble Peak",
+                  "text": "Dieser Gipfel im Baltoro Muztagh ist bekannt für seine kristallinen Kalksteinformationen, die ihm ein marmorähnliches Aussehen verleihen.",
+                  "category": "natural",
+                  "coords": [
+                        76.48556,
+                        35.773916
+                  ]
+            },
+            {
+                  "name": "Broad Peak Central",
+                  "text": "Der zentrale Gipfel des Broad-Peak-Massivs erreicht eine Höhe von 8.011 Metern im Herzen des Karakorum.",
+                  "category": "natural",
+                  "coords": [
+                        76.566607,
+                        35.819667
+                  ]
+            },
+            {
+                  "name": "Broad Peak",
+                  "text": "Dieser Aussichtspunkt bietet einen spektakulären Blick auf den zwölfthöchsten Berg der Welt und die umliegenden Gletscher.",
+                  "category": "natural",
+                  "coords": [
+                        76.565557,
+                        35.813691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praqpa Kangri",
+                  "text": "A Karakorum egyik hatalmas hétezres csúcsa, amely a Godwin-Austen-gleccser felett magasodik a Broad Peak közelében.",
+                  "category": "natural",
+                  "coords": [
+                        76.434174,
+                        35.829923
+                  ]
+            },
+            {
+                  "name": "Marble Peak",
+                  "text": "A Baltoro Muztagh ezen csúcsa kristályos mészkőképződményeiről ismert, amelyek márványszerű megjelenést kölcsönöznek neki.",
+                  "category": "natural",
+                  "coords": [
+                        76.48556,
+                        35.773916
+                  ]
+            },
+            {
+                  "name": "Broad Peak Central",
+                  "text": "A Broad Peak-masszívum központi csúcsa 8011 méteres magasságot ér el a Karakorum szívében.",
+                  "category": "natural",
+                  "coords": [
+                        76.566607,
+                        35.819667
+                  ]
+            },
+            {
+                  "name": "Broad Peak",
+                  "text": "Erről a kilátópontról látványos panoráma nyílik a világ tizenkettedik legmagasabb hegyére és a környező gleccserekre.",
+                  "category": "natural",
+                  "coords": [
+                        76.565557,
+                        35.813691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praqpa Kangri",
+                  "text": "Un masiv de peste șapte mii de metri din Karakoram, care se înalță deasupra ghețarului Godwin-Austen, lângă Broad Peak.",
+                  "category": "natural",
+                  "coords": [
+                        76.434174,
+                        35.829923
+                  ]
+            },
+            {
+                  "name": "Marble Peak",
+                  "text": "Acest vârf din Baltoro Muztagh este cunoscut pentru formațiunile sale de calcar cristalin care îi conferă un aspect asemănător marmurei.",
+                  "category": "natural",
+                  "coords": [
+                        76.48556,
+                        35.773916
+                  ]
+            },
+            {
+                  "name": "Broad Peak Central",
+                  "text": "Vârful central al masivului Broad Peak atinge o înălțime de 8.011 metri în inima Karakoramului.",
+                  "category": "natural",
+                  "coords": [
+                        76.566607,
+                        35.819667
+                  ]
+            },
+            {
+                  "name": "Broad Peak",
+                  "text": "Acest punct de observare oferă o vedere spectaculoasă asupra celui de-al doisprezecelea cel mai înalt munte din lume și a ghețarilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        76.565557,
+                        35.813691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praqpa Kangri",
+                  "text": "A massive seven-thousander in the Karakoram, rising above the Godwin-Austen Glacier near Broad Peak.",
+                  "category": "natural",
+                  "coords": [
+                        76.434174,
+                        35.829923
+                  ]
+            },
+            {
+                  "name": "Marble Peak",
+                  "text": "This peak in the Baltoro Muztagh is known for its crystalline limestone formations that give it a marble-like appearance.",
+                  "category": "natural",
+                  "coords": [
+                        76.48556,
+                        35.773916
+                  ]
+            },
+            {
+                  "name": "Broad Peak Central",
+                  "text": "The central summit of the Broad Peak massif reaches an elevation of 8,011 meters in the heart of the Karakoram.",
+                  "category": "natural",
+                  "coords": [
+                        76.566607,
+                        35.819667
+                  ]
+            },
+            {
+                  "name": "Broad Peak",
+                  "text": "This viewpoint offers a spectacular look at the world's 12th highest mountain and the surrounding glaciers.",
+                  "category": "natural",
+                  "coords": [
+                        76.565557,
+                        35.813691
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CN-XJ",
     coords: [76.5, 35.8],

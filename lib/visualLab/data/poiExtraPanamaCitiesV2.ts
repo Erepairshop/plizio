@@ -1573,7 +1573,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             },
             {
                   "name": "Venta de Cruces",
-                  "text": "Historische Ruinen an einer alten Handelsroute in Gamboa.",
+                  "text": "Venta de Cruces, ein historischer Ort in Gamboa, Panama.",
                   "category": "historical",
                   "coords": [
                         -79.684585,
@@ -1582,7 +1582,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             },
             {
                   "name": "Gamboa Sloth Sanctuary",
-                  "text": "Ein Schutzgebiet für Faultiere in Gamboa.",
+                  "text": "Gamboa-Faultier-Schutzgebiet, ein Wildtier-Rettungszentrum für Faultiere in Gamboa.",
                   "category": "landmark",
                   "coords": [
                         -79.694004,
@@ -1602,7 +1602,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             },
             {
                   "name": "Venta de Cruces",
-                  "text": "Történelmi romok egy régi kereskedelmi útvonal mentén Gamboában.",
+                  "text": "Venta de Cruces, egy történelmi helyszín Gamboában, Panamában.",
                   "category": "historical",
                   "coords": [
                         -79.684585,
@@ -1611,7 +1611,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             },
             {
                   "name": "Gamboa Sloth Sanctuary",
-                  "text": "Lajhárrezervátum Gamboában.",
+                  "text": "Gamboa Lajhármenedék, egy vadon élő állatok mentőközpontja lajhárok számára Gamboában.",
                   "category": "landmark",
                   "coords": [
                         -79.694004,
@@ -1631,7 +1631,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             },
             {
                   "name": "Venta de Cruces",
-                  "text": "Ruine istorice pe o veche rută comercială în Gamboa.",
+                  "text": "Venta de Cruces, un sit istoric în Gamboa, Panama.",
                   "category": "historical",
                   "coords": [
                         -79.684585,
@@ -1640,7 +1640,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             },
             {
                   "name": "Gamboa Sloth Sanctuary",
-                  "text": "Un sanctuar pentru leneși în Gamboa.",
+                  "text": "Sanctuarul de leneși Gamboa, un centru de salvare a faunei sălbatice pentru leneși în Gamboa.",
                   "category": "landmark",
                   "coords": [
                         -79.694004,
@@ -1660,7 +1660,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             },
             {
                   "name": "Venta de Cruces",
-                  "text": "Historical ruins along an old trade route in Gamboa.",
+                  "text": "Venta de Cruces, a historical site in Gamboa, Panama.",
                   "category": "historical",
                   "coords": [
                         -79.684585,
@@ -1669,7 +1669,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
             },
             {
                   "name": "Gamboa Sloth Sanctuary",
-                  "text": "A sanctuary for sloths located in Gamboa.",
+                  "text": "Gamboa Sloth Sanctuary, a wildlife rescue center for sloths in Gamboa.",
                   "category": "landmark",
                   "coords": [
                         -79.694004,
@@ -2059,7 +2059,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mirador De La Represa Madden",
-                  "text": "Ein Aussichtspunkt mit Blick auf den Madden-Staudamm.",
+                  "text": "Mirador de la Represa Madden, ein Aussichtspunkt über den Madden-Staudamm bei Chilibre.",
                   "category": "natural",
                   "coords": [
                         -79.618572,
@@ -2070,7 +2070,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mirador De La Represa Madden",
-                  "text": "Kilátópont a Madden-gátra.",
+                  "text": "Mirador de la Represa Madden, egy kilátó a Madden-gátra Chilibre közelében.",
                   "category": "natural",
                   "coords": [
                         -79.618572,
@@ -2081,7 +2081,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mirador De La Represa Madden",
-                  "text": "Un punct de observație cu vedere spre barajul Madden.",
+                  "text": "Mirador de la Represa Madden, un punct de belvedere asupra Barajului Madden lângă Chilibre.",
                   "category": "natural",
                   "coords": [
                         -79.618572,
@@ -2092,7 +2092,7 @@ export const poiExtraPanamaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mirador De La Represa Madden",
-                  "text": "A viewpoint overlooking the Madden Dam.",
+                  "text": "Mirador de la Represa Madden, a viewpoint over the Madden Dam near Chilibre.",
                   "category": "natural",
                   "coords": [
                         -79.618572,

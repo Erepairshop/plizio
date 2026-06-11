@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraUzbekistanEconomicV2: POI[] = [
   {
-    id: "muruntau-gold-mine-economic-v2",
+    id: "muruntau-gold-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samoliot",
+                  "text": "Samoliot. Ein Denkmal, bestehend aus einem echten ausrangierten sowjetischen Flugzeug auf einem hohen Sockel.",
+                  "category": "landmark",
+                  "coords": [
+                        64.208361,
+                        41.569121
+                  ]
+            },
+            {
+                  "name": "ZARAFSHON jom`e masjidi",
+                  "text": "Kathedralmoschee Zarafshan. Ein großes islamisches Zentrum mit einer markanten türkisfarbenen Kuppel und Zwillingsminaretten.",
+                  "category": "landmark",
+                  "coords": [
+                        64.208635,
+                        41.578729
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Nikolaia, arkhiepiskopa Mir Likiiskikh, chudotvortsa",
+                  "text": "Nikolaus-Kirche. Eine orthodoxe Kirche, die der slawischen Gemeinschaft dieser Wüsten-Bergbaustadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        64.220249,
+                        41.569187
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi gorodskoi produktovyi rynok",
+                  "text": "Zentraler Lebensmittelmarkt. Die wichtigste Markthalle der Stadt mit frischen Produkten aus dem Zarafshan-Tal.",
+                  "category": "cultural",
+                  "coords": [
+                        64.193076,
+                        41.568934
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Bekleidungsmarkt. Ein weitläufiger Markt, der für preiswerte Textilien und traditionelle zentralasiatische Gewänder bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        64.194202,
+                        41.568157
+                  ]
+            },
+            {
+                  "name": "Rynok \"Pole-Chudes\"",
+                  "text": "Markt „Feld der Wunder“. Ein lebhafter Flohmarkt, auf dem alles von Vintage-Elektronik bis hin zu Antiquitäten verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        64.214315,
+                        41.573529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samoliot",
+                  "text": "Repülő-emlékmű. Egy talapzatra állított, valódi kiselejtezett szovjet repülőgépből álló emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        64.208361,
+                        41.569121
+                  ]
+            },
+            {
+                  "name": "ZARAFSHON jom`e masjidi",
+                  "text": "Zarafshani székesegyházi mecset. Impozáns iszlám központ nagy türkizkék kupolával és két minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        64.208635,
+                        41.578729
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Nikolaia, arkhiepiskopa Mir Likiiskikh, chudotvortsa",
+                  "text": "Szent Miklós-templom. A bányászváros szláv közösségét kiszolgáló ortodox imaház a sivatag szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        64.220249,
+                        41.569187
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi gorodskoi produktovyi rynok",
+                  "text": "Központi városi élelmiszerpiac. A város fő vásárcsarnoka a Zarafshan-völgy friss termékeivel.",
+                  "category": "cultural",
+                  "coords": [
+                        64.193076,
+                        41.568934
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Ruházati piac. Olcsó textilekről és hagyományos közép-ázsiai köntösökről híres kiterjedt bazár.",
+                  "category": "cultural",
+                  "coords": [
+                        64.194202,
+                        41.568157
+                  ]
+            },
+            {
+                  "name": "Rynok \"Pole-Chudes\"",
+                  "text": "„Csodák mezeje” piac. Nyüzsgő bolhapiac, ahol a régiségektől a használt elektronikai cikkekig minden megtalálható.",
+                  "category": "cultural",
+                  "coords": [
+                        64.214315,
+                        41.573529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samoliot",
+                  "text": "Samoliot. Un monument care prezintă un avion sovietic real, scos din uz, montat pe un piedestal înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        64.208361,
+                        41.569121
+                  ]
+            },
+            {
+                  "name": "ZARAFSHON jom`e masjidi",
+                  "text": "Moscheea Catedrală ZERAFSHAN. Un centru islamic impunător cu o cupolă turcoaz mare și minarete gemene.",
+                  "category": "landmark",
+                  "coords": [
+                        64.208635,
+                        41.578729
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Nikolaia, arkhiepiskopa Mir Likiiskikh, chudotvortsa",
+                  "text": "Biserica Sfântul Nicolae. O biserică ortodoxă care deservește comunitatea slavă din acest oraș minier de deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        64.220249,
+                        41.569187
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi gorodskoi produktovyi rynok",
+                  "text": "Piața Alimentară Centrală. Principala hală alimentară a orașului cu produse proaspete din valea Zarafshan.",
+                  "category": "cultural",
+                  "coords": [
+                        64.193076,
+                        41.568934
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Piața de Îmbrăcăminte. O piață vastă renumită pentru textile accesibile și halate tradiționale din Asia Centrală.",
+                  "category": "cultural",
+                  "coords": [
+                        64.194202,
+                        41.568157
+                  ]
+            },
+            {
+                  "name": "Rynok \"Pole-Chudes\"",
+                  "text": "Piața „Câmpul Minunilor”. Un târg de vechituri animat unde se vând de la electronice vintage până la antichități.",
+                  "category": "cultural",
+                  "coords": [
+                        64.214315,
+                        41.573529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samoliot",
+                  "text": "Samoliot. A monument featuring a real decommissioned Soviet aircraft mounted on a high pedestal.",
+                  "category": "landmark",
+                  "coords": [
+                        64.208361,
+                        41.569121
+                  ]
+            },
+            {
+                  "name": "Cathedral mosque ZERAFSHAN",
+                  "text": "Cathedral mosque ZERAFSHAN. A grand Islamic center with a large turquoise dome and twin minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        64.208635,
+                        41.578729
+                  ]
+            },
+            {
+                  "name": "Khram Sviatitelia Nikolaia, arkhiepiskopa Mir Likiiskikh, chudotvortsa",
+                  "text": "Khram Sviatitelia Nikolaia. An Orthodox church serving the Slavic community of this desert mining town.",
+                  "category": "landmark",
+                  "coords": [
+                        64.220249,
+                        41.569187
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi gorodskoi produktovyi rynok",
+                  "text": "Tsentral'nyi gorodskoi produktovyi rynok. The city's primary indoor food hall offering fresh Zarafshan valley produce.",
+                  "category": "cultural",
+                  "coords": [
+                        64.193076,
+                        41.568934
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Veshchevoi rynok. A sprawling clothing market famous for affordable textiles and traditional Central Asian robes.",
+                  "category": "cultural",
+                  "coords": [
+                        64.194202,
+                        41.568157
+                  ]
+            },
+            {
+                  "name": "Rynok \"Pole-Chudes\"",
+                  "text": "Rynok \"Pole-Chudes\". A lively flea market where vendors sell everything from vintage electronics to antiques.",
+                  "category": "cultural",
+                  "coords": [
+                        64.214315,
+                        41.573529
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-NW",
     coords: [64.1433, 41.5036],
@@ -39,7 +264,664 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "navoi-mining-metallurgical-economic-v2",
+    id: "navoi-mining-metallurgical-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Navoiy viloyati qoʻgʻirchoq teatri",
+                  "text": "Puppentheater Navoiy. Ein kulturelles Zentrum, das traditionelle usbekische Stücke für Kinder aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        65.386985,
+                        40.107042
+                  ]
+            },
+            {
+                  "name": "Alisher Navoiy",
+                  "text": "Alischer-Navoiy-Denkmal. Eine monumentale Statue des Dichters und Linguisten aus dem 15. Jahrhundert, dem Namensgeber der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        65.365509,
+                        40.113473
+                  ]
+            },
+            {
+                  "name": "Farxod madaniyat uyi",
+                  "text": "Ein Kulturhaus in Navoiy, das als Zentrum für lokale Konzerte, Theateraufführungen und Jugendgruppen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        65.380322,
+                        40.094453
+                  ]
+            },
+            {
+                  "name": "Shahar hayvonot bog'i",
+                  "text": "Ein städtischer Zoo in Navoiy, der einheimische Tierarten und Huftiere in einem begrünten Parkgelände beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        65.366555,
+                        40.103804
+                  ]
+            },
+            {
+                  "name": "Amfeteatr",
+                  "text": "Ein Freilichttheater in Navoiy, das für große städtische Feierlichkeiten und Abendvorstellungen unter freiem Himmel genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        65.368968,
+                        40.108762
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "Ein Wasserfreizeitpark in Navoiy mit verschiedenen Rutschen und Außenbecken zur Abkühlung in der Sommerhitze.",
+                  "category": "recreational",
+                  "coords": [
+                        65.363111,
+                        40.107093
+                  ]
+            },
+            {
+                  "name": "San'at galereyasi",
+                  "text": "Eine Galerie in Navoiy, die zeitgenössische usbekische Malerei und traditionelles Kunsthandwerk der Region zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        65.364152,
+                        40.104428
+                  ]
+            },
+            {
+                  "name": "Burquttepa",
+                  "text": "Überreste einer antiken Siedlung in Navoiy, die archäologische Einblicke in die frühe Geschichte der Seidenstraße bieten.",
+                  "category": "historical",
+                  "coords": [
+                        65.394031,
+                        40.138228
+                  ]
+            },
+            {
+                  "name": "Oqtosh jom`e masjidi",
+                  "text": "Die Akhtash-Freitagsmoschee in Navoiy, ein markantes religiöses Zentrum mit moderner islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        65.408391,
+                        40.070982
+                  ]
+            },
+            {
+                  "name": "HAZRATI ALISHER NAVOIY jom`e masjidi",
+                  "text": "Eine nach dem Dichter Alischer Nawoi benannte Zentralmoschee, erkennbar an ihren großen blauen Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        65.387625,
+                        40.088809
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "Ein christliches Gotteshaus der Siebenten-Tags-Adventisten in Navoiy, das Gottesdienste für die lokale Gemeinschaft anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        65.369467,
+                        40.091065
+                  ]
+            },
+            {
+                  "name": "Xristian cherkovi",
+                  "text": "Eine russisch-orthodoxe Kirche in Navoiy, gewidmet dem Heiligen Sergius von Radonesch, mit traditionellen Zwiebeltürmen.",
+                  "category": "landmark",
+                  "coords": [
+                        65.378503,
+                        40.088697
+                  ]
+            },
+            {
+                  "name": "Bog'ishamol bozori",
+                  "text": "Ein belebter Marktplatz in Navoiy, bekannt für frisches Obst, Gemüse und die typischen runden Fladenbrote.",
+                  "category": "cultural",
+                  "coords": [
+                        65.436537,
+                        40.071709
+                  ]
+            },
+            {
+                  "name": "Rynok Gulistan (produkty)",
+                  "text": "Der Gulistan-Markt in Navoiy, ein lokaler Treffpunkt für den Kauf von Fleisch, Milchprodukten und regionalen Gewürzen.",
+                  "category": "cultural",
+                  "coords": [
+                        65.381962,
+                        40.091357
+                  ]
+            },
+            {
+                  "name": "Navoiy Bozori",
+                  "text": "Der zentrale Basar von Navoiy, ein weitläufiges Handelszentrum mit einer großen Auswahl an Textilien und Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        65.379961,
+                        40.10871
+                  ]
+            },
+            {
+                  "name": "Saxovat bozori",
+                  "text": "Ein lokaler Markt in Navoiy, auf dem Bauern aus der Umgebung ihre saisonalen Erzeugnisse und Handwerkswaren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        65.381315,
+                        40.107194
+                  ]
+            },
+            {
+                  "name": "Asila savdo do'koni",
+                  "text": "Ein kleinerer Handelsplatz in Navoiy, der sich auf Haushaltswaren und tägliche Bedarfsgüter für die Nachbarschaft spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        65.371886,
+                        40.109694
+                  ]
+            },
+            {
+                  "name": "9 kichik nohiya bozori (Dehqon Bozor)",
+                  "text": "Der Bauernmarkt im 9. Mikrorayon von Navoiy, geschätzt für seine günstigen Preise und frische Landprodukte.",
+                  "category": "cultural",
+                  "coords": [
+                        65.365027,
+                        40.115839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Navoiy viloyati qoʻgʻirchoq teatri",
+                  "text": "Navoiy tartományi bábszínház. Hagyományos üzbég bábjátékokat bemutató kulturális intézmény gyerekeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        65.386985,
+                        40.107042
+                  ]
+            },
+            {
+                  "name": "Alisher Navoiy",
+                  "text": "Alisher Navoiy-szobor. A város névadójának, a 15. századi költőnek és nyelvésznek állított monumentális emlék.",
+                  "category": "landmark",
+                  "coords": [
+                        65.365509,
+                        40.113473
+                  ]
+            },
+            {
+                  "name": "Farxod madaniyat uyi",
+                  "text": "Navoij művelődési háza, amely koncerteknek, színházi előadásoknak és ifjúsági szakköröknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        65.380322,
+                        40.094453
+                  ]
+            },
+            {
+                  "name": "Shahar hayvonot bog'i",
+                  "text": "Navoij városi állatkertje, amely őshonos állatfajokat és patásokat mutat be egy parkosított területen.",
+                  "category": "recreational",
+                  "coords": [
+                        65.366555,
+                        40.103804
+                  ]
+            },
+            {
+                  "name": "Amfeteatr",
+                  "text": "Szabadtéri amfiteátrum Navoijban, amelyet nagyszabású városi ünnepségekhez és esti előadásokhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        65.368968,
+                        40.108762
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "Vízi élménypark Navoijban csúszdákkal és szabadtéri medencékkel a nyári hőség elleni hűsöléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        65.363111,
+                        40.107093
+                  ]
+            },
+            {
+                  "name": "San'at galereyasi",
+                  "text": "Navoij művészeti galériája, amely kortárs üzbég festményeket és a régió hagyományos kézműves alkotásait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        65.364152,
+                        40.104428
+                  ]
+            },
+            {
+                  "name": "Burquttepa",
+                  "text": "Egy ősi település maradványai Navoijban, amely régészeti betekintést nyújt a Selyemút korai történelmébe.",
+                  "category": "historical",
+                  "coords": [
+                        65.394031,
+                        40.138228
+                  ]
+            },
+            {
+                  "name": "Oqtosh jom`e masjidi",
+                  "text": "Az Akhtash pénteki mecset Navoijban, egy jelentős vallási központ modern iszlám építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        65.408391,
+                        40.070982
+                  ]
+            },
+            {
+                  "name": "HAZRATI ALISHER NAVOIY jom`e masjidi",
+                  "text": "Alisher Navoiy költőről elnevezett központi mecset, amely nagy kék kupoláiról ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        65.387625,
+                        40.088809
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "A Hetednapi Adventista Egyház keresztény imaháza Navoijban, amely a helyi közösség számára tart istentiszteleteket.",
+                  "category": "landmark",
+                  "coords": [
+                        65.369467,
+                        40.091065
+                  ]
+            },
+            {
+                  "name": "Xristian cherkovi",
+                  "text": "Radonyezsi Szent Szergejnek szentelt orosz ortodox templom Navoijban, jellegzetes hagyományos hagymakupolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        65.378503,
+                        40.088697
+                  ]
+            },
+            {
+                  "name": "Bog'ishamol bozori",
+                  "text": "Navoij nyüzsgő piaca, amely friss gyümölcseiről, zöldségeiről és a hagyományos kerek lepénykenyereiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        65.436537,
+                        40.071709
+                  ]
+            },
+            {
+                  "name": "Rynok Gulistan (produkty)",
+                  "text": "A Gulistan piac Navoijban, a helyiek találkozóhelye húsáruk, tejtermékek és regionális fűszerek beszerzéséhez.",
+                  "category": "cultural",
+                  "coords": [
+                        65.381962,
+                        40.091357
+                  ]
+            },
+            {
+                  "name": "Navoiy Bozori",
+                  "text": "Navoij központi bazára, egy kiterjedt kereskedelmi központ textiláruk és élelmiszerek széles választékával.",
+                  "category": "cultural",
+                  "coords": [
+                        65.379961,
+                        40.10871
+                  ]
+            },
+            {
+                  "name": "Saxovat bozori",
+                  "text": "Helyi piac Navoijban, ahol a környékbeli gazdák szezonális terményeiket és kézműves termékeiket árusítják.",
+                  "category": "cultural",
+                  "coords": [
+                        65.381315,
+                        40.107194
+                  ]
+            },
+            {
+                  "name": "Asila savdo do'koni",
+                  "text": "Kisebb kereskedelmi egység Navoijban, amely háztartási cikkekre és napi szükségleti cikkekre szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        65.371886,
+                        40.109694
+                  ]
+            },
+            {
+                  "name": "9 kichik nohiya bozori (Dehqon Bozor)",
+                  "text": "Navoij 9. mikrorajonjának dehqon (paraszt) piaca, amely kedvező árairól és friss mezőgazdasági termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        65.365027,
+                        40.115839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Navoiy viloyati qoʻgʻirchoq teatri",
+                  "text": "Teatrul de Păpuși din Navoi. Un centru cultural regional care pune în scenă piese tradiționale uzbece pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        65.386985,
+                        40.107042
+                  ]
+            },
+            {
+                  "name": "Alisher Navoiy",
+                  "text": "Monumentul Alisher Navoi. O statuie monumentală a poetului și lingvistului din secolul al XV-lea, omonimul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        65.365509,
+                        40.113473
+                  ]
+            },
+            {
+                  "name": "Farxod madaniyat uyi",
+                  "text": "O casă de cultură în Navoiy, care servește drept centru pentru concerte locale, spectacole de teatru și grupuri de tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        65.380322,
+                        40.094453
+                  ]
+            },
+            {
+                  "name": "Shahar hayvonot bog'i",
+                  "text": "O grădină zoologică municipală în Navoiy, care adăpostește specii locale și ungulate într-o zonă de parc amenajată.",
+                  "category": "recreational",
+                  "coords": [
+                        65.366555,
+                        40.103804
+                  ]
+            },
+            {
+                  "name": "Amfeteatr",
+                  "text": "Un amfiteatru în aer liber în Navoiy, utilizat pentru mari festivități urbane și spectacole de seară sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        65.368968,
+                        40.108762
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "Un parc acvatic în Navoiy, dotat cu tobogane și piscine exterioare pentru răcorire în timpul arșiței verii.",
+                  "category": "recreational",
+                  "coords": [
+                        65.363111,
+                        40.107093
+                  ]
+            },
+            {
+                  "name": "San'at galereyasi",
+                  "text": "O galerie de artă în Navoiy, care expune pictură uzbecă contemporană și obiecte de artizanat tradițional din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        65.364152,
+                        40.104428
+                  ]
+            },
+            {
+                  "name": "Burquttepa",
+                  "text": "Rămășițele unei așezări antice în Navoiy, oferind perspective arheologice asupra istoriei timpurii a Drumului Mătăsii.",
+                  "category": "historical",
+                  "coords": [
+                        65.394031,
+                        40.138228
+                  ]
+            },
+            {
+                  "name": "Oqtosh jom`e masjidi",
+                  "text": "Marea moschee Akhtash din Navoiy, un centru religios proeminent cu o arhitectură islamică modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        65.408391,
+                        40.070982
+                  ]
+            },
+            {
+                  "name": "HAZRATI ALISHER NAVOIY jom`e masjidi",
+                  "text": "O moschee centrală numită după poetul Alisher Navoi, ușor de recunoscut după marile sale cupole albastre.",
+                  "category": "landmark",
+                  "coords": [
+                        65.387625,
+                        40.088809
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "O casă de cult creștină a Adventiștilor de Ziua a Șaptea în Navoiy, care oferă servicii religioase pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        65.369467,
+                        40.091065
+                  ]
+            },
+            {
+                  "name": "Xristian cherkovi",
+                  "text": "O biserică ortodoxă rusă în Navoiy, dedicată Sfântului Serghie de Radonej, având turle în formă de ceapă.",
+                  "category": "landmark",
+                  "coords": [
+                        65.378503,
+                        40.088697
+                  ]
+            },
+            {
+                  "name": "Bog'ishamol bozori",
+                  "text": "O piață plină de viață în Navoiy, cunoscută pentru fructe proaspete, legume și pâinile plate tradiționale rotunde.",
+                  "category": "cultural",
+                  "coords": [
+                        65.436537,
+                        40.071709
+                  ]
+            },
+            {
+                  "name": "Rynok Gulistan (produkty)",
+                  "text": "Piața Gulistan din Navoiy, un loc de întâlnire local pentru cumpărarea cărnii, lactatelor și a condimentelor regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        65.381962,
+                        40.091357
+                  ]
+            },
+            {
+                  "name": "Navoiy Bozori",
+                  "text": "Bazarul central din Navoiy, un centru comercial vast care oferă o gamă largă de textile și produse alimentare.",
+                  "category": "cultural",
+                  "coords": [
+                        65.379961,
+                        40.10871
+                  ]
+            },
+            {
+                  "name": "Saxovat bozori",
+                  "text": "O piață locală în Navoiy, unde fermierii din împrejurimi își vând produsele sezoniere și obiectele de artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        65.381315,
+                        40.107194
+                  ]
+            },
+            {
+                  "name": "Asila savdo do'koni",
+                  "text": "Un mic centru comercial în Navoiy, specializat în articole de uz casnic și bunuri de consum zilnic pentru cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        65.371886,
+                        40.109694
+                  ]
+            },
+            {
+                  "name": "9 kichik nohiya bozori (Dehqon Bozor)",
+                  "text": "Piața țărănească din microraionul 9 al orașului Navoiy, apreciată pentru prețurile accesibile și produsele agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        65.365027,
+                        40.115839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Navoiy viloyati qoʻgʻirchoq teatri",
+                  "text": "Navoiy viloyati qoʻgʻirchoq teatri. A regional cultural center performing traditional Uzbek puppet plays for children.",
+                  "category": "cultural",
+                  "coords": [
+                        65.386985,
+                        40.107042
+                  ]
+            },
+            {
+                  "name": "Alisher Navoiy",
+                  "text": "Alisher Navoiy. A monumental statue of the 15th-century poet and linguist, the city's namesake.",
+                  "category": "landmark",
+                  "coords": [
+                        65.365509,
+                        40.113473
+                  ]
+            },
+            {
+                  "name": "Farxod madaniyat uyi",
+                  "text": "A culture house in Navoiy that serves as a hub for local concerts, theater performances, and youth groups.",
+                  "category": "cultural",
+                  "coords": [
+                        65.380322,
+                        40.094453
+                  ]
+            },
+            {
+                  "name": "Shahar hayvonot bog'i",
+                  "text": "A municipal zoo in Navoiy featuring local wildlife species and ungulates within a landscaped park setting.",
+                  "category": "recreational",
+                  "coords": [
+                        65.366555,
+                        40.103804
+                  ]
+            },
+            {
+                  "name": "Amfeteatr",
+                  "text": "An open-air amphitheater in Navoiy used for major city celebrations and evening performances under the sky.",
+                  "category": "cultural",
+                  "coords": [
+                        65.368968,
+                        40.108762
+                  ]
+            },
+            {
+                  "name": "Akvapark",
+                  "text": "A water park in Navoiy featuring various slides and outdoor pools for cooling off during the summer heat.",
+                  "category": "recreational",
+                  "coords": [
+                        65.363111,
+                        40.107093
+                  ]
+            },
+            {
+                  "name": "San'at galereyasi",
+                  "text": "An art gallery in Navoiy showcasing contemporary Uzbek paintings and traditional handicrafts from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        65.364152,
+                        40.104428
+                  ]
+            },
+            {
+                  "name": "Burquttepa",
+                  "text": "Remains of an ancient settlement in Navoiy, offering archaeological insights into the early history of the Silk Road.",
+                  "category": "historical",
+                  "coords": [
+                        65.394031,
+                        40.138228
+                  ]
+            },
+            {
+                  "name": "Cathedral mosque AKHTASH",
+                  "text": "The Akhtash Friday mosque in Navoiy, a prominent religious center featuring modern Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        65.408391,
+                        40.070982
+                  ]
+            },
+            {
+                  "name": "Cathedral mosque KHAZRAT ALISHER NAVOI",
+                  "text": "A central mosque named after the poet Alisher Navoi, distinguished by its large blue domes.",
+                  "category": "landmark",
+                  "coords": [
+                        65.387625,
+                        40.088809
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "A Christian place of worship for Seventh-day Adventists in Navoiy, serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        65.369467,
+                        40.091065
+                  ]
+            },
+            {
+                  "name": "Church of St. Sergiuy Radonezhkogo",
+                  "text": "A Russian Orthodox church in Navoiy dedicated to St. Sergius of Radonezh, featuring traditional onion domes.",
+                  "category": "landmark",
+                  "coords": [
+                        65.378503,
+                        40.088697
+                  ]
+            },
+            {
+                  "name": "Bog'ishamol bozori",
+                  "text": "A bustling marketplace in Navoiy known for fresh fruits, vegetables, and traditional round flatbreads.",
+                  "category": "cultural",
+                  "coords": [
+                        65.436537,
+                        40.071709
+                  ]
+            },
+            {
+                  "name": "Rynok Gulistan (produkty)",
+                  "text": "The Gulistan market in Navoiy, a local spot for purchasing meat, dairy products, and regional spices.",
+                  "category": "cultural",
+                  "coords": [
+                        65.381962,
+                        40.091357
+                  ]
+            },
+            {
+                  "name": "Navoiy Bozori",
+                  "text": "The central bazaar of Navoiy, an expansive trading hub offering a wide variety of textiles and food products.",
+                  "category": "cultural",
+                  "coords": [
+                        65.379961,
+                        40.10871
+                  ]
+            },
+            {
+                  "name": "Saxovat bozori",
+                  "text": "A local market in Navoiy where nearby farmers sell their seasonal produce and handcrafted goods.",
+                  "category": "cultural",
+                  "coords": [
+                        65.381315,
+                        40.107194
+                  ]
+            },
+            {
+                  "name": "Asila savdo do'koni",
+                  "text": "A smaller trading spot in Navoiy specializing in household goods and daily necessities for the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        65.371886,
+                        40.109694
+                  ]
+            },
+            {
+                  "name": "9 kichik nohiya bozori (Dehqon Bozor)",
+                  "text": "The farmer's market in Navoiy's 9th microdistrict, valued for its affordable prices and fresh agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        65.365027,
+                        40.115839
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-NW",
     coords: [65.3792, 40.1039],
@@ -75,7 +957,520 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "almalyk-mining-metallurgical-economic-v2",
+    id: "almalyk-mining-metallurgical-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "byvshaia burovaia ustanovka",
+                  "text": "Eine ehemalige Bohranlage, die als industrielles Relikt von der umfangreichen Bergbaugeschichte der Stadt Olmaliq zeugt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.623935,
+                        40.813352
+                  ]
+            },
+            {
+                  "name": "Mednyi kombinat",
+                  "text": "Dieses Denkmal ehrt das Kupferkombinat und symbolisiert die Bedeutung der Metallurgie für die lokale Wirtschaft.",
+                  "category": "historical",
+                  "coords": [
+                        69.550387,
+                        40.860412
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein Freilichttheater, das für kulturelle Veranstaltungen und Konzerte im Herzen der Industriestadt genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        69.644335,
+                        40.903605
+                  ]
+            },
+            {
+                  "name": "Parpi ota ziioratgokh",
+                  "text": "Ein spiritueller Ort und Schrein, der als Ziel für lokale Pilgerfahrten und zur religiösen Einkehr dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.659942,
+                        40.860899
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka na rudnik Kal'makyr",
+                  "text": "Dieser Aussichtspunkt bietet einen spektakulären Blick auf den riesigen Kupfer-Tagebau Kal'makyr, einen der größten der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        69.630924,
+                        40.822695
+                  ]
+            },
+            {
+                  "name": "Gorodishche Tunkent",
+                  "text": "Die Überreste einer antiken Siedlung, die Archäologen Einblicke in die frühen Zivilisationen der Region Tashkent bieten.",
+                  "category": "historical",
+                  "coords": [
+                        69.526111,
+                        40.822055
+                  ]
+            },
+            {
+                  "name": "Gorodishche Kul'ata",
+                  "text": "Eine archäologische Fundstätte, an der Ruinen einer mittelalterlichen Siedlung die historische Bedeutung dieses Handelsweges belegen.",
+                  "category": "historical",
+                  "coords": [
+                        69.530956,
+                        40.818918
+                  ]
+            },
+            {
+                  "name": "Metallurg madaniyat saroyi",
+                  "text": "Ein markantes Gebäude im sowjetischen Stil, das als kulturelles Zentrum für die Arbeiter der Metallindustrie dient.",
+                  "category": "cultural",
+                  "coords": [
+                        69.603765,
+                        40.846143
+                  ]
+            },
+            {
+                  "name": "Gorodishche Korikhona",
+                  "text": "Diese antike Stätte beherbergt Ruinen von Lehmziegelstrukturen, die Teil der historischen Befestigungsanlagen der Region waren.",
+                  "category": "historical",
+                  "coords": [
+                        69.695989,
+                        40.797892
+                  ]
+            },
+            {
+                  "name": "Ko‘l ota jome’ masjidi",
+                  "text": "Die zentrale Freitagsmoschee von Olmaliq, bekannt für ihre blaue Kuppel und den geräumigen Innenhof für Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        69.500367,
+                        40.829298
+                  ]
+            },
+            {
+                  "name": "Xonobod jome’ masjidi",
+                  "text": "Eine traditionelle Moschee im Khanabad-Viertel, die ein wichtiger Anlaufpunkt für die lokale muslimische Gemeinschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.641252,
+                        40.902271
+                  ]
+            },
+            {
+                  "name": "Mesto dlia namaza",
+                  "text": "Ein schlichter und ruhiger Ort, der speziell für das tägliche Namaz-Gebet der Anwohner eingerichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        69.673047,
+                        40.898759
+                  ]
+            },
+            {
+                  "name": "Abduqoxxor Maxsum jome’ masjidi",
+                  "text": "Diese nach einem lokalen Gelehrten benannte Moschee ist ein bedeutendes religiöses Zentrum in der Stadt Olmaliq.",
+                  "category": "landmark",
+                  "coords": [
+                        69.677881,
+                        40.866716
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo apostola Fomy",
+                  "text": "Die einzige russisch-orthodoxe Kirche der Stadt, gewidmet dem Apostel Thomas, erkennbar an ihren traditionellen blauen Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        69.639616,
+                        40.912577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "byvshaia burovaia ustanovka",
+                  "text": "Egykori fúrótorony, amely ipari emlékként tanúskodik Almaliq városának kiterjedt bányászati múltjáról.",
+                  "category": "landmark",
+                  "coords": [
+                        69.623935,
+                        40.813352
+                  ]
+            },
+            {
+                  "name": "Mednyi kombinat",
+                  "text": "Ez az emlékmű a rézkombinát előtt tiszteleg, szimbolizálva a kohászat jelentőségét a helyi gazdaságban.",
+                  "category": "historical",
+                  "coords": [
+                        69.550387,
+                        40.860412
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Szabadtéri színház, amelyet kulturális eseményekre és koncertekre használnak az iparváros szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        69.644335,
+                        40.903605
+                  ]
+            },
+            {
+                  "name": "Parpi ota ziioratgokh",
+                  "text": "Spirituális helyszín és kegyhely, amely helyi zarándoklatok és vallási elmélyülés célpontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.659942,
+                        40.860899
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka na rudnik Kal'makyr",
+                  "text": "Erről a kilátóról látványos rálátás nyílik a hatalmas Kalmakir külszíni rézbányára, amely a világ egyik legnagyobbja.",
+                  "category": "natural",
+                  "coords": [
+                        69.630924,
+                        40.822695
+                  ]
+            },
+            {
+                  "name": "Gorodishche Tunkent",
+                  "text": "Egy ősi település maradványai, amelyek bepillantást engednek a régészeknek a Taskent régió korai civilizációiba.",
+                  "category": "historical",
+                  "coords": [
+                        69.526111,
+                        40.822055
+                  ]
+            },
+            {
+                  "name": "Gorodishche Kul'ata",
+                  "text": "Régészeti lelőhely, ahol egy középkori település romjai bizonyítják e kereskedelmi útvonal történelmi jelentőségét.",
+                  "category": "historical",
+                  "coords": [
+                        69.530956,
+                        40.818918
+                  ]
+            },
+            {
+                  "name": "Metallurg madaniyat saroyi",
+                  "text": "Jellegzetes szovjet stílusú épület, amely a kohászati ipar dolgozóinak kulturális központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.603765,
+                        40.846143
+                  ]
+            },
+            {
+                  "name": "Gorodishche Korikhona",
+                  "text": "Ez az ősi helyszín vályogtégla építmények romjait őrzi, amelyek a régió történelmi erődítményeinek részei voltak.",
+                  "category": "historical",
+                  "coords": [
+                        69.695989,
+                        40.797892
+                  ]
+            },
+            {
+                  "name": "Ko‘l ota jome’ masjidi",
+                  "text": "Almaliq központi pénteki mecsetje, amely kék kupolájáról és tágas imaudvaráról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.500367,
+                        40.829298
+                  ]
+            },
+            {
+                  "name": "Xonobod jome’ masjidi",
+                  "text": "Hagyományos mecset a Khanabad negyedben, amely a helyi muszlim közösség fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        69.641252,
+                        40.902271
+                  ]
+            },
+            {
+                  "name": "Mesto dlia namaza",
+                  "text": "Egyszerű és csendes helyszín, amelyet kifejezetten a környéken lakók napi Namaz imájához alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        69.673047,
+                        40.898759
+                  ]
+            },
+            {
+                  "name": "Abduqoxxor Maxsum jome’ masjidi",
+                  "text": "Ez a helyi tudósról elnevezett mecset Almaliq városának egyik jelentős vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.677881,
+                        40.866716
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo apostola Fomy",
+                  "text": "A város egyetlen orosz ortodox temploma, amelyet Tamás apostolnak szenteltek, és hagyományos kék kupoláiról ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        69.639616,
+                        40.912577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "byvshaia burovaia ustanovka",
+                  "text": "O fostă instalație de foraj care servește ca relicvă industrială, atestând istoria minieră bogată a orașului Almaliq.",
+                  "category": "landmark",
+                  "coords": [
+                        69.623935,
+                        40.813352
+                  ]
+            },
+            {
+                  "name": "Mednyi kombinat",
+                  "text": "Acest monument onorează combinatul de cupru, simbolizând importanța metalurgiei pentru economia locală.",
+                  "category": "historical",
+                  "coords": [
+                        69.550387,
+                        40.860412
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Un amfiteatru în aer liber utilizat pentru evenimente culturale și concerte în inima orașului industrial.",
+                  "category": "cultural",
+                  "coords": [
+                        69.644335,
+                        40.903605
+                  ]
+            },
+            {
+                  "name": "Parpi ota ziioratgokh",
+                  "text": "Un loc spiritual și sanctuar care servește drept destinație pentru pelerinaje locale și reculegere religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        69.659942,
+                        40.860899
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka na rudnik Kal'makyr",
+                  "text": "Acest punct de observație oferă o vedere spectaculoasă asupra carierei gigantice de cupru Kal'makyr, una dintre cele mai mari din lume.",
+                  "category": "natural",
+                  "coords": [
+                        69.630924,
+                        40.822695
+                  ]
+            },
+            {
+                  "name": "Gorodishche Tunkent",
+                  "text": "Rămășițele unei așezări antice care oferă arheologilor detalii despre civilizațiile timpurii din regiunea Tașkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.526111,
+                        40.822055
+                  ]
+            },
+            {
+                  "name": "Gorodishche Kul'ata",
+                  "text": "Un sit arheologic unde ruinele unei așezări medievale atestă importanța istorică a acestei rute comerciale.",
+                  "category": "historical",
+                  "coords": [
+                        69.530956,
+                        40.818918
+                  ]
+            },
+            {
+                  "name": "Metallurg madaniyat saroyi",
+                  "text": "O clădire distinctivă în stil sovietic care servește drept centru cultural pentru lucrătorii din industria metalurgică.",
+                  "category": "cultural",
+                  "coords": [
+                        69.603765,
+                        40.846143
+                  ]
+            },
+            {
+                  "name": "Gorodishche Korikhona",
+                  "text": "Acest sit antic adăpostește ruine ale unor structuri din cărămidă nearsă, care făceau parte din fortificațiile istorice ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        69.695989,
+                        40.797892
+                  ]
+            },
+            {
+                  "name": "Ko‘l ota jome’ masjidi",
+                  "text": "Moscheea centrală de vineri din Almaliq, cunoscută pentru cupola sa albastră și curtea spațioasă pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        69.500367,
+                        40.829298
+                  ]
+            },
+            {
+                  "name": "Xonobod jome’ masjidi",
+                  "text": "O moschee tradițională în cartierul Khanabad, fiind un punct de reper important pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.641252,
+                        40.902271
+                  ]
+            },
+            {
+                  "name": "Mesto dlia namaza",
+                  "text": "Un loc simplu și liniștit amenajat special pentru rugăciunea zilnică Namaz a rezidenților din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        69.673047,
+                        40.898759
+                  ]
+            },
+            {
+                  "name": "Abduqoxxor Maxsum jome’ masjidi",
+                  "text": "Această moschee, numită după un savant local, este un centru religios semnificativ în orașul Almaliq.",
+                  "category": "landmark",
+                  "coords": [
+                        69.677881,
+                        40.866716
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo apostola Fomy",
+                  "text": "Singura biserică ortodoxă rusă din oraș, dedicată Sfântului Apostol Toma, recunoscută după cupolele sale albastre tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        69.639616,
+                        40.912577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "byvshaia burovaia ustanovka",
+                  "text": "A former drilling rig serving as an industrial relic of Almalyk's extensive mining history.",
+                  "category": "landmark",
+                  "coords": [
+                        69.623935,
+                        40.813352
+                  ]
+            },
+            {
+                  "name": "Mednyi kombinat",
+                  "text": "This monument honors the copper plant, symbolizing the importance of metallurgy to the local economy.",
+                  "category": "historical",
+                  "coords": [
+                        69.550387,
+                        40.860412
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "An open-air theater used for cultural events and concerts in the heart of the industrial city.",
+                  "category": "cultural",
+                  "coords": [
+                        69.644335,
+                        40.903605
+                  ]
+            },
+            {
+                  "name": "Parpi ota ziioratgokh",
+                  "text": "A spiritual site and shrine serving as a destination for local pilgrimages and religious reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        69.659942,
+                        40.860899
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka na rudnik Kal'makyr",
+                  "text": "This viewpoint offers a spectacular look into the massive Kal'makyr open-pit copper mine, one of the largest in the world.",
+                  "category": "natural",
+                  "coords": [
+                        69.630924,
+                        40.822695
+                  ]
+            },
+            {
+                  "name": "Gorodishche Tunkent",
+                  "text": "The remains of an ancient settlement, offering archaeologists insights into the early civilizations of the Tashkent region.",
+                  "category": "historical",
+                  "coords": [
+                        69.526111,
+                        40.822055
+                  ]
+            },
+            {
+                  "name": "Gorodishche Kul'ata",
+                  "text": "An archaeological site where ruins of a medieval settlement testify to the historical importance of this trade route.",
+                  "category": "historical",
+                  "coords": [
+                        69.530956,
+                        40.818918
+                  ]
+            },
+            {
+                  "name": "Metallurg madaniyat saroyi",
+                  "text": "A prominent Soviet-style building serving as a cultural center for workers in the metallurgical industry.",
+                  "category": "cultural",
+                  "coords": [
+                        69.603765,
+                        40.846143
+                  ]
+            },
+            {
+                  "name": "Gorodishche Korikhona",
+                  "text": "This ancient site contains ruins of mud-brick structures that were part of the region's historical fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        69.695989,
+                        40.797892
+                  ]
+            },
+            {
+                  "name": "Ko‘l ota jome’ masjidi",
+                  "text": "The central Friday mosque of Almalyk, known for its blue dome and spacious courtyard for prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.500367,
+                        40.829298
+                  ]
+            },
+            {
+                  "name": "Khanabad",
+                  "text": "A traditional mosque in the Khanabad neighborhood, serving as an important hub for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.641252,
+                        40.902271
+                  ]
+            },
+            {
+                  "name": "Place for praying(Namaz)",
+                  "text": "A simple and quiet space designated specifically for the daily Namaz prayers of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        69.673047,
+                        40.898759
+                  ]
+            },
+            {
+                  "name": "Abduqoxxor Maxsum jome’ masjidi",
+                  "text": "Named after a local scholar, this mosque is a significant religious center in the city of Almalyk.",
+                  "category": "landmark",
+                  "coords": [
+                        69.677881,
+                        40.866716
+                  ]
+            },
+            {
+                  "name": "Khram sviatogo apostola Fomy",
+                  "text": "The city's only Russian Orthodox church, dedicated to St. Thomas the Apostle, featuring traditional blue domes.",
+                  "category": "landmark",
+                  "coords": [
+                        69.639616,
+                        40.912577
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-TO",
     coords: [69.5975, 40.8353],
@@ -111,7 +1506,592 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "uzauto-motors-asaka-economic-v2",
+    id: "uzauto-motors-asaka-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Klub",
+                  "text": "Klub fungiert als lokales Zentrum für Kunstausstellungen und kulturelle Veranstaltungen in der Stadt Asaka.",
+                  "category": "cultural",
+                  "coords": [
+                        72.229947,
+                        40.678688
+                  ]
+            },
+            {
+                  "name": "Mirzaxolik ota jome' masjidi",
+                  "text": "Die Mirzaxolik ota jome' masjidi ist eine islamische Gemeindemoschee, die Gläubige in Asaka zum Freitagsgebet empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.136735,
+                        40.61496
+                  ]
+            },
+            {
+                  "name": "Muxammad soli xoji jome' masjidi",
+                  "text": "Die Muxammad soli xoji jome' masjidi bietet der muslimischen Gemeinde in Asaka geräumige Gebetsräumlichkeiten für das Gemeindegebet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.178546,
+                        40.584069
+                  ]
+            },
+            {
+                  "name": "Mulla Abdulaziz xoji jome' masjidi",
+                  "text": "Die Mulla Abdulaziz xoji jome' masjidi ist eine lokale Freitagsmoschee, die als religiöser Treffpunkt in Asaka dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.19558,
+                        40.594458
+                  ]
+            },
+            {
+                  "name": "Bobojon qori jome' masjidi",
+                  "text": "Die Bobojon qori jome' masjidi ist eine Freitagsmoschee, die der muslimischen Gemeinde in Asaka einen Ort für Versammlungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.221793,
+                        40.637231
+                  ]
+            },
+            {
+                  "name": "Xazrati Usmon jome' masjidi",
+                  "text": "Die Xazrati Usmon jome' masjidi ist ein wichtiges islamisches religiöses Zentrum für die Gemeindegebete in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.238957,
+                        40.638272
+                  ]
+            },
+            {
+                  "name": "Toshboy Xalfa jome' masjidi",
+                  "text": "Die Toshboy Xalfa jome' masjidi ist ein spezieller muslimischer Gebetsraum für die Freitagsversammlung in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.219741,
+                        40.658776
+                  ]
+            },
+            {
+                  "name": "Imom Muhammad jome' masjidi",
+                  "text": "Die Imom Muhammad jome' masjidi dient der islamischen Gemeinde von Asaka als gut besuchte lokale Freitagsmoschee.",
+                  "category": "landmark",
+                  "coords": [
+                        72.171198,
+                        40.670607
+                  ]
+            },
+            {
+                  "name": "Mamir qori jome' masjidi",
+                  "text": "Die Mamir qori jome' masjidi ist ein traditioneller Versammlungsort für das muslimische Freitagsgebet in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.160095,
+                        40.663494
+                  ]
+            },
+            {
+                  "name": "Xalim kori jome' masjidi",
+                  "text": "Die Xalim kori jome' masjidi bietet Muslimen in Asaka eine Kultstätte für die wöchentlichen Gemeindesgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        72.158191,
+                        40.653246
+                  ]
+            },
+            {
+                  "name": "Markayuz jome' masjidi",
+                  "text": "Die Markayuz jome' masjidi ist eine islamische Gemeindemoschee, die die gläubige Nachbarschaft in Asaka zusammenbringt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.175085,
+                        40.630422
+                  ]
+            },
+            {
+                  "name": "Muxiddin Saxob jome' masjidi",
+                  "text": "Die Muxiddin Saxob jome' masjidi dient als lokales muslimisches Gebetszentrum für das Jumu'ah-Gebet in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.190247,
+                        40.679521
+                  ]
+            },
+            {
+                  "name": "Fayziobod jome' masjidi",
+                  "text": "Die Fayziobod jome' masjidi ist eine islamische Andachtsstätte, die für die Freitagsgebete in Asaka genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        72.280216,
+                        40.685353
+                  ]
+            },
+            {
+                  "name": "Polvontosh",
+                  "text": "Polvontosh ist eine muslimische religiöse Stätte, an der sich die lokale Gemeinde von Asaka zum Gebet trifft.",
+                  "category": "landmark",
+                  "coords": [
+                        72.237416,
+                        40.553103
+                  ]
+            },
+            {
+                  "name": "Pastki Qurama jome' masjidi",
+                  "text": "Die Pastki Qurama jome' masjidi fungiert als Gemeindemoschee für Muslime in Asaka, insbesondere freitags.",
+                  "category": "landmark",
+                  "coords": [
+                        72.149187,
+                        40.596269
+                  ]
+            },
+            {
+                  "name": "Takhta bozor",
+                  "text": "Takhta bozor ist ein traditioneller Markt in Asaka, der für den Handel mit Holz- und Bretterwaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        72.234882,
+                        40.624771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Klub",
+                  "text": "A Klub egy helyi központként működik művészeti kiállítások és kulturális események számára Aszaka városában.",
+                  "category": "cultural",
+                  "coords": [
+                        72.229947,
+                        40.678688
+                  ]
+            },
+            {
+                  "name": "Mirzaxolik ota jome' masjidi",
+                  "text": "A Mirzaxolik ota jome' masjidi egy iszlám közösségi mecset, amely pénteki imára várja a hívőket Aszakában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.136735,
+                        40.61496
+                  ]
+            },
+            {
+                  "name": "Muxammad soli xoji jome' masjidi",
+                  "text": "A Muxammad soli xoji jome' masjidi tágas imatermeket biztosít az aszakai muszlim közösség számára a közös imához.",
+                  "category": "landmark",
+                  "coords": [
+                        72.178546,
+                        40.584069
+                  ]
+            },
+            {
+                  "name": "Mulla Abdulaziz xoji jome' masjidi",
+                  "text": "A Mulla Abdulaziz xoji jome' masjidi egy helyi pénteki mecset, amely vallási találkozóhelyként szolgál Aszakában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.19558,
+                        40.594458
+                  ]
+            },
+            {
+                  "name": "Bobojon qori jome' masjidi",
+                  "text": "A Bobojon qori jome' masjidi egy pénteki mecset, amely gyülekezési helyet biztosít az aszakai muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.221793,
+                        40.637231
+                  ]
+            },
+            {
+                  "name": "Xazrati Usmon jome' masjidi",
+                  "text": "A Xazrati Usmon jome' masjidi egy fontos iszlám vallási központ a közösségi imákhoz Aszakában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.238957,
+                        40.638272
+                  ]
+            },
+            {
+                  "name": "Toshboy Xalfa jome' masjidi",
+                  "text": "A Toshboy Xalfa jome' masjidi egy dedikált muszlim imaterem a pénteki gyülekezet számára Aszakában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.219741,
+                        40.658776
+                  ]
+            },
+            {
+                  "name": "Imom Muhammad jome' masjidi",
+                  "text": "Az Imom Muhammad jome' masjidi Aszaka iszlám közösségét szolgálja egy forgalmas helyi pénteki mecsetként.",
+                  "category": "landmark",
+                  "coords": [
+                        72.171198,
+                        40.670607
+                  ]
+            },
+            {
+                  "name": "Mamir qori jome' masjidi",
+                  "text": "A Mamir qori jome' masjidi egy hagyományos gyülekezési hely a muszlim pénteki imához Aszakában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.160095,
+                        40.663494
+                  ]
+            },
+            {
+                  "name": "Xalim kori jome' masjidi",
+                  "text": "A Xalim kori jome' masjidi istentiszteleti helyet biztosít a muszlimok számára Aszakában a heti közösségi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        72.158191,
+                        40.653246
+                  ]
+            },
+            {
+                  "name": "Markayuz jome' masjidi",
+                  "text": "A Markayuz jome' masjidi egy iszlám közösségi mecset, amely összehozza a hívő lakosságot Aszakában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.175085,
+                        40.630422
+                  ]
+            },
+            {
+                  "name": "Muxiddin Saxob jome' masjidi",
+                  "text": "A Muxiddin Saxob jome' masjidi helyi muszlim imaközpontként szolgál a dzsuma imához Aszakában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.190247,
+                        40.679521
+                  ]
+            },
+            {
+                  "name": "Fayziobod jome' masjidi",
+                  "text": "A Fayziobod jome' masjidi egy iszlám istentiszteleti létesítmény, amelyet pénteki imákra használnak Aszakában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.280216,
+                        40.685353
+                  ]
+            },
+            {
+                  "name": "Polvontosh",
+                  "text": "A Polvontosh egy muszlim vallási helyszín, ahol Aszaka helyi közössége találkozik imádkozni.",
+                  "category": "landmark",
+                  "coords": [
+                        72.237416,
+                        40.553103
+                  ]
+            },
+            {
+                  "name": "Pastki Qurama jome' masjidi",
+                  "text": "A Pastki Qurama jome' masjidi közösségi mecsetként működik a muszlimok számára Aszakában, különösen péntekenként.",
+                  "category": "landmark",
+                  "coords": [
+                        72.149187,
+                        40.596269
+                  ]
+            },
+            {
+                  "name": "Takhta bozor",
+                  "text": "A Takhta bozor egy hagyományos piac Aszakában, amely a fa- és deszkaáruk kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        72.234882,
+                        40.624771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Klub",
+                  "text": "Klub funcționează ca un centru local pentru expoziții de artă și evenimente culturale în orașul Asaka.",
+                  "category": "cultural",
+                  "coords": [
+                        72.229947,
+                        40.678688
+                  ]
+            },
+            {
+                  "name": "Mirzaxolik ota jome' masjidi",
+                  "text": "Mirzaxolik ota jome' masjidi este o moschee congregațională islamică care primește credincioșii pentru rugăciunea de vineri în Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.136735,
+                        40.61496
+                  ]
+            },
+            {
+                  "name": "Muxammad soli xoji jome' masjidi",
+                  "text": "Muxammad soli xoji jome' masjidi oferă săli spațioase de rugăciune pentru comunitatea musulmană din Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.178546,
+                        40.584069
+                  ]
+            },
+            {
+                  "name": "Mulla Abdulaziz xoji jome' masjidi",
+                  "text": "Mulla Abdulaziz xoji jome' masjidi este o moschee de vineri locală care servește ca loc de întâlnire religioasă în Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.19558,
+                        40.594458
+                  ]
+            },
+            {
+                  "name": "Bobojon qori jome' masjidi",
+                  "text": "Bobojon qori jome' masjidi este o moschee de vineri care oferă un loc de adunare pentru comunitatea musulmană din Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.221793,
+                        40.637231
+                  ]
+            },
+            {
+                  "name": "Xazrati Usmon jome' masjidi",
+                  "text": "Xazrati Usmon jome' masjidi este un centru religios islamic important pentru rugăciunile congregaționale din Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.238957,
+                        40.638272
+                  ]
+            },
+            {
+                  "name": "Toshboy Xalfa jome' masjidi",
+                  "text": "Toshboy Xalfa jome' masjidi este un spațiu dedicat rugăciunii musulmane pentru adunarea de vineri din Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.219741,
+                        40.658776
+                  ]
+            },
+            {
+                  "name": "Imom Muhammad jome' masjidi",
+                  "text": "Imom Muhammad jome' masjidi deservește comunitatea islamică din Asaka ca o moschee de vineri locală foarte frecventată.",
+                  "category": "landmark",
+                  "coords": [
+                        72.171198,
+                        40.670607
+                  ]
+            },
+            {
+                  "name": "Mamir qori jome' masjidi",
+                  "text": "Mamir qori jome' masjidi este un loc de adunare tradițional pentru rugăciunea musulmană de vineri în Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.160095,
+                        40.663494
+                  ]
+            },
+            {
+                  "name": "Xalim kori jome' masjidi",
+                  "text": "Xalim kori jome' masjidi oferă un lăcaș de cult pentru musulmanii din Asaka pentru rugăciunile congregaționale săptămânale.",
+                  "category": "landmark",
+                  "coords": [
+                        72.158191,
+                        40.653246
+                  ]
+            },
+            {
+                  "name": "Markayuz jome' masjidi",
+                  "text": "Markayuz jome' masjidi este o moschee congregațională islamică care reunește cartierul de credincioși din Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.175085,
+                        40.630422
+                  ]
+            },
+            {
+                  "name": "Muxiddin Saxob jome' masjidi",
+                  "text": "Muxiddin Saxob jome' masjidi servește drept centru local de rugăciune musulmană pentru rugăciunea Jumu'ah din Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.190247,
+                        40.679521
+                  ]
+            },
+            {
+                  "name": "Fayziobod jome' masjidi",
+                  "text": "Fayziobod jome' masjidi este un lăcaș de cult islamic folosit pentru rugăciunile de vineri în Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.280216,
+                        40.685353
+                  ]
+            },
+            {
+                  "name": "Polvontosh",
+                  "text": "Polvontosh este un sit religios musulman unde comunitatea locală din Asaka se întâlnește pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        72.237416,
+                        40.553103
+                  ]
+            },
+            {
+                  "name": "Pastki Qurama jome' masjidi",
+                  "text": "Pastki Qurama jome' masjidi funcționează ca o moschee congregațională pentru musulmanii din Asaka, mai ales vinerea.",
+                  "category": "landmark",
+                  "coords": [
+                        72.149187,
+                        40.596269
+                  ]
+            },
+            {
+                  "name": "Takhta bozor",
+                  "text": "Takhta bozor este o piață tradițională din Asaka, cunoscută pentru comerțul cu lemn și cherestea.",
+                  "category": "cultural",
+                  "coords": [
+                        72.234882,
+                        40.624771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Klub",
+                  "text": "Klub functions as a local center for art exhibitions and cultural events in the city of Asaka.",
+                  "category": "cultural",
+                  "coords": [
+                        72.229947,
+                        40.678688
+                  ]
+            },
+            {
+                  "name": "Mirzaxolik ota jome' masjidi",
+                  "text": "Mirzaxolik ota jome' masjidi is an Islamic congregational mosque that welcomes worshippers for Friday prayers in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.136735,
+                        40.61496
+                  ]
+            },
+            {
+                  "name": "Muxammad soli xoji jome' masjidi",
+                  "text": "Muxammad soli xoji jome' masjidi provides spacious prayer facilities for communal worship for the Muslim community in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.178546,
+                        40.584069
+                  ]
+            },
+            {
+                  "name": "Mulla Abdulaziz xoji jome' masjidi",
+                  "text": "Mulla Abdulaziz xoji jome' masjidi is a local Friday mosque serving as a religious meeting point in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.19558,
+                        40.594458
+                  ]
+            },
+            {
+                  "name": "Bobojon qori jome' masjidi",
+                  "text": "Bobojon qori jome' masjidi is a Friday mosque offering a gathering place for the Muslim community in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.221793,
+                        40.637231
+                  ]
+            },
+            {
+                  "name": "Xazrati Usmon jome' masjidi",
+                  "text": "Xazrati Usmon jome' masjidi is an important Islamic religious center for congregational prayers in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.238957,
+                        40.638272
+                  ]
+            },
+            {
+                  "name": "Toshboy Xalfa jome' masjidi",
+                  "text": "Toshboy Xalfa jome' masjidi is a dedicated Muslim prayer space for the Friday congregation in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.219741,
+                        40.658776
+                  ]
+            },
+            {
+                  "name": "Imom Muhammad jome' masjidi",
+                  "text": "Imom Muhammad jome' masjidi serves the Islamic community of Asaka as a well-attended local Friday mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        72.171198,
+                        40.670607
+                  ]
+            },
+            {
+                  "name": "Mamir qori jome' masjidi",
+                  "text": "Mamir qori jome' masjidi is a traditional gathering place for Muslim Friday prayers in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.160095,
+                        40.663494
+                  ]
+            },
+            {
+                  "name": "Xalim kori jome' masjidi",
+                  "text": "Xalim kori jome' masjidi provides a place of worship for Muslims in Asaka for weekly congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        72.158191,
+                        40.653246
+                  ]
+            },
+            {
+                  "name": "Markayuz jome' masjidi",
+                  "text": "Markayuz jome' masjidi is an Islamic congregational mosque that brings together the faithful neighborhood in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.175085,
+                        40.630422
+                  ]
+            },
+            {
+                  "name": "Muxiddin Saxob jome' masjidi",
+                  "text": "Muxiddin Saxob jome' masjidi serves as a local Muslim prayer center for Jumu'ah prayers in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.190247,
+                        40.679521
+                  ]
+            },
+            {
+                  "name": "Fayziobod jome' masjidi",
+                  "text": "Fayziobod jome' masjidi is an Islamic worship facility utilized for Friday prayers in Asaka.",
+                  "category": "landmark",
+                  "coords": [
+                        72.280216,
+                        40.685353
+                  ]
+            },
+            {
+                  "name": "Polvontosh",
+                  "text": "Polvontosh is a Muslim religious site where the local community of Asaka gathers for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        72.237416,
+                        40.553103
+                  ]
+            },
+            {
+                  "name": "Pastki Qurama jome' masjidi",
+                  "text": "Pastki Qurama jome' masjidi functions as a congregational mosque for Muslims in Asaka, particularly on Fridays.",
+                  "category": "landmark",
+                  "coords": [
+                        72.149187,
+                        40.596269
+                  ]
+            },
+            {
+                  "name": "Takhta bozor",
+                  "text": "Takhta bozor is a traditional market in Asaka locally known for trading timber and wooden goods.",
+                  "category": "cultural",
+                  "coords": [
+                        72.234882,
+                        40.624771
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-AN",
     coords: [72.2355, 40.6397],
@@ -183,7 +2163,1276 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "fergana-oil-refinery-economic-v2",
+    id: "fergana-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chasovnia Sviatogo Aleksandra Nevskogo",
+                  "text": "Diese kleine russisch-orthodoxe Kapelle in Fergana wurde zu Ehren des Heiligen Alexander Newski im kolonialen Backsteinstil errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        71.774757,
+                        40.369731
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum",
+                  "text": "Das Museum präsentiert archäologische Funde und Exponate zur Kulturgeschichte des Ferganatals von der Antike bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        71.783203,
+                        40.391073
+                  ]
+            },
+            {
+                  "name": "Ptitsa Khumo",
+                  "text": "Dieses monumentale Denkmal in Fergana stellt den mythischen Vogel Humo dar, ein usbekisches Symbol für Glück und Freiheit.",
+                  "category": "historical",
+                  "coords": [
+                        71.700635,
+                        40.428257
+                  ]
+            },
+            {
+                  "name": "Burhoniddin Margiloniy",
+                  "text": "Das Denkmal ehrt den großen Gelehrten Burhoniddin Margiloniy, der im 12. Jahrhundert ein bedeutendes Werk des islamischen Rechts verfasste.",
+                  "category": "historical",
+                  "coords": [
+                        71.719654,
+                        40.444288
+                  ]
+            },
+            {
+                  "name": "Pamiatnik uchastnikam vtoroi mirovoi voiny",
+                  "text": "Dieses Ehrenmal erinnert mit einer ewigen Flamme an die Bewohner Ferganas, die im Zweiten Weltkrieg kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        71.724597,
+                        40.417254
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia Mat'",
+                  "text": "Die Statue der trauernden Mutter ist ein zentrales Denkmal in Fergana, das an die Opfer vergangener Kriege erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        71.775418,
+                        40.36757
+                  ]
+            },
+            {
+                  "name": "Russkii Dramaticheskii teatr",
+                  "text": "Das Russische Dramentheater ist in einem stattlichen Gebäude untergebracht und bildet ein kulturelles Zentrum der Stadt Fergana.",
+                  "category": "cultural",
+                  "coords": [
+                        71.818443,
+                        40.37223
+                  ]
+            },
+            {
+                  "name": "San'at saroyi",
+                  "text": "Der Kunstpalast von Fergana ist ein moderner Veranstaltungsort für Konzerte, Ausstellungen und regionale Kulturfestivals.",
+                  "category": "cultural",
+                  "coords": [
+                        71.800853,
+                        40.375639
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Dieses große Freiluft-Amphitheater in einem Stadtpark bietet Platz für festliche Aufführungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        71.783286,
+                        40.385707
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten ist ein schlichtes modernes Gotteshaus für die christliche Gemeinde in Fergana.",
+                  "category": "religious",
+                  "coords": [
+                        71.836501,
+                        40.362698
+                  ]
+            },
+            {
+                  "name": "Skotnyi bazar",
+                  "text": "Ein lebhafter Viehmarkt, auf dem Händler aus der gesamten Region Rinder, Schafe und Pferde kaufen und verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        71.77534,
+                        40.398911
+                  ]
+            },
+            {
+                  "name": "Markaziy dehqon bozori",
+                  "text": "Ein zentraler Bauernmarkt mit einer großen Auswahl an frischem Obst, Gemüse und traditionellem usbekischem Fladenbrot.",
+                  "category": "cultural",
+                  "coords": [
+                        71.788391,
+                        40.391184
+                  ]
+            },
+            {
+                  "name": "TRZ",
+                  "text": "Eine geschäftige Handelszone in der Nähe der Raffinerie, die für ihre vielfältigen Konsumgüter und Textilien bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        71.713733,
+                        40.442138
+                  ]
+            },
+            {
+                  "name": "Zheleznyi bazar",
+                  "text": "Ein spezialisierter Markt für Eisenwaren, Werkzeuge und Baumaterialien für Handwerker und Anwohner.",
+                  "category": "cultural",
+                  "coords": [
+                        71.752784,
+                        40.444232
+                  ]
+            },
+            {
+                  "name": "Kirgilinskii Dekhkanskii Rynok",
+                  "text": "Ein lokaler Basar im Stadtteil Kirgili, der für seine regionalen Agrarprodukte und hausgemachten Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        71.757558,
+                        40.430699
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Ein Flohmarkt, auf dem Sammler und Einheimische nach Antiquitäten, gebrauchten Haushaltsgeräten und Raritäten suchen.",
+                  "category": "cultural",
+                  "coords": [
+                        71.753035,
+                        40.446313
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Ein großer Bekleidungsmarkt, der traditionelle usbekische Gewänder sowie moderne Mode und Textilien anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        71.791783,
+                        40.390908
+                  ]
+            },
+            {
+                  "name": "Farg'ona Mashina bozor",
+                  "text": "Ein weitläufiger Gebrauchtwagenmarkt unter freiem Himmel, auf dem Fahrzeuge und Ersatzteile gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        71.779402,
+                        40.318071
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Ein traditioneller Basar, der das tägliche Leben im Fergana-Tal mit einer Mischung aus Lebensmitteln und Haushaltswaren widerspiegelt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.843607,
+                        40.358048
+                  ]
+            },
+            {
+                  "name": "Karavan",
+                  "text": "Eine touristische Einrichtung, die an die historische Seidenstraße erinnert und traditionelle Gastfreundschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        71.702472,
+                        40.430572
+                  ]
+            },
+            {
+                  "name": "Ferganskie Vorota",
+                  "text": "Ein markantes Stadttor mit traditionellen usbekischen Rundbögen, das symbolisch den Eingang zur Stadt markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        71.725326,
+                        40.416127
+                  ]
+            },
+            {
+                  "name": "Vertoliot",
+                  "text": "Ein Hubschrauber-Denkmal aus der Sowjetära, das als technisches Wahrzeichen im öffentlichen Raum ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        71.768676,
+                        40.380539
+                  ]
+            },
+            {
+                  "name": "Dom gde zhil aktior Aleksandr Aabdulov",
+                  "text": "Das einstige Wohnhaus des berühmten sowjetischen Schauspielers Alexander Abdulow, der hier seine Jugendjahre verbrachte.",
+                  "category": "landmark",
+                  "coords": [
+                        71.773095,
+                        40.391859
+                  ]
+            },
+            {
+                  "name": "Al-Fergani-Statue",
+                  "text": "Ein monumentales Denkmal für den Astronomen Al-Farghani aus dem 9. Jahrhundert, eine zentrale Figur der usbekischen Wissenschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        71.783526,
+                        40.389748
+                  ]
+            },
+            {
+                  "name": "Said Amir Xamza jome' masjidi",
+                  "text": "Eine moderne Freitagsmoschee mit einem schlanken Minarett und blauen Zierkacheln an der Fassade.",
+                  "category": "landmark",
+                  "coords": [
+                        71.707892,
+                        40.433921
+                  ]
+            },
+            {
+                  "name": "Nur jome' masjidi",
+                  "text": "Ein muslimisches Gebetshaus, das durch seine schlichte Architektur und seinen ruhigen Innenhof besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        71.809804,
+                        40.397153
+                  ]
+            },
+            {
+                  "name": "Toyiba jome' masjidi",
+                  "text": "Eine lokale Moschee, die als spirituelles Zentrum für das umliegende Wohnviertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        71.819466,
+                        40.363827
+                  ]
+            },
+            {
+                  "name": "Mulla To'raqul jome' masjidi",
+                  "text": "Eine traditionelle Moschee mit kunstvoll geschnitzten Holzsäulen, typisch für die Architektur des Fergana-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        71.860357,
+                        40.331257
+                  ]
+            },
+            {
+                  "name": "Toshmozor jome' masjidi",
+                  "text": "Eine nachbarschaftliche Moschee, die für ihre friedliche Atmosphäre während der täglichen Gebetszeiten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        71.882427,
+                        40.373716
+                  ]
+            },
+            {
+                  "name": "Sahobai Zayd Binni Xorisa jome' masjidi",
+                  "text": "Ein religiöses Bauwerk mit einer markanten Kuppel, das der örtlichen muslimischen Gemeinschaft Platz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        71.734983,
+                        40.45402
+                  ]
+            },
+            {
+                  "name": "Gumbaz jome' masjidi",
+                  "text": "Die „Kuppelmoschee“, erkennbar an ihrer zentralen blauen Halbkugel und dem eleganten Portal.",
+                  "category": "landmark",
+                  "coords": [
+                        71.709283,
+                        40.454382
+                  ]
+            },
+            {
+                  "name": "Abdulloh ibn Umar jome' masjidi",
+                  "text": "Eine weiträumige Moschee, die nach traditionellen Entwürfen mit einem großen Gebetssaal für Gläubige erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        71.720913,
+                        40.426893
+                  ]
+            },
+            {
+                  "name": "Sarmazor jome' masjidi",
+                  "text": "Ein sakraler Ort mit traditionellen Ornamenten, eingebettet in ein ruhiges Wohngebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        71.697521,
+                        40.442027
+                  ]
+            },
+            {
+                  "name": "To'rtko'l jome' masjidi",
+                  "text": "Eine kleine lokale Moschee, die ein wichtiges Zentrum für die muslimischen Bewohner des Viertels darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        71.72696,
+                        40.448352
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian Very Evangel'skoi <<Preobrazhenie>>",
+                  "text": "Ein evangelisches Gotteshaus, das der christlichen Gemeinde von Fergana Raum für Gottesdienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        71.766149,
+                        40.436121
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chasovnia Sviatogo Aleksandra Nevskogo",
+                  "text": "Ez a ferganai kis orosz ortodox kápolna Szent Alekszandr Nyevszkij tiszteletére épült koloniális tégla stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        71.774757,
+                        40.369731
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "A múzeum régészeti leleteket és a Fergana-völgy kultúrtörténetét bemutató tárgyakat vonultat fel az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        71.783203,
+                        40.391073
+                  ]
+            },
+            {
+                  "name": "Ptitsa Khumo",
+                  "text": "Ez a monumentális ferganai emlékmű a mitikus Humo madarat ábrázolja, amely a boldogság és szabadság üzbég szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        71.700635,
+                        40.428257
+                  ]
+            },
+            {
+                  "name": "Burhoniddin Margiloniy",
+                  "text": "Az emlékmű a nagy tudósnak, Burhoniddin Margilonijnak állít emléket, aki a 12. században az iszlám jog egyik alapművét alkotta meg.",
+                  "category": "historical",
+                  "coords": [
+                        71.719654,
+                        40.444288
+                  ]
+            },
+            {
+                  "name": "Pamiatnik uchastnikam vtoroi mirovoi voiny",
+                  "text": "Ez az emlékmű örökmécsessel tiszteleg a második világháborúban harcoló ferganai lakosok előtt.",
+                  "category": "historical",
+                  "coords": [
+                        71.724597,
+                        40.417254
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia Mat'",
+                  "text": "A Gyászoló Anya szobra Fergana központi emlékműve, amely a múlt háborúinak áldozataira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        71.775418,
+                        40.36757
+                  ]
+            },
+            {
+                  "name": "Russkii Dramaticheskii teatr",
+                  "text": "Az Orosz Drámai Színház egy impozáns épületben kapott helyet, és Fergana városának kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        71.818443,
+                        40.37223
+                  ]
+            },
+            {
+                  "name": "San'at saroyi",
+                  "text": "A Ferganai Művészetek Palotája koncertek, kiállítások és helyi kulturális fesztiválok modern helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        71.800853,
+                        40.375639
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ez a városi parkban található nagy szabadtéri amfiteátrum ünnepi előadásoknak ad otthont a csillagos ég alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        71.783286,
+                        40.385707
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "A Hetednapi Adventista Egyház temploma egyszerű, modern imaház a ferganai keresztény közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        71.836501,
+                        40.362698
+                  ]
+            },
+            {
+                  "name": "Skotnyi bazar",
+                  "text": "Élénk állatpiac, ahol a környékbeli gazdák szarvasmarhát, juhot és lovat adnak-vesznek.",
+                  "category": "cultural",
+                  "coords": [
+                        71.77534,
+                        40.398911
+                  ]
+            },
+            {
+                  "name": "Markaziy dehqon bozori",
+                  "text": "Központi mezőgazdasági piac friss gyümölcsök, zöldségek és hagyományos üzbég lepénykenyerek széles választékával.",
+                  "category": "cultural",
+                  "coords": [
+                        71.788391,
+                        40.391184
+                  ]
+            },
+            {
+                  "name": "TRZ",
+                  "text": "Nyüzsgő kereskedelmi övezet a finomító közelében, amely fogyasztási cikkeiről és textiláruiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        71.713733,
+                        40.442138
+                  ]
+            },
+            {
+                  "name": "Zheleznyi bazar",
+                  "text": "Vaseszközökre, szerszámokra és építőanyagokra szakosodott piac mesteremberek és helyi lakosok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        71.752784,
+                        40.444232
+                  ]
+            },
+            {
+                  "name": "Kirgilinskii Dekhkanskii Rynok",
+                  "text": "Helyi bazár Kirgili városrészben, amely mezőgazdasági termékeiről és házi készítésű áruiról nevezetes.",
+                  "category": "cultural",
+                  "coords": [
+                        71.757558,
+                        40.430699
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Bolhapiac, ahol gyűjtők és helyiek antikvitások, használt háztartási cikkek és ritkaságok után kutatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        71.753035,
+                        40.446313
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "Hatalmas ruhapiac, ahol a hagyományos üzbég viseletek mellett modern divatáruk és textilek is kaphatók.",
+                  "category": "cultural",
+                  "coords": [
+                        71.791783,
+                        40.390908
+                  ]
+            },
+            {
+                  "name": "Farg'ona Mashina bozor",
+                  "text": "Kiterjedt szabadtéri használtautó-piac, ahol járművekkel és alkatrészekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        71.779402,
+                        40.318071
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Hagyományos bazár, amely a Fergana-völgy mindennapjait tükrözi élelmiszerek és háztartási cikkek kínálatával.",
+                  "category": "cultural",
+                  "coords": [
+                        71.843607,
+                        40.358048
+                  ]
+            },
+            {
+                  "name": "Karavan",
+                  "text": "A történelmi selyemutat megidéző turisztikai létesítmény, amely hagyományos vendéglátást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        71.702472,
+                        40.430572
+                  ]
+            },
+            {
+                  "name": "Ferganskie Vorota",
+                  "text": "Hagyományos üzbég boltívekkel díszített feltűnő városkapu, amely szimbolikusan jelzi a város bejáratát.",
+                  "category": "landmark",
+                  "coords": [
+                        71.725326,
+                        40.416127
+                  ]
+            },
+            {
+                  "name": "Vertoliot",
+                  "text": "Szovjet korszakból származó helikopter-emlékmű, amely technikai látványosságként van kiállítva közterületen.",
+                  "category": "landmark",
+                  "coords": [
+                        71.768676,
+                        40.380539
+                  ]
+            },
+            {
+                  "name": "Dom gde zhil aktior Aleksandr Aabdulov",
+                  "text": "Alekszandr Abdulov híres szovjet színész egykori lakóháza, ahol ifjúkorát töltötte.",
+                  "category": "landmark",
+                  "coords": [
+                        71.773095,
+                        40.391859
+                  ]
+            },
+            {
+                  "name": "Al-Fargoni",
+                  "text": "A 9. századi csillagász, Al-Fargáni monumentális emlékműve, aki az üzbég tudomány meghatározó alakja.",
+                  "category": "landmark",
+                  "coords": [
+                        71.783526,
+                        40.389748
+                  ]
+            },
+            {
+                  "name": "Said Amir Xamza jome' masjidi",
+                  "text": "Modern pénteki mecset karcsú minarettel és a homlokzatán kék díszítőcsempékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        71.707892,
+                        40.433921
+                  ]
+            },
+            {
+                  "name": "Nur jome' masjidi",
+                  "text": "Muzulmán imaház, amely egyszerű építészetével és nyugodt belső udvarával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        71.809804,
+                        40.397153
+                  ]
+            },
+            {
+                  "name": "Toyiba jome' masjidi",
+                  "text": "Helyi mecset, amely a környező lakónegyed spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        71.819466,
+                        40.363827
+                  ]
+            },
+            {
+                  "name": "Mulla To'raqul jome' masjidi",
+                  "text": "Hagyományos mecset gazdagon faragott oszlopokkal, amely a Fergana-völgy építészetére jellemző.",
+                  "category": "landmark",
+                  "coords": [
+                        71.860357,
+                        40.331257
+                  ]
+            },
+            {
+                  "name": "Toshmozor jome' masjidi",
+                  "text": "Környékbeli mecset, amely a napi imák idején tapasztalható békés hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        71.882427,
+                        40.373716
+                  ]
+            },
+            {
+                  "name": "Sahobai Zayd Binni Xorisa jome' masjidi",
+                  "text": "Feltűnő kupolával rendelkező vallási épület, amely a helyi muzulmán közösségnek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        71.734983,
+                        40.45402
+                  ]
+            },
+            {
+                  "name": "Gumbaz jome' masjidi",
+                  "text": "A „Kupolás mecset”, amely központi kék félgömbjéről és elegáns kapujáról ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        71.709283,
+                        40.454382
+                  ]
+            },
+            {
+                  "name": "Abdulloh ibn Umar jome' masjidi",
+                  "text": "Tágas mecset, amely hagyományos tervek alapján készült, nagy imateremmel a hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        71.720913,
+                        40.426893
+                  ]
+            },
+            {
+                  "name": "Sarmazor jome' masjidi",
+                  "text": "Hagyományos díszítésekkel ékesített szakrális hely, csendes lakóövezetbe ágyazva.",
+                  "category": "landmark",
+                  "coords": [
+                        71.697521,
+                        40.442027
+                  ]
+            },
+            {
+                  "name": "To'rtko'l jome' masjidi",
+                  "text": "Kisméretű helyi mecset, amely a környék muzulmán lakói számára fontos központot jelent.",
+                  "category": "landmark",
+                  "coords": [
+                        71.72696,
+                        40.448352
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian Very Evangel'skoi <<Preobrazhenie>>",
+                  "text": "Evangélikus imaház, amely istentiszteleti helyet biztosít Fergana keresztény közösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        71.766149,
+                        40.436121
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chasovnia Sviatogo Aleksandra Nevskogo",
+                  "text": "Această mică capelă ortodoxă rusă din Fergana a fost construită în onoarea Sfântului Alexandru Nevski în stil colonial din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        71.774757,
+                        40.369731
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "Muzeul prezintă descoperiri arheologice și exponate despre istoria culturală a Văii Fergana, din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        71.783203,
+                        40.391073
+                  ]
+            },
+            {
+                  "name": "Ptitsa Khumo",
+                  "text": "Acest monument monumental din Fergana înfățișează pasărea mitică Humo, un simbol uzbec al fericirii și libertății.",
+                  "category": "historical",
+                  "coords": [
+                        71.700635,
+                        40.428257
+                  ]
+            },
+            {
+                  "name": "Burhoniddin Margiloniy",
+                  "text": "Monumentul îl onorează pe marele învățat Burhoniddin Margiloniy, care a scris o lucrare fundamentală de drept islamic în secolul al XII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        71.719654,
+                        40.444288
+                  ]
+            },
+            {
+                  "name": "Pamiatnik uchastnikam vtoroi mirovoi voiny",
+                  "text": "Acest memorial onorează locuitorii din Fergana care au luptat în al Doilea Război Mondial, având o flacără eternă.",
+                  "category": "historical",
+                  "coords": [
+                        71.724597,
+                        40.417254
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia Mat'",
+                  "text": "Statuia Mamei Îndurerate este un monument central din Fergana, amintind de victimele războaielor trecute.",
+                  "category": "historical",
+                  "coords": [
+                        71.775418,
+                        40.36757
+                  ]
+            },
+            {
+                  "name": "Russkii Dramaticheskii teatr",
+                  "text": "Teatrul Rus de Dramă este găzduit într-o clădire impunătoare și reprezintă un centru cultural al orașului Fergana.",
+                  "category": "cultural",
+                  "coords": [
+                        71.818443,
+                        40.37223
+                  ]
+            },
+            {
+                  "name": "San'at saroyi",
+                  "text": "Palatul Artelor din Fergana este o locație modernă pentru concerte, expoziții și festivaluri culturale regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        71.800853,
+                        40.375639
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Acest mare amfiteatru în aer liber, situat într-un parc orășenesc, găzduiește spectacole festive sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        71.783286,
+                        40.385707
+                  ]
+            },
+            {
+                  "name": "Tserkov' Adventistov Sed'mogo Dnia",
+                  "text": "Această biserică adventistă de ziua a șaptea este un lăcaș de cult modern și simplu pentru comunitatea creștină din Fergana.",
+                  "category": "religious",
+                  "coords": [
+                        71.836501,
+                        40.362698
+                  ]
+            },
+            {
+                  "name": "Skotnyi bazar",
+                  "text": "O piață de animale plină de viață, unde negustorii din întreaga regiune se adună pentru a vinde și cumpăra vite și oi.",
+                  "category": "cultural",
+                  "coords": [
+                        71.77534,
+                        40.398911
+                  ]
+            },
+            {
+                  "name": "Markaziy dehqon bozori",
+                  "text": "O piață centrală de alimente care oferă o gamă variată de fructe proaspete, legume și pâine tradițională uzbecă.",
+                  "category": "cultural",
+                  "coords": [
+                        71.788391,
+                        40.391184
+                  ]
+            },
+            {
+                  "name": "TRZ",
+                  "text": "O zonă comercială animată lângă rafinărie, cunoscută pentru diverse bunuri de larg consum și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        71.713733,
+                        40.442138
+                  ]
+            },
+            {
+                  "name": "Zheleznyi bazar",
+                  "text": "O piață specializată în feronerie, unelte și materiale de construcție pentru meșteșugari și localnici.",
+                  "category": "cultural",
+                  "coords": [
+                        71.752784,
+                        40.444232
+                  ]
+            },
+            {
+                  "name": "Kirgilinskii Dekhkanskii Rynok",
+                  "text": "Un bazar local în cartierul Kirgili, renumit pentru produsele agricole regionale și mărfurile de casă.",
+                  "category": "cultural",
+                  "coords": [
+                        71.757558,
+                        40.430699
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "O piață de vechituri unde colecționarii și localnicii caută antichități, articole de uz casnic la mâna a doua și rarități.",
+                  "category": "cultural",
+                  "coords": [
+                        71.753035,
+                        40.446313
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "O piață mare de îmbrăcăminte care oferă atât haine tradiționale uzbece, cât și modă modernă și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        71.791783,
+                        40.390908
+                  ]
+            },
+            {
+                  "name": "Farg'ona Mashina bozor",
+                  "text": "O piață auto în aer liber întinsă, unde se tranzacționează vehicule și piese de schimb.",
+                  "category": "cultural",
+                  "coords": [
+                        71.779402,
+                        40.318071
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Un bazar tradițional care reflectă viața de zi cu zi din valea Fergana, oferind un amestec de alimente și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        71.843607,
+                        40.358048
+                  ]
+            },
+            {
+                  "name": "Karavan",
+                  "text": "O facilitate turistică ce evocă drumul istoric al mătăsii, oferind ospitalitate tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        71.702472,
+                        40.430572
+                  ]
+            },
+            {
+                  "name": "Ferganskie Vorota",
+                  "text": "O poartă monumentală a orașului cu arcade tradiționale uzbece, marcând simbolic intrarea în localitate.",
+                  "category": "landmark",
+                  "coords": [
+                        71.725326,
+                        40.416127
+                  ]
+            },
+            {
+                  "name": "Vertoliot",
+                  "text": "Un monument reprezentând un elicopter din epoca sovietică, expus ca reper tehnic într-un spațiu public.",
+                  "category": "landmark",
+                  "coords": [
+                        71.768676,
+                        40.380539
+                  ]
+            },
+            {
+                  "name": "Dom gde zhil aktior Aleksandr Aabdulov",
+                  "text": "Fosta casă a celebrului actor sovietic Alexander Abdulov, unde acesta și-a petrecut anii tinereții.",
+                  "category": "landmark",
+                  "coords": [
+                        71.773095,
+                        40.391859
+                  ]
+            },
+            {
+                  "name": "Al-Fargoni",
+                  "text": "Un monument monumental dedicat astronomului din secolul al IX-lea Al-Farghani, o figură centrală a științei uzbece.",
+                  "category": "landmark",
+                  "coords": [
+                        71.783526,
+                        40.389748
+                  ]
+            },
+            {
+                  "name": "Said Amir Xamza jome' masjidi",
+                  "text": "O moschee de vineri modernă, cu un minaret zvelt și plăci decorative albastre pe fațadă.",
+                  "category": "landmark",
+                  "coords": [
+                        71.707892,
+                        40.433921
+                  ]
+            },
+            {
+                  "name": "Nur jome' masjidi",
+                  "text": "O casă de rugăciune musulmană care se remarcă prin arhitectura simplă și curtea interioară liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        71.809804,
+                        40.397153
+                  ]
+            },
+            {
+                  "name": "Toyiba jome' masjidi",
+                  "text": "O moschee locală care servește drept centru spiritual pentru cartierul rezidențial din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        71.819466,
+                        40.363827
+                  ]
+            },
+            {
+                  "name": "Mulla To'raqul jome' masjidi",
+                  "text": "O moschee tradițională cu coloane din lemn sculptate artistic, tipice arhitecturii din valea Fergana.",
+                  "category": "landmark",
+                  "coords": [
+                        71.860357,
+                        40.331257
+                  ]
+            },
+            {
+                  "name": "Toshmozor jome' masjidi",
+                  "text": "O moschee de cartier cunoscută pentru atmosfera sa liniștită în timpul orelor de rugăciune zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        71.882427,
+                        40.373716
+                  ]
+            },
+            {
+                  "name": "Sahobai Zayd Binni Xorisa jome' masjidi",
+                  "text": "O structură religioasă cu o cupolă proeminentă, oferind spațiu comunității musulmane locale.",
+                  "category": "landmark",
+                  "coords": [
+                        71.734983,
+                        40.45402
+                  ]
+            },
+            {
+                  "name": "Gumbaz jome' masjidi",
+                  "text": "„Moscheea Cupolei”, recunoscută după semisferea centrală albastră și portalul elegant.",
+                  "category": "landmark",
+                  "coords": [
+                        71.709283,
+                        40.454382
+                  ]
+            },
+            {
+                  "name": "Abdulloh ibn Umar jome' masjidi",
+                  "text": "O moschee spațioasă construită după planuri tradiționale, cu o sală mare de rugăciune pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        71.720913,
+                        40.426893
+                  ]
+            },
+            {
+                  "name": "Sarmazor jome' masjidi",
+                  "text": "Un loc sacru cu ornamente tradiționale, amplasat într-o zonă rezidențială liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        71.697521,
+                        40.442027
+                  ]
+            },
+            {
+                  "name": "To'rtko'l jome' masjidi",
+                  "text": "O mică moschee locală care reprezintă un centru important pentru locuitorii musulmani din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        71.72696,
+                        40.448352
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian Very Evangel'skoi <<Preobrazhenie>>",
+                  "text": "Un lăcaș de cult evanghelic care oferă spațiu pentru serviciile religioase ale comunității creștine din Fergana.",
+                  "category": "landmark",
+                  "coords": [
+                        71.766149,
+                        40.436121
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chasovnia Sviatogo Aleksandra Nevskogo",
+                  "text": "This small Russian Orthodox chapel in Fergana was built in honor of Saint Alexander Nevsky in the colonial brick style.",
+                  "category": "religious",
+                  "coords": [
+                        71.774757,
+                        40.369731
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii muzei",
+                  "text": "The museum presents archaeological finds and exhibits on the cultural history of the Fergana Valley from antiquity to the present.",
+                  "category": "museum",
+                  "coords": [
+                        71.783203,
+                        40.391073
+                  ]
+            },
+            {
+                  "name": "Ptitsa Khumo",
+                  "text": "This monumental memorial in Fergana depicts the mythical Humo bird, an Uzbek symbol of happiness and freedom.",
+                  "category": "historical",
+                  "coords": [
+                        71.700635,
+                        40.428257
+                  ]
+            },
+            {
+                  "name": "Burhoniddin Margiloniy",
+                  "text": "The monument honors the great scholar Burhoniddin Margiloniy, who wrote a major work of Islamic law in the 12th century.",
+                  "category": "historical",
+                  "coords": [
+                        71.719654,
+                        40.444288
+                  ]
+            },
+            {
+                  "name": "Pamiatnik uchastnikam vtoroi mirovoi voiny",
+                  "text": "This memorial honors the residents of Fergana who fought in World War II, featuring an eternal flame.",
+                  "category": "historical",
+                  "coords": [
+                        71.724597,
+                        40.417254
+                  ]
+            },
+            {
+                  "name": "Skorbiashchaia Mat'",
+                  "text": "The statue of the Mourning Mother is a central monument in Fergana, commemorating the victims of past wars.",
+                  "category": "historical",
+                  "coords": [
+                        71.775418,
+                        40.36757
+                  ]
+            },
+            {
+                  "name": "Russkii Dramaticheskii teatr",
+                  "text": "The Russian Drama Theatre is housed in a stately building and serves as a cultural hub for the city of Fergana.",
+                  "category": "cultural",
+                  "coords": [
+                        71.818443,
+                        40.37223
+                  ]
+            },
+            {
+                  "name": "San'at saroyi",
+                  "text": "The Fergana Palace of Arts is a modern venue for concerts, exhibitions, and regional cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        71.800853,
+                        40.375639
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "This large open-air amphitheatre located in a city park hosts festive performances under the sky.",
+                  "category": "cultural",
+                  "coords": [
+                        71.783286,
+                        40.385707
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "This Seventh Day Adventist Church is a simple modern place of worship for the Christian community in Fergana.",
+                  "category": "religious",
+                  "coords": [
+                        71.836501,
+                        40.362698
+                  ]
+            },
+            {
+                  "name": "Skotnyi bazar",
+                  "text": "A lively livestock market where traders from across the region gather to buy and sell cattle, sheep, and horses.",
+                  "category": "cultural",
+                  "coords": [
+                        71.77534,
+                        40.398911
+                  ]
+            },
+            {
+                  "name": "Markaziy dehqon bozori",
+                  "text": "A central farmers' market offering a wide selection of fresh fruits, vegetables, and traditional Uzbek flatbreads.",
+                  "category": "cultural",
+                  "coords": [
+                        71.788391,
+                        40.391184
+                  ]
+            },
+            {
+                  "name": "TRZ",
+                  "text": "A busy trade zone near the refinery known for its variety of consumer goods and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        71.713733,
+                        40.442138
+                  ]
+            },
+            {
+                  "name": "Zheleznyi bazar",
+                  "text": "A specialized market for hardware, tools, and construction materials catering to craftsmen and locals.",
+                  "category": "cultural",
+                  "coords": [
+                        71.752784,
+                        40.444232
+                  ]
+            },
+            {
+                  "name": "Kirgilinskii Dekhkanskii Rynok",
+                  "text": "A local bazaar in the Kirgili district noted for its regional agricultural produce and homemade goods.",
+                  "category": "cultural",
+                  "coords": [
+                        71.757558,
+                        40.430699
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "A flea market where collectors and locals browse for antiques, second-hand household items, and rarities.",
+                  "category": "cultural",
+                  "coords": [
+                        71.753035,
+                        40.446313
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok",
+                  "text": "A large clothing market offering traditional Uzbek garments alongside modern fashion and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        71.791783,
+                        40.390908
+                  ]
+            },
+            {
+                  "name": "Farg'ona Mashina bozor",
+                  "text": "An extensive open-air used car market where vehicles and spare parts are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        71.779402,
+                        40.318071
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "A traditional bazaar reflecting daily life in the Fergana Valley with a mix of food and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        71.843607,
+                        40.358048
+                  ]
+            },
+            {
+                  "name": "Karavan",
+                  "text": "A tourist facility evoking the historical Silk Road, offering traditional hospitality and atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        71.702472,
+                        40.430572
+                  ]
+            },
+            {
+                  "name": "Fergana Gate",
+                  "text": "A prominent city gate with traditional Uzbek arches, symbolically marking the entrance to the urban center.",
+                  "category": "landmark",
+                  "coords": [
+                        71.725326,
+                        40.416127
+                  ]
+            },
+            {
+                  "name": "Vertoliot",
+                  "text": "A Soviet-era helicopter monument displayed as a technical landmark in a public space.",
+                  "category": "landmark",
+                  "coords": [
+                        71.768676,
+                        40.380539
+                  ]
+            },
+            {
+                  "name": "House where actor Alexander Abdulov lived",
+                  "text": "The former residence of the famous Soviet actor Alexander Abdulov, where he spent his youth.",
+                  "category": "landmark",
+                  "coords": [
+                        71.773095,
+                        40.391859
+                  ]
+            },
+            {
+                  "name": "Al-Fargoni",
+                  "text": "A monumental statue of the 9th-century astronomer Al-Farghani, a central figure in Uzbek scientific history.",
+                  "category": "landmark",
+                  "coords": [
+                        71.783526,
+                        40.389748
+                  ]
+            },
+            {
+                  "name": "Said Amir Xamza jome' masjidi",
+                  "text": "A modern Friday mosque featuring a slender minaret and blue decorative tiles on its facade.",
+                  "category": "landmark",
+                  "coords": [
+                        71.707892,
+                        40.433921
+                  ]
+            },
+            {
+                  "name": "Nur jome' masjidi",
+                  "text": "A Muslim house of prayer characterized by its simple architecture and tranquil inner courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        71.809804,
+                        40.397153
+                  ]
+            },
+            {
+                  "name": "Toyiba jome' masjidi",
+                  "text": "A local mosque serving as the spiritual center for the surrounding residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        71.819466,
+                        40.363827
+                  ]
+            },
+            {
+                  "name": "Mulla To'raqul jome' masjidi",
+                  "text": "A traditional mosque featuring intricately carved wooden columns typical of Fergana Valley architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        71.860357,
+                        40.331257
+                  ]
+            },
+            {
+                  "name": "Toshmozor jome' masjidi",
+                  "text": "A neighborhood mosque known for its peaceful atmosphere during daily prayer times.",
+                  "category": "landmark",
+                  "coords": [
+                        71.882427,
+                        40.373716
+                  ]
+            },
+            {
+                  "name": "Sahobai Zayd Binni Xorisa jome' masjidi",
+                  "text": "A religious structure with a prominent dome, providing space for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        71.734983,
+                        40.45402
+                  ]
+            },
+            {
+                  "name": "Gumbaz jome' masjidi",
+                  "text": "The 'Dome Mosque', recognizable by its central blue hemisphere and elegant portal.",
+                  "category": "landmark",
+                  "coords": [
+                        71.709283,
+                        40.454382
+                  ]
+            },
+            {
+                  "name": "Abdulloh ibn Umar jome' masjidi",
+                  "text": "A spacious mosque built according to traditional designs with a large prayer hall for worshipers.",
+                  "category": "landmark",
+                  "coords": [
+                        71.720913,
+                        40.426893
+                  ]
+            },
+            {
+                  "name": "Sarmazor jome' masjidi",
+                  "text": "A sacred site featuring traditional ornaments, nestled within a quiet residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        71.697521,
+                        40.442027
+                  ]
+            },
+            {
+                  "name": "To'rtko'l jome' masjidi",
+                  "text": "A small local mosque that serves as an important center for the neighborhood's Muslim residents.",
+                  "category": "landmark",
+                  "coords": [
+                        71.72696,
+                        40.448352
+                  ]
+            },
+            {
+                  "name": "Church of Christians of the Evangelical Faith \"Transfiguration\"",
+                  "text": "An evangelical house of worship providing a space for services for Fergana's Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        71.766149,
+                        40.436121
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-FA",
     coords: [71.7767, 40.3864],
@@ -219,7 +3468,124 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "mubarek-gas-processing-economic-v2",
+    id: "mubarek-gas-processing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mechet'",
+                  "text": "Eine markante Moschee in der Industriestadt Mubarek, die als wichtiges religiöses Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        65.152277,
+                        39.250753
+                  ]
+            },
+            {
+                  "name": "\"Muborak\" Davlat Buyurtma Qo'riqxonasi",
+                  "text": "Ein geschütztes Wüstengebiet, das eingerichtet wurde, um die einzigartige Flora und Fauna der Region zu bewahren.",
+                  "category": "natural",
+                  "coords": [
+                        65.236057,
+                        39.314567
+                  ]
+            },
+            {
+                  "name": "XO'JA ABDULLOH IBN MUBORAK jom`e masjidi",
+                  "text": "Diese große Wallfahrtsmoschee ist dem bedeutenden Gelehrten Abdullah ibn al-Mubarak aus dem 8. Jahrhundert gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        65.146383,
+                        39.273886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mechet'",
+                  "text": "Mubarek iparvárosának egyik kiemelkedő mecsetje, amely fontos vallási központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        65.152277,
+                        39.250753
+                  ]
+            },
+            {
+                  "name": "\"Muborak\" Davlat Buyurtma Qo'riqxonasi",
+                  "text": "Védett sivatagi terület, amelyet a régió egyedülálló növény- és állatvilágának megőrzésére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        65.236057,
+                        39.314567
+                  ]
+            },
+            {
+                  "name": "XO'JA ABDULLOH IBN MUBORAK jom`e masjidi",
+                  "text": "Ez a nagy zarándokmecset a 8. századi neves tudós, Abdullah ibn al-Mubarak emlékére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        65.146383,
+                        39.273886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mechet'",
+                  "text": "O moschee proeminentă din orașul industrial Mubarek, servind ca un centru religios important.",
+                  "category": "landmark",
+                  "coords": [
+                        65.152277,
+                        39.250753
+                  ]
+            },
+            {
+                  "name": "\"Muborak\" Davlat Buyurtma Qo'riqxonasi",
+                  "text": "O rezervație de deșert protejată, stabilită pentru a conserva flora și fauna unică a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        65.236057,
+                        39.314567
+                  ]
+            },
+            {
+                  "name": "XO'JA ABDULLOH IBN MUBORAK jom`e masjidi",
+                  "text": "Această mare moschee de pelerinaj este dedicată renumitului savant din secolul al VIII-lea, Abdullah ibn al-Mubarak.",
+                  "category": "landmark",
+                  "coords": [
+                        65.146383,
+                        39.273886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "A prominent mosque in the industrial city of Mubarek, serving as a key religious site.",
+                  "category": "landmark",
+                  "coords": [
+                        65.152277,
+                        39.250753
+                  ]
+            },
+            {
+                  "name": "Mubarek\" State Reserve",
+                  "text": "A protected desert reserve established to preserve the region's unique arid flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        65.236057,
+                        39.314567
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque of KHUZHA ABDULLOH IBN MUBAREK",
+                  "text": "A large pilgrimage mosque dedicated to the 8th-century scholar Abdullah ibn al-Mubarak.",
+                  "category": "landmark",
+                  "coords": [
+                        65.146383,
+                        39.273886
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-QA",
     coords: [65.1583, 39.2561],
@@ -255,7 +3621,88 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "shurtan-gas-chemical-economic-v2",
+    id: "shurtan-gas-chemical-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "NISHON jom`e masjidi",
+                  "text": "Diese große Freitagsmoschee dient der muslimischen Gemeinde rund um die Industrieanlagen von Shurtan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.686965,
+                        38.623721
+                  ]
+            },
+            {
+                  "name": "NAVRO'Z jom`e masjidi",
+                  "text": "Eine islamische Kathedralmoschee in der Industrieregion Shurtan, die lokale Gläubige zu den Hauptgebeten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        65.692746,
+                        38.649928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NISHON jom`e masjidi",
+                  "text": "Ez a nagy pénteki mecset a Shurtan ipari létesítményei körül élő muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        65.686965,
+                        38.623721
+                  ]
+            },
+            {
+                  "name": "NAVRO'Z jom`e masjidi",
+                  "text": "Egy iszlám katedrális-mecset a shurtani ipari régióban, amely a helyi hívőket gyűjti össze a fő imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        65.692746,
+                        38.649928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NISHON jom`e masjidi",
+                  "text": "Această mare moschee de vineri deservește comunitatea musulmană din jurul facilităților industriale din Shurtan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.686965,
+                        38.623721
+                  ]
+            },
+            {
+                  "name": "NAVRO'Z jom`e masjidi",
+                  "text": "O moschee catedrală islamică din regiunea industrială Shurtan, care adună credincioșii locali pentru rugăciunile principale.",
+                  "category": "landmark",
+                  "coords": [
+                        65.692746,
+                        38.649928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral Mosque NISHAN",
+                  "text": "This large Friday mosque serves the Muslim community around the industrial facilities of Shurtan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.686965,
+                        38.623721
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque NAVRUZ",
+                  "text": "An Islamic cathedral mosque in the Shurtan industrial region, gathering local believers for main prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        65.692746,
+                        38.649928
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-QA",
     coords: [65.7892, 38.6042],
@@ -291,7 +3738,88 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "talimarjan-power-plant-economic-v2",
+    id: "talimarjan-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MUNAVVARA jom`e masjidi",
+                  "text": "Diese Hauptmoschee nahe dem Kraftwerk Talimarjan bietet Raum für große Freitagsgebete der ansässigen Muslime.",
+                  "category": "landmark",
+                  "coords": [
+                        65.600859,
+                        38.486755
+                  ]
+            },
+            {
+                  "name": "MULLA O'NGBOY jom`e masjidi",
+                  "text": "Eine bedeutende islamische Kultstätte, die im Gebiet der Energieinfrastruktur von Talimarjan für Gemeinschaftsgebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        65.704973,
+                        38.496688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MUNAVVARA jom`e masjidi",
+                  "text": "Ez a Talimarjan erőmű melletti főmecset helyet biztosít a helyi muszlimok nagy pénteki imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        65.600859,
+                        38.486755
+                  ]
+            },
+            {
+                  "name": "MULLA O'NGBOY jom`e masjidi",
+                  "text": "Egy fontos iszlám istentiszteleti hely, amelyet Talimarjan energetikai infrastruktúrájának területén használnak közösségi imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        65.704973,
+                        38.496688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MUNAVVARA jom`e masjidi",
+                  "text": "Această moschee principală din apropierea centralei electrice Talimarjan oferă spațiu pentru marile rugăciuni de vineri ale musulmanilor rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        65.600859,
+                        38.486755
+                  ]
+            },
+            {
+                  "name": "MULLA O'NGBOY jom`e masjidi",
+                  "text": "Un important lăcaș de cult islamic folosit pentru rugăciuni comunitare în zona infrastructurii energetice din Talimarjan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.704973,
+                        38.496688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral Mosque MUNAVVARA",
+                  "text": "This main mosque near the Talimarjan power plant provides space for large Friday prayers of the resident Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        65.600859,
+                        38.486755
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque MULLA UNGBAY",
+                  "text": "A significant Islamic place of worship used for community prayers in the energy infrastructure area of Talimarjan.",
+                  "category": "landmark",
+                  "coords": [
+                        65.704973,
+                        38.496688
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-QA",
     coords: [65.5947, 38.4722],
@@ -327,7 +3855,268 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "syrdarya-power-plant-economic-v2",
+    id: "syrdarya-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xovostepa tarixiy yodgorligi",
+                  "text": "Das historische Denkmal von Xovostepa ist eine antike Erdanlage, die die archäologischen Überreste einer vorislamischen Siedlung schützt.",
+                  "category": "historical",
+                  "coords": [
+                        68.811643,
+                        40.200302
+                  ]
+            },
+            {
+                  "name": "Bo'ston jom'e masjidi",
+                  "text": "Die Bo'ston jom'e masjidi ist eine Gemeindemoschee, die der lokalen muslimischen Bevölkerung mit regelmäßigen täglichen Gebeten und Freitagsgebeten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.742638,
+                        40.247181
+                  ]
+            },
+            {
+                  "name": "MUHAMMAD BOBUR jom`e masjidi",
+                  "text": "Die Kathedralmoschee Mukhammad Bobur ist ein imposantes islamisches Bauwerk mit einer riesigen zentralen Kuppel, die Platz für eine große Anzahl von Gläubigen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        68.793707,
+                        40.270567
+                  ]
+            },
+            {
+                  "name": "Abu Hurayra jom'e masjid",
+                  "text": "Die Abu Hurayra jom'e masjidi ist mit ausgeprägten geometrischen Fliesenarbeiten versehen und dient den islamischen Gläubigen als wichtiger Treffpunkt in der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        68.783909,
+                        40.294786
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Diese typische Freitagsmoschee in der Nachbarschaft bietet einen ruhigen Innenhof und ein traditionell gestaltetes Minarett, um die Gemeinde zum Gebet zu rufen.",
+                  "category": "landmark",
+                  "coords": [
+                        68.809849,
+                        40.198646
+                  ]
+            },
+            {
+                  "name": "Muxammad Bobur jome masjidi",
+                  "text": "Die Muxammad Bobur jome masjidi ist ein bedeutendes lokales islamisches Gotteshaus, das sich durch seine einladende Fassade und den geräumigen, mit Teppich ausgelegten Innenraum auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        68.806203,
+                        40.265412
+                  ]
+            },
+            {
+                  "name": "Xovos mol bozori",
+                  "text": "Der Xovos mol bozori ist ein großer regionaler Viehmarkt, auf dem sich lokale Bauern versammeln, um mit Schafen, Pferden und Kühen zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        68.819749,
+                        40.217261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xovostepa tarixiy yodgorligi",
+                  "text": "A Xovostepa történelmi emlékműve egy ősi földsánc, amely egy iszlám előtti település régészeti maradványait védi.",
+                  "category": "historical",
+                  "coords": [
+                        68.811643,
+                        40.200302
+                  ]
+            },
+            {
+                  "name": "Bo'ston jom'e masjidi",
+                  "text": "A Bo'ston jom'e masjidi egy közösségi mecset, amely a helyi muszlim lakosságot szolgálja ki rendszeres napi és pénteki gyülekezeti imákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        68.742638,
+                        40.247181
+                  ]
+            },
+            {
+                  "name": "MUHAMMAD BOBUR jom`e masjidi",
+                  "text": "A Mukhammad Bobur katedrális mecset egy impozáns iszlám építmény, amelyet egy hatalmas központi kupolával terveztek nagyszámú hívő befogadására.",
+                  "category": "landmark",
+                  "coords": [
+                        68.793707,
+                        40.270567
+                  ]
+            },
+            {
+                  "name": "Abu Hurayra jom'e masjid",
+                  "text": "Az Abu Hurayra jom'e masjid jellegzetes geometriai csempézéssel rendelkezik, és fontos környékbeli gyülekezési helyként szolgál az iszlám hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        68.783909,
+                        40.294786
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Ez a tipikus környékbeli pénteki mecset békés udvarral és hagyományos stílusú minarettel hívja imára a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        68.809849,
+                        40.198646
+                  ]
+            },
+            {
+                  "name": "Muxammad Bobur jome masjidi",
+                  "text": "A Muxammad Bobur jome masjidi egy jelentős helyi iszlám istentiszteleti hely, amelyet hívogató homlokzata és tágas, szőnyeggel borított belső tere tesz különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        68.806203,
+                        40.265412
+                  ]
+            },
+            {
+                  "name": "Xovos mol bozori",
+                  "text": "A Xovos mol bozori egy nagy regionális szarvasmarha- és állatpiac, ahol a helyi gazdák összegyűlnek, hogy juhokkal, lovakkal és tehenekkel kereskedjenek.",
+                  "category": "cultural",
+                  "coords": [
+                        68.819749,
+                        40.217261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xovostepa tarixiy yodgorligi",
+                  "text": "Monumentul istoric Xovostepa este un sit antic din pământ care protejează rămășițele arheologice ale unei așezări pre-islamice.",
+                  "category": "historical",
+                  "coords": [
+                        68.811643,
+                        40.200302
+                  ]
+            },
+            {
+                  "name": "Bo'ston jom'e masjidi",
+                  "text": "Bo'ston jom'e masjidi este o moschee comunitară care deservește populația musulmană locală cu rugăciuni zilnice și de vineri obișnuite.",
+                  "category": "landmark",
+                  "coords": [
+                        68.742638,
+                        40.247181
+                  ]
+            },
+            {
+                  "name": "MUHAMMAD BOBUR jom`e masjidi",
+                  "text": "Moscheea Catedrală Mukhammad Bobur este o structură islamică impunătoare, proiectată cu o cupolă centrală vastă pentru a găzdui un număr mare de credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        68.793707,
+                        40.270567
+                  ]
+            },
+            {
+                  "name": "Abu Hurayra jom'e masjid",
+                  "text": "Moscheea Abu Hurayra jom'e are un finisaj distinct cu plăci geometrice și servește ca un loc de adunare vital în cartier pentru credincioșii islamici.",
+                  "category": "landmark",
+                  "coords": [
+                        68.783909,
+                        40.294786
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Această moschee tipică de vineri din cartier oferă o curte liniștită și un minaret în stil tradițional pentru chemarea comunității la rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        68.809849,
+                        40.198646
+                  ]
+            },
+            {
+                  "name": "Muxammad Bobur jome masjidi",
+                  "text": "Muxammad Bobur jome masjidi este un lăcaș de cult islamic local semnificativ, remarcat prin fațada sa primitoare și interiorul spațios acoperit cu covoare.",
+                  "category": "landmark",
+                  "coords": [
+                        68.806203,
+                        40.265412
+                  ]
+            },
+            {
+                  "name": "Xovos mol bozori",
+                  "text": "Xovos mol bozori este o mare piață regională de vite și animale unde fermierii locali se adună pentru a comercializa oi, cai și vaci.",
+                  "category": "cultural",
+                  "coords": [
+                        68.819749,
+                        40.217261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xovostepa tarixiy yodgorligi",
+                  "text": "The historical monument of Xovostepa is an ancient earthwork site protecting the archaeological remnants of a pre-Islamic settlement.",
+                  "category": "historical",
+                  "coords": [
+                        68.811643,
+                        40.200302
+                  ]
+            },
+            {
+                  "name": "Bo'ston jom'e masjidi",
+                  "text": "Bo'ston jom'e masjidi is a community mosque serving the local Muslim population with regular daily and Friday congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        68.742638,
+                        40.247181
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque MUKHAMMAD BOBUR",
+                  "text": "The Cathedral Mosque Mukhammad Bobur is an imposing Islamic structure designed with a vast central dome to accommodate large numbers of worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        68.793707,
+                        40.270567
+                  ]
+            },
+            {
+                  "name": "Abu Hurayra jom'e masjid",
+                  "text": "The Abu Hurayra jom'e masjid features distinct geometric tilework and serves as a vital neighborhood gathering place for the Islamic faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        68.783909,
+                        40.294786
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "This typical neighborhood Friday mosque offers a tranquil courtyard and a traditionally styled minaret for calling the community to prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        68.809849,
+                        40.198646
+                  ]
+            },
+            {
+                  "name": "Muxammad Bobur jome masjidi",
+                  "text": "Muxammad Bobur jome masjidi is a significant local place of Islamic worship, distinguished by its welcoming facade and spacious carpeted interior.",
+                  "category": "landmark",
+                  "coords": [
+                        68.806203,
+                        40.265412
+                  ]
+            },
+            {
+                  "name": "Xovos mol bozori",
+                  "text": "The Xovos mol bozori is a large regional cattle and livestock market where local farmers gather to trade sheep, horses, and cows.",
+                  "category": "cultural",
+                  "coords": [
+                        68.819749,
+                        40.217261
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-SI",
     coords: [68.7058, 40.2319],
@@ -399,7 +4188,484 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "bekabad-steel-plant-economic-v2",
+    id: "bekabad-steel-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorets Kul'tury Metallurgov",
+                  "text": "Der Kulturpalast der Metallurgen ist ein markantes bürgerliches Gebäude in Bekabad mit Architektur aus der Sowjetzeit, in dem lokale Theater- und Kunstveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.271004,
+                        40.214651
+                  ]
+            },
+            {
+                  "name": "Qora mozor jome’ masjidi",
+                  "text": "Die Qora mozor jome' masjidi ist eine etablierte islamische Moschee, die der Gemeinde von Bekabad mit ihrem traditionellen gewölbten Eingang und den speziellen Gebetsräumen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.24426,
+                        40.212385
+                  ]
+            },
+            {
+                  "name": "Noʻmon Ibn Sobit jomeʻ masjidi",
+                  "text": "Diese Noʻmon Ibn Sobit gewidmete lokale Moschee zeichnet sich durch einen modernen Backsteinbau aus und bewahrt gleichzeitig klassische zentralasiatische islamische Architekturelemente.",
+                  "category": "landmark",
+                  "coords": [
+                        69.275787,
+                        40.204846
+                  ]
+            },
+            {
+                  "name": "Xos jome’ masjidi",
+                  "text": "Die Xos jome' masjidi bietet einen ruhigen Raum für die muslimische Gemeinde im Industriegebiet, gekennzeichnet durch ihr bescheidenes Minarett und den sauberen Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        69.197519,
+                        40.271528
+                  ]
+            },
+            {
+                  "name": "Mulla Abdug‘offor xoji jome’ masjidi",
+                  "text": "Die Moschee Mulla Abdug‘offor xoji ist ein lebendiges Zentrum für die lokalen islamischen Gläubigen und an ihrem reich verzierten Haupteingangstor erkennbar.",
+                  "category": "landmark",
+                  "coords": [
+                        69.230258,
+                        40.287106
+                  ]
+            },
+            {
+                  "name": "Islomobod jome’ masjidi",
+                  "text": "Die Islomobod jome' masjidi dient als zentraler Knotenpunkt für das religiöse Leben in ihrer Nachbarschaft und bietet den Gemeindemitgliedern ein großes, friedlich schattiges Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        69.235783,
+                        40.223145
+                  ]
+            },
+            {
+                  "name": "No'mon ibn Sobit",
+                  "text": "Die No'mon ibn Sobit ist ein islamisches Heiligtum, das sich durch seine gepflegten Anlagen und markanten Kuppelstrukturen auszeichnet, die den lokalen Gläubigen dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        69.262036,
+                        40.205811
+                  ]
+            },
+            {
+                  "name": "Khram Sreteniia Gospodnia",
+                  "text": "Die Kirche der Darstellung des Herrn ist ein christlich-orthodoxes Gotteshaus in Bekabad, das leicht an seinen traditionellen kreuzgekrönten Kuppeln zu erkennen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.269829,
+                        40.213409
+                  ]
+            },
+            {
+                  "name": "Oq jom’e’masjidi",
+                  "text": "Bekannt als die Weiße Moschee, sticht die Oq jom'e'masjidi durch ihre helle Außenverkleidung hervor und dient als Leuchtturm für die lokale islamische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        69.272847,
+                        40.222192
+                  ]
+            },
+            {
+                  "name": "Nurli yo`l jom`e masjidi",
+                  "text": "Die Nurli-Yol-Kathedralmoschee ist eine große islamische Einrichtung in der Region, die über weitläufige architektonische Bögen und große Räume für das Freitagsgebet verfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.150556,
+                        40.225432
+                  ]
+            },
+            {
+                  "name": "Veshchevoi Bazar",
+                  "text": "Dieser belebte Marktplatz in Bekabad ist auf Kleidung, Textilien und alltägliche Haushaltswaren spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.264423,
+                        40.216141
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Ein Freiluftmarkt in Bekabad, auf dem Einheimische mit frischen Produkten und regionalen Waren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        69.266124,
+                        40.212895
+                  ]
+            },
+            {
+                  "name": "Bazar 13 mikroraiona",
+                  "text": "Dieser Nachbarschaftsmarkt bedient den 13. Mikrobezirk von Bekabad und bietet tägliche Lebensmittel und lokale Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        69.265474,
+                        40.230902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorets Kul'tury Metallurgov",
+                  "text": "A Kohászok Kultúrpalotája egy kiemelkedő civil épület Bekabadban, amely szovjet kori építészettel büszkélkedhet, és helyi színházi és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        69.271004,
+                        40.214651
+                  ]
+            },
+            {
+                  "name": "Qora mozor jome’ masjidi",
+                  "text": "A Qora mozor jome’ masjidi egy elismert iszlám mecset, amely hagyományos íves bejáratával és külön imatermeivel szolgálja a bekabadi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        69.24426,
+                        40.212385
+                  ]
+            },
+            {
+                  "name": "Noʻmon Ibn Sobit jomeʻ masjidi",
+                  "text": "Ez a Noʻmon Ibn Sobitnak szentelt helyi mecset modern téglaépítésű, miközben megőrzi a klasszikus közép-ázsiai iszlám építészeti elemeket.",
+                  "category": "landmark",
+                  "coords": [
+                        69.275787,
+                        40.204846
+                  ]
+            },
+            {
+                  "name": "Xos jome’ masjidi",
+                  "text": "A Xos jome' masjidi egy csendes teret biztosít a muszlim gyülekezet számára az ipari területen, amelyet szerény minaretje és tiszta udvara jelez.",
+                  "category": "landmark",
+                  "coords": [
+                        69.197519,
+                        40.271528
+                  ]
+            },
+            {
+                  "name": "Mulla Abdug‘offor xoji jome’ masjidi",
+                  "text": "A Mulla Abdug‘offor xoji mecset a helyi iszlám hívők nyüzsgő központja, amely gazdagon díszített főkapujáról ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        69.230258,
+                        40.287106
+                  ]
+            },
+            {
+                  "name": "Islomobod jome’ masjidi",
+                  "text": "Az Islomobod jome' masjidi a vallási élet központi csomópontjaként szolgál a környéken, és egy nagy, békésen árnyékolt területet kínál a gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.235783,
+                        40.223145
+                  ]
+            },
+            {
+                  "name": "No'mon ibn Sobit",
+                  "text": "A No'mon ibn Sobit egy iszlám szentély, amelyet a helyi hívőket szolgáló, gondozott területe és jellegzetes kupolaszerkezetei jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.262036,
+                        40.205811
+                  ]
+            },
+            {
+                  "name": "Khram Sreteniia Gospodnia",
+                  "text": "Az Úr Bemutatása templom egy keleti ortodox keresztény istentiszteleti hely Bekabadban, amely könnyen felismerhető hagyományos kereszttel koronázott kupoláiról.",
+                  "category": "landmark",
+                  "coords": [
+                        69.269829,
+                        40.213409
+                  ]
+            },
+            {
+                  "name": "Oq jom’e’masjidi",
+                  "text": "A Fehér Mecsetként ismert Oq jom’e’masjidi világos külső burkolatával tűnik ki, és jelzőfényként szolgál a helyi iszlám közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.272847,
+                        40.222192
+                  ]
+            },
+            {
+                  "name": "Nurli yo`l jom`e masjidi",
+                  "text": "A Nurli Yol katedrális mecset a régió egyik legnagyobb iszlám létesítménye, amely kiterjedt építészeti ívekkel és hatalmas terekkel rendelkezik a pénteki imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        69.150556,
+                        40.225432
+                  ]
+            },
+            {
+                  "name": "Veshchevoi Bazar",
+                  "text": "Ez a forgalmas bekabadi piac ruházati cikkekre, textíliákra és mindennapi háztartási cikkekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        69.264423,
+                        40.216141
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Szabadtéri piac Bekabadban, ahol a helyiek friss termékeket és regionális árukat cserélnek.",
+                  "category": "cultural",
+                  "coords": [
+                        69.266124,
+                        40.212895
+                  ]
+            },
+            {
+                  "name": "Bazar 13 mikroraiona",
+                  "text": "A bekabadi 13. mikrokerületet kiszolgáló szomszédsági piac napi élelmiszereket és helyi árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.265474,
+                        40.230902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorets Kul'tury Metallurgov",
+                  "text": "Palatul Culturii Metalurgilor este o clădire civică proeminentă din Bekabad, care prezintă o arhitectură din epoca sovietică și găzduiește evenimente teatrale și de artă locale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.271004,
+                        40.214651
+                  ]
+            },
+            {
+                  "name": "Qora mozor jome’ masjidi",
+                  "text": "Qora mozor jome' masjidi este o moschee islamică consacrată, care deservește comunitatea din Bekabad prin intrarea sa tradițională cu arcadă și sălile de rugăciune dedicate.",
+                  "category": "landmark",
+                  "coords": [
+                        69.24426,
+                        40.212385
+                  ]
+            },
+            {
+                  "name": "Noʻmon Ibn Sobit jomeʻ masjidi",
+                  "text": "Această moschee locală dedicată lui Noʻmon Ibn Sobit prezintă o construcție modernă din cărămidă, menținând în același timp elemente arhitecturale islamice clasice din Asia Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.275787,
+                        40.204846
+                  ]
+            },
+            {
+                  "name": "Xos jome’ masjidi",
+                  "text": "Xos jome’ masjidi oferă un spațiu liniștit pentru congregația musulmană din zona industrială, marcat de minaretul său modest și curtea curată.",
+                  "category": "landmark",
+                  "coords": [
+                        69.197519,
+                        40.271528
+                  ]
+            },
+            {
+                  "name": "Mulla Abdug‘offor xoji jome’ masjidi",
+                  "text": "Moscheea Mulla Abdug‘offor xoji este un centru vibrant pentru credincioșii islamici locali, recunoscută după poarta principală de intrare bogat decorată.",
+                  "category": "landmark",
+                  "coords": [
+                        69.230258,
+                        40.287106
+                  ]
+            },
+            {
+                  "name": "Islomobod jome’ masjidi",
+                  "text": "Islomobod jome’ masjidi servește drept centru central pentru viața religioasă din cartierul său, oferind un complex mare, umbrit în mod pașnic, pentru enoriași.",
+                  "category": "landmark",
+                  "coords": [
+                        69.235783,
+                        40.223145
+                  ]
+            },
+            {
+                  "name": "No'mon ibn Sobit",
+                  "text": "No'mon ibn Sobit este un sanctuar islamic caracterizat prin terenurile sale bine întreținute și structurile distinctive cu cupolă, servind credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        69.262036,
+                        40.205811
+                  ]
+            },
+            {
+                  "name": "Khram Sreteniia Gospodnia",
+                  "text": "Biserica Întâmpinarea Domnului este un lăcaș de cult creștin ortodox din Bekabad, ușor de identificat prin cupolele sale tradiționale cu cruce.",
+                  "category": "landmark",
+                  "coords": [
+                        69.269829,
+                        40.213409
+                  ]
+            },
+            {
+                  "name": "Oq jom’e’masjidi",
+                  "text": "Cunoscută sub numele de Moscheea Albă, Oq jom’e’masjidi iese în evidență prin finisajul exterior luminos și servește ca un far pentru comunitatea islamică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.272847,
+                        40.222192
+                  ]
+            },
+            {
+                  "name": "Nurli yo`l jom`e masjidi",
+                  "text": "Moscheea Catedrală Nurli Yol este o facilitate islamică majoră din regiune, cu arcade arhitecturale extinse și spații mari pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        69.150556,
+                        40.225432
+                  ]
+            },
+            {
+                  "name": "Veshchevoi Bazar",
+                  "text": "Această piață plină de viață din Bekabad este specializată în îmbrăcăminte, textile și bunuri de uz casnic de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        69.264423,
+                        40.216141
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "O piață în aer liber din Bekabad unde localnicii tranzacționează produse proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.266124,
+                        40.212895
+                  ]
+            },
+            {
+                  "name": "Bazar 13 mikroraiona",
+                  "text": "Deservind al 13-lea microraion din Bekabad, această piață de cartier oferă produse alimentare zilnice și mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.265474,
+                        40.230902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorets Kul'tury Metallurgov",
+                  "text": "The Metallurgists' Palace of Culture is a prominent civic building in Bekabad featuring Soviet-era architecture and hosting local theatrical and arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        69.271004,
+                        40.214651
+                  ]
+            },
+            {
+                  "name": "Qora mozor jome’ masjidi",
+                  "text": "Qora mozor jome’ masjidi is an established Islamic mosque serving the Bekabad community with its traditional arched entrance and dedicated prayer rooms.",
+                  "category": "landmark",
+                  "coords": [
+                        69.24426,
+                        40.212385
+                  ]
+            },
+            {
+                  "name": "Noʻmon Ibn Sobit jomeʻ masjidi",
+                  "text": "This local mosque dedicated to Noʻmon Ibn Sobit features modern brick construction while maintaining classic Central Asian Islamic architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        69.275787,
+                        40.204846
+                  ]
+            },
+            {
+                  "name": "Xos jome’ masjidi",
+                  "text": "The Xos jome’ masjidi provides a quiet space for Muslim congregation in the industrial area, marked by its modest minaret and clean courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        69.197519,
+                        40.271528
+                  ]
+            },
+            {
+                  "name": "Mulla Abdug‘offor xoji jome’ masjidi",
+                  "text": "The Mulla Abdug‘offor xoji mosque is a vibrant center for the local Islamic faithful, recognizable by its ornately decorated main entrance gate.",
+                  "category": "landmark",
+                  "coords": [
+                        69.230258,
+                        40.287106
+                  ]
+            },
+            {
+                  "name": "Islomobod jome’ masjidi",
+                  "text": "Islomobod jome’ masjidi serves as a central hub for religious life in its neighborhood, offering a large, peacefully shaded compound for congregants.",
+                  "category": "landmark",
+                  "coords": [
+                        69.235783,
+                        40.223145
+                  ]
+            },
+            {
+                  "name": "No'mon ibn Sobit",
+                  "text": "The No'mon ibn Sobit is an Islamic sanctuary characterized by its well-kept grounds and distinctive dome structures serving the local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.262036,
+                        40.205811
+                  ]
+            },
+            {
+                  "name": "Khram Sreteniia Gospodnia",
+                  "text": "The Church of the Presentation of the Lord is an Eastern Orthodox Christian place of worship in Bekabad, easily identified by its traditional cross-topped cupolas.",
+                  "category": "landmark",
+                  "coords": [
+                        69.269829,
+                        40.213409
+                  ]
+            },
+            {
+                  "name": "Oq jom’e’masjidi",
+                  "text": "Known as the White Mosque, Oq jom’e’masjidi stands out with its bright exterior finishing and serves as a beacon for the local Islamic community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.272847,
+                        40.222192
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque NURLI YOL",
+                  "text": "The Nurli Yol Cathedral Mosque is a major Islamic facility in the region, featuring expansive architectural arches and large spaces for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.150556,
+                        40.225432
+                  ]
+            },
+            {
+                  "name": "Veshchevoi Bazar",
+                  "text": "This bustling marketplace in Bekabad specializes in clothing, textiles, and everyday household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.264423,
+                        40.216141
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "An open-air marketplace in Bekabad where locals trade fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.266124,
+                        40.212895
+                  ]
+            },
+            {
+                  "name": "Bazar 13 mikroraiona",
+                  "text": "Serving the 13th microdistrict of Bekabad, this neighborhood market offers daily groceries and local wares.",
+                  "category": "cultural",
+                  "coords": [
+                        69.265474,
+                        40.230902
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-TO",
     coords: [69.2561, 40.2222],
@@ -435,7 +4701,1204 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "tashkent-metallurgical-plant-economic-v2",
+    id: "tashkent-metallurgical-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khram sviatogo Ravnoapostol'nogo velikogo kniazia Vladimira",
+                  "text": "Diese russisch-orthodoxe Kirche nahe dem Dombrabad-Friedhof ist ein wichtiger Ort für Gottesdienste und religiöse Feierlichkeiten.",
+                  "category": "religious",
+                  "coords": [
+                        69.183461,
+                        41.256204
+                  ]
+            },
+            {
+                  "name": "Choshtepa",
+                  "text": "Diese archäologische Stätte umfasst die Überreste einer antiken Siedlung, die bis in die ersten Jahrhunderte nach Christus zurückreicht.",
+                  "category": "landmark",
+                  "coords": [
+                        69.188969,
+                        41.231969
+                  ]
+            },
+            {
+                  "name": "Fazyltepa",
+                  "text": "Dieser antike Siedlungshügel ist ein geschütztes Bodendenkmal, das Zeugnis von der jahrtausendealten Besiedlung dieser Region ablegt.",
+                  "category": "natural",
+                  "coords": [
+                        69.161362,
+                        41.27781
+                  ]
+            },
+            {
+                  "name": "Stella geroiam Afganskoi voiny uchenikam shkoly No. 217",
+                  "text": "Diese Stele an der Schule Nr. 217 erinnert an die gefallenen Soldaten des Afghanistan-Krieges, die einst hier Schüler waren.",
+                  "category": "historical",
+                  "coords": [
+                        69.174186,
+                        41.268043
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein modernes Open-Air-Amphitheater, das in den Sommermonaten als Bühne für öffentliche Konzerte und kulturelle Veranstaltungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        69.147617,
+                        41.252187
+                  ]
+            },
+            {
+                  "name": "Milost'",
+                  "text": "Diese moderne Kirche ist ein religiöser Treffpunkt für die lokale Gemeinde und zeichnet sich durch ihre schlichte Architektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        69.238649,
+                        41.219249
+                  ]
+            },
+            {
+                  "name": "Urikzor",
+                  "text": "Dieser riesige Großhandelsmarkt am Stadtrand ist berühmt für sein umfassendes Angebot an Haushaltswaren, Elektronik und Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        69.151754,
+                        41.286658
+                  ]
+            },
+            {
+                  "name": "Rynok metalla",
+                  "text": "Ein spezialisierter Markt für Bauzubehör, auf dem vor allem Metallprofile, Rohre und Armaturen für Konstruktionszwecke gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.146206,
+                        41.280001
+                  ]
+            },
+            {
+                  "name": "Ippodrom Bazaar",
+                  "text": "Dieser nach der nahen Pferderennbahn benannte Basar ist der größte Bekleidungsmarkt Taschkents und bietet Textilien aus ganz Zentralasien an.",
+                  "category": "cultural",
+                  "coords": [
+                        69.170985,
+                        41.245226
+                  ]
+            },
+            {
+                  "name": "Rybnyi rynok",
+                  "text": "Dieser spezialisierte Markt bietet eine große Auswahl an frischem Flussfisch aus der Region sowie getrockneten und geräucherten Fischspezialitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        69.091102,
+                        41.293569
+                  ]
+            },
+            {
+                  "name": "Storitel'nyi rynok Dombrabad",
+                  "text": "Ein weitläufiger Markt im Stadtteil Dombrabad, der auf eine riesige Palette von Baumaterialien und Innenausstattungen spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.200382,
+                        41.253754
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Dieser kleine Nachbarschaftsbazar bietet den Bewohnern des Viertels täglich frisches Obst, Gemüse und Brot für den Grundbedarf an.",
+                  "category": "cultural",
+                  "coords": [
+                        69.183358,
+                        41.27263
+                  ]
+            },
+            {
+                  "name": "\"Urikzar stroitel'nyi rynok",
+                  "text": "Ein spezialisierter Bereich des Urikzar-Marktes, der ausschließlich auf den Großhandel mit Zement, Holz und anderen Konstruktionsmitteln fokussiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.15118,
+                        41.287921
+                  ]
+            },
+            {
+                  "name": "\"Urikzar produktovyi rynok",
+                  "text": "Ein belebter Markt in Taschkent, der auf frische Lebensmittel und lokale usbekische Spezialitäten spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.151084,
+                        41.285494
+                  ]
+            },
+            {
+                  "name": "Stroimaterialy",
+                  "text": "Ein spezialisierter Marktplatz in Taschkent, der auf Baumaterialien und Zubehör für Renovierungen ausgerichtet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.153325,
+                        41.281403
+                  ]
+            },
+            {
+                  "name": "Takhtabazar",
+                  "text": "Dieser traditionelle Markt ist in Taschkent für seine umfangreiche Auswahl an Bauholz und Tischlereibedarf bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149438,
+                        41.279654
+                  ]
+            },
+            {
+                  "name": "Skobiannoi rynok",
+                  "text": "Ein spezialisierter Eisenwarenmarkt in Taschkent, der Metallwerkzeuge, Beschläge und Kurzwaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.144082,
+                        41.277579
+                  ]
+            },
+            {
+                  "name": "Bekto'pi",
+                  "text": "Ein lebhafter lokaler Markt in Taschkent, der für sein vielfältiges Angebot an Haushaltswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.163088,
+                        41.253216
+                  ]
+            },
+            {
+                  "name": "Chilonzor buyum savdo kompleksi",
+                  "text": "Ein großes modernes Einkaufszentrum im Bezirk Chilonzor mit zahlreichen Einzelhandelsständen und Dienstleistungen.",
+                  "category": "cultural",
+                  "coords": [
+                        69.169183,
+                        41.245079
+                  ]
+            },
+            {
+                  "name": "Chinni bozor",
+                  "text": "Ein spezialisierter Markt in Taschkent, der für seine große Auswahl an Porzellan, Keramik und traditionellen Teesets berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.165288,
+                        41.240583
+                  ]
+            },
+            {
+                  "name": "Abu-Saxiy chinni bozor",
+                  "text": "Ein bekannter Großhandelsmarkt in Taschkent für eine umfangreiche Kollektion an importierten und lokalen Porzellanwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        69.164649,
+                        41.241645
+                  ]
+            },
+            {
+                  "name": "Bek-Baraka savdo majmuasi",
+                  "text": "Ein massiver Groß- und Einzelhandelskomplex in Taschkent, der vielfältige Konsumgüter des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.163776,
+                        41.243264
+                  ]
+            },
+            {
+                  "name": "\"Solnechnyi\" Rynok kantseliarskikh tovarov",
+                  "text": "Ein geschäftiger Markt in Taschkent, der auf Schulbedarf, Büromaterialien und Papierprodukte spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.147414,
+                        41.229093
+                  ]
+            },
+            {
+                  "name": "Rynok Sergeli",
+                  "text": "Ein bedeutender Markt im Bezirk Sergeli, der weithin als Taschkents wichtigster Handelsplatz für Autos bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.218059,
+                        41.227393
+                  ]
+            },
+            {
+                  "name": "Sad teti El'viry",
+                  "text": "Eine charmante private Gartenoase in Taschkent mit einer Vielzahl an lokalen Pflanzen und Blumen.",
+                  "category": "landmark",
+                  "coords": [
+                        69.223328,
+                        41.244014
+                  ]
+            },
+            {
+                  "name": "Nazarbek addam shurda koldi",
+                  "text": "Ein lokaler Treffpunkt im Nazarbek-Viertel von Taschkent, der für seinen authentischen Vorstadtcharakter besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        69.096983,
+                        41.297459
+                  ]
+            },
+            {
+                  "name": "NOSIRXON jom`e masjidi",
+                  "text": "Eine friedliche Nachbarschaftsmoschee in Taschkent, die der lokalen Gemeinschaft mit ihrer traditionellen Architektur dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.200581,
+                        41.25718
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Eine lokale Freitagsmoschee in Taschkent mit einem traditionellen Innenhof und einer Gebetshalle für die Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        69.200417,
+                        41.243489
+                  ]
+            },
+            {
+                  "name": "SHAYX MUHAMMAD SODIQ MUHAMMAD YUSUF jom`e masjidi",
+                  "text": "Eine prächtige moderne Moschee in Taschkent, die 2019 eröffnet wurde und nach einem bedeutenden usbekischen Theologen benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.186444,
+                        41.259283
+                  ]
+            },
+            {
+                  "name": "Ammor ibn Yosir jome’ masjidi",
+                  "text": "Eine bedeutende Freitagsmoschee in Taschkent, die für ihr elegantes Minarett und ihren geräumigen Innenraum bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.132744,
+                        41.30255
+                  ]
+            },
+            {
+                  "name": "Umir jome’ masjidi",
+                  "text": "Eine lokale Moschee in Taschkent, die durch ihr klassisches zentralasiatisches Design und eine ruhige Atmosphäre besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        69.138526,
+                        41.267909
+                  ]
+            },
+            {
+                  "name": "TINCHLIK jome masjidi",
+                  "text": "Ein spirituelles Zentrum im Tinchlik-Viertel von Taschkent, das als Knotenpunkt für Freitagsgebet und Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.173877,
+                        41.264723
+                  ]
+            },
+            {
+                  "name": "Beshqo‘rg‘on jome’ masjidi",
+                  "text": "Eine moderne Nachbarschaftsmoschee in Taschkent, die mit traditionellen usbekischen Dekorelementen verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.164024,
+                        41.232011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khram sviatogo Ravnoapostol'nogo velikogo kniazia Vladimira",
+                  "text": "Ez az orosz ortodox templom a Dombrabad temető közelében az istentiszteletek és vallási ünnepségek fontos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        69.183461,
+                        41.256204
+                  ]
+            },
+            {
+                  "name": "Choshtepa",
+                  "text": "Ez a régészeti lelőhely egy ősi település maradványait foglalja magában, amely az időszámításunk utáni első évszázadokig nyúlik vissza.",
+                  "category": "landmark",
+                  "coords": [
+                        69.188969,
+                        41.231969
+                  ]
+            },
+            {
+                  "name": "Fazyltepa",
+                  "text": "Ez az ősi településhalom egy védett régészeti emlék, amely a régió évezredes benépesüléséről tanúskodik.",
+                  "category": "natural",
+                  "coords": [
+                        69.161362,
+                        41.27781
+                  ]
+            },
+            {
+                  "name": "Stella geroiam Afganskoi voiny uchenikam shkoly No. 217",
+                  "text": "A 217-es számú iskolánál található sztélé az afganisztáni háborúban elesett katonáknak állít emléket, akik egykor az iskola diákjai voltak.",
+                  "category": "historical",
+                  "coords": [
+                        69.174186,
+                        41.268043
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Modern szabadtéri amfiteátrum, amely a nyári hónapokban nyilvános koncertek és kulturális rendezvények helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.147617,
+                        41.252187
+                  ]
+            },
+            {
+                  "name": "Milost'",
+                  "text": "Ez a modern templom a helyi közösség vallási találkozóhelye, amelyet egyszerű építészete jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        69.238649,
+                        41.219249
+                  ]
+            },
+            {
+                  "name": "Urikzor",
+                  "text": "Ez a hatalmas peremkerületi nagybani piac híres háztartási cikkek, elektronika és élelmiszerek átfogó kínálatáról.",
+                  "category": "cultural",
+                  "coords": [
+                        69.151754,
+                        41.286658
+                  ]
+            },
+            {
+                  "name": "Rynok metalla",
+                  "text": "Építőanyagokra szakosodott piac, ahol elsősorban fémprofilokat, csöveket és szerelvényeket árusítanak építkezési célokra.",
+                  "category": "cultural",
+                  "coords": [
+                        69.146206,
+                        41.280001
+                  ]
+            },
+            {
+                  "name": "Ippodrom Bazaar",
+                  "text": "A közeli lóversenypályáról elnevezett bazár Taskent legnagyobb ruhapiaca, ahol egész Közép-Ázsiából származó textileket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.170985,
+                        41.245226
+                  ]
+            },
+            {
+                  "name": "Rybnyi rynok",
+                  "text": "Ez a szakosodott piac a környékbeli folyókból származó friss halak, valamint szárított és füstölt halspecialitások széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.091102,
+                        41.293569
+                  ]
+            },
+            {
+                  "name": "Storitel'nyi rynok Dombrabad",
+                  "text": "Kiterjedt piac a Dombrabad negyedben, amely építőanyagok és belsőépítészeti termékek hatalmas választékára szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        69.200382,
+                        41.253754
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Ez a kis környékbeli bazár a negyed lakóinak kínál naponta friss gyümölcsöt, zöldséget és kenyeret az alapvető szükségletekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        69.183358,
+                        41.27263
+                  ]
+            },
+            {
+                  "name": "\"Urikzar stroitel'nyi rynok",
+                  "text": "Az Urikzar piac speciális területe, amely kizárólag cement, faanyag és egyéb építőanyagok nagykereskedelmére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        69.15118,
+                        41.287921
+                  ]
+            },
+            {
+                  "name": "\"Urikzar produktovyi rynok",
+                  "text": "Taskent nyüzsgő piaca, amely friss élelmiszerekre és helyi üzbég finomságokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        69.151084,
+                        41.285494
+                  ]
+            },
+            {
+                  "name": "Stroimaterialy",
+                  "text": "Speciális piac Taskentben, amely építőanyagokra és felújítási kellékekre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        69.153325,
+                        41.281403
+                  ]
+            },
+            {
+                  "name": "Takhtabazar",
+                  "text": "Ez a hagyományos piac Taskentben a fűrészáru és asztalosipari kellékek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149438,
+                        41.279654
+                  ]
+            },
+            {
+                  "name": "Skobiannoi rynok",
+                  "text": "Speciális fémárupiac Taskentben, amely fémszerszámokat, vasalatokat és rövidárut kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.144082,
+                        41.277579
+                  ]
+            },
+            {
+                  "name": "Bekto'pi",
+                  "text": "Nyüzsgő helyi piac Taskentben, amely a háztartási cikkek és fogyasztási javak széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.163088,
+                        41.253216
+                  ]
+            },
+            {
+                  "name": "Chilonzor buyum savdo kompleksi",
+                  "text": "Hatalmas, modern bevásárlóközpont a Chilonzor negyedben, számos kiskereskedelmi standdal és szolgáltatással.",
+                  "category": "cultural",
+                  "coords": [
+                        69.169183,
+                        41.245079
+                  ]
+            },
+            {
+                  "name": "Chinni bozor",
+                  "text": "Speciális piac Taskentben, amely porcelánok, kerámiák és hagyományos teáskészletek széles választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        69.165288,
+                        41.240583
+                  ]
+            },
+            {
+                  "name": "Abu-Saxiy chinni bozor",
+                  "text": "Taskent egyik ismert nagykereskedelmi piaca, amely importált és helyi porcelánáruk hatalmas választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.164649,
+                        41.241645
+                  ]
+            },
+            {
+                  "name": "Bek-Baraka savdo majmuasi",
+                  "text": "Hatalmas nagy- és kiskereskedelmi komplexum Taskentben, amely változatos napi fogyasztási cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.163776,
+                        41.243264
+                  ]
+            },
+            {
+                  "name": "\"Solnechnyi\" Rynok kantseliarskikh tovarov",
+                  "text": "Nyüzsgő piac Taskentben, amely iskolai felszerelésekre, irodaszerekre és papírárukra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        69.147414,
+                        41.229093
+                  ]
+            },
+            {
+                  "name": "Rynok Sergeli",
+                  "text": "Jelentős piac a Sergeli negyedben, amely Taskent legfontosabb autókereskedelmi központjaként ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.218059,
+                        41.227393
+                  ]
+            },
+            {
+                  "name": "Sad teti El'viry",
+                  "text": "Bájos privát kerti oázis Taskentben, amely helyi növények és virágok sokaságát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        69.223328,
+                        41.244014
+                  ]
+            },
+            {
+                  "name": "Nazarbek addam shurda koldi",
+                  "text": "Helyi találkozóhely Taskent Nazarbek negyedében, amelyet autentikus elővárosi jellege miatt látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        69.096983,
+                        41.297459
+                  ]
+            },
+            {
+                  "name": "NOSIRXON jom`e masjidi",
+                  "text": "Békés környékbeli mecset Taskentben, amely hagyományos építészetével szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        69.200581,
+                        41.25718
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Helyi pénteki mecset Taskentben hagyományos belső udvarral és imateremmel a közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        69.200417,
+                        41.243489
+                  ]
+            },
+            {
+                  "name": "SHAYX MUHAMMAD SODIQ MUHAMMAD YUSUF jom`e masjidi",
+                  "text": "Pompás modern mecset Taskentben, amelyet 2019-ben nyitottak meg, és egy neves üzbég teológusról nevezték el.",
+                  "category": "landmark",
+                  "coords": [
+                        69.186444,
+                        41.259283
+                  ]
+            },
+            {
+                  "name": "Ammor ibn Yosir jome’ masjidi",
+                  "text": "Jelentős pénteki mecset Taskentben, amely elegáns minaretjéről és tágas belső teréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.132744,
+                        41.30255
+                  ]
+            },
+            {
+                  "name": "Umir jome’ masjidi",
+                  "text": "Helyi mecset Taskentben, amelyet klasszikus közép-ázsiai kialakítás és nyugodt légkör jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        69.138526,
+                        41.267909
+                  ]
+            },
+            {
+                  "name": "TINCHLIK jome masjidi",
+                  "text": "Szellemi központ Taskent Tinchlik negyedében, amely a pénteki imák és a közösségi élet csomópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.173877,
+                        41.264723
+                  ]
+            },
+            {
+                  "name": "Beshqo‘rg‘on jome’ masjidi",
+                  "text": "Modern környékbeli mecset Taskentben, amelyet hagyományos üzbég díszítőelemek ékesítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.164024,
+                        41.232011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khram sviatogo Ravnoapostol'nogo velikogo kniazia Vladimira",
+                  "text": "Această biserică ortodoxă rusă de lângă cimitirul Dombrabad este un loc important pentru slujbe și celebrări religioase.",
+                  "category": "religious",
+                  "coords": [
+                        69.183461,
+                        41.256204
+                  ]
+            },
+            {
+                  "name": "Choshtepa",
+                  "text": "Acest sit arheologic cuprinde vestigiile unei așezări antice care datează din primele secole după Hristos.",
+                  "category": "landmark",
+                  "coords": [
+                        69.188969,
+                        41.231969
+                  ]
+            },
+            {
+                  "name": "Fazyltepa",
+                  "text": "Această movilă de așezare antică este un monument arheologic protejat, care depune mărturie despre locuirea milenară a acestei regiuni.",
+                  "category": "natural",
+                  "coords": [
+                        69.161362,
+                        41.27781
+                  ]
+            },
+            {
+                  "name": "Stella geroiam Afganskoi voiny uchenikam shkoly No. 217",
+                  "text": "Această stelă de la Școala nr. 217 îi comemorează pe soldații căzuți în războiul din Afganistan, care au fost cândva elevi ai acestei școli.",
+                  "category": "historical",
+                  "coords": [
+                        69.174186,
+                        41.268043
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Un amfiteatru modern în aer liber care servește ca scenă pentru concerte publice și evenimente culturale în lunile de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        69.147617,
+                        41.252187
+                  ]
+            },
+            {
+                  "name": "Milost'",
+                  "text": "Această biserică modernă este un punct de întâlnire religios pentru comunitatea locală, remarcându-se prin arhitectura sa simplă.",
+                  "category": "religious",
+                  "coords": [
+                        69.238649,
+                        41.219249
+                  ]
+            },
+            {
+                  "name": "Urikzor",
+                  "text": "Această piață en-gros uriașă de la periferie este faimoasă pentru oferta sa cuprinzătoare de articole de uz casnic, electronice și alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        69.151754,
+                        41.286658
+                  ]
+            },
+            {
+                  "name": "Rynok metalla",
+                  "text": "O piață specializată pentru accesorii de construcție, unde se comercializează în principal profiluri metalice, țevi și fitinguri pentru construcții.",
+                  "category": "cultural",
+                  "coords": [
+                        69.146206,
+                        41.280001
+                  ]
+            },
+            {
+                  "name": "Ippodrom Bazaar",
+                  "text": "Acest bazar, numit după hipodromul din apropiere, este cea mai mare piață de îmbrăcăminte din Tașkent, oferind textile din toată Asia Centrală.",
+                  "category": "cultural",
+                  "coords": [
+                        69.170985,
+                        41.245226
+                  ]
+            },
+            {
+                  "name": "Rybnyi rynok",
+                  "text": "Această piață specializată oferă o gamă largă de pește proaspăt de râu din regiune, precum și specialități de pește uscat și afumat.",
+                  "category": "cultural",
+                  "coords": [
+                        69.091102,
+                        41.293569
+                  ]
+            },
+            {
+                  "name": "Storitel'nyi rynok Dombrabad",
+                  "text": "O piață extinsă în cartierul Dombrabad, specializată într-o gamă uriașă de materiale de construcție și finisaje interioare.",
+                  "category": "cultural",
+                  "coords": [
+                        69.200382,
+                        41.253754
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Acest mic bazar de cartier oferă locuitorilor din zonă fructe, legume și pâine proaspătă zilnic pentru nevoile de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        69.183358,
+                        41.27263
+                  ]
+            },
+            {
+                  "name": "\"Urikzar stroitel'nyi rynok",
+                  "text": "O zonă specializată a pieței Urikzar, concentrată exclusiv pe vânzarea en-gros de ciment, lemn și alte materiale de construcție.",
+                  "category": "cultural",
+                  "coords": [
+                        69.15118,
+                        41.287921
+                  ]
+            },
+            {
+                  "name": "\"Urikzar produktovyi rynok",
+                  "text": "O piață plină de viață în Tașkent, specializată în produse alimentare proaspete și delicatese locale uzbece.",
+                  "category": "cultural",
+                  "coords": [
+                        69.151084,
+                        41.285494
+                  ]
+            },
+            {
+                  "name": "Stroimaterialy",
+                  "text": "O piață specializată din Tașkent, axată pe materiale de construcție și accesorii pentru renovări.",
+                  "category": "cultural",
+                  "coords": [
+                        69.153325,
+                        41.281403
+                  ]
+            },
+            {
+                  "name": "Takhtabazar",
+                  "text": "Această piață tradițională din Tașkent este cunoscută pentru selecția sa vastă de cherestea și articole de tâmplărie.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149438,
+                        41.279654
+                  ]
+            },
+            {
+                  "name": "Skobiannoi rynok",
+                  "text": "O piață specializată de feronerie din Tașkent, care oferă unelte metalice, fitinguri și articole de feronerie.",
+                  "category": "cultural",
+                  "coords": [
+                        69.144082,
+                        41.277579
+                  ]
+            },
+            {
+                  "name": "Bekto'pi",
+                  "text": "O piață locală plină de viață din Tașkent, cunoscută pentru gama sa diversă de articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        69.163088,
+                        41.253216
+                  ]
+            },
+            {
+                  "name": "Chilonzor buyum savdo kompleksi",
+                  "text": "Un centru comercial modern și mare din districtul Chilonzor, cu numeroase standuri de vânzare cu amănuntul.",
+                  "category": "cultural",
+                  "coords": [
+                        69.169183,
+                        41.245079
+                  ]
+            },
+            {
+                  "name": "Chinni bozor",
+                  "text": "O piață specializată din Tașkent, celebră pentru gama sa largă de porțelanuri, ceramică și seturi de ceai tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.165288,
+                        41.240583
+                  ]
+            },
+            {
+                  "name": "Abu-Saxiy chinni bozor",
+                  "text": "O piață angro cunoscută din Tașkent pentru o colecție extinsă de articole de porțelan importate și locale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.164649,
+                        41.241645
+                  ]
+            },
+            {
+                  "name": "Bek-Baraka savdo majmuasi",
+                  "text": "Un complex masiv de vânzare cu ridicata și amănuntul din Tașkent, care oferă diverse bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        69.163776,
+                        41.243264
+                  ]
+            },
+            {
+                  "name": "\"Solnechnyi\" Rynok kantseliarskikh tovarov",
+                  "text": "O piață aglomerată din Tașkent, specializată în rechizite școlare, materiale de birou și produse din hârtie.",
+                  "category": "cultural",
+                  "coords": [
+                        69.147414,
+                        41.229093
+                  ]
+            },
+            {
+                  "name": "Rynok Sergeli",
+                  "text": "O piață importantă din districtul Sergeli, cunoscută pe scară largă ca principalul centru de comerț auto din Tașkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.218059,
+                        41.227393
+                  ]
+            },
+            {
+                  "name": "Sad teti El'viry",
+                  "text": "O oază de grădină privată fermecătoare din Tașkent, care prezintă o varietate de plante și flori locale.",
+                  "category": "landmark",
+                  "coords": [
+                        69.223328,
+                        41.244014
+                  ]
+            },
+            {
+                  "name": "Nazarbek addam shurda koldi",
+                  "text": "Un punct de întâlnire local din cartierul Nazarbek din Tașkent, vizitat pentru caracterul său suburban autentic.",
+                  "category": "landmark",
+                  "coords": [
+                        69.096983,
+                        41.297459
+                  ]
+            },
+            {
+                  "name": "NOSIRXON jom`e masjidi",
+                  "text": "O moschee de cartier liniștită din Tașkent, care servește comunitatea locală prin arhitectura sa tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        69.200581,
+                        41.25718
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "O moschee locală de vineri din Tașkent, cu o curte tradițională și o sală de rugăciune pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        69.200417,
+                        41.243489
+                  ]
+            },
+            {
+                  "name": "SHAYX MUHAMMAD SODIQ MUHAMMAD YUSUF jom`e masjidi",
+                  "text": "O moschee modernă grandioasă din Tașkent, deschisă în 2019 și numită după un proeminent teolog uzbec.",
+                  "category": "landmark",
+                  "coords": [
+                        69.186444,
+                        41.259283
+                  ]
+            },
+            {
+                  "name": "Ammor ibn Yosir jome’ masjidi",
+                  "text": "O moschee de vineri importantă din Tașkent, cunoscută pentru minaretul său elegant și interiorul spațios.",
+                  "category": "landmark",
+                  "coords": [
+                        69.132744,
+                        41.30255
+                  ]
+            },
+            {
+                  "name": "Umir jome’ masjidi",
+                  "text": "O moschee locală din Tașkent, caracterizată prin designul său clasic din Asia Centrală și o atmosferă liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        69.138526,
+                        41.267909
+                  ]
+            },
+            {
+                  "name": "TINCHLIK jome masjidi",
+                  "text": "Un centru spiritual din zona Tinchlik din Tașkent, care servește ca punct central pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        69.173877,
+                        41.264723
+                  ]
+            },
+            {
+                  "name": "Beshqo‘rg‘on jome’ masjidi",
+                  "text": "O moschee de cartier modernă din Tașkent, decorată cu elemente ornamentale tradiționale uzbece.",
+                  "category": "landmark",
+                  "coords": [
+                        69.164024,
+                        41.232011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Holy Equal-to-the-Apostles Grand Duke Vladimir",
+                  "text": "This Russian Orthodox church near the Dombrabad cemetery is an important site for services and religious celebrations.",
+                  "category": "religious",
+                  "coords": [
+                        69.183461,
+                        41.256204
+                  ]
+            },
+            {
+                  "name": "hashtepa",
+                  "text": "This archaeological site comprises the remains of an ancient settlement dating back to the first centuries AD.",
+                  "category": "landmark",
+                  "coords": [
+                        69.188969,
+                        41.231969
+                  ]
+            },
+            {
+                  "name": "Fazyltepa",
+                  "text": "This ancient settlement mound is a protected archaeological monument bearing witness to the millennia-old habitation of this region.",
+                  "category": "natural",
+                  "coords": [
+                        69.161362,
+                        41.27781
+                  ]
+            },
+            {
+                  "name": "A stele dedicated to the heroes of the Afghan War, dedicated to students of School No. 217.",
+                  "text": "This stele at School No. 217 commemorates the fallen soldiers of the Afghan War who were once students here.",
+                  "category": "historical",
+                  "coords": [
+                        69.174186,
+                        41.268043
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "A modern open-air amphitheater that serves as a venue for public concerts and cultural events during the summer months.",
+                  "category": "cultural",
+                  "coords": [
+                        69.147617,
+                        41.252187
+                  ]
+            },
+            {
+                  "name": "Milost'",
+                  "text": "This modern church is a religious meeting point for the local community, characterized by its simple architecture.",
+                  "category": "religious",
+                  "coords": [
+                        69.238649,
+                        41.219249
+                  ]
+            },
+            {
+                  "name": "Urikzar",
+                  "text": "This massive wholesale market on the outskirts is famous for its comprehensive range of household goods, electronics, and food.",
+                  "category": "cultural",
+                  "coords": [
+                        69.151754,
+                        41.286658
+                  ]
+            },
+            {
+                  "name": "Rynok metalla",
+                  "text": "A specialized market for construction supplies, primarily trading metal profiles, pipes, and fittings for building purposes.",
+                  "category": "cultural",
+                  "coords": [
+                        69.146206,
+                        41.280001
+                  ]
+            },
+            {
+                  "name": "Ippodrom Bazaar",
+                  "text": "Named after the nearby horse racing track, this bazaar is Tashkent's largest clothing market, offering textiles from across Central Asia.",
+                  "category": "cultural",
+                  "coords": [
+                        69.170985,
+                        41.245226
+                  ]
+            },
+            {
+                  "name": "Rybnyi rynok",
+                  "text": "This specialized market offers a wide selection of fresh river fish from the region, as well as dried and smoked fish specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        69.091102,
+                        41.293569
+                  ]
+            },
+            {
+                  "name": "Storitel'nyi rynok Dombrabad",
+                  "text": "An extensive market in the Dombrabad district specializing in a huge range of building materials and interior furnishings.",
+                  "category": "cultural",
+                  "coords": [
+                        69.200382,
+                        41.253754
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "This small neighborhood bazaar provides local residents with daily fresh fruit, vegetables, and bread for basic needs.",
+                  "category": "cultural",
+                  "coords": [
+                        69.183358,
+                        41.27263
+                  ]
+            },
+            {
+                  "name": "\"Urikzar\" construction materials",
+                  "text": "A specialized area of the Urikzar market focused exclusively on the wholesale of cement, timber, and other construction materials.",
+                  "category": "cultural",
+                  "coords": [
+                        69.15118,
+                        41.287921
+                  ]
+            },
+            {
+                  "name": "\"Urikzar\" food bazar",
+                  "text": "A bustling market in Tashkent specializing in fresh produce and local Uzbek culinary delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        69.151084,
+                        41.285494
+                  ]
+            },
+            {
+                  "name": "Stroimaterialy",
+                  "text": "A specialized marketplace in Tashkent dedicated to construction supplies and home renovation materials.",
+                  "category": "cultural",
+                  "coords": [
+                        69.153325,
+                        41.281403
+                  ]
+            },
+            {
+                  "name": "Takhtabazar",
+                  "text": "A traditional market in Tashkent known for its extensive selection of timber and woodworking supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        69.149438,
+                        41.279654
+                  ]
+            },
+            {
+                  "name": "Skobiannoi rynok",
+                  "text": "A specialized hardware market in Tashkent offering metal tools, fasteners, and ironmongery.",
+                  "category": "cultural",
+                  "coords": [
+                        69.144082,
+                        41.277579
+                  ]
+            },
+            {
+                  "name": "Bekto'pi",
+                  "text": "A vibrant local market in Tashkent known for its diverse range of household goods and consumer products.",
+                  "category": "cultural",
+                  "coords": [
+                        69.163088,
+                        41.253216
+                  ]
+            },
+            {
+                  "name": "Chilonzor trade complex",
+                  "text": "A large modern shopping hub in the Chilonzor district featuring numerous retail stalls and services.",
+                  "category": "cultural",
+                  "coords": [
+                        69.169183,
+                        41.245079
+                  ]
+            },
+            {
+                  "name": "Chinni bozor",
+                  "text": "A specialized market in Tashkent famous for its wide array of porcelain, ceramics, and traditional tea sets.",
+                  "category": "cultural",
+                  "coords": [
+                        69.165288,
+                        41.240583
+                  ]
+            },
+            {
+                  "name": "Abu-Saxiy chinni bozor",
+                  "text": "A well-known wholesale marketplace in Tashkent for an extensive collection of imported and local chinaware.",
+                  "category": "cultural",
+                  "coords": [
+                        69.164649,
+                        41.241645
+                  ]
+            },
+            {
+                  "name": "Bek-Baraka savdo majmuasi",
+                  "text": "A massive wholesale and retail complex in Tashkent offering diverse daily consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.163776,
+                        41.243264
+                  ]
+            },
+            {
+                  "name": "\"Solnechny\" Stationery Market",
+                  "text": "A bustling market in Tashkent specializing in school supplies, office materials, and paper products.",
+                  "category": "cultural",
+                  "coords": [
+                        69.147414,
+                        41.229093
+                  ]
+            },
+            {
+                  "name": "Rynok Sergeli",
+                  "text": "A prominent market in the Sergeli district, widely recognized as Tashkent's primary car trading hub.",
+                  "category": "cultural",
+                  "coords": [
+                        69.218059,
+                        41.227393
+                  ]
+            },
+            {
+                  "name": "Sad teti El'viry",
+                  "text": "A charming private garden oasis in Tashkent featuring a variety of local plants and flowers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.223328,
+                        41.244014
+                  ]
+            },
+            {
+                  "name": "Nazarbek addam shurda koldi",
+                  "text": "A local spot in the Nazarbek area of Tashkent, visited for its authentic suburban neighborhood character.",
+                  "category": "landmark",
+                  "coords": [
+                        69.096983,
+                        41.297459
+                  ]
+            },
+            {
+                  "name": "Nasyrkhan",
+                  "text": "A peaceful neighborhood mosque in Tashkent serving the local Muslim community with traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        69.200581,
+                        41.25718
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "A local Friday mosque in Tashkent featuring a traditional courtyard and prayer hall for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.200417,
+                        41.243489
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque SHEIKH MUHAMMAD SADYK MUHAMMAD YUSUF",
+                  "text": "A grand modern mosque in Tashkent opened in 2019, named after the prominent Uzbek theologian.",
+                  "category": "landmark",
+                  "coords": [
+                        69.186444,
+                        41.259283
+                  ]
+            },
+            {
+                  "name": "Ammor ibn Yosir jome’ masjidi",
+                  "text": "A significant Friday mosque in Tashkent known for its elegant minaret and spacious interior.",
+                  "category": "landmark",
+                  "coords": [
+                        69.132744,
+                        41.30255
+                  ]
+            },
+            {
+                  "name": "Umir jome’ masjidi",
+                  "text": "A local mosque in Tashkent characterized by its classic Central Asian design and serene atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        69.138526,
+                        41.267909
+                  ]
+            },
+            {
+                  "name": "TINCHLIK jome masjidi",
+                  "text": "A spiritual center in the Tinchlik area of Tashkent, serving as a hub for Friday prayers and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        69.173877,
+                        41.264723
+                  ]
+            },
+            {
+                  "name": "Beshqo‘rg‘on jome’ masjidi",
+                  "text": "A modern neighborhood mosque in Tashkent featuring traditional Uzbek decorative elements.",
+                  "category": "landmark",
+                  "coords": [
+                        69.164024,
+                        41.232011
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-TK",
     coords: [69.1558, 41.2267],
@@ -471,7 +5934,916 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "maxam-chirchiq-chemical-economic-v2",
+    id: "maxam-chirchiq-chemical-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Indastrial Chirchika (vid poseredine)",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die zentralen Industrieanlagen und Chemiewerke von Tschirtschik.",
+                  "category": "natural",
+                  "coords": [
+                        69.599921,
+                        41.449256
+                  ]
+            },
+            {
+                  "name": "Indastrial Chirchika (vid s iuga)",
+                  "text": "Von hier aus überblickt man die südlichen Industriekomplexe und Fabrikzonen des chemischen Zentrums.",
+                  "category": "natural",
+                  "coords": [
+                        69.597239,
+                        41.445503
+                  ]
+            },
+            {
+                  "name": "ChIRChIK",
+                  "text": "Ein Stadtdenkmal, das das industrielle Erbe und die Entwicklung der Stadt Tschirtschik feiert.",
+                  "category": "historical",
+                  "coords": [
+                        69.544603,
+                        41.435625
+                  ]
+            },
+            {
+                  "name": "Zaxiriddin Muhammad Bobur yodgorligi",
+                  "text": "Ein Denkmal zu Ehren von Babur, dem zentralasiatischen Gründer des Mogulreiches.",
+                  "category": "historical",
+                  "coords": [
+                        69.547904,
+                        41.459553
+                  ]
+            },
+            {
+                  "name": "Indastrial Chirchika (vid s severa)",
+                  "text": "Dieser Punkt bietet eine Aussicht auf die nördlichen Industrieanlagen und das Gebiet am Fluss Tschirtschik.",
+                  "category": "natural",
+                  "coords": [
+                        69.60186,
+                        41.453243
+                  ]
+            },
+            {
+                  "name": "Chirchiq shahar tarixi muzeyi",
+                  "text": "Dieses Museum dokumentiert die Stadtentwicklung und die bedeutende Industriegeschichte von Tschirtschik.",
+                  "category": "museum",
+                  "coords": [
+                        69.585845,
+                        41.466211
+                  ]
+            },
+            {
+                  "name": "Vertolet Mi-24",
+                  "text": "Ein ausgestellter sowjetischer Mi-24-Angriffshubschrauber, der als Denkmal im Freien steht.",
+                  "category": "landmark",
+                  "coords": [
+                        69.583453,
+                        41.502112
+                  ]
+            },
+            {
+                  "name": "Muqaddas \"Troitse Georgiy\" erkaklar monastiri",
+                  "text": "Ein bedeutendes russisch-orthodoxes Kloster in Tschirtschik, das als wichtiges geistliches Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.544925,
+                        41.436996
+                  ]
+            },
+            {
+                  "name": "Qumursqa ota jome’ masjidi",
+                  "text": "Eine lokale Freitagsmoschee mit einer traditionellen Kuppel, die der muslimischen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.633074,
+                        41.448587
+                  ]
+            },
+            {
+                  "name": "Oq ota jome’ masjidi",
+                  "text": "Diese Gemeindemoschee in Tschirtschik zeichnet sich durch ihre typische zentralasiatische Sakralarchitektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        69.599834,
+                        41.428443
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian polnogo Evangeliia goroda Chirchika",
+                  "text": "Ein protestantisches Gotteshaus, das der örtlichen Full-Gospel-Gemeinde als Versammlungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.557034,
+                        41.443947
+                  ]
+            },
+            {
+                  "name": "\"Zal Tsarstva\" Svidetelei Iegovy",
+                  "text": "Der örtliche Königreichssaal, der als Versammlungsstätte für die Gemeinde der Zeugen Jehovas dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.544225,
+                        41.442149
+                  ]
+            },
+            {
+                  "name": "Saksonota jome’ masjidi",
+                  "text": "Eine nach dem lokalen Heiligen Sakson-ota benannte Moschee im Stadtviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        69.581298,
+                        41.416726
+                  ]
+            },
+            {
+                  "name": "Baytqo'rg'on jome' masjidi",
+                  "text": "Eine Freitagsmoschee, die als religiöses Zentrum für die Bewohner des Bezirks Baytqo'rg'on dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.507425,
+                        41.409968
+                  ]
+            },
+            {
+                  "name": "Masat ota jome’ masjidi",
+                  "text": "Diese Moschee im Gebiet Tschirtschik vereint traditionelle architektonische Elemente mit lokaler Bauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        69.605716,
+                        41.454877
+                  ]
+            },
+            {
+                  "name": "Jalayer O‘rta mahalla jome' masjidi",
+                  "text": "Eine Gemeindemoschee, die sich im Herzen des Wohnviertels Jalayer O‘rta mahalla befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.603855,
+                        41.501849
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Ein zentrales islamisches Gebetshaus, das für die wichtigen Freitagsgebete der Stadt genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        69.670529,
+                        41.497049
+                  ]
+            },
+            {
+                  "name": "Xazrat Usmon jome’ masjidi",
+                  "text": "Eine Moschee, die Hazrat Usman gewidmet ist, einem der rechtgeleiteten Kalifen des Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        69.628583,
+                        41.483513
+                  ]
+            },
+            {
+                  "name": "Qizil Qang‘li ota jome’ masjidi",
+                  "text": "Diese religiöse Stätte dient der spirituellen Betreuung der lokalen Qizil-Qang‘li-Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        69.649614,
+                        41.478366
+                  ]
+            },
+            {
+                  "name": "Xamza jome’ masjidi",
+                  "text": "Eine Stadtviertelmoschee, die zu Ehren von Hamza errichtet wurde und der lokalen Nachbarschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.651195,
+                        41.53368
+                  ]
+            },
+            {
+                  "name": "Amir o‘g‘li Xasanboy jome’ masjidi",
+                  "text": "Eine nach Amir o‘g‘li Xasanboy benannte Moschee, die als Treffpunkt für Gläubige dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.534158,
+                        41.44969
+                  ]
+            },
+            {
+                  "name": "Qoravoy ota jome’ masjidi",
+                  "text": "Eine kleine Moschee, die als spirituelles Zentrum für die umliegende Mahalla fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.606373,
+                        41.460381
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Ein geschäftiger lokaler Marktplatz, auf dem Bewohner mit frischen Produkten und Haushaltswaren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        69.54696,
+                        41.458639
+                  ]
+            },
+            {
+                  "name": "Karavan bazar",
+                  "text": "Ein Handelszentrum in Tschirtschik, das für seine Vielfalt an Verkaufsständen und Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.541797,
+                        41.452268
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Ein beliebter Flohmarkt, auf dem Gebrauchtwaren, Werkzeuge und verschiedene Raritäten verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.540277,
+                        41.451836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Indastrial Chirchika (vid poseredine)",
+                  "text": "Ez a kilátópont széles rálátást nyújt Csircsik központi ipari létesítményeire és vegyianyag-gyáraira.",
+                  "category": "natural",
+                  "coords": [
+                        69.599921,
+                        41.449256
+                  ]
+            },
+            {
+                  "name": "Indastrial Chirchika (vid s iuga)",
+                  "text": "Innen rálátás nyílik a vegyipari központ déli ipari komplexumaira és gyárövezeteire.",
+                  "category": "natural",
+                  "coords": [
+                        69.597239,
+                        41.445503
+                  ]
+            },
+            {
+                  "name": "ChIRChIK",
+                  "text": "Csircsik ipari örökségét és fejlődését hirdető városi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        69.544603,
+                        41.435625
+                  ]
+            },
+            {
+                  "name": "Zaxiriddin Muhammad Bobur yodgorligi",
+                  "text": "Babur, a Mogul Birodalom közép-ázsiai származású alapítója előtt tisztelgő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        69.547904,
+                        41.459553
+                  ]
+            },
+            {
+                  "name": "Indastrial Chirchika (vid s severa)",
+                  "text": "Erről a pontról kilátás nyílik az északi ipari létesítményekre és a Csircsik-folyó környékére.",
+                  "category": "natural",
+                  "coords": [
+                        69.60186,
+                        41.453243
+                  ]
+            },
+            {
+                  "name": "Chirchiq shahar tarixi muzeyi",
+                  "text": "Ez a helyi múzeum Csircsik városfejlesztését és jelentős ipartörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.585845,
+                        41.466211
+                  ]
+            },
+            {
+                  "name": "Vertolet Mi-24",
+                  "text": "Egy szabadtéren kiállított szovjet Mi-24-es harci helikopter, amely emlékműként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.583453,
+                        41.502112
+                  ]
+            },
+            {
+                  "name": "Muqaddas \"Troitse Georgiy\" erkaklar monastiri",
+                  "text": "Csircsik jelentős orosz ortodox kolostora, amely a régió fontos szellemi központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        69.544925,
+                        41.436996
+                  ]
+            },
+            {
+                  "name": "Qumursqa ota jome’ masjidi",
+                  "text": "A helyi muszlim közösséget kiszolgáló pénteki mecset hagyományos kupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        69.633074,
+                        41.448587
+                  ]
+            },
+            {
+                  "name": "Oq ota jome’ masjidi",
+                  "text": "Ez a csircsiki közösségi mecset a jellegzetes közép-ázsiai vallási építészetet képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        69.599834,
+                        41.428443
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian polnogo Evangeliia goroda Chirchika",
+                  "text": "Protestáns templom, amely a helyi Full Gospel gyülekezet imaházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.557034,
+                        41.443947
+                  ]
+            },
+            {
+                  "name": "\"Zal Tsarstva\" Svidetelei Iegovy",
+                  "text": "Helyi Királyság-terem, amely a Jehova Tanúi közösség gyülekezeti helyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        69.544225,
+                        41.442149
+                  ]
+            },
+            {
+                  "name": "Saksonota jome’ masjidi",
+                  "text": "A helyi szent alakról, Sakson-otáról elnevezett mecset a városnegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        69.581298,
+                        41.416726
+                  ]
+            },
+            {
+                  "name": "Baytqo'rg'on jome' masjidi",
+                  "text": "A Baytqo'rg'on negyed lakói számára vallási központként szolgáló pénteki mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        69.507425,
+                        41.409968
+                  ]
+            },
+            {
+                  "name": "Masat ota jome’ masjidi",
+                  "text": "Ez a mecset Csircsik környékén a hagyományos építészeti elemeket ötvözi a helyi stílussal.",
+                  "category": "landmark",
+                  "coords": [
+                        69.605716,
+                        41.454877
+                  ]
+            },
+            {
+                  "name": "Jalayer O‘rta mahalla jome' masjidi",
+                  "text": "A Jalayer O‘rta mahalla lakónegyed szívében található közösségi mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        69.603855,
+                        41.501849
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Központi iszlám imaház, amelyet a város fontos pénteki imádságaihoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        69.670529,
+                        41.497049
+                  ]
+            },
+            {
+                  "name": "Xazrat Usmon jome’ masjidi",
+                  "text": "Hazrat Uszman tiszteletére szentelt mecset, aki az iszlám egyik rásidún kalifája volt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.628583,
+                        41.483513
+                  ]
+            },
+            {
+                  "name": "Qizil Qang‘li ota jome’ masjidi",
+                  "text": "Ez a vallási helyszín a helyi Qizil Qang‘li közösség spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        69.649614,
+                        41.478366
+                  ]
+            },
+            {
+                  "name": "Xamza jome’ masjidi",
+                  "text": "A helyi szomszédságot kiszolgáló környékbeli mecset, amelyet Hamza tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.651195,
+                        41.53368
+                  ]
+            },
+            {
+                  "name": "Amir o‘g‘li Xasanboy jome’ masjidi",
+                  "text": "Amir o‘g‘li Xasanboyról elnevezett mecset, amely a hívők találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.534158,
+                        41.44969
+                  ]
+            },
+            {
+                  "name": "Qoravoy ota jome’ masjidi",
+                  "text": "Kisebb mecset, amely a környező mahalla spirituális központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        69.606373,
+                        41.460381
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Nyüzsgő helyi piac, ahol a lakók friss termékekkel és háztartási cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        69.54696,
+                        41.458639
+                  ]
+            },
+            {
+                  "name": "Karavan bazar",
+                  "text": "Csircsiki kereskedelmi központ, amely az elárusítóhelyek és áruk sokszínűségéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.541797,
+                        41.452268
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Népszerű bolhapiac, ahol használt cikkeket, szerszámokat és különféle régiségeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.540277,
+                        41.451836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Indastrial Chirchika (vid poseredine)",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra complexelor industriale centrale și fabricilor chimice din Circiîk.",
+                  "category": "natural",
+                  "coords": [
+                        69.599921,
+                        41.449256
+                  ]
+            },
+            {
+                  "name": "Indastrial Chirchika (vid s iuga)",
+                  "text": "De aici se pot vedea complexele industriale și zonele de fabrici din partea de sud a centrului chimic.",
+                  "category": "natural",
+                  "coords": [
+                        69.597239,
+                        41.445503
+                  ]
+            },
+            {
+                  "name": "ChIRChIK",
+                  "text": "Un monument al orașului care celebrează moștenirea industrială și dezvoltarea localității Circiîk.",
+                  "category": "historical",
+                  "coords": [
+                        69.544603,
+                        41.435625
+                  ]
+            },
+            {
+                  "name": "Zaxiriddin Muhammad Bobur yodgorligi",
+                  "text": "Un monument în cinstea lui Babur, fondatorul Imperiului Mogul, originar din Asia Centrală.",
+                  "category": "historical",
+                  "coords": [
+                        69.547904,
+                        41.459553
+                  ]
+            },
+            {
+                  "name": "Indastrial Chirchika (vid s severa)",
+                  "text": "Acest punct oferă o vedere spre facilitățile industriale din nord și zona râului Circiîk.",
+                  "category": "natural",
+                  "coords": [
+                        69.60186,
+                        41.453243
+                  ]
+            },
+            {
+                  "name": "Chirchiq shahar tarixi muzeyi",
+                  "text": "Acest muzeu documentează dezvoltarea urbană și istoria industrială semnificativă a orașului Circiîk.",
+                  "category": "museum",
+                  "coords": [
+                        69.585845,
+                        41.466211
+                  ]
+            },
+            {
+                  "name": "Vertolet Mi-24",
+                  "text": "Un elicopter de atac sovietic Mi-24 expus în aer liber, care servește ca monument.",
+                  "category": "landmark",
+                  "coords": [
+                        69.583453,
+                        41.502112
+                  ]
+            },
+            {
+                  "name": "Muqaddas \"Troitse Georgiy\" erkaklar monastiri",
+                  "text": "O mănăstire ortodoxă rusă proeminentă din Circiîk, care funcționează ca un important centru spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        69.544925,
+                        41.436996
+                  ]
+            },
+            {
+                  "name": "Qumursqa ota jome’ masjidi",
+                  "text": "O moschee locală de vineri, cu o cupolă tradițională, care deservește comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        69.633074,
+                        41.448587
+                  ]
+            },
+            {
+                  "name": "Oq ota jome’ masjidi",
+                  "text": "Această moschee comunitară din Circiîk prezintă o arhitectură religioasă tipică pentru Asia Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.599834,
+                        41.428443
+                  ]
+            },
+            {
+                  "name": "Tserkov' Khristian polnogo Evangeliia goroda Chirchika",
+                  "text": "Un lăcaș de cult protestant care servește drept loc de întâlnire pentru congregația locală Full Gospel.",
+                  "category": "landmark",
+                  "coords": [
+                        69.557034,
+                        41.443947
+                  ]
+            },
+            {
+                  "name": "\"Zal Tsarstva\" Svidetelei Iegovy",
+                  "text": "Sala Regatului locală, care servește ca loc de întrunire pentru comunitatea Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        69.544225,
+                        41.442149
+                  ]
+            },
+            {
+                  "name": "Saksonota jome’ masjidi",
+                  "text": "O moschee de cartier numită după figura locală sacră Sakson-ota.",
+                  "category": "landmark",
+                  "coords": [
+                        69.581298,
+                        41.416726
+                  ]
+            },
+            {
+                  "name": "Baytqo'rg'on jome' masjidi",
+                  "text": "O moschee de vineri care servește ca centru religios pentru locuitorii districtului Baytqo'rg'on.",
+                  "category": "landmark",
+                  "coords": [
+                        69.507425,
+                        41.409968
+                  ]
+            },
+            {
+                  "name": "Masat ota jome’ masjidi",
+                  "text": "Această moschee din zona Circiîk îmbină elementele arhitecturale tradiționale cu stilul local.",
+                  "category": "landmark",
+                  "coords": [
+                        69.605716,
+                        41.454877
+                  ]
+            },
+            {
+                  "name": "Jalayer O‘rta mahalla jome' masjidi",
+                  "text": "O moschee comunitară situată în inima cartierului rezidențial Jalayer O‘rta mahalla.",
+                  "category": "landmark",
+                  "coords": [
+                        69.603855,
+                        41.501849
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "O casă de rugăciune islamică centrală, folosită pentru rugăciunile importante de vineri ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.670529,
+                        41.497049
+                  ]
+            },
+            {
+                  "name": "Xazrat Usmon jome’ masjidi",
+                  "text": "O moschee dedicată lui Hazrat Usman, unul dintre califii bine-călăuziți ai islamului.",
+                  "category": "landmark",
+                  "coords": [
+                        69.628583,
+                        41.483513
+                  ]
+            },
+            {
+                  "name": "Qizil Qang‘li ota jome’ masjidi",
+                  "text": "Acest lăcaș religios deservește nevoile spirituale ale comunității locale Qizil Qang‘li.",
+                  "category": "landmark",
+                  "coords": [
+                        69.649614,
+                        41.478366
+                  ]
+            },
+            {
+                  "name": "Xamza jome’ masjidi",
+                  "text": "O moschee de cartier construită în onoarea lui Hamza, care deservește vecinătatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.651195,
+                        41.53368
+                  ]
+            },
+            {
+                  "name": "Amir o‘g‘li Xasanboy jome’ masjidi",
+                  "text": "O moschee numită după Amir o‘g‘li Xasanboy, care servește ca loc de întâlnire pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        69.534158,
+                        41.44969
+                  ]
+            },
+            {
+                  "name": "Qoravoy ota jome’ masjidi",
+                  "text": "O moschee mică ce funcționează ca centru spiritual pentru mahala-ua înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        69.606373,
+                        41.460381
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "O piață locală plină de viață, unde locuitorii fac comerț cu produse proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        69.54696,
+                        41.458639
+                  ]
+            },
+            {
+                  "name": "Karavan bazar",
+                  "text": "Un centru comercial în Circiîk, cunoscut pentru varietatea standurilor și a mărfurilor.",
+                  "category": "cultural",
+                  "coords": [
+                        69.541797,
+                        41.452268
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "O piață de vechituri populară, unde se vând bunuri second-hand, unelte și diverse rarități.",
+                  "category": "cultural",
+                  "coords": [
+                        69.540277,
+                        41.451836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Industrial of Chirchik (middle view)",
+                  "text": "This viewpoint offers a wide panorama over the central industrial facilities and chemical plants of Chirchiq.",
+                  "category": "natural",
+                  "coords": [
+                        69.599921,
+                        41.449256
+                  ]
+            },
+            {
+                  "name": "Industrial of Chirchik (south view)",
+                  "text": "This spot overlooks the southern industrial complexes and factory zones of the chemical hub.",
+                  "category": "natural",
+                  "coords": [
+                        69.597239,
+                        41.445503
+                  ]
+            },
+            {
+                  "name": "CHIRCHIK",
+                  "text": "A city monument celebrating the industrial heritage and development of Chirchiq.",
+                  "category": "historical",
+                  "coords": [
+                        69.544603,
+                        41.435625
+                  ]
+            },
+            {
+                  "name": "Babur",
+                  "text": "A monument honoring Babur, the Central Asian founder of the Mughal Empire.",
+                  "category": "historical",
+                  "coords": [
+                        69.547904,
+                        41.459553
+                  ]
+            },
+            {
+                  "name": "Industrial of Chirchik (northern view)",
+                  "text": "This point provides a view of the northern industrial facilities and the Chirchiq River area.",
+                  "category": "natural",
+                  "coords": [
+                        69.60186,
+                        41.453243
+                  ]
+            },
+            {
+                  "name": "Chirchiq shahar tarixi muzeyi",
+                  "text": "This museum chronicles the urban development and significant industrial history of Chirchiq.",
+                  "category": "museum",
+                  "coords": [
+                        69.585845,
+                        41.466211
+                  ]
+            },
+            {
+                  "name": "Mi-24 helicopter",
+                  "text": "An outdoor display of a Soviet-era Mi-24 attack helicopter serving as a monument.",
+                  "category": "landmark",
+                  "coords": [
+                        69.583453,
+                        41.502112
+                  ]
+            },
+            {
+                  "name": "Trinity St. George Monastery",
+                  "text": "A prominent Russian Orthodox monastery in Chirchiq that serves as an important spiritual center.",
+                  "category": "landmark",
+                  "coords": [
+                        69.544925,
+                        41.436996
+                  ]
+            },
+            {
+                  "name": "Qumursqa ota jome’ masjidi",
+                  "text": "A local Friday mosque with a traditional dome serving the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.633074,
+                        41.448587
+                  ]
+            },
+            {
+                  "name": "Akata",
+                  "text": "This community mosque in Chirchiq features typical Central Asian religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        69.599834,
+                        41.428443
+                  ]
+            },
+            {
+                  "name": "Full Gospel Christian Church",
+                  "text": "A Protestant house of worship serving as a meeting place for the local Full Gospel congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        69.557034,
+                        41.443947
+                  ]
+            },
+            {
+                  "name": "\"Zal Tsarstva\" Svidetelei Iegovy",
+                  "text": "The local Kingdom Hall, serving as a meeting place for the Jehovah's Witnesses community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.544225,
+                        41.442149
+                  ]
+            },
+            {
+                  "name": "Saksonota jome’ masjidi",
+                  "text": "A neighborhood mosque named after the local holy figure Sakson-ota.",
+                  "category": "landmark",
+                  "coords": [
+                        69.581298,
+                        41.416726
+                  ]
+            },
+            {
+                  "name": "Baytqo'rg'on jome' masjidi",
+                  "text": "A Friday mosque serving as a religious center for the residents of the Baytqo'rg'on district.",
+                  "category": "landmark",
+                  "coords": [
+                        69.507425,
+                        41.409968
+                  ]
+            },
+            {
+                  "name": "Masat ota jome’ masjidi",
+                  "text": "This mosque in the Chirchiq area combines traditional architectural elements with local building styles.",
+                  "category": "landmark",
+                  "coords": [
+                        69.605716,
+                        41.454877
+                  ]
+            },
+            {
+                  "name": "Jalayer O‘rta mahalla jome' masjidi",
+                  "text": "A community mosque located in the heart of the Jalayer O‘rta mahalla residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        69.603855,
+                        41.501849
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "A central Islamic house of prayer used for the city's important Friday congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.670529,
+                        41.497049
+                  ]
+            },
+            {
+                  "name": "Xazrat Usmon jome’ masjidi",
+                  "text": "A mosque dedicated to Hazrat Usman, one of the Rashidun caliphs of Islam.",
+                  "category": "landmark",
+                  "coords": [
+                        69.628583,
+                        41.483513
+                  ]
+            },
+            {
+                  "name": "Qizil Qang‘li ota jome’ masjidi",
+                  "text": "This religious site serves the spiritual needs of the local Qizil Qang‘li community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.649614,
+                        41.478366
+                  ]
+            },
+            {
+                  "name": "Xamza jome’ masjidi",
+                  "text": "A neighborhood mosque built in honor of Hamza, serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        69.651195,
+                        41.53368
+                  ]
+            },
+            {
+                  "name": "Amir o‘g‘li Xasanboy jome’ masjidi",
+                  "text": "A mosque named after Amir o‘g‘li Xasanboy, serving as a gathering place for the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        69.534158,
+                        41.44969
+                  ]
+            },
+            {
+                  "name": "Qoravoy ota jome’ masjidi",
+                  "text": "A small mosque that functions as a spiritual center for the surrounding mahalla.",
+                  "category": "landmark",
+                  "coords": [
+                        69.606373,
+                        41.460381
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "A bustling local marketplace where residents trade fresh produce and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.54696,
+                        41.458639
+                  ]
+            },
+            {
+                  "name": "Karavan bazar",
+                  "text": "A commercial hub in Chirchiq known for its wide variety of stalls and trade goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.541797,
+                        41.452268
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "A popular flea market where second-hand goods, tools, and various curiosities are sold.",
+                  "category": "cultural",
+                  "coords": [
+                        69.540277,
+                        41.451836
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-TO",
     coords: [69.5822, 41.4681],
@@ -507,7 +6879,628 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "termez-river-port-economic-v2",
+    id: "termez-river-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruiny",
+                  "text": "Antike Ruinen in Termez, die Zeugnis von der jahrtausendealten Siedlungsgeschichte am Fluss Amu Darja ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        67.310973,
+                        37.259284
+                  ]
+            },
+            {
+                  "name": "Arxiv",
+                  "text": "Das Staatsarchiv von Termez, ein wichtiges Dokumentationszentrum für die reiche Geschichte der Region Surxondaryo.",
+                  "category": "landmark",
+                  "coords": [
+                        67.266439,
+                        37.229635
+                  ]
+            },
+            {
+                  "name": "Kurantlar",
+                  "text": "Ein markanter Uhrturm in Termez, der als Orientierungspunkt im Stadtzentrum und beliebtes Fotomotiv dient.",
+                  "category": "historical",
+                  "coords": [
+                        67.279544,
+                        37.236261
+                  ]
+            },
+            {
+                  "name": "Motamsaro Ona Khaikali",
+                  "text": "Ein Denkmal in Termez, das der trauernden Mutter gewidmet ist und an die Opfer vergangener Kriege erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        67.288169,
+                        37.240863
+                  ]
+            },
+            {
+                  "name": "Termiz Arxeologiya Muzeyi",
+                  "text": "Ein bedeutendes Museum in Termez, das seltene buddhistische Artefakte und griechisch-baktrische Schätze aus der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        67.282648,
+                        37.244269
+                  ]
+            },
+            {
+                  "name": "Hayvonot bogi",
+                  "text": "Der Zoo von Termez, in dem Besucher die einheimische Fauna Zentralasiens und exotische Tiere beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        67.257352,
+                        37.215008
+                  ]
+            },
+            {
+                  "name": "Qog'irchoq teatri",
+                  "text": "Ein traditionelles Puppentheater in Termez, das mit seinen Aufführungen besonders junge Besucher und Familien begeistert.",
+                  "category": "cultural",
+                  "coords": [
+                        67.271514,
+                        37.215223
+                  ]
+            },
+            {
+                  "name": "Do'stlik istirohat bog'i",
+                  "text": "Der 'Freundschaftspark' in Termez, ein beliebter Freizeitpark mit Fahrgeschäften und Grünanlagen für die lokale Bevölkerung.",
+                  "category": "recreational",
+                  "coords": [
+                        67.285639,
+                        37.240945
+                  ]
+            },
+            {
+                  "name": "Amudaryo dam olish maskani",
+                  "text": "Ein Erholungsgebiet am Ufer des Amu Darja, das Möglichkeiten zur Entspannung am mächtigen Grenzfluss bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        67.313122,
+                        37.232874
+                  ]
+            },
+            {
+                  "name": "Byvshii Kazanskii molitvennyi dom",
+                  "text": "Ein ehemaliges russisch-orthodoxes Gebetshaus in Termez, das an die koloniale Architektur des späten 19. Jahrhunderts erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        67.268658,
+                        37.211885
+                  ]
+            },
+            {
+                  "name": "MANGUZAR jom'e masjidi",
+                  "text": "Die Manguzar-Kathedralmoschee in Termez, ein imposantes muslimisches Gotteshaus mit moderner islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        67.324202,
+                        37.247081
+                  ]
+            },
+            {
+                  "name": "Al-Hakim At-Tirmizi-Kathedralenmoschee",
+                  "text": "Eine bedeutende Moschee in Termez, die nach dem berühmten Gelehrten Al-Hakim At-Tirmizi benannt und ein wichtiges Pilgerziel ist.",
+                  "category": "landmark",
+                  "coords": [
+                        67.257718,
+                        37.233225
+                  ]
+            },
+            {
+                  "name": "Murjbobo jom`e masjidi",
+                  "text": "Die Murjbobo-Freitagsmoschee in Termez, ein lokales religiöses Zentrum, das für seine traditionelle Gestaltung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        67.282554,
+                        37.207841
+                  ]
+            },
+            {
+                  "name": "Dehqon bozoir",
+                  "text": "Der Dehqon-Markt in Termez, ein lebhafter Bauernmarkt, auf dem frisches Obst, Gemüse und Gewürze der Region verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        67.275291,
+                        37.211533
+                  ]
+            },
+            {
+                  "name": "YASHIL DUNYO markaziy dehqon bozori",
+                  "text": "Ein moderner Marktplatz in Termez, der eine breite Palette an Konsumgütern und Lebensmitteln in zentraler Lage bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        67.30891,
+                        37.247634
+                  ]
+            },
+            {
+                  "name": "Qurilish bozori",
+                  "text": "Ein spezialisierter Baumarkt in Termez, der als zentraler Handelsplatz für Baumaterialien und Werkzeuge dient.",
+                  "category": "cultural",
+                  "coords": [
+                        67.301439,
+                        37.220388
+                  ]
+            },
+            {
+                  "name": "Mol bozor",
+                  "text": "Ein traditioneller Viehmarkt in Termez, auf dem Bauern aus der Umgebung ihre Tiere nach alter Tradition handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        67.325611,
+                        37.236371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruiny",
+                  "text": "Termez ősi romjai, amelyek az Amu-darja folyó menti több ezer éves településtörténetről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        67.310973,
+                        37.259284
+                  ]
+            },
+            {
+                  "name": "Arxiv",
+                  "text": "Termez állami archívuma, amely a Surxondaryo régió gazdag történelmének fontos dokumentációs központja.",
+                  "category": "landmark",
+                  "coords": [
+                        67.266439,
+                        37.229635
+                  ]
+            },
+            {
+                  "name": "Kurantlar",
+                  "text": "Termez jellegzetes óratornya, amely a városközpont tájékozódási pontjaként és népszerű fotótémaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        67.279544,
+                        37.236261
+                  ]
+            },
+            {
+                  "name": "Motamsaro Ona Khaikali",
+                  "text": "Termezi emlékmű, amelyet a gyászoló anyának szenteltek, emléket állítva a múltbeli háborúk áldozatainak.",
+                  "category": "landmark",
+                  "coords": [
+                        67.288169,
+                        37.240863
+                  ]
+            },
+            {
+                  "name": "Termiz Arxeologiya Muzeyi",
+                  "text": "Termez jelentős múzeuma, amely a régióból származó ritka buddhista leleteket és görög-baktriai kincseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        67.282648,
+                        37.244269
+                  ]
+            },
+            {
+                  "name": "Hayvonot bogi",
+                  "text": "Termez állatkertje, ahol a látogatók Közép-Ázsia őshonos faunáját és egzotikus állatokat is megtekinthetik.",
+                  "category": "recreational",
+                  "coords": [
+                        67.257352,
+                        37.215008
+                  ]
+            },
+            {
+                  "name": "Qog'irchoq teatri",
+                  "text": "Hagyományos bábszínház Termezben, amely előadásaival különösen a fiatal látogatókat és a családokat várja.",
+                  "category": "cultural",
+                  "coords": [
+                        67.271514,
+                        37.215223
+                  ]
+            },
+            {
+                  "name": "Do'stlik istirohat bog'i",
+                  "text": "A termezi 'Barátság park', egy népszerű vidámpark játékokkal és zöldfelületekkel a helyi lakosok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        67.285639,
+                        37.240945
+                  ]
+            },
+            {
+                  "name": "Amudaryo dam olish maskani",
+                  "text": "Pihenőhely az Amu-darja partján, amely kikapcsolódási lehetőséget kínál a hatalmas határfolyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        67.313122,
+                        37.232874
+                  ]
+            },
+            {
+                  "name": "Byvshii Kazanskii molitvennyi dom",
+                  "text": "Egykori orosz ortodox imaház Termezben, amely a 19. század végi gyarmati építészetre emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        67.268658,
+                        37.211885
+                  ]
+            },
+            {
+                  "name": "MANGUZAR jom'e masjidi",
+                  "text": "A termezi Manguzar-székesmecset, egy impozáns muszlim imaház modern iszlám építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        67.324202,
+                        37.247081
+                  ]
+            },
+            {
+                  "name": "Hakim at-Termiziy jom`e masjidi",
+                  "text": "Jelentős mecset Termezben, amely a híres tudós, Al-Hakim At-Tirmizi nevét viseli, és fontos zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        67.257718,
+                        37.233225
+                  ]
+            },
+            {
+                  "name": "Murjbobo jom`e masjidi",
+                  "text": "A termezi Murjbobo pénteki mecset, egy hagyományos kialakításáról ismert helyi vallási központ.",
+                  "category": "landmark",
+                  "coords": [
+                        67.282554,
+                        37.207841
+                  ]
+            },
+            {
+                  "name": "Dehqon bozoir",
+                  "text": "A termezi Dehqon piac, egy pezsgő őstermelői piac, ahol a régió friss gyümölcseit, zöldségeit és fűszereit árusítják.",
+                  "category": "cultural",
+                  "coords": [
+                        67.275291,
+                        37.211533
+                  ]
+            },
+            {
+                  "name": "YASHIL DUNYO markaziy dehqon bozori",
+                  "text": "Modern piaci központ Termezben, amely fogyasztási cikkek és élelmiszerek széles választékát kínálja központi helyen.",
+                  "category": "cultural",
+                  "coords": [
+                        67.30891,
+                        37.247634
+                  ]
+            },
+            {
+                  "name": "Qurilish bozori",
+                  "text": "Speciális építőanyag-piac Termezben, amely az építkezési anyagok és szerszámok központi kereskedelmi helye.",
+                  "category": "cultural",
+                  "coords": [
+                        67.301439,
+                        37.220388
+                  ]
+            },
+            {
+                  "name": "Mol bozor",
+                  "text": "Hagyományos állatvásár Termezben, ahol a környékbeli gazdák régi szokások szerint kereskednek állataikkal.",
+                  "category": "cultural",
+                  "coords": [
+                        67.325611,
+                        37.236371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruiny",
+                  "text": "Ruine antice din Termez, care stau mărturie pentru istoria milenară a așezărilor de-a lungul râului Amu Darya.",
+                  "category": "historical",
+                  "coords": [
+                        67.310973,
+                        37.259284
+                  ]
+            },
+            {
+                  "name": "Arxiv",
+                  "text": "Arhiva de stat din Termez, un centru important de documentare pentru istoria bogată a regiunii Surxondaryo.",
+                  "category": "landmark",
+                  "coords": [
+                        67.266439,
+                        37.229635
+                  ]
+            },
+            {
+                  "name": "Kurantlar",
+                  "text": "Un turn cu ceas distinctiv din Termez, care servește ca punct de orientare în centrul orașului și motiv fotografic popular.",
+                  "category": "historical",
+                  "coords": [
+                        67.279544,
+                        37.236261
+                  ]
+            },
+            {
+                  "name": "Motamsaro Ona Khaikali",
+                  "text": "Un monument din Termez dedicat mamei îndurerate, ridicat în memoria victimelor războaielor trecute.",
+                  "category": "landmark",
+                  "coords": [
+                        67.288169,
+                        37.240863
+                  ]
+            },
+            {
+                  "name": "Termiz Arxeologiya Muzeyi",
+                  "text": "Un muzeu important din Termez, care expune artefacte budiste rare și comori greco-bactriene din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        67.282648,
+                        37.244269
+                  ]
+            },
+            {
+                  "name": "Hayvonot bogi",
+                  "text": "Grădina zoologică din Termez, unde vizitatorii pot observa fauna nativă a Asiei Centrale și animale exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        67.257352,
+                        37.215008
+                  ]
+            },
+            {
+                  "name": "Qog'irchoq teatri",
+                  "text": "Un teatru tradițional de păpuși din Termez, care încântă în special vizitatorii tineri și familiile cu spectacolele sale.",
+                  "category": "cultural",
+                  "coords": [
+                        67.271514,
+                        37.215223
+                  ]
+            },
+            {
+                  "name": "Do'stlik istirohat bog'i",
+                  "text": "Parcul 'Prieteniei' din Termez, un parc de distracții popular cu atracții și spații verzi pentru localnici.",
+                  "category": "recreational",
+                  "coords": [
+                        67.285639,
+                        37.240945
+                  ]
+            },
+            {
+                  "name": "Amudaryo dam olish maskani",
+                  "text": "O zonă de recreere pe malul râului Amu Darya, oferind oportunități de relaxare lângă impunătorul fluviu de frontieră.",
+                  "category": "recreational",
+                  "coords": [
+                        67.313122,
+                        37.232874
+                  ]
+            },
+            {
+                  "name": "Byvshii Kazanskii molitvennyi dom",
+                  "text": "O fostă casă de rugăciune ortodoxă rusă din Termez, care amintește de arhitectura colonială de la sfârșitul secolului al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        67.268658,
+                        37.211885
+                  ]
+            },
+            {
+                  "name": "MANGUZAR jom'e masjidi",
+                  "text": "Marea moschee catedrală Manguzar din Termez, un lăcaș de cult musulman impunător cu arhitectură islamică modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        67.324202,
+                        37.247081
+                  ]
+            },
+            {
+                  "name": "Hakim at-Termiziy jom`e masjidi",
+                  "text": "O moschee importantă din Termez, numită după faimosul învățat Al-Hakim At-Tirmizi, fiind un important loc de pelerinaj.",
+                  "category": "landmark",
+                  "coords": [
+                        67.257718,
+                        37.233225
+                  ]
+            },
+            {
+                  "name": "Murjbobo jom`e masjidi",
+                  "text": "Moscheea de vineri Murjbobo din Termez, un centru religios local cunoscut pentru designul său tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        67.282554,
+                        37.207841
+                  ]
+            },
+            {
+                  "name": "Dehqon bozoir",
+                  "text": "Piața Dehqon din Termez, o piață agricolă plină de viață, unde se vând fructe proaspete, legume și condimente din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        67.275291,
+                        37.211533
+                  ]
+            },
+            {
+                  "name": "YASHIL DUNYO markaziy dehqon bozori",
+                  "text": "O piață modernă în Termez, care oferă o gamă largă de bunuri de consum și alimente într-o locație centrală.",
+                  "category": "cultural",
+                  "coords": [
+                        67.30891,
+                        37.247634
+                  ]
+            },
+            {
+                  "name": "Qurilish bozori",
+                  "text": "O piață specializată de construcții în Termez, care servește ca centru comercial pentru materiale și unelte de construcții.",
+                  "category": "cultural",
+                  "coords": [
+                        67.301439,
+                        37.220388
+                  ]
+            },
+            {
+                  "name": "Mol bozor",
+                  "text": "O piață tradițională de animale în Termez, unde fermierii din împrejurimi își comercializează animalele conform tradiției.",
+                  "category": "cultural",
+                  "coords": [
+                        67.325611,
+                        37.236371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruiny",
+                  "text": "Ancient ruins in Termez that bear witness to the millennial history of settlement along the Amu Darya river.",
+                  "category": "historical",
+                  "coords": [
+                        67.310973,
+                        37.259284
+                  ]
+            },
+            {
+                  "name": "Arxiv",
+                  "text": "The state archive of Termez, an important documentation center for the rich history of the Surxondaryo region.",
+                  "category": "landmark",
+                  "coords": [
+                        67.266439,
+                        37.229635
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "A distinctive clocktower in Termez that serves as a central landmark and a popular spot for photography.",
+                  "category": "historical",
+                  "coords": [
+                        67.279544,
+                        37.236261
+                  ]
+            },
+            {
+                  "name": "Motamsaro Ona Khaikali",
+                  "text": "A monument in Termez dedicated to the 'Mourning Mother', commemorating the victims of past wars.",
+                  "category": "landmark",
+                  "coords": [
+                        67.288169,
+                        37.240863
+                  ]
+            },
+            {
+                  "name": "Termez Archaeological Museum",
+                  "text": "An important museum in Termez displaying rare Buddhist artifacts and Greco-Bactrian treasures found in the region.",
+                  "category": "museum",
+                  "coords": [
+                        67.282648,
+                        37.244269
+                  ]
+            },
+            {
+                  "name": "Hayvonot bogi",
+                  "text": "The Termez Zoo, where visitors can observe Central Asian native fauna alongside exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        67.257352,
+                        37.215008
+                  ]
+            },
+            {
+                  "name": "Qog'irchoq teatri",
+                  "text": "A traditional puppet theater in Termez that delights young visitors and families with its performances.",
+                  "category": "cultural",
+                  "coords": [
+                        67.271514,
+                        37.215223
+                  ]
+            },
+            {
+                  "name": "Do'stlik istirohat bog'i",
+                  "text": "The 'Friendship' park in Termez, a popular amusement park with rides and green spaces for the local community.",
+                  "category": "recreational",
+                  "coords": [
+                        67.285639,
+                        37.240945
+                  ]
+            },
+            {
+                  "name": "Amudaryo dam olish maskani",
+                  "text": "A recreation area on the banks of the Amu Darya, offering spots for relaxation along the mighty border river.",
+                  "category": "recreational",
+                  "coords": [
+                        67.313122,
+                        37.232874
+                  ]
+            },
+            {
+                  "name": "Byvshii Kazanskii molitvennyi dom",
+                  "text": "A former Russian Orthodox prayer house in Termez, reflecting late 19th-century colonial architectural styles.",
+                  "category": "landmark",
+                  "coords": [
+                        67.268658,
+                        37.211885
+                  ]
+            },
+            {
+                  "name": "Cathedral mosque MANGUZAR",
+                  "text": "The Manguzar Cathedral Mosque in Termez, an imposing Muslim place of worship featuring modern Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        67.324202,
+                        37.247081
+                  ]
+            },
+            {
+                  "name": "Al-Hakim At-Tirmizi Cathedral Mosque",
+                  "text": "A major mosque in Termez named after the famous scholar Al-Hakim At-Tirmizi, serving as a significant pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        67.257718,
+                        37.233225
+                  ]
+            },
+            {
+                  "name": "Murjbobo jom`e masjidi",
+                  "text": "The Murjbobo Friday mosque in Termez, a local religious center known for its traditional design.",
+                  "category": "landmark",
+                  "coords": [
+                        67.282554,
+                        37.207841
+                  ]
+            },
+            {
+                  "name": "Dehqon bozoir",
+                  "text": "The Dehqon market in Termez, a lively farmers' market selling fresh fruits, vegetables, and spices from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        67.275291,
+                        37.211533
+                  ]
+            },
+            {
+                  "name": "YASHIL DUNYO",
+                  "text": "A modern marketplace in Termez offering a wide range of consumer goods and food items in a central location.",
+                  "category": "cultural",
+                  "coords": [
+                        67.30891,
+                        37.247634
+                  ]
+            },
+            {
+                  "name": "Qurilish bozori",
+                  "text": "A specialized construction market in Termez, serving as a central hub for building materials and tools.",
+                  "category": "cultural",
+                  "coords": [
+                        67.301439,
+                        37.220388
+                  ]
+            },
+            {
+                  "name": "Mol bozor",
+                  "text": "A traditional livestock market in Termez, where local farmers trade animals following age-old customs.",
+                  "category": "cultural",
+                  "coords": [
+                        67.325611,
+                        37.236371
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "UZ-SU",
     coords: [67.2764, 37.2147],
@@ -543,7 +7536,340 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "navoi-free-economic-zone-economic-v2",
+    id: "navoi-free-economic-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Navoiy viloyati tarixi va madaniyati davlat muzeyi",
+                  "text": "Dieses bedeutende Regionalmuseum in Navoi bewahrt eine umfangreiche Sammlung von Artefakten auf, die die reiche Kulturgeschichte der Region dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        65.366685,
+                        40.129484
+                  ]
+            },
+            {
+                  "name": "dakha Abdulakhadkhona",
+                  "text": "Diese bemerkenswerte historische Attraktion, die traditionelle regionale Architektur zeigt, ist ein bedeutendes kulturelles Wahrzeichen in der Gegend von Navoi.",
+                  "category": "landmark",
+                  "coords": [
+                        65.367228,
+                        40.133142
+                  ]
+            },
+            {
+                  "name": "Mirzochorbog'",
+                  "text": "Diese historische lokale Attraktion in Navoi wurde Anfang 1905 gegründet und bietet einen Einblick in das Erbe der Region aus dem frühen 20. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        65.37144,
+                        40.15193
+                  ]
+            },
+            {
+                  "name": "DO'RMON jom`e masjidi",
+                  "text": "Diese Kathedralmoschee ist ein bedeutendes muslimisches Religionszentrum in der Region Navoi und bietet einen großen Versammlungsraum für Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        65.256209,
+                        40.137025
+                  ]
+            },
+            {
+                  "name": "XO'JA SABR OTA jom`e masjidi",
+                  "text": "Die Khoja Sabr Ota Kathedralmoschee dient als muslimische Gebetsstätte in der Sonderwirtschaftszone Navoi.",
+                  "category": "landmark",
+                  "coords": [
+                        65.306349,
+                        40.151482
+                  ]
+            },
+            {
+                  "name": "XO'JA SABR OTA jom`e masjidi",
+                  "text": "Die Khuzha Sabr Ata Kathedralmoschee ist ein muslimisches Heiligtum in der Sonderwirtschaftszone Navoi.",
+                  "category": "landmark",
+                  "coords": [
+                        65.308547,
+                        40.145854
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Barakholka ist ein belebter Marktplatz für Waren in der Sonderwirtschaftszone Navoi.",
+                  "category": "cultural",
+                  "coords": [
+                        65.351742,
+                        40.122035
+                  ]
+            },
+            {
+                  "name": "Karmana Bazar",
+                  "text": "Karmana Bazar ist ein lokaler Marktplatz für den Warenhandel in der Sonderwirtschaftszone Navoi.",
+                  "category": "cultural",
+                  "coords": [
+                        65.365608,
+                        40.141848
+                  ]
+            },
+            {
+                  "name": "Molbozor",
+                  "text": "Molbozor fungiert als Marktplatz für das Gebiet der Sonderwirtschaftszone Navoi.",
+                  "category": "cultural",
+                  "coords": [
+                        65.347539,
+                        40.152845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Navoiy viloyati tarixi va madaniyati davlat muzeyi",
+                  "text": "Ez a jelentős navoii regionális múzeum a terület gazdag kultúrtörténetét bemutató műtárgyak kiterjedt gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        65.366685,
+                        40.129484
+                  ]
+            },
+            {
+                  "name": "dakha Abdulakhadkhona",
+                  "text": "A hagyományos regionális építészetet bemutató nevezetes történelmi látványosság Navoi térségének jelentős kulturális nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        65.367228,
+                        40.133142
+                  ]
+            },
+            {
+                  "name": "Mirzochorbog'",
+                  "text": "Az 1905 elején alapított navoii történelmi helyi látványosság bepillantást enged a régió kora 20. századi örökségébe.",
+                  "category": "landmark",
+                  "coords": [
+                        65.37144,
+                        40.15193
+                  ]
+            },
+            {
+                  "name": "DO'RMON jom`e masjidi",
+                  "text": "A Navoi régió kiemelkedő muszlim vallási központjaként működő katedrális mecset tágas gyülekezeti teret biztosít az imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        65.256209,
+                        40.137025
+                  ]
+            },
+            {
+                  "name": "XO'JA SABR OTA jom`e masjidi",
+                  "text": "A Khoja Sabr Ota katedrális mecset muszlim istentiszteleti helyként szolgál a Navoi Szabadgazdasági Övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        65.306349,
+                        40.151482
+                  ]
+            },
+            {
+                  "name": "XO'JA SABR OTA jom`e masjidi",
+                  "text": "A Khuzha Sabr Ata katedrális mecset egy muszlim szentély a Navoi Szabadgazdasági Övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        65.308547,
+                        40.145854
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "A Barakholka egy nyüzsgő piactér a Navoi Szabadgazdasági Övezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        65.351742,
+                        40.122035
+                  ]
+            },
+            {
+                  "name": "Karmana Bazar",
+                  "text": "A Karmana Bazar egy helyi piactér, ahol árukat cserélnek a Navoi Szabadgazdasági Övezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        65.365608,
+                        40.141848
+                  ]
+            },
+            {
+                  "name": "Molbozor",
+                  "text": "A Molbozor piactérként működik, amely a Navoi Szabadgazdasági Övezetet szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        65.347539,
+                        40.152845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Navoiy viloyati tarixi va madaniyati davlat muzeyi",
+                  "text": "Acest important muzeu regional din Navoi păstrează o colecție vastă de artefacte care detaliază istoria culturală bogată a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        65.366685,
+                        40.129484
+                  ]
+            },
+            {
+                  "name": "dakha Abdulakhadkhona",
+                  "text": "Prezentând arhitectura regională tradițională, această atracție istorică notabilă este un punct de reper cultural semnificativ în zona Navoi.",
+                  "category": "landmark",
+                  "coords": [
+                        65.367228,
+                        40.133142
+                  ]
+            },
+            {
+                  "name": "Mirzochorbog'",
+                  "text": "Înființată la începutul anului 1905, această atracție istorică locală din Navoi oferă o privire asupra moștenirii de la începutul secolului al XX-lea a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        65.37144,
+                        40.15193
+                  ]
+            },
+            {
+                  "name": "DO'RMON jom`e masjidi",
+                  "text": "Funcționând ca un important centru religios musulman în regiunea Navoi, această moschee catedrală oferă un spațiu de congregație generos pentru rugăciuni.",
+                  "category": "landmark",
+                  "coords": [
+                        65.256209,
+                        40.137025
+                  ]
+            },
+            {
+                  "name": "XO'JA SABR OTA jom`e masjidi",
+                  "text": "Moscheea Catedrală Khoja Sabr Ota servește drept lăcaș de cult musulman în Zona Economică Liberă Navoi.",
+                  "category": "landmark",
+                  "coords": [
+                        65.306349,
+                        40.151482
+                  ]
+            },
+            {
+                  "name": "XO'JA SABR OTA jom`e masjidi",
+                  "text": "Moscheea Catedrală Khuzha Sabr Ata este un sanctuar musulman situat în Zona Economică Liberă Navoi.",
+                  "category": "landmark",
+                  "coords": [
+                        65.308547,
+                        40.145854
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Barakholka este o piață plină de viață situată în Zona Economică Liberă Navoi.",
+                  "category": "cultural",
+                  "coords": [
+                        65.351742,
+                        40.122035
+                  ]
+            },
+            {
+                  "name": "Karmana Bazar",
+                  "text": "Karmana Bazar este o piață locală unde se tranzacționează bunuri în Zona Economică Liberă Navoi.",
+                  "category": "cultural",
+                  "coords": [
+                        65.365608,
+                        40.141848
+                  ]
+            },
+            {
+                  "name": "Molbozor",
+                  "text": "Molbozor funcționează ca o piață care deservește zona Zonei Economice Libere Navoi.",
+                  "category": "cultural",
+                  "coords": [
+                        65.347539,
+                        40.152845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The State Museum of History and Culture of Navoi Region",
+                  "text": "This major regional museum in Navoi preserves an extensive collection of artifacts detailing the area's rich cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        65.366685,
+                        40.129484
+                  ]
+            },
+            {
+                  "name": "dakha Abdulakhadkhona",
+                  "text": "Showcasing traditional regional architecture, this notable historic attraction is a significant cultural landmark in the Navoi area.",
+                  "category": "landmark",
+                  "coords": [
+                        65.367228,
+                        40.133142
+                  ]
+            },
+            {
+                  "name": "Mirzaxharbog",
+                  "text": "Established in the beginning of 1905, this historic local attraction in Navoi offers a glimpse into the region's early 20th-century heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        65.37144,
+                        40.15193
+                  ]
+            },
+            {
+                  "name": "Cathedral mosque DURMAN",
+                  "text": "Operating as a prominent Muslim religious center in the Navoi region, this cathedral mosque provides a large congregational space for prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        65.256209,
+                        40.137025
+                  ]
+            },
+            {
+                  "name": "Cathedral mosque KHOJA SABR OTA",
+                  "text": "The Khoja Sabr Ota Cathedral Mosque serves as a Muslim place of worship in the Navoi Free Economic Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        65.306349,
+                        40.151482
+                  ]
+            },
+            {
+                  "name": "Cathedral Mosque KHUZHA SABR ATA",
+                  "text": "The Khuzha Sabr Ata Cathedral Mosque is a Muslim sanctuary located within the Navoi Free Economic Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        65.308547,
+                        40.145854
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Barakholka is a bustling marketplace located in the Navoi Free Economic Zone.",
+                  "category": "cultural",
+                  "coords": [
+                        65.351742,
+                        40.122035
+                  ]
+            },
+            {
+                  "name": "Karmana Bazar",
+                  "text": "Karmana Bazar is a local marketplace where goods are traded in the Navoi Free Economic Zone.",
+                  "category": "cultural",
+                  "coords": [
+                        65.365608,
+                        40.141848
+                  ]
+            },
+            {
+                  "name": "Molbozor",
+                  "text": "Molbozor operates as a marketplace serving the Navoi Free Economic Zone area.",
+                  "category": "cultural",
+                  "coords": [
+                        65.347539,
+                        40.152845
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-NW",
     coords: [65.3400, 40.1200],
@@ -651,7 +7977,952 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "samauto-factory-economic-v2",
+    id: "samauto-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Byvshii Molitvennyi dom 1924",
+                  "text": "Ein im Jahr 1924 errichtetes historisches Backsteingebäude, das ursprünglich als religiöses Gebetshaus diente.",
+                  "category": "landmark",
+                  "coords": [
+                        66.932402,
+                        39.688625
+                  ]
+            },
+            {
+                  "name": "Samarkand Amusement Park",
+                  "text": "Ein zentraler Erholungspark in Samarkand mit Fahrgeschäften, Karussells und Grünanlagen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        66.930484,
+                        39.67642
+                  ]
+            },
+            {
+                  "name": "Byvshaia Nikol'skaia Tserkov' (posle 1963 det sad)",
+                  "text": "Ehemalige St.-Nikolaus-Kirche, die nach 1963 in einen Kindergarten umgewandelt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        66.933782,
+                        39.687894
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Ein lokales Museum, das Artefakte zur industriellen Entwicklung dieser Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        66.9276,
+                        39.666728
+                  ]
+            },
+            {
+                  "name": "Samarqand viloyat rus drama teatri",
+                  "text": "Regionales russisches Dramatheater, das für seine Aufführungen klassischer Literatur bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        66.924231,
+                        39.652046
+                  ]
+            },
+            {
+                  "name": "Panjob masjidi",
+                  "text": "Diese historische Moschee wurde 1889 erbaut und dient der schiitischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        66.928778,
+                        39.644112
+                  ]
+            },
+            {
+                  "name": "Kontsertnyi zal",
+                  "text": "Ein moderner Konzertsaal, in dem regelmäßig lokale Musikfestivals und kulturelle Abende stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        66.942523,
+                        39.658628
+                  ]
+            },
+            {
+                  "name": "Afsona AquaPark",
+                  "text": "Ein weitläufiger Wasserpark mit zahlreichen Rutschen und Erholungsbecken für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        66.948116,
+                        39.656559
+                  ]
+            },
+            {
+                  "name": "Ikkinchi jahon urushidagi Samarqand askarlari xotirasi",
+                  "text": "Dieses Denkmal ehrt die Soldaten aus Samarkand, die im Zweiten Weltkrieg gekämpft haben.",
+                  "category": "historical",
+                  "coords": [
+                        66.95021,
+                        39.655515
+                  ]
+            },
+            {
+                  "name": "Lahutiy jom`e masjidi",
+                  "text": "Diese Moschee ist nach dem berühmten persisch-tadschikischen Dichter Lahuti benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        66.944707,
+                        39.666089
+                  ]
+            },
+            {
+                  "name": "Murod Avliyo masjidi",
+                  "text": "Eine traditionelle Moschee im Viertel, die als wichtiger religiöser Treffpunkt für Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        66.929525,
+                        39.667744
+                  ]
+            },
+            {
+                  "name": "DAMARIQ jom`e masjidi",
+                  "text": "Zentrale Kathedralmoschee des Damarikh-Viertels mit einer großen Gebetshalle für Freitagsgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        66.917399,
+                        39.66523
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Eine Freitagsmoschee, die einen zentralen Versammlungsort für die muslimische Gemeinde bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        66.833103,
+                        39.676736
+                  ]
+            },
+            {
+                  "name": "\"Dyail\" Xristian Protestant Cherkovi",
+                  "text": "Eine protestantische Kirche, die als geistliches Zentrum für die christliche Gemeinde vor Ort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        66.923612,
+                        39.646006
+                  ]
+            },
+            {
+                  "name": "Xo'ja Abdu Mo'min jom'e masjid",
+                  "text": "Eine lokale Moschee, die der Verehrung des Sufi-Meisters Khodja Abdu Mumin gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        66.919953,
+                        39.635114
+                  ]
+            },
+            {
+                  "name": "MEChET'",
+                  "text": "Ein ruhiges islamisches Gebetshaus, das tief in die Wohnstruktur des Viertels eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        66.921198,
+                        39.704607
+                  ]
+            },
+            {
+                  "name": "Namozgoh jom`e masjidi",
+                  "text": "Eine Namazgah-Moschee, die traditionell für große religiöse Versammlungen im Freien genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        66.865019,
+                        39.683967
+                  ]
+            },
+            {
+                  "name": "DARG'OM jom`e masjidi",
+                  "text": "Hauptmoschee des Damgom-Bezirks, bekannt für ihre Gemeinschaftsarbeit und Freitagszeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        66.852193,
+                        39.669752
+                  ]
+            },
+            {
+                  "name": "Temiry'ol bozori",
+                  "text": "Ein lebhafter Markt in der Nähe des Bahnhofs, auf dem frisches Obst und Haushaltswaren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        66.929796,
+                        39.68255
+                  ]
+            },
+            {
+                  "name": "BAM RYNOK",
+                  "text": "Großer lokaler Basar im BAM-Viertel, ein wichtiger Handelsknotenpunkt für Textilien und Gewürze.",
+                  "category": "cultural",
+                  "coords": [
+                        66.859042,
+                        39.669903
+                  ]
+            },
+            {
+                  "name": "Tabiat Saxovati Eko Bozori",
+                  "text": "Ein spezialisierter Öko-Markt, der biologische Produkte von regionalen Bauernhöfen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        66.918528,
+                        39.636936
+                  ]
+            },
+            {
+                  "name": "Aziz bozor",
+                  "text": "Ein traditioneller Nachbarschaftsmarkt, der für seine Auswahl an handgebackenem Fladenbrot bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        66.936394,
+                        39.670468
+                  ]
+            },
+            {
+                  "name": "DSK",
+                  "text": "Ein geschäftiger Basar, der eine große Auswahl an preiswerter Kleidung und Alltagsgegenständen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        66.910609,
+                        39.664783
+                  ]
+            },
+            {
+                  "name": "Xazora",
+                  "text": "Der Chazora-Markt ist ein wichtiger lokaler Anlaufpunkt für frisches Gemüse und Fleischwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        66.896429,
+                        39.687773
+                  ]
+            },
+            {
+                  "name": "5-son hammom",
+                  "text": "Ein traditionelles öffentliches Badehaus, das authentische Reinigungskultur und Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        66.927055,
+                        39.670736
+                  ]
+            },
+            {
+                  "name": "Milliy Hammom",
+                  "text": "Ein nationales Badehaus, das nach klassischen zentralasiatischen Traditionen gestaltet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        66.923521,
+                        39.644969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Byvshii Molitvennyi dom 1924",
+                  "text": "Egy 1924-ben emelt történelmi téglaépület, amely eredetileg vallási imaházként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        66.932402,
+                        39.688625
+                  ]
+            },
+            {
+                  "name": "Samarkand Amusement Park",
+                  "text": "Szamarkand központi vidámparkja játékokkal, körhintákkal és zöldterületekkel a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        66.930484,
+                        39.67642
+                  ]
+            },
+            {
+                  "name": "Byvshaia Nikol'skaia Tserkov' (posle 1963 det sad)",
+                  "text": "Egykori Szent Miklós-templom, amelyet 1963 után óvodává alakítottak át.",
+                  "category": "landmark",
+                  "coords": [
+                        66.933782,
+                        39.687894
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Helyi múzeum, amely a régió ipari fejlődéséhez kapcsolódó tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        66.9276,
+                        39.666728
+                  ]
+            },
+            {
+                  "name": "Samarqand viloyat rus drama teatri",
+                  "text": "Regionális orosz drámai színház, amely klasszikus irodalmi művek előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        66.924231,
+                        39.652046
+                  ]
+            },
+            {
+                  "name": "Panjob masjidi",
+                  "text": "Ez a történelmi mecset 1889-ben épült, és a síita közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        66.928778,
+                        39.644112
+                  ]
+            },
+            {
+                  "name": "Kontsertnyi zal",
+                  "text": "Modern koncertterem, amely rendszeresen ad otthont helyi zenei fesztiváloknak és kulturális esteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        66.942523,
+                        39.658628
+                  ]
+            },
+            {
+                  "name": "Afsona AquaPark",
+                  "text": "Kiterjedt vízi park számos csúszdával és pihentető medencével családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        66.948116,
+                        39.656559
+                  ]
+            },
+            {
+                  "name": "Ikkinchi jahon urushidagi Samarqand askarlari xotirasi",
+                  "text": "Ez az emlékmű a második világháborúban harcolt szamarkandi katonák előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        66.95021,
+                        39.655515
+                  ]
+            },
+            {
+                  "name": "Lahutiy jom`e masjidi",
+                  "text": "Ez a mecset a híres perzsa-tadzsik költőről, Lahutiról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        66.944707,
+                        39.666089
+                  ]
+            },
+            {
+                  "name": "Murod Avliyo masjidi",
+                  "text": "Hagyományos környékbeli mecset, amely a helyi lakosok fontos vallási találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        66.929525,
+                        39.667744
+                  ]
+            },
+            {
+                  "name": "DAMARIQ jom`e masjidi",
+                  "text": "A Damarikh negyed központi székesegyházi mecsetje nagy imateremmel a pénteki imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        66.917399,
+                        39.66523
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Pénteki mecset, amely a muzulmán közösség központi gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        66.833103,
+                        39.676736
+                  ]
+            },
+            {
+                  "name": "\"Dyail\" Xristian Protestant Cherkovi",
+                  "text": "Protestáns templom, amely a helyi keresztény közösség lelki központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        66.923612,
+                        39.646006
+                  ]
+            },
+            {
+                  "name": "Xo'ja Abdu Mo'min jom'e masjid",
+                  "text": "Helyi mecset, amelyet Hodzsa Abdu Mumin szúfi mester tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        66.919953,
+                        39.635114
+                  ]
+            },
+            {
+                  "name": "MEChET'",
+                  "text": "Csendes iszlám imaház, amely mélyen beágyazódik a negyed lakóövezetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        66.921198,
+                        39.704607
+                  ]
+            },
+            {
+                  "name": "Namozgoh jom`e masjidi",
+                  "text": "Namazgah mecset, amelyet hagyományosan nagy, szabadtéri vallási gyülekezetekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        66.865019,
+                        39.683967
+                  ]
+            },
+            {
+                  "name": "DARG'OM jom`e masjidi",
+                  "text": "A Damgom körzet főmecsetje, amely közösségi munkájáról és pénteki szertartásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        66.852193,
+                        39.669752
+                  ]
+            },
+            {
+                  "name": "Temiry'ol bozori",
+                  "text": "Nyüzsgő piac a vasútállomás közelében, ahol friss gyümölcsöket és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        66.929796,
+                        39.68255
+                  ]
+            },
+            {
+                  "name": "BAM RYNOK",
+                  "text": "Nagy helyi bazár a BAM negyedben, a textiláruk és fűszerek fontos kereskedelmi csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        66.859042,
+                        39.669903
+                  ]
+            },
+            {
+                  "name": "Tabiat Saxovati Eko Bozori",
+                  "text": "Speciális ökopiac, amely a környékbeli gazdaságokból származó biotermékeket kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        66.918528,
+                        39.636936
+                  ]
+            },
+            {
+                  "name": "Aziz bozor",
+                  "text": "Hagyományos környékbeli piac, amely a kézzel sütött lepénykenyér-választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        66.936394,
+                        39.670468
+                  ]
+            },
+            {
+                  "name": "DSK",
+                  "text": "Nyüzsgő bazár, amely olcsó ruházati cikkek és mindennapi tárgyak széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        66.910609,
+                        39.664783
+                  ]
+            },
+            {
+                  "name": "Xazora",
+                  "text": "A Hazora piac a friss zöldségek és hústermékek fontos helyi lelőhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        66.896429,
+                        39.687773
+                  ]
+            },
+            {
+                  "name": "5-son hammom",
+                  "text": "Hagyományos nyilvános fürdő, amely hiteles tisztálkodási kultúrát és kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        66.927055,
+                        39.670736
+                  ]
+            },
+            {
+                  "name": "Milliy Hammom",
+                  "text": "Klasszikus közép-ázsiai hagyományok szerint kialakított nemzeti fürdő.",
+                  "category": "recreational",
+                  "coords": [
+                        66.923521,
+                        39.644969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Byvshii Molitvennyi dom 1924",
+                  "text": "O clădire istorică din cărămidă, ridicată în 1924, care a servit inițial ca casă de rugăciune religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        66.932402,
+                        39.688625
+                  ]
+            },
+            {
+                  "name": "Samarkand Amusement Park",
+                  "text": "Un parc de distracții central din Samarkand, cu atracții, caruseluri și spații verzi pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        66.930484,
+                        39.67642
+                  ]
+            },
+            {
+                  "name": "Byvshaia Nikol'skaia Tserkov' (posle 1963 det sad)",
+                  "text": "Fosta biserică Sfântul Nicolae, care a fost transformată în grădiniță după anul 1963.",
+                  "category": "landmark",
+                  "coords": [
+                        66.933782,
+                        39.687894
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Un muzeu local care expune artefacte legate de dezvoltarea industrială a acestei regiuni.",
+                  "category": "museum",
+                  "coords": [
+                        66.9276,
+                        39.666728
+                  ]
+            },
+            {
+                  "name": "Samarqand viloyat rus drama teatri",
+                  "text": "Teatru dramatic rus regional, cunoscut pentru spectacolele sale de literatură clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        66.924231,
+                        39.652046
+                  ]
+            },
+            {
+                  "name": "Panjob masjidi",
+                  "text": "Această moschee istorică a fost construită în 1889 și deservește comunitatea șiită.",
+                  "category": "religious",
+                  "coords": [
+                        66.928778,
+                        39.644112
+                  ]
+            },
+            {
+                  "name": "Kontsertnyi zal",
+                  "text": "O sală de concerte modernă care găzduiește regulat festivaluri de muzică locale și seri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        66.942523,
+                        39.658628
+                  ]
+            },
+            {
+                  "name": "Afsona AquaPark",
+                  "text": "Un parc acvatic extins, cu numeroase tobogane și bazine de relaxare pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        66.948116,
+                        39.656559
+                  ]
+            },
+            {
+                  "name": "Ikkinchi jahon urushidagi Samarqand askarlari xotirasi",
+                  "text": "Acest monument onorează soldații din Samarkand care au luptat în cel de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        66.95021,
+                        39.655515
+                  ]
+            },
+            {
+                  "name": "Lahutiy jom`e masjidi",
+                  "text": "Această moschee este numită după celebrul poet persano-tadjik Lahuti.",
+                  "category": "landmark",
+                  "coords": [
+                        66.944707,
+                        39.666089
+                  ]
+            },
+            {
+                  "name": "Murod Avliyo masjidi",
+                  "text": "O moschee tradițională de cartier care servește ca un important loc de întâlnire religios pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        66.929525,
+                        39.667744
+                  ]
+            },
+            {
+                  "name": "DAMARIQ jom`e masjidi",
+                  "text": "Moscheea catedrală centrală din districtul Damarikh, cu o sală mare de rugăciune pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        66.917399,
+                        39.66523
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "O moschee de vineri care constituie un loc de adunare central pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        66.833103,
+                        39.676736
+                  ]
+            },
+            {
+                  "name": "\"Dyail\" Xristian Protestant Cherkovi",
+                  "text": "O biserică protestantă care servește ca centru spiritual pentru comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        66.923612,
+                        39.646006
+                  ]
+            },
+            {
+                  "name": "Xo'ja Abdu Mo'min jom'e masjid",
+                  "text": "O moschee locală dedicată venerării maestrului sufit Khodja Abdu Mumin.",
+                  "category": "landmark",
+                  "coords": [
+                        66.919953,
+                        39.635114
+                  ]
+            },
+            {
+                  "name": "MEChET'",
+                  "text": "O casă de rugăciune islamică liniștită, situată în inima structurii rezidențiale a cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        66.921198,
+                        39.704607
+                  ]
+            },
+            {
+                  "name": "Namozgoh jom`e masjidi",
+                  "text": "O moschee Namazgah, folosită în mod tradițional pentru mari adunări religioase în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        66.865019,
+                        39.683967
+                  ]
+            },
+            {
+                  "name": "DARG'OM jom`e masjidi",
+                  "text": "Moscheea principală din districtul Damgom, cunoscută pentru munca sa comunitară și ceremoniile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        66.852193,
+                        39.669752
+                  ]
+            },
+            {
+                  "name": "Temiry'ol bozori",
+                  "text": "O piață plină de viață lângă gară, unde se vând fructe proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        66.929796,
+                        39.68255
+                  ]
+            },
+            {
+                  "name": "BAM RYNOK",
+                  "text": "Bazar local mare în cartierul BAM, un nod comercial important pentru textile și condimente.",
+                  "category": "cultural",
+                  "coords": [
+                        66.859042,
+                        39.669903
+                  ]
+            },
+            {
+                  "name": "Tabiat Saxovati Eko Bozori",
+                  "text": "O piață ecologică specializată care oferă produse bio de la fermele regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        66.918528,
+                        39.636936
+                  ]
+            },
+            {
+                  "name": "Aziz bozor",
+                  "text": "O piață tradițională de cartier, cunoscută pentru selecția sa de pâine plată coaptă manual.",
+                  "category": "cultural",
+                  "coords": [
+                        66.936394,
+                        39.670468
+                  ]
+            },
+            {
+                  "name": "DSK",
+                  "text": "Un bazar aglomerat care oferă o gamă largă de haine accesibile și obiecte de uz cotidian.",
+                  "category": "cultural",
+                  "coords": [
+                        66.910609,
+                        39.664783
+                  ]
+            },
+            {
+                  "name": "Xazora",
+                  "text": "Piața Khazora este un punct local important pentru legume proaspete și produse din carne.",
+                  "category": "cultural",
+                  "coords": [
+                        66.896429,
+                        39.687773
+                  ]
+            },
+            {
+                  "name": "5-son hammom",
+                  "text": "O baie publică tradițională care oferă o cultură autentică a purificării și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        66.927055,
+                        39.670736
+                  ]
+            },
+            {
+                  "name": "Milliy Hammom",
+                  "text": "O baie publică națională concepută conform tradițiilor clasice din Asia Centrală.",
+                  "category": "recreational",
+                  "coords": [
+                        66.923521,
+                        39.644969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Byvshii Molitvennyi dom 1924",
+                  "text": "A historic brick structure built in 1924 that originally served as a religious prayer house.",
+                  "category": "landmark",
+                  "coords": [
+                        66.932402,
+                        39.688625
+                  ]
+            },
+            {
+                  "name": "Samarkand Amusement Park",
+                  "text": "A central recreation park in Samarkand featuring rides, carousels, and green spaces for families.",
+                  "category": "recreational",
+                  "coords": [
+                        66.930484,
+                        39.67642
+                  ]
+            },
+            {
+                  "name": "Byvshaia Nikol'skaia Tserkov' (posle 1963 det sad)",
+                  "text": "Former St. Nicholas Church, which was repurposed as a kindergarten after 1963.",
+                  "category": "landmark",
+                  "coords": [
+                        66.933782,
+                        39.687894
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "A local museum displaying artifacts related to the industrial development of this region.",
+                  "category": "museum",
+                  "coords": [
+                        66.9276,
+                        39.666728
+                  ]
+            },
+            {
+                  "name": "Samarqand viloyat rus drama teatri",
+                  "text": "Regional Russian drama theatre known for its performances of classical literature.",
+                  "category": "cultural",
+                  "coords": [
+                        66.924231,
+                        39.652046
+                  ]
+            },
+            {
+                  "name": "Panjab Mosque",
+                  "text": "This historic mosque was built in 1889 and serves the Shia community.",
+                  "category": "religious",
+                  "coords": [
+                        66.928778,
+                        39.644112
+                  ]
+            },
+            {
+                  "name": "Kontsertnyi zal",
+                  "text": "A modern concert hall that regularly hosts local music festivals and cultural evenings.",
+                  "category": "cultural",
+                  "coords": [
+                        66.942523,
+                        39.658628
+                  ]
+            },
+            {
+                  "name": "Afsona AquaPark",
+                  "text": "A sprawling water park featuring numerous slides and recreational pools for families.",
+                  "category": "recreational",
+                  "coords": [
+                        66.948116,
+                        39.656559
+                  ]
+            },
+            {
+                  "name": "Memorial Soldiers of Samarkand in World War II",
+                  "text": "This monument honors the soldiers from Samarkand who fought in World War II.",
+                  "category": "historical",
+                  "coords": [
+                        66.95021,
+                        39.655515
+                  ]
+            },
+            {
+                  "name": "Lahutiy Mosque",
+                  "text": "This mosque is named after the famous Persian-Tajik poet Lahuti.",
+                  "category": "landmark",
+                  "coords": [
+                        66.944707,
+                        39.666089
+                  ]
+            },
+            {
+                  "name": "Murod Avliyo masjidi",
+                  "text": "A traditional neighborhood mosque serving as an important religious gathering spot for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        66.929525,
+                        39.667744
+                  ]
+            },
+            {
+                  "name": "Cathedral mosque DAMARIKH",
+                  "text": "Central cathedral mosque of the Damarikh district with a large prayer hall for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        66.917399,
+                        39.66523
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "A Friday mosque that forms a central gathering place for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        66.833103,
+                        39.676736
+                  ]
+            },
+            {
+                  "name": "\"Dyail\" Xristian Protestant Cherkovi",
+                  "text": "A Protestant church serving as a spiritual center for the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        66.923612,
+                        39.646006
+                  ]
+            },
+            {
+                  "name": "Khodja Abdu Mumin Mosque",
+                  "text": "A local mosque dedicated to the veneration of the Sufi master Khodja Abdu Mumin.",
+                  "category": "landmark",
+                  "coords": [
+                        66.919953,
+                        39.635114
+                  ]
+            },
+            {
+                  "name": "MEChET'",
+                  "text": "A quiet Islamic house of prayer embedded deeply within the neighborhood's residential structure.",
+                  "category": "landmark",
+                  "coords": [
+                        66.921198,
+                        39.704607
+                  ]
+            },
+            {
+                  "name": "Namazgah Mosque",
+                  "text": "A Namazgah mosque, traditionally used for large outdoor religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        66.865019,
+                        39.683967
+                  ]
+            },
+            {
+                  "name": "Cathedral mosque DAMGOM",
+                  "text": "Main mosque of the Damgom district, known for its community work and Friday ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        66.852193,
+                        39.669752
+                  ]
+            },
+            {
+                  "name": "Railway District Market",
+                  "text": "A bustling market near the railway station selling fresh fruits and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        66.929796,
+                        39.68255
+                  ]
+            },
+            {
+                  "name": "BAM RYNOK",
+                  "text": "Large local bazaar in the BAM district, an important trade hub for textiles and spices.",
+                  "category": "cultural",
+                  "coords": [
+                        66.859042,
+                        39.669903
+                  ]
+            },
+            {
+                  "name": "Tabiat Saxovati Eko Bozori",
+                  "text": "A specialized eco-market offering organic produce from regional farms.",
+                  "category": "cultural",
+                  "coords": [
+                        66.918528,
+                        39.636936
+                  ]
+            },
+            {
+                  "name": "Aziz bozor",
+                  "text": "A traditional neighborhood market known for its selection of hand-baked flatbread.",
+                  "category": "cultural",
+                  "coords": [
+                        66.936394,
+                        39.670468
+                  ]
+            },
+            {
+                  "name": "DSK",
+                  "text": "A busy bazaar offering a wide range of affordable clothing and everyday items.",
+                  "category": "cultural",
+                  "coords": [
+                        66.910609,
+                        39.664783
+                  ]
+            },
+            {
+                  "name": "Xazora",
+                  "text": "The Khazora market is an important local spot for fresh vegetables and meat products.",
+                  "category": "cultural",
+                  "coords": [
+                        66.896429,
+                        39.687773
+                  ]
+            },
+            {
+                  "name": "Hammom No. 5",
+                  "text": "A traditional public bathhouse offering authentic cleansing culture and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        66.927055,
+                        39.670736
+                  ]
+            },
+            {
+                  "name": "Milliy Hammom",
+                  "text": "A national bathhouse designed according to classical Central Asian traditions.",
+                  "category": "recreational",
+                  "coords": [
+                        66.923521,
+                        39.644969
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-SA",
     coords: [66.9417, 39.6583],
@@ -687,7 +8958,484 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     },
   },
   {
-    id: "angren-free-economic-zone-economic-v2",
+    id: "angren-free-economic-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kul'-bulok",
+                  "text": "Eine bedeutende paläolithische Ausgrabungsstätte, die wichtige Einblicke in die frühe menschliche Besiedlung Zentralasiens gibt.",
+                  "category": "historical",
+                  "coords": [
+                        70.014329,
+                        40.990488
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Chikryzovu",
+                  "text": "Ein Denkmal zu Ehren von Chikryzov, das an die industrielle Entwicklung und die Arbeiter der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        70.077372,
+                        41.009199
+                  ]
+            },
+            {
+                  "name": "Kol'tso",
+                  "text": "Ein markanter Orientierungspunkt im Stadtzentrum, der oft als Treffpunkt für Einheimische dient.",
+                  "category": "landmark",
+                  "coords": [
+                        70.085288,
+                        41.012625
+                  ]
+            },
+            {
+                  "name": "chertovo koleso",
+                  "text": "Ein klassisches Riesenrad in einem lokalen Park, das einen weiten Blick über die Stadt Angren bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        70.064108,
+                        41.0018
+                  ]
+            },
+            {
+                  "name": "samolet",
+                  "text": "Ein Luftfahrt-Denkmal, das ein ausrangiertes sowjetisches Flugzeug auf einem hohen Sockel präsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        70.062307,
+                        41.002723
+                  ]
+            },
+            {
+                  "name": "Qoraboshboy jom'e masjidi",
+                  "text": "Eine Moschee im Stadtviertel Qoraboshboy, die als lokales religiöses und soziales Zentrum fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        70.086608,
+                        41.062911
+                  ]
+            },
+            {
+                  "name": "Musulmonlar Kabristoni",
+                  "text": "Ein muslimischer Friedhof mit traditionell gestalteten Grabmälern, der die lokale Bestattungskultur widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        70.070404,
+                        41.041536
+                  ]
+            },
+            {
+                  "name": "Qorabog` jom`e masjidi",
+                  "text": "Eine Gemeindemoschee, die für ihre schlichte Architektur und die ruhigen Innenhöfe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        70.063358,
+                        41.026733
+                  ]
+            },
+            {
+                  "name": "IMOM MUHAMMAD jom`e masjidi",
+                  "text": "Die Imom-Muhammad-Moschee ist ein Ort der Andacht mit einer markanten Kuppel und Gebetsräumen.",
+                  "category": "landmark",
+                  "coords": [
+                        70.06959,
+                        40.998828
+                  ]
+            },
+            {
+                  "name": "Obliq jom`e masjidi",
+                  "text": "Eine Freitagsmoschee im Obliq-Viertel, die ein wichtiger Versammlungsort für die muslimische Gemeinde ist.",
+                  "category": "landmark",
+                  "coords": [
+                        70.061508,
+                        40.975321
+                  ]
+            },
+            {
+                  "name": "Trapeznaia",
+                  "text": "Ein traditioneller kirchlicher Speisesaal, der oft für Gemeindefeiern und religiöse Feste genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        70.0739,
+                        41.019905
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Ein lebhafter Flohmarkt, auf dem man gebrauchte Waren, Antiquitäten und lokale Kuriositäten finden kann.",
+                  "category": "cultural",
+                  "coords": [
+                        70.078237,
+                        41.019929
+                  ]
+            },
+            {
+                  "name": "Kiyim bozori",
+                  "text": "Ein lebhafter Markt in der Sonderwirtschaftszone Angren, der auf Kleidung und Textilien spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        70.063195,
+                        41.004869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kul'-bulok",
+                  "text": "Jelentős paleolit régészeti lelőhely, amely fontos betekintést nyújt Közép-Ázsia korai benépesülésébe.",
+                  "category": "historical",
+                  "coords": [
+                        70.014329,
+                        40.990488
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Chikryzovu",
+                  "text": "Csikrizov tiszteletére emelt emlékmű, amely a régió ipari fejlődésére és munkásaira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        70.077372,
+                        41.009199
+                  ]
+            },
+            {
+                  "name": "Kol'tso",
+                  "text": "Jellegzetes tájékozódási pont a városközpontban, amely gyakran találkozóhelyként szolgál a helyiek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        70.085288,
+                        41.012625
+                  ]
+            },
+            {
+                  "name": "chertovo koleso",
+                  "text": "Klasszikus óriáskerék egy helyi parkban, amely széles kilátást nyújt Angren városára.",
+                  "category": "landmark",
+                  "coords": [
+                        70.064108,
+                        41.0018
+                  ]
+            },
+            {
+                  "name": "samolet",
+                  "text": "Repülési emlékmű, amely egy magas talapzaton elhelyezett, kiszolgált szovjet repülőgépet mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        70.062307,
+                        41.002723
+                  ]
+            },
+            {
+                  "name": "Qoraboshboy jom'e masjidi",
+                  "text": "Mecset a Qoraboshboy negyedben, amely helyi vallási és közösségi központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        70.086608,
+                        41.062911
+                  ]
+            },
+            {
+                  "name": "Musulmonlar Kabristoni",
+                  "text": "Muszlim temető hagyományos síremlékekkel, amely a helyi temetkezési kultúrát tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        70.070404,
+                        41.041536
+                  ]
+            },
+            {
+                  "name": "Qorabog` jom`e masjidi",
+                  "text": "Közösségi mecset, amely egyszerű építészetéről és csendes belső udvarairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        70.063358,
+                        41.026733
+                  ]
+            },
+            {
+                  "name": "IMOM MUHAMMAD jom`e masjidi",
+                  "text": "Az Imom Muhammad mecset egy áhítatos hely jellegzetes kupolával és imatermekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        70.06959,
+                        40.998828
+                  ]
+            },
+            {
+                  "name": "Obliq jom`e masjidi",
+                  "text": "Pénteki mecset az Obliq negyedben, amely a muszlim közösség fontos gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        70.061508,
+                        40.975321
+                  ]
+            },
+            {
+                  "name": "Trapeznaia",
+                  "text": "Hagyományos egyházi étkező, amelyet gyakran közösségi ünnepekre és vallási fesztiválokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        70.0739,
+                        41.019905
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "Nyüzsgő bolhapiac, ahol használt cikkeket, régiségeket és helyi érdekességeket lehet találni.",
+                  "category": "cultural",
+                  "coords": [
+                        70.078237,
+                        41.019929
+                  ]
+            },
+            {
+                  "name": "Kiyim bozori",
+                  "text": "Egy élénk ruházati és textilpiac az Angren speciális gazdasági övezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        70.063195,
+                        41.004869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kul'-bulok",
+                  "text": "Un sit arheologic paleolitic important, care oferă perspective esențiale asupra populării timpurii a Asiei Centrale.",
+                  "category": "historical",
+                  "coords": [
+                        70.014329,
+                        40.990488
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Chikryzovu",
+                  "text": "Un monument în onoarea lui Cikrizov, care comemorează dezvoltarea industrială și muncitorii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        70.077372,
+                        41.009199
+                  ]
+            },
+            {
+                  "name": "Kol'tso",
+                  "text": "Un punct de reper distinctiv în centrul orașului, care servește adesea ca loc de întâlnire pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        70.085288,
+                        41.012625
+                  ]
+            },
+            {
+                  "name": "chertovo koleso",
+                  "text": "O roată panoramică clasică într-un parc local, oferind o vedere amplă asupra orașului Angren.",
+                  "category": "landmark",
+                  "coords": [
+                        70.064108,
+                        41.0018
+                  ]
+            },
+            {
+                  "name": "samolet",
+                  "text": "Un monument al aviației care prezintă un avion sovietic scos din uz pe un piedestal înalt.",
+                  "category": "historical",
+                  "coords": [
+                        70.062307,
+                        41.002723
+                  ]
+            },
+            {
+                  "name": "Qoraboshboy jom'e masjidi",
+                  "text": "O moschee în cartierul Qoraboshboy, care funcționează ca un centru religios și social local.",
+                  "category": "landmark",
+                  "coords": [
+                        70.086608,
+                        41.062911
+                  ]
+            },
+            {
+                  "name": "Musulmonlar Kabristoni",
+                  "text": "Un cimitir musulman cu morminte realizate în stil tradițional, reflectând cultura funerară locală.",
+                  "category": "landmark",
+                  "coords": [
+                        70.070404,
+                        41.041536
+                  ]
+            },
+            {
+                  "name": "Qorabog` jom`e masjidi",
+                  "text": "O moschee comunitară cunoscută pentru arhitectura sa simplă și curțile interioare liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        70.063358,
+                        41.026733
+                  ]
+            },
+            {
+                  "name": "IMOM MUHAMMAD jom`e masjidi",
+                  "text": "Moscheea Imom Muhammad este un loc de devoțiune cu o cupolă distinctivă și săli de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        70.06959,
+                        40.998828
+                  ]
+            },
+            {
+                  "name": "Obliq jom`e masjidi",
+                  "text": "O moschee de vineri în cartierul Obliq, care este un loc important de adunare pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        70.061508,
+                        40.975321
+                  ]
+            },
+            {
+                  "name": "Trapeznaia",
+                  "text": "O sală de mese bisericească tradițională, folosită adesea pentru sărbători comunitare și festivaluri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        70.0739,
+                        41.019905
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "O piață de vechituri plină de viață, unde se pot găsi obiecte la mâna a doua, antichități și curiozități locale.",
+                  "category": "cultural",
+                  "coords": [
+                        70.078237,
+                        41.019929
+                  ]
+            },
+            {
+                  "name": "Kiyim bozori",
+                  "text": "O piață vibrantă în zona economică liberă Angren, specializată în îmbrăcăminte și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        70.063195,
+                        41.004869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kul'-bulok",
+                  "text": "An important Paleolithic archaeological site providing key insights into the early human habitation of Central Asia.",
+                  "category": "historical",
+                  "coords": [
+                        70.014329,
+                        40.990488
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Chikryzovu",
+                  "text": "A monument honoring Chikryzov, commemorating the industrial development and the workers of the region.",
+                  "category": "historical",
+                  "coords": [
+                        70.077372,
+                        41.009199
+                  ]
+            },
+            {
+                  "name": "Kol'tso",
+                  "text": "A prominent landmark in the city center that often serves as a meeting point for locals.",
+                  "category": "landmark",
+                  "coords": [
+                        70.085288,
+                        41.012625
+                  ]
+            },
+            {
+                  "name": "chertovo koleso",
+                  "text": "A classic Ferris wheel located in a local park, offering wide views over the city of Angren.",
+                  "category": "landmark",
+                  "coords": [
+                        70.064108,
+                        41.0018
+                  ]
+            },
+            {
+                  "name": "samolet",
+                  "text": "An aviation monument featuring a decommissioned Soviet aircraft mounted on a high pedestal.",
+                  "category": "historical",
+                  "coords": [
+                        70.062307,
+                        41.002723
+                  ]
+            },
+            {
+                  "name": "Qoraboshboy jom'e masjidi",
+                  "text": "A mosque in the Qoraboshboy neighborhood that functions as a local religious and social center.",
+                  "category": "landmark",
+                  "coords": [
+                        70.086608,
+                        41.062911
+                  ]
+            },
+            {
+                  "name": "Musulmonlar Kabristoni",
+                  "text": "A Muslim cemetery featuring traditionally designed tombs, reflecting the local burial culture.",
+                  "category": "landmark",
+                  "coords": [
+                        70.070404,
+                        41.041536
+                  ]
+            },
+            {
+                  "name": "Qorabog` jom`e masjidi",
+                  "text": "A community mosque known for its simple architecture and quiet inner courtyards.",
+                  "category": "landmark",
+                  "coords": [
+                        70.063358,
+                        41.026733
+                  ]
+            },
+            {
+                  "name": "IMOM MUHAMMAD jom`e masjidi",
+                  "text": "The Imom Muhammad mosque is a place of worship featuring a prominent dome and prayer halls.",
+                  "category": "landmark",
+                  "coords": [
+                        70.06959,
+                        40.998828
+                  ]
+            },
+            {
+                  "name": "Obliq jom`e masjidi",
+                  "text": "A Friday mosque in the Obliq district, which is a major gathering place for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        70.061508,
+                        40.975321
+                  ]
+            },
+            {
+                  "name": "Trapeznaia",
+                  "text": "A traditional church dining hall often used for community gatherings and religious feasts.",
+                  "category": "landmark",
+                  "coords": [
+                        70.0739,
+                        41.019905
+                  ]
+            },
+            {
+                  "name": "Barakholka",
+                  "text": "A lively flea market where one can find second-hand goods, antiques, and local curiosities.",
+                  "category": "cultural",
+                  "coords": [
+                        70.078237,
+                        41.019929
+                  ]
+            },
+            {
+                  "name": "Kiyim bozori",
+                  "text": "A vibrant marketplace in the Angren free economic zone specializing in clothing and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        70.063195,
+                        41.004869
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "UZ-TO",
     coords: [70.0719, 41.0125],

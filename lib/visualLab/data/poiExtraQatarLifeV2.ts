@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraQatarLifeV2: POI[] = [
   {
-    id: "qatar-aspire-park-life-v2",
+    id: "qatar-aspire-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gondolania",
+                  "text": "Gondolania ist ein Freizeitpark in der Gegend des Qatar Aspire Park.",
+                  "category": "recreational",
+                  "coords": [
+                        51.442754,
+                        25.262054
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Der Aspire Park ist der größte Park in Doha und erstreckt sich über eine Fläche von 88 Hektar im Gebiet des Qatar Aspire Park.",
+                  "category": "park",
+                  "coords": [
+                        51.435805,
+                        25.260814
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gondolania",
+                  "text": "A Gondolania egy vidámpark a Katari Aspire Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        51.442754,
+                        25.262054
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Az Aspire Park Doha legnagyobb parkja, amely 88 hektáron terül el a Katari Aspire Park területén.",
+                  "category": "park",
+                  "coords": [
+                        51.435805,
+                        25.260814
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gondolania",
+                  "text": "Gondolania este un parc tematic situat în zona Qatar Aspire Park.",
+                  "category": "recreational",
+                  "coords": [
+                        51.442754,
+                        25.262054
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Aspire Park este cel mai mare parc din Doha, acoperind o suprafață de 88 de hectare în zona Qatar Aspire Park.",
+                  "category": "park",
+                  "coords": [
+                        51.435805,
+                        25.260814
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gondolania",
+                  "text": "Gondolania is a theme park attraction located in the Qatar Aspire Park area.",
+                  "category": "recreational",
+                  "coords": [
+                        51.442754,
+                        25.262054
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Aspire Park is the biggest park in Doha, covering an area of 88 hectares in the Qatar Aspire Park area.",
+                  "category": "park",
+                  "coords": [
+                        51.435805,
+                        25.260814
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "QA-DA",
     coords: [51.4422, 25.2605],
@@ -39,7 +120,268 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-al-bidda-park-life-v2",
+    id: "qatar-al-bidda-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drake and scull international Qatar",
+                  "text": "Ein markantes Bürogebäude in der Nähe des Al Bidda Parks, das Dohas schnelles wirtschaftliches Wachstum repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.505387,
+                        25.280658
+                  ]
+            },
+            {
+                  "name": "Laluvsko",
+                  "text": "Eine Privatresidenz mit imposanten, schlossähnlichen Merkmalen im angesehenen Viertel Al Bidda.",
+                  "category": "castle",
+                  "coords": [
+                        51.497434,
+                        25.289283
+                  ]
+            },
+            {
+                  "name": "Darb Al Saai",
+                  "text": "Der Hauptort für die Feierlichkeiten zum katarischen Nationalfeiertag mit traditionellen Zelten und Kulturerbe-Zentren.",
+                  "category": "landmark",
+                  "coords": [
+                        51.489278,
+                        25.283112
+                  ]
+            },
+            {
+                  "name": "al amir street",
+                  "text": "Eine Hauptverkehrsstraße in Doha, gesäumt von modernen Wahrzeichen mit Blick auf die Skyline von Al Bidda.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491301,
+                        25.272555
+                  ]
+            },
+            {
+                  "name": "shahul hameed wafi home qatar",
+                  "text": "Eine markante Villa in Al Bidda, die traditionelle katarische Architekturelemente mit wehrhaften Details verbindet.",
+                  "category": "castle",
+                  "coords": [
+                        51.499655,
+                        25.275978
+                  ]
+            },
+            {
+                  "name": "Al Bidda Park",
+                  "text": "Einer der größten Parks von Doha an der Corniche, mit weiten Gärten, Laufstrecken und Spielbereichen.",
+                  "category": "park",
+                  "coords": [
+                        51.514287,
+                        25.300281
+                  ]
+            },
+            {
+                  "name": "Sheikh Nasr Khalifa Ahmad Al Thani Masjid",
+                  "text": "Diese Moschee in Al Bidda dient als spirituelles Zentrum und besticht durch ihre klassische islamische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498302,
+                        25.284178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drake and scull international Qatar",
+                  "text": "Feltűnő irodaépület az Al Bidda Park közelében, amely Doha gyors gazdasági növekedését jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        51.505387,
+                        25.280658
+                  ]
+            },
+            {
+                  "name": "Laluvsko",
+                  "text": "Tekintélyes Al Bidda negyedben található magánrezidencia, impozáns, kastélyszerű jegyekkel.",
+                  "category": "castle",
+                  "coords": [
+                        51.497434,
+                        25.289283
+                  ]
+            },
+            {
+                  "name": "Darb Al Saai",
+                  "text": "A katari nemzeti ünnepségek fő helyszíne hagyományos sátrakkal és kulturális örökségvédelmi központokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        51.489278,
+                        25.283112
+                  ]
+            },
+            {
+                  "name": "al amir street",
+                  "text": "Doha egyik főútvonala, amelyet modern nevezetességek szegélyeznek, kilátással Al Bidda felhőkarcolóira.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491301,
+                        25.272555
+                  ]
+            },
+            {
+                  "name": "shahul hameed wafi home qatar",
+                  "text": "Al Bidda egyik kiemelkedő villája, amely a hagyományos katari építészetet ötvözi erődített részletekkel.",
+                  "category": "castle",
+                  "coords": [
+                        51.499655,
+                        25.275978
+                  ]
+            },
+            {
+                  "name": "Al Bidda Park",
+                  "text": "Doha egyik legnagyobb parkja a Corniche-nál, tágas kertekkel, futópályákkal és játszóterekkel.",
+                  "category": "park",
+                  "coords": [
+                        51.514287,
+                        25.300281
+                  ]
+            },
+            {
+                  "name": "Sheikh Nasr Khalifa Ahmad Al Thani Masjid",
+                  "text": "Ez az Al Biddában található mecset szellemi központként szolgál, klasszikus iszlám építészete pedig magával ragadó.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498302,
+                        25.284178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drake and scull international Qatar",
+                  "text": "O clădire de birouri frapantă lângă Parcul Al Bidda, reprezentând creșterea economică rapidă a orașului Doha.",
+                  "category": "landmark",
+                  "coords": [
+                        51.505387,
+                        25.280658
+                  ]
+            },
+            {
+                  "name": "Laluvsko",
+                  "text": "O reședință privată cu trăsături impunătoare de castel, situată în prestigiosul cartier Al Bidda.",
+                  "category": "castle",
+                  "coords": [
+                        51.497434,
+                        25.289283
+                  ]
+            },
+            {
+                  "name": "Darb Al Saai",
+                  "text": "Locul principal pentru festivitățile de Ziua Națională a Qatarului, cu corturi tradiționale și centre de patrimoniu.",
+                  "category": "landmark",
+                  "coords": [
+                        51.489278,
+                        25.283112
+                  ]
+            },
+            {
+                  "name": "al amir street",
+                  "text": "O arteră majoră în Doha, mărginită de repere moderne, cu vederi spre orizontul zonei Al Bidda.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491301,
+                        25.272555
+                  ]
+            },
+            {
+                  "name": "shahul hameed wafi home qatar",
+                  "text": "O vilă proeminentă în Al Bidda, combinând elemente arhitecturale tradiționale din Qatar cu detalii fortificate.",
+                  "category": "castle",
+                  "coords": [
+                        51.499655,
+                        25.275978
+                  ]
+            },
+            {
+                  "name": "Al Bidda Park",
+                  "text": "Unul dintre cele mai mari parcuri din Doha, pe Corniche, cu grădini vaste, piste de alergare și zone de joacă.",
+                  "category": "park",
+                  "coords": [
+                        51.514287,
+                        25.300281
+                  ]
+            },
+            {
+                  "name": "Sheikh Nasr Khalifa Ahmad Al Thani Masjid",
+                  "text": "Această moschee din Al Bidda servește ca centru spiritual și impresionează prin arhitectura sa islamică clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498302,
+                        25.284178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drake and scull international Qatar",
+                  "text": "A striking office building near Al Bidda Park, representing Doha's rapid economic growth.",
+                  "category": "landmark",
+                  "coords": [
+                        51.505387,
+                        25.280658
+                  ]
+            },
+            {
+                  "name": "Laluvsko",
+                  "text": "A private residence with imposing castle-like features situated in the prestigious Al Bidda area.",
+                  "category": "castle",
+                  "coords": [
+                        51.497434,
+                        25.289283
+                  ]
+            },
+            {
+                  "name": "Darb Al Saai",
+                  "text": "The primary site for Qatar National Day festivities, featuring traditional tents and cultural heritage centers.",
+                  "category": "landmark",
+                  "coords": [
+                        51.489278,
+                        25.283112
+                  ]
+            },
+            {
+                  "name": "al amir street",
+                  "text": "A major thoroughfare in Doha lined with modern landmarks with views of the Al Bidda skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        51.491301,
+                        25.272555
+                  ]
+            },
+            {
+                  "name": "shahul hameed wafi home qatar",
+                  "text": "A prominent villa in Al Bidda combining traditional Qatari architectural elements with fortified details.",
+                  "category": "castle",
+                  "coords": [
+                        51.499655,
+                        25.275978
+                  ]
+            },
+            {
+                  "name": "Al Bidda Park",
+                  "text": "One of Doha’s largest parks on the Corniche, featuring extensive gardens, running tracks, and play areas.",
+                  "category": "park",
+                  "coords": [
+                        51.514287,
+                        25.300281
+                  ]
+            },
+            {
+                  "name": "Sheikh Nasr Khalifa Ahmad Al Thani Masjid",
+                  "text": "This mosque in Al Bidda serves as a spiritual center and impresses with its classic Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        51.498302,
+                        25.284178
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "QA-DA",
     coords: [51.5126, 25.2974],
@@ -75,7 +417,52 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-mia-park-life-v2",
+    id: "qatar-mia-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doha Skyline Aussichtspunkt",
+                  "text": "Dieser beliebte Fotopunkt am Rande des MIA-Parks bietet einen uneingeschränkten Blick auf die Skyline von West Bay.",
+                  "category": "natural",
+                  "coords": [
+                        51.542208,
+                        25.299392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "East Mound-Skyline View Point",
+                  "text": "A MIA Park szélén található népszerű fotópont zavartalan kilátást nyújt a West Bay felhőkarcolóira.",
+                  "category": "natural",
+                  "coords": [
+                        51.542208,
+                        25.299392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "East Mound-Skyline View Point",
+                  "text": "Acest punct fotografic popular de la marginea parcului MIA oferă o vedere neîngrădită asupra zgârie-norilor din West Bay.",
+                  "category": "natural",
+                  "coords": [
+                        51.542208,
+                        25.299392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doha skyline viewpoint",
+                  "text": "This popular photographic spot at the edge of MIA Park offers an unoccupied view of the West Bay skyline.",
+                  "category": "natural",
+                  "coords": [
+                        51.542208,
+                        25.299392
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "QA-DA",
     coords: [51.5429, 25.2965],
@@ -111,7 +498,232 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-al-khor-family-park-life-v2",
+    id: "qatar-al-khor-family-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al A'ugdah",
+                  "text": "Historische Überreste einer alten Siedlung, die Einblicke in das traditionelle Leben in Al Khor geben.",
+                  "category": "historical",
+                  "coords": [
+                        51.465622,
+                        25.680276
+                  ]
+            },
+            {
+                  "name": "Panda House",
+                  "text": "Ein spezielles Gehege im Al Khor Park, in dem die Riesenpandas Suhail und Thuraya leben.",
+                  "category": "recreational",
+                  "coords": [
+                        51.424899,
+                        25.648302
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Eine Ausgrabungsstätte mit Fundamenten antiker Behausungen an der Küste von Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.50035,
+                        25.689605
+                  ]
+            },
+            {
+                  "name": "Aviary zoo [Al Khor park]",
+                  "text": "Eine große begehbare Voliere im Al Khor Park mit einer Vielfalt an exotischen Vogelarten.",
+                  "category": "recreational",
+                  "coords": [
+                        51.423182,
+                        25.650578
+                  ]
+            },
+            {
+                  "name": "Al Khor park small zoo",
+                  "text": "Ein familienfreundlicher Bereich im Park, in dem einheimische Tiere wie Oryx-Antilopen leben.",
+                  "category": "recreational",
+                  "coords": [
+                        51.422087,
+                        25.648921
+                  ]
+            },
+            {
+                  "name": "old oqda masjed",
+                  "text": "Eine traditionelle Moschee mit lokaler Architektur in der Nähe des Al Khor Family Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        51.467419,
+                        25.687915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al A'ugdah",
+                  "text": "Egy régi település történelmi maradványai, amelyek bepillantást engednek Al Khor hagyományos életébe.",
+                  "category": "historical",
+                  "coords": [
+                        51.465622,
+                        25.680276
+                  ]
+            },
+            {
+                  "name": "Panda House",
+                  "text": "Speciális kifutó az Al Khor Parkban, ahol Suhail és Thuraya óriáspandák élnek.",
+                  "category": "recreational",
+                  "coords": [
+                        51.424899,
+                        25.648302
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Régészeti lelőhely ősi lakóházak alapjaival Al Khor tengerpartján.",
+                  "category": "historical",
+                  "coords": [
+                        51.50035,
+                        25.689605
+                  ]
+            },
+            {
+                  "name": "Aviary zoo [Al Khor park]",
+                  "text": "Egy nagy, besétálható madárház az Al Khor Parkban, különféle egzotikus madárfajokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        51.423182,
+                        25.650578
+                  ]
+            },
+            {
+                  "name": "Al Khor park small zoo",
+                  "text": "Családbarát részleg a parkban, ahol helyi állatok, például katarai orixok láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        51.422087,
+                        25.648921
+                  ]
+            },
+            {
+                  "name": "old oqda masjed",
+                  "text": "Hagyományos iszlám építészetű mecset az Al Khor családi park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.467419,
+                        25.687915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al A'ugdah",
+                  "text": "Vestigii istorice ale unei vechi așezări, oferind o perspectivă asupra vieții tradiționale din Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.465622,
+                        25.680276
+                  ]
+            },
+            {
+                  "name": "Panda House",
+                  "text": "O incintă specială în Parcul Al Khor, unde locuiesc pandele uriașe Suhail și Thuraya.",
+                  "category": "recreational",
+                  "coords": [
+                        51.424899,
+                        25.648302
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Un sit arheologic cu fundații ale unor locuințe antice pe coasta orașului Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.50035,
+                        25.689605
+                  ]
+            },
+            {
+                  "name": "Aviary zoo [Al Khor park]",
+                  "text": "O volieră mare în Parcul Al Khor, care adăpostește o varietate de specii de păsări exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        51.423182,
+                        25.650578
+                  ]
+            },
+            {
+                  "name": "Al Khor park small zoo",
+                  "text": "O secțiune pentru familii în cadrul parcului, unde pot fi văzute animale locale, precum antilopele oryx.",
+                  "category": "recreational",
+                  "coords": [
+                        51.422087,
+                        25.648921
+                  ]
+            },
+            {
+                  "name": "old oqda masjed",
+                  "text": "O moschee tradițională cu arhitectură locală, situată lângă parcul pentru familii din Al Khor.",
+                  "category": "landmark",
+                  "coords": [
+                        51.467419,
+                        25.687915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al A'ugdah",
+                  "text": "Historical remains of an old settlement, offering insight into traditional life in Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.465622,
+                        25.680276
+                  ]
+            },
+            {
+                  "name": "Panda House",
+                  "text": "A specialized enclosure in Al Khor Park, home to giant pandas Suhail and Thuraya.",
+                  "category": "recreational",
+                  "coords": [
+                        51.424899,
+                        25.648302
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "An archaeological site featuring foundations of ancient dwellings on the Al Khor coast.",
+                  "category": "historical",
+                  "coords": [
+                        51.50035,
+                        25.689605
+                  ]
+            },
+            {
+                  "name": "Aviary zoo [Al Khor park]",
+                  "text": "A large walk-in aviary in Al Khor Park featuring a variety of exotic bird species.",
+                  "category": "recreational",
+                  "coords": [
+                        51.423182,
+                        25.650578
+                  ]
+            },
+            {
+                  "name": "Al Khor park small zoo",
+                  "text": "A family-friendly section of the park home to local animals like the Arabian oryx.",
+                  "category": "recreational",
+                  "coords": [
+                        51.422087,
+                        25.648921
+                  ]
+            },
+            {
+                  "name": "old oqda masjed",
+                  "text": "A traditional mosque featuring local architectural styles near the Al Khor Family Park.",
+                  "category": "landmark",
+                  "coords": [
+                        51.467419,
+                        25.687915
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "QA-KH",
     coords: [51.4646, 25.6888],
@@ -183,7 +795,88 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-heenat-salma-farm-life-v2",
+    id: "qatar-heenat-salma-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camel Racing Track - Al Shahaniya",
+                  "text": "Ein berühmter Austragungsort für traditionelle Kamelrennen, bei denen oft ferngesteuerte Roboter-Jockeys eingesetzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        51.205281,
+                        25.404101
+                  ]
+            },
+            {
+                  "name": "Al Dosari Zoo and Game Reserve",
+                  "text": "Ein privates Naturschutzgebiet und Zoo, das eine Vielzahl arabischer Wildtiere und Kulturerbe-Exponate zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        51.221044,
+                        25.439226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camel Racing Track - Al Shahaniya",
+                  "text": "Híres helyszín, ahol hagyományos teveversenyeket rendeznek, gyakran távirányítású robotzsokék segítségével.",
+                  "category": "landmark",
+                  "coords": [
+                        51.205281,
+                        25.404101
+                  ]
+            },
+            {
+                  "name": "Al Dosari Zoo and Game Reserve",
+                  "text": "Magán vadrezervátum és állatkert, amely számos arab vadállatot és kulturális örökségi kiállítást mutat be.",
+                  "category": "natural",
+                  "coords": [
+                        51.221044,
+                        25.439226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camel Racing Track - Al Shahaniya",
+                  "text": "O locație faimoasă pentru curse tradiționale de cămile, unde se folosesc adesea roboți jochei telecomandați.",
+                  "category": "landmark",
+                  "coords": [
+                        51.205281,
+                        25.404101
+                  ]
+            },
+            {
+                  "name": "Al Dosari Zoo and Game Reserve",
+                  "text": "O rezervație naturală privată și o grădină zoologică ce prezintă o varietate de animale sălbatice arabe și exponate de patrimoniu.",
+                  "category": "natural",
+                  "coords": [
+                        51.221044,
+                        25.439226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camel Racing Track - Al Shahaniya",
+                  "text": "A famous venue where traditional camel races are held, often featuring remote-controlled robot jockeys.",
+                  "category": "landmark",
+                  "coords": [
+                        51.205281,
+                        25.404101
+                  ]
+            },
+            {
+                  "name": "Al Dosari Zoo and Game Reserve",
+                  "text": "A private nature reserve and zoo showcasing a variety of Arabian wildlife and heritage exhibits.",
+                  "category": "natural",
+                  "coords": [
+                        51.221044,
+                        25.439226
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "QA-SH",
     coords: [51.1891, 25.4057],
@@ -255,7 +948,52 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-al-dosari-zoo-life-v2",
+    id: "qatar-al-dosari-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sheikh Faisal Museum",
+                  "text": "Diese riesige Privatsammlung in einer Festung im traditionellen Stil zeigt alles von Jura-Fossilien und islamischer Kunst bis hin zu einer riesigen Flotte von Oldtimern.",
+                  "category": "museum",
+                  "coords": [
+                        51.25932,
+                        25.34983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sheikh Faisal Museum",
+                  "text": "A hagyományos stílusú erődben helyet kapó hatalmas magángyűjtemény a jura kori kövületektől és az iszlám művészettől kezdve a hatalmas veteránautó-flottáig mindent bemutat.",
+                  "category": "museum",
+                  "coords": [
+                        51.25932,
+                        25.34983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sheikh Faisal Museum",
+                  "text": "Găzduită într-un fort în stil tradițional, această imensă colecție privată expune de la fosile jurasice și artă islamică la o flotă masivă de mașini de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        51.25932,
+                        25.34983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sheikh Faisal Museum",
+                  "text": "Housed in a traditional-style fort, this immense private collection showcases everything from Jurassic fossils and Islamic art to a massive fleet of vintage cars.",
+                  "category": "museum",
+                  "coords": [
+                        51.25932,
+                        25.34983
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "QA-SH",
     coords: [51.2789, 25.3789],
@@ -327,7 +1065,88 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-katara-green-hills-life-v2",
+    id: "qatar-katara-green-hills-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "French Institute of Qatar",
+                  "text": "Ein Kulturzentrum in Katara, das die französische Sprache und Kunst in Katar fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        51.507341,
+                        25.351554
+                  ]
+            },
+            {
+                  "name": "Katara Beach",
+                  "text": "Ein belebter Sandstrand im Kulturviertel, der verschiedene Wassersportarten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        51.527734,
+                        25.358117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "French Institute of Qatar",
+                  "text": "Kulturális központ Katarában, amely a francia nyelvet és művészetet népszerűsíti Katarban.",
+                  "category": "cultural",
+                  "coords": [
+                        51.507341,
+                        25.351554
+                  ]
+            },
+            {
+                  "name": "Katara Beach",
+                  "text": "Népszerű homokos strand a kulturális negyedben, ahol különféle vízi sportok kipróbálhatók.",
+                  "category": "recreational",
+                  "coords": [
+                        51.527734,
+                        25.358117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "French Institute of Qatar",
+                  "text": "Un centru cultural în Katara care promovează limba și arta franceză în Qatar.",
+                  "category": "cultural",
+                  "coords": [
+                        51.507341,
+                        25.351554
+                  ]
+            },
+            {
+                  "name": "Katara Beach",
+                  "text": "O plajă cu nisip populară în districtul cultural, care oferă diverse sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        51.527734,
+                        25.358117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "French Institute of Qatar",
+                  "text": "A cultural hub in Katara promoting French language and arts within Qatar.",
+                  "category": "cultural",
+                  "coords": [
+                        51.507341,
+                        25.351554
+                  ]
+            },
+            {
+                  "name": "Katara Beach",
+                  "text": "A popular sandy beach in the cultural district offering various water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        51.527734,
+                        25.358117
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "QA-DA",
     coords: [51.5273, 25.3582],
@@ -435,7 +1254,52 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-snow-dunes-life-v2",
+    id: "qatar-snow-dunes-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sheikh Saud bin Fahd bin Jassim Al-Thani Mosque",
+                  "text": "Die Moschee Sheikh Saud bin Fahd bin Jassim Al-Thani hebt sich mit ihrer islamischen Architektur von der einzigartigen, schneebedeckten Dünenumgebung ab.",
+                  "category": "landmark",
+                  "coords": [
+                        51.454873,
+                        25.413712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sheikh Saud bin Fahd bin Jassim Al-Thani Mosque",
+                  "text": "A Sheikh Saud bin Fahd bin Jassim Al-Thani mecset iszlám építészetével kiemelkedik az egyedülálló, havas dűnés környezetből.",
+                  "category": "landmark",
+                  "coords": [
+                        51.454873,
+                        25.413712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sheikh Saud bin Fahd bin Jassim Al-Thani Mosque",
+                  "text": "Moscheea Șeic Saud bin Fahd bin Jassim Al-Thani iese în evidență prin arhitectura sa islamică pe fundalul mediului unic cu dune înzăpezite.",
+                  "category": "landmark",
+                  "coords": [
+                        51.454873,
+                        25.413712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sheikh Saud bin Fahd bin Jassim Al-Thani Mosque",
+                  "text": "Sheikh Saud bin Fahd bin Jassim Al-Thani Mosque stands out against the unique, snowy-themed dunes environment with its Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        51.454873,
+                        25.413712
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "QA-DA",
     coords: [51.4340, 25.3910],
@@ -472,7 +1336,52 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-kidzmondo-doha-life-v2",
+    id: "qatar-kidzmondo-doha-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "PushPull Jn",
+                  "text": "Eine interaktive Kreuzung in der Edutainment-Stadt KidzMondo Doha für Kinder.",
+                  "category": "landmark",
+                  "coords": [
+                        51.426906,
+                        25.379721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PushPull Jn",
+                  "text": "Interaktív kereszteződés a KidzMondo Doha gyermekeknek szóló élményközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.426906,
+                        25.379721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PushPull Jn",
+                  "text": "O intersecție interactivă în orașul educațional KidzMondo Doha pentru copii.",
+                  "category": "landmark",
+                  "coords": [
+                        51.426906,
+                        25.379721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PushPull Jn",
+                  "text": "An interactive intersection within the KidzMondo Doha edutainment city for children.",
+                  "category": "landmark",
+                  "coords": [
+                        51.426906,
+                        25.379721
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "QA-DA",
     coords: [51.4300, 25.3850],
@@ -508,7 +1417,196 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-megapolis-entertainment-life-v2",
+    id: "qatar-megapolis-entertainment-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marsa Canal",
+                  "text": "Ein malerischer Wasserweg, der sich durch das von Venedig inspirierte Viertel schlängelt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.547328,
+                        25.373024
+                  ]
+            },
+            {
+                  "name": "CP10B1",
+                  "text": "Ein Aussichtspunkt, der weite Blicke über das Kanalnetz der künstlichen Insel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        51.52451,
+                        25.381561
+                  ]
+            },
+            {
+                  "name": "Lido Venezia",
+                  "text": "Ein Sandstrand im Qanat Quartier, der das entspannte Flair der venezianischen Küste imitiert.",
+                  "category": "recreational",
+                  "coords": [
+                        51.546825,
+                        25.380415
+                  ]
+            },
+            {
+                  "name": "Lido Murano",
+                  "text": "Ein Erholungsstrand an der künstlichen Küste der Insel, ideal für einen Spaziergang am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        51.544095,
+                        25.379497
+                  ]
+            },
+            {
+                  "name": "Lido Lagune",
+                  "text": "Ein ruhiger Schwimmbereich in der geschützten inneren Lagune der Insel The Pearl.",
+                  "category": "recreational",
+                  "coords": [
+                        51.542968,
+                        25.37824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marsa Canal",
+                  "text": "Egy festői vízi út, amely a Velence ihlette negyeden kanyarog keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        51.547328,
+                        25.373024
+                  ]
+            },
+            {
+                  "name": "CP10B1",
+                  "text": "Kilátópont, ahonnan széles kilátás nyílik a mesterséges sziget csatornahálózatára.",
+                  "category": "natural",
+                  "coords": [
+                        51.52451,
+                        25.381561
+                  ]
+            },
+            {
+                  "name": "Lido Venezia",
+                  "text": "Homokos strand a Qanat negyedben, amely a velencei tengerpart hangulatát idézi.",
+                  "category": "recreational",
+                  "coords": [
+                        51.546825,
+                        25.380415
+                  ]
+            },
+            {
+                  "name": "Lido Murano",
+                  "text": "Pihenőstrand a sziget mesterséges partján, amely ideális egy tengerparti sétához.",
+                  "category": "recreational",
+                  "coords": [
+                        51.544095,
+                        25.379497
+                  ]
+            },
+            {
+                  "name": "Lido Lagune",
+                  "text": "Egy nyugodt fürdőhely a The Pearl sziget védett belső lagúnájában.",
+                  "category": "recreational",
+                  "coords": [
+                        51.542968,
+                        25.37824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marsa Canal",
+                  "text": "O cale navigabilă pitorească ce șerpuiește prin cartierul inspirat de Veneția.",
+                  "category": "landmark",
+                  "coords": [
+                        51.547328,
+                        25.373024
+                  ]
+            },
+            {
+                  "name": "CP10B1",
+                  "text": "Un punct de observație care oferă vederi largi asupra rețelei de canale a insulei artificiale.",
+                  "category": "natural",
+                  "coords": [
+                        51.52451,
+                        25.381561
+                  ]
+            },
+            {
+                  "name": "Lido Venezia",
+                  "text": "O plajă cu nisip în cartierul Qanat, care imită atmosfera relaxată a coastei venețiene.",
+                  "category": "recreational",
+                  "coords": [
+                        51.546825,
+                        25.380415
+                  ]
+            },
+            {
+                  "name": "Lido Murano",
+                  "text": "O plajă de recreere pe coasta artificială a insulei, ideală pentru o plimbare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        51.544095,
+                        25.379497
+                  ]
+            },
+            {
+                  "name": "Lido Lagune",
+                  "text": "O zonă liniștită de înot situată în laguna interioară protejată a insulei The Pearl.",
+                  "category": "recreational",
+                  "coords": [
+                        51.542968,
+                        25.37824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marsa Canal",
+                  "text": "A scenic waterway winding through the Venice-inspired district.",
+                  "category": "landmark",
+                  "coords": [
+                        51.547328,
+                        25.373024
+                  ]
+            },
+            {
+                  "name": "CP10B1",
+                  "text": "An observation point offering wide views over the artificial island's canal network.",
+                  "category": "natural",
+                  "coords": [
+                        51.52451,
+                        25.381561
+                  ]
+            },
+            {
+                  "name": "Lido Venezia",
+                  "text": "A sandy beach in the Qanat Quartier mimicking the relaxed vibe of the Venetian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        51.546825,
+                        25.380415
+                  ]
+            },
+            {
+                  "name": "Lido Murano",
+                  "text": "A recreational beach on the island's artificial coast, ideal for a seaside stroll.",
+                  "category": "recreational",
+                  "coords": [
+                        51.544095,
+                        25.379497
+                  ]
+            },
+            {
+                  "name": "Lido Lagune",
+                  "text": "A calm swimming area situated within the sheltered inner lagoon of The Pearl island.",
+                  "category": "recreational",
+                  "coords": [
+                        51.542968,
+                        25.37824
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "QA-DA",
     coords: [51.5471, 25.3725],
@@ -544,7 +1642,304 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-hotel-park-doha-life-v2",
+    id: "qatar-hotel-park-doha-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al jerena Tower(Halul)",
+                  "text": "Dieser Aussichtspunkt bietet einen Panoramablick auf die modernen Wolkenkratzer von West Bay und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        51.53581,
+                        25.324418
+                  ]
+            },
+            {
+                  "name": "Fun City",
+                  "text": "Ein Indoor-Vergnügungspark im City Center Einkaufszentrum, der zahlreiche Fahrgeschäfte für Kinder bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        51.53188,
+                        25.324533
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions Doha",
+                  "text": "Dieses interaktive Museum zeigt optische Täuschungen, Hologramme und sensorische Exponate für alle Altersgruppen.",
+                  "category": "museum",
+                  "coords": [
+                        51.526499,
+                        25.323646
+                  ]
+            },
+            {
+                  "name": "Hilton's Beach",
+                  "text": "Ein privater Sandstrand im Stadtteil West Bay, der Wassersportmöglichkeiten und Blick auf die Skyline bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        51.5412,
+                        25.326453
+                  ]
+            },
+            {
+                  "name": "Four Seasons Beach",
+                  "text": "Ein exklusiver Küstenabschnitt am Arabischen Golf, der für seine ruhige Lage inmitten luxuriöser Hotelanlagen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        51.53956,
+                        25.323797
+                  ]
+            },
+            {
+                  "name": "Intercontinental Doha Theatre",
+                  "text": "Dieses moderne Theater ist ein bedeutender Veranstaltungsort für internationale Aufführungen und kulturelle Shows.",
+                  "category": "cultural",
+                  "coords": [
+                        51.525213,
+                        25.326365
+                  ]
+            },
+            {
+                  "name": "Al Wahada arches",
+                  "text": "Diese gewaltigen, sich kreuzenden Stahlbögen sind das höchste Denkmal Katars und markieren einen wichtigen Verkehrsknotenpunkt.",
+                  "category": "historical",
+                  "coords": [
+                        51.518032,
+                        25.335418
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ein lokaler islamischer Gebetsort, der durch seine schlichte Architektur in der Nähe des Hotelparks auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523399,
+                        25.327241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al jerena Tower(Halul)",
+                  "text": "Erről a kilátóhelyről panorámás kilátás nyílik a West Bay modern felhőkarcolóira és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        51.53581,
+                        25.324418
+                  ]
+            },
+            {
+                  "name": "Fun City",
+                  "text": "A City Center bevásárlóközpontban található fedett vidámpark, amely számos játékot kínál gyermekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        51.53188,
+                        25.324533
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions Doha",
+                  "text": "Ez az interaktív múzeum optikai csalódásokat, hologramokat és érzékszervi kiállításokat kínál minden korosztálynak.",
+                  "category": "museum",
+                  "coords": [
+                        51.526499,
+                        25.323646
+                  ]
+            },
+            {
+                  "name": "Hilton's Beach",
+                  "text": "Magán homokos strand a West Bay negyedben, amely vízi sportokat és kilátást kínál a városra.",
+                  "category": "recreational",
+                  "coords": [
+                        51.5412,
+                        25.326453
+                  ]
+            },
+            {
+                  "name": "Four Seasons Beach",
+                  "text": "Exkluzív tengerparti szakasz az Arab-öbölnél, amely luxusszállodák környezetében lévő nyugodt fekvéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        51.53956,
+                        25.323797
+                  ]
+            },
+            {
+                  "name": "Intercontinental Doha Theatre",
+                  "text": "Ez a modern színház nemzetközi előadások és kulturális show-műsorok jelentős helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        51.525213,
+                        25.326365
+                  ]
+            },
+            {
+                  "name": "Al Wahada arches",
+                  "text": "Ezek a hatalmas, egymást keresztező acélívek Katar legmagasabb emlékművei, és egy fontos közlekedési csomópontot jeleznek.",
+                  "category": "historical",
+                  "coords": [
+                        51.518032,
+                        25.335418
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Helyi iszlám imádkozóhely, amely egyszerű építészetével tűnik ki a Hotel Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523399,
+                        25.327241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al jerena Tower(Halul)",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra zgârie-norilor moderni din West Bay și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        51.53581,
+                        25.324418
+                  ]
+            },
+            {
+                  "name": "Fun City",
+                  "text": "Un parc de distracții interior situat în centrul comercial City Center, oferind numeroase atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        51.53188,
+                        25.324533
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions Doha",
+                  "text": "Acest muzeu interactiv prezintă iluzii optice, holograme și expoziții senzoriale pentru toate vârstele.",
+                  "category": "museum",
+                  "coords": [
+                        51.526499,
+                        25.323646
+                  ]
+            },
+            {
+                  "name": "Hilton's Beach",
+                  "text": "O plajă privată cu nisip din cartierul West Bay, care oferă sporturi nautice și vedere la orizont.",
+                  "category": "recreational",
+                  "coords": [
+                        51.5412,
+                        25.326453
+                  ]
+            },
+            {
+                  "name": "Four Seasons Beach",
+                  "text": "O porțiune exclusivistă de coastă la Golful Arabic, cunoscută pentru locația sa liniștită în cadrul complexelor hoteliere de lux.",
+                  "category": "recreational",
+                  "coords": [
+                        51.53956,
+                        25.323797
+                  ]
+            },
+            {
+                  "name": "Intercontinental Doha Theatre",
+                  "text": "Acest teatru modern este o locație importantă pentru spectacole internaționale și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        51.525213,
+                        25.326365
+                  ]
+            },
+            {
+                  "name": "Al Wahada arches",
+                  "text": "Aceste arcade gigantice de oțel care se intersectează sunt cel mai înalt monument din Qatar și marchează un nod rutier important.",
+                  "category": "historical",
+                  "coords": [
+                        51.518032,
+                        25.335418
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un loc de rugăciune islamic local, care se remarcă prin arhitectura sa simplă în apropiere de Hotel Park.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523399,
+                        25.327241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ATCC - Housam Ayoub",
+                  "text": "This vantage point offers a panoramic view of the modern skyscrapers of West Bay and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        51.53581,
+                        25.324418
+                  ]
+            },
+            {
+                  "name": "Fun City",
+                  "text": "An indoor amusement park located within the City Center mall, offering numerous rides for children.",
+                  "category": "recreational",
+                  "coords": [
+                        51.53188,
+                        25.324533
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions Doha",
+                  "text": "This interactive museum features optical illusions, holograms, and sensory exhibits for all ages.",
+                  "category": "museum",
+                  "coords": [
+                        51.526499,
+                        25.323646
+                  ]
+            },
+            {
+                  "name": "Hilton's Beach",
+                  "text": "A private sandy beach in the West Bay district, offering water sports and views of the skyline.",
+                  "category": "recreational",
+                  "coords": [
+                        51.5412,
+                        25.326453
+                  ]
+            },
+            {
+                  "name": "Four Seasons Beach",
+                  "text": "An exclusive stretch of coast on the Arabian Gulf, known for its tranquil setting within luxury hotel complexes.",
+                  "category": "recreational",
+                  "coords": [
+                        51.53956,
+                        25.323797
+                  ]
+            },
+            {
+                  "name": "Intercontinental Doha Theatre",
+                  "text": "This modern theatre is a major venue for international performances and cultural shows.",
+                  "category": "cultural",
+                  "coords": [
+                        51.525213,
+                        25.326365
+                  ]
+            },
+            {
+                  "name": "Al Wahada arches",
+                  "text": "These massive, intersecting steel arches are Qatar's tallest monument and mark a major traffic interchange.",
+                  "category": "historical",
+                  "coords": [
+                        51.518032,
+                        25.335418
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local Islamic prayer site that stands out for its simple architecture near the Hotel Park.",
+                  "category": "landmark",
+                  "coords": [
+                        51.523399,
+                        25.327241
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "QA-DA",
     coords: [51.5284, 25.3182],
@@ -616,7 +2011,268 @@ export const poiExtraQatarLifeV2: POI[] = [
     }
   },
   {
-    id: "qatar-al-wakrah-public-garden-life-v2",
+    id: "qatar-al-wakrah-public-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "al wakra beach",
+                  "text": "Ein malerischer Küstenabschnitt mit feinem Sand und Blick auf das türkisfarbene Wasser des Persischen Golfs.",
+                  "category": "natural",
+                  "coords": [
+                        51.617706,
+                        25.135042
+                  ]
+            },
+            {
+                  "name": "Wakra Port",
+                  "text": "Ein traditioneller Hafen, an dem man hölzerne Dhau-Boote und Fischer beim Einholen ihres Fangs beobachten kann.",
+                  "category": "landmark",
+                  "coords": [
+                        51.617373,
+                        25.162376
+                  ]
+            },
+            {
+                  "name": "Pardha House",
+                  "text": "Ein kulturelles Zentrum in Al Wakrah, das lokale Theateraufführungen und künstlerische Veranstaltungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        51.599854,
+                        25.156252
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Bin Jassim Fort",
+                  "text": "Diese historische Festung mit ihren dicken Mauern diente einst dem Schutz der Küstenstadt Al Wakrah.",
+                  "category": "castle",
+                  "coords": [
+                        51.604877,
+                        25.172499
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine lokale Moschee in Al Wakrah, die sich durch ihr traditionelles Minarett und die schlichte Fassade auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.599781,
+                        25.149527
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ibrahim",
+                  "text": "Ein wichtiger religiöser Treffpunkt für die Bewohner von Al Wakrah mit klassischer islamischer Gestaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        51.60198,
+                        25.168288
+                  ]
+            },
+            {
+                  "name": "Al Wakrah Souq",
+                  "text": "Ein im traditionellen katarischen Stil erbauter Markt mit Lehmwänden und Blick auf das Meer.",
+                  "category": "cultural",
+                  "coords": [
+                        51.609766,
+                        25.171153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "al wakra beach",
+                  "text": "Gleccserkék vízzel és finom homokkal rendelkező festői tengerpart, kilátással a Perzsa-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        51.617706,
+                        25.135042
+                  ]
+            },
+            {
+                  "name": "Wakra Port",
+                  "text": "Hagyományos kikötő, ahol fából készült dhow-hajók és zsákmányukat behúzó halászok láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        51.617373,
+                        25.162376
+                  ]
+            },
+            {
+                  "name": "Pardha House",
+                  "text": "Kulturális központ Al Wakrah-ban, amely helyi színházi előadásoknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        51.599854,
+                        25.156252
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Bin Jassim Fort",
+                  "text": "Ez a vastag falú történelmi erőd egykor Al Wakrah tengerparti városának védelmét szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        51.604877,
+                        25.172499
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Helyi mecset Al Wakrah-ban, amelyet hagyományos minaretje és letisztult homlokzata jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        51.599781,
+                        25.149527
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ibrahim",
+                  "text": "Fontos vallási találkozóhely Al Wakrah lakói számára, klasszikus iszlám kialakítással.",
+                  "category": "landmark",
+                  "coords": [
+                        51.60198,
+                        25.168288
+                  ]
+            },
+            {
+                  "name": "Al Wakrah Souq",
+                  "text": "Hagyományos katari stílusban épült piac sárfalakkal és tengerre néző kilátással.",
+                  "category": "cultural",
+                  "coords": [
+                        51.609766,
+                        25.171153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "al wakra beach",
+                  "text": "O porțiune pitorească de coastă cu nisip fin și vedere spre apele turcoaz ale Golfului Persic.",
+                  "category": "natural",
+                  "coords": [
+                        51.617706,
+                        25.135042
+                  ]
+            },
+            {
+                  "name": "Wakra Port",
+                  "text": "Un port tradițional unde pot fi observate bărci dhow din lemn și pescari care își aduc captura.",
+                  "category": "landmark",
+                  "coords": [
+                        51.617373,
+                        25.162376
+                  ]
+            },
+            {
+                  "name": "Pardha House",
+                  "text": "Un centru cultural în Al Wakrah, care găzduiește spectacole de teatru locale și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        51.599854,
+                        25.156252
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Bin Jassim Fort",
+                  "text": "Această fortăreață istorică cu ziduri groase a servit odinioară la protejarea orașului de coastă Al Wakrah.",
+                  "category": "castle",
+                  "coords": [
+                        51.604877,
+                        25.172499
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee locală în Al Wakrah, caracterizată prin minaretul său tradițional și fațada simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.599781,
+                        25.149527
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ibrahim",
+                  "text": "Un important punct de întâlnire religios pentru locuitorii din Al Wakrah, cu design islamic clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        51.60198,
+                        25.168288
+                  ]
+            },
+            {
+                  "name": "Al Wakrah Souq",
+                  "text": "O piață construită în stil tradițional qatarez, cu pereți din lut și vedere la mare.",
+                  "category": "cultural",
+                  "coords": [
+                        51.609766,
+                        25.171153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "al wakra beach",
+                  "text": "A scenic stretch of coastline featuring fine sand and views of the Persian Gulf's turquoise waters.",
+                  "category": "natural",
+                  "coords": [
+                        51.617706,
+                        25.135042
+                  ]
+            },
+            {
+                  "name": "Wakra Port",
+                  "text": "A traditional harbor where you can see wooden dhow boats and fishermen bringing in their catch.",
+                  "category": "landmark",
+                  "coords": [
+                        51.617373,
+                        25.162376
+                  ]
+            },
+            {
+                  "name": "Pardha House",
+                  "text": "A cultural hub in Al Wakrah that hosts local theater performances and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        51.599854,
+                        25.156252
+                  ]
+            },
+            {
+                  "name": "Abdulrahman Bin Jassim Fort",
+                  "text": "This historic fort with thick walls once served to protect the coastal town of Al Wakrah.",
+                  "category": "castle",
+                  "coords": [
+                        51.604877,
+                        25.172499
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local mosque in Al Wakrah characterized by its traditional minaret and simple facade.",
+                  "category": "landmark",
+                  "coords": [
+                        51.599781,
+                        25.149527
+                  ]
+            },
+            {
+                  "name": "Masjid Al Ibrahim",
+                  "text": "An important religious meeting point for Al Wakrah residents, featuring classical Islamic design.",
+                  "category": "landmark",
+                  "coords": [
+                        51.60198,
+                        25.168288
+                  ]
+            },
+            {
+                  "name": "Al Wakrah Souq",
+                  "text": "A market built in traditional Qatari style with mud-rendered walls and seaside views.",
+                  "category": "cultural",
+                  "coords": [
+                        51.609766,
+                        25.171153
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "QA-WA",
     coords: [51.6033, 25.1764],

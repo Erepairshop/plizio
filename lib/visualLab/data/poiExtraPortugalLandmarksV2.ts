@@ -484,7 +484,7 @@ export const portugalLandmarksV2: POI[] = [
             },
             {
                   "name": "Teatro Jordão",
-                  "text": "Örtliches Theater und kultureller Veranstaltungsort in Guimarães.",
+                  "text": "Ein wunderschönes Theater aus dem frühen 20. Jahrhundert im historischen Zentrum von Guimarães.",
                   "category": "cultural",
                   "coords": [
                         -8.294938,
@@ -511,7 +511,7 @@ export const portugalLandmarksV2: POI[] = [
             },
             {
                   "name": "Teatro Oficina",
-                  "text": "Ein zeitgenössisches Theater und Kulturraum in Guimarães.",
+                  "text": "Intimes Theater im Bereich der Burg von Guimarães, genutzt für zeitgenössische Stücke.",
                   "category": "cultural",
                   "coords": [
                         -8.291873,
@@ -558,7 +558,7 @@ export const portugalLandmarksV2: POI[] = [
             },
             {
                   "name": "Teatro Jordão",
-                  "text": "Helyi színház és kulturális helyszín Guimarãesben.",
+                  "text": "Egy gyönyörű, korai 20. századi színház Guimarães történelmi központjában.",
                   "category": "cultural",
                   "coords": [
                         -8.294938,
@@ -585,7 +585,7 @@ export const portugalLandmarksV2: POI[] = [
             },
             {
                   "name": "Teatro Oficina",
-                  "text": "Kortárs színház és kulturális tér Guimarãesben.",
+                  "text": "Intim színház a Guimarães-i vár környékén, kortárs darabok számára.",
                   "category": "cultural",
                   "coords": [
                         -8.291873,
@@ -632,7 +632,7 @@ export const portugalLandmarksV2: POI[] = [
             },
             {
                   "name": "Teatro Jordão",
-                  "text": "Teatru local și loc cultural în Guimarães.",
+                  "text": "Un teatru frumos de la începutul secolului XX în centrul istoric al Guimarãesului.",
                   "category": "cultural",
                   "coords": [
                         -8.294938,
@@ -659,7 +659,7 @@ export const portugalLandmarksV2: POI[] = [
             },
             {
                   "name": "Teatro Oficina",
-                  "text": "Un teatru contemporan și spațiu cultural situat în Guimarães.",
+                  "text": "Teatru intim în zona castelului Guimarães, folosit pentru piese contemporane.",
                   "category": "cultural",
                   "coords": [
                         -8.291873,
@@ -706,7 +706,7 @@ export const portugalLandmarksV2: POI[] = [
             },
             {
                   "name": "Teatro Jordão",
-                  "text": "A local theater and cultural venue in Guimarães.",
+                  "text": "A beautiful early 20th-century theatre in the historic centre of Guimarães.",
                   "category": "cultural",
                   "coords": [
                         -8.294938,
@@ -733,7 +733,7 @@ export const portugalLandmarksV2: POI[] = [
             },
             {
                   "name": "Teatro Oficina",
-                  "text": "A contemporary theatre and cultural space located in Guimarães.",
+                  "text": "Intimate theater in the Guimarães castle area, used for contemporary plays.",
                   "category": "cultural",
                   "coords": [
                         -8.291873,

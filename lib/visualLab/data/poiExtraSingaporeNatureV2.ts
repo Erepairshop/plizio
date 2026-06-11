@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraSingaporeNatureV2: POI[] = [
   {
-    id: "sg-bukit-timah-nature-reserve-nature-v2",
+    id: "sg-bukit-timah-nature-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pipes",
+                  "text": "Massive, verrostete gusseiserne Wasserrohre, die als Relikt früherer Infrastruktur die Waldlandschaft durchschneiden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.785096,
+                        1.350791
+                  ]
+            },
+            {
+                  "name": "Colugo Deck",
+                  "text": "Eine erhöhte Aussichtsplattform aus Holz, die strategisch günstig platziert wurde, um die flinken Sunda-Gleitflieger zwischen den Bäumen zu entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        103.782085,
+                        1.344835
+                  ]
+            },
+            {
+                  "name": "Rifle Range Nature Park",
+                  "text": "Diese Grünanlage beherbergt ein Süßwasserfeuchtgebiet, das aus dem verlassenen Sin-Seng-Granitsteinbruch entstanden ist.",
+                  "category": "natural",
+                  "coords": [
+                        103.782346,
+                        1.346223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pipes",
+                  "text": "Hatalmas, rozsdás öntöttvas vízvezetékek szelik át az erdei tájat, a korai infrastruktúra relikviájaként.",
+                  "category": "landmark",
+                  "coords": [
+                        103.785096,
+                        1.350791
+                  ]
+            },
+            {
+                  "name": "Colugo Deck",
+                  "text": "Egy megemelt fából készült kilátóterasz, amelyet stratégiailag úgy helyeztek el, hogy megfigyelhessék a fák között sikló ritka repülőmakikat.",
+                  "category": "natural",
+                  "coords": [
+                        103.782085,
+                        1.344835
+                  ]
+            },
+            {
+                  "name": "Rifle Range Nature Park",
+                  "text": "Ez a zöldterület egy édesvízi vizenyős területet foglal magában, amelyet az elhagyatott Sin Seng gránitbányából alakítottak ki.",
+                  "category": "natural",
+                  "coords": [
+                        103.782346,
+                        1.346223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pipes",
+                  "text": "Conducte masive de apă din fontă ruginită care străbat peisajul forestier ca o relicvă a infrastructurii timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        103.785096,
+                        1.350791
+                  ]
+            },
+            {
+                  "name": "Colugo Deck",
+                  "text": "O platformă de observație din lemn înălțată, poziționată strategic pentru a observa zburătoarele leneșe de Sunda planând printre copaci.",
+                  "category": "natural",
+                  "coords": [
+                        103.782085,
+                        1.344835
+                  ]
+            },
+            {
+                  "name": "Rifle Range Nature Park",
+                  "text": "Acest spațiu verde prezintă o zonă umedă cu apă dulce transformată din cariera abandonată de granit Sin Seng.",
+                  "category": "natural",
+                  "coords": [
+                        103.782346,
+                        1.346223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pipes",
+                  "text": "Massive, rusted cast-iron water pipes cutting through the forest landscape as a relic of early infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        103.785096,
+                        1.350791
+                  ]
+            },
+            {
+                  "name": "Colugo Deck",
+                  "text": "A raised wooden observation platform strategically positioned for spotting the elusive Sunda colugos gliding through the trees.",
+                  "category": "natural",
+                  "coords": [
+                        103.782085,
+                        1.344835
+                  ]
+            },
+            {
+                  "name": "Rifle Range Nature Park",
+                  "text": "This green space features a freshwater wetland transformed from the abandoned Sin Seng granite quarry.",
+                  "category": "natural",
+                  "coords": [
+                        103.782346,
+                        1.346223
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SG-01",
     coords: [103.7786, 1.3483],
@@ -99,7 +216,88 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
         {
-    id: "sg-labrador-nature-reserve-nature-v2",
+    id: "sg-labrador-nature-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Fourth Gun Position",
+                  "text": "Diese historische militärische Attraktion zeigt die Betonüberreste einer Küstenartilleriestellung, die den Hafen verteidigen sollte.",
+                  "category": "landmark",
+                  "coords": [
+                        103.803874,
+                        1.265221
+                  ]
+            },
+            {
+                  "name": "Dragon's Teeth Gate",
+                  "text": "Dieses im Jahr 2005 rekonstruierte Denkmal ist eine Nachbildung der felsigen Klippen, die historisch den westlichen Eingang zum Keppel Harbour markierten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.805346,
+                        1.262969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Fourth Gun Position",
+                  "text": "Ez a történelmi katonai látványosság egy, a kikötő védelmére szolgáló egykori partvédelmi tüzérségi állás betonmaradványait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        103.803874,
+                        1.265221
+                  ]
+            },
+            {
+                  "name": "Dragon's Teeth Gate",
+                  "text": "A 2005-ben újjáépített emlékmű azokat a sziklaképződményeket másolja, amelyek történelmileg a Keppel-kikötő nyugati bejáratát jelezték.",
+                  "category": "landmark",
+                  "coords": [
+                        103.805346,
+                        1.262969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Fourth Gun Position",
+                  "text": "Această atracție militară istorică prezintă rămășițele de beton ale unui amplasament de artilerie de coastă menit să apere portul.",
+                  "category": "landmark",
+                  "coords": [
+                        103.803874,
+                        1.265221
+                  ]
+            },
+            {
+                  "name": "Dragon's Teeth Gate",
+                  "text": "Reconstruit în 2005, acest monument reproduce stâncile care marcau istoric intrarea de vest în Portul Keppel.",
+                  "category": "landmark",
+                  "coords": [
+                        103.805346,
+                        1.262969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Fourth Gun Position",
+                  "text": "This historical military attraction features the concrete remains of a coastal artillery emplacement meant to defend the harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        103.803874,
+                        1.265221
+                  ]
+            },
+            {
+                  "name": "Dragon's Teeth Gate",
+                  "text": "Reconstructed in 2005, this monument replicates the rocky outcrops that historically marked the western entrance to Keppel Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        103.805346,
+                        1.262969
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SG-01",
     coords: [103.8026, 1.2658],
@@ -195,7 +393,52 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
   {
-    id: "sg-sisters-islands-marine-park-nature-v2",
+    id: "sg-sisters-islands-marine-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sisters' Island Marine Park",
+                  "text": "Dieses bemerkenswerte Meeresnaturschutzgebiet umfasst Korallenriffe und Ufer, die eine vielfältige Unterwasserwelt schützen.",
+                  "category": "natural",
+                  "coords": [
+                        103.836391,
+                        1.217221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sisters' Island Marine Park",
+                  "text": "Ez a nevezetes tengeri természetvédelmi terület korallzátonyokat és partokat foglal magában, amelyek változatos vízi vadvilágot védenek.",
+                  "category": "natural",
+                  "coords": [
+                        103.836391,
+                        1.217221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sisters' Island Marine Park",
+                  "text": "Această rezervație naturală marină notabilă cuprinde recife de corali și țărmuri care protejează o faună acvatică diversă.",
+                  "category": "natural",
+                  "coords": [
+                        103.836391,
+                        1.217221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sisters' Island Marine Park",
+                  "text": "This notable marine nature reserve encompasses coral reefs and shores protecting diverse aquatic wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        103.836391,
+                        1.217221
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "SG-01",
     coords: [103.8315, 1.2136],
@@ -243,7 +486,268 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
   {
-    id: "sg-lower-peirce-reservoir-park-nature-v2",
+    id: "sg-lower-peirce-reservoir-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Living Off The Land",
+                  "text": "Eine lehrreiche Pfadausstellung in der Nähe des Stausees, die traditionelle Nahrungssuche und indigene Überlebensfähigkeiten im Dschungel hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822286,
+                        1.382448
+                  ]
+            },
+            {
+                  "name": "HAN Family",
+                  "text": "Eine geschützte Ahnengrabstätte inmitten der Bäume, die die historische Ruhestätte der örtlichen Familie Han markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823271,
+                        1.38277
+                  ]
+            },
+            {
+                  "name": "Central Catchment Nature Reserve",
+                  "text": "Singapurs größtes Naturschutzgebiet umfasst dichte primäre Regenwälder und lebenswichtige Stauseen, die als Zufluchtsort für eine vielfältige einheimische Tierwelt dienen.",
+                  "category": "natural",
+                  "coords": [
+                        103.802131,
+                        1.378952
+                  ]
+            },
+            {
+                  "name": "Upper Peirce Reservoir Park",
+                  "text": "Dieser Park bietet einen weiten Blick über die ausgedehnten Gewässer des Stausees und ist von Sekundärwäldern umgeben, die häufig von Langschwanzmakaken besucht werden.",
+                  "category": "park",
+                  "coords": [
+                        103.812403,
+                        1.372428
+                  ]
+            },
+            {
+                  "name": "Salem Chapel",
+                  "text": "Eine ruhige christliche Kapelle in der Nähe des Randes des Naturschutzgebietes, die eine friedliche Umgebung für sonntägliche Besinnung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.83203,
+                        1.378824
+                  ]
+            },
+            {
+                  "name": "St Thomas Orthodox Syrian Cathedral",
+                  "text": "Diese syrisch-orthodoxe Kathedrale dient ihrer Gemeinde in der Nähe der Wasserwege des Lower Peirce Reservoirs.",
+                  "category": "landmark",
+                  "coords": [
+                        103.833504,
+                        1.381287
+                  ]
+            },
+            {
+                  "name": "Sembawang Baptist Church",
+                  "text": "Diese Baptistenkirche ist ein Zentrum für christliche Gemeindetreffen in der Nähe der Naturschutzgebiete am Lower Peirce Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828064,
+                        1.377269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Living Off The Land",
+                  "text": "Egy tanösvény-kiállítás a víztározó közelében, amely a hagyományos táplálékkeresést és az őslakosok dzsungelben való túlélési készségeit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822286,
+                        1.382448
+                  ]
+            },
+            {
+                  "name": "HAN Family",
+                  "text": "A fák között megbúvó, megőrzött ősi sírhely, amely a helyi Han család történelmi nyughelyét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823271,
+                        1.38277
+                  ]
+            },
+            {
+                  "name": "Central Catchment Nature Reserve",
+                  "text": "Szingapúr legnagyobb természetvédelmi területe sűrű elsődleges esőerdőket és létfontosságú víztározókat foglal magában, menedékként szolgálva a változatos őshonos vadvilág számára.",
+                  "category": "natural",
+                  "coords": [
+                        103.802131,
+                        1.378952
+                  ]
+            },
+            {
+                  "name": "Upper Peirce Reservoir Park",
+                  "text": "A hatalmas víztározó vizére nyíló, lenyűgöző kilátást nyújtó parkot másodlagos erdő veszi körül, amelyet gyakran látogatnak hosszúfarkú makákók.",
+                  "category": "park",
+                  "coords": [
+                        103.812403,
+                        1.372428
+                  ]
+            },
+            {
+                  "name": "Salem Chapel",
+                  "text": "Egy békés keresztény kápolna a természetvédelmi terület szélén, amely nyugodt környezetet kínál a vasárnapi elmélkedésekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        103.83203,
+                        1.378824
+                  ]
+            },
+            {
+                  "name": "St Thomas Orthodox Syrian Cathedral",
+                  "text": "Ez az ortodox szír keresztény katedrális a Lower Peirce víztározó közelében szolgálja közösségét.",
+                  "category": "landmark",
+                  "coords": [
+                        103.833504,
+                        1.381287
+                  ]
+            },
+            {
+                  "name": "Sembawang Baptist Church",
+                  "text": "Ez a baptista templom a keresztény gyülekezeti összejövetelek központja a Lower Peirce Reservoir természetvédelmi területei mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828064,
+                        1.377269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Living Off The Land",
+                  "text": "O expoziție educațională pe traseu, în apropierea rezervorului, care evidențiază tehnicile tradiționale de căutare a hranei și abilitățile de supraviețuire indigene în junglă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822286,
+                        1.382448
+                  ]
+            },
+            {
+                  "name": "HAN Family",
+                  "text": "Un mormânt ancestral conservat, cuibărit printre copaci, marcând locul istoric de odihnă al familiei locale Han.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823271,
+                        1.38277
+                  ]
+            },
+            {
+                  "name": "Central Catchment Nature Reserve",
+                  "text": "Cea mai mare rezervație naturală din Singapore cuprinde păduri tropicale primare dense și rezervoare vitale, servind drept sanctuar pentru o viață sălbatică nativă diversă.",
+                  "category": "natural",
+                  "coords": [
+                        103.802131,
+                        1.378952
+                  ]
+            },
+            {
+                  "name": "Upper Peirce Reservoir Park",
+                  "text": "Oferind vederi panoramice peste apele extinse ale rezervorului, acest parc este înconjurat de pădure secundară vizitată frecvent de macaci cu coadă lungă.",
+                  "category": "park",
+                  "coords": [
+                        103.812403,
+                        1.372428
+                  ]
+            },
+            {
+                  "name": "Salem Chapel",
+                  "text": "O capelă creștină senină situată aproape de marginea rezervației naturale, oferind un mediu pașnic pentru reflecțiile de duminică.",
+                  "category": "landmark",
+                  "coords": [
+                        103.83203,
+                        1.378824
+                  ]
+            },
+            {
+                  "name": "St Thomas Orthodox Syrian Cathedral",
+                  "text": "Această catedrală creștin-ortodoxă siriană își deservește comunitatea în apropiere de rezervorul Lower Peirce.",
+                  "category": "landmark",
+                  "coords": [
+                        103.833504,
+                        1.381287
+                  ]
+            },
+            {
+                  "name": "Sembawang Baptist Church",
+                  "text": "Această biserică baptistă este un centru pentru adunările congregaționale creștine lângă rezervațiile naturale de la Parcul Rezervorului Lower Peirce.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828064,
+                        1.377269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Living Off The Land",
+                  "text": "An educational trail exhibit near the reservoir that highlights traditional foraging and indigenous survival skills in the jungle.",
+                  "category": "landmark",
+                  "coords": [
+                        103.822286,
+                        1.382448
+                  ]
+            },
+            {
+                  "name": "HAN Family",
+                  "text": "A preserved ancestral gravesite nestled among the trees, marking the historical resting place of the local Han family.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823271,
+                        1.38277
+                  ]
+            },
+            {
+                  "name": "Central Catchment Nature Reserve",
+                  "text": "Singapore's largest nature reserve encompasses dense primary rainforests and vital reservoirs, serving as a sanctuary for diverse native wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        103.802131,
+                        1.378952
+                  ]
+            },
+            {
+                  "name": "Upper Peirce Reservoir Park",
+                  "text": "Offering sweeping views over the expansive reservoir waters, this park is surrounded by secondary forest frequently visited by long-tailed macaques.",
+                  "category": "park",
+                  "coords": [
+                        103.812403,
+                        1.372428
+                  ]
+            },
+            {
+                  "name": "Salem Chapel",
+                  "text": "A serene Christian chapel situated near the edge of the nature reserve, offering a peaceful environment for Sunday reflections.",
+                  "category": "landmark",
+                  "coords": [
+                        103.83203,
+                        1.378824
+                  ]
+            },
+            {
+                  "name": "St Thomas Orthodox Syrian Cathedral",
+                  "text": "This Orthodox Syrian Christian cathedral serves its community near the Lower Peirce Reservoir area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.833504,
+                        1.381287
+                  ]
+            },
+            {
+                  "name": "Sembawang Baptist Church",
+                  "text": "This Baptist church is a centre for Christian congregational gatherings near Lower Peirce Reservoir Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.828064,
+                        1.377269
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SG-01",
     coords: [103.8200, 1.3700],
@@ -291,7 +795,556 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
       {
-    id: "sg-windsor-nature-park-nature-v2",
+    id: "sg-windsor-nature-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruins",
+                  "text": "Diese baulichen Ruinen in der Nähe des Windsor Nature Parks bieten einen Einblick in die früheren Siedlungen des Waldgebietes.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823378,
+                        1.360313
+                  ]
+            },
+            {
+                  "name": "Bishan-Ang Mo Kio Park",
+                  "text": "Als einer der größten städtischen Parks im Zentrum von Singapur verfügt er über einen renaturierten, mäandernden Fluss, der aus einem alten Betonkanal entstanden ist.",
+                  "category": "park",
+                  "coords": [
+                        103.836437,
+                        1.365175
+                  ]
+            },
+            {
+                  "name": "Kong Meng San Phor Kark See Monastery",
+                  "text": "Dieser weitläufige buddhistische Komplex ist der größte in Singapur und bekannt für seine prächtigen Hallen, Stupas und ein bedeutendes Krematorium.",
+                  "category": "religious",
+                  "coords": [
+                        103.836244,
+                        1.361297
+                  ]
+            },
+            {
+                  "name": "Ang Mo Kio Town Garden West",
+                  "text": "Dieser ruhige Stadtpark wurde auf einem kleinen Hügel erbaut und bietet sekundäre Waldgebiete sowie eine markante Treppe mit 120 Stufen, die zu einem Platz führt.",
+                  "category": "park",
+                  "coords": [
+                        103.842933,
+                        1.374211
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Dieses Freiluft-Amphitheater in der Nähe des Windsor Nature Parks bietet eine Bühne für kommunale Aufführungen im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        103.857075,
+                        1.378687
+                  ]
+            },
+            {
+                  "name": "Chinese Puppet Play Stand",
+                  "text": "In diesem speziellen Theaterbau in der Gegend des Windsor Nature Parks werden traditionelle chinesische Puppenspiele aufgeführt.",
+                  "category": "cultural",
+                  "coords": [
+                        103.828383,
+                        1.365134
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Dieses lokale buddhistische Heiligtum bietet Altäre zum Beten inmitten der Wohnlandschaft, die an den Windsor Nature Park grenzt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838231,
+                        1.361869
+                  ]
+            },
+            {
+                  "name": "Ang Mo Kio Methodist Church",
+                  "text": "Diese christlich-methodistische Kirche dient dem umliegenden Viertel Ang Mo Kio in der Nähe des Windsor Nature Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835314,
+                        1.367107
+                  ]
+            },
+            {
+                  "name": "Jin Ying Tang Temple",
+                  "text": "Praktizierende des Taoismus besuchen diesen traditionellen Tempel in der Gemeinde rund um den Windsor Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838785,
+                        1.3663
+                  ]
+            },
+            {
+                  "name": "Swee Kow Kuan Temple",
+                  "text": "Dieser den buddhistischen Lehren gewidmete Tempel verfügt über traditionelle Architektur in der Nähe des Windsor Nature Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        103.841631,
+                        1.380777
+                  ]
+            },
+            {
+                  "name": "Bright Hill Columbarium",
+                  "text": "Als Teil eines größeren Tempelkomplexes bietet dieses Kolumbarium eine letzte Ruhestätte mit buddhistischen Riten in der Nähe des Windsor Nature Parks.",
+                  "category": "religious",
+                  "coords": [
+                        103.83622,
+                        1.360053
+                  ]
+            },
+            {
+                  "name": "Kong Meng San Temple (Phor Kark See Monastery)",
+                  "text": "Dieses massive buddhistische Kloster dient als wichtiges spirituelles Zentrum und verfügt über kunstvolle Dächer und Statuen in der Nähe des Windsor Nature Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836699,
+                        1.362336
+                  ]
+            },
+            {
+                  "name": "Liuxun Sanhemiao Temple",
+                  "text": "Dieser buddhistische Tempel bietet einen Ort der stillen Andacht inmitten der städtischen Anlage rund um den Windsor Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848719,
+                        1.385554
+                  ]
+            },
+            {
+                  "name": "Leang San King",
+                  "text": "Eine traditionelle buddhistische Einrichtung, in der Anhänger in der Nähe des Windsor Nature Parks ihre Aufwartung machen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831228,
+                        1.361616
+                  ]
+            },
+            {
+                  "name": "Wet.Market",
+                  "text": "Dieser geschäftige Markt für Frischwaren versorgt die Bewohner in der Nähe des Windsor Nature Parks mit frischem Fleisch, Meeresfrüchten und Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        103.840624,
+                        1.380967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruins",
+                  "text": "Ezek a Windsor Nature Park közelében lévő épületromok bepillantást engednek az erdőterület korábbi településeibe.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823378,
+                        1.360313
+                  ]
+            },
+            {
+                  "name": "Bishan-Ang Mo Kio Park",
+                  "text": "Szingapúr központjának egyik legnagyobb városi parkjaként egy régi betoncsatornából kialakított, kanyargó, természetes folyóval rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        103.836437,
+                        1.365175
+                  ]
+            },
+            {
+                  "name": "Kong Meng San Phor Kark See Monastery",
+                  "text": "Ez a kiterjedt buddhista komplexum Szingapúr legnagyobbja, amely csodálatos termeiről, sztúpáiról és egy kiemelkedő krematóriumáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        103.836244,
+                        1.361297
+                  ]
+            },
+            {
+                  "name": "Ang Mo Kio Town Garden West",
+                  "text": "A dombon épült nyugodt városi park másodlagos erdőterületekkel és egy jellegzetes, 120 lépcsőfokból álló lépcsősorral rendelkezik, amely egy térre vezet.",
+                  "category": "park",
+                  "coords": [
+                        103.842933,
+                        1.374211
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ez a Windsor Nature Park közelében található szabadtéri amfiteátrum szabadtéri közösségi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        103.857075,
+                        1.378687
+                  ]
+            },
+            {
+                  "name": "Chinese Puppet Play Stand",
+                  "text": "A Windsor Nature Park területén található dedikált színházi építményben hagyományos kínai bábelőadásokat tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        103.828383,
+                        1.365134
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ez a helyi buddhista szentély imádkozóoltárokat biztosít a Windsor Nature Parkkal határos lakókörnyezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838231,
+                        1.361869
+                  ]
+            },
+            {
+                  "name": "Ang Mo Kio Methodist Church",
+                  "text": "Ez a keresztény metodista templom a Windsor Nature Park közelében lévő Ang Mo Kio környékét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835314,
+                        1.367107
+                  ]
+            },
+            {
+                  "name": "Jin Ying Tang Temple",
+                  "text": "A taoizmus gyakorlói látogatják ezt a hagyományos templomot, amely a Windsor Nature Park körüli közösségben található.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838785,
+                        1.3663
+                  ]
+            },
+            {
+                  "name": "Swee Kow Kuan Temple",
+                  "text": "A buddhista tanításoknak szentelt templom hagyományos építészettel rendelkezik a Windsor Nature Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.841631,
+                        1.380777
+                  ]
+            },
+            {
+                  "name": "Bright Hill Columbarium",
+                  "text": "Egy nagyobb templomkomplexum részeként ez a kolumbárium végső nyughelyet kínál buddhista rítusokkal a Windsor Nature Park közelében.",
+                  "category": "religious",
+                  "coords": [
+                        103.83622,
+                        1.360053
+                  ]
+            },
+            {
+                  "name": "Kong Meng San Temple (Phor Kark See Monastery)",
+                  "text": "A jelentős spirituális központként szolgáló hatalmas buddhista kolostor díszes tetőkkel és szobrokkal rendelkezik a Windsor Nature Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836699,
+                        1.362336
+                  ]
+            },
+            {
+                  "name": "Liuxun Sanhemiao Temple",
+                  "text": "Ez a buddhista templom a csendes áhítat helyszínét kínálja a Windsor Nature Parkot körülvevő városi elrendezésben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848719,
+                        1.385554
+                  ]
+            },
+            {
+                  "name": "Leang San King",
+                  "text": "Egy hagyományos buddhista létesítmény, ahová a követők eljönnek leróni tiszteletüket a Windsor Nature Park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831228,
+                        1.361616
+                  ]
+            },
+            {
+                  "name": "Wet.Market",
+                  "text": "Ez a nyüzsgő nedves piac friss húsokkal, tenger gyümölcseivel és zöldségekkel látja el a lakosokat a Windsor Nature Park közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        103.840624,
+                        1.380967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruins",
+                  "text": "Aceste ruine structurale din apropierea Parcului Natural Windsor oferă o privire asupra fostelor așezări din zona forestieră.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823378,
+                        1.360313
+                  ]
+            },
+            {
+                  "name": "Bishan-Ang Mo Kio Park",
+                  "text": "Ca unul dintre cele mai mari parcuri urbane din centrul Singapore-ului, acesta are un râu naturalizat, șerpuitor, creat dintr-un vechi canal de beton.",
+                  "category": "park",
+                  "coords": [
+                        103.836437,
+                        1.365175
+                  ]
+            },
+            {
+                  "name": "Kong Meng San Phor Kark See Monastery",
+                  "text": "Acest complex budist întins este cel mai mare din Singapore, fiind cunoscut pentru sălile sale magnifice, stupele și un crematoriu proeminent.",
+                  "category": "religious",
+                  "coords": [
+                        103.836244,
+                        1.361297
+                  ]
+            },
+            {
+                  "name": "Ang Mo Kio Town Garden West",
+                  "text": "Construit pe o colină, acest parc urban liniștit prezintă zone de pădure secundară și un rând distinct de 120 de trepte care duc la o piațetă.",
+                  "category": "park",
+                  "coords": [
+                        103.842933,
+                        1.374211
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Acest amfiteatru în aer liber de lângă Parcul Natural Windsor oferă un spațiu amenajat pentru spectacole comunitare în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        103.857075,
+                        1.378687
+                  ]
+            },
+            {
+                  "name": "Chinese Puppet Play Stand",
+                  "text": "Spectacole tradiționale chinezești de păpuși sunt puse în scenă la această structură de teatru dedicată din zona Parcului Natural Windsor.",
+                  "category": "cultural",
+                  "coords": [
+                        103.828383,
+                        1.365134
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Acest sanctuar budist local oferă altare pentru rugăciune în mijlocul peisajului rezidențial care se învecinează cu Parcul Natural Windsor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838231,
+                        1.361869
+                  ]
+            },
+            {
+                  "name": "Ang Mo Kio Methodist Church",
+                  "text": "Această biserică metodistă creștină deservește cartierul înconjurător Ang Mo Kio, lângă Parcul Natural Windsor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835314,
+                        1.367107
+                  ]
+            },
+            {
+                  "name": "Jin Ying Tang Temple",
+                  "text": "Practicanții taoismului vizitează acest templu tradițional situat în comunitatea din jurul Parcului Natural Windsor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838785,
+                        1.3663
+                  ]
+            },
+            {
+                  "name": "Swee Kow Kuan Temple",
+                  "text": "Dedicat învățăturilor budiste, acest templu prezintă o arhitectură tradițională aproape de Parcul Natural Windsor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.841631,
+                        1.380777
+                  ]
+            },
+            {
+                  "name": "Bright Hill Columbarium",
+                  "text": "Făcând parte dintr-un complex de temple mai mare, acest columbar oferă un loc de veci cu rituri budiste în apropierea Parcului Natural Windsor.",
+                  "category": "religious",
+                  "coords": [
+                        103.83622,
+                        1.360053
+                  ]
+            },
+            {
+                  "name": "Kong Meng San Temple (Phor Kark See Monastery)",
+                  "text": "Servind ca un important centru spiritual, această masivă mănăstire budistă prezintă acoperișuri și statui ornamentate aproape de Parcul Natural Windsor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836699,
+                        1.362336
+                  ]
+            },
+            {
+                  "name": "Liuxun Sanhemiao Temple",
+                  "text": "Acest templu budist oferă un loc de devoțiune liniștită în mijlocul structurii urbane care înconjoară Parcul Natural Windsor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848719,
+                        1.385554
+                  ]
+            },
+            {
+                  "name": "Leang San King",
+                  "text": "O instituție budistă tradițională unde adepții vin să-și prezinte omagiile lângă Parcul Natural Windsor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831228,
+                        1.361616
+                  ]
+            },
+            {
+                  "name": "Wet.Market",
+                  "text": "Această piață umedă plină de viață oferă locuitorilor carne proaspătă, fructe de mare și legume lângă Parcul Natural Windsor.",
+                  "category": "cultural",
+                  "coords": [
+                        103.840624,
+                        1.380967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins",
+                  "text": "These structural ruins near Windsor Nature Park offer a glimpse into the former settlements of the forest area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.823378,
+                        1.360313
+                  ]
+            },
+            {
+                  "name": "Bishan-Ang Mo Kio Park",
+                  "text": "As one of the largest urban parks in central Singapore, it features a naturalised, meandering river created from an old concrete canal.",
+                  "category": "park",
+                  "coords": [
+                        103.836437,
+                        1.365175
+                  ]
+            },
+            {
+                  "name": "Kong Meng San Phor Kark See Monastery",
+                  "text": "This sprawling Buddhist complex is the largest in Singapore, known for its magnificent halls, stūpas, and a prominent crematorium.",
+                  "category": "religious",
+                  "coords": [
+                        103.836244,
+                        1.361297
+                  ]
+            },
+            {
+                  "name": "Ang Mo Kio Town Garden West",
+                  "text": "Built on a hillock, this tranquil urban park features secondary forest areas and a distinct flight of 120 steps leading to a plaza.",
+                  "category": "park",
+                  "coords": [
+                        103.842933,
+                        1.374211
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "This open-air amphitheatre near Windsor Nature Park provides a staged area for outdoor community performances.",
+                  "category": "cultural",
+                  "coords": [
+                        103.857075,
+                        1.378687
+                  ]
+            },
+            {
+                  "name": "Chinese Puppet Play Stand",
+                  "text": "Traditional Chinese puppet shows are staged at this dedicated theatre structure in the Windsor Nature Park area.",
+                  "category": "cultural",
+                  "coords": [
+                        103.828383,
+                        1.365134
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "This local Buddhist sanctuary provides altars for prayer amidst the residential landscape bordering Windsor Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838231,
+                        1.361869
+                  ]
+            },
+            {
+                  "name": "Ang Mo Kio Methodist Church",
+                  "text": "This Christian Methodist church serves the surrounding Ang Mo Kio neighbourhood near Windsor Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.835314,
+                        1.367107
+                  ]
+            },
+            {
+                  "name": "Jin Ying Tang Temple",
+                  "text": "Practitioners of Taoism visit this traditional temple located in the community around Windsor Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.838785,
+                        1.3663
+                  ]
+            },
+            {
+                  "name": "Swee Kow Kuan Temple",
+                  "text": "Dedicated to Buddhist teachings, this temple features traditional architecture close to Windsor Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.841631,
+                        1.380777
+                  ]
+            },
+            {
+                  "name": "Bright Hill Columbarium",
+                  "text": "Part of a larger temple complex, this columbarium provides a final resting place with Buddhist rites near Windsor Nature Park.",
+                  "category": "religious",
+                  "coords": [
+                        103.83622,
+                        1.360053
+                  ]
+            },
+            {
+                  "name": "Kong Meng San Temple (Phor Kark See Monastery)",
+                  "text": "Serving as a major spiritual hub, this massive Buddhist monastery features ornate rooftops and statues near Windsor Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.836699,
+                        1.362336
+                  ]
+            },
+            {
+                  "name": "Liuxun Sanhemiao Temple",
+                  "text": "This Buddhist temple offers a place of quiet devotion amidst the urban layout surrounding Windsor Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.848719,
+                        1.385554
+                  ]
+            },
+            {
+                  "name": "Leang San King",
+                  "text": "A traditional Buddhist establishment where followers come to pay their respects near Windsor Nature Park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.831228,
+                        1.361616
+                  ]
+            },
+            {
+                  "name": "Wet.Market",
+                  "text": "This bustling wet market provides residents with fresh meats, seafood, and vegetables near Windsor Nature Park.",
+                  "category": "cultural",
+                  "coords": [
+                        103.840624,
+                        1.380967
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SG-01",
     coords: [103.8242, 1.3644],
@@ -339,7 +1392,52 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
   {
-    id: "sg-singapore-river-nature-v2",
+    id: "sg-singapore-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cavenagh Bridge",
+                  "text": "Die Cavenagh Bridge überspannt den Singapore River und ist die älteste erhaltene Hängebrücke der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        103.852353,
+                        1.286552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cavenagh Bridge",
+                  "text": "A Szingapúr-folyón átívelő Cavenagh-híd a térség legrégebbi fennmaradt függőhídja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.852353,
+                        1.286552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cavenagh Bridge",
+                  "text": "Traversând râul Singapore, Podul Cavenagh este cel mai vechi pod suspendat supraviețuitor din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.852353,
+                        1.286552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cavenagh Bridge",
+                  "text": "Spanning the Singapore River, Cavenagh Bridge is the oldest surviving suspension bridge in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.852353,
+                        1.286552
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SG-01",
     coords: [103.8510, 1.2868],
@@ -387,7 +1485,772 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
   {
-    id: "sg-bedok-reservoir-park-nature-v2",
+    id: "sg-bedok-reservoir-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Air Force Museum",
+                  "text": "Dieses Museum im Gebiet Bedok zeigt die Luftfahrtgeschichte und die Militärflugzeuge der lokalen Luftwaffe.",
+                  "category": "museum",
+                  "coords": [
+                        103.899343,
+                        1.346772
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ansar",
+                  "text": "Diese Moschee ist für ihre markante blaue Kuppel und ihr markantes Minarett bekannt und stellt einen wichtigen Gebetsort in der Gegend von Bedok dar.",
+                  "category": "religious",
+                  "coords": [
+                        103.926386,
+                        1.326983
+                  ]
+            },
+            {
+                  "name": "Aqua Adventure",
+                  "text": "Dieser Wasserpark im Bedok-Gebiet verfügt über aquatische Spielstrukturen und Planschbereiche für Freizeitspaß.",
+                  "category": "recreational",
+                  "coords": [
+                        103.91953,
+                        1.341972
+                  ]
+            },
+            {
+                  "name": "Masjid Alkaff Kampung Melayu",
+                  "text": "Diese markante Moschee im Bedok-Gebiet dient der lokalen muslimischen Gemeinschaft als historischer Ort für das tägliche Gebet und für Zusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        103.913993,
+                        1.3367
+                  ]
+            },
+            {
+                  "name": "Wat Pālēlāika",
+                  "text": "Dieser traditionelle thailändisch-buddhistische Tempel im Gebiet Bedok ist für seine authentische Architektur und seine ruhigen Meditationsräume bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        103.946245,
+                        1.331225
+                  ]
+            },
+            {
+                  "name": "Teochew Temple Funeral Parlour, Ubi Road 4 Singapore 408609",
+                  "text": "Diese taoistische Einrichtung an der Ubi Road 4 bietet der lokalen Teochew-Gemeinschaft traditionelle Bestattungs- und Gedenkdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899164,
+                        1.332545
+                  ]
+            },
+            {
+                  "name": "tentage",
+                  "text": "Eine temporäre Zeltstruktur im Bedok-Gebiet, die als überdachter Ort der Anbetung und für Gemeindetreffen dient.",
+                  "category": "religious",
+                  "coords": [
+                        103.918342,
+                        1.327761
+                  ]
+            },
+            {
+                  "name": "Bedok Church of Christ",
+                  "text": "Diese christliche Kirche im Gebiet Bedok bietet der lokalen Gemeinde ein formelles spirituelles Heiligtum und einen Gottesdienstraum.",
+                  "category": "landmark",
+                  "coords": [
+                        103.916191,
+                        1.333284
+                  ]
+            },
+            {
+                  "name": "Bethesda Cathedral",
+                  "text": "Eine markante christliche Kathedrale im Gebiet Bedok, bekannt für ihre große Gemeinde und ihr modernes architektonisches Design.",
+                  "category": "landmark",
+                  "coords": [
+                        103.923438,
+                        1.328897
+                  ]
+            },
+            {
+                  "name": "Bethesda Church (Bedok-Tampines) Service Hall",
+                  "text": "Dieser christliche Gottesdienstraum bietet der Gemeinde Bedok-Tampines einen eigenen Versammlungs- und Andachtsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        103.934848,
+                        1.33063
+                  ]
+            },
+            {
+                  "name": "De Hai Gong Temple (Chong Teck Siang Tng)",
+                  "text": "Dieser traditionelle taoistische Tempel im Bedok-Gebiet verfügt über kunstvolle Altäre, die verschiedenen Gottheiten gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.908014,
+                        1.331223
+                  ]
+            },
+            {
+                  "name": "Hong San Temple",
+                  "text": "Ein lebhafter taoistischer Tempel im Bedok-Gebiet, der sich durch seine traditionellen Dachverzierungen und täglichen Räucheropfer auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.896919,
+                        1.340265
+                  ]
+            },
+            {
+                  "name": "Seu Teck Sean Tong Yian Sin Sia Temple",
+                  "text": "Ein detaillierter taoistischer Tempelkomplex im Gebiet Bedok, der der traditionellen Gemeindeandacht und wohltätigen Aktivitäten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.933679,
+                        1.332872
+                  ]
+            },
+            {
+                  "name": "All Saint's Church",
+                  "text": "Diese christliche Kirche im Gebiet Bedok bietet einen ruhigen, formellen Rahmen für Gebete und Gemeindegottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        103.941094,
+                        1.330645
+                  ]
+            },
+            {
+                  "name": "Bedok 58 Wet.Market",
+                  "text": "Dieser belebte Frischemarkt in Bedok bietet Stände mit frisch geschlachtetem Fleisch, lokalen Meeresfrüchten und saisonalen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        103.941147,
+                        1.32418
+                  ]
+            },
+            {
+                  "name": "Pasar 630 Bedok Reservoir Road",
+                  "text": "Dieser lokale Markt liegt an der Bedok Reservoir Road und bietet eine bunte Auswahl an frischen Zutaten und Lebensmitteln für den täglichen Bedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        103.914246,
+                        1.332801
+                  ]
+            },
+            {
+                  "name": "Bedok 538 Market",
+                  "text": "Ein Nachbarschaftsmarkt in Bedok, auf dem die Anwohner frisches Obst, Gemüse und Haushaltswaren einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.924642,
+                        1.332015
+                  ]
+            },
+            {
+                  "name": "823A Wet Market",
+                  "text": "Dieser Frischemarkt im Gebiet Bedok ist ein täglicher Knotenpunkt für die Beschaffung frischer lokaler Zutaten und Fleisch von verschiedenen Standbetreibern.",
+                  "category": "cultural",
+                  "coords": [
+                        103.933497,
+                        1.348898
+                  ]
+            },
+            {
+                  "name": "Bedok 511 Wet Market",
+                  "text": "Ein lebhafter Frischemarkt in Bedok, der für seine geschäftige morgendliche Atmosphäre und seine vielfältigen Stände mit frischen Lebensmitteln bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        103.930714,
+                        1.333245
+                  ]
+            },
+            {
+                  "name": "Bedok 216 Wet.Market",
+                  "text": "Dieser Frischemarkt in Bedok bietet mit seinen frischen Produkten und traditionellen Zutaten ein authentisches lokales Einkaufserlebnis.",
+                  "category": "cultural",
+                  "coords": [
+                        103.933335,
+                        1.326942
+                  ]
+            },
+            {
+                  "name": "Bedok 85 Wet Market",
+                  "text": "Dieser markante Frischemarkt in Bedok dient als wichtiges lokales Zentrum für den täglichen Einkauf und bietet zahlreiche spezialisierte Lebensmittelstände.",
+                  "category": "cultural",
+                  "coords": [
+                        103.938763,
+                        1.332009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Air Force Museum",
+                  "text": "Ez a Bedok környéki múzeum a helyi légierő repüléstörténetét és katonai repülőgépeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.899343,
+                        1.346772
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ansar",
+                  "text": "A jellegzetes kék kupolájáról és magas minaretjéről ismert mecset a Bedok terület fontos istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        103.926386,
+                        1.326983
+                  ]
+            },
+            {
+                  "name": "Aqua Adventure",
+                  "text": "Ez a Bedok területén található vízi park vízi játékelemekkel és csobbanó zónákkal várja a kikapcsolódni vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        103.91953,
+                        1.341972
+                  ]
+            },
+            {
+                  "name": "Masjid Alkaff Kampung Melayu",
+                  "text": "Ez a jelentős mecset a Bedok területén a helyi muszlim közösség történelmi ima- és gyülekezési helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        103.913993,
+                        1.3367
+                  ]
+            },
+            {
+                  "name": "Wat Pālēlāika",
+                  "text": "Ez a Bedok területén található hagyományos thai buddhista templom autentikus építészetéről és békés meditációs tereiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        103.946245,
+                        1.331225
+                  ]
+            },
+            {
+                  "name": "Teochew Temple Funeral Parlour, Ubi Road 4 Singapore 408609",
+                  "text": "Ez a taoista létesítmény az Ubi Road 4-en a helyi Teochew közösséget szolgálja hagyományos temetési és emlékjellegű szolgáltatásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899164,
+                        1.332545
+                  ]
+            },
+            {
+                  "name": "tentage",
+                  "text": "Ideiglenes sátorszerkezet a Bedok területén, amelyet fedett istentiszteleti és közösségi gyülekezési helyként használnak.",
+                  "category": "religious",
+                  "coords": [
+                        103.918342,
+                        1.327761
+                  ]
+            },
+            {
+                  "name": "Bedok Church of Christ",
+                  "text": "Ez a Bedok területén található keresztény templom hivatalos spirituális szentélyt és istentiszteleti termet biztosít a helyi gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.916191,
+                        1.333284
+                  ]
+            },
+            {
+                  "name": "Bethesda Cathedral",
+                  "text": "Egy jelentős keresztény katedrális Bedok területén, amely népes gyülekezetéről és modern építészeti kialakításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.923438,
+                        1.328897
+                  ]
+            },
+            {
+                  "name": "Bethesda Church (Bedok-Tampines) Service Hall",
+                  "text": "Ez a keresztény istentiszteleti terem dedikált találkozási és imahelyet biztosít a Bedok-Tampines gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.934848,
+                        1.33063
+                  ]
+            },
+            {
+                  "name": "De Hai Gong Temple (Chong Teck Siang Tng)",
+                  "text": "Ez a Bedok területén található hagyományos taoista templom bonyolult oltárokkal rendelkezik, amelyeket különböző istenségeknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.908014,
+                        1.331223
+                  ]
+            },
+            {
+                  "name": "Hong San Temple",
+                  "text": "Egy élénk taoista templom Bedok területén, amelyet hagyományos tetődíszítései és napi füstölőfelajánlásai jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.896919,
+                        1.340265
+                  ]
+            },
+            {
+                  "name": "Seu Teck Sean Tong Yian Sin Sia Temple",
+                  "text": "Egy részletgazdag taoista templomkomplexum a Bedok területén, amelyet a hagyományos közösségi istentiszteleteknek és jótékonysági tevékenységeknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.933679,
+                        1.332872
+                  ]
+            },
+            {
+                  "name": "All Saint's Church",
+                  "text": "Ez a Bedok területén található keresztény templom csendes, formális környezetet biztosít az imádkozáshoz és az istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        103.941094,
+                        1.330645
+                  ]
+            },
+            {
+                  "name": "Bedok 58 Wet.Market",
+                  "text": "Ez a nyüzsgő bedoki piac friss húsokat, helyi tenger gyümölcseit és szezonális termékeket árusító standokkal várja a vásárlókat.",
+                  "category": "cultural",
+                  "coords": [
+                        103.941147,
+                        1.32418
+                  ]
+            },
+            {
+                  "name": "Pasar 630 Bedok Reservoir Road",
+                  "text": "A Bedok Reservoir Road mentén található helyi piac friss alapanyagok és napi élelmiszerek élénk választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        103.914246,
+                        1.332801
+                  ]
+            },
+            {
+                  "name": "Bedok 538 Market",
+                  "text": "Egy bedoki környékbeli piac, ahol a lakosok friss gyümölcsöt, zöldséget és háztartási cikkeket vásárolhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        103.924642,
+                        1.332015
+                  ]
+            },
+            {
+                  "name": "823A Wet Market",
+                  "text": "Ez a Bedok területén található nedves piac egy napi központ, ahol friss helyi alapanyagokat és húsokat lehet beszerezni a különböző árusoktól.",
+                  "category": "cultural",
+                  "coords": [
+                        103.933497,
+                        1.348898
+                  ]
+            },
+            {
+                  "name": "Bedok 511 Wet Market",
+                  "text": "Egy nyüzsgő bedoki piac, amely pezsgő reggeli hangulatáról és a friss élelmiszereket kínáló változatos standjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        103.930714,
+                        1.333245
+                  ]
+            },
+            {
+                  "name": "Bedok 216 Wet.Market",
+                  "text": "Ez a Bedokban található piac autentikus helyi vásárlási élményt nyújt friss termékekkel és hagyományos alapanyagokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        103.933335,
+                        1.326942
+                  ]
+            },
+            {
+                  "name": "Bedok 85 Wet Market",
+                  "text": "Ez a kiemelkedő bedoki piac a mindennapi bevásárlás fontos helyi központjaként szolgál, számos speciális élelmiszerstanddal.",
+                  "category": "cultural",
+                  "coords": [
+                        103.938763,
+                        1.332009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Air Force Museum",
+                  "text": "Acest muzeu din zona Bedok prezintă istoria aviației și avioanele militare ale forțelor aeriene locale.",
+                  "category": "museum",
+                  "coords": [
+                        103.899343,
+                        1.346772
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ansar",
+                  "text": "Cunoscută pentru cupola sa albastră distinctivă și minaretul proeminent, această moschee este un lăcaș de cult major în zona Bedok.",
+                  "category": "religious",
+                  "coords": [
+                        103.926386,
+                        1.326983
+                  ]
+            },
+            {
+                  "name": "Aqua Adventure",
+                  "text": "Acest parc acvatic din zona Bedok dispune de structuri de joacă acvatice și zone de stropire pentru distracție recreativă.",
+                  "category": "recreational",
+                  "coords": [
+                        103.91953,
+                        1.341972
+                  ]
+            },
+            {
+                  "name": "Masjid Alkaff Kampung Melayu",
+                  "text": "Această moschee proeminentă din zona Bedok servește comunitatea musulmană locală ca un loc istoric de rugăciune zilnică și adunare.",
+                  "category": "religious",
+                  "coords": [
+                        103.913993,
+                        1.3367
+                  ]
+            },
+            {
+                  "name": "Wat Pālēlāika",
+                  "text": "Acest templu budist tradițional thailandez din zona Bedok este recunoscut pentru arhitectura sa autentică și spațiile senine de meditație.",
+                  "category": "religious",
+                  "coords": [
+                        103.946245,
+                        1.331225
+                  ]
+            },
+            {
+                  "name": "Teochew Temple Funeral Parlour, Ubi Road 4 Singapore 408609",
+                  "text": "Această facilitate taoistă de pe Ubi Road 4 deservește comunitatea locală Teochew cu servicii funerare și comemorative tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899164,
+                        1.332545
+                  ]
+            },
+            {
+                  "name": "tentage",
+                  "text": "O structură temporară de cort în zona Bedok folosită ca lăcaș de cult acoperit și loc de adunare a comunității.",
+                  "category": "religious",
+                  "coords": [
+                        103.918342,
+                        1.327761
+                  ]
+            },
+            {
+                  "name": "Bedok Church of Christ",
+                  "text": "Această biserică creștină din zona Bedok oferă un sanctuar spiritual formal și o sală de cult pentru congregația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.916191,
+                        1.333284
+                  ]
+            },
+            {
+                  "name": "Bethesda Cathedral",
+                  "text": "O catedrală creștină proeminentă în zona Bedok, cunoscută pentru congregația sa mare și designul arhitectural modern.",
+                  "category": "landmark",
+                  "coords": [
+                        103.923438,
+                        1.328897
+                  ]
+            },
+            {
+                  "name": "Bethesda Church (Bedok-Tampines) Service Hall",
+                  "text": "Această sală de servicii creștine oferă un spațiu dedicat de întâlnire și închinare pentru congregația Bedok-Tampines.",
+                  "category": "landmark",
+                  "coords": [
+                        103.934848,
+                        1.33063
+                  ]
+            },
+            {
+                  "name": "De Hai Gong Temple (Chong Teck Siang Tng)",
+                  "text": "Acest templu taoist tradițional din zona Bedok prezintă altare complicate dedicate diferitelor zeități.",
+                  "category": "landmark",
+                  "coords": [
+                        103.908014,
+                        1.331223
+                  ]
+            },
+            {
+                  "name": "Hong San Temple",
+                  "text": "Un templu taoist vibrant din zona Bedok, caracterizat de ornamentele tradiționale ale acoperișului și de ofrandele zilnice cu tămâie.",
+                  "category": "landmark",
+                  "coords": [
+                        103.896919,
+                        1.340265
+                  ]
+            },
+            {
+                  "name": "Seu Teck Sean Tong Yian Sin Sia Temple",
+                  "text": "Un complex de temple taoiste detaliat în zona Bedok, dedicat închinării tradiționale a comunității și activităților caritabile.",
+                  "category": "landmark",
+                  "coords": [
+                        103.933679,
+                        1.332872
+                  ]
+            },
+            {
+                  "name": "All Saint's Church",
+                  "text": "Această biserică creștină din zona Bedok oferă un cadru liniștit și formal pentru rugăciune și serviciile comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.941094,
+                        1.330645
+                  ]
+            },
+            {
+                  "name": "Bedok 58 Wet.Market",
+                  "text": "Această piață alimentară plină de viață din Bedok prezintă tarabe care vând carne proaspăt măcelărită, fructe de mare locale și produse de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        103.941147,
+                        1.32418
+                  ]
+            },
+            {
+                  "name": "Pasar 630 Bedok Reservoir Road",
+                  "text": "Situată de-a lungul drumului Bedok Reservoir, această piață locală oferă o gamă vibrantă de ingrediente proaspete și provizii zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        103.914246,
+                        1.332801
+                  ]
+            },
+            {
+                  "name": "Bedok 538 Market",
+                  "text": "O piață de cartier în Bedok unde rezidenții se adună pentru a cumpăra fructe și legume proaspete și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        103.924642,
+                        1.332015
+                  ]
+            },
+            {
+                  "name": "823A Wet Market",
+                  "text": "Această piață alimentară din zona Bedok este un centru zilnic pentru aprovizionarea cu ingrediente proaspete locale și carne de la diverși vânzători.",
+                  "category": "cultural",
+                  "coords": [
+                        103.933497,
+                        1.348898
+                  ]
+            },
+            {
+                  "name": "Bedok 511 Wet Market",
+                  "text": "O piață alimentară plină de viață în Bedok, bine cunoscută pentru atmosfera sa agitată de dimineață și diversele tarabe cu alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        103.930714,
+                        1.333245
+                  ]
+            },
+            {
+                  "name": "Bedok 216 Wet.Market",
+                  "text": "Situată în Bedok, această piață alimentară oferă o experiență autentică de cumpărături locale, cu produse proaspete și ingrediente tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.933335,
+                        1.326942
+                  ]
+            },
+            {
+                  "name": "Bedok 85 Wet Market",
+                  "text": "Această piață alimentară proeminentă din Bedok servește ca un centru local cheie pentru alimentele zilnice, oferind numeroase tarabe alimentare specializate.",
+                  "category": "cultural",
+                  "coords": [
+                        103.938763,
+                        1.332009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Air Force Museum",
+                  "text": "This museum in the Bedok area showcases the aviation history and military aircraft of the local air force.",
+                  "category": "museum",
+                  "coords": [
+                        103.899343,
+                        1.346772
+                  ]
+            },
+            {
+                  "name": "Al-Ansar Mosque",
+                  "text": "Known for its distinctive blue dome and prominent minaret, this mosque is a major place of worship in the Bedok area.",
+                  "category": "religious",
+                  "coords": [
+                        103.926386,
+                        1.326983
+                  ]
+            },
+            {
+                  "name": "Aqua Adventure",
+                  "text": "This water park in the Bedok area features aquatic play structures and splash zones for recreational fun.",
+                  "category": "recreational",
+                  "coords": [
+                        103.91953,
+                        1.341972
+                  ]
+            },
+            {
+                  "name": "Alkaff Kampung Melayu Mosque",
+                  "text": "This prominent mosque in the Bedok area serves the local Muslim community as a historic place of daily prayer and gathering.",
+                  "category": "religious",
+                  "coords": [
+                        103.913993,
+                        1.3367
+                  ]
+            },
+            {
+                  "name": "Palelai Buddhist Temple",
+                  "text": "This traditional Thai Buddhist temple in the Bedok area is recognized for its authentic architecture and serene meditation spaces.",
+                  "category": "religious",
+                  "coords": [
+                        103.946245,
+                        1.331225
+                  ]
+            },
+            {
+                  "name": "Teochew Temple Funeral Parlour, Ubi Road 4 Singapore 408609",
+                  "text": "This Taoist facility on Ubi Road 4 serves the local Teochew community with traditional funeral and memorial services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899164,
+                        1.332545
+                  ]
+            },
+            {
+                  "name": "tentage",
+                  "text": "A temporary tentage structure in the Bedok area used as a covered place of worship and community gathering.",
+                  "category": "religious",
+                  "coords": [
+                        103.918342,
+                        1.327761
+                  ]
+            },
+            {
+                  "name": "Bedok Church of Christ",
+                  "text": "This Christian church in the Bedok area provides a formal spiritual sanctuary and worship hall for the local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.916191,
+                        1.333284
+                  ]
+            },
+            {
+                  "name": "Bethesda Cathedral",
+                  "text": "A prominent Christian cathedral in the Bedok area, known for its large congregation and modern architectural design.",
+                  "category": "landmark",
+                  "coords": [
+                        103.923438,
+                        1.328897
+                  ]
+            },
+            {
+                  "name": "Bethesda Church (Bedok-Tampines) Service Hall",
+                  "text": "This Christian service hall provides a dedicated meeting and worship space for the Bedok-Tampines congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.934848,
+                        1.33063
+                  ]
+            },
+            {
+                  "name": "De Hai Gong Temple (Chong Teck Siang Tng)",
+                  "text": "This traditional Taoist temple in the Bedok area features intricate altars dedicated to various deities.",
+                  "category": "landmark",
+                  "coords": [
+                        103.908014,
+                        1.331223
+                  ]
+            },
+            {
+                  "name": "Hong San Temple",
+                  "text": "A vibrant Taoist temple in the Bedok area, characterized by its traditional roof ornamentation and daily incense offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        103.896919,
+                        1.340265
+                  ]
+            },
+            {
+                  "name": "Seu Teck Sean Tong Yian Sin Sia Temple",
+                  "text": "A detailed Taoist temple complex in the Bedok area, dedicated to traditional community worship and charitable activities.",
+                  "category": "landmark",
+                  "coords": [
+                        103.933679,
+                        1.332872
+                  ]
+            },
+            {
+                  "name": "All Saint's Church",
+                  "text": "This Christian church in the Bedok area provides a quiet, formal setting for prayer and community services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.941094,
+                        1.330645
+                  ]
+            },
+            {
+                  "name": "Bedok 58 Wet.Market",
+                  "text": "This bustling wet market in Bedok features stalls selling freshly butchered meats, local seafood, and seasonal produce.",
+                  "category": "cultural",
+                  "coords": [
+                        103.941147,
+                        1.32418
+                  ]
+            },
+            {
+                  "name": "Pasar 630 Bedok Reservoir Road",
+                  "text": "Located along Bedok Reservoir Road, this local market provides a vibrant array of fresh ingredients and daily provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        103.914246,
+                        1.332801
+                  ]
+            },
+            {
+                  "name": "Bedok 538 Market",
+                  "text": "A neighborhood marketplace in Bedok where residents gather to purchase fresh fruits, vegetables, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        103.924642,
+                        1.332015
+                  ]
+            },
+            {
+                  "name": "823A Wet Market",
+                  "text": "This wet market in the Bedok area is a daily hub for sourcing fresh local ingredients and meats from various stallholders.",
+                  "category": "cultural",
+                  "coords": [
+                        103.933497,
+                        1.348898
+                  ]
+            },
+            {
+                  "name": "Bedok 511 Wet Market",
+                  "text": "A lively wet market in Bedok, well-known for its bustling morning atmosphere and diverse stalls of fresh foods.",
+                  "category": "cultural",
+                  "coords": [
+                        103.930714,
+                        1.333245
+                  ]
+            },
+            {
+                  "name": "Bedok 216 Wet.Market",
+                  "text": "Situated in Bedok, this wet market offers an authentic local shopping experience with fresh produce and traditional ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        103.933335,
+                        1.326942
+                  ]
+            },
+            {
+                  "name": "Bedok 85 Wet Market",
+                  "text": "This prominent wet market in Bedok serves as a key local center for daily groceries, featuring numerous specialized food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        103.938763,
+                        1.332009
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SG-01",
     coords: [103.9333, 1.3400],
@@ -435,7 +2298,88 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
     {
-    id: "sg-kusu-island-nature-v2",
+    id: "sg-kusu-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keramat Kusu",
+                  "text": "Drei heilige muslimische Schreine auf der Insel Kusu, die frommen Persönlichkeiten des 19. Jahrhunderts gewidmet sind und über 152 Stufen erreicht werden.",
+                  "category": "religious",
+                  "coords": [
+                        103.861591,
+                        1.222963
+                  ]
+            },
+            {
+                  "name": "Da Bo Gong",
+                  "text": "Ein chinesischer Tempelschrein auf der Insel Kusu, der dem Erdgott gewidmet ist und während des neunten Mondmonats Tausende von Pilgern anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859858,
+                        1.223349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keramat Kusu",
+                  "text": "Három szent muszlim szentély a Kusu-szigeten, amelyeket 19. századi jámbor alakoknak szenteltek, és 152 lépcsőfok megmászásával érhetők el.",
+                  "category": "religious",
+                  "coords": [
+                        103.861591,
+                        1.222963
+                  ]
+            },
+            {
+                  "name": "Da Bo Gong",
+                  "text": "Egy kínai templomi szentély a Kusu-szigeten, amelyet a Föld Istenének szenteltek, és a kilencedik holdhónap során zarándokok ezreit vonzza.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859858,
+                        1.223349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keramat Kusu",
+                  "text": "Trei altare sfinte musulmane de pe insula Kusu, dedicate unor personalități pioase din secolul al XIX-lea, la care se ajunge urcând 152 de trepte.",
+                  "category": "religious",
+                  "coords": [
+                        103.861591,
+                        1.222963
+                  ]
+            },
+            {
+                  "name": "Da Bo Gong",
+                  "text": "Un altar taoist pe insula Kusu dedicat Zeului Pământului, care atrage mii de pelerini în timpul celei de-a noua luni lunare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859858,
+                        1.223349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Kusu Kramats",
+                  "text": "Three holy Muslim shrines on Kusu Island dedicated to pious 19th-century figures, accessed by climbing 152 steps.",
+                  "category": "religious",
+                  "coords": [
+                        103.861591,
+                        1.222963
+                  ]
+            },
+            {
+                  "name": "Da Bo Gong",
+                  "text": "A Chinese temple shrine on Kusu Island dedicated to the Earth God, attracting thousands of pilgrims during the ninth lunar month.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859858,
+                        1.223349
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "SG-01",
     coords: [103.8600, 1.2230],
@@ -483,7 +2427,88 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
   {
-    id: "sg-st-johns-island-nature-v2",
+    id: "sg-st-johns-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marine Aquaculture Centre",
+                  "text": "Diese Einrichtung widmet sich der Küstenforschung, der Untersuchung von Meereslebewesen und nachhaltigen Aquakulturpraktiken.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849476,
+                        1.216208
+                  ]
+            },
+            {
+                  "name": "Tropical Marine Science Institute",
+                  "text": "Diese nahe der Küste gelegene Attraktion fungiert als Forschungszentrum für die vielfältigen marinen Ökosysteme der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850808,
+                        1.216486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marine Aquaculture Centre",
+                  "text": "Ez a létesítmény a tengeri élőlények és a fenntartható akvakultúra-gyakorlatok kutatásával foglalkozik a tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849476,
+                        1.216208
+                  ]
+            },
+            {
+                  "name": "Tropical Marine Science Institute",
+                  "text": "A tengerpart közelében található látványosság a régió változatos tengeri ökoszisztémáival foglalkozó kutatóközpontként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850808,
+                        1.216486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marine Aquaculture Centre",
+                  "text": "Această facilitate este dedicată cercetării de coastă, studiului vieții marine și practicilor de acvacultură durabilă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849476,
+                        1.216208
+                  ]
+            },
+            {
+                  "name": "Tropical Marine Science Institute",
+                  "text": "Situată aproape de coastă, această atracție funcționează ca un centru de cercetare axat pe ecosistemele marine diverse din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850808,
+                        1.216486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marine Aquaculture Centre",
+                  "text": "This facility is dedicated to coastal research, studying marine life and sustainable aquaculture practices.",
+                  "category": "landmark",
+                  "coords": [
+                        103.849476,
+                        1.216208
+                  ]
+            },
+            {
+                  "name": "Tropical Marine Science Institute",
+                  "text": "Set near the coast, this attraction functions as a research hub focusing on the diverse marine ecosystems of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850808,
+                        1.216486
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "SG-01",
     coords: [103.8475, 1.2203],
@@ -531,7 +2556,1168 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
     {
-    id: "sg-jurong-lake-gardens-nature-v2",
+    id: "sg-jurong-lake-gardens-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Our Museum @ Taman Jurong",
+                  "text": "Ein kommunales Heimatmuseum in der Nähe der Jurong Lake Gardens, das lokale Kunstwerke und die historische Entwicklung von Taman Jurong zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        103.72203,
+                        1.335112
+                  ]
+            },
+            {
+                  "name": "Bonsai Garden",
+                  "text": "Eine sorgfältig angelegte Freiluftattraktion in den Jurong Lake Gardens mit einer umfangreichen Sammlung geformter Miniaturbäume.",
+                  "category": "landmark",
+                  "coords": [
+                        103.73006,
+                        1.338296
+                  ]
+            },
+            {
+                  "name": "Twin Pagoda",
+                  "text": "Zwei anmutig gestaltete traditionelle chinesische Pagoden, die das ruhige Wasser der Jurong Lake Gardens überragen.",
+                  "category": "historical",
+                  "coords": [
+                        103.728288,
+                        1.339714
+                  ]
+            },
+            {
+                  "name": "Confucius statue",
+                  "text": "Dieses steinerne Denkmal stellt den antiken chinesischen Philosophen Konfuzius dar.",
+                  "category": "historical",
+                  "coords": [
+                        103.72893,
+                        1.338307
+                  ]
+            },
+            {
+                  "name": "Certis Cisco west hub",
+                  "text": "Dieser moderne Komplex dient als westlicher operativer Knotenpunkt für die Sicherheitsorganisation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738572,
+                        1.33057
+                  ]
+            },
+            {
+                  "name": "Paddle Lodge Pandan Reservoir",
+                  "text": "Diese Freizeiteinrichtung stellt Ausrüstung zum Kajakfahren und Paddeln auf den Gewässern des Pandan-Stausees zur Verfügung.",
+                  "category": "landmark",
+                  "coords": [
+                        103.736618,
+                        1.320033
+                  ]
+            },
+            {
+                  "name": "Clusia Cove",
+                  "text": "Diese familienfreundliche Attraktion bietet flache Becken und Wasserspielbereiche, die eine natürliche Küstenumgebung simulieren.",
+                  "category": "landmark",
+                  "coords": [
+                        103.724879,
+                        1.34034
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mukminin",
+                  "text": "Diese islamische Kultstätte verfügt über markante Minarette und bietet einen Gebetssaal für die lokale muslimische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        103.741509,
+                        1.339135
+                  ]
+            },
+            {
+                  "name": "Future site of Science Centre Singapore",
+                  "text": "Dieser Standort ist für den Bau eines neuen, modernen Museums für Wissenschaft und Technik vorgesehen.",
+                  "category": "museum",
+                  "coords": [
+                        103.731239,
+                        1.342238
+                  ]
+            },
+            {
+                  "name": "Therapeutic Garden (Adult's Section)",
+                  "text": "Dieser spezielle Gartenbereich ist mit beruhigenden Pflanzen gestaltet, um Erwachsenen eine entspannende Umgebung zu bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.727834,
+                        1.335213
+                  ]
+            },
+            {
+                  "name": "Lakeside Garden",
+                  "text": "Dieser 2019 eröffnete Naturpark bietet weitläufige Holzstege am Wasser und renaturierte Feuchtgebiete.",
+                  "category": "park",
+                  "coords": [
+                        103.726465,
+                        1.335057
+                  ]
+            },
+            {
+                  "name": "Japanischer Garten",
+                  "text": "Dieser ruhige Park zeigt traditionelle japanische ästhetische Prinzipien mit Steinlaternen, Steingärten und Koiteichen.",
+                  "category": "park",
+                  "coords": [
+                        103.731383,
+                        1.335206
+                  ]
+            },
+            {
+                  "name": "Science Centre Singapore",
+                  "text": "Dieses Museum bietet Hunderte von interaktiven Exponaten zum Anfassen, die die physikalischen Wissenschaften und die Technologie erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        103.735989,
+                        1.332709
+                  ]
+            },
+            {
+                  "name": "Jurong Seventh-day Adventist Church",
+                  "text": "Dieses christliche Kirchengebäude bietet der lokalen adventistischen Gemeinde einen Ort der Anbetung und Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        103.7385,
+                        1.335589
+                  ]
+            },
+            {
+                  "name": "Masjid Assyakirin",
+                  "text": "Diese muslimische Kultstätte verfügt über traditionelle islamische geometrische Motive und einen geräumigen Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.719498,
+                        1.33542
+                  ]
+            },
+            {
+                  "name": "Jurong Christian Church",
+                  "text": "Dieses lokale christliche Heiligtum bietet regelmäßige Gottesdienste und Gemeindeveranstaltungen in einem modernen Gemeindesaal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.722156,
+                        1.336485
+                  ]
+            },
+            {
+                  "name": "Jurong Temple",
+                  "text": "Dieser buddhistische Tempel zeichnet sich durch traditionelle orientalische Dächer und aufwendige Götterstatuen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        103.724247,
+                        1.353055
+                  ]
+            },
+            {
+                  "name": "Ling Hong Tong & Tua Peh Kong Temple",
+                  "text": "Diese farbenfrohe Kultstätte beherbergt Schreine, die der chinesischen Gottheit Tua Peh Kong gewidmet sind.",
+                  "category": "religious",
+                  "coords": [
+                        103.750992,
+                        1.346074
+                  ]
+            },
+            {
+                  "name": "Bukit Batok Presbyterian Church",
+                  "text": "Diese christliche Kirche weist einen ausgeprägten Architekturstil auf und beherbergt regelmäßige presbyterianische Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        103.743191,
+                        1.349347
+                  ]
+            },
+            {
+                  "name": "Sri Arulmigu Murugan Temple",
+                  "text": "Dieser farbenfrohe Hindu-Tempel verfügt über einen reich verzierten Gopuram-Turm, der mit geformten Götterfiguren geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738696,
+                        1.341476
+                  ]
+            },
+            {
+                  "name": "Calvary Pandan Bible-Presbyterian Church",
+                  "text": "Dieses christliche Kirchengebäude bietet einen großen Saal für bibel-presbyterianische Gemeinden und Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        103.746229,
+                        1.321238
+                  ]
+            },
+            {
+                  "name": "Calvary Bible-Presbyterian Church",
+                  "text": "Diese christliche Einrichtung beherbergt traditionelle Gottesdienste und verfügt über Räume für Bibelstudienkreise.",
+                  "category": "landmark",
+                  "coords": [
+                        103.723512,
+                        1.333177
+                  ]
+            },
+            {
+                  "name": "Bo Tien Temple",
+                  "text": "Dieser ruhige buddhistische Tempel bietet einen stillen Raum für Meditation und ist mit religiösen Bildern geschmückt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.718975,
+                        1.331371
+                  ]
+            },
+            {
+                  "name": "Boo Tong San Temple",
+                  "text": "Dieser lokale buddhistische Tempel zeichnet sich durch seine weihrauchgefüllten Hallen und traditionellen verzierten Altäre aus.",
+                  "category": "landmark",
+                  "coords": [
+                        103.721626,
+                        1.35074
+                  ]
+            },
+            {
+                  "name": "United Temple",
+                  "text": "Dieser buddhistische Mehrglaubenskomplex versammelt Gläubige mit unterschiedlichem traditionellem chinesischem religiösem Hintergrund.",
+                  "category": "landmark",
+                  "coords": [
+                        103.72011,
+                        1.349347
+                  ]
+            },
+            {
+                  "name": "Adam Road Presbyterian Church (Tengah)",
+                  "text": "Dieses christliche Heiligtum hält regelmäßige presbyterianische Gottesdienste ab und dient der lokalen Vorstadtgemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.742927,
+                        1.357627
+                  ]
+            },
+            {
+                  "name": "Guilin Combined Temple",
+                  "text": "Diese Kultstätte vereint mehrere Schreine verschiedener chinesischer religiöser Traditionen unter einem Dach.",
+                  "category": "religious",
+                  "coords": [
+                        103.740067,
+                        1.347135
+                  ]
+            },
+            {
+                  "name": "Bukit Timah Seu Teck Sean Tong Temple",
+                  "text": "Dieser buddhistische Tempel verfügt über klassische chinesische Zeremonienhallen, in denen Gläubige Räucherstäbchen verbrennen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.741132,
+                        1.341775
+                  ]
+            },
+            {
+                  "name": "Sheng Hong Temple",
+                  "text": "Dieser aktive buddhistische Tempel ist voll von roten Laternen und traditionellen Holzschnitzereien von Gottheiten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.75061,
+                        1.321047
+                  ]
+            },
+            {
+                  "name": "Masjid Hasanah",
+                  "text": "Diese muslimische Kultstätte verfügt über eine markante Kuppel und bietet den Gläubigen einen großen Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738213,
+                        1.321686
+                  ]
+            },
+            {
+                  "name": "Wet Market",
+                  "text": "Dieser geschäftige Marktplatz bietet frische Produkte, Fleisch und lokale kulinarische Zutaten unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        103.718516,
+                        1.349714
+                  ]
+            },
+            {
+                  "name": "Teban Market & Food Centre",
+                  "text": "Dieser lebhafte Marktplatz kombiniert Stände mit frischen Lebensmitteln und zahlreiche lokale Essensstände.",
+                  "category": "cultural",
+                  "coords": [
+                        103.742488,
+                        1.320874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Our Museum @ Taman Jurong",
+                  "text": "A Jurong Lake Gardens közelében található közösségi örökségmúzeum, amely helyi alkotásokat és Taman Jurong történelmi átalakulását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.72203,
+                        1.335112
+                  ]
+            },
+            {
+                  "name": "Bonsai Garden",
+                  "text": "Aprólékosan parkosított szabadtéri látványosság a Jurong Lake Gardensben, amely faragott miniatűr fák kiterjedt gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        103.73006,
+                        1.338296
+                  ]
+            },
+            {
+                  "name": "Twin Pagoda",
+                  "text": "Két kecsesen megtervezett hagyományos kínai pagoda, amelyek a Jurong Lake Gardens nyugodt vizei fölé magasodnak.",
+                  "category": "historical",
+                  "coords": [
+                        103.728288,
+                        1.339714
+                  ]
+            },
+            {
+                  "name": "Confucius statue",
+                  "text": "Ez a kőből készült emlékmű az ókori kínai filozófust, Konfuciuszt ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        103.72893,
+                        1.338307
+                  ]
+            },
+            {
+                  "name": "Certis Cisco west hub",
+                  "text": "Ez a modern komplexum a biztonsági szervezet nyugati műveleti központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738572,
+                        1.33057
+                  ]
+            },
+            {
+                  "name": "Paddle Lodge Pandan Reservoir",
+                  "text": "Ez a szabadidős létesítmény felszerelést biztosít kajakozáshoz és evezéshez a Pandan-víztározó vizén.",
+                  "category": "landmark",
+                  "coords": [
+                        103.736618,
+                        1.320033
+                  ]
+            },
+            {
+                  "name": "Clusia Cove",
+                  "text": "Ez a családbarát látványosság sekély medencékkel és vizes játszóterekkel rendelkezik, amelyek egy természetes tengerparti környezetet szimulálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.724879,
+                        1.34034
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mukminin",
+                  "text": "Ez az iszlám istentiszteleti hely jellegzetes minaretekkel rendelkezik, és imatermet biztosít a helyi muszlim közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        103.741509,
+                        1.339135
+                  ]
+            },
+            {
+                  "name": "Future site of Science Centre Singapore",
+                  "text": "Ezt a helyszínt egy új, tudománynak és technológiának szentelt modern múzeum építésére jelölték ki.",
+                  "category": "museum",
+                  "coords": [
+                        103.731239,
+                        1.342238
+                  ]
+            },
+            {
+                  "name": "Therapeutic Garden (Adult's Section)",
+                  "text": "Ezt a speciális kertrészt nyugtató növényekkel alakították ki, hogy pihentető környezetet biztosítson a felnőttek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.727834,
+                        1.335213
+                  ]
+            },
+            {
+                  "name": "Lakeside Garden",
+                  "text": "A 2019-ben megnyílt natúrpark kiterjedt fapallókkal rendelkezik a vízpart mentén, valamint helyreállított vizesélőhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        103.726465,
+                        1.335057
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "Ez a csendes park a hagyományos japán esztétikai elveket mutatja be kőlámpásokkal, sziklakertekkel és koi-tavakkal.",
+                  "category": "park",
+                  "coords": [
+                        103.731383,
+                        1.335206
+                  ]
+            },
+            {
+                  "name": "Science Centre Singapore",
+                  "text": "Ez a múzeum több száz interaktív, gyakorlatias kiállítást kínál, amelyek a fizikai tudományokat és a technológiát mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        103.735989,
+                        1.332709
+                  ]
+            },
+            {
+                  "name": "Jurong Seventh-day Adventist Church",
+                  "text": "Ez a keresztény templomépület istentiszteleti és közösségi helyet biztosít a helyi adventista közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.7385,
+                        1.335589
+                  ]
+            },
+            {
+                  "name": "Masjid Assyakirin",
+                  "text": "Ez a muszlim istentiszteleti hely hagyományos iszlám geometriai motívumokkal és egy tágas imateremmel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.719498,
+                        1.33542
+                  ]
+            },
+            {
+                  "name": "Jurong Christian Church",
+                  "text": "Ez a helyi keresztény szentély rendszeres istentiszteleteket és közösségi eseményeket kínál egy modern gyülekezeti teremben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.722156,
+                        1.336485
+                  ]
+            },
+            {
+                  "name": "Jurong Temple",
+                  "text": "Ez a buddhista templom hagyományos keleti tetőszerkezettel és bonyolult istenségszobrokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.724247,
+                        1.353055
+                  ]
+            },
+            {
+                  "name": "Ling Hong Tong & Tua Peh Kong Temple",
+                  "text": "Ez a színes istentiszteleti hely a kínai Tua Peh Kong istenségnek szentelt szentélyeknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        103.750992,
+                        1.346074
+                  ]
+            },
+            {
+                  "name": "Bukit Batok Presbyterian Church",
+                  "text": "Ez a keresztény templom jellegzetes építészeti stílussal rendelkezik, és rendszeres presbiteriánus istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        103.743191,
+                        1.349347
+                  ]
+            },
+            {
+                  "name": "Sri Arulmigu Murugan Temple",
+                  "text": "Ez az élénk hindu templom egy gazdagon díszített gopuram toronnyal rendelkezik, amelyet istenségek faragott alakjai díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738696,
+                        1.341476
+                  ]
+            },
+            {
+                  "name": "Calvary Pandan Bible-Presbyterian Church",
+                  "text": "Ez a keresztény templomépület egy előadótermet biztosít a bibliai-presbiteriánus gyülekezetek és közösségi összejövetelek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.746229,
+                        1.321238
+                  ]
+            },
+            {
+                  "name": "Calvary Bible-Presbyterian Church",
+                  "text": "Ez a keresztény létesítmény hagyományos istentiszteleteknek ad otthont, és termekkel rendelkezik a bibliatanulmányozó csoportok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.723512,
+                        1.333177
+                  ]
+            },
+            {
+                  "name": "Bo Tien Temple",
+                  "text": "Ez a békés buddhista templom csendes teret kínál a meditációhoz, és vallási képekkel van díszítve.",
+                  "category": "landmark",
+                  "coords": [
+                        103.718975,
+                        1.331371
+                  ]
+            },
+            {
+                  "name": "Boo Tong San Temple",
+                  "text": "Ezt a helyi buddhista templomot füstölőkkel teli termei és hagyományos díszes oltárai jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.721626,
+                        1.35074
+                  ]
+            },
+            {
+                  "name": "United Temple",
+                  "text": "Ez a több vallásnak is helyt adó buddhista komplexum különféle hagyományos kínai vallási hátterű hívőket gyűjt össze.",
+                  "category": "landmark",
+                  "coords": [
+                        103.72011,
+                        1.349347
+                  ]
+            },
+            {
+                  "name": "Adam Road Presbyterian Church (Tengah)",
+                  "text": "Ez a keresztény szentély rendszeres presbiteriánus istentiszteleteket tart, és a helyi külvárosi közösséget szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.742927,
+                        1.357627
+                  ]
+            },
+            {
+                  "name": "Guilin Combined Temple",
+                  "text": "Ez az istentiszteleti hely különböző kínai vallási hagyományokból származó szentélyeket egyesít egyetlen fedél alatt.",
+                  "category": "religious",
+                  "coords": [
+                        103.740067,
+                        1.347135
+                  ]
+            },
+            {
+                  "name": "Bukit Timah Seu Teck Sean Tong Temple",
+                  "text": "Ez a buddhista templom klasszikus kínai szertartási termekkel rendelkezik, ahol a hívek füstölőket égetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.741132,
+                        1.341775
+                  ]
+            },
+            {
+                  "name": "Sheng Hong Temple",
+                  "text": "Ez az aktív buddhista templom tele van vörös lámpásokkal és istenségek hagyományos fafaragásaival.",
+                  "category": "landmark",
+                  "coords": [
+                        103.75061,
+                        1.321047
+                  ]
+            },
+            {
+                  "name": "Masjid Hasanah",
+                  "text": "Ez a muszlim istentiszteleti hely egy kiemelkedő kupolával rendelkezik, és hatalmas imateret biztosít a hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738213,
+                        1.321686
+                  ]
+            },
+            {
+                  "name": "Wet Market",
+                  "text": "Ez a forgalmas piac friss termékeket, húsokat és helyi kulináris alapanyagokat kínál szabadtéri környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        103.718516,
+                        1.349714
+                  ]
+            },
+            {
+                  "name": "Teban Market & Food Centre",
+                  "text": "Ez a nyüzsgő piac ötvözi a friss élelmiszereket árusító standokat a számos helyi ételárusító hellyel.",
+                  "category": "cultural",
+                  "coords": [
+                        103.742488,
+                        1.320874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Our Museum @ Taman Jurong",
+                  "text": "Un muzeu comunitar de patrimoniu situat lângă Jurong Lake Gardens, care prezintă opere de artă locale și transformarea istorică a Taman Jurong.",
+                  "category": "museum",
+                  "coords": [
+                        103.72203,
+                        1.335112
+                  ]
+            },
+            {
+                  "name": "Bonsai Garden",
+                  "text": "O atracție în aer liber meticulos amenajată la Jurong Lake Gardens, cu o colecție extinsă de copaci miniaturali sculptați.",
+                  "category": "landmark",
+                  "coords": [
+                        103.73006,
+                        1.338296
+                  ]
+            },
+            {
+                  "name": "Twin Pagoda",
+                  "text": "Două pagode tradiționale chinezești proiectate cu grație, care se înalță deasupra apelor liniștite din Jurong Lake Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        103.728288,
+                        1.339714
+                  ]
+            },
+            {
+                  "name": "Confucius statue",
+                  "text": "Acest monument din piatră îl înfățișează pe filosoful antic chinez Confucius.",
+                  "category": "historical",
+                  "coords": [
+                        103.72893,
+                        1.338307
+                  ]
+            },
+            {
+                  "name": "Certis Cisco west hub",
+                  "text": "Acest complex modern servește drept centru operațional vestic pentru organizația de securitate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738572,
+                        1.33057
+                  ]
+            },
+            {
+                  "name": "Paddle Lodge Pandan Reservoir",
+                  "text": "Această facilitate de agrement oferă echipamente pentru caiac și vâslit pe apele rezervorului Pandan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.736618,
+                        1.320033
+                  ]
+            },
+            {
+                  "name": "Clusia Cove",
+                  "text": "Această atracție pentru familii are piscine puțin adânci și zone de joacă cu apă care simulează un mediu de coastă natural.",
+                  "category": "landmark",
+                  "coords": [
+                        103.724879,
+                        1.34034
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mukminin",
+                  "text": "Acest lăcaș de cult islamic are minarete distincte și oferă o sală de rugăciune pentru comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        103.741509,
+                        1.339135
+                  ]
+            },
+            {
+                  "name": "Future site of Science Centre Singapore",
+                  "text": "Această locație este destinată construcției unui nou muzeu modern dedicat științei și tehnologiei.",
+                  "category": "museum",
+                  "coords": [
+                        103.731239,
+                        1.342238
+                  ]
+            },
+            {
+                  "name": "Therapeutic Garden (Adult's Section)",
+                  "text": "Această zonă specială de grădină este amenajată cu plante calmante pentru a oferi un mediu de relaxare adulților.",
+                  "category": "landmark",
+                  "coords": [
+                        103.727834,
+                        1.335213
+                  ]
+            },
+            {
+                  "name": "Lakeside Garden",
+                  "text": "Deschis în 2019, acest parc natural are alei extinse din lemn pe malul apei și zone umede restaurate.",
+                  "category": "park",
+                  "coords": [
+                        103.726465,
+                        1.335057
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "Acest parc liniștit prezintă principiile estetice tradiționale japoneze cu felinare de piatră, grădini de stânci și iazuri cu pești koi.",
+                  "category": "park",
+                  "coords": [
+                        103.731383,
+                        1.335206
+                  ]
+            },
+            {
+                  "name": "Science Centre Singapore",
+                  "text": "Acest muzeu oferă sute de exponate interactive, practice, care explorează științele fizice și tehnologia.",
+                  "category": "museum",
+                  "coords": [
+                        103.735989,
+                        1.332709
+                  ]
+            },
+            {
+                  "name": "Jurong Seventh-day Adventist Church",
+                  "text": "Această clădire a bisericii creștine oferă un loc de închinare și părtășie pentru comunitatea adventistă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.7385,
+                        1.335589
+                  ]
+            },
+            {
+                  "name": "Masjid Assyakirin",
+                  "text": "Acest lăcaș de cult musulman prezintă motive geometrice islamice tradiționale și o sală de rugăciune spațioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.719498,
+                        1.33542
+                  ]
+            },
+            {
+                  "name": "Jurong Christian Church",
+                  "text": "Acest sanctuar creștin local oferă slujbe religioase regulate și evenimente comunitare într-o sală de congregație modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.722156,
+                        1.336485
+                  ]
+            },
+            {
+                  "name": "Jurong Temple",
+                  "text": "Acest templu budist are un acoperiș oriental tradițional și statui complicate ale zeităților.",
+                  "category": "landmark",
+                  "coords": [
+                        103.724247,
+                        1.353055
+                  ]
+            },
+            {
+                  "name": "Ling Hong Tong & Tua Peh Kong Temple",
+                  "text": "Acest lăcaș de cult colorat adăpostește altare dedicate zeității chinezești Tua Peh Kong.",
+                  "category": "religious",
+                  "coords": [
+                        103.750992,
+                        1.346074
+                  ]
+            },
+            {
+                  "name": "Bukit Batok Presbyterian Church",
+                  "text": "Această biserică creștină are un stil arhitectural distinct și găzduiește slujbe religioase presbiteriene regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.743191,
+                        1.349347
+                  ]
+            },
+            {
+                  "name": "Sri Arulmigu Murugan Temple",
+                  "text": "Acest templu hindus vibrant are un turn gopuram bogat decorat, împodobit cu figuri sculptate ale zeităților.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738696,
+                        1.341476
+                  ]
+            },
+            {
+                  "name": "Calvary Pandan Bible-Presbyterian Church",
+                  "text": "Această clădire a bisericii creștine oferă un auditoriu pentru congregațiile biblico-presbiteriene și întâlnirile comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        103.746229,
+                        1.321238
+                  ]
+            },
+            {
+                  "name": "Calvary Bible-Presbyterian Church",
+                  "text": "Această facilitate creștină găzduiește slujbe tradiționale de închinare și are săli pentru grupuri de studiu biblic.",
+                  "category": "landmark",
+                  "coords": [
+                        103.723512,
+                        1.333177
+                  ]
+            },
+            {
+                  "name": "Bo Tien Temple",
+                  "text": "Acest templu budist senin oferă un spațiu liniștit pentru meditație și este împodobit cu imagini religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        103.718975,
+                        1.331371
+                  ]
+            },
+            {
+                  "name": "Boo Tong San Temple",
+                  "text": "Acest templu budist local se caracterizează prin sălile sale pline de tămâie și altarele tradiționale ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.721626,
+                        1.35074
+                  ]
+            },
+            {
+                  "name": "United Temple",
+                  "text": "Acest complex budist multiconfesional adună credincioși din diverse medii religioase tradiționale chineze.",
+                  "category": "landmark",
+                  "coords": [
+                        103.72011,
+                        1.349347
+                  ]
+            },
+            {
+                  "name": "Adam Road Presbyterian Church (Tengah)",
+                  "text": "Acest sanctuar creștin organizează slujbe religioase presbiteriene regulate și servește comunitatea locală din suburbie.",
+                  "category": "landmark",
+                  "coords": [
+                        103.742927,
+                        1.357627
+                  ]
+            },
+            {
+                  "name": "Guilin Combined Temple",
+                  "text": "Acest lăcaș de cult integrează mai multe altare din diferite tradiții religioase chinezești sub un singur acoperiș.",
+                  "category": "religious",
+                  "coords": [
+                        103.740067,
+                        1.347135
+                  ]
+            },
+            {
+                  "name": "Bukit Timah Seu Teck Sean Tong Temple",
+                  "text": "Acest templu budist are săli de ceremonie clasice chinezești unde credincioșii ard bețișoare parfumate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.741132,
+                        1.341775
+                  ]
+            },
+            {
+                  "name": "Sheng Hong Temple",
+                  "text": "Acest templu budist activ este plin de felinare roșii și sculpturi tradiționale din lemn ale zeităților.",
+                  "category": "landmark",
+                  "coords": [
+                        103.75061,
+                        1.321047
+                  ]
+            },
+            {
+                  "name": "Masjid Hasanah",
+                  "text": "Acest lăcaș de cult musulman are o cupolă proeminentă și oferă un spațiu mare de rugăciune pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738213,
+                        1.321686
+                  ]
+            },
+            {
+                  "name": "Wet Market",
+                  "text": "Această piață aglomerată oferă produse proaspete, carne și ingrediente culinare locale într-un cadru în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        103.718516,
+                        1.349714
+                  ]
+            },
+            {
+                  "name": "Teban Market & Food Centre",
+                  "text": "Această piață plină de viață combină tarabele care vând produse alimentare proaspete cu numeroase standuri de mâncare locală.",
+                  "category": "cultural",
+                  "coords": [
+                        103.742488,
+                        1.320874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Our Museum @ Taman Jurong",
+                  "text": "A community heritage museum located near Jurong Lake Gardens that showcases local artworks and the historical transformation of Taman Jurong.",
+                  "category": "museum",
+                  "coords": [
+                        103.72203,
+                        1.335112
+                  ]
+            },
+            {
+                  "name": "Bonsai Garden",
+                  "text": "A meticulously landscaped outdoor attraction at Jurong Lake Gardens featuring an extensive collection of sculpted miniature trees.",
+                  "category": "landmark",
+                  "coords": [
+                        103.73006,
+                        1.338296
+                  ]
+            },
+            {
+                  "name": "Twin Pagoda",
+                  "text": "Two gracefully designed traditional Chinese pagodas towering over the tranquil waters of Jurong Lake Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        103.728288,
+                        1.339714
+                  ]
+            },
+            {
+                  "name": "Confucius statue",
+                  "text": "This stone monument depicts the ancient Chinese philosopher Confucius.",
+                  "category": "historical",
+                  "coords": [
+                        103.72893,
+                        1.338307
+                  ]
+            },
+            {
+                  "name": "Certis Cisco west hub",
+                  "text": "This modern complex serves as a western operational hub for the security organization.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738572,
+                        1.33057
+                  ]
+            },
+            {
+                  "name": "Paddle Lodge Pandan Reservoir",
+                  "text": "This recreational facility provides equipment for kayaking and paddling on the waters of the Pandan Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        103.736618,
+                        1.320033
+                  ]
+            },
+            {
+                  "name": "Clusia Cove",
+                  "text": "This family-friendly attraction features shallow pools and water play areas simulating a natural coastal environment.",
+                  "category": "landmark",
+                  "coords": [
+                        103.724879,
+                        1.34034
+                  ]
+            },
+            {
+                  "name": "Al-Mukminin Mosque",
+                  "text": "This Islamic place of worship features distinct minarets and provides a prayer hall for the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        103.741509,
+                        1.339135
+                  ]
+            },
+            {
+                  "name": "Future site of Science Centre Singapore",
+                  "text": "This location is designated for the construction of a new, modern museum dedicated to science and technology.",
+                  "category": "museum",
+                  "coords": [
+                        103.731239,
+                        1.342238
+                  ]
+            },
+            {
+                  "name": "Therapeutic Garden (Adult's Section)",
+                  "text": "This specialized garden area is designed with calming plants to provide a relaxing environment for adults.",
+                  "category": "landmark",
+                  "coords": [
+                        103.727834,
+                        1.335213
+                  ]
+            },
+            {
+                  "name": "Lakeside Garden",
+                  "text": "Opened in 2019, this nature park features expansive boardwalks along the water's edge and restored wetlands.",
+                  "category": "park",
+                  "coords": [
+                        103.726465,
+                        1.335057
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "This tranquil park showcases traditional Japanese aesthetic principles with stone lanterns, rock gardens, and koi ponds.",
+                  "category": "park",
+                  "coords": [
+                        103.731383,
+                        1.335206
+                  ]
+            },
+            {
+                  "name": "Science Centre Singapore",
+                  "text": "This museum offers hundreds of interactive, hands-on exhibits exploring physical sciences and technology.",
+                  "category": "museum",
+                  "coords": [
+                        103.735989,
+                        1.332709
+                  ]
+            },
+            {
+                  "name": "Jurong Seventh-day Adventist Church",
+                  "text": "This Christian church building provides a place of worship and fellowship for the local Adventist community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.7385,
+                        1.335589
+                  ]
+            },
+            {
+                  "name": "Masjid Assyakirin",
+                  "text": "This Muslim place of worship features traditional Islamic geometric motifs and a spacious prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        103.719498,
+                        1.33542
+                  ]
+            },
+            {
+                  "name": "Jurong Christian Church",
+                  "text": "This local Christian sanctuary offers regular worship services and community events in a modern congregational hall.",
+                  "category": "landmark",
+                  "coords": [
+                        103.722156,
+                        1.336485
+                  ]
+            },
+            {
+                  "name": "Jurong Temple",
+                  "text": "This Buddhist temple features traditional oriental roofing and intricate statues of deities.",
+                  "category": "landmark",
+                  "coords": [
+                        103.724247,
+                        1.353055
+                  ]
+            },
+            {
+                  "name": "Ling Hong Tong & Tua Peh Kong Temple",
+                  "text": "This colorful place of worship houses shrines dedicated to the Chinese deity Tua Peh Kong.",
+                  "category": "religious",
+                  "coords": [
+                        103.750992,
+                        1.346074
+                  ]
+            },
+            {
+                  "name": "Bukit Batok Presbyterian Church",
+                  "text": "This Christian church features a distinct architectural style and hosts regular Presbyterian religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.743191,
+                        1.349347
+                  ]
+            },
+            {
+                  "name": "Sri Arulmigu Murugan Temple",
+                  "text": "This vibrant Hindu temple features a highly decorated gopuram tower adorned with sculpted figures of deities.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738696,
+                        1.341476
+                  ]
+            },
+            {
+                  "name": "Calvary Pandan Bible-Presbyterian Church",
+                  "text": "This Christian church building provides an auditorium for Bible-Presbyterian congregations and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        103.746229,
+                        1.321238
+                  ]
+            },
+            {
+                  "name": "Calvary Bible-Presbyterian Church",
+                  "text": "This Christian facility hosts traditional worship services and features rooms for Bible study groups.",
+                  "category": "landmark",
+                  "coords": [
+                        103.723512,
+                        1.333177
+                  ]
+            },
+            {
+                  "name": "Bo Tien Temple",
+                  "text": "This serene Buddhist temple offers a quiet space for meditation and is adorned with religious imagery.",
+                  "category": "landmark",
+                  "coords": [
+                        103.718975,
+                        1.331371
+                  ]
+            },
+            {
+                  "name": "Boo Tong San Temple",
+                  "text": "This local Buddhist temple is characterized by its incense-filled halls and traditional ornate altars.",
+                  "category": "landmark",
+                  "coords": [
+                        103.721626,
+                        1.35074
+                  ]
+            },
+            {
+                  "name": "United Temple",
+                  "text": "This multi-faith Buddhist complex gathers worshippers from various traditional Chinese religious backgrounds.",
+                  "category": "landmark",
+                  "coords": [
+                        103.72011,
+                        1.349347
+                  ]
+            },
+            {
+                  "name": "Adam Road Presbyterian Church (Tengah)",
+                  "text": "This Christian sanctuary holds regular Presbyterian worship services and serves the local suburban community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.742927,
+                        1.357627
+                  ]
+            },
+            {
+                  "name": "Guilin Combined Temple",
+                  "text": "This place of worship integrates several shrines from different Chinese religious traditions under a single roof.",
+                  "category": "religious",
+                  "coords": [
+                        103.740067,
+                        1.347135
+                  ]
+            },
+            {
+                  "name": "Bukit Timah Seu Teck Sean Tong Temple",
+                  "text": "This Buddhist temple features classic Chinese ceremonial halls where devotees burn joss sticks.",
+                  "category": "landmark",
+                  "coords": [
+                        103.741132,
+                        1.341775
+                  ]
+            },
+            {
+                  "name": "Sheng Hong Temple",
+                  "text": "This active Buddhist temple is filled with red lanterns and traditional wooden carvings of deities.",
+                  "category": "landmark",
+                  "coords": [
+                        103.75061,
+                        1.321047
+                  ]
+            },
+            {
+                  "name": "Masjid Hasanah",
+                  "text": "This Muslim place of worship features a prominent dome and provides a large prayer space for the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        103.738213,
+                        1.321686
+                  ]
+            },
+            {
+                  "name": "Wet Market",
+                  "text": "This busy marketplace offers fresh produce, meats, and local culinary ingredients in an open-air setting.",
+                  "category": "cultural",
+                  "coords": [
+                        103.718516,
+                        1.349714
+                  ]
+            },
+            {
+                  "name": "Teban Market & Food Centre",
+                  "text": "This bustling marketplace combines stalls selling fresh groceries with numerous local food hawker stands.",
+                  "category": "cultural",
+                  "coords": [
+                        103.742488,
+                        1.320874
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SG-01",
     coords: [103.7296, 1.3396],
@@ -579,7 +3765,268 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     },
   },
   {
-    id: "sg-pasir-ris-park-nature-v2",
+    id: "sg-pasir-ris-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wild Wild Wet",
+                  "text": "Dieser weltbekannte Wasserpark bietet eine Vielzahl von aufregenden Wasserrutschen und Wellenbädern.",
+                  "category": "recreational",
+                  "coords": [
+                        103.954578,
+                        1.378045
+                  ]
+            },
+            {
+                  "name": "Pasir Ris Town Park",
+                  "text": "Dieser bekannte Park umfasst einen großen Meerwasserteich inmitten einer üppigen grünen Vegetation.",
+                  "category": "park",
+                  "coords": [
+                        103.952483,
+                        1.371506
+                  ]
+            },
+            {
+                  "name": "Pasir Ris Park",
+                  "text": "Dieser 1989 gegründete, berühmte Küstenpark verfügt über ausgedehnte Mangrovenstege und Sandstrände.",
+                  "category": "park",
+                  "coords": [
+                        103.949509,
+                        1.381621
+                  ]
+            },
+            {
+                  "name": "Church of Divine Mercy",
+                  "text": "Diese christliche Kultstätte bietet einen Raum für Gemeindetreffen und Gebete in der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        103.93608,
+                        1.380349
+                  ]
+            },
+            {
+                  "name": "Penthecost Methodist Church",
+                  "text": "Diese Kirche fungiert als christlicher Versammlungsort und dient den spirituellen Bedürfnissen ihrer örtlichen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.957372,
+                        1.371098
+                  ]
+            },
+            {
+                  "name": "Sakya Tenphel Ling Temple",
+                  "text": "Dieser buddhistische Tempel bietet eine ruhige Umgebung für Meditation und traditionelle religiöse Praktiken.",
+                  "category": "landmark",
+                  "coords": [
+                        103.959053,
+                        1.369225
+                  ]
+            },
+            {
+                  "name": "Buddhist Compassion Relief Tzu Chi Foundation",
+                  "text": "Diese buddhistische Einrichtung konzentriert sich auf wohltätige Aktivitäten, humanitäre Hilfe und gemeinnützige Arbeit.",
+                  "category": "landmark",
+                  "coords": [
+                        103.939316,
+                        1.372708
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wild Wild Wet",
+                  "text": "Ez a világszerte ismert vízi vidámpark számos izgalmas vízi csúszdával és hullámmedencével várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        103.954578,
+                        1.378045
+                  ]
+            },
+            {
+                  "name": "Pasir Ris Town Park",
+                  "text": "Ez a jól ismert park egy nagy tengeri tavat is magában foglal buja zöld növényzet között.",
+                  "category": "park",
+                  "coords": [
+                        103.952483,
+                        1.371506
+                  ]
+            },
+            {
+                  "name": "Pasir Ris Park",
+                  "text": "Az 1989-ben alapított híres tengerparti park kiterjedt mangrove sétányokkal és homokos partokkal büszkélkedhet.",
+                  "category": "park",
+                  "coords": [
+                        103.949509,
+                        1.381621
+                  ]
+            },
+            {
+                  "name": "Church of Divine Mercy",
+                  "text": "Ez a keresztény istentiszteleti helyszín teret biztosít a közösségi összejövetelek és az imádság számára a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        103.93608,
+                        1.380349
+                  ]
+            },
+            {
+                  "name": "Penthecost Methodist Church",
+                  "text": "Keresztény gyülekezeti térként ez a templom a helyi közösség spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.957372,
+                        1.371098
+                  ]
+            },
+            {
+                  "name": "Sakya Tenphel Ling Temple",
+                  "text": "Ez a buddhista templom nyugodt környezetet biztosít a meditációhoz és a hagyományos vallási gyakorlatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        103.959053,
+                        1.369225
+                  ]
+            },
+            {
+                  "name": "Buddhist Compassion Relief Tzu Chi Foundation",
+                  "text": "Ez a buddhista intézmény jótékonysági tevékenységekre, humanitárius segélyekre és közösségi szolgálatra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        103.939316,
+                        1.372708
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wild Wild Wet",
+                  "text": "Acest parc acvatic recunoscut la nivel mondial are o varietate de tobogane cu apă palpitante și piscine cu valuri.",
+                  "category": "recreational",
+                  "coords": [
+                        103.954578,
+                        1.378045
+                  ]
+            },
+            {
+                  "name": "Pasir Ris Town Park",
+                  "text": "Acest parc binecunoscut include un mare iaz marin situat în mijlocul unei vegetații verzi luxuriante.",
+                  "category": "park",
+                  "coords": [
+                        103.952483,
+                        1.371506
+                  ]
+            },
+            {
+                  "name": "Pasir Ris Park",
+                  "text": "Înființat în 1989, acest faimos parc de coastă oferă promenade extinse prin mangrove și țărmuri nisipoase.",
+                  "category": "park",
+                  "coords": [
+                        103.949509,
+                        1.381621
+                  ]
+            },
+            {
+                  "name": "Church of Divine Mercy",
+                  "text": "Acest lăcaș de cult creștin oferă un spațiu pentru adunări comunitare și rugăciune în cadrul cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.93608,
+                        1.380349
+                  ]
+            },
+            {
+                  "name": "Penthecost Methodist Church",
+                  "text": "Funcționând ca un spațiu de adunare creștin, această biserică servește nevoilor spirituale ale congregației sale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.957372,
+                        1.371098
+                  ]
+            },
+            {
+                  "name": "Sakya Tenphel Ling Temple",
+                  "text": "Acest templu budist oferă un mediu senin pentru meditație și practici religioase tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.959053,
+                        1.369225
+                  ]
+            },
+            {
+                  "name": "Buddhist Compassion Relief Tzu Chi Foundation",
+                  "text": "Această instituție budistă se concentrează pe activități caritabile, ajutor umanitar și servicii comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.939316,
+                        1.372708
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wild Wild Wet",
+                  "text": "This globally recognized water park features a variety of thrilling water slides and wave pools.",
+                  "category": "recreational",
+                  "coords": [
+                        103.954578,
+                        1.378045
+                  ]
+            },
+            {
+                  "name": "Pasir Ris Town Park",
+                  "text": "This well-known park includes a large marine pond set amongst lush green vegetation.",
+                  "category": "park",
+                  "coords": [
+                        103.952483,
+                        1.371506
+                  ]
+            },
+            {
+                  "name": "Pasir Ris Park",
+                  "text": "Established in 1989, this famous coastal park features extensive mangrove boardwalks and sandy shorelines.",
+                  "category": "park",
+                  "coords": [
+                        103.949509,
+                        1.381621
+                  ]
+            },
+            {
+                  "name": "Church of Divine Mercy",
+                  "text": "This Christian site of worship provides a space for community gatherings and prayer within the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        103.93608,
+                        1.380349
+                  ]
+            },
+            {
+                  "name": "Penthecost Methodist Church",
+                  "text": "Functioning as a Christian gathering space, this church serves the spiritual needs of its local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.957372,
+                        1.371098
+                  ]
+            },
+            {
+                  "name": "Sakya Tenphel Ling Temple",
+                  "text": "This Buddhist temple provides a serene environment for meditation and traditional religious practices.",
+                  "category": "landmark",
+                  "coords": [
+                        103.959053,
+                        1.369225
+                  ]
+            },
+            {
+                  "name": "Buddhist Compassion Relief Tzu Chi Foundation",
+                  "text": "This Buddhist establishment focuses on charitable activities, humanitarian aid, and community service.",
+                  "category": "landmark",
+                  "coords": [
+                        103.939316,
+                        1.372708
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SG-01",
     coords: [103.9511, 1.3787],

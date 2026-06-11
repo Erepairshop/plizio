@@ -30,7 +30,232 @@ export const poiExtraNepalNatureV2: POI[] = [
     }
   },
   {
-    id: "sagarmatha-national-park-nature-v2",
+    id: "sagarmatha-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cho La",
+                  "text": "Ein vergletscherter, 5.420 Meter hoher Gebirgspass, der das Dorf Dzongla mit dem Gokyo-Tal im Everest-Gebiet verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        86.751637,
+                        27.961725
+                  ]
+            },
+            {
+                  "name": "Nirekha",
+                  "text": "Ein technischer 6.159 Meter hoher Gipfel in der Nähe des Cho-La-Passes in der Khumbu-Region.",
+                  "category": "natural",
+                  "coords": [
+                        86.762903,
+                        27.977511
+                  ]
+            },
+            {
+                  "name": "Old village",
+                  "text": "Verlassene Steinruinen einer traditionellen, hochgelegenen Sherpa-Siedlung im Sagarmatha-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        86.783231,
+                        27.930915
+                  ]
+            },
+            {
+                  "name": "Cholatse",
+                  "text": "Ein markanter 6.440 Meter hoher Gipfel, der für seine steile und vereiste Nordwand bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        86.765176,
+                        27.919616
+                  ]
+            },
+            {
+                  "name": "Taboche",
+                  "text": "Ein zerklüfteter Himalaya-Gipfel, der 6.542 Meter über dem Pheriche-Tal aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        86.77937,
+                        27.897314
+                  ]
+            },
+            {
+                  "name": "Sagarmatha-Nationalpark",
+                  "text": "Ein UNESCO-Weltnaturerbe, das den höchsten Gipfel der Welt, den Mount Everest, umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        86.721418,
+                        27.933383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cho La",
+                  "text": "Egy gleccserrel borított, 5420 méter magas hegyi hágó, amely Dzongla falut köti össze a Gokyo-völgygyel az Everest-régióban.",
+                  "category": "natural",
+                  "coords": [
+                        86.751637,
+                        27.961725
+                  ]
+            },
+            {
+                  "name": "Nirekha",
+                  "text": "Egy technikás, 6159 méter magas hegycsúcs a Khumbu-régióban, a Cho La-hágó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        86.762903,
+                        27.977511
+                  ]
+            },
+            {
+                  "name": "Old village",
+                  "text": "Egy hagyományos, magashegyi serpa település elhagyatott kőromjai a Sagarmatha Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        86.783231,
+                        27.930915
+                  ]
+            },
+            {
+                  "name": "Cholatse",
+                  "text": "Egy látványos, 6440 méteres csúcs, amely meredek és jeges északi faláról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        86.765176,
+                        27.919616
+                  ]
+            },
+            {
+                  "name": "Taboche",
+                  "text": "Egy csipkézett himalájai csúcs, amely 6542 méterrel magasodik a Pheriche-völgy fölé.",
+                  "category": "natural",
+                  "coords": [
+                        86.77937,
+                        27.897314
+                  ]
+            },
+            {
+                  "name": "सगरमाथा राष्ट्रिय निकुञ्ज",
+                  "text": "Az UNESCO Világörökség része, amely a világ legmagasabb csúcsát, a Mount Everestet is magában foglalja.",
+                  "category": "natural",
+                  "coords": [
+                        86.721418,
+                        27.933383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cho La",
+                  "text": "O trecătoare montană glaciare de 5.420 de metri care leagă satul Dzongla de Valea Gokyo din regiunea Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.751637,
+                        27.961725
+                  ]
+            },
+            {
+                  "name": "Nirekha",
+                  "text": "Un vârf tehnic de 6.159 de metri situat lângă pasul Cho La în regiunea Khumbu.",
+                  "category": "natural",
+                  "coords": [
+                        86.762903,
+                        27.977511
+                  ]
+            },
+            {
+                  "name": "Old village",
+                  "text": "Ruine de piatră abandonate ale unei așezări tradiționale șerpa de mare altitudine din Parcul Național Sagarmatha.",
+                  "category": "historical",
+                  "coords": [
+                        86.783231,
+                        27.930915
+                  ]
+            },
+            {
+                  "name": "Cholatse",
+                  "text": "Un vârf impunător de 6.440 de metri, cunoscut pentru versantul său nordic abrupt și înghețat.",
+                  "category": "natural",
+                  "coords": [
+                        86.765176,
+                        27.919616
+                  ]
+            },
+            {
+                  "name": "Taboche",
+                  "text": "Un vârf muntos zimțat din Himalaya, care se înalță la 6.542 de metri deasupra văii Pheriche.",
+                  "category": "natural",
+                  "coords": [
+                        86.77937,
+                        27.897314
+                  ]
+            },
+            {
+                  "name": "सगरमाथा राष्ट्रिय निकुञ्ज",
+                  "text": "Un sit al Patrimoniului Mondial UNESCO care cuprinde cel mai înalt vârf din lume, Muntele Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.721418,
+                        27.933383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cho La",
+                  "text": "A glaciated 5,420-meter mountain pass that connects the village of Dzongla to the Gokyo Valley in the Everest region.",
+                  "category": "natural",
+                  "coords": [
+                        86.751637,
+                        27.961725
+                  ]
+            },
+            {
+                  "name": "Nirekha",
+                  "text": "A technical 6,159-meter peak located near the Cho La pass in the Khumbu region.",
+                  "category": "natural",
+                  "coords": [
+                        86.762903,
+                        27.977511
+                  ]
+            },
+            {
+                  "name": "Old village",
+                  "text": "Abandoned stone ruins of a traditional high-altitude Sherpa settlement in Sagarmatha National Park.",
+                  "category": "historical",
+                  "coords": [
+                        86.783231,
+                        27.930915
+                  ]
+            },
+            {
+                  "name": "Cholatse",
+                  "text": "A striking 6,440-meter peak known for its steep and icy north face.",
+                  "category": "natural",
+                  "coords": [
+                        86.765176,
+                        27.919616
+                  ]
+            },
+            {
+                  "name": "Taboche",
+                  "text": "A jagged Himalayan peak rising to 6,542 meters above the Pheriche valley.",
+                  "category": "natural",
+                  "coords": [
+                        86.77937,
+                        27.897314
+                  ]
+            },
+            {
+                  "name": "Sagarmatha National Park",
+                  "text": "A UNESCO World Heritage site encompassing the world's highest peak, Mount Everest.",
+                  "category": "natural",
+                  "coords": [
+                        86.721418,
+                        27.933383
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "NP-P1",
     coords: [86.7333, 27.9333],
@@ -66,7 +291,196 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "chitwan-national-park-nature-v2",
+    id: "chitwan-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Park HQ (gharial breeding project)",
+                  "text": "Ein Naturschutzzentrum, das sich auf die Nachzucht gefährdeter Gavial-Krokodile mit ihren markanten langen Schnauzen konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        84.339029,
+                        27.553373
+                  ]
+            },
+            {
+                  "name": "Sitamai Mandir",
+                  "text": "Ein Dschungeltempel im Nationalpark, der traditionell mit der Göttin Sita aus dem Ramayana-Epos verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        84.381378,
+                        27.570152
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर , पहारिलाेटार",
+                  "text": "Ein friedlicher Hindu-Tempel, der dem Gott Shiva gewidmet ist und in einer ländlichen Gegend nahe der Parkgrenze liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        84.322617,
+                        27.587792
+                  ]
+            },
+            {
+                  "name": "गोद्दक नाथ मन्दिर",
+                  "text": "Eine religiöse Kultstätte, die in das üppige Grün der Pufferzone des Parks eingebettet ist.",
+                  "category": "religious",
+                  "coords": [
+                        84.262327,
+                        27.492168
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Ein kleiner Schrein, der dem elefantenköpfigen Gott Ganesh gewidmet ist und oft von Reisenden für viel Glück besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        84.33815,
+                        27.567882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Park HQ (gharial breeding project)",
+                  "text": "Természetvédelmi központ, amely a veszélyeztetett, jellegzetes hosszú orrú gaviál krokodilok tenyésztésére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        84.339029,
+                        27.553373
+                  ]
+            },
+            {
+                  "name": "Sitamai Mandir",
+                  "text": "A nemzeti parkon belül található dzsungeltemplom, amely a hagyomány szerint a Rámájana Szíta istennőjéhez kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        84.381378,
+                        27.570152
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर , पहारिलाेटार",
+                  "text": "Sívának szentelt békés hindu templom, amely a park határához közeli vidéki területen található.",
+                  "category": "landmark",
+                  "coords": [
+                        84.322617,
+                        27.587792
+                  ]
+            },
+            {
+                  "name": "गोद्दक नाथ मन्दिर",
+                  "text": "Vallási kegyhely a park pufferzónájának buja zöldjében.",
+                  "category": "religious",
+                  "coords": [
+                        84.262327,
+                        27.492168
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Kicsi szentély az elefántfejű Ganésa istennek, amelyet az utazók gyakran keresnek fel szerencséért.",
+                  "category": "landmark",
+                  "coords": [
+                        84.33815,
+                        27.567882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Park HQ (gharial breeding project)",
+                  "text": "Un centru de conservare axat pe creșterea crocodililor gharial pe cale de dispariție, cu botul lor lung și distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        84.339029,
+                        27.553373
+                  ]
+            },
+            {
+                  "name": "Sitamai Mandir",
+                  "text": "Un templu în junglă situat în interiorul parcului național, legat tradițional de zeița Sita din epopeea Ramayana.",
+                  "category": "landmark",
+                  "coords": [
+                        84.381378,
+                        27.570152
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर , पहारिलाेटार",
+                  "text": "Un templu hindu liniștit dedicat zeului Shiva, situat într-o zonă rurală lângă limitele parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        84.322617,
+                        27.587792
+                  ]
+            },
+            {
+                  "name": "गोद्दक नाथ मन्दिर",
+                  "text": "Un lăcaș de cult religios cuibărit în verdeața luxuriantă a zonei tampon a parcului.",
+                  "category": "religious",
+                  "coords": [
+                        84.262327,
+                        27.492168
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Un mic altar dedicat zeului cu cap de elefant Ganesh, vizitat adesea de călători pentru noroc.",
+                  "category": "landmark",
+                  "coords": [
+                        84.33815,
+                        27.567882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Park HQ (gharial breeding project)",
+                  "text": "A conservation center focused on the captive breeding of endangered gharial crocodiles with their distinct long snouts.",
+                  "category": "landmark",
+                  "coords": [
+                        84.339029,
+                        27.553373
+                  ]
+            },
+            {
+                  "name": "Sitamai Mandir",
+                  "text": "A jungle temple located within the national park, traditionally linked to the goddess Sita from the Ramayana epic.",
+                  "category": "landmark",
+                  "coords": [
+                        84.381378,
+                        27.570152
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर , पहारिलाेटार",
+                  "text": "A peaceful Hindu temple dedicated to Lord Shiva, set in a rural area near the park boundaries.",
+                  "category": "landmark",
+                  "coords": [
+                        84.322617,
+                        27.587792
+                  ]
+            },
+            {
+                  "name": "Goddak Nath Temple",
+                  "text": "A religious place of worship nestled in the lush greenery of the park's buffer zone.",
+                  "category": "religious",
+                  "coords": [
+                        84.262327,
+                        27.492168
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "A small shrine dedicated to the elephant-headed god Ganesh, often visited by travelers for good luck.",
+                  "category": "landmark",
+                  "coords": [
+                        84.33815,
+                        27.567882
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "NP-P3",
     coords: [84.3333, 27.5000],
@@ -102,7 +516,196 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "bardiya-national-park-nature-v2",
+    id: "bardiya-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bhagawati mills",
+                  "text": "Bhagawati Mills ist eine ländliche Windmühlenanlage, die am Rande des Bardiya-Nationalparks zur lokalen Getreideverarbeitung beiträgt.",
+                  "category": "landmark",
+                  "coords": [
+                        81.419886,
+                        28.364763
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "Krishna Mandir ist ein lokaler Hindutempel, der Lord Krishna gewidmet ist und sich in der Pufferzone des wilden Bardiya-Nationalparks befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        81.320728,
+                        28.456228
+                  ]
+            },
+            {
+                  "name": "shiva mandir",
+                  "text": "Der Shiva-Mandir dient mit seinen traditionellen hinduistischen Schreinen in der Nähe der Wildreservate von Bardiya den spirituellen Bedürfnissen der umliegenden Gemeinden.",
+                  "category": "landmark",
+                  "coords": [
+                        81.327058,
+                        28.455097
+                  ]
+            },
+            {
+                  "name": "Bhagawati Temple",
+                  "text": "Der Bhagawati-Tempel ist eine bedeutende hinduistische heilige Stätte, die mit regionalen Schnitzereien geschmückt ist und in der Nähe der üppigen Wälder des Bardiya-Nationalparks steht.",
+                  "category": "landmark",
+                  "coords": [
+                        81.419981,
+                        28.368643
+                  ]
+            },
+            {
+                  "name": "Shahipur temple",
+                  "text": "Der Shahipur-Tempel ist eine dauerhafte hinduistische religiöse Struktur, die von den Dorfbewohnern in der Bardiya-Region häufig besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        81.299892,
+                        28.394642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bhagawati mills",
+                  "text": "A Bhagawati Mills egy vidéki szélmalom a Bardiya Nemzeti Park szélén, amely hozzájárul a helyi gabonafeldolgozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        81.419886,
+                        28.364763
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "A Krishna Mandir egy Lord Krishnának szentelt helyi hindu templom, amely a vad Bardiya Nemzeti Park pufferzónájában található.",
+                  "category": "landmark",
+                  "coords": [
+                        81.320728,
+                        28.456228
+                  ]
+            },
+            {
+                  "name": "shiva mandir",
+                  "text": "A Shiva Mandir a Bardiya vadrezervátumaihoz közeli hagyományos hindu szentélyeivel szolgálja ki a környező közösségek spirituális igényeit.",
+                  "category": "landmark",
+                  "coords": [
+                        81.327058,
+                        28.455097
+                  ]
+            },
+            {
+                  "name": "Bhagawati Temple",
+                  "text": "A Bhagawati-templom egy jelentős, regionális faragásokkal díszített hindu szent hely, amely a Bardiya Nemzeti Park buja erdői közelében áll.",
+                  "category": "landmark",
+                  "coords": [
+                        81.419981,
+                        28.368643
+                  ]
+            },
+            {
+                  "name": "Shahipur temple",
+                  "text": "A Shahipur templom egy tartós hindu vallási építmény, amelyet gyakran látogatnak a Bardiya régió falusi lakosai.",
+                  "category": "landmark",
+                  "coords": [
+                        81.299892,
+                        28.394642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bhagawati mills",
+                  "text": "Bhagawati Mills este o moară de vânt rurală care contribuie la procesarea locală a cerealelor la marginea Parcului Național Bardiya.",
+                  "category": "landmark",
+                  "coords": [
+                        81.419886,
+                        28.364763
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "Krishna Mandir este un templu hindus local dedicat zeului Krishna, situat în zona tampon a sălbaticului Parc Național Bardiya.",
+                  "category": "landmark",
+                  "coords": [
+                        81.320728,
+                        28.456228
+                  ]
+            },
+            {
+                  "name": "shiva mandir",
+                  "text": "Shiva Mandir servește nevoilor spirituale ale comunităților din jur prin altarele sale hinduse tradiționale de lângă rezervațiile sălbatice din Bardiya.",
+                  "category": "landmark",
+                  "coords": [
+                        81.327058,
+                        28.455097
+                  ]
+            },
+            {
+                  "name": "Bhagawati Temple",
+                  "text": "Templul Bhagawati este un sit sacru hindus proeminent împodobit cu sculpturi regionale, aflat lângă pădurile luxuriante ale Parcului Național Bardiya.",
+                  "category": "landmark",
+                  "coords": [
+                        81.419981,
+                        28.368643
+                  ]
+            },
+            {
+                  "name": "Shahipur temple",
+                  "text": "Templul Shahipur este o structură religioasă hindusă durabilă, frecventată de sătenii din regiunea Bardiya.",
+                  "category": "landmark",
+                  "coords": [
+                        81.299892,
+                        28.394642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bhagawati mills",
+                  "text": "Bhagawati Mills is a rural windmill site contributing to local grain processing near the edge of Bardiya National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        81.419886,
+                        28.364763
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "Krishna Mandir is a local Hindu temple dedicated to Lord Krishna, located in the buffer zone of the wild Bardiya National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        81.320728,
+                        28.456228
+                  ]
+            },
+            {
+                  "name": "shiva mandir",
+                  "text": "Shiva Mandir serves the spiritual needs of the surrounding communities with its traditional Hindu shrines near Bardiya's wildlife reserves.",
+                  "category": "landmark",
+                  "coords": [
+                        81.327058,
+                        28.455097
+                  ]
+            },
+            {
+                  "name": "Bhagawati Temple",
+                  "text": "Bhagawati Temple is a prominent Hindu sacred site adorned with regional carvings, standing near the lush forests of Bardiya National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        81.419981,
+                        28.368643
+                  ]
+            },
+            {
+                  "name": "Shahipur temple",
+                  "text": "Shahipur Temple is an enduring Hindu religious structure frequented by villagers in the Bardiya region.",
+                  "category": "landmark",
+                  "coords": [
+                        81.299892,
+                        28.394642
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "NP-P5",
     coords: [81.3333, 28.3833],
@@ -138,7 +741,628 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "phewa-lake-nature-v2",
+    id: "phewa-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Duna Tapari",
+                  "text": "Ein entspanntes Resort am Westufer des Phewa-Sees, das für seine traditionelle Bewirtung in Blatt-Schalen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        83.941914,
+                        28.22706
+                  ]
+            },
+            {
+                  "name": "360 Mani Dada",
+                  "text": "Dieser Aussichtspunkt auf dem Bergrücken bietet einen spektakulären Rundumblick auf das Annapurna-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        83.86248,
+                        28.251541
+                  ]
+            },
+            {
+                  "name": "Lord Shiva Temple",
+                  "text": "Ein ruhig gelegener Shiva-Tempel am Waldrand mit Blick auf das glitzernde Wasser des Phewa-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        83.9053,
+                        28.235865
+                  ]
+            },
+            {
+                  "name": "Mai KO Than",
+                  "text": "Ein lokales hinduistisches Heiligtum am Hang, das der mütterlichen Gottheit Mai gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        83.910913,
+                        28.225896
+                  ]
+            },
+            {
+                  "name": "Ghotane Kul Mandir",
+                  "text": "Ein der Ghotane-Gemeinschaft gehörender Familientempel, der die Ahnenverehrung in der Region pflegt.",
+                  "category": "landmark",
+                  "coords": [
+                        83.891105,
+                        28.238504
+                  ]
+            },
+            {
+                  "name": "Bhayerko Than",
+                  "text": "Ein heiliger Ort unter freiem Himmel, der Bhayer gewidmet ist und oft für lokale Viehzüchter-Rituale genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        83.853055,
+                        28.257767
+                  ]
+            },
+            {
+                  "name": "Bhumdikot Mandir",
+                  "text": "Dieser Tempel liegt auf einem Hügelkamm und diente früher als kleiner Verteidigungsposten (Kot).",
+                  "category": "landmark",
+                  "coords": [
+                        83.89346,
+                        28.209989
+                  ]
+            },
+            {
+                  "name": "Shiva temple",
+                  "text": "Ein einfacher, aus Stein gebauter Shiva-Tempel inmitten der terrassierten Felder oberhalb des Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        83.907813,
+                        28.208612
+                  ]
+            },
+            {
+                  "name": "Gurung Temple",
+                  "text": "Ein buddhistisches Heiligtum der Gurung-Ethnie, das traditionelle Architektur und religiöse Kunst vereint.",
+                  "category": "landmark",
+                  "coords": [
+                        83.922374,
+                        28.21856
+                  ]
+            },
+            {
+                  "name": "Kul Mandir",
+                  "text": "Ein kleiner Kul-Mandir-Clan-Tempel, der als spirituelles Zentrum für eine lokale Großfamilie dient.",
+                  "category": "landmark",
+                  "coords": [
+                        83.923142,
+                        28.20216
+                  ]
+            },
+            {
+                  "name": "Baral Kul Mandir",
+                  "text": "Dieser Tempel wird von der Baral-Kaste gepflegt und ist ein wichtiges Zentrum für deren familiäre Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        83.915827,
+                        28.202978
+                  ]
+            },
+            {
+                  "name": "Bijaya Church",
+                  "text": "Eine schlichte christliche Kirche, die der lokalen Gemeinde in der ländlichen Gegend um den Phewa-See dient.",
+                  "category": "landmark",
+                  "coords": [
+                        83.940608,
+                        28.226923
+                  ]
+            },
+            {
+                  "name": "siddha gyan aashram",
+                  "text": "Ein friedlicher Ashram für Meditation und hinduistische Lehren in der ruhigen Natur von Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        83.877759,
+                        28.246732
+                  ]
+            },
+            {
+                  "name": "Siva mandir",
+                  "text": "Ein weiterer kleiner Shiva-Tempel, erkennbar an dem steinernen Dreizack (Trishul) vor dem Eingang.",
+                  "category": "landmark",
+                  "coords": [
+                        83.860355,
+                        28.237131
+                  ]
+            },
+            {
+                  "name": "Makanna Devi Mandir",
+                  "text": "Ein Hindu-Tempel, der der Göttin Makanna Devi gewidmet ist und von alten Bäumen beschattet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        83.852055,
+                        28.229627
+                  ]
+            },
+            {
+                  "name": "Kalabang Gharedi Buddha Prak",
+                  "text": "Ein kleiner Park in Kalabang mit einer Buddha-Statue, der einen weiten Blick über das Pokhara-Tal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        83.906468,
+                        28.213085
+                  ]
+            },
+            {
+                  "name": "Talabhang Ghothane Gumba",
+                  "text": "Ein abgelegenes buddhistisches Kloster (Gumba) der Ghotane, das für seine bunten Gebetsfahnen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        83.906744,
+                        28.209442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Duna Tapari",
+                  "text": "Pihentető üdülőhely a Phewa-tó nyugati partján, amely a hagyományos, levéltányéros vendéglátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        83.941914,
+                        28.22706
+                  ]
+            },
+            {
+                  "name": "360 Mani Dada",
+                  "text": "Ez a gerincen fekvő kilátópont látványos körpanorámát nyújt az Annapurna-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        83.86248,
+                        28.251541
+                  ]
+            },
+            {
+                  "name": "Lord Shiva Temple",
+                  "text": "Csendes környezetben fekvő Siva-templom az erdő szélén, kilátással a Phewa-tó csillogó vizére.",
+                  "category": "landmark",
+                  "coords": [
+                        83.9053,
+                        28.235865
+                  ]
+            },
+            {
+                  "name": "Mai KO Than",
+                  "text": "Helyi hindu kegyhely a domboldalon, amelyet Mai anyaistennőnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        83.910913,
+                        28.225896
+                  ]
+            },
+            {
+                  "name": "Ghotane Kul Mandir",
+                  "text": "A Ghotane közösség családi temploma, amely a régió őstiszteletét ápolja.",
+                  "category": "landmark",
+                  "coords": [
+                        83.891105,
+                        28.238504
+                  ]
+            },
+            {
+                  "name": "Bhayerko Than",
+                  "text": "Bhayernek szentelt szabadtéri szent hely, amelyet gyakran használnak a helyi állattartók rituáléira.",
+                  "category": "landmark",
+                  "coords": [
+                        83.853055,
+                        28.257767
+                  ]
+            },
+            {
+                  "name": "Bhumdikot Mandir",
+                  "text": "Ez a dombháton fekvő templom egykor kis védelmi állomásként (Kot) szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        83.89346,
+                        28.209989
+                  ]
+            },
+            {
+                  "name": "Shiva temple",
+                  "text": "Egyszerű, kőből épült Siva-templom a tó feletti teraszos művelésű földek között.",
+                  "category": "landmark",
+                  "coords": [
+                        83.907813,
+                        28.208612
+                  ]
+            },
+            {
+                  "name": "Gurung Temple",
+                  "text": "A gurung népcsoport buddhista kegyhelye, amely a hagyományos építészetet és vallási művészetet ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.922374,
+                        28.21856
+                  ]
+            },
+            {
+                  "name": "Kul Mandir",
+                  "text": "Kisméretű Kul Mandir nemzetségi templom, amely egy helyi nagycsalád spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        83.923142,
+                        28.20216
+                  ]
+            },
+            {
+                  "name": "Baral Kul Mandir",
+                  "text": "Ezt a templomot a Baral-kaszt tagjai gondozzák, és családi szertartásaik fontos központja.",
+                  "category": "landmark",
+                  "coords": [
+                        83.915827,
+                        28.202978
+                  ]
+            },
+            {
+                  "name": "Bijaya Church",
+                  "text": "Egyszerű keresztény templom, amely a Phewa-tó környéki vidéki közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        83.940608,
+                        28.226923
+                  ]
+            },
+            {
+                  "name": "siddha gyan aashram",
+                  "text": "Békés ásram meditációhoz és hindu tanításokhoz Pokhara nyugodt természeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        83.877759,
+                        28.246732
+                  ]
+            },
+            {
+                  "name": "Siva mandir",
+                  "text": "Újabb kis Siva-templom, amely a bejárat előtti kő háromszögről (trisula) ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        83.860355,
+                        28.237131
+                  ]
+            },
+            {
+                  "name": "Makanna Devi Mandir",
+                  "text": "Makanna Dévi istennőnek szentelt hindu templom, amelyet öreg fák árnyékolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        83.852055,
+                        28.229627
+                  ]
+            },
+            {
+                  "name": "Kalabang Gharedi Buddha Prak",
+                  "text": "Buddha-szoborral díszített kis park Kalabangban, ahonnan tágas kilátás nyílik a Pokhara-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        83.906468,
+                        28.213085
+                  ]
+            },
+            {
+                  "name": "Talabhang Ghothane Gumba",
+                  "text": "A Ghotane nemzetség elszigetelt buddhista kolostora (Gumba), amely színes imazászlóiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        83.906744,
+                        28.209442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Duna Tapari",
+                  "text": "O stațiune relaxantă pe malul de vest al lacului Phewa, cunoscută pentru servirea tradițională în vase din frunze.",
+                  "category": "recreational",
+                  "coords": [
+                        83.941914,
+                        28.22706
+                  ]
+            },
+            {
+                  "name": "360 Mani Dada",
+                  "text": "Acest punct de belvedere de pe creastă oferă o vedere panoramică spectaculoasă asupra masivului Annapurna.",
+                  "category": "natural",
+                  "coords": [
+                        83.86248,
+                        28.251541
+                  ]
+            },
+            {
+                  "name": "Lord Shiva Temple",
+                  "text": "Un templu dedicat lui Shiva, situat liniștit la marginea pădurii, cu vedere la apele strălucitoare ale lacului Phewa.",
+                  "category": "landmark",
+                  "coords": [
+                        83.9053,
+                        28.235865
+                  ]
+            },
+            {
+                  "name": "Mai KO Than",
+                  "text": "Un lăcaș de cult hindu local de pe deal, dedicat zeității materne Mai.",
+                  "category": "landmark",
+                  "coords": [
+                        83.910913,
+                        28.225896
+                  ]
+            },
+            {
+                  "name": "Ghotane Kul Mandir",
+                  "text": "Un templu familial aparținând comunității Ghotane, care menține cultul strămoșilor în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        83.891105,
+                        28.238504
+                  ]
+            },
+            {
+                  "name": "Bhayerko Than",
+                  "text": "Un loc sfânt în aer liber dedicat lui Bhayer, folosit adesea pentru ritualurile crescătorilor de animale locali.",
+                  "category": "landmark",
+                  "coords": [
+                        83.853055,
+                        28.257767
+                  ]
+            },
+            {
+                  "name": "Bhumdikot Mandir",
+                  "text": "Acest templu situat pe o creastă a servit în trecut ca mic post de apărare (Kot).",
+                  "category": "landmark",
+                  "coords": [
+                        83.89346,
+                        28.209989
+                  ]
+            },
+            {
+                  "name": "Shiva temple",
+                  "text": "Un templu simplu din piatră dedicat lui Shiva, situat printre câmpurile terasate de deasupra lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        83.907813,
+                        28.208612
+                  ]
+            },
+            {
+                  "name": "Gurung Temple",
+                  "text": "Un lăcaș de cult budist al etniei Gurung, care îmbină arhitectura tradițională cu arta religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        83.922374,
+                        28.21856
+                  ]
+            },
+            {
+                  "name": "Kul Mandir",
+                  "text": "Un mic templu de clan Kul Mandir, care servește drept centru spiritual pentru o familie extinsă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        83.923142,
+                        28.20216
+                  ]
+            },
+            {
+                  "name": "Baral Kul Mandir",
+                  "text": "Acest templu este îngrijit de casta Baral și reprezintă un centru important pentru ceremoniile lor de familie.",
+                  "category": "landmark",
+                  "coords": [
+                        83.915827,
+                        28.202978
+                  ]
+            },
+            {
+                  "name": "Bijaya Church",
+                  "text": "O biserică creștină modestă care deservește comunitatea locală din zona rurală a lacului Phewa.",
+                  "category": "landmark",
+                  "coords": [
+                        83.940608,
+                        28.226923
+                  ]
+            },
+            {
+                  "name": "siddha gyan aashram",
+                  "text": "Un ashram pașnic pentru meditație și învățături hinduiste în natura liniștită din Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        83.877759,
+                        28.246732
+                  ]
+            },
+            {
+                  "name": "Siva mandir",
+                  "text": "Un alt mic templu dedicat lui Shiva, recunoscut după tridentul de piatră (Trishul) din fața intrării.",
+                  "category": "landmark",
+                  "coords": [
+                        83.860355,
+                        28.237131
+                  ]
+            },
+            {
+                  "name": "Makanna Devi Mandir",
+                  "text": "Un templu hindu dedicat zeiței Makanna Devi, umbrit de arbori bătrâni.",
+                  "category": "landmark",
+                  "coords": [
+                        83.852055,
+                        28.229627
+                  ]
+            },
+            {
+                  "name": "Kalabang Gharedi Buddha Prak",
+                  "text": "Un mic parc în Kalabang cu o statuie a lui Buddha, oferind o vedere largă asupra văii Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        83.906468,
+                        28.213085
+                  ]
+            },
+            {
+                  "name": "Talabhang Ghothane Gumba",
+                  "text": "O mănăstire budistă retrasă (Gumba) a comunității Ghotane, cunoscută pentru steagurile sale colorate de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        83.906744,
+                        28.209442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Duna Tapari",
+                  "text": "A relaxed resort on the western shore of Phewa Lake, known for its traditional dining served in leaf bowls.",
+                  "category": "recreational",
+                  "coords": [
+                        83.941914,
+                        28.22706
+                  ]
+            },
+            {
+                  "name": "360 Mani Dada",
+                  "text": "This ridge-top viewpoint offers a spectacular 360-degree panorama of the Annapurna Massif.",
+                  "category": "natural",
+                  "coords": [
+                        83.86248,
+                        28.251541
+                  ]
+            },
+            {
+                  "name": "Lord Shiva Temple",
+                  "text": "A quietly situated Shiva temple at the forest's edge overlooking the glittering waters of Phewa Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        83.9053,
+                        28.235865
+                  ]
+            },
+            {
+                  "name": "Mai KO Than",
+                  "text": "A local Hindu sanctuary on the hillside dedicated to the motherly deity Mai.",
+                  "category": "landmark",
+                  "coords": [
+                        83.910913,
+                        28.225896
+                  ]
+            },
+            {
+                  "name": "Ghotane Kul Mandir",
+                  "text": "A family temple belonging to the Ghotane community, maintaining ancestral worship in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        83.891105,
+                        28.238504
+                  ]
+            },
+            {
+                  "name": "Bhayerko Than",
+                  "text": "A sacred open-air site dedicated to Bhayer, often used for local livestock-related rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        83.853055,
+                        28.257767
+                  ]
+            },
+            {
+                  "name": "Bhumdikot Mandir",
+                  "text": "Situated on a ridge, this temple site formerly served as a small defensive lookout post (Kot).",
+                  "category": "landmark",
+                  "coords": [
+                        83.89346,
+                        28.209989
+                  ]
+            },
+            {
+                  "name": "Shiva temple",
+                  "text": "A simple stone-built Shiva temple nestled among the terraced fields overlooking the lake.",
+                  "category": "landmark",
+                  "coords": [
+                        83.907813,
+                        28.208612
+                  ]
+            },
+            {
+                  "name": "Gurung Temple",
+                  "text": "A Buddhist sanctuary of the Gurung people, combining traditional architecture and religious art.",
+                  "category": "landmark",
+                  "coords": [
+                        83.922374,
+                        28.21856
+                  ]
+            },
+            {
+                  "name": "Kul Mandir",
+                  "text": "A small Kul Mandir clan temple serving as the spiritual center for a local extended family.",
+                  "category": "landmark",
+                  "coords": [
+                        83.923142,
+                        28.20216
+                  ]
+            },
+            {
+                  "name": "Baral Kul Mandir",
+                  "text": "Maintained by the Baral caste, this temple is a central site for their family lineage ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        83.915827,
+                        28.202978
+                  ]
+            },
+            {
+                  "name": "Bijaya Church",
+                  "text": "A modest Christian church serving the local community in the rural area around Phewa Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        83.940608,
+                        28.226923
+                  ]
+            },
+            {
+                  "name": "siddha gyan aashram",
+                  "text": "A peaceful ashram for meditation and Hindu teachings set in the quiet nature of Pokhara.",
+                  "category": "landmark",
+                  "coords": [
+                        83.877759,
+                        28.246732
+                  ]
+            },
+            {
+                  "name": "Siva mandir",
+                  "text": "Another small Shiva temple, recognizable by the stone trident (Trishul) placed before the entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        83.860355,
+                        28.237131
+                  ]
+            },
+            {
+                  "name": "Makanna Devi Mandir",
+                  "text": "A Hindu temple dedicated to Goddess Makanna Devi, shaded by ancient trees.",
+                  "category": "landmark",
+                  "coords": [
+                        83.852055,
+                        28.229627
+                  ]
+            },
+            {
+                  "name": "Kalabang Gharedi Buddha Prak",
+                  "text": "A small park in Kalabang featuring a Buddha statue and expansive views over the Pokhara Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        83.906468,
+                        28.213085
+                  ]
+            },
+            {
+                  "name": "Talabhang Ghothane Gumba",
+                  "text": "A secluded Buddhist monastery (Gumba) of the Ghotane clan, known for its colorful prayer flags.",
+                  "category": "landmark",
+                  "coords": [
+                        83.906744,
+                        28.209442
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NP-P4",
     coords: [83.9333, 28.2167],
@@ -174,7 +1398,376 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "rara-lake-nature-v2",
+    id: "rara-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rara Lake",
+                  "text": "Nepals größter und tiefster Süßwassersee, bekannt für sein kristallklares blaues Wasser und seine alpine Waldumgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        82.0926,
+                        29.528203
+                  ]
+            },
+            {
+                  "name": "Ghurchi Lagna",
+                  "text": "Ein hoher Gebirgspass auf der Trekkingroute mit Panoramablick auf den Himalaya und die Rara-Region.",
+                  "category": "natural",
+                  "coords": [
+                        82.130831,
+                        29.468181
+                  ]
+            },
+            {
+                  "name": "Devi Mandir",
+                  "text": "Ein heiliger Schrein für die Göttin nahe dem Ufer des alpinen Rara-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        82.04001,
+                        29.53615
+                  ]
+            },
+            {
+                  "name": "Chhayanath mahdev mandir",
+                  "text": "Ein wichtiger Shiva-Tempel und Pilgerort für Besucher des abgelegenen Mugu-Distrikts.",
+                  "category": "landmark",
+                  "coords": [
+                        82.154643,
+                        29.543515
+                  ]
+            },
+            {
+                  "name": "Jumli Temple",
+                  "text": "Ein traditioneller Schrein, der die einzigartige Religionskultur der Regionen Jumla und Karnali widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.153047,
+                        29.552364
+                  ]
+            },
+            {
+                  "name": "Kalika temple (Khas)",
+                  "text": "Hindu-Tempel für die Göttin Kalika in der Nähe des hochgelegenen Rara-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        82.145753,
+                        29.542482
+                  ]
+            },
+            {
+                  "name": "Tarapani Bajar",
+                  "text": "Ein lokaler Marktplatz für Bergwaren in der Region des Rara-Sees.",
+                  "category": "cultural",
+                  "coords": [
+                        82.02075,
+                        29.592309
+                  ]
+            },
+            {
+                  "name": "Badiya Mela",
+                  "text": "Ein traditioneller Jahrmarkt und Handelsplatz in der Nähe des Rara-Sees.",
+                  "category": "cultural",
+                  "coords": [
+                        82.030044,
+                        29.570843
+                  ]
+            },
+            {
+                  "name": "Gamghadi Bajar",
+                  "text": "Das wichtigste Handelszentrum und Marktviertel des Mugu-Distrikts in der Nähe von Rara.",
+                  "category": "cultural",
+                  "coords": [
+                        82.152795,
+                        29.550458
+                  ]
+            },
+            {
+                  "name": "Gamgadi Bazaar",
+                  "text": "Ein geschäftiger Marktplatz, der als zentraler Handelsknotenpunkt in der Region dient.",
+                  "category": "cultural",
+                  "coords": [
+                        82.155796,
+                        29.54781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rara Lake",
+                  "text": "Nepál legnagyobb és legmélyebb édesvízi tava, híres kristálytiszta kék vizéről és alpesi erdei környezetéről.",
+                  "category": "landmark",
+                  "coords": [
+                        82.0926,
+                        29.528203
+                  ]
+            },
+            {
+                  "name": "Ghurchi Lagna",
+                  "text": "Magas hegyi hágó a túraútvonalon, amely panorámás kilátást nyújt a Himalájára és a Rara-vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        82.130831,
+                        29.468181
+                  ]
+            },
+            {
+                  "name": "Devi Mandir",
+                  "text": "Szent hindu szentély az istennőnek, az alpesi Rara-tó partja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        82.04001,
+                        29.53615
+                  ]
+            },
+            {
+                  "name": "Chhayanath mahdev mandir",
+                  "text": "Fontos Shiva-templom és zarándokhely a távoli Mugu körzetbe látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        82.154643,
+                        29.543515
+                  ]
+            },
+            {
+                  "name": "Jumli Temple",
+                  "text": "Hagyományos szentély, amely Jumla és Karnali régiók egyedi vallási kultúráját tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.153047,
+                        29.552364
+                  ]
+            },
+            {
+                  "name": "Kalika temple (Khas)",
+                  "text": "Kalika istennőnek szentelt hindu templom a magashegyi Rara-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        82.145753,
+                        29.542482
+                  ]
+            },
+            {
+                  "name": "Tarapani Bajar",
+                  "text": "Helyi piac a hegyvidéki áruk számára a Rara-tó térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        82.02075,
+                        29.592309
+                  ]
+            },
+            {
+                  "name": "Badiya Mela",
+                  "text": "Hagyományos vásártér és piaci terület a Rara-tó mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        82.030044,
+                        29.570843
+                  ]
+            },
+            {
+                  "name": "Gamghadi Bajar",
+                  "text": "Mugu körzet legfontosabb kereskedelmi és piaci központja Rara közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        82.152795,
+                        29.550458
+                  ]
+            },
+            {
+                  "name": "Gamgadi Bazaar",
+                  "text": "Forgalmas piaci negyed, amely központi kereskedelmi csomópontként szolgál a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        82.155796,
+                        29.54781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rara Lake",
+                  "text": "Cel mai mare și mai adânc lac de apă dulce din Nepal, renumit pentru apele sale albastre cristaline și cadrul de pădure alpină.",
+                  "category": "landmark",
+                  "coords": [
+                        82.0926,
+                        29.528203
+                  ]
+            },
+            {
+                  "name": "Ghurchi Lagna",
+                  "text": "O trecătoare montană înaltă de pe traseul de trekking, care oferă vederi panoramice asupra Himalayei și a regiunii Rara.",
+                  "category": "natural",
+                  "coords": [
+                        82.130831,
+                        29.468181
+                  ]
+            },
+            {
+                  "name": "Devi Mandir",
+                  "text": "Un altar sacru hindu dedicat Zeiței, situat lângă malul lacului alpin Rara.",
+                  "category": "landmark",
+                  "coords": [
+                        82.04001,
+                        29.53615
+                  ]
+            },
+            {
+                  "name": "Chhayanath mahdev mandir",
+                  "text": "Un important templu dedicat lui Shiva și loc de pelerinaj pentru cei care vizitează districtul izolat Mugu.",
+                  "category": "landmark",
+                  "coords": [
+                        82.154643,
+                        29.543515
+                  ]
+            },
+            {
+                  "name": "Jumli Temple",
+                  "text": "Un altar tradițional care reflectă cultura religioasă unică a regiunilor Jumla și Karnali.",
+                  "category": "landmark",
+                  "coords": [
+                        82.153047,
+                        29.552364
+                  ]
+            },
+            {
+                  "name": "Kalika temple (Khas)",
+                  "text": "Un templu hindu dedicat zeiței Kalika, situat lângă lacul montan Rara.",
+                  "category": "landmark",
+                  "coords": [
+                        82.145753,
+                        29.542482
+                  ]
+            },
+            {
+                  "name": "Tarapani Bajar",
+                  "text": "O piață locală pentru produse montane în regiunea lacului Rara.",
+                  "category": "cultural",
+                  "coords": [
+                        82.02075,
+                        29.592309
+                  ]
+            },
+            {
+                  "name": "Badiya Mela",
+                  "text": "Un spațiu tradițional pentru târguri și comerț lângă lacul Rara.",
+                  "category": "cultural",
+                  "coords": [
+                        82.030044,
+                        29.570843
+                  ]
+            },
+            {
+                  "name": "Gamghadi Bajar",
+                  "text": "Principalul centru comercial și piața districtului Mugu de lângă Rara.",
+                  "category": "cultural",
+                  "coords": [
+                        82.152795,
+                        29.550458
+                  ]
+            },
+            {
+                  "name": "Gamgadi Bazaar",
+                  "text": "O zonă de bazar aglomerată care servește drept nod comercial central în regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        82.155796,
+                        29.54781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rara Lake",
+                  "text": "Nepal's largest and deepest freshwater lake, famous for its crystal clear blue waters and alpine forest setting.",
+                  "category": "landmark",
+                  "coords": [
+                        82.0926,
+                        29.528203
+                  ]
+            },
+            {
+                  "name": "Ghurchi Lagna",
+                  "text": "A high mountain pass on the trekking route offering panoramic views of the Himalayas and the Rara region.",
+                  "category": "natural",
+                  "coords": [
+                        82.130831,
+                        29.468181
+                  ]
+            },
+            {
+                  "name": "Devi Mandir",
+                  "text": "A sacred Hindu shrine dedicated to the Goddess, located near the shores of the alpine Rara Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        82.04001,
+                        29.53615
+                  ]
+            },
+            {
+                  "name": "Chhayanath mahdev mandir",
+                  "text": "An important Shiva temple and pilgrimage site for those visiting the remote Mugu district.",
+                  "category": "landmark",
+                  "coords": [
+                        82.154643,
+                        29.543515
+                  ]
+            },
+            {
+                  "name": "Jumli Temple",
+                  "text": "A traditional shrine reflecting the unique religious culture of the Jumla and Karnali regions.",
+                  "category": "landmark",
+                  "coords": [
+                        82.153047,
+                        29.552364
+                  ]
+            },
+            {
+                  "name": "Kalika temple (Khas)",
+                  "text": "A Hindu temple dedicated to Goddess Kalika near the high-altitude Rara Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        82.145753,
+                        29.542482
+                  ]
+            },
+            {
+                  "name": "Tarapani Bajar",
+                  "text": "A local market selling mountain goods in the Rara Lake region.",
+                  "category": "cultural",
+                  "coords": [
+                        82.02075,
+                        29.592309
+                  ]
+            },
+            {
+                  "name": "Badiya Mela",
+                  "text": "A traditional fairground and market area near Rara Lake.",
+                  "category": "cultural",
+                  "coords": [
+                        82.030044,
+                        29.570843
+                  ]
+            },
+            {
+                  "name": "Gamghadi Bajar",
+                  "text": "The main commercial hub and market for the Mugu district near Rara.",
+                  "category": "cultural",
+                  "coords": [
+                        82.152795,
+                        29.550458
+                  ]
+            },
+            {
+                  "name": "Gamgadi Bazaar",
+                  "text": "A busy bazaar area serving as a central trading node in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        82.155796,
+                        29.54781
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NP-P6",
     coords: [82.0833, 29.5333],
@@ -210,7 +1803,52 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "tilicho-lake-nature-v2",
+    id: "tilicho-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tilicho Peak",
+                  "text": "Ein markanter, 7.134 Meter hoher Gipfel, der die türkisfarbenen Wasser des hochgelegenen Tilicho-Sees überragt.",
+                  "category": "natural",
+                  "coords": [
+                        83.811479,
+                        28.682918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tilicho Peak",
+                  "text": "Jellegzetes 7134 méteres csúcs, amely a magashegyi Tilicho-tó türkizkék vizére néz.",
+                  "category": "natural",
+                  "coords": [
+                        83.811479,
+                        28.682918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tilicho Peak",
+                  "text": "Un vârf proeminent de 7.134 metri care domină apele turcoaz ale lacului de mare altitudine Tilicho.",
+                  "category": "natural",
+                  "coords": [
+                        83.811479,
+                        28.682918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tilicho Peak",
+                  "text": "A prominent 7,134-meter peak overlooking the turquoise waters of the high-altitude Tilicho Lake.",
+                  "category": "natural",
+                  "coords": [
+                        83.811479,
+                        28.682918
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NP-P4",
     coords: [83.8214, 28.6942],
@@ -246,7 +1884,124 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "gokyo-lakes-nature-v2",
+    id: "gokyo-lakes-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake view",
+                  "text": "Ein Aussichtspunkt mit atemberaubendem Blick auf die türkisfarbenen Gokyo-Seen und den Ngozumpa-Gletscher.",
+                  "category": "natural",
+                  "coords": [
+                        86.695357,
+                        27.951233
+                  ]
+            },
+            {
+                  "name": "Phari Lapcha",
+                  "text": "Ein 6.273 Meter hoher Gipfel oberhalb des Dorfes Machhermo, der häufig für alpines Klettertraining genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        86.680927,
+                        27.929337
+                  ]
+            },
+            {
+                  "name": "Kyajori",
+                  "text": "Ein technischer Trekking-Gipfel (6.186 m), der ein beeindruckendes 360-Grad-Panorama der Himalaya-Kette bietet.",
+                  "category": "natural",
+                  "coords": [
+                        86.670876,
+                        27.909211
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake view",
+                  "text": "Kilátópont, ahonnan lélegzetelállító látvány nyílik a türkizkék Gokyo-tavakra és a Ngozumpa-gleccserre.",
+                  "category": "natural",
+                  "coords": [
+                        86.695357,
+                        27.951233
+                  ]
+            },
+            {
+                  "name": "Phari Lapcha",
+                  "text": "Egy 6273 méteres csúcs Machhermo falu felett, amelyet gyakran használnak alpesi mászóedzésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        86.680927,
+                        27.929337
+                  ]
+            },
+            {
+                  "name": "Kyajori",
+                  "text": "Technikai túracsúcs (6186 m), amely lenyűgöző, 360 fokos panorámát kínál a Himalájára.",
+                  "category": "natural",
+                  "coords": [
+                        86.670876,
+                        27.909211
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake view",
+                  "text": "Un punct de belvedere panoramic care oferă o vedere uluitoare asupra lacurilor turcoaz Gokyo și a ghețarului Ngozumpa.",
+                  "category": "natural",
+                  "coords": [
+                        86.695357,
+                        27.951233
+                  ]
+            },
+            {
+                  "name": "Phari Lapcha",
+                  "text": "Un vârf de 6.273 de metri care se înalță deasupra satului Machhermo, folosit frecvent pentru antrenamente de alpinism.",
+                  "category": "natural",
+                  "coords": [
+                        86.680927,
+                        27.929337
+                  ]
+            },
+            {
+                  "name": "Kyajori",
+                  "text": "Un vârf tehnic de trekking (6.186 m) care oferă panorame uimitoare la 360 de grade asupra lanțului Himalaya.",
+                  "category": "natural",
+                  "coords": [
+                        86.670876,
+                        27.909211
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake view",
+                  "text": "A panoramic viewpoint offering a breathtaking sight of the turquoise Gokyo Lakes and the Ngozumpa Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        86.695357,
+                        27.951233
+                  ]
+            },
+            {
+                  "name": "Machhermo Peak",
+                  "text": "A 6,273-meter peak rising above the Machhermo village, frequently used for alpine climbing training.",
+                  "category": "natural",
+                  "coords": [
+                        86.680927,
+                        27.929337
+                  ]
+            },
+            {
+                  "name": "Kyajori",
+                  "text": "A technical trekking peak (6,186m) that offers stunning 360-degree panoramas of the Himalayan range.",
+                  "category": "natural",
+                  "coords": [
+                        86.670876,
+                        27.909211
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NP-P1",
     coords: [86.6967, 27.9533],
@@ -282,7 +2037,52 @@ export const poiExtraNepalNatureV2: POI[] = [
     }
   },
   {
-    id: "langtang-national-park-nature-v2",
+    id: "langtang-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mani wall",
+                  "text": "Eine traditionelle Steinmauer mit eingravierten buddhistischen Mantras im Langtang-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        85.513636,
+                        28.216379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mani wall",
+                  "text": "Hagyományos kőfal vésett buddhista mantrákkal a Langtang Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        85.513636,
+                        28.216379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mani wall",
+                  "text": "Un zid tradițional de piatră cu mantre budiste gravate în Parcul Național Langtang.",
+                  "category": "historical",
+                  "coords": [
+                        85.513636,
+                        28.216379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mani wall",
+                  "text": "A traditional stone wall carved with Buddhist mantras within the Langtang National Park.",
+                  "category": "historical",
+                  "coords": [
+                        85.513636,
+                        28.216379
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "NP-P3",
     coords: [85.5000, 28.2500],
@@ -318,7 +2118,124 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "annapurna-conservation-area-nature-v2",
+    id: "annapurna-conservation-area-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khatung Kang",
+                  "text": "Ein markanter Berggipfel der Annapurna-Kette, der eine Höhe von 6.484 Metern erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        83.918292,
+                        28.777777
+                  ]
+            },
+            {
+                  "name": "अन्‍नपूर्ण संरक्षण क्षेत्र",
+                  "text": "Nepals größtes Schutzgebiet, Heimat einer vielfältigen Flora, Fauna und des weltberühmten Trekking-Rundwegs.",
+                  "category": "natural",
+                  "coords": [
+                        83.96778,
+                        28.75517
+                  ]
+            },
+            {
+                  "name": "Stupas",
+                  "text": "Eine Ansammlung traditioneller buddhistischer Steinmonumente entlang der Trekkingpfade.",
+                  "category": "landmark",
+                  "coords": [
+                        83.972694,
+                        28.777005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khatung Kang",
+                  "text": "Az Annapurna-hegylánc egyik jellegzetes csúcsa, amely 6484 méteres magasságba nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        83.918292,
+                        28.777777
+                  ]
+            },
+            {
+                  "name": "अन्‍नपूर्ण संरक्षण क्षेत्र",
+                  "text": "Nepál legnagyobb védett területe, amely változatos növény- és állatvilágnak, valamint a világhírű túraútvonalnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        83.96778,
+                        28.75517
+                  ]
+            },
+            {
+                  "name": "Stupas",
+                  "text": "Hagyományos buddhista kőemlékcsoport a túraútvonalak mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        83.972694,
+                        28.777005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khatung Kang",
+                  "text": "Un vârf montan proeminent din lanțul Annapurna, care atinge o înălțime de 6.484 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        83.918292,
+                        28.777777
+                  ]
+            },
+            {
+                  "name": "अन्‍नपूर्ण संरक्षण क्षेत्र",
+                  "text": "Cea mai mare zonă protejată din Nepal, adăpostind o floră și faună diversă și circuitul de trekking faimos în întreaga lume.",
+                  "category": "natural",
+                  "coords": [
+                        83.96778,
+                        28.75517
+                  ]
+            },
+            {
+                  "name": "Stupas",
+                  "text": "O colecție de monumente budiste tradiționale din piatră de-a lungul traseelor de trekking.",
+                  "category": "landmark",
+                  "coords": [
+                        83.972694,
+                        28.777005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khatung Kang",
+                  "text": "A prominent mountain peak in the Annapurna range, reaching an elevation of 6,484 meters.",
+                  "category": "natural",
+                  "coords": [
+                        83.918292,
+                        28.777777
+                  ]
+            },
+            {
+                  "name": "Annapurna Conservation Area",
+                  "text": "Nepal's largest protected area, home to diverse flora, fauna, and the world-famous trekking circuit.",
+                  "category": "natural",
+                  "coords": [
+                        83.96778,
+                        28.75517
+                  ]
+            },
+            {
+                  "name": "Stupas",
+                  "text": "A collection of traditional stone Buddhist monuments along the trekking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        83.972694,
+                        28.777005
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "NP-P4",
     coords: [83.9333, 28.7333],
@@ -354,7 +2271,124 @@ export const poiExtraNepalNatureV2: POI[] = [
     }
   },
   {
-    id: "shey-phoksundo-national-park-nature-v2",
+    id: "shey-phoksundo-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shey Gompa",
+                  "text": "Das um das 11. Jahrhundert gegründete Shey Gompa ist ein isoliertes tibetisch-buddhistisches Kloster in den rauen Höhen des Shey-Phoksundo-Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        82.965514,
+                        29.352416
+                  ]
+            },
+            {
+                  "name": "Gamoche Gompa",
+                  "text": "Gamoche Gompa ist ein hoch gelegenes buddhistisches Heiligtum im Shey-Phoksundo-Nationalpark, das inmitten der abgelegenen Himalaya-Gipfel spirituellen Trost bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        82.955064,
+                        29.373196
+                  ]
+            },
+            {
+                  "name": "Tsakhang Gompa",
+                  "text": "Tsakhang Gompa ist eine anhaftende buddhistische Einsiedelei, die in die dramatischen Klippen der Dolpo-Region im Shey-Phoksundo-Nationalpark gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        82.954527,
+                        29.366041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shey Gompa",
+                  "text": "A 11. század környékén alapított Shey Gompa egy elszigetelt tibeti buddhista kolostor, amely a Shey Phoksundo Nemzeti Park zord magasságaiban található.",
+                  "category": "religious",
+                  "coords": [
+                        82.965514,
+                        29.352416
+                  ]
+            },
+            {
+                  "name": "Gamoche Gompa",
+                  "text": "A Gamoche Gompa egy magasan fekvő buddhista szentély a Shey Phoksundo Nemzeti Parkban, amely spirituális vigaszt nyújt a távoli himalájai csúcsok között.",
+                  "category": "landmark",
+                  "coords": [
+                        82.955064,
+                        29.373196
+                  ]
+            },
+            {
+                  "name": "Tsakhang Gompa",
+                  "text": "A Tsakhang Gompa egy sziklához tapadó buddhista remeteség, amely a Dolpo régió drámai szikláiba épült a Shey Phoksundo Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        82.954527,
+                        29.366041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shey Gompa",
+                  "text": "Fondată în jurul secolului al XI-lea, Shey Gompa este o mănăstire budistă tibetană izolată, situată pe înălțimile accidentate ale Parcului Național Shey Phoksundo.",
+                  "category": "religious",
+                  "coords": [
+                        82.965514,
+                        29.352416
+                  ]
+            },
+            {
+                  "name": "Gamoche Gompa",
+                  "text": "Gamoche Gompa este un sanctuar budist de înaltă altitudine din Parcul Național Shey Phoksundo, oferind alinare spirituală în mijlocul vârfurilor izolate din Himalaya.",
+                  "category": "landmark",
+                  "coords": [
+                        82.955064,
+                        29.373196
+                  ]
+            },
+            {
+                  "name": "Tsakhang Gompa",
+                  "text": "Tsakhang Gompa este un schit budist agățat, construit în stâncile dramatice ale regiunii Dolpo, în Parcul Național Shey Phoksundo.",
+                  "category": "landmark",
+                  "coords": [
+                        82.954527,
+                        29.366041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shey Gompa",
+                  "text": "Founded around the 11th century, Shey Gompa is an isolated Tibetan Buddhist monastery situated in the rugged heights of Shey Phoksundo National Park.",
+                  "category": "religious",
+                  "coords": [
+                        82.965514,
+                        29.352416
+                  ]
+            },
+            {
+                  "name": "Gamoche Gompa",
+                  "text": "Gamoche Gompa is a high-altitude Buddhist sanctuary in Shey Phoksundo National Park, offering spiritual solace amidst the remote Himalayan peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        82.955064,
+                        29.373196
+                  ]
+            },
+            {
+                  "name": "Tsakhang Gompa",
+                  "text": "Tsakhang Gompa is a clinging Buddhist hermitage built into the dramatic cliffs of the Dolpo region inside Shey Phoksundo National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        82.954527,
+                        29.366041
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "NP-P6",
     coords: [82.9000, 29.3500],
@@ -390,7 +2424,952 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "koshi-tappu-wildlife-reserve-nature-v2",
+    id: "koshi-tappu-wildlife-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mill (Food)",
+                  "text": "Eine traditionelle Getreidemühle in der ländlichen Umgebung des Koshi-Tappu-Wildreservats.",
+                  "category": "landmark",
+                  "coords": [
+                        86.989167,
+                        26.73525
+                  ]
+            },
+            {
+                  "name": "Elephant Stable",
+                  "text": "Ein Stall für Elefanten, die für Patrouillen und Safaris im Koshi-Tappu-Reservat eingesetzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        87.02989,
+                        26.621225
+                  ]
+            },
+            {
+                  "name": "Rajaji Mandir",
+                  "text": "Ein hinduistischer Tempel in der flachen Terai-Region nahe dem Koshi-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        86.957426,
+                        26.727492
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "Ein hinduistischer Tempel, der Lord Ram und seiner Gemahlin Sita gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.957453,
+                        26.722508
+                  ]
+            },
+            {
+                  "name": "Dina Bhadri Mandir",
+                  "text": "Ein Tempel, der Dina und Bhadri gewidmet ist, den Volksgottheiten der Musahar-Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        86.959622,
+                        26.726982
+                  ]
+            },
+            {
+                  "name": "Shiv Mandir",
+                  "text": "Ein hinduistischer Schrein, der Lord Shiva gewidmet ist, in der Nähe der Koshi-Tappu-Feuchtgebiete.",
+                  "category": "landmark",
+                  "coords": [
+                        86.951437,
+                        26.725443
+                  ]
+            },
+            {
+                  "name": "Raja ji Dihibar Mandir",
+                  "text": "Ein lokaler hinduistischer Tempel, der einer regionalen Schutzgottheit gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.947239,
+                        26.725
+                  ]
+            },
+            {
+                  "name": "Jame Masjeet",
+                  "text": "Die zentrale Freitagsmoschee für die muslimische Gemeinde in der Nähe des Reservats.",
+                  "category": "landmark",
+                  "coords": [
+                        86.917977,
+                        26.667512
+                  ]
+            },
+            {
+                  "name": "Marhoom Masjeet",
+                  "text": "Eine lokale Moschee, die der muslimischen Bevölkerung in der Terai-Ebene dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.916901,
+                        26.667103
+                  ]
+            },
+            {
+                  "name": "Mahadev Mandir",
+                  "text": "Ein Mahadev (Shiva) gewidmeter hinduistischer Tempel in einer ruhigen ländlichen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        86.921172,
+                        26.663825
+                  ]
+            },
+            {
+                  "name": "Mothersa Jahamiya Islamiya Masjeet",
+                  "text": "Eine Moschee und religiöse Schule, die ein Zentrum für islamische Studien in der Region ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.921238,
+                        26.666931
+                  ]
+            },
+            {
+                  "name": "Shree Gajeswor Nath",
+                  "text": "Ein hinduistischer Tempel, der Gajeswor Nath gewidmet ist, in der Nähe des Koshi-Flussbeckens.",
+                  "category": "landmark",
+                  "coords": [
+                        86.925131,
+                        26.666327
+                  ]
+            },
+            {
+                  "name": "Jahamey Masjeet",
+                  "text": "Ein einfacher muslimischer Gebetsort in den Ebenen des östlichen Nepals.",
+                  "category": "landmark",
+                  "coords": [
+                        86.925554,
+                        26.668992
+                  ]
+            },
+            {
+                  "name": "Dharu Nistahululun",
+                  "text": "Eine lokale hinduistische Kultstätte, die in die Dorfgemeinschaft von Sunsari eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.94,
+                        26.67048
+                  ]
+            },
+            {
+                  "name": "Shree 108 Shree Bhisari Daas Bairagi",
+                  "text": "Ein hinduistischer Tempel oder Ashram, der einem Bairagi-Heiligen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.942175,
+                        26.671573
+                  ]
+            },
+            {
+                  "name": "Gorraja Mandir",
+                  "text": "Ein kleiner hinduistischer Schrein, der eine lokale Gottheit inmitten von Ackerland ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.927415,
+                        26.679013
+                  ]
+            },
+            {
+                  "name": "Dakanithan",
+                  "text": "Ein hinduistischer Schrein, der Schutzgottheiten gewidmet ist und in der Nähe des Wildreservats liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.928532,
+                        26.708038
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Ein bescheidener Schrein für Lord Shiva, ein wichtiger spiritueller Ort für die Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        86.941737,
+                        26.712159
+                  ]
+            },
+            {
+                  "name": "Balardha ko Masjid",
+                  "text": "Eine lokale Moschee, die der muslimischen Gemeinde im Dorf Balardha dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.940688,
+                        26.706958
+                  ]
+            },
+            {
+                  "name": "Bishnu Panchayan Mandir",
+                  "text": "Ein Vishnu gewidmeter Tempel, der nach der Panchayan-Tradition fünf Gottheiten beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.938772,
+                        26.706405
+                  ]
+            },
+            {
+                  "name": "Hanuman Mandir",
+                  "text": "Ein kleiner hinduistischer Schrein, der Hanuman, dem Affengott, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.945493,
+                        26.705205
+                  ]
+            },
+            {
+                  "name": "Bhagwati Mandir",
+                  "text": "Ein hinduistischer Tempel, der der Göttin Bhagwati in ihrer furchterregenden Form gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.939147,
+                        26.689634
+                  ]
+            },
+            {
+                  "name": "Mahatgainyaa Baba Mandir",
+                  "text": "Ein lokaler hinduistischer Schrein, der einem spirituellen Lehrer oder Heiligen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.951132,
+                        26.688785
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Hanuman Mandir",
+                  "text": "Ein kombinierter hinduistischer Schrein für Ram, Sita und ihren treuen Diener Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        86.952485,
+                        26.688001
+                  ]
+            },
+            {
+                  "name": "Jitmahan Mandir",
+                  "text": "Ein hinduistischer Tempel in der ländlichen Landschaft der Sunsari-Distriktebene.",
+                  "category": "landmark",
+                  "coords": [
+                        86.956058,
+                        26.687933
+                  ]
+            },
+            {
+                  "name": "Dihibar Baba Mandir",
+                  "text": "Ein hinduistischer Tempel, der Dihibar Baba gewidmet ist und in der Nähe des Koshi-Tappu-Wildreservats liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.954444,
+                        26.701697
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mill (Food)",
+                  "text": "Hagyományos gabonamalom a Koshi Tappu vadrezervátum vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.989167,
+                        26.73525
+                  ]
+            },
+            {
+                  "name": "Elephant Stable",
+                  "text": "A Koshi Tappu rezervátumban járőrözésre és szafarikra használt elefántok istállója.",
+                  "category": "landmark",
+                  "coords": [
+                        87.02989,
+                        26.621225
+                  ]
+            },
+            {
+                  "name": "Rajaji Mandir",
+                  "text": "Hindu templom a lapos Terai-régióban, a Koshi-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.957426,
+                        26.727492
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "Ráma Úrnak és hitvesének, Szítának szentelt hindu templom.",
+                  "category": "landmark",
+                  "coords": [
+                        86.957453,
+                        26.722508
+                  ]
+            },
+            {
+                  "name": "Dina Bhadri Mandir",
+                  "text": "Dina és Bhadri tiszteletére emelt templom, akik a Musahar közösség népi istenségei.",
+                  "category": "landmark",
+                  "coords": [
+                        86.959622,
+                        26.726982
+                  ]
+            },
+            {
+                  "name": "Shiv Mandir",
+                  "text": "Siva Úrnak szentelt hindu szentély a Koshi Tappu vizes élőhelyek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.951437,
+                        26.725443
+                  ]
+            },
+            {
+                  "name": "Raja ji Dihibar Mandir",
+                  "text": "Helyi hindu templom, amelyet egy regionális védőistenségnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        86.947239,
+                        26.725
+                  ]
+            },
+            {
+                  "name": "Jame Masjeet",
+                  "text": "A rezervátum közelében élő muszlim közösség központi pénteki mecsetje.",
+                  "category": "landmark",
+                  "coords": [
+                        86.917977,
+                        26.667512
+                  ]
+            },
+            {
+                  "name": "Marhoom Masjeet",
+                  "text": "A Terai-síkság muszlim lakosságát szolgáló helyi mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        86.916901,
+                        26.667103
+                  ]
+            },
+            {
+                  "name": "Mahadev Mandir",
+                  "text": "Mahadévnek (Siva) szentelt hindu templom nyugodt, vidéki környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        86.921172,
+                        26.663825
+                  ]
+            },
+            {
+                  "name": "Mothersa Jahamiya Islamiya Masjeet",
+                  "text": "Mecset és vallási iskola, amely az iszlám tanulmányok központja a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        86.921238,
+                        26.666931
+                  ]
+            },
+            {
+                  "name": "Shree Gajeswor Nath",
+                  "text": "Gajeswor Nath-nak szentelt hindu templom a Koshi-folyó medencéje közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.925131,
+                        26.666327
+                  ]
+            },
+            {
+                  "name": "Jahamey Masjeet",
+                  "text": "Egyszerű muszlim imahely Kelet-Nepál síkságain.",
+                  "category": "landmark",
+                  "coords": [
+                        86.925554,
+                        26.668992
+                  ]
+            },
+            {
+                  "name": "Dharu Nistahululun",
+                  "text": "Helyi hindu vallási hely, amely Sunsari falusi közösségébe ágyazódik.",
+                  "category": "landmark",
+                  "coords": [
+                        86.94,
+                        26.67048
+                  ]
+            },
+            {
+                  "name": "Shree 108 Shree Bhisari Daas Bairagi",
+                  "text": "Egy bairági szentnek szentelt hindu templom vagy ásram.",
+                  "category": "landmark",
+                  "coords": [
+                        86.942175,
+                        26.671573
+                  ]
+            },
+            {
+                  "name": "Gorraja Mandir",
+                  "text": "Kicsi hindu szentély, amely egy helyi istenséget tisztel a szántóföldek között.",
+                  "category": "landmark",
+                  "coords": [
+                        86.927415,
+                        26.679013
+                  ]
+            },
+            {
+                  "name": "Dakanithan",
+                  "text": "Védőistenségeknek szentelt hindu szentély a vadrezervátum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.928532,
+                        26.708038
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Siva Úr szerény szentélye, amely fontos lelki hely a helyi lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        86.941737,
+                        26.712159
+                  ]
+            },
+            {
+                  "name": "Balardha ko Masjid",
+                  "text": "Helyi mecset, amely Balardha falu muszlim közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        86.940688,
+                        26.706958
+                  ]
+            },
+            {
+                  "name": "Bishnu Panchayan Mandir",
+                  "text": "Visnunak szentelt templom, amely a pancsajan hagyomány szerint öt istenségnek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        86.938772,
+                        26.706405
+                  ]
+            },
+            {
+                  "name": "Hanuman Mandir",
+                  "text": "Kicsi hindu szentély, amelyet Hanumánnak, a majomistennek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        86.945493,
+                        26.705205
+                  ]
+            },
+            {
+                  "name": "Bhagwati Mandir",
+                  "text": "Bhagwati istennőnek, a fenséges anyának szentelt hindu templom.",
+                  "category": "landmark",
+                  "coords": [
+                        86.939147,
+                        26.689634
+                  ]
+            },
+            {
+                  "name": "Mahatgainyaa Baba Mandir",
+                  "text": "Helyi hindu szentély, amelyet egy szellemi tanítónak vagy szentnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        86.951132,
+                        26.688785
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Hanuman Mandir",
+                  "text": "Közös hindu szentély Ráma, Szíta és hűséges szolgájuk, Hanumán számára.",
+                  "category": "landmark",
+                  "coords": [
+                        86.952485,
+                        26.688001
+                  ]
+            },
+            {
+                  "name": "Jitmahan Mandir",
+                  "text": "Hindu templom a Sunsari körzet síkságának vidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        86.956058,
+                        26.687933
+                  ]
+            },
+            {
+                  "name": "Dihibar Baba Mandir",
+                  "text": "Dihibar Babának szentelt hindu templom a Koshi Tappu vadvédelmi terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.954444,
+                        26.701697
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mill (Food)",
+                  "text": "O moară de cereale tradițională în împrejurimile rurale ale Rezervației Koshi Tappu.",
+                  "category": "landmark",
+                  "coords": [
+                        86.989167,
+                        26.73525
+                  ]
+            },
+            {
+                  "name": "Elephant Stable",
+                  "text": "Un grajd pentru elefanții folosiți la patrulare și safari în rezervația Koshi Tappu.",
+                  "category": "landmark",
+                  "coords": [
+                        87.02989,
+                        26.621225
+                  ]
+            },
+            {
+                  "name": "Rajaji Mandir",
+                  "text": "Un templu hindu în regiunea joasă Terai, situat lângă râul Koshi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.957426,
+                        26.727492
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "Un templu hindu dedicat Lordului Ram și consoartei sale Sita.",
+                  "category": "landmark",
+                  "coords": [
+                        86.957453,
+                        26.722508
+                  ]
+            },
+            {
+                  "name": "Dina Bhadri Mandir",
+                  "text": "Un templu dedicat lui Dina și Bhadri, zeitățile populare ale comunității Musahar.",
+                  "category": "landmark",
+                  "coords": [
+                        86.959622,
+                        26.726982
+                  ]
+            },
+            {
+                  "name": "Shiv Mandir",
+                  "text": "Un altar hindu dedicat lui Shiva, situat lângă zonele umede Koshi Tappu.",
+                  "category": "landmark",
+                  "coords": [
+                        86.951437,
+                        26.725443
+                  ]
+            },
+            {
+                  "name": "Raja ji Dihibar Mandir",
+                  "text": "Un templu hindu local dedicat unei zeități protectoare regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        86.947239,
+                        26.725
+                  ]
+            },
+            {
+                  "name": "Jame Masjeet",
+                  "text": "Moscheea centrală de vineri pentru comunitatea musulmană de lângă rezervație.",
+                  "category": "landmark",
+                  "coords": [
+                        86.917977,
+                        26.667512
+                  ]
+            },
+            {
+                  "name": "Marhoom Masjeet",
+                  "text": "O moschee locală care deservește populația musulmană din câmpia Terai.",
+                  "category": "landmark",
+                  "coords": [
+                        86.916901,
+                        26.667103
+                  ]
+            },
+            {
+                  "name": "Mahadev Mandir",
+                  "text": "Un templu hindu dedicat lui Mahadev (Shiva) într-un cadru rural liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        86.921172,
+                        26.663825
+                  ]
+            },
+            {
+                  "name": "Mothersa Jahamiya Islamiya Masjeet",
+                  "text": "O moschee și școală religioasă, care este un centru pentru studii islamice în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        86.921238,
+                        26.666931
+                  ]
+            },
+            {
+                  "name": "Shree Gajeswor Nath",
+                  "text": "Un templu hindu dedicat lui Gajeswor Nath, lângă bazinul râului Koshi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.925131,
+                        26.666327
+                  ]
+            },
+            {
+                  "name": "Jahamey Masjeet",
+                  "text": "Un lăcaș de rugăciune musulman simplu în câmpiile din estul Nepalului.",
+                  "category": "landmark",
+                  "coords": [
+                        86.925554,
+                        26.668992
+                  ]
+            },
+            {
+                  "name": "Dharu Nistahululun",
+                  "text": "Un lăcaș de cult hindu local, integrat în comunitatea rurală din Sunsari.",
+                  "category": "landmark",
+                  "coords": [
+                        86.94,
+                        26.67048
+                  ]
+            },
+            {
+                  "name": "Shree 108 Shree Bhisari Daas Bairagi",
+                  "text": "Un templu sau ashram hindu dedicat unui sfânt Bairagi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.942175,
+                        26.671573
+                  ]
+            },
+            {
+                  "name": "Gorraja Mandir",
+                  "text": "Un mic altar hindu care onorează o zeitate locală în mijlocul terenurilor agricole.",
+                  "category": "landmark",
+                  "coords": [
+                        86.927415,
+                        26.679013
+                  ]
+            },
+            {
+                  "name": "Dakanithan",
+                  "text": "Un altar hindu dedicat zeităților protectoare, situat lângă rezervația de faună.",
+                  "category": "landmark",
+                  "coords": [
+                        86.928532,
+                        26.708038
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Un altar modest pentru Lordul Shiva, un loc spiritual important pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        86.941737,
+                        26.712159
+                  ]
+            },
+            {
+                  "name": "Balardha ko Masjid",
+                  "text": "O moschee locală care deservește comunitatea musulmană din satul Balardha.",
+                  "category": "landmark",
+                  "coords": [
+                        86.940688,
+                        26.706958
+                  ]
+            },
+            {
+                  "name": "Bishnu Panchayan Mandir",
+                  "text": "Un templu dedicat lui Vishnu, care găzduiește cinci zeități conform tradiției Panchayan.",
+                  "category": "landmark",
+                  "coords": [
+                        86.938772,
+                        26.706405
+                  ]
+            },
+            {
+                  "name": "Hanuman Mandir",
+                  "text": "Un mic altar hindu dedicat lui Hanuman, zeul maimuță.",
+                  "category": "landmark",
+                  "coords": [
+                        86.945493,
+                        26.705205
+                  ]
+            },
+            {
+                  "name": "Bhagwati Mandir",
+                  "text": "Un templu hindu dedicat zeiței Bhagwati în forma sa feroce.",
+                  "category": "landmark",
+                  "coords": [
+                        86.939147,
+                        26.689634
+                  ]
+            },
+            {
+                  "name": "Mahatgainyaa Baba Mandir",
+                  "text": "Un altar hindu local dedicat unui învățător spiritual sau sfânt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.951132,
+                        26.688785
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Hanuman Mandir",
+                  "text": "Un altar hindu combinat pentru Ram, Sita și servitorul lor loial Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        86.952485,
+                        26.688001
+                  ]
+            },
+            {
+                  "name": "Jitmahan Mandir",
+                  "text": "Un templu hindu în peisajul rural al câmpiei districtului Sunsari.",
+                  "category": "landmark",
+                  "coords": [
+                        86.956058,
+                        26.687933
+                  ]
+            },
+            {
+                  "name": "Dihibar Baba Mandir",
+                  "text": "Un templu hindu dedicat lui Dihibar Baba, situat în apropierea Rezervației de Faună Koshi Tappu.",
+                  "category": "landmark",
+                  "coords": [
+                        86.954444,
+                        26.701697
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mill (Food)",
+                  "text": "A traditional grain mill in the rural surroundings of the Koshi Tappu Wildlife Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        86.989167,
+                        26.73525
+                  ]
+            },
+            {
+                  "name": "Elephant Stable",
+                  "text": "A stable for elephants used for patrolling and safaris within the Koshi Tappu reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        87.02989,
+                        26.621225
+                  ]
+            },
+            {
+                  "name": "Rajaji Mandir",
+                  "text": "A Hindu temple in the flat Terai region, located near the Koshi River.",
+                  "category": "landmark",
+                  "coords": [
+                        86.957426,
+                        26.727492
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "A Hindu temple dedicated to Lord Ram and his consort Sita.",
+                  "category": "landmark",
+                  "coords": [
+                        86.957453,
+                        26.722508
+                  ]
+            },
+            {
+                  "name": "Dina Bhadri Mandir",
+                  "text": "A temple dedicated to Dina and Bhadri, the folk deities of the Musahar community.",
+                  "category": "landmark",
+                  "coords": [
+                        86.959622,
+                        26.726982
+                  ]
+            },
+            {
+                  "name": "Shiv Mandir",
+                  "text": "A Hindu shrine dedicated to Lord Shiva near the Koshi Tappu wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        86.951437,
+                        26.725443
+                  ]
+            },
+            {
+                  "name": "Raja ji Dihibar Mandir",
+                  "text": "A local Hindu temple dedicated to a regional guardian deity.",
+                  "category": "landmark",
+                  "coords": [
+                        86.947239,
+                        26.725
+                  ]
+            },
+            {
+                  "name": "Jame Masjeet",
+                  "text": "The central Friday mosque for the Muslim community near the reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        86.917977,
+                        26.667512
+                  ]
+            },
+            {
+                  "name": "Marhoom Masjeet",
+                  "text": "A local mosque serving the Muslim population in the Terai plains.",
+                  "category": "landmark",
+                  "coords": [
+                        86.916901,
+                        26.667103
+                  ]
+            },
+            {
+                  "name": "Mahadev Mandir",
+                  "text": "A Hindu temple dedicated to Mahadev (Shiva) in a quiet rural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        86.921172,
+                        26.663825
+                  ]
+            },
+            {
+                  "name": "Mothersa Jahamiya Islamiya Masjeet",
+                  "text": "A mosque and religious school that is a center for Islamic studies in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        86.921238,
+                        26.666931
+                  ]
+            },
+            {
+                  "name": "Shree Gajeswor Nath",
+                  "text": "A Hindu temple dedicated to Gajeswor Nath near the Koshi river basin.",
+                  "category": "landmark",
+                  "coords": [
+                        86.925131,
+                        26.666327
+                  ]
+            },
+            {
+                  "name": "Jahamey Masjeet",
+                  "text": "A simple Muslim place of prayer in the plains of eastern Nepal.",
+                  "category": "landmark",
+                  "coords": [
+                        86.925554,
+                        26.668992
+                  ]
+            },
+            {
+                  "name": "Dharu Nistahululun",
+                  "text": "A local Hindu religious site embedded in the village community of Sunsari.",
+                  "category": "landmark",
+                  "coords": [
+                        86.94,
+                        26.67048
+                  ]
+            },
+            {
+                  "name": "Shree 108 Shree Bhisari Daas Bairagi",
+                  "text": "A Hindu temple or ashram dedicated to a Bairagi saint.",
+                  "category": "landmark",
+                  "coords": [
+                        86.942175,
+                        26.671573
+                  ]
+            },
+            {
+                  "name": "Gorraja Mandir",
+                  "text": "A small Hindu shrine honoring a local deity amidst farmland.",
+                  "category": "landmark",
+                  "coords": [
+                        86.927415,
+                        26.679013
+                  ]
+            },
+            {
+                  "name": "Dakanithan",
+                  "text": "A Hindu shrine dedicated to guardian deities, located near the wildlife reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        86.928532,
+                        26.708038
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "A modest shrine for Lord Shiva, an important spiritual site for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        86.941737,
+                        26.712159
+                  ]
+            },
+            {
+                  "name": "Balardha ko Masjid",
+                  "text": "A local mosque serving the Muslim community in Balardha village.",
+                  "category": "landmark",
+                  "coords": [
+                        86.940688,
+                        26.706958
+                  ]
+            },
+            {
+                  "name": "Bishnu Panchayan Mandir",
+                  "text": "A temple dedicated to Vishnu, housing five deities according to the Panchayan tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        86.938772,
+                        26.706405
+                  ]
+            },
+            {
+                  "name": "Hanuman Mandir",
+                  "text": "A small Hindu shrine dedicated to Hanuman, the monkey god.",
+                  "category": "landmark",
+                  "coords": [
+                        86.945493,
+                        26.705205
+                  ]
+            },
+            {
+                  "name": "Bhagwati Mandir",
+                  "text": "A Hindu temple dedicated to the goddess Bhagwati in her fierce form.",
+                  "category": "landmark",
+                  "coords": [
+                        86.939147,
+                        26.689634
+                  ]
+            },
+            {
+                  "name": "Mahatgainyaa Baba Mandir",
+                  "text": "A local Hindu shrine dedicated to a spiritual teacher or saint.",
+                  "category": "landmark",
+                  "coords": [
+                        86.951132,
+                        26.688785
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Hanuman Mandir",
+                  "text": "A combined Hindu shrine for Ram, Sita, and their loyal servant Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        86.952485,
+                        26.688001
+                  ]
+            },
+            {
+                  "name": "Jitmahan Mandir",
+                  "text": "A Hindu temple in the rural landscape of the Sunsari district plains.",
+                  "category": "landmark",
+                  "coords": [
+                        86.956058,
+                        26.687933
+                  ]
+            },
+            {
+                  "name": "Dihibar Baba Mandir",
+                  "text": "A Hindu temple dedicated to Dihibar Baba, located near the Koshi Tappu Wildlife Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        86.954444,
+                        26.701697
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "NP-P1",
     coords: [87.0000, 26.6500],
@@ -426,7 +3405,124 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "karnali-river-nature-v2",
+    id: "karnali-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tarkeshwor Mandir Taratal",
+                  "text": "Dieser Hindu-Tempel liegt in der Nähe des fließenden Wassers des Karnali-Flusses und bietet einen ruhigen Ort für Anhänger.",
+                  "category": "landmark",
+                  "coords": [
+                        81.245558,
+                        28.283672
+                  ]
+            },
+            {
+                  "name": "Shree Manjushree Boudhha Gumba",
+                  "text": "In der Nähe des Karnali-Flusses gelegen, bietet dieser buddhistische Gumba eine friedliche Umgebung für Meditation und spirituelles Lernen.",
+                  "category": "landmark",
+                  "coords": [
+                        81.250697,
+                        28.294559
+                  ]
+            },
+            {
+                  "name": "Manpurtapara Bazaar",
+                  "text": "Ein lebhafter lokaler Marktplatz am Karnali-Fluss, auf dem sich die Bewohner treffen, um frische Produkte und regionale Waren zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        81.156386,
+                        28.40016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tarkeshwor Mandir Taratal",
+                  "text": "Ez a hindu templom a Karnali folyó vizéhez közel épült, nyugodt teret kínálva a hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        81.245558,
+                        28.283672
+                  ]
+            },
+            {
+                  "name": "Shree Manjushree Boudhha Gumba",
+                  "text": "A Karnali folyó közelében elhelyezkedő buddhista gumba békés környezetet biztosít a meditációhoz és a spirituális tanuláshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        81.250697,
+                        28.294559
+                  ]
+            },
+            {
+                  "name": "Manpurtapara Bazaar",
+                  "text": "Élettel teli helyi piac a Karnali folyó partján, ahol a lakosok friss terményekkel és regionális árukkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        81.156386,
+                        28.40016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tarkeshwor Mandir Taratal",
+                  "text": "Acest templu hindus este așezat în apropierea apelor curgătoare ale râului Karnali, oferind un spațiu liniștit pentru devotați.",
+                  "category": "landmark",
+                  "coords": [
+                        81.245558,
+                        28.283672
+                  ]
+            },
+            {
+                  "name": "Shree Manjushree Boudhha Gumba",
+                  "text": "Situată în apropierea râului Karnali, această gumba budistă oferă un mediu liniștit pentru meditație și învățare spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        81.250697,
+                        28.294559
+                  ]
+            },
+            {
+                  "name": "Manpurtapara Bazaar",
+                  "text": "O piață locală plină de viață de-a lungul râului Karnali, unde rezidenții se adună pentru a face comerț cu produse proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        81.156386,
+                        28.40016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tarkeshwor Mandir Taratal",
+                  "text": "This Hindu temple is set near the flowing waters of the Karnali River, offering a tranquil space for devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        81.245558,
+                        28.283672
+                  ]
+            },
+            {
+                  "name": "Shree Manjushree Boudhha Gumba",
+                  "text": "Situated near the Karnali River, this Buddhist gumba provides a peaceful environment for meditation and spiritual learning.",
+                  "category": "landmark",
+                  "coords": [
+                        81.250697,
+                        28.294559
+                  ]
+            },
+            {
+                  "name": "Manpurtapara Bazaar",
+                  "text": "A lively local marketplace alongside the Karnali River, where residents gather to trade fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        81.156386,
+                        28.40016
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "NP-P6",
     coords: [81.1667, 28.3333],
@@ -534,7 +3630,160 @@ export const poiExtraNepalNatureV2: POI[] = [
     }
   },
   {
-    id: "makalu-nature-v2",
+    id: "makalu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kangshungtse",
+                  "text": "Dieser auch als Makalu II bekannte, 7.678 Meter hohe Gipfel ist ein bedeutender Nebengipfel des Mount Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        87.079858,
+                        27.914017
+                  ]
+            },
+            {
+                  "name": "Chomolonzo",
+                  "text": "Ein massiver, 7.804 Meter hoher Gipfel im Mahalangur-Himalaya an der Grenze nahe dem Mount Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        87.10751,
+                        27.930085
+                  ]
+            },
+            {
+                  "name": "Makalu",
+                  "text": "Ein Aussichtspunkt mit atemberaubendem Blick auf den Mount Makalu, den mit 8.485 Metern fünfthöchsten Berg der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        87.08844,
+                        27.891438
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Ein traditioneller buddhistischer Chorten an den Hochgebirgspfaden im Makalu-Barun-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        87.076095,
+                        27.835691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kangshungtse",
+                  "text": "A Makalu II néven is ismert 7678 méteres csúcs a Makalu-hegy egyik jelentős mellékcsúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        87.079858,
+                        27.914017
+                  ]
+            },
+            {
+                  "name": "Chomolonzo",
+                  "text": "Egy masszív, 7804 méteres csúcs a Mahalangur Himalájában, a Makalu-hegy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        87.10751,
+                        27.930085
+                  ]
+            },
+            {
+                  "name": "Mount Makalu",
+                  "text": "Kilátópont, ahonnan lenyűgöző panoráma nyílik a Makalura, a világ ötödik legmagasabb (8485 m) hegyére.",
+                  "category": "natural",
+                  "coords": [
+                        87.08844,
+                        27.891438
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Egy hagyományos buddhista csörten a Makalu-Barun Nemzeti Park magashegyi ösvényei mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        87.076095,
+                        27.835691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kangshungtse",
+                  "text": "Cunoscut și sub numele de Makalu II, acest vârf de 7.678 de metri este o culme secundară importantă a muntelui Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        87.079858,
+                        27.914017
+                  ]
+            },
+            {
+                  "name": "Chomolonzo",
+                  "text": "Un vârf masiv de 7.804 metri din Himalaya Mahalangur, situat la graniță, lângă muntele Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        87.10751,
+                        27.930085
+                  ]
+            },
+            {
+                  "name": "Mount Makalu",
+                  "text": "Un punct de belvedere care oferă o priveliște uimitoare asupra Muntelui Makalu, al cincilea cel mai înalt munte din lume (8.485 m).",
+                  "category": "natural",
+                  "coords": [
+                        87.08844,
+                        27.891438
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "Un chorten budist tradițional care marchează traseele de mare altitudine din Parcul Național Makalu-Barun.",
+                  "category": "landmark",
+                  "coords": [
+                        87.076095,
+                        27.835691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kangshungtse",
+                  "text": "Also known as Makalu II, this 7,678-meter peak is a significant subsidiary summit of Mount Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        87.079858,
+                        27.914017
+                  ]
+            },
+            {
+                  "name": "Chomolonzo",
+                  "text": "A massive 7,804-meter peak in the Mahalangur Himalayas, situated on the border near Mount Makalu.",
+                  "category": "natural",
+                  "coords": [
+                        87.10751,
+                        27.930085
+                  ]
+            },
+            {
+                  "name": "Mount Makalu",
+                  "text": "A viewpoint offering a stunning vista of Mount Makalu, the world's fifth-highest mountain at 8,485 meters.",
+                  "category": "natural",
+                  "coords": [
+                        87.08844,
+                        27.891438
+                  ]
+            },
+            {
+                  "name": "Chorten",
+                  "text": "A traditional Buddhist chorten marking the high-altitude trails in the Makalu-Barun National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        87.076095,
+                        27.835691
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-P1",
     coords: [87.0889, 27.8897],
@@ -570,7 +3819,196 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "dhaulagiri-nature-v2",
+    id: "dhaulagiri-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tukuche Peak",
+                  "text": "Ein gewaltiger Himalayagipfel, der 6.920 Meter hoch aufragt, nahe der tiefen Kali-Gandaki-Schlucht gelegen.",
+                  "category": "natural",
+                  "coords": [
+                        83.557406,
+                        28.744953
+                  ]
+            },
+            {
+                  "name": "Sita Chuchura",
+                  "text": "Vergletscherter Berggipfel im Dhaulagiri-Massiv, ein beliebtes Ziel für technische Bergsteiger.",
+                  "category": "natural",
+                  "coords": [
+                        83.483832,
+                        28.782078
+                  ]
+            },
+            {
+                  "name": "Dhaulagiri",
+                  "text": "Der siebthöchste Berg der Welt, bekannt für seine gewaltige weiße Spitze und seinen dramatischen vertikalen Anstieg.",
+                  "category": "natural",
+                  "coords": [
+                        83.489488,
+                        28.697609
+                  ]
+            },
+            {
+                  "name": "Dhaulagiri icefall",
+                  "text": "Eine spektakuläre und tückische Kaskade aus Gletschereis an den Nordhängen des Mount Dhaulagiri.",
+                  "category": "natural",
+                  "coords": [
+                        83.562127,
+                        28.691332
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche cave",
+                  "text": "Heilige Meditationshöhle in einem abgelegenen Gebirgstal, die mit dem Begründer des tibetischen Buddhismus verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        83.590464,
+                        28.693945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tukuche Peak",
+                  "text": "Hatalmas himalájai csúcs, amely 6920 méter magasba emelkedik a mély Kali Gandaki-szurdok közelében.",
+                  "category": "natural",
+                  "coords": [
+                        83.557406,
+                        28.744953
+                  ]
+            },
+            {
+                  "name": "Sita Chuchura",
+                  "text": "Eljegesedett hegycsúcs a Dhaulagiri-masszívumban, a technikai hegymászók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        83.483832,
+                        28.782078
+                  ]
+            },
+            {
+                  "name": "Dhaulagiri",
+                  "text": "A világ hetedik legmagasabb hegye, amely hatalmas fehér csúcsáról és drámai függőleges emelkedéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        83.489488,
+                        28.697609
+                  ]
+            },
+            {
+                  "name": "Dhaulagiri icefall",
+                  "text": "A gleccserjég látványos és csalóka vízesése a Dhaulagiri-hegy északi lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        83.562127,
+                        28.691332
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche cave",
+                  "text": "Szent meditációs barlang egy távoli hegyi völgyben, amely a tibeti buddhizmus alapítójához kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        83.590464,
+                        28.693945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tukuche Peak",
+                  "text": "Un vârf impunător din Himalaya care se ridică la 6.920 de metri, situat lângă defileul adânc Kali Gandaki.",
+                  "category": "natural",
+                  "coords": [
+                        83.557406,
+                        28.744953
+                  ]
+            },
+            {
+                  "name": "Sita Chuchura",
+                  "text": "Vârf montan glaciar din masivul Dhaulagiri, popular printre alpiniștii tehnici.",
+                  "category": "natural",
+                  "coords": [
+                        83.483832,
+                        28.782078
+                  ]
+            },
+            {
+                  "name": "Dhaulagiri",
+                  "text": "Al șaptelea cel mai înalt munte din lume, cunoscut pentru vârful său alb masiv și ascensiunea verticală dramatică.",
+                  "category": "natural",
+                  "coords": [
+                        83.489488,
+                        28.697609
+                  ]
+            },
+            {
+                  "name": "Dhaulagiri icefall",
+                  "text": "O cascadă spectaculoasă și trădătoare de gheață glaciară pe versanții nordici ai muntelui Dhaulagiri.",
+                  "category": "natural",
+                  "coords": [
+                        83.562127,
+                        28.691332
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche cave",
+                  "text": "Peșteră de meditație sacră asociată cu fondatorul budismului tibetan, situată într-o vale muntoasă îndepărtată.",
+                  "category": "landmark",
+                  "coords": [
+                        83.590464,
+                        28.693945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tukuche Peak",
+                  "text": "A towering Himalayan peak rising to 6,920 meters, situated near the deep Kali Gandaki gorge.",
+                  "category": "natural",
+                  "coords": [
+                        83.557406,
+                        28.744953
+                  ]
+            },
+            {
+                  "name": "Sita Chuchura",
+                  "text": "A glaciated mountain peak in the Dhaulagiri massif, popular among technical mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        83.483832,
+                        28.782078
+                  ]
+            },
+            {
+                  "name": "Dhaulagiri",
+                  "text": "The world's seventh-highest mountain, known for its massive white peak and dramatic vertical rise.",
+                  "category": "natural",
+                  "coords": [
+                        83.489488,
+                        28.697609
+                  ]
+            },
+            {
+                  "name": "Dhaulagiri icefall",
+                  "text": "A spectacular and treacherous cascade of glacier ice on the northern slopes of Mount Dhaulagiri.",
+                  "category": "natural",
+                  "coords": [
+                        83.562127,
+                        28.691332
+                  ]
+            },
+            {
+                  "name": "Guru Rinpoche cave",
+                  "text": "Sacred meditation cave associated with the founder of Tibetan Buddhism, located in a remote mountain valley.",
+                  "category": "landmark",
+                  "coords": [
+                        83.590464,
+                        28.693945
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NP-P4",
     coords: [83.4897, 28.6972],
@@ -606,7 +4044,340 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "shivapuri-nagarjun-national-park-nature-v2",
+    id: "shivapuri-nagarjun-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pokhari Chaur(पोखरीचौर)",
+                  "text": "Eine grasbewachsene Lichtung im Shivapuri-Nationalpark, die ein beliebter Rastplatz für Wanderer ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317302,
+                        27.851003
+                  ]
+            },
+            {
+                  "name": "त्रिवेणी घाट",
+                  "text": "Ein ritueller Badeplatz am Flussufer, der als Monument für die lokale religiöse Geschichte dient.",
+                  "category": "historical",
+                  "coords": [
+                        85.326902,
+                        27.861739
+                  ]
+            },
+            {
+                  "name": "Chanpako Bot (चाँपाबोट)",
+                  "text": "Ein Naturdenkmal im Shivapuri-Wald, benannt nach einem markanten alten Champak-Baum.",
+                  "category": "landmark",
+                  "coords": [
+                        85.314402,
+                        27.839015
+                  ]
+            },
+            {
+                  "name": "राँचे भूमे मन्दिर",
+                  "text": "Ein hinduistischer Tempel, der tief im Nationalpark liegt und lokale Erdgottheiten verehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.37738,
+                        27.887251
+                  ]
+            },
+            {
+                  "name": "Buddhist Monastry (2137m)",
+                  "text": "Dieses buddhistische Kloster liegt auf 2137 m Höhe im dichten Wald des Shivapuri-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        85.448967,
+                        27.831818
+                  ]
+            },
+            {
+                  "name": "Sundarimai Temple",
+                  "text": "Ein abgelegener hinduistischer Tempel im Wald, bekannt für seine ruhige Atmosphäre und kleine Schreine.",
+                  "category": "landmark",
+                  "coords": [
+                        85.427199,
+                        27.770964
+                  ]
+            },
+            {
+                  "name": "Gairabari Devisthan ",
+                  "text": "Ein Ort der Verehrung für die lokale Göttin, eingebettet in das bergige Gelände des Shivapuri.",
+                  "category": "religious",
+                  "coords": [
+                        85.314135,
+                        27.850089
+                  ]
+            },
+            {
+                  "name": "Nagi Gompa",
+                  "text": "Dieses bekannte buddhistische Nonnenkloster im Shivapuri-Wald dient als bedeutendes Retreat-Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381676,
+                        27.783296
+                  ]
+            },
+            {
+                  "name": "Saptalingeshwor",
+                  "text": "Eine hinduistische Pilgerstätte, die den sieben Lingas gewidmet ist und im Shivapuri-Nagarjun-Nationalpark liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.391068,
+                        27.811769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pokhari Chaur(पोखरीचौर)",
+                  "text": "Füves tisztás a Shivapuri Nemzeti Parkban, amely a túrázók népszerű pihenőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317302,
+                        27.851003
+                  ]
+            },
+            {
+                  "name": "त्रिवेणी घाट",
+                  "text": "Folyóparti rituális fürdőhely, amely a helyi vallástörténet emlékműveként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        85.326902,
+                        27.861739
+                  ]
+            },
+            {
+                  "name": "Chanpako Bot (चाँपाबोट)",
+                  "text": "Természeti látnivaló a Shivapuri-erdőben, amelyet egy jellegzetes öreg Champak fáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        85.314402,
+                        27.839015
+                  ]
+            },
+            {
+                  "name": "राँचे भूमे मन्दिर",
+                  "text": "A nemzeti park mélyén fekvő hindu templom, ahol helyi földistenségeket tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.37738,
+                        27.887251
+                  ]
+            },
+            {
+                  "name": "Buddhist Monastry (2137m)",
+                  "text": "Ez a buddhista kolostor 2137 méteres magasságban található a Shivapuri Nemzeti Park sűrű erdejében.",
+                  "category": "landmark",
+                  "coords": [
+                        85.448967,
+                        27.831818
+                  ]
+            },
+            {
+                  "name": "Sundarimai Temple",
+                  "text": "Egy eldugott hindu templom az erdőben, amely nyugodt légköréről és kis szentélyeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.427199,
+                        27.770964
+                  ]
+            },
+            {
+                  "name": "Gairabari Devisthan ",
+                  "text": "A helyi istennő istentiszteleti helye, a Shivapuri hegyvidéki terepébe ágyazva.",
+                  "category": "religious",
+                  "coords": [
+                        85.314135,
+                        27.850089
+                  ]
+            },
+            {
+                  "name": "Nagi Gompa",
+                  "text": "Ez a jól ismert buddhista apácakolostor a Shivapuri-erdőben jelentős elvonulási központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381676,
+                        27.783296
+                  ]
+            },
+            {
+                  "name": "Saptalingeshwor",
+                  "text": "Siva istennek szentelt hindu vallási helyszín a Shivapuri Nagarjun Nemzeti Park erdőiben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.391068,
+                        27.811769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pokhari Chaur(पोखरीचौर)",
+                  "text": "O poiană înverzită în Parcul Național Shivapuri, care este un loc de popas popular pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317302,
+                        27.851003
+                  ]
+            },
+            {
+                  "name": "त्रिवेणी घाट",
+                  "text": "Un loc de îmbăiere rituală pe malul râului, care servește drept monument pentru istoria religioasă locală.",
+                  "category": "historical",
+                  "coords": [
+                        85.326902,
+                        27.861739
+                  ]
+            },
+            {
+                  "name": "Chanpako Bot (चाँपाबोट)",
+                  "text": "O atracție naturală în pădurea Shivapuri, numită după un arbore Champak vechi și distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        85.314402,
+                        27.839015
+                  ]
+            },
+            {
+                  "name": "राँचे भूमे मन्दिर",
+                  "text": "Un templu hindu situat adânc în parcul național, unde sunt venerate zeități locale ale pământului.",
+                  "category": "landmark",
+                  "coords": [
+                        85.37738,
+                        27.887251
+                  ]
+            },
+            {
+                  "name": "Buddhist Monastry (2137m)",
+                  "text": "Această mănăstire budistă se află la o altitudine de 2137 m în pădurea deasă a Parcului Național Shivapuri.",
+                  "category": "landmark",
+                  "coords": [
+                        85.448967,
+                        27.831818
+                  ]
+            },
+            {
+                  "name": "Sundarimai Temple",
+                  "text": "Un templu hindu izolat în pădure, cunoscut pentru atmosfera sa liniștită și micile altare.",
+                  "category": "landmark",
+                  "coords": [
+                        85.427199,
+                        27.770964
+                  ]
+            },
+            {
+                  "name": "Gairabari Devisthan ",
+                  "text": "Un loc de cult pentru zeița locală, integrat în terenul muntos din Shivapuri.",
+                  "category": "religious",
+                  "coords": [
+                        85.314135,
+                        27.850089
+                  ]
+            },
+            {
+                  "name": "Nagi Gompa",
+                  "text": "Această cunoscută mănăstire de călugărițe budiste din pădurea Shivapuri servește drept important centru de retragere.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381676,
+                        27.783296
+                  ]
+            },
+            {
+                  "name": "Saptalingeshwor",
+                  "text": "Un sit religios hindu dedicat lui Shiva, situat în pădurile Parcului Național Shivapuri Nagarjun.",
+                  "category": "landmark",
+                  "coords": [
+                        85.391068,
+                        27.811769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pokhari Chaur(पोखरीचौर)",
+                  "text": "A grassy clearing in the Shivapuri National park, which is a popular resting spot for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317302,
+                        27.851003
+                  ]
+            },
+            {
+                  "name": "त्रिवेणी घाट",
+                  "text": "A riverside ritual bathing spot that serves as a monument to local religious history.",
+                  "category": "historical",
+                  "coords": [
+                        85.326902,
+                        27.861739
+                  ]
+            },
+            {
+                  "name": "Chanpako Bot (चाँपाबोट)",
+                  "text": "A natural attraction in the Shivapuri forest named after a distinctive old Champak tree.",
+                  "category": "landmark",
+                  "coords": [
+                        85.314402,
+                        27.839015
+                  ]
+            },
+            {
+                  "name": "Ranche Vume Mandir",
+                  "text": "A Hindu temple located deep within the national park, worshiping local earth deities.",
+                  "category": "landmark",
+                  "coords": [
+                        85.37738,
+                        27.887251
+                  ]
+            },
+            {
+                  "name": "Buddhist Monastry (2137m)",
+                  "text": "This Buddhist monastery is situated at an elevation of 2137m within the dense Shivapuri National Park forest.",
+                  "category": "landmark",
+                  "coords": [
+                        85.448967,
+                        27.831818
+                  ]
+            },
+            {
+                  "name": "Sundarimai Temple",
+                  "text": "A secluded Hindu temple in the forest, known for its tranquil atmosphere and small shrines.",
+                  "category": "landmark",
+                  "coords": [
+                        85.427199,
+                        27.770964
+                  ]
+            },
+            {
+                  "name": "Gairabari Devisthan ",
+                  "text": "A place of worship for the local goddess, nestled in the mountainous terrain of Shivapuri.",
+                  "category": "religious",
+                  "coords": [
+                        85.314135,
+                        27.850089
+                  ]
+            },
+            {
+                  "name": "Nagi Gompa",
+                  "text": "This well-known Buddhist nunnery in the Shivapuri forest serves as a major retreat center.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381676,
+                        27.783296
+                  ]
+            },
+            {
+                  "name": "Saptalingeshwor",
+                  "text": "A sacred Hindu site dedicated to Shiva, located within the forests of the Shivapuri Nagarjun National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        85.391068,
+                        27.811769
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "NP-P3",
     coords: [85.3833, 27.8000],
@@ -642,7 +4413,160 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "shuklaphanta-national-park-nature-v2",
+    id: "shuklaphanta-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "In der Nähe der üppigen Lebensräume des Shuklaphanta-Nationalparks gelegen, ist dieser Hindu-Tempel Lord Rama und der Göttin Sita gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.133539,
+                        28.938622
+                  ]
+            },
+            {
+                  "name": "हुनैनाथ मन्दिर",
+                  "text": "Eingebettet in die grüne Landschaft rund um den Shuklaphanta-Nationalpark ist der Hunainath Mandir eine ruhige Stätte der hinduistischen Verehrung.",
+                  "category": "landmark",
+                  "coords": [
+                        80.085205,
+                        28.920428
+                  ]
+            },
+            {
+                  "name": "कमल्सा मन्दिर",
+                  "text": "Ein traditioneller Hindutempel, der in die natürliche Landschaft des Shuklaphanta-Nationalparks eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        80.087091,
+                        28.922211
+                  ]
+            },
+            {
+                  "name": "सिद्धनाथ मन्दिर",
+                  "text": "Eine hinduistische Kultstätte vor der waldreichen Kulisse des Shuklaphanta-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        80.085901,
+                        28.90941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "A Shuklaphanta Nemzeti Park buja élőhelyei közelében található hindu templomot Rama nagyúrnak és Sita istennőnek szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        80.133539,
+                        28.938622
+                  ]
+            },
+            {
+                  "name": "हुनैनाथ मन्दिर",
+                  "text": "A Shuklaphanta Nemzeti Parkot körülvevő zöldellő tájban fekvő Hunainath Mandir egy nyugodt hindu istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        80.085205,
+                        28.920428
+                  ]
+            },
+            {
+                  "name": "कमल्सा मन्दिर",
+                  "text": "Hagyományos hindu templom, amely a Shuklaphanta Nemzeti Park természeti tájába simul.",
+                  "category": "landmark",
+                  "coords": [
+                        80.087091,
+                        28.922211
+                  ]
+            },
+            {
+                  "name": "सिद्धनाथ मन्दिर",
+                  "text": "Hindu istentiszteleti hely a Shuklaphanta Nemzeti Park erdős háttere előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        80.085901,
+                        28.90941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "Situat în apropierea habitatelor luxuriante ale Parcului Național Shuklaphanta, acest templu hindus este dedicat zeului Rama și zeiței Sita.",
+                  "category": "landmark",
+                  "coords": [
+                        80.133539,
+                        28.938622
+                  ]
+            },
+            {
+                  "name": "हुनैनाथ मन्दिर",
+                  "text": "Amplasat în peisajul înverzit din jurul Parcului Național Shuklaphanta, Hunainath Mandir este un loc liniștit de cult hindus.",
+                  "category": "landmark",
+                  "coords": [
+                        80.085205,
+                        28.920428
+                  ]
+            },
+            {
+                  "name": "कमल्सा मन्दिर",
+                  "text": "Un templu hindus tradițional situat în peisajul natural al Parcului Național Shuklaphanta.",
+                  "category": "landmark",
+                  "coords": [
+                        80.087091,
+                        28.922211
+                  ]
+            },
+            {
+                  "name": "सिद्धनाथ मन्दिर",
+                  "text": "Un lăcaș de cult hindus așezat pe fundalul împădurit al Parcului Național Shuklaphanta.",
+                  "category": "landmark",
+                  "coords": [
+                        80.085901,
+                        28.90941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "Located near the lush habitats of Shuklaphanta National Park, this Hindu temple is dedicated to Lord Rama and Goddess Sita.",
+                  "category": "landmark",
+                  "coords": [
+                        80.133539,
+                        28.938622
+                  ]
+            },
+            {
+                  "name": "हुनैनाथ मन्दिर",
+                  "text": "Set within the verdant landscape surrounding Shuklaphanta National Park, the Hunainath Mandir is a tranquil site of Hindu worship.",
+                  "category": "landmark",
+                  "coords": [
+                        80.085205,
+                        28.920428
+                  ]
+            },
+            {
+                  "name": "कमल्सा मन्दिर",
+                  "text": "A traditional Hindu temple situated within the natural landscape of Shuklaphanta National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        80.087091,
+                        28.922211
+                  ]
+            },
+            {
+                  "name": "सिद्धनाथ मन्दिर",
+                  "text": "A Hindu place of worship set against the forested backdrop of Shuklaphanta National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        80.085901,
+                        28.90941
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "NP-P7",
     coords: [80.1167, 28.8500],
@@ -678,7 +4602,628 @@ export const poiExtraNepalNatureV2: POI[] = [
     },
   },
   {
-    id: "sun-kosi-river-nature-v2",
+    id: "sun-kosi-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pukhurcha Pahara",
+                  "text": "Antike Steinruinen auf einem Hügel mit Blick auf das malerische Sun-Kosi-Flusstal.",
+                  "category": "historical",
+                  "coords": [
+                        86.073737,
+                        27.678497
+                  ]
+            },
+            {
+                  "name": "Pingal Dobar",
+                  "text": "Eine archäologische Ausgrabungsstätte mit Überresten alter Siedlungen in der Region des Sun-Kosi-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        86.07536,
+                        27.676495
+                  ]
+            },
+            {
+                  "name": "Bhimsen Dobar",
+                  "text": "Eine archäologische Ausgrabungsstätte mit alten Relikten und Bauresten im Sun-Kosi-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        86.075669,
+                        27.677538
+                  ]
+            },
+            {
+                  "name": "Chakra Dobar",
+                  "text": "Eine historische archäologische Stätte im Tal des Flusses Sun Kosi mit Spuren antiker Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        86.073491,
+                        27.675879
+                  ]
+            },
+            {
+                  "name": "Saharpadeu-Sarachiya Lunga",
+                  "text": "Verlassene Steinruinen in der zerklüfteten Landschaft der Region am Fluss Sun Kosi.",
+                  "category": "historical",
+                  "coords": [
+                        86.072622,
+                        27.678669
+                  ]
+            },
+            {
+                  "name": "Bag Khor",
+                  "text": "Historische Steinruinen im bergigen Gelände entlang des Sun-Kosi-Flusstals.",
+                  "category": "historical",
+                  "coords": [
+                        86.069295,
+                        27.681419
+                  ]
+            },
+            {
+                  "name": "Devi Than",
+                  "text": "Ein heiliger Hindu-Schrein, der der Göttin Devi gewidmet ist und in der Nähe des Flusses Sun Kosi liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.035711,
+                        27.567869
+                  ]
+            },
+            {
+                  "name": "Urgeling Gumba",
+                  "text": "Ein traditionelles buddhistisches Kloster (Gumba), das der lokalen Berggemeinde in der Sun-Kosi-Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.18554,
+                        27.617213
+                  ]
+            },
+            {
+                  "name": "Bhairab Mandir",
+                  "text": "Ein Hindu-Tempel, der der grimmigen Gottheit Bhairab gewidmet ist und im Sun-Kosi-Flusstal liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.103662,
+                        27.676502
+                  ]
+            },
+            {
+                  "name": "Bindawasini Mandir",
+                  "text": "Ein traditioneller Hindu-Tempel, der der Göttin Bindhyabasini im malerischen Sun-Kosi-Tal gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.085642,
+                        27.673408
+                  ]
+            },
+            {
+                  "name": "Sengkucha Stupa",
+                  "text": "Eine heilige buddhistische Stupa mit traditioneller religiöser Architektur in der Nähe des Flusses Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.085246,
+                        27.678894
+                  ]
+            },
+            {
+                  "name": "Manjushree (Mandeshwori)",
+                  "text": "Ein Hindu-Schrein, der Manjushree gewidmet ist und in der Sun-Kosi-Flusslandschaft liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.074031,
+                        27.682371
+                  ]
+            },
+            {
+                  "name": "Kali Mandir",
+                  "text": "Ein Hindu-Tempel, der der Göttin Kali gewidmet ist und am Ufer des Flusses Sun Kosi liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.076869,
+                        27.678445
+                  ]
+            },
+            {
+                  "name": "Narayan Mandir",
+                  "text": "Ein traditioneller Hindu-Tempel, der Lord Narayan, einer Form von Vishnu, im Sun-Kosi-Tal gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.073537,
+                        27.677575
+                  ]
+            },
+            {
+                  "name": "Dungal Seng",
+                  "text": "Eine hinduistische religiöse Stätte in der zerklüfteten Berglandschaft des Sun-Kosi-Flussbeckens.",
+                  "category": "landmark",
+                  "coords": [
+                        86.07711,
+                        27.677288
+                  ]
+            },
+            {
+                  "name": "Tripura Sundari Mandir",
+                  "text": "Ein bedeutender Hindu-Tempel, der der Göttin Tripura Sundari in der Sun-Kosi-Flussregion gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.078283,
+                        27.678057
+                  ]
+            },
+            {
+                  "name": "Sengucha",
+                  "text": "Eine traditionelle hinduistische Kultstätte in den Hügeln oberhalb des Sun-Kosi-Flusstals.",
+                  "category": "landmark",
+                  "coords": [
+                        86.080872,
+                        27.676593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pukhurcha Pahara",
+                  "text": "Ősi kőromok egy domboldalon, ahonnan kilátás nyílik a festői Sun Kosi-folyó völgyére.",
+                  "category": "historical",
+                  "coords": [
+                        86.073737,
+                        27.678497
+                  ]
+            },
+            {
+                  "name": "Pingal Dobar",
+                  "text": "Régészeti lelőhely ősi települések maradványaival a Sun Kosi-folyó régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        86.07536,
+                        27.676495
+                  ]
+            },
+            {
+                  "name": "Bhimsen Dobar",
+                  "text": "Régészeti lelőhely ősi ereklyékkel és épületmaradványokkal a Sun Kosi-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        86.075669,
+                        27.677538
+                  ]
+            },
+            {
+                  "name": "Chakra Dobar",
+                  "text": "Történelmi régészeti lelőhely a Sun Kosi-folyó völgyében, ókori települések nyomaival.",
+                  "category": "historical",
+                  "coords": [
+                        86.073491,
+                        27.675879
+                  ]
+            },
+            {
+                  "name": "Saharpadeu-Sarachiya Lunga",
+                  "text": "Elhagyatott kőromok a Sun Kosi-folyó vidékének vadregényes táján.",
+                  "category": "historical",
+                  "coords": [
+                        86.072622,
+                        27.678669
+                  ]
+            },
+            {
+                  "name": "Bag Khor",
+                  "text": "Történelmi kőromok a Sun Kosi-folyó völgyének hegyvidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        86.069295,
+                        27.681419
+                  ]
+            },
+            {
+                  "name": "Devi Than",
+                  "text": "Dévi istennőnek szentelt hindu szentély a Sun Kosi-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.035711,
+                        27.567869
+                  ]
+            },
+            {
+                  "name": "Urgeling Gumba",
+                  "text": "Tradicionális buddhista kolostor (Gumba), amely a Sun Kosi régió helyi hegyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        86.18554,
+                        27.617213
+                  ]
+            },
+            {
+                  "name": "Bhairab Mandir",
+                  "text": "A haragos Bhairab istenségnek szentelt hindu templom a Sun Kosi-folyó völgyében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.103662,
+                        27.676502
+                  ]
+            },
+            {
+                  "name": "Bindawasini Mandir",
+                  "text": "Tradicionális hindu templom Bindhyabasini istennőnek szentelve a festői Sun Kosi-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        86.085642,
+                        27.673408
+                  ]
+            },
+            {
+                  "name": "Sengkucha Stupa",
+                  "text": "Szent buddhista sztúpa hagyományos vallási építészettel a Sun Kosi-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        86.085246,
+                        27.678894
+                  ]
+            },
+            {
+                  "name": "Manjushree (Mandeshwori)",
+                  "text": "Mandzsusrínak, a bölcsesség istenségének szentelt hindu szentély a Sun Kosi-folyó vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        86.074031,
+                        27.682371
+                  ]
+            },
+            {
+                  "name": "Kali Mandir",
+                  "text": "Káli istennőnek szentelt hindu templom a Sun Kosi-folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        86.076869,
+                        27.678445
+                  ]
+            },
+            {
+                  "name": "Narayan Mandir",
+                  "text": "Visnu egyik alakjának, Nárájannak szentelt tradicionális hindu templom a Sun Kosi-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        86.073537,
+                        27.677575
+                  ]
+            },
+            {
+                  "name": "Dungal Seng",
+                  "text": "Hindu vallási hely a Sun Kosi-folyó vízgyűjtőjének vadregényes hegyvidéki területén.",
+                  "category": "landmark",
+                  "coords": [
+                        86.07711,
+                        27.677288
+                  ]
+            },
+            {
+                  "name": "Tripura Sundari Mandir",
+                  "text": "Tripura Sundari istennőnek szentelt jelentős hindu templom a Sun Kosi-folyó vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        86.078283,
+                        27.678057
+                  ]
+            },
+            {
+                  "name": "Sengucha",
+                  "text": "Hagyományos hindu istentiszteleti hely a Sun Kosi-folyó völgye feletti dombokon.",
+                  "category": "landmark",
+                  "coords": [
+                        86.080872,
+                        27.676593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pukhurcha Pahara",
+                  "text": "Ruine antice de piatră cocoțate pe un deal cu vedere la valea pitorească a râului Sun Kosi.",
+                  "category": "historical",
+                  "coords": [
+                        86.073737,
+                        27.678497
+                  ]
+            },
+            {
+                  "name": "Pingal Dobar",
+                  "text": "Un sit arheologic care prezintă rămășițe ale unor așezări antice în regiunea râului Sun Kosi.",
+                  "category": "historical",
+                  "coords": [
+                        86.07536,
+                        27.676495
+                  ]
+            },
+            {
+                  "name": "Bhimsen Dobar",
+                  "text": "Un sit arheologic care conține relicve antice și resturi structurale în valea Sun Kosi.",
+                  "category": "historical",
+                  "coords": [
+                        86.075669,
+                        27.677538
+                  ]
+            },
+            {
+                  "name": "Chakra Dobar",
+                  "text": "Un sit arheologic istoric în valea râului Sun Kosi, care conține urme ale unor așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        86.073491,
+                        27.675879
+                  ]
+            },
+            {
+                  "name": "Saharpadeu-Sarachiya Lunga",
+                  "text": "Ruine de piatră abandonate, cuibărite în peisajul accidentat al regiunii râului Sun Kosi.",
+                  "category": "historical",
+                  "coords": [
+                        86.072622,
+                        27.678669
+                  ]
+            },
+            {
+                  "name": "Bag Khor",
+                  "text": "Ruine de piatră istorice situate în terenul muntos de-a lungul văii râului Sun Kosi.",
+                  "category": "historical",
+                  "coords": [
+                        86.069295,
+                        27.681419
+                  ]
+            },
+            {
+                  "name": "Devi Than",
+                  "text": "Un altar hindu sacru dedicat zeiței Devi, situat în apropierea râului Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.035711,
+                        27.567869
+                  ]
+            },
+            {
+                  "name": "Urgeling Gumba",
+                  "text": "O mănăstire budistă tradițională (Gumba) care deservește comunitatea montană locală din regiunea Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.18554,
+                        27.617213
+                  ]
+            },
+            {
+                  "name": "Bhairab Mandir",
+                  "text": "Un templu hindu dedicat zeității feroce Bhairab, situat în valea râului Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.103662,
+                        27.676502
+                  ]
+            },
+            {
+                  "name": "Bindawasini Mandir",
+                  "text": "Un templu hindu tradițional dedicat zeiței Bindhyabasini în pitoreasca vale Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.085642,
+                        27.673408
+                  ]
+            },
+            {
+                  "name": "Sengkucha Stupa",
+                  "text": "O stupă budistă sacră cu arhitectură religioasă tradițională lângă râul Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.085246,
+                        27.678894
+                  ]
+            },
+            {
+                  "name": "Manjushree (Mandeshwori)",
+                  "text": "Un altar hindu dedicat lui Manjushree, zeitatea înțelepciunii, situat în peisajul râului Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.074031,
+                        27.682371
+                  ]
+            },
+            {
+                  "name": "Kali Mandir",
+                  "text": "Un templu hindu dedicat zeiței Kali, situat pe malul râului Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.076869,
+                        27.678445
+                  ]
+            },
+            {
+                  "name": "Narayan Mandir",
+                  "text": "Un templu hindu tradițional dedicat Domnului Narayan, o formă a lui Vishnu, în valea Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.073537,
+                        27.677575
+                  ]
+            },
+            {
+                  "name": "Dungal Seng",
+                  "text": "Un sit religios hindu situat în terenul muntos accidentat al bazinului râului Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.07711,
+                        27.677288
+                  ]
+            },
+            {
+                  "name": "Tripura Sundari Mandir",
+                  "text": "Un templu hindu semnificativ dedicat zeiței Tripura Sundari în regiunea râului Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.078283,
+                        27.678057
+                  ]
+            },
+            {
+                  "name": "Sengucha",
+                  "text": "Un lăcaș de cult hindu tradițional situat pe dealurile de deasupra văii râului Sun Kosi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.080872,
+                        27.676593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pukhurcha Pahara",
+                  "text": "Ancient stone ruins perched on a hillside overlooking the scenic Sun Kosi River valley.",
+                  "category": "historical",
+                  "coords": [
+                        86.073737,
+                        27.678497
+                  ]
+            },
+            {
+                  "name": "Pingal Dobar",
+                  "text": "An archaeological site featuring remnants of ancient settlements in the Sun Kosi River region.",
+                  "category": "historical",
+                  "coords": [
+                        86.07536,
+                        27.676495
+                  ]
+            },
+            {
+                  "name": "Bhimsen Dobar",
+                  "text": "An archaeological site containing ancient relics and structural remains in the Sun Kosi valley.",
+                  "category": "historical",
+                  "coords": [
+                        86.075669,
+                        27.677538
+                  ]
+            },
+            {
+                  "name": "Chakra Dobar",
+                  "text": "A historic archaeological site situated in the Sun Kosi river valley, containing traces of ancient settlements.",
+                  "category": "historical",
+                  "coords": [
+                        86.073491,
+                        27.675879
+                  ]
+            },
+            {
+                  "name": "Saharpadeu-Sarachiya Lunga",
+                  "text": "Abandoned stone ruins nestled within the rugged landscape of the Sun Kosi river region.",
+                  "category": "historical",
+                  "coords": [
+                        86.072622,
+                        27.678669
+                  ]
+            },
+            {
+                  "name": "Bag Khor",
+                  "text": "Historic stone ruins located in the mountainous terrain along the Sun Kosi river valley.",
+                  "category": "historical",
+                  "coords": [
+                        86.069295,
+                        27.681419
+                  ]
+            },
+            {
+                  "name": "Devi Than",
+                  "text": "A sacred Hindu shrine dedicated to the goddess Devi, situated near the Sun Kosi river.",
+                  "category": "landmark",
+                  "coords": [
+                        86.035711,
+                        27.567869
+                  ]
+            },
+            {
+                  "name": "Urgeling Gumba",
+                  "text": "A traditional Buddhist monastery (Gumba) serving the local mountain community in the Sun Kosi region.",
+                  "category": "landmark",
+                  "coords": [
+                        86.18554,
+                        27.617213
+                  ]
+            },
+            {
+                  "name": "Bhairab Mandir",
+                  "text": "A Hindu temple dedicated to the fierce deity Bhairab, located within the Sun Kosi river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        86.103662,
+                        27.676502
+                  ]
+            },
+            {
+                  "name": "Bindawasini Mandir",
+                  "text": "A traditional Hindu temple dedicated to Goddess Bindhyabasini in the scenic Sun Kosi valley.",
+                  "category": "landmark",
+                  "coords": [
+                        86.085642,
+                        27.673408
+                  ]
+            },
+            {
+                  "name": "Sengkucha Stupa",
+                  "text": "A sacred Buddhist stupa featuring traditional religious architecture near the Sun Kosi river.",
+                  "category": "landmark",
+                  "coords": [
+                        86.085246,
+                        27.678894
+                  ]
+            },
+            {
+                  "name": "Manjushree (Mandeshwori)",
+                  "text": "A Hindu shrine dedicated to Manjushree, the deity of wisdom, situated within the Sun Kosi river landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        86.074031,
+                        27.682371
+                  ]
+            },
+            {
+                  "name": "Kali Mandir",
+                  "text": "A Hindu temple dedicated to the goddess Kali, located along the banks of the Sun Kosi river.",
+                  "category": "landmark",
+                  "coords": [
+                        86.076869,
+                        27.678445
+                  ]
+            },
+            {
+                  "name": "Narayan Mandir",
+                  "text": "A traditional Hindu temple dedicated to Lord Narayan, a form of Vishnu, in the Sun Kosi valley.",
+                  "category": "landmark",
+                  "coords": [
+                        86.073537,
+                        27.677575
+                  ]
+            },
+            {
+                  "name": "Dungal Seng",
+                  "text": "A Hindu religious site located in the rugged mountain terrain of the Sun Kosi river basin.",
+                  "category": "landmark",
+                  "coords": [
+                        86.07711,
+                        27.677288
+                  ]
+            },
+            {
+                  "name": "Tripura Sundari Mandir",
+                  "text": "A significant Hindu temple dedicated to Goddess Tripura Sundari in the Sun Kosi river region.",
+                  "category": "landmark",
+                  "coords": [
+                        86.078283,
+                        27.678057
+                  ]
+            },
+            {
+                  "name": "Sengucha",
+                  "text": "A traditional Hindu place of worship situated in the hills above the Sun Kosi river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        86.080872,
+                        27.676593
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "NP-P3",
     coords: [86.1000, 27.6000],

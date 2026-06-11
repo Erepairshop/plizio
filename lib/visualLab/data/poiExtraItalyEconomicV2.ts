@@ -970,7 +970,7 @@ export const italyEconomicV2: POI[] = [
             },
             {
                   "name": "Nirvana",
-                  "text": "Ein komfortabler Strandclub im Hafenbereich von Livorno.",
+                  "text": "Strandclub Nirvana mit Restaurant im Hafenbereich von Porto Di Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.295666,
@@ -1098,7 +1098,7 @@ export const italyEconomicV2: POI[] = [
             },
             {
                   "name": "Nirvana",
-                  "text": "Kényelmes strandklub Livorno kikötői övezetében.",
+                  "text": "Nirvana strandklub étteremmel a livornói kikötő körzetében.",
                   "category": "recreational",
                   "coords": [
                         10.295666,
@@ -1226,7 +1226,7 @@ export const italyEconomicV2: POI[] = [
             },
             {
                   "name": "Nirvana",
-                  "text": "Un club de plajă confortabil în zona portului Livorno.",
+                  "text": "Clubul de plajă Nirvana, cu restaurant, în zona portului Porto Di Livorno.",
                   "category": "recreational",
                   "coords": [
                         10.295666,
@@ -1354,7 +1354,7 @@ export const italyEconomicV2: POI[] = [
             },
             {
                   "name": "Nirvana",
-                  "text": "A comfortable beach club in the port area of Livorno.",
+                  "text": "Beach club Nirvana with a restaurant in the Porto di Livorno area.",
                   "category": "recreational",
                   "coords": [
                         10.295666,
@@ -1771,7 +1771,7 @@ export const italyEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Ein Theater für experimentelle Kunst im Hafen von Ancona.",
+                  "text": "Kleines experimentelles Theater im Hafenviertel von Ancona.",
                   "category": "cultural",
                   "coords": [
                         13.515407,
@@ -1863,7 +1863,7 @@ export const italyEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Experimentális művészeti színház Ancona kikötőjében.",
+                  "text": "Kis kísérleti színház Ancona kikötői negyedében.",
                   "category": "cultural",
                   "coords": [
                         13.515407,
@@ -1955,7 +1955,7 @@ export const italyEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Un teatru de artă experimentală în portul din Ancona.",
+                  "text": "Teatru experimental mic în cartierul portuar din Ancona.",
                   "category": "cultural",
                   "coords": [
                         13.515407,
@@ -2047,7 +2047,7 @@ export const italyEconomicV2: POI[] = [
             },
             {
                   "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "A theater for experimental art in the Port of Ancona.",
+                  "text": "Small experimental theater in the port area of Ancona.",
                   "category": "cultural",
                   "coords": [
                         13.515407,
@@ -3805,7 +3805,7 @@ export const italyEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Spiaggia Largo Sermoneta",
-                  "text": "Ein Strandbereich an der Küste in der Nähe des Hafens von Neapel.",
+                  "text": "Stadtstrand Spiaggia Largo Sermoneta am Largo Sermoneta im Hafen von Neapel.",
                   "category": "recreational",
                   "coords": [
                         14.219114,
@@ -3825,7 +3825,7 @@ export const italyEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Spiaggia Largo Sermoneta",
-                  "text": "Tengerparti strandterület a nápolyi kikötő közelében.",
+                  "text": "Spiaggia Largo Sermoneta városi strand a Largo Sermoneta téren, a nápolyi kikötőben.",
                   "category": "recreational",
                   "coords": [
                         14.219114,
@@ -3845,7 +3845,7 @@ export const italyEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Spiaggia Largo Sermoneta",
-                  "text": "O zonă de plajă situată lângă portul din Napoli.",
+                  "text": "Plaja urbană Spiaggia Largo Sermoneta în Piața Largo Sermoneta din Portul Napoli.",
                   "category": "recreational",
                   "coords": [
                         14.219114,
@@ -3865,7 +3865,7 @@ export const italyEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Spiaggia Largo Sermoneta",
-                  "text": "A coastal beach area located near the Port of Naples.",
+                  "text": "Urban beach Spiaggia Largo Sermoneta at Largo Sermoneta in the Port of Naples.",
                   "category": "recreational",
                   "coords": [
                         14.219114,

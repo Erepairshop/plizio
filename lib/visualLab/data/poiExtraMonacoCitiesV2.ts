@@ -151,7 +151,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre Dame du Cap Fleuri",
-                  "text": "Eine katholische Kirche in Val Thore, die der Muttergottes gewidmet ist.",
+                  "text": "Römisch-katholische Kirche Unserer Lieben Frau vom Cap Fleuri in Jardin Val Thore, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.404769,
@@ -187,7 +187,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Roch",
-                  "text": "Eine kleine Kapelle in Val Thore, die dem heiligen Rochus gewidmet ist.",
+                  "text": "Römisch-katholische Kapelle, dem Heiligen Rochus geweiht, in Jardin Val Thore, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.411999,
@@ -196,7 +196,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Mont de la Bataille",
-                  "text": "Mont de la Bataille ist ein Berggipfel in Val Thore.",
+                  "text": "Natürlicher Hügel in Jardin Val Thore, Monaco.",
                   "category": "natural",
                   "coords": [
                         7.400063,
@@ -205,7 +205,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Roseraie Princesse Grace",
-                  "text": "Der Princess Grace Rose Garden ist ein bekannter Rosengarten in Val Thore.",
+                  "text": "Rosengarten, eröffnet 1984 im Jardin Val Thore.",
                   "category": "park",
                   "coords": [
                         7.419286,
@@ -241,7 +241,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Villa les Camélias",
-                  "text": "Villa les Camélias ist ein lokales Museum in Val Thore.",
+                  "text": "Villa les Camélias ist ein Museum in einer Villa im Jardin Val Thore, das Kamelien zeigt.",
                   "category": "museum",
                   "coords": [
                         7.397854,
@@ -250,7 +250,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Salle d'Exposition",
-                  "text": "Exhibition Hall ist eine Ausstellungsstätte für Museen in Val Thore.",
+                  "text": "Die Ausstellungshalle ist ein Museumsraum für Wechselausstellungen im Jardin Val Thore.",
                   "category": "museum",
                   "coords": [
                         7.424781,
@@ -268,7 +268,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Hauser & Wirth",
-                  "text": "Hauser & Wirth ist eine Galerie für zeitgenössische Kunst in Val Thore.",
+                  "text": "Hauser & Wirth ist ein Museum für moderne Kunst im Jardin Val Thore, Teil des globalen Galerienetzwerks.",
                   "category": "museum",
                   "coords": [
                         7.425897,
@@ -286,7 +286,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorium Rainier III",
-                  "text": "Das Auditorium Rainier III ist ein Veranstaltungsort für Theater und Konzerte in Val Thore.",
+                  "text": "Das Auditorium Rainier III ist ein kultureller Veranstaltungsort, benannt nach Fürst Rainier, im Jardin Val Thore.",
                   "category": "cultural",
                   "coords": [
                         7.429406,
@@ -295,7 +295,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre des Muses",
-                  "text": "Théâtre des Muses ist ein kleineres Theater in Val Thore.",
+                  "text": "Das Théâtre des Muses ist ein kulturelles Theater im Jardin Val Thore, das den Musen gewidmet ist.",
                   "category": "cultural",
                   "coords": [
                         7.416245,
@@ -304,7 +304,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de plein air Jean Cocteau",
-                  "text": "Théâtre de plein air Jean Cocteau ist ein Freilichttheater in Val Thore.",
+                  "text": "Das Théâtre de plein air Jean Cocteau ist ein Freilichttheater im Jardin Val Thore, benannt nach dem französischen Künstler.",
                   "category": "cultural",
                   "coords": [
                         7.402131,
@@ -322,7 +322,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Grotte Bleue",
-                  "text": "Grotte Bleue ist eine natürliche Attraktion in Val Thore.",
+                  "text": "Grotte Bleue (Blaue Grotte) ist eine Höhle im Jardin Val Thore, bekannt für ihr blaues Licht.",
                   "category": "landmark",
                   "coords": [
                         7.433676,
@@ -331,7 +331,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapiteau de Fontvieille",
-                  "text": "Chapiteau de Fontvieille ist ein bekannter Veranstaltungsort in Val Thore.",
+                  "text": "Chapiteau de Fontvieille ist ein Zeltbau oder Zirkuszelt als Wahrzeichen im Jardin Val Thore.",
                   "category": "landmark",
                   "coords": [
                         7.418794,
@@ -358,7 +358,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Tête de Chien",
-                  "text": "Tête de Chien ist ein markanter Aussichtspunkt über Val Thore.",
+                  "text": "Tête de Chien (Hundekopf) ist eine natürliche Felsformation, die einem Hundekopf ähnelt, im Jardin Val Thore.",
                   "category": "natural",
                   "coords": [
                         7.402781,
@@ -367,7 +367,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Nuit à la turbie",
-                  "text": "Nuit à la turbie ist ein Aussichtspunkt in Val Thore.",
+                  "text": "Ein natürlicher Nachtaussichtspunkt im Jardin Val Thore mit Panoramablick auf die umliegenden Berge.",
                   "category": "natural",
                   "coords": [
                         7.399663,
@@ -385,7 +385,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Thermes Marins Monte-Carlo",
-                  "text": "Thermes Marins Monte-Carlo ist eine Wellness- und Badeanlage in Val Thore.",
+                  "text": "Ein familienfreundliches Thermalbad in Jardin Val Thore mit Meerwasserbecken und Wellnessanwendungen.",
                   "category": "family",
                   "coords": [
                         7.427069,
@@ -594,7 +594,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre Dame du Cap Fleuri",
-                  "text": "Szűz Máriának szentelt katolikus templom Val Thore-ban.",
+                  "text": "Római katolikus templom, a Cap Fleuri-i Szűzanyának szentelve, Jardin Val Thore-ban, Monacóban.",
                   "category": "religious",
                   "coords": [
                         7.404769,
@@ -630,7 +630,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Roch",
-                  "text": "Szent Rókusnak szentelt kis kápolna Val Thore-ban.",
+                  "text": "Római katolikus kápolna, Szent Rókusnak szentelve, Jardin Val Thore-ban, Monacóban.",
                   "category": "religious",
                   "coords": [
                         7.411999,
@@ -639,7 +639,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Mont de la Bataille",
-                  "text": "A Mont de la Bataille egy hegycsúcs Val Thore területén.",
+                  "text": "Természetes domb Jardin Val Thore-ban, Monacóban.",
                   "category": "natural",
                   "coords": [
                         7.400063,
@@ -648,7 +648,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Roseraie Princesse Grace",
-                  "text": "A Princess Grace Rose Garden egy híres rózsakert Val Thore területén.",
+                  "text": "Rózsakert, 1984-ben nyílt meg a Val Thore-kertben.",
                   "category": "park",
                   "coords": [
                         7.419286,
@@ -684,7 +684,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Villa les Camélias",
-                  "text": "A Villa les Camélias egy helyi múzeum Val Thore területén.",
+                  "text": "A Villa les Camélias egy múzeum egy villában a Jardin Val Thore-ban, kaméliákat bemutatva.",
                   "category": "museum",
                   "coords": [
                         7.397854,
@@ -693,7 +693,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Salle d'Exposition",
-                  "text": "Az Exhibition Hall egy kiállítóterem Val Thore területén.",
+                  "text": "A Kiállítóterem múzeumi tér időszaki kiállításoknak a Jardin Val Thore-ban.",
                   "category": "museum",
                   "coords": [
                         7.424781,
@@ -711,7 +711,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Hauser & Wirth",
-                  "text": "A Hauser & Wirth egy kortárs művészeti galéria Val Thore területén.",
+                  "text": "A Hauser & Wirth modern művészeti múzeum a Jardin Val Thore-ban, a globális galériahálózat része.",
                   "category": "museum",
                   "coords": [
                         7.425897,
@@ -729,7 +729,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorium Rainier III",
-                  "text": "Az Auditorium Rainier III egy színházi és koncerthelyszín Val Thore területén.",
+                  "text": "Az Auditorium Rainier III kulturális eseményhelyszín, Rainier hercegről elnevezve, a Jardin Val Thore-ban.",
                   "category": "cultural",
                   "coords": [
                         7.429406,
@@ -738,7 +738,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre des Muses",
-                  "text": "A Théâtre des Muses egy kisebb színház Val Thore területén.",
+                  "text": "A Théâtre des Muses kulturális színház a Jardin Val Thore-ban, a Múzsáknak szentelve.",
                   "category": "cultural",
                   "coords": [
                         7.416245,
@@ -747,7 +747,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de plein air Jean Cocteau",
-                  "text": "A Théâtre de plein air Jean Cocteau egy szabadtéri színház Val Thore területén.",
+                  "text": "A Théâtre de plein air Jean Cocteau szabadtéri színház a Jardin Val Thore-ban, a francia művészről elnevezve.",
                   "category": "cultural",
                   "coords": [
                         7.402131,
@@ -765,7 +765,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Grotte Bleue",
-                  "text": "A Grotte Bleue egy természeti látványosság Val Thore területén.",
+                  "text": "A Grotte Bleue (Kék barlang) egy barlang a Jardin Val Thore-ban, kék fényéről ismert.",
                   "category": "landmark",
                   "coords": [
                         7.433676,
@@ -774,7 +774,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapiteau de Fontvieille",
-                  "text": "A Chapiteau de Fontvieille egy híres rendezvényhelyszín Val Thore területén.",
+                  "text": "A Chapiteau de Fontvieille sátorszerkezet vagy cirkuszsátor nevezetesség a Jardin Val Thore-ban.",
                   "category": "landmark",
                   "coords": [
                         7.418794,
@@ -801,7 +801,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Tête de Chien",
-                  "text": "A Tête de Chien egy jellegzetes kilátópont Val Thore felett.",
+                  "text": "A Tête de Chien (Kutyafej) természetes sziklaalakzat, amely egy kutya fejére hasonlít, a Jardin Val Thore-ban.",
                   "category": "natural",
                   "coords": [
                         7.402781,
@@ -810,7 +810,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Nuit à la turbie",
-                  "text": "A Nuit à la turbie egy kilátópont Val Thore területén.",
+                  "text": "Egy természetes éjszakai kilátóhely a Jardin Val Thore-ban, panorámával a környező hegyekre.",
                   "category": "natural",
                   "coords": [
                         7.399663,
@@ -828,7 +828,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Thermes Marins Monte-Carlo",
-                  "text": "A Thermes Marins Monte-Carlo egy gyógyfürdő és wellness központ Val Thore területén.",
+                  "text": "Egy családbarát termálfürdő a Jardin Val Thore-ban, tengervizes medencékkel és wellness-kezelésekkel.",
                   "category": "family",
                   "coords": [
                         7.427069,
@@ -1037,7 +1037,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre Dame du Cap Fleuri",
-                  "text": "O biserică catolică în Val Thore, dedicată Maicii Domnului.",
+                  "text": "Biserică romano-catolică dedicată Maicii Domnului de la Cap Fleuri în Jardin Val Thore, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.404769,
@@ -1073,7 +1073,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Roch",
-                  "text": "O mică chapelă în Val Thore, dedicată Sfântului Roch.",
+                  "text": "Capelă romano-catolică dedicată Sfântului Roch în Jardin Val Thore, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.411999,
@@ -1082,7 +1082,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Mont de la Bataille",
-                  "text": "Mont de la Bataille este un vârf montan din Val Thore.",
+                  "text": "Deal natural în Jardin Val Thore, Monaco.",
                   "category": "natural",
                   "coords": [
                         7.400063,
@@ -1091,7 +1091,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Roseraie Princesse Grace",
-                  "text": "Princess Grace Rose Garden este o grădină de trandafiri celebră din Val Thore.",
+                  "text": "Grădină de trandafiri deschisă în 1984 în Jardin Val Thore.",
                   "category": "park",
                   "coords": [
                         7.419286,
@@ -1127,7 +1127,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Villa les Camélias",
-                  "text": "Villa les Camélias este un muzeu local din Val Thore.",
+                  "text": "Villa les Camélias este un muzeu găzduit într-o vilă în Jardin Val Thore, expunând camelii.",
                   "category": "museum",
                   "coords": [
                         7.397854,
@@ -1136,7 +1136,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Salle d'Exposition",
-                  "text": "Exhibition Hall este o sală de expoziții muzeale din Val Thore.",
+                  "text": "Sala de Expoziții este un spațiu muzeal pentru expoziții temporare în Jardin Val Thore.",
                   "category": "museum",
                   "coords": [
                         7.424781,
@@ -1154,7 +1154,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Hauser & Wirth",
-                  "text": "Hauser & Wirth este o galerie de artă contemporană din Val Thore.",
+                  "text": "Hauser & Wirth este un muzeu de artă modernă în Jardin Val Thore, parte a rețelei globale de galerii.",
                   "category": "museum",
                   "coords": [
                         7.425897,
@@ -1172,7 +1172,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorium Rainier III",
-                  "text": "Auditorium Rainier III este o sală de spectacole și teatru din Val Thore.",
+                  "text": "Auditorium Rainier III este o locație culturală numită după Prințul Rainier, în Jardin Val Thore.",
                   "category": "cultural",
                   "coords": [
                         7.429406,
@@ -1181,7 +1181,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre des Muses",
-                  "text": "Théâtre des Muses este un teatru mai mic din Val Thore.",
+                  "text": "Théâtre des Muses este un teatru cultural în Jardin Val Thore, dedicat muzelor.",
                   "category": "cultural",
                   "coords": [
                         7.416245,
@@ -1190,7 +1190,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de plein air Jean Cocteau",
-                  "text": "Théâtre de plein air Jean Cocteau este un teatru în aer liber din Val Thore.",
+                  "text": "Théâtre de plein air Jean Cocteau este un teatru în aer liber în Jardin Val Thore, numit după artistul francez.",
                   "category": "cultural",
                   "coords": [
                         7.402131,
@@ -1208,7 +1208,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Grotte Bleue",
-                  "text": "Grotte Bleue este o atracție naturală din Val Thore.",
+                  "text": "Grotte Bleue (Grota Albastră) este o peșteră în Jardin Val Thore, cunoscută pentru lumina sa albastră.",
                   "category": "landmark",
                   "coords": [
                         7.433676,
@@ -1217,7 +1217,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapiteau de Fontvieille",
-                  "text": "Chapiteau de Fontvieille este un loc de evenimente cunoscut din Val Thore.",
+                  "text": "Chapiteau de Fontvieille este o structură de cort sau circ în Jardin Val Thore, un reper.",
                   "category": "landmark",
                   "coords": [
                         7.418794,
@@ -1244,7 +1244,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Tête de Chien",
-                  "text": "Tête de Chien este un punct de belvedere proeminent deasupra Val Thore.",
+                  "text": "Tête de Chien (Cap de Câine) este o formațiune naturală de stâncă asemănătoare unui cap de câine, în Jardin Val Thore.",
                   "category": "natural",
                   "coords": [
                         7.402781,
@@ -1253,7 +1253,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Nuit à la turbie",
-                  "text": "Nuit à la turbie este un punct de belvedere din Val Thore.",
+                  "text": "Un punct natural de observare nocturnă în Jardin Val Thore, cu panoramă asupra munților din jur.",
                   "category": "natural",
                   "coords": [
                         7.399663,
@@ -1271,7 +1271,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Thermes Marins Monte-Carlo",
-                  "text": "Thermes Marins Monte-Carlo este un centru termal și de wellness din Val Thore.",
+                  "text": "O baie termală prietenoasă cu familia în Jardin Val Thore, cu piscine cu apă de mare și tratamente de wellness.",
                   "category": "family",
                   "coords": [
                         7.427069,
@@ -1480,7 +1480,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre Dame du Cap Fleuri",
-                  "text": "A Catholic church in Val Thore dedicated to Our Lady.",
+                  "text": "Roman Catholic church dedicated to Our Lady of Cap Fleuri in Jardin Val Thore, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.404769,
@@ -1516,7 +1516,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Roch",
-                  "text": "A small chapel in Val Thore dedicated to Saint Roch.",
+                  "text": "Roman Catholic chapel dedicated to Saint Roch in Jardin Val Thore, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.411999,
@@ -1525,7 +1525,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Mont de la Bataille",
-                  "text": "Mont de la Bataille is a mountain peak in Val Thore.",
+                  "text": "Natural hill in Jardin Val Thore, Monaco.",
                   "category": "natural",
                   "coords": [
                         7.400063,
@@ -1534,7 +1534,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Princess Grace Rose Garden",
-                  "text": "The Princess Grace Rose Garden is a famous rose garden in Val Thore.",
+                  "text": "Rose garden opened in 1984 in Jardin Val Thore.",
                   "category": "park",
                   "coords": [
                         7.419286,
@@ -1570,7 +1570,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Villa les Camélias",
-                  "text": "Villa les Camélias is a local museum in Val Thore.",
+                  "text": "Villa les Camélias is a museum housed in a villa in Jardin Val Thore, showcasing camellias.",
                   "category": "museum",
                   "coords": [
                         7.397854,
@@ -1579,7 +1579,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Exhibition Hall",
-                  "text": "Exhibition Hall is a museum exhibition space in Val Thore.",
+                  "text": "Exhibition Hall is a museum space for temporary exhibitions in Jardin Val Thore.",
                   "category": "museum",
                   "coords": [
                         7.424781,
@@ -1597,7 +1597,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Hauser & Wirth",
-                  "text": "Hauser & Wirth is a contemporary art gallery in Val Thore.",
+                  "text": "Hauser & Wirth is a modern art museum in Jardin Val Thore, part of the global gallery network.",
                   "category": "museum",
                   "coords": [
                         7.425897,
@@ -1615,7 +1615,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorium Rainier III",
-                  "text": "Auditorium Rainier III is a theatre and concert venue in Val Thore.",
+                  "text": "Auditorium Rainier III is a cultural venue named after Prince Rainier in Jardin Val Thore.",
                   "category": "cultural",
                   "coords": [
                         7.429406,
@@ -1624,7 +1624,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre des Muses",
-                  "text": "Théâtre des Muses is a small theatre in Val Thore.",
+                  "text": "Théâtre des Muses is a cultural theatre in Jardin Val Thore dedicated to the Muses.",
                   "category": "cultural",
                   "coords": [
                         7.416245,
@@ -1633,7 +1633,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre de plein air Jean Cocteau",
-                  "text": "Théâtre de plein air Jean Cocteau is an open-air theatre in Val Thore.",
+                  "text": "Théâtre de plein air Jean Cocteau is an open-air theatre in Jardin Val Thore named after the French artist.",
                   "category": "cultural",
                   "coords": [
                         7.402131,
@@ -1651,7 +1651,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Grotte Bleue",
-                  "text": "Grotte Bleue is a natural attraction in Val Thore.",
+                  "text": "Grotte Bleue (Blue Grotto) is a cave in Jardin Val Thore known for its blue light.",
                   "category": "landmark",
                   "coords": [
                         7.433676,
@@ -1660,7 +1660,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapiteau de Fontvieille",
-                  "text": "Chapiteau de Fontvieille is a well-known event venue in Val Thore.",
+                  "text": "Chapiteau de Fontvieille is a landmark tent structure or circus tent in Jardin Val Thore.",
                   "category": "landmark",
                   "coords": [
                         7.418794,
@@ -1687,7 +1687,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Tête de Chien",
-                  "text": "Tête de Chien is a prominent viewpoint overlooking Val Thore.",
+                  "text": "Tête de Chien (Dog's Head) is a natural rock formation resembling a dog's head in Jardin Val Thore.",
                   "category": "natural",
                   "coords": [
                         7.402781,
@@ -1696,7 +1696,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Nuit à la turbie",
-                  "text": "Nuit à la turbie is a viewpoint in Val Thore.",
+                  "text": "A natural night-viewing spot in Jardin Val Thore, offering a panorama of the surrounding mountains.",
                   "category": "natural",
                   "coords": [
                         7.399663,
@@ -1714,7 +1714,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Thermes Marins Monte-Carlo",
-                  "text": "Thermes Marins Monte-Carlo is a spa and wellness complex in Val Thore.",
+                  "text": "A family-friendly thermal spa in Jardin Val Thore, with seawater pools and wellness treatments.",
                   "category": "family",
                   "coords": [
                         7.427069,
@@ -1825,7 +1825,7 @@ export const monacoCitiesV2: POI[] = [
       "de": [
             {
                   "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
-                  "text": "Die private Oldtimer-Sammlung von Fürst Rainier III. von Monaco.",
+                  "text": "Museum mit der Oldtimersammlung von Fürst Rainier III.",
                   "category": "museum",
                   "coords": [
                         7.417149,
@@ -1834,7 +1834,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Ozeanographisches Museum Monaco",
-                  "text": "Ein weltberühmtes Museum für Meereskunde und Aquarien in Monaco.",
+                  "text": "Ozeanografisches Museum, gegründet von Fürst Albert I., auf einer Klippe über dem Mittelmeer.",
                   "category": "museum",
                   "coords": [
                         7.425534,
@@ -1879,7 +1879,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Sainte-Dévote",
-                  "text": "Eine Kirche, die der Schutzpatronin von Monaco gewidmet ist.",
+                  "text": "Kapelle der Heiligen Devota, Schutzpatronin von Monaco, mit einem Glasfenster, das sie darstellt.",
                   "category": "religious",
                   "coords": [
                         7.420924,
@@ -1906,7 +1906,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église des Carmes",
-                  "text": "Eine katholische Kirche des Ordens der Karmeliten in Monaco.",
+                  "text": "Karmeliterkirche im neoromanischen Stil, bekannt für ihren hohen Glockenturm.",
                   "category": "religious",
                   "coords": [
                         7.434805,
@@ -1969,7 +1969,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Laurent",
-                  "text": "Eine katholische Kirche in der Nähe von Monaco.",
+                  "text": "Römisch-katholische Kirche, dem Heiligen Laurentius geweiht, in Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.382925,
@@ -1978,7 +1978,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre Dame du Cap Fleuri",
-                  "text": "Eine moderne Kirche in Cap-d'Ail an der Grenze zu Monaco.",
+                  "text": "Römisch-katholische Kirche, Unserer Lieben Frau vom Cap Fleuri geweiht, in Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.404769,
@@ -1996,7 +1996,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église du Sacré Coeur",
-                  "text": "Die Herz-Jesu-Kirche in Monaco.",
+                  "text": "Römisch-katholische Kirche, dem Heiligsten Herzen Jesu geweiht, in Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.417524,
@@ -2014,7 +2014,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Roch",
-                  "text": "Eine kleine historische Kapelle in Monaco.",
+                  "text": "Römisch-katholische Kapelle, dem Heiligen Rochus geweiht, in Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.411999,
@@ -2023,7 +2023,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Mont de la Bataille",
-                  "text": "Ein Hügel in den Seealpen oberhalb von Monaco.",
+                  "text": "Natürlicher Hügel in Les Revoires, Monaco.",
                   "category": "natural",
                   "coords": [
                         7.400063,
@@ -2259,7 +2259,7 @@ export const monacoCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
-                  "text": "Monaco hercegének magánautó-gyűjteménye.",
+                  "text": "Múzeum, amely Rainier herceg veteránautó-gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
                         7.417149,
@@ -2268,7 +2268,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Océanographique",
-                  "text": "Világhírű tengerkutatási múzeum és akvárium Monacóban.",
+                  "text": "Tengerészeti múzeum, amelyet I. Albert herceg alapított, a Földközi-tengerre néző sziklán.",
                   "category": "museum",
                   "coords": [
                         7.425534,
@@ -2313,7 +2313,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Sainte-Dévote",
-                  "text": "Monaco védőszentjének szentelt templom.",
+                  "text": "Szent Devótának, Monaco védőszentjének szentelt kápolna, ólomüveg ablakkal.",
                   "category": "religious",
                   "coords": [
                         7.420924,
@@ -2340,7 +2340,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église des Carmes",
-                  "text": "A karmelita rend katolikus temploma Monacóban.",
+                  "text": "Karmelita templom neoromán stílusban, magas harangtornyáról ismert.",
                   "category": "religious",
                   "coords": [
                         7.434805,
@@ -2403,7 +2403,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Laurent",
-                  "text": "Katolikus templom Monaco közelében.",
+                  "text": "Római katolikus templom, Szent Lőrincnek szentelve, Les Revoires-ban, Monacóban.",
                   "category": "religious",
                   "coords": [
                         7.382925,
@@ -2412,7 +2412,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre Dame du Cap Fleuri",
-                  "text": "Modern templom Cap-d'Ailban, Monaco határán.",
+                  "text": "Római katolikus templom, a Cap Fleuri-i Szűzanyának szentelve, Les Revoires-ban, Monacóban.",
                   "category": "religious",
                   "coords": [
                         7.404769,
@@ -2430,7 +2430,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église du Sacré Coeur",
-                  "text": "A monacói Szent Szív-templom.",
+                  "text": "Római katolikus templom, a Szent Szívnek szentelve, Les Revoires-ban, Monacóban.",
                   "category": "religious",
                   "coords": [
                         7.417524,
@@ -2448,7 +2448,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Roch",
-                  "text": "Kis történelmi kápolna Monacóban.",
+                  "text": "Római katolikus kápolna, Szent Rókusnak szentelve, Les Revoires-ban, Monacóban.",
                   "category": "religious",
                   "coords": [
                         7.411999,
@@ -2457,7 +2457,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Mont de la Bataille",
-                  "text": "Domb a Tengeri-Alpokban, Monaco felett.",
+                  "text": "Természetes domb Les Revoires-ban, Monacóban.",
                   "category": "natural",
                   "coords": [
                         7.400063,
@@ -2693,7 +2693,7 @@ export const monacoCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
-                  "text": "Colecția privată de automobile a Prințului de Monaco.",
+                  "text": "Muzeu care adăpostește colecția de mașini vintage a Prințului Rainier III.",
                   "category": "museum",
                   "coords": [
                         7.417149,
@@ -2702,7 +2702,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Musée Océanographique",
-                  "text": "Un muzeu de oceanografie și acvariu renumit în întreaga lume din Monaco.",
+                  "text": "Muzeu oceanografic fondat de Prințul Albert I, situat pe o stâncă deasupra Mării Mediterane.",
                   "category": "museum",
                   "coords": [
                         7.425534,
@@ -2747,7 +2747,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Sainte-Dévote",
-                  "text": "O biserică dedicată patroanei spirituale a principatului Monaco.",
+                  "text": "Capelă dedicată Sfintei Devota, patroana Monaco, cu un vitraliu care o înfățișează.",
                   "category": "religious",
                   "coords": [
                         7.420924,
@@ -2774,7 +2774,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église des Carmes",
-                  "text": "O biserică catolică a ordinului carmelit din Monaco.",
+                  "text": "Biserică Carmelită în stil neo-romanic, cunoscută pentru turnul său înalt.",
                   "category": "religious",
                   "coords": [
                         7.434805,
@@ -2837,7 +2837,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Laurent",
-                  "text": "O biserică catolică situată în apropiere de Monaco.",
+                  "text": "Biserică romano-catolică dedicată Sfântului Laurențiu în Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.382925,
@@ -2846,7 +2846,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre Dame du Cap Fleuri",
-                  "text": "O biserică modernă din Cap-d'Ail, la granița cu Monaco.",
+                  "text": "Biserică romano-catolică dedicată Maicii Domnului de la Cap Fleuri în Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.404769,
@@ -2864,7 +2864,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église du Sacré Coeur",
-                  "text": "Biserica Sacré Coeur din Monaco.",
+                  "text": "Biserică romano-catolică dedicată Inimii Sacre în Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.417524,
@@ -2882,7 +2882,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Roch",
-                  "text": "O mică capelă istorică din Monaco.",
+                  "text": "Capelă romano-catolică dedicată Sfântului Roch în Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.411999,
@@ -2891,7 +2891,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Mont de la Bataille",
-                  "text": "Un deal din Alpii Maritimi situat deasupra Monaco.",
+                  "text": "Deal natural în Les Revoires, Monaco.",
                   "category": "natural",
                   "coords": [
                         7.400063,
@@ -3127,7 +3127,7 @@ export const monacoCitiesV2: POI[] = [
       "en": [
             {
                   "name": "The Cars collection of HSH the Prince of Monaco",
-                  "text": "The private collection of vintage cars belonging to the Prince of Monaco.",
+                  "text": "Museum housing the vintage car collection of Prince Rainier III.",
                   "category": "museum",
                   "coords": [
                         7.417149,
@@ -3136,7 +3136,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Oceanographic Museum of Monaco",
-                  "text": "A world-famous museum of oceanography and aquarium in Monaco.",
+                  "text": "Oceanographic museum founded by Prince Albert I, perched on a cliff overlooking the Mediterranean.",
                   "category": "museum",
                   "coords": [
                         7.425534,
@@ -3181,7 +3181,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Sainte-Dévote",
-                  "text": "A church dedicated to the patron saint of Monaco.",
+                  "text": "Chapel dedicated to Saint Devota, patron saint of Monaco, with a stained glass window depicting her.",
                   "category": "religious",
                   "coords": [
                         7.420924,
@@ -3208,7 +3208,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église des Carmes",
-                  "text": "A Catholic church of the Carmelite order in Monaco.",
+                  "text": "Carmelite church in Neo-Romanesque style, known for its tall bell tower.",
                   "category": "religious",
                   "coords": [
                         7.434805,
@@ -3271,7 +3271,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Laurent",
-                  "text": "A Catholic church located near Monaco.",
+                  "text": "Roman Catholic church dedicated to Saint Lawrence in Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.382925,
@@ -3280,7 +3280,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre Dame du Cap Fleuri",
-                  "text": "A modern church in Cap-d'Ail on the border of Monaco.",
+                  "text": "Roman Catholic church dedicated to Our Lady of Cap Fleuri in Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.404769,
@@ -3298,7 +3298,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Église du Sacré Coeur",
-                  "text": "The Sacred Heart church in Monaco.",
+                  "text": "Roman Catholic church dedicated to the Sacred Heart in Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.417524,
@@ -3316,7 +3316,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Chapelle Saint-Roch",
-                  "text": "A small historical chapel in Monaco.",
+                  "text": "Roman Catholic chapel dedicated to Saint Roch in Les Revoires, Monaco.",
                   "category": "religious",
                   "coords": [
                         7.411999,
@@ -3325,7 +3325,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Mont de la Bataille",
-                  "text": "A hill in the Maritime Alps located above Monaco.",
+                  "text": "Natural hill in Les Revoires, Monaco.",
                   "category": "natural",
                   "coords": [
                         7.400063,
@@ -3643,7 +3643,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Méridien Beach Plaza",
-                  "text": "Das Méridien Beach Plaza in Moneghetti ist ein Resort mit Zugang zu Strand und Wasser.",
+                  "text": "Ein familienfreundliches Strandhotel in Moneghetti mit direktem Zugang zum Mittelmeer.",
                   "category": "family",
                   "coords": [
                         7.436257,
@@ -3652,7 +3652,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine Princesse Charlène",
-                  "text": "Die Piscine Princesse Charlène in Moneghetti ist eine öffentliche Schwimmanlage.",
+                  "text": "Ein öffentliches Schwimmbad in Moneghetti, benannt nach Prinzessin Charlène, mit einem Kinderbereich.",
                   "category": "family",
                   "coords": [
                         7.431122,
@@ -3699,7 +3699,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Méridien Beach Plaza",
-                  "text": "A moneghetti Méridien Beach Plaza egy üdülőhely, amely hozzáférést biztosít a strandhoz és a vízhez.",
+                  "text": "Egy családbarát tengerparti szálloda Moneghetti-ben, közvetlen hozzáféréssel a Földközi-tengerhez.",
                   "category": "family",
                   "coords": [
                         7.436257,
@@ -3708,7 +3708,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine Princesse Charlène",
-                  "text": "A moneghetti Piscine Princesse Charlène egy nyilvános úszólétesítmény.",
+                  "text": "Egy nyilvános uszoda Moneghetti-ben, Charlène hercegnőről elnevezve, gyerekjátszótérrel.",
                   "category": "family",
                   "coords": [
                         7.431122,
@@ -3755,7 +3755,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Méridien Beach Plaza",
-                  "text": "Méridien Beach Plaza din Moneghetti este o stațiune cu acces la plajă și apă.",
+                  "text": "Un hotel de plajă prietenos cu familia în Moneghetti, cu acces direct la Marea Mediterană.",
                   "category": "family",
                   "coords": [
                         7.436257,
@@ -3764,7 +3764,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine Princesse Charlène",
-                  "text": "Piscine Princesse Charlène din Moneghetti este o facilitate publică de înot.",
+                  "text": "O piscină publică în Moneghetti, numită după Prințesa Charlène, cu zonă de joacă pentru copii.",
                   "category": "family",
                   "coords": [
                         7.431122,
@@ -3811,7 +3811,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Méridien Beach Plaza",
-                  "text": "Méridien Beach Plaza in Moneghetti is a resort with access to the beach and water.",
+                  "text": "A family-friendly beachfront hotel in Moneghetti, with direct access to the Mediterranean Sea.",
                   "category": "family",
                   "coords": [
                         7.436257,
@@ -3820,7 +3820,7 @@ export const monacoCitiesV2: POI[] = [
             },
             {
                   "name": "Piscine Princesse Charlène",
-                  "text": "Piscine Princesse Charlène in Moneghetti is a public swimming facility.",
+                  "text": "A public swimming pool in Moneghetti, named after Princess Charlène, with a children's play area.",
                   "category": "family",
                   "coords": [
                         7.431122,

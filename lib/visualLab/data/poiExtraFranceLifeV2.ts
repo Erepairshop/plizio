@@ -565,7 +565,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Mont Gioberney",
-                  "text": "Ein Gipfel im Écrins-Massiv.",
+                  "text": "Vergletscherter Gipfel im Écrins-Massiv.",
                   "category": "landmark",
                   "coords": [
                         6.317352,
@@ -574,7 +574,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe Richardson",
-                  "text": "Ein Berggipfel im Nationalpark Écrins.",
+                  "text": "Felsiger Gipfel in der Écrins-Kette.",
                   "category": "landmark",
                   "coords": [
                         6.320118,
@@ -583,7 +583,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Sommet Sud des Bans",
-                  "text": "Ein hoher Gipfel im Nationalpark Écrins.",
+                  "text": "Südgipfel des Bans-Massivs im Écrins-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         6.33615,
@@ -592,7 +592,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Têtes de la Pilatte",
-                  "text": "Berggipfel im Nationalpark Écrins.",
+                  "text": "Doppelgipfel der Pilatte im Écrins-Massiv.",
                   "category": "landmark",
                   "coords": [
                         6.340312,
@@ -601,7 +601,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe de la Pilatte",
-                  "text": "Ein Berggipfel im Nationalpark Écrins.",
+                  "text": "Spitze der Pilatte im Écrins-Massiv.",
                   "category": "landmark",
                   "coords": [
                         6.344372,
@@ -610,7 +610,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pic des Aupillous",
-                  "text": "Ein markanter Gipfel im Nationalpark Écrins.",
+                  "text": "Gipfel der Aupillous im Écrins-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         6.329517,
@@ -630,7 +630,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pics du Says",
-                  "text": "Hegycsúcsok az Écrins Nemzeti Parkban.",
+                  "text": "Hegycsúcs az Écrins Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         6.304261,
@@ -639,7 +639,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Mont Gioberney",
-                  "text": "Egy csúcs az Écrins-masszívumban.",
+                  "text": "Gleccserekkel borított csúcs az Écrins-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         6.317352,
@@ -648,7 +648,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe Richardson",
-                  "text": "Hegycsúcs az Écrins Nemzeti Parkban.",
+                  "text": "Sziklás csúcs az Écrins-hegységben.",
                   "category": "landmark",
                   "coords": [
                         6.320118,
@@ -657,7 +657,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Sommet Sud des Bans",
-                  "text": "Magas hegycsúcs az Écrins Nemzeti Parkban.",
+                  "text": "A Bans-masszívum déli csúcsa az Écrins Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         6.33615,
@@ -666,7 +666,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Têtes de la Pilatte",
-                  "text": "Hegycsúcsok az Écrins Nemzeti Parkban.",
+                  "text": "A Pilatte ikercsúcsai az Écrins-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         6.340312,
@@ -675,7 +675,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe de la Pilatte",
-                  "text": "Hegycsúcs az Écrins Nemzeti Parkban.",
+                  "text": "A Pilatte csúcsa az Écrins-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         6.344372,
@@ -684,7 +684,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pic des Aupillous",
-                  "text": "Jellegzetes hegycsúcs az Écrins Nemzeti Parkban.",
+                  "text": "Az Aupillous csúcsa az Écrins Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         6.329517,
@@ -704,7 +704,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pics du Says",
-                  "text": "Vârfuri montane în Parcul Național Écrins.",
+                  "text": "Vârf muntos în Parcul Național Écrins.",
                   "category": "landmark",
                   "coords": [
                         6.304261,
@@ -713,7 +713,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Mont Gioberney",
-                  "text": "Un vârf în masivul Écrins.",
+                  "text": "Vârf acoperit de ghețari în masivul Écrins.",
                   "category": "landmark",
                   "coords": [
                         6.317352,
@@ -722,7 +722,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe Richardson",
-                  "text": "Un vârf montan în Parcul Național Écrins.",
+                  "text": "Vârf stâncos în lanțul Écrins.",
                   "category": "landmark",
                   "coords": [
                         6.320118,
@@ -731,7 +731,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Sommet Sud des Bans",
-                  "text": "Un vârf înalt în Parcul Național Écrins.",
+                  "text": "Vârful sudic al masivului Bans în Parcul Național Écrins.",
                   "category": "landmark",
                   "coords": [
                         6.33615,
@@ -740,7 +740,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Têtes de la Pilatte",
-                  "text": "Vârfuri montane în Parcul Național Écrins.",
+                  "text": "Vârfurile gemene ale Pilattei în masivul Écrins.",
                   "category": "landmark",
                   "coords": [
                         6.340312,
@@ -749,7 +749,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe de la Pilatte",
-                  "text": "Un vârf montan în Parcul Național Écrins.",
+                  "text": "Vârful Pilattei în masivul Écrins.",
                   "category": "landmark",
                   "coords": [
                         6.344372,
@@ -758,7 +758,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pic des Aupillous",
-                  "text": "Un vârf muntos proeminent în Parcul Național Écrins.",
+                  "text": "Vârful Aupillous în Parcul Național Écrins.",
                   "category": "landmark",
                   "coords": [
                         6.329517,
@@ -778,7 +778,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pics du Says",
-                  "text": "Mountain peaks in the Écrins National Park.",
+                  "text": "Mountain peak in the Écrins National Park.",
                   "category": "landmark",
                   "coords": [
                         6.304261,
@@ -787,7 +787,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Mont Gioberney",
-                  "text": "A peak in the Écrins massif.",
+                  "text": "Glacier-covered summit in the Écrins massif.",
                   "category": "landmark",
                   "coords": [
                         6.317352,
@@ -796,7 +796,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe Richardson",
-                  "text": "A mountain peak in the Écrins National Park.",
+                  "text": "Rocky peak in the Écrins range.",
                   "category": "landmark",
                   "coords": [
                         6.320118,
@@ -805,7 +805,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Sommet Sud des Bans",
-                  "text": "A high peak in the Écrins National Park.",
+                  "text": "Southern summit of the Bans massif in the Écrins National Park.",
                   "category": "landmark",
                   "coords": [
                         6.33615,
@@ -814,7 +814,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Têtes de la Pilatte",
-                  "text": "Mountain peaks in the Écrins National Park.",
+                  "text": "Twin peaks of the Pilatte in the Écrins massif.",
                   "category": "landmark",
                   "coords": [
                         6.340312,
@@ -823,7 +823,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe de la Pilatte",
-                  "text": "A mountain peak in the Écrins National Park.",
+                  "text": "Point of the Pilatte in the Écrins massif.",
                   "category": "landmark",
                   "coords": [
                         6.344372,
@@ -832,7 +832,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pic des Aupillous",
-                  "text": "A prominent mountain peak in the Écrins National Park.",
+                  "text": "Peak of the Aupillous in the Écrins National Park.",
                   "category": "landmark",
                   "coords": [
                         6.329517,
@@ -1321,7 +1321,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe Ouest du Mont Pelve",
-                  "text": "Der westliche Gipfel des Mont Pelve in den französischen Alpen.",
+                  "text": "Westspitze des Mont Pelve im Vanoise-Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         6.765115,
@@ -1330,7 +1330,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Mont Pelve",
-                  "text": "Mont Pelve ist ein beeindruckender Berg im Vanoise-Massiv.",
+                  "text": "Mont Pelve, ein Gipfel im Nationalpark Vanoise in den französischen Alpen.",
                   "category": "landmark",
                   "coords": [
                         6.781557,
@@ -1386,7 +1386,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe Ouest du Mont Pelve",
-                  "text": "A Mont Pelve nyugati csúcsa a Francia-Alpokban.",
+                  "text": "A Mont Pelve nyugati csúcsa a Vanoise Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         6.765115,
@@ -1395,7 +1395,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Mont Pelve",
-                  "text": "A Mont Pelve egy lenyűgöző hegy a Vanoise-masszívumban.",
+                  "text": "Mont Pelve, egy csúcs a Vanoise Nemzeti Parkban a francia Alpokban.",
                   "category": "landmark",
                   "coords": [
                         6.781557,
@@ -1451,7 +1451,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe Ouest du Mont Pelve",
-                  "text": "Vârful vestic al Mont Pelve din Alpii Francezi.",
+                  "text": "Vârful vestic al Mont Pelve în Parcul Național Vanoise.",
                   "category": "landmark",
                   "coords": [
                         6.765115,
@@ -1460,7 +1460,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Mont Pelve",
-                  "text": "Mont Pelve este un munte impresionant în masivul Vanoise.",
+                  "text": "Mont Pelve, un vârf în Parcul Național Vanoise din Alpii francezi.",
                   "category": "landmark",
                   "coords": [
                         6.781557,
@@ -1516,7 +1516,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Pointe Ouest du Mont Pelve",
-                  "text": "The western peak of Mont Pelve in the French Alps.",
+                  "text": "Western point of Mont Pelve in the Vanoise National Park.",
                   "category": "landmark",
                   "coords": [
                         6.765115,
@@ -1525,7 +1525,7 @@ export const franceLifeV2: POI[] = [
             },
             {
                   "name": "Mont Pelve",
-                  "text": "Mont Pelve is an impressive mountain in the Vanoise Massif.",
+                  "text": "Mont Pelve, a peak in the Vanoise National Park in the French Alps.",
                   "category": "landmark",
                   "coords": [
                         6.781557,

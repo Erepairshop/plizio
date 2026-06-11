@@ -191,7 +191,7 @@ imageHint: "Large modern industrial battery factory Northvolt",
       "de": [
             {
                   "name": "Eklundsnäsbadet",
-                  "text": "Eklundsnäsbadet ist ein Strand bei Södertälje.",
+                  "text": "Eklundsnäsbadet, ein Badeplatz am See in Scania Sodertalje.",
                   "category": "recreational",
                   "coords": [
                         17.590746,
@@ -202,7 +202,7 @@ imageHint: "Large modern industrial battery factory Northvolt",
       "hu": [
             {
                   "name": "Eklundsnäsbadet",
-                  "text": "Eklundsnäsbadet egy strand Södertälje közelében.",
+                  "text": "Eklundsnäsbadet, egy tavi fürdőhely Scania Sodertaljében.",
                   "category": "recreational",
                   "coords": [
                         17.590746,
@@ -213,7 +213,7 @@ imageHint: "Large modern industrial battery factory Northvolt",
       "ro": [
             {
                   "name": "Eklundsnäsbadet",
-                  "text": "Eklundsnäsbadet este o plajă lângă Södertälje.",
+                  "text": "Eklundsnäsbadet, o plajă pe lac în Scania Sodertalje.",
                   "category": "recreational",
                   "coords": [
                         17.590746,
@@ -224,7 +224,7 @@ imageHint: "Large modern industrial battery factory Northvolt",
       "en": [
             {
                   "name": "Eklundsnäsbadet",
-                  "text": "Eklundsnäsbadet is a beach near Södertälje.",
+                  "text": "Eklundsnäsbadet, a lakeside bathing spot in Scania Sodertalje.",
                   "category": "recreational",
                   "coords": [
                         17.590746,
@@ -567,7 +567,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Vivesta",
-                  "text": "Strand in der Nähe von Oxelösund.",
+                  "text": "Vivesta, ein Erholungsgebiet mit Badeplatz an der Ostseeküste in Ssab Oxelosund.",
                   "category": "recreational",
                   "coords": [
                         17.093486,
@@ -576,7 +576,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Kattbergets badplats",
-                  "text": "Strand in der Nähe von Oxelösund.",
+                  "text": "Kattbergets badplats, ein Badeplatz am Kattberget in Ssab Oxelosund.",
                   "category": "recreational",
                   "coords": [
                         17.028991,
@@ -585,7 +585,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Stenviksbadet",
-                  "text": "Strand in der Nähe von Oxelösund.",
+                  "text": "Stenviksbadet, ein Badeplatz in der Bucht Stenvik in Ssab Oxelosund.",
                   "category": "recreational",
                   "coords": [
                         17.085569,
@@ -623,7 +623,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Vivesta",
-                  "text": "Part Oxelösund közelében.",
+                  "text": "Vivesta, egy üdülőterület fürdőhellyel a Balti-tenger partján Ssab Oxelosundban.",
                   "category": "recreational",
                   "coords": [
                         17.093486,
@@ -632,7 +632,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Kattbergets badplats",
-                  "text": "Part Oxelösund közelében.",
+                  "text": "Kattbergets badplats, egy fürdőhely a Kattbergetnél Ssab Oxelosundban.",
                   "category": "recreational",
                   "coords": [
                         17.028991,
@@ -641,7 +641,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Stenviksbadet",
-                  "text": "Part Oxelösund közelében.",
+                  "text": "Stenviksbadet, egy fürdőhely a Stenvik-öbölben Ssab Oxelosundban.",
                   "category": "recreational",
                   "coords": [
                         17.085569,
@@ -679,7 +679,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Vivesta",
-                  "text": "Plajă în apropiere de Oxelösund.",
+                  "text": "Vivesta, o zonă de agrement cu plajă pe coasta Mării Baltice în Ssab Oxelosund.",
                   "category": "recreational",
                   "coords": [
                         17.093486,
@@ -688,7 +688,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Kattbergets badplats",
-                  "text": "Plajă în apropiere de Oxelösund.",
+                  "text": "Kattbergets badplats, o plajă lângă Kattberget în Ssab Oxelosund.",
                   "category": "recreational",
                   "coords": [
                         17.028991,
@@ -697,7 +697,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Stenviksbadet",
-                  "text": "Plajă în apropiere de Oxelösund.",
+                  "text": "Stenviksbadet, o plajă în golful Stenvik în Ssab Oxelosund.",
                   "category": "recreational",
                   "coords": [
                         17.085569,
@@ -735,7 +735,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Vivesta",
-                  "text": "Beach near Oxelösund.",
+                  "text": "Vivesta, a recreation area with a Baltic Sea beach in Ssab Oxelosund.",
                   "category": "recreational",
                   "coords": [
                         17.093486,
@@ -744,7 +744,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Kattbergets badplats",
-                  "text": "Beach near Oxelösund.",
+                  "text": "Kattbergets badplats, a beach by Kattberget in Ssab Oxelosund.",
                   "category": "recreational",
                   "coords": [
                         17.028991,
@@ -753,7 +753,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
             },
             {
                   "name": "Stenviksbadet",
-                  "text": "Beach near Oxelösund.",
+                  "text": "Stenviksbadet, a bathing spot in Stenvik bay in Ssab Oxelosund.",
                   "category": "recreational",
                   "coords": [
                         17.085569,
@@ -1427,7 +1427,7 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
             },
             {
                   "name": "Älmhult Arts Center",
-                  "text": "Ein Zentrum für zeitgenössische Kunst und kulturelle Aktivitäten in Älmhult.",
+                  "text": "Älmhult Arts Center, ein Kunstzentrum in der Heimatstadt von IKEA, Älmhult.",
                   "category": "cultural",
                   "coords": [
                         14.137353,
@@ -1436,7 +1436,7 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
             },
             {
                   "name": "Muff",
-                  "text": "Eine Sehenswürdigkeit im IKEA-Zentrum in Älmhult.",
+                  "text": "Muff, ein ortsbekanntes Wahrzeichen in Ikea Almhult.",
                   "category": "landmark",
                   "coords": [
                         14.138976,
@@ -1492,7 +1492,7 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
             },
             {
                   "name": "Älmhult Arts Center",
-                  "text": "Kortárs művészeti és kulturális központ Älmhultban.",
+                  "text": "Älmhult Arts Center, egy művészeti központ az IKEA szülővárosában, Älmhultban.",
                   "category": "cultural",
                   "coords": [
                         14.137353,
@@ -1501,7 +1501,7 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
             },
             {
                   "name": "Muff",
-                  "text": "Látványosság az Älmhult-i IKEA központban.",
+                  "text": "Muff, egy helyben ismert nevezetesség Ikea Almhultban.",
                   "category": "landmark",
                   "coords": [
                         14.138976,
@@ -1557,7 +1557,7 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
             },
             {
                   "name": "Älmhult Arts Center",
-                  "text": "Un centru pentru artă contemporană și activități culturale în Älmhult.",
+                  "text": "Älmhult Arts Center, un centru de artă în orașul natal al IKEA, Älmhult.",
                   "category": "cultural",
                   "coords": [
                         14.137353,
@@ -1566,7 +1566,7 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
             },
             {
                   "name": "Muff",
-                  "text": "O atracție situată în centrul IKEA din Älmhult.",
+                  "text": "Muff, un reper cunoscut local în Ikea Almhult.",
                   "category": "landmark",
                   "coords": [
                         14.138976,
@@ -1622,7 +1622,7 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
             },
             {
                   "name": "Älmhult Arts Center",
-                  "text": "A center for contemporary art and cultural activities in Älmhult.",
+                  "text": "Älmhult Arts Center, an art centre in the hometown of IKEA, Älmhult.",
                   "category": "cultural",
                   "coords": [
                         14.137353,
@@ -1631,7 +1631,7 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
             },
             {
                   "name": "Muff",
-                  "text": "An attraction located in the IKEA Älmhult Center.",
+                  "text": "Muff, a locally known landmark in Ikea Almhult.",
                   "category": "landmark",
                   "coords": [
                         14.138976,
@@ -1891,7 +1891,7 @@ imageHint: "Industrial heritage buildings converted to science park",
       "de": [
             {
                   "name": "Jägarnäs",
-                  "text": "Ein Strand in der Nähe von Ludvika.",
+                  "text": "Jägarnäs, ein Erholungsgebiet mit Badesee in Ludvika Power Grid.",
                   "category": "recreational",
                   "coords": [
                         15.196359,
@@ -1900,7 +1900,7 @@ imageHint: "Industrial heritage buildings converted to science park",
             },
             {
                   "name": "Sligen",
-                  "text": "Ein Strand in der Nähe von Ludvika.",
+                  "text": "Sligen, ein Badeplatz in Ludvika Power Grid.",
                   "category": "recreational",
                   "coords": [
                         15.138228,
@@ -1911,7 +1911,7 @@ imageHint: "Industrial heritage buildings converted to science park",
       "hu": [
             {
                   "name": "Jägarnäs",
-                  "text": "Strand Ludvika közelében.",
+                  "text": "Jägarnäs, egy üdülőterület fürdőtóval Ludvika Power Gridben.",
                   "category": "recreational",
                   "coords": [
                         15.196359,
@@ -1920,7 +1920,7 @@ imageHint: "Industrial heritage buildings converted to science park",
             },
             {
                   "name": "Sligen",
-                  "text": "Strand Ludvika közelében.",
+                  "text": "Sligen, egy fürdőhely Ludvika Power Gridben.",
                   "category": "recreational",
                   "coords": [
                         15.138228,
@@ -1931,7 +1931,7 @@ imageHint: "Industrial heritage buildings converted to science park",
       "ro": [
             {
                   "name": "Jägarnäs",
-                  "text": "O plajă lângă Ludvika.",
+                  "text": "Jägarnäs, o zonă de agrement cu lac de scăldat în Ludvika Power Grid.",
                   "category": "recreational",
                   "coords": [
                         15.196359,
@@ -1940,7 +1940,7 @@ imageHint: "Industrial heritage buildings converted to science park",
             },
             {
                   "name": "Sligen",
-                  "text": "O plajă lângă Ludvika.",
+                  "text": "Sligen, o plajă în Ludvika Power Grid.",
                   "category": "recreational",
                   "coords": [
                         15.138228,
@@ -1951,7 +1951,7 @@ imageHint: "Industrial heritage buildings converted to science park",
       "en": [
             {
                   "name": "Jägarnäs",
-                  "text": "A beach near Ludvika.",
+                  "text": "Jägarnäs, a recreation area with a swimming lake in Ludvika Power Grid.",
                   "category": "recreational",
                   "coords": [
                         15.196359,
@@ -1960,7 +1960,7 @@ imageHint: "Industrial heritage buildings converted to science park",
             },
             {
                   "name": "Sligen",
-                  "text": "A beach near Ludvika.",
+                  "text": "Sligen, a bathing spot in Ludvika Power Grid.",
                   "category": "recreational",
                   "coords": [
                         15.138228,
@@ -2027,7 +2027,7 @@ imageHint: "Industrial heritage buildings converted to science park",
             },
             {
                   "name": "Brämsand",
-                  "text": "Strand bei der Mühle Skutskär.",
+                  "text": "Brämsand, ein Badeplatz in Skutskar Mill.",
                   "category": "recreational",
                   "coords": [
                         17.460618,
@@ -2047,7 +2047,7 @@ imageHint: "Industrial heritage buildings converted to science park",
             },
             {
                   "name": "Brämsand",
-                  "text": "Strand a Skutskär malom közelében.",
+                  "text": "Brämsand, egy fürdőhely Skutskar Millben.",
                   "category": "recreational",
                   "coords": [
                         17.460618,
@@ -2067,7 +2067,7 @@ imageHint: "Industrial heritage buildings converted to science park",
             },
             {
                   "name": "Brämsand",
-                  "text": "Plajă lângă moara Skutskär.",
+                  "text": "Brämsand, o plajă în Skutskar Mill.",
                   "category": "recreational",
                   "coords": [
                         17.460618,
@@ -2087,7 +2087,7 @@ imageHint: "Industrial heritage buildings converted to science park",
             },
             {
                   "name": "Brämsand",
-                  "text": "Beach near the Skutskär mill.",
+                  "text": "Brämsand, a beach in Skutskar Mill.",
                   "category": "recreational",
                   "coords": [
                         17.460618,
@@ -2145,7 +2145,7 @@ imageHint: "Industrial heritage buildings converted to science park",
       "de": [
             {
                   "name": "Lillöbadet",
-                  "text": "Ein Strand bei Mönsterås.",
+                  "text": "Lillöbadet, ein Badeplatz in Monsteras Mill.",
                   "category": "recreational",
                   "coords": [
                         16.496947,
@@ -2156,7 +2156,7 @@ imageHint: "Industrial heritage buildings converted to science park",
       "hu": [
             {
                   "name": "Lillöbadet",
-                  "text": "Strand Mönsterås közelében.",
+                  "text": "Lillöbadet, egy fürdőhely Monsteras Millben.",
                   "category": "recreational",
                   "coords": [
                         16.496947,
@@ -2167,7 +2167,7 @@ imageHint: "Industrial heritage buildings converted to science park",
       "ro": [
             {
                   "name": "Lillöbadet",
-                  "text": "O plajă lângă Mönsterås.",
+                  "text": "Lillöbadet, o plajă în Monsteras Mill.",
                   "category": "recreational",
                   "coords": [
                         16.496947,
@@ -2178,7 +2178,7 @@ imageHint: "Industrial heritage buildings converted to science park",
       "en": [
             {
                   "name": "Lillöbadet",
-                  "text": "A beach near Mönsterås.",
+                  "text": "Lillöbadet, a bathing spot in Monsteras Mill.",
                   "category": "recreational",
                   "coords": [
                         16.496947,
@@ -2282,7 +2282,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "de": [
             {
                   "name": "Lillsjön",
-                  "text": "Strand in der Nähe von Gävle.",
+                  "text": "Lillsjön, ein Badesee in Gavle Port.",
                   "category": "recreational",
                   "coords": [
                         17.257463,
@@ -2293,7 +2293,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "hu": [
             {
                   "name": "Lillsjön",
-                  "text": "Part Gävle közelében.",
+                  "text": "Lillsjön, egy fürdőtó Gavle Portban.",
                   "category": "recreational",
                   "coords": [
                         17.257463,
@@ -2304,7 +2304,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "ro": [
             {
                   "name": "Lillsjön",
-                  "text": "Plajă în apropiere de Gävle.",
+                  "text": "Lillsjön, un lac de scăldat în Gavle Port.",
                   "category": "recreational",
                   "coords": [
                         17.257463,
@@ -2315,7 +2315,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "en": [
             {
                   "name": "Lillsjön",
-                  "text": "Beach near Gävle.",
+                  "text": "Lillsjön, a swimming lake in Gavle Port.",
                   "category": "recreational",
                   "coords": [
                         17.257463,
@@ -2373,7 +2373,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "de": [
             {
                   "name": "Knähakenbadet - naturistbad",
-                  "text": "Naturistenstrand in der Nähe von Helsingborg.",
+                  "text": "Knähakenbadet – naturistbad, ein FKK-Strand in Helsingborg Port.",
                   "category": "recreational",
                   "coords": [
                         12.71886,
@@ -2384,7 +2384,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "hu": [
             {
                   "name": "Knähakenbadet - naturistbad",
-                  "text": "Naturista part Helsingborg közelében.",
+                  "text": "Knähakenbadet – naturistbad, egy nudista strand Helsingborg Portban.",
                   "category": "recreational",
                   "coords": [
                         12.71886,
@@ -2395,7 +2395,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "ro": [
             {
                   "name": "Knähakenbadet - naturistbad",
-                  "text": "Plajă de nudiști în apropiere de Helsingborg.",
+                  "text": "Knähakenbadet – naturistbad, o plajă nudistă în Helsingborg Port.",
                   "category": "recreational",
                   "coords": [
                         12.71886,
@@ -2406,7 +2406,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "en": [
             {
                   "name": "Knähakenbadet - naturistbad",
-                  "text": "Naturist beach near Helsingborg.",
+                  "text": "Knähakenbadet – naturistbad, a naturist beach in Helsingborg Port.",
                   "category": "recreational",
                   "coords": [
                         12.71886,
@@ -2464,7 +2464,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "de": [
             {
                   "name": "Östra Stranden",
-                  "text": "Östra Stranden nahe dem Hafen Trelleborg.",
+                  "text": "Östra Stranden, der Oststrand in Trelleborg Port.",
                   "category": "recreational",
                   "coords": [
                         13.193652,
@@ -2473,7 +2473,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
             },
             {
                   "name": "Dalabadet",
-                  "text": "Dalabadet nahe dem Hafen Trelleborg.",
+                  "text": "Dalabadet, ein Badeplatz im Tal in Trelleborg Port.",
                   "category": "recreational",
                   "coords": [
                         13.210627,
@@ -2484,7 +2484,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "hu": [
             {
                   "name": "Östra Stranden",
-                  "text": "Östra Stranden strand a Trelleborgi kikötő közelében.",
+                  "text": "Östra Stranden, a keleti strand Trelleborg Portban.",
                   "category": "recreational",
                   "coords": [
                         13.193652,
@@ -2493,7 +2493,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
             },
             {
                   "name": "Dalabadet",
-                  "text": "Dalabadet strand a Trelleborgi kikötő közelében.",
+                  "text": "Dalabadet, egy fürdőhely a völgyben Trelleborg Portban.",
                   "category": "recreational",
                   "coords": [
                         13.210627,
@@ -2504,7 +2504,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "ro": [
             {
                   "name": "Östra Stranden",
-                  "text": "Plaja Östra Stranden lângă portul Trelleborg.",
+                  "text": "Östra Stranden, plaja de est în Trelleborg Port.",
                   "category": "recreational",
                   "coords": [
                         13.193652,
@@ -2513,7 +2513,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
             },
             {
                   "name": "Dalabadet",
-                  "text": "Plaja Dalabadet lângă portul Trelleborg.",
+                  "text": "Dalabadet, o plajă în vale în Trelleborg Port.",
                   "category": "recreational",
                   "coords": [
                         13.210627,
@@ -2524,7 +2524,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
       "en": [
             {
                   "name": "Östra Stranden",
-                  "text": "Östra Stranden beach near Trelleborg port.",
+                  "text": "Östra Stranden, the east beach in Trelleborg Port.",
                   "category": "recreational",
                   "coords": [
                         13.193652,
@@ -2533,7 +2533,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
             },
             {
                   "name": "Dalabadet",
-                  "text": "Dalabadet beach near Trelleborg port.",
+                  "text": "Dalabadet, a valley beach in Trelleborg Port.",
                   "category": "recreational",
                   "coords": [
                         13.210627,

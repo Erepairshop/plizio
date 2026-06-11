@@ -38,7 +38,160 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Fondé par Alexandre le Grand en 331 av. J.-C.", "Traite plus de 60 % du commerce extérieur égyptien.", "Faisait partie de l'ancien complexe de l'île de Pharos.", "Dispose d'un terminal passagers spécial pour les croisières.", "Se compose de deux ports distincts : Est et Ouest.", "Accès direct à l'autoroute du désert Alexandrie-Le Caire."],
     }, image: "/poi-images/alexandria-port-economic-v2.webp"},
   {
-    id: "suez-port-economic-v2",
+    id: "suez-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ever Given memorial",
+                  "text": "Das Ever Given-Denkmal ist ein Monument im Bereich des Hafens von Suez.",
+                  "category": "historical",
+                  "coords": [
+                        32.581952,
+                        30.017986
+                  ]
+            },
+            {
+                  "name": "Suez National Museum",
+                  "text": "Das Suez-Nationalmuseum zeigt historische Artefakte aus der Region des Hafens von Suez.",
+                  "category": "museum",
+                  "coords": [
+                        32.567009,
+                        29.955085
+                  ]
+            },
+            {
+                  "name": "Martyrs' Park",
+                  "text": "Der Martyrs' Park ist eine Attraktion in der Region des Hafens von Suez.",
+                  "category": "landmark",
+                  "coords": [
+                        32.553772,
+                        29.960866
+                  ]
+            },
+            {
+                  "name": "alMag3d",
+                  "text": "alMag3d ist ein lokales Denkmal im Bereich des Hafens von Suez.",
+                  "category": "historical",
+                  "coords": [
+                        32.559335,
+                        30.052658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ever Given memorial",
+                  "text": "Az Ever Given-emlékmű egy Szuez kikötőjének területén található műemlék.",
+                  "category": "historical",
+                  "coords": [
+                        32.581952,
+                        30.017986
+                  ]
+            },
+            {
+                  "name": "Suez National Museum",
+                  "text": "A Szuezi Nemzeti Múzeum Szuez kikötőjének történelmi tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.567009,
+                        29.955085
+                  ]
+            },
+            {
+                  "name": "Martyrs' Park",
+                  "text": "A Mártírok parkja egy látványosság Szuez kikötőjének területén.",
+                  "category": "landmark",
+                  "coords": [
+                        32.553772,
+                        29.960866
+                  ]
+            },
+            {
+                  "name": "alMag3d",
+                  "text": "Az alMag3d egy helyi műemlék Szuez kikötőjének területén.",
+                  "category": "historical",
+                  "coords": [
+                        32.559335,
+                        30.052658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ever Given memorial",
+                  "text": "Memorialul Ever Given este un monument situat în zona portului Suez.",
+                  "category": "historical",
+                  "coords": [
+                        32.581952,
+                        30.017986
+                  ]
+            },
+            {
+                  "name": "Suez National Museum",
+                  "text": "Muzeul Național Suez prezintă artefacte istorice din regiunea portului Suez.",
+                  "category": "museum",
+                  "coords": [
+                        32.567009,
+                        29.955085
+                  ]
+            },
+            {
+                  "name": "Martyrs' Park",
+                  "text": "Parcul Martirilor este o atracție în regiunea portului Suez.",
+                  "category": "landmark",
+                  "coords": [
+                        32.553772,
+                        29.960866
+                  ]
+            },
+            {
+                  "name": "alMag3d",
+                  "text": "alMag3d este un monument local situat în zona portului Suez.",
+                  "category": "historical",
+                  "coords": [
+                        32.559335,
+                        30.052658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ever Given memorial",
+                  "text": "The Ever Given memorial is a monument located in the Suez Port area.",
+                  "category": "historical",
+                  "coords": [
+                        32.581952,
+                        30.017986
+                  ]
+            },
+            {
+                  "name": "Suez National Museum",
+                  "text": "The Suez National Museum showcases historical artifacts related to the Suez Port area.",
+                  "category": "museum",
+                  "coords": [
+                        32.567009,
+                        29.955085
+                  ]
+            },
+            {
+                  "name": "Martyrs' Park",
+                  "text": "Martyrs' Park is a dedicated attraction area within the Suez Port region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.553772,
+                        29.960866
+                  ]
+            },
+            {
+                  "name": "alMag3d",
+                  "text": "alMag3d is a local monument located in the Suez Port area.",
+                  "category": "historical",
+                  "coords": [
+                        32.559335,
+                        30.052658
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-SUZ",
     coords: [32.5598, 29.9668],
@@ -73,7 +226,340 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Entrée sud du canal de Suez", "Réouverture du port en juin 1975", "Comprend Port Tewfik, Adabiya et Marakeya", "Centre majeur pour les raffineries de pétrole d'Égypte", "Point de départ historique pour les pèlerinages à La Mecque", "Élément essentiel de la zone économique du canal de Suez"],
     }, image: "/poi-images/suez-port-economic-v2.webp"},
   {
-    id: "port-said-economic-v2",
+    id: "port-said-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Port Saïd Military Museum",
+                  "text": "Das Port Saïd Military Museum zeigt die Militärgeschichte in der Stadt Port Said.",
+                  "category": "museum",
+                  "coords": [
+                        32.299998,
+                        31.270121
+                  ]
+            },
+            {
+                  "name": "Al Gamil Fort",
+                  "text": "Das Al Gamil Fort, ursprünglich am Manzala-See gelegen, ist eine historische Burg in Port Said.",
+                  "category": "castle",
+                  "coords": [
+                        32.2025,
+                        31.284444
+                  ]
+            },
+            {
+                  "name": "The Italian House",
+                  "text": "The Italian House ist eine architektonische Attraktion in der Stadt Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.313952,
+                        31.265178
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Die Al Salam Moschee ist ein muslimisches Heiligtum in der Stadt Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.317134,
+                        31.272124
+                  ]
+            },
+            {
+                  "name": "Saint Theresa Church",
+                  "text": "Die Saint Theresa Church ist eine anerkannte christliche Kultstätte in der Stadt Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.307452,
+                        31.267302
+                  ]
+            },
+            {
+                  "name": "Saint Mark cathedral",
+                  "text": "Die Saint Mark Kathedrale ist ein christliches Bauwerk in der Stadt Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.318826,
+                        31.231039
+                  ]
+            },
+            {
+                  "name": "PELMAR EG FOR INDUSTRY",
+                  "text": "PELMAR EG FOR INDUSTRY ist eine Stätte zur Religionsausübung in der Stadt Port Said.",
+                  "category": "religious",
+                  "coords": [
+                        32.289869,
+                        31.223452
+                  ]
+            },
+            {
+                  "name": "Al Salam Masjid",
+                  "text": "Al Salam Masjid ist eine aktive Moschee für die Gläubigen in der Stadt Port Said.",
+                  "category": "religious",
+                  "coords": [
+                        32.315096,
+                        31.269468
+                  ]
+            },
+            {
+                  "name": "Lotfy Shabara",
+                  "text": "Lotfy Shabara ist ein muslimischer Ort für Gebete in der Stadt Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.310118,
+                        31.267995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Port Saïd Military Museum",
+                  "text": "A Port Saïd Military Museum a hadtörténetet bemutató intézmény Port Said városában.",
+                  "category": "museum",
+                  "coords": [
+                        32.299998,
+                        31.270121
+                  ]
+            },
+            {
+                  "name": "Al Gamil Fort",
+                  "text": "A Manzala-tó közelében található Al Gamil Fort egy történelmi erőd Port Said városában.",
+                  "category": "castle",
+                  "coords": [
+                        32.2025,
+                        31.284444
+                  ]
+            },
+            {
+                  "name": "The Italian House",
+                  "text": "A The Italian House egy építészeti látványosság Port Said városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.313952,
+                        31.265178
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Az Al Salam Mosque egy muszlim szentély Port Said városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.317134,
+                        31.272124
+                  ]
+            },
+            {
+                  "name": "Saint Theresa Church",
+                  "text": "A Saint Theresa Church egy elismert keresztény istentiszteleti hely Port Said városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.307452,
+                        31.267302
+                  ]
+            },
+            {
+                  "name": "Saint Mark cathedral",
+                  "text": "A Saint Mark cathedral egy keresztény épület Port Said városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.318826,
+                        31.231039
+                  ]
+            },
+            {
+                  "name": "PELMAR EG FOR INDUSTRY",
+                  "text": "A PELMAR EG FOR INDUSTRY egy istentiszteleti hely Port Said városában.",
+                  "category": "religious",
+                  "coords": [
+                        32.289869,
+                        31.223452
+                  ]
+            },
+            {
+                  "name": "Al Salam Masjid",
+                  "text": "Az Al Salam Masjid egy aktív mecset a hívők számára Port Said városában.",
+                  "category": "religious",
+                  "coords": [
+                        32.315096,
+                        31.269468
+                  ]
+            },
+            {
+                  "name": "Lotfy Shabara",
+                  "text": "A Lotfy Shabara egy muszlim imádkozóhely Port Said városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.310118,
+                        31.267995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Port Saïd Military Museum",
+                  "text": "Port Saïd Military Museum este o instituție care prezintă istoria militară în orașul Port Said.",
+                  "category": "museum",
+                  "coords": [
+                        32.299998,
+                        31.270121
+                  ]
+            },
+            {
+                  "name": "Al Gamil Fort",
+                  "text": "Al Gamil Fort, situat inițial lângă Lacul Manzala, este un castel istoric din orașul Port Said.",
+                  "category": "castle",
+                  "coords": [
+                        32.2025,
+                        31.284444
+                  ]
+            },
+            {
+                  "name": "The Italian House",
+                  "text": "The Italian House este o atracție arhitecturală din orașul Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.313952,
+                        31.265178
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Al Salam Mosque este un sanctuar musulman din orașul Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.317134,
+                        31.272124
+                  ]
+            },
+            {
+                  "name": "Saint Theresa Church",
+                  "text": "Saint Theresa Church este un lăcaș de cult creștin recunoscut din orașul Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.307452,
+                        31.267302
+                  ]
+            },
+            {
+                  "name": "Saint Mark cathedral",
+                  "text": "Saint Mark cathedral este un edificiu creștin situat în orașul Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.318826,
+                        31.231039
+                  ]
+            },
+            {
+                  "name": "PELMAR EG FOR INDUSTRY",
+                  "text": "PELMAR EG FOR INDUSTRY reprezintă un lăcaș de cult în orașul Port Said.",
+                  "category": "religious",
+                  "coords": [
+                        32.289869,
+                        31.223452
+                  ]
+            },
+            {
+                  "name": "Al Salam Masjid",
+                  "text": "Al Salam Masjid este o moschee activă care deservește credincioșii din orașul Port Said.",
+                  "category": "religious",
+                  "coords": [
+                        32.315096,
+                        31.269468
+                  ]
+            },
+            {
+                  "name": "Lotfy Shabara",
+                  "text": "Lotfy Shabara este un loc musulman de rugăciune în orașul Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.310118,
+                        31.267995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Port Saïd Military Museum",
+                  "text": "Port Saïd Military Museum is an institution showcasing military history in the city of Port Said.",
+                  "category": "museum",
+                  "coords": [
+                        32.299998,
+                        31.270121
+                  ]
+            },
+            {
+                  "name": "Al Gamil Fort",
+                  "text": "Al Gamil Fort, originally situated near Lake Manzala, is a historical castle in the city of Port Said.",
+                  "category": "castle",
+                  "coords": [
+                        32.2025,
+                        31.284444
+                  ]
+            },
+            {
+                  "name": "The Italian House",
+                  "text": "The Italian House is a notable architectural attraction in the city of Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.313952,
+                        31.265178
+                  ]
+            },
+            {
+                  "name": "Al Salam Mosque",
+                  "text": "Al Salam Mosque is a prominent Muslim sanctuary in the city of Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.317134,
+                        31.272124
+                  ]
+            },
+            {
+                  "name": "Saint Theresa Church",
+                  "text": "Saint Theresa Church is a recognized Christian place of worship in the city of Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.307452,
+                        31.267302
+                  ]
+            },
+            {
+                  "name": "Saint Mark cathedral",
+                  "text": "Saint Mark cathedral is an imposing Christian edifice located in the city of Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.318826,
+                        31.231039
+                  ]
+            },
+            {
+                  "name": "PELMAR EG FOR INDUSTRY",
+                  "text": "PELMAR EG FOR INDUSTRY represents a designated place of worship in the city of Port Said.",
+                  "category": "religious",
+                  "coords": [
+                        32.289869,
+                        31.223452
+                  ]
+            },
+            {
+                  "name": "Al Salam Masjid",
+                  "text": "Al Salam Masjid is an active mosque serving the faithful in the city of Port Said.",
+                  "category": "religious",
+                  "coords": [
+                        32.315096,
+                        31.269468
+                  ]
+            },
+            {
+                  "name": "Lotfy Shabara",
+                  "text": "Lotfy Shabara is a Muslim site for prayer in the city of Port Said.",
+                  "category": "landmark",
+                  "coords": [
+                        32.310118,
+                        31.267995
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-PTS",
     coords: [32.3019, 31.2653],
@@ -108,7 +594,304 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Fondation du port en 1859", "Point d'accès nord au canal de Suez, long de 193 km", "La profondeur d'eau à East Port Said est de 18,5 mètres", "Capacité de plus de 5 millions d'EVP par an", "Fait partie de la zone économique stratégique du canal de Suez (SCZone)", "L'un des plus grands centres de soutage (ravitaillement des navires) au monde"],
     }, image: "/poi-images/port-said-economic-v2.webp"},
   {
-    id: "damietta-port-economic-v2",
+    id: "damietta-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Alrahma",
+                  "text": "Masjid Alrahma ist eine lokale Attraktion in der Gegend von damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.833328,
+                        31.513684
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "Der Fischmarkt ist eine belebte Attraktion in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.809981,
+                        31.421047
+                  ]
+            },
+            {
+                  "name": "Water Park",
+                  "text": "Der Wasserpark ist ein Freizeitpark in der Gegend von damietta-port-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        31.819242,
+                        31.499998
+                  ]
+            },
+            {
+                  "name": "Abdelkader Mosque",
+                  "text": "Die Abdelkader-Moschee ist ein islamisches Gotteshaus in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.792029,
+                        31.439034
+                  ]
+            },
+            {
+                  "name": "AlGerby Mosque",
+                  "text": "Die AlGerby-Moschee dient der lokalen muslimischen Gemeinde in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.825614,
+                        31.492336
+                  ]
+            },
+            {
+                  "name": "Ebad Al-Rahman Mosque",
+                  "text": "Die Ebad Al-Rahman-Moschee ist eine religiöse Stätte in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.817598,
+                        31.503336
+                  ]
+            },
+            {
+                  "name": "Alkhanina Mosque",
+                  "text": "Die Alkhanina-Moschee bietet einen Ort für islamische Gebete in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.837217,
+                        31.495273
+                  ]
+            },
+            {
+                  "name": "101 Street Market",
+                  "text": "Der 101 Street Market ist ein kommerzieller Marktplatz in damietta-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        31.819512,
+                        31.502934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Alrahma",
+                  "text": "A Masjid Alrahma egy helyi látványosság a damietta-port-economic-v2 területen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.833328,
+                        31.513684
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "A halpiac egy nyüzsgő látványosság a damietta-port-economic-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.809981,
+                        31.421047
+                  ]
+            },
+            {
+                  "name": "Water Park",
+                  "text": "A vízipark egy szórakoztató vidámpark a damietta-port-economic-v2 területen.",
+                  "category": "recreational",
+                  "coords": [
+                        31.819242,
+                        31.499998
+                  ]
+            },
+            {
+                  "name": "Abdelkader Mosque",
+                  "text": "Az Abdelkader mecset egy iszlám istentiszteleti hely a damietta-port-economic-v2 területen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.792029,
+                        31.439034
+                  ]
+            },
+            {
+                  "name": "AlGerby Mosque",
+                  "text": "Az AlGerby mecset a helyi közösséget szolgálja a damietta-port-economic-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.825614,
+                        31.492336
+                  ]
+            },
+            {
+                  "name": "Ebad Al-Rahman Mosque",
+                  "text": "Az Ebad Al-Rahman mecset egy vallási helyszín a damietta-port-economic-v2 területen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.817598,
+                        31.503336
+                  ]
+            },
+            {
+                  "name": "Alkhanina Mosque",
+                  "text": "Az Alkhanina mecset iszlám imádkozási helyet biztosít a damietta-port-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.837217,
+                        31.495273
+                  ]
+            },
+            {
+                  "name": "101 Street Market",
+                  "text": "A 101 Street Market egy kereskedelmi piac a damietta-port-economic-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        31.819512,
+                        31.502934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Alrahma",
+                  "text": "Masjid Alrahma este o atracție locală situată în zona damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.833328,
+                        31.513684
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "Piața de pește este o atracție aglomerată situată în damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.809981,
+                        31.421047
+                  ]
+            },
+            {
+                  "name": "Water Park",
+                  "text": "Parcul acvatic este un parc tematic de agrement situat în zona damietta-port-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        31.819242,
+                        31.499998
+                  ]
+            },
+            {
+                  "name": "Abdelkader Mosque",
+                  "text": "Moscheea Abdelkader este un lăcaș de cult islamic situat în damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.792029,
+                        31.439034
+                  ]
+            },
+            {
+                  "name": "AlGerby Mosque",
+                  "text": "Moscheea AlGerby este o moschee care deservește comunitatea locală din damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.825614,
+                        31.492336
+                  ]
+            },
+            {
+                  "name": "Ebad Al-Rahman Mosque",
+                  "text": "Moscheea Ebad Al-Rahman este un sit religios situat în damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.817598,
+                        31.503336
+                  ]
+            },
+            {
+                  "name": "Alkhanina Mosque",
+                  "text": "Moscheea Alkhanina oferă un loc pentru rugăciunea islamică în damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.837217,
+                        31.495273
+                  ]
+            },
+            {
+                  "name": "101 Street Market",
+                  "text": "101 Street Market este o piață comercială care se găsește în damietta-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        31.819512,
+                        31.502934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Alrahma",
+                  "text": "Masjid Alrahma is a local attraction situated in the damietta-port-economic-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        31.833328,
+                        31.513684
+                  ]
+            },
+            {
+                  "name": "Fish market",
+                  "text": "The Fish market is a bustling attraction located in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.809981,
+                        31.421047
+                  ]
+            },
+            {
+                  "name": "Water Park",
+                  "text": "The Water Park is a recreational theme park located in the damietta-port-economic-v2 area.",
+                  "category": "recreational",
+                  "coords": [
+                        31.819242,
+                        31.499998
+                  ]
+            },
+            {
+                  "name": "Abdelkader Mosque",
+                  "text": "Abdelkader Mosque is an Islamic place of worship located in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.792029,
+                        31.439034
+                  ]
+            },
+            {
+                  "name": "AlGerby Mosque",
+                  "text": "AlGerby Mosque is a mosque serving the local community in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.825614,
+                        31.492336
+                  ]
+            },
+            {
+                  "name": "Ebad Al-Rahman Mosque",
+                  "text": "Ebad Al-Rahman Mosque is a religious site situated in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.817598,
+                        31.503336
+                  ]
+            },
+            {
+                  "name": "Alkhanina Mosque",
+                  "text": "Alkhanina Mosque provides a place for Islamic prayer in damietta-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        31.837217,
+                        31.495273
+                  ]
+            },
+            {
+                  "name": "101 Street Market",
+                  "text": "101 Street Market is a commercial marketplace found in damietta-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        31.819512,
+                        31.502934
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-DT",
     coords: [31.7606, 31.4514],
@@ -773,7 +1556,88 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Le port a été récemment modernisé pour plus de 170 millions d'EGP", "Le nouveau terminal passagers s'étend sur environ 8 000 mètres carrés", "La capacité annuelle est d'environ 700 000 passagers", "Le port constitue le principal point de liaison vers Duba en Arabie saoudite", "Possède des postes d'amarrage d'une profondeur allant jusqu'à 10 mètres", "Héberge des installations spécialisées pour la douane et le contrôle aux frontières"],
     }, image: "/poi-images/hurghada-port-economic-v2.webp"},
   {
-    id: "arish-port-economic-v2",
+    id: "arish-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al`Arish Lighthouse",
+                  "text": "Der Leuchtturm von Al-Arisch ist ein markanter maritimer Turm, der mit seinem Leuchtfeuer die Schiffe sicher in den ägyptischen Mittelmeerhafen führt.",
+                  "category": "landmark",
+                  "coords": [
+                        33.833128,
+                        31.150761
+                  ]
+            },
+            {
+                  "name": "Universitätsmoschee",
+                  "text": "Diese islamische Gebetsstätte dient der lokalen akademischen Gemeinschaft in der Nähe des Hafens von Arish.",
+                  "category": "landmark",
+                  "coords": [
+                        33.826136,
+                        31.13414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al`Arish Lighthouse",
+                  "text": "Az el-Arís-i világítótorony egy magasztos tengeri építmény, amelynek fénye biztonságosan a Földközi-tenger egyiptomi kikötőjébe vezeti a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        33.833128,
+                        31.150761
+                  ]
+            },
+            {
+                  "name": "University Mosque",
+                  "text": "Ez az iszlám istentiszteleti hely az el-arisi kikötő közelében lévő helyi akadémiai közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        33.826136,
+                        31.13414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al`Arish Lighthouse",
+                  "text": "Farul din Al-Arish este un turn maritim înalt a cărui lumină ghidează în siguranță navele către portul egiptean de la Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        33.833128,
+                        31.150761
+                  ]
+            },
+            {
+                  "name": "University Mosque",
+                  "text": "Acest lăcaș de cult islamic deservește comunitatea academică locală din apropierea portului Arish.",
+                  "category": "landmark",
+                  "coords": [
+                        33.826136,
+                        31.13414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al`Arish Lighthouse",
+                  "text": "The Al`Arish Lighthouse is a prominent maritime tower whose beacon safely guides ships into the Egyptian Mediterranean port.",
+                  "category": "landmark",
+                  "coords": [
+                        33.833128,
+                        31.150761
+                  ]
+            },
+            {
+                  "name": "University Mosque",
+                  "text": "This Islamic place of worship serves the local academic community near the Arish port.",
+                  "category": "landmark",
+                  "coords": [
+                        33.826136,
+                        31.13414
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-SIN",
     coords: [33.8119, 31.1394],
@@ -878,7 +1742,52 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Fondée en 1967 en tant qu'entreprise publique.", "Traite environ 4 millions de tonnes de pétrole brut par an.", "Seule raffinerie d'Égypte à produire de l'alkylbenzène.", "Dispose d'unités spécialisées pour les huiles lubrifiantes de haute qualité.", "Directement reliée au réseau national d'oléoducs et au port d'Alexandrie.", "Fait partie d'un vaste plan de modernisation visant à réduire les émissions."],
     }, image: "/poi-images/al-ameerya-petroleum-economic-v2.webp"},
   {
-    id: "suez-oil-processing-economic-v2",
+    id: "suez-oil-processing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Green Island",
+                  "text": "Eine künstliche Inselfestung im Roten Meer, die vom ägyptischen Militär stark befestigt wurde und während des Abnutzungskrieges ein berühmtes Ziel war.",
+                  "category": "fortress",
+                  "coords": [
+                        32.529794,
+                        29.91191
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Green Island",
+                  "text": "Mesterséges szigeterődítmény a Vörös-tengeren, amelyet az egyiptomi hadsereg erősen megerősített, és a felőrlő háború során híres célpont volt.",
+                  "category": "fortress",
+                  "coords": [
+                        32.529794,
+                        29.91191
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Green Island",
+                  "text": "O fortăreață insulară artificială din Marea Roșie, puternic fortificată de armata egipteană și vizată în mod celebru în timpul Războiului de Uzură.",
+                  "category": "fortress",
+                  "coords": [
+                        32.529794,
+                        29.91191
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Green Island",
+                  "text": "An artificial island fortress in the Red Sea, heavily fortified by the Egyptian military and famously targeted during the War of Attrition.",
+                  "category": "fortress",
+                  "coords": [
+                        32.529794,
+                        29.91191
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EG-SUZ",
     coords: [32.5317, 29.9619],
@@ -948,7 +1857,1348 @@ export const poiExtraEgyptEconomicV2: POI[] = [
       fr: ["Fondée en 1978 par un décret du président Sadat.", "Couvre une superficie de plus de 120 kilomètres carrés.", "Abrite plus de 600 usines en activité.", "Centre majeur pour l'industrie égyptienne du fer et de l'acier.", "Située à environ 94 kilomètres au nord-ouest du Caire.", "Dispose d'une zone spécialisée pour les industries respectueuses de l'environnement."],
     }, image: "/poi-images/sadat-city-industrial-economic-v2.webp"},
   {
-    id: "sharm-el-sheikh-port-economic-v2",
+    id: "sharm-el-sheikh-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ras Umm Sid",
+                  "text": "Eine markante Landspitze am Roten Meer, bekannt für ihre spektakulären Fächerkorallen und steilen Unterwasserwände.",
+                  "category": "landmark",
+                  "coords": [
+                        34.31648,
+                        27.847261
+                  ]
+            },
+            {
+                  "name": "Garden Bay",
+                  "text": "Eine ruhige und geschützte Bucht in Sharm El-Sheikh, beliebt für ihre luxuriösen Strandresorts und das klare Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352489,
+                        27.913884
+                  ]
+            },
+            {
+                  "name": "King Tut Museum",
+                  "text": "Zeigt sorgfältig gefertigte Repliken der Schätze, die im berühmten Grab des Pharaos Tutanchamun gefunden wurden.",
+                  "category": "museum",
+                  "coords": [
+                        34.318814,
+                        27.907478
+                  ]
+            },
+            {
+                  "name": "Mohamed Ali Pacha",
+                  "text": "Ein Denkmal, das dem ehemaligen Herrscher von Ägypten gewidmet ist und an sein historisches Erbe in der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        34.296414,
+                        27.866258
+                  ]
+            },
+            {
+                  "name": "Afira",
+                  "text": "Die verstreuten Ruinen alter Wüstenbauwerke in der Nähe der Küste des Roten Meeres im Süd-Sinai.",
+                  "category": "historical",
+                  "coords": [
+                        34.290503,
+                        27.865453
+                  ]
+            },
+            {
+                  "name": "Animation Dessole Seti Sharm",
+                  "text": "Ein Freilichttheater und Veranstaltungsort für abendliche Kulturshows und Live-Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        34.295994,
+                        27.863305
+                  ]
+            },
+            {
+                  "name": "Amphoras",
+                  "text": "Ein berühmter Tauchplatz, benannt nach den Überresten eines türkischen Schiffes aus dem 18. Jahrhundert, das Tonamphoren transportierte.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32528,
+                        27.869279
+                  ]
+            },
+            {
+                  "name": "Middle Garden",
+                  "text": "Ein lebhaftes Korallenriff-Plateau mit einer Vielzahl von Hirn- und Feuerkorallen, ideal für die Unterwasserfotografie.",
+                  "category": "landmark",
+                  "coords": [
+                        34.351121,
+                        27.91296
+                  ]
+            },
+            {
+                  "name": "Far Garden",
+                  "text": "Ein malerischer Riffhang am nördlichen Ende der Bucht, bekannt für seine farbenfrohen Korallenüberhänge und Höhlen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.358875,
+                        27.915005
+                  ]
+            },
+            {
+                  "name": "Near Garden",
+                  "text": "Ein flacher Korallengarten, der leicht vom Ufer aus erreichbar ist und sich ideal für Schnorchelanfänger eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346712,
+                        27.908104
+                  ]
+            },
+            {
+                  "name": "Marsa Kharita",
+                  "text": "Eine ruhige Küstenbucht am Roten Meer mit türkisfarbenem Wasser und einem sandigen Meeresboden zum Schwimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.266769,
+                        27.824695
+                  ]
+            },
+            {
+                  "name": "Ras Ghozlani",
+                  "text": "Ein Schutzgebiet im Ras-Mohammed-Nationalpark mit unberührten Stränden und intakten Korallenbänken.",
+                  "category": "landmark",
+                  "coords": [
+                        34.261943,
+                        27.789443
+                  ]
+            },
+            {
+                  "name": "Ras Katy",
+                  "text": "Ein beliebter Tauchplatz mit einem flachen Plateau und zwei großen Korallentürmen, in denen sich Glasfische tummeln.",
+                  "category": "landmark",
+                  "coords": [
+                        34.302488,
+                        27.846658
+                  ]
+            },
+            {
+                  "name": "el Fanara Beach",
+                  "text": "Ein malerischer Strand an der Spitze der Halbinsel Ras Umm Sid mit Blick auf die Straße von Tiran.",
+                  "category": "landmark",
+                  "coords": [
+                        34.314182,
+                        27.848253
+                  ]
+            },
+            {
+                  "name": "Sodfa",
+                  "text": "Eine lebendige Riffwand, die für ihre Vielfalt an Weichkorallen und Sichtungen vorbeiziehender Hochseefische bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.329325,
+                        27.887794
+                  ]
+            },
+            {
+                  "name": "Pinky Wall",
+                  "text": "Eine vertikale Unterwasserwand, benannt nach der Fülle an rosa Alcyonaria-Weichkorallen, die ihre Oberfläche bedecken.",
+                  "category": "landmark",
+                  "coords": [
+                        34.322016,
+                        27.87956
+                  ]
+            },
+            {
+                  "name": "Tower",
+                  "text": "Eine spektakuläre, 40 Meter hohe vertikale Korallensäule, die eine beeindruckende Kulisse für Tiefseetauchgänge bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.326222,
+                        27.882292
+                  ]
+            },
+            {
+                  "name": "Turtle Bay",
+                  "text": "Eine geschützte Korallenlagune, die häufig von Echten Karettschildkröten besucht wird, die in den flachen Riffen fressen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32296,
+                        27.864461
+                  ]
+            },
+            {
+                  "name": "Sinai Grand Casino",
+                  "text": "Ein großes Casino-Resort auf der Sinai-Halbinsel, das eine Vielzahl von Spieltischen und Unterhaltung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340312,
+                        27.918536
+                  ]
+            },
+            {
+                  "name": "Sharm",
+                  "text": "Ein bekannter Ferienort am Roten Meer, berühmt für seine erstklassigen Tauchplätze und Sandstrände.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32448,
+                        27.908208
+                  ]
+            },
+            {
+                  "name": "Faraana atv safari",
+                  "text": "Geführte Quad-Touren durch die karge Wüstenlandschaft der Sinai-Wüste in der Nähe der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        34.313349,
+                        27.944276
+                  ]
+            },
+            {
+                  "name": "Amirati Beach",
+                  "text": "Ein entspannter Küstenabschnitt am Roten Meer, ideal zum Sonnenbaden und Schwimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.289538,
+                        27.861827
+                  ]
+            },
+            {
+                  "name": "green",
+                  "text": "Ein Küstenfeuer an der Hafeneinfahrt, das Schiffen den Weg in die Bucht weist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.286168,
+                        27.850349
+                  ]
+            },
+            {
+                  "name": "tank",
+                  "text": "Ein ausgestelltes Militärfahrzeug, das als Denkmal an die jüngere Geschichte der Region erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.289829,
+                        27.85073
+                  ]
+            },
+            {
+                  "name": "Safir Sharm Waterfalls Resort",
+                  "text": "Ein Strandresort mit kaskadenartigen Pools und direktem Zugang zu den Korallenriffen des Roten Meeres.",
+                  "category": "landmark",
+                  "coords": [
+                        34.315131,
+                        27.85585
+                  ]
+            },
+            {
+                  "name": "Alf Leila Wa Leila",
+                  "text": "Ein Unterhaltungskomplex im Stil von Tausendundeiner Nacht mit arabischer Architektur und Abendshows.",
+                  "category": "landmark",
+                  "coords": [
+                        34.310319,
+                        27.858733
+                  ]
+            },
+            {
+                  "name": "Coptic Orthodox Church of St. Mary and St. Mina",
+                  "text": "Eine moderne koptisch-orthodoxe Kirche, die mit detaillierten Fresken und Ikonen im Inneren geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305699,
+                        27.850408
+                  ]
+            },
+            {
+                  "name": "Rahman mosque",
+                  "text": "Eine örtliche Moschee mit einem markanten Minarett, die als religiöses Zentrum für die Bewohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305007,
+                        27.851891
+                  ]
+            },
+            {
+                  "name": "Kirche Sayyidat As-Salam",
+                  "text": "Eine katholische Kirche in Sharm El Sheikh, die Gottesdienste für die christliche Gemeinde und Besucher anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296927,
+                        27.884436
+                  ]
+            },
+            {
+                  "name": "Cathedral of All Saints Who Live in Heaven",
+                  "text": "Eine prachtvolle koptische Kathedrale, die für ihre beeindruckenden Deckengemälde und die reiche Dekoration bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.295411,
+                        27.887955
+                  ]
+            },
+            {
+                  "name": "Coral beach private beach",
+                  "text": "Ein Privatstrand an einer Korallenbucht, der hervorragende Schnorchelmöglichkeiten direkt am Ufer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.298369,
+                        27.854856
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Ein zugänglicher Küstenbereich, der beliebte Möglichkeiten zum Schwimmen und für Wassersport bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.328,
+                        27.912454
+                  ]
+            },
+            {
+                  "name": "Strand FANARA",
+                  "text": "Ein Strand unterhalb der Klippen von Ras Um Sid, bekannt für sein klares Wasser und die reiche Unterwasserwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.312609,
+                        27.849169
+                  ]
+            },
+            {
+                  "name": "Gafy Resort",
+                  "text": "Ein weitläufiger Strandabschnitt in der Naama-Bucht, gesäumt von Palmen und flachem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        34.3345,
+                        27.915195
+                  ]
+            },
+            {
+                  "name": "El Fanar",
+                  "text": "Ein Strand in der Nähe des Leuchtturms, der für seine steilen Riffwände und exzellenten Tauchbedingungen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        34.315255,
+                        27.847963
+                  ]
+            },
+            {
+                  "name": "Albatros Aqua Park Sharm",
+                  "text": "Ein riesiger Wasserpark mit zahlreichen Rutschen, Wellenbecken und thematischen Spielbereichen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        34.309198,
+                        27.857261
+                  ]
+            },
+            {
+                  "name": "Amphoras Beach",
+                  "text": "Ein Strandresort, das nach antiken Amphoren benannt wurde, die in den nahen Gewässern gefunden wurden.",
+                  "category": "recreational",
+                  "coords": [
+                        34.323879,
+                        27.867383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ras Umm Sid",
+                  "text": "Jellegzetes fok a Vörös-tengernél, amely látványos legyezőkoralljairól és meredek víz alatti falaidól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.31648,
+                        27.847261
+                  ]
+            },
+            {
+                  "name": "Garden Bay",
+                  "text": "Egy nyugodt és védett öböl Sarm es-Sejkben, amely luxusüdülőiről és tiszta vizéről népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352489,
+                        27.913884
+                  ]
+            },
+            {
+                  "name": "King Tut Museum",
+                  "text": "Tutanhamon fáraó híres sírjában talált kincsek aprólékosan kidolgozott másolatait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        34.318814,
+                        27.907478
+                  ]
+            },
+            {
+                  "name": "Mohamed Ali Pacha",
+                  "text": "Egyiptom egykori uralkodójának szentelt emlékmű, amely történelmi örökségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        34.296414,
+                        27.866258
+                  ]
+            },
+            {
+                  "name": "Afira",
+                  "text": "Ősi sivatagi építmények elszórt romjai a Vörös-tenger partjának közelében, Dél-Sínai területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.290503,
+                        27.865453
+                  ]
+            },
+            {
+                  "name": "Animation Dessole Seti Sharm",
+                  "text": "Szabadtéri színház és szórakozóhely, amely éjszakai kulturális show-knak és élő előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        34.295994,
+                        27.863305
+                  ]
+            },
+            {
+                  "name": "Amphoras",
+                  "text": "Híres merülőhely, amely egy 18. századi, agyag amforákat szállító török hajó maradványairól kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32528,
+                        27.869279
+                  ]
+            },
+            {
+                  "name": "Middle Garden",
+                  "text": "Élénk korallzátony-fennsík agy- és tűzkorallokkal, amely ideális a víz alatti fotózáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        34.351121,
+                        27.91296
+                  ]
+            },
+            {
+                  "name": "Far Garden",
+                  "text": "Festői zátonylejtő az öböl északi végén, amely színes korallos áthajlásairól és barlangjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.358875,
+                        27.915005
+                  ]
+            },
+            {
+                  "name": "Near Garden",
+                  "text": "Sekély korallkert, amely könnyen elérhető a partról, és tökéletes a kezdő búvárok számára az élővilág megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346712,
+                        27.908104
+                  ]
+            },
+            {
+                  "name": "Marsa Kharita",
+                  "text": "Csendes tengerparti öböl a Vörös-tengernél, türkizkék vízzel és homokos fenékkel a fürdőzéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        34.266769,
+                        27.824695
+                  ]
+            },
+            {
+                  "name": "Ras Ghozlani",
+                  "text": "A Ras Mohammed Nemzeti Park védett területe, érintetlen strandokkal és egészséges korallfoltokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        34.261943,
+                        27.789443
+                  ]
+            },
+            {
+                  "name": "Ras Katy",
+                  "text": "Népszerű merülőhely sekély fennsíkkal és két hatalmas koralltoronnyal, ahol rengeteg üveghal él.",
+                  "category": "landmark",
+                  "coords": [
+                        34.302488,
+                        27.846658
+                  ]
+            },
+            {
+                  "name": "el Fanara Beach",
+                  "text": "Festői strand a Ras Umm Sid-félsziget csúcsán, ahonnan kilátás nyílik a Tirán-szorosra.",
+                  "category": "landmark",
+                  "coords": [
+                        34.314182,
+                        27.848253
+                  ]
+            },
+            {
+                  "name": "Sodfa",
+                  "text": "Élénk zátonyfal, amely lágykoralljainak sokszínűségéről és az arra úszó nyíltvízi halakról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.329325,
+                        27.887794
+                  ]
+            },
+            {
+                  "name": "Pinky Wall",
+                  "text": "Függőleges víz alatti fal, amely a felszínét borító bőséges rózsaszín lágykorallokról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        34.322016,
+                        27.87956
+                  ]
+            },
+            {
+                  "name": "Tower",
+                  "text": "Egy látványos, 40 méter magas függőleges koralloszlop, amely drámai hátteret nyújt a mélyvízi merülésekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        34.326222,
+                        27.882292
+                  ]
+            },
+            {
+                  "name": "Turtle Bay",
+                  "text": "Védett korall-lagúna, amelyet gyakran látogatnak a sekély zátonyok között táplálkozó közönséges cserepesteknősök.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32296,
+                        27.864461
+                  ]
+            },
+            {
+                  "name": "Sinai Grand Casino",
+                  "text": "A Sínai-félsziget egyik legnagyobb kaszinója, amely számos játékasztallal és szórakozási lehetőséggel várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340312,
+                        27.918536
+                  ]
+            },
+            {
+                  "name": "Sharm",
+                  "text": "Népszerű vörös-tengeri üdülőhely, amely kiváló merülőhelyeiről és homokos strandjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32448,
+                        27.908208
+                  ]
+            },
+            {
+                  "name": "Faraana atv safari",
+                  "text": "Vezetett kvadtúrák a Sínai-sivatag kopár tájain, a tengerpart közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.313349,
+                        27.944276
+                  ]
+            },
+            {
+                  "name": "Amirati Beach",
+                  "text": "Pihentető tengerparti szakasz a Vörös-tengernél, amely ideális napozásra és úszásra.",
+                  "category": "landmark",
+                  "coords": [
+                        34.289538,
+                        27.861827
+                  ]
+            },
+            {
+                  "name": "green",
+                  "text": "Parti jelzőfény a kikötő bejáratánál, amely segíti a hajók navigációját az öbölben.",
+                  "category": "landmark",
+                  "coords": [
+                        34.286168,
+                        27.850349
+                  ]
+            },
+            {
+                  "name": "tank",
+                  "text": "Kiállított katonai jármű, amely emlékműként idézi fel a régió közelmúltbeli történelmét.",
+                  "category": "landmark",
+                  "coords": [
+                        34.289829,
+                        27.85073
+                  ]
+            },
+            {
+                  "name": "Safir Sharm Waterfalls Resort",
+                  "text": "Tengerparti üdülőhely vízesésszerű medencékkel és közvetlen hozzáféréssel a Vörös-tenger korallzátonyaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        34.315131,
+                        27.85585
+                  ]
+            },
+            {
+                  "name": "Alf Leila Wa Leila",
+                  "text": "Az Ezeregyéjszaka meséit idéző szórakoztató központ arab építészettel és esti műsorokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        34.310319,
+                        27.858733
+                  ]
+            },
+            {
+                  "name": "Coptic Orthodox Church of St. Mary and St. Mina",
+                  "text": "Modern kopt ortodox templom, amelynek belsejét részletgazdag freskók és ikonok díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305699,
+                        27.850408
+                  ]
+            },
+            {
+                  "name": "Rahman mosque",
+                  "text": "Jellegzetes minarettel rendelkező helyi mecset, amely a lakosok vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305007,
+                        27.851891
+                  ]
+            },
+            {
+                  "name": "Sayyidat As-Salam Church",
+                  "text": "Katolikus templom Sarm es-Sejkben, amely miséket tart a keresztény közösség és a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296927,
+                        27.884436
+                  ]
+            },
+            {
+                  "name": "Cathedral of All Saints Who Live in Heaven",
+                  "text": "Pompás kopt katedrális, amely lenyűgöző mennyezeti festményeiről és gazdag díszítéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.295411,
+                        27.887955
+                  ]
+            },
+            {
+                  "name": "Coral beach private beach",
+                  "text": "Magánstrand egy korallos öbölben, amely kiváló búvárkodási lehetőséget kínál közvetlenül a partnál.",
+                  "category": "recreational",
+                  "coords": [
+                        34.298369,
+                        27.854856
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Könnyen megközelíthető tengerparti terület, amely népszerű úszóhely és vízi sportközpont.",
+                  "category": "recreational",
+                  "coords": [
+                        34.328,
+                        27.912454
+                  ]
+            },
+            {
+                  "name": "Strand FANARA",
+                  "text": "A Ras Um Sid sziklái alatt fekvő strand, amely tiszta vizéről és gazdag élővilágáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.312609,
+                        27.849169
+                  ]
+            },
+            {
+                  "name": "Gafy Resort",
+                  "text": "Kiterjedt tengerparti szakasz a Naama-öbölben, amelyet pálmák és sekély víz szegélyez.",
+                  "category": "recreational",
+                  "coords": [
+                        34.3345,
+                        27.915195
+                  ]
+            },
+            {
+                  "name": "El Fanar",
+                  "text": "A világítótorony közeli strand, amely meredek zátonyfalairól és kiváló merülési körülményeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        34.315255,
+                        27.847963
+                  ]
+            },
+            {
+                  "name": "Albatros Aqua Park Sharm",
+                  "text": "Hatalmas vízi park számos csúszdával, hullámmedencével és tematikus játszóterekkel családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        34.309198,
+                        27.857261
+                  ]
+            },
+            {
+                  "name": "Amphoras Beach",
+                  "text": "Tengerparti üdülőhely, amelyet a közeli vizekben talált ókori amforákról neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        34.323879,
+                        27.867383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ras Umm Sid",
+                  "text": "Un promontoriu proeminent la Marea Roșie, cunoscut pentru corali evantai spectaculoși și pereți subacvatici abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        34.31648,
+                        27.847261
+                  ]
+            },
+            {
+                  "name": "Garden Bay",
+                  "text": "Un golf liniștit și adăpostit în Sharm El Sheikh, popular pentru complexele de lux de pe plajă și apele limpezi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352489,
+                        27.913884
+                  ]
+            },
+            {
+                  "name": "King Tut Museum",
+                  "text": "Expune replici realizate meticulos ale comorilor găsite în celebrul mormânt al faraonului Tutankhamon.",
+                  "category": "museum",
+                  "coords": [
+                        34.318814,
+                        27.907478
+                  ]
+            },
+            {
+                  "name": "Mohamed Ali Pacha",
+                  "text": "Un monument dedicat fostului conducător al Egiptului, marcând moștenirea sa istorică în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        34.296414,
+                        27.866258
+                  ]
+            },
+            {
+                  "name": "Afira",
+                  "text": "Ruinele împrăștiate ale unor structuri antice din deșert, situate lângă coasta Marii Roșii în Sinaiul de Sud.",
+                  "category": "historical",
+                  "coords": [
+                        34.290503,
+                        27.865453
+                  ]
+            },
+            {
+                  "name": "Animation Dessole Seti Sharm",
+                  "text": "Un teatru în aer liber și loc de divertisment care găzduiește spectacole culturale nocturne și reprezentații live.",
+                  "category": "cultural",
+                  "coords": [
+                        34.295994,
+                        27.863305
+                  ]
+            },
+            {
+                  "name": "Amphoras",
+                  "text": "Un loc de scufundări faimos, numit după resturile unei nave turcești din secolul al XVIII-lea care transporta amfore de lut.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32528,
+                        27.869279
+                  ]
+            },
+            {
+                  "name": "Middle Garden",
+                  "text": "Un platou de recif de corali vibrant, cu o varietate de corali creier și corali de foc, ideal pentru fotografia subacvatică.",
+                  "category": "landmark",
+                  "coords": [
+                        34.351121,
+                        27.91296
+                  ]
+            },
+            {
+                  "name": "Far Garden",
+                  "text": "O pantă de recif pitorească la capătul nordic al golfului, cunoscută pentru surplombele de corali colorate și peșteri.",
+                  "category": "landmark",
+                  "coords": [
+                        34.358875,
+                        27.915005
+                  ]
+            },
+            {
+                  "name": "Near Garden",
+                  "text": "O grădină de corali de mică adâncime, ușor accesibilă de la țărm, perfectă pentru începători pentru a observa viața marină.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346712,
+                        27.908104
+                  ]
+            },
+            {
+                  "name": "Marsa Kharita",
+                  "text": "O mică fereastră de coastă liniștită la Marea Roșie, oferind ape turcoaz și un fund nisipos pentru înot.",
+                  "category": "landmark",
+                  "coords": [
+                        34.266769,
+                        27.824695
+                  ]
+            },
+            {
+                  "name": "Ras Ghozlani",
+                  "text": "O zonă protejată din cadrul Parcului Național Ras Muhammad, cu plaje curate și petice de corali sănătoși.",
+                  "category": "landmark",
+                  "coords": [
+                        34.261943,
+                        27.789443
+                  ]
+            },
+            {
+                  "name": "Ras Katy",
+                  "text": "Un loc de scufundări popular, cu un platou puțin adânc și doi piloni de corali mari, plini de pești de sticlă.",
+                  "category": "landmark",
+                  "coords": [
+                        34.302488,
+                        27.846658
+                  ]
+            },
+            {
+                  "name": "el Fanara Beach",
+                  "text": "O plajă pitorească situată în vârful peninsulei Ras Umm Sid, oferind vederi spre Strâmtoarea Tiran.",
+                  "category": "landmark",
+                  "coords": [
+                        34.314182,
+                        27.848253
+                  ]
+            },
+            {
+                  "name": "Sodfa",
+                  "text": "Un perete de recif vibrant, cunoscut pentru diversitatea de corali moi și pentru observarea peștilor pelagici trecători.",
+                  "category": "landmark",
+                  "coords": [
+                        34.329325,
+                        27.887794
+                  ]
+            },
+            {
+                  "name": "Pinky Wall",
+                  "text": "Un perete subacvatic vertical, numit astfel datorită abundenței de corali moi roz care îi acoperă suprafața.",
+                  "category": "landmark",
+                  "coords": [
+                        34.322016,
+                        27.87956
+                  ]
+            },
+            {
+                  "name": "Tower",
+                  "text": "Un stâlp de corali vertical spectaculos de 40 de metri, care oferă un cadru dramatic pentru scufundările de adâncime.",
+                  "category": "landmark",
+                  "coords": [
+                        34.326222,
+                        27.882292
+                  ]
+            },
+            {
+                  "name": "Turtle Bay",
+                  "text": "O lagună de corali adăpostită, vizitată frecvent de țestoasele Hawksbill care se hrănesc printre recifele puțin adânce.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32296,
+                        27.864461
+                  ]
+            },
+            {
+                  "name": "Sinai Grand Casino",
+                  "text": "Un cazinou mare pe Peninsula Sinai, care oferă o varietate de mese de joc și divertisment.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340312,
+                        27.918536
+                  ]
+            },
+            {
+                  "name": "Sharm",
+                  "text": "O stațiune populară la Marea Roșie, renumită pentru locurile de scufundări de clasă mondială și plajele cu nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32448,
+                        27.908208
+                  ]
+            },
+            {
+                  "name": "Faraana atv safari",
+                  "text": "Tururi ghidate cu ATV-ul prin peisajul deșertic arid al Sinaiului, în apropierea coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        34.313349,
+                        27.944276
+                  ]
+            },
+            {
+                  "name": "Amirati Beach",
+                  "text": "O porțiune relaxantă de coastă la Marea Roșie, ideală pentru plajă și înot.",
+                  "category": "landmark",
+                  "coords": [
+                        34.289538,
+                        27.861827
+                  ]
+            },
+            {
+                  "name": "green",
+                  "text": "Un far de coastă la intrarea în port, care ghidează navele în golf.",
+                  "category": "landmark",
+                  "coords": [
+                        34.286168,
+                        27.850349
+                  ]
+            },
+            {
+                  "name": "tank",
+                  "text": "Un vehicul militar expus, care servește ca monument ce amintește de istoria recentă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        34.289829,
+                        27.85073
+                  ]
+            },
+            {
+                  "name": "Safir Sharm Waterfalls Resort",
+                  "text": "O stațiune la plajă cu piscine în cascadă și acces direct la recifele de corali de la Marea Roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        34.315131,
+                        27.85585
+                  ]
+            },
+            {
+                  "name": "Alf Leila Wa Leila",
+                  "text": "Un complex de divertisment în stilul O mie și una de nopți, cu arhitectură arabă și spectacole de seară.",
+                  "category": "landmark",
+                  "coords": [
+                        34.310319,
+                        27.858733
+                  ]
+            },
+            {
+                  "name": "Coptic Orthodox Church of St. Mary and St. Mina",
+                  "text": "O biserică ortodoxă coptă modernă, decorată cu fresce și icoane detaliate în interior.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305699,
+                        27.850408
+                  ]
+            },
+            {
+                  "name": "Rahman mosque",
+                  "text": "O moschee locală cu un minaret distinctiv, care servește drept centru religios pentru locuitori.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305007,
+                        27.851891
+                  ]
+            },
+            {
+                  "name": "Sayyidat As-Salam Church",
+                  "text": "O biserică catolică din Sharm El Sheikh, care oferă servicii religioase pentru comunitatea creștină și vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296927,
+                        27.884436
+                  ]
+            },
+            {
+                  "name": "Cathedral of All Saints Who Live in Heaven",
+                  "text": "O catedrală coptă magnifică, cunoscută pentru picturile sale impresionante pe tavan și decorațiunile bogate.",
+                  "category": "landmark",
+                  "coords": [
+                        34.295411,
+                        27.887955
+                  ]
+            },
+            {
+                  "name": "Coral beach private beach",
+                  "text": "O plajă privată într-un golf cu corali, oferind condiții excelente de snorkeling direct de la mal.",
+                  "category": "recreational",
+                  "coords": [
+                        34.298369,
+                        27.854856
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "O zonă de coastă accesibilă, care oferă facilități populare pentru înot și sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        34.328,
+                        27.912454
+                  ]
+            },
+            {
+                  "name": "Strand FANARA",
+                  "text": "O plajă situată sub stâncile din Ras Um Sid, cunoscută pentru apele sale limpezi și fauna marină bogată.",
+                  "category": "recreational",
+                  "coords": [
+                        34.312609,
+                        27.849169
+                  ]
+            },
+            {
+                  "name": "Gafy Resort",
+                  "text": "O porțiune extinsă de plajă în Golful Naama, mărginită de palmieri și ape puțin adânci.",
+                  "category": "recreational",
+                  "coords": [
+                        34.3345,
+                        27.915195
+                  ]
+            },
+            {
+                  "name": "El Fanar",
+                  "text": "O plajă situată lângă far, cunoscută pentru pereții de recif abrupți și condițiile excelente de scufundări.",
+                  "category": "recreational",
+                  "coords": [
+                        34.315255,
+                        27.847963
+                  ]
+            },
+            {
+                  "name": "Albatros Aqua Park Sharm",
+                  "text": "Un parc acvatic uriaș, cu numeroase tobogane, piscine cu valuri și zone de joacă tematice pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        34.309198,
+                        27.857261
+                  ]
+            },
+            {
+                  "name": "Amphoras Beach",
+                  "text": "O stațiune la plajă numită după amforele antice găsite în apele din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        34.323879,
+                        27.867383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ras Umm Sid",
+                  "text": "A prominent headland on the Red Sea known for its spectacular fan corals and steep underwater drop-offs.",
+                  "category": "landmark",
+                  "coords": [
+                        34.31648,
+                        27.847261
+                  ]
+            },
+            {
+                  "name": "Garden Bay",
+                  "text": "A calm and sheltered bay in Sharm El Sheikh, popular for its luxury beach resorts and clear waters.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352489,
+                        27.913884
+                  ]
+            },
+            {
+                  "name": "King Tut Museum",
+                  "text": "Displays meticulously crafted replicas of the treasures found in Pharaoh Tutankhamun’s famous tomb.",
+                  "category": "museum",
+                  "coords": [
+                        34.318814,
+                        27.907478
+                  ]
+            },
+            {
+                  "name": "Mohamed Ali Pacha",
+                  "text": "A monument dedicated to the former ruler of Egypt, marking his historical legacy in the region.",
+                  "category": "historical",
+                  "coords": [
+                        34.296414,
+                        27.866258
+                  ]
+            },
+            {
+                  "name": "Afira",
+                  "text": "The scattered ruins of ancient desert structures located near the Red Sea coast in South Sinai.",
+                  "category": "historical",
+                  "coords": [
+                        34.290503,
+                        27.865453
+                  ]
+            },
+            {
+                  "name": "Animation Dessole Seti Sharm",
+                  "text": "An open-air theatre and entertainment venue hosting nightly cultural shows and live performances.",
+                  "category": "cultural",
+                  "coords": [
+                        34.295994,
+                        27.863305
+                  ]
+            },
+            {
+                  "name": "Amphoras",
+                  "text": "A famous dive site named after the remains of an 18th-century Turkish vessel carrying clay amphorae.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32528,
+                        27.869279
+                  ]
+            },
+            {
+                  "name": "Middle Garden",
+                  "text": "A vibrant coral reef plateau featuring a variety of brain and fire corals, ideal for underwater photography.",
+                  "category": "landmark",
+                  "coords": [
+                        34.351121,
+                        27.91296
+                  ]
+            },
+            {
+                  "name": "Far Garden",
+                  "text": "A scenic reef slope at the northern end of the bay, known for its colorful coral overhangs and caves.",
+                  "category": "landmark",
+                  "coords": [
+                        34.358875,
+                        27.915005
+                  ]
+            },
+            {
+                  "name": "Near Garden",
+                  "text": "A shallow coral garden easily accessible from the shore, perfect for beginner snorkelers to observe marine life.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346712,
+                        27.908104
+                  ]
+            },
+            {
+                  "name": "Marsa Kharita",
+                  "text": "A quiet coastal inlet on the Red Sea offering turquoise waters and a sandy seabed for swimming.",
+                  "category": "landmark",
+                  "coords": [
+                        34.266769,
+                        27.824695
+                  ]
+            },
+            {
+                  "name": "Ras Ghozlani",
+                  "text": "A protected area within Ras Muhammad National Park featuring pristine beaches and healthy coral patches.",
+                  "category": "landmark",
+                  "coords": [
+                        34.261943,
+                        27.789443
+                  ]
+            },
+            {
+                  "name": "Ras Katy",
+                  "text": "A popular dive site with a shallow plateau and two large coral pinnacles teeming with glassfish.",
+                  "category": "landmark",
+                  "coords": [
+                        34.302488,
+                        27.846658
+                  ]
+            },
+            {
+                  "name": "el Fanara Beach",
+                  "text": "A scenic beach located on the tip of the Ras Umm Sid peninsula, offering views of the Tiran Strait.",
+                  "category": "landmark",
+                  "coords": [
+                        34.314182,
+                        27.848253
+                  ]
+            },
+            {
+                  "name": "Sodfa",
+                  "text": "A vibrant reef wall known for its diversity of soft corals and sightings of passing pelagic fish.",
+                  "category": "landmark",
+                  "coords": [
+                        34.329325,
+                        27.887794
+                  ]
+            },
+            {
+                  "name": "Pinky Wall",
+                  "text": "A vertical underwater cliff named for the abundance of pink alcyonarian soft corals covering its surface.",
+                  "category": "landmark",
+                  "coords": [
+                        34.322016,
+                        27.87956
+                  ]
+            },
+            {
+                  "name": "Tower",
+                  "text": "A spectacular 40-meter vertical coral pillar that provides a dramatic backdrop for deep-sea diving.",
+                  "category": "landmark",
+                  "coords": [
+                        34.326222,
+                        27.882292
+                  ]
+            },
+            {
+                  "name": "Turtle Bay",
+                  "text": "A sheltered coral lagoon frequently visited by hawksbill turtles feeding among the shallow reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32296,
+                        27.864461
+                  ]
+            },
+            {
+                  "name": "Sinai Grand Casino",
+                  "text": "A large casino resort on the Sinai Peninsula offering a variety of gaming tables and entertainment.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340312,
+                        27.918536
+                  ]
+            },
+            {
+                  "name": "Sharm",
+                  "text": "A popular Red Sea resort town famous for its world-class diving sites and sandy beaches.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32448,
+                        27.908208
+                  ]
+            },
+            {
+                  "name": "Faraana atv safari",
+                  "text": "Guided quad bike tours through the arid desert landscape of the Sinai near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        34.313349,
+                        27.944276
+                  ]
+            },
+            {
+                  "name": "Amirati Beach",
+                  "text": "A relaxed coastal stretch on the Red Sea, ideal for sunbathing and swimming.",
+                  "category": "landmark",
+                  "coords": [
+                        34.289538,
+                        27.861827
+                  ]
+            },
+            {
+                  "name": "green",
+                  "text": "A coastal navigation light at the harbor entrance, guiding ships into the bay.",
+                  "category": "landmark",
+                  "coords": [
+                        34.286168,
+                        27.850349
+                  ]
+            },
+            {
+                  "name": "tank",
+                  "text": "An exhibited military vehicle serving as a monument recalling the region's recent history.",
+                  "category": "landmark",
+                  "coords": [
+                        34.289829,
+                        27.85073
+                  ]
+            },
+            {
+                  "name": "Safir Sharm Waterfalls Resort",
+                  "text": "A beach resort featuring cascading pools and direct access to the Red Sea coral reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        34.315131,
+                        27.85585
+                  ]
+            },
+            {
+                  "name": "Alf Leila Wa Leila",
+                  "text": "A 'One Thousand and One Nights' themed entertainment complex with Arabian architecture and evening shows.",
+                  "category": "landmark",
+                  "coords": [
+                        34.310319,
+                        27.858733
+                  ]
+            },
+            {
+                  "name": "Coptic Orthodox Church of St. Mary and St. Mina",
+                  "text": "A modern Coptic Orthodox church decorated with detailed frescoes and icons inside.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305699,
+                        27.850408
+                  ]
+            },
+            {
+                  "name": "Rahman mosque",
+                  "text": "A local mosque with a prominent minaret, serving as a religious center for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305007,
+                        27.851891
+                  ]
+            },
+            {
+                  "name": "Sayyidat As-Salam Church",
+                  "text": "A Catholic church in Sharm El Sheikh offering services for the Christian community and visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296927,
+                        27.884436
+                  ]
+            },
+            {
+                  "name": "Cathedral of All Saints Who Live in Heaven",
+                  "text": "A grand Coptic cathedral famous for its stunning ceiling paintings and rich interior decoration.",
+                  "category": "landmark",
+                  "coords": [
+                        34.295411,
+                        27.887955
+                  ]
+            },
+            {
+                  "name": "Coral beach private beach",
+                  "text": "A private beach on a coral bay, offering excellent snorkeling opportunities right off the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        34.298369,
+                        27.854856
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "An accessible coastal area providing popular opportunities for swimming and water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        34.328,
+                        27.912454
+                  ]
+            },
+            {
+                  "name": "Strand FANARA",
+                  "text": "A beach nestled below the Ras Um Sid cliffs, known for its clear waters and rich marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        34.312609,
+                        27.849169
+                  ]
+            },
+            {
+                  "name": "Gafy Resort",
+                  "text": "An extensive beach section in Naama Bay, lined with palm trees and shallow waters.",
+                  "category": "recreational",
+                  "coords": [
+                        34.3345,
+                        27.915195
+                  ]
+            },
+            {
+                  "name": "El Fanar",
+                  "text": "A beach located near the lighthouse, famous for its steep reef drop-offs and excellent diving conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        34.315255,
+                        27.847963
+                  ]
+            },
+            {
+                  "name": "Albatros Aqua Park Sharm",
+                  "text": "A massive water park featuring numerous slides, wave pools, and themed play areas for families.",
+                  "category": "recreational",
+                  "coords": [
+                        34.309198,
+                        27.857261
+                  ]
+            },
+            {
+                  "name": "Amphoras Beach",
+                  "text": "A beach resort named after the ancient amphorae discovered in the nearby waters.",
+                  "category": "recreational",
+                  "coords": [
+                        34.323879,
+                        27.867383
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EG-JS",
     coords: [34.2869, 27.8606],

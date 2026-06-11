@@ -196,7 +196,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Wolftrap Mountain",
-                  "text": "Der Wolftrap Mountain ist eine bedeutende Erhebung in den Slieve Bloom Mountains.",
+                  "text": "Ein Gipfel in den Slieve-Bloom-Bergen.",
                   "category": "landmark",
                   "coords": [
                         -7.587459,
@@ -225,7 +225,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Wolftrap Mountain",
-                  "text": "A Wolftrap Mountain a Slieve Bloom-hegység egyik jelentős magaslata.",
+                  "text": "Egy csúcs a Slieve Bloom-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -7.587459,
@@ -254,7 +254,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Wolftrap Mountain",
-                  "text": "Wolftrap Mountain este o înălțime semnificativă în munții Slieve Bloom.",
+                  "text": "Un vârf din munții Slieve Bloom.",
                   "category": "landmark",
                   "coords": [
                         -7.587459,
@@ -283,7 +283,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Wolftrap Mountain",
-                  "text": "Wolftrap Mountain is a significant elevation in the Slieve Bloom Mountains.",
+                  "text": "A peak in the Slieve Bloom mountains.",
                   "category": "landmark",
                   "coords": [
                         -7.587459,
@@ -340,7 +340,7 @@ export const irelandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Inishcoe Castle",
-                  "text": "Burgruine in der Nähe des Berges Nephin.",
+                  "text": "Heritage-geschützte Burg am Nephin Mountain.",
                   "category": "castle",
                   "coords": [
                         -9.299759,
@@ -349,7 +349,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathleenan",
-                  "text": "Antike Erdbefestigung in der Nephin-Region.",
+                  "text": "Rathleenan, ein Ringfort am Hang des Nephin Mountain.",
                   "category": "historical",
                   "coords": [
                         -9.363122,
@@ -358,7 +358,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathnaboogh",
-                  "text": "Historische archäologische Stätte in der Grafschaft Mayo.",
+                  "text": "Rathnaboogh, eine antike Befestigung nahe Nephin Mountain mit sichtbaren Wällen.",
                   "category": "historical",
                   "coords": [
                         -9.364961,
@@ -367,7 +367,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathmore",
-                  "text": "Überreste einer alten Ringfestung bei Nephin.",
+                  "text": "Rathmore, ein großes Ringfort nahe Nephin Mountain mit einem steinernen Cashel.",
                   "category": "historical",
                   "coords": [
                         -9.364094,
@@ -376,7 +376,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathmacostello",
-                  "text": "Archäologischer Fundplatz in der ländlichen Gegend von Nephin.",
+                  "text": "Rathmacostello, ein Erdringfort nahe Nephin Mountain aus dem frühen Mittelalter.",
                   "category": "historical",
                   "coords": [
                         -9.370302,
@@ -385,7 +385,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Skehanagh Fort",
-                  "text": "Historische Wallanlage in der Nähe des Berges Nephin.",
+                  "text": "Skehanagh Fort, ein kreisförmiger Erdwall nahe Nephin Mountain zur Verteidigung.",
                   "category": "historical",
                   "coords": [
                         -9.352553,
@@ -405,7 +405,7 @@ export const irelandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Inishcoe Castle",
-                  "text": "Várrom a Nephin-hegy közelében.",
+                  "text": "Örökségvédelmi vár a Nephin-hegynél.",
                   "category": "castle",
                   "coords": [
                         -9.299759,
@@ -414,7 +414,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathleenan",
-                  "text": "Ősi földvár a Nephin-vidéken.",
+                  "text": "Rathleenan, egy gyűrűvár a Nephin-hegy lejtőjén.",
                   "category": "historical",
                   "coords": [
                         -9.363122,
@@ -423,7 +423,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathnaboogh",
-                  "text": "Történelmi régészeti lelőhely Mayo megyében.",
+                  "text": "Rathnaboogh, egy ősi erődítmény Nephin-hegy közelében, látható sáncokkal.",
                   "category": "historical",
                   "coords": [
                         -9.364961,
@@ -432,7 +432,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathmore",
-                  "text": "Egy ősi gyűrűerőd maradványai Nephin közelében.",
+                  "text": "Rathmore, egy nagy gyűrűvár Nephin-hegy közelében, kőkashellel.",
                   "category": "historical",
                   "coords": [
                         -9.364094,
@@ -441,7 +441,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathmacostello",
-                  "text": "Régészeti lelőhely Nephin vidéki területén.",
+                  "text": "Rathmacostello, egy földgyűrűvár Nephin-hegy közelében, kora középkori.",
                   "category": "historical",
                   "coords": [
                         -9.370302,
@@ -450,7 +450,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Skehanagh Fort",
-                  "text": "Történelmi erődítmény a Nephin-hegy közelében.",
+                  "text": "Skehanagh Fort, egy kör alakú földsánc Nephin-hegy közelében, védelmi célokra.",
                   "category": "historical",
                   "coords": [
                         -9.352553,
@@ -470,7 +470,7 @@ export const irelandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Inishcoe Castle",
-                  "text": "Ruinele unui castel lângă muntele Nephin.",
+                  "text": "Castel protejat de patrimoniu la Muntele Nephin.",
                   "category": "castle",
                   "coords": [
                         -9.299759,
@@ -479,7 +479,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathleenan",
-                  "text": "Veche fortificație de pământ în regiunea Nephin.",
+                  "text": "Rathleenan, un fort circular pe panta Muntelui Nephin.",
                   "category": "historical",
                   "coords": [
                         -9.363122,
@@ -488,7 +488,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathnaboogh",
-                  "text": "Sit arheologic istoric în comitatul Mayo.",
+                  "text": "Rathnaboogh, o fortificație străveche lângă Muntele Nephin, cu valuri vizibile.",
                   "category": "historical",
                   "coords": [
                         -9.364961,
@@ -497,7 +497,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathmore",
-                  "text": "Rămășițele unui vechi fort circular lângă Nephin.",
+                  "text": "Rathmore, un fort circular mare lângă Muntele Nephin, cu un cashel de piatră.",
                   "category": "historical",
                   "coords": [
                         -9.364094,
@@ -506,7 +506,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathmacostello",
-                  "text": "Sit arheologic în zona rurală din Nephin.",
+                  "text": "Rathmacostello, un fort circular de pământ lângă Muntele Nephin, posibil din Evul Mediu timpuriu.",
                   "category": "historical",
                   "coords": [
                         -9.370302,
@@ -515,7 +515,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Skehanagh Fort",
-                  "text": "Fortificație istorică lângă muntele Nephin.",
+                  "text": "Skehanagh Fort, un val de pământ circular lângă Muntele Nephin, folosit pentru apărare.",
                   "category": "historical",
                   "coords": [
                         -9.352553,
@@ -535,7 +535,7 @@ export const irelandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Inishcoe Castle",
-                  "text": "Ruined castle located near Nephin mountain.",
+                  "text": "Heritage-listed castle at Nephin Mountain.",
                   "category": "castle",
                   "coords": [
                         -9.299759,
@@ -544,7 +544,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathleenan",
-                  "text": "Ancient earthwork fortification in the Nephin region.",
+                  "text": "Rathleenan, a ringfort on the slopes of Nephin Mountain.",
                   "category": "historical",
                   "coords": [
                         -9.363122,
@@ -553,7 +553,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathnaboogh",
-                  "text": "Historic archaeological site in County Mayo.",
+                  "text": "Rathnaboogh, an ancient fortification near Nephin Mountain with visible ramparts.",
                   "category": "historical",
                   "coords": [
                         -9.364961,
@@ -562,7 +562,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathmore",
-                  "text": "Remains of an ancient ringfort near Nephin.",
+                  "text": "Rathmore, a large ringfort near Nephin Mountain with a stone cashel.",
                   "category": "historical",
                   "coords": [
                         -9.364094,
@@ -571,7 +571,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Rathmacostello",
-                  "text": "Archaeological site in the rural Nephin area.",
+                  "text": "Rathmacostello, an earthen ringfort near Nephin Mountain from the early medieval period.",
                   "category": "historical",
                   "coords": [
                         -9.370302,
@@ -580,7 +580,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Skehanagh Fort",
-                  "text": "Historic fortification near Nephin mountain.",
+                  "text": "Skehanagh Fort, a circular earthwork near Nephin Mountain used for defense.",
                   "category": "historical",
                   "coords": [
                         -9.352553,
@@ -1132,7 +1132,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Palliser Mill",
-                  "text": "Historische Ruinen einer alten Mühle in den Comeragh Mountains.",
+                  "text": "Palliser Mill, eine historische Wassermühle in den Commeragh Mountains, heute eine Ruine.",
                   "category": "historical",
                   "coords": [
                         -7.505607,
@@ -1197,7 +1197,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Palliser Mill",
-                  "text": "Egy régi malom történelmi romjai a Comeragh-hegységben.",
+                  "text": "Palliser Mill, egy történelmi vízimalom a Commeragh-hegységben, ma rom.",
                   "category": "historical",
                   "coords": [
                         -7.505607,
@@ -1262,7 +1262,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Palliser Mill",
-                  "text": "Ruinele istorice ale unei vechi mori situate în Munții Comeragh.",
+                  "text": "Palliser Mill, o moară de apă istorică în Munții Commeragh, acum în ruine.",
                   "category": "historical",
                   "coords": [
                         -7.505607,
@@ -1327,7 +1327,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Palliser Mill",
-                  "text": "Historical ruins of an old mill located in the Comeragh Mountains.",
+                  "text": "Palliser Mill, a historic watermill in the Commeragh Mountains, now in ruins.",
                   "category": "historical",
                   "coords": [
                         -7.505607,
@@ -1393,7 +1393,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Lisbalting",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Region Slievenamon.",
+                  "text": "Lisbalting, ein Ringfort in der Slieve Na Mon Bergkette mit erhöhter Plattform.",
                   "category": "historical",
                   "coords": [
                         -7.524389,
@@ -1402,7 +1402,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "St. John's",
-                  "text": "Eine religiöse Stätte in der Nähe von Slievenamon.",
+                  "text": "Eine Kirche an den Hängen des Slieve Na Mon.",
                   "category": "religious",
                   "coords": [
                         -7.539744,
@@ -1422,7 +1422,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Lisbalting",
-                  "text": "Régészeti lelőhely a Slievenamon régióban.",
+                  "text": "Lisbalting, egy gyűrűvár a Slieve Na Mon hegyvonulatban, emelt platformmal.",
                   "category": "historical",
                   "coords": [
                         -7.524389,
@@ -1431,7 +1431,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "St. John's",
-                  "text": "Vallási helyszín Slievenamon közelében.",
+                  "text": "Templom a Slieve Na Mon lejtőin.",
                   "category": "religious",
                   "coords": [
                         -7.539744,
@@ -1451,7 +1451,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Lisbalting",
-                  "text": "Un sit arheologic în regiunea Slievenamon.",
+                  "text": "Lisbalting, un fort circular în lanțul Slieve Na Mon, cu o platformă ridicată.",
                   "category": "historical",
                   "coords": [
                         -7.524389,
@@ -1460,7 +1460,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "St. John's",
-                  "text": "Un lăcaș de cult situat în apropiere de Slievenamon.",
+                  "text": "O biserică pe versantul muntelui Slieve Na Mon.",
                   "category": "religious",
                   "coords": [
                         -7.539744,
@@ -1480,7 +1480,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Lisbalting",
-                  "text": "An archaeological site situated in the Slievenamon region.",
+                  "text": "Lisbalting, a ringfort in the Slieve Na Mon range with a raised platform.",
                   "category": "historical",
                   "coords": [
                         -7.524389,
@@ -1489,7 +1489,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "St. John's",
-                  "text": "A place of worship located near Slievenamon.",
+                  "text": "A church on the slopes of Slieve Na Mon.",
                   "category": "religious",
                   "coords": [
                         -7.539744,
@@ -1546,7 +1546,7 @@ export const irelandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Derryclare Nature Reserve",
-                  "text": "Naturschutzgebiet in den Twelve Bens Bergen in Irland.",
+                  "text": "Derryclare Nature Reserve, ein Schutzgebiet in den Twelve Bens mit Hochmooren und Seen.",
                   "category": "natural",
                   "coords": [
                         -9.757185,
@@ -1555,7 +1555,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Derryclare",
-                  "text": "Ein Berggipfel in der Twelve Bens Gebirgskette.",
+                  "text": "Ein Berg in den Twelve Bens.",
                   "category": "landmark",
                   "coords": [
                         -9.785826,
@@ -1564,7 +1564,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Cnoc Lios Uachtair",
-                  "text": "Ein markanter Gipfel in der Region Twelve Bens.",
+                  "text": "Ein Hügel in den Twelve Bens.",
                   "category": "landmark",
                   "coords": [
                         -9.71848,
@@ -1575,7 +1575,7 @@ export const irelandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Derryclare Nature Reserve",
-                  "text": "Természetvédelmi terület az írországi Twelve Bens hegységben.",
+                  "text": "Derryclare Természetvédelmi Terület, a Twelve Bens-hegységben, tőzeglápokkal és tavakkal.",
                   "category": "natural",
                   "coords": [
                         -9.757185,
@@ -1584,7 +1584,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Derryclare",
-                  "text": "Hegycsúcs a Twelve Bens hegységben.",
+                  "text": "Hegy a Twelve Bensben.",
                   "category": "landmark",
                   "coords": [
                         -9.785826,
@@ -1593,7 +1593,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Cnoc Lios Uachtair",
-                  "text": "Jellegzetes hegycsúcs a Twelve Bens régióban.",
+                  "text": "Domb a Twelve Bensben.",
                   "category": "landmark",
                   "coords": [
                         -9.71848,
@@ -1604,7 +1604,7 @@ export const irelandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Derryclare Nature Reserve",
-                  "text": "Rezervație naturală în munții Twelve Bens din Irlanda.",
+                  "text": "Rezervația Naturală Derryclare, o arie protejată în Munții Twelve Bens, cu mlaștini înalte și lacuri.",
                   "category": "natural",
                   "coords": [
                         -9.757185,
@@ -1613,7 +1613,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Derryclare",
-                  "text": "Un vârf muntos în lanțul Twelve Bens.",
+                  "text": "Un munte în Twelve Bens.",
                   "category": "landmark",
                   "coords": [
                         -9.785826,
@@ -1622,7 +1622,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Cnoc Lios Uachtair",
-                  "text": "Un vârf proeminent în regiunea Twelve Bens.",
+                  "text": "Un deal în Twelve Bens.",
                   "category": "landmark",
                   "coords": [
                         -9.71848,
@@ -1633,7 +1633,7 @@ export const irelandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Derryclare Nature Reserve",
-                  "text": "Nature reserve located in the Twelve Bens mountains in Ireland.",
+                  "text": "Derryclare Nature Reserve, a protected area in the Twelve Bens with blanket bogs and lakes.",
                   "category": "natural",
                   "coords": [
                         -9.757185,
@@ -1642,7 +1642,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Derryclare",
-                  "text": "A mountain peak in the Twelve Bens range.",
+                  "text": "A mountain in the Twelve Bens range.",
                   "category": "landmark",
                   "coords": [
                         -9.785826,
@@ -1651,7 +1651,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Lissaughter",
-                  "text": "A prominent peak in the Twelve Bens region.",
+                  "text": "A hill in the Twelve Bens range.",
                   "category": "landmark",
                   "coords": [
                         -9.71848,
@@ -1915,7 +1915,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Toberone",
-                  "text": "Eine natürliche Quelle in der Region Slieve Ardagh.",
+                  "text": "Ein Hügel im Slieve Ardagh-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         -7.591674,
@@ -1971,7 +1971,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Toberone",
-                  "text": "Természetes forrás Slieve Ardagh régiójában.",
+                  "text": "Domb a Slieve Ardagh vidékén.",
                   "category": "landmark",
                   "coords": [
                         -7.591674,
@@ -2027,7 +2027,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Toberone",
-                  "text": "Un izvor natural situat în regiunea Slieve Ardagh.",
+                  "text": "Un deal în zona Slieve Ardagh.",
                   "category": "landmark",
                   "coords": [
                         -7.591674,
@@ -2083,7 +2083,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Toberone",
-                  "text": "A natural spring located in the Slieve Ardagh region.",
+                  "text": "A hill in the Slieve Ardagh area.",
                   "category": "landmark",
                   "coords": [
                         -7.591674,
@@ -2176,7 +2176,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Kilbrannish Hill",
-                  "text": "Ein malerischer Hügel in der Nähe des Mount Leinster.",
+                  "text": "Ein Hügel im Mount Leinstar-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         -6.750831,
@@ -2185,7 +2185,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Scratoe",
-                  "text": "Ein Berggipfel in der Gegend von Mount Leinster.",
+                  "text": "Ein Hügel im Mount Leinstar-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         -6.763727,
@@ -2203,7 +2203,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Saint Finian's Church",
-                  "text": "Eine lokale Kirche in der Gemeinde Mount Leinster.",
+                  "text": "Eine Kirche im Mount Leinstar-Gebiet.",
                   "category": "religious",
                   "coords": [
                         -6.780298,
@@ -2250,7 +2250,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Kilbrannish Hill",
-                  "text": "Festői domb a Mount Leinster környékén.",
+                  "text": "Domb a Mount Leinstar vidékén.",
                   "category": "landmark",
                   "coords": [
                         -6.750831,
@@ -2259,7 +2259,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Scratoe",
-                  "text": "Hegycsúcs a Mount Leinster területén.",
+                  "text": "Domb a Mount Leinstar vidékén.",
                   "category": "landmark",
                   "coords": [
                         -6.763727,
@@ -2277,7 +2277,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Saint Finian's Church",
-                  "text": "Helyi templom Mount Leinster községében.",
+                  "text": "Templom a Mount Leinstar vidékén.",
                   "category": "religious",
                   "coords": [
                         -6.780298,
@@ -2324,7 +2324,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Kilbrannish Hill",
-                  "text": "Un deal pitoresc situat în apropiere de Mount Leinster.",
+                  "text": "Un deal în zona Mount Leinstar.",
                   "category": "landmark",
                   "coords": [
                         -6.750831,
@@ -2333,7 +2333,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Scratoe",
-                  "text": "Un vârf montan în zona Mount Leinster.",
+                  "text": "Un deal în zona Mount Leinstar.",
                   "category": "landmark",
                   "coords": [
                         -6.763727,
@@ -2351,7 +2351,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Saint Finian's Church",
-                  "text": "O biserică locală în comunitatea Mount Leinster.",
+                  "text": "O biserică în zona Mount Leinstar.",
                   "category": "religious",
                   "coords": [
                         -6.780298,
@@ -2398,7 +2398,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Kilbrannish Hill",
-                  "text": "A scenic hill located in the vicinity of Mount Leinster.",
+                  "text": "A hill in the Mount Leinstar area.",
                   "category": "landmark",
                   "coords": [
                         -6.750831,
@@ -2407,7 +2407,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Scratoe",
-                  "text": "A mountain peak in the Mount Leinster area.",
+                  "text": "A hill in the Mount Leinstar area.",
                   "category": "landmark",
                   "coords": [
                         -6.763727,
@@ -2425,7 +2425,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Saint Finian's Church",
-                  "text": "A local church serving the Mount Leinster community.",
+                  "text": "A church in the Mount Leinstar area.",
                   "category": "religious",
                   "coords": [
                         -6.780298,
@@ -3139,7 +3139,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Trá Ghob na hAirde",
-                  "text": "Trá Ghob na hAirde liegt bei Slieve More.",
+                  "text": "Trá Ghob na hAirde, ein Sandstrand unterhalb des Slieve More, ideal zum Wandern und Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         -9.979435,
@@ -3222,7 +3222,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Trá Ghob na hAirde",
-                  "text": "A Trá Ghob na hAirde a Slieve More közelében található.",
+                  "text": "Trá Ghob na hAirde, egy homokos strand a Slieve More alatt, tökéletes túrázáshoz és úszáshoz.",
                   "category": "recreational",
                   "coords": [
                         -9.979435,
@@ -3305,7 +3305,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Trá Ghob na hAirde",
-                  "text": "Trá Ghob na hAirde este situată lângă Slieve More.",
+                  "text": "Trá Ghob na hAirde, o plajă cu nisip sub Slieve More, perfectă pentru drumeții și înot.",
                   "category": "recreational",
                   "coords": [
                         -9.979435,
@@ -3388,7 +3388,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Trá Ghob na hAirde",
-                  "text": "Trá Ghob na hAirde is located near Slieve More.",
+                  "text": "Trá Ghob na hAirde, a sandy beach below Slieve More, perfect for hiking and swimming.",
                   "category": "recreational",
                   "coords": [
                         -9.979435,
@@ -3715,7 +3715,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Lisnagrave",
-                  "text": "Lisnagrave ist eine archäologische Fundstätte in Slieve Mis.",
+                  "text": "Lisnagrave, ein Ringfort in den Slieve Mis Bergen mit Talblick.",
                   "category": "historical",
                   "coords": [
                         -9.785054,
@@ -3724,7 +3724,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Baurtregaum",
-                  "text": "Der Baurtregaum ist der höchste Berg in der Slieve-Mis-Kette.",
+                  "text": "Ein Berg in der Slieve-Mis-Kette.",
                   "category": "landmark",
                   "coords": [
                         -9.829501,
@@ -3751,7 +3751,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Castle Hill",
-                  "text": "Castle Hill ist ein Gipfel in den Slieve-Mis-Bergen.",
+                  "text": "Ein Hügel in der Slieve Mis-Kette, mit Burganlagen.",
                   "category": "landmark",
                   "coords": [
                         -9.819697,
@@ -3760,7 +3760,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Glanbrack Mountain",
-                  "text": "Der Glanbrack Mountain ist ein Teil des Slieve-Mis-Gebirges.",
+                  "text": "Ein Berg in der Slieve Mis-Kette.",
                   "category": "landmark",
                   "coords": [
                         -9.796784,
@@ -3769,7 +3769,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockauncorragh",
-                  "text": "Knockauncorragh ist ein Berggipfel in Slieve Mis.",
+                  "text": "Ein Gipfel in der Slieve Mis-Kette.",
                   "category": "landmark",
                   "coords": [
                         -9.771664,
@@ -3789,7 +3789,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Lisnagrave",
-                  "text": "Lisnagrave egy régészeti lelőhely Slieve Mis területén.",
+                  "text": "Lisnagrave, egy gyűrűvár a Slieve Mis-hegységben, kilátással a völgyre.",
                   "category": "historical",
                   "coords": [
                         -9.785054,
@@ -3798,7 +3798,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Baurtregaum",
-                  "text": "A Baurtregaum a Slieve Mis-hegység legmagasabb csúcsa.",
+                  "text": "Egy hegy a Slieve Mis-hegyláncban.",
                   "category": "landmark",
                   "coords": [
                         -9.829501,
@@ -3825,7 +3825,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Castle Hill",
-                  "text": "Castle Hill egy hegycsúcs a Slieve Mis-hegységben.",
+                  "text": "Domb a Slieve Mis-hegységben, várromokkal.",
                   "category": "landmark",
                   "coords": [
                         -9.819697,
@@ -3834,7 +3834,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Glanbrack Mountain",
-                  "text": "A Glanbrack Mountain a Slieve Mis-hegylánc egyik csúcsa.",
+                  "text": "Hegy a Slieve Mis-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -9.796784,
@@ -3843,7 +3843,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockauncorragh",
-                  "text": "Knockauncorragh egy hegycsúcs Slieve Mis területén.",
+                  "text": "Csúcs a Slieve Mis-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -9.771664,
@@ -3863,7 +3863,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Lisnagrave",
-                  "text": "Lisnagrave este un sit arheologic situat în Slieve Mis.",
+                  "text": "Lisnagrave, un fort circular în Munții Slieve Mis, cu vedere spre vale.",
                   "category": "historical",
                   "coords": [
                         -9.785054,
@@ -3872,7 +3872,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Baurtregaum",
-                  "text": "Baurtregaum este cel mai înalt vârf din munții Slieve Mis.",
+                  "text": "Un munte în lanțul Slieve Mis.",
                   "category": "landmark",
                   "coords": [
                         -9.829501,
@@ -3899,7 +3899,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Castle Hill",
-                  "text": "Castle Hill este un vârf în munții Slieve Mis.",
+                  "text": "Un deal în lanțul Slieve Mis, cu rămășițe de castel.",
                   "category": "landmark",
                   "coords": [
                         -9.819697,
@@ -3908,7 +3908,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Glanbrack Mountain",
-                  "text": "Glanbrack Mountain este un vârf care face parte din munții Slieve Mis.",
+                  "text": "Un munte în lanțul Slieve Mis.",
                   "category": "landmark",
                   "coords": [
                         -9.796784,
@@ -3917,7 +3917,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockauncorragh",
-                  "text": "Knockauncorragh este un vârf muntos în Slieve Mis.",
+                  "text": "Un vârf în lanțul Slieve Mis.",
                   "category": "landmark",
                   "coords": [
                         -9.771664,
@@ -3937,7 +3937,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Lisnagrave",
-                  "text": "Lisnagrave is an archaeological site located in Slieve Mis.",
+                  "text": "Lisnagrave, a ringfort in the Slieve Mis mountains overlooking the valley.",
                   "category": "historical",
                   "coords": [
                         -9.785054,
@@ -3946,7 +3946,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Baurtregaum",
-                  "text": "Baurtregaum is the highest peak in the Slieve Mis Mountains.",
+                  "text": "A mountain in the Slieve Mis range.",
                   "category": "landmark",
                   "coords": [
                         -9.829501,
@@ -3973,7 +3973,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Castle Hill",
-                  "text": "Castle Hill is a peak in the Slieve Mis mountains.",
+                  "text": "A hill in the Slieve Mis range, with castle remains.",
                   "category": "landmark",
                   "coords": [
                         -9.819697,
@@ -3982,7 +3982,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Glanbrack Mountain",
-                  "text": "Glanbrack Mountain is a peak part of the Slieve Mis mountain range.",
+                  "text": "A mountain in the Slieve Mis range.",
                   "category": "landmark",
                   "coords": [
                         -9.796784,
@@ -3991,7 +3991,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockauncorragh",
-                  "text": "Knockauncorragh is a mountain peak in Slieve Mis.",
+                  "text": "A peak in the Slieve Mis range.",
                   "category": "landmark",
                   "coords": [
                         -9.771664,
@@ -4084,7 +4084,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Mount Gabriel View Point toward North",
-                  "text": "Dieser Aussichtspunkt bietet Besuchern einen freien Blick nach Norden vom Mount Gabriel aus.",
+                  "text": "Mount Gabriel View Point toward North bietet eine Panoramaaussicht auf die Umgebung.",
                   "category": "natural",
                   "coords": [
                         -9.543671,
@@ -4149,7 +4149,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Mount Gabriel View Point toward North",
-                  "text": "Ez a kilátópont északi irányú kilátást nyújt a látogatóknak a Mount Gabrielről.",
+                  "text": "Mount Gabriel View Point toward North panorámás kilátást nyújt a környékre.",
                   "category": "natural",
                   "coords": [
                         -9.543671,
@@ -4214,7 +4214,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Mount Gabriel View Point toward North",
-                  "text": "Acest punct de belvedere oferă vizitatorilor o vedere degajată spre nord de pe Mount Gabriel.",
+                  "text": "Mount Gabriel View Point toward North oferă o vedere panoramică asupra peisajului.",
                   "category": "natural",
                   "coords": [
                         -9.543671,
@@ -4279,7 +4279,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Mount Gabriel View Point toward North",
-                  "text": "This viewpoint offers visitors an unobstructed view toward the north from Mount Gabriel.",
+                  "text": "Mount Gabriel View Point toward North offers panoramic views of the landscape.",
                   "category": "natural",
                   "coords": [
                         -9.543671,
@@ -4921,7 +4921,7 @@ export const irelandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Douce Mountain",
-                  "text": "Ein Berggipfel in den Shehy Mountains in der Grafschaft Cork.",
+                  "text": "Ein Berg in den Shehy Mountains.",
                   "category": "landmark",
                   "coords": [
                         -9.272134,
@@ -4959,7 +4959,7 @@ export const irelandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Douce Mountain",
-                  "text": "Hegycsúcs a Shehy-hegységben, Cork megyében.",
+                  "text": "Hegy a Shehy-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -9.272134,
@@ -4997,7 +4997,7 @@ export const irelandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Douce Mountain",
-                  "text": "Un vârf muntos din Munții Shehy, situat în comitatul Cork.",
+                  "text": "Un munte în Munții Shehy.",
                   "category": "landmark",
                   "coords": [
                         -9.272134,
@@ -5035,7 +5035,7 @@ export const irelandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Douce Mountain",
-                  "text": "A mountain peak in the Shehy Mountains of County Cork.",
+                  "text": "A mountain in the Shehy Mountains.",
                   "category": "landmark",
                   "coords": [
                         -9.272134,
@@ -5119,7 +5119,7 @@ export const irelandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Castle Car",
-                  "text": "Eine markante Sehenswürdigkeit in der Region der Dartry Mountains.",
+                  "text": "Castle Car, eine Burgruine in den Dartry Mountains mit Blick auf einen See.",
                   "category": "castle",
                   "coords": [
                         -8.248856,
@@ -5166,7 +5166,7 @@ export const irelandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Castle Car",
-                  "text": "Egy nevezetesség a Dartry-hegység régiójában.",
+                  "text": "Castle Car, egy várrom a Dartry-hegységben, kilátással egy tóra.",
                   "category": "castle",
                   "coords": [
                         -8.248856,
@@ -5213,7 +5213,7 @@ export const irelandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Castle Car",
-                  "text": "Un punct de interes în regiunea Munților Dartry.",
+                  "text": "Castle Car, o ruină de castel în Munții Dartry, cu vedere spre un lac.",
                   "category": "castle",
                   "coords": [
                         -8.248856,
@@ -5260,7 +5260,7 @@ export const irelandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Castle Car",
-                  "text": "A landmark site in the Dartry Mountains region.",
+                  "text": "Castle Car, a ruined castle in the Dartry Mountains overlooking a lake.",
                   "category": "castle",
                   "coords": [
                         -8.248856,
@@ -5362,7 +5362,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Cullaun",
-                  "text": "Ein Berggipfel in der Slieve Felim Gebirgskette.",
+                  "text": "Ein Hügel im Slieve Felim-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         -8.260532,
@@ -5371,7 +5371,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockastanna",
-                  "text": "Eine Erhebung in den Slieve Felim Mountains.",
+                  "text": "Ein Hügel im Slieve Felim-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         -8.203218,
@@ -5400,7 +5400,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Cullaun",
-                  "text": "Hegyi csúcs a Slieve Felim-hegységben.",
+                  "text": "Domb a Slieve Felim vidékén.",
                   "category": "landmark",
                   "coords": [
                         -8.260532,
@@ -5409,7 +5409,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockastanna",
-                  "text": "Kiemelkedés a Slieve Felim-hegységben.",
+                  "text": "Domb a Slieve Felim vidékén.",
                   "category": "landmark",
                   "coords": [
                         -8.203218,
@@ -5438,7 +5438,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Cullaun",
-                  "text": "Un vârf montan în lanțul muntos Slieve Felim.",
+                  "text": "Un deal în zona Slieve Felim.",
                   "category": "landmark",
                   "coords": [
                         -8.260532,
@@ -5447,7 +5447,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockastanna",
-                  "text": "O colină în munții Slieve Felim.",
+                  "text": "Un deal în zona Slieve Felim.",
                   "category": "landmark",
                   "coords": [
                         -8.203218,
@@ -5476,7 +5476,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Cullaun",
-                  "text": "A mountain peak in the Slieve Felim mountain range.",
+                  "text": "A hill in the Slieve Felim area.",
                   "category": "landmark",
                   "coords": [
                         -8.260532,
@@ -5485,7 +5485,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockastanna",
-                  "text": "An elevation in the Slieve Felim Mountains.",
+                  "text": "A hill in the Slieve Felim area.",
                   "category": "landmark",
                   "coords": [
                         -8.203218,
@@ -5551,7 +5551,7 @@ export const irelandReliefV2: POI[] = [
       "de": [
             {
                   "name": "The Coffin Stone",
-                  "text": "Eine megalithische Ausgrabungsstätte in der Nähe von Luggala.",
+                  "text": "The Coffin Stone, ein megalithisches Monument auf Mount Luggala, mit Bestattungsassoziation.",
                   "category": "historical",
                   "coords": [
                         -6.24982,
@@ -5596,7 +5596,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Tonduff",
-                  "text": "Ein Hochmoor-Gipfel in den irischen Wicklow Mountains.",
+                  "text": "Ein Gipfel im Gebiet des Mount Luggala.",
                   "category": "landmark",
                   "coords": [
                         -6.267349,
@@ -5616,7 +5616,7 @@ export const irelandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "The Coffin Stone",
-                  "text": "Megalitikus régészeti lelőhely Luggala közelében.",
+                  "text": "The Coffin Stone, egy megalitikus emlékmű a Mount Luggala-n, temetkezési asszociációval.",
                   "category": "historical",
                   "coords": [
                         -6.24982,
@@ -5661,7 +5661,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Tonduff",
-                  "text": "Magaslati mocsaras hegycsúcs az írországi Wicklow-hegységben.",
+                  "text": "Egy csúcs a Mount Luggala területén.",
                   "category": "landmark",
                   "coords": [
                         -6.267349,
@@ -5681,7 +5681,7 @@ export const irelandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "The Coffin Stone",
-                  "text": "Un sit arheologic megalitic situat în apropiere de Luggala.",
+                  "text": "The Coffin Stone, un monument megalitic pe Muntele Luggala, asociat cu înmormântări.",
                   "category": "historical",
                   "coords": [
                         -6.24982,
@@ -5726,7 +5726,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Tonduff",
-                  "text": "Un vârf montan cu turbărie în Munții Wicklow din Irlanda.",
+                  "text": "Un vârf în zona Muntelui Luggala.",
                   "category": "landmark",
                   "coords": [
                         -6.267349,
@@ -5746,7 +5746,7 @@ export const irelandReliefV2: POI[] = [
       "en": [
             {
                   "name": "The Coffin Stone",
-                  "text": "A megalithic archaeological site located near Luggala.",
+                  "text": "The Coffin Stone, a megalithic monument on Mount Luggala associated with burials.",
                   "category": "historical",
                   "coords": [
                         -6.24982,
@@ -5791,7 +5791,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Tonduff",
-                  "text": "A high boggy peak in the Wicklow Mountains of Ireland.",
+                  "text": "A peak in the Mount Luggala area.",
                   "category": "landmark",
                   "coords": [
                         -6.267349,
@@ -6010,7 +6010,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Parkahilly Children's Burial Ground",
-                  "text": "Ein historischer Begräbnisplatz für Kinder in der Nähe des Mullagh Mountain.",
+                  "text": "Parkahilly Children's Burial Ground, ein unmarkierter Friedhof für ungetaufte Kinder auf Mullagh Mountain.",
                   "category": "historical",
                   "coords": [
                         -9.130702,
@@ -6037,7 +6037,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockalunkard",
-                  "text": "Ein Hügel oder kleiner Gipfel in der Region Mullagh Mountain.",
+                  "text": "Ein Gipfel im Mullagh Mountain-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         -9.150946,
@@ -6055,7 +6055,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Waterfall",
-                  "text": "Ein Aussichtspunkt, der einen Blick auf einen lokalen Wasserfall bietet.",
+                  "text": "Ein Wasserfall auf dem Mullagh Mountain, am schönsten nach Regenfällen.",
                   "category": "natural",
                   "coords": [
                         -9.101994,
@@ -6084,7 +6084,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Parkahilly Children's Burial Ground",
-                  "text": "Történelmi gyermektemető a Mullagh-hegy közelében.",
+                  "text": "Parkahilly Gyermektemető, egy jelöletlen temető megkereszteletlen gyermekek számára a Mullagh-hegyen.",
                   "category": "historical",
                   "coords": [
                         -9.130702,
@@ -6111,7 +6111,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockalunkard",
-                  "text": "Egy domb vagy kisebb csúcs a Mullagh-hegy régiójában.",
+                  "text": "Csúcs a Mullagh Mountain vidékén.",
                   "category": "landmark",
                   "coords": [
                         -9.150946,
@@ -6129,7 +6129,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Waterfall",
-                  "text": "Kilátópont, ahonnan rálátás nyílik egy helyi vízesésre.",
+                  "text": "Egy vízesés a Mullagh-hegyen, legszebb esőzések után.",
                   "category": "natural",
                   "coords": [
                         -9.101994,
@@ -6158,7 +6158,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Parkahilly Children's Burial Ground",
-                  "text": "Un sit istoric de înmormântare pentru copii, situat lângă muntele Mullagh.",
+                  "text": "Locul de Înmormântare pentru Copii Parkahilly, un cimitir nemarcat pentru copii nebotezați pe Muntele Mullagh.",
                   "category": "historical",
                   "coords": [
                         -9.130702,
@@ -6185,7 +6185,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockalunkard",
-                  "text": "Un deal sau un mic vârf în regiunea muntelui Mullagh.",
+                  "text": "Un vârf în zona Mullagh Mountain.",
                   "category": "landmark",
                   "coords": [
                         -9.150946,
@@ -6203,7 +6203,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Waterfall",
-                  "text": "Un punct de observație care oferă o vedere asupra unei cascade locale.",
+                  "text": "O cascadă pe Muntele Mullagh, cea mai frumoasă după ploi.",
                   "category": "natural",
                   "coords": [
                         -9.101994,
@@ -6232,7 +6232,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Parkahilly Children's Burial Ground",
-                  "text": "A historical children's burial ground located near Mullagh Mountain.",
+                  "text": "Parkahilly Children's Burial Ground, an unmarked burial site for unbaptized children on Mullagh Mountain.",
                   "category": "historical",
                   "coords": [
                         -9.130702,
@@ -6259,7 +6259,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockalunkard",
-                  "text": "A hill or small peak in the Mullagh Mountain region.",
+                  "text": "A peak in the Mullagh Mountain area.",
                   "category": "landmark",
                   "coords": [
                         -9.150946,
@@ -6277,7 +6277,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Waterfall",
-                  "text": "A viewpoint offering a look at a local waterfall.",
+                  "text": "A waterfall on Mullagh Mountain, best viewed after rainfall.",
                   "category": "natural",
                   "coords": [
                         -9.101994,
@@ -6352,7 +6352,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Carrigan Head Signal Tower",
-                  "text": "Ruinen eines Signalturms aus der napoleonischen Ära am Carrigan Head.",
+                  "text": "Carrigan Head Signal Tower, ein napoleonischer Signalturm auf dem Slieve League Peak mit Atlantikblick.",
                   "category": "historical",
                   "coords": [
                         -8.679566,
@@ -6361,7 +6361,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Tobernamanna",
-                  "text": "Eine natürliche Quelle in der Nähe des Slieve League Gipfels.",
+                  "text": "Ein Gipfel an den Slieve League-Klippen.",
                   "category": "landmark",
                   "coords": [
                         -8.635921,
@@ -6390,7 +6390,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Carrigan Head Signal Tower",
-                  "text": "Napóleoni korszakból származó jelzőtorony romjai a Carrigan Head-foknál.",
+                  "text": "Carrigan Head Signal Tower, egy napóleoni jelzőtorony a Slieve League-csúcson, az Atlanti-óceánra néző kilátással.",
                   "category": "historical",
                   "coords": [
                         -8.679566,
@@ -6399,7 +6399,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Tobernamanna",
-                  "text": "Természetes forrás a Slieve League-csúcs közelében.",
+                  "text": "Csúcs a Slieve League szikláinál.",
                   "category": "landmark",
                   "coords": [
                         -8.635921,
@@ -6428,7 +6428,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Carrigan Head Signal Tower",
-                  "text": "Ruinele unui turn de semnalizare din epoca napoleoniană, situat la Carrigan Head.",
+                  "text": "Turnul de Semnal Carrigan Head, un turn de semnalizare napoleonian pe Vârful Slieve League, cu vedere la Atlantic.",
                   "category": "historical",
                   "coords": [
                         -8.679566,
@@ -6437,7 +6437,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Tobernamanna",
-                  "text": "Un izvor natural situat lângă vârful Slieve League.",
+                  "text": "Un vârf la stâncile Slieve League.",
                   "category": "landmark",
                   "coords": [
                         -8.635921,
@@ -6466,7 +6466,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Carrigan Head Signal Tower",
-                  "text": "Ruins of a Napoleonic-era signal tower located at Carrigan Head.",
+                  "text": "Carrigan Head Signal Tower, a Napoleonic-era signal tower on Slieve League Peak overlooking the Atlantic.",
                   "category": "historical",
                   "coords": [
                         -8.679566,
@@ -6475,7 +6475,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Tobernamanna",
-                  "text": "A natural spring located near the Slieve League Peak.",
+                  "text": "A peak at the Slieve League cliffs.",
                   "category": "landmark",
                   "coords": [
                         -8.635921,
@@ -6532,7 +6532,7 @@ export const irelandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Galtymore",
-                  "text": "Der höchste Gipfel der Galty Mountains in Irland.",
+                  "text": "Der höchste Gipfel der Galty-Berge.",
                   "category": "landmark",
                   "coords": [
                         -8.179176,
@@ -6541,7 +6541,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockeenatoung",
-                  "text": "Ein Berggipfel in der Gebirgskette der Galty Mountains.",
+                  "text": "Ein Gipfel am Mount Galtymore.",
                   "category": "landmark",
                   "coords": [
                         -8.155049,
@@ -6550,7 +6550,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "O'Loughman's Castle",
-                  "text": "Historische Ruinen eines Gebäudes im Galtymore-Gebiet.",
+                  "text": "O'Loughman's Castle, ein Turmhaus auf Mount Galtymore, aus lokalem Stein erbaut.",
                   "category": "historical",
                   "coords": [
                         -8.124025,
@@ -6561,7 +6561,7 @@ export const irelandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Galtymore",
-                  "text": "Az írországi Galty-hegység legmagasabb csúcsa.",
+                  "text": "A Galty-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
                         -8.179176,
@@ -6570,7 +6570,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockeenatoung",
-                  "text": "Hegycsúcs a Galty-hegység vonulatában.",
+                  "text": "Csúcs a Mount Galtymore-on.",
                   "category": "landmark",
                   "coords": [
                         -8.155049,
@@ -6579,7 +6579,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "O'Loughman's Castle",
-                  "text": "Egy építmény történelmi romjai a Galtymore területén.",
+                  "text": "O'Loughman's Castle, egy toronyház a Mount Galtymore-on, helyi kőből épült.",
                   "category": "historical",
                   "coords": [
                         -8.124025,
@@ -6590,7 +6590,7 @@ export const irelandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Galtymore",
-                  "text": "Cel mai înalt vârf din munții Galty din Irlanda.",
+                  "text": "Cel mai înalt vârf al Munților Galty.",
                   "category": "landmark",
                   "coords": [
                         -8.179176,
@@ -6599,7 +6599,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockeenatoung",
-                  "text": "Un vârf muntos din lanțul munților Galty.",
+                  "text": "Un vârf pe Mount Galtymore.",
                   "category": "landmark",
                   "coords": [
                         -8.155049,
@@ -6608,7 +6608,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "O'Loughman's Castle",
-                  "text": "Ruinele istorice ale unei clădiri din zona Galtymore.",
+                  "text": "Castelul O'Loughman, o casă-turn pe Muntele Galtymore, construită din piatră locală.",
                   "category": "historical",
                   "coords": [
                         -8.124025,
@@ -6619,7 +6619,7 @@ export const irelandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Galtymore",
-                  "text": "The highest peak of the Galty Mountains in Ireland.",
+                  "text": "The highest peak of the Galty Mountains.",
                   "category": "landmark",
                   "coords": [
                         -8.179176,
@@ -6628,7 +6628,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "Knockeenatoung",
-                  "text": "A mountain peak in the Galty Mountains range.",
+                  "text": "A peak on Mount Galtymore.",
                   "category": "landmark",
                   "coords": [
                         -8.155049,
@@ -6637,7 +6637,7 @@ export const irelandReliefV2: POI[] = [
             },
             {
                   "name": "O'Loughman's Castle",
-                  "text": "Historical ruins of a building in the Galtymore area.",
+                  "text": "O'Loughman's Castle, a tower house ruin on Mount Galtymore built of local stone.",
                   "category": "historical",
                   "coords": [
                         -8.124025,

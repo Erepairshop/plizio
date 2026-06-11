@@ -172,7 +172,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château de Revogne",
-                  "text": "Eine historische Burg im Dorf Revogne.",
+                  "text": "Ein 1650 erbautes Schloss in der Region Calestienne.",
                   "category": "castle",
                   "coords": [
                         5.045518,
@@ -181,7 +181,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château d'Eclaye",
-                  "text": "Ein Schloss in der malerischen Region Calestienne.",
+                  "text": "Ein 1767 erbautes Schloss in der Region Calestienne.",
                   "category": "castle",
                   "coords": [
                         5.014543,
@@ -199,7 +199,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château de Beauraing",
-                  "text": "Die Ruinen einer historischen Burg in Beauraing.",
+                  "text": "Ein denkmalgeschütztes Schloss (Klasse 4) in der Region Calestienne.",
                   "category": "castle",
                   "coords": [
                         4.9587,
@@ -246,7 +246,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château de Revogne",
-                  "text": "Történelmi vár Revogne falujában.",
+                  "text": "1650-ben épült kastély a Calestienne régióban.",
                   "category": "castle",
                   "coords": [
                         5.045518,
@@ -255,7 +255,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château d'Eclaye",
-                  "text": "Kastély a festői Calestienne régióban.",
+                  "text": "1767-ben épült kastély a Calestienne régióban.",
                   "category": "castle",
                   "coords": [
                         5.014543,
@@ -273,7 +273,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château de Beauraing",
-                  "text": "Történelmi vár romjai Beauraing városában.",
+                  "text": "Műemlék vár (4. osztály) a Calestienne régióban.",
                   "category": "castle",
                   "coords": [
                         4.9587,
@@ -320,7 +320,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château de Revogne",
-                  "text": "Un castel istoric situat în satul Revogne.",
+                  "text": "Un castel construit în 1650 în regiunea Calestienne.",
                   "category": "castle",
                   "coords": [
                         5.045518,
@@ -329,7 +329,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château d'Eclaye",
-                  "text": "Un castel situat în pitoreasca regiune Calestienne.",
+                  "text": "Un castel construit în 1767 în regiunea Calestienne.",
                   "category": "castle",
                   "coords": [
                         5.014543,
@@ -347,7 +347,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château de Beauraing",
-                  "text": "Ruinele unui castel istoric în Beauraing.",
+                  "text": "Un castel protejat ca monument istoric (clasa 4) în regiunea Calestienne.",
                   "category": "castle",
                   "coords": [
                         4.9587,
@@ -394,7 +394,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château de Revogne",
-                  "text": "A historic castle located in the village of Revogne.",
+                  "text": "A 1650-built castle in the Calestienne region.",
                   "category": "castle",
                   "coords": [
                         5.045518,
@@ -403,7 +403,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château d'Eclaye",
-                  "text": "A castle situated in the scenic Calestienne region.",
+                  "text": "A 1767-built castle in the Calestienne region.",
                   "category": "castle",
                   "coords": [
                         5.014543,
@@ -421,7 +421,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
             },
             {
                   "name": "Château de Beauraing",
-                  "text": "The ruins of a historic castle in Beauraing.",
+                  "text": "A protected heritage castle in the Calestienne region.",
                   "category": "castle",
                   "coords": [
                         4.9587,
@@ -1344,7 +1344,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Ledocte",
-                  "text": "Ein historisches Schlossgebäude auf dem Hesbaye-Plateau.",
+                  "text": "Ein Schloss aus dem 19. Jahrhundert auf dem Hesbaye-Plateau.",
                   "category": "castle",
                   "coords": [
                         5.226404,
@@ -1353,7 +1353,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Maison de Seny",
-                  "text": "Ein historisches Herrenhaus oder Schloss in Seny.",
+                  "text": "Schloss Maison de Seny aus dem 19. Jahrhundert auf dem Hesbaye-Plateau, geschütztes Kulturerbe.",
                   "category": "castle",
                   "coords": [
                         5.163836,
@@ -1418,7 +1418,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Ledocte",
-                  "text": "Történelmi kastélyépület a Hesbaye-fennsíkon.",
+                  "text": "19. századi kastély a Hesbaye-fennsíkon.",
                   "category": "castle",
                   "coords": [
                         5.226404,
@@ -1427,7 +1427,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Maison de Seny",
-                  "text": "Történelmi udvarház vagy kastély Seny településen.",
+                  "text": "Maison de Seny-kastély a 19. századból a Hesbaye-fennsíkon, védett örökség.",
                   "category": "castle",
                   "coords": [
                         5.163836,
@@ -1492,7 +1492,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Ledocte",
-                  "text": "O clădire istorică de castel pe platoul Hesbaye.",
+                  "text": "Un castel din secolul al XIX-lea pe platoul Hesbaye.",
                   "category": "castle",
                   "coords": [
                         5.226404,
@@ -1501,7 +1501,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Maison de Seny",
-                  "text": "Un conac sau castel istoric situat în Seny.",
+                  "text": "Castelul Maison de Seny din secolul al XIX-lea pe Platoul Hesbaye, patrimoniu protejat.",
                   "category": "castle",
                   "coords": [
                         5.163836,
@@ -1566,7 +1566,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Ledocte",
-                  "text": "A historic castle building on the Hesbaye Plateau.",
+                  "text": "A 19th-century castle on the Hesbaye Plateau.",
                   "category": "castle",
                   "coords": [
                         5.226404,
@@ -1575,7 +1575,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Maison de Seny",
-                  "text": "A historic manor or castle located in Seny.",
+                  "text": "Maison de Seny, a 19th-century castle on the Hesbaye Plateau, listed heritage.",
                   "category": "castle",
                   "coords": [
                         5.163836,
@@ -1764,7 +1764,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Rivière",
-                  "text": "Das Château de Rivière ist ein malerisches Schloss in der Region des Maastals.",
+                  "text": "Ein 1777 erbautes Schloss im Maastal.",
                   "category": "castle",
                   "coords": [
                         4.872157,
@@ -1773,7 +1773,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château-ferme de Ronchinne",
-                  "text": "Der Château-ferme de Ronchinne ist ein befestigter Gutshof im Maastal.",
+                  "text": "Schlossgut Ronchinne aus dem 13. Jahrhundert im Maastal, geschütztes Kulturerbe.",
                   "category": "castle",
                   "coords": [
                         4.93223,
@@ -1782,7 +1782,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Bouvignes",
-                  "text": "Das Château de Bouvignes ist eine historische Burganlage im Maastal.",
+                  "text": "Schloss im Maastal.",
                   "category": "castle",
                   "coords": [
                         4.878825,
@@ -1791,7 +1791,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Le Richmond",
-                  "text": "Das Château Le Richmond ist ein elegantes Schloss im Maastal.",
+                  "text": "Das 1710 erbaute Schloss Le Richmond liegt im Maastal.",
                   "category": "castle",
                   "coords": [
                         4.87536,
@@ -1800,7 +1800,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château St-Marc",
-                  "text": "Das Château St-Marc ist ein Schlossbau in der Nähe der Maas im Maastal.",
+                  "text": "Das 1805 errichtete Schloss St-Marc liegt im Maastal.",
                   "category": "castle",
                   "coords": [
                         4.846277,
@@ -1838,7 +1838,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Rivière",
-                  "text": "A Château de Rivière egy festői kastély a Maas völgyében.",
+                  "text": "1777-ben épült kastély a Meuse-völgyben.",
                   "category": "castle",
                   "coords": [
                         4.872157,
@@ -1847,7 +1847,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château-ferme de Ronchinne",
-                  "text": "A Château-ferme de Ronchinne egy erődített udvarház a Maas völgyében.",
+                  "text": "13. századi várgazdaság Ronchinne a Meuse-völgyben, védett örökség.",
                   "category": "castle",
                   "coords": [
                         4.93223,
@@ -1856,7 +1856,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Bouvignes",
-                  "text": "A Château de Bouvignes egy történelmi várkastély a Maas völgyében.",
+                  "text": "Kastély a Meuse völgyében.",
                   "category": "castle",
                   "coords": [
                         4.878825,
@@ -1865,7 +1865,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Le Richmond",
-                  "text": "A Château Le Richmond egy elegáns kastély a Maas völgyében.",
+                  "text": "A Le Richmond kastély 1710-ben épült a Meuse-völgyben.",
                   "category": "castle",
                   "coords": [
                         4.87536,
@@ -1874,7 +1874,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château St-Marc",
-                  "text": "A Château St-Marc egy kastélyépület a Maas folyó közelében, a Maas völgyében.",
+                  "text": "A St-Marc kastély 1805-ben épült a Meuse-völgyben.",
                   "category": "castle",
                   "coords": [
                         4.846277,
@@ -1912,7 +1912,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Rivière",
-                  "text": "Castelul Rivière este un castel pitoresc situat în regiunea Văii Meuse.",
+                  "text": "Un castel construit în 1777 în valea Meuse.",
                   "category": "castle",
                   "coords": [
                         4.872157,
@@ -1921,7 +1921,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château-ferme de Ronchinne",
-                  "text": "Château-ferme de Ronchinne este o fermă fortificată situată în Valea Meuse.",
+                  "text": "Castel-fermă Ronchinne din secolul al XIII-lea în Valea Meuse, patrimoniu protejat.",
                   "category": "castle",
                   "coords": [
                         4.93223,
@@ -1930,7 +1930,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Bouvignes",
-                  "text": "Castelul Bouvignes este o fortăreață istorică situată în Valea Meuse.",
+                  "text": "Castel în Valea Meusei.",
                   "category": "castle",
                   "coords": [
                         4.878825,
@@ -1939,7 +1939,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Le Richmond",
-                  "text": "Château Le Richmond este un castel elegant situat în Valea Meuse.",
+                  "text": "Castelul Le Richmond, construit în 1710, se află în Valea Meuse.",
                   "category": "castle",
                   "coords": [
                         4.87536,
@@ -1948,7 +1948,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château St-Marc",
-                  "text": "Castelul St-Marc este o construcție nobiliară situată în apropierea fluviului Meuse.",
+                  "text": "Castelul St-Marc, construit în 1805, se află în Valea Meuse.",
                   "category": "castle",
                   "coords": [
                         4.846277,
@@ -1986,7 +1986,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Rivière",
-                  "text": "Château de Rivière is a picturesque castle located in the Meuse Valley region.",
+                  "text": "A 1777-built castle in the Meuse Valley.",
                   "category": "castle",
                   "coords": [
                         4.872157,
@@ -1995,7 +1995,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château-ferme de Ronchinne",
-                  "text": "The Château-ferme de Ronchinne is a fortified manor farm in the Meuse Valley.",
+                  "text": "13th-century castle-farm Ronchinne in the Meuse Valley, listed heritage.",
                   "category": "castle",
                   "coords": [
                         4.93223,
@@ -2004,7 +2004,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Bouvignes",
-                  "text": "Château de Bouvignes is a historic castle complex in the Meuse Valley.",
+                  "text": "Castle in the Meuse Valley.",
                   "category": "castle",
                   "coords": [
                         4.878825,
@@ -2013,7 +2013,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Le Richmond",
-                  "text": "Château Le Richmond is an elegant castle located in the Meuse Valley.",
+                  "text": "Built in 1710, Château Le Richmond is an 18th-century castle in the Meuse Valley.",
                   "category": "castle",
                   "coords": [
                         4.87536,
@@ -2022,7 +2022,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château St-Marc",
-                  "text": "Château St-Marc is a castle building located near the river in the Meuse Valley.",
+                  "text": "Château St-Marc is an early 19th-century castle built in 1805 in the Meuse Valley.",
                   "category": "castle",
                   "coords": [
                         4.846277,
@@ -2117,7 +2117,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ancien Château Ange Wibin Gillard",
-                  "text": "Eine ehemalige Schlossanlage in der Gegend des Ourthe-Tals.",
+                  "text": "Altes Schloss im Ourthetal.",
                   "category": "castle",
                   "coords": [
                         5.571089,
@@ -2126,7 +2126,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Ferot",
-                  "text": "Ein Schlossanwesen im Herzen des Ourthe-Tals.",
+                  "text": "Schloss Ferot im Ourthetal.",
                   "category": "castle",
                   "coords": [
                         5.604595,
@@ -2135,7 +2135,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Biron",
-                  "text": "Ein markantes Schlossgebäude im Ourthe-Tal.",
+                  "text": "Das Schloss Biron aus dem 19. Jahrhundert liegt im Ourthe-Tal.",
                   "category": "castle",
                   "coords": [
                         5.569905,
@@ -2144,7 +2144,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Hamoir-Lassus",
-                  "text": "Ein historisches Schloss im Ourthe-Tal in der Nähe von Hamoir.",
+                  "text": "Schloss Hamoir-Lassus im Ourthetal.",
                   "category": "castle",
                   "coords": [
                         5.521442,
@@ -2200,7 +2200,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ancien Château Ange Wibin Gillard",
-                  "text": "Egy egykori kastélyhelyszín az Ourthe-völgy környékén.",
+                  "text": "Régi kastély az Ourthe völgyében.",
                   "category": "castle",
                   "coords": [
                         5.571089,
@@ -2209,7 +2209,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Ferot",
-                  "text": "Kastélybirtok az Ourthe-völgy szívében.",
+                  "text": "Ferot-kastély az Ourthe völgyében.",
                   "category": "castle",
                   "coords": [
                         5.604595,
@@ -2218,7 +2218,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Biron",
-                  "text": "Figyelemre méltó kastélyépület az Ourthe-völgyben.",
+                  "text": "A Biron kastély a 19. században épült az Ourthe-völgyben.",
                   "category": "castle",
                   "coords": [
                         5.569905,
@@ -2227,7 +2227,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Hamoir-Lassus",
-                  "text": "Történelmi kastély az Ourthe-völgyben, Hamoir közelében.",
+                  "text": "Hamoir-Lassus-kastély az Ourthe völgyében.",
                   "category": "castle",
                   "coords": [
                         5.521442,
@@ -2283,7 +2283,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ancien Château Ange Wibin Gillard",
-                  "text": "Un fost sit de castel situat în zona Văii Ourthe.",
+                  "text": "Vechi castel în Valea Ourthe.",
                   "category": "castle",
                   "coords": [
                         5.571089,
@@ -2292,7 +2292,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Ferot",
-                  "text": "O proprietate de castel situată în inima Văii Ourthe.",
+                  "text": "Castelul Ferot în Valea Ourthe.",
                   "category": "castle",
                   "coords": [
                         5.604595,
@@ -2301,7 +2301,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Biron",
-                  "text": "O clădire de castel notabilă situată în Valea Ourthe.",
+                  "text": "Castelul Biron, construit în secolul al XIX-lea, se află în Valea Ourthe.",
                   "category": "castle",
                   "coords": [
                         5.569905,
@@ -2310,7 +2310,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Hamoir-Lassus",
-                  "text": "Un castel istoric situat în Valea Ourthe, lângă Hamoir.",
+                  "text": "Castelul Hamoir-Lassus în Valea Ourthe.",
                   "category": "castle",
                   "coords": [
                         5.521442,
@@ -2366,7 +2366,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ancien Château Ange Wibin Gillard",
-                  "text": "An old castle site located in the Ourthe Valley area.",
+                  "text": "Old castle in the Ourthe Valley.",
                   "category": "castle",
                   "coords": [
                         5.571089,
@@ -2375,7 +2375,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Ferot",
-                  "text": "A castle property situated in the heart of the Ourthe Valley.",
+                  "text": "Château de Ferot in the Ourthe Valley.",
                   "category": "castle",
                   "coords": [
                         5.604595,
@@ -2384,7 +2384,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château Biron",
-                  "text": "A notable castle building located in the Ourthe Valley.",
+                  "text": "Château Biron is a 19th-century castle in the Ourthe Valley.",
                   "category": "castle",
                   "coords": [
                         5.569905,
@@ -2393,7 +2393,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Château de Hamoir-Lassus",
-                  "text": "A historic castle located in the Ourthe Valley near Hamoir.",
+                  "text": "Château de Hamoir-Lassus in the Ourthe Valley.",
                   "category": "castle",
                   "coords": [
                         5.521442,
@@ -2896,7 +2896,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
       "de": [
             {
                   "name": "Tour du Millénaire",
-                  "text": "Die Tour du Millénaire ist ein Aussichtsturm auf dem Croix-Scaille-Plateau.",
+                  "text": "Ein Aussichtsturm auf dem Croix-Scaille-Plateau, der Tour du Millénaire.",
                   "category": "landmark",
                   "coords": [
                         4.845166,
@@ -2905,7 +2905,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ermitage",
-                  "text": "Die Ruinen von Ermitage befinden sich in Croix Scaille.",
+                  "text": "Einsiedelei im Wald von Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.871622,
@@ -2914,7 +2914,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ruine",
-                  "text": "Die Ruinen von Ruine befinden sich in Croix Scaille.",
+                  "text": "Ruine im Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.840942,
@@ -2923,7 +2923,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Bassin",
-                  "text": "Die Ruinen von Bassin befinden sich in Croix Scaille.",
+                  "text": "Becken (Wasser) im Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.839587,
@@ -2932,7 +2932,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Base d'ancien pylône",
-                  "text": "Die Ruinen von Base d'ancien pylône befinden sich in Croix Scaille.",
+                  "text": "Fundament eines alten Strommastes im Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.84415,
@@ -2941,7 +2941,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Site RENECOFOR",
-                  "text": "Site RENECOFOR ist eine lokale Sehenswürdigkeit in Croix Scaille.",
+                  "text": "Waldüberwachungsstation RENECOFOR im Croix Scaille.",
                   "category": "landmark",
                   "coords": [
                         4.809362,
@@ -2952,7 +2952,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
       "hu": [
             {
                   "name": "Tour du Millénaire",
-                  "text": "A Tour du Millénaire egy kilátótorony a Croix-Scaille-fennsíkon.",
+                  "text": "Egy kilátótorony a Croix Scaille fennsíkon, a Tour du Millénaire.",
                   "category": "landmark",
                   "coords": [
                         4.845166,
@@ -2961,7 +2961,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ermitage",
-                  "text": "Ermitage romjai Croix Scaille területén találhatók.",
+                  "text": "Remeteség a Croix Scaille erdejében.",
                   "category": "historical",
                   "coords": [
                         4.871622,
@@ -2970,7 +2970,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ruine",
-                  "text": "Ruine romjai Croix Scaille területén találhatók.",
+                  "text": "Rom a Croix Scaille-ban.",
                   "category": "historical",
                   "coords": [
                         4.840942,
@@ -2979,7 +2979,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Bassin",
-                  "text": "Bassin romjai Croix Scaille területén találhatók.",
+                  "text": "Medence (víz) a Croix Scaille-ban.",
                   "category": "historical",
                   "coords": [
                         4.839587,
@@ -2988,7 +2988,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Base d'ancien pylône",
-                  "text": "Base d'ancien pylône romjai Croix Scaille területén találhatók.",
+                  "text": "Régi pylon alapja a Croix Scaille-ban.",
                   "category": "historical",
                   "coords": [
                         4.84415,
@@ -2997,7 +2997,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Site RENECOFOR",
-                  "text": "A Site RENECOFOR egy helyi látnivaló Croix Scaille területén.",
+                  "text": "RENECOFOR erdőfigyelő állomás a Croix Scaille-ban.",
                   "category": "landmark",
                   "coords": [
                         4.809362,
@@ -3008,7 +3008,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
       "ro": [
             {
                   "name": "Tour du Millénaire",
-                  "text": "Tour du Millénaire este un turn de observație pe platoul Croix-Scaille.",
+                  "text": "Un turn de observație pe platoul Croix Scaille, Tour du Millénaire.",
                   "category": "landmark",
                   "coords": [
                         4.845166,
@@ -3017,7 +3017,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ermitage",
-                  "text": "Ruinele Ermitage se află în Croix Scaille.",
+                  "text": "Schit în pădurea Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.871622,
@@ -3026,7 +3026,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ruine",
-                  "text": "Ruinele Ruine se află în Croix Scaille.",
+                  "text": "Ruină în Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.840942,
@@ -3035,7 +3035,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Bassin",
-                  "text": "Ruinele Bassin se află în Croix Scaille.",
+                  "text": "Bazin (apă) în Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.839587,
@@ -3044,7 +3044,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Base d'ancien pylône",
-                  "text": "Ruinele Base d'ancien pylône se află în Croix Scaille.",
+                  "text": "Baza unui vechi pilon în Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.84415,
@@ -3053,7 +3053,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Site RENECOFOR",
-                  "text": "Site RENECOFOR este o atracție locală în Croix Scaille.",
+                  "text": "Stația de monitorizare forestieră RENECOFOR în Croix Scaille.",
                   "category": "landmark",
                   "coords": [
                         4.809362,
@@ -3064,7 +3064,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
       "en": [
             {
                   "name": "Tour du Millénaire",
-                  "text": "The Tour du Millénaire is an observation tower on the Croix-Scaille plateau.",
+                  "text": "An observation tower on the Croix Scaille plateau, the Tour du Millénaire.",
                   "category": "landmark",
                   "coords": [
                         4.845166,
@@ -3073,7 +3073,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ermitage",
-                  "text": "The ruins of Ermitage are located in Croix Scaille.",
+                  "text": "Hermitage in the Croix Scaille forest.",
                   "category": "historical",
                   "coords": [
                         4.871622,
@@ -3082,7 +3082,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Ruine",
-                  "text": "The ruins of Ruine are located in Croix Scaille.",
+                  "text": "Ruin in Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.840942,
@@ -3091,7 +3091,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Bassin",
-                  "text": "The ruins of Bassin are located in Croix Scaille.",
+                  "text": "Basin (water) in Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.839587,
@@ -3100,7 +3100,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Base d'ancien pylône",
-                  "text": "The ruins of Base d'ancien pylône are located in Croix Scaille.",
+                  "text": "Base of an old pylon in Croix Scaille.",
                   "category": "historical",
                   "coords": [
                         4.84415,
@@ -3109,7 +3109,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Site RENECOFOR",
-                  "text": "Site RENECOFOR is a local attraction in Croix Scaille.",
+                  "text": "RENECOFOR forest monitoring site in Croix Scaille.",
                   "category": "landmark",
                   "coords": [
                         4.809362,
@@ -3511,7 +3511,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Cascade du Bayehon",
-                  "text": "Ein malerischer Wasserfall in der Nähe des Botrange-Gipfels.",
+                  "text": "Ein Wasserfall in den Hohen Venn bei Botrange, die Cascade du Bayehon.",
                   "category": "landmark",
                   "coords": [
                         6.086883,
@@ -3576,7 +3576,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Cascade du Bayehon",
-                  "text": "Gleccser eredetű vízesés a Botrange-csúcs közelében.",
+                  "text": "Egy vízesés a High Fens-ben Botrange közelében, a Cascade du Bayehon.",
                   "category": "landmark",
                   "coords": [
                         6.086883,
@@ -3641,7 +3641,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Cascade du Bayehon",
-                  "text": "O cascadă pitorească situată în apropierea vârfului Botrange.",
+                  "text": "O cascadă în înaltele mlaștini (High Fens) lângă Botrange, Cascade du Bayehon.",
                   "category": "landmark",
                   "coords": [
                         6.086883,
@@ -3706,7 +3706,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Cascade du Bayehon",
-                  "text": "A scenic waterfall located near the Botrange Peak.",
+                  "text": "A waterfall in the High Fens near Botrange, the Cascade du Bayehon.",
                   "category": "landmark",
                   "coords": [
                         6.086883,
@@ -3808,7 +3808,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Eine Gedenktafel für Personen im Naturschutzgebiet Hohes Venn.",
+                  "text": "Historische Industriestätte auf dem Hochplateau Baraque Michel.",
                   "category": "historical",
                   "coords": [
                         6.063529,
@@ -3837,7 +3837,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Emlékhely a Magas-Láp természetvédelmi területén megörökített személyeknek.",
+                  "text": "Történelmi ipari helyszín a Baraque Michel-fennsíkon.",
                   "category": "historical",
                   "coords": [
                         6.063529,
@@ -3866,7 +3866,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Un monument memorial în rezervația naturală High Fens.",
+                  "text": "Sit industrial istoric pe platoul Baraque Michel.",
                   "category": "historical",
                   "coords": [
                         6.063529,
@@ -3895,7 +3895,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Cuvelier, Hilgers et Müller",
-                  "text": "A memorial marker in the High Fens nature reserve.",
+                  "text": "Historical industrial site on the Baraque Michel plateau.",
                   "category": "historical",
                   "coords": [
                         6.063529,
@@ -4627,7 +4627,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
       "de": [
             {
                   "name": "Surfstrand",
-                  "text": "Surfstrand in der Flämischen Ebene.",
+                  "text": "Surfstrand im Flämischen Tal.",
                   "category": "recreational",
                   "coords": [
                         3.690632,
@@ -4636,7 +4636,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Sportstrand",
-                  "text": "Sportstrand in der Flämischen Ebene.",
+                  "text": "Sportstrand im Flämischen Tal.",
                   "category": "recreational",
                   "coords": [
                         3.683895,
@@ -4647,7 +4647,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
       "hu": [
             {
                   "name": "Surfstrand",
-                  "text": "Surfstrand a Flamand-völgyben.",
+                  "text": "Szörfstrand a flamand völgyben.",
                   "category": "recreational",
                   "coords": [
                         3.690632,
@@ -4656,7 +4656,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Sportstrand",
-                  "text": "Sportstrand a Flamand-völgyben.",
+                  "text": "Sportstrand a flamand völgyben.",
                   "category": "recreational",
                   "coords": [
                         3.683895,
@@ -4667,7 +4667,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
       "ro": [
             {
                   "name": "Surfstrand",
-                  "text": "Plajă de surf în Vlaamse Vallei.",
+                  "text": "Plajă de surf în Valea Flamandă.",
                   "category": "recreational",
                   "coords": [
                         3.690632,
@@ -4676,7 +4676,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             },
             {
                   "name": "Sportstrand",
-                  "text": "Plajă sportivă în Vlaamse Vallei.",
+                  "text": "Plajă sportivă în Valea Flamandă.",
                   "category": "recreational",
                   "coords": [
                         3.683895,

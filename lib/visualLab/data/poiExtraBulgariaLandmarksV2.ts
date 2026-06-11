@@ -520,7 +520,7 @@ export const bulgariaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Muzei na mechkata",
-                  "text": "Ein Museum in der Nähe des Bojana-Wasserfalls, das Bären gewidmet ist.",
+                  "text": "Bärenmuseum am Fuß des Witoscha-Gebirges nahe dem Bojana-Wasserfall.",
                   "category": "museum",
                   "coords": [
                         23.225062,
@@ -529,7 +529,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kamen del",
-                  "text": "Kamen Del ist ein beliebter Aussichtspunkt auf dem Witoscha-Berg.",
+                  "text": "Kamen Del, eine markante Felsformation nahe dem Bojana-Wasserfall am Witoscha-Berg.",
                   "category": "natural",
                   "coords": [
                         23.276586,
@@ -538,7 +538,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Zlatnite mostove",
-                  "text": "Die Goldenen Brücken sind ein berühmter Steinfluss im Witoscha-Gebirge.",
+                  "text": "Goldene Brücken, eine einzigartige Steinfluss-Moränen-Formation am Witoscha-Berg.",
                   "category": "landmark",
                   "coords": [
                         23.239174,
@@ -576,7 +576,7 @@ export const bulgariaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Muzei na mechkata",
-                  "text": "A Bojana-vízesés közelében található múzeum, amelyet a medvéknek szenteltek.",
+                  "text": "Medvemúzeum a Vitosha-hegység lábánál, a Bojana-vízesés közelében.",
                   "category": "museum",
                   "coords": [
                         23.225062,
@@ -585,7 +585,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kamen del",
-                  "text": "Kamen Del egy népszerű kilátóhely a Vitosa-hegyen.",
+                  "text": "Kamen Del, egy jellegzetes sziklaformáció a Bojana-vízesés közelében a Vitosán.",
                   "category": "natural",
                   "coords": [
                         23.276586,
@@ -594,7 +594,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Zlatnite mostove",
-                  "text": "Az Aranyhidak egy híres kőfolyó a Vitosa-hegységben.",
+                  "text": "Aranyhidak, egy egyedi kőfolyam-moréna képződmény a Vitosán.",
                   "category": "landmark",
                   "coords": [
                         23.239174,
@@ -632,7 +632,7 @@ export const bulgariaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Muzei na mechkata",
-                  "text": "Un muzeu lângă Cascada Boiana, dedicat urșilor.",
+                  "text": "Muzeul Ursului la poalele muntelui Vitosha, lângă cascada Boyana.",
                   "category": "museum",
                   "coords": [
                         23.225062,
@@ -641,7 +641,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kamen del",
-                  "text": "Kamen Del este un punct de belvedere popular pe muntele Vitoșa.",
+                  "text": "Kamen Del, o formațiune stâncoasă proeminentă lângă Cascada Boyana pe muntele Vitoșa.",
                   "category": "natural",
                   "coords": [
                         23.276586,
@@ -650,7 +650,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Zlatnite mostove",
-                  "text": "Podurile de Aur reprezintă un faimos râu de piatră în munții Vitoșa.",
+                  "text": "Podurile de Aur, o formațiune unică de râu de piatră (morenă) pe muntele Vitoșa.",
                   "category": "landmark",
                   "coords": [
                         23.239174,
@@ -688,7 +688,7 @@ export const bulgariaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Bear museum",
-                  "text": "A museum near Boyana Waterfall dedicated to bears.",
+                  "text": "Bear museum at the foot of Vitosha Mountain near Boyana Waterfall.",
                   "category": "museum",
                   "coords": [
                         23.225062,
@@ -697,7 +697,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Kamen del",
-                  "text": "Kamen Del is a popular viewpoint on Vitosha Mountain.",
+                  "text": "Kamen Del, a prominent rock formation near the Boyana Waterfall on Vitosha Mountain.",
                   "category": "natural",
                   "coords": [
                         23.276586,
@@ -706,7 +706,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Golden Bridges",
-                  "text": "Golden Bridges is a famous stone river in the Vitosha Mountains.",
+                  "text": "Golden Bridges, a unique stone river (moraine) formation on Vitosha Mountain.",
                   "category": "landmark",
                   "coords": [
                         23.239174,
@@ -1011,7 +1011,160 @@ export const bulgariaLandmarksV2: POI[] = [
     image: "/poi-images/bulgaria-st-archangel-michael-church-landmarks-v2.webp",
   },
   {
-    id: "bulgaria-varna-dormition-cathedral-landmarks-v2", "sights": {"de": [{"name": "Ofitserski plazh - Iztok", "text": "In der Nähe der Stadt Varna erstreckt sich der Erholungsstrand Ofitserski plazh - Iztok am Schwarzen Meer. Touristen und Einheimische gleichermaßen schätzen diesen Strand für erholsame Tage am Wasser. Die bulgarische Küste präsentiert sich hier von ihrer einladenden Seite.", "category": "recreational", "coords": [27.938415, 43.208844]}, {"name": "plazh Bunite-2", "text": "Plazh Bunite-2 ist ein attraktives Freizeitziel am Rande von Varna. An diesem Abschnitt der Schwarzmeerküste können Besucher die salzige Brise und das erfrischende Wasser genießen. Der Strand stellt eine schöne Option für einen Ausflug ins Freie dar.", "category": "recreational", "coords": [27.950108, 43.210615]}, {"name": "Chetvarta buna", "text": "Ein Strandabschnitt bei Varna am Schwarzen Meer.", "category": "recreational", "coords": [27.959942, 43.212891]}, {"name": "plazh Bunite", "text": "Ein Strandabschnitt bei Varna am Schwarzen Meer.", "category": "recreational", "coords": [27.941304, 43.209758]}], "hu": [{"name": "Ofitserski plazh - Iztok", "text": "Várna városa közelében húzódik a Fekete-tenger partján az Ofitserski plazh - Iztok nevű szabadidős strand. A turisták és a helyiek egyaránt nagyra értékelik ezt a partot a vízparti pihentető napokért. A bolgár tengerpart itt hívogató oldalát mutatja.", "category": "recreational", "coords": [27.938415, 43.208844]}, {"name": "plazh Bunite-2", "text": "A plazh Bunite-2 egy vonzó szabadidős célpont Várna peremén. A fekete-tengeri partvidék ezen szakaszán a látogatók élvezhetik a sós fuvallatot és a frissítő vizet. A strand nagyszerű választást jelent egy szabadtéri kiránduláshoz.", "category": "recreational", "coords": [27.950108, 43.210615]}, {"name": "Chetvarta buna", "text": "Strandszakasz Várna közelében, a Fekete-tenger partján.", "category": "recreational", "coords": [27.959942, 43.212891]}, {"name": "plazh Bunite", "text": "Strandszakasz Várna közelében, a Fekete-tenger partján.", "category": "recreational", "coords": [27.941304, 43.209758]}], "ro": [{"name": "Ofitserski plazh - Iztok", "text": "În apropierea orașului Varna se întinde plaja de agrement Ofitserski plazh - Iztok la Marea Neagră. Turiștii și localnicii deopotrivă apreciază această plajă pentru zilele relaxante petrecute la apă. Coasta bulgară se prezintă aici din latura sa cea mai primitoare.", "category": "recreational", "coords": [27.938415, 43.208844]}, {"name": "plazh Bunite-2", "text": "Plazh Bunite-2 este o destinație de agrement atractivă la marginea orașului Varna. Pe această secțiune a coastei Mării Negre, vizitatorii se pot bucura de briza sărată și de apa revigorantă. Plaja reprezintă o opțiune excelentă pentru o excursie în aer liber.", "category": "recreational", "coords": [27.950108, 43.210615]}, {"name": "Chetvarta buna", "text": "O plajă lângă Varna, la Marea Neagră.", "category": "recreational", "coords": [27.959942, 43.212891]}, {"name": "plazh Bunite", "text": "O plajă lângă Varna, la Marea Neagră.", "category": "recreational", "coords": [27.941304, 43.209758]}], "en": [{"name": "Ofitserski plazh - Iztok", "text": "Near the city of Varna stretches the recreational beach of Ofitserski plazh - Iztok on the Black Sea. Tourists and locals alike appreciate this beach for relaxing days by the water. The Bulgarian coast presents itself from its most inviting side here.", "category": "recreational", "coords": [27.938415, 43.208844]}, {"name": "plazh Bunite-2", "text": "Plazh Bunite-2 is an attractive leisure destination on the edge of Varna. Along this stretch of the Black Sea coast, visitors can enjoy the salty breeze and refreshing water. The beach represents a lovely option for an outdoor excursion.", "category": "recreational", "coords": [27.950108, 43.210615]}, {"name": "Chetvarta buna", "text": "A beach section near Varna on the Black Sea.", "category": "recreational", "coords": [27.959942, 43.212891]}, {"name": "plazh Bunite", "text": "A beach section near Varna on the Black Sea.", "category": "recreational", "coords": [27.941304, 43.209758]}]},
+    id: "bulgaria-varna-dormition-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ofitserski plazh - Iztok",
+                  "text": "In der Nähe der Stadt Varna erstreckt sich der Erholungsstrand Ofitserski plazh - Iztok am Schwarzen Meer. Touristen und Einheimische gleichermaßen schätzen diesen Strand für erholsame Tage am Wasser. Die bulgarische Küste präsentiert sich hier von ihrer einladenden Seite.",
+                  "category": "recreational",
+                  "coords": [
+                        27.938415,
+                        43.208844
+                  ]
+            },
+            {
+                  "name": "plazh Bunite-2",
+                  "text": "Plazh Bunite-2 ist ein attraktives Freizeitziel am Rande von Varna. An diesem Abschnitt der Schwarzmeerküste können Besucher die salzige Brise und das erfrischende Wasser genießen. Der Strand stellt eine schöne Option für einen Ausflug ins Freie dar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.950108,
+                        43.210615
+                  ]
+            },
+            {
+                  "name": "Chetvarta buna",
+                  "text": "Erholungsgebiet in der Nähe der Mariä-Entschlafens-Kathedrale in Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.959942,
+                        43.212891
+                  ]
+            },
+            {
+                  "name": "plazh Bunite",
+                  "text": "Bunite-Strand in der Nähe der Mariä-Entschlafens-Kathedrale in Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.941304,
+                        43.209758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ofitserski plazh - Iztok",
+                  "text": "Várna városa közelében húzódik a Fekete-tenger partján az Ofitserski plazh - Iztok nevű szabadidős strand. A turisták és a helyiek egyaránt nagyra értékelik ezt a partot a vízparti pihentető napokért. A bolgár tengerpart itt hívogató oldalát mutatja.",
+                  "category": "recreational",
+                  "coords": [
+                        27.938415,
+                        43.208844
+                  ]
+            },
+            {
+                  "name": "plazh Bunite-2",
+                  "text": "A plazh Bunite-2 egy vonzó szabadidős célpont Várna peremén. A fekete-tengeri partvidék ezen szakaszán a látogatók élvezhetik a sós fuvallatot és a frissítő vizet. A strand nagyszerű választást jelent egy szabadtéri kiránduláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        27.950108,
+                        43.210615
+                  ]
+            },
+            {
+                  "name": "Chetvarta buna",
+                  "text": "Pihenőövezet a várnai Nagyboldogasszony-székesegyház közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.959942,
+                        43.212891
+                  ]
+            },
+            {
+                  "name": "plazh Bunite",
+                  "text": "Bunite strand a várnai Nagyboldogasszony-székesegyház közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.941304,
+                        43.209758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ofitserski plazh - Iztok",
+                  "text": "În apropierea orașului Varna se întinde plaja de agrement Ofitserski plazh - Iztok la Marea Neagră. Turiștii și localnicii deopotrivă apreciază această plajă pentru zilele relaxante petrecute la apă. Coasta bulgară se prezintă aici din latura sa cea mai primitoare.",
+                  "category": "recreational",
+                  "coords": [
+                        27.938415,
+                        43.208844
+                  ]
+            },
+            {
+                  "name": "plazh Bunite-2",
+                  "text": "Plazh Bunite-2 este o destinație de agrement atractivă la marginea orașului Varna. Pe această secțiune a coastei Mării Negre, vizitatorii se pot bucura de briza sărată și de apa revigorantă. Plaja reprezintă o opțiune excelentă pentru o excursie în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        27.950108,
+                        43.210615
+                  ]
+            },
+            {
+                  "name": "Chetvarta buna",
+                  "text": "Zonă de agrement lângă Catedrala Adormirii Maicii Domnului din Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.959942,
+                        43.212891
+                  ]
+            },
+            {
+                  "name": "plazh Bunite",
+                  "text": "Plaja Bunite lângă Catedrala Adormirii Maicii Domnului din Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.941304,
+                        43.209758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ofitserski plazh - Iztok",
+                  "text": "Near the city of Varna stretches the recreational beach of Ofitserski plazh - Iztok on the Black Sea. Tourists and locals alike appreciate this beach for relaxing days by the water. The Bulgarian coast presents itself from its most inviting side here.",
+                  "category": "recreational",
+                  "coords": [
+                        27.938415,
+                        43.208844
+                  ]
+            },
+            {
+                  "name": "plazh Bunite-2",
+                  "text": "Plazh Bunite-2 is an attractive leisure destination on the edge of Varna. Along this stretch of the Black Sea coast, visitors can enjoy the salty breeze and refreshing water. The beach represents a lovely option for an outdoor excursion.",
+                  "category": "recreational",
+                  "coords": [
+                        27.950108,
+                        43.210615
+                  ]
+            },
+            {
+                  "name": "Chetvarta buna",
+                  "text": "Recreational area near the Dormition Cathedral in Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.959942,
+                        43.212891
+                  ]
+            },
+            {
+                  "name": "plazh Bunite",
+                  "text": "Bunite beach near the Dormition Cathedral in Varna.",
+                  "category": "recreational",
+                  "coords": [
+                        27.941304,
+                        43.209758
+                  ]
+            }
+      ]
+},
     type: "cathedral",
     parent: "BG",
     name: { de: "Mariä-Entschlafens-Kathedrale Warna", hu: "Várnai Nagyboldogasszony-katedrális", ro: "Catedrala Adormirea Maicii Domnului din Varna", en: "Dormition of the Mother of God Cathedral Varna" },
@@ -1159,7 +1312,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Naturpark Rila-Kloster",
-                  "text": "Ein Naturpark in Bulgarien, der für seine Artenvielfalt und das Rila-Kloster bekannt ist.",
+                  "text": "Naturpark mit alten Nadelwäldern und Bergpfaden rund um das Rila-Kloster.",
                   "category": "natural",
                   "coords": [
                         23.364635,
@@ -1188,7 +1341,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Priroden park Rilski manastir",
-                  "text": "Bulgáriai nemzeti park, amely biológiai sokféleségéről és a Rila-kolostorról ismert.",
+                  "text": "Természetvédelmi terület ősi tűlevelű erdőkkel és hegyi ösvényekkel a Rila-kolostor körül.",
                   "category": "natural",
                   "coords": [
                         23.364635,
@@ -1217,7 +1370,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Priroden park Rilski manastir",
-                  "text": "Un parc natural din Bulgaria, cunoscut pentru biodiversitatea sa și Mănăstirea Rila.",
+                  "text": "Parcul natural cu păduri de conifere virgine și trasee montane în jurul Mănăstirii Rila.",
                   "category": "natural",
                   "coords": [
                         23.364635,
@@ -1246,7 +1399,7 @@ export const bulgariaLandmarksV2: POI[] = [
             },
             {
                   "name": "Rila Monastery Natural Park",
-                  "text": "A natural park in Bulgaria known for its biodiversity and the Rila Monastery.",
+                  "text": "Nature park with old-growth coniferous forests and mountain trails around the Rila Monastery.",
                   "category": "natural",
                   "coords": [
                         23.364635,

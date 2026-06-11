@@ -3,7 +3,1096 @@ import type { POI } from "./poi";
 
 export const poiExtraIndonesiaHistoryV2: POI[] = [
   {
-    id: "borobudur-temple-history-v2",
+    id: "borobudur-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Kapal Samudraraksa",
+                  "text": "Dieses Museum beherbergt eine lebensgroße Schiffsreplik aus dem 8. Jahrhundert nach Tempelreliefs.",
+                  "category": "museum",
+                  "coords": [
+                        110.203353,
+                        -7.604716
+                  ]
+            },
+            {
+                  "name": "Museum Borobudur",
+                  "text": "Ein Museum, das die originale Serie der Karmawibhangga-Reliefs und bedeutende Buddha-Statuen vom Borobudur bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        110.204625,
+                        -7.604131
+                  ]
+            },
+            {
+                  "name": "Giant Chicken Church",
+                  "text": "Ein einzigartiges Gebetshaus in Form eines riesigen Vogels, das in den bewaldeten Hügeln über der Ebene liegt.",
+                  "category": "religious",
+                  "coords": [
+                        110.180511,
+                        -7.605635
+                  ]
+            },
+            {
+                  "name": "Borobudur",
+                  "text": "Der größte buddhistische Tempel der Welt, bekannt für seine 72 Steinstupas und kunstvollen Reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        110.203822,
+                        -7.607951
+                  ]
+            },
+            {
+                  "name": "Candi Pawon",
+                  "text": "Ein kleiner buddhistischer Tempel, der auf einer direkten rituellen Linie zwischen Mendut und Borobudur liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.21956,
+                        -7.606128
+                  ]
+            },
+            {
+                  "name": "Candi Mendut",
+                  "text": "Ein Tempel aus dem 9. Jahrhundert, in dessen Inneren eine massive, drei Meter hohe sitzende Buddha-Statue steht.",
+                  "category": "landmark",
+                  "coords": [
+                        110.230027,
+                        -7.604807
+                  ]
+            },
+            {
+                  "name": "Galeri Unik dan Seni Borobudur",
+                  "text": "Eine Galerie, die eine Sammlung kurioser Kunstwerke und lokaler Handwerkskunst aus der Umgebung des Tempels zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        110.201484,
+                        -7.604837
+                  ]
+            },
+            {
+                  "name": "Joglo Jeep",
+                  "text": "Ein Kunstraum in einem traditionellen Javanerhaus, der oft als Ausgangspunkt für Jeep-Safaris durch die Dörfer dient.",
+                  "category": "museum",
+                  "coords": [
+                        110.27839,
+                        -7.593741
+                  ]
+            },
+            {
+                  "name": "Museum dan Kampung Seni Borobudur",
+                  "text": "Ein Museumsdorf, das javanische Kunst und traditionelle Lebensweisen in unmittelbarer Nähe zum Borobudur-Tempel präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        110.197405,
+                        -7.603247
+                  ]
+            },
+            {
+                  "name": "Cagar Budaya Plengkung Pitu",
+                  "text": "Eine archäologische Stätte, die für ihre sieben historischen Torbögen bekannt ist, die einst Teil einer größeren Anlage waren.",
+                  "category": "historical",
+                  "coords": [
+                        110.138442,
+                        -7.596305
+                  ]
+            },
+            {
+                  "name": "Soekarno-Hatta",
+                  "text": "Ein Denkmal zu Ehren der Gründerväter Indonesiens, das an deren Beitrag zur nationalen Einheit erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        110.22369,
+                        -7.600552
+                  ]
+            },
+            {
+                  "name": "Candi Ngawen",
+                  "text": "Diese buddhistische Tempelanlage aus dem 8. Jahrhundert besteht aus fünf kleinen Schreinen in einer ländlichen Umgebung.",
+                  "category": "historical",
+                  "coords": [
+                        110.272511,
+                        -7.604142
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Eine lokale Moschee, die als religiöses Zentrum für die umliegende Dorfgemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        110.158636,
+                        -7.582672
+                  ]
+            },
+            {
+                  "name": "PONDOK PESANTREN AL-FALLAH",
+                  "text": "Ein traditionelles islamisches Internat und eine Moschee, die ein Zentrum für religiöse Bildung bilden.",
+                  "category": "religious",
+                  "coords": [
+                        110.154483,
+                        -7.660865
+                  ]
+            },
+            {
+                  "name": "Tempat Ibadah",
+                  "text": "Ein kleiner lokaler Gebetsraum für die täglichen Andachten der Dorfbewohner.",
+                  "category": "religious",
+                  "coords": [
+                        110.275579,
+                        -7.572256
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturohman",
+                  "text": "Eine Moschee mit traditionellem Dach, die den Gläubigen der Baiturohman-Gemeinde Platz bietet.",
+                  "category": "religious",
+                  "coords": [
+                        110.281487,
+                        -7.571658
+                  ]
+            },
+            {
+                  "name": "Pasar Mungkid",
+                  "text": "Ein lebhafter Marktplatz in Mungkid, auf dem frische lokale Erzeugnisse und Handwerk verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        110.252428,
+                        -7.554285
+                  ]
+            },
+            {
+                  "name": "Pasar Japuan",
+                  "text": "Ein traditioneller Morgenmarkt in Japuan, der für sein authentisches lokales Streetfood bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        110.246548,
+                        -7.615287
+                  ]
+            },
+            {
+                  "name": "Pasar Japunan Magelang",
+                  "text": "Ein geschäftiger Handelsplatz in Magelang, der Kleidung und Haushaltswaren für die Region anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        110.230992,
+                        -7.531726
+                  ]
+            },
+            {
+                  "name": "Pasar Jambu Punduh",
+                  "text": "Ein lokaler Markt in Jambu Punduh, der eine Vielzahl von Gewürzen und tropischen Früchten führt.",
+                  "category": "cultural",
+                  "coords": [
+                        110.166082,
+                        -7.543587
+                  ]
+            },
+            {
+                  "name": "Traditional Market (Pasar Salaman)",
+                  "text": "Der Salaman-Markt ist ein wichtiger Knotenpunkt für den Handel mit Waren aus den umliegenden Dörfern.",
+                  "category": "cultural",
+                  "coords": [
+                        110.134876,
+                        -7.581544
+                  ]
+            },
+            {
+                  "name": "Pasar Borobudur",
+                  "text": "Ein zentraler Markt in der Nähe des Borobudur-Tempels, der Souvenirs und lokale Spezialitäten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        110.210717,
+                        -7.601697
+                  ]
+            },
+            {
+                  "name": "Pasar Muntilan",
+                  "text": "Dieser große Markt in Muntilan ist ein bedeutendes Wirtschaftszentrum für den täglichen Bedarf der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        110.283799,
+                        -7.580796
+                  ]
+            },
+            {
+                  "name": "Pasar",
+                  "text": "Ein traditioneller indonesischer Markt, auf dem die Bauern der Umgebung ihr Obst und Gemüse verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        110.282556,
+                        -7.578429
+                  ]
+            },
+            {
+                  "name": "Area Pasar",
+                  "text": "Ein weitläufiges Marktviertel, in dem man frische Textilien und lokale Delikatessen findet.",
+                  "category": "cultural",
+                  "coords": [
+                        110.276496,
+                        -7.569505
+                  ]
+            },
+            {
+                  "name": "Pasar Hewan",
+                  "text": "Ein spezialisierter Viehmarkt, auf dem Bauern aus der Region mit Ziegen und Rindern handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        110.280371,
+                        -7.569836
+                  ]
+            },
+            {
+                  "name": "Pemandian Air Panas Tirta Madu Barokah",
+                  "text": "Eine Erholungsstätte mit natürlichen heißen Quellen, die für ihre entspannende Wirkung geschätzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        110.187526,
+                        -7.569648
+                  ]
+            },
+            {
+                  "name": "Pemandian Air Panas Ngasinan",
+                  "text": "Natürliche Thermalbäder in Ngasinan, die inmitten von Reisfeldern eine ruhige Badegelegenheit bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        110.187582,
+                        -7.568726
+                  ]
+            },
+            {
+                  "name": "PUNCAK WIDOSARI",
+                  "text": "Ein markanter Felsgipfel in den Menoreh-Hügeln, der weite Ausblicke über die grüne Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        110.148476,
+                        -7.657833
+                  ]
+            },
+            {
+                  "name": "Punthuk Setumbu Reforestation Project",
+                  "text": "Ein Aufforstungsprojekt auf einem Hügel, das als einer der besten Orte für den Sonnenaufgang über Borobudur gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.177631,
+                        -7.607192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Kapal Samudraraksa",
+                  "text": "Ez a múzeum egy 8. századi, templomi domborművek alapján készült életnagyságú hajórekonstrukciót őriz.",
+                  "category": "museum",
+                  "coords": [
+                        110.203353,
+                        -7.604716
+                  ]
+            },
+            {
+                  "name": "Museum Borobudur",
+                  "text": "Múzeum, amely a Borobudur eredeti Karmawibhangga-domborműsorozatát és jelentős Buddha-szobrait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        110.204625,
+                        -7.604131
+                  ]
+            },
+            {
+                  "name": "Giant Chicken Church",
+                  "text": "Különleges, óriási madár formájú imaház a síkság feletti erdős dombokon.",
+                  "category": "religious",
+                  "coords": [
+                        110.180511,
+                        -7.605635
+                  ]
+            },
+            {
+                  "name": "Borobudur",
+                  "text": "A világ legnagyobb buddhista temploma, amely 72 kőstúpájáról és díszes domborműveiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        110.203822,
+                        -7.607951
+                  ]
+            },
+            {
+                  "name": "Candi Pawon",
+                  "text": "Kisméretű buddhista templom, amely a Mendut és Borobudur közötti egyenes rituális vonalon fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        110.21956,
+                        -7.606128
+                  ]
+            },
+            {
+                  "name": "Candi Mendut",
+                  "text": "9. századi templom, amelynek belsejében egy hatalmas, három méter magas ülő Buddha-szobor található.",
+                  "category": "landmark",
+                  "coords": [
+                        110.230027,
+                        -7.604807
+                  ]
+            },
+            {
+                  "name": "Galeri Unik dan Seni Borobudur",
+                  "text": "Galéria, amely különleges műalkotások és a templom környékéről származó helyi kézműves termékek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        110.201484,
+                        -7.604837
+                  ]
+            },
+            {
+                  "name": "Joglo Jeep",
+                  "text": "Hagyományos jávai házban kialakított művészeti tér, amely gyakran a falvakon átvezető dzsip-szafarik kiindulópontja.",
+                  "category": "museum",
+                  "coords": [
+                        110.27839,
+                        -7.593741
+                  ]
+            },
+            {
+                  "name": "Museum dan Kampung Seni Borobudur",
+                  "text": "Múzeumfalu, amely a jávai művészetet és a hagyományos életmódot mutatja be a Borobudur-templom közvetlen közelében.",
+                  "category": "museum",
+                  "coords": [
+                        110.197405,
+                        -7.603247
+                  ]
+            },
+            {
+                  "name": "Cagar Budaya Plengkung Pitu",
+                  "text": "Régészeti lelőhely, amely hét történelmi kapuíveiről ismert, melyek egykor egy nagyobb építmény részei voltak.",
+                  "category": "historical",
+                  "coords": [
+                        110.138442,
+                        -7.596305
+                  ]
+            },
+            {
+                  "name": "Soekarno-Hatta",
+                  "text": "Indonézia alapító atyáinak tiszteletére emelt emlékmű, amely a nemzeti egységért tett erőfeszítéseikre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        110.22369,
+                        -7.600552
+                  ]
+            },
+            {
+                  "name": "Candi Ngawen",
+                  "text": "Ez a 8. századi buddhista templomegyüttes öt kis szentélyből áll egy vidéki környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        110.272511,
+                        -7.604142
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Egy helyi mecset, amely a környező falusi közösség vallási központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        110.158636,
+                        -7.582672
+                  ]
+            },
+            {
+                  "name": "PONDOK PESANTREN AL-FALLAH",
+                  "text": "Egy hagyományos iszlám bentlakásos iskola és mecset, amely a vallási oktatás központja.",
+                  "category": "religious",
+                  "coords": [
+                        110.154483,
+                        -7.660865
+                  ]
+            },
+            {
+                  "name": "Tempat Ibadah",
+                  "text": "Egy kis helyi imaház a falusiak napi áhítataihoz.",
+                  "category": "religious",
+                  "coords": [
+                        110.275579,
+                        -7.572256
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturohman",
+                  "text": "Hagyományos tetőszerkezetű mecset, amely a Baiturohman közösség hívőit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        110.281487,
+                        -7.571658
+                  ]
+            },
+            {
+                  "name": "Pasar Mungkid",
+                  "text": "Egy élénk piactér Mungkidban, ahol friss helyi termékeket és kézműves termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.252428,
+                        -7.554285
+                  ]
+            },
+            {
+                  "name": "Pasar Japuan",
+                  "text": "Hagyományos reggeli piac Japuanban, amely hiteles helyi utcai ételeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.246548,
+                        -7.615287
+                  ]
+            },
+            {
+                  "name": "Pasar Japunan Magelang",
+                  "text": "Forgalmas kereskedelmi hely Magelangban, amely ruházati és háztartási cikkeket kínál a régiónak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.230992,
+                        -7.531726
+                  ]
+            },
+            {
+                  "name": "Pasar Jambu Punduh",
+                  "text": "Helyi piac Jambu Punduhban, ahol különféle fűszereket és trópusi gyümölcsöket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.166082,
+                        -7.543587
+                  ]
+            },
+            {
+                  "name": "Traditional Market (Pasar Salaman)",
+                  "text": "A salamani piac a környező falvakból származó áruk kereskedelmének fontos csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        110.134876,
+                        -7.581544
+                  ]
+            },
+            {
+                  "name": "Pasar Borobudur",
+                  "text": "A Borobudur-templom közelében található központi piac, ahol szuveníreket és helyi különlegességeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.210717,
+                        -7.601697
+                  ]
+            },
+            {
+                  "name": "Pasar Muntilan",
+                  "text": "Ez a nagy muntilani piac a régió napi szükségleteinek jelentős gazdasági központja.",
+                  "category": "cultural",
+                  "coords": [
+                        110.283799,
+                        -7.580796
+                  ]
+            },
+            {
+                  "name": "Pasar",
+                  "text": "Hagyományos indonéz piac, ahol a környező gazdák árulják gyümölcseiket és zöldségeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        110.282556,
+                        -7.578429
+                  ]
+            },
+            {
+                  "name": "Area Pasar",
+                  "text": "Kiterjedt piacnegyed, ahol friss textileket és helyi finomságokat találni.",
+                  "category": "cultural",
+                  "coords": [
+                        110.276496,
+                        -7.569505
+                  ]
+            },
+            {
+                  "name": "Pasar Hewan",
+                  "text": "Speciális állatpiac, ahol a régió gazdái kecskékkel és szarvasmarhákkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        110.280371,
+                        -7.569836
+                  ]
+            },
+            {
+                  "name": "Pemandian Air Panas Tirta Madu Barokah",
+                  "text": "Természetes melegvizes forrásokkal rendelkező üdülőhely, amelyet pihentető hatása miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        110.187526,
+                        -7.569648
+                  ]
+            },
+            {
+                  "name": "Pemandian Air Panas Ngasinan",
+                  "text": "Természetes termálfürdő Ngasinanban, amely rizsföldek között kínál nyugodt fürdőzési lehetőséget.",
+                  "category": "landmark",
+                  "coords": [
+                        110.187582,
+                        -7.568726
+                  ]
+            },
+            {
+                  "name": "PUNCAK WIDOSARI",
+                  "text": "Jellegzetes sziklacsúcs a Menoreh-hegyekben, amely széles kilátást nyújt a zöld tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        110.148476,
+                        -7.657833
+                  ]
+            },
+            {
+                  "name": "Punthuk Setumbu Reforestation Project",
+                  "text": "Egy dombtetőn lévő erdősítési projekt, amely a Borobudur feletti naplemente egyik legjobb helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        110.177631,
+                        -7.607192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Kapal Samudraraksa",
+                  "text": "Acest muzeu adăpostește o replică a unei nave din secolul al VIII-lea, bazată pe basoreliefurile templului.",
+                  "category": "museum",
+                  "coords": [
+                        110.203353,
+                        -7.604716
+                  ]
+            },
+            {
+                  "name": "Museum Borobudur",
+                  "text": "Un muzeu care păstrează seria originală de reliefuri Karmawibhangga și statui importante ale lui Buddha de la Borobudur.",
+                  "category": "museum",
+                  "coords": [
+                        110.204625,
+                        -7.604131
+                  ]
+            },
+            {
+                  "name": "Giant Chicken Church",
+                  "text": "O casă de rugăciune unică în formă de pasăre uriașă, situată în dealurile împădurite de deasupra câmpiei.",
+                  "category": "religious",
+                  "coords": [
+                        110.180511,
+                        -7.605635
+                  ]
+            },
+            {
+                  "name": "Borobudur",
+                  "text": "Cel mai mare templu budist din lume, faimos pentru cele 72 de stupe de piatră și reliefurile complexe.",
+                  "category": "landmark",
+                  "coords": [
+                        110.203822,
+                        -7.607951
+                  ]
+            },
+            {
+                  "name": "Candi Pawon",
+                  "text": "Un mic templu budist situat pe o linie rituală directă între Mendut și Borobudur.",
+                  "category": "landmark",
+                  "coords": [
+                        110.21956,
+                        -7.606128
+                  ]
+            },
+            {
+                  "name": "Candi Mendut",
+                  "text": "Un templu din secolul al IX-lea care adăpostește în interior o statuie masivă de trei metri a lui Buddha așezat.",
+                  "category": "landmark",
+                  "coords": [
+                        110.230027,
+                        -7.604807
+                  ]
+            },
+            {
+                  "name": "Galeri Unik dan Seni Borobudur",
+                  "text": "O galerie care expune o colecție de opere de artă curioase și meșteșuguri locale din jurul templului.",
+                  "category": "museum",
+                  "coords": [
+                        110.201484,
+                        -7.604837
+                  ]
+            },
+            {
+                  "name": "Joglo Jeep",
+                  "text": "Un spațiu de artă într-o casă tradițională javaneză, care servește adesea ca punct de plecare pentru safari-uri cu Jeep prin sate.",
+                  "category": "museum",
+                  "coords": [
+                        110.27839,
+                        -7.593741
+                  ]
+            },
+            {
+                  "name": "Museum dan Kampung Seni Borobudur",
+                  "text": "Un sat-muzeu care prezintă arta javaneză și modul de viață tradițional în imediata apropiere a templului Borobudur.",
+                  "category": "museum",
+                  "coords": [
+                        110.197405,
+                        -7.603247
+                  ]
+            },
+            {
+                  "name": "Cagar Budaya Plengkung Pitu",
+                  "text": "Un sit arheologic cunoscut pentru cele șapte arcade istorice, care făceau parte odinioară dintr-o structură mai mare.",
+                  "category": "historical",
+                  "coords": [
+                        110.138442,
+                        -7.596305
+                  ]
+            },
+            {
+                  "name": "Soekarno-Hatta",
+                  "text": "Un monument în cinstea părinților fondatori ai Indoneziei, care amintește de contribuția lor la unitatea națională.",
+                  "category": "historical",
+                  "coords": [
+                        110.22369,
+                        -7.600552
+                  ]
+            },
+            {
+                  "name": "Candi Ngawen",
+                  "text": "Acest complex de temple budiste din secolul al VIII-lea este format din cinci sanctuare mici într-un cadru rural.",
+                  "category": "historical",
+                  "coords": [
+                        110.272511,
+                        -7.604142
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "O moschee locală care servește drept centru religios pentru comunitatea sătească din jur.",
+                  "category": "religious",
+                  "coords": [
+                        110.158636,
+                        -7.582672
+                  ]
+            },
+            {
+                  "name": "PONDOK PESANTREN AL-FALLAH",
+                  "text": "Un internat islamic tradițional și o moschee care formează un centru de educație religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        110.154483,
+                        -7.660865
+                  ]
+            },
+            {
+                  "name": "Tempat Ibadah",
+                  "text": "Un mic spațiu de rugăciune local pentru devoțiunile zilnice ale sătenilor.",
+                  "category": "religious",
+                  "coords": [
+                        110.275579,
+                        -7.572256
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturohman",
+                  "text": "O moschee cu acoperiș tradițional, care servește credincioșii din comunitatea Baiturohman.",
+                  "category": "religious",
+                  "coords": [
+                        110.281487,
+                        -7.571658
+                  ]
+            },
+            {
+                  "name": "Pasar Mungkid",
+                  "text": "O piață plină de viață în Mungkid, unde se vând produse locale proaspete și obiecte de artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        110.252428,
+                        -7.554285
+                  ]
+            },
+            {
+                  "name": "Pasar Japuan",
+                  "text": "O piață tradițională de dimineață în Japuan, cunoscută pentru mâncarea stradală locală autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        110.246548,
+                        -7.615287
+                  ]
+            },
+            {
+                  "name": "Pasar Japunan Magelang",
+                  "text": "Un loc de comerț aglomerat în Magelang, care oferă îmbrăcăminte și articole de uz casnic pentru regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        110.230992,
+                        -7.531726
+                  ]
+            },
+            {
+                  "name": "Pasar Jambu Punduh",
+                  "text": "O piață locală în Jambu Punduh, care oferă o varietate de condimente și fructe tropicale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.166082,
+                        -7.543587
+                  ]
+            },
+            {
+                  "name": "Traditional Market (Pasar Salaman)",
+                  "text": "Piața Salaman este un nod important pentru comerțul cu mărfuri din satele învecinate.",
+                  "category": "cultural",
+                  "coords": [
+                        110.134876,
+                        -7.581544
+                  ]
+            },
+            {
+                  "name": "Pasar Borobudur",
+                  "text": "O piață centrală lângă templul Borobudur, care oferă suveniruri și specialități locale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.210717,
+                        -7.601697
+                  ]
+            },
+            {
+                  "name": "Pasar Muntilan",
+                  "text": "Această piață mare din Muntilan este un centru economic important pentru nevoile zilnice ale regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        110.283799,
+                        -7.580796
+                  ]
+            },
+            {
+                  "name": "Pasar",
+                  "text": "O piață tradițională indoneziană unde fermierii din jur își vând fructele și legumele.",
+                  "category": "cultural",
+                  "coords": [
+                        110.282556,
+                        -7.578429
+                  ]
+            },
+            {
+                  "name": "Area Pasar",
+                  "text": "Un cartier comercial extins unde se pot găsi textile proaspete și delicatese locale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.276496,
+                        -7.569505
+                  ]
+            },
+            {
+                  "name": "Pasar Hewan",
+                  "text": "O piață de animale specializată, unde fermierii din regiune tranzacționează capre și vite.",
+                  "category": "cultural",
+                  "coords": [
+                        110.280371,
+                        -7.569836
+                  ]
+            },
+            {
+                  "name": "Pemandian Air Panas Tirta Madu Barokah",
+                  "text": "Un loc de recreere cu izvoare termale naturale, apreciate pentru efectul lor relaxant.",
+                  "category": "landmark",
+                  "coords": [
+                        110.187526,
+                        -7.569648
+                  ]
+            },
+            {
+                  "name": "Pemandian Air Panas Ngasinan",
+                  "text": "Băi termale naturale în Ngasinan, care oferă o oportunitate de scăldat liniștită în mijlocul câmpurilor de orez.",
+                  "category": "landmark",
+                  "coords": [
+                        110.187582,
+                        -7.568726
+                  ]
+            },
+            {
+                  "name": "PUNCAK WIDOSARI",
+                  "text": "Un vârf stâncos proeminent în dealurile Menoreh, care oferă vederi largi asupra peisajului verde.",
+                  "category": "landmark",
+                  "coords": [
+                        110.148476,
+                        -7.657833
+                  ]
+            },
+            {
+                  "name": "Punthuk Setumbu Reforestation Project",
+                  "text": "Un proiect de reîmpădurire pe un deal, considerat unul dintre cele mai bune locuri pentru răsăritul peste Borobudur.",
+                  "category": "landmark",
+                  "coords": [
+                        110.177631,
+                        -7.607192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Kapal Samudraraksa",
+                  "text": "This museum houses a life-size 8th-century ship replica based on temple reliefs.",
+                  "category": "museum",
+                  "coords": [
+                        110.203353,
+                        -7.604716
+                  ]
+            },
+            {
+                  "name": "Museum Borobudur",
+                  "text": "A museum preserving the original series of Karmawibhangga reliefs and significant Buddha statues from Borobudur.",
+                  "category": "museum",
+                  "coords": [
+                        110.204625,
+                        -7.604131
+                  ]
+            },
+            {
+                  "name": "Giant Chicken Church",
+                  "text": "A unique prayer house shaped like a giant bird, situated in the forested hills above the plain.",
+                  "category": "religious",
+                  "coords": [
+                        110.180511,
+                        -7.605635
+                  ]
+            },
+            {
+                  "name": "Borobudur Temple",
+                  "text": "The world's largest Buddhist temple, famous for its 72 stone stupas and intricate reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        110.203822,
+                        -7.607951
+                  ]
+            },
+            {
+                  "name": "Pawon Temple",
+                  "text": "A small Buddhist temple located on a direct ritual line between Mendut and Borobudur.",
+                  "category": "landmark",
+                  "coords": [
+                        110.21956,
+                        -7.606128
+                  ]
+            },
+            {
+                  "name": "Mendut Temple",
+                  "text": "A 9th-century temple housing a massive three-meter-tall seated Buddha statue inside.",
+                  "category": "landmark",
+                  "coords": [
+                        110.230027,
+                        -7.604807
+                  ]
+            },
+            {
+                  "name": "Galeri Unik dan Seni Borobudur",
+                  "text": "A gallery showcasing a collection of curious artworks and local craftsmanship from around the temple.",
+                  "category": "museum",
+                  "coords": [
+                        110.201484,
+                        -7.604837
+                  ]
+            },
+            {
+                  "name": "Joglo Jeep",
+                  "text": "An art space in a traditional Javanese house, often serving as a starting point for Jeep safaris through the villages.",
+                  "category": "museum",
+                  "coords": [
+                        110.27839,
+                        -7.593741
+                  ]
+            },
+            {
+                  "name": "Museum dan Kampung Seni Borobudur",
+                  "text": "A museum village presenting Javanese art and traditional ways of life in close proximity to the Borobudur temple.",
+                  "category": "museum",
+                  "coords": [
+                        110.197405,
+                        -7.603247
+                  ]
+            },
+            {
+                  "name": "Cagar Budaya Plengkung Pitu",
+                  "text": "An archaeological site known for its seven historic gateway arches that were once part of a larger structure.",
+                  "category": "historical",
+                  "coords": [
+                        110.138442,
+                        -7.596305
+                  ]
+            },
+            {
+                  "name": "Soekarno-Hatta",
+                  "text": "A monument honoring the founding fathers of Indonesia, commemorating their contribution to national unity.",
+                  "category": "historical",
+                  "coords": [
+                        110.22369,
+                        -7.600552
+                  ]
+            },
+            {
+                  "name": "Candi Ngawen",
+                  "text": "This 8th-century Buddhist temple complex consists of five small shrines set in a rural landscape.",
+                  "category": "historical",
+                  "coords": [
+                        110.272511,
+                        -7.604142
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "A local mosque serving as the religious center for the surrounding village community.",
+                  "category": "religious",
+                  "coords": [
+                        110.158636,
+                        -7.582672
+                  ]
+            },
+            {
+                  "name": "PONDOK PESANTREN AL-FALLAH",
+                  "text": "A traditional Islamic boarding school and mosque forming a hub for religious education.",
+                  "category": "religious",
+                  "coords": [
+                        110.154483,
+                        -7.660865
+                  ]
+            },
+            {
+                  "name": "Tempat Ibadah",
+                  "text": "A small local prayer space for the daily devotions of the village residents.",
+                  "category": "religious",
+                  "coords": [
+                        110.275579,
+                        -7.572256
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturohman",
+                  "text": "A mosque with a traditional roof structure serving the worshippers of the Baiturohman community.",
+                  "category": "religious",
+                  "coords": [
+                        110.281487,
+                        -7.571658
+                  ]
+            },
+            {
+                  "name": "Pasar Mungkid",
+                  "text": "A lively marketplace in Mungkid selling fresh local produce and handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        110.252428,
+                        -7.554285
+                  ]
+            },
+            {
+                  "name": "Pasar Japuan",
+                  "text": "A traditional morning market in Japuan known for its authentic local street food.",
+                  "category": "cultural",
+                  "coords": [
+                        110.246548,
+                        -7.615287
+                  ]
+            },
+            {
+                  "name": "Pasar Japunan Magelang",
+                  "text": "A busy trading spot in Magelang offering clothing and household goods for the region.",
+                  "category": "cultural",
+                  "coords": [
+                        110.230992,
+                        -7.531726
+                  ]
+            },
+            {
+                  "name": "Pasar Jambu Punduh",
+                  "text": "A local market in Jambu Punduh carrying a variety of spices and tropical fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        110.166082,
+                        -7.543587
+                  ]
+            },
+            {
+                  "name": "Traditional Market (Pasar Salaman)",
+                  "text": "The Salaman market is a key hub for trading goods from the surrounding villages.",
+                  "category": "cultural",
+                  "coords": [
+                        110.134876,
+                        -7.581544
+                  ]
+            },
+            {
+                  "name": "Pasar Borobudur",
+                  "text": "A central market near the Borobudur temple offering souvenirs and local specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        110.210717,
+                        -7.601697
+                  ]
+            },
+            {
+                  "name": "Pasar Muntilan",
+                  "text": "This large market in Muntilan is a major economic hub for the region's daily needs.",
+                  "category": "cultural",
+                  "coords": [
+                        110.283799,
+                        -7.580796
+                  ]
+            },
+            {
+                  "name": "Pasar",
+                  "text": "A traditional Indonesian market where surrounding farmers sell their fruit and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        110.282556,
+                        -7.578429
+                  ]
+            },
+            {
+                  "name": "Area Pasar",
+                  "text": "An extensive market area where one can find fresh textiles and local delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        110.276496,
+                        -7.569505
+                  ]
+            },
+            {
+                  "name": "Pasar Hewan",
+                  "text": "A specialized livestock market where farmers from the region trade goats and cattle.",
+                  "category": "cultural",
+                  "coords": [
+                        110.280371,
+                        -7.569836
+                  ]
+            },
+            {
+                  "name": "Pemandian Air Panas Tirta Madu Barokah",
+                  "text": "A recreational site featuring natural hot springs, valued for their relaxing effects.",
+                  "category": "landmark",
+                  "coords": [
+                        110.187526,
+                        -7.569648
+                  ]
+            },
+            {
+                  "name": "Pemandian Air Panas Ngasinan",
+                  "text": "Natural thermal baths in Ngasinan offering a quiet bathing opportunity amidst rice fields.",
+                  "category": "landmark",
+                  "coords": [
+                        110.187582,
+                        -7.568726
+                  ]
+            },
+            {
+                  "name": "PUNCAK WIDOSARI",
+                  "text": "A prominent rock peak in the Menoreh Hills offering sweeping views over the green landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        110.148476,
+                        -7.657833
+                  ]
+            },
+            {
+                  "name": "Punthuk Setumbu Reforestation Project",
+                  "text": "A hilltop reforestation project considered one of the best spots for sunrise views over Borobudur.",
+                  "category": "landmark",
+                  "coords": [
+                        110.177631,
+                        -7.607192
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-JT",
     coords: [110.2038, -7.6079],
@@ -51,7 +1140,1168 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "prambanan-temple-history-v2",
+    id: "prambanan-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Candi Lumbung",
+                  "text": "Ein buddhistischer Tempel aus dem 9. Jahrhundert mit einem Hauptschrein, der von 16 kleineren Bauwerken umgeben ist.",
+                  "category": "historical",
+                  "coords": [
+                        110.492944,
+                        -7.74812
+                  ]
+            },
+            {
+                  "name": "Candi Bubrah",
+                  "text": "Ein buddhistischer Tempel aus dem 9. Jahrhundert, der sich innerhalb des archäologischen Parks von Prambanan befindet.",
+                  "category": "historical",
+                  "coords": [
+                        110.492959,
+                        -7.746514
+                  ]
+            },
+            {
+                  "name": "Candi Kedulan",
+                  "text": "Dieser Hindu-Tempel wurde unter vulkanischer Asche vom Berg Merapi begraben und erst 1976 wiederentdeckt.",
+                  "category": "historical",
+                  "coords": [
+                        110.469791,
+                        -7.742612
+                  ]
+            },
+            {
+                  "name": "Panggung Terbuka Sendratari Ramayana Prambanan",
+                  "text": "Eine traditionelle javanische Tanzaufführung, die vor der beleuchteten Kulisse der Prambanan-Tempel stattfindet.",
+                  "category": "cultural",
+                  "coords": [
+                        110.488557,
+                        -7.752003
+                  ]
+            },
+            {
+                  "name": "Candi Sojiwan",
+                  "text": "Dieser buddhistische Tempel ist berühmt für seine Reliefs, die Tierfabeln aus den Jataka-Erzählungen darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.496126,
+                        -7.760888
+                  ]
+            },
+            {
+                  "name": "Candi Prambanan",
+                  "text": "Der größte hinduistische Tempelkomplex Indonesiens, der im 9. Jahrhundert zu Ehren von Shiva errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491456,
+                        -7.752016
+                  ]
+            },
+            {
+                  "name": "Candi Sewu",
+                  "text": "Dieser weitläufige buddhistische Komplex aus dem 8. Jahrhundert ist lokal als „Tempel der Tausend“ bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.492885,
+                        -7.743918
+                  ]
+            },
+            {
+                  "name": "Museum Historia 24249",
+                  "text": "Ein Museum, das Fundstücke und Dokumente zur Siedlungsgeschichte der Region Prambanan beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        110.468693,
+                        -7.72766
+                  ]
+            },
+            {
+                  "name": "Museum Plataran",
+                  "text": "Ein kleines lokales Museum, das archäologische Entdeckungen aus der unmittelbaren Umgebung der Tempel zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        110.463408,
+                        -7.714666
+                  ]
+            },
+            {
+                  "name": "Pura Widya Dharma Dero",
+                  "text": "Ein moderner hinduistischer Tempel, der die spirituelle Tradition in der Nähe der antiken Ruinen fortsetzt.",
+                  "category": "religious",
+                  "coords": [
+                        110.435178,
+                        -7.740312
+                  ]
+            },
+            {
+                  "name": "Museum Gula",
+                  "text": "Dieses Museum dokumentiert die Geschichte der Zuckerindustrie, die während der Kolonialzeit in Java blühte.",
+                  "category": "museum",
+                  "coords": [
+                        110.561526,
+                        -7.721199
+                  ]
+            },
+            {
+                  "name": "Museum Prambanan",
+                  "text": "Das Museum zeigt Originalstatuen und architektonische Fragmente, die im Prambanan-Komplex gefunden wurden.",
+                  "category": "museum",
+                  "coords": [
+                        110.493429,
+                        -7.749402
+                  ]
+            },
+            {
+                  "name": "Candi Morangan",
+                  "text": "Die Ruinen dieses Hindu-Tempels befinden sich inmitten von Reisfeldern und zeigen kunstvolle Reliefs.",
+                  "category": "historical",
+                  "coords": [
+                        110.462685,
+                        -7.669876
+                  ]
+            },
+            {
+                  "name": "Candi Gana",
+                  "text": "Eine buddhistische Tempelruine, die für ihre Schnitzereien von Ganas, den zwergenhaften Dienern Shivas, bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        110.496117,
+                        -7.743952
+                  ]
+            },
+            {
+                  "name": "Situs Arca Bugisan",
+                  "text": "Archäologische Stätte bei Prambanan mit antiken Steinstatuen und Überresten aus der Klassik.",
+                  "category": "historical",
+                  "coords": [
+                        110.481787,
+                        -7.759194
+                  ]
+            },
+            {
+                  "name": "Candi Plaosan Kidul",
+                  "text": "Südlicher Teil des buddhistischen Plaosan-Tempelkomplexes mit markanten steinernen Stupas.",
+                  "category": "historical",
+                  "coords": [
+                        110.504748,
+                        -7.742681
+                  ]
+            },
+            {
+                  "name": "Candi Plaosan Lor",
+                  "text": "Nördlicher Hauptkomplex der Plaosan-Tempel, bekannt für seine beeindruckenden Zwillingsheiligtümer.",
+                  "category": "historical",
+                  "coords": [
+                        110.504646,
+                        -7.740555
+                  ]
+            },
+            {
+                  "name": "Monumen Sleman Sembada",
+                  "text": "Wahrzeichen in Sleman, das die lokale Identität und die regionale „Sembada“-Philosophie symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        110.434553,
+                        -7.735049
+                  ]
+            },
+            {
+                  "name": "Tugu Sleman Sembada",
+                  "text": "Denkmal im Obelisk-Stil, das einen wichtigen Straßenknotenpunkt im Bezirk Sleman markiert.",
+                  "category": "historical",
+                  "coords": [
+                        110.434214,
+                        -7.743607
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ma'arif",
+                  "text": "Lokale Moschee im Gebiet von Prambanan für die täglichen islamischen Gebete und Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        110.44805,
+                        -7.7537
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Gemeinschaftliches Gotteshaus für das örtliche Dorf in der Nähe des großen Tempelkomplexes.",
+                  "category": "religious",
+                  "coords": [
+                        110.448677,
+                        -7.703197
+                  ]
+            },
+            {
+                  "name": "Aneka Snack & Jajan Pasar Kurnia",
+                  "text": "Kleiner lokaler Marktplatz, der auf traditionelle javanische Snacks und Straßenspeisen spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        110.468331,
+                        -7.743775
+                  ]
+            },
+            {
+                  "name": "Pasar Wonosari Sleman",
+                  "text": "Traditioneller Markt in Sleman, auf dem Einheimische mit frischen Produkten und Haushaltswaren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        110.432821,
+                        -7.721599
+                  ]
+            },
+            {
+                  "name": "pasar dompyongan",
+                  "text": "Kleiner Dorfmarktplatz für die örtliche Gemeinschaft in der Nähe des Prambanan-Bezirks.",
+                  "category": "cultural",
+                  "coords": [
+                        110.531066,
+                        -7.715495
+                  ]
+            },
+            {
+                  "name": "Farhana Buah dan Jus",
+                  "text": "Lokaler Marktstand, bekannt für eine Auswahl an frischen tropischen Früchten und Säften.",
+                  "category": "cultural",
+                  "coords": [
+                        110.482336,
+                        -7.736654
+                  ]
+            },
+            {
+                  "name": "Pasar Wage Jangkang",
+                  "text": "Traditioneller Markt, der am javanischen „Wage“-Tag im Gebiet von Jangkang abgehalten wird.",
+                  "category": "cultural",
+                  "coords": [
+                        110.444759,
+                        -7.699568
+                  ]
+            },
+            {
+                  "name": "Pasar Jangkang",
+                  "text": "Lokaler Dorfmarkt in Jangkang, der die Bewohner mit Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        110.446796,
+                        -7.700781
+                  ]
+            },
+            {
+                  "name": "Pasar Ikan Krido Baruna",
+                  "text": "Spezialisierter Fischmarkt in der Region, der der lokalen Gemeinschaft frische Fänge anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        110.461736,
+                        -7.678293
+                  ]
+            },
+            {
+                  "name": "Pasar Banjarharjo",
+                  "text": "Kleiner traditioneller Markt für die täglichen Bedürfnisse des Dorfgebiets von Banjarharjo.",
+                  "category": "cultural",
+                  "coords": [
+                        110.459287,
+                        -7.682473
+                  ]
+            },
+            {
+                  "name": "Pasar Jambon",
+                  "text": "Gemeinschaftsmarkt in Jambon, auf dem traditionelle javanische Lebensmittel und Waren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        110.47612,
+                        -7.694033
+                  ]
+            },
+            {
+                  "name": "Pasar Prambanan",
+                  "text": "Großer, belebter Markt bei den Prambanan-Tempeln, auf dem lokale Textilien und Speisen verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        110.489159,
+                        -7.757011
+                  ]
+            },
+            {
+                  "name": "Pasar Tulung",
+                  "text": "Lokaler Marktplatz im Gebiet von Tulung, bekannt für traditionellen Handel und regionale Snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        110.481106,
+                        -7.736391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Candi Lumbung",
+                  "text": "9. századi buddhista templom, amelynek központi szentélyét 16 kisebb építmény veszi körül.",
+                  "category": "historical",
+                  "coords": [
+                        110.492944,
+                        -7.74812
+                  ]
+            },
+            {
+                  "name": "Candi Bubrah",
+                  "text": "9. századi buddhista templom, amely a Prambanan régészeti park területén található.",
+                  "category": "historical",
+                  "coords": [
+                        110.492959,
+                        -7.746514
+                  ]
+            },
+            {
+                  "name": "Candi Kedulan",
+                  "text": "Ezt a hindu templomot a Merapi-hegy vulkáni hamuja temette el, és csak 1976-ban fedezték fel újra.",
+                  "category": "historical",
+                  "coords": [
+                        110.469791,
+                        -7.742612
+                  ]
+            },
+            {
+                  "name": "Panggung Terbuka Sendratari Ramayana Prambanan",
+                  "text": "Hagyományos jávai táncelőadás, amelyet a Prambanan-templomok megvilágított háttere előtt tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.488557,
+                        -7.752003
+                  ]
+            },
+            {
+                  "name": "Candi Sojiwan",
+                  "text": "Ez a buddhista templom a Jataka-mesék állatfabuláit ábrázoló domborműveiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        110.496126,
+                        -7.760888
+                  ]
+            },
+            {
+                  "name": "Candi Prambanan",
+                  "text": "Indonézia legnagyobb hindu templomkomplexuma, amelyet a 9. században emeltek Shiva tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491456,
+                        -7.752016
+                  ]
+            },
+            {
+                  "name": "Candi Sewu",
+                  "text": "Ez a hatalmas, 8. századi buddhista komplexum helyi nevén az „Ezer templom”.",
+                  "category": "landmark",
+                  "coords": [
+                        110.492885,
+                        -7.743918
+                  ]
+            },
+            {
+                  "name": "Museum Historia 24249",
+                  "text": "Múzeum, amely a Prambanan-régió településtörténeti leleteit és dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        110.468693,
+                        -7.72766
+                  ]
+            },
+            {
+                  "name": "Museum Plataran",
+                  "text": "Kicsi helyi múzeum, amely a templomok közvetlen környezetéből származó régészeti felfedezéseket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        110.463408,
+                        -7.714666
+                  ]
+            },
+            {
+                  "name": "Pura Widya Dharma Dero",
+                  "text": "Modern hindu templom, amely folytatja a spirituális hagyományt az ősi romok közelében.",
+                  "category": "religious",
+                  "coords": [
+                        110.435178,
+                        -7.740312
+                  ]
+            },
+            {
+                  "name": "Museum Gula",
+                  "text": "Ez a múzeum a gyarmati korszakban Jáván virágzó cukoripar történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        110.561526,
+                        -7.721199
+                  ]
+            },
+            {
+                  "name": "Museum Prambanan",
+                  "text": "A múzeum a Prambanan-komplexumban talált eredeti szobrokat és építészeti töredékeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        110.493429,
+                        -7.749402
+                  ]
+            },
+            {
+                  "name": "Candi Morangan",
+                  "text": "Ennek a hindu templomnak a romjai rizsföldek közepén találhatók, és művészi domborműveket mutatnak be.",
+                  "category": "historical",
+                  "coords": [
+                        110.462685,
+                        -7.669876
+                  ]
+            },
+            {
+                  "name": "Candi Gana",
+                  "text": "Buddhista templomrom, amely Gana faragványairól, Shiva törpe szolgáiról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        110.496117,
+                        -7.743952
+                  ]
+            },
+            {
+                  "name": "Situs Arca Bugisan",
+                  "text": "Régészeti lelőhely Prambanan közelében, ókori kőszobrokkal és klasszikus kori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        110.481787,
+                        -7.759194
+                  ]
+            },
+            {
+                  "name": "Candi Plaosan Kidul",
+                  "text": "A Plaosan buddhista templomegyüttes déli része jellegzetes kőből készült sztúpákkal.",
+                  "category": "historical",
+                  "coords": [
+                        110.504748,
+                        -7.742681
+                  ]
+            },
+            {
+                  "name": "Candi Plaosan Lor",
+                  "text": "A Plaosan-templomok északi főkomplexuma, amely lenyűgöző ikerszentélyeiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        110.504646,
+                        -7.740555
+                  ]
+            },
+            {
+                  "name": "Monumen Sleman Sembada",
+                  "text": "Sleman jellegzetes emlékműve, amely a helyi identitást és a „Sembada” filozófiát jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        110.434553,
+                        -7.735049
+                  ]
+            },
+            {
+                  "name": "Tugu Sleman Sembada",
+                  "text": "Obeliszk stílusú emlékmű, amely egy fontos útkereszteződést jelöl Sleman körzetben.",
+                  "category": "historical",
+                  "coords": [
+                        110.434214,
+                        -7.743607
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ma'arif",
+                  "text": "Helyi mecset Prambanan környékén, amelyet napi imádságokra és közösségi összejövetelekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        110.44805,
+                        -7.7537
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Közösségi imaház, amely a nagy templomkomplexum melletti helyi falut szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        110.448677,
+                        -7.703197
+                  ]
+            },
+            {
+                  "name": "Aneka Snack & Jajan Pasar Kurnia",
+                  "text": "Kis helyi piactér, amely hagyományos jávai harapnivalókra és utcai ételekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        110.468331,
+                        -7.743775
+                  ]
+            },
+            {
+                  "name": "Pasar Wonosari Sleman",
+                  "text": "Hagyományos piac Slemanban, ahol a helyiek friss árukkal és háztartási cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        110.432821,
+                        -7.721599
+                  ]
+            },
+            {
+                  "name": "pasar dompyongan",
+                  "text": "Kis falusi piactér, amely a Prambanan körzet melletti helyi közösséget szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        110.531066,
+                        -7.715495
+                  ]
+            },
+            {
+                  "name": "Farhana Buah dan Jus",
+                  "text": "Helyi piaci stand, amely friss trópusi gyümölcseiről és gyümölcsleveiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.482336,
+                        -7.736654
+                  ]
+            },
+            {
+                  "name": "Pasar Wage Jangkang",
+                  "text": "Hagyományos piac, amelyet a jávai „Wage” napon tartanak Jangkang környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        110.444759,
+                        -7.699568
+                  ]
+            },
+            {
+                  "name": "Pasar Jangkang",
+                  "text": "Helyi falusi piac Jangkangban, amely napi szükségleti cikkeket és élelmiszert kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        110.446796,
+                        -7.700781
+                  ]
+            },
+            {
+                  "name": "Pasar Ikan Krido Baruna",
+                  "text": "Speciális halpiac a régióban, amely friss fogásokat kínál a helyi közösségnek.",
+                  "category": "cultural",
+                  "coords": [
+                        110.461736,
+                        -7.678293
+                  ]
+            },
+            {
+                  "name": "Pasar Banjarharjo",
+                  "text": "Kis hagyományos piac, amely Banjarharjo falu napi igényeit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        110.459287,
+                        -7.682473
+                  ]
+            },
+            {
+                  "name": "Pasar Jambon",
+                  "text": "Közösségi piac Jambonban, ahol hagyományos jávai ételeket és árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.47612,
+                        -7.694033
+                  ]
+            },
+            {
+                  "name": "Pasar Prambanan",
+                  "text": "Nagy, nyüzsgő piac a Prambanan-templomok közelében, ahol helyi textíliákat és ételeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.489159,
+                        -7.757011
+                  ]
+            },
+            {
+                  "name": "Pasar Tulung",
+                  "text": "Helyi piactér Tulung környékén, amely hagyományos kereskedelméről és harapnivalóiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.481106,
+                        -7.736391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Candi Lumbung",
+                  "text": "Un templu budist din secolul al IX-lea, cu un altar principal înconjurat de 16 structuri mai mici.",
+                  "category": "historical",
+                  "coords": [
+                        110.492944,
+                        -7.74812
+                  ]
+            },
+            {
+                  "name": "Candi Bubrah",
+                  "text": "Un templu budist din secolul al IX-lea, situat în interiorul parcului arheologic Prambanan.",
+                  "category": "historical",
+                  "coords": [
+                        110.492959,
+                        -7.746514
+                  ]
+            },
+            {
+                  "name": "Candi Kedulan",
+                  "text": "Acest templu hindu a fost îngropat sub cenușa vulcanică de la muntele Merapi și redescoperit abia în 1976.",
+                  "category": "historical",
+                  "coords": [
+                        110.469791,
+                        -7.742612
+                  ]
+            },
+            {
+                  "name": "Panggung Terbuka Sendratari Ramayana Prambanan",
+                  "text": "Un spectacol de dans tradițional javanez susținut pe fundalul iluminat al templelor Prambanan.",
+                  "category": "cultural",
+                  "coords": [
+                        110.488557,
+                        -7.752003
+                  ]
+            },
+            {
+                  "name": "Candi Sojiwan",
+                  "text": "Acest templu budist este faimos pentru reliefurile sale care înfățișează fabule cu animale din poveștile Jataka.",
+                  "category": "landmark",
+                  "coords": [
+                        110.496126,
+                        -7.760888
+                  ]
+            },
+            {
+                  "name": "Candi Prambanan",
+                  "text": "Cel mai mare complex de temple hindu din Indonezia, construit în secolul al IX-lea în cinstea lui Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491456,
+                        -7.752016
+                  ]
+            },
+            {
+                  "name": "Candi Sewu",
+                  "text": "Acest vast complex budist din secolul al VIII-lea este cunoscut local sub numele de „Templul celor o mie”.",
+                  "category": "landmark",
+                  "coords": [
+                        110.492885,
+                        -7.743918
+                  ]
+            },
+            {
+                  "name": "Museum Historia 24249",
+                  "text": "Un muzeu care găzduiește vestigii și documente despre istoria așezărilor din regiunea Prambanan.",
+                  "category": "museum",
+                  "coords": [
+                        110.468693,
+                        -7.72766
+                  ]
+            },
+            {
+                  "name": "Museum Plataran",
+                  "text": "Un mic muzeu local care prezintă descoperiri arheologice din împrejurimile imediate ale templelor.",
+                  "category": "museum",
+                  "coords": [
+                        110.463408,
+                        -7.714666
+                  ]
+            },
+            {
+                  "name": "Pura Widya Dharma Dero",
+                  "text": "Un templu hindu modern care continuă tradiția spirituală în apropierea ruinelor antice.",
+                  "category": "religious",
+                  "coords": [
+                        110.435178,
+                        -7.740312
+                  ]
+            },
+            {
+                  "name": "Museum Gula",
+                  "text": "Acest muzeu documentează istoria industriei zahărului care a înflorit în Java în timpul epocii coloniale.",
+                  "category": "museum",
+                  "coords": [
+                        110.561526,
+                        -7.721199
+                  ]
+            },
+            {
+                  "name": "Museum Prambanan",
+                  "text": "Muzeul expune statui originale și fragmente arhitecturale găsite în complexul Prambanan.",
+                  "category": "museum",
+                  "coords": [
+                        110.493429,
+                        -7.749402
+                  ]
+            },
+            {
+                  "name": "Candi Morangan",
+                  "text": "Ruinele acestui templu hindu se află în mijlocul câmpurilor de orez și prezintă reliefuri artistice.",
+                  "category": "historical",
+                  "coords": [
+                        110.462685,
+                        -7.669876
+                  ]
+            },
+            {
+                  "name": "Candi Gana",
+                  "text": "O ruină de templu budist cunoscută pentru sculpturile sale cu Gana, slujitorii pitici ai lui Shiva.",
+                  "category": "historical",
+                  "coords": [
+                        110.496117,
+                        -7.743952
+                  ]
+            },
+            {
+                  "name": "Situs Arca Bugisan",
+                  "text": "Sit arheologic lângă Prambanan, cu statui vechi de piatră și relicve din perioada clasică.",
+                  "category": "historical",
+                  "coords": [
+                        110.481787,
+                        -7.759194
+                  ]
+            },
+            {
+                  "name": "Candi Plaosan Kidul",
+                  "text": "Secțiunea sudică a complexului de temple budiste Plaosan, cu stupe de piatră distinctive.",
+                  "category": "historical",
+                  "coords": [
+                        110.504748,
+                        -7.742681
+                  ]
+            },
+            {
+                  "name": "Candi Plaosan Lor",
+                  "text": "Complexul principal de nord al templelor Plaosan, cunoscut pentru sanctuarele sale gemene impresionante.",
+                  "category": "historical",
+                  "coords": [
+                        110.504646,
+                        -7.740555
+                  ]
+            },
+            {
+                  "name": "Monumen Sleman Sembada",
+                  "text": "Monument de referință în Sleman, simbolizând identitatea locală și filozofia „Sembada”.",
+                  "category": "historical",
+                  "coords": [
+                        110.434553,
+                        -7.735049
+                  ]
+            },
+            {
+                  "name": "Tugu Sleman Sembada",
+                  "text": "Monument în stil obelisc care marchează o intersecție rutieră cheie în districtul Sleman.",
+                  "category": "historical",
+                  "coords": [
+                        110.434214,
+                        -7.743607
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ma'arif",
+                  "text": "Moschee locală din zona Prambanan, folosită pentru rugăciunile islamice zilnice și adunări.",
+                  "category": "religious",
+                  "coords": [
+                        110.44805,
+                        -7.7537
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Lăcaș de cult comunitar care deservește satul local de lângă marele complex de temple.",
+                  "category": "religious",
+                  "coords": [
+                        110.448677,
+                        -7.703197
+                  ]
+            },
+            {
+                  "name": "Aneka Snack & Jajan Pasar Kurnia",
+                  "text": "Mică piață locală specializată în gustări tradiționale javaneze și mâncare de stradă.",
+                  "category": "cultural",
+                  "coords": [
+                        110.468331,
+                        -7.743775
+                  ]
+            },
+            {
+                  "name": "Pasar Wonosari Sleman",
+                  "text": "Piață tradițională în Sleman, unde localnicii comercializează produse proaspete și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        110.432821,
+                        -7.721599
+                  ]
+            },
+            {
+                  "name": "pasar dompyongan",
+                  "text": "Mică piață sătească care deservește comunitatea locală de lângă districtul Prambanan.",
+                  "category": "cultural",
+                  "coords": [
+                        110.531066,
+                        -7.715495
+                  ]
+            },
+            {
+                  "name": "Farhana Buah dan Jus",
+                  "text": "Tarabă locală cunoscută pentru o varietate de fructe tropicale proaspete și sucuri.",
+                  "category": "cultural",
+                  "coords": [
+                        110.482336,
+                        -7.736654
+                  ]
+            },
+            {
+                  "name": "Pasar Wage Jangkang",
+                  "text": "Piață tradițională ținută în ziua javaneză „Wage” în zona Jangkang.",
+                  "category": "cultural",
+                  "coords": [
+                        110.444759,
+                        -7.699568
+                  ]
+            },
+            {
+                  "name": "Pasar Jangkang",
+                  "text": "Piață sătească locală în Jangkang, care oferă produse de primă necesitate și alimente pentru rezidenți.",
+                  "category": "cultural",
+                  "coords": [
+                        110.446796,
+                        -7.700781
+                  ]
+            },
+            {
+                  "name": "Pasar Ikan Krido Baruna",
+                  "text": "Piață specializată de pește din regiune, care oferă capturi proaspete comunității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.461736,
+                        -7.678293
+                  ]
+            },
+            {
+                  "name": "Pasar Banjarharjo",
+                  "text": "Mică piață tradițională care deservește nevoile zilnice ale zonei satului Banjarharjo.",
+                  "category": "cultural",
+                  "coords": [
+                        110.459287,
+                        -7.682473
+                  ]
+            },
+            {
+                  "name": "Pasar Jambon",
+                  "text": "Piață comunitară în Jambon, unde se vând alimente tradiționale javaneze și bunuri.",
+                  "category": "cultural",
+                  "coords": [
+                        110.47612,
+                        -7.694033
+                  ]
+            },
+            {
+                  "name": "Pasar Prambanan",
+                  "text": "Piață mare și animată lângă templele Prambanan, unde se vând textile locale și mâncare.",
+                  "category": "cultural",
+                  "coords": [
+                        110.489159,
+                        -7.757011
+                  ]
+            },
+            {
+                  "name": "Pasar Tulung",
+                  "text": "Piață locală în zona Tulung, cunoscută pentru comerțul tradițional și gustările regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.481106,
+                        -7.736391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lumbung Temple",
+                  "text": "A 9th-century Buddhist temple featuring a main shrine surrounded by 16 smaller structures.",
+                  "category": "historical",
+                  "coords": [
+                        110.492944,
+                        -7.74812
+                  ]
+            },
+            {
+                  "name": "Bubrah Temple",
+                  "text": "A 9th-century Buddhist temple located within the Prambanan archaeological park.",
+                  "category": "historical",
+                  "coords": [
+                        110.492959,
+                        -7.746514
+                  ]
+            },
+            {
+                  "name": "Candi Kedulan",
+                  "text": "This Hindu temple was buried under volcanic ash from Mount Merapi and only rediscovered in 1976.",
+                  "category": "historical",
+                  "coords": [
+                        110.469791,
+                        -7.742612
+                  ]
+            },
+            {
+                  "name": "Ramayana Ballet",
+                  "text": "A traditional Javanese dance performance held against the illuminated backdrop of the Prambanan temples.",
+                  "category": "cultural",
+                  "coords": [
+                        110.488557,
+                        -7.752003
+                  ]
+            },
+            {
+                  "name": "Candi Sojiwan",
+                  "text": "This Buddhist temple is famous for its reliefs depicting animal fables from the Jataka tales.",
+                  "category": "landmark",
+                  "coords": [
+                        110.496126,
+                        -7.760888
+                  ]
+            },
+            {
+                  "name": "Prambanan Temple",
+                  "text": "The largest Hindu temple complex in Indonesia, built in the 9th century in honor of Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        110.491456,
+                        -7.752016
+                  ]
+            },
+            {
+                  "name": "Sewu Temple",
+                  "text": "This vast 8th-century Buddhist complex is known locally as 'The Thousand Temples'.",
+                  "category": "landmark",
+                  "coords": [
+                        110.492885,
+                        -7.743918
+                  ]
+            },
+            {
+                  "name": "Museum Historia 24249",
+                  "text": "A museum housing artifacts and documents regarding the settlement history of the Prambanan region.",
+                  "category": "museum",
+                  "coords": [
+                        110.468693,
+                        -7.72766
+                  ]
+            },
+            {
+                  "name": "Museum Plataran",
+                  "text": "A small local museum displaying archaeological discoveries from the immediate surroundings of the temples.",
+                  "category": "museum",
+                  "coords": [
+                        110.463408,
+                        -7.714666
+                  ]
+            },
+            {
+                  "name": "Pura Widya Dharma Dero",
+                  "text": "A modern Hindu temple continuing the spiritual tradition near the ancient ruins.",
+                  "category": "religious",
+                  "coords": [
+                        110.435178,
+                        -7.740312
+                  ]
+            },
+            {
+                  "name": "Museum Gula",
+                  "text": "This museum documents the history of the sugar industry that flourished in Java during the colonial era.",
+                  "category": "museum",
+                  "coords": [
+                        110.561526,
+                        -7.721199
+                  ]
+            },
+            {
+                  "name": "Museum Prambanan",
+                  "text": "The museum exhibits original statues and architectural fragments found within the Prambanan complex.",
+                  "category": "museum",
+                  "coords": [
+                        110.493429,
+                        -7.749402
+                  ]
+            },
+            {
+                  "name": "Candi Morangan",
+                  "text": "The ruins of this Hindu temple are located in the middle of rice fields and feature artistic reliefs.",
+                  "category": "historical",
+                  "coords": [
+                        110.462685,
+                        -7.669876
+                  ]
+            },
+            {
+                  "name": "Candi Gana",
+                  "text": "A Buddhist temple ruin known for its carvings of Ganas, the dwarf servants of Shiva.",
+                  "category": "historical",
+                  "coords": [
+                        110.496117,
+                        -7.743952
+                  ]
+            },
+            {
+                  "name": "Situs Arca Bugisan",
+                  "text": "Archaeological site near Prambanan featuring ancient stone statues and relics from the classical period.",
+                  "category": "historical",
+                  "coords": [
+                        110.481787,
+                        -7.759194
+                  ]
+            },
+            {
+                  "name": "Candi Plaosan Kidul",
+                  "text": "Southern section of the Plaosan Buddhist temple complex featuring distinctive stone stupas.",
+                  "category": "historical",
+                  "coords": [
+                        110.504748,
+                        -7.742681
+                  ]
+            },
+            {
+                  "name": "Candi Plaosan Lor",
+                  "text": "Main northern complex of the Plaosan temples known for its impressive twin shrines.",
+                  "category": "historical",
+                  "coords": [
+                        110.504646,
+                        -7.740555
+                  ]
+            },
+            {
+                  "name": "Monumen Sleman Sembada",
+                  "text": "Landmark monument in Sleman symbolizing local identity and the regional 'Sembada' philosophy.",
+                  "category": "historical",
+                  "coords": [
+                        110.434553,
+                        -7.735049
+                  ]
+            },
+            {
+                  "name": "Tugu Sleman Sembada",
+                  "text": "Obelisk-style monument marking a key road junction in the Sleman district.",
+                  "category": "historical",
+                  "coords": [
+                        110.434214,
+                        -7.743607
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ma'arif",
+                  "text": "Local mosque in the Prambanan area used for daily Islamic prayers and community gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        110.44805,
+                        -7.7537
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Community place of worship serving the local village near the great temple complex.",
+                  "category": "religious",
+                  "coords": [
+                        110.448677,
+                        -7.703197
+                  ]
+            },
+            {
+                  "name": "Aneka Snack & Jajan Pasar Kurnia",
+                  "text": "Small local marketplace specializing in traditional Javanese snacks and street food.",
+                  "category": "cultural",
+                  "coords": [
+                        110.468331,
+                        -7.743775
+                  ]
+            },
+            {
+                  "name": "Pasar Wonosari Sleman",
+                  "text": "Traditional market in Sleman where locals trade fresh produce and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        110.432821,
+                        -7.721599
+                  ]
+            },
+            {
+                  "name": "pasar dompyongan",
+                  "text": "Small village marketplace serving the local community near the Prambanan district.",
+                  "category": "cultural",
+                  "coords": [
+                        110.531066,
+                        -7.715495
+                  ]
+            },
+            {
+                  "name": "Farhana Buah dan Jus",
+                  "text": "Local market stall known for a variety of fresh tropical fruits and blended juices.",
+                  "category": "cultural",
+                  "coords": [
+                        110.482336,
+                        -7.736654
+                  ]
+            },
+            {
+                  "name": "Pasar Wage Jangkang",
+                  "text": "Traditional market held on the Javanese 'Wage' day in the Jangkang area.",
+                  "category": "cultural",
+                  "coords": [
+                        110.444759,
+                        -7.699568
+                  ]
+            },
+            {
+                  "name": "Pasar Jangkang",
+                  "text": "Local village market in Jangkang providing daily essentials and food for residents.",
+                  "category": "cultural",
+                  "coords": [
+                        110.446796,
+                        -7.700781
+                  ]
+            },
+            {
+                  "name": "Pasar Ikan Krido Baruna",
+                  "text": "Specialized fish market in the region offering fresh catches to the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        110.461736,
+                        -7.678293
+                  ]
+            },
+            {
+                  "name": "Pasar Banjarharjo",
+                  "text": "Small traditional market serving the daily needs of the Banjarharjo village area.",
+                  "category": "cultural",
+                  "coords": [
+                        110.459287,
+                        -7.682473
+                  ]
+            },
+            {
+                  "name": "Pasar Jambon",
+                  "text": "Community market in Jambon where traditional Javanese food and goods are sold.",
+                  "category": "cultural",
+                  "coords": [
+                        110.47612,
+                        -7.694033
+                  ]
+            },
+            {
+                  "name": "Pasar Prambanan",
+                  "text": "Large bustling market near the Prambanan temples selling local textiles and food.",
+                  "category": "cultural",
+                  "coords": [
+                        110.489159,
+                        -7.757011
+                  ]
+            },
+            {
+                  "name": "Pasar Tulung",
+                  "text": "Local marketplace in the Tulung area known for traditional trade and regional snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        110.481106,
+                        -7.736391
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-JT",
     coords: [110.4915, -7.7518],
@@ -87,7 +2337,1240 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ratu-boko-palace-history-v2",
+    id: "ratu-boko-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Candi Banyunibo",
+                  "text": "Einsamer buddhistischer Tempel aus dem 9. Jahrhundert mit einem markanten Dach in Form einer Bananenknospe.",
+                  "category": "historical",
+                  "coords": [
+                        110.494044,
+                        -7.777995
+                  ]
+            },
+            {
+                  "name": "Kadisoka Temple",
+                  "text": "Unvollendete Ruinen eines Hindu-Tempels aus dem 8. Jahrhundert, die tief in einem Reisfeld entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        110.445805,
+                        -7.755258
+                  ]
+            },
+            {
+                  "name": "Candi Sambisari",
+                  "text": "Bemerkenswerter Hindu-Tempelkomplex, der in einer Grube mehrere Meter unter dem Bodenniveau liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.446949,
+                        -7.762367
+                  ]
+            },
+            {
+                  "name": "Candi Sari",
+                  "text": "Prachtvoller zweistöckiger buddhistischer Tempel mit exquisiten Steinreliefs von Gottheiten.",
+                  "category": "landmark",
+                  "coords": [
+                        110.474217,
+                        -7.761506
+                  ]
+            },
+            {
+                  "name": "Candi Ijo",
+                  "text": "Hochgelegener Hindu-Tempelkomplex mit Panoramablick über das weite Tal von Prambanan.",
+                  "category": "historical",
+                  "coords": [
+                        110.511652,
+                        -7.783769
+                  ]
+            },
+            {
+                  "name": "Candi Barong",
+                  "text": "Ruinen eines Hindu-Tempels auf einem Hügel mit großen schützenden Makara-Steinfiguren an den Treppen.",
+                  "category": "historical",
+                  "coords": [
+                        110.497111,
+                        -7.77564
+                  ]
+            },
+            {
+                  "name": "Kawasan Candi Ratu Boko",
+                  "text": "Ausgedehnter befestigter Plateaukomplex aus dem 9. Jahrhundert mit monumentalen Toren und Steinbädern.",
+                  "category": "historical",
+                  "coords": [
+                        110.489238,
+                        -7.770418
+                  ]
+            },
+            {
+                  "name": "Tebing Breksi",
+                  "text": "Dramatischer Kunstpark in einem ehemaligen Kalksteinbruch mit riesigen, in den Fels gehauenen Reliefs.",
+                  "category": "recreational",
+                  "coords": [
+                        110.504828,
+                        -7.781578
+                  ]
+            },
+            {
+                  "name": "Arca Gupolo",
+                  "text": "Sammlung antiker Steinstatuen, darunter eine große kopflose Wächterfigur in der Nähe einer Höhle.",
+                  "category": "historical",
+                  "coords": [
+                        110.498167,
+                        -7.785808
+                  ]
+            },
+            {
+                  "name": "Tugu batas Stan 1940",
+                  "text": "Historischer Steinpfeiler, der seit 1940 die Verwaltungsgrenze des Stan-Gebiets markiert.",
+                  "category": "historical",
+                  "coords": [
+                        110.432915,
+                        -7.760491
+                  ]
+            },
+            {
+                  "name": "Situs Payak",
+                  "text": "Altes unterirdisches Badebecken oder „Tirta“, das im 9. Jahrhundert für rituelle Waschungen genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        110.457758,
+                        -7.833391
+                  ]
+            },
+            {
+                  "name": "Candi Abang",
+                  "text": "Ruinen eines seltenen buddhistischen Tempels aus rotem Backstein auf einem malerischen Grashügel.",
+                  "category": "historical",
+                  "coords": [
+                        110.46871,
+                        -7.810225
+                  ]
+            },
+            {
+                  "name": "Situs Goa Sentono",
+                  "text": "Kleine, in den Fels gehauene Höhlen und Nischen, die für antike Meditationen und Behausungen genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        110.471075,
+                        -7.81258
+                  ]
+            },
+            {
+                  "name": "Candi Miri",
+                  "text": "Verstreute Ruinen eines alten Hindu-Tempelkomplexes an den Hängen der südlichen Hügel.",
+                  "category": "historical",
+                  "coords": [
+                        110.504099,
+                        -7.771017
+                  ]
+            },
+            {
+                  "name": "Situs Dawangsari",
+                  "text": "Archäologische Stätte mit der massiven Basis einer buddhistischen Stupa und alten Steinblöcken.",
+                  "category": "historical",
+                  "coords": [
+                        110.497544,
+                        -7.774095
+                  ]
+            },
+            {
+                  "name": "Arca Ganesa",
+                  "text": "Antike Steinstatue des elefantenköpfigen Hindu-Gottes Ganesha, die in der ländlichen Umgebung gefunden wurde.",
+                  "category": "historical",
+                  "coords": [
+                        110.496826,
+                        -7.769958
+                  ]
+            },
+            {
+                  "name": "Situs Watu Gudig",
+                  "text": "Eine archäologische Stätte mit antiken Yoni-Steinblöcken, die inmitten lokaler Reisfelder liegen.",
+                  "category": "historical",
+                  "coords": [
+                        110.480764,
+                        -7.77499
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Diese buddhistischen Ruinen befinden sich innerhalb des archäologischen Komplexes des Ratu Boko Palastes.",
+                  "category": "historical",
+                  "coords": [
+                        110.472288,
+                        -7.767264
+                  ]
+            },
+            {
+                  "name": "Mahika Ayu",
+                  "text": "Ein moderner Veranstaltungsort, der sich auf die Präsentation lokaler darstellender Künste und Kultur konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.50581,
+                        -7.780983
+                  ]
+            },
+            {
+                  "name": "Masjid Al- Maab",
+                  "text": "Eine Gemeindemoschee, die Elemente der traditionellen javanischen und islamischen Architektur verbindet.",
+                  "category": "religious",
+                  "coords": [
+                        110.471994,
+                        -7.81473
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hidayah Berbah",
+                  "text": "Ein lokales Gebetshaus im Bezirk Berbah, das der ländlichen Gemeinschaft in der Nähe von Prambanan dient.",
+                  "category": "religious",
+                  "coords": [
+                        110.445308,
+                        -7.801884
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Hidayah",
+                  "text": "Ein islamisches Gebetshaus, das durch sein klassisches javanisches mehrstöckiges Dachdesign auffällt.",
+                  "category": "religious",
+                  "coords": [
+                        110.435292,
+                        -7.784024
+                  ]
+            },
+            {
+                  "name": "Masjid Al Qomar",
+                  "text": "Eine helle Gemeindemoschee, die sich in den Wohnvororten von Sleman befindet.",
+                  "category": "religious",
+                  "coords": [
+                        110.483166,
+                        -7.776912
+                  ]
+            },
+            {
+                  "name": "Aneka Buah Cemerlang",
+                  "text": "Ein lebhafter Marktstand, der verschiedene saisonale indonesische Früchte anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        110.433802,
+                        -7.756204
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Gambirmulyo",
+                  "text": "Ein traditioneller Dorfmarkt, auf dem die Einheimischen tägliche Lebensmittel und lokale Snacks handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        110.465557,
+                        -7.848701
+                  ]
+            },
+            {
+                  "name": "Pasar Sambilegi Sleman",
+                  "text": "Ein traditioneller Morgenmarkt in der Nähe des Flughafens, der die umliegenden Viertel versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        110.432425,
+                        -7.783054
+                  ]
+            },
+            {
+                  "name": "Pasar Tanjungtirto Berbah",
+                  "text": "Ein kleiner Gemeindemarkt im Bezirk Berbah, der regionale Waren und Grundnahrungsmittel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        110.457573,
+                        -7.790303
+                  ]
+            },
+            {
+                  "name": "Pasar",
+                  "text": "Ein lokaler Freiluftmarkt, auf dem hauptsächlich landwirtschaftliche Produkte aus der Region gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        110.453997,
+                        -7.828934
+                  ]
+            },
+            {
+                  "name": "Pasar Piyungan",
+                  "text": "Ein wichtiger Durchgangsmarkt an der Straße nach Wonosari, der für regen Handel bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        110.471126,
+                        -7.836835
+                  ]
+            },
+            {
+                  "name": "Pasar Kembangsari",
+                  "text": "Ein kleiner Viertelmarkt, der die Grundversorgung für die Bewohner des Dorfes Kembangsari sicherstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        110.489866,
+                        -7.82674
+                  ]
+            },
+            {
+                  "name": "Pasar Jragung",
+                  "text": "Ein traditioneller ländlicher Markt, auf dem Bauern ihre Ernten direkt an die Verbraucher verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        110.461835,
+                        -7.80763
+                  ]
+            },
+            {
+                  "name": "Pasar Potrojayan (Pasar Gendeng)",
+                  "text": "Ein lokaler Gemeindemarkt im Gebiet Potrojayan, der Waren für den täglichen Bedarf anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        110.482316,
+                        -7.793138
+                  ]
+            },
+            {
+                  "name": "Pasar Dinginan",
+                  "text": "Ein kleiner Dorfmarkt, der auf traditionelle Gewürze und frisches Gemüse spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        110.487323,
+                        -7.801335
+                  ]
+            },
+            {
+                  "name": "Pasar Kenaran",
+                  "text": "Ein traditioneller Marktplatz, der als zentraler Knotenpunkt für den Handel im Viertel Kenaran dient.",
+                  "category": "cultural",
+                  "coords": [
+                        110.50197,
+                        -7.806611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Candi Banyunibo",
+                  "text": "Magányos, 9. századi buddhista templom, amely egyedi, banánbimbó alakú tetőformájáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        110.494044,
+                        -7.777995
+                  ]
+            },
+            {
+                  "name": "Kadisoka Temple",
+                  "text": "Befejezetlen, 8. századi hindu templomromok, amelyeket egy rizsföld mélyén találtak meg.",
+                  "category": "historical",
+                  "coords": [
+                        110.445805,
+                        -7.755258
+                  ]
+            },
+            {
+                  "name": "Candi Sambisari",
+                  "text": "Figyelemre méltó hindu templomkomplexum, amely egy több méter mély gödörben található a felszín alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.446949,
+                        -7.762367
+                  ]
+            },
+            {
+                  "name": "Candi Sari",
+                  "text": "Díszes, kétszintes buddhista templom, amely istenségeket ábrázoló finom kőfaragványokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        110.474217,
+                        -7.761506
+                  ]
+            },
+            {
+                  "name": "Candi Ijo",
+                  "text": "Magasan fekvő hindu templomkomplexum, amely panorámás kilátást nyújt a széles Prambanan-völgyre.",
+                  "category": "historical",
+                  "coords": [
+                        110.511652,
+                        -7.783769
+                  ]
+            },
+            {
+                  "name": "Candi Barong",
+                  "text": "Dombbtetőn lévő hindu templomromok nagy védelmező „Makara” kőfaragványokkal a lépcsőin.",
+                  "category": "historical",
+                  "coords": [
+                        110.497111,
+                        -7.77564
+                  ]
+            },
+            {
+                  "name": "Kawasan Candi Ratu Boko",
+                  "text": "Kiterjedt, 9. századi erődített fennsík-komplexum monumentális kapukkal és kőfürdőkkel.",
+                  "category": "historical",
+                  "coords": [
+                        110.489238,
+                        -7.770418
+                  ]
+            },
+            {
+                  "name": "Tebing Breksi",
+                  "text": "Egy korábbi mészkőbányából kialakított látványos művészeti park hatalmas, sziklába vájt reliefekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        110.504828,
+                        -7.781578
+                  ]
+            },
+            {
+                  "name": "Arca Gupolo",
+                  "text": "Ősi kőszobrok gyűjteménye, köztük egy nagy, fej nélküli őralak egy barlang közelében.",
+                  "category": "historical",
+                  "coords": [
+                        110.498167,
+                        -7.785808
+                  ]
+            },
+            {
+                  "name": "Tugu batas Stan 1940",
+                  "text": "Történelmi kőoszlop, amely 1940 óta jelzi a Stan terület közigazgatási határát.",
+                  "category": "historical",
+                  "coords": [
+                        110.432915,
+                        -7.760491
+                  ]
+            },
+            {
+                  "name": "Situs Payak",
+                  "text": "Ősi földalatti fürdőmedence vagy „tirta”, amelyet a 9. században rituális tisztálkodásra használtak.",
+                  "category": "historical",
+                  "coords": [
+                        110.457758,
+                        -7.833391
+                  ]
+            },
+            {
+                  "name": "Candi Abang",
+                  "text": "Egy ritka, vörös téglából épült buddhista templom romjai egy festői füves domb tetején.",
+                  "category": "historical",
+                  "coords": [
+                        110.46871,
+                        -7.810225
+                  ]
+            },
+            {
+                  "name": "Situs Goa Sentono",
+                  "text": "Kicsi, sziklába vájt barlangok és fülkék, amelyeket ősi meditációra és lakóhelynek használtak.",
+                  "category": "historical",
+                  "coords": [
+                        110.471075,
+                        -7.81258
+                  ]
+            },
+            {
+                  "name": "Candi Miri",
+                  "text": "Egy ősi hindu templomegyüttes szétszórt romjai a déli dombok lankáin.",
+                  "category": "historical",
+                  "coords": [
+                        110.504099,
+                        -7.771017
+                  ]
+            },
+            {
+                  "name": "Situs Dawangsari",
+                  "text": "Régészeti lelőhely egy buddhista sztúpa hatalmas alapjával és ősi kőtömbökkel.",
+                  "category": "historical",
+                  "coords": [
+                        110.497544,
+                        -7.774095
+                  ]
+            },
+            {
+                  "name": "Arca Ganesa",
+                  "text": "Az elefántfejű hindu isten, Ganésa ősi kőszobra, amelyet a vidéki környezetben találtak.",
+                  "category": "historical",
+                  "coords": [
+                        110.496826,
+                        -7.769958
+                  ]
+            },
+            {
+                  "name": "Situs Watu Gudig",
+                  "text": "Régészeti lelőhely ősi jóni-kövekkel, amelyek a helyi rizsföldek közepén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        110.480764,
+                        -7.77499
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Buddhista romok a Ratu Boko palota régészeti együttesének területén.",
+                  "category": "historical",
+                  "coords": [
+                        110.472288,
+                        -7.767264
+                  ]
+            },
+            {
+                  "name": "Mahika Ayu",
+                  "text": "Modern előadótér, amely a helyi előadóművészetek és a kultúra bemutatására összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        110.50581,
+                        -7.780983
+                  ]
+            },
+            {
+                  "name": "Masjid Al- Maab",
+                  "text": "Közösségi mecset, amely a hagyományos jávai és az iszlám építészet elemeit ötvözi.",
+                  "category": "religious",
+                  "coords": [
+                        110.471994,
+                        -7.81473
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hidayah Berbah",
+                  "text": "Helyi imaház Berbah körzetében, amely a Prambanan közeli vidéki közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        110.445308,
+                        -7.801884
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Hidayah",
+                  "text": "Iszlám imaház, amely klasszikus jávai többszintes tetőszerkezetéről ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        110.435292,
+                        -7.784024
+                  ]
+            },
+            {
+                  "name": "Masjid Al Qomar",
+                  "text": "Világos közösségi mecset Sleman lakóövezeti külvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        110.483166,
+                        -7.776912
+                  ]
+            },
+            {
+                  "name": "Aneka Buah Cemerlang",
+                  "text": "Élénk piaci stand, amely különféle szezonális indonéz gyümölcsöket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        110.433802,
+                        -7.756204
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Gambirmulyo",
+                  "text": "Hagyományos falusi piac, ahol a helyiek napi élelmiszereket és helyi snackeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.465557,
+                        -7.848701
+                  ]
+            },
+            {
+                  "name": "Pasar Sambilegi Sleman",
+                  "text": "Hagyományos reggeli piac a repülőtér közelében, amely a környékbeli lakosokat szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        110.432425,
+                        -7.783054
+                  ]
+            },
+            {
+                  "name": "Pasar Tanjungtirto Berbah",
+                  "text": "Kisméretű közösségi piac Berbah körzetében, amely regionális árukat és alapvető élelmiszereket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        110.457573,
+                        -7.790303
+                  ]
+            },
+            {
+                  "name": "Pasar",
+                  "text": "Helyi szabadtéri piac, ahol főként a régió mezőgazdasági termékeivel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        110.453997,
+                        -7.828934
+                  ]
+            },
+            {
+                  "name": "Pasar Piyungan",
+                  "text": "Fontos tranzitpiac a Wonosari felé vezető úton, amely élénk kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.471126,
+                        -7.836835
+                  ]
+            },
+            {
+                  "name": "Pasar Kembangsari",
+                  "text": "Kis környékbeli piac, amely Kembangsari falu lakóinak alapvető szükségleteit biztosítja.",
+                  "category": "cultural",
+                  "coords": [
+                        110.489866,
+                        -7.82674
+                  ]
+            },
+            {
+                  "name": "Pasar Jragung",
+                  "text": "Hagyományos vidéki piac, ahol a gazdák közvetlenül a fogyasztóknak adják el a terményeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        110.461835,
+                        -7.80763
+                  ]
+            },
+            {
+                  "name": "Pasar Potrojayan (Pasar Gendeng)",
+                  "text": "Helyi közösségi piac Potrojayan területén, amely a napi szükségletekhez kínál árukat.",
+                  "category": "cultural",
+                  "coords": [
+                        110.482316,
+                        -7.793138
+                  ]
+            },
+            {
+                  "name": "Pasar Dinginan",
+                  "text": "Kisméretű falusi piac, amely hagyományos fűszerekre és friss zöldségekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        110.487323,
+                        -7.801335
+                  ]
+            },
+            {
+                  "name": "Pasar Kenaran",
+                  "text": "Hagyományos piactér, amely a Kenaran negyed kereskedelmi központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        110.50197,
+                        -7.806611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Candi Banyunibo",
+                  "text": "Templu budist solitar din secolul al IX-lea, cunoscut pentru forma sa unică de acoperiș în formă de mugure de bananier.",
+                  "category": "historical",
+                  "coords": [
+                        110.494044,
+                        -7.777995
+                  ]
+            },
+            {
+                  "name": "Kadisoka Temple",
+                  "text": "Ruinele unui templu hindus neterminat din secolul al VIII-lea, descoperite îngropate adânc într-un câmp de orez.",
+                  "category": "historical",
+                  "coords": [
+                        110.445805,
+                        -7.755258
+                  ]
+            },
+            {
+                  "name": "Candi Sambisari",
+                  "text": "Remarcabil complex de temple hinduse situat într-o groapă la câțiva metri sub nivelul solului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        110.446949,
+                        -7.762367
+                  ]
+            },
+            {
+                  "name": "Candi Sari",
+                  "text": "Templu budist ornat cu două etaje, cu reliefuri de piatră rafinate reprezentând zeități.",
+                  "category": "landmark",
+                  "coords": [
+                        110.474217,
+                        -7.761506
+                  ]
+            },
+            {
+                  "name": "Candi Ijo",
+                  "text": "Complex de temple hinduse la mare altitudine, oferind vederi panoramice asupra văii largi Prambanan.",
+                  "category": "historical",
+                  "coords": [
+                        110.511652,
+                        -7.783769
+                  ]
+            },
+            {
+                  "name": "Candi Barong",
+                  "text": "Ruinele unui templu hindus de pe deal, cu mari sculpturi de piatră protectoare „Makara” pe scările sale.",
+                  "category": "historical",
+                  "coords": [
+                        110.497111,
+                        -7.77564
+                  ]
+            },
+            {
+                  "name": "Kawasan Candi Ratu Boko",
+                  "text": "Complex extins de platou fortificat din secolul al IX-lea, cu porți monumentale și băi de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        110.489238,
+                        -7.770418
+                  ]
+            },
+            {
+                  "name": "Tebing Breksi",
+                  "text": "Parc artistic spectaculos creat dintr-o fostă carieră de calcar, cu reliefuri uriașe săpate în stâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        110.504828,
+                        -7.781578
+                  ]
+            },
+            {
+                  "name": "Arca Gupolo",
+                  "text": "Colecție de statui antice de piatră, inclusiv o figură mare de gardian fără cap lângă o peșteră.",
+                  "category": "historical",
+                  "coords": [
+                        110.498167,
+                        -7.785808
+                  ]
+            },
+            {
+                  "name": "Tugu batas Stan 1940",
+                  "text": "Stâlp de piatră istoric care marchează granița administrativă a zonei Stan din 1940.",
+                  "category": "historical",
+                  "coords": [
+                        110.432915,
+                        -7.760491
+                  ]
+            },
+            {
+                  "name": "Situs Payak",
+                  "text": "Vechi bazin de baie subteran sau „tirta”, folosit pentru purificarea rituală în secolul al IX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        110.457758,
+                        -7.833391
+                  ]
+            },
+            {
+                  "name": "Candi Abang",
+                  "text": "Ruinele unui templu budist rar din cărămidă roșie, situat pe un deal înverzit pitoresc.",
+                  "category": "historical",
+                  "coords": [
+                        110.46871,
+                        -7.810225
+                  ]
+            },
+            {
+                  "name": "Situs Goa Sentono",
+                  "text": "Mici peșteri și nișe săpate în stâncă, folosite pentru meditația antică și locuințe.",
+                  "category": "historical",
+                  "coords": [
+                        110.471075,
+                        -7.81258
+                  ]
+            },
+            {
+                  "name": "Candi Miri",
+                  "text": "Ruinele împrăștiate ale unui complex antic de temple hinduse situat pe pantele dealurilor din sud.",
+                  "category": "historical",
+                  "coords": [
+                        110.504099,
+                        -7.771017
+                  ]
+            },
+            {
+                  "name": "Situs Dawangsari",
+                  "text": "Sit arheologic care cuprinde baza masivă a unei stupe budiste și blocuri de piatră antice.",
+                  "category": "historical",
+                  "coords": [
+                        110.497544,
+                        -7.774095
+                  ]
+            },
+            {
+                  "name": "Arca Ganesa",
+                  "text": "Statuia veche de piatră a zeului hindus cu cap de elefant Ganesha, găsită în zona rurală.",
+                  "category": "historical",
+                  "coords": [
+                        110.496826,
+                        -7.769958
+                  ]
+            },
+            {
+                  "name": "Situs Watu Gudig",
+                  "text": "Un sit arheologic ce cuprinde blocuri de piatră antice de tip yoni, situate în mijlocul câmpurilor de orez locale.",
+                  "category": "historical",
+                  "coords": [
+                        110.480764,
+                        -7.77499
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Aceste ruine budiste sunt situate în cadrul complexului arheologic al palatului Ratu Boko.",
+                  "category": "historical",
+                  "coords": [
+                        110.472288,
+                        -7.767264
+                  ]
+            },
+            {
+                  "name": "Mahika Ayu",
+                  "text": "Un spațiu de spectacol modern, concentrat pe prezentarea artelor spectacolului și a culturii locale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.50581,
+                        -7.780983
+                  ]
+            },
+            {
+                  "name": "Masjid Al- Maab",
+                  "text": "O moschee comunitară care îmbină elemente de arhitectură tradițională javaneză și islamică.",
+                  "category": "religious",
+                  "coords": [
+                        110.471994,
+                        -7.81473
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hidayah Berbah",
+                  "text": "O casă de rugăciune locală din districtul Berbah, care deservește comunitatea rurală de lângă Prambanan.",
+                  "category": "religious",
+                  "coords": [
+                        110.445308,
+                        -7.801884
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Hidayah",
+                  "text": "Un lăcaș de cult islamic ce se remarcă prin designul său clasic javanez cu acoperiș etajat.",
+                  "category": "religious",
+                  "coords": [
+                        110.435292,
+                        -7.784024
+                  ]
+            },
+            {
+                  "name": "Masjid Al Qomar",
+                  "text": "O moschee comunitară luminoasă situată în suburbiile rezidențiale din Sleman.",
+                  "category": "religious",
+                  "coords": [
+                        110.483166,
+                        -7.776912
+                  ]
+            },
+            {
+                  "name": "Aneka Buah Cemerlang",
+                  "text": "O tarabă vibrantă ce oferă diverse fructe indoneziene de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        110.433802,
+                        -7.756204
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Gambirmulyo",
+                  "text": "O piață tradițională sătească unde localnicii tranzacționează alimente zilnice și gustări locale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.465557,
+                        -7.848701
+                  ]
+            },
+            {
+                  "name": "Pasar Sambilegi Sleman",
+                  "text": "O piață tradițională de dimineață situată lângă aeroport, care deservește cartierele din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        110.432425,
+                        -7.783054
+                  ]
+            },
+            {
+                  "name": "Pasar Tanjungtirto Berbah",
+                  "text": "O piață comunitară mică în districtul Berbah, care oferă mărfuri regionale și alimente de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        110.457573,
+                        -7.790303
+                  ]
+            },
+            {
+                  "name": "Pasar",
+                  "text": "O piață locală în aer liber unde se comercializează în principal produse agricole din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        110.453997,
+                        -7.828934
+                  ]
+            },
+            {
+                  "name": "Pasar Piyungan",
+                  "text": "O piață de tranzit importantă pe drumul spre Wonosari, cunoscută pentru comerțul intens.",
+                  "category": "cultural",
+                  "coords": [
+                        110.471126,
+                        -7.836835
+                  ]
+            },
+            {
+                  "name": "Pasar Kembangsari",
+                  "text": "O piață mică de cartier care asigură necesarul zilnic pentru locuitorii satului Kembangsari.",
+                  "category": "cultural",
+                  "coords": [
+                        110.489866,
+                        -7.82674
+                  ]
+            },
+            {
+                  "name": "Pasar Jragung",
+                  "text": "O piață rurală tradițională unde fermierii își vând recoltele direct consumatorilor.",
+                  "category": "cultural",
+                  "coords": [
+                        110.461835,
+                        -7.80763
+                  ]
+            },
+            {
+                  "name": "Pasar Potrojayan (Pasar Gendeng)",
+                  "text": "O piață comunitară locală în zona Potrojayan, care oferă mărfuri pentru nevoile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        110.482316,
+                        -7.793138
+                  ]
+            },
+            {
+                  "name": "Pasar Dinginan",
+                  "text": "O piață mică sătească specializată în condimente tradiționale și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        110.487323,
+                        -7.801335
+                  ]
+            },
+            {
+                  "name": "Pasar Kenaran",
+                  "text": "O piață tradițională care servește drept nod central pentru comerțul din cartierul Kenaran.",
+                  "category": "cultural",
+                  "coords": [
+                        110.50197,
+                        -7.806611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Candi Banyunibo",
+                  "text": "Solitary 9th-century Buddhist temple known for its unique 'banana-bud' roof shape.",
+                  "category": "historical",
+                  "coords": [
+                        110.494044,
+                        -7.777995
+                  ]
+            },
+            {
+                  "name": "Kadisoka Temple",
+                  "text": "Unfinished 8th-century Hindu temple ruins discovered buried deep in a rice field.",
+                  "category": "historical",
+                  "coords": [
+                        110.445805,
+                        -7.755258
+                  ]
+            },
+            {
+                  "name": "Sambisari Temple",
+                  "text": "Remarkable Hindu temple complex located in a pit several meters below the surrounding ground level.",
+                  "category": "landmark",
+                  "coords": [
+                        110.446949,
+                        -7.762367
+                  ]
+            },
+            {
+                  "name": "Candi Sari",
+                  "text": "Ornate two-story Buddhist temple featuring exquisite stone relief carvings of deities.",
+                  "category": "landmark",
+                  "coords": [
+                        110.474217,
+                        -7.761506
+                  ]
+            },
+            {
+                  "name": "Ijo Temple",
+                  "text": "High-altitude Hindu temple complex offering panoramic views over the broad Prambanan valley.",
+                  "category": "historical",
+                  "coords": [
+                        110.511652,
+                        -7.783769
+                  ]
+            },
+            {
+                  "name": "Barong Temple",
+                  "text": "Hilltop Hindu temple ruins featuring large protective 'Makara' stone carvings on its stairs.",
+                  "category": "historical",
+                  "coords": [
+                        110.497111,
+                        -7.77564
+                  ]
+            },
+            {
+                  "name": "Ratu Boko",
+                  "text": "Extensive 9th-century fortified plateau complex featuring monumental gates and stone baths.",
+                  "category": "historical",
+                  "coords": [
+                        110.489238,
+                        -7.770418
+                  ]
+            },
+            {
+                  "name": "Breksi Cliff",
+                  "text": "Dramatic artistic park created from a former limestone quarry with large reliefs carved into the rock.",
+                  "category": "recreational",
+                  "coords": [
+                        110.504828,
+                        -7.781578
+                  ]
+            },
+            {
+                  "name": "Arca Gupolo",
+                  "text": "Collection of ancient stone statues including a large headless guardian figure near a cave.",
+                  "category": "historical",
+                  "coords": [
+                        110.498167,
+                        -7.785808
+                  ]
+            },
+            {
+                  "name": "Tugu batas Stan 1940",
+                  "text": "Historic stone pillar marking the administrative boundary of the Stan area since 1940.",
+                  "category": "historical",
+                  "coords": [
+                        110.432915,
+                        -7.760491
+                  ]
+            },
+            {
+                  "name": "Situs Payak",
+                  "text": "Ancient underground bathing pool or 'tirta' used for ritual purification in the 9th century.",
+                  "category": "historical",
+                  "coords": [
+                        110.457758,
+                        -7.833391
+                  ]
+            },
+            {
+                  "name": "Candi Abang",
+                  "text": "Ruins of a rare red-brick Buddhist temple situated atop a scenic grassy hill.",
+                  "category": "historical",
+                  "coords": [
+                        110.46871,
+                        -7.810225
+                  ]
+            },
+            {
+                  "name": "Situs Goa Sentono",
+                  "text": "Small rock-cut caves and niches used for ancient meditation and dwellings.",
+                  "category": "historical",
+                  "coords": [
+                        110.471075,
+                        -7.81258
+                  ]
+            },
+            {
+                  "name": "Candi Miri",
+                  "text": "Scattered ruins of an ancient Hindu temple complex located on the slopes of the southern hills.",
+                  "category": "historical",
+                  "coords": [
+                        110.504099,
+                        -7.771017
+                  ]
+            },
+            {
+                  "name": "Situs Dawangsari",
+                  "text": "Archaeological site featuring the massive base of a Buddhist stupa and ancient stone blocks.",
+                  "category": "historical",
+                  "coords": [
+                        110.497544,
+                        -7.774095
+                  ]
+            },
+            {
+                  "name": "Arca Ganesa",
+                  "text": "Ancient stone statue of the elephant-headed Hindu god Ganesha found in the rural countryside.",
+                  "category": "historical",
+                  "coords": [
+                        110.496826,
+                        -7.769958
+                  ]
+            },
+            {
+                  "name": "Situs Watu Gudig",
+                  "text": "An archaeological site featuring ancient yoni stone blocks situated in the middle of local rice fields.",
+                  "category": "historical",
+                  "coords": [
+                        110.480764,
+                        -7.77499
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "These Buddhist ruins are located within the Ratu Boko palace archaeological complex.",
+                  "category": "historical",
+                  "coords": [
+                        110.472288,
+                        -7.767264
+                  ]
+            },
+            {
+                  "name": "Mahika Ayu",
+                  "text": "A modern performance venue focused on showcasing local performing arts and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        110.50581,
+                        -7.780983
+                  ]
+            },
+            {
+                  "name": "Masjid Al- Maab",
+                  "text": "A community mosque blending elements of traditional Javanese and Islamic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        110.471994,
+                        -7.81473
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Hidayah Berbah",
+                  "text": "A local prayer hall in the Berbah district serving the rural community near Prambanan.",
+                  "category": "religious",
+                  "coords": [
+                        110.445308,
+                        -7.801884
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Hidayah",
+                  "text": "An Islamic place of worship distinguished by its classic Javanese tiered roof design.",
+                  "category": "religious",
+                  "coords": [
+                        110.435292,
+                        -7.784024
+                  ]
+            },
+            {
+                  "name": "Masjid Al Qomar",
+                  "text": "A bright community mosque located in the residential suburbs of Sleman.",
+                  "category": "religious",
+                  "coords": [
+                        110.483166,
+                        -7.776912
+                  ]
+            },
+            {
+                  "name": "Aneka Buah Cemerlang",
+                  "text": "A vibrant market stall offering various seasonal Indonesian fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        110.433802,
+                        -7.756204
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Gambirmulyo",
+                  "text": "A traditional village market where locals trade daily groceries and local snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        110.465557,
+                        -7.848701
+                  ]
+            },
+            {
+                  "name": "Pasar Sambilegi Sleman",
+                  "text": "A traditional morning market near the airport serving the surrounding neighborhoods.",
+                  "category": "cultural",
+                  "coords": [
+                        110.432425,
+                        -7.783054
+                  ]
+            },
+            {
+                  "name": "Pasar Tanjungtirto Berbah",
+                  "text": "A small community market in the Berbah district offering regional goods and staples.",
+                  "category": "cultural",
+                  "coords": [
+                        110.457573,
+                        -7.790303
+                  ]
+            },
+            {
+                  "name": "Pasar",
+                  "text": "A local open-air market trading primarily in agricultural products from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        110.453997,
+                        -7.828934
+                  ]
+            },
+            {
+                  "name": "Pasar Piyungan",
+                  "text": "A major transit market on the road to Wonosari, known for bustling trade.",
+                  "category": "cultural",
+                  "coords": [
+                        110.471126,
+                        -7.836835
+                  ]
+            },
+            {
+                  "name": "Pasar Kembangsari",
+                  "text": "A small neighborhood market providing daily essentials for the Kembangsari village area.",
+                  "category": "cultural",
+                  "coords": [
+                        110.489866,
+                        -7.82674
+                  ]
+            },
+            {
+                  "name": "Pasar Jragung",
+                  "text": "A traditional rural market where farmers sell their harvests directly to consumers.",
+                  "category": "cultural",
+                  "coords": [
+                        110.461835,
+                        -7.80763
+                  ]
+            },
+            {
+                  "name": "Pasar Potrojayan (Pasar Gendeng)",
+                  "text": "A local community market in the Potrojayan area offering goods for daily needs.",
+                  "category": "cultural",
+                  "coords": [
+                        110.482316,
+                        -7.793138
+                  ]
+            },
+            {
+                  "name": "Pasar Dinginan",
+                  "text": "A small village market specializing in traditional spices and fresh vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        110.487323,
+                        -7.801335
+                  ]
+            },
+            {
+                  "name": "Pasar Kenaran",
+                  "text": "A traditional marketplace serving as a central hub for commerce in the Kenaran neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        110.50197,
+                        -7.806611
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "ID-YO",
     coords: [110.4889, -7.7701],
@@ -135,7 +3618,1420 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "sangiran-early-man-site-history-v2",
+    id: "sangiran-early-man-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Manusia Purba Sangiran",
+                  "text": "Das Sangiran Early Man Museum ist eine berühmte UNESCO-Welterbestätte, die zentrale Fossilien des Homo erectus ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        110.83404,
+                        -7.45589
+                  ]
+            },
+            {
+                  "name": "Museum Manusia Purba Sangiran Kluster Ngebung",
+                  "text": "Das Ngebung-Cluster des Sangiran Early Man Museums konzentriert sich auf die reiche paläoanthropologische Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        110.840362,
+                        -7.441184
+                  ]
+            },
+            {
+                  "name": "Monumen Randu Alas",
+                  "text": "Das Monumen Randu Alas ist ein lokales Gedenkbauwerk in der Region Sangiran.",
+                  "category": "historical",
+                  "coords": [
+                        110.841236,
+                        -7.444066
+                  ]
+            },
+            {
+                  "name": "Tugu Tani Kleben",
+                  "text": "Das Tugu Tani Kleben ist ein bemerkenswertes Denkmal, das das landwirtschaftliche Erbe in der Gegend von Sangiran feiert.",
+                  "category": "historical",
+                  "coords": [
+                        110.776708,
+                        -7.526484
+                  ]
+            },
+            {
+                  "name": "Tugu Ireng",
+                  "text": "Das Tugu Ireng ist ein markantes Denkmal und eine Sehenswürdigkeit im Bezirk Sangiran.",
+                  "category": "historical",
+                  "coords": [
+                        110.856754,
+                        -7.526523
+                  ]
+            },
+            {
+                  "name": "Tugu Marmer Plesungan",
+                  "text": "Das Marmordenkmal Plesungan ist eine lokale Steinmarkierung in der Region Sangiran.",
+                  "category": "historical",
+                  "coords": [
+                        110.848367,
+                        -7.528498
+                  ]
+            },
+            {
+                  "name": "Tugu Adipura",
+                  "text": "Das Tugu Adipura ist ein Denkmal in der Region Sangiran, das typischerweise an städtische Sauberkeit und Umweltmanagement erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        110.811193,
+                        -7.544377
+                  ]
+            },
+            {
+                  "name": "Tugu Boto",
+                  "text": "Das Tugu Boto ist ein historisches Denkmal, das die Kulturlandschaft der Region Sangiran bereichert.",
+                  "category": "historical",
+                  "coords": [
+                        110.791613,
+                        -7.53288
+                  ]
+            },
+            {
+                  "name": "Koperasi Artha Jaya Makmur",
+                  "text": "Die Koperasi Artha Jaya Makmur fungiert als Versammlungs- und Gotteshaus in der Region Sangiran.",
+                  "category": "religious",
+                  "coords": [
+                        110.827131,
+                        -7.5411
+                  ]
+            },
+            {
+                  "name": "Kapel Gua Maria Mojosongo",
+                  "text": "Kapel Gua Maria Mojosongo ist eine friedliche katholische Kapelle und ein Marienschrein in der Region Sangiran.",
+                  "category": "religious",
+                  "coords": [
+                        110.84,
+                        -7.546045
+                  ]
+            },
+            {
+                  "name": "Pondok Pesantren Al-Inshof",
+                  "text": "Pondok Pesantren Al-Inshof ist ein islamisches Internat und Gotteshaus im Bezirk Sangiran.",
+                  "category": "religious",
+                  "coords": [
+                        110.859244,
+                        -7.531068
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Manggung",
+                  "text": "Pasar Desa Manggung ist ein Dorfmarkt, der die Bewohner der Region Sangiran mit dem Nötigsten für den Alltag versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        110.778791,
+                        -7.493611
+                  ]
+            },
+            {
+                  "name": "Pasar Klodran",
+                  "text": "Pasar Klodran ist ein lebhafter traditioneller Markt in der weiteren Region Sangiran.",
+                  "category": "cultural",
+                  "coords": [
+                        110.791734,
+                        -7.534281
+                  ]
+            },
+            {
+                  "name": "Pasar Gemolong Asri",
+                  "text": "Pasar Gemolong Asri ist ein geschäftiger Markt, auf dem Einheimische in der Gegend von Sangiran mit Waren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        110.829524,
+                        -7.398223
+                  ]
+            },
+            {
+                  "name": "Pasar Kalioso",
+                  "text": "Pasar Kalioso dient als wichtiger lokaler Handelsplatz und Markt im Bezirk Sangiran.",
+                  "category": "cultural",
+                  "coords": [
+                        110.806263,
+                        -7.465153
+                  ]
+            },
+            {
+                  "name": "Pasar Sibela",
+                  "text": "Pasar Sibela ist ein aktiver Gemeindemarkt, der für Besucher in der Region Sangiran zugänglich ist.",
+                  "category": "cultural",
+                  "coords": [
+                        110.845517,
+                        -7.536047
+                  ]
+            },
+            {
+                  "name": "GKI Nusukan",
+                  "text": "GKI Nusukan ist eine christliche Kirche, die die Gläubigen in der Region Sangiran willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.819743,
+                        -7.543346
+                  ]
+            },
+            {
+                  "name": "GBI Agape Nusukan",
+                  "text": "Die GBI Agape Nusukan dient als spirituelles Zentrum für die christliche Gemeinde in der Nähe von Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.820012,
+                        -7.542002
+                  ]
+            },
+            {
+                  "name": "GKJ Nusukan",
+                  "text": "GKJ Nusukan ist ein lokales christliches Gotteshaus in der Umgebung von Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.818066,
+                        -7.544265
+                  ]
+            },
+            {
+                  "name": "GBIS Nusukan",
+                  "text": "GBIS Nusukan fungiert als christliche Kirche und Gemeindezentrum im Bezirk Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.819142,
+                        -7.546338
+                  ]
+            },
+            {
+                  "name": "Masjid Umar Bin Khattab",
+                  "text": "Masjid Umar Bin Khattab ist eine bemerkenswerte Moschee, die Raum für islamische Gebete in der Region Sangiran bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        110.823759,
+                        -7.546939
+                  ]
+            },
+            {
+                  "name": "Masjid Mustajabah",
+                  "text": "Masjid Mustajabah ist eine ruhige Moschee, die die muslimische Gemeinde in der Region Sangiran willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.822024,
+                        -7.544645
+                  ]
+            },
+            {
+                  "name": "Masjid Riyadhoh Iman",
+                  "text": "Masjid Riyadhoh Iman dient als aktives Gotteshaus für die lokale muslimische Bevölkerung in der Nähe von Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.825697,
+                        -7.547347
+                  ]
+            },
+            {
+                  "name": "GBI Gemolong",
+                  "text": "Die GBI Gemolong ist eine christliche Gemeinde im Bezirk Gemolong, der eng mit dem Gebiet von Sangiran verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        110.81827,
+                        -7.395203
+                  ]
+            },
+            {
+                  "name": "Masjid Pelem Geneng Miri",
+                  "text": "Masjid Pelem Geneng Miri ist eine lokale Moschee für das tägliche Gebet in der Region Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.783873,
+                        -7.387454
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim Jati",
+                  "text": "Masjid Baiturrahim Jati ist eine lokale Moschee für die muslimische Gemeinschaft in der Gegend der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.747382,
+                        -7.448255
+                  ]
+            },
+            {
+                  "name": "Masjid Aila Rona",
+                  "text": "Masjid Aila Rona ist ein islamisches Gebetshaus in der Region der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.746798,
+                        -7.449922
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ma'Muriyah",
+                  "text": "Die Masjid Al-Ma'Muriyah ist eine Moschee in der historischen Gegend der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.752484,
+                        -7.464935
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas Grinting",
+                  "text": "Die Masjid Al-Ikhlas Grinting bietet einen Gebetsraum für Muslime in der Nähe der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.747161,
+                        -7.470303
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muslimin",
+                  "text": "Die Masjid Al-Muslimin ist eine islamische Kultstätte im Gebiet der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.744178,
+                        -7.466673
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim Miri",
+                  "text": "Die Masjid Baiturrahim Miri ist eine lokale Moschee, die Gläubige in der Region der Sangiran-Fundstätte für Frühmenschen empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757659,
+                        -7.476053
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Huda Jimbrangan",
+                  "text": "Masjid Nurul Huda Jimbrangan dient als muslimisches Gebetshaus am Sangiran-Fundplatz für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757384,
+                        -7.480179
+                  ]
+            },
+            {
+                  "name": "Masjid Akbar Guli Lor",
+                  "text": "Die Masjid Akbar Guli Lor ist eine markante Moschee in der Nähe der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.761325,
+                        -7.470266
+                  ]
+            },
+            {
+                  "name": "Masjid Nur Hidayah",
+                  "text": "Die Masjid Nur Hidayah bietet einen Raum für islamische Gebete im Gebiet der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.759893,
+                        -7.472601
+                  ]
+            },
+            {
+                  "name": "Masjid Syuhada",
+                  "text": "Die Masjid Syuhada ist eine Moschee, die den religiösen Bedürfnissen der Einheimischen in der Nähe der Sangiran-Fundstätte für Frühmenschen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        110.762195,
+                        -7.465972
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Al-Huda",
+                  "text": "Die Masjid Agung Al-Huda ist ein großes islamisches Gotteshaus in der Region der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.764091,
+                        -7.459115
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "Die Masjid At-Taqwa bietet der lokalen muslimischen Gemeinde einen Ort zum Beten in der Region der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757554,
+                        -7.461773
+                  ]
+            },
+            {
+                  "name": "Masjid Ash-Shomadu",
+                  "text": "Die Masjid Ash-Shomadu ist eine alltägliche Moschee im Gebiet der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.761649,
+                        -7.461516
+                  ]
+            },
+            {
+                  "name": "Muhsolla Al-Qomar",
+                  "text": "Muhsolla Al-Qomar ist ein kleinerer muslimischer Gebetsraum in der Umgebung der Sangiran-Fundstätte für Frühmenschen.",
+                  "category": "landmark",
+                  "coords": [
+                        110.805581,
+                        -7.43626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Manusia Purba Sangiran",
+                  "text": "A Sangiran Előember Múzeum egy híres UNESCO Világörökségi helyszín, amely a Homo erectus fontos fosszíliáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        110.83404,
+                        -7.45589
+                  ]
+            },
+            {
+                  "name": "Museum Manusia Purba Sangiran Kluster Ngebung",
+                  "text": "A Sangiran Előember Múzeum Ngebung Klasztere a terület gazdag paleoantropológiai történelmére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        110.840362,
+                        -7.441184
+                  ]
+            },
+            {
+                  "name": "Monumen Randu Alas",
+                  "text": "A Monumen Randu Alas egy helyi emlékmű a Sangiran régióban.",
+                  "category": "historical",
+                  "coords": [
+                        110.841236,
+                        -7.444066
+                  ]
+            },
+            {
+                  "name": "Tugu Tani Kleben",
+                  "text": "A Tugu Tani Kleben egy figyelemre méltó emlékmű, amely a Sangiran környéki mezőgazdasági örökséget ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        110.776708,
+                        -7.526484
+                  ]
+            },
+            {
+                  "name": "Tugu Ireng",
+                  "text": "A Tugu Ireng egy jellegzetes emlékmű és nevezetesség a Sangiran kerületben.",
+                  "category": "historical",
+                  "coords": [
+                        110.856754,
+                        -7.526523
+                  ]
+            },
+            {
+                  "name": "Tugu Marmer Plesungan",
+                  "text": "A Plesungan Márvány Emlékmű egy helyi kőjelző a Sangiran régióban.",
+                  "category": "historical",
+                  "coords": [
+                        110.848367,
+                        -7.528498
+                  ]
+            },
+            {
+                  "name": "Tugu Adipura",
+                  "text": "A Tugu Adipura egy emlékmű a Sangiran térségében, amely általában a városi tisztaságnak és környezetgazdálkodásnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        110.811193,
+                        -7.544377
+                  ]
+            },
+            {
+                  "name": "Tugu Boto",
+                  "text": "A Tugu Boto egy történelmi emlékmű, amely a Sangiran régió kulturális táját gazdagítja.",
+                  "category": "historical",
+                  "coords": [
+                        110.791613,
+                        -7.53288
+                  ]
+            },
+            {
+                  "name": "Koperasi Artha Jaya Makmur",
+                  "text": "A Koperasi Artha Jaya Makmur gyülekezési imahelyként funkcionál a Sangiran régióban.",
+                  "category": "religious",
+                  "coords": [
+                        110.827131,
+                        -7.5411
+                  ]
+            },
+            {
+                  "name": "Kapel Gua Maria Mojosongo",
+                  "text": "A Kapel Gua Maria Mojosongo egy békés katolikus kápolna és Mária-kegyhely a Sangiran térségében.",
+                  "category": "religious",
+                  "coords": [
+                        110.84,
+                        -7.546045
+                  ]
+            },
+            {
+                  "name": "Pondok Pesantren Al-Inshof",
+                  "text": "A Pondok Pesantren Al-Inshof egy iszlám bentlakásos iskola és imahely a Sangiran kerületben.",
+                  "category": "religious",
+                  "coords": [
+                        110.859244,
+                        -7.531068
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Manggung",
+                  "text": "A Pasar Desa Manggung egy falusi piac, amely a Sangiran környékének lakóit látja el a mindennapi szükségletekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        110.778791,
+                        -7.493611
+                  ]
+            },
+            {
+                  "name": "Pasar Klodran",
+                  "text": "A Pasar Klodran egy élénk hagyományos piac a nagyobb Sangiran régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        110.791734,
+                        -7.534281
+                  ]
+            },
+            {
+                  "name": "Pasar Gemolong Asri",
+                  "text": "A Pasar Gemolong Asri egy nyüzsgő piac, ahol a helyiek árukkal kereskednek a Sangiran térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        110.829524,
+                        -7.398223
+                  ]
+            },
+            {
+                  "name": "Pasar Kalioso",
+                  "text": "A Pasar Kalioso kulcsfontosságú helyi kereskedelmi csomópont és piac a Sangiran kerületben.",
+                  "category": "cultural",
+                  "coords": [
+                        110.806263,
+                        -7.465153
+                  ]
+            },
+            {
+                  "name": "Pasar Sibela",
+                  "text": "A Pasar Sibela egy aktív közösségi piac, amely a látogatók számára is elérhető a Sangiran régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        110.845517,
+                        -7.536047
+                  ]
+            },
+            {
+                  "name": "GKI Nusukan",
+                  "text": "A GKI Nusukan egy keresztény templom, amely a hívőket fogadja a Sangiran térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.819743,
+                        -7.543346
+                  ]
+            },
+            {
+                  "name": "GBI Agape Nusukan",
+                  "text": "A GBI Agape Nusukan spirituális központként szolgál a Sangiran környéki keresztény közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        110.820012,
+                        -7.542002
+                  ]
+            },
+            {
+                  "name": "GKJ Nusukan",
+                  "text": "A GKJ Nusukan egy helyi keresztény imaház Sangiran közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.818066,
+                        -7.544265
+                  ]
+            },
+            {
+                  "name": "GBIS Nusukan",
+                  "text": "A GBIS Nusukan keresztény templomként és közösségi központként működik a Sangiran kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        110.819142,
+                        -7.546338
+                  ]
+            },
+            {
+                  "name": "Masjid Umar Bin Khattab",
+                  "text": "A Masjid Umar Bin Khattab egy figyelemre méltó mecset, amely helyet biztosít az iszlám imáknak a Sangiran térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.823759,
+                        -7.546939
+                  ]
+            },
+            {
+                  "name": "Masjid Mustajabah",
+                  "text": "A Masjid Mustajabah egy nyugodt mecset, amely a muszlim közösséget fogadja a Sangiran régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        110.822024,
+                        -7.544645
+                  ]
+            },
+            {
+                  "name": "Masjid Riyadhoh Iman",
+                  "text": "A Masjid Riyadhoh Iman aktív imahelyként szolgál a Sangiran környéki helyi muszlim lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        110.825697,
+                        -7.547347
+                  ]
+            },
+            {
+                  "name": "GBI Gemolong",
+                  "text": "A GBI Gemolong egy keresztény gyülekezet a Gemolong negyedben, amely szorosan kapcsolódik a Sangiran térségéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        110.81827,
+                        -7.395203
+                  ]
+            },
+            {
+                  "name": "Masjid Pelem Geneng Miri",
+                  "text": "A Masjid Pelem Geneng Miri egy helyi mecset, amely megkönnyíti a napi imádkozást a Sangiran régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        110.783873,
+                        -7.387454
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim Jati",
+                  "text": "A Masjid Baiturrahim Jati egy helyi mecset, amely a muszlim közösséget szolgálja a Sangiran előember-lelőhely környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        110.747382,
+                        -7.448255
+                  ]
+            },
+            {
+                  "name": "Masjid Aila Rona",
+                  "text": "A Masjid Aila Rona egy iszlám imahely a Sangiran előember-lelőhely területén.",
+                  "category": "landmark",
+                  "coords": [
+                        110.746798,
+                        -7.449922
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ma'Muriyah",
+                  "text": "A Masjid Al-Ma'Muriyah egy mecset a Sangiran előember-lelőhely történelmi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        110.752484,
+                        -7.464935
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas Grinting",
+                  "text": "A Masjid Al-Ikhlas Grinting imateret biztosít a muszlimok számára a Sangiran előember-lelőhely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.747161,
+                        -7.470303
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muslimin",
+                  "text": "A Masjid Al-Muslimin egy iszlám istentiszteleti hely a Sangiran előember-lelőhely térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.744178,
+                        -7.466673
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim Miri",
+                  "text": "A Masjid Baiturrahim Miri egy helyi mecset, amely a hívőket fogadja a Sangiran előember-lelőhely régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757659,
+                        -7.476053
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Huda Jimbrangan",
+                  "text": "A Masjid Nurul Huda Jimbrangan muszlim imahelyként működik a Sangiran előember-lelőhely területén.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757384,
+                        -7.480179
+                  ]
+            },
+            {
+                  "name": "Masjid Akbar Guli Lor",
+                  "text": "A Masjid Akbar Guli Lor egy kiemelkedő mecset a Sangiran előember-lelőhely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.761325,
+                        -7.470266
+                  ]
+            },
+            {
+                  "name": "Masjid Nur Hidayah",
+                  "text": "A Masjid Nur Hidayah iszlám imák számára biztosít helyet a Sangiran előember-lelőhely területén.",
+                  "category": "landmark",
+                  "coords": [
+                        110.759893,
+                        -7.472601
+                  ]
+            },
+            {
+                  "name": "Masjid Syuhada",
+                  "text": "A Masjid Syuhada egy mecset, amely a helyiek vallási igényeit szolgálja ki a Sangiran előember-lelőhely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.762195,
+                        -7.465972
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Al-Huda",
+                  "text": "A Masjid Agung Al-Huda egy nagy iszlám imaház a Sangiran előember-lelőhely területén.",
+                  "category": "landmark",
+                  "coords": [
+                        110.764091,
+                        -7.459115
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "A Masjid At-Taqwa a helyi muszlim közösség imádkozási helye a Sangiran előember-lelőhely régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757554,
+                        -7.461773
+                  ]
+            },
+            {
+                  "name": "Masjid Ash-Shomadu",
+                  "text": "A Masjid Ash-Shomadu egy mindennapi mecset a Sangiran előember-lelőhely környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        110.761649,
+                        -7.461516
+                  ]
+            },
+            {
+                  "name": "Muhsolla Al-Qomar",
+                  "text": "A Muhsolla Al-Qomar egy kisebb muszlim imaterem, amely a Sangiran előember-lelőhely környékét szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        110.805581,
+                        -7.43626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Manusia Purba Sangiran",
+                  "text": "Muzeul Omului Timpuriu din Sangiran este un renumit sit al Patrimoniului Mondial UNESCO, care expune fosile esențiale de Homo erectus.",
+                  "category": "museum",
+                  "coords": [
+                        110.83404,
+                        -7.45589
+                  ]
+            },
+            {
+                  "name": "Museum Manusia Purba Sangiran Kluster Ngebung",
+                  "text": "Clusterul Ngebung al Muzeului Omului Timpuriu din Sangiran se concentrează pe bogata istorie paleoantropologică a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        110.840362,
+                        -7.441184
+                  ]
+            },
+            {
+                  "name": "Monumen Randu Alas",
+                  "text": "Monumen Randu Alas este o structură comemorativă locală situată în regiunea Sangiran.",
+                  "category": "historical",
+                  "coords": [
+                        110.841236,
+                        -7.444066
+                  ]
+            },
+            {
+                  "name": "Tugu Tani Kleben",
+                  "text": "Tugu Tani Kleben este un monument notabil care celebrează moștenirea agricolă în zona Sangiran.",
+                  "category": "historical",
+                  "coords": [
+                        110.776708,
+                        -7.526484
+                  ]
+            },
+            {
+                  "name": "Tugu Ireng",
+                  "text": "Tugu Ireng este un monument reprezentativ și un punct de interes din districtul Sangiran.",
+                  "category": "historical",
+                  "coords": [
+                        110.856754,
+                        -7.526523
+                  ]
+            },
+            {
+                  "name": "Tugu Marmer Plesungan",
+                  "text": "Monumentul de marmură Plesungan este un reper de piatră situat în regiunea Sangiran.",
+                  "category": "historical",
+                  "coords": [
+                        110.848367,
+                        -7.528498
+                  ]
+            },
+            {
+                  "name": "Tugu Adipura",
+                  "text": "Tugu Adipura este un monument din zona Sangiran care comemorează de obicei curățenia civică și managementul mediului.",
+                  "category": "historical",
+                  "coords": [
+                        110.811193,
+                        -7.544377
+                  ]
+            },
+            {
+                  "name": "Tugu Boto",
+                  "text": "Tugu Boto este un monument istoric care îmbogățește peisajul cultural al regiunii Sangiran.",
+                  "category": "historical",
+                  "coords": [
+                        110.791613,
+                        -7.53288
+                  ]
+            },
+            {
+                  "name": "Koperasi Artha Jaya Makmur",
+                  "text": "Koperasi Artha Jaya Makmur funcționează ca un loc de adunare și cult în regiunea Sangiran.",
+                  "category": "religious",
+                  "coords": [
+                        110.827131,
+                        -7.5411
+                  ]
+            },
+            {
+                  "name": "Kapel Gua Maria Mojosongo",
+                  "text": "Kapel Gua Maria Mojosongo este o capelă catolică liniștită și un sanctuar marian situat în zona Sangiran.",
+                  "category": "religious",
+                  "coords": [
+                        110.84,
+                        -7.546045
+                  ]
+            },
+            {
+                  "name": "Pondok Pesantren Al-Inshof",
+                  "text": "Pondok Pesantren Al-Inshof este o școală cu internat și un lăcaș de cult islamic din districtul Sangiran.",
+                  "category": "religious",
+                  "coords": [
+                        110.859244,
+                        -7.531068
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Manggung",
+                  "text": "Pasar Desa Manggung este o piață a satului care furnizează necesitățile zilnice locuitorilor din zona Sangiran.",
+                  "category": "cultural",
+                  "coords": [
+                        110.778791,
+                        -7.493611
+                  ]
+            },
+            {
+                  "name": "Pasar Klodran",
+                  "text": "Pasar Klodran este o piață tradițională vibrantă situată în marea regiune Sangiran.",
+                  "category": "cultural",
+                  "coords": [
+                        110.791734,
+                        -7.534281
+                  ]
+            },
+            {
+                  "name": "Pasar Gemolong Asri",
+                  "text": "Pasar Gemolong Asri este o piață aglomerată unde localnicii fac comerț cu mărfuri în zona Sangiran.",
+                  "category": "cultural",
+                  "coords": [
+                        110.829524,
+                        -7.398223
+                  ]
+            },
+            {
+                  "name": "Pasar Kalioso",
+                  "text": "Pasar Kalioso servește drept centru comercial local și piață în districtul Sangiran.",
+                  "category": "cultural",
+                  "coords": [
+                        110.806263,
+                        -7.465153
+                  ]
+            },
+            {
+                  "name": "Pasar Sibela",
+                  "text": "Pasar Sibela este o piață comunitară activă și accesibilă vizitatorilor din regiunea Sangiran.",
+                  "category": "cultural",
+                  "coords": [
+                        110.845517,
+                        -7.536047
+                  ]
+            },
+            {
+                  "name": "GKI Nusukan",
+                  "text": "GKI Nusukan este o biserică creștină care întâmpină credincioșii din zona Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.819743,
+                        -7.543346
+                  ]
+            },
+            {
+                  "name": "GBI Agape Nusukan",
+                  "text": "GBI Agape Nusukan servește drept centru spiritual pentru comunitatea creștină din apropiere de Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.820012,
+                        -7.542002
+                  ]
+            },
+            {
+                  "name": "GKJ Nusukan",
+                  "text": "GKJ Nusukan este un lăcaș de cult creștin localizat în vecinătatea orașului Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.818066,
+                        -7.544265
+                  ]
+            },
+            {
+                  "name": "GBIS Nusukan",
+                  "text": "GBIS Nusukan funcționează ca o biserică creștină și centru comunitar în districtul Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.819142,
+                        -7.546338
+                  ]
+            },
+            {
+                  "name": "Masjid Umar Bin Khattab",
+                  "text": "Masjid Umar Bin Khattab este o moschee notabilă ce oferă un spațiu pentru rugăciuni islamice în zona Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.823759,
+                        -7.546939
+                  ]
+            },
+            {
+                  "name": "Masjid Mustajabah",
+                  "text": "Masjid Mustajabah este o moschee senină care întâmpină comunitatea musulmană din regiunea Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.822024,
+                        -7.544645
+                  ]
+            },
+            {
+                  "name": "Masjid Riyadhoh Iman",
+                  "text": "Masjid Riyadhoh Iman servește ca un loc de cult activ pentru populația musulmană locală din apropiere de Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.825697,
+                        -7.547347
+                  ]
+            },
+            {
+                  "name": "GBI Gemolong",
+                  "text": "GBI Gemolong este o congregație creștină situată în districtul Gemolong, strâns legată de zona Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.81827,
+                        -7.395203
+                  ]
+            },
+            {
+                  "name": "Masjid Pelem Geneng Miri",
+                  "text": "Masjid Pelem Geneng Miri este o moschee locală care facilitează rugăciunile zilnice în regiunea Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.783873,
+                        -7.387454
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim Jati",
+                  "text": "Masjid Baiturrahim Jati este o moschee locală care deservește comunitatea musulmană din zona sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.747382,
+                        -7.448255
+                  ]
+            },
+            {
+                  "name": "Masjid Aila Rona",
+                  "text": "Masjid Aila Rona este un lăcaș de cult islamic situat în regiunea sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.746798,
+                        -7.449922
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ma'Muriyah",
+                  "text": "Masjid Al-Ma'Muriyah este o moschee situată în zona istorică a sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.752484,
+                        -7.464935
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas Grinting",
+                  "text": "Masjid Al-Ikhlas Grinting oferă un spațiu de rugăciune pentru musulmani în apropierea sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.747161,
+                        -7.470303
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muslimin",
+                  "text": "Masjid Al-Muslimin este o facilitate de cult islamic situată în zona sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.744178,
+                        -7.466673
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim Miri",
+                  "text": "Masjid Baiturrahim Miri este o moschee locală care primește credincioși în regiunea sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757659,
+                        -7.476053
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Huda Jimbrangan",
+                  "text": "Masjid Nurul Huda Jimbrangan funcționează ca lăcaș de cult musulman în zona sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757384,
+                        -7.480179
+                  ]
+            },
+            {
+                  "name": "Masjid Akbar Guli Lor",
+                  "text": "Masjid Akbar Guli Lor este o moschee importantă situată în apropierea sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.761325,
+                        -7.470266
+                  ]
+            },
+            {
+                  "name": "Masjid Nur Hidayah",
+                  "text": "Masjid Nur Hidayah oferă un spațiu pentru rugăciunile islamice în zona sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.759893,
+                        -7.472601
+                  ]
+            },
+            {
+                  "name": "Masjid Syuhada",
+                  "text": "Masjid Syuhada este o moschee care deservește nevoile religioase ale localnicilor din apropierea sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.762195,
+                        -7.465972
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Al-Huda",
+                  "text": "Masjid Agung Al-Huda este un lăcaș mare de cult islamic situat în zona sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.764091,
+                        -7.459115
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "Masjid At-Taqwa oferă comunității musulmane locale un loc de rugăciune în regiunea sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757554,
+                        -7.461773
+                  ]
+            },
+            {
+                  "name": "Masjid Ash-Shomadu",
+                  "text": "Masjid Ash-Shomadu este o moschee obișnuită situată în zona sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.761649,
+                        -7.461516
+                  ]
+            },
+            {
+                  "name": "Muhsolla Al-Qomar",
+                  "text": "Muhsolla Al-Qomar este o mică sală de rugăciune musulmană care deservește zona din jurul sitului primilor oameni din Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.805581,
+                        -7.43626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Manusia Purba Sangiran",
+                  "text": "The Sangiran Early Man Museum is a renowned UNESCO World Heritage site showcasing pivotal Homo erectus fossils.",
+                  "category": "museum",
+                  "coords": [
+                        110.83404,
+                        -7.45589
+                  ]
+            },
+            {
+                  "name": "Museum Manusia Purba Sangiran Kluster Ngebung",
+                  "text": "The Ngebung Cluster of the Sangiran Early Man Museum focuses on the area's rich paleoanthropological history.",
+                  "category": "museum",
+                  "coords": [
+                        110.840362,
+                        -7.441184
+                  ]
+            },
+            {
+                  "name": "Monumen Randu Alas",
+                  "text": "Monumen Randu Alas is a local commemorative structure located in the Sangiran region.",
+                  "category": "historical",
+                  "coords": [
+                        110.841236,
+                        -7.444066
+                  ]
+            },
+            {
+                  "name": "Tugu Tani Kleben",
+                  "text": "Tugu Tani Kleben is a notable monument celebrating agricultural heritage in the Sangiran area.",
+                  "category": "historical",
+                  "coords": [
+                        110.776708,
+                        -7.526484
+                  ]
+            },
+            {
+                  "name": "Tugu Ireng",
+                  "text": "Tugu Ireng is a landmark monument standing as a point of interest within the Sangiran district.",
+                  "category": "historical",
+                  "coords": [
+                        110.856754,
+                        -7.526523
+                  ]
+            },
+            {
+                  "name": "Tugu Marmer Plesungan",
+                  "text": "The Plesungan Marble Monument is a localized stone marker situated in the Sangiran region.",
+                  "category": "historical",
+                  "coords": [
+                        110.848367,
+                        -7.528498
+                  ]
+            },
+            {
+                  "name": "Tugu Adipura",
+                  "text": "Tugu Adipura is a monument in the Sangiran area that typically commemorates civic cleanliness and environmental management.",
+                  "category": "historical",
+                  "coords": [
+                        110.811193,
+                        -7.544377
+                  ]
+            },
+            {
+                  "name": "Tugu Boto",
+                  "text": "Tugu Boto is a historic monument enhancing the cultural landscape of the Sangiran region.",
+                  "category": "historical",
+                  "coords": [
+                        110.791613,
+                        -7.53288
+                  ]
+            },
+            {
+                  "name": "Koperasi Artha Jaya Makmur",
+                  "text": "Koperasi Artha Jaya Makmur functions as a gathering place of worship in the Sangiran region.",
+                  "category": "religious",
+                  "coords": [
+                        110.827131,
+                        -7.5411
+                  ]
+            },
+            {
+                  "name": "Kapel Gua Maria Mojosongo",
+                  "text": "Kapel Gua Maria Mojosongo is a peaceful Catholic chapel and Marian shrine located in the Sangiran area.",
+                  "category": "religious",
+                  "coords": [
+                        110.84,
+                        -7.546045
+                  ]
+            },
+            {
+                  "name": "Pondok Pesantren Al-Inshof",
+                  "text": "Pondok Pesantren Al-Inshof is an Islamic boarding school and place of worship in the Sangiran district.",
+                  "category": "religious",
+                  "coords": [
+                        110.859244,
+                        -7.531068
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Manggung",
+                  "text": "Pasar Desa Manggung is a village marketplace providing everyday necessities to residents in the Sangiran area.",
+                  "category": "cultural",
+                  "coords": [
+                        110.778791,
+                        -7.493611
+                  ]
+            },
+            {
+                  "name": "Pasar Klodran",
+                  "text": "Pasar Klodran is a vibrant traditional market situated within the greater Sangiran region.",
+                  "category": "cultural",
+                  "coords": [
+                        110.791734,
+                        -7.534281
+                  ]
+            },
+            {
+                  "name": "Pasar Gemolong Asri",
+                  "text": "Pasar Gemolong Asri is a bustling marketplace where locals trade goods in the Sangiran area.",
+                  "category": "cultural",
+                  "coords": [
+                        110.829524,
+                        -7.398223
+                  ]
+            },
+            {
+                  "name": "Pasar Kalioso",
+                  "text": "Pasar Kalioso serves as a key local trading hub and marketplace within the Sangiran district.",
+                  "category": "cultural",
+                  "coords": [
+                        110.806263,
+                        -7.465153
+                  ]
+            },
+            {
+                  "name": "Pasar Sibela",
+                  "text": "Pasar Sibela is an active community marketplace accessible to visitors in the Sangiran region.",
+                  "category": "cultural",
+                  "coords": [
+                        110.845517,
+                        -7.536047
+                  ]
+            },
+            {
+                  "name": "GKI Nusukan",
+                  "text": "GKI Nusukan is a Christian church welcoming the faithful in the Sangiran area.",
+                  "category": "landmark",
+                  "coords": [
+                        110.819743,
+                        -7.543346
+                  ]
+            },
+            {
+                  "name": "GBI Agape Nusukan",
+                  "text": "GBI Agape Nusukan serves as a spiritual center for the Christian community near Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.820012,
+                        -7.542002
+                  ]
+            },
+            {
+                  "name": "GKJ Nusukan",
+                  "text": "GKJ Nusukan is a local Christian house of worship located in the vicinity of Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.818066,
+                        -7.544265
+                  ]
+            },
+            {
+                  "name": "GBIS Nusukan",
+                  "text": "GBIS Nusukan operates as a Christian church and community center in the Sangiran district.",
+                  "category": "landmark",
+                  "coords": [
+                        110.819142,
+                        -7.546338
+                  ]
+            },
+            {
+                  "name": "Masjid Umar Bin Khattab",
+                  "text": "Masjid Umar Bin Khattab is a notable mosque providing a space for Islamic prayers in the Sangiran area.",
+                  "category": "landmark",
+                  "coords": [
+                        110.823759,
+                        -7.546939
+                  ]
+            },
+            {
+                  "name": "Masjid Mustajabah",
+                  "text": "Masjid Mustajabah is a serene mosque welcoming the Muslim community within the Sangiran region.",
+                  "category": "landmark",
+                  "coords": [
+                        110.822024,
+                        -7.544645
+                  ]
+            },
+            {
+                  "name": "Masjid Riyadhoh Iman",
+                  "text": "Masjid Riyadhoh Iman serves as an active place of worship for the local Muslim population near Sangiran.",
+                  "category": "landmark",
+                  "coords": [
+                        110.825697,
+                        -7.547347
+                  ]
+            },
+            {
+                  "name": "GBI Gemolong",
+                  "text": "GBI Gemolong is a Christian congregation located in the Gemolong district, closely linked to the Sangiran area.",
+                  "category": "landmark",
+                  "coords": [
+                        110.81827,
+                        -7.395203
+                  ]
+            },
+            {
+                  "name": "Masjid Pelem Geneng Miri",
+                  "text": "Masjid Pelem Geneng Miri is a local mosque facilitating daily prayers in the Sangiran region.",
+                  "category": "landmark",
+                  "coords": [
+                        110.783873,
+                        -7.387454
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim Jati",
+                  "text": "Masjid Baiturrahim Jati is a local mosque serving the Muslim community in the Sangiran early man site area.",
+                  "category": "landmark",
+                  "coords": [
+                        110.747382,
+                        -7.448255
+                  ]
+            },
+            {
+                  "name": "Masjid Aila Rona",
+                  "text": "Masjid Aila Rona is a place of Islamic worship situated in the Sangiran early man site region.",
+                  "category": "landmark",
+                  "coords": [
+                        110.746798,
+                        -7.449922
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ma'Muriyah",
+                  "text": "Masjid Al-Ma'Muriyah is a mosque located in the historic area of the Sangiran early man site.",
+                  "category": "landmark",
+                  "coords": [
+                        110.752484,
+                        -7.464935
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas Grinting",
+                  "text": "Masjid Al-Ikhlas Grinting provides a prayer space for Muslims near the Sangiran early man site.",
+                  "category": "landmark",
+                  "coords": [
+                        110.747161,
+                        -7.470303
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muslimin",
+                  "text": "Masjid Al-Muslimin is an Islamic worship facility found in the Sangiran early man site area.",
+                  "category": "landmark",
+                  "coords": [
+                        110.744178,
+                        -7.466673
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahim Miri",
+                  "text": "Masjid Baiturrahim Miri is a local mosque welcoming worshippers in the Sangiran early man site region.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757659,
+                        -7.476053
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Huda Jimbrangan",
+                  "text": "Masjid Nurul Huda Jimbrangan functions as a Muslim place of worship in the Sangiran early man site.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757384,
+                        -7.480179
+                  ]
+            },
+            {
+                  "name": "Masjid Akbar Guli Lor",
+                  "text": "Masjid Akbar Guli Lor is a prominent mosque situated near the Sangiran early man site.",
+                  "category": "landmark",
+                  "coords": [
+                        110.761325,
+                        -7.470266
+                  ]
+            },
+            {
+                  "name": "Masjid Nur Hidayah",
+                  "text": "Masjid Nur Hidayah offers a space for Islamic prayers within the Sangiran early man site area.",
+                  "category": "landmark",
+                  "coords": [
+                        110.759893,
+                        -7.472601
+                  ]
+            },
+            {
+                  "name": "Masjid Syuhada",
+                  "text": "Masjid Syuhada is a mosque serving the religious needs of locals near the Sangiran early man site.",
+                  "category": "landmark",
+                  "coords": [
+                        110.762195,
+                        -7.465972
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Al-Huda",
+                  "text": "Masjid Agung Al-Huda is a large Islamic house of worship located in the Sangiran early man site area.",
+                  "category": "landmark",
+                  "coords": [
+                        110.764091,
+                        -7.459115
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "Masjid At-Taqwa provides the local Muslim community a place to pray in the Sangiran early man site region.",
+                  "category": "landmark",
+                  "coords": [
+                        110.757554,
+                        -7.461773
+                  ]
+            },
+            {
+                  "name": "Masjid Ash-Shomadu",
+                  "text": "Masjid Ash-Shomadu is an everyday mosque established in the Sangiran early man site area.",
+                  "category": "landmark",
+                  "coords": [
+                        110.761649,
+                        -7.461516
+                  ]
+            },
+            {
+                  "name": "Muhsolla Al-Qomar",
+                  "text": "Muhsolla Al-Qomar is a smaller Muslim prayer room serving the area around the Sangiran early man site.",
+                  "category": "landmark",
+                  "coords": [
+                        110.805581,
+                        -7.43626
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-JT",
     coords: [110.8329, -7.4578],
@@ -183,7 +5079,1096 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "goa-gajah-history-v2",
+    id: "goa-gajah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goa Gajah",
+                  "text": "Die archäologische Stätte aus dem 11. Jahrhundert ist bekannt für ihren höhlenartigen Eingang mit Dämonengesicht.",
+                  "category": "historical",
+                  "coords": [
+                        115.286693,
+                        -8.52354
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Ratu Rosari, Gianyar",
+                  "text": "Diese katholische Kirche in Gianyar ist ein Zentrum für die lokale christliche Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        115.326634,
+                        -8.553326
+                  ]
+            },
+            {
+                  "name": "Museum Gedong Arca",
+                  "text": "Das archäologische Museum stellt antike balinesische Steinsarkophage und Werkzeuge aus.",
+                  "category": "museum",
+                  "coords": [
+                        115.293052,
+                        -8.519339
+                  ]
+            },
+            {
+                  "name": "Pura Samuan Tiga",
+                  "text": "Dieser bedeutende Hindu-Tempel aus dem 11. Jahrhundert ist für seine großen religiösen Feste bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        115.295129,
+                        -8.523778
+                  ]
+            },
+            {
+                  "name": "Njana Tilem Museum",
+                  "text": "Das Museum präsentiert meisterhafte Holzschnitzereien der berühmten Künstler Njana und Tilem.",
+                  "category": "museum",
+                  "coords": [
+                        115.271811,
+                        -8.536242
+                  ]
+            },
+            {
+                  "name": "Setia Darma",
+                  "text": "Hier wird eine beeindruckende Sammlung traditioneller indonesischer Masken und Puppen gezeigt.",
+                  "category": "museum",
+                  "coords": [
+                        115.279598,
+                        -8.533909
+                  ]
+            },
+            {
+                  "name": "Museum Rudana",
+                  "text": "Das Museum beherbergt eine feine Sammlung balinesischer Gemälde inmitten üppiger Gärten.",
+                  "category": "museum",
+                  "coords": [
+                        115.271541,
+                        -8.529405
+                  ]
+            },
+            {
+                  "name": "Museum Purbakala",
+                  "text": "Das Museum konzentriert sich auf prähistorische Funde und die frühe Zivilisation in Zentralbali.",
+                  "category": "museum",
+                  "coords": [
+                        115.299746,
+                        -8.511944
+                  ]
+            },
+            {
+                  "name": "Train Museum",
+                  "text": "Ein kleines Museum, das sich der Geschichte und den Modellen des Schienenverkehrs widmet.",
+                  "category": "museum",
+                  "coords": [
+                        115.359868,
+                        -8.530397
+                  ]
+            },
+            {
+                  "name": "Taman Nusa Bali",
+                  "text": "Dieser Kulturpark zeigt die vielfältige Architektur und die Traditionen der indonesischen Inseln.",
+                  "category": "museum",
+                  "coords": [
+                        115.356326,
+                        -8.528803
+                  ]
+            },
+            {
+                  "name": "Introduction Hall (Entrance for Museum)",
+                  "text": "Der Eingangsbereich des Taman Nusa Parks bietet eine Einführung in das kulturelle Erbe Indonesiens.",
+                  "category": "museum",
+                  "coords": [
+                        115.359514,
+                        -8.529012
+                  ]
+            },
+            {
+                  "name": "Yeh Pulu",
+                  "text": "Hier finden sich 14. Jahrhundert in den Fels gehauene Reliefs, die das tägliche Leben im alten Bali zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        115.293038,
+                        -8.531671
+                  ]
+            },
+            {
+                  "name": "Candi Tebing Krobokan",
+                  "text": "Dieser antike, in die Felswand gehauene Tempel liegt versteckt in der Nähe eines Flusstals.",
+                  "category": "historical",
+                  "coords": [
+                        115.308492,
+                        -8.485011
+                  ]
+            },
+            {
+                  "name": "Kapten I Wayan Dipta",
+                  "text": "Das Denkmal ist dem lokalen Helden Kapten I Wayan Dipta gewidmet, nach dem auch das Stadion benannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        115.303282,
+                        -8.549048
+                  ]
+            },
+            {
+                  "name": "Candi Tebing Tegallinggah",
+                  "text": "Eine archäologische Stätte mit zwei in den Fels gehauenen Tempeln am Ufer des Pakerisan-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        115.306589,
+                        -8.527173
+                  ]
+            },
+            {
+                  "name": "Naya Veda Vastu",
+                  "text": "Ein Zentrum für traditionelle Künste und spirituelles Wissen im Herzen von Gianyar.",
+                  "category": "cultural",
+                  "coords": [
+                        115.302166,
+                        -8.500633
+                  ]
+            },
+            {
+                  "name": "Pasar Senggol Gianyar",
+                  "text": "Dieser berühmte Nachtmarkt ist bekannt für authentische balinesische Straßengerichte wie Babi Guling.",
+                  "category": "cultural",
+                  "coords": [
+                        115.322258,
+                        -8.542902
+                  ]
+            },
+            {
+                  "name": "UD Rama",
+                  "text": "Ein lokaler Marktplatz in Gianyar, auf dem traditionelles Kunsthandwerk und Alltagsgüter verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        115.348378,
+                        -8.497097
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Adat Mas Ubud",
+                  "text": "Ein Dorfmarkt in Mas, der auf traditionelle balinesische Holzschnitzereien und lokales Kunsthandwerk spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        115.272129,
+                        -8.544639
+                  ]
+            },
+            {
+                  "name": "Pasar Umum Gianyar",
+                  "text": "Ein belebter Markt in Gianyar, der besonders für sein Spanferkel (Babi Guling) und die abendlichen Garküchen berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        115.326951,
+                        -8.542187
+                  ]
+            },
+            {
+                  "name": "Air Terjun Kuning",
+                  "text": "Ein versteckter Wasserfall in der Nähe von Goa Gajah, der in einen üppigen tropischen Dschungel eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        115.360043,
+                        -8.491106
+                  ]
+            },
+            {
+                  "name": "Bulakan Magelung Warterfall",
+                  "text": "Ein malerischer Wasserfall, der von dichter balinesischer Vegetation und steilen Felswänden umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        115.318232,
+                        -8.486488
+                  ]
+            },
+            {
+                  "name": "Sumampan Waterfall",
+                  "text": "Dieser Wasserfall beeindruckt durch kunstvolle Steinmetzarbeiten, die direkt in die umliegenden Felswände gemeißelt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        115.292124,
+                        -8.551766
+                  ]
+            },
+            {
+                  "name": "Kanto Lampo",
+                  "text": "Ein saisonaler Wasserfall, der über breite, flache Felsstufen herabstürzt und ein beliebtes Fotomotiv darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        115.332982,
+                        -8.532341
+                  ]
+            },
+            {
+                  "name": "Tibumana",
+                  "text": "Ein malerischer, einstrahliger Wasserfall, der in ein klares, blaues Becken inmitten des Waldes fällt.",
+                  "category": "landmark",
+                  "coords": [
+                        115.333065,
+                        -8.506801
+                  ]
+            },
+            {
+                  "name": "Goa Rang Reng",
+                  "text": "Ein einzigartiger Wasserfall in einer Schlucht, der durch ein schmales Höhlensystem aus Kalkstein fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        115.331305,
+                        -8.516205
+                  ]
+            },
+            {
+                  "name": "Bakas Adventure",
+                  "text": "Ein Abenteuerpark in Goa Gajah, der Aktivitäten wie Elefantenreiten und Rafting durch die tropische Landschaft anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        115.358584,
+                        -8.520456
+                  ]
+            },
+            {
+                  "name": "Pura",
+                  "text": "Ein klassischer balinesischer Hindu-Tempel mit kunstvoll verzierten Steinschneiderei-Schreinen.",
+                  "category": "landmark",
+                  "coords": [
+                        115.337795,
+                        -8.488298
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Jawa Bangun Lemah Kawan",
+                  "text": "Ein balinesischer 'Pura Dalem' Tempel, der den Geistern der Verstorbenen gewidmet ist und durch detailreiche Statuen besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        115.329438,
+                        -8.499496
+                  ]
+            },
+            {
+                  "name": "Pura Empelan Gianyar",
+                  "text": "Ein lokales Heiligtum in Gianyar, das für seine traditionellen balinesischen Torbauten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        115.330592,
+                        -8.50255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goa Gajah",
+                  "text": "A 11. századi régészeti lelőhely híres a démonarcot formázó barlangbejáratáról.",
+                  "category": "historical",
+                  "coords": [
+                        115.286693,
+                        -8.52354
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Ratu Rosari, Gianyar",
+                  "text": "Ez a gianyari katolikus templom a helyi keresztény közösség központja.",
+                  "category": "religious",
+                  "coords": [
+                        115.326634,
+                        -8.553326
+                  ]
+            },
+            {
+                  "name": "Museum Gedong Arca",
+                  "text": "A régészeti múzeum ősi balinéz kőszarkofágokat és eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        115.293052,
+                        -8.519339
+                  ]
+            },
+            {
+                  "name": "Pura Samuan Tiga",
+                  "text": "Ez a jelentős 11. századi hindu templom nagy vallási ünnepeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        115.295129,
+                        -8.523778
+                  ]
+            },
+            {
+                  "name": "Njana Tilem Museum",
+                  "text": "A múzeum a híres művészek, Njana és Tilem mesteri fafaragásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        115.271811,
+                        -8.536242
+                  ]
+            },
+            {
+                  "name": "Setia Darma",
+                  "text": "Itt a hagyományos indonéz maszkok és bábok lenyűgöző gyűjteményét mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        115.279598,
+                        -8.533909
+                  ]
+            },
+            {
+                  "name": "Museum Rudana",
+                  "text": "A múzeum balinéz festmények finom gyűjteményének ad otthont buja kertek között.",
+                  "category": "museum",
+                  "coords": [
+                        115.271541,
+                        -8.529405
+                  ]
+            },
+            {
+                  "name": "Museum Purbakala",
+                  "text": "A múzeum Közép-Bali őskori leleteire és korai civilizációjára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        115.299746,
+                        -8.511944
+                  ]
+            },
+            {
+                  "name": "Train Museum",
+                  "text": "Egy kis múzeum, amely a vasúti közlekedés történetének és modelljeinek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        115.359868,
+                        -8.530397
+                  ]
+            },
+            {
+                  "name": "Taman Nusa Bali",
+                  "text": "Ez a kulturális park az indonéz szigetek változatos építészetét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        115.356326,
+                        -8.528803
+                  ]
+            },
+            {
+                  "name": "Introduction Hall (Entrance for Museum)",
+                  "text": "A Taman Nusa park bejárati csarnoka bevezetést nyújt Indonézia kulturális örökségébe.",
+                  "category": "museum",
+                  "coords": [
+                        115.359514,
+                        -8.529012
+                  ]
+            },
+            {
+                  "name": "Yeh Pulu",
+                  "text": "Itt 14. századi sziklába vésett domborművek láthatók, amelyek az ősi Bali mindennapjait ábrázolják.",
+                  "category": "historical",
+                  "coords": [
+                        115.293038,
+                        -8.531671
+                  ]
+            },
+            {
+                  "name": "Candi Tebing Krobokan",
+                  "text": "Ez az ősi, sziklafalba vájt templom egy folyóvölgy közelében, rejtve található.",
+                  "category": "historical",
+                  "coords": [
+                        115.308492,
+                        -8.485011
+                  ]
+            },
+            {
+                  "name": "Kapten I Wayan Dipta",
+                  "text": "Az emlékmű Kapten I Wayan Dipta helyi hősnek van szentelve, akiről a stadiont is elnevezték.",
+                  "category": "historical",
+                  "coords": [
+                        115.303282,
+                        -8.549048
+                  ]
+            },
+            {
+                  "name": "Candi Tebing Tegallinggah",
+                  "text": "Régészeti lelőhely két sziklába vájt templommal a Pakerisan-folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        115.306589,
+                        -8.527173
+                  ]
+            },
+            {
+                  "name": "Naya Veda Vastu",
+                  "text": "A hagyományos művészetek és a spirituális tudás központja Gianyar szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        115.302166,
+                        -8.500633
+                  ]
+            },
+            {
+                  "name": "Pasar Senggol Gianyar",
+                  "text": "Ez a híres éjszakai piac az autentikus balinéz utcai ételekről, például a Babi Gulingról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        115.322258,
+                        -8.542902
+                  ]
+            },
+            {
+                  "name": "UD Rama",
+                  "text": "Helyi piactér Gianyarban, ahol hagyományos kézműves termékeket és mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        115.348378,
+                        -8.497097
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Adat Mas Ubud",
+                  "text": "Hagyományos balinéz fafaragványokra és helyi kézműves termékekre szakosodott falusi piac Mas-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        115.272129,
+                        -8.544639
+                  ]
+            },
+            {
+                  "name": "Pasar Umum Gianyar",
+                  "text": "Gianyar nyüzsgő piaca, amely híres a malacsültjéről (Babi Guling) és az esti ételárusairól.",
+                  "category": "cultural",
+                  "coords": [
+                        115.326951,
+                        -8.542187
+                  ]
+            },
+            {
+                  "name": "Air Terjun Kuning",
+                  "text": "Rejtett vízesés Goa Gajah közelében, amely egy buja trópusi dzsungel mélyén található.",
+                  "category": "landmark",
+                  "coords": [
+                        115.360043,
+                        -8.491106
+                  ]
+            },
+            {
+                  "name": "Bulakan Magelung Warterfall",
+                  "text": "Festői vízesés, amelyet sűrű balinéz növényzet és meredek sziklafalak vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        115.318232,
+                        -8.486488
+                  ]
+            },
+            {
+                  "name": "Sumampan Waterfall",
+                  "text": "Ez a vízesés a környező sziklafalakba faragott művészi kőfaragványairól nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        115.292124,
+                        -8.551766
+                  ]
+            },
+            {
+                  "name": "Kanto Lampo",
+                  "text": "Szezonális vízesés, amely széles, lapos sziklalépcsőkön zúdul le, és népszerű fotóhelyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        115.332982,
+                        -8.532341
+                  ]
+            },
+            {
+                  "name": "Tibumana",
+                  "text": "Festői, egysugaras vízesés, amely az erdő közepén egy tiszta, kék medencébe zuhog.",
+                  "category": "landmark",
+                  "coords": [
+                        115.333065,
+                        -8.506801
+                  ]
+            },
+            {
+                  "name": "Goa Rang Reng",
+                  "text": "Különleges kanyon-vízesés, amely egy szűk mészkő barlangrendszeren keresztül folyik.",
+                  "category": "landmark",
+                  "coords": [
+                        115.331305,
+                        -8.516205
+                  ]
+            },
+            {
+                  "name": "Bakas Adventure",
+                  "text": "Kalandpark Goa Gajah-ban, amely elefántlovaglást és raftingot kínál a trópusi tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        115.358584,
+                        -8.520456
+                  ]
+            },
+            {
+                  "name": "Pura",
+                  "text": "Klasszikus balinéz hindu templom díszesen faragott kőszentélyekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        115.337795,
+                        -8.488298
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Jawa Bangun Lemah Kawan",
+                  "text": "Balinéz 'Pura Dalem' templom, amelyet a holtak szellemeinek szenteltek, és részletgazdag szobrai díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        115.329438,
+                        -8.499496
+                  ]
+            },
+            {
+                  "name": "Pura Empelan Gianyar",
+                  "text": "Helyi szentély Gianyarban, amely hagyományos balinéz kapuépítményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        115.330592,
+                        -8.50255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goa Gajah",
+                  "text": "Situl arheologic din secolul al XI-lea este cunoscut pentru intrarea sa în peșteră sculptată cu un chip de demon.",
+                  "category": "historical",
+                  "coords": [
+                        115.286693,
+                        -8.52354
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Ratu Rosari, Gianyar",
+                  "text": "Această biserică catolică din Gianyar este un centru pentru comunitatea creștină locală.",
+                  "category": "religious",
+                  "coords": [
+                        115.326634,
+                        -8.553326
+                  ]
+            },
+            {
+                  "name": "Museum Gedong Arca",
+                  "text": "Muzeul arheologic expune sarcofage de piatră balineze antice și unelte vechi.",
+                  "category": "museum",
+                  "coords": [
+                        115.293052,
+                        -8.519339
+                  ]
+            },
+            {
+                  "name": "Pura Samuan Tiga",
+                  "text": "Acest templu hinduist important din secolul al XI-lea este cunoscut pentru marile sale festivaluri religioase.",
+                  "category": "religious",
+                  "coords": [
+                        115.295129,
+                        -8.523778
+                  ]
+            },
+            {
+                  "name": "Njana Tilem Museum",
+                  "text": "Muzeul prezintă sculpturi în lemn magistrale realizate de celebrii artiști Njana și Tilem.",
+                  "category": "museum",
+                  "coords": [
+                        115.271811,
+                        -8.536242
+                  ]
+            },
+            {
+                  "name": "Setia Darma",
+                  "text": "Aici este expusă o colecție impresionantă de măști și păpuși tradiționale indoneziene.",
+                  "category": "museum",
+                  "coords": [
+                        115.279598,
+                        -8.533909
+                  ]
+            },
+            {
+                  "name": "Museum Rudana",
+                  "text": "Muzeul găzduiește o colecție fină de picturi balineze în mijlocul unor grădini luxuriante.",
+                  "category": "museum",
+                  "coords": [
+                        115.271541,
+                        -8.529405
+                  ]
+            },
+            {
+                  "name": "Museum Purbakala",
+                  "text": "Muzeul se concentrează pe descoperirile preistorice și civilizația timpurie din centrul insulei Bali.",
+                  "category": "museum",
+                  "coords": [
+                        115.299746,
+                        -8.511944
+                  ]
+            },
+            {
+                  "name": "Train Museum",
+                  "text": "Un mic muzeu dedicat istoriei și modelelor de transport feroviar.",
+                  "category": "museum",
+                  "coords": [
+                        115.359868,
+                        -8.530397
+                  ]
+            },
+            {
+                  "name": "Taman Nusa Bali",
+                  "text": "Acest parc cultural prezintă arhitectura și tradițiile diverse ale insulelor indoneziene.",
+                  "category": "museum",
+                  "coords": [
+                        115.356326,
+                        -8.528803
+                  ]
+            },
+            {
+                  "name": "Introduction Hall (Entrance for Museum)",
+                  "text": "Sala de intrare a parcului Taman Nusa oferă o introducere în moștenirea culturală a Indoneziei.",
+                  "category": "museum",
+                  "coords": [
+                        115.359514,
+                        -8.529012
+                  ]
+            },
+            {
+                  "name": "Yeh Pulu",
+                  "text": "Aici se găsesc reliefuri sculptate în stâncă din secolul al XIV-lea, care înfățișează viața de zi cu zi din Bali antic.",
+                  "category": "historical",
+                  "coords": [
+                        115.293038,
+                        -8.531671
+                  ]
+            },
+            {
+                  "name": "Candi Tebing Krobokan",
+                  "text": "Acest templu antic sculptat în peretele de stâncă este ascuns lângă valea unui râu.",
+                  "category": "historical",
+                  "coords": [
+                        115.308492,
+                        -8.485011
+                  ]
+            },
+            {
+                  "name": "Kapten I Wayan Dipta",
+                  "text": "Monumentul este dedicat eroului local Kapten I Wayan Dipta, după care este numit și stadionul.",
+                  "category": "historical",
+                  "coords": [
+                        115.303282,
+                        -8.549048
+                  ]
+            },
+            {
+                  "name": "Candi Tebing Tegallinggah",
+                  "text": "Un sit arheologic cu două temple sculptate în stâncă pe malul râului Pakerisan.",
+                  "category": "historical",
+                  "coords": [
+                        115.306589,
+                        -8.527173
+                  ]
+            },
+            {
+                  "name": "Naya Veda Vastu",
+                  "text": "Un centru pentru arte tradiționale și cunoștințe spirituale în inima regiunii Gianyar.",
+                  "category": "cultural",
+                  "coords": [
+                        115.302166,
+                        -8.500633
+                  ]
+            },
+            {
+                  "name": "Pasar Senggol Gianyar",
+                  "text": "Această celebră piață de noapte este cunoscută pentru mâncarea stradală autentică balineză, precum Babi Guling.",
+                  "category": "cultural",
+                  "coords": [
+                        115.322258,
+                        -8.542902
+                  ]
+            },
+            {
+                  "name": "UD Rama",
+                  "text": "O piață locală din Gianyar unde se vând obiecte de artizanat tradițional și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        115.348378,
+                        -8.497097
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Adat Mas Ubud",
+                  "text": "O piață sătească din Mas, specializată în sculpturi tradiționale balineze în lemn și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        115.272129,
+                        -8.544639
+                  ]
+            },
+            {
+                  "name": "Pasar Umum Gianyar",
+                  "text": "O piață aglomerată din Gianyar, faimoasă mai ales pentru purcelușul la proțap (Babi Guling) și tarabele cu mâncare de seară.",
+                  "category": "cultural",
+                  "coords": [
+                        115.326951,
+                        -8.542187
+                  ]
+            },
+            {
+                  "name": "Air Terjun Kuning",
+                  "text": "O cascadă ascunsă lângă Goa Gajah, situată în mijlocul unei jungle tropicale luxuriante.",
+                  "category": "landmark",
+                  "coords": [
+                        115.360043,
+                        -8.491106
+                  ]
+            },
+            {
+                  "name": "Bulakan Magelung Warterfall",
+                  "text": "O cascadă pitorească înconjurată de vegetație balineză densă și pereți stâncoși abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        115.318232,
+                        -8.486488
+                  ]
+            },
+            {
+                  "name": "Sumampan Waterfall",
+                  "text": "Această cascadă impresionează prin sculpturile în piatră realizate direct în pereții stâncoși învecinați.",
+                  "category": "landmark",
+                  "coords": [
+                        115.292124,
+                        -8.551766
+                  ]
+            },
+            {
+                  "name": "Kanto Lampo",
+                  "text": "O cascadă sezonieră care curge peste trepte de stâncă late și plate, fiind un loc popular pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        115.332982,
+                        -8.532341
+                  ]
+            },
+            {
+                  "name": "Tibumana",
+                  "text": "O cascadă pitorească cu un singur flux, care cade într-un bazin albastru și limpede în mijlocul pădurii.",
+                  "category": "landmark",
+                  "coords": [
+                        115.333065,
+                        -8.506801
+                  ]
+            },
+            {
+                  "name": "Goa Rang Reng",
+                  "text": "O cascadă unică de tip canion care curge printr-un sistem îngust de peșteri de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        115.331305,
+                        -8.516205
+                  ]
+            },
+            {
+                  "name": "Bakas Adventure",
+                  "text": "Un parc de aventură în Goa Gajah care oferă activități precum plimbări cu elefanții și rafting prin peisajul tropical.",
+                  "category": "landmark",
+                  "coords": [
+                        115.358584,
+                        -8.520456
+                  ]
+            },
+            {
+                  "name": "Pura",
+                  "text": "Un templu hindus balinez clasic, cu sanctuare din piatră sculptate ornamental.",
+                  "category": "landmark",
+                  "coords": [
+                        115.337795,
+                        -8.488298
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Jawa Bangun Lemah Kawan",
+                  "text": "Un templu balinez „Pura Dalem” dedicat spiritelor celor decedați, decorat cu statui bogate în detalii.",
+                  "category": "landmark",
+                  "coords": [
+                        115.329438,
+                        -8.499496
+                  ]
+            },
+            {
+                  "name": "Pura Empelan Gianyar",
+                  "text": "Un sanctuar local din Gianyar, cunoscut pentru structurile sale tradiționale de poartă balineză.",
+                  "category": "landmark",
+                  "coords": [
+                        115.330592,
+                        -8.50255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goa Gajah",
+                  "text": "The 11th-century archaeological site is famous for its cave entrance carved with a demonic face.",
+                  "category": "historical",
+                  "coords": [
+                        115.286693,
+                        -8.52354
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Ratu Rosari, Gianyar",
+                  "text": "This Catholic church in Gianyar is a hub for the local Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        115.326634,
+                        -8.553326
+                  ]
+            },
+            {
+                  "name": "Museum Gedong Arca",
+                  "text": "The archaeological museum displays ancient Balinese stone sarcophagi and tools.",
+                  "category": "museum",
+                  "coords": [
+                        115.293052,
+                        -8.519339
+                  ]
+            },
+            {
+                  "name": "Pura Samuan Tiga",
+                  "text": "This important 11th-century Hindu temple is known for its large religious festivals.",
+                  "category": "religious",
+                  "coords": [
+                        115.295129,
+                        -8.523778
+                  ]
+            },
+            {
+                  "name": "Njana Tilem Museum",
+                  "text": "The museum showcases masterful wood carvings by the famous artists Njana and Tilem.",
+                  "category": "museum",
+                  "coords": [
+                        115.271811,
+                        -8.536242
+                  ]
+            },
+            {
+                  "name": "Setia darma house of masks and puppets",
+                  "text": "An impressive collection of traditional Indonesian masks and puppets is displayed here.",
+                  "category": "museum",
+                  "coords": [
+                        115.279598,
+                        -8.533909
+                  ]
+            },
+            {
+                  "name": "Museum Rudana",
+                  "text": "The museum houses a fine collection of Balinese paintings amidst lush gardens.",
+                  "category": "museum",
+                  "coords": [
+                        115.271541,
+                        -8.529405
+                  ]
+            },
+            {
+                  "name": "Museum Purbakala",
+                  "text": "The museum focuses on prehistoric finds and the early civilization in central Bali.",
+                  "category": "museum",
+                  "coords": [
+                        115.299746,
+                        -8.511944
+                  ]
+            },
+            {
+                  "name": "Train Museum",
+                  "text": "A small museum dedicated to the history and models of rail transport.",
+                  "category": "museum",
+                  "coords": [
+                        115.359868,
+                        -8.530397
+                  ]
+            },
+            {
+                  "name": "Taman Nusa Bali",
+                  "text": "This cultural park showcases the diverse architecture and traditions of the Indonesian islands.",
+                  "category": "museum",
+                  "coords": [
+                        115.356326,
+                        -8.528803
+                  ]
+            },
+            {
+                  "name": "Introduction Hall (Entrance for Museum)",
+                  "text": "The entrance hall of the Taman Nusa park provides an introduction to Indonesia's cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        115.359514,
+                        -8.529012
+                  ]
+            },
+            {
+                  "name": "Yeh Pulu",
+                  "text": "Here find 14th-century rock-cut reliefs depicting daily life and mythology in ancient Bali.",
+                  "category": "historical",
+                  "coords": [
+                        115.293038,
+                        -8.531671
+                  ]
+            },
+            {
+                  "name": "Candi Tebing Krobokan",
+                  "text": "This ancient temple carved into the cliffside is hidden near a river valley.",
+                  "category": "historical",
+                  "coords": [
+                        115.308492,
+                        -8.485011
+                  ]
+            },
+            {
+                  "name": "Kapten I Wayan Dipta",
+                  "text": "The monument is dedicated to local hero Kapten I Wayan Dipta, after whom the stadium is named.",
+                  "category": "historical",
+                  "coords": [
+                        115.303282,
+                        -8.549048
+                  ]
+            },
+            {
+                  "name": "Candi Tebing Tegallinggah",
+                  "text": "An archaeological site featuring two cliff-cut temples on the banks of the Pakerisan River.",
+                  "category": "historical",
+                  "coords": [
+                        115.306589,
+                        -8.527173
+                  ]
+            },
+            {
+                  "name": "Naya Veda Vastu",
+                  "text": "A center for traditional arts and spiritual knowledge in the heart of Gianyar.",
+                  "category": "cultural",
+                  "coords": [
+                        115.302166,
+                        -8.500633
+                  ]
+            },
+            {
+                  "name": "Pasar Senggol Gianyar",
+                  "text": "This famous night market is known for authentic Balinese street food like Babi Guling.",
+                  "category": "cultural",
+                  "coords": [
+                        115.322258,
+                        -8.542902
+                  ]
+            },
+            {
+                  "name": "UD Rama",
+                  "text": "A local marketplace in Gianyar selling traditional handicrafts and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        115.348378,
+                        -8.497097
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Adat Mas Ubud",
+                  "text": "A village market in Mas specializing in traditional Balinese woodcarvings and local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        115.272129,
+                        -8.544639
+                  ]
+            },
+            {
+                  "name": "Pasar Umum Gianyar",
+                  "text": "A bustling market in Gianyar, particularly famous for its suckling pig (Babi Guling) and evening food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        115.326951,
+                        -8.542187
+                  ]
+            },
+            {
+                  "name": "Air Terjun Kuning",
+                  "text": "A hidden waterfall near Goa Gajah, nestled deep within a lush tropical jungle.",
+                  "category": "landmark",
+                  "coords": [
+                        115.360043,
+                        -8.491106
+                  ]
+            },
+            {
+                  "name": "Bulakan Magelung Warterfall",
+                  "text": "A scenic waterfall surrounded by dense Balinese vegetation and steep rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        115.318232,
+                        -8.486488
+                  ]
+            },
+            {
+                  "name": "Sumampan Waterfall",
+                  "text": "This waterfall is notable for the intricate stone carvings hewn directly into the surrounding rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        115.292124,
+                        -8.551766
+                  ]
+            },
+            {
+                  "name": "Kanto Lampo Waterfall",
+                  "text": "A seasonal waterfall cascading over wide, flat rock steps, making it a popular photography spot.",
+                  "category": "landmark",
+                  "coords": [
+                        115.332982,
+                        -8.532341
+                  ]
+            },
+            {
+                  "name": "Tibumana Waterfall",
+                  "text": "A picturesque single-stream waterfall falling into a clear blue basin in the middle of the forest.",
+                  "category": "landmark",
+                  "coords": [
+                        115.333065,
+                        -8.506801
+                  ]
+            },
+            {
+                  "name": "Goa Rang Reng",
+                  "text": "A unique canyon-style waterfall flowing through a narrow limestone cave system.",
+                  "category": "landmark",
+                  "coords": [
+                        115.331305,
+                        -8.516205
+                  ]
+            },
+            {
+                  "name": "Bakas Adventure",
+                  "text": "An adventure park in Goa Gajah offering activities like elephant riding and rafting through the tropical landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        115.358584,
+                        -8.520456
+                  ]
+            },
+            {
+                  "name": "Pura",
+                  "text": "A classic Balinese Hindu temple featuring ornately carved stone shrines.",
+                  "category": "landmark",
+                  "coords": [
+                        115.337795,
+                        -8.488298
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Jawa Bangun Lemah Kawan",
+                  "text": "A Balinese 'Pura Dalem' temple dedicated to the spirits of the deceased, featuring detailed statues.",
+                  "category": "landmark",
+                  "coords": [
+                        115.329438,
+                        -8.499496
+                  ]
+            },
+            {
+                  "name": "Pura Empelan Gianyar",
+                  "text": "A local sanctuary in Gianyar known for its traditional Balinese gate structures.",
+                  "category": "landmark",
+                  "coords": [
+                        115.330592,
+                        -8.50255
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-BA",
     coords: [115.2868, -8.5255],
@@ -231,7 +6216,1240 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "gunung-kawi-temple-history-v2",
+    id: "gunung-kawi-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gunung Kawi",
+                  "text": "Gunung Kawi ist ein Tempel- und Bestattungskomplex aus dem 11. Jahrhundert in Tampaksiring, Bali.",
+                  "category": "religious",
+                  "coords": [
+                        115.312611,
+                        -8.422595
+                  ]
+            },
+            {
+                  "name": "Pura Kehen",
+                  "text": "Pura Kehen ist ein bedeutender balinesischer Hindutempel im Bezirk Bangli.",
+                  "category": "religious",
+                  "coords": [
+                        115.360024,
+                        -8.441835
+                  ]
+            },
+            {
+                  "name": "Pura Tirta Empul",
+                  "text": "Pura Tirta Empul ist ein hinduistischer balinesischer Wassertempel, der für sein heiliges Quellwasser berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        115.316148,
+                        -8.414395
+                  ]
+            },
+            {
+                  "name": "Istana Kepresidenan Tampaksiring",
+                  "text": "Der Istana Kepresidenan Tampaksiring ist einer der Präsidentenpaläste Indonesiens, umgeben von wunderschönen Parks.",
+                  "category": "park",
+                  "coords": [
+                        115.313291,
+                        -8.414239
+                  ]
+            },
+            {
+                  "name": "Elephant Park",
+                  "text": "Der Elephant Park ist ein Tierpark, der Begegnungen mit Wildtieren in der Region Gunung Kawi bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        115.284258,
+                        -8.39221
+                  ]
+            },
+            {
+                  "name": "Tegallalang Rice Terraces",
+                  "text": "Die Reisterrassen von Tegallalang sind eine malerische landwirtschaftliche Attraktion mit der traditionellen balinesischen Bewässerung Subak.",
+                  "category": "landmark",
+                  "coords": [
+                        115.280206,
+                        -8.432962
+                  ]
+            },
+            {
+                  "name": "Bukit Undisan",
+                  "text": "Bukit Undisan ist ein bemerkenswerter Berggipfel, der Panoramablicke in die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        115.3958,
+                        -8.4424
+                  ]
+            },
+            {
+                  "name": "Bukit Buungan",
+                  "text": "Bukit Buungan ist ein lokaler Hügel, der einen Aussichtspunkt über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        115.355,
+                        -8.4157
+                  ]
+            },
+            {
+                  "name": "Bukit Bangli",
+                  "text": "Bukit Bangli ist ein markanter geographischer Gipfel in der Nähe der Stadt Bangli.",
+                  "category": "natural",
+                  "coords": [
+                        115.362341,
+                        -8.437868
+                  ]
+            },
+            {
+                  "name": "Five Art Studio",
+                  "text": "Das Five Art Studio ist eine lokale Galerie, die regionale Kunst und Kreativität präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        115.260782,
+                        -8.45453
+                  ]
+            },
+            {
+                  "name": "Patung Pedanda",
+                  "text": "Patung Pedanda ist ein Kulturdenkmal, das einem hinduistischen Hohepriester gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        115.35628,
+                        -8.441925
+                  ]
+            },
+            {
+                  "name": "Kulkul",
+                  "text": "Kulkul ist ein Denkmal mit einem traditionellen balinesischen Schlitztrommelturm.",
+                  "category": "historical",
+                  "coords": [
+                        115.354286,
+                        -8.451948
+                  ]
+            },
+            {
+                  "name": "Bundaran Bangli",
+                  "text": "Bundaran Bangli ist ein bemerkenswerter Kreisverkehr und ein Denkmal im Zentrum von Bangli.",
+                  "category": "historical",
+                  "coords": [
+                        115.352759,
+                        -8.461046
+                  ]
+            },
+            {
+                  "name": "Patung Dewa",
+                  "text": "Patung Dewa ist eine kulturell bedeutsame Statue, die eine Gottheit darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        115.354157,
+                        -8.461384
+                  ]
+            },
+            {
+                  "name": "Monumen Pahlawan",
+                  "text": "Monumen Pahlawan ist ein lokales Denkmal, das zu Ehren der Helden der Region errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        115.357741,
+                        -8.424292
+                  ]
+            },
+            {
+                  "name": "Patung Adipura Bangli",
+                  "text": "Patung Adipura Bangli ist ein Denkmal, das die von Bangli gewonnene Auszeichnung für Umweltsauberkeit feiert.",
+                  "category": "historical",
+                  "coords": [
+                        115.352951,
+                        -8.469437
+                  ]
+            },
+            {
+                  "name": "Puri Agung Tampaksiring",
+                  "text": "Puri Agung Tampaksiring ist ein traditionelles balinesisches Herrenhaus mit historischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        115.308212,
+                        -8.429204
+                  ]
+            },
+            {
+                  "name": "Pura Santi",
+                  "text": "Pura Santi ist ein ruhiger Ort der Anbetung für die lokale balinesische Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        115.238805,
+                        -8.445208
+                  ]
+            },
+            {
+                  "name": "Pasar dan Terminal Loca Crana Bangli",
+                  "text": "Pasar dan Terminal Loca Crana Bangli dient als geschäftiger lokaler Marktplatz und Verkehrsknotenpunkt.",
+                  "category": "cultural",
+                  "coords": [
+                        115.356041,
+                        -8.454597
+                  ]
+            },
+            {
+                  "name": "Pasar Kidul Bangli",
+                  "text": "Pasar Kidul Bangli ist ein geschäftiger täglicher Markt, der lokale Produkte und Waren in Bangli anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        115.356985,
+                        -8.4554
+                  ]
+            },
+            {
+                  "name": "Tirta Empul Market",
+                  "text": "Der Tirta Empul Market ist ein lokaler Markt in der Nähe des berühmten Wassertempels, wo Besucher Souvenirs kaufen können.",
+                  "category": "cultural",
+                  "coords": [
+                        115.315514,
+                        -8.416292
+                  ]
+            },
+            {
+                  "name": "Jalur Trekking Puspa Aman Ke Bonnyuh",
+                  "text": "Jalur Trekking Puspa Aman Ke Bonnyuh ist ein beliebter Wanderweg und eine Naturattraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        115.321759,
+                        -8.467132
+                  ]
+            },
+            {
+                  "name": "Taman Jimbar",
+                  "text": "Taman Jimbar ist ein lokaler Erholungspark und eine Attraktion in der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        115.323633,
+                        -8.467653
+                  ]
+            },
+            {
+                  "name": "I love bas love swing",
+                  "text": "I love bas love swing ist eine beliebte Touristenattraktion mit malerischen Schaukeln.",
+                  "category": "landmark",
+                  "coords": [
+                        115.341162,
+                        -8.368584
+                  ]
+            },
+            {
+                  "name": "Bamboo Forest",
+                  "text": "Der Bamboo Forest ist eine üppige Naturattraktion, die eine ruhige Umgebung zwischen hoch aufragenden Bambussen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        115.360478,
+                        -8.417818
+                  ]
+            },
+            {
+                  "name": "Objek Wisata Penglipuran",
+                  "text": "Objek Wisata Penglipuran ist eine bekannte kulturelle Attraktion in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        115.359763,
+                        -8.422388
+                  ]
+            },
+            {
+                  "name": "Waterfall Cave",
+                  "text": "Waterfall Cave ist eine Naturattraktion mit einem malerischen Wasserfall und einer Höhlenformation.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387241,
+                        -8.443419
+                  ]
+            },
+            {
+                  "name": "Air Terjun Tukad Cepung",
+                  "text": "Der künstliche Wasserfall Tukad Cepung ist eine lokale Attraktion in der Gegend von gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387903,
+                        -8.442321
+                  ]
+            },
+            {
+                  "name": "Air Terjun Tangkup Krisik",
+                  "text": "Der Tangkup Krisik Wasserfall ist eine malerische Attraktion in der Gegend von gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387766,
+                        -8.457502
+                  ]
+            },
+            {
+                  "name": "Toya Selaka Waterfall Desa Petak",
+                  "text": "Der Wasserfall Toya Selaka in Desa Petak ist eine Naturattraktion in der Nähe von gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.312869,
+                        -8.47192
+                  ]
+            },
+            {
+                  "name": "Toya Selaka Waterfall",
+                  "text": "Der Wasserfall Toya Selaka ist eine reizvolle Attraktion in der Region gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.313297,
+                        -8.473401
+                  ]
+            },
+            {
+                  "name": "Umel Pako Agro",
+                  "text": "Umel Pako Agro ist eine landwirtschaftliche Attraktion in der Gegend von gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.281414,
+                        -8.441737
+                  ]
+            },
+            {
+                  "name": "Bali Geo",
+                  "text": "Bali Geo ist eine lokale Touristenattraktion in der Nähe von gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.278763,
+                        -8.444364
+                  ]
+            },
+            {
+                  "name": "Alpha Ubud Swing",
+                  "text": "Die Alpha Ubud Swing ist eine Freizeitattraktion in der Umgebung von gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.276577,
+                        -8.463729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gunung Kawi",
+                  "text": "A Gunung Kawi egy 11. századi templom- és temetkezési komplexum az indonéziai Tampaksiringben.",
+                  "category": "religious",
+                  "coords": [
+                        115.312611,
+                        -8.422595
+                  ]
+            },
+            {
+                  "name": "Pura Kehen",
+                  "text": "A Pura Kehen egy kiemelkedő balinéz hindu templom Bangli kormányzóságában.",
+                  "category": "religious",
+                  "coords": [
+                        115.360024,
+                        -8.441835
+                  ]
+            },
+            {
+                  "name": "Pura Tirta Empul",
+                  "text": "A Pura Tirta Empul egy hindu balinéz vízi templom, amely szent forrásvizéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        115.316148,
+                        -8.414395
+                  ]
+            },
+            {
+                  "name": "Istana Kepresidenan Tampaksiring",
+                  "text": "Az Istana Kepresidenan Tampaksiring Indonézia egyik elnöki palotája, gyönyörű parkok közepén.",
+                  "category": "park",
+                  "coords": [
+                        115.313291,
+                        -8.414239
+                  ]
+            },
+            {
+                  "name": "Elephant Park",
+                  "text": "Az Elephant Park egy állatpark, amely vadvilági találkozásokat kínál a Gunung Kawi régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        115.284258,
+                        -8.39221
+                  ]
+            },
+            {
+                  "name": "Tegallalang Rice Terraces",
+                  "text": "A Tegallalang rizsteraszok egy festői mezőgazdasági látványosság, amely a hagyományos balinéz subak öntözést mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        115.280206,
+                        -8.432962
+                  ]
+            },
+            {
+                  "name": "Bukit Undisan",
+                  "text": "A Bukit Undisan egy figyelemre méltó hegycsúcs, amely panorámás kilátást nyújt a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        115.3958,
+                        -8.4424
+                  ]
+            },
+            {
+                  "name": "Bukit Buungan",
+                  "text": "A Bukit Buungan egy helyi domb, amely kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        115.355,
+                        -8.4157
+                  ]
+            },
+            {
+                  "name": "Bukit Bangli",
+                  "text": "A Bukit Bangli egy kiemelkedő földrajzi csúcs Bangli városának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        115.362341,
+                        -8.437868
+                  ]
+            },
+            {
+                  "name": "Five Art Studio",
+                  "text": "A Five Art Studio egy helyi galéria, amely a regionális művészetet és kreativitást mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        115.260782,
+                        -8.45453
+                  ]
+            },
+            {
+                  "name": "Patung Pedanda",
+                  "text": "A Patung Pedanda egy kulturális emlékmű, amelyet egy hindu főpapnak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        115.35628,
+                        -8.441925
+                  ]
+            },
+            {
+                  "name": "Kulkul",
+                  "text": "A Kulkul egy emlékmű, amely egy hagyományos balinéz hasított-dob tornyot ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        115.354286,
+                        -8.451948
+                  ]
+            },
+            {
+                  "name": "Bundaran Bangli",
+                  "text": "A Bundaran Bangli egy figyelemre méltó körforgalom és emlékmű Bangli központjában.",
+                  "category": "historical",
+                  "coords": [
+                        115.352759,
+                        -8.461046
+                  ]
+            },
+            {
+                  "name": "Patung Dewa",
+                  "text": "A Patung Dewa egy kulturálisan jelentős szobor, amely egy istenséget ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        115.354157,
+                        -8.461384
+                  ]
+            },
+            {
+                  "name": "Monumen Pahlawan",
+                  "text": "A Monumen Pahlawan egy helyi emlékmű, amelyet a régió hőseinek tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        115.357741,
+                        -8.424292
+                  ]
+            },
+            {
+                  "name": "Patung Adipura Bangli",
+                  "text": "A Patung Adipura Bangli egy emlékmű, amely a Bangli által elnyert környezettisztasági díjat ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        115.352951,
+                        -8.469437
+                  ]
+            },
+            {
+                  "name": "Puri Agung Tampaksiring",
+                  "text": "A Puri Agung Tampaksiring egy történelmi jelentőségű hagyományos balinéz udvarház.",
+                  "category": "historical",
+                  "coords": [
+                        115.308212,
+                        -8.429204
+                  ]
+            },
+            {
+                  "name": "Pura Santi",
+                  "text": "A Pura Santi egy nyugodt istentiszteleti hely a helyi balinéz közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        115.238805,
+                        -8.445208
+                  ]
+            },
+            {
+                  "name": "Pasar dan Terminal Loca Crana Bangli",
+                  "text": "A Pasar dan Terminal Loca Crana Bangli egy nyüzsgő helyi piac és közlekedési csomópont.",
+                  "category": "cultural",
+                  "coords": [
+                        115.356041,
+                        -8.454597
+                  ]
+            },
+            {
+                  "name": "Pasar Kidul Bangli",
+                  "text": "A Pasar Kidul Bangli egy forgalmas napi piac, amely helyi termékeket és árukat kínál Bangliban.",
+                  "category": "cultural",
+                  "coords": [
+                        115.356985,
+                        -8.4554
+                  ]
+            },
+            {
+                  "name": "Tirta Empul Market",
+                  "text": "A Tirta Empul Market egy helyi piac a híres vízi templom közelében, ahol a látogatók ajándéktárgyakat vásárolhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        115.315514,
+                        -8.416292
+                  ]
+            },
+            {
+                  "name": "Jalur Trekking Puspa Aman Ke Bonnyuh",
+                  "text": "A Jalur Trekking Puspa Aman Ke Bonnyuh egy népszerű túraútvonal és természeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        115.321759,
+                        -8.467132
+                  ]
+            },
+            {
+                  "name": "Taman Jimbar",
+                  "text": "A Taman Jimbar egy helyi rekreációs park és látványosság a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        115.323633,
+                        -8.467653
+                  ]
+            },
+            {
+                  "name": "I love bas love swing",
+                  "text": "Az I love bas love swing egy népszerű turisztikai látványosság festői hintákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        115.341162,
+                        -8.368584
+                  ]
+            },
+            {
+                  "name": "Bamboo Forest",
+                  "text": "A Bamboo Forest egy buja természeti látványosság, amely nyugodt környezetet kínál a magasba törő bambuszok között.",
+                  "category": "landmark",
+                  "coords": [
+                        115.360478,
+                        -8.417818
+                  ]
+            },
+            {
+                  "name": "Objek Wisata Penglipuran",
+                  "text": "Az Objek Wisata Penglipuran egy jól ismert kulturális látványosság a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        115.359763,
+                        -8.422388
+                  ]
+            },
+            {
+                  "name": "Waterfall Cave",
+                  "text": "A Waterfall Cave egy természeti látványosság, amely egy festői vízesést és barlangképződményt rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387241,
+                        -8.443419
+                  ]
+            },
+            {
+                  "name": "Air Terjun Tukad Cepung",
+                  "text": "A Tukad Cepung mesterséges vízesés egy helyi látványosság gunung-kawi-temple-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387903,
+                        -8.442321
+                  ]
+            },
+            {
+                  "name": "Air Terjun Tangkup Krisik",
+                  "text": "A Tangkup Krisik vízesés egy festői látványosság gunung-kawi-temple-history-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387766,
+                        -8.457502
+                  ]
+            },
+            {
+                  "name": "Toya Selaka Waterfall Desa Petak",
+                  "text": "A Desa Petakban található Toya Selaka vízesés egy természeti látványosság gunung-kawi-temple-history-v2 környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.312869,
+                        -8.47192
+                  ]
+            },
+            {
+                  "name": "Toya Selaka Waterfall",
+                  "text": "A Toya Selaka vízesés egy vonzó látványosság gunung-kawi-temple-history-v2 régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        115.313297,
+                        -8.473401
+                  ]
+            },
+            {
+                  "name": "Umel Pako Agro",
+                  "text": "Az Umel Pako Agro egy mezőgazdasági látványosság gunung-kawi-temple-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        115.281414,
+                        -8.441737
+                  ]
+            },
+            {
+                  "name": "Bali Geo",
+                  "text": "A Bali Geo egy helyi turisztikai látványosság gunung-kawi-temple-history-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        115.278763,
+                        -8.444364
+                  ]
+            },
+            {
+                  "name": "Alpha Ubud Swing",
+                  "text": "Az Alpha Ubud Swing egy szabadidős látványosság gunung-kawi-temple-history-v2 szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        115.276577,
+                        -8.463729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gunung Kawi",
+                  "text": "Gunung Kawi este un complex de temple și funerar din secolul al XI-lea în Tampaksiring, Bali.",
+                  "category": "religious",
+                  "coords": [
+                        115.312611,
+                        -8.422595
+                  ]
+            },
+            {
+                  "name": "Pura Kehen",
+                  "text": "Pura Kehen este un proeminent templu hindus balinez situat în regența Bangli.",
+                  "category": "religious",
+                  "coords": [
+                        115.360024,
+                        -8.441835
+                  ]
+            },
+            {
+                  "name": "Pura Tirta Empul",
+                  "text": "Pura Tirta Empul este un templu de apă hindus balinez faimos pentru apa sa de izvor sfântă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.316148,
+                        -8.414395
+                  ]
+            },
+            {
+                  "name": "Istana Kepresidenan Tampaksiring",
+                  "text": "Istana Kepresidenan Tampaksiring este unul dintre palatele prezidențiale din Indonezia, situat în mijlocul unor parcuri frumoase.",
+                  "category": "park",
+                  "coords": [
+                        115.313291,
+                        -8.414239
+                  ]
+            },
+            {
+                  "name": "Elephant Park",
+                  "text": "Elephant Park este un parc de animale care oferă întâlniri cu fauna sălbatică în regiunea Gunung Kawi.",
+                  "category": "recreational",
+                  "coords": [
+                        115.284258,
+                        -8.39221
+                  ]
+            },
+            {
+                  "name": "Tegallalang Rice Terraces",
+                  "text": "Terasele de orez Tegallalang sunt o atracție agricolă pitorească cu irigații tradiționale balineze cunoscute sub numele de subak.",
+                  "category": "landmark",
+                  "coords": [
+                        115.280206,
+                        -8.432962
+                  ]
+            },
+            {
+                  "name": "Bukit Undisan",
+                  "text": "Bukit Undisan este un vârf de munte notabil care oferă vederi panoramice în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        115.3958,
+                        -8.4424
+                  ]
+            },
+            {
+                  "name": "Bukit Buungan",
+                  "text": "Bukit Buungan este un deal local care oferă un punct de belvedere asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        115.355,
+                        -8.4157
+                  ]
+            },
+            {
+                  "name": "Bukit Bangli",
+                  "text": "Bukit Bangli este un vârf geografic proeminent situat lângă orașul Bangli.",
+                  "category": "natural",
+                  "coords": [
+                        115.362341,
+                        -8.437868
+                  ]
+            },
+            {
+                  "name": "Five Art Studio",
+                  "text": "Five Art Studio este o galerie locală care prezintă arta și creativitatea regională.",
+                  "category": "museum",
+                  "coords": [
+                        115.260782,
+                        -8.45453
+                  ]
+            },
+            {
+                  "name": "Patung Pedanda",
+                  "text": "Patung Pedanda este un monument cultural dedicat unui mare preot hindus.",
+                  "category": "historical",
+                  "coords": [
+                        115.35628,
+                        -8.441925
+                  ]
+            },
+            {
+                  "name": "Kulkul",
+                  "text": "Kulkul este un monument cu un turn tradițional balinez cu tobă cu fantă.",
+                  "category": "historical",
+                  "coords": [
+                        115.354286,
+                        -8.451948
+                  ]
+            },
+            {
+                  "name": "Bundaran Bangli",
+                  "text": "Bundaran Bangli este un sens giratoriu și un monument notabil situat în centrul orașului Bangli.",
+                  "category": "historical",
+                  "coords": [
+                        115.352759,
+                        -8.461046
+                  ]
+            },
+            {
+                  "name": "Patung Dewa",
+                  "text": "Patung Dewa este o statuie cu semnificație culturală care înfățișează o zeitate.",
+                  "category": "historical",
+                  "coords": [
+                        115.354157,
+                        -8.461384
+                  ]
+            },
+            {
+                  "name": "Monumen Pahlawan",
+                  "text": "Monumen Pahlawan este un monument local ridicat în onoarea eroilor din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        115.357741,
+                        -8.424292
+                  ]
+            },
+            {
+                  "name": "Patung Adipura Bangli",
+                  "text": "Patung Adipura Bangli este un monument care sărbătorește premiul pentru curățenie a mediului câștigat de Bangli.",
+                  "category": "historical",
+                  "coords": [
+                        115.352951,
+                        -8.469437
+                  ]
+            },
+            {
+                  "name": "Puri Agung Tampaksiring",
+                  "text": "Puri Agung Tampaksiring este un conac tradițional balinez cu semnificație istorică.",
+                  "category": "historical",
+                  "coords": [
+                        115.308212,
+                        -8.429204
+                  ]
+            },
+            {
+                  "name": "Pura Santi",
+                  "text": "Pura Santi este un lăcaș de cult liniștit pentru comunitatea balineză locală.",
+                  "category": "religious",
+                  "coords": [
+                        115.238805,
+                        -8.445208
+                  ]
+            },
+            {
+                  "name": "Pasar dan Terminal Loca Crana Bangli",
+                  "text": "Pasar dan Terminal Loca Crana Bangli servește ca o piață locală plină de viață și centru de transport.",
+                  "category": "cultural",
+                  "coords": [
+                        115.356041,
+                        -8.454597
+                  ]
+            },
+            {
+                  "name": "Pasar Kidul Bangli",
+                  "text": "Pasar Kidul Bangli este o piață zilnică aglomerată care oferă produse și mărfuri locale în Bangli.",
+                  "category": "cultural",
+                  "coords": [
+                        115.356985,
+                        -8.4554
+                  ]
+            },
+            {
+                  "name": "Tirta Empul Market",
+                  "text": "Piața Tirta Empul este o piață locală lângă faimosul templu de apă, unde vizitatorii pot cumpăra suveniruri.",
+                  "category": "cultural",
+                  "coords": [
+                        115.315514,
+                        -8.416292
+                  ]
+            },
+            {
+                  "name": "Jalur Trekking Puspa Aman Ke Bonnyuh",
+                  "text": "Jalur Trekking Puspa Aman Ke Bonnyuh este un traseu de drumeții popular și o atracție naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        115.321759,
+                        -8.467132
+                  ]
+            },
+            {
+                  "name": "Taman Jimbar",
+                  "text": "Taman Jimbar este un parc de recreere local și o atracție din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.323633,
+                        -8.467653
+                  ]
+            },
+            {
+                  "name": "I love bas love swing",
+                  "text": "I love bas love swing este o atracție turistică populară cu leagăne pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        115.341162,
+                        -8.368584
+                  ]
+            },
+            {
+                  "name": "Bamboo Forest",
+                  "text": "Bamboo Forest este o atracție naturală luxuriantă care oferă un mediu liniștit printre bambusii falnici.",
+                  "category": "landmark",
+                  "coords": [
+                        115.360478,
+                        -8.417818
+                  ]
+            },
+            {
+                  "name": "Objek Wisata Penglipuran",
+                  "text": "Objek Wisata Penglipuran este o atracție culturală binecunoscută din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        115.359763,
+                        -8.422388
+                  ]
+            },
+            {
+                  "name": "Waterfall Cave",
+                  "text": "Waterfall Cave este o atracție naturală care prezintă o cascadă pitorească și o formațiune de peșteră.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387241,
+                        -8.443419
+                  ]
+            },
+            {
+                  "name": "Air Terjun Tukad Cepung",
+                  "text": "Cascada artificială Tukad Cepung este o atracție locală situată în zona gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387903,
+                        -8.442321
+                  ]
+            },
+            {
+                  "name": "Air Terjun Tangkup Krisik",
+                  "text": "Cascada Tangkup Krisik este o atracție pitorească situată în zona gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387766,
+                        -8.457502
+                  ]
+            },
+            {
+                  "name": "Toya Selaka Waterfall Desa Petak",
+                  "text": "Cascada Toya Selaka din Desa Petak este o atracție naturală situată în jurul gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.312869,
+                        -8.47192
+                  ]
+            },
+            {
+                  "name": "Toya Selaka Waterfall",
+                  "text": "Cascada Toya Selaka este o atracție naturală aflată în regiunea gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.313297,
+                        -8.473401
+                  ]
+            },
+            {
+                  "name": "Umel Pako Agro",
+                  "text": "Umel Pako Agro este o atracție agricolă situată în zona gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.281414,
+                        -8.441737
+                  ]
+            },
+            {
+                  "name": "Bali Geo",
+                  "text": "Bali Geo este o atracție turistică locală situată în apropiere de gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.278763,
+                        -8.444364
+                  ]
+            },
+            {
+                  "name": "Alpha Ubud Swing",
+                  "text": "Alpha Ubud Swing este o atracție de agrement situată în vecinătatea gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.276577,
+                        -8.463729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gunung Kawi",
+                  "text": "Gunung Kawi is an 11th-century temple and funerary complex in Tampaksiring, Bali.",
+                  "category": "religious",
+                  "coords": [
+                        115.312611,
+                        -8.422595
+                  ]
+            },
+            {
+                  "name": "Pura Kehen",
+                  "text": "Pura Kehen is a prominent Balinese Hindu temple located in the regency of Bangli.",
+                  "category": "religious",
+                  "coords": [
+                        115.360024,
+                        -8.441835
+                  ]
+            },
+            {
+                  "name": "Pura Tirta Empul",
+                  "text": "Pura Tirta Empul is a Hindu Balinese water temple famous for its holy spring water.",
+                  "category": "landmark",
+                  "coords": [
+                        115.316148,
+                        -8.414395
+                  ]
+            },
+            {
+                  "name": "Istana Kepresidenan Tampaksiring",
+                  "text": "Istana Kepresidenan Tampaksiring is one of the presidential palaces of Indonesia, set amidst beautiful parks.",
+                  "category": "park",
+                  "coords": [
+                        115.313291,
+                        -8.414239
+                  ]
+            },
+            {
+                  "name": "Elephant Park",
+                  "text": "Elephant Park is an animal park offering wildlife encounters in the Gunung Kawi region.",
+                  "category": "recreational",
+                  "coords": [
+                        115.284258,
+                        -8.39221
+                  ]
+            },
+            {
+                  "name": "Tegallalang Rice Terraces",
+                  "text": "Tegallalang Rice Terraces is a scenic agricultural attraction featuring traditional Balinese irrigation known as subak.",
+                  "category": "landmark",
+                  "coords": [
+                        115.280206,
+                        -8.432962
+                  ]
+            },
+            {
+                  "name": "Bukit Undisan",
+                  "text": "Bukit Undisan is a notable mountain peak offering panoramic views in the region.",
+                  "category": "natural",
+                  "coords": [
+                        115.3958,
+                        -8.4424
+                  ]
+            },
+            {
+                  "name": "Bukit Buungan",
+                  "text": "Bukit Buungan is a local hill providing a vantage point over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        115.355,
+                        -8.4157
+                  ]
+            },
+            {
+                  "name": "Bukit Bangli",
+                  "text": "Bukit Bangli is a prominent geographical peak located near the town of Bangli.",
+                  "category": "natural",
+                  "coords": [
+                        115.362341,
+                        -8.437868
+                  ]
+            },
+            {
+                  "name": "Five Art Studio",
+                  "text": "Five Art Studio is a local gallery showcasing regional art and creativity.",
+                  "category": "museum",
+                  "coords": [
+                        115.260782,
+                        -8.45453
+                  ]
+            },
+            {
+                  "name": "Patung Pedanda",
+                  "text": "Patung Pedanda is a cultural monument dedicated to a Hindu high priest.",
+                  "category": "historical",
+                  "coords": [
+                        115.35628,
+                        -8.441925
+                  ]
+            },
+            {
+                  "name": "Kulkul",
+                  "text": "Kulkul is a monument featuring a traditional Balinese split-drum tower.",
+                  "category": "historical",
+                  "coords": [
+                        115.354286,
+                        -8.451948
+                  ]
+            },
+            {
+                  "name": "Bundaran Bangli",
+                  "text": "Bundaran Bangli is a notable roundabout and monument situated in the center of Bangli.",
+                  "category": "historical",
+                  "coords": [
+                        115.352759,
+                        -8.461046
+                  ]
+            },
+            {
+                  "name": "Patung Dewa",
+                  "text": "Patung Dewa is a culturally significant statue depicting a deity.",
+                  "category": "historical",
+                  "coords": [
+                        115.354157,
+                        -8.461384
+                  ]
+            },
+            {
+                  "name": "Monumen Pahlawan",
+                  "text": "Monumen Pahlawan is a local monument erected to honor the heroes of the region.",
+                  "category": "historical",
+                  "coords": [
+                        115.357741,
+                        -8.424292
+                  ]
+            },
+            {
+                  "name": "Patung Adipura Bangli",
+                  "text": "Patung Adipura Bangli is a monument celebrating the environmental cleanliness award won by Bangli.",
+                  "category": "historical",
+                  "coords": [
+                        115.352951,
+                        -8.469437
+                  ]
+            },
+            {
+                  "name": "Puri Agung Tampaksiring",
+                  "text": "Puri Agung Tampaksiring is a traditional Balinese manor with historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        115.308212,
+                        -8.429204
+                  ]
+            },
+            {
+                  "name": "Pura Santi",
+                  "text": "Pura Santi is a tranquil place of worship for the local Balinese community.",
+                  "category": "religious",
+                  "coords": [
+                        115.238805,
+                        -8.445208
+                  ]
+            },
+            {
+                  "name": "Pasar dan Terminal Loca Crana Bangli",
+                  "text": "Pasar dan Terminal Loca Crana Bangli serves as a bustling local marketplace and transport hub.",
+                  "category": "cultural",
+                  "coords": [
+                        115.356041,
+                        -8.454597
+                  ]
+            },
+            {
+                  "name": "Pasar Kidul Bangli",
+                  "text": "Pasar Kidul Bangli is a busy daily marketplace offering local produce and goods in Bangli.",
+                  "category": "cultural",
+                  "coords": [
+                        115.356985,
+                        -8.4554
+                  ]
+            },
+            {
+                  "name": "Tirta Empul Market",
+                  "text": "Tirta Empul Market is a local marketplace near the famous water temple where visitors can buy souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        115.315514,
+                        -8.416292
+                  ]
+            },
+            {
+                  "name": "Jalur Trekking Puspa Aman Ke Bonnyuh",
+                  "text": "Jalur Trekking Puspa Aman Ke Bonnyuh is a popular hiking trail and nature attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        115.321759,
+                        -8.467132
+                  ]
+            },
+            {
+                  "name": "Taman Jimbar",
+                  "text": "Taman Jimbar is a local recreational park and attraction in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        115.323633,
+                        -8.467653
+                  ]
+            },
+            {
+                  "name": "I love bas love swing",
+                  "text": "I love bas love swing is a popular tourist attraction featuring scenic swings.",
+                  "category": "landmark",
+                  "coords": [
+                        115.341162,
+                        -8.368584
+                  ]
+            },
+            {
+                  "name": "Bamboo Forest",
+                  "text": "Bamboo Forest is a lush natural attraction offering a serene environment among towering bamboo.",
+                  "category": "landmark",
+                  "coords": [
+                        115.360478,
+                        -8.417818
+                  ]
+            },
+            {
+                  "name": "Objek Wisata Penglipuran",
+                  "text": "Objek Wisata Penglipuran is a well-known cultural attraction in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        115.359763,
+                        -8.422388
+                  ]
+            },
+            {
+                  "name": "Waterfall Cave",
+                  "text": "Waterfall Cave is a natural attraction featuring a picturesque waterfall and cave formation.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387241,
+                        -8.443419
+                  ]
+            },
+            {
+                  "name": "Tukad Cepung Artifical Waterfall",
+                  "text": "Tukad Cepung Artificial Waterfall is a local attraction located in the area of gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387903,
+                        -8.442321
+                  ]
+            },
+            {
+                  "name": "Tangkup Krisik Waterfall",
+                  "text": "Tangkup Krisik Waterfall is a scenic attraction located in the gunung-kawi-temple-history-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        115.387766,
+                        -8.457502
+                  ]
+            },
+            {
+                  "name": "Toya Selaka Waterfall Desa Petak",
+                  "text": "Toya Selaka Waterfall in Desa Petak is a natural attraction situated around gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.312869,
+                        -8.47192
+                  ]
+            },
+            {
+                  "name": "Toya Selaka Waterfall",
+                  "text": "Toya Selaka Waterfall is an appealing attraction found in the region of gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.313297,
+                        -8.473401
+                  ]
+            },
+            {
+                  "name": "Umel Pako Agro",
+                  "text": "Umel Pako Agro is an agricultural attraction located in the area of gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.281414,
+                        -8.441737
+                  ]
+            },
+            {
+                  "name": "Bali Geo",
+                  "text": "Bali Geo is a local tourist attraction situated near gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.278763,
+                        -8.444364
+                  ]
+            },
+            {
+                  "name": "Alpha Ubud Swing",
+                  "text": "Alpha Ubud Swing is a recreational attraction located in the vicinity of gunung-kawi-temple-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        115.276577,
+                        -8.463729
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "ID-BA",
     coords: [115.3119, -8.4233],
@@ -279,7 +7497,1204 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "trowulan-archaeological-site-history-v2",
+    id: "trowulan-archaeological-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Majapahit Trowulan",
+                  "text": "Dieses Museum in Trowulan beherbergt eine bedeutende Sammlung von Artefakten aus der Glanzzeit des Majapahit-Reiches.",
+                  "category": "museum",
+                  "coords": [
+                        112.380525,
+                        -7.560058
+                  ]
+            },
+            {
+                  "name": "Candi Bajang Ratu",
+                  "text": "Dieses elegante Tor aus rotem Backstein in Trowulan gilt als Denkmal für den Majapahit-König Jayanegara.",
+                  "category": "fortress",
+                  "coords": [
+                        112.398728,
+                        -7.567667
+                  ]
+            },
+            {
+                  "name": "Candi Tikus",
+                  "text": "Ein ausgegrabenes rituelles Badebecken aus Backstein mit einem Miniaturtempel in der Mitte des Komplexes.",
+                  "category": "historical",
+                  "coords": [
+                        112.403519,
+                        -7.571666
+                  ]
+            },
+            {
+                  "name": "Candi Brahu",
+                  "text": "Dieser imposante buddhistische Tempel aus rotem Backstein in Trowulan diente einst der Verbrennung königlicher Asche.",
+                  "category": "historical",
+                  "coords": [
+                        112.374374,
+                        -7.542909
+                  ]
+            },
+            {
+                  "name": "Candi Wringin Lawang",
+                  "text": "Ein monumentales gespaltenes Tor (Candi Bentar) aus Backsteinen, das einst den Eingang zu einem Majapahit-Komplex markierte.",
+                  "category": "historical",
+                  "coords": [
+                        112.39095,
+                        -7.541935
+                  ]
+            },
+            {
+                  "name": "Tugu UKS",
+                  "text": "Ein lokales Denkmal in Trowulan, das den Bemühungen um die Gesundheit und Hygiene in Schulen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        112.440026,
+                        -7.489289
+                  ]
+            },
+            {
+                  "name": "Situs Watu Umpak Grobogon",
+                  "text": "Diese archäologische Stätte in Trowulan bewahrt antike Steinsockel, die einst Holzsäulen von Majapahit-Gebäuden stützten.",
+                  "category": "historical",
+                  "coords": [
+                        112.348041,
+                        -7.60113
+                  ]
+            },
+            {
+                  "name": "Watu Ombo Petilasan Tribuawana Tungga Dewi",
+                  "text": "Ein Meditationsort, der der Majapahit-Königin Tribhuwana Wijayatunggadewi gewidmet ist und antike Steinrelikte umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        112.396201,
+                        -7.515398
+                  ]
+            },
+            {
+                  "name": "Reco Hayam Wuruk",
+                  "text": "Diese Stätte beherbergt Statuenfragmente, die mit König Hayam Wuruk, dem berühmtesten Herrscher von Majapahit, in Verbindung gebracht werden.",
+                  "category": "historical",
+                  "coords": [
+                        112.388358,
+                        -7.512553
+                  ]
+            },
+            {
+                  "name": "Makam Ki Ageng Jabung",
+                  "text": "Die Grabstätte von Ki Ageng Jabung, einer angesehenen lokalen Persönlichkeit aus der Zeit des Majapahit-Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        112.414341,
+                        -7.614915
+                  ]
+            },
+            {
+                  "name": "Candi Menak Jinggo",
+                  "text": "Diese Ruinen in Trowulan sind für ihre einzigartigen Steinschnitzereien und Darstellungen geflügelter Kreaturen bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        112.386512,
+                        -7.558387
+                  ]
+            },
+            {
+                  "name": "Balong Bunder",
+                  "text": "Ein antiker kreisförmiger Teich in Trowulan, der Teil des komplexen Majapahit-Wassermanagementsystems war.",
+                  "category": "historical",
+                  "coords": [
+                        112.38218,
+                        -7.561683
+                  ]
+            },
+            {
+                  "name": "Kolam Air Segaran",
+                  "text": "Ein riesiges antikes Reservoir aus Backsteinen, das einst als Sammelbecken und Erholungsort für Majapahit-Adlige diente.",
+                  "category": "historical",
+                  "coords": [
+                        112.382939,
+                        -7.557907
+                  ]
+            },
+            {
+                  "name": "Pendopo Agung Trowulan",
+                  "text": "Eine moderne Rekonstruktion einer hölzernen Majapahit-Audienzhalle, die auf den originalen Steinfundamenten errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        112.380274,
+                        -7.566242
+                  ]
+            },
+            {
+                  "name": "Kolam Ngelinguk",
+                  "text": "Ein antikes rituelles Becken oder Badeplatz aus der Zeit des Majapahit-Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        112.377059,
+                        -7.564247
+                  ]
+            },
+            {
+                  "name": "Situs Yoni Lebak Jabung",
+                  "text": "Diese Ausgrabungsstätte zeigt ein massives steinernes Yoni, ein hinduistisches Fruchtbarkeitssymbol, in einem Dorffeld.",
+                  "category": "historical",
+                  "coords": [
+                        112.41149,
+                        -7.619221
+                  ]
+            },
+            {
+                  "name": "Situs Kumitir",
+                  "text": "Die Fundstelle umfasst Überreste einer langen Ziegelmauer des Majapahit-Palastkomplexes aus dem 13. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        112.411744,
+                        -7.570752
+                  ]
+            },
+            {
+                  "name": "Makam Syeh Jumadil Kubro / Makam Troloyo",
+                  "text": "Ein alter islamischer Friedhof mit dem Grab von Syeh Jumadil Kubro, einem frühen Missionar auf Java.",
+                  "category": "historical",
+                  "coords": [
+                        112.380448,
+                        -7.57617
+                  ]
+            },
+            {
+                  "name": "Umpak SentonoRejo",
+                  "text": "Riesige Steinsockel (Umpak), die einst die hölzernen Säulen einer Majapahit-Halle trugen.",
+                  "category": "historical",
+                  "coords": [
+                        112.378709,
+                        -7.570285
+                  ]
+            },
+            {
+                  "name": "Candi Kedaton",
+                  "text": "Diese archäologische Stätte aus roten Ziegeln gilt als ehemaliger Wohnsitz des Majapahit-Adels.",
+                  "category": "historical",
+                  "coords": [
+                        112.379631,
+                        -7.570448
+                  ]
+            },
+            {
+                  "name": "Situs Lantai Segi Enam",
+                  "text": "Ausgrabungen, bei denen einzigartige sechseckige Terrakotta-Bodenfliesen aus der Majapahit-Zeit noch sichtbar sind.",
+                  "category": "historical",
+                  "coords": [
+                        112.379831,
+                        -7.571467
+                  ]
+            },
+            {
+                  "name": "Makam Panjang",
+                  "text": "Bekannt für sein ungewöhnlich langes Grab, das traditionell mit frühen islamischen Persönlichkeiten verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        112.385612,
+                        -7.555702
+                  ]
+            },
+            {
+                  "name": "Makam Putri Campa",
+                  "text": "Das Grab einer Prinzessin aus dem 15. Jahrhundert vereint islamische und javanische Architekturstile.",
+                  "category": "historical",
+                  "coords": [
+                        112.384344,
+                        -7.555968
+                  ]
+            },
+            {
+                  "name": "Candi Gentong",
+                  "text": "Die Ziegelreste eines buddhistischen Stupa-Komplexes, der für antike religiöse Zeremonien genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        112.378096,
+                        -7.543509
+                  ]
+            },
+            {
+                  "name": "Candi Situsumpak",
+                  "text": "Archäologische Stätte mit mehreren Steinsockeln (Umpak) für Säulen aus der Majapahit-Ära.",
+                  "category": "historical",
+                  "coords": [
+                        112.402543,
+                        -7.540629
+                  ]
+            },
+            {
+                  "name": "Situs Siti Hinggil",
+                  "text": "Eine erhöhte Ziegelplattform, die traditionell als Audienzhalle für die Majapahit-Könige identifiziert wird.",
+                  "category": "historical",
+                  "coords": [
+                        112.369232,
+                        -7.550395
+                  ]
+            },
+            {
+                  "name": "Patung Buddha Tidur",
+                  "text": "Eine riesige goldene Statue eines liegenden Buddhas, eine der größten ihrer Art in Indonesien.",
+                  "category": "historical",
+                  "coords": [
+                        112.369825,
+                        -7.556133
+                  ]
+            },
+            {
+                  "name": "Pabriek Bintang",
+                  "text": "Überreste eines historischen Bauwerks innerhalb der archäologischen Zone von Trowulan.",
+                  "category": "historical",
+                  "coords": [
+                        112.432558,
+                        -7.476421
+                  ]
+            },
+            {
+                  "name": "TPQ Darul Muthmainnah",
+                  "text": "Eine lokale Koranschule und Gebetsstätte, die der Gemeinschaft in Trowulan dient.",
+                  "category": "religious",
+                  "coords": [
+                        112.403708,
+                        -7.521574
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Eine lokale Moschee, die den muslimischen Bewohnern des Bezirks einen Ort zum Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        112.34253,
+                        -7.57216
+                  ]
+            },
+            {
+                  "name": "Pasar Mojoagung",
+                  "text": "Ein lebhafter traditioneller Markt, der für lokale javanische Snacks und Textilien bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        112.337106,
+                        -7.567814
+                  ]
+            },
+            {
+                  "name": "Balai Dusun Jatisumber - Trowulan",
+                  "text": "Ein dörfliches Gemeindehaus, das als Ausgangspunkt zu den umliegenden Ruinen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        112.397518,
+                        -7.533386
+                  ]
+            },
+            {
+                  "name": "Trowulan archaeological site",
+                  "text": "Die weitläufige ehemalige Hauptstadt des Majapahit-Reiches mit zahlreichen Ziegeltempeln und Becken.",
+                  "category": "landmark",
+                  "coords": [
+                        112.37,
+                        -7.48
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Majapahit Trowulan",
+                  "text": "Ez a trowulani múzeum a Madzsapahit Birodalom fénykorából származó leletek jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        112.380525,
+                        -7.560058
+                  ]
+            },
+            {
+                  "name": "Candi Bajang Ratu",
+                  "text": "Ez az elegáns vörös tégla kapu Trowulanban a Madzsapahit király, Dzsajanegara emlékművének számít.",
+                  "category": "fortress",
+                  "coords": [
+                        112.398728,
+                        -7.567667
+                  ]
+            },
+            {
+                  "name": "Candi Tikus",
+                  "text": "Feltárt rituális tégla fürdőmedence, amelynek közepén egy kisméretű templom áll.",
+                  "category": "historical",
+                  "coords": [
+                        112.403519,
+                        -7.571666
+                  ]
+            },
+            {
+                  "name": "Candi Brahu",
+                  "text": "Ez az impozáns vörös tégla buddhista templom Trowulanban einekor királyi hamvak szertartási helyeként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        112.374374,
+                        -7.542909
+                  ]
+            },
+            {
+                  "name": "Candi Wringin Lawang",
+                  "text": "Monumentális, téglából épült osztott kapu (Candi Bentar), amely egykor egy Madzsapahit-komplexum bejáratát jelezte.",
+                  "category": "historical",
+                  "coords": [
+                        112.39095,
+                        -7.541935
+                  ]
+            },
+            {
+                  "name": "Tugu UKS",
+                  "text": "Helyi emlékmű Trowulanban, amelyet az iskolai egészségügyi és higiéniai törekvéseknek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        112.440026,
+                        -7.489289
+                  ]
+            },
+            {
+                  "name": "Situs Watu Umpak Grobogon",
+                  "text": "Ez a trowulani régészeti lelőhely ősi kőtalapzatokat őriz, amelyek egykor Madzsapahit épületek oszlopait tartották.",
+                  "category": "historical",
+                  "coords": [
+                        112.348041,
+                        -7.60113
+                  ]
+            },
+            {
+                  "name": "Watu Ombo Petilasan Tribuawana Tungga Dewi",
+                  "text": "Tribhuwana Vidzsajatunggadévi Madzsapahit királynőnek szentelt meditációs hely, ősi kőemlékekkel.",
+                  "category": "historical",
+                  "coords": [
+                        112.396201,
+                        -7.515398
+                  ]
+            },
+            {
+                  "name": "Reco Hayam Wuruk",
+                  "text": "Ez a helyszín szobortöredékeket őriz, amelyeket Hajam Wuruk királlyal, a Madzsapahit leghíresebb uralkodójával hoznak összefüggésbe.",
+                  "category": "historical",
+                  "coords": [
+                        112.388358,
+                        -7.512553
+                  ]
+            },
+            {
+                  "name": "Makam Ki Ageng Jabung",
+                  "text": "Ki Ageng Jabung sírhelye, aki a Madzsapahit Birodalom idejének egyik tisztelt helyi alakja volt.",
+                  "category": "historical",
+                  "coords": [
+                        112.414341,
+                        -7.614915
+                  ]
+            },
+            {
+                  "name": "Candi Menak Jinggo",
+                  "text": "Ezek a trowulani romok egyedülálló kőfaragványaikról és szárnyas lényeket ábrázoló szobraikról ismertek.",
+                  "category": "historical",
+                  "coords": [
+                        112.386512,
+                        -7.558387
+                  ]
+            },
+            {
+                  "name": "Balong Bunder",
+                  "text": "Ősi kör alakú tavacska Trowulanban, amely a Madzsapahit bonyolult vízgazdálkodási rendszerének része volt.",
+                  "category": "historical",
+                  "coords": [
+                        112.38218,
+                        -7.561683
+                  ]
+            },
+            {
+                  "name": "Kolam Air Segaran",
+                  "text": "Hatalmas, téglából épült ősi víztározó, amely egykor gyűjtőmedenceként és pihenőhelyként szolgált a Madzsapahit nemesek számára.",
+                  "category": "historical",
+                  "coords": [
+                        112.382939,
+                        -7.557907
+                  ]
+            },
+            {
+                  "name": "Pendopo Agung Trowulan",
+                  "text": "Egy fából készült Madzsapahit fogadóterem modern rekonstrukciója, amely az eredeti kőalapokra épült.",
+                  "category": "historical",
+                  "coords": [
+                        112.380274,
+                        -7.566242
+                  ]
+            },
+            {
+                  "name": "Kolam Ngelinguk",
+                  "text": "A Madzsapahit Birodalom idejéből származó ősi rituális medence vagy fürdőhely.",
+                  "category": "historical",
+                  "coords": [
+                        112.377059,
+                        -7.564247
+                  ]
+            },
+            {
+                  "name": "Situs Yoni Lebak Jabung",
+                  "text": "Ez a régészeti lelőhely egy hatalmas kő Yonit, egy hindu termékenységi szimbólumot mutat be egy falusi mezőn.",
+                  "category": "historical",
+                  "coords": [
+                        112.41149,
+                        -7.619221
+                  ]
+            },
+            {
+                  "name": "Situs Kumitir",
+                  "text": "A lelőhely a 13. századi Madzsapahit palotakomplexum hosszú téglafalának maradványait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        112.411744,
+                        -7.570752
+                  ]
+            },
+            {
+                  "name": "Makam Syeh Jumadil Kubro / Makam Troloyo",
+                  "text": "Régi iszlám temető, ahol Syeh Jumadil Kubro, egy korai jávai misszionárius sírja található.",
+                  "category": "historical",
+                  "coords": [
+                        112.380448,
+                        -7.57617
+                  ]
+            },
+            {
+                  "name": "Umpak SentonoRejo",
+                  "text": "Hatalmas kőtalapzatok (umpak), amelyek egykor egy Madzsapahit-csarnok faoszlopait tartották.",
+                  "category": "historical",
+                  "coords": [
+                        112.378709,
+                        -7.570285
+                  ]
+            },
+            {
+                  "name": "Candi Kedaton",
+                  "text": "Ez a vörös téglából épült régészeti lelőhely a Madzsapahit nemesség egykori lakhelyének számít.",
+                  "category": "historical",
+                  "coords": [
+                        112.379631,
+                        -7.570448
+                  ]
+            },
+            {
+                  "name": "Situs Lantai Segi Enam",
+                  "text": "Feltárt romok, ahol a Madzsapahit-korból származó egyedülálló hatszögletű terrakotta padlólapok még láthatóak.",
+                  "category": "historical",
+                  "coords": [
+                        112.379831,
+                        -7.571467
+                  ]
+            },
+            {
+                  "name": "Makam Panjang",
+                  "text": "Szokatlanul hosszú sírjáról ismert, amelyet a hagyomány szerint korai iszlám alakokhoz kötnek.",
+                  "category": "historical",
+                  "coords": [
+                        112.385612,
+                        -7.555702
+                  ]
+            },
+            {
+                  "name": "Makam Putri Campa",
+                  "text": "Egy 15. századi hercegnő sírja, amely az iszlám és a jávai építészeti stílusokat ötvözi.",
+                  "category": "historical",
+                  "coords": [
+                        112.384344,
+                        -7.555968
+                  ]
+            },
+            {
+                  "name": "Candi Gentong",
+                  "text": "Egy buddhista sztúpakomplexum téglamaradványai, amelyet ősi vallási szertartásokhoz használtak.",
+                  "category": "historical",
+                  "coords": [
+                        112.378096,
+                        -7.543509
+                  ]
+            },
+            {
+                  "name": "Candi Situsumpak",
+                  "text": "Régészeti lelőhely több kőoszlop-alappal (umpak) a Madzsapahit-korszakból.",
+                  "category": "historical",
+                  "coords": [
+                        112.402543,
+                        -7.540629
+                  ]
+            },
+            {
+                  "name": "Situs Siti Hinggil",
+                  "text": "Megemelt téglafelület, amelyet a hagyomány szerint a Madzsapahit királyok kihallgatási csarnokaként azonosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        112.369232,
+                        -7.550395
+                  ]
+            },
+            {
+                  "name": "Patung Buddha Tidur",
+                  "text": "Egy hatalmas aranyozott fekvő Buddha-szobor, amely Indonézia egyik legnagyobb ilyen alkotása.",
+                  "category": "historical",
+                  "coords": [
+                        112.369825,
+                        -7.556133
+                  ]
+            },
+            {
+                  "name": "Pabriek Bintang",
+                  "text": "Egy történelmi építmény maradványai Trowulan régészeti övezetében.",
+                  "category": "historical",
+                  "coords": [
+                        112.432558,
+                        -7.476421
+                  ]
+            },
+            {
+                  "name": "TPQ Darul Muthmainnah",
+                  "text": "Helyi Korán-iskola és imaház, amely a trowulani közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        112.403708,
+                        -7.521574
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "Helyi mecset, amely imahelyet biztosít a kerület muszlim lakosai számára.",
+                  "category": "religious",
+                  "coords": [
+                        112.34253,
+                        -7.57216
+                  ]
+            },
+            {
+                  "name": "Pasar Mojoagung",
+                  "text": "Nyüzsgő hagyományos piac, amely helyi jávai harapnivalóiról és textiljeiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        112.337106,
+                        -7.567814
+                  ]
+            },
+            {
+                  "name": "Balai Dusun Jatisumber - Trowulan",
+                  "text": "Falusi közösségi ház, amely kapuként szolgál a környező romok felé.",
+                  "category": "landmark",
+                  "coords": [
+                        112.397518,
+                        -7.533386
+                  ]
+            },
+            {
+                  "name": "Trowulan archaeological site",
+                  "text": "A Madzsapahit Birodalom kiterjedt egykori fővárosa, tele téglatemplomokkal és medencékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        112.37,
+                        -7.48
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Majapahit Trowulan",
+                  "text": "Acest muzeu din Trowulan găzduiește o colecție importantă de artefacte din perioada de glorie a Imperiului Majapahit.",
+                  "category": "museum",
+                  "coords": [
+                        112.380525,
+                        -7.560058
+                  ]
+            },
+            {
+                  "name": "Candi Bajang Ratu",
+                  "text": "Această poartă elegantă din cărămidă roșie din Trowulan este considerată un monument pentru regele Majapahit Jayanegara.",
+                  "category": "fortress",
+                  "coords": [
+                        112.398728,
+                        -7.567667
+                  ]
+            },
+            {
+                  "name": "Candi Tikus",
+                  "text": "Un bazin de baie ritualic excavat, realizat din cărămidă, cu un templu în miniatură în centrul complexului.",
+                  "category": "historical",
+                  "coords": [
+                        112.403519,
+                        -7.571666
+                  ]
+            },
+            {
+                  "name": "Candi Brahu",
+                  "text": "Acest impunător templu budist din cărămidă roșie din Trowulan servea odinioară pentru incinerarea cenușii regale.",
+                  "category": "historical",
+                  "coords": [
+                        112.374374,
+                        -7.542909
+                  ]
+            },
+            {
+                  "name": "Candi Wringin Lawang",
+                  "text": "O poartă monumentală despicată (Candi Bentar) din cărămidă, care marca odinioară intrarea într'un complex Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.39095,
+                        -7.541935
+                  ]
+            },
+            {
+                  "name": "Tugu UKS",
+                  "text": "Un monument local din Trowulan, dedicat eforturilor pentru sănătatea și igiena în școli.",
+                  "category": "historical",
+                  "coords": [
+                        112.440026,
+                        -7.489289
+                  ]
+            },
+            {
+                  "name": "Situs Watu Umpak Grobogon",
+                  "text": "Acest sit arheologic din Trowulan păstrează socluri de piatră antice care susțineau odinioară coloanele clădirilor Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.348041,
+                        -7.60113
+                  ]
+            },
+            {
+                  "name": "Watu Ombo Petilasan Tribuawana Tungga Dewi",
+                  "text": "Un loc de meditație dedicat reginei Majapahit Tribhuwana Wijayatunggadewi, care cuprinde relicve de piatră antice.",
+                  "category": "historical",
+                  "coords": [
+                        112.396201,
+                        -7.515398
+                  ]
+            },
+            {
+                  "name": "Reco Hayam Wuruk",
+                  "text": "Acest sit găzduiește fragmente de statui asociate cu regele Hayam Wuruk, cel mai faimos conducător din Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.388358,
+                        -7.512553
+                  ]
+            },
+            {
+                  "name": "Makam Ki Ageng Jabung",
+                  "text": "Locul de mormânt al lui Ki Ageng Jabung, o figură locală respectată din perioada Imperiului Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.414341,
+                        -7.614915
+                  ]
+            },
+            {
+                  "name": "Candi Menak Jinggo",
+                  "text": "Aceste ruine din Trowulan sunt cunoscute pentru sculpturile lor unice în piatră și reprezentările de creaturi înaripate.",
+                  "category": "historical",
+                  "coords": [
+                        112.386512,
+                        -7.558387
+                  ]
+            },
+            {
+                  "name": "Balong Bunder",
+                  "text": "Un iaz circular antic din Trowulan, care făcea parte din complexul sistem de gestionare a apei Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.38218,
+                        -7.561683
+                  ]
+            },
+            {
+                  "name": "Kolam Air Segaran",
+                  "text": "Un rezervor antic uriaș din cărămidă, care servea odinioară ca bazin de colectare și loc de recreere pentru nobilii Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.382939,
+                        -7.557907
+                  ]
+            },
+            {
+                  "name": "Pendopo Agung Trowulan",
+                  "text": "O reconstrucție modernă a unei săli de audiențe Majapahit din lemn, ridicată pe fundațiile de piatră originale.",
+                  "category": "historical",
+                  "coords": [
+                        112.380274,
+                        -7.566242
+                  ]
+            },
+            {
+                  "name": "Kolam Ngelinguk",
+                  "text": "Un bazin ritualic antic sau loc de scăldat din perioada imperiului Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.377059,
+                        -7.564247
+                  ]
+            },
+            {
+                  "name": "Situs Yoni Lebak Jabung",
+                  "text": "Acest sit arheologic prezintă un Yoni masiv din piatră, un simbol hindu al fertilității, aflat pe un câmp.",
+                  "category": "historical",
+                  "coords": [
+                        112.41149,
+                        -7.619221
+                  ]
+            },
+            {
+                  "name": "Situs Kumitir",
+                  "text": "Situl cuprinde resturile unui zid lung de cărămidă din complexul palatului Majapahit din secolul al XIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        112.411744,
+                        -7.570752
+                  ]
+            },
+            {
+                  "name": "Makam Syeh Jumadil Kubro / Makam Troloyo",
+                  "text": "Un vechi cimitir islamic care adăpostește mormântul lui Syeh Jumadil Kubro, un misionar timpuriu în Java.",
+                  "category": "historical",
+                  "coords": [
+                        112.380448,
+                        -7.57617
+                  ]
+            },
+            {
+                  "name": "Umpak SentonoRejo",
+                  "text": "Socluri gigantice de piatră (umpak) care susțineau odinioară stâlpii de lemn ai unei hale Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.378709,
+                        -7.570285
+                  ]
+            },
+            {
+                  "name": "Candi Kedaton",
+                  "text": "Acest sit arheologic din cărămidă roșie este considerat a fi fosta reședință a nobilimii Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.379631,
+                        -7.570448
+                  ]
+            },
+            {
+                  "name": "Situs Lantai Segi Enam",
+                  "text": "Ruine excavate unde sunt încă vizibile plăci de podea hexagonale din teracotă, unice, din epoca Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.379831,
+                        -7.571467
+                  ]
+            },
+            {
+                  "name": "Makam Panjang",
+                  "text": "Cunoscut pentru mormântul său neobișnuit de lung, asociat în mod tradițional cu figuri islamice timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        112.385612,
+                        -7.555702
+                  ]
+            },
+            {
+                  "name": "Makam Putri Campa",
+                  "text": "Mormântul unei prințese din secolul al XV-lea îmbină stilurile arhitecturale islamic și javanez.",
+                  "category": "historical",
+                  "coords": [
+                        112.384344,
+                        -7.555968
+                  ]
+            },
+            {
+                  "name": "Candi Gentong",
+                  "text": "Resturile de cărămidă ale unui complex de stupe budiste, folosit pentru ceremonii religioase antice.",
+                  "category": "historical",
+                  "coords": [
+                        112.378096,
+                        -7.543509
+                  ]
+            },
+            {
+                  "name": "Candi Situsumpak",
+                  "text": "Sit arheologic care prezintă mai multe baze de coloane din piatră (umpak) din epoca Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.402543,
+                        -7.540629
+                  ]
+            },
+            {
+                  "name": "Situs Siti Hinggil",
+                  "text": "O platformă de cărămidă ridicată, identificată tradițional ca fiind sala de audiențe a regilor Majapahit.",
+                  "category": "historical",
+                  "coords": [
+                        112.369232,
+                        -7.550395
+                  ]
+            },
+            {
+                  "name": "Patung Buddha Tidur",
+                  "text": "O statuie aurie uriașă a lui Buddha culcat, una dintre cele mai mari de acest fel din Indonezia.",
+                  "category": "historical",
+                  "coords": [
+                        112.369825,
+                        -7.556133
+                  ]
+            },
+            {
+                  "name": "Pabriek Bintang",
+                  "text": "Resturile unei structuri istorice din cadrul zonei arheologice Trowulan.",
+                  "category": "historical",
+                  "coords": [
+                        112.432558,
+                        -7.476421
+                  ]
+            },
+            {
+                  "name": "TPQ Darul Muthmainnah",
+                  "text": "O școală coranică locală și sală de rugăciune care deservește comunitatea din Trowulan.",
+                  "category": "religious",
+                  "coords": [
+                        112.403708,
+                        -7.521574
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "O moschee locală care oferă un loc de rugăciune pentru locuitorii musulmani din district.",
+                  "category": "religious",
+                  "coords": [
+                        112.34253,
+                        -7.57216
+                  ]
+            },
+            {
+                  "name": "Pasar Mojoagung",
+                  "text": "O piață tradițională plină de viață, renumită pentru gustările javaneze locale și textile.",
+                  "category": "cultural",
+                  "coords": [
+                        112.337106,
+                        -7.567814
+                  ]
+            },
+            {
+                  "name": "Balai Dusun Jatisumber - Trowulan",
+                  "text": "O casă comunitară sătească ce servește drept punct de plecare către ruinele din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        112.397518,
+                        -7.533386
+                  ]
+            },
+            {
+                  "name": "Trowulan archaeological site",
+                  "text": "Vasta fostă capitală a Imperiului Majapahit, plină de temple de cărămidă și bazine.",
+                  "category": "landmark",
+                  "coords": [
+                        112.37,
+                        -7.48
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Majapahit Trowulan",
+                  "text": "This museum in Trowulan houses a significant collection of artifacts from the golden age of the Majapahit Empire.",
+                  "category": "museum",
+                  "coords": [
+                        112.380525,
+                        -7.560058
+                  ]
+            },
+            {
+                  "name": "Candi Bajang Ratu",
+                  "text": "This elegant red brick gateway in Trowulan is believed to be a monument to the Majapahit king Jayanegara.",
+                  "category": "fortress",
+                  "coords": [
+                        112.398728,
+                        -7.567667
+                  ]
+            },
+            {
+                  "name": "Candi Tikus",
+                  "text": "An excavated ritual bathing pool made of brick with a miniature temple at the center of the complex.",
+                  "category": "historical",
+                  "coords": [
+                        112.403519,
+                        -7.571666
+                  ]
+            },
+            {
+                  "name": "Candi Brahu",
+                  "text": "This imposing red brick Buddhist temple in Trowulan once served as a site for handling royal ashes.",
+                  "category": "historical",
+                  "coords": [
+                        112.374374,
+                        -7.542909
+                  ]
+            },
+            {
+                  "name": "Candi Wringin Lawang",
+                  "text": "A monumental split gateway (Candi Bentar) made of bricks that once marked the entrance to a Majapahit complex.",
+                  "category": "historical",
+                  "coords": [
+                        112.39095,
+                        -7.541935
+                  ]
+            },
+            {
+                  "name": "Tugu UKS",
+                  "text": "A local monument in Trowulan dedicated to the efforts of school health and hygiene programs.",
+                  "category": "historical",
+                  "coords": [
+                        112.440026,
+                        -7.489289
+                  ]
+            },
+            {
+                  "name": "Situs Watu Umpak Grobogon",
+                  "text": "This archaeological site in Trowulan preserves ancient stone pedestals that once supported the wooden pillars of Majapahit buildings.",
+                  "category": "historical",
+                  "coords": [
+                        112.348041,
+                        -7.60113
+                  ]
+            },
+            {
+                  "name": "Watu Ombo Petilasan Tribuawana Tungga Dewi",
+                  "text": "A meditation site associated with the Majapahit queen Tribhuwana Wijayatunggadewi, featuring ancient stone relics.",
+                  "category": "historical",
+                  "coords": [
+                        112.396201,
+                        -7.515398
+                  ]
+            },
+            {
+                  "name": "Reco Hayam Wuruk",
+                  "text": "This site houses statue fragments associated with King Hayam Wuruk, the most famous ruler of the Majapahit Empire.",
+                  "category": "historical",
+                  "coords": [
+                        112.388358,
+                        -7.512553
+                  ]
+            },
+            {
+                  "name": "Makam Ki Ageng Jabung",
+                  "text": "The burial site of Ki Ageng Jabung, a respected local figure dating back to the Majapahit Empire period.",
+                  "category": "historical",
+                  "coords": [
+                        112.414341,
+                        -7.614915
+                  ]
+            },
+            {
+                  "name": "Candi Menak Jinggo",
+                  "text": "These ruins in Trowulan are known for their unique stone carvings and depictions of winged creatures.",
+                  "category": "historical",
+                  "coords": [
+                        112.386512,
+                        -7.558387
+                  ]
+            },
+            {
+                  "name": "Balong Bunder",
+                  "text": "An ancient circular pond in Trowulan that was part of the sophisticated Majapahit water management system.",
+                  "category": "historical",
+                  "coords": [
+                        112.38218,
+                        -7.561683
+                  ]
+            },
+            {
+                  "name": "Kolam Air Segaran",
+                  "text": "A vast ancient brick reservoir that once served as a catchment and recreation area for Majapahit royalty.",
+                  "category": "historical",
+                  "coords": [
+                        112.382939,
+                        -7.557907
+                  ]
+            },
+            {
+                  "name": "Pendopo Agung Trowulan",
+                  "text": "A modern reconstruction of a wooden Majapahit audience hall built upon the original stone foundations.",
+                  "category": "historical",
+                  "coords": [
+                        112.380274,
+                        -7.566242
+                  ]
+            },
+            {
+                  "name": "Kolam Ngelinguk",
+                  "text": "An ancient ritual or bathing pool dating back to the Majapahit Empire era.",
+                  "category": "historical",
+                  "coords": [
+                        112.377059,
+                        -7.564247
+                  ]
+            },
+            {
+                  "name": "Situs Yoni Lebak Jabung",
+                  "text": "This archaeological site features a massive stone Yoni, a Hindu fertility symbol, located in a village field.",
+                  "category": "historical",
+                  "coords": [
+                        112.41149,
+                        -7.619221
+                  ]
+            },
+            {
+                  "name": "Situs Kumitir",
+                  "text": "The site contains remnants of a long brick wall from the 13th-century Majapahit palace complex.",
+                  "category": "historical",
+                  "coords": [
+                        112.411744,
+                        -7.570752
+                  ]
+            },
+            {
+                  "name": "Makam Syeh Jumadil Kubro / Makam Troloyo",
+                  "text": "An ancient Islamic cemetery containing the tomb of Syeh Jumadil Kubro, an early missionary to Java.",
+                  "category": "historical",
+                  "coords": [
+                        112.380448,
+                        -7.57617
+                  ]
+            },
+            {
+                  "name": "Umpak SentonoRejo",
+                  "text": "Giant stone pedestals (umpak) that once supported the wooden pillars of a Majapahit hall.",
+                  "category": "historical",
+                  "coords": [
+                        112.378709,
+                        -7.570285
+                  ]
+            },
+            {
+                  "name": "Candi Kedaton",
+                  "text": "This red brick archaeological site is considered to be the former residence of Majapahit royalty.",
+                  "category": "historical",
+                  "coords": [
+                        112.379631,
+                        -7.570448
+                  ]
+            },
+            {
+                  "name": "Situs Lantai Segi Enam",
+                  "text": "Excavated ruins where unique hexagonal terracotta floor tiles from the Majapahit period are still visible.",
+                  "category": "historical",
+                  "coords": [
+                        112.379831,
+                        -7.571467
+                  ]
+            },
+            {
+                  "name": "Makam Panjang",
+                  "text": "Known for its unusually long grave, traditionally associated with early Islamic figures.",
+                  "category": "historical",
+                  "coords": [
+                        112.385612,
+                        -7.555702
+                  ]
+            },
+            {
+                  "name": "Makam Putri Campa",
+                  "text": "The 15th-century tomb of a Cham princess, blending Islamic and Javanese architectural styles.",
+                  "category": "historical",
+                  "coords": [
+                        112.384344,
+                        -7.555968
+                  ]
+            },
+            {
+                  "name": "Candi Gentong",
+                  "text": "The brick remains of a Buddhist stupa complex used for ancient religious ceremonies.",
+                  "category": "historical",
+                  "coords": [
+                        112.378096,
+                        -7.543509
+                  ]
+            },
+            {
+                  "name": "Candi Situsumpak",
+                  "text": "Archaeological site featuring multiple stone pillar bases (umpak) from the Majapahit era.",
+                  "category": "historical",
+                  "coords": [
+                        112.402543,
+                        -7.540629
+                  ]
+            },
+            {
+                  "name": "Situs Siti Hinggil",
+                  "text": "A raised brick platform traditionally identified as the audience hall for Majapahit kings.",
+                  "category": "historical",
+                  "coords": [
+                        112.369232,
+                        -7.550395
+                  ]
+            },
+            {
+                  "name": "Patung Buddha Tidur",
+                  "text": "A massive golden reclining Buddha statue, one of the largest of its kind in Indonesia.",
+                  "category": "historical",
+                  "coords": [
+                        112.369825,
+                        -7.556133
+                  ]
+            },
+            {
+                  "name": "Pabriek Bintang",
+                  "text": "Remnants of a historic structure within the Trowulan archaeological zone.",
+                  "category": "historical",
+                  "coords": [
+                        112.432558,
+                        -7.476421
+                  ]
+            },
+            {
+                  "name": "TPQ Darul Muthmainnah",
+                  "text": "A local Quranic school and prayer hall serving the community in Trowulan.",
+                  "category": "religious",
+                  "coords": [
+                        112.403708,
+                        -7.521574
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "A local mosque providing a place of prayer for the Muslim residents of the district.",
+                  "category": "religious",
+                  "coords": [
+                        112.34253,
+                        -7.57216
+                  ]
+            },
+            {
+                  "name": "Pasar Mojoagung",
+                  "text": "A bustling traditional market famous for local Javanese snacks and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        112.337106,
+                        -7.567814
+                  ]
+            },
+            {
+                  "name": "Balai Dusun Jatisumber - Trowulan",
+                  "text": "A village community hall that serves as a gateway to the surrounding ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        112.397518,
+                        -7.533386
+                  ]
+            },
+            {
+                  "name": "Trowulan archaeological site",
+                  "text": "The sprawling former capital of the Majapahit Empire, filled with brick temples and pools.",
+                  "category": "landmark",
+                  "coords": [
+                        112.37,
+                        -7.48
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "ID-JI",
     coords: [112.3833, -7.5500],
@@ -327,7 +8742,844 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "fort-rotterdam-makassar-history-v2",
+    id: "fort-rotterdam-makassar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "MONUMEN MANDALA",
+                  "text": "Das Monumen Mandala ist ein lokales Denkmal in fort-rotterdam-makassar-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        119.413657,
+                        -5.137641
+                  ]
+            },
+            {
+                  "name": "Museum Kota Makassar",
+                  "text": "Das Makassar City Museum ist ein Museum mit lokalen Ausstellungen in fort-rotterdam-makassar-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        119.40862,
+                        -5.134647
+                  ]
+            },
+            {
+                  "name": "Masjid 99 Kubah Asmaul-Husna",
+                  "text": "Die Masjid 99 Kubah Asmaul-Husna ist eine religiöse Kultstätte in fort-rotterdam-makassar-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        119.404045,
+                        -5.143772
+                  ]
+            },
+            {
+                  "name": "Fort Rotterdam",
+                  "text": "Fort Rotterdam ist eine ikonische Festung aus dem 17. Jahrhundert in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.405632,
+                        -5.133967
+                  ]
+            },
+            {
+                  "name": "Pantai Indah Bosowa",
+                  "text": "Pantai Indah Bosowa ist ein entspannender Strandbereich in fort-rotterdam-makassar-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        119.387655,
+                        -5.165998
+                  ]
+            },
+            {
+                  "name": "Vihara Cakrawala",
+                  "text": "Vihara Cakrawala ist ein buddhistischer Tempel in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.408753,
+                        -5.138752
+                  ]
+            },
+            {
+                  "name": "GKY Makassar Anggota PGI",
+                  "text": "GKY Makassar Anggota PGI ist ein christliches Gotteshaus in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.418503,
+                        -5.128842
+                  ]
+            },
+            {
+                  "name": "Mesjid Athirah",
+                  "text": "Mesjid Athirah ist eine Moschee für die muslimische Gemeinschaft in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.409956,
+                        -5.135098
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Masjid ist eine muslimische Gebetsstätte in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.406578,
+                        -5.135079
+                  ]
+            },
+            {
+                  "name": "Pintu Masuk GKI Sul Sel",
+                  "text": "Pintu Masuk GKI Sul Sel ist eine religiöse Stätte in fort-rotterdam-makassar-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        119.407442,
+                        -5.137527
+                  ]
+            },
+            {
+                  "name": "Masjid Anshar Somba Opu Kota Makassar",
+                  "text": "Die Masjid Anshar Somba Opu Kota Makassar ist eine lokale Moschee in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.407055,
+                        -5.140681
+                  ]
+            },
+            {
+                  "name": "Gereja Toraja Jemaat Bawakaraeng Klasis Makassar",
+                  "text": "Gereja Toraja Jemaat Bawakaraeng Klasis Makassar ist eine christliche Kirche in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.416127,
+                        -5.1354
+                  ]
+            },
+            {
+                  "name": "Katedral Makassar",
+                  "text": "Die Katedral Makassar ist eine bedeutende christliche Kirche in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.409976,
+                        -5.136107
+                  ]
+            },
+            {
+                  "name": "Vira Dharma",
+                  "text": "Vira Dharma ist ein buddhistisches Gotteshaus in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.417025,
+                        -5.133773
+                  ]
+            },
+            {
+                  "name": "Masjid Nurut Taqwa",
+                  "text": "Die Masjid Nurut Taqwa ist eine Moschee für die lokale Gemeinschaft in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.415269,
+                        -5.130878
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Insan Bontoala Parang",
+                  "text": "Die Masjid Nurul Insan Bontoala Parang ist eine islamische Kultstätte in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.417243,
+                        -5.128988
+                  ]
+            },
+            {
+                  "name": "Masjid Darur Rahmah Satangnga",
+                  "text": "Die Masjid Darur Rahmah Satangnga ist eine lokale Moschee in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.41666,
+                        -5.128073
+                  ]
+            },
+            {
+                  "name": "GPIB Immanuel",
+                  "text": "GPIB Immanuel ist eine christliche Kirche in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.40875,
+                        -5.133422
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Makassar",
+                  "text": "Die Masjid Raya Makassar ist eine markante Moschee in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.419705,
+                        -5.130567
+                  ]
+            },
+            {
+                  "name": "Wokky",
+                  "text": "Wokky ist ein geschäftiger Marktplatz in fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.405854,
+                        -5.138453
+                  ]
+            },
+            {
+                  "name": "Pasar Sentral Makassar",
+                  "text": "Pasar Sentral Makassar ist ein zentraler Marktplatz zum Einkaufen in fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.415111,
+                        -5.128947
+                  ]
+            },
+            {
+                  "name": "Libra",
+                  "text": "Libra ist ein kommerzieller Marktplatz in fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.405728,
+                        -5.136423
+                  ]
+            },
+            {
+                  "name": "Harapan Baru Gallery",
+                  "text": "Harapan Baru Gallery ist ein Einkaufsmarkt in fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.410972,
+                        -5.14008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MONUMEN MANDALA",
+                  "text": "A Monumen Mandala egy helyi emlékmű fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        119.413657,
+                        -5.137641
+                  ]
+            },
+            {
+                  "name": "Museum Kota Makassar",
+                  "text": "A Makassar City Museum egy helyi kiállításokat bemutató múzeum fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        119.40862,
+                        -5.134647
+                  ]
+            },
+            {
+                  "name": "Masjid 99 Kubah Asmaul-Husna",
+                  "text": "A Masjid 99 Kubah Asmaul-Husna egy vallási istentiszteleti hely fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        119.404045,
+                        -5.143772
+                  ]
+            },
+            {
+                  "name": "Fort Rotterdam",
+                  "text": "A Fort Rotterdam egy ikonikus 17. századi erőd fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.405632,
+                        -5.133967
+                  ]
+            },
+            {
+                  "name": "Pantai Indah Bosowa",
+                  "text": "A Pantai Indah Bosowa egy pihentető tengerparti terület fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "recreational",
+                  "coords": [
+                        119.387655,
+                        -5.165998
+                  ]
+            },
+            {
+                  "name": "Vihara Cakrawala",
+                  "text": "A Vihara Cakrawala egy buddhista templom fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        119.408753,
+                        -5.138752
+                  ]
+            },
+            {
+                  "name": "GKY Makassar Anggota PGI",
+                  "text": "A GKY Makassar Anggota PGI egy keresztény istentiszteleti hely fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.418503,
+                        -5.128842
+                  ]
+            },
+            {
+                  "name": "Mesjid Athirah",
+                  "text": "A Mesjid Athirah egy a muszlim közösséget szolgáló mecset fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        119.409956,
+                        -5.135098
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "A Masjid egy muszlim imaház fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.406578,
+                        -5.135079
+                  ]
+            },
+            {
+                  "name": "Pintu Masuk GKI Sul Sel",
+                  "text": "A Pintu Masuk GKI Sul Sel egy vallási helyszín fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        119.407442,
+                        -5.137527
+                  ]
+            },
+            {
+                  "name": "Masjid Anshar Somba Opu Kota Makassar",
+                  "text": "A Masjid Anshar Somba Opu Kota Makassar egy helyi mecset fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.407055,
+                        -5.140681
+                  ]
+            },
+            {
+                  "name": "Gereja Toraja Jemaat Bawakaraeng Klasis Makassar",
+                  "text": "A Gereja Toraja Jemaat Bawakaraeng Klasis Makassar egy keresztény templom fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        119.416127,
+                        -5.1354
+                  ]
+            },
+            {
+                  "name": "Katedral Makassar",
+                  "text": "A Katedral Makassar egy jelentős keresztény templom fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.409976,
+                        -5.136107
+                  ]
+            },
+            {
+                  "name": "Vira Dharma",
+                  "text": "A Vira Dharma egy buddhista istentiszteleti hely fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        119.417025,
+                        -5.133773
+                  ]
+            },
+            {
+                  "name": "Masjid Nurut Taqwa",
+                  "text": "A Masjid Nurut Taqwa egy helyi közösségi mecset fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.415269,
+                        -5.130878
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Insan Bontoala Parang",
+                  "text": "A Masjid Nurul Insan Bontoala Parang egy iszlám imaház fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        119.417243,
+                        -5.128988
+                  ]
+            },
+            {
+                  "name": "Masjid Darur Rahmah Satangnga",
+                  "text": "A Masjid Darur Rahmah Satangnga egy helyi mecset fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.41666,
+                        -5.128073
+                  ]
+            },
+            {
+                  "name": "GPIB Immanuel",
+                  "text": "A GPIB Immanuel egy keresztény templom fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        119.40875,
+                        -5.133422
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Makassar",
+                  "text": "A Masjid Raya Makassar egy kiemelkedő mecset fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.419705,
+                        -5.130567
+                  ]
+            },
+            {
+                  "name": "Wokky",
+                  "text": "A Wokky egy nyüzsgő piac fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        119.405854,
+                        -5.138453
+                  ]
+            },
+            {
+                  "name": "Pasar Sentral Makassar",
+                  "text": "A Pasar Sentral Makassar egy központi bevásárlópiac fort-rotterdam-makassar-history-v2 városában.",
+                  "category": "cultural",
+                  "coords": [
+                        119.415111,
+                        -5.128947
+                  ]
+            },
+            {
+                  "name": "Libra",
+                  "text": "A Libra egy kereskedelmi piac fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        119.405728,
+                        -5.136423
+                  ]
+            },
+            {
+                  "name": "Harapan Baru Gallery",
+                  "text": "A Harapan Baru Gallery egy bevásárlópiac fort-rotterdam-makassar-history-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        119.410972,
+                        -5.14008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MONUMEN MANDALA",
+                  "text": "Monumen Mandala este un monument local situat în fort-rotterdam-makassar-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        119.413657,
+                        -5.137641
+                  ]
+            },
+            {
+                  "name": "Museum Kota Makassar",
+                  "text": "Makassar City Museum este un muzeu cu expoziții locale din fort-rotterdam-makassar-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        119.40862,
+                        -5.134647
+                  ]
+            },
+            {
+                  "name": "Masjid 99 Kubah Asmaul-Husna",
+                  "text": "Masjid 99 Kubah Asmaul-Husna este un lăcaș de cult religios din fort-rotterdam-makassar-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        119.404045,
+                        -5.143772
+                  ]
+            },
+            {
+                  "name": "Fort Rotterdam",
+                  "text": "Fort Rotterdam este un fort emblematic din secolul al XVII-lea situat în fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.405632,
+                        -5.133967
+                  ]
+            },
+            {
+                  "name": "Pantai Indah Bosowa",
+                  "text": "Pantai Indah Bosowa este o zonă de plajă relaxantă din fort-rotterdam-makassar-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        119.387655,
+                        -5.165998
+                  ]
+            },
+            {
+                  "name": "Vihara Cakrawala",
+                  "text": "Vihara Cakrawala este un templu budist situat în fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.408753,
+                        -5.138752
+                  ]
+            },
+            {
+                  "name": "GKY Makassar Anggota PGI",
+                  "text": "GKY Makassar Anggota PGI este un lăcaș de cult creștin din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.418503,
+                        -5.128842
+                  ]
+            },
+            {
+                  "name": "Mesjid Athirah",
+                  "text": "Mesjid Athirah este o moschee destinată comunității musulmane din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.409956,
+                        -5.135098
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Masjid este un spațiu de rugăciune musulman din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.406578,
+                        -5.135079
+                  ]
+            },
+            {
+                  "name": "Pintu Masuk GKI Sul Sel",
+                  "text": "Pintu Masuk GKI Sul Sel este un sit religios situat în fort-rotterdam-makassar-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        119.407442,
+                        -5.137527
+                  ]
+            },
+            {
+                  "name": "Masjid Anshar Somba Opu Kota Makassar",
+                  "text": "Masjid Anshar Somba Opu Kota Makassar este o moschee locală din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.407055,
+                        -5.140681
+                  ]
+            },
+            {
+                  "name": "Gereja Toraja Jemaat Bawakaraeng Klasis Makassar",
+                  "text": "Gereja Toraja Jemaat Bawakaraeng Klasis Makassar este o biserică creștină din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.416127,
+                        -5.1354
+                  ]
+            },
+            {
+                  "name": "Katedral Makassar",
+                  "text": "Katedral Makassar este o biserică creștină proeminentă din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.409976,
+                        -5.136107
+                  ]
+            },
+            {
+                  "name": "Vira Dharma",
+                  "text": "Vira Dharma este un lăcaș de cult budist din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.417025,
+                        -5.133773
+                  ]
+            },
+            {
+                  "name": "Masjid Nurut Taqwa",
+                  "text": "Masjid Nurut Taqwa este o moschee pentru comunitatea locală din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.415269,
+                        -5.130878
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Insan Bontoala Parang",
+                  "text": "Masjid Nurul Insan Bontoala Parang este un lăcaș de cult islamic din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.417243,
+                        -5.128988
+                  ]
+            },
+            {
+                  "name": "Masjid Darur Rahmah Satangnga",
+                  "text": "Masjid Darur Rahmah Satangnga este o moschee locală situată în fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.41666,
+                        -5.128073
+                  ]
+            },
+            {
+                  "name": "GPIB Immanuel",
+                  "text": "GPIB Immanuel este o biserică creștină din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.40875,
+                        -5.133422
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Makassar",
+                  "text": "Masjid Raya Makassar este o moschee proeminentă din fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.419705,
+                        -5.130567
+                  ]
+            },
+            {
+                  "name": "Wokky",
+                  "text": "Wokky este o piață aglomerată din fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.405854,
+                        -5.138453
+                  ]
+            },
+            {
+                  "name": "Pasar Sentral Makassar",
+                  "text": "Pasar Sentral Makassar este o piață centrală pentru cumpărături în fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.415111,
+                        -5.128947
+                  ]
+            },
+            {
+                  "name": "Libra",
+                  "text": "Libra este o piață comercială situată în fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.405728,
+                        -5.136423
+                  ]
+            },
+            {
+                  "name": "Harapan Baru Gallery",
+                  "text": "Harapan Baru Gallery este o piață de cumpărături din fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.410972,
+                        -5.14008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MONUMEN MANDALA",
+                  "text": "The Monumen Mandala is a local monument located in fort-rotterdam-makassar-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        119.413657,
+                        -5.137641
+                  ]
+            },
+            {
+                  "name": "Makassar City Museum",
+                  "text": "The Makassar City Museum is a museum featuring local exhibits in fort-rotterdam-makassar-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        119.40862,
+                        -5.134647
+                  ]
+            },
+            {
+                  "name": "Masjid 99 Kubah Asmaul-Husna",
+                  "text": "Masjid 99 Kubah Asmaul-Husna is a religious place of worship in fort-rotterdam-makassar-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        119.404045,
+                        -5.143772
+                  ]
+            },
+            {
+                  "name": "Fort Rotterdam",
+                  "text": "Fort Rotterdam is an iconic 17th-century fort attraction located in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.405632,
+                        -5.133967
+                  ]
+            },
+            {
+                  "name": "Pantai Indah Bosowa",
+                  "text": "Pantai Indah Bosowa is a relaxing beach area located in fort-rotterdam-makassar-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        119.387655,
+                        -5.165998
+                  ]
+            },
+            {
+                  "name": "Vihara Cakrawala",
+                  "text": "Vihara Cakrawala is a Buddhist temple situated in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.408753,
+                        -5.138752
+                  ]
+            },
+            {
+                  "name": "GKY Makassar Anggota PGI",
+                  "text": "GKY Makassar Anggota PGI is a Christian place of worship located in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.418503,
+                        -5.128842
+                  ]
+            },
+            {
+                  "name": "Mesjid Athirah",
+                  "text": "Mesjid Athirah is a mosque serving the Muslim community in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.409956,
+                        -5.135098
+                  ]
+            },
+            {
+                  "name": "Masjid",
+                  "text": "Masjid is a Muslim prayer facility located in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.406578,
+                        -5.135079
+                  ]
+            },
+            {
+                  "name": "Pintu Masuk GKI Sul Sel",
+                  "text": "Pintu Masuk GKI Sul Sel is a religious site located in fort-rotterdam-makassar-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        119.407442,
+                        -5.137527
+                  ]
+            },
+            {
+                  "name": "Masjid Anshar Somba Opu Kota Makassar",
+                  "text": "Masjid Anshar Somba Opu Kota Makassar is a local mosque in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.407055,
+                        -5.140681
+                  ]
+            },
+            {
+                  "name": "Gereja Toraja Jemaat Bawakaraeng Klasis Makassar",
+                  "text": "Gereja Toraja Jemaat Bawakaraeng Klasis Makassar is a Christian church situated in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.416127,
+                        -5.1354
+                  ]
+            },
+            {
+                  "name": "Katedral Makassar",
+                  "text": "Katedral Makassar is a prominent Christian church located in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.409976,
+                        -5.136107
+                  ]
+            },
+            {
+                  "name": "Vira Dharma",
+                  "text": "Vira Dharma is a Buddhist place of worship situated in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.417025,
+                        -5.133773
+                  ]
+            },
+            {
+                  "name": "Masjid Nurut Taqwa",
+                  "text": "Masjid Nurut Taqwa is a mosque serving the local community in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.415269,
+                        -5.130878
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Insan Bontoala Parang",
+                  "text": "Masjid Nurul Insan Bontoala Parang is an Islamic place of worship located in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.417243,
+                        -5.128988
+                  ]
+            },
+            {
+                  "name": "Masjid Darur Rahmah Satangnga",
+                  "text": "Masjid Darur Rahmah Satangnga is a local mosque found in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.41666,
+                        -5.128073
+                  ]
+            },
+            {
+                  "name": "GPIB Immanuel",
+                  "text": "GPIB Immanuel is a Christian church serving fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.40875,
+                        -5.133422
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Makassar",
+                  "text": "Masjid Raya Makassar is a prominent mosque situated in fort-rotterdam-makassar-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        119.419705,
+                        -5.130567
+                  ]
+            },
+            {
+                  "name": "Wokky",
+                  "text": "Wokky is a busy marketplace to explore in fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.405854,
+                        -5.138453
+                  ]
+            },
+            {
+                  "name": "Pasar Sentral Makassar",
+                  "text": "Pasar Sentral Makassar is a central marketplace for shopping in fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.415111,
+                        -5.128947
+                  ]
+            },
+            {
+                  "name": "Libra",
+                  "text": "Libra is a commercial marketplace situated in fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.405728,
+                        -5.136423
+                  ]
+            },
+            {
+                  "name": "Harapan Baru Gallery",
+                  "text": "Harapan Baru Gallery is a shopping marketplace located in fort-rotterdam-makassar-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        119.410972,
+                        -5.14008
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-SN",
     coords: [119.4050, -5.1398],
@@ -375,7 +9627,736 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     }
   },
   {
-    id: "muara-takus-temples-history-v2",
+    id: "muara-takus-temples-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Langgai",
+                  "text": "Ein grüner Berggipfel, der den antiken buddhistischen Stupa-Komplex von Muara Takus überragt.",
+                  "category": "natural",
+                  "coords": [
+                        100.6541,
+                        0.3742
+                  ]
+            },
+            {
+                  "name": "Gunung Bongsu",
+                  "text": "Ein bedeutender Gipfel im Hochland von Riau, der sich in der Nähe des gewundenen Kampar-Flusses erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        100.6266,
+                        0.3218
+                  ]
+            },
+            {
+                  "name": "Bukit Malim",
+                  "text": "Ein tropischer Hügel in der Nähe der historischen Ruinen, bekannt für seine dichte Vegetation und Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        100.5633,
+                        0.3016
+                  ]
+            },
+            {
+                  "name": "Bukit Takus",
+                  "text": "Eine Erhebung, die einen weiten Blick über die archäologische Stätte und das umliegende Regenwaldgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        100.5853,
+                        0.3813
+                  ]
+            },
+            {
+                  "name": "Bukit Panjang",
+                  "text": "Ein langgestreckter Bergrücken mit Blick auf die Palmenplantagen und das ländliche Gelände von Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.5757,
+                        0.2815
+                  ]
+            },
+            {
+                  "name": "Bukit Tanahbardangung",
+                  "text": "Ein lokaler Gipfel, der das malerische Panorama der historischen Tempellandschaft im Osten Sumatras ergänzt.",
+                  "category": "natural",
+                  "coords": [
+                        100.6282,
+                        0.2555
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung",
+                  "text": "Ein markanter Hügel in der Kurve des Kampar-Kanan-Flusses, unweit des heiligen Zentrums von Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.6058,
+                        0.2737
+                  ]
+            },
+            {
+                  "name": "Bukit Baranganbarunguk",
+                  "text": "Ein bewaldeter Berg, der Teil der natürlichen Kulisse für die bedeutendste buddhistische Stätte der Provinz Riau ist.",
+                  "category": "natural",
+                  "coords": [
+                        100.6708,
+                        0.2913
+                  ]
+            },
+            {
+                  "name": "Bukit Binamang",
+                  "text": "Ein tropischer Berggipfel in der Nähe des historischen Muara-Takus-Tempelkomplexes in der Provinz Riau.",
+                  "category": "natural",
+                  "coords": [
+                        100.6843,
+                        0.3094
+                  ]
+            },
+            {
+                  "name": "Pematang Kayubarkuam",
+                  "text": "Dieser bewaldete Gipfel überragt die Landschaft um die antiken buddhistischen Stätten von Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.6779,
+                        0.33
+                  ]
+            },
+            {
+                  "name": "Bukit Katangka",
+                  "text": "Ein Gipfel in der Region Muara Takus, der Teil des zerklüfteten tropischen Geländes von Zentralsumatra ist.",
+                  "category": "natural",
+                  "coords": [
+                        100.6947,
+                        0.3482
+                  ]
+            },
+            {
+                  "name": "Bukit Karaksapipir",
+                  "text": "Ein markanter Gipfel in der Nähe des Kampar-Flusses, der die Umgebung der buddhistischen Ruinen von Muara Takus prägt.",
+                  "category": "natural",
+                  "coords": [
+                        100.7183,
+                        0.3161
+                  ]
+            },
+            {
+                  "name": "Candi Muara Takus",
+                  "text": "Eine bedeutende archäologische Stätte mit buddhistischen Stupas aus rotem Backstein, die aus dem 11. Jahrhundert stammen.",
+                  "category": "historical",
+                  "coords": [
+                        100.642149,
+                        0.335964
+                  ]
+            },
+            {
+                  "name": "Musallah Miftahul Jannah",
+                  "text": "Ein kleiner muslimischer Gebetsraum in der Gemeinde Muara Takus für die täglichen Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        100.605332,
+                        0.30584
+                  ]
+            },
+            {
+                  "name": "Musollah",
+                  "text": "Ein lokaler muslimischer Gebetsort, der der Dorfgemeinschaft in der Nähe der antiken Tempel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        100.606699,
+                        0.308894
+                  ]
+            },
+            {
+                  "name": "Musollah Al Muqrabin",
+                  "text": "Ein einfacher muslimischer Gebetsraum in der Nähe des Kampar-Flusses für die lokale Bevölkerung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.60753,
+                        0.306646
+                  ]
+            },
+            {
+                  "name": "Musollah Miftahul Jannah",
+                  "text": "Diese Musallah bietet einen ruhigen Raum für das Gebet inmitten der ländlichen Umgebung von Tanjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.608862,
+                        0.304421
+                  ]
+            },
+            {
+                  "name": "Musallah",
+                  "text": "Ein kleiner Gebetsraum, der als spirituelles Zentrum für die Bewohner des Dorfes Muara Takus fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.612607,
+                        0.307154
+                  ]
+            },
+            {
+                  "name": "Mesjid Putih",
+                  "text": "Eine lokale Moschee in Tanjung, die durch ihre schlichte Architektur und ihre Bedeutung für die Gemeinde besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        100.606956,
+                        0.299818
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Tanjung",
+                  "text": "Ein lebendiger Dorfmarkt, auf dem lokale Erzeugnisse und Handwerk aus der Region Tanjung gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        100.605936,
+                        0.299092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Langgai",
+                  "text": "Zöldellő hegycsúcs, amely Muara Takus ősi buddhista sztúpa-komplexumára néz.",
+                  "category": "natural",
+                  "coords": [
+                        100.6541,
+                        0.3742
+                  ]
+            },
+            {
+                  "name": "Gunung Bongsu",
+                  "text": "Jelentős csúcs Riau felföldjén, amely a kanyargós Kampar-folyó közelében emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        100.6266,
+                        0.3218
+                  ]
+            },
+            {
+                  "name": "Bukit Malim",
+                  "text": "Trópusi domb a történelmi romok közelében, amely sűrű vegetációjáról és biodiverzitásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        100.5633,
+                        0.3016
+                  ]
+            },
+            {
+                  "name": "Bukit Takus",
+                  "text": "Kiemelkedés, amely széles kilátást nyújt a régészeti lelőhelyre és a környező esőerdőre.",
+                  "category": "natural",
+                  "coords": [
+                        100.5853,
+                        0.3813
+                  ]
+            },
+            {
+                  "name": "Bukit Panjang",
+                  "text": "Hosszúkás hegygerinc, amely Muara Takus pálmaültetvényeire és vidéki tájaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        100.5757,
+                        0.2815
+                  ]
+            },
+            {
+                  "name": "Bukit Tanahbardangung",
+                  "text": "Helyi csúcs, amely kiegészíti Kelet-Szumátra történelmi templomvidékének festői panorámáját.",
+                  "category": "natural",
+                  "coords": [
+                        100.6282,
+                        0.2555
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung",
+                  "text": "Jellegzetes domb a Kampar Kanan folyó kanyarulatában, nem messze Muara Takus szent központjától.",
+                  "category": "natural",
+                  "coords": [
+                        100.6058,
+                        0.2737
+                  ]
+            },
+            {
+                  "name": "Bukit Baranganbarunguk",
+                  "text": "Erdős hegy, amely Riau tartomány legjelentősebb buddhista lelőhelyének természetes hátterét alkotja.",
+                  "category": "natural",
+                  "coords": [
+                        100.6708,
+                        0.2913
+                  ]
+            },
+            {
+                  "name": "Bukit Binamang",
+                  "text": "Egy trópusi hegycsúcs a történelmi Muara Takus templomegyüttes közelében, Riau tartományban.",
+                  "category": "natural",
+                  "coords": [
+                        100.6843,
+                        0.3094
+                  ]
+            },
+            {
+                  "name": "Pematang Kayubarkuam",
+                  "text": "Ez az erdős csúcs magasodik a Muara Takus környéki ősi buddhista helyszínek felett.",
+                  "category": "natural",
+                  "coords": [
+                        100.6779,
+                        0.33
+                  ]
+            },
+            {
+                  "name": "Bukit Katangka",
+                  "text": "A Muara Takus régió egyik csúcsa, amely Közép-Szumátra tagolt trópusi terepének része.",
+                  "category": "natural",
+                  "coords": [
+                        100.6947,
+                        0.3482
+                  ]
+            },
+            {
+                  "name": "Bukit Karaksapipir",
+                  "text": "Egy jellegzetes csúcs a Kampar-folyó közelében, amely a Muara Takus-i buddhista romok környékét uralja.",
+                  "category": "natural",
+                  "coords": [
+                        100.7183,
+                        0.3161
+                  ]
+            },
+            {
+                  "name": "Candi Muara Takus",
+                  "text": "Jelentős régészeti lelőhely 11. századi vörös tégla buddhista sztúpákkal, amelyek a Srívidzsaja Birodalom idejéből származnak.",
+                  "category": "historical",
+                  "coords": [
+                        100.642149,
+                        0.335964
+                  ]
+            },
+            {
+                  "name": "Musallah Miftahul Jannah",
+                  "text": "Egy kis muszlim imaház Muara Takus közösségében a napi áhítatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        100.605332,
+                        0.30584
+                  ]
+            },
+            {
+                  "name": "Musollah",
+                  "text": "Helyi muszlim imádkozóhely, amely az ősi templomok közelében lévő falusi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        100.606699,
+                        0.308894
+                  ]
+            },
+            {
+                  "name": "Musollah Al Muqrabin",
+                  "text": "Egy egyszerű muszlim imaház a Kampar-folyó közelében a helyi lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        100.60753,
+                        0.306646
+                  ]
+            },
+            {
+                  "name": "Musollah Miftahul Jannah",
+                  "text": "Ez a muszalla csendes helyet biztosít az imádkozáshoz Tanjung vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        100.608862,
+                        0.304421
+                  ]
+            },
+            {
+                  "name": "Musallah",
+                  "text": "Egy kis imaház, amely spirituális központként szolgál Muara Takus falu lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        100.612607,
+                        0.307154
+                  ]
+            },
+            {
+                  "name": "Mesjid Putih",
+                  "text": "Tanjung helyi mecsetje, amely egyszerű építészetével és közösségi jelentőségével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        100.606956,
+                        0.299818
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Tanjung",
+                  "text": "Egy nyüzsgő falusi piac, ahol Tanjung környékének helyi termékeit és kézműves áruit árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        100.605936,
+                        0.299092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Langgai",
+                  "text": "Un vârf montan înverzit care domină complexul antic de stupe budiste de la Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.6541,
+                        0.3742
+                  ]
+            },
+            {
+                  "name": "Gunung Bongsu",
+                  "text": "Un vârf semnificativ din zonele înalte din Riau, care se ridică în apropierea râului Kampar șerpuitor.",
+                  "category": "natural",
+                  "coords": [
+                        100.6266,
+                        0.3218
+                  ]
+            },
+            {
+                  "name": "Bukit Malim",
+                  "text": "Un deal tropical situat lângă ruinele istorice, cunoscut pentru vegetația sa densă și biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        100.5633,
+                        0.3016
+                  ]
+            },
+            {
+                  "name": "Bukit Takus",
+                  "text": "O cotă care oferă o vedere largă asupra sitului arheologic și a zonei de pădure tropicală înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        100.5853,
+                        0.3813
+                  ]
+            },
+            {
+                  "name": "Bukit Panjang",
+                  "text": "O creastă alungită cu vedere spre plantațiile de palmieri și terenul rural din Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.5757,
+                        0.2815
+                  ]
+            },
+            {
+                  "name": "Bukit Tanahbardangung",
+                  "text": "Un vârf local care completează panorama pitorească a peisajului istoric al templelor din estul Sumatrei.",
+                  "category": "natural",
+                  "coords": [
+                        100.6282,
+                        0.2555
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung",
+                  "text": "Un deal proeminent situat în cotul râului Kampar Kanan, nu departe de centrul sacru de la Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.6058,
+                        0.2737
+                  ]
+            },
+            {
+                  "name": "Bukit Baranganbarunguk",
+                  "text": "Un munte împădurit care face parte din cadrul natural pentru cel mai important sit budist din provincia Riau.",
+                  "category": "natural",
+                  "coords": [
+                        100.6708,
+                        0.2913
+                  ]
+            },
+            {
+                  "name": "Bukit Binamang",
+                  "text": "Un vârf muntos tropical situat în apropierea complexului istoric de temple Muara Takus din provincia Riau.",
+                  "category": "natural",
+                  "coords": [
+                        100.6843,
+                        0.3094
+                  ]
+            },
+            {
+                  "name": "Pematang Kayubarkuam",
+                  "text": "Acest vârf împădurit domină peisajul din jurul siturilor budiste antice de la Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.6779,
+                        0.33
+                  ]
+            },
+            {
+                  "name": "Bukit Katangka",
+                  "text": "Un vârf din regiunea Muara Takus, făcând parte din terenul tropical accidentat al Sumatrei Centrale.",
+                  "category": "natural",
+                  "coords": [
+                        100.6947,
+                        0.3482
+                  ]
+            },
+            {
+                  "name": "Bukit Karaksapipir",
+                  "text": "Un vârf distinctiv lângă râul Kampar, care domină împrejurimile ruinelor budiste de la Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.7183,
+                        0.3161
+                  ]
+            },
+            {
+                  "name": "Candi Muara Takus",
+                  "text": "Un sit arheologic important cu stupe budiste din cărămidă roșie, datând din secolul al XI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        100.642149,
+                        0.335964
+                  ]
+            },
+            {
+                  "name": "Musallah Miftahul Jannah",
+                  "text": "O mică sală de rugăciune musulmană în comunitatea Muara Takus pentru devoțiunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        100.605332,
+                        0.30584
+                  ]
+            },
+            {
+                  "name": "Musollah",
+                  "text": "Un loc local de rugăciune musulman care deservește comunitatea satului de lângă templele antice.",
+                  "category": "landmark",
+                  "coords": [
+                        100.606699,
+                        0.308894
+                  ]
+            },
+            {
+                  "name": "Musollah Al Muqrabin",
+                  "text": "O sală de rugăciune musulmană simplă, situată lângă râul Kampar, pentru populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        100.60753,
+                        0.306646
+                  ]
+            },
+            {
+                  "name": "Musollah Miftahul Jannah",
+                  "text": "Această musallah oferă un spațiu liniștit pentru rugăciune în mijlocul cadrului rural din Tanjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.608862,
+                        0.304421
+                  ]
+            },
+            {
+                  "name": "Musallah",
+                  "text": "O mică sală de rugăciune care funcționează ca centru spiritual pentru locuitorii satului Muara Takus.",
+                  "category": "landmark",
+                  "coords": [
+                        100.612607,
+                        0.307154
+                  ]
+            },
+            {
+                  "name": "Mesjid Putih",
+                  "text": "O moschee locală din Tanjung, remarcabilă prin arhitectura sa simplă și importanța sa pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        100.606956,
+                        0.299818
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Tanjung",
+                  "text": "O piață de sat plină de viață, unde se vând produse locale și obiecte de artizanat din regiunea Tanjung.",
+                  "category": "cultural",
+                  "coords": [
+                        100.605936,
+                        0.299092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Langgai",
+                  "text": "A verdant mountain peak overlooking the ancient Buddhist stupa complex of Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.6541,
+                        0.3742
+                  ]
+            },
+            {
+                  "name": "Gunung Bongsu",
+                  "text": "A significant peak in the Riau highlands, rising near the winding Kampar River.",
+                  "category": "natural",
+                  "coords": [
+                        100.6266,
+                        0.3218
+                  ]
+            },
+            {
+                  "name": "Bukit Malim",
+                  "text": "A tropical hill near the historical ruins, known for its dense vegetation and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        100.5633,
+                        0.3016
+                  ]
+            },
+            {
+                  "name": "Bukit Takus",
+                  "text": "An elevation offering wide views over the archaeological site and the surrounding rainforest area.",
+                  "category": "natural",
+                  "coords": [
+                        100.5853,
+                        0.3813
+                  ]
+            },
+            {
+                  "name": "Bukit Panjang",
+                  "text": "An elongated ridge overlooking the palm plantations and rural terrain of Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.5757,
+                        0.2815
+                  ]
+            },
+            {
+                  "name": "Bukit Tanahbardangung",
+                  "text": "A local summit that complements the scenic panorama of the historical temple landscape in eastern Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        100.6282,
+                        0.2555
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung",
+                  "text": "A prominent hill located in the bend of the Kampar Kanan River, not far from the sacred center of Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.6058,
+                        0.2737
+                  ]
+            },
+            {
+                  "name": "Bukit Baranganbarunguk",
+                  "text": "A forested mountain forming part of the natural backdrop for Riau Province's most significant Buddhist site.",
+                  "category": "natural",
+                  "coords": [
+                        100.6708,
+                        0.2913
+                  ]
+            },
+            {
+                  "name": "Bukit Binamang",
+                  "text": "A tropical mountain peak located near the historic Muara Takus temple complex in Riau province.",
+                  "category": "natural",
+                  "coords": [
+                        100.6843,
+                        0.3094
+                  ]
+            },
+            {
+                  "name": "Pematang Kayubarkuam",
+                  "text": "This forested peak overlooks the landscape surrounding the ancient Buddhist sites of Muara Takus.",
+                  "category": "natural",
+                  "coords": [
+                        100.6779,
+                        0.33
+                  ]
+            },
+            {
+                  "name": "Bukit Katangka",
+                  "text": "A peak in the Muara Takus region, forming part of the rugged tropical terrain of Central Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        100.6947,
+                        0.3482
+                  ]
+            },
+            {
+                  "name": "Bukit Karaksapipir",
+                  "text": "A prominent peak near the Kampar River that defines the surroundings of the Muara Takus Buddhist ruins.",
+                  "category": "natural",
+                  "coords": [
+                        100.7183,
+                        0.3161
+                  ]
+            },
+            {
+                  "name": "Candi Muara Takus",
+                  "text": "A significant archaeological site featuring red-brick Buddhist stupas dating back to the 11th century.",
+                  "category": "historical",
+                  "coords": [
+                        100.642149,
+                        0.335964
+                  ]
+            },
+            {
+                  "name": "Musallah Miftahul Jannah",
+                  "text": "A small Muslim prayer room in the Muara Takus community for daily devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        100.605332,
+                        0.30584
+                  ]
+            },
+            {
+                  "name": "Musollah",
+                  "text": "A local Muslim prayer site serving the village community near the ancient temples.",
+                  "category": "landmark",
+                  "coords": [
+                        100.606699,
+                        0.308894
+                  ]
+            },
+            {
+                  "name": "Musollah Al Muqrabin",
+                  "text": "A simple Muslim prayer room located near the Kampar River for the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        100.60753,
+                        0.306646
+                  ]
+            },
+            {
+                  "name": "Musollah Miftahul Jannah",
+                  "text": "This musallah provides a quiet space for prayer amidst the rural setting of Tanjung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.608862,
+                        0.304421
+                  ]
+            },
+            {
+                  "name": "Musallah",
+                  "text": "A small prayer room functioning as a spiritual center for the residents of Muara Takus village.",
+                  "category": "landmark",
+                  "coords": [
+                        100.612607,
+                        0.307154
+                  ]
+            },
+            {
+                  "name": "Mesjid Putih",
+                  "text": "A local mosque in Tanjung, notable for its simple architecture and community importance.",
+                  "category": "landmark",
+                  "coords": [
+                        100.606956,
+                        0.299818
+                  ]
+            },
+            {
+                  "name": "Pasar Desa Tanjung",
+                  "text": "A vibrant village market where local produce and crafts from the Tanjung area are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        100.605936,
+                        0.299092
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-RI",
     coords: [100.6433, 0.3361],
@@ -423,7 +10404,988 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "lawang-sewu-history-v2",
+    id: "lawang-sewu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lawang Sewu",
+                  "text": "Ein ikonisches Kolonialgebäude, bekannt als „Tausend Türen“, mit beeindruckenden Buntglasfenstern und langen Korridoren.",
+                  "category": "museum",
+                  "coords": [
+                        110.410758,
+                        -6.983975
+                  ]
+            },
+            {
+                  "name": "GPIB Immanuel",
+                  "text": "Die älteste protestantische Kirche in Zentraljava, berühmt für ihre riesige Kupferkuppel und den neoklassizistischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        110.427481,
+                        -6.968163
+                  ]
+            },
+            {
+                  "name": "Klenteng Tay Kak Sie",
+                  "text": "Ein 1746 gegründeter chinesischer Tempel, der für seine kunstvollen Schnitzereien und das traditionelle Pagodendach bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        110.427734,
+                        -6.974018
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Semawis",
+                  "text": "Dieser lebhafte kulinarische Nachtmarkt im Herzen von Chinatowns Gängen ist berühmt für seine vielfältigen lokalen Streetfood-Spezialitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        110.426645,
+                        -6.974687
+                  ]
+            },
+            {
+                  "name": "Museum Mandala Bhakti",
+                  "text": "Dieses Militärmuseum befindet sich in einem ehemaligen niederländischen Kolonialgericht gegenüber dem Denkmal Tugu Muda.",
+                  "category": "museum",
+                  "coords": [
+                        110.408787,
+                        -6.984808
+                  ]
+            },
+            {
+                  "name": "Museum Kota Lama",
+                  "text": "Das Museum in der Altstadt nutzt moderne Technik, um die Geschichte und Stadtentwicklung von Semarang in einem historischen Gebäude zu zeigen.",
+                  "category": "museum",
+                  "coords": [
+                        110.430853,
+                        -6.969443
+                  ]
+            },
+            {
+                  "name": "3D Trick Art Museum",
+                  "text": "Diese Galerie in der Altstadt bietet interaktive Fotomöglichkeiten mit großflächigen optischen Täuschungen und 3D-Gemälden.",
+                  "category": "museum",
+                  "coords": [
+                        110.426229,
+                        -6.968422
+                  ]
+            },
+            {
+                  "name": "Mushola Al Rizqi Sawah Besar",
+                  "text": "Dieser kleine islamische Gebetsraum dient der lokalen Gemeinschaft im Viertel Sawah Besar für die täglichen Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        110.447503,
+                        -6.964364
+                  ]
+            },
+            {
+                  "name": "Klenteng Siu Hok Bio",
+                  "text": "Dieser älteste chinesische Tempel in Semarangs Chinatown ist dem Erdgott gewidmet und zeichnet sich durch seine traditionelle rote Holzarchitektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        110.425533,
+                        -6.978574
+                  ]
+            },
+            {
+                  "name": "Gereja Hati Kudus Yesus",
+                  "text": "Diese katholische Kirche im Viertel Randusari ist ein wichtiges religiöses Zentrum mit einer markanten Fassade und regelmäßigen Messen.",
+                  "category": "religious",
+                  "coords": [
+                        110.401741,
+                        -6.963895
+                  ]
+            },
+            {
+                  "name": "Kapel Adorasi Ekaristi Abadi",
+                  "text": "Diese Kapelle in der Nähe der Kathedrale ist der stillen Anbetung gewidmet und bietet Besuchern einen Ort für Gebet und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        110.401892,
+                        -6.965383
+                  ]
+            },
+            {
+                  "name": "Mushola LDII",
+                  "text": "Diese Moschee im Stadtteil Sawah Besar ist ein lokales Zentrum für Gebete und religiöse Aktivitäten der LDII-Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        110.410251,
+                        -6.968589
+                  ]
+            },
+            {
+                  "name": "Masjid Baitus Salam",
+                  "text": "Dieser Ort des Gebets ist eine traditionelle Moschee, die die Bewohner der umliegenden Wohngebiete für die täglichen gottesdienstlichen Handlungen nutzen.",
+                  "category": "religious",
+                  "coords": [
+                        110.439134,
+                        -6.946177
+                  ]
+            },
+            {
+                  "name": "Pasar Karang Kembang Jagalan",
+                  "text": "Dieser lokale Markt im Viertel Jagalan ist ein typischer indonesischer Marktplatz für den täglichen Bedarf an frischen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        110.427413,
+                        -6.980535
+                  ]
+            },
+            {
+                  "name": "Pasar Kokrosono",
+                  "text": "Der Markt liegt in der Nähe des Flusses und ist bekannt für seinen Handel mit frischem Fisch und landwirtschaftlichen Erzeugnissen der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        110.402148,
+                        -6.975481
+                  ]
+            },
+            {
+                  "name": "Pasar Ya'ik Baru",
+                  "text": "Dieser traditionelle Markt neben dem berühmten Pasar Johar bietet eine große Auswahl an Textilien und Haushaltswaren zu günstigen Preisen.",
+                  "category": "cultural",
+                  "coords": [
+                        110.423791,
+                        -6.971565
+                  ]
+            },
+            {
+                  "name": "Pasar Prembaen",
+                  "text": "Dieser historische Markt im Stadtzentrum ist ein wichtiger Knotenpunkt für den Handel mit traditionellen Snacks und täglichen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        110.417521,
+                        -6.978751
+                  ]
+            },
+            {
+                  "name": "Pasar Tanah Mas",
+                  "text": "Der Markt versorgt das Wohngebiet Tanah Mas mit einer Vielzahl an frischen Produkten und lokalen Spezialitäten in entspannter Atmosphäre.",
+                  "category": "cultural",
+                  "coords": [
+                        110.401867,
+                        -6.960251
+                  ]
+            },
+            {
+                  "name": "Pasar Boom Lama",
+                  "text": "Dieser Markt in der Nähe des alten Kanals blickt auf eine lange Handelstradition zurück und bietet heute vor allem Grundnahrungsmittel an.",
+                  "category": "cultural",
+                  "coords": [
+                        110.418244,
+                        -6.962174
+                  ]
+            },
+            {
+                  "name": "Pasar Purwogondo",
+                  "text": "Ein traditioneller Nachbarschaftsmarkt, auf dem man das authentische Alltagsleben von Semarang beim Kauf von Gewürzen und Gemüse erleben kann.",
+                  "category": "cultural",
+                  "coords": [
+                        110.414912,
+                        -6.967554
+                  ]
+            },
+            {
+                  "name": "Pasar Kanjengan",
+                  "text": "Der Markt ist Teil des größeren Johar-Komplexes und bietet vor allem Kleidung, Schuhe und verschiedene Textilprodukte an.",
+                  "category": "cultural",
+                  "coords": [
+                        110.424176,
+                        -6.973381
+                  ]
+            },
+            {
+                  "name": "Pasar Kobong",
+                  "text": "Dieser geschäftige Markt ist als der größte Fischmarkt der Stadt bekannt, auf dem frühmorgens fangfrische Meeresfrüchte gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        110.434545,
+                        -6.963165
+                  ]
+            },
+            {
+                  "name": "Pasar Rejomulyo",
+                  "text": "Dieser modernisierte Markt dient als wichtiges Vertriebszentrum für Fisch und landwirtschaftliche Produkte in der Region Semarang.",
+                  "category": "cultural",
+                  "coords": [
+                        110.435749,
+                        -6.962075
+                  ]
+            },
+            {
+                  "name": "Pasar Waru",
+                  "text": "Ein lokaler Marktplatz, der das Viertel Waru mit frischen Zutaten versorgt und für seine günstigen Preise bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        110.44588,
+                        -6.965164
+                  ]
+            },
+            {
+                  "name": "Pasar Dargo",
+                  "text": "Dieser Markt ist das wichtigste Zentrum für den Reisgroßhandel in Semarang und beliefert die gesamte Stadt mit verschiedenen Getreidesorten.",
+                  "category": "cultural",
+                  "coords": [
+                        110.433597,
+                        -6.975218
+                  ]
+            },
+            {
+                  "name": "Pasar Randusari",
+                  "text": "Der Markt liegt günstig in der Nähe der Kathedrale und ist besonders für seinen Blumenmarkt und frisches Obst bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        110.413724,
+                        -6.98814
+                  ]
+            },
+            {
+                  "name": "Pasar Bulu",
+                  "text": "Dieser mehrstöckige traditionelle Markt in der Nähe von Tugu Muda bietet eine breite Palette an Waren von Lebensmitteln bis hin zu Kleidung.",
+                  "category": "cultural",
+                  "coords": [
+                        110.407667,
+                        -6.984139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lawang Sewu",
+                  "text": "Ikonikus gyarmati épület, amelyet „Ezer ajtó” néven ismernek, lenyűgöző színes üvegablakokkal és hosszú folyosókkal.",
+                  "category": "museum",
+                  "coords": [
+                        110.410758,
+                        -6.983975
+                  ]
+            },
+            {
+                  "name": "GPIB Immanuel",
+                  "text": "Közép-Jáva legrégebbi protestáns temploma, amely hatalmas rézkupolájáról és neoklasszicista stílusáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        110.427481,
+                        -6.968163
+                  ]
+            },
+            {
+                  "name": "Klenteng Tay Kak Sie",
+                  "text": "1746-ban alapított kínai templom, amely díszes faragványairól és hagyományos pagoda-tetőjéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        110.427734,
+                        -6.974018
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Semawis",
+                  "text": "Ez a pezsgő kulináris éjszakai piac a kínai negyed szívében híres a változatos helyi utcai ételeiről.",
+                  "category": "landmark",
+                  "coords": [
+                        110.426645,
+                        -6.974687
+                  ]
+            },
+            {
+                  "name": "Museum Mandala Bhakti",
+                  "text": "Ez a hadtörténeti múzeum egy egykori holland gyarmati bírósági épületben található, a Tugu Muda emlékművel szemben.",
+                  "category": "museum",
+                  "coords": [
+                        110.408787,
+                        -6.984808
+                  ]
+            },
+            {
+                  "name": "Museum Kota Lama",
+                  "text": "Az óvárosi múzeum modern technológiával mutatja be Semarang történelmét és városfejlődését egy történelmi épületben.",
+                  "category": "museum",
+                  "coords": [
+                        110.430853,
+                        -6.969443
+                  ]
+            },
+            {
+                  "name": "3D Trick Art Museum",
+                  "text": "Ez az óvárosi galéria interaktív fotózási lehetőségeket kínál nagyméretű optikai csalódásokkal és 3D festményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        110.426229,
+                        -6.968422
+                  ]
+            },
+            {
+                  "name": "Mushola Al Rizqi Sawah Besar",
+                  "text": "Ez a kis iszlám imaszoba a Sawah Besar negyed helyi közösségét szolgálja a napi imádságokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        110.447503,
+                        -6.964364
+                  ]
+            },
+            {
+                  "name": "Klenteng Siu Hok Bio",
+                  "text": "Semarang kínai negyedének ez a legöregebb temploma a Földistennek van szentelve, és hagyományos vörös faépítészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        110.425533,
+                        -6.978574
+                  ]
+            },
+            {
+                  "name": "Gereja Hati Kudus Yesus",
+                  "text": "Ez a Randusari negyedben található katolikus templom fontos vallási központ, jellegzetes homlokzattal és rendszeres misékkel.",
+                  "category": "religious",
+                  "coords": [
+                        110.401741,
+                        -6.963895
+                  ]
+            },
+            {
+                  "name": "Kapel Adorasi Ekaristi Abadi",
+                  "text": "Ez a székesegyház közelében található kápolna a csendes imádásnak szentelt hely, amely imára és elmélkedésre várja a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        110.401892,
+                        -6.965383
+                  ]
+            },
+            {
+                  "name": "Mushola LDII",
+                  "text": "Ez a Sawah Besar városrészben található mecset az LDII közösség imádságainak és vallási tevékenységeinek helyi központja.",
+                  "category": "religious",
+                  "coords": [
+                        110.410251,
+                        -6.968589
+                  ]
+            },
+            {
+                  "name": "Masjid Baitus Salam",
+                  "text": "Ez az imáhely egy hagyományos mecset, amelyet a környező lakóövezetek lakói használnak napi istentiszteletre.",
+                  "category": "religious",
+                  "coords": [
+                        110.439134,
+                        -6.946177
+                  ]
+            },
+            {
+                  "name": "Pasar Karang Kembang Jagalan",
+                  "text": "Ez a Jagalan negyedben található helyi piac egy tipikus indonéz vásártér a napi friss élelmiszerigények kielégítésére.",
+                  "category": "cultural",
+                  "coords": [
+                        110.427413,
+                        -6.980535
+                  ]
+            },
+            {
+                  "name": "Pasar Kokrosono",
+                  "text": "A folyó közelében fekvő piac friss halairól és a régió mezőgazdasági termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.402148,
+                        -6.975481
+                  ]
+            },
+            {
+                  "name": "Pasar Ya'ik Baru",
+                  "text": "Ez a híres Pasar Johar mellett található hagyományos piac textíliák és háztartási cikkek széles választékát kínálja kedvező áron.",
+                  "category": "cultural",
+                  "coords": [
+                        110.423791,
+                        -6.971565
+                  ]
+            },
+            {
+                  "name": "Pasar Prembaen",
+                  "text": "Ez a városközponti történelmi piac a hagyományos snackek és napi élelmiszerek kereskedelmének fontos csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        110.417521,
+                        -6.978751
+                  ]
+            },
+            {
+                  "name": "Pasar Tanah Mas",
+                  "text": "A piac friss termékekkel és helyi különlegességekkel látja el a Tanah Mas lakóövezetet nyugodt környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        110.401867,
+                        -6.960251
+                  ]
+            },
+            {
+                  "name": "Pasar Boom Lama",
+                  "text": "Ez a régi csatorna közelében található piac hosszú kereskedelmi múltra tekint vissza, ma főként alapvető élelmiszereket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        110.418244,
+                        -6.962174
+                  ]
+            },
+            {
+                  "name": "Pasar Purwogondo",
+                  "text": "Egy hagyományos környékbeli piac, ahol fűszerek és zöldségek vásárlása közben megtapasztalható Semarang autentikus mindennapi élete.",
+                  "category": "cultural",
+                  "coords": [
+                        110.414912,
+                        -6.967554
+                  ]
+            },
+            {
+                  "name": "Pasar Kanjengan",
+                  "text": "A piac a nagyobb Johar-komplexum része, és főként ruházatot, cipőket és különféle textiltermékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        110.424176,
+                        -6.973381
+                  ]
+            },
+            {
+                  "name": "Pasar Kobong",
+                  "text": "Ez a nyüzsgő piac a város legnagyobb halpiacaként ismert, ahol kora reggel frissen fogott tengeri ételeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.434545,
+                        -6.963165
+                  ]
+            },
+            {
+                  "name": "Pasar Rejomulyo",
+                  "text": "Ez a modernizált piac fontos elosztó központként szolgál a halak és mezőgazdasági termékek számára Semarang régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        110.435749,
+                        -6.962075
+                  ]
+            },
+            {
+                  "name": "Pasar Waru",
+                  "text": "Egy helyi vásártér, amely friss alapanyagokkal látja el a Waru negyedet, és kedvező árairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.44588,
+                        -6.965164
+                  ]
+            },
+            {
+                  "name": "Pasar Dargo",
+                  "text": "Ez a piac a rizs nagykereskedelmének legfontosabb központja Semarangban, különféle gabonafélékkel látja el az egész várost.",
+                  "category": "cultural",
+                  "coords": [
+                        110.433597,
+                        -6.975218
+                  ]
+            },
+            {
+                  "name": "Pasar Randusari",
+                  "text": "A székesegyház közelében elhelyezkedő piac különösen virágpiacáról és friss gyümölcseiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.413724,
+                        -6.98814
+                  ]
+            },
+            {
+                  "name": "Pasar Bulu",
+                  "text": "Ez a Tugu Muda közelében található többszintes hagyományos piac az élelmiszerektől a ruházatig az áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        110.407667,
+                        -6.984139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lawang Sewu",
+                  "text": "O clădire colonială iconică, cunoscută sub numele de „O mie de uși”, cu vitralii impresionante și coridoare lungi.",
+                  "category": "museum",
+                  "coords": [
+                        110.410758,
+                        -6.983975
+                  ]
+            },
+            {
+                  "name": "GPIB Immanuel",
+                  "text": "Cea mai veche biserică protestantă din Java Centrală, faimoasă pentru cupola sa imensă de cupru și stilul neoclasic.",
+                  "category": "religious",
+                  "coords": [
+                        110.427481,
+                        -6.968163
+                  ]
+            },
+            {
+                  "name": "Klenteng Tay Kak Sie",
+                  "text": "Un templu chinezesc fondat în 1746, cunoscut pentru sculpturile sale ornamentate și acoperișul tradițional tip pagodă.",
+                  "category": "religious",
+                  "coords": [
+                        110.427734,
+                        -6.974018
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Semawis",
+                  "text": "Această piață de noapte culinară vibrantă din inima cartierului chinezesc este renumită pentru diversele sale specialități locale de street food.",
+                  "category": "landmark",
+                  "coords": [
+                        110.426645,
+                        -6.974687
+                  ]
+            },
+            {
+                  "name": "Museum Mandala Bhakti",
+                  "text": "Acest muzeu militar este găzduit într-o fostă instanță colonială olandeză, situată vizavi de monumentul Tugu Muda.",
+                  "category": "museum",
+                  "coords": [
+                        110.408787,
+                        -6.984808
+                  ]
+            },
+            {
+                  "name": "Museum Kota Lama",
+                  "text": "Muzeul din orașul vechi folosește tehnologia modernă pentru a prezenta istoria și dezvoltarea urbană a orașului Semarang într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        110.430853,
+                        -6.969443
+                  ]
+            },
+            {
+                  "name": "3D Trick Art Museum",
+                  "text": "Această galerie din orașul vechi oferă oportunități foto interactive cu iluzii optice la scară largă și picturi 3D.",
+                  "category": "museum",
+                  "coords": [
+                        110.426229,
+                        -6.968422
+                  ]
+            },
+            {
+                  "name": "Mushola Al Rizqi Sawah Besar",
+                  "text": "Această mică sală de rugăciune islamică servește comunitatea locală din cartierul Sawah Besar pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        110.447503,
+                        -6.964364
+                  ]
+            },
+            {
+                  "name": "Klenteng Siu Hok Bio",
+                  "text": "Acest cel mai vechi templu chinezesc din cartierul chinezesc din Semarang este dedicat Zeului Pământului și are o arhitectură tradițională din lemn roșu.",
+                  "category": "religious",
+                  "coords": [
+                        110.425533,
+                        -6.978574
+                  ]
+            },
+            {
+                  "name": "Gereja Hati Kudus Yesus",
+                  "text": "Această biserică catolică din cartierul Randusari este un centru religios important, cu o fațadă distinctivă și slujbe regulate.",
+                  "category": "religious",
+                  "coords": [
+                        110.401741,
+                        -6.963895
+                  ]
+            },
+            {
+                  "name": "Kapel Adorasi Ekaristi Abadi",
+                  "text": "Această capelă situată lângă catedrală este dedicată adorației tăcute, oferind vizitatorilor un spațiu pentru rugăciune și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        110.401892,
+                        -6.965383
+                  ]
+            },
+            {
+                  "name": "Mushola LDII",
+                  "text": "Această moschee din cartierul Sawah Besar este un centru local pentru rugăciuni și activități religioase ale comunității LDII.",
+                  "category": "religious",
+                  "coords": [
+                        110.410251,
+                        -6.968589
+                  ]
+            },
+            {
+                  "name": "Masjid Baitus Salam",
+                  "text": "Acest loc de rugăciune este o moschee tradițională utilizată de locuitorii din zonele rezidențiale învecinate pentru slujbele zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        110.439134,
+                        -6.946177
+                  ]
+            },
+            {
+                  "name": "Pasar Karang Kembang Jagalan",
+                  "text": "Această piață locală din cartierul Jagalan este un spațiu comercial tipic indonezian pentru nevoile zilnice de alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        110.427413,
+                        -6.980535
+                  ]
+            },
+            {
+                  "name": "Pasar Kokrosono",
+                  "text": "Situată lângă râu, piața este cunoscută pentru comerțul cu pește proaspăt și produse agricole din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        110.402148,
+                        -6.975481
+                  ]
+            },
+            {
+                  "name": "Pasar Ya'ik Baru",
+                  "text": "Această piață tradițională de lângă faimoasa Pasar Johar oferă o gamă largă de textile și articole de uz casnic la prețuri accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        110.423791,
+                        -6.971565
+                  ]
+            },
+            {
+                  "name": "Pasar Prembaen",
+                  "text": "Această piață istorică din centrul orașului este un nod important pentru comerțul cu gustări tradiționale și alimente zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        110.417521,
+                        -6.978751
+                  ]
+            },
+            {
+                  "name": "Pasar Tanah Mas",
+                  "text": "Piața deservește zona rezidențială Tanah Mas cu o varietate de produse proaspete și specialități locale într-o atmosferă relaxată.",
+                  "category": "cultural",
+                  "coords": [
+                        110.401867,
+                        -6.960251
+                  ]
+            },
+            {
+                  "name": "Pasar Boom Lama",
+                  "text": "Această piață situată lângă vechiul canal are o lungă tradiție comercială și oferă astăzi în principal alimente de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        110.418244,
+                        -6.962174
+                  ]
+            },
+            {
+                  "name": "Pasar Purwogondo",
+                  "text": "O piață tradițională de cartier unde puteți experimenta viața de zi cu zi autentică din Semarang în timp ce cumpărați condimente și legume.",
+                  "category": "cultural",
+                  "coords": [
+                        110.414912,
+                        -6.967554
+                  ]
+            },
+            {
+                  "name": "Pasar Kanjengan",
+                  "text": "Piața face parte din complexul mai mare Johar și oferă în principal îmbrăcăminte, încălțăminte și diverse produse textile.",
+                  "category": "cultural",
+                  "coords": [
+                        110.424176,
+                        -6.973381
+                  ]
+            },
+            {
+                  "name": "Pasar Kobong",
+                  "text": "Această piață aglomerată este cunoscută ca fiind cea mai mare piață de pește din oraș, unde se comercializează fructe de mare proaspăt prinse dimineața devreme.",
+                  "category": "cultural",
+                  "coords": [
+                        110.434545,
+                        -6.963165
+                  ]
+            },
+            {
+                  "name": "Pasar Rejomulyo",
+                  "text": "Această piață modernizată servește ca un centru important de distribuție pentru pește și produse agricole în regiunea Semarang.",
+                  "category": "cultural",
+                  "coords": [
+                        110.435749,
+                        -6.962075
+                  ]
+            },
+            {
+                  "name": "Pasar Waru",
+                  "text": "O piață locală care deservește cartierul Waru cu ingrediente proaspete și este cunoscută pentru prețurile sale accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        110.44588,
+                        -6.965164
+                  ]
+            },
+            {
+                  "name": "Pasar Dargo",
+                  "text": "Această piață este principalul centru pentru comerțul cu ridicata al orezului din Semarang, aprovizionând întreg orașul cu diverse tipuri de cereale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.433597,
+                        -6.975218
+                  ]
+            },
+            {
+                  "name": "Pasar Randusari",
+                  "text": "Situată convenabil lângă catedrală, piața este cunoscută în special pentru piața sa de flori și fructele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        110.413724,
+                        -6.98814
+                  ]
+            },
+            {
+                  "name": "Pasar Bulu",
+                  "text": "Această piață tradițională cu mai multe etaje, situată lângă Tugu Muda, oferă o gamă largă de mărfuri, de la alimente la îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        110.407667,
+                        -6.984139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lawang Sewu",
+                  "text": "An iconic colonial building known as the \"Thousand Doors,\" featuring impressive stained glass windows and long corridors.",
+                  "category": "museum",
+                  "coords": [
+                        110.410758,
+                        -6.983975
+                  ]
+            },
+            {
+                  "name": "Blenduk Church",
+                  "text": "The oldest Protestant church in Central Java, famous for its massive copper dome and Neo-Classical style.",
+                  "category": "religious",
+                  "coords": [
+                        110.427481,
+                        -6.968163
+                  ]
+            },
+            {
+                  "name": "Tay Kak Sie Temple",
+                  "text": "A Chinese temple founded in 1746, known for its ornate carvings and traditional pagoda-style roof.",
+                  "category": "religious",
+                  "coords": [
+                        110.427734,
+                        -6.974018
+                  ]
+            },
+            {
+                  "name": "Night Market Semawis",
+                  "text": "This vibrant culinary night market in the heart of Chinatown's alleys is famous for its diverse local street food specialties.",
+                  "category": "landmark",
+                  "coords": [
+                        110.426645,
+                        -6.974687
+                  ]
+            },
+            {
+                  "name": "Museum Mandala Bhakti",
+                  "text": "This military museum is housed in a former Dutch colonial courthouse located across from the Tugu Muda monument.",
+                  "category": "museum",
+                  "coords": [
+                        110.408787,
+                        -6.984808
+                  ]
+            },
+            {
+                  "name": "Museum Kota Lama",
+                  "text": "The museum in the Old Town uses modern technology to showcase the history and urban development of Semarang within a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        110.430853,
+                        -6.969443
+                  ]
+            },
+            {
+                  "name": "3D Trick Art Museum",
+                  "text": "This gallery in the Old Town features interactive photo opportunities with large-scale optical illusions and 3D paintings.",
+                  "category": "museum",
+                  "coords": [
+                        110.426229,
+                        -6.968422
+                  ]
+            },
+            {
+                  "name": "Mushola Al Rizqi Sawah Besar",
+                  "text": "This small Islamic prayer room serves the local community in the Sawah Besar neighborhood for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        110.447503,
+                        -6.964364
+                  ]
+            },
+            {
+                  "name": "Klenteng Siu Hok Bio",
+                  "text": "This oldest Chinese temple in Semarang's Chinatown is dedicated to the Earth God and features traditional red wooden architecture.",
+                  "category": "religious",
+                  "coords": [
+                        110.425533,
+                        -6.978574
+                  ]
+            },
+            {
+                  "name": "Gereja Hati Kudus Yesus",
+                  "text": "This Catholic church in the Randusari area is a key religious center featuring a distinctive facade and regular masses.",
+                  "category": "religious",
+                  "coords": [
+                        110.401741,
+                        -6.963895
+                  ]
+            },
+            {
+                  "name": "Kapel Adorasi Ekaristi Abadi",
+                  "text": "This chapel located near the cathedral is dedicated to silent adoration, offering a space for prayer and reflection for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        110.401892,
+                        -6.965383
+                  ]
+            },
+            {
+                  "name": "Mushola LDII",
+                  "text": "This mosque in the Sawah Besar district is a local hub for prayers and religious activities of the LDII community.",
+                  "category": "religious",
+                  "coords": [
+                        110.410251,
+                        -6.968589
+                  ]
+            },
+            {
+                  "name": "Masjid Baitus Salam",
+                  "text": "This place of worship is a traditional mosque used by residents of the surrounding residential areas for daily religious services.",
+                  "category": "religious",
+                  "coords": [
+                        110.439134,
+                        -6.946177
+                  ]
+            },
+            {
+                  "name": "Pasar Karang Kembang Jagalan",
+                  "text": "This local market in the Jagalan neighborhood is a typical Indonesian marketplace for daily fresh food needs.",
+                  "category": "cultural",
+                  "coords": [
+                        110.427413,
+                        -6.980535
+                  ]
+            },
+            {
+                  "name": "Pasar Kokrosono",
+                  "text": "Located near the river, the market is known for its trade in fresh fish and agricultural produce from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        110.402148,
+                        -6.975481
+                  ]
+            },
+            {
+                  "name": "Pasar Ya'ik Baru",
+                  "text": "This traditional market next to the famous Pasar Johar offers a wide variety of textiles and household goods at affordable prices.",
+                  "category": "cultural",
+                  "coords": [
+                        110.423791,
+                        -6.971565
+                  ]
+            },
+            {
+                  "name": "Pasar Prembaen",
+                  "text": "This historic city-center market is a key hub for trading traditional snacks and daily groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        110.417521,
+                        -6.978751
+                  ]
+            },
+            {
+                  "name": "Pasar Tanah Mas",
+                  "text": "The market supplies the Tanah Mas residential area with a variety of fresh produce and local specialties in a relaxed setting.",
+                  "category": "cultural",
+                  "coords": [
+                        110.401867,
+                        -6.960251
+                  ]
+            },
+            {
+                  "name": "Pasar Boom Lama",
+                  "text": "This market near the old canal has a long trading history and today primarily offers basic food staples.",
+                  "category": "cultural",
+                  "coords": [
+                        110.418244,
+                        -6.962174
+                  ]
+            },
+            {
+                  "name": "Pasar Purwogondo",
+                  "text": "A traditional neighborhood market where one can experience the authentic daily life of Semarang while buying spices and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        110.414912,
+                        -6.967554
+                  ]
+            },
+            {
+                  "name": "Pasar Kanjengan",
+                  "text": "The market is part of the larger Johar complex and primarily offers clothing, shoes, and various textile products.",
+                  "category": "cultural",
+                  "coords": [
+                        110.424176,
+                        -6.973381
+                  ]
+            },
+            {
+                  "name": "Pasar Kobong",
+                  "text": "This bustling market is known as the city's largest fish market, where fresh-caught seafood is traded early in the morning.",
+                  "category": "cultural",
+                  "coords": [
+                        110.434545,
+                        -6.963165
+                  ]
+            },
+            {
+                  "name": "Pasar Rejomulyo",
+                  "text": "This modernized market serves as a major distribution hub for fish and agricultural products in the Semarang region.",
+                  "category": "cultural",
+                  "coords": [
+                        110.435749,
+                        -6.962075
+                  ]
+            },
+            {
+                  "name": "Pasar Waru",
+                  "text": "A local marketplace serving the Waru neighborhood with fresh ingredients and known for its affordable prices.",
+                  "category": "cultural",
+                  "coords": [
+                        110.44588,
+                        -6.965164
+                  ]
+            },
+            {
+                  "name": "Pasar Dargo",
+                  "text": "This market is the primary hub for wholesale rice trade in Semarang, supplying the entire city with various types of grains.",
+                  "category": "cultural",
+                  "coords": [
+                        110.433597,
+                        -6.975218
+                  ]
+            },
+            {
+                  "name": "Pasar Randusari",
+                  "text": "Conveniently located near the cathedral, the market is especially known for its flower market and fresh fruit.",
+                  "category": "cultural",
+                  "coords": [
+                        110.413724,
+                        -6.98814
+                  ]
+            },
+            {
+                  "name": "Pasar Bulu",
+                  "text": "This multi-story traditional market near Tugu Muda offers a wide range of goods from groceries to clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        110.407667,
+                        -6.984139
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-JT",
     coords: [110.4139, -6.9839],
@@ -471,7 +11433,916 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "kraton-yogyakarta-history-v2",
+    id: "kraton-yogyakarta-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Perjuangan Yogyakarta",
+                  "text": "Das Museum hat die Form einer traditionellen Gedenkkerze und erinnert an den indonesischen Unabhängigkeitskampf.",
+                  "category": "museum",
+                  "coords": [
+                        110.371867,
+                        -7.816451
+                  ]
+            },
+            {
+                  "name": "Museum Padepokan Sumber Karahayon",
+                  "text": "Dieses Museum widmet sich den spirituellen und kulturellen Lehren der javanischen Weisheit und Tradition.",
+                  "category": "museum",
+                  "coords": [
+                        110.409314,
+                        -7.859597
+                  ]
+            },
+            {
+                  "name": "Museum Sonobudoyo Unit I",
+                  "text": "Yogyakartas bedeutendstes Museum für javanische Kultur zeigt eine riesige Sammlung von Wayang-Puppen, Masken und Kris-Dolchen.",
+                  "category": "museum",
+                  "coords": [
+                        110.363936,
+                        -7.802191
+                  ]
+            },
+            {
+                  "name": "Benteng Vredeburg",
+                  "text": "Diese ehemalige niederländische Kolonialfestung beherbergt heute Dioramen zur Geschichte des indonesischen Unabhängigkeitsweges.",
+                  "category": "museum",
+                  "coords": [
+                        110.366329,
+                        -7.800305
+                  ]
+            },
+            {
+                  "name": "Museum Kereta Karaton",
+                  "text": "Das Museum beherbergt die prunkvollen königlichen Kutschen des Sultanats von Yogyakarta, die für offizielle Zeremonien genutzt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        110.362656,
+                        -7.805463
+                  ]
+            },
+            {
+                  "name": "Karaton Ngayogyakarta Hadiningrat ꦏꦝꦠꦺꦴꦤ꧀ꦔꦪꦺꦴꦒꦾꦏꦂꦠꦲꦢꦶꦤꦶꦁꦫꦠ꧀",
+                  "text": "Der 1755 gegründete Kraton ist ein prächtiger Palastkomplex und dient bis heute als Sitz des Sultans von Yogyakarta.",
+                  "category": "museum",
+                  "coords": [
+                        110.363659,
+                        -7.807762
+                  ]
+            },
+            {
+                  "name": "Masjid Gedhe Kauman",
+                  "text": "Diese 1773 errichtete historische Moschee ist das Hauptgotteshaus des Sultanats von Yogyakarta.",
+                  "category": "religious",
+                  "coords": [
+                        110.362367,
+                        -7.803879
+                  ]
+            },
+            {
+                  "name": "Museum Sejarah Purbakala Pleret",
+                  "text": "Dieses Museum beherbergt bedeutende archäologische Funde aus der ehemaligen Hauptstadt des Mataram-Sultanats in Pleret.",
+                  "category": "museum",
+                  "coords": [
+                        110.405216,
+                        -7.868534
+                  ]
+            },
+            {
+                  "name": "Jogja Gallery",
+                  "text": "Diese in einem Kolonialgebäude untergebrachte Galerie zeigt zeitgenössische Kunst in der Nähe des Sultanspalastes.",
+                  "category": "museum",
+                  "coords": [
+                        110.365711,
+                        -7.80279
+                  ]
+            },
+            {
+                  "name": "Museum Sonobudoyo Unit II",
+                  "text": "Ein Nebengebäude des Sonobudoyo-Museums, das eine umfangreiche Sammlung traditioneller javanesischer Kulturgegenstände zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        110.366204,
+                        -7.804187
+                  ]
+            },
+            {
+                  "name": "Museum Muhammadiyah",
+                  "text": "Gewidmet der Geschichte der Muhammadiyah-Bewegung, einer der größten islamischen Organisationen Indonesiens.",
+                  "category": "museum",
+                  "coords": [
+                        110.383834,
+                        -7.83418
+                  ]
+            },
+            {
+                  "name": "Museum Istana Yogyakarta",
+                  "text": "Dieses im Gedung-Agung-Komplex gelegene Museum zeigt historische Artefakte und Geschenke an die indonesischen Präsidenten.",
+                  "category": "museum",
+                  "coords": [
+                        110.364212,
+                        -7.800942
+                  ]
+            },
+            {
+                  "name": "Pacak Suji",
+                  "text": "Ein symbolisches Denkmal der javanesischen Philosophie, das oft mit der spirituellen Achse von Yogyakarta verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        110.40015,
+                        -7.827862
+                  ]
+            },
+            {
+                  "name": "Candi Gampingan",
+                  "text": "Die Ruinen eines buddhistischen Tempels aus dem 8. Jahrhundert, bekannt für seine Steinmetzarbeiten von Tieren.",
+                  "category": "historical",
+                  "coords": [
+                        110.436947,
+                        -7.838321
+                  ]
+            },
+            {
+                  "name": "Monument Serangan Oemoem 1 Maret",
+                  "text": "Dieses Denkmal erinnert an die Generaloffensive von 1949, einen entscheidenden Wendepunkt im Unabhängigkeitskampf.",
+                  "category": "historical",
+                  "coords": [
+                        110.365326,
+                        -7.801026
+                  ]
+            },
+            {
+                  "name": "Taman Hiburan Rakyat YK",
+                  "text": "Ein öffentlicher Kulturpark mit Bühnen für traditionelles javanesisches Theater und Musikaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        110.37083,
+                        -7.808537
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas Mrican",
+                  "text": "Eine Moschee der lokalen Gemeinde im Stadtviertel Mrican mit ihrem markanten grün gefliesten Dach.",
+                  "category": "religious",
+                  "coords": [
+                        110.393579,
+                        -7.832441
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mataab",
+                  "text": "Diese Moschee mit ihrem mehrstöckigen Dach dient als lokales Zentrum für tägliche Gebete und religiöses Studium.",
+                  "category": "religious",
+                  "coords": [
+                        110.409894,
+                        -7.828646
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahmah",
+                  "text": "Diese Moschee verfügt über eine markante Kuppel und bietet einen friedlichen Raum für die Anbetung im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        110.413043,
+                        -7.824408
+                  ]
+            },
+            {
+                  "name": "Masjid As Sakinah",
+                  "text": "Eine moderne Stadtmoschee, die für ihre minimalistische Architektur und ihre aktiven Gemeindeprogramme bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        110.392493,
+                        -7.820779
+                  ]
+            },
+            {
+                  "name": "Susteran Sang Timur",
+                  "text": "Ein katholisches Kloster und eine Kapelle der Sang-Timur-Schwestern, bekannt für ihre ruhige spirituelle Atmosphäre.",
+                  "category": "religious",
+                  "coords": [
+                        110.383917,
+                        -7.814861
+                  ]
+            },
+            {
+                  "name": "Pasar Pleret",
+                  "text": "Ein geschäftiger traditioneller Markt in der Nähe von Pleret, auf dem Einheimische frische Produkte und regionale Snacks handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        110.406962,
+                        -7.865888
+                  ]
+            },
+            {
+                  "name": "Pasar Giwangan",
+                  "text": "Einer der größten Märkte der Stadt und zentraler Knotenpunkt für Großhandelswaren und den täglichen Haushaltsbedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        110.389071,
+                        -7.831734
+                  ]
+            },
+            {
+                  "name": "Pasar Ngipik",
+                  "text": "Ein lebhafter lokaler Markt, bekannt für seine Vielfalt an javanesischem Streetfood und frischen Gewürzen.",
+                  "category": "cultural",
+                  "coords": [
+                        110.418171,
+                        -7.829506
+                  ]
+            },
+            {
+                  "name": "Pasar Musikanan",
+                  "text": "Ein Gemeindemarkt im Distrikt Musikanan, spezialisiert auf traditionelle Stoffe und lokales Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        110.365803,
+                        -7.806322
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Perjuangan Yogyakarta",
+                  "text": "A múzeum hagyományos emlékmécses alakú, és az indonéz függetlenségi harcnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        110.371867,
+                        -7.816451
+                  ]
+            },
+            {
+                  "name": "Museum Padepokan Sumber Karahayon",
+                  "text": "Ez a múzeum a jávai bölcsesség és hagyomány spirituális és kulturális tanításainak szentelt helyszín.",
+                  "category": "museum",
+                  "coords": [
+                        110.409314,
+                        -7.859597
+                  ]
+            },
+            {
+                  "name": "Museum Sonobudoyo Unit I",
+                  "text": "Yogyakarta legjelentősebb jávai kulturális múzeuma Wayang-bábok, maszkok és kris-tőrök hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        110.363936,
+                        -7.802191
+                  ]
+            },
+            {
+                  "name": "Benteng Vredeburg",
+                  "text": "Ez az egykori holland gyarmati erőd ma Indonézia függetlenséghez vezető útját bemutató diorámáknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        110.366329,
+                        -7.800305
+                  ]
+            },
+            {
+                  "name": "Museum Kereta Karaton",
+                  "text": "A múzeumban Yogyakarta szultanátusának pompás királyi kocsijai láthatók, amelyeket hivatalos ceremóniákhoz használtak.",
+                  "category": "museum",
+                  "coords": [
+                        110.362656,
+                        -7.805463
+                  ]
+            },
+            {
+                  "name": "Karaton Ngayogyakarta Hadiningrat ꦏꦝꦠꦺꦴꦤ꧀ꦔꦪꦺꦴꦒꦾꦏꦂꦠꦲꦢꦶꦤꦶꦁꦫꦠ꧀",
+                  "text": "Az 1755-ben alapított Kraton egy pompás palotakomplexum, amely mindmáig a yogyakartai szultán székhelye.",
+                  "category": "museum",
+                  "coords": [
+                        110.363659,
+                        -7.807762
+                  ]
+            },
+            {
+                  "name": "Masjid Gedhe Kauman",
+                  "text": "Az 1773-ban épült történelmi mecset a Dzsojakarta Szultanátus központi imaházaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        110.362367,
+                        -7.803879
+                  ]
+            },
+            {
+                  "name": "Museum Sejarah Purbakala Pleret",
+                  "text": "A múzeum a hajdani Mataram Szultanátus fővárosából, Pleretből származó jelentős régészeti leleteket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        110.405216,
+                        -7.868534
+                  ]
+            },
+            {
+                  "name": "Jogja Gallery",
+                  "text": "Ez a gyarmati korszakból származó épületben található galéria kortárs művészeti alkotásokat mutat be a szultáni palota közelében.",
+                  "category": "museum",
+                  "coords": [
+                        110.365711,
+                        -7.80279
+                  ]
+            },
+            {
+                  "name": "Museum Sonobudoyo Unit II",
+                  "text": "A Sonobudoyo Múzeum melléképülete, amely a hagyományos jávai művészetek és kulturális emlékek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        110.366204,
+                        -7.804187
+                  ]
+            },
+            {
+                  "name": "Museum Muhammadiyah",
+                  "text": "Indonézia egyik legnagyobb iszlám szervezetének, a Muhammadiyah mozgalomnak a történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        110.383834,
+                        -7.83418
+                  ]
+            },
+            {
+                  "name": "Museum Istana Yogyakarta",
+                  "text": "A Gedung Agung komplexumon belül található múzeum történelmi tárgyakat és az indonéz elnököknek szánt ajándékokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        110.364212,
+                        -7.800942
+                  ]
+            },
+            {
+                  "name": "Pacak Suji",
+                  "text": "A jávai filozófiát jelképező emlékmű, amely gyakran kapcsolódik Dzsojakarta spirituális tengelyéhez.",
+                  "category": "historical",
+                  "coords": [
+                        110.40015,
+                        -7.827862
+                  ]
+            },
+            {
+                  "name": "Candi Gampingan",
+                  "text": "Egy 8. századi buddhista templom romjai, amely az állatokat ábrázoló különleges kőfaragványairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        110.436947,
+                        -7.838321
+                  ]
+            },
+            {
+                  "name": "Monument Serangan Oemoem 1 Maret",
+                  "text": "Ez az emlékmű az 1949-es általános offenzívának állít emléket, amely fordulatot hozott a függetlenségi harcban.",
+                  "category": "historical",
+                  "coords": [
+                        110.365326,
+                        -7.801026
+                  ]
+            },
+            {
+                  "name": "Taman Hiburan Rakyat YK",
+                  "text": "Nyilvános kulturális park, ahol a hagyományos jávai színház és zenei előadások számára kialakított színpadok találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        110.37083,
+                        -7.808537
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas Mrican",
+                  "text": "A Mrican negyed helyi közösségi mecsetje, amely jellegzetes zöldmázas tetőcserepeiről ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        110.393579,
+                        -7.832441
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mataab",
+                  "text": "Ez a többszintes tetővel ellátott mecset a napi imádságok és a vallási tanulmányok helyi központja.",
+                  "category": "religious",
+                  "coords": [
+                        110.409894,
+                        -7.828646
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahmah",
+                  "text": "A mecset kiemelkedő kupolával rendelkezik, és békés teret biztosít az imádkozáshoz a város szívében.",
+                  "category": "religious",
+                  "coords": [
+                        110.413043,
+                        -7.824408
+                  ]
+            },
+            {
+                  "name": "Masjid As Sakinah",
+                  "text": "Modern városi mecset, amely minimalista építészetéről és aktív közösségi programjairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        110.392493,
+                        -7.820779
+                  ]
+            },
+            {
+                  "name": "Susteran Sang Timur",
+                  "text": "A Sang Timur nővérek katolikus kolostora és kápolnája, amely nyugodt spirituális légköréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        110.383917,
+                        -7.814861
+                  ]
+            },
+            {
+                  "name": "Pasar Pleret",
+                  "text": "Forgalmas hagyományos piac Pleret közelében, ahol a helyiek friss árukkal és regionális ételekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        110.406962,
+                        -7.865888
+                  ]
+            },
+            {
+                  "name": "Pasar Giwangan",
+                  "text": "A város egyik legnagyobb piaca, amely a nagykereskedelmi áruk és a napi háztartási szükségletek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        110.389071,
+                        -7.831734
+                  ]
+            },
+            {
+                  "name": "Pasar Ngipik",
+                  "text": "Élénk helyi piac, amely a különféle jávai utcai ételekről és friss fűszereiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.418171,
+                        -7.829506
+                  ]
+            },
+            {
+                  "name": "Pasar Musikanan",
+                  "text": "A Musikanan negyed közösségi piaca, amely hagyományos szövetekre és helyi kézműves termékekre szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        110.365803,
+                        -7.806322
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Perjuangan Yogyakarta",
+                  "text": "Muzeul are forma unei lumânări comemorative tradiționale și onorează lupta pentru independență a Indoneziei.",
+                  "category": "museum",
+                  "coords": [
+                        110.371867,
+                        -7.816451
+                  ]
+            },
+            {
+                  "name": "Museum Padepokan Sumber Karahayon",
+                  "text": "Acest muzeu este dedicat învățăturilor spirituale și culturale ale înțelepciunii și tradiției javaneze.",
+                  "category": "museum",
+                  "coords": [
+                        110.409314,
+                        -7.859597
+                  ]
+            },
+            {
+                  "name": "Museum Sonobudoyo Unit I",
+                  "text": "Cel mai important muzeu de cultură javaneză din Yogyakarta expune o colecție vastă de păpuși Wayang, măști și pumnale kris.",
+                  "category": "museum",
+                  "coords": [
+                        110.363936,
+                        -7.802191
+                  ]
+            },
+            {
+                  "name": "Benteng Vredeburg",
+                  "text": "Această fostă fortăreață colonială olandeză găzduiește astăzi diorame despre istoria drumului Indoneziei spre independență.",
+                  "category": "museum",
+                  "coords": [
+                        110.366329,
+                        -7.800305
+                  ]
+            },
+            {
+                  "name": "Museum Kereta Karaton",
+                  "text": "Muzeul adăpostește trăsurile regale somptuoase ale Sultanatului Yogyakarta, folosite pentru ceremonii oficiale.",
+                  "category": "museum",
+                  "coords": [
+                        110.362656,
+                        -7.805463
+                  ]
+            },
+            {
+                  "name": "Karaton Ngayogyakarta Hadiningrat ꦏꦝꦠꦺꦴꦤ꧀ꦔꦪꦺꦴꦒꦾꦏꦂꦠꦲꦢꦶꦤꦶꦁꦫꦠ꧀",
+                  "text": "Fondat în 1755, Kraton este un complex palatinal splendid care servește și astăzi ca reședință a Sultanului de Yogyakarta.",
+                  "category": "museum",
+                  "coords": [
+                        110.363659,
+                        -7.807762
+                  ]
+            },
+            {
+                  "name": "Masjid Gedhe Kauman",
+                  "text": "Construită în 1773, această moschee istorică servește ca principal lăcaș de cult al Sultanatului Yogyakarta.",
+                  "category": "religious",
+                  "coords": [
+                        110.362367,
+                        -7.803879
+                  ]
+            },
+            {
+                  "name": "Museum Sejarah Purbakala Pleret",
+                  "text": "Acest muzeu adăpostește descoperiri arheologice semnificative din fosta capitală a Sultanatului Mataram, Pleret.",
+                  "category": "museum",
+                  "coords": [
+                        110.405216,
+                        -7.868534
+                  ]
+            },
+            {
+                  "name": "Jogja Gallery",
+                  "text": "Situată într-o clădire din epoca colonială, această galerie expune artă contemporană în apropierea Palatului Sultanului.",
+                  "category": "museum",
+                  "coords": [
+                        110.365711,
+                        -7.80279
+                  ]
+            },
+            {
+                  "name": "Museum Sonobudoyo Unit II",
+                  "text": "O anexă a Muzeului Sonobudoyo, care expune o colecție vastă de artă tradițională javaneză și artefacte culturale.",
+                  "category": "museum",
+                  "coords": [
+                        110.366204,
+                        -7.804187
+                  ]
+            },
+            {
+                  "name": "Museum Muhammadiyah",
+                  "text": "Dedicat istoriei mișcării Muhammadiyah, una dintre cele mai mari organizații islamice din Indonezia.",
+                  "category": "museum",
+                  "coords": [
+                        110.383834,
+                        -7.83418
+                  ]
+            },
+            {
+                  "name": "Museum Istana Yogyakarta",
+                  "text": "Situat în complexul Gedung Agung, acest muzeu expune artefacte istorice și cadouri primite de președinții Indoneziei.",
+                  "category": "museum",
+                  "coords": [
+                        110.364212,
+                        -7.800942
+                  ]
+            },
+            {
+                  "name": "Pacak Suji",
+                  "text": "Un monument simbolic ce reprezintă filozofia javaneză, asociat adesea cu axa spirituală a Yogyakartei.",
+                  "category": "historical",
+                  "coords": [
+                        110.40015,
+                        -7.827862
+                  ]
+            },
+            {
+                  "name": "Candi Gampingan",
+                  "text": "Ruinele unui templu budist din secolul al VIII-lea, cunoscut pentru sculpturile sale în piatră reprezentând diverse animale.",
+                  "category": "historical",
+                  "coords": [
+                        110.436947,
+                        -7.838321
+                  ]
+            },
+            {
+                  "name": "Monument Serangan Oemoem 1 Maret",
+                  "text": "Acest monument comemorează Ofensiva Generală din 1949, un punct de cotitură în lupta pentru independență.",
+                  "category": "historical",
+                  "coords": [
+                        110.365326,
+                        -7.801026
+                  ]
+            },
+            {
+                  "name": "Taman Hiburan Rakyat YK",
+                  "text": "Un parc cultural public, dotat cu scene pentru spectacole de teatru și muzică tradițională javaneză.",
+                  "category": "cultural",
+                  "coords": [
+                        110.37083,
+                        -7.808537
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas Mrican",
+                  "text": "O moschee a comunității locale care servește cartierul Mrican, remarcabilă prin acoperișul său cu țigle verzi.",
+                  "category": "religious",
+                  "coords": [
+                        110.393579,
+                        -7.832441
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mataab",
+                  "text": "Această moschee cu acoperiș supraetajat servește ca centru pentru rugăciunile zilnice și studiul religios.",
+                  "category": "religious",
+                  "coords": [
+                        110.409894,
+                        -7.828646
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahmah",
+                  "text": "Această moschee are o cupolă proeminentă și oferă un spațiu liniștit pentru rugăciune în inima orașului.",
+                  "category": "religious",
+                  "coords": [
+                        110.413043,
+                        -7.824408
+                  ]
+            },
+            {
+                  "name": "Masjid As Sakinah",
+                  "text": "O moschee urbană modernă, cunoscută pentru arhitectura sa minimalistă și programele comunitare active.",
+                  "category": "religious",
+                  "coords": [
+                        110.392493,
+                        -7.820779
+                  ]
+            },
+            {
+                  "name": "Susteran Sang Timur",
+                  "text": "O mănăstire și capelă catolică aparținând surorilor Sang Timur, cunoscută pentru atmosfera sa spirituală liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        110.383917,
+                        -7.814861
+                  ]
+            },
+            {
+                  "name": "Pasar Pleret",
+                  "text": "O piață tradițională aglomerată lângă situl Pleret, unde localnicii vând produse proaspete și gustări regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.406962,
+                        -7.865888
+                  ]
+            },
+            {
+                  "name": "Pasar Giwangan",
+                  "text": "Una dintre cele mai mari piețe din oraș, servind ca hub central pentru mărfuri en-gros și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        110.389071,
+                        -7.831734
+                  ]
+            },
+            {
+                  "name": "Pasar Ngipik",
+                  "text": "O piață locală plină de viață, cunoscută pentru varietatea de mâncare stradală javaneză și condimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        110.418171,
+                        -7.829506
+                  ]
+            },
+            {
+                  "name": "Pasar Musikanan",
+                  "text": "O piață comunitară situată în districtul Musikanan, specializată în țesături tradiționale și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.365803,
+                        -7.806322
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Perjuangan Yogyakarta",
+                  "text": "This museum is shaped like a traditional 'Randan' candle and honors the Indonesian struggle for independence.",
+                  "category": "museum",
+                  "coords": [
+                        110.371867,
+                        -7.816451
+                  ]
+            },
+            {
+                  "name": "Museum Padepokan Sumber Karahayon",
+                  "text": "A cultural museum dedicated to the spiritual and traditional teachings of Javanese wisdom and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        110.409314,
+                        -7.859597
+                  ]
+            },
+            {
+                  "name": "Museum Sonobudoyo Unit I",
+                  "text": "Yogyakarta's premier museum for Javanese culture features a vast collection of wayang puppets, masks, and kris daggers.",
+                  "category": "museum",
+                  "coords": [
+                        110.363936,
+                        -7.802191
+                  ]
+            },
+            {
+                  "name": "Benteng Vredeburg",
+                  "text": "A former Dutch colonial fort, this museum now features dioramas documenting Indonesia's path to independence.",
+                  "category": "museum",
+                  "coords": [
+                        110.366329,
+                        -7.800305
+                  ]
+            },
+            {
+                  "name": "Museum Kereta Karaton",
+                  "text": "This museum houses the ornate royal carriages of the Yogyakarta Sultanate used for grand official ceremonies.",
+                  "category": "museum",
+                  "coords": [
+                        110.362656,
+                        -7.805463
+                  ]
+            },
+            {
+                  "name": "Royal Palace of Yogyakarta",
+                  "text": "Built in 1755, this grand palace complex serves as the official seat and residence of the Sultan of Yogyakarta.",
+                  "category": "museum",
+                  "coords": [
+                        110.363659,
+                        -7.807762
+                  ]
+            },
+            {
+                  "name": "Kauman Great Mosque",
+                  "text": "Built in 1773, this historic mosque serves as the main place of worship for the Yogyakarta Sultanate.",
+                  "category": "religious",
+                  "coords": [
+                        110.362367,
+                        -7.803879
+                  ]
+            },
+            {
+                  "name": "Museum Sejarah Purbakala Pleret",
+                  "text": "This museum houses significant archaeological finds from the former Mataram Sultanate capital in Pleret.",
+                  "category": "museum",
+                  "coords": [
+                        110.405216,
+                        -7.868534
+                  ]
+            },
+            {
+                  "name": "Jogja Gallery",
+                  "text": "Located in a colonial-era building, this gallery showcases contemporary art near the Sultan's Palace.",
+                  "category": "museum",
+                  "coords": [
+                        110.365711,
+                        -7.80279
+                  ]
+            },
+            {
+                  "name": "Museum Sonobudoyo Unit II",
+                  "text": "An annex of the Sonobudoyo Museum, displaying a vast collection of traditional Javanese arts and cultural artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        110.366204,
+                        -7.804187
+                  ]
+            },
+            {
+                  "name": "Museum Muhammadiyah",
+                  "text": "Dedicated to the history of the Muhammadiyah movement, one of Indonesia's largest Islamic organizations.",
+                  "category": "museum",
+                  "coords": [
+                        110.383834,
+                        -7.83418
+                  ]
+            },
+            {
+                  "name": "Museum Istana Yogyakarta",
+                  "text": "Located within the Gedung Agung complex, this museum displays historical artifacts and gifts to the Indonesian presidents.",
+                  "category": "museum",
+                  "coords": [
+                        110.364212,
+                        -7.800942
+                  ]
+            },
+            {
+                  "name": "Pacak Suji",
+                  "text": "A symbolic monument representing Javanese philosophy, often associated with the traditional spiritual axis of Yogyakarta.",
+                  "category": "historical",
+                  "coords": [
+                        110.40015,
+                        -7.827862
+                  ]
+            },
+            {
+                  "name": "Candi Gampingan",
+                  "text": "The ruins of an 8th-century Buddhist temple known for its stone carvings of animals like frogs and birds.",
+                  "category": "historical",
+                  "coords": [
+                        110.436947,
+                        -7.838321
+                  ]
+            },
+            {
+                  "name": "Monument Serangan Oemoem 1 Maret",
+                  "text": "This monument commemorates the 1949 General Offensive against Dutch colonial forces, a turning point in the independence struggle.",
+                  "category": "historical",
+                  "coords": [
+                        110.365326,
+                        -7.801026
+                  ]
+            },
+            {
+                  "name": "Taman Hiburan Rakyat YK",
+                  "text": "A public arts and culture park featuring stages for traditional Javanese theatre and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        110.37083,
+                        -7.808537
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Ikhlas Mrican",
+                  "text": "A local community mosque serving the Mrican neighborhood with its distinctive green-tiled roof.",
+                  "category": "religious",
+                  "coords": [
+                        110.393579,
+                        -7.832441
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mataab",
+                  "text": "A neighborhood mosque with a multi-tiered roof, serving as a center for daily prayers and religious study.",
+                  "category": "religious",
+                  "coords": [
+                        110.409894,
+                        -7.828646
+                  ]
+            },
+            {
+                  "name": "Masjid Baiturrahmah",
+                  "text": "This mosque features a prominent dome and provides a peaceful space for worship in the heart of the city.",
+                  "category": "religious",
+                  "coords": [
+                        110.413043,
+                        -7.824408
+                  ]
+            },
+            {
+                  "name": "Masjid As Sakinah",
+                  "text": "A modern urban mosque known for its minimalist architecture and active community programs.",
+                  "category": "religious",
+                  "coords": [
+                        110.392493,
+                        -7.820779
+                  ]
+            },
+            {
+                  "name": "Susteran Sang Timur",
+                  "text": "A Catholic convent and chapel belonging to the Sang Timur sisters, known for its serene spiritual atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        110.383917,
+                        -7.814861
+                  ]
+            },
+            {
+                  "name": "Pasar Pleret",
+                  "text": "A busy traditional market where locals trade fresh produce and regional snacks near the historic Pleret site.",
+                  "category": "cultural",
+                  "coords": [
+                        110.406962,
+                        -7.865888
+                  ]
+            },
+            {
+                  "name": "Pasar Giwangan",
+                  "text": "One of the city's largest markets, serving as a central hub for wholesale goods and daily household needs.",
+                  "category": "cultural",
+                  "coords": [
+                        110.389071,
+                        -7.831734
+                  ]
+            },
+            {
+                  "name": "Pasar Ngipik",
+                  "text": "A lively local market known for its variety of traditional Javanese street food and fresh spices.",
+                  "category": "cultural",
+                  "coords": [
+                        110.418171,
+                        -7.829506
+                  ]
+            },
+            {
+                  "name": "Pasar Musikanan",
+                  "text": "A community market located in the Musikanan district, specializing in traditional fabrics and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        110.365803,
+                        -7.806322
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-YO",
     coords: [110.3644, -7.8053],
@@ -519,7 +12390,736 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "banda-neira-forts-history-v2",
+    id: "banda-neira-forts-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rumah Pengasingan Bung Hatta",
+                  "text": "Hattas Exilhaus ist ein Museum in Banda Neira, in das Mohammad Hatta, Indonesiens erster Vizepräsident, von den Niederländern ins Exil geschickt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        129.899773,
+                        -4.527364
+                  ]
+            },
+            {
+                  "name": "Istana Mini",
+                  "text": "Der Istana Mini ist ein aufschlussreiches lokales Museum im historischen Festungsviertel von Banda Neira.",
+                  "category": "museum",
+                  "coords": [
+                        129.900564,
+                        -4.52873
+                  ]
+            },
+            {
+                  "name": "Schelling Colonial House",
+                  "text": "Das Schelling Colonial House ist eine historische Touristenattraktion, die das koloniale Erbe von Banda Neira widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        129.902692,
+                        -4.526942
+                  ]
+            },
+            {
+                  "name": "great snorkeling",
+                  "text": "Dieser Ort in Banda Neira bietet großartige Schnorchelmöglichkeiten, um die lebendige Unterwasserwelt zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        129.887497,
+                        -4.502923
+                  ]
+            },
+            {
+                  "name": "Hollandia Fort",
+                  "text": "Das Hollandia Fort bietet historische Steinruinen aus der Kolonialzeit in Banda Neira.",
+                  "category": "historical",
+                  "coords": [
+                        129.882248,
+                        -4.547626
+                  ]
+            },
+            {
+                  "name": "Blood stone",
+                  "text": "Blood stone ist eine einzigartige Sehenswürdigkeit, die Besucher in das historische Viertel von Banda Neira zieht.",
+                  "category": "landmark",
+                  "coords": [
+                        129.877264,
+                        -4.549435
+                  ]
+            },
+            {
+                  "name": "Nutmeg plantation",
+                  "text": "Diese Muskatnussplantage ist eine faszinierende Attraktion, die die reiche Gewürzhandelsgeschichte von Banda Neira hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        129.87609,
+                        -4.548749
+                  ]
+            },
+            {
+                  "name": "Fort Nassau",
+                  "text": "Fort Nassau ist eine historische Festungsanlage, die während der Kolonialzeit in Banda Neira errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        129.897621,
+                        -4.528092
+                  ]
+            },
+            {
+                  "name": "Fort Belgica",
+                  "text": "Fort Belgica ist eine gut erhaltene fünfeckige Festung, die einst die Gewürzinseln von Banda Neira bewachte.",
+                  "category": "fortress",
+                  "coords": [
+                        129.89882,
+                        -4.526127
+                  ]
+            },
+            {
+                  "name": "Pantai Lanau",
+                  "text": "Pantai Lanau ist ein malerischer Küstenstrand in der historischen Region Banda Neira.",
+                  "category": "recreational",
+                  "coords": [
+                        129.944184,
+                        -4.514573
+                  ]
+            },
+            {
+                  "name": "Concordia",
+                  "text": "Concordia ist der Standort eines historischen Kolonialforts in der Gegend von Banda Neira.",
+                  "category": "fortress",
+                  "coords": [
+                        129.948693,
+                        -4.551478
+                  ]
+            },
+            {
+                  "name": "Rumah Budaya Banda Neira",
+                  "text": "Rumah Budaya Banda Neira ist ein lokales Kulturmuseum, das die reiche Geschichte und die Traditionen der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        129.897418,
+                        -4.525636
+                  ]
+            },
+            {
+                  "name": "Malole Beach",
+                  "text": "Malole Beach ist ein Sandstrand in der Region Banda Neira.",
+                  "category": "recreational",
+                  "coords": [
+                        129.902048,
+                        -4.50386
+                  ]
+            },
+            {
+                  "name": "Taman Wisata Perairan Laut Banda",
+                  "text": "Der Banda Sea Marine Recreation Park ist ein Naturschutzgebiet zur Erhaltung der Meereswelt in Banda Neira.",
+                  "category": "natural",
+                  "coords": [
+                        129.913757,
+                        -4.523192
+                  ]
+            },
+            {
+                  "name": "TWA Gunung Api Banda",
+                  "text": "Der Gunung Api Banda Nature Recreation Park ist ein Naturpark auf der Vulkaninsel in Banda Neira.",
+                  "category": "natural",
+                  "coords": [
+                        129.880258,
+                        -4.522218
+                  ]
+            },
+            {
+                  "name": "Pantai Balakan",
+                  "text": "Pantai Balakan ist ein malerischer Strand in Banda Neira.",
+                  "category": "recreational",
+                  "coords": [
+                        129.877821,
+                        -4.554116
+                  ]
+            },
+            {
+                  "name": "Gereja Tua Neira Church",
+                  "text": "Die Gereja Tua Neira Church ist eine historische christliche Kirche in Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.896898,
+                        -4.526928
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Die Moschee ist eine lokale muslimische Gebetsstätte in Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.895258,
+                        -4.504009
+                  ]
+            },
+            {
+                  "name": "Assidigin mosque",
+                  "text": "Die Assidigin-Moschee ist ein islamisches Gotteshaus in Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.900408,
+                        -4.524573
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muhajir",
+                  "text": "Masjid Al Muhajir ist eine Moschee für die muslimische Gemeinschaft in Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.906237,
+                        -4.51207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rumah Pengasingan Bung Hatta",
+                  "text": "Hatta száműzetésének háza egy múzeum Banda Neirában, ahová a hollandok száműzték Mohammad Hattát, Indonézia első alelnökét.",
+                  "category": "museum",
+                  "coords": [
+                        129.899773,
+                        -4.527364
+                  ]
+            },
+            {
+                  "name": "Istana Mini",
+                  "text": "Az Istana Mini egy betekintést nyújtó helyi múzeum Banda Neira történelmi erődnegyedében.",
+                  "category": "museum",
+                  "coords": [
+                        129.900564,
+                        -4.52873
+                  ]
+            },
+            {
+                  "name": "Schelling Colonial House",
+                  "text": "A Schelling gyarmati ház egy történelmi turisztikai látványosság, amely Banda Neira gyarmati örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        129.902692,
+                        -4.526942
+                  ]
+            },
+            {
+                  "name": "great snorkeling",
+                  "text": "Ez a Banda Neira-i hely nagyszerű sznorkelezési lehetőségeket kínál a nyüzsgő víz alatti tengeri élet felfedezésére.",
+                  "category": "landmark",
+                  "coords": [
+                        129.887497,
+                        -4.502923
+                  ]
+            },
+            {
+                  "name": "Hollandia Fort",
+                  "text": "A Hollandia erőd történelmi kőromokkal rendelkezik a gyarmati korszakból Banda Neirában.",
+                  "category": "historical",
+                  "coords": [
+                        129.882248,
+                        -4.547626
+                  ]
+            },
+            {
+                  "name": "Blood stone",
+                  "text": "A Vérkő egy egyedülálló látványosság, amely Banda Neira történelmi területére vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        129.877264,
+                        -4.549435
+                  ]
+            },
+            {
+                  "name": "Nutmeg plantation",
+                  "text": "Ez a szerecsendió-ültetvény egy lenyűgöző látványosság, amely Banda Neira gazdag fűszerkereskedelmi történelmét emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        129.87609,
+                        -4.548749
+                  ]
+            },
+            {
+                  "name": "Fort Nassau",
+                  "text": "A Fort Nassau egy történelmi erődítmény, amelyet a gyarmati időszakban építettek Banda Neirában.",
+                  "category": "fortress",
+                  "coords": [
+                        129.897621,
+                        -4.528092
+                  ]
+            },
+            {
+                  "name": "Fort Belgica",
+                  "text": "A Fort Belgica egy jól megőrzött ötszögletű erőd, amely egykor Banda Neira fűszerszigeteit őrizte.",
+                  "category": "fortress",
+                  "coords": [
+                        129.89882,
+                        -4.526127
+                  ]
+            },
+            {
+                  "name": "Pantai Lanau",
+                  "text": "A Pantai Lanau egy festői tengerparti strand Banda Neira történelmi régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        129.944184,
+                        -4.514573
+                  ]
+            },
+            {
+                  "name": "Concordia",
+                  "text": "Concordia egy történelmi gyarmati erőd helyszíne Banda Neira térségében.",
+                  "category": "fortress",
+                  "coords": [
+                        129.948693,
+                        -4.551478
+                  ]
+            },
+            {
+                  "name": "Rumah Budaya Banda Neira",
+                  "text": "A Rumah Budaya Banda Neira egy helyi kulturális múzeum, amely bemutatja a régió gazdag történelmét és hagyományait.",
+                  "category": "museum",
+                  "coords": [
+                        129.897418,
+                        -4.525636
+                  ]
+            },
+            {
+                  "name": "Malole Beach",
+                  "text": "A Malole Beach egy homokos strand Banda Neira régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        129.902048,
+                        -4.50386
+                  ]
+            },
+            {
+                  "name": "Taman Wisata Perairan Laut Banda",
+                  "text": "A Banda Sea Marine Recreation Park egy tengeri természetvédelmi terület Banda Neira térségében.",
+                  "category": "natural",
+                  "coords": [
+                        129.913757,
+                        -4.523192
+                  ]
+            },
+            {
+                  "name": "TWA Gunung Api Banda",
+                  "text": "A Gunung Api Banda Nature Recreation Park egy természetvédelmi park Banda Neira vulkáni szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        129.880258,
+                        -4.522218
+                  ]
+            },
+            {
+                  "name": "Pantai Balakan",
+                  "text": "A Pantai Balakan egy festői strand Banda Neira területén.",
+                  "category": "recreational",
+                  "coords": [
+                        129.877821,
+                        -4.554116
+                  ]
+            },
+            {
+                  "name": "Gereja Tua Neira Church",
+                  "text": "A Gereja Tua Neira Church egy történelmi keresztény templom Banda Neira-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        129.896898,
+                        -4.526928
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A mecset egy helyi muszlim imahely Banda Neira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        129.895258,
+                        -4.504009
+                  ]
+            },
+            {
+                  "name": "Assidigin mosque",
+                  "text": "Az Assidigin mecset egy muszlim imahely Banda Neira-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        129.900408,
+                        -4.524573
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muhajir",
+                  "text": "A Masjid Al Muhajir egy mecset a muszlim közösség számára Banda Neira területén.",
+                  "category": "landmark",
+                  "coords": [
+                        129.906237,
+                        -4.51207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rumah Pengasingan Bung Hatta",
+                  "text": "Casa de exil a lui Hatta este un muzeu din Banda Neira unde Mohammad Hatta, primul vicepreședinte al Indoneziei, a fost exilat de olandezi.",
+                  "category": "museum",
+                  "coords": [
+                        129.899773,
+                        -4.527364
+                  ]
+            },
+            {
+                  "name": "Istana Mini",
+                  "text": "Istana Mini este un muzeu local captivant situat în cartierul forturilor istorice din Banda Neira.",
+                  "category": "museum",
+                  "coords": [
+                        129.900564,
+                        -4.52873
+                  ]
+            },
+            {
+                  "name": "Schelling Colonial House",
+                  "text": "Casa colonială Schelling este o atracție turistică istorică care reflectă moștenirea colonială din Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.902692,
+                        -4.526942
+                  ]
+            },
+            {
+                  "name": "great snorkeling",
+                  "text": "Această locație din Banda Neira oferă oportunități excelente de snorkeling pentru a explora viața marină subacvatică vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        129.887497,
+                        -4.502923
+                  ]
+            },
+            {
+                  "name": "Hollandia Fort",
+                  "text": "Fortul Hollandia prezintă ruine istorice din piatră din epoca colonială în Banda Neira.",
+                  "category": "historical",
+                  "coords": [
+                        129.882248,
+                        -4.547626
+                  ]
+            },
+            {
+                  "name": "Blood stone",
+                  "text": "Piatra sângelui este un punct de interes unic care atrage vizitatorii în zona istorică a orașului Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.877264,
+                        -4.549435
+                  ]
+            },
+            {
+                  "name": "Nutmeg plantation",
+                  "text": "Această plantație de nucșoară este o atracție fascinantă care evidențiază istoria bogată a comerțului cu condimente din Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.87609,
+                        -4.548749
+                  ]
+            },
+            {
+                  "name": "Fort Nassau",
+                  "text": "Fortul Nassau este o fortificație istorică construită în perioada colonială în Banda Neira.",
+                  "category": "fortress",
+                  "coords": [
+                        129.897621,
+                        -4.528092
+                  ]
+            },
+            {
+                  "name": "Fort Belgica",
+                  "text": "Fortul Belgica este un fort pentagonal bine conservat, care odinioară păzea insulele de condimente din Banda Neira.",
+                  "category": "fortress",
+                  "coords": [
+                        129.89882,
+                        -4.526127
+                  ]
+            },
+            {
+                  "name": "Pantai Lanau",
+                  "text": "Pantai Lanau este o plajă pitorească situată în regiunea istorică Banda Neira.",
+                  "category": "recreational",
+                  "coords": [
+                        129.944184,
+                        -4.514573
+                  ]
+            },
+            {
+                  "name": "Concordia",
+                  "text": "Concordia este locul unui fort colonial istoric situat în zona Banda Neira.",
+                  "category": "fortress",
+                  "coords": [
+                        129.948693,
+                        -4.551478
+                  ]
+            },
+            {
+                  "name": "Rumah Budaya Banda Neira",
+                  "text": "Rumah Budaya Banda Neira este un muzeu cultural local care prezintă istoria și tradițiile bogate ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        129.897418,
+                        -4.525636
+                  ]
+            },
+            {
+                  "name": "Malole Beach",
+                  "text": "Malole Beach este o plajă cu nisip în regiunea Banda Neira.",
+                  "category": "recreational",
+                  "coords": [
+                        129.902048,
+                        -4.50386
+                  ]
+            },
+            {
+                  "name": "Taman Wisata Perairan Laut Banda",
+                  "text": "Banda Sea Marine Recreation Park este o rezervație naturală dedicată mediului marin din Banda Neira.",
+                  "category": "natural",
+                  "coords": [
+                        129.913757,
+                        -4.523192
+                  ]
+            },
+            {
+                  "name": "TWA Gunung Api Banda",
+                  "text": "Gunung Api Banda Nature Recreation Park este o rezervație naturală pe insula vulcanică din Banda Neira.",
+                  "category": "natural",
+                  "coords": [
+                        129.880258,
+                        -4.522218
+                  ]
+            },
+            {
+                  "name": "Pantai Balakan",
+                  "text": "Pantai Balakan este o plajă pitorească din Banda Neira.",
+                  "category": "recreational",
+                  "coords": [
+                        129.877821,
+                        -4.554116
+                  ]
+            },
+            {
+                  "name": "Gereja Tua Neira Church",
+                  "text": "Gereja Tua Neira Church este o biserică creștină istorică din Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.896898,
+                        -4.526928
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Moscheea este un lăcaș de cult musulman local din Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.895258,
+                        -4.504009
+                  ]
+            },
+            {
+                  "name": "Assidigin mosque",
+                  "text": "Moscheea Assidigin este un lăcaș de cult musulman în Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.900408,
+                        -4.524573
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muhajir",
+                  "text": "Masjid Al Muhajir este o moschee pentru comunitatea musulmană din Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.906237,
+                        -4.51207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hatta's Exile House",
+                  "text": "Hatta's Exile House is a museum in Banda Neira where Mohammad Hatta, Indonesia's first vice president, was exiled by the Dutch.",
+                  "category": "museum",
+                  "coords": [
+                        129.899773,
+                        -4.527364
+                  ]
+            },
+            {
+                  "name": "Istana Mini",
+                  "text": "Istana Mini is an insightful local museum located in the historic forts district of Banda Neira.",
+                  "category": "museum",
+                  "coords": [
+                        129.900564,
+                        -4.52873
+                  ]
+            },
+            {
+                  "name": "Schelling Colonial House",
+                  "text": "Schelling Colonial House is a historic tourist attraction reflecting the colonial heritage of Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.902692,
+                        -4.526942
+                  ]
+            },
+            {
+                  "name": "great snorkeling",
+                  "text": "This location in Banda Neira offers great snorkeling opportunities to explore the vibrant underwater marine life.",
+                  "category": "landmark",
+                  "coords": [
+                        129.887497,
+                        -4.502923
+                  ]
+            },
+            {
+                  "name": "Hollandia Fort",
+                  "text": "Hollandia Fort features historic stone ruins from the colonial era in Banda Neira.",
+                  "category": "historical",
+                  "coords": [
+                        129.882248,
+                        -4.547626
+                  ]
+            },
+            {
+                  "name": "Blood stone",
+                  "text": "Blood stone is a unique point of interest attracting visitors to the historic area of Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.877264,
+                        -4.549435
+                  ]
+            },
+            {
+                  "name": "Nutmeg plantation",
+                  "text": "This nutmeg plantation is a fascinating attraction highlighting Banda Neira's rich spice trade history.",
+                  "category": "landmark",
+                  "coords": [
+                        129.87609,
+                        -4.548749
+                  ]
+            },
+            {
+                  "name": "Fort Nassau",
+                  "text": "Fort Nassau is a historic fortification constructed during the colonial period in Banda Neira.",
+                  "category": "fortress",
+                  "coords": [
+                        129.897621,
+                        -4.528092
+                  ]
+            },
+            {
+                  "name": "Fort Belgica",
+                  "text": "Fort Belgica is a well-preserved pentagonal fort that once guarded the spice islands of Banda Neira.",
+                  "category": "fortress",
+                  "coords": [
+                        129.89882,
+                        -4.526127
+                  ]
+            },
+            {
+                  "name": "Pantai Lanau",
+                  "text": "Pantai Lanau is a scenic coastal beach located in the historic region of Banda Neira.",
+                  "category": "recreational",
+                  "coords": [
+                        129.944184,
+                        -4.514573
+                  ]
+            },
+            {
+                  "name": "Concordia",
+                  "text": "Concordia is the site of a historic colonial fort located in the Banda Neira area.",
+                  "category": "fortress",
+                  "coords": [
+                        129.948693,
+                        -4.551478
+                  ]
+            },
+            {
+                  "name": "Rumah Budaya Banda Neira",
+                  "text": "Rumah Budaya Banda Neira is a local cultural museum showcasing the rich history and traditions of the region.",
+                  "category": "museum",
+                  "coords": [
+                        129.897418,
+                        -4.525636
+                  ]
+            },
+            {
+                  "name": "Malole Beach",
+                  "text": "Malole Beach is a sandy beach in the Banda Neira region.",
+                  "category": "recreational",
+                  "coords": [
+                        129.902048,
+                        -4.50386
+                  ]
+            },
+            {
+                  "name": "Banda Sea Marine Recreation Park",
+                  "text": "Banda Sea Marine Recreation Park is a nature reserve focused on marine conservation in Banda Neira.",
+                  "category": "natural",
+                  "coords": [
+                        129.913757,
+                        -4.523192
+                  ]
+            },
+            {
+                  "name": "Gunung Api Banda Nature Recreation Park",
+                  "text": "Gunung Api Banda Nature Recreation Park is a nature reserve located on the volcanic island in Banda Neira.",
+                  "category": "natural",
+                  "coords": [
+                        129.880258,
+                        -4.522218
+                  ]
+            },
+            {
+                  "name": "Pantai Balakan",
+                  "text": "Pantai Balakan is a picturesque beach located in Banda Neira.",
+                  "category": "recreational",
+                  "coords": [
+                        129.877821,
+                        -4.554116
+                  ]
+            },
+            {
+                  "name": "Gereja Tua Neira Church",
+                  "text": "Gereja Tua Neira Church is a historical Christian church located in Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.896898,
+                        -4.526928
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "The Mosque is a local Muslim place of worship in Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.895258,
+                        -4.504009
+                  ]
+            },
+            {
+                  "name": "Assidigin mosque",
+                  "text": "The Assidigin mosque is an Islamic place of worship in Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.900408,
+                        -4.524573
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muhajir",
+                  "text": "Masjid Al Muhajir is a mosque serving the Muslim community in Banda Neira.",
+                  "category": "landmark",
+                  "coords": [
+                        129.906237,
+                        -4.51207
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-MA",
     coords: [129.8975, -4.5244],
@@ -567,7 +13167,1348 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     }
   },
   {
-    id: "surabaya-heroes-monument-history-v2",
+    id: "surabaya-heroes-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Javasche Bank",
+                  "text": "Dieses Museum befindet sich in einem prachtvollen Gebäude von 1918 und zeigt die Bankengeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        112.736831,
+                        -7.235341
+                  ]
+            },
+            {
+                  "name": "Tugu Pahlawan",
+                  "text": "Ein markanter 41 Meter hoher Obelisk, der an den Unabhängigkeitskampf in der Schlacht von Surabaya erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        112.737821,
+                        -7.245859
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Perawan Maria",
+                  "text": "Diese neugotische katholische Kirche aus dem Jahr 1899 ist eine der ältesten Gotteshäuser der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        112.736946,
+                        -7.242082
+                  ]
+            },
+            {
+                  "name": "Jembatan Merah",
+                  "text": "Die historische „Rote Brücke“ war ein zentraler Schauplatz während der indonesischen Nationalrevolution 1945.",
+                  "category": "landmark",
+                  "coords": [
+                        112.738319,
+                        -7.236711
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Sunan Ampel",
+                  "text": "Diese Moschee aus dem 15. Jahrhundert beherbergt das Grab von Sunan Ampel, einem verehrten Sufi-Heiligen.",
+                  "category": "religious",
+                  "coords": [
+                        112.742837,
+                        -7.229948
+                  ]
+            },
+            {
+                  "name": "Museum Dr. Soetomo",
+                  "text": "Das Museum ist dem Nationalhelden Dr. Soetomo gewidmet und befindet sich in einem historischen Gebäudekomplex.",
+                  "category": "museum",
+                  "coords": [
+                        112.735345,
+                        -7.250906
+                  ]
+            },
+            {
+                  "name": "Museum Surabaya (Gedung Siola)",
+                  "text": "Das im historischen Siola-Gebäude untergebrachte Museum zeigt Exponate zur Stadtentwicklung Surabayas.",
+                  "category": "museum",
+                  "coords": [
+                        112.737581,
+                        -7.256314
+                  ]
+            },
+            {
+                  "name": "House of Sampoerna",
+                  "text": "Ein prachtvolles Kolonialgebäude, das ein Museum beherbergt, in dem die Herstellung von Nelkenzigaretten gezeigt wird.",
+                  "category": "historical",
+                  "coords": [
+                        112.734146,
+                        -7.230992
+                  ]
+            },
+            {
+                  "name": "Monumen Nol Kilometer Surabaya",
+                  "text": "Ein Denkmal vor dem Kantor Gubernur, das den geografischen Nullpunkt der Stadt Surabaya markiert.",
+                  "category": "historical",
+                  "coords": [
+                        112.738727,
+                        -7.245662
+                  ]
+            },
+            {
+                  "name": "Masjid Riyadhuljanna",
+                  "text": "Diese Moschee bietet den Gläubigen im historischen Zentrum der Heldenstadt einen zentralen Ort des Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        112.742238,
+                        -7.226257
+                  ]
+            },
+            {
+                  "name": "Mushollah Baitul Rahman",
+                  "text": "Eine muslimische Gebetsstätte in der Nähe der bedeutenden Denkmäler der indonesischen Unabhängigkeit.",
+                  "category": "religious",
+                  "coords": [
+                        112.743201,
+                        -7.227162
+                  ]
+            },
+            {
+                  "name": "TKA Al-Quran Thoyyib Fatah",
+                  "text": "Eine religiöse Bildungsstätte und Moschee, die tief im sozialen Gefüge des historischen Viertels verwurzelt ist.",
+                  "category": "religious",
+                  "coords": [
+                        112.741937,
+                        -7.227455
+                  ]
+            },
+            {
+                  "name": "Masjid Shuffah",
+                  "text": "Die Moschee dient der lokalen Gemeinschaft im geschäftigen Stadtteil unweit des Heldenmonuments.",
+                  "category": "religious",
+                  "coords": [
+                        112.739856,
+                        -7.225188
+                  ]
+            },
+            {
+                  "name": "Mushollah Al-Mukhlishin",
+                  "text": "Ein ruhiger Gebetsraum in einer der belebten Seitenstraßen des historischen Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.7324,
+                        -7.232675
+                  ]
+            },
+            {
+                  "name": "Langgar Wakaf Nurul Huda",
+                  "text": "Ein traditionelles, kleines Gebetshaus (Langgar), das den Geist der lokalen religiösen Stiftungen bewahrt.",
+                  "category": "religious",
+                  "coords": [
+                        112.730872,
+                        -7.233247
+                  ]
+            },
+            {
+                  "name": "GPIB PNIEL Surabaya",
+                  "text": "Diese protestantische Kirche der GPIB-Gemeinde dient als wichtiges religiöses Zentrum im Stadtteil Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.731249,
+                        -7.23424
+                  ]
+            },
+            {
+                  "name": "Yayasan Naga Samudera",
+                  "text": "Diese religiöse Stiftung in Surabaya ist ein Ort der Andacht mit chinesischen kulturellen Einflüssen.",
+                  "category": "religious",
+                  "coords": [
+                        112.733743,
+                        -7.237802
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "Eine lokale christliche Kirche, die der Nachbarschaft in Surabaya als Ort der Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        112.73588,
+                        -7.240264
+                  ]
+            },
+            {
+                  "name": "Mushollah Baiturrahman",
+                  "text": "Eine kleine islamische Gebetsstätte in Surabaya, die für die täglichen Gebete der Anwohner genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        112.740148,
+                        -7.229562
+                  ]
+            },
+            {
+                  "name": "Musholla Al-Hikmah",
+                  "text": "Dieser Musholla ist ein einfacher Ort der Ruhe und des Gebets inmitten des Stadtteils Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.73854,
+                        -7.224387
+                  ]
+            },
+            {
+                  "name": "Gereja Pantekosta di Indonesia Sion Permai",
+                  "text": "Eine pfingstkirchliche Gebetsstätte in Surabaya, die für ihre lebendigen Gottesdienste bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        112.735731,
+                        -7.229245
+                  ]
+            },
+            {
+                  "name": "Mushollah Surgaku",
+                  "text": "Ein kleiner, bescheidener Gebetsraum für Muslime in einem Wohngebiet von Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.738527,
+                        -7.229323
+                  ]
+            },
+            {
+                  "name": "Mushollah Darussalam",
+                  "text": "Dieser Musholla dient der lokalen Gemeinschaft in Surabaya als zentraler Punkt für das Gemeinschaftsgebet.",
+                  "category": "religious",
+                  "coords": [
+                        112.739689,
+                        -7.227518
+                  ]
+            },
+            {
+                  "name": "Gereja Bukit Zion Jemaat Kasuari",
+                  "text": "Diese protestantische Kirche am Hügel Zion ist ein markantes religiöses Gebäude in Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.737507,
+                        -7.232259
+                  ]
+            },
+            {
+                  "name": "Mushollag Al Hijroh",
+                  "text": "Ein kleiner Gebetsraum in Surabaya, der nach dem Prinzip der Migration (Hijrah) benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        112.736992,
+                        -7.2448
+                  ]
+            },
+            {
+                  "name": "Pasar Sikatan",
+                  "text": "Ein traditioneller lokaler Markt in Surabaya, auf dem frische Lebensmittel und Waren des täglichen Bedarfs verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        112.671908,
+                        -7.259448
+                  ]
+            },
+            {
+                  "name": "Pasar Turi",
+                  "text": "Einer der größten Großhandelsmärkte in Surabaya, bekannt für Kleidung und Textilien in der Nähe des Bahnhofs.",
+                  "category": "cultural",
+                  "coords": [
+                        112.729615,
+                        -7.250655
+                  ]
+            },
+            {
+                  "name": "Pasar Asemrowo",
+                  "text": "Ein lebhafter Nachbarschaftsmarkt in Surabaya, der eine Vielzahl an lokalen Produkten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        112.715416,
+                        -7.252387
+                  ]
+            },
+            {
+                  "name": "Pasar Pacuan Kuda",
+                  "text": "Dieser Markt liegt in der Nähe der ehemaligen Pferderennbahn von Surabaya und versorgt die umliegenden Viertel.",
+                  "category": "cultural",
+                  "coords": [
+                        112.71687,
+                        -7.260408
+                  ]
+            },
+            {
+                  "name": "Pasar Darurat (Manukan Kulon)",
+                  "text": "Ein lokaler Markt im Viertel Manukan Kulon, der für seine Auswahl an frischem Gemüse und Fisch bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        112.662432,
+                        -7.262071
+                  ]
+            },
+            {
+                  "name": "Pasar Pabean",
+                  "text": "Ein historischer Markt in Surabaya, der für seinen Handel mit Fisch und aromatischen Gewürzen berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        112.740826,
+                        -7.234808
+                  ]
+            },
+            {
+                  "name": "Pasar Kapasan",
+                  "text": "Dieser spezialisierte Markt in Surabaya ist ein bekanntes Zentrum für Textilien und Fertigkleidung.",
+                  "category": "cultural",
+                  "coords": [
+                        112.749455,
+                        -7.239322
+                  ]
+            },
+            {
+                  "name": "Pasar Bulak Banteng",
+                  "text": "Ein traditioneller Markt im Viertel Bulak Banteng, der eine authentische lokale Einkaufsatmosphäre bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        112.761053,
+                        -7.217931
+                  ]
+            },
+            {
+                  "name": "Pasar Buah Pegirian",
+                  "text": "Ein spezialisierter Obstmarkt in Surabaya, der eine große Auswahl an tropischen Früchten der Region anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        112.751966,
+                        -7.223662
+                  ]
+            },
+            {
+                  "name": "Pasar Pegirian",
+                  "text": "Dieser Markt in der Nähe des Ampel-Viertels ist bekannt für den Verkauf von religiösen Artikeln und Gewürzen.",
+                  "category": "cultural",
+                  "coords": [
+                        112.74556,
+                        -7.227009
+                  ]
+            },
+            {
+                  "name": "Pasar Banjar Sugihan",
+                  "text": "Ein lokaler Marktplatz in Banjar Sugihan, der den täglichen Bedarf der Anwohner in Surabaya deckt.",
+                  "category": "cultural",
+                  "coords": [
+                        112.658376,
+                        -7.255309
+                  ]
+            },
+            {
+                  "name": "Pasar Manukan Kulon",
+                  "text": "Ein geschäftiger Markt im Westen Surabayas, auf dem Händler eine Vielzahl von Haushaltswaren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        112.662191,
+                        -7.25997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Javasche Bank",
+                  "text": "Ez a múzeum egy pompás, 1918-as épületben található, és a banktörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        112.736831,
+                        -7.235341
+                  ]
+            },
+            {
+                  "name": "Tugu Pahlawan",
+                  "text": "Jellegzetes, 41 méter magas obeliszk, amely a surabayai csata függetlenségi harcának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        112.737821,
+                        -7.245859
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Perawan Maria",
+                  "text": "Ez az 1899-ből származó neogótikus katolikus templom a város egyik legrégebbi istenháza.",
+                  "category": "religious",
+                  "coords": [
+                        112.736946,
+                        -7.242082
+                  ]
+            },
+            {
+                  "name": "Jembatan Merah",
+                  "text": "A történelmi „Vörös híd” központi helyszín volt az 1945-ös indonéz nemzeti forradalom idején.",
+                  "category": "landmark",
+                  "coords": [
+                        112.738319,
+                        -7.236711
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Sunan Ampel",
+                  "text": "Ez a 15. századi mecset ad otthont Sunan Ampel, egy tisztelt szúfi szent sírjának.",
+                  "category": "religious",
+                  "coords": [
+                        112.742837,
+                        -7.229948
+                  ]
+            },
+            {
+                  "name": "Museum Dr. Soetomo",
+                  "text": "A múzeum Dr. Soetomo nemzeti hősnek van szentelve, és egy történelmi épületegyüttesben található.",
+                  "category": "museum",
+                  "coords": [
+                        112.735345,
+                        -7.250906
+                  ]
+            },
+            {
+                  "name": "Museum Surabaya (Gedung Siola)",
+                  "text": "A történelmi Siola-épületben helyet kapott múzeum Surabaya városfejlődésének kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        112.737581,
+                        -7.256314
+                  ]
+            },
+            {
+                  "name": "House of Sampoerna",
+                  "text": "Pompás gyarmati épület, amely egy múzeumnak ad otthont, ahol a szegfűszeges cigaretták készítését mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        112.734146,
+                        -7.230992
+                  ]
+            },
+            {
+                  "name": "Monumen Nol Kilometer Surabaya",
+                  "text": "Emlékmű a Kantor Gubernur előtt, amely Surabaya város földrajzi nullpontját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        112.738727,
+                        -7.245662
+                  ]
+            },
+            {
+                  "name": "Masjid Riyadhuljanna",
+                  "text": "Ez a mecset központi imádsági helyet biztosít a hívőknek a hősök városának történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        112.742238,
+                        -7.226257
+                  ]
+            },
+            {
+                  "name": "Mushollah Baitul Rahman",
+                  "text": "Muszlim imaház az indonéz függetlenség jelentős emlékműveinek közelében.",
+                  "category": "religious",
+                  "coords": [
+                        112.743201,
+                        -7.227162
+                  ]
+            },
+            {
+                  "name": "TKA Al-Quran Thoyyib Fatah",
+                  "text": "Vallási oktatási központ és mecset, amely mélyen gyökerezik a történelmi negyed társadalmi szövetében.",
+                  "category": "religious",
+                  "coords": [
+                        112.741937,
+                        -7.227455
+                  ]
+            },
+            {
+                  "name": "Masjid Shuffah",
+                  "text": "A mecset a helyi közösséget szolgálja a Hősök emlékművétől nem messze lévő nyüzsgő városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        112.739856,
+                        -7.225188
+                  ]
+            },
+            {
+                  "name": "Mushollah Al-Mukhlishin",
+                  "text": "Csendes imaház a történelmi Surabaya egyik forgalmas mellékutcájában.",
+                  "category": "religious",
+                  "coords": [
+                        112.7324,
+                        -7.232675
+                  ]
+            },
+            {
+                  "name": "Langgar Wakaf Nurul Huda",
+                  "text": "Hagyományos, kicsi imaház (Langgar), amely megőrzi a helyi vallási alapítványok szellemét.",
+                  "category": "religious",
+                  "coords": [
+                        112.730872,
+                        -7.233247
+                  ]
+            },
+            {
+                  "name": "GPIB PNIEL Surabaya",
+                  "text": "A GPIB gyülekezet protestáns temploma Surabaya egyik fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        112.731249,
+                        -7.23424
+                  ]
+            },
+            {
+                  "name": "Yayasan Naga Samudera",
+                  "text": "Ez a surabayai vallási alapítvány kínai kulturális hatásokkal rendelkező istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        112.733743,
+                        -7.237802
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "Helyi keresztény templom, amely Surabaya egyik lakónegyedének hitéletét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        112.73588,
+                        -7.240264
+                  ]
+            },
+            {
+                  "name": "Mushollah Baiturrahman",
+                  "text": "Kisméretű iszlám imaház Surabayában, a helyi lakosok napi imádságainak helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        112.740148,
+                        -7.229562
+                  ]
+            },
+            {
+                  "name": "Musholla Al-Hikmah",
+                  "text": "Ez a musolla egy egyszerű imaház Surabaya városrészének szívében.",
+                  "category": "religious",
+                  "coords": [
+                        112.73854,
+                        -7.224387
+                  ]
+            },
+            {
+                  "name": "Gereja Pantekosta di Indonesia Sion Permai",
+                  "text": "Pünkösdi keresztény templom Surabayában, amely élénk hitéletéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        112.735731,
+                        -7.229245
+                  ]
+            },
+            {
+                  "name": "Mushollah Surgaku",
+                  "text": "Kisméretű, szerény iszlám imaház Surabaya egyik lakóövezetében.",
+                  "category": "religious",
+                  "coords": [
+                        112.738527,
+                        -7.229323
+                  ]
+            },
+            {
+                  "name": "Mushollah Darussalam",
+                  "text": "Ez a musolla a helyi közösség központi helyszíne a közös imádkozáshoz Surabayában.",
+                  "category": "religious",
+                  "coords": [
+                        112.739689,
+                        -7.227518
+                  ]
+            },
+            {
+                  "name": "Gereja Bukit Zion Jemaat Kasuari",
+                  "text": "A Zion-hegyi protestáns templom Surabaya egyik jellegzetes vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        112.737507,
+                        -7.232259
+                  ]
+            },
+            {
+                  "name": "Mushollag Al Hijroh",
+                  "text": "Kisméretű surabayai imaház, amely a hidzsra (vándorlás) elve után kapta a nevét.",
+                  "category": "religious",
+                  "coords": [
+                        112.736992,
+                        -7.2448
+                  ]
+            },
+            {
+                  "name": "Pasar Sikatan",
+                  "text": "Hagyományos helyi piac Surabayában, ahol friss élelmiszereket és napi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        112.671908,
+                        -7.259448
+                  ]
+            },
+            {
+                  "name": "Pasar Turi",
+                  "text": "Surabaya egyik legnagyobb nagykereskedelmi piaca a vasútállomás közelében, amely ruházatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        112.729615,
+                        -7.250655
+                  ]
+            },
+            {
+                  "name": "Pasar Asemrowo",
+                  "text": "Nyüzsgő környékbeli piac Surabayában, amely helyi termékek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        112.715416,
+                        -7.252387
+                  ]
+            },
+            {
+                  "name": "Pasar Pacuan Kuda",
+                  "text": "Ez a piac a korábbi surabayai lóversenypálya közelében található, kiszolgálva a környező negyedeket.",
+                  "category": "cultural",
+                  "coords": [
+                        112.71687,
+                        -7.260408
+                  ]
+            },
+            {
+                  "name": "Pasar Darurat (Manukan Kulon)",
+                  "text": "Helyi piac Manukan Kulon negyedében, amely friss zöldség- és halkínálatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        112.662432,
+                        -7.262071
+                  ]
+            },
+            {
+                  "name": "Pasar Pabean",
+                  "text": "Történelmi piac Surabayában, amely hal- és fűszerkereskedelméről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        112.740826,
+                        -7.234808
+                  ]
+            },
+            {
+                  "name": "Pasar Kapasan",
+                  "text": "Ez a specializált surabayai piac a textilek és készruhák egyik ismert központja.",
+                  "category": "cultural",
+                  "coords": [
+                        112.749455,
+                        -7.239322
+                  ]
+            },
+            {
+                  "name": "Pasar Bulak Banteng",
+                  "text": "Hagyományos piac Bulak Banteng negyedében, amely autentikus helyi vásárlási élményt nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        112.761053,
+                        -7.217931
+                  ]
+            },
+            {
+                  "name": "Pasar Buah Pegirian",
+                  "text": "Speciális gyümölcspiac Surabayában, ahol a régió trópusi gyümölcseinek széles választéka kapható.",
+                  "category": "cultural",
+                  "coords": [
+                        112.751966,
+                        -7.223662
+                  ]
+            },
+            {
+                  "name": "Pasar Pegirian",
+                  "text": "Ez az Ampel-negyed közeli piac vallási kellékek és fűszerek árusításáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        112.74556,
+                        -7.227009
+                  ]
+            },
+            {
+                  "name": "Pasar Banjar Sugihan",
+                  "text": "Helyi piac Banjar Sugihanban, amely a surabayai lakosok napi szükségleteit elégíti ki.",
+                  "category": "cultural",
+                  "coords": [
+                        112.658376,
+                        -7.255309
+                  ]
+            },
+            {
+                  "name": "Pasar Manukan Kulon",
+                  "text": "Nyüzsgő piac Nyugat-Surabayában, ahol a kereskedők háztartási cikkek széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        112.662191,
+                        -7.25997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Javasche Bank",
+                  "text": "Acest muzeu este situat într-o clădire splendidă din 1918 și prezintă istoria bancară.",
+                  "category": "museum",
+                  "coords": [
+                        112.736831,
+                        -7.235341
+                  ]
+            },
+            {
+                  "name": "Tugu Pahlawan",
+                  "text": "Un obelisc distinctiv de 41 de metri înălțime, care comemorează lupta pentru independență din bătălia de la Surabaya.",
+                  "category": "historical",
+                  "coords": [
+                        112.737821,
+                        -7.245859
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Perawan Maria",
+                  "text": "Această biserică catolică neogotică din 1899 este unul dintre cele mai vechi lăcașuri de cult din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        112.736946,
+                        -7.242082
+                  ]
+            },
+            {
+                  "name": "Jembatan Merah",
+                  "text": "Istoricul „Pod Roșu” a fost un loc central în timpul revoluției naționale indoneziene din 1945.",
+                  "category": "landmark",
+                  "coords": [
+                        112.738319,
+                        -7.236711
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Sunan Ampel",
+                  "text": "Această moschee din secolul al XV-lea găzduiește mormântul lui Sunan Ampel, un sfânt sufit venerat.",
+                  "category": "religious",
+                  "coords": [
+                        112.742837,
+                        -7.229948
+                  ]
+            },
+            {
+                  "name": "Museum Dr. Soetomo",
+                  "text": "Muzeul este dedicat eroului național Dr. Soetomo și se află într-un complex de clădiri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        112.735345,
+                        -7.250906
+                  ]
+            },
+            {
+                  "name": "Museum Surabaya (Gedung Siola)",
+                  "text": "Găzduit în clădirea istorică Siola, muzeul prezintă exponate despre dezvoltarea urbană a orașului Surabaya.",
+                  "category": "museum",
+                  "coords": [
+                        112.737581,
+                        -7.256314
+                  ]
+            },
+            {
+                  "name": "House of Sampoerna",
+                  "text": "O clădire colonială magnifică ce găzduiește un muzeu unde este prezentată fabricarea țigărilor cu cuișoare.",
+                  "category": "historical",
+                  "coords": [
+                        112.734146,
+                        -7.230992
+                  ]
+            },
+            {
+                  "name": "Monumen Nol Kilometer Surabaya",
+                  "text": "Un monument în fața Kantor Gubernur care marchează punctul geografic zero al orașului Surabaya.",
+                  "category": "historical",
+                  "coords": [
+                        112.738727,
+                        -7.245662
+                  ]
+            },
+            {
+                  "name": "Masjid Riyadhuljanna",
+                  "text": "Această moschee oferă credincioșilor un loc central de rugăciune în centrul istoric al orașului eroilor.",
+                  "category": "religious",
+                  "coords": [
+                        112.742238,
+                        -7.226257
+                  ]
+            },
+            {
+                  "name": "Mushollah Baitul Rahman",
+                  "text": "Un lăcaș de rugăciune musulman în apropierea monumentelor semnificative ale independenței indoneziene.",
+                  "category": "religious",
+                  "coords": [
+                        112.743201,
+                        -7.227162
+                  ]
+            },
+            {
+                  "name": "TKA Al-Quran Thoyyib Fatah",
+                  "text": "Un centru de educație religioasă și moschee, profund înrădăcinat în structura socială a cartierului istoric.",
+                  "category": "religious",
+                  "coords": [
+                        112.741937,
+                        -7.227455
+                  ]
+            },
+            {
+                  "name": "Masjid Shuffah",
+                  "text": "Moscheea deservește comunitatea locală din cartierul animat aflat nu departe de Monumentul Eroilor.",
+                  "category": "religious",
+                  "coords": [
+                        112.739856,
+                        -7.225188
+                  ]
+            },
+            {
+                  "name": "Mushollah Al-Mukhlishin",
+                  "text": "O sală de rugăciune liniștită pe una dintre străzile laterale aglomerate ale Surabayei istorice.",
+                  "category": "religious",
+                  "coords": [
+                        112.7324,
+                        -7.232675
+                  ]
+            },
+            {
+                  "name": "Langgar Wakaf Nurul Huda",
+                  "text": "O casă de rugăciune tradițională, mică (Langgar), care păstrează spiritul fundațiilor religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        112.730872,
+                        -7.233247
+                  ]
+            },
+            {
+                  "name": "GPIB PNIEL Surabaya",
+                  "text": "Această biserică protestantă a comunității GPIB servește ca un centru religios important în Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.731249,
+                        -7.23424
+                  ]
+            },
+            {
+                  "name": "Yayasan Naga Samudera",
+                  "text": "Această fundație religioasă din Surabaya este un loc de cult cu influențe culturale chinezești.",
+                  "category": "religious",
+                  "coords": [
+                        112.733743,
+                        -7.237802
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "O biserică creștină locală care servește ca loc de rugăciune pentru comunitatea din Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.73588,
+                        -7.240264
+                  ]
+            },
+            {
+                  "name": "Mushollah Baiturrahman",
+                  "text": "Un mic loc de rugăciune islamic din Surabaya, utilizat pentru rugăciunile zilnice ale rezidenților.",
+                  "category": "religious",
+                  "coords": [
+                        112.740148,
+                        -7.229562
+                  ]
+            },
+            {
+                  "name": "Musholla Al-Hikmah",
+                  "text": "Această musholla este un loc simplu de rugăciune în inima cartierului din Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.73854,
+                        -7.224387
+                  ]
+            },
+            {
+                  "name": "Gereja Pantekosta di Indonesia Sion Permai",
+                  "text": "Un lăcaș de cult penticostal din Surabaya, cunoscut pentru serviciile sale religioase.",
+                  "category": "religious",
+                  "coords": [
+                        112.735731,
+                        -7.229245
+                  ]
+            },
+            {
+                  "name": "Mushollah Surgaku",
+                  "text": "O mică și modestă sală de rugăciune pentru musulmani într-o zonă rezidențială din Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.738527,
+                        -7.229323
+                  ]
+            },
+            {
+                  "name": "Mushollah Darussalam",
+                  "text": "Această musholla servește comunității locale din Surabaya ca punct central pentru rugăciunea comună.",
+                  "category": "religious",
+                  "coords": [
+                        112.739689,
+                        -7.227518
+                  ]
+            },
+            {
+                  "name": "Gereja Bukit Zion Jemaat Kasuari",
+                  "text": "Această biserică protestantă de pe dealul Zion este un edificiu religios marcant din Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.737507,
+                        -7.232259
+                  ]
+            },
+            {
+                  "name": "Mushollag Al Hijroh",
+                  "text": "O mică sală de rugăciune din Surabaya, numită după principiul migrației (Hijrah).",
+                  "category": "religious",
+                  "coords": [
+                        112.736992,
+                        -7.2448
+                  ]
+            },
+            {
+                  "name": "Pasar Sikatan",
+                  "text": "O piață locală tradițională din Surabaya, unde se vând alimente proaspete și produse de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        112.671908,
+                        -7.259448
+                  ]
+            },
+            {
+                  "name": "Pasar Turi",
+                  "text": "Una dintre cele mai mari piețe en-gros din Surabaya, cunoscută pentru haine și textile lângă gară.",
+                  "category": "cultural",
+                  "coords": [
+                        112.729615,
+                        -7.250655
+                  ]
+            },
+            {
+                  "name": "Pasar Asemrowo",
+                  "text": "O piață de cartier plină de viață din Surabaya, care oferă o varietate de produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        112.715416,
+                        -7.252387
+                  ]
+            },
+            {
+                  "name": "Pasar Pacuan Kuda",
+                  "text": "Această piață este situată lângă fosta pistă de curse de cai din Surabaya, deservind cartierele din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        112.71687,
+                        -7.260408
+                  ]
+            },
+            {
+                  "name": "Pasar Darurat (Manukan Kulon)",
+                  "text": "O piață locală din cartierul Manukan Kulon, cunoscută pentru selecția de legume proaspete și pește.",
+                  "category": "cultural",
+                  "coords": [
+                        112.662432,
+                        -7.262071
+                  ]
+            },
+            {
+                  "name": "Pasar Pabean",
+                  "text": "O piață istorică din Surabaya, renumită pentru comerțul cu pește și condimente aromate.",
+                  "category": "cultural",
+                  "coords": [
+                        112.740826,
+                        -7.234808
+                  ]
+            },
+            {
+                  "name": "Pasar Kapasan",
+                  "text": "Această piață specializată din Surabaya este un centru cunoscut pentru textile și haine gata făcute.",
+                  "category": "cultural",
+                  "coords": [
+                        112.749455,
+                        -7.239322
+                  ]
+            },
+            {
+                  "name": "Pasar Bulak Banteng",
+                  "text": "O piață tradițională în cartierul Bulak Banteng, oferind o atmosferă autentică de cumpărături locale.",
+                  "category": "cultural",
+                  "coords": [
+                        112.761053,
+                        -7.217931
+                  ]
+            },
+            {
+                  "name": "Pasar Buah Pegirian",
+                  "text": "O piață de fructe specializată din Surabaya, care oferă o gamă largă de fructe tropicale din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        112.751966,
+                        -7.223662
+                  ]
+            },
+            {
+                  "name": "Pasar Pegirian",
+                  "text": "Această piață de lângă cartierul Ampel este cunoscută pentru vânzarea de articole religioase și condimente.",
+                  "category": "cultural",
+                  "coords": [
+                        112.74556,
+                        -7.227009
+                  ]
+            },
+            {
+                  "name": "Pasar Banjar Sugihan",
+                  "text": "O piață locală în Banjar Sugihan, care satisface nevoile zilnice ale rezidenților din Surabaya.",
+                  "category": "cultural",
+                  "coords": [
+                        112.658376,
+                        -7.255309
+                  ]
+            },
+            {
+                  "name": "Pasar Manukan Kulon",
+                  "text": "O piață aglomerată din vestul orașului Surabaya, unde comercianții oferă o varietate de articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        112.662191,
+                        -7.25997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Javasche Bank",
+                  "text": "Housed in a grand 1918 building, this museum showcases the financial history of the colonial era.",
+                  "category": "museum",
+                  "coords": [
+                        112.736831,
+                        -7.235341
+                  ]
+            },
+            {
+                  "name": "Heroes Monument",
+                  "text": "A striking 41-meter obelisk commemorating the independence struggle in the Battle of Surabaya.",
+                  "category": "historical",
+                  "coords": [
+                        112.737821,
+                        -7.245859
+                  ]
+            },
+            {
+                  "name": "Church of the Birth of Our Lady",
+                  "text": "This Neo-Gothic Catholic church, dating from 1899, is one of the oldest places of worship in the city.",
+                  "category": "religious",
+                  "coords": [
+                        112.736946,
+                        -7.242082
+                  ]
+            },
+            {
+                  "name": "Jembatan Merah",
+                  "text": "The historic 'Red Bridge' was a pivotal location during the 1945 Indonesian National Revolution.",
+                  "category": "landmark",
+                  "coords": [
+                        112.738319,
+                        -7.236711
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Sunan Ampel",
+                  "text": "Founded in the 15th century, this historic mosque contains the tomb of Sunan Ampel, a revered Sufi saint.",
+                  "category": "religious",
+                  "coords": [
+                        112.742837,
+                        -7.229948
+                  ]
+            },
+            {
+                  "name": "Museum Dr. Soetomo",
+                  "text": "Dedicated to the national hero Dr. Soetomo, this museum is located within a historic building complex.",
+                  "category": "museum",
+                  "coords": [
+                        112.735345,
+                        -7.250906
+                  ]
+            },
+            {
+                  "name": "Museum Surabaya (Gedung Siola)",
+                  "text": "Located in the historic Siola building, this museum displays exhibits on the urban development of Surabaya.",
+                  "category": "museum",
+                  "coords": [
+                        112.737581,
+                        -7.256314
+                  ]
+            },
+            {
+                  "name": "House of Sampoerna",
+                  "text": "A grand Dutch colonial-style manor housing a museum where traditional clove cigarette production is shown.",
+                  "category": "historical",
+                  "coords": [
+                        112.734146,
+                        -7.230992
+                  ]
+            },
+            {
+                  "name": "Nol Kilometer Surabaya Monument",
+                  "text": "A monument in front of the Governor's office marking the geographical zero point of Surabaya.",
+                  "category": "historical",
+                  "coords": [
+                        112.738727,
+                        -7.245662
+                  ]
+            },
+            {
+                  "name": "Masjid Riyadhuljanna",
+                  "text": "This mosque provides a central place of prayer for the faithful in the historic center of the City of Heroes.",
+                  "category": "religious",
+                  "coords": [
+                        112.742238,
+                        -7.226257
+                  ]
+            },
+            {
+                  "name": "Mushollah Baitul Rahman",
+                  "text": "A Muslim place of worship located near the significant monuments of Indonesian independence.",
+                  "category": "religious",
+                  "coords": [
+                        112.743201,
+                        -7.227162
+                  ]
+            },
+            {
+                  "name": "TKA Al-Quran Thoyyib Fatah",
+                  "text": "A religious educational center and mosque deeply rooted in the social fabric of the historic district.",
+                  "category": "religious",
+                  "coords": [
+                        112.741937,
+                        -7.227455
+                  ]
+            },
+            {
+                  "name": "Masjid Shuffah",
+                  "text": "The mosque serves the local community in the busy district not far from the Heroes Monument.",
+                  "category": "religious",
+                  "coords": [
+                        112.739856,
+                        -7.225188
+                  ]
+            },
+            {
+                  "name": "Mushollah Al-Mukhlishin",
+                  "text": "A quiet prayer room in one of the busy side streets of historic Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.7324,
+                        -7.232675
+                  ]
+            },
+            {
+                  "name": "Langgar Wakaf Nurul Huda",
+                  "text": "A traditional, small prayer house (Langgar) preserving the spirit of local religious endowments.",
+                  "category": "religious",
+                  "coords": [
+                        112.730872,
+                        -7.233247
+                  ]
+            },
+            {
+                  "name": "GPIB PNIEL Surabaya",
+                  "text": "This Protestant church of the GPIB congregation serves as a key religious center in the Surabaya district.",
+                  "category": "religious",
+                  "coords": [
+                        112.731249,
+                        -7.23424
+                  ]
+            },
+            {
+                  "name": "Yayasan Naga Samudera",
+                  "text": "This religious foundation in Surabaya is a place of worship with Chinese cultural influences.",
+                  "category": "religious",
+                  "coords": [
+                        112.733743,
+                        -7.237802
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "A local Christian church serving as a place of worship for the surrounding Surabaya neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        112.73588,
+                        -7.240264
+                  ]
+            },
+            {
+                  "name": "Mushollah Baiturrahman",
+                  "text": "A small Islamic prayer room in Surabaya used for the daily prayers of local residents.",
+                  "category": "religious",
+                  "coords": [
+                        112.740148,
+                        -7.229562
+                  ]
+            },
+            {
+                  "name": "Musholla Al-Hikmah",
+                  "text": "This musholla is a simple place of prayer and reflection within the Surabaya neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        112.73854,
+                        -7.224387
+                  ]
+            },
+            {
+                  "name": "Gereja Pantekosta di Indonesia Sion Permai",
+                  "text": "A Pentecostal place of worship in Surabaya known for its active community services.",
+                  "category": "religious",
+                  "coords": [
+                        112.735731,
+                        -7.229245
+                  ]
+            },
+            {
+                  "name": "Mushollah Surgaku",
+                  "text": "A small, modest prayer room for Muslims located in a residential area of Surabaya.",
+                  "category": "religious",
+                  "coords": [
+                        112.738527,
+                        -7.229323
+                  ]
+            },
+            {
+                  "name": "Mushollah Darussalam",
+                  "text": "This musholla serves the local community in Surabaya as a central point for communal prayer.",
+                  "category": "religious",
+                  "coords": [
+                        112.739689,
+                        -7.227518
+                  ]
+            },
+            {
+                  "name": "Gereja Bukit Zion Jemaat Kasuari",
+                  "text": "This Protestant church on Zion Hill is a prominent religious building in the Surabaya area.",
+                  "category": "religious",
+                  "coords": [
+                        112.737507,
+                        -7.232259
+                  ]
+            },
+            {
+                  "name": "Mushollag Al Hijroh",
+                  "text": "A small prayer room in Surabaya named after the principle of migration (Hijrah).",
+                  "category": "religious",
+                  "coords": [
+                        112.736992,
+                        -7.2448
+                  ]
+            },
+            {
+                  "name": "Pasar Sikatan",
+                  "text": "A traditional local market in Surabaya selling fresh produce and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        112.671908,
+                        -7.259448
+                  ]
+            },
+            {
+                  "name": "Pasar Turi",
+                  "text": "One of Surabaya's largest wholesale markets, famous for clothing and textiles near the train station.",
+                  "category": "cultural",
+                  "coords": [
+                        112.729615,
+                        -7.250655
+                  ]
+            },
+            {
+                  "name": "Pasar Asemrowo",
+                  "text": "A bustling neighborhood market in Surabaya offering a variety of local goods and produce.",
+                  "category": "cultural",
+                  "coords": [
+                        112.715416,
+                        -7.252387
+                  ]
+            },
+            {
+                  "name": "Pasar Pacuan Kuda",
+                  "text": "Located near Surabaya's former horse racing track, this market serves the surrounding residential areas.",
+                  "category": "cultural",
+                  "coords": [
+                        112.71687,
+                        -7.260408
+                  ]
+            },
+            {
+                  "name": "Pasar Darurat (Manukan Kulon)",
+                  "text": "A local market in the Manukan Kulon area, known for its selection of fresh vegetables and fish.",
+                  "category": "cultural",
+                  "coords": [
+                        112.662432,
+                        -7.262071
+                  ]
+            },
+            {
+                  "name": "Pasar Pabean",
+                  "text": "A historic market in Surabaya famous for its trade in fresh fish and aromatic spices.",
+                  "category": "cultural",
+                  "coords": [
+                        112.740826,
+                        -7.234808
+                  ]
+            },
+            {
+                  "name": "Pasar Kapasan",
+                  "text": "This specialized market in Surabaya is a well-known hub for textiles and ready-made garments.",
+                  "category": "cultural",
+                  "coords": [
+                        112.749455,
+                        -7.239322
+                  ]
+            },
+            {
+                  "name": "Pasar Bulak Banteng",
+                  "text": "A traditional market in the Bulak Banteng district offering an authentic local shopping atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        112.761053,
+                        -7.217931
+                  ]
+            },
+            {
+                  "name": "Pasar Buah Pegirian",
+                  "text": "A specialized fruit market in Surabaya offering a wide selection of regional tropical fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        112.751966,
+                        -7.223662
+                  ]
+            },
+            {
+                  "name": "Pasar Pegirian",
+                  "text": "Located near the Ampel quarter, this market is known for selling religious items and spices.",
+                  "category": "cultural",
+                  "coords": [
+                        112.74556,
+                        -7.227009
+                  ]
+            },
+            {
+                  "name": "Pasar Banjar Sugihan",
+                  "text": "A local marketplace in Banjar Sugihan catering to the daily needs of Surabaya residents.",
+                  "category": "cultural",
+                  "coords": [
+                        112.658376,
+                        -7.255309
+                  ]
+            },
+            {
+                  "name": "Pasar Manukan Kulon",
+                  "text": "A busy market in western Surabaya where vendors offer a variety of household goods and staples.",
+                  "category": "cultural",
+                  "coords": [
+                        112.662191,
+                        -7.25997
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "ID-JI",
     coords: [112.7381, -7.2458],
@@ -615,7 +14556,1204 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "gedong-songo-temples-history-v2",
+    id: "gedong-songo-temples-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taman Museum Kereta Api Ambarawa",
+                  "text": "Ein ehemaliger Bahnhof, der heute eine bedeutende Sammlung historischer Dampflokomotiven aus der Kolonialzeit beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        110.402308,
+                        -7.265203
+                  ]
+            },
+            {
+                  "name": "Kawedanan Ambarawa",
+                  "text": "Dieses historische Verwaltungsgebäude in Ambarawa ist ein Beispiel für die niederländische Kolonialarchitektur in Zentraljava.",
+                  "category": "museum",
+                  "coords": [
+                        110.40454,
+                        -7.255641
+                  ]
+            },
+            {
+                  "name": "Gua Maria Kerep Ambarawa",
+                  "text": "Ein katholischer Wallfahrtsort, der für seine 42 Meter hohe Statue der Jungfrau Maria und eine künstliche Grotte bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        110.398454,
+                        -7.255488
+                  ]
+            },
+            {
+                  "name": "Monumen Tank",
+                  "text": "Dieses Militärmonument zeigt einen historischen Panzer und erinnert an die Schlacht von Ambarawa während des indonesischen Unabhängigkeitskrieges.",
+                  "category": "historical",
+                  "coords": [
+                        110.402685,
+                        -7.260356
+                  ]
+            },
+            {
+                  "name": "Tugu Yudha Cakti",
+                  "text": "Ein Denkmal zu Ehren der indonesischen Streitkräfte, das den Widerstand gegen die Kolonialmächte symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        110.326585,
+                        -7.175016
+                  ]
+            },
+            {
+                  "name": "Candi Argosumo",
+                  "text": "Eine archäologische Stätte mit den Überresten eines antiken hinduistischen Tempels an den Hängen des Mount Ungaran.",
+                  "category": "historical",
+                  "coords": [
+                        110.336699,
+                        -7.15289
+                  ]
+            },
+            {
+                  "name": "Goa Jepang",
+                  "text": "Ein System von unterirdischen Tunneln und Bunkern, die während des Zweiten Weltkriegs von japanischen Truppen gebaut wurden.",
+                  "category": "fortress",
+                  "coords": [
+                        110.351661,
+                        -7.17029
+                  ]
+            },
+            {
+                  "name": "Patung Dr Cipto Mangunkusumo",
+                  "text": "Eine Statue zu Ehren des indonesischen Nationalhelden Dr. Cipto Mangunkusumo, der für seine Rolle im Kampf gegen den Kolonialismus bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        110.40574,
+                        -7.257497
+                  ]
+            },
+            {
+                  "name": "Candi I Gedong Songgo",
+                  "text": "Der erste Tempel eines 9. Jahrhundert Komplexes, der hoch am Mount Ungaran mit Panoramablick auf die umliegenden Vulkane liegt.",
+                  "category": "historical",
+                  "coords": [
+                        110.341733,
+                        -7.208138
+                  ]
+            },
+            {
+                  "name": "Candi II Gedong Songgo",
+                  "text": "Ein hinduistischer Steintempel aus der Mataram-Ära, der Teil einer größeren Gruppe von Bergschreinen auf über 1.200 Metern Höhe ist.",
+                  "category": "historical",
+                  "coords": [
+                        110.340649,
+                        -7.204915
+                  ]
+            },
+            {
+                  "name": "Candi III Gedong Songgo",
+                  "text": "Dieser gut erhaltene Schrein gehört zum Gedong Songo-Komplex und ist Gott Shiva gewidmet, umgeben von natürlichen heißen Quellen.",
+                  "category": "historical",
+                  "coords": [
+                        110.340214,
+                        -7.203911
+                  ]
+            },
+            {
+                  "name": "Candi IV Gedong Songgo",
+                  "text": "Ein antiker Tempelbau, der über steile Pfade erreichbar ist und Einblicke in die frühe javanische Hindu-Architektur bietet.",
+                  "category": "historical",
+                  "coords": [
+                        110.338229,
+                        -7.203737
+                  ]
+            },
+            {
+                  "name": "Candi V Gedong Songgo",
+                  "text": "Der fünfte Tempel dieses historischen Ensembles bietet aufgrund seiner exponierten Lage oft eine spektakuläre Aussicht über den Wolken.",
+                  "category": "historical",
+                  "coords": [
+                        110.337849,
+                        -7.205653
+                  ]
+            },
+            {
+                  "name": "Masjid AT - TAQWA",
+                  "text": "Eine zentrale Moschee in der Nähe von Ambarawa, die durch ihr modernes indonesisches Design und ihre große Kuppel auffällt.",
+                  "category": "religious",
+                  "coords": [
+                        110.310351,
+                        -7.289266
+                  ]
+            },
+            {
+                  "name": "Masjid Jami’ Al Mut-Taqin",
+                  "text": "Diese Jami-Moschee ist ein bedeutender Versammlungsort für das Freitagsgebet und religiöse Feierlichkeiten in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        110.30893,
+                        -7.287533
+                  ]
+            },
+            {
+                  "name": "Pasar Lanang",
+                  "text": "Ein traditioneller Marktplatz, auf dem lokale Bauern frisches Obst, Gemüse und javanische Gewürze anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        110.405118,
+                        -7.264298
+                  ]
+            },
+            {
+                  "name": "Pasar Hewan Ambarawa",
+                  "text": "Der Viehmarkt von Ambarawa ist bekannt für den Handel mit Rindern und Ziegen nach traditionellen Methoden.",
+                  "category": "cultural",
+                  "coords": [
+                        110.420411,
+                        -7.248685
+                  ]
+            },
+            {
+                  "name": "Pasar Projo Ambarawa",
+                  "text": "Ein belebter zentraler Markt in Ambarawa, der eine große Auswahl an Haushaltswaren und lokalen Straßengerichten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        110.408454,
+                        -7.255965
+                  ]
+            },
+            {
+                  "name": "Pasar Jimbaran",
+                  "text": "Ein regionaler Markt im Viertel Jimbaran, der besonders für seine lokalen Handwerksprodukte und traditionellen Textilien bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        110.387757,
+                        -7.209869
+                  ]
+            },
+            {
+                  "name": "Gardu Pandang Nyatnyono",
+                  "text": "Ein Aussichtspunkt in Nyatnyono, der einen weiten Blick über die Reisterrassen und das Hochland von Zentraljava ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        110.367443,
+                        -7.153468
+                  ]
+            },
+            {
+                  "name": "Masjid Muttaqin",
+                  "text": "Eine muslimische Kultstätte in der Nähe des historischen Gedong Songo-Parks, die den lokalen spirituellen Alltag prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.385403,
+                        -7.265248
+                  ]
+            },
+            {
+                  "name": "Gereja Kristen Jawa Ngampin",
+                  "text": "Diese javanische christliche Kirche im Dorf Ngampin ist für ihre Integration lokaler kultureller Elemente in die Gottesdienste bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        110.386115,
+                        -7.264245
+                  ]
+            },
+            {
+                  "name": "Pura Giri Suci Ambarawa",
+                  "text": "Ein hinduistischer Tempel in Ambarawa mit traditionellen balinesischen Schreinen und kunstvollen Steinmetzarbeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        110.400708,
+                        -7.251013
+                  ]
+            },
+            {
+                  "name": "Al Amin",
+                  "text": "Eine muslimische Gebetsstätte in Ambarawa, die durch ihre schlichte Architektur und die ruhige Lage besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        110.370533,
+                        -7.227685
+                  ]
+            },
+            {
+                  "name": "Jami' An Nuur",
+                  "text": "Die Jami' An Nuur Moschee ist ein zentraler Gebetsort für die Bewohner der Region Ambarawa.",
+                  "category": "landmark",
+                  "coords": [
+                        110.369604,
+                        -7.223176
+                  ]
+            },
+            {
+                  "name": "Masjid Darussalam",
+                  "text": "Diese Moschee in Ambarawa bietet mit ihrem markanten Dach einen Raum für das tägliche islamische Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406665,
+                        -7.264735
+                  ]
+            },
+            {
+                  "name": "Masjid At-Tauhid",
+                  "text": "Eine lokale Moschee in Ambarawa, die für ihre gemeinschaftlichen Versammlungen und religiösen Feiern bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        110.407869,
+                        -7.258771
+                  ]
+            },
+            {
+                  "name": "Mushola",
+                  "text": "Ein kleinerer muslimischer Gebetsraum, der den Gläubigen im Viertel Ambarawa für kurze Gebetspausen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        110.412881,
+                        -7.2561
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel Ambarawa",
+                  "text": "Eine protestantische Kirche in Ambarawa, die durch ihre lebhaften Gottesdienste und die christliche Gemeinschaft geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406013,
+                        -7.256117
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muttaqin",
+                  "text": "Die Al-Muttaqin Moschee dient als geistliches Zentrum für die muslimische Gemeinde in der Nähe der historischen Stätten.",
+                  "category": "landmark",
+                  "coords": [
+                        110.418063,
+                        -7.246083
+                  ]
+            },
+            {
+                  "name": "Klenteng Ho Tek Bio Ambarawa",
+                  "text": "Ein prächtiger chinesischer Tempel in Ambarawa, der mit roten Laternen und kunstvollen Drachenstatuen geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        110.403949,
+                        -7.25839
+                  ]
+            },
+            {
+                  "name": "Musholla Al Ikhlas SDN Lodoyong 03",
+                  "text": "Ein muslimischer Gebetsraum direkt auf dem Gelände der Lodoyong-Schule für Schüler und Lehrer.",
+                  "category": "landmark",
+                  "coords": [
+                        110.409313,
+                        -7.26358
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kholid",
+                  "text": "Die Al Kholid Moschee ist ein markantes religiöses Bauwerk in Ambarawa mit einem traditionellen Kuppeldach.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406698,
+                        -7.255159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taman Museum Kereta Api Ambarawa",
+                  "text": "Egykori vasútállomás, amely ma a gyarmati korszakból származó történelmi gőzmozdonyok jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        110.402308,
+                        -7.265203
+                  ]
+            },
+            {
+                  "name": "Kawedanan Ambarawa",
+                  "text": "Ez a történelmi közigazgatási épület Ambarawában a közép-jávai holland gyarmati építészet példája.",
+                  "category": "museum",
+                  "coords": [
+                        110.40454,
+                        -7.255641
+                  ]
+            },
+            {
+                  "name": "Gua Maria Kerep Ambarawa",
+                  "text": "Katolikus zarándokhely, amely 42 méter magas Szűz Mária-szobráról és egy mesterséges barlangról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        110.398454,
+                        -7.255488
+                  ]
+            },
+            {
+                  "name": "Monumen Tank",
+                  "text": "Ez a katonai emlékmű egy történelmi tankot mutat be, és az indonéz függetlenségi háború ambarawai csatájára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        110.402685,
+                        -7.260356
+                  ]
+            },
+            {
+                  "name": "Tugu Yudha Cakti",
+                  "text": "Az indonéz fegyveres erők tiszteletére emelt emlékmű, amely a gyarmati hatalmakkal szembeni ellenállást jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        110.326585,
+                        -7.175016
+                  ]
+            },
+            {
+                  "name": "Candi Argosumo",
+                  "text": "Régészeti lelőhely egy ősi hindu templom maradványaival az Ungaran-hegy lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        110.336699,
+                        -7.15289
+                  ]
+            },
+            {
+                  "name": "Goa Jepang",
+                  "text": "A második világháború alatt a japán csapatok által épített föld alatti alagutak és bunkerek rendszere.",
+                  "category": "fortress",
+                  "coords": [
+                        110.351661,
+                        -7.17029
+                  ]
+            },
+            {
+                  "name": "Patung Dr Cipto Mangunkusumo",
+                  "text": "Dr. Cipto Mangunkusumo indonéz nemzeti hős szobra, aki a gyarmatosítás elleni harcban betöltött szerepéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        110.40574,
+                        -7.257497
+                  ]
+            },
+            {
+                  "name": "Candi I Gedong Songgo",
+                  "text": "Egy 9. századi komplexum első temploma, amely magasan az Ungaran-hegyen található, panorámás kilátással a környező vulkánokra.",
+                  "category": "historical",
+                  "coords": [
+                        110.341733,
+                        -7.208138
+                  ]
+            },
+            {
+                  "name": "Candi II Gedong Songgo",
+                  "text": "A Mataram-korszakból származó hindu kőtemplom, amely egy nagyobb, 1200 méter feletti magasságban lévő hegyi szentélycsoport része.",
+                  "category": "historical",
+                  "coords": [
+                        110.340649,
+                        -7.204915
+                  ]
+            },
+            {
+                  "name": "Candi III Gedong Songgo",
+                  "text": "Ez a jól megőrzött szentély a Gedong Songo komplexumhoz tartozik, és Shiva istennek szentelték, természetes hőforrásokkal körülvéve.",
+                  "category": "historical",
+                  "coords": [
+                        110.340214,
+                        -7.203911
+                  ]
+            },
+            {
+                  "name": "Candi IV Gedong Songgo",
+                  "text": "Meredek ösvényeken keresztül elérhető ősi templomépület, amely betekintést nyújt a korai jávai hindu építészetbe.",
+                  "category": "historical",
+                  "coords": [
+                        110.338229,
+                        -7.203737
+                  ]
+            },
+            {
+                  "name": "Candi V Gedong Songgo",
+                  "text": "A történelmi együttes ötödik temploma kitett fekvésének köszönhetően gyakran látványos kilátást nyújt a felhők felett.",
+                  "category": "historical",
+                  "coords": [
+                        110.337849,
+                        -7.205653
+                  ]
+            },
+            {
+                  "name": "Masjid AT - TAQWA",
+                  "text": "Központi mecset Ambarawa közelében, amely modern indonéz dizájnjával és nagy kupolájával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        110.310351,
+                        -7.289266
+                  ]
+            },
+            {
+                  "name": "Masjid Jami’ Al Mut-Taqin",
+                  "text": "Ez a Jami mecset a pénteki imák és a régió vallási ünnepeinek fontos gyülekezőhelye.",
+                  "category": "religious",
+                  "coords": [
+                        110.30893,
+                        -7.287533
+                  ]
+            },
+            {
+                  "name": "Pasar Lanang",
+                  "text": "Hagyományos piactér, ahol a helyi gazdák friss gyümölcsöket, zöldségeket és jávai fűszereket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.405118,
+                        -7.264298
+                  ]
+            },
+            {
+                  "name": "Pasar Hewan Ambarawa",
+                  "text": "Az ambarawai állatvásár a szarvasmarha- és kecskekereskedelemről ismert, amelyet hagyományos módszerekkel folytatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        110.420411,
+                        -7.248685
+                  ]
+            },
+            {
+                  "name": "Pasar Projo Ambarawa",
+                  "text": "Forgalmas központi piac Ambarawában, amely háztartási cikkek és helyi utcai ételek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        110.408454,
+                        -7.255965
+                  ]
+            },
+            {
+                  "name": "Pasar Jimbaran",
+                  "text": "Regionális piac a Jimbaran negyedben, amely különösen helyi kézműves termékeiről és hagyományos textiljeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        110.387757,
+                        -7.209869
+                  ]
+            },
+            {
+                  "name": "Gardu Pandang Nyatnyono",
+                  "text": "Kilátópont Nyatnyonóban, ahonnan pazar kilátás nyílik a rizsteraszokra és Közép-Jáva felföldjeire.",
+                  "category": "landmark",
+                  "coords": [
+                        110.367443,
+                        -7.153468
+                  ]
+            },
+            {
+                  "name": "Masjid Muttaqin",
+                  "text": "Muszlim kultikus hely a történelmi Gedong Songo park közelében, amely meghatározza a helyi lelki mindennapokat.",
+                  "category": "landmark",
+                  "coords": [
+                        110.385403,
+                        -7.265248
+                  ]
+            },
+            {
+                  "name": "Gereja Kristen Jawa Ngampin",
+                  "text": "Ez a jávai keresztény templom Ngampin faluban ismert a helyi kulturális elemek istentiszteletekbe való beépítéséről.",
+                  "category": "landmark",
+                  "coords": [
+                        110.386115,
+                        -7.264245
+                  ]
+            },
+            {
+                  "name": "Pura Giri Suci Ambarawa",
+                  "text": "Egy hindu templom Ambarawában, hagyományos balinéz stílusú szentélyekkel és díszes kőfaragványokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        110.400708,
+                        -7.251013
+                  ]
+            },
+            {
+                  "name": "Al Amin",
+                  "text": "Egy muszlim imaház Ambarawában, amelyet egyszerű építészet és nyugodt környezet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        110.370533,
+                        -7.227685
+                  ]
+            },
+            {
+                  "name": "Jami' An Nuur",
+                  "text": "A Jami' An Nuur mecset egy központi imádsági hely Ambarawa lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        110.369604,
+                        -7.223176
+                  ]
+            },
+            {
+                  "name": "Masjid Darussalam",
+                  "text": "Ez az Ambarawában található mecset jellegzetes tetőszerkezetével ad helyet a napi iszlám imáknak.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406665,
+                        -7.264735
+                  ]
+            },
+            {
+                  "name": "Masjid At-Tauhid",
+                  "text": "Egy helyi mecset Ambarawában, amely közösségi összejöveteleiről és vallási ünnepeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        110.407869,
+                        -7.258771
+                  ]
+            },
+            {
+                  "name": "Mushola",
+                  "text": "Egy kisebb muszlim imaház, amely a hívőket szolgálja Ambarawa negyedében a rövid imaalkalmakhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        110.412881,
+                        -7.2561
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel Ambarawa",
+                  "text": "Egy protestáns templom Ambarawában, amelyet élénk istentiszteletek és keresztény közösségi élet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406013,
+                        -7.256117
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muttaqin",
+                  "text": "Az Al-Muttaqin mecset szellemi központként szolgál a muszlim közösség számára a történelmi helyszínek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        110.418063,
+                        -7.246083
+                  ]
+            },
+            {
+                  "name": "Klenteng Ho Tek Bio Ambarawa",
+                  "text": "Egy pompás kínai templom Ambarawában, piros lampionokkal és művészi sárkányszobrokkal díszítve.",
+                  "category": "landmark",
+                  "coords": [
+                        110.403949,
+                        -7.25839
+                  ]
+            },
+            {
+                  "name": "Musholla Al Ikhlas SDN Lodoyong 03",
+                  "text": "Muszlim imaház közvetlenül a Lodoyong iskola területén a diákok és tanárok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        110.409313,
+                        -7.26358
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kholid",
+                  "text": "Az Al Kholid mecset egy jellegzetes vallási épület Ambarawában, hagyományos kupolás tetővel.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406698,
+                        -7.255159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taman Museum Kereta Api Ambarawa",
+                  "text": "O fostă gară care găzduiește astăzi o colecție importantă de locomotive cu abur istorice din perioada colonială.",
+                  "category": "museum",
+                  "coords": [
+                        110.402308,
+                        -7.265203
+                  ]
+            },
+            {
+                  "name": "Kawedanan Ambarawa",
+                  "text": "Această clădire administrativă istorică din Ambarawa este un exemplu de arhitectură colonială olandeză din Java Centrală.",
+                  "category": "museum",
+                  "coords": [
+                        110.40454,
+                        -7.255641
+                  ]
+            },
+            {
+                  "name": "Gua Maria Kerep Ambarawa",
+                  "text": "Un loc de pelerinaj catolic cunoscut pentru statuia sa de 42 de metri a Fecioarei Maria și o grotă artificială.",
+                  "category": "historical",
+                  "coords": [
+                        110.398454,
+                        -7.255488
+                  ]
+            },
+            {
+                  "name": "Monumen Tank",
+                  "text": "Acest monument militar expune un tanc istoric și comemorează Bătălia de la Ambarawa din timpul Războiului de Independență al Indoneziei.",
+                  "category": "historical",
+                  "coords": [
+                        110.402685,
+                        -7.260356
+                  ]
+            },
+            {
+                  "name": "Tugu Yudha Cakti",
+                  "text": "Un monument în cinstea forțelor armate indoneziene, care simbolizează rezistența împotriva puterilor coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        110.326585,
+                        -7.175016
+                  ]
+            },
+            {
+                  "name": "Candi Argosumo",
+                  "text": "Un sit arheologic cu rămășițele unui templu hinduist antic de pe versanții Muntelui Ungaran.",
+                  "category": "historical",
+                  "coords": [
+                        110.336699,
+                        -7.15289
+                  ]
+            },
+            {
+                  "name": "Goa Jepang",
+                  "text": "Un sistem de tuneluri și buncăre subterane construite de trupele japoneze în timpul celui de-al Doilea Război Mondial.",
+                  "category": "fortress",
+                  "coords": [
+                        110.351661,
+                        -7.17029
+                  ]
+            },
+            {
+                  "name": "Patung Dr Cipto Mangunkusumo",
+                  "text": "O statuie în onoarea eroului național indonezian Dr. Cipto Mangunkusumo, cunoscut pentru rolul său în lupta împotriva colonialismului.",
+                  "category": "historical",
+                  "coords": [
+                        110.40574,
+                        -7.257497
+                  ]
+            },
+            {
+                  "name": "Candi I Gedong Songgo",
+                  "text": "Primul templu al unui complex din secolul al IX-lea, situat sus pe Muntele Ungaran, cu vederi panoramice asupra vulcanilor din jur.",
+                  "category": "historical",
+                  "coords": [
+                        110.341733,
+                        -7.208138
+                  ]
+            },
+            {
+                  "name": "Candi II Gedong Songgo",
+                  "text": "Un templu hinduist din piatră din epoca Mataram, parte a unui grup mai mare de sanctuare montane situate la peste 1.200 de metri altitudine.",
+                  "category": "historical",
+                  "coords": [
+                        110.340649,
+                        -7.204915
+                  ]
+            },
+            {
+                  "name": "Candi III Gedong Songgo",
+                  "text": "Acest sanctuar bine conservat aparține complexului Gedong Songo și este dedicat zeului Shiva, fiind înconjurat de izvoare termale naturale.",
+                  "category": "historical",
+                  "coords": [
+                        110.340214,
+                        -7.203911
+                  ]
+            },
+            {
+                  "name": "Candi IV Gedong Songgo",
+                  "text": "O structură de templu antică accesibilă prin poteci abrupte, oferind perspective asupra arhitecturii hinduiste javaneze timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        110.338229,
+                        -7.203737
+                  ]
+            },
+            {
+                  "name": "Candi V Gedong Songgo",
+                  "text": "Al cincilea templu al acestui ansamblu istoric oferă adesea vederi spectaculoase deasupra norilor datorită locației sale expuse.",
+                  "category": "historical",
+                  "coords": [
+                        110.337849,
+                        -7.205653
+                  ]
+            },
+            {
+                  "name": "Masjid AT - TAQWA",
+                  "text": "O moschee centrală lângă Ambarawa, care se remarcă prin designul său indonezian modern și cupola mare.",
+                  "category": "religious",
+                  "coords": [
+                        110.310351,
+                        -7.289266
+                  ]
+            },
+            {
+                  "name": "Masjid Jami’ Al Mut-Taqin",
+                  "text": "Această moschee Jami este un loc important de adunare pentru rugăciunile de vineri și festivitățile religioase din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        110.30893,
+                        -7.287533
+                  ]
+            },
+            {
+                  "name": "Pasar Lanang",
+                  "text": "O piață tradițională unde fermierii locali oferă fructe proaspete, legume și condimente javaneze.",
+                  "category": "cultural",
+                  "coords": [
+                        110.405118,
+                        -7.264298
+                  ]
+            },
+            {
+                  "name": "Pasar Hewan Ambarawa",
+                  "text": "Piața de animale din Ambarawa este cunoscută pentru comerțul cu vite și capre folosind metode tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.420411,
+                        -7.248685
+                  ]
+            },
+            {
+                  "name": "Pasar Projo Ambarawa",
+                  "text": "O piață centrală aglomerată din Ambarawa, care oferă o gamă largă de articole de uz casnic și mâncare stradală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        110.408454,
+                        -7.255965
+                  ]
+            },
+            {
+                  "name": "Pasar Jimbaran",
+                  "text": "O piață regională din districtul Jimbaran, cunoscută în special pentru produsele artizanale locale și textilele tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        110.387757,
+                        -7.209869
+                  ]
+            },
+            {
+                  "name": "Gardu Pandang Nyatnyono",
+                  "text": "Un punct de observație în Nyatnyono, care oferă o vedere panoramică asupra teraselor de orez și a zonelor muntoase din Java Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        110.367443,
+                        -7.153468
+                  ]
+            },
+            {
+                  "name": "Masjid Muttaqin",
+                  "text": "Un lăcaș de cult musulman situat lângă parcul istoric Gedong Songo, care marchează viața spirituală locală de zi cu zi.",
+                  "category": "landmark",
+                  "coords": [
+                        110.385403,
+                        -7.265248
+                  ]
+            },
+            {
+                  "name": "Gereja Kristen Jawa Ngampin",
+                  "text": "Această biserică creștină javaneză din satul Ngampin este cunoscută pentru integrarea elementelor culturale locale în serviciile religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        110.386115,
+                        -7.264245
+                  ]
+            },
+            {
+                  "name": "Pura Giri Suci Ambarawa",
+                  "text": "Un templu hindu din Ambarawa, cu sanctuare tradiționale în stil balinez și sculpturi ornamentale în piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        110.400708,
+                        -7.251013
+                  ]
+            },
+            {
+                  "name": "Al Amin",
+                  "text": "Un lăcaș de rugăciune musulman din Ambarawa, caracterizat prin arhitectura simplă și cadrul liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        110.370533,
+                        -7.227685
+                  ]
+            },
+            {
+                  "name": "Jami' An Nuur",
+                  "text": "Moscheea Jami' An Nuur este un loc central de rugăciune pentru locuitorii din regiunea Ambarawa.",
+                  "category": "landmark",
+                  "coords": [
+                        110.369604,
+                        -7.223176
+                  ]
+            },
+            {
+                  "name": "Masjid Darussalam",
+                  "text": "Această moschee din Ambarawa oferă un spațiu pentru rugăciunile islamice zilnice sub acoperișul său distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406665,
+                        -7.264735
+                  ]
+            },
+            {
+                  "name": "Masjid At-Tauhid",
+                  "text": "O moschee locală din Ambarawa, cunoscută pentru adunările comunitare și celebrările religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        110.407869,
+                        -7.258771
+                  ]
+            },
+            {
+                  "name": "Mushola",
+                  "text": "O mică sală de rugăciune musulmană care servește credincioșii din cartierul Ambarawa pentru scurte momente de cult.",
+                  "category": "landmark",
+                  "coords": [
+                        110.412881,
+                        -7.2561
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel Ambarawa",
+                  "text": "O biserică protestantă din Ambarawa, definită prin slujbele sale pline de viață și comunitatea creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406013,
+                        -7.256117
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muttaqin",
+                  "text": "Moscheea Al-Muttaqin servește ca centru spiritual pentru comunitatea musulmană din apropierea siturilor istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        110.418063,
+                        -7.246083
+                  ]
+            },
+            {
+                  "name": "Klenteng Ho Tek Bio Ambarawa",
+                  "text": "Un templu chinezesc splendid din Ambarawa, decorat cu lampioane roșii și statui de dragoni lucrate artistic.",
+                  "category": "landmark",
+                  "coords": [
+                        110.403949,
+                        -7.25839
+                  ]
+            },
+            {
+                  "name": "Musholla Al Ikhlas SDN Lodoyong 03",
+                  "text": "O sală de rugăciune musulmană situată direct în incinta școlii Lodoyong pentru elevi și profesori.",
+                  "category": "landmark",
+                  "coords": [
+                        110.409313,
+                        -7.26358
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kholid",
+                  "text": "Moscheea Al Kholid este un edificiu religios distinctiv din Ambarawa, având un acoperiș cu cupolă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406698,
+                        -7.255159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ambarawa Railway Museum",
+                  "text": "A former railway station that now houses a significant collection of vintage steam locomotives from the colonial era.",
+                  "category": "museum",
+                  "coords": [
+                        110.402308,
+                        -7.265203
+                  ]
+            },
+            {
+                  "name": "Kawedanan Ambarawa",
+                  "text": "This historic administrative building in Ambarawa is an example of Dutch colonial architecture in Central Java.",
+                  "category": "museum",
+                  "coords": [
+                        110.40454,
+                        -7.255641
+                  ]
+            },
+            {
+                  "name": "Gua Maria Kerep Ambarawa",
+                  "text": "A Catholic pilgrimage site known for its 42-meter-high statue of the Virgin Mary and an artificial grotto.",
+                  "category": "historical",
+                  "coords": [
+                        110.398454,
+                        -7.255488
+                  ]
+            },
+            {
+                  "name": "Monumen Tank",
+                  "text": "This military monument displays a historic tank and commemorates the Battle of Ambarawa during the Indonesian War of Independence.",
+                  "category": "historical",
+                  "coords": [
+                        110.402685,
+                        -7.260356
+                  ]
+            },
+            {
+                  "name": "Tugu Yudha Cakti",
+                  "text": "A monument honoring the Indonesian armed forces, symbolizing the resistance against colonial powers.",
+                  "category": "historical",
+                  "coords": [
+                        110.326585,
+                        -7.175016
+                  ]
+            },
+            {
+                  "name": "Candi Argosumo",
+                  "text": "An archaeological site featuring the remains of an ancient Hindu temple on the slopes of Mount Ungaran.",
+                  "category": "historical",
+                  "coords": [
+                        110.336699,
+                        -7.15289
+                  ]
+            },
+            {
+                  "name": "Goa Jepang",
+                  "text": "A system of underground tunnels and bunkers built by Japanese troops during World War II.",
+                  "category": "fortress",
+                  "coords": [
+                        110.351661,
+                        -7.17029
+                  ]
+            },
+            {
+                  "name": "Patung Dr Cipto Mangunkusumo",
+                  "text": "A statue honoring the Indonesian national hero Dr. Cipto Mangunkusumo, known for his role in the fight against colonialism.",
+                  "category": "historical",
+                  "coords": [
+                        110.40574,
+                        -7.257497
+                  ]
+            },
+            {
+                  "name": "Candi I Gedong Songgo",
+                  "text": "The first temple of a 9th-century complex, located high on Mount Ungaran with panoramic views of the surrounding volcanoes.",
+                  "category": "historical",
+                  "coords": [
+                        110.341733,
+                        -7.208138
+                  ]
+            },
+            {
+                  "name": "Candi II Gedong Songgo",
+                  "text": "A Hindu stone temple from the Mataram era, part of a larger group of mountain shrines located at over 1,200 meters altitude.",
+                  "category": "historical",
+                  "coords": [
+                        110.340649,
+                        -7.204915
+                  ]
+            },
+            {
+                  "name": "Candi III Gedong Songgo",
+                  "text": "This well-preserved shrine belongs to the Gedong Songo complex and is dedicated to Lord Shiva, surrounded by natural hot springs.",
+                  "category": "historical",
+                  "coords": [
+                        110.340214,
+                        -7.203911
+                  ]
+            },
+            {
+                  "name": "Candi IV Gedong Songgo",
+                  "text": "An ancient temple structure accessible via steep paths, offering insights into early Javanese Hindu architecture.",
+                  "category": "historical",
+                  "coords": [
+                        110.338229,
+                        -7.203737
+                  ]
+            },
+            {
+                  "name": "Candi V Gedong Songgo",
+                  "text": "The fifth temple of this historic ensemble often offers spectacular views above the clouds due to its exposed location.",
+                  "category": "historical",
+                  "coords": [
+                        110.337849,
+                        -7.205653
+                  ]
+            },
+            {
+                  "name": "Masjid AT - TAQWA",
+                  "text": "A central mosque near Ambarawa, notable for its modern Indonesian design and large dome.",
+                  "category": "religious",
+                  "coords": [
+                        110.310351,
+                        -7.289266
+                  ]
+            },
+            {
+                  "name": "Masjid Jami’ Al Mut-Taqin",
+                  "text": "This Jami mosque is a significant gathering place for Friday prayers and religious festivities in the region.",
+                  "category": "religious",
+                  "coords": [
+                        110.30893,
+                        -7.287533
+                  ]
+            },
+            {
+                  "name": "Pasar Lanang",
+                  "text": "A traditional marketplace where local farmers offer fresh fruits, vegetables, and Javanese spices.",
+                  "category": "cultural",
+                  "coords": [
+                        110.405118,
+                        -7.264298
+                  ]
+            },
+            {
+                  "name": "Pasar Hewan Ambarawa",
+                  "text": "The Ambarawa livestock market is known for the trade of cattle and goats using traditional methods.",
+                  "category": "cultural",
+                  "coords": [
+                        110.420411,
+                        -7.248685
+                  ]
+            },
+            {
+                  "name": "Pasar Projo Ambarawa",
+                  "text": "A busy central market in Ambarawa offering a wide range of household goods and local street food.",
+                  "category": "cultural",
+                  "coords": [
+                        110.408454,
+                        -7.255965
+                  ]
+            },
+            {
+                  "name": "Pasar Jimbaran",
+                  "text": "A regional market in the Jimbaran district, known especially for its local handicraft products and traditional textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        110.387757,
+                        -7.209869
+                  ]
+            },
+            {
+                  "name": "Gardu Pandang Nyatnyono",
+                  "text": "An observation point in Nyatnyono offering panoramic views over the rice terraces and the highlands of Central Java.",
+                  "category": "landmark",
+                  "coords": [
+                        110.367443,
+                        -7.153468
+                  ]
+            },
+            {
+                  "name": "Masjid Muttaqin",
+                  "text": "A Muslim place of worship located near the historic Gedong Songo park, shaping the local daily spiritual life.",
+                  "category": "landmark",
+                  "coords": [
+                        110.385403,
+                        -7.265248
+                  ]
+            },
+            {
+                  "name": "Gereja Kristen Jawa Ngampin",
+                  "text": "This Javanese Christian church in Ngampin village is known for integrating local cultural elements into its services.",
+                  "category": "landmark",
+                  "coords": [
+                        110.386115,
+                        -7.264245
+                  ]
+            },
+            {
+                  "name": "Pura Giri Suci Ambarawa",
+                  "text": "A Hindu temple in Ambarawa featuring traditional Balinese-style shrines and ornate stone carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        110.400708,
+                        -7.251013
+                  ]
+            },
+            {
+                  "name": "Al Amin",
+                  "text": "A Muslim place of prayer in Ambarawa characterized by its simple architecture and peaceful setting.",
+                  "category": "landmark",
+                  "coords": [
+                        110.370533,
+                        -7.227685
+                  ]
+            },
+            {
+                  "name": "Jami' An Nuur",
+                  "text": "The Jami' An Nuur mosque is a central place of prayer for the residents of the Ambarawa region.",
+                  "category": "landmark",
+                  "coords": [
+                        110.369604,
+                        -7.223176
+                  ]
+            },
+            {
+                  "name": "Masjid Darussalam",
+                  "text": "This mosque in Ambarawa provides a space for daily Islamic prayers under its distinctive roof.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406665,
+                        -7.264735
+                  ]
+            },
+            {
+                  "name": "Masjid At-Tauhid",
+                  "text": "A local mosque in Ambarawa known for its community gatherings and religious celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        110.407869,
+                        -7.258771
+                  ]
+            },
+            {
+                  "name": "Mushola",
+                  "text": "A smaller Muslim prayer room serving the faithful in the Ambarawa neighborhood for short prayer sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        110.412881,
+                        -7.2561
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel Ambarawa",
+                  "text": "A Protestant church in Ambarawa defined by its lively services and Christian community life.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406013,
+                        -7.256117
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Muttaqin",
+                  "text": "The Al-Muttaqin mosque serves as a spiritual center for the Muslim community near the historic sites.",
+                  "category": "landmark",
+                  "coords": [
+                        110.418063,
+                        -7.246083
+                  ]
+            },
+            {
+                  "name": "Klenteng Ho Tek Bio Ambarawa",
+                  "text": "A magnificent Chinese temple in Ambarawa decorated with red lanterns and artistic dragon statues.",
+                  "category": "landmark",
+                  "coords": [
+                        110.403949,
+                        -7.25839
+                  ]
+            },
+            {
+                  "name": "Musholla Al Ikhlas SDN Lodoyong 03",
+                  "text": "A Muslim prayer room located directly within the Lodoyong school grounds for students and teachers.",
+                  "category": "landmark",
+                  "coords": [
+                        110.409313,
+                        -7.26358
+                  ]
+            },
+            {
+                  "name": "Masjid Al Kholid",
+                  "text": "The Al Kholid mosque is a distinctive religious building in Ambarawa with a traditional domed roof.",
+                  "category": "landmark",
+                  "coords": [
+                        110.406698,
+                        -7.255159
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "ID-JT",
     coords: [110.3392, -7.2108],
@@ -663,7 +15801,124 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "dieng-plateau-temples-history-v2",
+    id: "dieng-plateau-temples-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gardu Pemandangan",
+                  "text": "Ein hölzerner Beobachtungsturm mit Panoramablick über die Tempellandschaft von Dieng.",
+                  "category": "natural",
+                  "coords": [
+                        109.938344,
+                        -7.233103
+                  ]
+            },
+            {
+                  "name": "Less crowded sunrise spot",
+                  "text": "Ein ruhigerer Ort abseits der Massen, um den Sonnenaufgang über den Vulkanbergen zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        109.924157,
+                        -7.239112
+                  ]
+            },
+            {
+                  "name": "Pakuwaja",
+                  "text": "Ein markanter Berggipfel, der für seinen phallischen Felsen und den Blick auf den Mount Prau bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        109.921008,
+                        -7.230294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gardu Pemandangan",
+                  "text": "Fából készült megfigyelőtorony panorámás kilátással Dieng templomi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        109.938344,
+                        -7.233103
+                  ]
+            },
+            {
+                  "name": "Less crowded sunrise spot",
+                  "text": "Egy csendesebb hely a tömegtől távol, a vulkáni hegyek feletti napfelkelte megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        109.924157,
+                        -7.239112
+                  ]
+            },
+            {
+                  "name": "Pakuwaja",
+                  "text": "Jellegzetes hegycsúcs, amely fallosz alakú sziklájáról és a Prau-hegyre nyíló kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        109.921008,
+                        -7.230294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gardu Pemandangan",
+                  "text": "Un turn de observație din lemn cu vedere panoramică asupra peisajului templelor din Dieng.",
+                  "category": "natural",
+                  "coords": [
+                        109.938344,
+                        -7.233103
+                  ]
+            },
+            {
+                  "name": "Less crowded sunrise spot",
+                  "text": "Un loc mai liniștit, departe de mulțime, pentru a vedea răsăritul peste munții vulcanici.",
+                  "category": "natural",
+                  "coords": [
+                        109.924157,
+                        -7.239112
+                  ]
+            },
+            {
+                  "name": "Pakuwaja",
+                  "text": "Un vârf montan distinctiv, cunoscut pentru stânca sa în formă falică și vederea spre muntele Prau.",
+                  "category": "landmark",
+                  "coords": [
+                        109.921008,
+                        -7.230294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gardu Pemandangan",
+                  "text": "A wooden observation tower providing panoramic views over the Dieng temple landscape.",
+                  "category": "natural",
+                  "coords": [
+                        109.938344,
+                        -7.233103
+                  ]
+            },
+            {
+                  "name": "Less crowded sunrise spot",
+                  "text": "A quieter spot away from the crowds to witness the sunrise over the volcanic mountains.",
+                  "category": "natural",
+                  "coords": [
+                        109.924157,
+                        -7.239112
+                  ]
+            },
+            {
+                  "name": "Pakuwaja",
+                  "text": "A prominent mountain peak known for its phallic-shaped rock and views of Mount Prau.",
+                  "category": "landmark",
+                  "coords": [
+                        109.921008,
+                        -7.230294
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "ID-JT",
     coords: [109.9083, -7.2081],
@@ -711,7 +15966,1240 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "bali-bombing-memorial-history-v2",
+    id: "bali-bombing-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bali Shell Museum",
+                  "text": "Dieses Museum in Bali beherbergt eine beeindruckende Sammlung seltener Muscheln und Fossilien aus der ganzen Welt.",
+                  "category": "museum",
+                  "coords": [
+                        115.186715,
+                        -8.714265
+                  ]
+            },
+            {
+                  "name": "Bali Bombing-Denkmal",
+                  "text": "Ein Denkmal in Kuta, das mit einer steinernen Namenstafel an die Opfer der Bombenanschläge von 2002 erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        115.174489,
+                        -8.717319
+                  ]
+            },
+            {
+                  "name": "Pura Sakenan",
+                  "text": "Alter balinesischer Hindu-Tempel auf der Insel Serangan, der für sein alljährliches farbenfrohes Piodalan-Fest bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        115.22987,
+                        -8.725264
+                  ]
+            },
+            {
+                  "name": "Vihara Satya Dharma",
+                  "text": "Großer, farbenfroher chinesischer Tempel in der Nähe des Hafens von Benoa, der buddhistische, taoistische und konfuzianische Traditionen vereint.",
+                  "category": "religious",
+                  "coords": [
+                        115.214257,
+                        -8.72093
+                  ]
+            },
+            {
+                  "name": "Dharmayana Temple",
+                  "text": "Einer der ältesten buddhistischen Tempel in Kuta mit leuchtend roter Architektur und kunstvollen Drachenschnitzereien.",
+                  "category": "religious",
+                  "coords": [
+                        115.177815,
+                        -8.723945
+                  ]
+            },
+            {
+                  "name": "Tari Barong & Keris",
+                  "text": "Kulturzentrum, in dem der traditionelle balinesische Barong-Tanz aufgeführt wird, der den ewigen Kampf zwischen Gut und Böse darstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192435,
+                        -8.718624
+                  ]
+            },
+            {
+                  "name": "Becak museum",
+                  "text": "Einzigartiges Museum, das dem „Becak“ gewidmet ist, Indonesiens ikonischer traditioneller dreirädriger Fahrradrikscha.",
+                  "category": "museum",
+                  "coords": [
+                        115.183883,
+                        -8.709344
+                  ]
+            },
+            {
+                  "name": "Patung Kesetiaan",
+                  "text": "Modernes Denkmal in Kuta, das durch seine ausdrucksstarke Skulptur Loyalität und lokale kulturelle Werte symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        115.205667,
+                        -8.715769
+                  ]
+            },
+            {
+                  "name": "Monumen Jagarana",
+                  "text": "Bedeutendes Denkmal im Gebiet von Kuta, das an die lokale Geschichte und den Heldenmut erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        115.178756,
+                        -8.724908
+                  ]
+            },
+            {
+                  "name": "Pura Susunan Wadon",
+                  "text": "Historische archäologische Stätte und Tempel auf der Insel Serangan, der der weiblichen spirituellen Energie gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        115.233648,
+                        -8.727487
+                  ]
+            },
+            {
+                  "name": "I Wayan Bulit Statue",
+                  "text": "Gedenkstatue in Kuta zu Ehren einer lokalen Persönlichkeit, die als Wahrzeichen im belebten Viertel dient.",
+                  "category": "historical",
+                  "coords": [
+                        115.232933,
+                        -8.725468
+                  ]
+            },
+            {
+                  "name": "Graha Budaya Lotring",
+                  "text": "Kunstzentrum, das I Nyoman Lotring gewidmet ist, einem legendären balinesischen Komponisten und Meister des Gamelan.",
+                  "category": "cultural",
+                  "coords": [
+                        115.178252,
+                        -8.725847
+                  ]
+            },
+            {
+                  "name": "Pasar Kuta Dua PD",
+                  "text": "Lokaler traditioneller Markt, der eine Vielzahl an frischen balinesischen Erzeugnissen und authentischen Haushaltswaren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        115.17661,
+                        -8.723565
+                  ]
+            },
+            {
+                  "name": "Pasar Kangkung",
+                  "text": "Belebtes Marktviertel in Kuta, in dem Einheimische ihre täglichen Gewürze und frisches Gemüse einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192351,
+                        -8.697673
+                  ]
+            },
+            {
+                  "name": "Pasar Abiantimbul",
+                  "text": "Traditioneller Gemeindemarkt im Gebiet von Denpasar, der für seine authentische lokale Atmosphäre bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        115.193078,
+                        -8.687455
+                  ]
+            },
+            {
+                  "name": "Kuta Jin Legian",
+                  "text": "Beliebte Attraktion im Herzen von Legian, die einzigartige Unterhaltung in einer lebhaften Touristenzone bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        115.174255,
+                        -8.716277
+                  ]
+            },
+            {
+                  "name": "Wave coworking",
+                  "text": "Moderner Coworking-Space in Kuta mit Hochgeschwindigkeitsinternet und einem Gemeinschaftszentrum für digitale Nomaden.",
+                  "category": "landmark",
+                  "coords": [
+                        115.179922,
+                        -8.710941
+                  ]
+            },
+            {
+                  "name": "Clearice",
+                  "text": "Spezialisierte Eisdiele in Kuta, bekannt für ihre einzigartigen gefrorenen Köstlichkeiten und ihre moderne Ästhetik.",
+                  "category": "landmark",
+                  "coords": [
+                        115.186615,
+                        -8.716826
+                  ]
+            },
+            {
+                  "name": "Pandora Escape Room",
+                  "text": "Immersives Escape-Game-Zentrum in Kuta, das verschiedene Themenräume mit anspruchsvollen Rätseln bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        115.178084,
+                        -8.706966
+                  ]
+            },
+            {
+                  "name": "Flowhouse Bali (Indoor Surfing)",
+                  "text": "Beachclub mit einer „FlowRider“-Anlage für simuliertes Indoor-Surfen und Bodyboarding.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177034,
+                        -8.70495
+                  ]
+            },
+            {
+                  "name": "surf rental",
+                  "text": "Service am Strand von Kuta, der verschiedene Boardgrößen für alle anbietet, die die berühmten Wellen reiten wollen.",
+                  "category": "landmark",
+                  "coords": [
+                        115.168148,
+                        -8.715503
+                  ]
+            },
+            {
+                  "name": "Fun Surf School",
+                  "text": "Surfakademie am Strand von Kuta, die Anfängerkurse auf den sanften Wellen der Insel mit sandigem Untergrund anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        115.166707,
+                        -8.709576
+                  ]
+            },
+            {
+                  "name": "Pura Susunan Wadonan",
+                  "text": "Heilige hinduistische Stätte auf der Insel Serangan, die eng mit den maritimen spirituellen Traditionen der Insel verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        115.2371,
+                        -8.740111
+                  ]
+            },
+            {
+                  "name": "Taman Bakau",
+                  "text": "Weitläufiger Mangrovenwaldpark mit Holzstegen zur Erkundung des Küstenökosystems von Bali.",
+                  "category": "landmark",
+                  "coords": [
+                        115.19316,
+                        -8.726112
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Penataran",
+                  "text": "Bedeutender hinduistischer „Tempel der Toten“ in Kuta mit kunstvollen Schnitzereien zum Thema Jenseits.",
+                  "category": "landmark",
+                  "coords": [
+                        115.215731,
+                        -8.720829
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Griya Taman Beji",
+                  "text": "Hindu-Tempel mit einer heiligen „Beji“-Quelle, die für rituelle Reinigungszeremonien genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        115.189827,
+                        -8.713807
+                  ]
+            },
+            {
+                  "name": "Genah Pemelastian Desa Pakraman Kepaon",
+                  "text": "Heilige Ritualstätte am Wasser, die für die Melasti-Reinigungssprozessionen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        115.204063,
+                        -8.719502
+                  ]
+            },
+            {
+                  "name": "Pura Kedasan",
+                  "text": "Traditioneller Hindu-Tempel im Gebiet von Suwung, der als spirituelles Zentrum für die örtliche Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        115.200625,
+                        -8.719945
+                  ]
+            },
+            {
+                  "name": "Pura Taman Sari Pesanggaran",
+                  "text": "Kunstvoller Hindu-Tempel in Pesanggaran, bekannt für seinen friedlichen Innenhof und die traditionellen balinesischen Tore.",
+                  "category": "landmark",
+                  "coords": [
+                        115.208096,
+                        -8.715507
+                  ]
+            },
+            {
+                  "name": "Pura Batu Bolong",
+                  "text": "Hindu-Tempel am Meer in der Region Kuta, der auf einer Felsformation mit Blick auf den Indischen Ozean errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        115.169613,
+                        -8.720093
+                  ]
+            },
+            {
+                  "name": "Pura Panti Sri Karang Buncing",
+                  "text": "Privater Familientempel (Pura Panti), der den Vorfahren der Karang-Buncing-Linie gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        115.175438,
+                        -8.722888
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Tegeh Gumi",
+                  "text": "Wichtiger Hindu-Tempel im Distrikt Kuta, der den zerstörerischen und transformativen Aspekten von Shiva gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        115.197017,
+                        -8.688311
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amin Prajarakcaka",
+                  "text": "Bedeutende Moschee in einem Militärkomplex, die der lokalen muslimischen Gemeinschaft in Denpasar dient.",
+                  "category": "landmark",
+                  "coords": [
+                        115.203217,
+                        -8.713524
+                  ]
+            },
+            {
+                  "name": "GKY (Gereja KRISTUS YESUS) Kuta-Bali",
+                  "text": "Moderne protestantische Kirche in Kuta, bekannt für ihre zeitgenössische Architektur und ihre aktive internationale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177492,
+                        -8.702779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bali Shell Museum",
+                  "text": "Ez a bali múzeum a világ minden tájáról származó ritka kagylók és kövületek lenyűgöző gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        115.186715,
+                        -8.714265
+                  ]
+            },
+            {
+                  "name": "Tugu Peringatan Bom Bali",
+                  "text": "Emlékmű Kutában, amely egy kőtáblára vésett névsorral tiszteleg a 2002-es bombatámadások áldozatai előtt.",
+                  "category": "historical",
+                  "coords": [
+                        115.174489,
+                        -8.717319
+                  ]
+            },
+            {
+                  "name": "Pura Sakenan",
+                  "text": "Ősi balinéz hindu templom a Serangan-szigeten, amely az évente megrendezett színes Piodalan-fesztiváljáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        115.22987,
+                        -8.725264
+                  ]
+            },
+            {
+                  "name": "Vihara Satya Dharma",
+                  "text": "Hatalmas, színes kínai templom a Benoa-kikötő közelében, amely ötvözi a buddhista, taoista és konfuciánus hagyományokat.",
+                  "category": "religious",
+                  "coords": [
+                        115.214257,
+                        -8.72093
+                  ]
+            },
+            {
+                  "name": "Dharmayana Temple",
+                  "text": "Kuta egyik legrégebbi buddhista temploma, amelyet élénkvörös építészet és bonyolult sárkányfaragványok jellemeznek.",
+                  "category": "religious",
+                  "coords": [
+                        115.177815,
+                        -8.723945
+                  ]
+            },
+            {
+                  "name": "Tari Barong & Keris",
+                  "text": "Kulturális központ, ahol a hagyományos balinéz Barong-táncot mutatják be, amely a jó és a gonosz örök harcát ábrázolja.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192435,
+                        -8.718624
+                  ]
+            },
+            {
+                  "name": "Becak museum",
+                  "text": "Egyedülálló múzeum, amelyet az indonéz „becaknak”, az ikonikus hagyományos háromkerekű kerékpáros riksának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        115.183883,
+                        -8.709344
+                  ]
+            },
+            {
+                  "name": "Patung Kesetiaan",
+                  "text": "Modern emlékmű Kutában, amely kifejező szobrával a hűséget és a helyi kulturális értékeket szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        115.205667,
+                        -8.715769
+                  ]
+            },
+            {
+                  "name": "Monumen Jagarana",
+                  "text": "Jelentős emlékmű Kuta térségében, amely a helyi történelemnek és a hősies szellemnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        115.178756,
+                        -8.724908
+                  ]
+            },
+            {
+                  "name": "Pura Susunan Wadon",
+                  "text": "Történelmi régészeti lelőhely és templom a Serangan-szigeten, amelyet a női spirituális energiának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        115.233648,
+                        -8.727487
+                  ]
+            },
+            {
+                  "name": "I Wayan Bulit Statue",
+                  "text": "Emlékszobor Kutában egy helyi személy tiszteletére, amely tájékozódási pontként szolgál a forgalmas negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        115.232933,
+                        -8.725468
+                  ]
+            },
+            {
+                  "name": "Graha Budaya Lotring",
+                  "text": "I Nyoman Lotringnak, a legendás balinéz zeneszerzőnek és gamelan-mesternek szentelt művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        115.178252,
+                        -8.725847
+                  ]
+            },
+            {
+                  "name": "Pasar Kuta Dua PD",
+                  "text": "Helyi hagyományos piac, amely friss balinéz termékek és autentikus háztartási cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        115.17661,
+                        -8.723565
+                  ]
+            },
+            {
+                  "name": "Pasar Kangkung",
+                  "text": "Nyüzsgő szomszédsági piactér Kutában, ahol a helyiek napi fűszereket és friss zöldségeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192351,
+                        -8.697673
+                  ]
+            },
+            {
+                  "name": "Pasar Abiantimbul",
+                  "text": "Hagyományos közösségi piac Denpasar környékén, amely hiteles helyi hangulatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        115.193078,
+                        -8.687455
+                  ]
+            },
+            {
+                  "name": "Kuta Jin Legian",
+                  "text": "Népszerű látnivaló Legian szívében, amely egyedülálló szórakozást kínál a vibráló turistaövezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        115.174255,
+                        -8.716277
+                  ]
+            },
+            {
+                  "name": "Wave coworking",
+                  "text": "Modern közösségi iroda Kutában nagy sebességű internettel és közösségi központtal a digitális nomádok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        115.179922,
+                        -8.710941
+                  ]
+            },
+            {
+                  "name": "Clearice",
+                  "text": "Különleges fagylaltozó Kutában, amely egyedi fagyasztott finomságairól és modern esztétikájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        115.186615,
+                        -8.716826
+                  ]
+            },
+            {
+                  "name": "Pandora Escape Room",
+                  "text": "Magával ragadó szabadulószoba Kutában, amely különböző tematikus szobákat kínál kihívást jelentő rejtvényekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        115.178084,
+                        -8.706966
+                  ]
+            },
+            {
+                  "name": "Flowhouse Bali (Indoor Surfing)",
+                  "text": "Strandklub „FlowRider” géppel, amely szimulált beltéri szörfözést és bodyboardingot tesz lehetővé.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177034,
+                        -8.70495
+                  ]
+            },
+            {
+                  "name": "surf rental",
+                  "text": "Tengerparti szolgáltatás Kutában, amely különféle deszkaméreteket kínál azoknak, akik meg akarják lovagolni a híres hullámokat.",
+                  "category": "landmark",
+                  "coords": [
+                        115.168148,
+                        -8.715503
+                  ]
+            },
+            {
+                  "name": "Fun Surf School",
+                  "text": "Szörfakadémia a Kuta strandon, amely kezdő órákat kínál a sziget szelíd, homokos aljzatú hullámain.",
+                  "category": "landmark",
+                  "coords": [
+                        115.166707,
+                        -8.709576
+                  ]
+            },
+            {
+                  "name": "Pura Susunan Wadonan",
+                  "text": "Szent hindu hely a Serangan-szigeten, amely szorosan kapcsolódik a sziget tengeri spirituális hagyományaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        115.2371,
+                        -8.740111
+                  ]
+            },
+            {
+                  "name": "Taman Bakau",
+                  "text": "Kiterjedt mangroveerdő-park fapallókkal Bali parti ökoszisztémájának felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        115.19316,
+                        -8.726112
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Penataran",
+                  "text": "Jelentős hindu „halotti templom” Kutában, amely a túlvilággal kapcsolatos bonyolult faragványokkal díszített.",
+                  "category": "landmark",
+                  "coords": [
+                        115.215731,
+                        -8.720829
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Griya Taman Beji",
+                  "text": "Hindu templom egy szent „Beji” forrással, amelyet rituális tisztító szertartásokhoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        115.189827,
+                        -8.713807
+                  ]
+            },
+            {
+                  "name": "Genah Pemelastian Desa Pakraman Kepaon",
+                  "text": "Szent rituális hely a vízparton, amelyet a Melasti tisztító körmenetekhez használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        115.204063,
+                        -8.719502
+                  ]
+            },
+            {
+                  "name": "Pura Kedasan",
+                  "text": "Hagyományos hindu templom Suwung környékén, amely a helyi közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        115.200625,
+                        -8.719945
+                  ]
+            },
+            {
+                  "name": "Pura Taman Sari Pesanggaran",
+                  "text": "Díszes hindu templom Pesanggaranban, amely békés udvaráról és hagyományos balinéz kapuiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        115.208096,
+                        -8.715507
+                  ]
+            },
+            {
+                  "name": "Pura Batu Bolong",
+                  "text": "Tengerparti hindu templom Kuta térségében, amely az Indiai-óceánra néző sziklaformációra épült.",
+                  "category": "landmark",
+                  "coords": [
+                        115.169613,
+                        -8.720093
+                  ]
+            },
+            {
+                  "name": "Pura Panti Sri Karang Buncing",
+                  "text": "Magán családi templom (Pura Panti), amelyet a Karang Buncing leszármazási ág őseinek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        115.175438,
+                        -8.722888
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Tegeh Gumi",
+                  "text": "Fontos hindu templom Kuta negyedében, amelyet Siva pusztító és átalakító aspektusainak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        115.197017,
+                        -8.688311
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amin Prajarakcaka",
+                  "text": "Katonai komplexumon belül található jelentős mecset, amely a denpasari helyi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        115.203217,
+                        -8.713524
+                  ]
+            },
+            {
+                  "name": "GKY (Gereja KRISTUS YESUS) Kuta-Bali",
+                  "text": "Modern protestáns templom Kutában, amely kortárs építészetéről és aktív nemzetközi gyülekezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177492,
+                        -8.702779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bali Shell Museum",
+                  "text": "Acest muzeu din Bali găzduiește o colecție impresionantă de scoici rare și fosile din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        115.186715,
+                        -8.714265
+                  ]
+            },
+            {
+                  "name": "Tugu Peringatan Bom Bali",
+                  "text": "Un monument în Kuta care onorează victimele atentatelor din 2002 printr-un zid de piatră sculptat cu numele acestora.",
+                  "category": "historical",
+                  "coords": [
+                        115.174489,
+                        -8.717319
+                  ]
+            },
+            {
+                  "name": "Pura Sakenan",
+                  "text": "Templu hindu balinez străvechi pe insula Serangan, renumit pentru festivalul anual colorat Piodalan.",
+                  "category": "religious",
+                  "coords": [
+                        115.22987,
+                        -8.725264
+                  ]
+            },
+            {
+                  "name": "Vihara Satya Dharma",
+                  "text": "Un templu chinezesc mare și colorat lângă portul Benoa, care îmbină tradițiile budiste, taoiste și confucianiste.",
+                  "category": "religious",
+                  "coords": [
+                        115.214257,
+                        -8.72093
+                  ]
+            },
+            {
+                  "name": "Dharmayana Temple",
+                  "text": "Unul dintre cele mai vechi temple budiste din Kuta, cu o arhitectură roșie vibrantă și sculpturi complicate cu dragoni.",
+                  "category": "religious",
+                  "coords": [
+                        115.177815,
+                        -8.723945
+                  ]
+            },
+            {
+                  "name": "Tari Barong & Keris",
+                  "text": "Centru de spectacole care prezintă dansul tradițional balinez Barong, înfățișând lupta eternă dintre bine și rău.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192435,
+                        -8.718624
+                  ]
+            },
+            {
+                  "name": "Becak museum",
+                  "text": "Muzeu unic dedicat „becak-ului”, emblematica ricșă tradițională cu trei roți din Indonezia.",
+                  "category": "museum",
+                  "coords": [
+                        115.183883,
+                        -8.709344
+                  ]
+            },
+            {
+                  "name": "Patung Kesetiaan",
+                  "text": "Monument modern în Kuta, care simbolizează loialitatea și valorile culturale locale prin sculptura sa expresivă.",
+                  "category": "historical",
+                  "coords": [
+                        115.205667,
+                        -8.715769
+                  ]
+            },
+            {
+                  "name": "Monumen Jagarana",
+                  "text": "Monument semnificativ în zona Kuta, care comemorează istoria locală și spiritul eroic.",
+                  "category": "historical",
+                  "coords": [
+                        115.178756,
+                        -8.724908
+                  ]
+            },
+            {
+                  "name": "Pura Susunan Wadon",
+                  "text": "Sit arheologic istoric și templu pe insula Serangan, dedicat energiei spirituale feminine.",
+                  "category": "historical",
+                  "coords": [
+                        115.233648,
+                        -8.727487
+                  ]
+            },
+            {
+                  "name": "I Wayan Bulit Statue",
+                  "text": "Statuie comemorativă în Kuta, onorând o figură locală, servind ca punct de reper în districtul aglomerat.",
+                  "category": "historical",
+                  "coords": [
+                        115.232933,
+                        -8.725468
+                  ]
+            },
+            {
+                  "name": "Graha Budaya Lotring",
+                  "text": "Centru de artă dedicat lui I Nyoman Lotring, un legendar compozitor balinez și maestru al gamelanului.",
+                  "category": "cultural",
+                  "coords": [
+                        115.178252,
+                        -8.725847
+                  ]
+            },
+            {
+                  "name": "Pasar Kuta Dua PD",
+                  "text": "Piață tradițională locală care oferă o varietate de produse balineze proaspete și articole de uz casnic autentice.",
+                  "category": "cultural",
+                  "coords": [
+                        115.17661,
+                        -8.723565
+                  ]
+            },
+            {
+                  "name": "Pasar Kangkung",
+                  "text": "Piață de cartier plină de viață în Kuta, unde localnicii cumpără condimente zilnice și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192351,
+                        -8.697673
+                  ]
+            },
+            {
+                  "name": "Pasar Abiantimbul",
+                  "text": "Piață comunitară tradițională în zona Denpasar, cunoscută pentru atmosfera sa locală autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        115.193078,
+                        -8.687455
+                  ]
+            },
+            {
+                  "name": "Kuta Jin Legian",
+                  "text": "Atracție populară în inima localității Legian, care oferă divertisment unic într-o zonă turistică vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.174255,
+                        -8.716277
+                  ]
+            },
+            {
+                  "name": "Wave coworking",
+                  "text": "Spațiu modern de coworking în Kuta, dotat cu internet de mare viteză și un centru comunitar pentru nomazii digitali.",
+                  "category": "landmark",
+                  "coords": [
+                        115.179922,
+                        -8.710941
+                  ]
+            },
+            {
+                  "name": "Clearice",
+                  "text": "Magazin de înghețată artizanală din Kuta, cunoscut pentru deliciile sale înghețate unice și estetica modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.186615,
+                        -8.716826
+                  ]
+            },
+            {
+                  "name": "Pandora Escape Room",
+                  "text": "Facilitate de jocuri de evadare imersive în Kuta, oferind diverse camere tematice cu puzzle-uri provocatoare.",
+                  "category": "landmark",
+                  "coords": [
+                        115.178084,
+                        -8.706966
+                  ]
+            },
+            {
+                  "name": "Flowhouse Bali (Indoor Surfing)",
+                  "text": "Club de plajă dotat cu o mașină „FlowRider” pentru surfing în interior și bodyboarding simulat.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177034,
+                        -8.70495
+                  ]
+            },
+            {
+                  "name": "surf rental",
+                  "text": "Serviciu pe malul mării în Kuta, care oferă diverse dimensiuni de plăci pentru cei care doresc să prindă faimoasele valuri.",
+                  "category": "landmark",
+                  "coords": [
+                        115.168148,
+                        -8.715503
+                  ]
+            },
+            {
+                  "name": "Fun Surf School",
+                  "text": "Academie de surfing pe plaja Kuta, care oferă lecții pentru începători pe valurile blânde ale insulei, cu fund nisipos.",
+                  "category": "landmark",
+                  "coords": [
+                        115.166707,
+                        -8.709576
+                  ]
+            },
+            {
+                  "name": "Pura Susunan Wadonan",
+                  "text": "Sit hindu sacru pe insula Serangan, strâns legat de tradițiile spirituale maritime ale insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        115.2371,
+                        -8.740111
+                  ]
+            },
+            {
+                  "name": "Taman Bakau",
+                  "text": "Parc forestier extins de mangrove, cu poduri de lemn pentru explorarea ecosistemului de coastă din Bali.",
+                  "category": "landmark",
+                  "coords": [
+                        115.19316,
+                        -8.726112
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Penataran",
+                  "text": "Un important „Templu al Morților” hindu din Kuta, cu sculpturi complicate legate de viața de apoi.",
+                  "category": "landmark",
+                  "coords": [
+                        115.215731,
+                        -8.720829
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Griya Taman Beji",
+                  "text": "Templu hindu cu un izvor sacru „Beji”, folosit pentru ceremonii de purificare rituală.",
+                  "category": "landmark",
+                  "coords": [
+                        115.189827,
+                        -8.713807
+                  ]
+            },
+            {
+                  "name": "Genah Pemelastian Desa Pakraman Kepaon",
+                  "text": "Loc ritual sacru de lângă apă, folosit pentru procesiunile de purificare Melasti.",
+                  "category": "landmark",
+                  "coords": [
+                        115.204063,
+                        -8.719502
+                  ]
+            },
+            {
+                  "name": "Pura Kedasan",
+                  "text": "Templu hindu tradițional în zona Suwung, servind ca centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        115.200625,
+                        -8.719945
+                  ]
+            },
+            {
+                  "name": "Pura Taman Sari Pesanggaran",
+                  "text": "Templu hindu ornamentat în Pesanggaran, cunoscut pentru curtea sa liniștită și porțile tradiționale balineze.",
+                  "category": "landmark",
+                  "coords": [
+                        115.208096,
+                        -8.715507
+                  ]
+            },
+            {
+                  "name": "Pura Batu Bolong",
+                  "text": "Templu hindu de la malul mării din regiunea Kuta, construit pe o formațiune stâncoasă cu vedere la Oceanul Indian.",
+                  "category": "landmark",
+                  "coords": [
+                        115.169613,
+                        -8.720093
+                  ]
+            },
+            {
+                  "name": "Pura Panti Sri Karang Buncing",
+                  "text": "Templu familial privat (Pura Panti) dedicat strămoșilor descendenței Karang Buncing.",
+                  "category": "landmark",
+                  "coords": [
+                        115.175438,
+                        -8.722888
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Tegeh Gumi",
+                  "text": "Important templu hindu din districtul Kuta, dedicat aspectelor distructive și transformative ale lui Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        115.197017,
+                        -8.688311
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amin Prajarakcaka",
+                  "text": "Moschee proeminentă situată într-un complex militar, care deservește comunitatea musulmană locală din Denpasar.",
+                  "category": "landmark",
+                  "coords": [
+                        115.203217,
+                        -8.713524
+                  ]
+            },
+            {
+                  "name": "GKY (Gereja KRISTUS YESUS) Kuta-Bali",
+                  "text": "Biserică protestantă modernă în Kuta, cunoscută pentru arhitectura sa contemporană și congregația internațională activă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177492,
+                        -8.702779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bali Shell Museum",
+                  "text": "This museum in Bali houses an impressive collection of rare sea shells and fossils from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        115.186715,
+                        -8.714265
+                  ]
+            },
+            {
+                  "name": "Bali Bombing Memorial (Ground Zero Monument)",
+                  "text": "A memorial in Kuta honoring the victims of the 2002 bombings with a carved stone wall listing their names.",
+                  "category": "historical",
+                  "coords": [
+                        115.174489,
+                        -8.717319
+                  ]
+            },
+            {
+                  "name": "Pura Sakenan",
+                  "text": "Ancient Balinese Hindu temple on Serangan Island, famous for its annual colorful Piodalan festival.",
+                  "category": "religious",
+                  "coords": [
+                        115.22987,
+                        -8.725264
+                  ]
+            },
+            {
+                  "name": "Vihara Satya Dharma",
+                  "text": "Large, colorful Chinese temple near Benoa harbor, blending Buddhist, Taoist, and Confucian traditions.",
+                  "category": "religious",
+                  "coords": [
+                        115.214257,
+                        -8.72093
+                  ]
+            },
+            {
+                  "name": "Dharmayana Temple",
+                  "text": "One of Kuta's oldest Buddhist temples, featuring vibrant red architecture and intricate dragon carvings.",
+                  "category": "religious",
+                  "coords": [
+                        115.177815,
+                        -8.723945
+                  ]
+            },
+            {
+                  "name": "Tari Barong & Keris",
+                  "text": "Performance center showcasing the traditional Balinese Barong dance, depicting the eternal fight between good and evil.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192435,
+                        -8.718624
+                  ]
+            },
+            {
+                  "name": "Becak museum",
+                  "text": "Unique museum dedicated to the \"becak,\" Indonesia's iconic traditional three-wheeled cycle rickshaw.",
+                  "category": "museum",
+                  "coords": [
+                        115.183883,
+                        -8.709344
+                  ]
+            },
+            {
+                  "name": "Patung Kesetiaan",
+                  "text": "Modern monument in Kuta symbolizing loyalty and local cultural values through its expressive sculpture.",
+                  "category": "historical",
+                  "coords": [
+                        115.205667,
+                        -8.715769
+                  ]
+            },
+            {
+                  "name": "Monumen Jagarana",
+                  "text": "Significant monument in the Kuta area commemorating local history and heroic spirit.",
+                  "category": "historical",
+                  "coords": [
+                        115.178756,
+                        -8.724908
+                  ]
+            },
+            {
+                  "name": "Pura Susunan Wadon",
+                  "text": "Historic archaeological site and temple on Serangan Island, dedicated to feminine spiritual energy.",
+                  "category": "historical",
+                  "coords": [
+                        115.233648,
+                        -8.727487
+                  ]
+            },
+            {
+                  "name": "I Wayan Bulit Statue",
+                  "text": "Commemorative statue in Kuta honoring a local figure, serving as a landmark in the busy district.",
+                  "category": "historical",
+                  "coords": [
+                        115.232933,
+                        -8.725468
+                  ]
+            },
+            {
+                  "name": "Graha Budaya Lotring",
+                  "text": "Arts center dedicated to I Nyoman Lotring, a legendary Balinese composer and master of the gamelan.",
+                  "category": "cultural",
+                  "coords": [
+                        115.178252,
+                        -8.725847
+                  ]
+            },
+            {
+                  "name": "Pasar Kuta Dua PD",
+                  "text": "Local traditional market offering a variety of fresh Balinese produce and authentic household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        115.17661,
+                        -8.723565
+                  ]
+            },
+            {
+                  "name": "Pasar Kangkung",
+                  "text": "Bustling neighborhood marketplace in Kuta where locals shop for daily spices and fresh vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192351,
+                        -8.697673
+                  ]
+            },
+            {
+                  "name": "Pasar Abiantimbul",
+                  "text": "Traditional community market in the Denpasar area, known for its authentic local atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        115.193078,
+                        -8.687455
+                  ]
+            },
+            {
+                  "name": "Kuta Jin Legian",
+                  "text": "Popular attraction in the heart of Legian, offering unique entertainment in a vibrant tourist zone.",
+                  "category": "landmark",
+                  "coords": [
+                        115.174255,
+                        -8.716277
+                  ]
+            },
+            {
+                  "name": "Wave coworking",
+                  "text": "Modern coworking space in Kuta featuring high-speed internet and a community hub for digital nomads.",
+                  "category": "landmark",
+                  "coords": [
+                        115.179922,
+                        -8.710941
+                  ]
+            },
+            {
+                  "name": "Clearice",
+                  "text": "Specialty ice cream shop in Kuta known for its unique frozen treats and modern aesthetic.",
+                  "category": "landmark",
+                  "coords": [
+                        115.186615,
+                        -8.716826
+                  ]
+            },
+            {
+                  "name": "Pandora Escape Room",
+                  "text": "Immersive escape game facility in Kuta offering various themed rooms with challenging puzzles.",
+                  "category": "landmark",
+                  "coords": [
+                        115.178084,
+                        -8.706966
+                  ]
+            },
+            {
+                  "name": "Flowhouse Bali (Indoor Surfing)",
+                  "text": "Beach club featuring a \"FlowRider\" machine for simulated indoor surfing and bodyboarding.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177034,
+                        -8.70495
+                  ]
+            },
+            {
+                  "name": "surf rental",
+                  "text": "Beachside service in Kuta providing various board sizes for those wanting to catch the famous breaks.",
+                  "category": "landmark",
+                  "coords": [
+                        115.168148,
+                        -8.715503
+                  ]
+            },
+            {
+                  "name": "Fun Surf School",
+                  "text": "Surfing academy on Kuta Beach offering beginner lessons on the island's gentle, sandy-bottom waves.",
+                  "category": "landmark",
+                  "coords": [
+                        115.166707,
+                        -8.709576
+                  ]
+            },
+            {
+                  "name": "Pura Susunan Wadonan",
+                  "text": "Sacred Hindu site on Serangan Island, closely linked to the island's maritime spiritual traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        115.2371,
+                        -8.740111
+                  ]
+            },
+            {
+                  "name": "Taman Bakau",
+                  "text": "Expansive mangrove forest park with wooden boardwalks for exploring Bali's coastal ecosystem.",
+                  "category": "landmark",
+                  "coords": [
+                        115.19316,
+                        -8.726112
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Penataran",
+                  "text": "Significant Hindu \"Temple of the Dead\" in Kuta, featuring intricate carvings related to the afterlife.",
+                  "category": "landmark",
+                  "coords": [
+                        115.215731,
+                        -8.720829
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Griya Taman Beji",
+                  "text": "Hindu temple featuring a sacred \"Beji\" spring used for ritual purification ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        115.189827,
+                        -8.713807
+                  ]
+            },
+            {
+                  "name": "Genah Pemelastian Desa Pakraman Kepaon",
+                  "text": "Sacred ritual site by the water used for the Melasti purification processions.",
+                  "category": "landmark",
+                  "coords": [
+                        115.204063,
+                        -8.719502
+                  ]
+            },
+            {
+                  "name": "Pura Kedasan",
+                  "text": "Traditional Hindu temple in the Suwung area, serving as a spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        115.200625,
+                        -8.719945
+                  ]
+            },
+            {
+                  "name": "Pura Taman Sari Pesanggaran",
+                  "text": "Ornate Hindu temple in Pesanggaran, known for its peaceful courtyard and traditional Balinese gates.",
+                  "category": "landmark",
+                  "coords": [
+                        115.208096,
+                        -8.715507
+                  ]
+            },
+            {
+                  "name": "Pura Batu Bolong",
+                  "text": "Seaside Hindu temple in the Kuta region, built on a rock formation overlooking the Indian Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        115.169613,
+                        -8.720093
+                  ]
+            },
+            {
+                  "name": "Pura Panti Sri Karang Buncing",
+                  "text": "Private family temple (Pura Panti) dedicated to the ancestors of the Karang Buncing lineage.",
+                  "category": "landmark",
+                  "coords": [
+                        115.175438,
+                        -8.722888
+                  ]
+            },
+            {
+                  "name": "Pura Dalem Tegeh Gumi",
+                  "text": "Important Hindu temple in the Kuta district, dedicated to the destructive and transformative aspects of Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        115.197017,
+                        -8.688311
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Amin Prajarakcaka",
+                  "text": "Prominent mosque located within a military complex, serving the local Muslim community in Denpasar.",
+                  "category": "landmark",
+                  "coords": [
+                        115.203217,
+                        -8.713524
+                  ]
+            },
+            {
+                  "name": "GKY (Gereja KRISTUS YESUS) Kuta-Bali",
+                  "text": "Modern Protestant church in Kuta known for its contemporary architecture and active international congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177492,
+                        -8.702779
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "ID-BA",
     coords: [115.1728, -8.7188],
@@ -759,7 +17247,664 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "sumba-megalithic-tombs-history-v2",
+    id: "sumba-megalithic-tombs-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bangunan Lama GKS Makamenggit",
+                  "text": "Das Bangunan Lama GKS Makamenggit ist ein historisches protestantisches Kirchengebäude, das der lokalen Gemeinde in Sumba dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.062554,
+                        -9.692422
+                  ]
+            },
+            {
+                  "name": "GMI Hangabing",
+                  "text": "GMI Hangabing ist eine lokale christliche Gemeindekirche in der Region Sumba, die als Ort der Andacht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        120.035646,
+                        -9.736782
+                  ]
+            },
+            {
+                  "name": "GKS Cabang Welik",
+                  "text": "Die GKS Cabang Welik dient als regionaler Zweig für die christliche Sumba-Kirchengemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        119.962599,
+                        -9.664719
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel",
+                  "text": "Die Gereja Bethel ist eine christliche Kultstätte, die den spirituellen Bedürfnissen ihrer örtlichen Gemeinde auf Sumba gerecht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        120.024688,
+                        -9.699555
+                  ]
+            },
+            {
+                  "name": "GKS",
+                  "text": "Diese GKS fungiert als Pfarrkirche für die christliche Kirche von Sumba und bietet regelmäßige Gottesdienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        119.966155,
+                        -9.718803
+                  ]
+            },
+            {
+                  "name": "Gereja Cabang Padi",
+                  "text": "Die Gereja Cabang Padi ist ein Zweigkirchengebäude, das der lokalen Gemeinschaft christliche Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.00852,
+                        -9.684037
+                  ]
+            },
+            {
+                  "name": "GKS Watumotu",
+                  "text": "Die GKS Watumotu bietet einen speziell gewidmeten christlichen Raum für den gemeinsamen Gottesdienst in der Region Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.05676,
+                        -9.658721
+                  ]
+            },
+            {
+                  "name": "Pastori",
+                  "text": "Diese Pastori ist eine christliche Einrichtung, die zur Unterstützung der religiösen Aktivitäten der Gemeinde auf Sumba konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        120.061561,
+                        -9.69297
+                  ]
+            },
+            {
+                  "name": "Gereja GKS",
+                  "text": "Die Gereja GKS ist eine etablierte christliche Kultstätte, die die lokale Gemeinde auf Sumba zusammenbringt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.031446,
+                        -9.712276
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "Diese Gereja ist ein traditionelles christliches Kirchengebäude, das einen Ort für lokale Gebete und Gottesdienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.964246,
+                        -9.740884
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik",
+                  "text": "Die Gereja Katolik ist eine katholische Pfarrkirche, die sich der Seelsorge der örtlichen Gläubigen auf Sumba widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.96239,
+                        -9.740809
+                  ]
+            },
+            {
+                  "name": "GKS Praipaha (Pusat)",
+                  "text": "Die GKS Praipaha (Pusat) fungiert als zentrale christliche Kircheneinrichtung für die Praipaha-Gemeinde auf Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        119.981267,
+                        -9.679125
+                  ]
+            },
+            {
+                  "name": "Gereja Protestan",
+                  "text": "Die Gereja Protestan ist ein protestantisches Gotteshaus auf Sumba, wo sich die christliche Gemeinde der Region versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        120.016761,
+                        -9.698131
+                  ]
+            },
+            {
+                  "name": "GKS Ori Angu",
+                  "text": "Die GKS Ori Angu ist eine christliche Kirche der Sumba-Synode, die einen zentralen Treffpunkt für Gläubige der Insel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.009584,
+                        -9.67156
+                  ]
+            },
+            {
+                  "name": "Gereja Watu Undung",
+                  "text": "Die Gereja Watu Undung ist eine christliche Kirche auf Sumba, die sich durch ihre Anbindung an die lokalen Inseldörfer auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        119.914358,
+                        -9.682507
+                  ]
+            },
+            {
+                  "name": "Mess/Loss Pasar",
+                  "text": "Der Mess/Loss Pasar ist ein Marktbereich auf Sumba, der als wichtiger Handelsplatz für die umliegenden Dorfgemeinschaften dient.",
+                  "category": "cultural",
+                  "coords": [
+                        120.029927,
+                        -9.713233
+                  ]
+            },
+            {
+                  "name": "Pasar Mingguan",
+                  "text": "Der Pasar Mingguan auf Sumba ist ein traditioneller Wochenmarkt, der Händler aus der ganzen Region zum Warenaustausch anzieht.",
+                  "category": "cultural",
+                  "coords": [
+                        120.025871,
+                        -9.713381
+                  ]
+            },
+            {
+                  "name": "Pasar Desa",
+                  "text": "Der Pasar Desa auf Sumba ist ein kleinerer Dorfmarkt, der die Anwohner mit den wichtigsten Gütern des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        119.96115,
+                        -9.741526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bangunan Lama GKS Makamenggit",
+                  "text": "A Bangunan Lama GKS Makamenggit egy történelmi protestáns templomépület, amely a helyi közösséget szolgálja Sumbán.",
+                  "category": "landmark",
+                  "coords": [
+                        120.062554,
+                        -9.692422
+                  ]
+            },
+            {
+                  "name": "GMI Hangabing",
+                  "text": "A GMI Hangabing egy helyi keresztény közösségi templom a Sumba régióban, amely istentiszteleti helyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        120.035646,
+                        -9.736782
+                  ]
+            },
+            {
+                  "name": "GKS Cabang Welik",
+                  "text": "A GKS Cabang Welik a sumbai keresztény gyülekezet egyik regionális fiókegyházaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        119.962599,
+                        -9.664719
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel",
+                  "text": "A Gereja Bethel egy keresztény imahely, amely a helyi sumbai egyházközség vallási igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        120.024688,
+                        -9.699555
+                  ]
+            },
+            {
+                  "name": "GKS",
+                  "text": "Ez a GKS a sumbai keresztény egyház plébániatemplomaként működik, és rendszeres istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        119.966155,
+                        -9.718803
+                  ]
+            },
+            {
+                  "name": "Gereja Cabang Padi",
+                  "text": "A Gereja Cabang Padi egy fióktemplom, amely keresztény istentiszteleteket kínál a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        120.00852,
+                        -9.684037
+                  ]
+            },
+            {
+                  "name": "GKS Watumotu",
+                  "text": "A GKS Watumotu egy különleges, keresztény közösségi istentiszteletre kijelölt helyet biztosít a Sumba régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.05676,
+                        -9.658721
+                  ]
+            },
+            {
+                  "name": "Pastori",
+                  "text": "Ez a Pastori egy keresztény létesítmény, amelyet a sumbai gyülekezet vallási tevékenységeinek támogatására hoztak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        120.061561,
+                        -9.69297
+                  ]
+            },
+            {
+                  "name": "Gereja GKS",
+                  "text": "A Gereja GKS egy elismert keresztény imahely, amely összefogja a helyi sumbai gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        120.031446,
+                        -9.712276
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "Ez a Gereja egy hagyományos keresztény templomépület, amely teret ad a helyi imáknak és istentiszteleteknek.",
+                  "category": "landmark",
+                  "coords": [
+                        119.964246,
+                        -9.740884
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik",
+                  "text": "A Gereja Katolik egy katolikus plébániatemplom, amely a helyi hívek szolgálatának szentelte magát Sumbán.",
+                  "category": "landmark",
+                  "coords": [
+                        119.96239,
+                        -9.740809
+                  ]
+            },
+            {
+                  "name": "GKS Praipaha (Pusat)",
+                  "text": "A GKS Praipaha (Pusat) a praipahai gyülekezet központi keresztény templomaként működik Sumbán.",
+                  "category": "landmark",
+                  "coords": [
+                        119.981267,
+                        -9.679125
+                  ]
+            },
+            {
+                  "name": "Gereja Protestan",
+                  "text": "A Gereja Protestan egy protestáns templom Sumbán, ahol a régió keresztény hívei gyűlnek össze istentiszteletre.",
+                  "category": "landmark",
+                  "coords": [
+                        120.016761,
+                        -9.698131
+                  ]
+            },
+            {
+                  "name": "GKS Ori Angu",
+                  "text": "A GKS Ori Angu a szumbai szinódushoz tartozó keresztény templom, amely közösségi találkozóhelyet biztosít a híveknek.",
+                  "category": "landmark",
+                  "coords": [
+                        120.009584,
+                        -9.67156
+                  ]
+            },
+            {
+                  "name": "Gereja Watu Undung",
+                  "text": "A Gereja Watu Undung egy keresztény templom Sumbán, amely a helyi szigeti falvak spirituális életét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        119.914358,
+                        -9.682507
+                  ]
+            },
+            {
+                  "name": "Mess/Loss Pasar",
+                  "text": "A Mess/Loss Pasar egy piactér Sumbán, amely fontos kereskedelmi csomópontként szolgál a környező falusi közösségek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        120.029927,
+                        -9.713233
+                  ]
+            },
+            {
+                  "name": "Pasar Mingguan",
+                  "text": "A szumbai Pasar Mingguan egy hagyományos heti piac, amely a régió minden tájáról vonzza a kereskedőket árucserére.",
+                  "category": "cultural",
+                  "coords": [
+                        120.025871,
+                        -9.713381
+                  ]
+            },
+            {
+                  "name": "Pasar Desa",
+                  "text": "A szumbai Pasar Desa egy kisebb falusi piac, amely a helyi lakosokat látja el a legszükségesebb mindennapi cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        119.96115,
+                        -9.741526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bangunan Lama GKS Makamenggit",
+                  "text": "Bangunan Lama GKS Makamenggit este o clădire bisericească protestantă istorică care servește congregația locală din Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.062554,
+                        -9.692422
+                  ]
+            },
+            {
+                  "name": "GMI Hangabing",
+                  "text": "GMI Hangabing este o biserică comunitară creștină locală situată în regiunea Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.035646,
+                        -9.736782
+                  ]
+            },
+            {
+                  "name": "GKS Cabang Welik",
+                  "text": "GKS Cabang Welik servește ca filială regională pentru congregația creștină a Bisericii din Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        119.962599,
+                        -9.664719
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel",
+                  "text": "Gereja Bethel este un lăcaș de cult creștin care răspunde nevoilor spirituale ale parohiei sale locale din Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.024688,
+                        -9.699555
+                  ]
+            },
+            {
+                  "name": "GKS",
+                  "text": "Această GKS funcționează ca o biserică parohială pentru Biserica Creștină din Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        119.966155,
+                        -9.718803
+                  ]
+            },
+            {
+                  "name": "Gereja Cabang Padi",
+                  "text": "Gereja Cabang Padi este o clădire bisericească filială care oferă slujbe creștine comunității sale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        120.00852,
+                        -9.684037
+                  ]
+            },
+            {
+                  "name": "GKS Watumotu",
+                  "text": "GKS Watumotu oferă un spațiu creștin dedicat pentru slujbele congregaționale din regiunea Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.05676,
+                        -9.658721
+                  ]
+            },
+            {
+                  "name": "Pastori",
+                  "text": "Acest Pastori este o unitate creștină locală concepută pentru a sprijini activitățile religioase ale congregației din Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.061561,
+                        -9.69297
+                  ]
+            },
+            {
+                  "name": "Gereja GKS",
+                  "text": "Gereja GKS este un lăcaș de cult creștin consacrat care reunește congregația locală din Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.031446,
+                        -9.712276
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "Această Gereja este o clădire tradițională de biserică creștină, oferind un loc pentru rugăciune și slujbe locale.",
+                  "category": "landmark",
+                  "coords": [
+                        119.964246,
+                        -9.740884
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik",
+                  "text": "Gereja Katolik este o biserică parohială catolică dedicată slujirii credincioșilor locali din Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        119.96239,
+                        -9.740809
+                  ]
+            },
+            {
+                  "name": "GKS Praipaha (Pusat)",
+                  "text": "GKS Praipaha (Pusat) acționează ca principală clădire a bisericii creștine pentru congregația Praipaha din Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        119.981267,
+                        -9.679125
+                  ]
+            },
+            {
+                  "name": "Gereja Protestan",
+                  "text": "Gereja Protestan este un lăcaș de cult protestant din Sumba, unde comunitatea locală se adună pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        120.016761,
+                        -9.698131
+                  ]
+            },
+            {
+                  "name": "GKS Ori Angu",
+                  "text": "GKS Ori Angu este o biserică creștină a sinodului din Sumba, oferind un spațiu central pentru credincioșii de pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        120.009584,
+                        -9.67156
+                  ]
+            },
+            {
+                  "name": "Gereja Watu Undung",
+                  "text": "Gereja Watu Undung este o biserică creștină din Sumba, dedicată nevoilor spirituale ale satelor de pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        119.914358,
+                        -9.682507
+                  ]
+            },
+            {
+                  "name": "Mess/Loss Pasar",
+                  "text": "Mess/Loss Pasar este o zonă de piață din Sumba, funcționând ca un important centru comercial pentru comunitățile rurale învecinate.",
+                  "category": "cultural",
+                  "coords": [
+                        120.029927,
+                        -9.713233
+                  ]
+            },
+            {
+                  "name": "Pasar Mingguan",
+                  "text": "Pasar Mingguan din Sumba este o piață săptămânală tradițională ce atrage comercianți din întreaga regiune pentru schimbul de mărfuri.",
+                  "category": "cultural",
+                  "coords": [
+                        120.025871,
+                        -9.713381
+                  ]
+            },
+            {
+                  "name": "Pasar Desa",
+                  "text": "Pasar Desa din Sumba este o mică piață sătească ce aprovizionează locuitorii cu produsele esențiale de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        119.96115,
+                        -9.741526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bangunan Lama GKS Makamenggit",
+                  "text": "Bangunan Lama GKS Makamenggit is a historic Protestant church building serving the local congregation in Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.062554,
+                        -9.692422
+                  ]
+            },
+            {
+                  "name": "GMI Hangabing",
+                  "text": "GMI Hangabing is a local Christian community church situated in the Sumba region.",
+                  "category": "landmark",
+                  "coords": [
+                        120.035646,
+                        -9.736782
+                  ]
+            },
+            {
+                  "name": "GKS Cabang Welik",
+                  "text": "GKS Cabang Welik serves as a regional branch for the Christian Sumba Church congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        119.962599,
+                        -9.664719
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel",
+                  "text": "Gereja Bethel is a Christian place of worship catering to the spiritual needs of its local parish in Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        120.024688,
+                        -9.699555
+                  ]
+            },
+            {
+                  "name": "GKS",
+                  "text": "This GKS functions as a parish church for the Christian Church of Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        119.966155,
+                        -9.718803
+                  ]
+            },
+            {
+                  "name": "Gereja Cabang Padi",
+                  "text": "Gereja Cabang Padi is a branch church building offering Christian services to its local community.",
+                  "category": "landmark",
+                  "coords": [
+                        120.00852,
+                        -9.684037
+                  ]
+            },
+            {
+                  "name": "GKS Watumotu",
+                  "text": "GKS Watumotu provides a dedicated Christian space for congregational worship in the Sumba region.",
+                  "category": "landmark",
+                  "coords": [
+                        120.05676,
+                        -9.658721
+                  ]
+            },
+            {
+                  "name": "Pastori",
+                  "text": "This Pastori is a local Christian facility designed to support the religious activities of its Sumba congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        120.061561,
+                        -9.69297
+                  ]
+            },
+            {
+                  "name": "Gereja GKS",
+                  "text": "Gereja GKS is an established Christian place of worship that brings together the local Sumba congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        120.031446,
+                        -9.712276
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "This Gereja is a traditional Christian church building providing a venue for local prayer and services.",
+                  "category": "landmark",
+                  "coords": [
+                        119.964246,
+                        -9.740884
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik",
+                  "text": "Gereja Katolik is a Catholic parish church dedicated to serving the local faithful in Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        119.96239,
+                        -9.740809
+                  ]
+            },
+            {
+                  "name": "GKS Praipaha (Pusat)",
+                  "text": "GKS Praipaha (Pusat) acts as the central Christian church facility for the Praipaha congregation in Sumba.",
+                  "category": "landmark",
+                  "coords": [
+                        119.981267,
+                        -9.679125
+                  ]
+            },
+            {
+                  "name": "Gereja Protestan",
+                  "text": "Gereja Protestan is a Protestant church on Sumba, gathering the local Christian congregation for regular worship.",
+                  "category": "landmark",
+                  "coords": [
+                        120.016761,
+                        -9.698131
+                  ]
+            },
+            {
+                  "name": "GKS Ori Angu",
+                  "text": "GKS Ori Angu is a Christian church of the Sumba synod, providing a central gathering space for worshippers on the island.",
+                  "category": "landmark",
+                  "coords": [
+                        120.009584,
+                        -9.67156
+                  ]
+            },
+            {
+                  "name": "Gereja Watu Undung",
+                  "text": "Gereja Watu Undung is a Christian church on Sumba, serving the spiritual and communal needs of the local island villages.",
+                  "category": "landmark",
+                  "coords": [
+                        119.914358,
+                        -9.682507
+                  ]
+            },
+            {
+                  "name": "Mess/Loss Pasar",
+                  "text": "Mess/Loss Pasar is a marketplace area on Sumba, acting as a crucial trading hub for the surrounding village communities.",
+                  "category": "cultural",
+                  "coords": [
+                        120.029927,
+                        -9.713233
+                  ]
+            },
+            {
+                  "name": "Pasar Mingguan",
+                  "text": "Pasar Mingguan on Sumba is a traditional weekly market that draws traders from across the region to exchange local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        120.025871,
+                        -9.713381
+                  ]
+            },
+            {
+                  "name": "Pasar Desa",
+                  "text": "Pasar Desa on Sumba is a smaller village market providing local residents with essential daily supplies and fresh food.",
+                  "category": "cultural",
+                  "coords": [
+                        119.96115,
+                        -9.741526
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-NT",
     coords: [120.0000, -9.6667],
@@ -807,7 +17952,1276 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "gunungan-historical-park-history-v2",
+    id: "gunungan-historical-park-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pusat Dokumentasi dan Informasi Aceh",
+                  "text": "Ein historisches Museum in Banda Aceh, das sich der Bewahrung der reichen kulturellen Aufzeichnungen und des Erbes der Region Aceh widmet.",
+                  "category": "museum",
+                  "coords": [
+                        95.321259,
+                        5.549219
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Baiturrahman",
+                  "text": "Ein majestätisches islamisches Wahrzeichen in Banda Aceh, das für seine markanten schwarzen Kuppeln und seine widerstandsfähige Geschichte während des Tsunamis 2004 bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        95.317197,
+                        5.553633
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Hati Kudus",
+                  "text": "Eine katholische Pfarrkirche in Banda Aceh, die als spirituelles Zentrum für die lokale christliche Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        95.320752,
+                        5.555064
+                  ]
+            },
+            {
+                  "name": "Museum UIN AR-RANIRY Banda Aceh",
+                  "text": "Ein akademisches Museum auf dem Universitätscampus, das islamische Artefakte und historische Sammlungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        95.368453,
+                        5.576263
+                  ]
+            },
+            {
+                  "name": "Museum Ali Hasjmy",
+                  "text": "Eine kulturelle Einrichtung in Banda Aceh, die die persönlichen Sammlungen und historischen Archive des prominenten acehnesischen Gelehrten Ali Hasjmy beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        95.303557,
+                        5.531412
+                  ]
+            },
+            {
+                  "name": "Museum Tsunami Aceh",
+                  "text": "Das Aceh Tsunami Museum erinnert an die verheerenden Folgen des Erdbebens und Tsunamis im Indischen Ozean von 2004.",
+                  "category": "museum",
+                  "coords": [
+                        95.315128,
+                        5.547797
+                  ]
+            },
+            {
+                  "name": "Kueh;Kantor Keuchik",
+                  "text": "Diese lokale Kultstätte im Distrikt Lhoknga dient der Gemeinde als religiöses und administratives Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        95.26429,
+                        5.490664
+                  ]
+            },
+            {
+                  "name": "Mesjid Baiturrahim",
+                  "text": "Die historische Baiturrahim-Moschee in Ulee Lheue ist berühmt dafür, dass sie den verheerenden Tsunami von 2004 weitgehend unbeschadet überstand.",
+                  "category": "religious",
+                  "coords": [
+                        95.284061,
+                        5.555892
+                  ]
+            },
+            {
+                  "name": "Masjid Hidayatul Islam",
+                  "text": "Diese islamische Kultstätte dient den Gläubigen der Region Banda Aceh als wichtiges lokales Gebetszentrum.",
+                  "category": "religious",
+                  "coords": [
+                        95.362696,
+                        5.560486
+                  ]
+            },
+            {
+                  "name": "PLTD Apung",
+                  "text": "Die PLTD Apung 1 ist ein 2.600 Tonnen schweres Stromgeneratorschiff, das 2004 vom Tsunami kilometerweit ins Landesinnere gespült wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        95.306775,
+                        5.546388
+                  ]
+            },
+            {
+                  "name": "Gle Taron",
+                  "text": "Der Berggipfel des Gle Taron erhebt sich über der üppigen tropischen Landschaft in der Nähe von Banda Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.294,
+                        5.491
+                  ]
+            },
+            {
+                  "name": "Gle Demam",
+                  "text": "Die bewaldeten Hänge dieses Berges bieten weite Ausblicke über die Küstenregion Nord-Sumatras.",
+                  "category": "natural",
+                  "coords": [
+                        95.2912,
+                        5.4966
+                  ]
+            },
+            {
+                  "name": "Goh Mataie Toda",
+                  "text": "Dieser markante Gipfel in der Region Aceh ist ein natürliches Wahrzeichen inmitten dichter tropischer Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        95.2844,
+                        5.5046
+                  ]
+            },
+            {
+                  "name": "Bukit Seubun",
+                  "text": "Der Hügel Bukit Seubun bietet einen erhöhten Aussichtspunkt auf die umliegende Dschungel- und Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        95.265,
+                        5.5076
+                  ]
+            },
+            {
+                  "name": "Gle Ceue",
+                  "text": "Dieser Berg in der Provinz Aceh ist Teil der zerklüfteten Gebirgszüge im Norden der Insel Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        95.2445,
+                        5.5101
+                  ]
+            },
+            {
+                  "name": "Gunung Lamme",
+                  "text": "Der Gunung Lamme ist ein bewaldeter Berg, der sich majestätisch über die Täler von Aceh Besar erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        95.2591,
+                        5.5232
+                  ]
+            },
+            {
+                  "name": "Gle Pancu",
+                  "text": "Der natürliche Gipfel des Gle Pancu ist ein markanter Punkt in der tropischen Gebirgslandschaft von Nord-Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        95.2366,
+                        5.5698
+                  ]
+            },
+            {
+                  "name": "Gle Geunteng",
+                  "text": "Die Hänge des Gle Geunteng sind von dichtem Regenwald bedeckt und beheimaten eine vielfältige lokale Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        95.2785,
+                        5.5207
+                  ]
+            },
+            {
+                  "name": "Goh Panaih",
+                  "text": "Dieser Berg bietet von seinen bewaldeten Höhen einen weiten Blick über die Küstenebenen von Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.2651,
+                        5.5266
+                  ]
+            },
+            {
+                  "name": "Goh Torapa",
+                  "text": "Der Gipfel des Goh Torapa ragt markant aus der wilden, tropischen Berglandschaft Sumatras hervor.",
+                  "category": "natural",
+                  "coords": [
+                        95.2622,
+                        5.5174
+                  ]
+            },
+            {
+                  "name": "Gle Seudu",
+                  "text": "Der bewaldete Hang des Gle Seudu ist ein markantes geografisches Merkmal in der Region Aceh Besar.",
+                  "category": "natural",
+                  "coords": [
+                        95.2633,
+                        5.5136
+                  ]
+            },
+            {
+                  "name": "Goh Uteuen Raya",
+                  "text": "Dieser abgelegene Gipfel im Norden Sumatras ist tief im üppigen indonesischen Dschungel verborgen.",
+                  "category": "natural",
+                  "coords": [
+                        95.2789,
+                        5.518
+                  ]
+            },
+            {
+                  "name": "Gle Tuan Cotcako",
+                  "text": "Die schroffen Hänge dieses Gipfels prägen die tropische Hügellandschaft nahe der Küste von Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.2818,
+                        5.5147
+                  ]
+            },
+            {
+                  "name": "Goh Batee Bamon",
+                  "text": "Dieser Naturfelsgipfel bietet ein anspruchsvolles Terrain für Wanderer im unberührten Regenwald von Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.2837,
+                        5.5115
+                  ]
+            },
+            {
+                  "name": "Cot Trieng",
+                  "text": "Der markante Hügel Cot Trieng erhebt sich sanft über die von Landwirtschaft geprägten Ebenen der Region.",
+                  "category": "natural",
+                  "coords": [
+                        95.3043,
+                        5.4913
+                  ]
+            },
+            {
+                  "name": "Gle Naleung",
+                  "text": "Die dicht bewaldeten Höhen des Gle Naleung bilden einen grünen Kontrast zum blauen Himmel über Nord-Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        95.3196,
+                        5.4705
+                  ]
+            },
+            {
+                  "name": "Rumah Tomi",
+                  "text": "Diese historische Festungsanlage oder Residenz ist ein bemerkenswertes architektonisches Bauwerk in der Region Gunungan.",
+                  "category": "castle",
+                  "coords": [
+                        95.266522,
+                        5.547459
+                  ]
+            },
+            {
+                  "name": "Cut Nyak Din Museum",
+                  "text": "Das Museum ist eine Nachbildung des traditionellen acehnesischen Holzhauses der Nationalheldin Cut Nyak Dhien.",
+                  "category": "museum",
+                  "coords": [
+                        95.271619,
+                        5.516687
+                  ]
+            },
+            {
+                  "name": "Gunongan",
+                  "text": "Dieser weiße, hügelartige Bau im historischen Park Gunungan wurde im 17. Jahrhundert von Sultan Iskandar Muda als Vergnügungspark für seine Frau errichtet.",
+                  "category": "museum",
+                  "coords": [
+                        95.3162,
+                        5.54578
+                  ]
+            },
+            {
+                  "name": "Boat In The House",
+                  "text": "Dieses Denkmal zeigt ein Fischerboot, das während des Tsunami 2004 auf dem Dach eines Wohnhauses in Lampulo landete.",
+                  "category": "historical",
+                  "coords": [
+                        95.324989,
+                        5.57527
+                  ]
+            },
+            {
+                  "name": "Monumen Kereta Api",
+                  "text": "Dieses Eisenbahndenkmal erinnert an die historische Zugstrecke der Atjeh Tram, die einst während der niederländischen Kolonialzeit verkehrte.",
+                  "category": "historical",
+                  "coords": [
+                        95.319309,
+                        5.551682
+                  ]
+            },
+            {
+                  "name": "Tugu Darussalam",
+                  "text": "Dieses Denkmal in Banda Aceh symbolisiert den Status der Region Darussalam als wichtiges islamisches Bildungszentrum.",
+                  "category": "historical",
+                  "coords": [
+                        95.36994,
+                        5.57206
+                  ]
+            },
+            {
+                  "name": "Tugu",
+                  "text": "Dieses lokale Steindenkmal erinnert an bedeutende historische Ereignisse in der Geschichte der Provinz Aceh.",
+                  "category": "historical",
+                  "coords": [
+                        95.316962,
+                        5.547874
+                  ]
+            },
+            {
+                  "name": "Pinto Khop",
+                  "text": "Dieses gewölbte historische Tor, Pinto Khop genannt, verband einst den Palast des Sultans mit dem Gunungan-Park.",
+                  "category": "historical",
+                  "coords": [
+                        95.317824,
+                        5.546839
+                  ]
+            },
+            {
+                  "name": "Vihara",
+                  "text": "Dieser buddhistische Vihara-Tempel ist ein Ort der Meditation und ein spirituelles Zentrum für die lokale asiatische Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        95.321087,
+                        5.562013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pusat Dokumentasi dan Informasi Aceh",
+                  "text": "Történelmi múzeum Banda Acehben, amely az Aceh régió gazdag kulturális emlékeinek és örökségének megőrzését szolgálja.",
+                  "category": "museum",
+                  "coords": [
+                        95.321259,
+                        5.549219
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Baiturrahman",
+                  "text": "Fenséges iszlám nevezetesség Banda Acehben, amely feltűnő fekete kupoláiról és a 2004-es szökőárat is túlélő történelméről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        95.317197,
+                        5.553633
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Hati Kudus",
+                  "text": "Katolikus plébániatemplom Banda Acehben, amely a helyi keresztény közösség spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        95.320752,
+                        5.555064
+                  ]
+            },
+            {
+                  "name": "Museum UIN AR-RANIRY Banda Aceh",
+                  "text": "Az egyetemi egyetemen található akadémiai múzeum, amely iszlám műtárgyakat és történelmi gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        95.368453,
+                        5.576263
+                  ]
+            },
+            {
+                  "name": "Museum Ali Hasjmy",
+                  "text": "Kulturális intézmény Banda Acehben, amely Ali Hasjmy, a kiemelkedő aceh-i tudós személyes gyűjteményeinek és történelmi archívumának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        95.303557,
+                        5.531412
+                  ]
+            },
+            {
+                  "name": "Museum Tsunami Aceh",
+                  "text": "Az Aceh Cunami Múzeum a 2004-es indiai-óceáni földrengés és szökőár áldozatainak és pusztításának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        95.315128,
+                        5.547797
+                  ]
+            },
+            {
+                  "name": "Kueh;Kantor Keuchik",
+                  "text": "Ez a Lhoknga körzetben található helyi istentiszteleti hely vallási és közigazgatási központként szolgál a közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        95.26429,
+                        5.490664
+                  ]
+            },
+            {
+                  "name": "Mesjid Baiturrahim",
+                  "text": "Az Ulee Lheue-i történelmi Baiturrahim mecset arról híres, hogy nagyrészt sértetlenül vészelte át a 2004-es pusztító cunamit.",
+                  "category": "religious",
+                  "coords": [
+                        95.284061,
+                        5.555892
+                  ]
+            },
+            {
+                  "name": "Masjid Hidayatul Islam",
+                  "text": "Ez az iszlám istentiszteleti hely a Banda Aceh-i régió hívőinek fontos helyi imaközpontjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        95.362696,
+                        5.560486
+                  ]
+            },
+            {
+                  "name": "PLTD Apung",
+                  "text": "A PLTD Apung 1 egy 2600 tonnás áramfejlesztő hajó, amelyet a 2004-es szökőár kilométerekre sodort a szárazföld belsejébe.",
+                  "category": "landmark",
+                  "coords": [
+                        95.306775,
+                        5.546388
+                  ]
+            },
+            {
+                  "name": "Gle Taron",
+                  "text": "A Gle Taron hegycsúcs a buja trópusi táj fölé magasodik Banda Aceh közelében.",
+                  "category": "natural",
+                  "coords": [
+                        95.294,
+                        5.491
+                  ]
+            },
+            {
+                  "name": "Gle Demam",
+                  "text": "Ennek a hegynek az erdős lejtői széles kilátást nyújtanak Észak-Szumátra tengerparti régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        95.2912,
+                        5.4966
+                  ]
+            },
+            {
+                  "name": "Goh Mataie Toda",
+                  "text": "Ez az Aceh régióban található jellegzetes csúcs sűrű trópusi növényzettel körülvett természeti tájékozódási pont.",
+                  "category": "natural",
+                  "coords": [
+                        95.2844,
+                        5.5046
+                  ]
+            },
+            {
+                  "name": "Bukit Seubun",
+                  "text": "A Bukit Seubun domb magaslati kilátópontot nyújt a környező dzsungelre és a tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        95.265,
+                        5.5076
+                  ]
+            },
+            {
+                  "name": "Gle Ceue",
+                  "text": "Ez a hegy Aceh tartományban Szumátra szigetének északi, zord hegyvonulatainak részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        95.2445,
+                        5.5101
+                  ]
+            },
+            {
+                  "name": "Gunung Lamme",
+                  "text": "A Gunung Lamme egy erdős hegy, amely fenségesen magasodik Aceh Besar völgyei fölé.",
+                  "category": "natural",
+                  "coords": [
+                        95.2591,
+                        5.5232
+                  ]
+            },
+            {
+                  "name": "Gle Pancu",
+                  "text": "A Gle Pancu természetes csúcsa Észak-Szumátra trópusi hegyvidékének egyik kiemelkedő pontja.",
+                  "category": "natural",
+                  "coords": [
+                        95.2366,
+                        5.5698
+                  ]
+            },
+            {
+                  "name": "Gle Geunteng",
+                  "text": "A Gle Geunteng lejtőit sűrű esőerdő borítja, amely változatos helyi növény- és állatvilágnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        95.2785,
+                        5.5207
+                  ]
+            },
+            {
+                  "name": "Goh Panaih",
+                  "text": "Ez a hegy erdős magaslatairól széles kilátást nyújt Aceh tengerparti síkságaira.",
+                  "category": "natural",
+                  "coords": [
+                        95.2651,
+                        5.5266
+                  ]
+            },
+            {
+                  "name": "Goh Torapa",
+                  "text": "A Goh Torapa csúcsa markánsan emelkedik ki Szumátra vad, trópusi hegyvidékéből.",
+                  "category": "natural",
+                  "coords": [
+                        95.2622,
+                        5.5174
+                  ]
+            },
+            {
+                  "name": "Gle Seudu",
+                  "text": "A Gle Seudu erdős lejtője fontos földrajzi tájékozódási pont Aceh Besar régióban.",
+                  "category": "natural",
+                  "coords": [
+                        95.2633,
+                        5.5136
+                  ]
+            },
+            {
+                  "name": "Goh Uteuen Raya",
+                  "text": "Ez az elszigetelt észak-szumátrai csúcs a buja indonéz dzsungel mélyén rejtőzik.",
+                  "category": "natural",
+                  "coords": [
+                        95.2789,
+                        5.518
+                  ]
+            },
+            {
+                  "name": "Gle Tuan Cotcako",
+                  "text": "Ennek a csúcsnak a zord lejtői határozzák meg Aceh partközeli, trópusi dombvidékének arculatát.",
+                  "category": "natural",
+                  "coords": [
+                        95.2818,
+                        5.5147
+                  ]
+            },
+            {
+                  "name": "Goh Batee Bamon",
+                  "text": "Ez a természetes sziklacsúcs kihívást jelentő terepet kínál a túrázóknak Aceh érintetlen esőerdejében.",
+                  "category": "natural",
+                  "coords": [
+                        95.2837,
+                        5.5115
+                  ]
+            },
+            {
+                  "name": "Cot Trieng",
+                  "text": "A Cot Trieng kiemelkedő dombja lankásan emelkedik ki a régió mezőgazdasági síkságaiból.",
+                  "category": "natural",
+                  "coords": [
+                        95.3043,
+                        5.4913
+                  ]
+            },
+            {
+                  "name": "Gle Naleung",
+                  "text": "A Gle Naleung sűrűn erdős magaslatai zöld kontrasztot alkotnak az észak-szumátrai kék éggel.",
+                  "category": "natural",
+                  "coords": [
+                        95.3196,
+                        5.4705
+                  ]
+            },
+            {
+                  "name": "Rumah Tomi",
+                  "text": "Ez a történelmi erődszerű épület vagy rezidencia figyelemre méltó építészeti alkotás Gunungan régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        95.266522,
+                        5.547459
+                  ]
+            },
+            {
+                  "name": "Cut Nyak Din Museum",
+                  "text": "A múzeum Cut Nyak Dhien nemzeti hős hagyományos acehi faházának hű másolata.",
+                  "category": "museum",
+                  "coords": [
+                        95.271619,
+                        5.516687
+                  ]
+            },
+            {
+                  "name": "Gunongan",
+                  "text": "Ezt a fehér, dombszerű építményt a Gunungan Történelmi Parkban Iskandar Muda szultán építtette a 17. században felesége számára pihenőhelyként.",
+                  "category": "museum",
+                  "coords": [
+                        95.3162,
+                        5.54578
+                  ]
+            },
+            {
+                  "name": "Boat In The House",
+                  "text": "Ez az emlékmű egy halászhajót mutat be, amely a 2004-es szökőár idején egy lampulói lakóház tetején landolt.",
+                  "category": "historical",
+                  "coords": [
+                        95.324989,
+                        5.57527
+                  ]
+            },
+            {
+                  "name": "Monumen Kereta Api",
+                  "text": "Ez a vasúti emlékmű az egykori Atjeh Tram nevű történelmi vonatvonalnak állít emléket, amely a holland gyarmati időkben működött.",
+                  "category": "historical",
+                  "coords": [
+                        95.319309,
+                        5.551682
+                  ]
+            },
+            {
+                  "name": "Tugu Darussalam",
+                  "text": "Ez a Banda Aceh-i emlékmű a Darussalam régió fontos iszlám oktatási központként betöltött szerepét szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        95.36994,
+                        5.57206
+                  ]
+            },
+            {
+                  "name": "Tugu",
+                  "text": "Ez a helyi kőemlékmű Aceh tartomány történelmének jelentős történelmi eseményeire emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        95.316962,
+                        5.547874
+                  ]
+            },
+            {
+                  "name": "Pinto Khop",
+                  "text": "Ez a Pinto Khop néven ismert boltíves, történelmi kapu egykor a szultán palotáját kötötte össze a Gunungan parkkal.",
+                  "category": "historical",
+                  "coords": [
+                        95.317824,
+                        5.546839
+                  ]
+            },
+            {
+                  "name": "Vihara",
+                  "text": "Ez a buddhista Vihara templom a meditáció helyszíne és a helyi ázsiai közösség spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        95.321087,
+                        5.562013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pusat Dokumentasi dan Informasi Aceh",
+                  "text": "Un muzeu istoric din Banda Aceh dedicat conservării bogatelor înregistrări culturale și moștenirii regiunii Aceh.",
+                  "category": "museum",
+                  "coords": [
+                        95.321259,
+                        5.549219
+                  ]
+            },
+            {
+                  "name": "Masjid Raya Baiturrahman",
+                  "text": "Un reper islamic maiestuos din Banda Aceh, cunoscut pentru cupolele sale negre izbitoare și pentru istoria sa rezistentă în timpul tsunami-ului din 2004.",
+                  "category": "religious",
+                  "coords": [
+                        95.317197,
+                        5.553633
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Hati Kudus",
+                  "text": "O biserică parohială catolică din Banda Aceh care servește drept centru spiritual pentru comunitatea creștină locală.",
+                  "category": "religious",
+                  "coords": [
+                        95.320752,
+                        5.555064
+                  ]
+            },
+            {
+                  "name": "Museum UIN AR-RANIRY Banda Aceh",
+                  "text": "Un muzeu academic situat în campusul universitar, care expune artefacte islamice și colecții istorice.",
+                  "category": "museum",
+                  "coords": [
+                        95.368453,
+                        5.576263
+                  ]
+            },
+            {
+                  "name": "Museum Ali Hasjmy",
+                  "text": "O instituție culturală din Banda Aceh care găzduiește colecțiile personale și arhivele istorice ale proeminentului erudit acehez Ali Hasjmy.",
+                  "category": "museum",
+                  "coords": [
+                        95.303557,
+                        5.531412
+                  ]
+            },
+            {
+                  "name": "Museum Tsunami Aceh",
+                  "text": "Muzeul Tsunamiului din Aceh comemorează victimele și distrugerile provocate de cutremurul și tsunamiul din Oceanul Indian din 2004.",
+                  "category": "museum",
+                  "coords": [
+                        95.315128,
+                        5.547797
+                  ]
+            },
+            {
+                  "name": "Kueh;Kantor Keuchik",
+                  "text": "Acest lăcaș de cult local din districtul Lhoknga servește drept centru religios și administrativ pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        95.26429,
+                        5.490664
+                  ]
+            },
+            {
+                  "name": "Mesjid Baiturrahim",
+                  "text": "Moscheea istorică Baiturrahim din Ulee Lheue este renumită pentru faptul că a supraviețuit aproape intactă tsunamiului devastator din 2004.",
+                  "category": "religious",
+                  "coords": [
+                        95.284061,
+                        5.555892
+                  ]
+            },
+            {
+                  "name": "Masjid Hidayatul Islam",
+                  "text": "Acest lăcaș de cult islamic servește drept un important centru local de rugăciune pentru credincioșii din regiunea Banda Aceh.",
+                  "category": "religious",
+                  "coords": [
+                        95.362696,
+                        5.560486
+                  ]
+            },
+            {
+                  "name": "PLTD Apung",
+                  "text": "PLTD Apung 1 este o navă generator de curent de 2.600 de tone, care a fost purtată la kilometri distanță în interiorul continentului de tsunamiul din 2004.",
+                  "category": "landmark",
+                  "coords": [
+                        95.306775,
+                        5.546388
+                  ]
+            },
+            {
+                  "name": "Gle Taron",
+                  "text": "Vârful muntelui Gle Taron se înalță deasupra peisajului tropical luxuriant din apropiere de Banda Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.294,
+                        5.491
+                  ]
+            },
+            {
+                  "name": "Gle Demam",
+                  "text": "Pantele împădurite ale acestui munte oferă priveliști largi asupra regiunii de coastă a Sumatrei de Nord.",
+                  "category": "natural",
+                  "coords": [
+                        95.2912,
+                        5.4966
+                  ]
+            },
+            {
+                  "name": "Goh Mataie Toda",
+                  "text": "Acest vârf proeminent din regiunea Aceh este un punct de reper natural înconjurat de o vegetație tropicală densă.",
+                  "category": "natural",
+                  "coords": [
+                        95.2844,
+                        5.5046
+                  ]
+            },
+            {
+                  "name": "Bukit Seubun",
+                  "text": "Dealul Bukit Seubun oferă un punct de belvedere înalt asupra junglei înconjurătoare și a peisajului de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        95.265,
+                        5.5076
+                  ]
+            },
+            {
+                  "name": "Gle Ceue",
+                  "text": "Acest munte din provincia Aceh face parte din lanțurile muntoase accidentate din nordul insulei Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        95.2445,
+                        5.5101
+                  ]
+            },
+            {
+                  "name": "Gunung Lamme",
+                  "text": "Gunung Lamme este un munte împădurit care se înalță maiestuos deasupra văilor din Aceh Besar.",
+                  "category": "natural",
+                  "coords": [
+                        95.2591,
+                        5.5232
+                  ]
+            },
+            {
+                  "name": "Gle Pancu",
+                  "text": "Vârful natural Gle Pancu este un punct de reper în peisajul muntos tropical din nordul Sumatrei.",
+                  "category": "natural",
+                  "coords": [
+                        95.2366,
+                        5.5698
+                  ]
+            },
+            {
+                  "name": "Gle Geunteng",
+                  "text": "Pantele muntelui Gle Geunteng sunt acoperite de o pădure tropicală densă, găzduind o floră și faună locală diversă.",
+                  "category": "natural",
+                  "coords": [
+                        95.2785,
+                        5.5207
+                  ]
+            },
+            {
+                  "name": "Goh Panaih",
+                  "text": "Acest munte oferă de pe înălțimile sale împădurite o panoramă vastă asupra câmpiilor de coastă din Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.2651,
+                        5.5266
+                  ]
+            },
+            {
+                  "name": "Goh Torapa",
+                  "text": "Vârful Goh Torapa se profilează distinct pe fundalul peisajului montan sălbatic și tropical al Sumatrei.",
+                  "category": "natural",
+                  "coords": [
+                        95.2622,
+                        5.5174
+                  ]
+            },
+            {
+                  "name": "Gle Seudu",
+                  "text": "Panta împădurită a muntelui Gle Seudu este o trăsătură geografică distinctivă în regiunea Aceh Besar.",
+                  "category": "natural",
+                  "coords": [
+                        95.2633,
+                        5.5136
+                  ]
+            },
+            {
+                  "name": "Goh Uteuen Raya",
+                  "text": "Acest vârf izolat din nordul Sumatrei este ascuns adânc în jungla luxuriantă a Indoneziei.",
+                  "category": "natural",
+                  "coords": [
+                        95.2789,
+                        5.518
+                  ]
+            },
+            {
+                  "name": "Gle Tuan Cotcako",
+                  "text": "Pantele abrupte ale acestui vârf domină peisajul colinar tropical din apropierea coastei regiunii Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.2818,
+                        5.5147
+                  ]
+            },
+            {
+                  "name": "Goh Batee Bamon",
+                  "text": "Acest vârf stâncos natural oferă un teren plin de provocări pentru drumeții din pădurea tropicală virgină din Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.2837,
+                        5.5115
+                  ]
+            },
+            {
+                  "name": "Cot Trieng",
+                  "text": "Dealul proeminent Cot Trieng se înalță lin deasupra câmpiilor agricole ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        95.3043,
+                        5.4913
+                  ]
+            },
+            {
+                  "name": "Gle Naleung",
+                  "text": "Înălțimile dens împădurite ale muntelui Gle Naleung creează un contrast verde cu cerul albastru de deasupra Sumatrei de Nord.",
+                  "category": "natural",
+                  "coords": [
+                        95.3196,
+                        5.4705
+                  ]
+            },
+            {
+                  "name": "Rumah Tomi",
+                  "text": "Această structură istorică asemănătoare unei fortărețe sau reședință este o clădire arhitecturală remarcabilă în regiunea Gunungan.",
+                  "category": "castle",
+                  "coords": [
+                        95.266522,
+                        5.547459
+                  ]
+            },
+            {
+                  "name": "Cut Nyak Din Museum",
+                  "text": "Muzeul este o replică a casei tradiționale de lemn aceheze aparținând eroinei naționale Cut Nyak Dhien.",
+                  "category": "museum",
+                  "coords": [
+                        95.271619,
+                        5.516687
+                  ]
+            },
+            {
+                  "name": "Gunongan",
+                  "text": "Această structură albă în formă de deal din Parcul Istoric Gunungan a fost construită în secolul al XVII-lea de sultanul Iskandar Muda pentru soția sa.",
+                  "category": "museum",
+                  "coords": [
+                        95.3162,
+                        5.54578
+                  ]
+            },
+            {
+                  "name": "Boat In The House",
+                  "text": "Acest monument prezintă o barcă de pescuit care a ajuns pe acoperișul unei case din Lampulo în timpul tsunamiului din 2004.",
+                  "category": "historical",
+                  "coords": [
+                        95.324989,
+                        5.57527
+                  ]
+            },
+            {
+                  "name": "Monumen Kereta Api",
+                  "text": "Acest monument feroviar amintește de traseul istoric al trenului Atjeh Tram, care a funcționat cândva în timpul perioadei coloniale olandeze.",
+                  "category": "historical",
+                  "coords": [
+                        95.319309,
+                        5.551682
+                  ]
+            },
+            {
+                  "name": "Tugu Darussalam",
+                  "text": "Acest monument din Banda Aceh simbolizează statutul regiunii Darussalam ca un important centru educațional islamic.",
+                  "category": "historical",
+                  "coords": [
+                        95.36994,
+                        5.57206
+                  ]
+            },
+            {
+                  "name": "Tugu",
+                  "text": "Acest monument local din piatră comemorează evenimente istorice semnificative din istoria provinciei Aceh.",
+                  "category": "historical",
+                  "coords": [
+                        95.316962,
+                        5.547874
+                  ]
+            },
+            {
+                  "name": "Pinto Khop",
+                  "text": "Această poartă istorică arcuită, cunoscută sub numele de Pinto Khop, conecta odată palatul sultanului cu parcul Gunungan.",
+                  "category": "historical",
+                  "coords": [
+                        95.317824,
+                        5.546839
+                  ]
+            },
+            {
+                  "name": "Vihara",
+                  "text": "Acest templu budist Vihara este un loc de meditație și un centru spiritual pentru comunitatea asiatică locală.",
+                  "category": "religious",
+                  "coords": [
+                        95.321087,
+                        5.562013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pusat Dokumentasi dan Informasi Aceh",
+                  "text": "A historical museum in Banda Aceh dedicated to preserving the rich cultural records and heritage of the Aceh region.",
+                  "category": "museum",
+                  "coords": [
+                        95.321259,
+                        5.549219
+                  ]
+            },
+            {
+                  "name": "Baiturrahman Grand Mosque",
+                  "text": "A majestic Islamic landmark in Banda Aceh, known for its striking black domes and resilient history through the 2004 tsunami.",
+                  "category": "religious",
+                  "coords": [
+                        95.317197,
+                        5.553633
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Hati Kudus",
+                  "text": "A Catholic parish church in Banda Aceh serving as a spiritual center for the local Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        95.320752,
+                        5.555064
+                  ]
+            },
+            {
+                  "name": "Museum UIN AR-RANIRY Banda Aceh",
+                  "text": "An academic museum located on the university campus, showcasing Islamic artifacts and historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        95.368453,
+                        5.576263
+                  ]
+            },
+            {
+                  "name": "Museum Ali Hasjmy",
+                  "text": "A cultural institution in Banda Aceh housing the personal collections and historical archives of the prominent Acehnese scholar Ali Hasjmy.",
+                  "category": "museum",
+                  "coords": [
+                        95.303557,
+                        5.531412
+                  ]
+            },
+            {
+                  "name": "Museum Tsunami Aceh",
+                  "text": "The Aceh Tsunami Museum commemorates the victims and devastation of the 2004 Indian Ocean earthquake and tsunami.",
+                  "category": "museum",
+                  "coords": [
+                        95.315128,
+                        5.547797
+                  ]
+            },
+            {
+                  "name": "Kueh;Kantor Keuchik",
+                  "text": "This local place of worship in the Lhoknga district serves the community as a religious and administrative center.",
+                  "category": "religious",
+                  "coords": [
+                        95.26429,
+                        5.490664
+                  ]
+            },
+            {
+                  "name": "Mesjid Baiturrahim",
+                  "text": "The historic Baiturrahim Mosque in Ulee Lheue is famous for surviving the devastating 2004 tsunami largely intact.",
+                  "category": "religious",
+                  "coords": [
+                        95.284061,
+                        5.555892
+                  ]
+            },
+            {
+                  "name": "Masjid Hidayatul Islam",
+                  "text": "This Islamic place of worship serves as an important local prayer center for believers in the Banda Aceh region.",
+                  "category": "religious",
+                  "coords": [
+                        95.362696,
+                        5.560486
+                  ]
+            },
+            {
+                  "name": "PLTD Apung",
+                  "text": "The PLTD Apung 1 is a 2,600-ton power generator vessel that was swept miles inland by the 2004 tsunami.",
+                  "category": "landmark",
+                  "coords": [
+                        95.306775,
+                        5.546388
+                  ]
+            },
+            {
+                  "name": "Gle Taron",
+                  "text": "The mountain peak of Gle Taron rises above the lush tropical landscape near Banda Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.294,
+                        5.491
+                  ]
+            },
+            {
+                  "name": "Gle Demam",
+                  "text": "The forested slopes of this mountain offer sweeping views over the coastal region of North Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        95.2912,
+                        5.4966
+                  ]
+            },
+            {
+                  "name": "Goh Mataie Toda",
+                  "text": "This prominent peak in the Aceh region is a natural landmark surrounded by dense tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        95.2844,
+                        5.5046
+                  ]
+            },
+            {
+                  "name": "Bukit Seubun",
+                  "text": "The hill of Bukit Seubun provides an elevated vantage point over the surrounding jungle and coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        95.265,
+                        5.5076
+                  ]
+            },
+            {
+                  "name": "Gle Ceue",
+                  "text": "This mountain in the Aceh province forms part of the rugged mountain ranges in the north of Sumatra island.",
+                  "category": "natural",
+                  "coords": [
+                        95.2445,
+                        5.5101
+                  ]
+            },
+            {
+                  "name": "Gunung Lamme",
+                  "text": "Gunung Lamme is a forested mountain that rises majestically above the valleys of Aceh Besar.",
+                  "category": "natural",
+                  "coords": [
+                        95.2591,
+                        5.5232
+                  ]
+            },
+            {
+                  "name": "Gle Pancu",
+                  "text": "The natural peak of Gle Pancu is a prominent feature in the tropical mountain landscape of North Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        95.2366,
+                        5.5698
+                  ]
+            },
+            {
+                  "name": "Gle Geunteng",
+                  "text": "The slopes of Gle Geunteng are covered by dense rainforest, home to diverse local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        95.2785,
+                        5.5207
+                  ]
+            },
+            {
+                  "name": "Goh Panaih",
+                  "text": "This mountain offers sweeping views over the coastal plains of Aceh from its forested heights.",
+                  "category": "natural",
+                  "coords": [
+                        95.2651,
+                        5.5266
+                  ]
+            },
+            {
+                  "name": "Goh Torapa",
+                  "text": "The peak of Goh Torapa stands out prominently from the wild, tropical mountain landscape of Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        95.2622,
+                        5.5174
+                  ]
+            },
+            {
+                  "name": "Gle Seudu",
+                  "text": "The forested slope of Gle Seudu is a prominent geographical feature in the Aceh Besar region.",
+                  "category": "natural",
+                  "coords": [
+                        95.2633,
+                        5.5136
+                  ]
+            },
+            {
+                  "name": "Goh Uteuen Raya",
+                  "text": "This remote peak in northern Sumatra is hidden deep within the lush Indonesian jungle.",
+                  "category": "natural",
+                  "coords": [
+                        95.2789,
+                        5.518
+                  ]
+            },
+            {
+                  "name": "Gle Tuan Cotcako",
+                  "text": "The rugged slopes of this peak define the tropical hilly landscape near the coast of Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.2818,
+                        5.5147
+                  ]
+            },
+            {
+                  "name": "Goh Batee Bamon",
+                  "text": "This natural rocky peak offers challenging terrain for hikers in the pristine rainforest of Aceh.",
+                  "category": "natural",
+                  "coords": [
+                        95.2837,
+                        5.5115
+                  ]
+            },
+            {
+                  "name": "Cot Trieng",
+                  "text": "The prominent hill of Cot Trieng rises gently above the agricultural plains of the region.",
+                  "category": "natural",
+                  "coords": [
+                        95.3043,
+                        5.4913
+                  ]
+            },
+            {
+                  "name": "Gle Naleung",
+                  "text": "The densely forested heights of Gle Naleung form a green contrast to the blue sky over North Sumatra.",
+                  "category": "natural",
+                  "coords": [
+                        95.3196,
+                        5.4705
+                  ]
+            },
+            {
+                  "name": "Rumah Tomi",
+                  "text": "This historic fort-like structure or residence is a notable architectural building in the Gunungan region.",
+                  "category": "castle",
+                  "coords": [
+                        95.266522,
+                        5.547459
+                  ]
+            },
+            {
+                  "name": "Cut Nyak Din Museum",
+                  "text": "The museum is a replica of the traditional Acehnese wooden house of national hero Cut Nyak Dhien.",
+                  "category": "museum",
+                  "coords": [
+                        95.271619,
+                        5.516687
+                  ]
+            },
+            {
+                  "name": "Gunongan",
+                  "text": "This white, hill-like structure in the Gunungan Historical Park was built in the 17th century by Sultan Iskandar Muda as a pleasure garden for his wife.",
+                  "category": "museum",
+                  "coords": [
+                        95.3162,
+                        5.54578
+                  ]
+            },
+            {
+                  "name": "Boat In The House",
+                  "text": "This monument features a fishing boat that landed on the roof of a house in Lampulo during the 2004 tsunami.",
+                  "category": "historical",
+                  "coords": [
+                        95.324989,
+                        5.57527
+                  ]
+            },
+            {
+                  "name": "Monumen Kereta Api",
+                  "text": "This railway monument commemorates the historic Atjeh Tram line that once operated during the Dutch colonial era.",
+                  "category": "historical",
+                  "coords": [
+                        95.319309,
+                        5.551682
+                  ]
+            },
+            {
+                  "name": "Tugu Darussalam",
+                  "text": "This monument in Banda Aceh symbolizes the status of the Darussalam region as a major Islamic educational center.",
+                  "category": "historical",
+                  "coords": [
+                        95.36994,
+                        5.57206
+                  ]
+            },
+            {
+                  "name": "Tugu",
+                  "text": "This local stone monument commemorates significant historical events in the history of the Aceh province.",
+                  "category": "historical",
+                  "coords": [
+                        95.316962,
+                        5.547874
+                  ]
+            },
+            {
+                  "name": "Pinto Khop",
+                  "text": "This domed historic gate, known as Pinto Khop, once connected the Sultan's palace to the Gunungan park.",
+                  "category": "historical",
+                  "coords": [
+                        95.317824,
+                        5.546839
+                  ]
+            },
+            {
+                  "name": "Vihara",
+                  "text": "This Buddhist Vihara temple is a place of meditation and a spiritual center for the local Asian community.",
+                  "category": "religious",
+                  "coords": [
+                        95.321087,
+                        5.562013
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-AC",
     coords: [95.3214, 5.5539],
@@ -855,7 +19269,1240 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "jakarta-old-town-history-v2",
+    id: "jakarta-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wayang Museum",
+                  "text": "Das Wayang-Museum in der Altstadt von Jakarta widmet sich dem traditionellen javanischen Puppenspiel.",
+                  "category": "museum",
+                  "coords": [
+                        106.812509,
+                        -6.134814
+                  ]
+            },
+            {
+                  "name": "Museum Bahari",
+                  "text": "Das Schifffahrtsmuseum von Jakarta ist in den historischen ehemaligen Lagerhäusern der Niederländischen Ostindien-Kompanie untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        106.808318,
+                        -6.126829
+                  ]
+            },
+            {
+                  "name": "Batavia Castle Barracks Remnants",
+                  "text": "Die Ruinen der Batavia-Kaserne sind Überreste einer kolonialen Festung in Jakarta.",
+                  "category": "castle",
+                  "coords": [
+                        106.813071,
+                        -6.128988
+                  ]
+            },
+            {
+                  "name": "Museum Bank Indonesia",
+                  "text": "Das Bank Indonesia Museum zeigt die Geschichte des indonesischen Bankwesens in Jakarta.",
+                  "category": "museum",
+                  "coords": [
+                        106.812779,
+                        -6.137167
+                  ]
+            },
+            {
+                  "name": "Museum Bank Mandiri",
+                  "text": "Das Bank Mandiri Museum in Jakarta widmet sich der Wirtschafts- und Bankengeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        106.813205,
+                        -6.138112
+                  ]
+            },
+            {
+                  "name": "Masjid Keramat Luar Batang",
+                  "text": "Die Luar Batang Moschee ist ein historisches islamisches Gotteshaus in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.806486,
+                        -6.123797
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Anshor",
+                  "text": "Die Al-Anshor Moschee ist eine der ältesten Moscheen in der Altstadt von Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.806906,
+                        -6.139014
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al Mansur",
+                  "text": "Die Jami Al Mansur Moschee ist ein bekanntes religiöses Zentrum in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.806376,
+                        -6.146281
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Annawier",
+                  "text": "Die An-Nawier Moschee ist eine bedeutende historische Moschee in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.804536,
+                        -6.141469
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Kampung Baru",
+                  "text": "Die Jami Kampung Baru Inpak Moschee ist ein islamisches Gotteshaus in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.802802,
+                        -6.136612
+                  ]
+            },
+            {
+                  "name": "Gereja Sion",
+                  "text": "Die Gereja Sion ist eine historische Kirche, die auch als Portugiesische Kirche in Jakarta bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        106.817838,
+                        -6.138162
+                  ]
+            },
+            {
+                  "name": "Suaka Margasatwa Muara Angke",
+                  "text": "Das Muara Angke Wildreservat bietet Schutz für Flora und Fauna in Jakarta.",
+                  "category": "natural",
+                  "coords": [
+                        106.759536,
+                        -6.10597
+                  ]
+            },
+            {
+                  "name": "Taman Waduk Pluit",
+                  "text": "Der Taman Waduk Pluit ist ein städtischer Park in Jakarta, der Erholung am Wasser bietet.",
+                  "category": "park",
+                  "coords": [
+                        106.795076,
+                        -6.115069
+                  ]
+            },
+            {
+                  "name": "Museum Seni Rupa dan Keramik",
+                  "text": "Das Museum der Schönen Künste und Keramik präsentiert indonesische Kunstwerke in Jakarta.",
+                  "category": "museum",
+                  "coords": [
+                        106.814473,
+                        -6.134249
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Santa Maria De Fatima",
+                  "text": "Die katholische Kirche St. Maria von Fatima hat eine einzigartige Architektur im chinesischen Stil in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.812114,
+                        -6.1438
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al-Anwar Angke",
+                  "text": "Die Angke Moschee ist ein historisches islamisches Gotteshaus mit besonderer Architektur in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.795957,
+                        -6.14334
+                  ]
+            },
+            {
+                  "name": "Museum BNI",
+                  "text": "Das Museum BNI widmet sich der Geschichte der Bank Negara Indonesia in Jakarta.",
+                  "category": "museum",
+                  "coords": [
+                        106.814945,
+                        -6.136437
+                  ]
+            },
+            {
+                  "name": "Masjid Wal Adhuna",
+                  "text": "Die Masjid Wal Adhuna sind die Ruinen einer überfluteten Moschee in Jakarta.",
+                  "category": "historical",
+                  "coords": [
+                        106.806502,
+                        -6.111066
+                  ]
+            },
+            {
+                  "name": "Balai Kerajaan Saksi-saksi Yehuwa",
+                  "text": "Der Königreichssaal der Zeugen Jehovas ist eine religiöse Versammlungsstätte in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.797356,
+                        -6.153509
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Jemaat Allah",
+                  "text": "Die Gereja Sidang Jemaat Allah ist ein christliches Gotteshaus in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.788432,
+                        -6.121704
+                  ]
+            },
+            {
+                  "name": "Masjid Bahrul Ulum",
+                  "text": "Die Masjid Bahrul Ulum ist eine lokale Moschee im Stadtgebiet von Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.80217,
+                        -6.110829
+                  ]
+            },
+            {
+                  "name": "Rumah Abu Nirmala Dharma",
+                  "text": "Das Rumah Abu Nirmala Dharma ist eine religiöse Stätte in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.793138,
+                        -6.134432
+                  ]
+            },
+            {
+                  "name": "Gereja Kristen Indonesia Kanaan",
+                  "text": "Die Kanaan-Kirche der GKI ist ein christlicher Versammlungsort in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.793749,
+                        -6.140508
+                  ]
+            },
+            {
+                  "name": "GKPI Maranatha",
+                  "text": "Die GKPI Maranatha ist eine lokale Kirche in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.736046,
+                        -6.147015
+                  ]
+            },
+            {
+                  "name": "Mushola AL MUHAJIRIN",
+                  "text": "Die Mushola Al Muhajirin ist eine kleine Moschee für Gebete in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.811667,
+                        -6.145323
+                  ]
+            },
+            {
+                  "name": "Gereja GPPS Pokok Anggur yang benar jelambar",
+                  "text": "Diese Kirche ist eine christliche Andachtsstätte in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.788408,
+                        -6.151712
+                  ]
+            },
+            {
+                  "name": "Pasar Jembatan Besi",
+                  "text": "Der Pasar Jembatan Besi ist ein lokaler Marktplatz in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.797168,
+                        -6.150391
+                  ]
+            },
+            {
+                  "name": "NEOadMediaPromo",
+                  "text": "NEOadMediaPromo ist ein gewerblicher Marktplatz in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.745711,
+                        -6.148387
+                  ]
+            },
+            {
+                  "name": "Hype Market",
+                  "text": "Der Hype Market ist ein Marktplatz in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.737773,
+                        -6.109738
+                  ]
+            },
+            {
+                  "name": "Pasar Jembatan Merah",
+                  "text": "Der Pasar Jembatan Merah ist ein geschäftiger Markt in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.825673,
+                        -6.148837
+                  ]
+            },
+            {
+                  "name": "Pasar Tanah Merah",
+                  "text": "Der Pasar Tanah Merah ist ein lokaler Markt für Waren in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.794173,
+                        -6.129905
+                  ]
+            },
+            {
+                  "name": "Pasar HWI- Lindeteves Pusat Sarana Teknik- Elektronika",
+                  "text": "Dieser Markt ist ein Zentrum für Technik und Elektronik in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.815784,
+                        -6.144292
+                  ]
+            },
+            {
+                  "name": "Petak Enam",
+                  "text": "Petak Enam ist ein bekannter Marktbereich in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.812483,
+                        -6.141271
+                  ]
+            },
+            {
+                  "name": "Pasar Bersih",
+                  "text": "Der Pasar Bersih ist ein sauberer und organisierter Marktplatz in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.739228,
+                        -6.137934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wayang Museum",
+                  "text": "A jakartai óvárosban található Wayang Múzeum a hagyományos jávai bábjátéknak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        106.812509,
+                        -6.134814
+                  ]
+            },
+            {
+                  "name": "Museum Bahari",
+                  "text": "A jakartai Tengerészeti Múzeum a Holland Kelet-indiai Társaság történelmi raktárépületeiben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        106.808318,
+                        -6.126829
+                  ]
+            },
+            {
+                  "name": "Batavia Castle Barracks Remnants",
+                  "text": "A Batavia kastély laktanyáinak romjai a gyarmati erődítményre emlékeztetnek Jakartában.",
+                  "category": "castle",
+                  "coords": [
+                        106.813071,
+                        -6.128988
+                  ]
+            },
+            {
+                  "name": "Museum Bank Indonesia",
+                  "text": "A Bank Indonesia Múzeum az indonéz bankrendszer történetét mutatja be Jakartában.",
+                  "category": "museum",
+                  "coords": [
+                        106.812779,
+                        -6.137167
+                  ]
+            },
+            {
+                  "name": "Museum Bank Mandiri",
+                  "text": "A jakartai Bank Mandiri Múzeum a gazdaság és a bankok történetének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        106.813205,
+                        -6.138112
+                  ]
+            },
+            {
+                  "name": "Masjid Keramat Luar Batang",
+                  "text": "A Luar Batang mecset egy történelmi iszlám istentiszteleti hely Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.806486,
+                        -6.123797
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Anshor",
+                  "text": "Az Al-Anshor mecset Jakarta óvárosának egyik legrégebbi mecsete.",
+                  "category": "religious",
+                  "coords": [
+                        106.806906,
+                        -6.139014
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al Mansur",
+                  "text": "A Jami Al Mansur mecset egy jól ismert vallási központ Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.806376,
+                        -6.146281
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Annawier",
+                  "text": "Az An-Nawier mecset egy jelentős történelmi mecset Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.804536,
+                        -6.141469
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Kampung Baru",
+                  "text": "A Jami Kampung Baru Inpak mecset egy iszlám istentiszteleti hely Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.802802,
+                        -6.136612
+                  ]
+            },
+            {
+                  "name": "Gereja Sion",
+                  "text": "A Gereja Sion egy történelmi templom, amely portugál templomként is ismert Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.817838,
+                        -6.138162
+                  ]
+            },
+            {
+                  "name": "Suaka Margasatwa Muara Angke",
+                  "text": "A Muara Angke vadvédelmi terület védelmet nyújt Jakarta növény- és állatvilágának.",
+                  "category": "natural",
+                  "coords": [
+                        106.759536,
+                        -6.10597
+                  ]
+            },
+            {
+                  "name": "Taman Waduk Pluit",
+                  "text": "A Taman Waduk Pluit egy városi park Jakartában, amely vízparti kikapcsolódást kínál.",
+                  "category": "park",
+                  "coords": [
+                        106.795076,
+                        -6.115069
+                  ]
+            },
+            {
+                  "name": "Museum Seni Rupa dan Keramik",
+                  "text": "A Képzőművészeti és Kerámiai Múzeum indonéz műalkotásokat mutat be Jakartában.",
+                  "category": "museum",
+                  "coords": [
+                        106.814473,
+                        -6.134249
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Santa Maria De Fatima",
+                  "text": "A fatimai Szent Mária katolikus templom egyedülálló, kínai stílusú építészettel rendelkezik Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.812114,
+                        -6.1438
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al-Anwar Angke",
+                  "text": "Az Angke mecset egy történelmi iszlám istentiszteleti hely, különleges építészettel Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.795957,
+                        -6.14334
+                  ]
+            },
+            {
+                  "name": "Museum BNI",
+                  "text": "A BNI Múzeum a Bank Negara Indonesia történetének szenteli magát Jakartában.",
+                  "category": "museum",
+                  "coords": [
+                        106.814945,
+                        -6.136437
+                  ]
+            },
+            {
+                  "name": "Masjid Wal Adhuna",
+                  "text": "A Masjid Wal Adhuna egy elárasztott mecset romja Jakartában.",
+                  "category": "historical",
+                  "coords": [
+                        106.806502,
+                        -6.111066
+                  ]
+            },
+            {
+                  "name": "Balai Kerajaan Saksi-saksi Yehuwa",
+                  "text": "Jehova Tanúinak Királyság-terme egy vallási gyülekezeti hely Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.797356,
+                        -6.153509
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Jemaat Allah",
+                  "text": "A Gereja Sidang Jemaat Allah egy keresztény istentiszteleti hely Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.788432,
+                        -6.121704
+                  ]
+            },
+            {
+                  "name": "Masjid Bahrul Ulum",
+                  "text": "A Masjid Bahrul Ulum egy helyi mecset Jakarta városában.",
+                  "category": "religious",
+                  "coords": [
+                        106.80217,
+                        -6.110829
+                  ]
+            },
+            {
+                  "name": "Rumah Abu Nirmala Dharma",
+                  "text": "A Rumah Abu Nirmala Dharma egy vallási hely Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.793138,
+                        -6.134432
+                  ]
+            },
+            {
+                  "name": "Gereja Kristen Indonesia Kanaan",
+                  "text": "A GKI Kánaán templom egy keresztény gyülekezeti hely Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.793749,
+                        -6.140508
+                  ]
+            },
+            {
+                  "name": "GKPI Maranatha",
+                  "text": "A GKPI Maranatha egy helyi templom Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.736046,
+                        -6.147015
+                  ]
+            },
+            {
+                  "name": "Mushola AL MUHAJIRIN",
+                  "text": "A Mushola Al Muhajirin egy kis mecset imádkozásra Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.811667,
+                        -6.145323
+                  ]
+            },
+            {
+                  "name": "Gereja GPPS Pokok Anggur yang benar jelambar",
+                  "text": "Ez a templom egy keresztény istentiszteleti hely Jakartában.",
+                  "category": "religious",
+                  "coords": [
+                        106.788408,
+                        -6.151712
+                  ]
+            },
+            {
+                  "name": "Pasar Jembatan Besi",
+                  "text": "A Pasar Jembatan Besi egy helyi piac Jakartában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.797168,
+                        -6.150391
+                  ]
+            },
+            {
+                  "name": "NEOadMediaPromo",
+                  "text": "A NEOadMediaPromo egy kereskedelmi piac Jakartában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.745711,
+                        -6.148387
+                  ]
+            },
+            {
+                  "name": "Hype Market",
+                  "text": "A Hype Market egy piac Jakartában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.737773,
+                        -6.109738
+                  ]
+            },
+            {
+                  "name": "Pasar Jembatan Merah",
+                  "text": "A Pasar Jembatan Merah egy forgalmas piac Jakartában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.825673,
+                        -6.148837
+                  ]
+            },
+            {
+                  "name": "Pasar Tanah Merah",
+                  "text": "A Pasar Tanah Merah egy helyi árupiac Jakartában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.794173,
+                        -6.129905
+                  ]
+            },
+            {
+                  "name": "Pasar HWI- Lindeteves Pusat Sarana Teknik- Elektronika",
+                  "text": "Ez a piac a technika és az elektronika központja Jakartában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.815784,
+                        -6.144292
+                  ]
+            },
+            {
+                  "name": "Petak Enam",
+                  "text": "A Petak Enam egy jól ismert piactér Jakartában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.812483,
+                        -6.141271
+                  ]
+            },
+            {
+                  "name": "Pasar Bersih",
+                  "text": "A Pasar Bersih egy tiszta és szervezett piac Jakartában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.739228,
+                        -6.137934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wayang Museum",
+                  "text": "Muzeul Wayang din orașul vechi al Jakartei este dedicat teatrului tradițional de păpuși javanez.",
+                  "category": "museum",
+                  "coords": [
+                        106.812509,
+                        -6.134814
+                  ]
+            },
+            {
+                  "name": "Museum Bahari",
+                  "text": "Muzeul Maritim din Jakarta este găzduit în fostele depozite istorice ale Companiei Olandeze a Indiilor de Est.",
+                  "category": "museum",
+                  "coords": [
+                        106.808318,
+                        -6.126829
+                  ]
+            },
+            {
+                  "name": "Batavia Castle Barracks Remnants",
+                  "text": "Ruinele cazărmii castelului Batavia amintesc de fortăreața colonială din Jakarta.",
+                  "category": "castle",
+                  "coords": [
+                        106.813071,
+                        -6.128988
+                  ]
+            },
+            {
+                  "name": "Museum Bank Indonesia",
+                  "text": "Muzeul Bank Indonesia prezintă istoria sistemului bancar indonezian în Jakarta.",
+                  "category": "museum",
+                  "coords": [
+                        106.812779,
+                        -6.137167
+                  ]
+            },
+            {
+                  "name": "Museum Bank Mandiri",
+                  "text": "Muzeul Bank Mandiri din Jakarta este dedicat istoriei economice și bancare.",
+                  "category": "museum",
+                  "coords": [
+                        106.813205,
+                        -6.138112
+                  ]
+            },
+            {
+                  "name": "Masjid Keramat Luar Batang",
+                  "text": "Moscheea Luar Batang este un lăcaș de cult islamic istoric din Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.806486,
+                        -6.123797
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Anshor",
+                  "text": "Moscheea Al-Anshor este una dintre cele mai vechi moschei din orașul vechi din Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.806906,
+                        -6.139014
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al Mansur",
+                  "text": "Moscheea Jami Al Mansur este un centru religios bine cunoscut în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.806376,
+                        -6.146281
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Annawier",
+                  "text": "Moscheea An-Nawier este o moschee istorică importantă în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.804536,
+                        -6.141469
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Kampung Baru",
+                  "text": "Moscheea Jami Kampung Baru Inpak este un lăcaș de cult islamic din Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.802802,
+                        -6.136612
+                  ]
+            },
+            {
+                  "name": "Gereja Sion",
+                  "text": "Gereja Sion este o biserică istorică, cunoscută și sub numele de Biserica Portugheză din Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.817838,
+                        -6.138162
+                  ]
+            },
+            {
+                  "name": "Suaka Margasatwa Muara Angke",
+                  "text": "Rezervația naturală Muara Angke oferă protecție pentru flora și fauna din Jakarta.",
+                  "category": "natural",
+                  "coords": [
+                        106.759536,
+                        -6.10597
+                  ]
+            },
+            {
+                  "name": "Taman Waduk Pluit",
+                  "text": "Taman Waduk Pluit este un parc urban din Jakarta care oferă recreere pe malul apei.",
+                  "category": "park",
+                  "coords": [
+                        106.795076,
+                        -6.115069
+                  ]
+            },
+            {
+                  "name": "Museum Seni Rupa dan Keramik",
+                  "text": "Muzeul de Arte Frumoase și Ceramică prezintă opere de artă indoneziene în Jakarta.",
+                  "category": "museum",
+                  "coords": [
+                        106.814473,
+                        -6.134249
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Santa Maria De Fatima",
+                  "text": "Biserica Catolică Sf. Maria din Fatima are o arhitectură unică în stil chinezesc în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.812114,
+                        -6.1438
+                  ]
+            },
+            {
+                  "name": "Masjid Jami Al-Anwar Angke",
+                  "text": "Moscheea Angke este un lăcaș de cult islamic istoric cu o arhitectură specială în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.795957,
+                        -6.14334
+                  ]
+            },
+            {
+                  "name": "Museum BNI",
+                  "text": "Muzeul BNI este dedicat istoriei Bank Negara Indonesia din Jakarta.",
+                  "category": "museum",
+                  "coords": [
+                        106.814945,
+                        -6.136437
+                  ]
+            },
+            {
+                  "name": "Masjid Wal Adhuna",
+                  "text": "Masjid Wal Adhuna sunt ruinele unei moschei inundate din Jakarta.",
+                  "category": "historical",
+                  "coords": [
+                        106.806502,
+                        -6.111066
+                  ]
+            },
+            {
+                  "name": "Balai Kerajaan Saksi-saksi Yehuwa",
+                  "text": "Sala Regatului a Martorilor lui Iehova este un loc de adunare religioasă în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.797356,
+                        -6.153509
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Jemaat Allah",
+                  "text": "Gereja Sidang Jemaat Allah este un lăcaș de cult creștin în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.788432,
+                        -6.121704
+                  ]
+            },
+            {
+                  "name": "Masjid Bahrul Ulum",
+                  "text": "Masjid Bahrul Ulum este o moschee locală în zona urbană a Jakartei.",
+                  "category": "religious",
+                  "coords": [
+                        106.80217,
+                        -6.110829
+                  ]
+            },
+            {
+                  "name": "Rumah Abu Nirmala Dharma",
+                  "text": "Rumah Abu Nirmala Dharma este un sit religios în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.793138,
+                        -6.134432
+                  ]
+            },
+            {
+                  "name": "Gereja Kristen Indonesia Kanaan",
+                  "text": "Biserica Canaan a GKI este un loc de adunare creștină în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.793749,
+                        -6.140508
+                  ]
+            },
+            {
+                  "name": "GKPI Maranatha",
+                  "text": "GKPI Maranatha este o biserică locală din Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.736046,
+                        -6.147015
+                  ]
+            },
+            {
+                  "name": "Mushola AL MUHAJIRIN",
+                  "text": "Mushola Al Muhajirin este o mică moschee pentru rugăciune în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.811667,
+                        -6.145323
+                  ]
+            },
+            {
+                  "name": "Gereja GPPS Pokok Anggur yang benar jelambar",
+                  "text": "Această biserică este un lăcaș de cult creștin în Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.788408,
+                        -6.151712
+                  ]
+            },
+            {
+                  "name": "Pasar Jembatan Besi",
+                  "text": "Pasar Jembatan Besi este o piață locală în Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.797168,
+                        -6.150391
+                  ]
+            },
+            {
+                  "name": "NEOadMediaPromo",
+                  "text": "NEOadMediaPromo este o piață comercială în Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.745711,
+                        -6.148387
+                  ]
+            },
+            {
+                  "name": "Hype Market",
+                  "text": "Hype Market este o piață în Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.737773,
+                        -6.109738
+                  ]
+            },
+            {
+                  "name": "Pasar Jembatan Merah",
+                  "text": "Pasar Jembatan Merah este o piață aglomerată din Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.825673,
+                        -6.148837
+                  ]
+            },
+            {
+                  "name": "Pasar Tanah Merah",
+                  "text": "Pasar Tanah Merah este o piață locală de mărfuri din Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.794173,
+                        -6.129905
+                  ]
+            },
+            {
+                  "name": "Pasar HWI- Lindeteves Pusat Sarana Teknik- Elektronika",
+                  "text": "Această piață este un centru de tehnologie și electronică în Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.815784,
+                        -6.144292
+                  ]
+            },
+            {
+                  "name": "Petak Enam",
+                  "text": "Petak Enam este o zonă de piață bine cunoscută în Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.812483,
+                        -6.141271
+                  ]
+            },
+            {
+                  "name": "Pasar Bersih",
+                  "text": "Pasar Bersih este o piață curată și organizată din Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.739228,
+                        -6.137934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wayang Museum",
+                  "text": "The Wayang Museum in Jakarta's old town is dedicated to traditional Javanese puppetry.",
+                  "category": "museum",
+                  "coords": [
+                        106.812509,
+                        -6.134814
+                  ]
+            },
+            {
+                  "name": "Maritime Museum",
+                  "text": "The Maritime Museum of Jakarta is housed in the historic former Dutch East India Company warehouses.",
+                  "category": "museum",
+                  "coords": [
+                        106.808318,
+                        -6.126829
+                  ]
+            },
+            {
+                  "name": "Batavia Castle Barracks Remnants",
+                  "text": "The ruins of the Batavia Castle barracks are a remnant of the colonial fortress in Jakarta.",
+                  "category": "castle",
+                  "coords": [
+                        106.813071,
+                        -6.128988
+                  ]
+            },
+            {
+                  "name": "Bank Indonesia Museum",
+                  "text": "The Bank Indonesia Museum exhibits the history of the Indonesian banking system in Jakarta.",
+                  "category": "museum",
+                  "coords": [
+                        106.812779,
+                        -6.137167
+                  ]
+            },
+            {
+                  "name": "Bank Mandiri Museum",
+                  "text": "The Bank Mandiri Museum in Jakarta is dedicated to economic and banking history.",
+                  "category": "museum",
+                  "coords": [
+                        106.813205,
+                        -6.138112
+                  ]
+            },
+            {
+                  "name": "Luar Batang Mosque",
+                  "text": "The Luar Batang Mosque is a historic Islamic place of worship in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.806486,
+                        -6.123797
+                  ]
+            },
+            {
+                  "name": "Al-Anshor Mosque",
+                  "text": "The Al-Anshor Mosque is one of the oldest mosques in the old town of Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.806906,
+                        -6.139014
+                  ]
+            },
+            {
+                  "name": "Jami Al Mansur Mosque",
+                  "text": "The Jami Al Mansur Mosque is a well-known religious center in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.806376,
+                        -6.146281
+                  ]
+            },
+            {
+                  "name": "An-Nawier Mosque",
+                  "text": "The An-Nawier Mosque is a significant historic mosque in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.804536,
+                        -6.141469
+                  ]
+            },
+            {
+                  "name": "Jami Kampung Baru Inpak Mosque",
+                  "text": "The Jami Kampung Baru Inpak Mosque is an Islamic place of worship in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.802802,
+                        -6.136612
+                  ]
+            },
+            {
+                  "name": "Gereja Sion",
+                  "text": "Gereja Sion is a historic church, also known as the Portuguese Church in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.817838,
+                        -6.138162
+                  ]
+            },
+            {
+                  "name": "Muara Angke Wildlife Refuge",
+                  "text": "The Muara Angke Wildlife Refuge provides protection for flora and fauna in Jakarta.",
+                  "category": "natural",
+                  "coords": [
+                        106.759536,
+                        -6.10597
+                  ]
+            },
+            {
+                  "name": "Taman Waduk Pluit",
+                  "text": "Taman Waduk Pluit is an urban park in Jakarta that offers waterfront recreation.",
+                  "category": "park",
+                  "coords": [
+                        106.795076,
+                        -6.115069
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Art and Ceramics",
+                  "text": "The Museum of Fine Art and Ceramics showcases Indonesian artworks in Jakarta.",
+                  "category": "museum",
+                  "coords": [
+                        106.814473,
+                        -6.134249
+                  ]
+            },
+            {
+                  "name": "St Mary of Fatima Catholic Church",
+                  "text": "St Mary of Fatima Catholic Church features unique Chinese-style architecture in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.812114,
+                        -6.1438
+                  ]
+            },
+            {
+                  "name": "Angke Mosque",
+                  "text": "The Angke Mosque is a historic Islamic place of worship with special architecture in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.795957,
+                        -6.14334
+                  ]
+            },
+            {
+                  "name": "Museum BNI",
+                  "text": "The Museum BNI is dedicated to the history of the Bank Negara Indonesia in Jakarta.",
+                  "category": "museum",
+                  "coords": [
+                        106.814945,
+                        -6.136437
+                  ]
+            },
+            {
+                  "name": "Masjid Wal Adhuna",
+                  "text": "Masjid Wal Adhuna are the ruins of a flooded mosque in Jakarta.",
+                  "category": "historical",
+                  "coords": [
+                        106.806502,
+                        -6.111066
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "The Kingdom Hall of Jehovah's Witnesses is a religious assembly place in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.797356,
+                        -6.153509
+                  ]
+            },
+            {
+                  "name": "Gereja Sidang Jemaat Allah",
+                  "text": "Gereja Sidang Jemaat Allah is a Christian place of worship in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.788432,
+                        -6.121704
+                  ]
+            },
+            {
+                  "name": "Masjid Bahrul Ulum",
+                  "text": "Masjid Bahrul Ulum is a local mosque in the urban area of Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.80217,
+                        -6.110829
+                  ]
+            },
+            {
+                  "name": "Rumah Abu Nirmala Dharma",
+                  "text": "Rumah Abu Nirmala Dharma is a religious site in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.793138,
+                        -6.134432
+                  ]
+            },
+            {
+                  "name": "Gereja Kristen Indonesia Kanaan",
+                  "text": "The GKI Canaan Church is a Christian gathering place in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.793749,
+                        -6.140508
+                  ]
+            },
+            {
+                  "name": "GKPI Maranatha",
+                  "text": "GKPI Maranatha is a local church in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.736046,
+                        -6.147015
+                  ]
+            },
+            {
+                  "name": "Mushola AL MUHAJIRIN",
+                  "text": "Mushola Al Muhajirin is a small mosque for prayers in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.811667,
+                        -6.145323
+                  ]
+            },
+            {
+                  "name": "Gereja GPPS Pokok Anggur yang benar jelambar",
+                  "text": "This church is a Christian place of worship in Jakarta.",
+                  "category": "religious",
+                  "coords": [
+                        106.788408,
+                        -6.151712
+                  ]
+            },
+            {
+                  "name": "Pasar Jembatan Besi",
+                  "text": "Pasar Jembatan Besi is a local marketplace in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.797168,
+                        -6.150391
+                  ]
+            },
+            {
+                  "name": "NEOadMediaPromo",
+                  "text": "NEOadMediaPromo is a commercial marketplace in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.745711,
+                        -6.148387
+                  ]
+            },
+            {
+                  "name": "Hype Market",
+                  "text": "The Hype Market is a marketplace in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.737773,
+                        -6.109738
+                  ]
+            },
+            {
+                  "name": "Pasar Jembatan Merah",
+                  "text": "Pasar Jembatan Merah is a busy market in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.825673,
+                        -6.148837
+                  ]
+            },
+            {
+                  "name": "Pasar Tanah Merah",
+                  "text": "Pasar Tanah Merah is a local market for goods in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.794173,
+                        -6.129905
+                  ]
+            },
+            {
+                  "name": "Pasar HWI- Lindeteves Pusat Sarana Teknik- Elektronika",
+                  "text": "This market is a center for technology and electronics in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.815784,
+                        -6.144292
+                  ]
+            },
+            {
+                  "name": "Petak Enam",
+                  "text": "Petak Enam is a well-known market area in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.812483,
+                        -6.141271
+                  ]
+            },
+            {
+                  "name": "Pasar Bersih",
+                  "text": "Pasar Bersih is a clean and organized marketplace in Jakarta.",
+                  "category": "cultural",
+                  "coords": [
+                        106.739228,
+                        -6.137934
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "ID-JK",
     coords: [106.8133, -6.1352],
@@ -903,7 +20550,1384 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
     },
   },
   {
-    id: "monas-national-monument-history-v2",
+    id: "monas-national-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Kebangkitan Nasional",
+                  "text": "Das Museum der nationalen Wiedergeburt ist ein historisches Museum in Jakarta, das sich der Geschichte der indonesischen Unabhängigkeitsbewegung widmet.",
+                  "category": "museum",
+                  "coords": [
+                        106.838038,
+                        -6.17875
+                  ]
+            },
+            {
+                  "name": "Museum Sumpah Pemuda",
+                  "text": "Das Youth Pledge Museum in Jakarta erinnert an den historischen Jugendtreueschwur von 1928, einen Meilenstein der indonesischen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        106.843042,
+                        -6.183839
+                  ]
+            },
+            {
+                  "name": "Museum Taman Prasasti",
+                  "text": "Das Museum Taman Prasasti in Jakarta ist ein Freilichtmuseum für Inschriften und Grabsteine auf einem ehemaligen Friedhof aus der Kolonialzeit.",
+                  "category": "museum",
+                  "coords": [
+                        106.819543,
+                        -6.172371
+                  ]
+            },
+            {
+                  "name": "Tugu Tani",
+                  "text": "Das Denkmal Tugu Tani in Jakarta wurde als Ehrung für die Helden und Kämpfer der indonesischen Unabhängigkeit errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        106.834824,
+                        -6.18272
+                  ]
+            },
+            {
+                  "name": "Galeri Nasional",
+                  "text": "Die indonesische Nationalgalerie in Jakarta beherbergt eine umfangreiche Sammlung moderner und zeitgenössischer Kunst des Landes.",
+                  "category": "cultural",
+                  "coords": [
+                        106.832926,
+                        -6.178394
+                  ]
+            },
+            {
+                  "name": "Jakarta Aquarium",
+                  "text": "Das Jakarta Aquarium bietet einen faszinierenden Einblick in die Unterwasserwelt und die aquatische Artenvielfalt innerhalb der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        106.789996,
+                        -6.175025
+                  ]
+            },
+            {
+                  "name": "Harmoni Statue",
+                  "text": "Die Harmoni-Statue ist ein markantes Denkmal im Stadtbild von Jakarta, das an die Geschichte der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        106.821087,
+                        -6.167452
+                  ]
+            },
+            {
+                  "name": "Museum Nasional",
+                  "text": "Das Nationalmuseum in der Stadt bietet umfangreiche Ausstellungen zur Geschichte, Kunst und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        106.821687,
+                        -6.176119
+                  ]
+            },
+            {
+                  "name": "Istana Merdeka",
+                  "text": "Der Istana Merdeka ist ein bedeutender Palast und ein wichtiges Wahrzeichen in dieser Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        106.824196,
+                        -6.170167
+                  ]
+            },
+            {
+                  "name": "CAN'S Gallery",
+                  "text": "Die CAN'S Gallery ist eine lokale Kunstgalerie, in der verschiedene künstlerische Werke ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        106.817178,
+                        -6.175849
+                  ]
+            },
+            {
+                  "name": "Galeri Kepresidenan",
+                  "text": "Die Galeri Kepresidenan präsentiert den Besuchern der Stadt interessante Sammlungen von Kunst und Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        106.826658,
+                        -6.18111
+                  ]
+            },
+            {
+                  "name": "Gedung Joang 45",
+                  "text": "Das Museum Gedung Joang 45 bewahrt wertvolle historische Artefakte und Dokumente aus der Stadtgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        106.836654,
+                        -6.186236
+                  ]
+            },
+            {
+                  "name": "Galeri Annex",
+                  "text": "Die Galeri Annex ist eine Ausstellungshalle in der Stadt, die der Präsentation von visuellen Künsten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        106.839734,
+                        -6.188625
+                  ]
+            },
+            {
+                  "name": "Andi's Gallery",
+                  "text": "Andi's Gallery bereichert die lokale Kulturszene der Stadt mit ihren regelmäßigen Kunstausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        106.817702,
+                        -6.177447
+                  ]
+            },
+            {
+                  "name": "Reformasi",
+                  "text": "Das Reformasi-Denkmal ist ein städtisches Monument, das an wichtige historische Veränderungen erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        106.789292,
+                        -6.167527
+                  ]
+            },
+            {
+                  "name": "Patung Kuda Arjuna Wijaya",
+                  "text": "Das Denkmal Patung Kuda Arjuna Wijaya ist eine beeindruckende Skulptur und ein bekanntes Wahrzeichen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        106.822812,
+                        -6.180037
+                  ]
+            },
+            {
+                  "name": "Tugu Jam MH Thamrin",
+                  "text": "Das MH Thamrin Monument ehrt eine bedeutende Persönlichkeit und ist ein zentraler Gedenkort in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        106.823025,
+                        -6.183314
+                  ]
+            },
+            {
+                  "name": "Sahabat Darat",
+                  "text": "Sahabat Darat ist eine lokale religiöse Einrichtung für spirituelle Praktiken in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        106.860625,
+                        -6.190802
+                  ]
+            },
+            {
+                  "name": "Pasar Cideng Thomas",
+                  "text": "Der Pasar Cideng Thomas ist ein lebhafter Marktplatz, auf dem Einheimische der Stadt einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        106.813373,
+                        -6.179838
+                  ]
+            },
+            {
+                  "name": "Pasar Genjing",
+                  "text": "Auf dem Pasar Genjing können Besucher das authentische Markttreiben dieser Stadt erleben.",
+                  "category": "cultural",
+                  "coords": [
+                        106.86009,
+                        -6.194418
+                  ]
+            },
+            {
+                  "name": "Pasar Kampung Duri",
+                  "text": "Dieser städtische Markt ist ein wichtiger Ort für den Handel mit frischen Lebensmitteln und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        106.804588,
+                        -6.161538
+                  ]
+            },
+            {
+                  "name": "Pasar Petojo",
+                  "text": "Der Pasar Petojo ist ein traditioneller Markt, der einen Einblick in den Alltag der Stadtbewohner bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        106.812068,
+                        -6.162878
+                  ]
+            },
+            {
+                  "name": "Pasar Kwitang",
+                  "text": "Der Markt Pasar Kwitang ist bei Einheimischen beliebt für seine große Auswahl an lokalen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        106.841436,
+                        -6.184871
+                  ]
+            },
+            {
+                  "name": "Pasar Paseban Area Pusat",
+                  "text": "Dieser zentral gelegene Marktplatz ist ein lebendiges Handelszentrum innerhalb der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.849484,
+                        -6.191557
+                  ]
+            },
+            {
+                  "name": "Ikatan Restoran dan Taman Indonesia (IRTI)",
+                  "text": "Dieser belebte Marktplatzbereich in der Stadt ist ein Treffpunkt für Gastronomie und lokale Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        106.824789,
+                        -6.179744
+                  ]
+            },
+            {
+                  "name": "Pasar Jaya Gondangdia",
+                  "text": "Der Pasar Jaya Gondangdia ist ein klassischer Markt, der das urbane Leben der Stadt bereichert.",
+                  "category": "cultural",
+                  "coords": [
+                        106.832074,
+                        -6.186554
+                  ]
+            },
+            {
+                  "name": "Panser M-8",
+                  "text": "Der Panser M-8 ist ein ausgestelltes historisches Fahrzeug und eine bemerkenswerte Sehenswürdigkeit der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.83958,
+                        -6.180246
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Al A’raf",
+                  "text": "Masjid Agung Al A’raf ist eine bedeutende muslimische Kultstätte im Gebiet des Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.840495,
+                        -6.180225
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel Indonesia",
+                  "text": "Die Gereja Bethel Indonesia ist eine christliche Kirche nahe dem Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.815221,
+                        -6.170567
+                  ]
+            },
+            {
+                  "name": "Pura Agung Wira Satya Bhuana",
+                  "text": "Pura Agung Wira Satya Bhuana ist ein hinduistischer Tempel in der Umgebung des Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.815671,
+                        -6.173164
+                  ]
+            },
+            {
+                  "name": "Masjid AI-Mu'minn",
+                  "text": "Die Masjid AI-Mu'minn ist eine Moschee in der Gegend des Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.792227,
+                        -6.168244
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "Masjid Ar-Rahmah ist ein muslimischer Gebetsort in der Nähe des Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.817327,
+                        -6.180723
+                  ]
+            },
+            {
+                  "name": "Masjid Al Fataa",
+                  "text": "Masjid Al Fataa ist eine lokale Moschee am Rande des Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.833334,
+                        -6.1858
+                  ]
+            },
+            {
+                  "name": "Yayasan Masjid Nurul Islam Pramuka",
+                  "text": "Yayasan Masjid Nurul Islam Pramuka dient als muslimische Gebetsstätte beim Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.862167,
+                        -6.193327
+                  ]
+            },
+            {
+                  "name": "Masjid Al Barkah",
+                  "text": "Die Masjid Al Barkah ist eine Moschee für die muslimische Gemeinschaft am Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.864637,
+                        -6.193893
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "Masjid At-Taqwa ist eine islamische Kultstätte am Rande des Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.868835,
+                        -6.194997
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muslimun",
+                  "text": "Die Masjid Al Muslimun ist eine weitere Moschee im Bezirk des Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.86739,
+                        -6.194366
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Annur",
+                  "text": "Masjid Jami' Annur ist ein bedeutender muslimischer Treffpunkt am Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.86142,
+                        -6.19183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Kebangkitan Nasional",
+                  "text": "A Nemzeti Ébredés Múzeuma egy történelmi múzeum Jakartában, amely az indonéz függetlenségi mozgalom történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        106.838038,
+                        -6.17875
+                  ]
+            },
+            {
+                  "name": "Museum Sumpah Pemuda",
+                  "text": "A jakartai Ifjúsági Eskü Múzeum az 1928-as történelmi ifjúsági eskünek állít emléket, amely az indonéz történelem mérföldköve volt.",
+                  "category": "museum",
+                  "coords": [
+                        106.843042,
+                        -6.183839
+                  ]
+            },
+            {
+                  "name": "Museum Taman Prasasti",
+                  "text": "A jakartai Taman Prasasti Múzeum egy szabadtéri sírkő- és feliratmúzeum egy egykori gyarmati temető területén.",
+                  "category": "museum",
+                  "coords": [
+                        106.819543,
+                        -6.172371
+                  ]
+            },
+            {
+                  "name": "Tugu Tani",
+                  "text": "A jakartai Tugu Tani emlékmű az indonéz függetlenség hőseinek és harcosainak tiszteletére épült.",
+                  "category": "historical",
+                  "coords": [
+                        106.834824,
+                        -6.18272
+                  ]
+            },
+            {
+                  "name": "Galeri Nasional",
+                  "text": "Az indonéz Nemzeti Galéria Jakartában az ország modern és kortárs művészetének kiterjedt gyűjteményének ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        106.832926,
+                        -6.178394
+                  ]
+            },
+            {
+                  "name": "Jakarta Aquarium",
+                  "text": "A Jakarta Akvárium lenyűgöző bepillantást nyújt a víz alatti világba és a vízi biodiverzitásba a városon belül.",
+                  "category": "recreational",
+                  "coords": [
+                        106.789996,
+                        -6.175025
+                  ]
+            },
+            {
+                  "name": "Harmoni Statue",
+                  "text": "A Harmoni-szobor egy feltűnő emlékmű Jakarta városképében, amely a régió történelmére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        106.821087,
+                        -6.167452
+                  ]
+            },
+            {
+                  "name": "Museum Nasional",
+                  "text": "A városban található Nemzeti Múzeum átfogó kiállításokat kínál a régió történelméről, művészetéről és kultúrájáról.",
+                  "category": "museum",
+                  "coords": [
+                        106.821687,
+                        -6.176119
+                  ]
+            },
+            {
+                  "name": "Istana Merdeka",
+                  "text": "Az Istana Merdeka egy jelentős palota és fontos nevezetesség ebben a városban.",
+                  "category": "castle",
+                  "coords": [
+                        106.824196,
+                        -6.170167
+                  ]
+            },
+            {
+                  "name": "CAN'S Gallery",
+                  "text": "A CAN'S Gallery egy helyi művészeti galéria, ahol különféle alkotásokat állítanak ki.",
+                  "category": "museum",
+                  "coords": [
+                        106.817178,
+                        -6.175849
+                  ]
+            },
+            {
+                  "name": "Galeri Kepresidenan",
+                  "text": "A Galeri Kepresidenan érdekes művészeti és történelmi gyűjteményeket mutat be a város látogatóinak.",
+                  "category": "museum",
+                  "coords": [
+                        106.826658,
+                        -6.18111
+                  ]
+            },
+            {
+                  "name": "Gedung Joang 45",
+                  "text": "A Gedung Joang 45 Múzeum értékes történelmi tárgyakat és dokumentumokat őriz a város múltjából.",
+                  "category": "museum",
+                  "coords": [
+                        106.836654,
+                        -6.186236
+                  ]
+            },
+            {
+                  "name": "Galeri Annex",
+                  "text": "A Galeri Annex egy kiállítótér a városban, amely a vizuális művészetek bemutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        106.839734,
+                        -6.188625
+                  ]
+            },
+            {
+                  "name": "Andi's Gallery",
+                  "text": "Az Andi's Gallery rendszeres művészeti kiállításaival gazdagítja a város helyi kulturális életét.",
+                  "category": "museum",
+                  "coords": [
+                        106.817702,
+                        -6.177447
+                  ]
+            },
+            {
+                  "name": "Reformasi",
+                  "text": "A Reformasi emlékmű egy városi monumentum, amely fontos történelmi változásokra hívja fel a figyelmet.",
+                  "category": "historical",
+                  "coords": [
+                        106.789292,
+                        -6.167527
+                  ]
+            },
+            {
+                  "name": "Patung Kuda Arjuna Wijaya",
+                  "text": "A Patung Kuda Arjuna Wijaya emlékmű egy lenyűgöző szobor és a város egyik ismert nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        106.822812,
+                        -6.180037
+                  ]
+            },
+            {
+                  "name": "Tugu Jam MH Thamrin",
+                  "text": "Az MH Thamrin emlékmű egy jelentős személyiség előtt tiszteleg, és a város központi emlékhelye.",
+                  "category": "historical",
+                  "coords": [
+                        106.823025,
+                        -6.183314
+                  ]
+            },
+            {
+                  "name": "Sahabat Darat",
+                  "text": "A Sahabat Darat egy helyi vallási intézmény a városban a spirituális gyakorlatok számára.",
+                  "category": "religious",
+                  "coords": [
+                        106.860625,
+                        -6.190802
+                  ]
+            },
+            {
+                  "name": "Pasar Cideng Thomas",
+                  "text": "A Pasar Cideng Thomas egy nyüzsgő piac, ahol a város helyi lakosai vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.813373,
+                        -6.179838
+                  ]
+            },
+            {
+                  "name": "Pasar Genjing",
+                  "text": "A Pasar Genjing piacon a látogatók megtapasztalhatják a város autentikus piaci forgatagát.",
+                  "category": "cultural",
+                  "coords": [
+                        106.86009,
+                        -6.194418
+                  ]
+            },
+            {
+                  "name": "Pasar Kampung Duri",
+                  "text": "Ez a városi piac fontos helyszíne a friss élelmiszerek és áruk kereskedelmének.",
+                  "category": "cultural",
+                  "coords": [
+                        106.804588,
+                        -6.161538
+                  ]
+            },
+            {
+                  "name": "Pasar Petojo",
+                  "text": "A Pasar Petojo egy hagyományos piac, amely bepillantást enged a városlakók mindennapjaiba.",
+                  "category": "cultural",
+                  "coords": [
+                        106.812068,
+                        -6.162878
+                  ]
+            },
+            {
+                  "name": "Pasar Kwitang",
+                  "text": "A Pasar Kwitang piac nagy népszerűségnek örvend a helyiek körében a helyi termékek széles választéka miatt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.841436,
+                        -6.184871
+                  ]
+            },
+            {
+                  "name": "Pasar Paseban Area Pusat",
+                  "text": "Ez a központi fekvésű piac a város egy nyüzsgő kereskedelmi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        106.849484,
+                        -6.191557
+                  ]
+            },
+            {
+                  "name": "Ikatan Restoran dan Taman Indonesia (IRTI)",
+                  "text": "Ez a forgalmas piaci terület a városban a gasztronómia és a helyi kultúra találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        106.824789,
+                        -6.179744
+                  ]
+            },
+            {
+                  "name": "Pasar Jaya Gondangdia",
+                  "text": "A Pasar Jaya Gondangdia egy klasszikus piac, amely a városi életet gazdagítja.",
+                  "category": "cultural",
+                  "coords": [
+                        106.832074,
+                        -6.186554
+                  ]
+            },
+            {
+                  "name": "Panser M-8",
+                  "text": "A Panser M-8 egy kiállított történelmi jármű és a város egyik figyelemre méltó látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        106.83958,
+                        -6.180246
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Al A’raf",
+                  "text": "A Masjid Agung Al A’raf egy muszlim imahely a Monas Nemzeti Emlékmű területén.",
+                  "category": "landmark",
+                  "coords": [
+                        106.840495,
+                        -6.180225
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel Indonesia",
+                  "text": "A Gereja Bethel Indonesia egy keresztény templom a Monas Nemzeti Emlékmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        106.815221,
+                        -6.170567
+                  ]
+            },
+            {
+                  "name": "Pura Agung Wira Satya Bhuana",
+                  "text": "A Pura Agung Wira Satya Bhuana egy hindu templom a Monas Nemzeti Emlékmű környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        106.815671,
+                        -6.173164
+                  ]
+            },
+            {
+                  "name": "Masjid AI-Mu'minn",
+                  "text": "A Masjid AI-Mu'minn egy mecset a Monas Nemzeti Emlékmű környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        106.792227,
+                        -6.168244
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "A Masjid Ar-Rahmah egy muszlim imaház a Monas Nemzeti Emlékmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        106.817327,
+                        -6.180723
+                  ]
+            },
+            {
+                  "name": "Masjid Al Fataa",
+                  "text": "A Masjid Al Fataa egy helyi mecset a Monas Nemzeti Emlékmű mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        106.833334,
+                        -6.1858
+                  ]
+            },
+            {
+                  "name": "Yayasan Masjid Nurul Islam Pramuka",
+                  "text": "A Yayasan Masjid Nurul Islam Pramuka muszlim imahelyként szolgál a Monas Nemzeti Emlékműnél.",
+                  "category": "landmark",
+                  "coords": [
+                        106.862167,
+                        -6.193327
+                  ]
+            },
+            {
+                  "name": "Masjid Al Barkah",
+                  "text": "A Masjid Al Barkah egy mecset a helyi muszlim közösség számára a Monas Nemzeti Emlékműnél.",
+                  "category": "landmark",
+                  "coords": [
+                        106.864637,
+                        -6.193893
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "A Masjid At-Taqwa egy iszlám imahely a Monas Nemzeti Emlékmű szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        106.868835,
+                        -6.194997
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muslimun",
+                  "text": "A Masjid Al Muslimun egy további mecset a Monas Nemzeti Emlékmű kerületében.",
+                  "category": "landmark",
+                  "coords": [
+                        106.86739,
+                        -6.194366
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Annur",
+                  "text": "A Masjid Jami' Annur egy jelentős muszlim találkozóhely a Monas Nemzeti Emlékműnél.",
+                  "category": "landmark",
+                  "coords": [
+                        106.86142,
+                        -6.19183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Kebangkitan Nasional",
+                  "text": "Muzeul Trezirii Naționale este un muzeu istoric din Jakarta dedicat istoriei mișcării de independență a Indoneziei.",
+                  "category": "museum",
+                  "coords": [
+                        106.838038,
+                        -6.17875
+                  ]
+            },
+            {
+                  "name": "Museum Sumpah Pemuda",
+                  "text": "Muzeul Jurământului Tineretului din Jakarta comemorează istoricul jurământ de credință al tineretului din 1928, o piatră de hotar în istoria Indoneziei.",
+                  "category": "museum",
+                  "coords": [
+                        106.843042,
+                        -6.183839
+                  ]
+            },
+            {
+                  "name": "Museum Taman Prasasti",
+                  "text": "Muzeul Taman Prasasti din Jakarta este un muzeu în aer liber de inscripții și pietre funerare pe locul unui fost cimitir din epoca colonială.",
+                  "category": "museum",
+                  "coords": [
+                        106.819543,
+                        -6.172371
+                  ]
+            },
+            {
+                  "name": "Tugu Tani",
+                  "text": "Monumentul Tugu Tani din Jakarta a fost ridicat în onoarea eroilor și luptătorilor pentru independența Indoneziei.",
+                  "category": "historical",
+                  "coords": [
+                        106.834824,
+                        -6.18272
+                  ]
+            },
+            {
+                  "name": "Galeri Nasional",
+                  "text": "Galeria Națională a Indoneziei din Jakarta găzduiește o colecție vastă de artă modernă și contemporană a țării.",
+                  "category": "cultural",
+                  "coords": [
+                        106.832926,
+                        -6.178394
+                  ]
+            },
+            {
+                  "name": "Jakarta Aquarium",
+                  "text": "Acvariul din Jakarta oferă o privire fascinantă asupra lumii subacvatice și a biodiversității acvatice chiar în oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        106.789996,
+                        -6.175025
+                  ]
+            },
+            {
+                  "name": "Harmoni Statue",
+                  "text": "Statuia Harmoni este un monument impresionant din peisajul urban al Jakartei, amintind de istoria regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        106.821087,
+                        -6.167452
+                  ]
+            },
+            {
+                  "name": "Museum Nasional",
+                  "text": "Muzeul Național din oraș oferă expoziții ample despre istoria, arta și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        106.821687,
+                        -6.176119
+                  ]
+            },
+            {
+                  "name": "Istana Merdeka",
+                  "text": "Istana Merdeka este un palat semnificativ și un punct de reper important în acest oraș.",
+                  "category": "castle",
+                  "coords": [
+                        106.824196,
+                        -6.170167
+                  ]
+            },
+            {
+                  "name": "CAN'S Gallery",
+                  "text": "CAN'S Gallery este o galerie de artă locală care expune diverse opere artistice.",
+                  "category": "museum",
+                  "coords": [
+                        106.817178,
+                        -6.175849
+                  ]
+            },
+            {
+                  "name": "Galeri Kepresidenan",
+                  "text": "Galeri Kepresidenan prezintă vizitatorilor orașului colecții interesante de artă și istorie.",
+                  "category": "museum",
+                  "coords": [
+                        106.826658,
+                        -6.18111
+                  ]
+            },
+            {
+                  "name": "Gedung Joang 45",
+                  "text": "Muzeul Gedung Joang 45 păstrează artefacte și documente istorice valoroase din istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        106.836654,
+                        -6.186236
+                  ]
+            },
+            {
+                  "name": "Galeri Annex",
+                  "text": "Galeri Annex este o sală de expoziții din oraș dedicată prezentării artelor vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        106.839734,
+                        -6.188625
+                  ]
+            },
+            {
+                  "name": "Andi's Gallery",
+                  "text": "Andi's Gallery îmbogățește scena culturală locală a orașului cu expozițiile sale regulate de artă.",
+                  "category": "museum",
+                  "coords": [
+                        106.817702,
+                        -6.177447
+                  ]
+            },
+            {
+                  "name": "Reformasi",
+                  "text": "Monumentul Reformasi este un reper urban care amintește de schimbări istorice importante.",
+                  "category": "historical",
+                  "coords": [
+                        106.789292,
+                        -6.167527
+                  ]
+            },
+            {
+                  "name": "Patung Kuda Arjuna Wijaya",
+                  "text": "Monumentul Patung Kuda Arjuna Wijaya este o sculptură impresionantă și un reper binecunoscut al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        106.822812,
+                        -6.180037
+                  ]
+            },
+            {
+                  "name": "Tugu Jam MH Thamrin",
+                  "text": "Monumentul MH Thamrin onorează o personalitate semnificativă și este un loc central de comemorare din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        106.823025,
+                        -6.183314
+                  ]
+            },
+            {
+                  "name": "Sahabat Darat",
+                  "text": "Sahabat Darat este o instituție religioasă locală pentru practici spirituale din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        106.860625,
+                        -6.190802
+                  ]
+            },
+            {
+                  "name": "Pasar Cideng Thomas",
+                  "text": "Pasar Cideng Thomas este o piață animată unde își fac cumpărăturile localnicii din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        106.813373,
+                        -6.179838
+                  ]
+            },
+            {
+                  "name": "Pasar Genjing",
+                  "text": "La Pasar Genjing, vizitatorii pot experimenta agitația autentică a pieței din acest oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        106.86009,
+                        -6.194418
+                  ]
+            },
+            {
+                  "name": "Pasar Kampung Duri",
+                  "text": "Această piață urbană este un loc important pentru comerțul cu alimente proaspete și bunuri.",
+                  "category": "cultural",
+                  "coords": [
+                        106.804588,
+                        -6.161538
+                  ]
+            },
+            {
+                  "name": "Pasar Petojo",
+                  "text": "Pasar Petojo este o piață tradițională care oferă o perspectivă asupra vieții de zi cu zi a locuitorilor orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        106.812068,
+                        -6.162878
+                  ]
+            },
+            {
+                  "name": "Pasar Kwitang",
+                  "text": "Piața Pasar Kwitang este populară printre localnici pentru selecția sa largă de produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.841436,
+                        -6.184871
+                  ]
+            },
+            {
+                  "name": "Pasar Paseban Area Pusat",
+                  "text": "Această piață situată central este un hub comercial plin de viață din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        106.849484,
+                        -6.191557
+                  ]
+            },
+            {
+                  "name": "Ikatan Restoran dan Taman Indonesia (IRTI)",
+                  "text": "Această zonă animată de piață din oraș este un loc de întâlnire pentru gastronomie și cultura locală.",
+                  "category": "cultural",
+                  "coords": [
+                        106.824789,
+                        -6.179744
+                  ]
+            },
+            {
+                  "name": "Pasar Jaya Gondangdia",
+                  "text": "Pasar Jaya Gondangdia este o piață clasică care îmbogățește viața urbană a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        106.832074,
+                        -6.186554
+                  ]
+            },
+            {
+                  "name": "Panser M-8",
+                  "text": "Panser M-8 este un vehicul istoric expus și o atracție remarcabilă a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        106.83958,
+                        -6.180246
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Al A’raf",
+                  "text": "Masjid Agung Al A’raf este un loc de cult musulman în zona Monumentului Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.840495,
+                        -6.180225
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel Indonesia",
+                  "text": "Gereja Bethel Indonesia este o biserică creștină situată lângă Monumentul Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.815221,
+                        -6.170567
+                  ]
+            },
+            {
+                  "name": "Pura Agung Wira Satya Bhuana",
+                  "text": "Pura Agung Wira Satya Bhuana este un templu hindus în apropierea Monumentului Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.815671,
+                        -6.173164
+                  ]
+            },
+            {
+                  "name": "Masjid AI-Mu'minn",
+                  "text": "Masjid AI-Mu'minn este o moschee situată în zona Monumentului Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.792227,
+                        -6.168244
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "Masjid Ar-Rahmah este un lăcaș de cult musulman lângă Monumentul Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.817327,
+                        -6.180723
+                  ]
+            },
+            {
+                  "name": "Masjid Al Fataa",
+                  "text": "Masjid Al Fataa este o moschee locală la marginea Monumentului Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.833334,
+                        -6.1858
+                  ]
+            },
+            {
+                  "name": "Yayasan Masjid Nurul Islam Pramuka",
+                  "text": "Yayasan Masjid Nurul Islam Pramuka servește drept lăcaș de cult musulman la Monumentul Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.862167,
+                        -6.193327
+                  ]
+            },
+            {
+                  "name": "Masjid Al Barkah",
+                  "text": "Masjid Al Barkah este o moschee pentru comunitatea musulmană lângă Monumentul Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.864637,
+                        -6.193893
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "Masjid At-Taqwa este un lăcaș de cult islamic la marginea Monumentului Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.868835,
+                        -6.194997
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muslimun",
+                  "text": "Masjid Al Muslimun este o altă moschee în districtul Monumentului Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.86739,
+                        -6.194366
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Annur",
+                  "text": "Masjid Jami' Annur este un important loc de întâlnire musulman la Monumentul Național Monas.",
+                  "category": "landmark",
+                  "coords": [
+                        106.86142,
+                        -6.19183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Awakening Museum",
+                  "text": "The National Awakening Museum is a historical museum in Jakarta dedicated to the history of the Indonesian independence movement.",
+                  "category": "museum",
+                  "coords": [
+                        106.838038,
+                        -6.17875
+                  ]
+            },
+            {
+                  "name": "Youth Pledge Museum",
+                  "text": "The Youth Pledge Museum in Jakarta commemorates the historic 1928 youth pledge of allegiance, a milestone in Indonesian history.",
+                  "category": "museum",
+                  "coords": [
+                        106.843042,
+                        -6.183839
+                  ]
+            },
+            {
+                  "name": "Museum Taman Prasasti",
+                  "text": "The Taman Prasasti Museum in Jakarta is an open-air museum of inscriptions and gravestones located on a former colonial-era cemetery.",
+                  "category": "museum",
+                  "coords": [
+                        106.819543,
+                        -6.172371
+                  ]
+            },
+            {
+                  "name": "Tugu Tani",
+                  "text": "The Tugu Tani monument in Jakarta was built in honor of the heroes and fighters for Indonesian independence.",
+                  "category": "historical",
+                  "coords": [
+                        106.834824,
+                        -6.18272
+                  ]
+            },
+            {
+                  "name": "Galeri Nasional",
+                  "text": "The National Gallery of Indonesia in Jakarta houses an extensive collection of modern and contemporary art from the country.",
+                  "category": "cultural",
+                  "coords": [
+                        106.832926,
+                        -6.178394
+                  ]
+            },
+            {
+                  "name": "Jakarta Aquarium",
+                  "text": "The Jakarta Aquarium offers a fascinating look into the underwater world and aquatic biodiversity within the city.",
+                  "category": "recreational",
+                  "coords": [
+                        106.789996,
+                        -6.175025
+                  ]
+            },
+            {
+                  "name": "Harmoni Statue",
+                  "text": "The Harmoni Statue is a striking monument in the Jakarta cityscape that commemorates the region's history.",
+                  "category": "historical",
+                  "coords": [
+                        106.821087,
+                        -6.167452
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "The National Museum in the city offers extensive exhibitions on the history, art, and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        106.821687,
+                        -6.176119
+                  ]
+            },
+            {
+                  "name": "Istana Merdeka",
+                  "text": "Istana Merdeka is a significant palace and an important landmark in this city.",
+                  "category": "castle",
+                  "coords": [
+                        106.824196,
+                        -6.170167
+                  ]
+            },
+            {
+                  "name": "CAN'S Gallery",
+                  "text": "CAN'S Gallery is a local art gallery exhibiting various artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        106.817178,
+                        -6.175849
+                  ]
+            },
+            {
+                  "name": "Galeri Kepresidenan",
+                  "text": "Galeri Kepresidenan presents interesting collections of art and history to visitors to the city.",
+                  "category": "museum",
+                  "coords": [
+                        106.826658,
+                        -6.18111
+                  ]
+            },
+            {
+                  "name": "Gedung Joang 45",
+                  "text": "The Gedung Joang 45 Museum preserves valuable historical artifacts and documents from the city's history.",
+                  "category": "museum",
+                  "coords": [
+                        106.836654,
+                        -6.186236
+                  ]
+            },
+            {
+                  "name": "Galeri Annex",
+                  "text": "Galeri Annex is an exhibition space in the city dedicated to presenting visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        106.839734,
+                        -6.188625
+                  ]
+            },
+            {
+                  "name": "Andi's Gallery",
+                  "text": "Andi's Gallery enriches the local cultural scene of the city with its regular art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        106.817702,
+                        -6.177447
+                  ]
+            },
+            {
+                  "name": "Reformasi",
+                  "text": "The Reformasi monument is a city landmark commemorating important historical changes.",
+                  "category": "historical",
+                  "coords": [
+                        106.789292,
+                        -6.167527
+                  ]
+            },
+            {
+                  "name": "Patung Kuda Arjuna Wijaya",
+                  "text": "The Patung Kuda Arjuna Wijaya monument is an impressive sculpture and a well-known landmark in the city.",
+                  "category": "historical",
+                  "coords": [
+                        106.822812,
+                        -6.180037
+                  ]
+            },
+            {
+                  "name": "MH Thamrin Monument",
+                  "text": "The MH Thamrin Monument honors a significant figure and is a central memorial site in the city.",
+                  "category": "historical",
+                  "coords": [
+                        106.823025,
+                        -6.183314
+                  ]
+            },
+            {
+                  "name": "Sahabat Darat",
+                  "text": "Sahabat Darat is a local religious facility for spiritual practices in the city.",
+                  "category": "religious",
+                  "coords": [
+                        106.860625,
+                        -6.190802
+                  ]
+            },
+            {
+                  "name": "Pasar Cideng Thomas",
+                  "text": "Pasar Cideng Thomas is a bustling marketplace where local residents of the city shop.",
+                  "category": "cultural",
+                  "coords": [
+                        106.813373,
+                        -6.179838
+                  ]
+            },
+            {
+                  "name": "Pasar Genjing",
+                  "text": "At Pasar Genjing, visitors can experience the authentic market bustle of this city.",
+                  "category": "cultural",
+                  "coords": [
+                        106.86009,
+                        -6.194418
+                  ]
+            },
+            {
+                  "name": "Pasar Kampung Duri",
+                  "text": "This city market is an important place for trading fresh foods and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        106.804588,
+                        -6.161538
+                  ]
+            },
+            {
+                  "name": "Pasar Petojo",
+                  "text": "Pasar Petojo is a traditional market that offers a glimpse into the everyday life of the city's residents.",
+                  "category": "cultural",
+                  "coords": [
+                        106.812068,
+                        -6.162878
+                  ]
+            },
+            {
+                  "name": "Pasar Kwitang",
+                  "text": "The Pasar Kwitang market is popular with locals for its wide selection of local products.",
+                  "category": "cultural",
+                  "coords": [
+                        106.841436,
+                        -6.184871
+                  ]
+            },
+            {
+                  "name": "Pasar Paseban Area Pusat",
+                  "text": "This centrally located marketplace is a bustling commercial hub within the city.",
+                  "category": "cultural",
+                  "coords": [
+                        106.849484,
+                        -6.191557
+                  ]
+            },
+            {
+                  "name": "Ikatan Restoran dan Taman Indonesia (IRTI)",
+                  "text": "This busy marketplace area in the city is a meeting point for gastronomy and local culture.",
+                  "category": "cultural",
+                  "coords": [
+                        106.824789,
+                        -6.179744
+                  ]
+            },
+            {
+                  "name": "Pasar Jaya Gondangdia",
+                  "text": "Pasar Jaya Gondangdia is a classic market that enriches the urban life of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        106.832074,
+                        -6.186554
+                  ]
+            },
+            {
+                  "name": "Panser M-8",
+                  "text": "The Panser M-8 is an exhibited historical vehicle and a notable attraction of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        106.83958,
+                        -6.180246
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Al A’raf",
+                  "text": "Masjid Agung Al A’raf is a Muslim place of worship in the Monas National Monument area.",
+                  "category": "landmark",
+                  "coords": [
+                        106.840495,
+                        -6.180225
+                  ]
+            },
+            {
+                  "name": "Gereja Bethel Indonesia",
+                  "text": "Gereja Bethel Indonesia is a Christian church near the Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.815221,
+                        -6.170567
+                  ]
+            },
+            {
+                  "name": "Pura Agung Wira Satya Bhuana",
+                  "text": "Pura Agung Wira Satya Bhuana is a Hindu temple located in the Monas National Monument area.",
+                  "category": "landmark",
+                  "coords": [
+                        106.815671,
+                        -6.173164
+                  ]
+            },
+            {
+                  "name": "Masjid AI-Mu'minn",
+                  "text": "Masjid AI-Mu'minn is a mosque located in the Monas National Monument area.",
+                  "category": "landmark",
+                  "coords": [
+                        106.792227,
+                        -6.168244
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "Masjid Ar-Rahmah is a Muslim place of worship near the Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.817327,
+                        -6.180723
+                  ]
+            },
+            {
+                  "name": "Masjid Al Fataa",
+                  "text": "Masjid Al Fataa is a local mosque on the edge of the Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.833334,
+                        -6.1858
+                  ]
+            },
+            {
+                  "name": "Yayasan Masjid Nurul Islam Pramuka",
+                  "text": "Yayasan Masjid Nurul Islam Pramuka serves as a Muslim prayer site by the Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.862167,
+                        -6.193327
+                  ]
+            },
+            {
+                  "name": "Masjid Al Barkah",
+                  "text": "Masjid Al Barkah is a mosque for the Muslim community at the Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.864637,
+                        -6.193893
+                  ]
+            },
+            {
+                  "name": "Masjid At-Taqwa",
+                  "text": "Masjid At-Taqwa is an Islamic place of worship near the edge of the Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.868835,
+                        -6.194997
+                  ]
+            },
+            {
+                  "name": "Masjid Al Muslimun",
+                  "text": "Masjid Al Muslimun is another mosque in the district of the Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.86739,
+                        -6.194366
+                  ]
+            },
+            {
+                  "name": "Masjid Jami' Annur",
+                  "text": "Masjid Jami' Annur is a significant Muslim gathering place by the Monas National Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        106.86142,
+                        -6.19183
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "ID-JK",
     coords: [106.8272, -6.1754],

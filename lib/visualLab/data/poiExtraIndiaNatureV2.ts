@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraIndiaNatureV2: POI[] = [
   {
-    id: "in-sundarbans-national-park-nature-v2",
+    id: "in-sundarbans-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sajnekhali WLS",
+                  "text": "Das Sajnekhali Wildlife Sanctuary ist ein wichtiges Naturschutzgebiet in den Sundarbans, das die Mangroven-Ökosysteme schützt und einen wichtigen Lebensraum für den Königstiger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        88.821399,
+                        22.008899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sajnekhali WLS",
+                  "text": "A Sajnekhali Vadvédelmi Terület egy létfontosságú természetvédelmi terület a Sundarbans területén, amely védi a mangrove ökoszisztémákat és kulcsfontosságú élőhelyet biztosít a bengáli tigris számára.",
+                  "category": "natural",
+                  "coords": [
+                        88.821399,
+                        22.008899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sajnekhali WLS",
+                  "text": "Sanctuarul faunei sălbatice Sajnekhali este o rezervație naturală vitală în Sundarbans, protejând ecosistemele de mangrove și oferind un habitat crucial pentru tigrul bengalez.",
+                  "category": "natural",
+                  "coords": [
+                        88.821399,
+                        22.008899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sajnekhali WLS",
+                  "text": "Sajnekhali Wildlife Sanctuary is a vital nature reserve within the Sundarbans, protecting mangrove ecosystems and providing a crucial habitat for the Royal Bengal Tiger.",
+                  "category": "natural",
+                  "coords": [
+                        88.821399,
+                        22.008899
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "IN-WB",
     coords: [88.85, 21.9497],
@@ -51,7 +96,196 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-nanda-devi-national-park-nature-v2",
+    id: "in-nanda-devi-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalanka",
+                  "text": "Ein beeindruckender 6931 Meter hoher Gipfel, der an der Nordwand des Nanda-Devi-Schutzgebiets liegt.",
+                  "category": "natural",
+                  "coords": [
+                        79.939272,
+                        30.503019
+                  ]
+            },
+            {
+                  "name": "Changabang",
+                  "text": "Dieser 6864 Meter hohe Berg ist unter Bergsteigern weltweit für seine extrem steilen Granitwände berühmt.",
+                  "category": "natural",
+                  "coords": [
+                        79.926671,
+                        30.500445
+                  ]
+            },
+            {
+                  "name": "Dunagiri",
+                  "text": "Ein markanter Gipfel von 7066 Metern Höhe, der das Rishi-Ganga-Tal im Nanda-Devi-Nationalpark überragt.",
+                  "category": "natural",
+                  "coords": [
+                        79.866259,
+                        30.515618
+                  ]
+            },
+            {
+                  "name": "Rishi Kot",
+                  "text": "Dieser 6236 Meter hohe Berg bietet einen dramatischen Blick über die tiefen Schluchten des Nanda-Devi-Schutzgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        79.891353,
+                        30.456079
+                  ]
+            },
+            {
+                  "name": "Nanda Devi National Park",
+                  "text": "Dieses UNESCO-Biosphärenreservat beherbergt eine vielfältige Flora und Fauna rund um Indiens zweithöchsten Berg.",
+                  "category": "natural",
+                  "coords": [
+                        79.859973,
+                        30.411122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalanka",
+                  "text": "Lenyűgöző, 6931 méter magas csúcs a Nanda Devi menedékhely északi falánál.",
+                  "category": "natural",
+                  "coords": [
+                        79.939272,
+                        30.503019
+                  ]
+            },
+            {
+                  "name": "Changabang",
+                  "text": "Ez a 6864 méter magas hegy világszerte híres a hegymászók körében rendkívül meredek gránitfalairól.",
+                  "category": "natural",
+                  "coords": [
+                        79.926671,
+                        30.500445
+                  ]
+            },
+            {
+                  "name": "Dunagiri",
+                  "text": "Jellegzetes, 7066 méter magas csúcs, amely a Nanda Devi Nemzeti Park Rishi Ganga völgye fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        79.866259,
+                        30.515618
+                  ]
+            },
+            {
+                  "name": "Rishi Kot",
+                  "text": "Erről a 6236 méter magas hegyről drámai kilátás nyílik a Nanda Devi menedékhely mély szurdokaira.",
+                  "category": "natural",
+                  "coords": [
+                        79.891353,
+                        30.456079
+                  ]
+            },
+            {
+                  "name": "Nanda Devi National Park",
+                  "text": "Ez az UNESCO bioszféra-rezervátum változatos növény- és állatvilágnak ad otthont India második legmagasabb hegye körül.",
+                  "category": "natural",
+                  "coords": [
+                        79.859973,
+                        30.411122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalanka",
+                  "text": "Un vârf impresionant de 6931 de metri situat pe peretele nordic al Sanctuarului Nanda Devi.",
+                  "category": "natural",
+                  "coords": [
+                        79.939272,
+                        30.503019
+                  ]
+            },
+            {
+                  "name": "Changabang",
+                  "text": "Acest munte de 6864 de metri este faimos în rândul alpiniștilor din întreaga lume pentru pereții săi de granit extrem de abrupți.",
+                  "category": "natural",
+                  "coords": [
+                        79.926671,
+                        30.500445
+                  ]
+            },
+            {
+                  "name": "Dunagiri",
+                  "text": "Un vârf proeminent de 7066 de metri care domină valea Rishi Ganga din Parcul Național Nanda Devi.",
+                  "category": "natural",
+                  "coords": [
+                        79.866259,
+                        30.515618
+                  ]
+            },
+            {
+                  "name": "Rishi Kot",
+                  "text": "Acest munte de 6236 de metri oferă o priveliște dramatică asupra defileelor adânci ale Sanctuarului Nanda Devi.",
+                  "category": "natural",
+                  "coords": [
+                        79.891353,
+                        30.456079
+                  ]
+            },
+            {
+                  "name": "Nanda Devi National Park",
+                  "text": "Această rezervație a biosferei UNESCO găzduiește o floră și o faună diversă în jurul celui de-al doilea cel mai înalt munte din India.",
+                  "category": "natural",
+                  "coords": [
+                        79.859973,
+                        30.411122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalanka",
+                  "text": "An impressive 6931-metre peak situated on the northern wall of the Nanda Devi Sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        79.939272,
+                        30.503019
+                  ]
+            },
+            {
+                  "name": "Changabang",
+                  "text": "This 6864-metre mountain is world-famous among climbers for its extremely steep granite walls.",
+                  "category": "natural",
+                  "coords": [
+                        79.926671,
+                        30.500445
+                  ]
+            },
+            {
+                  "name": "Dunagiri",
+                  "text": "A prominent 7066-metre peak overlooking the Rishi Ganga valley in the Nanda Devi National Park.",
+                  "category": "natural",
+                  "coords": [
+                        79.866259,
+                        30.515618
+                  ]
+            },
+            {
+                  "name": "Rishi Kot",
+                  "text": "This 6236-metre mountain offers a dramatic view over the deep gorges of the Nanda Devi Sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        79.891353,
+                        30.456079
+                  ]
+            },
+            {
+                  "name": "Nanda Devi National Park",
+                  "text": "This UNESCO Biosphere Reserve protects a diverse range of flora and fauna surrounding India's second-highest mountain.",
+                  "category": "natural",
+                  "coords": [
+                        79.859973,
+                        30.411122
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "IN-UT",
     coords: [79.8427, 30.4868],
@@ -99,7 +333,52 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-kanha-national-park-nature-v2",
+    id: "in-kanha-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kanha Museum",
+                  "text": "Ein Museum innerhalb des Nationalparks, das die lokale Flora, Fauna und die Kultur der Baiga-Stämme präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        80.619798,
+                        22.282626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kanha Museum",
+                  "text": "A nemzeti park területén található múzeum, amely a helyi növény- és állatvilágot, valamint a baiga törzsek kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        80.619798,
+                        22.282626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kanha Museum",
+                  "text": "Un muzeu situat în interiorul parcului național, care prezintă flora și fauna locală, precum și cultura triburilor Baiga.",
+                  "category": "museum",
+                  "coords": [
+                        80.619798,
+                        22.282626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kanha Museum",
+                  "text": "A museum within the national park showcasing local flora, fauna, and the culture of the Baiga tribes.",
+                  "category": "museum",
+                  "coords": [
+                        80.619798,
+                        22.282626
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "IN-MP",
     coords: [80.63, 22.33],
@@ -147,7 +426,304 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-periyar-national-park-nature-v2",
+    id: "in-periyar-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ponnambalamedu",
+                  "text": "Ein hoher Gipfel in den Westghats, bekannt für die heilige Makara-Jyothi-Lichtzeremonie.",
+                  "category": "natural",
+                  "coords": [
+                        77.119634,
+                        9.417845
+                  ]
+            },
+            {
+                  "name": "പെരിയാർ വന്യജീവി സങ്കേതം",
+                  "text": "Ein weitläufiges Naturschutzgebiet, in dem wilde Elefanten, Tiger und ein malerischer See beheimatet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        77.130488,
+                        9.480352
+                  ]
+            },
+            {
+                  "name": "Begur Wildlife Sanctuary",
+                  "text": "Ein üppiges Waldreservat, das für seine vielfältige Flora und die Sichtung wilder Tiere bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.143325,
+                        9.467912
+                  ]
+            },
+            {
+                  "name": "Sabarimala Ayyappa Swami Temple",
+                  "text": "Eine weltberühmte hinduistische Pilgerstätte auf einem Hügel, die Lord Ayyappa gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.081348,
+                        9.43459
+                  ]
+            },
+            {
+                  "name": "Mullaperiyar Dam",
+                  "text": "Eine Staumauer am Periyar-Fluss, die von dichten tropischen Wäldern umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.144173,
+                        9.528687
+                  ]
+            },
+            {
+                  "name": "Sharamkuthi",
+                  "text": "Ein heiliger Ort, an dem Pilger im Rahmen der Sabarimala-Tradition Holzpfeile hinterlassen.",
+                  "category": "landmark",
+                  "coords": [
+                        77.079075,
+                        9.430763
+                  ]
+            },
+            {
+                  "name": "Sree Subramanya Swami Temple",
+                  "text": "Ein hinduistischer Tempel in den Wäldern von Periyar, der dem Gott Subramanya gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.085927,
+                        9.51086
+                  ]
+            },
+            {
+                  "name": "Malikkappuram",
+                  "text": "Ein bedeutendes Heiligtum für Malikappurathamma, das integraler Bestandteil der Sabarimala-Pilgerreise ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.080546,
+                        9.435774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ponnambalamedu",
+                  "text": "A Nyugati-Ghátok egyik magas csúcsa, a szent Makara Jyothi fényceremónia helyszíne.",
+                  "category": "natural",
+                  "coords": [
+                        77.119634,
+                        9.417845
+                  ]
+            },
+            {
+                  "name": "പെരിയാർ വന്യജീവി സങ്കേതം",
+                  "text": "Kiterjedt természetvédelmi terület, amely vadon élő elefántoknak, tigriseknek és egy festői tónak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        77.130488,
+                        9.480352
+                  ]
+            },
+            {
+                  "name": "Begur Wildlife Sanctuary",
+                  "text": "Buja erdei rezervátum, amely változatos növényvilágáról és vadon élő állatairól nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        77.143325,
+                        9.467912
+                  ]
+            },
+            {
+                  "name": "Sabarimala Ayyappa Swami Temple",
+                  "text": "Világhírű hegyi hindu zarándokhely, amelyet Ayyappa istennek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        77.081348,
+                        9.43459
+                  ]
+            },
+            {
+                  "name": "Mullaperiyar Dam",
+                  "text": "A Periyar-folyón épült duzzasztógát, amelyet sűrű trópusi erdők vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        77.144173,
+                        9.528687
+                  ]
+            },
+            {
+                  "name": "Sharamkuthi",
+                  "text": "Szent hely, ahol a zarándokok a Sabarimala-hagyomány részeként fanyilakat hagynak hátra.",
+                  "category": "landmark",
+                  "coords": [
+                        77.079075,
+                        9.430763
+                  ]
+            },
+            {
+                  "name": "Sree Subramanya Swami Temple",
+                  "text": "A Periyar-erdőkben található hindu templom, amelyet Subramanya istennek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        77.085927,
+                        9.51086
+                  ]
+            },
+            {
+                  "name": "Malikkappuram",
+                  "text": "Malikappurathamma jelentős szentélye, amely a sabarimalai zarándoklat szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        77.080546,
+                        9.435774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ponnambalamedu",
+                  "text": "Un vârf înalt din Munții Ghats de Vest, cunoscut pentru ceremonia luminii sfinte Makara Jyothi.",
+                  "category": "natural",
+                  "coords": [
+                        77.119634,
+                        9.417845
+                  ]
+            },
+            {
+                  "name": "പെരിയാർ വന്യജീവി സങ്കേതം",
+                  "text": "O rezervație naturală vastă, adăpost pentru elefanți sălbatici, tigri și un lac pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        77.130488,
+                        9.480352
+                  ]
+            },
+            {
+                  "name": "Begur Wildlife Sanctuary",
+                  "text": "O rezervație forestieră luxuriantă, cunoscută pentru flora sa diversă și observarea animalelor sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        77.143325,
+                        9.467912
+                  ]
+            },
+            {
+                  "name": "Sabarimala Ayyappa Swami Temple",
+                  "text": "Un loc de pelerinaj hindu faimos în întreaga lume, situat pe un deal și dedicat zeului Ayyappa.",
+                  "category": "landmark",
+                  "coords": [
+                        77.081348,
+                        9.43459
+                  ]
+            },
+            {
+                  "name": "Mullaperiyar Dam",
+                  "text": "Un baraj de greutate din zidărie pe râul Periyar, înconjurat de păduri tropicale dense.",
+                  "category": "landmark",
+                  "coords": [
+                        77.144173,
+                        9.528687
+                  ]
+            },
+            {
+                  "name": "Sharamkuthi",
+                  "text": "O locație sacră unde pelerinii lasă săgeți de lemn ca parte a tradiției Sabarimala.",
+                  "category": "landmark",
+                  "coords": [
+                        77.079075,
+                        9.430763
+                  ]
+            },
+            {
+                  "name": "Sree Subramanya Swami Temple",
+                  "text": "Un templu hindu din pădurile Periyar, dedicat zeului Subramanya.",
+                  "category": "landmark",
+                  "coords": [
+                        77.085927,
+                        9.51086
+                  ]
+            },
+            {
+                  "name": "Malikkappuram",
+                  "text": "Un altar important dedicat lui Malikappurathamma, parte integrantă a pelerinajului Sabarimala.",
+                  "category": "landmark",
+                  "coords": [
+                        77.080546,
+                        9.435774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ponnambalamedu",
+                  "text": "A high peak in the Western Ghats known for the sacred Makara Jyothi light ceremony.",
+                  "category": "natural",
+                  "coords": [
+                        77.119634,
+                        9.417845
+                  ]
+            },
+            {
+                  "name": "Periyar Wildlife Sanctuary",
+                  "text": "A sprawling nature reserve home to wild elephants, tigers, and a scenic lake.",
+                  "category": "landmark",
+                  "coords": [
+                        77.130488,
+                        9.480352
+                  ]
+            },
+            {
+                  "name": "Begur Wildlife Sanctuary",
+                  "text": "A lush forest reserve known for its diverse flora and sightings of wild animals.",
+                  "category": "landmark",
+                  "coords": [
+                        77.143325,
+                        9.467912
+                  ]
+            },
+            {
+                  "name": "Sabarimala Ayyappa Swami Temple",
+                  "text": "A world-famous Hindu hilltop pilgrimage site dedicated to Lord Ayyappa.",
+                  "category": "landmark",
+                  "coords": [
+                        77.081348,
+                        9.43459
+                  ]
+            },
+            {
+                  "name": "Mullaperiyar Dam",
+                  "text": "A masonry gravity dam on the Periyar River surrounded by dense tropical forests.",
+                  "category": "landmark",
+                  "coords": [
+                        77.144173,
+                        9.528687
+                  ]
+            },
+            {
+                  "name": "Sharamkuthi",
+                  "text": "A sacred location where pilgrims leave wooden arrows as part of the Sabarimala tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        77.079075,
+                        9.430763
+                  ]
+            },
+            {
+                  "name": "Sree Subramanya Swami Temple",
+                  "text": "A Hindu temple nestled in the Periyar forests, dedicated to the deity Subramanya.",
+                  "category": "landmark",
+                  "coords": [
+                        77.085927,
+                        9.51086
+                  ]
+            },
+            {
+                  "name": "Malikkappuram",
+                  "text": "A significant shrine dedicated to Malikappurathamma, integral to the Sabarimala pilgrimage.",
+                  "category": "landmark",
+                  "coords": [
+                        77.080546,
+                        9.435774
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "IN-KL",
     coords: [77.16, 9.46],
@@ -195,7 +771,88 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-kaziranga-national-park-nature-v2",
+    id: "in-kaziranga-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haldhibari Burhimai Mandir",
+                  "text": "Ein Hindu-Schrein in der Nähe der wildreichen Weiten des Kaziranga-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        93.325762,
+                        26.585609
+                  ]
+            },
+            {
+                  "name": "Kohora Market",
+                  "text": "Ein zentraler Marktknotenpunkt nahe dem Eingang zum Kaziranga-Nationalpark.",
+                  "category": "cultural",
+                  "coords": [
+                        93.400562,
+                        26.589989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haldhibari Burhimai Mandir",
+                  "text": "Egy hindu szentély, amely a vadon élő állatokban gazdag Kaziranga Nemzeti Park közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        93.325762,
+                        26.585609
+                  ]
+            },
+            {
+                  "name": "Kohora Market",
+                  "text": "Egy központi piactér a Kaziranga Nemzeti Park bejárata közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        93.400562,
+                        26.589989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haldhibari Burhimai Mandir",
+                  "text": "Un altar hindus situat în apropierea bogatelor întinderi sălbatice ale Parcului Național Kaziranga.",
+                  "category": "landmark",
+                  "coords": [
+                        93.325762,
+                        26.585609
+                  ]
+            },
+            {
+                  "name": "Kohora Market",
+                  "text": "Un hub central al pieței aflat aproape de intrarea în Parcul Național Kaziranga.",
+                  "category": "cultural",
+                  "coords": [
+                        93.400562,
+                        26.589989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haldhibari Burhimai Mandir",
+                  "text": "A Hindu shrine located near the wildlife-rich expanse of Kaziranga National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        93.325762,
+                        26.585609
+                  ]
+            },
+            {
+                  "name": "Kohora Market",
+                  "text": "A central market hub close to the entrance of Kaziranga National Park.",
+                  "category": "cultural",
+                  "coords": [
+                        93.400562,
+                        26.589989
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "IN-AS",
     coords: [93.35, 26.66],
@@ -243,7 +900,1348 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-dal-lake-nature-v2",
+    id: "in-dal-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sangeen Darwaza",
+                  "text": "Ein kunstvolles Tor aus Kalkstein, das zum Fort Hari Parbat aus dem 16. Jahrhundert gehört.",
+                  "category": "fortress",
+                  "coords": [
+                        74.811832,
+                        34.10932
+                  ]
+            },
+            {
+                  "name": "Kathi Darwaza",
+                  "text": "Der zeremonielle Haupteingang zum Fort Hari Parbat, geschmückt mit persischen Inschriften.",
+                  "category": "fortress",
+                  "coords": [
+                        74.821487,
+                        34.103807
+                  ]
+            },
+            {
+                  "name": "Burzahom Archaelogical Site",
+                  "text": "Eine neolithische Ausgrabungsstätte am Dal-See, die antike unterirdische Wohngruben offenbart.",
+                  "category": "historical",
+                  "coords": [
+                        74.8671,
+                        34.170077
+                  ]
+            },
+            {
+                  "name": "Dargah Hazratbal",
+                  "text": "Ein Schrein aus weißem Marmor am Dal-See, in dem eine Reliquie des Propheten Mohammed aufbewahrt wird.",
+                  "category": "religious",
+                  "coords": [
+                        74.842524,
+                        34.128996
+                  ]
+            },
+            {
+                  "name": "Akhund Mullah Shah Mosque",
+                  "text": "Eine im 17. Jahrhundert erbaute Steinmoschee, die von Dara Shikoh für seinen spirituellen Mentor errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        74.817173,
+                        34.103503
+                  ]
+            },
+            {
+                  "name": "Nishat Bagh",
+                  "text": "Ein terrassierter Mogulgarten am Ostufer des Dal-Sees, berühmt für seine majestätischen Platanen.",
+                  "category": "landmark",
+                  "coords": [
+                        74.881595,
+                        34.125208
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Memorial Tulip Garden",
+                  "text": "Asiens größter Tulpengarten am Fuße des Zabarwan-Gebirges, der im Jahr 2007 eröffnet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880839,
+                        34.096276
+                  ]
+            },
+            {
+                  "name": "Naseem Bagh",
+                  "text": "Einer der ältesten Mogulgärten in Kaschmir, bekannt für seine Tausenden von Platanen und den Blick auf den Dal-See.",
+                  "category": "park",
+                  "coords": [
+                        74.838057,
+                        34.137819
+                  ]
+            },
+            {
+                  "name": "Cheshme Shahi",
+                  "text": "Ein königlicher Quellgarten mit einer natürlichen Süßwasserquelle und Terrassen im Mogulstil.",
+                  "category": "park",
+                  "coords": [
+                        74.88685,
+                        34.085795
+                  ]
+            },
+            {
+                  "name": "Oont Kadal",
+                  "text": "Eine bucklige Steinbrücke aus der Mogulzeit, die einst das Gebiet um Nishat Bagh verband.",
+                  "category": "historical",
+                  "coords": [
+                        74.871572,
+                        34.122651
+                  ]
+            },
+            {
+                  "name": "Shankaracharya Temple",
+                  "text": "Ein alter Hindu-Tempel auf einem Hügel, der dem Gott Shiva gewidmet ist und über Srinagar thront.",
+                  "category": "religious",
+                  "coords": [
+                        74.843604,
+                        34.078965
+                  ]
+            },
+            {
+                  "name": "Shalimar Bagh",
+                  "text": "Der größte der Mogulgärten in Srinagar, den Kaiser Jahangir für seine Frau Nur Jahan erbauen ließ.",
+                  "category": "landmark",
+                  "coords": [
+                        74.872922,
+                        34.149525
+                  ]
+            },
+            {
+                  "name": "Hari Parbat",
+                  "text": "Ein Hügel mit einer Festung aus dem 18. Jahrhundert, der Hindus, Muslimen und Sikhs gleichermaßen heilig ist.",
+                  "category": "natural",
+                  "coords": [
+                        74.81639,
+                        34.105964
+                  ]
+            },
+            {
+                  "name": "Village Art Gallery",
+                  "text": "Eine Galerie am Dal-See, die traditionelles kashmirisches Kunsthandwerk wie Pappmaché und Holzschnitzereien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        74.881154,
+                        34.117193
+                  ]
+            },
+            {
+                  "name": "Shaw Art Palace",
+                  "text": "Ein Geschäft in der Nähe des Dal-Sees, das auf hochwertige Pashmina- und Jamawar-Schals spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        74.876789,
+                        34.098438
+                  ]
+            },
+            {
+                  "name": "KCI Emporium",
+                  "text": "Ein staatliches Kaufhaus am Dal-See, das authentische kashmirische Teppiche und Seidenprodukte anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        74.876661,
+                        34.138107
+                  ]
+            },
+            {
+                  "name": "Fountain Chowk Rainawari",
+                  "text": "Ein markantes Denkmal an einer belebten Kreuzung in der Nähe des Dal-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        74.8229,
+                        34.097988
+                  ]
+            },
+            {
+                  "name": "Alamgir Paper Machie House",
+                  "text": "Ein Kunstzentrum, das dem traditionellen kaschmirischen Handwerk der filigranen Pappmaché-Malerei gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        74.807746,
+                        34.113156
+                  ]
+            },
+            {
+                  "name": "Cottage Arts Emporium",
+                  "text": "Ein Ausstellungsraum für regionales kaschmirisches Handwerk mit handgewebten Teppichen und traditionellen Textilien.",
+                  "category": "cultural",
+                  "coords": [
+                        74.842392,
+                        34.088157
+                  ]
+            },
+            {
+                  "name": "Badawari Event Stage",
+                  "text": "Eine Bühne für kulturelle Darbietungen, die für lokales Theater und traditionelle kaschmirische Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        74.823221,
+                        34.109965
+                  ]
+            },
+            {
+                  "name": "Ampitheatre",
+                  "text": "Ein Freilichttheater, das für öffentliche Aufführungen und kulturelle Zusammenkünfte konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        74.839073,
+                        34.123548
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad",
+                  "text": "Eine traditionelle Nachbarschaftsmoschee, die für die täglichen islamischen Gebete genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        74.879098,
+                        34.127237
+                  ]
+            },
+            {
+                  "name": "Astaan -E- Aaliya",
+                  "text": "Ein heiliger Sufi-Schrein und Gebetsort, der von lokalen Gläubigen besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        74.874879,
+                        34.097601
+                  ]
+            },
+            {
+                  "name": "Masjid Sharied Boulevard Road",
+                  "text": "Eine Moschee an der malerischen Boulevard Road mit Blick auf das Wasser des Dal-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        74.87719,
+                        34.099879
+                  ]
+            },
+            {
+                  "name": "Hanfia Masjid Zindshah Sahib (R.A) Rainawari",
+                  "text": "Eine Hanafi-Sunnitische Moschee in Rainawari, die dem spirituellen Erbe von Zindshah Sahib gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        74.822533,
+                        34.099703
+                  ]
+            },
+            {
+                  "name": "Masjid Hanfia Hawal",
+                  "text": "Eine lokale Hanafi-Moschee, die der muslimischen Gemeinde im Hawal-Viertel dient.",
+                  "category": "religious",
+                  "coords": [
+                        74.809489,
+                        34.110714
+                  ]
+            },
+            {
+                  "name": "Hanfia Masjid Iqbal",
+                  "text": "Eine Nachbarschaftsmoschee der Hanafi-Rechtsschule.",
+                  "category": "religious",
+                  "coords": [
+                        74.808276,
+                        34.166484
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief",
+                  "text": "Eine Gemeindemoschee mit traditioneller kaschmirischer Holzarchitektur und Gebetshallen.",
+                  "category": "religious",
+                  "coords": [
+                        74.807404,
+                        34.178228
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "Eine lokale Moschee, die für religiöse Versammlungen und Freitagspredigten genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        74.80707,
+                        34.185323
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Hassan Ul Bana colony 90 feet",
+                  "text": "Eine moderne Moschee, die den Bewohnern der 90-Feet-Road-Kolonie dient.",
+                  "category": "religious",
+                  "coords": [
+                        74.81026,
+                        34.157692
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Bibi Ashraf",
+                  "text": "Eine kleine Nachbarschaftsmoschee, die dem lokalen islamischen Gottesdienst gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        74.833692,
+                        34.146035
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Saidakadal",
+                  "text": "Ein Gebetsort in der Nähe der historischen Saidakadal-Brücke.",
+                  "category": "religious",
+                  "coords": [
+                        74.827603,
+                        34.104403
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Zakura Crossing",
+                  "text": "Eine Moschee am Straßenrand, die einen Ort für Gebete an der Zakura-Kreuzung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        74.84023,
+                        34.154512
+                  ]
+            },
+            {
+                  "name": "Masjid Ahlihadees",
+                  "text": "Eine Moschee der Ahlihadees-Glaubensrichtung, die sich durch ihren Fokus auf koranische Lehren auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        74.808131,
+                        34.16434
+                  ]
+            },
+            {
+                  "name": "Masjid Umar (R.A)",
+                  "text": "Eine lokale Moschee, benannt zu Ehren des zweiten Kalifen des Islam, Umar ibn al-Khattab.",
+                  "category": "religious",
+                  "coords": [
+                        74.842106,
+                        34.1578
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Batpora",
+                  "text": "Ein Gebetsort, der der lokalen muslimischen Gemeinde im Batpora-Viertel dient.",
+                  "category": "religious",
+                  "coords": [
+                        74.846672,
+                        34.160412
+                  ]
+            },
+            {
+                  "name": "Professor Masijd",
+                  "text": "Eine Moschee im akademischen Viertel, die von Studenten und Lehrkräften zum Gebet besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        74.843533,
+                        34.126768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sangeen Darwaza",
+                  "text": "Díszes mészkő kapu, amely a 16. századi Hari Parbat erőd része.",
+                  "category": "fortress",
+                  "coords": [
+                        74.811832,
+                        34.10932
+                  ]
+            },
+            {
+                  "name": "Kathi Darwaza",
+                  "text": "A Hari Parbat erőd díszes főbejárata, amelyet perzsa feliratok ékesítenek.",
+                  "category": "fortress",
+                  "coords": [
+                        74.821487,
+                        34.103807
+                  ]
+            },
+            {
+                  "name": "Burzahom Archaelogical Site",
+                  "text": "Neolitikus régészeti lelőhely a Dal-tó közelében, amely ősi föld alatti gödörlakásokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        74.8671,
+                        34.170077
+                  ]
+            },
+            {
+                  "name": "Dargah Hazratbal",
+                  "text": "Fehér márvány kegyhely a Dal-tó partján, ahol a hiedelem szerint Mohamed próféta egyik ereklyéjét őrzik.",
+                  "category": "religious",
+                  "coords": [
+                        74.842524,
+                        34.128996
+                  ]
+            },
+            {
+                  "name": "Akhund Mullah Shah Mosque",
+                  "text": "17. századi kőmecset, amelyet Dara Shikoh építtetett spirituális mentora számára.",
+                  "category": "religious",
+                  "coords": [
+                        74.817173,
+                        34.103503
+                  ]
+            },
+            {
+                  "name": "Nishat Bagh",
+                  "text": "Teraszos mogul kert a Dal-tó keleti partján, amely fenséges platánfáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        74.881595,
+                        34.125208
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Memorial Tulip Garden",
+                  "text": "Ázsia legnagyobb tulipánkertje a Zabarwan-hegység lábánál, amely 2007-ben nyílt meg.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880839,
+                        34.096276
+                  ]
+            },
+            {
+                  "name": "Naseem Bagh",
+                  "text": "Kasmír egyik legrégebbi mogul kertje, amely több ezer platánfájáról és a Dal-tóra nyíló kilátásáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        74.838057,
+                        34.137819
+                  ]
+            },
+            {
+                  "name": "Cheshme Shahi",
+                  "text": "Királyi forráskert természetes édesvízi forrással és mogul stílusú teraszokkal.",
+                  "category": "park",
+                  "coords": [
+                        74.88685,
+                        34.085795
+                  ]
+            },
+            {
+                  "name": "Oont Kadal",
+                  "text": "Mogul korabeli púpos kőhíd, amely egykor a Nishat Bagh környékét kötötte össze.",
+                  "category": "historical",
+                  "coords": [
+                        74.871572,
+                        34.122651
+                  ]
+            },
+            {
+                  "name": "Shankaracharya Temple",
+                  "text": "Siwa istennek szentelt ősi hindu templom egy dombtetőn, amely Srinagar városa fölé magasodik.",
+                  "category": "religious",
+                  "coords": [
+                        74.843604,
+                        34.078965
+                  ]
+            },
+            {
+                  "name": "Shalimar Bagh",
+                  "text": "Srinagar legnagyobb mogul kertje, amelyet Dzsahángír császár építtetett felesége, Núr Dzsahán számára.",
+                  "category": "landmark",
+                  "coords": [
+                        74.872922,
+                        34.149525
+                  ]
+            },
+            {
+                  "name": "Hari Parbat",
+                  "text": "Domb egy 18. századi erőddel a tetején, amely a hinduk, muszlimok és szikhek számára egyaránt szent hely.",
+                  "category": "natural",
+                  "coords": [
+                        74.81639,
+                        34.105964
+                  ]
+            },
+            {
+                  "name": "Village Art Gallery",
+                  "text": "Galéria a Dal-tónál, amely hagyományos kasmíri kézműves termékeket, például papírmasét és fafaragásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        74.881154,
+                        34.117193
+                  ]
+            },
+            {
+                  "name": "Shaw Art Palace",
+                  "text": "Kiváló minőségű pasmina és dzsamavar sálakra szakosodott üzlet a Dal-tó partján.",
+                  "category": "museum",
+                  "coords": [
+                        74.876789,
+                        34.098438
+                  ]
+            },
+            {
+                  "name": "KCI Emporium",
+                  "text": "Állami fenntartású szaküzlet a Dal-tónál, amely eredeti kasmíri szőnyegeket és selyemtermékeket kínál.",
+                  "category": "museum",
+                  "coords": [
+                        74.876661,
+                        34.138107
+                  ]
+            },
+            {
+                  "name": "Fountain Chowk Rainawari",
+                  "text": "Egy helyi jellegzetes emlékmű egy forgalmas útkereszteződésnél, a Dal-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        74.8229,
+                        34.097988
+                  ]
+            },
+            {
+                  "name": "Alamgir Paper Machie House",
+                  "text": "Egy művészeti központ, amely a hagyományos kasmíri finom papírmasé-festésnek szentelt.",
+                  "category": "cultural",
+                  "coords": [
+                        74.807746,
+                        34.113156
+                  ]
+            },
+            {
+                  "name": "Cottage Arts Emporium",
+                  "text": "Regionális kasmíri kézműves termékek bemutatóhelye, kézzel szőtt szőnyegekkel és hagyományos textíliákkal.",
+                  "category": "cultural",
+                  "coords": [
+                        74.842392,
+                        34.088157
+                  ]
+            },
+            {
+                  "name": "Badawari Event Stage",
+                  "text": "Kulturális előadói színpad, amelyet helyi színházi és hagyományos kasmíri eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        74.823221,
+                        34.109965
+                  ]
+            },
+            {
+                  "name": "Ampitheatre",
+                  "text": "Szabadtéri színház, amelyet nyilvános előadásokra és kulturális találkozókra terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        74.839073,
+                        34.123548
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad",
+                  "text": "Egy hagyományos környékbeli mecset, amelyet a napi iszlám imákhoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        74.879098,
+                        34.127237
+                  ]
+            },
+            {
+                  "name": "Astaan -E- Aaliya",
+                  "text": "Egy szent szúfi kegyhely és imahely, amelyet a helyi hívők látogatnak.",
+                  "category": "religious",
+                  "coords": [
+                        74.874879,
+                        34.097601
+                  ]
+            },
+            {
+                  "name": "Masjid Sharied Boulevard Road",
+                  "text": "Egy mecset a festői Boulevard Road mentén, amely a Dal-tóra néz.",
+                  "category": "religious",
+                  "coords": [
+                        74.87719,
+                        34.099879
+                  ]
+            },
+            {
+                  "name": "Hanfia Masjid Zindshah Sahib (R.A) Rainawari",
+                  "text": "Egy hanafita szunnita mecset Rainawariban, Zindshah Sahib spirituális örökségének szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        74.822533,
+                        34.099703
+                  ]
+            },
+            {
+                  "name": "Masjid Hanfia Hawal",
+                  "text": "Egy helyi hanafita mecset, amely a Hawal negyed muszlim közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        74.809489,
+                        34.110714
+                  ]
+            },
+            {
+                  "name": "Hanfia Masjid Iqbal",
+                  "text": "A hanafita jogi iskola egyik környékbeli mecsetje.",
+                  "category": "religious",
+                  "coords": [
+                        74.808276,
+                        34.166484
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief",
+                  "text": "Egy közösségi mecset hagyományos kasmíri faépítészettel és imatermekkel.",
+                  "category": "religious",
+                  "coords": [
+                        74.807404,
+                        34.178228
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "Egy helyi mecset, amelyet vallási összejövetelekre és pénteki prédikációkra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        74.80707,
+                        34.185323
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Hassan Ul Bana colony 90 feet",
+                  "text": "Egy modern mecset a 90 Feet Road lakótelep lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        74.81026,
+                        34.157692
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Bibi Ashraf",
+                  "text": "Egy kis környékbeli mecset, amelyet a helyi iszlám hitéletnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        74.833692,
+                        34.146035
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Saidakadal",
+                  "text": "Egy imahely a történelmi Saidakadal-híd közelében.",
+                  "category": "religious",
+                  "coords": [
+                        74.827603,
+                        34.104403
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Zakura Crossing",
+                  "text": "Egy út menti mecset, amely imahelyet biztosít a zakurai útkereszteződésnél.",
+                  "category": "religious",
+                  "coords": [
+                        74.84023,
+                        34.154512
+                  ]
+            },
+            {
+                  "name": "Masjid Ahlihadees",
+                  "text": "Az Ahlihadees felekezethez tartozó mecset, amelyet a Korán tanításaira való összpontosítás jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        74.808131,
+                        34.16434
+                  ]
+            },
+            {
+                  "name": "Masjid Umar (R.A)",
+                  "text": "Egy helyi mecset, amelyet az iszlám második kalifája, Omár ibn al-Hattáb tiszteletére neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        74.842106,
+                        34.1578
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Batpora",
+                  "text": "Egy imahely, amely a Batpora negyed helyi muszlim közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        74.846672,
+                        34.160412
+                  ]
+            },
+            {
+                  "name": "Professor Masijd",
+                  "text": "Az egyetemi negyedben található mecset, amelyet hallgatók és oktatók látogatnak imádkozásra.",
+                  "category": "religious",
+                  "coords": [
+                        74.843533,
+                        34.126768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sangeen Darwaza",
+                  "text": "O poartă ornamentală din calcar a fortului Hari Parbat din secolul al XVI-lea.",
+                  "category": "fortress",
+                  "coords": [
+                        74.811832,
+                        34.10932
+                  ]
+            },
+            {
+                  "name": "Kathi Darwaza",
+                  "text": "Intrarea ceremonială principală a fortului Hari Parbat, cu inscripții persane.",
+                  "category": "fortress",
+                  "coords": [
+                        74.821487,
+                        34.103807
+                  ]
+            },
+            {
+                  "name": "Burzahom Archaelogical Site",
+                  "text": "Un sit neolitic de lângă lacul Dal, care dezvăluie vechi locuințe subterane în formă de groapă.",
+                  "category": "historical",
+                  "coords": [
+                        74.8671,
+                        34.170077
+                  ]
+            },
+            {
+                  "name": "Dargah Hazratbal",
+                  "text": "Un sanctuar din marmură albă de pe malul lacului Dal, despre care se crede că adăpostește o relicvă a profetului Mohamed.",
+                  "category": "religious",
+                  "coords": [
+                        74.842524,
+                        34.128996
+                  ]
+            },
+            {
+                  "name": "Akhund Mullah Shah Mosque",
+                  "text": "O moschee din piatră din secolul al XVII-lea, construită de Dara Shikoh pentru mentorul său spiritual.",
+                  "category": "religious",
+                  "coords": [
+                        74.817173,
+                        34.103503
+                  ]
+            },
+            {
+                  "name": "Nishat Bagh",
+                  "text": "O grădină mogulă terasată pe malul estic al lacului Dal, faimoasă pentru platanii săi maiestuoși.",
+                  "category": "landmark",
+                  "coords": [
+                        74.881595,
+                        34.125208
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Memorial Tulip Garden",
+                  "text": "Cea mai mare grădină de lalele din Asia, deschisă în 2007 la poalele munților Zabarwan.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880839,
+                        34.096276
+                  ]
+            },
+            {
+                  "name": "Naseem Bagh",
+                  "text": "Una dintre cele mai vechi grădini mogule din Kashmir, cunoscută pentru miile de platani și vederea spre lacul Dal.",
+                  "category": "park",
+                  "coords": [
+                        74.838057,
+                        34.137819
+                  ]
+            },
+            {
+                  "name": "Cheshme Shahi",
+                  "text": "O grădină regală cu un izvor natural de apă dulce și terase în stil mogul.",
+                  "category": "park",
+                  "coords": [
+                        74.88685,
+                        34.085795
+                  ]
+            },
+            {
+                  "name": "Oont Kadal",
+                  "text": "Un pod de piatră în formă de cocoașă din epoca mogulă, care lega odinioară zona Nishat Bagh.",
+                  "category": "historical",
+                  "coords": [
+                        74.871572,
+                        34.122651
+                  ]
+            },
+            {
+                  "name": "Shankaracharya Temple",
+                  "text": "Un templu hindus antic dedicat lui Shiva, cocoțat pe un deal care domină orașul Srinagar.",
+                  "category": "religious",
+                  "coords": [
+                        74.843604,
+                        34.078965
+                  ]
+            },
+            {
+                  "name": "Shalimar Bagh",
+                  "text": "Cea mai mare dintre grădinile mogule din Srinagar, construită de împăratul Jahangir pentru soția sa Nur Jahan.",
+                  "category": "landmark",
+                  "coords": [
+                        74.872922,
+                        34.149525
+                  ]
+            },
+            {
+                  "name": "Hari Parbat",
+                  "text": "Un deal dominat de un fort din secolul al XVIII-lea, sacru pentru hinduși, musulmani și sikh deopotrivă.",
+                  "category": "natural",
+                  "coords": [
+                        74.81639,
+                        34.105964
+                  ]
+            },
+            {
+                  "name": "Village Art Gallery",
+                  "text": "O galerie de lângă lacul Dal care expune obiecte de artizanat tradiționale din Kashmir, inclusiv papier-mâché și sculpturi în lemn.",
+                  "category": "museum",
+                  "coords": [
+                        74.881154,
+                        34.117193
+                  ]
+            },
+            {
+                  "name": "Shaw Art Palace",
+                  "text": "Un magazin specializat în șaluri Pashmina și Jamawar de înaltă calitate, situat lângă malul lacului Dal.",
+                  "category": "museum",
+                  "coords": [
+                        74.876789,
+                        34.098438
+                  ]
+            },
+            {
+                  "name": "KCI Emporium",
+                  "text": "Un emporium administrat de stat care oferă covoare autentice din Kashmir și produse din mătase lângă lacul Dal.",
+                  "category": "museum",
+                  "coords": [
+                        74.876661,
+                        34.138107
+                  ]
+            },
+            {
+                  "name": "Fountain Chowk Rainawari",
+                  "text": "Un monument local situat într-o intersecție circulată, în apropierea zonei lacului Dal.",
+                  "category": "historical",
+                  "coords": [
+                        74.8229,
+                        34.097988
+                  ]
+            },
+            {
+                  "name": "Alamgir Paper Machie House",
+                  "text": "Un centru de artă dedicat meșteșugului tradițional kashmir de pictură pe machete de hârtie.",
+                  "category": "cultural",
+                  "coords": [
+                        74.807746,
+                        34.113156
+                  ]
+            },
+            {
+                  "name": "Cottage Arts Emporium",
+                  "text": "Un centru de prezentare a meșteșugurilor regionale din Kashmir, cu covoare țesute manual și textile tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        74.842392,
+                        34.088157
+                  ]
+            },
+            {
+                  "name": "Badawari Event Stage",
+                  "text": "O scenă pentru spectacole culturale, utilizată pentru teatru local și evenimente tradiționale kashmiri.",
+                  "category": "cultural",
+                  "coords": [
+                        74.823221,
+                        34.109965
+                  ]
+            },
+            {
+                  "name": "Ampitheatre",
+                  "text": "Un teatru în aer liber, conceput pentru spectacole publice și adunări culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        74.839073,
+                        34.123548
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad",
+                  "text": "O moschee tradițională de cartier, utilizată pentru rugăciunile islamice zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        74.879098,
+                        34.127237
+                  ]
+            },
+            {
+                  "name": "Astaan -E- Aaliya",
+                  "text": "Un altar sufit sacru și loc de cult, frecventat de credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        74.874879,
+                        34.097601
+                  ]
+            },
+            {
+                  "name": "Masjid Sharied Boulevard Road",
+                  "text": "O moschee situată de-a lungul pitoreștii Boulevard Road, cu vedere spre apele lacului Dal.",
+                  "category": "religious",
+                  "coords": [
+                        74.87719,
+                        34.099879
+                  ]
+            },
+            {
+                  "name": "Hanfia Masjid Zindshah Sahib (R.A) Rainawari",
+                  "text": "O moschee sunnită hanafită din Rainawari, dedicată moștenirii spirituale a lui Zindshah Sahib.",
+                  "category": "religious",
+                  "coords": [
+                        74.822533,
+                        34.099703
+                  ]
+            },
+            {
+                  "name": "Masjid Hanfia Hawal",
+                  "text": "O moschee hanafită locală care deservește comunitatea musulmană din districtul Hawal.",
+                  "category": "religious",
+                  "coords": [
+                        74.809489,
+                        34.110714
+                  ]
+            },
+            {
+                  "name": "Hanfia Masjid Iqbal",
+                  "text": "O moschee de cartier aparținând școlii de jurisprudență hanafită.",
+                  "category": "religious",
+                  "coords": [
+                        74.808276,
+                        34.166484
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief",
+                  "text": "O moschee comunitară cu arhitectură tradițională kashmir din lemn și săli de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        74.807404,
+                        34.178228
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "O moschee locală utilizată pentru adunări religioase și predici de vineri.",
+                  "category": "religious",
+                  "coords": [
+                        74.80707,
+                        34.185323
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Hassan Ul Bana colony 90 feet",
+                  "text": "O moschee modernă care deservește locuitorii coloniei 90 Feet Road.",
+                  "category": "religious",
+                  "coords": [
+                        74.81026,
+                        34.157692
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Bibi Ashraf",
+                  "text": "O mică moschee de cartier dedicată cultului islamic local.",
+                  "category": "religious",
+                  "coords": [
+                        74.833692,
+                        34.146035
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Saidakadal",
+                  "text": "Un loc de cult situat în apropierea podului istoric Saidakadal.",
+                  "category": "religious",
+                  "coords": [
+                        74.827603,
+                        34.104403
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Zakura Crossing",
+                  "text": "O moschee situată la marginea drumului, oferind un spațiu pentru rugăciune în intersecția Zakura.",
+                  "category": "religious",
+                  "coords": [
+                        74.84023,
+                        34.154512
+                  ]
+            },
+            {
+                  "name": "Masjid Ahlihadees",
+                  "text": "O moschee aparținând confesiunii Ahlihadees, caracterizată prin accentul pus pe învățăturile coranice.",
+                  "category": "religious",
+                  "coords": [
+                        74.808131,
+                        34.16434
+                  ]
+            },
+            {
+                  "name": "Masjid Umar (R.A)",
+                  "text": "O moschee locală numită în onoarea celui de-al doilea calif al Islamului, Umar ibn al-Khattab.",
+                  "category": "religious",
+                  "coords": [
+                        74.842106,
+                        34.1578
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Batpora",
+                  "text": "Un loc de cult care deservește comunitatea musulmană locală din zona Batpora.",
+                  "category": "religious",
+                  "coords": [
+                        74.846672,
+                        34.160412
+                  ]
+            },
+            {
+                  "name": "Professor Masijd",
+                  "text": "O moschee situată în zona academică, frecventată de studenți și profesori pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        74.843533,
+                        34.126768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sangeen Darwaza",
+                  "text": "An ornate limestone gateway of the 16th-century Hari Parbat fort.",
+                  "category": "fortress",
+                  "coords": [
+                        74.811832,
+                        34.10932
+                  ]
+            },
+            {
+                  "name": "Kathi Darwaza",
+                  "text": "The main ceremonial entrance to the Hari Parbat fort, featuring Persian inscriptions.",
+                  "category": "fortress",
+                  "coords": [
+                        74.821487,
+                        34.103807
+                  ]
+            },
+            {
+                  "name": "Burzahom Archaelogical Site",
+                  "text": "A Neolithic site near Dal Lake revealing ancient subterranean pit dwellings.",
+                  "category": "historical",
+                  "coords": [
+                        74.8671,
+                        34.170077
+                  ]
+            },
+            {
+                  "name": "Dargah Hazratbal",
+                  "text": "A white marble shrine on Dal Lake's shore, believed to house a relic of the Prophet Muhammad.",
+                  "category": "religious",
+                  "coords": [
+                        74.842524,
+                        34.128996
+                  ]
+            },
+            {
+                  "name": "Akhund Mullah Shah Mosque",
+                  "text": "A 17th-century stone mosque built by Dara Shikoh for his spiritual mentor.",
+                  "category": "religious",
+                  "coords": [
+                        74.817173,
+                        34.103503
+                  ]
+            },
+            {
+                  "name": "Nishat Bagh",
+                  "text": "A terraced Mughal garden on the eastern side of Dal Lake, famous for its majestic chinar trees.",
+                  "category": "landmark",
+                  "coords": [
+                        74.881595,
+                        34.125208
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Memorial Tulip Garden",
+                  "text": "Asia's largest tulip garden, opened in 2007 at the foothills of the Zabarwan Range.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880839,
+                        34.096276
+                  ]
+            },
+            {
+                  "name": "Naseem Bagh",
+                  "text": "One of the oldest Mughal gardens in Kashmir, known for its thousands of chinar trees and lake views.",
+                  "category": "park",
+                  "coords": [
+                        74.838057,
+                        34.137819
+                  ]
+            },
+            {
+                  "name": "Cheshme Shahi",
+                  "text": "A Royal Spring garden featuring a natural freshwater spring and Mughal-style terraces.",
+                  "category": "park",
+                  "coords": [
+                        74.88685,
+                        34.085795
+                  ]
+            },
+            {
+                  "name": "Oont Kadal",
+                  "text": "A hump-backed stone bridge from the Mughal era that once connected the Nishat Bagh area.",
+                  "category": "historical",
+                  "coords": [
+                        74.871572,
+                        34.122651
+                  ]
+            },
+            {
+                  "name": "Shankaracharya Temple",
+                  "text": "An ancient Hindu temple dedicated to Shiva, perched atop a hill overlooking Srinagar.",
+                  "category": "religious",
+                  "coords": [
+                        74.843604,
+                        34.078965
+                  ]
+            },
+            {
+                  "name": "Shalimar Bagh",
+                  "text": "The largest of the Mughal gardens in Srinagar, built by Emperor Jahangir for his wife Nur Jahan.",
+                  "category": "landmark",
+                  "coords": [
+                        74.872922,
+                        34.149525
+                  ]
+            },
+            {
+                  "name": "Hari Parbat",
+                  "text": "A hill topped by an 18th-century Durrani fort, sacred to Hindus, Muslims, and Sikhs alike.",
+                  "category": "natural",
+                  "coords": [
+                        74.81639,
+                        34.105964
+                  ]
+            },
+            {
+                  "name": "Village Art Gallery",
+                  "text": "A gallery near Dal Lake showcasing traditional Kashmiri handicrafts, including papier-mâché and woodcarvings.",
+                  "category": "museum",
+                  "coords": [
+                        74.881154,
+                        34.117193
+                  ]
+            },
+            {
+                  "name": "Shaw Art Palace",
+                  "text": "A boutique specializing in high-quality Pashmina and Jamawar shawls near the Dal Lake seafront.",
+                  "category": "museum",
+                  "coords": [
+                        74.876789,
+                        34.098438
+                  ]
+            },
+            {
+                  "name": "KCI Emporium",
+                  "text": "A government-run emporium offering authentic Kashmiri carpets and silk products near Dal Lake.",
+                  "category": "museum",
+                  "coords": [
+                        74.876661,
+                        34.138107
+                  ]
+            },
+            {
+                  "name": "Fountain Chowk Rainawari",
+                  "text": "A local landmark monument at a busy intersection near the Dal Lake area.",
+                  "category": "historical",
+                  "coords": [
+                        74.8229,
+                        34.097988
+                  ]
+            },
+            {
+                  "name": "Alamgir Paper Machie House",
+                  "text": "An arts center dedicated to the traditional Kashmiri craft of intricate paper-mâché painting.",
+                  "category": "cultural",
+                  "coords": [
+                        74.807746,
+                        34.113156
+                  ]
+            },
+            {
+                  "name": "Cottage Arts Emporium",
+                  "text": "A showcase for regional Kashmiri handicrafts, featuring hand-woven carpets and traditional textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        74.842392,
+                        34.088157
+                  ]
+            },
+            {
+                  "name": "Badawari Event Stage",
+                  "text": "A cultural performance stage used for local theater and traditional Kashmiri events.",
+                  "category": "cultural",
+                  "coords": [
+                        74.823221,
+                        34.109965
+                  ]
+            },
+            {
+                  "name": "Ampitheatre",
+                  "text": "An open-air theater designed for public performances and cultural gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        74.839073,
+                        34.123548
+                  ]
+            },
+            {
+                  "name": "Masjid Muhammad",
+                  "text": "A traditional neighborhood mosque used for daily Islamic prayers.",
+                  "category": "religious",
+                  "coords": [
+                        74.879098,
+                        34.127237
+                  ]
+            },
+            {
+                  "name": "Astaan -E- Aaliya",
+                  "text": "A sacred Sufi shrine and place of worship frequented by local devotees.",
+                  "category": "religious",
+                  "coords": [
+                        74.874879,
+                        34.097601
+                  ]
+            },
+            {
+                  "name": "Masjid Sharied Boulevard Road",
+                  "text": "A mosque located along the scenic Boulevard Road facing the waters of Dal Lake.",
+                  "category": "religious",
+                  "coords": [
+                        74.87719,
+                        34.099879
+                  ]
+            },
+            {
+                  "name": "Hanfia Masjid Zindshah Sahib (R.A) Rainawari",
+                  "text": "A Hanafi Sunni mosque in Rainawari, dedicated to the spiritual legacy of Zindshah Sahib.",
+                  "category": "religious",
+                  "coords": [
+                        74.822533,
+                        34.099703
+                  ]
+            },
+            {
+                  "name": "Masjid Hanfia Hawal",
+                  "text": "A local Hanafi mosque serving the Muslim community in the Hawal district.",
+                  "category": "religious",
+                  "coords": [
+                        74.809489,
+                        34.110714
+                  ]
+            },
+            {
+                  "name": "Hanfia Masjid Iqbal",
+                  "text": "A neighborhood mosque of the Hanafi school of jurisprudence.",
+                  "category": "religious",
+                  "coords": [
+                        74.808276,
+                        34.166484
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief",
+                  "text": "A community mosque featuring traditional Kashmiri wooden architecture and prayer halls.",
+                  "category": "religious",
+                  "coords": [
+                        74.807404,
+                        34.178228
+                  ]
+            },
+            {
+                  "name": "Masjid Al Huda",
+                  "text": "A local mosque used for religious gatherings and Friday sermons.",
+                  "category": "religious",
+                  "coords": [
+                        74.80707,
+                        34.185323
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Hassan Ul Bana colony 90 feet",
+                  "text": "A modern mosque serving the residents of the 90 Feet Road colony.",
+                  "category": "religious",
+                  "coords": [
+                        74.81026,
+                        34.157692
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Bibi Ashraf",
+                  "text": "A small neighborhood mosque dedicated to local Islamic worship.",
+                  "category": "religious",
+                  "coords": [
+                        74.833692,
+                        34.146035
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Saidakadal",
+                  "text": "A place of worship located near the historic Saidakadal bridge.",
+                  "category": "religious",
+                  "coords": [
+                        74.827603,
+                        34.104403
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Zakura Crossing",
+                  "text": "A roadside mosque providing a space for prayer at the Zakura intersection.",
+                  "category": "religious",
+                  "coords": [
+                        74.84023,
+                        34.154512
+                  ]
+            },
+            {
+                  "name": "Masjid Ahlihadees",
+                  "text": "A mosque belonging to the Ahlihadees denomination, characterized by its focus on Quranic teachings.",
+                  "category": "religious",
+                  "coords": [
+                        74.808131,
+                        34.16434
+                  ]
+            },
+            {
+                  "name": "Masjid Umar (R.A)",
+                  "text": "A local mosque named in honor of the second Caliph of Islam, Umar ibn al-Khattab.",
+                  "category": "religious",
+                  "coords": [
+                        74.842106,
+                        34.1578
+                  ]
+            },
+            {
+                  "name": "Masjid Sharief Batpora",
+                  "text": "A place of worship serving the local Muslim community in the Batpora area.",
+                  "category": "religious",
+                  "coords": [
+                        74.846672,
+                        34.160412
+                  ]
+            },
+            {
+                  "name": "Professor Masijd",
+                  "text": "A mosque located in the academic area, frequented by students and faculty for prayers.",
+                  "category": "religious",
+                  "coords": [
+                        74.843533,
+                        34.126768
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IN-JK",
     coords: [74.843, 34.116],
@@ -291,7 +2289,88 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-pangong-tso-lake-nature-v2",
+    id: "in-pangong-tso-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pangong Lake",
+                  "text": "Ein hochgelegener endorheischer See, berühmt für seine tiefblaue Farbe und die umliegenden Wüstenberge.",
+                  "category": "landmark",
+                  "coords": [
+                        78.608751,
+                        33.82105
+                  ]
+            },
+            {
+                  "name": "Gompa",
+                  "text": "Ein abgelegenes buddhistisches Heiligtum mit weitem Blick über das Wasser des Pangong-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        78.58569,
+                        33.805892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pangong Lake",
+                  "text": "Magaslati lefolyástalan tó, amely mélykék színéről és a környező sivatagi hegyekről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        78.608751,
+                        33.82105
+                  ]
+            },
+            {
+                  "name": "Gompa",
+                  "text": "Távoli buddhista szentély, ahonnan pazar kilátás nyílik a Pangong-tó vizére.",
+                  "category": "landmark",
+                  "coords": [
+                        78.58569,
+                        33.805892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pangong Lake",
+                  "text": "Un lac endoreic de mare altitudine, faimos pentru culoarea sa albastră profundă și munții deșertici din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        78.608751,
+                        33.82105
+                  ]
+            },
+            {
+                  "name": "Gompa",
+                  "text": "Un altar budist izolat, cu vederi largi peste apele lacului Pangong.",
+                  "category": "landmark",
+                  "coords": [
+                        78.58569,
+                        33.805892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pangong Lake",
+                  "text": "A high-altitude endorheic lake famous for its deep blue colour and surrounding desert mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        78.608751,
+                        33.82105
+                  ]
+            },
+            {
+                  "name": "Gompa",
+                  "text": "A remote Buddhist shrine with wide views across the waters of Pangong Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        78.58569,
+                        33.805892
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IN-LA",
     coords: [78.65, 33.75],
@@ -339,7 +2418,52 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-chilika-lake-nature-v2",
+    id: "in-chilika-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalijai Temple",
+                  "text": "Ein berühmter hinduistischer Tempel auf einer Insel in den weiten Brackgewässern des Chilika-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317012,
+                        19.638707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalijai Temple",
+                  "text": "Egy híres hindu templom a Chilika-tó kiterjedt brakk vizeiben található szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317012,
+                        19.638707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalijai Temple",
+                  "text": "Un celebru templu hindus situat pe o insulă din întinsele ape salmastre ale lacului Chilika.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317012,
+                        19.638707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalijai Temple",
+                  "text": "A famous Hindu temple situated on an island within the expansive brackish waters of Chilika Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        85.317012,
+                        19.638707
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IN-OR",
     coords: [85.33, 19.7],
@@ -435,7 +2559,1204 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-brahmaputra-river-nature-v2",
+    id: "in-brahmaputra-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guwahati Planetarium",
+                  "text": "Ein führendes astronomisches Zentrum in Guwahati mit einer markanten Kuppel und regelmäßigen Himmelsshows.",
+                  "category": "museum",
+                  "coords": [
+                        91.751978,
+                        26.19148
+                  ]
+            },
+            {
+                  "name": "Saraighat Bridge",
+                  "text": "Diese 1962 eröffnete Brücke war die erste kombinierte Eisenbahn- und Straßenbrücke über den Brahmaputra.",
+                  "category": "landmark",
+                  "coords": [
+                        91.672251,
+                        26.175532
+                  ]
+            },
+            {
+                  "name": "কামাখ্যা দেৱালয়",
+                  "text": "Eine verehrte hinduistische Pilgerstätte auf dem Nilachal-Hügel, die der Göttin Kamakhya gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        91.70535,
+                        26.166749
+                  ]
+            },
+            {
+                  "name": "Assam State Museum",
+                  "text": "Dieses Museum präsentiert das reiche kulturelle Erbe und die Geschichte von Assam durch seine umfangreiche Sammlung von Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        91.752382,
+                        26.185288
+                  ]
+            },
+            {
+                  "name": "Umananda Mandir",
+                  "text": "Ein Shiva-Tempel auf der Pfaueninsel im Brahmaputra, der kleinsten bewohnten Flussinsel der Welt.",
+                  "category": "religious",
+                  "coords": [
+                        91.745142,
+                        26.196582
+                  ]
+            },
+            {
+                  "name": "Assam State Zoo cum Botanical Garden",
+                  "text": "Der größte Zoo in Nordostindien, Heimat des seltenen Panzernashorns und einer vielfältigen Flora.",
+                  "category": "recreational",
+                  "coords": [
+                        91.782705,
+                        26.163652
+                  ]
+            },
+            {
+                  "name": "State Art Gallery",
+                  "text": "Ein kultureller Ort, der zeitgenössische und traditionelle Kunstwerke lokaler assamesischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        91.753884,
+                        26.184946
+                  ]
+            },
+            {
+                  "name": "champa",
+                  "text": "Ein lokales architektonisches Wahrzeichen in der Nähe des Ufers des Brahmaputra-Flusses.",
+                  "category": "castle",
+                  "coords": [
+                        91.735076,
+                        26.172906
+                  ]
+            },
+            {
+                  "name": "Garima Palace",
+                  "text": "Eine imposante Privatresidenz in Guwahati, die für ihren prachtvollen architektonischen Stil bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        91.740701,
+                        26.182783
+                  ]
+            },
+            {
+                  "name": "Ajay, sarika house",
+                  "text": "Eine herrschaftliche Privatresidenz im Stadtbild von Guwahati.",
+                  "category": "historical",
+                  "coords": [
+                        91.755904,
+                        26.179623
+                  ]
+            },
+            {
+                  "name": "Lachit Borphukan",
+                  "text": "Ein bedeutendes Denkmal zu Ehren des heldenhaften Ahom-Generals Lachit Borphukan, der für seinen Sieg bei Saraighat bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        91.733885,
+                        26.18028
+                  ]
+            },
+            {
+                  "name": "Northbroke Gate",
+                  "text": "Ein 1874 errichtetes gemauertes Bogentor am Flussufer zur Begrüßung des britischen Vizekönigs Lord Northbrook.",
+                  "category": "historical",
+                  "coords": [
+                        91.740606,
+                        26.1874
+                  ]
+            },
+            {
+                  "name": "desire machine collective",
+                  "text": "Ein unabhängiges Kunstkollektiv in Guwahati, das sich auf zeitgenössische visuelle Medien und experimentelle Projekte konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        91.754175,
+                        26.190961
+                  ]
+            },
+            {
+                  "name": "periferry",
+                  "text": "Ein einzigartiger alternativer Kunstraum auf einer am Brahmaputra-Fluss angedockten Fähre.",
+                  "category": "cultural",
+                  "coords": [
+                        91.737731,
+                        26.185004
+                  ]
+            },
+            {
+                  "name": "Pragjyotish Cinema",
+                  "text": "Ein traditionsreiches Kino in Guwahati, das als Zentrum für lokale Filme und Unterhaltung dient.",
+                  "category": "cultural",
+                  "coords": [
+                        91.702923,
+                        26.160059
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine lokale Moschee in Guwahati, die den spirituellen Bedürfnissen der muslimischen Gemeinschaft der Stadt dient.",
+                  "category": "religious",
+                  "coords": [
+                        91.739993,
+                        26.180658
+                  ]
+            },
+            {
+                  "name": "Ugratara temple",
+                  "text": "Ein wichtiger Shakti-Tempel in Guwahati, der der Göttin Ugratara gewidmet ist und für seine religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.753222,
+                        26.189418
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Ein traditioneller hinduistischer Tempel, der dem Herrn Shiva gewidmet ist und sich im Herzen von Guwahati befindet.",
+                  "category": "religious",
+                  "coords": [
+                        91.754923,
+                        26.176944
+                  ]
+            },
+            {
+                  "name": "Sri Sri Jagganath Mandir",
+                  "text": "Ein lebhafter hinduistischer Tempel in Guwahati, der dem Herrn Jagannath gewidmet ist und eine farbenfrohe traditionelle Architektur aufweist.",
+                  "category": "religious",
+                  "coords": [
+                        91.753356,
+                        26.177602
+                  ]
+            },
+            {
+                  "name": "shanti sabha",
+                  "text": "Eine gemeinschaftliche Gebetshalle und ein spiritueller Versammlungsort im Stadtgebiet von Guwahati.",
+                  "category": "religious",
+                  "coords": [
+                        91.737076,
+                        26.171428
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahavir Dharmasthal",
+                  "text": "Ein friedlicher Jain-Tempel in Guwahati, der Bhagwan Mahavir gewidmet ist und für seine ruhige Atmosphäre bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.739869,
+                        26.178767
+                  ]
+            },
+            {
+                  "name": "Lakhtokia Mosque",
+                  "text": "Eine historische Moschee im belebten Marktviertel Lakhtokia in Guwahati.",
+                  "category": "religious",
+                  "coords": [
+                        91.741613,
+                        26.181681
+                  ]
+            },
+            {
+                  "name": "Gurudwara",
+                  "text": "Ein Gebetsort der Sikhs in Guwahati, der Gemeinschaftsdienste und eine friedliche Gebetsumgebung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        91.740577,
+                        26.18173
+                  ]
+            },
+            {
+                  "name": "Viswakarma temple",
+                  "text": "Ein einzigartiger Tempel in Guwahati, der dem göttlichen Architekten Lord Vishwakarma gewidmet ist und besonders bei Handwerkern beliebt ist.",
+                  "category": "religious",
+                  "coords": [
+                        91.716915,
+                        26.165456
+                  ]
+            },
+            {
+                  "name": "NAMGHAR",
+                  "text": "Ein traditionelles assamesisches Gebetshaus für den Vaishnavismus am Ufer des Brahmaputra.",
+                  "category": "religious",
+                  "coords": [
+                        91.796529,
+                        26.13241
+                  ]
+            },
+            {
+                  "name": "SRIMANTRO SANKARDEV NAMGHAR",
+                  "text": "Dieses Namghar ist der spirituellen Tradition des Heiligen Srimanta Sankardev gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        91.769312,
+                        26.167509
+                  ]
+            },
+            {
+                  "name": "Laymen's Evangelical Fellewship Guwahati",
+                  "text": "Ein christliches evangelisches Zentrum in Guwahati, das religiöse Dienste für die örtliche Gemeinschaft anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        91.804049,
+                        26.136132
+                  ]
+            },
+            {
+                  "name": "gfff",
+                  "text": "Eine lokale Gebetsstätte in der Naturregion des Brahmaputra-Flusses.",
+                  "category": "religious",
+                  "coords": [
+                        91.699175,
+                        26.117284
+                  ]
+            },
+            {
+                  "name": "Bhim Sain Verma Complex",
+                  "text": "Ein lokaler Marktplatz und Geschäftskomplex, der Waren für die Region am Brahmaputra anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        91.751021,
+                        26.179824
+                  ]
+            },
+            {
+                  "name": "Didar Market",
+                  "text": "Ein lebhafter lokaler Basar, der für den täglichen Handel in der Nähe des Brahmaputra genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        91.750117,
+                        26.180663
+                  ]
+            },
+            {
+                  "name": "Kejriwal Bhavan",
+                  "text": "Ein gewerbliches Gebäude und Marktplatz in der Nähe des Brahmaputra-Flusses.",
+                  "category": "cultural",
+                  "coords": [
+                        91.751578,
+                        26.178729
+                  ]
+            },
+            {
+                  "name": "MANGALAM MARKETING",
+                  "text": "Ein gewerbliches Outlet in der Flussregion, das auf lokales Marketing und Handel spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        91.757625,
+                        26.172042
+                  ]
+            },
+            {
+                  "name": "Mangalam Market",
+                  "text": "Ein Einkaufsviertel für die örtliche Bevölkerung in der Nähe des Brahmaputra-Ufers.",
+                  "category": "cultural",
+                  "coords": [
+                        91.755422,
+                        26.170842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guwahati Planetarium",
+                  "text": "Guwahati kiemelkedő csillagászati központja jellegzetes kupolával és rendszeres égbolt-bemutatókkal.",
+                  "category": "museum",
+                  "coords": [
+                        91.751978,
+                        26.19148
+                  ]
+            },
+            {
+                  "name": "Saraighat Bridge",
+                  "text": "Az 1962-ben megnyitott híd volt az első kombinált vasúti és közúti híd a Brahmaputra-folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        91.672251,
+                        26.175532
+                  ]
+            },
+            {
+                  "name": "কামাখ্যা দেৱালয়",
+                  "text": "Tisztelt hindu zarándokhely a Nilachal-dombon, amelyet Kamakhya istennőnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        91.70535,
+                        26.166749
+                  ]
+            },
+            {
+                  "name": "Assam State Museum",
+                  "text": "Ez a múzeum Asszám gazdag kulturális örökségét és történelmét mutatja be kiterjedt műtárgygyűjteményén keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        91.752382,
+                        26.185288
+                  ]
+            },
+            {
+                  "name": "Umananda Mandir",
+                  "text": "Egy Siva-templom a Brahmaputra folyón található Páva-szigeten, amely a világ legkisebb lakott folyami szigete.",
+                  "category": "religious",
+                  "coords": [
+                        91.745142,
+                        26.196582
+                  ]
+            },
+            {
+                  "name": "Assam State Zoo cum Botanical Garden",
+                  "text": "Északkelet-India legnagyobb állatkertje, amely a ritka indiai orrszarvúnak és változatos flórának ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        91.782705,
+                        26.163652
+                  ]
+            },
+            {
+                  "name": "State Art Gallery",
+                  "text": "Kulturális helyszín, amely helyi asszámi művészek kortárs és hagyományos alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        91.753884,
+                        26.184946
+                  ]
+            },
+            {
+                  "name": "champa",
+                  "text": "Egy helyi építészeti nevezetesség a Brahmaputra-folyó partjának közelében.",
+                  "category": "castle",
+                  "coords": [
+                        91.735076,
+                        26.172906
+                  ]
+            },
+            {
+                  "name": "Garima Palace",
+                  "text": "Egy impozáns magánrezidencia Guwahatiban, amely nagyszabású építészeti stílusáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        91.740701,
+                        26.182783
+                  ]
+            },
+            {
+                  "name": "Ajay, sarika house",
+                  "text": "Egy előkelő magánrezidencia Guwahati városi táján.",
+                  "category": "historical",
+                  "coords": [
+                        91.755904,
+                        26.179623
+                  ]
+            },
+            {
+                  "name": "Lachit Borphukan",
+                  "text": "Jelentős emlékmű a hős ahom tábornok, Lachit Borphukan tiszteletére, aki a szaraighati győzelméről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        91.733885,
+                        26.18028
+                  ]
+            },
+            {
+                  "name": "Northbroke Gate",
+                  "text": "Egy 1874-ben épült téglából készült boltíves kapu a folyóparton, amelyet Lord Northbrook brit alkirály fogadására emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        91.740606,
+                        26.1874
+                  ]
+            },
+            {
+                  "name": "desire machine collective",
+                  "text": "Független művészeti kollektíva Guwahatiban, amely a kortárs vizuális médiára és kísérleti projektekre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        91.754175,
+                        26.190961
+                  ]
+            },
+            {
+                  "name": "periferry",
+                  "text": "Egyedülálló alternatív művészeti tér egy, a Brahmaputra-folyón horgonyzó kompon.",
+                  "category": "cultural",
+                  "coords": [
+                        91.737731,
+                        26.185004
+                  ]
+            },
+            {
+                  "name": "Pragjyotish Cinema",
+                  "text": "Egy nagy múltú moziterem Guwahatiban, amely a helyi filmek és szórakozás központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        91.702923,
+                        26.160059
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egy helyi mecset Guwahatiban, amely a város muszlim közösségének spirituális igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        91.739993,
+                        26.180658
+                  ]
+            },
+            {
+                  "name": "Ugratara temple",
+                  "text": "Fontos sakti-templom Guwahatiban, amelyet Ugratara istennőnek szenteltek, és vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        91.753222,
+                        26.189418
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Egy tradicionális hindu templom, amelyet Siva úrnak szenteltek Guwahati szívében.",
+                  "category": "religious",
+                  "coords": [
+                        91.754923,
+                        26.176944
+                  ]
+            },
+            {
+                  "name": "Sri Sri Jagganath Mandir",
+                  "text": "Élénk hindu templom Guwahatiban, amelyet Jagannath úrnak szenteltek, színes tradicionális építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        91.753356,
+                        26.177602
+                  ]
+            },
+            {
+                  "name": "shanti sabha",
+                  "text": "Közösségi imaterem és spirituális gyülekezőhely Guwahati városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        91.737076,
+                        26.171428
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahavir Dharmasthal",
+                  "text": "Egy békés dzsainista templom Guwahatiban, amelyet Bhagwan Mahavirnek szenteltek, és nyugodt légköréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        91.739869,
+                        26.178767
+                  ]
+            },
+            {
+                  "name": "Lakhtokia Mosque",
+                  "text": "Történelmi mecset Guwahati forgalmas Lakhtokia piaci negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        91.741613,
+                        26.181681
+                  ]
+            },
+            {
+                  "name": "Gurudwara",
+                  "text": "Szikh vallási helyszín Guwahatiban, amely közösségi szolgáltatásokat és békés imakörnyezetet kínál.",
+                  "category": "religious",
+                  "coords": [
+                        91.740577,
+                        26.18173
+                  ]
+            },
+            {
+                  "name": "Viswakarma temple",
+                  "text": "Egyedülálló templom Guwahatiban, amelyet Vishwakarma úrnak, az isteni építésznek szenteltek, és különösen népszerű a kézművesek körében.",
+                  "category": "religious",
+                  "coords": [
+                        91.716915,
+                        26.165456
+                  ]
+            },
+            {
+                  "name": "NAMGHAR",
+                  "text": "Hagyományos aszámi imaház a vaisnavita istentisztelet számára, a Brahmaputra partján.",
+                  "category": "religious",
+                  "coords": [
+                        91.796529,
+                        26.13241
+                  ]
+            },
+            {
+                  "name": "SRIMANTRO SANKARDEV NAMGHAR",
+                  "text": "Ez a Namghar Srimanta Sankardev szent szellemi hagyományának van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        91.769312,
+                        26.167509
+                  ]
+            },
+            {
+                  "name": "Laymen's Evangelical Fellewship Guwahati",
+                  "text": "Guwahati keresztény evangélikus központja, amely vallási szolgáltatásokat nyújt a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        91.804049,
+                        26.136132
+                  ]
+            },
+            {
+                  "name": "gfff",
+                  "text": "Helyi imádságos hely a Brahmaputra folyó természeti régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        91.699175,
+                        26.117284
+                  ]
+            },
+            {
+                  "name": "Bhim Sain Verma Complex",
+                  "text": "Helyi piac és üzleti komplexum, amely a Brahmaputra régió számára kínál árukat.",
+                  "category": "cultural",
+                  "coords": [
+                        91.751021,
+                        26.179824
+                  ]
+            },
+            {
+                  "name": "Didar Market",
+                  "text": "Élénk helyi bazár, amelyet napi kereskedelemre használnak a Brahmaputra közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        91.750117,
+                        26.180663
+                  ]
+            },
+            {
+                  "name": "Kejriwal Bhavan",
+                  "text": "Kereskedelmi épület és piactér a Brahmaputra folyó közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        91.751578,
+                        26.178729
+                  ]
+            },
+            {
+                  "name": "MANGALAM MARKETING",
+                  "text": "Kereskedelmi egység a folyó menti régióban, amely helyi értékesítésre és kereskedelemre szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        91.757625,
+                        26.172042
+                  ]
+            },
+            {
+                  "name": "Mangalam Market",
+                  "text": "Bevásárlónegyed a helyi lakosság számára a Brahmaputra partjának közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        91.755422,
+                        26.170842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guwahati Planetarium",
+                  "text": "Un centru astronomic de prim rang din Guwahati, cu o cupolă distinctivă și spectacole cerești regulate.",
+                  "category": "museum",
+                  "coords": [
+                        91.751978,
+                        26.19148
+                  ]
+            },
+            {
+                  "name": "Saraighat Bridge",
+                  "text": "Deschis în 1962, acesta a fost primul pod feroviar și rutier construit peste râul Brahmaputra.",
+                  "category": "landmark",
+                  "coords": [
+                        91.672251,
+                        26.175532
+                  ]
+            },
+            {
+                  "name": "কামাখ্যা দেৱালয়",
+                  "text": "Un loc de pelerinaj hindu venerat pe dealul Nilachal, dedicat zeiței Kamakhya.",
+                  "category": "landmark",
+                  "coords": [
+                        91.70535,
+                        26.166749
+                  ]
+            },
+            {
+                  "name": "Assam State Museum",
+                  "text": "Acest muzeu prezintă bogata moștenire culturală și istorie a Assamului prin colecția sa extinsă de artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        91.752382,
+                        26.185288
+                  ]
+            },
+            {
+                  "name": "Umananda Mandir",
+                  "text": "Un templu dedicat lui Shiva situat pe Insula Păunului, cea mai mică insulă fluvială locuită din lume, pe Brahmaputra.",
+                  "category": "religious",
+                  "coords": [
+                        91.745142,
+                        26.196582
+                  ]
+            },
+            {
+                  "name": "Assam State Zoo cum Botanical Garden",
+                  "text": "Cea mai mare grădină zoologică din nord-estul Indiei, care adăpostește rinocerul cu un singur corn și o floră diversă.",
+                  "category": "recreational",
+                  "coords": [
+                        91.782705,
+                        26.163652
+                  ]
+            },
+            {
+                  "name": "State Art Gallery",
+                  "text": "O locație culturală care prezintă opere de artă contemporane și tradiționale ale artiștilor locali din Assam.",
+                  "category": "museum",
+                  "coords": [
+                        91.753884,
+                        26.184946
+                  ]
+            },
+            {
+                  "name": "champa",
+                  "text": "Un punct de reper arhitectural local situat lângă malurile râului Brahmaputra.",
+                  "category": "castle",
+                  "coords": [
+                        91.735076,
+                        26.172906
+                  ]
+            },
+            {
+                  "name": "Garima Palace",
+                  "text": "O reședință privată impunătoare din Guwahati, cunoscută pentru stilul său arhitectural grandios.",
+                  "category": "castle",
+                  "coords": [
+                        91.740701,
+                        26.182783
+                  ]
+            },
+            {
+                  "name": "Ajay, sarika house",
+                  "text": "O reședință privată impunătoare situată în peisajul urban din Guwahati.",
+                  "category": "historical",
+                  "coords": [
+                        91.755904,
+                        26.179623
+                  ]
+            },
+            {
+                  "name": "Lachit Borphukan",
+                  "text": "Un monument proeminent care îl onorează pe eroul general Ahom Lachit Borphukan, cunoscut pentru victoria sa de la Saraighat.",
+                  "category": "historical",
+                  "coords": [
+                        91.733885,
+                        26.18028
+                  ]
+            },
+            {
+                  "name": "Northbroke Gate",
+                  "text": "O poartă arcuită din cărămidă pe malul râului, construită în 1874 pentru a-l întâmpina pe viceregele britanic, Lord Northbrook.",
+                  "category": "historical",
+                  "coords": [
+                        91.740606,
+                        26.1874
+                  ]
+            },
+            {
+                  "name": "desire machine collective",
+                  "text": "Un colectiv de artă independent din Guwahati, axat pe media vizuală contemporană și proiecte experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.754175,
+                        26.190961
+                  ]
+            },
+            {
+                  "name": "periferry",
+                  "text": "Un spațiu de artă alternativ unic, găzduit pe un feribot ancorat pe râul Brahmaputra.",
+                  "category": "cultural",
+                  "coords": [
+                        91.737731,
+                        26.185004
+                  ]
+            },
+            {
+                  "name": "Pragjyotish Cinema",
+                  "text": "O sală de cinema cu vechime din Guwahati, care servește ca centru pentru filme locale și divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        91.702923,
+                        26.160059
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee locală din Guwahati, care deservește nevoile spirituale ale comunității musulmane din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        91.739993,
+                        26.180658
+                  ]
+            },
+            {
+                  "name": "Ugratara temple",
+                  "text": "Un important templu Shakti din Guwahati, dedicat zeiței Ugratara, cunoscut pentru semnificația sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        91.753222,
+                        26.189418
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Un templu hindu tradițional dedicat Domnului Shiva, situat în inima orașului Guwahati.",
+                  "category": "religious",
+                  "coords": [
+                        91.754923,
+                        26.176944
+                  ]
+            },
+            {
+                  "name": "Sri Sri Jagganath Mandir",
+                  "text": "Un templu hindu vibrant din Guwahati dedicat Domnului Jagannath, cu o arhitectură tradițională colorată.",
+                  "category": "religious",
+                  "coords": [
+                        91.753356,
+                        26.177602
+                  ]
+            },
+            {
+                  "name": "shanti sabha",
+                  "text": "O sală de rugăciune comunitară și un loc de adunare spirituală situat în zona urbană a orașului Guwahati.",
+                  "category": "religious",
+                  "coords": [
+                        91.737076,
+                        26.171428
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahavir Dharmasthal",
+                  "text": "Un templu jainist liniștit din Guwahati, dedicat lui Bhagwan Mahavir, cunoscut pentru atmosfera sa senină.",
+                  "category": "religious",
+                  "coords": [
+                        91.739869,
+                        26.178767
+                  ]
+            },
+            {
+                  "name": "Lakhtokia Mosque",
+                  "text": "O moschee istorică situată în zona aglomerată a pieței Lakhtokia din Guwahati.",
+                  "category": "religious",
+                  "coords": [
+                        91.741613,
+                        26.181681
+                  ]
+            },
+            {
+                  "name": "Gurudwara",
+                  "text": "Un loc de rugăciune sikh din Guwahati, care oferă servicii comunitare și un mediu de rugăciune liniștit.",
+                  "category": "religious",
+                  "coords": [
+                        91.740577,
+                        26.18173
+                  ]
+            },
+            {
+                  "name": "Viswakarma temple",
+                  "text": "Un templu unic din Guwahati dedicat Domnului Vishwakarma, arhitectul divin, fiind deosebit de popular printre meșteșugari.",
+                  "category": "religious",
+                  "coords": [
+                        91.716915,
+                        26.165456
+                  ]
+            },
+            {
+                  "name": "NAMGHAR",
+                  "text": "O casă de rugăciune tradițională asameză pentru cultul Vaishnavite, situată pe malul fluviului Brahmaputra.",
+                  "category": "religious",
+                  "coords": [
+                        91.796529,
+                        26.13241
+                  ]
+            },
+            {
+                  "name": "SRIMANTRO SANKARDEV NAMGHAR",
+                  "text": "Acest Namghar este dedicat tradiției spirituale a sfântului Srimanta Sankardev.",
+                  "category": "religious",
+                  "coords": [
+                        91.769312,
+                        26.167509
+                  ]
+            },
+            {
+                  "name": "Laymen's Evangelical Fellewship Guwahati",
+                  "text": "Un centru evanghelic creștin din Guwahati care oferă servicii religioase pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        91.804049,
+                        26.136132
+                  ]
+            },
+            {
+                  "name": "gfff",
+                  "text": "Un loc local de rugăciune situat în regiunea naturală a fluviului Brahmaputra.",
+                  "category": "religious",
+                  "coords": [
+                        91.699175,
+                        26.117284
+                  ]
+            },
+            {
+                  "name": "Bhim Sain Verma Complex",
+                  "text": "O piață locală și un complex de afaceri care oferă mărfuri pentru regiunea Brahmaputra.",
+                  "category": "cultural",
+                  "coords": [
+                        91.751021,
+                        26.179824
+                  ]
+            },
+            {
+                  "name": "Didar Market",
+                  "text": "Un bazar local plin de viață folosit pentru comerțul zilnic în apropierea fluviului Brahmaputra.",
+                  "category": "cultural",
+                  "coords": [
+                        91.750117,
+                        26.180663
+                  ]
+            },
+            {
+                  "name": "Kejriwal Bhavan",
+                  "text": "O clădire comercială și o piață situată în apropierea fluviului Brahmaputra.",
+                  "category": "cultural",
+                  "coords": [
+                        91.751578,
+                        26.178729
+                  ]
+            },
+            {
+                  "name": "MANGALAM MARKETING",
+                  "text": "Un punct comercial din regiunea fluvială, specializat în marketing și comerț local.",
+                  "category": "cultural",
+                  "coords": [
+                        91.757625,
+                        26.172042
+                  ]
+            },
+            {
+                  "name": "Mangalam Market",
+                  "text": "O zonă comercială pentru populația locală, situată lângă malul Brahmaputrei.",
+                  "category": "cultural",
+                  "coords": [
+                        91.755422,
+                        26.170842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guwahati Planetarium",
+                  "text": "A premier astronomical center in Guwahati featuring a distinctive dome and regular sky shows.",
+                  "category": "museum",
+                  "coords": [
+                        91.751978,
+                        26.19148
+                  ]
+            },
+            {
+                  "name": "Saraighat Bridge",
+                  "text": "Opened in 1962, this was the first rail-cum-road bridge built across the Brahmaputra River.",
+                  "category": "landmark",
+                  "coords": [
+                        91.672251,
+                        26.175532
+                  ]
+            },
+            {
+                  "name": "Maa Kamakhya Mandir",
+                  "text": "A revered Hindu pilgrimage site on Nilachal Hill dedicated to the goddess Kamakhya.",
+                  "category": "landmark",
+                  "coords": [
+                        91.70535,
+                        26.166749
+                  ]
+            },
+            {
+                  "name": "Assam State Museum",
+                  "text": "This museum showcases the rich cultural heritage and history of Assam through its extensive collection of artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        91.752382,
+                        26.185288
+                  ]
+            },
+            {
+                  "name": "Umananda Mandir",
+                  "text": "A Shiva temple located on Peacock Island, the smallest inhabited river island in the world, in the Brahmaputra.",
+                  "category": "religious",
+                  "coords": [
+                        91.745142,
+                        26.196582
+                  ]
+            },
+            {
+                  "name": "Assam State Zoo cum Botanical Garden",
+                  "text": "The largest zoo in North East India, home to the rare one-horned rhinoceros and diverse flora.",
+                  "category": "recreational",
+                  "coords": [
+                        91.782705,
+                        26.163652
+                  ]
+            },
+            {
+                  "name": "State Art Gallery",
+                  "text": "A cultural venue showcasing contemporary and traditional artworks by local Assamese artists.",
+                  "category": "museum",
+                  "coords": [
+                        91.753884,
+                        26.184946
+                  ]
+            },
+            {
+                  "name": "champa",
+                  "text": "A local architectural landmark situated near the banks of the Brahmaputra River.",
+                  "category": "castle",
+                  "coords": [
+                        91.735076,
+                        26.172906
+                  ]
+            },
+            {
+                  "name": "Garima Palace",
+                  "text": "An imposing private residence in Guwahati known for its grand architectural style.",
+                  "category": "castle",
+                  "coords": [
+                        91.740701,
+                        26.182783
+                  ]
+            },
+            {
+                  "name": "Ajay, sarika house",
+                  "text": "A stately private residence located in the urban landscape of Guwahati.",
+                  "category": "historical",
+                  "coords": [
+                        91.755904,
+                        26.179623
+                  ]
+            },
+            {
+                  "name": "Lachit Borphukan",
+                  "text": "A prominent monument honoring the heroic Ahom general Lachit Borphukan, known for his victory at Saraighat.",
+                  "category": "historical",
+                  "coords": [
+                        91.733885,
+                        26.18028
+                  ]
+            },
+            {
+                  "name": "Northbroke Gate",
+                  "text": "A brick arched gateway on the riverbank built in 1874 to welcome the British Viceroy, Lord Northbrook.",
+                  "category": "historical",
+                  "coords": [
+                        91.740606,
+                        26.1874
+                  ]
+            },
+            {
+                  "name": "desire machine collective",
+                  "text": "An independent arts collective in Guwahati focused on contemporary visual media and experimental projects.",
+                  "category": "cultural",
+                  "coords": [
+                        91.754175,
+                        26.190961
+                  ]
+            },
+            {
+                  "name": "periferry",
+                  "text": "A unique alternative art space hosted on a ferry docked on the Brahmaputra River.",
+                  "category": "cultural",
+                  "coords": [
+                        91.737731,
+                        26.185004
+                  ]
+            },
+            {
+                  "name": "Pragjyotish Cinema",
+                  "text": "A long-standing cinema hall in Guwahati, serving as a hub for local film and entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        91.702923,
+                        26.160059
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local mosque in Guwahati, serving the spiritual needs of the city's Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        91.739993,
+                        26.180658
+                  ]
+            },
+            {
+                  "name": "Ugratara temple",
+                  "text": "An important Shakti temple in Guwahati dedicated to the goddess Ugratara, known for its religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        91.753222,
+                        26.189418
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "A traditional Hindu temple dedicated to Lord Shiva, located in the heart of Guwahati.",
+                  "category": "religious",
+                  "coords": [
+                        91.754923,
+                        26.176944
+                  ]
+            },
+            {
+                  "name": "Sri Sri Jagganath Mandir",
+                  "text": "A vibrant Hindu temple in Guwahati dedicated to Lord Jagannath, featuring colorful traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        91.753356,
+                        26.177602
+                  ]
+            },
+            {
+                  "name": "shanti sabha",
+                  "text": "A community prayer hall and spiritual gathering place located in the urban area of Guwahati.",
+                  "category": "religious",
+                  "coords": [
+                        91.737076,
+                        26.171428
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahavir Dharmasthal",
+                  "text": "A peaceful Jain temple in Guwahati dedicated to Bhagwan Mahavir, known for its serene atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        91.739869,
+                        26.178767
+                  ]
+            },
+            {
+                  "name": "Lakhtokia Mosque",
+                  "text": "A historical mosque located in the busy Lakhtokia market area of Guwahati.",
+                  "category": "religious",
+                  "coords": [
+                        91.741613,
+                        26.181681
+                  ]
+            },
+            {
+                  "name": "Gurudwara",
+                  "text": "A Sikh place of worship in Guwahati offering community services and a peaceful prayer environment.",
+                  "category": "religious",
+                  "coords": [
+                        91.740577,
+                        26.18173
+                  ]
+            },
+            {
+                  "name": "Viswakarma temple",
+                  "text": "A unique temple in Guwahati dedicated to Lord Vishwakarma, the divine architect, particularly popular among artisans.",
+                  "category": "religious",
+                  "coords": [
+                        91.716915,
+                        26.165456
+                  ]
+            },
+            {
+                  "name": "NAMGHAR",
+                  "text": "A traditional Assamese prayer house for Vaishnavite worship near the banks of the Brahmaputra.",
+                  "category": "religious",
+                  "coords": [
+                        91.796529,
+                        26.13241
+                  ]
+            },
+            {
+                  "name": "SRIMANTRO SANKARDEV NAMGHAR",
+                  "text": "This Namghar is dedicated to the spiritual tradition of the saint Srimanta Sankardev.",
+                  "category": "religious",
+                  "coords": [
+                        91.769312,
+                        26.167509
+                  ]
+            },
+            {
+                  "name": "Laymen's Evangelical Fellowship Guwahati",
+                  "text": "A Christian evangelical center in Guwahati providing religious services for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        91.804049,
+                        26.136132
+                  ]
+            },
+            {
+                  "name": "gfff",
+                  "text": "A local prayer site situated in the nature region of the Brahmaputra river.",
+                  "category": "religious",
+                  "coords": [
+                        91.699175,
+                        26.117284
+                  ]
+            },
+            {
+                  "name": "Bhim Sain Verma Complex",
+                  "text": "A local marketplace and business complex offering goods for the Brahmaputra region.",
+                  "category": "cultural",
+                  "coords": [
+                        91.751021,
+                        26.179824
+                  ]
+            },
+            {
+                  "name": "Didar Market",
+                  "text": "A lively local bazaar used for daily commerce near the Brahmaputra river.",
+                  "category": "cultural",
+                  "coords": [
+                        91.750117,
+                        26.180663
+                  ]
+            },
+            {
+                  "name": "Kejriwal Bhavan",
+                  "text": "A commercial building and marketplace located near the Brahmaputra river.",
+                  "category": "cultural",
+                  "coords": [
+                        91.751578,
+                        26.178729
+                  ]
+            },
+            {
+                  "name": "MANGALAM MARKETING",
+                  "text": "A commercial outlet in the river region specializing in local marketing and trade.",
+                  "category": "cultural",
+                  "coords": [
+                        91.757625,
+                        26.172042
+                  ]
+            },
+            {
+                  "name": "Mangalam Market",
+                  "text": "A shopping area for the local population near the Brahmaputra riverbank.",
+                  "category": "cultural",
+                  "coords": [
+                        91.755422,
+                        26.170842
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "IN-AS",
     coords: [91.74, 26.18],
@@ -483,7 +3804,52 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-yamuna-river-nature-v2",
+    id: "in-yamuna-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aligarh Fort",
+                  "text": "Das Aligarh Fort ist eine historische Festung mit einem Wassergraben, die die islamische und koloniale Militärarchitektur nahe dem Becken des Yamuna-Flusses repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        78.063668,
+                        27.930193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aligarh Fort",
+                  "text": "Az Aligarh-erőd egy történelmi erődítmény vizesárokkal, amely az iszlám és gyarmati katonai építészetet képviseli a Yamuna folyó medencéjének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        78.063668,
+                        27.930193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aligarh Fort",
+                  "text": "Fortul Aligarh este o fortăreață istorică cu un șanț cu apă, reprezentând arhitectura militară islamică și colonială în apropierea bazinului râului Yamuna.",
+                  "category": "landmark",
+                  "coords": [
+                        78.063668,
+                        27.930193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aligarh Fort",
+                  "text": "Aligarh Fort is a historic stronghold with a moat, representing Islamic and colonial military architecture near the Yamuna River basin.",
+                  "category": "landmark",
+                  "coords": [
+                        78.063668,
+                        27.930193
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "IN-DL",
     coords: [78, 28],
@@ -531,7 +3897,448 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-kangchendzonga-mountain-nature-v2",
+    id: "in-kangchendzonga-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yalung Kang",
+                  "text": "Der 8.505 Meter hohe Westgipfel des gewaltigen Kangchendzönga-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        88.137784,
+                        27.705168
+                  ]
+            },
+            {
+                  "name": "Kangchendzönga",
+                  "text": "Der dritthöchste Berg der Welt, der den Horizont des Himalayas dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        88.147477,
+                        27.703011
+                  ]
+            },
+            {
+                  "name": "Gimmigela I",
+                  "text": "Majestätischer 7.350 Meter hoher Gipfel an der Grenze zwischen Indien und Nepal.",
+                  "category": "natural",
+                  "coords": [
+                        88.158299,
+                        27.741006
+                  ]
+            },
+            {
+                  "name": "Ramthang Lho",
+                  "text": "Hoher Himalaya-Gipfel mit 6.601 Metern Höhe im zerklüfteten Kangchendzönga-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        88.093574,
+                        27.751195
+                  ]
+            },
+            {
+                  "name": "Ramthang Chang",
+                  "text": "Vergletscherter Berggipfel, der in der abgelegenen Kangchendzönga-Region auf 6.802 Meter ansteigt.",
+                  "category": "natural",
+                  "coords": [
+                        88.083591,
+                        27.765605
+                  ]
+            },
+            {
+                  "name": "Nepāl Peak",
+                  "text": "Bedeutender 7.177 Meter hoher Gipfel an der Grenze der Kangchendzönga-Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        88.18269,
+                        27.776819
+                  ]
+            },
+            {
+                  "name": "Simvo",
+                  "text": "Beeindruckender 6.812 Meter hoher Berggipfel im östlichen Teil des Kangchendzönga-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        88.240521,
+                        27.678763
+                  ]
+            },
+            {
+                  "name": "Zemu Gap Peak",
+                  "text": "Hochgelegener Gipfel, der in der Nähe des gewaltigen Zemu-Gletschers 7.780 Meter erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        88.173915,
+                        27.687267
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga South",
+                  "text": "Der Südgipfel des dritthöchsten Berges der Welt mit einer Höhe von 8.476 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        88.154014,
+                        27.692277
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga Central",
+                  "text": "Gewaltiger Himalaya-Gipfel, der im Herzen des Kangchendzönga-Massivs auf 8.482 Meter ansteigt.",
+                  "category": "natural",
+                  "coords": [
+                        88.150834,
+                        27.696337
+                  ]
+            },
+            {
+                  "name": "Talung",
+                  "text": "Markanter Berggipfel mit einer Höhe von 7.349 Metern in der Kangchendzönga-Region.",
+                  "category": "natural",
+                  "coords": [
+                        88.131084,
+                        27.655563
+                  ]
+            },
+            {
+                  "name": "Kabru North",
+                  "text": "Vergletscherter Gipfel, der als Teil des markanten Kabru-Grates auf 7.412 Meter ansteigt.",
+                  "category": "natural",
+                  "coords": [
+                        88.118329,
+                        27.635002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yalung Kang",
+                  "text": "A hatalmas Kancsendzönga-hegység 8505 méter magas nyugati csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        88.137784,
+                        27.705168
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga",
+                  "text": "A világ harmadik legmagasabb hegycsúcsa, amely uralja a Himalája látóhatárát.",
+                  "category": "natural",
+                  "coords": [
+                        88.147477,
+                        27.703011
+                  ]
+            },
+            {
+                  "name": "Gimmigela I",
+                  "text": "Fenséges, 7350 méteres csúcs India és Nepál határán.",
+                  "category": "natural",
+                  "coords": [
+                        88.158299,
+                        27.741006
+                  ]
+            },
+            {
+                  "name": "Ramthang Lho",
+                  "text": "Magas himalájai csúcs, amely eléri a 6601 métert a vadregényes Kancsendzönga-masszívumban.",
+                  "category": "natural",
+                  "coords": [
+                        88.093574,
+                        27.751195
+                  ]
+            },
+            {
+                  "name": "Ramthang Chang",
+                  "text": "Eljegesedett hegycsúcs, amely 6802 méterig magasodik a távoli Kancsendzönga régióban.",
+                  "category": "natural",
+                  "coords": [
+                        88.083591,
+                        27.765605
+                  ]
+            },
+            {
+                  "name": "Nepāl Peak",
+                  "text": "Jelentős, 7177 méteres csúcs a Kancsendzönga vadon határán.",
+                  "category": "natural",
+                  "coords": [
+                        88.18269,
+                        27.776819
+                  ]
+            },
+            {
+                  "name": "Simvo",
+                  "text": "Impozáns, 6812 méteres hegycsúcs a Kancsendzönga-hegység keleti részén.",
+                  "category": "natural",
+                  "coords": [
+                        88.240521,
+                        27.678763
+                  ]
+            },
+            {
+                  "name": "Zemu Gap Peak",
+                  "text": "Magashegyi csúcs, amely eléri a 7780 métert a hatalmas Zemu-gleccser közelében.",
+                  "category": "natural",
+                  "coords": [
+                        88.173915,
+                        27.687267
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga South",
+                  "text": "A világ harmadik legmagasabb hegyének déli csúcsa, amely 8476 méter magas.",
+                  "category": "natural",
+                  "coords": [
+                        88.154014,
+                        27.692277
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga Central",
+                  "text": "Hatalmas himalájai csúcs, amely 8482 méterig emelkedik a Kancsendzönga-masszívum szívében.",
+                  "category": "natural",
+                  "coords": [
+                        88.150834,
+                        27.696337
+                  ]
+            },
+            {
+                  "name": "Talung",
+                  "text": "Hegyes hegycsúcs, amely eléri a 7349 méteres magasságot a Kancsendzönga régióban.",
+                  "category": "natural",
+                  "coords": [
+                        88.131084,
+                        27.655563
+                  ]
+            },
+            {
+                  "name": "Kabru North",
+                  "text": "Eljegesedett csúcs, amely 7412 méterig magasodik a kiemelkedő Kabru-gerinc részeként.",
+                  "category": "natural",
+                  "coords": [
+                        88.118329,
+                        27.635002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yalung Kang",
+                  "text": "Vârful vestic de 8.505 metri înălțime al masivului Kangchenjunga.",
+                  "category": "natural",
+                  "coords": [
+                        88.137784,
+                        27.705168
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga",
+                  "text": "Al treilea cel mai înalt vârf muntos din lume, care domină orizontul himalayan.",
+                  "category": "natural",
+                  "coords": [
+                        88.147477,
+                        27.703011
+                  ]
+            },
+            {
+                  "name": "Gimmigela I",
+                  "text": "Vârf maiestuos de 7.350 de metri situat la granița dintre India și Nepal.",
+                  "category": "natural",
+                  "coords": [
+                        88.158299,
+                        27.741006
+                  ]
+            },
+            {
+                  "name": "Ramthang Lho",
+                  "text": "Vârf înalt din Himalaya, care atinge 6.601 metri în cadrul masivului accidentat Kangchenjunga.",
+                  "category": "natural",
+                  "coords": [
+                        88.093574,
+                        27.751195
+                  ]
+            },
+            {
+                  "name": "Ramthang Chang",
+                  "text": "Vârf muntos glaciar care se ridică la 6.802 metri în regiunea îndepărtată Kangchenjunga.",
+                  "category": "natural",
+                  "coords": [
+                        88.083591,
+                        27.765605
+                  ]
+            },
+            {
+                  "name": "Nepāl Peak",
+                  "text": "Vârf semnificativ de 7.177 de metri situat la granița zonei sălbatice Kangchenjunga.",
+                  "category": "natural",
+                  "coords": [
+                        88.18269,
+                        27.776819
+                  ]
+            },
+            {
+                  "name": "Simvo",
+                  "text": "Vârf muntos impresionant de 6.812 metri situat în partea de est a masivului Kangchenjunga.",
+                  "category": "natural",
+                  "coords": [
+                        88.240521,
+                        27.678763
+                  ]
+            },
+            {
+                  "name": "Zemu Gap Peak",
+                  "text": "Vârf de mare altitudine care atinge 7.780 de metri în apropierea masivului ghețar Zemu.",
+                  "category": "natural",
+                  "coords": [
+                        88.173915,
+                        27.687267
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga South",
+                  "text": "Vârful sudic al celui de-al treilea cel mai înalt munte din lume, având 8.476 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        88.154014,
+                        27.692277
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga Central",
+                  "text": "Vârf masiv din Himalaya care se ridică la 8.482 de metri în inima masivului Kangchenjunga.",
+                  "category": "natural",
+                  "coords": [
+                        88.150834,
+                        27.696337
+                  ]
+            },
+            {
+                  "name": "Talung",
+                  "text": "Vârf muntos ascuțit care atinge o altitudine de 7.349 de metri în regiunea Kangchenjunga.",
+                  "category": "natural",
+                  "coords": [
+                        88.131084,
+                        27.655563
+                  ]
+            },
+            {
+                  "name": "Kabru North",
+                  "text": "Vârf glaciar care se ridică la 7.412 metri ca parte a proeminentei creste Kabru.",
+                  "category": "natural",
+                  "coords": [
+                        88.118329,
+                        27.635002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yalung Kang",
+                  "text": "The 8,505-metre high western peak of the massive Kangchenjunga range.",
+                  "category": "natural",
+                  "coords": [
+                        88.137784,
+                        27.705168
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga",
+                  "text": "The world's third highest mountain peak, dominating the Himalayan horizon.",
+                  "category": "natural",
+                  "coords": [
+                        88.147477,
+                        27.703011
+                  ]
+            },
+            {
+                  "name": "Gimmigela I",
+                  "text": "Majestic 7,350-metre peak situated on the border between India and Nepal.",
+                  "category": "natural",
+                  "coords": [
+                        88.158299,
+                        27.741006
+                  ]
+            },
+            {
+                  "name": "Ramthang Lho",
+                  "text": "High Himalayan peak reaching 6,601 metres within the rugged Kangchenjunga massif.",
+                  "category": "natural",
+                  "coords": [
+                        88.093574,
+                        27.751195
+                  ]
+            },
+            {
+                  "name": "Ramthang Chang",
+                  "text": "Glaciated mountain peak rising to 6,802 metres in the remote Kangchenjunga region.",
+                  "category": "natural",
+                  "coords": [
+                        88.083591,
+                        27.765605
+                  ]
+            },
+            {
+                  "name": "Nepāl Peak",
+                  "text": "Significant 7,177-metre summit located along the boundary of the Kangchenjunga wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        88.18269,
+                        27.776819
+                  ]
+            },
+            {
+                  "name": "Simvo",
+                  "text": "Impressive 6,812-metre mountain peak standing in the eastern part of the Kangchenjunga range.",
+                  "category": "natural",
+                  "coords": [
+                        88.240521,
+                        27.678763
+                  ]
+            },
+            {
+                  "name": "Zemu Gap Peak",
+                  "text": "High-altitude summit reaching 7,780 metres near the massive Zemu Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        88.173915,
+                        27.687267
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga South",
+                  "text": "The southern peak of the world's third highest mountain, standing at 8,476 metres.",
+                  "category": "natural",
+                  "coords": [
+                        88.154014,
+                        27.692277
+                  ]
+            },
+            {
+                  "name": "Kangchenjunga Central",
+                  "text": "Massive Himalayan summit rising to 8,482 metres in the heart of the Kangchenjunga massif.",
+                  "category": "natural",
+                  "coords": [
+                        88.150834,
+                        27.696337
+                  ]
+            },
+            {
+                  "name": "Talung",
+                  "text": "Sharp mountain peak reaching an elevation of 7,349 metres in the Kangchenjunga region.",
+                  "category": "natural",
+                  "coords": [
+                        88.131084,
+                        27.655563
+                  ]
+            },
+            {
+                  "name": "Kabru North",
+                  "text": "Glaciated peak rising to 7,412 metres as part of the prominent Kabru ridge.",
+                  "category": "natural",
+                  "coords": [
+                        88.118329,
+                        27.635002
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IN-SK",
     coords: [88.1475, 27.7025],
@@ -579,7 +4386,160 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-nanda-devi-mountain-nature-v2",
+    id: "in-nanda-devi-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Devasthan II",
+                  "text": "Ein 6529 Meter hoher Gipfel, der sich innerhalb des inneren Rings des Nanda-Devi-Schutzgebiets befindet.",
+                  "category": "natural",
+                  "coords": [
+                        79.880561,
+                        30.349562
+                  ]
+            },
+            {
+                  "name": "Panwali Doar",
+                  "text": "Dieser 6663 Meter hohe Gipfel markiert einen Teil des südlichen Randes des weiten Nanda-Devi-Beckens.",
+                  "category": "natural",
+                  "coords": [
+                        79.954967,
+                        30.2902
+                  ]
+            },
+            {
+                  "name": "Nanda Khat",
+                  "text": "Ein 6611 Meter hoher Gipfel in der Nähe des Pindari-Gletschers, dessen Name übersetzt „Bett der Göttin Nanda“ bedeutet.",
+                  "category": "natural",
+                  "coords": [
+                        79.978346,
+                        30.301753
+                  ]
+            },
+            {
+                  "name": "Nanda Devi",
+                  "text": "Mit 7816 Metern ist dies der zweithöchste Berg Indiens und ein heiliger Gipfel, der von einem Nationalpark umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        79.970115,
+                        30.376077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Devasthan II",
+                  "text": "6529 méter magas csúcs a Nanda Devi menedékhely belső gyűrűjén belül.",
+                  "category": "natural",
+                  "coords": [
+                        79.880561,
+                        30.349562
+                  ]
+            },
+            {
+                  "name": "Panwali Doar",
+                  "text": "Ez a 6663 méter magas csúcs a hatalmas Nanda Devi-medence déli peremének egy részét jelöli.",
+                  "category": "natural",
+                  "coords": [
+                        79.954967,
+                        30.2902
+                  ]
+            },
+            {
+                  "name": "Nanda Khat",
+                  "text": "6611 méter magas csúcs a Pindari-gleccser közelében, amelynek neve magyarul „Nanda istennő ágyát” jelenti.",
+                  "category": "natural",
+                  "coords": [
+                        79.978346,
+                        30.301753
+                  ]
+            },
+            {
+                  "name": "Nanda Devi",
+                  "text": "7816 méteres magasságával ez India második legmagasabb hegye, egy szent csúcs, amelyet nemzeti park vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        79.970115,
+                        30.376077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Devasthan II",
+                  "text": "Un vârf de 6529 de metri situat în interiorul inelului interior al Sanctuarului Nanda Devi.",
+                  "category": "natural",
+                  "coords": [
+                        79.880561,
+                        30.349562
+                  ]
+            },
+            {
+                  "name": "Panwali Doar",
+                  "text": "Acest vârf de 6663 de metri marchează o parte a marginii sudice a vastului bazin Nanda Devi.",
+                  "category": "natural",
+                  "coords": [
+                        79.954967,
+                        30.2902
+                  ]
+            },
+            {
+                  "name": "Nanda Khat",
+                  "text": "Un vârf de 6611 metri situat lângă ghețarul Pindari, al cărui nume se traduce prin „Patul zeiței Nanda”.",
+                  "category": "natural",
+                  "coords": [
+                        79.978346,
+                        30.301753
+                  ]
+            },
+            {
+                  "name": "Nanda Devi",
+                  "text": "Cu o înălțime de 7816 metri, acesta este al doilea cel mai înalt munte din India, un vârf sacru înconjurat de un parc național.",
+                  "category": "natural",
+                  "coords": [
+                        79.970115,
+                        30.376077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Devasthan II",
+                  "text": "A 6529-metre peak located within the inner ring of the Nanda Devi Sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        79.880561,
+                        30.349562
+                  ]
+            },
+            {
+                  "name": "Panwali Doar",
+                  "text": "This 6663-metre peak marks part of the southern rim of the vast Nanda Devi basin.",
+                  "category": "natural",
+                  "coords": [
+                        79.954967,
+                        30.2902
+                  ]
+            },
+            {
+                  "name": "Nanda Khat",
+                  "text": "A 6611-metre peak near the Pindari Glacier, whose name translates to 'Bed of Goddess Nanda'.",
+                  "category": "natural",
+                  "coords": [
+                        79.978346,
+                        30.301753
+                  ]
+            },
+            {
+                  "name": "Nanda Devi",
+                  "text": "At 7816 metres, this is India's second-highest mountain and a sacred peak surrounded by a national park.",
+                  "category": "natural",
+                  "coords": [
+                        79.970115,
+                        30.376077
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IN-UT",
     coords: [79.973, 30.375],
@@ -723,7 +4683,196 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-valley-of-flowers-national-park-nature-v2",
+    id: "in-valley-of-flowers-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nilgiri Parbat",
+                  "text": "Ein majestätischer Gipfel mit 6474 Metern Höhe, der das alpine Hochtal des Valley-of-Flowers-Nationalparks überragt.",
+                  "category": "natural",
+                  "coords": [
+                        79.644135,
+                        30.783509
+                  ]
+            },
+            {
+                  "name": "Gauri Parbat",
+                  "text": "Dieser 6701 Meter hohe Gipfel im Garhwal-Himalaya ragt majestätisch über das Tal der Blumen empor.",
+                  "category": "natural",
+                  "coords": [
+                        79.699317,
+                        30.711061
+                  ]
+            },
+            {
+                  "name": "Valley of Flowers National Park",
+                  "text": "Dieses UNESCO-Welterbe ist ein hochgelegenes Himalaya-Tal, das für seine weiten Wiesen mit endemischen Alpenblumen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        79.630601,
+                        30.735444
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Hemkunt Sahib (Hemkunt)",
+                  "text": "Diese bedeutende Sikh-Pilgerstätte liegt in 4329 Metern Höhe an den Ufern eines kristallklaren Gletschersees.",
+                  "category": "religious",
+                  "coords": [
+                        79.615253,
+                        30.699302
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein friedlicher Ort der Andacht inmitten der alpinen Landschaft in der Nähe des Hemkund-Sees.",
+                  "category": "religious",
+                  "coords": [
+                        79.594204,
+                        30.701887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nilgiri Parbat",
+                  "text": "Fenséges, 6474 méter magas csúcs, amely a Virágok völgye nemzeti park alpesi völgye fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        79.644135,
+                        30.783509
+                  ]
+            },
+            {
+                  "name": "Gauri Parbat",
+                  "text": "A Garhwal-Himalájában található 6701 méter magas hegycsúcs fenségesen magasodik a Virágok völgye fölé.",
+                  "category": "natural",
+                  "coords": [
+                        79.699317,
+                        30.711061
+                  ]
+            },
+            {
+                  "name": "Valley of Flowers National Park",
+                  "text": "Ez az UNESCO világörökségi helyszín egy magashegyi himalájai völgy, amely az endemikus alpesi virágokkal teli rétjeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        79.630601,
+                        30.735444
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Hemkunt Sahib (Hemkunt)",
+                  "text": "Ez a jelentős szikh zarándokhely 4329 méter magasan fekszik egy kristálytiszta gleccsertó partján.",
+                  "category": "religious",
+                  "coords": [
+                        79.615253,
+                        30.699302
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Békés istentiszteleti hely az alpesi táj közepén, a Hemkund-tó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        79.594204,
+                        30.701887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nilgiri Parbat",
+                  "text": "Un vârf maiestuos de 6474 de metri care domină valea alpină a Parcului Național Valley of Flowers.",
+                  "category": "natural",
+                  "coords": [
+                        79.644135,
+                        30.783509
+                  ]
+            },
+            {
+                  "name": "Gauri Parbat",
+                  "text": "Acest vârf de 6701 metri din Himalaya Garhwal se înalță maiestuos deasupra Văii Florilor.",
+                  "category": "natural",
+                  "coords": [
+                        79.699317,
+                        30.711061
+                  ]
+            },
+            {
+                  "name": "Valley of Flowers National Park",
+                  "text": "Acest sit din patrimoniul mondial UNESCO este o vale înaltă din Himalaya, renumită pentru pajiștile sale cu flori alpine endemice.",
+                  "category": "natural",
+                  "coords": [
+                        79.630601,
+                        30.735444
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Hemkunt Sahib (Hemkunt)",
+                  "text": "Acest important loc de pelerinaj sikh este situat la o altitudine de 4329 de metri, pe malul unui lac glaciar cristalin.",
+                  "category": "religious",
+                  "coords": [
+                        79.615253,
+                        30.699302
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un lăcaș de cult liniștit în mijlocul peisajului alpin, situat în apropierea lacului Hemkund.",
+                  "category": "religious",
+                  "coords": [
+                        79.594204,
+                        30.701887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nilgiri Parbat",
+                  "text": "A majestic peak rising to 6,474 meters overlooking the alpine meadows of the Valley of Flowers National Park.",
+                  "category": "natural",
+                  "coords": [
+                        79.644135,
+                        30.783509
+                  ]
+            },
+            {
+                  "name": "Gauri Parbat",
+                  "text": "This 6701-metre peak in the Garhwal Himalayas towers majestically above the Valley of Flowers.",
+                  "category": "natural",
+                  "coords": [
+                        79.699317,
+                        30.711061
+                  ]
+            },
+            {
+                  "name": "Valley of Flowers National Park",
+                  "text": "This UNESCO World Heritage site is a high-altitude Himalayan valley renowned for its meadows of endemic alpine flowers.",
+                  "category": "natural",
+                  "coords": [
+                        79.630601,
+                        30.735444
+                  ]
+            },
+            {
+                  "name": "Gurudwara Sri Hemkunt Sahib (Hemkunt)",
+                  "text": "This prominent Sikh pilgrimage site is situated at an altitude of 4329 metres on the banks of a crystal-clear glacial lake.",
+                  "category": "religious",
+                  "coords": [
+                        79.615253,
+                        30.699302
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A peaceful place of worship amidst the alpine landscape, located near the Hemkund Lake.",
+                  "category": "religious",
+                  "coords": [
+                        79.594204,
+                        30.701887
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "IN-UT",
     coords: [79.6, 30.72],
@@ -771,7 +4920,268 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-wular-lake-nature-v2",
+    id: "in-wular-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prof GM Bhat",
+                  "text": "Ein Gedenkort oder eine lokale Sehenswürdigkeit in der Nähe der Ufer des Wular-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        74.672154,
+                        34.276717
+                  ]
+            },
+            {
+                  "name": "CHEWA",
+                  "text": "Ein Dorf am Ufer des Wular-Sees, bekannt für seine Fischerei und die umliegenden Feuchtgebiete.",
+                  "category": "landmark",
+                  "coords": [
+                        74.665981,
+                        34.277298
+                  ]
+            },
+            {
+                  "name": "Masjid Umar",
+                  "text": "Eine Moschee in einer ländlichen Gemeinde in der Nähe des größten Süßwassersees Indiens.",
+                  "category": "landmark",
+                  "coords": [
+                        74.600338,
+                        34.419754
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Chewa",
+                  "text": "Die zentrale Moschee des Dorfes Chewa, die als religiöser Mittelpunkt der Fischergemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.667104,
+                        34.276431
+                  ]
+            },
+            {
+                  "name": "New Colony Pahlipora Jamia Sharief",
+                  "text": "Ein bedeutendes religiöses Zentrum in der Nähe der Ufer des Wular-Sees in Pahlipora.",
+                  "category": "religious",
+                  "coords": [
+                        74.674201,
+                        34.275892
+                  ]
+            },
+            {
+                  "name": "Fruit Mandi Patushay Bandipora",
+                  "text": "Ein großer regionaler Großhandelsmarkt in Bandipora, der für den Handel mit Äpfeln bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        74.590852,
+                        34.416746
+                  ]
+            },
+            {
+                  "name": "KP Market",
+                  "text": "Ein geschäftiger lokaler Marktplatz für den täglichen Handel in der Region Bandipora.",
+                  "category": "cultural",
+                  "coords": [
+                        74.597425,
+                        34.418468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prof GM Bhat",
+                  "text": "Emlékhely oder helyi látnivaló a Wular-tó partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.672154,
+                        34.276717
+                  ]
+            },
+            {
+                  "name": "CHEWA",
+                  "text": "A Wular-tó partján fekvő falu, amely halászatáról és a környező vizes élőhelyekről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        74.665981,
+                        34.277298
+                  ]
+            },
+            {
+                  "name": "Masjid Umar",
+                  "text": "Mecset egy vidéki közösségben, India legnagyobb édesvízi tavának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.600338,
+                        34.419754
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Chewa",
+                  "text": "Chewa falu központi mecsetje, amely a halászközösség vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.667104,
+                        34.276431
+                  ]
+            },
+            {
+                  "name": "New Colony Pahlipora Jamia Sharief",
+                  "text": "Jelentős vallási központ a Wular-tó partjának közelében, Pahliporában.",
+                  "category": "religious",
+                  "coords": [
+                        74.674201,
+                        34.275892
+                  ]
+            },
+            {
+                  "name": "Fruit Mandi Patushay Bandipora",
+                  "text": "Jelentős regionális nagybani piac Bandiporában, amely az almkereskedelemről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        74.590852,
+                        34.416746
+                  ]
+            },
+            {
+                  "name": "KP Market",
+                  "text": "Nyüzsgő helyi piactér a napi kereskedelemhez Bandipora régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        74.597425,
+                        34.418468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prof GM Bhat",
+                  "text": "Un loc de comemorare sau un punct de interes local situat lângă malul lacului Wular.",
+                  "category": "landmark",
+                  "coords": [
+                        74.672154,
+                        34.276717
+                  ]
+            },
+            {
+                  "name": "CHEWA",
+                  "text": "Un sat pe malul lacului Wular, cunoscut pentru pescuit și zonele umede înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        74.665981,
+                        34.277298
+                  ]
+            },
+            {
+                  "name": "Masjid Umar",
+                  "text": "O moschee dintr-o comunitate rurală, situată lângă cel mai mare lac de apă dulce din India.",
+                  "category": "landmark",
+                  "coords": [
+                        74.600338,
+                        34.419754
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Chewa",
+                  "text": "Moscheea centrală a satului Chewa, servind drept nucleu religios pentru comunitatea de pescari.",
+                  "category": "landmark",
+                  "coords": [
+                        74.667104,
+                        34.276431
+                  ]
+            },
+            {
+                  "name": "New Colony Pahlipora Jamia Sharief",
+                  "text": "Un centru religios important situat lângă malul lacului Wular, în Pahlipora.",
+                  "category": "religious",
+                  "coords": [
+                        74.674201,
+                        34.275892
+                  ]
+            },
+            {
+                  "name": "Fruit Mandi Patushay Bandipora",
+                  "text": "O piață regională angro importantă din Bandipora, cunoscută pentru comerțul cu mere.",
+                  "category": "cultural",
+                  "coords": [
+                        74.590852,
+                        34.416746
+                  ]
+            },
+            {
+                  "name": "KP Market",
+                  "text": "O piață locală animată pentru comerțul zilnic în regiunea Bandipora.",
+                  "category": "cultural",
+                  "coords": [
+                        74.597425,
+                        34.418468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prof GM Bhat",
+                  "text": "A place of memorial or local interest situated near the shores of Wular Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        74.672154,
+                        34.276717
+                  ]
+            },
+            {
+                  "name": "CHEWA",
+                  "text": "A village on the banks of Wular Lake, known for fishing and the surrounding wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        74.665981,
+                        34.277298
+                  ]
+            },
+            {
+                  "name": "Masjid Umar",
+                  "text": "A mosque in a rural community located near India's largest freshwater lake.",
+                  "category": "landmark",
+                  "coords": [
+                        74.600338,
+                        34.419754
+                  ]
+            },
+            {
+                  "name": "Jamia Masjid Chewa",
+                  "text": "The central mosque of Chewa village, serving as the religious hub for the fishing community.",
+                  "category": "landmark",
+                  "coords": [
+                        74.667104,
+                        34.276431
+                  ]
+            },
+            {
+                  "name": "New Colony Pahlipora Jamia Sharief",
+                  "text": "A significant religious center located near the shores of Wular Lake in Pahlipora.",
+                  "category": "religious",
+                  "coords": [
+                        74.674201,
+                        34.275892
+                  ]
+            },
+            {
+                  "name": "Fruit Mandi Patushay Bandipora",
+                  "text": "A major regional wholesale market in Bandipora, known for the apple trade.",
+                  "category": "cultural",
+                  "coords": [
+                        74.590852,
+                        34.416746
+                  ]
+            },
+            {
+                  "name": "KP Market",
+                  "text": "A bustling local marketplace for daily trade in the Bandipora region.",
+                  "category": "cultural",
+                  "coords": [
+                        74.597425,
+                        34.418468
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IN-JK",
     coords: [74.6, 34.33],
@@ -819,7 +5229,412 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-dudhsagar-falls-nature-v2",
+    id: "in-dudhsagar-falls-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dudhsagar Old Station",
+                  "text": "Ein verlassener Bahnhof im Dschungel nahe der spektakulären Dudhsagar-Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        74.303145,
+                        15.320127
+                  ]
+            },
+            {
+                  "name": "Dudhsagar Swimming area",
+                  "text": "Ein natürliches Badebecken am Fuße des Wasserfalls, umgeben von dichtem Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        74.31383,
+                        15.311905
+                  ]
+            },
+            {
+                  "name": "Dudhsagar Falls",
+                  "text": "Ein gewaltiger vierstufiger Wasserfall am Fluss Mandovi in den Westghats.",
+                  "category": "landmark",
+                  "coords": [
+                        74.314249,
+                        15.315618
+                  ]
+            },
+            {
+                  "name": "Devil's Canyon",
+                  "text": "Eine tiefe Schlucht mit reißenden Strömungen unterhalb der Dudhsagar-Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        74.262261,
+                        15.339331
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahaveer Wildlife sanctuary",
+                  "text": "Ein großes Wildschutzgebiet in den Westghats, Heimat von Leoparden und indischen Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        74.249567,
+                        15.340113
+                  ]
+            },
+            {
+                  "name": "Elephant ride",
+                  "text": "Ein Erlebniszentrum im Wald, das geführte Elefantenritte in der Natur anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.245497,
+                        15.337705
+                  ]
+            },
+            {
+                  "name": "Jungle Book",
+                  "text": "Ein Öko-Themenpark inmitten des Dschungels, der Naturerlebnisse und Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        74.244648,
+                        15.336598
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahavir WLS ESZ (South)",
+                  "text": "Ein wichtiges Öko-Schutzzone im südlichen Teil des Bhagwan-Mahavir-Wildschutzgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        74.183735,
+                        15.313049
+                  ]
+            },
+            {
+                  "name": "Mollem NP ESZ",
+                  "text": "Das ökologische Puffergebiet des Mollem-Nationalparks mit reicher Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        74.237437,
+                        15.351635
+                  ]
+            },
+            {
+                  "name": "Mahamaya Brahmani Temple",
+                  "text": "Ein antiker Waldtempel, der den Göttinnen Mahamaya und Brahmani geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.189092,
+                        15.35756
+                  ]
+            },
+            {
+                  "name": "Gavladevi Temple",
+                  "text": "Ein abgelegener hinduistischer Waldtempel, der der lokalen Gottheit Gavladevi gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        74.301956,
+                        15.263944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dudhsagar Old Station",
+                  "text": "Elhagyatott vasútállomás a dzsungelben, a látványos Dudhsagar-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        74.303145,
+                        15.320127
+                  ]
+            },
+            {
+                  "name": "Dudhsagar Swimming area",
+                  "text": "Természetes medence a vízesés lábánál, sűrű erdővel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        74.31383,
+                        15.311905
+                  ]
+            },
+            {
+                  "name": "Dudhsagar Falls",
+                  "text": "Hatalmas, négy lépcsős vízesés a Nyugati-Ghatok hegységben, a Mandovi-folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        74.314249,
+                        15.315618
+                  ]
+            },
+            {
+                  "name": "Devil's Canyon",
+                  "text": "Mély szurdok sebes vizű áramlatokkal a Dudhsagar-vízesés alatti szakaszon.",
+                  "category": "landmark",
+                  "coords": [
+                        74.262261,
+                        15.339331
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahaveer Wildlife sanctuary",
+                  "text": "Hatalmas vadrezervátum a Nyugati-Ghatokban, leopárdok és gaurtülköshangyák otthona.",
+                  "category": "landmark",
+                  "coords": [
+                        74.249567,
+                        15.340113
+                  ]
+            },
+            {
+                  "name": "Elephant ride",
+                  "text": "Erdei élményközpont, ahol vezetett elefánthátas túrákat kínálnak a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        74.245497,
+                        15.337705
+                  ]
+            },
+            {
+                  "name": "Jungle Book",
+                  "text": "Öko-élménypark a dzsungel közepén, amely természeti kalandokat és pihenést kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        74.244648,
+                        15.336598
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahavir WLS ESZ (South)",
+                  "text": "Fontos ökológiai védőövezet a Bhagwan Mahavir vadrezervátum déli részén.",
+                  "category": "natural",
+                  "coords": [
+                        74.183735,
+                        15.313049
+                  ]
+            },
+            {
+                  "name": "Mollem NP ESZ",
+                  "text": "A Mollem Nemzeti Park ökológiai pufferzónája gazdag biológiai sokféleséggel.",
+                  "category": "natural",
+                  "coords": [
+                        74.237437,
+                        15.351635
+                  ]
+            },
+            {
+                  "name": "Mahamaya Brahmani Temple",
+                  "text": "Ősi erdei templom, amelyet Mahamaya és Brahmani istennőknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.189092,
+                        15.35756
+                  ]
+            },
+            {
+                  "name": "Gavladevi Temple",
+                  "text": "Elszigetelt erdei hindu templom, amelyet a helyi Gavladevi istenségnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        74.301956,
+                        15.263944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dudhsagar Old Station",
+                  "text": "O gară abandonată în junglă, situată în apropierea spectaculoasei cascade Dudhsagar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.303145,
+                        15.320127
+                  ]
+            },
+            {
+                  "name": "Dudhsagar Swimming area",
+                  "text": "O zonă naturală de înot la baza cascadei, înconjurată de pădure deasă.",
+                  "category": "landmark",
+                  "coords": [
+                        74.31383,
+                        15.311905
+                  ]
+            },
+            {
+                  "name": "Dudhsagar Falls",
+                  "text": "O cascadă masivă cu patru trepte pe râul Mandovi, în munții Ghats de Vest.",
+                  "category": "landmark",
+                  "coords": [
+                        74.314249,
+                        15.315618
+                  ]
+            },
+            {
+                  "name": "Devil's Canyon",
+                  "text": "Un canion adânc cu curenți puternici, situat în aval de cascada Dudhsagar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.262261,
+                        15.339331
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahaveer Wildlife sanctuary",
+                  "text": "O rezervație vastă de faună sălbatică în munții Ghats de Vest, habitat pentru leoparzi și gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        74.249567,
+                        15.340113
+                  ]
+            },
+            {
+                  "name": "Elephant ride",
+                  "text": "Un punct de atracție în pădure care oferă plimbări ghidate pe elefanți în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        74.245497,
+                        15.337705
+                  ]
+            },
+            {
+                  "name": "Jungle Book",
+                  "text": "Un parc tematic ecologic în inima junglei, oferind experiențe în natură și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        74.244648,
+                        15.336598
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahavir WLS ESZ (South)",
+                  "text": "O zonă eco-sensibilă importantă în partea de sud a rezervației Bhagwan Mahaveer.",
+                  "category": "natural",
+                  "coords": [
+                        74.183735,
+                        15.313049
+                  ]
+            },
+            {
+                  "name": "Mollem NP ESZ",
+                  "text": "Zona tampon ecologică a Parcului Național Mollem, cu o biodiversitate bogată.",
+                  "category": "natural",
+                  "coords": [
+                        74.237437,
+                        15.351635
+                  ]
+            },
+            {
+                  "name": "Mahamaya Brahmani Temple",
+                  "text": "Un templu antic în pădure, dedicat zeițelor Mahamaya și Brahmani.",
+                  "category": "landmark",
+                  "coords": [
+                        74.189092,
+                        15.35756
+                  ]
+            },
+            {
+                  "name": "Gavladevi Temple",
+                  "text": "Un templu hindus izolat în pădure, dedicat divinității locale Gavladevi.",
+                  "category": "landmark",
+                  "coords": [
+                        74.301956,
+                        15.263944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dudhsagar Old Station",
+                  "text": "An abandoned railway station in the jungle near the spectacular Dudhsagar Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        74.303145,
+                        15.320127
+                  ]
+            },
+            {
+                  "name": "Dudhsagar Swimming area",
+                  "text": "A natural swimming pool at the base of the waterfall, surrounded by dense forest.",
+                  "category": "landmark",
+                  "coords": [
+                        74.31383,
+                        15.311905
+                  ]
+            },
+            {
+                  "name": "Dudhsagar Falls",
+                  "text": "A massive four-tiered waterfall on the Mandovi River in the Western Ghats.",
+                  "category": "landmark",
+                  "coords": [
+                        74.314249,
+                        15.315618
+                  ]
+            },
+            {
+                  "name": "Devil's Canyon",
+                  "text": "A deep canyon with rushing currents located downstream from the Dudhsagar Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        74.262261,
+                        15.339331
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahaveer Wildlife sanctuary",
+                  "text": "A large wildlife sanctuary in the Western Ghats, home to leopards and Indian gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        74.249567,
+                        15.340113
+                  ]
+            },
+            {
+                  "name": "Elephant ride",
+                  "text": "A forest attraction offering guided elephant rides within the natural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        74.245497,
+                        15.337705
+                  ]
+            },
+            {
+                  "name": "Jungle Book",
+                  "text": "An eco-themed park in the heart of the jungle, offering nature experiences and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        74.244648,
+                        15.336598
+                  ]
+            },
+            {
+                  "name": "Bhagwan Mahavir WLS ESZ (South)",
+                  "text": "An important eco-sensitive zone in the southern part of the Bhagwan Mahaveer Sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        74.183735,
+                        15.313049
+                  ]
+            },
+            {
+                  "name": "Mollem NP ESZ",
+                  "text": "The ecological buffer zone of the Mollem National Park featuring rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        74.237437,
+                        15.351635
+                  ]
+            },
+            {
+                  "name": "Mahamaya Brahmani Temple",
+                  "text": "An ancient forest temple dedicated to the goddesses Mahamaya and Brahmani.",
+                  "category": "landmark",
+                  "coords": [
+                        74.189092,
+                        15.35756
+                  ]
+            },
+            {
+                  "name": "Gavladevi Temple",
+                  "text": "A secluded forest Hindu temple dedicated to the local deity Gavladevi.",
+                  "category": "landmark",
+                  "coords": [
+                        74.301956,
+                        15.263944
+                  ]
+            }
+      ]
+},
     type: "waterfall",
     parent: "IN-GA",
     coords: [74.25, 15.3144],
@@ -867,7 +5682,268 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-loktak-lake-nature-v2",
+    id: "in-loktak-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Langjingmanbi Reserved Forest",
+                  "text": "Ein geschütztes Waldgebiet am Ufer des Loktak-Sees, das die einheimische Flora und Vogelarten bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        93.729479,
+                        24.531936
+                  ]
+            },
+            {
+                  "name": "Chaoba ching",
+                  "text": "Ein malerischer Aussichtspunkt auf einem Hügel, der einen Panoramablick auf die schwimmenden Inseln (Phumdis) des Loktak-Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        93.832957,
+                        24.532612
+                  ]
+            },
+            {
+                  "name": "Boottour on the lake",
+                  "text": "Ein geführter Bootsausflug durch das Labyrinth der schwimmenden Schilfinseln auf dem weiten Loktak-See.",
+                  "category": "natural",
+                  "coords": [
+                        93.797524,
+                        24.518998
+                  ]
+            },
+            {
+                  "name": "Sangai viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über den Loktak-See und seine einzigartigen schwimmenden Inseln aus Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        93.816652,
+                        24.472955
+                  ]
+            },
+            {
+                  "name": "Keibul Lamjao National Park entrance",
+                  "text": "Der Eingang zum weltweit einzigen schwimmenden Nationalpark, der die seltenen Sangai-Hirsche beheimatet.",
+                  "category": "natural",
+                  "coords": [
+                        93.808281,
+                        24.479835
+                  ]
+            },
+            {
+                  "name": "INA Museum",
+                  "text": "Das Museum dokumentiert die Geschichte der indischen Nationalarmee, die hier 1944 erstmals die Nationalflagge hisste.",
+                  "category": "museum",
+                  "coords": [
+                        93.776882,
+                        24.502255
+                  ]
+            },
+            {
+                  "name": "Keibul Lamjao National Park",
+                  "text": "Der weltweit einzige schwimmende Nationalpark besteht aus dicken Schichten organischer Substanz, den sogenannten Phumdis.",
+                  "category": "natural",
+                  "coords": [
+                        93.843168,
+                        24.484866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Langjingmanbi Reserved Forest",
+                  "text": "Védett erdőterület a Loktak-tó partján, amely megőrzi az őshonos növényvilágot és madárfajokat.",
+                  "category": "natural",
+                  "coords": [
+                        93.729479,
+                        24.531936
+                  ]
+            },
+            {
+                  "name": "Chaoba ching",
+                  "text": "Festői dombi kilátó, ahonnan panorámás kilátás nyílik a Loktak-tó úszó szigeteire (phumdi).",
+                  "category": "natural",
+                  "coords": [
+                        93.832957,
+                        24.532612
+                  ]
+            },
+            {
+                  "name": "Boottour on the lake",
+                  "text": "Vezetett csónaktúra a hatalmas Loktak-tó úszó nádszigeteinek labirintusán keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        93.797524,
+                        24.518998
+                  ]
+            },
+            {
+                  "name": "Sangai viewpoint",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik a Loktak-tóra és annak különleges, úszó növényi szigeteire.",
+                  "category": "natural",
+                  "coords": [
+                        93.816652,
+                        24.472955
+                  ]
+            },
+            {
+                  "name": "Keibul Lamjao National Park entrance",
+                  "text": "A világ egyetlen úszó nemzeti parkjának bejárata, amely a ritka sangai szarvasok élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        93.808281,
+                        24.479835
+                  ]
+            },
+            {
+                  "name": "INA Museum",
+                  "text": "Az Indiai Nemzeti Hadsereg történetét bemutató múzeum, ahol 1944-ben először vonták fel a nemzeti lobogót.",
+                  "category": "museum",
+                  "coords": [
+                        93.776882,
+                        24.502255
+                  ]
+            },
+            {
+                  "name": "Keibul Lamjao National Park",
+                  "text": "A világ egyetlen úszó nemzeti parkja, amely vastag, úszó növényi szőnyegekből, úgynevezett phumdikból áll.",
+                  "category": "natural",
+                  "coords": [
+                        93.843168,
+                        24.484866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Langjingmanbi Reserved Forest",
+                  "text": "O zonă forestieră protejată pe malul lacului Loktak, conservând flora nativă și speciile de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        93.729479,
+                        24.531936
+                  ]
+            },
+            {
+                  "name": "Chaoba ching",
+                  "text": "Un punct de belvedere pitoresc pe deal, oferind vederi panoramice asupra insulelor plutitoare (phumdis) ale lacului Loktak.",
+                  "category": "natural",
+                  "coords": [
+                        93.832957,
+                        24.532612
+                  ]
+            },
+            {
+                  "name": "Boottour on the lake",
+                  "text": "O excursie cu barca cu ghid prin labirintul de insule de stuf plutitoare de pe vastul lac Loktak.",
+                  "category": "natural",
+                  "coords": [
+                        93.797524,
+                        24.518998
+                  ]
+            },
+            {
+                  "name": "Sangai viewpoint",
+                  "text": "Un punct de observație ce oferă o panoramă spectaculoasă asupra lacului Loktak și a insulelor sale plutitoare de vegetație.",
+                  "category": "natural",
+                  "coords": [
+                        93.816652,
+                        24.472955
+                  ]
+            },
+            {
+                  "name": "Keibul Lamjao National Park entrance",
+                  "text": "Intrarea în singurul parc național plutitor din lume, habitatul rarului cerb Sangai.",
+                  "category": "natural",
+                  "coords": [
+                        93.808281,
+                        24.479835
+                  ]
+            },
+            {
+                  "name": "INA Museum",
+                  "text": "Muzeul prezintă istoria Armatei Naționale Indiene, care a arborat aici pentru prima dată drapelul național în 1944.",
+                  "category": "museum",
+                  "coords": [
+                        93.776882,
+                        24.502255
+                  ]
+            },
+            {
+                  "name": "Keibul Lamjao National Park",
+                  "text": "Singurul parc național plutitor din lume, format din straturi groase de vegetație descompusă numite phumdi.",
+                  "category": "natural",
+                  "coords": [
+                        93.843168,
+                        24.484866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Langjingmanbi Reserved Forest",
+                  "text": "A protected forest area on the shores of Loktak Lake, preserving native flora and bird species.",
+                  "category": "natural",
+                  "coords": [
+                        93.729479,
+                        24.531936
+                  ]
+            },
+            {
+                  "name": "Chaoba ching",
+                  "text": "A scenic hill viewpoint offering panoramic vistas of the floating islands (phumdis) of Loktak Lake.",
+                  "category": "natural",
+                  "coords": [
+                        93.832957,
+                        24.532612
+                  ]
+            },
+            {
+                  "name": "Boottour on the lake",
+                  "text": "A guided boat excursion through the labyrinth of floating reed islands on the vast Loktak Lake.",
+                  "category": "natural",
+                  "coords": [
+                        93.797524,
+                        24.518998
+                  ]
+            },
+            {
+                  "name": "Sangai viewpoint",
+                  "text": "This vantage point offers panoramic views over Loktak Lake and its unique floating islands of vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        93.816652,
+                        24.472955
+                  ]
+            },
+            {
+                  "name": "Keibul Lamjao National Park entrance",
+                  "text": "The entrance to the world's only floating national park, home to the rare and endangered Sangai deer.",
+                  "category": "natural",
+                  "coords": [
+                        93.808281,
+                        24.479835
+                  ]
+            },
+            {
+                  "name": "INA Museum",
+                  "text": "This museum commemorates the Indian National Army, which first hoisted the Indian tricolour on this soil in 1944.",
+                  "category": "museum",
+                  "coords": [
+                        93.776882,
+                        24.502255
+                  ]
+            },
+            {
+                  "name": "Keibul Lamjao National Park",
+                  "text": "The world's only floating national park, famous for its unique ecosystem of floating vegetation masses called phumdis.",
+                  "category": "natural",
+                  "coords": [
+                        93.843168,
+                        24.484866
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "IN-MN",
     coords: [93.8, 24.5],
@@ -915,7 +5991,232 @@ export const poiExtraIndiaNatureV2: POI[] = [
     },
   },
   {
-    id: "in-godavari-river-nature-v2",
+    id: "in-godavari-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Calvary Bible Church",
+                  "text": "Eine christliche Gemeinde, die sich in der Nähe der Ufer des heiligen Flusses Godavari versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        78.542212,
+                        18.550739
+                  ]
+            },
+            {
+                  "name": "Pochamma Temple",
+                  "text": "Ein traditioneller hinduistischer Schrein, der der lokalen Göttin gewidmet ist und in der Flussregion liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        78.53999,
+                        18.549299
+                  ]
+            },
+            {
+                  "name": "Kotha Thirupathi",
+                  "text": "Ein hinduistischer Tempel, der die spirituelle Atmosphäre von Tirupati an die Ufer des Godavari bringt.",
+                  "category": "landmark",
+                  "coords": [
+                        78.518751,
+                        18.467134
+                  ]
+            },
+            {
+                  "name": "Shivalayam",
+                  "text": "Ein klassischer hinduistischer Tempel, der Lord Shiva gewidmet ist und sich im ruhigen Flusstal befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        78.540539,
+                        18.523052
+                  ]
+            },
+            {
+                  "name": "Ganga Mata Temple",
+                  "text": "Ein hinduistisches Heiligtum, das die Flussgöttin verehrt und im Einklang mit seiner Lage am Wasserlauf des Godavari steht.",
+                  "category": "landmark",
+                  "coords": [
+                        78.541818,
+                        18.522718
+                  ]
+            },
+            {
+                  "name": "Jagadamba Temple",
+                  "text": "Ein farbenfroher hinduistischer Tempel, der der Mutter des Universums in einer malerischen Flusslandschaft gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        78.536849,
+                        18.538881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Calvary Bible Church",
+                  "text": "Egy keresztény gyülekezet, amely a szent Godavari folyó partja közelében találkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        78.542212,
+                        18.550739
+                  ]
+            },
+            {
+                  "name": "Pochamma Temple",
+                  "text": "A helyi istennőnek szentelt hagyományos hindu szentély a folyóvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        78.53999,
+                        18.549299
+                  ]
+            },
+            {
+                  "name": "Kotha Thirupathi",
+                  "text": "Egy hindu templom, amely Tirupati spirituális atmoszféráját hozza el a Godavari partjára.",
+                  "category": "landmark",
+                  "coords": [
+                        78.518751,
+                        18.467134
+                  ]
+            },
+            {
+                  "name": "Shivalayam",
+                  "text": "Egy klasszikus hindu templom, amelyet Lord Shivának szenteltek a csendes folyóvölgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        78.540539,
+                        18.523052
+                  ]
+            },
+            {
+                  "name": "Ganga Mata Temple",
+                  "text": "Egy hindu szentély, amely a folyó istennőjét tiszteli, harmóniában a Godavari vízfolyás melletti elhelyezkedésével.",
+                  "category": "landmark",
+                  "coords": [
+                        78.541818,
+                        18.522718
+                  ]
+            },
+            {
+                  "name": "Jagadamba Temple",
+                  "text": "Egy színes hindu templom az univerzum anyjának szentelve egy festői folyami környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        78.536849,
+                        18.538881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Calvary Bible Church",
+                  "text": "O congregație creștină care se adună lângă malurile râului sacru Godavari.",
+                  "category": "landmark",
+                  "coords": [
+                        78.542212,
+                        18.550739
+                  ]
+            },
+            {
+                  "name": "Pochamma Temple",
+                  "text": "Un altar hindus tradițional dedicat zeiței locale, situat în regiunea râului.",
+                  "category": "landmark",
+                  "coords": [
+                        78.53999,
+                        18.549299
+                  ]
+            },
+            {
+                  "name": "Kotha Thirupathi",
+                  "text": "Un templu hindus care aduce atmosfera spirituală din Tirupati pe malurile râului Godavari.",
+                  "category": "landmark",
+                  "coords": [
+                        78.518751,
+                        18.467134
+                  ]
+            },
+            {
+                  "name": "Shivalayam",
+                  "text": "Un templu hindus clasic dedicat Lordului Shiva, situat în valea liniștită a râului.",
+                  "category": "landmark",
+                  "coords": [
+                        78.540539,
+                        18.523052
+                  ]
+            },
+            {
+                  "name": "Ganga Mata Temple",
+                  "text": "Un sanctuar hindus care venerează zeița râului, armonizându-se cu locația sa de lângă cursul de apă Godavari.",
+                  "category": "landmark",
+                  "coords": [
+                        78.541818,
+                        18.522718
+                  ]
+            },
+            {
+                  "name": "Jagadamba Temple",
+                  "text": "Un templu hindus colorat dedicat mamei universului într-un cadru pitoresc pe râu.",
+                  "category": "landmark",
+                  "coords": [
+                        78.536849,
+                        18.538881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Calvary Bible Church",
+                  "text": "A Christian congregation meeting near the banks of the sacred Godavari river.",
+                  "category": "landmark",
+                  "coords": [
+                        78.542212,
+                        18.550739
+                  ]
+            },
+            {
+                  "name": "Pochamma Temple",
+                  "text": "A traditional Hindu shrine dedicated to the local goddess, situated in the river region.",
+                  "category": "landmark",
+                  "coords": [
+                        78.53999,
+                        18.549299
+                  ]
+            },
+            {
+                  "name": "Kotha Thirupathi",
+                  "text": "A Hindu temple bringing the spiritual atmosphere of Tirupati to the Godavari riverbanks.",
+                  "category": "landmark",
+                  "coords": [
+                        78.518751,
+                        18.467134
+                  ]
+            },
+            {
+                  "name": "Shivalayam",
+                  "text": "A classical Hindu temple dedicated to Lord Shiva, located in the serene river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        78.540539,
+                        18.523052
+                  ]
+            },
+            {
+                  "name": "Ganga Mata Temple",
+                  "text": "A Hindu sanctuary revering the river goddess, harmonizing with its location near the Godavari watercourse.",
+                  "category": "landmark",
+                  "coords": [
+                        78.541818,
+                        18.522718
+                  ]
+            },
+            {
+                  "name": "Jagadamba Temple",
+                  "text": "A colorful Hindu temple dedicated to the mother of the universe in a scenic river setting.",
+                  "category": "landmark",
+                  "coords": [
+                        78.536849,
+                        18.538881
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "IN-MH",
     coords: [78.5, 18.5],

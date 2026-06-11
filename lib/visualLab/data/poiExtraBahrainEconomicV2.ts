@@ -298,7 +298,160 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       fr: ["Fondation : 1977 par l'OAPEC (Organisation des pays arabes exportateurs de pétrole)", "Lieu : Hidd, Bahreïn", "Installation principale : Cale sèche d'une capacité de 500 000 DWT", "Autres installations : Deux docks flottants, deux cales de halage", "Services : Réparation navale, conversions, services offshore et navals", "Employés : Plus de 5 000 employés (sous-traitants inclus)", "Certifications : ISO 9001 (Qualité), ISO 14001 (Environnement), OHSAS 18001 (Sécurité)", "Importance : Centre stratégique de services maritimes dans le golfe Persique"],
     }, image: "/poi-images/bahrain-asry-economic-v2.webp"},
   {
-    id: "bahrain-mina-salman-economic-v2",
+    id: "bahrain-mina-salman-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Golden Gallery",
+                  "text": "Die Golden Gallery in Mina Salman zeigt eine Vielzahl von Kunstwerken und kreativen Stücken in einem professionellen Rahmen.",
+                  "category": "museum",
+                  "coords": [
+                        50.596734,
+                        26.201778
+                  ]
+            },
+            {
+                  "name": "Bashar Gallery",
+                  "text": "Diese Kunstgalerie in Mina Salman bietet zeitgenössischen Künstlern Raum, ihre Werke der Öffentlichkeit zu präsentieren.",
+                  "category": "museum",
+                  "coords": [
+                        50.592549,
+                        26.206788
+                  ]
+            },
+            {
+                  "name": "Arabesque Art Gallery",
+                  "text": "Die Arabesque Art Gallery ist auf regionale Kunststile spezialisiert und ein kultureller Höhepunkt in Mina Salman.",
+                  "category": "museum",
+                  "coords": [
+                        50.592147,
+                        26.203954
+                  ]
+            },
+            {
+                  "name": "Jafar Al Sadiq Mosque",
+                  "text": "Die Jafar-Al-Sadiq-Moschee ist ein lokales islamisches Gotteshaus im Viertel Mina Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        50.614984,
+                        26.212157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Golden Gallery",
+                  "text": "A Mina Salmanban található Golden Gallery különféle műalkotásokat és kreatív darabokat mutat be professzionális környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        50.596734,
+                        26.201778
+                  ]
+            },
+            {
+                  "name": "Bashar Gallery",
+                  "text": "Ez a Mina Salman-i művészeti galéria helyet biztosít a kortárs művészek számára, hogy bemutassák munkáikat a közönségnek.",
+                  "category": "museum",
+                  "coords": [
+                        50.592549,
+                        26.206788
+                  ]
+            },
+            {
+                  "name": "Arabesque Art Gallery",
+                  "text": "Az Arabesque Art Gallery regionális művészeti stílusokra specializálódott, és Mina Salman egyik kulturális fénypontja.",
+                  "category": "museum",
+                  "coords": [
+                        50.592147,
+                        26.203954
+                  ]
+            },
+            {
+                  "name": "Jafar Al Sadiq Mosque",
+                  "text": "A Jafar Al Sadiq mecset egy helyi iszlám istentiszteleti hely Mina Salman negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.614984,
+                        26.212157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golden Gallery",
+                  "text": "Golden Gallery din Mina Salman expune o varietate de opere de artă și piese creative într-un cadru profesional.",
+                  "category": "museum",
+                  "coords": [
+                        50.596734,
+                        26.201778
+                  ]
+            },
+            {
+                  "name": "Bashar Gallery",
+                  "text": "Această galerie de artă din Mina Salman oferă un spațiu artiștilor contemporani pentru a-și prezenta lucrările publicului.",
+                  "category": "museum",
+                  "coords": [
+                        50.592549,
+                        26.206788
+                  ]
+            },
+            {
+                  "name": "Arabesque Art Gallery",
+                  "text": "Arabesque Art Gallery este specializată în stiluri de artă regională și reprezintă un punct culminant cultural în Mina Salman.",
+                  "category": "museum",
+                  "coords": [
+                        50.592147,
+                        26.203954
+                  ]
+            },
+            {
+                  "name": "Jafar Al Sadiq Mosque",
+                  "text": "Moscheea Jafar Al Sadiq este un lăcaș de cult islamic local situat în districtul Mina Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        50.614984,
+                        26.212157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golden Gallery",
+                  "text": "Golden Gallery in Mina Salman displays a variety of artworks and creative pieces in a professional setting.",
+                  "category": "museum",
+                  "coords": [
+                        50.596734,
+                        26.201778
+                  ]
+            },
+            {
+                  "name": "Bashar Gallery",
+                  "text": "This art gallery in Mina Salman offers a space for contemporary artists to showcase their work to the public.",
+                  "category": "museum",
+                  "coords": [
+                        50.592549,
+                        26.206788
+                  ]
+            },
+            {
+                  "name": "Arabesque Art Gallery",
+                  "text": "Arabesque Art Gallery specializes in regional art styles and is a cultural highlight in Mina Salman.",
+                  "category": "museum",
+                  "coords": [
+                        50.592147,
+                        26.203954
+                  ]
+            },
+            {
+                  "name": "Jafar Al Sadiq Mosque",
+                  "text": "The Jafar Al Sadiq Mosque is a local Islamic place of worship located in the Mina Salman district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.614984,
+                        26.212157
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "BH-13",
     coords: [50.5980, 26.2080],
@@ -596,7 +749,52 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       fr: ["Fondation : 1987 (sous le nom de Bahrain Stock Exchange)", "Lieu : Bahrain Financial Harbour, Manama", "Instruments cotés : Actions, obligations conventionnelles, Sukuk (obligations islamiques), fonds d'investissement", "Indice boursier : Bahrain All Share Index (BASI)", "Autorité de régulation : Banque centrale de Bahreïn", "Affiliations : World Federation of Exchanges (WFE), Arab Federation of Exchanges (AFE)", "Numérisation : Mise en œuvre du système de négociation X-Stream du NASDAQ", "Objectif : Devenir la principale place de marché régionale pour la levée de capitaux"],
     }, image: "/poi-images/bahrain-bourse-economic-v2.webp"},
   {
-    id: "bahrain-awali-oilfield-economic-v2",
+    id: "bahrain-awali-oilfield-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oil Museum",
+                  "text": "Dieses 1992 eröffnete Museum in der Nähe des Awali-Ölfelds zeigt die Geschichte und die Ausrüstung der bahrainischen Erdölindustrie.",
+                  "category": "museum",
+                  "coords": [
+                        50.552404,
+                        26.027452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oil Museum",
+                  "text": "Az 1992-ben megnyílt múzeum az Awali olajmező közelében mutatja be a bahreini kőolajipar történetét és eszközeit.",
+                  "category": "museum",
+                  "coords": [
+                        50.552404,
+                        26.027452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oil Museum",
+                  "text": "Deschis în 1992, acest muzeu din apropierea câmpului petrolier Awali prezintă istoria și echipamentele industriei petroliere din Bahrain.",
+                  "category": "museum",
+                  "coords": [
+                        50.552404,
+                        26.027452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oil Museum",
+                  "text": "Opened in 1992, this museum showcases the history and equipment of Bahrain's petroleum industry near the Awali oilfield.",
+                  "category": "museum",
+                  "coords": [
+                        50.552404,
+                        26.027452
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BH-14",
     coords: [50.5500, 26.0330],
@@ -714,7 +912,52 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       fr: ["Type : Independent Water and Power Plant (IWPP)", "Emplacement : Al Dur, côte sud de Bahreïn", "Phase I (2012) : 1 234 MW d'électricité, 218 000 mètres cubes/jour d'eau", "Phase II (2021) : 1 500 MW d'électricité et 227 000 mètres cubes/jour d'eau supplémentaires", "Technologie électrique : cycle combiné gaz-vapeur (CCGT)", "Technologie de l'eau : osmose inverse (RO)", "Combustible : gaz naturel", "Importance : l'un des plus grands projets de dessalement et de centrale électrique de la région"],
     }, image: "/poi-images/bahrain-aldur-power-economic-v2.webp"},
   {
-    id: "bahrain-hidd-power-economic-v2",
+    id: "bahrain-hidd-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "TerraFirma Spc office",
+                  "text": "Ein modernes Bürogebäude im Industriegebiet von Hidd auf der Insel Muharraq.",
+                  "category": "landmark",
+                  "coords": [
+                        50.674818,
+                        26.223042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "TerraFirma Spc office",
+                  "text": "Modern irodaépület Hidd ipari negyedében, Muharraq szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.674818,
+                        26.223042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "TerraFirma Spc office",
+                  "text": "O clădire modernă de birouri în zona industrială Hidd de pe insula Muharraq.",
+                  "category": "landmark",
+                  "coords": [
+                        50.674818,
+                        26.223042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "TerraFirma Spc office",
+                  "text": "A modern office building located in the industrial Hidd area of Muharraq Island.",
+                  "category": "landmark",
+                  "coords": [
+                        50.674818,
+                        26.223042
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BH-15",
     coords: [50.6750, 26.2200],
@@ -773,7 +1016,88 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       fr: ["Lieu : Île de Muharraq, Hidd", "Type : Cogénération (électricité et eau)", "Phases de construction : Phase 1 (1999), Phase 2 (2004), Phase 3 (eau, 2007)", "Capacité électrique : env. 1 000 MW", "Capacité en eau : env. 409 000 mètres cubes/jour", "Technologie électrique : Turbines à gaz", "Technologie de l'eau : Distillation flash multi-étages (MSF)", "Privatisation : Fait partie du premier modèle IWPP (Independent Water and Power Producer) à Bahreïn"],
     }, image: "/poi-images/bahrain-hidd-power-economic-v2.webp"},
   {
-    id: "bahrain-sitra-power-economic-v2",
+    id: "bahrain-sitra-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tubli Bay",
+                  "text": "Eine ökologisch wichtige Bucht, die von Mangroven geschützt wird und verschiedenen Zugvögeln als Heimat dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.591653,
+                        26.167225
+                  ]
+            },
+            {
+                  "name": "Sitra Grand",
+                  "text": "Ein großes islamisches Gotteshaus für die Gemeinschaft im Industriegebiet von Sitra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.608105,
+                        26.160974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tubli Bay",
+                  "text": "Ökológiailag fontos öböl, amelyet mangroveerdők védenek, és számos költöző madár otthona.",
+                  "category": "landmark",
+                  "coords": [
+                        50.591653,
+                        26.167225
+                  ]
+            },
+            {
+                  "name": "Sitra Grand",
+                  "text": "Nagy iszlám istentiszteleti hely, amely Sitra ipari területének közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        50.608105,
+                        26.160974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tubli Bay",
+                  "text": "Un golf de importanță ecologică, adăpostit de mangrove și gazdă pentru diverse păsări migratoare.",
+                  "category": "landmark",
+                  "coords": [
+                        50.591653,
+                        26.167225
+                  ]
+            },
+            {
+                  "name": "Sitra Grand",
+                  "text": "Un mare lăcaș de cult islamic care deservește comunitatea din zona industrială Sitra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.608105,
+                        26.160974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tubli Bay",
+                  "text": "An ecologically important bay sheltered by mangroves and home to diverse migratory birds.",
+                  "category": "landmark",
+                  "coords": [
+                        50.591653,
+                        26.167225
+                  ]
+            },
+            {
+                  "name": "Sitra Grand",
+                  "text": "A large Islamic place of worship serving the community in the industrial area of Sitra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.608105,
+                        26.160974
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "BH-13",
     coords: [50.6120, 26.1550],
@@ -951,7 +1275,124 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       fr: ["Statut : Complexe industriel de premier plan", "Emplacement : Hidd, Bahreïn", "Intègre : BIIP, BLZ, BIW", "Superficie totale : Plus de 11 millions de mètres carrés", "Éponyme : Prince héritier Salman bin Hamad Al Khalifa", "Rôle stratégique : Élément central de la Vision économique de Bahreïn 2030", "Objectif : Créer un centre industriel et logistique compétitif à l'échelle mondiale", "Infrastructure : Connexion directe au port Khalifa Bin Salman et à l'aéroport international"],
     }, image: "/poi-images/bahrain-salman-industrial-city-economic-v2.webp"},
   {
-    id: "bahrain-maameer-industrial-economic-v2",
+    id: "bahrain-maameer-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Hassan",
+                  "text": "Al-Hassan ist ein spezieller muslimischer Gebetsraum inmitten der weitläufigen Industriekomplexe der Maameer-Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        50.593899,
+                        26.134896
+                  ]
+            },
+            {
+                  "name": "Shake Kalaiff",
+                  "text": "Shake Kalaiff bietet den Arbeitern und Bewohnern des Industriegebiets Maameer einen lokalen islamischen religiösen Treffpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.596271,
+                        26.135419
+                  ]
+            },
+            {
+                  "name": "Sheik Ahmed",
+                  "text": "Dieses muslimische Gotteshaus dient als spiritueller Ankerpunkt mit klassischen lokalen Designelementen in der Industrieregion Maameer.",
+                  "category": "landmark",
+                  "coords": [
+                        50.59852,
+                        26.136343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Hassan",
+                  "text": "Al-Hassan egy dedikált muszlim istentiszteleti tér a Maameer zóna kiterjedt ipari komplexumai között.",
+                  "category": "landmark",
+                  "coords": [
+                        50.593899,
+                        26.134896
+                  ]
+            },
+            {
+                  "name": "Shake Kalaiff",
+                  "text": "A Shake Kalaiff helyi iszlám vallási gyülekezési helyet biztosít a Maameer ipari negyed munkásainak és lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        50.596271,
+                        26.135419
+                  ]
+            },
+            {
+                  "name": "Sheik Ahmed",
+                  "text": "Ez a muszlim istentiszteleti hely spirituális horgonyként szolgál klasszikus helyi dizájnelemekkel a Maameer ipari régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.59852,
+                        26.136343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Hassan",
+                  "text": "Al-Hassan este un spațiu de cult musulman dedicat, situat în mijlocul vastelor complexe industriale din zona Maameer.",
+                  "category": "landmark",
+                  "coords": [
+                        50.593899,
+                        26.134896
+                  ]
+            },
+            {
+                  "name": "Shake Kalaiff",
+                  "text": "Shake Kalaiff oferă un loc local de adunare religioasă islamică pentru muncitorii și rezidenții districtului industrial Maameer.",
+                  "category": "landmark",
+                  "coords": [
+                        50.596271,
+                        26.135419
+                  ]
+            },
+            {
+                  "name": "Sheik Ahmed",
+                  "text": "Acest loc de cult musulman servește ca o ancoră spirituală cu elemente de design local clasic în regiunea industrială Maameer.",
+                  "category": "landmark",
+                  "coords": [
+                        50.59852,
+                        26.136343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Hassan",
+                  "text": "Al-Hassan is a dedicated Muslim worship space situated amidst the sprawling industrial complexes of the Maameer zone.",
+                  "category": "landmark",
+                  "coords": [
+                        50.593899,
+                        26.134896
+                  ]
+            },
+            {
+                  "name": "Shake Kalaiff",
+                  "text": "Shake Kalaiff provides a local Islamic religious gathering spot for the workers and residents of the Maameer industrial district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.596271,
+                        26.135419
+                  ]
+            },
+            {
+                  "name": "Sheik Ahmed",
+                  "text": "This Muslim place of worship serves as a spiritual anchor with classic local design elements within the Maameer industrial region.",
+                  "category": "landmark",
+                  "coords": [
+                        50.59852,
+                        26.136343
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BH-13",
     coords: [50.6050, 26.1350],
@@ -1010,7 +1451,52 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       fr: ["Emplacement : Au sud de Sitra", "Caractère : Zone industrielle à croissance organique", "Focus : Petites et moyennes entreprises (PME)", "Secteurs : Industrie légère, ateliers, construction, entreposage", "Importance : Employeur et fournisseur majeur pour le marché local", "Développement : Efforts continus pour améliorer l'infrastructure", "Défis : Impact environnemental et trafic dû à la haute densité", "Contraste : À l'opposé des parcs d'investissement modernes et planifiés"],
     }, image: "/poi-images/bahrain-maameer-industrial-economic-v2.webp"},
   {
-    id: "bahrain-muharraq-fishing-port-economic-v2",
+    id: "bahrain-muharraq-fishing-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Sagha Mosque",
+                  "text": "Die Al Sagha-Moschee ist ein Gotteshaus der Küstengemeinde, das den örtlichen Fischern und Hafenarbeitern in der Nähe der Uferpromenade von Muharraq dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.614875,
+                        26.254044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Sagha Mosque",
+                  "text": "Az Al Sagha mecset egy part menti közösségi istentiszteleti hely, amely a helyi halászokat és kikötői munkásokat szolgálja ki Muharraq vízpartja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.614875,
+                        26.254044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Sagha Mosque",
+                  "text": "Moscheea Al Sagha este un loc de cult al comunității de coastă, care deservește pescarii locali și muncitorii portuari din apropierea falezei Muharraq.",
+                  "category": "landmark",
+                  "coords": [
+                        50.614875,
+                        26.254044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Sagha Mosque",
+                  "text": "The Al Sagha Mosque is a coastal community place of worship serving the local fishermen and port workers near the Muharraq waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        50.614875,
+                        26.254044
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "BH-15",
     coords: [50.6150, 26.2550],
@@ -1128,7 +1614,52 @@ export const poiExtraBahrainEconomicV2: POI[] = [
       fr: ["Type : Port industriel spécialisé", "Emplacement : Côte est de l'île de Sitra", "Fonction principale : Exportation de produits pétroliers raffinés", "Installation associée : Raffinerie Bapco", "Infrastructure : Plusieurs postes d'amarrage pour navires-citernes", "Connexion : Réseau direct de pipelines vers les réservoirs de stockage", "Produits : Diesel, kérosène, fioul, naphta", "Importance stratégique : Point d'exportation majeur pour l'industrie pétrolière de Bahreïn"],
     }, image: "/poi-images/bahrain-sitra-wharf-economic-v2.webp"},
   {
-    id: "bahrain-bay-economic-v2",
+    id: "bahrain-bay-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arcapita Mosque",
+                  "text": "Die Arcapita-Moschee ist ein ausgesprochen modernes islamisches Gebäude mit markanten zeitgenössischen geometrischen Designelementen in der Nähe der Bahrain Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        50.58358,
+                        26.248791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arcapita Mosque",
+                  "text": "Az Arcapita mecset egy kifejezetten modern iszlám épület, amely lenyűgöző kortárs geometriai dizájnelemekkel rendelkezik a Bahrain-öböl közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.58358,
+                        26.248791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arcapita Mosque",
+                  "text": "Moscheea Arcapita este o structură islamică distinct de modernă, cu elemente de design geometric contemporan remarcabile lângă Golful Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.58358,
+                        26.248791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arcapita Mosque",
+                  "text": "The Arcapita Mosque is a distinctly modern Islamic structure featuring striking contemporary geometric design elements near Bahrain Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        50.58358,
+                        26.248791
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "BH-13",
     coords: [50.5850, 26.2450],

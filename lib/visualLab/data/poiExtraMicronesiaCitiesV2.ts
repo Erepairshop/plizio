@@ -7,7 +7,7 @@ export const micronesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dolen Pahniepw",
-                  "text": "Dolen Pahniepw ist ein Berggipfel in Palikir.",
+                  "text": "Dolen Pahniepw ist ein bewaldeter Hügel auf der Insel Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.167778,
@@ -16,7 +16,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Palikir",
-                  "text": "Dolen Palikir ist ein Berggipfel in Palikir.",
+                  "text": "Dolen Palikir ist ein Hügel nahe der Hauptstadt Palikir auf Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.150278,
@@ -25,7 +25,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Pwakorokot",
-                  "text": "Dolen Pwakorokot ist ein Berggipfel in Palikir.",
+                  "text": "Dolen Pwakorokot ist ein weiterer Hügel im Landesinneren von Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.155,
@@ -34,7 +34,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Temwetemwensekir",
-                  "text": "Temwetemwensekir ist ein Berggipfel in Palikir.",
+                  "text": "Temwetemwensekir ist ein natürlicher Aussichtspunkt auf einem Hügel in Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.184222,
@@ -45,7 +45,7 @@ export const micronesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Dolen Pahniepw",
-                  "text": "A Dolen Pahniepw egy hegycsúcs Palikirban.",
+                  "text": "Dolen Pahniepw egy erdős domb Pohnpei szigetén.",
                   "category": "natural",
                   "coords": [
                         158.167778,
@@ -54,7 +54,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Palikir",
-                  "text": "A Dolen Palikir egy hegycsúcs Palikirban.",
+                  "text": "Dolen Palikir egy domb a főváros Palikir közelében Pohnpei szigetén.",
                   "category": "natural",
                   "coords": [
                         158.150278,
@@ -63,7 +63,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Pwakorokot",
-                  "text": "A Dolen Pwakorokot egy hegycsúcs Palikirban.",
+                  "text": "Dolen Pwakorokot egy másik domb Pohnpei belső területén.",
                   "category": "natural",
                   "coords": [
                         158.155,
@@ -72,7 +72,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Temwetemwensekir",
-                  "text": "A Temwetemwensekir egy hegycsúcs Palikirban.",
+                  "text": "Temwetemwensekir egy természetes kilátópont egy dombon Pohnpei szigetén.",
                   "category": "natural",
                   "coords": [
                         158.184222,
@@ -83,7 +83,7 @@ export const micronesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Dolen Pahniepw",
-                  "text": "Dolen Pahniepw este un vârf de munte situat în Palikir.",
+                  "text": "Dolen Pahniepw este un deal împădurit pe insula Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.167778,
@@ -92,7 +92,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Palikir",
-                  "text": "Dolen Palikir este un vârf de munte situat în Palikir.",
+                  "text": "Dolen Palikir este un deal aproape de capitala Palikir pe insula Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.150278,
@@ -101,7 +101,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Pwakorokot",
-                  "text": "Dolen Pwakorokot este un vârf de munte situat în Palikir.",
+                  "text": "Dolen Pwakorokot este un alt deal în interiorul insulei Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.155,
@@ -110,7 +110,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Temwetemwensekir",
-                  "text": "Temwetemwensekir este un vârf de munte situat în Palikir.",
+                  "text": "Temwetemwensekir este un punct de belvedere natural pe un deal în Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.184222,
@@ -121,7 +121,7 @@ export const micronesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dolen Pahniepw",
-                  "text": "Dolen Pahniepw is a mountain peak located in Palikir.",
+                  "text": "Dolen Pahniepw is a forested hill on the island of Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.167778,
@@ -130,7 +130,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Palikir",
-                  "text": "Dolen Palikir is a mountain peak located in Palikir.",
+                  "text": "Dolen Palikir is a hill near the capital Palikir on Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.150278,
@@ -139,7 +139,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Pwakorokot",
-                  "text": "Dolen Pwakorokot is a mountain peak located in Palikir.",
+                  "text": "Dolen Pwakorokot is another hill in the interior of Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.155,
@@ -148,7 +148,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Temwetemwensekir",
-                  "text": "Temwetemwensekir is a mountain peak located in Palikir.",
+                  "text": "Temwetemwensekir is a natural viewpoint on a hill in Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.184222,
@@ -205,7 +205,7 @@ export const micronesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Afarafar",
-                  "text": "Afarafar ist ein Berggipfel in Weno.",
+                  "text": "Afarafar ist ein Hügel auf der Insel Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.848611,
@@ -214,7 +214,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nauno",
-                  "text": "Nauno ist ein Berggipfel in Weno.",
+                  "text": "Nauno ist ein weiterer Hügel auf der Insel Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.8675,
@@ -223,7 +223,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nenino",
-                  "text": "Nenino ist ein Berggipfel in Weno.",
+                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.862778,
@@ -232,7 +232,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teroken",
-                  "text": "Teroken ist ein Berggipfel in Weno.",
+                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.852104,
@@ -241,7 +241,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tonnachau",
-                  "text": "Tonnachau ist ein Berggipfel in Weno.",
+                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
@@ -250,7 +250,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Japanese War Memorial",
-                  "text": "Japanese War Memorial ist eine Sehenswürdigkeit in Weno.",
+                  "text": "Japanisches Kriegerdenkmal in Weno, errichtet im Februar 1980.",
                   "category": "landmark",
                   "coords": [
                         151.841968,
@@ -259,7 +259,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wichen Falls",
-                  "text": "Wichen Falls ist eine Sehenswürdigkeit in Weno.",
+                  "text": "Wichen Falls, ein markanter Wasserfall auf der Insel Weno.",
                   "category": "landmark",
                   "coords": [
                         151.8688,
@@ -268,7 +268,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Immaculate Heart of Mary Cathedral",
-                  "text": "Die Immaculate Heart of Mary Cathedral ist eine katholische Kirche in Weno.",
+                  "text": "Die Kathedrale Unbeflecktes Herz Mariä ist die wichtigste katholische Kirche auf der Insel Weno in Chuuk, Mikronesien.",
                   "category": "religious",
                   "coords": [
                         151.864131,
@@ -279,7 +279,7 @@ export const micronesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Afarafar",
-                  "text": "A(z) Afarafar egy hegycsúcs Weno területén.",
+                  "text": "Afarafar egy domb Chuuk szigetén.",
                   "category": "natural",
                   "coords": [
                         151.848611,
@@ -288,7 +288,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nauno",
-                  "text": "A(z) Nauno egy hegycsúcs Weno területén.",
+                  "text": "Nauno egy másik domb Chuuk szigetén.",
                   "category": "natural",
                   "coords": [
                         151.8675,
@@ -297,7 +297,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nenino",
-                  "text": "A(z) Nenino egy hegycsúcs Weno területén.",
+                  "text": "Egy domb Weno szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.862778,
@@ -306,7 +306,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teroken",
-                  "text": "A(z) Teroken egy hegycsúcs Weno területén.",
+                  "text": "Egy domb Weno szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.852104,
@@ -315,7 +315,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tonnachau",
-                  "text": "A(z) Tonnachau egy hegycsúcs Weno területén.",
+                  "text": "Egy domb Weno szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
@@ -324,7 +324,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Japanese War Memorial",
-                  "text": "A(z) Japanese War Memorial egy látványosság Weno városában.",
+                  "text": "Japán háborús emlékmű Wenóban, 1980 februárjában állították.",
                   "category": "landmark",
                   "coords": [
                         151.841968,
@@ -333,7 +333,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wichen Falls",
-                  "text": "A(z) Wichen Falls egy látványosság Weno városában.",
+                  "text": "Wichen-vízesés, egy nevezetes vízesés Weno szigetén.",
                   "category": "landmark",
                   "coords": [
                         151.8688,
@@ -342,7 +342,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Immaculate Heart of Mary Cathedral",
-                  "text": "Az Immaculate Heart of Mary Cathedral egy katolikus istentiszteleti hely Weno területén.",
+                  "text": "A Szeplőtelen Szív-székesegyház a fő katolikus templom Weno szigetén, Chuukban, Mikronéziában.",
                   "category": "religious",
                   "coords": [
                         151.864131,
@@ -353,7 +353,7 @@ export const micronesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Afarafar",
-                  "text": "Afarafar este un vârf montan situat în Weno.",
+                  "text": "Afarafar este un deal pe insula Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.848611,
@@ -362,7 +362,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nauno",
-                  "text": "Nauno este un vârf montan situat în Weno.",
+                  "text": "Nauno este un alt deal pe insula Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.8675,
@@ -371,7 +371,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nenino",
-                  "text": "Nenino este un vârf montan situat în Weno.",
+                  "text": "Un deal pe insula Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.862778,
@@ -380,7 +380,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teroken",
-                  "text": "Teroken este un vârf montan situat în Weno.",
+                  "text": "Un deal pe insula Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.852104,
@@ -389,7 +389,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tonnachau",
-                  "text": "Tonnachau este un vârf montan situat în Weno.",
+                  "text": "Un deal pe insula Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
@@ -398,7 +398,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Japanese War Memorial",
-                  "text": "Japanese War Memorial este o atracție turistică în Weno.",
+                  "text": "Monumentul japonez de război din Weno, ridicat în februarie 1980.",
                   "category": "landmark",
                   "coords": [
                         151.841968,
@@ -407,7 +407,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wichen Falls",
-                  "text": "Wichen Falls este o atracție turistică în Weno.",
+                  "text": "Cascada Wichen, o cascadă de referință pe insula Weno.",
                   "category": "landmark",
                   "coords": [
                         151.8688,
@@ -416,7 +416,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Immaculate Heart of Mary Cathedral",
-                  "text": "Immaculate Heart of Mary Cathedral este un lăcaș de cult catolic situat în Weno.",
+                  "text": "Catedrala Inimii Neprihănite a Mariei este principala biserică catolică pe insula Weno din Chuuk, Micronezia.",
                   "category": "religious",
                   "coords": [
                         151.864131,
@@ -427,7 +427,7 @@ export const micronesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Afarafar",
-                  "text": "Afarafar is a mountain peak located in Weno.",
+                  "text": "Afarafar is a hill on the island of Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.848611,
@@ -436,7 +436,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nauno",
-                  "text": "Nauno is a mountain peak located in Weno.",
+                  "text": "Nauno is another hill on the island of Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.8675,
@@ -445,7 +445,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nenino",
-                  "text": "Nenino is a mountain peak located in Weno.",
+                  "text": "A hill on Weno Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.862778,
@@ -454,7 +454,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teroken",
-                  "text": "Teroken is a mountain peak located in Weno.",
+                  "text": "A hill on Weno Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.852104,
@@ -463,7 +463,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tonnachau",
-                  "text": "Tonnachau is a mountain peak located in Weno.",
+                  "text": "A hill on Weno Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
@@ -472,7 +472,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Japanese War Memorial",
-                  "text": "Japanese War Memorial is a tourist attraction located in Weno.",
+                  "text": "Japanese war memorial in Weno, erected in February 1980.",
                   "category": "landmark",
                   "coords": [
                         151.841968,
@@ -481,7 +481,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wichen Falls",
-                  "text": "Wichen Falls is a tourist attraction located in Weno.",
+                  "text": "Wichen Falls, a landmark waterfall on Weno island.",
                   "category": "landmark",
                   "coords": [
                         151.8688,
@@ -490,7 +490,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Immaculate Heart of Mary Cathedral",
-                  "text": "The Immaculate Heart of Mary Cathedral is a Catholic place of worship located in Weno.",
+                  "text": "Immaculate Heart of Mary Cathedral is the main Catholic church on Weno Island in Chuuk, Micronesia.",
                   "category": "religious",
                   "coords": [
                         151.864131,
@@ -547,7 +547,7 @@ export const micronesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka ist ein Strand in Kolonia.",
+                  "text": "Ein Erholungsgebiet namens Nipik En Lidakihka in Kolonia.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -556,7 +556,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Lidorkini Museum",
-                  "text": "Das Pohnpei Lidorkini Museum ist ein Museum in Kolonia.",
+                  "text": "Das Pohnpei Lidorkini Museum in Kolonia.",
                   "category": "museum",
                   "coords": [
                         158.209722,
@@ -565,7 +565,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Eel Pool ist eine Tierattraktion in Kolonia.",
+                  "text": "Ein familienfreundliches natürliches Becken mit Aalen in Kolonia.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -574,7 +574,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "Pohnpei Swimming Pool ist ein Wasserpark in Kolonia.",
+                  "text": "Ein öffentliches Schwimmbad in Kolonia.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -583,7 +583,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "Dolen Metipw ist ein Berggipfel in der Nähe von Kolonia.",
+                  "text": "Ein Berg auf der Insel Pohnpei, in der Nähe von Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -592,7 +592,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohn Dollen Net",
-                  "text": "Pohn Dollen Net ist ein Berggipfel in Kolonia.",
+                  "text": "Ein Berg auf der Insel Pohnpei, in der Nähe von Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.226111,
@@ -601,7 +601,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohndolap",
-                  "text": "Der Sokehs Mountain ist ein markanter Gipfel in Kolonia.",
+                  "text": "Sokehs Mountain, ein markanter Gipfel auf der Insel Pohnpei, in der Nähe von Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -610,7 +610,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "Dolen Nier ist ein Berggipfel in Kolonia.",
+                  "text": "Ein Berg auf der Insel Pohnpei, in der Nähe von Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -628,7 +628,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Look-Out",
-                  "text": "Stone Look-Out ist ein Aussichtspunkt in Kolonia.",
+                  "text": "Ein natürlicher Steinaussichtspunkt in Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.190532,
@@ -637,7 +637,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rifle Pit",
-                  "text": "Rifle Pit besteht aus historischen Ruinen in Kolonia.",
+                  "text": "Eine historische Schützengrube in Kolonia.",
                   "category": "historical",
                   "coords": [
                         158.18969,
@@ -646,7 +646,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kepindau Waterfall",
-                  "text": "Kepindau Falls ist eine Naturattraktion in Kolonia.",
+                  "text": "Die Kepindau-Wasserfälle in Kolonia.",
                   "category": "landmark",
                   "coords": [
                         158.185717,
@@ -655,7 +655,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "Cliff Face ist eine Naturattraktion in Kolonia.",
+                  "text": "Eine markante Klippenwand in Kolonia.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -664,7 +664,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohn Pillap Waterfall",
-                  "text": "Pohn Pillap Waterfall ist eine landschaftliche Attraktion in der Stadt Kolonia.",
+                  "text": "Der Pohn Pillap Wasserfall in Kolonia.",
                   "category": "landmark",
                   "coords": [
                         158.182839,
@@ -684,7 +684,7 @@ export const micronesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "A Nipik En Lidakihka egy tengerpart Kolonia városában.",
+                  "text": "Nipik En Lidakihka nevű rekreációs terület Koloniában.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -693,7 +693,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Lidorkini Museum",
-                  "text": "A Pohnpei Lidorkini Museum egy múzeum Kolonia-ban.",
+                  "text": "A Pohnpei Lidorkini Múzeum Koloniában.",
                   "category": "museum",
                   "coords": [
                         158.209722,
@@ -702,7 +702,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Az Eel Pool egy állatkerti látványosság Kolonia városában.",
+                  "text": "Családbarát természetes medence angolnákkal Koloniában.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -711,7 +711,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "A Pohnpei Swimming Pool egy vízipark Kolonia-ban.",
+                  "text": "Nyilvános uszoda Koloniában.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -720,7 +720,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "A Dolen Metipw egy hegycsúcs Kolonia közelében.",
+                  "text": "Egy hegy Pohnpei szigetén, Kolonia közelében.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -729,7 +729,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohn Dollen Net",
-                  "text": "A Pohn Dollen Net egy hegycsúcs Kolonia városában.",
+                  "text": "Egy hegy Pohnpei szigetén, Kolonia közelében.",
                   "category": "natural",
                   "coords": [
                         158.226111,
@@ -738,7 +738,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohndolap",
-                  "text": "A Sokehs Mountain egy kiemelkedő hegycsúcs Kolonia-ban.",
+                  "text": "Sokehs Mountain, egy kiemelkedő csúcs Pohnpei szigetén, Kolonia közelében.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -747,7 +747,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "A Dolen Nier egy hegycsúcs Kolonia-ban.",
+                  "text": "Egy hegy Pohnpei szigetén, Kolonia közelében.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -765,7 +765,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Look-Out",
-                  "text": "A Stone Look-Out egy kilátó Kolonia városában.",
+                  "text": "Természetes kő-kilátó Koloniában.",
                   "category": "natural",
                   "coords": [
                         158.190532,
@@ -774,7 +774,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rifle Pit",
-                  "text": "A Rifle Pit történelmi romokból áll Kolonia városában.",
+                  "text": "Történelmi puskaárok Koloniában.",
                   "category": "historical",
                   "coords": [
                         158.18969,
@@ -783,7 +783,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kepindau Waterfall",
-                  "text": "A Kepindau Falls egy természeti látványosság Kolonia városában.",
+                  "text": "Kepindau-vízesés Koloniában.",
                   "category": "landmark",
                   "coords": [
                         158.185717,
@@ -792,7 +792,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "A Cliff Face egy természeti látványosság Kolonia területén.",
+                  "text": "Egy feltűnő sziklafal Koloniában.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -801,7 +801,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohn Pillap Waterfall",
-                  "text": "A Pohn Pillap Waterfall egy festői látványosság Kolonia városában.",
+                  "text": "Pohn Pillap-vízesés Koloniában.",
                   "category": "landmark",
                   "coords": [
                         158.182839,
@@ -821,7 +821,7 @@ export const micronesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka este o plajă situată în Kolonia.",
+                  "text": "O zonă de agrement numită Nipik En Lidakihka în Kolonia.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -830,7 +830,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Lidorkini Museum",
-                  "text": "Pohnpei Lidorkini Museum este un muzeu situat în Kolonia.",
+                  "text": "Muzeul Pohnpei Lidorkini din Kolonia.",
                   "category": "museum",
                   "coords": [
                         158.209722,
@@ -839,7 +839,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Eel Pool este o atracție cu animale situată în Kolonia.",
+                  "text": "Un bazin natural prietenos cu familiile, populat de anghile în Kolonia.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -848,7 +848,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "Pohnpei Swimming Pool este un parc acvatic din Kolonia.",
+                  "text": "O piscină publică în Kolonia.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -857,7 +857,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "Dolen Metipw este un vârf de munte situat lângă Kolonia.",
+                  "text": "Un munte pe insula Pohnpei, lângă Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -866,7 +866,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohn Dollen Net",
-                  "text": "Pohn Dollen Net este un vârf de munte situat în Kolonia.",
+                  "text": "Un munte pe insula Pohnpei, lângă Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.226111,
@@ -875,7 +875,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohndolap",
-                  "text": "Sokehs Mountain este un vârf muntos proeminent din Kolonia.",
+                  "text": "Sokehs Mountain, un vârf proeminent pe insula Pohnpei, lângă Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -884,7 +884,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "Dolen Nier este un vârf de munte aflat în Kolonia.",
+                  "text": "Un munte pe insula Pohnpei, lângă Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -902,7 +902,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Look-Out",
-                  "text": "Stone Look-Out este un punct de belvedere situat în Kolonia.",
+                  "text": "Un punct de belvedere natural din piatră în Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.190532,
@@ -911,7 +911,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rifle Pit",
-                  "text": "Rifle Pit constă din ruine istorice situate în Kolonia.",
+                  "text": "O groapă de pușcă istorică în Kolonia.",
                   "category": "historical",
                   "coords": [
                         158.18969,
@@ -920,7 +920,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kepindau Waterfall",
-                  "text": "Kepindau Falls este o atracție naturală situată în Kolonia.",
+                  "text": "Cascada Kepindau în Kolonia.",
                   "category": "landmark",
                   "coords": [
                         158.185717,
@@ -929,7 +929,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "Cliff Face este o atracție naturală din Kolonia.",
+                  "text": "O față de stâncă proeminentă în Kolonia.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -938,7 +938,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohn Pillap Waterfall",
-                  "text": "Pohn Pillap Waterfall este o atracție pitorească situată în orașul Kolonia.",
+                  "text": "Cascada Pohn Pillap în Kolonia.",
                   "category": "landmark",
                   "coords": [
                         158.182839,
@@ -958,7 +958,7 @@ export const micronesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka is a beach located in Kolonia.",
+                  "text": "A recreational area named Nipik En Lidakihka in Kolonia.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -967,7 +967,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Lidorkini Museum",
-                  "text": "Pohnpei Lidorkini Museum is a museum situated in Kolonia.",
+                  "text": "The Pohnpei Lidorkini Museum in Kolonia.",
                   "category": "museum",
                   "coords": [
                         158.209722,
@@ -976,7 +976,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Eel Pool is an animal attraction located in Kolonia.",
+                  "text": "A family-friendly natural pool inhabited by eels in Kolonia.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -985,7 +985,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "Pohnpei Swimming Pool is a water park facility in Kolonia.",
+                  "text": "A public swimming pool in Kolonia.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -994,7 +994,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "Dolen Metipw is a mountain peak located near Kolonia.",
+                  "text": "A mountain on Pohnpei Island, near Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -1003,7 +1003,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohn Dollen Net",
-                  "text": "Pohn Dollen Net is a mountain peak situated in Kolonia.",
+                  "text": "A mountain on Pohnpei Island, near Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.226111,
@@ -1012,7 +1012,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokehs Mountain",
-                  "text": "Sokehs Mountain is a prominent peak located in Kolonia.",
+                  "text": "Sokehs Mountain, a prominent peak on Pohnpei Island, near Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -1021,7 +1021,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "Dolen Nier is a mountain peak found in Kolonia.",
+                  "text": "A mountain on Pohnpei Island, near Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -1039,7 +1039,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Look-Out",
-                  "text": "Stone Look-Out is a scenic viewpoint situated in Kolonia.",
+                  "text": "A natural stone lookout point in Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.190532,
@@ -1048,7 +1048,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rifle Pit",
-                  "text": "Rifle Pit consists of historical ruins located in Kolonia.",
+                  "text": "A historical rifle pit in Kolonia.",
                   "category": "historical",
                   "coords": [
                         158.18969,
@@ -1057,7 +1057,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kepindau Falls",
-                  "text": "Kepindau Falls is a natural attraction situated in Kolonia.",
+                  "text": "Kepindau Falls in Kolonia.",
                   "category": "landmark",
                   "coords": [
                         158.185717,
@@ -1066,7 +1066,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "Cliff Face is a natural attraction found in Kolonia.",
+                  "text": "A prominent cliff face in Kolonia.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -1075,7 +1075,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohn Pillap Waterfall",
-                  "text": "Pohn Pillap Waterfall is a scenic attraction located in the city of Kolonia.",
+                  "text": "Pohn Pillap Waterfall in Kolonia.",
                   "category": "landmark",
                   "coords": [
                         158.182839,
@@ -1150,7 +1150,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "meeting house",
-                  "text": "Das Versammlungshaus ist ein historisches Denkmal in Colonia.",
+                  "text": "Ein historisches Versammlungshaus in Colonia, Yap.",
                   "category": "historical",
                   "coords": [
                         138.110408,
@@ -1170,7 +1170,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "meeting house",
-                  "text": "A meeting house egy történelmi emlékmű Coloniában.",
+                  "text": "Történelmi gyűlésház Coloniában, Yapon.",
                   "category": "historical",
                   "coords": [
                         138.110408,
@@ -1190,7 +1190,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "meeting house",
-                  "text": "Casa de întâlniri este un monument istoric în Colonia.",
+                  "text": "O casă de întâlnire istorică în Colonia, Yap.",
                   "category": "historical",
                   "coords": [
                         138.110408,
@@ -1210,7 +1210,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "meeting house",
-                  "text": "The meeting house is a historical monument in Colonia.",
+                  "text": "A historical meeting house in Colonia, Yap.",
                   "category": "historical",
                   "coords": [
                         138.110408,
@@ -1267,7 +1267,7 @@ export const micronesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lelu Ruins Historic Park",
-                  "text": "Historische Ruinen in der Nähe von Tofol.",
+                  "text": "Der historische Park der Lelu-Ruinen in Tofol.",
                   "category": "historical",
                   "coords": [
                         163.025,
@@ -1276,7 +1276,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kosrae Museum",
-                  "text": "Dieses Museum dokumentiert die Geschichte von Tofol und Kosrae.",
+                  "text": "Das Kosrae-Museum in Tofol.",
                   "category": "museum",
                   "coords": [
                         163.008563,
@@ -1285,7 +1285,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Finol Finkol",
-                  "text": "Ein markanter Berggipfel in der Region Tofol.",
+                  "text": "Finol Finkol, ein Gipfel auf der Insel Kosrae, in der Nähe von Tofol.",
                   "category": "natural",
                   "coords": [
                         162.991557,
@@ -1296,7 +1296,7 @@ export const micronesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lelu Ruins Historic Park",
-                  "text": "Történelmi romok Tofol közelében.",
+                  "text": "A Lelu-romok történelmi parkja Tofolban.",
                   "category": "historical",
                   "coords": [
                         163.025,
@@ -1305,7 +1305,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kosrae Museum",
-                  "text": "Ez a múzeum Tofol és Kosrae történelmét dokumentálja.",
+                  "text": "A Kosrae Múzeum Tofolban.",
                   "category": "museum",
                   "coords": [
                         163.008563,
@@ -1314,7 +1314,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Finol Finkol",
-                  "text": "Jellegzetes hegycsúcs a Tofol régióban.",
+                  "text": "Finol Finkol, egy csúcs Kosrae szigetén, Tofol közelében.",
                   "category": "natural",
                   "coords": [
                         162.991557,
@@ -1325,7 +1325,7 @@ export const micronesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lelu Ruins Historic Park",
-                  "text": "Ruine istorice lângă Tofol.",
+                  "text": "Parcul istoric al ruinelor Lelu din Tofol.",
                   "category": "historical",
                   "coords": [
                         163.025,
@@ -1334,7 +1334,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kosrae Museum",
-                  "text": "Acest muzeu documentează istoria orașului Tofol și a regiunii Kosrae.",
+                  "text": "Muzeul Kosrae din Tofol.",
                   "category": "museum",
                   "coords": [
                         163.008563,
@@ -1343,7 +1343,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Finol Finkol",
-                  "text": "Un vârf muntos distinctiv în regiunea Tofol.",
+                  "text": "Finol Finkol, un vârf pe insula Kosrae, lângă Tofol.",
                   "category": "natural",
                   "coords": [
                         162.991557,
@@ -1354,7 +1354,7 @@ export const micronesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lelu Ruins Historic Park",
-                  "text": "Historic ruins near Tofol.",
+                  "text": "The Lelu Ruins Historic Park in Tofol.",
                   "category": "historical",
                   "coords": [
                         163.025,
@@ -1363,7 +1363,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kosrae Museum",
-                  "text": "This museum documents the history of Tofol and Kosrae.",
+                  "text": "The Kosrae Museum in Tofol.",
                   "category": "museum",
                   "coords": [
                         163.008563,
@@ -1372,7 +1372,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Finol Finkol",
-                  "text": "A distinctive mountain peak in the Tofol region.",
+                  "text": "Finol Finkol, a peak on Kosrae Island, near Tofol.",
                   "category": "natural",
                   "coords": [
                         162.991557,
@@ -1474,7 +1474,7 @@ export const micronesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Chukienu",
-                  "text": "Chukienu ist ein Berggipfel in Tol.",
+                  "text": "Ein Hügel auf der Insel Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.613611,
@@ -1483,7 +1483,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chukuram",
-                  "text": "Chukuram ist ein Berggipfel in Tol.",
+                  "text": "Ein Hügel auf der Insel Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.596944,
@@ -1492,7 +1492,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nekeona",
-                  "text": "Nekeona ist ein Berggipfel in Tol.",
+                  "text": "Ein Hügel auf der Insel Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.605278,
@@ -1501,7 +1501,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Saponotou",
-                  "text": "Saponotou ist ein Berggipfel in Tol.",
+                  "text": "Ein Hügel auf der Insel Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.621389,
@@ -1510,7 +1510,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wichuk",
-                  "text": "Wichuk ist ein Berggipfel in Tol.",
+                  "text": "Ein Hügel auf der Insel Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.632778,
@@ -1519,7 +1519,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wonachaw",
-                  "text": "Wonachaw ist ein Berggipfel in Tol.",
+                  "text": "Ein Hügel auf der Insel Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.626667,
@@ -1530,7 +1530,7 @@ export const micronesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Chukienu",
-                  "text": "A(z) Chukienu egy hegycsúcs Tol területén.",
+                  "text": "Egy domb Tol szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.613611,
@@ -1539,7 +1539,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chukuram",
-                  "text": "A(z) Chukuram egy hegycsúcs Tol területén.",
+                  "text": "Egy domb Tol szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.596944,
@@ -1548,7 +1548,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nekeona",
-                  "text": "A(z) Nekeona egy hegycsúcs Tol területén.",
+                  "text": "Egy domb Tol szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.605278,
@@ -1557,7 +1557,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Saponotou",
-                  "text": "A(z) Saponotou egy hegycsúcs Tol területén.",
+                  "text": "Egy domb Tol szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.621389,
@@ -1566,7 +1566,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wichuk",
-                  "text": "A(z) Wichuk egy hegycsúcs Tol területén.",
+                  "text": "Egy domb Tol szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.632778,
@@ -1575,7 +1575,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wonachaw",
-                  "text": "A(z) Wonachaw egy hegycsúcs Tol területén.",
+                  "text": "Egy domb Tol szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.626667,
@@ -1586,7 +1586,7 @@ export const micronesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Chukienu",
-                  "text": "Chukienu este un vârf montan situat în Tol.",
+                  "text": "Un deal pe insula Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.613611,
@@ -1595,7 +1595,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chukuram",
-                  "text": "Chukuram este un vârf montan situat în Tol.",
+                  "text": "Un deal pe insula Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.596944,
@@ -1604,7 +1604,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nekeona",
-                  "text": "Nekeona este un vârf montan situat în Tol.",
+                  "text": "Un deal pe insula Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.605278,
@@ -1613,7 +1613,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Saponotou",
-                  "text": "Saponotou este un vârf montan situat în Tol.",
+                  "text": "Un deal pe insula Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.621389,
@@ -1622,7 +1622,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wichuk",
-                  "text": "Wichuk este un vârf montan situat în Tol.",
+                  "text": "Un deal pe insula Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.632778,
@@ -1631,7 +1631,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wonachaw",
-                  "text": "Wonachaw este un vârf montan situat în Tol.",
+                  "text": "Un deal pe insula Tol, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.626667,
@@ -1642,7 +1642,7 @@ export const micronesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Chukienu",
-                  "text": "Chukienu is a mountain peak located in Tol.",
+                  "text": "A hill on Tol Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.613611,
@@ -1651,7 +1651,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chukuram",
-                  "text": "Chukuram is a mountain peak located in Tol.",
+                  "text": "A hill on Tol Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.596944,
@@ -1660,7 +1660,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nekeona",
-                  "text": "Nekeona is a mountain peak located in Tol.",
+                  "text": "A hill on Tol Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.605278,
@@ -1669,7 +1669,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Saponotou",
-                  "text": "Saponotou is a mountain peak located in Tol.",
+                  "text": "A hill on Tol Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.621389,
@@ -1678,7 +1678,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wichuk",
-                  "text": "Wichuk is a mountain peak located in Tol.",
+                  "text": "A hill on Tol Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.632778,
@@ -1687,7 +1687,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Wonachaw",
-                  "text": "Wonachaw is a mountain peak located in Tol.",
+                  "text": "A hill on Tol Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.626667,
@@ -1744,7 +1744,7 @@ export const micronesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Chukusou",
-                  "text": "Chukusou ist ein Berggipfel in Fefan.",
+                  "text": "Ein Hügel auf der Insel Fefan, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.841944,
@@ -1753,7 +1753,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chuk En Ipar",
-                  "text": "Chuk En Ipar ist ein Berggipfel in Fefan.",
+                  "text": "Ein Hügel auf der Insel Fefan, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.828056,
@@ -1762,7 +1762,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Winifouno",
-                  "text": "Winifouno ist ein markanter Berggipfel in Fefan.",
+                  "text": "Ein Hügel auf der Insel Fefan, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.843056,
@@ -1773,7 +1773,7 @@ export const micronesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Chukusou",
-                  "text": "A Chukusou egy hegycsúcs Fefan területén.",
+                  "text": "Egy domb Fefan szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.841944,
@@ -1782,7 +1782,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chuk En Ipar",
-                  "text": "A Chuk En Ipar egy hegycsúcs Fefan térségében.",
+                  "text": "Egy domb Fefan szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.828056,
@@ -1791,7 +1791,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Winifouno",
-                  "text": "A Winifouno egy kiemelkedő hegycsúcs Fefan területén.",
+                  "text": "Egy domb Fefan szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.843056,
@@ -1802,7 +1802,7 @@ export const micronesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Chukusou",
-                  "text": "Chukusou este un vârf de munte situat în Fefan.",
+                  "text": "Un deal pe insula Fefan, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.841944,
@@ -1811,7 +1811,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chuk En Ipar",
-                  "text": "Chuk En Ipar este un vârf de munte situat în Fefan.",
+                  "text": "Un deal pe insula Fefan, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.828056,
@@ -1820,7 +1820,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Winifouno",
-                  "text": "Winifouno este un vârf de munte proeminent din Fefan.",
+                  "text": "Un deal pe insula Fefan, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.843056,
@@ -1831,7 +1831,7 @@ export const micronesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Chukusou",
-                  "text": "Chukusou is a mountain peak located in Fefan.",
+                  "text": "A hill on Fefan Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.841944,
@@ -1840,7 +1840,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Chuk En Ipar",
-                  "text": "Chuk En Ipar is a mountain peak situated in Fefan.",
+                  "text": "A hill on Fefan Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.828056,
@@ -1849,7 +1849,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Winifouno",
-                  "text": "Winifouno is a prominent mountain peak in Fefan.",
+                  "text": "A hill on Fefan Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.843056,
@@ -1906,7 +1906,7 @@ export const micronesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Foukenau",
-                  "text": "Foukenau ist ein Gipfel auf der Insel Tonoas.",
+                  "text": "Ein Hügel auf der Insel Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.866667,
@@ -1915,7 +1915,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Naton",
-                  "text": "Naton ist ein Gipfel auf der Insel Tonoas.",
+                  "text": "Ein Hügel auf der Insel Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.878889,
@@ -1924,7 +1924,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unikopos",
-                  "text": "Unikopos ist ein Gipfel auf der Insel Tonoas.",
+                  "text": "Ein Hügel auf der Insel Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.884167,
@@ -1933,7 +1933,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unimokur",
-                  "text": "Unimokur ist ein Gipfel auf der Insel Tonoas.",
+                  "text": "Ein Hügel auf der Insel Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.89,
@@ -1942,7 +1942,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unimongemong",
-                  "text": "Unimongemong ist ein Gipfel auf der Insel Tonoas.",
+                  "text": "Ein Hügel auf der Insel Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.886111,
@@ -1953,7 +1953,7 @@ export const micronesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Foukenau",
-                  "text": "A Foukenau egy hegycsúcs Tonoas szigetén.",
+                  "text": "Egy domb Tonoas szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.866667,
@@ -1962,7 +1962,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Naton",
-                  "text": "A Naton egy hegycsúcs Tonoas szigetén.",
+                  "text": "Egy domb Tonoas szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.878889,
@@ -1971,7 +1971,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unikopos",
-                  "text": "Az Unikopos egy hegycsúcs Tonoas szigetén.",
+                  "text": "Egy domb Tonoas szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.884167,
@@ -1980,7 +1980,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unimokur",
-                  "text": "Az Unimokur egy hegycsúcs Tonoas szigetén.",
+                  "text": "Egy domb Tonoas szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.89,
@@ -1989,7 +1989,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unimongemong",
-                  "text": "Az Unimongemong egy hegycsúcs Tonoas szigetén.",
+                  "text": "Egy domb Tonoas szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.886111,
@@ -2000,7 +2000,7 @@ export const micronesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Foukenau",
-                  "text": "Foukenau este un vârf muntos pe insula Tonoas.",
+                  "text": "Un deal pe insula Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.866667,
@@ -2009,7 +2009,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Naton",
-                  "text": "Naton este un vârf muntos pe insula Tonoas.",
+                  "text": "Un deal pe insula Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.878889,
@@ -2018,7 +2018,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unikopos",
-                  "text": "Unikopos este un vârf muntos pe insula Tonoas.",
+                  "text": "Un deal pe insula Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.884167,
@@ -2027,7 +2027,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unimokur",
-                  "text": "Unimokur este un vârf muntos pe insula Tonoas.",
+                  "text": "Un deal pe insula Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.89,
@@ -2036,7 +2036,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unimongemong",
-                  "text": "Unimongemong este un vârf muntos pe insula Tonoas.",
+                  "text": "Un deal pe insula Tonoas, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.886111,
@@ -2047,7 +2047,7 @@ export const micronesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Foukenau",
-                  "text": "Foukenau is a mountain peak on Tonoas island.",
+                  "text": "A hill on Tonoas Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.866667,
@@ -2056,7 +2056,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Naton",
-                  "text": "Naton is a mountain peak on Tonoas island.",
+                  "text": "A hill on Tonoas Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.878889,
@@ -2065,7 +2065,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unikopos",
-                  "text": "Unikopos is a mountain peak on Tonoas island.",
+                  "text": "A hill on Tonoas Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.884167,
@@ -2074,7 +2074,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unimokur",
-                  "text": "Unimokur is a mountain peak on Tonoas island.",
+                  "text": "A hill on Tonoas Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.89,
@@ -2083,7 +2083,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Unimongemong",
-                  "text": "Unimongemong is a mountain peak on Tonoas island.",
+                  "text": "A hill on Tonoas Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.886111,
@@ -2239,7 +2239,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nanpahlap",
-                  "text": "Nanpahlap ist ein Gipfel in der Region Madolenihmw.",
+                  "text": "Ein Hügel im Bezirk Madolenihmw auf Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.311944,
@@ -2259,7 +2259,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nanpahlap",
-                  "text": "A Nanpahlap egy hegycsúcs Madolenihmw régióban.",
+                  "text": "Egy domb a Madolenihmw járásban, Pohnpein.",
                   "category": "natural",
                   "coords": [
                         158.311944,
@@ -2279,7 +2279,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nanpahlap",
-                  "text": "Nanpahlap este un vârf muntos în regiunea Madolenihmw.",
+                  "text": "Un deal în districtul Madolenihmw din Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.311944,
@@ -2299,7 +2299,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nanpahlap",
-                  "text": "Nanpahlap is a mountain peak in the Madolenihmw region.",
+                  "text": "A hill in the Madolenihmw district of Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.311944,
@@ -2356,7 +2356,7 @@ export const micronesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka ist ein Strand in Sokehs.",
+                  "text": "Ein Erholungsgebiet namens Nipik En Lidakihka in Sokehs.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -2365,7 +2365,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Lidorkini Museum",
-                  "text": "Pohnpei Lidorkini Museum ist ein Museum in Sokehs.",
+                  "text": "Das Pohnpei Lidorkini Museum in Sokehs.",
                   "category": "museum",
                   "coords": [
                         158.209722,
@@ -2374,7 +2374,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Eel Pool ist ein Tierpark in Sokehs.",
+                  "text": "Ein familienfreundliches natürliches Becken mit Aalen in Sokehs.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -2383,7 +2383,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "Pohnpei Swimming Pool ist ein Wasserpark in Sokehs.",
+                  "text": "Ein öffentliches Schwimmbad in Sokehs.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -2392,7 +2392,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolehtik",
-                  "text": "Dolehtik ist ein Berggipfel in Sokehs.",
+                  "text": "Ein Hügel im Bezirk Sokehs auf Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.180593,
@@ -2401,7 +2401,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "Dolen Metipw ist ein Berggipfel in Sokehs.",
+                  "text": "Ein Berg im Bezirk Sokehs auf Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -2410,7 +2410,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohndolap",
-                  "text": "Sokehs Mountain ist ein Berggipfel in Sokehs.",
+                  "text": "Sokehs Mountain, ein markanter Gipfel im Bezirk Sokehs auf Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -2419,7 +2419,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "Dolen Nier ist ein Berggipfel in Sokehs.",
+                  "text": "Ein Berg im Bezirk Sokehs auf Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -2428,7 +2428,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Look-Out",
-                  "text": "Stone Look-Out ist ein Aussichtspunkt in Sokehs.",
+                  "text": "Ein natürlicher Steinaussichtspunkt in Sokehs.",
                   "category": "natural",
                   "coords": [
                         158.190532,
@@ -2464,7 +2464,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "Diese markante Felswand ist ein beliebtes Ausflugsziel in Sokehs.",
+                  "text": "Eine markante Klippenwand in Sokehs.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -2484,7 +2484,7 @@ export const micronesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "A(z) Nipik En Lidakihka egy strand Sokehs területén.",
+                  "text": "Nipik En Lidakihka nevű rekreációs terület Sokehsban.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -2493,7 +2493,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Lidorkini Museum",
-                  "text": "A(z) Pohnpei Lidorkini Museum egy múzeum Sokehs városában.",
+                  "text": "A Pohnpei Lidorkini Múzeum Sokehsban.",
                   "category": "museum",
                   "coords": [
                         158.209722,
@@ -2502,7 +2502,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "A(z) Eel Pool egy állatkert Sokehs városában.",
+                  "text": "Családbarát természetes medence angolnákkal Sokehsban.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -2511,7 +2511,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "A(z) Pohnpei Swimming Pool egy élményfürdő Sokehs területén.",
+                  "text": "Nyilvános uszoda Sokehsban.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -2520,7 +2520,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolehtik",
-                  "text": "A(z) Dolehtik egy hegycsúcs Sokehs területén.",
+                  "text": "Egy domb a Sokehs járásban, Pohnpein.",
                   "category": "natural",
                   "coords": [
                         158.180593,
@@ -2529,7 +2529,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "A(z) Dolen Metipw egy hegycsúcs Sokehs területén.",
+                  "text": "Egy hegy a Sokehs járásban, Pohnpein.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -2538,7 +2538,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohndolap",
-                  "text": "A(z) Sokehs Mountain egy hegycsúcs Sokehs területén.",
+                  "text": "Sokehs Mountain, egy kiemelkedő csúcs a Sokehs járásban, Pohnpein.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -2547,7 +2547,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "A(z) Dolen Nier egy hegycsúcs Sokehs területén.",
+                  "text": "Egy hegy a Sokehs járásban, Pohnpein.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -2556,7 +2556,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Look-Out",
-                  "text": "A(z) Stone Look-Out egy kilátó Sokehs városában.",
+                  "text": "Természetes kő-kilátó Sokehsban.",
                   "category": "natural",
                   "coords": [
                         158.190532,
@@ -2592,7 +2592,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "Ez a lenyűgöző sziklafal népszerű kirándulóhely Sokehs területén.",
+                  "text": "Egy feltűnő sziklafal Sokehsban.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -2612,7 +2612,7 @@ export const micronesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka este o plajă în Sokehs.",
+                  "text": "O zonă de agrement numită Nipik En Lidakihka în Sokehs.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -2621,7 +2621,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Lidorkini Museum",
-                  "text": "Pohnpei Lidorkini Museum este un muzeu în Sokehs.",
+                  "text": "Muzeul Pohnpei Lidorkini din Sokehs.",
                   "category": "museum",
                   "coords": [
                         158.209722,
@@ -2630,7 +2630,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Eel Pool este o grădină zoologică în Sokehs.",
+                  "text": "Un bazin natural prietenos cu familiile, populat de anghile în Sokehs.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -2639,7 +2639,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "Pohnpei Swimming Pool este un parc acvatic în Sokehs.",
+                  "text": "O piscină publică în Sokehs.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -2648,7 +2648,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolehtik",
-                  "text": "Dolehtik este un vârf montan situat în Sokehs.",
+                  "text": "Un deal în districtul Sokehs din Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.180593,
@@ -2657,7 +2657,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "Dolen Metipw este un vârf montan situat în Sokehs.",
+                  "text": "Un munte în districtul Sokehs din Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -2666,7 +2666,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohndolap",
-                  "text": "Sokehs Mountain este un vârf montan situat în Sokehs.",
+                  "text": "Sokehs Mountain, un vârf proeminent în districtul Sokehs din Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -2675,7 +2675,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "Dolen Nier este un vârf montan situat în Sokehs.",
+                  "text": "Un munte în districtul Sokehs din Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -2684,7 +2684,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Look-Out",
-                  "text": "Stone Look-Out este un punct de belvedere în Sokehs.",
+                  "text": "Un punct de belvedere natural din piatră în Sokehs.",
                   "category": "natural",
                   "coords": [
                         158.190532,
@@ -2720,7 +2720,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "Acest perete stâncos impresionant este o destinație populară de excursie în Sokehs.",
+                  "text": "O față de stâncă proeminentă în Sokehs.",
                   "category": "landmark",
                   "coords": [
                         158.190088,
@@ -2740,7 +2740,7 @@ export const micronesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka is a beach located in Sokehs.",
+                  "text": "A recreational area named Nipik En Lidakihka in Sokehs.",
                   "category": "recreational",
                   "coords": [
                         158.201389,
@@ -2749,7 +2749,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Lidorkini Museum",
-                  "text": "Pohnpei Lidorkini Museum is a museum located in Sokehs.",
+                  "text": "The Pohnpei Lidorkini Museum in Sokehs.",
                   "category": "museum",
                   "coords": [
                         158.209722,
@@ -2758,7 +2758,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Eel Pool",
-                  "text": "Eel Pool is a zoo located in Sokehs.",
+                  "text": "A family-friendly natural pool inhabited by eels in Sokehs.",
                   "category": "family",
                   "coords": [
                         158.185119,
@@ -2767,7 +2767,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pohnpei Swimming Pool",
-                  "text": "Pohnpei Swimming Pool is a water park located in Sokehs.",
+                  "text": "A public swimming pool in Sokehs.",
                   "category": "family",
                   "coords": [
                         158.207667,
@@ -2776,7 +2776,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolehtik",
-                  "text": "Dolehtik is a mountain peak located in Sokehs.",
+                  "text": "A hill in the Sokehs district of Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.180593,
@@ -2785,7 +2785,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Metipw",
-                  "text": "Dolen Metipw is a mountain peak located in Sokehs.",
+                  "text": "A mountain in the Sokehs district of Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.202222,
@@ -2794,7 +2794,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Sokehs Mountain",
-                  "text": "Sokehs Mountain is a mountain peak located in Sokehs.",
+                  "text": "Sokehs Mountain, a prominent peak in the Sokehs district of Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.189673,
@@ -2803,7 +2803,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Dolen Nier",
-                  "text": "Dolen Nier is a mountain peak located in Sokehs.",
+                  "text": "A mountain in the Sokehs district of Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.196389,
@@ -2812,7 +2812,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Stone Look-Out",
-                  "text": "Stone Look-Out is a viewpoint located in Sokehs.",
+                  "text": "A natural stone lookout point in Sokehs.",
                   "category": "natural",
                   "coords": [
                         158.190532,
@@ -2848,7 +2848,7 @@ export const micronesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cliff Face",
-                  "text": "This striking cliff face is a popular excursion destination in Sokehs.",
+                  "text": "A prominent cliff face in Sokehs.",
                   "category": "landmark",
                   "coords": [
                         158.190088,

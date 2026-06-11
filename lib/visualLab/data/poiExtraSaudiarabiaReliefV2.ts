@@ -67,7 +67,52 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     },
   },
   {
-    id: "sa-an-nafud-relief-v2",
+    id: "sa-an-nafud-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bi'r Khunaysir",
+                  "text": "Historische Ruinen an einer Wüstenquelle in der kargen Landschaft der An-Nafud-Wüste.",
+                  "category": "historical",
+                  "coords": [
+                        41.090289,
+                        28.020561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bi'r Khunaysir",
+                  "text": "Történelmi romok egy sivatagi kútnál, az An-Nafúd-sivatag kietlen táján.",
+                  "category": "historical",
+                  "coords": [
+                        41.090289,
+                        28.020561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bi'r Khunaysir",
+                  "text": "Ruine istorice situate lângă o fântână de deșert în peisajul arid al deșertului An Nafud.",
+                  "category": "historical",
+                  "coords": [
+                        41.090289,
+                        28.020561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bi'r Khunaysir",
+                  "text": "Historical ruins located at a desert well within the arid landscape of the An Nafud desert.",
+                  "category": "historical",
+                  "coords": [
+                        41.090289,
+                        28.020561
+                  ]
+            }
+      ]
+},
     type: "desert",
     parent: "SA-06",
     coords: [41.0, 28.0],
@@ -259,7 +304,52 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     },
   },
   {
-    id: "sa-sarawat-mountains-relief-v2",
+    id: "sa-sarawat-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shaar Castle",
+                  "text": "Die hoch in den Sarawat-Bergen thronenden Steinruinen dieser Festung bieten einen weiten Blick über das zerklüftete felsige Gelände.",
+                  "category": "castle",
+                  "coords": [
+                        42.469931,
+                        18.436991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shaar Castle",
+                  "text": "A Szaravát-hegységben magasan fekvő erődítmény kőromjairól lenyűgöző kilátás nyílik a zord sziklás terepre.",
+                  "category": "castle",
+                  "coords": [
+                        42.469931,
+                        18.436991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shaar Castle",
+                  "text": "Așezate sus, în Munții Sarawat, ruinele de piatră ale acestei fortărețe oferă o priveliște panoramică asupra terenului stâncos și accidentat.",
+                  "category": "castle",
+                  "coords": [
+                        42.469931,
+                        18.436991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shaar Castle",
+                  "text": "Perched high in the Sarawat Mountains, the stone ruins of this fortress offer sweeping views over the rugged rocky terrain.",
+                  "category": "castle",
+                  "coords": [
+                        42.469931,
+                        18.436991
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SA-14",
     coords: [42.5, 18.5],
@@ -323,7 +413,196 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     },
   },
   {
-    id: "sa-jabal-shammar-relief-v2",
+    id: "sa-jabal-shammar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "`Ayn al Ufayhij",
+                  "text": "Antike Ruinen einer Siedlung am Fuße des zerklüfteten Jabal-Shammar-Gebirges.",
+                  "category": "historical",
+                  "coords": [
+                        41.510673,
+                        27.510488
+                  ]
+            },
+            {
+                  "name": "Bi'r al `Alya'",
+                  "text": "Überreste eines historischen Brunnens in der bergigen Region Jabal Shammar.",
+                  "category": "historical",
+                  "coords": [
+                        41.575473,
+                        27.539093
+                  ]
+            },
+            {
+                  "name": "`Ayn al Jilufi",
+                  "text": "Alte Ruinen an einer ehemaligen Quelle im Herzen der Shammar-Hochebene.",
+                  "category": "historical",
+                  "coords": [
+                        41.587293,
+                        27.503642
+                  ]
+            },
+            {
+                  "name": "`Ayn al Hima",
+                  "text": "Historisch bedeutsame Ruinen einer antiken Wasserstelle im Jabal-Shammar-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        41.590017,
+                        27.480362
+                  ]
+            },
+            {
+                  "name": "Bi'r al `Umamah",
+                  "text": "Ruinen einer traditionellen Wüstenquelle inmitten der Felsformationen von Hail.",
+                  "category": "historical",
+                  "coords": [
+                        41.435569,
+                        27.442657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "`Ayn al Ufayhij",
+                  "text": "Egy egykori település ősi romjai a tagolt Dzsebel Sammar-hegység lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        41.510673,
+                        27.510488
+                  ]
+            },
+            {
+                  "name": "Bi'r al `Alya'",
+                  "text": "Egy történelmi kút maradványai a Dzsebel Sammar hegyvidéki régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        41.575473,
+                        27.539093
+                  ]
+            },
+            {
+                  "name": "`Ayn al Jilufi",
+                  "text": "Régi romok egy egykori forrásnál a Sammar-fennsík szívében.",
+                  "category": "historical",
+                  "coords": [
+                        41.587293,
+                        27.503642
+                  ]
+            },
+            {
+                  "name": "`Ayn al Hima",
+                  "text": "Egy ősi itatóhely történelmileg jelentős romjai a Dzsebel Sammar területén.",
+                  "category": "historical",
+                  "coords": [
+                        41.590017,
+                        27.480362
+                  ]
+            },
+            {
+                  "name": "Bi'r al `Umamah",
+                  "text": "Egy hagyományos sivatagi kút romjai Hail sziklaformációi között.",
+                  "category": "historical",
+                  "coords": [
+                        41.435569,
+                        27.442657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "`Ayn al Ufayhij",
+                  "text": "Ruinele antice ale unei așezări situate la poalele munților stâncoși Jabal Shammar.",
+                  "category": "historical",
+                  "coords": [
+                        41.510673,
+                        27.510488
+                  ]
+            },
+            {
+                  "name": "Bi'r al `Alya'",
+                  "text": "Rămășițele unei fântâni istorice situate în regiunea muntoasă Jabal Shammar.",
+                  "category": "historical",
+                  "coords": [
+                        41.575473,
+                        27.539093
+                  ]
+            },
+            {
+                  "name": "`Ayn al Jilufi",
+                  "text": "Ruine vechi lângă o fostă sursă de apă în inima platoului Shammar.",
+                  "category": "historical",
+                  "coords": [
+                        41.587293,
+                        27.503642
+                  ]
+            },
+            {
+                  "name": "`Ayn al Hima",
+                  "text": "Ruinele istorice ale unui punct de alimentare cu apă din zona Jabal Shammar.",
+                  "category": "historical",
+                  "coords": [
+                        41.590017,
+                        27.480362
+                  ]
+            },
+            {
+                  "name": "Bi'r al `Umamah",
+                  "text": "Ruinele unei fântâni de deșert tradiționale printre formațiunile stâncoase din Hail.",
+                  "category": "historical",
+                  "coords": [
+                        41.435569,
+                        27.442657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "`Ayn al Ufayhij",
+                  "text": "Ancient ruins of a settlement located at the foot of the rugged Jabal Shammar mountains.",
+                  "category": "historical",
+                  "coords": [
+                        41.510673,
+                        27.510488
+                  ]
+            },
+            {
+                  "name": "Bi'r al `Alya'",
+                  "text": "Remnants of a historical well located in the mountainous Jabal Shammar region.",
+                  "category": "historical",
+                  "coords": [
+                        41.575473,
+                        27.539093
+                  ]
+            },
+            {
+                  "name": "`Ayn al Jilufi",
+                  "text": "Old ruins by a former spring in the heart of the Shammar plateau.",
+                  "category": "historical",
+                  "coords": [
+                        41.587293,
+                        27.503642
+                  ]
+            },
+            {
+                  "name": "`Ayn al Hima",
+                  "text": "Historically significant ruins of an ancient watering hole in the Jabal Shammar area.",
+                  "category": "historical",
+                  "coords": [
+                        41.590017,
+                        27.480362
+                  ]
+            },
+            {
+                  "name": "Bi'r al `Umamah",
+                  "text": "Ruins of a traditional desert well among the rock formations of Hail.",
+                  "category": "historical",
+                  "coords": [
+                        41.435569,
+                        27.442657
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SA-06",
     coords: [41.5, 27.5],
@@ -579,7 +858,52 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     },
   },
   {
-    id: "sa-wadi-fatima-relief-v2",
+    id: "sa-wadi-fatima-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bi'r ar Ramdah",
+                  "text": "Überreste einer antiken Siedlung oder eines Brunnens im fruchtbaren Wadi Fatima Tal.",
+                  "category": "historical",
+                  "coords": [
+                        39.455469,
+                        21.520457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bi'r ar Ramdah",
+                  "text": "Egy ősi település vagy kút maradványai a termékeny Wadi Fatima völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        39.455469,
+                        21.520457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bi'r ar Ramdah",
+                  "text": "Rămășițele unei așezări antice sau ale unei fântâni în valea fertilă Wadi Fatima.",
+                  "category": "historical",
+                  "coords": [
+                        39.455469,
+                        21.520457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bi'r ar Ramdah",
+                  "text": "Remains of an ancient settlement or well located in the fertile Wadi Fatima valley.",
+                  "category": "historical",
+                  "coords": [
+                        39.455469,
+                        21.520457
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "SA-02",
     coords: [39.5, 21.5],
@@ -899,7 +1223,88 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     },
   },
   {
-    id: "sa-red-sea-coast-relief-v2",
+    id: "sa-red-sea-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Durrat Al Arus",
+                  "text": "Ein beliebter Sandstrand und Ferienort an der malerischen Küste des Roten Meeres nördlich von Dschidda.",
+                  "category": "recreational",
+                  "coords": [
+                        38.957976,
+                        21.93935
+                  ]
+            },
+            {
+                  "name": "Alhalmah village",
+                  "text": "Ein Küstendorf mit einer entspannten Sandküste entlang der wunderschönen Küste des Roten Meeres.",
+                  "category": "recreational",
+                  "coords": [
+                        38.957691,
+                        21.941085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Durrat Al Arus",
+                  "text": "Népszerű homokos strand és üdülőközösség a Vörös-tenger festői partja mentén, Dzsiddától északra.",
+                  "category": "recreational",
+                  "coords": [
+                        38.957976,
+                        21.93935
+                  ]
+            },
+            {
+                  "name": "Alhalmah village",
+                  "text": "Egy tengerparti falu, pihentető homokos partvonallal a gyönyörű Vörös-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        38.957691,
+                        21.941085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Durrat Al Arus",
+                  "text": "O plajă de nisip populară și o comunitate de stațiune de-a lungul coastei pitorești a Mării Roșii, la nord de Jeddah.",
+                  "category": "recreational",
+                  "coords": [
+                        38.957976,
+                        21.93935
+                  ]
+            },
+            {
+                  "name": "Alhalmah village",
+                  "text": "Un sat de coastă cu un țărm de nisip relaxat de-a lungul frumoasei coaste a Mării Roșii.",
+                  "category": "recreational",
+                  "coords": [
+                        38.957691,
+                        21.941085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Durrat Al Arus",
+                  "text": "A popular sandy beach and resort community set along the scenic Red Sea coast north of Jeddah.",
+                  "category": "recreational",
+                  "coords": [
+                        38.957976,
+                        21.93935
+                  ]
+            },
+            {
+                  "name": "Alhalmah village",
+                  "text": "A coastal village featuring a relaxed sandy shoreline along the beautiful Red Sea coast.",
+                  "category": "recreational",
+                  "coords": [
+                        38.957691,
+                        21.941085
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "SA-02",
     coords: [39.0, 22.0],
@@ -1155,7 +1560,52 @@ export const poiExtraSaudiarabiaReliefV2: POI[] = [
     },
   },
   {
-    id: "sa-jabal-salma-relief-v2",
+    id: "sa-jabal-salma-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bdaya Alsbaan mosque",
+                  "text": "Die Bdaya Alsbaan Moschee ist ein islamisches Gotteshaus in der bergigen Region Jabal Salma.",
+                  "category": "landmark",
+                  "coords": [
+                        41.965007,
+                        27.007328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bdaya Alsbaan mosque",
+                  "text": "A Bdaya Alsbaan Mecset egy iszlám imahely a hegyvidéki Dzsebel Szalma régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        41.965007,
+                        27.007328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bdaya Alsbaan mosque",
+                  "text": "Moscheea Bdaya Alsbaan este un lăcaș de cult islamic în regiunea muntoasă Jabal Salma.",
+                  "category": "landmark",
+                  "coords": [
+                        41.965007,
+                        27.007328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bdaya Alsbaan mosque",
+                  "text": "Bdaya Alsbaan Mosque is an Islamic place of worship located in the mountainous Jabal Salma region.",
+                  "category": "landmark",
+                  "coords": [
+                        41.965007,
+                        27.007328
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SA-06",
     coords: [42.0, 27.0],

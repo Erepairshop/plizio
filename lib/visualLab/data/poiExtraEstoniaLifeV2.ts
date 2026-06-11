@@ -439,7 +439,7 @@ export const estoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Viljandi rand",
-                  "text": "Viljandi-Strand am Viljandi-See.",
+                  "text": "Badestrand am Viljandi-Seepark.",
                   "category": "recreational",
                   "coords": [
                         25.607826,
@@ -448,7 +448,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Viljandi järve Huntaugu supelrand",
-                  "text": "Huntaugu-Strand am Viljandi-See.",
+                  "text": "Badestelle Huntaug am Viljandi-See.",
                   "category": "recreational",
                   "coords": [
                         25.592801,
@@ -459,7 +459,7 @@ export const estoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Viljandi rand",
-                  "text": "Viljandi strand a Viljandi-tónál.",
+                  "text": "Strand a Viljandi-tavi parkban.",
                   "category": "recreational",
                   "coords": [
                         25.607826,
@@ -468,7 +468,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Viljandi järve Huntaugu supelrand",
-                  "text": "Huntaugu strand a Viljandi-tónál.",
+                  "text": "Huntaug fürdőhely a Viljandi-tónál.",
                   "category": "recreational",
                   "coords": [
                         25.592801,
@@ -479,7 +479,7 @@ export const estoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Viljandi rand",
-                  "text": "Plaja Viljandi la lacul Viljandi.",
+                  "text": "Plajă în parcul lacului Viljandi.",
                   "category": "recreational",
                   "coords": [
                         25.607826,
@@ -488,7 +488,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Viljandi järve Huntaugu supelrand",
-                  "text": "Plaja Huntaugu la lacul Viljandi.",
+                  "text": "Loc de baie Huntaug pe lacul Viljandi.",
                   "category": "recreational",
                   "coords": [
                         25.592801,
@@ -499,7 +499,7 @@ export const estoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Viljandi rand",
-                  "text": "Viljandi beach at Viljandi Lake.",
+                  "text": "Beach at Viljandi Lake Park.",
                   "category": "recreational",
                   "coords": [
                         25.607826,
@@ -508,7 +508,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Viljandi järve Huntaugu supelrand",
-                  "text": "Huntaugu beach at Viljandi Lake.",
+                  "text": "Huntaug swimming spot on Viljandi Lake.",
                   "category": "recreational",
                   "coords": [
                         25.592801,
@@ -763,7 +763,7 @@ export const estoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Vohnja mõisa peahoone",
-                  "text": "Hauptgebäude des historischen Gutshofs Vohnja.",
+                  "text": "Herrenhaus im Neeruti Park.",
                   "category": "historical",
                   "coords": [
                         26.04218,
@@ -772,7 +772,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Ohepalu ujumiskoht",
-                  "text": "Ein Badeplatz im Landschaftsschutzgebiet Neeruti.",
+                  "text": "Badeplatz im Neeruti-Park.",
                   "category": "recreational",
                   "coords": [
                         25.960144,
@@ -783,7 +783,7 @@ export const estoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Vohnja mõisa peahoone",
-                  "text": "A történelmi Vohnja-kúria főépülete.",
+                  "text": "Kastély a Neeruti Parkban.",
                   "category": "historical",
                   "coords": [
                         26.04218,
@@ -792,7 +792,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Ohepalu ujumiskoht",
-                  "text": "Fürdőhely a Neeruti tájvédelmi körzetben.",
+                  "text": "Fürdőhely a Neeruti Parkban.",
                   "category": "recreational",
                   "coords": [
                         25.960144,
@@ -803,7 +803,7 @@ export const estoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Vohnja mõisa peahoone",
-                  "text": "Clădirea principală a conacului istoric Vohnja.",
+                  "text": "Conac în Parcul Neeruti.",
                   "category": "historical",
                   "coords": [
                         26.04218,
@@ -812,7 +812,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Ohepalu ujumiskoht",
-                  "text": "Un loc pentru scăldat în Rezervația Neeruti.",
+                  "text": "Loc de înot în Parcul Neeruti.",
                   "category": "recreational",
                   "coords": [
                         25.960144,
@@ -823,7 +823,7 @@ export const estoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Vohnja mõisa peahoone",
-                  "text": "Main building of the historical Vohnja manor.",
+                  "text": "Manor house in Neeruti Park.",
                   "category": "historical",
                   "coords": [
                         26.04218,
@@ -832,7 +832,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Ohepalu ujumiskoht",
-                  "text": "A swimming area in the Neeruti Landscape Reserve.",
+                  "text": "Swimming spot in Neeruti Park.",
                   "category": "recreational",
                   "coords": [
                         25.960144,
@@ -979,7 +979,7 @@ export const estoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Nikerjärve supelrand",
-                  "text": "Badestrand am Nikerjärv-See im Wald von Aegviidu.",
+                  "text": "Badestrand am Niker-See im Aegviidu-Wald.",
                   "category": "recreational",
                   "coords": [
                         25.629469,
@@ -988,7 +988,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Purgatsi järve supelrand",
-                  "text": "Badestrand am Purgatsi-See bei Aegviidu.",
+                  "text": "Badestrand am Purgatsi-See im Aegviidu-Wald.",
                   "category": "recreational",
                   "coords": [
                         25.650703,
@@ -1008,7 +1008,7 @@ export const estoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Nikerjärve supelrand",
-                  "text": "Nikerjärv-tavi strand az Aegviidu erdőben.",
+                  "text": "Strand a Niker-tónál az Aegviidu-erdőben.",
                   "category": "recreational",
                   "coords": [
                         25.629469,
@@ -1017,7 +1017,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Purgatsi järve supelrand",
-                  "text": "Strand a Purgatsi-tónál, Aegviidu közelében.",
+                  "text": "Strand a Purgatsi-tónál az Aegviidu-erdőben.",
                   "category": "recreational",
                   "coords": [
                         25.650703,
@@ -1037,7 +1037,7 @@ export const estoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Nikerjärve supelrand",
-                  "text": "Plaja lacului Nikerjärv în pădurea Aegviidu.",
+                  "text": "Plajă pe lacul Niker în pădurea Aegviidu.",
                   "category": "recreational",
                   "coords": [
                         25.629469,
@@ -1046,7 +1046,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Purgatsi järve supelrand",
-                  "text": "Plajă la lacul Purgatsi, lângă Aegviidu.",
+                  "text": "Plajă pe lacul Purgatsi în pădurea Aegviidu.",
                   "category": "recreational",
                   "coords": [
                         25.650703,
@@ -1066,7 +1066,7 @@ export const estoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Nikerjärve supelrand",
-                  "text": "Nikerjärv lake beach in Aegviidu forest.",
+                  "text": "Beach on Niker Lake in Aegviidu Forest.",
                   "category": "recreational",
                   "coords": [
                         25.629469,
@@ -1075,7 +1075,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Purgatsi järve supelrand",
-                  "text": "Beach at Purgatsi Lake near Aegviidu.",
+                  "text": "Beach on Purgatsi Lake in Aegviidu Forest.",
                   "category": "recreational",
                   "coords": [
                         25.650703,
@@ -1231,7 +1231,7 @@ export const estoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Virtsu Vanaluubi supelrand",
-                  "text": "Badestrand am Vanaluubi bei Puhtu-Laelatu.",
+                  "text": "Badestrand Virtsu Vanaluubi nahe dem Naturschutzgebiet Puhtu-Laelatu.",
                   "category": "recreational",
                   "coords": [
                         23.552021,
@@ -1240,7 +1240,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu tuletorn",
-                  "text": "Ein aktiver Leuchtturm an der Westküste Estlands.",
+                  "text": "27 m hoher Steinleuchtturm an der Küste in Puhtu Laelatu.",
                   "category": "landmark",
                   "coords": [
                         23.5016,
@@ -1249,7 +1249,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu sadamakai tulepaak",
-                  "text": "Ein kleines Molenfeuer am Hafen von Virtsu.",
+                  "text": "Hafenfeuer von Virtsu am Kai.",
                   "category": "landmark",
                   "coords": [
                         23.508233,
@@ -1258,7 +1258,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu sihi alumine tulepaak",
-                  "text": "Ein Leitfeuer zur Navigation in der Nähe von Virtsu.",
+                  "text": "Unteres Leitfeuer der Virtsu-Bake.",
                   "category": "landmark",
                   "coords": [
                         23.523033,
@@ -1285,7 +1285,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu vasallilinnus",
-                  "text": "Ruinen einer mittelalterlichen Vasallenburg in Estland.",
+                  "text": "Ruinen einer mittelalterlichen Vasallenburg an der Küste in Puhtu Laelatu.",
                   "category": "historical",
                   "coords": [
                         23.524269,
@@ -1305,7 +1305,7 @@ export const estoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Virtsu Vanaluubi supelrand",
-                  "text": "Strand a Vanaluubinál, Puhtu-Laelatu közelében.",
+                  "text": "Virtsu Vanaluubi strand a Puhtu-Laelatu természetvédelmi terület közelében.",
                   "category": "recreational",
                   "coords": [
                         23.552021,
@@ -1314,7 +1314,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu tuletorn",
-                  "text": "Aktív világítótorony Észtország nyugati partján.",
+                  "text": "27 m magas kő világítótorony a parton Puhtu Laelatuban.",
                   "category": "landmark",
                   "coords": [
                         23.5016,
@@ -1323,7 +1323,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu sadamakai tulepaak",
-                  "text": "Kisméretű kikötői jelzőfény Virtsu mólójánál.",
+                  "text": "Virtsu kikötői irányfény a mólón.",
                   "category": "landmark",
                   "coords": [
                         23.508233,
@@ -1332,7 +1332,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu sihi alumine tulepaak",
-                  "text": "Navigációs jelzőfény Virtsu kikötője közelében.",
+                  "text": "A Virtsu irányfénypár alsó jelzőlámpája.",
                   "category": "landmark",
                   "coords": [
                         23.523033,
@@ -1359,7 +1359,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu vasallilinnus",
-                  "text": "Egy középkori hűbéri vár romjai Észtországban.",
+                  "text": "Egy középkori vazallusvár romjai a parton Puhtu Laelatuban.",
                   "category": "historical",
                   "coords": [
                         23.524269,
@@ -1379,7 +1379,7 @@ export const estoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Virtsu Vanaluubi supelrand",
-                  "text": "Plajă la Vanaluubi, lângă Puhtu-Laelatu.",
+                  "text": "Plaja Virtsu Vanaluubi lângă rezervația naturală Puhtu-Laelatu.",
                   "category": "recreational",
                   "coords": [
                         23.552021,
@@ -1388,7 +1388,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu tuletorn",
-                  "text": "Un far activ situat pe coasta de vest a Estoniei.",
+                  "text": "Far de piatră de 27 m înălțime pe coasta din Puhtu Laelatu.",
                   "category": "landmark",
                   "coords": [
                         23.5016,
@@ -1397,7 +1397,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu sadamakai tulepaak",
-                  "text": "Un mic far situat pe debarcaderul portului Virtsu.",
+                  "text": "Farul de port din Virtsu la chei.",
                   "category": "landmark",
                   "coords": [
                         23.508233,
@@ -1406,7 +1406,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu sihi alumine tulepaak",
-                  "text": "Un far de direcție inferior pentru navigație lângă Virtsu.",
+                  "text": "Farul inferior al aliniamentului Virtsu.",
                   "category": "landmark",
                   "coords": [
                         23.523033,
@@ -1433,7 +1433,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu vasallilinnus",
-                  "text": "Ruinele unei cetăți vasale medievale din Estonia.",
+                  "text": "Ruinele unui castel medieval de vasal pe coastă în Puhtu Laelatu.",
                   "category": "historical",
                   "coords": [
                         23.524269,
@@ -1453,7 +1453,7 @@ export const estoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Virtsu Vanaluubi supelrand",
-                  "text": "Beach at Vanaluubi near Puhtu-Laelatu.",
+                  "text": "Virtsu Vanaluubi beach near Puhtu-Laelatu nature reserve.",
                   "category": "recreational",
                   "coords": [
                         23.552021,
@@ -1462,7 +1462,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu tuletorn",
-                  "text": "An active lighthouse on the western coast of Estonia.",
+                  "text": "27 m high stone lighthouse on the coast in Puhtu Laelatu.",
                   "category": "landmark",
                   "coords": [
                         23.5016,
@@ -1471,7 +1471,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu sadamakai tulepaak",
-                  "text": "A small lighthouse beacon at the Virtsu harbor pier.",
+                  "text": "Virtsu harbour leading light at the pier.",
                   "category": "landmark",
                   "coords": [
                         23.508233,
@@ -1480,7 +1480,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu sihi alumine tulepaak",
-                  "text": "A lower range light beacon for navigation near Virtsu.",
+                  "text": "Lower leading light of the Virtsu range.",
                   "category": "landmark",
                   "coords": [
                         23.523033,
@@ -1507,7 +1507,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Virtsu vasallilinnus",
-                  "text": "Ruins of a medieval vassal castle in Estonia.",
+                  "text": "Ruins of a medieval vassal castle on the coast in Puhtu Laelatu.",
                   "category": "historical",
                   "coords": [
                         23.524269,
@@ -1573,7 +1573,7 @@ export const estoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Järlepa supelrand",
-                  "text": "Badestrand am Järlepa-See beim Otsa-Park.",
+                  "text": "Badestrand am Otsa-Park.",
                   "category": "recreational",
                   "coords": [
                         24.932761,
@@ -1582,7 +1582,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pirgu supelrand",
-                  "text": "Strand im Otsa-Park.",
+                  "text": "Badeplatz am Otsa-Park.",
                   "category": "recreational",
                   "coords": [
                         24.820345,
@@ -1593,7 +1593,7 @@ export const estoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Järlepa supelrand",
-                  "text": "Järlepa-tavi strand az Otsa parknál.",
+                  "text": "Strand az Otsa Park mellett.",
                   "category": "recreational",
                   "coords": [
                         24.932761,
@@ -1602,7 +1602,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pirgu supelrand",
-                  "text": "Strand az Otsa Parkban.",
+                  "text": "Fürdőhely az Otsa Park mellett.",
                   "category": "recreational",
                   "coords": [
                         24.820345,
@@ -1613,7 +1613,7 @@ export const estoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Järlepa supelrand",
-                  "text": "Plaja lacului Järlepa lângă parcul Otsa.",
+                  "text": "Plajă lângă Parcul Otsa.",
                   "category": "recreational",
                   "coords": [
                         24.932761,
@@ -1622,7 +1622,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pirgu supelrand",
-                  "text": "Plajă în parcul Otsa.",
+                  "text": "Loc de înot lângă Parcul Otsa.",
                   "category": "recreational",
                   "coords": [
                         24.820345,
@@ -1633,7 +1633,7 @@ export const estoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Järlepa supelrand",
-                  "text": "Järlepa lake beach near Otsa Park.",
+                  "text": "Beach near Otsa Park.",
                   "category": "recreational",
                   "coords": [
                         24.932761,
@@ -1642,7 +1642,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pirgu supelrand",
-                  "text": "Beach located in Otsa Park.",
+                  "text": "Swimming spot near Otsa Park.",
                   "category": "recreational",
                   "coords": [
                         24.820345,
@@ -1699,7 +1699,7 @@ export const estoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Mändjala rand",
-                  "text": "Mändjala-Strand beim Tehumardi-Wald.",
+                  "text": "Sandstrand Mändjala nahe dem Tehumardi-Wald.",
                   "category": "recreational",
                   "coords": [
                         22.324026,
@@ -1726,7 +1726,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Nasva ranna ujumiskoht",
-                  "text": "Ein ruhiger Badeplatz am Nasva-Strand in Estland.",
+                  "text": "Badeplatz am Nasva-Strand nahe dem Tehumardi-Wald.",
                   "category": "recreational",
                   "coords": [
                         22.397586,
@@ -1737,7 +1737,7 @@ export const estoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Mändjala rand",
-                  "text": "Mändjala strand a Tehumardi erdőnél.",
+                  "text": "Mändjala homokos strand a Tehumardi-erdő közelében.",
                   "category": "recreational",
                   "coords": [
                         22.324026,
@@ -1764,7 +1764,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Nasva ranna ujumiskoht",
-                  "text": "Nyugodt fürdőhely az észtországi Nasva-strandon.",
+                  "text": "Fürdőhely a Nasva-strandon a Tehumardi-erdő közelében.",
                   "category": "recreational",
                   "coords": [
                         22.397586,
@@ -1775,7 +1775,7 @@ export const estoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Mändjala rand",
-                  "text": "Plaja Mändjala lângă pădurea Tehumardi.",
+                  "text": "Plaja cu nisip Mändjala lângă pădurea Tehumardi.",
                   "category": "recreational",
                   "coords": [
                         22.324026,
@@ -1802,7 +1802,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Nasva ranna ujumiskoht",
-                  "text": "Un loc de scăldat liniștit pe plaja Nasva din Estonia.",
+                  "text": "Loc de înot pe plaja Nasva lângă pădurea Tehumardi.",
                   "category": "recreational",
                   "coords": [
                         22.397586,
@@ -1813,7 +1813,7 @@ export const estoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Mändjala rand",
-                  "text": "Mändjala beach near Tehumardi Forest.",
+                  "text": "Mändjala sandy beach near Tehumardi Forest.",
                   "category": "recreational",
                   "coords": [
                         22.324026,
@@ -1840,7 +1840,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Nasva ranna ujumiskoht",
-                  "text": "A quiet swimming spot at Nasva beach in Estonia.",
+                  "text": "Swimming spot on Nasva beach near Tehumardi Forest.",
                   "category": "recreational",
                   "coords": [
                         22.397586,
@@ -1897,7 +1897,7 @@ export const estoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Paralepa supelrand",
-                  "text": "Paralepa-Badestrand beim Väike-Viik-Park.",
+                  "text": "Paralepa Strand am Ufer der kleinen Bucht Väike Viik im Vaike Viik Park.",
                   "category": "recreational",
                   "coords": [
                         23.516113,
@@ -1906,7 +1906,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Vasikaholmi supelrand",
-                  "text": "Vasikaholmi-Badestrand beim Park Väike-Viik.",
+                  "text": "Vasikaholmi Strand am nördlichen Ende des Vaike Viik Parks.",
                   "category": "recreational",
                   "coords": [
                         23.52016,
@@ -1915,7 +1915,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Väikese viigi supelrand",
-                  "text": "Strand am Väike Viik.",
+                  "text": "Strand der kleinen Bucht selbst, zentral im Vaike Viik Park.",
                   "category": "recreational",
                   "coords": [
                         23.52952,
@@ -1924,7 +1924,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pullapää supelrand",
-                  "text": "Strand in Pullapää.",
+                  "text": "Pullapää Strand an der Südspitze des Vaike Viik Parks.",
                   "category": "recreational",
                   "coords": [
                         23.452745,
@@ -1942,7 +1942,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Haapsalu talisupluskoht",
-                  "text": "Ein bekannter Ort für das Winterschwimmen in Haapsalu.",
+                  "text": "Haapsalu Winterbadestelle im Vaike Viik Park.",
                   "category": "recreational",
                   "coords": [
                         23.523511,
@@ -1953,7 +1953,7 @@ export const estoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Paralepa supelrand",
-                  "text": "Paralepa strand a Väike Viik parknál.",
+                  "text": "Paralepa strand a Väike Viik kis öböl partján a Vaike Viik Parkban.",
                   "category": "recreational",
                   "coords": [
                         23.516113,
@@ -1962,7 +1962,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Vasikaholmi supelrand",
-                  "text": "Vasikaholmi strand a Väike Viik parknál.",
+                  "text": "Vasikaholmi strand a Vaike Viik Park északi végén.",
                   "category": "recreational",
                   "coords": [
                         23.52016,
@@ -1971,7 +1971,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Väikese viigi supelrand",
-                  "text": "Strand a Väike Viiknél.",
+                  "text": "A kis öböl strandja, központi helyen a Vaike Viik Parkban.",
                   "category": "recreational",
                   "coords": [
                         23.52952,
@@ -1980,7 +1980,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pullapää supelrand",
-                  "text": "Strand Pullapääben.",
+                  "text": "Pullapää strand a Vaike Viik Park déli csücskénél.",
                   "category": "recreational",
                   "coords": [
                         23.452745,
@@ -1998,7 +1998,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Haapsalu talisupluskoht",
-                  "text": "Ismert téli úszóhely Haapsaluban.",
+                  "text": "Haapsalu téli fürdőhely a Vaike Viik Parkban.",
                   "category": "recreational",
                   "coords": [
                         23.523511,
@@ -2009,7 +2009,7 @@ export const estoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Paralepa supelrand",
-                  "text": "Plaja Paralepa lângă parcul Väike Viik.",
+                  "text": "Plaja Paralepa pe malul micului golf Väike Viik din Parcul Vaike Viik.",
                   "category": "recreational",
                   "coords": [
                         23.516113,
@@ -2018,7 +2018,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Vasikaholmi supelrand",
-                  "text": "Plaja Vasikaholmi lângă parcul Väike Viik.",
+                  "text": "Plaja Vasikaholm la capătul nordic al Parcului Vaike Viik.",
                   "category": "recreational",
                   "coords": [
                         23.52016,
@@ -2027,7 +2027,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Väikese viigi supelrand",
-                  "text": "Plajă la Väike Viik.",
+                  "text": "Plaja micului golf, centrală în Parcul Vaike Viik.",
                   "category": "recreational",
                   "coords": [
                         23.52952,
@@ -2036,7 +2036,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pullapää supelrand",
-                  "text": "Plajă în Pullapää.",
+                  "text": "Plaja Pullapää la vârful sudic al Parcului Vaike Viik.",
                   "category": "recreational",
                   "coords": [
                         23.452745,
@@ -2054,7 +2054,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Haapsalu talisupluskoht",
-                  "text": "Un loc cunoscut pentru înotul de iarnă în Haapsalu.",
+                  "text": "Loc de înot de iarnă Haapsalu în Parcul Vaike Viik.",
                   "category": "recreational",
                   "coords": [
                         23.523511,
@@ -2065,7 +2065,7 @@ export const estoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Paralepa supelrand",
-                  "text": "Paralepa beach near Väike Viik Park.",
+                  "text": "Paralepa beach on the shore of the small bay Väike Viik in Vaike Viik Park.",
                   "category": "recreational",
                   "coords": [
                         23.516113,
@@ -2074,7 +2074,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Vasikaholmi supelrand",
-                  "text": "Vasikaholmi beach near Väike Viik Park.",
+                  "text": "Vasikaholm beach at the north end of Vaike Viik Park.",
                   "category": "recreational",
                   "coords": [
                         23.52016,
@@ -2083,7 +2083,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Väikese viigi supelrand",
-                  "text": "Beach at Väike Viik.",
+                  "text": "The beach of the small bay itself, central in Vaike Viik Park.",
                   "category": "recreational",
                   "coords": [
                         23.52952,
@@ -2092,7 +2092,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pullapää supelrand",
-                  "text": "Beach in Pullapää.",
+                  "text": "Pullapää beach on the southern tip of Vaike Viik Park.",
                   "category": "recreational",
                   "coords": [
                         23.452745,
@@ -2110,7 +2110,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Haapsalu talisupluskoht",
-                  "text": "A well-known spot for winter swimming in Haapsalu.",
+                  "text": "Haapsalu winter swimming spot in Vaike Viik Park.",
                   "category": "recreational",
                   "coords": [
                         23.523511,
@@ -2167,7 +2167,7 @@ export const estoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Alavere supelrand",
-                  "text": "Strand bei Alavere.",
+                  "text": "Alavere Strand am Ufer des Paunküla-Sees im Paunkula Park.",
                   "category": "recreational",
                   "coords": [
                         25.331162,
@@ -2187,7 +2187,7 @@ export const estoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Alavere supelrand",
-                  "text": "Strand Alaverénél.",
+                  "text": "Alavere strand a Paunküla-tó partján a Paunkula Parkban.",
                   "category": "recreational",
                   "coords": [
                         25.331162,
@@ -2207,7 +2207,7 @@ export const estoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Alavere supelrand",
-                  "text": "Plajă lângă Alavere.",
+                  "text": "Plaja Alavere pe malul lacului Paunküla din Parcul Paunkula.",
                   "category": "recreational",
                   "coords": [
                         25.331162,
@@ -2227,7 +2227,7 @@ export const estoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Alavere supelrand",
-                  "text": "Beach near Alavere.",
+                  "text": "Alavere beach on the shore of Lake Paunküla in Paunkula Park.",
                   "category": "recreational",
                   "coords": [
                         25.331162,
@@ -2743,7 +2743,7 @@ export const estoniaLifeV2: POI[] = [
       "de": [
             {
                   "name": "Läätsa supelrand",
-                  "text": "Badestrand Läätsa im Salme Park.",
+                  "text": "Läätsa Strand im Salme Park, bekannt für seine flachen Gewässer.",
                   "category": "recreational",
                   "coords": [
                         22.254945,
@@ -2752,7 +2752,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pagila supelrand",
-                  "text": "Badestrand Pagila im Salme Park.",
+                  "text": "Pagila Strand entlang der Uferlinie des Salme Parks.",
                   "category": "recreational",
                   "coords": [
                         22.260173,
@@ -2790,7 +2790,7 @@ export const estoniaLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Läätsa supelrand",
-                  "text": "Läätsa strand a Salme parkban.",
+                  "text": "Läätsa strand a Salme Parkban, sekély vizéről ismert.",
                   "category": "recreational",
                   "coords": [
                         22.254945,
@@ -2799,7 +2799,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pagila supelrand",
-                  "text": "Pagila strand a Salme parkban.",
+                  "text": "Pagila strand a Salme Park partvonala mentén.",
                   "category": "recreational",
                   "coords": [
                         22.260173,
@@ -2837,7 +2837,7 @@ export const estoniaLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Läätsa supelrand",
-                  "text": "Plaja Läätsa în parcul Salme.",
+                  "text": "Plaja Läätsa în Parcul Salme, cunoscută pentru apele sale puțin adânci.",
                   "category": "recreational",
                   "coords": [
                         22.254945,
@@ -2846,7 +2846,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pagila supelrand",
-                  "text": "Plaja Pagila în parcul Salme.",
+                  "text": "Plaja Pagila de-a lungul țărmului Parcului Salme.",
                   "category": "recreational",
                   "coords": [
                         22.260173,
@@ -2884,7 +2884,7 @@ export const estoniaLifeV2: POI[] = [
       "en": [
             {
                   "name": "Läätsa supelrand",
-                  "text": "Läätsa beach in Salme Park.",
+                  "text": "Läätsa beach in Salme Park, known for its shallow waters.",
                   "category": "recreational",
                   "coords": [
                         22.254945,
@@ -2893,7 +2893,7 @@ export const estoniaLifeV2: POI[] = [
             },
             {
                   "name": "Pagila supelrand",
-                  "text": "Pagila beach in Salme Park.",
+                  "text": "Pagila beach along the Salme Park shoreline.",
                   "category": "recreational",
                   "coords": [
                         22.260173,

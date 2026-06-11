@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraAfghanistanEconomicV2: POI[] = [
   {
-    id: "mes-aynak-mine-economic-v2",
+    id: "mes-aynak-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guldara Stupa",
+                  "text": "Diese auf einem Hügel thronende antike buddhistische Stupa ist ein bemerkenswertes architektonisches Relikt aus der Zeit des Kuschan-Reiches.",
+                  "category": "landmark",
+                  "coords": [
+                        69.278645,
+                        34.392765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guldara Stupa",
+                  "text": "Ez a dombtetőn álló ősi buddhista sztúpa a Kusán Birodalom korának egyik figyelemre méltó építészeti emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        69.278645,
+                        34.392765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guldara Stupa",
+                  "text": "Această stupă budistă antică, așezată pe un deal, este o relicvă arhitecturală remarcabilă din perioada Imperiului Kushan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.278645,
+                        34.392765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guldara Stupa",
+                  "text": "Perched on a hill, this ancient Buddhist stupa is a remarkable architectural relic dating back to the Kushan Empire.",
+                  "category": "landmark",
+                  "coords": [
+                        69.278645,
+                        34.392765
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "AF-LOG",
     coords: [69.25, 34.40],
@@ -47,7 +92,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Ancient artifacts found include statues, manuscripts, and coins."
     ], image: "/poi-images/mes-aynak-mine-economic-v2.webp"},
   {
-    id: "hajigak-mine-economic-v2",
+    id: "hajigak-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kohe Ahengaran",
+                  "text": "Ein schroffer Gipfel im Hindukusch-Gebirge in der Nähe des eisenreichen Hajigak-Passes.",
+                  "category": "natural",
+                  "coords": [
+                        67.960103,
+                        34.64123
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kohe Ahengaran",
+                  "text": "Egy zord hegycsúcs a Hindukus-hegységben, a vasban gazdag Hadzsígak-hágó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        67.960103,
+                        34.64123
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kohe Ahengaran",
+                  "text": "Un vârf accidentat din munții Hindu Kush, situat lângă pasul Hajigak, bogat în fier.",
+                  "category": "natural",
+                  "coords": [
+                        67.960103,
+                        34.64123
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kohe Ahengaran",
+                  "text": "A rugged peak in the Hindu Kush mountains, located near the iron-rich Hajigak Pass.",
+                  "category": "natural",
+                  "coords": [
+                        67.960103,
+                        34.64123
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "AF-BAM",
     coords: [68.06, 34.66],
@@ -135,7 +225,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Handles several hundred trucks per day."
     ], image: "/poi-images/sher-khan-bandar-economic-v2.webp"},
   {
-    id: "hairatan-port-economic-v2",
+    id: "hairatan-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hayraton Do'stlik ko'prigi",
+                  "text": "Die Brücke der Freundschaft zwischen Afghanistan und Usbekistan ist eine wichtige Verkehrsverbindung über den Fluss Amudarja bei Hairatan.",
+                  "category": "landmark",
+                  "coords": [
+                        67.427634,
+                        37.228966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hayraton Do'stlik ko'prigi",
+                  "text": "Az afgán-üzbég Barátság hídja egy alapvető fontosságú közlekedési kapcsolat, amely az Amu-darja folyót íveli át Hairatannál.",
+                  "category": "landmark",
+                  "coords": [
+                        67.427634,
+                        37.228966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hayraton Do'stlik ko'prigi",
+                  "text": "Podul Prieteniei Afganistan-Uzbekistan este o legătură de transport esențială care traversează râul Amu Daria la Hairatan.",
+                  "category": "landmark",
+                  "coords": [
+                        67.427634,
+                        37.228966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Afghanistan–Uzbekistan Friendship Bridge",
+                  "text": "The Afghanistan–Uzbekistan Friendship Bridge is an essential transport link crossing the Amu Darya river at Hairatan.",
+                  "category": "landmark",
+                  "coords": [
+                        67.427634,
+                        37.228966
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "AF-BAL",
     coords: [67.43, 37.23],
@@ -179,7 +314,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Crucial for importing fuel, construction materials, and grain."
     ], image: "/poi-images/hairatan-port-economic-v2.webp"},
   {
-    id: "islam-qala-hub-economic-v2",
+    id: "islam-qala-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Islam Qala Mosque",
+                  "text": "Eine lokale Moschee in der Nähe des geschäftigen wirtschaftlichen Grenzknotenpunkts Islam Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        61.087557,
+                        34.670047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Islam Qala Mosque",
+                  "text": "Helyi mecset az iszlam kalai nyüzsgő gazdasági határátkelőhely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        61.087557,
+                        34.670047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Islam Qala Mosque",
+                  "text": "O moschee locală situată în apropierea nodului economic de frontieră aglomerat din Islam Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        61.087557,
+                        34.670047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Islam Qala Mosque",
+                  "text": "A local mosque situated near the bustling economic border hub of Islam Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        61.087557,
+                        34.670047
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "AF-HER",
     coords: [61.07, 34.66],
@@ -224,7 +404,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     ]
   },
   {
-    id: "spin-boldak-hub-economic-v2",
+    id: "spin-boldak-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spin Boldak border commercial zone",
+                  "text": "Die Grenzzone von Spin Boldak ist ein wichtiger grenzüberschreitender Handelsposten für den Warenaustausch zwischen Afghanistan und Pakistan.",
+                  "category": "cultural",
+                  "coords": [
+                        66.425478,
+                        30.970936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spin Boldak border commercial zone",
+                  "text": "A Spin Boldak határmenti kereskedelmi zóna egy jelentős, határokon átnyúló kereskedelmi állomás, amely megkönnyíti az árucserét Afganisztán és Pakisztán között.",
+                  "category": "cultural",
+                  "coords": [
+                        66.425478,
+                        30.970936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spin Boldak border commercial zone",
+                  "text": "Zona comercială de frontieră Spin Boldak este un important punct de tranzit transfrontalier care facilitează schimbul de mărfuri între Afganistan și Pakistan.",
+                  "category": "cultural",
+                  "coords": [
+                        66.425478,
+                        30.970936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spin Boldak border commercial zone",
+                  "text": "The Spin Boldak border commercial zone is a major cross-border trading post facilitating goods exchange between Afghanistan and Pakistan.",
+                  "category": "cultural",
+                  "coords": [
+                        66.425478,
+                        30.970936
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "AF-KAN",
     coords: [66.39, 31.01],
@@ -268,7 +493,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "The Durand Line, which forms the border, is a point of contention."
     ], image: "/poi-images/spin-boldak-hub-economic-v2.webp"},
   {
-    id: "torkham-hub-economic-v2",
+    id: "torkham-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chaiber-Pass",
+                  "text": "Ein legendärer Gebirgspass im Spin-Ghar-Gebirge, der seit Jahrhunderten als lebenswichtige Handelsroute zwischen Pakistan und Afghanistan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        71.144142,
+                        34.094027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khyber Pass",
+                  "text": "A Spin Ghar-hegység legendás hágója, amely évszázadok óta fontos kereskedelmi útvonalként szolgál Pakisztán és Afganisztán között.",
+                  "category": "landmark",
+                  "coords": [
+                        71.144142,
+                        34.094027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khyber Pass",
+                  "text": "O trecătoare montană legendară din munții Spin Ghar, care servește de secole ca rută comercială vitală între Pakistan și Afganistan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.144142,
+                        34.094027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khyber Pass",
+                  "text": "A legendary mountain pass in the Spin Ghar range that has served as a vital trade route between Pakistan and Afghanistan for centuries.",
+                  "category": "landmark",
+                  "coords": [
+                        71.144142,
+                        34.094027
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "AF-NAN",
     coords: [71.08, 34.11],
@@ -312,7 +582,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Site of frequent closures due to political tensions."
     ], image: "/poi-images/torkham-hub-economic-v2.webp"},
   {
-    id: "kajaki-hydro-economic-v2",
+    id: "kajaki-hydro-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shahr-i Kuhna",
+                  "text": "Die archäologischen Ruinen einer antiken Siedlung in der Region Kajaki.",
+                  "category": "historical",
+                  "coords": [
+                        64.98556,
+                        32.355221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shahr-i Kuhna",
+                  "text": "Egy ősi település régészeti romjai a Kajaki régióban.",
+                  "category": "historical",
+                  "coords": [
+                        64.98556,
+                        32.355221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shahr-i Kuhna",
+                  "text": "Ruinele arheologice ale unei așezări antice situate în regiunea Kajaki.",
+                  "category": "historical",
+                  "coords": [
+                        64.98556,
+                        32.355221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shahr-i Kuhna",
+                  "text": "The archaeological ruins of an ancient settlement located in the Kajaki region.",
+                  "category": "historical",
+                  "coords": [
+                        64.98556,
+                        32.355221
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "AF-HEL",
     coords: [65.04, 32.32],
@@ -489,7 +804,124 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
     ]
   },
   {
-    id: "torghundi-port-economic-v2",
+    id: "torghundi-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alýoşa",
+                  "text": "Ein Denkmal in Torghundi, das in sowjetischer Tradition dem unbekannten Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        62.345486,
+                        35.278138
+                  ]
+            },
+            {
+                  "name": "Southern Cross of the Russian Empire",
+                  "text": "Ein 10 Meter hohes Steinkreuz, das den südlichsten Punkt des ehemaligen Russischen Reiches markiert.",
+                  "category": "historical",
+                  "coords": [
+                        62.341882,
+                        35.277042
+                  ]
+            },
+            {
+                  "name": "Döwlet Adam Üçindir",
+                  "text": "Ein patriotisches Denkmal, das das Staatsmotto 'Der Staat ist für den Menschen' verkörpert.",
+                  "category": "historical",
+                  "coords": [
+                        62.350702,
+                        35.283582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alýoşa",
+                  "text": "Emlékmű Torghundiban, amelyet a szovjet hagyományoknak megfelelően az ismeretlen katonának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        62.345486,
+                        35.278138
+                  ]
+            },
+            {
+                  "name": "Southern Cross of the Russian Empire",
+                  "text": "Egy 10 méter magas kőkereszt, amely az egykori Orosz Birodalom legdélebbi pontját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        62.341882,
+                        35.277042
+                  ]
+            },
+            {
+                  "name": "Döwlet Adam Üçindir",
+                  "text": "Hazafias emlékmű, amely az állami mottót hirdeti: 'Az állam az emberért van'.",
+                  "category": "historical",
+                  "coords": [
+                        62.350702,
+                        35.283582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alýoşa",
+                  "text": "Un monument din Torghundi dedicat soldatului necunoscut, în conformitate cu tradiția sovietică.",
+                  "category": "historical",
+                  "coords": [
+                        62.345486,
+                        35.278138
+                  ]
+            },
+            {
+                  "name": "Southern Cross of the Russian Empire",
+                  "text": "O cruce de piatră înaltă de 10 metri, care marchează cel mai sudic punct al fostului Imperiu Rus.",
+                  "category": "historical",
+                  "coords": [
+                        62.341882,
+                        35.277042
+                  ]
+            },
+            {
+                  "name": "Döwlet Adam Üçindir",
+                  "text": "Un monument patriotic care întruchipează motoul de stat: „Statul este pentru om”.",
+                  "category": "historical",
+                  "coords": [
+                        62.350702,
+                        35.283582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alyosha",
+                  "text": "A monument in Torghundi dedicated to the unknown soldier in the Soviet tradition.",
+                  "category": "historical",
+                  "coords": [
+                        62.345486,
+                        35.278138
+                  ]
+            },
+            {
+                  "name": "Southern Cross of the Russian Empire",
+                  "text": "A 10-meter-high stone cross marking the southernmost point of the former Russian Empire.",
+                  "category": "historical",
+                  "coords": [
+                        62.341882,
+                        35.277042
+                  ]
+            },
+            {
+                  "name": "Döwlet Adam Üçindir",
+                  "text": "A patriotic monument embodying the state motto 'The State is for the People'.",
+                  "category": "historical",
+                  "coords": [
+                        62.350702,
+                        35.283582
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "AF-HER",
     coords: [62.28, 35.25],
@@ -577,7 +1009,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Production has been hampered by conflict and lack of investment."
     ], image: "/poi-images/sheberghan-gas-economic-v2.webp"},
   {
-    id: "amu-darya-oil-economic-v2",
+    id: "amu-darya-oil-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qal`ah-ye Daimah",
+                  "text": "Antike Ruinen einer Festung in der Ebene nahe dem Fluss Amu Darya.",
+                  "category": "historical",
+                  "coords": [
+                        65.97229,
+                        36.243366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qal`ah-ye Daimah",
+                  "text": "Egy ősi erődítmény romjai az Amu-darja folyó menti síkságon.",
+                  "category": "historical",
+                  "coords": [
+                        65.97229,
+                        36.243366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qal`ah-ye Daimah",
+                  "text": "Ruinele unei vechi fortărețe situate în câmpia de lângă fluviul Amudaria.",
+                  "category": "historical",
+                  "coords": [
+                        65.97229,
+                        36.243366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qal`ah-ye Daimah",
+                  "text": "The ancient ruins of a fortress situated on the plains near the Amu Darya river.",
+                  "category": "historical",
+                  "coords": [
+                        65.97229,
+                        36.243366
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AF-SAR",
     coords: [65.93, 36.22],
@@ -621,7 +1098,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Security and logistical challenges have slowed down full-scale development."
     ], image: "/poi-images/amu-darya-oil-economic-v2.webp"},
   {
-    id: "jangalak-complex-economic-v2",
+    id: "jangalak-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kabul Old City Wall",
+                  "text": "Diese antiken Verteidigungsmauern schlängeln sich beeindruckend über die steilen Bergkämme der Sher-Darwaza-Höhen oberhalb der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.171563,
+                        34.501224
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kabul Old City Wall",
+                  "text": "Ezek az ősi védőfalak lenyűgözően kanyarognak végig az óváros felett magasodó Sher Darwaza hegy meredek gerincein.",
+                  "category": "landmark",
+                  "coords": [
+                        69.171563,
+                        34.501224
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kabul Old City Wall",
+                  "text": "Aceste ziduri defensive antice șerpuiesc impresionant pe crestele abrupte ale munților Sher Darwaza, dominând orașul vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        69.171563,
+                        34.501224
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kabul Old City Wall",
+                  "text": "These ancient defensive walls impressively snake along the steep mountain ridges of Sher Darwaza, overlooking the old city.",
+                  "category": "landmark",
+                  "coords": [
+                        69.171563,
+                        34.501224
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AF-KAB",
     coords: [69.17, 34.50],
@@ -665,7 +1187,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Today, it hosts a variety of smaller private factories."
     ], image: "/poi-images/jangalak-complex-economic-v2.webp"},
   {
-    id: "baghlan-sugar-economic-v2",
+    id: "baghlan-sugar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mahbas-e Baghan-e Jadio",
+                  "text": "Mahbas-e Baghan-e Jadio umfasst die verwitterten Ruinen einer ehemaligen Struktur in der Landschaft von Baghlan.",
+                  "category": "historical",
+                  "coords": [
+                        68.768735,
+                        36.164186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mahbas-e Baghan-e Jadio",
+                  "text": "A Mahbas-e Baghan-e Jadio egy egykori építmény málló romjait foglalja magában Baglán vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        68.768735,
+                        36.164186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mahbas-e Baghan-e Jadio",
+                  "text": "Mahbas-e Baghan-e Jadio cuprinde ruinele erodate ale unei vechi structuri în peisajul din Baghlan.",
+                  "category": "historical",
+                  "coords": [
+                        68.768735,
+                        36.164186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mahbas-e Baghan-e Jadio",
+                  "text": "Mahbas-e Baghan-e Jadio features the weathered ruins of a former structure in the Baghlan landscape.",
+                  "category": "historical",
+                  "coords": [
+                        68.768735,
+                        36.164186
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AF-BGL",
     coords: [68.74, 36.14],
@@ -798,7 +1365,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "It stands as a monument to Afghanistan's early industrial ambitions."
     ], image: "/poi-images/jabal-siraj-cement-economic-v2.webp"},
   {
-    id: "bagrami-park-economic-v2",
+    id: "bagrami-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abu Darda",
+                  "text": "Ein islamisches Gotteshaus in der Nähe der Industrie- und Erholungszonen von Bagrami.",
+                  "category": "landmark",
+                  "coords": [
+                        69.29667,
+                        34.504829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abu Darda",
+                  "text": "Iszlám istentiszteleti hely Bagrami ipari és szabadidős övezeteinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.29667,
+                        34.504829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abu Darda",
+                  "text": "Un lăcaș de cult islamic situat în apropierea zonelor industriale și de recreere din Bagrami.",
+                  "category": "landmark",
+                  "coords": [
+                        69.29667,
+                        34.504829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abu Darda",
+                  "text": "An Islamic place of worship situated near the industrial and recreational zones of Bagrami.",
+                  "category": "landmark",
+                  "coords": [
+                        69.29667,
+                        34.504829
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AF-KAB",
     coords: [69.26, 34.50],
@@ -842,7 +1454,52 @@ export const poiExtraAfghanistanEconomicV2: POI[] = [
       "Represents a significant hub of formal employment in the capital."
     ], image: "/poi-images/bagrami-park-economic-v2.webp"},
   {
-    id: "herat-industrial-economic-v2",
+    id: "herat-industrial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "hahar Sou-e Gozareh",
+                  "text": "Ein zentrales Wahrzeichen oder Marktplatz im Bezirk Gosareh südlich der Stadt Herat.",
+                  "category": "landmark",
+                  "coords": [
+                        62.221017,
+                        34.225497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "hahar Sou-e Gozareh",
+                  "text": "Központi nevezetesség vagy piac Herát várostól délre, Gozareh negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        62.221017,
+                        34.225497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "hahar Sou-e Gozareh",
+                  "text": "Un punct de reper central sau o piață în districtul Gozareh, la sud de orașul Herat.",
+                  "category": "landmark",
+                  "coords": [
+                        62.221017,
+                        34.225497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "hahar Sou-e Gozareh",
+                  "text": "A central landmark or marketplace in the Gozareh district south of Herat city.",
+                  "category": "landmark",
+                  "coords": [
+                        62.221017,
+                        34.225497
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "AF-HER",
     coords: [62.20, 34.20],

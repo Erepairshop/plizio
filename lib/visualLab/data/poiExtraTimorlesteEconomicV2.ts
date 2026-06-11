@@ -3,7 +3,484 @@ import type { POI } from "./poi";
 
 export const poiExtraTimorlesteEconomicV2: POI[] = [
   {
-    id: "hera-power-plant-economic-v2",
+    id: "hera-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "no asfalt on road",
+                  "text": "Die Stelle 'no asfalt on road' markiert ein lokales Monument oder Denkmal in hera-power-plant-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.673069,
+                        -8.543552
+                  ]
+            },
+            {
+                  "name": "Rotonde",
+                  "text": "Die Rotonde ist ein Monument in hera-power-plant-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.664859,
+                        -8.615092
+                  ]
+            },
+            {
+                  "name": "Kapela FECT",
+                  "text": "Die Kapela FECT ist eine Kapelle in hera-power-plant-economic-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.660956,
+                        -8.551447
+                  ]
+            },
+            {
+                  "name": "San Elias",
+                  "text": "San Elias ist eine christliche Stätte in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.67216,
+                        -8.549444
+                  ]
+            },
+            {
+                  "name": "Igreja Acanuno",
+                  "text": "Die Igreja Acanuno ist eine christliche Kirche in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.648623,
+                        -8.556668
+                  ]
+            },
+            {
+                  "name": "Gruta Fatuklot",
+                  "text": "Die Gruta Fatuklot ist eine christliche Kultstätte in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663883,
+                        -8.613384
+                  ]
+            },
+            {
+                  "name": "Gruta Locmailulu",
+                  "text": "Die Gruta Locmailulu ist ein christlicher Pilgerort in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.668997,
+                        -8.616288
+                  ]
+            },
+            {
+                  "name": "Gruta Aicorema",
+                  "text": "Die Gruta Aicorema ist eine christliche Stätte, die Besucher in hera-power-plant-economic-v2 anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        125.670814,
+                        -8.620049
+                  ]
+            },
+            {
+                  "name": "Uma Laku",
+                  "text": "Uma Laku ist ein christliches Monument im Gebiet von hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.667058,
+                        -8.617168
+                  ]
+            },
+            {
+                  "name": "Gruta Tursailefa",
+                  "text": "Gruta Tursailefa ist eine christliche Grotte und Sehenswürdigkeit in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663353,
+                        -8.616533
+                  ]
+            },
+            {
+                  "name": "Gruta Nissi-Ulun",
+                  "text": "Gruta Nissi-Ulun dient als christlicher Andachtsort in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.661094,
+                        -8.613178
+                  ]
+            },
+            {
+                  "name": "Convento irma",
+                  "text": "Convento irma ist ein christliches Klostergebäude in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.665556,
+                        -8.616583
+                  ]
+            },
+            {
+                  "name": "Merkado Tuan",
+                  "text": "Der Merkado Tuan ist ein lokaler Marktplatz in hera-power-plant-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.662944,
+                        -8.61376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "no asfalt on road",
+                  "text": "A 'no asfalt on road' nevű hely egy sajátos emlékmű hera-power-plant-economic-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        125.673069,
+                        -8.543552
+                  ]
+            },
+            {
+                  "name": "Rotonde",
+                  "text": "A Rotonde egy építészeti emlékmű a hera-power-plant-economic-v2 nevű területen.",
+                  "category": "historical",
+                  "coords": [
+                        125.664859,
+                        -8.615092
+                  ]
+            },
+            {
+                  "name": "Kapela FECT",
+                  "text": "A Kapela FECT egy helyi kápolna hera-power-plant-economic-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        125.660956,
+                        -8.551447
+                  ]
+            },
+            {
+                  "name": "San Elias",
+                  "text": "A San Elias egy keresztény vallási hely a hera-power-plant-economic-v2 nevű helységben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.67216,
+                        -8.549444
+                  ]
+            },
+            {
+                  "name": "Igreja Acanuno",
+                  "text": "Az Igreja Acanuno egy keresztény templom hera-power-plant-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.648623,
+                        -8.556668
+                  ]
+            },
+            {
+                  "name": "Gruta Fatuklot",
+                  "text": "A Gruta Fatuklot egy keresztény vallási barlang hera-power-plant-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663883,
+                        -8.613384
+                  ]
+            },
+            {
+                  "name": "Gruta Locmailulu",
+                  "text": "A Gruta Locmailulu egy keresztény zarándokhely hera-power-plant-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.668997,
+                        -8.616288
+                  ]
+            },
+            {
+                  "name": "Gruta Aicorema",
+                  "text": "A Gruta Aicorema egy keresztény imahely hera-power-plant-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.670814,
+                        -8.620049
+                  ]
+            },
+            {
+                  "name": "Uma Laku",
+                  "text": "Az Uma Laku egy keresztény létesítmény hera-power-plant-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.667058,
+                        -8.617168
+                  ]
+            },
+            {
+                  "name": "Gruta Tursailefa",
+                  "text": "A Gruta Tursailefa egy keresztény barlang és zarándokhely hera-power-plant-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663353,
+                        -8.616533
+                  ]
+            },
+            {
+                  "name": "Gruta Nissi-Ulun",
+                  "text": "A Gruta Nissi-Ulun egy keresztény kegyhely hera-power-plant-economic-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.661094,
+                        -8.613178
+                  ]
+            },
+            {
+                  "name": "Convento irma",
+                  "text": "A Convento irma egy keresztény kolostorépület hera-power-plant-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.665556,
+                        -8.616583
+                  ]
+            },
+            {
+                  "name": "Merkado Tuan",
+                  "text": "A Merkado Tuan egy pezsgő helyi piac hera-power-plant-economic-v2 városában.",
+                  "category": "cultural",
+                  "coords": [
+                        125.662944,
+                        -8.61376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "no asfalt on road",
+                  "text": "Locul 'no asfalt on road' este un monument de interes în hera-power-plant-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.673069,
+                        -8.543552
+                  ]
+            },
+            {
+                  "name": "Rotonde",
+                  "text": "Rotonde este un monument localizat în hera-power-plant-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.664859,
+                        -8.615092
+                  ]
+            },
+            {
+                  "name": "Kapela FECT",
+                  "text": "Kapela FECT este o capelă din regiunea hera-power-plant-economic-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.660956,
+                        -8.551447
+                  ]
+            },
+            {
+                  "name": "San Elias",
+                  "text": "San Elias este un loc creștin în hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.67216,
+                        -8.549444
+                  ]
+            },
+            {
+                  "name": "Igreja Acanuno",
+                  "text": "Igreja Acanuno este o biserică creștină din hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.648623,
+                        -8.556668
+                  ]
+            },
+            {
+                  "name": "Gruta Fatuklot",
+                  "text": "Gruta Fatuklot este o grotă de rugăciune creștină din hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663883,
+                        -8.613384
+                  ]
+            },
+            {
+                  "name": "Gruta Locmailulu",
+                  "text": "Gruta Locmailulu este un lăcaș creștin din hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.668997,
+                        -8.616288
+                  ]
+            },
+            {
+                  "name": "Gruta Aicorema",
+                  "text": "Gruta Aicorema este un lăcaș de cult creștin situat în hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.670814,
+                        -8.620049
+                  ]
+            },
+            {
+                  "name": "Uma Laku",
+                  "text": "Uma Laku este un așezământ creștin din zona hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.667058,
+                        -8.617168
+                  ]
+            },
+            {
+                  "name": "Gruta Tursailefa",
+                  "text": "Gruta Tursailefa este o grotă creștină vizitată din hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663353,
+                        -8.616533
+                  ]
+            },
+            {
+                  "name": "Gruta Nissi-Ulun",
+                  "text": "Gruta Nissi-Ulun este un loc de rugăciune creștin din hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.661094,
+                        -8.613178
+                  ]
+            },
+            {
+                  "name": "Convento irma",
+                  "text": "Convento irma este o clădire monahală creștină din hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.665556,
+                        -8.616583
+                  ]
+            },
+            {
+                  "name": "Merkado Tuan",
+                  "text": "Merkado Tuan este o piață locală tradițională din hera-power-plant-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.662944,
+                        -8.61376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "no asfalt on road",
+                  "text": "The 'no asfalt on road' is a specific landmark or monument in hera-power-plant-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.673069,
+                        -8.543552
+                  ]
+            },
+            {
+                  "name": "Rotonde",
+                  "text": "The Rotonde is a local monument situated in hera-power-plant-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.664859,
+                        -8.615092
+                  ]
+            },
+            {
+                  "name": "Kapela FECT",
+                  "text": "Kapela FECT is a chapel located in hera-power-plant-economic-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.660956,
+                        -8.551447
+                  ]
+            },
+            {
+                  "name": "San Elias",
+                  "text": "San Elias is a Christian site situated in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.67216,
+                        -8.549444
+                  ]
+            },
+            {
+                  "name": "Igreja Acanuno",
+                  "text": "Igreja Acanuno is a Christian church located in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.648623,
+                        -8.556668
+                  ]
+            },
+            {
+                  "name": "Gruta Fatuklot",
+                  "text": "Gruta Fatuklot is a Christian grotto situated in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663883,
+                        -8.613384
+                  ]
+            },
+            {
+                  "name": "Gruta Locmailulu",
+                  "text": "Gruta Locmailulu is a Christian site located in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.668997,
+                        -8.616288
+                  ]
+            },
+            {
+                  "name": "Gruta Aicorema",
+                  "text": "Gruta Aicorema is a Christian religious site located in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.670814,
+                        -8.620049
+                  ]
+            },
+            {
+                  "name": "Uma Laku",
+                  "text": "Uma Laku is a Christian establishment found within hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.667058,
+                        -8.617168
+                  ]
+            },
+            {
+                  "name": "Gruta Tursailefa",
+                  "text": "Gruta Tursailefa is a Christian site of worship in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663353,
+                        -8.616533
+                  ]
+            },
+            {
+                  "name": "Gruta Nissi-Ulun",
+                  "text": "Gruta Nissi-Ulun serves as a Christian place of devotion in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.661094,
+                        -8.613178
+                  ]
+            },
+            {
+                  "name": "Convento irma",
+                  "text": "Convento irma is a Christian convent situated in hera-power-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.665556,
+                        -8.616583
+                  ]
+            },
+            {
+                  "name": "Merkado Tuan",
+                  "text": "Merkado Tuan is a local marketplace providing goods in hera-power-plant-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.662944,
+                        -8.61376
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TL-DI",
     coords: [125.6667, -8.5417],
@@ -39,7 +516,88 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "tibar-bay-port-economic-v2",
+    id: "tibar-bay-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein sandiger Küstenabschnitt in der Nähe des wirtschaftlichen Zentrums von Tibar Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        125.468226,
+                        -8.568874
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Ein unberührter, wilder Strand mit weißem Sand entlang der Küstenlinie von Tibar Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        125.422423,
+                        -8.563959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Egy homokos tengerparti szakasz a Tibar Bay gazdasági központjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        125.468226,
+                        -8.568874
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Érintetlen, vad, fehér homokos strand a Tibar Bay partvonala mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        125.422423,
+                        -8.563959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O întindere de plajă cu nisip situată în apropierea centrului economic din Tibar Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        125.468226,
+                        -8.568874
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "O plajă sălbatică și curată, cu nisip alb, de-a lungul coastei Tibar Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        125.422423,
+                        -8.563959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A sandy coastal beach stretch located near the economic hub of Tibar Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        125.468226,
+                        -8.568874
+                  ]
+            },
+            {
+                  "name": "Wilde white sand beach",
+                  "text": "A pristine, unmanaged stretch of wild white sand beach along the Tibar Bay coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        125.422423,
+                        -8.563959
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TL-LI",
     coords: [125.4833, -8.5667],
@@ -111,7 +669,160 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "suai-supply-base-economic-v2",
+    id: "suai-supply-base-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old oilwell",
+                  "text": "Das alte Bohrloch weist historische Ruinen in suai-supply-base-economic-v2 auf.",
+                  "category": "historical",
+                  "coords": [
+                        125.279667,
+                        -9.350349
+                  ]
+            },
+            {
+                  "name": "Jesuita Suai",
+                  "text": "Jesuita Suai ist eine christliche Stätte in suai-supply-base-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.27708,
+                        -9.336491
+                  ]
+            },
+            {
+                  "name": "Capela Suai Loro",
+                  "text": "Capela Suai Loro ist eine christliche Kapelle in suai-supply-base-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.270878,
+                        -9.345785
+                  ]
+            },
+            {
+                  "name": "Talutu",
+                  "text": "Talutu ist eine spirituelle Stätte in der Gegend von suai-supply-base-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.272391,
+                        -9.347206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old oilwell",
+                  "text": "A régi olajkút történelmi romokat rejt a suai-supply-base-economic-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        125.279667,
+                        -9.350349
+                  ]
+            },
+            {
+                  "name": "Jesuita Suai",
+                  "text": "A Jesuita Suai egy keresztény helyszín a suai-supply-base-economic-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.27708,
+                        -9.336491
+                  ]
+            },
+            {
+                  "name": "Capela Suai Loro",
+                  "text": "A Capela Suai Loro egy keresztény kápolna a suai-supply-base-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.270878,
+                        -9.345785
+                  ]
+            },
+            {
+                  "name": "Talutu",
+                  "text": "A Talutu egy spirituális helyszín a suai-supply-base-economic-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.272391,
+                        -9.347206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old oilwell",
+                  "text": "Vechea sondă de petrol prezintă ruine istorice în suai-supply-base-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.279667,
+                        -9.350349
+                  ]
+            },
+            {
+                  "name": "Jesuita Suai",
+                  "text": "Jesuita Suai este un sit creștin situat în suai-supply-base-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.27708,
+                        -9.336491
+                  ]
+            },
+            {
+                  "name": "Capela Suai Loro",
+                  "text": "Capela Suai Loro este o capelă creștină situată în suai-supply-base-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.270878,
+                        -9.345785
+                  ]
+            },
+            {
+                  "name": "Talutu",
+                  "text": "Talutu este un sit spiritual situat în zona suai-supply-base-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.272391,
+                        -9.347206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old oilwell",
+                  "text": "The old oilwell features historic ruins located in suai-supply-base-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.279667,
+                        -9.350349
+                  ]
+            },
+            {
+                  "name": "Jesuita Suai",
+                  "text": "Jesuita Suai is a Christian site located in suai-supply-base-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.27708,
+                        -9.336491
+                  ]
+            },
+            {
+                  "name": "Capela Suai Loro",
+                  "text": "Capela Suai Loro is a Christian chapel situated in suai-supply-base-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.270878,
+                        -9.345785
+                  ]
+            },
+            {
+                  "name": "Talutu",
+                  "text": "Talutu is a spiritualist site found in the suai-supply-base-economic-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.272391,
+                        -9.347206
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TL-CO",
     coords: [125.2667, -9.3167],
@@ -147,7 +858,52 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "dili-seaport-economic-v2",
+    id: "dili-seaport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento ao Massacre de Santa Cruz",
+                  "text": "Das Monumento ao Massacre de Santa Cruz ist ein Denkmal in dili-seaport-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.571422,
+                        -8.550907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento ao Massacre de Santa Cruz",
+                  "text": "A Monumento ao Massacre de Santa Cruz egy emlékmű dili-seaport-economic-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        125.571422,
+                        -8.550907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento ao Massacre de Santa Cruz",
+                  "text": "Monumento ao Massacre de Santa Cruz este un monument din dili-seaport-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.571422,
+                        -8.550907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento ao Massacre de Santa Cruz",
+                  "text": "Monumento ao Massacre de Santa Cruz is a historic monument in dili-seaport-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.571422,
+                        -8.550907
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TL-DI",
     coords: [125.5736, -8.5492],
@@ -183,7 +939,196 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "gleno-coffee-processing-economic-v2",
+    id: "gleno-coffee-processing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cede Aldeia",
+                  "text": "Cede Aldeia in Gleno ist ein lokales Gotteshaus, das für religiöse Zusammenkünfte in der kaffeeproduzierenden Region genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        125.489251,
+                        -8.719307
+                  ]
+            },
+            {
+                  "name": "Capela Tokoluli",
+                  "text": "Die Capela Tokoluli ist eine kleine christliche Kapelle in Gleno, die Gläubigen einen ruhigen Ort zum Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.427357,
+                        -8.701401
+                  ]
+            },
+            {
+                  "name": "Capela Católica Nossa Senhora do Rosário Hoholau",
+                  "text": "Die Capela Católica Nossa Senhora do Rosário Hoholau ist eine katholische Kapelle in Gleno, die der Heiligen Jungfrau vom Rosenkranz gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.494111,
+                        -8.756087
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial Nossef Railaco",
+                  "text": "Die Igreja Paroquial Nossef Railaco ist eine christliche Pfarrkirche in der Nähe von Gleno, die das spirituelle Leben der Gemeinde Railaco prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.423174,
+                        -8.674871
+                  ]
+            },
+            {
+                  "name": "Igreja Ermeta",
+                  "text": "Die Igreja Ermeta ist eine christliche Kirche in Gleno, die sich inmitten der sanften Hügel dieser vom Kaffeeanbau geprägten Region befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.411309,
+                        -8.648427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cede Aldeia",
+                  "text": "A glenói Cede Aldeia egy helyi istentiszteleti hely, amelyet vallási összejövetelekre használnak a kávétermelő régióban.",
+                  "category": "religious",
+                  "coords": [
+                        125.489251,
+                        -8.719307
+                  ]
+            },
+            {
+                  "name": "Capela Tokoluli",
+                  "text": "A Capela Tokoluli egy kis keresztény kápolna Glenóban, amely csendes imádkozási helyet kínál a híveknek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.427357,
+                        -8.701401
+                  ]
+            },
+            {
+                  "name": "Capela Católica Nossa Senhora do Rosário Hoholau",
+                  "text": "A Capela Católica Nossa Senhora do Rosário Hoholau egy katolikus kápolna Glenóban, amelyet a Rózsafüzér Királynőjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.494111,
+                        -8.756087
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial Nossef Railaco",
+                  "text": "Az Igreja Paroquial Nossef Railaco egy keresztény plébániatemplom Gleno közelében, amely meghatározza a railacói közösség hitéletét.",
+                  "category": "landmark",
+                  "coords": [
+                        125.423174,
+                        -8.674871
+                  ]
+            },
+            {
+                  "name": "Igreja Ermeta",
+                  "text": "Az Igreja Ermeta egy keresztény templom Glenóban, amely a kávétermesztéséről ismert régió szelíd dombjai között található.",
+                  "category": "landmark",
+                  "coords": [
+                        125.411309,
+                        -8.648427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cede Aldeia",
+                  "text": "Cede Aldeia din Gleno este un lăcaș de cult local, utilizat pentru adunări religioase în regiunea producătoare de cafea.",
+                  "category": "religious",
+                  "coords": [
+                        125.489251,
+                        -8.719307
+                  ]
+            },
+            {
+                  "name": "Capela Tokoluli",
+                  "text": "Capela Tokoluli este o mică capelă creștină din Gleno, oferind un loc liniștit de rugăciune pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        125.427357,
+                        -8.701401
+                  ]
+            },
+            {
+                  "name": "Capela Católica Nossa Senhora do Rosário Hoholau",
+                  "text": "Capela Católica Nossa Senhora do Rosário Hoholau este o capelă catolică din Gleno dedicată Sfintei Fecioare a Rozariului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.494111,
+                        -8.756087
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial Nossef Railaco",
+                  "text": "Igreja Paroquial Nossef Railaco este o biserică parohială creștină din apropiere de Gleno, care slujește comunitatea din Railaco.",
+                  "category": "landmark",
+                  "coords": [
+                        125.423174,
+                        -8.674871
+                  ]
+            },
+            {
+                  "name": "Igreja Ermeta",
+                  "text": "Igreja Ermeta este o biserică creștină din Gleno, situată printre dealurile blânde ale acestei regiuni cunoscute pentru cafea.",
+                  "category": "landmark",
+                  "coords": [
+                        125.411309,
+                        -8.648427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cede Aldeia",
+                  "text": "Cede Aldeia in Gleno is a local place of worship utilized for religious gatherings in this coffee-producing region.",
+                  "category": "religious",
+                  "coords": [
+                        125.489251,
+                        -8.719307
+                  ]
+            },
+            {
+                  "name": "Capela Tokoluli",
+                  "text": "Capela Tokoluli is a small Christian chapel in Gleno, providing a quiet space for prayer for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        125.427357,
+                        -8.701401
+                  ]
+            },
+            {
+                  "name": "Capela Católica Nossa Senhora do Rosário Hoholau",
+                  "text": "Capela Católica Nossa Senhora do Rosário Hoholau is a Catholic chapel in Gleno dedicated to Our Lady of the Rosary.",
+                  "category": "landmark",
+                  "coords": [
+                        125.494111,
+                        -8.756087
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial Nossef Railaco",
+                  "text": "Igreja Paroquial Nossef Railaco is a Christian parish church near Gleno, serving the spiritual needs of the Railaco community.",
+                  "category": "landmark",
+                  "coords": [
+                        125.423174,
+                        -8.674871
+                  ]
+            },
+            {
+                  "name": "Igreja Ermeta",
+                  "text": "Igreja Ermeta is a Christian church in Gleno, set amidst the rolling hills of this notable coffee-growing region.",
+                  "category": "landmark",
+                  "coords": [
+                        125.411309,
+                        -8.648427
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TL-ER",
     coords: [125.4333, -8.7167],
@@ -255,7 +1200,52 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "baucau-limestone-quarry-economic-v2",
+    id: "baucau-limestone-quarry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capela de Karabela",
+                  "text": "Die christliche Kapelle von Karabela befindet sich in einer von den lokalen Kalksteinbrüchen geprägten Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        126.278241,
+                        -8.482285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capela de Karabela",
+                  "text": "A karabelai keresztény kápolna a helyi mészkőbányák által formált tájon fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        126.278241,
+                        -8.482285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capela de Karabela",
+                  "text": "Capela creștină din Karabela se află într-un peisaj dominat de carierele de calcar locale.",
+                  "category": "landmark",
+                  "coords": [
+                        126.278241,
+                        -8.482285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capela de Karabela",
+                  "text": "The Christian chapel of Karabela is located in a landscape characterized by local limestone quarries.",
+                  "category": "landmark",
+                  "coords": [
+                        126.278241,
+                        -8.482285
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "TL-BA",
     coords: [126.3667, -8.4667],
@@ -291,7 +1281,88 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "com-fishing-port-economic-v2",
+    id: "com-fishing-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein sandiger Küstenstreifen in der Nähe des Arbeitshafens, wo oft lokale Holzfischerboote festmachen.",
+                  "category": "recreational",
+                  "coords": [
+                        127.114318,
+                        -8.368343
+                  ]
+            },
+            {
+                  "name": "Portuguese Villa (Ruin)",
+                  "text": "Die verfallenden Steinmauern eines Herrenhauses aus der Kolonialzeit, das in der Nähe des modernen Fischerdorfes steht.",
+                  "category": "historical",
+                  "coords": [
+                        127.066175,
+                        -8.364416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Homokos tengerparti sáv a működő kikötő közelében, ahol gyakran horgonyoznak helyi fa halászhajók.",
+                  "category": "recreational",
+                  "coords": [
+                        127.114318,
+                        -8.368343
+                  ]
+            },
+            {
+                  "name": "Portuguese Villa (Ruin)",
+                  "text": "Egy gyarmati korszakból származó kúria omladozó kőfalai, melyek a modern halászfalu közelében állnak.",
+                  "category": "historical",
+                  "coords": [
+                        127.066175,
+                        -8.364416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O fâșie de coastă nisipoasă lângă portul de lucru, unde bărcile locale de pescuit din lemn sunt adesea ancorate.",
+                  "category": "recreational",
+                  "coords": [
+                        127.114318,
+                        -8.368343
+                  ]
+            },
+            {
+                  "name": "Portuguese Villa (Ruin)",
+                  "text": "Zidurile de piatră în descompunere ale unui conac din epoca colonială care se află în apropierea satului modern de pescari.",
+                  "category": "historical",
+                  "coords": [
+                        127.066175,
+                        -8.364416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A sandy coastal strip near the working port, where local wooden fishing boats are often moored.",
+                  "category": "recreational",
+                  "coords": [
+                        127.114318,
+                        -8.368343
+                  ]
+            },
+            {
+                  "name": "Portuguese Villa (Ruin)",
+                  "text": "The decaying stone walls of a colonial-era manor house standing near the modern fishing village.",
+                  "category": "historical",
+                  "coords": [
+                        127.066175,
+                        -8.364416
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TL-LA",
     coords: [127.0667, -8.3583],
@@ -327,7 +1398,160 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "oecusse-special-economic-zone-economic-v2",
+    id: "oecusse-special-economic-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein Sandstrand an der Küste innerhalb der Sonderwirtschaftszone Oecusse.",
+                  "category": "recreational",
+                  "coords": [
+                        124.336122,
+                        -9.197882
+                  ]
+            },
+            {
+                  "name": "Kapela Samoro",
+                  "text": "Eine lokale christliche Kapelle, die als Andachtsort in der Gegend von Samoro dient.",
+                  "category": "landmark",
+                  "coords": [
+                        124.333554,
+                        -9.218981
+                  ]
+            },
+            {
+                  "name": "Capela São José Operário",
+                  "text": "Diese christliche Kapelle in der Region Oecusse ist dem Heiligen Josef dem Arbeiter gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        124.339754,
+                        -9.202618
+                  ]
+            },
+            {
+                  "name": "Igerja Evangelica Visao Cristao de Timor Leste",
+                  "text": "Eine evangelisch-christliche Kirche, die der osttimoresischen Gemeinde in der Zone Oecusse dient.",
+                  "category": "landmark",
+                  "coords": [
+                        124.344716,
+                        -9.202594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Tengerparti homokos strand az Oecusse Különleges Gazdasági Övezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        124.336122,
+                        -9.197882
+                  ]
+            },
+            {
+                  "name": "Kapela Samoro",
+                  "text": "Helyi keresztény kápolna, amely istentiszteleti helyként szolgál Samoro területén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.333554,
+                        -9.218981
+                  ]
+            },
+            {
+                  "name": "Capela São José Operário",
+                  "text": "Ezt az Oecusse régióban található keresztény kápolnát Munkás Szent Józsefnek szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        124.339754,
+                        -9.202618
+                  ]
+            },
+            {
+                  "name": "Igerja Evangelica Visao Cristao de Timor Leste",
+                  "text": "Az Oecusse zónában élő kelet-timori gyülekezetet szolgáló evangéliumi keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        124.344716,
+                        -9.202594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O plajă de nisip pe coastă, situată în Zona Economică Specială Oecusse.",
+                  "category": "recreational",
+                  "coords": [
+                        124.336122,
+                        -9.197882
+                  ]
+            },
+            {
+                  "name": "Kapela Samoro",
+                  "text": "O capelă creștină locală care oferă un loc de cult în zona Samoro.",
+                  "category": "landmark",
+                  "coords": [
+                        124.333554,
+                        -9.218981
+                  ]
+            },
+            {
+                  "name": "Capela São José Operário",
+                  "text": "Această capelă creștină din regiunea Oecusse este dedicată Sfântului Iosif Muncitorul.",
+                  "category": "landmark",
+                  "coords": [
+                        124.339754,
+                        -9.202618
+                  ]
+            },
+            {
+                  "name": "Igerja Evangelica Visao Cristao de Timor Leste",
+                  "text": "O biserică creștină evanghelică ce deservește congregația est-timoreză din zona Oecusse.",
+                  "category": "landmark",
+                  "coords": [
+                        124.344716,
+                        -9.202594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A coastal sandy beach situated within the Oecusse Special Economic Zone.",
+                  "category": "recreational",
+                  "coords": [
+                        124.336122,
+                        -9.197882
+                  ]
+            },
+            {
+                  "name": "Kapela Samoro",
+                  "text": "A local Christian chapel providing a place of worship in the Samoro area.",
+                  "category": "landmark",
+                  "coords": [
+                        124.333554,
+                        -9.218981
+                  ]
+            },
+            {
+                  "name": "Capela São José Operário",
+                  "text": "This Christian chapel in the Oecusse region is dedicated to Saint Joseph the Worker.",
+                  "category": "landmark",
+                  "coords": [
+                        124.339754,
+                        -9.202618
+                  ]
+            },
+            {
+                  "name": "Igerja Evangelica Visao Cristao de Timor Leste",
+                  "text": "An Evangelical Christian church serving the East Timorese congregation in the Oecusse zone.",
+                  "category": "landmark",
+                  "coords": [
+                        124.344716,
+                        -9.202594
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "TL-OE",
     coords: [124.3333, -9.2000],
@@ -390,7 +1614,52 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "maliana-border-trade-center-economic-v2",
+    id: "maliana-border-trade-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camara Diocese Maliana",
+                  "text": "Als Teil des Verwaltungskomplexes der Diözese Maliana beaufsichtigt dieser christliche Ort kirchliche Aktivitäten nahe dem grenzüberschreitenden Handelszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        125.224851,
+                        -8.973666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camara Diocese Maliana",
+                  "text": "A malianai egyházmegye közigazgatási komplexumának részeként ez a keresztény hely felügyeli a határon átnyúló kereskedelmi központ közelében zajló egyházi tevékenységeket.",
+                  "category": "landmark",
+                  "coords": [
+                        125.224851,
+                        -8.973666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camara Diocese Maliana",
+                  "text": "Făcând parte din complexul administrativ al Diecezei Maliana, acest lăcaș creștin supraveghează activitățile bisericești din apropierea centrului comercial transfrontalier.",
+                  "category": "landmark",
+                  "coords": [
+                        125.224851,
+                        -8.973666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camara Diocese Maliana",
+                  "text": "Part of the administrative complex of the Maliana Diocese, this Christian site oversees church activities near the cross-border trade center.",
+                  "category": "landmark",
+                  "coords": [
+                        125.224851,
+                        -8.973666
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "TL-BO",
     coords: [125.2167, -8.9833],
@@ -426,7 +1695,52 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "ermera-coffee-coop-economic-v2",
+    id: "ermera-coffee-coop-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Imaculada Conceição de Ermera",
+                  "text": "Diese große Kirche im Kaffeebaugebiet von Ermera ist ein zentrales Wahrzeichen für die lokale katholische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        125.396113,
+                        -8.751916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Imaculada Conceição de Ermera",
+                  "text": "Az Ermera kávétermesztő szívében fekvő hatalmas templom a helyi katolikus közösség központi tájékozódási pontja.",
+                  "category": "religious",
+                  "coords": [
+                        125.396113,
+                        -8.751916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Imaculada Conceição de Ermera",
+                  "text": "Situată în inima zonei de cultivare a cafelei din Ermera, această biserică mare este un punct de reper central pentru comunitatea catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        125.396113,
+                        -8.751916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Imaculada Conceição de Ermera",
+                  "text": "Situated in the coffee-growing heartland of Ermera, this grand church is a central landmark for the local Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        125.396113,
+                        -8.751916
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TL-ER",
     coords: [125.3967, -8.7512],
@@ -462,7 +1776,124 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "lospalos-timber-mill-economic-v2",
+    id: "lospalos-timber-mill-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "New market",
+                  "text": "Der Neue Markt ist eine bemerkenswerte Sehenswürdigkeit in lospalos-timber-mill-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.003503,
+                        -8.51095
+                  ]
+            },
+            {
+                  "name": "Herois",
+                  "text": "Herois ist ein historisches Denkmal in lospalos-timber-mill-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.986537,
+                        -8.512433
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antonio de Titilary",
+                  "text": "Capela Santo Antonio de Titilary ist eine Kultstätte in lospalos-timber-mill-economic-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.993734,
+                        -8.469234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "New market",
+                  "text": "Az Új piac egy figyelemre méltó látványosság lospalos-timber-mill-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        127.003503,
+                        -8.51095
+                  ]
+            },
+            {
+                  "name": "Herois",
+                  "text": "A Herois egy történelmi emlékmű lospalos-timber-mill-economic-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.986537,
+                        -8.512433
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antonio de Titilary",
+                  "text": "A Capela Santo Antonio de Titilary egy istentiszteleti hely lospalos-timber-mill-economic-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        126.993734,
+                        -8.469234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "New market",
+                  "text": "Piața nouă este o atracție notabilă din lospalos-timber-mill-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.003503,
+                        -8.51095
+                  ]
+            },
+            {
+                  "name": "Herois",
+                  "text": "Herois este un monument cu valoare istorică din lospalos-timber-mill-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.986537,
+                        -8.512433
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antonio de Titilary",
+                  "text": "Capela Santo Antonio de Titilary este un lăcaș de cult situat în lospalos-timber-mill-economic-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.993734,
+                        -8.469234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "New market",
+                  "text": "The New market is a notable attraction in lospalos-timber-mill-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        127.003503,
+                        -8.51095
+                  ]
+            },
+            {
+                  "name": "Herois",
+                  "text": "Herois is a monument commemorating history in lospalos-timber-mill-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.986537,
+                        -8.512433
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antonio de Titilary",
+                  "text": "Capela Santo Antonio de Titilary is a place of worship located in lospalos-timber-mill-economic-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.993734,
+                        -8.469234
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TL-LA",
     coords: [126.9967, -8.5186],
@@ -498,7 +1929,376 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "pelican-paradise-resort-project-economic-v2",
+    id: "pelican-paradise-resort-project-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumentu Nicolau Lobato",
+                  "text": "Das Monumentu Nicolau Lobato ist ein Denkmal in pelican-paradise-resort-project-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.527008,
+                        -8.553221
+                  ]
+            },
+            {
+                  "name": "Praia Lusitana",
+                  "text": "Praia Lusitana ist ein Strandabschnitt in pelican-paradise-resort-project-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.526919,
+                        -8.541961
+                  ]
+            },
+            {
+                  "name": "Salesian Convent",
+                  "text": "Das Salesian Convent ist eine christliche Einrichtung in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524508,
+                        -8.555337
+                  ]
+            },
+            {
+                  "name": "Maria Auxiliadora",
+                  "text": "Maria Auxiliadora ist eine christliche Stätte in der Stadt pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.5254,
+                        -8.556392
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrado Coracao de Jesus",
+                  "text": "Kapela Sagrado Coracao de Jesus ist eine christliche Kapelle in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.531206,
+                        -8.541964
+                  ]
+            },
+            {
+                  "name": "Dom Bosco",
+                  "text": "Dom Bosco ist eine christliche Stätte in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.531648,
+                        -8.548827
+                  ]
+            },
+            {
+                  "name": "centro formacão João Paulo II",
+                  "text": "Das Centro formacão João Paulo II ist ein Pfarrhaus in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524599,
+                        -8.553741
+                  ]
+            },
+            {
+                  "name": "Convento Das Irmas Ursulinas \"Santa Ursula\"",
+                  "text": "Das Convento Das Irmas Ursulinas \"Santa Ursula\" ist ein christliches Kloster in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.523083,
+                        -8.5575
+                  ]
+            },
+            {
+                  "name": "Gruta Golgota",
+                  "text": "Gruta Golgota ist eine christliche Grotte in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.52225,
+                        -8.558821
+                  ]
+            },
+            {
+                  "name": "Coffee market",
+                  "text": "Der Coffee market ist ein lokaler Marktplatz in pelican-paradise-resort-project-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.525913,
+                        -8.552931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumentu Nicolau Lobato",
+                  "text": "A Monumentu Nicolau Lobato egy emlékmű pelican-paradise-resort-project-economic-v2 városában.",
+                  "category": "historical",
+                  "coords": [
+                        125.527008,
+                        -8.553221
+                  ]
+            },
+            {
+                  "name": "Praia Lusitana",
+                  "text": "A Praia Lusitana egy tengerparti strand pelican-paradise-resort-project-economic-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        125.526919,
+                        -8.541961
+                  ]
+            },
+            {
+                  "name": "Salesian Convent",
+                  "text": "A Salesian Convent egy keresztény intézmény pelican-paradise-resort-project-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524508,
+                        -8.555337
+                  ]
+            },
+            {
+                  "name": "Maria Auxiliadora",
+                  "text": "A Maria Auxiliadora egy keresztény helyszín pelican-paradise-resort-project-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.5254,
+                        -8.556392
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrado Coracao de Jesus",
+                  "text": "A Kapela Sagrado Coracao de Jesus egy keresztény kápolna pelican-paradise-resort-project-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.531206,
+                        -8.541964
+                  ]
+            },
+            {
+                  "name": "Dom Bosco",
+                  "text": "A Dom Bosco egy keresztény központ pelican-paradise-resort-project-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.531648,
+                        -8.548827
+                  ]
+            },
+            {
+                  "name": "centro formacão João Paulo II",
+                  "text": "A centro formacão João Paulo II egy plébánia épülete pelican-paradise-resort-project-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524599,
+                        -8.553741
+                  ]
+            },
+            {
+                  "name": "Convento Das Irmas Ursulinas \"Santa Ursula\"",
+                  "text": "A Convento Das Irmas Ursulinas \"Santa Ursula\" egy keresztény kolostor pelican-paradise-resort-project-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.523083,
+                        -8.5575
+                  ]
+            },
+            {
+                  "name": "Gruta Golgota",
+                  "text": "A Gruta Golgota egy szent keresztény barlang pelican-paradise-resort-project-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.52225,
+                        -8.558821
+                  ]
+            },
+            {
+                  "name": "Coffee market",
+                  "text": "A Coffee market egy helyi piac pelican-paradise-resort-project-economic-v2 városában.",
+                  "category": "cultural",
+                  "coords": [
+                        125.525913,
+                        -8.552931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumentu Nicolau Lobato",
+                  "text": "Monumentu Nicolau Lobato este un monument memorial situat în pelican-paradise-resort-project-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.527008,
+                        -8.553221
+                  ]
+            },
+            {
+                  "name": "Praia Lusitana",
+                  "text": "Praia Lusitana este o plajă de coastă din pelican-paradise-resort-project-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.526919,
+                        -8.541961
+                  ]
+            },
+            {
+                  "name": "Salesian Convent",
+                  "text": "Salesian Convent este o instituție creștină situată în pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524508,
+                        -8.555337
+                  ]
+            },
+            {
+                  "name": "Maria Auxiliadora",
+                  "text": "Maria Auxiliadora este un așezământ creștin din pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.5254,
+                        -8.556392
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrado Coracao de Jesus",
+                  "text": "Kapela Sagrado Coracao de Jesus este o capelă creștină din pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.531206,
+                        -8.541964
+                  ]
+            },
+            {
+                  "name": "Dom Bosco",
+                  "text": "Dom Bosco este un centru creștin din pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.531648,
+                        -8.548827
+                  ]
+            },
+            {
+                  "name": "centro formacão João Paulo II",
+                  "text": "Centro formacão João Paulo II funcționează ca un prezbiteriu în pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524599,
+                        -8.553741
+                  ]
+            },
+            {
+                  "name": "Convento Das Irmas Ursulinas \"Santa Ursula\"",
+                  "text": "Convento Das Irmas Ursulinas \"Santa Ursula\" este o mănăstire creștină din pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.523083,
+                        -8.5575
+                  ]
+            },
+            {
+                  "name": "Gruta Golgota",
+                  "text": "Gruta Golgota este o grotă creștină situată în pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.52225,
+                        -8.558821
+                  ]
+            },
+            {
+                  "name": "Coffee market",
+                  "text": "Coffee market este o piață locală situată în pelican-paradise-resort-project-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.525913,
+                        -8.552931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumentu Nicolau Lobato",
+                  "text": "Monumentu Nicolau Lobato is a dedicated monument situated in pelican-paradise-resort-project-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.527008,
+                        -8.553221
+                  ]
+            },
+            {
+                  "name": "Praia Lusitana",
+                  "text": "Praia Lusitana is a coastal beach destination in pelican-paradise-resort-project-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.526919,
+                        -8.541961
+                  ]
+            },
+            {
+                  "name": "Salesian Convent",
+                  "text": "The Salesian Convent is a Christian institution located in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524508,
+                        -8.555337
+                  ]
+            },
+            {
+                  "name": "Maria Auxiliadora",
+                  "text": "Maria Auxiliadora is a Christian site found in the city of pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.5254,
+                        -8.556392
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrado Coracao de Jesus",
+                  "text": "Kapela Sagrado Coracao de Jesus is a Christian chapel in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.531206,
+                        -8.541964
+                  ]
+            },
+            {
+                  "name": "Dom Bosco",
+                  "text": "Dom Bosco is a Christian center and place of worship in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.531648,
+                        -8.548827
+                  ]
+            },
+            {
+                  "name": "centro formacão João Paulo II",
+                  "text": "Centro formacão João Paulo II functions as a presbytery in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524599,
+                        -8.553741
+                  ]
+            },
+            {
+                  "name": "Convento Das Irmas Ursulinas \"Santa Ursula\"",
+                  "text": "Convento Das Irmas Ursulinas \"Santa Ursula\" is a Christian convent based in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.523083,
+                        -8.5575
+                  ]
+            },
+            {
+                  "name": "Gruta Golgota",
+                  "text": "Gruta Golgota is a sacred Christian grotto found in pelican-paradise-resort-project-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.52225,
+                        -8.558821
+                  ]
+            },
+            {
+                  "name": "Coffee market",
+                  "text": "The Coffee market is a local marketplace where various goods are traded in pelican-paradise-resort-project-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.525913,
+                        -8.552931
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TL-DI",
     coords: [125.5200, -8.5500],
@@ -570,7 +2370,268 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "manatuto-salt-works-economic-v2",
+    id: "manatuto-salt-works-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gunung Alas",
+                  "text": "Gunung Alas ist ein markanter Gipfel in der Nähe der Salinen von Manatuto.",
+                  "category": "natural",
+                  "coords": [
+                        126.089167,
+                        -8.565556
+                  ]
+            },
+            {
+                  "name": "Suum",
+                  "text": "Suum ist ein Berggipfel in der malerischen Region Manatuto.",
+                  "category": "natural",
+                  "coords": [
+                        126.1,
+                        -8.55
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia ist ein Küstenstrand im Bezirk Manatuto.",
+                  "category": "recreational",
+                  "coords": [
+                        126.09409,
+                        -8.516436
+                  ]
+            },
+            {
+                  "name": "Capela Sao Francisco Xavier, Manulain UN",
+                  "text": "Die Capela Sao Francisco Xavier ist eine christliche Kapelle, die der Region Manatuto dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.998293,
+                        -8.532203
+                  ]
+            },
+            {
+                  "name": "Mable",
+                  "text": "Mable ist ein lokaler Marktplatz für den Handel in der Gegend von Manatuto.",
+                  "category": "cultural",
+                  "coords": [
+                        126.043812,
+                        -8.513446
+                  ]
+            },
+            {
+                  "name": "Mebel",
+                  "text": "Mebel ist ein belebter Marktplatz in der Gemeinde Manatuto.",
+                  "category": "cultural",
+                  "coords": [
+                        126.032534,
+                        -8.51291
+                  ]
+            },
+            {
+                  "name": "Merkadu Maabat",
+                  "text": "Merkadu Maabat ist ein lebhafter Markt, der die Bewohner von Manatuto versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        126.021152,
+                        -8.518614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gunung Alas",
+                  "text": "A Gunung Alas egy kiemelkedő hegycsúcs a manatutói sólepárlók közelében.",
+                  "category": "natural",
+                  "coords": [
+                        126.089167,
+                        -8.565556
+                  ]
+            },
+            {
+                  "name": "Suum",
+                  "text": "A Suum egy hegycsúcs a festői Manatuto régióban.",
+                  "category": "natural",
+                  "coords": [
+                        126.1,
+                        -8.55
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "A Praia egy tengerparti strand Manatuto körzetében.",
+                  "category": "recreational",
+                  "coords": [
+                        126.09409,
+                        -8.516436
+                  ]
+            },
+            {
+                  "name": "Capela Sao Francisco Xavier, Manulain UN",
+                  "text": "A Capela Sao Francisco Xavier egy keresztény kápolna a Manatuto régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.998293,
+                        -8.532203
+                  ]
+            },
+            {
+                  "name": "Mable",
+                  "text": "A Mable egy helyi piac, amely a kereskedelmet szolgálja Manatuto térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        126.043812,
+                        -8.513446
+                  ]
+            },
+            {
+                  "name": "Mebel",
+                  "text": "A Mebel egy forgalmas piacként működik a manatutói közösségen belül.",
+                  "category": "cultural",
+                  "coords": [
+                        126.032534,
+                        -8.51291
+                  ]
+            },
+            {
+                  "name": "Merkadu Maabat",
+                  "text": "A Merkadu Maabat egy nyüzsgő piac, amely Manatuto lakóit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        126.021152,
+                        -8.518614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gunung Alas",
+                  "text": "Gunung Alas este un vârf proeminent din apropierea salinelor din Manatuto.",
+                  "category": "natural",
+                  "coords": [
+                        126.089167,
+                        -8.565556
+                  ]
+            },
+            {
+                  "name": "Suum",
+                  "text": "Suum este un vârf de munte situat în pitoreasca regiune Manatuto.",
+                  "category": "natural",
+                  "coords": [
+                        126.1,
+                        -8.55
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia este o plajă de coastă situată în districtul Manatuto.",
+                  "category": "recreational",
+                  "coords": [
+                        126.09409,
+                        -8.516436
+                  ]
+            },
+            {
+                  "name": "Capela Sao Francisco Xavier, Manulain UN",
+                  "text": "Capela Sao Francisco Xavier este o capelă creștină ce deservește regiunea Manatuto.",
+                  "category": "landmark",
+                  "coords": [
+                        125.998293,
+                        -8.532203
+                  ]
+            },
+            {
+                  "name": "Mable",
+                  "text": "Mable este o piață locală care facilitează comerțul în zona Manatuto.",
+                  "category": "cultural",
+                  "coords": [
+                        126.043812,
+                        -8.513446
+                  ]
+            },
+            {
+                  "name": "Mebel",
+                  "text": "Mebel funcționează ca o piață plină de viață în comunitatea Manatuto.",
+                  "category": "cultural",
+                  "coords": [
+                        126.032534,
+                        -8.51291
+                  ]
+            },
+            {
+                  "name": "Merkadu Maabat",
+                  "text": "Merkadu Maabat este o piață vibrantă care deservește locuitorii din Manatuto.",
+                  "category": "cultural",
+                  "coords": [
+                        126.021152,
+                        -8.518614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gunung Alas",
+                  "text": "Gunung Alas is a prominent peak rising near the Manatuto salt works.",
+                  "category": "natural",
+                  "coords": [
+                        126.089167,
+                        -8.565556
+                  ]
+            },
+            {
+                  "name": "Suum",
+                  "text": "Suum is a mountain peak located in the scenic Manatuto region.",
+                  "category": "natural",
+                  "coords": [
+                        126.1,
+                        -8.55
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia is a coastal beach area found in the Manatuto district.",
+                  "category": "recreational",
+                  "coords": [
+                        126.09409,
+                        -8.516436
+                  ]
+            },
+            {
+                  "name": "Capela Sao Francisco Xavier, Manulain UN",
+                  "text": "Capela Sao Francisco Xavier is a Christian chapel serving the Manatuto region.",
+                  "category": "landmark",
+                  "coords": [
+                        125.998293,
+                        -8.532203
+                  ]
+            },
+            {
+                  "name": "Mable",
+                  "text": "Mable is a local marketplace facilitating trade in the Manatuto area.",
+                  "category": "cultural",
+                  "coords": [
+                        126.043812,
+                        -8.513446
+                  ]
+            },
+            {
+                  "name": "Mebel",
+                  "text": "Mebel operates as a bustling marketplace within the Manatuto community.",
+                  "category": "cultural",
+                  "coords": [
+                        126.032534,
+                        -8.51291
+                  ]
+            },
+            {
+                  "name": "Merkadu Maabat",
+                  "text": "Merkadu Maabat is a vibrant marketplace serving the residents of Manatuto.",
+                  "category": "cultural",
+                  "coords": [
+                        126.021152,
+                        -8.518614
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TL-MT",
     coords: [126.0167, -8.5167],
@@ -606,7 +2667,124 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "liquica-cement-plant-economic-v2",
+    id: "liquica-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bubble Beach",
+                  "text": "Bubble Beach ist eine entspannende Küstenattraktion in liquica-cement-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.370211,
+                        -8.575858
+                  ]
+            },
+            {
+                  "name": "Prisao de Aipelo",
+                  "text": "Prisao de Aipelo ist eine historische Stätte und Attraktion in liquica-cement-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.381212,
+                        -8.569757
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia ist ein öffentlicher Sandstrand in liquica-cement-plant-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.397239,
+                        -8.56486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bubble Beach",
+                  "text": "A Bubble Beach egy pihentető tengerparti látványosság liquica-cement-plant-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.370211,
+                        -8.575858
+                  ]
+            },
+            {
+                  "name": "Prisao de Aipelo",
+                  "text": "A Prisao de Aipelo egy történelmi jelentőségű látványosság liquica-cement-plant-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.381212,
+                        -8.569757
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "A Praia egy nyilvános tengerparti szakasz liquica-cement-plant-economic-v2 városában.",
+                  "category": "recreational",
+                  "coords": [
+                        125.397239,
+                        -8.56486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bubble Beach",
+                  "text": "Bubble Beach este o atracție de coastă situată în liquica-cement-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.370211,
+                        -8.575858
+                  ]
+            },
+            {
+                  "name": "Prisao de Aipelo",
+                  "text": "Prisao de Aipelo este un sit istoric și o atracție în liquica-cement-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.381212,
+                        -8.569757
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia este o plajă publică situată în liquica-cement-plant-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.397239,
+                        -8.56486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bubble Beach",
+                  "text": "Bubble Beach is a relaxing coastal attraction located in liquica-cement-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.370211,
+                        -8.575858
+                  ]
+            },
+            {
+                  "name": "Prisao de Aipelo",
+                  "text": "Prisao de Aipelo is a historical site and local attraction in liquica-cement-plant-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.381212,
+                        -8.569757
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia is a beautiful public beach area in liquica-cement-plant-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.397239,
+                        -8.56486
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "TL-LI",
     coords: [125.3333, -8.5833],
@@ -642,7 +2820,196 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "pante-macassar-port-economic-v2",
+    id: "pante-macassar-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro",
+                  "text": "Miradouro ist eine Aussichtsplattform mit weitem Blick über pante-macassar-port-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        124.400736,
+                        -9.185095
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Ein wunderschöner Praia in pante-macassar-port-economic-v2, perfekt für die Erholung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        124.41532,
+                        -9.172852
+                  ]
+            },
+            {
+                  "name": "Gruta St. Antonio Oessono",
+                  "text": "Gruta St. Antonio Oessono ist eine heilige christliche Grotte und ein Gebetsort in pante-macassar-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.384796,
+                        -9.19687
+                  ]
+            },
+            {
+                  "name": "Sao Francisco de Assis - Mahata",
+                  "text": "Sao Francisco de Assis - Mahata ist ein bedeutendes christliches Zentrum in pante-macassar-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.397593,
+                        -9.190452
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antonio de Nispeno Oe-Cusse",
+                  "text": "Die Capela Santo Antonio de Nispeno Oe-Cusse ist eine malerische christliche Kapelle in pante-macassar-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.381175,
+                        -9.194534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro",
+                  "text": "A Miradouro egy kilátóterasz, ahonnan lenyűgöző kilátás nyílik pante-macassar-port-economic-v2 városára.",
+                  "category": "natural",
+                  "coords": [
+                        124.400736,
+                        -9.185095
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Egy gyönyörű Praia pante-macassar-port-economic-v2 területén, amely tökéletes a tengerparti kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        124.41532,
+                        -9.172852
+                  ]
+            },
+            {
+                  "name": "Gruta St. Antonio Oessono",
+                  "text": "A Gruta St. Antonio Oessono egy szent keresztény barlang és imádkozóhely pante-macassar-port-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        124.384796,
+                        -9.19687
+                  ]
+            },
+            {
+                  "name": "Sao Francisco de Assis - Mahata",
+                  "text": "A Sao Francisco de Assis - Mahata egy kiemelkedő keresztény központ pante-macassar-port-economic-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.397593,
+                        -9.190452
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antonio de Nispeno Oe-Cusse",
+                  "text": "A Capela Santo Antonio de Nispeno Oe-Cusse egy festői helyi keresztény kápolna pante-macassar-port-economic-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        124.381175,
+                        -9.194534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro",
+                  "text": "Miradouro este o punte de observație care oferă vederi ample asupra pante-macassar-port-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        124.400736,
+                        -9.185095
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "O Praia frumoasă situată în pante-macassar-port-economic-v2, perfectă pentru recreerea la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        124.41532,
+                        -9.172852
+                  ]
+            },
+            {
+                  "name": "Gruta St. Antonio Oessono",
+                  "text": "Gruta St. Antonio Oessono este o grotă creștină sacră și un loc de rugăciune din pante-macassar-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.384796,
+                        -9.19687
+                  ]
+            },
+            {
+                  "name": "Sao Francisco de Assis - Mahata",
+                  "text": "Sao Francisco de Assis - Mahata este un centru creștin proeminent ce deservește credincioșii din pante-macassar-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.397593,
+                        -9.190452
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antonio de Nispeno Oe-Cusse",
+                  "text": "Capela Santo Antonio de Nispeno Oe-Cusse este o capelă creștină locală pitorească situată în pante-macassar-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.381175,
+                        -9.194534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro",
+                  "text": "Miradouro is an observation deck providing sweeping views across pante-macassar-port-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        124.400736,
+                        -9.185095
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "A beautiful Praia located in pante-macassar-port-economic-v2, perfect for seaside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        124.41532,
+                        -9.172852
+                  ]
+            },
+            {
+                  "name": "Gruta St. Antonio Oessono",
+                  "text": "Gruta St. Antonio Oessono is a sacred Christian grotto and place of prayer in pante-macassar-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.384796,
+                        -9.19687
+                  ]
+            },
+            {
+                  "name": "Sao Francisco de Assis - Mahata",
+                  "text": "Sao Francisco de Assis - Mahata is a prominent Christian center serving the faithful in pante-macassar-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.397593,
+                        -9.190452
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antonio de Nispeno Oe-Cusse",
+                  "text": "The Capela Santo Antonio de Nispeno Oe-Cusse is a quaint local Christian chapel situated in pante-macassar-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.381175,
+                        -9.194534
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TL-OE",
     coords: [124.3833, -9.1950],
@@ -678,7 +3045,160 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     },
   },
   {
-    id: "inur-sacrato-power-station-economic-v2",
+    id: "inur-sacrato-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário de Oé-Cusse",
+                  "text": "Diese markante christliche Kirche in Oé-Cusse dient als zentraler Ort der Anbetung für die lokale katholische Gemeinde in der Exklave.",
+                  "category": "landmark",
+                  "coords": [
+                        124.357483,
+                        -9.208187
+                  ]
+            },
+            {
+                  "name": "Kapela Numbei",
+                  "text": "Diese kleine christliche Kapelle liegt in der Nähe des lokalen Wirtschaftszentrums in Oé-Cusse und bietet einen Raum für die tägliche Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        124.353067,
+                        -9.209192
+                  ]
+            },
+            {
+                  "name": "Sta. Lúcia Kutete",
+                  "text": "Diese christliche Stätte im Gebiet von Kutete bietet einen religiösen Versammlungsort für die Gemeinde in der Region Oé-Cusse.",
+                  "category": "landmark",
+                  "coords": [
+                        124.420303,
+                        -9.240767
+                  ]
+            },
+            {
+                  "name": "Mercado de Numbei",
+                  "text": "Dieser Marktplatz in Numbei ist voller lokaler Händler und ein lebendiges Zentrum für den täglichen Handel und frische Produkte in Oé-Cusse.",
+                  "category": "cultural",
+                  "coords": [
+                        124.353572,
+                        -9.20418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário de Oé-Cusse",
+                  "text": "Ez az Oé-Cusse-i kiemelkedő keresztény templom a helyi katolikus közösség központi istentiszteleti helyeként szolgál az exklávéban.",
+                  "category": "landmark",
+                  "coords": [
+                        124.357483,
+                        -9.208187
+                  ]
+            },
+            {
+                  "name": "Kapela Numbei",
+                  "text": "Az Oé-Cusse-i helyi gazdasági központ közelében található kis keresztény kápolna helyet biztosít a napi áhítatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        124.353067,
+                        -9.209192
+                  ]
+            },
+            {
+                  "name": "Sta. Lúcia Kutete",
+                  "text": "Ez a Kutete térségében található keresztény hely vallási gyülekezőhelyet biztosít az Oé-Cusse régió közösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        124.420303,
+                        -9.240767
+                  ]
+            },
+            {
+                  "name": "Mercado de Numbei",
+                  "text": "A helyi árusoktól nyüzsgő numbei piac a mindennapi kereskedelem és a friss termékek élénk központja Oé-Cusséban.",
+                  "category": "cultural",
+                  "coords": [
+                        124.353572,
+                        -9.20418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário de Oé-Cusse",
+                  "text": "Această biserică creștină proeminentă din Oé-Cusse servește ca lăcaș de cult central pentru comunitatea catolică locală din enclavă.",
+                  "category": "landmark",
+                  "coords": [
+                        124.357483,
+                        -9.208187
+                  ]
+            },
+            {
+                  "name": "Kapela Numbei",
+                  "text": "Situată în apropierea centrului economic local din Oé-Cusse, această mică capelă creștină oferă un spațiu pentru devotamentul zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        124.353067,
+                        -9.209192
+                  ]
+            },
+            {
+                  "name": "Sta. Lúcia Kutete",
+                  "text": "Acest lăcaș creștin din zona Kutete oferă un loc de adunare religioasă pentru comunitatea din regiunea Oé-Cusse.",
+                  "category": "landmark",
+                  "coords": [
+                        124.420303,
+                        -9.240767
+                  ]
+            },
+            {
+                  "name": "Mercado de Numbei",
+                  "text": "Plină de vânzători locali, această piață din Numbei este un centru vibrant pentru comerțul zilnic și produse proaspete din Oé-Cusse.",
+                  "category": "cultural",
+                  "coords": [
+                        124.353572,
+                        -9.20418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário de Oé-Cusse",
+                  "text": "This prominent Christian church in Oé-Cusse serves as a central place of worship for the local Catholic community in the enclave.",
+                  "category": "landmark",
+                  "coords": [
+                        124.357483,
+                        -9.208187
+                  ]
+            },
+            {
+                  "name": "Kapela Numbei",
+                  "text": "Situated near the local economic hub in Oé-Cusse, this small Christian chapel offers a space for daily devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        124.353067,
+                        -9.209192
+                  ]
+            },
+            {
+                  "name": "Sta. Lúcia Kutete",
+                  "text": "This Christian site in the Kutete area provides a religious gathering place for the community within the Oé-Cusse region.",
+                  "category": "landmark",
+                  "coords": [
+                        124.420303,
+                        -9.240767
+                  ]
+            },
+            {
+                  "name": "Mercado de Numbei",
+                  "text": "Bustling with local vendors, this marketplace in Numbei is a vibrant center for daily trade and fresh produce in Oé-Cusse.",
+                  "category": "cultural",
+                  "coords": [
+                        124.353572,
+                        -9.20418
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "TL-OE",
     coords: [124.3667, -9.2167],

@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraTurkmenistanHistoryV2: POI[] = [
   {
-    id: "nisa-ruins-history-v2",
+    id: "nisa-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Köne Nusaý",
+                  "text": "Diese antike archäologische Stätte umfasst die erodierten Lehmziegelruinen einer bedeutenden Festung des Partherreichs.",
+                  "category": "landmark",
+                  "coords": [
+                        58.211428,
+                        37.951398
+                  ]
+            },
+            {
+                  "name": "Bagyr Medeniýet Öýi",
+                  "text": "Dieses lokale Theater und Kulturzentrum in der Nähe von Nisa veranstaltet Aufführungen und Gemeindetreffen für die Bewohner von Bagyr.",
+                  "category": "cultural",
+                  "coords": [
+                        58.215823,
+                        37.967499
+                  ]
+            },
+            {
+                  "name": "Gala Medeni Dynç Alys Merkezi",
+                  "text": "Dieser moderne Erholungsresort-Komplex befindet sich in der Nähe der historischen Ruinen von Nisa und bietet Freizeiteinrichtungen für Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        58.138057,
+                        37.993204
+                  ]
+            },
+            {
+                  "name": "Täze Nusaý",
+                  "text": "Dieses archäologische Gebiet, das oft mit der Unterstadt der alten parthischen Hauptstadt in Verbindung gebracht wird, zeigt bürgerliche und private Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        58.198589,
+                        37.966691
+                  ]
+            },
+            {
+                  "name": "ŞEÝH DEKKĀK, Ebû Ali",
+                  "text": "Diese traditionelle islamische Stätte in der Nähe von Nisa ist der verehrten spirituellen Figur Ebû Ali Şeýh Dekkāk gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        58.198185,
+                        37.957101
+                  ]
+            },
+            {
+                  "name": "Gudrat dagy",
+                  "text": "Diese heilige Kultstätte liegt vor einer Bergkulisse in der Nähe von Nisa und bietet eine ruhige Umgebung für das Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        58.18128,
+                        37.946766
+                  ]
+            },
+            {
+                  "name": "Baba Ali Mes Metjidi",
+                  "text": "Diese lokale islamische Moschee bietet in der Umgebung der Nisa-Ruinen einen eigenen Raum für das gemeinsame Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        58.205687,
+                        37.96494
+                  ]
+            },
+            {
+                  "name": "Imam Reza Metjidi",
+                  "text": "Diese traditionelle islamische Moschee in der Nähe von Nisa ist zu Ehren von Imam Reza benannt und zieht lokale Gläubige zum täglichen Gebet an.",
+                  "category": "landmark",
+                  "coords": [
+                        58.233,
+                        37.958753
+                  ]
+            },
+            {
+                  "name": "Halymberdi Işanyň Metjidi",
+                  "text": "Diese Moschee dient der regionalen muslimischen Gemeinde in der Nähe von Nisa und weist klassische architektonische Elemente typischer lokaler Kultstätten auf.",
+                  "category": "landmark",
+                  "coords": [
+                        58.203969,
+                        37.958811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Köne Nusaý",
+                  "text": "Ez az ősi régészeti lelőhely egy fontos pártus birodalmi erődítmény lepusztult vályogtégla romjait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        58.211428,
+                        37.951398
+                  ]
+            },
+            {
+                  "name": "Bagyr Medeniýet Öýi",
+                  "text": "Ez a Nisa közelében található helyi színház és kulturális központ előadásoknak és közösségi összejöveteleknek ad otthont Bagyr lakói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        58.215823,
+                        37.967499
+                  ]
+            },
+            {
+                  "name": "Gala Medeni Dynç Alys Merkezi",
+                  "text": "Ez a modern üdülőközpont Nisa történelmi romjainak közelében található, és szabadidős létesítményeket kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        58.138057,
+                        37.993204
+                  ]
+            },
+            {
+                  "name": "Täze Nusaý",
+                  "text": "Az ősi pártus főváros alsóvárosához kötődő régészeti területen polgári és lakóépületek romjai kerültek elő.",
+                  "category": "landmark",
+                  "coords": [
+                        58.198589,
+                        37.966691
+                  ]
+            },
+            {
+                  "name": "ŞEÝH DEKKĀK, Ebû Ali",
+                  "text": "Ezt a Nisa közelében található hagyományos iszlám helyszínt a tisztelt szellemi vezető, Ebû Ali Şeýh Dekkāk emlékének szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        58.198185,
+                        37.957101
+                  ]
+            },
+            {
+                  "name": "Gudrat dagy",
+                  "text": "A Nisa közelében, hegyvidéki háttérben elhelyezkedő szent istentiszteleti hely csendes környezetet kínál az imádkozáshoz.",
+                  "category": "religious",
+                  "coords": [
+                        58.18128,
+                        37.946766
+                  ]
+            },
+            {
+                  "name": "Baba Ali Mes Metjidi",
+                  "text": "Ez a helyi iszlám mecset dedikált teret biztosít a gyülekezeti imákhoz a nisai romok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        58.205687,
+                        37.96494
+                  ]
+            },
+            {
+                  "name": "Imam Reza Metjidi",
+                  "text": "Ez a Nisa közelében található hagyományos iszlám mecset, melyet Imam Reza tiszteletére neveztek el, a napi imákra vonzza a helyi híveket.",
+                  "category": "landmark",
+                  "coords": [
+                        58.233,
+                        37.958753
+                  ]
+            },
+            {
+                  "name": "Halymberdi Işanyň Metjidi",
+                  "text": "A Nisa környéki régió muszlim közösségét szolgáló mecset a helyi istentiszteleti helyekre jellemző klasszikus építészeti elemeket vonultat fel.",
+                  "category": "landmark",
+                  "coords": [
+                        58.203969,
+                        37.958811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Köne Nusaý",
+                  "text": "Acest sit arheologic antic prezintă ruinele erodate din cărămidă de lut ale unei importante fortărețe a Imperiului Part.",
+                  "category": "landmark",
+                  "coords": [
+                        58.211428,
+                        37.951398
+                  ]
+            },
+            {
+                  "name": "Bagyr Medeniýet Öýi",
+                  "text": "Acest teatru local și centru cultural din apropiere de Nisa găzduiește spectacole și adunări comunitare pentru locuitorii din Bagyr.",
+                  "category": "cultural",
+                  "coords": [
+                        58.215823,
+                        37.967499
+                  ]
+            },
+            {
+                  "name": "Gala Medeni Dynç Alys Merkezi",
+                  "text": "Acest complex de agrement modern este situat în apropierea ruinelor istorice din Nisa, oferind facilități de relaxare pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        58.138057,
+                        37.993204
+                  ]
+            },
+            {
+                  "name": "Täze Nusaý",
+                  "text": "Adesea asociată cu orașul de jos al anticei capitale parte, această zonă arheologică dezvăluie ruine civice și rezidențiale.",
+                  "category": "landmark",
+                  "coords": [
+                        58.198589,
+                        37.966691
+                  ]
+            },
+            {
+                  "name": "ŞEÝH DEKKĀK, Ebû Ali",
+                  "text": "Acest sit islamic tradițional din apropiere de Nisa este dedicat veneratei figuri spirituale Ebû Ali Şeýh Dekkāk.",
+                  "category": "landmark",
+                  "coords": [
+                        58.198185,
+                        37.957101
+                  ]
+            },
+            {
+                  "name": "Gudrat dagy",
+                  "text": "Situat pe un fundal montan lângă Nisa, acest lăcaș de cult sacru oferă un mediu liniștit pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        58.18128,
+                        37.946766
+                  ]
+            },
+            {
+                  "name": "Baba Ali Mes Metjidi",
+                  "text": "Această moschee islamică locală oferă un spațiu dedicat pentru rugăciunile congregației în vecinătatea ruinelor din Nisa.",
+                  "category": "landmark",
+                  "coords": [
+                        58.205687,
+                        37.96494
+                  ]
+            },
+            {
+                  "name": "Imam Reza Metjidi",
+                  "text": "Situată lângă Nisa, această moschee islamică tradițională poartă numele Imamului Reza, atrăgând credincioșii locali pentru rugăciunea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        58.233,
+                        37.958753
+                  ]
+            },
+            {
+                  "name": "Halymberdi Işanyň Metjidi",
+                  "text": "Deservind comunitatea musulmană regională din apropiere de Nisa, această moschee prezintă elemente arhitecturale clasice, tipice lăcașurilor de cult locale.",
+                  "category": "landmark",
+                  "coords": [
+                        58.203969,
+                        37.958811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Nissa (Nusay)",
+                  "text": "This ancient archaeological site features the eroded mud-brick ruins of an important Parthian Empire fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        58.211428,
+                        37.951398
+                  ]
+            },
+            {
+                  "name": "Bagyr House of Culture",
+                  "text": "This local theater and cultural center near Nisa hosts performances and community gatherings for the residents of Bagyr.",
+                  "category": "cultural",
+                  "coords": [
+                        58.215823,
+                        37.967499
+                  ]
+            },
+            {
+                  "name": "Gala Resort Center",
+                  "text": "This modern recreational resort complex is situated near the historic ruins of Nisa, offering leisure facilities for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        58.138057,
+                        37.993204
+                  ]
+            },
+            {
+                  "name": "New Nisa",
+                  "text": "Often associated with the lower town of the ancient Parthian capital, this archaeological area reveals civic and residential ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        58.198589,
+                        37.966691
+                  ]
+            },
+            {
+                  "name": "ŞEÝH DEKKĀK, Ebû Ali",
+                  "text": "This traditional Islamic site near Nisa is dedicated to the revered spiritual figure Ebû Ali Şeýh Dekkāk.",
+                  "category": "landmark",
+                  "coords": [
+                        58.198185,
+                        37.957101
+                  ]
+            },
+            {
+                  "name": "Gudrat dagy",
+                  "text": "Set against a mountainous backdrop near Nisa, this sacred place of worship offers a quiet environment for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        58.18128,
+                        37.946766
+                  ]
+            },
+            {
+                  "name": "Baba Ali Mes Metjidi",
+                  "text": "This local Islamic mosque provides a dedicated space for congregational prayers in the vicinity of the Nisa ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        58.205687,
+                        37.96494
+                  ]
+            },
+            {
+                  "name": "Imam Reza Metjidi",
+                  "text": "Located near Nisa, this traditional Islamic mosque is named in honor of Imam Reza, drawing local worshippers for daily prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        58.233,
+                        37.958753
+                  ]
+            },
+            {
+                  "name": "Halymberdi Işanyň Metjidi",
+                  "text": "Serving the regional Muslim community near Nisa, this mosque features classic architectural elements typical of local places of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        58.203969,
+                        37.958811
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TM-A",
     coords: [58.2119, 37.9525],
@@ -195,7 +528,340 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "anau-mosque-ruins-history-v2",
+    id: "anau-mosque-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Annau Archeological Site",
+                  "text": "Diese Ruinen bei Aşgabat enthalten Spuren menschlicher Besiedlung, die bis ins 5. Jahrtausend v. Chr. zurückreichen.",
+                  "category": "historical",
+                  "coords": [
+                        58.545193,
+                        37.896562
+                  ]
+            },
+            {
+                  "name": "Annau South Mound",
+                  "text": "Ein alter Siedlungshügel in Änew, der Zeugnisse über die Landwirtschaft und das Handwerk der frühen Bronzezeit liefert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.528624,
+                        37.897888
+                  ]
+            },
+            {
+                  "name": "Buýsanç",
+                  "text": "Ein beliebter Erholungspark in Änew mit familienfreundlichen Fahrgeschäften und Freizeitaktivitäten im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        58.485632,
+                        37.900272
+                  ]
+            },
+            {
+                  "name": "Änew Medeniýet Öýi",
+                  "text": "Ein Gemeinschaftszentrum in Änew, in dem lokale Theateraufführungen, Konzerte und kulturelle Treffen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        58.485645,
+                        37.902282
+                  ]
+            },
+            {
+                  "name": "Ak Bugday (White Wheat) Museum",
+                  "text": "Das weltweit einzige Museum, das dem Weizen gewidmet ist und an der Stelle errichtet wurde, an der 5.000 Jahre alte Körner entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        58.486817,
+                        37.909125
+                  ]
+            },
+            {
+                  "name": "Gämi Medeniýet Öýi",
+                  "text": "Ein lokales Kulturzentrum bei Änew, das Raum für traditionelle turkmenische Musik- und Tanzaufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        58.470691,
+                        37.909705
+                  ]
+            },
+            {
+                  "name": "Annau North Mound",
+                  "text": "Eine archäologische Stätte in Änew, die für Artefakte aus dem Äneolithikum und frühen Bauernkulturen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        58.531446,
+                        37.903633
+                  ]
+            },
+            {
+                  "name": "Seyit Jemaleddin Mosque",
+                  "text": "Berühmte Moscheeruinen aus dem 15. Jahrhundert in Änew, einzigartig durch die Drachenmosaike, die das Eingangsportal schmücken.",
+                  "category": "historical",
+                  "coords": [
+                        58.544293,
+                        37.895479
+                  ]
+            },
+            {
+                  "name": "Ak Bugdaý Bazary",
+                  "text": "Ein geschäftiger Marktplatz in Änew, auf dem lokale Bauern frischen „Ak Bugday“-Weizen und andere regionale Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        58.508475,
+                        37.907786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Annau Archeological Site",
+                  "text": "Ezek az Asgabat melletti romok az i. e. 5. évezredig visszanyúló emberi letelepedés nyomait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        58.545193,
+                        37.896562
+                  ]
+            },
+            {
+                  "name": "Annau South Mound",
+                  "text": "Egy ősi településhalom Änew-ben, amely a kora bronzkori mezőgazdaságról és kézművességről tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        58.528624,
+                        37.897888
+                  ]
+            },
+            {
+                  "name": "Buýsanç",
+                  "text": "Népszerű szabadidőpark Änew-ben, családbarát játékokkal és szabadtéri kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        58.485632,
+                        37.900272
+                  ]
+            },
+            {
+                  "name": "Änew Medeniýet Öýi",
+                  "text": "Közösségi helyszín Änew-ben, amely helyi színházi előadásoknak, koncerteknek és kulturális összejöveteleknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        58.485645,
+                        37.902282
+                  ]
+            },
+            {
+                  "name": "Ak Bugday (White Wheat) Museum",
+                  "text": "A világ egyetlen búzának szentelt múzeuma, amely azon a helyen épült, ahol 5000 éves magvakat fedeztek fel.",
+                  "category": "museum",
+                  "coords": [
+                        58.486817,
+                        37.909125
+                  ]
+            },
+            {
+                  "name": "Gämi Medeniýet Öýi",
+                  "text": "Änew melletti helyi kulturális központ, amely helyet biztosít a hagyományos türkmén zenei és táncelőadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.470691,
+                        37.909705
+                  ]
+            },
+            {
+                  "name": "Annau North Mound",
+                  "text": "Régészeti lelőhely Änew-ben, amely az eneolitikum korszakából és a korai földművelő kultúrákból származó leleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.531446,
+                        37.903633
+                  ]
+            },
+            {
+                  "name": "Seyit Jemaleddin Mosque",
+                  "text": "Híres 15. századi mecsetromok Änew-ben, amelyeket a bejárati portálját díszítő sárkánymozaikok tesznek egyedülállóvá.",
+                  "category": "historical",
+                  "coords": [
+                        58.544293,
+                        37.895479
+                  ]
+            },
+            {
+                  "name": "Ak Bugdaý Bazary",
+                  "text": "Nyüzsgő piactér Änew-ben, ahol a helyi gazdák friss „Ak Bugday” búzát és más regionális árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.508475,
+                        37.907786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Annau Archeological Site",
+                  "text": "Aceste ruine de lângă Așgabat conțin urme de locuire umană care datează din mileniul al V-lea î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        58.545193,
+                        37.896562
+                  ]
+            },
+            {
+                  "name": "Annau South Mound",
+                  "text": "Un vechi tumul de așezare din Anau care oferă dovezi ale agriculturii și meșteșugurilor timpurii din Epoca Bronzului.",
+                  "category": "landmark",
+                  "coords": [
+                        58.528624,
+                        37.897888
+                  ]
+            },
+            {
+                  "name": "Buýsanç",
+                  "text": "Un parc recreativ popular în Anau, care oferă atracții pentru familii și activități de petrecere a timpului liber în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        58.485632,
+                        37.900272
+                  ]
+            },
+            {
+                  "name": "Änew Medeniýet Öýi",
+                  "text": "Un centru comunitar din Anau care găzduiește spectacole de teatru locale, concerte și întâlniri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        58.485645,
+                        37.902282
+                  ]
+            },
+            {
+                  "name": "Ak Bugday (White Wheat) Museum",
+                  "text": "Singurul muzeu din lume dedicat grâului, construit pe locul unde au fost descoperite boabe vechi de 5.000 de ani.",
+                  "category": "museum",
+                  "coords": [
+                        58.486817,
+                        37.909125
+                  ]
+            },
+            {
+                  "name": "Gämi Medeniýet Öýi",
+                  "text": "Un centru cultural local lângă Anau, care oferă un spațiu pentru spectacole de muzică și dans tradițional turkmen.",
+                  "category": "cultural",
+                  "coords": [
+                        58.470691,
+                        37.909705
+                  ]
+            },
+            {
+                  "name": "Annau North Mound",
+                  "text": "Un sit arheologic din Anau cunoscut pentru artefacte din perioada eneolitică și culturile agricole timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        58.531446,
+                        37.903633
+                  ]
+            },
+            {
+                  "name": "Seyit Jemaleddin Mosque",
+                  "text": "Ruinele celebrei moschei din secolul al XV-lea din Anau, unice prin mozaicurile cu dragoni care îi împodobesc portalul de la intrare.",
+                  "category": "historical",
+                  "coords": [
+                        58.544293,
+                        37.895479
+                  ]
+            },
+            {
+                  "name": "Ak Bugdaý Bazary",
+                  "text": "O piață plină de viață în Anau, unde fermierii locali vând grâu proaspăt „Ak Bugday” și alte produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        58.508475,
+                        37.907786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Annau Archeological Site",
+                  "text": "These ruins near Ashgabat contain traces of human habitation dating back to the 5th millennium BCE.",
+                  "category": "historical",
+                  "coords": [
+                        58.545193,
+                        37.896562
+                  ]
+            },
+            {
+                  "name": "Annau South Mound",
+                  "text": "An ancient settlement mound in Anau providing evidence of early Bronze Age agriculture and craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        58.528624,
+                        37.897888
+                  ]
+            },
+            {
+                  "name": "Buýsanç",
+                  "text": "A popular recreational park in Anau offering family-friendly rides and outdoor leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        58.485632,
+                        37.900272
+                  ]
+            },
+            {
+                  "name": "Annau House of Culture",
+                  "text": "A community venue in Anau hosting local theatrical performances, concerts, and cultural gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        58.485645,
+                        37.902282
+                  ]
+            },
+            {
+                  "name": "White Wheat Museum",
+                  "text": "The world's only museum dedicated to wheat, built on the site where 5,000-year-old grains were discovered.",
+                  "category": "museum",
+                  "coords": [
+                        58.486817,
+                        37.909125
+                  ]
+            },
+            {
+                  "name": "Gami House of Culture",
+                  "text": "A local cultural centre near Anau providing a space for traditional Turkmen music and dance performances.",
+                  "category": "cultural",
+                  "coords": [
+                        58.470691,
+                        37.909705
+                  ]
+            },
+            {
+                  "name": "Annau North Mound",
+                  "text": "An archaeological site in Anau known for artifacts from the Eneolithic period and early farming cultures.",
+                  "category": "landmark",
+                  "coords": [
+                        58.531446,
+                        37.903633
+                  ]
+            },
+            {
+                  "name": "Seyit Jemaleddin Mosque",
+                  "text": "Famous 15th-century mosque ruins in Anau, unique for the dragon mosaics decorating its entrance portal.",
+                  "category": "historical",
+                  "coords": [
+                        58.544293,
+                        37.895479
+                  ]
+            },
+            {
+                  "name": "Ak Bugdaý Bazary",
+                  "text": "A bustling marketplace in Anau where local farmers sell fresh \"Ak Bugday\" wheat and other regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        58.508475,
+                        37.907786
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TM-A",
     coords: [58.5369, 37.8931],
@@ -291,7 +957,124 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "sultan-sanjar-mausoleum-history-v2",
+    id: "sultan-sanjar-mausoleum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Erkgala",
+                  "text": "Erkgala ist eine bedeutende archäologische Attraktion und der älteste ummauerte Teil des antiken Merw.",
+                  "category": "landmark",
+                  "coords": [
+                        62.192091,
+                        37.66991
+                  ]
+            },
+            {
+                  "name": "Gäwürgala",
+                  "text": "Gäwürgala, auch als Große Kyz Kala bekannt, ist eine markante Festung aus Lehmziegeln mit geriffelten Wänden im antiken Merw.",
+                  "category": "landmark",
+                  "coords": [
+                        62.190722,
+                        37.66242
+                  ]
+            },
+            {
+                  "name": "Buddhist Stupa",
+                  "text": "Dieser buddhistische Stupa steht als seltenes monumentales Überbleibsel des buddhistischen Glaubens in der Oase Merw.",
+                  "category": "landmark",
+                  "coords": [
+                        62.198622,
+                        37.654199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erkgala",
+                  "text": "Az Erkgala egy jelentős régészeti látványosság és az ősi Merv legrégebbi falakkal körülvett része.",
+                  "category": "landmark",
+                  "coords": [
+                        62.192091,
+                        37.66991
+                  ]
+            },
+            {
+                  "name": "Gäwürgala",
+                  "text": "A Gäwürgala, más néven a Nagy Kyz Kala, egy lenyűgöző, hullámos falú vályogtégla erődítmény az ősi Mervben.",
+                  "category": "landmark",
+                  "coords": [
+                        62.190722,
+                        37.66242
+                  ]
+            },
+            {
+                  "name": "Buddhist Stupa",
+                  "text": "Ez a buddhista sztúpa a buddhista hit ritka monumentális maradványa a Merv oázisban.",
+                  "category": "landmark",
+                  "coords": [
+                        62.198622,
+                        37.654199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Erkgala",
+                  "text": "Erkgala este o atracție arheologică semnificativă și cea mai veche parte fortificată a vechiului Merv.",
+                  "category": "landmark",
+                  "coords": [
+                        62.192091,
+                        37.66991
+                  ]
+            },
+            {
+                  "name": "Gäwürgala",
+                  "text": "Gäwürgala, cunoscută și sub numele de Marea Kyz Kala, este o fortăreață impresionantă din cărămidă de lut cu pereți ondulați din vechiul Merv.",
+                  "category": "landmark",
+                  "coords": [
+                        62.190722,
+                        37.66242
+                  ]
+            },
+            {
+                  "name": "Buddhist Stupa",
+                  "text": "Această stupă budistă reprezintă o rămășiță monumentală rară a credinței budiste din oaza Merv.",
+                  "category": "landmark",
+                  "coords": [
+                        62.198622,
+                        37.654199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erkgala",
+                  "text": "Erkgala is a significant archaeological attraction and the oldest walled section of ancient Merv.",
+                  "category": "landmark",
+                  "coords": [
+                        62.192091,
+                        37.66991
+                  ]
+            },
+            {
+                  "name": "Gäwürgala",
+                  "text": "Gäwürgala, also known as the Great Kyz Kala, is a striking mud-brick fortress with corrugated walls in ancient Merv.",
+                  "category": "landmark",
+                  "coords": [
+                        62.190722,
+                        37.66242
+                  ]
+            },
+            {
+                  "name": "Buddhist Stupa",
+                  "text": "This Buddhist stupa stands as a rare monumental remnant of Buddhist faith in the Merv oasis.",
+                  "category": "landmark",
+                  "coords": [
+                        62.198622,
+                        37.654199
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TM-M",
     coords: [62.1931, 37.6633],
@@ -339,7 +1122,88 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "torebeg-hanym-mausoleum-history-v2",
+    id: "torebeg-hanym-mausoleum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daýhan Bazar",
+                  "text": "In der Nähe des historischen Torebeg-Hanym-Mausoleums gelegen, dient der Daýhan-Bazar als lebendiger Agrarmarkt für lokale Bauern.",
+                  "category": "cultural",
+                  "coords": [
+                        59.147757,
+                        42.3324
+                  ]
+            },
+            {
+                  "name": "Däne Bazary",
+                  "text": "Der Däne Bazary fungiert als zentraler Getreidemarkt in der Nähe der antiken architektonischen Stätten der Region und versorgt die Bevölkerung mit wichtigen Feldfrüchten.",
+                  "category": "cultural",
+                  "coords": [
+                        59.151677,
+                        42.335521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daýhan Bazar",
+                  "text": "A történelmi Torebeg Hanym mauzóleum közelében található Daýhan bazár élénk mezőgazdasági piacként szolgál a helyi gazdák számára.",
+                  "category": "cultural",
+                  "coords": [
+                        59.147757,
+                        42.3324
+                  ]
+            },
+            {
+                  "name": "Däne Bazary",
+                  "text": "A Däne Bazary központi gabonapiacként működik a régió ősi építészeti nevezetességeinek közelében, és alapvető terményekkel látja el a helyi lakosságot.",
+                  "category": "cultural",
+                  "coords": [
+                        59.151677,
+                        42.335521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daýhan Bazar",
+                  "text": "Situat lângă istoricul Mausoleu Torebeg Hanym, Bazarul Daýhan servește drept o vibrantă piață agricolă pentru fermierii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        59.147757,
+                        42.3324
+                  ]
+            },
+            {
+                  "name": "Däne Bazary",
+                  "text": "Däne Bazary acționează ca o piață centrală de cereale lângă siturile arhitecturale antice ale regiunii, aprovizionând populația locală cu recolte esențiale.",
+                  "category": "cultural",
+                  "coords": [
+                        59.151677,
+                        42.335521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daýhan Bazar",
+                  "text": "Located near the historic Torebeg Hanym Mausoleum, the Daýhan Bazar serves as a vibrant agricultural market for local farmers.",
+                  "category": "cultural",
+                  "coords": [
+                        59.147757,
+                        42.3324
+                  ]
+            },
+            {
+                  "name": "Däne Bazary",
+                  "text": "Däne Bazary acts as a focal grain market near the ancient architectural sites of the region, supplying essential crops to the local population.",
+                  "category": "cultural",
+                  "coords": [
+                        59.151677,
+                        42.335521
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TM-D",
     coords: [59.1461, 42.3325],
@@ -387,7 +1251,52 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     },
   },
     {
-    id: "dekhistan-ruins-history-v2",
+    id: "dekhistan-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dehistan",
+                  "text": "Die weltweit anerkannte archäologische Stätte von Mischrian weist umfangreiche historische Ruinen auf.",
+                  "category": "historical",
+                  "coords": [
+                        54.624482,
+                        38.27041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dehistan",
+                  "text": "A globálisan elismert misriani régészeti lelőhely kiterjedt történelmi romokat rejt.",
+                  "category": "historical",
+                  "coords": [
+                        54.624482,
+                        38.27041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dehistan",
+                  "text": "Situl arheologic Mishrian, recunoscut la nivel global, prezintă ruine istorice extinse.",
+                  "category": "historical",
+                  "coords": [
+                        54.624482,
+                        38.27041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dehistan",
+                  "text": "The globally recognized archaeological site of Mishrian features extensive historic ruins.",
+                  "category": "historical",
+                  "coords": [
+                        54.624482,
+                        38.27041
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TM-B",
     coords: [54.6294, 38.2711],
@@ -579,7 +1488,88 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "il-arslan-mausoleum-history-v2",
+    id: "il-arslan-mausoleum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dash Mosque Museum",
+                  "text": "Dieses historische Steingebäude in Kunya-Urgench wurde ursprünglich als islamische Kultstätte erbaut und dient heute als Kulturmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        59.14841,
+                        42.325517
+                  ]
+            },
+            {
+                  "name": "Nejmeddin Kubra Metjidi",
+                  "text": "Diese historische islamische Moschee ist eng mit dem Erbe des bedeutenden Sufi-Meisters Nejmeddin Kubra aus dem 12. Jahrhundert verbunden.",
+                  "category": "landmark",
+                  "coords": [
+                        59.142059,
+                        42.322683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dash Mosque Museum",
+                  "text": "Az eredetileg iszlám istentiszteleti helyként épült történelmi kőépület Kunya-Urgenchben ma kulturális múzeumként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        59.14841,
+                        42.325517
+                  ]
+            },
+            {
+                  "name": "Nejmeddin Kubra Metjidi",
+                  "text": "Ez a történelmi iszlám mecset szorosan kötődik a 12. századi kiemelkedő szúfi mester, Nejmeddin Kubra örökségéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        59.142059,
+                        42.322683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dash Mosque Museum",
+                  "text": "Construită inițial ca lăcaș de cult islamic, această structură istorică din piatră din Kunya-Urgench servește acum drept muzeu cultural.",
+                  "category": "museum",
+                  "coords": [
+                        59.14841,
+                        42.325517
+                  ]
+            },
+            {
+                  "name": "Nejmeddin Kubra Metjidi",
+                  "text": "Această moschee islamică istorică este strâns legată de moștenirea proeminentului maestru sufit din secolul al XII-lea, Nejmeddin Kubra.",
+                  "category": "landmark",
+                  "coords": [
+                        59.142059,
+                        42.322683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dash Mosque Museum",
+                  "text": "Originally built as an Islamic place of worship, this historic stone structure in Kunya-Urgench now serves as a cultural museum.",
+                  "category": "museum",
+                  "coords": [
+                        59.14841,
+                        42.325517
+                  ]
+            },
+            {
+                  "name": "Nejmeddin Kubra Mosque",
+                  "text": "This historic Islamic mosque is intricately linked to the legacy of the prominent 12th-century Sufi master Nejmeddin Kubra.",
+                  "category": "landmark",
+                  "coords": [
+                        59.142059,
+                        42.322683
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TM-D",
     coords: [59.1486, 42.3283],
@@ -627,7 +1617,88 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "namazga-depe-history-v2",
+    id: "namazga-depe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abiverd",
+                  "text": "Eine antike historische Siedlung in der Nähe des archäologischen Gebiets Namazga Depe.",
+                  "category": "landmark",
+                  "coords": [
+                        59.560938,
+                        37.386865
+                  ]
+            },
+            {
+                  "name": "Namazga Depe",
+                  "text": "Ein bedeutender historischer archäologischer Hügel, der antike Siedlungsschichten zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        59.555968,
+                        37.373561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abiverd",
+                  "text": "Ősi történelmi település a Namazga Depe régészeti terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        59.560938,
+                        37.386865
+                  ]
+            },
+            {
+                  "name": "Namazga Depe",
+                  "text": "Jelentős történelmi régészeti halom, amely ősi településrétegeket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        59.555968,
+                        37.373561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abiverd",
+                  "text": "O așezare istorică antică situată în apropierea zonei arheologice Namazga Depe.",
+                  "category": "landmark",
+                  "coords": [
+                        59.560938,
+                        37.386865
+                  ]
+            },
+            {
+                  "name": "Namazga Depe",
+                  "text": "O movilă arheologică istorică semnificativă care prezintă straturi de așezări antice.",
+                  "category": "landmark",
+                  "coords": [
+                        59.555968,
+                        37.373561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abiverd",
+                  "text": "An ancient settlement site located near the historic archaeological area of Namazga Depe.",
+                  "category": "landmark",
+                  "coords": [
+                        59.560938,
+                        37.386865
+                  ]
+            },
+            {
+                  "name": "Namazga Depe",
+                  "text": "A significant historic archaeological mound showcasing ancient settlement layers.",
+                  "category": "landmark",
+                  "coords": [
+                        59.555968,
+                        37.373561
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TM-A",
     coords: [59.5639, 37.3719],
@@ -675,7 +1746,52 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "nadir-shah-fortress-history-v2",
+    id: "nadir-shah-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Köneartyk",
+                  "text": "Diese archäologische Stätte in der Nähe der Festung Nadir Schah offenbart antike Erdruinen, die die tiefen historischen Spuren der Region nachzeichnen.",
+                  "category": "historical",
+                  "coords": [
+                        59.308056,
+                        37.54798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Köneartyk",
+                  "text": "Ez a Nadir Shah erőd közelében található régészeti lelőhely olyan ősi földi romokat tár fel, amelyek a régió mély történelmi nyomait követik nyomon.",
+                  "category": "historical",
+                  "coords": [
+                        59.308056,
+                        37.54798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Köneartyk",
+                  "text": "Acest sit arheologic de lângă Cetatea Nadir Shah dezvăluie ruine antice de pământ care urmăresc amprenta istorică profundă a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        59.308056,
+                        37.54798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Artyk",
+                  "text": "This archaeological site near the Nadir Shah Fortress reveals ancient earthen ruins that trace the region's deep historical footprint.",
+                  "category": "historical",
+                  "coords": [
+                        59.308056,
+                        37.54798
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TM-A",
     coords: [59.2133, 37.5250],
@@ -771,7 +1887,412 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "gyz-gala-fortress-history-v2",
+    id: "gyz-gala-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Merv Museum",
+                  "text": "Dieses Museum zeigt bedeutende archäologische Funde aus der antiken Oasenstadt Merw.",
+                  "category": "museum",
+                  "coords": [
+                        62.139175,
+                        37.659
+                  ]
+            },
+            {
+                  "name": "Gadymy Merw",
+                  "text": "Das antike Merw ist ein UNESCO-Weltkulturerbe und war einst eine der größten Metropolen an der Seidenstraße.",
+                  "category": "historical",
+                  "coords": [
+                        62.16969,
+                        37.667647
+                  ]
+            },
+            {
+                  "name": "Lesser Kyz Kala",
+                  "text": "Eine Festung aus dem 7. Jahrhundert, die für ihre gut erhaltenen, gewellten Außenwände aus Lehmziegeln berühmt ist.",
+                  "category": "fortress",
+                  "coords": [
+                        62.152733,
+                        37.653431
+                  ]
+            },
+            {
+                  "name": "Greater Gyz Gala",
+                  "text": "Die größte Koshk-Festung in Merw, beeindruckend durch ihre monumentalen, gerippten Lehmwände aus der Sassanidenzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        62.152556,
+                        37.655086
+                  ]
+            },
+            {
+                  "name": "Excavation Site Around Sultan Sanjar Mausoleum",
+                  "text": "Diese Ausgrabungsstätte umgibt das prächtige Mausoleum des Seldschuken-Sultans Sanjar im Herzen von Merw.",
+                  "category": "landmark",
+                  "coords": [
+                        62.163709,
+                        37.664058
+                  ]
+            },
+            {
+                  "name": "Shahriar Ark",
+                  "text": "Die einstige Zitadelle von Merw, die im Mittelalter als administratives und militärisches Zentrum der Stadt diente.",
+                  "category": "landmark",
+                  "coords": [
+                        62.171168,
+                        37.672382
+                  ]
+            },
+            {
+                  "name": "Kyz Bibi",
+                  "text": "Eine muslimische Pilgerstätte und ein Mausoleum, das einer verehrten weiblichen Figur der lokalen Geschichte gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        62.153217,
+                        37.65904
+                  ]
+            },
+            {
+                  "name": "Mohammed ibn Zayd Mausoleum",
+                  "text": "Ein seldschukisches Mausoleum aus dem 12. Jahrhundert, bekannt für seine feinen dekorativen Ziegelarbeiten und Kufi-Inschriften.",
+                  "category": "landmark",
+                  "coords": [
+                        62.145727,
+                        37.666153
+                  ]
+            },
+            {
+                  "name": "Akhmed Zamchi mausoleum complex",
+                  "text": "Ein bedeutender religiöser Komplex mit dem Mausoleum des Sufi-Heiligen Akhmed Zamchi, ein Ort tiefer Verehrung.",
+                  "category": "landmark",
+                  "coords": [
+                        62.153621,
+                        37.663177
+                  ]
+            },
+            {
+                  "name": "Hoja Ýusup Hemedany gubury",
+                  "text": "Das Grabmal des berühmten Sufi-Meisters Yusuf Hamadani aus dem 12. Jahrhundert ist eine der heiligsten Stätten der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        62.170282,
+                        37.679365
+                  ]
+            },
+            {
+                  "name": "Construction Materials Bazaar",
+                  "text": "Ein spezialisierter Markt in Merw, der eine große Auswahl an traditionellen und modernen Baumaterialien anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        62.146728,
+                        37.635295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Merv Museum",
+                  "text": "Ez a múzeum az ősi Merw oázisvárosából származó jelentős régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        62.139175,
+                        37.659
+                  ]
+            },
+            {
+                  "name": "Gadymy Merw",
+                  "text": "Az ősi Merw az UNESCO Világörökség része, amely egykor a Selyemút egyik legnagyobb metropolisza volt.",
+                  "category": "historical",
+                  "coords": [
+                        62.16969,
+                        37.667647
+                  ]
+            },
+            {
+                  "name": "Lesser Kyz Kala",
+                  "text": "Egy 7. századi erőd, amely a jó állapotban fennmaradt, hullámos vályogfalairól híres.",
+                  "category": "fortress",
+                  "coords": [
+                        62.152733,
+                        37.653431
+                  ]
+            },
+            {
+                  "name": "Greater Gyz Gala",
+                  "text": "Merw legnagyobb koshk-erődje, amely monumentális, bordázott szászánida kori vályogfalaival nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        62.152556,
+                        37.655086
+                  ]
+            },
+            {
+                  "name": "Excavation Site Around Sultan Sanjar Mausoleum",
+                  "text": "Ez a régészeti terület Szandzsár szeldzsuk szultán pompás mauzóleumát veszi körül Merw szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        62.163709,
+                        37.664058
+                  ]
+            },
+            {
+                  "name": "Shahriar Ark",
+                  "text": "Merw egykori citadellája, amely a középkorban a város adminisztratív és katonai központjaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        62.171168,
+                        37.672382
+                  ]
+            },
+            {
+                  "name": "Kyz Bibi",
+                  "text": "Egy muszlim zarándokhely és mauzóleum, amelyet a helyi történelem egyik tisztelt női alakjának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        62.153217,
+                        37.65904
+                  ]
+            },
+            {
+                  "name": "Mohammed ibn Zayd Mausoleum",
+                  "text": "Egy 12. századi szeldzsuk mauzóleum, amely finom dekoratív téglafalazatáról és kúfi feliratairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        62.145727,
+                        37.666153
+                  ]
+            },
+            {
+                  "name": "Akhmed Zamchi mausoleum complex",
+                  "text": "Jelentős vallási komplexum Akhmed Zamchi szúfi szent mauzóleumával, amely a mély tisztelet helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        62.153621,
+                        37.663177
+                  ]
+            },
+            {
+                  "name": "Hoja Ýusup Hemedany gubury",
+                  "text": "A híres 12. századi szúfi mester, Juszuf Hamadani sírja a régió egyik legszentebb helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        62.170282,
+                        37.679365
+                  ]
+            },
+            {
+                  "name": "Construction Materials Bazaar",
+                  "text": "Egy speciális piac Merwben, amely hagyományos és modern építőanyagok széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        62.146728,
+                        37.635295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Merv Museum",
+                  "text": "Acest muzeu expune descoperiri arheologice importante din vechiul oraș-oază Merv.",
+                  "category": "museum",
+                  "coords": [
+                        62.139175,
+                        37.659
+                  ]
+            },
+            {
+                  "name": "Gadymy Merw",
+                  "text": "Vechiul Merv este un sit inclus în patrimoniul mondial UNESCO, fiind odinioară una dintre cele mai mari metropole de pe Drumul Mătăsii.",
+                  "category": "historical",
+                  "coords": [
+                        62.16969,
+                        37.667647
+                  ]
+            },
+            {
+                  "name": "Lesser Kyz Kala",
+                  "text": "O fortăreață din secolul al VII-lea, faimoasă pentru pereții săi exteriori ondulați din cărămidă de lut, bine conservați.",
+                  "category": "fortress",
+                  "coords": [
+                        62.152733,
+                        37.653431
+                  ]
+            },
+            {
+                  "name": "Greater Gyz Gala",
+                  "text": "Cea mai mare fortăreață de tip koshk din Merv, impresionantă prin pereții săi monumentali din lut cu nervuri, din epoca sasanidă.",
+                  "category": "landmark",
+                  "coords": [
+                        62.152556,
+                        37.655086
+                  ]
+            },
+            {
+                  "name": "Excavation Site Around Sultan Sanjar Mausoleum",
+                  "text": "Acest sit arheologic înconjoară magnificul mausoleu al sultanului selgiucid Sanjar, aflat în inima Mervului.",
+                  "category": "landmark",
+                  "coords": [
+                        62.163709,
+                        37.664058
+                  ]
+            },
+            {
+                  "name": "Shahriar Ark",
+                  "text": "Fosta citadelă a Mervului, care a servit drept centru administrativ și militar al orașului în perioada medievală.",
+                  "category": "landmark",
+                  "coords": [
+                        62.171168,
+                        37.672382
+                  ]
+            },
+            {
+                  "name": "Kyz Bibi",
+                  "text": "Un loc de pelerinaj musulman și un mausoleu dedicat unei figuri feminine venerate din istoria locală.",
+                  "category": "landmark",
+                  "coords": [
+                        62.153217,
+                        37.65904
+                  ]
+            },
+            {
+                  "name": "Mohammed ibn Zayd Mausoleum",
+                  "text": "Un mausoleu selgiucid din secolul al XII-lea, cunoscut pentru zidăria decorativă fină și inscripțiile cufice.",
+                  "category": "landmark",
+                  "coords": [
+                        62.145727,
+                        37.666153
+                  ]
+            },
+            {
+                  "name": "Akhmed Zamchi mausoleum complex",
+                  "text": "Un complex religios important care adăpostește mausoleul sfântului sufit Akhmed Zamchi, un loc de profundă venerație.",
+                  "category": "landmark",
+                  "coords": [
+                        62.153621,
+                        37.663177
+                  ]
+            },
+            {
+                  "name": "Hoja Ýusup Hemedany gubury",
+                  "text": "Mormântul faimosului maestru sufit din secolul al XII-lea, Yusuf Hamadani, este unul dintre cele mai sacre locuri din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        62.170282,
+                        37.679365
+                  ]
+            },
+            {
+                  "name": "Construction Materials Bazaar",
+                  "text": "O piață specializată din Merv, care oferă o gamă largă de materiale de construcție tradiționale și moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        62.146728,
+                        37.635295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Merv Museum",
+                  "text": "This museum displays significant archaeological finds from the ancient oasis city of Merv.",
+                  "category": "museum",
+                  "coords": [
+                        62.139175,
+                        37.659
+                  ]
+            },
+            {
+                  "name": "Ancient Merv",
+                  "text": "Ancient Merv is a UNESCO World Heritage site that once served as one of the largest metropolises on the Silk Road.",
+                  "category": "historical",
+                  "coords": [
+                        62.16969,
+                        37.667647
+                  ]
+            },
+            {
+                  "name": "Lesser Kyz Kala",
+                  "text": "A 7th-century fortress famous for its well-preserved, corrugated mud-brick exterior walls.",
+                  "category": "fortress",
+                  "coords": [
+                        62.152733,
+                        37.653431
+                  ]
+            },
+            {
+                  "name": "Greater Gyz Gala",
+                  "text": "The largest koshk fortress in Merv, impressive for its monumental ribbed mud walls dating back to the Sassanid era.",
+                  "category": "landmark",
+                  "coords": [
+                        62.152556,
+                        37.655086
+                  ]
+            },
+            {
+                  "name": "Excavation Site Around Sultan Sanjar Mausoleum",
+                  "text": "This excavation site surrounds the magnificent mausoleum of the Seljuk Sultan Sanjar in the heart of Merv.",
+                  "category": "landmark",
+                  "coords": [
+                        62.163709,
+                        37.664058
+                  ]
+            },
+            {
+                  "name": "Shahriar Ark",
+                  "text": "The former citadel of Merv, which served as the city's administrative and military center during the medieval period.",
+                  "category": "landmark",
+                  "coords": [
+                        62.171168,
+                        37.672382
+                  ]
+            },
+            {
+                  "name": "Kyz Bibi",
+                  "text": "A Muslim pilgrimage site and mausoleum dedicated to a revered female figure in local history.",
+                  "category": "landmark",
+                  "coords": [
+                        62.153217,
+                        37.65904
+                  ]
+            },
+            {
+                  "name": "Mohammed ibn Zayd Mausoleum",
+                  "text": "A 12th-century Seljuk mausoleum known for its fine decorative brickwork and Kufic inscriptions.",
+                  "category": "landmark",
+                  "coords": [
+                        62.145727,
+                        37.666153
+                  ]
+            },
+            {
+                  "name": "Akhmed Zamchi mausoleum complex",
+                  "text": "A significant religious complex featuring the mausoleum of the Sufi saint Akhmed Zamchi, a place of deep veneration.",
+                  "category": "landmark",
+                  "coords": [
+                        62.153621,
+                        37.663177
+                  ]
+            },
+            {
+                  "name": "Hoja Ýusup Hemedany gubury",
+                  "text": "The tomb of the famous 12th-century Sufi master Yusuf Hamadani is one of the region's holiest sites.",
+                  "category": "landmark",
+                  "coords": [
+                        62.170282,
+                        37.679365
+                  ]
+            },
+            {
+                  "name": "Construction Materials Bazaar",
+                  "text": "A specialized market in Merv offering a wide range of traditional and modern construction materials.",
+                  "category": "cultural",
+                  "coords": [
+                        62.146728,
+                        37.635295
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TM-M",
     coords: [62.1642, 37.6681],
@@ -819,7 +2340,52 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
     },
   },
   {
-    id: "shir-kabir-mosque-history-v2",
+    id: "shir-kabir-mosque-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mashat Ata",
+                  "text": "Ein muslimischer Gottesdienstort in der Nähe der historischen Shir-Kabir-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        54.652212,
+                        38.327849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mashat Ata",
+                  "text": "Muszlim istentiszteleti hely a történelmi Shir Kabir mecset közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        54.652212,
+                        38.327849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mashat Ata",
+                  "text": "Un lăcaș de cult musulman situat în apropierea istoricei Moschei Shir Kabir.",
+                  "category": "landmark",
+                  "coords": [
+                        54.652212,
+                        38.327849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mashat Ata",
+                  "text": "A Muslim place of worship located near the historic Shir Kabir Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        54.652212,
+                        38.327849
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TM-B",
     coords: [54.6433, 38.2861],

@@ -664,7 +664,7 @@ imageHint: "Svaty Anton manor house Slovakia",
             },
             {
                   "name": "Hradisko Krivín v Rybníku",
-                  "text": "Ort einer antiken befestigten Siedlung in Rybník.",
+                  "text": "Ein prähistorischer Burgwall auf einem Hügel oberhalb von Hronský Beňadik.",
                   "category": "historical",
                   "coords": [
                         18.558786,
@@ -738,7 +738,7 @@ imageHint: "Svaty Anton manor house Slovakia",
             },
             {
                   "name": "Hradisko Krivín v Rybníku",
-                  "text": "Egykori erődített település helyszíne Rybníkben.",
+                  "text": "Őskori földvár a Hronský Beňadik feletti dombon.",
                   "category": "historical",
                   "coords": [
                         18.558786,
@@ -812,7 +812,7 @@ imageHint: "Svaty Anton manor house Slovakia",
             },
             {
                   "name": "Hradisko Krivín v Rybníku",
-                  "text": "Locul unei așezări fortificate antice din Rybník.",
+                  "text": "O cetate preistorică pe un deal deasupra satului Hronský Beňadik.",
                   "category": "historical",
                   "coords": [
                         18.558786,
@@ -886,7 +886,7 @@ imageHint: "Svaty Anton manor house Slovakia",
             },
             {
                   "name": "Hradisko Krivín v Rybníku",
-                  "text": "Site of an ancient fortified settlement in Rybník.",
+                  "text": "A prehistoric hillfort on a hill above Hronský Beňadik.",
                   "category": "historical",
                   "coords": [
                         18.558786,
@@ -2086,7 +2086,7 @@ imageHint: "Sklabina castle ruins Turiec",
             },
             {
                   "name": "Kaštieľ Lúka",
-                  "text": "Ein barock-klassizistisches Herrenhaus in der Gemeinde Lúka.",
+                  "text": "Ein Herrenhaus im Dorf Lúka nahe der Burgruine Tematín.",
                   "category": "historical",
                   "coords": [
                         17.880358,
@@ -2124,7 +2124,7 @@ imageHint: "Sklabina castle ruins Turiec",
             },
             {
                   "name": "Kaštieľ Lúka",
-                  "text": "Barokk-klasszicista stílusú kastély Lúka községben.",
+                  "text": "Kúria a Lúka faluban, a Tematín várrom közelében.",
                   "category": "historical",
                   "coords": [
                         17.880358,
@@ -2162,7 +2162,7 @@ imageHint: "Sklabina castle ruins Turiec",
             },
             {
                   "name": "Kaštieľ Lúka",
-                  "text": "Un conac în stil baroc-clasicist situat în comuna Lúka.",
+                  "text": "Un conac în satul Lúka, aproape de ruinele castelului Tematín.",
                   "category": "historical",
                   "coords": [
                         17.880358,
@@ -2200,7 +2200,7 @@ imageHint: "Sklabina castle ruins Turiec",
             },
             {
                   "name": "Kaštieľ Lúka",
-                  "text": "A Baroque-Classicist manor house located in the village of Lúka.",
+                  "text": "A manor house in the village of Lúka near the ruins of Tematín Castle.",
                   "category": "historical",
                   "coords": [
                         17.880358,
@@ -2977,7 +2977,7 @@ imageHint: "Molpir archaeological site Smolenice",
             },
             {
                   "name": "Kostol Nanebovzatia Panny Márie",
-                  "text": "Eine der Jungfrau Maria gewidmete Kirche bei den Erdwällen von Bíňa.",
+                  "text": "Die Kirche Mariä Himmelfahrt (Kostol Nanebovzatia Panny Márie) ist eine gotische Kirche innerhalb der Ruinen der Bina-Befestigungen.",
                   "category": "religious",
                   "coords": [
                         18.643553,
@@ -2995,7 +2995,7 @@ imageHint: "Molpir archaeological site Smolenice",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "Eine dem Heiligen Martin geweihte Kirche in Bíňa.",
+                  "text": "Die Kirche des heiligen Martin (Kostol sv. Martina) ist eine romanische Kirche mit einer steinernen Apsis im befestigten Bereich von Bina.",
                   "category": "religious",
                   "coords": [
                         18.682237,
@@ -3024,7 +3024,7 @@ imageHint: "Molpir archaeological site Smolenice",
             },
             {
                   "name": "Kostol Nanebovzatia Panny Márie",
-                  "text": "Szűz Mária mennybevételének szentelt templom Bényben.",
+                  "text": "A Nagyboldogasszony-templom (Kostol Nanebovzatia Panny Márie) egy gótikus templom a Bina-erődítmény romjain belül.",
                   "category": "religious",
                   "coords": [
                         18.643553,
@@ -3042,7 +3042,7 @@ imageHint: "Molpir archaeological site Smolenice",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "Szent Mártonnak szentelt templom Bény területén.",
+                  "text": "A Szent Márton-templom (Kostol sv. Martina) egy román kori templom kő apszissal a Bina erődített területén belül.",
                   "category": "religious",
                   "coords": [
                         18.682237,
@@ -3071,7 +3071,7 @@ imageHint: "Molpir archaeological site Smolenice",
             },
             {
                   "name": "Kostol Nanebovzatia Panny Márie",
-                  "text": "O biserică dedicată Adormirii Maicii Domnului în Bíňa.",
+                  "text": "Biserica Adormirii Maicii Domnului (Kostol Nanebovzatia Panny Márie) este o biserică gotică în ruinele fortificațiilor Bina.",
                   "category": "religious",
                   "coords": [
                         18.643553,
@@ -3089,7 +3089,7 @@ imageHint: "Molpir archaeological site Smolenice",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "O biserică dedicată Sfântului Martin în zona Bíňa.",
+                  "text": "Biserica Sfântul Martin (Kostol sv. Martina) este o biserică romanică cu o absidă de piatră în zona fortificată Bina.",
                   "category": "religious",
                   "coords": [
                         18.682237,
@@ -3118,7 +3118,7 @@ imageHint: "Molpir archaeological site Smolenice",
             },
             {
                   "name": "Kostol Nanebovzatia Panny Márie",
-                  "text": "A church dedicated to the Assumption of Mary in Bíňa.",
+                  "text": "Kostol Nanebovzatia Panny Márie is a Gothic church within the ruins of the Bina fortifications.",
                   "category": "religious",
                   "coords": [
                         18.643553,
@@ -3136,7 +3136,7 @@ imageHint: "Molpir archaeological site Smolenice",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "A church dedicated to Saint Martin in the Bíňa area.",
+                  "text": "Kostol sv. Martina is a Romanesque church with a stone apse inside the fortified Bina area.",
                   "category": "religious",
                   "coords": [
                         18.682237,
@@ -3653,7 +3653,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Amfiteáter",
-                  "text": "Ein Freilichttheater in der Nähe der Burg Blatnica.",
+                  "text": "Ein Steinamphitheater im Park von Burg Blatnica.",
                   "category": "cultural",
                   "coords": [
                         18.935002,
@@ -3671,7 +3671,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Tlstá",
-                  "text": "Ein markanter Berggipfel im Großen Fatra-Gebirge.",
+                  "text": "Tlstá ist ein markanter Tafelberg im Gebirge Veľká Fatra nahe der Burg Blatnica.",
                   "category": "landmark",
                   "coords": [
                         18.971405,
@@ -3680,7 +3680,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mošovský park",
-                  "text": "Ein historischer Park im englischen Stil in Mošovce.",
+                  "text": "Der Mošovský park ist ein englischer Landschaftspark, der die Burg Blatnica umgibt.",
                   "category": "park",
                   "coords": [
                         18.893154,
@@ -3698,7 +3698,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mlynčekovo",
-                  "text": "Eine lokale Touristenattraktion in der Gegend von Blatnica.",
+                  "text": "Eine restaurierte Wassermühle am Fuße der Burg Blatnica.",
                   "category": "landmark",
                   "coords": [
                         18.964606,
@@ -3718,7 +3718,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Amfiteáter",
-                  "text": "Szabadtéri színpad a blatnicai vár közelében.",
+                  "text": "Kőből készült amfiteátrum a Blatnica vár parkjában.",
                   "category": "cultural",
                   "coords": [
                         18.935002,
@@ -3736,7 +3736,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Tlstá",
-                  "text": "Kiemelkedő hegycsúcs a Nagy-Fátra vonulatában.",
+                  "text": "A Tlstá egy jellegzetes asztalhegy a Nagy-Fátra hegységben, Blatnica vára közelében.",
                   "category": "landmark",
                   "coords": [
                         18.971405,
@@ -3745,7 +3745,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Angolpark",
-                  "text": "Történelmi angolpark Mošovce településen.",
+                  "text": "A Mošovský park egy angol tájképi kert, amely Blatnica várát veszi körül.",
                   "category": "park",
                   "coords": [
                         18.893154,
@@ -3763,7 +3763,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mlynčekovo",
-                  "text": "Helyi turisztikai látványosság Blatnica környékén.",
+                  "text": "Helyreállított vízimalom a Blatnica-vár lábánál.",
                   "category": "landmark",
                   "coords": [
                         18.964606,
@@ -3783,7 +3783,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Amfiteáter",
-                  "text": "Un amfiteatru în aer liber situat lângă castelul Blatnica.",
+                  "text": "Un amfiteatru de piatră în parcul Castelului Blatnica.",
                   "category": "cultural",
                   "coords": [
                         18.935002,
@@ -3801,7 +3801,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Tlstá",
-                  "text": "Un vârf muntos proeminent din masivul Fatra Mare.",
+                  "text": "Tlstá este un masiv de tip masă în munții Veľká Fatra, lângă Castelul Blatnica.",
                   "category": "landmark",
                   "coords": [
                         18.971405,
@@ -3810,7 +3810,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mošovský park",
-                  "text": "Un parc istoric în stil englezesc situat în Mošovce.",
+                  "text": "Parcul Mošovský este un parc peisagistic în stil englezesc care înconjoară Castelul Blatnica.",
                   "category": "park",
                   "coords": [
                         18.893154,
@@ -3828,7 +3828,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mlynčekovo",
-                  "text": "O atracție turistică locală în zona Blatnica.",
+                  "text": "O moară de apă restaurată la poalele Castelului Blatnica.",
                   "category": "landmark",
                   "coords": [
                         18.964606,
@@ -3848,7 +3848,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Amfiteáter",
-                  "text": "An open-air theatre located near Blatnica Castle.",
+                  "text": "A stone amphitheatre in the park of Blatnica Castle.",
                   "category": "cultural",
                   "coords": [
                         18.935002,
@@ -3866,7 +3866,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Tlstá",
-                  "text": "A prominent mountain peak in the Greater Fatra range.",
+                  "text": "Tlstá is a distinctive flat-topped hill in the Veľká Fatra mountains, near Blatnica Castle.",
                   "category": "landmark",
                   "coords": [
                         18.971405,
@@ -3875,7 +3875,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mošovský park",
-                  "text": "A historical English-style park located in Mošovce.",
+                  "text": "Mošovský park is an English-style landscape park surrounding Blatnica Castle.",
                   "category": "park",
                   "coords": [
                         18.893154,
@@ -3893,7 +3893,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mlynčekovo",
-                  "text": "A local tourist attraction in the Blatnica area.",
+                  "text": "A restored watermill at the foot of Blatnica Castle.",
                   "category": "landmark",
                   "coords": [
                         18.964606,
@@ -4337,7 +4337,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mini farma Hrádok",
-                  "text": "Ein Zoo beim Schloss Jelšava.",
+                  "text": "Ein kleiner Bauernhof mit Haustieren am Fuße der Burg Jelšava.",
                   "category": "recreational",
                   "coords": [
                         20.302109,
@@ -4402,7 +4402,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mini farma Hrádok",
-                  "text": "Állatkert a jelšavai várnál.",
+                  "text": "Kis farm háziállatokkal a Jelšava-vár lábánál.",
                   "category": "recreational",
                   "coords": [
                         20.302109,
@@ -4467,7 +4467,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mini farma Hrádok",
-                  "text": "O grădină zoologică lângă Castelul Jelšava.",
+                  "text": "O mini-fermă cu animale domestice la poalele Castelului Jelšava.",
                   "category": "recreational",
                   "coords": [
                         20.302109,
@@ -4532,7 +4532,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Mini farma Hrádok",
-                  "text": "A zoo near Jelšava Castle.",
+                  "text": "A small farm with domestic animals at the base of Jelšava Castle.",
                   "category": "recreational",
                   "coords": [
                         20.302109,
@@ -4688,7 +4688,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Kaštieľ Podrečany",
-                  "text": "Ein klassizistisches Herrenhaus in Podrečany in der Nähe von Divín.",
+                  "text": "Kaštieľ Podrečany ist ein Herrenhaus aus dem Jahr 1893 nahe der Burg Divín.",
                   "category": "historical",
                   "coords": [
                         19.597879,
@@ -4717,7 +4717,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Kaštieľ Podrečany",
-                  "text": "Klasszicista kastély Podrečany községben, Divín közelében.",
+                  "text": "A Kaštieľ Podrečany egy 1893-ban épült kastély Divín vára közelében.",
                   "category": "historical",
                   "coords": [
                         19.597879,
@@ -4746,7 +4746,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Kaštieľ Podrečany",
-                  "text": "Un conac clasicist situat în Podrečany, în apropiere de Divín.",
+                  "text": "Kaštieľ Podrečany este un conac construit în 1893, lângă Castelul Divín.",
                   "category": "historical",
                   "coords": [
                         19.597879,
@@ -4775,7 +4775,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Kaštieľ Podrečany",
-                  "text": "A Classicist manor house located in Podrečany near Divín.",
+                  "text": "Kaštieľ Podrečany is a 19th-century manor house (1893) near Divín Castle.",
                   "category": "historical",
                   "coords": [
                         19.597879,
@@ -4886,7 +4886,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Jelenia priepasť",
-                  "text": "Ein tiefer Höhlenabgrund in der Nähe von Gombasek.",
+                  "text": "Der Jelenia priepasť (Hirschabgrund) ist ein tiefer Karstschlund in der Nähe des Klosters Gombasek.",
                   "category": "landmark",
                   "coords": [
                         20.418518,
@@ -4951,7 +4951,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Jelenia priepasť",
-                  "text": "Mély barlangi szakadék Gombaszög környékén.",
+                  "text": "A Jelenia priepasť (Szarvas-szakadék) egy mély karsztmélység a Gombaseki kolostor közelében.",
                   "category": "landmark",
                   "coords": [
                         20.418518,
@@ -5016,7 +5016,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Jelenia priepasť",
-                  "text": "Un abis adânc de peșteră situat în vecinătatea Gombasek.",
+                  "text": "Jelenia priepasť (Prăpastia Cerbului) este o adâncime carstică în apropierea Mănăstirii Gombasek.",
                   "category": "landmark",
                   "coords": [
                         20.418518,
@@ -5081,7 +5081,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Jelenia priepasť",
-                  "text": "A deep cave abyss located in the vicinity of Gombasek.",
+                  "text": "Jelenia priepasť is a deep karst abyss near the Gombasek Monastery.",
                   "category": "landmark",
                   "coords": [
                         20.418518,
@@ -5588,7 +5588,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Kostol sv. Mikuláša",
-                  "text": "Eine dem heiligen Nikolaus geweihte Kirche in Tupá Castle.",
+                  "text": "Die Kirche des heiligen Nikolaus (Kostol sv. Mikuláša) ist eine gotische Kirche mit hölzernem Glockenturm unterhalb der Ruinen der Burg Tupes.",
                   "category": "religious",
                   "coords": [
                         18.796825,
@@ -5617,7 +5617,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Kostol sv. Mikuláša",
-                  "text": "Szent Miklósnak szentelt templom Tupá Castle területén.",
+                  "text": "A Szent Miklós-templom (Kostol sv. Mikuláša) egy gótikus templom fa harangtoronnyal a Tupes vár romjai alatt.",
                   "category": "religious",
                   "coords": [
                         18.796825,
@@ -5646,7 +5646,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Kostol sv. Mikuláša",
-                  "text": "O biserică dedicată Sfântului Nicolae în Tupá Castle.",
+                  "text": "Biserica Sfântul Nicolae (Kostol sv. Mikuláša) este o biserică gotică cu un clopotniță de lemn sub ruinele Castelului Tupes.",
                   "category": "religious",
                   "coords": [
                         18.796825,
@@ -5675,7 +5675,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Kostol sv. Mikuláša",
-                  "text": "A church dedicated to Saint Nicholas in Tupá Castle.",
+                  "text": "Kostol sv. Mikuláša is a Gothic church with a wooden belfry below the ruins of Tupes Castle.",
                   "category": "religious",
                   "coords": [
                         18.796825,
@@ -5827,7 +5827,1060 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-kapusany-castle-ruins-history-v2.webp",
   },
   {
-    id: "slovakia-vlkolinec-archaeology-history-v2", "sights": {"de": [{"name": "Tarzánia Hrabovo", "text": "Ein Kletter- und Seilpark in Hrabovo bei Ružomberok, ideal für Familienabenteuer.", "category": "family", "coords": [19.273415, 49.070875]}, {"name": "Mini farma Sidorovo", "text": "Ein kleiner Zoo am Berg Sidorovo, der heimische Bauernhoftiere präsentiert.", "category": "family", "coords": [19.270465, 49.047888]}, {"name": "Sýpka", "text": "Ein historisches Getreidespeicher-Gebäude im Unesco-Dorf Vlkolínec, das heute als Museum dient.", "category": "museum", "coords": [19.277525, 49.038694]}, {"name": "Dom Unesco", "text": "Ein Informationszentrum und Museum, das der Bedeutung des UNESCO-Welterbes Vlkolínec gewidmet ist.", "category": "museum", "coords": [19.278624, 49.039551]}, {"name": "Farma", "text": "Ein Streichelzoo in Vlkolínec Historisches Erbe.", "category": "family", "coords": [19.276283, 49.039496]}, {"name": "Sidorovo", "text": "Ein Berggipfel in der Großen Fatra bei Vlkolínec.", "category": "natural", "coords": [19.278695, 49.046557]}, {"name": "Malinné", "text": "Ein markanter Berggipfel in der Großen Fatra.", "category": "natural", "coords": [19.248576, 49.049]}, {"name": "Krkavá skala", "text": "Eine markante Felsnadel und ein geschütztes Naturdenkmal.", "category": "landmark", "coords": [19.287341, 49.04677]}, {"name": "Veľká skala", "text": "Als markantes Naturmerkmal im Vlkolínec Historical Heritage bietet die Veľká skala Besuchern einen herrlichen Aussichtspunkt. Von dieser Erhebung aus lässt sich der weite Blick über die slowakische Landschaft genießen.", "category": "natural", "coords": [19.278541, 49.059278]}, {"name": "Gerecká skala", "text": "Ein Aussichtspunkt bei Vlkolínec Historisches Erbe.", "category": "natural", "coords": [19.273093, 49.047423]}, {"name": "Belanská skalka", "text": "Ein markanter Aussichtspunkt in der Region.", "category": "natural", "coords": [19.306518, 49.043586]}, {"name": "Skalka", "text": "Ein Aussichtspunkt in Vlkolínec Historisches Erbe.", "category": "natural", "coords": [19.30368, 49.056989]}, {"name": "Predné Haliny", "text": "Ein Panoramapunkt in Vlkolínec Historisches Erbe.", "category": "natural", "coords": [19.27002, 49.051824]}, {"name": "Jelenia skala", "text": "Ein lokaler Aussichtspunkt in der Natur.", "category": "natural", "coords": [19.238612, 49.052361]}, {"name": "výhlad na Haliny", "text": "Der Aussichtspunkt výhlad na Haliny liegt im historischen Gebiet von Vlkolínec in der Slowakei. Wer diesen Ort aufsucht, wird mit einem ungestörten Blick auf die markanten Haliny-Felsen belohnt.", "category": "natural", "coords": [19.275455, 49.049904]}, {"name": "2.chránený výhľad Unesco - Vlkolínec", "text": "Ein ausgewiesener UNESCO-Aussichtspunkt bei Vlkolínec.", "category": "natural", "coords": [19.278181, 49.034094]}, {"name": "6.chránený výhľad Unesco - Vlkolínec", "text": "Teil der geschützten UNESCO-Aussichtspunkte in Vlkolínec.", "category": "natural", "coords": [19.266554, 49.036794]}, {"name": "7.chránený výhľad Unesco - Vlkolínec", "text": "Ein offizieller Aussichtspunkt des UNESCO-Erbes.", "category": "natural", "coords": [19.268566, 49.031365]}, {"name": "5.chránený výhľad Unesco - Vlkolínec", "text": "Ein geschützter Aussichtspunkt mit Blick auf das Dorf.", "category": "natural", "coords": [19.268276, 49.042116]}, {"name": "1.chránený výhľad Unesco - Vlkolínec", "text": "Der erste geschützte UNESCO-Aussichtspunkt in Vlkolínec.", "category": "natural", "coords": [19.272208, 49.043941]}, {"name": "3.chránený výhľad Unesco - Vlkolínec", "text": "Ein markierter Aussichtspunkt innerhalb des UNESCO-Areals.", "category": "natural", "coords": [19.27667, 49.041202]}, {"name": "na Vlkolínec", "text": "Ein Aussichtspunkt mit direktem Blick auf Vlkolínec.", "category": "natural", "coords": [19.276331, 49.035584]}, {"name": "Galéria ľudového umenia", "text": "Eine Galerie, die lokale Volkskunst in Vlkolínec zeigt.", "category": "museum", "coords": [19.279572, 49.039095]}, {"name": "na Vtáčnik", "text": "Ein Aussichtspunkt mit Blick auf den Berg Vtáčnik.", "category": "natural", "coords": [19.249488, 49.034906]}, {"name": "Na Skalách", "text": "Ein natürlicher Aussichtspunkt auf den Felsen.", "category": "natural", "coords": [19.306771, 49.059368]}, {"name": "Jánova dolina", "text": "Ein Aussichtspunkt im Jánova-Tal.", "category": "natural", "coords": [19.29709, 49.055164]}, {"name": "Malinô", "text": "Eine touristische Attraktion bei Vlkolínec.", "category": "landmark", "coords": [19.265257, 49.052918]}, {"name": "Vlčia skala", "text": "Eine Felsformation und Attraktion in der Natur.", "category": "landmark", "coords": [19.274359, 49.029516]}, {"name": "Ružomberok – Bahnhof Zündholzfabrik (Zápalkáreň)", "text": "Eine historische Station der ehemaligen Match-Fabrik.", "category": "landmark", "coords": [19.305438, 49.05832]}], "hu": [{"name": "Tarzánia Hrabovo", "text": "Kötélpálya és kalandpark Rózsahegy Hrabovo részén, ideális családi kikapcsolódáshoz.", "category": "family", "coords": [19.273415, 49.070875]}, {"name": "Mini farma Sidorovo", "text": "Kis állatkert a Sidorovo-hegyen, amely hazai háziállatokat mutat be.", "category": "family", "coords": [19.270465, 49.047888]}, {"name": "Sýpka", "text": "Vlkolínec UNESCO falujának történelmi magtára, amely ma múzeumként működik.", "category": "museum", "coords": [19.277525, 49.038694]}, {"name": "Dom Unesco", "text": "Információs központ és múzeum, amely Vlkolínec UNESCO világörökségi jelentőségét mutatja be.", "category": "museum", "coords": [19.278624, 49.039551]}, {"name": "Farma", "text": "Egy kis állatkert Vlkolínec Historisches Erbe területén.", "category": "family", "coords": [19.276283, 49.039496]}, {"name": "Sidorovo", "text": "A Nagy-Fátra egyik hegycsúcsa Vlkolínec közelében.", "category": "natural", "coords": [19.278695, 49.046557]}, {"name": "Malinné", "text": "A Nagy-Fátra egyik jellegzetes hegycsúcsa.", "category": "natural", "coords": [19.248576, 49.049]}, {"name": "Krkavá skala", "text": "Egy jellegzetes sziklatű és védett természeti emlék.", "category": "landmark", "coords": [19.287341, 49.04677]}, {"name": "Veľká skala", "text": "A Vlkolinec Historical Heritage területén található Veľká skala egy kiemelkedő természeti látványosság. Erről a kilátópontról csodálatos, széles panoráma nyílik a szlovák tájra.", "category": "natural", "coords": [19.278541, 49.059278]}, {"name": "Gerecká skala", "text": "Kilátópont Vlkolínec Historisches Erbe közelében.", "category": "natural", "coords": [19.273093, 49.047423]}, {"name": "Belanská skalka", "text": "Egy jellegzetes kilátópont a régióban.", "category": "natural", "coords": [19.306518, 49.043586]}, {"name": "Skalka", "text": "Kilátópont Vlkolínec Historisches Erbe területén.", "category": "natural", "coords": [19.30368, 49.056989]}, {"name": "Predné Haliny", "text": "Panorámás kilátópont Vlkolínec Historisches Erbe területén.", "category": "natural", "coords": [19.27002, 49.051824]}, {"name": "Jelenia skala", "text": "Egy helyi kilátópont a természetben.", "category": "natural", "coords": [19.238612, 49.052361]}, {"name": "výhlad na Haliny", "text": "A výhlad na Haliny nevű kilátóhely Vlkolinec történelmi területén, Szlovákiában található. Aki ide látogat, zavartalan kilátásban gyönyörködhet a jellegzetes Haliny-sziklákra.", "category": "natural", "coords": [19.275455, 49.049904]}, {"name": "2.chránený výhľad Unesco - Vlkolínec", "text": "Kijelölt UNESCO-kilátópont Vlkolínec közelében.", "category": "natural", "coords": [19.278181, 49.034094]}, {"name": "6.chránený výhľad Unesco - Vlkolínec", "text": "Vlkolínec védett UNESCO-kilátópontjainak egyike.", "category": "natural", "coords": [19.266554, 49.036794]}, {"name": "7.chránený výhľad Unesco - Vlkolínec", "text": "Az UNESCO örökség egyik hivatalos kilátópontja.", "category": "natural", "coords": [19.268566, 49.031365]}, {"name": "5.chránený výhľad Unesco - Vlkolínec", "text": "Védett kilátópont, ahonnan rálátni a falura.", "category": "natural", "coords": [19.268276, 49.042116]}, {"name": "1.chránený výhľad Unesco - Vlkolínec", "text": "Az első védett UNESCO-kilátópont Vlkolínecben.", "category": "natural", "coords": [19.272208, 49.043941]}, {"name": "3.chránený výhľad Unesco - Vlkolínec", "text": "Kijelölt kilátópont az UNESCO területen belül.", "category": "natural", "coords": [19.27667, 49.041202]}, {"name": "na Vlkolínec", "text": "Kilátópont közvetlen rálátással Vlkolínecre.", "category": "natural", "coords": [19.276331, 49.035584]}, {"name": "Galéria ľudového umenia", "text": "A helyi népművészetet bemutató galéria Vlkolínecben.", "category": "museum", "coords": [19.279572, 49.039095]}, {"name": "na Vtáčnik", "text": "Kilátópont, ahonnan rálátni a Vtáčnik-hegyre.", "category": "natural", "coords": [19.249488, 49.034906]}, {"name": "Na Skalách", "text": "Természetes kilátópont a sziklákon.", "category": "natural", "coords": [19.306771, 49.059368]}, {"name": "Jánova dolina", "text": "Kilátópont a Jánova-völgyben.", "category": "natural", "coords": [19.29709, 49.055164]}, {"name": "Malinô", "text": "Turisztikai látványosság Vlkolínec közelében.", "category": "landmark", "coords": [19.265257, 49.052918]}, {"name": "Vlčia skala", "text": "Sziklaformáció és látnivaló a természetben.", "category": "landmark", "coords": [19.274359, 49.029516]}, {"name": "Ružomberok - Gyufagyár állomás (Zápalkáreň)", "text": "Az egykori gyufagyár egyik történelmi állomása.", "category": "landmark", "coords": [19.305438, 49.05832]}], "ro": [{"name": "Tarzánia Hrabovo", "text": "Un parc de aventură cu frânghii în Hrabovo, lângă Ružomberok, ideal pentru familii.", "category": "family", "coords": [19.273415, 49.070875]}, {"name": "Mini farma Sidorovo", "text": "O mică grădină zoologică pe muntele Sidorovo, care prezintă animale domestice locale.", "category": "family", "coords": [19.270465, 49.047888]}, {"name": "Sýpka", "text": "O clădire istorică de grânare din satul UNESCO Vlkolínec, care astăzi servește ca muzeu.", "category": "museum", "coords": [19.277525, 49.038694]}, {"name": "Dom Unesco", "text": "Un centru de informare și muzeu dedicat semnificației sitului UNESCO Vlkolínec.", "category": "museum", "coords": [19.278624, 49.039551]}, {"name": "Farma", "text": "O grădină zoologică în Vlkolínec Historisches Erbe.", "category": "family", "coords": [19.276283, 49.039496]}, {"name": "Sidorovo", "text": "Un vârf montan în muntele Marea Fatra, lângă Vlkolínec.", "category": "natural", "coords": [19.278695, 49.046557]}, {"name": "Malinné", "text": "Un vârf montan proeminent în muntele Marea Fatra.", "category": "natural", "coords": [19.248576, 49.049]}, {"name": "Krkavá skala", "text": "O formațiune stâncoasă distinctivă și un monument natural protejat.", "category": "landmark", "coords": [19.287341, 49.04677]}, {"name": "Veľká skala", "text": "Fiind un reper natural în Patrimoniul Istoric Vlkolínec, Veľká skala oferă vizitatorilor un punct de belvedere excelent. De pe această înălțime, se poate admira o panoramă vastă asupra peisajului slovac.", "category": "natural", "coords": [19.278541, 49.059278]}, {"name": "Gerecká skala", "text": "Un punct de observație lângă Vlkolínec Historisches Erbe.", "category": "natural", "coords": [19.273093, 49.047423]}, {"name": "Belanská skalka", "text": "Un punct de observație distinctiv în regiune.", "category": "natural", "coords": [19.306518, 49.043586]}, {"name": "Skalka", "text": "Un punct de observație în Vlkolínec Historisches Erbe.", "category": "natural", "coords": [19.30368, 49.056989]}, {"name": "Predné Haliny", "text": "Un punct panoramic în Vlkolínec Historisches Erbe.", "category": "natural", "coords": [19.27002, 49.051824]}, {"name": "Jelenia skala", "text": "Un punct de observație local în natură.", "category": "natural", "coords": [19.238612, 49.052361]}, {"name": "výhlad na Haliny", "text": "Punctul de observație výhlad na Haliny este situat în zona istorică Vlkolínec din Slovacia. Cei care vizitează acest loc sunt răsplătiți cu o vedere clară asupra stâncilor impresionante Haliny.", "category": "natural", "coords": [19.275455, 49.049904]}, {"name": "2.chránený výhľad Unesco - Vlkolínec", "text": "Un punct de observație UNESCO desemnat lângă Vlkolínec.", "category": "natural", "coords": [19.278181, 49.034094]}, {"name": "6.chránený výhľad Unesco - Vlkolínec", "text": "Parte a punctelor de observație protejate UNESCO din Vlkolínec.", "category": "natural", "coords": [19.266554, 49.036794]}, {"name": "7.chránený výhľad Unesco - Vlkolínec", "text": "Un punct de observație oficial al patrimoniului UNESCO.", "category": "natural", "coords": [19.268566, 49.031365]}, {"name": "5.chránený výhľad Unesco - Vlkolínec", "text": "Un punct de observație protejat cu vedere spre sat.", "category": "natural", "coords": [19.268276, 49.042116]}, {"name": "1.chránený výhľad Unesco - Vlkolínec", "text": "Primul punct de observație protejat UNESCO din Vlkolínec.", "category": "natural", "coords": [19.272208, 49.043941]}, {"name": "3.chránený výhľad Unesco - Vlkolínec", "text": "Un punct de observație marcat în zona UNESCO.", "category": "natural", "coords": [19.27667, 49.041202]}, {"name": "na Vlkolínec", "text": "Un punct de observație cu vedere directă spre Vlkolínec.", "category": "natural", "coords": [19.276331, 49.035584]}, {"name": "Galéria ľudového umenia", "text": "O galerie care prezintă arta populară locală în Vlkolínec.", "category": "museum", "coords": [19.279572, 49.039095]}, {"name": "na Vtáčnik", "text": "Un punct de observație cu vedere spre muntele Vtáčnik.", "category": "natural", "coords": [19.249488, 49.034906]}, {"name": "Na Skalách", "text": "Un punct de observație natural pe stânci.", "category": "natural", "coords": [19.306771, 49.059368]}, {"name": "Jánova dolina", "text": "Un punct de observație în valea Jánova.", "category": "natural", "coords": [19.29709, 49.055164]}, {"name": "Malinô", "text": "O atracție turistică lângă Vlkolínec.", "category": "landmark", "coords": [19.265257, 49.052918]}, {"name": "Vlčia skala", "text": "O formațiune stâncoasă și atracție în natură.", "category": "landmark", "coords": [19.274359, 49.029516]}, {"name": "Ružomberok - Stanica Zápalkáreň", "text": "O stație istorică a fostei fabrici de chibrituri.", "category": "landmark", "coords": [19.305438, 49.05832]}], "en": [{"name": "Tarzánia Hrabovo", "text": "A rope climbing park in Hrabovo near Ružomberok, ideal for family adventures.", "category": "family", "coords": [19.273415, 49.070875]}, {"name": "Mini farma Sidorovo", "text": "A small zoo on Sidorovo mountain showcasing domestic farm animals.", "category": "family", "coords": [19.270465, 49.047888]}, {"name": "Sýpka", "text": "A historical granary building in the UNESCO village of Vlkolínec, now serving as a museum.", "category": "museum", "coords": [19.277525, 49.038694]}, {"name": "Dom Unesco", "text": "An information centre and museum dedicated to the significance of the UNESCO site Vlkolínec.", "category": "museum", "coords": [19.278624, 49.039551]}, {"name": "Farma", "text": "A petting zoo in Vlkolínec Historisches Erbe.", "category": "family", "coords": [19.276283, 49.039496]}, {"name": "Sidorovo", "text": "A mountain peak in the Great Fatra near Vlkolínec.", "category": "natural", "coords": [19.278695, 49.046557]}, {"name": "Malinné", "text": "A prominent mountain peak in the Great Fatra.", "category": "natural", "coords": [19.248576, 49.049]}, {"name": "Krkavá skala", "text": "A distinctive rock needle and a protected natural monument.", "category": "landmark", "coords": [19.287341, 49.04677]}, {"name": "Veľká skala", "text": "As a striking natural feature within the Vlkolinec Historical Heritage, Veľká skala offers visitors a fantastic vantage point. From this elevation, one can enjoy expansive views across the Slovak landscape.", "category": "natural", "coords": [19.278541, 49.059278]}, {"name": "Gerecká skala", "text": "A viewpoint near Vlkolínec Historisches Erbe.", "category": "natural", "coords": [19.273093, 49.047423]}, {"name": "Belanská skalka", "text": "A distinctive viewpoint in the region.", "category": "natural", "coords": [19.306518, 49.043586]}, {"name": "Skalka", "text": "A viewpoint in Vlkolínec Historisches Erbe.", "category": "natural", "coords": [19.30368, 49.056989]}, {"name": "Predné Haliny", "text": "A panoramic viewpoint in Vlkolínec Historisches Erbe.", "category": "natural", "coords": [19.27002, 49.051824]}, {"name": "Jelenia skala", "text": "A local viewpoint in nature.", "category": "natural", "coords": [19.238612, 49.052361]}, {"name": "výhlad na Haliny", "text": "The výhlad na Haliny viewpoint is located in the historical area of Vlkolinec, Slovakia. Visitors to this spot are rewarded with an unobstructed view of the prominent Haliny rocks.", "category": "natural", "coords": [19.275455, 49.049904]}, {"name": "2.chránený výhľad Unesco - Vlkolínec", "text": "A designated UNESCO viewpoint near Vlkolínec.", "category": "natural", "coords": [19.278181, 49.034094]}, {"name": "6.chránený výhľad Unesco - Vlkolínec", "text": "Part of the protected UNESCO viewpoints in Vlkolínec.", "category": "natural", "coords": [19.266554, 49.036794]}, {"name": "7.chránený výhľad Unesco - Vlkolínec", "text": "An official viewpoint of the UNESCO heritage.", "category": "natural", "coords": [19.268566, 49.031365]}, {"name": "5.chránený výhľad Unesco - Vlkolínec", "text": "A protected viewpoint overlooking the village.", "category": "natural", "coords": [19.268276, 49.042116]}, {"name": "1.chránený výhľad Unesco - Vlkolínec", "text": "The first protected UNESCO viewpoint in Vlkolínec.", "category": "natural", "coords": [19.272208, 49.043941]}, {"name": "3.chránený výhľad Unesco - Vlkolínec", "text": "A marked viewpoint within the UNESCO area.", "category": "natural", "coords": [19.27667, 49.041202]}, {"name": "na Vlkolínec", "text": "A viewpoint with a direct view of Vlkolínec.", "category": "natural", "coords": [19.276331, 49.035584]}, {"name": "Galéria ľudového umenia", "text": "A gallery showcasing local folk art in Vlkolínec.", "category": "museum", "coords": [19.279572, 49.039095]}, {"name": "na Vtáčnik", "text": "A viewpoint overlooking the Vtáčnik mountain.", "category": "natural", "coords": [19.249488, 49.034906]}, {"name": "Na Skalách", "text": "A natural viewpoint on the rocks.", "category": "natural", "coords": [19.306771, 49.059368]}, {"name": "Jánova dolina", "text": "A viewpoint in the Jánova valley.", "category": "natural", "coords": [19.29709, 49.055164]}, {"name": "Malinô", "text": "A tourist attraction near Vlkolínec.", "category": "landmark", "coords": [19.265257, 49.052918]}, {"name": "Vlčia skala", "text": "A rock formation and attraction in nature.", "category": "landmark", "coords": [19.274359, 49.029516]}, {"name": "Ružomberok - Match Factory Station (Zápalkáreň)", "text": "A historic station of the former match factory.", "category": "landmark", "coords": [19.305438, 49.05832]}]},
+    id: "slovakia-vlkolinec-archaeology-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tarzánia Hrabovo",
+                  "text": "Ein Kletter- und Seilpark in Hrabovo bei Ružomberok, ideal für Familienabenteuer.",
+                  "category": "family",
+                  "coords": [
+                        19.273415,
+                        49.070875
+                  ]
+            },
+            {
+                  "name": "Mini farma Sidorovo",
+                  "text": "Ein kleiner Zoo am Berg Sidorovo, der heimische Bauernhoftiere präsentiert.",
+                  "category": "family",
+                  "coords": [
+                        19.270465,
+                        49.047888
+                  ]
+            },
+            {
+                  "name": "Sýpka",
+                  "text": "Ein historisches Getreidespeicher-Gebäude im Unesco-Dorf Vlkolínec, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        19.277525,
+                        49.038694
+                  ]
+            },
+            {
+                  "name": "Dom Unesco",
+                  "text": "Ein Informationszentrum und Museum, das der Bedeutung des UNESCO-Welterbes Vlkolínec gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.278624,
+                        49.039551
+                  ]
+            },
+            {
+                  "name": "Farma",
+                  "text": "Ein bewirtschafteter Bauernhof mit traditionellen Schafställen im archäologischen Areal von Vlkolínec.",
+                  "category": "family",
+                  "coords": [
+                        19.276283,
+                        49.039496
+                  ]
+            },
+            {
+                  "name": "Sidorovo",
+                  "text": "Sidorovo ist ein Hügel im Gebirge Veľká Fatra oberhalb der archäologischen Stätte von Vlkolinec.",
+                  "category": "natural",
+                  "coords": [
+                        19.278695,
+                        49.046557
+                  ]
+            },
+            {
+                  "name": "Malinné",
+                  "text": "Malinné ist ein Gipfel in der Veľká Fatra, Teil der archäologischen Landschaft von Vlkolinec.",
+                  "category": "natural",
+                  "coords": [
+                        19.248576,
+                        49.049
+                  ]
+            },
+            {
+                  "name": "Krkavá skala",
+                  "text": "Eine markante Felsnadel und ein geschütztes Naturdenkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        19.287341,
+                        49.04677
+                  ]
+            },
+            {
+                  "name": "Veľká skala",
+                  "text": "Als markantes Naturmerkmal im Vlkolínec Historical Heritage bietet die Veľká skala Besuchern einen herrlichen Aussichtspunkt. Von dieser Erhebung aus lässt sich der weite Blick über die slowakische Landschaft genießen.",
+                  "category": "natural",
+                  "coords": [
+                        19.278541,
+                        49.059278
+                  ]
+            },
+            {
+                  "name": "Gerecká skala",
+                  "text": "Eine Kalksteinfelsformation mit Aussicht auf das Vlkolínec-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        19.273093,
+                        49.047423
+                  ]
+            },
+            {
+                  "name": "Belanská skalka",
+                  "text": "Ein weißer Kalksteinfelsen über dem historischen Dorf.",
+                  "category": "natural",
+                  "coords": [
+                        19.306518,
+                        49.043586
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Ein felsiger Hügel mit einem Gipfelkreuz.",
+                  "category": "natural",
+                  "coords": [
+                        19.30368,
+                        49.056989
+                  ]
+            },
+            {
+                  "name": "Predné Haliny",
+                  "text": "Ein grasbewachsener Bergrücken mit Panoramablick auf das UNESCO-Dorf Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.27002,
+                        49.051824
+                  ]
+            },
+            {
+                  "name": "Jelenia skala",
+                  "text": "Ein felsiger Aufschluss in Hirschgestalt oberhalb von Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.238612,
+                        49.052361
+                  ]
+            },
+            {
+                  "name": "výhlad na Haliny",
+                  "text": "Der Aussichtspunkt výhlad na Haliny liegt im historischen Gebiet von Vlkolínec in der Slowakei. Wer diesen Ort aufsucht, wird mit einem ungestörten Blick auf die markanten Haliny-Felsen belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        19.275455,
+                        49.049904
+                  ]
+            },
+            {
+                  "name": "2.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Geschützter UNESCO-Aussichtspunkt Nr. 2 mit Blick auf Vlkolínecs Holzhäuser.",
+                  "category": "natural",
+                  "coords": [
+                        19.278181,
+                        49.034094
+                  ]
+            },
+            {
+                  "name": "6.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Geschützter UNESCO-Aussichtspunkt Nr. 6 mit Blick auf das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        19.266554,
+                        49.036794
+                  ]
+            },
+            {
+                  "name": "7.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Geschützter UNESCO-Aussichtspunkt Nr. 7 mit Blick auf die umliegenden Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        19.268566,
+                        49.031365
+                  ]
+            },
+            {
+                  "name": "5.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Geschützter UNESCO-Aussichtspunkt Nr. 5 mit Panoramablick auf Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.268276,
+                        49.042116
+                  ]
+            },
+            {
+                  "name": "1.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Geschützter UNESCO-Aussichtspunkt Nr. 1 – der erste Blick auf das Holzdorf.",
+                  "category": "natural",
+                  "coords": [
+                        19.272208,
+                        49.043941
+                  ]
+            },
+            {
+                  "name": "3.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Geschützter UNESCO-Aussichtspunkt Nr. 3 mit Blick auf die Bergwiesen.",
+                  "category": "natural",
+                  "coords": [
+                        19.27667,
+                        49.041202
+                  ]
+            },
+            {
+                  "name": "na Vlkolínec",
+                  "text": "Ein Wiesenweg, der zum UNESCO-Dorf Vlkolínec führt.",
+                  "category": "natural",
+                  "coords": [
+                        19.276331,
+                        49.035584
+                  ]
+            },
+            {
+                  "name": "Galéria ľudového umenia",
+                  "text": "Eine Galerie für Volkskunst mit traditionellen Handarbeiten im UNESCO-Dorf.",
+                  "category": "museum",
+                  "coords": [
+                        19.279572,
+                        49.039095
+                  ]
+            },
+            {
+                  "name": "na Vtáčnik",
+                  "text": "Ein Wanderweg auf den Gipfel Vtáčnik mit Ausblick auf die Niedere Tatra.",
+                  "category": "natural",
+                  "coords": [
+                        19.249488,
+                        49.034906
+                  ]
+            },
+            {
+                  "name": "Na Skalách",
+                  "text": "Ein felsiger Bergrücken mit einer Sitzbank und Ausblick auf Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.306771,
+                        49.059368
+                  ]
+            },
+            {
+                  "name": "Jánova dolina",
+                  "text": "Ein bewaldetes Tal in der archäologischen Zone Vlkolinec.",
+                  "category": "natural",
+                  "coords": [
+                        19.29709,
+                        49.055164
+                  ]
+            },
+            {
+                  "name": "Malinô",
+                  "text": "Ein markanter Hügel mit Blick auf die historische Siedlung Vlkolinec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.265257,
+                        49.052918
+                  ]
+            },
+            {
+                  "name": "Vlčia skala",
+                  "text": "Ein felsiger Aussichtspunkt namens Wolfsfelsen oberhalb von Vlkolinec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.274359,
+                        49.029516
+                  ]
+            },
+            {
+                  "name": "Ružomberok – Bahnhof Zündholzfabrik (Zápalkáreň)",
+                  "text": "Der ehemalige Bahnhof der Zündholzfabrik in Ružomberok, nahe Vlkolinec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.305438,
+                        49.05832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tarzánia Hrabovo",
+                  "text": "Kötélpálya és kalandpark Rózsahegy Hrabovo részén, ideális családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.273415,
+                        49.070875
+                  ]
+            },
+            {
+                  "name": "Mini farma Sidorovo",
+                  "text": "Kis állatkert a Sidorovo-hegyen, amely hazai háziállatokat mutat be.",
+                  "category": "family",
+                  "coords": [
+                        19.270465,
+                        49.047888
+                  ]
+            },
+            {
+                  "name": "Sýpka",
+                  "text": "Vlkolínec UNESCO falujának történelmi magtára, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        19.277525,
+                        49.038694
+                  ]
+            },
+            {
+                  "name": "Dom Unesco",
+                  "text": "Információs központ és múzeum, amely Vlkolínec UNESCO világörökségi jelentőségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.278624,
+                        49.039551
+                  ]
+            },
+            {
+                  "name": "Farma",
+                  "text": "Hagyományos juhólakkal rendelkező működő farm a Vlkolínec régészeti területén.",
+                  "category": "family",
+                  "coords": [
+                        19.276283,
+                        49.039496
+                  ]
+            },
+            {
+                  "name": "Sidorovo",
+                  "text": "A Sidorovo egy domb a Nagy-Fátra hegységben, a vlkolineci régészeti lelőhely fölé magasodva.",
+                  "category": "natural",
+                  "coords": [
+                        19.278695,
+                        49.046557
+                  ]
+            },
+            {
+                  "name": "Malinné",
+                  "text": "A Malinné egy csúcs a Nagy-Fátra hegységben, a vlkolineci régészeti táj része.",
+                  "category": "natural",
+                  "coords": [
+                        19.248576,
+                        49.049
+                  ]
+            },
+            {
+                  "name": "Krkavá skala",
+                  "text": "Egy jellegzetes sziklatű és védett természeti emlék.",
+                  "category": "landmark",
+                  "coords": [
+                        19.287341,
+                        49.04677
+                  ]
+            },
+            {
+                  "name": "Veľká skala",
+                  "text": "A Vlkolinec Historical Heritage területén található Veľká skala egy kiemelkedő természeti látványosság. Erről a kilátópontról csodálatos, széles panoráma nyílik a szlovák tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.278541,
+                        49.059278
+                  ]
+            },
+            {
+                  "name": "Gerecká skala",
+                  "text": "Mészkő sziklaformáció kilátással a Vlkolínec-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        19.273093,
+                        49.047423
+                  ]
+            },
+            {
+                  "name": "Belanská skalka",
+                  "text": "Fehér mészkőszikla a történelmi falu fölött.",
+                  "category": "natural",
+                  "coords": [
+                        19.306518,
+                        49.043586
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Sziklás domb csúcskereszttel.",
+                  "category": "natural",
+                  "coords": [
+                        19.30368,
+                        49.056989
+                  ]
+            },
+            {
+                  "name": "Predné Haliny",
+                  "text": "Füves gerinc, kilátással az UNESCO falu Vlkolínecre.",
+                  "category": "natural",
+                  "coords": [
+                        19.27002,
+                        49.051824
+                  ]
+            },
+            {
+                  "name": "Jelenia skala",
+                  "text": "Egy szarvas alakú sziklás képződmény Vlkolínec felett.",
+                  "category": "natural",
+                  "coords": [
+                        19.238612,
+                        49.052361
+                  ]
+            },
+            {
+                  "name": "výhlad na Haliny",
+                  "text": "A výhlad na Haliny nevű kilátóhely Vlkolinec történelmi területén, Szlovákiában található. Aki ide látogat, zavartalan kilátásban gyönyörködhet a jellegzetes Haliny-sziklákra.",
+                  "category": "natural",
+                  "coords": [
+                        19.275455,
+                        49.049904
+                  ]
+            },
+            {
+                  "name": "2.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Védett UNESCO kilátópont #2, Vlkolínec faházaira néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        19.278181,
+                        49.034094
+                  ]
+            },
+            {
+                  "name": "6.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Védett UNESCO kilátópont #6, a völgyre néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        19.266554,
+                        49.036794
+                  ]
+            },
+            {
+                  "name": "7.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Védett UNESCO kilátópont #7, a környező dombokra néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        19.268566,
+                        49.031365
+                  ]
+            },
+            {
+                  "name": "5.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Védett UNESCO kilátópont #5, panorámakilátással Vlkolínecre.",
+                  "category": "natural",
+                  "coords": [
+                        19.268276,
+                        49.042116
+                  ]
+            },
+            {
+                  "name": "1.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Védett UNESCO kilátópont #1 – az első kilátás a fafalu felé.",
+                  "category": "natural",
+                  "coords": [
+                        19.272208,
+                        49.043941
+                  ]
+            },
+            {
+                  "name": "3.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Védett UNESCO kilátópont #3, a hegyi rétekre néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        19.27667,
+                        49.041202
+                  ]
+            },
+            {
+                  "name": "na Vlkolínec",
+                  "text": "Egy réti ösvény, amely az UNESCO falu Vlkolínecbe vezet.",
+                  "category": "natural",
+                  "coords": [
+                        19.276331,
+                        49.035584
+                  ]
+            },
+            {
+                  "name": "Galéria ľudového umenia",
+                  "text": "Népiparművészeti galéria hagyományos kézműves termékekkel az UNESCO faluban.",
+                  "category": "museum",
+                  "coords": [
+                        19.279572,
+                        49.039095
+                  ]
+            },
+            {
+                  "name": "na Vtáčnik",
+                  "text": "Túraút a Vtáčnik csúcsára, kilátással az Alacsony-Tátrára.",
+                  "category": "natural",
+                  "coords": [
+                        19.249488,
+                        49.034906
+                  ]
+            },
+            {
+                  "name": "Na Skalách",
+                  "text": "Sziklás gerinc padokkal és kilátással Vlkolínecre.",
+                  "category": "natural",
+                  "coords": [
+                        19.306771,
+                        49.059368
+                  ]
+            },
+            {
+                  "name": "Jánova dolina",
+                  "text": "Egy erdős völgy a Vlkolinec régészeti zónában.",
+                  "category": "natural",
+                  "coords": [
+                        19.29709,
+                        49.055164
+                  ]
+            },
+            {
+                  "name": "Malinô",
+                  "text": "Egy jellegzetes domb, amely a történelmi Vlkolinec településre néz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.265257,
+                        49.052918
+                  ]
+            },
+            {
+                  "name": "Vlčia skala",
+                  "text": "Egy sziklás kilátó, a Farkas-szikla, Vlkolinec felett.",
+                  "category": "landmark",
+                  "coords": [
+                        19.274359,
+                        49.029516
+                  ]
+            },
+            {
+                  "name": "Ružomberok - Gyufagyár állomás (Zápalkáreň)",
+                  "text": "A ružomberoki gyufagyár egykori állomása, Vlkolinec közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.305438,
+                        49.05832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tarzánia Hrabovo",
+                  "text": "Un parc de aventură cu frânghii în Hrabovo, lângă Ružomberok, ideal pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.273415,
+                        49.070875
+                  ]
+            },
+            {
+                  "name": "Mini farma Sidorovo",
+                  "text": "O mică grădină zoologică pe muntele Sidorovo, care prezintă animale domestice locale.",
+                  "category": "family",
+                  "coords": [
+                        19.270465,
+                        49.047888
+                  ]
+            },
+            {
+                  "name": "Sýpka",
+                  "text": "O clădire istorică de grânare din satul UNESCO Vlkolínec, care astăzi servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        19.277525,
+                        49.038694
+                  ]
+            },
+            {
+                  "name": "Dom Unesco",
+                  "text": "Un centru de informare și muzeu dedicat semnificației sitului UNESCO Vlkolínec.",
+                  "category": "museum",
+                  "coords": [
+                        19.278624,
+                        49.039551
+                  ]
+            },
+            {
+                  "name": "Farma",
+                  "text": "O fermă funcțională cu țarcuri tradiționale pentru oi în zona arheologică Vlkolínec.",
+                  "category": "family",
+                  "coords": [
+                        19.276283,
+                        49.039496
+                  ]
+            },
+            {
+                  "name": "Sidorovo",
+                  "text": "Sidorovo este o colină în munții Veľká Fatra, deasupra sitului arheologic Vlkolinec.",
+                  "category": "natural",
+                  "coords": [
+                        19.278695,
+                        49.046557
+                  ]
+            },
+            {
+                  "name": "Malinné",
+                  "text": "Malinné este un vârf în Veľká Fatra, parte a peisajului arheologic Vlkolinec.",
+                  "category": "natural",
+                  "coords": [
+                        19.248576,
+                        49.049
+                  ]
+            },
+            {
+                  "name": "Krkavá skala",
+                  "text": "O formațiune stâncoasă distinctivă și un monument natural protejat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.287341,
+                        49.04677
+                  ]
+            },
+            {
+                  "name": "Veľká skala",
+                  "text": "Fiind un reper natural în Patrimoniul Istoric Vlkolínec, Veľká skala oferă vizitatorilor un punct de belvedere excelent. De pe această înălțime, se poate admira o panoramă vastă asupra peisajului slovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.278541,
+                        49.059278
+                  ]
+            },
+            {
+                  "name": "Gerecká skala",
+                  "text": "O formațiune de calcar cu vedere asupra văii Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.273093,
+                        49.047423
+                  ]
+            },
+            {
+                  "name": "Belanská skalka",
+                  "text": "O stâncă de calcar alb deasupra satului istoric.",
+                  "category": "natural",
+                  "coords": [
+                        19.306518,
+                        49.043586
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "O colină stâncoasă cu o cruce pe vârf.",
+                  "category": "natural",
+                  "coords": [
+                        19.30368,
+                        49.056989
+                  ]
+            },
+            {
+                  "name": "Predné Haliny",
+                  "text": "O creastă ierboasă cu vedere panoramică asupra satului UNESCO Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.27002,
+                        49.051824
+                  ]
+            },
+            {
+                  "name": "Jelenia skala",
+                  "text": "O stâncă în formă de cerb deasupra satului Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.238612,
+                        49.052361
+                  ]
+            },
+            {
+                  "name": "výhlad na Haliny",
+                  "text": "Punctul de observație výhlad na Haliny este situat în zona istorică Vlkolínec din Slovacia. Cei care vizitează acest loc sunt răsplătiți cu o vedere clară asupra stâncilor impresionante Haliny.",
+                  "category": "natural",
+                  "coords": [
+                        19.275455,
+                        49.049904
+                  ]
+            },
+            {
+                  "name": "2.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Punct de belvedere protejat UNESCO nr. 2, cu vedere asupra caselor de lemn din Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.278181,
+                        49.034094
+                  ]
+            },
+            {
+                  "name": "6.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Punct de belvedere protejat UNESCO nr. 6, cu vedere asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        19.266554,
+                        49.036794
+                  ]
+            },
+            {
+                  "name": "7.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Punct de belvedere protejat UNESCO nr. 7, cu vedere asupra dealurilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        19.268566,
+                        49.031365
+                  ]
+            },
+            {
+                  "name": "5.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Punct de belvedere protejat UNESCO nr. 5, cu vedere panoramică asupra Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.268276,
+                        49.042116
+                  ]
+            },
+            {
+                  "name": "1.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Punct de belvedere protejat UNESCO nr. 1 – prima priveliște asupra satului de lemn.",
+                  "category": "natural",
+                  "coords": [
+                        19.272208,
+                        49.043941
+                  ]
+            },
+            {
+                  "name": "3.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Punct de belvedere protejat UNESCO nr. 3, cu vedere asupra pajiștilor montane.",
+                  "category": "natural",
+                  "coords": [
+                        19.27667,
+                        49.041202
+                  ]
+            },
+            {
+                  "name": "na Vlkolínec",
+                  "text": "Un drum de câmp care duce la satul UNESCO Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.276331,
+                        49.035584
+                  ]
+            },
+            {
+                  "name": "Galéria ľudového umenia",
+                  "text": "O galerie de artă populară cu meșteșuguri tradiționale în satul UNESCO.",
+                  "category": "museum",
+                  "coords": [
+                        19.279572,
+                        49.039095
+                  ]
+            },
+            {
+                  "name": "na Vtáčnik",
+                  "text": "Un traseu de drumeție spre vârful Vtáčnik cu vedere asupra Munților Tatra Mică.",
+                  "category": "natural",
+                  "coords": [
+                        19.249488,
+                        49.034906
+                  ]
+            },
+            {
+                  "name": "Na Skalách",
+                  "text": "O creastă stâncoasă cu o bancă și vedere spre Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.306771,
+                        49.059368
+                  ]
+            },
+            {
+                  "name": "Jánova dolina",
+                  "text": "O vale împădurită în zona arheologică Vlkolinec.",
+                  "category": "natural",
+                  "coords": [
+                        19.29709,
+                        49.055164
+                  ]
+            },
+            {
+                  "name": "Malinô",
+                  "text": "Un deal proeminent cu vedere asupra așezării istorice Vlkolinec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.265257,
+                        49.052918
+                  ]
+            },
+            {
+                  "name": "Vlčia skala",
+                  "text": "Un punct de belvedere stâncos numit Stânca Lupului deasupra Vlkolinec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.274359,
+                        49.029516
+                  ]
+            },
+            {
+                  "name": "Ružomberok - Stanica Zápalkáreň",
+                  "text": "Fosta gară a fabricii de chibrituri din Ružomberok, lângă Vlkolinec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.305438,
+                        49.05832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tarzánia Hrabovo",
+                  "text": "A rope climbing park in Hrabovo near Ružomberok, ideal for family adventures.",
+                  "category": "family",
+                  "coords": [
+                        19.273415,
+                        49.070875
+                  ]
+            },
+            {
+                  "name": "Mini farma Sidorovo",
+                  "text": "A small zoo on Sidorovo mountain showcasing domestic farm animals.",
+                  "category": "family",
+                  "coords": [
+                        19.270465,
+                        49.047888
+                  ]
+            },
+            {
+                  "name": "Sýpka",
+                  "text": "A historical granary building in the UNESCO village of Vlkolínec, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        19.277525,
+                        49.038694
+                  ]
+            },
+            {
+                  "name": "Dom Unesco",
+                  "text": "An information centre and museum dedicated to the significance of the UNESCO site Vlkolínec.",
+                  "category": "museum",
+                  "coords": [
+                        19.278624,
+                        49.039551
+                  ]
+            },
+            {
+                  "name": "Farma",
+                  "text": "A working farm with traditional sheepfolds in the Vlkolínec archaeological zone.",
+                  "category": "family",
+                  "coords": [
+                        19.276283,
+                        49.039496
+                  ]
+            },
+            {
+                  "name": "Sidorovo",
+                  "text": "Sidorovo is a hill in the Veľká Fatra mountains, above the archaeological site of Vlkolinec.",
+                  "category": "natural",
+                  "coords": [
+                        19.278695,
+                        49.046557
+                  ]
+            },
+            {
+                  "name": "Malinné",
+                  "text": "Malinné is a peak in Veľká Fatra, part of the archaeological landscape of Vlkolinec.",
+                  "category": "natural",
+                  "coords": [
+                        19.248576,
+                        49.049
+                  ]
+            },
+            {
+                  "name": "Krkavá skala",
+                  "text": "A distinctive rock needle and a protected natural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        19.287341,
+                        49.04677
+                  ]
+            },
+            {
+                  "name": "Veľká skala",
+                  "text": "As a striking natural feature within the Vlkolinec Historical Heritage, Veľká skala offers visitors a fantastic vantage point. From this elevation, one can enjoy expansive views across the Slovak landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.278541,
+                        49.059278
+                  ]
+            },
+            {
+                  "name": "Gerecká skala",
+                  "text": "A limestone rock formation offering views of the Vlkolínec valley.",
+                  "category": "natural",
+                  "coords": [
+                        19.273093,
+                        49.047423
+                  ]
+            },
+            {
+                  "name": "Belanská skalka",
+                  "text": "A white limestone outcrop overlooking the historic village.",
+                  "category": "natural",
+                  "coords": [
+                        19.306518,
+                        49.043586
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "A rocky knoll with a cross on top.",
+                  "category": "natural",
+                  "coords": [
+                        19.30368,
+                        49.056989
+                  ]
+            },
+            {
+                  "name": "Predné Haliny",
+                  "text": "A grassy ridge with panoramic views over the UNESCO village of Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.27002,
+                        49.051824
+                  ]
+            },
+            {
+                  "name": "Jelenia skala",
+                  "text": "A rocky outcrop shaped like a deer above Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.238612,
+                        49.052361
+                  ]
+            },
+            {
+                  "name": "výhlad na Haliny",
+                  "text": "The výhlad na Haliny viewpoint is located in the historical area of Vlkolinec, Slovakia. Visitors to this spot are rewarded with an unobstructed view of the prominent Haliny rocks.",
+                  "category": "natural",
+                  "coords": [
+                        19.275455,
+                        49.049904
+                  ]
+            },
+            {
+                  "name": "2.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Protected UNESCO viewpoint #2 with views over Vlkolínec's wooden houses.",
+                  "category": "natural",
+                  "coords": [
+                        19.278181,
+                        49.034094
+                  ]
+            },
+            {
+                  "name": "6.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Protected UNESCO viewpoint #6 with valley views.",
+                  "category": "natural",
+                  "coords": [
+                        19.266554,
+                        49.036794
+                  ]
+            },
+            {
+                  "name": "7.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Protected UNESCO viewpoint #7 offering views of the surrounding hills.",
+                  "category": "natural",
+                  "coords": [
+                        19.268566,
+                        49.031365
+                  ]
+            },
+            {
+                  "name": "5.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Protected UNESCO viewpoint #5 with panoramic view over Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.268276,
+                        49.042116
+                  ]
+            },
+            {
+                  "name": "1.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Protected UNESCO viewpoint #1 – the first view of the wooden village.",
+                  "category": "natural",
+                  "coords": [
+                        19.272208,
+                        49.043941
+                  ]
+            },
+            {
+                  "name": "3.chránený výhľad Unesco - Vlkolínec",
+                  "text": "Protected UNESCO viewpoint #3 with views of the mountain meadows.",
+                  "category": "natural",
+                  "coords": [
+                        19.27667,
+                        49.041202
+                  ]
+            },
+            {
+                  "name": "na Vlkolínec",
+                  "text": "A meadow path leading into the UNESCO village of Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.276331,
+                        49.035584
+                  ]
+            },
+            {
+                  "name": "Galéria ľudového umenia",
+                  "text": "A folk art gallery with traditional crafts in the UNESCO village.",
+                  "category": "museum",
+                  "coords": [
+                        19.279572,
+                        49.039095
+                  ]
+            },
+            {
+                  "name": "na Vtáčnik",
+                  "text": "A hiking trail to the Vtáčnik peak with views of the Low Tatras.",
+                  "category": "natural",
+                  "coords": [
+                        19.249488,
+                        49.034906
+                  ]
+            },
+            {
+                  "name": "Na Skalách",
+                  "text": "A rocky ridge with a bench overlooking Vlkolínec.",
+                  "category": "natural",
+                  "coords": [
+                        19.306771,
+                        49.059368
+                  ]
+            },
+            {
+                  "name": "Jánova dolina",
+                  "text": "A forested valley in the Vlkolinec archaeological zone.",
+                  "category": "natural",
+                  "coords": [
+                        19.29709,
+                        49.055164
+                  ]
+            },
+            {
+                  "name": "Malinô",
+                  "text": "A prominent hill overlooking the historic Vlkolinec settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        19.265257,
+                        49.052918
+                  ]
+            },
+            {
+                  "name": "Vlčia skala",
+                  "text": "A rocky viewpoint called Wolf Rock above Vlkolinec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.274359,
+                        49.029516
+                  ]
+            },
+            {
+                  "name": "Ružomberok - Match Factory Station (Zápalkáreň)",
+                  "text": "The former railway station of the match factory in Ružomberok, near Vlkolinec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.305438,
+                        49.05832
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "SK",
     name: { de: "Vlkolínec Historisches Erbe", hu: "Vlkolínec történelmi örökség", ro: "Vlkolínec patrimoniu istoric", en: "Vlkolínec Historical Heritage" },
@@ -6236,7 +7289,7 @@ imageHint: "Mirbach Palace Bratislava facade",
       "de": [
             {
                   "name": "Kláštor Hronský Beňadik",
-                  "text": "Ein geschichtsträchtiges Benediktinerkloster in der Slowakei.",
+                  "text": "Das Kloster Hronský Beňadik ist ein Benediktinerkloster aus dem 11. Jahrhundert auf einem Hügel über dem Fluss Hron.",
                   "category": "religious",
                   "coords": [
                         18.557955,
@@ -6263,7 +7316,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Obranný val, Hradisko Krivín v Rybníku",
-                  "text": "Teil eines archäologischen Schutzwalls bei Rybník.",
+                  "text": "Geschützte Wallburg beim Kloster Hronsky Benadik.",
                   "category": "historical",
                   "coords": [
                         18.575082,
@@ -6281,7 +7334,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Hradisko Krivín v Rybníku",
-                  "text": "Fundstätte einer historischen Höhensiedlung in Rybník.",
+                  "text": "Ein befestigter Hügel aus der Frühgeschichte, oberhalb des Klosters Hronský Beňadik.",
                   "category": "historical",
                   "coords": [
                         18.558786,
@@ -6290,7 +7343,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Hláska Luchtov",
-                  "text": "Ruinen eines historischen Wach- oder Aussichtsturms.",
+                  "text": "Ein mittelalterlicher Wachturm namens Luchtov in der Nähe des Klosters.",
                   "category": "historical",
                   "coords": [
                         18.594119,
@@ -6299,7 +7352,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Beňadická vartovka",
-                  "text": "Überreste eines alten Wachturms in der Nähe von Hronský Beňadik.",
+                  "text": "Ein historischer Wachturm, der das Kloster Hronský Beňadik bewachte.",
                   "category": "historical",
                   "coords": [
                         18.554273,
@@ -6310,7 +7363,7 @@ imageHint: "Mirbach Palace Bratislava facade",
       "hu": [
             {
                   "name": "Garamszentbenedeki apátság",
-                  "text": "Történelmi jelentőségű bencés kolostor Szlovákiában.",
+                  "text": "A Hronský Beňadik-i kolostor egy 11. századi bencés kolostor a Hron folyó fölé magasodó dombon.",
                   "category": "religious",
                   "coords": [
                         18.557955,
@@ -6337,7 +7390,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Obranný val, Hradisko Krivín v Rybníku",
-                  "text": "Egy régészeti védőmű része Rybník közelében.",
+                  "text": "Védett erődített település a Hronsky Benadik kolostornál.",
                   "category": "historical",
                   "coords": [
                         18.575082,
@@ -6355,7 +7408,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Hradisko Krivín v Rybníku",
-                  "text": "Egy történelmi magaslati település régészeti lelőhelye Rybníkben.",
+                  "text": "Egy korai történelmi erődített domb a Hronský Beňadik-i kolostor felett.",
                   "category": "historical",
                   "coords": [
                         18.558786,
@@ -6364,7 +7417,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Hláska Luchtov",
-                  "text": "Egy történelmi őr- vagy kilátótorony romjai.",
+                  "text": "Egy Luchtov nevű középkori őrtorony a kolostor közelében.",
                   "category": "historical",
                   "coords": [
                         18.594119,
@@ -6373,7 +7426,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Beňadická vartovka",
-                  "text": "Egy régi őrtorony maradványai Garamszentbenedek közelében.",
+                  "text": "Egy történelmi őrtorony, amely a Hronský Beňadik-i kolostort őrizte.",
                   "category": "historical",
                   "coords": [
                         18.554273,
@@ -6384,7 +7437,7 @@ imageHint: "Mirbach Palace Bratislava facade",
       "ro": [
             {
                   "name": "Kláštor Hronský Beňadik",
-                  "text": "O mănăstire benedictină istorică din Slovacia.",
+                  "text": "Mănăstirea Hronský Beňadik este o mănăstire benedictină din secolul al XI-lea, pe un deal deasupra râului Hron.",
                   "category": "religious",
                   "coords": [
                         18.557955,
@@ -6411,7 +7464,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Obranný val, Hradisko Krivín v Rybníku",
-                  "text": "Parte a unui zid de apărare arheologic situat lângă Rybník.",
+                  "text": "Așezare fortificată protejată la mănăstirea Hronsky Benadik.",
                   "category": "historical",
                   "coords": [
                         18.575082,
@@ -6429,7 +7482,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Hradisko Krivín v Rybníku",
-                  "text": "Sit arheologic al unei așezări istorice fortificate din Rybník.",
+                  "text": "Un deal fortificat din preistorie deasupra mănăstirii Hronský Beňadik.",
                   "category": "historical",
                   "coords": [
                         18.558786,
@@ -6438,7 +7491,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Hláska Luchtov",
-                  "text": "Ruinele unui turn istoric de veghe sau de observație.",
+                  "text": "Un turn de veghe medieval numit Luchtov lângă mănăstire.",
                   "category": "historical",
                   "coords": [
                         18.594119,
@@ -6447,7 +7500,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Beňadická vartovka",
-                  "text": "Vestigiile unui vechi turn de veghe de lângă Hronský Beňadik.",
+                  "text": "Un turn de veghe istoric care păzea mănăstirea Hronský Beňadik.",
                   "category": "historical",
                   "coords": [
                         18.554273,
@@ -6458,7 +7511,7 @@ imageHint: "Mirbach Palace Bratislava facade",
       "en": [
             {
                   "name": "Hronský Beňadik monastery",
-                  "text": "A historic Benedictine monastery located in Slovakia.",
+                  "text": "Hronský Beňadik is an 11th-century Benedictine monastery on a hill above the Hron River.",
                   "category": "religious",
                   "coords": [
                         18.557955,
@@ -6485,7 +7538,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Obranný val, Hradisko Krivín v Rybníku",
-                  "text": "Part of an archaeological defensive wall near Rybník.",
+                  "text": "Listed fortified settlement at the Hronsky Benadik Monastery.",
                   "category": "historical",
                   "coords": [
                         18.575082,
@@ -6503,7 +7556,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Hradisko Krivín v Rybníku",
-                  "text": "Archaeological site of a historic hillfort in Rybník.",
+                  "text": "A prehistoric fortified hill above the Hronský Beňadik Monastery.",
                   "category": "historical",
                   "coords": [
                         18.558786,
@@ -6512,7 +7565,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Hláska Luchtov",
-                  "text": "Ruins of a historic watchtower or lookout point.",
+                  "text": "A medieval watchtower called Luchtov near the monastery.",
                   "category": "historical",
                   "coords": [
                         18.594119,
@@ -6521,7 +7574,7 @@ imageHint: "Mirbach Palace Bratislava facade",
             },
             {
                   "name": "Beňadická vartovka",
-                  "text": "Remains of an old watchtower near Hronský Beňadik.",
+                  "text": "A historic guard tower that watched over the Hronský Beňadik Monastery.",
                   "category": "historical",
                   "coords": [
                         18.554273,

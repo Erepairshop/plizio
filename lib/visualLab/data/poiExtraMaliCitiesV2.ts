@@ -44,7 +44,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée régional de Sikasso",
-                  "text": "Das Musée régional de Sikasso ist ein lokales Museum zum Erbe von Sikasso.",
+                  "text": "Musée régional de Sikasso zeigt Kunsthandwerk und Masken aus der Region Sikasso.",
                   "category": "museum",
                   "coords": [
                         -5.68524,
@@ -53,7 +53,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Palais Kélétigui",
-                  "text": "Das Palais Kélétigui ist ein Schloss und ein historisches Wahrzeichen in Sikasso.",
+                  "text": "Palais Kélétigui war der Palast des traditionellen Herrschers von Sikasso, ein Lehmziegelbau.",
                   "category": "castle",
                   "coords": [
                         -5.667363,
@@ -62,7 +62,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Le vieux ni",
-                  "text": "Le vieux ni ist eine Sehenswürdigkeit und Attraktion in Sikasso.",
+                  "text": "Le vieux ni ist ein altes Gebäude in Sikasso, das heute als Gemeinschaftszentrum dient.",
                   "category": "landmark",
                   "coords": [
                         -5.659077,
@@ -71,7 +71,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame-de-Lourdes",
-                  "text": "Die Cathédrale Notre-Dame-de-Lourdes ist eine wichtige katholische Kathedrale in Sikasso.",
+                  "text": "Cathédrale Notre-Dame-de-Lourdes ist eine katholische Kathedrale in Sikasso, der Hauptstadt der Region Sikasso.",
                   "category": "religious",
                   "coords": [
                         -5.672963,
@@ -82,7 +82,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée régional de Sikasso",
-                  "text": "A Musée régional de Sikasso egy helyi múzeum, amely Sikasso örökségét mutatja be.",
+                  "text": "A Musée régional de Sikasso a sikassói régió kézműves termékeit és maszkjait mutatja be.",
                   "category": "museum",
                   "coords": [
                         -5.68524,
@@ -91,7 +91,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Palais Kélétigui",
-                  "text": "A Palais Kélétigui egy kastély és történelmi nevezetesség Sikasso városában.",
+                  "text": "A Palais Kélétigui Sikasso hagyományos uralkodójának palotája volt, vályogból épült.",
                   "category": "castle",
                   "coords": [
                         -5.667363,
@@ -100,7 +100,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Le vieux ni",
-                  "text": "A Le vieux ni egy érdekes látványosság Sikasso városában.",
+                  "text": "Le vieux ni egy régi épület Sikassóban, ma közösségi központként működik.",
                   "category": "landmark",
                   "coords": [
                         -5.659077,
@@ -109,7 +109,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame-de-Lourdes",
-                  "text": "A Cathédrale Notre-Dame-de-Lourdes egy fontos katolikus katedrális Sikasso városában.",
+                  "text": "A Notre-Dame-de-Lourdes-székesegyház egy katolikus székesegyház Sikassóban, a Sikasso régió fővárosában.",
                   "category": "religious",
                   "coords": [
                         -5.672963,
@@ -120,7 +120,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée régional de Sikasso",
-                  "text": "Musée régional de Sikasso este un muzeu local care prezintă patrimoniul din Sikasso.",
+                  "text": "Musée régional de Sikasso expune meșteșuguri și măști din regiunea Sikasso.",
                   "category": "museum",
                   "coords": [
                         -5.68524,
@@ -129,7 +129,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Palais Kélétigui",
-                  "text": "Palais Kélétigui este un castel și un reper istoric din Sikasso.",
+                  "text": "Palais Kélétigui a fost palatul conducătorului tradițional al Sikasso, construit din chirpici.",
                   "category": "castle",
                   "coords": [
                         -5.667363,
@@ -138,7 +138,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Le vieux ni",
-                  "text": "Le vieux ni este un punct de atracție situat în Sikasso.",
+                  "text": "Le vieux ni este o clădire veche din Sikasso, acum folosită ca centru comunitar.",
                   "category": "landmark",
                   "coords": [
                         -5.659077,
@@ -147,7 +147,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame-de-Lourdes",
-                  "text": "Cathédrale Notre-Dame-de-Lourdes este o catedrală catolică importantă din Sikasso.",
+                  "text": "Catedrala Notre-Dame-de-Lourdes este o catedrală catolică în Sikasso, capitala regiunii Sikasso.",
                   "category": "religious",
                   "coords": [
                         -5.672963,
@@ -158,7 +158,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée régional de Sikasso",
-                  "text": "Musée régional de Sikasso is a local museum showcasing the heritage of Sikasso.",
+                  "text": "Musée régional de Sikasso displays crafts and masks from the Sikasso region.",
                   "category": "museum",
                   "coords": [
                         -5.68524,
@@ -167,7 +167,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Palais Kélétigui",
-                  "text": "Palais Kélétigui is a castle and historic landmark located in Sikasso.",
+                  "text": "Palais Kélétigui was the palace of Sikasso's traditional ruler, built of mudbrick.",
                   "category": "castle",
                   "coords": [
                         -5.667363,
@@ -176,7 +176,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Le vieux ni",
-                  "text": "Le vieux ni is a point of interest and attraction situated in Sikasso.",
+                  "text": "Le vieux ni is an old building in Sikasso, now used as a community centre.",
                   "category": "landmark",
                   "coords": [
                         -5.659077,
@@ -185,7 +185,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Notre-Dame-de-Lourdes",
-                  "text": "Cathédrale Notre-Dame-de-Lourdes is an important Catholic cathedral located in Sikasso.",
+                  "text": "Cathédrale Notre-Dame-de-Lourdes is a Catholic cathedral in Sikasso, the capital of the Sikasso Region.",
                   "category": "religious",
                   "coords": [
                         -5.672963,
@@ -240,7 +240,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monument aux Martyrs de la Nation",
-                  "text": "Denkmal für die Märtyrer der Nation in Mopti.",
+                  "text": "Monument aux Martyrs de la Nation in Mopti ehrt die Gefallenen des malischen Unabhängigkeitskampfes.",
                   "category": "historical",
                   "coords": [
                         -4.198176,
@@ -249,7 +249,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée de Komoguel",
-                  "text": "Moschee von Komoguel in Mopti.",
+                  "text": "Die Mosquée de Komoguel ist eine historische Lehmziegel-Moschee in Mopti, ein nationales Kulturerbe.",
                   "category": "religious",
                   "coords": [
                         -4.196713,
@@ -260,7 +260,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monument aux Martyrs de la Nation",
-                  "text": "A nemzet mártírjainak emlékműve Moptiban.",
+                  "text": "A Monument aux Martyrs de la Nation Moptiban a mali függetlenségi harc elesettjeire emlékezik.",
                   "category": "historical",
                   "coords": [
                         -4.198176,
@@ -269,7 +269,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée de Komoguel",
-                  "text": "A komogueli mecset Moptiban.",
+                  "text": "A Komoguel-mecset egy történelmi vályogtégla mecset Moptiban, nemzeti örökség.",
                   "category": "religious",
                   "coords": [
                         -4.196713,
@@ -280,7 +280,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monument aux Martyrs de la Nation",
-                  "text": "Monumentul martirilor națiunii din Mopti.",
+                  "text": "Monument aux Martyrs de la Nation din Mopti onorează căzuții în lupta pentru independența Maliului.",
                   "category": "historical",
                   "coords": [
                         -4.198176,
@@ -289,7 +289,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée de Komoguel",
-                  "text": "Moscheea din Komoguel în Mopti.",
+                  "text": "Moscheea din Komoguel este o moschee istorică din cărămidă de noroi în Mopti, un sit de patrimoniu național.",
                   "category": "religious",
                   "coords": [
                         -4.196713,
@@ -300,7 +300,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monument aux Martyrs de la Nation",
-                  "text": "Monument to the martyrs of the nation in Mopti.",
+                  "text": "Monument aux Martyrs de la Nation in Mopti honours the fallen in Mali's independence struggle.",
                   "category": "historical",
                   "coords": [
                         -4.198176,
@@ -309,7 +309,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Mosquée de Komoguel",
-                  "text": "Komoguel Mosque in Mopti.",
+                  "text": "Mosquée de Komoguel is a historic mud-brick mosque in Mopti, a national heritage site.",
                   "category": "religious",
                   "coords": [
                         -4.196713,
@@ -359,7 +359,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monument CMDT",
-                  "text": "Das Monument CMDT ist ein Denkmal in Koutiala.",
+                  "text": "Monument CMDT in Koutiala erinnert an die Textilgesellschaft Compagnie Malienne pour le Développement du Textile.",
                   "category": "historical",
                   "coords": [
                         -5.459888,
@@ -368,7 +368,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Salle de Spectacle",
-                  "text": "Salle de Spectacle ist ein Kunstzentrum in Koutiala.",
+                  "text": "Salle de Spectacle in Koutiala ist eine Mehrzweckhalle für Konzerte und Theateraufführungen.",
                   "category": "cultural",
                   "coords": [
                         -5.465174,
@@ -379,7 +379,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monument CMDT",
-                  "text": "A Monument CMDT egy emlékmű Koutiala városában.",
+                  "text": "A Monument CMDT Koutialában a Compagnie Malienne pour le Développement du Textile textilipari társaságra emlékezik.",
                   "category": "historical",
                   "coords": [
                         -5.459888,
@@ -388,7 +388,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Salle de Spectacle",
-                  "text": "A Salle de Spectacle egy művészeti központ Koutiala területén.",
+                  "text": "A Salle de Spectacle Koutialában egy többcélú terem koncertek és színházi előadások számára.",
                   "category": "cultural",
                   "coords": [
                         -5.465174,
@@ -399,7 +399,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monument CMDT",
-                  "text": "Monumentul CMDT este un monument din Koutiala.",
+                  "text": "Monument CMDT din Koutiala comemorează compania textilă Compagnie Malienne pour le Développement du Textile.",
                   "category": "historical",
                   "coords": [
                         -5.459888,
@@ -408,7 +408,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Salle de Spectacle",
-                  "text": "Salle de Spectacle este un centru de arte în Koutiala.",
+                  "text": "Salle de Spectacle din Koutiala este o sală multifuncțională pentru concerte și spectacole de teatru.",
                   "category": "cultural",
                   "coords": [
                         -5.465174,
@@ -419,7 +419,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monument CMDT",
-                  "text": "Monument CMDT is a notable monument located in Koutiala.",
+                  "text": "Monument CMDT in Koutiala commemorates the textile company Compagnie Malienne pour le Développement du Textile.",
                   "category": "historical",
                   "coords": [
                         -5.459888,
@@ -428,7 +428,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Salle de Spectacle",
-                  "text": "Salle de Spectacle is an arts centre in Koutiala.",
+                  "text": "Salle de Spectacle in Koutiala is a multipurpose hall for concerts and theatre performances.",
                   "category": "cultural",
                   "coords": [
                         -5.465174,
@@ -478,7 +478,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
-                  "text": "Die Ancienne Salle Massa Makan Diabaté De Kayes ist ein altes Theater in Kayes.",
+                  "text": "Die Ancienne Salle Massa Makan Diabaté in Kayes ist ein Kulturzentrum, benannt nach dem berühmten Musiker Massa Makan Diabaté.",
                   "category": "cultural",
                   "coords": [
                         -11.43866,
@@ -505,7 +505,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Monument des Martyrs",
-                  "text": "Das Monument des Martyrs ist ein Denkmal in Kayes.",
+                  "text": "Das Monument des Martyrs in Kayes ist ein historisches Denkmal zu Ehren der malischen Märtyrer.",
                   "category": "historical",
                   "coords": [
                         -11.43625,
@@ -514,7 +514,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Monument du Buffle",
-                  "text": "Das Monument du Buffle ist ein öffentliches Denkmal in der Stadt Kayes.",
+                  "text": "Das Monument du Buffle in Kayes ist eine historische Büffelstatue.",
                   "category": "historical",
                   "coords": [
                         -11.433377,
@@ -525,7 +525,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
-                  "text": "Az Ancienne Salle Massa Makan Diabaté De Kayes egy régi színház Kayes városában.",
+                  "text": "A Kayes-i Ancienne Salle Massa Makan Diabaté egy kulturális helyszín, amely a híres zenészről, Massa Makan Diabatéról kapta a nevét.",
                   "category": "cultural",
                   "coords": [
                         -11.43866,
@@ -552,7 +552,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Monument des Martyrs",
-                  "text": "A Monument des Martyrs egy emlékmű Kayes városában.",
+                  "text": "A Kayes-i Monument des Martyrs egy történelmi emlékmű, amely a mali mártírok előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
                         -11.43625,
@@ -561,7 +561,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Monument du Buffle",
-                  "text": "A Monument du Buffle egy köztéri emlékmű Kayes városában.",
+                  "text": "A Kayes-i Monument du Buffle egy történelmi bivalyszobor.",
                   "category": "historical",
                   "coords": [
                         -11.433377,
@@ -572,7 +572,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
-                  "text": "Ancienne Salle Massa Makan Diabaté De Kayes este un vechi teatru situat în Kayes.",
+                  "text": "Sala Ancienne Salle Massa Makan Diabaté din Kayes este un centru cultural numit după celebrul muzician Massa Makan Diabaté.",
                   "category": "cultural",
                   "coords": [
                         -11.43866,
@@ -599,7 +599,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Monument des Martyrs",
-                  "text": "Monument des Martyrs este un monument comemorativ situat în Kayes.",
+                  "text": "Monumentul des Martyrs din Kayes este un monument istoric în cinstea martirilor malieni.",
                   "category": "historical",
                   "coords": [
                         -11.43625,
@@ -608,7 +608,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Monument du Buffle",
-                  "text": "Monument du Buffle este un monument public situat în orașul Kayes.",
+                  "text": "Monumentul du Buffle din Kayes este o statuie istorică a unui bivol.",
                   "category": "historical",
                   "coords": [
                         -11.433377,
@@ -619,7 +619,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
-                  "text": "Ancienne Salle Massa Makan Diabaté De Kayes is an old theatre venue located in Kayes.",
+                  "text": "The Ancienne Salle Massa Makan Diabaté in Kayes is a cultural venue named after the renowned musician Massa Makan Diabaté.",
                   "category": "cultural",
                   "coords": [
                         -11.43866,
@@ -646,7 +646,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Monument des Martyrs",
-                  "text": "Monument des Martyrs is a memorial monument situated in Kayes.",
+                  "text": "The Monument des Martyrs in Kayes is a historical monument honoring Malian martyrs.",
                   "category": "historical",
                   "coords": [
                         -11.43625,
@@ -655,7 +655,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Monument du Buffle",
-                  "text": "Monument du Buffle is a public monument located in the city of Kayes.",
+                  "text": "The Monument du Buffle in Kayes is a historical statue of a buffalo.",
                   "category": "historical",
                   "coords": [
                         -11.433377,
@@ -708,7 +708,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée Régional des Masques et Marionnettes de Ségou",
-                  "text": "Regionalmuseum für Masken und Marionetten in Ségou.",
+                  "text": "Das Musée Régional des Masques et Marionnettes in Ségou ist ein Museum mit regionalen Masken und Puppen.",
                   "category": "museum",
                   "coords": [
                         -6.277547,
@@ -719,7 +719,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée Régional des Masques et Marionnettes de Ségou",
-                  "text": "Regionális maszk- és bábmúzeum Ségouban.",
+                  "text": "A Ségou-i Musée Régional des Masques et Marionnettes egy múzeum, amely regionális maszkokat és bábukat mutat be.",
                   "category": "museum",
                   "coords": [
                         -6.277547,
@@ -730,7 +730,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée Régional des Masques et Marionnettes de Ségou",
-                  "text": "Muzeul regional al măștilor și marionetelor din Ségou.",
+                  "text": "Muzeul Regional al Măștilor și Păpușilor din Ségou este un muzeu care prezintă măști și păpuși regionale.",
                   "category": "museum",
                   "coords": [
                         -6.277547,
@@ -741,7 +741,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée Régional des Masques et Marionnettes de Ségou",
-                  "text": "Regional museum of masks and puppets in Ségou.",
+                  "text": "The Musée Régional des Masques et Marionnettes in Ségou is a museum showcasing regional masks and puppets.",
                   "category": "museum",
                   "coords": [
                         -6.277547,
@@ -835,7 +835,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Espace Culturel",
-                  "text": "Espace Culturel ist ein Kunstzentrum, das der Gemeinde Niono dient.",
+                  "text": "Das Espace Culturel in Niono ist ein Kulturzentrum mit lokalen Aufführungen und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         -5.992623,
@@ -846,7 +846,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Espace Culturel",
-                  "text": "Az Espace Culturel egy művészeti központ Niono közösségében.",
+                  "text": "A Niono-i Espace Culturel egy kulturális központ, amely helyi előadásoknak és kiállításoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -5.992623,
@@ -857,7 +857,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Espace Culturel",
-                  "text": "Espace Culturel este un centru de artă care deservește comunitatea din Niono.",
+                  "text": "Espace Culturel din Niono este un centru cultural care găzduiește spectacole și expoziții locale.",
                   "category": "cultural",
                   "coords": [
                         -5.992623,
@@ -868,7 +868,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Espace Culturel",
-                  "text": "Espace Culturel is an arts centre serving the community of Niono.",
+                  "text": "The Espace Culturel in Niono is a cultural center hosting local performances and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -5.992623,
@@ -921,7 +921,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Djegueba",
-                  "text": "Djegueba-Denkmal in Markala.",
+                  "text": "Djegueba in Markala ist eine historische Stätte mit Überresten traditioneller Bauten.",
                   "category": "historical",
                   "coords": [
                         -6.072537,
@@ -932,7 +932,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Djegueba",
-                  "text": "Djegueba emlékmű Markalában.",
+                  "text": "A Markala-i Djegueba egy történelmi helyszín, ahol hagyományos építmények maradványai találhatók.",
                   "category": "historical",
                   "coords": [
                         -6.072537,
@@ -943,7 +943,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Djegueba",
-                  "text": "Monumentul Djegueba din Markala.",
+                  "text": "Djegueba din Markala este un sit istoric cu rămășițe ale unor structuri tradiționale.",
                   "category": "historical",
                   "coords": [
                         -6.072537,
@@ -954,7 +954,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Djegueba",
-                  "text": "Djegueba monument in Markala.",
+                  "text": "Djegueba in Markala is a historical site with remnants of traditional structures.",
                   "category": "historical",
                   "coords": [
                         -6.072537,
@@ -1048,7 +1048,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monument du cinquanntenaire",
-                  "text": "Das Monument du cinquanntenaire ist ein Denkmal in Kati.",
+                  "text": "Das Monument du Cinquantenaire in Kati ist ein historisches Denkmal zum 50. Jahrestag der Unabhängigkeit Malis.",
                   "category": "historical",
                   "coords": [
                         -8.06853,
@@ -1057,7 +1057,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Jumelage Puteaux-Kati",
-                  "text": "Jumelage Puteaux-Kati ist ein Denkmal in Kati zur Feier der Städtepartnerschaft.",
+                  "text": "Der Jumelage Puteaux-Kati in Kati ist eine historische Gedenktafel zur Städtepartnerschaft zwischen Puteaux und Kati.",
                   "category": "historical",
                   "coords": [
                         -8.06921,
@@ -1077,7 +1077,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monument du cinquanntenaire",
-                  "text": "A Monument du cinquanntenaire egy emlékmű Kati városában.",
+                  "text": "A Kati-i Monument du Cinquantenaire egy történelmi emlékmű, amely Mali függetlenségének 50. évfordulóját jelöli.",
                   "category": "historical",
                   "coords": [
                         -8.06853,
@@ -1086,7 +1086,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Jumelage Puteaux-Kati",
-                  "text": "A Jumelage Puteaux-Kati egy testvérvárosi kapcsolatot ünneplő emlékmű Kati városában.",
+                  "text": "A Kati-i Jumelage Puteaux-Kati egy történelmi emlékjel, amely Puteaux és Kati testvérvárosi kapcsolatát jelzi.",
                   "category": "historical",
                   "coords": [
                         -8.06921,
@@ -1106,7 +1106,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monument du cinquanntenaire",
-                  "text": "Monument du cinquanntenaire este un monument notabil situat în Kati.",
+                  "text": "Monumentul du Cinquantenaire din Kati este un monument istoric care marchează 50 de ani de la independența Mali.",
                   "category": "historical",
                   "coords": [
                         -8.06853,
@@ -1115,7 +1115,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Jumelage Puteaux-Kati",
-                  "text": "Jumelage Puteaux-Kati este un monument din Kati care celebrează înfrățirea orașelor.",
+                  "text": "Jumelage Puteaux-Kati din Kati este un indicator istoric al relației de înfrățire între Puteaux și Kati.",
                   "category": "historical",
                   "coords": [
                         -8.06921,
@@ -1135,7 +1135,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monument du cinquanntenaire",
-                  "text": "Monument du cinquanntenaire is a notable monument located in Kati.",
+                  "text": "The Monument du Cinquantenaire in Kati is a historical monument marking 50 years of Mali's independence.",
                   "category": "historical",
                   "coords": [
                         -8.06853,
@@ -1144,7 +1144,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Jumelage Puteaux-Kati",
-                  "text": "Jumelage Puteaux-Kati is a monument in Kati celebrating town twinning.",
+                  "text": "The Jumelage Puteaux-Kati in Kati is a historical marker of the twin-city relationship between Puteaux and Kati.",
                   "category": "historical",
                   "coords": [
                         -8.06921,
@@ -1206,7 +1206,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nouveau Musée du Sahel",
-                  "text": "Neues Sahel-Museum in Gao.",
+                  "text": "Das Nouveau Musée du Sahel in Gao ist ein Museum, das der Kultur und Geschichte der Sahelzone gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -0.044321,
@@ -1215,7 +1215,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des Arts",
-                  "text": "Kunsthaus in Gao.",
+                  "text": "Die Maison des Arts in Gao ist ein Kulturzentrum mit lokaler Kunst und Kunsthandwerk.",
                   "category": "cultural",
                   "coords": [
                         -0.043765,
@@ -1224,7 +1224,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Tombeau des Askia",
-                  "text": "Das Grab von Askia in Gao gehört zum UNESCO-Welterbe.",
+                  "text": "Das Grabmal der Askia ist ein UNESCO-Weltkulturerbe in Gao, ein pyramidales Grabmal des Songhai-Kaisers.",
                   "category": "landmark",
                   "coords": [
                         -0.044492,
@@ -1235,7 +1235,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nouveau Musée du Sahel",
-                  "text": "Új Száhel-múzeum Gaóban.",
+                  "text": "A Gao-i Nouveau Musée du Sahel egy múzeum, amely a Száhel-övezet kultúrájának és történelmének szentelt.",
                   "category": "museum",
                   "coords": [
                         -0.044321,
@@ -1244,7 +1244,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des Arts",
-                  "text": "Művészeti ház Gaóban.",
+                  "text": "A Gao-i Maison des Arts egy kulturális központ, amely helyi művészetet és kézművességet mutat be.",
                   "category": "cultural",
                   "coords": [
                         -0.043765,
@@ -1253,7 +1253,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Tombeau des Askia",
-                  "text": "Az askia sírja Gaóban UNESCO világörökségi helyszín.",
+                  "text": "Az Askia-síremlék egy UNESCO világörökségi helyszín Gaóban, a Szongáj császár piramis alakú sírja.",
                   "category": "landmark",
                   "coords": [
                         -0.044492,
@@ -1264,7 +1264,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nouveau Musée du Sahel",
-                  "text": "Noul Muzeu al Sahelului din Gao.",
+                  "text": "Nouveau Musée du Sahel din Gao este un muzeu dedicat culturii și istoriei Sahelului.",
                   "category": "museum",
                   "coords": [
                         -0.044321,
@@ -1273,7 +1273,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des Arts",
-                  "text": "Casa Artelor din Gao.",
+                  "text": "Maison des Arts din Gao este un centru cultural care expune artă și meșteșuguri locale.",
                   "category": "cultural",
                   "coords": [
                         -0.043765,
@@ -1282,7 +1282,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Tombeau des Askia",
-                  "text": "Mormântul lui Askia din Gao face parte din patrimoniul mondial UNESCO.",
+                  "text": "Mormântul lui Askia este un sit UNESCO în Gao, un mormânt piramidal al împăratului Songhai.",
                   "category": "landmark",
                   "coords": [
                         -0.044492,
@@ -1293,7 +1293,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nouveau Musée du Sahel",
-                  "text": "New Sahel Museum in Gao.",
+                  "text": "The Nouveau Musée du Sahel in Gao is a museum dedicated to Sahelian culture and history.",
                   "category": "museum",
                   "coords": [
                         -0.044321,
@@ -1302,7 +1302,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Maison des Arts",
-                  "text": "Arts centre in Gao.",
+                  "text": "The Maison des Arts in Gao is a cultural center showcasing local art and crafts.",
                   "category": "cultural",
                   "coords": [
                         -0.043765,
@@ -1311,7 +1311,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Tomb of Askia Unesco world heritage site",
-                  "text": "The Tomb of Askia in Gao is a UNESCO world heritage site.",
+                  "text": "Tomb of Askia is a UNESCO World Heritage site in Gao, a pyramidal tomb of the Songhai emperor.",
                   "category": "landmark",
                   "coords": [
                         -0.044492,
@@ -1364,7 +1364,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centre Culturel Siraba TOGOLA",
-                  "text": "Das Centre Culturel Siraba TOGOLA ist ein Kulturzentrum in Bougouni.",
+                  "text": "Das Centre Culturel Siraba TOGOLA in Bougouni ist ein Kulturzentrum, benannt nach dem malischen Künstler Siraba Togola.",
                   "category": "cultural",
                   "coords": [
                         -7.48455,
@@ -1375,7 +1375,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Culturel Siraba TOGOLA",
-                  "text": "A Centre Culturel Siraba TOGOLA egy kulturális központ Bougouni városában.",
+                  "text": "A Bougouni-i Centre Culturel Siraba TOGOLA egy kulturális központ, amely a mali művészről, Siraba Togoláról kapta a nevét.",
                   "category": "cultural",
                   "coords": [
                         -7.48455,
@@ -1386,7 +1386,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Culturel Siraba TOGOLA",
-                  "text": "Centrul Cultural Siraba TOGOLA este un centru de artă în Bougouni.",
+                  "text": "Centrul Cultural Siraba TOGOLA din Bougouni este un centru cultural numit după artistul malian Siraba Togola.",
                   "category": "cultural",
                   "coords": [
                         -7.48455,
@@ -1397,7 +1397,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centre Culturel Siraba TOGOLA",
-                  "text": "Centre Culturel Siraba TOGOLA is an arts centre situated in Bougouni.",
+                  "text": "The Centre Culturel Siraba TOGOLA in Bougouni is a cultural center named after the Malian artist Siraba Togola.",
                   "category": "cultural",
                   "coords": [
                         -7.48455,
@@ -1614,7 +1614,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fortin",
-                  "text": "Fortin-Burg in Kidal.",
+                  "text": "Der Fortin in Kidal ist eine kleine historische Festung mit Blick auf die Stadt.",
                   "category": "castle",
                   "coords": [
                         1.403823,
@@ -1625,7 +1625,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fortin",
-                  "text": "Fortin vár Kidalban.",
+                  "text": "A Kidal-i Fortin egy kis történelmi erőd, amely a városra néz.",
                   "category": "castle",
                   "coords": [
                         1.403823,
@@ -1636,7 +1636,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fortin",
-                  "text": "Castelul Fortin din Kidal.",
+                  "text": "Fortinul din Kidal este o mică fortăreață istorică ce domină orașul.",
                   "category": "castle",
                   "coords": [
                         1.403823,
@@ -1647,7 +1647,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fortin",
-                  "text": "Fortin castle in Kidal.",
+                  "text": "The Fortin in Kidal is a small historic fort overlooking the town.",
                   "category": "castle",
                   "coords": [
                         1.403823,
@@ -1782,7 +1782,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monument Toguna",
-                  "text": "Toguna-Denkmal in Bandiagara.",
+                  "text": "Das Monument Toguna in Bandiagara ist ein historisches Denkmal in Form einer Dogon-Toguna.",
                   "category": "historical",
                   "coords": [
                         -3.615213,
@@ -1791,7 +1791,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Palais d'Aguibe Tall",
-                  "text": "Denkmal des Palais d'Aguibe Tall in Bandiagara.",
+                  "text": "Der Palais d'Aguibe Tall in Bandiagara ist ein historischer Palast, erbaut von Herrscher Aguibe Tall.",
                   "category": "historical",
                   "coords": [
                         -3.611036,
@@ -1800,7 +1800,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de loisir de Bandiagara",
-                  "text": "Freizeitzentrum in Bandiagara.",
+                  "text": "Das Centre de loisir de Bandiagara ist ein kulturelles Freizeitzentrum mit Sport und Aktivitäten.",
                   "category": "cultural",
                   "coords": [
                         -3.605705,
@@ -1811,7 +1811,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monument Toguna",
-                  "text": "Toguna emlékmű Bandiagarában.",
+                  "text": "A Bandiagara-i Monument Toguna egy történelmi emlékmű, amely egy dogon toguna alakját ölti.",
                   "category": "historical",
                   "coords": [
                         -3.615213,
@@ -1820,7 +1820,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Palais d'Aguibe Tall",
-                  "text": "A Palais d'Aguibe Tall emlékmű Bandiagarában.",
+                  "text": "A Bandiagara-i Palais d'Aguibe Tall egy történelmi palota, amelyet Aguibe Tall uralkodó építtetett.",
                   "category": "historical",
                   "coords": [
                         -3.611036,
@@ -1829,7 +1829,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de loisir de Bandiagara",
-                  "text": "Szabadidőközpont Bandiagarában.",
+                  "text": "A Bandiagara-i Centre de loisir egy kulturális szabadidőközpont, amely sportot és tevékenységeket kínál.",
                   "category": "cultural",
                   "coords": [
                         -3.605705,
@@ -1840,7 +1840,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monument Toguna",
-                  "text": "Monumentul Toguna din Bandiagara.",
+                  "text": "Monumentul Toguna din Bandiagara este un monument istoric în formă de toguna dogon.",
                   "category": "historical",
                   "coords": [
                         -3.615213,
@@ -1849,7 +1849,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Palais d'Aguibe Tall",
-                  "text": "Monumentul Palais d'Aguibe Tall din Bandiagara.",
+                  "text": "Palatul Aguibe Tall din Bandiagara este un palat istoric construit de conducătorul Aguibe Tall.",
                   "category": "historical",
                   "coords": [
                         -3.611036,
@@ -1858,7 +1858,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de loisir de Bandiagara",
-                  "text": "Centru de agrement în Bandiagara.",
+                  "text": "Centrul de agrement din Bandiagara este un centru cultural de agrement care oferă sport și activități.",
                   "category": "cultural",
                   "coords": [
                         -3.605705,
@@ -1869,7 +1869,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monument Toguna",
-                  "text": "Toguna monument in Bandiagara.",
+                  "text": "The Monument Toguna in Bandiagara is a historical monument shaped like a Dogon toguna.",
                   "category": "historical",
                   "coords": [
                         -3.615213,
@@ -1878,7 +1878,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Palais d'Aguibe Tall",
-                  "text": "Palais d'Aguibe Tall monument in Bandiagara.",
+                  "text": "The Palais d'Aguibe Tall in Bandiagara is a historical palace built by the ruler Aguibe Tall.",
                   "category": "historical",
                   "coords": [
                         -3.611036,
@@ -1887,7 +1887,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Centre de loisir de Bandiagara",
-                  "text": "Leisure centre in Bandiagara.",
+                  "text": "The Centre de loisir de Bandiagara is a cultural leisure center offering sports and activities.",
                   "category": "cultural",
                   "coords": [
                         -3.605705,
@@ -1981,7 +1981,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Moulin",
-                  "text": "Moulin ist eine traditionelle Windmühle in der Stadt Kita.",
+                  "text": "Der Moulin in Kita ist eine historische Mühle als Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         -9.478994,
@@ -1992,7 +1992,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Moulin",
-                  "text": "A Moulin egy hagyományos szélmalom Kita városában.",
+                  "text": "A Kita-i Moulin egy történelmi malom, ami nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         -9.478994,
@@ -2003,7 +2003,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Moulin",
-                  "text": "Moulin este o moară de vânt tradițională situată în orașul Kita.",
+                  "text": "Moulinul din Kita este un reper istoric, o moară veche.",
                   "category": "landmark",
                   "coords": [
                         -9.478994,
@@ -2014,7 +2014,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Moulin",
-                  "text": "Moulin is a traditional windmill situated in the town of Kita.",
+                  "text": "The Moulin in Kita is a landmark historic mill.",
                   "category": "landmark",
                   "coords": [
                         -9.478994,
@@ -2231,7 +2231,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Cite Touristique Kouroukan Fuga",
-                  "text": "Die Cite Touristique Kouroukan Fuga ist eine touristische Attraktion in Kangaba.",
+                  "text": "Die Cite Touristique Kouroukan Fuga in Kangaba ist ein Touristenkomplex, inspiriert von der historischen Ebene Kouroukan Fuga.",
                   "category": "landmark",
                   "coords": [
                         -8.406912,
@@ -2240,7 +2240,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Fara Dje",
-                  "text": "Fara Dje ist eine Attraktion in Kangaba.",
+                  "text": "Fara Dje in Kangaba ist ein Naturwahrzeichen, eine markante Felsformation.",
                   "category": "landmark",
                   "coords": [
                         -8.416457,
@@ -2251,7 +2251,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Cite Touristique Kouroukan Fuga",
-                  "text": "A Cite Touristique Kouroukan Fuga egy látványosság Kangaba területén.",
+                  "text": "A Kangaba-i Cite Touristique Kouroukan Fuga egy turisztikai komplexum, amelyet a történelmi Kouroukan Fuga síkság ihletett.",
                   "category": "landmark",
                   "coords": [
                         -8.406912,
@@ -2260,7 +2260,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Fara Dje",
-                  "text": "A Fara Dje egy látnivaló Kangaba városában.",
+                  "text": "A Kangaba-i Fara Dje egy természeti nevezetesség, egy feltűnő sziklaformáció.",
                   "category": "landmark",
                   "coords": [
                         -8.416457,
@@ -2271,7 +2271,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Cite Touristique Kouroukan Fuga",
-                  "text": "Cite Touristique Kouroukan Fuga este o atracție turistică în Kangaba.",
+                  "text": "Complexul turistic Kouroukan Fuga din Kangaba este un complex turistic inspirat de câmpia istorică Kouroukan Fuga.",
                   "category": "landmark",
                   "coords": [
                         -8.406912,
@@ -2280,7 +2280,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Fara Dje",
-                  "text": "Fara Dje este o atracție din Kangaba.",
+                  "text": "Fara Dje din Kangaba este un reper natural, o formațiune stâncoasă proeminentă.",
                   "category": "landmark",
                   "coords": [
                         -8.416457,
@@ -2291,7 +2291,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Cite Touristique Kouroukan Fuga",
-                  "text": "Cite Touristique Kouroukan Fuga is a tourist attraction in Kangaba.",
+                  "text": "The Cite Touristique Kouroukan Fuga in Kangaba is a tourist complex inspired by the historic Kouroukan Fuga plain.",
                   "category": "landmark",
                   "coords": [
                         -8.406912,
@@ -2300,7 +2300,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Fara Dje",
-                  "text": "Fara Dje is an attraction located in Kangaba.",
+                  "text": "Fara Dje in Kangaba is a natural landmark, a prominent rock formation.",
                   "category": "landmark",
                   "coords": [
                         -8.416457,
@@ -2681,7 +2681,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fomburi Dogon Museum",
-                  "text": "Das Fomburi Dogon Museum ist ein Museum in Douentza.",
+                  "text": "Das Fomburi Dogon Museum in Douentza ist ein Museum mit Dogon-Kunst und -Traditionen.",
                   "category": "museum",
                   "coords": [
                         -2.940417,
@@ -2690,7 +2690,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Radio rural Duwansa",
-                  "text": "Radio rural Duwansa dient als Aussichtspunkt in Douentza.",
+                  "text": "Radio rural Duwansa in Douentza ist ein ländlicher Radiosender, der von einem natürlichen Standort sendet.",
                   "category": "natural",
                   "coords": [
                         -2.94809,
@@ -2701,7 +2701,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fomburi Dogon Museum",
-                  "text": "A Fomburi Dogon Múzeum egy múzeum Douentza városában.",
+                  "text": "A Douentza-i Fomburi Dogon Múzeum egy múzeum, amely a dogon művészetet és hagyományokat mutatja be.",
                   "category": "museum",
                   "coords": [
                         -2.940417,
@@ -2710,7 +2710,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Radio rural Duwansa",
-                  "text": "A Radio rural Duwansa kilátóként is funkcionál Douentza területén.",
+                  "text": "A Douentza-i Radio rural Duwansa egy vidéki rádióállomás, amely természeti környezetből sugároz.",
                   "category": "natural",
                   "coords": [
                         -2.94809,
@@ -2721,7 +2721,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fomburi Dogon Museum",
-                  "text": "Muzeul Fomburi Dogon este un muzeu din Douentza.",
+                  "text": "Muzeul Dogon Fomburi din Douentza este un muzeu care prezintă arta și tradițiile dogon.",
                   "category": "museum",
                   "coords": [
                         -2.940417,
@@ -2730,7 +2730,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Radio rural Duwansa",
-                  "text": "Radio rural Duwansa servește drept punct de belvedere în Douentza.",
+                  "text": "Radio rural Duwansa din Douentza este un post de radio rural care emite dintr-o locație naturală.",
                   "category": "natural",
                   "coords": [
                         -2.94809,
@@ -2741,7 +2741,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fomburi Dogon Museum",
-                  "text": "The Fomburi Dogon Museum is a museum situated in Douentza.",
+                  "text": "The Fomburi Dogon Museum in Douentza is a museum showcasing Dogon art and traditions.",
                   "category": "museum",
                   "coords": [
                         -2.940417,
@@ -2750,7 +2750,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
             },
             {
                   "name": "Radio rural Duwansa",
-                  "text": "Radio rural Duwansa serves as a viewpoint in Douentza.",
+                  "text": "Radio rural Duwansa in Douentza is a rural radio station broadcasting from a natural location.",
                   "category": "natural",
                   "coords": [
                         -2.94809,
@@ -2885,7 +2885,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Musée Ali Farka Toure",
-                  "text": "Das Musée Ali Farka Toure ist ein Museum in Niafunké.",
+                  "text": "Das Musée Ali Farka Toure in Niafunke ist ein Museum zu Ehren des legendären Musikers Ali Farka Touré.",
                   "category": "museum",
                   "coords": [
                         -3.969651,
@@ -2896,7 +2896,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Musée Ali Farka Toure",
-                  "text": "A Musée Ali Farka Toure egy múzeum Niafunké városában.",
+                  "text": "A Niafunke-i Musée Ali Farka Toure egy múzeum, amely a legendás zenész, Ali Farka Touré előtt tiszteleg.",
                   "category": "museum",
                   "coords": [
                         -3.969651,
@@ -2907,7 +2907,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Musée Ali Farka Toure",
-                  "text": "Muzeul Ali Farka Toure este un muzeu din Niafunké.",
+                  "text": "Muzeul Ali Farka Toure din Niafunke este un muzeu dedicat legendarului muzician Ali Farka Touré.",
                   "category": "museum",
                   "coords": [
                         -3.969651,
@@ -2918,7 +2918,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Musée Ali Farka Toure",
-                  "text": "Musée Ali Farka Toure is a museum located in Niafunké.",
+                  "text": "The Musée Ali Farka Toure in Niafunke is a museum honoring the legendary musician Ali Farka Touré.",
                   "category": "museum",
                   "coords": [
                         -3.969651,

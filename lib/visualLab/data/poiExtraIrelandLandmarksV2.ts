@@ -304,7 +304,7 @@ export const irelandLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Ballysaggartmore Towers",
-                  "text": "Zwei kunstvolle gotische Torbauten in der Nähe von Lismore.",
+                  "text": "Neugotisches Torhaus mit Türmen in Lismore, Ballysaggartmore Towers genannt.",
                   "category": "castle",
                   "coords": [
                         -7.969729,
@@ -322,7 +322,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Gatehouse Ruins",
-                  "text": "Überreste eines historischen Torhauses in Lismore.",
+                  "text": "Gatehouse Ruins, die Überreste eines mittelalterlichen Torhauses am Lismore Castle.",
                   "category": "historical",
                   "coords": [
                         -7.963055,
@@ -331,7 +331,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Salterbridge House",
-                  "text": "Ein herrschaftliches Anwesen in der Nähe von Lismore Castle.",
+                  "text": "Salterbridge House, ein historisches Landhaus nahe Lismore Castle im georgianischen Stil.",
                   "category": "historical",
                   "coords": [
                         -7.880428,
@@ -340,7 +340,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Carthage's Church",
-                  "text": "Eine Kirche, die dem heiligen Carthach in Lismore gewidmet ist.",
+                  "text": "Eine Kirche der Church of Ireland, die dem heiligen Carthage in Lismore geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -7.930469,
@@ -349,7 +349,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Carthage's Cathedral",
-                  "text": "Eine bedeutende Kathedrale der Church of Ireland in Lismore.",
+                  "text": "Anglikanische Kathedrale in Lismore, erbaut auf dem Gelände eines Klosters aus dem 7. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -7.929304,
@@ -360,7 +360,7 @@ export const irelandLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Ballysaggartmore Towers",
-                  "text": "Két díszes gótikus kapuépítmény Lismore közelében.",
+                  "text": "Neogótikus kapuház tornyokkal Lismore-ban, Ballysaggartmore Towers néven ismert.",
                   "category": "castle",
                   "coords": [
                         -7.969729,
@@ -378,7 +378,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Gatehouse Ruins",
-                  "text": "Egy történelmi kapuépület maradványai Lismore-ban.",
+                  "text": "Gatehouse Ruins, egy középkori kaputorony romjai a Lismore kastélynál.",
                   "category": "historical",
                   "coords": [
                         -7.963055,
@@ -387,7 +387,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Salterbridge House",
-                  "text": "Uradalmi birtok a Lismore-i vár közelében.",
+                  "text": "Salterbridge House, egy történelmi kúria Lismore kastély közelében, grúz stílusban.",
                   "category": "historical",
                   "coords": [
                         -7.880428,
@@ -396,7 +396,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Carthage's Church",
-                  "text": "Szent Carthachnak szentelt templom Lismore-ban.",
+                  "text": "A Church of Ireland temploma Lismore-ban, Szent Carthage-nak szentelve.",
                   "category": "religious",
                   "coords": [
                         -7.930469,
@@ -405,7 +405,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Carthage's Cathedral",
-                  "text": "Az Ír Egyház jelentős székesegyháza Lismore-ban.",
+                  "text": "Anglikán székesegyház Lismore-ban, egy 7. századi kolostor helyén épült.",
                   "category": "religious",
                   "coords": [
                         -7.929304,
@@ -416,7 +416,7 @@ export const irelandLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Ballysaggartmore Towers",
-                  "text": "Două porți gotice elaborate situate lângă Lismore.",
+                  "text": "Casa de poartă neogotică cu turnuri în Lismore, cunoscută sub numele de Ballysaggartmore Towers.",
                   "category": "castle",
                   "coords": [
                         -7.969729,
@@ -434,7 +434,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Gatehouse Ruins",
-                  "text": "Rămășițele unei porți istorice în Lismore.",
+                  "text": "Ruinele Porții, rămășițele unui turn de poartă medieval la Castelul Lismore.",
                   "category": "historical",
                   "coords": [
                         -7.963055,
@@ -443,7 +443,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Salterbridge House",
-                  "text": "O reședință nobiliară în apropiere de Castelul Lismore.",
+                  "text": "Salterbridge House, o casă de țară istorică lângă Castelul Lismore, în stil georgian.",
                   "category": "historical",
                   "coords": [
                         -7.880428,
@@ -452,7 +452,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Carthage's Church",
-                  "text": "O biserică dedicată Sfântului Carthach în Lismore.",
+                  "text": "O biserică a Bisericii Irlandei dedicată Sfântului Carthage în Lismore.",
                   "category": "religious",
                   "coords": [
                         -7.930469,
@@ -461,7 +461,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Carthage's Cathedral",
-                  "text": "O catedrală importantă a Bisericii Irlandei din Lismore.",
+                  "text": "Catedrală anglicană în Lismore, construită pe locul unei mănăstiri din secolul al VII-lea.",
                   "category": "religious",
                   "coords": [
                         -7.929304,
@@ -472,7 +472,7 @@ export const irelandLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Ballysaggartmore Towers",
-                  "text": "Two ornate Gothic gate lodges located near Lismore.",
+                  "text": "Gothic Revival gate lodge with towers in Lismore, known as Ballysaggartmore Towers.",
                   "category": "castle",
                   "coords": [
                         -7.969729,
@@ -490,7 +490,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Gatehouse Ruins",
-                  "text": "The remains of a historic gatehouse in Lismore.",
+                  "text": "Gatehouse Ruins, the remains of a medieval gatehouse at Lismore Castle.",
                   "category": "historical",
                   "coords": [
                         -7.963055,
@@ -499,7 +499,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Salterbridge House",
-                  "text": "A manor house located near Lismore Castle.",
+                  "text": "Salterbridge House, a historic country house near Lismore Castle in Georgian style.",
                   "category": "historical",
                   "coords": [
                         -7.880428,
@@ -508,7 +508,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Carthage's Church",
-                  "text": "A church dedicated to Saint Carthage in Lismore.",
+                  "text": "A Church of Ireland church dedicated to Saint Carthage in Lismore.",
                   "category": "religious",
                   "coords": [
                         -7.930469,
@@ -517,7 +517,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Saint Carthage's Cathedral",
-                  "text": "A significant Church of Ireland cathedral in Lismore.",
+                  "text": "Anglican cathedral in Lismore, built on the site of a 7th-century monastery.",
                   "category": "religious",
                   "coords": [
                         -7.929304,
@@ -1321,7 +1321,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Cloghanower Castle (ruins)",
-                  "text": "Die Überreste einer alten Burg in der Nähe von Ross Abbey.",
+                  "text": "Heritage-geschützte Burgruine bei Ross Abbey.",
                   "category": "castle",
                   "coords": [
                         -9.091002,
@@ -1330,7 +1330,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Headford Castle",
-                  "text": "Ein historisches Schlossgebäude im Zentrum von Headford.",
+                  "text": "Headford Castle, ein befestigtes Haus nahe Ross Abbey aus dem 17. Jahrhundert.",
                   "category": "castle",
                   "coords": [
                         -9.099562,
@@ -1357,7 +1357,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kinlough Church",
-                  "text": "Ein historisches Kirchengebäude in der Gegend von Kinlough.",
+                  "text": "Ruinen einer mittelalterlichen Kirche in der Nähe von Ross Abbey, Nationaldenkmal.",
                   "category": "religious",
                   "coords": [
                         -9.114877,
@@ -1395,7 +1395,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Cloghanower Castle (ruins)",
-                  "text": "Egy régi vár maradványai Ross Abbey közelében.",
+                  "text": "Örökségvédelmi várrom Ross Abbey közelében.",
                   "category": "castle",
                   "coords": [
                         -9.091002,
@@ -1404,7 +1404,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Headford Castle",
-                  "text": "Történelmi várkastély Headford központjában.",
+                  "text": "Headford Castle, egy megerősített ház Ross Abbey közelében a 17. századból.",
                   "category": "castle",
                   "coords": [
                         -9.099562,
@@ -1431,7 +1431,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kinlough Church",
-                  "text": "Történelmi templomépület Kinlough környékén.",
+                  "text": "Középkori templomrom Ross Abbey közelében, nemzeti emlékmű.",
                   "category": "religious",
                   "coords": [
                         -9.114877,
@@ -1469,7 +1469,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Cloghanower Castle (ruins)",
-                  "text": "Resturile unui vechi castel situat lângă Ross Abbey.",
+                  "text": "Ruine de castel protejat de patrimoniu lângă Ross Abbey.",
                   "category": "castle",
                   "coords": [
                         -9.091002,
@@ -1478,7 +1478,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Headford Castle",
-                  "text": "O clădire istorică de castel în centrul localității Headford.",
+                  "text": "Castelul Headford, o casă fortificată lângă Ross Abbey din secolul al XVII-lea.",
                   "category": "castle",
                   "coords": [
                         -9.099562,
@@ -1505,7 +1505,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kinlough Church",
-                  "text": "O clădire istorică de biserică în zona Kinlough.",
+                  "text": "Ruine de biserică medievală lângă Abația Ross, monument național.",
                   "category": "religious",
                   "coords": [
                         -9.114877,
@@ -1543,7 +1543,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Cloghanower Castle (ruins)",
-                  "text": "The remains of an old castle located near Ross Abbey.",
+                  "text": "Heritage-listed castle ruins near Ross Abbey.",
                   "category": "castle",
                   "coords": [
                         -9.091002,
@@ -1552,7 +1552,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Headford Castle",
-                  "text": "A historic castle building in the center of Headford.",
+                  "text": "Headford Castle, a fortified house near Ross Abbey dating from the 17th century.",
                   "category": "castle",
                   "coords": [
                         -9.099562,
@@ -1579,7 +1579,7 @@ export const irelandLandmarksV2: POI[] = [
             },
             {
                   "name": "Kinlough Church",
-                  "text": "A historic church building in the Kinlough area.",
+                  "text": "Ruins of a medieval church near Ross Abbey, a national monument.",
                   "category": "religious",
                   "coords": [
                         -9.114877,

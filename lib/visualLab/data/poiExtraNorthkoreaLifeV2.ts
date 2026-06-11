@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraNorthkoreaLifeV2: POI[] = [
   {
-    id: "pyongyang-central-zoo-life-v2",
+    id: "pyongyang-central-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ami-san",
+                  "text": "Ein markanter Hügel auf dem Gelände des Zentralen Zoos, der einen weiten Blick über die umliegenden Parklandschaften bietet.",
+                  "category": "natural",
+                  "coords": [
+                        125.780958,
+                        39.078869
+                  ]
+            },
+            {
+                  "name": "Taehwa palace",
+                  "text": "Diese historischen Ruinen zeigen die Überreste einer ehemaligen königlichen Residenz mit traditionellem koreanischem Mauerwerk.",
+                  "category": "historical",
+                  "coords": [
+                        125.786405,
+                        39.144144
+                  ]
+            },
+            {
+                  "name": "Ryongsong Residence",
+                  "text": "Ein stark befestigter Palastkomplex, der als primärer Hochsicherheitswohnsitz für die nordkoreanische Führung dient.",
+                  "category": "castle",
+                  "coords": [
+                        125.80599,
+                        39.116281
+                  ]
+            },
+            {
+                  "name": "Ryongseong Market",
+                  "text": "Ein belebtes lokales Handelszentrum im Bezirk Ryongsong, in dem regionale Produkte und Waren des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        125.776182,
+                        39.121584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ami-san",
+                  "text": "A Központi Állatkert területén található kiemelkedő domb, amelyről szép kilátás nyílik a környező parkokra.",
+                  "category": "natural",
+                  "coords": [
+                        125.780958,
+                        39.078869
+                  ]
+            },
+            {
+                  "name": "Taehwa palace",
+                  "text": "Ezek a történelmi romok egy egykori királyi rezidencia maradványait és a hagyományos koreai kőművességet mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        125.786405,
+                        39.144144
+                  ]
+            },
+            {
+                  "name": "Ryongsong Residence",
+                  "text": "Egy erősen védett palotakomplexum, amely a észak-koreai vezetés elsődleges, szigorúan őrzött rezidenciájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        125.80599,
+                        39.116281
+                  ]
+            },
+            {
+                  "name": "Ryongseong Market",
+                  "text": "Egy nyüzsgő helyi kereskedelmi központ a Rjongszong negyedben, ahol regionális termékekkel és napi cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        125.776182,
+                        39.121584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ami-san",
+                  "text": "Un deal proeminent din zona Grădinii Zoologice Centrale, care oferă vederi pitorești asupra parcurilor și împrejmuirilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        125.780958,
+                        39.078869
+                  ]
+            },
+            {
+                  "name": "Taehwa palace",
+                  "text": "Aceste ruine istorice prezintă rămășițele unei foste reședințe regale, realizate din zidărie tradițională coreeană.",
+                  "category": "historical",
+                  "coords": [
+                        125.786405,
+                        39.144144
+                  ]
+            },
+            {
+                  "name": "Ryongsong Residence",
+                  "text": "Un complex palatial puternic fortificat care servește drept reședință principală de înaltă securitate pentru conducerea nord-coreeană.",
+                  "category": "castle",
+                  "coords": [
+                        125.80599,
+                        39.116281
+                  ]
+            },
+            {
+                  "name": "Ryongseong Market",
+                  "text": "Un nod comercial local plin de viață în districtul Ryongsong, unde se tranzacționează produse regionale și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        125.776182,
+                        39.121584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ami-san",
+                  "text": "A prominent hill within the Central Zoo area that offers scenic views over the surrounding parklands and enclosures.",
+                  "category": "natural",
+                  "coords": [
+                        125.780958,
+                        39.078869
+                  ]
+            },
+            {
+                  "name": "Taehwa palace",
+                  "text": "These historical ruins showcase the remains of a former royal residence with traditional Korean stone masonry.",
+                  "category": "historical",
+                  "coords": [
+                        125.786405,
+                        39.144144
+                  ]
+            },
+            {
+                  "name": "Ryongsong Residence",
+                  "text": "A heavily fortified palatial complex that serves as a primary high-security residence for the North Korean leadership.",
+                  "category": "castle",
+                  "coords": [
+                        125.80599,
+                        39.116281
+                  ]
+            },
+            {
+                  "name": "Ryongseong Market",
+                  "text": "A bustling local commercial hub in the Ryongsong District where regional produce and daily goods are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        125.776182,
+                        39.121584
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "KP-01",
     coords: [125.80, 39.08],
@@ -51,7 +204,124 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Situé à la périphérie de Pyongyang.", "Connu pour ses expositions de races de chiens.", "A été rénové et modernisé en 2016."],
     }, image: "/poi-images/pyongyang-central-zoo-life-v2.webp"},
   {
-    id: "taesongsan-amusement-park-life-v2",
+    id: "taesongsan-amusement-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roller Coaster",
+                  "text": "Eine klassische Achterbahn im Taesongsan-Vergnügungspark am Stadtrand.",
+                  "category": "landmark",
+                  "coords": [
+                        125.823781,
+                        39.071927
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Pyongyang",
+                  "text": "Dieses Museum im Taesongsan-Gebiet zeigt verschiedene geologische und biologische Exponate von der gesamten Koreanischen Halbinsel.",
+                  "category": "museum",
+                  "coords": [
+                        125.812824,
+                        39.07207
+                  ]
+            },
+            {
+                  "name": "Central Botanical Garden",
+                  "text": "Dieser am Fuße des Berges Taesong gelegene Garten beherbergt Tausende von tropischen und gemäßigten Pflanzenarten.",
+                  "category": "recreational",
+                  "coords": [
+                        125.820804,
+                        39.067128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roller Coaster",
+                  "text": "Egy klasszikus hullámvasút a város szélén található Teszongszan vidámparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.823781,
+                        39.071927
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Pyongyang",
+                  "text": "Ez a Teszongszan-negyedben található múzeum a Koreai-félsziget változatos földtani és biológiai mintáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.812824,
+                        39.07207
+                  ]
+            },
+            {
+                  "name": "Central Botanical Garden",
+                  "text": "A Teszong-hegy lábánál fekvő kert trópusi és mérsékelt övi növényfajok ezreinek ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        125.820804,
+                        39.067128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roller Coaster",
+                  "text": "Un roller coaster clasic în parcul de distracții Taesongsan, la marginea orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.823781,
+                        39.071927
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Pyongyang",
+                  "text": "Acest muzeu din zona Taesongsan expune diverse specimene geologice și biologice de pe întreaga peninsulă coreeană.",
+                  "category": "museum",
+                  "coords": [
+                        125.812824,
+                        39.07207
+                  ]
+            },
+            {
+                  "name": "Central Botanical Garden",
+                  "text": "Situată la poalele Muntelui Taesong, această grădină adăpostește mii de specii de plante tropicale și temperate.",
+                  "category": "recreational",
+                  "coords": [
+                        125.820804,
+                        39.067128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roller Coaster",
+                  "text": "A classic roller coaster located in the Taesongsan Amusement Park on the city outskirts.",
+                  "category": "landmark",
+                  "coords": [
+                        125.823781,
+                        39.071927
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Pyongyang",
+                  "text": "This museum in the Taesongsan area showcases diverse geological and biological specimens from across the Korean peninsula.",
+                  "category": "museum",
+                  "coords": [
+                        125.812824,
+                        39.07207
+                  ]
+            },
+            {
+                  "name": "Central Botanical Garden",
+                  "text": "Located at the foot of Mount Taesong, this garden houses thousands of species of tropical and temperate plants.",
+                  "category": "recreational",
+                  "coords": [
+                        125.820804,
+                        39.067128
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "KP-01",
     coords: [125.82, 39.07],
@@ -147,7 +417,448 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Se concentre sur la riziculture.", "Souvent présentée aux délégations étrangères comme une ferme modèle.", "Utilise des systèmes d'irrigation provenant des rivières voisines."],
     }, image: "/poi-images/sukchon-agriculture-collective-life-v2.webp"},
   {
-    id: "moranbong-park-life-v2",
+    id: "moranbong-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moran Peak",
+                  "text": "Der höchste Punkt der Moranbong-Hügel, berühmt für seine historischen Steinpavillons und den weiten Blick auf den Taedong-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        125.762311,
+                        39.043013
+                  ]
+            },
+            {
+                  "name": "Rungra People's Pleasure Ground",
+                  "text": "Ein riesiger Unterhaltungskomplex auf einer Insel mit einem Delfinarium, einem Wasserpark und Hightech-Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        125.767365,
+                        39.042422
+                  ]
+            },
+            {
+                  "name": "Tongam Gate",
+                  "text": "Ein historisches steinernes Stadttor, das einst als befestigter Eingang zu den inneren Stadtmauern von Pjöngjang diente.",
+                  "category": "landmark",
+                  "coords": [
+                        125.760315,
+                        39.039076
+                  ]
+            },
+            {
+                  "name": "Octopus Rotating Plate",
+                  "text": "Ein verspieltes, vielarmiges Karussell im Rungra-Vergnügungspark, das die Fahrgäste hoch in die Luft hebt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.770912,
+                        39.044578
+                  ]
+            },
+            {
+                  "name": "Dive Tower",
+                  "text": "Ein Freifall-Fahrgeschäft auf der Insel Rungra, das Abenteuerlustigen einen schnellen Abstieg mit Blick auf den Fluss bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.769901,
+                        39.044735
+                  ]
+            },
+            {
+                  "name": "Hyonmu Gate",
+                  "text": "Dieses ursprünglich im 6. Jahrhundert errichtete historische Steintor diente als nördlicher Eingang zur inneren Festung.",
+                  "category": "landmark",
+                  "coords": [
+                        125.760724,
+                        39.042479
+                  ]
+            },
+            {
+                  "name": "Pubyok Pavillion",
+                  "text": "Ein malerischer Pavillon aus der Koryo-Zeit auf einer Klippe über dem Taedong-Fluss, der als nordkoreanischer Nationalschatz gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.762204,
+                        39.041489
+                  ]
+            },
+            {
+                  "name": "Moranbong Park",
+                  "text": "Dieser als „Garten der Hauptstadt“ bekannte Park bietet malerische Wanderwege, historische Monumente und blühende Kirschbäume.",
+                  "category": "park",
+                  "coords": [
+                        125.759805,
+                        39.043502
+                  ]
+            },
+            {
+                  "name": "Pyongyang Rungna Dolphinarium",
+                  "text": "Dieses 2012 auf der Insel Rungra eröffnete Aquatikzentrum verfügt über große Becken für Delfinshows und Meeresbiologie.",
+                  "category": "recreational",
+                  "coords": [
+                        125.764382,
+                        39.038883
+                  ]
+            },
+            {
+                  "name": "Chongryu Pavilion",
+                  "text": "Ein traditionelles Holzgebäude an den Klippen des Taedong-Flusses, das ein ruhiger Ort für die Aussicht auf das Ufer ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759704,
+                        39.036853
+                  ]
+            },
+            {
+                  "name": "Aeryon Pavilion",
+                  "text": "Ein traditioneller hölzerner Pavillon im Moranbong-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757831,
+                        39.039203
+                  ]
+            },
+            {
+                  "name": "Ulmil Pavillion",
+                  "text": "Ein historischer Pavillon auf einer hohen Steinplattform mit Blick auf den Taedong-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759567,
+                        39.041459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moran Peak",
+                  "text": "A Moranbong-dombok legmagasabb pontja, amely történelmi kőpavilonjairól és a Tedong-folyóra nyíló kilátásáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        125.762311,
+                        39.043013
+                  ]
+            },
+            {
+                  "name": "Rungra People's Pleasure Ground",
+                  "text": "Hatalmas szigeti szórakoztató komplexum delfináriummal, víziparkkal és modern vidámparki játékokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        125.767365,
+                        39.042422
+                  ]
+            },
+            {
+                  "name": "Tongam Gate",
+                  "text": "Történelmi kő városkapu, amely egykor Phenjan belső várfalainak védett bejárataként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        125.760315,
+                        39.039076
+                  ]
+            },
+            {
+                  "name": "Octopus Rotating Plate",
+                  "text": "Játékos, többkarú forgó játék a Rungra vidámparkban, amely magasba emeli az utasokat.",
+                  "category": "landmark",
+                  "coords": [
+                        125.770912,
+                        39.044578
+                  ]
+            },
+            {
+                  "name": "Dive Tower",
+                  "text": "Függőleges szabadesés-attrakció a Rungra-szigeten, amely gyors ereszkedést és folyóra néző kilátást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.769901,
+                        39.044735
+                  ]
+            },
+            {
+                  "name": "Hyonmu Gate",
+                  "text": "Az eredetileg a 6. században épült történelmi kőkapu a belső erőd északi bejárataként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        125.760724,
+                        39.042479
+                  ]
+            },
+            {
+                  "name": "Pubyok Pavillion",
+                  "text": "Festői, Korjo-kori pavilon egy sziklán a Tedong-folyó felett, amelyet észak-koreai nemzeti kincsként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        125.762204,
+                        39.041489
+                  ]
+            },
+            {
+                  "name": "Moranbong Park",
+                  "text": "A „főváros kertjeként” ismert buja park festői ösvényekkel, történelmi emlékművekkel és virágzó cseresznyefákkal várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        125.759805,
+                        39.043502
+                  ]
+            },
+            {
+                  "name": "Pyongyang Rungna Dolphinarium",
+                  "text": "A 2012-ben a Rungra-szigeten megnyitott vízi létesítmény nagy medencékkel várja a delfinshow-k és a tengeri oktatás iránt érdeklődőket.",
+                  "category": "recreational",
+                  "coords": [
+                        125.764382,
+                        39.038883
+                  ]
+            },
+            {
+                  "name": "Chongryu Pavilion",
+                  "text": "Hagyományos faépítmény a Tedong-folyó szikláin, amely csendes helyet kínál a folyóparti nézelődéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759704,
+                        39.036853
+                  ]
+            },
+            {
+                  "name": "Aeryon Pavilion",
+                  "text": "Hagyományos koreai fa pavilon a Moranbong parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757831,
+                        39.039203
+                  ]
+            },
+            {
+                  "name": "Ulmil Pavillion",
+                  "text": "Történelmi pavilon magas kőplatformon, kilátással a Taedong-folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759567,
+                        39.041459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moran Peak",
+                  "text": "Cel mai înalt punct al dealurilor Moranbong, faimos pentru pavilioanele sale istorice de piatră și vederile dominante asupra râului Taedong.",
+                  "category": "natural",
+                  "coords": [
+                        125.762311,
+                        39.043013
+                  ]
+            },
+            {
+                  "name": "Rungra People's Pleasure Ground",
+                  "text": "Un complex masiv de divertisment situat pe insulă, cu un delfinariu, parc acvatic și curse de distracție de înaltă tehnologie.",
+                  "category": "recreational",
+                  "coords": [
+                        125.767365,
+                        39.042422
+                  ]
+            },
+            {
+                  "name": "Tongam Gate",
+                  "text": "O poartă istorică a orașului din piatră, care a servit odinioară ca intrare defensivă în fortificațiile interioare zidite ale Phenianului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.760315,
+                        39.039076
+                  ]
+            },
+            {
+                  "name": "Octopus Rotating Plate",
+                  "text": "O cursă rotativă veselă cu mai multe brațe în parcul de distracții Rungra, care ridică pasagerii sus deasupra solului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.770912,
+                        39.044578
+                  ]
+            },
+            {
+                  "name": "Dive Tower",
+                  "text": "O atracție cu cădere verticală situată pe insula Rungra, oferind căutătorilor de senzații tari o coborâre rapidă cu vedere la râu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.769901,
+                        39.044735
+                  ]
+            },
+            {
+                  "name": "Hyonmu Gate",
+                  "text": "Construită inițial în secolul al VI-lea, această poartă istorică de piatră a servit ca intrare nordică în cetatea interioară.",
+                  "category": "landmark",
+                  "coords": [
+                        125.760724,
+                        39.042479
+                  ]
+            },
+            {
+                  "name": "Pubyok Pavillion",
+                  "text": "Un pavilion pitoresc din epoca Koryo, cocoțat pe o stâncă deasupra râului Taedong, recunoscut ca tezaur național nord-coreean.",
+                  "category": "landmark",
+                  "coords": [
+                        125.762204,
+                        39.041489
+                  ]
+            },
+            {
+                  "name": "Moranbong Park",
+                  "text": "Cunoscut sub numele de „Grădina Capitalei”, acest parc luxuriant oferă trasee pitorești, monumente istorice și cireși înfloriți.",
+                  "category": "park",
+                  "coords": [
+                        125.759805,
+                        39.043502
+                  ]
+            },
+            {
+                  "name": "Pyongyang Rungna Dolphinarium",
+                  "text": "Deschis în 2012 pe insula Rungra, acest complex acvatic dispune de bazine mari pentru spectacole cu delfini și educație marină.",
+                  "category": "recreational",
+                  "coords": [
+                        125.764382,
+                        39.038883
+                  ]
+            },
+            {
+                  "name": "Chongryu Pavilion",
+                  "text": "O structură tradițională din lemn situată pe stâncile râului Taedong, oferind un loc liniștit pentru observarea malului râului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759704,
+                        39.036853
+                  ]
+            },
+            {
+                  "name": "Aeryon Pavilion",
+                  "text": "Un pavilion tradițional coreean din lemn situat în parcul Moranbong.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757831,
+                        39.039203
+                  ]
+            },
+            {
+                  "name": "Ulmil Pavillion",
+                  "text": "Un pavilion istoric pe o platformă înaltă de piatră, cu vedere spre râul Taedong.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759567,
+                        39.041459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moran Peak",
+                  "text": "The highest point of the Moranbong hills, famous for its historic stone pavilions and commanding views of the Taedong River.",
+                  "category": "natural",
+                  "coords": [
+                        125.762311,
+                        39.043013
+                  ]
+            },
+            {
+                  "name": "Rungra People's Pleasure Ground",
+                  "text": "A massive island-based entertainment complex featuring a dolphinarium, water park, and high-tech amusement rides.",
+                  "category": "recreational",
+                  "coords": [
+                        125.767365,
+                        39.042422
+                  ]
+            },
+            {
+                  "name": "Tongam Gate",
+                  "text": "A historical stone city gate that once served as a defensive entrance to Pyongyang’s inner walled fortifications.",
+                  "category": "landmark",
+                  "coords": [
+                        125.760315,
+                        39.039076
+                  ]
+            },
+            {
+                  "name": "Octopus Rotating Plate",
+                  "text": "A whimsical multi-armed spinning ride in the Rungra amusement park that lifts riders high above the ground.",
+                  "category": "landmark",
+                  "coords": [
+                        125.770912,
+                        39.044578
+                  ]
+            },
+            {
+                  "name": "Dive Tower",
+                  "text": "A vertical drop attraction located on Rungra Island, offering thrill-seekers a rapid descent with views of the river.",
+                  "category": "landmark",
+                  "coords": [
+                        125.769901,
+                        39.044735
+                  ]
+            },
+            {
+                  "name": "Hyonmu Gate",
+                  "text": "Originally built in the 6th century, this historic stone gateway served as the northern entrance to the inner fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        125.760724,
+                        39.042479
+                  ]
+            },
+            {
+                  "name": "Pubyok Pavillion",
+                  "text": "A scenic Koryo-era pavilion perched on a cliff overlooking the Taedong River, recognized as a North Korean national treasure.",
+                  "category": "landmark",
+                  "coords": [
+                        125.762204,
+                        39.041489
+                  ]
+            },
+            {
+                  "name": "Moranbong Park",
+                  "text": "Known as the \"Garden of the Capital,\" this lush park features scenic trails, historical monuments, and blooming cherry trees.",
+                  "category": "park",
+                  "coords": [
+                        125.759805,
+                        39.043502
+                  ]
+            },
+            {
+                  "name": "Pyongyang Rungna Dolphinarium",
+                  "text": "Opened in 2012 on Rungra Island, this aquatic facility features large pools for dolphin shows and marine education.",
+                  "category": "recreational",
+                  "coords": [
+                        125.764382,
+                        39.038883
+                  ]
+            },
+            {
+                  "name": "Chongryu Pavilion",
+                  "text": "A traditional wooden structure situated on the cliffs of the Taedong River, providing a quiet spot for riverside viewing.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759704,
+                        39.036853
+                  ]
+            },
+            {
+                  "name": "Aeryon Pavilion",
+                  "text": "A traditional Korean wooden pavilion located within the Moranbong Park.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757831,
+                        39.039203
+                  ]
+            },
+            {
+                  "name": "Ulmil Pavillion",
+                  "text": "A historic pavilion set on a high stone platform overlooking the Taedong River.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759567,
+                        39.041459
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KP-01",
     coords: [125.76, 39.04],
@@ -195,7 +906,52 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Souvent appelé le 'jardin de la capitale'.", "Un lieu prisé pour les pique-niques et les danses lors des jours fériés.", "Abrite plusieurs monuments et un théâtre de plein air."],
     }, image: "/poi-images/moranbong-park-life-v2.webp"},
   {
-    id: "ryongmun-cave-park-life-v2",
+    id: "ryongmun-cave-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caves in Kujang Area",
+                  "text": "Ein ausgedehntes Kalksteinhöhlensystem mit beeindruckenden Tropfsteinen, das als Naturdenkmal geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        126.11195,
+                        39.85548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caves in Kujang Area",
+                  "text": "Lenyűgöző cseppkövekkel teli mészkőbarlang-rendszer, amely természeti emlékként védett.",
+                  "category": "natural",
+                  "coords": [
+                        126.11195,
+                        39.85548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caves in Kujang Area",
+                  "text": "Un sistem vast de peșteri de calcar cu stalactite impresionante, protejat ca monument al naturii.",
+                  "category": "natural",
+                  "coords": [
+                        126.11195,
+                        39.85548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caves in Kujang Area",
+                  "text": "An extensive limestone cave system featuring impressive stalactites, protected as a natural monument.",
+                  "category": "natural",
+                  "coords": [
+                        126.11195,
+                        39.85548
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KP-03",
     coords: [126.1, 39.8],
@@ -243,7 +999,52 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Connu pour la 'Grotte de Ryongmun'.", "Les grottes sont éclairées et accessibles aux visiteurs.", "La région est également connue pour sa beauté naturelle."],
     }, image: "/poi-images/ryongmun-cave-park-life-v2.webp"},
   {
-    id: "kwail-county-orchards-life-v2",
+    id: "kwail-county-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gwail Market",
+                  "text": "Umgeben von den weiten Obstgärten des Bezirks Kwail ist dieser auf Früchte spezialisierte Markt ein erstklassiger Ort für den Handel mit lokal angebauten saisonalen Ernten.",
+                  "category": "cultural",
+                  "coords": [
+                        125.024578,
+                        38.447428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gwail Market",
+                  "text": "A Kwail megye hatalmas gyümölcsösei által körülvett, gyümölcsökre fókuszáló piac kiváló hely a helyben termesztett szezonális terményekkel való kereskedelemre.",
+                  "category": "cultural",
+                  "coords": [
+                        125.024578,
+                        38.447428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gwail Market",
+                  "text": "Înconjurată de vastele livezi din județul Kwail, această piață axată pe fructe este un loc excelent pentru tranzacționarea recoltelor sezoniere cultivate local.",
+                  "category": "cultural",
+                  "coords": [
+                        125.024578,
+                        38.447428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gwail Market",
+                  "text": "Surrounded by the vast orchards of Kwail County, this fruit-focused market is a prime spot for trading locally grown seasonal harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        125.024578,
+                        38.447428
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KP-06",
     coords: [125.0, 38.4],
@@ -384,7 +1185,124 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Désignée comme site Ramsar d'importance internationale.", "Abrite de grandes populations de limicoles et d'oiseaux d'eau.", "Important pour des espèces comme le bécasseau spatule."],
     }, image: "/poi-images/mundok-migratory-bird-reserve-life-v2.webp"},
   {
-    id: "ryongaksan-pleasure-ground-life-v2",
+    id: "ryongaksan-pleasure-ground-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Taebo",
+                  "text": "Ein Gipfel im Ryongaksan-Park, der für seine dichten Kiefernwälder und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        125.582699,
+                        38.988536
+                  ]
+            },
+            {
+                  "name": "Cheonnae Market",
+                  "text": "Ein traditioneller Marktplatz am Fuße des Berges Ryongak, der die lokalen Berggemeinden versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        125.595944,
+                        38.943432
+                  ]
+            },
+            {
+                  "name": "Cheonjin Market",
+                  "text": "Ein geschäftiger Handelsplatz in der Ryongaksan-Region für frische landwirtschaftliche Erzeugnisse.",
+                  "category": "cultural",
+                  "coords": [
+                        125.560906,
+                        38.931582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Taebo",
+                  "text": "A Ryongaksan-park egyik csúcsa, amely sűrű fenyőerdőiről és túraútvonalairól nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        125.582699,
+                        38.988536
+                  ]
+            },
+            {
+                  "name": "Cheonnae Market",
+                  "text": "Hagyományos piactér a Ryongak-hegy lábánál, amely a helyi hegyi közösségeket szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        125.595944,
+                        38.943432
+                  ]
+            },
+            {
+                  "name": "Cheonjin Market",
+                  "text": "Forgalmas kereskedelmi központ a Ryongaksan-régióban, ahol friss mezőgazdasági termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.560906,
+                        38.931582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Taebo",
+                  "text": "Un vârf din parcul Ryongaksan, cunoscut pentru pădurile sale dese de pini și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        125.582699,
+                        38.988536
+                  ]
+            },
+            {
+                  "name": "Cheonnae Market",
+                  "text": "O piață tradițională la poalele muntelui Ryongak, care deservește comunitățile montane locale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.595944,
+                        38.943432
+                  ]
+            },
+            {
+                  "name": "Cheonjin Market",
+                  "text": "Un centru comercial activ în regiunea Ryongaksan, specializat în produse agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        125.560906,
+                        38.931582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Taebo",
+                  "text": "A peak in the Ryongaksan park known for its dense pine forests and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        125.582699,
+                        38.988536
+                  ]
+            },
+            {
+                  "name": "Cheonnae Market",
+                  "text": "A traditional marketplace at the foot of Mount Ryongak serving local mountain communities.",
+                  "category": "cultural",
+                  "coords": [
+                        125.595944,
+                        38.943432
+                  ]
+            },
+            {
+                  "name": "Cheonjin Market",
+                  "text": "A busy commercial spot in the Ryongaksan region for fresh agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        125.560906,
+                        38.931582
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KP-01",
     coords: [125.6, 39.0],
@@ -526,7 +1444,160 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Élève principalement des carpes et des truites.", "Utilise l'eau pure de la rivière Jangja.", "S'inscrit dans les efforts nationaux pour augmenter la production de poisson."],
     }, image: "/poi-images/changja-river-fish-farm-life-v2.webp"},
   {
-    id: "wonsan-youth-park-life-v2",
+    id: "wonsan-youth-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wonsan Historical Museum",
+                  "text": "Das Historische Museum von Wonsan zeigt faszinierende Ausstellungsstücke, die das tiefe maritime und kulturelle Erbe der Küstenstadt nachzeichnen.",
+                  "category": "museum",
+                  "coords": [
+                        127.432671,
+                        39.171914
+                  ]
+            },
+            {
+                  "name": "Kangwon Provincial Theatre",
+                  "text": "Das Provinztheater Kangwon ist ein bedeutender kultureller Veranstaltungsort, der große dramatische Aufführungen und musikalische Konzerte beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        127.434107,
+                        39.168482
+                  ]
+            },
+            {
+                  "name": "Wonsan Market",
+                  "text": "Der Wonsan-Markt ist ein weitläufiger Freiluftbasar, der überquillt vor frischen Meeresfrüchten, die direkt aus dem nahen Ostmeer gefangen wurden.",
+                  "category": "cultural",
+                  "coords": [
+                        127.422089,
+                        39.154552
+                  ]
+            },
+            {
+                  "name": "Haebang 2 Bath House",
+                  "text": "Das Badehaus Haebang 2 ist eine traditionelle öffentliche Einrichtung, in der sich die Bewohner zum Heißwasserbaden und zum geselligen Beisammensein treffen.",
+                  "category": "recreational",
+                  "coords": [
+                        127.436435,
+                        39.168443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wonsan Historical Museum",
+                  "text": "A Vonszani Történeti Múzeum lenyűgöző kiállításai a part menti város mélyreható tengerészeti és kulturális örökségét mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        127.432671,
+                        39.171914
+                  ]
+            },
+            {
+                  "name": "Kangwon Provincial Theatre",
+                  "text": "A Kangvon Tartományi Színház egy kiemelkedő kulturális helyszín, amely nagyszabású drámai előadásoknak és zenei koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        127.434107,
+                        39.168482
+                  ]
+            },
+            {
+                  "name": "Wonsan Market",
+                  "text": "A Vonszani piac egy hatalmas szabadtéri bazár, amely zsúfolásig tele van a közeli Keleti-tengerből frissen fogott tenger gyümölcseivel.",
+                  "category": "cultural",
+                  "coords": [
+                        127.422089,
+                        39.154552
+                  ]
+            },
+            {
+                  "name": "Haebang 2 Bath House",
+                  "text": "A Haebang 2 fürdőház egy hagyományos nyilvános létesítmény, ahol a lakosok forró vizes fürdőzésre és társalgásra gyűlnek össze.",
+                  "category": "recreational",
+                  "coords": [
+                        127.436435,
+                        39.168443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wonsan Historical Museum",
+                  "text": "Muzeul Istoric Wonsan expune colecții captivante care urmăresc patrimoniul maritim și cultural profund al orașului de coastă.",
+                  "category": "museum",
+                  "coords": [
+                        127.432671,
+                        39.171914
+                  ]
+            },
+            {
+                  "name": "Kangwon Provincial Theatre",
+                  "text": "Teatrul Provincial Kangwon este un loc cultural proeminent care găzduiește spectacole dramatice la scară largă și concerte muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        127.434107,
+                        39.168482
+                  ]
+            },
+            {
+                  "name": "Wonsan Market",
+                  "text": "Piața Wonsan este un bazar în aer liber vast, plin de fructe de mare proaspete prinse direct din Marea de Est din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        127.422089,
+                        39.154552
+                  ]
+            },
+            {
+                  "name": "Haebang 2 Bath House",
+                  "text": "Baia Publică Haebang 2 este o facilitate tradițională unde rezidenții se adună pentru băi fierbinți și socializare.",
+                  "category": "recreational",
+                  "coords": [
+                        127.436435,
+                        39.168443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wonsan Historical Museum",
+                  "text": "Wonsan Historical Museum displays compelling exhibits that trace the deep maritime and cultural heritage of the coastal city.",
+                  "category": "museum",
+                  "coords": [
+                        127.432671,
+                        39.171914
+                  ]
+            },
+            {
+                  "name": "Kangwon Provincial Theatre",
+                  "text": "The Kangwon Provincial Theatre is a prominent cultural venue hosting large-scale dramatic performances and musical concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        127.434107,
+                        39.168482
+                  ]
+            },
+            {
+                  "name": "Wonsan Market",
+                  "text": "Wonsan Market is an expansive outdoor bazaar overflowing with fresh seafood caught directly from the nearby East Sea.",
+                  "category": "cultural",
+                  "coords": [
+                        127.422089,
+                        39.154552
+                  ]
+            },
+            {
+                  "name": "Haebang 2 Bath House",
+                  "text": "Haebang 2 Bath House is a traditional public facility where residents gather for hot-water bathing and socialization.",
+                  "category": "recreational",
+                  "coords": [
+                        127.436435,
+                        39.168443
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KP-07",
     coords: [127.43, 39.16],
@@ -574,7 +1645,484 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Situé à proximité du port de Wonsan.", "Prisé pour les promenades nocturnes et les rencontres sociales.", "Contient souvent des statues et des slogans."],
     }, image: "/poi-images/wonsan-youth-park-life-v2.webp"},
   {
-    id: "mankyongdae-funfair-life-v2",
+    id: "mankyongdae-funfair-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"Tram of Happiness\" Group Sculpture",
+                  "text": "Eine Skulpturengruppe in der Nähe von Mangyongdae, die den öffentlichen Nahverkehr Nordkoreas ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        125.658137,
+                        39.014605
+                  ]
+            },
+            {
+                  "name": "Ssirum Wrestling Field",
+                  "text": "Ein Sandplatz im Freien, der für traditionelle koreanische Ringkämpfe (Ssirum) genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663035,
+                        38.992305
+                  ]
+            },
+            {
+                  "name": "Chilgol Church",
+                  "text": "Eine protestantische Kirche, die in der Nähe des Geburtsortes von Kim Il-sung wiederaufgebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        125.675291,
+                        39.031882
+                  ]
+            },
+            {
+                  "name": "Chilgol Revolutionary Museum",
+                  "text": "Ein Museum in Chilgol, das Kang Pan-sok, der Mutter von Kim Il-sung, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        125.67833,
+                        39.029155
+                  ]
+            },
+            {
+                  "name": "Museum of Youth Movement",
+                  "text": "Ein modernes Ausstellungszentrum, das die Geschichte und Aktivitäten der nordkoreanischen Jugendorganisationen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        125.680537,
+                        39.028597
+                  ]
+            },
+            {
+                  "name": "Zirkus Pjöngjang",
+                  "text": "Ein markantes Rundtheater, das für seine spektakulären Trapezkünstler und Akrobatikshows weltberühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        125.686129,
+                        39.028072
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Funfair",
+                  "text": "Ein großer Freizeitpark in Pjöngjang mit Achterbahnen, einem Riesenrad und verschiedenen Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        125.651554,
+                        39.000507
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Water Park",
+                  "text": "Ein weitläufiger Komplex mit mehreren Schwimmbecken und Wasserrutschen in der Nähe von Mangyongdae.",
+                  "category": "recreational",
+                  "coords": [
+                        125.652632,
+                        38.997963
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Revolutionary Historic Site",
+                  "text": "Ein weitläufiges Areal mit Denkmälern und Gedenkstätten zur Revolutionsgeschichte der Familie Kim.",
+                  "category": "landmark",
+                  "coords": [
+                        125.656769,
+                        38.991283
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Native House (Kim Il Sung's Family Home)",
+                  "text": "Ein traditionelles strohgedecktes Bauernhaus, das als der Geburtsort von Kim Il-sung verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        125.658454,
+                        38.991449
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Revolutionary Museum",
+                  "text": "Dieses Museum in der Nähe des Geburtsortes von Kim Il-sung zeigt Relikte aus seiner Kindheit.",
+                  "category": "museum",
+                  "coords": [
+                        125.656775,
+                        38.9929
+                  ]
+            },
+            {
+                  "name": "Potonggang Bridge",
+                  "text": "Diese im April 1975 fertiggestellte Brücke führt über den Fluss Potong.",
+                  "category": "landmark",
+                  "coords": [
+                        125.696836,
+                        39.002607
+                  ]
+            },
+            {
+                  "name": "Korean People's Army Armament and Equipment Museum",
+                  "text": "Ein umfangreiches Museum, das die militärische Ausrüstung und Bewaffnung der Volksarmee zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        125.67744,
+                        39.005801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"Tram of Happiness\" Group Sculpture",
+                  "text": "Szoborcsoport Mangyongdae közelében, amely az észak-koreai tömegközlekedés előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        125.658137,
+                        39.014605
+                  ]
+            },
+            {
+                  "name": "Ssirum Wrestling Field",
+                  "text": "Szabadtéri homokos küzdőtér, amelyet hagyományos koreai birkózómérkőzésekre (Ssirum) használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.663035,
+                        38.992305
+                  ]
+            },
+            {
+                  "name": "Chilgol Church",
+                  "text": "Protestáns templom, amelyet Kim Ir Szen szülőhelyének közelében építettek újjá.",
+                  "category": "religious",
+                  "coords": [
+                        125.675291,
+                        39.031882
+                  ]
+            },
+            {
+                  "name": "Chilgol Revolutionary Museum",
+                  "text": "Csilgol múzeuma, amelyet Kang Pan-szoknak, Kim Ir Szen édesanyjának emlékére alapítottak.",
+                  "category": "museum",
+                  "coords": [
+                        125.67833,
+                        39.029155
+                  ]
+            },
+            {
+                  "name": "Museum of Youth Movement",
+                  "text": "Modern kiállítóhely, amely az észak-koreai ifjúsági szervezetek történetét és tevékenységét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.680537,
+                        39.028597
+                  ]
+            },
+            {
+                  "name": "Pyongyang Circus",
+                  "text": "Jellegzetes körszínház, amely világhírű a látványos trapézművészeiről és akrobatikus show-iról.",
+                  "category": "cultural",
+                  "coords": [
+                        125.686129,
+                        39.028072
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Funfair",
+                  "text": "Pjöngjangi nagy vidámpark hullámvasutakkal, óriáskerékkel és különböző szórakoztató játékokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        125.651554,
+                        39.000507
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Water Park",
+                  "text": "Kiterjedt komplexum több úszómedencével és csúszdával Mangyongdae közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        125.652632,
+                        38.997963
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Revolutionary Historic Site",
+                  "text": "Kiterjedt terület emlékművekkel, amely a Kim-család forradalmi történetének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        125.656769,
+                        38.991283
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Native House (Kim Il Sung's Family Home)",
+                  "text": "Hagyományos nádfedeles parasztház, amelyet Kim Ir Szen szülőhelyeként tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.658454,
+                        38.991449
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Revolutionary Museum",
+                  "text": "Ez a múzeum Kim Ir Szen szülőhelyének közelében található, és gyermekkorának emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.656775,
+                        38.9929
+                  ]
+            },
+            {
+                  "name": "Potonggang Bridge",
+                  "text": "Ez az 1975 áprilisában elkészült híd a Potong-folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        125.696836,
+                        39.002607
+                  ]
+            },
+            {
+                  "name": "Korean People's Army Armament and Equipment Museum",
+                  "text": "Egy kiterjedt múzeum, amely a Néphadsereg katonai felszereléseit és fegyverzetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.67744,
+                        39.005801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"Tram of Happiness\" Group Sculpture",
+                  "text": "Un grup statuar lângă Mangyongdae, care onorează transportul public din Coreea de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        125.658137,
+                        39.014605
+                  ]
+            },
+            {
+                  "name": "Ssirum Wrestling Field",
+                  "text": "O arenă cu nisip în aer liber, folosită pentru meciuri de lupte tradiționale coreene (Ssirum).",
+                  "category": "landmark",
+                  "coords": [
+                        125.663035,
+                        38.992305
+                  ]
+            },
+            {
+                  "name": "Chilgol Church",
+                  "text": "O biserică protestantă reconstruită în apropierea locului de naștere al lui Kim Ir-sen.",
+                  "category": "religious",
+                  "coords": [
+                        125.675291,
+                        39.031882
+                  ]
+            },
+            {
+                  "name": "Chilgol Revolutionary Museum",
+                  "text": "Un muzeu în Chilgol dedicat lui Kang Pan-sok, mama lui Kim Ir-sen.",
+                  "category": "museum",
+                  "coords": [
+                        125.67833,
+                        39.029155
+                  ]
+            },
+            {
+                  "name": "Museum of Youth Movement",
+                  "text": "Un centru expozițional modern care prezintă istoria și activitățile organizațiilor de tineret din Coreea de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        125.680537,
+                        39.028597
+                  ]
+            },
+            {
+                  "name": "Pyongyang Circus",
+                  "text": "Un teatru circular distinctiv, faimos în întreaga lume pentru acrobațiile spectaculoase și artiștii la trapez.",
+                  "category": "cultural",
+                  "coords": [
+                        125.686129,
+                        39.028072
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Funfair",
+                  "text": "Un parc de distracții mare din Phenian, dotat cu roller coastere, o roată panoramică și diverse atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        125.651554,
+                        39.000507
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Water Park",
+                  "text": "Un complex vast cu mai multe bazine de înot și tobogane cu apă, situat lângă Mangyongdae.",
+                  "category": "recreational",
+                  "coords": [
+                        125.652632,
+                        38.997963
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Revolutionary Historic Site",
+                  "text": "O zonă vastă cu monumente și situri comemorative dedicate istoriei revoluționare a familiei Kim.",
+                  "category": "landmark",
+                  "coords": [
+                        125.656769,
+                        38.991283
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Native House (Kim Il Sung's Family Home)",
+                  "text": "O casă tradițională țărănească cu acoperiș de stuf, venerată ca locul de naștere al lui Kim Ir-sen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.658454,
+                        38.991449
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Revolutionary Museum",
+                  "text": "Acest muzeu situat lângă locul de naștere al lui Kim Ir-sen prezintă relicve din copilăria sa.",
+                  "category": "museum",
+                  "coords": [
+                        125.656775,
+                        38.9929
+                  ]
+            },
+            {
+                  "name": "Potonggang Bridge",
+                  "text": "Acest pod finalizat în aprilie 1975 traversează râul Potong.",
+                  "category": "landmark",
+                  "coords": [
+                        125.696836,
+                        39.002607
+                  ]
+            },
+            {
+                  "name": "Korean People's Army Armament and Equipment Museum",
+                  "text": "Un muzeu extins care expune echipamentul militar și armamentul Armatei Populare.",
+                  "category": "museum",
+                  "coords": [
+                        125.67744,
+                        39.005801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Tram of Happiness\" Group Sculpture",
+                  "text": "A group sculpture near Mangyongdae honoring North Korea's public transportation system.",
+                  "category": "historical",
+                  "coords": [
+                        125.658137,
+                        39.014605
+                  ]
+            },
+            {
+                  "name": "Ssirum Wrestling Field",
+                  "text": "An outdoor sand arena used for traditional Korean wrestling matches (Ssirum).",
+                  "category": "landmark",
+                  "coords": [
+                        125.663035,
+                        38.992305
+                  ]
+            },
+            {
+                  "name": "Chilgol Church",
+                  "text": "A Protestant church reconstructed near the birthplace of Kim Il-sung.",
+                  "category": "religious",
+                  "coords": [
+                        125.675291,
+                        39.031882
+                  ]
+            },
+            {
+                  "name": "Chilgol Revolutionary Museum",
+                  "text": "A museum in Chilgol dedicated to Kang Pan-sok, the mother of Kim Il-sung.",
+                  "category": "museum",
+                  "coords": [
+                        125.67833,
+                        39.029155
+                  ]
+            },
+            {
+                  "name": "Museum of Youth Movement",
+                  "text": "A modern exhibition center showcasing the history and activities of North Korean youth organizations.",
+                  "category": "museum",
+                  "coords": [
+                        125.680537,
+                        39.028597
+                  ]
+            },
+            {
+                  "name": "Pyongyang Circus",
+                  "text": "A distinctive circular theatre world-renowned for its spectacular trapeze acts and acrobatic shows.",
+                  "category": "cultural",
+                  "coords": [
+                        125.686129,
+                        39.028072
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Funfair",
+                  "text": "A large amusement park in Pyongyang featuring roller coasters, a Ferris wheel, and various rides.",
+                  "category": "recreational",
+                  "coords": [
+                        125.651554,
+                        39.000507
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Water Park",
+                  "text": "An extensive complex with several swimming pools and water slides located near Mangyongdae.",
+                  "category": "recreational",
+                  "coords": [
+                        125.652632,
+                        38.997963
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Revolutionary Historic Site",
+                  "text": "A sprawling area with monuments and commemorative sites related to the revolutionary history of the Kim family.",
+                  "category": "landmark",
+                  "coords": [
+                        125.656769,
+                        38.991283
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Native House (Kim Il Sung's Family Home)",
+                  "text": "A traditional thatched-roof farmhouse preserved and revered as the birthplace of Kim Il-sung.",
+                  "category": "landmark",
+                  "coords": [
+                        125.658454,
+                        38.991449
+                  ]
+            },
+            {
+                  "name": "Mangyongdae Revolutionary Museum",
+                  "text": "This museum near Kim Il-sung's birthplace displays relics and exhibits from his early childhood.",
+                  "category": "museum",
+                  "coords": [
+                        125.656775,
+                        38.9929
+                  ]
+            },
+            {
+                  "name": "Potonggang Bridge",
+                  "text": "Completed in April 1975, this bridge spans across the Potong River.",
+                  "category": "landmark",
+                  "coords": [
+                        125.696836,
+                        39.002607
+                  ]
+            },
+            {
+                  "name": "Korean People's Army Armament and Equipment Museum",
+                  "text": "An extensive museum showcasing the military hardware and armament of the People's Army.",
+                  "category": "museum",
+                  "coords": [
+                        125.67744,
+                        39.005801
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "KP-01",
     coords: [125.68, 39.02],
@@ -622,7 +2170,52 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Ouvert en 1982.", "Dispose de montagnes russes, d'une grande roue et d'auto-tamponneuses.", "Reste une attraction populaire malgré son âge."],
     }, image: "/poi-images/mankyongdae-funfair-life-v2.webp"},
   {
-    id: "north-korea-ginseng-farm-kaesong-life-v2",
+    id: "north-korea-ginseng-farm-kaesong-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cheondeoksan Mountain",
+                  "text": "Berggipfel bei Kaesong mit weitem Blick über die nordkoreanische Landschaft und ländliche Ebenen.",
+                  "category": "natural",
+                  "coords": [
+                        126.632896,
+                        37.889716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cheondeoksan Mountain",
+                  "text": "Hegycsúcs Kaesong közelében, kilátással az észak-koreai vidékre és mezőgazdasági síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        126.632896,
+                        37.889716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cheondeoksan Mountain",
+                  "text": "Vârf muntos lângă Kaesong care oferă vederi spre peisajul rural nord-coreean și câmpiile înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        126.632896,
+                        37.889716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheondeoksan Mountain",
+                  "text": "Mountain peak near Kaesong offering views of the North Korean countryside and rural plains.",
+                  "category": "natural",
+                  "coords": [
+                        126.632896,
+                        37.889716
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KP-15",
     coords: [126.6, 37.9],
@@ -718,7 +2311,52 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Fondé en 1960.", "Entièrement rénové et rouvert en 2014.", "Comprend un parc aquatique, des dortoirs et des installations sportives."],
     }, image: "/poi-images/songdowon-international-childrens-camp-life-v2.webp"},
   {
-    id: "taesong-reservoir-fishing-area-life-v2",
+    id: "taesong-reservoir-fishing-area-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Korea Film Studio",
+                  "text": "Das Korea Film Studio ist eine weitläufige Sehenswürdigkeit mit großen Außenkulissen, die für Filmproduktionen genutzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        125.71614,
+                        39.073795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Korea Film Studio",
+                  "text": "A Koreai Filmstúdió egy kiterjedt látványosság, amely filmes produkciókhoz használt nagy szabadtéri díszleteket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        125.71614,
+                        39.073795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Korea Film Studio",
+                  "text": "Studioul de Film Coreean este o atracție vastă cu decoruri mari în aer liber folosite pentru producții cinematografice.",
+                  "category": "landmark",
+                  "coords": [
+                        125.71614,
+                        39.073795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korea Film Studio",
+                  "text": "The Korea Film Studio is a sprawling attraction featuring large outdoor sets used for cinematic productions.",
+                  "category": "landmark",
+                  "coords": [
+                        125.71614,
+                        39.073795
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "KP-04",
     coords: [125.7, 39.1],
@@ -766,7 +2404,52 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Est empoissonné avec diverses espèces de poissons.", "Un lieu de détente prisé par les habitants le week-end.", "L'eau est également utilisée pour l'irrigation."],
     }, image: "/poi-images/taesong-reservoir-fishing-area-life-v2.webp"},
   {
-    id: "kaesong-folklore-park-life-v2",
+    id: "kaesong-folklore-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument to Kim Il Sung and Kim Jong Il",
+                  "text": "Dieses imposante Denkmal in Kaesong zeigt markante Statuen zu Ehren der ehemaligen nordkoreanischen Führer Kim Il-sung und Kim Jong-il.",
+                  "category": "historical",
+                  "coords": [
+                        126.558735,
+                        37.976417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument to Kim Il Sung and Kim Jong Il",
+                  "text": "Ez az impozáns keszongi emlékmű a korábbi észak-koreai vezetők, Kim Ir Szen és Kim Dzsongil tiszteletére emelt kiemelkedő szobrokat tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        126.558735,
+                        37.976417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument to Kim Il Sung and Kim Jong Il",
+                  "text": "Acest monument impunător din Kaesong prezintă statui proeminente care îi onorează pe foștii lideri nord-coreeni Kim Ir-sen și Kim Jong-il.",
+                  "category": "historical",
+                  "coords": [
+                        126.558735,
+                        37.976417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument to Kim Il Sung and Kim Jong Il",
+                  "text": "This imposing monument in Kaesong features prominent statues honoring former North Korean leaders Kim Il Sung and Kim Jong Il.",
+                  "category": "historical",
+                  "coords": [
+                        126.558735,
+                        37.976417
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KP-15",
     coords: [126.56, 37.98],
@@ -811,7 +2494,232 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Présente des répliques de maisons et d'ateliers traditionnels.", "Des acteurs en costumes d'époque y pratiquent des activités traditionnelles.", "Offre un aperçu de l'histoire de la Corée."],
     }, image: "/poi-images/kaesong-folklore-park-life-v2.webp"},
   {
-    id: "samjiyon-potato-farms-life-v2",
+    id: "samjiyon-potato-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rimyeongsu Waterfall",
+                  "text": "Ein malerischer Wasserfall, dessen Wasser direkt aus den Basaltfelsen oberhalb des Rimyeongsu-Flusses entspringt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.254396,
+                        41.72963
+                  ]
+            },
+            {
+                  "name": "Samjiyon Revolutionary Historical Museum",
+                  "text": "Dieses Museum in Samjiyon dokumentiert die Geschichte des antijapanischen Guerillakampfes in der Bergregion.",
+                  "category": "museum",
+                  "coords": [
+                        128.341815,
+                        41.830713
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Ein schwer bewachter Residenzkomplex für die oberste Führung Nordkoreas inmitten der Pinienwälder bei Samjiyon.",
+                  "category": "castle",
+                  "coords": [
+                        128.274663,
+                        41.85752
+                  ]
+            },
+            {
+                  "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
+                  "text": "Ein historischer Ort im Wald, der als geheimes Lager der Guerillakämpfer während des Widerstands diente.",
+                  "category": "landmark",
+                  "coords": [
+                        128.304929,
+                        41.819104
+                  ]
+            },
+            {
+                  "name": "Mt. Paektu Museum",
+                  "text": "Ein Museum, das der Geologie, der Flora und Fauna sowie der kulturellen Bedeutung des heiligen Berges Paektu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        128.32511,
+                        41.799099
+                  ]
+            },
+            {
+                  "name": "Samjiyeon City Market",
+                  "text": "Ein lokaler Marktplatz in der hochgelegenen Stadt Samjiyon, wo Bergbewohner Grundnahrungsmittel und Pelze handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        128.318694,
+                        41.798118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rimyeongsu Waterfall",
+                  "text": "Gleccservíz táplálta festői vízesés, amelynek vize közvetlenül a Rimjongszu-folyó feletti bazaltsziklákból tör elő.",
+                  "category": "landmark",
+                  "coords": [
+                        128.254396,
+                        41.72963
+                  ]
+            },
+            {
+                  "name": "Samjiyon Revolutionary Historical Museum",
+                  "text": "Ez a szamdzsijoni múzeum az antijapán gerillaharcok történetét dokumentálja a hegyvidéki régióban.",
+                  "category": "museum",
+                  "coords": [
+                        128.341815,
+                        41.830713
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Szigorúan őrzött rezidenciakomplexum Észak-Korea legfelsőbb vezetése számára, a Szamdzsijon közeli fenyőerdők mélyén.",
+                  "category": "castle",
+                  "coords": [
+                        128.274663,
+                        41.85752
+                  ]
+            },
+            {
+                  "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
+                  "text": "Erdei történelmi emlékhely, amely a gerillák titkos táboraként szolgált az ellenállás idején.",
+                  "category": "landmark",
+                  "coords": [
+                        128.304929,
+                        41.819104
+                  ]
+            },
+            {
+                  "name": "Mt. Paektu Museum",
+                  "text": "Múzeum, amelyet a szent Pektu-hegy geológiájának, élővilágának és kulturális jelentőségének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        128.32511,
+                        41.799099
+                  ]
+            },
+            {
+                  "name": "Samjiyeon City Market",
+                  "text": "Helyi piactér a magasan fekvő Szamdzsijon városában, ahol a hegyvidéki lakosok élelmiszert és szőrmét cserélnek.",
+                  "category": "cultural",
+                  "coords": [
+                        128.318694,
+                        41.798118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rimyeongsu Waterfall",
+                  "text": "O cascadă pitorească a cărei apă țâșnește direct din stâncile de bazalt de deasupra râului Rimyeongsu.",
+                  "category": "landmark",
+                  "coords": [
+                        128.254396,
+                        41.72963
+                  ]
+            },
+            {
+                  "name": "Samjiyon Revolutionary Historical Museum",
+                  "text": "Acest muzeu din Samjiyon documentează istoria luptei de gherilă anti-japoneze în regiunea muntoasă.",
+                  "category": "museum",
+                  "coords": [
+                        128.341815,
+                        41.830713
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Un complex de rezidență strict păzit pentru conducerea supremă a Coreei de Nord, în mijlocul pădurilor de pini de lângă Samjiyon.",
+                  "category": "castle",
+                  "coords": [
+                        128.274663,
+                        41.85752
+                  ]
+            },
+            {
+                  "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
+                  "text": "Un sit istoric în pădure, care a servit drept tabără secretă pentru luptătorii de gherilă în timpul rezistenței.",
+                  "category": "landmark",
+                  "coords": [
+                        128.304929,
+                        41.819104
+                  ]
+            },
+            {
+                  "name": "Mt. Paektu Museum",
+                  "text": "Un muzeu dedicat geologiei, florei, faunei și semnificației culturale a muntelui sacru Paektu.",
+                  "category": "museum",
+                  "coords": [
+                        128.32511,
+                        41.799099
+                  ]
+            },
+            {
+                  "name": "Samjiyeon City Market",
+                  "text": "O piață locală în orașul de mare altitudine Samjiyon, unde locuitorii muntelui comercializează alimente de bază și blănuri.",
+                  "category": "cultural",
+                  "coords": [
+                        128.318694,
+                        41.798118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rimyeongsu Waterfall",
+                  "text": "A picturesque waterfall where the water springs directly from the basalt rocks above the Rimyeongsu River.",
+                  "category": "landmark",
+                  "coords": [
+                        128.254396,
+                        41.72963
+                  ]
+            },
+            {
+                  "name": "Samjiyon Revolutionary Historical Museum",
+                  "text": "This museum in Samjiyon documents the history of the anti-Japanese guerrilla struggle in the mountain region.",
+                  "category": "museum",
+                  "coords": [
+                        128.341815,
+                        41.830713
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "A strictly guarded residence complex for North Korea's top leadership, set amidst the pine forests near Samjiyon.",
+                  "category": "castle",
+                  "coords": [
+                        128.274663,
+                        41.85752
+                  ]
+            },
+            {
+                  "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
+                  "text": "A historic forest site that served as a secret camp for guerrilla fighters during the resistance movement.",
+                  "category": "landmark",
+                  "coords": [
+                        128.304929,
+                        41.819104
+                  ]
+            },
+            {
+                  "name": "Mt. Paektu Museum",
+                  "text": "A museum dedicated to the geology, flora, fauna, and cultural importance of the sacred Mount Paektu.",
+                  "category": "museum",
+                  "coords": [
+                        128.32511,
+                        41.799099
+                  ]
+            },
+            {
+                  "name": "Samjiyeon City Market",
+                  "text": "A local marketplace in the high-altitude city of Samjiyon, where mountain residents trade staples and furs.",
+                  "category": "cultural",
+                  "coords": [
+                        128.318694,
+                        41.798118
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KP-10",
     coords: [128.3, 41.8],
@@ -859,7 +2767,160 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Les pommes de terre sont un aliment de base important dans cette région.", "Les fermes utilisent des équipements mécanisés et des techniques de culture de tissus.", "Fait partie du projet de développement urbain de Samjiyon."],
     }, image: "/poi-images/samjiyon-potato-farms-life-v2.webp"},
   {
-    id: "kumgang-park-wonsan-life-v2",
+    id: "kumgang-park-wonsan-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kim Jong-un Wonsan Palace",
+                  "text": "Dieser hochgesicherte Küstenrückzugsort verfügt über weitläufige Gärten und einen privaten Hafen.",
+                  "category": "castle",
+                  "coords": [
+                        127.39294,
+                        39.195665
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Die exklusive Regierungsresidenz liegt versteckt in einem bewaldeten Park direkt am Meer.",
+                  "category": "castle",
+                  "coords": [
+                        127.477681,
+                        39.188662
+                  ]
+            },
+            {
+                  "name": "Songdowon Youth Outdoor Theatre",
+                  "text": "Das große Freilufttheater befindet sich in unmittelbarer Nähe zum berühmten Kiefernstrand von Songdowon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.425454,
+                        39.174649
+                  ]
+            },
+            {
+                  "name": "Yonghung Bay",
+                  "text": "Die tiefblaue Bucht am Japanischen Meer ist ein wichtiger strategischer Hafen der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        127.425955,
+                        39.248406
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kim Jong-un Wonsan Palace",
+                  "text": "Ez a szigorúan őrzött tengerparti pihenőhely kiterjedt kertekkel és saját kikötővel rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        127.39294,
+                        39.195665
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Az exkluzív kormányzati rezidencia egy erdős parkban rejlik, közvetlenül a tengerparton.",
+                  "category": "castle",
+                  "coords": [
+                        127.477681,
+                        39.188662
+                  ]
+            },
+            {
+                  "name": "Songdowon Youth Outdoor Theatre",
+                  "text": "A nagy szabadtéri színház a híres szongdowoni fenyves tengerpart közvetlen közelében található.",
+                  "category": "cultural",
+                  "coords": [
+                        127.425454,
+                        39.174649
+                  ]
+            },
+            {
+                  "name": "Yonghung Bay",
+                  "text": "A Japán-tenger mélykék öble a régió egyik fontos stratégiai kikötője.",
+                  "category": "landmark",
+                  "coords": [
+                        127.425955,
+                        39.248406
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kim Jong-un Wonsan Palace",
+                  "text": "Această reședință de coastă strict securizată dispune de grădini vaste și de un port privat.",
+                  "category": "castle",
+                  "coords": [
+                        127.39294,
+                        39.195665
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Această reședință guvernamentală exclusivistă este ascunsă într-un parc împădurit chiar pe malul mării.",
+                  "category": "castle",
+                  "coords": [
+                        127.477681,
+                        39.188662
+                  ]
+            },
+            {
+                  "name": "Songdowon Youth Outdoor Theatre",
+                  "text": "Acest teatru mare în aer liber este situat în imediata apropiere a celebrei plaje cu pini din Songdowon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.425454,
+                        39.174649
+                  ]
+            },
+            {
+                  "name": "Yonghung Bay",
+                  "text": "Acest golf de un albastru profund de la Marea Japoniei este un port strategic important al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        127.425955,
+                        39.248406
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kim Jong-un Wonsan Palace",
+                  "text": "This high-security coastal retreat features extensive gardens and a private harbor.",
+                  "category": "castle",
+                  "coords": [
+                        127.39294,
+                        39.195665
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "This exclusive government residence is tucked away in a forested park directly on the seafront.",
+                  "category": "castle",
+                  "coords": [
+                        127.477681,
+                        39.188662
+                  ]
+            },
+            {
+                  "name": "Songdowon Youth Outdoor Theatre",
+                  "text": "This large open-air theater is located in close proximity to the famous pine-fringed Songdowon beach.",
+                  "category": "cultural",
+                  "coords": [
+                        127.425454,
+                        39.174649
+                  ]
+            },
+            {
+                  "name": "Yonghung Bay",
+                  "text": "This deep blue bay on the East Sea is a major strategic harbor for the region.",
+                  "category": "landmark",
+                  "coords": [
+                        127.425955,
+                        39.248406
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "KP-07",
     coords: [127.42, 39.18],
@@ -904,7 +2965,52 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       fr: ["Offre des sentiers de promenade et une vue sur la mer.", "Accueille souvent des événements publics et des célébrations.", "Dispose de monuments et de pavillons."],
     }, image: "/poi-images/kumgang-park-wonsan-life-v2.webp"},
   {
-    id: "rason-seafood-market-life-v2",
+    id: "rason-seafood-market-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Unggi Bay",
+                  "text": "Die Unggi-Bucht bietet einen weiten Blick über ihr ruhiges Wasser und dient als natürlich geschützte Bucht für lokale Fischerboote.",
+                  "category": "landmark",
+                  "coords": [
+                        130.416544,
+                        42.312303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Unggi Bay",
+                  "text": "Az Unggi-öböl lenyűgöző kilátást nyújt a nyugodt vizére, és természetesen védett kikötőként szolgál a helyi halászhajók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        130.416544,
+                        42.312303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Unggi Bay",
+                  "text": "Golful Unggi oferă priveliști largi asupra apelor sale calme, servind ca o intrare natural protejată pentru bărcile de pescuit locale.",
+                  "category": "landmark",
+                  "coords": [
+                        130.416544,
+                        42.312303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Unggi Bay",
+                  "text": "Unggi Bay offers sweeping views over its calm waters, serving as a naturally sheltered inlet for local fishing boats.",
+                  "category": "landmark",
+                  "coords": [
+                        130.416544,
+                        42.312303
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "KP-14",
     coords: [130.3, 42.3],

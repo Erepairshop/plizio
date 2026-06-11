@@ -52,7 +52,7 @@ export const hungaryReliefV2: POI[] = [
       "de": [
             {
                   "name": "Vendéghy-kúria",
-                  "text": "Ein historisches Herrenhaus in der Hügellandschaft des Cserehát.",
+                  "text": "Vendéghy-kúria, Herrenhaus in Cserehati Dombsag, erbaut 1822.",
                   "category": "castle",
                   "coords": [
                         20.972699,
@@ -63,7 +63,7 @@ export const hungaryReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Vendéghy-kúria",
-                  "text": "Történelmi kúria a Cserehát dombjai között.",
+                  "text": "Vendéghy-kúria, kúria a Csereháti-dombságban, épült 1822-ben.",
                   "category": "castle",
                   "coords": [
                         20.972699,
@@ -74,7 +74,7 @@ export const hungaryReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Vendéghy-kúria",
-                  "text": "Un conac istoric situat în zona colinară Cserehát.",
+                  "text": "Vendéghy-kúria, conac în Cserehati Dombsag, construit în 1822.",
                   "category": "castle",
                   "coords": [
                         20.972699,
@@ -85,7 +85,7 @@ export const hungaryReliefV2: POI[] = [
       "en": [
             {
                   "name": "Vendéghy-kúria",
-                  "text": "A historic manor house located in the Cserehát Hills.",
+                  "text": "Vendéghy-kúria, manor house in Cserehati Dombsag, built in 1822.",
                   "category": "castle",
                   "coords": [
                         20.972699,

@@ -1332,7 +1332,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
       "de": [
             {
                   "name": "Naos Agamnenon",
-                  "text": "Eine archäologische Stätte bei Mykene.",
+                  "text": "Agamemnoneion, ein dem Agamemnon geweihtes Heiligtum nahe dem Löwentor von Mykene.",
                   "category": "historical",
                   "coords": [
                         22.753468,
@@ -1341,7 +1341,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Okhuromatikos Purgos Phikhtion",
-                  "text": "Eine archäologische Fundstätte bei Mykene.",
+                  "text": "Fichtia-Blockhaus, ein mykenischer Wachposten nahe dem Löwentor von Mykene.",
                   "category": "historical",
                   "coords": [
                         22.720658,
@@ -1350,7 +1350,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Gräberrund A",
-                  "text": "Ein berühmter Grabzirkel aus der mykenischen Zeit.",
+                  "text": "Königlicher Grabkreis in Mykene, entdeckt von Schliemann, bekannt für die Maske des Agamemnon.",
                   "category": "historical",
                   "coords": [
                         22.756444,
@@ -1359,7 +1359,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Akropolis von Mykene",
-                  "text": "Die Akropolis der antiken Stadt Mykene.",
+                  "text": "Akropolis von Mykene, die befestigte Zitadelle mit dem Löwentor und den Königsgräbern.",
                   "category": "historical",
                   "coords": [
                         22.757713,
@@ -1377,7 +1377,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Prosymna Tholos Tomb",
-                  "text": "Ein mykenisches Kuppelgrab bei Mykene.",
+                  "text": "Prosymna Tholosgrab, mykenisches Kuppelgrab nahe dem Löwentor von Mykene.",
                   "category": "historical",
                   "coords": [
                         22.769878,
@@ -1386,7 +1386,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Oikia ton Sphiggon",
-                  "text": "Ruinen eines antiken Hauses in Mykene.",
+                  "text": "Sphinx-Haus, ein mykenisches Gebäude mit einem Sphinx-Fresko nahe dem Löwentor.",
                   "category": "historical",
                   "coords": [
                         22.754837,
@@ -1397,7 +1397,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
       "hu": [
             {
                   "name": "Naos Agamnenon",
-                  "text": "Régészeti lelőhely Mükénénél.",
+                  "text": "Agamemnoneion, egy Agamemnónnak szentelt szentély Mükéné Oroszlánkapuja közelében.",
                   "category": "historical",
                   "coords": [
                         22.753468,
@@ -1406,7 +1406,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Okhuromatikos Purgos Phikhtion",
-                  "text": "Régészeti helyszín Mükéné közelében.",
+                  "text": "Fichtia blokkház, egy mükénéi őrposzt Mükéné Oroszlánkapuja közelében.",
                   "category": "historical",
                   "coords": [
                         22.720658,
@@ -1415,7 +1415,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Taphikos kuklos A",
-                  "text": "Híres mükénéi sírkör.",
+                  "text": "Királyi sírkör Mükénében, Schliemann fedezte fel, híres Agamemnón maszkjáról.",
                   "category": "historical",
                   "coords": [
                         22.756444,
@@ -1424,7 +1424,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Akropole των Μυκηνών",
-                  "text": "Az ókori Mükéné akropolisza.",
+                  "text": "Mükéné akropolisza, az erődített fellegvár az Oroszlánkapuval és a királysírokkal.",
                   "category": "historical",
                   "coords": [
                         22.757713,
@@ -1442,7 +1442,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Prosymna Tholos Tomb",
-                  "text": "Mükénéi tholosz-sírhely.",
+                  "text": "Prosymna tholosz-sír, mükénéi kuppelgrab a Mükénéi Oroszlánkapu közelében.",
                   "category": "historical",
                   "coords": [
                         22.769878,
@@ -1451,7 +1451,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Oikia ton Sphiggon",
-                  "text": "Egy ókori ház romjai Mükénében.",
+                  "text": "Szfinx-ház, egy mükénéi épület szfinx freskóval az Oroszlánkapu közelében.",
                   "category": "historical",
                   "coords": [
                         22.754837,
@@ -1462,7 +1462,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
       "ro": [
             {
                   "name": "Naos Agamnenon",
-                  "text": "Un sit arheologic lângă Micene.",
+                  "text": "Agamemnoneion, un sanctuar dedicat lui Agamemnon lângă Poarta Leilor din Micene.",
                   "category": "historical",
                   "coords": [
                         22.753468,
@@ -1471,7 +1471,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Okhuromatikos Purgos Phikhtion",
-                  "text": "Un sit arheologic situat lângă Micene.",
+                  "text": "Blockhaus Fichtia, un post de gardă micenian lângă Poarta Leilor din Micene.",
                   "category": "historical",
                   "coords": [
                         22.720658,
@@ -1480,7 +1480,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Taphikos kuklos A",
-                  "text": "Un cerc funerar celebru din perioada miceniană.",
+                  "text": "Cerc funerar regal la Micene, descoperit de Schliemann, celebru pentru masca lui Agamemnon.",
                   "category": "historical",
                   "coords": [
                         22.756444,
@@ -1489,7 +1489,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Akropole των Μυκηνών",
-                  "text": "Acropola vechiului oraș Micene.",
+                  "text": "Acropola Micenei, cetatea fortificată cu Poarta Leilor și mormintele regale.",
                   "category": "historical",
                   "coords": [
                         22.757713,
@@ -1507,7 +1507,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Prosymna Tholos Tomb",
-                  "text": "Un mormânt micenian de tip tholos lângă Micene.",
+                  "text": "Mormântul tholos Prosymna, o construcție miceniană lângă Poarta Leilor din Micene.",
                   "category": "historical",
                   "coords": [
                         22.769878,
@@ -1516,7 +1516,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Oikia ton Sphiggon",
-                  "text": "Ruinele unei case antice în Micene.",
+                  "text": "Casa Sfinxului, o clădire miceniană cu frescă a sfinxului lângă Poarta Leilor.",
                   "category": "historical",
                   "coords": [
                         22.754837,
@@ -1527,7 +1527,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
       "en": [
             {
                   "name": "Agamemnoneion of Mycenae",
-                  "text": "An archaeological site located near Mycenae.",
+                  "text": "Agamemnoneion, a sanctuary dedicated to Agamemnon near the Lion Gate of Mycenae.",
                   "category": "historical",
                   "coords": [
                         22.753468,
@@ -1536,7 +1536,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Fichtia Blockhouse",
-                  "text": "An archaeological site located near Mycenae.",
+                  "text": "Fichtia blockhouse, a Mycenaean guard post near the Lion Gate of Mycenae.",
                   "category": "historical",
                   "coords": [
                         22.720658,
@@ -1545,7 +1545,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Grave Circle A",
-                  "text": "A famous royal cemetery from the Mycenaean period.",
+                  "text": "Royal burial circle at Mycenae, discovered by Schliemann, famous for the Mask of Agamemnon.",
                   "category": "historical",
                   "coords": [
                         22.756444,
@@ -1554,7 +1554,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Acropolis of Mycenae",
-                  "text": "The acropolis of the ancient city of Mycenae.",
+                  "text": "Acropolis of Mycenae, the fortified citadel with the Lion Gate and royal tombs.",
                   "category": "historical",
                   "coords": [
                         22.757713,
@@ -1572,7 +1572,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Prosymna Tholos Tomb",
-                  "text": "A Mycenaean tholos tomb located near Mycenae.",
+                  "text": "Prosymna tholos tomb, a Mycenaean beehive tomb near Lion Gate Mycenae.",
                   "category": "historical",
                   "coords": [
                         22.769878,
@@ -1581,7 +1581,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
             },
             {
                   "name": "Sphinx House",
-                  "text": "Ruins of an ancient house in Mycenae.",
+                  "text": "Sphinx House, a Mycenaean building with a sphinx fresco near the Lion Gate.",
                   "category": "historical",
                   "coords": [
                         22.754837,
@@ -2747,7 +2747,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Notiodutike Nekropole Arkhaias Ambrakias",
-                  "text": "Ein bedeutender antiker Friedhof in Arta, der zur Stadt Ambrakia gehörte.",
+                  "text": "Nordwest-Friedhof der antiken Stadt Amvrakia nahe der Brücke von Arta.",
                   "category": "historical",
                   "coords": [
                         20.982852,
@@ -2821,7 +2821,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Notiodutike Nekropole Arkhaias Ambrakias",
-                  "text": "Jelentős ókori temető Artában, amely az egykori Amvrakia városhoz tartozott.",
+                  "text": "Ókori Amvrakia északnyugati temetője az artai híd közelében.",
                   "category": "historical",
                   "coords": [
                         20.982852,
@@ -2895,7 +2895,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Notiodutike Nekropole Arkhaias Ambrakias",
-                  "text": "Un cimitir antic important din Arta, care a aparținut orașului Amvrakia.",
+                  "text": "Cimitirul nord-vestic al cetății antice Amvrakia, lângă Podul Arta.",
                   "category": "historical",
                   "coords": [
                         20.982852,
@@ -2969,7 +2969,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "North-West Graveyard of the Ancient Amvrakia City",
-                  "text": "A significant ancient graveyard in Arta that belonged to the city of Amvrakia.",
+                  "text": "North-west necropolis of ancient Amvrakia near the Bridge of Arta.",
                   "category": "historical",
                   "coords": [
                         20.982852,
@@ -3552,7 +3552,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Γρίμποβο",
-                  "text": "Ein beliebter Stadtstrand mit vielen Cafés und Platanen.",
+                  "text": "Grimbovo, ein Strand unterhalb der Burg von Nafpaktos.",
                   "category": "recreational",
                   "coords": [
                         21.835864,
@@ -3581,7 +3581,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Γρίμποβο",
-                  "text": "Népszerű városi strand számos kávézóval és platánfákkal.",
+                  "text": "Grimbovo, egy strand a nafpaktoszi vár alatt.",
                   "category": "recreational",
                   "coords": [
                         21.835864,
@@ -3610,7 +3610,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Γρίμποβο",
-                  "text": "O plajă urbană populară, cu numeroase cafenele și platani.",
+                  "text": "Grimbovo, o plajă sub castelul Nafpaktos.",
                   "category": "recreational",
                   "coords": [
                         21.835864,
@@ -3639,7 +3639,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Γρίμποβο",
-                  "text": "A popular city beach with many cafes and plane trees.",
+                  "text": "Grimbovo, a beach below the castle of Nafpaktos.",
                   "category": "recreational",
                   "coords": [
                         21.835864,
@@ -3730,7 +3730,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Open Air Sanctuary",
-                  "text": "Überreste eines antiken griechischen Heiligtums unter freiem Himmel.",
+                  "text": "Antikes Freiluftheiligtum neben der Panagia Ekatontapyliani Kirche.",
                   "category": "historical",
                   "coords": [
                         25.155135,
@@ -3822,7 +3822,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Open Air Sanctuary",
-                  "text": "Egy ókori görög szabadtéri szentély maradványai.",
+                  "text": "Ókori szabadtéri szentély a Panagia Ekatontapyliani templom mellett.",
                   "category": "historical",
                   "coords": [
                         25.155135,
@@ -3914,7 +3914,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Open Air Sanctuary",
-                  "text": "Rămășițele unui sanctuar grecesc antic în aer liber.",
+                  "text": "Sanctuar antic în aer liber lângă biserica Panagia Ekatontapyliani.",
                   "category": "historical",
                   "coords": [
                         25.155135,
@@ -4006,7 +4006,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
             },
             {
                   "name": "Open Air Sanctuary",
-                  "text": "Remains of an ancient Greek open-air sanctuary.",
+                  "text": "Ancient open-air sanctuary adjacent to the Panagia Ekatontapyliani church.",
                   "category": "historical",
                   "coords": [
                         25.155135,

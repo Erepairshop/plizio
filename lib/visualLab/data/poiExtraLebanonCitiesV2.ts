@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraLebanonCitiesV2: POI[] = [
   {
-    id: "beirut-cities-v2",
+    id: "beirut-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Landmark",
+                  "text": "Diese ursprünglich von dem Architekten Jean Nouvel entworfene, ehrgeizige Bebauung in Beirut steht heute als unvollendete, zerstörte Betonstruktur da.",
+                  "category": "historical",
+                  "coords": [
+                        35.503345,
+                        33.894638
+                  ]
+            },
+            {
+                  "name": "National Evangelical Church of Beirut",
+                  "text": "Die 1869 erbaute, historische Steinkirche ist das Zentrum der arabischsprachigen protestantischen Gemeinde in Beirut.",
+                  "category": "religious",
+                  "coords": [
+                        35.501422,
+                        33.894753
+                  ]
+            },
+            {
+                  "name": "Zuqaq al Blat Mosque",
+                  "text": "Diese Moschee befindet sich im historischen Viertel Zuqaq al Blat in Beirut und besticht durch elegante traditionelle Steinmetzarbeiten und ein schlankes Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        35.498731,
+                        33.894181
+                  ]
+            },
+            {
+                  "name": "Saint Nishan Armenian Orthodox Church",
+                  "text": "Dieses kunstvolle christliche Gotteshaus in Beirut ist ein spirituelles Zentrum für die lebendige armenisch-orthodoxe Gemeinde der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500398,
+                        33.895192
+                  ]
+            },
+            {
+                  "name": "El Zahraa Mosque",
+                  "text": "Diese Moschee dient den muslimischen Einwohnern Beiruts und bietet einen ruhigen, mit Kacheln verzierten Gebetssaal inmitten des städtischen Trubels.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500534,
+                        33.892123
+                  ]
+            },
+            {
+                  "name": "Basta Al Fawqua Mosque",
+                  "text": "Diese große Moschee liegt prominent im Beiruter Stadtteil Basta und verfügt über ein imposantes Minarett, das die lokale Skyline prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504025,
+                        33.886317
+                  ]
+            },
+            {
+                  "name": "Basta Al Tahta Mosquee",
+                  "text": "Diese traditionelle muslimische Moschee befindet sich im unteren Basta-Viertel von Beirut und fungiert als täglicher Treffpunkt für die dicht besiedelte Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502523,
+                        33.888301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Landmark",
+                  "text": "Az eredetileg Jean Nouvel építész által tervezett nagyszabású bejrúti projekt mára egy befejezetlen, romos betonszerkezetként áll.",
+                  "category": "historical",
+                  "coords": [
+                        35.503345,
+                        33.894638
+                  ]
+            },
+            {
+                  "name": "National Evangelical Church of Beirut",
+                  "text": "Az 1869-ben épült történelmi kőtemplom a bejrúti arab nyelvű protestáns gyülekezet központja.",
+                  "category": "religious",
+                  "coords": [
+                        35.501422,
+                        33.894753
+                  ]
+            },
+            {
+                  "name": "Zuqaq al Blat Mosque",
+                  "text": "A történelmi bejrúti Zuqaq al Blat negyedben található mecset elegáns hagyományos kőfaragásokkal és egy karcsú minarettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.498731,
+                        33.894181
+                  ]
+            },
+            {
+                  "name": "Saint Nishan Armenian Orthodox Church",
+                  "text": "Ez a díszes keresztény bejrúti imahely a város nyüzsgő örmény ortodox közösségének szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500398,
+                        33.895192
+                  ]
+            },
+            {
+                  "name": "El Zahraa Mosque",
+                  "text": "A bejrúti muszlim lakosokat szolgáló mecset nyugodt, csempékkel díszített imatermet kínál a városi forgatag közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500534,
+                        33.892123
+                  ]
+            },
+            {
+                  "name": "Basta Al Fawqua Mosque",
+                  "text": "A bejrúti Basta negyedben kiemelkedő helyen álló nagy mecset impozáns minaretje meghatározza a helyi látképet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504025,
+                        33.886317
+                  ]
+            },
+            {
+                  "name": "Basta Al Tahta Mosquee",
+                  "text": "A bejrúti alsó Basta negyedben található hagyományos muszlim mecset a sűrűn lakott környék napi találkozóhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502523,
+                        33.888301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Landmark",
+                  "text": "Proiectată inițial de arhitectul Jean Nouvel, această dezvoltare ambițioasă din Beirut se prezintă astăzi ca o structură de beton ruinată și neterminată.",
+                  "category": "historical",
+                  "coords": [
+                        35.503345,
+                        33.894638
+                  ]
+            },
+            {
+                  "name": "National Evangelical Church of Beirut",
+                  "text": "Construită în 1869, această biserică istorică din piatră este centrul congregației protestante de limbă arabă din Beirut.",
+                  "category": "religious",
+                  "coords": [
+                        35.501422,
+                        33.894753
+                  ]
+            },
+            {
+                  "name": "Zuqaq al Blat Mosque",
+                  "text": "Situată în cartierul istoric Zuqaq al Blat din Beirut, această moschee are lucrări elegante tradiționale în piatră și un minaret zvelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.498731,
+                        33.894181
+                  ]
+            },
+            {
+                  "name": "Saint Nishan Armenian Orthodox Church",
+                  "text": "Acest lăcaș de cult creștin ornamentat din Beirut este un centru spiritual pentru vibranta comunitate ortodoxă armeană a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500398,
+                        33.895192
+                  ]
+            },
+            {
+                  "name": "El Zahraa Mosque",
+                  "text": "Deservind rezidenții musulmani din Beirut, această moschee oferă o sală de rugăciune liniștită, decorată cu plăci ceramice, în mijlocul agitației urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500534,
+                        33.892123
+                  ]
+            },
+            {
+                  "name": "Basta Al Fawqua Mosque",
+                  "text": "Situată vizibil în cartierul Basta din Beirut, această mare moschee are un minaret impunător care marchează orizontul local.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504025,
+                        33.886317
+                  ]
+            },
+            {
+                  "name": "Basta Al Tahta Mosquee",
+                  "text": "Aflată în cartierul inferior Basta din Beirut, această moschee tradițională musulmană acționează ca un loc de adunare zilnică pentru cartierul local dens.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502523,
+                        33.888301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Landmark",
+                  "text": "Originally designed by architect Jean Nouvel, this ambitious Beirut development now stands as an incomplete, ruined concrete structure.",
+                  "category": "historical",
+                  "coords": [
+                        35.503345,
+                        33.894638
+                  ]
+            },
+            {
+                  "name": "National Evangelical Church of Beirut",
+                  "text": "Built in 1869, this historic stone church is the center of the Arabic-speaking Protestant congregation in Beirut.",
+                  "category": "religious",
+                  "coords": [
+                        35.501422,
+                        33.894753
+                  ]
+            },
+            {
+                  "name": "Zuqaq al Blat Mosque",
+                  "text": "Located in the historic Zuqaq al Blat neighborhood of Beirut, this mosque features elegant traditional stonework and a slender minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.498731,
+                        33.894181
+                  ]
+            },
+            {
+                  "name": "Saint Nishan Armenian Orthodox Church",
+                  "text": "This ornate Christian place of worship in Beirut is a spiritual hub for the city's vibrant Armenian Orthodox community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500398,
+                        33.895192
+                  ]
+            },
+            {
+                  "name": "El Zahraa Mosque",
+                  "text": "Serving Beirut's Muslim residents, this mosque offers a tranquil, tile-decorated prayer hall amidst the city's urban bustle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.500534,
+                        33.892123
+                  ]
+            },
+            {
+                  "name": "Basta Al Fawqua Mosque",
+                  "text": "Prominently situated in the Basta neighborhood of Beirut, this large mosque features an imposing minaret that punctuates the local skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504025,
+                        33.886317
+                  ]
+            },
+            {
+                  "name": "Basta Al Tahta Mosquee",
+                  "text": "Located in the lower Basta district of Beirut, this traditional Muslim mosque acts as a daily gathering place for the dense local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        35.502523,
+                        33.888301
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "LB-BA",
     coords: [35.5018, 33.8938],
@@ -56,7 +317,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Qala'at Tarablus",
-                  "text": "Qala'at Tarablus ist eine historische Zitadelle in der Stadt Tripoli.",
+                  "text": "Große Kreuzfahrerburg, die die Stadt Tripolis überragt.",
                   "category": "castle",
                   "coords": [
                         35.844477,
@@ -65,7 +326,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Löwenturm",
-                  "text": "Lion Tower ist ein Schloss in der Stadt Tripoli.",
+                  "text": "Mamlukischer Turm aus dem 14.–15. Jahrhundert mit Löwenreliefs in Tripolis.",
                   "category": "castle",
                   "coords": [
                         35.830624,
@@ -74,7 +335,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Safadi Cultural Centre",
-                  "text": "Safadi Cultural Centre ist ein Theater in der Stadt Tripoli.",
+                  "text": "Safadi Kulturzentrum in Tripolis, Veranstaltungsort für Kunstausstellungen und Konzerte.",
                   "category": "cultural",
                   "coords": [
                         35.827428,
@@ -83,7 +344,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Syndicate of Engineers",
-                  "text": "Syndicate of Engineers ist ein Theater in der Stadt Tripoli.",
+                  "text": "Syndikat der Ingenieure in Tripolis, ein architektonisches Wahrzeichen mit prunkvoller Fassade.",
                   "category": "cultural",
                   "coords": [
                         35.82517,
@@ -92,7 +353,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Dado land",
-                  "text": "Dado land ist ein Freizeitpark in der Stadt Tripoli.",
+                  "text": "Dado Land, ein Vergnügungspark in Tripolis mit Fahrgeschäften und Wasserattraktionen.",
                   "category": "family",
                   "coords": [
                         35.807821,
@@ -101,7 +362,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Nawfal Palace",
-                  "text": "Nawfal Palace ist ein Schloss in der Stadt Tripoli.",
+                  "text": "Nawfal-Palast, ein historisches Schloss in Tripolis mit osmanischer Architektur.",
                   "category": "castle",
                   "coords": [
                         35.83746,
@@ -110,7 +371,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Palace",
-                  "text": "قصر ist ein Schloss in der Stadt Tripoli.",
+                  "text": "Palast, eine ehemalige königliche Residenz in Tripolis, heute Museum.",
                   "category": "castle",
                   "coords": [
                         35.820566,
@@ -119,7 +380,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Abdulhamid Clocktower",
-                  "text": "Sultan Abdulhamid Clocktower ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "text": "Sultan-Abdulhamid-Uhr in Tripolis, ein osmanischer Uhrturm aus dem 19. Jahrhundert.",
                   "category": "landmark",
                   "coords": [
                         35.838456,
@@ -128,7 +389,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Wade'i Mosque",
-                  "text": "مسجد الوديع ist ein Monument in der Stadt Tripoli.",
+                  "text": "Al-Wade'i-Moschee in Tripolis, eine historische Moschee mit kunstvollen Fliesenarbeiten.",
                   "category": "historical",
                   "coords": [
                         35.850557,
@@ -137,7 +398,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Ezzeldine",
-                  "text": "Hammam Ezzeldine ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "text": "Hammam Ezzeldine, ein historisches Bad in Tripolis mit traditionellen Dampfbädern.",
                   "category": "landmark",
                   "coords": [
                         35.845186,
@@ -146,7 +407,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Rachid Karami International Fair (RKIF)",
-                  "text": "Rachid Karami International Fair (RKIF) ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "text": "Rachid Karami International Fair (RKIF) in Tripolis, ein moderner Ausstellungskomplex, entworfen von Oscar Niemeyer.",
                   "category": "landmark",
                   "coords": [
                         35.825991,
@@ -155,7 +416,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al Saboun Caravanserai",
-                  "text": "Al Saboun Caravanserai ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "text": "Historische Karawanserei in Tripoli mit gewölbten Steinarkaden.",
                   "category": "landmark",
                   "coords": [
                         35.843609,
@@ -164,7 +425,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Open Air Auditorium",
-                  "text": "Open Air Auditorium ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "text": "Von Oscar Niemeyer entworfene Freiluftkonzertbühne in Tripolis.",
                   "category": "landmark",
                   "coords": [
                         35.824024,
@@ -173,7 +434,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Concert Hall",
-                  "text": "Concert Hall ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "text": "Von Oscar Niemeyer entworfener Konzertsaal in Tripolis.",
                   "category": "landmark",
                   "coords": [
                         35.825751,
@@ -191,7 +452,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Tawbat-Moschee",
-                  "text": "Die Al-Tawbat-Moschee ist ein bekanntes Gotteshaus in Tripoli.",
+                  "text": "Eine historische Moschee in der Altstadt von Tripolis, bekannt als Moschee der Reue.",
                   "category": "religious",
                   "coords": [
                         35.846081,
@@ -200,7 +461,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Hamidi-Moschee",
-                  "text": "Die Al-Hamidi-Moschee ist ein lokales Gotteshaus in Tripoli.",
+                  "text": "Historische Moschee im alten Souk von Tripolis mit Streifenmauerwerk aus dem 13. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         35.844142,
@@ -209,18 +470,117 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Mu'allaq-Moschee",
-                  "text": "Die Mu'allaq-Moschee ist ein Gotteshaus in Tripoli.",
+                  "text": "Erbaut 1559, diese Moschee in Tripolis wird die Hängende Moschee genannt.",
                   "category": "religious",
                   "coords": [
                         35.841886,
                         34.432329
+                  ]
+            },
+            {
+                  "name": "Miramar Resorts",
+                  "text": "Ein luxuriöses Küstenresort mit privaten Mittelmeerstränden und einem großen Jachthafen am Rande von Tripolis.",
+                  "category": "recreational",
+                  "coords": [
+                        35.797525,
+                        34.396105
+                  ]
+            },
+            {
+                  "name": "Église Mar Maroun",
+                  "text": "Eine maronitische Kirche mit markanter Architektur in der Küstenstadt Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.833727,
+                        34.440409
+                  ]
+            },
+            {
+                  "name": "Al Rawda",
+                  "text": "Eine muslimische Gebetsstätte in Tripoli, die sich durch ihre lokale Steinbauweise auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.83304,
+                        34.445962
+                  ]
+            },
+            {
+                  "name": "Rida Mosque",
+                  "text": "Diese Moschee in Tripoli dient der lokalen Gemeinschaft als spirituelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        35.79251,
+                        34.389697
+                  ]
+            },
+            {
+                  "name": "Chuker Mosque",
+                  "text": "Eine Stadtmoschee in Tripoli, die durch ihr traditionelles Minarett erkennbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.816586,
+                        34.428003
+                  ]
+            },
+            {
+                  "name": "Zafer Bellah Mosque",
+                  "text": "Ein muslimisches Gotteshaus in Tripoli mit schlichtem, aber würdigem Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.826586,
+                        34.424433
+                  ]
+            },
+            {
+                  "name": "Wafaa Mosque",
+                  "text": "Eine moderne Moschee in Tripoli, die ein wichtiger Treffpunkt für Gläubige ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825051,
+                        34.429018
+                  ]
+            },
+            {
+                  "name": "Siddiq Mosque",
+                  "text": "Eine Moschee in Tripoli, die sich harmonisch in das dichte Stadtgefüge einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.836018,
+                        34.43276
+                  ]
+            },
+            {
+                  "name": "Mosque Tabbara",
+                  "text": "Dieses religiöse Bauwerk in Tripoli ist für seine ruhige Atmosphäre bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827434,
+                        34.422562
+                  ]
+            },
+            {
+                  "name": "Al Tawjih",
+                  "text": "Eine muslimische Bildungs- und Gebetsstätte im Herzen von Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.834768,
+                        34.442419
+                  ]
+            },
+            {
+                  "name": "El Ghandour",
+                  "text": "Eine kleine Stadtmoschee in Tripoli, die von den Anwohnern für tägliche Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.82707,
+                        34.440894
                   ]
             }
       ],
       "hu": [
             {
                   "name": "Qala'at Tarablus",
-                  "text": "A Qala'at Tarablus egy történelmi fellegvár Tripoli városában.",
+                  "text": "Hatalmas keresztes vár, amely Tripoli városára tekint.",
                   "category": "castle",
                   "coords": [
                         35.844477,
@@ -229,7 +589,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Tower",
-                  "text": "A Lion Tower egy kastély Tripoli városában.",
+                  "text": "14–15. századi mameluk torony oroszlános domborművekkel Tripoliban.",
                   "category": "castle",
                   "coords": [
                         35.830624,
@@ -238,7 +598,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Safadi Cultural Centre",
-                  "text": "A Safadi Cultural Centre egy színház Tripoli városában.",
+                  "text": "Safadi Kulturális Központ Tripoliban, művészeti kiállításoknak és koncerteknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         35.827428,
@@ -247,7 +607,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Syndicate of Engineers",
-                  "text": "A Syndicate of Engineers egy színház Tripoli városában.",
+                  "text": "Mérnökök Szindikátusa Tripoliban, építészeti nevezetesség díszes homlokzattal.",
                   "category": "cultural",
                   "coords": [
                         35.82517,
@@ -256,7 +616,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Dado land",
-                  "text": "A Dado land egy vidámpark Tripoli városában.",
+                  "text": "Dado Land, vidámpark Tripoliban, hullámvasutakkal és vízi attrakciókkal.",
                   "category": "family",
                   "coords": [
                         35.807821,
@@ -265,7 +625,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Nawfal Palace",
-                  "text": "A Nawfal Palace egy kastély Tripoli városában.",
+                  "text": "Nawfal-palota, történelmi kastély Tripoliban, oszmán építészettel.",
                   "category": "castle",
                   "coords": [
                         35.83746,
@@ -274,7 +634,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Palace",
-                  "text": "A قصر egy kastély Tripoli városában.",
+                  "text": "Palota, egykori királyi rezidencia Tripoliban, ma múzeum.",
                   "category": "castle",
                   "coords": [
                         35.820566,
@@ -283,7 +643,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Abdulhamid Clocktower",
-                  "text": "A Sultan Abdulhamid Clocktower egy turisztikai látványosság Tripoli városában.",
+                  "text": "Szultán Abdulhamid-óratorony Tripoliban, 19. századi oszmán toronyóra.",
                   "category": "landmark",
                   "coords": [
                         35.838456,
@@ -292,7 +652,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Wade'i Mosque",
-                  "text": "A مسجد الوديع egy emlékmű Tripoli városában.",
+                  "text": "Al-Wade'i mecset Tripoliban, történelmi mecset díszes csempével.",
                   "category": "historical",
                   "coords": [
                         35.850557,
@@ -301,7 +661,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Ezzeldine",
-                  "text": "A Hammam Ezzeldine egy turisztikai látványosság Tripoli városában.",
+                  "text": "Hammam Ezzeldine, történelmi fürdő Tripoliban, hagyományos gőzfürdőkkel.",
                   "category": "landmark",
                   "coords": [
                         35.845186,
@@ -310,7 +670,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Rachid Karami International Fair (RKIF)",
-                  "text": "A Rachid Karami International Fair (RKIF) egy turisztikai látványosság Tripoli városában.",
+                  "text": "Rachid Karami Nemzetközi Vásár (RKIF) Tripoliban, modern kiállítási komplexum, Oscar Niemeyer tervezte.",
                   "category": "landmark",
                   "coords": [
                         35.825991,
@@ -319,7 +679,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al Saboun Caravanserai",
-                  "text": "Az Al Saboun Caravanserai egy turisztikai látványosság Tripoli városában.",
+                  "text": "Történelmi karavánszeráj Tripoliban, boltíves kőárkádokkal.",
                   "category": "landmark",
                   "coords": [
                         35.843609,
@@ -328,7 +688,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Open Air Auditorium",
-                  "text": "Az Open Air Auditorium egy turisztikai látványosság Tripoli városában.",
+                  "text": "Oscar Niemeyer által tervezett szabadtéri színház Tripoliban.",
                   "category": "landmark",
                   "coords": [
                         35.824024,
@@ -337,7 +697,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Concert Hall",
-                  "text": "A Concert Hall egy turisztikai látványosság Tripoli városában.",
+                  "text": "Oscar Niemeyer által tervezett koncertterem Tripoliban.",
                   "category": "landmark",
                   "coords": [
                         35.825751,
@@ -355,7 +715,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Tawbat-mecset",
-                  "text": "Az Al-Tawbat-mecset egy ismert istentiszteleti hely Tripoli városában.",
+                  "text": "Történelmi mecset Tripoli óvárosában, a Bűnbánat mecsetjeként ismert.",
                   "category": "religious",
                   "coords": [
                         35.846081,
@@ -364,7 +724,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Hamidi mecset",
-                  "text": "Az Al-Hamidi mecset egy helyi istentiszteleti hely Tripoli városában.",
+                  "text": "Történelmi mecset Tripoli régi piacán, 13. századi csíkos falazattal.",
                   "category": "religious",
                   "coords": [
                         35.844142,
@@ -373,18 +733,117 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Mu'allaq mecset",
-                  "text": "A Mu'allaq mecset egy istentiszteleti hely Tripoli városában.",
+                  "text": "1559-ben épült, ezt a tripoli mecsetet Függő mecsetnek hívják.",
                   "category": "religious",
                   "coords": [
                         35.841886,
                         34.432329
+                  ]
+            },
+            {
+                  "name": "Miramar Resorts",
+                  "text": "Tengerparti luxusüdülőhely privát mediterrán strandokkal és egy nagy jachtkikötővel Tripoli szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        35.797525,
+                        34.396105
+                  ]
+            },
+            {
+                  "name": "Église Mar Maroun",
+                  "text": "Egy jellegzetes építészetű maronita keresztény templom Tripoli tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.833727,
+                        34.440409
+                  ]
+            },
+            {
+                  "name": "Al Rawda",
+                  "text": "Tripoli egyik muszlim imaháza, amely helyi kőépítészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.83304,
+                        34.445962
+                  ]
+            },
+            {
+                  "name": "Rida Mosque",
+                  "text": "Ez a tripoli mecset a helyi közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.79251,
+                        34.389697
+                  ]
+            },
+            {
+                  "name": "Chuker Mosque",
+                  "text": "Tripoli egyik városi mecsetje, amely hagyományos minaretjéről ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.816586,
+                        34.428003
+                  ]
+            },
+            {
+                  "name": "Zafer Bellah Mosque",
+                  "text": "Tripoli egyik muszlim imaháza egyszerű, de méltóságteljes imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.826586,
+                        34.424433
+                  ]
+            },
+            {
+                  "name": "Wafaa Mosque",
+                  "text": "Egy modern mecset Tripoliban, amely a hívők fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825051,
+                        34.429018
+                  ]
+            },
+            {
+                  "name": "Siddiq Mosque",
+                  "text": "Tripoli egyik mecsetje, amely harmonikusan illeszkedik a sűrű városi szövetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        35.836018,
+                        34.43276
+                  ]
+            },
+            {
+                  "name": "Mosque Tabbara",
+                  "text": "Ez a tripoli vallási épület nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827434,
+                        34.422562
+                  ]
+            },
+            {
+                  "name": "Al Tawjih",
+                  "text": "Muszlim oktatási és imaközpont Tripoli szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.834768,
+                        34.442419
+                  ]
+            },
+            {
+                  "name": "El Ghandour",
+                  "text": "Tripoli egyik kis városi mecsetje, amelyet a környékbeliek napi imádságra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.82707,
+                        34.440894
                   ]
             }
       ],
       "ro": [
             {
                   "name": "Qala'at Tarablus",
-                  "text": "Qala'at Tarablus este o cetate istorică din orașul Tripoli.",
+                  "text": "Mare cetate cruciată care domină orașul Tripoli.",
                   "category": "castle",
                   "coords": [
                         35.844477,
@@ -393,7 +852,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Tower",
-                  "text": "Lion Tower este un castel din orașul Tripoli.",
+                  "text": "Turn mameluc din secolele XIV–XV cu reliefuri cu lei în Tripoli.",
                   "category": "castle",
                   "coords": [
                         35.830624,
@@ -402,7 +861,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Safadi Cultural Centre",
-                  "text": "Safadi Cultural Centre este un teatru din orașul Tripoli.",
+                  "text": "Centrul Cultural Safadi din Tripoli, găzduiește expoziții de artă și concerte.",
                   "category": "cultural",
                   "coords": [
                         35.827428,
@@ -411,7 +870,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Syndicate of Engineers",
-                  "text": "Syndicate of Engineers este un teatru din orașul Tripoli.",
+                  "text": "Sindicatul Inginerilor din Tripoli, un reper arhitectural cu o fațadă grandioasă.",
                   "category": "cultural",
                   "coords": [
                         35.82517,
@@ -420,7 +879,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Dado land",
-                  "text": "Dado land este un parc de distracții din orașul Tripoli.",
+                  "text": "Dado Land, un parc de distracții în Tripoli, cu curse și atracții acvatice.",
                   "category": "family",
                   "coords": [
                         35.807821,
@@ -429,7 +888,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Nawfal Palace",
-                  "text": "Nawfal Palace este un castel din orașul Tripoli.",
+                  "text": "Palatul Nawfal, un castel istoric în Tripoli, cu arhitectură otomană.",
                   "category": "castle",
                   "coords": [
                         35.83746,
@@ -438,7 +897,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Palace",
-                  "text": "قصر este un castel din orașul Tripoli.",
+                  "text": "Palatul, o fostă reședință regală în Tripoli, acum muzeu.",
                   "category": "castle",
                   "coords": [
                         35.820566,
@@ -447,7 +906,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Abdulhamid Clocktower",
-                  "text": "Sultan Abdulhamid Clocktower este o atracție turistică în orașul Tripoli.",
+                  "text": "Turnul cu ceas Sultan Abdulhamid din Tripoli, un turn otoman din secolul al XIX-lea.",
                   "category": "landmark",
                   "coords": [
                         35.838456,
@@ -456,7 +915,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Wade'i Mosque",
-                  "text": "مسجد الوديع este un monument din orașul Tripoli.",
+                  "text": "Moscheea Al-Wade'i din Tripoli, o moschee istorică cu lucrări intricate de faianță.",
                   "category": "historical",
                   "coords": [
                         35.850557,
@@ -465,7 +924,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Ezzeldine",
-                  "text": "Hammam Ezzeldine este o atracție turistică în orașul Tripoli.",
+                  "text": "Hammam Ezzeldine, o baie istorică în Tripoli, cu saune tradiționale.",
                   "category": "landmark",
                   "coords": [
                         35.845186,
@@ -474,7 +933,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Rachid Karami International Fair (RKIF)",
-                  "text": "Rachid Karami International Fair (RKIF) este o atracție turistică în orașul Tripoli.",
+                  "text": "Târgul Internațional Rachid Karami (RKIF) din Tripoli, un complex expozițional modernist proiectat de Oscar Niemeyer.",
                   "category": "landmark",
                   "coords": [
                         35.825991,
@@ -483,7 +942,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al Saboun Caravanserai",
-                  "text": "Al Saboun Caravanserai este o atracție turistică în orașul Tripoli.",
+                  "text": "Caravanserai istoric în Tripoli, cu arcade de piatră boltite.",
                   "category": "landmark",
                   "coords": [
                         35.843609,
@@ -492,7 +951,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Open Air Auditorium",
-                  "text": "Open Air Auditorium este o atracție turistică în orașul Tripoli.",
+                  "text": "Amfiteatru în aer liber proiectat de Oscar Niemeyer în Tripoli.",
                   "category": "landmark",
                   "coords": [
                         35.824024,
@@ -501,7 +960,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Concert Hall",
-                  "text": "Concert Hall este o atracție turistică în orașul Tripoli.",
+                  "text": "Sală de concerte proiectată de Oscar Niemeyer în Tripoli.",
                   "category": "landmark",
                   "coords": [
                         35.825751,
@@ -519,7 +978,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Moscheea Al-Tawbat",
-                  "text": "Moscheea Al-Tawbat este un lăcaș de cult recunoscut din Tripoli.",
+                  "text": "O moschee istorică în orașul vechi al Tripolii, cunoscută ca Moscheea Pocăinței.",
                   "category": "religious",
                   "coords": [
                         35.846081,
@@ -528,7 +987,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Moscheea Al-Hamidi",
-                  "text": "Moscheea Al-Hamidi este un lăcaș de cult local din Tripoli.",
+                  "text": "Moschee istorică în vechiul souk din Tripoli, cu zidărie în dungi din secolul al XIII-lea.",
                   "category": "religious",
                   "coords": [
                         35.844142,
@@ -537,18 +996,117 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Moscheea Mu'allaq",
-                  "text": "Moscheea Mu'allaq este un lăcaș de cult situat în Tripoli.",
+                  "text": "Construită în 1559, această moschee din Tripoli este numită Moscheea Atârnată.",
                   "category": "religious",
                   "coords": [
                         35.841886,
                         34.432329
+                  ]
+            },
+            {
+                  "name": "Miramar Resorts",
+                  "text": "O stațiune de lux pe coastă, cu plaje private la Marea Mediterană și un port mare la marginea orașului Tripoli.",
+                  "category": "recreational",
+                  "coords": [
+                        35.797525,
+                        34.396105
+                  ]
+            },
+            {
+                  "name": "Église Mar Maroun",
+                  "text": "O biserică maronită cu o arhitectură distinctivă în orașul de coastă Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.833727,
+                        34.440409
+                  ]
+            },
+            {
+                  "name": "Al Rawda",
+                  "text": "Un lăcaș de cult musulman din Tripoli, remarcabil prin construcția sa din piatră locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.83304,
+                        34.445962
+                  ]
+            },
+            {
+                  "name": "Rida Mosque",
+                  "text": "Această moschee din Tripoli servește drept centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.79251,
+                        34.389697
+                  ]
+            },
+            {
+                  "name": "Chuker Mosque",
+                  "text": "O moschee urbană din Tripoli, recognoscibilă după minaretul său tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        35.816586,
+                        34.428003
+                  ]
+            },
+            {
+                  "name": "Zafer Bellah Mosque",
+                  "text": "Un lăcaș de cult musulman din Tripoli, cu o sală de rugăciune simplă, dar demnă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.826586,
+                        34.424433
+                  ]
+            },
+            {
+                  "name": "Wafaa Mosque",
+                  "text": "O moschee modernă din Tripoli, care reprezintă un punct important de întâlnire pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825051,
+                        34.429018
+                  ]
+            },
+            {
+                  "name": "Siddiq Mosque",
+                  "text": "O moschee din Tripoli care se integrează armonios în țesutul urban dens.",
+                  "category": "landmark",
+                  "coords": [
+                        35.836018,
+                        34.43276
+                  ]
+            },
+            {
+                  "name": "Mosque Tabbara",
+                  "text": "Acest edificiu religios din Tripoli este cunoscut pentru atmosfera sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827434,
+                        34.422562
+                  ]
+            },
+            {
+                  "name": "Al Tawjih",
+                  "text": "Un centru musulman de educație și rugăciune în inima orașului Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.834768,
+                        34.442419
+                  ]
+            },
+            {
+                  "name": "El Ghandour",
+                  "text": "O mică moschee urbană din Tripoli, folosită de localnici pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.82707,
+                        34.440894
                   ]
             }
       ],
       "en": [
             {
                   "name": "Qala'at Tarablus",
-                  "text": "Qala'at Tarablus is a historic citadel located in the city of Tripoli.",
+                  "text": "Large Crusader castle overlooking the city of Tripoli.",
                   "category": "castle",
                   "coords": [
                         35.844477,
@@ -557,7 +1115,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Tower",
-                  "text": "Lion Tower is a castle located in the city of Tripoli.",
+                  "text": "Mamluk tower from the 14th–15th centuries with lion reliefs in Tripoli.",
                   "category": "castle",
                   "coords": [
                         35.830624,
@@ -566,7 +1124,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Safadi Cultural Centre",
-                  "text": "Safadi Cultural Centre is a theatre located in the city of Tripoli.",
+                  "text": "Safadi Cultural Centre in Tripoli hosts art exhibitions and concerts.",
                   "category": "cultural",
                   "coords": [
                         35.827428,
@@ -575,7 +1133,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Syndicate of Engineers",
-                  "text": "Syndicate of Engineers is a theatre located in the city of Tripoli.",
+                  "text": "Syndicate of Engineers building in Tripoli, an architectural landmark with a grand facade.",
                   "category": "cultural",
                   "coords": [
                         35.82517,
@@ -584,7 +1142,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Dado land",
-                  "text": "Dado land is a theme park located in the city of Tripoli.",
+                  "text": "Dado Land, an amusement park in Tripoli with rides and water attractions.",
                   "category": "family",
                   "coords": [
                         35.807821,
@@ -593,7 +1151,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Nawfal Palace",
-                  "text": "Nawfal Palace is a castle located in the city of Tripoli.",
+                  "text": "Nawfal Palace, a historic castle in Tripoli with Ottoman-era architecture.",
                   "category": "castle",
                   "coords": [
                         35.83746,
@@ -602,7 +1160,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Palace",
-                  "text": "قصر is a castle located in the city of Tripoli.",
+                  "text": "Palace, a former royal residence in Tripoli, now a museum.",
                   "category": "castle",
                   "coords": [
                         35.820566,
@@ -611,7 +1169,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Abdulhamid Clocktower",
-                  "text": "Sultan Abdulhamid Clocktower is a tourist attraction located in the city of Tripoli.",
+                  "text": "Sultan Abdulhamid Clocktower in Tripoli, an Ottoman clock tower from the 19th century.",
                   "category": "landmark",
                   "coords": [
                         35.838456,
@@ -620,7 +1178,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Wade'i Mosque",
-                  "text": "مسجد الوديع is a monument located in the city of Tripoli.",
+                  "text": "Al-Wade'i Mosque in Tripoli, a historic mosque with intricate tile work.",
                   "category": "historical",
                   "coords": [
                         35.850557,
@@ -629,7 +1187,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Hammam Ezzeldine",
-                  "text": "Hammam Ezzeldine is a tourist attraction located in the city of Tripoli.",
+                  "text": "Hammam Ezzeldine, a historic bathhouse in Tripoli with traditional steam rooms.",
                   "category": "landmark",
                   "coords": [
                         35.845186,
@@ -638,7 +1196,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Rachid Karami International Fair (RKIF)",
-                  "text": "Rachid Karami International Fair (RKIF) is a tourist attraction located in the city of Tripoli.",
+                  "text": "Rachid Karami International Fair in Tripoli, a modernist exhibition complex designed by Oscar Niemeyer.",
                   "category": "landmark",
                   "coords": [
                         35.825991,
@@ -647,7 +1205,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al Saboun Caravanserai",
-                  "text": "Al Saboun Caravanserai is a tourist attraction located in the city of Tripoli.",
+                  "text": "Historic caravanserai in Tripoli with arched stone arcades.",
                   "category": "landmark",
                   "coords": [
                         35.843609,
@@ -656,7 +1214,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Open Air Auditorium",
-                  "text": "The Open Air Auditorium is a tourist attraction located in the city of Tripoli.",
+                  "text": "Open-air auditorium designed by Oscar Niemeyer in Tripoli.",
                   "category": "landmark",
                   "coords": [
                         35.824024,
@@ -665,7 +1223,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Concert Hall",
-                  "text": "Concert Hall is a tourist attraction located in the city of Tripoli.",
+                  "text": "Concert hall designed by Oscar Niemeyer in Tripoli.",
                   "category": "landmark",
                   "coords": [
                         35.825751,
@@ -683,7 +1241,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Tawbat Mosque",
-                  "text": "The Al-Tawbat Mosque is a notable place of worship located in Tripoli.",
+                  "text": "A historic mosque in the old city of Tripoli, known as the Mosque of Repentance.",
                   "category": "religious",
                   "coords": [
                         35.846081,
@@ -692,7 +1250,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Hamidi Mosque",
-                  "text": "Al-Hamidi Mosque is a local place of worship situated in Tripoli.",
+                  "text": "Historic mosque in Tripoli's old souk, built in the 13th century with striped masonry.",
                   "category": "religious",
                   "coords": [
                         35.844142,
@@ -701,11 +1259,110 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Mu'allaq Mosque",
-                  "text": "Mu'allaq Mosque is a place of worship located in Tripoli.",
+                  "text": "Built in 1559, this mosque in Tripoli is called the Hanging Mosque.",
                   "category": "religious",
                   "coords": [
                         35.841886,
                         34.432329
+                  ]
+            },
+            {
+                  "name": "Miramar Resorts",
+                  "text": "A coastal luxury resort featuring private Mediterranean beaches and a large marina on the outskirts of Tripoli.",
+                  "category": "recreational",
+                  "coords": [
+                        35.797525,
+                        34.396105
+                  ]
+            },
+            {
+                  "name": "Église Mar Maroun",
+                  "text": "A Maronite Christian church with distinctive architecture in the coastal city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.833727,
+                        34.440409
+                  ]
+            },
+            {
+                  "name": "Al Rawda",
+                  "text": "A Muslim place of worship in Tripoli, notable for its local stone construction.",
+                  "category": "landmark",
+                  "coords": [
+                        35.83304,
+                        34.445962
+                  ]
+            },
+            {
+                  "name": "Rida Mosque",
+                  "text": "This mosque in Tripoli serves as a spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.79251,
+                        34.389697
+                  ]
+            },
+            {
+                  "name": "Chuker Mosque",
+                  "text": "An urban mosque in Tripoli, recognizable by its traditional minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        35.816586,
+                        34.428003
+                  ]
+            },
+            {
+                  "name": "Zafer Bellah Mosque",
+                  "text": "A Muslim place of worship in Tripoli with a simple but dignified prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        35.826586,
+                        34.424433
+                  ]
+            },
+            {
+                  "name": "Wafaa Mosque",
+                  "text": "A modern mosque in Tripoli that serves as an important gathering point for worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825051,
+                        34.429018
+                  ]
+            },
+            {
+                  "name": "Siddiq Mosque",
+                  "text": "A mosque in Tripoli that integrates harmoniously into the dense urban fabric.",
+                  "category": "landmark",
+                  "coords": [
+                        35.836018,
+                        34.43276
+                  ]
+            },
+            {
+                  "name": "Mosque Tabbara",
+                  "text": "This religious building in Tripoli is known for its peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827434,
+                        34.422562
+                  ]
+            },
+            {
+                  "name": "Al Tawjih",
+                  "text": "A Muslim educational and prayer center in the heart of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.834768,
+                        34.442419
+                  ]
+            },
+            {
+                  "name": "El Ghandour",
+                  "text": "A small urban mosque in Tripoli used by local residents for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.82707,
+                        34.440894
                   ]
             }
       ]
@@ -764,7 +1421,412 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Deuxième ville du Liban avec environ 230 000 habitants", "Fondation phénicienne au VIIIe siècle av. J.-C.", "Capitale du comté de Tripoli entre 1109 et 1289", "Domination mamelouke de 1289 à 1516", "Plus de 100 édifices mamelouks dans le centre historique", "Citadelle Raymond de Saint-Gilles édifiée dès 1103", "Terminus du pipeline de Kirkuk sous le mandat", "Célèbre pour ses pâtisseries comme le Halawet el-Jibn"],
     }, image: "/poi-images/tripoli-cities-v2.webp"},
   {
-    id: "sidon-cities-v2",
+    id: "sidon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Martyrs Square",
+                  "text": "Ein zentraler Platz in Sidon, der den Nationalhelden gewidmet ist und oft Schauplatz öffentlicher Versammlungen ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.372548,
+                        33.557077
+                  ]
+            },
+            {
+                  "name": "Al-Quds Square",
+                  "text": "Dieser öffentliche Platz in Sidon ist nach der Stadt Jerusalem benannt und ein Treffpunkt in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.376957,
+                        33.559178
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Elias",
+                  "text": "Die griechisch-katholische Kathedrale von Sidon ist ein prächtiges Gotteshaus mit reicher Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        35.373148,
+                        33.561197
+                  ]
+            },
+            {
+                  "name": "Sidon Land Castle",
+                  "text": "Diese Kreuzfahrerburg wurde 1254 von Ludwig IX. auf den Ruinen einer früheren Festung im Süden von Sidon erbaut.",
+                  "category": "castle",
+                  "coords": [
+                        35.370773,
+                        33.560361
+                  ]
+            },
+            {
+                  "name": "mado trading group",
+                  "text": "Ein lokaler Ort der Andacht im Stadtzentrum von Sidon, der in die geschäftige Handelsstruktur eingebettet ist.",
+                  "category": "religious",
+                  "coords": [
+                        35.377015,
+                        33.55696
+                  ]
+            },
+            {
+                  "name": "Nahouli Mosque",
+                  "text": "Eine traditionelle Moschee in der Altstadt von Sidon, bekannt für ihre historische Architektur und ruhige Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.373571,
+                        33.544229
+                  ]
+            },
+            {
+                  "name": "Masjid Al Forqan",
+                  "text": "Diese Moschee in Sidon ist ein wichtiges religiöses Zentrum für das lokale Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.389359,
+                        33.5649
+                  ]
+            },
+            {
+                  "name": "Masjid Al Rawda",
+                  "text": "Eine Moschee in Sidon, die Gläubige aus der Umgebung zu den täglichen Gebeten empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.378587,
+                        33.561976
+                  ]
+            },
+            {
+                  "name": "Saint Elie Church",
+                  "text": "Diese nach dem Propheten Elias benannte Kirche ist ein bedeutendes christliches Bauwerk in Sidon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.385386,
+                        33.561634
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Eine Kirche in Sidon, die dem Heiligen Elias gewidmet ist und die lange christliche Tradition der Stadt widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.388785,
+                        33.556214
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Eine weitere Imam-Ali-Moschee in Sidon, die als Ort der Besinnung und des Gebets dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.384462,
+                        33.545904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Martyrs Square",
+                  "text": "Sidon központi tere, amelyet a nemzeti hősöknek szenteltek, és gyakran közösségi gyűlések helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        35.372548,
+                        33.557077
+                  ]
+            },
+            {
+                  "name": "Al-Quds Square",
+                  "text": "Ezt a sidoni közteret Jeruzsálem városáról nevezték el, és népszerű találkozóhely a városban.",
+                  "category": "historical",
+                  "coords": [
+                        35.376957,
+                        33.559178
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Elias",
+                  "text": "Sidon görögkatolikus székesegyháza egy impozáns templom gazdagon díszített belső térrel.",
+                  "category": "religious",
+                  "coords": [
+                        35.373148,
+                        33.561197
+                  ]
+            },
+            {
+                  "name": "Sidon Land Castle",
+                  "text": "Ezt a keresztes várat 1254-ben IX. Lajos építtette egy korábbi erődítmény romjaira Sidon déli részén.",
+                  "category": "castle",
+                  "coords": [
+                        35.370773,
+                        33.560361
+                  ]
+            },
+            {
+                  "name": "mado trading group",
+                  "text": "Helyi áhítati hely Sidon városközpontjában, amely a forgalmas kereskedelmi negyedben található.",
+                  "category": "religious",
+                  "coords": [
+                        35.377015,
+                        33.55696
+                  ]
+            },
+            {
+                  "name": "Nahouli Mosque",
+                  "text": "Hagyományos mecset Sidon óvárosában, amely történelmi építészetéről és nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.373571,
+                        33.544229
+                  ]
+            },
+            {
+                  "name": "Masjid Al Forqan",
+                  "text": "Ez a sidoni mecset a helyi negyed fontos vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.389359,
+                        33.5649
+                  ]
+            },
+            {
+                  "name": "Masjid Al Rawda",
+                  "text": "Mecset Sidonban, amely a környék hívőit fogadja a napi imádságokra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.378587,
+                        33.561976
+                  ]
+            },
+            {
+                  "name": "Saint Elie Church",
+                  "text": "Ez az Illés prófétáról elnevezett templom jelentős keresztény építmény Sidonban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.385386,
+                        33.561634
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Szent Illésnek szentelt templom Sidonban, amely a város hosszú keresztény hagyományait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.388785,
+                        33.556214
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Egy másik Imám Ali mecset Sidonban, amely az elmélkedés és az imádság helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.384462,
+                        33.545904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Martyrs Square",
+                  "text": "O piață centrală din Sidon dedicată eroilor naționali, fiind adesea locul adunărilor publice.",
+                  "category": "historical",
+                  "coords": [
+                        35.372548,
+                        33.557077
+                  ]
+            },
+            {
+                  "name": "Al-Quds Square",
+                  "text": "Această piață publică din Sidon este numită după orașul Ierusalim și este un punct de întâlnire în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        35.376957,
+                        33.559178
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Elias",
+                  "text": "Catedrala greco-catolică din Sidon este un lăcaș de cult impunător, cu un interior bogat decorat.",
+                  "category": "religious",
+                  "coords": [
+                        35.373148,
+                        33.561197
+                  ]
+            },
+            {
+                  "name": "Sidon Land Castle",
+                  "text": "Acest castel cruciat a fost construit în 1254 de Ludovic al IX-lea pe ruinele unei fortificații anterioare, în sudul Sidonului.",
+                  "category": "castle",
+                  "coords": [
+                        35.370773,
+                        33.560361
+                  ]
+            },
+            {
+                  "name": "mado trading group",
+                  "text": "Un lăcaș de rugăciune local în centrul orașului Sidon, integrat în zona comercială animată.",
+                  "category": "religious",
+                  "coords": [
+                        35.377015,
+                        33.55696
+                  ]
+            },
+            {
+                  "name": "Nahouli Mosque",
+                  "text": "O moschee tradițională în orașul vechi din Sidon, cunoscută pentru arhitectura istorică și atmosfera liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        35.373571,
+                        33.544229
+                  ]
+            },
+            {
+                  "name": "Masjid Al Forqan",
+                  "text": "Această moschee din Sidon reprezintă un centru religios important pentru cartierul local.",
+                  "category": "landmark",
+                  "coords": [
+                        35.389359,
+                        33.5649
+                  ]
+            },
+            {
+                  "name": "Masjid Al Rawda",
+                  "text": "O moschee din Sidon care primește credincioșii din împrejurimi pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.378587,
+                        33.561976
+                  ]
+            },
+            {
+                  "name": "Saint Elie Church",
+                  "text": "Această biserică numită după profetul Ilie este o structură creștină importantă în Sidon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.385386,
+                        33.561634
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "O biserică din Sidon dedicată Sfântului Ilie, reflectând lunga tradiție creștină a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.388785,
+                        33.556214
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "O altă moschee Imam Ali în Sidon, care servește ca loc de reflecție și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.384462,
+                        33.545904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Martyrs Square",
+                  "text": "A central square in Sidon dedicated to national heroes, often the site of public gatherings.",
+                  "category": "historical",
+                  "coords": [
+                        35.372548,
+                        33.557077
+                  ]
+            },
+            {
+                  "name": "Al-Quds Square",
+                  "text": "This public square in Sidon is named after the city of Jerusalem and serves as a meeting point in the city.",
+                  "category": "historical",
+                  "coords": [
+                        35.376957,
+                        33.559178
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Elias",
+                  "text": "The Greek Catholic cathedral of Sidon is an imposing place of worship with a richly decorated interior.",
+                  "category": "religious",
+                  "coords": [
+                        35.373148,
+                        33.561197
+                  ]
+            },
+            {
+                  "name": "Sidon Land Castle",
+                  "text": "This Crusader castle was built in 1254 by Louis IX on the ruins of an earlier fortification in southern Sidon.",
+                  "category": "castle",
+                  "coords": [
+                        35.370773,
+                        33.560361
+                  ]
+            },
+            {
+                  "name": "mado trading group",
+                  "text": "A local place of worship in Sidon's city center, nestled within the busy commercial fabric.",
+                  "category": "religious",
+                  "coords": [
+                        35.377015,
+                        33.55696
+                  ]
+            },
+            {
+                  "name": "Nahouli Mosque",
+                  "text": "A traditional mosque in the old city of Sidon, known for its historic architecture and serene atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        35.373571,
+                        33.544229
+                  ]
+            },
+            {
+                  "name": "Masjid Al Forqan",
+                  "text": "This mosque in Sidon serves as an important religious center for the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        35.389359,
+                        33.5649
+                  ]
+            },
+            {
+                  "name": "Masjid Al Rawda",
+                  "text": "A mosque in Sidon that welcomes worshippers from the surrounding area for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.378587,
+                        33.561976
+                  ]
+            },
+            {
+                  "name": "Saint Elie Church",
+                  "text": "This church named after the prophet Elias is a significant Christian structure in Sidon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.385386,
+                        33.561634
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "A church in Sidon dedicated to Saint Elias, reflecting the city's long Christian tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        35.388785,
+                        33.556214
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Another Imam Ali mosque in Sidon, serving as a place for reflection and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.384462,
+                        33.545904
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-JA",
     coords: [35.3725, 33.5571],
@@ -874,7 +1936,196 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 60 000 habitants, 80 km au sud de Beyrouth", "Fondation phénicienne vers 2750 av. J.-C.", "Cité-mère de Carthage, fondée en 814 av. J.-C.", "Conquête par Alexandre le Grand en 332 av. J.-C.", "Hippodrome romain long de 480 mètres", "Patrimoine mondial de l'UNESCO depuis 1984", "Berceau du commerce de la pourpre", "Trois sites archéologiques majeurs dans la ville"],
     }, image: "/poi-images/tyre-cities-v2.webp"},
   {
-    id: "byblos-cities-v2",
+    id: "byblos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Byblos Fun Planet",
+                  "text": "Ein lebhafter Wasserpark mit Freizeitbecken und familienorientierten Aktivitäten in Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643716,
+                        34.128335
+                  ]
+            },
+            {
+                  "name": "St. Zakhia Church",
+                  "text": "Eine lokale christliche Kultstätte, die dem Heiligen Zakhia in der Gegend von Byblos gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.640212,
+                        34.140962
+                  ]
+            },
+            {
+                  "name": "St. Rita",
+                  "text": "Ein christliches Heiligtum, das der Heiligen Rita gewidmet ist und den Gläubigen in Byblos dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658015,
+                        34.122152
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "Eine traditionelle christliche Kirche, benannt nach dem Heiligen Georg, in Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657177,
+                        34.124389
+                  ]
+            },
+            {
+                  "name": "The Old Souq",
+                  "text": "Ein traditioneller Kopfsteinpflaster-Marktplatz in Byblos, der lokales Kunsthandwerk und Souvenirs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.646376,
+                        34.122483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Byblos Fun Planet",
+                  "text": "Élénk vízipark, amely szabadidős medencéket és családi tevékenységeket kínál Byblosban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643716,
+                        34.128335
+                  ]
+            },
+            {
+                  "name": "St. Zakhia Church",
+                  "text": "A byblosi területen található, Szent Zakhiának szentelt helyi keresztény imahely.",
+                  "category": "landmark",
+                  "coords": [
+                        35.640212,
+                        34.140962
+                  ]
+            },
+            {
+                  "name": "St. Rita",
+                  "text": "Szent Ritának szentelt keresztény szentély, amely a hívőket szolgálja Byblosban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658015,
+                        34.122152
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "Szent Györgyről elnevezett hagyományos keresztény templom Byblosban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657177,
+                        34.124389
+                  ]
+            },
+            {
+                  "name": "The Old Souq",
+                  "text": "Hagyományos macskaköves piac Byblosban, amely helyi kézműves termékeket és ajándéktárgyakat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        35.646376,
+                        34.122483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Byblos Fun Planet",
+                  "text": "Un parc acvatic plin de viață care oferă piscine de agrement și activități pentru familie în Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643716,
+                        34.128335
+                  ]
+            },
+            {
+                  "name": "St. Zakhia Church",
+                  "text": "Un lăcaș de cult creștin local dedicat Sfântului Zakhia în zona Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.640212,
+                        34.140962
+                  ]
+            },
+            {
+                  "name": "St. Rita",
+                  "text": "Un sanctuar creștin dedicat Sfintei Rita, care deservește credincioșii din Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658015,
+                        34.122152
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "O biserică creștină tradițională numită după Sfântul Gheorghe, situată în Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657177,
+                        34.124389
+                  ]
+            },
+            {
+                  "name": "The Old Souq",
+                  "text": "O piață tradițională pietruită din Byblos, care oferă meșteșuguri și suveniruri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.646376,
+                        34.122483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Byblos Fun Planet",
+                  "text": "A lively water park offering recreational pools and family-oriented activities in Byblos.",
+                  "category": "recreational",
+                  "coords": [
+                        35.643716,
+                        34.128335
+                  ]
+            },
+            {
+                  "name": "St. Zakhia Church",
+                  "text": "A local Christian place of worship dedicated to Saint Zakhia in the Byblos area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.640212,
+                        34.140962
+                  ]
+            },
+            {
+                  "name": "St. Rita",
+                  "text": "A Christian sanctuary dedicated to Saint Rita, serving the faithful in Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658015,
+                        34.122152
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "A traditional Christian church named after Saint George, situated in Byblos.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657177,
+                        34.124389
+                  ]
+            },
+            {
+                  "name": "The Old Souq",
+                  "text": "A traditional cobblestone marketplace in Byblos offering local crafts and souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        35.646376,
+                        34.122483
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-JL",
     coords: [35.6481, 34.1230],
@@ -929,7 +2180,628 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 37 kilomètres au nord de Beyrouth", "Occupation depuis le VIIe millénaire av. J.-C.", "Berceau de l'alphabet phénicien au XIe siècle av. J.-C.", "Plus important marché de papyrus au IIIe millénaire av. J.-C.", "Château des Croisés édifié à partir de 1104", "Patrimoine mondial de l'UNESCO depuis 1984", "Tombes royales avec le célèbre sarcophage d'Ahiram", "Sept couches de civilisations successives explorées"],
     }, image: "/poi-images/byblos-cities-v2.webp"},
   {
-    id: "jounieh-cities-v2", "sights": {"de": [{"name": "Théâtre George V", "text": "Das Georges 5 theater ist ein aktiver Aufführungsraum für Theater in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC ist ein regionaler Veranstaltungsort für Theater in der Stadt Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archäologisches Museum", "text": "Das Archäologische Museum in Jounieh stellt verschiedene lokale historische und antike Artefakte aus.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Independence Museum", "text": "Das Museum of Independence in Jounieh widmet sich der Ausstellung des historischen Erbes der Region.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal ist ein beliebtes Strandresort an der Küste von Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park ist ein unterhaltsamer lokaler Themenpark mit Fahrgeschäften und Attraktionen in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "römische Amphitheater in Jounieh", "text": "Das römische Amphitheater in Jounieh ist ein historisches Bauwerk, das verschiedene Theaterveranstaltungen beherbergt.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean ist ein einladendes Strandresort in der Küstenstadt Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa ist ein angenehmes Strandresort, das Freizeit an der Küste in Jounieh bietet.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat ist als ein bemerkenswertes lokales Denkmal in Jounieh anerkannt.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Der Souk du Zouk ist ein traditioneller Markt und eine beliebte Attraktion in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "alte Straße von Jounieh in der Nähe der Corniche", "text": "Die alte Straße von Jounieh in der Nähe der Corniche ist eine charmante historische Attraktion.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "Boat Tour", "text": "جولة بحرية bezieht sich auf eine beliebte Bootstour-Attraktion in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "Jounieh Public Beach", "text": "Der öffentliche Sandstrand in Jounieh dient als malerischer Küstenaussichtspunkt.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar ist ein angesehenes Strandresort an den Ufern von Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Das Samaya Beach Resort in Jounieh ist ein wunderbares Urlaubsziel, um direkt am Mittelmeer neue Energie zu tanken. Die exklusive und entspannte Atmosphäre zieht Urlauber an, die sonnige Stunden auf der Liege und erfrischendes Schwimmen schätzen. Ein Aufenthalt hier verspricht besonders in der warmen Jahreszeit unvergessliche maritime Momente.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Die als large home bezeichnete Stätte ist ein markantes Herrenhaus in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "hu": [{"name": "Théâtre George V", "text": "A Georges 5 theater egy aktív színházi előadótér Jounieh városában.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "Az MBC egy regionális színházi helyszín Jounieh városában.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "A jounieh-i Régészeti Múzeum különféle helyi történelmi és ókori leleteket mutat be.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "jounieh-i Függetlenségi Múzeum", "text": "A jounieh-i Függetlenségi Múzeum a régió történelmi örökségének bemutatására szolgál.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "A Rimal egy népszerű tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "A Dream Park egy szórakoztató helyi vidámpark, amely játékokat és látványosságokat kínál Jounieh-ban.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "jounieh-i római amfiteátrum", "text": "A jounieh-i római amfiteátrum egy történelmi építmény, amely különféle színházi eseményeknek ad otthont.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "A Mocean egy hívogató tengerparti üdülőhely Jounieh tengerparti városában.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "A Koa egy kellemes tengerparti üdülőhely, amely part menti kikapcsolódást nyújt Jounieh-ban.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "A Liban habitat egy elismert helyi műemlék Jounieh városában.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "A Souk du Zouk egy hagyományos piac és népszerű látványosság Jounieh-ban.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "jounieh-i óvárosi utca", "text": "A jounieh-i óvárosi utca a sétány közelében egy bájos történelmi látványosság.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "Boat Tour", "text": "A جولة بحرية egy népszerű tengeri túra látványosság Jounieh városában.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "jounieh-i nyilvános homokos strand", "text": "A jounieh-i nyilvános homokos strand egy festői part menti kilátóként szolgál.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "A Solemar egy kiemelkedő tengerparti üdülőhely Jounieh partjainál.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "A jouniehi Samaya Beach Resort csodálatos célpont a feltöltődésre, közvetlenül a csillogó Földközi-tenger partján. Az exkluzív és pihentető légkör vonzza a nyaralókat, akik értékelik a napozást és a frissítő úszást. Egy itteni tartózkodás, különösen a meleg évszakban, felejthetetlen vízparti pillanatokat ígér.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "A large home néven megjelölt helyszín egy jellegzetes udvarház Jounieh-ban.", "category": "historical", "coords": [35.641055, 33.985542]}], "ro": [{"name": "Théâtre George V", "text": "Georges 5 theater este un spațiu activ pentru spectacole teatrale în Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC este o locație teatrală regională situată în orașul Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Musée Archéologique", "text": "Muzeul Arheologic din Jounieh expune diverse artefacte locale istorice și antice.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Museum of Independence din Jounieh", "text": "Museum of Independence din Jounieh este dedicat expunerii patrimoniului istoric al regiunii.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal este o destinație populară de plajă de-a lungul coastei din Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park este un parc tematic local distractiv, care oferă atracții de agrement în Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "Amfiteatrul Roman din Jounieh", "text": "Amfiteatrul Roman din Jounieh este o structură istorică ce găzduiește diverse evenimente teatrale.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean este un complex turistic pe plajă atrăgător, situat în orașul de coastă Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa este un complex turistic plăcut pe plajă, oferind recreere pe coastă în Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat este recunoscut ca un monument local notabil situat în Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Souk du Zouk este o piață tradițională și o atracție populară în Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "Strada veche din Jounieh de lângă cornișă", "text": "Strada veche din Jounieh de lângă cornișă este o atracție istorică fermecătoare.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "Boat Tour", "text": "جولة بحرية se referă la o populară atracție de tururi maritime disponibilă în Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "Jounieh Public Beach", "text": "Plaja publică de nisip din Jounieh servește ca un punct de belvedere costier pitoresc.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar este o stațiune de plajă distinsă, stabilită de-a lungul țărmurilor din Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "Samaya Beach Resort din Jounieh este o destinație minunată pentru a te reîncărca cu energie chiar pe malul Mării Mediterane. Atmosfera sa exclusivistă și relaxantă atrage turiștii dornici să se bucure de soare și de un înot revigorant. O zi petrecută aici în sezonul cald garantează momente maritime de neuitat.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "Locul desemnat drept large home este un conac distinctiv în Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}], "en": [{"name": "Georges 5 theater", "text": "Georges 5 theater is an active theatrical performance space in Jounieh.", "category": "cultural", "coords": [35.609717, 33.965875]}, {"name": "MBC", "text": "MBC is a regional theatre venue situated in the city of Jounieh.", "category": "cultural", "coords": [35.612865, 33.957934]}, {"name": "Archaeological Museum", "text": "The Archaeological Museum in Jounieh exhibits various local historical and ancient artifacts.", "category": "museum", "coords": [35.61929, 33.981808]}, {"name": "Museum of Independence", "text": "The Museum of Independence in Jounieh is dedicated to displaying the region's historical heritage.", "category": "museum", "coords": [35.643815, 33.988145]}, {"name": "Rimal", "text": "Rimal is a popular beach resort destination along the coast of Jounieh.", "category": "recreational", "coords": [35.600566, 33.961446]}, {"name": "Dream Park", "text": "Dream Park is an entertaining local theme park offering rides and attractions in Jounieh.", "category": "family", "coords": [35.609305, 33.956643]}, {"name": "Roman Amphitheatre", "text": "The Roman Amphitheatre in Jounieh is a historic structure that hosts various theatrical events.", "category": "cultural", "coords": [35.624482, 33.968008]}, {"name": "Mocean", "text": "Mocean is an inviting beach resort located in the coastal city of Jounieh.", "category": "recreational", "coords": [35.610528, 33.976308]}, {"name": "Koa", "text": "Koa is a pleasant beach resort providing coastal leisure in Jounieh.", "category": "recreational", "coords": [35.609674, 33.975259]}, {"name": "Liban habitat", "text": "Liban habitat is recognized as a notable local monument situated in Jounieh.", "category": "historical", "coords": [35.630391, 33.963873]}, {"name": "Souk du Zouk", "text": "Souk du Zouk is a traditional market and a popular attraction in Jounieh.", "category": "landmark", "coords": [35.625863, 33.968297]}, {"name": "Jounieh old street near corniche", "text": "The Jounieh old street near the corniche is a charming historical attraction.", "category": "landmark", "coords": [35.630221, 33.983162]}, {"name": "Boat Tour", "text": "جولة بحرية refers to a popular marine tour attraction available in Jounieh.", "category": "landmark", "coords": [35.625937, 33.983648]}, {"name": "Public sand beach Jounieh", "text": "The Public sand beach in Jounieh serves as a scenic coastal viewpoint.", "category": "natural", "coords": [35.637686, 33.990319]}, {"name": "Solemar", "text": "Solemar is a distinguished beach resort established along the shores of Jounieh.", "category": "recreational", "coords": [35.611761, 33.978814]}, {"name": "Samaya Beach Resort", "text": "The Samaya Beach Resort in Jounieh is a wonderful destination to recharge right by the sparkling Mediterranean Sea. Its exclusive and relaxed atmosphere draws holidaymakers who appreciate sunny hours lounging and refreshing swims. Spending a day here during the warm season guarantees truly memorable maritime moments.", "category": "recreational", "coords": [35.610255, 33.977219]}, {"name": "large home", "text": "The site designated as a large home is a distinctive manor in Jounieh.", "category": "historical", "coords": [35.641055, 33.985542]}]},
+    id: "jounieh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre George V",
+                  "text": "Das Georges 5 theater ist ein aktiver Aufführungsraum für Theater in Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "MBC ist ein regionaler Veranstaltungsort für Theater in der Stadt Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Das Archäologische Museum in Jounieh stellt verschiedene lokale historische und antike Artefakte aus.",
+                  "category": "museum",
+                  "coords": [
+                        35.61929,
+                        33.981808
+                  ]
+            },
+            {
+                  "name": "Independence Museum",
+                  "text": "Das Museum of Independence in Jounieh widmet sich der Ausstellung des historischen Erbes der Region.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "Rimal",
+                  "text": "Rimal ist ein beliebtes Strandresort an der Küste von Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600566,
+                        33.961446
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Dream Park ist ein unterhaltsamer lokaler Themenpark mit Fahrgeschäften und Attraktionen in Jounieh.",
+                  "category": "family",
+                  "coords": [
+                        35.609305,
+                        33.956643
+                  ]
+            },
+            {
+                  "name": "römische Amphitheater in Jounieh",
+                  "text": "Das römische Amphitheater in Jounieh ist ein historisches Bauwerk, das verschiedene Theaterveranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624482,
+                        33.968008
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "Mocean ist ein einladendes Strandresort in der Küstenstadt Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "Koa ist ein angenehmes Strandresort, das Freizeit an der Küste in Jounieh bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "Liban habitat ist als ein bemerkenswertes lokales Denkmal in Jounieh anerkannt.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "Souk du Zouk",
+                  "text": "Traditioneller Souk in Jounieh mit engen Gassen und lokalen Läden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "alte Straße von Jounieh in der Nähe der Corniche",
+                  "text": "Historische Straße von Jounieh entlang der Corniche mit Meerblick.",
+                  "category": "landmark",
+                  "coords": [
+                        35.630221,
+                        33.983162
+                  ]
+            },
+            {
+                  "name": "Boat Tour",
+                  "text": "جولة بحرية bezieht sich auf eine beliebte Bootstour-Attraktion in Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625937,
+                        33.983648
+                  ]
+            },
+            {
+                  "name": "Jounieh Public Beach",
+                  "text": "Der öffentliche Sandstrand in Jounieh dient als malerischer Küstenaussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990319
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "Solemar ist ein angesehenes Strandresort an den Ufern von Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611761,
+                        33.978814
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "Das Samaya Beach Resort in Jounieh ist ein wunderbares Urlaubsziel, um direkt am Mittelmeer neue Energie zu tanken. Die exklusive und entspannte Atmosphäre zieht Urlauber an, die sonnige Stunden auf der Liege und erfrischendes Schwimmen schätzen. Ein Aufenthalt hier verspricht besonders in der warmen Jahreszeit unvergessliche maritime Momente.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977219
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "Großes historisches Wohnhaus in Jounieh mit traditioneller libanesischer Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        35.641055,
+                        33.985542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre George V",
+                  "text": "A Georges 5 theater egy aktív színházi előadótér Jounieh városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "Az MBC egy regionális színházi helyszín Jounieh városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "A jounieh-i Régészeti Múzeum különféle helyi történelmi és ókori leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.61929,
+                        33.981808
+                  ]
+            },
+            {
+                  "name": "jounieh-i Függetlenségi Múzeum",
+                  "text": "A jounieh-i Függetlenségi Múzeum a régió történelmi örökségének bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "Rimal",
+                  "text": "A Rimal egy népszerű tengerparti üdülőhely Jounieh partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600566,
+                        33.961446
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "A Dream Park egy szórakoztató helyi vidámpark, amely játékokat és látványosságokat kínál Jounieh-ban.",
+                  "category": "family",
+                  "coords": [
+                        35.609305,
+                        33.956643
+                  ]
+            },
+            {
+                  "name": "jounieh-i római amfiteátrum",
+                  "text": "A jounieh-i római amfiteátrum egy történelmi építmény, amely különféle színházi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624482,
+                        33.968008
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "A Mocean egy hívogató tengerparti üdülőhely Jounieh tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "A Koa egy kellemes tengerparti üdülőhely, amely part menti kikapcsolódást nyújt Jounieh-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "A Liban habitat egy elismert helyi műemlék Jounieh városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "Souk du Zouk",
+                  "text": "Hagyományos szúk Dzsúniában, keskeny utcákkal és helyi üzletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "jounieh-i óvárosi utca",
+                  "text": "Dzsúnia történelmi utcája a Corniche mentén, tengeri kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        35.630221,
+                        33.983162
+                  ]
+            },
+            {
+                  "name": "Boat Tour",
+                  "text": "A جولة بحرية egy népszerű tengeri túra látványosság Jounieh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625937,
+                        33.983648
+                  ]
+            },
+            {
+                  "name": "jounieh-i nyilvános homokos strand",
+                  "text": "A jounieh-i nyilvános homokos strand egy festői part menti kilátóként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990319
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "A Solemar egy kiemelkedő tengerparti üdülőhely Jounieh partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611761,
+                        33.978814
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "A jouniehi Samaya Beach Resort csodálatos célpont a feltöltődésre, közvetlenül a csillogó Földközi-tenger partján. Az exkluzív és pihentető légkör vonzza a nyaralókat, akik értékelik a napozást és a frissítő úszást. Egy itteni tartózkodás, különösen a meleg évszakban, felejthetetlen vízparti pillanatokat ígér.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977219
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "Nagy történelmi lakóház Dzsúniában, hagyományos libanoni építészettel.",
+                  "category": "historical",
+                  "coords": [
+                        35.641055,
+                        33.985542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre George V",
+                  "text": "Georges 5 theater este un spațiu activ pentru spectacole teatrale în Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "MBC este o locație teatrală regională situată în orașul Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "Muzeul Arheologic din Jounieh expune diverse artefacte locale istorice și antice.",
+                  "category": "museum",
+                  "coords": [
+                        35.61929,
+                        33.981808
+                  ]
+            },
+            {
+                  "name": "Museum of Independence din Jounieh",
+                  "text": "Museum of Independence din Jounieh este dedicat expunerii patrimoniului istoric al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "Rimal",
+                  "text": "Rimal este o destinație populară de plajă de-a lungul coastei din Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600566,
+                        33.961446
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Dream Park este un parc tematic local distractiv, care oferă atracții de agrement în Jounieh.",
+                  "category": "family",
+                  "coords": [
+                        35.609305,
+                        33.956643
+                  ]
+            },
+            {
+                  "name": "Amfiteatrul Roman din Jounieh",
+                  "text": "Amfiteatrul Roman din Jounieh este o structură istorică ce găzduiește diverse evenimente teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624482,
+                        33.968008
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "Mocean este un complex turistic pe plajă atrăgător, situat în orașul de coastă Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "Koa este un complex turistic plăcut pe plajă, oferind recreere pe coastă în Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "Liban habitat este recunoscut ca un monument local notabil situat în Jounieh.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "Souk du Zouk",
+                  "text": "Suk tradițional în Jounieh, cu străzi înguste și magazine locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "Strada veche din Jounieh de lângă cornișă",
+                  "text": "Stradă istorică din Jounieh de-a lungul Corniche, cu vedere la mare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.630221,
+                        33.983162
+                  ]
+            },
+            {
+                  "name": "Boat Tour",
+                  "text": "جولة بحرية se referă la o populară atracție de tururi maritime disponibilă în Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625937,
+                        33.983648
+                  ]
+            },
+            {
+                  "name": "Jounieh Public Beach",
+                  "text": "Plaja publică de nisip din Jounieh servește ca un punct de belvedere costier pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990319
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "Solemar este o stațiune de plajă distinsă, stabilită de-a lungul țărmurilor din Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611761,
+                        33.978814
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "Samaya Beach Resort din Jounieh este o destinație minunată pentru a te reîncărca cu energie chiar pe malul Mării Mediterane. Atmosfera sa exclusivistă și relaxantă atrage turiștii dornici să se bucure de soare și de un înot revigorant. O zi petrecută aici în sezonul cald garantează momente maritime de neuitat.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977219
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "Casă istorică mare în Jounieh, cu arhitectură tradițională libaneză.",
+                  "category": "historical",
+                  "coords": [
+                        35.641055,
+                        33.985542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Georges 5 theater",
+                  "text": "Georges 5 theater is an active theatrical performance space in Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "MBC is a regional theatre venue situated in the city of Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "The Archaeological Museum in Jounieh exhibits various local historical and ancient artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        35.61929,
+                        33.981808
+                  ]
+            },
+            {
+                  "name": "Museum of Independence",
+                  "text": "The Museum of Independence in Jounieh is dedicated to displaying the region's historical heritage.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "Rimal",
+                  "text": "Rimal is a popular beach resort destination along the coast of Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600566,
+                        33.961446
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Dream Park is an entertaining local theme park offering rides and attractions in Jounieh.",
+                  "category": "family",
+                  "coords": [
+                        35.609305,
+                        33.956643
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "The Roman Amphitheatre in Jounieh is a historic structure that hosts various theatrical events.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624482,
+                        33.968008
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "Mocean is an inviting beach resort located in the coastal city of Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "Koa is a pleasant beach resort providing coastal leisure in Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "Liban habitat is recognized as a notable local monument situated in Jounieh.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "Souk du Zouk",
+                  "text": "Traditional souk in Jounieh with narrow alleys and local shops.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "Jounieh old street near corniche",
+                  "text": "Historic street of Jounieh along the corniche with sea views.",
+                  "category": "landmark",
+                  "coords": [
+                        35.630221,
+                        33.983162
+                  ]
+            },
+            {
+                  "name": "Boat Tour",
+                  "text": "جولة بحرية refers to a popular marine tour attraction available in Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625937,
+                        33.983648
+                  ]
+            },
+            {
+                  "name": "Public sand beach Jounieh",
+                  "text": "The Public sand beach in Jounieh serves as a scenic coastal viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990319
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "Solemar is a distinguished beach resort established along the shores of Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611761,
+                        33.978814
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "The Samaya Beach Resort in Jounieh is a wonderful destination to recharge right by the sparkling Mediterranean Sea. Its exclusive and relaxed atmosphere draws holidaymakers who appreciate sunny hours lounging and refreshing swims. Spending a day here during the warm season guarantees truly memorable maritime moments.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977219
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "Large historical home in Jounieh with traditional Lebanese architecture.",
+                  "category": "historical",
+                  "coords": [
+                        35.641055,
+                        33.985542
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-JL",
     coords: [35.6186, 33.9814],
@@ -988,7 +2860,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Qubbat as Sa`ādīn",
-                  "text": "Qubbat as Sa`adin ist ein historisches Schloss in Baalbek.",
+                  "text": "Mittelalterliche Burg in Baalbek mit einem markanten Kuppelbau.",
                   "category": "castle",
                   "coords": [
                         36.202993,
@@ -997,7 +2869,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Steinbruch von Baalbek",
-                  "text": "Dieser Steinbruch in Baalbek ist eine bedeutende archäologische Stätte.",
+                  "text": "Antiker Steinbruch in Baalbek mit dem berühmten ‚Stein der schwangeren Frau‘.",
                   "category": "historical",
                   "coords": [
                         36.198844,
@@ -1006,7 +2878,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Stein der schwangeren Frau",
-                  "text": "Der Stein der schwangeren Frau ist ein gigantischer antiker Monolith in Baalbek.",
+                  "text": "Ein kolossaler römischer Monolith von etwa 1000 Tonnen im Steinbruch bei Baalbek.",
                   "category": "historical",
                   "coords": [
                         36.200121,
@@ -1024,7 +2896,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Balbeek alter Bahnhof",
-                  "text": "Der alte Bahnhof von Baalbek ist ein historisches Relikt.",
+                  "text": "Alter Bahnhof aus osmanischer Zeit in Baalbek mit originaler Architektur.",
                   "category": "landmark",
                   "coords": [
                         36.19502,
@@ -1033,7 +2905,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Grabmal der Sayyida Khawla",
-                  "text": "Das Grabmal der Sayyida Khawla ist ein bedeutendes religiöses Monument in Baalbek.",
+                  "text": "Muslimischer Schrein der Sayyida Khawla in Baalbek, ein Wallfahrtsort.",
                   "category": "historical",
                   "coords": [
                         36.20176,
@@ -1042,7 +2914,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Flour Caves",
-                  "text": "Die Mehlhöhlen sind eine natürliche Sehenswürdigkeit in der Nähe von Baalbek.",
+                  "text": "Natürliche Höhlen in Baalbek, historisch zur Mehlaufbewahrung genutzt.",
                   "category": "landmark",
                   "coords": [
                         36.209246,
@@ -1069,7 +2941,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Venustempel",
-                  "text": "Der Venus-Tempel ist eine antike Ruinenstätte in Baalbek.",
+                  "text": "Römischer Venustempel in Baalbek mit reich verzierten Säulen.",
                   "category": "historical",
                   "coords": [
                         36.206193,
@@ -1078,7 +2950,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Temple's",
-                  "text": "Der Löwentempel ist ein antikes Bauwerk in Baalbek.",
+                  "text": "Antikes Heiligtum in Baalbek mit einem Löwen-Relief am Eingang.",
                   "category": "landmark",
                   "coords": [
                         36.202954,
@@ -1089,7 +2961,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Qubbat as Sa`adin",
-                  "text": "A Qubbat as Sa`adin egy történelmi kastély Baalbekben.",
+                  "text": "Középkori vár Baalbekben, jellegzetes kupolaépülettel.",
                   "category": "castle",
                   "coords": [
                         36.202993,
@@ -1098,7 +2970,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Baalbek Quarry",
-                  "text": "Ez a kőbánya Baalbekben egy jelentős régészeti lelőhely.",
+                  "text": "Ősi kőbánya Baalbekben, a híres ‚Terhes asszony kövével‘.",
                   "category": "historical",
                   "coords": [
                         36.198844,
@@ -1107,7 +2979,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "terhes nő köve",
-                  "text": "A terhes nő köve egy óriási ókori monolit Baalbekben.",
+                  "text": "Egy hatalmas római monolit, körülbelül 1000 tonna tömeggel, Baalbek kőbányájában.",
                   "category": "historical",
                   "coords": [
                         36.200121,
@@ -1125,7 +2997,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Baalbek old train station",
-                  "text": "A régi baalbeki vasútállomás egy történelmi emlék.",
+                  "text": "Régi oszmán kori vasútállomás Baalbekben, eredeti építészettel.",
                   "category": "landmark",
                   "coords": [
                         36.19502,
@@ -1134,7 +3006,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Sayyida Khawla Shrine",
-                  "text": "Sayyida Khawla sírhelye egy jelentős vallási emlékmű Baalbekben.",
+                  "text": "Sayyida Khawla muszlim szentélye Baalbekben, zarándokhely.",
                   "category": "historical",
                   "coords": [
                         36.20176,
@@ -1143,7 +3015,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Flour Caves",
-                  "text": "A Liszt-barlangok egy természeti látnivaló Baalbek közelében.",
+                  "text": "Természetes barlangok Baalbekben, amelyeket történelmileg liszt tárolására használtak.",
                   "category": "landmark",
                   "coords": [
                         36.209246,
@@ -1170,7 +3042,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Vénusz-templom",
-                  "text": "A Vénusz-templom egy ókori romterület Baalbekben.",
+                  "text": "Római Vénusz-templom Baalbekben, gazdagon díszített oszlopokkal.",
                   "category": "historical",
                   "coords": [
                         36.206193,
@@ -1179,7 +3051,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Temple's",
-                  "text": "Az Oroszlán-templom egy ókori építmény Baalbekben.",
+                  "text": "Ősi szentély Baalbekben, bejáratánál oroszlán domborművel.",
                   "category": "landmark",
                   "coords": [
                         36.202954,
@@ -1190,7 +3062,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Qubbat as Sa`adin",
-                  "text": "Qubbat as Sa`adin este un castel istoric în Baalbek.",
+                  "text": "Castel medieval în Baalbek, cu o construcție distinctă în formă de cupolă.",
                   "category": "castle",
                   "coords": [
                         36.202993,
@@ -1199,7 +3071,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Această carieră din Baalbek",
-                  "text": "Această carieră din Baalbek este un sit arheologic important.",
+                  "text": "Carieră antică în Baalbek, cu faimoasa ‚Piatră a femeii însărcinate‘.",
                   "category": "historical",
                   "coords": [
                         36.198844,
@@ -1208,7 +3080,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Piatra Femeii Însărcinate",
-                  "text": "Piatra Femeii Însărcinate este un monolit antic gigantic în Baalbek.",
+                  "text": "Un monolit roman colosal de aproximativ 1000 de tone în cariera de lângă Baalbek.",
                   "category": "historical",
                   "coords": [
                         36.200121,
@@ -1226,7 +3098,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Baalbek old train station",
-                  "text": "Vechea gară din Baalbek este o relicvă istorică.",
+                  "text": "Gară veche otomană în Baalbek, cu arhitectură originală.",
                   "category": "landmark",
                   "coords": [
                         36.19502,
@@ -1235,7 +3107,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Mormântul lui Sayyida Khawla",
-                  "text": "Mormântul lui Sayyida Khawla este un monument religios important în Baalbek.",
+                  "text": "Sanctuarul musulman al Sayyida Khawla din Baalbek, loc de pelerinaj.",
                   "category": "historical",
                   "coords": [
                         36.20176,
@@ -1244,7 +3116,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Flour Caves",
-                  "text": "Peșterile de făină sunt o atracție naturală lângă Baalbek.",
+                  "text": "Peșteri naturale în Baalbek, folosite istoric pentru depozitarea făinii.",
                   "category": "landmark",
                   "coords": [
                         36.209246,
@@ -1271,7 +3143,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Templul lui Venus",
-                  "text": "Templul lui Venus este un sit de ruine antice în Baalbek.",
+                  "text": "Templul roman al lui Venus din Baalbek, cu coloane ornamentate.",
                   "category": "historical",
                   "coords": [
                         36.206193,
@@ -1280,7 +3152,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Temple's",
-                  "text": "Templul Leului este o structură antică în Baalbek.",
+                  "text": "Sanctuar antic în Baalbek, cu un relief de leu la intrare.",
                   "category": "landmark",
                   "coords": [
                         36.202954,
@@ -1291,7 +3163,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Qubbat as Sa`adin",
-                  "text": "Qubbat as Sa`adin is a historic castle in Baalbek.",
+                  "text": "Medieval castle in Baalbek with a distinctive domed structure.",
                   "category": "castle",
                   "coords": [
                         36.202993,
@@ -1300,7 +3172,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Baalbeck Quarry",
-                  "text": "This quarry in Baalbek is a significant archaeological site.",
+                  "text": "Ancient quarry in Baalbek housing the famous 'Stone of the Pregnant Woman'.",
                   "category": "historical",
                   "coords": [
                         36.198844,
@@ -1309,7 +3181,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Stone of the Pregnant Woman",
-                  "text": "The Stone of the Pregnant Woman is a gigantic ancient monolith in Baalbek.",
+                  "text": "A colossal Roman monolith weighing about 1,000 tons in the quarry near Baalbek.",
                   "category": "historical",
                   "coords": [
                         36.200121,
@@ -1327,7 +3199,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Baalbek old train station",
-                  "text": "The old train station of Baalbek is a historic relic.",
+                  "text": "Old Ottoman-era train station in Baalbek with original architecture.",
                   "category": "landmark",
                   "coords": [
                         36.19502,
@@ -1336,7 +3208,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "shrine of Sayyida Khawla",
-                  "text": "The shrine of Sayyida Khawla is a significant religious monument in Baalbek.",
+                  "text": "Muslim shrine of Sayyida Khawla in Baalbek, a pilgrimage site.",
                   "category": "historical",
                   "coords": [
                         36.20176,
@@ -1345,7 +3217,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Flour Caves",
-                  "text": "The Flour Caves are a natural attraction near Baalbek.",
+                  "text": "Natural caves in Baalbek historically used for storing flour.",
                   "category": "landmark",
                   "coords": [
                         36.209246,
@@ -1372,7 +3244,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Temple of Venus",
-                  "text": "The Temple of Venus is an ancient ruin site in Baalbek.",
+                  "text": "Roman Temple of Venus in Baalbek with richly carved columns.",
                   "category": "historical",
                   "coords": [
                         36.206193,
@@ -1381,7 +3253,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Lion Temple",
-                  "text": "The Lion Temple is an ancient structure in Baalbek.",
+                  "text": "Ancient sanctuary in Baalbek featuring a lion relief at its entrance.",
                   "category": "landmark",
                   "coords": [
                         36.202954,
@@ -1444,7 +3316,232 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Dans la plaine de la Bekaa à 1 170 mètres d'altitude", "Environ 80 000 habitants", "Nom romain Héliopolis à partir de 47 av. J.-C.", "Temple de Jupiter avec 54 colonnes d'origine, hautes de 22 mètres", "Temple de Bacchus considéré comme le monument romain le mieux conservé", "Les mégalithes du Trilithon pèsent environ 800 tonnes chacun", "Patrimoine mondial de l'UNESCO depuis 1984", "Festival international chaque été depuis 1955"],
     }, image: "/poi-images/baalbek-cities-v2.webp"},
   {
-    id: "zahle-cities-v2",
+    id: "zahle-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Byzantine museum",
+                  "text": "Dieses Museum in der melkitischen Diözese zeigt eine seltene Sammlung von Ikonen im byzantinischen Stil und liturgischen Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        35.897183,
+                        33.847209
+                  ]
+            },
+            {
+                  "name": "Ermitage Sainte Claire d'Assise",
+                  "text": "Eine ruhige franziskanische Eremitage am Hang, die einen Ort der Stille und des Gebets mit Blick auf Zahle bietet.",
+                  "category": "religious",
+                  "coords": [
+                        35.920527,
+                        33.86662
+                  ]
+            },
+            {
+                  "name": "Saint Theresa",
+                  "text": "Eine moderne katholische Kirche in Zahle, die der heiligen Theresia von Lisieux gewidmet ist und für ihr markantes architektonisches Design bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.907726,
+                        33.844841
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Antoine de Padou",
+                  "text": "Eine elegante Kirche, die dem Heiligen Antonius von Padua gewidmet ist und mit klassischen Steinbögen im Herzen von Zahle besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.9233,
+                        33.849704
+                  ]
+            },
+            {
+                  "name": "Deyr Mar Elias El Towak",
+                  "text": "Ein historisches Kloster auf den Klippen über dem Fluss Berdawni, bekannt für seine in den Fels gehauenen Räume und die malerische Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893802,
+                        33.852587
+                  ]
+            },
+            {
+                  "name": "Mar afram al siryani Church",
+                  "text": "Eine syrisch-orthodoxe Kirche in Zahle, die dem Heiligen Ephräm dem Syrer gewidmet ist und aus lokalem, ockerfarbenem Kalkstein erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.908738,
+                        33.8468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Byzantine museum",
+                  "text": "A melkita egyházmegyén belül található múzeum bizánci stílusú ikonok és liturgikus tárgyak ritka gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.897183,
+                        33.847209
+                  ]
+            },
+            {
+                  "name": "Ermitage Sainte Claire d'Assise",
+                  "text": "Egy csendes ferences remeteség a domboldalon, amely elvonulást és imádságot kínál Zahle városára nézve.",
+                  "category": "religious",
+                  "coords": [
+                        35.920527,
+                        33.86662
+                  ]
+            },
+            {
+                  "name": "Saint Theresa",
+                  "text": "Modern katolikus templom Zahléban, amelyet Lisieux-i Szent Teréznek szenteltek, és jellegzetes építészeti megoldásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.907726,
+                        33.844841
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Antoine de Padou",
+                  "text": "Elegáns, Páduai Szent Antalnak szentelt templom klasszikus kőívekkel Zahle szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.9233,
+                        33.849704
+                  ]
+            },
+            {
+                  "name": "Deyr Mar Elias El Towak",
+                  "text": "Történelmi kolostor a Berdawni-folyó feletti sziklákon, amely sziklába vájt helyiségeiről és festői kilátásáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893802,
+                        33.852587
+                  ]
+            },
+            {
+                  "name": "Mar afram al siryani Church",
+                  "text": "Szír ortodox templom Zahléban, amelyet Szír Szent Efrémnek szenteltek, és helyi okkersárga mészkőből épült.",
+                  "category": "landmark",
+                  "coords": [
+                        35.908738,
+                        33.8468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Byzantine museum",
+                  "text": "Situat în cadrul Diecezei Melkite, acest muzeu expune o colecție rară de icoane în stil bizantin și obiecte liturgice.",
+                  "category": "museum",
+                  "coords": [
+                        35.897183,
+                        33.847209
+                  ]
+            },
+            {
+                  "name": "Ermitage Sainte Claire d'Assise",
+                  "text": "Un schit franciscan liniștit situat pe deal, oferind un loc de reculegere și rugăciune cu vedere spre Zahle.",
+                  "category": "religious",
+                  "coords": [
+                        35.920527,
+                        33.86662
+                  ]
+            },
+            {
+                  "name": "Saint Theresa",
+                  "text": "O biserică catolică modernă din Zahle dedicată Sfintei Tereza de Lisieux, cunoscută pentru designul său arhitectural distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        35.907726,
+                        33.844841
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Antoine de Padou",
+                  "text": "O biserică elegantă dedicată Sfântului Anton de Padova, cu arcade clasice din piatră în inima orașului Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.9233,
+                        33.849704
+                  ]
+            },
+            {
+                  "name": "Deyr Mar Elias El Towak",
+                  "text": "O mănăstire istorică cocoțată pe stâncile de deasupra râului Berdawni, renumită pentru chiliile săpate în stâncă și priveliștile spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893802,
+                        33.852587
+                  ]
+            },
+            {
+                  "name": "Mar afram al siryani Church",
+                  "text": "O biserică ortodoxă siriacă din Zahle dedicată Sfântului Efrem Sirul, construită din calcar local de culoare ocru.",
+                  "category": "landmark",
+                  "coords": [
+                        35.908738,
+                        33.8468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Byzantine museum",
+                  "text": "Located within the Melkite Diocese, this museum displays a rare collection of Byzantine-style icons and liturgical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        35.897183,
+                        33.847209
+                  ]
+            },
+            {
+                  "name": "Ermitage Sainte Claire d'Assise",
+                  "text": "A quiet Franciscan hermitage situated on the hillside, offering a place for silent retreat and prayer overlooking Zahle.",
+                  "category": "religious",
+                  "coords": [
+                        35.920527,
+                        33.86662
+                  ]
+            },
+            {
+                  "name": "Saint Theresa",
+                  "text": "A modern Catholic church in Zahle dedicated to St. Therese of Lisieux, known for its distinctive architectural design.",
+                  "category": "landmark",
+                  "coords": [
+                        35.907726,
+                        33.844841
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Antoine de Padou",
+                  "text": "An elegant church dedicated to Saint Anthony of Padua, featuring classical stone arches in the heart of Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.9233,
+                        33.849704
+                  ]
+            },
+            {
+                  "name": "Deyr Mar Elias El Towak",
+                  "text": "A historic monastery perched on the cliffs above the Berdawni River, famous for its rock-cut rooms and scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893802,
+                        33.852587
+                  ]
+            },
+            {
+                  "name": "Mar afram al siryani Church",
+                  "text": "A Syriac Orthodox church in Zahle dedicated to Saint Ephrem the Syrian, built with local ochre-colored limestone.",
+                  "category": "landmark",
+                  "coords": [
+                        35.908738,
+                        33.8468
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-BI",
     coords: [35.8997, 33.8465],
@@ -1503,7 +3600,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Beirut Garage - Nabatieh",
-                  "text": "كراج بيروت - نبطية ist ein anerkanntes lokales Denkmal in Nabatäa.",
+                  "text": "Historische Garage in Nabatieh, die als Busbahnhof zwischen Beirut und Nabatieh diente.",
                   "category": "historical",
                   "coords": [
                         35.484413,
@@ -1523,7 +3620,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Beirut Garage - Nabatieh",
-                  "text": "A كراج بيروت - نبطية egy elismert helyi műemlék Nabatije városában.",
+                  "text": "Történelmi garázs Nábátijában, amely buszpályaudvarként szolgált Beirut és Nábátija között.",
                   "category": "historical",
                   "coords": [
                         35.484413,
@@ -1543,7 +3640,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Beirut Garage - Nabatieh",
-                  "text": "كراج بيروت - نبطية este un monument local recunoscut, aflat în Nabatäa.",
+                  "text": "Garaj istoric în Nabatieh, care a servit ca stație de autobuz între Beirut și Nabatieh.",
                   "category": "historical",
                   "coords": [
                         35.484413,
@@ -1563,7 +3660,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Beirut Garage - Nabatieh",
-                  "text": "كراج بيروت - نبطية is a recognized local monument found in Nabatäa.",
+                  "text": "Historic garage in Nabatieh that served as a bus station between Beirut and Nabatieh.",
                   "category": "historical",
                   "coords": [
                         35.484413,
@@ -1648,7 +3745,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "Der Luna Park ist ein Vergnügungspark in Aley.",
+                  "text": "Familienfreundlicher Vergnügungspark in Aley mit Fahrgeschäften und Spielplätzen.",
                   "category": "family",
                   "coords": [
                         35.60252,
@@ -1657,7 +3754,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Balkon von Aley",
-                  "text": "Der Balkon von Aley ist ein bekannter Aussichtspunkt über die Stadt.",
+                  "text": "Aussichtspunkt in Aley mit Panoramablick über die Umgebung.",
                   "category": "natural",
                   "coords": [
                         35.603576,
@@ -1666,7 +3763,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ras al-Jabal",
-                  "text": "Ras al-Jabal ist eine beliebte Sehenswürdigkeit in Aley.",
+                  "text": "Berggipfel in Aley, bekannt als markantes Wahrzeichen der Region.",
                   "category": "landmark",
                   "coords": [
                         35.598383,
@@ -1686,7 +3783,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "A Luna Park egy vidámpark Aleyban.",
+                  "text": "Családbarát vidámpark Alejben, játékokkal és játszóterekkel.",
                   "category": "family",
                   "coords": [
                         35.60252,
@@ -1695,7 +3792,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Aley Balconies",
-                  "text": "Aley erkélye egy jól ismert kilátópont a város felett.",
+                  "text": "Kilátó Alejben, panorámás kilátással a környező tájra.",
                   "category": "natural",
                   "coords": [
                         35.603576,
@@ -1704,7 +3801,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ras Al-Jabal Aley",
-                  "text": "Ras al-Jabal egy népszerű látnivaló Aleyban.",
+                  "text": "Hegycsúcs Alejben, a régió jellegzetes nevezetessége.",
                   "category": "landmark",
                   "coords": [
                         35.598383,
@@ -1724,7 +3821,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Luna Park",
-                  "text": "Luna Park este un parc tematic în Aley.",
+                  "text": "Parcul de distracții familial din Aley, cu mașini de distracții și locuri de joacă.",
                   "category": "family",
                   "coords": [
                         35.60252,
@@ -1733,7 +3830,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Balconul din Aley",
-                  "text": "Balconul din Aley este un punct de belvedere cunoscut asupra orașului.",
+                  "text": "Punct de belvedere în Aley, cu vedere panoramică asupra împrejurimilor.",
                   "category": "natural",
                   "coords": [
                         35.603576,
@@ -1742,7 +3839,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ras al-Jabal",
-                  "text": "Ras al-Jabal este o atracție populară în Aley.",
+                  "text": "Vârf de munte în Aley, cunoscut ca reper emblematic al regiunii.",
                   "category": "landmark",
                   "coords": [
                         35.598383,
@@ -1762,7 +3859,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Aley luna park",
-                  "text": "Luna Park is a theme park in Aley.",
+                  "text": "Family-friendly amusement park in Aley with rides and playgrounds.",
                   "category": "family",
                   "coords": [
                         35.60252,
@@ -1771,7 +3868,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Balcony of Aley",
-                  "text": "The Balcony of Aley is a well-known viewpoint overlooking the city.",
+                  "text": "Viewpoint in Aley offering panoramic views of the surrounding area.",
                   "category": "natural",
                   "coords": [
                         35.603576,
@@ -1780,7 +3877,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ras al-Jabal",
-                  "text": "Ras al-Jabal is a popular attraction in Aley.",
+                  "text": "Mountain peak in Aley, a prominent landmark of the region.",
                   "category": "landmark",
                   "coords": [
                         35.598383,
@@ -1856,7 +3953,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Qadisha-Grotte",
-                  "text": "Die Qadisha-Grotte ist ein Höhleneingang in Bscharre.",
+                  "text": "Kalksteinhöhle im Qadisha-Tal bei Bcharre, die als Einsiedelei von Mönchen genutzt wurde.",
                   "category": "natural",
                   "coords": [
                         36.036412,
@@ -1865,7 +3962,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "watermill",
-                  "text": "Die Wassermühle ist eine Ruinenstätte in der Stadt Bscharre.",
+                  "text": "Historische Wassermühle im Qadisha-Tal bei Bcharre.",
                   "category": "historical",
                   "coords": [
                         35.98717,
@@ -1874,7 +3971,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "La Jetée",
-                  "text": "La Jetée ist ein Aussichtspunkt, der malerische Ausblicke in Bscharre bietet.",
+                  "text": "Natürliche Felsformation mit Blick auf die Qadisha-Schlucht bei Bcharre.",
                   "category": "natural",
                   "coords": [
                         36.037166,
@@ -1883,7 +3980,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint to waterfall across the valley",
-                  "text": "Der Aussichtspunkt auf den Wasserfall auf der anderen Talseite ist ein malerischer Beobachtungsposten in Bscharre.",
+                  "text": "Aussichtspunkt auf den Baatara-Wasserfall, der gegenüber dem Tal liegt.",
                   "category": "natural",
                   "coords": [
                         36.003574,
@@ -1892,7 +3989,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint to Mar Elisha and waterfall",
-                  "text": "Der Aussichtspunkt auf Mar Elisha und den Wasserfall ist eine Beobachtungsplattform in Bscharre.",
+                  "text": "Aussichtspunkt mit Blick auf das Mar-Elisha-Kloster und die nahegelegenen Wasserfälle.",
                   "category": "natural",
                   "coords": [
                         36.001921,
@@ -1921,7 +4018,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Qadisha-barlang",
-                  "text": "A Qadisha-barlang egy barlangbejárat Bscharre területén.",
+                  "text": "Mészkőbarlang a Qadisha-völgyben Bcharre közelében, amelyet szerzetesek használtak remetelakként.",
                   "category": "natural",
                   "coords": [
                         36.036412,
@@ -1930,7 +4027,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "watermill",
-                  "text": "A vízimalom egy romokat bemutató helyszín Bscharre városában.",
+                  "text": "Történelmi vízimalom a Kadisa-völgyben, Bsarri közelében.",
                   "category": "historical",
                   "coords": [
                         35.98717,
@@ -1939,7 +4036,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "La Jetée",
-                  "text": "A La Jetée egy festői kilátást nyújtó kilátó Bscharre városában.",
+                  "text": "Természetes sziklaformáció, kilátással a Kadisa-szurdokra Bsarriban.",
                   "category": "natural",
                   "coords": [
                         36.037166,
@@ -1948,7 +4045,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint to waterfall across the valley",
-                  "text": "A völgy túloldalán lévő vízesésre néző kilátó egy festői megfigyelőpont Bscharre városában.",
+                  "text": "Kilátó a Baatara-vízesésre, amely a völgy túloldalán található.",
                   "category": "natural",
                   "coords": [
                         36.003574,
@@ -1957,7 +4054,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint to Mar Elisha and waterfall",
-                  "text": "A Mar Elisha és a vízesés felé néző kilátó egy megfigyelőhely Bscharre városában.",
+                  "text": "Kilátó, ahonnan a Mar Elisha-kolostor és a közeli vízesések láthatók.",
                   "category": "natural",
                   "coords": [
                         36.001921,
@@ -1986,7 +4083,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Grota Qadisha",
-                  "text": "Grota Qadisha este o intrare de peșteră situată în Bscharre.",
+                  "text": "Peșteră de calcar în Valea Qadisha lângă Bcharre, folosită ca sihăstrie de călugări.",
                   "category": "natural",
                   "coords": [
                         36.036412,
@@ -1995,7 +4092,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "watermill",
-                  "text": "Moara de apă este un sit cu ruine în orașul Bscharre.",
+                  "text": "Moară de apă istorică în Valea Qadisha, lângă Bcharre.",
                   "category": "historical",
                   "coords": [
                         35.98717,
@@ -2004,7 +4101,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "La Jetée",
-                  "text": "La Jetée este un punct de belvedere cu vederi pitorești în Bscharre.",
+                  "text": "Formațiune stâncoasă naturală, cu vedere asupra Cheii Qadisha lângă Bcharre.",
                   "category": "natural",
                   "coords": [
                         36.037166,
@@ -2013,7 +4110,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint to waterfall across the valley",
-                  "text": "Punctul de belvedere către cascada de peste vale este un loc de observație pitoresc din Bscharre.",
+                  "text": "Punct de belvedere spre cascada Baatara, situată de cealaltă parte a văii.",
                   "category": "natural",
                   "coords": [
                         36.003574,
@@ -2022,7 +4119,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint to Mar Elisha and waterfall",
-                  "text": "Punctul de belvedere către Mar Elisha și cascadă este o platformă de observație în Bscharre.",
+                  "text": "Punct de belvedere cu vedere la mănăstirea Mar Elisha și cascada din apropiere.",
                   "category": "natural",
                   "coords": [
                         36.001921,
@@ -2051,7 +4148,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Qadisha Grotto",
-                  "text": "Qadisha Grotto is a cave entrance located in Bscharre.",
+                  "text": "Limestone cave in the Qadisha Valley near Bcharre, used as a hermitage by monks.",
                   "category": "natural",
                   "coords": [
                         36.036412,
@@ -2060,7 +4157,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "watermill",
-                  "text": "The watermill is a site featuring ruins in the town of Bscharre.",
+                  "text": "Historic watermill in the Qadisha Valley near Bcharre.",
                   "category": "historical",
                   "coords": [
                         35.98717,
@@ -2069,7 +4166,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "La Jetée",
-                  "text": "La Jetée is a scenic viewpoint situated in Bscharre.",
+                  "text": "Natural rock formation overlooking the Qadisha Gorge near Bcharre.",
                   "category": "natural",
                   "coords": [
                         36.037166,
@@ -2078,7 +4175,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint to waterfall across the valley",
-                  "text": "Viewpoint to waterfall across the valley is a scenic observation point in Bscharre.",
+                  "text": "Viewpoint overlooking the Baatara waterfall across the valley.",
                   "category": "natural",
                   "coords": [
                         36.003574,
@@ -2087,7 +4184,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint to Mar Elisha and waterfall",
-                  "text": "Viewpoint to Mar Elisha and waterfall is an observation area situated in Bscharre.",
+                  "text": "Viewpoint overlooking Mar Elisha monastery and the nearby waterfall.",
                   "category": "natural",
                   "coords": [
                         36.001921,
@@ -2160,7 +4257,268 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     }
   },
   {
-    id: "batroun-cities-v2", "sights": {"de": [{"name": "Fadous Beach", "text": "Fadous Beach ist ein malerischer Küstenabschnitt, der Entspannung in Batrun bietet.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned Aquarium of Batroun", "text": "Das Abandoned aquarium of Batroun ist eine faszinierende historische Sehenswürdigkeit nahe der Küste.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "Beth oromoye ist ein Museum zur Erhaltung des kulturellen Erbes in Batrun.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "Barracuda ist ein lebhaftes Strandresort, das Freizeitaktivitäten am Meer in Batrun bietet.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "Die Phönizische Mauer in Batrun ist ein altes Seebauwerk, das ursprünglich von den Phöniziern zum Schutz vor Flutwellen errichtet wurde.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "Das Sierra Beachfront Resort ist ein Strandresort in Batrun.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "In Batrun gelegen, bietet das Soult Beach Resort ein stilvolles Stranderlebnis an der libanesischen Küste. Die harmonische Mischung aus Komfort und natürlicher Schönheit macht diesen Ort perfekt zum Baden und Sonnen. Für einen idealen Strandtag empfiehlt es sich, rechtzeitig anzureisen, um die besten Plätze am Wasser zu sichern.", "category": "recreational", "coords": [35.660626, 34.241507]}], "hu": [{"name": "Fadous Beach", "text": "A Fadous Beach egy festői partszakasz, amely kikapcsolódást nyújt Batrunban.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned Aquarium of Batroun", "text": "A batruni elhagyatott akvárium egy érdekes történelmi látványosság a part közelében.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "A Beth oromoye egy kulturális örökséget megőrző múzeum Batrunban.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "A Barracuda egy nyüzsgő tengerparti üdülőhely, amely tengerparti kikapcsolódást kínál Batrunban.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "A batruni föníciai fal egy ősi tengeri gát, amelyet eredetileg a föníciaiak építettek a hullámok elleni védelemként.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "A Sierra Beachfront Resort egy tengerparti üdülőhely Batrunban.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "A Batrunban található Soult Beach Resort stílusos tengerparti élményt nyújt a libanoni partvidéken. A kényelem és a természeti szépség harmonikus keveréke tökéletessé teszi a helyet az úszáshoz és a napozáshoz. Egy ideális strandnaphoz érdemes időben érkezni, hogy a legjobb helyeket biztosítsuk magunknak.", "category": "recreational", "coords": [35.660626, 34.241507]}], "ro": [{"name": "Fadous Beach", "text": "Fadous Beach este o porțiune pitorească de coastă ce oferă relaxare în Batrun.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned Aquarium of Batroun", "text": "Acvariul abandonat din Batroun este o atracție istorică intrigantă lângă coastă.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "Beth oromoye este un muzeu dedicat conservării patrimoniului cultural în Batrun.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "Barracuda este un complex turistic pe plajă vibrant care oferă activități de agrement la malul mării în Batrun.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "Zidul Fenician din Batrun este un vechi dig marin construit inițial de fenicieni pentru a proteja împotriva valurilor.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "Sierra Beachfront Resort este o stațiune pe plajă situată în Batrun.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "Situat în Batrun, Soult Beach Resort oferă o experiență elegantă pe coasta libaneză. Combinația armonioasă de confort și frumusețe naturală face din acest loc destinația perfectă pentru înot și băi de soare. Pentru o zi ideală de plajă, este recomandat să sosiți devreme pentru a prinde cele mai bune locuri.", "category": "recreational", "coords": [35.660626, 34.241507]}], "en": [{"name": "Fadous Beach", "text": "Fadous Beach is a scenic stretch of coastline offering relaxation in Batrun.", "category": "recreational", "coords": [35.655561, 34.228592]}, {"name": "Abandoned aquarium of Batroun", "text": "The Abandoned aquarium of Batroun is an intriguing historical sight near the coast.", "category": "family", "coords": [35.657661, 34.250099]}, {"name": "Beth oromoye", "text": "Beth oromoye is a dedicated museum preserving cultural heritage in Batrun.", "category": "museum", "coords": [35.661795, 34.234819]}, {"name": "Barracuda", "text": "Barracuda is a vibrant beach resort destination offering seaside leisure in Batrun.", "category": "recreational", "coords": [35.660626, 34.246109]}, {"name": "Phoenician Wall", "text": "The Phoenician Wall in Batrun is an ancient sea wall originally built by the Phoenicians to protect from tidal waves.", "category": "landmark", "coords": [35.655507, 34.255077]}, {"name": "Sierra Beachfront Resort", "text": "Sierra Beachfront Resort is a beach resort located in Batrun.", "category": "recreational", "coords": [35.656346, 34.233832]}, {"name": "Soult Beach", "text": "Situated in Batroun, the Soult Beach Resort offers a stylish seaside experience along the Lebanese coast. The harmonious blend of comfort and natural beauty makes this location absolutely perfect for swimming and sunbathing. Arriving with plenty of time to spare is the best way to secure a prime spot by the water.", "category": "recreational", "coords": [35.660626, 34.241507]}]},
+    id: "batroun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fadous Beach",
+                  "text": "Fadous Beach ist ein malerischer Küstenabschnitt, der Entspannung in Batrun bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.655561,
+                        34.228592
+                  ]
+            },
+            {
+                  "name": "Abandoned Aquarium of Batroun",
+                  "text": "Verlassenes Aquarium in Batroun mit verfallenen Becken und Gebäuden.",
+                  "category": "family",
+                  "coords": [
+                        35.657661,
+                        34.250099
+                  ]
+            },
+            {
+                  "name": "Beth oromoye",
+                  "text": "Museum in Batroun, das der syrisch-orthodoxen Kultur und Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        35.661795,
+                        34.234819
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "Barracuda ist ein lebhaftes Strandresort, das Freizeitaktivitäten am Meer in Batrun bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.246109
+                  ]
+            },
+            {
+                  "name": "Phoenician Wall",
+                  "text": "Die Phönizische Mauer in Batrun ist ein altes Seebauwerk, das ursprünglich von den Phöniziern zum Schutz vor Flutwellen errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Sierra Beachfront Resort",
+                  "text": "Strandresort in Batroun mit direktem Zugang zum Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656346,
+                        34.233832
+                  ]
+            },
+            {
+                  "name": "Soult Beach",
+                  "text": "In Batrun gelegen, bietet das Soult Beach Resort ein stilvolles Stranderlebnis an der libanesischen Küste. Die harmonische Mischung aus Komfort und natürlicher Schönheit macht diesen Ort perfekt zum Baden und Sonnen. Für einen idealen Strandtag empfiehlt es sich, rechtzeitig anzureisen, um die besten Plätze am Wasser zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.241507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fadous Beach",
+                  "text": "A Fadous Beach egy festői partszakasz, amely kikapcsolódást nyújt Batrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.655561,
+                        34.228592
+                  ]
+            },
+            {
+                  "name": "Abandoned Aquarium of Batroun",
+                  "text": "Elhagyott akvárium Batrunban, romos medencékkel és épületekkel.",
+                  "category": "family",
+                  "coords": [
+                        35.657661,
+                        34.250099
+                  ]
+            },
+            {
+                  "name": "Beth oromoye",
+                  "text": "Múzeum Batrunban, amely a szír ortodox kultúrának és történelemnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        35.661795,
+                        34.234819
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "A Barracuda egy nyüzsgő tengerparti üdülőhely, amely tengerparti kikapcsolódást kínál Batrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.246109
+                  ]
+            },
+            {
+                  "name": "Phoenician Wall",
+                  "text": "A batruni föníciai fal egy ősi tengeri gát, amelyet eredetileg a föníciaiak építettek a hullámok elleni védelemként.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Sierra Beachfront Resort",
+                  "text": "Strand üdülőhely Batrunban, közvetlen hozzáféréssel a Földközi-tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656346,
+                        34.233832
+                  ]
+            },
+            {
+                  "name": "Soult Beach",
+                  "text": "A Batrunban található Soult Beach Resort stílusos tengerparti élményt nyújt a libanoni partvidéken. A kényelem és a természeti szépség harmonikus keveréke tökéletessé teszi a helyet az úszáshoz és a napozáshoz. Egy ideális strandnaphoz érdemes időben érkezni, hogy a legjobb helyeket biztosítsuk magunknak.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.241507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fadous Beach",
+                  "text": "Fadous Beach este o porțiune pitorească de coastă ce oferă relaxare în Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.655561,
+                        34.228592
+                  ]
+            },
+            {
+                  "name": "Abandoned Aquarium of Batroun",
+                  "text": "Acvariu abandonat în Batroun, cu bazine și clădiri deteriorate.",
+                  "category": "family",
+                  "coords": [
+                        35.657661,
+                        34.250099
+                  ]
+            },
+            {
+                  "name": "Beth oromoye",
+                  "text": "Muzeu în Batroun dedicat culturii și istoriei siriace ortodoxe.",
+                  "category": "museum",
+                  "coords": [
+                        35.661795,
+                        34.234819
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "Barracuda este un complex turistic pe plajă vibrant care oferă activități de agrement la malul mării în Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.246109
+                  ]
+            },
+            {
+                  "name": "Phoenician Wall",
+                  "text": "Zidul Fenician din Batrun este un vechi dig marin construit inițial de fenicieni pentru a proteja împotriva valurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Sierra Beachfront Resort",
+                  "text": "Stațiune de plajă în Batroun, cu acces direct la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656346,
+                        34.233832
+                  ]
+            },
+            {
+                  "name": "Soult Beach",
+                  "text": "Situat în Batrun, Soult Beach Resort oferă o experiență elegantă pe coasta libaneză. Combinația armonioasă de confort și frumusețe naturală face din acest loc destinația perfectă pentru înot și băi de soare. Pentru o zi ideală de plajă, este recomandat să sosiți devreme pentru a prinde cele mai bune locuri.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.241507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fadous Beach",
+                  "text": "Fadous Beach is a scenic stretch of coastline offering relaxation in Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.655561,
+                        34.228592
+                  ]
+            },
+            {
+                  "name": "Abandoned aquarium of Batroun",
+                  "text": "Abandoned aquarium in Batroun with decaying tanks and buildings.",
+                  "category": "family",
+                  "coords": [
+                        35.657661,
+                        34.250099
+                  ]
+            },
+            {
+                  "name": "Beth oromoye",
+                  "text": "Museum in Batroun dedicated to Syriac Orthodox culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        35.661795,
+                        34.234819
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "Barracuda is a vibrant beach resort destination offering seaside leisure in Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.246109
+                  ]
+            },
+            {
+                  "name": "Phoenician Wall",
+                  "text": "The Phoenician Wall in Batrun is an ancient sea wall originally built by the Phoenicians to protect from tidal waves.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Sierra Beachfront Resort",
+                  "text": "Beachfront resort in Batroun with direct access to the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656346,
+                        34.233832
+                  ]
+            },
+            {
+                  "name": "Soult Beach",
+                  "text": "Situated in Batroun, the Soult Beach Resort offers a stylish seaside experience along the Lebanese coast. The harmonious blend of comfort and natural beauty makes this location absolutely perfect for swimming and sunbathing. Arriving with plenty of time to spare is the best way to secure a prime spot by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.241507
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-AS",
     coords: [35.6581, 34.2553],
@@ -2215,7 +4573,88 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 30 000 habitants, 50 km au nord de Beyrouth", "Racines phéniciennes du IIe millénaire av. J.-C.", "Mur de mer phénicien long de 225 mètres", "Un séisme au VIe siècle causa d'importants dégâts", "Forteresse de Mseilha bâtie par les Croisés dès 1104", "Centre ottoman pour l'huile d'olive et la soie", "Réputée pour sa limonade fraîche traditionnelle", "Église Mar Stephan du XIXe siècle"],
     }, image: "/poi-images/batroun-cities-v2.webp"},
   {
-    id: "zgharta-cities-v2",
+    id: "zgharta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Diese maronitische Kirche in Zgharta ist bekannt für ihre kunstvollen Steinmetzarbeiten aus lokalem Kalkstein.",
+                  "category": "landmark",
+                  "coords": [
+                        35.884017,
+                        34.408396
+                  ]
+            },
+            {
+                  "name": "Kanisat Mar Yuhanna",
+                  "text": "Eine der ältesten maronitischen Kirchen in Zgharta, deren charakteristische Architektur die religiöse Beständigkeit des Nordlibanon zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893808,
+                        34.397561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Ez a maronita templom Zghartában a helyi mészkőből készült, művészi kőfaragásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.884017,
+                        34.408396
+                  ]
+            },
+            {
+                  "name": "Kanisat Mar Yuhanna",
+                  "text": "Zgharta egyik legrégebbi maronita temploma, amelynek jellegzetes építészete Észak-Libanon vallási állandóságát mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893808,
+                        34.397561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Această biserică maronită din Zgharta este renumită pentru sculpturile sale artistice realizate din calcar local.",
+                  "category": "landmark",
+                  "coords": [
+                        35.884017,
+                        34.408396
+                  ]
+            },
+            {
+                  "name": "Kanisat Mar Yuhanna",
+                  "text": "Una dintre cele mai vechi biserici maronite din Zgharta, a cărei arhitectură caracteristică arată constanța religioasă a nordului Libanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893808,
+                        34.397561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Maroun Church",
+                  "text": "This Maronite church in Zgharta is renowned for its artistic stone carvings made from local limestone.",
+                  "category": "landmark",
+                  "coords": [
+                        35.884017,
+                        34.408396
+                  ]
+            },
+            {
+                  "name": "Kanisat Mar Yuhanna",
+                  "text": "One of the oldest Maronite churches in Zgharta, its characteristic architecture showcases the religious constancy of northern Lebanon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.893808,
+                        34.397561
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-AS",
     coords: [35.8950, 34.3972],
@@ -2270,7 +4709,52 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 70 000 habitants à 250 mètres d'altitude", "À 8 kilomètres de Tripoli", "Étroitement liée au lieu de villégiature d'Ehden à 1 450 mètres", "Fief de la famille maronite Frangieh", "Sleiman Frangieh fut président de 1970 à 1976", "Milice Marada lors de la guerre civile de 1975 à 1990", "Centre de production d'huile d'olive", "Mandat français de 1920 à 1943"],
     }, image: "/poi-images/zgharta-cities-v2.webp"},
   {
-    id: "amioun-cities-v2",
+    id: "amioun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church Of Saint Georges",
+                  "text": "Eine christliche Kirche in Amioun, die auf alten byzantinischen Fundamenten errichtet wurde und tief in der orthodoxen Tradition verwurzelt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.804641,
+                        34.299336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church Of Saint Georges",
+                  "text": "Amiouni keresztény templom, amely ősi bizánci alapokra épült, és mélyen gyökerezik az ortodox hagyományokban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.804641,
+                        34.299336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church Of Saint Georges",
+                  "text": "O biserică creștină în Amioun, construită pe vechi fundații bizantine și profund înrădăcinată în tradiția ortodoxă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.804641,
+                        34.299336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church Of Saint Georges",
+                  "text": "A Christian church in Amioun, built on ancient Byzantine foundations and deeply rooted in Orthodox tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        35.804641,
+                        34.299336
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-AS",
     coords: [35.8119, 34.2994],
@@ -2329,7 +4813,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Issa's view",
-                  "text": "Issa's view ist ein malerischer Aussichtspunkt in der Stadt Jezzine.",
+                  "text": "Aussichtspunkt in Jezzine mit Blick auf die bewaldeten Hügel und das Tal.",
                   "category": "natural",
                   "coords": [
                         35.55468,
@@ -2338,7 +4822,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Dieser Ort",
-                  "text": "Dieser Ort ist eine lokale Sehenswürdigkeit in Jezzine.",
+                  "text": "Historischer Ort in Jezzine mit einer malerischen Aussicht auf die Altstadt.",
                   "category": "landmark",
                   "coords": [
                         35.581536,
@@ -2349,7 +4833,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Issa's view",
-                  "text": "Az Issa's view egy festői kilátó Jezzine városában.",
+                  "text": "Kilátó Dzsízinben, erdős dombokra és völgyre nyíló kilátással.",
                   "category": "natural",
                   "coords": [
                         35.55468,
@@ -2358,7 +4842,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Jezzine Waterfalls",
-                  "text": "Ez a hely egy helyi látványosság Jezzine városában.",
+                  "text": "Történelmi hely Dzsízinben, festői kilátással az óvárosra.",
                   "category": "landmark",
                   "coords": [
                         35.581536,
@@ -2369,7 +4853,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Issa's view",
-                  "text": "Issa's view este un punct de observație pitoresc în orașul Jezzine.",
+                  "text": "Punct de belvedere în Jezzine, cu vedere la dealurile împădurite și vale.",
                   "category": "natural",
                   "coords": [
                         35.55468,
@@ -2378,7 +4862,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Acest loc",
-                  "text": "Acest loc este o atracție locală situată în Jezzine.",
+                  "text": "Loc istoric în Jezzine, cu o priveliște pitorească asupra orașului vechi.",
                   "category": "landmark",
                   "coords": [
                         35.581536,
@@ -2389,7 +4873,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Issa's view",
-                  "text": "Issa's view is a scenic viewpoint in the city of Jezzine.",
+                  "text": "Viewpoint in Jezzine overlooking forested hills and the valley.",
                   "category": "natural",
                   "coords": [
                         35.55468,
@@ -2398,7 +4882,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "This site",
-                  "text": "This site is a local attraction situated in Jezzine.",
+                  "text": "Historic site in Jezzine offering a picturesque view of the old town.",
                   "category": "landmark",
                   "coords": [
                         35.581536,
@@ -2520,7 +5004,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Saufar Castle",
-                  "text": "Das Saufar Castle ist ein Schloss in der Stadt Bhamdoun.",
+                  "text": "Burg auf einem Hügel in Bhamdoun mit Blick über die Stadt.",
                   "category": "castle",
                   "coords": [
                         35.68372,
@@ -2529,7 +5013,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "ruins of a grape press",
-                  "text": "Dies sind die Ruinen einer Traubenpresse in Bhamdoun.",
+                  "text": "Ruinen einer antiken Weinpresse in Bhamdoun, Zeugnis des Weinbaus.",
                   "category": "historical",
                   "coords": [
                         35.654659,
@@ -2540,7 +5024,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Saufar Castle",
-                  "text": "A Saufar-kastély egy kastély Bhamdoun városában.",
+                  "text": "Vár egy dombon Bhamdunban, rálátással a városra.",
                   "category": "castle",
                   "coords": [
                         35.68372,
@@ -2549,7 +5033,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "ruins of a grape press",
-                  "text": "Ezek egy szőlőprés romjai Bhamdoun területén.",
+                  "text": "Egy ősi szőlőprés romjai Bhamdunban, a borászat bizonyítéka.",
                   "category": "historical",
                   "coords": [
                         35.654659,
@@ -2560,7 +5044,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Saufar Castle",
-                  "text": "Castelul Saufar este un castel situat în orașul Bhamdoun.",
+                  "text": "Castel pe o colină în Bhamdoun, cu vedere asupra orașului.",
                   "category": "castle",
                   "coords": [
                         35.68372,
@@ -2569,7 +5053,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "ruins of a grape press",
-                  "text": "Acestea sunt ruinele unui teasc de struguri găsit în Bhamdoun.",
+                  "text": "Ruinele unui teascul antic de struguri în Bhamdoun, mărturie a viticulturii.",
                   "category": "historical",
                   "coords": [
                         35.654659,
@@ -2580,7 +5064,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Saufar Castle",
-                  "text": "Saufar Castle is a historic castle located in the town of Bhamdoun.",
+                  "text": "Castle on a hill in Bhamdoun overlooking the town.",
                   "category": "castle",
                   "coords": [
                         35.68372,
@@ -2589,7 +5073,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "ruins of a grape press",
-                  "text": "These are the ruins of a grape press situated in Bhamdoun.",
+                  "text": "Ruins of an ancient grape press in Bhamdoun, evidence of winemaking.",
                   "category": "historical",
                   "coords": [
                         35.654659,
@@ -2711,7 +5195,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rashaya Palace",
-                  "text": "Der Rashaya-Palast ist ein historisches Schloss in Rachaya.",
+                  "text": "Historische Zitadelle in Rashaya mit dicken Mauern und Türmen.",
                   "category": "castle",
                   "coords": [
                         35.841494,
@@ -2722,7 +5206,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rashaya Palace",
-                  "text": "A Rashaya-palota egy történelmi kastély Rachayában.",
+                  "text": "Történelmi citadella Rasájában, vastag falakkal és tornyokkal.",
                   "category": "castle",
                   "coords": [
                         35.841494,
@@ -2733,7 +5217,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rashaya Palace",
-                  "text": "Palatul Rashaya este un castel istoric în Rachaya.",
+                  "text": "Citadelă istorică în Rashaya, cu ziduri groase și turnuri.",
                   "category": "castle",
                   "coords": [
                         35.841494,
@@ -2744,7 +5228,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rashaya Palace",
-                  "text": "Rashaya Palace is a historic castle in Rachaya.",
+                  "text": "Historic citadel in Rashaya with thick walls and towers.",
                   "category": "castle",
                   "coords": [
                         35.841494,
@@ -2811,7 +5295,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tall Zaghla",
-                  "text": "Tall Zaghla ist ein Berggipfel in Hasbaya.",
+                  "text": "Natürlicher Hügel mit Panoramablick über die Region Hasbaya und einzigartigen Felsformationen.",
                   "category": "natural",
                   "coords": [
                         35.699791,
@@ -2820,7 +5304,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "kalaa al shahabeya",
-                  "text": "Kalaa Al Shahabeya ist eine lokale Sehenswürdigkeit in Hasbaya.",
+                  "text": "Festung in Hasbaya, erbaut auf einem Felsen über dem Fluss Hasbani.",
                   "category": "landmark",
                   "coords": [
                         35.686375,
@@ -2829,7 +5313,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Al-Qabu",
-                  "text": "عين القبو ist eine natürliche Quelle in Hasbaya.",
+                  "text": "Süßwasserquelle nahe Hasbaya, ein beliebter Picknickplatz mit natürlichen Becken.",
                   "category": "landmark",
                   "coords": [
                         35.691733,
@@ -2840,7 +5324,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tall Zaghla",
-                  "text": "A Tall Zaghla egy hegycsúcs Hasbaya területén.",
+                  "text": "Természetes domb panorámás kilátással Hasbaya vidékére és egyedi sziklaformációkkal.",
                   "category": "natural",
                   "coords": [
                         35.699791,
@@ -2849,7 +5333,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "kalaa al shahabeya",
-                  "text": "A Kalaa Al Shahabeya egy helyi látványosság Hasbaya városában.",
+                  "text": "Erőd Haszbejában, a Haszbani folyó feletti sziklán épült.",
                   "category": "landmark",
                   "coords": [
                         35.686375,
@@ -2858,7 +5342,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Al-Qabu",
-                  "text": "Az عين القبو egy természetes forrás Hasbaya területén.",
+                  "text": "Édesvízi forrás Hasbaya közelében, népszerű piknikhely természetes medencékkel.",
                   "category": "landmark",
                   "coords": [
                         35.691733,
@@ -2869,7 +5353,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tall Zaghla",
-                  "text": "Tall Zaghla este un vârf de munte situat în Hasbaya.",
+                  "text": "Deal natural cu priveliști panoramice asupra regiunii Hasbaya și formațiuni stâncoase unice.",
                   "category": "natural",
                   "coords": [
                         35.699791,
@@ -2878,7 +5362,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "kalaa al shahabeya",
-                  "text": "Kalaa Al Shahabeya este o atracție locală din Hasbaya.",
+                  "text": "Fortăreață în Hasbaya, construită pe o stâncă deasupra râului Hasbani.",
                   "category": "landmark",
                   "coords": [
                         35.686375,
@@ -2887,7 +5371,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Al-Qabu",
-                  "text": "عين القبو este un izvor natural situat în Hasbaya.",
+                  "text": "Izvor de apă dulce lângă Hasbaya, loc popular de picnic cu bazine naturale.",
                   "category": "landmark",
                   "coords": [
                         35.691733,
@@ -2898,7 +5382,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tall Zaghla",
-                  "text": "Tall Zaghla is a mountain peak located in Hasbaya.",
+                  "text": "Natural hill with panoramic views over the Hasbaya region and unique rock formations.",
                   "category": "natural",
                   "coords": [
                         35.699791,
@@ -2907,7 +5391,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Kalaa Al Shahabeya",
-                  "text": "Kalaa Al Shahabeya is a local tourist attraction situated in Hasbaya.",
+                  "text": "Fortress in Hasbaya built on a rock above the Hasbani River.",
                   "category": "landmark",
                   "coords": [
                         35.686375,
@@ -2916,7 +5400,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Al-Qabu",
-                  "text": "عين القبو is a natural water spring located in Hasbaya.",
+                  "text": "Freshwater spring near Hasbaya, a popular picnic spot with natural pools.",
                   "category": "landmark",
                   "coords": [
                         35.691733,
@@ -2979,7 +5463,196 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 5 000 habitants à 750 mètres d'altitude", "Sur le versant ouest du mont Hermon", "Palais Chéhab datant du XIIe siècle", "À l'origine château croisé, puis palais druze", "Centre majeur de la communauté druze", "Les oliveraies dominent l'économie", "Occupation israélienne de 1978 à 2000 à proximité", "Mandat français de 1920 à 1943"],
     }, image: "/poi-images/hasbaya-cities-v2.webp"},
   {
-    id: "rayak-cities-v2",
+    id: "rayak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église orthodoxe arménienne",
+                  "text": "Eine armenisch-orthodoxe Kirche in Rayak, die die traditionelle ostchristliche Liturgie bewahrt.",
+                  "category": "religious",
+                  "coords": [
+                        36.002571,
+                        33.850122
+                  ]
+            },
+            {
+                  "name": "Église Saint Roch",
+                  "text": "Eine engagierte Pfarrkirche in Rayak, die sich durch ihr friedliches Kirchenschiff und religiöse Ikonen auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        36.000168,
+                        33.849222
+                  ]
+            },
+            {
+                  "name": "St. Michel",
+                  "text": "Eine gemeinschaftsorientierte christliche Kirche in Rayak, die den örtlichen Familien mit regelmäßigen Messen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.012032,
+                        33.850698
+                  ]
+            },
+            {
+                  "name": "Al Saydé",
+                  "text": "Eine Marienkirche in Rayak mit traditionellen libanesisch-christlichen Architekturelementen.",
+                  "category": "landmark",
+                  "coords": [
+                        36.004565,
+                        33.850275
+                  ]
+            },
+            {
+                  "name": "Rayak Evangelical Baptist Church",
+                  "text": "Ein protestantisches Gotteshaus, das der evangelikalen Gemeinde in Rayak einen modernen Versammlungsraum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        36.008078,
+                        33.853504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église orthodoxe arménienne",
+                  "text": "Egy örmény ortodox templom Rayakban, amely megőrzi a hagyományos keleti keresztény liturgiát.",
+                  "category": "religious",
+                  "coords": [
+                        36.002571,
+                        33.850122
+                  ]
+            },
+            {
+                  "name": "Église Saint Roch",
+                  "text": "Egy elkötelezett plébániatemplom Rayakban, amelyet békés főhajója és vallási ikonjai jellemeznek.",
+                  "category": "religious",
+                  "coords": [
+                        36.000168,
+                        33.849222
+                  ]
+            },
+            {
+                  "name": "St. Michel",
+                  "text": "Egy közösségközpontú keresztény templom Rayakban, amely rendszeres misékkel szolgálja a helyi családokat.",
+                  "category": "landmark",
+                  "coords": [
+                        36.012032,
+                        33.850698
+                  ]
+            },
+            {
+                  "name": "Al Saydé",
+                  "text": "Egy Mária-templom Rayakban, hagyományos libanoni keresztény építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        36.004565,
+                        33.850275
+                  ]
+            },
+            {
+                  "name": "Rayak Evangelical Baptist Church",
+                  "text": "Egy protestáns istentiszteleti ház, amely modern gyülekezési teret biztosít az evangéliumi közösség számára Rayakban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.008078,
+                        33.853504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église orthodoxe arménienne",
+                  "text": "O biserică ortodoxă armeană din Rayak care păstrează liturghia creștină orientală tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        36.002571,
+                        33.850122
+                  ]
+            },
+            {
+                  "name": "Église Saint Roch",
+                  "text": "O biserică parohială dedicată din Rayak, caracterizată prin naosul său liniștit și icoanele religioase.",
+                  "category": "religious",
+                  "coords": [
+                        36.000168,
+                        33.849222
+                  ]
+            },
+            {
+                  "name": "St. Michel",
+                  "text": "O biserică creștină axată pe comunitate din Rayak, care deservește familiile locale cu slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        36.012032,
+                        33.850698
+                  ]
+            },
+            {
+                  "name": "Al Saydé",
+                  "text": "O biserică mariană din Rayak, cu elemente arhitecturale tradiționale creștine libaneze.",
+                  "category": "landmark",
+                  "coords": [
+                        36.004565,
+                        33.850275
+                  ]
+            },
+            {
+                  "name": "Rayak Evangelical Baptist Church",
+                  "text": "O casă de cult protestantă care oferă un spațiu de adunare modern pentru comunitatea evanghelică din Rayak.",
+                  "category": "landmark",
+                  "coords": [
+                        36.008078,
+                        33.853504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église orthodoxe arménienne",
+                  "text": "An Armenian Orthodox church in Rayak that preserves traditional eastern Christian liturgy.",
+                  "category": "religious",
+                  "coords": [
+                        36.002571,
+                        33.850122
+                  ]
+            },
+            {
+                  "name": "Église Saint Roch",
+                  "text": "A dedicated parish church in Rayak characterized by its peaceful nave and religious icons.",
+                  "category": "religious",
+                  "coords": [
+                        36.000168,
+                        33.849222
+                  ]
+            },
+            {
+                  "name": "St. Michel",
+                  "text": "A community-focused Christian church in Rayak serving local families with regular mass services.",
+                  "category": "landmark",
+                  "coords": [
+                        36.012032,
+                        33.850698
+                  ]
+            },
+            {
+                  "name": "Al Saydé",
+                  "text": "A Marian church in Rayak featuring traditional Lebanese Christian architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        36.004565,
+                        33.850275
+                  ]
+            },
+            {
+                  "name": "Rayak Evangelical Baptist Church",
+                  "text": "A Protestant house of worship providing a modern gathering space for the evangelical community in Rayak.",
+                  "category": "landmark",
+                  "coords": [
+                        36.008078,
+                        33.853504
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-BI",
     coords: [35.9922, 33.8550],
@@ -3038,7 +5711,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "chateau chahine",
-                  "text": "Chateau Chahine ist ein Anwesen und Schloss in Chtaura.",
+                  "text": "Schloss in Chtaura im Stil eines französischen Weinguts.",
                   "category": "castle",
                   "coords": [
                         35.850327,
@@ -3049,7 +5722,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "chateau chahine",
-                  "text": "A Chateau Chahine egy birtok és kastély Chtaurában.",
+                  "text": "Kastély Chtaurában, francia borászat stílusában.",
                   "category": "castle",
                   "coords": [
                         35.850327,
@@ -3060,7 +5733,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "chateau chahine",
-                  "text": "Chateau Chahine este un domeniu și castel în Chtaura.",
+                  "text": "Castel în Chtaura, în stilul unui domeniu viticol francez.",
                   "category": "castle",
                   "coords": [
                         35.850327,
@@ -3071,7 +5744,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "chateau chahine",
-                  "text": "Chateau Chahine is an estate and castle in Chtaura.",
+                  "text": "Château in Chtaura styled after a French winery.",
                   "category": "castle",
                   "coords": [
                         35.850327,
@@ -3138,7 +5811,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "anjar preserve",
-                  "text": "Das Anjar Preserve ist ein Naturschutzgebiet in Anjar.",
+                  "text": "Naturschutzgebiet in Anjar mit Feuchtgebieten und Zugvögeln.",
                   "category": "natural",
                   "coords": [
                         35.949519,
@@ -3147,7 +5820,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Boghos Snabian House Museum",
-                  "text": "Das Boghos Snabian House Museum ist ein lokales Museum in Anjar.",
+                  "text": "Museum in Anjar, ehemaliges Wohnhaus der Familie Snabian mit armenischen Exponaten.",
                   "category": "museum",
                   "coords": [
                         35.930886,
@@ -3165,7 +5838,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Beit Abdul Rahman",
-                  "text": "بيت عبد الرحمن ist eine lokale Attraktion in Anjar.",
+                  "text": "Historisches Haus in Anjar mit traditionellen Steinbögen und Innenhof.",
                   "category": "landmark",
                   "coords": [
                         35.918508,
@@ -3174,7 +5847,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Thermal Baths",
-                  "text": "Die Thermalbäder sind antike Ruinen in Anjar.",
+                  "text": "Römische Thermalbäder in Anjar mit erhaltenen Becken und Heizkanälen.",
                   "category": "historical",
                   "coords": [
                         35.934501,
@@ -3183,7 +5856,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Omayyad City",
-                  "text": "Die Omayyad City ist eine wichtige historische Attraktion in Anjar.",
+                  "text": "Ruinen der Umayyadenstadt Anjar mit Kolonnadenstraßen und Palastresten.",
                   "category": "landmark",
                   "coords": [
                         35.933464,
@@ -3192,7 +5865,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Musa Dagh",
-                  "text": "Das Musa Dagh Denkmal ist ein Gedenkstein in Anjar.",
+                  "text": "Denkmal in Anjar zum Gedenken an den armenischen Widerstand am Musa Dağ.",
                   "category": "historical",
                   "coords": [
                         35.932467,
@@ -3203,7 +5876,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "anjar preserve",
-                  "text": "Az Anjar rezervátum egy természetvédelmi terület Anjar városában.",
+                  "text": "Természetvédelmi terület Andzsárban, vizes élőhelyekkel és vándormadarokkal.",
                   "category": "natural",
                   "coords": [
                         35.949519,
@@ -3212,7 +5885,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Boghos Snabian Házmúzeum",
-                  "text": "A Boghos Snabian Házmúzeum egy helyi múzeum Anjar városában.",
+                  "text": "Múzeum Andzsárban, a Snabian család egykori háza örmény tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         35.930886,
@@ -3230,7 +5903,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Beit Abdul Rahman",
-                  "text": "A بيت عبد الرحمن egy helyi látványosság Anjar városában.",
+                  "text": "Történelmi ház Andzsárban, hagyományos kőívekkel és belső udvarral.",
                   "category": "landmark",
                   "coords": [
                         35.918508,
@@ -3239,7 +5912,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Thermal Baths",
-                  "text": "A termálfürdők ősi romok Anjar városában.",
+                  "text": "Római termálfürdők Andzsárban, megmaradt medencékkel és fűtőcsatornákkal.",
                   "category": "historical",
                   "coords": [
                         35.934501,
@@ -3248,7 +5921,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Omayyad City",
-                  "text": "Az Omajjád város egy fontos történelmi látványosság Anjar városában.",
+                  "text": "Az omajjád Andzsár város romjai, oszlopsoros utcákkal és palotamaradványokkal.",
                   "category": "landmark",
                   "coords": [
                         35.933464,
@@ -3257,7 +5930,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Musa Dagh",
-                  "text": "A Musa Dagh emlékmű egy emlékmű Anjar városában.",
+                  "text": "Emlékmű Andzsárban a Músa Dagh-i örmény ellenállás emlékére.",
                   "category": "historical",
                   "coords": [
                         35.932467,
@@ -3268,7 +5941,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "anjar preserve",
-                  "text": "Rezervația Anjar este o rezervație naturală situată în Anjar.",
+                  "text": "Rezervație naturală în Anjar, cu zone umede și păsări migratoare.",
                   "category": "natural",
                   "coords": [
                         35.949519,
@@ -3277,7 +5950,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Muzeu Boghos Snabian",
-                  "text": "Casa Muzeu Boghos Snabian este un muzeu local din Anjar.",
+                  "text": "Muzeu în Anjar, fosta casă a familiei Snabian cu exponate armenești.",
                   "category": "museum",
                   "coords": [
                         35.930886,
@@ -3295,7 +5968,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Beit Abdul Rahman",
-                  "text": "بيت عبد الرحمن este o atracție locală situată în Anjar.",
+                  "text": "Casă istorică în Anjar, cu arcade tradiționale de piatră și curte interioară.",
                   "category": "landmark",
                   "coords": [
                         35.918508,
@@ -3304,7 +5977,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Thermal Baths",
-                  "text": "Băile termale sunt ruine antice găsite în Anjar.",
+                  "text": "Băi termale romane în Anjar, cu bazine conservate și canale de încălzire.",
                   "category": "historical",
                   "coords": [
                         35.934501,
@@ -3313,7 +5986,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Omayyad City",
-                  "text": "Orașul Omayyad este o importantă atracție istorică din Anjar.",
+                  "text": "Ruinele orașului omeiad Anjar, cu străzi colonate și rămășițele palatului.",
                   "category": "landmark",
                   "coords": [
                         35.933464,
@@ -3322,7 +5995,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Monument Musa Dagh",
-                  "text": "Monumentul Musa Dagh este un monument comemorativ situat în Anjar.",
+                  "text": "Monument în Anjar în memoria rezistenței armene de pe Muntele Musa.",
                   "category": "historical",
                   "coords": [
                         35.932467,
@@ -3333,7 +6006,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "anjar preserve",
-                  "text": "The Anjar preserve is a nature reserve located in Anjar.",
+                  "text": "Nature preserve in Anjar featuring wetlands and migratory birds.",
                   "category": "natural",
                   "coords": [
                         35.949519,
@@ -3342,7 +6015,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Boghos Snabian House Museum",
-                  "text": "Boghos Snabian House Museum is a local museum situated in Anjar.",
+                  "text": "Museum in Anjar, former Snabian family home with Armenian exhibits.",
                   "category": "museum",
                   "coords": [
                         35.930886,
@@ -3360,7 +6033,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Beit Abdul Rahman",
-                  "text": "بيت عبد الرحمن is a local tourist attraction situated in Anjar.",
+                  "text": "Historic house in Anjar with traditional stone arches and courtyard.",
                   "category": "landmark",
                   "coords": [
                         35.918508,
@@ -3369,7 +6042,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Thermal Baths",
-                  "text": "The Thermal Baths are ancient ruins found in Anjar.",
+                  "text": "Roman thermal baths in Anjar with preserved pools and heating channels.",
                   "category": "historical",
                   "coords": [
                         35.934501,
@@ -3378,7 +6051,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Omayyad City",
-                  "text": "Omayyad City is an important historical attraction located in Anjar.",
+                  "text": "Ruins of the Umayyad city of Anjar with colonnaded streets and palace remains.",
                   "category": "landmark",
                   "coords": [
                         35.933464,
@@ -3387,7 +6060,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Musa Dagh Monument",
-                  "text": "Musa Dagh Monument is a memorial monument located in Anjar.",
+                  "text": "Monument in Anjar commemorating the Armenian resistance at Musa Dagh.",
                   "category": "historical",
                   "coords": [
                         35.932467,
@@ -3450,7 +6123,124 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 2 400 habitants, majoritairement arméniens", "Réfugiés arméniens du Musa Dagh depuis 1939", "Cité omeyyade fondée au début du VIIIe siècle", "Construite sous le calife Walid Ier (705 à 715)", "Plan de 370 x 310 mètres avec 40 tours", "Patrimoine mondial de l'UNESCO depuis 1984", "Seul site urbain omeyyade du Liban", "À 950 mètres d'altitude dans la plaine de la Bekaa"],
     }, image: "/poi-images/anjar-cities-v2.webp"},
   {
-    id: "deir-el-qamar-cities-v2",
+    id: "deir-el-qamar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr Hamadi",
+                  "text": "Ein historischer Palast der Familie Hamadi, der die prächtige Architektur von Deir el Qamar aus dem 16. Jahrhundert zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.558625,
+                        33.678818
+                  ]
+            },
+            {
+                  "name": "Saydet El Talle",
+                  "text": "Diese historische maronitische Kirche, Unsere Liebe Frau vom Hügel, wurde über den Ruinen eines antiken phönizischen Tempels errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        35.565456,
+                        33.697329
+                  ]
+            },
+            {
+                  "name": "Byt Baakline",
+                  "text": "Ein traditionelles religiöses oder Gemeinschaftshaus der Drusen in der historischen Stadt Baakline.",
+                  "category": "religious",
+                  "coords": [
+                        35.561973,
+                        33.676619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qasr Hamadi",
+                  "text": "A Hamadi család történelmi palotája, amely Deir el Qamar nagyszerű, 16. századi építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        35.558625,
+                        33.678818
+                  ]
+            },
+            {
+                  "name": "Saydet El Talle",
+                  "text": "Ez a történelmi maronita templom, a Domb Boldogasszonya, egy ősi föníciai templom romjaira épült.",
+                  "category": "religious",
+                  "coords": [
+                        35.565456,
+                        33.697329
+                  ]
+            },
+            {
+                  "name": "Byt Baakline",
+                  "text": "Hagyományos drúz vallási vagy közösségi ház Baakline történelmi városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.561973,
+                        33.676619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qasr Hamadi",
+                  "text": "Un palat istoric aparținând familiei Hamadi, prezentând arhitectura grandioasă din secolul al XVI-lea din Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.558625,
+                        33.678818
+                  ]
+            },
+            {
+                  "name": "Saydet El Talle",
+                  "text": "Această biserică maronită istorică, Maica Domnului de pe Deal, a fost construită peste ruinele unui vechi templu fenician.",
+                  "category": "religious",
+                  "coords": [
+                        35.565456,
+                        33.697329
+                  ]
+            },
+            {
+                  "name": "Byt Baakline",
+                  "text": "O casă religioasă sau comunitară tradițională druză situată în orașul istoric Baakline.",
+                  "category": "religious",
+                  "coords": [
+                        35.561973,
+                        33.676619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Hamadi",
+                  "text": "A historic palace belonging to the Hamadi family, showcasing the grand 16th-century architecture of Deir el Qamar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.558625,
+                        33.678818
+                  ]
+            },
+            {
+                  "name": "Saydet El Talle",
+                  "text": "This historic Maronite church, Our Lady of the Hill, was built over the ruins of an ancient Phoenician temple dedicated to Astarte.",
+                  "category": "religious",
+                  "coords": [
+                        35.565456,
+                        33.697329
+                  ]
+            },
+            {
+                  "name": "Byt Baakline",
+                  "text": "A traditional Druze religious or community house located in the historic town of Baakline.",
+                  "category": "religious",
+                  "coords": [
+                        35.561973,
+                        33.676619
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-JL",
     coords: [35.5658, 33.6978],
@@ -3505,7 +6295,484 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 5 000 habitants à 800 mètres d'altitude", "Capitale de l'émirat du Mont-Liban de 1590 à 1840", "Résidence de l'émir Fakhreddine II (1572-1635)", "Mosquée Fakhreddine de 1493", "Le nom signifie Couvent de la Lune", "Mandat français de 1920 à 1943", "Majorité maronite avec une minorité druze", "Joyau architectural de l'époque ottomane"],
     }, image: "/poi-images/deir-el-qamar-cities-v2.webp"},
   {
-    id: "broummana-cities-v2",
+    id: "broummana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chapel (Mar Charbel)",
+                  "text": "Eine kleine, fromme Kapelle, die dem Heiligen Charbel gewidmet ist und inmitten der Kiefernwälder von Broummana liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.636594,
+                        33.883204
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "Eine verehrte christliche Pfarrkirche in Broummana, erbaut aus traditionellem libanesischem Stein.",
+                  "category": "landmark",
+                  "coords": [
+                        35.644993,
+                        33.881641
+                  ]
+            },
+            {
+                  "name": "Virgin Mary Shrine",
+                  "text": "Ein beliebter Wallfahrtsort der Jungfrau Maria, eingebettet in den Höhen von Broummana.",
+                  "category": "landmark",
+                  "coords": [
+                        35.613328,
+                        33.897657
+                  ]
+            },
+            {
+                  "name": "Saint Veronica Giuliani Church",
+                  "text": "Eine einzigartig gewidmete Kirche in Broummana zu Ehren der italienischen Mystikerin und Heiligen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.651342,
+                        33.869201
+                  ]
+            },
+            {
+                  "name": "Mar Youssef",
+                  "text": "Eine maronitische Gemeindekirche in Broummana, die sich durch ihren markanten Glockenturm auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638558,
+                        33.865105
+                  ]
+            },
+            {
+                  "name": "Meeting House",
+                  "text": "Ein bescheidener christlicher Versammlungsort in Broummana, der für die Gemeinschaft konzipiert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624457,
+                        33.880595
+                  ]
+            },
+            {
+                  "name": "Broummana Cemetery",
+                  "text": "Eine ruhige christliche Begräbnisstätte in Broummana, die von alten Kiefern beschattet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.632893,
+                        33.882543
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Eine bedeutende lokale katholische Kirche in Broummana, in der regelmäßig Gemeindemessen stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.640355,
+                        33.882851
+                  ]
+            },
+            {
+                  "name": "Saydet El Bishara Church",
+                  "text": "Eine engagierte Verkündigungskirche in Broummana mit kunstvollen Innendetails.",
+                  "category": "landmark",
+                  "coords": [
+                        35.617965,
+                        33.874773
+                  ]
+            },
+            {
+                  "name": "Mar Chaaya Church",
+                  "text": "Eine historische Bergkirche in Broummana, die mit den lokalen klösterlichen Traditionen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.633503,
+                        33.883905
+                  ]
+            },
+            {
+                  "name": "St-George's Church (Greek Orthodox)",
+                  "text": "Ein griechisch-orthodoxes Heiligtum in Broummana, das mit aufwändigen traditionellen Fresken geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.634652,
+                        33.884507
+                  ]
+            },
+            {
+                  "name": "Holy Archangel Michael Church",
+                  "text": "Ein spirituelles Zentrum in Broummana mit unverwechselbaren Ikonen des Erzengels Michael.",
+                  "category": "landmark",
+                  "coords": [
+                        35.620178,
+                        33.899788
+                  ]
+            },
+            {
+                  "name": "Mar Chaaya Monastery",
+                  "text": "Ein weitläufiges religiöses Refugium und Klosterkomplex inmitten der üppigen Landschaft von Broummana.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64462,
+                        33.895244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chapel (Mar Charbel)",
+                  "text": "Egy kis, áhítatos kápolna Szent Charbel tiszteletére, Broummana fenyőerdei között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.636594,
+                        33.883204
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "Egy tisztelt keresztény plébániatemplom Broummanában, amelyet hagyományos libanoni kőből építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.644993,
+                        33.881641
+                  ]
+            },
+            {
+                  "name": "Virgin Mary Shrine",
+                  "text": "Egy népszerű zarándokhely Szűz Mária tiszteletére, amely Broummana magaslatain fészkel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.613328,
+                        33.897657
+                  ]
+            },
+            {
+                  "name": "Saint Veronica Giuliani Church",
+                  "text": "Egy egyedülálló módon felszentelt templom Broummanában, amely az olasz misztikus szentet tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.651342,
+                        33.869201
+                  ]
+            },
+            {
+                  "name": "Mar Youssef",
+                  "text": "Egy maronita közösségi templom Broummanában, amelyet feltűnő harangtornya jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638558,
+                        33.865105
+                  ]
+            },
+            {
+                  "name": "Meeting House",
+                  "text": "Egy szerény keresztény gyülekezési hely Broummanában, amelyet a közösségi közösség számára terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624457,
+                        33.880595
+                  ]
+            },
+            {
+                  "name": "Broummana Cemetery",
+                  "text": "Egy nyugodt keresztény temetkezési hely Broummanában, amelyet öreg fenyőfák árnyékolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.632893,
+                        33.882543
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Egy kiemelkedő helyi katolikus templom Broummanában, amely rendszeres közösségi miséknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        35.640355,
+                        33.882851
+                  ]
+            },
+            {
+                  "name": "Saydet El Bishara Church",
+                  "text": "Az Angyali üdvözlet dedikált temploma Broummanában, díszes belső részletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.617965,
+                        33.874773
+                  ]
+            },
+            {
+                  "name": "Mar Chaaya Church",
+                  "text": "Egy történelmi hegyi templom Broummanában, amely a helyi szerzetesi hagyományokhoz kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.633503,
+                        33.883905
+                  ]
+            },
+            {
+                  "name": "St-George's Church (Greek Orthodox)",
+                  "text": "Görög ortodox szentély Broummanában, amelyet bonyolult hagyományos freskók díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.634652,
+                        33.884507
+                  ]
+            },
+            {
+                  "name": "Holy Archangel Michael Church",
+                  "text": "Spirituális központ Broummanában, amely Mihály arkangyal jellegzetes ikonjaival büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.620178,
+                        33.899788
+                  ]
+            },
+            {
+                  "name": "Mar Chaaya Monastery",
+                  "text": "Hatalmas vallási elvonulás és kolostorkomplexum, amely Broummana buja tája közepette található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64462,
+                        33.895244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chapel (Mar Charbel)",
+                  "text": "O mică capelă evlavioasă dedicată Sfântului Charbel, amplasată printre pădurile de pini din Broummana.",
+                  "category": "landmark",
+                  "coords": [
+                        35.636594,
+                        33.883204
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "O biserică parohială creștină venerată din Broummana, construită cu piatră tradițională libaneză.",
+                  "category": "landmark",
+                  "coords": [
+                        35.644993,
+                        33.881641
+                  ]
+            },
+            {
+                  "name": "Virgin Mary Shrine",
+                  "text": "Un altar de pelerinaj popular dedicat Fecioarei Maria, cuibărit în înălțimile din Broummana.",
+                  "category": "landmark",
+                  "coords": [
+                        35.613328,
+                        33.897657
+                  ]
+            },
+            {
+                  "name": "Saint Veronica Giuliani Church",
+                  "text": "O biserică dedicată în mod unic în Broummana, onorând-o pe sfânta mistică italiană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.651342,
+                        33.869201
+                  ]
+            },
+            {
+                  "name": "Mar Youssef",
+                  "text": "O biserică a comunității maronite din Broummana, caracterizată prin clopotnița sa izbitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638558,
+                        33.865105
+                  ]
+            },
+            {
+                  "name": "Meeting House",
+                  "text": "Un loc de adunare creștin modest în Broummana, conceput pentru părtășia comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624457,
+                        33.880595
+                  ]
+            },
+            {
+                  "name": "Broummana Cemetery",
+                  "text": "Un cimitir creștin liniștit în Broummana, umbrit de pini bătrâni.",
+                  "category": "landmark",
+                  "coords": [
+                        35.632893,
+                        33.882543
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "O biserică catolică locală proeminentă din Broummana, care găzduiește slujbe regulate ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        35.640355,
+                        33.882851
+                  ]
+            },
+            {
+                  "name": "Saydet El Bishara Church",
+                  "text": "O Biserică dedicată a Bunei Vestiri din Broummana, cu detalii interioare ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.617965,
+                        33.874773
+                  ]
+            },
+            {
+                  "name": "Mar Chaaya Church",
+                  "text": "O biserică montană istorică din Broummana, atașată de tradițiile monahale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.633503,
+                        33.883905
+                  ]
+            },
+            {
+                  "name": "St-George's Church (Greek Orthodox)",
+                  "text": "Un sanctuar greco-ortodox în Broummana, împodobit cu fresce tradiționale elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.634652,
+                        33.884507
+                  ]
+            },
+            {
+                  "name": "Holy Archangel Michael Church",
+                  "text": "Un centru spiritual din Broummana cu icoane distinctive ale Arhanghelului Mihail.",
+                  "category": "landmark",
+                  "coords": [
+                        35.620178,
+                        33.899788
+                  ]
+            },
+            {
+                  "name": "Mar Chaaya Monastery",
+                  "text": "Un complex religios de retragere și mănăstire care se întinde în mijlocul peisajului luxuriant din Broummana.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64462,
+                        33.895244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chapel (Mar Charbel)",
+                  "text": "A small, devout chapel dedicated to Saint Charbel, set amidst the pine forests of Broummana.",
+                  "category": "landmark",
+                  "coords": [
+                        35.636594,
+                        33.883204
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "A revered Christian parish church in Broummana built with traditional Lebanese stone.",
+                  "category": "landmark",
+                  "coords": [
+                        35.644993,
+                        33.881641
+                  ]
+            },
+            {
+                  "name": "Virgin Mary Shrine",
+                  "text": "A popular pilgrimage shrine dedicated to the Virgin Mary nestled in the heights of Broummana.",
+                  "category": "landmark",
+                  "coords": [
+                        35.613328,
+                        33.897657
+                  ]
+            },
+            {
+                  "name": "Saint Veronica Giuliani Church",
+                  "text": "A uniquely dedicated church in Broummana honoring the Italian mystic saint.",
+                  "category": "landmark",
+                  "coords": [
+                        35.651342,
+                        33.869201
+                  ]
+            },
+            {
+                  "name": "Mar Youssef",
+                  "text": "A Maronite community church in Broummana characterized by its striking belfry.",
+                  "category": "landmark",
+                  "coords": [
+                        35.638558,
+                        33.865105
+                  ]
+            },
+            {
+                  "name": "Meeting House",
+                  "text": "A modest Christian gathering place in Broummana designed for community fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624457,
+                        33.880595
+                  ]
+            },
+            {
+                  "name": "Broummana Cemetery",
+                  "text": "A tranquil Christian burial ground in Broummana shaded by old pine trees.",
+                  "category": "landmark",
+                  "coords": [
+                        35.632893,
+                        33.882543
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A prominent local Catholic church in Broummana hosting regular community masses.",
+                  "category": "landmark",
+                  "coords": [
+                        35.640355,
+                        33.882851
+                  ]
+            },
+            {
+                  "name": "Saydet El Bishara Church",
+                  "text": "A dedicated Church of the Annunciation in Broummana with ornate interior details.",
+                  "category": "landmark",
+                  "coords": [
+                        35.617965,
+                        33.874773
+                  ]
+            },
+            {
+                  "name": "Mar Chaaya Church",
+                  "text": "A historic mountain church in Broummana attached to the local monastic traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        35.633503,
+                        33.883905
+                  ]
+            },
+            {
+                  "name": "St-George's Church (Greek Orthodox)",
+                  "text": "A Greek Orthodox sanctuary in Broummana adorned with elaborate traditional frescoes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.634652,
+                        33.884507
+                  ]
+            },
+            {
+                  "name": "Holy Archangel Michael Church",
+                  "text": "A spiritual center in Broummana featuring distinctive icons of the Archangel Michael.",
+                  "category": "landmark",
+                  "coords": [
+                        35.620178,
+                        33.899788
+                  ]
+            },
+            {
+                  "name": "Mar Chaaya Monastery",
+                  "text": "A sprawling religious retreat and monastery complex set amidst the lush landscape of Broummana.",
+                  "category": "landmark",
+                  "coords": [
+                        35.64462,
+                        33.895244
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-JL",
     coords: [35.6358, 33.8822],
@@ -3564,7 +6831,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Horch Ehden Nature Reserve",
-                  "text": "Das Naturschutzgebiet Horch Ehden ist ein geschütztes Naturgebiet in Ehden.",
+                  "text": "Naturschutzgebiet bei Ehden mit dichten Zedernwäldern und Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         35.992369,
@@ -3573,7 +6840,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Antoniuskloster Quzhaya",
-                  "text": "Das Kloster St. Antonius von Qozhaya ist eine herausragende historische Attraktion in Ehden.",
+                  "text": "Ein maronitisches Kloster im Qadisha-Tal, gegründet im 4. Jahrhundert.",
                   "category": "landmark",
                   "coords": [
                         35.946819,
@@ -3582,7 +6849,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Youssef Bey Karam Memorial",
-                  "text": "جثمان يوسف بيك كرم ist eine Gedenkstätte in Ehden.",
+                  "text": "Gedenkstätte für Youssef Bey Karam in Ehden, eine Statue auf dem Hauptplatz.",
                   "category": "landmark",
                   "coords": [
                         35.966999,
@@ -3591,7 +6858,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Mar Bichay Hermitage",
-                  "text": "Die Eremitage Mar Bichay ist ein lokaler Schrein in Ehden.",
+                  "text": "Einsiedelei des Mar Bichay in Ehden, in eine Felswand gebaut.",
                   "category": "landmark",
                   "coords": [
                         35.945425,
@@ -3602,7 +6869,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Horch Ehden Nature Reserve",
-                  "text": "A Horch Ehden Természetvédelmi Terület egy védett természeti terület Ehden városában.",
+                  "text": "Természetvédelmi terület Ehden közelében, sűrű cédruserdőkkel és túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         35.992369,
@@ -3611,7 +6878,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Qozhayai Szent Antal-kolostor",
-                  "text": "A Qozhayai Szent Antal-kolostor egy kiemelkedő történelmi látványosság Ehden városában.",
+                  "text": "Egy maronita kolostor a Qadisha-völgyben, a 4. században alapították.",
                   "category": "landmark",
                   "coords": [
                         35.946819,
@@ -3620,7 +6887,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Youssef Bey Karam Memorial",
-                  "text": "A جثمان يوسف بيك كرم egy emlékmű és látványosság Ehden városában.",
+                  "text": "Youssef Bey Karam emlékműve Ehdenben, szobor a főtéren.",
                   "category": "landmark",
                   "coords": [
                         35.966999,
@@ -3629,7 +6896,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Mar Bichay Hermitage",
-                  "text": "A Mar Bichay remetelak egy helyi szentély Ehden városában.",
+                  "text": "Mar Bichay remetelak Ehdenben, sziklafalba építve.",
                   "category": "landmark",
                   "coords": [
                         35.945425,
@@ -3640,7 +6907,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Horch Ehden Nature Reserve",
-                  "text": "Rezervația Naturală Horch Ehden este o arie naturală protejată din Ehden.",
+                  "text": "Rezervație naturală lângă Ehden, cu păduri dese de cedri și trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         35.992369,
@@ -3649,7 +6916,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Mănăstirea Sfântul Anton din Qozhaya",
-                  "text": "Mănăstirea Sfântul Anton din Qozhaya este o atracție istorică proeminentă din Ehden.",
+                  "text": "O mănăstire maronită în Valea Qadisha, fondată în secolul al IV-lea.",
                   "category": "landmark",
                   "coords": [
                         35.946819,
@@ -3658,7 +6925,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Youssef Bey Karam Memorial",
-                  "text": "جثمان يوسف بيك كرم este o atracție memorială situată în Ehden.",
+                  "text": "Memorialul lui Youssef Bey Karam în Ehden, o statuie în piața principală.",
                   "category": "landmark",
                   "coords": [
                         35.966999,
@@ -3667,7 +6934,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Mar Bichay Hermitage",
-                  "text": "Schitul Mar Bichay este un altar local din Ehden.",
+                  "text": "Schitul Mar Bichay în Ehden, construit într-un perete de stâncă.",
                   "category": "landmark",
                   "coords": [
                         35.945425,
@@ -3678,7 +6945,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Horch Ehden Nature Reserve",
-                  "text": "Horch Ehden Nature Reserve is a protected natural area situated in Ehden.",
+                  "text": "Nature reserve near Ehden with dense cedar forests and hiking trails.",
                   "category": "natural",
                   "coords": [
                         35.992369,
@@ -3687,7 +6954,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Monastery of St Anthony of Qozhaya",
-                  "text": "The Monastery of St Anthony of Qozhaya is a prominent historical attraction in Ehden.",
+                  "text": "A Maronite monastery in the Qadisha Valley, founded in the 4th century.",
                   "category": "landmark",
                   "coords": [
                         35.946819,
@@ -3696,7 +6963,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Youssef Bey Karam Memorial",
-                  "text": "جثمان يوسف بيك كرم is a memorial tourist attraction located in Ehden.",
+                  "text": "Memorial for Youssef Bey Karam in Ehden, a statue in the main square.",
                   "category": "landmark",
                   "coords": [
                         35.966999,
@@ -3705,7 +6972,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Mar Bichay Hermitage",
-                  "text": "Mar Bichay Hermitage is a local shrine situated in Ehden.",
+                  "text": "Hermitage of Mar Bichay in Ehden, built into a cliff face.",
                   "category": "landmark",
                   "coords": [
                         35.945425,
@@ -3772,7 +7039,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Wildlife and Butterfly Museum",
-                  "text": "Diese Einrichtung dient als Museum in Kobayat.",
+                  "text": "Museum in Qobayat mit einer Sammlung von Schmetterlingen und lokaler Tierwelt.",
                   "category": "museum",
                   "coords": [
                         36.27927,
@@ -3781,7 +7048,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Helsben Valley",
-                  "text": "Das Helsben Valley ist eine natürliche Attraktion in Kobayat.",
+                  "text": "Das Helsben-Tal in Qobayat, bekannt für seine Obstgärten und Quelle.",
                   "category": "landmark",
                   "coords": [
                         36.282161,
@@ -3792,7 +7059,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Wildlife and Butterfly Museum",
-                  "text": "Ez a létesítmény múzeumként működik Kobayat városában.",
+                  "text": "Múzeum Kobajátban, pillangók és helyi vadvilág gyűjteményével.",
                   "category": "museum",
                   "coords": [
                         36.27927,
@@ -3801,7 +7068,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Helsben Valley",
-                  "text": "A Helsben Valley egy természeti látványosság Kobayatban.",
+                  "text": "A Helsben-völgy Kobajátban, gyümölcsöseiről és forrásáról ismert.",
                   "category": "landmark",
                   "coords": [
                         36.282161,
@@ -3812,7 +7079,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Wildlife and Butterfly Museum",
-                  "text": "Această facilitate servește ca muzeu în Kobayat.",
+                  "text": "Muzeu în Qobayat, cu o colecție de fluturi și faună locală.",
                   "category": "museum",
                   "coords": [
                         36.27927,
@@ -3821,7 +7088,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Helsben Valley",
-                  "text": "Helsben Valley este o atracție naturală situată în Kobayat.",
+                  "text": "Valea Helsben din Qobayat, cunoscută pentru livezile și izvorul său.",
                   "category": "landmark",
                   "coords": [
                         36.282161,
@@ -3832,7 +7099,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Wildlife and Butterfly Museum",
-                  "text": "This facility serves as a museum located in Kobayat.",
+                  "text": "Museum in Qobayat featuring a collection of butterflies and local wildlife.",
                   "category": "museum",
                   "coords": [
                         36.27927,
@@ -3841,7 +7108,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Helsben Valley",
-                  "text": "Helsben Valley is a natural attraction located in Kobayat.",
+                  "text": "Helsben Valley in Qobayat, known for its orchards and freshwater spring.",
                   "category": "landmark",
                   "coords": [
                         36.282161,
@@ -3908,7 +7175,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dieses historische Haus in Bint Dschubail",
-                  "text": "Dieses historische Haus in Bint Dschubail ist eine lokale Sehenswürdigkeit.",
+                  "text": "Ein traditionelles Steinhaus mit Rundbogenfenstern im alten Viertel von Jbeil.",
                   "category": "landmark",
                   "coords": [
                         35.440425,
@@ -3917,7 +7184,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins of Bint Jbeil",
-                  "text": "Die Ruinen von Bint Dschubail sind ein Zeugnis der Geschichte.",
+                  "text": "Ruinen eines mittelalterlichen Wachturms auf einem Hügel in Jbeil.",
                   "category": "historical",
                   "coords": [
                         35.434853,
@@ -3928,7 +7195,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ainata Beit Khanafer House",
-                  "text": "Ez a történelmi ház Bint Dschubailban egy helyi látnivaló.",
+                  "text": "Egy hagyományos kőház íves ablakokkal Jbeil óvárosában.",
                   "category": "landmark",
                   "coords": [
                         35.440425,
@@ -3937,7 +7204,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins of Bint Jbeil",
-                  "text": "Bint Dschubail romjai a történelem tanúi.",
+                  "text": "Egy középkori őrtorony romjai egy dombon Jbeilben.",
                   "category": "historical",
                   "coords": [
                         35.434853,
@@ -3948,7 +7215,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Această casă istorică din Bint Dschubail",
-                  "text": "Această casă istorică din Bint Dschubail este o atracție locală.",
+                  "text": "O casă tradițională de piatră cu ferestre arcuite în cartierul vechi al Jbeilului.",
                   "category": "landmark",
                   "coords": [
                         35.440425,
@@ -3957,7 +7224,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins of Bint Jbeil",
-                  "text": "Ruinele din Bint Dschubail sunt o mărturie a istoriei.",
+                  "text": "Ruinele unui turn de veghe medieval pe un deal în Jbeil.",
                   "category": "historical",
                   "coords": [
                         35.434853,
@@ -3968,7 +7235,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "This historic house in Bint Jbeil",
-                  "text": "This historic house in Bint Jbeil is a local attraction.",
+                  "text": "A traditional stone house with arched windows in the old quarter of Jbeil.",
                   "category": "landmark",
                   "coords": [
                         35.440425,
@@ -3977,7 +7244,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins of Bint Jbeil",
-                  "text": "The ruins of Bint Jbeil are a testimony to history.",
+                  "text": "Ruins of a medieval watchtower on a hill in Jbeil.",
                   "category": "historical",
                   "coords": [
                         35.434853,
@@ -4044,7 +7311,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tell Dibbine",
-                  "text": "Tell Dibbine ist eine antike archäologische Stätte in Mardschajun.",
+                  "text": "Ein archäologischer Tell (Hügel) nahe Marjayoun mit Überresten aus der Bronzezeit.",
                   "category": "historical",
                   "coords": [
                         35.590101,
@@ -4055,7 +7322,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tell Dibbine",
-                  "text": "A Tell Dibbine egy ősi régészeti lelőhely Mardschajun városában.",
+                  "text": "Egy régészeti tell (halom) Marjayoun közelében, bronzkori maradványokkal.",
                   "category": "historical",
                   "coords": [
                         35.590101,
@@ -4066,7 +7333,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tell Dibbine",
-                  "text": "Tell Dibbine este un sit arheologic antic situat în Mardschajun.",
+                  "text": "Un tell arheologic (movilă) lângă Marjayoun, cu rămășițe din Epoca Bronzului.",
                   "category": "historical",
                   "coords": [
                         35.590101,
@@ -4077,7 +7344,7 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tell Dibbine",
-                  "text": "Tell Dibbine is an ancient archaeological site located in Mardschajun.",
+                  "text": "An archaeological tell (mound) near Marjayoun, containing Bronze Age remains.",
                   "category": "historical",
                   "coords": [
                         35.590101,

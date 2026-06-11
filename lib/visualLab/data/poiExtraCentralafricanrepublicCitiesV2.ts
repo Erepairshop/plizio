@@ -724,7 +724,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tata fortifié du sultan Sénoussi",
-                  "text": "Das Tata fortifié du sultan Sénoussi ist eine historische Befestigungsanlage in Ndélé.",
+                  "text": "Eine traditionelle Erdfestung in Ndele, erbaut für Sultan Sénoussi in der Zentralafrikanischen Republik.",
                   "category": "castle",
                   "coords": [
                         20.651258,
@@ -735,7 +735,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tata fortifié du sultan Sénoussi",
-                  "text": "A Tata fortifié du sultan Sénoussi egy történelmi erődítmény Ndélé városában.",
+                  "text": "Hagyományos földerőd Ndelében, a Szultán Sénoussi számára építve a Közép-afrikai Köztársaságban.",
                   "category": "castle",
                   "coords": [
                         20.651258,
@@ -746,7 +746,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tata fortifié du sultan Sénoussi",
-                  "text": "Tata fortifié du sultan Sénoussi este o fortificație istorică în Ndélé.",
+                  "text": "O fortăreață tradițională de pământ în Ndele, construită pentru sultanul Sénoussi în Republica Centrafricană.",
                   "category": "castle",
                   "coords": [
                         20.651258,
@@ -757,7 +757,7 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tata fortifié du sultan Sénoussi",
-                  "text": "The Tata fortifié du sultan Sénoussi is a historical fortification in Ndélé.",
+                  "text": "A traditional earthen fort in Ndele, built for Sultan Sénoussi in the Central African Republic.",
                   "category": "castle",
                   "coords": [
                         20.651258,

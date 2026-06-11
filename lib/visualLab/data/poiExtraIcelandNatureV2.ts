@@ -414,7 +414,7 @@ imageHint: "Skogafoss waterfall South Iceland",
             },
             {
                   "name": "Höhle Paradísarhellir",
-                  "text": "Die Höhle Paradísarhellir befindet sich in der malerischen Umgebung des Seljalandsfoss.",
+                  "text": "Die Höhle Paradísarhellir hinter dem Wasserfall Seljalandsfoss.",
                   "category": "landmark",
                   "coords": [
                         -19.958812,
@@ -434,7 +434,7 @@ imageHint: "Skogafoss waterfall South Iceland",
             },
             {
                   "name": "Paradísarhellir",
-                  "text": "A Paradísarhellir barlang a Seljalandsfoss festői környezetében található.",
+                  "text": "A Paradísarhellir-barlang a Seljalandsfoss-vízesés mögött.",
                   "category": "landmark",
                   "coords": [
                         -19.958812,
@@ -454,7 +454,7 @@ imageHint: "Skogafoss waterfall South Iceland",
             },
             {
                   "name": "Paradísarhellir",
-                  "text": "Peștera Paradísarhellir se află în împrejurimile pitorești ale cascadei Seljalandsfoss.",
+                  "text": "Peștera Paradísarhellir în spatele cascadei Seljalandsfoss.",
                   "category": "landmark",
                   "coords": [
                         -19.958812,
@@ -474,7 +474,7 @@ imageHint: "Skogafoss waterfall South Iceland",
             },
             {
                   "name": "Cave Paradísarhellir",
-                  "text": "Cave Paradísarhellir is located in the scenic surroundings of Seljalandsfoss.",
+                  "text": "Paradísarhellir cave located behind the Seljalandsfoss waterfall.",
                   "category": "landmark",
                   "coords": [
                         -19.958812,
@@ -1078,7 +1078,7 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
             },
             {
                   "name": "Hamarshólar",
-                  "text": "Eine Gruppe kleiner vulkanischer Hügel in der Nähe des Sees.",
+                  "text": "Hamarshólar, eine Gruppe von Pseudokratern am Mývatn-See.",
                   "category": "landmark",
                   "coords": [
                         -17.0476,
@@ -1134,7 +1134,7 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
             },
             {
                   "name": "Hamarshólar",
-                  "text": "Kisebb vulkáni dombok csoportja a tó közelében.",
+                  "text": "Hamarshólar, pszeudokráterek csoportja a Mývatn-tó mellett.",
                   "category": "landmark",
                   "coords": [
                         -17.0476,
@@ -1190,7 +1190,7 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
             },
             {
                   "name": "Hamarshólar",
-                  "text": "Un grup de dealuri vulcanice mici în apropierea lacului.",
+                  "text": "Hamarshólar, un grup de pseudocratere lângă lacul Mývatn.",
                   "category": "landmark",
                   "coords": [
                         -17.0476,
@@ -1246,7 +1246,7 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
             },
             {
                   "name": "Hamarshólar",
-                  "text": "A group of small volcanic hills located near the lake.",
+                  "text": "Hamarshólar, a cluster of pseudocraters near Lake Mývatn.",
                   "category": "landmark",
                   "coords": [
                         -17.0476,
@@ -2520,7 +2520,7 @@ imageHint: "Dynjandi waterfall Westfjords fan shape",
       "de": [
             {
                   "name": "Hvalfell",
-                  "text": "Ein Gipfel in Island in der Nähe des Glymur-Wasserfalls.",
+                  "text": "Berggipfel in der Nähe des Wasserfalls Glymur.",
                   "category": "landmark",
                   "coords": [
                         -21.2093,
@@ -2540,7 +2540,7 @@ imageHint: "Dynjandi waterfall Westfjords fan shape",
       "hu": [
             {
                   "name": "Hvalfell",
-                  "text": "Izlandi hegycsúcs a Glymur-vízesés közelében.",
+                  "text": "Hegycsúcs a Glymur-vízesés közelében.",
                   "category": "landmark",
                   "coords": [
                         -21.2093,
@@ -2560,7 +2560,7 @@ imageHint: "Dynjandi waterfall Westfjords fan shape",
       "ro": [
             {
                   "name": "Hvalfell",
-                  "text": "Un vârf din Islanda situat lângă cascada Glymur.",
+                  "text": "Vârf de munte lângă cascada Glymur.",
                   "category": "landmark",
                   "coords": [
                         -21.2093,
@@ -2580,7 +2580,7 @@ imageHint: "Dynjandi waterfall Westfjords fan shape",
       "en": [
             {
                   "name": "Hvalfell",
-                  "text": "A peak in Iceland located near the Glymur waterfall.",
+                  "text": "Mountain peak near the Glymur waterfall.",
                   "category": "landmark",
                   "coords": [
                         -21.2093,

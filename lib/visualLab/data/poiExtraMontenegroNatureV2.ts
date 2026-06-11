@@ -61,7 +61,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Gologlav",
-                  "text": "Ein malerischer Berggipfel in der Nähe der Sušica-Schlucht.",
+                  "text": "Gipfel Gologlav in der Sušica-Schlucht, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.048236,
@@ -135,7 +135,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Gologlav",
-                  "text": "Festői hegycsúcs a Sušica-kanyon közelében.",
+                  "text": "Gologlav csúcs a Sušica-szurdokban, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.048236,
@@ -209,7 +209,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Gologlav",
-                  "text": "Un vârf montan pitoresc situat în apropierea canionului Sušica.",
+                  "text": "Vârf Gologlav în Canionul Sušica, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.048236,
@@ -283,7 +283,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Gologlav",
-                  "text": "A scenic mountain peak located near the Sušica Canyon.",
+                  "text": "Peak Gologlav in the Sušica Canyon, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.048236,
@@ -457,7 +457,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Ledena pećina",
-                  "text": "Eine faszinierende Eishöhle im Durmitor-Massiv.",
+                  "text": "Ganzjährige Eishöhle am Berg Durmitor, eine der tiefsten in Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.049651,
@@ -466,7 +466,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Crvena Greda",
-                  "text": "Ein imposanter Felsgipfel im Durmitor-Nationalpark.",
+                  "text": "Roter Grat Crvena Greda nahe dem Gipfel Bobotov Kuk im Durmitor, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.052339,
@@ -493,7 +493,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Bezimeni vrh",
-                  "text": "Ein hoher Berggipfel in Montenegro.",
+                  "text": "Unbenannter Gipfel im Durmitor-Massiv mit Panoramablick auf die umliegenden Berge.",
                   "category": "landmark",
                   "coords": [
                         19.032033,
@@ -531,7 +531,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Ledena pećina",
-                  "text": "Látványos jégbarlang a Durmitor-hegységben.",
+                  "text": "Egész éves jégbarlang a Durmitor-hegyen, Montenegró egyik legmélyebbje.",
                   "category": "landmark",
                   "coords": [
                         19.049651,
@@ -540,7 +540,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Crvena Greda",
-                  "text": "Impozáns sziklacsúcs a Durmitor Nemzeti Parkban.",
+                  "text": "Crvena Greda vörös gerinc Bobotov Kuk csúcs közelében a Durmitorban, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.052339,
@@ -567,7 +567,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Bezimeni vrh",
-                  "text": "Magas hegycsúcs Montenegró területén.",
+                  "text": "Névtelen csúcs a Durmitor-hegységben, panorámás kilátással a környező hegyekre.",
                   "category": "landmark",
                   "coords": [
                         19.032033,
@@ -605,7 +605,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Ledena pećina",
-                  "text": "O peșteră de gheață situată în masivul Durmitor.",
+                  "text": "Peșteră de gheață perenă pe muntele Durmitor, una dintre cele mai adânci din Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.049651,
@@ -614,7 +614,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Crvena Greda",
-                  "text": "Un vârf stâncos impunător în Parcul Național Durmitor.",
+                  "text": "Creasta roșie Crvena Greda lângă vârful Bobotov Kuk din Munții Durmitor, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.052339,
@@ -641,7 +641,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Bezimeni vrh",
-                  "text": "Un vârf muntos înalt situat în Muntenegru.",
+                  "text": "Vârf fără nume în masivul Durmitor, oferind priveliști panoramice asupra munților înconjurători.",
                   "category": "landmark",
                   "coords": [
                         19.032033,
@@ -679,7 +679,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Ice cave",
-                  "text": "A fascinating ice cave located in the Durmitor massif.",
+                  "text": "Perennial ice cave on Mount Durmitor, one of the deepest in Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.049651,
@@ -688,7 +688,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Crvena Greda",
-                  "text": "An imposing rocky peak in the Durmitor National Park.",
+                  "text": "Red ridge Crvena Greda near Bobotov Kuk peak in Durmitor, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.052339,
@@ -715,7 +715,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Bezimeni vrh",
-                  "text": "A high mountain peak located in Montenegro.",
+                  "text": "Unnamed peak in the Durmitor massif, offering panoramic views of the surrounding mountains.",
                   "category": "landmark",
                   "coords": [
                         19.032033,
@@ -1474,7 +1474,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "FKK Crvena glavica",
-                  "text": "Ein FKK-Strand auf der Insel Sveti Nikola.",
+                  "text": "FKK-Strand auf der roten Landspitze der Insel Sveti Nikola.",
                   "category": "recreational",
                   "coords": [
                         18.896433,
@@ -1483,7 +1483,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Malaya Beach Club",
-                  "text": "Der Malaya Beach Club ist ein Strandresort auf der Insel Sveti Nikola.",
+                  "text": "Strandclub mit Annehmlichkeiten auf der Insel Sveti Nikola.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
@@ -1492,7 +1492,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "Beach House ist ein Strandresort auf der Insel Sveti Nikola.",
+                  "text": "Strandhaus mit Sonnenliegen und Café auf der Insel Sveti Nikola.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -1501,7 +1501,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Hotels pool",
-                  "text": "Hotels Pool ist ein Schwimmbecken auf der Insel Sveti Nikola.",
+                  "text": "Hotelschwimmbad auf der Insel Sveti Nikola.",
                   "category": "recreational",
                   "coords": [
                         18.88288,
@@ -1584,7 +1584,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "FKK Crvena glavica",
-                  "text": "Egy naturista strand Sveti Nikola szigetén.",
+                  "text": "Nudista strand a Sveti Nikola sziget vörös fokán.",
                   "category": "recreational",
                   "coords": [
                         18.896433,
@@ -1593,7 +1593,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Malaya Beach Club",
-                  "text": "A Malaya Beach Club egy strandüdülőhely a Szent Miklós-szigeten.",
+                  "text": "Strandklub szolgáltatásokkal a Sveti Nikola szigeten.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
@@ -1602,7 +1602,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "A Beach House egy strandüdülőhely a Szent Miklós-szigeten.",
+                  "text": "Strandház napozóágyakkal és kávézóval a Sveti Nikola szigeten.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -1611,7 +1611,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Hotels pool",
-                  "text": "A Hotels pool egy úszómedence a Szent Miklós-szigeten.",
+                  "text": "Szállodai úszómedence a Sveti Nikola szigeten.",
                   "category": "recreational",
                   "coords": [
                         18.88288,
@@ -1694,7 +1694,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "FKK Crvena glavica",
-                  "text": "O plajă de nudiști pe insula Sveti Nikola.",
+                  "text": "Plajă nudistă pe promontoriul roșu al insulei Sveti Nikola.",
                   "category": "recreational",
                   "coords": [
                         18.896433,
@@ -1703,7 +1703,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Malaya Beach Club",
-                  "text": "Malaya Beach Club este o stațiune de plajă situată pe insula Sveti Nikola.",
+                  "text": "Club de plajă cu facilități pe insula Sveti Nikola.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
@@ -1712,7 +1712,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "Beach House este o stațiune de plajă situată pe insula Sveti Nikola.",
+                  "text": "Casă de plajă cu șezlonguri și café pe insula Sveti Nikola.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -1721,7 +1721,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Hotels pool",
-                  "text": "Hotels pool este o piscină situată pe insula Sveti Nikola.",
+                  "text": "Piscină de hotel pe insula Sveti Nikola.",
                   "category": "recreational",
                   "coords": [
                         18.88288,
@@ -1804,7 +1804,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "FKK Crvena glavica",
-                  "text": "A nudist beach located on Sveti Nikola Island.",
+                  "text": "Nudist beach on the red headland of Sveti Nikola island.",
                   "category": "recreational",
                   "coords": [
                         18.896433,
@@ -1813,7 +1813,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Malaya Beach Club",
-                  "text": "Malaya Beach Club is a beach resort located on Sveti Nikola Island.",
+                  "text": "Beach club with amenities on Sveti Nikola island.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
@@ -1822,7 +1822,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Beach House",
-                  "text": "Beach House is a beach resort located on Sveti Nikola Island.",
+                  "text": "Beachside house with sunbeds and cafe on Sveti Nikola island.",
                   "category": "recreational",
                   "coords": [
                         18.862935,
@@ -1831,7 +1831,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Hotels pool",
-                  "text": "Hotels pool is a swimming pool located on Sveti Nikola Island.",
+                  "text": "Hotel swimming pool on Sveti Nikola island.",
                   "category": "recreational",
                   "coords": [
                         18.88288,
@@ -2626,7 +2626,7 @@ export const montenegroNatureV2: POI[] = [
       "de": [
             {
                   "name": "Rogamski vrh",
-                  "text": "Der Rogamski vrh ist ein Berggipfel im Komovi-Gebirge in Montenegro.",
+                  "text": "Gipfel Rogamski vrh in den Komovi-Bergen, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.632394,
@@ -2664,7 +2664,7 @@ export const montenegroNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Rogamski vrh",
-                  "text": "A Rogamski vrh egy hegycsúcs a montenegrói Komovi-hegységben.",
+                  "text": "Rogamski vrh csúcs a Komovi-hegységben, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.632394,
@@ -2702,7 +2702,7 @@ export const montenegroNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Rogamski vrh",
-                  "text": "Rogamski vrh este un vârf muntos din munții Komovi, Muntenegru.",
+                  "text": "Vârf Rogamski vrh în Munții Komovi, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.632394,
@@ -2740,7 +2740,7 @@ export const montenegroNatureV2: POI[] = [
       "en": [
             {
                   "name": "Rogamski vrh",
-                  "text": "Rogamski vrh is a mountain peak in the Komovi Mountains of Montenegro.",
+                  "text": "Peak Rogamski vrh in the Komovi mountains, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.632394,
@@ -2851,7 +2851,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Uzdoli",
-                  "text": "Eine natürliche Quelle im Mrtvica-Canyon.",
+                  "text": "Wahrzeichen Uzdoli in der Mrtvica-Schlucht, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.338395,
@@ -2889,7 +2889,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Uzdoli",
-                  "text": "Egy természetes forrás a Mrtvica-kanyonban.",
+                  "text": "Uzdoli nevezetesség a Mrtvica-szurdokban, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.338395,
@@ -2927,7 +2927,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Uzdoli",
-                  "text": "Un izvor natural în canionul Mrtvica.",
+                  "text": "Reper Uzdoli în Canionul Mrtvica, Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.338395,
@@ -2965,7 +2965,7 @@ export const montenegroNatureV2: POI[] = [
             },
             {
                   "name": "Uzdoli",
-                  "text": "A natural spring located in the Mrtvica Canyon.",
+                  "text": "Landmark Uzdoli in the Mrtvica Canyon, Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.338395,
@@ -3022,7 +3022,7 @@ export const montenegroNatureV2: POI[] = [
       "de": [
             {
                   "name": "Dobrec",
-                  "text": "Dobrec ist ein Strand bei der Insel Mamula.",
+                  "text": "Kieselstrand auf der befestigten Insel Mamula.",
                   "category": "recreational",
                   "coords": [
                         18.559028,
@@ -3033,7 +3033,7 @@ export const montenegroNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Dobrec",
-                  "text": "Dobrec egy strand a Mamula-szigetnél.",
+                  "text": "Kavicsos strand a megerődített Mamula szigeten.",
                   "category": "recreational",
                   "coords": [
                         18.559028,
@@ -3044,7 +3044,7 @@ export const montenegroNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Dobrec",
-                  "text": "Dobrec este o plajă lângă insula Mamula.",
+                  "text": "Plajă cu pietriș pe insula fortificată Mamula.",
                   "category": "recreational",
                   "coords": [
                         18.559028,
@@ -3055,7 +3055,7 @@ export const montenegroNatureV2: POI[] = [
       "en": [
             {
                   "name": "Dobrec",
-                  "text": "Dobrec is a beach by Mamula island.",
+                  "text": "Pebble beach on the fortified island of Mamula.",
                   "category": "recreational",
                   "coords": [
                         18.559028,

@@ -58,7 +58,340 @@ export const poiExtraKenyaCitiesV2: POI[] = [
     
      image: "/poi-images/nairobi-cities-v2.webp"},
   {
-    id: "mombasa-cities-v2", "sights": {"de": [{"name": "Fort Jesus", "text": "Fort Jesus ist eine portugiesische Festung aus dem Jahr 1591 in Mombasa.", "category": "castle", "coords": [39.679717, -4.062648]}, {"name": "Little Theatre Club", "text": "Little Theatre Club ist ein Theater in Mombasa.", "category": "cultural", "coords": [39.664816, -4.067039]}, {"name": "Mavi mavi beach", "text": "An der kenianischen Küste in Mombasa verspricht der Mavi mavi beach tropische Entspannung direkt am Ozean. Die lebhafte und doch gemütliche Stimmung ist perfekt, um sich in den Wellen zu erfrischen oder im feinen Sand die Sonne zu genießen. Mit seiner exotischen Kulisse ist der Strand ein Muss für jeden sonnigen Ausflugstag.", "category": "recreational", "coords": [39.671946, -4.027581]}, {"name": "English Point Beach", "text": "Der English Point Beach in Mombasa besticht durch seine faszinierende Mischung aus städtischem Flair und Weite des Indischen Ozeans. Besucher können hier wunderbar entlang der Uferlinie schlendern und die warme Meeresbrise beim Baden auf der Haut spüren. Ein abendlicher Besuch bietet oft herrliche Ausblicke auf das Wasser.", "category": "recreational", "coords": [39.68372, -4.057383]}, {"name": "Kengeleni Bell", "text": "Kengeleni Bell ist ein Denkmal in Mombasa.", "category": "historical", "coords": [39.680535, -4.039324]}, {"name": "Leven House", "text": "Leven House ist eine Sehenswürdigkeit in Mombasa.", "category": "landmark", "coords": [39.678208, -4.058366]}, {"name": "Africa Hotel", "text": "Africa Hotel ist eine Sehenswürdigkeit in Mombasa.", "category": "landmark", "coords": [39.679573, -4.060656]}, {"name": "Market", "text": "Market ist eine Sehenswürdigkeit in Mombasa.", "category": "landmark", "coords": [39.667875, -4.043611]}, {"name": "Makupa Causeway Bridge", "text": "Die Makupa Causeway Bridge ist eine Brücke, die Mombasa Island mit dem Festland verbindet.", "category": "landmark", "coords": [39.651584, -4.033729]}], "hu": [{"name": "Fort Jesus", "text": "A Fort Jesus egy 1591-ben épült portugál erőd Mombasában.", "category": "castle", "coords": [39.679717, -4.062648]}, {"name": "Little Theatre Club", "text": "A Little Theatre Club egy színház Mombasában.", "category": "cultural", "coords": [39.664816, -4.067039]}, {"name": "Mavi mavi beach", "text": "A kenyai Mombasában található Mavi mavi beach trópusi felüdülést ígér közvetlenül az óceán partján. Az életteli, de mégis barátságos légkör tökéletes arra, hogy megmártózzunk a hullámokban, vagy a napon pihenjünk. Egzotikus hátterével a strand kihagyhatatlan állomás egy napsütéses kirándulás során.", "category": "recreational", "coords": [39.671946, -4.027581]}, {"name": "English Point Beach", "text": "A mombasai English Point Beach a városi elegancia és az Indiai-óceán végtelenségének lenyűgöző keverékével hódít. Csodálatos élmény a part mentén sétálni, és fürdőzés közben érezni a meleg tengeri szellőt. Egy esti látogatás gyakran kínál látványos kilátást a csillogó vízre.", "category": "recreational", "coords": [39.68372, -4.057383]}, {"name": "Kengeleni Bell", "text": "A Kengeleni Bell egy emlékmű Mombasában.", "category": "historical", "coords": [39.680535, -4.039324]}, {"name": "Leven House", "text": "A Leven House egy látványosság Mombasában.", "category": "landmark", "coords": [39.678208, -4.058366]}, {"name": "Africa Hotel", "text": "A Africa Hotel egy látványosság Mombasában.", "category": "landmark", "coords": [39.679573, -4.060656]}, {"name": "Market", "text": "A Market egy látványosság Mombasában.", "category": "landmark", "coords": [39.667875, -4.043611]}, {"name": "Makupa Causeway Bridge", "text": "A Makupa Causeway Bridge egy híd, amely a Mombasa-szigetet köti össze a szárazfölddel.", "category": "landmark", "coords": [39.651584, -4.033729]}], "ro": [{"name": "Fort Jesus", "text": "Fort Jesus este un fort portughez construit în 1591, situat în Mombasa.", "category": "castle", "coords": [39.679717, -4.062648]}, {"name": "Little Theatre Club", "text": "Little Theatre Club este un teatru în Mombasa.", "category": "cultural", "coords": [39.664816, -4.067039]}, {"name": "Mavi mavi beach", "text": "Situată pe coasta kenyană din Mombasa, Mavi mavi beach promite o relaxare tropicală direct la ocean. Atmosfera plină de viață, dar primitoare, este perfectă pentru a te răcori în valuri sau pentru a sta la soare pe nisip. Cu peisajul său exotic, plaja rămâne un loc minunat pentru o ieșire într-o zi senină.", "category": "recreational", "coords": [39.671946, -4.027581]}, {"name": "English Point Beach", "text": "English Point Beach din Mombasa captivează prin amestecul său fascinant de vibrație urbană și imensitatea Oceanului Indian. Este un loc splendid pentru a te plimba de-a lungul malului și a simți briza caldă în timp ce înoți. O vizită seara oferă adesea priveliști spectaculoase asupra apei.", "category": "recreational", "coords": [39.68372, -4.057383]}, {"name": "Kengeleni Bell", "text": "Kengeleni Bell este un monument în Mombasa.", "category": "historical", "coords": [39.680535, -4.039324]}, {"name": "Leven House", "text": "Leven House este o atracție în Mombasa.", "category": "landmark", "coords": [39.678208, -4.058366]}, {"name": "Africa Hotel", "text": "Africa Hotel este o atracție în Mombasa.", "category": "landmark", "coords": [39.679573, -4.060656]}, {"name": "Market", "text": "Market este o atracție în Mombasa.", "category": "landmark", "coords": [39.667875, -4.043611]}, {"name": "Makupa Causeway Bridge", "text": "Makupa Causeway Bridge este un pod care leagă Insula Mombasa de continent.", "category": "landmark", "coords": [39.651584, -4.033729]}], "en": [{"name": "Fort Jesus", "text": "Fort Jesus is a Portuguese fort built in 1591, located in Mombasa.", "category": "castle", "coords": [39.679717, -4.062648]}, {"name": "Little Theatre Club", "text": "Little Theatre Club is a theatre situated in Mombasa.", "category": "cultural", "coords": [39.664816, -4.067039]}, {"name": "Mavi mavi beach", "text": "Located along the Kenyan coast in Mombasa, Mavi mavi beach promises tropical relaxation right by the ocean. The lively yet cozy mood is perfect for cooling off in the rolling waves or soaking up the sun on the sand. Thanks to its exotic backdrop, this beach remains a wonderful spot for a bright, sunny outing.", "category": "recreational", "coords": [39.671946, -4.027581]}, {"name": "English Point Beach", "text": "English Point Beach in Mombasa captivates visitors with its fascinating blend of city flair and the vastness of the Indian Ocean. It is a splendid place to wander along the shoreline and feel the warm sea breeze while taking a dip. An evening visit often rewards guests with spectacular views across the water.", "category": "recreational", "coords": [39.68372, -4.057383]}, {"name": "Kengeleni Bell", "text": "Kengeleni Bell is a monument found in Mombasa.", "category": "historical", "coords": [39.680535, -4.039324]}, {"name": "Leven House", "text": "Leven House is an attraction found in Mombasa.", "category": "landmark", "coords": [39.678208, -4.058366]}, {"name": "Africa Hotel", "text": "Africa Hotel is an attraction located in Mombasa.", "category": "landmark", "coords": [39.679573, -4.060656]}, {"name": "Market", "text": "Market is an attraction found in Mombasa.", "category": "landmark", "coords": [39.667875, -4.043611]}, {"name": "Makupa Causeway Bridge", "text": "Makupa Causeway Bridge is a bridge linking Mombasa Island to the mainland.", "category": "landmark", "coords": [39.651584, -4.033729]}]},
+    id: "mombasa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Jesus",
+                  "text": "Fort Jesus ist eine portugiesische Festung aus dem Jahr 1591 in Mombasa.",
+                  "category": "castle",
+                  "coords": [
+                        39.679717,
+                        -4.062648
+                  ]
+            },
+            {
+                  "name": "Little Theatre Club",
+                  "text": "Ein intimer Theaterclub, der in Mombasa Aufführungen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664816,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "An der kenianischen Küste in Mombasa verspricht der Mavi mavi beach tropische Entspannung direkt am Ozean. Die lebhafte und doch gemütliche Stimmung ist perfekt, um sich in den Wellen zu erfrischen oder im feinen Sand die Sonne zu genießen. Mit seiner exotischen Kulisse ist der Strand ein Muss für jeden sonnigen Ausflugstag.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "Der English Point Beach in Mombasa besticht durch seine faszinierende Mischung aus städtischem Flair und Weite des Indischen Ozeans. Besucher können hier wunderbar entlang der Uferlinie schlendern und die warme Meeresbrise beim Baden auf der Haut spüren. Ein abendlicher Besuch bietet oft herrliche Ausblicke auf das Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        39.68372,
+                        -4.057383
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "Eine historische Glocke im Stadtteil Kengeleni von Mombasa.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            },
+            {
+                  "name": "Leven House",
+                  "text": "Ein Steinhaus aus dem 19. Jahrhundert mit geschnitzten Holztüren in der Altstadt von Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "Historisches Hotel aus dem Jahr 1901 in Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Mombasas zentraler Markt, ein belebter Basar mit Gewürzen und Kunsthandwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Die Makupa Causeway Bridge ist eine Brücke, die Mombasa Island mit dem Festland verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651584,
+                        -4.033729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Jesus",
+                  "text": "A Fort Jesus egy 1591-ben épült portugál erőd Mombasában.",
+                  "category": "castle",
+                  "coords": [
+                        39.679717,
+                        -4.062648
+                  ]
+            },
+            {
+                  "name": "Little Theatre Club",
+                  "text": "Egy meghitt színházi klub, amely előadásokat tart Mombasában.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664816,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "A kenyai Mombasában található Mavi mavi beach trópusi felüdülést ígér közvetlenül az óceán partján. Az életteli, de mégis barátságos légkör tökéletes arra, hogy megmártózzunk a hullámokban, vagy a napon pihenjünk. Egzotikus hátterével a strand kihagyhatatlan állomás egy napsütéses kirándulás során.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "A mombasai English Point Beach a városi elegancia és az Indiai-óceán végtelenségének lenyűgöző keverékével hódít. Csodálatos élmény a part mentén sétálni, és fürdőzés közben érezni a meleg tengeri szellőt. Egy esti látogatás gyakran kínál látványos kilátást a csillogó vízre.",
+                  "category": "recreational",
+                  "coords": [
+                        39.68372,
+                        -4.057383
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "Egy történelmi harang Mombasa Kengeleni negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            },
+            {
+                  "name": "Leven House",
+                  "text": "Egy 19. századi kőház faragott faajtókkal Mombasa óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "1901-ből származó történelmi szálloda Mombasában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Mombasa központi piaca, egy nyüzsgő bazár fűszerekkel és kézműves termékekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "A Makupa Causeway Bridge egy híd, amely a Mombasa-szigetet köti össze a szárazfölddel.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651584,
+                        -4.033729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Jesus",
+                  "text": "Fort Jesus este un fort portughez construit în 1591, situat în Mombasa.",
+                  "category": "castle",
+                  "coords": [
+                        39.679717,
+                        -4.062648
+                  ]
+            },
+            {
+                  "name": "Little Theatre Club",
+                  "text": "Un club de teatru intim care găzduiește spectacole în Mombasa.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664816,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "Situată pe coasta kenyană din Mombasa, Mavi mavi beach promite o relaxare tropicală direct la ocean. Atmosfera plină de viață, dar primitoare, este perfectă pentru a te răcori în valuri sau pentru a sta la soare pe nisip. Cu peisajul său exotic, plaja rămâne un loc minunat pentru o ieșire într-o zi senină.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "English Point Beach din Mombasa captivează prin amestecul său fascinant de vibrație urbană și imensitatea Oceanului Indian. Este un loc splendid pentru a te plimba de-a lungul malului și a simți briza caldă în timp ce înoți. O vizită seara oferă adesea priveliști spectaculoase asupra apei.",
+                  "category": "recreational",
+                  "coords": [
+                        39.68372,
+                        -4.057383
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "Un clopot istoric în cartierul Kengeleni din Mombasa.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            },
+            {
+                  "name": "Leven House",
+                  "text": "O casă de piatră din secolul al XIX-lea cu uși de lemn sculptate în Orașul Vechi din Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "Hotel istoric din 1901 în Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Piața centrală din Mombasa, un bazar animat cu condimente și meșteșuguri.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Makupa Causeway Bridge este un pod care leagă Insula Mombasa de continent.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651584,
+                        -4.033729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Jesus",
+                  "text": "Fort Jesus is a Portuguese fort built in 1591, located in Mombasa.",
+                  "category": "castle",
+                  "coords": [
+                        39.679717,
+                        -4.062648
+                  ]
+            },
+            {
+                  "name": "Little Theatre Club",
+                  "text": "An intimate theatre club hosting performances in Mombasa.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664816,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "Located along the Kenyan coast in Mombasa, Mavi mavi beach promises tropical relaxation right by the ocean. The lively yet cozy mood is perfect for cooling off in the rolling waves or soaking up the sun on the sand. Thanks to its exotic backdrop, this beach remains a wonderful spot for a bright, sunny outing.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "English Point Beach in Mombasa captivates visitors with its fascinating blend of city flair and the vastness of the Indian Ocean. It is a splendid place to wander along the shoreline and feel the warm sea breeze while taking a dip. An evening visit often rewards guests with spectacular views across the water.",
+                  "category": "recreational",
+                  "coords": [
+                        39.68372,
+                        -4.057383
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "A historic bell in the Kengeleni district of Mombasa.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            },
+            {
+                  "name": "Leven House",
+                  "text": "A 19th-century stone house with carved wooden doors in Mombasa's Old Town.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "Historic hotel from 1901 in Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Mombasa's central market, a bustling bazaar of spices and crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Makupa Causeway Bridge is a bridge linking Mombasa Island to the mainland.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651584,
+                        -4.033729
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-01",
     coords: [39.6682, -4.0435],
@@ -123,7 +456,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kisumu National Museum",
-                  "text": "Nationalmuseum in Kisumu.",
+                  "text": "Ein Museum am Ufer des Viktoriasees, das die Kultur der Luo und die Tierwelt zeigt.",
                   "category": "museum",
                   "coords": [
                         34.76271,
@@ -132,7 +465,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sundowner Tower",
-                  "text": "Aussichtspunkt in Kisumu.",
+                  "text": "Ein natürlicher Felsturm mit Blick auf den Viktoriasee, beliebt für Sonnenuntergänge.",
                   "category": "natural",
                   "coords": [
                         34.744881,
@@ -143,7 +476,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kisumu National Museum",
-                  "text": "Nemzeti Múzeum Kisumuban.",
+                  "text": "Egy múzeum a Viktória-tó partján, amely a luo kultúrát és a vadon élő állatokat mutatja be.",
                   "category": "museum",
                   "coords": [
                         34.76271,
@@ -152,7 +485,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sundowner Tower",
-                  "text": "Kilátó Kisumuban.",
+                  "text": "Egy természetes szikla torony, amely a Viktória-tóra néz, népszerű naplementékhez.",
                   "category": "natural",
                   "coords": [
                         34.744881,
@@ -163,7 +496,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kisumu National Museum",
-                  "text": "Muzeul Național din Kisumu.",
+                  "text": "Un muzeu pe malul Lacului Victoria, care prezintă cultura Luo și fauna sălbatică.",
                   "category": "museum",
                   "coords": [
                         34.76271,
@@ -172,7 +505,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sundowner Tower",
-                  "text": "Punct de observație în Kisumu.",
+                  "text": "Un turn natural de stâncă ce domină Lacul Victoria, popular pentru apusuri.",
                   "category": "natural",
                   "coords": [
                         34.744881,
@@ -183,7 +516,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kisumu National Museum",
-                  "text": "National museum in Kisumu.",
+                  "text": "A museum on the shores of Lake Victoria showcasing Luo culture and wildlife.",
                   "category": "museum",
                   "coords": [
                         34.76271,
@@ -192,7 +525,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sundowner Tower",
-                  "text": "Viewpoint in Kisumu.",
+                  "text": "A natural rock tower overlooking Lake Victoria, popular for sunset views.",
                   "category": "natural",
                   "coords": [
                         34.744881,
@@ -657,7 +990,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kitale Museum",
-                  "text": "Kitale Museum ist ein Museum in Kitale.",
+                  "text": "Museum in einem ehemaligen Kolonialgebäude in Kitale mit naturkundlichen Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         35.005296,
@@ -668,7 +1001,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kitale Museum",
-                  "text": "A Kitale Museum egy múzeum Kitale városában.",
+                  "text": "Múzeum Kitale-ban, egy egykori gyarmati épületben, természetrajzi kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         35.005296,
@@ -679,7 +1012,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kitale Museum",
-                  "text": "Kitale Museum este un muzeu în Kitale.",
+                  "text": "Muzeu într-o clădire colonială din Kitale, cu expoziții de istorie naturală.",
                   "category": "museum",
                   "coords": [
                         35.005296,
@@ -690,7 +1023,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kitale Museum",
-                  "text": "Kitale Museum is a museum located in Kitale.",
+                  "text": "Museum in a former colonial building in Kitale, featuring natural history exhibits.",
                   "category": "museum",
                   "coords": [
                         35.005296,
@@ -1428,7 +1761,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lamu Museum",
-                  "text": "Museum in Lamu.",
+                  "text": "Museum in einem Swahili-Haus aus dem 19. Jahrhundert in der Altstadt von Lamu, das die Swahili-Kultur präsentiert.",
                   "category": "museum",
                   "coords": [
                         40.902355,
@@ -1437,7 +1770,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Lamu Fort",
-                  "text": "Historisches Fort in Lamu.",
+                  "text": "Eine Korallensteinfestung aus dem 19. Jahrhundert in der Altstadt von Lamu, heute ein Museum.",
                   "category": "castle",
                   "coords": [
                         40.902122,
@@ -1446,7 +1779,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Maharia gallery",
-                  "text": "Kunstzentrum in Lamu.",
+                  "text": "Eine Galerie für zeitgenössische Swahili-Kunst in einem historischen Lamu-Gebäude.",
                   "category": "cultural",
                   "coords": [
                         40.914743,
@@ -1455,7 +1788,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Riyadha mosque",
-                  "text": "Moschee in Lamu.",
+                  "text": "Historische Moschee und islamische Schule in Lamu mit einem charakteristischen Minarett aus dem 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         40.901159,
@@ -1466,7 +1799,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lamu Museum",
-                  "text": "Múzeum Lamuban.",
+                  "text": "Múzeum egy 19. századi szuahéli házban Lamu óvárosában, a szuahéli kultúra bemutatásával.",
                   "category": "museum",
                   "coords": [
                         40.902355,
@@ -1475,7 +1808,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Lamu Fort",
-                  "text": "Történelmi erőd Lamuban.",
+                  "text": "Egy 19. századi korallkő erőd Lamu óvárosában, ma múzeum.",
                   "category": "castle",
                   "coords": [
                         40.902122,
@@ -1484,7 +1817,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Maharia gallery",
-                  "text": "Művészeti központ Lamuban.",
+                  "text": "Egy kortárs szuahéli művészeti galéria egy történelmi lamui épületben.",
                   "category": "cultural",
                   "coords": [
                         40.914743,
@@ -1493,7 +1826,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Riyadha mosque",
-                  "text": "Mecset Lamuban.",
+                  "text": "Történelmi mecset és iszlám iskola Lamu-ban, egy 19. századi jellegzetes minarettel.",
                   "category": "religious",
                   "coords": [
                         40.901159,
@@ -1504,7 +1837,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lamu Museum",
-                  "text": "Muzeu în Lamu.",
+                  "text": "Muzeu într-o casă swahili din secolul al XIX-lea în orașul vechi Lamu, prezentând cultura swahili.",
                   "category": "museum",
                   "coords": [
                         40.902355,
@@ -1513,7 +1846,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Lamu Fort",
-                  "text": "Fortăreață istorică în Lamu.",
+                  "text": "O fortăreață de piatră corală din secolul al XIX-lea în orașul vechi Lamu, acum muzeu.",
                   "category": "castle",
                   "coords": [
                         40.902122,
@@ -1522,7 +1855,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Maharia gallery",
-                  "text": "Centru de artă în Lamu.",
+                  "text": "O galerie de artă swahili contemporană într-o clădire istorică din Lamu.",
                   "category": "cultural",
                   "coords": [
                         40.914743,
@@ -1531,7 +1864,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Riyadha mosque",
-                  "text": "Moschee în Lamu.",
+                  "text": "Moschee istorică și școală islamică în Lamu, cu un minaret distinctiv din secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         40.901159,
@@ -1542,7 +1875,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lamu Museum",
-                  "text": "Museum in Lamu.",
+                  "text": "Museum in a 19th-century Swahili house in Lamu's old town, showcasing Swahili culture.",
                   "category": "museum",
                   "coords": [
                         40.902355,
@@ -1551,7 +1884,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Lamu Fort",
-                  "text": "Historic fort in Lamu.",
+                  "text": "A 19th-century coral stone fortress in Lamu's old town, now a museum.",
                   "category": "castle",
                   "coords": [
                         40.902122,
@@ -1560,7 +1893,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Maharia gallery",
-                  "text": "Arts centre in Lamu.",
+                  "text": "A gallery showcasing contemporary Swahili art in a historic Lamu building.",
                   "category": "cultural",
                   "coords": [
                         40.914743,
@@ -1569,7 +1902,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Riyadha mosque",
-                  "text": "Mosque in Lamu.",
+                  "text": "Historic mosque and Islamic school in Lamu, with a distinctive 19th-century minaret.",
                   "category": "religious",
                   "coords": [
                         40.901159,
@@ -1882,7 +2215,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Shuman place",
-                  "text": "Shuman place ist eine Sehenswürdigkeit in Wajir.",
+                  "text": "Ein historisches Steingebäude im Zentrum von Wajir.",
                   "category": "landmark",
                   "coords": [
                         40.074336,
@@ -1891,7 +2224,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Amira garden",
-                  "text": "Amira garden ist eine Sehenswürdigkeit in Wajir.",
+                  "text": "Ein öffentlicher Garten mit hohen Akazienbäumen im Zentrum von Wajir.",
                   "category": "landmark",
                   "coords": [
                         40.051271,
@@ -1902,7 +2235,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Shuman place",
-                  "text": "A Shuman place egy látványosság Wajir városában.",
+                  "text": "Egy történelmi kőépület Wajir központjában.",
                   "category": "landmark",
                   "coords": [
                         40.074336,
@@ -1911,7 +2244,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Amira garden",
-                  "text": "A Amira garden egy látványosság Wajir városában.",
+                  "text": "Egy nyilvános kert magas akácfákkal Wajir központjában.",
                   "category": "landmark",
                   "coords": [
                         40.051271,
@@ -1922,7 +2255,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Shuman place",
-                  "text": "Shuman place este o atracție în Wajir.",
+                  "text": "O clădire istorică de piatră în centrul orașului Wajir.",
                   "category": "landmark",
                   "coords": [
                         40.074336,
@@ -1931,7 +2264,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Amira garden",
-                  "text": "Amira garden este o atracție în Wajir.",
+                  "text": "O grădină publică cu arbori înalți de salcâm în centrul orașului Wajir.",
                   "category": "landmark",
                   "coords": [
                         40.051271,
@@ -1942,7 +2275,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Shuman place",
-                  "text": "Shuman place is an attraction situated in Wajir.",
+                  "text": "A historic stone building in Wajir's town center.",
                   "category": "landmark",
                   "coords": [
                         40.074336,
@@ -1951,7 +2284,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Amira garden",
-                  "text": "Amira garden is an attraction found in Wajir.",
+                  "text": "A public garden with tall acacia trees in the center of Wajir.",
                   "category": "landmark",
                   "coords": [
                         40.051271,
@@ -2203,7 +2536,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teri B Proposed Community Conservancy",
-                  "text": "Naturschutzgebiet in Voi.",
+                  "text": "Ein geplantes Wildtierschutzgebiet nahe Voi, das die Elefanten des Tsavo schützen soll.",
                   "category": "natural",
                   "coords": [
                         38.512597,
@@ -2214,7 +2547,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teri B Proposed Community Conservancy",
-                  "text": "Természetvédelmi terület Voi-ban.",
+                  "text": "Egy tervezett vadvédelmi terület Voi közelében, amely a Tsavo elefántjait védi.",
                   "category": "natural",
                   "coords": [
                         38.512597,
@@ -2225,7 +2558,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teri B Proposed Community Conservancy",
-                  "text": "Rezervație naturală în Voi.",
+                  "text": "O arie protejată propusă lângă Voi, care urmărește protejarea elefanților din Tsavo.",
                   "category": "natural",
                   "coords": [
                         38.512597,
@@ -2236,7 +2569,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teri B Proposed Community Conservancy",
-                  "text": "Nature reserve in Voi.",
+                  "text": "A proposed wildlife conservancy near Voi, aiming to protect Tsavo's elephants.",
                   "category": "natural",
                   "coords": [
                         38.512597,
@@ -2368,7 +2701,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mnarani National Monument & Snake Park",
-                  "text": "Mnarani National Monument & Snake Park ist eine Sehenswürdigkeit in Kilifi.",
+                  "text": "Alte Swahili-Ruinen und ein Schlangenpark auf einer Klippe über dem Kilifi Creek.",
                   "category": "landmark",
                   "coords": [
                         39.843973,
@@ -2379,7 +2712,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mnarani National Monument & Snake Park",
-                  "text": "A Mnarani National Monument & Snake Park egy látványosság Kilifiben.",
+                  "text": "Régi szuahéli romok és egy kígyópark egy sziklán, amely Kilifi Creek fölé néz.",
                   "category": "landmark",
                   "coords": [
                         39.843973,
@@ -2390,7 +2723,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mnarani National Monument & Snake Park",
-                  "text": "Mnarani National Monument & Snake Park este o atracție în Kilifi.",
+                  "text": "Ruine swahili antice și un parc de șerpi pe o stâncă deasupra pârâului Kilifi.",
                   "category": "landmark",
                   "coords": [
                         39.843973,
@@ -2401,7 +2734,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mnarani National Monument & Snake Park",
-                  "text": "Mnarani National Monument & Snake Park is an attraction located in Kilifi.",
+                  "text": "Ancient Swahili ruins and a snake park on a cliff overlooking Kilifi Creek.",
                   "category": "landmark",
                   "coords": [
                         39.843973,
@@ -2473,7 +2806,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mumias Cultural Center",
-                  "text": "Museum in Mumias.",
+                  "text": "Ein Kulturzentrum und Museum, das die Traditionen des Luhya-Volkes in Mumias bewahrt.",
                   "category": "museum",
                   "coords": [
                         34.494328,
@@ -2482,7 +2815,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mumias Arts",
-                  "text": "Kunstzentrum in Mumias.",
+                  "text": "Ein lokales Kunststudio, das handgefertigte Gegenstände und Gemälde in Mumias verkauft.",
                   "category": "cultural",
                   "coords": [
                         34.490207,
@@ -2493,7 +2826,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mumias Cultural Center",
-                  "text": "Múzeum Mumiasban.",
+                  "text": "Egy kulturális központ és múzeum, amely a luhya nép hagyományait őrzi Mumiasban.",
                   "category": "museum",
                   "coords": [
                         34.494328,
@@ -2502,7 +2835,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mumias Arts",
-                  "text": "Művészeti központ Mumiasban.",
+                  "text": "Egy helyi művészeti stúdió, amely kézműves tárgyakat és festményeket árul Mumiasban.",
                   "category": "cultural",
                   "coords": [
                         34.490207,
@@ -2513,7 +2846,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mumias Cultural Center",
-                  "text": "Muzeu în Mumias.",
+                  "text": "Un centru cultural și muzeu care păstrează tradițiile poporului Luhya din Mumias.",
                   "category": "museum",
                   "coords": [
                         34.494328,
@@ -2522,7 +2855,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mumias Arts",
-                  "text": "Centru de artă în Mumias.",
+                  "text": "Un studio de artă local care vinde articole lucrate manual și picturi în Mumias.",
                   "category": "cultural",
                   "coords": [
                         34.490207,
@@ -2533,7 +2866,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mumias Cultural Center",
-                  "text": "Museum in Mumias.",
+                  "text": "A cultural center and museum preserving the traditions of the Luhya people in Mumias.",
                   "category": "museum",
                   "coords": [
                         34.494328,
@@ -2542,7 +2875,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mumias Arts",
-                  "text": "Arts centre in Mumias.",
+                  "text": "A local art studio selling handcrafted items and paintings in Mumias.",
                   "category": "cultural",
                   "coords": [
                         34.490207,
@@ -2816,7 +3149,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "School Hall",
-                  "text": "Theater in Kikuyu.",
+                  "text": "Eine Mehrzweckhalle in Kikuyu, die für kulturelle Aufführungen und Versammlungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         36.665384,
@@ -2827,7 +3160,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "School Hall",
-                  "text": "Színház Kikuyuban.",
+                  "text": "Egy többcélú terem Kikuyuban, amelyet kulturális előadásokra és összejövetelekre használnak.",
                   "category": "cultural",
                   "coords": [
                         36.665384,
@@ -2838,7 +3171,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "School Hall",
-                  "text": "Teatru în Kikuyu.",
+                  "text": "O sală multifuncțională în Kikuyu, folosită pentru spectacole culturale și întruniri.",
                   "category": "cultural",
                   "coords": [
                         36.665384,
@@ -2849,7 +3182,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "School Hall",
-                  "text": "Theatre in Kikuyu.",
+                  "text": "A multi-purpose hall in Kikuyu used for cultural performances and meetings.",
                   "category": "cultural",
                   "coords": [
                         36.665384,
@@ -3402,7 +3735,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Songa Community Conservancy",
-                  "text": "Naturschutzgebiet in Marsabit.",
+                  "text": "Ein gemeinschaftlich betriebenes Wildtierreservat in der Region Marsabit mit Grevy-Zebras.",
                   "category": "natural",
                   "coords": [
                         37.941257,
@@ -3411,7 +3744,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Jaldesa Community Conservancy",
-                  "text": "Naturschutzgebiet in Marsabit.",
+                  "text": "Ein Schutzgebiet nahe Marsabit, das Trockenland-Wildtiere schützt und lokale Viehzüchter unterstützt.",
                   "category": "natural",
                   "coords": [
                         38.063889,
@@ -3420,7 +3753,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Marsabit Cultural Museum",
-                  "text": "Kulturmuseum in Marsabit.",
+                  "text": "Ein Museum in Marsabit, das die Kulturen der Rendille-, Samburu- und Borana-Völker ausstellt.",
                   "category": "museum",
                   "coords": [
                         37.984518,
@@ -3429,7 +3762,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Marsabit National Park",
-                  "text": "Nationalpark in Marsabit.",
+                  "text": "Ein Nationalpark rund um den Mount Marsabit mit einem Kratersee und dichtem Bergwald.",
                   "category": "natural",
                   "coords": [
                         37.961451,
@@ -3438,7 +3771,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mount Marsabit",
-                  "text": "Vulkangipfel in Marsabit.",
+                  "text": "Erloschener Vulkan mit Kratersee in Kenia.",
                   "category": "natural",
                   "coords": [
                         37.959607,
@@ -3449,7 +3782,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Songa Community Conservancy",
-                  "text": "Természetvédelmi terület Marsabitban.",
+                  "text": "Egy közösségi vadrezervátum Marsabit régióban, Grevy-zebrákkal.",
                   "category": "natural",
                   "coords": [
                         37.941257,
@@ -3458,7 +3791,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Jaldesa Community Conservancy",
-                  "text": "Természetvédelmi terület Marsabitban.",
+                  "text": "Egy védett terület Marsabit közelében, amely a szárazföldi vadvilágot védi és a helyi pásztorokat támogatja.",
                   "category": "natural",
                   "coords": [
                         38.063889,
@@ -3467,7 +3800,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Marsabit Cultural Museum",
-                  "text": "Kulturális múzeum Marsabitban.",
+                  "text": "Egy múzeum Marsabitban, amely a rendille, samburu és borana népek kultúráit mutatja be.",
                   "category": "museum",
                   "coords": [
                         37.984518,
@@ -3476,7 +3809,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Marsabit National Park",
-                  "text": "Nemzeti park Marsabitban.",
+                  "text": "Egy nemzeti park a Marsabit-hegy körül, krátertóval és sűrű hegyi erdővel.",
                   "category": "natural",
                   "coords": [
                         37.961451,
@@ -3485,7 +3818,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mount Marsabit",
-                  "text": "Vulkáni csúcs Marsabitban.",
+                  "text": "Kialudt vulkán krátertóval Kenyában.",
                   "category": "natural",
                   "coords": [
                         37.959607,
@@ -3496,7 +3829,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Songa Community Conservancy",
-                  "text": "Rezervație naturală în Marsabit.",
+                  "text": "O rezervație de animale sălbatice administrată de comunitate în regiunea Marsabit, cu zebre Grevy.",
                   "category": "natural",
                   "coords": [
                         37.941257,
@@ -3505,7 +3838,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Jaldesa Community Conservancy",
-                  "text": "Rezervație naturală în Marsabit.",
+                  "text": "O arie protejată lângă Marsabit care protejează fauna de uscat arid și sprijină păstorii locali.",
                   "category": "natural",
                   "coords": [
                         38.063889,
@@ -3514,7 +3847,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Marsabit Cultural Museum",
-                  "text": "Muzeu cultural în Marsabit.",
+                  "text": "Un muzeu în Marsabit care expune culturile popoarelor Rendille, Samburu și Borana.",
                   "category": "museum",
                   "coords": [
                         37.984518,
@@ -3523,7 +3856,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Marsabit National Park",
-                  "text": "Parc național în Marsabit.",
+                  "text": "Un parc național în jurul Muntelui Marsabit, cu un lac de crater și pădure montană densă.",
                   "category": "natural",
                   "coords": [
                         37.961451,
@@ -3532,7 +3865,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mount Marsabit",
-                  "text": "Vârf vulcanic în Marsabit.",
+                  "text": "Vulcan stins cu lac de crater în Kenya.",
                   "category": "natural",
                   "coords": [
                         37.959607,
@@ -3543,7 +3876,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Songa Community Conservancy",
-                  "text": "Nature reserve in Marsabit.",
+                  "text": "A community-run wildlife conservancy in the Marsabit region, home to Grevy's zebras.",
                   "category": "natural",
                   "coords": [
                         37.941257,
@@ -3552,7 +3885,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Jaldesa Community Conservancy",
-                  "text": "Nature reserve in Marsabit.",
+                  "text": "A conservation area near Marsabit protecting dryland wildlife and supporting local pastoralists.",
                   "category": "natural",
                   "coords": [
                         38.063889,
@@ -3561,7 +3894,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Marsabit Cultural Museum",
-                  "text": "Cultural museum in Marsabit.",
+                  "text": "A museum in Marsabit exhibiting the cultures of the Rendille, Samburu, and Borana peoples.",
                   "category": "museum",
                   "coords": [
                         37.984518,
@@ -3570,7 +3903,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Marsabit National Park",
-                  "text": "National park in Marsabit.",
+                  "text": "A national park centered on Mount Marsabit, with a crater lake and dense montane forest.",
                   "category": "natural",
                   "coords": [
                         37.961451,
@@ -3579,7 +3912,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mount Marsabit",
-                  "text": "Volcanic peak in Marsabit.",
+                  "text": "Extinct volcano with a crater lake in Kenya.",
                   "category": "natural",
                   "coords": [
                         37.959607,
@@ -4117,7 +4450,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ngong Hill Forest Recreational Park",
-                  "text": "Ngong Hill Forest Recreational Park ist ein Naturschutzgebiet in Ngong.",
+                  "text": "Ein bewaldeter Park auf den Ngong Hills mit Wanderwegen und Blick auf den Rift Valley.",
                   "category": "natural",
                   "coords": [
                         36.641971,
@@ -4128,7 +4461,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ngong Hill Forest Recreational Park",
-                  "text": "A Ngong Hill Forest Recreational Park egy természetvédelmi terület Ngongban.",
+                  "text": "Egy erdős park a Ngong-dombokon, túraútvonalakkal és a Nagy-hasadékvölgyre nyíló kilátással.",
                   "category": "natural",
                   "coords": [
                         36.641971,
@@ -4139,7 +4472,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ngong Hill Forest Recreational Park",
-                  "text": "Ngong Hill Forest Recreational Park este o rezervație naturală în Ngong.",
+                  "text": "Un parc împădurit pe dealurile Ngong, cu trasee de drumeție și vederi asupra Văii Rift.",
                   "category": "natural",
                   "coords": [
                         36.641971,
@@ -4150,7 +4483,7 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ngong Hill Forest Recreational Park",
-                  "text": "Ngong Hill Forest Recreational Park is a nature reserve found in Ngong.",
+                  "text": "A forested park on the Ngong Hills with hiking trails and views of the Rift Valley.",
                   "category": "natural",
                   "coords": [
                         36.641971,

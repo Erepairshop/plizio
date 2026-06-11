@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraBahrainLandmarksV2: POI[] = [
   {
-    id: "bh-world-trade-center-landmarks-v2",
+    id: "bh-world-trade-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Msaad Mosque",
+                  "text": "Die Msaad-Moschee ist ein markantes muslimisches Heiligtum inmitten der hoch aufragenden modernen Wolkenkratzer in der Nähe des Bahrain World Trade Centers.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584591,
+                        26.237997
+                  ]
+            },
+            {
+                  "name": "Ra's Roman Mosque",
+                  "text": "Die Ra's-Roman-Moschee ist eine etablierte islamische Stätte, die dem Geschäftsviertel in der Nähe des Bahrain World Trade Centers tägliche Gebetsgottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586067,
+                        26.237235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Msaad Mosque",
+                  "text": "A Msaad mecset egy kiemelkedő muszlim szentély a Bahreini Világkereskedelmi Központ közelében található magasodó modern felhőkarcolók között.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584591,
+                        26.237997
+                  ]
+            },
+            {
+                  "name": "Ra's Roman Mosque",
+                  "text": "A Ra's Roman mecset egy bevett iszlám imahely, amely napi istentiszteleteket kínál a Bahreini Világkereskedelmi Központ közeli üzleti negyedének.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586067,
+                        26.237235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Msaad Mosque",
+                  "text": "Moscheea Msaad este un sanctuar musulman proeminent amplasat printre zgârie-norii moderni și falnici din apropierea Bahrain World Trade Center.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584591,
+                        26.237997
+                  ]
+            },
+            {
+                  "name": "Ra's Roman Mosque",
+                  "text": "Moscheea Ra's Roman este un loc islamic consacrat care oferă slujbe zilnice de rugăciune districtului de afaceri din apropierea Bahrain World Trade Center.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586067,
+                        26.237235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Msaad Mosque",
+                  "text": "The Msaad Mosque is a prominent Muslim sanctuary nestled amid the towering modern skyscrapers near the Bahrain World Trade Center.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584591,
+                        26.237997
+                  ]
+            },
+            {
+                  "name": "Ra's Roman Mosque",
+                  "text": "The Ra's Roman Mosque is an established Islamic site offering daily prayer services to the business district near the Bahrain World Trade Center.",
+                  "category": "landmark",
+                  "coords": [
+                        50.586067,
+                        26.237235
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BH-13",
     coords: [50.584, 26.239],
@@ -51,7 +132,484 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/bh-world-trade-center-landmarks-v2.webp"},
   {
-    id: "bh-qalat-al-bahrain-landmarks-v2",
+    id: "bh-qalat-al-bahrain-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Almaqsha",
+                  "text": "Ein traditionelles Dorfgebiet mit Palmhainen nahe dem historischen Fort von Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.517235,
+                        26.221615
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain",
+                  "text": "Eine UNESCO-Welterbestätte mit archäologischen Schichten der Dilmun-Hauptstadt und einem portugiesischen Fort.",
+                  "category": "historical",
+                  "coords": [
+                        50.520842,
+                        26.232891
+                  ]
+            },
+            {
+                  "name": "God Bless Us’ Mosque",
+                  "text": "Ein gemeinschaftliches Gotteshaus in den Wohnstraßen nahe Qal'at al-Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.50571,
+                        26.220394
+                  ]
+            },
+            {
+                  "name": "Matam Almaqsha",
+                  "text": "Eine religiöse Versammlungshalle der Schiiten für die örtliche Gemeinschaft im Dorf Almaqsha.",
+                  "category": "religious",
+                  "coords": [
+                        50.516825,
+                        26.220708
+                  ]
+            },
+            {
+                  "name": "Sheikh Mohammed Mosque (Abu Quba)",
+                  "text": "Eine alte Viertel-Moschee in der historischen Umgebung des Bezirks Al Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516289,
+                        26.222411
+                  ]
+            },
+            {
+                  "name": "Sheikh Hammad Mosque",
+                  "text": "Eine lokale Moschee mit traditionellen architektonischen Elementen nahe der archäologischen Stätten von Al Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        50.51678,
+                        26.219086
+                  ]
+            },
+            {
+                  "name": "Imam Hassan mosque",
+                  "text": "Ein Gebetsort für die örtliche Gemeinschaft in Meeresnähe und beim Fort von Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.513014,
+                        26.213724
+                  ]
+            },
+            {
+                  "name": "Sheikh Ibrahim Mosque",
+                  "text": "Eine kleine, ruhige Moschee, die den Bewohnern von Al Qala spirituelle Dienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.513267,
+                        26.211246
+                  ]
+            },
+            {
+                  "name": "Alabd Al Saleh mosque",
+                  "text": "Eine bescheidene Dorfmoschee in der ländlichen Küstenlandschaft von Alabd Al Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516766,
+                        26.227207
+                  ]
+            },
+            {
+                  "name": "Al Alawi Mosque",
+                  "text": "Ein religiöses Wahrzeichen für die lokale Bevölkerung im Wohngebiet Almaqsha.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516587,
+                        26.229662
+                  ]
+            },
+            {
+                  "name": "Matam Almahmodyyat",
+                  "text": "Eine religiöse Halle für schiitische Zeremonien in der traditionellen Umgebung von Al Qala.",
+                  "category": "religious",
+                  "coords": [
+                        50.510927,
+                        26.231471
+                  ]
+            },
+            {
+                  "name": "Shaikh Ali Aljanobi mosque(Abo Mahya)",
+                  "text": "Eine Küstenmoschee, die einen friedlichen Ort zum Gebet an der Nordküste der Insel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.507843,
+                        26.226866
+                  ]
+            },
+            {
+                  "name": "Altorba mosque",
+                  "text": "Ein lokales Gotteshaus inmitten der traditionellen Häuser des Dorfes Al Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        50.507338,
+                        26.231595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Almaqsha",
+                  "text": "Hagyományos falu pálmaligetekkel a történelmi Bahreini erőd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.517235,
+                        26.221615
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain",
+                  "text": "UNESCO világörökségi helyszín a Dilmun-főváros régészeti rétegeivel és egy portugál erőddel.",
+                  "category": "historical",
+                  "coords": [
+                        50.520842,
+                        26.232891
+                  ]
+            },
+            {
+                  "name": "God Bless Us’ Mosque",
+                  "text": "Közösségi istentiszteleti hely a Qal'at al-Bahrain közelében lévő lakóutcákban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.50571,
+                        26.220394
+                  ]
+            },
+            {
+                  "name": "Matam Almaqsha",
+                  "text": "Síita vallási gyülekezeti csarnok Almaqsha falu helyi közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        50.516825,
+                        26.220708
+                  ]
+            },
+            {
+                  "name": "Sheikh Mohammed Mosque (Abu Quba)",
+                  "text": "Régi környékbeli mecset Al Qala negyedének történelmi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516289,
+                        26.222411
+                  ]
+            },
+            {
+                  "name": "Sheikh Hammad Mosque",
+                  "text": "Helyi mecset hagyományos építészeti elemekkel Al Qala régészeti lelőhelyei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.51678,
+                        26.219086
+                  ]
+            },
+            {
+                  "name": "Imam Hassan mosque",
+                  "text": "Imádság helyszíne a helyi közösség számára a tenger és a Bahreini erőd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.513014,
+                        26.213724
+                  ]
+            },
+            {
+                  "name": "Sheikh Ibrahim Mosque",
+                  "text": "Kicsi, csendes mecset, amely lelki szolgáltatásokat nyújt Al Qala lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        50.513267,
+                        26.211246
+                  ]
+            },
+            {
+                  "name": "Alabd Al Saleh mosque",
+                  "text": "Szerény falusi mecset Alabd Al Saleh tengerparti vidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516766,
+                        26.227207
+                  ]
+            },
+            {
+                  "name": "Al Alawi Mosque",
+                  "text": "Vallási nevezetesség a helyi lakosság számára Almaqsha lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516587,
+                        26.229662
+                  ]
+            },
+            {
+                  "name": "Matam Almahmodyyat",
+                  "text": "Síita szertartásokra szolgáló közösségi vallási csarnok Al Qala hagyományos környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        50.510927,
+                        26.231471
+                  ]
+            },
+            {
+                  "name": "Shaikh Ali Aljanobi mosque(Abo Mahya)",
+                  "text": "Tengerparti mecset, amely békés imádkozási helyet kínál a sziget északi partja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.507843,
+                        26.226866
+                  ]
+            },
+            {
+                  "name": "Altorba mosque",
+                  "text": "Környékbeli istentiszteleti hely Al Qala falu hagyományos házai között.",
+                  "category": "landmark",
+                  "coords": [
+                        50.507338,
+                        26.231595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Almaqsha",
+                  "text": "O zonă rurală tradițională caracterizată prin livezi de palmiere lângă istoricul Fort Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.517235,
+                        26.221615
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain",
+                  "text": "Un sit din patrimoniul mondial UNESCO care prezintă straturi arheologice din capitala Dilmun și un fort portughez.",
+                  "category": "historical",
+                  "coords": [
+                        50.520842,
+                        26.232891
+                  ]
+            },
+            {
+                  "name": "God Bless Us’ Mosque",
+                  "text": "Un lăcaș de cult comunitar cuibărit pe străzile rezidențiale de lângă Qal'at al-Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.50571,
+                        26.220394
+                  ]
+            },
+            {
+                  "name": "Matam Almaqsha",
+                  "text": "O sală de adunare religioasă șiită care deservește comunitatea locală din satul Almaqsha.",
+                  "category": "religious",
+                  "coords": [
+                        50.516825,
+                        26.220708
+                  ]
+            },
+            {
+                  "name": "Sheikh Mohammed Mosque (Abu Quba)",
+                  "text": "O veche moschee de cartier situată în împrejurimile istorice ale districtului Al Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516289,
+                        26.222411
+                  ]
+            },
+            {
+                  "name": "Sheikh Hammad Mosque",
+                  "text": "O moschee locală cu elemente arhitecturale tradiționale lângă siturile arheologice din Al Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        50.51678,
+                        26.219086
+                  ]
+            },
+            {
+                  "name": "Imam Hassan mosque",
+                  "text": "Un loc de rugăciune pentru comunitatea locală situat aproape de mare și de Fortul Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.513014,
+                        26.213724
+                  ]
+            },
+            {
+                  "name": "Sheikh Ibrahim Mosque",
+                  "text": "O moschee mică și liniștită care oferă servicii spirituale rezidenților din zona Al Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        50.513267,
+                        26.211246
+                  ]
+            },
+            {
+                  "name": "Alabd Al Saleh mosque",
+                  "text": "O moschee sătească modestă situată în peisajul rural de coastă din Alabd Al Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516766,
+                        26.227207
+                  ]
+            },
+            {
+                  "name": "Al Alawi Mosque",
+                  "text": "Un punct de reper religios care deservește populația locală din zona rezidențială Almaqsha.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516587,
+                        26.229662
+                  ]
+            },
+            {
+                  "name": "Matam Almahmodyyat",
+                  "text": "O sală religioasă comunitară pentru ritualuri șiite în cadrul tradițional din Al Qala.",
+                  "category": "religious",
+                  "coords": [
+                        50.510927,
+                        26.231471
+                  ]
+            },
+            {
+                  "name": "Shaikh Ali Aljanobi mosque(Abo Mahya)",
+                  "text": "O moschee de coastă care oferă un spațiu liniștit pentru rugăciune lângă țărmurile nordice ale insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        50.507843,
+                        26.226866
+                  ]
+            },
+            {
+                  "name": "Altorba mosque",
+                  "text": "Un lăcaș de cult de cartier situat printre casele tradiționale din satul Al Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        50.507338,
+                        26.231595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Almaqsha",
+                  "text": "A traditional village area characterized by palm groves near the historic Bahrain Fort.",
+                  "category": "landmark",
+                  "coords": [
+                        50.517235,
+                        26.221615
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain",
+                  "text": "A UNESCO World Heritage site featuring archaeological layers from the Dilmun capital and a Portuguese fort.",
+                  "category": "historical",
+                  "coords": [
+                        50.520842,
+                        26.232891
+                  ]
+            },
+            {
+                  "name": "God Bless Us’ Mosque",
+                  "text": "A community place of worship nestled in the residential lanes near the Qal'at al-Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.50571,
+                        26.220394
+                  ]
+            },
+            {
+                  "name": "Matam Almaqsha",
+                  "text": "A Shia religious assembly hall serving the local community in the village of Almaqsha.",
+                  "category": "religious",
+                  "coords": [
+                        50.516825,
+                        26.220708
+                  ]
+            },
+            {
+                  "name": "Sheikh Mohammed Mosque (Abu Quba)",
+                  "text": "An old neighborhood mosque located within the historical surroundings of the Al Qala district.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516289,
+                        26.222411
+                  ]
+            },
+            {
+                  "name": "Sheikh Hammad Mosque",
+                  "text": "A local mosque featuring traditional architectural elements near the archaeological sites of Al Qala.",
+                  "category": "landmark",
+                  "coords": [
+                        50.51678,
+                        26.219086
+                  ]
+            },
+            {
+                  "name": "Imam Hassan mosque",
+                  "text": "A place of prayer for the local community situated close to the sea and the Bahrain Fort.",
+                  "category": "landmark",
+                  "coords": [
+                        50.513014,
+                        26.213724
+                  ]
+            },
+            {
+                  "name": "Sheikh Ibrahim Mosque",
+                  "text": "A small, quiet mosque providing spiritual services to the residents of the Al Qala area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.513267,
+                        26.211246
+                  ]
+            },
+            {
+                  "name": "Alabd Al Saleh mosque",
+                  "text": "A humble village mosque located in the coastal rural landscape of Alabd Al Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516766,
+                        26.227207
+                  ]
+            },
+            {
+                  "name": "Al Alawi Mosque",
+                  "text": "A religious landmark serving the local population in the Almaqsha residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        50.516587,
+                        26.229662
+                  ]
+            },
+            {
+                  "name": "Matam Almahmodyyat",
+                  "text": "A community religious hall for Shia observances in the traditional setting of Al Qala.",
+                  "category": "religious",
+                  "coords": [
+                        50.510927,
+                        26.231471
+                  ]
+            },
+            {
+                  "name": "Shaikh Ali Aljanobi mosque(Abo Mahya)",
+                  "text": "A coastal mosque offering a peaceful space for prayer near the northern shores of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        50.507843,
+                        26.226866
+                  ]
+            },
+            {
+                  "name": "Altorba mosque",
+                  "text": "A neighborhood place of worship located among the traditional houses of Al Qala village.",
+                  "category": "landmark",
+                  "coords": [
+                        50.507338,
+                        26.231595
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BH-17",
     coords: [50.520, 26.233],
@@ -99,7 +657,160 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/bh-qalat-al-bahrain-landmarks-v2.webp"},
   {
-    id: "bh-al-fateh-grand-mosque-landmarks-v2",
+    id: "bh-al-fateh-grand-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "JUFFAIR SQUARE",
+                  "text": "Ein lebendiges Lifestyle-Zentrum mit zahlreichen Gastronomie- und Einkaufsmöglichkeiten nahe der Al-Fateh-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607539,
+                        26.216453
+                  ]
+            },
+            {
+                  "name": "Gudaibiya Palace",
+                  "text": "Ein historischer königlicher Palast in Manama, der als Ort für wichtige Staatstreffen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        50.592683,
+                        26.218555
+                  ]
+            },
+            {
+                  "name": "Al Fateh Grand Mosque",
+                  "text": "Diese 1988 eröffnete, gewaltige Moschee besitzt die weltweit größte Kuppel aus Glasfaser.",
+                  "category": "landmark",
+                  "coords": [
+                        50.598341,
+                        26.218986
+                  ]
+            },
+            {
+                  "name": "Elite Medical Center",
+                  "text": "Ein markantes Gebäude mit Blick auf die moderne Skyline des Stadtteils Juffair.",
+                  "category": "natural",
+                  "coords": [
+                        50.609006,
+                        26.217125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "JUFFAIR SQUARE",
+                  "text": "Élénk életmódközpont számos étkezési és vásárlási lehetőséggel az Al Fateh nagymecset közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607539,
+                        26.216453
+                  ]
+            },
+            {
+                  "name": "Gudaibiya Palace",
+                  "text": "Történelmi királyi palota Manamában, amely fontos állami találkozók helyszínéül szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        50.592683,
+                        26.218555
+                  ]
+            },
+            {
+                  "name": "Al Fateh Grand Mosque",
+                  "text": "Az 1988-ban megnyitott hatalmas mecset a világ legnagyobb üvegszálas kupolájával rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        50.598341,
+                        26.218986
+                  ]
+            },
+            {
+                  "name": "Elite Medical Center",
+                  "text": "Egy kiemelkedő épület, ahonnan kilátás nyílik a Juffair negyed modern panorámájára.",
+                  "category": "natural",
+                  "coords": [
+                        50.609006,
+                        26.217125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "JUFFAIR SQUARE",
+                  "text": "Un centru vibrant de lifestyle, cu numeroase opțiuni de luat masa și retail lângă Marea Moschee Al Fateh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607539,
+                        26.216453
+                  ]
+            },
+            {
+                  "name": "Gudaibiya Palace",
+                  "text": "Un palat regal istoric din Manama care servește drept loc de desfășurare a unor importante întâlniri de stat.",
+                  "category": "landmark",
+                  "coords": [
+                        50.592683,
+                        26.218555
+                  ]
+            },
+            {
+                  "name": "Al Fateh Grand Mosque",
+                  "text": "Deschisă în 1988, această moschee masivă are cea mai mare cupolă de fibră de sticlă din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        50.598341,
+                        26.218986
+                  ]
+            },
+            {
+                  "name": "Elite Medical Center",
+                  "text": "O clădire proeminentă care oferă vedere spre orizontul modern al districtului Juffair.",
+                  "category": "natural",
+                  "coords": [
+                        50.609006,
+                        26.217125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "JUFFAIR SQUARE",
+                  "text": "A vibrant lifestyle hub featuring numerous dining and retail options near the Al Fateh Grand Mosque.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607539,
+                        26.216453
+                  ]
+            },
+            {
+                  "name": "Gudaibiya Palace",
+                  "text": "A historic royal palace in Manama that serves as a venue for important state meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        50.592683,
+                        26.218555
+                  ]
+            },
+            {
+                  "name": "Al Fateh Grand Mosque",
+                  "text": "Opened in 1988, this massive mosque features the world's largest fiberglass dome.",
+                  "category": "landmark",
+                  "coords": [
+                        50.598341,
+                        26.218986
+                  ]
+            },
+            {
+                  "name": "Elite Medical Center",
+                  "text": "A prominent building offering views over the modern skyline of the Juffair district.",
+                  "category": "natural",
+                  "coords": [
+                        50.609006,
+                        26.217125
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BH-13",
     coords: [50.598, 26.218],
@@ -147,7 +858,52 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/bh-al-fateh-grand-mosque-landmarks-v2.webp"},
     {
-    id: "bh-tree-of-life-landmarks-v2",
+    id: "bh-tree-of-life-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schadscharat al-Haya",
+                  "text": "Dieser bemerkenswerte einsame Mesquite-Baum überlebt seit 1582 in der Wüste ohne sichtbare Wasserquelle.",
+                  "category": "landmark",
+                  "coords": [
+                        50.582973,
+                        25.994236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tree of Life",
+                  "text": "Ez a figyelemre méltó magányos lepényfa 1582 óta él a sivatagban látható vízforrás nélkül.",
+                  "category": "landmark",
+                  "coords": [
+                        50.582973,
+                        25.994236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tree of Life",
+                  "text": "Acest remarcabil arbore de mesquite solitar supraviețuiește în deșert din 1582 fără o sursă de apă vizibilă.",
+                  "category": "landmark",
+                  "coords": [
+                        50.582973,
+                        25.994236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tree of Life",
+                  "text": "This remarkable lone mesquite tree has survived in the desert since 1582 without a visible water source.",
+                  "category": "landmark",
+                  "coords": [
+                        50.582973,
+                        25.994236
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BH-14",
     coords: [50.583, 25.994],
@@ -243,7 +999,88 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/bh-king-fahd-causeway-landmarks-v2.webp"},
   {
-    id: "bh-national-museum-landmarks-v2",
+    id: "bh-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bahrain National Museum",
+                  "text": "Dieses weitläufige, 1988 eröffnete Museum am Wasser bewahrt reiche archäologische Artefakte aus Tausenden von Jahren regionaler Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        50.597839,
+                        26.240497
+                  ]
+            },
+            {
+                  "name": "Bahrain National Theatre",
+                  "text": "Dieses bemerkenswerte architektonische Wahrzeichen verfügt über eine markante Außenfassade aus gewebtem Aluminium und veranstaltet erstklassige darstellende Künste in der Nähe des Meeres.",
+                  "category": "cultural",
+                  "coords": [
+                        50.598685,
+                        26.242613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bahrain National Museum",
+                  "text": "Ezt az 1988-ban megnyílt, vízparti kiterjedt múzeumot több ezer éves regionális történelmet felölelő, gazdag régészeti leletek megőrzésére hozták létre.",
+                  "category": "museum",
+                  "coords": [
+                        50.597839,
+                        26.240497
+                  ]
+            },
+            {
+                  "name": "Bahrain National Theatre",
+                  "text": "Ez a figyelemre méltó építészeti mérföldkő feltűnő, szőtt alumínium külsejével világszínvonalú előadó-művészeti eseményeknek ad otthont a tenger közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        50.598685,
+                        26.242613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bahrain National Museum",
+                  "text": "Deschis în 1988, acest vast muzeu pe malul apei păstrează artefacte arheologice bogate care acoperă mii de ani de istorie regională.",
+                  "category": "museum",
+                  "coords": [
+                        50.597839,
+                        26.240497
+                  ]
+            },
+            {
+                  "name": "Bahrain National Theatre",
+                  "text": "Acest reper arhitectural notabil prezintă un exterior impresionant din aluminiu împletit și găzduiește evenimente de arte spectacolului de talie mondială în apropierea mării.",
+                  "category": "cultural",
+                  "coords": [
+                        50.598685,
+                        26.242613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahrain National Museum",
+                  "text": "Opened in 1988, this expansive waterside museum preserves rich archaeological artifacts spanning thousands of years of regional history.",
+                  "category": "museum",
+                  "coords": [
+                        50.597839,
+                        26.240497
+                  ]
+            },
+            {
+                  "name": "Bahrain National Theatre",
+                  "text": "This notable architectural landmark features a striking woven-aluminum exterior and hosts world-class performing arts events near the sea.",
+                  "category": "cultural",
+                  "coords": [
+                        50.598685,
+                        26.242613
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BH-13",
     coords: [50.598, 26.241],
@@ -387,7 +1224,124 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/bh-riffa-fort-landmarks-v2.webp"},
   {
-    id: "bh-al-areen-wildlife-park-landmarks-v2",
+    id: "bh-al-areen-wildlife-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ali",
+                  "text": "Dieses Gebiet in der Nähe von Al Areen ist historisch bedeutsam für seine antiken Dilmun-Grabhügel.",
+                  "category": "landmark",
+                  "coords": [
+                        50.518595,
+                        25.988415
+                  ]
+            },
+            {
+                  "name": "Al Areen Wildlife Park & Reserve",
+                  "text": "Dieses Naturschutzgebiet schützt einheimische arabische Arten, darunter die Arabische Oryx-Antilope und Gazellen.",
+                  "category": "recreational",
+                  "coords": [
+                        50.502748,
+                        26.010912
+                  ]
+            },
+            {
+                  "name": "Lost Paradise of Dilmun Water Park",
+                  "text": "Bahrains größter Wasserpark bietet Rutschen und Attraktionen, die der antiken Dilmun-Zivilisation nachempfunden sind.",
+                  "category": "recreational",
+                  "coords": [
+                        50.5098,
+                        26.013838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ali",
+                  "text": "Ez az Al Areen közelében található terület történelmileg jelentős az ókori Dilmun-sírhalmok miatt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.518595,
+                        25.988415
+                  ]
+            },
+            {
+                  "name": "Al Areen Wildlife Park & Reserve",
+                  "text": "Ez a vadrezervátum őshonos arab fajokat védelmez, köztük az arab oryxot és gazellákat.",
+                  "category": "recreational",
+                  "coords": [
+                        50.502748,
+                        26.010912
+                  ]
+            },
+            {
+                  "name": "Lost Paradise of Dilmun Water Park",
+                  "text": "Bahrein legnagyobb vízi parkja az ősi Dilmun civilizáció tematikájú csúszdákkal és látnivalókkal várja a vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        50.5098,
+                        26.013838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ali",
+                  "text": "Această zonă de lângă Al Areen este importantă din punct de vedere istoric pentru tumulii funerari antici Dilmun.",
+                  "category": "landmark",
+                  "coords": [
+                        50.518595,
+                        25.988415
+                  ]
+            },
+            {
+                  "name": "Al Areen Wildlife Park & Reserve",
+                  "text": "Această rezervație naturală protejează specii arabe native, inclusiv oryxul arab și gazele.",
+                  "category": "recreational",
+                  "coords": [
+                        50.502748,
+                        26.010912
+                  ]
+            },
+            {
+                  "name": "Lost Paradise of Dilmun Water Park",
+                  "text": "Cel mai mare parc acvatic din Bahrain oferă tobogane și atracții tematice legate de vechea civilizație Dilmun.",
+                  "category": "recreational",
+                  "coords": [
+                        50.5098,
+                        26.013838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ali",
+                  "text": "Located near Al Areen, this area is historically significant for its ancient Dilmun burial mounds.",
+                  "category": "landmark",
+                  "coords": [
+                        50.518595,
+                        25.988415
+                  ]
+            },
+            {
+                  "name": "Al Areen Wildlife Park & Reserve",
+                  "text": "This wildlife sanctuary protects native Arabian species, including the Arabian oryx and gazelles.",
+                  "category": "recreational",
+                  "coords": [
+                        50.502748,
+                        26.010912
+                  ]
+            },
+            {
+                  "name": "Lost Paradise of Dilmun Water Park",
+                  "text": "Bahrain's largest water park features slides and attractions themed around the ancient Dilmun civilization.",
+                  "category": "recreational",
+                  "coords": [
+                        50.5098,
+                        26.013838
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BH-14",
     coords: [50.514, 26.012],
@@ -435,7 +1389,88 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "bh-international-circuit-landmarks-v2",
+    id: "bh-international-circuit-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festival City",
+                  "text": "Eine lebhafte Unterhaltungszone in der Nähe der Rennstrecke, die Einkaufsmöglichkeiten und Freizeitaktivitäten unter freiem Himmel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        50.506399,
+                        26.030447
+                  ]
+            },
+            {
+                  "name": "Bahrain International Circuit",
+                  "text": "Diese erstklassige Motorsport-Rennstrecke wurde 2004 eröffnet und ist Austragungsort des jährlichen Formel-1-Grand-Prix von Bahrain.",
+                  "category": "landmark",
+                  "coords": [
+                        50.514618,
+                        26.030932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Festival City",
+                  "text": "Egy élénk szórakoztató negyed a versenypálya közelében, ahol szabadtéri vásárlási és szabadidős lehetőségek várják a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        50.506399,
+                        26.030447
+                  ]
+            },
+            {
+                  "name": "Bahrain International Circuit",
+                  "text": "Ez a 2004-ben megnyitott világszínvonalú versenypálya ad otthont az éves Forma-1-es Bahreini Nagydíjnak.",
+                  "category": "landmark",
+                  "coords": [
+                        50.514618,
+                        26.030932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Festival City",
+                  "text": "O zonă de divertisment animată lângă circuitul de curse, care oferă cumpărături și activități recreative în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        50.506399,
+                        26.030447
+                  ]
+            },
+            {
+                  "name": "Bahrain International Circuit",
+                  "text": "Acest circuit de motorsport de talie mondială, deschis în 2004, găzduiește anual Marele Premiu de Formula 1 al Bahrainului.",
+                  "category": "landmark",
+                  "coords": [
+                        50.514618,
+                        26.030932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Festival City",
+                  "text": "A lively entertainment zone near the race circuit offering open-air shopping and leisure activities.",
+                  "category": "landmark",
+                  "coords": [
+                        50.506399,
+                        26.030447
+                  ]
+            },
+            {
+                  "name": "Bahrain International Circuit",
+                  "text": "This world-class motorsport venue, opened in 2004, hosts the annual Formula 1 Bahrain Grand Prix.",
+                  "category": "landmark",
+                  "coords": [
+                        50.514618,
+                        26.030932
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BH-14",
     coords: [50.511, 26.031],
@@ -627,7 +1662,124 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       fr: [],
     }, image: "/poi-images/bh-al-khamis-mosque-landmarks-v2.webp"},
   {
-    id: "bh-muharraq-souq-landmarks-v2",
+    id: "bh-muharraq-souq-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Busaad Art Gallery",
+                  "text": "Die Busaad Art Gallery ist ein Kunstzentrum in der Region bh-muharraq-souq-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        50.613385,
+                        26.255062
+                  ]
+            },
+            {
+                  "name": "A Rahman Yusuf Bin Jalal House",
+                  "text": "Das A Rahman Yusuf Bin Jalal House ist eine lokale Attraktion in bh-muharraq-souq-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.611788,
+                        26.25412
+                  ]
+            },
+            {
+                  "name": "Shaik Isa Bin Ali House",
+                  "text": "Das Shaik Isa Bin Ali House ist eine markante Sehenswürdigkeit in bh-muharraq-souq-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.612863,
+                        26.25384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Busaad Art Gallery",
+                  "text": "A Busaad Art Gallery egy művészeti központ a bh-muharraq-souq-landmarks-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        50.613385,
+                        26.255062
+                  ]
+            },
+            {
+                  "name": "A Rahman Yusuf Bin Jalal House",
+                  "text": "Az A Rahman Yusuf Bin Jalal House egy helyi látványosság a bh-muharraq-souq-landmarks-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.611788,
+                        26.25412
+                  ]
+            },
+            {
+                  "name": "Shaik Isa Bin Ali House",
+                  "text": "A Shaik Isa Bin Ali House egy nevezetesség a bh-muharraq-souq-landmarks-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.612863,
+                        26.25384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Busaad Art Gallery",
+                  "text": "Busaad Art Gallery este un centru de artă din regiunea bh-muharraq-souq-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        50.613385,
+                        26.255062
+                  ]
+            },
+            {
+                  "name": "A Rahman Yusuf Bin Jalal House",
+                  "text": "A Rahman Yusuf Bin Jalal House este o atracție locală din bh-muharraq-souq-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.611788,
+                        26.25412
+                  ]
+            },
+            {
+                  "name": "Shaik Isa Bin Ali House",
+                  "text": "Shaik Isa Bin Ali House este o atracție importantă din bh-muharraq-souq-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.612863,
+                        26.25384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Busaad Art Gallery",
+                  "text": "The Busaad Art Gallery is an arts centre located in bh-muharraq-souq-landmarks-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        50.613385,
+                        26.255062
+                  ]
+            },
+            {
+                  "name": "A Rahman Yusuf Bin Jalal House",
+                  "text": "A Rahman Yusuf Bin Jalal House is a local attraction located in bh-muharraq-souq-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.611788,
+                        26.25412
+                  ]
+            },
+            {
+                  "name": "Shaik Isa Bin Ali House",
+                  "text": "Shaik Isa Bin Ali House is a prominent attraction in bh-muharraq-souq-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        50.612863,
+                        26.25384
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BH-15",
     coords: [50.613, 26.254],
@@ -723,7 +1875,88 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       fr: [],
     },},
   {
-    id: "bh-shaikh-isa-bin-ali-house-landmarks-v2",
+    id: "bh-shaikh-isa-bin-ali-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hend Gallery",
+                  "text": "Eine Kunstgalerie im historischen Viertel, die zeitgenössische bahrainische Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        50.619477,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "matam waleed al kaba",
+                  "text": "Ein traditionelles Versammlungshaus für religiöse Zeremonien im Herzen von Muharraq.",
+                  "category": "religious",
+                  "coords": [
+                        50.614058,
+                        26.256183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hend Gallery",
+                  "text": "Művészeti galéria a történelmi negyedben, amely kortárs bahreini műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        50.619477,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "matam waleed al kaba",
+                  "text": "Hagyományos gyülekezeti ház vallási szertatásokhoz Muharraq szívében.",
+                  "category": "religious",
+                  "coords": [
+                        50.614058,
+                        26.256183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hend Gallery",
+                  "text": "O galerie de artă în cartierul istoric, care expune lucrări contemporane din Bahrain.",
+                  "category": "museum",
+                  "coords": [
+                        50.619477,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "matam waleed al kaba",
+                  "text": "O casă de adunare tradițională pentru ceremonii religioase în inima orașului Muharraq.",
+                  "category": "religious",
+                  "coords": [
+                        50.614058,
+                        26.256183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hend Gallery",
+                  "text": "An art gallery in the historic district showcasing contemporary Bahraini works.",
+                  "category": "museum",
+                  "coords": [
+                        50.619477,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "matam waleed al kaba",
+                  "text": "A traditional assembly house for religious ceremonies in the heart of Muharraq.",
+                  "category": "religious",
+                  "coords": [
+                        50.614058,
+                        26.256183
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "BH-15",
     coords: [50.615, 26.257],

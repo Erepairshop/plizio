@@ -93,7 +93,160 @@ export const montenegroCitiesV2: POI[] = [
     image: "/poi-images/montenegro-golubovci-cities-v2.webp",
   },
   {
-    id: "montenegro-tuzi-cities-v2", "sights": {"de": [{"name": "Cijevna - Smokva", "text": "Cijevna - Smokva liegt bei Tuzi.", "category": "recreational", "coords": [19.35096, 42.407258]}, {"name": "Cijevna - Kod Ljuljanovića", "text": "Cijevna - Kod Ljuljanovića liegt bei Tuzi.", "category": "recreational", "coords": [19.347931, 42.410165]}, {"name": "Cijevna - Zidine", "text": "Cijevna - Zidine liegt bei Tuzi.", "category": "recreational", "coords": [19.339815, 42.411387]}, {"name": "Šipčanička gora", "text": "Der Berggipfel Šipčanička gora erhebt sich imposant in der Nähe von Tuzi in Montenegro. Dieses natürliche Wahrzeichen bietet Wanderern und Naturliebhabern eine wunderbare Gelegenheit, die Landschaft von oben zu betrachten. Die weite Aussicht von der Spitze belohnt jeden Aufstieg in dieser malerischen Region.", "category": "natural", "coords": [19.318599, 42.373329]}], "hu": [{"name": "Cijevna - Smokva", "text": "A Cijevna - Smokva Tuzi közelében található.", "category": "recreational", "coords": [19.35096, 42.407258]}, {"name": "Cijevna - Kod Ljuljanovića", "text": "A Cijevna - Kod Ljuljanovića Tuzi közelében található.", "category": "recreational", "coords": [19.347931, 42.410165]}, {"name": "Cijevna - Zidine", "text": "A Cijevna - Zidine Tuzi közelében található.", "category": "recreational", "coords": [19.339815, 42.411387]}, {"name": "Šipčanička gora", "text": "A Šipčanička gora hegycsúcs impozánsan emelkedik a montenegrói Tuzi közelében. Ez a természeti nevezetesség csodálatos lehetőséget kínál a túrázóknak és a természetkedvelőknek, hogy fentről csodálják meg a tájat. A csúcsról nyíló széles kilátás mindenkit kárpótol a festői régióban tett mászásért.", "category": "natural", "coords": [19.318599, 42.373329]}], "ro": [{"name": "Cijevna - Smokva", "text": "Cijevna - Smokva este situată lângă Tuzi.", "category": "recreational", "coords": [19.35096, 42.407258]}, {"name": "Cijevna - Kod Ljuljanovića", "text": "Cijevna - Kod Ljuljanovića este situată lângă Tuzi.", "category": "recreational", "coords": [19.347931, 42.410165]}, {"name": "Cijevna - Zidine", "text": "Cijevna - Zidine este situată lângă Tuzi.", "category": "recreational", "coords": [19.339815, 42.411387]}, {"name": "Šipčanička gora", "text": "Vârful de munte Šipčanička gora se înalță impunător lângă Tuzi în Muntenegru. Acest reper natural oferă drumeților și iubitorilor de natură o oportunitate minunată de a privi peisajul de sus. Priveliștea vastă de la vârf recompensează fiecare urcare în această regiune pitorească.", "category": "natural", "coords": [19.318599, 42.373329]}], "en": [{"name": "Cijevna - Smokva", "text": "Cijevna - Smokva is located near Tuzi.", "category": "recreational", "coords": [19.35096, 42.407258]}, {"name": "Cijevna - Kod Ljuljanovića", "text": "Cijevna - Kod Ljuljanovića is located near Tuzi.", "category": "recreational", "coords": [19.347931, 42.410165]}, {"name": "Cijevna - Zidine", "text": "Cijevna - Zidine is located near Tuzi.", "category": "recreational", "coords": [19.339815, 42.411387]}, {"name": "Šipčanička gora", "text": "The mountain peak of Šipčanička gora rises imposingly near Tuzi in Montenegro. This natural landmark offers hikers and nature lovers a wonderful opportunity to view the landscape from above. The sweeping views from the top reward every ascent in this picturesque region.", "category": "natural", "coords": [19.318599, 42.373329]}]},
+    id: "montenegro-tuzi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cijevna - Smokva",
+                  "text": "Ein Erholungsgebiet am Fluss Cijevna bei Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.35096,
+                        42.407258
+                  ]
+            },
+            {
+                  "name": "Cijevna - Kod Ljuljanovića",
+                  "text": "Ein weiteres Erholungsgebiet am Cijevna-Ufer bei Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.347931,
+                        42.410165
+                  ]
+            },
+            {
+                  "name": "Cijevna - Zidine",
+                  "text": "Ein Erholungsort mit alten Mauern am Cijevna-Fluss.",
+                  "category": "recreational",
+                  "coords": [
+                        19.339815,
+                        42.411387
+                  ]
+            },
+            {
+                  "name": "Šipčanička gora",
+                  "text": "Der Berggipfel Šipčanička gora erhebt sich imposant in der Nähe von Tuzi in Montenegro. Dieses natürliche Wahrzeichen bietet Wanderern und Naturliebhabern eine wunderbare Gelegenheit, die Landschaft von oben zu betrachten. Die weite Aussicht von der Spitze belohnt jeden Aufstieg in dieser malerischen Region.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cijevna - Smokva",
+                  "text": "Pihenőhely a Cijevna folyónál, Tuzi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.35096,
+                        42.407258
+                  ]
+            },
+            {
+                  "name": "Cijevna - Kod Ljuljanovića",
+                  "text": "Egy másik pihenőhely a Cijevna partján Tuzi mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        19.347931,
+                        42.410165
+                  ]
+            },
+            {
+                  "name": "Cijevna - Zidine",
+                  "text": "Pihenőhely régi falakkal a Cijevna folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.339815,
+                        42.411387
+                  ]
+            },
+            {
+                  "name": "Šipčanička gora",
+                  "text": "A Šipčanička gora hegycsúcs impozánsan emelkedik a montenegrói Tuzi közelében. Ez a természeti nevezetesség csodálatos lehetőséget kínál a túrázóknak és a természetkedvelőknek, hogy fentről csodálják meg a tájat. A csúcsról nyíló széles kilátás mindenkit kárpótol a festői régióban tett mászásért.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cijevna - Smokva",
+                  "text": "O zonă de agrement pe râul Cijevna lângă Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.35096,
+                        42.407258
+                  ]
+            },
+            {
+                  "name": "Cijevna - Kod Ljuljanovića",
+                  "text": "O altă zonă de agrement pe malul Cijevnei lângă Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.347931,
+                        42.410165
+                  ]
+            },
+            {
+                  "name": "Cijevna - Zidine",
+                  "text": "Un loc de agrement cu ziduri vechi pe râul Cijevna.",
+                  "category": "recreational",
+                  "coords": [
+                        19.339815,
+                        42.411387
+                  ]
+            },
+            {
+                  "name": "Šipčanička gora",
+                  "text": "Vârful de munte Šipčanička gora se înalță impunător lângă Tuzi în Muntenegru. Acest reper natural oferă drumeților și iubitorilor de natură o oportunitate minunată de a privi peisajul de sus. Priveliștea vastă de la vârf recompensează fiecare urcare în această regiune pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cijevna - Smokva",
+                  "text": "A recreational spot on the Cijevna River near Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.35096,
+                        42.407258
+                  ]
+            },
+            {
+                  "name": "Cijevna - Kod Ljuljanovića",
+                  "text": "Another recreational area on the Cijevna bank near Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.347931,
+                        42.410165
+                  ]
+            },
+            {
+                  "name": "Cijevna - Zidine",
+                  "text": "A recreational site with old walls along the Cijevna River.",
+                  "category": "recreational",
+                  "coords": [
+                        19.339815,
+                        42.411387
+                  ]
+            },
+            {
+                  "name": "Šipčanička gora",
+                  "text": "The mountain peak of Šipčanička gora rises imposingly near Tuzi in Montenegro. This natural landmark offers hikers and nature lovers a wonderful opportunity to view the landscape from above. The sweeping views from the top reward every ascent in this picturesque region.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ME",
     name: { de: "Tuzi", hu: "Tuzi", ro: "Tuzi", en: "Tuzi" },
@@ -151,7 +304,7 @@ export const montenegroCitiesV2: POI[] = [
             },
             {
                   "name": "Krši",
-                  "text": "Ein markanter Gipfel im Gebiet Petnjica in Montenegro.",
+                  "text": "Karstlandschaft in Petnjica, Montenegro.",
                   "category": "natural",
                   "coords": [
                         19.935902,
@@ -180,7 +333,7 @@ export const montenegroCitiesV2: POI[] = [
             },
             {
                   "name": "Krši",
-                  "text": "Jelentős hegycsúcs a montenegrói Petnjica környékén.",
+                  "text": "Karszt táj Petnjicában, Montenegróban.",
                   "category": "natural",
                   "coords": [
                         19.935902,
@@ -209,7 +362,7 @@ export const montenegroCitiesV2: POI[] = [
             },
             {
                   "name": "Krši",
-                  "text": "Un vârf notabil în zona Petnjica din Muntenegru.",
+                  "text": "Peisaj carstic în Petnjica, Muntenegru.",
                   "category": "natural",
                   "coords": [
                         19.935902,
@@ -238,7 +391,7 @@ export const montenegroCitiesV2: POI[] = [
             },
             {
                   "name": "Krši",
-                  "text": "A notable peak in the Petnjica area of Montenegro.",
+                  "text": "Karst landscape in Petnjica, Montenegro.",
                   "category": "natural",
                   "coords": [
                         19.935902,
@@ -300,7 +453,160 @@ export const montenegroCitiesV2: POI[] = [
     image: "/poi-images/montenegro-petnjica-cities-v2.webp",
   },
   {
-    id: "montenegro-gusinje-cities-v2", "sights": {"de": [{"name": "Vezirova brada", "text": "Vezirova brada ist ein Berggipfel in der Nähe von Gusinje.", "category": "natural", "coords": [19.811485, 42.53996]}, {"name": "Somina", "text": "Somina ist ein Berggipfel in der Region Gusinje.", "category": "natural", "coords": [19.830636, 42.579989]}, {"name": "Mala Jerina", "text": "Mala Jerina ist ein Gipfel in der Gebirgslandschaft von Gusinje.", "category": "natural", "coords": [19.853532, 42.576355]}, {"name": "Ali-pašini izvori", "text": "Ali Pasha Springs sind berühmte Karstquellen bei Gusinje am Fuße der Prokletije.", "category": "landmark", "coords": [19.824756, 42.549854]}], "hu": [{"name": "Vezirova brada", "text": "A Vezirova brada egy hegycsúcs Gusinje közelében.", "category": "natural", "coords": [19.811485, 42.53996]}, {"name": "Somina", "text": "A Somina egy hegycsúcs Gusinje régiójában.", "category": "natural", "coords": [19.830636, 42.579989]}, {"name": "Mala Jerina", "text": "A Mala Jerina egy hegycsúcs Gusinje hegyvidékén.", "category": "natural", "coords": [19.853532, 42.576355]}, {"name": "Ali-pašini izvori", "text": "Az Ali-pasa források híres karsztforrások Gusinje közelében, a Prokletije lábánál.", "category": "landmark", "coords": [19.824756, 42.549854]}], "ro": [{"name": "Vezirova brada", "text": "Vezirova brada este un vârf montan lângă Gusinje.", "category": "natural", "coords": [19.811485, 42.53996]}, {"name": "Somina", "text": "Somina este un vârf montan din regiunea Gusinje.", "category": "natural", "coords": [19.830636, 42.579989]}, {"name": "Mala Jerina", "text": "Mala Jerina este un vârf din peisajul montan al Gusinje.", "category": "natural", "coords": [19.853532, 42.576355]}, {"name": "Ali-pašini izvori", "text": "Izvoarele Ali Pasha sunt izvoare carstice faimoase lângă Gusinje, la poalele munților Prokletije.", "category": "landmark", "coords": [19.824756, 42.549854]}], "en": [{"name": "Vezirova brada", "text": "Vezirova brada is a mountain peak near Gusinje.", "category": "natural", "coords": [19.811485, 42.53996]}, {"name": "Somina", "text": "Somina is a mountain peak in the Gusinje region.", "category": "natural", "coords": [19.830636, 42.579989]}, {"name": "Mala Jerina", "text": "Mala Jerina is a peak in the mountainous landscape of Gusinje.", "category": "natural", "coords": [19.853532, 42.576355]}, {"name": "Ali Pasha Springs", "text": "Ali Pasha Springs are famous karst springs near Gusinje at the foot of the Prokletije mountains.", "category": "landmark", "coords": [19.824756, 42.549854]}]},
+    id: "montenegro-gusinje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vezirova brada",
+                  "text": "Natürliche Felsformation namens Vezirova brada in Gusinje, Montenegro.",
+                  "category": "natural",
+                  "coords": [
+                        19.811485,
+                        42.53996
+                  ]
+            },
+            {
+                  "name": "Somina",
+                  "text": "Naturgebiet Somina in Gusinje, Montenegro.",
+                  "category": "natural",
+                  "coords": [
+                        19.830636,
+                        42.579989
+                  ]
+            },
+            {
+                  "name": "Mala Jerina",
+                  "text": "Natürlicher Hügel namens Mala Jerina in Gusinje, Montenegro.",
+                  "category": "natural",
+                  "coords": [
+                        19.853532,
+                        42.576355
+                  ]
+            },
+            {
+                  "name": "Ali-pašini izvori",
+                  "text": "Ali Pasha Springs sind berühmte Karstquellen bei Gusinje am Fuße der Prokletije.",
+                  "category": "landmark",
+                  "coords": [
+                        19.824756,
+                        42.549854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vezirova brada",
+                  "text": "Természetes sziklaformáció, a Vezirova brada Gusinjében, Montenegróban.",
+                  "category": "natural",
+                  "coords": [
+                        19.811485,
+                        42.53996
+                  ]
+            },
+            {
+                  "name": "Somina",
+                  "text": "Somina természeti terület Gusinjében, Montenegróban.",
+                  "category": "natural",
+                  "coords": [
+                        19.830636,
+                        42.579989
+                  ]
+            },
+            {
+                  "name": "Mala Jerina",
+                  "text": "Mala Jerina természetes domb Gusinjében, Montenegróban.",
+                  "category": "natural",
+                  "coords": [
+                        19.853532,
+                        42.576355
+                  ]
+            },
+            {
+                  "name": "Ali-pašini izvori",
+                  "text": "Az Ali-pasa források híres karsztforrások Gusinje közelében, a Prokletije lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        19.824756,
+                        42.549854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vezirova brada",
+                  "text": "Formațiune naturală de stâncă numită Vezirova brada în Gusinje, Muntenegru.",
+                  "category": "natural",
+                  "coords": [
+                        19.811485,
+                        42.53996
+                  ]
+            },
+            {
+                  "name": "Somina",
+                  "text": "Zona naturală Somina în Gusinje, Muntenegru.",
+                  "category": "natural",
+                  "coords": [
+                        19.830636,
+                        42.579989
+                  ]
+            },
+            {
+                  "name": "Mala Jerina",
+                  "text": "Deal natural numit Mala Jerina în Gusinje, Muntenegru.",
+                  "category": "natural",
+                  "coords": [
+                        19.853532,
+                        42.576355
+                  ]
+            },
+            {
+                  "name": "Ali-pašini izvori",
+                  "text": "Izvoarele Ali Pasha sunt izvoare carstice faimoase lângă Gusinje, la poalele munților Prokletije.",
+                  "category": "landmark",
+                  "coords": [
+                        19.824756,
+                        42.549854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vezirova brada",
+                  "text": "Natural rock formation called Vezirova brada in Gusinje, Montenegro.",
+                  "category": "natural",
+                  "coords": [
+                        19.811485,
+                        42.53996
+                  ]
+            },
+            {
+                  "name": "Somina",
+                  "text": "Natural area called Somina in Gusinje, Montenegro.",
+                  "category": "natural",
+                  "coords": [
+                        19.830636,
+                        42.579989
+                  ]
+            },
+            {
+                  "name": "Mala Jerina",
+                  "text": "Natural hill called Mala Jerina in Gusinje, Montenegro.",
+                  "category": "natural",
+                  "coords": [
+                        19.853532,
+                        42.576355
+                  ]
+            },
+            {
+                  "name": "Ali Pasha Springs",
+                  "text": "Ali Pasha Springs are famous karst springs near Gusinje at the foot of the Prokletije mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        19.824756,
+                        42.549854
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ME",
     name: { de: "Gusinje", hu: "Gusinje", ro: "Gusinje", en: "Gusinje" },

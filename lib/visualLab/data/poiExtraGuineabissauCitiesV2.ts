@@ -252,7 +252,340 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
     },
   },
   {
-    id: "bolama-cities-v2", "sights": {"de": [{"name": "Praia de Ofir", "text": "Praia de Ofir bereichert die Stadt Bolama in Guinea-Bissau mit einer reizvollen Küstenlandschaft. Als beliebter Strand innerhalb der Stadt versprüht er einen lebhaften, aber dennoch lockeren lokalen Charme. Strandbesucher können ihre Zeit mit Sonnenbaden verbringen, sich unter die lokale Gemeinschaft mischen oder am Ufer spazieren gehen. Wer Snacks und etwas Wasser mitnimmt, kann hier problemlos den ganzen Nachmittag verweilen.", "category": "recreational", "coords": [-15.47176, 11.555571]}, {"name": "Monumento aos Aviadores Italianos", "text": "Monumento aos Aviadores Italianos ist ein Denkmal in Bolama.", "category": "historical", "coords": [-15.47227, 11.57931]}, {"name": "Banco Nacional Ultramarino / Hotel de Turismo", "text": "Das Banco Nacional Ultramarino sind sehenswerte Ruinen in Bolama.", "category": "historical", "coords": [-15.475754, 11.577269]}, {"name": "Casa da família Nunes Correia", "text": "Casa da família Nunes Correia ist ein Ruinengebäude in Bolama.", "category": "historical", "coords": [-15.475408, 11.578779]}, {"name": "Casa Pinto", "text": "Casa Pinto ist eine historische Ruine in der Stadt Bolama.", "category": "historical", "coords": [-15.474123, 11.579737]}, {"name": "Ruinas de casa comercial", "text": "Ruinas de casa comercial sind Handelsruinen in Bolama.", "category": "historical", "coords": [-15.473838, 11.578295]}, {"name": "Ruinas de pavilhão hospitalar - Internamento", "text": "Diese Ruinen in Bolama waren einst ein Krankenhauspavillon.", "category": "historical", "coords": [-15.477307, 11.576246]}, {"name": "Campo de aviação", "text": "Campo de aviação sind die Überreste eines alten Flugfeldes in Bolama.", "category": "historical", "coords": [-15.478815, 11.586367]}, {"name": "Casa da Guarda e Prisão", "text": "Casa da Guarda e Prisão sind alte Ruinen in Bolama.", "category": "historical", "coords": [-15.474041, 11.576683]}], "hu": [{"name": "Praia de Ofir", "text": "A Praia de Ofir vonzó partvidéki tájjal ékesíti Bissau-Guinea Bolama városát. A városon belüli népszerű strandként elismert helyszín energikus, mégis laza helyi bájjal rendelkezik. A strandolók napozhatnak, elvegyülhetnek a helyi közösséggel, vagy sétálhatnak a part mentén. Ha visz magával néhány harapnivalót és vizet, egyszerűen az egész délutánt itt töltheti.", "category": "recreational", "coords": [-15.47176, 11.555571]}, {"name": "Monumento aos Aviadores Italianos", "text": "A Monumento aos Aviadores Italianos egy emlékmű Bolamában.", "category": "historical", "coords": [-15.47227, 11.57931]}, {"name": "Banco Nacional Ultramarino / Hotel de Turismo", "text": "A Banco Nacional Ultramarino figyelemre méltó romok Bolamában.", "category": "historical", "coords": [-15.475754, 11.577269]}, {"name": "Casa da família Nunes Correia", "text": "A Casa da família Nunes Correia egy romos épület Bolamában.", "category": "historical", "coords": [-15.475408, 11.578779]}, {"name": "Casa Pinto", "text": "A Casa Pinto egy történelmi rom Bolama városában.", "category": "historical", "coords": [-15.474123, 11.579737]}, {"name": "Ruinas de casa comercial", "text": "A Ruinas de casa comercial kereskedelmi romok Bolamában.", "category": "historical", "coords": [-15.473838, 11.578295]}, {"name": "Ruinas de pavilhão hospitalar - Internamento", "text": "Ezek a bolamai romok egykor kórházi pavilonként szolgáltak.", "category": "historical", "coords": [-15.477307, 11.576246]}, {"name": "Campo de aviação", "text": "A Campo de aviação egy régi repülőtér maradványai Bolamában.", "category": "historical", "coords": [-15.478815, 11.586367]}, {"name": "Casa da Guarda e Prisão", "text": "A Casa da Guarda e Prisão régi romok Bolamában.", "category": "historical", "coords": [-15.474041, 11.576683]}], "ro": [{"name": "Praia de Ofir", "text": "Praia de Ofir împodobește orașul Bolama din Guineea-Bissau cu un peisaj de coastă atrăgător. Recunoscută ca o plajă populară în cadrul orașului, ea poartă un farmec local energic, dar relaxant. Pasionații de plajă se pot aștepta să își petreacă timpul făcând plajă, interacționând cu comunitatea locală sau plimbându-se aproape de țărm. Aducerea câtorva gustări și a apei face ca șederea pe parcursul întregii după-amiezi să fie foarte simplă.", "category": "recreational", "coords": [-15.47176, 11.555571]}, {"name": "Monumento aos Aviadores Italianos", "text": "Monumento aos Aviadores Italianos este un monument din Bolama.", "category": "historical", "coords": [-15.47227, 11.57931]}, {"name": "Banco Nacional Ultramarino / Hotel de Turismo", "text": "Banco Nacional Ultramarino reprezintă ruine demne de vizitat în Bolama.", "category": "historical", "coords": [-15.475754, 11.577269]}, {"name": "Casa da família Nunes Correia", "text": "Casa da família Nunes Correia este o clădire în ruină din Bolama.", "category": "historical", "coords": [-15.475408, 11.578779]}, {"name": "Casa Pinto", "text": "Casa Pinto este o ruină istorică din orașul Bolama.", "category": "historical", "coords": [-15.474123, 11.579737]}, {"name": "Ruinas de casa comercial", "text": "Ruinas de casa comercial sunt ruine comerciale din Bolama.", "category": "historical", "coords": [-15.473838, 11.578295]}, {"name": "Ruinas de pavilhão hospitalar - Internamento", "text": "Aceste ruine din Bolama au fost odată un pavilion de spital.", "category": "historical", "coords": [-15.477307, 11.576246]}, {"name": "Campo de aviação", "text": "Campo de aviação reprezintă rămășițele unui vechi aerodrom din Bolama.", "category": "historical", "coords": [-15.478815, 11.586367]}, {"name": "Casa da Guarda e Prisão", "text": "Casa da Guarda e Prisão sunt ruine vechi din Bolama.", "category": "historical", "coords": [-15.474041, 11.576683]}], "en": [{"name": "Praia de Ofir", "text": "Praia de Ofir graces the town of Bolama in Guinea-Bissau with an appealing coastal landscape. Recognized as a popular beach within the city, it carries an energetic yet easygoing local charm. Beachgoers can expect to spend their time sunbathing, mingling with the local community, or walking near the shoreline. Bringing a few snacks and water makes it simple to stay the whole afternoon.", "category": "recreational", "coords": [-15.47176, 11.555571]}, {"name": "Monumento aos Aviadores Italianos", "text": "Monumento aos Aviadores Italianos is a monument in Bolama.", "category": "historical", "coords": [-15.47227, 11.57931]}, {"name": "Banco Nacional Ultramarino / Hotel de Turismo", "text": "The Banco Nacional Ultramarino are noteworthy ruins in Bolama.", "category": "historical", "coords": [-15.475754, 11.577269]}, {"name": "Casa da família Nunes Correia", "text": "Casa da família Nunes Correia is a ruined building in Bolama.", "category": "historical", "coords": [-15.475408, 11.578779]}, {"name": "Casa Pinto", "text": "Casa Pinto is a historic ruin in the city of Bolama.", "category": "historical", "coords": [-15.474123, 11.579737]}, {"name": "Ruinas de casa comercial", "text": "Ruinas de casa comercial are commercial ruins in Bolama.", "category": "historical", "coords": [-15.473838, 11.578295]}, {"name": "Ruinas de pavilhão hospitalar - Internamento", "text": "These ruins in Bolama were once a hospital pavilion.", "category": "historical", "coords": [-15.477307, 11.576246]}, {"name": "Campo de aviação", "text": "Campo de aviação are the remains of an old airfield in Bolama.", "category": "historical", "coords": [-15.478815, 11.586367]}, {"name": "Casa da Guarda e Prisão", "text": "Casa da Guarda e Prisão are old ruins in Bolama.", "category": "historical", "coords": [-15.474041, 11.576683]}]},
+    id: "bolama-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Ofir",
+                  "text": "Praia de Ofir bereichert die Stadt Bolama in Guinea-Bissau mit einer reizvollen Küstenlandschaft. Als beliebter Strand innerhalb der Stadt versprüht er einen lebhaften, aber dennoch lockeren lokalen Charme. Strandbesucher können ihre Zeit mit Sonnenbaden verbringen, sich unter die lokale Gemeinschaft mischen oder am Ufer spazieren gehen. Wer Snacks und etwas Wasser mitnimmt, kann hier problemlos den ganzen Nachmittag verweilen.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.47176,
+                        11.555571
+                  ]
+            },
+            {
+                  "name": "Monumento aos Aviadores Italianos",
+                  "text": "Denkmal für italienische Flieger in Bolama, Guinea-Bissau.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47227,
+                        11.57931
+                  ]
+            },
+            {
+                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
+                  "text": "Historisches Gebäude mit der Banco Nacional Ultramarino und einem Hotel in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475754,
+                        11.577269
+                  ]
+            },
+            {
+                  "name": "Casa da família Nunes Correia",
+                  "text": "Ein Kolonialfamilienhaus in Bolama, der ehemaligen Hauptstadt Portugiesisch-Guineas.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475408,
+                        11.578779
+                  ]
+            },
+            {
+                  "name": "Casa Pinto",
+                  "text": "Ein historisches Kolonialhaus in Bolama, einst Hauptstadt Portugiesisch-Guineas.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474123,
+                        11.579737
+                  ]
+            },
+            {
+                  "name": "Ruinas de casa comercial",
+                  "text": "Ruinen eines kolonialen Geschäftsgebäudes in Bolama, einst ein Handelszentrum.",
+                  "category": "historical",
+                  "coords": [
+                        -15.473838,
+                        11.578295
+                  ]
+            },
+            {
+                  "name": "Ruinas de pavilhão hospitalar - Internamento",
+                  "text": "Ruinen eines kolonialen Krankenhauspavillons für stationäre Patienten in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.477307,
+                        11.576246
+                  ]
+            },
+            {
+                  "name": "Campo de aviação",
+                  "text": "Campo de aviação sind die Überreste eines alten Flugfeldes in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.478815,
+                        11.586367
+                  ]
+            },
+            {
+                  "name": "Casa da Guarda e Prisão",
+                  "text": "Das ehemalige Wachhaus und Gefängnisgebäude in Bolama, Teil der kolonialen Verwaltung.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474041,
+                        11.576683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Ofir",
+                  "text": "A Praia de Ofir vonzó partvidéki tájjal ékesíti Bissau-Guinea Bolama városát. A városon belüli népszerű strandként elismert helyszín energikus, mégis laza helyi bájjal rendelkezik. A strandolók napozhatnak, elvegyülhetnek a helyi közösséggel, vagy sétálhatnak a part mentén. Ha visz magával néhány harapnivalót és vizet, egyszerűen az egész délutánt itt töltheti.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.47176,
+                        11.555571
+                  ]
+            },
+            {
+                  "name": "Monumento aos Aviadores Italianos",
+                  "text": "Olasz repülők emlékműve Bolamában, Bissau-Guineában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47227,
+                        11.57931
+                  ]
+            },
+            {
+                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
+                  "text": "Történelmi épület, amely a Banco Nacional Ultramarino-nak és egy szállodának ad otthont Bolamában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475754,
+                        11.577269
+                  ]
+            },
+            {
+                  "name": "Casa da família Nunes Correia",
+                  "text": "Gyarmati kori családi ház Bolamában, Portugál Guinea egykori fővárosában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475408,
+                        11.578779
+                  ]
+            },
+            {
+                  "name": "Casa Pinto",
+                  "text": "Egy történelmi gyarmati ház Bolamában, egykor Portugál Guinea fővárosa.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474123,
+                        11.579737
+                  ]
+            },
+            {
+                  "name": "Ruinas de casa comercial",
+                  "text": "Egy gyarmati kereskedelmi épület romjai Bolamában, egykor kereskedelmi központ.",
+                  "category": "historical",
+                  "coords": [
+                        -15.473838,
+                        11.578295
+                  ]
+            },
+            {
+                  "name": "Ruinas de pavilhão hospitalar - Internamento",
+                  "text": "Egy gyarmati kórházi pavilon romjai fekvőbetegek számára Bolamában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.477307,
+                        11.576246
+                  ]
+            },
+            {
+                  "name": "Campo de aviação",
+                  "text": "A Campo de aviação egy régi repülőtér maradványai Bolamában.",
+                  "category": "historical",
+                  "coords": [
+                        -15.478815,
+                        11.586367
+                  ]
+            },
+            {
+                  "name": "Casa da Guarda e Prisão",
+                  "text": "Az egykori őrház és börtön épülete Bolamában, a gyarmati közigazgatás része.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474041,
+                        11.576683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Ofir",
+                  "text": "Praia de Ofir împodobește orașul Bolama din Guineea-Bissau cu un peisaj de coastă atrăgător. Recunoscută ca o plajă populară în cadrul orașului, ea poartă un farmec local energic, dar relaxant. Pasionații de plajă se pot aștepta să își petreacă timpul făcând plajă, interacționând cu comunitatea locală sau plimbându-se aproape de țărm. Aducerea câtorva gustări și a apei face ca șederea pe parcursul întregii după-amiezi să fie foarte simplă.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.47176,
+                        11.555571
+                  ]
+            },
+            {
+                  "name": "Monumento aos Aviadores Italianos",
+                  "text": "Monumentul aviatorilor italieni din Bolama, Guineea-Bissau.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47227,
+                        11.57931
+                  ]
+            },
+            {
+                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
+                  "text": "Clădire istorică care adăpostește Banco Nacional Ultramarino și un hotel în Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475754,
+                        11.577269
+                  ]
+            },
+            {
+                  "name": "Casa da família Nunes Correia",
+                  "text": "O casă de familie din epoca colonială în Bolama, fosta capitală a Guineei Portugheze.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475408,
+                        11.578779
+                  ]
+            },
+            {
+                  "name": "Casa Pinto",
+                  "text": "O casă colonială istorică în Bolama, odată capitala Guineei Portugheze.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474123,
+                        11.579737
+                  ]
+            },
+            {
+                  "name": "Ruinas de casa comercial",
+                  "text": "Ruinele unei clădiri comerciale coloniale în Bolama, odată centru comercial.",
+                  "category": "historical",
+                  "coords": [
+                        -15.473838,
+                        11.578295
+                  ]
+            },
+            {
+                  "name": "Ruinas de pavilhão hospitalar - Internamento",
+                  "text": "Ruinele unui pavilion spitalicesc colonial pentru pacienți internați în Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.477307,
+                        11.576246
+                  ]
+            },
+            {
+                  "name": "Campo de aviação",
+                  "text": "Campo de aviação reprezintă rămășițele unui vechi aerodrom din Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.478815,
+                        11.586367
+                  ]
+            },
+            {
+                  "name": "Casa da Guarda e Prisão",
+                  "text": "Fosta clădire de pază și închisoare din Bolama, parte a administrației coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474041,
+                        11.576683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Ofir",
+                  "text": "Praia de Ofir graces the town of Bolama in Guinea-Bissau with an appealing coastal landscape. Recognized as a popular beach within the city, it carries an energetic yet easygoing local charm. Beachgoers can expect to spend their time sunbathing, mingling with the local community, or walking near the shoreline. Bringing a few snacks and water makes it simple to stay the whole afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.47176,
+                        11.555571
+                  ]
+            },
+            {
+                  "name": "Monumento aos Aviadores Italianos",
+                  "text": "Monument to Italian aviators in Bolama, Guinea-Bissau.",
+                  "category": "historical",
+                  "coords": [
+                        -15.47227,
+                        11.57931
+                  ]
+            },
+            {
+                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
+                  "text": "Historic building housing the Banco Nacional Ultramarino and a hotel in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475754,
+                        11.577269
+                  ]
+            },
+            {
+                  "name": "Casa da família Nunes Correia",
+                  "text": "A colonial-era family home in Bolama, former capital of Portuguese Guinea.",
+                  "category": "historical",
+                  "coords": [
+                        -15.475408,
+                        11.578779
+                  ]
+            },
+            {
+                  "name": "Casa Pinto",
+                  "text": "A historic colonial house in Bolama, once the capital of Portuguese Guinea.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474123,
+                        11.579737
+                  ]
+            },
+            {
+                  "name": "Ruinas de casa comercial",
+                  "text": "Ruins of a colonial commercial building in Bolama, once a trading centre.",
+                  "category": "historical",
+                  "coords": [
+                        -15.473838,
+                        11.578295
+                  ]
+            },
+            {
+                  "name": "Ruinas de pavilhão hospitalar - Internamento",
+                  "text": "Ruins of a colonial hospital pavilion for inpatients in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.477307,
+                        11.576246
+                  ]
+            },
+            {
+                  "name": "Campo de aviação",
+                  "text": "Campo de aviação are the remains of an old airfield in Bolama.",
+                  "category": "historical",
+                  "coords": [
+                        -15.478815,
+                        11.586367
+                  ]
+            },
+            {
+                  "name": "Casa da Guarda e Prisão",
+                  "text": "The former guardhouse and prison building in Bolama, part of the colonial administration.",
+                  "category": "historical",
+                  "coords": [
+                        -15.474041,
+                        11.576683
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GW-BL",
     coords: [-15.48, 11.58],

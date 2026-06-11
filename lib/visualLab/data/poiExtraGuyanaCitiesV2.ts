@@ -756,7 +756,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "de": [
             {
                   "name": "Linden drive",
-                  "text": "Linden drive ist eine bekannte Sehenswürdigkeit in Lusignan.",
+                  "text": "Eine von Linden gesäumte Allee in Lusignan, Guyana.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -765,7 +765,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Golden Heart Care Centre ist ein Zentrum in Lusignan.",
+                  "text": "Ein 24-Stunden-Pflegezentrum für Senioren und Behinderte in Lusignan.",
                   "category": "cultural",
                   "coords": [
                         -57.999148,
@@ -776,7 +776,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "hu": [
             {
                   "name": "Linden drive",
-                  "text": "A Linden drive egy ismert látnivaló Lusignanban.",
+                  "text": "Egy hársfákkal szegélyezett út Lusignanban, Guyanában.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -785,7 +785,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Golden Heart Day and Night Care Centre",
-                  "text": "A Golden Heart Care Centre egy központ Lusignanban.",
+                  "text": "Egy 24 órás gondozási központ idősek és fogyatékossággal élők számára Lusignanban.",
                   "category": "cultural",
                   "coords": [
                         -57.999148,
@@ -796,7 +796,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "ro": [
             {
                   "name": "Linden drive",
-                  "text": "Linden drive este o atracție cunoscută din Lusignan.",
+                  "text": "O alee mărginită de tei în Lusignan, Guyana.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -805,7 +805,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Golden Heart Care Centre este un centru din Lusignan.",
+                  "text": "Un centru de îngrijire 24 de ore pentru vârstnici și persoane cu handicap în Lusignan.",
                   "category": "cultural",
                   "coords": [
                         -57.999148,
@@ -816,7 +816,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "en": [
             {
                   "name": "Linden drive",
-                  "text": "Linden drive is a well-known attraction in Lusignan.",
+                  "text": "A tree-lined drive named after the linden tree in Lusignan, Guyana.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -825,7 +825,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Golden Heart Care Centre is a centre in Lusignan.",
+                  "text": "A 24-hour care centre for the elderly and disabled in Lusignan.",
                   "category": "cultural",
                   "coords": [
                         -57.999148,
@@ -884,7 +884,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "de": [
             {
                   "name": "Linden drive",
-                  "text": "Linden drive ist eine Sehenswürdigkeit in Buxton.",
+                  "text": "Eine von Linden gesäumte Allee in Buxton, Guyana.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -895,7 +895,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "hu": [
             {
                   "name": "Linden drive",
-                  "text": "A Linden drive egy látványosság Buxton városában.",
+                  "text": "Egy hársfákkal szegélyezett út Buxtonban, Guyanában.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -906,7 +906,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "ro": [
             {
                   "name": "Linden drive",
-                  "text": "Linden drive este o atracție din Buxton.",
+                  "text": "O alee mărginită de tei în Buxton, Guyana.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -917,7 +917,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "en": [
             {
                   "name": "Linden drive",
-                  "text": "Linden drive is an attraction found in Buxton.",
+                  "text": "A tree-lined drive named after the linden tree in Buxton, Guyana.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -1070,7 +1070,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "de": [
             {
                   "name": "Nootenzuil (Belfield) Sluice",
-                  "text": "Nootenzuil (Belfield) Sluice bietet einen Aussichtspunkt in Haslington.",
+                  "text": "Ein Schleusentor bei Nootenzuil in Haslington, Teil des Belfield-Wassermanagementsystems.",
                   "category": "natural",
                   "coords": [
                         -57.961752,
@@ -1079,7 +1079,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Start",
-                  "text": "Start ist ein Aussichtspunkt in Haslington.",
+                  "text": "Eine natürliche Markierung, die den Beginn eines Baches oder Weges in Haslington anzeigt.",
                   "category": "natural",
                   "coords": [
                         -57.968687,
@@ -1088,7 +1088,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "End",
-                  "text": "End ist ein Aussichtspunkt in Haslington.",
+                  "text": "Eine natürliche Markierung, die das Ende eines Baches oder Weges in Haslington anzeigt.",
                   "category": "natural",
                   "coords": [
                         -57.960562,
@@ -1097,7 +1097,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Start new",
-                  "text": "Start new ist ein Aussichtspunkt in Haslington.",
+                  "text": "Eine zweite natürliche Startmarkierung für einen anderen Wasserlauf oder Weg in Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.959835,
@@ -1106,7 +1106,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "End 2",
-                  "text": "End 2 dient als Aussichtspunkt in Haslington.",
+                  "text": "Eine zweite natürliche Endmarkierung in Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.969611,
@@ -1115,7 +1115,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Eric",
-                  "text": "Eric ist ein Aussichtspunkt in der Stadt Haslington.",
+                  "text": "Eine nach Eric benannte natürliche Quelle oder Wasserstelle in Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.943767,
@@ -1126,7 +1126,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "hu": [
             {
                   "name": "Nootenzuil (Belfield) Sluice",
-                  "text": "A Nootenzuil (Belfield) Sluice egy kilátópont Haslington városában.",
+                  "text": "Egy zsilipkapu Nootenzuilnál Haslingtonban, a Belfield vízgazdálkodási rendszer része.",
                   "category": "natural",
                   "coords": [
                         -57.961752,
@@ -1135,7 +1135,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Start",
-                  "text": "A Start egy kilátópont Haslingtonban.",
+                  "text": "Egy természetes jelölés, amely egy patak vagy ösvény kezdetét jelzi Haslingtonban.",
                   "category": "natural",
                   "coords": [
                         -57.968687,
@@ -1144,7 +1144,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "End",
-                  "text": "Az End egy kilátópont Haslington területén.",
+                  "text": "Egy természetes jelölés, amely egy patak vagy ösvény végét jelzi Haslingtonban.",
                   "category": "natural",
                   "coords": [
                         -57.960562,
@@ -1153,7 +1153,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Start new",
-                  "text": "A Start new egy kilátópont Haslingtonban.",
+                  "text": "Egy második természetes startjelölés egy másik vízfolyáshoz vagy ösvényhez Haslingtonban.",
                   "category": "natural",
                   "coords": [
                         -57.959835,
@@ -1162,7 +1162,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "End 2",
-                  "text": "Az End 2 egy kilátópont Haslington városában.",
+                  "text": "Egy második természetes végjelölés Haslingtonban.",
                   "category": "natural",
                   "coords": [
                         -57.969611,
@@ -1171,7 +1171,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Eric",
-                  "text": "Az Eric egy kilátópont Haslington városában.",
+                  "text": "Egy Eric nevű természetes forrás vagy vízi jelenség Haslingtonban.",
                   "category": "natural",
                   "coords": [
                         -57.943767,
@@ -1182,7 +1182,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "ro": [
             {
                   "name": "Nootenzuil (Belfield) Sluice",
-                  "text": "Nootenzuil (Belfield) Sluice oferă un punct de belvedere în Haslington.",
+                  "text": "O poartă de ecluză la Nootenzuil în Haslington, parte a sistemului de gestionare a apei Belfield.",
                   "category": "natural",
                   "coords": [
                         -57.961752,
@@ -1191,7 +1191,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Start",
-                  "text": "Start este un punct de belvedere situat în Haslington.",
+                  "text": "Un reper natural care indică începutul unui pârâu sau traseu în Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.968687,
@@ -1200,7 +1200,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "End",
-                  "text": "End este un punct de belvedere din Haslington.",
+                  "text": "Un reper natural care indică sfârșitul unui pârâu sau traseu în Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.960562,
@@ -1209,7 +1209,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Start new",
-                  "text": "Start new este un punct de belvedere în Haslington.",
+                  "text": "Un al doilea reper natural de start pentru un alt curs de apă sau traseu în Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.959835,
@@ -1218,7 +1218,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "End 2",
-                  "text": "End 2 servește drept punct de belvedere în Haslington.",
+                  "text": "Un al doilea reper natural de final în Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.969611,
@@ -1227,7 +1227,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Eric",
-                  "text": "Eric este un punct de belvedere situat în orașul Haslington.",
+                  "text": "Un izvor sau element natural de apă numit Eric în Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.943767,
@@ -1238,7 +1238,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "en": [
             {
                   "name": "Nootenzuil (Belfield) Sluice",
-                  "text": "Nootenzuil (Belfield) Sluice offers a viewpoint in Haslington.",
+                  "text": "A sluice gate at Nootenzuil in Haslington, part of the Belfield water management system.",
                   "category": "natural",
                   "coords": [
                         -57.961752,
@@ -1247,7 +1247,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Start",
-                  "text": "Start is a viewpoint situated in Haslington.",
+                  "text": "A natural marker indicating the start of a creek or trail in Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.968687,
@@ -1256,7 +1256,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "End",
-                  "text": "End is a viewpoint located in Haslington.",
+                  "text": "A natural marker indicating the endpoint of a creek or trail in Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.960562,
@@ -1265,7 +1265,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Start new",
-                  "text": "Start new is a scenic viewpoint in Haslington.",
+                  "text": "A second natural start marker for a different waterway or trail in Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.959835,
@@ -1274,7 +1274,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "End 2",
-                  "text": "End 2 serves as a viewpoint in Haslington.",
+                  "text": "A second natural endpoint marker in Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.969611,
@@ -1283,7 +1283,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Eric",
-                  "text": "Eric is a viewpoint situated in the city of Haslington.",
+                  "text": "A named natural spring or water feature called Eric in Haslington.",
                   "category": "natural",
                   "coords": [
                         -57.943767,
@@ -1389,7 +1389,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "de": [
             {
                   "name": "Navo",
-                  "text": "Navo ist ein markantes Denkmal in der Stadt Triumph.",
+                  "text": "Eine historische Plantage oder Siedlungsstätte in Navo bei Triumph, Guyana.",
                   "category": "historical",
                   "coords": [
                         -58.017528,
@@ -1398,7 +1398,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Linden drive",
-                  "text": "Linden drive ist eine beliebte Sehenswürdigkeit in Triumph.",
+                  "text": "Eine von Linden gesäumte Allee in Triumph, Guyana.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -1407,7 +1407,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Golden Heart Care Centre ist ein Zentrum in Triumph.",
+                  "text": "Ein 24-Stunden-Pflegezentrum für Senioren und Behinderte in Triumph.",
                   "category": "cultural",
                   "coords": [
                         -57.999148,
@@ -1418,7 +1418,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "hu": [
             {
                   "name": "Navo",
-                  "text": "A Navo egy feltűnő emlékmű Triumph városában.",
+                  "text": "Egy történelmi ültetvény vagy településhely Navóban, Triumph közelében, Guyanában.",
                   "category": "historical",
                   "coords": [
                         -58.017528,
@@ -1427,7 +1427,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Linden drive",
-                  "text": "A Linden drive egy népszerű látnivaló Triumphban.",
+                  "text": "Egy hársfákkal szegélyezett út Triumphban, Guyanában.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -1436,7 +1436,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Golden Heart Day and Night Care Centre",
-                  "text": "A Golden Heart Care Centre egy központ Triumphban.",
+                  "text": "Egy 24 órás gondozási központ idősek és fogyatékossággal élők számára Triumphban.",
                   "category": "cultural",
                   "coords": [
                         -57.999148,
@@ -1447,7 +1447,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "ro": [
             {
                   "name": "Navo",
-                  "text": "Navo este un monument distinctiv din orașul Triumph.",
+                  "text": "Un sit istoric de plantație sau așezare la Navo în Triumph, Guyana.",
                   "category": "historical",
                   "coords": [
                         -58.017528,
@@ -1456,7 +1456,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Linden drive",
-                  "text": "Linden drive este o atracție populară din Triumph.",
+                  "text": "O alee mărginită de tei în Triumph, Guyana.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -1465,7 +1465,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Golden Heart Care Centre este un centru din Triumph.",
+                  "text": "Un centru de îngrijire 24 de ore pentru vârstnici și persoane cu handicap în Triumph.",
                   "category": "cultural",
                   "coords": [
                         -57.999148,
@@ -1476,7 +1476,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "en": [
             {
                   "name": "Navo",
-                  "text": "Navo is a distinctive monument in the city of Triumph.",
+                  "text": "A historical plantation or settlement site at Navo in Triumph, Guyana.",
                   "category": "historical",
                   "coords": [
                         -58.017528,
@@ -1485,7 +1485,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Linden drive",
-                  "text": "Linden drive is a popular attraction in Triumph.",
+                  "text": "A tree-lined drive named after the linden tree in Triumph, Guyana.",
                   "category": "landmark",
                   "coords": [
                         -58.005943,
@@ -1494,7 +1494,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Golden Heart Care Centre is a centre in Triumph.",
+                  "text": "A 24-hour care centre for the elderly and disabled in Triumph.",
                   "category": "cultural",
                   "coords": [
                         -57.999148,
@@ -1600,7 +1600,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "de": [
             {
                   "name": "Navo",
-                  "text": "Navo ist ein Denkmal in Beterverwagting.",
+                  "text": "Eine historische Plantage oder Siedlungsstätte in Navo bei Beterverwagting, Guyana.",
                   "category": "historical",
                   "coords": [
                         -58.017528,
@@ -1611,7 +1611,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "hu": [
             {
                   "name": "Navo",
-                  "text": "A Navo egy emlékmű Beterverwagtingban.",
+                  "text": "Egy történelmi ültetvény vagy településhely Navóban, Beterverwagting közelében, Guyanában.",
                   "category": "historical",
                   "coords": [
                         -58.017528,
@@ -1622,7 +1622,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "ro": [
             {
                   "name": "Navo",
-                  "text": "Navo este un monument situat în Beterverwagting.",
+                  "text": "Un sit istoric de plantație sau așezare la Navo în Beterverwagting, Guyana.",
                   "category": "historical",
                   "coords": [
                         -58.017528,
@@ -1633,7 +1633,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "en": [
             {
                   "name": "Navo",
-                  "text": "Navo is a monument located in Beterverwagting.",
+                  "text": "A historical plantation or settlement site at Navo in Beterverwagting, Guyana.",
                   "category": "historical",
                   "coords": [
                         -58.017528,
@@ -1739,7 +1739,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "de": [
             {
                   "name": "Fort St. Andries",
-                  "text": "Fort St. Andries ist eine Ruinenstätte in Rosignol.",
+                  "text": "Ein historisches niederländisches Fort am Berbice-Fluss, erbaut im 18. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         -57.512386,
@@ -1748,7 +1748,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "The Six Cannons Military monument",
-                  "text": "Das The Six Cannons Military monument ist ein Denkmal in Rosignol.",
+                  "text": "Ein Militärdenkmal mit sechs Kanonen in Rosignol, Guyana.",
                   "category": "historical",
                   "coords": [
                         -57.519143,
@@ -1757,7 +1757,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Berbice Bridge",
-                  "text": "Berbice Bridge ist eine Brücke in Rosignol.",
+                  "text": "Eine schwimmende Pontonbrücke über den Berbice-Fluss zwischen Rosignol und New Amsterdam.",
                   "category": "landmark",
                   "coords": [
                         -57.528003,
@@ -1768,7 +1768,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "hu": [
             {
                   "name": "Fort St. Andries",
-                  "text": "A Fort St. Andries egy romterület Rosignol városában.",
+                  "text": "Egy történelmi holland erőd a Berbice folyón, a 18. században épült.",
                   "category": "historical",
                   "coords": [
                         -57.512386,
@@ -1777,7 +1777,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "The Six Cannons Military monument",
-                  "text": "A The Six Cannons Military monument egy emlékmű Rosignolban.",
+                  "text": "Egy hat ágyút tartalmazó katonai emlékmű Rosignolban, Guyanában.",
                   "category": "historical",
                   "coords": [
                         -57.519143,
@@ -1786,7 +1786,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Berbice Bridge",
-                  "text": "A Berbice Bridge egy híd Rosignol városában.",
+                  "text": "Egy úszó pontonhíd a Berbice folyón Rosignol és New Amsterdam között.",
                   "category": "landmark",
                   "coords": [
                         -57.528003,
@@ -1797,7 +1797,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "ro": [
             {
                   "name": "Fort St. Andries",
-                  "text": "Fort St. Andries este un sit cu ruine situat în Rosignol.",
+                  "text": "Un fort olandez istoric pe râul Berbice, construit în secolul al XVIII-lea.",
                   "category": "historical",
                   "coords": [
                         -57.512386,
@@ -1806,7 +1806,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "The Six Cannons Military monument",
-                  "text": "The Six Cannons Military monument este un monument situat în Rosignol.",
+                  "text": "Un monument militar cu șase tunuri în Rosignol, Guyana.",
                   "category": "historical",
                   "coords": [
                         -57.519143,
@@ -1815,7 +1815,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Berbice Bridge",
-                  "text": "Berbice Bridge este un pod situat în Rosignol.",
+                  "text": "Un pod plutitor de pontoane peste râul Berbice între Rosignol și New Amsterdam.",
                   "category": "landmark",
                   "coords": [
                         -57.528003,
@@ -1826,7 +1826,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "en": [
             {
                   "name": "Fort St. Andries",
-                  "text": "Fort St. Andries is a site of ruins located in Rosignol.",
+                  "text": "A historic Dutch fort on the Berbice River built in the 18th century.",
                   "category": "historical",
                   "coords": [
                         -57.512386,
@@ -1835,7 +1835,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "The Six Cannons Military monument",
-                  "text": "The Six Cannons Military monument is a monument located in Rosignol.",
+                  "text": "A military monument featuring six cannons in Rosignol, Guyana.",
                   "category": "historical",
                   "coords": [
                         -57.519143,
@@ -1844,7 +1844,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Berbice Bridge",
-                  "text": "Berbice Bridge is a bridge situated in Rosignol.",
+                  "text": "A floating pontoon bridge crossing the Berbice River between Rosignol and New Amsterdam.",
                   "category": "landmark",
                   "coords": [
                         -57.528003,
@@ -3595,7 +3595,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "de": [
             {
                   "name": "The Ridge",
-                  "text": "The Ridge bietet einen schönen Aussichtspunkt in Annai.",
+                  "text": "Ein natürlicher Höhenzug mit Blick auf die Annai-Savanne in der Rupununi-Region.",
                   "category": "natural",
                   "coords": [
                         -59.133404,
@@ -3604,7 +3604,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Rupertee spring creek",
-                  "text": "Rupertee spring creek ist ein naturnaher Aussichtspunkt in Annai.",
+                  "text": "Ein von einer Quelle gespeister Bach namens Rupertee in der Annai-Region von Guyana.",
                   "category": "natural",
                   "coords": [
                         -59.126586,
@@ -3613,7 +3613,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Itch pond annai",
-                  "text": "Itch pond annai ist ein friedlicher Aussichtspunkt in Annai.",
+                  "text": "Ein als Itch Pond bekannter Teich in Annai, eine lokale Wasserstelle.",
                   "category": "natural",
                   "coords": [
                         -59.129652,
@@ -3622,7 +3622,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Rupertee well Pond",
-                  "text": "Rupertee well Pond ist ein natürlicher Aussichtspunkt in Annai.",
+                  "text": "Ein nach Rupertee benannter Brunnenteich in Annai, zur Wasserversorgung genutzt.",
                   "category": "natural",
                   "coords": [
                         -59.122741,
@@ -3633,7 +3633,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "hu": [
             {
                   "name": "The Ridge",
-                  "text": "A The Ridge egy szép kilátópont Annai városában.",
+                  "text": "Egy természetes gerinc, amely a Annai szavannára néz a Rupununi régióban.",
                   "category": "natural",
                   "coords": [
                         -59.133404,
@@ -3642,7 +3642,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Rupertee spring creek",
-                  "text": "A Rupertee spring creek egy természetközeli kilátópont Annai-ban.",
+                  "text": "Egy Rupertee nevű forrás-patak az annai területen, Guyanában.",
                   "category": "natural",
                   "coords": [
                         -59.126586,
@@ -3651,7 +3651,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Itch pond annai",
-                  "text": "Az Itch pond annai egy békés kilátópont Annai-ban.",
+                  "text": "Egy Itch Pond néven ismert tó Annai-ban, helyi itatóhely.",
                   "category": "natural",
                   "coords": [
                         -59.129652,
@@ -3660,7 +3660,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Rupertee well Pond",
-                  "text": "A Rupertee well Pond egy természeti kilátópont Annai-ban.",
+                  "text": "Egy Rupertee nevű kúttó Annai-ban, vízellátásra használják.",
                   "category": "natural",
                   "coords": [
                         -59.122741,
@@ -3671,7 +3671,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "ro": [
             {
                   "name": "The Ridge",
-                  "text": "The Ridge oferă un punct de observație frumos în Annai.",
+                  "text": "O creastă naturală care domină savana Annai în regiunea Rupununi.",
                   "category": "natural",
                   "coords": [
                         -59.133404,
@@ -3680,7 +3680,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Rupertee spring creek",
-                  "text": "Rupertee spring creek este un punct de observație natural din Annai.",
+                  "text": "Un pârâu alimentat de izvor numit Rupertee în zona Annai din Guyana.",
                   "category": "natural",
                   "coords": [
                         -59.126586,
@@ -3689,7 +3689,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Itch pond annai",
-                  "text": "Itch pond annai este un punct de observație liniștit din Annai.",
+                  "text": "Un iaz cunoscut sub numele de Itch Pond în Annai, o adăpătoare locală.",
                   "category": "natural",
                   "coords": [
                         -59.129652,
@@ -3698,7 +3698,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Rupertee well Pond",
-                  "text": "Rupertee well Pond este un punct de observație natural din Annai.",
+                  "text": "Un iaz de fântână numit Rupertee în Annai, folosit pentru alimentarea cu apă.",
                   "category": "natural",
                   "coords": [
                         -59.122741,
@@ -3709,7 +3709,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "en": [
             {
                   "name": "The Ridge",
-                  "text": "The Ridge offers a beautiful viewpoint in Annai.",
+                  "text": "A natural ridge overlooking the Annai savannah in the Rupununi region.",
                   "category": "natural",
                   "coords": [
                         -59.133404,
@@ -3718,7 +3718,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Rupertee spring creek",
-                  "text": "Rupertee spring creek is a scenic viewpoint in Annai.",
+                  "text": "A spring-fed creek named Rupertee in the Annai area of Guyana.",
                   "category": "natural",
                   "coords": [
                         -59.126586,
@@ -3727,7 +3727,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Itch pond annai",
-                  "text": "Itch pond annai is a peaceful viewpoint in Annai.",
+                  "text": "A pond known as Itch Pond in Annai, a local watering hole.",
                   "category": "natural",
                   "coords": [
                         -59.129652,
@@ -3736,7 +3736,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             },
             {
                   "name": "Rupertee well Pond",
-                  "text": "Rupertee well Pond is a natural viewpoint in Annai.",
+                  "text": "A well pond named Rupertee in Annai, used for water supply.",
                   "category": "natural",
                   "coords": [
                         -59.122741,
@@ -3795,7 +3795,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "de": [
             {
                   "name": "Turtle Savannah",
-                  "text": "Turtle Savannah ist ein Aussichtspunkt in Surama.",
+                  "text": "Ein Savannenökosystem in Surama, bekannt für seine Schildkrötenpopulation.",
                   "category": "natural",
                   "coords": [
                         -59.060309,
@@ -3806,7 +3806,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "hu": [
             {
                   "name": "Turtle Savannah",
-                  "text": "A Turtle Savannah egy kilátópont Surama területén.",
+                  "text": "Egy szavanna ökoszisztéma Suramában, amely teknős populációjáról ismert.",
                   "category": "natural",
                   "coords": [
                         -59.060309,
@@ -3817,7 +3817,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "ro": [
             {
                   "name": "Turtle Savannah",
-                  "text": "Turtle Savannah este un punct de belvedere aflat în Surama.",
+                  "text": "Un ecosistem de savană în Surama, cunoscut pentru populația sa de țestoase.",
                   "category": "natural",
                   "coords": [
                         -59.060309,
@@ -3828,7 +3828,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       "en": [
             {
                   "name": "Turtle Savannah",
-                  "text": "Turtle Savannah is a viewpoint found in Surama.",
+                  "text": "A savannah ecosystem in Surama known for its population of turtles.",
                   "category": "natural",
                   "coords": [
                         -59.060309,

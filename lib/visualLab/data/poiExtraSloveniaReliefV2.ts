@@ -7,7 +7,7 @@ export const sloveniaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Gozdni rezervat Vršič",
-                  "text": "Ein Waldreservat am Vršič-Pass in der Nähe der Škrlatica.",
+                  "text": "Waldreservat am Vršič-Pass, einer der höchsten Straßenpässe Sloweniens.",
                   "category": "natural",
                   "coords": [
                         13.853121,
@@ -61,7 +61,7 @@ export const sloveniaReliefV2: POI[] = [
             },
             {
                   "name": "Planja",
-                  "text": "Ein Hochgebirgsgipfel in den Julischen Alpen Sloweniens.",
+                  "text": "Ein Berg im Skrlatica-Massiv.",
                   "category": "landmark",
                   "coords": [
                         13.787427,
@@ -81,7 +81,7 @@ export const sloveniaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Gozdni rezervat Vršič",
-                  "text": "Erdei rezervátum a Vršič-hágónál, a Škrlatica közelében.",
+                  "text": "Erdőrezervátum a Vršič-hágón, Szlovénia egyik legmagasabb hegyi hágója.",
                   "category": "natural",
                   "coords": [
                         13.853121,
@@ -135,7 +135,7 @@ export const sloveniaReliefV2: POI[] = [
             },
             {
                   "name": "Planja",
-                  "text": "Magashegyi csúcs a szlovén Júliai-Alpokban.",
+                  "text": "Egy hegy a Skrlatica-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         13.787427,
@@ -155,7 +155,7 @@ export const sloveniaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Gozdni rezervat Vršič",
-                  "text": "O rezervație forestieră în pasul Vršič, lângă Škrlatica.",
+                  "text": "Rezervație forestieră la trecătoarea Vršič, una dintre cele mai înalte trecători din Slovenia.",
                   "category": "natural",
                   "coords": [
                         13.853121,
@@ -209,7 +209,7 @@ export const sloveniaReliefV2: POI[] = [
             },
             {
                   "name": "Planja",
-                  "text": "Un vârf montan înalt în Alpii Iulieni din Slovenia.",
+                  "text": "Un munte în masivul Skrlatica.",
                   "category": "landmark",
                   "coords": [
                         13.787427,
@@ -229,7 +229,7 @@ export const sloveniaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Gozdni rezervat Vršič",
-                  "text": "A forest reserve at the Vršič Pass near Škrlatica.",
+                  "text": "Forest reserve at Vršič Pass, one of Slovenia's highest mountain passes.",
                   "category": "natural",
                   "coords": [
                         13.853121,
@@ -283,7 +283,7 @@ export const sloveniaReliefV2: POI[] = [
             },
             {
                   "name": "Planja",
-                  "text": "A high mountain peak in the Julian Alps of Slovenia.",
+                  "text": "A mountain in the Skrlatica massif.",
                   "category": "landmark",
                   "coords": [
                         13.787427,
@@ -720,7 +720,7 @@ imageHint: "Mangart mountain peak and saddle",
             },
             {
                   "name": "Hohler Zahn",
-                  "text": "Ein schroffer Gipfel im Massiv der Julischen Alpen.",
+                  "text": "Felsgipfel in den Julischen Alpen nahe dem Berg Jalovec.",
                   "category": "landmark",
                   "coords": [
                         13.685826,
@@ -756,7 +756,7 @@ imageHint: "Mangart mountain peak and saddle",
             },
             {
                   "name": "Plešivec",
-                  "text": "Ein Berggipfel in den westlichen Julischen Alpen.",
+                  "text": "Ein Berg in der Jalovec-Kette.",
                   "category": "landmark",
                   "coords": [
                         13.660433,
@@ -794,7 +794,7 @@ imageHint: "Mangart mountain peak and saddle",
             },
             {
                   "name": "Veunza / Vevnica",
-                  "text": "Sziklás hegycsúcs a Júliai-Alpok vonulatában.",
+                  "text": "Sziklás csúcs a Julian-Alpokban, a Jalovec-hegy közelében.",
                   "category": "landmark",
                   "coords": [
                         13.685826,
@@ -830,7 +830,7 @@ imageHint: "Mangart mountain peak and saddle",
             },
             {
                   "name": "Plešivec",
-                  "text": "Hegycsúcs a Nyugati-Júliai-Alpokban.",
+                  "text": "Egy hegy a Jalovec-hegységben.",
                   "category": "landmark",
                   "coords": [
                         13.660433,
@@ -868,7 +868,7 @@ imageHint: "Mangart mountain peak and saddle",
             },
             {
                   "name": "Veunza / Vevnica",
-                  "text": "Un vârf stâncos din masivul Alpilor Julieni.",
+                  "text": "Vârf stâncos în Alpii Iulieni, aproape de muntele Jalovec.",
                   "category": "landmark",
                   "coords": [
                         13.685826,
@@ -904,7 +904,7 @@ imageHint: "Mangart mountain peak and saddle",
             },
             {
                   "name": "Plešivec",
-                  "text": "Un vârf montan din Alpii Julieni occidentali.",
+                  "text": "Un munte în lanțul Jalovec.",
                   "category": "landmark",
                   "coords": [
                         13.660433,
@@ -942,7 +942,7 @@ imageHint: "Mangart mountain peak and saddle",
             },
             {
                   "name": "Veunza / Vevnica",
-                  "text": "A rugged mountain peak in the Julian Alps range.",
+                  "text": "Rocky peak in the Julian Alps near Mount Jalovec.",
                   "category": "landmark",
                   "coords": [
                         13.685826,
@@ -978,7 +978,7 @@ imageHint: "Mangart mountain peak and saddle",
             },
             {
                   "name": "Plešivec",
-                  "text": "A mountain peak in the Western Julian Alps.",
+                  "text": "A mountain in the Jalovec range.",
                   "category": "landmark",
                   "coords": [
                         13.660433,
@@ -1063,7 +1063,7 @@ imageHint: "Jalovec mountain peak Slovenia",
             },
             {
                   "name": "Koroška Rinka",
-                  "text": "Ein Gipfel der Rinka-Gruppe in den Steiner Alpen.",
+                  "text": "Ein Gipfel in der Grintovec-Gruppe.",
                   "category": "landmark",
                   "coords": [
                         14.565127,
@@ -1137,7 +1137,7 @@ imageHint: "Jalovec mountain peak Slovenia",
             },
             {
                   "name": "Koroška Rinka",
-                  "text": "A Rinka-csoport egyik tagja a Kamniki-Alpokban.",
+                  "text": "Egy csúcs a Grintovec-csoportban.",
                   "category": "landmark",
                   "coords": [
                         14.565127,
@@ -1211,7 +1211,7 @@ imageHint: "Jalovec mountain peak Slovenia",
             },
             {
                   "name": "Koroška Rinka",
-                  "text": "Un vârf din grupul Rinka în Alpii Kamnici.",
+                  "text": "Un vârf în grupul Grintovec.",
                   "category": "landmark",
                   "coords": [
                         14.565127,
@@ -1285,7 +1285,7 @@ imageHint: "Jalovec mountain peak Slovenia",
             },
             {
                   "name": "Koroška Rinka",
-                  "text": "A peak of the Rinka group in the Kamnik–Savinja Alps.",
+                  "text": "A peak in the Grintovec group.",
                   "category": "landmark",
                   "coords": [
                         14.565127,
@@ -1497,7 +1497,7 @@ imageHint: "Stol mountain Karawanks",
             },
             {
                   "name": "Kopalno območje Ukanc",
-                  "text": "Ein Badebereich beim Berg Vogel.",
+                  "text": "Badeplatz am Ukanc-Ufer des Bohinjer Sees, mit Blick auf die Julischen Alpen.",
                   "category": "recreational",
                   "coords": [
                         13.836691,
@@ -1506,7 +1506,7 @@ imageHint: "Stol mountain Karawanks",
             },
             {
                   "name": "Kopalno območje Fužinski zaliv",
-                  "text": "Ein Badebereich beim Berg Vogel.",
+                  "text": "Strand in der Fužina-Bucht des Bohinjer Sees, bekannt für kristallklares Wasser.",
                   "category": "recreational",
                   "coords": [
                         13.881315,
@@ -1589,7 +1589,7 @@ imageHint: "Stol mountain Karawanks",
             },
             {
                   "name": "Kopalno območje Ukanc",
-                  "text": "Fürdőhely a Vogel-hegynél.",
+                  "text": "Fürdőhely a Bohinji-tó Ukanc partján, kilátással a Júliai-Alpokra.",
                   "category": "recreational",
                   "coords": [
                         13.836691,
@@ -1598,7 +1598,7 @@ imageHint: "Stol mountain Karawanks",
             },
             {
                   "name": "Kopalno območje Fužinski zaliv",
-                  "text": "Fürdőhely a Vogel-hegynél.",
+                  "text": "Strand a Bohinji-tó Fužina-öblében, kristálytiszta vizéről ismert.",
                   "category": "recreational",
                   "coords": [
                         13.881315,
@@ -1681,7 +1681,7 @@ imageHint: "Stol mountain Karawanks",
             },
             {
                   "name": "Kopalno območje Ukanc",
-                  "text": "O zonă de scăldat lângă muntele Vogel.",
+                  "text": "Loc de scăldat pe malul Ukanc al lacului Bohinj, cu vedere spre Alpii Iulieni.",
                   "category": "recreational",
                   "coords": [
                         13.836691,
@@ -1690,7 +1690,7 @@ imageHint: "Stol mountain Karawanks",
             },
             {
                   "name": "Kopalno območje Fužinski zaliv",
-                  "text": "O zonă de scăldat lângă muntele Vogel.",
+                  "text": "Plajă în golful Fužina al lacului Bohinj, cunoscută pentru apa cristalină.",
                   "category": "recreational",
                   "coords": [
                         13.881315,
@@ -1773,7 +1773,7 @@ imageHint: "Stol mountain Karawanks",
             },
             {
                   "name": "Bathing area Ukanc",
-                  "text": "A swimming area near Mount Vogel.",
+                  "text": "Bathing spot on the Ukanc shore of Lake Bohinj, with views of the Julian Alps.",
                   "category": "recreational",
                   "coords": [
                         13.836691,
@@ -1782,7 +1782,7 @@ imageHint: "Stol mountain Karawanks",
             },
             {
                   "name": "Bathing area Fužinski Bay",
-                  "text": "A swimming area near Mount Vogel.",
+                  "text": "Beach in Fužina Bay of Lake Bohinj, known for crystal-clear water.",
                   "category": "recreational",
                   "coords": [
                         13.881315,
@@ -1876,7 +1876,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Vrh nad Peski",
-                  "text": "Ein markanter Berggipfel in den Julischen Alpen bei Krn.",
+                  "text": "Ein Gipfel im Krn-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         13.677049,
@@ -1885,7 +1885,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Krnčica",
-                  "text": "Ein Berggipfel im Massiv des Krn in den Julischen Alpen.",
+                  "text": "Hoher Bergsattel im Krn-Gebirgszug der Julischen Alpen.",
                   "category": "landmark",
                   "coords": [
                         13.650868,
@@ -1894,7 +1894,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Oblo Brdo",
-                  "text": "Ein Gipfel in der Gebirgsgruppe des Krn in Slowenien.",
+                  "text": "Runder Hügelgipfel im Krn-Gebirge mit Panoramablick auf das Soča-Tal.",
                   "category": "landmark",
                   "coords": [
                         13.643905,
@@ -1950,7 +1950,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Vrh nad Peski",
-                  "text": "Jellegzetes hegycsúcs a Júliai-Alpokban, Krn közelében.",
+                  "text": "Egy csúcs a Krn-hegységben.",
                   "category": "landmark",
                   "coords": [
                         13.677049,
@@ -1959,7 +1959,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Krnčica",
-                  "text": "Hegycsúcs a Krn-masszívumban a Júliai-Alpokban.",
+                  "text": "Magas hegyi nyereg a Krn-hegységben, a Julian-Alpokban.",
                   "category": "landmark",
                   "coords": [
                         13.650868,
@@ -1968,7 +1968,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Oblo Brdo",
-                  "text": "Hegycsúcs a szlovéniai Krn-hegységben.",
+                  "text": "Kerek dombtető a Krn-hegységben, panorámás kilátással a Soča-völgyre.",
                   "category": "landmark",
                   "coords": [
                         13.643905,
@@ -2024,7 +2024,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Vrh nad Peski",
-                  "text": "Un vârf montan proeminent în Alpii Julieni, lângă Krn.",
+                  "text": "Un vârf în masivul Krn.",
                   "category": "landmark",
                   "coords": [
                         13.677049,
@@ -2033,7 +2033,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Krnčica",
-                  "text": "Un vârf muntos în masivul Krn din Alpii Julieni.",
+                  "text": "Șa montană înaltă în masivul Krn din Alpii Iulieni.",
                   "category": "landmark",
                   "coords": [
                         13.650868,
@@ -2042,7 +2042,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Oblo Brdo",
-                  "text": "Un vârf în grupul montan Krn din Slovenia.",
+                  "text": "Vârf rotunjit de deal în munții Krn, cu vedere panoramică asupra văii Soča.",
                   "category": "landmark",
                   "coords": [
                         13.643905,
@@ -2098,7 +2098,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Vrh nad Peski",
-                  "text": "A prominent mountain peak in the Julian Alps near Krn.",
+                  "text": "A summit in the Krn mountain range.",
                   "category": "landmark",
                   "coords": [
                         13.677049,
@@ -2107,7 +2107,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Krnčica",
-                  "text": "A mountain peak in the Krn massif in the Julian Alps.",
+                  "text": "High mountain saddle in the Krn range of the Julian Alps.",
                   "category": "landmark",
                   "coords": [
                         13.650868,
@@ -2116,7 +2116,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
             },
             {
                   "name": "Oblo Brdo",
-                  "text": "A peak in the Krn mountain group in Slovenia.",
+                  "text": "Rounded hill summit in the Krn mountains with panoramic views of the Soča Valley.",
                   "category": "landmark",
                   "coords": [
                         13.643905,
@@ -3016,7 +3016,7 @@ imageHint: "Slavnik mountain summit view",
             },
             {
                   "name": "Krnitza",
-                  "text": "Ein Berggipfel in der Alpenregion von Ojstrica.",
+                  "text": "Glazialer Kar unterhalb des Ojstrica-Gipfels in den Kamnik-Savinja-Alpen.",
                   "category": "landmark",
                   "coords": [
                         14.578568,
@@ -3090,7 +3090,7 @@ imageHint: "Slavnik mountain summit view",
             },
             {
                   "name": "Matkova krnica",
-                  "text": "Hegycsúcs Ojstrica alpesi régiójában.",
+                  "text": "Gleccserkár az Ojstrica-csúcs alatt a Kamnik-Savinja-Alpokban.",
                   "category": "landmark",
                   "coords": [
                         14.578568,
@@ -3164,7 +3164,7 @@ imageHint: "Slavnik mountain summit view",
             },
             {
                   "name": "Matkova krnica",
-                  "text": "Un vârf muntos în regiunea alpină Ojstrica.",
+                  "text": "Circ glaciar sub vârful Ojstrica în Alpii Kamnik-Savinja.",
                   "category": "landmark",
                   "coords": [
                         14.578568,
@@ -3238,7 +3238,7 @@ imageHint: "Slavnik mountain summit view",
             },
             {
                   "name": "Matkova krnica",
-                  "text": "A peak in the Alpine region of Ojstrica.",
+                  "text": "Glacial cirque beneath the Ojstrica peak in the Kamnik-Savinja Alps.",
                   "category": "landmark",
                   "coords": [
                         14.578568,
@@ -3793,7 +3793,7 @@ imageHint: "Gorjanci mountains forest trail",
       "de": [
             {
                   "name": "Cerkev sv. Duha",
-                  "text": "Ein ländliches Kirchengebäude in der Region Haloze.",
+                  "text": "Kleine gotische Kirche des Heiligen Geistes auf einem Hügel im Weinbaugebiet Haloze.",
                   "category": "religious",
                   "coords": [
                         15.831252,
@@ -3804,7 +3804,7 @@ imageHint: "Gorjanci mountains forest trail",
       "hu": [
             {
                   "name": "Cerkev sv. Duha",
-                  "text": "Egy vallási épület a Haloze régióban.",
+                  "text": "Kis gótikus Szentlélek-templom egy dombon a Haloze borvidéken.",
                   "category": "religious",
                   "coords": [
                         15.831252,
@@ -3815,7 +3815,7 @@ imageHint: "Gorjanci mountains forest trail",
       "ro": [
             {
                   "name": "Cerkev sv. Duha",
-                  "text": "O biserică situată în regiunea Haloze.",
+                  "text": "Mică biserică gotică a Sfântului Duh pe un deal în regiunea viticolă Haloze.",
                   "category": "religious",
                   "coords": [
                         15.831252,
@@ -3826,7 +3826,7 @@ imageHint: "Gorjanci mountains forest trail",
       "en": [
             {
                   "name": "Church The Holy Spirit",
-                  "text": "A church building located in the Haloze region.",
+                  "text": "Small Gothic church of the Holy Spirit on a hill in the wine-growing region of Haloze.",
                   "category": "religious",
                   "coords": [
                         15.831252,
@@ -4031,7 +4031,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Prisank",
-                  "text": "Prisojnik ist ein markanter Berg in den Julischen Alpen in Slowenien.",
+                  "text": "Der Prisojnik-Berg in den Julischen Alpen.",
                   "category": "landmark",
                   "coords": [
                         13.769714,
@@ -4058,7 +4058,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Stenar",
-                  "text": "Stenar ist ein Berggipfel in den Julischen Alpen in Slowenien.",
+                  "text": "Ein Berg neben dem Prisojnik.",
                   "category": "landmark",
                   "coords": [
                         13.818559,
@@ -4067,7 +4067,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Goličica",
-                  "text": "Goličica ist ein Berggipfel in den Julischen Alpen in Slowenien.",
+                  "text": "Ein Gipfel nahe dem Prisojnik.",
                   "category": "landmark",
                   "coords": [
                         13.77075,
@@ -4085,7 +4085,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Dolkova špica",
-                  "text": "Dolkova špica ist ein Berggipfel in den Julischen Alpen in Slowenien.",
+                  "text": "Ein Gipfel nahe dem Prisojnik.",
                   "category": "landmark",
                   "coords": [
                         13.814811,
@@ -4105,7 +4105,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Prisank",
-                  "text": "A Prisojnik egy jellegzetes hegy a szlovéniai Júliai-Alpokban.",
+                  "text": "A Prisojnik-hegy a Julian-Alpokban.",
                   "category": "landmark",
                   "coords": [
                         13.769714,
@@ -4132,7 +4132,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Stenar",
-                  "text": "A Stenar egy hegycsúcs a szlovéniai Júliai-Alpokban.",
+                  "text": "Egy hegy a Prisojnik mellett.",
                   "category": "landmark",
                   "coords": [
                         13.818559,
@@ -4141,7 +4141,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Goličica",
-                  "text": "A Goličica egy hegycsúcs a szlovéniai Júliai-Alpokban.",
+                  "text": "Egy csúcs a Prisojnik közelében.",
                   "category": "landmark",
                   "coords": [
                         13.77075,
@@ -4159,7 +4159,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Dolkova špica",
-                  "text": "A Dolkova špica egy hegycsúcs a szlovéniai Júliai-Alpokban.",
+                  "text": "Egy csúcs a Prisojnik közelében.",
                   "category": "landmark",
                   "coords": [
                         13.814811,
@@ -4179,7 +4179,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Prisank",
-                  "text": "Prisojnik este un munte proeminent în Alpii Iulieni din Slovenia.",
+                  "text": "Muntele Prisojnik din Alpii Iulieni.",
                   "category": "landmark",
                   "coords": [
                         13.769714,
@@ -4206,7 +4206,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Stenar",
-                  "text": "Stenar este un vârf muntos în Alpii Iulieni din Slovenia.",
+                  "text": "Un munte lângă Prisojnik.",
                   "category": "landmark",
                   "coords": [
                         13.818559,
@@ -4215,7 +4215,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Goličica",
-                  "text": "Goličica este un vârf muntos în Alpii Iulieni din Slovenia.",
+                  "text": "Un vârf lângă Prisojnik.",
                   "category": "landmark",
                   "coords": [
                         13.77075,
@@ -4233,7 +4233,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Dolkova špica",
-                  "text": "Dolkova špica este un vârf muntos în Alpii Iulieni din Slovenia.",
+                  "text": "Un vârf lângă Prisojnik.",
                   "category": "landmark",
                   "coords": [
                         13.814811,
@@ -4253,7 +4253,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Prisojnik",
-                  "text": "Prisojnik is a prominent mountain in the Julian Alps of Slovenia.",
+                  "text": "The Prisojnik mountain in the Julian Alps.",
                   "category": "landmark",
                   "coords": [
                         13.769714,
@@ -4280,7 +4280,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Stenar",
-                  "text": "Stenar is a mountain peak in the Julian Alps of Slovenia.",
+                  "text": "A mountain adjacent to Prisojnik.",
                   "category": "landmark",
                   "coords": [
                         13.818559,
@@ -4289,7 +4289,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Goličica",
-                  "text": "Goličica is a mountain peak in the Julian Alps of Slovenia.",
+                  "text": "A peak near Prisojnik.",
                   "category": "landmark",
                   "coords": [
                         13.77075,
@@ -4307,7 +4307,7 @@ imageHint: "Planina plain karst field Unica river",
             },
             {
                   "name": "Dolkova špica",
-                  "text": "Dolkova špica is a mountain peak in the Julian Alps of Slovenia.",
+                  "text": "A summit near Prisojnik.",
                   "category": "landmark",
                   "coords": [
                         13.814811,
@@ -4717,7 +4717,7 @@ imageHint: "Razor mountain peak Julian Alps",
             },
             {
                   "name": "Grabljice",
-                  "text": "Ein kleiner Badebereich oder Strandabschnitt in der Nähe des Berges Krim.",
+                  "text": "Badebereich am Fuße des Berges Krim im zentralen Slowenien.",
                   "category": "recreational",
                   "coords": [
                         14.492687,
@@ -4744,7 +4744,7 @@ imageHint: "Razor mountain peak Julian Alps",
             },
             {
                   "name": "Kamenica",
-                  "text": "Ein Berggipfel in der Region um den Berg Krim in Slowenien.",
+                  "text": "Auffällige Kalksteinformation an den Hängen des Berges Krim bei Ljubljana.",
                   "category": "landmark",
                   "coords": [
                         14.466509,
@@ -4782,7 +4782,7 @@ imageHint: "Razor mountain peak Julian Alps",
             },
             {
                   "name": "Grabljice",
-                  "text": "Egy kis fürdőhely vagy tengerparti szakasz a Krim-hegy közelében.",
+                  "text": "Fürdőterület a Krim hegy lábánál Közép-Szlovéniában.",
                   "category": "recreational",
                   "coords": [
                         14.492687,
@@ -4809,7 +4809,7 @@ imageHint: "Razor mountain peak Julian Alps",
             },
             {
                   "name": "Kamenica",
-                  "text": "Egy hegycsúcs a szlovéniai Krim-hegy környékén.",
+                  "text": "Feltűnő mészkőszikla-formáció a Krim-hegy lejtőin, Ljubljana közelében.",
                   "category": "landmark",
                   "coords": [
                         14.466509,
@@ -4847,7 +4847,7 @@ imageHint: "Razor mountain peak Julian Alps",
             },
             {
                   "name": "Grabljice",
-                  "text": "O mică zonă de scăldat sau segment de plajă în apropierea muntelui Krim.",
+                  "text": "Zonă de scăldat la poalele muntelui Krim în Slovenia centrală.",
                   "category": "recreational",
                   "coords": [
                         14.492687,
@@ -4874,7 +4874,7 @@ imageHint: "Razor mountain peak Julian Alps",
             },
             {
                   "name": "Kamenica",
-                  "text": "Un vârf muntos din regiunea muntelui Krim în Slovenia.",
+                  "text": "Formațiune de calcar proeminentă pe pantele muntelui Krim lângă Ljubljana.",
                   "category": "landmark",
                   "coords": [
                         14.466509,
@@ -4912,7 +4912,7 @@ imageHint: "Razor mountain peak Julian Alps",
             },
             {
                   "name": "Grabljice",
-                  "text": "A small bathing area or beach section near Mount Krim.",
+                  "text": "Swimming area at the foot of Mount Krim in central Slovenia.",
                   "category": "recreational",
                   "coords": [
                         14.492687,
@@ -4939,7 +4939,7 @@ imageHint: "Razor mountain peak Julian Alps",
             },
             {
                   "name": "Kamenica",
-                  "text": "A mountain peak in the area of Mount Krim in Slovenia.",
+                  "text": "Prominent limestone rock formation on the slopes of Mount Krim near Ljubljana.",
                   "category": "landmark",
                   "coords": [
                         14.466509,
@@ -5024,7 +5024,7 @@ imageHint: "Krim mountain peak Ljubljana",
             },
             {
                   "name": "Vivodnik",
-                  "text": "Der Vivodnik ist der höchste Gipfel des Menina-Hochplateaus in Slowenien.",
+                  "text": "1508 m hoher Gipfel auf dem Menina Planina-Plateau in den Kamnik-Savinja-Alpen.",
                   "category": "landmark",
                   "coords": [
                         14.816193,
@@ -5044,7 +5044,7 @@ imageHint: "Krim mountain peak Ljubljana",
             },
             {
                   "name": "Vivodnik",
-                  "text": "A Vivodnik a szlovéniai Menina-fennsík legmagasabb csúcsa.",
+                  "text": "1508 m magas csúcs a Menina Planina-fennsíkon a Kamnik-Savinja-Alpokban.",
                   "category": "landmark",
                   "coords": [
                         14.816193,
@@ -5064,7 +5064,7 @@ imageHint: "Krim mountain peak Ljubljana",
             },
             {
                   "name": "Vivodnik",
-                  "text": "Vivodnik este cel mai înalt vârf al platoului Menina din Slovenia.",
+                  "text": "Vârf de 1508 m pe platoul Menina Planina din Alpii Kamnik-Savinja.",
                   "category": "landmark",
                   "coords": [
                         14.816193,
@@ -5084,7 +5084,7 @@ imageHint: "Krim mountain peak Ljubljana",
             },
             {
                   "name": "Vivodnik",
-                  "text": "Vivodnik is the highest peak of the Menina plateau in Slovenia.",
+                  "text": "1508 m high peak on the Menina Planina plateau in the Kamnik-Savinja Alps.",
                   "category": "landmark",
                   "coords": [
                         14.816193,
@@ -5341,7 +5341,7 @@ imageHint: "Goricko hills landscape Slovenia",
             },
             {
                   "name": "San Giovanni Battista",
-                  "text": "Eine religiöse Stätte in der Gegend von Kolovrat.",
+                  "text": "Historische Johannes-der-Täufer-Kirche auf dem Kolovrat-Kamm mit Blick auf das Soča-Tal.",
                   "category": "religious",
                   "coords": [
                         13.549377,
@@ -5350,7 +5350,7 @@ imageHint: "Goricko hills landscape Slovenia",
             },
             {
                   "name": "Chiesa di San Volfango",
-                  "text": "Eine Kirche in der Gemeinde Drenchia in der Nähe des Kolovrat.",
+                  "text": "Eine katholische Kirche, dem heiligen Wolfgang geweiht, im Kolovrat-Gebiet.",
                   "category": "religious",
                   "coords": [
                         13.643509,
@@ -5415,7 +5415,7 @@ imageHint: "Goricko hills landscape Slovenia",
             },
             {
                   "name": "San Giovanni Battista",
-                  "text": "Vallási helyszín a Kolovrat környékén.",
+                  "text": "Történelmi Keresztelő Szent János-templom a Kolovrat-gerincen, a Soča-völgyre nézve.",
                   "category": "religious",
                   "coords": [
                         13.549377,
@@ -5424,7 +5424,7 @@ imageHint: "Goricko hills landscape Slovenia",
             },
             {
                   "name": "Chiesa di San Volfango",
-                  "text": "Templom Drenchia községben, a Kolovrat közelében.",
+                  "text": "Egy Szent Wolfgangnak szentelt katolikus templom a Kolovrat területén.",
                   "category": "religious",
                   "coords": [
                         13.643509,
@@ -5489,7 +5489,7 @@ imageHint: "Goricko hills landscape Slovenia",
             },
             {
                   "name": "San Giovanni Battista",
-                  "text": "Un lăcaș de cult situat în zona Kolovrat.",
+                  "text": "Biserică istorică a Sfântului Ioan Botezătorul pe creasta Kolovrat, cu vedere spre valea Soča.",
                   "category": "religious",
                   "coords": [
                         13.549377,
@@ -5498,7 +5498,7 @@ imageHint: "Goricko hills landscape Slovenia",
             },
             {
                   "name": "Chiesa di San Volfango",
-                  "text": "O biserică situată în comuna Drenchia, lângă Kolovrat.",
+                  "text": "O biserică catolică dedicată Sfântului Wolfgang în zona Kolovrat.",
                   "category": "religious",
                   "coords": [
                         13.643509,
@@ -5563,7 +5563,7 @@ imageHint: "Goricko hills landscape Slovenia",
             },
             {
                   "name": "San Giovanni Battista",
-                  "text": "A place of worship located in the Kolovrat area.",
+                  "text": "Historic church of St. John the Baptist on the Kolovrat ridge overlooking the Soča valley.",
                   "category": "religious",
                   "coords": [
                         13.549377,
@@ -5572,7 +5572,7 @@ imageHint: "Goricko hills landscape Slovenia",
             },
             {
                   "name": "Chiesa di San Volfango",
-                  "text": "A church located in the municipality of Drenchia near Kolovrat.",
+                  "text": "A Catholic church dedicated to Saint Wolfgang in the Kolovrat area.",
                   "category": "religious",
                   "coords": [
                         13.643509,

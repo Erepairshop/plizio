@@ -80,7 +80,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Ein Denkmal in Form eines Pferdes in San Marino.",
+                  "text": "Historisches Pferdestandbild (Cavallo) in Gualdicciolo.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -190,7 +190,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Lószobor formájú emlékmű San Marinóban.",
+                  "text": "Történelmi lószobor (Cavallo) Gualdicciolóban.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -300,7 +300,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Un monument sub formă de cal în San Marino.",
+                  "text": "Statuie istorică a unui cal (Cavallo) în Gualdicciolo.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -410,7 +410,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "A monument in the shape of a horse in San Marino.",
+                  "text": "Historical horse statue (Cavallo) in Gualdicciolo.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -527,7 +527,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Resti del ponte",
-                  "text": "Die Überreste einer historischen Brücke in San Marino.",
+                  "text": "Überreste einer antiken Brücke in La Serra.",
                   "category": "historical",
                   "coords": [
                         12.401476,
@@ -545,7 +545,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Domenico",
-                  "text": "Eine Kirche oder ein religiöses Gebäude in San Marino.",
+                  "text": "San Domenico ist eine mittelalterliche Kirche in La Serra.",
                   "category": "religious",
                   "coords": [
                         12.377645,
@@ -601,7 +601,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Resti del ponte",
-                  "text": "Egy történelmi híd maradványai San Marinóban.",
+                  "text": "Egy ősi híd maradványai La Serrában.",
                   "category": "historical",
                   "coords": [
                         12.401476,
@@ -619,7 +619,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Domenico",
-                  "text": "Templom vagy vallási épület San Marinóban.",
+                  "text": "San Domenico egy középkori templom La Serrában.",
                   "category": "religious",
                   "coords": [
                         12.377645,
@@ -675,7 +675,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Resti del ponte",
-                  "text": "Vestigiile unui pod istoric din San Marino.",
+                  "text": "Rămășițele unui pod antic în La Serra.",
                   "category": "historical",
                   "coords": [
                         12.401476,
@@ -693,7 +693,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Domenico",
-                  "text": "O biserică sau o clădire religioasă din San Marino.",
+                  "text": "San Domenico este o biserică medievală din La Serra.",
                   "category": "religious",
                   "coords": [
                         12.377645,
@@ -749,7 +749,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Resti del ponte",
-                  "text": "The remains of a historic bridge in San Marino.",
+                  "text": "Remains of an ancient bridge in La Serra.",
                   "category": "historical",
                   "coords": [
                         12.401476,
@@ -767,7 +767,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Domenico",
-                  "text": "A church or religious building in San Marino.",
+                  "text": "San Domenico is a medieval church in La Serra.",
                   "category": "religious",
                   "coords": [
                         12.377645,
@@ -812,7 +812,7 @@ export const poiExtraSanmarinoCities: POI[] = [
       "de": [
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Das Museo Armi Moderne ist ein bedeutendes Museum für moderne Waffen in Cà Melone.",
+                  "text": "Museum für moderne Waffen in Cà Melone.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -821,7 +821,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo delle Armi Antiche",
-                  "text": "Das Sammarinese Museum of Ancient Arms ist ein Museum in Cà Melone.",
+                  "text": "Das sammarinesische Museum für alte Waffen in Cà Melone zeigt eine Sammlung von Waffen und Rüstungen aus dem 13. bis 17. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         12.451417,
@@ -830,7 +830,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo della Tortura",
-                  "text": "Das Museo della Tortura ist ein Museum in Cà Melone.",
+                  "text": "Das Museo della Tortura in Cà Melone zeigt historische Folterinstrumente.",
                   "category": "museum",
                   "coords": [
                         12.446905,
@@ -857,7 +857,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Marino Adventures",
-                  "text": "San Marino Adventures ist ein Freizeitpark in Cà Melone.",
+                  "text": "Abenteuerpark mit Seilrutschen und Klettern in Cà Melone.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -866,7 +866,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "Die National Gallery of Modern and Contemporary Art ist ein Museum in Cà Melone.",
+                  "text": "Galerie für moderne und zeitgenössische Kunst in Cà Melone.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -875,7 +875,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Tank from plasticine ist eine Sehenswürdigkeit in Cà Melone.",
+                  "text": "Skulptur eines Panzers aus Knete in Cà Melone.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -884,7 +884,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Cavallo ist ein Denkmal in Cà Melone.",
+                  "text": "Historisches Pferdestandbild (Cavallo) in Cà Melone.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -893,7 +893,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "L’elettromotrice \"AB-03\" ist eine Sehenswürdigkeit in Cà Melone.",
+                  "text": "Historischer elektrischer Triebwagen AB-03 in Cà Melone.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -902,7 +902,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Der Kursaal Sala Congressi ist ein Kunstzentrum in Cà Melone.",
+                  "text": "Kongresszentrum Kursaal in Cà Melone.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -911,7 +911,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Marino Jinja",
-                  "text": "Der Sanmarino Shinto Shrine ist eine Kultstätte in Cà Melone.",
+                  "text": "Der SanMarino-Shinto-Schrein in Cà Melone ist einer der wenigen Shinto-Schreine in Europa.",
                   "category": "religious",
                   "coords": [
                         12.48213,
@@ -920,7 +920,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Das Santuario della Beata Vergine della Consolazione ist eine Kultstätte in Cà Melone.",
+                  "text": "Das Santuario della Beata Vergine della Consolazione in Cà Melone ist ein Marienheiligtum und eine Wallfahrtskirche.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -931,7 +931,7 @@ export const poiExtraSanmarinoCities: POI[] = [
       "hu": [
             {
                   "name": "Museo Armi Moderne",
-                  "text": "A Museo Armi Moderne egy jelentős, modern fegyvereket bemutató múzeum Cà Melone városában.",
+                  "text": "Modern fegyverek múzeuma Cà Meloneban.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -940,7 +940,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo delle Armi Antiche",
-                  "text": "A Sammarinese Museum of Ancient Arms egy múzeum Cà Melone városában.",
+                  "text": "A San Marinói Régi Fegyverek Múzeuma Cà Melone-ban a 13–17. századi fegyverek és páncélok gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
                         12.451417,
@@ -949,7 +949,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo della Tortura",
-                  "text": "A Museo della Tortura egy múzeum Cà Melone városában.",
+                  "text": "A Kínzás Múzeuma Cà Melone-ban történelmi kínzóeszközöket állít ki.",
                   "category": "museum",
                   "coords": [
                         12.446905,
@@ -976,7 +976,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Marino Adventures",
-                  "text": "A San Marino Adventures egy vidámpark Cà Melone területén.",
+                  "text": "Kalandpark mászófalakkal és zipvonalakkal Cà Melone-ban.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -985,7 +985,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "A National Gallery of Modern and Contemporary Art egy múzeum Cà Melone városában.",
+                  "text": "Modern és kortárs művészeti galéria Cà Melone-ban.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -994,7 +994,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "A Tank from plasticine egy látványosság Cà Melone városában.",
+                  "text": "Gyurmából készült tankszobor Cà Melone-ban.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -1003,7 +1003,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "A Cavallo egy emlékmű Cà Melone városában.",
+                  "text": "Történelmi lószobor (Cavallo) Cà Melone-ban.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1012,7 +1012,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "A L’elettromotrice \"AB-03\" egy látványosság Cà Melone városában.",
+                  "text": "Történelmi elektromos motorvonat AB-03 Cà Melone-ban.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -1021,7 +1021,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "A Kursaal Sala Congressi egy művészeti központ Cà Melone városában.",
+                  "text": "Kursaal kongresszusi központ Cà Melone-ban.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -1030,7 +1030,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Marino Jinja",
-                  "text": "A Sanmarino Shinto Shrine egy istentiszteleti hely Cà Melone városában.",
+                  "text": "A San Marino-i Sinto Szentély Cà Melone-ban az egyik kevés európai sinto szentély.",
                   "category": "religious",
                   "coords": [
                         12.48213,
@@ -1039,7 +1039,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "A Santuario della Beata Vergine della Consolazione egy istentiszteleti hely Cà Melone városában.",
+                  "text": "A Vigasztaló Boldogasszony Szentélye Cà Melone-ban egy Mária-szentély és zarándoktemplom.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -1050,7 +1050,7 @@ export const poiExtraSanmarinoCities: POI[] = [
       "ro": [
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Museo Armi Moderne este un muzeu important de arme moderne situat în Cà Melone.",
+                  "text": "Muzeul armelor moderne în Cà Melone.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -1059,7 +1059,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo delle Armi Antiche",
-                  "text": "Sammarinese Museum of Ancient Arms este un muzeu situat în Cà Melone.",
+                  "text": "Muzeul Sanmarinez al Armelor Vechi din Cà Melone expune o colecție de arme și armuri din secolele XIII–XVII.",
                   "category": "museum",
                   "coords": [
                         12.451417,
@@ -1068,7 +1068,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo della Tortura",
-                  "text": "Museo della Tortura este un muzeu situat în Cà Melone.",
+                  "text": "Muzeul Torturii din Cà Melone expune instrumente de tortură istorice.",
                   "category": "museum",
                   "coords": [
                         12.446905,
@@ -1095,7 +1095,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Marino Adventures",
-                  "text": "San Marino Adventures este un parc tematic situat în Cà Melone.",
+                  "text": "Parac de aventură cu tiroliene și cățărare în Cà Melone.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -1104,7 +1104,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "National Gallery of Modern and Contemporary Art este un muzeu situat în Cà Melone.",
+                  "text": "Galerie de artă modernă și contemporană în Cà Melone.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1113,7 +1113,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Serbatoio da plastilina",
-                  "text": "Tank from plasticine este o atracție situată în Cà Melone.",
+                  "text": "Sculptură a unui tanc din plastilină în Cà Melone.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -1122,7 +1122,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Cavallo este un monument situat în Cà Melone.",
+                  "text": "Statuie istorică a unui cal (Cavallo) în Cà Melone.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1131,7 +1131,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "L’elettromotrice „AB-03” este o atracție situată în Cà Melone.",
+                  "text": "Autovehicul electric istoric AB-03 în Cà Melone.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -1140,7 +1140,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Kursaal Sala Congressi este un centru de arte situat în Cà Melone.",
+                  "text": "Centru de congrese Kursaal în Cà Melone.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -1149,7 +1149,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Marino Jinja",
-                  "text": "Sanmarino Shinto Shrine este un lăcaș de cult situat în Cà Melone.",
+                  "text": "Sanctuarul Șinto SanMarino din Cà Melone este unul dintre puținele sanctuare șinto din Europa.",
                   "category": "religious",
                   "coords": [
                         12.48213,
@@ -1158,7 +1158,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Santuario della Beata Vergine della Consolazione este un lăcaș de cult situat în Cà Melone.",
+                  "text": "Sanctuarul Fericitei Fecioare a Mângâierii din Cà Melone este un sanctuar marian și o biserică de pelerinaj.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -1169,7 +1169,7 @@ export const poiExtraSanmarinoCities: POI[] = [
       "en": [
             {
                   "name": "Museo Armi Moderne",
-                  "text": "Museo Armi Moderne is a notable museum of modern weapons located in Cà Melone.",
+                  "text": "Museum of modern arms in Cà Melone.",
                   "category": "museum",
                   "coords": [
                         12.446959,
@@ -1178,7 +1178,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Sammarinese Museum of Ancient Arms",
-                  "text": "The Sammarinese Museum of Ancient Arms is a museum located in Cà Melone.",
+                  "text": "The Sammarinese Museum of Ancient Arms in Cà Melone displays a collection of arms and armor from the 13th to 17th centuries.",
                   "category": "museum",
                   "coords": [
                         12.451417,
@@ -1187,7 +1187,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo della Tortura",
-                  "text": "Museo della Tortura is a museum located in Cà Melone.",
+                  "text": "The Museo della Tortura in Cà Melone exhibits historical torture instruments.",
                   "category": "museum",
                   "coords": [
                         12.446905,
@@ -1214,7 +1214,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "San Marino Adventures",
-                  "text": "San Marino Adventures is a theme park located in Cà Melone.",
+                  "text": "Adventure park with zip lines and climbing in Cà Melone.",
                   "category": "family",
                   "coords": [
                         12.429577,
@@ -1223,7 +1223,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "National Gallery of Modern and Contemporary Art",
-                  "text": "The National Gallery of Modern and Contemporary Art is a museum situated in Cà Melone.",
+                  "text": "Gallery of modern and contemporary art in Cà Melone.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1232,7 +1232,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Tank from plasticine",
-                  "text": "Tank from plasticine is an attraction located in Cà Melone.",
+                  "text": "Sculpture of a tank made from plasticine in Cà Melone.",
                   "category": "landmark",
                   "coords": [
                         12.450535,
@@ -1241,7 +1241,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Cavallo is a monument situated in Cà Melone.",
+                  "text": "Historical horse statue (Cavallo) in Cà Melone.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1250,7 +1250,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "L’elettromotrice \"AB-03\"",
-                  "text": "L’elettromotrice \"AB-03\" is an attraction situated in Cà Melone.",
+                  "text": "Historic electric railcar AB-03 in Cà Melone.",
                   "category": "landmark",
                   "coords": [
                         12.45034,
@@ -1259,7 +1259,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Kursaal Sala Congressi",
-                  "text": "Kursaal Sala Congressi is an arts centre situated in Cà Melone.",
+                  "text": "Kursaal congress centre in Cà Melone.",
                   "category": "cultural",
                   "coords": [
                         12.452055,
@@ -1268,7 +1268,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Sanmarino Shinto Shrine",
-                  "text": "Sanmarino Shinto Shrine is a place of worship located in Cà Melone.",
+                  "text": "The SanMarino Shinto Shrine in Cà Melone is one of the few Shinto shrines in Europe.",
                   "category": "religious",
                   "coords": [
                         12.48213,
@@ -1277,7 +1277,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Santuario della Beata Vergine della Consolazione is a place of worship located in Cà Melone.",
+                  "text": "The Santuario della Beata Vergine della Consolazione in Cà Melone is a Marian sanctuary and pilgrimage church.",
                   "category": "religious",
                   "coords": [
                         12.447424,
@@ -1368,7 +1368,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "Die staatliche Galerie für moderne und zeitgenössische Kunst in San Marino.",
+                  "text": "Galerie für moderne und zeitgenössische Kunst in Cà Rigo.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1386,7 +1386,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Ein Denkmal in Form eines Pferdes in der Stadt San Marino.",
+                  "text": "Historisches Pferdestandbild (Cavallo) in Cà Rigo.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1496,7 +1496,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "San Marino állami modern és kortárs művészeti galériája.",
+                  "text": "Modern és kortárs művészeti galéria Cà Rigo-ban.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1514,7 +1514,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Lószobrot ábrázoló emlékmű San Marino városában.",
+                  "text": "Történelmi lószobor (Cavallo) Cà Rigo-ban.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1624,7 +1624,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "Galeria națională de artă modernă și contemporană din San Marino.",
+                  "text": "Galerie de artă modernă și contemporană în Cà Rigo.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1642,7 +1642,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "Un monument sub formă de cal în orașul San Marino.",
+                  "text": "Statuie istorică a unui cal (Cavallo) în Cà Rigo.",
                   "category": "historical",
                   "coords": [
                         12.448703,
@@ -1752,7 +1752,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "National Gallery of Modern and Contemporary Art",
-                  "text": "The national gallery of modern and contemporary art in San Marino.",
+                  "text": "Gallery of modern and contemporary art in Cà Rigo.",
                   "category": "museum",
                   "coords": [
                         12.445734,
@@ -1770,7 +1770,7 @@ export const poiExtraSanmarinoCities: POI[] = [
             },
             {
                   "name": "Cavallo",
-                  "text": "A monument in the form of a horse in San Marino City.",
+                  "text": "Historical horse statue (Cavallo) in Cà Rigo.",
                   "category": "historical",
                   "coords": [
                         12.448703,

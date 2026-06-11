@@ -3,7 +3,1312 @@ import type { POI } from "./poi";
 
 export const poiExtraEcuadorCitiesV2: POI[] = [
   {
-    id: "guayaquil-cities-v2", "sights": {"de": [{"name": "Museo Antropológico y de Arte Contemporáneo", "text": "Das Museo Antropológico y de Arte Contemporáneo ist ein bedeutendes Museum in Guayaquil, das sich der modernen Kunst und Anthropologie widmet.", "category": "museum", "coords": [-79.875528, -2.184774]}, {"name": "Orquesta Sinfónica de Guayaquil", "text": "Das Orquesta Sinfónica de Guayaquil ist eine bemerkenswerte Musik- und Theatereinrichtung in Guayaquil.", "category": "cultural", "coords": [-79.895036, -2.211172]}, {"name": "Iglesia Católica El Sagrario | Guayaquil", "text": "Die Iglesia Católica El Sagrario ist ein bemerkenswertes katholisches Gotteshaus in Guayaquil.", "category": "religious", "coords": [-79.883889, -2.194788]}, {"name": "Faro del Cerro Santa Ana", "text": "Der Faro del Cerro Santa Ana ist ein markanter Leuchtturm und eine Attraktion auf einem historischen Hügel in Guayaquil.", "category": "landmark", "coords": [-79.875499, -2.18088]}, {"name": "Puente 5 de Junio", "text": "Die Puente 5 de Junio ist eine bemerkenswerte Brückeninfrastruktur in Guayaquil.", "category": "landmark", "coords": [-79.89854, -2.186263]}, {"name": "Puente del Velero", "text": "Die Puente del Velero ist eine anerkannte Brückenkonstruktion in Guayaquil.", "category": "landmark", "coords": [-79.901336, -2.189101]}, {"name": "Isla Santay", "text": "Die Isla Santay ist ein bemerkenswertes Naturschutzgebiet und eine ökologische Insel in der Nähe von Guayaquil.", "category": "natural", "coords": [-79.855745, -2.223809]}, {"name": "Parque La Victoria", "text": "Der Parque La Victoria ist ein anerkannter öffentlicher Park in Guayaquil.", "category": "park", "coords": [-79.889996, -2.193456]}, {"name": "Ilustre Municipalidad De Guayaquil", "text": "Die Guayaquil Town Hall ist das zentrale städtische Gebäude in der Stadt Guayaquil.", "category": "historical", "coords": [-79.880843, -2.195268]}, {"name": "Plaza Rodolfo Baquerizo Moreno", "text": "Die Plaza Rodolfo Baquerizo Moreno befindet sich direkt am Malecón del Salado in Guayaquil, Ecuador, und bietet eine reizvolle Uferkulisse. Dieser öffentliche Platz verströmt eine lebhafte, städtische Atmosphäre, die Einheimische und Besucher gleichermaßen anzieht. Gäste können hier entspannte Spaziergänge entlang des Wassers unternehmen und das Panorama genießen. Ein Besuch am späten Nachmittag ist ideal, um die Stimmung vor Ort in vollen Zügen auszukosten.", "category": "landmark", "coords": [-79.898303, -2.187458]}, {"name": "Museo Presley Norton", "text": "Das Museo Presley Norton ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.895295, -2.187604]}, {"name": "La Perla rueda moscovita", "text": "La Perla Ferris wheel ist eine Touristenattraktion in Guayaquil.", "category": "landmark", "coords": [-79.875865, -2.186425]}, {"name": "Cerro El Carmen", "text": "Der Cerro El Carmen ist ein markanter Gipfel in Guayaquil.", "category": "natural", "coords": [-79.883485, -2.180169]}, {"name": "Parque Centenario", "text": "Der Parque Centenario ist ein öffentlicher Park in Guayaquil.", "category": "park", "coords": [-79.887712, -2.189995]}, {"name": "Museo Municipal de Guayaquil", "text": "Das Museo Municipal de Guayaquil ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.882606, -2.195857]}, {"name": "Casa de la Cultura", "text": "Casa de la Cultura ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.888634, -2.189313]}, {"name": "Museo Naval Almirante Illingworth", "text": "Das Museo Naval Almirante Illingworth ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.886495, -2.214852]}, {"name": "Museo del Bombero \"Félix Luque Plata\"", "text": "Das Museo del Bombero \"Félix Luque Plata\" ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.89738, -2.204095]}, {"name": "Guayaquil en la Historía", "text": "Guayaquil en la Historía ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.87683, -2.186123]}, {"name": "Museo de la Música Popular Julio Jaramillo", "text": "Das Museo de la Música Popular Julio Jaramillo ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.874122, -2.180841]}, {"name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil", "text": "Das Museo del Benemérito Cuerpo de Bomberos de Guayaquil ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.877102, -2.183132]}, {"name": "Casa del Artista Plastico", "text": "Casa del Artista Plastico ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.875107, -2.183499]}, {"name": "Museo de la Arcilla \"María Eugenia Puig Lince\"", "text": "Das Museo de la Arcilla \"María Eugenia Puig Lince\" ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.907571, -2.188506]}, {"name": "Museo del cacao", "text": "Das Museo del cacao ist ein Museum in der Stadt Guayaquil.", "category": "museum", "coords": [-79.878964, -2.188181]}, {"name": "El Pescador", "text": "El Pescador ist ein Denkmal in der Stadt Guayaquil.", "category": "historical", "coords": [-79.905546, -2.188026]}, {"name": "Busto a Mahatma Gandhi", "text": "Busto a Mahatma Gandhi ist ein Denkmal in der Stadt Guayaquil.", "category": "historical", "coords": [-79.875747, -2.178369]}, {"name": "Monumento a la Patria Joven", "text": "Monumento a la Patria Joven ist ein Denkmal in der Stadt Guayaquil.", "category": "historical", "coords": [-79.894624, -2.209926]}, {"name": "Escultura El Bagre", "text": "Escultura El Bagre ist ein Denkmal in der Stadt Guayaquil.", "category": "historical", "coords": [-79.910706, -2.188988]}, {"name": "Julio Jaramillo", "text": "Julio Jaramillo ist ein Denkmal in der Stadt Guayaquil.", "category": "historical", "coords": [-79.874066, -2.182007]}, {"name": "Monumento a Clemente Yerovi", "text": "Monumento a Clemente Yerovi ist ein Denkmal in der Stadt Guayaquil.", "category": "historical", "coords": [-79.898768, -2.175216]}, {"name": "La Rotonda", "text": "The Rotunda ist ein Denkmal in der Stadt Guayaquil.", "category": "historical", "coords": [-79.879212, -2.192558]}, {"name": "CENTRO CULTURAL SARAO.", "text": "CENTRO CULTURAL SARAO. ist ein Theater und Veranstaltungsort in Guayaquil.", "category": "cultural", "coords": [-79.900264, -2.177306]}, {"name": "CLOU Teatro (Agrupación Teatral)", "text": "CLOU Teatro (Agrupación Teatral) ist ein Theater und Veranstaltungsort in Guayaquil.", "category": "cultural", "coords": [-79.879788, -2.190176]}, {"name": "Orquesta Sinfónica Cristiana del Ecuador", "text": "Das Orquesta Sinfónica Cristiana del Ecuador ist ein Theater in Guayaquil.", "category": "cultural", "coords": [-79.896665, -2.189452]}, {"name": "Cursos Gratuitos de Guayarte", "text": "Cursos Gratuitos de Guayarte ist ein Kunstzentrum in Guayaquil.", "category": "cultural", "coords": [-79.90281, -2.180351]}, {"name": "Barco Pirata Morgan", "text": "Captain Morgan's Pirate Ship ist eine Attraktion in Guayaquil.", "category": "landmark", "coords": [-79.880287, -2.196771]}], "hu": [{"name": "Museo Antropológico y de Arte Contemporáneo", "text": "A Museo Antropológico y de Arte Contemporáneo egy jelentős múzeum Guayaquilban, amely a modern művészettel és az antropológiával foglalkozik.", "category": "museum", "coords": [-79.875528, -2.184774]}, {"name": "Orquesta Sinfónica de Guayaquil", "text": "Az Orquesta Sinfónica de Guayaquil egy nevezetes zenés színházi intézmény Guayaquilban.", "category": "cultural", "coords": [-79.895036, -2.211172]}, {"name": "Iglesia Católica El Sagrario | Guayaquil", "text": "Az Iglesia Católica El Sagrario egy nevezetes katolikus istentiszteleti hely Guayaquilban.", "category": "religious", "coords": [-79.883889, -2.194788]}, {"name": "Faro del Cerro Santa Ana", "text": "A Faro del Cerro Santa Ana egy kiemelkedő világítótorony és látványosság, amely egy történelmi dombon található Guayaquilban.", "category": "landmark", "coords": [-79.875499, -2.18088]}, {"name": "Puente 5 de Junio", "text": "A Puente 5 de Junio egy nevezetes híd infrastruktúra Guayaquilban.", "category": "landmark", "coords": [-79.89854, -2.186263]}, {"name": "Puente del Velero", "text": "A Puente del Velero egy elismert hídszerkezet Guayaquilban.", "category": "landmark", "coords": [-79.901336, -2.189101]}, {"name": "Isla Santay", "text": "Az Isla Santay egy nevezetes természetvédelmi terület és ökológiai sziget Guayaquil közelében.", "category": "natural", "coords": [-79.855745, -2.223809]}, {"name": "Parque La Victoria", "text": "A Parque La Victoria egy elismert közpark Guayaquilban.", "category": "park", "coords": [-79.889996, -2.193456]}, {"name": "Ilustre Municipalidad De Guayaquil", "text": "A Guayaquil Town Hall Guayaquil város központi önkormányzati épülete.", "category": "historical", "coords": [-79.880843, -2.195268]}, {"name": "Plaza Rodolfo Baquerizo Moreno", "text": "A Plaza Rodolfo Baquerizo Moreno közvetlenül az ecuadori Guayaquilban található Malecón del Salado partján fekszik, és elbűvölő vízparti környezetet kínál. Ez a nyilvános tér élénk, városi hangulatot áraszt, amely a helyieket és a látogatókat egyaránt vonzza. A vendégek itt pihentető sétákat tehetnek a víz mentén, és élvezhetik a panorámát. Egy késő délutáni látogatás ideális arra, hogy teljes mértékben átéljük a hely atmoszféráját.", "category": "landmark", "coords": [-79.898303, -2.187458]}, {"name": "Museo Presley Norton", "text": "A Museo Presley Norton egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.895295, -2.187604]}, {"name": "La Perla rueda moscovita", "text": "A La Perla Ferris wheel egy turisztikai látványosság Guayaquilban.", "category": "landmark", "coords": [-79.875865, -2.186425]}, {"name": "Cerro El Carmen", "text": "A Cerro El Carmen egy figyelemre méltó hegycsúcs Guayaquilban.", "category": "natural", "coords": [-79.883485, -2.180169]}, {"name": "Parque Centenario", "text": "A Parque Centenario egy közpark Guayaquil városában.", "category": "park", "coords": [-79.887712, -2.189995]}, {"name": "Museo Municipal de Guayaquil", "text": "A Museo Municipal de Guayaquil egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.882606, -2.195857]}, {"name": "Casa de la Cultura", "text": "A Casa de la Cultura egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.888634, -2.189313]}, {"name": "Museo Naval Almirante Illingworth", "text": "A Museo Naval Almirante Illingworth egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.886495, -2.214852]}, {"name": "Museo del Bombero \"Félix Luque Plata\"", "text": "A Museo del Bombero \"Félix Luque Plata\" egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.89738, -2.204095]}, {"name": "Guayaquil en la Historía", "text": "A Guayaquil en la Historía egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.87683, -2.186123]}, {"name": "Museo de la Música Popular Julio Jaramillo", "text": "A Museo de la Música Popular Julio Jaramillo egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.874122, -2.180841]}, {"name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil", "text": "A Museo del Benemérito Cuerpo de Bomberos de Guayaquil egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.877102, -2.183132]}, {"name": "Casa del Artista Plastico", "text": "A Casa del Artista Plastico egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.875107, -2.183499]}, {"name": "Museo de la Arcilla \"María Eugenia Puig Lince\"", "text": "A Museo de la Arcilla \"María Eugenia Puig Lince\" egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.907571, -2.188506]}, {"name": "Museo del cacao", "text": "A Museo del cacao egy múzeum Guayaquil városában.", "category": "museum", "coords": [-79.878964, -2.188181]}, {"name": "El Pescador", "text": "Az El Pescador egy emlékmű Guayaquil városában.", "category": "historical", "coords": [-79.905546, -2.188026]}, {"name": "Busto a Mahatma Gandhi", "text": "A Busto a Mahatma Gandhi egy emlékmű Guayaquil városában.", "category": "historical", "coords": [-79.875747, -2.178369]}, {"name": "Monumento a la Patria Joven", "text": "A Monumento a la Patria Joven egy emlékmű Guayaquil városában.", "category": "historical", "coords": [-79.894624, -2.209926]}, {"name": "Escultura El Bagre", "text": "Az Escultura El Bagre egy emlékmű Guayaquil városában.", "category": "historical", "coords": [-79.910706, -2.188988]}, {"name": "Julio Jaramillo", "text": "A Julio Jaramillo egy emlékmű Guayaquil városában.", "category": "historical", "coords": [-79.874066, -2.182007]}, {"name": "Monumento a Clemente Yerovi", "text": "A Monumento a Clemente Yerovi egy emlékmű Guayaquil városában.", "category": "historical", "coords": [-79.898768, -2.175216]}, {"name": "La Rotonda", "text": "A The Rotunda egy emlékmű Guayaquil városában.", "category": "historical", "coords": [-79.879212, -2.192558]}, {"name": "CENTRO CULTURAL SARAO.", "text": "A CENTRO CULTURAL SARAO. egy színház és kulturális helyszín Guayaquilban.", "category": "cultural", "coords": [-79.900264, -2.177306]}, {"name": "CLOU Teatro (Agrupación Teatral)", "text": "A CLOU Teatro (Agrupación Teatral) egy színház és kulturális helyszín Guayaquilban.", "category": "cultural", "coords": [-79.879788, -2.190176]}, {"name": "Orquesta Sinfónica Cristiana del Ecuador", "text": "Az Orquesta Sinfónica Cristiana del Ecuador egy színház Guayaquilban.", "category": "cultural", "coords": [-79.896665, -2.189452]}, {"name": "Cursos Gratuitos de Guayarte", "text": "A Cursos Gratuitos de Guayarte egy művészeti központ Guayaquilban.", "category": "cultural", "coords": [-79.90281, -2.180351]}, {"name": "Barco Pirata Morgan", "text": "A Captain Morgan's Pirate Ship egy látványosság Guayaquilban.", "category": "landmark", "coords": [-79.880287, -2.196771]}], "ro": [{"name": "Museo Antropológico y de Arte Contemporáneo", "text": "Museo Antropológico y de Arte Contemporáneo este un muzeu notabil din Guayaquil, dedicat artei moderne și antropologiei.", "category": "museum", "coords": [-79.875528, -2.184774]}, {"name": "Orquesta Sinfónica de Guayaquil", "text": "Orquesta Sinfónica de Guayaquil este o instituție muzicală și teatrală notabilă din Guayaquil.", "category": "cultural", "coords": [-79.895036, -2.211172]}, {"name": "Iglesia Católica El Sagrario | Guayaquil", "text": "Iglesia Católica El Sagrario este un lăcaș de cult catolic notabil situat în Guayaquil.", "category": "religious", "coords": [-79.883889, -2.194788]}, {"name": "Faro del Cerro Santa Ana", "text": "Faro del Cerro Santa Ana este un far proeminent și o atracție situată pe un deal istoric din Guayaquil.", "category": "landmark", "coords": [-79.875499, -2.18088]}, {"name": "Puente 5 de Junio", "text": "Puente 5 de Junio este o infrastructură de pod notabilă situată în Guayaquil.", "category": "landmark", "coords": [-79.89854, -2.186263]}, {"name": "Puente del Velero", "text": "Puente del Velero este o structură de pod recunoscută situată în Guayaquil.", "category": "landmark", "coords": [-79.901336, -2.189101]}, {"name": "Isla Santay", "text": "Isla Santay este o rezervație naturală și o insulă ecologică notabilă din apropiere de Guayaquil.", "category": "natural", "coords": [-79.855745, -2.223809]}, {"name": "Parque La Victoria", "text": "Parque La Victoria este un parc public recunoscut situat în Guayaquil.", "category": "park", "coords": [-79.889996, -2.193456]}, {"name": "Ilustre Municipalidad De Guayaquil", "text": "Guayaquil Town Hall este clădirea municipală centrală situată în orașul Guayaquil.", "category": "historical", "coords": [-79.880843, -2.195268]}, {"name": "Plaza Rodolfo Baquerizo Moreno", "text": "Plaza Rodolfo Baquerizo Moreno este situată chiar pe Malecón del Salado în Guayaquil, Ecuador, și oferă un cadru fermecător pe malul apei. Această piață publică emană o atmosferă urbană plină de viață, care atrage deopotrivă localnici și vizitatori. Oaspeții se pot bucura de plimbări relaxante de-a lungul apei și pot admira priveliștea. O vizită la sfârșitul după-amiezii este ideală pentru a savura pe deplin starea de spirit a locului.", "category": "landmark", "coords": [-79.898303, -2.187458]}, {"name": "Museo Presley Norton", "text": "Museo Presley Norton este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.895295, -2.187604]}, {"name": "La Perla rueda moscovita", "text": "La Perla Ferris wheel este o atracție turistică situată în Guayaquil.", "category": "landmark", "coords": [-79.875865, -2.186425]}, {"name": "Cerro El Carmen", "text": "Cerro El Carmen este un vârf notabil situat în Guayaquil.", "category": "natural", "coords": [-79.883485, -2.180169]}, {"name": "Parque Centenario", "text": "Parque Centenario este un parc public situat în Guayaquil.", "category": "park", "coords": [-79.887712, -2.189995]}, {"name": "Museo Municipal de Guayaquil", "text": "Museo Municipal de Guayaquil este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.882606, -2.195857]}, {"name": "Casa de la Cultura", "text": "Casa de la Cultura este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.888634, -2.189313]}, {"name": "Museo Naval Almirante Illingworth", "text": "Museo Naval Almirante Illingworth este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.886495, -2.214852]}, {"name": "Museo del Bombero \"Félix Luque Plata\"", "text": "Museo del Bombero \"Félix Luque Plata\" este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.89738, -2.204095]}, {"name": "Guayaquil en la Historía", "text": "Guayaquil en la Historía este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.87683, -2.186123]}, {"name": "Museo de la Música Popular Julio Jaramillo", "text": "Museo de la Música Popular Julio Jaramillo este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.874122, -2.180841]}, {"name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil", "text": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.877102, -2.183132]}, {"name": "Casa del Artista Plastico", "text": "Casa del Artista Plastico este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.875107, -2.183499]}, {"name": "Museo de la Arcilla \"María Eugenia Puig Lince\"", "text": "Museo de la Arcilla \"María Eugenia Puig Lince\" este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.907571, -2.188506]}, {"name": "Museo del cacao", "text": "Museo del cacao este un muzeu situat în orașul Guayaquil.", "category": "museum", "coords": [-79.878964, -2.188181]}, {"name": "El Pescador", "text": "El Pescador este un monument situat în orașul Guayaquil.", "category": "historical", "coords": [-79.905546, -2.188026]}, {"name": "Busto a Mahatma Gandhi", "text": "Busto a Mahatma Gandhi este un monument situat în orașul Guayaquil.", "category": "historical", "coords": [-79.875747, -2.178369]}, {"name": "Monumento a la Patria Joven", "text": "Monumento a la Patria Joven este un monument situat în orașul Guayaquil.", "category": "historical", "coords": [-79.894624, -2.209926]}, {"name": "Escultura El Bagre", "text": "Escultura El Bagre este un monument situat în orașul Guayaquil.", "category": "historical", "coords": [-79.910706, -2.188988]}, {"name": "Julio Jaramillo", "text": "Julio Jaramillo este un monument situat în orașul Guayaquil.", "category": "historical", "coords": [-79.874066, -2.182007]}, {"name": "Monumento a Clemente Yerovi", "text": "Monumento a Clemente Yerovi este un monument situat în orașul Guayaquil.", "category": "historical", "coords": [-79.898768, -2.175216]}, {"name": "La Rotonda", "text": "The Rotunda este un monument situat în orașul Guayaquil.", "category": "historical", "coords": [-79.879212, -2.192558]}, {"name": "CENTRO CULTURAL SARAO.", "text": "CENTRO CULTURAL SARAO. este un teatru și un centru cultural din Guayaquil.", "category": "cultural", "coords": [-79.900264, -2.177306]}, {"name": "CLOU Teatro (Agrupación Teatral)", "text": "CLOU Teatro (Agrupación Teatral) este un teatru și un centru cultural din Guayaquil.", "category": "cultural", "coords": [-79.879788, -2.190176]}, {"name": "Orquesta Sinfónica Cristiana del Ecuador", "text": "Orquesta Sinfónica Cristiana del Ecuador este un teatru din Guayaquil.", "category": "cultural", "coords": [-79.896665, -2.189452]}, {"name": "Cursos Gratuitos de Guayarte", "text": "Cursos Gratuitos de Guayarte este un centru de artă în Guayaquil.", "category": "cultural", "coords": [-79.90281, -2.180351]}, {"name": "Barco Pirata Morgan", "text": "Captain Morgan's Pirate Ship este o atracție în Guayaquil.", "category": "landmark", "coords": [-79.880287, -2.196771]}], "en": [{"name": "Museo Antropológico y de Arte Contemporáneo", "text": "The Museo Antropológico y de Arte Contemporáneo is a notable museum in Guayaquil dedicated to modern art and anthropology.", "category": "museum", "coords": [-79.875528, -2.184774]}, {"name": "Orquesta Sinfónica de Guayaquil", "text": "The Orquesta Sinfónica de Guayaquil is a notable musical theatre institution in Guayaquil.", "category": "cultural", "coords": [-79.895036, -2.211172]}, {"name": "Iglesia Católica El Sagrario | Guayaquil", "text": "Iglesia Católica El Sagrario is a notable Catholic place of worship located in Guayaquil.", "category": "religious", "coords": [-79.883889, -2.194788]}, {"name": "Faro del Cerro Santa Ana", "text": "Faro del Cerro Santa Ana is a prominent lighthouse and attraction located on a historic hill in Guayaquil.", "category": "landmark", "coords": [-79.875499, -2.18088]}, {"name": "Puente 5 de Junio", "text": "Puente 5 de Junio is a notable bridge infrastructure located in Guayaquil.", "category": "landmark", "coords": [-79.89854, -2.186263]}, {"name": "Puente del Velero", "text": "Puente del Velero is a recognized bridge structure situated in Guayaquil.", "category": "landmark", "coords": [-79.901336, -2.189101]}, {"name": "Isla Santay", "text": "Isla Santay is a notable nature reserve and ecological island near Guayaquil.", "category": "natural", "coords": [-79.855745, -2.223809]}, {"name": "Parque La Victoria", "text": "Parque La Victoria is a recognized public park located in Guayaquil.", "category": "park", "coords": [-79.889996, -2.193456]}, {"name": "Guayaquil Town Hall", "text": "Guayaquil Town Hall is the central municipal building situated in the city of Guayaquil.", "category": "historical", "coords": [-79.880843, -2.195268]}, {"name": "Plaza Rodolfo Baquerizo Moreno", "text": "Located right on the Malecón del Salado in Guayaquil, Ecuador, Plaza Rodolfo Baquerizo Moreno offers a charming waterfront setting. This public square exudes a lively, urban atmosphere that attracts both locals and visitors. Guests can enjoy relaxing walks along the water and take in the scenic views. A visit in the late afternoon is ideal for fully savoring the local mood.", "category": "landmark", "coords": [-79.898303, -2.187458]}, {"name": "Museo Presley Norton", "text": "Museo Presley Norton is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.895295, -2.187604]}, {"name": "La Perla Ferris wheel", "text": "La Perla Ferris wheel is a tourist attraction located in Guayaquil.", "category": "landmark", "coords": [-79.875865, -2.186425]}, {"name": "Cerro El Carmen", "text": "Cerro El Carmen is a notable peak situated in Guayaquil.", "category": "natural", "coords": [-79.883485, -2.180169]}, {"name": "Parque Centenario", "text": "Parque Centenario is a public park located in Guayaquil.", "category": "park", "coords": [-79.887712, -2.189995]}, {"name": "Museo Municipal de Guayaquil", "text": "Museo Municipal de Guayaquil is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.882606, -2.195857]}, {"name": "Casa de la Cultura", "text": "Casa de la Cultura is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.888634, -2.189313]}, {"name": "Museo Naval Almirante Illingworth", "text": "Museo Naval Almirante Illingworth is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.886495, -2.214852]}, {"name": "Museo del Bombero \"Félix Luque Plata\"", "text": "Museo del Bombero \"Félix Luque Plata\" is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.89738, -2.204095]}, {"name": "Guayaquil en la Historía", "text": "Guayaquil en la Historía is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.87683, -2.186123]}, {"name": "Museo de la Música Popular Julio Jaramillo", "text": "Museo de la Música Popular Julio Jaramillo is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.874122, -2.180841]}, {"name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil", "text": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.877102, -2.183132]}, {"name": "Casa del Artista Plastico", "text": "Casa del Artista Plastico is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.875107, -2.183499]}, {"name": "Museo de la Arcilla \"María Eugenia Puig Lince\"", "text": "Museo de la Arcilla \"María Eugenia Puig Lince\" is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.907571, -2.188506]}, {"name": "Museo del cacao", "text": "Museo del cacao is a museum located in the city of Guayaquil.", "category": "museum", "coords": [-79.878964, -2.188181]}, {"name": "El Pescador", "text": "El Pescador is a monument situated in the city of Guayaquil.", "category": "historical", "coords": [-79.905546, -2.188026]}, {"name": "Busto a Mahatma Gandhi", "text": "Busto a Mahatma Gandhi is a monument situated in the city of Guayaquil.", "category": "historical", "coords": [-79.875747, -2.178369]}, {"name": "Monumento a la Patria Joven", "text": "Monumento a la Patria Joven is a monument situated in the city of Guayaquil.", "category": "historical", "coords": [-79.894624, -2.209926]}, {"name": "Escultura El Bagre", "text": "Escultura El Bagre is a monument situated in the city of Guayaquil.", "category": "historical", "coords": [-79.910706, -2.188988]}, {"name": "Julio Jaramillo", "text": "Julio Jaramillo is a monument situated in the city of Guayaquil.", "category": "historical", "coords": [-79.874066, -2.182007]}, {"name": "Monumento a Clemente Yerovi", "text": "Monumento a Clemente Yerovi is a monument situated in the city of Guayaquil.", "category": "historical", "coords": [-79.898768, -2.175216]}, {"name": "The Rotunda", "text": "The Rotunda is a monument situated in the city of Guayaquil.", "category": "historical", "coords": [-79.879212, -2.192558]}, {"name": "CENTRO CULTURAL SARAO.", "text": "CENTRO CULTURAL SARAO. is a theatre and cultural venue in Guayaquil.", "category": "cultural", "coords": [-79.900264, -2.177306]}, {"name": "CLOU Teatro (Agrupación Teatral)", "text": "CLOU Teatro (Agrupación Teatral) is a theatre and cultural venue in Guayaquil.", "category": "cultural", "coords": [-79.879788, -2.190176]}, {"name": "Orquesta Sinfónica Cristiana del Ecuador", "text": "The Orquesta Sinfónica Cristiana del Ecuador is a theatre in Guayaquil.", "category": "cultural", "coords": [-79.896665, -2.189452]}, {"name": "Cursos Gratuitos de Guayarte", "text": "Cursos Gratuitos de Guayarte is an arts centre in Guayaquil.", "category": "cultural", "coords": [-79.90281, -2.180351]}, {"name": "Captain Morgan's Pirate Ship", "text": "Captain Morgan's Pirate Ship is an attraction in Guayaquil.", "category": "landmark", "coords": [-79.880287, -2.196771]}]},
+    id: "guayaquil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Antropológico y de Arte Contemporáneo",
+                  "text": "Das Museo Antropológico y de Arte Contemporáneo ist ein bedeutendes Museum in Guayaquil, das sich der modernen Kunst und Anthropologie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875528,
+                        -2.184774
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica de Guayaquil",
+                  "text": "Das Orquesta Sinfónica de Guayaquil, ein bedeutendes Sinfonieorchester in Guayaquil, Ecuador.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.895036,
+                        -2.211172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Sagrario | Guayaquil",
+                  "text": "Die katholische Kirche El Sagrario in Guayaquil, Teil der Erzdiözese Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.883889,
+                        -2.194788
+                  ]
+            },
+            {
+                  "name": "Faro del Cerro Santa Ana",
+                  "text": "Der Faro del Cerro Santa Ana ist ein markanter Leuchtturm und eine Attraktion auf einem historischen Hügel in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875499,
+                        -2.18088
+                  ]
+            },
+            {
+                  "name": "Puente 5 de Junio",
+                  "text": "Die Puente 5 de Junio ist eine bemerkenswerte Brückeninfrastruktur in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89854,
+                        -2.186263
+                  ]
+            },
+            {
+                  "name": "Puente del Velero",
+                  "text": "Die Puente del Velero, eine Fußgängerbrücke in Form eines Segelboots über den Guayas-Fluss in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.901336,
+                        -2.189101
+                  ]
+            },
+            {
+                  "name": "Isla Santay",
+                  "text": "Naturreservat Santay-Insel im Guayas-Fluss nahe Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.855745,
+                        -2.223809
+                  ]
+            },
+            {
+                  "name": "Parque La Victoria",
+                  "text": "Parque La Victoria, ein historischer Park von 1887 in Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.889996,
+                        -2.193456
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad De Guayaquil",
+                  "text": "Der neoklassizistische Stadtpalast am Malecón 2000 mit Blick auf den Guayas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.880843,
+                        -2.195268
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "Die Plaza Rodolfo Baquerizo Moreno befindet sich direkt am Malecón del Salado in Guayaquil, Ecuador, und bietet eine reizvolle Uferkulisse. Dieser öffentliche Platz verströmt eine lebhafte, städtische Atmosphäre, die Einheimische und Besucher gleichermaßen anzieht. Gäste können hier entspannte Spaziergänge entlang des Wassers unternehmen und das Panorama genießen. Ein Besuch am späten Nachmittag ist ideal, um die Stimmung vor Ort in vollen Zügen auszukosten.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898303,
+                        -2.187458
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Archäologisches Museum in einer Villa von 1920 im Centenario-Park.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895295,
+                        -2.187604
+                  ]
+            },
+            {
+                  "name": "La Perla rueda moscovita",
+                  "text": "Das 60 m hohe Riesenrad auf dem Malecón 2000 am Guayas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875865,
+                        -2.186425
+                  ]
+            },
+            {
+                  "name": "Cerro El Carmen",
+                  "text": "Ein Hügel mit einer weißen Kapelle und Panoramablick auf Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883485,
+                        -2.180169
+                  ]
+            },
+            {
+                  "name": "Parque Centenario",
+                  "text": "Der Parque Centenario, 1920 eingeweiht, im Zentrum von Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.887712,
+                        -2.189995
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Guayaquil",
+                  "text": "Städtisches Museum zur Geschichte von Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.882606,
+                        -2.195857
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura in Guayaquil, ein Zentrum für Kunst und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -79.888634,
+                        -2.189313
+                  ]
+            },
+            {
+                  "name": "Museo Naval Almirante Illingworth",
+                  "text": "Marinemuseum benannt nach Admiral Illingworth in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.886495,
+                        -2.214852
+                  ]
+            },
+            {
+                  "name": "Museo del Bombero \"Félix Luque Plata\"",
+                  "text": "Feuerwehrmuseum 'Félix Luque Plata' in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89738,
+                        -2.204095
+                  ]
+            },
+            {
+                  "name": "Guayaquil en la Historía",
+                  "text": "Museum 'Guayaquil in der Geschichte' zur Stadtgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -79.87683,
+                        -2.186123
+                  ]
+            },
+            {
+                  "name": "Museo de la Música Popular Julio Jaramillo",
+                  "text": "Museum der populären Musik, dem Sänger Julio Jaramillo gewidmet, in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.874122,
+                        -2.180841
+                  ]
+            },
+            {
+                  "name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil",
+                  "text": "Museum der verdienstvollen Feuerwehr von Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.877102,
+                        -2.183132
+                  ]
+            },
+            {
+                  "name": "Casa del Artista Plastico",
+                  "text": "Casa del Artista Plástico, ein Museum für bildende Künste in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875107,
+                        -2.183499
+                  ]
+            },
+            {
+                  "name": "Museo de la Arcilla \"María Eugenia Puig Lince\"",
+                  "text": "Tonmuseum 'María Eugenia Puig Lince' in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.907571,
+                        -2.188506
+                  ]
+            },
+            {
+                  "name": "Museo del cacao",
+                  "text": "Kakaomuseum in Guayaquil zur Geschichte der ecuadorianischen Schokolade.",
+                  "category": "museum",
+                  "coords": [
+                        -79.878964,
+                        -2.188181
+                  ]
+            },
+            {
+                  "name": "El Pescador",
+                  "text": "'El Pescador' Statue zu Ehren der Fischer in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.905546,
+                        -2.188026
+                  ]
+            },
+            {
+                  "name": "Busto a Mahatma Gandhi",
+                  "text": "Büste von Mahatma Gandhi in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.875747,
+                        -2.178369
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria Joven",
+                  "text": "Monument der jungen Heimat in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.894624,
+                        -2.209926
+                  ]
+            },
+            {
+                  "name": "Escultura El Bagre",
+                  "text": "Die Skulptur El Bagre (Der Wels) in Guayaquil, eingeweiht am 18. Februar 2009.",
+                  "category": "historical",
+                  "coords": [
+                        -79.910706,
+                        -2.188988
+                  ]
+            },
+            {
+                  "name": "Julio Jaramillo",
+                  "text": "Monument für den Sänger Julio Jaramillo in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.874066,
+                        -2.182007
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Monument für Präsident Clemente Yerovi in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "Das Rotunda-Monument in Guayaquil zur Erinnerung an das Treffen von Bolívar und San Martín.",
+                  "category": "historical",
+                  "coords": [
+                        -79.879212,
+                        -2.192558
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "Kulturzentrum SARAO in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177306
+                  ]
+            },
+            {
+                  "name": "CLOU Teatro (Agrupación Teatral)",
+                  "text": "CLOU Theater, eine Theatergruppe in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.879788,
+                        -2.190176
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
+                  "text": "Christliches Sinfonieorchester von Ecuador mit Sitz in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.896665,
+                        -2.189452
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Kostenlose Kulturkurse von Guayarte in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Barco Pirata Morgan",
+                  "text": "Captain Morgans Piratenschiff, eine Nachbildung eines Piratenschiffs in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.880287,
+                        -2.196771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Antropológico y de Arte Contemporáneo",
+                  "text": "A Museo Antropológico y de Arte Contemporáneo egy jelentős múzeum Guayaquilban, amely a modern művészettel és az antropológiával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875528,
+                        -2.184774
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica de Guayaquil",
+                  "text": "A Guayaquili Szimfonikus Zenekar, Guayaquil, Ecuador jelentős szimfonikus zenekara.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.895036,
+                        -2.211172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Sagrario | Guayaquil",
+                  "text": "Az El Sagrario katolikus templom Guayaquilban, a Guayaquili Főegyházmegye része.",
+                  "category": "religious",
+                  "coords": [
+                        -79.883889,
+                        -2.194788
+                  ]
+            },
+            {
+                  "name": "Faro del Cerro Santa Ana",
+                  "text": "A Faro del Cerro Santa Ana egy kiemelkedő világítótorony és látványosság, amely egy történelmi dombon található Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875499,
+                        -2.18088
+                  ]
+            },
+            {
+                  "name": "Puente 5 de Junio",
+                  "text": "A Puente 5 de Junio egy nevezetes híd infrastruktúra Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89854,
+                        -2.186263
+                  ]
+            },
+            {
+                  "name": "Puente del Velero",
+                  "text": "A Puente del Velero, egy vitorláshajó alakú gyalogoshíd a Guayas folyón Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.901336,
+                        -2.189101
+                  ]
+            },
+            {
+                  "name": "Isla Santay",
+                  "text": "Santay-sziget természetvédelmi terület a Guayas folyóban Guayaquil közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -79.855745,
+                        -2.223809
+                  ]
+            },
+            {
+                  "name": "Parque La Victoria",
+                  "text": "Parque La Victoria, egy 1887-ben létesített történelmi park Guayaquilban.",
+                  "category": "park",
+                  "coords": [
+                        -79.889996,
+                        -2.193456
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad De Guayaquil",
+                  "text": "A neoklasszicista városháza a Malecón 2000-en, a Guayas folyóra néz.",
+                  "category": "historical",
+                  "coords": [
+                        -79.880843,
+                        -2.195268
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "A Plaza Rodolfo Baquerizo Moreno közvetlenül az ecuadori Guayaquilban található Malecón del Salado partján fekszik, és elbűvölő vízparti környezetet kínál. Ez a nyilvános tér élénk, városi hangulatot áraszt, amely a helyieket és a látogatókat egyaránt vonzza. A vendégek itt pihentető sétákat tehetnek a víz mentén, és élvezhetik a panorámát. Egy késő délutáni látogatás ideális arra, hogy teljes mértékben átéljük a hely atmoszféráját.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898303,
+                        -2.187458
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Régészeti múzeum egy 1920-as évekbeli villában a Centenario Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895295,
+                        -2.187604
+                  ]
+            },
+            {
+                  "name": "La Perla rueda moscovita",
+                  "text": "A 60 méter magas óriáskerék a Malecón 2000-en a Guayas partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875865,
+                        -2.186425
+                  ]
+            },
+            {
+                  "name": "Cerro El Carmen",
+                  "text": "Egy domb fehér kápolnával, panorámás kilátással Guayaquilre.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883485,
+                        -2.180169
+                  ]
+            },
+            {
+                  "name": "Parque Centenario",
+                  "text": "A Parque Centenario, 1920-ban avatták fel, Guayaquil központjában.",
+                  "category": "park",
+                  "coords": [
+                        -79.887712,
+                        -2.189995
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Guayaquil",
+                  "text": "Guayaquil városi múzeuma, amely a város történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.882606,
+                        -2.195857
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura komplexum Guayaquilban, a művészetek és kultúra központja.",
+                  "category": "museum",
+                  "coords": [
+                        -79.888634,
+                        -2.189313
+                  ]
+            },
+            {
+                  "name": "Museo Naval Almirante Illingworth",
+                  "text": "Illingworth admirálisról elnevezett tengerészeti múzeum Guayaquilban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.886495,
+                        -2.214852
+                  ]
+            },
+            {
+                  "name": "Museo del Bombero \"Félix Luque Plata\"",
+                  "text": "'Félix Luque Plata' tűzoltó múzeum Guayaquilban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89738,
+                        -2.204095
+                  ]
+            },
+            {
+                  "name": "Guayaquil en la Historía",
+                  "text": "'Guayaquil a történelemben' múzeum a város múltjáról.",
+                  "category": "museum",
+                  "coords": [
+                        -79.87683,
+                        -2.186123
+                  ]
+            },
+            {
+                  "name": "Museo de la Música Popular Julio Jaramillo",
+                  "text": "A népszerű zene múzeuma, Julio Jaramillo énekesnek szentelve, Guayaquilban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.874122,
+                        -2.180841
+                  ]
+            },
+            {
+                  "name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil",
+                  "text": "Guayaquil Érdemes Tűzoltóságának Múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -79.877102,
+                        -2.183132
+                  ]
+            },
+            {
+                  "name": "Casa del Artista Plastico",
+                  "text": "Casa del Artista Plástico, a képzőművészet múzeuma Guayaquilban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875107,
+                        -2.183499
+                  ]
+            },
+            {
+                  "name": "Museo de la Arcilla \"María Eugenia Puig Lince\"",
+                  "text": "'María Eugenia Puig Lince' agyagmúzeum Guayaquilban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.907571,
+                        -2.188506
+                  ]
+            },
+            {
+                  "name": "Museo del cacao",
+                  "text": "Kakaómúzeum Guayaquilban, az ecuadori csokoládé történetét bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        -79.878964,
+                        -2.188181
+                  ]
+            },
+            {
+                  "name": "El Pescador",
+                  "text": "'El Pescador' szobor a halászok tiszteletére Guayaquilban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.905546,
+                        -2.188026
+                  ]
+            },
+            {
+                  "name": "Busto a Mahatma Gandhi",
+                  "text": "Mahatma Gandhi mellszobra Guayaquilban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.875747,
+                        -2.178369
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria Joven",
+                  "text": "Fiatal Hazának emlékműve Guayaquilban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.894624,
+                        -2.209926
+                  ]
+            },
+            {
+                  "name": "Escultura El Bagre",
+                  "text": "Az El Bagre (Harcsa) szobor Guayaquilban, 2009. február 18-án avatták fel.",
+                  "category": "historical",
+                  "coords": [
+                        -79.910706,
+                        -2.188988
+                  ]
+            },
+            {
+                  "name": "Julio Jaramillo",
+                  "text": "Julio Jaramillo énekes emlékműve Guayaquilban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.874066,
+                        -2.182007
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Clemente Yerovi elnök emlékműve Guayaquilban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "A Rotunda emlékmű Guayaquilban, Bolívar és San Martín találkozásának emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -79.879212,
+                        -2.192558
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "SARAO Kulturális Központ Guayaquilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177306
+                  ]
+            },
+            {
+                  "name": "CLOU Teatro (Agrupación Teatral)",
+                  "text": "CLOU Színház, egy Guayaquilban működő színházi társulat.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.879788,
+                        -2.190176
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
+                  "text": "Ecuadori Keresztény Szimfonikus Zenekar, székhelye Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.896665,
+                        -2.189452
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Ingyenes kulturális kurzusok a Guayarte által Guayaquilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Barco Pirata Morgan",
+                  "text": "Kapitány Morgan kalózhajója, egy kalózhajó-másolat Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.880287,
+                        -2.196771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Antropológico y de Arte Contemporáneo",
+                  "text": "Museo Antropológico y de Arte Contemporáneo este un muzeu notabil din Guayaquil, dedicat artei moderne și antropologiei.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875528,
+                        -2.184774
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica de Guayaquil",
+                  "text": "Orchestra Sinfonică din Guayaquil, o importantă orchestră simfonică din Guayaquil, Ecuador.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.895036,
+                        -2.211172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Sagrario | Guayaquil",
+                  "text": "Biserica catolică El Sagrario din Guayaquil, parte a Arhiepiscopiei de Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.883889,
+                        -2.194788
+                  ]
+            },
+            {
+                  "name": "Faro del Cerro Santa Ana",
+                  "text": "Faro del Cerro Santa Ana este un far proeminent și o atracție situată pe un deal istoric din Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875499,
+                        -2.18088
+                  ]
+            },
+            {
+                  "name": "Puente 5 de Junio",
+                  "text": "Puente 5 de Junio este o infrastructură de pod notabilă situată în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89854,
+                        -2.186263
+                  ]
+            },
+            {
+                  "name": "Puente del Velero",
+                  "text": "Podul Puente del Velero, un pod pietonal în formă de velier peste râul Guayas din Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.901336,
+                        -2.189101
+                  ]
+            },
+            {
+                  "name": "Isla Santay",
+                  "text": "Rezervația naturală Insula Santay în râul Guayas lângă Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.855745,
+                        -2.223809
+                  ]
+            },
+            {
+                  "name": "Parque La Victoria",
+                  "text": "Parcul La Victoria, un parc istoric inaugurat în 1887 în Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.889996,
+                        -2.193456
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad De Guayaquil",
+                  "text": "Palatul municipal neoclasic de pe Malecón 2000, cu vedere la râul Guayas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.880843,
+                        -2.195268
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "Plaza Rodolfo Baquerizo Moreno este situată chiar pe Malecón del Salado în Guayaquil, Ecuador, și oferă un cadru fermecător pe malul apei. Această piață publică emană o atmosferă urbană plină de viață, care atrage deopotrivă localnici și vizitatori. Oaspeții se pot bucura de plimbări relaxante de-a lungul apei și pot admira priveliștea. O vizită la sfârșitul după-amiezii este ideală pentru a savura pe deplin starea de spirit a locului.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898303,
+                        -2.187458
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Muzeu arheologic găzduit într-o vilă din anii 1920 în Parcul Centenario.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895295,
+                        -2.187604
+                  ]
+            },
+            {
+                  "name": "La Perla rueda moscovita",
+                  "text": "Roata Ferris de 60 de metri pe Malecón 2000, pe malul Guayasului.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875865,
+                        -2.186425
+                  ]
+            },
+            {
+                  "name": "Cerro El Carmen",
+                  "text": "Un deal cu o capelă albă, oferind vedere panoramică asupra orașului Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883485,
+                        -2.180169
+                  ]
+            },
+            {
+                  "name": "Parque Centenario",
+                  "text": "Parcul Centenario, inaugurat în 1920, în centrul orașului Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.887712,
+                        -2.189995
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Guayaquil",
+                  "text": "Muzeul municipal care prezintă istoria orașului Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.882606,
+                        -2.195857
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Complexul Casa de la Cultura din Guayaquil, un centru pentru arte și cultură.",
+                  "category": "museum",
+                  "coords": [
+                        -79.888634,
+                        -2.189313
+                  ]
+            },
+            {
+                  "name": "Museo Naval Almirante Illingworth",
+                  "text": "Muzeul Naval numit după amiralul Illingworth din Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.886495,
+                        -2.214852
+                  ]
+            },
+            {
+                  "name": "Museo del Bombero \"Félix Luque Plata\"",
+                  "text": "Muzeul Pompierilor 'Félix Luque Plata' din Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89738,
+                        -2.204095
+                  ]
+            },
+            {
+                  "name": "Guayaquil en la Historía",
+                  "text": "Muzeul 'Guayaquil în istorie' care documentează trecutul orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -79.87683,
+                        -2.186123
+                  ]
+            },
+            {
+                  "name": "Museo de la Música Popular Julio Jaramillo",
+                  "text": "Muzeul Muzicii Populare dedicat cântărețului Julio Jaramillo din Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.874122,
+                        -2.180841
+                  ]
+            },
+            {
+                  "name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil",
+                  "text": "Muzeul Brigăzii de Pompieri Merituoase din Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.877102,
+                        -2.183132
+                  ]
+            },
+            {
+                  "name": "Casa del Artista Plastico",
+                  "text": "Casa del Artista Plástico, un muzeu de arte vizuale în Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875107,
+                        -2.183499
+                  ]
+            },
+            {
+                  "name": "Museo de la Arcilla \"María Eugenia Puig Lince\"",
+                  "text": "Muzeul de Lut 'María Eugenia Puig Lince' din Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.907571,
+                        -2.188506
+                  ]
+            },
+            {
+                  "name": "Museo del cacao",
+                  "text": "Muzeul Cacaoului din Guayaquil, care prezintă istoria ciocolatei ecuadoriene.",
+                  "category": "museum",
+                  "coords": [
+                        -79.878964,
+                        -2.188181
+                  ]
+            },
+            {
+                  "name": "El Pescador",
+                  "text": "Statuia 'El Pescador' în onoarea pescarilor din Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.905546,
+                        -2.188026
+                  ]
+            },
+            {
+                  "name": "Busto a Mahatma Gandhi",
+                  "text": "Bustul lui Mahatma Gandhi din Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.875747,
+                        -2.178369
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria Joven",
+                  "text": "Monumentul Patriei Tinere din Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.894624,
+                        -2.209926
+                  ]
+            },
+            {
+                  "name": "Escultura El Bagre",
+                  "text": "Sculptura El Bagre (Somnul) din Guayaquil, inaugurată la 18 februarie 2009.",
+                  "category": "historical",
+                  "coords": [
+                        -79.910706,
+                        -2.188988
+                  ]
+            },
+            {
+                  "name": "Julio Jaramillo",
+                  "text": "Monumentul cântărețului Julio Jaramillo din Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.874066,
+                        -2.182007
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Monumentul președintelui Clemente Yerovi din Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "Monumentul Rotonda din Guayaquil, care comemorează întâlnirea lui Bolívar și San Martín.",
+                  "category": "historical",
+                  "coords": [
+                        -79.879212,
+                        -2.192558
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "Centrul cultural SARAO din Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177306
+                  ]
+            },
+            {
+                  "name": "CLOU Teatro (Agrupación Teatral)",
+                  "text": "Teatrul CLOU, o trupă de teatru din Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.879788,
+                        -2.190176
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
+                  "text": "Orchestra Simfonică Creștină a Ecuadorului, cu sediul în Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.896665,
+                        -2.189452
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Cursuri culturale gratuite oferite de Guayarte în Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Barco Pirata Morgan",
+                  "text": "Nava piratului Căpitan Morgan, o replică a unei nave pirați în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.880287,
+                        -2.196771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Antropológico y de Arte Contemporáneo",
+                  "text": "The Museo Antropológico y de Arte Contemporáneo is a notable museum in Guayaquil dedicated to modern art and anthropology.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875528,
+                        -2.184774
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica de Guayaquil",
+                  "text": "The Guayaquil Symphony Orchestra, a major symphony orchestra in Guayaquil, Ecuador.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.895036,
+                        -2.211172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Sagrario | Guayaquil",
+                  "text": "El Sagrario Catholic Church in Guayaquil, part of the Archdiocese of Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.883889,
+                        -2.194788
+                  ]
+            },
+            {
+                  "name": "Faro del Cerro Santa Ana",
+                  "text": "Faro del Cerro Santa Ana is a prominent lighthouse and attraction located on a historic hill in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875499,
+                        -2.18088
+                  ]
+            },
+            {
+                  "name": "Puente 5 de Junio",
+                  "text": "Puente 5 de Junio is a notable bridge infrastructure located in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89854,
+                        -2.186263
+                  ]
+            },
+            {
+                  "name": "Puente del Velero",
+                  "text": "Puente del Velero, a pedestrian bridge shaped like a sailboat over the Guayas River in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.901336,
+                        -2.189101
+                  ]
+            },
+            {
+                  "name": "Isla Santay",
+                  "text": "Santay Island nature reserve in the Guayas River near Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.855745,
+                        -2.223809
+                  ]
+            },
+            {
+                  "name": "Parque La Victoria",
+                  "text": "Parque La Victoria, a historic park inaugurated in 1887 in Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.889996,
+                        -2.193456
+                  ]
+            },
+            {
+                  "name": "Guayaquil Town Hall",
+                  "text": "The neoclassical municipal palace on the Malecón 2000 overlooking the Guayas River.",
+                  "category": "historical",
+                  "coords": [
+                        -79.880843,
+                        -2.195268
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "Located right on the Malecón del Salado in Guayaquil, Ecuador, Plaza Rodolfo Baquerizo Moreno offers a charming waterfront setting. This public square exudes a lively, urban atmosphere that attracts both locals and visitors. Guests can enjoy relaxing walks along the water and take in the scenic views. A visit in the late afternoon is ideal for fully savoring the local mood.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898303,
+                        -2.187458
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Archaeological museum housed in a 1920s villa in Centenario Park.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895295,
+                        -2.187604
+                  ]
+            },
+            {
+                  "name": "La Perla Ferris wheel",
+                  "text": "The 200-foot ferris wheel on the Malecón 2000 waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875865,
+                        -2.186425
+                  ]
+            },
+            {
+                  "name": "Cerro El Carmen",
+                  "text": "A hill with a white chapel offering panoramic views of the city.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883485,
+                        -2.180169
+                  ]
+            },
+            {
+                  "name": "Parque Centenario",
+                  "text": "Parque Centenario, inaugurated in 1920, in the center of Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.887712,
+                        -2.189995
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Guayaquil",
+                  "text": "Municipal museum showcasing the history of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.882606,
+                        -2.195857
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura complex in Guayaquil, a hub for arts and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -79.888634,
+                        -2.189313
+                  ]
+            },
+            {
+                  "name": "Museo Naval Almirante Illingworth",
+                  "text": "Naval Museum named after Admiral Illingworth in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.886495,
+                        -2.214852
+                  ]
+            },
+            {
+                  "name": "Museo del Bombero \"Félix Luque Plata\"",
+                  "text": "Firefighter Museum 'Félix Luque Plata' in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89738,
+                        -2.204095
+                  ]
+            },
+            {
+                  "name": "Guayaquil en la Historía",
+                  "text": "'Guayaquil in History' museum documenting the city's past.",
+                  "category": "museum",
+                  "coords": [
+                        -79.87683,
+                        -2.186123
+                  ]
+            },
+            {
+                  "name": "Museo de la Música Popular Julio Jaramillo",
+                  "text": "Museum of Popular Music dedicated to singer Julio Jaramillo in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.874122,
+                        -2.180841
+                  ]
+            },
+            {
+                  "name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil",
+                  "text": "Museum of the Meritorious Fire Brigade of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.877102,
+                        -2.183132
+                  ]
+            },
+            {
+                  "name": "Casa del Artista Plastico",
+                  "text": "Casa del Artista Plástico, a museum for visual arts in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875107,
+                        -2.183499
+                  ]
+            },
+            {
+                  "name": "Museo de la Arcilla \"María Eugenia Puig Lince\"",
+                  "text": "Clay Museum 'María Eugenia Puig Lince' in Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.907571,
+                        -2.188506
+                  ]
+            },
+            {
+                  "name": "Museo del cacao",
+                  "text": "Cacao Museum in Guayaquil, showcasing the history of Ecuadorian chocolate.",
+                  "category": "museum",
+                  "coords": [
+                        -79.878964,
+                        -2.188181
+                  ]
+            },
+            {
+                  "name": "El Pescador",
+                  "text": "'El Pescador' statue honoring fishermen in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.905546,
+                        -2.188026
+                  ]
+            },
+            {
+                  "name": "Busto a Mahatma Gandhi",
+                  "text": "Bust of Mahatma Gandhi in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.875747,
+                        -2.178369
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria Joven",
+                  "text": "Monument to the Young Homeland in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.894624,
+                        -2.209926
+                  ]
+            },
+            {
+                  "name": "Escultura El Bagre",
+                  "text": "Escultura El Bagre (Catfish sculpture) in Guayaquil, inaugurated on 18 February 2009.",
+                  "category": "historical",
+                  "coords": [
+                        -79.910706,
+                        -2.188988
+                  ]
+            },
+            {
+                  "name": "Julio Jaramillo",
+                  "text": "Monument to singer Julio Jaramillo in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.874066,
+                        -2.182007
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Monument to President Clemente Yerovi in Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "The Rotunda",
+                  "text": "The Rotunda monument in Guayaquil, marking the meeting of Bolívar and San Martín.",
+                  "category": "historical",
+                  "coords": [
+                        -79.879212,
+                        -2.192558
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "Cultural center SARAO in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177306
+                  ]
+            },
+            {
+                  "name": "CLOU Teatro (Agrupación Teatral)",
+                  "text": "CLOU Theater, a theater group based in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.879788,
+                        -2.190176
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
+                  "text": "Christian Symphony Orchestra of Ecuador based in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.896665,
+                        -2.189452
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Free cultural courses offered by Guayarte in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Captain Morgan's Pirate Ship",
+                  "text": "Captain Morgan's Pirate Ship, a replica pirate ship attraction in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.880287,
+                        -2.196771
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.8862, -2.1961],
@@ -212,7 +1517,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Camposanto Jardines de Durán",
-                  "text": "Camposanto Jardines de Durán ist ein Aussichtspunkt, der sich in der Stadt Durán befindet.",
+                  "text": "Jardines de Durán, ein natürlicher Friedhofsgarten in Durán.",
                   "category": "natural",
                   "coords": [
                         -79.827451,
@@ -221,7 +1526,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Salón del Reino de los Testigos de Jehová",
-                  "text": "Salón del Reino de los Testigos de Jehová ist eine lokale Sehenswürdigkeit in Durán.",
+                  "text": "Königreichssaal der Zeugen Jehovas in Durán.",
                   "category": "landmark",
                   "coords": [
                         -79.822318,
@@ -230,7 +1535,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "mirador",
-                  "text": "Der Mirador ist ein malerischer Aussichtspunkt in Durán.",
+                  "text": "Aussichtspunkt in Durán.",
                   "category": "natural",
                   "coords": [
                         -79.84933,
@@ -239,7 +1544,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "dB ProMedia Durán",
-                  "text": "dB ProMedia Durán ist eine Sehenswürdigkeit in der Stadt Durán.",
+                  "text": "dB ProMedia Durán, ein Medienproduktions-Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         -79.84,
@@ -248,7 +1553,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento del Pez",
-                  "text": "Monumento del Pez ist ein öffentliches Denkmal in der Stadt Durán.",
+                  "text": "Ein großes fischförmiges Denkmal in Duran.",
                   "category": "historical",
                   "coords": [
                         -79.846317,
@@ -277,7 +1582,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Camposanto Jardines de Durán",
-                  "text": "A Camposanto Jardines de Durán egy kilátópont, amely Durán városában található.",
+                  "text": "Jardines de Durán, egy természetes kert temető Duránban.",
                   "category": "natural",
                   "coords": [
                         -79.827451,
@@ -286,7 +1591,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Salón del Reino de los Testigos de Jehová",
-                  "text": "A Salón del Reino de los Testigos de Jehová egy helyi látványosság Durán városában.",
+                  "text": "Jehova Tanúi Királyság-terme Duránban.",
                   "category": "landmark",
                   "coords": [
                         -79.822318,
@@ -295,7 +1600,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "mirador",
-                  "text": "A mirador egy festői kilátó Durán városában.",
+                  "text": "Kilátó Duránban.",
                   "category": "natural",
                   "coords": [
                         -79.84933,
@@ -304,7 +1609,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "dB ProMedia Durán",
-                  "text": "A dB ProMedia Durán egy látványosság Durán városában.",
+                  "text": "dB ProMedia Durán, egy médiatermelési látványosság.",
                   "category": "landmark",
                   "coords": [
                         -79.84,
@@ -313,7 +1618,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento del Pez",
-                  "text": "A Monumento del Pez egy nyilvános emlékmű Durán városában.",
+                  "text": "Egy nagy hal alakú emlékmű Duranban.",
                   "category": "historical",
                   "coords": [
                         -79.846317,
@@ -342,7 +1647,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Camposanto Jardines de Durán",
-                  "text": "Camposanto Jardines de Durán este un punct de belvedere situat în orașul Durán.",
+                  "text": "Jardines de Durán, un cimitir-grădină natural în Durán.",
                   "category": "natural",
                   "coords": [
                         -79.827451,
@@ -351,7 +1656,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Salón del Reino de los Testigos de Jehová",
-                  "text": "Salón del Reino de los Testigos de Jehová este o atracție locală din Durán.",
+                  "text": "Sala Regatului a Martorilor lui Iehova din Durán.",
                   "category": "landmark",
                   "coords": [
                         -79.822318,
@@ -360,7 +1665,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "mirador",
-                  "text": "Mirador este un punct de belvedere pitoresc din Durán.",
+                  "text": "Punct de belvedere în Durán.",
                   "category": "natural",
                   "coords": [
                         -79.84933,
@@ -369,7 +1674,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "dB ProMedia Durán",
-                  "text": "dB ProMedia Durán este o atracție situată în orașul Durán.",
+                  "text": "dB ProMedia Durán, un reper de producție media.",
                   "category": "landmark",
                   "coords": [
                         -79.84,
@@ -378,7 +1683,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento del Pez",
-                  "text": "Monumento del Pez este un monument public din orașul Durán.",
+                  "text": "Un monument mare în formă de pește în Duran.",
                   "category": "historical",
                   "coords": [
                         -79.846317,
@@ -407,7 +1712,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Camposanto Jardines de Durán",
-                  "text": "Camposanto Jardines de Durán is a viewpoint located in the city of Durán.",
+                  "text": "Jardines de Durán, a natural garden cemetery in Durán.",
                   "category": "natural",
                   "coords": [
                         -79.827451,
@@ -416,7 +1721,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Salón del Reino de los Testigos de Jehová",
-                  "text": "Salón del Reino de los Testigos de Jehová is a local attraction in Durán.",
+                  "text": "Kingdom Hall of Jehovah's Witnesses in Durán.",
                   "category": "landmark",
                   "coords": [
                         -79.822318,
@@ -425,7 +1730,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "mirador",
-                  "text": "The mirador is a scenic viewpoint located in Durán.",
+                  "text": "Scenic viewpoint in Durán.",
                   "category": "natural",
                   "coords": [
                         -79.84933,
@@ -434,7 +1739,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "dB ProMedia Durán",
-                  "text": "dB ProMedia Durán is an attraction located in the city of Durán.",
+                  "text": "dB ProMedia Durán, a media production landmark.",
                   "category": "landmark",
                   "coords": [
                         -79.84,
@@ -443,7 +1748,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento del Pez",
-                  "text": "Monumento del Pez is a public monument situated in the city of Durán.",
+                  "text": "A large fish-shaped monument in Duran.",
                   "category": "historical",
                   "coords": [
                         -79.846317,
@@ -505,7 +1810,556 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       fr: ["Nœud ferroviaire important par le passé.", "Fait partie de la région métropolitaine de Guayaquil.", "Fortement industrialisée.", "Population en croissance rapide."],
     }, image: "/poi-images/duran-cities-v2.webp"},
   {
-    id: "manta-cities-v2", "sights": {"de": [{"name": "Museo del Banco Central", "text": "Das Museo del Banco Central ist ein Museum in Manta.", "category": "museum", "coords": [-80.721109, -0.950468]}, {"name": "Playa Tarqui", "text": "Tarqui Beach ist ein markanter Strandabschnitt innerhalb der ecuadorianischen Küstenstadt Manta. Besucher tauchen hier in eine lebendige städtische Atmosphäre ein, in der sich das lokale Leben abspielt. Die Umgebung lädt zu ausgedehnten Strandspaziergängen und zum entspannten Verweilen am Pazifik ein. Ein früher Besuch sichert oft den besten Platz für einen unbeschwerten Tag.", "category": "recreational", "coords": [-80.713488, -0.949929]}, {"name": "Playa Los Esteros", "text": "Im Herzen von Manta, Ecuador, bietet die Playa Los Esteros einen weitläufigen öffentlichen Sandstrand. Hier herrscht eine zugängliche, familienfreundliche Atmosphäre, die von Einheimischen sehr geschätzt wird. Gäste können sich auf gemütliches Sonnenbaden und entspannende Momente am Wasser freuen. Für einen gelungenen Strandtag bringen Sie am besten etwas Zeit für einen langen Uferspaziergang mit.", "category": "recreational", "coords": [-80.707453, -0.949931]}, {"name": "Barbasquillo", "text": "Barbasquillo ist ein bekannter Strandbereich in Manta.", "category": "recreational", "coords": [-80.745436, -0.943662]}, {"name": "Museo Centro Cultural Manta", "text": "Das Museo Centro Cultural Manta ist ein kulturelles Museum in Manta.", "category": "museum", "coords": [-80.730412, -0.941876]}, {"name": "La Poza", "text": "La Poza ist ein Strand in Manta.", "category": "recreational", "coords": [-80.720473, -0.946478]}, {"name": "Museo Municipal Etnográfico Cancebí", "text": "Das Museo Municipal Etnográfico Cancebí ist ein städtisches ethnografisches Museum in Manta.", "category": "museum", "coords": [-80.721659, -0.947589]}, {"name": "La Trinchera", "text": "La Trinchera ist ein lokales Theater in Manta.", "category": "cultural", "coords": [-80.743472, -0.94605]}, {"name": "Museo del Mar", "text": "Das Museo del Mar ist ein Museum in Manta.", "category": "museum", "coords": [-80.709492, -0.951217]}, {"name": "El Murciélago", "text": "Playa El Murciélago ist ein beliebter, weitläufiger Strand und eine Attraktion in Manta.", "category": "landmark", "coords": [-80.729021, -0.93745]}, {"name": "Al Pescador", "text": "To the fisherman ist ein Denkmal in Manta.", "category": "historical", "coords": [-80.717259, -0.952455]}, {"name": "Letras de Manta", "text": "Das Manta Sign ist eine Attraktion in Manta.", "category": "landmark", "coords": [-80.722112, -0.945218]}, {"name": "Haz de Luz", "text": "Haz de Luz ist eine lokale Attraktion in Manta.", "category": "landmark", "coords": [-80.717566, -0.94704]}, {"name": "Cuerpo de Bomberos Manta", "text": "Cuerpo de Bomberos Manta ist ein Feuerwehr-Denkmal in Manta.", "category": "historical", "coords": [-80.747712, -0.957798]}, {"name": "Eloy Alfaro Delgado", "text": "Eloy Alfaro Delgado ist ein Denkmal in Manta.", "category": "historical", "coords": [-80.745954, -0.954752]}], "hu": [{"name": "Museo del Banco Central", "text": "A Museo del Banco Central egy múzeum Manta városában.", "category": "museum", "coords": [-80.721109, -0.950468]}, {"name": "Playa Tarqui", "text": "A Tarqui Beach egy jellegzetes partszakasz az ecuadori Manta tengerparti városán belül. A látogatók itt egy élénk városi hangulatba csöppenhetnek, ahol a helyi élet zajlik. A környék hosszú tengerparti sétákra és a Csendes-óceán melletti pihentető időtöltésre hívogat. Egy korai látogatás gyakran biztosítja a legjobb helyet egy gondtalan naphoz.", "category": "recreational", "coords": [-80.713488, -0.949929]}, {"name": "Playa Los Esteros", "text": "Az ecuadori Manta szívében található Playa Los Esteros egy tágas, nyilvános homokos strandot kínál. Itt barátságos, családias hangulat uralkodik, amelyet a helyiek nagyra értékelnek. A vendégek kényelmes napozásra és a víz melletti pihentető pillanatokra számíthatnak. Egy sikeres strandnaphoz a legjobb, ha szánnak időt egy hosszú parti sétára is.", "category": "recreational", "coords": [-80.707453, -0.949931]}, {"name": "Barbasquillo", "text": "A Barbasquillo egy ismert tengerparti terület Mantában.", "category": "recreational", "coords": [-80.745436, -0.943662]}, {"name": "Museo Centro Cultural Manta", "text": "A Museo Centro Cultural Manta egy kulturális múzeum Manta városában.", "category": "museum", "coords": [-80.730412, -0.941876]}, {"name": "La Poza", "text": "A La Poza egy tengerparti úti cél Mantában.", "category": "recreational", "coords": [-80.720473, -0.946478]}, {"name": "Museo Municipal Etnográfico Cancebí", "text": "A Museo Municipal Etnográfico Cancebí egy helyi néprajzi múzeum Mantában.", "category": "museum", "coords": [-80.721659, -0.947589]}, {"name": "La Trinchera", "text": "A La Trinchera egy helyi színház Manta városában.", "category": "cultural", "coords": [-80.743472, -0.94605]}, {"name": "Museo del Mar", "text": "A Museo del Mar egy múzeum Manta városában.", "category": "museum", "coords": [-80.709492, -0.951217]}, {"name": "El Murciélago", "text": "A Playa El Murciélago egy népszerű strand és látványosság Manta városában.", "category": "landmark", "coords": [-80.729021, -0.93745]}, {"name": "Al Pescador", "text": "A To the fisherman egy emlékmű Mantában.", "category": "historical", "coords": [-80.717259, -0.952455]}, {"name": "Letras de Manta", "text": "A Manta Sign egy látványosság Mantában.", "category": "landmark", "coords": [-80.722112, -0.945218]}, {"name": "Haz de Luz", "text": "A Haz de Luz egy helyi látványosság Manta városában.", "category": "landmark", "coords": [-80.717566, -0.94704]}, {"name": "Cuerpo de Bomberos Manta", "text": "A Cuerpo de Bomberos Manta egy a tűzoltósághoz kapcsolódó emlékmű Mantában.", "category": "historical", "coords": [-80.747712, -0.957798]}, {"name": "Eloy Alfaro Delgado", "text": "Az Eloy Alfaro Delgado egy emlékmű Mantában.", "category": "historical", "coords": [-80.745954, -0.954752]}], "ro": [{"name": "Museo del Banco Central", "text": "Museo del Banco Central este un muzeu situat în Manta.", "category": "museum", "coords": [-80.721109, -0.950468]}, {"name": "Playa Tarqui", "text": "Tarqui Beach este o secțiune proeminentă de plajă din orașul de coastă ecuadorian Manta. Vizitatorii se cufundă aici într-o atmosferă urbană plină de viață, unde se desfășoară viața locală. Împrejurimile invită la plimbări lungi pe plajă și la o relaxare plăcută la Oceanul Pacific. O vizită timpurie vă asigură adesea cel mai bun loc pentru o zi lipsită de griji.", "category": "recreational", "coords": [-80.713488, -0.949929]}, {"name": "Playa Los Esteros", "text": "În inima orașului Manta, Ecuador, Playa Los Esteros oferă o plajă publică extinsă de nisip. Aici predomină o atmosferă accesibilă, prietenoasă cu familiile, care este foarte apreciată de localnici. Oaspeții pot aștepta cu nerăbdare să facă plajă și să trăiască momente de relaxare lângă apă. Pentru o zi reușită la plajă, cel mai bine este să vă rezervați timp pentru o plimbare lungă pe mal.", "category": "recreational", "coords": [-80.707453, -0.949931]}, {"name": "Barbasquillo", "text": "Barbasquillo este o zonă de plajă din Manta.", "category": "recreational", "coords": [-80.745436, -0.943662]}, {"name": "Museo Centro Cultural Manta", "text": "Museo Centro Cultural Manta este un muzeu cultural din Manta.", "category": "museum", "coords": [-80.730412, -0.941876]}, {"name": "La Poza", "text": "La Poza este o destinație de plajă din Manta.", "category": "recreational", "coords": [-80.720473, -0.946478]}, {"name": "Museo Municipal Etnográfico Cancebí", "text": "Museo Municipal Etnográfico Cancebí este un muzeu etnografic municipal din Manta.", "category": "museum", "coords": [-80.721659, -0.947589]}, {"name": "La Trinchera", "text": "La Trinchera este un teatru local din Manta.", "category": "cultural", "coords": [-80.743472, -0.94605]}, {"name": "Museo del Mar", "text": "Museo del Mar este un muzeu situat în Manta.", "category": "museum", "coords": [-80.709492, -0.951217]}, {"name": "El Murciélago", "text": "Playa El Murciélago este o atracție de plajă populară din Manta.", "category": "landmark", "coords": [-80.729021, -0.93745]}, {"name": "Al Pescador", "text": "To the fisherman este un monument din Manta.", "category": "historical", "coords": [-80.717259, -0.952455]}, {"name": "Letras de Manta", "text": "Manta Sign este o atracție din Manta.", "category": "landmark", "coords": [-80.722112, -0.945218]}, {"name": "Haz de Luz", "text": "Haz de Luz este o atracție locală situată în Manta.", "category": "landmark", "coords": [-80.717566, -0.94704]}, {"name": "Cuerpo de Bomberos Manta", "text": "Cuerpo de Bomberos Manta este un monument legat de pompierii din Manta.", "category": "historical", "coords": [-80.747712, -0.957798]}, {"name": "Eloy Alfaro Delgado", "text": "Eloy Alfaro Delgado este un monument din Manta.", "category": "historical", "coords": [-80.745954, -0.954752]}], "en": [{"name": "Museo del Banco Central", "text": "Museo del Banco Central is a museum situated in Manta.", "category": "museum", "coords": [-80.721109, -0.950468]}, {"name": "Tarqui Beach", "text": "Tarqui Beach is a prominent stretch of beach within the Ecuadorian coastal city of Manta. Visitors immerse themselves in a lively urban atmosphere where local life unfolds. The surroundings invite you to take long beach walks and enjoy a relaxing time by the Pacific Ocean. An early visit often secures the best spot for a carefree day.", "category": "recreational", "coords": [-80.713488, -0.949929]}, {"name": "Los Esteros Beach", "text": "In the heart of Manta, Ecuador, Playa Los Esteros offers an expansive public sandy beach. An accessible, family-friendly atmosphere prevails here, which is highly appreciated by the locals. Guests can look forward to comfortable sunbathing and relaxing moments by the water. For a successful beach day, it is best to set aside some time for a long walk along the shore.", "category": "recreational", "coords": [-80.707453, -0.949931]}, {"name": "Barbasquillo", "text": "Barbasquillo is a prominent beach area in Manta.", "category": "recreational", "coords": [-80.745436, -0.943662]}, {"name": "Museo Centro Cultural Manta", "text": "Museo Centro Cultural Manta is a cultural museum located in Manta.", "category": "museum", "coords": [-80.730412, -0.941876]}, {"name": "La Poza", "text": "La Poza is a beach destination found in Manta.", "category": "recreational", "coords": [-80.720473, -0.946478]}, {"name": "Museo Municipal Etnográfico Cancebí", "text": "Museo Municipal Etnográfico Cancebí is a municipal ethnographic museum in Manta.", "category": "museum", "coords": [-80.721659, -0.947589]}, {"name": "La Trinchera", "text": "La Trinchera is a local theatre venue in Manta.", "category": "cultural", "coords": [-80.743472, -0.94605]}, {"name": "Museo del Mar", "text": "Museo del Mar is a museum situated in Manta.", "category": "museum", "coords": [-80.709492, -0.951217]}, {"name": "El Murcielago", "text": "Playa El Murciélago is a popular beach attraction located in Manta.", "category": "landmark", "coords": [-80.729021, -0.93745]}, {"name": "To the fisherman", "text": "To the fisherman is a monument dedicated to local fishers in Manta.", "category": "historical", "coords": [-80.717259, -0.952455]}, {"name": "Manta Sign", "text": "The Manta Sign is a landmark attraction in Manta.", "category": "landmark", "coords": [-80.722112, -0.945218]}, {"name": "Haz de Luz", "text": "Haz de Luz is a local attraction located in Manta.", "category": "landmark", "coords": [-80.717566, -0.94704]}, {"name": "Cuerpo de Bomberos Manta", "text": "Cuerpo de Bomberos Manta is a monument related to the fire department in Manta.", "category": "historical", "coords": [-80.747712, -0.957798]}, {"name": "Eloy Alfaro Delgado", "text": "Eloy Alfaro Delgado is a monument located in Manta.", "category": "historical", "coords": [-80.745954, -0.954752]}]},
+    id: "manta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "Museum der Zentralbank mit Exponaten zur ecuadorianischen Währungsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Playa Tarqui",
+                  "text": "Tarqui Beach ist ein markanter Strandabschnitt innerhalb der ecuadorianischen Küstenstadt Manta. Besucher tauchen hier in eine lebendige städtische Atmosphäre ein, in der sich das lokale Leben abspielt. Die Umgebung lädt zu ausgedehnten Strandspaziergängen und zum entspannten Verweilen am Pazifik ein. Ein früher Besuch sichert oft den besten Platz für einen unbeschwerten Tag.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.713488,
+                        -0.949929
+                  ]
+            },
+            {
+                  "name": "Playa Los Esteros",
+                  "text": "Im Herzen von Manta, Ecuador, bietet die Playa Los Esteros einen weitläufigen öffentlichen Sandstrand. Hier herrscht eine zugängliche, familienfreundliche Atmosphäre, die von Einheimischen sehr geschätzt wird. Gäste können sich auf gemütliches Sonnenbaden und entspannende Momente am Wasser freuen. Für einen gelungenen Strandtag bringen Sie am besten etwas Zeit für einen langen Uferspaziergang mit.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.707453,
+                        -0.949931
+                  ]
+            },
+            {
+                  "name": "Barbasquillo",
+                  "text": "Barbasquillo, ein Sandstrand und eine Promenade in Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.745436,
+                        -0.943662
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Kulturzentrumsmuseum mit lokaler Kunst und Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730412,
+                        -0.941876
+                  ]
+            },
+            {
+                  "name": "La Poza",
+                  "text": "La Poza, ein natürliches Schwimmbecken an der Küste Mantas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.720473,
+                        -0.946478
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Ethnografisches Museum von Manta mit präkolumbischen Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera, ein historischer Graben, der zu einem Kulturort umfunktioniert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743472,
+                        -0.94605
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Meeresmuseum mit Ausstellungen zu Meeresbiologie und Fischereigeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709492,
+                        -0.951217
+                  ]
+            },
+            {
+                  "name": "El Murciélago",
+                  "text": "Playa El Murciélago ist ein beliebter, weitläufiger Strand und eine Attraktion in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729021,
+                        -0.93745
+                  ]
+            },
+            {
+                  "name": "Al Pescador",
+                  "text": "Denkmal für die Fischer, eine Statue an der Uferpromenade von Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Letras de Manta",
+                  "text": "Das Manta-Schild, ein großes Buchstaben-Wahrzeichen auf einem Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz, ein Leuchtturm-ähnlicher Lichtstrahl, der die Skyline von Manta markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.94704
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Das historische Feuerwehrhaus Cuerpo de Bomberos Manta, eröffnet am 4. November 2020.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Das Denkmal für Eloy Alfaro Delgado in Manta, eingeweiht am 28. Januar 2012.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "A Központi Bank múzeuma ecuadori pénztörténeti kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Playa Tarqui",
+                  "text": "A Tarqui Beach egy jellegzetes partszakasz az ecuadori Manta tengerparti városán belül. A látogatók itt egy élénk városi hangulatba csöppenhetnek, ahol a helyi élet zajlik. A környék hosszú tengerparti sétákra és a Csendes-óceán melletti pihentető időtöltésre hívogat. Egy korai látogatás gyakran biztosítja a legjobb helyet egy gondtalan naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.713488,
+                        -0.949929
+                  ]
+            },
+            {
+                  "name": "Playa Los Esteros",
+                  "text": "Az ecuadori Manta szívében található Playa Los Esteros egy tágas, nyilvános homokos strandot kínál. Itt barátságos, családias hangulat uralkodik, amelyet a helyiek nagyra értékelnek. A vendégek kényelmes napozásra és a víz melletti pihentető pillanatokra számíthatnak. Egy sikeres strandnaphoz a legjobb, ha szánnak időt egy hosszú parti sétára is.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.707453,
+                        -0.949931
+                  ]
+            },
+            {
+                  "name": "Barbasquillo",
+                  "text": "Barbasquillo, egy homokos strand és sétány Mantában.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.745436,
+                        -0.943662
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Kulturális központ múzeuma helyi művészettel és történelemmel.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730412,
+                        -0.941876
+                  ]
+            },
+            {
+                  "name": "La Poza",
+                  "text": "La Poza, egy természetes medence Manta partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.720473,
+                        -0.946478
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Manta etnográfiai múzeuma, prekolumbiánus leletekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera, egy történelmi árok, amely kulturális helyszínné alakult.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743472,
+                        -0.94605
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Tengeri Múzeum tengerbiológiai és halászattörténeti kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709492,
+                        -0.951217
+                  ]
+            },
+            {
+                  "name": "El Murciélago",
+                  "text": "A Playa El Murciélago egy népszerű strand és látványosság Manta városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729021,
+                        -0.93745
+                  ]
+            },
+            {
+                  "name": "Al Pescador",
+                  "text": "Halászok emlékműve, egy szobor Manta tengerparti sétányán.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Letras de Manta",
+                  "text": "A Manta tábla, egy nagy betűkből álló jelkép egy dombon.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz, egy világítótorony-szerű fénysugár, amely Manta látképét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.94704
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "A Cuerpo de Bomberos Manta történelmi tűzoltóállomás, 2020. november 4-én nyílt meg.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Az Eloy Alfaro Delgado emlékmű Manta városában, 2012. január 28-án avatták fel.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "Muzeul Băncii Centrale cu exponate despre istoria monetară a Ecuadorului.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Playa Tarqui",
+                  "text": "Tarqui Beach este o secțiune proeminentă de plajă din orașul de coastă ecuadorian Manta. Vizitatorii se cufundă aici într-o atmosferă urbană plină de viață, unde se desfășoară viața locală. Împrejurimile invită la plimbări lungi pe plajă și la o relaxare plăcută la Oceanul Pacific. O vizită timpurie vă asigură adesea cel mai bun loc pentru o zi lipsită de griji.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.713488,
+                        -0.949929
+                  ]
+            },
+            {
+                  "name": "Playa Los Esteros",
+                  "text": "În inima orașului Manta, Ecuador, Playa Los Esteros oferă o plajă publică extinsă de nisip. Aici predomină o atmosferă accesibilă, prietenoasă cu familiile, care este foarte apreciată de localnici. Oaspeții pot aștepta cu nerăbdare să facă plajă și să trăiască momente de relaxare lângă apă. Pentru o zi reușită la plajă, cel mai bine este să vă rezervați timp pentru o plimbare lungă pe mal.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.707453,
+                        -0.949931
+                  ]
+            },
+            {
+                  "name": "Barbasquillo",
+                  "text": "Barbasquillo, o plajă nisipoasă și o promenadă în Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.745436,
+                        -0.943662
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Muzeul centrului cultural cu artă și istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730412,
+                        -0.941876
+                  ]
+            },
+            {
+                  "name": "La Poza",
+                  "text": "La Poza, o piscină naturală pe coasta Mantăi.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.720473,
+                        -0.946478
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Muzeul Etnografic Municipal din Manta, cu artefacte precolumbiene.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera, un șanț istoric transformat în spațiu cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743472,
+                        -0.94605
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Muzeul Mării cu expoziții despre biologia marină și istoria pescuitului.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709492,
+                        -0.951217
+                  ]
+            },
+            {
+                  "name": "El Murciélago",
+                  "text": "Playa El Murciélago este o atracție de plajă populară din Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729021,
+                        -0.93745
+                  ]
+            },
+            {
+                  "name": "Al Pescador",
+                  "text": "Monumentul pescarului, o statuie pe faleza din Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Letras de Manta",
+                  "text": "Indicatorul Manta, un reper mare sub formă de litere pe un deal.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz, un fascicul de lumină asemănător unui far care marchează orizontul Mantăi.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.94704
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Clădirea istorică a pompierilor Cuerpo de Bomberos Manta, inaugurată la 4 noiembrie 2020.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Monumentul lui Eloy Alfaro Delgado din Manta, inaugurat la 28 ianuarie 2012.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "Museum of the Central Bank with exhibits on Ecuadorian currency history.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Tarqui Beach",
+                  "text": "Tarqui Beach is a prominent stretch of beach within the Ecuadorian coastal city of Manta. Visitors immerse themselves in a lively urban atmosphere where local life unfolds. The surroundings invite you to take long beach walks and enjoy a relaxing time by the Pacific Ocean. An early visit often secures the best spot for a carefree day.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.713488,
+                        -0.949929
+                  ]
+            },
+            {
+                  "name": "Los Esteros Beach",
+                  "text": "In the heart of Manta, Ecuador, Playa Los Esteros offers an expansive public sandy beach. An accessible, family-friendly atmosphere prevails here, which is highly appreciated by the locals. Guests can look forward to comfortable sunbathing and relaxing moments by the water. For a successful beach day, it is best to set aside some time for a long walk along the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.707453,
+                        -0.949931
+                  ]
+            },
+            {
+                  "name": "Barbasquillo",
+                  "text": "Barbasquillo, a sandy beach and promenade in Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.745436,
+                        -0.943662
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Cultural center museum showcasing local art and history.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730412,
+                        -0.941876
+                  ]
+            },
+            {
+                  "name": "La Poza",
+                  "text": "La Poza, a natural swimming pool along the Manta coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.720473,
+                        -0.946478
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Municipal ethnographic museum of Manta featuring pre-Columbian artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera, a historic trench turned cultural venue.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743472,
+                        -0.94605
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Museum of the Sea with exhibits on marine biology and fishing history.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709492,
+                        -0.951217
+                  ]
+            },
+            {
+                  "name": "El Murcielago",
+                  "text": "Playa El Murciélago is a popular beach attraction located in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729021,
+                        -0.93745
+                  ]
+            },
+            {
+                  "name": "To the fisherman",
+                  "text": "Monument to the fisherman, a statue on the Manta waterfront.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Manta Sign",
+                  "text": "The Manta sign, a large letter landmark on a hillside.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz, a lighthouse-like beam of light marking the Manta skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.94704
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Historic fire station Cuerpo de Bomberos Manta, opened on 4 November 2020.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Monument to Eloy Alfaro Delgado in Manta, inaugurated on 28 January 2012.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-M",
     coords: [-80.7259, -0.9496],
@@ -628,7 +2482,376 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       fr: ["Capitale de la province d'Imbabura.", "Située au pied du volcan Imbabura.", "Célèbre pour les glaces Helados de Paila.", "Fondée en 1606."],
     }, image: "/poi-images/ibarra-cities-v2.webp"},
   {
-    id: "quevedo-cities-v2", "sights": {"de": [{"name": "PALACIO DE CRISTAL", "text": "PALACIO DE CRISTAL ist ein Theater in Quevedo.", "category": "cultural", "coords": [-79.464931, -1.02392]}, {"name": "Área verde en Ladera", "text": "Área verde en Ladera ist ein Naturschutzgebiet in Quevedo.", "category": "natural", "coords": [-79.473697, -1.034248]}, {"name": "Reserva de Bosque Natural del Sr. Gerardo Jácome", "text": "Die Reserva de Bosque Natural del Sr. Gerardo Jácome ist ein Naturschutzgebiet in Quevedo.", "category": "natural", "coords": [-79.444026, -1.035557]}, {"name": "PLAZA CIVICA", "text": "Die PLAZA CIVICA in Quevedo, Ecuador, ist ein städtisches Denkmal, das zum Innehalten einlädt. Auch ohne direkten Strandzugang bietet dieser Ort eine angenehme lokale Atmosphäre, in der Besucher die Kultur der Stadt erleben können. Man kann hier entspannt spazieren gehen und das Treiben der Einheimischen beobachten. Ein Besuch lässt sich wunderbar mit einem Erkundungsgang durch die Innenstadt verbinden.", "category": "historical", "coords": [-79.468262, -1.030866]}, {"name": "Monumento a la Madre", "text": "Monumento a la Madre ist ein Denkmal in Quevedo.", "category": "historical", "coords": [-79.465708, -1.021723]}, {"name": "Parque el avión", "text": "Parque el avión ist eine Attraktion in Quevedo.", "category": "landmark", "coords": [-79.474844, -1.038341]}, {"name": "Monumento a los Héroes del Cenepa", "text": "Monumento a los Héroes del Cenepa ist ein Denkmal in Quevedo.", "category": "historical", "coords": [-79.46705, -1.006165]}, {"name": "Loma de \"SAN PEDRO\"", "text": "Loma de \"SAN PEDRO\" ist eine Attraktion in Quevedo.", "category": "landmark", "coords": [-79.47047, -1.040157]}, {"name": "Loma del \"DIABLO\"", "text": "Loma del \"DIABLO\" ist eine Attraktion in Quevedo.", "category": "landmark", "coords": [-79.469315, -1.042325]}, {"name": "Loma de las \"VACAS\"", "text": "Loma de las \"VACAS\" ist eine Attraktion in Quevedo.", "category": "landmark", "coords": [-79.471724, -1.028587]}], "hu": [{"name": "PALACIO DE CRISTAL", "text": "A PALACIO DE CRISTAL egy színház Quevedóban.", "category": "cultural", "coords": [-79.464931, -1.02392]}, {"name": "Área verde en Ladera", "text": "Az Área verde en Ladera egy természetvédelmi terület Quevedóban.", "category": "natural", "coords": [-79.473697, -1.034248]}, {"name": "Reserva de Bosque Natural del Sr. Gerardo Jácome", "text": "A Reserva de Bosque Natural del Sr. Gerardo Jácome egy természetvédelmi terület Quevedóban.", "category": "natural", "coords": [-79.444026, -1.035557]}, {"name": "PLAZA CIVICA", "text": "Az ecuadori Quevedóban található PLAZA CIVICA egy városi emlékmű, amely egy kis megállásra késztet. Még közvetlen tengerparti hozzáférés nélkül is kellemes helyi hangulatot kínál ez a hely, ahol a látogatók megtapasztalhatják a város kultúráját. Itt nyugodtan sétálhatunk és megfigyelhetjük a helyiek nyüzsgését. Egy itteni látogatás csodálatosan összekapcsolható a belváros felfedezésével.", "category": "historical", "coords": [-79.468262, -1.030866]}, {"name": "Monumento a la Madre", "text": "A Monumento a la Madre egy emlékmű Quevedóban.", "category": "historical", "coords": [-79.465708, -1.021723]}, {"name": "Parque el avión", "text": "A Parque el avión egy látványosság Quevedóban.", "category": "landmark", "coords": [-79.474844, -1.038341]}, {"name": "Monumento a los Héroes del Cenepa", "text": "A Monumento a los Héroes del Cenepa egy emlékmű Quevedóban.", "category": "historical", "coords": [-79.46705, -1.006165]}, {"name": "Loma de \"SAN PEDRO\"", "text": "A Loma de \"SAN PEDRO\" egy látványosság Quevedóban.", "category": "landmark", "coords": [-79.47047, -1.040157]}, {"name": "Loma del \"DIABLO\"", "text": "A Loma del \"DIABLO\" egy látványosság Quevedóban.", "category": "landmark", "coords": [-79.469315, -1.042325]}, {"name": "Loma de las \"VACAS\"", "text": "A Loma de las \"VACAS\" egy látványosság Quevedóban.", "category": "landmark", "coords": [-79.471724, -1.028587]}], "ro": [{"name": "PALACIO DE CRISTAL", "text": "PALACIO DE CRISTAL este un teatru în Quevedo.", "category": "cultural", "coords": [-79.464931, -1.02392]}, {"name": "Área verde en Ladera", "text": "Área verde en Ladera este o rezervație naturală în Quevedo.", "category": "natural", "coords": [-79.473697, -1.034248]}, {"name": "Reserva de Bosque Natural del Sr. Gerardo Jácome", "text": "Reserva de Bosque Natural del Sr. Gerardo Jácome este o rezervație naturală în Quevedo.", "category": "natural", "coords": [-79.444026, -1.035557]}, {"name": "PLAZA CIVICA", "text": "PLAZA CIVICA din Quevedo, Ecuador, este un monument urban care vă invită să faceți o pauză. Chiar și fără acces direct la plajă, acest loc oferă o atmosferă locală plăcută, unde vizitatorii pot experimenta cultura orașului. Vă puteți plimba în mod relaxat aici și puteți privi agitația localnicilor. O vizită poate fi minunat combinată cu o plimbare de explorare prin centrul orașului.", "category": "historical", "coords": [-79.468262, -1.030866]}, {"name": "Monumento a la Madre", "text": "Monumento a la Madre este un monument în Quevedo.", "category": "historical", "coords": [-79.465708, -1.021723]}, {"name": "Parque el avión", "text": "Parque el avión este o atracție în Quevedo.", "category": "landmark", "coords": [-79.474844, -1.038341]}, {"name": "Monumento a los Héroes del Cenepa", "text": "Monumento a los Héroes del Cenepa este un monument în Quevedo.", "category": "historical", "coords": [-79.46705, -1.006165]}, {"name": "Loma de \"SAN PEDRO\"", "text": "Loma de \"SAN PEDRO\" este o atracție în Quevedo.", "category": "landmark", "coords": [-79.47047, -1.040157]}, {"name": "Loma del \"DIABLO\"", "text": "Loma del \"DIABLO\" este o atracție în Quevedo.", "category": "landmark", "coords": [-79.469315, -1.042325]}, {"name": "Loma de las \"VACAS\"", "text": "Loma de las \"VACAS\" este o atracție în Quevedo.", "category": "landmark", "coords": [-79.471724, -1.028587]}], "en": [{"name": "PALACIO DE CRISTAL", "text": "PALACIO DE CRISTAL is a theatre in Quevedo.", "category": "cultural", "coords": [-79.464931, -1.02392]}, {"name": "Área verde en Ladera", "text": "Área verde en Ladera is a nature reserve in Quevedo.", "category": "natural", "coords": [-79.473697, -1.034248]}, {"name": "Reserva de Bosque Natural del Sr. Gerardo Jácome", "text": "The Reserva de Bosque Natural del Sr. Gerardo Jácome is a nature reserve in Quevedo.", "category": "natural", "coords": [-79.444026, -1.035557]}, {"name": "PLAZA CIVICA", "text": "The PLAZA CIVICA in Quevedo, Ecuador, is an urban monument that invites you to pause for a moment. Even without direct beach access, this location offers a pleasant local atmosphere where visitors can experience the city's culture. You can take a relaxed walk here and watch the bustle of the locals. A visit can be wonderfully combined with an exploratory stroll through the city center.", "category": "historical", "coords": [-79.468262, -1.030866]}, {"name": "Monumento a la Madre", "text": "Monumento a la Madre is a monument in Quevedo.", "category": "historical", "coords": [-79.465708, -1.021723]}, {"name": "Parque el avión", "text": "Parque el avión is an attraction in Quevedo.", "category": "landmark", "coords": [-79.474844, -1.038341]}, {"name": "Monumento a los Héroes del Cenepa", "text": "Monumento a los Héroes del Cenepa is a monument in Quevedo.", "category": "historical", "coords": [-79.46705, -1.006165]}, {"name": "Loma de \"SAN PEDRO\"", "text": "Loma de \"SAN PEDRO\" is an attraction in Quevedo.", "category": "landmark", "coords": [-79.47047, -1.040157]}, {"name": "Loma del \"DIABLO\"", "text": "Loma del \"DIABLO\" is an attraction in Quevedo.", "category": "landmark", "coords": [-79.469315, -1.042325]}, {"name": "Loma de las \"VACAS\"", "text": "Loma de las \"VACAS\" is an attraction in Quevedo.", "category": "landmark", "coords": [-79.471724, -1.028587]}]},
+    id: "quevedo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "PALACIO DE CRISTAL",
+                  "text": "Kristallpalast, ein glaswandiges Kulturzentrum in Quevedo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.464931,
+                        -1.02392
+                  ]
+            },
+            {
+                  "name": "Área verde en Ladera",
+                  "text": "Eine Grünfläche am Hang in Quevedo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.473697,
+                        -1.034248
+                  ]
+            },
+            {
+                  "name": "Reserva de Bosque Natural del Sr. Gerardo Jácome",
+                  "text": "Das nach Herrn Gerardo Jácome benannte Naturwaldreservat.",
+                  "category": "natural",
+                  "coords": [
+                        -79.444026,
+                        -1.035557
+                  ]
+            },
+            {
+                  "name": "PLAZA CIVICA",
+                  "text": "Die PLAZA CIVICA in Quevedo, Ecuador, ist ein städtisches Denkmal, das zum Innehalten einlädt. Auch ohne direkten Strandzugang bietet dieser Ort eine angenehme lokale Atmosphäre, in der Besucher die Kultur der Stadt erleben können. Man kann hier entspannt spazieren gehen und das Treiben der Einheimischen beobachten. Ein Besuch lässt sich wunderbar mit einem Erkundungsgang durch die Innenstadt verbinden.",
+                  "category": "historical",
+                  "coords": [
+                        -79.468262,
+                        -1.030866
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Mutterdenkmal, eine Skulptur in Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.465708,
+                        -1.021723
+                  ]
+            },
+            {
+                  "name": "Parque el avión",
+                  "text": "Flugzeugpark mit einem ausgemusterten Flugzeug.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.474844,
+                        -1.038341
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes del Cenepa",
+                  "text": "Denkmal zu Ehren der Helden des Cenepa-Krieges.",
+                  "category": "historical",
+                  "coords": [
+                        -79.46705,
+                        -1.006165
+                  ]
+            },
+            {
+                  "name": "Loma de \"SAN PEDRO\"",
+                  "text": "San-Pedro-Hügel, ein markanter Aussichtspunkt über Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.47047,
+                        -1.040157
+                  ]
+            },
+            {
+                  "name": "Loma del \"DIABLO\"",
+                  "text": "Teufelshügel, ein bemerkenswerter Hügel in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.469315,
+                        -1.042325
+                  ]
+            },
+            {
+                  "name": "Loma de las \"VACAS\"",
+                  "text": "Kuhhügel, benannt nach seiner Form oder weidenden Kühen.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471724,
+                        -1.028587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PALACIO DE CRISTAL",
+                  "text": "Kristálypalota, egy üvegfalú kulturális központ Quevedóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.464931,
+                        -1.02392
+                  ]
+            },
+            {
+                  "name": "Área verde en Ladera",
+                  "text": "Egy zöldterület egy domboldalon Quevedóban.",
+                  "category": "natural",
+                  "coords": [
+                        -79.473697,
+                        -1.034248
+                  ]
+            },
+            {
+                  "name": "Reserva de Bosque Natural del Sr. Gerardo Jácome",
+                  "text": "Gerardo Jácome úrról elnevezett természetes erdőrezervátum.",
+                  "category": "natural",
+                  "coords": [
+                        -79.444026,
+                        -1.035557
+                  ]
+            },
+            {
+                  "name": "PLAZA CIVICA",
+                  "text": "Az ecuadori Quevedóban található PLAZA CIVICA egy városi emlékmű, amely egy kis megállásra késztet. Még közvetlen tengerparti hozzáférés nélkül is kellemes helyi hangulatot kínál ez a hely, ahol a látogatók megtapasztalhatják a város kultúráját. Itt nyugodtan sétálhatunk és megfigyelhetjük a helyiek nyüzsgését. Egy itteni látogatás csodálatosan összekapcsolható a belváros felfedezésével.",
+                  "category": "historical",
+                  "coords": [
+                        -79.468262,
+                        -1.030866
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Anyák emlékműve, egy szobor Quevedóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.465708,
+                        -1.021723
+                  ]
+            },
+            {
+                  "name": "Parque el avión",
+                  "text": "Repülőgép park egy leszerelt repülőgéppel.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.474844,
+                        -1.038341
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes del Cenepa",
+                  "text": "Emlékmű a Cenepa-háború hőseinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -79.46705,
+                        -1.006165
+                  ]
+            },
+            {
+                  "name": "Loma de \"SAN PEDRO\"",
+                  "text": "San Pedro-domb, egy kiemelkedő kilátópont Quevedo felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.47047,
+                        -1.040157
+                  ]
+            },
+            {
+                  "name": "Loma del \"DIABLO\"",
+                  "text": "Ördög-domb, egy figyelemre méltó domb Quevedóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.469315,
+                        -1.042325
+                  ]
+            },
+            {
+                  "name": "Loma de las \"VACAS\"",
+                  "text": "Tehén-domb, formájáról vagy legelő tehenekről elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471724,
+                        -1.028587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PALACIO DE CRISTAL",
+                  "text": "Palatul de Cristal, un centru cultural cu pereți de sticlă în Quevedo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.464931,
+                        -1.02392
+                  ]
+            },
+            {
+                  "name": "Área verde en Ladera",
+                  "text": "O zonă verde pe o pantă în Quevedo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.473697,
+                        -1.034248
+                  ]
+            },
+            {
+                  "name": "Reserva de Bosque Natural del Sr. Gerardo Jácome",
+                  "text": "Rezervația naturală de pădure numită după domnul Gerardo Jácome.",
+                  "category": "natural",
+                  "coords": [
+                        -79.444026,
+                        -1.035557
+                  ]
+            },
+            {
+                  "name": "PLAZA CIVICA",
+                  "text": "PLAZA CIVICA din Quevedo, Ecuador, este un monument urban care vă invită să faceți o pauză. Chiar și fără acces direct la plajă, acest loc oferă o atmosferă locală plăcută, unde vizitatorii pot experimenta cultura orașului. Vă puteți plimba în mod relaxat aici și puteți privi agitația localnicilor. O vizită poate fi minunat combinată cu o plimbare de explorare prin centrul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -79.468262,
+                        -1.030866
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumentul Mamei, o sculptură în Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.465708,
+                        -1.021723
+                  ]
+            },
+            {
+                  "name": "Parque el avión",
+                  "text": "Parcul avionului, cu o aeronavă dezafectată.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.474844,
+                        -1.038341
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes del Cenepa",
+                  "text": "Monumentul eroilor războiului Cenepa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.46705,
+                        -1.006165
+                  ]
+            },
+            {
+                  "name": "Loma de \"SAN PEDRO\"",
+                  "text": "Dealul San Pedro, un reper proeminent deasupra Quevedoului.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.47047,
+                        -1.040157
+                  ]
+            },
+            {
+                  "name": "Loma del \"DIABLO\"",
+                  "text": "Dealul Diavolului, un deal notabil în Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.469315,
+                        -1.042325
+                  ]
+            },
+            {
+                  "name": "Loma de las \"VACAS\"",
+                  "text": "Dealul Vacilor, numit după forma sa sau după vitele care pasc.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471724,
+                        -1.028587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PALACIO DE CRISTAL",
+                  "text": "Crystal Palace, a glass-walled cultural center in Quevedo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.464931,
+                        -1.02392
+                  ]
+            },
+            {
+                  "name": "Área verde en Ladera",
+                  "text": "A green area on a hillside in Quevedo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.473697,
+                        -1.034248
+                  ]
+            },
+            {
+                  "name": "Reserva de Bosque Natural del Sr. Gerardo Jácome",
+                  "text": "Natural forest reserve named after Sr. Gerardo Jácome.",
+                  "category": "natural",
+                  "coords": [
+                        -79.444026,
+                        -1.035557
+                  ]
+            },
+            {
+                  "name": "PLAZA CIVICA",
+                  "text": "The PLAZA CIVICA in Quevedo, Ecuador, is an urban monument that invites you to pause for a moment. Even without direct beach access, this location offers a pleasant local atmosphere where visitors can experience the city's culture. You can take a relaxed walk here and watch the bustle of the locals. A visit can be wonderfully combined with an exploratory stroll through the city center.",
+                  "category": "historical",
+                  "coords": [
+                        -79.468262,
+                        -1.030866
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monument to mothers, a sculpture in Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.465708,
+                        -1.021723
+                  ]
+            },
+            {
+                  "name": "Parque el avión",
+                  "text": "Airplane park featuring a decommissioned aircraft.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.474844,
+                        -1.038341
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes del Cenepa",
+                  "text": "Monument commemorating the heroes of the Cenepa War.",
+                  "category": "historical",
+                  "coords": [
+                        -79.46705,
+                        -1.006165
+                  ]
+            },
+            {
+                  "name": "Loma de \"SAN PEDRO\"",
+                  "text": "San Pedro Hill, a prominent landmark overlooking Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.47047,
+                        -1.040157
+                  ]
+            },
+            {
+                  "name": "Loma del \"DIABLO\"",
+                  "text": "Devil's Hill, a notable hill in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.469315,
+                        -1.042325
+                  ]
+            },
+            {
+                  "name": "Loma de las \"VACAS\"",
+                  "text": "Cows Hill, named for its shape or grazing cattle.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471724,
+                        -1.028587
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-R",
     coords: [-79.4635, -1.0286],
@@ -831,7 +3054,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Julio Viteri Gamboa",
-                  "text": "Das Museo Julio Viteri Gamboa ist eine kulturelle Einrichtung und ein Museum in Milagro.",
+                  "text": "Museum, das dem Künstler Julio Viteri Gamboa gewidmet ist und seine Werke zeigt.",
                   "category": "museum",
                   "coords": [
                         -79.601126,
@@ -840,7 +3063,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de PETITA",
-                  "text": "Die Casa de PETITA ist eine burgähnliche Struktur in Milagro.",
+                  "text": "Petitas Haus, ein historisches, schlossähnliches Gebäude in Milagro.",
                   "category": "castle",
                   "coords": [
                         -79.59867,
@@ -849,7 +3072,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bosque de Tecas",
-                  "text": "Teask Forest ist ein Aussichtspunkt in der Natur von Milagro.",
+                  "text": "Teask-Wald, ein bewaldetes Naturgebiet in Milagro.",
                   "category": "natural",
                   "coords": [
                         -79.590051,
@@ -858,7 +3081,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Guitarra",
-                  "text": "Monumento a la Guitarra ist ein bemerkenswertes Denkmal in Milagro.",
+                  "text": "Gitarrendenkmal, eine große gitarrenförmige Skulptur.",
                   "category": "historical",
                   "coords": [
                         -79.592819,
@@ -867,7 +3090,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Colibrí",
-                  "text": "Colibrí ist ein lokales Denkmal in der Stadt Milagro.",
+                  "text": "Kolibri-Denkmal, eine Metallskulptur eines Kolibris.",
                   "category": "historical",
                   "coords": [
                         -79.584816,
@@ -876,7 +3099,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El velero",
-                  "text": "El velero ist ein öffentliches Denkmal, das in Milagro steht.",
+                  "text": "Segelboot-Denkmal, eine Skulptur eines Segelbootes.",
                   "category": "historical",
                   "coords": [
                         -79.58942,
@@ -887,7 +3110,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Julio Viteri Gamboa",
-                  "text": "A Museo Julio Viteri Gamboa egy kulturális intézmény és múzeum Milagro városában.",
+                  "text": "Julio Viteri Gamboa művésznek szentelt múzeum, kiállítva műveit.",
                   "category": "museum",
                   "coords": [
                         -79.601126,
@@ -896,7 +3119,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de PETITA",
-                  "text": "A Casa de PETITA egy kastélyszerű építmény Milagro városában.",
+                  "text": "Petita háza, egy történelmi, kastélyszerű épület Milagróban.",
                   "category": "castle",
                   "coords": [
                         -79.59867,
@@ -905,7 +3128,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bosque de Tecas",
-                  "text": "A Teask Forest egy természeti kilátó Milagro területén.",
+                  "text": "Teask-erdő, egy erdős természeti terület Milagróban.",
                   "category": "natural",
                   "coords": [
                         -79.590051,
@@ -914,7 +3137,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Guitarra",
-                  "text": "A Monumento a la Guitarra egy figyelemre méltó emlékmű Milagro városában.",
+                  "text": "Gitár emlékmű, egy nagy gitár alakú szobor.",
                   "category": "historical",
                   "coords": [
                         -79.592819,
@@ -923,7 +3146,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Colibrí",
-                  "text": "A Colibrí egy helyi emlékmű Milagro városában.",
+                  "text": "Kolibri emlékmű, egy kolibri fém szobra.",
                   "category": "historical",
                   "coords": [
                         -79.584816,
@@ -932,7 +3155,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El velero",
-                  "text": "Az El velero egy köztéri emlékmű, amely Milagro városában áll.",
+                  "text": "Vitorláshajó emlékmű, egy vitorláshajó szobra.",
                   "category": "historical",
                   "coords": [
                         -79.58942,
@@ -943,7 +3166,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Julio Viteri Gamboa",
-                  "text": "Museo Julio Viteri Gamboa este o instituție culturală și un muzeu din Milagro.",
+                  "text": "Muzeu dedicat artistului Julio Viteri Gamboa, prezentând lucrările sale.",
                   "category": "museum",
                   "coords": [
                         -79.601126,
@@ -952,7 +3175,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de PETITA",
-                  "text": "Casa de PETITA este o structură asemănătoare unui castel din Milagro.",
+                  "text": "Casa Petitei, o clădire istorică asemănătoare unui castel în Milagro.",
                   "category": "castle",
                   "coords": [
                         -79.59867,
@@ -961,7 +3184,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bosque de Tecas",
-                  "text": "Teask Forest este un punct de belvedere natural din Milagro.",
+                  "text": "Pădurea Teask, o zonă naturală împădurită în Milagro.",
                   "category": "natural",
                   "coords": [
                         -79.590051,
@@ -970,7 +3193,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Guitarra",
-                  "text": "Monumento a la Guitarra este un monument notabil din Milagro.",
+                  "text": "Monumentul Chitarei, o sculptură mare în formă de chitară.",
                   "category": "historical",
                   "coords": [
                         -79.592819,
@@ -979,7 +3202,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Colibrí",
-                  "text": "Colibrí este un monument local din orașul Milagro.",
+                  "text": "Monumentul Colibri, o sculptură metalică a unui colibri.",
                   "category": "historical",
                   "coords": [
                         -79.584816,
@@ -988,7 +3211,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El velero",
-                  "text": "El velero este un monument public care se află în Milagro.",
+                  "text": "Monumentul Veleiro, o sculptură a unei bărci cu pânze.",
                   "category": "historical",
                   "coords": [
                         -79.58942,
@@ -999,7 +3222,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Julio Viteri Gamboa",
-                  "text": "Museo Julio Viteri Gamboa is a cultural institution and museum located in Milagro.",
+                  "text": "Museum dedicated to artist Julio Viteri Gamboa, displaying his works.",
                   "category": "museum",
                   "coords": [
                         -79.601126,
@@ -1008,7 +3231,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de PETITA",
-                  "text": "Casa de PETITA is a castle-like structure located in Milagro.",
+                  "text": "Petita's House, a historic castle-like building in Milagro.",
                   "category": "castle",
                   "coords": [
                         -79.59867,
@@ -1017,7 +3240,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Teask Forest",
-                  "text": "Teask Forest is a natural viewpoint situated in Milagro.",
+                  "text": "Teask Forest, a wooded nature area in Milagro.",
                   "category": "natural",
                   "coords": [
                         -79.590051,
@@ -1026,7 +3249,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Guitarra",
-                  "text": "Monumento a la Guitarra is a notable monument located in Milagro.",
+                  "text": "Guitar Monument, a large guitar-shaped sculpture.",
                   "category": "historical",
                   "coords": [
                         -79.592819,
@@ -1035,7 +3258,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Colibrí",
-                  "text": "Colibrí is a local monument in the city of Milagro.",
+                  "text": "Hummingbird Monument, a metal sculpture of a hummingbird.",
                   "category": "historical",
                   "coords": [
                         -79.584816,
@@ -1044,7 +3267,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El velero",
-                  "text": "El velero is a public monument standing in Milagro.",
+                  "text": "Sailboat Monument, a sculpture of a sailboat.",
                   "category": "historical",
                   "coords": [
                         -79.58942,
@@ -1346,7 +3569,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Recinto Las Suchas",
-                  "text": "Recinto Las Suchas dient als Aussichtspunkt in Chone.",
+                  "text": "Las-Suchas-Gehöft, ein Naturgebiet mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -80.090439,
@@ -1355,7 +3578,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Raidistas",
-                  "text": "Monumento de los Raidistas ist ein Gedenkmonument in Chone.",
+                  "text": "Denkmal für die Überfallenen, das an ein historisches Ereignis erinnert.",
                   "category": "historical",
                   "coords": [
                         -80.076798,
@@ -1366,7 +3589,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Recinto Las Suchas",
-                  "text": "A Recinto Las Suchas egy kilátóhely Chone városában.",
+                  "text": "Las Suchas-birtok, egy természeti terület túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -80.090439,
@@ -1375,7 +3598,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Raidistas",
-                  "text": "A Monumento de los Raidistas egy emlékmű Chone városában.",
+                  "text": "A rablótámadók emlékműve, amely egy történelmi eseményre emlékeztet.",
                   "category": "historical",
                   "coords": [
                         -80.076798,
@@ -1386,7 +3609,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Recinto Las Suchas",
-                  "text": "Recinto Las Suchas servește drept punct de belvedere în Chone.",
+                  "text": "Incinta Las Suchas, o zonă naturală cu trasee.",
                   "category": "natural",
                   "coords": [
                         -80.090439,
@@ -1395,7 +3618,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Raidistas",
-                  "text": "Monumento de los Raidistas este un monument situat în Chone.",
+                  "text": "Monumentul Raidistilor, care comemorează un eveniment istoric.",
                   "category": "historical",
                   "coords": [
                         -80.076798,
@@ -1406,7 +3629,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Recinto Las Suchas",
-                  "text": "Recinto Las Suchas serves as a viewpoint in Chone.",
+                  "text": "Las Suchas enclosure, a natural area with trails.",
                   "category": "natural",
                   "coords": [
                         -80.090439,
@@ -1415,7 +3638,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Raidistas",
-                  "text": "Monumento de los Raidistas is a memorial monument located in Chone.",
+                  "text": "Monument to the raiders, commemorating a historical event.",
                   "category": "historical",
                   "coords": [
                         -80.076798,
@@ -1515,7 +3738,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parque Bolivar",
-                  "text": "Parque Bolivar ist ein Freizeitpark in Santa Rosa.",
+                  "text": "Bolívar-Park, ein familienfreundlicher Park in Rosa.",
                   "category": "family",
                   "coords": [
                         -79.959425,
@@ -1524,7 +3747,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Heroes",
-                  "text": "Monumento de los Heroes ist ein Denkmal zur Erinnerung an Helden in Santa Rosa.",
+                  "text": "Helden-Denkmal, ein Kriegerdenkmal in Rosa.",
                   "category": "historical",
                   "coords": [
                         -79.959741,
@@ -1533,7 +3756,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Antonio José de Sucre",
-                  "text": "Parque Antonio José de Sucre ist ein lokales Denkmal in Santa Rosa.",
+                  "text": "Sucre-Park, ein historischer Park, benannt nach dem Marschall.",
                   "category": "historical",
                   "coords": [
                         -79.960701,
@@ -1542,7 +3765,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de la Madre",
-                  "text": "Parque de la Madre ist ein Denkmal in der Stadt Santa Rosa.",
+                  "text": "Mutter-Park, ein den Müttern gewidmeter Park.",
                   "category": "historical",
                   "coords": [
                         -79.961706,
@@ -1551,7 +3774,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Redondel El Pescador",
-                  "text": "Redondel El Pescador ist ein markantes Denkmal in Santa Rosa.",
+                  "text": "El-Pescador-Kreisverkehr, ein Verkehrskreisel mit einer Fischerstatue.",
                   "category": "historical",
                   "coords": [
                         -79.966194,
@@ -1562,7 +3785,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parque Bolivar",
-                  "text": "A Parque Bolivar egy vidámpark Santa Rosa városában.",
+                  "text": "Bolívar Park, egy családbarát park Rosában.",
                   "category": "family",
                   "coords": [
                         -79.959425,
@@ -1571,7 +3794,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Heroes",
-                  "text": "A Monumento de los Heroes egy hősöknek emléket állító emlékmű Santa Rosa városában.",
+                  "text": "Hősök emlékműve, egy háborús emlékmű Rosában.",
                   "category": "historical",
                   "coords": [
                         -79.959741,
@@ -1580,7 +3803,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Antonio José de Sucre",
-                  "text": "A Parque Antonio José de Sucre egy helyi emlékmű Santa Rosa városában.",
+                  "text": "Sucre Park, egy történelmi park, amely a marsallról kapta a nevét.",
                   "category": "historical",
                   "coords": [
                         -79.960701,
@@ -1589,7 +3812,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de la Madre",
-                  "text": "A Parque de la Madre egy emlékmű Santa Rosa városában.",
+                  "text": "Anyák Parkja, egy park az anyák tiszteletére.",
                   "category": "historical",
                   "coords": [
                         -79.961706,
@@ -1598,7 +3821,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Redondel El Pescador",
-                  "text": "A Redondel El Pescador egy jellegzetes emlékmű Santa Rosa városában.",
+                  "text": "El Pescador körforgalom, egy körforgalom halászszoborral.",
                   "category": "historical",
                   "coords": [
                         -79.966194,
@@ -1609,7 +3832,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parque Bolivar",
-                  "text": "Parque Bolivar este un parc tematic situat în Santa Rosa.",
+                  "text": "Parcul Bolívar, un parc prietenos pentru familii în Rosa.",
                   "category": "family",
                   "coords": [
                         -79.959425,
@@ -1618,7 +3841,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Heroes",
-                  "text": "Monumento de los Heroes este un monument dedicat eroilor din Santa Rosa.",
+                  "text": "Monumentul Eroilor, un memorial de război în Rosa.",
                   "category": "historical",
                   "coords": [
                         -79.959741,
@@ -1627,7 +3850,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Antonio José de Sucre",
-                  "text": "Parque Antonio José de Sucre este un monument local din Santa Rosa.",
+                  "text": "Parcul Sucre, un parc istoric numit după mareșal.",
                   "category": "historical",
                   "coords": [
                         -79.960701,
@@ -1636,7 +3859,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de la Madre",
-                  "text": "Parque de la Madre este un monument situat în orașul Santa Rosa.",
+                  "text": "Parcul Mamei, un parc dedicat mamelor.",
                   "category": "historical",
                   "coords": [
                         -79.961706,
@@ -1645,7 +3868,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Redondel El Pescador",
-                  "text": "Redondel El Pescador este un monument distinctiv din Santa Rosa.",
+                  "text": "Sensul giratoriu El Pescador, cu o statuie a pescarului.",
                   "category": "historical",
                   "coords": [
                         -79.966194,
@@ -1656,7 +3879,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parque Bolivar",
-                  "text": "Parque Bolivar is a theme park located in Santa Rosa.",
+                  "text": "Bolivar Park, a family-friendly park in Rosa.",
                   "category": "family",
                   "coords": [
                         -79.959425,
@@ -1665,7 +3888,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de los Heroes",
-                  "text": "Monumento de los Heroes is a monument honoring heroes in Santa Rosa.",
+                  "text": "Monument to the heroes, a war memorial in Rosa.",
                   "category": "historical",
                   "coords": [
                         -79.959741,
@@ -1674,7 +3897,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Antonio José de Sucre",
-                  "text": "Parque Antonio José de Sucre is a local monument situated in Santa Rosa.",
+                  "text": "Sucre Park, a historical park named after the marshal.",
                   "category": "historical",
                   "coords": [
                         -79.960701,
@@ -1683,7 +3906,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de la Madre",
-                  "text": "Parque de la Madre is a monument located in the city of Santa Rosa.",
+                  "text": "Mother's Park, a park dedicated to mothers.",
                   "category": "historical",
                   "coords": [
                         -79.961706,
@@ -1692,7 +3915,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Redondel El Pescador",
-                  "text": "Redondel El Pescador is a distinctive monument in Santa Rosa.",
+                  "text": "El Pescador roundabout, a traffic circle with a fisherman statue.",
                   "category": "historical",
                   "coords": [
                         -79.966194,
@@ -1874,7 +4097,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro Municipal Víctor Véliz Macías",
-                  "text": "Das Teatro Municipal Víctor Véliz Macías ist ein Theater in Montecristi.",
+                  "text": "Städtisches Theater Víctor Véliz Macías, eine Bühne für darstellende Künste.",
                   "category": "cultural",
                   "coords": [
                         -80.659005,
@@ -1883,7 +4106,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Eloy Alfaro",
-                  "text": "Das Eloy Alfaro Museum ist ein der Geschichte gewidmetes Museum in Montecristi.",
+                  "text": "Eloy-Alfaro-Museum, dem Präsidenten Eloy Alfaro in seiner Heimatstadt gewidmet.",
                   "category": "museum",
                   "coords": [
                         -80.663128,
@@ -1892,7 +4115,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Cancebí",
-                  "text": "Das Museo Cancebí ist ein lokales Museum in Montecristi.",
+                  "text": "Cancebí-Museum mit lokalen archäologischen Funden.",
                   "category": "museum",
                   "coords": [
                         -80.663789,
@@ -1901,7 +4124,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro Montecristi",
-                  "text": "Cerro Montecristi ist ein Berggipfel in der Region Montecristi.",
+                  "text": "Ein Hügel mit einem großen Kreuz auf dem Gipfel, Wahrzeichen von Montecristi.",
                   "category": "natural",
                   "coords": [
                         -80.670397,
@@ -1912,7 +4135,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro Municipal Víctor Véliz Macías",
-                  "text": "A Teatro Municipal Víctor Véliz Macías egy színház Montecristi városában.",
+                  "text": "Víctor Véliz Macías Városi Színház, előadóművészeti helyszín.",
                   "category": "cultural",
                   "coords": [
                         -80.659005,
@@ -1921,7 +4144,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Eloy Alfaro",
-                  "text": "Az Eloy Alfaro Museum egy történelemnek szentelt múzeum Montecristi városában.",
+                  "text": "Eloy Alfaro Múzeum, amely Eloy Alfaro elnöknek szentelt szülővárosában.",
                   "category": "museum",
                   "coords": [
                         -80.663128,
@@ -1930,7 +4153,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Cancebí",
-                  "text": "A Museo Cancebí egy helyi múzeum Montecristi városában.",
+                  "text": "Cancebí Múzeum, helyi régészeti leletekkel.",
                   "category": "museum",
                   "coords": [
                         -80.663789,
@@ -1939,7 +4162,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro Montecristi",
-                  "text": "A Cerro Montecristi egy hegycsúcs Montecristi térségében.",
+                  "text": "Egy domb nagy kereszttel a csúcsán, Montecristi jelképe.",
                   "category": "natural",
                   "coords": [
                         -80.670397,
@@ -1950,7 +4173,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro Municipal Víctor Véliz Macías",
-                  "text": "Teatro Municipal Víctor Véliz Macías este un teatru din Montecristi.",
+                  "text": "Teatrul Municipal Víctor Véliz Macías, o locație pentru artele spectacolului.",
                   "category": "cultural",
                   "coords": [
                         -80.659005,
@@ -1959,7 +4182,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Eloy Alfaro",
-                  "text": "Eloy Alfaro Museum este un muzeu dedicat istoriei situat în Montecristi.",
+                  "text": "Muzeul Eloy Alfaro, dedicat președintelui Eloy Alfaro în orașul său natal.",
                   "category": "museum",
                   "coords": [
                         -80.663128,
@@ -1968,7 +4191,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Cancebí",
-                  "text": "Museo Cancebí este un muzeu local din Montecristi.",
+                  "text": "Muzeul Cancebí, cu descoperiri arheologice locale.",
                   "category": "museum",
                   "coords": [
                         -80.663789,
@@ -1977,7 +4200,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro Montecristi",
-                  "text": "Cerro Montecristi este un vârf montan din regiunea Montecristi.",
+                  "text": "Un deal cu o cruce mare pe vârf, simbol al orașului Montecristi.",
                   "category": "natural",
                   "coords": [
                         -80.670397,
@@ -1988,7 +4211,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro Municipal Víctor Véliz Macías",
-                  "text": "Teatro Municipal Víctor Véliz Macías is a theatre located in Montecristi.",
+                  "text": "Victor Veliz Macias Municipal Theater, a venue for performing arts.",
                   "category": "cultural",
                   "coords": [
                         -80.659005,
@@ -1997,7 +4220,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Eloy Alfaro Museum",
-                  "text": "Eloy Alfaro Museum is a museum dedicated to history located in Montecristi.",
+                  "text": "Museum dedicated to President Eloy Alfaro, in his hometown.",
                   "category": "museum",
                   "coords": [
                         -80.663128,
@@ -2006,7 +4229,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Cancebí",
-                  "text": "Museo Cancebí is a local museum in Montecristi.",
+                  "text": "Cancebí Museum, displaying local archaeological finds.",
                   "category": "museum",
                   "coords": [
                         -80.663789,
@@ -2015,7 +4238,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro Montecristi",
-                  "text": "Cerro Montecristi is a mountain peak situated in the Montecristi region.",
+                  "text": "A hill with a large cross at the summit, symbol of Montecristi.",
                   "category": "natural",
                   "coords": [
                         -80.670397,
@@ -2071,7 +4294,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "El Leon",
-                  "text": "El Leon ist ein Denkmal in Samborondón.",
+                  "text": "Löwendenkmal, eine Statue eines Löwen.",
                   "category": "historical",
                   "coords": [
                         -79.726386,
@@ -2080,7 +4303,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Caballo Pelotón",
-                  "text": "Caballo Pelotón ist ein Denkmal in Samborondón.",
+                  "text": "Kavalleriepferd-Denkmal, eine Statue eines Pferdes und Reiters.",
                   "category": "historical",
                   "coords": [
                         -79.726455,
@@ -2089,7 +4312,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Negro Samborrendon",
-                  "text": "Negro Samborrendon ist ein Denkmal in Samborondón.",
+                  "text": "Denkmal für den schwarzen Samborondon, eine Hommage an das afrikanische Erbe.",
                   "category": "historical",
                   "coords": [
                         -79.722226,
@@ -2098,7 +4321,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Piscinas del Malecón",
-                  "text": "Piscinas del Malecón ist eine Attraktion in Samborondón.",
+                  "text": "Promenadenpools, Schwimmbecken entlang der Flusspromenade.",
                   "category": "landmark",
                   "coords": [
                         -79.722069,
@@ -2109,7 +4332,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "El Leon",
-                  "text": "Az El Leon egy emlékmű Samborondónban.",
+                  "text": "Oroszlán-emlékmű, egy oroszlán szobra.",
                   "category": "historical",
                   "coords": [
                         -79.726386,
@@ -2118,7 +4341,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Caballo Pelotón",
-                  "text": "A Caballo Pelotón egy emlékmű Samborondón városában.",
+                  "text": "Lovas katona emlékmű, egy ló és lovas szobra.",
                   "category": "historical",
                   "coords": [
                         -79.726455,
@@ -2127,7 +4350,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Negro Samborrendon",
-                  "text": "A Negro Samborrendon egy emlékmű Samborondónban.",
+                  "text": "Fekete Samborondon emlékmű, tisztelgés az afrikai örökség előtt.",
                   "category": "historical",
                   "coords": [
                         -79.722226,
@@ -2136,7 +4359,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Piscinas del Malecón",
-                  "text": "A Piscinas del Malecón egy látványosság Samborondónban.",
+                  "text": "Sétány medencék, úszómedencék a folyóparti sétány mentén.",
                   "category": "landmark",
                   "coords": [
                         -79.722069,
@@ -2147,7 +4370,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "El Leon",
-                  "text": "El Leon este un monument aflat în Samborondón.",
+                  "text": "Monumentul Leului, o statuie a unui leu.",
                   "category": "historical",
                   "coords": [
                         -79.726386,
@@ -2156,7 +4379,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Caballo Pelotón",
-                  "text": "Caballo Pelotón este un monument situat în Samborondón.",
+                  "text": "Monumentul Calului de Cavalerie, o statuie a unui cal și călăreț.",
                   "category": "historical",
                   "coords": [
                         -79.726455,
@@ -2165,7 +4388,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Negro Samborrendon",
-                  "text": "Negro Samborrendon este un monument din Samborondón.",
+                  "text": "Monumentul Negrului Samborondon, un omagiu adus moștenirii africane.",
                   "category": "historical",
                   "coords": [
                         -79.722226,
@@ -2174,7 +4397,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Piscinas del Malecón",
-                  "text": "Piscinas del Malecón este o atracție în Samborondón.",
+                  "text": "Piscinele Promenadei, piscine de-a lungul falezei râului.",
                   "category": "landmark",
                   "coords": [
                         -79.722069,
@@ -2185,7 +4408,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "El Leon",
-                  "text": "El Leon is a public monument found in Samborondón.",
+                  "text": "The Lion Monument, a statue of a lion.",
                   "category": "historical",
                   "coords": [
                         -79.726386,
@@ -2194,7 +4417,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Caballo Pelotón",
-                  "text": "Caballo Pelotón is a monument situated in Samborondón.",
+                  "text": "Cavalry Horse Monument, a statue of a horse and rider.",
                   "category": "historical",
                   "coords": [
                         -79.726455,
@@ -2203,7 +4426,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Negro Samborrendon",
-                  "text": "Negro Samborrendon is a monument located in Samborondón.",
+                  "text": "Monument to the Black Samborondon, a tribute to African heritage.",
                   "category": "historical",
                   "coords": [
                         -79.722226,
@@ -2212,7 +4435,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Piscinas del Malecón",
-                  "text": "Piscinas del Malecón is an attraction in Samborondón.",
+                  "text": "Promenade Pools, swimming pools along the riverside walkway.",
                   "category": "landmark",
                   "coords": [
                         -79.722069,
@@ -2306,7 +4529,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monumento a la Libertad",
-                  "text": "Das Monumento a la Libertad ist ein Denkmal in Jipijapa.",
+                  "text": "Freiheitsdenkmal auf dem Hauptplatz von Jipijapa.",
                   "category": "historical",
                   "coords": [
                         -80.579187,
@@ -2315,7 +4538,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento al Choclo",
-                  "text": "Das Monumento al Choclo ist ein Denkmal in Jipijapa.",
+                  "text": "Monumento al Choclo, eine riesige Maiskolben-Skulptur in Jipijapa.",
                   "category": "historical",
                   "coords": [
                         -80.578898,
@@ -2326,7 +4549,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento a la Libertad",
-                  "text": "A Monumento a la Libertad egy emlékmű Jipijapában.",
+                  "text": "Szabadság-emlékmű Jipijapa főterén.",
                   "category": "historical",
                   "coords": [
                         -80.579187,
@@ -2335,7 +4558,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento al Choclo",
-                  "text": "A Monumento al Choclo egy emlékmű Jipijapában.",
+                  "text": "Monumento al Choclo, egy hatalmas kukoricacső-szobor Jipijapában.",
                   "category": "historical",
                   "coords": [
                         -80.578898,
@@ -2346,7 +4569,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento a la Libertad",
-                  "text": "Monumento a la Libertad este un monument din Jipijapa.",
+                  "text": "Monumentul Libertății în piața centrală din Jipijapa.",
                   "category": "historical",
                   "coords": [
                         -80.579187,
@@ -2355,7 +4578,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento al Choclo",
-                  "text": "Monumento al Choclo este un monument din Jipijapa.",
+                  "text": "Monumento al Choclo, o sculptură uriașă de porumb în Jipijapa.",
                   "category": "historical",
                   "coords": [
                         -80.578898,
@@ -2366,7 +4589,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monumento a la Libertad",
-                  "text": "The Monumento a la Libertad is a monument in Jipijapa.",
+                  "text": "Freedom monument on the main square of Jipijapa.",
                   "category": "historical",
                   "coords": [
                         -80.579187,
@@ -2375,7 +4598,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento al Choclo",
-                  "text": "The Monumento al Choclo is a monument in Jipijapa.",
+                  "text": "Monumento al Choclo, a giant corn cob sculpture in Jipijapa.",
                   "category": "historical",
                   "coords": [
                         -80.578898,
@@ -2459,7 +4682,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bolivar",
-                  "text": "Das Bolivar ist ein Theater für darstellende Künste in Otavalo.",
+                  "text": "Bolívar-Statue im zentralen Park von Otavalo.",
                   "category": "cultural",
                   "coords": [
                         -78.262739,
@@ -2468,7 +4691,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo y cueva Inca",
-                  "text": "Das Museo y cueva Inca ist ein Museum in Otavalo.",
+                  "text": "Museum mit einer Inka-Höhle in der Nähe des Stadtzentrums von Otavalo.",
                   "category": "museum",
                   "coords": [
                         -78.239833,
@@ -2477,7 +4700,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del Pueblo Kichwa Otavalo",
-                  "text": "Das Museo del Pueblo Kichwa Otavalo ist ein Museum in Otavalo.",
+                  "text": "Museum der Kichwa-Volksgruppe von Otavalo mit traditionellen Textilien und Kunsthandwerk.",
                   "category": "museum",
                   "coords": [
                         -78.26752,
@@ -2486,7 +4709,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Inti Watana (calendario solar)",
-                  "text": "Inti Watana ist eine archäologische Stätte in Otavalo.",
+                  "text": "Inti Watana – ein präkolumbischer Sonnenkalender aus Stein auf einem Hügel bei Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.242636,
@@ -2495,7 +4718,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "molino de las Almas",
-                  "text": "Die molino de las Almas ist eine Ruinenstätte in Otavalo.",
+                  "text": "Molino de las Almas, eine historische Wassermühle im Umland von Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.266468,
@@ -2504,7 +4727,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Metalicas Flores 946 282",
-                  "text": "Metalicas Flores 946 282 ist ein Aussichtspunkt in Otavalo.",
+                  "text": "Metallblumenskulpturen in einem Naturpark in Otavalo.",
                   "category": "natural",
                   "coords": [
                         -78.258543,
@@ -2513,7 +4736,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "San Juan Kapilla",
-                  "text": "San Juan Kapilla ist eine Sehenswürdigkeit in Otavalo.",
+                  "text": "San Juan-Kapelle, eine kleine historische Kapelle im Viertel San Juan von Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.270018,
@@ -2522,7 +4745,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Taller ÑANDA MAÑACHI",
-                  "text": "Taller ÑANDA MAÑACHI ist eine Sehenswürdigkeit in Otavalo.",
+                  "text": "Ñanda Mañachi-Werkstatt, bekannt für traditionelle Otavalo-Textilweberei.",
                   "category": "landmark",
                   "coords": [
                         -78.245084,
@@ -2531,7 +4754,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Corazón de manzana",
-                  "text": "Corazón de manzana ist ein Aussichtspunkt in Otavalo.",
+                  "text": "Corazón de Manzana, ein herzförmiger Apfelgarten im Tal von Otavalo.",
                   "category": "natural",
                   "coords": [
                         -78.26256,
@@ -2540,7 +4763,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la gruta",
-                  "text": "Virgen de la gruta ist ein Denkmal in Otavalo.",
+                  "text": "Virgen de la Gruta, ein Grottenheiligtum der Jungfrau Maria am Hang über Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.258796,
@@ -2549,7 +4772,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Plataforma de Vuelo",
-                  "text": "Plataforma de Vuelo ist eine Sehenswürdigkeit in Otavalo.",
+                  "text": "Startplatz für Gleitschirmflieger mit Blick auf Otavalo und den Vulkan Imbabura.",
                   "category": "landmark",
                   "coords": [
                         -78.240887,
@@ -2558,7 +4781,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina La Playita",
-                  "text": "Piscina La Playita ist eine Attraktion in Otavalo.",
+                  "text": "La Playita, ein öffentliches Schwimmbad und beliebtes Erholungsziel in Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.256718,
@@ -2567,7 +4790,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Colgante \"El Platanillo\"",
-                  "text": "Die Hängebrücke Puente Colgante \"El Platanillo\" ist eine Attraktion in Otavalo.",
+                  "text": "Hängebrücke El Platanillo über eine Schlucht nahe Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.241723,
@@ -2576,7 +4799,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Tunel Subterraneo",
-                  "text": "Tunel Subterraneo ist eine Sehenswürdigkeit in Otavalo.",
+                  "text": "Unterirdischer Tunnel, möglicherweise inkaischen Ursprungs, am Stadtrand von Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.238395,
@@ -2585,7 +4808,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bazar Victoria 100 años",
-                  "text": "Bazar Victoria 100 age ist eine Attraktion in Otavalo.",
+                  "text": "Bazar Victoria, ein hundert Jahre alter Markt für Kunsthandwerk in Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.265505,
@@ -2594,7 +4817,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El Lechero",
-                  "text": "El Lechero ist ein Aussichtspunkt in Otavalo.",
+                  "text": "El Lechero, ein legendärer heiliger Baum in Otavalo mit angeblichen Heilkräften.",
                   "category": "natural",
                   "coords": [
                         -78.245191,
@@ -2603,7 +4826,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Los Danzantes",
-                  "text": "Los Danzantes ist ein Denkmal in Otavalo.",
+                  "text": "Los Danzantes, präkolumbische Steinschnitzereien von Tänzern nahe Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.258622,
@@ -2612,7 +4835,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Meet",
-                  "text": "Meet ist eine Attraktion in Otavalo.",
+                  "text": "Meet, ein Gemeinschaftstreffpunkt im zentralen Viertel von Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.262066,
@@ -2621,7 +4844,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Muralla Pintada",
-                  "text": "Die Painted wall ist eine Sehenswürdigkeit in Otavalo.",
+                  "text": "Bemalte Wand mit bunten Otavalo-Motiven an der Calle Bolívar.",
                   "category": "landmark",
                   "coords": [
                         -78.26034,
@@ -2641,7 +4864,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bolivar",
-                  "text": "A Bolivar egy előadóművészeti színház Otavalo városában.",
+                  "text": "Bolívar-szobor Otavalo központi parkjában.",
                   "category": "cultural",
                   "coords": [
                         -78.262739,
@@ -2650,7 +4873,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo y cueva Inca",
-                  "text": "A Museo y cueva Inca egy múzeum Otavalóban.",
+                  "text": "Múzeum egy inka barlanggal Otavalo városközpontja közelében.",
                   "category": "museum",
                   "coords": [
                         -78.239833,
@@ -2659,7 +4882,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del Pueblo Kichwa Otavalo",
-                  "text": "A Museo del Pueblo Kichwa Otavalo egy múzeum Otavalóban.",
+                  "text": "Az otavalói kicsva nép múzeuma, hagyományos textilekkel és kézműves termékekkel.",
                   "category": "museum",
                   "coords": [
                         -78.26752,
@@ -2668,7 +4891,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Inti Watana (calendario solar)",
-                  "text": "Az Inti Watana egy régészeti lelőhely Otavalóban.",
+                  "text": "Inti Watana – egy prekolumbián kő napnaptár egy dombon Otavalo mellett.",
                   "category": "historical",
                   "coords": [
                         -78.242636,
@@ -2677,7 +4900,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "molino de las Almas",
-                  "text": "A molino de las Almas romok Otavalóban találhatók.",
+                  "text": "Molino de las Almas, egy történelmi vízimalom Otavalo vidékén.",
                   "category": "historical",
                   "coords": [
                         -78.266468,
@@ -2686,7 +4909,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Metalicas Flores 946 282",
-                  "text": "A Metalicas Flores 946 282 egy kilátópont Otavalóban.",
+                  "text": "Fém virágszobrok egy természeti parkban Otavalóban.",
                   "category": "natural",
                   "coords": [
                         -78.258543,
@@ -2695,7 +4918,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "San Juan Kapilla",
-                  "text": "A San Juan Kapilla egy látványosság Otavalóban.",
+                  "text": "San Juan-kápolna, egy kis történelmi kápolna Otavalo San Juan negyedében.",
                   "category": "landmark",
                   "coords": [
                         -78.270018,
@@ -2704,7 +4927,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Taller ÑANDA MAÑACHI",
-                  "text": "A Taller ÑANDA MAÑACHI egy látványosság Otavalóban.",
+                  "text": "Ñanda Mañachi műhely, híres a hagyományos otavalói textilszövésről.",
                   "category": "landmark",
                   "coords": [
                         -78.245084,
@@ -2713,7 +4936,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Corazón de manzana",
-                  "text": "A Corazón de manzana egy kilátópont Otavalóban.",
+                  "text": "Corazón de Manzana, egy szív alakú almaültetvény az otavalói völgyben.",
                   "category": "natural",
                   "coords": [
                         -78.26256,
@@ -2722,7 +4945,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la gruta",
-                  "text": "A Virgen de la gruta egy emlékmű Otavalóban.",
+                  "text": "Virgen de la Gruta, egy barlang-szentély Szűz Máriának az Otavalo fölé emelkedő domboldalon.",
                   "category": "historical",
                   "coords": [
                         -78.258796,
@@ -2731,7 +4954,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Plataforma de Vuelo",
-                  "text": "A Plataforma de Vuelo egy látványosság Otavalóban.",
+                  "text": "Siklórepülő indítóplatform, kilátással Otavalóra és az Imbabura vulkánra.",
                   "category": "landmark",
                   "coords": [
                         -78.240887,
@@ -2740,7 +4963,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina La Playita",
-                  "text": "A Piscina La Playita egy látványosság Otavalóban.",
+                  "text": "La Playita, egy nyilvános uszoda és népszerű pihenőhely Otavalóban.",
                   "category": "landmark",
                   "coords": [
                         -78.256718,
@@ -2749,7 +4972,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Colgante \"El Platanillo\"",
-                  "text": "A Puente Colgante \"El Platanillo\" egy látványosság Otavalóban.",
+                  "text": "El Platanillo függőhíd egy szurdok felett Otavalo közelében.",
                   "category": "landmark",
                   "coords": [
                         -78.241723,
@@ -2758,7 +4981,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Tunel Subterraneo",
-                  "text": "A Tunel Subterraneo egy látványosság Otavalóban.",
+                  "text": "Föld alatti alagút, feltehetően inka eredetű, Otavalo külterületén.",
                   "category": "landmark",
                   "coords": [
                         -78.238395,
@@ -2767,7 +4990,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bazar Victoria 100 años",
-                  "text": "A Bazar Victoria 100 age egy látványosság Otavalóban.",
+                  "text": "Bazar Victoria, egy százéves kézműves-piac Otavalóban.",
                   "category": "landmark",
                   "coords": [
                         -78.265505,
@@ -2776,7 +4999,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El Lechero",
-                  "text": "Az El Lechero egy kilátópont Otavalóban.",
+                  "text": "El Lechero, egy legendás szent fa Otavalóban, amelyről azt tartják, gyógyító ereje van.",
                   "category": "natural",
                   "coords": [
                         -78.245191,
@@ -2785,7 +5008,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Los Danzantes",
-                  "text": "A Los Danzantes egy emlékmű Otavalóban.",
+                  "text": "Los Danzantes, prekolumbián táncosokat ábrázoló kőfaragványok Otavalo közelében.",
                   "category": "historical",
                   "coords": [
                         -78.258622,
@@ -2794,7 +5017,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Meet",
-                  "text": "A Meet egy látványosság Otavalóban.",
+                  "text": "Meet, egy közösségi találkozóhely Otavalo központi negyedében.",
                   "category": "landmark",
                   "coords": [
                         -78.262066,
@@ -2803,7 +5026,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Muralla Pintada",
-                  "text": "A Painted wall egy látványosság Otavalóban.",
+                  "text": "Színesre festett fal otavalói motívumokkal a Bolívar utcában.",
                   "category": "landmark",
                   "coords": [
                         -78.26034,
@@ -2823,7 +5046,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bolivar",
-                  "text": "Bolivar este un teatru de arte spectacolului din Otavalo.",
+                  "text": "Statuia lui Bolívar în parcul central din Otavalo.",
                   "category": "cultural",
                   "coords": [
                         -78.262739,
@@ -2832,7 +5055,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo y cueva Inca",
-                  "text": "Museo y cueva Inca este un muzeu din Otavalo.",
+                  "text": "Muzeu cu o peșteră incașă lângă centrul orașului Otavalo.",
                   "category": "museum",
                   "coords": [
                         -78.239833,
@@ -2841,7 +5064,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del Pueblo Kichwa Otavalo",
-                  "text": "Museo del Pueblo Kichwa Otavalo este un muzeu în Otavalo.",
+                  "text": "Muzeul poporului Kichwa din Otavalo, cu textile și meșteșuguri tradiționale.",
                   "category": "museum",
                   "coords": [
                         -78.26752,
@@ -2850,7 +5073,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Inti Watana (calendario solar)",
-                  "text": "Inti Watana este un sit arheologic în Otavalo.",
+                  "text": "Inti Watana – un calendar solar precolumbian din piatră pe o colină lângă Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.242636,
@@ -2859,7 +5082,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "molino de las Almas",
-                  "text": "Molino de las Almas sunt ruine aflate în Otavalo.",
+                  "text": "Molino de las Almas, o moară de apă istorică în zona rurală a Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.266468,
@@ -2868,7 +5091,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Metalicas Flores 946 282",
-                  "text": "Metalicas Flores 946 282 este un punct de belvedere în Otavalo.",
+                  "text": "Sculpturi metalice de flori într-un parc natural din Otavalo.",
                   "category": "natural",
                   "coords": [
                         -78.258543,
@@ -2877,7 +5100,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "San Juan Kapilla",
-                  "text": "San Juan Kapilla este o atracție în Otavalo.",
+                  "text": "Capela San Juan, o mică capelă istorică în cartierul San Juan din Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.270018,
@@ -2886,7 +5109,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Taller ÑANDA MAÑACHI",
-                  "text": "Taller ÑANDA MAÑACHI este o atracție în Otavalo.",
+                  "text": "Atelierul Ñanda Mañachi, cunoscut pentru țesutul textil tradițional otavalean.",
                   "category": "landmark",
                   "coords": [
                         -78.245084,
@@ -2895,7 +5118,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Corazón de manzana",
-                  "text": "Corazón de manzana este un punct de belvedere în Otavalo.",
+                  "text": "Corazón de Manzana, o livadă de mere în formă de inimă în valea Otavalo.",
                   "category": "natural",
                   "coords": [
                         -78.26256,
@@ -2904,7 +5127,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la gruta",
-                  "text": "Virgen de la gruta este un monument din Otavalo.",
+                  "text": "Virgen de la Gruta, un sanctuar în peșteră al Fecioarei Maria pe o colină deasupra Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.258796,
@@ -2913,7 +5136,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Plataforma de Vuelo",
-                  "text": "Plataforma de Vuelo este o atracție turistică în Otavalo.",
+                  "text": "Platformă de zbor pentru parapantă, cu vedere la Otavalo și vulcanul Imbabura.",
                   "category": "landmark",
                   "coords": [
                         -78.240887,
@@ -2922,7 +5145,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina La Playita",
-                  "text": "Piscina La Playita este o atracție din Otavalo.",
+                  "text": "La Playita, o piscină publică și loc de recreere popular în Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.256718,
@@ -2931,7 +5154,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Colgante \"El Platanillo\"",
-                  "text": "Puente Colgante „El Platanillo” este o atracție în Otavalo.",
+                  "text": "Podul suspendat El Platanillo peste o râpă lângă Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.241723,
@@ -2940,7 +5163,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Tunel Subterraneo",
-                  "text": "Tunel Subterraneo este o atracție din Otavalo.",
+                  "text": "Tunel subteran, posibil de origine incașă, la periferia Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.238395,
@@ -2949,7 +5172,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bazar Victoria 100 años",
-                  "text": "Bazar Victoria 100 age este o atracție în Otavalo.",
+                  "text": "Bazar Victoria, o piață de artizanat veche de un secol în Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.265505,
@@ -2958,7 +5181,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El Lechero",
-                  "text": "El Lechero este un punct de belvedere în Otavalo.",
+                  "text": "El Lechero, un copac sacru legendar în Otavalo, despre care se crede că are puteri vindecătoare.",
                   "category": "natural",
                   "coords": [
                         -78.245191,
@@ -2967,7 +5190,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Los Danzantes",
-                  "text": "Los Danzantes este un monument din Otavalo.",
+                  "text": "Los Danzantes, sculpturi precolumbiene în piatră reprezentând dansatori lângă Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.258622,
@@ -2976,7 +5199,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Meet",
-                  "text": "Meet este o atracție în Otavalo.",
+                  "text": "Meet, un spațiu de întâlnire comunitar în cartierul central din Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.262066,
@@ -2985,7 +5208,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Muralla Pintada",
-                  "text": "Painted wall este o atracție în Otavalo.",
+                  "text": "Un zid viu colorat cu motive indigene otavalane pe strada Bolívar.",
                   "category": "landmark",
                   "coords": [
                         -78.26034,
@@ -3005,7 +5228,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bolivar",
-                  "text": "Bolivar is a performing arts theatre located in Otavalo.",
+                  "text": "Statue of Simón Bolívar in Otavalo's central park.",
                   "category": "cultural",
                   "coords": [
                         -78.262739,
@@ -3014,7 +5237,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo y cueva Inca",
-                  "text": "The Museo y cueva Inca is a museum located in Otavalo.",
+                  "text": "Museum featuring an Inca cave near Otavalo's town center.",
                   "category": "museum",
                   "coords": [
                         -78.239833,
@@ -3023,7 +5246,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo del Pueblo Kichwa Otavalo",
-                  "text": "The Museo del Pueblo Kichwa Otavalo is a museum in Otavalo.",
+                  "text": "Museum of the Otavalo Kichwa people, displaying traditional textiles and crafts.",
                   "category": "museum",
                   "coords": [
                         -78.26752,
@@ -3032,7 +5255,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Inti Watana (calendario solar)",
-                  "text": "Inti Watana is an archaeological site located in Otavalo.",
+                  "text": "Inti Watana solar calendar, a pre-Columbian stone structure on a hill near Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.242636,
@@ -3041,7 +5264,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "molino de las Almas",
-                  "text": "The molino de las Almas are ruins located in Otavalo.",
+                  "text": "Molino de las Almas, a historic water mill in the countryside of Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.266468,
@@ -3050,7 +5273,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Metalicas Flores 946 282",
-                  "text": "Metalicas Flores 946 282 is a viewpoint situated in Otavalo.",
+                  "text": "Metal flower sculptures in a natural park setting in Otavalo.",
                   "category": "natural",
                   "coords": [
                         -78.258543,
@@ -3059,7 +5282,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "San Juan Kapilla",
-                  "text": "San Juan Kapilla is an attraction located in Otavalo.",
+                  "text": "San Juan Chapel, a small historic chapel in Otavalo's San Juan neighborhood.",
                   "category": "landmark",
                   "coords": [
                         -78.270018,
@@ -3068,7 +5291,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Taller ÑANDA MAÑACHI",
-                  "text": "Taller ÑANDA MAÑACHI is an attraction in Otavalo.",
+                  "text": "Ñanda Mañachi workshop, known for traditional Otavalo textile weaving.",
                   "category": "landmark",
                   "coords": [
                         -78.245084,
@@ -3077,7 +5300,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Corazón de manzana",
-                  "text": "Corazón de manzana is a viewpoint situated in Otavalo.",
+                  "text": "Corazón de Manzana, a heart-shaped apple orchard in the Otavalo valley.",
                   "category": "natural",
                   "coords": [
                         -78.26256,
@@ -3086,7 +5309,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la gruta",
-                  "text": "Virgen de la gruta is a monument located in Otavalo.",
+                  "text": "Virgen de la Gruta, a grotto shrine to the Virgin Mary on a hillside overlooking Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.258796,
@@ -3095,7 +5318,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Plataforma de Vuelo",
-                  "text": "Plataforma de Vuelo is an attraction in Otavalo.",
+                  "text": "Flight platform for paragliding, offering views of Otavalo and Imbabura volcano.",
                   "category": "landmark",
                   "coords": [
                         -78.240887,
@@ -3104,7 +5327,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Piscina La Playita",
-                  "text": "Piscina La Playita is an attraction located in Otavalo.",
+                  "text": "La Playita public swimming pool, a popular recreational spot in Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.256718,
@@ -3113,7 +5336,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Puente Colgante \"El Platanillo\"",
-                  "text": "The Puente Colgante \"El Platanillo\" is an attraction in Otavalo.",
+                  "text": "El Platanillo suspension bridge crossing a ravine near Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.241723,
@@ -3122,7 +5345,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Tunel Subterraneo",
-                  "text": "Tunel Subterraneo is an attraction in Otavalo.",
+                  "text": "Subterranean tunnel, possibly of Inca origin, on the outskirts of Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.238395,
@@ -3131,7 +5354,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Bazar Victoria 100 age",
-                  "text": "Bazar Victoria 100 age is an attraction in Otavalo.",
+                  "text": "Bazar Victoria, a century-old market for handicrafts in Otavalo.",
                   "category": "landmark",
                   "coords": [
                         -78.265505,
@@ -3140,7 +5363,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El Lechero",
-                  "text": "El Lechero is a viewpoint situated in Otavalo.",
+                  "text": "El Lechero, a legendary sacred tree in Otavalo believed to have healing powers.",
                   "category": "natural",
                   "coords": [
                         -78.245191,
@@ -3149,7 +5372,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Los Danzantes",
-                  "text": "Los Danzantes is a monument located in Otavalo.",
+                  "text": "Los Danzantes, pre-Columbian stone carvings of dancers near Otavalo.",
                   "category": "historical",
                   "coords": [
                         -78.258622,
@@ -3158,7 +5381,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Meet",
-                  "text": "Meet is an attraction in Otavalo.",
+                  "text": "Meet, a community gathering space in Otavalo's central district.",
                   "category": "landmark",
                   "coords": [
                         -78.262066,
@@ -3167,7 +5390,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Painted wall",
-                  "text": "Painted wall is an attraction in Otavalo.",
+                  "text": "A vibrantly painted wall featuring Otavalo indigenous motifs on Calle Bolívar.",
                   "category": "landmark",
                   "coords": [
                         -78.26034,
@@ -3223,7 +5446,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nelson bazurto.     J.J",
-                  "text": "Nelson bazurto. J.J ist ein Aquarium in Cayambe.",
+                  "text": "Nelson Bazurto Familienpark, eine Erholungsanlage in Cayambe.",
                   "category": "family",
                   "coords": [
                         -78.148201,
@@ -3232,7 +5455,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Laguna Yaznan",
-                  "text": "Laguna Yaznan ist ein Wasserpark in Cayambe.",
+                  "text": "Yaznan-See, ein familienfreundlicher See zum Bootfahren und Picknicken nahe Cayambe.",
                   "category": "family",
                   "coords": [
                         -78.149699,
@@ -3241,7 +5464,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen del Mirador",
-                  "text": "Virgen del Mirador ist eine Attraktion in Cayambe.",
+                  "text": "Virgen del Mirador, eine Marienstatue auf einem Aussichtshügel über Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.133868,
@@ -3250,7 +5473,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de la Madre",
-                  "text": "Parque de la Madre ist eine Parkanlage und Attraktion in Cayambe.",
+                  "text": "Parque de la Madre, ein Park zu Ehren der Mütter mit Spielplätzen und Gärten in Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.147512,
@@ -3259,7 +5482,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Sitio Arqueológico Puntiachil",
-                  "text": "Sitio Arqueológico Puntiachil ist eine archäologische Attraktion in Cayambe.",
+                  "text": "Archäologische Stätte Puntiachil mit präkolumbischen Ruinen und Terrassen nahe Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.137949,
@@ -3268,7 +5491,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Remonta",
-                  "text": "Parque La Remonta ist eine Attraktion in Cayambe.",
+                  "text": "La Remonta Park, eine große Grünfläche mit Sportanlagen in Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.140098,
@@ -3279,7 +5502,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nelson bazurto.     J.J",
-                  "text": "A Nelson bazurto. J.J egy akvárium Cayambe városában.",
+                  "text": "Nelson Bazurto családi park, egy rekreációs terület Cayambében.",
                   "category": "family",
                   "coords": [
                         -78.148201,
@@ -3288,7 +5511,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Laguna Yaznan",
-                  "text": "A Laguna Yaznan egy vízi park Cayambe városában.",
+                  "text": "Yaznan-tó, egy családbarát tó a kajakozáshoz és piknikezéshez Cayambe közelében.",
                   "category": "family",
                   "coords": [
                         -78.149699,
@@ -3297,7 +5520,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen del Mirador",
-                  "text": "A Virgen del Mirador egy látványosság Cayambe-ban.",
+                  "text": "Virgen del Mirador, Szűz Mária-szobor egy kilátódombon Cayambe fölött.",
                   "category": "landmark",
                   "coords": [
                         -78.133868,
@@ -3306,7 +5529,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de la Madre",
-                  "text": "A Parque de la Madre egy nyilvános park Cayambe városában.",
+                  "text": "Parque de la Madre, egy anyák tiszteletére szentelt park játszóterekkel és kertekkel Cayambében.",
                   "category": "landmark",
                   "coords": [
                         -78.147512,
@@ -3315,7 +5538,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Sitio Arqueológico Puntiachil",
-                  "text": "A Sitio Arqueológico Puntiachil egy régészeti látványosság Cayambe-ban.",
+                  "text": "Puntiachil régészeti lelőhely prekolumbián romokkal és teraszokkal Cayambe közelében.",
                   "category": "landmark",
                   "coords": [
                         -78.137949,
@@ -3324,7 +5547,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Remonta",
-                  "text": "A Parque La Remonta egy park és látványosság Cayambe városában.",
+                  "text": "La Remonta park, egy nagy zöldterület sportlétesítményekkel Cayambében.",
                   "category": "landmark",
                   "coords": [
                         -78.140098,
@@ -3335,7 +5558,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nelson bazurto.     J.J",
-                  "text": "Nelson bazurto. J.J este un acvariu din Cayambe.",
+                  "text": "Parcul de familie Nelson Bazurto, o zonă de recreere în Cayambe.",
                   "category": "family",
                   "coords": [
                         -78.148201,
@@ -3344,7 +5567,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Laguna Yaznan",
-                  "text": "Laguna Yaznan este un parc acvatic situat în Cayambe.",
+                  "text": "Lacul Yaznan, un lac prietenos pentru familii, ideal pentru plimbări cu barca și picnicuri lângă Cayambe.",
                   "category": "family",
                   "coords": [
                         -78.149699,
@@ -3353,7 +5576,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen del Mirador",
-                  "text": "Virgen del Mirador este o atracție în Cayambe.",
+                  "text": "Virgen del Mirador, o statuie a Fecioarei Maria pe o colină cu belvedere deasupra Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.133868,
@@ -3362,7 +5585,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de la Madre",
-                  "text": "Parque de la Madre este un parc public în Cayambe.",
+                  "text": "Parque de la Madre, un parc dedicat mamelor, cu locuri de joacă și grădini în Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.147512,
@@ -3371,7 +5594,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Sitio Arqueológico Puntiachil",
-                  "text": "Sitio Arqueológico Puntiachil este o atracție arheologică situată în Cayambe.",
+                  "text": "Situl arheologic Puntiachil, cu ruine și terase precolumbiene lângă Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.137949,
@@ -3380,7 +5603,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Remonta",
-                  "text": "Parque La Remonta este o atracție din Cayambe.",
+                  "text": "Parcul La Remonta, o zonă verde mare cu facilități sportive în Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.140098,
@@ -3391,7 +5614,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nelson bazurto.     J.J",
-                  "text": "Nelson bazurto. J.J is an aquarium facility in Cayambe.",
+                  "text": "Nelson Bazurto family park, a recreational area in Cayambe.",
                   "category": "family",
                   "coords": [
                         -78.148201,
@@ -3400,7 +5623,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Laguna Yaznan",
-                  "text": "Laguna Yaznan is a water park located in Cayambe.",
+                  "text": "Yaznan Lagoon, a family-friendly lake for boating and picnics near Cayambe.",
                   "category": "family",
                   "coords": [
                         -78.149699,
@@ -3409,7 +5632,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen del Mirador",
-                  "text": "Virgen del Mirador is an attraction and viewpoint in Cayambe.",
+                  "text": "Virgen del Mirador, a statue of the Virgin Mary on a hilltop viewpoint overlooking Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.133868,
@@ -3418,7 +5641,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de la Madre",
-                  "text": "Parque de la Madre is a public park attraction in Cayambe.",
+                  "text": "Parque de la Madre, a park dedicated to mothers, with playgrounds and gardens in Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.147512,
@@ -3427,7 +5650,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Sitio Arqueológico Puntiachil",
-                  "text": "Sitio Arqueológico Puntiachil is an archaeological attraction situated in Cayambe.",
+                  "text": "Puntiachil archaeological site, containing pre-Columbian ruins and terraces near Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.137949,
@@ -3436,7 +5659,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Remonta",
-                  "text": "Parque La Remonta is a park and attraction located in Cayambe.",
+                  "text": "La Remonta park, a large green space with sports facilities in Cayambe.",
                   "category": "landmark",
                   "coords": [
                         -78.140098,
@@ -3536,7 +5759,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monumento al Maíz",
-                  "text": "Monumento al Maíz ist ein Denkmal in der Stadt Ventanas.",
+                  "text": "Monumento al Maíz, eine riesige Maiskolben-Skulptur auf dem Hauptplatz von Ventanas.",
                   "category": "historical",
                   "coords": [
                         -79.462002,
@@ -3547,7 +5770,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento al Maíz",
-                  "text": "A Monumento al Maíz egy emlékmű Ventanas városában.",
+                  "text": "Monumento al Maíz, egy hatalmas kukoricacső-szobor Ventanas főterén.",
                   "category": "historical",
                   "coords": [
                         -79.462002,
@@ -3558,7 +5781,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento al Maíz",
-                  "text": "Monumento al Maíz este un monument în Ventanas.",
+                  "text": "Monumento al Maíz, o sculptură uriașă de porumb în piața centrală din Ventanas.",
                   "category": "historical",
                   "coords": [
                         -79.462002,
@@ -3569,7 +5792,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monumento al Maíz",
-                  "text": "Monumento al Maíz is a monument located in Ventanas.",
+                  "text": "Monumento al Maíz, a giant corn ear sculpture on Ventanas' main square.",
                   "category": "historical",
                   "coords": [
                         -79.462002,
@@ -3669,7 +5892,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parque Urbano de La Troncal",
-                  "text": "Der Parque Urbano de La Troncal ist ein Freizeitpark in La Troncal.",
+                  "text": "Parque Urbano de La Troncal, ein Familienpark mit Spazierwegen und Spielplätzen.",
                   "category": "family",
                   "coords": [
                         -79.346243,
@@ -3678,7 +5901,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque",
-                  "text": "Parque ist eine Attraktion in La Troncal.",
+                  "text": "Zentralpark von La Troncal mit einem Pavillon und Gärten.",
                   "category": "landmark",
                   "coords": [
                         -79.320766,
@@ -3687,7 +5910,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Munumento de Caña",
-                  "text": "Munumento de Caña ist ein Denkmal in La Troncal.",
+                  "text": "Monumento de Caña, eine Skulptur aus Zuckerrohrhalmen in La Troncal.",
                   "category": "historical",
                   "coords": [
                         -79.347076,
@@ -3698,7 +5921,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parque Urbano de La Troncal",
-                  "text": "A Parque Urbano de La Troncal egy vidámpark La Troncalban.",
+                  "text": "Parque Urbano de La Troncal, egy családi park sétányokkal és játszóterekkel.",
                   "category": "family",
                   "coords": [
                         -79.346243,
@@ -3707,7 +5930,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque",
-                  "text": "A Parque egy látványosság La Troncalban.",
+                  "text": "La Troncal központi parkja egy pavilonnal és kertekkel.",
                   "category": "landmark",
                   "coords": [
                         -79.320766,
@@ -3716,7 +5939,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Munumento de Caña",
-                  "text": "A Munumento de Caña egy emlékmű La Troncalban.",
+                  "text": "Monumento de Caña, egy cukornádszálakat ábrázoló szobor La Troncalban.",
                   "category": "historical",
                   "coords": [
                         -79.347076,
@@ -3727,7 +5950,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parque Urbano de La Troncal",
-                  "text": "Parque Urbano de La Troncal este un parc tematic în La Troncal.",
+                  "text": "Parcul Urban La Troncal, un parc de familie cu poteci de plimbare și locuri de joacă.",
                   "category": "family",
                   "coords": [
                         -79.346243,
@@ -3736,7 +5959,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque",
-                  "text": "Parque este o atracție în La Troncal.",
+                  "text": "Parcul central din La Troncal, cu un foișor și grădini.",
                   "category": "landmark",
                   "coords": [
                         -79.320766,
@@ -3745,7 +5968,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Munumento de Caña",
-                  "text": "Munumento de Caña este un monument în La Troncal.",
+                  "text": "Monumentul trestiei de zahăr, o sculptură de tulpini de trestie în La Troncal.",
                   "category": "historical",
                   "coords": [
                         -79.347076,
@@ -3756,7 +5979,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parque Urbano de La Troncal",
-                  "text": "Parque Urbano de La Troncal is a theme park in La Troncal.",
+                  "text": "Parque Urbano de La Troncal, a family park with walking trails and playgrounds.",
                   "category": "family",
                   "coords": [
                         -79.346243,
@@ -3765,7 +5988,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Parque",
-                  "text": "Parque is an attraction in La Troncal.",
+                  "text": "Central park of La Troncal, with a gazebo and gardens.",
                   "category": "landmark",
                   "coords": [
                         -79.320766,
@@ -3774,7 +5997,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Munumento de Caña",
-                  "text": "Munumento de Caña is a monument in La Troncal.",
+                  "text": "Monumento de Caña, a sculpture of sugarcane stalks in La Troncal.",
                   "category": "historical",
                   "coords": [
                         -79.347076,
@@ -3830,7 +6053,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Carlos Juqui Medina",
-                  "text": "Carlos Juqui Medina ist ein Denkmal in El Triunfo.",
+                  "text": "Carlos Juqui Medina, eine Büste des lokalen Helden auf dem Stadtplatz von El Triunfo.",
                   "category": "historical",
                   "coords": [
                         -79.396451,
@@ -3839,7 +6062,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a José María Velasco Ibarra",
-                  "text": "Monumento a José María Velasco Ibarra ist ein Denkmal in El Triunfo.",
+                  "text": "Monument für den ehemaligen Präsidenten José María Velasco Ibarra auf dem Hauptplatz von El Triunfo.",
                   "category": "historical",
                   "coords": [
                         -79.418634,
@@ -3850,7 +6073,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Carlos Juqui Medina",
-                  "text": "A Carlos Juqui Medina egy emlékmű El Triunfo városában.",
+                  "text": "Carlos Juqui Medina, a helyi hős mellszobra El Triunfo főterén.",
                   "category": "historical",
                   "coords": [
                         -79.396451,
@@ -3859,7 +6082,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a José María Velasco Ibarra",
-                  "text": "A Monumento a José María Velasco Ibarra egy emlékmű El Triunfo városában.",
+                  "text": "José María Velasco Ibarra volt elnök emlékműve El Triunfo főterén.",
                   "category": "historical",
                   "coords": [
                         -79.418634,
@@ -3870,7 +6093,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Carlos Juqui Medina",
-                  "text": "Carlos Juqui Medina este un monument din El Triunfo.",
+                  "text": "Carlos Juqui Medina, un bust al eroului local în piața orașului El Triunfo.",
                   "category": "historical",
                   "coords": [
                         -79.396451,
@@ -3879,7 +6102,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a José María Velasco Ibarra",
-                  "text": "Monumento a José María Velasco Ibarra este un monument în El Triunfo.",
+                  "text": "Monumentul fostului președinte José María Velasco Ibarra în piața principală din El Triunfo.",
                   "category": "historical",
                   "coords": [
                         -79.418634,
@@ -3890,7 +6113,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Carlos Juqui Medina",
-                  "text": "Carlos Juqui Medina is a monument situated in El Triunfo.",
+                  "text": "Carlos Juqui Medina, a bust of the local hero in El Triunfo's town square.",
                   "category": "historical",
                   "coords": [
                         -79.396451,
@@ -3899,7 +6122,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a José María Velasco Ibarra",
-                  "text": "Monumento a José María Velasco Ibarra is a monument in El Triunfo.",
+                  "text": "Monument to former president José María Velasco Ibarra on El Triunfo's main plaza.",
                   "category": "historical",
                   "coords": [
                         -79.418634,
@@ -3955,7 +6178,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Salinas Siglo XXI",
-                  "text": "Museo Salinas Siglo XXI ist ein Museum in Salinas, das lokale Archäologie und Geschichte ausstellt.",
+                  "text": "Das Museo Salinas Siglo XXI, ein Museum zur Geschichte und Kultur von Salinas, Ecuador.",
                   "category": "museum",
                   "coords": [
                         -80.966883,
@@ -3964,7 +6187,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Salinas Yacht Club",
-                  "text": "Der Salinas Yacht Club verfügt über einen Leuchtturm in Salinas.",
+                  "text": "Salinas Yacht Club, ein Jachthafen und Gesellschaftsclub an der Pazifikküste.",
                   "category": "landmark",
                   "coords": [
                         -80.972579,
@@ -3973,7 +6196,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Ballenas (se necesita previa cita)",
-                  "text": "Das Museo de Ballenas ist ein Museum in Salinas, das nach Terminvereinbarung besichtigt werden kann.",
+                  "text": "Walmuseum in Salinas mit Walskeletten und Meereslebewesen, Besuch nur nach Vereinbarung.",
                   "category": "museum",
                   "coords": [
                         -80.961341,
@@ -3982,7 +6205,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Chipipe",
-                  "text": "Chipipe ist ein Strand in Salinas.",
+                  "text": "Chipipe-Strand, ein beliebter Sandstrand mit ruhigem Wasser in Salinas.",
                   "category": "recreational",
                   "coords": [
                         -80.981403,
@@ -3991,7 +6214,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "San Lorenzo",
-                  "text": "San Lorenzo ist ein Strand in Salinas.",
+                  "text": "San-Lorenzo-Strand, bekannt für seine Fischrestaurants und die Promenade in Salinas.",
                   "category": "recreational",
                   "coords": [
                         -80.968402,
@@ -4000,7 +6223,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Loberia",
-                  "text": "Loberia ist eine Attraktion in Salinas.",
+                  "text": "Lobería, ein felsiger Punkt an der Küste bei Salinas, an dem Seelöwen sonnenbaden.",
                   "category": "landmark",
                   "coords": [
                         -80.996624,
@@ -4009,7 +6232,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mar Bravo",
-                  "text": "Mar Bravo Beach ist eine Attraktion in Salinas.",
+                  "text": "Mar Bravo Beach, ein rauer Brandungsstrand, der bei Surfern in Salinas beliebt ist.",
                   "category": "landmark",
                   "coords": [
                         -80.970653,
@@ -4029,7 +6252,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Salinas Siglo XXI",
-                  "text": "A Museo Salinas Siglo XXI egy múzeum Salinasban, amely a helyi történelmet mutatja be.",
+                  "text": "A Museo Salinas Siglo XXI, a salinasi történelem és kultúra múzeuma, Ecuadorban.",
                   "category": "museum",
                   "coords": [
                         -80.966883,
@@ -4038,7 +6261,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Salinas Yacht Club",
-                  "text": "A Salinas Yacht Club területén egy világítótorony található Salinasban.",
+                  "text": "Salinas Yacht Club, egy kikötő és társasági klub a Csendes-óceán partján.",
                   "category": "landmark",
                   "coords": [
                         -80.972579,
@@ -4047,7 +6270,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Ballenas (se necesita previa cita)",
-                  "text": "A Museo de Ballenas egy múzeum Salinasban, amelynek látogatásához időpontfoglalás szükséges.",
+                  "text": "Bálnamúzeum Salinasban, bálna csontvázakkal és tengeri élőlényekkel, látogatás előzetes egyeztetéssel.",
                   "category": "museum",
                   "coords": [
                         -80.961341,
@@ -4056,7 +6279,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Chipipe",
-                  "text": "A Chipipe egy tengerparti úti cél Salinasban.",
+                  "text": "Chipipe strand, egy népszerű homokos strand nyugodt vízzel Salinasban.",
                   "category": "recreational",
                   "coords": [
                         -80.981403,
@@ -4065,7 +6288,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "San Lorenzo",
-                  "text": "A San Lorenzo egy homokos tengerpart Salinasban.",
+                  "text": "San Lorenzo strand, híres haléttermeiről és a tengerparti sétányról Salinasban.",
                   "category": "recreational",
                   "coords": [
                         -80.968402,
@@ -4074,7 +6297,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Loberia",
-                  "text": "A Loberia egy tengerparti látványosság Salinasban.",
+                  "text": "Lobería, egy sziklás partszakasz Salinas közelében, ahol oroszlánfókák napoznak.",
                   "category": "landmark",
                   "coords": [
                         -80.996624,
@@ -4083,7 +6306,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mar Bravo",
-                  "text": "A Mar Bravo Beach egy tengerparti látványosság Salinas városában.",
+                  "text": "Mar Bravo Beach, egy vad hullámzású strand, kedvelt a szörfösök körében Salinasban.",
                   "category": "landmark",
                   "coords": [
                         -80.970653,
@@ -4103,7 +6326,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Salinas Siglo XXI",
-                  "text": "Museo Salinas Siglo XXI este un muzeu din Salinas care prezintă arheologia și istoria locală.",
+                  "text": "Muzeul Salinas Siglo XXI, un muzeu dedicat istoriei și culturii orașului Salinas, Ecuador.",
                   "category": "museum",
                   "coords": [
                         -80.966883,
@@ -4112,7 +6335,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Salinas Yacht Club",
-                  "text": "Salinas Yacht Club dispune de un far în Salinas.",
+                  "text": "Salinas Yacht Club, o marină și club social pe coasta Pacificului.",
                   "category": "landmark",
                   "coords": [
                         -80.972579,
@@ -4121,7 +6344,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Ballenas (se necesita previa cita)",
-                  "text": "Museo de Ballenas este un muzeu din Salinas ce necesită programare prealabilă.",
+                  "text": "Muzeul Balenelor din Salinas, cu schelete de balene și viață marină, vizite cu programare.",
                   "category": "museum",
                   "coords": [
                         -80.961341,
@@ -4130,7 +6353,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Chipipe",
-                  "text": "Chipipe este o destinație de plajă din Salinas.",
+                  "text": "Plaja Chipipe, o plajă populară cu nisip fin și ape liniștite în Salinas.",
                   "category": "recreational",
                   "coords": [
                         -80.981403,
@@ -4139,7 +6362,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "San Lorenzo",
-                  "text": "San Lorenzo este o plajă situată în Salinas.",
+                  "text": "Plaja San Lorenzo, cunoscută pentru restaurantele cu pește și promenada din Salinas.",
                   "category": "recreational",
                   "coords": [
                         -80.968402,
@@ -4148,7 +6371,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Loberia",
-                  "text": "Loberia este o atracție în Salinas.",
+                  "text": "Lobería, un punct stâncos la coastă lângă Salinas, unde se odihnesc leii de mare.",
                   "category": "landmark",
                   "coords": [
                         -80.996624,
@@ -4157,7 +6380,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mar Bravo",
-                  "text": "Mar Bravo Beach este o atracție situată în Salinas.",
+                  "text": "Plaja Mar Bravo, o plajă cu valuri puternice, populară pentru surfing în Salinas.",
                   "category": "landmark",
                   "coords": [
                         -80.970653,
@@ -4177,7 +6400,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Salinas Siglo XXI",
-                  "text": "Museo Salinas Siglo XXI is a museum in Salinas showcasing local archaeology and history.",
+                  "text": "Museo Salinas Siglo XXI, a museum about the history and culture of Salinas, Ecuador.",
                   "category": "museum",
                   "coords": [
                         -80.966883,
@@ -4186,7 +6409,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Salinas Yacht Club",
-                  "text": "Salinas Yacht Club features a lighthouse structure in Salinas.",
+                  "text": "Salinas Yacht Club, a marina and social club on the Pacific coast.",
                   "category": "landmark",
                   "coords": [
                         -80.972579,
@@ -4195,7 +6418,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Ballenas (appointment required)",
-                  "text": "Museo de Ballenas is a museum in Salinas that requires an appointment to visit.",
+                  "text": "Whale Museum in Salinas, exhibiting whale skeletons and marine life, visits by appointment.",
                   "category": "museum",
                   "coords": [
                         -80.961341,
@@ -4204,7 +6427,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Chipipe",
-                  "text": "Chipipe is a beach destination in Salinas.",
+                  "text": "Chipipe Beach, a popular sandy beach with calm waters in Salinas.",
                   "category": "recreational",
                   "coords": [
                         -80.981403,
@@ -4213,7 +6436,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "San Lorenzo",
-                  "text": "San Lorenzo is a beach area located in Salinas.",
+                  "text": "San Lorenzo beach, known for its seafood restaurants and boardwalk in Salinas.",
                   "category": "recreational",
                   "coords": [
                         -80.968402,
@@ -4222,7 +6445,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Loberia",
-                  "text": "Loberia is a natural attraction in Salinas.",
+                  "text": "Lobería, a rocky point where sea lions bask near Salinas.",
                   "category": "landmark",
                   "coords": [
                         -80.996624,
@@ -4231,7 +6454,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mar Bravo Beach",
-                  "text": "Mar Bravo Beach is a coastal attraction situated in Salinas.",
+                  "text": "Mar Bravo Beach, a rough surf beach popular for surfing in Salinas.",
                   "category": "landmark",
                   "coords": [
                         -80.970653,
@@ -4296,7 +6519,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rompeolas de Playas",
-                  "text": "Rompeolas de Playas ist ein Strand in General Villamil Playas.",
+                  "text": "Rompeolas de Playas, eine Wellenbrecher-Mole zum Angeln und Spazieren in Villamil Playas.",
                   "category": "recreational",
                   "coords": [
                         -80.39914,
@@ -4305,7 +6528,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador turístico Nuestra Señora de La Merced",
-                  "text": "Mirador turístico Nuestra Señora de La Merced ist eine Attraktion in General Villamil Playas.",
+                  "text": "Aussichtspunkt mit Marienstatue über dem Pazifik in Villamil Playas.",
                   "category": "landmark",
                   "coords": [
                         -80.397437,
@@ -4314,7 +6537,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento El Pescador",
-                  "text": "Monumento El Pescador ist ein Denkmal in General Villamil Playas.",
+                  "text": "Fischerstatue an der Strandpromenade von Villamil Playas.",
                   "category": "historical",
                   "coords": [
                         -80.392688,
@@ -4325,7 +6548,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rompeolas de Playas",
-                  "text": "A Rompeolas de Playas egy strand General Villamil Playasban.",
+                  "text": "Rompeolas de Playas, egy hullámtörő móló horgászathoz és sétákhoz Villamil Playasban.",
                   "category": "recreational",
                   "coords": [
                         -80.39914,
@@ -4334,7 +6557,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador turístico Nuestra Señora de La Merced",
-                  "text": "A Mirador turístico Nuestra Señora de La Merced egy látványosság General Villamil Playasban.",
+                  "text": "Kilátó Szűz Mária szoborral a Csendes-óceánra Villamil Playasban.",
                   "category": "landmark",
                   "coords": [
                         -80.397437,
@@ -4343,7 +6566,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento El Pescador",
-                  "text": "A Monumento El Pescador egy emlékmű General Villamil Playasban.",
+                  "text": "Halászszobor a villamil playasi tengerparti sétányon.",
                   "category": "historical",
                   "coords": [
                         -80.392688,
@@ -4354,7 +6577,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rompeolas de Playas",
-                  "text": "Rompeolas de Playas este o plajă în General Villamil Playas.",
+                  "text": "Rompeolas de Playas, un dig sparge-valuri pentru pescuit și plimbări în Villamil Playas.",
                   "category": "recreational",
                   "coords": [
                         -80.39914,
@@ -4363,7 +6586,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador turístico Nuestra Señora de La Merced",
-                  "text": "Mirador turístico Nuestra Señora de La Merced este o atracție în General Villamil Playas.",
+                  "text": "Punct de belvedere cu o statuie a Fecioarei María deasupra Oceanului Pacific în Villamil Playas.",
                   "category": "landmark",
                   "coords": [
                         -80.397437,
@@ -4372,7 +6595,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento El Pescador",
-                  "text": "Monumento El Pescador este un monument în General Villamil Playas.",
+                  "text": "Statuia pescarului pe promenada plajei din Villamil Playas.",
                   "category": "historical",
                   "coords": [
                         -80.392688,
@@ -4383,7 +6606,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rompeolas de Playas",
-                  "text": "Rompeolas de Playas is a beach in General Villamil Playas.",
+                  "text": "Rompeolas de Playas, a breakwater pier for fishing and strolling in Villamil Playas.",
                   "category": "recreational",
                   "coords": [
                         -80.39914,
@@ -4392,7 +6615,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador turístico Nuestra Señora de La Merced",
-                  "text": "Mirador turístico Nuestra Señora de La Merced is an attraction in General Villamil Playas.",
+                  "text": "Viewpoint with a statue of Our Lady of Mercy overlooking the Pacific in Villamil Playas.",
                   "category": "landmark",
                   "coords": [
                         -80.397437,
@@ -4401,7 +6624,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento El Pescador",
-                  "text": "Monumento El Pescador is a monument in General Villamil Playas.",
+                  "text": "Fisherman statue on the beach promenade in Villamil Playas.",
                   "category": "historical",
                   "coords": [
                         -80.392688,
@@ -4533,7 +6756,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monumento a los héroes",
-                  "text": "Monumento a los héroes ist ein Denkmal in der Stadt Vinces.",
+                  "text": "Heldenmonument auf dem Hauptplatz von Vinces.",
                   "category": "historical",
                   "coords": [
                         -79.753334,
@@ -4544,7 +6767,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento a los héroes",
-                  "text": "A Monumento a los héroes egy emlékmű Vinces városában.",
+                  "text": "Hősök emlékműve Vinces főterén.",
                   "category": "historical",
                   "coords": [
                         -79.753334,
@@ -4555,7 +6778,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento a los héroes",
-                  "text": "Monumento a los héroes este un monument aflat în Vinces.",
+                  "text": "Monumentul eroilor în piața principală din Vinces.",
                   "category": "historical",
                   "coords": [
                         -79.753334,
@@ -4566,7 +6789,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monumento a los héroes",
-                  "text": "Monumento a los héroes is a monument located in Vinces.",
+                  "text": "Heroes monument in the main square of Vinces.",
                   "category": "historical",
                   "coords": [
                         -79.753334,
@@ -4666,7 +6889,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monumento al Sagrado Corazón de Jesús",
-                  "text": "Das Monumento al Sagrado Corazón de Jesús ist ein Denkmal in Quinindé.",
+                  "text": "Herz-Jesu-Statue auf einem Hügel mit Blick auf Quinindé.",
                   "category": "historical",
                   "coords": [
                         -79.472369,
@@ -4677,7 +6900,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento al Sagrado Corazón de Jesús",
-                  "text": "A Monumento al Sagrado Corazón de Jesús egy emlékmű Quinindében.",
+                  "text": "Jézus Szíve szobor egy dombon, Quinindére nézve.",
                   "category": "historical",
                   "coords": [
                         -79.472369,
@@ -4688,7 +6911,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento al Sagrado Corazón de Jesús",
-                  "text": "Monumento al Sagrado Corazón de Jesús este un monument în Quinindé.",
+                  "text": "Statuia Inimii lui Isus pe un deal cu vedere spre Quinindé.",
                   "category": "historical",
                   "coords": [
                         -79.472369,
@@ -4699,7 +6922,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monumento al Sagrado Corazón de Jesús",
-                  "text": "The Monumento al Sagrado Corazón de Jesús is a monument in Quinindé.",
+                  "text": "Sacred Heart statue on a hill overlooking Quinindé.",
                   "category": "historical",
                   "coords": [
                         -79.472369,
@@ -4755,7 +6978,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mirador El Tamarindo",
-                  "text": "Mirador El Tamarindo ist ein Aussichtspunkt in Balzar.",
+                  "text": "Naturlicher Aussichtspunkt am Ufer des Daule-Flusses bei Balzar.",
                   "category": "natural",
                   "coords": [
                         -79.907749,
@@ -4766,7 +6989,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mirador El Tamarindo",
-                  "text": "A Mirador El Tamarindo egy kilátópont Balzar városában.",
+                  "text": "Természetes kilátó a Daule folyó partján Balzar közelében.",
                   "category": "natural",
                   "coords": [
                         -79.907749,
@@ -4777,7 +7000,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mirador El Tamarindo",
-                  "text": "Mirador El Tamarindo este un punct de belvedere în Balzar.",
+                  "text": "Punct natural de belvedere pe malul râului Daule lângă Balzar.",
                   "category": "natural",
                   "coords": [
                         -79.907749,
@@ -4788,7 +7011,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mirador El Tamarindo",
-                  "text": "Mirador El Tamarindo is a viewpoint in Balzar.",
+                  "text": "Natural lookout on the bank of the Daule River near Balzar.",
                   "category": "natural",
                   "coords": [
                         -79.907749,
@@ -4844,7 +7067,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parque ⛲ Pista de patinaje",
-                  "text": "Parque ⛲ Pista de patinaje ist eine Attraktion in Naranjito.",
+                  "text": "Park mit Rollschuhbahn im Zentrum von Naranjito.",
                   "category": "landmark",
                   "coords": [
                         -79.461767,
@@ -4855,7 +7078,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parque ⛲ Pista de patinaje",
-                  "text": "A Parque ⛲ Pista de patinaje egy látványosság Naranjito városában.",
+                  "text": "Park görkorcsolya-pályával Naranjito központjában.",
                   "category": "landmark",
                   "coords": [
                         -79.461767,
@@ -4866,7 +7089,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parque ⛲ Pista de patinaje",
-                  "text": "Parque ⛲ Pista de patinaje este o atracție în Naranjito.",
+                  "text": "Parc cu pistă de patine în centrul orașului Naranjito.",
                   "category": "landmark",
                   "coords": [
                         -79.461767,
@@ -4877,7 +7100,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parque ⛲ Pista de patinaje",
-                  "text": "Parque ⛲ Pista de patinaje is a public park and attraction in Naranjito.",
+                  "text": "Park with a skating rink in the center of Naranjito.",
                   "category": "landmark",
                   "coords": [
                         -79.461767,
@@ -4933,7 +7156,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Arco del inca",
-                  "text": "Arco del inca ist ein Denkmal in Naranjal.",
+                  "text": "Steinerner Inkabogen in Naranjal.",
                   "category": "historical",
                   "coords": [
                         -79.615921,
@@ -4942,7 +7165,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Arco inspiración del poeta",
-                  "text": "Arco inspiración del poeta ist ein Denkmal in Naranjal.",
+                  "text": "Dekorativer Bogen zu Ehren eines Dichters auf dem Hauptplatz von Naranjal.",
                   "category": "historical",
                   "coords": [
                         -79.61505,
@@ -4953,7 +7176,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Arco del inca",
-                  "text": "Az Arco del inca egy emlékmű Naranjalban.",
+                  "text": "Kőből készült inka boltív Naranjalban.",
                   "category": "historical",
                   "coords": [
                         -79.615921,
@@ -4962,7 +7185,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Arco inspiración del poeta",
-                  "text": "Az Arco inspiración del poeta egy emlékmű Naranjalban.",
+                  "text": "Díszítő boltív egy költő tiszteletére Naranjal főterén.",
                   "category": "historical",
                   "coords": [
                         -79.61505,
@@ -4973,7 +7196,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Arco del inca",
-                  "text": "Arco del inca este un monument în Naranjal.",
+                  "text": "Arc de piatră incaș în Naranjal.",
                   "category": "historical",
                   "coords": [
                         -79.615921,
@@ -4982,7 +7205,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Arco inspiración del poeta",
-                  "text": "Arco inspiración del poeta este un monument în Naranjal.",
+                  "text": "Arc decorativ în cinstea unui poet în piața principală din Naranjal.",
                   "category": "historical",
                   "coords": [
                         -79.61505,
@@ -4993,7 +7216,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Arco del inca",
-                  "text": "Arco del inca is a monument in Naranjal.",
+                  "text": "Stone Inca arch in Naranjal.",
                   "category": "historical",
                   "coords": [
                         -79.615921,
@@ -5002,7 +7225,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Arco inspiración del poeta",
-                  "text": "Arco inspiración del poeta is a monument in Naranjal.",
+                  "text": "Decorative arch honoring a poet on the main square of Naranjal.",
                   "category": "historical",
                   "coords": [
                         -79.61505,
@@ -5222,7 +7445,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Loma de Trapichillo",
-                  "text": "Loma de Trapichillo ist eine archäologische Stätte in Catamayo.",
+                  "text": "Hügel mit historischer Zuckermühle in Catamayo.",
                   "category": "historical",
                   "coords": [
                         -79.362326,
@@ -5231,7 +7454,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Manuel Serrano",
-                  "text": "Das Museo de Arte Manuel Serrano ist ein Museum in Catamayo.",
+                  "text": "Kunstmuseum mit regionalen Werken in Catamayo.",
                   "category": "museum",
                   "coords": [
                         -79.355191,
@@ -5240,7 +7463,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "La Cruz - Mirador",
-                  "text": "La Cruz - Mirador ist ein Denkmal in Catamayo.",
+                  "text": "Kreuz auf einem Hügel mit Panoramablick über Catamayo.",
                   "category": "historical",
                   "coords": [
                         -79.358545,
@@ -5251,7 +7474,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Loma de Trapichillo",
-                  "text": "A Loma de Trapichillo egy régészeti lelőhely Catamayóban.",
+                  "text": "Történelmi cukormalom dombja Catamayóban.",
                   "category": "historical",
                   "coords": [
                         -79.362326,
@@ -5260,7 +7483,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Manuel Serrano",
-                  "text": "A Museo de Arte Manuel Serrano egy múzeum Catamayóban.",
+                  "text": "Regionális és helyi művészeti múzeum Catamayóban.",
                   "category": "museum",
                   "coords": [
                         -79.355191,
@@ -5269,7 +7492,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "La Cruz - Mirador",
-                  "text": "A La Cruz - Mirador egy emlékmű Catamayóban.",
+                  "text": "Kereszt egy dombon, panorámás kilátással Catamayóra.",
                   "category": "historical",
                   "coords": [
                         -79.358545,
@@ -5280,7 +7503,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Loma de Trapichillo",
-                  "text": "Loma de Trapichillo este un sit arheologic în Catamayo.",
+                  "text": "Deal cu o fostă moară de zahăr istorică în Catamayo.",
                   "category": "historical",
                   "coords": [
                         -79.362326,
@@ -5289,7 +7512,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Manuel Serrano",
-                  "text": "Museo de Arte Manuel Serrano este un muzeu în Catamayo.",
+                  "text": "Muzeu de artă cu lucrări locale și regionale în Catamayo.",
                   "category": "museum",
                   "coords": [
                         -79.355191,
@@ -5298,7 +7521,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "La Cruz - Mirador",
-                  "text": "La Cruz - Mirador este un monument în Catamayo.",
+                  "text": "Cruce pe un deal cu vedere panoramică asupra Catamayo.",
                   "category": "historical",
                   "coords": [
                         -79.358545,
@@ -5309,7 +7532,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Loma de Trapichillo",
-                  "text": "Loma de Trapichillo is an archaeological site in Catamayo.",
+                  "text": "Hill with a historic sugar mill site in Catamayo.",
                   "category": "historical",
                   "coords": [
                         -79.362326,
@@ -5318,7 +7541,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Arte Manuel Serrano",
-                  "text": "Museo de Arte Manuel Serrano is a museum in Catamayo.",
+                  "text": "Art museum displaying local and regional works in Catamayo.",
                   "category": "museum",
                   "coords": [
                         -79.355191,
@@ -5327,7 +7550,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "La Cruz - Mirador",
-                  "text": "La Cruz - Mirador is a monument in Catamayo.",
+                  "text": "Cross on a hill with panoramic views over Catamayo.",
                   "category": "historical",
                   "coords": [
                         -79.358545,
@@ -5383,7 +7606,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "San Antonio",
-                  "text": "San Antonio ist ein Berggipfel in El Guabo.",
+                  "text": "Ein bewaldeter Hügel nahe Guabo, beliebt für Wanderungen.",
                   "category": "natural",
                   "coords": [
                         -79.816667,
@@ -5392,7 +7615,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento al General Manuel Serrano",
-                  "text": "Das Monumento al General Manuel Serrano ist ein Denkmal in El Guabo.",
+                  "text": "Generalsstatue im Zentralpark von El Guabo.",
                   "category": "historical",
                   "coords": [
                         -79.843123,
@@ -5403,7 +7626,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "San Antonio",
-                  "text": "A San Antonio egy hegycsúcs El Guabo területén.",
+                  "text": "Egy erdős domb Guabo közelében, túrázásra alkalmas.",
                   "category": "natural",
                   "coords": [
                         -79.816667,
@@ -5412,7 +7635,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento al General Manuel Serrano",
-                  "text": "A Monumento al General Manuel Serrano egy emlékmű El Guabo városában.",
+                  "text": "Manuel Serrano tábornok szobra El Guabo központi parkjában.",
                   "category": "historical",
                   "coords": [
                         -79.843123,
@@ -5423,7 +7646,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "San Antonio",
-                  "text": "San Antonio este un vârf muntos din El Guabo.",
+                  "text": "Un deal împădurit lângă Guabo, popular pentru drumeții.",
                   "category": "natural",
                   "coords": [
                         -79.816667,
@@ -5432,7 +7655,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento al General Manuel Serrano",
-                  "text": "Monumento al General Manuel Serrano este un monument în El Guabo.",
+                  "text": "Statuia generalului Manuel Serrano în parcul central din El Guabo.",
                   "category": "historical",
                   "coords": [
                         -79.843123,
@@ -5443,7 +7666,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "San Antonio",
-                  "text": "San Antonio is a peak situated in El Guabo.",
+                  "text": "A wooded hill near Guabo, popular for hiking.",
                   "category": "natural",
                   "coords": [
                         -79.816667,
@@ -5452,7 +7675,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento al General Manuel Serrano",
-                  "text": "Monumento al General Manuel Serrano is a monument in El Guabo.",
+                  "text": "Statue of General Manuel Serrano in the central park of El Guabo.",
                   "category": "historical",
                   "coords": [
                         -79.843123,
@@ -5508,7 +7731,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pedernales",
-                  "text": "Pedernales ist ein lokaler Strand in der Stadt Pedernales.",
+                  "text": "Küstenort mit schwarzen Sandstränden am Pazifik.",
                   "category": "recreational",
                   "coords": [
                         -80.05892,
@@ -5517,7 +7740,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Terremoto 16 abril 2018",
-                  "text": "Terremoto 16 abril 2018 ist ein Denkmal in Pedernales.",
+                  "text": "Mahnmal für das Erdbeben vom 16. April 2018 in Pedernales.",
                   "category": "historical",
                   "coords": [
                         -80.059251,
@@ -5528,7 +7751,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pedernales",
-                  "text": "A Pedernales egy helyi tengerpart Pedernales városában.",
+                  "text": "Tengerparti városka fekete homokos strandokkal a Csendes-óceán partján.",
                   "category": "recreational",
                   "coords": [
                         -80.05892,
@@ -5537,7 +7760,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Terremoto 16 abril 2018",
-                  "text": "A Terremoto 16 abril 2018 egy emlékmű Pedernales városában.",
+                  "text": "A 2018. április 16-i földrengés emlékműve Pedernalesben.",
                   "category": "historical",
                   "coords": [
                         -80.059251,
@@ -5548,7 +7771,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pedernales",
-                  "text": "Pedernales este o plajă locală situată în orașul Pedernales.",
+                  "text": "Oraș costier cu plaje cu nisip negru pe coasta Pacificului.",
                   "category": "recreational",
                   "coords": [
                         -80.05892,
@@ -5557,7 +7780,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Terremoto 16 abril 2018",
-                  "text": "Terremoto 16 abril 2018 este un monument situat în Pedernales.",
+                  "text": "Monument comemorativ al cutremurului din 16 aprilie 2018 în Pedernales.",
                   "category": "historical",
                   "coords": [
                         -80.059251,
@@ -5568,7 +7791,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pedernales",
-                  "text": "Pedernales is a local beach located in the city of Pedernales.",
+                  "text": "Coastal town with black sand beaches on the Pacific.",
                   "category": "recreational",
                   "coords": [
                         -80.05892,
@@ -5577,7 +7800,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Terremoto 16 abril 2018",
-                  "text": "Terremoto 16 abril 2018 is a monument located in Pedernales.",
+                  "text": "Memorial for the April 16, 2018 earthquake in Pedernales.",
                   "category": "historical",
                   "coords": [
                         -80.059251,
@@ -5633,7 +7856,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pupotola",
-                  "text": "Pupotola ist eine archäologische Stätte in Atuntaqui.",
+                  "text": "Präkolumbische archäologische Stätte in Atuntaqui.",
                   "category": "historical",
                   "coords": [
                         -78.204755,
@@ -5642,7 +7865,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Antigua Fábrica Textil Imbabura",
-                  "text": "Die Antigua Fábrica Textil Imbabura ist ein Museum in Atuntaqui.",
+                  "text": "Ehemalige Textilfabrik, heute Museum zur Industriegeschichte Imbaburas.",
                   "category": "museum",
                   "coords": [
                         -78.212924,
@@ -5653,7 +7876,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pupotola",
-                  "text": "A Pupotola egy régészeti lelőhely Atuntaquiban.",
+                  "text": "Kolumbusz előtti régészeti lelőhely Atuntaquiban.",
                   "category": "historical",
                   "coords": [
                         -78.204755,
@@ -5662,7 +7885,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Antigua Fábrica Textil Imbabura",
-                  "text": "Az Antigua Fábrica Textil Imbabura egy múzeum Atuntaquiban.",
+                  "text": "Egykori textilgyár, ma az imbaburái ipartörténet múzeuma.",
                   "category": "museum",
                   "coords": [
                         -78.212924,
@@ -5673,7 +7896,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pupotola",
-                  "text": "Pupotola este un sit arheologic în Atuntaqui.",
+                  "text": "Sit arheologic precolumbian în Atuntaqui.",
                   "category": "historical",
                   "coords": [
                         -78.204755,
@@ -5682,7 +7905,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Antigua Fábrica Textil Imbabura",
-                  "text": "Antigua Fábrica Textil Imbabura este un muzeu din Atuntaqui.",
+                  "text": "Fostă fabrică textilă, acum muzeu al istoriei industriale a Imbaburei.",
                   "category": "museum",
                   "coords": [
                         -78.212924,
@@ -5693,7 +7916,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pupotola",
-                  "text": "Pupotola is an archaeological site in Atuntaqui.",
+                  "text": "Pre-Columbian archaeological site in Atuntaqui.",
                   "category": "historical",
                   "coords": [
                         -78.204755,
@@ -5702,7 +7925,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Antigua Fábrica Textil Imbabura",
-                  "text": "The Antigua Fábrica Textil Imbabura is a museum in Atuntaqui.",
+                  "text": "Former textile mill turned museum of Imbabura’s industrial history.",
                   "category": "museum",
                   "coords": [
                         -78.212924,
@@ -5758,7 +7981,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Bahia de Caraquez",
-                  "text": "Das Museo Bahia de Caraquez ist ein Museum in Bahía de Caráquez.",
+                  "text": "Museum über die Geschichte und Kultur der Bucht von Caráquez.",
                   "category": "museum",
                   "coords": [
                         -80.423609,
@@ -5767,7 +7990,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El Faro de Bahia de Caraquez",
-                  "text": "El Faro de Bahia de Caraquez ist ein Leuchtturm in Bahía de Caráquez.",
+                  "text": "Leuchtturm über dem Pazifik in Bahía de Caráquez.",
                   "category": "landmark",
                   "coords": [
                         -80.42408,
@@ -5776,7 +7999,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "BAHÍA TENIS CLUB",
-                  "text": "Der BAHÍA TENIS CLUB ist eine Attraktion in Bahía de Caráquez.",
+                  "text": "Tennisclub mit Plätzen nahe dem Strand in Bahía de Caráquez.",
                   "category": "landmark",
                   "coords": [
                         -80.426721,
@@ -5785,7 +8008,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador del",
-                  "text": "View from the cross ist ein Aussichtspunkt in Bahía de Caráquez.",
+                  "text": "Aussichtspunkt mit einem Kreuz auf dem Hügel über der Bucht.",
                   "category": "natural",
                   "coords": [
                         -80.425934,
@@ -5796,7 +8019,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Bahia de Caraquez",
-                  "text": "A Museo Bahia de Caraquez egy múzeum Bahía de Caráquez városában.",
+                  "text": "Múzeum a Caráquez-öböl történelméről és kultúrájáról.",
                   "category": "museum",
                   "coords": [
                         -80.423609,
@@ -5805,7 +8028,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El Faro de Bahia de Caraquez",
-                  "text": "Az El Faro de Bahia de Caraquez egy világítótorony Bahía de Caráquez városában.",
+                  "text": "Világítótorony a Csendes-óceán partján Bahía de Caráquezben.",
                   "category": "landmark",
                   "coords": [
                         -80.42408,
@@ -5814,7 +8037,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "BAHÍA TENIS CLUB",
-                  "text": "A BAHÍA TENIS CLUB egy látványosság Bahía de Caráquez városában.",
+                  "text": "Teniszklub pályákkal a strand közelében Bahía de Caráquezben.",
                   "category": "landmark",
                   "coords": [
                         -80.426721,
@@ -5823,7 +8046,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador del",
-                  "text": "A View from the cross egy kilátópont Bahía de Caráquez városában.",
+                  "text": "Kilátó egy kereszttel a dombon, rálátással az öbölre.",
                   "category": "natural",
                   "coords": [
                         -80.425934,
@@ -5834,7 +8057,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Bahia de Caraquez",
-                  "text": "Museo Bahia de Caraquez este un muzeu din Bahía de Caráquez.",
+                  "text": "Muzeu despre istoria și cultura golfului Caráquez.",
                   "category": "museum",
                   "coords": [
                         -80.423609,
@@ -5843,7 +8066,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El Faro de Bahia de Caraquez",
-                  "text": "El Faro de Bahia de Caraquez este un far situat în Bahía de Caráquez.",
+                  "text": "Far pe coasta Pacificului în Bahía de Caráquez.",
                   "category": "landmark",
                   "coords": [
                         -80.42408,
@@ -5852,7 +8075,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "BAHÍA TENIS CLUB",
-                  "text": "BAHÍA TENIS CLUB este o atracție în Bahía de Caráquez.",
+                  "text": "Club de tenis cu terenuri aproape de plajă în Bahía de Caráquez.",
                   "category": "landmark",
                   "coords": [
                         -80.426721,
@@ -5861,7 +8084,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mirador del",
-                  "text": "View from the cross este un punct de belvedere în Bahía de Caráquez.",
+                  "text": "Punct de belvedere cu o cruce pe deal, cu vedere asupra golfului.",
                   "category": "natural",
                   "coords": [
                         -80.425934,
@@ -5872,7 +8095,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Bahia de Caraquez",
-                  "text": "Museo Bahia de Caraquez is a museum located in Bahía de Caráquez.",
+                  "text": "Museum on the history and culture of Bahía de Caráquez.",
                   "category": "museum",
                   "coords": [
                         -80.423609,
@@ -5881,7 +8104,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "El Faro de Bahia de Caraquez",
-                  "text": "El Faro de Bahia de Caraquez is a lighthouse in Bahía de Caráquez.",
+                  "text": "Lighthouse overlooking the Pacific in Bahía de Caráquez.",
                   "category": "landmark",
                   "coords": [
                         -80.42408,
@@ -5890,7 +8113,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "BAHÍA TENIS CLUB",
-                  "text": "BAHÍA TENIS CLUB is an attraction in Bahía de Caráquez.",
+                  "text": "Tennis club with courts near the beach in Bahía de Caráquez.",
                   "category": "landmark",
                   "coords": [
                         -80.426721,
@@ -5899,7 +8122,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "View from the cross",
-                  "text": "View from the cross is a viewpoint situated in Bahía de Caráquez.",
+                  "text": "Viewpoint with a cross on the hill overlooking the bay.",
                   "category": "natural",
                   "coords": [
                         -80.425934,
@@ -5955,7 +8178,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Degat",
-                  "text": "Degat ist ein Museum in Piñas.",
+                  "text": "Heimatmuseum in Piñas.",
                   "category": "museum",
                   "coords": [
                         -79.6819,
@@ -5964,7 +8187,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro de Cristo - La Cruz",
-                  "text": "Cerro de Cristo - La Cruz ist ein Aussichtspunkt in Piñas.",
+                  "text": "Hügel mit einer großen Christusstatue und Kreuz oberhalb von Piñas.",
                   "category": "natural",
                   "coords": [
                         -79.685322,
@@ -5973,7 +8196,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "La Cadena",
-                  "text": "La Cadena ist ein Denkmal in der Stadt Piñas.",
+                  "text": "Historisches Monument „La Cadena“ in Piñas.",
                   "category": "historical",
                   "coords": [
                         -79.67945,
@@ -5982,7 +8205,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Al Soldado",
-                  "text": "Das Monumento Al Soldado ist ein Denkmal in Piñas.",
+                  "text": "Soldatendenkmal im Zentralpark von Piñas.",
                   "category": "historical",
                   "coords": [
                         -79.683065,
@@ -5993,7 +8216,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Degat",
-                  "text": "A Degat egy múzeum Piñas városában.",
+                  "text": "Helytörténeti múzeum Piñasban.",
                   "category": "museum",
                   "coords": [
                         -79.6819,
@@ -6002,7 +8225,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro de Cristo - La Cruz",
-                  "text": "A Cerro de Cristo - La Cruz egy kilátó Piñas városában.",
+                  "text": "Domb nagy Krisztus-szoborral és kereszttel Piñas fölött.",
                   "category": "natural",
                   "coords": [
                         -79.685322,
@@ -6011,7 +8234,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "La Cadena",
-                  "text": "A La Cadena egy emlékmű Piñas városában.",
+                  "text": "„La Cadena” történelmi emlékmű Piñasban.",
                   "category": "historical",
                   "coords": [
                         -79.67945,
@@ -6020,7 +8243,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Al Soldado",
-                  "text": "A Monumento Al Soldado egy emlékmű Piñasban.",
+                  "text": "Katonaemlékmű Piñas központi parkjában.",
                   "category": "historical",
                   "coords": [
                         -79.683065,
@@ -6031,7 +8254,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Degat",
-                  "text": "Degat este un muzeu situat în Piñas.",
+                  "text": "Muzeu de istorie locală în Piñas.",
                   "category": "museum",
                   "coords": [
                         -79.6819,
@@ -6040,7 +8263,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro de Cristo - La Cruz",
-                  "text": "Cerro de Cristo - La Cruz este un punct de belvedere din Piñas.",
+                  "text": "Deal cu o statuie mare a lui Hristos și o cruce deasupra orașului Piñas.",
                   "category": "natural",
                   "coords": [
                         -79.685322,
@@ -6049,7 +8272,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "La Cadena",
-                  "text": "La Cadena este un monument situat în orașul Piñas.",
+                  "text": "Monumentul istoric „La Cadena” în Piñas.",
                   "category": "historical",
                   "coords": [
                         -79.67945,
@@ -6058,7 +8281,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Al Soldado",
-                  "text": "Monumento Al Soldado este un monument situat în Piñas.",
+                  "text": "Monumentul soldatului în parcul central din Piñas.",
                   "category": "historical",
                   "coords": [
                         -79.683065,
@@ -6069,7 +8292,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Degat",
-                  "text": "Degat is a local museum situated in Piñas.",
+                  "text": "Local history museum in Piñas.",
                   "category": "museum",
                   "coords": [
                         -79.6819,
@@ -6078,7 +8301,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro de Cristo - La Cruz",
-                  "text": "Cerro de Cristo - La Cruz is an elevated viewpoint in Piñas.",
+                  "text": "Hill with a large Christ statue and cross above Piñas.",
                   "category": "natural",
                   "coords": [
                         -79.685322,
@@ -6087,7 +8310,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "La Cadena",
-                  "text": "La Cadena is a monument located in the city of Piñas.",
+                  "text": "Historical monument „La Cadena” in Piñas.",
                   "category": "historical",
                   "coords": [
                         -79.67945,
@@ -6096,7 +8319,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento Al Soldado",
-                  "text": "Monumento Al Soldado is a monument in Piñas.",
+                  "text": "Soldier monument in the central park of Piñas.",
                   "category": "historical",
                   "coords": [
                         -79.683065,
@@ -6152,7 +8375,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro Pío XII",
-                  "text": "Das Teatro Pío XII ist ein Theater in San Gabriel.",
+                  "text": "Theater Pius XII. in Gabriel.",
                   "category": "cultural",
                   "coords": [
                         -77.831212,
@@ -6161,7 +8384,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro municipal",
-                  "text": "Das Teatro municipal ist ein Theater in San Gabriel.",
+                  "text": "Stadttheater von Gabriel mit kulturellen Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -77.836069,
@@ -6170,7 +8393,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Avión T-33 del Escuadrón de Tiburones",
-                  "text": "Avión T-33 del Escuadrón de Tiburones ist ein Denkmal in San Gabriel.",
+                  "text": "Ausgemusterter T-33-Jet der Staffel der Haie als Denkmal in Gabriel.",
                   "category": "historical",
                   "coords": [
                         -77.827556,
@@ -6181,7 +8404,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro Pío XII",
-                  "text": "A Teatro Pío XII egy színház San Gabrielben.",
+                  "text": "XII. Piusz pápa színház Gabrielben.",
                   "category": "cultural",
                   "coords": [
                         -77.831212,
@@ -6190,7 +8413,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro municipal",
-                  "text": "A Teatro municipal egy színház San Gabrielben.",
+                  "text": "Gabriel városi színháza kulturális eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         -77.836069,
@@ -6199,7 +8422,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Avión T-33 del Escuadrón de Tiburones",
-                  "text": "Az Avión T-33 del Escuadrón de Tiburones egy emlékmű San Gabrielben.",
+                  "text": "Leszerelt T-33 sugárhajtású vadászrepülőgép, a Cápaszázad emlékműve Gabrielben.",
                   "category": "historical",
                   "coords": [
                         -77.827556,
@@ -6210,7 +8433,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro Pío XII",
-                  "text": "Teatro Pío XII este un teatru din San Gabriel.",
+                  "text": "Teatrul Pius al XII-lea în Gabriel.",
                   "category": "cultural",
                   "coords": [
                         -77.831212,
@@ -6219,7 +8442,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro municipal",
-                  "text": "Teatro municipal este un teatru din San Gabriel.",
+                  "text": "Teatrul municipal din Gabriel cu evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         -77.836069,
@@ -6228,7 +8451,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Avión T-33 del Escuadrón de Tiburones",
-                  "text": "Avión T-33 del Escuadrón de Tiburones este un monument în San Gabriel.",
+                  "text": "Avion de vânătoare T-33 retras din serviciu, monument al Escadrilei Rechinilor în Gabriel.",
                   "category": "historical",
                   "coords": [
                         -77.827556,
@@ -6239,7 +8462,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro Pío XII",
-                  "text": "Teatro Pío XII is a theatre in San Gabriel.",
+                  "text": "Pope Pius XII Theater in Gabriel.",
                   "category": "cultural",
                   "coords": [
                         -77.831212,
@@ -6248,7 +8471,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro municipal",
-                  "text": "Teatro municipal is a theatre in San Gabriel.",
+                  "text": "Municipal theater of Gabriel hosting cultural events.",
                   "category": "cultural",
                   "coords": [
                         -77.836069,
@@ -6257,7 +8480,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Avión T-33 del Escuadrón de Tiburones",
-                  "text": "Avión T-33 del Escuadrón de Tiburones is a monument in San Gabriel.",
+                  "text": "Retired T-33 jet fighter, monument of the Shark Squadron in Gabriel.",
                   "category": "historical",
                   "coords": [
                         -77.827556,
@@ -6313,7 +8536,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parque Central de Gualaceo",
-                  "text": "Der Parque Central de Gualaceo ist ein Park in Gualaceo.",
+                  "text": "Der zentrale Platz mit einem schmiedeeisernen Pavillon und kolonialen Häusern.",
                   "category": "park",
                   "coords": [
                         -78.779199,
@@ -6322,7 +8545,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Acueducto",
-                  "text": "Das Acueducto ist eine Ruinenstätte in Gualaceo.",
+                  "text": "Historischer Stein-Aquädukt aus der Kolonialzeit in Gualaceo.",
                   "category": "historical",
                   "coords": [
                         -78.779381,
@@ -6331,7 +8554,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado de animales",
-                  "text": "Der Mercado de animales ist eine Attraktion in Gualaceo.",
+                  "text": "Traditioneller Tiermarkt, der wöchentlich in Gualaceo stattfindet.",
                   "category": "landmark",
                   "coords": [
                         -78.765337,
@@ -6340,7 +8563,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Jaime Roldós y Marta Bucaram",
-                  "text": "Monumento a Jaime Roldós y Marta Bucaram ist ein Denkmal in Gualaceo.",
+                  "text": "Denkmal für Präsident Jaime Roldós und seine Frau Marta Bucaram in Gualaceo.",
                   "category": "historical",
                   "coords": [
                         -78.777099,
@@ -6351,7 +8574,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parque Central de Gualaceo",
-                  "text": "A Parque Central de Gualaceo egy park Gualaceo városában.",
+                  "text": "A központi tér kovácsoltvas zenepavilonnal és gyarmati stílusú házakkal.",
                   "category": "park",
                   "coords": [
                         -78.779199,
@@ -6360,7 +8583,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Acueducto",
-                  "text": "Az Acueducto romok Gualaceo városában találhatók.",
+                  "text": "Gyarmati kori kő vízvezeték Gualaceóban.",
                   "category": "historical",
                   "coords": [
                         -78.779381,
@@ -6369,7 +8592,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado de animales",
-                  "text": "A Mercado de animales egy látványosság Gualaceo városában.",
+                  "text": "Hagyományos állatpiac, amely hetente tart Gualaceóban.",
                   "category": "landmark",
                   "coords": [
                         -78.765337,
@@ -6378,7 +8601,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Jaime Roldós y Marta Bucaram",
-                  "text": "A Monumento a Jaime Roldós y Marta Bucaram egy emlékmű Gualaceo városában.",
+                  "text": "Jaime Roldós elnök és felesége, Marta Bucaram emlékműve Gualaceóban.",
                   "category": "historical",
                   "coords": [
                         -78.777099,
@@ -6389,7 +8612,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parque Central de Gualaceo",
-                  "text": "Parque Central de Gualaceo este un parc în Gualaceo.",
+                  "text": "Piața centrală cu un chioșc din fier forjat și case coloniale.",
                   "category": "park",
                   "coords": [
                         -78.779199,
@@ -6398,7 +8621,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Acueducto",
-                  "text": "Acueducto este un sit cu ruine din Gualaceo.",
+                  "text": "Apeduct istoric de piatră din epoca colonială în Gualaceo.",
                   "category": "historical",
                   "coords": [
                         -78.779381,
@@ -6407,7 +8630,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado de animales",
-                  "text": "Mercado de animales este o atracție în Gualaceo.",
+                  "text": "Piață tradițională de animale care are loc săptămânal în Gualaceo.",
                   "category": "landmark",
                   "coords": [
                         -78.765337,
@@ -6416,7 +8639,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Jaime Roldós y Marta Bucaram",
-                  "text": "Monumento a Jaime Roldós y Marta Bucaram este un monument din Gualaceo.",
+                  "text": "Monumentul președintelui Jaime Roldós și al soției sale Marta Bucaram în Gualaceo.",
                   "category": "historical",
                   "coords": [
                         -78.777099,
@@ -6427,7 +8650,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parque Central de Gualaceo",
-                  "text": "Parque Central de Gualaceo is a park located in Gualaceo.",
+                  "text": "The central square with a wrought-iron gazebo and colonial houses.",
                   "category": "park",
                   "coords": [
                         -78.779199,
@@ -6436,7 +8659,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Acueducto",
-                  "text": "The Acueducto refers to historical ruins in Gualaceo.",
+                  "text": "Historic stone aqueduct from the colonial era in Gualaceo.",
                   "category": "historical",
                   "coords": [
                         -78.779381,
@@ -6445,7 +8668,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Mercado de animales",
-                  "text": "Mercado de animales is an attraction in Gualaceo.",
+                  "text": "Traditional animal market held weekly in Gualaceo.",
                   "category": "landmark",
                   "coords": [
                         -78.765337,
@@ -6454,7 +8677,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a Jaime Roldós y Marta Bucaram",
-                  "text": "Monumento a Jaime Roldós y Marta Bucaram is a monument in Gualaceo.",
+                  "text": "Monument to President Jaime Roldós and his wife Marta Bucaram in Gualaceo.",
                   "category": "historical",
                   "coords": [
                         -78.777099,
@@ -6548,7 +8771,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "San Jacinto de Yaguachi",
-                  "text": "San Jacinto de Yaguachi ist ein Denkmal in Yaguachi.",
+                  "text": "Historische Kirche San Jacinto in Yaguachi.",
                   "category": "historical",
                   "coords": [
                         -79.695915,
@@ -6559,7 +8782,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "San Jacinto de Yaguachi",
-                  "text": "A San Jacinto de Yaguachi egy emlékmű Yaguachi városában.",
+                  "text": "San Jacinto történelmi templom Yaguachiban.",
                   "category": "historical",
                   "coords": [
                         -79.695915,
@@ -6570,7 +8793,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "San Jacinto de Yaguachi",
-                  "text": "San Jacinto de Yaguachi este un monument situat în Yaguachi.",
+                  "text": "Biserica istorică San Jacinto în Yaguachi.",
                   "category": "historical",
                   "coords": [
                         -79.695915,
@@ -6581,7 +8804,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "San Jacinto de Yaguachi",
-                  "text": "San Jacinto de Yaguachi is a monument situated in Yaguachi.",
+                  "text": "Historic church of San Jacinto in Yaguachi.",
                   "category": "historical",
                   "coords": [
                         -79.695915,
@@ -6637,7 +8860,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monumento al Balsero del Carrizal",
-                  "text": "Monumento al Balsero del Carrizal ist ein Denkmal in Calceta.",
+                  "text": "Denkmal für die Flößer auf dem Carrizal-Fluss in Calceta.",
                   "category": "historical",
                   "coords": [
                         -80.165148,
@@ -6646,7 +8869,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Balneario \"El Tape\" Platanales",
-                  "text": "Balneario \"El Tape\" Platanales ist eine Attraktion in Calceta.",
+                  "text": "Flussbad „El Tape“ am Platanales in Calceta.",
                   "category": "landmark",
                   "coords": [
                         -80.148842,
@@ -6657,7 +8880,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento al Balsero del Carrizal",
-                  "text": "A Monumento al Balsero del Carrizal egy emlékmű Calceta városában.",
+                  "text": "A Carrizal folyó tutajosainak emlékműve Calcetában.",
                   "category": "historical",
                   "coords": [
                         -80.165148,
@@ -6666,7 +8889,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Balneario \"El Tape\" Platanales",
-                  "text": "A Balneario \"El Tape\" Platanales egy látványosság Calceta városában.",
+                  "text": "„El Tape” folyófürdő a Platanalesen Calcetában.",
                   "category": "landmark",
                   "coords": [
                         -80.148842,
@@ -6677,7 +8900,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento al Balsero del Carrizal",
-                  "text": "Monumento al Balsero del Carrizal este un monument în Calceta.",
+                  "text": "Monumentul plutașilor de pe râul Carrizal în Calceta.",
                   "category": "historical",
                   "coords": [
                         -80.165148,
@@ -6686,7 +8909,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Balneario \"El Tape\" Platanales",
-                  "text": "Balneario \"El Tape\" Platanales este o atracție în Calceta.",
+                  "text": "Stațiune fluvială „El Tape” pe râul Platanales în Calceta.",
                   "category": "landmark",
                   "coords": [
                         -80.148842,
@@ -6697,7 +8920,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monumento al Balsero del Carrizal",
-                  "text": "Monumento al Balsero del Carrizal is a monument in Calceta.",
+                  "text": "Monument to the rafters on the Carrizal River in Calceta.",
                   "category": "historical",
                   "coords": [
                         -80.165148,
@@ -6706,7 +8929,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "Balneario \"El Tape\" Platanales",
-                  "text": "Balneario \"El Tape\" Platanales is an attraction in Calceta.",
+                  "text": "River resort „El Tape” on the Platanales in Calceta.",
                   "category": "landmark",
                   "coords": [
                         -80.148842,
@@ -6762,7 +8985,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Arenillas City",
-                  "text": "Arenillas City ist ein Aussichtspunkt in der Stadt Arenillas.",
+                  "text": "Stadt am Arenillas-Fluss, umgeben von Natur.",
                   "category": "natural",
                   "coords": [
                         -80.055899,
@@ -6771,7 +8994,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "LAS TRES CRUCES",
-                  "text": "LAS TRES CRUCES ist ein Aussichtspunkt in Arenillas.",
+                  "text": "Drei Kreuze auf einem Hügel mit Blick auf Arenillas.",
                   "category": "natural",
                   "coords": [
                         -80.061909,
@@ -6782,7 +9005,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Arenillas City",
-                  "text": "Az Arenillas City egy kilátópont Arenillas városában.",
+                  "text": "Város az Arenillas folyó partján, természeti környezetben.",
                   "category": "natural",
                   "coords": [
                         -80.055899,
@@ -6791,7 +9014,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "LAS TRES CRUCES",
-                  "text": "A LAS TRES CRUCES egy kilátópont Arenillas városában.",
+                  "text": "Három kereszt egy dombon, Arenillasra nézve.",
                   "category": "natural",
                   "coords": [
                         -80.061909,
@@ -6802,7 +9025,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Arenillas City",
-                  "text": "Arenillas City este un punct de belvedere în Arenillas.",
+                  "text": "Oraș pe malul râului Arenillas, înconjurat de natură.",
                   "category": "natural",
                   "coords": [
                         -80.055899,
@@ -6811,7 +9034,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "LAS TRES CRUCES",
-                  "text": "LAS TRES CRUCES este un punct de belvedere din Arenillas.",
+                  "text": "Trei cruci pe un deal cu vedere spre Arenillas.",
                   "category": "natural",
                   "coords": [
                         -80.061909,
@@ -6822,7 +9045,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Arenillas City",
-                  "text": "Arenillas City is a scenic viewpoint in Arenillas.",
+                  "text": "Town on the banks of the Arenillas River, surrounded by nature.",
                   "category": "natural",
                   "coords": [
                         -80.055899,
@@ -6831,7 +9054,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
             },
             {
                   "name": "LAS TRES CRUCES",
-                  "text": "LAS TRES CRUCES is a viewpoint located in Arenillas.",
+                  "text": "Three crosses on a hill overlooking Arenillas.",
                   "category": "natural",
                   "coords": [
                         -80.061909,

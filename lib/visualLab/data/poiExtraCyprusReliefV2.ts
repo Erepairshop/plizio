@@ -412,7 +412,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Timios Stavros",
-                  "text": "Eine kleine Kirche oder Kapelle, die dem Heiligen Kreuz geweiht ist.",
+                  "text": "Eine Kapelle, die dem Heiligen Kreuz auf dem Gipfel Adelphi geweiht ist.",
                   "category": "religious",
                   "coords": [
                         32.976265,
@@ -468,7 +468,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Timios Stavros",
-                  "text": "A Szent Keresztnek szentelt kis templom vagy kápolna.",
+                  "text": "Egy kápolna a Szent Kereszt tiszteletére Adelphi csúcsán.",
                   "category": "religious",
                   "coords": [
                         32.976265,
@@ -524,7 +524,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Timios Stavros",
-                  "text": "O mică biserică sau capelă dedicată Sfintei Cruci.",
+                  "text": "O capelă dedicată Sfintei Cruci pe vârful Adelphi.",
                   "category": "religious",
                   "coords": [
                         32.976265,
@@ -580,7 +580,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Timios Stavros",
-                  "text": "A small church or chapel dedicated to the Holy Cross.",
+                  "text": "A chapel dedicated to the Holy Cross on Adelphi Peak.",
                   "category": "religious",
                   "coords": [
                         32.976265,
@@ -1839,7 +1839,160 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-akkapeli-peak-relief-v2.webp",
   },
   {
-    id: "cyprus-yaila-plateau-relief-v2", "sights": {"de": [{"name": "Alagadi 2", "text": "Strand in der Nähe des Yaila-Plateaus.", "category": "recreational", "coords": [33.484957, 35.332938]}, {"name": "Alagadi Beach 3", "text": "Eingebettet in die Naturlandschaft unterhalb des Yaila-Plateaus, ist der Alagadi Beach 3 ein idyllisches Ziel für Meeresliebhaber. Die weiten Sandflächen und das sanfte Wellenspiel laden zu ausgiebigen Barfußspaziergängen und erfrischenden Badeausflügen ein. Der Küstenabschnitt ist bekannt für seine natürliche Ursprünglichkeit, die viel Raum für entspannte Stunden bietet. Gerade im Sommer empfiehlt es sich, früh zu starten, um die morgendliche Frische am Wasser zu erleben.", "category": "recreational", "coords": [33.492196, 35.335312]}, {"name": "Korenium beach", "text": "Unter der Kulisse des Yaila-Plateaus eröffnet der Korenium Beach den Gästen eine stilvolle und entspannte Badegelegenheit auf Zypern. Der schöne Uferbereich ist hervorragend geeignet, um sonnige Stunden am Meer zu verbringen und sich in den Wellen zu vergnügen. Oft schätzen Besucher das gepflegte Ambiente, das eine wunderbare Balance zwischen Erholung und Aktivität schafft. Nehmen Sie sich Zeit für einen gemütlichen Spaziergang am späten Nachmittag, wenn das Licht besonders weich fällt.", "category": "recreational", "coords": [33.508955, 35.337783]}, {"name": "Alagadi Beach 1", "text": "Ein beliebtes Refugium nahe dem Yaila-Plateau ist der weite Alagadi Beach 1. Die großzügige Küstenlinie bietet ideale Bedingungen für alle, die das Meer lieben, sei es beim Schwimmen oder beim Sandburgenbauen mit der Familie. Die weitläufige, natürliche Umgebung sorgt dafür, dass jeder ein ruhiges Plätzchen für sich findet. Es lohnt sich, einen Sonnenschirm mitzubringen, um auch an heißen Mittagen angenehm am Strand verweilen zu können.", "category": "recreational", "coords": [33.479619, 35.332141]}], "hu": [{"name": "Alagadi 2", "text": "Strand a Yaila-fennsík közelében.", "category": "recreational", "coords": [33.484957, 35.332938]}, {"name": "Alagadi Beach 3", "text": "A Yaila-fennsík alatti természeti tájba ágyazódott Alagadi Beach 3 idilli célpont a tenger szerelmeseinek. A széles homokos területek és a lágy hullámzás kiterjedt mezítlábas sétákra és frissítő fürdőzésekre hívogatnak. A partszakasz a természetes eredetiségéről ismert, amely bőséges teret kínál a pihentető órákhoz. Különösen nyáron érdemes korán indulni, hogy átélhessük a vízparti reggeli frissességet.", "category": "recreational", "coords": [33.492196, 35.335312]}, {"name": "Korenium beach", "text": "A Yaila-fennsík hátterében a Korenium Beach stílusos és pihentető fürdőzési lehetőséget kínál a vendégeknek Cipruson. A gyönyörű partszakasz kiválóan alkalmas arra, hogy napos órákat töltsön a tengernél, és szórakozzon a hullámokban. A látogatók gyakran értékelik a gondozott környezetet, amely csodálatos egyensúlyt teremt a pihenés és az aktivitás között. Szánjon időt egy kényelmes sétára a késő délutáni órákban, amikor a fények különösen lágyak.", "category": "recreational", "coords": [33.508955, 35.337783]}, {"name": "Alagadi Beach 1", "text": "A Yaila-fennsík közelében található tágas Alagadi Beach 1 egy népszerű menedék. A tágas partvonal ideális feltételeket kínál mindazoknak, akik szeretik a tengert, legyen szó úszásról vagy homokvár-építésről a családdal. A kiterjedt, természetes környezet gondoskodik arról, hogy mindenki találjon magának egy csendes helyet. Érdemes napernyőt hozni, hogy a forró déli órákban is kellemesen elidőzhessen a strandon.", "category": "recreational", "coords": [33.479619, 35.332141]}], "ro": [{"name": "Alagadi 2", "text": "Plajă lângă Platoul Yaila.", "category": "recreational", "coords": [33.484957, 35.332938]}, {"name": "Alagadi Beach 3", "text": "Amplasată în peisajul natural de sub Platoul Yaila, Alagadi Beach 3 este o destinație idilică pentru iubitorii mării. Întinderile largi de nisip și jocul blând al valurilor te invită la plimbări lungi în picioarele goale și la excursii revigorante de înot. Această secțiune de coastă este cunoscută pentru naturalețea sa virgină, oferind mult spațiu pentru ore de relaxare. Mai ales vara, este recomandat să porniți devreme pentru a experimenta prospețimea matinală lângă apă.", "category": "recreational", "coords": [33.492196, 35.335312]}, {"name": "Korenium beach", "text": "Sub fundalul Platoul Yaila, plaja Korenium oferă oaspeților o oportunitate de înot elegantă și relaxantă în Cipru. Frumoasa zonă de țărm este excelentă pentru a petrece ore însorite pe malul mării și pentru a te bucura de valuri. Adesea, vizitatorii apreciază ambianța bine îngrijită, care creează un echilibru minunat între recreere și activitate. Fă-ți timp pentru o plimbare pe îndelete la sfârșitul după-amiezii, când lumina cade deosebit de blând.", "category": "recreational", "coords": [33.508955, 35.337783]}, {"name": "Alagadi Beach 1", "text": "Un refugiu popular în apropierea Platoului Yaila este întinsa plajă Alagadi 1. Linia de coastă generoasă oferă condiții ideale pentru toți cei care iubesc marea, fie pentru a înota sau pentru a construi castele de nisip cu familia. Mediul vast și natural asigură că fiecare își poate găsi un loc liniștit. Merită să aduceți o umbrelă de soare, pentru a vă putea relaxa confortabil pe plajă chiar și în după-amiezile fierbinți.", "category": "recreational", "coords": [33.479619, 35.332141]}], "en": [{"name": "Alagadi 2", "text": "Beach near the Yaila plateau.", "category": "recreational", "coords": [33.484957, 35.332938]}, {"name": "Alagadi Beach 3", "text": "Set against the natural backdrop beneath the Yaila Plateau, Alagadi Beach 3 is a truly idyllic destination for ocean lovers. The wide sandy expanses and gentle waves openly invite visitors for extensive barefoot walks and refreshing swimming excursions. This stretch of coast is celebrated for its natural, unspoiled character, offering plenty of space for relaxing hours. Especially in the summer, starting your day early is recommended to fully experience the morning freshness by the water.", "category": "recreational", "coords": [33.492196, 35.335312]}, {"name": "Korenium beach", "text": "Set beneath the striking backdrop of the Yaila Plateau, Korenium Beach offers guests a stylish and wonderfully relaxed swimming opportunity in Cyprus. The beautifully maintained shoreline is brilliantly suited for spending sunny hours by the sea and frolicking in the gentle waves. Visitors frequently praise the manicured ambiance, which strikes a wonderful balance between recreation and leisure. Make sure to take your time for a leisurely stroll in the late afternoon when the sunlight is especially soft.", "category": "recreational", "coords": [33.508955, 35.337783]}, {"name": "Alagadi Beach 1", "text": "A highly popular refuge near the Yaila Plateau is the expansive Alagadi Beach 1. This generous coastline provides absolutely ideal conditions for anyone who loves the ocean, whether for swimming or building sandcastles with the family. The sprawling, natural environment ensures that everyone can easily find a quiet spot for themselves. It is highly advisable to bring an umbrella so you can comfortably linger on the beach even during the hot midday hours.", "category": "recreational", "coords": [33.479619, 35.332141]}]},
+    id: "cyprus-yaila-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alagadi 2",
+                  "text": "Strand auf dem Yaila-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        33.484957,
+                        35.332938
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 3",
+                  "text": "Eingebettet in die Naturlandschaft unterhalb des Yaila-Plateaus, ist der Alagadi Beach 3 ein idyllisches Ziel für Meeresliebhaber. Die weiten Sandflächen und das sanfte Wellenspiel laden zu ausgiebigen Barfußspaziergängen und erfrischenden Badeausflügen ein. Der Küstenabschnitt ist bekannt für seine natürliche Ursprünglichkeit, die viel Raum für entspannte Stunden bietet. Gerade im Sommer empfiehlt es sich, früh zu starten, um die morgendliche Frische am Wasser zu erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        33.492196,
+                        35.335312
+                  ]
+            },
+            {
+                  "name": "Korenium beach",
+                  "text": "Unter der Kulisse des Yaila-Plateaus eröffnet der Korenium Beach den Gästen eine stilvolle und entspannte Badegelegenheit auf Zypern. Der schöne Uferbereich ist hervorragend geeignet, um sonnige Stunden am Meer zu verbringen und sich in den Wellen zu vergnügen. Oft schätzen Besucher das gepflegte Ambiente, das eine wunderbare Balance zwischen Erholung und Aktivität schafft. Nehmen Sie sich Zeit für einen gemütlichen Spaziergang am späten Nachmittag, wenn das Licht besonders weich fällt.",
+                  "category": "recreational",
+                  "coords": [
+                        33.508955,
+                        35.337783
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 1",
+                  "text": "Ein beliebtes Refugium nahe dem Yaila-Plateau ist der weite Alagadi Beach 1. Die großzügige Küstenlinie bietet ideale Bedingungen für alle, die das Meer lieben, sei es beim Schwimmen oder beim Sandburgenbauen mit der Familie. Die weitläufige, natürliche Umgebung sorgt dafür, dass jeder ein ruhiges Plätzchen für sich findet. Es lohnt sich, einen Sonnenschirm mitzubringen, um auch an heißen Mittagen angenehm am Strand verweilen zu können.",
+                  "category": "recreational",
+                  "coords": [
+                        33.479619,
+                        35.332141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alagadi 2",
+                  "text": "Strand a Yaila-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        33.484957,
+                        35.332938
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 3",
+                  "text": "A Yaila-fennsík alatti természeti tájba ágyazódott Alagadi Beach 3 idilli célpont a tenger szerelmeseinek. A széles homokos területek és a lágy hullámzás kiterjedt mezítlábas sétákra és frissítő fürdőzésekre hívogatnak. A partszakasz a természetes eredetiségéről ismert, amely bőséges teret kínál a pihentető órákhoz. Különösen nyáron érdemes korán indulni, hogy átélhessük a vízparti reggeli frissességet.",
+                  "category": "recreational",
+                  "coords": [
+                        33.492196,
+                        35.335312
+                  ]
+            },
+            {
+                  "name": "Korenium beach",
+                  "text": "A Yaila-fennsík hátterében a Korenium Beach stílusos és pihentető fürdőzési lehetőséget kínál a vendégeknek Cipruson. A gyönyörű partszakasz kiválóan alkalmas arra, hogy napos órákat töltsön a tengernél, és szórakozzon a hullámokban. A látogatók gyakran értékelik a gondozott környezetet, amely csodálatos egyensúlyt teremt a pihenés és az aktivitás között. Szánjon időt egy kényelmes sétára a késő délutáni órákban, amikor a fények különösen lágyak.",
+                  "category": "recreational",
+                  "coords": [
+                        33.508955,
+                        35.337783
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 1",
+                  "text": "A Yaila-fennsík közelében található tágas Alagadi Beach 1 egy népszerű menedék. A tágas partvonal ideális feltételeket kínál mindazoknak, akik szeretik a tengert, legyen szó úszásról vagy homokvár-építésről a családdal. A kiterjedt, természetes környezet gondoskodik arról, hogy mindenki találjon magának egy csendes helyet. Érdemes napernyőt hozni, hogy a forró déli órákban is kellemesen elidőzhessen a strandon.",
+                  "category": "recreational",
+                  "coords": [
+                        33.479619,
+                        35.332141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alagadi 2",
+                  "text": "Plajă pe platoul Yaila.",
+                  "category": "recreational",
+                  "coords": [
+                        33.484957,
+                        35.332938
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 3",
+                  "text": "Amplasată în peisajul natural de sub Platoul Yaila, Alagadi Beach 3 este o destinație idilică pentru iubitorii mării. Întinderile largi de nisip și jocul blând al valurilor te invită la plimbări lungi în picioarele goale și la excursii revigorante de înot. Această secțiune de coastă este cunoscută pentru naturalețea sa virgină, oferind mult spațiu pentru ore de relaxare. Mai ales vara, este recomandat să porniți devreme pentru a experimenta prospețimea matinală lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        33.492196,
+                        35.335312
+                  ]
+            },
+            {
+                  "name": "Korenium beach",
+                  "text": "Sub fundalul Platoul Yaila, plaja Korenium oferă oaspeților o oportunitate de înot elegantă și relaxantă în Cipru. Frumoasa zonă de țărm este excelentă pentru a petrece ore însorite pe malul mării și pentru a te bucura de valuri. Adesea, vizitatorii apreciază ambianța bine îngrijită, care creează un echilibru minunat între recreere și activitate. Fă-ți timp pentru o plimbare pe îndelete la sfârșitul după-amiezii, când lumina cade deosebit de blând.",
+                  "category": "recreational",
+                  "coords": [
+                        33.508955,
+                        35.337783
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 1",
+                  "text": "Un refugiu popular în apropierea Platoului Yaila este întinsa plajă Alagadi 1. Linia de coastă generoasă oferă condiții ideale pentru toți cei care iubesc marea, fie pentru a înota sau pentru a construi castele de nisip cu familia. Mediul vast și natural asigură că fiecare își poate găsi un loc liniștit. Merită să aduceți o umbrelă de soare, pentru a vă putea relaxa confortabil pe plajă chiar și în după-amiezile fierbinți.",
+                  "category": "recreational",
+                  "coords": [
+                        33.479619,
+                        35.332141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alagadi 2",
+                  "text": "Beach on the Yaila Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        33.484957,
+                        35.332938
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 3",
+                  "text": "Set against the natural backdrop beneath the Yaila Plateau, Alagadi Beach 3 is a truly idyllic destination for ocean lovers. The wide sandy expanses and gentle waves openly invite visitors for extensive barefoot walks and refreshing swimming excursions. This stretch of coast is celebrated for its natural, unspoiled character, offering plenty of space for relaxing hours. Especially in the summer, starting your day early is recommended to fully experience the morning freshness by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        33.492196,
+                        35.335312
+                  ]
+            },
+            {
+                  "name": "Korenium beach",
+                  "text": "Set beneath the striking backdrop of the Yaila Plateau, Korenium Beach offers guests a stylish and wonderfully relaxed swimming opportunity in Cyprus. The beautifully maintained shoreline is brilliantly suited for spending sunny hours by the sea and frolicking in the gentle waves. Visitors frequently praise the manicured ambiance, which strikes a wonderful balance between recreation and leisure. Make sure to take your time for a leisurely stroll in the late afternoon when the sunlight is especially soft.",
+                  "category": "recreational",
+                  "coords": [
+                        33.508955,
+                        35.337783
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 1",
+                  "text": "A highly popular refuge near the Yaila Plateau is the expansive Alagadi Beach 1. This generous coastline provides absolutely ideal conditions for anyone who loves the ocean, whether for swimming or building sandcastles with the family. The sprawling, natural environment ensures that everyone can easily find a quiet spot for themselves. It is highly advisable to bring an umbrella so you can comfortably linger on the beach even during the hot midday hours.",
+                  "category": "recreational",
+                  "coords": [
+                        33.479619,
+                        35.332141
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Yaila Plateau", hu: "Yaila-fennsík", ro: "Podișul Yaila", en: "Yaila Plateau" },
@@ -2158,7 +2311,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Church of Saint George at Sykada",
-                  "text": "Die Ruinen der St.-Georgs-Kirche bei Sykada in der Region Dipkarpaz.",
+                  "text": "Historische Georgskirche im Tiefland von Dipkarpaz.",
                   "category": "historical",
                   "coords": [
                         34.32315,
@@ -2214,7 +2367,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Church of Saint George at Sykada",
-                  "text": "A Sykada melletti Szent György-templom romjai a Dipkarpaz régióban.",
+                  "text": "Történelmi Szent György-templom a Dipkarpaz-alföldön.",
                   "category": "historical",
                   "coords": [
                         34.32315,
@@ -2270,7 +2423,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Church of Saint George at Sykada",
-                  "text": "Ruinele bisericii Sfântul Gheorghe de la Sykada, în regiunea Dipkarpaz.",
+                  "text": "Biserică istorică Sfântul Gheorghe în câmpia Dipkarpaz.",
                   "category": "historical",
                   "coords": [
                         34.32315,
@@ -2326,7 +2479,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Church of Saint George at Sykada",
-                  "text": "The ruins of the Saint George church at Sykada in the Dipkarpaz region.",
+                  "text": "Historic Church of Saint George in the Dipkarpaz Lowlands.",
                   "category": "historical",
                   "coords": [
                         34.32315,
@@ -2833,7 +2986,7 @@ export const cyprusReliefV2: POI[] = [
       "de": [
             {
                   "name": "Éloros",
-                  "text": "Ein Berggipfel im Dierona-Tal.",
+                  "text": "Ein Aussichtspunkt im Tal Dierona.",
                   "category": "landmark",
                   "coords": [
                         33.052572,
@@ -2842,7 +2995,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Dieronas Little House",
-                  "text": "Eine lokale Sehenswürdigkeit im malerischen Dierona-Tal.",
+                  "text": "Traditionelles Steinhaus im Dierona-Tal.",
                   "category": "landmark",
                   "coords": [
                         33.086349,
@@ -2862,7 +3015,7 @@ export const cyprusReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Éloros",
-                  "text": "Hegyi csúcs a Dierona-völgyben.",
+                  "text": "Egy kilátópont a Dierona-völgyben.",
                   "category": "landmark",
                   "coords": [
                         33.052572,
@@ -2871,7 +3024,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Dieronas Little House",
-                  "text": "Helyi látnivaló a festői Dierona-völgyben.",
+                  "text": "Hagyományos kőház a Dierona-völgyben.",
                   "category": "landmark",
                   "coords": [
                         33.086349,
@@ -2891,7 +3044,7 @@ export const cyprusReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Éloros",
-                  "text": "Un vârf montan situat în Valea Dierona.",
+                  "text": "Un punct de belvedere în valea Dierona.",
                   "category": "landmark",
                   "coords": [
                         33.052572,
@@ -2900,7 +3053,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Dieronas Little House",
-                  "text": "O atracție locală în pitoreasca Vale Dierona.",
+                  "text": "Casă tradițională de piatră în Valea Dierona.",
                   "category": "landmark",
                   "coords": [
                         33.086349,
@@ -2920,7 +3073,7 @@ export const cyprusReliefV2: POI[] = [
       "en": [
             {
                   "name": "Éloros",
-                  "text": "A mountain peak located in the Dierona Valley.",
+                  "text": "A scenic viewpoint in the Dierona Valley.",
                   "category": "landmark",
                   "coords": [
                         33.052572,
@@ -2929,7 +3082,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Dieronas Little House",
-                  "text": "A local attraction in the scenic Dierona Valley.",
+                  "text": "Traditional stone house in Dierona Valley.",
                   "category": "landmark",
                   "coords": [
                         33.086349,
@@ -3022,7 +3175,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "War memorial",
-                  "text": "Ein Denkmal zum Gedenken an die Opfer vergangener Kriege.",
+                  "text": "Kriegerdenkmal auf dem Gipfel Farma.",
                   "category": "historical",
                   "coords": [
                         33.00813,
@@ -3040,7 +3193,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Timios Stavros",
-                  "text": "Ein lokales Gotteshaus am Farma Peak.",
+                  "text": "Eine Kapelle, die dem Heiligen Kreuz auf dem Gipfel Farma geweiht ist.",
                   "category": "religious",
                   "coords": [
                         32.976265,
@@ -3078,7 +3231,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "War memorial",
-                  "text": "Emlékmű a múltbeli háborúk áldozatainak tiszteletére.",
+                  "text": "Háborús emlékmű a Farma-csúcson.",
                   "category": "historical",
                   "coords": [
                         33.00813,
@@ -3096,7 +3249,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Timios Stavros",
-                  "text": "Helyi vallási helyszín a Farma-csúcson.",
+                  "text": "Egy kápolna a Szent Kereszt tiszteletére Farma csúcsán.",
                   "category": "religious",
                   "coords": [
                         32.976265,
@@ -3134,7 +3287,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "War memorial",
-                  "text": "Un monument ridicat în memoria victimelor războaielor trecute.",
+                  "text": "Monument al războiului pe Vârful Farma.",
                   "category": "historical",
                   "coords": [
                         33.00813,
@@ -3152,7 +3305,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Timios Stavros",
-                  "text": "Un lăcaș de cult local situat pe vârful Farma.",
+                  "text": "O capelă dedicată Sfintei Cruci pe vârful Farma.",
                   "category": "religious",
                   "coords": [
                         32.976265,
@@ -3190,7 +3343,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "War memorial",
-                  "text": "A memorial dedicated to the victims of past wars.",
+                  "text": "War memorial atop Farma Peak.",
                   "category": "historical",
                   "coords": [
                         33.00813,
@@ -3208,7 +3361,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Timios Stavros",
-                  "text": "A local place of worship located on Farma Peak.",
+                  "text": "A chapel dedicated to the Holy Cross on Farma Peak.",
                   "category": "religious",
                   "coords": [
                         32.976265,
@@ -3265,7 +3418,7 @@ export const cyprusReliefV2: POI[] = [
       "de": [
             {
                   "name": "Iera Mone Panagias Khrusokourdaliotissas",
-                  "text": "Ein historisches Kloster im Spilia-Tal auf Zypern.",
+                  "text": "Kloster im Tal Spilia, das der Jungfrau Maria geweiht ist und für die Denkmalpflege vorgeschlagen wurde.",
                   "category": "landmark",
                   "coords": [
                         32.950684,
@@ -3274,7 +3427,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Mouflon Enclosure",
-                  "text": "Das Mufflon-Gehege ist ein Wildpark im Spilia-Tal.",
+                  "text": "Gehege für Mufflons im Spilia-Tal.",
                   "category": "recreational",
                   "coords": [
                         32.930782,
@@ -3285,7 +3438,7 @@ export const cyprusReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Iera Mone Panagias Khrusokourdaliotissas",
-                  "text": "Történelmi kolostor a ciprusi Spilia-völgyben.",
+                  "text": "A Szent Szűznek szentelt kolostor a Spilia-völgyben, örökségvédelmi javaslattal.",
                   "category": "landmark",
                   "coords": [
                         32.950684,
@@ -3294,7 +3447,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Mouflon Enclosure",
-                  "text": "A muflon kifutó egy vadaskert a Spilia-völgyben.",
+                  "text": "Mouflon-kifutó a Spilia-völgyben.",
                   "category": "recreational",
                   "coords": [
                         32.930782,
@@ -3305,7 +3458,7 @@ export const cyprusReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Iera Mone Panagias Khrusokourdaliotissas",
-                  "text": "O mănăstire istorică în Valea Spilia din Cipru.",
+                  "text": "Mănăstire în Valea Spilia, dedicată Fecioarei Maria, propusă pentru protejare ca monument istoric.",
                   "category": "landmark",
                   "coords": [
                         32.950684,
@@ -3314,7 +3467,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Mouflon Enclosure",
-                  "text": "Țarcul pentru mufloni este o grădină zoologică din Valea Spilia.",
+                  "text": "Incintă pentru mufloni în Valea Spilia.",
                   "category": "recreational",
                   "coords": [
                         32.930782,
@@ -3325,7 +3478,7 @@ export const cyprusReliefV2: POI[] = [
       "en": [
             {
                   "name": "Holy Monastery of Virgin Mary the Chrysokourdaliotissa",
-                  "text": "A historic monastery in the Spilia Valley of Cyprus.",
+                  "text": "Monastery in the Spilia Valley dedicated to the Virgin Mary, proposed for heritage protection.",
                   "category": "landmark",
                   "coords": [
                         32.950684,
@@ -3334,7 +3487,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Mouflon Enclosure",
-                  "text": "The Mouflon Enclosure is a wildlife area located in the Spilia Valley.",
+                  "text": "Mouflon enclosure in Spilia Valley.",
                   "category": "recreational",
                   "coords": [
                         32.930782,
@@ -3589,7 +3742,7 @@ export const cyprusReliefV2: POI[] = [
       "de": [
             {
                   "name": "Linos",
-                  "text": "Ein kleines lokales Museum im Karkotis-Tal.",
+                  "text": "Museum im Karkotis-Tal.",
                   "category": "museum",
                   "coords": [
                         32.901913,
@@ -3607,7 +3760,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Petra toy Antrogynou",
-                  "text": "Eine lokale Sehenswürdigkeit im Karkotis-Tal.",
+                  "text": "Große Felsformation mit einer Legende im Karkotis-Tal.",
                   "category": "landmark",
                   "coords": [
                         32.902549,
@@ -3627,7 +3780,7 @@ export const cyprusReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Linos",
-                  "text": "Kisméretű helyi múzeum a Karkotis-völgyben.",
+                  "text": "Múzeum a Karkotis-völgyben.",
                   "category": "museum",
                   "coords": [
                         32.901913,
@@ -3645,7 +3798,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Petra toy Antrogynou",
-                  "text": "Helyi látnivaló a Karkotis-völgyben.",
+                  "text": "Nagy sziklaformáció egy legendával a Karkotis-völgyben.",
                   "category": "landmark",
                   "coords": [
                         32.902549,
@@ -3665,7 +3818,7 @@ export const cyprusReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Linos",
-                  "text": "Un mic muzeu local situat în Valea Karkotis.",
+                  "text": "Muzeu în Valea Karkotis.",
                   "category": "museum",
                   "coords": [
                         32.901913,
@@ -3683,7 +3836,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Petra toy Antrogynou",
-                  "text": "O atracție locală situată în Valea Karkotis.",
+                  "text": "Formațiune stâncoasă mare cu o legendă în Valea Karkotis.",
                   "category": "landmark",
                   "coords": [
                         32.902549,
@@ -3703,7 +3856,7 @@ export const cyprusReliefV2: POI[] = [
       "en": [
             {
                   "name": "Linos",
-                  "text": "A small local museum located in the Karkotis Valley.",
+                  "text": "Museum in the Karkotis Valley.",
                   "category": "museum",
                   "coords": [
                         32.901913,
@@ -3721,7 +3874,7 @@ export const cyprusReliefV2: POI[] = [
             },
             {
                   "name": "Petra toy Antrogynou",
-                  "text": "A local attraction located in the Karkotis Valley.",
+                  "text": "Large rock formation associated with a legend in Karkotis Valley.",
                   "category": "landmark",
                   "coords": [
                         32.902549,

@@ -89,7 +89,7 @@ imageHint: "Pindus mountain range landscape overview",
             },
             {
                   "name": "Dipli Thodore",
-                  "text": "Ein Berggipfel in den kretischen Weißen Bergen.",
+                  "text": "Dipli Thodori, ein Gipfel in den Lefka Ori auf Kreta.",
                   "category": "landmark",
                   "coords": [
                         24.052033,
@@ -163,7 +163,7 @@ imageHint: "Pindus mountain range landscape overview",
             },
             {
                   "name": "Dipli Thodore",
-                  "text": "Hegycsúcs a krétai Fehér-hegységben.",
+                  "text": "Dipli Thodori, egy csúcs a Lefka Ori-hegységben Krétán.",
                   "category": "landmark",
                   "coords": [
                         24.052033,
@@ -237,7 +237,7 @@ imageHint: "Pindus mountain range landscape overview",
             },
             {
                   "name": "Dipli Thodore",
-                  "text": "Un vârf montan în Munții Albi din Creta.",
+                  "text": "Dipli Thodori, un vârf în munții Lefka Ori din Creta.",
                   "category": "landmark",
                   "coords": [
                         24.052033,
@@ -311,7 +311,7 @@ imageHint: "Pindus mountain range landscape overview",
             },
             {
                   "name": "Dipli Thodori",
-                  "text": "A mountain peak in the Cretan White Mountains.",
+                  "text": "Dipli Thodori, a peak in the Lefka Ori mountains on Crete.",
                   "category": "landmark",
                   "coords": [
                         24.052033,
@@ -1241,7 +1241,7 @@ imageHint: "Mount Parnitha peaks near Athens",
       "de": [
             {
                   "name": "Arkhaio theatro Ikarias Attikes",
-                  "text": "Die Ruinen eines antiken Theaters, das dem Gott Dionysos gewidmet war.",
+                  "text": "Ruinen eines antiken Theaters am Berg Pentelikon, das für das Ikarion-Fest genutzt wurde.",
                   "category": "historical",
                   "coords": [
                         23.900479,
@@ -1279,7 +1279,7 @@ imageHint: "Mount Parnitha peaks near Athens",
       "hu": [
             {
                   "name": "Arkhaio theatro Ikarias Attikes",
-                  "text": "Egy Dionüszosznak szentelt ókori színház romjai.",
+                  "text": "Egy ősi színház romjai a Pentelikon-hegyen, az Ikarion-fesztivál helyszíne.",
                   "category": "historical",
                   "coords": [
                         23.900479,
@@ -1317,7 +1317,7 @@ imageHint: "Mount Parnitha peaks near Athens",
       "ro": [
             {
                   "name": "Arkhaio theatro Ikarias Attikes",
-                  "text": "Ruinele unui teatru antic dedicat zeului Dionysos.",
+                  "text": "Ruinele unui teatru antic pe Muntele Pentelic, folosit pentru festivalul Ikarion.",
                   "category": "historical",
                   "coords": [
                         23.900479,
@@ -1355,7 +1355,7 @@ imageHint: "Mount Parnitha peaks near Athens",
       "en": [
             {
                   "name": "Ruins of ancient theater of Icarion Aegeidas (Attica)",
-                  "text": "The ruins of an ancient theater dedicated to the god Dionysus.",
+                  "text": "Ruins of an ancient theater on Mount Pentelicus, used for the Icarion festival.",
                   "category": "historical",
                   "coords": [
                         23.900479,
@@ -2134,7 +2134,7 @@ imageHint: "Mount Vermio ski resort and slopes",
             },
             {
                   "name": "Ηλιακό Ρολόι Αστρονομικής Ένωσης Sparteς",
-                  "text": "Diese Sonnenuhr ist eine astronomische Attraktion der Sparta Astronomical Union im Parnon-Gebirge.",
+                  "text": "Die Sonnenuhr der Astronomischen Union Spartas auf dem Berg Parnon ist eine Steinsonnenuhr für Sonnenbeobachtungen.",
                   "category": "landmark",
                   "coords": [
                         22.585468,
@@ -2154,7 +2154,7 @@ imageHint: "Mount Vermio ski resort and slopes",
             },
             {
                   "name": "Ηλιακό Ρολόι Αστρονομικής Ένωσης Sparteς",
-                  "text": "Ez a napóra a Sparta Astronomical Union csillagászati látványossága a Parnon-hegységben.",
+                  "text": "A Spártai Csillagászati Unió napórája a Parnon-hegyen egy kőből készült napóra, melyet helyi csillagászok használnak.",
                   "category": "landmark",
                   "coords": [
                         22.585468,
@@ -2174,7 +2174,7 @@ imageHint: "Mount Vermio ski resort and slopes",
             },
             {
                   "name": "Ηλιακό Ρολόι Αστρονομικής Ένωσης Sparteς",
-                  "text": "Acest cadran solar este o atracție astronomică a Uniunii Astronomice din Sparta, situată în Munții Parnon.",
+                  "text": "Cadranul solar al Uniunii Astronomice Sparta de pe Muntele Parnon este un cadran de piatră folosit pentru observații solare.",
                   "category": "landmark",
                   "coords": [
                         22.585468,
@@ -2194,7 +2194,7 @@ imageHint: "Mount Vermio ski resort and slopes",
             },
             {
                   "name": "Sparta Astronomical Union Sundial",
-                  "text": "This sundial is an astronomical attraction of the Sparta Astronomical Union located on Mount Parnon.",
+                  "text": "The Sparta Astronomical Union Sundial on Mount Parnon is a stone sundial used for solar observations.",
                   "category": "landmark",
                   "coords": [
                         22.585468,
@@ -2800,7 +2800,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "de": [
             {
                   "name": "Kainourgio Kastelli;Purgos Ampelas",
-                  "text": "Eine historische Burgruine in der Messara-Ebene.",
+                  "text": "Burg aus dem Jahr 1206 in der Messara-Ebene auf Kreta, auch Castel Nuovo genannt.",
                   "category": "castle",
                   "coords": [
                         24.909745,
@@ -2809,7 +2809,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
             },
             {
                   "name": "Rouvas Wohnhöhlen",
-                  "text": "Archäologische Fundstätte in den Höhlen von Rouvas.",
+                  "text": "Die Rouvas-Höhlen in der Messara-Ebene sind ein Höhlenlabyrinth, bekannt für neolithische Funde.",
                   "category": "historical",
                   "coords": [
                         24.895489,
@@ -2820,7 +2820,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "hu": [
             {
                   "name": "Kainourgio Kastelli;Purgos Ampelas",
-                  "text": "Történelmi várrom a Messzara-alföldön.",
+                  "text": "1206-ban épült vár a Messara-síkságon, Krétán, más néven Castel Nuovo.",
                   "category": "castle",
                   "coords": [
                         24.909745,
@@ -2829,7 +2829,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
             },
             {
                   "name": "Spelaia Rouba",
-                  "text": "Régészeti lelőhely a rouvasi barlangokban.",
+                  "text": "A Rouvas-barlangok a Messara-síkságon egy barlangrendszer, amely neolitikus leleteiről ismert.",
                   "category": "historical",
                   "coords": [
                         24.895489,
@@ -2840,7 +2840,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "ro": [
             {
                   "name": "Kainourgio Kastelli;Purgos Ampelas",
-                  "text": "O ruină istorică de castel în câmpia Messara.",
+                  "text": "Castel construit în 1206 în Câmpia Messara, Creta, cunoscut și ca Castel Nuovo.",
                   "category": "castle",
                   "coords": [
                         24.909745,
@@ -2849,7 +2849,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
             },
             {
                   "name": "Spelaia Rouba",
-                  "text": "Sit arheologic situat în peșterile din Rouvas.",
+                  "text": "Peșterile Rouvas din Câmpia Messara sunt un labirint de peșteri cunoscut pentru artefacte neolitice.",
                   "category": "historical",
                   "coords": [
                         24.895489,
@@ -2860,7 +2860,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "en": [
             {
                   "name": "Castel Nuovo",
-                  "text": "A historical castle ruin in the Messara Plain.",
+                  "text": "Castle built in 1206 in the Messara Plain on Crete, also known as Castel Nuovo.",
                   "category": "castle",
                   "coords": [
                         24.909745,
@@ -2869,7 +2869,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
             },
             {
                   "name": "Rouvas caves",
-                  "text": "Archaeological site located in the Rouvas caves.",
+                  "text": "Rouvas Caves in the Messara Plain are a cave network known for Neolithic artifacts.",
                   "category": "historical",
                   "coords": [
                         24.895489,
@@ -2927,7 +2927,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "de": [
             {
                   "name": "Gerakovouni (Othrys)",
-                  "text": "Gerakovouni ist ein Berggipfel im Othrys-Massiv in Griechenland.",
+                  "text": "Gerakovouni, ein Gipfel im Othrys-Gebirge in Mittelgriechenland.",
                   "category": "landmark",
                   "coords": [
                         22.710819,
@@ -2938,7 +2938,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "hu": [
             {
                   "name": "Gerakobouni (Othrus)",
-                  "text": "A Gerakovouni egy hegycsúcs a görögországi Othrisz-hegységben.",
+                  "text": "Gerakovouni, egy csúcs az Othrisz-hegységben Közép-Görögországban.",
                   "category": "landmark",
                   "coords": [
                         22.710819,
@@ -2949,7 +2949,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "ro": [
             {
                   "name": "Gerakobouni (Othrus)",
-                  "text": "Gerakovouni este un vârf muntos situat în masivul Othrys din Grecia.",
+                  "text": "Gerakovouni, un vârf pe Muntele Othrys în Grecia Centrală.",
                   "category": "landmark",
                   "coords": [
                         22.710819,
@@ -2960,7 +2960,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "en": [
             {
                   "name": "Gerakovouni (Othrys)",
-                  "text": "Gerakovouni is a mountain peak located in the Othrys massif in Greece.",
+                  "text": "Gerakovouni, a peak on Mount Othrys in central Greece.",
                   "category": "landmark",
                   "coords": [
                         22.710819,
@@ -3903,7 +3903,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "de": [
             {
                   "name": "Kastro Mendenitsas Markionias Bodonitsas",
-                  "text": "Eine mittelalterliche Burg auf dem Berg Kallidromo.",
+                  "text": "Burg Mendenitsa, eine mittelalterliche Burg auf dem Berg Kallidromo in Mittelgriechenland.",
                   "category": "castle",
                   "coords": [
                         22.615672,
@@ -3914,7 +3914,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "hu": [
             {
                   "name": "Kastro Mendenitsas Markionias Bodonitsas",
-                  "text": "Középkori vár a Kallidromo-hegyen.",
+                  "text": "Mendenitsa vára, egy középkori vár a Kallidromo-hegyen Közép-Görögországban.",
                   "category": "castle",
                   "coords": [
                         22.615672,
@@ -3925,7 +3925,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "ro": [
             {
                   "name": "Kastro Mendenitsas Markionias Bodonitsas",
-                  "text": "Un castel medieval situat pe muntele Kallidromo.",
+                  "text": "Castelul Mendenitsa, un castel medieval pe Muntele Kallidromo în Grecia Centrală.",
                   "category": "castle",
                   "coords": [
                         22.615672,
@@ -3936,7 +3936,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
       "en": [
             {
                   "name": "Castle of Mendenitsa",
-                  "text": "A medieval castle located on Mount Kallidromo.",
+                  "text": "Castle of Mendenitsa, a medieval castle on Mount Kallidromo in central Greece.",
                   "category": "castle",
                   "coords": [
                         22.615672,

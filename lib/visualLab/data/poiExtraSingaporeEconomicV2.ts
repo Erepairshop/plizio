@@ -49,7 +49,268 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-singapore-economic-v2",
+    id: "port-of-singapore-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Y2ARTS",
+                  "text": "Diese 2008 gegründete kommerzielle Galerie zeigt feine zeitgenössische Kunstwerke und fördert aufstrebende asiatische Künstlertalente.",
+                  "category": "museum",
+                  "coords": [
+                        103.819418,
+                        1.281679
+                  ]
+            },
+            {
+                  "name": "Gateway Theatre",
+                  "text": "Dieses moderne Zentrum für darstellende Künste ist an seiner markanten, mehrstöckigen, grünen Terrassenfassade erkennbar und beherbergt vielfältige Theaterproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        103.816554,
+                        1.283965
+                  ]
+            },
+            {
+                  "name": "Ling Shan Temple",
+                  "text": "Dieser farbenfrohe taoistische Tempel ist mit traditionellen, kunstvollen Schnitzereien und den für die regionale chinesische Architektur typischen geschwungenen Dachmotiven geschmückt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815046,
+                        1.28999
+                  ]
+            },
+            {
+                  "name": "Lei Yin Temple",
+                  "text": "Ein ruhiger buddhistischer Andachtsraum, in dem sich die Gläubigen zu stiller Kontemplation und traditionellen Gesangsritualen versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821852,
+                        1.283441
+                  ]
+            },
+            {
+                  "name": "Zhen Ren Gong Temple",
+                  "text": "Dieser lokale taoistische Tempel dient als kulturelles Zentrum für das Viertel und veranstaltet häufig farbenfrohe Götterfeste und Gemeinschaftsrituale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.816339,
+                        1.286253
+                  ]
+            },
+            {
+                  "name": "White Temple (Chong Hua Tong Tou Teck Hwee Building)",
+                  "text": "Dieses religiöse Gebäude zeichnet sich durch seine makellos weiße, mehrstöckige Fassade aus und beherbergt die Praktiken der Sekte Chong Hua Tong Tou Teck Hwee.",
+                  "category": "religious",
+                  "coords": [
+                        103.814582,
+                        1.284558
+                  ]
+            },
+            {
+                  "name": "Redhill Wet Market",
+                  "text": "Ein belebter traditioneller Marktplatz unter einem markanten überdachten Dach, der eine Vielzahl an frischen Produkten, Fleisch und beliebten lokalen Hawker-Gerichten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.818352,
+                        1.287822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Y2ARTS",
+                  "text": "A 2008-ban alapított kereskedelmi galéria kortárs képzőművészeti alkotásokat mutat be, és feltörekvő ázsiai tehetségeket karol fel.",
+                  "category": "museum",
+                  "coords": [
+                        103.819418,
+                        1.281679
+                  ]
+            },
+            {
+                  "name": "Gateway Theatre",
+                  "text": "A lenyűgöző, többszintes zöld teraszos homlokzatáról felismerhető modern előadó-művészeti központ különféle színházi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        103.816554,
+                        1.283965
+                  ]
+            },
+            {
+                  "name": "Ling Shan Temple",
+                  "text": "Ezt az élénk taoista templomot a regionális kínai építészetre jellemző hagyományos, bonyolult fafaragások és ívelt tetőmotívumok díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815046,
+                        1.28999
+                  ]
+            },
+            {
+                  "name": "Lei Yin Temple",
+                  "text": "Egy nyugodt buddhista istentiszteleti tér, ahol a hívők csendes elmélkedésre és hagyományos kántáló rituálékra gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821852,
+                        1.283441
+                  ]
+            },
+            {
+                  "name": "Zhen Ren Gong Temple",
+                  "text": "Ez a helyi taoista templom a környék kulturális központjaként működik, és gyakran ad otthont színes istenségi fesztiváloknak és közösségi rituáléknak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.816339,
+                        1.286253
+                  ]
+            },
+            {
+                  "name": "White Temple (Chong Hua Tong Tou Teck Hwee Building)",
+                  "text": "Az érintetlen fehér, többszintes homlokzatával kitűnő vallási épület a Chong Hua Tong Tou Teck Hwee szekta gyakorlatainak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        103.814582,
+                        1.284558
+                  ]
+            },
+            {
+                  "name": "Redhill Wet Market",
+                  "text": "Egy nyüzsgő hagyományos piac egy jellegzetes fedett tető alatt, amely friss termékek, húsok és népszerű helyi utcai ételek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        103.818352,
+                        1.287822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Y2ARTS",
+                  "text": "Înființată în 2008, această galerie comercială expune opere de artă contemporană și promovează talente artistice asiatice emergente.",
+                  "category": "museum",
+                  "coords": [
+                        103.819418,
+                        1.281679
+                  ]
+            },
+            {
+                  "name": "Gateway Theatre",
+                  "text": "Recunoscută după fațada sa uimitoare cu terase verzi pe mai multe niveluri, această locație modernă pentru artele spectacolului găzduiește producții teatrale diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        103.816554,
+                        1.283965
+                  ]
+            },
+            {
+                  "name": "Ling Shan Temple",
+                  "text": "Acest templu taoist vibrant este împodobit cu sculpturi tradiționale complicate și motive arhitecturale cu acoperișuri arcuite tipice arhitecturii chineze regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815046,
+                        1.28999
+                  ]
+            },
+            {
+                  "name": "Lei Yin Temple",
+                  "text": "Un spațiu budist senin de venerare unde devotații se adună pentru contemplare liniștită și ritualuri tradiționale de incantare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821852,
+                        1.283441
+                  ]
+            },
+            {
+                  "name": "Zhen Ren Gong Temple",
+                  "text": "Acest templu taoist local servește drept centru cultural pentru cartier, găzduind frecvent festivaluri colorate ale zeităților și ritualuri comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.816339,
+                        1.286253
+                  ]
+            },
+            {
+                  "name": "White Temple (Chong Hua Tong Tou Teck Hwee Building)",
+                  "text": "Distinsă prin fațada sa albă imaculată cu mai multe etaje, această clădire religioasă găzduiește practicile sectei Chong Hua Tong Tou Teck Hwee.",
+                  "category": "religious",
+                  "coords": [
+                        103.814582,
+                        1.284558
+                  ]
+            },
+            {
+                  "name": "Redhill Wet Market",
+                  "text": "O piață tradițională plină de viață, situată sub un acoperiș distinctiv, care oferă o gamă largă de produse proaspete, carne și mâncare locală populară de la vânzători ambulanți.",
+                  "category": "cultural",
+                  "coords": [
+                        103.818352,
+                        1.287822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Y2ARTS",
+                  "text": "Established in 2008, this commercial gallery showcases fine contemporary artworks and cultivates emerging Asian artistic talents.",
+                  "category": "museum",
+                  "coords": [
+                        103.819418,
+                        1.281679
+                  ]
+            },
+            {
+                  "name": "Gateway Theatre",
+                  "text": "Recognizable by its striking multi-level green terraced facade, this modern performing arts venue hosts diverse theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        103.816554,
+                        1.283965
+                  ]
+            },
+            {
+                  "name": "Ling Shan Temple",
+                  "text": "This vibrant Taoist temple is adorned with traditional intricate carvings and sweeping roofline motifs typical of regional Chinese architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815046,
+                        1.28999
+                  ]
+            },
+            {
+                  "name": "Lei Yin Temple",
+                  "text": "A serene Buddhist worship space where devotees gather for quiet contemplation and traditional chanting rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821852,
+                        1.283441
+                  ]
+            },
+            {
+                  "name": "Zhen Ren Gong Temple",
+                  "text": "This local Taoist temple serves as a cultural hub for the neighborhood, frequently hosting colorful deity festivals and community rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        103.816339,
+                        1.286253
+                  ]
+            },
+            {
+                  "name": "White Temple (Chong Hua Tong Tou Teck Hwee Building)",
+                  "text": "Distinguished by its pristine white multi-story facade, this religious building houses the practices of the Chong Hua Tong Tou Teck Hwee sect.",
+                  "category": "religious",
+                  "coords": [
+                        103.814582,
+                        1.284558
+                  ]
+            },
+            {
+                  "name": "Redhill Wet Market",
+                  "text": "A bustling traditional marketplace beneath a distinctive covered roof, offering an array of fresh produce, meats, and popular local hawker food.",
+                  "category": "cultural",
+                  "coords": [
+                        103.818352,
+                        1.287822
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SG-01",
     coords: [103.8198, 1.283],
@@ -94,7 +355,124 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "marina-bay-financial-centre-economic-v2",
+    id: "marina-bay-financial-centre-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marina Bay",
+                  "text": "Ein markantes Buchtgebiet, das weithin für seine modernen Uferpromenaden und den ikonischen Blick auf die Skyline bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853687,
+                        1.277658
+                  ]
+            },
+            {
+                  "name": "Red Dot Design Museum",
+                  "text": "Ein Museum mit Schwerpunkt auf zeitgenössischem Design, das eine umfangreiche Sammlung preisgekrönter innovativer Produkte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        103.856265,
+                        1.280085
+                  ]
+            },
+            {
+                  "name": "Clifford Pier Lighthouse",
+                  "text": "Dieser historische Leuchtturm wurde 1969 erbaut und diente als wichtige Navigationshilfe an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853706,
+                        1.282472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marina Bay",
+                  "text": "Kiemelkedő öböl menti terület, amely széles körben ismert modern vízparti sétányairól és ikonikus panorámájáról.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853687,
+                        1.277658
+                  ]
+            },
+            {
+                  "name": "Red Dot Design Museum",
+                  "text": "A kortárs dizájnra fókuszáló múzeum a díjnyertes innovatív termékek hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.856265,
+                        1.280085
+                  ]
+            },
+            {
+                  "name": "Clifford Pier Lighthouse",
+                  "text": "Ezt az 1969-ben alapított történelmi világítótornyot döntő fontosságú navigációs segédeszközként használták a vízparton.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853706,
+                        1.282472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marina Bay",
+                  "text": "O zonă de golf proeminentă, cunoscută pe scară largă pentru promenadele sale moderne pe malul apei și priveliștile iconice ale orizontului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853687,
+                        1.277658
+                  ]
+            },
+            {
+                  "name": "Red Dot Design Museum",
+                  "text": "Un muzeu axat pe design contemporan, prezentând o vastă colecție de produse inovatoare premiate.",
+                  "category": "museum",
+                  "coords": [
+                        103.856265,
+                        1.280085
+                  ]
+            },
+            {
+                  "name": "Clifford Pier Lighthouse",
+                  "text": "Înființată în 1969, această structură istorică de far a servit ca un ajutor de navigație crucial de-a lungul malului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853706,
+                        1.282472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marina Bay",
+                  "text": "A prominent bay area widely known for its modern waterfront promenades and iconic skyline views.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853687,
+                        1.277658
+                  ]
+            },
+            {
+                  "name": "Red Dot Design Museum",
+                  "text": "A museum focused on contemporary design, showcasing a vast collection of award-winning innovative products.",
+                  "category": "museum",
+                  "coords": [
+                        103.856265,
+                        1.280085
+                  ]
+            },
+            {
+                  "name": "Clifford Pier Lighthouse",
+                  "text": "Established in 1969, this historic lighthouse structure served as a crucial navigational aid along the waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        103.853706,
+                        1.282472
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "SG-01",
     coords: [103.8546, 1.2796],
@@ -139,7 +517,268 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "tuas-biomedical-park-economic-v2",
+    id: "tuas-biomedical-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Staircase to heaven",
+                  "text": "Eine fotogene Treppe in Forest City, die als markanter Aussichtspunkt innerhalb des modernen Resorts dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.594296,
+                        1.334329
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Kupang",
+                  "text": "Ein Küstenhügel, der einen Panoramablick auf die Straße von Johor und die nahegelegene Brücke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.608114,
+                        1.376509
+                  ]
+            },
+            {
+                  "name": "Former Tuas TV World Site",
+                  "text": "Ein ehemaliges Filmgelände, das einem historischen chinesischen Dorf nachempfunden wurde und für TV-Produktionen genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.639866,
+                        1.34725
+                  ]
+            },
+            {
+                  "name": "Johor Straits Lighthouse",
+                  "text": "Dieser 1994 am Jachthafen errichtete Leuchtturm bietet einen weiten Blick über die Gewässer zur Second-Link-Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        103.633953,
+                        1.344467
+                  ]
+            },
+            {
+                  "name": "Forest City Maze",
+                  "text": "Ein großer Garten-Irrgarten im Freien, der als Freizeitattraktion im Forest City-Komplex gestaltet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.588046,
+                        1.333975
+                  ]
+            },
+            {
+                  "name": "Forest City Water Park",
+                  "text": "Ein Wasserpark direkt an der Küste mit verschiedenen Rutschen und Schwimmbecken für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        103.591887,
+                        1.333187
+                  ]
+            },
+            {
+                  "name": "Malaysia–Singapore Second Link / Laluan Kedua Malaysia-Singapura",
+                  "text": "Diese 1998 eröffnete, 1,9 km lange Brücke verbindet Singapur direkt mit dem malaysischen Bundesstaat Johor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.627472,
+                        1.354975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Staircase to heaven",
+                  "text": "Fotogén lépcsősor Forest Cityben, amely feltűnő kilátópontként szolgál a modern üdülőhelyen belül.",
+                  "category": "landmark",
+                  "coords": [
+                        103.594296,
+                        1.334329
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Kupang",
+                  "text": "Tengerparti domb, amely panorámás kilátást nyújt a Johori-szorosra és a közeli hídra.",
+                  "category": "natural",
+                  "coords": [
+                        103.608114,
+                        1.376509
+                  ]
+            },
+            {
+                  "name": "Former Tuas TV World Site",
+                  "text": "Egykori filmforgatási helyszín, amelyet egy történelmi kínai falu mintájára építettek televíziós produkciókhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        103.639866,
+                        1.34725
+                  ]
+            },
+            {
+                  "name": "Johor Straits Lighthouse",
+                  "text": "A jachtkikötőnél 1994-ben emelt világítótorony széles kilátást nyújt a vizekre a Második összekötő híd felé.",
+                  "category": "landmark",
+                  "coords": [
+                        103.633953,
+                        1.344467
+                  ]
+            },
+            {
+                  "name": "Forest City Maze",
+                  "text": "Nagy szabadtéri kerti labirintus, amelyet szabadidős látványosságként alakítottak ki a Forest City komplexumban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.588046,
+                        1.333975
+                  ]
+            },
+            {
+                  "name": "Forest City Water Park",
+                  "text": "Közvetlenül a parton fekvő vízi park különböző csúszdákkal és medencékkel a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        103.591887,
+                        1.333187
+                  ]
+            },
+            {
+                  "name": "Malaysia–Singapore Second Link / Laluan Kedua Malaysia-Singapura",
+                  "text": "Ez az 1998-ban megnyitott, 1,9 km hosszú híd közvetlenül köti össze Szingapúrt a malajziai Johor állammal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.627472,
+                        1.354975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Staircase to heaven",
+                  "text": "O scară fotogenică în Forest City, care servește ca punct de belvedere distinctiv în cadrul complexului modern.",
+                  "category": "landmark",
+                  "coords": [
+                        103.594296,
+                        1.334329
+                  ]
+            },
+            {
+                  "name": "Bukit Tanjung Kupang",
+                  "text": "Un deal de coastă care oferă vedere panoramică asupra strâmtorii Johor și a podului din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        103.608114,
+                        1.376509
+                  ]
+            },
+            {
+                  "name": "Former Tuas TV World Site",
+                  "text": "Un fost platou de filmare construit pentru a semăna cu un sat chinezesc istoric, folosit pentru producții TV.",
+                  "category": "landmark",
+                  "coords": [
+                        103.639866,
+                        1.34725
+                  ]
+            },
+            {
+                  "name": "Johor Straits Lighthouse",
+                  "text": "Acest far ridicat în 1994 în portul de agrement oferă o vedere largă peste ape către podul Second Link.",
+                  "category": "landmark",
+                  "coords": [
+                        103.633953,
+                        1.344467
+                  ]
+            },
+            {
+                  "name": "Forest City Maze",
+                  "text": "Un labirint de grădină în aer liber, conceput ca atracție de agrement în cadrul complexului Forest City.",
+                  "category": "landmark",
+                  "coords": [
+                        103.588046,
+                        1.333975
+                  ]
+            },
+            {
+                  "name": "Forest City Water Park",
+                  "text": "Un parc acvatic situat chiar pe coastă, cu diverse tobogane și piscine pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        103.591887,
+                        1.333187
+                  ]
+            },
+            {
+                  "name": "Malaysia–Singapore Second Link / Laluan Kedua Malaysia-Singapura",
+                  "text": "Acest pod de 1,9 km lungime, inaugurat în 1998, leagă Singapore direct de statul malaezian Johor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.627472,
+                        1.354975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Staircase to heaven",
+                  "text": "A photogenic flight of stairs in Forest City that serves as a striking viewpoint within the modern resort.",
+                  "category": "landmark",
+                  "coords": [
+                        103.594296,
+                        1.334329
+                  ]
+            },
+            {
+                  "name": "Tanjung Kupang Mountain",
+                  "text": "A coastal hill offering panoramic views of the Johor Strait and the nearby bridge.",
+                  "category": "natural",
+                  "coords": [
+                        103.608114,
+                        1.376509
+                  ]
+            },
+            {
+                  "name": "Former Tuas TV World Site",
+                  "text": "A former film set built to resemble a historical Chinese village, used for television productions.",
+                  "category": "landmark",
+                  "coords": [
+                        103.639866,
+                        1.34725
+                  ]
+            },
+            {
+                  "name": "Raffles Marina Lighthouse",
+                  "text": "Erected in 1994 at the marina, this lighthouse offers wide views across the waters toward the Second Link bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        103.633953,
+                        1.344467
+                  ]
+            },
+            {
+                  "name": "Forest City Maze",
+                  "text": "A large outdoor garden maze designed as a leisure attraction within the Forest City complex.",
+                  "category": "landmark",
+                  "coords": [
+                        103.588046,
+                        1.333975
+                  ]
+            },
+            {
+                  "name": "Forest City Water Park",
+                  "text": "A water park located right on the coast with various slides and pools for families.",
+                  "category": "recreational",
+                  "coords": [
+                        103.591887,
+                        1.333187
+                  ]
+            },
+            {
+                  "name": "Malaysia–Singapore Second Link",
+                  "text": "Opened in 1998, this 1.9-kilometer-long bridge connects Singapore directly to the Malaysian state of Johor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.627472,
+                        1.354975
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SG-05",
     coords: [103.628, 1.325],
@@ -229,7 +868,520 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "changi-business-park-economic-v2",
+    id: "changi-business-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monsoon Point Break",
+                  "text": "Ein ausgewiesener Aussichtspunkt im Changi Business Park, von dem aus Besucher den Flusslauf des nahegelegenen Monsun-Kanalsystems beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        103.97616,
+                        1.316403
+                  ]
+            },
+            {
+                  "name": "Viewpoint (eastward)",
+                  "text": "Ein nach Osten ausgerichteter Aussichtspunkt im Changi Business Park, der einen weiten Blick über das landschaftlich gestaltete Geschäftsviertel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.958617,
+                        1.313055
+                  ]
+            },
+            {
+                  "name": "Viewpoint (westward)",
+                  "text": "Ein Aussichtspunkt, der weite Blicke in westlicher Richtung über den Changi Business Park und die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.963472,
+                        1.313774
+                  ]
+            },
+            {
+                  "name": "Jurassic Mile Start/End",
+                  "text": "Der Start- oder Endpunkt der Jurassic Mile, an dem lebensgroße Dinosaurier-Modelle den Weg im Freien säumen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.980734,
+                        1.327532
+                  ]
+            },
+            {
+                  "name": "Bedok Methodist Church",
+                  "text": "Eine christlich-methodistische Kirche, die der lokalen Gemeinde im Changi-Viertel als Andachtsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.953993,
+                        1.323757
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Taqua",
+                  "text": "Eine islamische Moschee mit einem großen Gebetssaal für die Muslime im Changi-Bezirk.",
+                  "category": "landmark",
+                  "coords": [
+                        103.953541,
+                        1.321898
+                  ]
+            },
+            {
+                  "name": "Yuan Ming Temple",
+                  "text": "Ein buddhistisches Heiligtum im Changi-Gebiet mit traditionellen Schreinhallen für Meditation und Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.948779,
+                        1.318037
+                  ]
+            },
+            {
+                  "name": "Man Fatt Lam Buddhist Temple",
+                  "text": "Eine buddhistische Kultstätte im Changi-Bezirk, die für ihre ruhigen Hallen für Gläubige bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.950412,
+                        1.326742
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Eine christliche Gemeinde im Changi-Gebiet, die regelmäßige Gottesdienste für die lokalen Gläubigen veranstaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.951742,
+                        1.326352
+                  ]
+            },
+            {
+                  "name": "Koo Chye Bo Seng Hong Temple (San Qing Gong)",
+                  "text": "Ein taoistischer Tempelkomplex mit reich verzierten Schreinen, die traditionellen chinesischen Gottheiten gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.949522,
+                        1.335074
+                  ]
+            },
+            {
+                  "name": "Zion Presbyterian Church",
+                  "text": "Ein christliches Kirchengebäude der Presbyterianer, das Gottesdienste für die Gemeinde in Changi ausrichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.954098,
+                        1.336211
+                  ]
+            },
+            {
+                  "name": "Changi Bethany Church",
+                  "text": "Eine christliche Kirche, die das Changi-Viertel mit wöchentlichen Gottesdiensten und Gemeindeprogrammen unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.961941,
+                        1.341746
+                  ]
+            },
+            {
+                  "name": "Living Hope Methodist Church",
+                  "text": "Ein methodistisches christliches Gemeindezentrum mit Andachtshalle im Changi-Bezirk.",
+                  "category": "landmark",
+                  "coords": [
+                        103.960493,
+                        1.351891
+                  ]
+            },
+            {
+                  "name": "Moriah Bible Presbyterian Church",
+                  "text": "Eine lokale christliche Kirche der Bible Presbyterians, die religiöse Gottesdienste und biblische Lehren anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.95729,
+                        1.343469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monsoon Point Break",
+                  "text": "Egy kijelölt kilátópont a Changi Business Parkban, ahonnan a látogatók megfigyelhetik a közeli monszun-csatornarendszer áramlását.",
+                  "category": "natural",
+                  "coords": [
+                        103.97616,
+                        1.316403
+                  ]
+            },
+            {
+                  "name": "Viewpoint (eastward)",
+                  "text": "Egy keleti fekvésű kilátópont a Changi Business Parkban, amely kiterjedt kilátást nyújt a parkosított kereskedelmi negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        103.958617,
+                        1.313055
+                  ]
+            },
+            {
+                  "name": "Viewpoint (westward)",
+                  "text": "Egy kilátópont, amely nyugati irányú panorámát nyújt a Changi Business Parkra és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        103.963472,
+                        1.313774
+                  ]
+            },
+            {
+                  "name": "Jurassic Mile Start/End",
+                  "text": "A Jurassic Mile kiinduló- vagy végpontja, ahol életnagyságú dinoszaurusz-kiállítások szegélyezik a szabadtéri ösvényt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.980734,
+                        1.327532
+                  ]
+            },
+            {
+                  "name": "Bedok Methodist Church",
+                  "text": "Keresztény metodista templom, amely a Changi negyed helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.953993,
+                        1.323757
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Taqua",
+                  "text": "Iszlám mecset, amely imateremmel és közösségi terekkel várja a Changi kerület muszlimjait.",
+                  "category": "landmark",
+                  "coords": [
+                        103.953541,
+                        1.321898
+                  ]
+            },
+            {
+                  "name": "Yuan Ming Temple",
+                  "text": "Buddhista szentély a Changi térségben, hagyományos csarnokokkal a meditációhoz és imádsághoz.",
+                  "category": "landmark",
+                  "coords": [
+                        103.948779,
+                        1.318037
+                  ]
+            },
+            {
+                  "name": "Man Fatt Lam Buddhist Temple",
+                  "text": "Buddhista istentiszteleti hely a Changi kerületben, amely a hívők számára kialakított csendes csarnokairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.950412,
+                        1.326742
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Keresztény gyülekezet a Changi térségben, amely rendszeres istentiszteleteket tart a helyi hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.951742,
+                        1.326352
+                  ]
+            },
+            {
+                  "name": "Koo Chye Bo Seng Hong Temple (San Qing Gong)",
+                  "text": "Taoista templomkomplexum, amely a hagyományos kínai istenségeknek szentelt díszes szentélyeket foglal magába.",
+                  "category": "landmark",
+                  "coords": [
+                        103.949522,
+                        1.335074
+                  ]
+            },
+            {
+                  "name": "Zion Presbyterian Church",
+                  "text": "Presbiteriánus keresztény templomépület, amely istentiszteleteknek ad otthont a Changi térség közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.954098,
+                        1.336211
+                  ]
+            },
+            {
+                  "name": "Changi Bethany Church",
+                  "text": "Keresztény templom, amely heti istentiszteletekkel és közösségi programokkal szolgálja ki a Changi negyedet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.961941,
+                        1.341746
+                  ]
+            },
+            {
+                  "name": "Living Hope Methodist Church",
+                  "text": "Metodista keresztény közösségi központ és imaterem a Changi kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.960493,
+                        1.351891
+                  ]
+            },
+            {
+                  "name": "Moriah Bible Presbyterian Church",
+                  "text": "Helyi keresztény presbiteriánus templom, amely vallási istentiszteleteket és bibliai tanításokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.95729,
+                        1.343469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monsoon Point Break",
+                  "text": "Un loc de observare desemnat în Changi Business Park, unde vizitatorii pot urmări fluxul sistemului de canale musonice din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        103.97616,
+                        1.316403
+                  ]
+            },
+            {
+                  "name": "Viewpoint (eastward)",
+                  "text": "Un punct de observație orientat spre est în Changi Business Park, oferind vederi largi asupra zonei comerciale amenajate.",
+                  "category": "natural",
+                  "coords": [
+                        103.958617,
+                        1.313055
+                  ]
+            },
+            {
+                  "name": "Viewpoint (westward)",
+                  "text": "Un punct de observație care oferă vederi spre vest asupra zonei Changi Business Park și a împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        103.963472,
+                        1.313774
+                  ]
+            },
+            {
+                  "name": "Jurassic Mile Start/End",
+                  "text": "Punctul de început sau de sfârșit al Jurassic Mile, cu exponate de dinozauri în mărime naturală de-a lungul traseului în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        103.980734,
+                        1.327532
+                  ]
+            },
+            {
+                  "name": "Bedok Methodist Church",
+                  "text": "O biserică creștină metodistă care servește drept lăcaș de cult pentru comunitatea locală din cartierul Changi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.953993,
+                        1.323757
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Taqua",
+                  "text": "O moschee islamică ce oferă o sală de rugăciune și facilități comunitare pentru musulmanii din districtul Changi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.953541,
+                        1.321898
+                  ]
+            },
+            {
+                  "name": "Yuan Ming Temple",
+                  "text": "Un sanctuar budist în zona Changi, care dispune de săli de altare tradiționale pentru meditație și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        103.948779,
+                        1.318037
+                  ]
+            },
+            {
+                  "name": "Man Fatt Lam Buddhist Temple",
+                  "text": "Un lăcaș de cult budist din districtul Changi, cunoscut pentru sălile sale liniștite destinate credincioșilor.",
+                  "category": "landmark",
+                  "coords": [
+                        103.950412,
+                        1.326742
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "O congregație creștină din zona Changi, care găzduiește slujbe religioase regulate pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        103.951742,
+                        1.326352
+                  ]
+            },
+            {
+                  "name": "Koo Chye Bo Seng Hong Temple (San Qing Gong)",
+                  "text": "Un complex de temple taoiste care prezintă altare ornamentate dedicate zeităților tradiționale chinezești.",
+                  "category": "landmark",
+                  "coords": [
+                        103.949522,
+                        1.335074
+                  ]
+            },
+            {
+                  "name": "Zion Presbyterian Church",
+                  "text": "O biserică creștină presbiteriană care găzduiește adunări de cult pentru comunitatea din zona Changi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.954098,
+                        1.336211
+                  ]
+            },
+            {
+                  "name": "Changi Bethany Church",
+                  "text": "O biserică creștină care deservește cartierul Changi prin slujbe săptămânale și programe comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.961941,
+                        1.341746
+                  ]
+            },
+            {
+                  "name": "Living Hope Methodist Church",
+                  "text": "Un centru comunitar creștin metodist și o sală de cult în districtul Changi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.960493,
+                        1.351891
+                  ]
+            },
+            {
+                  "name": "Moriah Bible Presbyterian Church",
+                  "text": "O biserică presbiteriană creștină locală care oferă slujbe religioase și învățături biblice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.95729,
+                        1.343469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monsoon Point Break",
+                  "text": "A designated viewing spot in Changi Business Park where visitors can observe the flow of the nearby monsoon canal system.",
+                  "category": "natural",
+                  "coords": [
+                        103.97616,
+                        1.316403
+                  ]
+            },
+            {
+                  "name": "Viewpoint (eastward)",
+                  "text": "An eastern-facing vantage point in Changi Business Park offering expansive views over the landscaped commercial precinct.",
+                  "category": "natural",
+                  "coords": [
+                        103.958617,
+                        1.313055
+                  ]
+            },
+            {
+                  "name": "Viewpoint (westward)",
+                  "text": "A designated viewpoint offering westward vistas over the Changi Business Park and its surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        103.963472,
+                        1.313774
+                  ]
+            },
+            {
+                  "name": "Jurassic Mile Start/End",
+                  "text": "The start or finish point of the Jurassic Mile, featuring life-sized dinosaur exhibits along the outdoor path.",
+                  "category": "landmark",
+                  "coords": [
+                        103.980734,
+                        1.327532
+                  ]
+            },
+            {
+                  "name": "Bedok Methodist Church",
+                  "text": "A Christian Methodist place of worship serving the local community in the Changi area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.953993,
+                        1.323757
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Taqua",
+                  "text": "An Islamic mosque providing a prayer hall and community facilities for Muslims in the Changi district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.953541,
+                        1.321898
+                  ]
+            },
+            {
+                  "name": "Yuan Ming Temple",
+                  "text": "A Buddhist sanctuary in the Changi area, featuring traditional shrine halls for meditation and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        103.948779,
+                        1.318037
+                  ]
+            },
+            {
+                  "name": "Man Fatt Lam Buddhist Temple",
+                  "text": "A Buddhist worship site in the Changi district, known for its tranquil halls for devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        103.950412,
+                        1.326742
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "A Christian congregation in the Changi area, hosting regular worship services for the local faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        103.951742,
+                        1.326352
+                  ]
+            },
+            {
+                  "name": "Koo Chye Bo Seng Hong Temple (San Qing Gong)",
+                  "text": "A Taoist temple complex featuring ornate shrines dedicated to traditional Chinese deities.",
+                  "category": "landmark",
+                  "coords": [
+                        103.949522,
+                        1.335074
+                  ]
+            },
+            {
+                  "name": "Zion Presbyterian Church",
+                  "text": "A Christian Presbyterian church building hosting worship gatherings for the Changi area community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.954098,
+                        1.336211
+                  ]
+            },
+            {
+                  "name": "Changi Bethany Church",
+                  "text": "A Christian church serving the Changi neighborhood with weekly services and community programs.",
+                  "category": "landmark",
+                  "coords": [
+                        103.961941,
+                        1.341746
+                  ]
+            },
+            {
+                  "name": "Living Hope Methodist Church",
+                  "text": "A Methodist Christian community center and worship hall in the Changi district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.960493,
+                        1.351891
+                  ]
+            },
+            {
+                  "name": "Moriah Bible Presbyterian Church",
+                  "text": "A local Christian Bible Presbyterian church offering religious services and biblical teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        103.95729,
+                        1.343469
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "SG-02",
     coords: [103.963, 1.336],
@@ -364,7 +1516,304 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "keppel-shipyard-economic-v2",
+    id: "keppel-shipyard-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trickeye",
+                  "text": "Dieses interaktive Museum für optische Täuschungen bietet aufwendige 3D-Kunstwerke, die so gestaltet sind, dass Besucher für humorvolle Fotomotive direkt in die Bilder hineinsteigen können.",
+                  "category": "museum",
+                  "coords": [
+                        103.811807,
+                        1.258563
+                  ]
+            },
+            {
+                  "name": "Dragon's Teeth Gate Viewpoint",
+                  "text": "Dieser historische Aussichtspunkt blickt auf den Hafenbereich, wo einst die markanten Felsen des Long Ya Men alten Seefahrern den Weg wiesen.",
+                  "category": "natural",
+                  "coords": [
+                        103.807375,
+                        1.260002
+                  ]
+            },
+            {
+                  "name": "Jetty Ruin",
+                  "text": "Die verwitterten Betonreste dieses alten Stegs ragen in das Wasser des Werftgeländes hinein.",
+                  "category": "historical",
+                  "coords": [
+                        103.809765,
+                        1.259963
+                  ]
+            },
+            {
+                  "name": "megazip adventure park",
+                  "text": "Dieser aufregende Outdoor-Abenteuerpark bietet eine 450 Meter lange Seilrutsche, die hoch über dem Dschungeldach schwebt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814305,
+                        1.256879
+                  ]
+            },
+            {
+                  "name": "Scentopia",
+                  "text": "Besucher dieses interaktiven Museums können das florale Erbe Singapurs erkunden und eigene, auf Orchideen basierende Parfüms kreieren.",
+                  "category": "museum",
+                  "coords": [
+                        103.813653,
+                        1.254664
+                  ]
+            },
+            {
+                  "name": "Fort Siloso",
+                  "text": "Als Singapurs einzige erhaltene Küstenfestung bietet dieser restaurierte Militärkomplex authentische Geschütze und Tunnelnetzwerke aus dem Zweiten Weltkrieg.",
+                  "category": "fortress",
+                  "coords": [
+                        103.808641,
+                        1.258997
+                  ]
+            },
+            {
+                  "name": "Siloso Beach",
+                  "text": "Diese belebte Sandküste auf der Insel Sentosa ist für ihre lebhaften Strandclubs und Beachvolleyballplätze bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        103.81239,
+                        1.255076
+                  ]
+            },
+            {
+                  "name": "Ting Kong Beo",
+                  "text": "Gekennzeichnet durch traditionell geschwungene Dächer, dient dieser taoistische Tempel als ruhiger Ort für lokale Gläubige inmitten der städtischen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809077,
+                        1.271365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trickeye",
+                  "text": "Ez az interaktív optikai csalódás múzeum kidolgozott 3D-s műalkotásokat mutat be, amelyeket úgy terveztek, hogy a látogatók beléphessenek a festményekbe egy-egy humoros fotó erejéig.",
+                  "category": "museum",
+                  "coords": [
+                        103.811807,
+                        1.258563
+                  ]
+            },
+            {
+                  "name": "Dragon's Teeth Gate Viewpoint",
+                  "text": "Ez a történelmi kilátó a kikötőre néz, ahol egykor a Long Ya Men sziklái vezették az ősi tengerészeket.",
+                  "category": "natural",
+                  "coords": [
+                        103.807375,
+                        1.260002
+                  ]
+            },
+            {
+                  "name": "Jetty Ruin",
+                  "text": "Ennek a régi mólónak az időjárás rágta betonmaradványai a hajógyári terület vizébe nyúlnak.",
+                  "category": "historical",
+                  "coords": [
+                        103.809765,
+                        1.259963
+                  ]
+            },
+            {
+                  "name": "megazip adventure park",
+                  "text": "Ez az izgalmas szabadtéri kalandpark egy 450 méter hosszú drótkötélpályával büszkélkedhet, amely a dzsungel lombkoronája felett repít át.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814305,
+                        1.256879
+                  ]
+            },
+            {
+                  "name": "Scentopia",
+                  "text": "Ebben az interaktív múzeumban a látogatók felfedezhetik Szingapúr virágos örökségét, és saját orchidea alapú parfümöket készíthetnek.",
+                  "category": "museum",
+                  "coords": [
+                        103.813653,
+                        1.254664
+                  ]
+            },
+            {
+                  "name": "Fort Siloso",
+                  "text": "Szingapúr egyetlen fennmaradt partvédelmi erődjeként ez a felújított katonai komplexum eredeti második világháborús ágyúkat és alagúthálózatokat mutat be.",
+                  "category": "fortress",
+                  "coords": [
+                        103.808641,
+                        1.258997
+                  ]
+            },
+            {
+                  "name": "Siloso Beach",
+                  "text": "A Sentosa-sziget ezen nyüzsgő, homokos partvonala élénk strandklubjairól és strandröplabda-pályáiról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        103.81239,
+                        1.255076
+                  ]
+            },
+            {
+                  "name": "Ting Kong Beo",
+                  "text": "A hagyományos ívelt tetőkkel díszített taoista templom csendes menedékként szolgál a helyi hívők számára a városi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809077,
+                        1.271365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trickeye",
+                  "text": "Acest muzeu interactiv al iluziilor optice prezintă opere de artă 3D elaborate, concepute astfel încât vizitatorii să poată păși în picturi pentru oportunități foto pline de umor.",
+                  "category": "museum",
+                  "coords": [
+                        103.811807,
+                        1.258563
+                  ]
+            },
+            {
+                  "name": "Dragon's Teeth Gate Viewpoint",
+                  "text": "Acest punct de belvedere istoric are vedere spre zona portului unde stâncile Long Ya Men ghidau odinioară marinarii.",
+                  "category": "natural",
+                  "coords": [
+                        103.807375,
+                        1.260002
+                  ]
+            },
+            {
+                  "name": "Jetty Ruin",
+                  "text": "Rămășițele de beton degradate ale acestui vechi debarcader se întind în apele din zona șantierului naval.",
+                  "category": "historical",
+                  "coords": [
+                        103.809765,
+                        1.259963
+                  ]
+            },
+            {
+                  "name": "megazip adventure park",
+                  "text": "Acest parc de aventură în aer liber are o tiroliană de 450 de metri lungime care planează deasupra coronamentului junglei.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814305,
+                        1.256879
+                  ]
+            },
+            {
+                  "name": "Scentopia",
+                  "text": "Vizitatorii acestui muzeu interactiv pot explora moștenirea florală a Singaporelui și pot crea propriile parfumuri personalizate pe bază de orhidee.",
+                  "category": "museum",
+                  "coords": [
+                        103.813653,
+                        1.254664
+                  ]
+            },
+            {
+                  "name": "Fort Siloso",
+                  "text": "Fiind singurul fort de coastă conservat din Singapore, acest complex militar restaurat prezintă tunuri autentice și rețele de tuneluri din Al Doilea Război Mondial.",
+                  "category": "fortress",
+                  "coords": [
+                        103.808641,
+                        1.258997
+                  ]
+            },
+            {
+                  "name": "Siloso Beach",
+                  "text": "Această coastă nisipoasă plină de viață de pe insula Sentosa este recunoscută pentru cluburile sale animate și terenurile de volei pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        103.81239,
+                        1.255076
+                  ]
+            },
+            {
+                  "name": "Ting Kong Beo",
+                  "text": "Caracterizat prin acoperișurile sale curbate tradiționale, acest templu taoist servește ca un spațiu liniștit pentru credincioșii locali în mijlocul mediului urban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809077,
+                        1.271365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trickeye",
+                  "text": "This interactive optical illusion museum features elaborate 3D artworks designed so visitors can step into the paintings for humorous photo opportunities.",
+                  "category": "museum",
+                  "coords": [
+                        103.811807,
+                        1.258563
+                  ]
+            },
+            {
+                  "name": "Dragon's Teeth Gate Viewpoint",
+                  "text": "This historic viewpoint overlooks the Keppel Harbour area where the famed Long Ya Men crags once guided ancient sailors.",
+                  "category": "natural",
+                  "coords": [
+                        103.807375,
+                        1.260002
+                  ]
+            },
+            {
+                  "name": "Jetty Ruin",
+                  "text": "The weathered concrete remains of this old jetty extend out into the waters of the shipyard area.",
+                  "category": "historical",
+                  "coords": [
+                        103.809765,
+                        1.259963
+                  ]
+            },
+            {
+                  "name": "megazip adventure park",
+                  "text": "This thrilling outdoor adventure park features a 450-metre-long zipline soaring above the jungle canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814305,
+                        1.256879
+                  ]
+            },
+            {
+                  "name": "Scentopia",
+                  "text": "Visitors to this interactive museum can explore Singapore's floral heritage and create their own customized orchid-based perfumes.",
+                  "category": "museum",
+                  "coords": [
+                        103.813653,
+                        1.254664
+                  ]
+            },
+            {
+                  "name": "Fort Siloso",
+                  "text": "As Singapore's only preserved coastal fort, this restored military complex features authentic World War II guns and tunnel networks.",
+                  "category": "fortress",
+                  "coords": [
+                        103.808641,
+                        1.258997
+                  ]
+            },
+            {
+                  "name": "Siloso Beach",
+                  "text": "This bustling sandy shoreline on Sentosa island is well-known for its lively beach clubs and beach volleyball courts.",
+                  "category": "recreational",
+                  "coords": [
+                        103.81239,
+                        1.255076
+                  ]
+            },
+            {
+                  "name": "Ting Kong Beo",
+                  "text": "Characterized by traditional sweeping roofs, this Taoist temple serves as a quiet space for local worshippers amidst the urban surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        103.809077,
+                        1.271365
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SG-01",
     coords: [103.805, 1.267],
@@ -409,7 +1858,520 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "one-north-business-park-economic-v2",
+    id: "one-north-business-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "NUS Museum",
+                  "text": "Dieses auf dem Universitätscampus gelegene Museum stellt eine umfangreiche Sammlung asiatischer Kunst und Artefakte aus.",
+                  "category": "museum",
+                  "coords": [
+                        103.772563,
+                        1.301445
+                  ]
+            },
+            {
+                  "name": "Lee Kong Chian Natural History Museum",
+                  "text": "Dieses markante grüne Gebäude beherbergt drei riesige Skelette von Diplodocid-Sauropoden-Dinosauriern.",
+                  "category": "museum",
+                  "coords": [
+                        103.773624,
+                        1.30143
+                  ]
+            },
+            {
+                  "name": "Dance Studio",
+                  "text": "Ein spezieller Aufführungsraum mit speziellen Schwingböden und Spiegeln für choreografische Proben.",
+                  "category": "cultural",
+                  "coords": [
+                        103.772309,
+                        1.304541
+                  ]
+            },
+            {
+                  "name": "Theatrette",
+                  "text": "Ein intimer Veranstaltungsort mit ansteigenden Sitzreihen, der für kleinere Theateraufführungen und akademische Vorträge konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        103.769502,
+                        1.305943
+                  ]
+            },
+            {
+                  "name": "Amphitheatre at Clementi Woods Park",
+                  "text": "Eine von hohen Bäumen umgebene, terrassenförmig angelegte Freilichtbühne, die einen natürlichen Rahmen für Gemeindetreffen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.768524,
+                        1.298583
+                  ]
+            },
+            {
+                  "name": "rumah pekerja hortpark",
+                  "text": "Dieser Aussichtspunkt blickt auf die ausgewiesenen Arbeiterunterkünfte in der Nähe der botanischen Parklandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        103.761885,
+                        1.308246
+                  ]
+            },
+            {
+                  "name": "Yale-NUS Black Box Theatre",
+                  "text": "Ein flexibler, schmuckloser Aufführungsraum, der von Studenten für experimentelle Theaterproduktionen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        103.77203,
+                        1.307501
+                  ]
+            },
+            {
+                  "name": "Performing Arts Studio",
+                  "text": "Ein vielseitiger Studioraum, der mit professionellen Lichtgittern für Schauspiel- und Tanzworkshops von Studenten ausgestattet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        103.785504,
+                        1.300427
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Diese örtliche katholische Kirche weist ein markantes Kreuz an ihrer Fassade auf und veranstaltet mehrere Wochenendmessen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.770673,
+                        1.307678
+                  ]
+            },
+            {
+                  "name": "Holy Covenant Methodist Church",
+                  "text": "Eine methodistische Gemeinde, die sich in einem einladenden Gebäude versammelt, um die Gemeinschaft zu unterstützen und Gottesdienste abzuhalten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.784399,
+                        1.302021
+                  ]
+            },
+            {
+                  "name": "The Bible Church",
+                  "text": "Eine lokale christliche Gemeinde in der Nähe des one-north Business Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        103.76583,
+                        1.302865
+                  ]
+            },
+            {
+                  "name": "Wu Tai Shan Buddist Temple",
+                  "text": "Ein buddhistischer Tempel, der nahe dem Gewerbegebiet one-north einen Ort der Andacht und Kontemplation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.764679,
+                        1.303206
+                  ]
+            },
+            {
+                  "name": "St. John's - St. Margaret's Church",
+                  "text": "Eine anglikanische Kirche, die einen Ort der christlichen Anbetung in der Nähe des one-north-Viertels bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782468,
+                        1.306834
+                  ]
+            },
+            {
+                  "name": "woods SPA",
+                  "text": "Eine Thermalquellen-Spa-Anlage in der Nähe des one-north-Geschäftsviertels, die Entspannung im heißen Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.768381,
+                        1.296568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NUS Museum",
+                  "text": "Az egyetemi campuson található múzeum ázsiai művészeti alkotások és műtárgyak kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.772563,
+                        1.301445
+                  ]
+            },
+            {
+                  "name": "Lee Kong Chian Natural History Museum",
+                  "text": "Ez a feltűnő zöld épület három hatalmas diplodocus szauropoda dinoszaurusz csontváznak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        103.773624,
+                        1.30143
+                  ]
+            },
+            {
+                  "name": "Dance Studio",
+                  "text": "Dedikált előadótér speciális rugalmas padlóval és tükrökkel a koreográfiai próbákhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        103.772309,
+                        1.304541
+                  ]
+            },
+            {
+                  "name": "Theatrette",
+                  "text": "Meghitt, lépcsőzetes ülésrendű terem, amelyet kisléptékű színházi előadásokhoz és tudományos előadásokhoz terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        103.769502,
+                        1.305943
+                  ]
+            },
+            {
+                  "name": "Amphitheatre at Clementi Woods Park",
+                  "text": "A magas fákkal körülvett teraszos szabadtéri színpad természetes környezetet biztosít a közösségi összejövetelekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        103.768524,
+                        1.298583
+                  ]
+            },
+            {
+                  "name": "rumah pekerja hortpark",
+                  "text": "Ez a kilátóhely a botanikus park közelében található, kijelölt munkásszállásokra néz.",
+                  "category": "natural",
+                  "coords": [
+                        103.761885,
+                        1.308246
+                  ]
+            },
+            {
+                  "name": "Yale-NUS Black Box Theatre",
+                  "text": "Rugalmas, dísztelen előadótér, amelyet a főiskolai hallgatók kísérleti drámai produkciókhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        103.77203,
+                        1.307501
+                  ]
+            },
+            {
+                  "name": "Performing Arts Studio",
+                  "text": "Sokoldalú stúdióterem, amely professzionális világítási rácsokkal van felszerelve a hallgatói színész- és tánc workshopokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        103.785504,
+                        1.300427
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Ennek a helyi katolikus templomnak a homlokzatán egy feltűnő kereszt található, és számos hétvégi misének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        103.770673,
+                        1.307678
+                  ]
+            },
+            {
+                  "name": "Holy Covenant Methodist Church",
+                  "text": "Metodista gyülekezet, amely egy barátságos épületben gyűlik össze közösségi támogatás és istentiszteletek céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        103.784399,
+                        1.302021
+                  ]
+            },
+            {
+                  "name": "The Bible Church",
+                  "text": "Egy helyi keresztény gyülekezet a one-north üzleti park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.76583,
+                        1.302865
+                  ]
+            },
+            {
+                  "name": "Wu Tai Shan Buddist Temple",
+                  "text": "Egy buddhista templom, amely az imádat és a csendes elmélkedés helyszíne a one-north üzleti park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.764679,
+                        1.303206
+                  ]
+            },
+            {
+                  "name": "St. John's - St. Margaret's Church",
+                  "text": "Egy anglikán templom, amely a keresztény istentiszteletek helyszíne a one-north negyed közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782468,
+                        1.306834
+                  ]
+            },
+            {
+                  "name": "woods SPA",
+                  "text": "Meleg vizű forrásokra épülő fürdő a one-north üzleti park közelében, amely termálvizes kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        103.768381,
+                        1.296568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NUS Museum",
+                  "text": "Situat în campusul universitar, acest muzeu expune o colecție vastă de artă și artefacte asiatice.",
+                  "category": "museum",
+                  "coords": [
+                        103.772563,
+                        1.301445
+                  ]
+            },
+            {
+                  "name": "Lee Kong Chian Natural History Museum",
+                  "text": "Această clădire verde izbitoare găzduiește trei schelete masive de dinozauri sauropozi diplodocizi.",
+                  "category": "museum",
+                  "coords": [
+                        103.773624,
+                        1.30143
+                  ]
+            },
+            {
+                  "name": "Dance Studio",
+                  "text": "Un spațiu de spectacol dedicat, dotat cu podele elastice specializate și oglinzi pentru repetiții coregrafice.",
+                  "category": "cultural",
+                  "coords": [
+                        103.772309,
+                        1.304541
+                  ]
+            },
+            {
+                  "name": "Theatrette",
+                  "text": "O sală intimă, cu locuri în amfiteatru, concepută pentru spectacole de teatru la scară mică și prelegeri academice.",
+                  "category": "cultural",
+                  "coords": [
+                        103.769502,
+                        1.305943
+                  ]
+            },
+            {
+                  "name": "Amphitheatre at Clementi Woods Park",
+                  "text": "O scenă în aer liber terasată, înconjurată de copaci înalți, oferind un cadru natural pentru adunările comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        103.768524,
+                        1.298583
+                  ]
+            },
+            {
+                  "name": "rumah pekerja hortpark",
+                  "text": "Acest punct de belvedere are vedere la cazările desemnate pentru muncitori, amplasate lângă parcul botanic.",
+                  "category": "natural",
+                  "coords": [
+                        103.761885,
+                        1.308246
+                  ]
+            },
+            {
+                  "name": "Yale-NUS Black Box Theatre",
+                  "text": "Un spațiu de spectacol flexibil, neadornat, folosit de studenți pentru producții dramatice experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        103.77203,
+                        1.307501
+                  ]
+            },
+            {
+                  "name": "Performing Arts Studio",
+                  "text": "O sală de studio versatilă, echipată cu grile de iluminat profesionale pentru atelierele studențești de actorie și dans.",
+                  "category": "cultural",
+                  "coords": [
+                        103.785504,
+                        1.300427
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Această biserică catolică locală prezintă o cruce proeminentă pe fațadă și găzduiește mai multe slujbe de weekend.",
+                  "category": "landmark",
+                  "coords": [
+                        103.770673,
+                        1.307678
+                  ]
+            },
+            {
+                  "name": "Holy Covenant Methodist Church",
+                  "text": "O congregație metodistă care se reunește într-o clădire primitoare pentru a oferi sprijin comunitar și slujbe religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        103.784399,
+                        1.302021
+                  ]
+            },
+            {
+                  "name": "The Bible Church",
+                  "text": "O congregație creștină locală situată în vecinătatea parcului de afaceri one-north.",
+                  "category": "landmark",
+                  "coords": [
+                        103.76583,
+                        1.302865
+                  ]
+            },
+            {
+                  "name": "Wu Tai Shan Buddist Temple",
+                  "text": "Un templu budist care oferă un loc de cult și contemplare în apropiere de parcul de afaceri one-north.",
+                  "category": "landmark",
+                  "coords": [
+                        103.764679,
+                        1.303206
+                  ]
+            },
+            {
+                  "name": "St. John's - St. Margaret's Church",
+                  "text": "O biserică anglicană care oferă un loc de cult creștin în apropierea zonei one-north.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782468,
+                        1.306834
+                  ]
+            },
+            {
+                  "name": "woods SPA",
+                  "text": "O facilitate spa cu izvoare termale care oferă relaxare în apropierea parcului de afaceri one-north.",
+                  "category": "natural",
+                  "coords": [
+                        103.768381,
+                        1.296568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NUS Museum",
+                  "text": "Located within the university campus, this museum exhibits an extensive collection of Asian art and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        103.772563,
+                        1.301445
+                  ]
+            },
+            {
+                  "name": "Lee Kong Chian Natural History Museum",
+                  "text": "This striking green building houses three massive diplodocid sauropod dinosaur skeletons.",
+                  "category": "museum",
+                  "coords": [
+                        103.773624,
+                        1.30143
+                  ]
+            },
+            {
+                  "name": "Dance Studio",
+                  "text": "A dedicated performance space featuring specialized sprung floors and mirrors for choreographic rehearsals.",
+                  "category": "cultural",
+                  "coords": [
+                        103.772309,
+                        1.304541
+                  ]
+            },
+            {
+                  "name": "Theatrette",
+                  "text": "An intimate, raked-seating venue designed for small-scale theatrical performances and academic lectures.",
+                  "category": "cultural",
+                  "coords": [
+                        103.769502,
+                        1.305943
+                  ]
+            },
+            {
+                  "name": "Amphitheatre at Clementi Woods Park",
+                  "text": "A terraced outdoor stage surrounded by tall trees, offering a natural setting for community gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        103.768524,
+                        1.298583
+                  ]
+            },
+            {
+                  "name": "rumah pekerja hortpark",
+                  "text": "This vantage point looks over the designated worker accommodations nestled near the botanical parkland.",
+                  "category": "natural",
+                  "coords": [
+                        103.761885,
+                        1.308246
+                  ]
+            },
+            {
+                  "name": "Yale-NUS Black Box Theatre",
+                  "text": "A flexible, unadorned performance space used by college students for experimental dramatic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        103.77203,
+                        1.307501
+                  ]
+            },
+            {
+                  "name": "Performing Arts Studio",
+                  "text": "A versatile studio room equipped with professional lighting grids for student acting and dance workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        103.785504,
+                        1.300427
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "This local Catholic church features a prominent cross on its facade and hosts multiple weekend masses.",
+                  "category": "landmark",
+                  "coords": [
+                        103.770673,
+                        1.307678
+                  ]
+            },
+            {
+                  "name": "Holy Covenant Methodist Church",
+                  "text": "A Methodist congregation that congregates in a welcoming building to provide community support and worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.784399,
+                        1.302021
+                  ]
+            },
+            {
+                  "name": "The Bible Church",
+                  "text": "A local Christian congregation situated in the vicinity of the one-north business park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.76583,
+                        1.302865
+                  ]
+            },
+            {
+                  "name": "Wu Tai Shan Buddist Temple",
+                  "text": "A Buddhist temple offering a place of worship and contemplation near the one-north business park.",
+                  "category": "landmark",
+                  "coords": [
+                        103.764679,
+                        1.303206
+                  ]
+            },
+            {
+                  "name": "St. John's - St. Margaret's Church",
+                  "text": "An Anglican church providing a place of Christian worship near the one-north area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.782468,
+                        1.306834
+                  ]
+            },
+            {
+                  "name": "woods SPA",
+                  "text": "A hot spring spa facility providing thermal relaxation near the one-north business park.",
+                  "category": "natural",
+                  "coords": [
+                        103.768381,
+                        1.296568
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "SG-01",
     coords: [103.787, 1.299],
@@ -454,7 +2416,268 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "singapore-freeport-economic-v2",
+    id: "singapore-freeport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Chandelier Slide",
+                  "text": "Die Chandelier Slide ist ein markanter, mehrstöckiger, purpurroter Indoor-Spielplatz mit Rutschenstruktur, der sich im Flughafenterminal befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.984372,
+                        1.339835
+                  ]
+            },
+            {
+                  "name": "Jurassic MIle Start/End",
+                  "text": "Dieses Tor markiert den offiziellen Eingang zu dem Radweg im Freien, der von lebensgroßen Dinosauriermodellen gesäumt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        103.983489,
+                        1.33505
+                  ]
+            },
+            {
+                  "name": "Jurassic Mile",
+                  "text": "Die Jurassic Mile ist ein Jogging- und Radweg im Freien, an dessen Strecke über zwanzig beeindruckende, lebensgroße Dinosauriermodelle ausgestellt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        103.983085,
+                        1.333162
+                  ]
+            },
+            {
+                  "name": "The Changi Museum",
+                  "text": "Das Changi Museum dokumentiert auf eindringliche Weise die Erfahrungen der Kriegsgefangenen während der japanischen Besetzung Singapurs im Zweiten Weltkrieg.",
+                  "category": "museum",
+                  "coords": [
+                        103.974025,
+                        1.362186
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "Von dieser Einrichtung aus koordiniert die Heilsarmee lokale christliche Wohltätigkeitsinitiativen und Unterstützungsdienste für die Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.965119,
+                        1.353253
+                  ]
+            },
+            {
+                  "name": "Yan Kit Village Chinese Temple",
+                  "text": "Dieser traditionelle taoistische Tempel bewahrt das spirituelle Erbe und die kulturellen Bräuche der ehemaligen Dorfgemeinschaft von Yan Kit.",
+                  "category": "landmark",
+                  "coords": [
+                        103.968295,
+                        1.359593
+                  ]
+            },
+            {
+                  "name": "Changi Baptist Church",
+                  "text": "Die Changi Baptist Church dient als Zufluchtsort im Viertel, in dem sich die lokale christliche Gemeinde zu wöchentlichen Schriftlehren versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.975218,
+                        1.366213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Chandelier Slide",
+                  "text": "A Chandelier Slide egy lenyűgöző, többszintes, karmazsinvörös beltéri játszótér és csúszda, amely a repülőtéri terminálon belül található.",
+                  "category": "landmark",
+                  "coords": [
+                        103.984372,
+                        1.339835
+                  ]
+            },
+            {
+                  "name": "Jurassic MIle Start/End",
+                  "text": "Ez a kapu jelzi az életnagyságú dinoszauruszmodellekkel szegélyezett szabadtéri kerékpárút hivatalos bejáratát.",
+                  "category": "landmark",
+                  "coords": [
+                        103.983489,
+                        1.33505
+                  ]
+            },
+            {
+                  "name": "Jurassic Mile",
+                  "text": "A Jurassic Mile egy szabadtéri futó- és kerékpárút, amelynek útvonalán több mint húsz lenyűgöző, életnagyságú dinoszaurusz kiállítás található.",
+                  "category": "landmark",
+                  "coords": [
+                        103.983085,
+                        1.333162
+                  ]
+            },
+            {
+                  "name": "The Changi Museum",
+                  "text": "A Changi Múzeum ünnepélyesen dokumentálja a hadifoglyok élményeit Szingapúr második világháborús japán megszállása idején.",
+                  "category": "museum",
+                  "coords": [
+                        103.974025,
+                        1.362186
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "Az Üdvhadsereg ebből a létesítményből koordinálja a helyi keresztény jótékonysági erőfeszítéseket és a közösséget támogató szolgáltatásokat.",
+                  "category": "landmark",
+                  "coords": [
+                        103.965119,
+                        1.353253
+                  ]
+            },
+            {
+                  "name": "Yan Kit Village Chinese Temple",
+                  "text": "Ez a hagyományos taoista templom az egykori Yan Kit falu közösségének spirituális örökségét és kulturális szokásait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        103.968295,
+                        1.359593
+                  ]
+            },
+            {
+                  "name": "Changi Baptist Church",
+                  "text": "A Changi Baptista Templom a környék szentélyeként szolgál, ahol a helyi keresztény gyülekezet heti szentírási tanításokra gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        103.975218,
+                        1.366213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Chandelier Slide",
+                  "text": "Toboganul Chandelier este o structură de joacă interioară impresionantă, pe mai multe etaje, de un roșu purpuriu, situată în incinta terminalului aeroportului.",
+                  "category": "landmark",
+                  "coords": [
+                        103.984372,
+                        1.339835
+                  ]
+            },
+            {
+                  "name": "Jurassic MIle Start/End",
+                  "text": "Această poartă marchează intrarea oficială pe pista de biciclete în aer liber, flancată de modele de dinozauri în mărime naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.983489,
+                        1.33505
+                  ]
+            },
+            {
+                  "name": "Jurassic Mile",
+                  "text": "Jurassic Mile este o pistă de jogging și ciclism în aer liber care prezintă peste douăzeci de exponate impresionante de dinozauri în mărime naturală de-a lungul traseului său.",
+                  "category": "landmark",
+                  "coords": [
+                        103.983085,
+                        1.333162
+                  ]
+            },
+            {
+                  "name": "The Changi Museum",
+                  "text": "Muzeul Changi documentează solemn experiențele prizonierilor de război în timpul ocupației japoneze a statului Singapore în cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        103.974025,
+                        1.362186
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "Operând din această unitate, Armata Salvării coordonează eforturile de caritate creștină locală și serviciile de sprijin comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        103.965119,
+                        1.353253
+                  ]
+            },
+            {
+                  "name": "Yan Kit Village Chinese Temple",
+                  "text": "Acest templu taoist tradițional păstrează moștenirea spirituală și obiceiurile culturale ale fostei comunități din satul Yan Kit.",
+                  "category": "landmark",
+                  "coords": [
+                        103.968295,
+                        1.359593
+                  ]
+            },
+            {
+                  "name": "Changi Baptist Church",
+                  "text": "Biserica Baptistă Changi servește ca un sanctuar al cartierului, unde congregația creștină locală se adună pentru învățăturile scripturale săptămânale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.975218,
+                        1.366213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Chandelier Slide",
+                  "text": "The Chandelier Slide is a striking multi-story, crimson-colored indoor playground and slide structure located within the airport terminal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.984372,
+                        1.339835
+                  ]
+            },
+            {
+                  "name": "Jurassic MIle Start/End",
+                  "text": "This gateway marks the official entrance to the outdoor cycling path flanked by life-sized dinosaur models.",
+                  "category": "landmark",
+                  "coords": [
+                        103.983489,
+                        1.33505
+                  ]
+            },
+            {
+                  "name": "Jurassic Mile",
+                  "text": "The Jurassic Mile is an outdoor jogging and cycling path featuring over twenty impressive, life-sized dinosaur exhibits along its route.",
+                  "category": "landmark",
+                  "coords": [
+                        103.983085,
+                        1.333162
+                  ]
+            },
+            {
+                  "name": "The Changi Museum",
+                  "text": "The Changi Museum solemnly documents the experiences of Prisoners of War during the Japanese occupation of Singapore in World War II.",
+                  "category": "museum",
+                  "coords": [
+                        103.974025,
+                        1.362186
+                  ]
+            },
+            {
+                  "name": "The Salvation Army",
+                  "text": "Operating out of this facility, The Salvation Army coordinates local Christian charitable efforts and community support services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.965119,
+                        1.353253
+                  ]
+            },
+            {
+                  "name": "Yan Kit Village Chinese Temple",
+                  "text": "This traditional Taoist temple preserves the spiritual heritage and cultural customs of the former Yan Kit Village community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.968295,
+                        1.359593
+                  ]
+            },
+            {
+                  "name": "Changi Baptist Church",
+                  "text": "The Changi Baptist Church serves as a neighborhood sanctuary where the local Christian congregation gathers for weekly scripture teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        103.975218,
+                        1.366213
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SG-02",
     coords: [103.978, 1.352],
@@ -502,7 +2725,556 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "senoko-power-station-economic-v2",
+    id: "senoko-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monday Night Market",
+                  "text": "Ein abendlicher Straßenmarkt unter freiem Himmel mit vielen lebhaften Essensständen und lokalen Waren.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821307,
+                        1.516365
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Eine erhaltene unterirdische Festungsanlage aus Beton, die aus militärischen Verteidigungszeiten stammt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824172,
+                        1.447462
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kg Senibong",
+                  "text": "Eine Dorfmoschee, die den islamischen religiösen Bedürfnissen der Siedlung Kampung Senibong dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817712,
+                        1.485397
+                  ]
+            },
+            {
+                  "name": "Divine Destiny",
+                  "text": "Ein buddhistisches Zentrum, das sich auf das spirituelle Schicksal konzentriert und Meditation sowie religiöse Führung anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815478,
+                        1.500648
+                  ]
+            },
+            {
+                  "name": "Jin Fu Gong Temple",
+                  "text": "Ein taoistischer Tempel, der sich durch seine aufwendigen Dachschnitzereien und brennenden Weihrauch auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.800635,
+                        1.452697
+                  ]
+            },
+            {
+                  "name": "Victory Family Centre",
+                  "text": "Ein christliches Familienzentrum, das moderne Gottesdienste und kommunale Unterstützungsdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814569,
+                        1.454725
+                  ]
+            },
+            {
+                  "name": "Peng Lai Dian Temple",
+                  "text": "Ein lokaler taoistischer Schrein, der von den Bewohnern für traditionelle kulturelle Zeremonien besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811268,
+                        1.460889
+                  ]
+            },
+            {
+                  "name": "Surau Khadijah Bahriyah",
+                  "text": "Ein lokaler muslimischer Surau, der einen eigenen täglichen Gebetsraum für die unmittelbare Nachbarschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808843,
+                        1.498586
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Plentong Baru",
+                  "text": "Ein islamischer Gebetssaal in zentraler Lage, der dem Dorf Kampung Plentong Baru dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811653,
+                        1.516021
+                  ]
+            },
+            {
+                  "name": "Surau As Syakirin",
+                  "text": "Ein muslimischer Gemeinschaftsgebetstraum namens As Syakirin, in dem regelmäßige Versammlungen der Gemeinde stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819978,
+                        1.512935
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Plentong",
+                  "text": "Die Hauptmoschee der Gemeinde, die die weit verbreitete muslimische Gemeinschaft der Region Plentong unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819802,
+                        1.519812
+                  ]
+            },
+            {
+                  "name": "Surau Al Redha",
+                  "text": "Ein bescheidener lokaler Surau, der als wesentlicher religiöser Treffpunkt für islamische Gebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808647,
+                        1.538106
+                  ]
+            },
+            {
+                  "name": "Masjid Assyafaah",
+                  "text": "Die Assyafaah Mosque ist eine moderne islamische Kultstätte im Bezirk Senoko.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819395,
+                        1.455759
+                  ]
+            },
+            {
+                  "name": "Sunday Night Market",
+                  "text": "Der Sunday Night Market in Senoko ist ein belebter Freiluftmarkt, der zum Wochenende lokale Waren und Speisen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.812366,
+                        1.497187
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Kekal Pemas Jaya",
+                  "text": "Pasar Tani Kekal Pemas Jaya ist ein lokaler Marktbereich für frische landwirtschaftliche Erzeugnisse nahe Senoko.",
+                  "category": "cultural",
+                  "coords": [
+                        103.818506,
+                        1.498903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monday Night Market",
+                  "text": "Szabadtéri esti piac, tele nyüzsgő utcai ételárusokkal és helyi árukkal.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821307,
+                        1.516365
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Egy fennmaradt beton földalatti erődítmény, amely a katonai védelmi időszakokból származik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824172,
+                        1.447462
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kg Senibong",
+                  "text": "Falusi mecset, amely a Kampung Senibong település iszlám vallási igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817712,
+                        1.485397
+                  ]
+            },
+            {
+                  "name": "Divine Destiny",
+                  "text": "A spirituális sorsra összpontosító buddhista központ, amely meditációt és vallási útmutatást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815478,
+                        1.500648
+                  ]
+            },
+            {
+                  "name": "Jin Fu Gong Temple",
+                  "text": "Taoista templom, amelyet bonyolult tetőfaragványai és égő füstölői jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.800635,
+                        1.452697
+                  ]
+            },
+            {
+                  "name": "Victory Family Centre",
+                  "text": "Keresztény családi központ, amely aktívan biztosít modern vallási tiszteletet és közösségi támogató szolgáltatásokat.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814569,
+                        1.454725
+                  ]
+            },
+            {
+                  "name": "Peng Lai Dian Temple",
+                  "text": "Helyi taoista szentély, amelyet a lakosok gyakran látogatnak hagyományos kulturális szertartások miatt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811268,
+                        1.460889
+                  ]
+            },
+            {
+                  "name": "Surau Khadijah Bahriyah",
+                  "text": "Helyi muszlim surau, amely dedikált napi imateret biztosít a közvetlen szomszédsága számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808843,
+                        1.498586
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Plentong Baru",
+                  "text": "Központilag elhelyezkedő iszlám imaterem, amely Kampung Plentong Baru falut szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811653,
+                        1.516021
+                  ]
+            },
+            {
+                  "name": "Surau As Syakirin",
+                  "text": "Az As Syakirin nevű közösségi muszlim imaterem, amely rendszeres gyülekezeti összejöveteleknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819978,
+                        1.512935
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Plentong",
+                  "text": "A fő gyülekezeti mecset, amely a Plentong térség kiterjedt muszlim közösségét támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819802,
+                        1.519812
+                  ]
+            },
+            {
+                  "name": "Surau Al Redha",
+                  "text": "Szerény helyi surau, amely az iszlám imák alapvető vallási gyülekezési pontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808647,
+                        1.538106
+                  ]
+            },
+            {
+                  "name": "Masjid Assyafaah",
+                  "text": "Az Assyafaah mecset egy modern iszlám imahely Senoko negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819395,
+                        1.455759
+                  ]
+            },
+            {
+                  "name": "Sunday Night Market",
+                  "text": "A senokói Sunday Night Market egy nyüzsgő szabadtéri piac, amely helyi árukat és ételeket kínál a hétvégeken.",
+                  "category": "cultural",
+                  "coords": [
+                        103.812366,
+                        1.497187
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Kekal Pemas Jaya",
+                  "text": "A Pasar Tani Kekal Pemas Jaya egy helyi termelői piac friss mezőgazdasági termékekkel Senoko közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        103.818506,
+                        1.498903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monday Night Market",
+                  "text": "O piață de seară în aer liber, plină de vânzători ambulanți de mâncare și mărfuri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821307,
+                        1.516365
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "O fortificație subterană din beton conservată, datând din perioadele de apărare militară.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824172,
+                        1.447462
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kg Senibong",
+                  "text": "O moschee a satului care deservește nevoile religioase islamice ale așezării Kampung Senibong.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817712,
+                        1.485397
+                  ]
+            },
+            {
+                  "name": "Divine Destiny",
+                  "text": "Un centru budist axat pe destinul spiritual, oferind meditație și îndrumare religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815478,
+                        1.500648
+                  ]
+            },
+            {
+                  "name": "Jin Fu Gong Temple",
+                  "text": "Un templu taoist caracterizat prin sculpturile elaborate de pe acoperiș și tămâia aprinsă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.800635,
+                        1.452697
+                  ]
+            },
+            {
+                  "name": "Victory Family Centre",
+                  "text": "Un centru familial creștin care oferă activ închinare religioasă modernă și servicii de sprijin comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814569,
+                        1.454725
+                  ]
+            },
+            {
+                  "name": "Peng Lai Dian Temple",
+                  "text": "Un altar taoist local frecventat de rezidenți pentru ceremonii culturale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811268,
+                        1.460889
+                  ]
+            },
+            {
+                  "name": "Surau Khadijah Bahriyah",
+                  "text": "Un surau musulman local care oferă un spațiu dedicat rugăciunii zilnice pentru cartierul său imediat.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808843,
+                        1.498586
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Plentong Baru",
+                  "text": "O sală de rugăciune islamică situată central pentru a deservi satul Kampung Plentong Baru.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811653,
+                        1.516021
+                  ]
+            },
+            {
+                  "name": "Surau As Syakirin",
+                  "text": "O sală de rugăciune musulmană comunitară numită As Syakirin, care găzduiește adunări congregaționale regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819978,
+                        1.512935
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Plentong",
+                  "text": "Principala moschee congregațională care sprijină comunitatea musulmană larg răspândită din zona Plentong.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819802,
+                        1.519812
+                  ]
+            },
+            {
+                  "name": "Surau Al Redha",
+                  "text": "Un surau local modest care servește drept punct esențial de adunare religioasă pentru rugăciunile islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808647,
+                        1.538106
+                  ]
+            },
+            {
+                  "name": "Masjid Assyafaah",
+                  "text": "Moscheea Assyafaah este un lăcaș de cult islamic modern din districtul Senoko.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819395,
+                        1.455759
+                  ]
+            },
+            {
+                  "name": "Sunday Night Market",
+                  "text": "Sunday Night Market din Senoko este o piață în aer liber animată, care oferă produse și mâncăruri locale la sfârșit de săptămână.",
+                  "category": "cultural",
+                  "coords": [
+                        103.812366,
+                        1.497187
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Kekal Pemas Jaya",
+                  "text": "Pasar Tani Kekal Pemas Jaya este o piață locală de produse agricole proaspete lângă Senoko.",
+                  "category": "cultural",
+                  "coords": [
+                        103.818506,
+                        1.498903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Night Market",
+                  "text": "An outdoor evening market packed with lively street food vendors and local merchandise.",
+                  "category": "landmark",
+                  "coords": [
+                        103.821307,
+                        1.516365
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "A preserved concrete underground fortification dating back to military defense periods.",
+                  "category": "landmark",
+                  "coords": [
+                        103.824172,
+                        1.447462
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Kg Senibong",
+                  "text": "A village mosque serving the Islamic religious needs of the Kampung Senibong settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        103.817712,
+                        1.485397
+                  ]
+            },
+            {
+                  "name": "Divine Destiny",
+                  "text": "A Buddhist center focused on spiritual destiny, offering meditation and religious guidance.",
+                  "category": "landmark",
+                  "coords": [
+                        103.815478,
+                        1.500648
+                  ]
+            },
+            {
+                  "name": "Jin Fu Gong Temple",
+                  "text": "A Taoist temple characterized by its elaborate roof carvings and burning incense.",
+                  "category": "landmark",
+                  "coords": [
+                        103.800635,
+                        1.452697
+                  ]
+            },
+            {
+                  "name": "Victory Family Centre",
+                  "text": "A Christian family center actively providing modern religious worship and community support services.",
+                  "category": "landmark",
+                  "coords": [
+                        103.814569,
+                        1.454725
+                  ]
+            },
+            {
+                  "name": "Peng Lai Dian Temple",
+                  "text": "A localized Taoist shrine frequented by residents for traditional cultural ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811268,
+                        1.460889
+                  ]
+            },
+            {
+                  "name": "Surau Khadijah Bahriyah",
+                  "text": "A local Muslim surau providing a dedicated daily prayer space for its immediate neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808843,
+                        1.498586
+                  ]
+            },
+            {
+                  "name": "Surau Kampung Plentong Baru",
+                  "text": "An Islamic prayer hall centrally located to serve the Kampung Plentong Baru village.",
+                  "category": "landmark",
+                  "coords": [
+                        103.811653,
+                        1.516021
+                  ]
+            },
+            {
+                  "name": "Surau As Syakirin",
+                  "text": "A community Muslim prayer room named As Syakirin, hosting regular congregational gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819978,
+                        1.512935
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Plentong",
+                  "text": "The principal congregational mosque supporting the widespread Muslim community of the Plentong area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819802,
+                        1.519812
+                  ]
+            },
+            {
+                  "name": "Surau Al Redha",
+                  "text": "A modest local surau serving as an essential religious gathering point for Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.808647,
+                        1.538106
+                  ]
+            },
+            {
+                  "name": "Assyafaah Mosque",
+                  "text": "The Assyafaah Mosque is a modern Islamic place of worship in the Senoko district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.819395,
+                        1.455759
+                  ]
+            },
+            {
+                  "name": "Sunday Night Market",
+                  "text": "The Sunday Night Market in Senoko is a bustling open-air market offering local goods and food on weekends.",
+                  "category": "cultural",
+                  "coords": [
+                        103.812366,
+                        1.497187
+                  ]
+            },
+            {
+                  "name": "Pasar Tani Kekal Pemas Jaya",
+                  "text": "Pasar Tani Kekal Pemas Jaya is a local farmers' marketplace for fresh agricultural produce near Senoko.",
+                  "category": "cultural",
+                  "coords": [
+                        103.818506,
+                        1.498903
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "SG-03",
     coords: [103.820, 1.458],
@@ -550,7 +3322,232 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "seletar-aerospace-park-economic-v2",
+    id: "seletar-aerospace-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bambi Caravan",
+                  "text": "Bambi Caravan ist eine originelle Wohnwagen-Attraktion, die sich im Aviation-Viertel Seletar befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.868319,
+                        1.409418
+                  ]
+            },
+            {
+                  "name": "Church of the Epiphany",
+                  "text": "Eine christliche Kirche für die örtliche Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.871118,
+                        1.401799
+                  ]
+            },
+            {
+                  "name": "San Qing Gong Taoist Cultural Centre (Singapore)",
+                  "text": "Ein daoistisches Kulturzentrum und Gotteshaus für die Gläubigen der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899779,
+                        1.414386
+                  ]
+            },
+            {
+                  "name": "Thye Hua Kwan @Sengkang",
+                  "text": "Eine buddhistische Einrichtung, die den Stadtteil Sengkang versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.87859,
+                        1.396678
+                  ]
+            },
+            {
+                  "name": "Abundant Grace Presbyterian Church",
+                  "text": "Eine presbyterianische Kirche der örtlichen christlichen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873542,
+                        1.397547
+                  ]
+            },
+            {
+                  "name": "Ubin Thai Buddhist Temple",
+                  "text": "Ein thailändischer buddhistischer Tempel für Meditation und Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.872319,
+                        1.391816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bambi Caravan",
+                  "text": "A Bambi Caravan egy egyedi lakókocsis attrakció a seletari repülési negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.868319,
+                        1.409418
+                  ]
+            },
+            {
+                  "name": "Church of the Epiphany",
+                  "text": "Keresztény templom, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.871118,
+                        1.401799
+                  ]
+            },
+            {
+                  "name": "San Qing Gong Taoist Cultural Centre (Singapore)",
+                  "text": "Taoista kulturális központ és istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899779,
+                        1.414386
+                  ]
+            },
+            {
+                  "name": "Thye Hua Kwan @Sengkang",
+                  "text": "A Sengkang negyedet szolgáló buddhista vallási létesítmény.",
+                  "category": "landmark",
+                  "coords": [
+                        103.87859,
+                        1.396678
+                  ]
+            },
+            {
+                  "name": "Abundant Grace Presbyterian Church",
+                  "text": "Presbiteriánus templom, amely a helyi keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873542,
+                        1.397547
+                  ]
+            },
+            {
+                  "name": "Ubin Thai Buddhist Temple",
+                  "text": "Thai buddhista templom, amely meditációra és imádságra szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.872319,
+                        1.391816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bambi Caravan",
+                  "text": "Bambi Caravan este o atracție cu rulote inedită situată în cartierul aviatic Seletar.",
+                  "category": "landmark",
+                  "coords": [
+                        103.868319,
+                        1.409418
+                  ]
+            },
+            {
+                  "name": "Church of the Epiphany",
+                  "text": "O biserică creștină care deservește parohia locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.871118,
+                        1.401799
+                  ]
+            },
+            {
+                  "name": "San Qing Gong Taoist Cultural Centre (Singapore)",
+                  "text": "Un centru cultural și lăcaș de cult taoist pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899779,
+                        1.414386
+                  ]
+            },
+            {
+                  "name": "Thye Hua Kwan @Sengkang",
+                  "text": "O unitate religioasă budistă care deservește zona Sengkang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.87859,
+                        1.396678
+                  ]
+            },
+            {
+                  "name": "Abundant Grace Presbyterian Church",
+                  "text": "O biserică prezbiteriană care deservește comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873542,
+                        1.397547
+                  ]
+            },
+            {
+                  "name": "Ubin Thai Buddhist Temple",
+                  "text": "Un templu budist thailandez care oferă un loc de meditație și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        103.872319,
+                        1.391816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bambi Caravan",
+                  "text": "Bambi Caravan is a quirky caravan attraction situated in the Seletar aviation neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        103.868319,
+                        1.409418
+                  ]
+            },
+            {
+                  "name": "Church of the Epiphany",
+                  "text": "A Christian church serving the local parish community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.871118,
+                        1.401799
+                  ]
+            },
+            {
+                  "name": "San Qing Gong Taoist Cultural Centre (Singapore)",
+                  "text": "A cultural center and Taoist place of worship serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.899779,
+                        1.414386
+                  ]
+            },
+            {
+                  "name": "Thye Hua Kwan @Sengkang",
+                  "text": "A Buddhist religious facility serving the Sengkang area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.87859,
+                        1.396678
+                  ]
+            },
+            {
+                  "name": "Abundant Grace Presbyterian Church",
+                  "text": "A Presbyterian church serving the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.873542,
+                        1.397547
+                  ]
+            },
+            {
+                  "name": "Ubin Thai Buddhist Temple",
+                  "text": "A Thai Buddhist temple offering a place for meditation and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        103.872319,
+                        1.391816
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SG-03",
     coords: [103.876, 1.412],
@@ -598,7 +3595,160 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "pasir-panjang-terminal-economic-v2",
+    id: "pasir-panjang-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reflections at Bukit Chandu",
+                  "text": "Dieses in einem restaurierten kolonialen Bungalow untergebrachte Museum aus dem Zweiten Weltkrieg erzählt von der Schlacht um Pasir Panjang.",
+                  "category": "museum",
+                  "coords": [
+                        103.794083,
+                        1.279472
+                  ]
+            },
+            {
+                  "name": "Phoh Teck Siang Tng Temple",
+                  "text": "Dieser traditionelle daoistische Tempel dient der lokalen Gemeinschaft rund um das Terminalgebiet Pasir Panjang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794413,
+                        1.275891
+                  ]
+            },
+            {
+                  "name": "Soka Youth Centre",
+                  "text": "Ein modernes buddhistisches Jugendzentrum, das Raum für Gemeinschaftstreffen und spirituelles Lernen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.790873,
+                        1.276996
+                  ]
+            },
+            {
+                  "name": "Kew Hua San Poh Ern Shih",
+                  "text": "Dieser den buddhistischen Lehren gewidmete Tempelkomplex weist klassische asiatische Architekturelemente auf.",
+                  "category": "landmark",
+                  "coords": [
+                        103.788318,
+                        1.278783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reflections at Bukit Chandu",
+                  "text": "Egy felújított, fekete-fehér gyarmati bungalóban kapott helyet ez a második világháborús múzeum, amely a Pasir Panjang-i csatát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.794083,
+                        1.279472
+                  ]
+            },
+            {
+                  "name": "Phoh Teck Siang Tng Temple",
+                  "text": "Ez a hagyományos taoista templom a Pasir Panjang terminál környékének helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794413,
+                        1.275891
+                  ]
+            },
+            {
+                  "name": "Soka Youth Centre",
+                  "text": "Modern buddhista ifjúsági központ, amely teret ad a közösségi összejöveteleknek és a spirituális tanulásnak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.790873,
+                        1.276996
+                  ]
+            },
+            {
+                  "name": "Kew Hua San Poh Ern Shih",
+                  "text": "A buddhista tanításoknak szentelt templomegyüttes klasszikus ázsiai építészeti elemekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.788318,
+                        1.278783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reflections at Bukit Chandu",
+                  "text": "Găzduit într-un bungalou colonial alb-negru restaurat, acest muzeu din al Doilea Război Mondial prezintă Bătălia de la Pasir Panjang.",
+                  "category": "museum",
+                  "coords": [
+                        103.794083,
+                        1.279472
+                  ]
+            },
+            {
+                  "name": "Phoh Teck Siang Tng Temple",
+                  "text": "Acest templu taoist tradițional deservește comunitatea locală din zona terminalului Pasir Panjang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794413,
+                        1.275891
+                  ]
+            },
+            {
+                  "name": "Soka Youth Centre",
+                  "text": "Un centru modern pentru tineretul budist, care oferă un spațiu pentru întâlniri comunitare și învățare spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.790873,
+                        1.276996
+                  ]
+            },
+            {
+                  "name": "Kew Hua San Poh Ern Shih",
+                  "text": "Dedicat învățăturilor budiste, acest complex de temple prezintă elemente arhitecturale asiatice clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        103.788318,
+                        1.278783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reflections at Bukit Chandu",
+                  "text": "Housed in a restored black-and-white colonial bungalow, this WWII museum recounts the Battle of Pasir Panjang.",
+                  "category": "museum",
+                  "coords": [
+                        103.794083,
+                        1.279472
+                  ]
+            },
+            {
+                  "name": "Phoh Teck Siang Tng Temple",
+                  "text": "This traditional Taoist temple serves the local community around the Pasir Panjang terminal area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794413,
+                        1.275891
+                  ]
+            },
+            {
+                  "name": "Soka Youth Centre",
+                  "text": "A modern Buddhist youth centre offering a space for community gatherings and spiritual learning.",
+                  "category": "landmark",
+                  "coords": [
+                        103.790873,
+                        1.276996
+                  ]
+            },
+            {
+                  "name": "Kew Hua San Poh Ern Shih",
+                  "text": "Dedicated to Buddhist teachings, this temple complex features classic Asian architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        103.788318,
+                        1.278783
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SG-01",
     coords: [103.788, 1.272],
@@ -646,7 +3796,268 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "micron-semiconductor-fab-economic-v2",
+    id: "micron-semiconductor-fab-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Yusof Ishak",
+                  "text": "Diese Moschee in Woodlands ist nach dem ersten Präsidenten Singapurs benannt und zeichnet sich durch eine markante Nusantara-Architektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        103.796182,
+                        1.426518
+                  ]
+            },
+            {
+                  "name": "Bethesda Christian Centre",
+                  "text": "Dieser christliche Gottesdienstort in Woodlands bietet ein strukturiertes Umfeld für Gemeindegebete und religiöse Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        103.802861,
+                        1.435149
+                  ]
+            },
+            {
+                  "name": "Covenant Evangelical Free Church (Woodlands)",
+                  "text": "Diese moderne christliche Kirche in Woodlands bietet zeitgenössische Gottesdienste und spirituelle Unterstützung für die lokale evangelikale Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794307,
+                        1.430163
+                  ]
+            },
+            {
+                  "name": "Ching Chwee Temple",
+                  "text": "Ein traditioneller taoistischer Tempel in Woodlands, der sich durch seine duftenden Räuchergefäße und detailreichen Schreine auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80073,
+                        1.452478
+                  ]
+            },
+            {
+                  "name": "BW Monastery",
+                  "text": "Dieses große buddhistische Kloster in Woodlands verfügt über beeindruckende Gebetshallen und dient als Zentrum für die Verbreitung des Dharma.",
+                  "category": "landmark",
+                  "coords": [
+                        103.798862,
+                        1.430623
+                  ]
+            },
+            {
+                  "name": "Lighthouse Evangelism Woodlands",
+                  "text": "Dieses christliche Zentrum in Woodlands ist für seine groß angelegten Gottesdienste und Heilungsdienste bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.798033,
+                        1.444891
+                  ]
+            },
+            {
+                  "name": "Woodlands Evangelical Free Church",
+                  "text": "Eine einladende christliche Kirche in Woodlands, die die lokale evangelikale Gemeinde zu wöchentlichen Predigten und zur Gemeinschaft versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        103.791773,
+                        1.439503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Yusof Ishak",
+                  "text": "A Woodlands-ben található, Szingapúr első elnökéről elnevezett mecset jellegzetes Nusantara építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        103.796182,
+                        1.426518
+                  ]
+            },
+            {
+                  "name": "Bethesda Christian Centre",
+                  "text": "Ez a Woodlands-i keresztény istentiszteleti hely strukturált környezetet biztosít a közösségi imákhoz és a vallási szertartásokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        103.802861,
+                        1.435149
+                  ]
+            },
+            {
+                  "name": "Covenant Evangelical Free Church (Woodlands)",
+                  "text": "Ez a modern keresztény templom Woodlands-ben kortárs istentiszteleteket és spirituális támogatást kínál a helyi evangéliumi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794307,
+                        1.430163
+                  ]
+            },
+            {
+                  "name": "Ching Chwee Temple",
+                  "text": "Hagyományos taoista templom Woodlands-ben, amelyet illatos füstölők és részletgazdag szentélyek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80073,
+                        1.452478
+                  ]
+            },
+            {
+                  "name": "BW Monastery",
+                  "text": "Ez a nagy Woodlands-i buddhista kolostor lenyűgöző imatermekkel rendelkezik, és a dharma terjesztésének központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.798862,
+                        1.430623
+                  ]
+            },
+            {
+                  "name": "Lighthouse Evangelism Woodlands",
+                  "text": "Ez a Woodlands-ben működő keresztény központ nagyszabású istentiszteleteiről és gyógyító szolgálatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.798033,
+                        1.444891
+                  ]
+            },
+            {
+                  "name": "Woodlands Evangelical Free Church",
+                  "text": "Egy barátságos keresztény templom Woodlands-ben, amely a helyi evangéliumi gyülekezetet fogja össze heti prédikációkra és közösségi alkalmakra.",
+                  "category": "landmark",
+                  "coords": [
+                        103.791773,
+                        1.439503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Yusof Ishak",
+                  "text": "Situată în Woodlands, această moschee poartă numele primului președinte al statului Singapore și prezintă o arhitectură Nusantara distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        103.796182,
+                        1.426518
+                  ]
+            },
+            {
+                  "name": "Bethesda Christian Centre",
+                  "text": "Acest lăcaș de cult creștin din Woodlands oferă un mediu structurat pentru rugăciunea comunitară și serviciile religioase.",
+                  "category": "religious",
+                  "coords": [
+                        103.802861,
+                        1.435149
+                  ]
+            },
+            {
+                  "name": "Covenant Evangelical Free Church (Woodlands)",
+                  "text": "Această biserică creștină modernă din Woodlands oferă servicii de închinare contemporane și sprijin spiritual pentru comunitatea evanghelică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794307,
+                        1.430163
+                  ]
+            },
+            {
+                  "name": "Ching Chwee Temple",
+                  "text": "Un templu taoist tradițional din Woodlands, caracterizat de arzătoarele sale de tămâie parfumate și altarele detaliate.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80073,
+                        1.452478
+                  ]
+            },
+            {
+                  "name": "BW Monastery",
+                  "text": "Această mare mănăstire budistă din Woodlands are săli de rugăciune impresionante și servește ca un centru pentru propagarea Dharmei.",
+                  "category": "landmark",
+                  "coords": [
+                        103.798862,
+                        1.430623
+                  ]
+            },
+            {
+                  "name": "Lighthouse Evangelism Woodlands",
+                  "text": "Operând în Woodlands, acest centru creștin este cunoscut pentru serviciile sale de închinare pe scară largă și ministerele de vindecare.",
+                  "category": "landmark",
+                  "coords": [
+                        103.798033,
+                        1.444891
+                  ]
+            },
+            {
+                  "name": "Woodlands Evangelical Free Church",
+                  "text": "O biserică creștină primitoare din Woodlands, care adună congregația evanghelică locală pentru predici și părtășie săptămânale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.791773,
+                        1.439503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yusof Ishak Mosque",
+                  "text": "Located in Woodlands, this mosque is named after Singapore's first President and features distinctive Nusantara architecture.",
+                  "category": "religious",
+                  "coords": [
+                        103.796182,
+                        1.426518
+                  ]
+            },
+            {
+                  "name": "Bethesda Christian Centre",
+                  "text": "This Christian place of worship in Woodlands provides a structured environment for community prayer and religious services.",
+                  "category": "religious",
+                  "coords": [
+                        103.802861,
+                        1.435149
+                  ]
+            },
+            {
+                  "name": "Covenant Evangelical Free Church (Woodlands)",
+                  "text": "This modern Christian church in Woodlands offers contemporary worship services and spiritual support for the local Evangelical community.",
+                  "category": "landmark",
+                  "coords": [
+                        103.794307,
+                        1.430163
+                  ]
+            },
+            {
+                  "name": "Ching Chwee Temple",
+                  "text": "A traditional Taoist temple in Woodlands, characterized by its fragrant incense burners and detailed shrines.",
+                  "category": "landmark",
+                  "coords": [
+                        103.80073,
+                        1.452478
+                  ]
+            },
+            {
+                  "name": "BW Monastery",
+                  "text": "This large Buddhist monastery in Woodlands features impressive prayer halls and serves as a center for Dharma propagation.",
+                  "category": "landmark",
+                  "coords": [
+                        103.798862,
+                        1.430623
+                  ]
+            },
+            {
+                  "name": "Lighthouse Evangelism Woodlands",
+                  "text": "Operating in Woodlands, this Christian center is known for its large-scale worship services and healing ministries.",
+                  "category": "landmark",
+                  "coords": [
+                        103.798033,
+                        1.444891
+                  ]
+            },
+            {
+                  "name": "Woodlands Evangelical Free Church",
+                  "text": "A welcoming Christian church in Woodlands that gathers the local Evangelical congregation for weekly sermons and fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        103.791773,
+                        1.439503
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SG-03",
     coords: [103.805, 1.433],
@@ -742,7 +4153,772 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "google-data-center-jurong-west-economic-v2",
+    id: "google-data-center-jurong-west-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nantah Arch",
+                  "text": "Ein monumentaler Torbogen, der das historische Tor zur Nanyang-Universität im Gebiet Jurong West markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.68506,
+                        1.34251
+                  ]
+            },
+            {
+                  "name": "Kartright Speedway",
+                  "text": "Eine spezielle Kartbahn, die wettbewerbsfähige Motorsport-Rennerlebnisse im Bezirk Jurong West bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.682334,
+                        1.328969
+                  ]
+            },
+            {
+                  "name": "ST Aerospace A-4SU Super Skyhawk",
+                  "text": "Ein erhaltenes Militärflugzeug vom Typ A-4SU Super Skyhawk, das als Luftfahrtdenkmal im Freien in Jurong West ausgestellt ist.",
+                  "category": "historical",
+                  "coords": [
+                        103.713114,
+                        1.374273
+                  ]
+            },
+            {
+                  "name": "Nanyang Arch",
+                  "text": "Ein prominentes strukturelles Denkmal, das an das Erbe der Nanyang-Universität in der Landschaft von Jurong West erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        103.693219,
+                        1.337409
+                  ]
+            },
+            {
+                  "name": "Chinese Heritage Centre",
+                  "text": "Dieses Museum im ehemaligen Verwaltungsgebäude der Nanyang-Universität erkundet die Geschichte der chinesischen Auslandsgemeinden in Jurong West.",
+                  "category": "museum",
+                  "coords": [
+                        103.684012,
+                        1.343811
+                  ]
+            },
+            {
+                  "name": "The Army Museum of Singapore",
+                  "text": "Dieses interaktive Militärmuseum in Jurong West zeigt das Erbe, die gepanzerten Fahrzeuge und die Geschichte der Streitkräfte Singapurs.",
+                  "category": "museum",
+                  "coords": [
+                        103.676968,
+                        1.331709
+                  ]
+            },
+            {
+                  "name": "Singapore Discovery Centre",
+                  "text": "Ein interaktives Zentrum in Jurong West mit Ausstellungen zur Vergangenheit, Gegenwart und Zukunft Singapurs sowie einem riesigen Filmtheater.",
+                  "category": "museum",
+                  "coords": [
+                        103.679116,
+                        1.332593
+                  ]
+            },
+            {
+                  "name": "Jurong Central Park",
+                  "text": "Ein weitläufiger Stadtpark in Jurong West mit lebensgroßen Brettspielinstallationen, die den Spielen Schlangen und Leitern sowie Ludo nachempfunden sind.",
+                  "category": "park",
+                  "coords": [
+                        103.707864,
+                        1.337927
+                  ]
+            },
+            {
+                  "name": "City Harvest Church",
+                  "text": "Eine überkonfessionelle Megachurch in Jurong West mit einem riesigen modernen Auditorium, das für Tausende von Gottesdienstbesuchern ausgelegt ist.",
+                  "category": "religious",
+                  "coords": [
+                        103.691901,
+                        1.342993
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Firdaus",
+                  "text": "Eine traditionelle islamische Moschee in Jurong West, die der lokalen muslimischen Gemeinde mit regelmäßigen Gebeten und Religionsunterricht dient.",
+                  "category": "religious",
+                  "coords": [
+                        103.716456,
+                        1.374939
+                  ]
+            },
+            {
+                  "name": "Jurong Hill Tower",
+                  "text": "Ein spiralförmiger Aussichtsturm, der einen Panoramablick auf die Industriestadt und die umliegende Landschaft von Jurong West bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.707856,
+                        1.317422
+                  ]
+            },
+            {
+                  "name": "Tuas Pek Kong Keng Temple",
+                  "text": "Ein traditioneller buddhistischer Tempel in Jurong West, der der Gottheit Tua Pek Kong gewidmet ist und eine kunstvolle chinesische Dacharchitektur aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.713322,
+                        1.344811
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein ruhiger buddhistischer Andachtsraum in Jurong West mit traditionellen Altären und Weihrauchbrennern für die lokalen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        103.70367,
+                        1.347003
+                  ]
+            },
+            {
+                  "name": "Jin Fu Gong Temple",
+                  "text": "Ein aufwendig dekorierter buddhistischer Tempel in Jurong West, der als spirituelles Zentrum für Praktizierende der chinesischen Volksreligion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.690499,
+                        1.340972
+                  ]
+            },
+            {
+                  "name": "Church of St Francis of Assisi",
+                  "text": "Eine römisch-katholische Pfarrkirche in Jurong West, die für ihre lebendige Gemeindemesse und ihre markante zeitgenössische religiöse Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.711067,
+                        1.348001
+                  ]
+            },
+            {
+                  "name": "Sisters of the Infant Jesus",
+                  "text": "Ein katholischer Klosterkomplex in Jurong West, der von den Schwestern vom Kinde Jesus geleitet wird und lokalen Bildungs- und spirituellen Diensten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        103.716608,
+                        1.351278
+                  ]
+            },
+            {
+                  "name": "Masjid Maarof",
+                  "text": "Eine moderne islamische Moschee in Jurong West, die sich durch ihre markante geometrische Fassade und geräumige Gebetshallen auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.704988,
+                        1.348513
+                  ]
+            },
+            {
+                  "name": "Centre of New Life",
+                  "text": "Ein modernes christliches Gemeindezentrum in Jurong West, das Gottesdienste, Gemeinderäume und Seelsorge anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.698935,
+                        1.349351
+                  ]
+            },
+            {
+                  "name": "Choa Chu Kang Cemetery Chapel",
+                  "text": "Eine feierliche Gedenkkapelle auf dem weitläufigen Gelände des Choa Chu Kang Friedhofs in Jurong West, die einen ruhigen Raum für Bestattungsriten bietet.",
+                  "category": "religious",
+                  "coords": [
+                        103.695077,
+                        1.372564
+                  ]
+            },
+            {
+                  "name": "Pingan Church",
+                  "text": "Eine lokale christliche Kirche im Gebiet Jurong West, die regelmäßig Gottesdienste in ihrem speziellen Andachtssaal abhält.",
+                  "category": "religious",
+                  "coords": [
+                        103.710659,
+                        1.372774
+                  ]
+            },
+            {
+                  "name": "963 Wet Market",
+                  "text": "Ein belebter traditioneller Frischemarkt in Jurong West, der die Nachbarschaft mit frischen Produkten, lokalem Fleisch und Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        103.692146,
+                        1.341897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nantah Arch",
+                  "text": "Egy monumentális boltív, amely a Nanyang Egyetem történelmi kapuját jelöli Jurong West térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.68506,
+                        1.34251
+                  ]
+            },
+            {
+                  "name": "Kartright Speedway",
+                  "text": "Egy dedikált gokartpálya, amely versenyképes motorsport élményeket kínál a Jurong West negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.682334,
+                        1.328969
+                  ]
+            },
+            {
+                  "name": "ST Aerospace A-4SU Super Skyhawk",
+                  "text": "Egy megőrzött A-4SU Super Skyhawk katonai repülőgép, amelyet szabadtéri repülési emlékműként állítottak ki Jurong Westben.",
+                  "category": "historical",
+                  "coords": [
+                        103.713114,
+                        1.374273
+                  ]
+            },
+            {
+                  "name": "Nanyang Arch",
+                  "text": "Egy kiemelkedő szerkezeti emlékmű, amely a Nanyang Egyetem örökségének állít emléket Jurong West táján.",
+                  "category": "historical",
+                  "coords": [
+                        103.693219,
+                        1.337409
+                  ]
+            },
+            {
+                  "name": "Chinese Heritage Centre",
+                  "text": "A Nanyang Egyetem egykori adminisztrációs épületében található múzeum a tengerentúli kínai közösségek történetét tárja fel Jurong Westben.",
+                  "category": "museum",
+                  "coords": [
+                        103.684012,
+                        1.343811
+                  ]
+            },
+            {
+                  "name": "The Army Museum of Singapore",
+                  "text": "Ez az interaktív katonai múzeum Jurong Westben a Szingapúri Fegyveres Erők örökségét, páncélozott járműveit és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        103.676968,
+                        1.331709
+                  ]
+            },
+            {
+                  "name": "Singapore Discovery Centre",
+                  "text": "Interaktív központ Jurong Westben, amely Szingapúr múltját, jelenét és jövőjét bemutató kiállításokat, valamint egy óriásvásznú mozit is magában foglal.",
+                  "category": "museum",
+                  "coords": [
+                        103.679116,
+                        1.332593
+                  ]
+            },
+            {
+                  "name": "Jurong Central Park",
+                  "text": "Kiterjedt városi park Jurong Westben, amely életnagyságú táblajáték-installációkat tartalmaz, amelyeket a Kígyók és létrák, valamint a Ludo mintájára terveztek.",
+                  "category": "park",
+                  "coords": [
+                        103.707864,
+                        1.337927
+                  ]
+            },
+            {
+                  "name": "City Harvest Church",
+                  "text": "Egy felekezetközi megatemplom Jurong Westben, hatalmas kortárs auditóriummal, amelyet több ezer hívő befogadására terveztek.",
+                  "category": "religious",
+                  "coords": [
+                        103.691901,
+                        1.342993
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Firdaus",
+                  "text": "Hagyományos iszlám mecset Jurong Westben, amely rendszeres imákkal és vallási órákkal szolgálja a helyi muszlim közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        103.716456,
+                        1.374939
+                  ]
+            },
+            {
+                  "name": "Jurong Hill Tower",
+                  "text": "Spirálos kilátótorony, amely panorámás kilátást nyújt az iparvárosra és a környező Jurong West tájra.",
+                  "category": "natural",
+                  "coords": [
+                        103.707856,
+                        1.317422
+                  ]
+            },
+            {
+                  "name": "Tuas Pek Kong Keng Temple",
+                  "text": "Hagyományos buddhista templom Jurong Westben, amelyet Tua Pek Kong istenségnek szenteltek, és díszes kínai tetőépítészettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        103.713322,
+                        1.344811
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Nyugodt buddhista istentiszteleti hely Jurong Westben, hagyományos oltárokkal és füstölőkkel a helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        103.70367,
+                        1.347003
+                  ]
+            },
+            {
+                  "name": "Jin Fu Gong Temple",
+                  "text": "Bonyolultan díszített buddhista templom Jurong Westben, amely a kínai népi vallás gyakorlóinak spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        103.690499,
+                        1.340972
+                  ]
+            },
+            {
+                  "name": "Church of St Francis of Assisi",
+                  "text": "Római katolikus plébániatemplom Jurong Westben, amely élénk közösségi miséjéről és jellegzetes kortárs vallási építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        103.711067,
+                        1.348001
+                  ]
+            },
+            {
+                  "name": "Sisters of the Infant Jesus",
+                  "text": "A Gyermek Jézus Nővérei által fenntartott katolikus kolostorkomplexum Jurong Westben, amelyet a helyi oktatási és spirituális szolgálatoknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.716608,
+                        1.351278
+                  ]
+            },
+            {
+                  "name": "Masjid Maarof",
+                  "text": "Modern iszlám mecset Jurong Westben, amelyet jellegzetes geometriai homlokzata és tágas imatermei jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        103.704988,
+                        1.348513
+                  ]
+            },
+            {
+                  "name": "Centre of New Life",
+                  "text": "Kortárs keresztény közösségi központ Jurong Westben, amely istentiszteleteket, közösségi termeket és lelkigondozást biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        103.698935,
+                        1.349351
+                  ]
+            },
+            {
+                  "name": "Choa Chu Kang Cemetery Chapel",
+                  "text": "Ünnepélyes emlékbápolna a kiterjedt Choa Chu Kang temető területén Jurong Westben, amely csendes teret kínál a temetési szertartásokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        103.695077,
+                        1.372564
+                  ]
+            },
+            {
+                  "name": "Pingan Church",
+                  "text": "Helyi keresztény templom Jurong West térségében, amely rendszeres gyülekezeti istentiszteleteket tart a dedikált istentiszteleti termében.",
+                  "category": "religious",
+                  "coords": [
+                        103.710659,
+                        1.372774
+                  ]
+            },
+            {
+                  "name": "963 Wet Market",
+                  "text": "Nyüzsgő hagyományos piac Jurong Westben, amely friss termékekkel, helyi húsokkal és napi szükségleti cikkekkel látja el a környéket.",
+                  "category": "cultural",
+                  "coords": [
+                        103.692146,
+                        1.341897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nantah Arch",
+                  "text": "O arcadă monumentală care marchează poarta istorică a Universității Nanyang din zona Jurong West.",
+                  "category": "landmark",
+                  "coords": [
+                        103.68506,
+                        1.34251
+                  ]
+            },
+            {
+                  "name": "Kartright Speedway",
+                  "text": "O pistă de karting dedicată care oferă experiențe de curse cu motor competitive în districtul Jurong West.",
+                  "category": "landmark",
+                  "coords": [
+                        103.682334,
+                        1.328969
+                  ]
+            },
+            {
+                  "name": "ST Aerospace A-4SU Super Skyhawk",
+                  "text": "O aeronavă militară A-4SU Super Skyhawk conservată, expusă ca monument de aviație în aer liber în Jurong West.",
+                  "category": "historical",
+                  "coords": [
+                        103.713114,
+                        1.374273
+                  ]
+            },
+            {
+                  "name": "Nanyang Arch",
+                  "text": "Un monument structural proeminent care comemorează moștenirea Universității Nanyang în peisajul din Jurong West.",
+                  "category": "historical",
+                  "coords": [
+                        103.693219,
+                        1.337409
+                  ]
+            },
+            {
+                  "name": "Chinese Heritage Centre",
+                  "text": "Situat în fosta clădire administrativă a Universității Nanyang, acest muzeu explorează istoria comunităților chineze de peste mări în Jurong West.",
+                  "category": "museum",
+                  "coords": [
+                        103.684012,
+                        1.343811
+                  ]
+            },
+            {
+                  "name": "The Army Museum of Singapore",
+                  "text": "Acest muzeu militar interactiv expune patrimoniul, vehiculele blindate și istoria Forțelor Armate din Singapore în Jurong West.",
+                  "category": "museum",
+                  "coords": [
+                        103.676968,
+                        1.331709
+                  ]
+            },
+            {
+                  "name": "Singapore Discovery Centre",
+                  "text": "Un centru interactiv în Jurong West cu expoziții despre trecutul, prezentul și viitorul statului Singapore, alături de un cinematograf cu ecran uriaș.",
+                  "category": "museum",
+                  "coords": [
+                        103.679116,
+                        1.332593
+                  ]
+            },
+            {
+                  "name": "Jurong Central Park",
+                  "text": "Un parc urban vast din Jurong West, cu instalații de jocuri de masă în mărime naturală modelate după Șerpi și Scări și Ludo.",
+                  "category": "park",
+                  "coords": [
+                        103.707864,
+                        1.337927
+                  ]
+            },
+            {
+                  "name": "City Harvest Church",
+                  "text": "O megabiserică non-confesională din Jurong West, cu un auditoriu contemporan masiv, conceput pentru a găzdui mii de credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        103.691901,
+                        1.342993
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Firdaus",
+                  "text": "O moschee islamică tradițională în Jurong West, care deservește comunitatea musulmană locală cu rugăciuni regulate și cursuri religioase.",
+                  "category": "religious",
+                  "coords": [
+                        103.716456,
+                        1.374939
+                  ]
+            },
+            {
+                  "name": "Jurong Hill Tower",
+                  "text": "Un turn de observație în spirală, care oferă vederi panoramice ale orașului industrial și ale peisajului înconjurător din Jurong West.",
+                  "category": "natural",
+                  "coords": [
+                        103.707856,
+                        1.317422
+                  ]
+            },
+            {
+                  "name": "Tuas Pek Kong Keng Temple",
+                  "text": "Un templu budist tradițional în Jurong West dedicat zeității Tua Pek Kong, având o arhitectură complexă a acoperișului chinezesc.",
+                  "category": "landmark",
+                  "coords": [
+                        103.713322,
+                        1.344811
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un spațiu liniștit de cult budist cu altare tradiționale și arzătoare de tămâie pentru credincioșii locali din Jurong West.",
+                  "category": "landmark",
+                  "coords": [
+                        103.70367,
+                        1.347003
+                  ]
+            },
+            {
+                  "name": "Jin Fu Gong Temple",
+                  "text": "Un templu budist decorat complex în Jurong West, servind ca centru spiritual pentru practicanții religiei populare chineze.",
+                  "category": "landmark",
+                  "coords": [
+                        103.690499,
+                        1.340972
+                  ]
+            },
+            {
+                  "name": "Church of St Francis of Assisi",
+                  "text": "O biserică parohială romano-catolică în Jurong West, cunoscută pentru comunitatea sa vibrantă și pentru arhitectura religioasă contemporană distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        103.711067,
+                        1.348001
+                  ]
+            },
+            {
+                  "name": "Sisters of the Infant Jesus",
+                  "text": "Un complex de mănăstire catolică în Jurong West, condus de Surorile Pruncului Isus, dedicat ministerelor educaționale și spirituale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        103.716608,
+                        1.351278
+                  ]
+            },
+            {
+                  "name": "Masjid Maarof",
+                  "text": "O moschee islamică modernă în Jurong West, caracterizată prin fațada sa geometrică distinctivă și sălile de rugăciune spațioase.",
+                  "category": "landmark",
+                  "coords": [
+                        103.704988,
+                        1.348513
+                  ]
+            },
+            {
+                  "name": "Centre of New Life",
+                  "text": "Un centru comunitar creștin contemporan în Jurong West, care oferă slujbe religioase, săli de părtășie și îngrijire pastorală.",
+                  "category": "landmark",
+                  "coords": [
+                        103.698935,
+                        1.349351
+                  ]
+            },
+            {
+                  "name": "Choa Chu Kang Cemetery Chapel",
+                  "text": "O capelă memorială solemnă situată pe teritoriul vast al cimitirului Choa Chu Kang din Jurong West, oferind un spațiu liniștit pentru rituri funerare.",
+                  "category": "religious",
+                  "coords": [
+                        103.695077,
+                        1.372564
+                  ]
+            },
+            {
+                  "name": "Pingan Church",
+                  "text": "O biserică creștină locală în zona Jurong West, care găzduiește slujbe congregaționale regulate în sala sa dedicată de cult.",
+                  "category": "religious",
+                  "coords": [
+                        103.710659,
+                        1.372774
+                  ]
+            },
+            {
+                  "name": "963 Wet Market",
+                  "text": "O piață tradițională plină de viață în Jurong West, care aprovizionează cartierul cu produse proaspete, carne locală și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        103.692146,
+                        1.341897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nantah Arch",
+                  "text": "A monumental archway marking the historical gateway to Nanyang University in the Jurong West area.",
+                  "category": "landmark",
+                  "coords": [
+                        103.68506,
+                        1.34251
+                  ]
+            },
+            {
+                  "name": "Kartright Speedway",
+                  "text": "A dedicated karting track offering competitive motorsport racing experiences in the Jurong West district.",
+                  "category": "landmark",
+                  "coords": [
+                        103.682334,
+                        1.328969
+                  ]
+            },
+            {
+                  "name": "ST Aerospace A-4SU Super Skyhawk",
+                  "text": "A preserved A-4SU Super Skyhawk military aircraft displayed as an outdoor aviation monument in Jurong West.",
+                  "category": "historical",
+                  "coords": [
+                        103.713114,
+                        1.374273
+                  ]
+            },
+            {
+                  "name": "Nanyang Arch",
+                  "text": "A prominent structural monument commemorating the legacy of Nanyang University within the Jurong West landscape.",
+                  "category": "historical",
+                  "coords": [
+                        103.693219,
+                        1.337409
+                  ]
+            },
+            {
+                  "name": "Chinese Heritage Centre",
+                  "text": "Set in the former Nanyang University Administration Building, this museum explores the history of overseas Chinese communities in Jurong West.",
+                  "category": "museum",
+                  "coords": [
+                        103.684012,
+                        1.343811
+                  ]
+            },
+            {
+                  "name": "The Army Museum of Singapore",
+                  "text": "This interactive military museum showcases the heritage, armored vehicles, and history of the Singapore Armed Forces in Jurong West.",
+                  "category": "museum",
+                  "coords": [
+                        103.676968,
+                        1.331709
+                  ]
+            },
+            {
+                  "name": "Singapore Discovery Centre",
+                  "text": "An interactive \"edutainment\" center and museum in Jurong West featuring exhibits on Singapore's past, present, and future alongside a giant screen theatre.",
+                  "category": "museum",
+                  "coords": [
+                        103.679116,
+                        1.332593
+                  ]
+            },
+            {
+                  "name": "Jurong Central Park",
+                  "text": "An expansive urban park in Jurong West featuring life-sized board game installations modeled after Snakes and Ladders and Ludo.",
+                  "category": "park",
+                  "coords": [
+                        103.707864,
+                        1.337927
+                  ]
+            },
+            {
+                  "name": "City Harvest Church",
+                  "text": "A non-denominational megachurch in Jurong West featuring a massive contemporary auditorium designed to host thousands of worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        103.691901,
+                        1.342993
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Firdaus",
+                  "text": "A traditional Islamic mosque in Jurong West serving the local Muslim community with regular prayers and religious classes.",
+                  "category": "religious",
+                  "coords": [
+                        103.716456,
+                        1.374939
+                  ]
+            },
+            {
+                  "name": "Jurong Hill Tower",
+                  "text": "A spiraling observation tower offering panoramic views of the industrial town and the surrounding Jurong West landscape.",
+                  "category": "natural",
+                  "coords": [
+                        103.707856,
+                        1.317422
+                  ]
+            },
+            {
+                  "name": "Tuas Pek Kong Keng Temple",
+                  "text": "A traditional Buddhist temple in Jurong West dedicated to the deity Tua Pek Kong, featuring ornate Chinese roof architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        103.713322,
+                        1.344811
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A serene Buddhist worship space featuring traditional altars and incense burners for local devotees in Jurong West.",
+                  "category": "landmark",
+                  "coords": [
+                        103.70367,
+                        1.347003
+                  ]
+            },
+            {
+                  "name": "Jin Fu Gong Temple",
+                  "text": "An intricately decorated Buddhist temple in Jurong West, serving as a spiritual hub for Chinese folk religion practitioners.",
+                  "category": "landmark",
+                  "coords": [
+                        103.690499,
+                        1.340972
+                  ]
+            },
+            {
+                  "name": "Church of St Francis of Assisi",
+                  "text": "A Roman Catholic parish church in Jurong West known for its vibrant community mass and distinctive contemporary religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        103.711067,
+                        1.348001
+                  ]
+            },
+            {
+                  "name": "Sisters of the Infant Jesus",
+                  "text": "A Catholic convent compound in Jurong West run by the Sisters of the Infant Jesus, dedicated to local educational and spiritual ministries.",
+                  "category": "landmark",
+                  "coords": [
+                        103.716608,
+                        1.351278
+                  ]
+            },
+            {
+                  "name": "Masjid Maarof",
+                  "text": "A modern Islamic mosque in Jurong West characterized by its distinctive geometric facade and spacious prayer halls.",
+                  "category": "landmark",
+                  "coords": [
+                        103.704988,
+                        1.348513
+                  ]
+            },
+            {
+                  "name": "Centre of New Life",
+                  "text": "A contemporary Christian community center in Jurong West providing religious services, fellowship halls, and pastoral care.",
+                  "category": "landmark",
+                  "coords": [
+                        103.698935,
+                        1.349351
+                  ]
+            },
+            {
+                  "name": "Choa Chu Kang Cemetery Chapel",
+                  "text": "A solemn memorial chapel located within the vast Choa Chu Kang Cemetery grounds in Jurong West, offering a quiet space for funeral rites.",
+                  "category": "religious",
+                  "coords": [
+                        103.695077,
+                        1.372564
+                  ]
+            },
+            {
+                  "name": "Pingan Church",
+                  "text": "A local Christian church in the Jurong West area hosting regular congregational services within its dedicated worship hall.",
+                  "category": "religious",
+                  "coords": [
+                        103.710659,
+                        1.372774
+                  ]
+            },
+            {
+                  "name": "963 Wet Market",
+                  "text": "A bustling traditional wet market in Jurong West supplying fresh produce, local meats, and daily necessities to the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        103.692146,
+                        1.341897
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SG-04",
     coords: [103.703, 1.348],
@@ -790,7 +4966,124 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "raffles-place-economic-v2",
+    id: "raffles-place-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "1-Altitude Viewing Gallery",
+                  "text": "Eine Open-Air-Aussichtsplattform, die vom Dach eines hochaufragenden Wolkenkratzers aus einen Panoramablick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        103.850993,
+                        1.284747
+                  ]
+            },
+            {
+                  "name": "CapitaSpring Sky Garden",
+                  "text": "Eine üppige, mehrstöckige botanische Oase, die hoch über dem geschäftigen Finanzviertel schwebt.",
+                  "category": "natural",
+                  "coords": [
+                        103.850029,
+                        1.283972
+                  ]
+            },
+            {
+                  "name": "Masjid Moulana Mohd Ali",
+                  "text": "Eine unterirdische islamische Moschee, die sich einzigartigerweise im Untergeschoss eines kommerziellen Wolkenkratzers am Raffles Place befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850018,
+                        1.285333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "1-Altitude Viewing Gallery",
+                  "text": "Szabadtéri kilátóterasz, amely panorámás kilátást nyújt egy tornyosuló felhőkarcoló tetejéről.",
+                  "category": "natural",
+                  "coords": [
+                        103.850993,
+                        1.284747
+                  ]
+            },
+            {
+                  "name": "CapitaSpring Sky Garden",
+                  "text": "Buja, többszintes botanikus oázis, amely magasan a nyüzsgő pénzügyi negyed fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        103.850029,
+                        1.283972
+                  ]
+            },
+            {
+                  "name": "Masjid Moulana Mohd Ali",
+                  "text": "Földalatti iszlám mecset, amely egyedülálló módon egy Raffles Place-i kereskedelmi felhőkarcoló alagsorában található.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850018,
+                        1.285333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "1-Altitude Viewing Gallery",
+                  "text": "O punte de observație în aer liber, care oferă vederi panoramice de pe acoperișul unui zgârie-nori impunător.",
+                  "category": "natural",
+                  "coords": [
+                        103.850993,
+                        1.284747
+                  ]
+            },
+            {
+                  "name": "CapitaSpring Sky Garden",
+                  "text": "O oază botanică luxuriantă pe mai multe niveluri, ridicată deasupra districtului financiar plin de viață.",
+                  "category": "natural",
+                  "coords": [
+                        103.850029,
+                        1.283972
+                  ]
+            },
+            {
+                  "name": "Masjid Moulana Mohd Ali",
+                  "text": "O moschee islamică subterană, situată în mod unic la subsolul unui zgârie-nori comercial din Raffles Place.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850018,
+                        1.285333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "1-Altitude Viewing Gallery",
+                  "text": "An open-air observation deck offering panoramic views from the rooftop of a towering skyscraper.",
+                  "category": "natural",
+                  "coords": [
+                        103.850993,
+                        1.284747
+                  ]
+            },
+            {
+                  "name": "CapitaSpring Sky Garden",
+                  "text": "A lush, multi-level botanical oasis elevated high above the bustling financial district.",
+                  "category": "natural",
+                  "coords": [
+                        103.850029,
+                        1.283972
+                  ]
+            },
+            {
+                  "name": "Masjid Moulana Mohd Ali",
+                  "text": "A subterranean Islamic mosque uniquely situated in the basement of a commercial skyscraper in Raffles Place.",
+                  "category": "landmark",
+                  "coords": [
+                        103.850018,
+                        1.285333
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "SG-01",
     coords: [103.851, 1.284],
@@ -838,7 +5131,88 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "tuas-mega-port-economic-v2",
+    id: "tuas-mega-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sultan Shoal Lighthouse",
+                  "text": "Dieser historische Leuchtturm aus dem Jahr 1896 mischt viktorianische und orientalische Baustile, um Schiffe zu leiten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.648058,
+                        1.239613
+                  ]
+            },
+            {
+                  "name": "Tuas Lamp Post 1",
+                  "text": "Diese besondere Straßenlaterne ist zu einer bemerkenswerten Attraktion geworden, da lokale Radfahrer ihren Pfahl mit persönlichen Aufklebern bekleben.",
+                  "category": "landmark",
+                  "coords": [
+                        103.614969,
+                        1.24172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sultan Shoal Lighthouse",
+                  "text": "Az 1896-ban épült történelmi világítótorony a viktoriánus és a keleti építészeti stílusokat ötvözi a hajók irányításához.",
+                  "category": "landmark",
+                  "coords": [
+                        103.648058,
+                        1.239613
+                  ]
+            },
+            {
+                  "name": "Tuas Lamp Post 1",
+                  "text": "Ez a különleges utcai lámpa egy figyelemre méltó látványossággá vált, ahol a helyi kerékpárosok saját matricáikkal borítják be az oszlopot.",
+                  "category": "landmark",
+                  "coords": [
+                        103.614969,
+                        1.24172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sultan Shoal Lighthouse",
+                  "text": "Construit în 1896, acest far istoric îmbină stilurile arhitecturale victorian și oriental pentru a ghida navele.",
+                  "category": "landmark",
+                  "coords": [
+                        103.648058,
+                        1.239613
+                  ]
+            },
+            {
+                  "name": "Tuas Lamp Post 1",
+                  "text": "Acest stâlp de iluminat stradal a devenit o atracție notabilă, unde bicicliștii locali își lipesc autocolantele personale pe stâlp.",
+                  "category": "landmark",
+                  "coords": [
+                        103.614969,
+                        1.24172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sultan Shoal Lighthouse",
+                  "text": "Built in 1896, this historic lighthouse blends Victorian and Oriental architectural styles to guide ships.",
+                  "category": "landmark",
+                  "coords": [
+                        103.648058,
+                        1.239613
+                  ]
+            },
+            {
+                  "name": "Tuas Lamp Post 1",
+                  "text": "This particular street lamp has become a notable attraction where local cyclists cover its pole with their personal stickers.",
+                  "category": "landmark",
+                  "coords": [
+                        103.614969,
+                        1.24172
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SG-05",
     coords: [103.626, 1.256],
@@ -886,7 +5260,52 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
     },
   },
   {
-    id: "shell-bukom-refinery-economic-v2",
+    id: "shell-bukom-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Raffles Lighthouse",
+                  "text": "Der historische Raffles-Leuchtturm wurde 1855 erbaut und steht auf Pulau Satumu, um Schiffe durch die viel befahrene Straße von Singapur zu leiten.",
+                  "category": "landmark",
+                  "coords": [
+                        103.740787,
+                        1.16005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raffles Lighthouse",
+                  "text": "Az 1855-ben épült történelmi Raffles világítótorony a Pulau Satumu szigeten áll, hogy iránymutatást adjon a forgalmas Szingapúri-szorosban közlekedő hajóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        103.740787,
+                        1.16005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raffles Lighthouse",
+                  "text": "Construit în 1855, farul istoric Raffles se află pe Pulau Satumu pentru a ghida navele care navighează prin aglomerata Strâmtoare Singapore.",
+                  "category": "landmark",
+                  "coords": [
+                        103.740787,
+                        1.16005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raffles Lighthouse",
+                  "text": "Built in 1855, the historic Raffles Lighthouse stands on Pulau Satumu to guide ships navigating the busy Singapore Strait.",
+                  "category": "landmark",
+                  "coords": [
+                        103.740787,
+                        1.16005
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "SG-01",
     coords: [103.763, 1.233],

@@ -52,7 +52,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Laznia",
-                  "text": "Eine Saunaanlage in der Nähe des historischen Schloss Mir.",
+                  "text": "Historisches Badehaus in der Nähe der Burg Mir.",
                   "category": "recreational",
                   "coords": [
                         26.469325,
@@ -108,7 +108,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Laznia",
-                  "text": "Szauna a történelmi Miri vár közelében.",
+                  "text": "Történelmi fürdőház a Mir vára közelében.",
                   "category": "recreational",
                   "coords": [
                         26.469325,
@@ -164,7 +164,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Laznia",
-                  "text": "O saună situată lângă istoricul Castel Mir.",
+                  "text": "Baie istorică lângă Castelul Mir.",
                   "category": "recreational",
                   "coords": [
                         26.469325,
@@ -220,7 +220,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Laznia",
-                  "text": "A sauna facility located near the historic Mir Castle.",
+                  "text": "Historic bathhouse near Mir Castle.",
                   "category": "recreational",
                   "coords": [
                         26.469325,
@@ -864,7 +864,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Tsarkva Sviatoga Aliaksandra Neuskaga",
-                  "text": "Eine orthodoxe Kirche, die dem Heiligen Alexander Newski gewidmet ist.",
+                  "text": "1854 erbaute orthodoxe Alexander-Newski-Kirche an der Burgruine Krewo.",
                   "category": "landmark",
                   "coords": [
                         26.288621,
@@ -882,7 +882,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Kastsiol Peramianennia Pana",
-                  "text": "Eine katholische Kirche, die der Verklärung Christi gewidmet ist.",
+                  "text": "Die katholische Verklärungskirche wurde 1997 bei der Burg Krewa errichtet.",
                   "category": "religious",
                   "coords": [
                         26.28481,
@@ -902,7 +902,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Tsarkva Sviatoga Aliaksandra Neuskaga",
-                  "text": "Szent Alekszandr Nyevszkijnek szentelt ortodox templom.",
+                  "text": "1854-ben épült ortodox Alekszandr Nyevszkij-templom a Krevo várromnál.",
                   "category": "landmark",
                   "coords": [
                         26.288621,
@@ -920,7 +920,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Kastsiol Peramianennia Pana",
-                  "text": "Urunk Színeváltozásának szentelt katolikus templom.",
+                  "text": "A katolikus Színeváltozás-templom 1997-ben épült a krevai várromnál.",
                   "category": "religious",
                   "coords": [
                         26.28481,
@@ -940,7 +940,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Tsarkva Sviatoga Aliaksandra Neuskaga",
-                  "text": "O biserică ortodoxă dedicată Sfântului Alexandru Nevski.",
+                  "text": "Biserica ortodoxă Alexander Nevsky construită în 1854 lângă ruinele castelului Krevo.",
                   "category": "landmark",
                   "coords": [
                         26.288621,
@@ -958,7 +958,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Kastsiol Peramianennia Pana",
-                  "text": "O biserică catolică dedicată Schimbării la Față a lui Hristos.",
+                  "text": "Biserica catolică a Schimbării la Față a fost construită în 1997 lângă ruinele castelului Krevo.",
                   "category": "religious",
                   "coords": [
                         26.28481,
@@ -978,7 +978,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Orthodox church of St. Alexander Nevsky",
-                  "text": "An Orthodox church dedicated to Saint Alexander Nevsky.",
+                  "text": "Orthodox church of St. Alexander Nevsky built in 1854 at Krevo Castle ruins.",
                   "category": "landmark",
                   "coords": [
                         26.288621,
@@ -996,7 +996,7 @@ export const belarusHistoryV2: POI[] = [
             },
             {
                   "name": "Catholic church of the Transfiguration of the Christ",
-                  "text": "A Catholic church dedicated to the Transfiguration of Christ.",
+                  "text": "Catholic Church of the Transfiguration was built in 1997 near Krevo Castle ruins.",
                   "category": "religious",
                   "coords": [
                         26.28481,
@@ -1257,7 +1257,1708 @@ export const belarusHistoryV2: POI[] = [
       fr: ["Construit au début du XVIIe siècle pour la puissante famille Sapieha", "Conçu en reflétant les styles architecturaux de la Renaissance flamande", "Présentait un plan rectangulaire avec quatre tours d'angle hexagonales", "Lourdement endommagé pendant la Grande guerre du Nord dans les années 1700", "A inspiré le roman d'Ouladzimir Karatkevitch 'Le château noir de Halshany'", "Célèbre dans le folklore local pour le fantôme de la Dame Blanche", "La conservation active et la restauration partielle de la tour nord ont débuté en 2018"],
     }, image: "/poi-images/belarus-halshany-castle-history-v2.webp"},
   {
-    id: "belarus-minsk-upper-town-history-v2", "sights": {"de": [{"name": "Dzyarzhauny muzei gistoryi belaruskai litaratury", "text": "Museum für belarussische Literaturgeschichte in der Minsker Oberstadt.", "category": "museum", "coords": [27.5572, 53.908702]}, {"name": "Muzei gistoryi gorada Minska", "text": "Museum für Stadtgeschichte in der Minsker Oberstadt.", "category": "museum", "coords": [27.552385, 53.903338]}, {"name": "Litaraturny muzei Petrusya Brouki", "text": "Literaturmuseum Piatrus Brouka in der Minsker Oberstadt.", "category": "museum", "coords": [27.561001, 53.899374]}, {"name": "Strana mini", "text": "Architektur-Miniaturen-Museum in der Minsker Oberstadt.", "category": "museum", "coords": [27.562843, 53.903172]}, {"name": "Litaraturny muzei Maksima Bagdanovicha", "text": "Maxim-Bogdanowitsch-Literaturmuseum in der Minsker Oberstadt.", "category": "museum", "coords": [27.556052, 53.908079]}, {"name": "Gastseunya Uladzislava Galubka", "text": "Galubok-Wohnhausmuseum in der Minsker Oberstadt.", "category": "museum", "coords": [27.555891, 53.909063]}, {"name": "Natsyyanalny gistarychny muzei Respubliki Belarus", "text": "Nationales Historisches Museum in der Minsker Oberstadt.", "category": "museum", "coords": [27.555616, 53.896814]}, {"name": "Memaryyalny muzei-maisternya Zaira Azgura", "text": "Azgur-Gedenkmuseum in der Minsker Oberstadt.", "category": "museum", "coords": [27.578511, 53.899292]}, {"name": "Dom-muzei I-ga zʼezda RSDRP", "text": "Museum des Ersten Parteikongresses in der Minsker Oberstadt.", "category": "museum", "coords": [27.571554, 53.907807]}, {"name": "Dzyarzhauny litaraturny muzei Yanki Kupaly", "text": "Janka-Kupala-Museum in der Minsker Oberstadt.", "category": "museum", "coords": [27.565246, 53.906128]}, {"name": "Natsyyanalny mastatski muzei", "text": "Nationales Kunstmuseum in der Minsker Oberstadt.", "category": "museum", "coords": [27.560645, 53.898367]}, {"name": "Tsentralny muzei MUS", "text": "Innenministerium-Museum in der Minsker Oberstadt.", "category": "museum", "coords": [27.551975, 53.89896]}, {"name": "Muzei gistoryi belaruskaga kino", "text": "Filmmuseum in der Minsker Oberstadt.", "category": "museum", "coords": [27.548632, 53.897307]}, {"name": "Museum des Großen Vaterländischen Krieges", "text": "Museum des Großen Vaterländischen Krieges in der Minsker Oberstadt.", "category": "museum", "coords": [27.53789, 53.916334]}, {"name": "Mestsa razmyashchennya kastsela Svyatoga Tamasha Akvinskaga", "text": "Archäologische Stätte der ehemaligen Dominikanerkirche in der Minsker Oberstadt.", "category": "historical", "coords": [27.558923, 53.903479]}, {"name": "Zamkavaya tsarkva", "text": "Archäologische Stätte der Burgkirche in der Minsker Oberstadt.", "category": "historical", "coords": [27.553301, 53.907243]}, {"name": "Siegesdenkmal", "text": "Siegesdenkmal in der Minsker Oberstadt.", "category": "historical", "coords": [27.575087, 53.908674]}, {"name": "Rathaus", "text": "Historisches Rathaus in der Minsker Oberstadt.", "category": "historical", "coords": [27.556112, 53.903561]}, {"name": "Belaruski dzyarzhauny teatr lyalek", "text": "Belarussisches Staatliches Puppentheater in der Minsker Oberstadt.", "category": "cultural", "coords": [27.563334, 53.899307]}, {"name": "Respublikanski teatr belaruskai dramaturgii", "text": "Republikanisches Theater für belarussische Dramaturgie in der Minsker Oberstadt.", "category": "cultural", "coords": [27.557553, 53.916737]}, {"name": "Klyashtar Sv. Dukha bazylyanau: zhyly korpus", "text": "Ehemaliges Basilianerkloster in der Minsker Oberstadt.", "category": "religious", "coords": [27.557444, 53.903754]}, {"name": "Dramatychny teatr Belaruskai armii", "text": "Dramatisches Theater der belarussischen Armee in der Minsker Oberstadt.", "category": "cultural", "coords": [27.565242, 53.902003]}, {"name": "Belaruski dzyarzhauny maladzezhny teatr", "text": "Belarussisches Staatliches Jugendtheater in der Minsker Oberstadt.", "category": "cultural", "coords": [27.589716, 53.90708]}, {"name": "Nationales Akademisches Großes Opern- und Balletttheater der Republik Weißrussland", "text": "Nationales Opern- und Balletttheater in der Minsker Oberstadt.", "category": "cultural", "coords": [27.561761, 53.910527]}, {"name": "Teatr yunaga gledacha", "text": "Theater der jungen Zuschauer in der Minsker Oberstadt.", "category": "cultural", "coords": [27.564273, 53.898491]}, {"name": "Teatr-studyya kinaaktsera", "text": "Theaterstudio der Filmschauspieler in der Minsker Oberstadt.", "category": "cultural", "coords": [27.554798, 53.917018]}, {"name": "Muzychny teatr", "text": "Staatliches Musiktheater in der Minsker Oberstadt.", "category": "cultural", "coords": [27.539717, 53.896012]}, {"name": "Palast der Republik", "text": "Palast der Republik in der Minsker Oberstadt.", "category": "cultural", "coords": [27.560445, 53.90332]}, {"name": "Alexander-Newski-Kirche", "text": "Alexander-Newski-Kirche in der Minsker Oberstadt.", "category": "religious", "coords": [27.587477, 53.908608]}, {"name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)", "text": "Dreifaltigkeitskirche in der Minsker Oberstadt.", "category": "religious", "coords": [27.580186, 53.911002]}, {"name": "Belaruski dzyarzhauny arkhiu navukova-tekhnichnai dakumentatsyi", "text": "Ehemalige St.-Josephs-Kirche in der Minsker Oberstadt.", "category": "religious", "coords": [27.557057, 53.904726]}, {"name": "Sinagoga Beis Israel", "text": "Synagoge Beis Israel in der Minsker Oberstadt.", "category": "religious", "coords": [27.550241, 53.919406]}, {"name": "Sabor Svyatykh apostalau Pyatra i Paula", "text": "Peter-und-Paul-Kathedrale in der Minsker Oberstadt.", "category": "religious", "coords": [27.55172, 53.904689]}, {"name": "Sabornaya myachets", "text": "Kathedralmoschee in der Minsker Oberstadt.", "category": "religious", "coords": [27.52625, 53.917195]}, {"name": "Mariä-Namen-Kathedrale", "text": "Mariä-Namen-Kathedrale in der Minsker Oberstadt.", "category": "religious", "coords": [27.554655, 53.903093]}, {"name": "Syadziba Pshazdzetskikh", "text": "Anwesen der Pschesetzki in der Minsker Oberstadt.", "category": "landmark", "coords": [27.553491, 53.903963]}, {"name": "Sinagoga Zaltsmana", "text": "Salzmann-Synagoge in der Minsker Oberstadt.", "category": "landmark", "coords": [27.547115, 53.905215]}, {"name": "Planetaryi", "text": "Planetarium in der Minsker Oberstadt.", "category": "landmark", "coords": [27.573539, 53.904285]}, {"name": "Nationales Akademisches Janka-Kupala-Theater", "text": "Das Yanka Kupala National Academic Theatre ist ein bedeutendes Theater in Minsk.", "category": "landmark", "coords": [27.562762, 53.900838]}, {"name": "Tsarkva Svyatoi Maryi Magdaliny", "text": "Die Kirche der Heiligen Maria Magdalena ist ein historisches Gotteshaus in Minsk.", "category": "landmark", "coords": [27.553751, 53.916047]}, {"name": "Pishchalauski zamak", "text": "Das Pischtschalauski-Schloss ist ein markantes Bauwerk in Minsk.", "category": "landmark", "coords": [27.548104, 53.898862]}, {"name": "Kirche des heiligen Simon und der heiligen Helena", "text": "Die Kirche der Heiligen Simon und Helena ist eine bekannte neugotische Kirche in Minsk.", "category": "landmark", "coords": [27.547603, 53.896478]}, {"name": "Maly gastsiny dvor", "text": "Der Kleine Gastiny Dwor ist ein historisches Gebäude in Minsk.", "category": "landmark", "coords": [27.556096, 53.904698]}, {"name": "Beginn der Straßen von Belarus", "text": "Der Null-Kilometer-Punkt markiert den Beginn der belarussischen Straßen.", "category": "landmark", "coords": [27.56189, 53.902216]}, {"name": "Zakharʼeuski most", "text": "Die Sacharjowski-Brücke ist eine bedeutende Brücke in Minsk.", "category": "landmark", "coords": [27.571025, 53.906605]}, {"name": "Stsyapanauski sad", "text": "Der Sciapanau-Garten ist eine grüne Oase in Minsk.", "category": "park", "coords": [27.558241, 53.914994]}, {"name": "Lyuteranski skver", "text": "Der Lutherische Platz ist eine öffentliche Parkanlage in Minsk.", "category": "park", "coords": [27.526455, 53.897059]}], "hu": [{"name": "Dzyarzhauny muzei gistoryi belaruskai litaratury", "text": "Belarusz Irodalomtörténeti Múzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.5572, 53.908702]}, {"name": "Muzei gistoryi gorada Minska", "text": "Minsz városi történeti múzeuma, Minszki Felsőváros.", "category": "museum", "coords": [27.552385, 53.903338]}, {"name": "Litaraturny muzei Petrusya Brouki", "text": "Piatrus Brouka Irodalmi Múzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.561001, 53.899374]}, {"name": "Strana mini", "text": "Építészeti miniatúrák múzeuma, Minszki Felsőváros.", "category": "museum", "coords": [27.562843, 53.903172]}, {"name": "Litaraturny muzei Maksima Bagdanovicha", "text": "Makszim Bogdanovics Irodalmi Múzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.556052, 53.908079]}, {"name": "Gastseunya Uladzislava Galubka", "text": "Galubok vendégház-múzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.555891, 53.909063]}, {"name": "Natsyyanalny gistarychny muzei Respubliki Belarus", "text": "Nemzeti Történeti Múzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.555616, 53.896814]}, {"name": "Memaryyalny muzei-maisternya Zaira Azgura", "text": "Azgur emlékmúzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.578511, 53.899292]}, {"name": "Dom-muzei I-ga zʼezda RSDRP", "text": "Az első pártkongresszus háza, Minszki Felsőváros.", "category": "museum", "coords": [27.571554, 53.907807]}, {"name": "Dzyarzhauny litaraturny muzei Yanki Kupaly", "text": "Janka Kupala Múzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.565246, 53.906128]}, {"name": "Natsyyanalny mastatski muzei", "text": "Nemzeti Művészeti Múzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.560645, 53.898367]}, {"name": "Tsentralny muzei MUS", "text": "Belügyminisztériumi múzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.551975, 53.89896]}, {"name": "Muzei gistoryi belaruskaga kino", "text": "Filmmúzeum, Minszki Felsőváros.", "category": "museum", "coords": [27.548632, 53.897307]}, {"name": "Muzei gistoryi Vyalikai Aichynnai Vainy", "text": "Nagy Honvédő Háború Múzeuma, Minszki Felsőváros.", "category": "museum", "coords": [27.53789, 53.916334]}, {"name": "Mestsa razmyashchennya kastsela Svyatoga Tamasha Akvinskaga", "text": "A Szent Tamás-templom egykori helyszíne, Minszki Felsőváros.", "category": "historical", "coords": [27.558923, 53.903479]}, {"name": "Zamkavaya tsarkva", "text": "A vár-templom helyszíne, Minszki Felsőváros.", "category": "historical", "coords": [27.553301, 53.907243]}, {"name": "Manument Peramogi", "text": "Győzelem emlékmű, Minszki Felsőváros.", "category": "historical", "coords": [27.575087, 53.908674]}, {"name": "Ratusha", "text": "Városháza, Minszki Felsőváros.", "category": "historical", "coords": [27.556112, 53.903561]}, {"name": "Belaruski dzyarzhauny teatr lyalek", "text": "Belarusz Állami Bábszínház, Minszki Felsőváros.", "category": "cultural", "coords": [27.563334, 53.899307]}, {"name": "Respublikanski teatr belaruskai dramaturgii", "text": "Belarusz Drámai Színház, Minszki Felsőváros.", "category": "cultural", "coords": [27.557553, 53.916737]}, {"name": "Klyashtar Sv. Dukha bazylyanau: zhyly korpus", "text": "Egykori bazilitán kolostor, Minszki Felsőváros.", "category": "religious", "coords": [27.557444, 53.903754]}, {"name": "Dramatychny teatr Belaruskai armii", "text": "A Belarusz Hadsereg drámai színháza, Minszki Felsőváros.", "category": "cultural", "coords": [27.565242, 53.902003]}, {"name": "Belaruski dzyarzhauny maladzezhny teatr", "text": "Belarusz Állami Ifjúsági Színház, Minszki Felsőváros.", "category": "cultural", "coords": [27.589716, 53.90708]}, {"name": "Natsyyanalny akademichny Vyaliki teatr opery i baleta Respubliki Belarus", "text": "Nemzeti Opera- és Balettszínház, Minszki Felsőváros.", "category": "cultural", "coords": [27.561761, 53.910527]}, {"name": "Teatr yunaga gledacha", "text": "Ifjúsági Színház, Minszki Felsőváros.", "category": "cultural", "coords": [27.564273, 53.898491]}, {"name": "Teatr-studyya kinaaktsera", "text": "Filmszínészek Színház-stúdiója, Minszki Felsőváros.", "category": "cultural", "coords": [27.554798, 53.917018]}, {"name": "Muzychny teatr", "text": "Állami Zenés Színház, Minszki Felsőváros.", "category": "cultural", "coords": [27.539717, 53.896012]}, {"name": "Palats Respubliki", "text": "Köztársasági Palota, Minszki Felsőváros.", "category": "cultural", "coords": [27.560445, 53.90332]}, {"name": "Tsarkva Alyaksandra Neuskaga", "text": "Szent Sándor Nyevszkij-templom, Minszki Felsőváros.", "category": "religious", "coords": [27.587477, 53.908608]}, {"name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)", "text": "Szentháromság-templom, Minszki Felsőváros.", "category": "religious", "coords": [27.580186, 53.911002]}, {"name": "Belaruski dzyarzhauny arkhiu navukova-tekhnichnai dakumentatsyi", "text": "Egykori Szent József-templom, Minszki Felsőváros.", "category": "religious", "coords": [27.557057, 53.904726]}, {"name": "Sinagoga Beis Israel", "text": "Beis Izrael zsinagóga, Minszki Felsőváros.", "category": "religious", "coords": [27.550241, 53.919406]}, {"name": "Sabor Svyatykh apostalau Pyatra i Paula", "text": "Szent Péter és Pál-székesegyház, Minszki Felsőváros.", "category": "religious", "coords": [27.55172, 53.904689]}, {"name": "Sabornaya myachets", "text": "Székesegyházi mecset, Minszki Felsőváros.", "category": "religious", "coords": [27.52625, 53.917195]}, {"name": "Arkhikafedralny kastsel Naisvyatseishaga Imya Naisvyatseishai Dzevy Maryi", "text": "Szent Mária-székesegyház, Minszki Felsőváros.", "category": "religious", "coords": [27.554655, 53.903093]}, {"name": "Syadziba Pshazdzetskikh", "text": "Pschesetzki-kúria, Minszki Felsőváros.", "category": "landmark", "coords": [27.553491, 53.903963]}, {"name": "Sinagoga Zaltsmana", "text": "Salzmann-zsinagóga, Minszki Felsőváros.", "category": "landmark", "coords": [27.547115, 53.905215]}, {"name": "Planetaryi", "text": "Planetárium, Minszki Felsőváros.", "category": "landmark", "coords": [27.573539, 53.904285]}, {"name": "Natsyyanalny akademichny teatr imya Yanki Kupaly", "text": "A Janka Kupala Nemzeti Akadémiai Színház Minszk egyik jelentős kulturális intézménye.", "category": "landmark", "coords": [27.562762, 53.900838]}, {"name": "Tsarkva Svyatoi Maryi Magdaliny", "text": "A Szent Mária Magdolna-templom Minszk egyik történelmi temploma.", "category": "landmark", "coords": [27.553751, 53.916047]}, {"name": "Pishchalauski zamak", "text": "A Pischcsalovszkij-kastély Minszk egyik jellegzetes épülete.", "category": "landmark", "coords": [27.548104, 53.898862]}, {"name": "Kastsel Svyatoga Symona i Svyatoi Aleny", "text": "A Szent Simon és Szent Ilona-templom Minszk híres neogótikus temploma.", "category": "landmark", "coords": [27.547603, 53.896478]}, {"name": "Maly gastsiny dvor", "text": "A Kis Gasztinij Dvor Minszk egyik történelmi épülete.", "category": "landmark", "coords": [27.556096, 53.904698]}, {"name": "Pachatak darog Belarusi", "text": "A Nullás kilométerkő jelöli a fehéroroszországi utak kezdetét.", "category": "landmark", "coords": [27.56189, 53.902216]}, {"name": "Zakharʼeuski most", "text": "A Zaharjevszkij-híd Minszk egyik fontos hídja.", "category": "landmark", "coords": [27.571025, 53.906605]}, {"name": "Stsyapanauski sad", "text": "A Szciapanau-kert Minszk egyik zöld oázisa.", "category": "park", "coords": [27.558241, 53.914994]}, {"name": "Lyuteranski skver", "text": "A Luteránus tér Minszk egyik közparkja.", "category": "park", "coords": [27.526455, 53.897059]}], "ro": [{"name": "Dzyarzhauny muzei gistoryi belaruskai litaratury", "text": "Muzeul de Istorie a Literaturii Belaruse din Oberstadt, Minsk.", "category": "museum", "coords": [27.5572, 53.908702]}, {"name": "Muzei gistoryi gorada Minska", "text": "Muzeul de istorie a orașului Minsk din Oberstadt, Minsk.", "category": "museum", "coords": [27.552385, 53.903338]}, {"name": "Litaraturny muzei Petrusya Brouki", "text": "Muzeul literar Piatruś Brouka din Oberstadt, Minsk.", "category": "museum", "coords": [27.561001, 53.899374]}, {"name": "Strana mini", "text": "Muzeul de miniaturi arhitecturale din Oberstadt, Minsk.", "category": "museum", "coords": [27.562843, 53.903172]}, {"name": "Litaraturny muzei Maksima Bagdanovicha", "text": "Muzeul literar Maxim Bogdanovici din Oberstadt, Minsk.", "category": "museum", "coords": [27.556052, 53.908079]}, {"name": "Gastseunya Uladzislava Galubka", "text": "Muzeul salonului lui Uladzislau Galubok din Oberstadt, Minsk.", "category": "museum", "coords": [27.555891, 53.909063]}, {"name": "Natsyyanalny gistarychny muzei Respubliki Belarus", "text": "Muzeul Național de Istorie din Oberstadt, Minsk.", "category": "museum", "coords": [27.555616, 53.896814]}, {"name": "Memaryyalny muzei-maisternya Zaira Azgura", "text": "Muzeul memorial Zair Azgur din Oberstadt, Minsk.", "category": "museum", "coords": [27.578511, 53.899292]}, {"name": "Dom-muzei I-ga zʼezda RSDRP", "text": "Muzeul casei primului congres al PCUS din Oberstadt, Minsk.", "category": "museum", "coords": [27.571554, 53.907807]}, {"name": "Dzyarzhauny litaraturny muzei Yanki Kupaly", "text": "Muzeul Yanka Kupala din Oberstadt, Minsk.", "category": "museum", "coords": [27.565246, 53.906128]}, {"name": "Natsyyanalny mastatski muzei", "text": "Muzeul Național de Artă din Oberstadt, Minsk.", "category": "museum", "coords": [27.560645, 53.898367]}, {"name": "Tsentralny muzei MUS", "text": "Muzeul Ministerului Afacerilor Interne din Oberstadt, Minsk.", "category": "museum", "coords": [27.551975, 53.89896]}, {"name": "Muzei gistoryi belaruskaga kino", "text": "Muzeul de istorie a cinematografiei din Oberstadt, Minsk.", "category": "museum", "coords": [27.548632, 53.897307]}, {"name": "Muzei gistoryi Vyalikai Aichynnai Vainy", "text": "Muzeul Marelui Război Patriotic din Oberstadt, Minsk.", "category": "museum", "coords": [27.53789, 53.916334]}, {"name": "Mestsa razmyashchennya kastsela Svyatoga Tamasha Akvinskaga", "text": "Situl arheologic al fostei biserici Sf. Toma din Oberstadt, Minsk.", "category": "historical", "coords": [27.558923, 53.903479]}, {"name": "Zamkavaya tsarkva", "text": "Situl arheologic al bisericii castelului din Oberstadt, Minsk.", "category": "historical", "coords": [27.553301, 53.907243]}, {"name": "Manument Peramogi", "text": "Monumentul Victoriei din Oberstadt, Minsk.", "category": "historical", "coords": [27.575087, 53.908674]}, {"name": "Ratusha", "text": "Primăria orașului din Oberstadt, Minsk.", "category": "historical", "coords": [27.556112, 53.903561]}, {"name": "Belaruski dzyarzhauny teatr lyalek", "text": "Teatrul de păpuși de stat din Oberstadt, Minsk.", "category": "cultural", "coords": [27.563334, 53.899307]}, {"name": "Respublikanski teatr belaruskai dramaturgii", "text": "Teatrul republican de dramaturgie din Oberstadt, Minsk.", "category": "cultural", "coords": [27.557553, 53.916737]}, {"name": "Klyashtar Sv. Dukha bazylyanau: zhyly korpus", "text": "Fosta mănăstire baziliană din Oberstadt, Minsk.", "category": "religious", "coords": [27.557444, 53.903754]}, {"name": "Dramatychny teatr Belaruskai armii", "text": "Teatrul dramatic al armatei belaruse din Oberstadt, Minsk.", "category": "cultural", "coords": [27.565242, 53.902003]}, {"name": "Belaruski dzyarzhauny maladzezhny teatr", "text": "Teatrul de tineret de stat din Oberstadt, Minsk.", "category": "cultural", "coords": [27.589716, 53.90708]}, {"name": "Natsyyanalny akademichny Vyaliki teatr opery i baleta Respubliki Belarus", "text": "Teatrul Național de Operă și Balet din Oberstadt, Minsk.", "category": "cultural", "coords": [27.561761, 53.910527]}, {"name": "Teatr yunaga gledacha", "text": "Teatrul pentru tineri spectatori din Oberstadt, Minsk.", "category": "cultural", "coords": [27.564273, 53.898491]}, {"name": "Teatr-studyya kinaaktsera", "text": "Teatrul-studio al actorilor de film din Oberstadt, Minsk.", "category": "cultural", "coords": [27.554798, 53.917018]}, {"name": "Muzychny teatr", "text": "Teatrul muzical de stat din Oberstadt, Minsk.", "category": "cultural", "coords": [27.539717, 53.896012]}, {"name": "Palats Respubliki", "text": "Palatul Republicii din Oberstadt, Minsk.", "category": "cultural", "coords": [27.560445, 53.90332]}, {"name": "Tsarkva Alyaksandra Neuskaga", "text": "Biserica Alexandru Nevski din Oberstadt, Minsk.", "category": "religious", "coords": [27.587477, 53.908608]}, {"name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)", "text": "Biserica Sfânta Treime din Oberstadt, Minsk.", "category": "religious", "coords": [27.580186, 53.911002]}, {"name": "Belaruski dzyarzhauny arkhiu navukova-tekhnichnai dakumentatsyi", "text": "Fosta biserică Sf. Iosif din Oberstadt, Minsk.", "category": "religious", "coords": [27.557057, 53.904726]}, {"name": "Sinagoga Beis Israel", "text": "Sinagoga Beis Israel din Oberstadt, Minsk.", "category": "religious", "coords": [27.550241, 53.919406]}, {"name": "Sabor Svyatykh apostalau Pyatra i Paula", "text": "Catedrala Sfinții Petru și Pavel din Oberstadt, Minsk.", "category": "religious", "coords": [27.55172, 53.904689]}, {"name": "Sabornaya myachets", "text": "Marea Moschee din Oberstadt, Minsk.", "category": "religious", "coords": [27.52625, 53.917195]}, {"name": "Arkhikafedralny kastsel Naisvyatseishaga Imya Naisvyatseishai Dzevy Maryi", "text": "Catedrala Numele Sfânt al Fecioarei Maria din Oberstadt, Minsk.", "category": "religious", "coords": [27.554655, 53.903093]}, {"name": "Syadziba Pshazdzetskikh", "text": "Conacul Pșezdețki din Oberstadt, Minsk.", "category": "landmark", "coords": [27.553491, 53.903963]}, {"name": "Sinagoga Zaltsmana", "text": "Sinagoga Salzmann din Oberstadt, Minsk.", "category": "landmark", "coords": [27.547115, 53.905215]}, {"name": "Planetaryi", "text": "Planetariul din Oberstadt, Minsk.", "category": "landmark", "coords": [27.573539, 53.904285]}, {"name": "Natsyyanalny akademichny teatr imya Yanki Kupaly", "text": "Teatrul Național Academic Ianka Kupala este un teatru important din Minsk.", "category": "landmark", "coords": [27.562762, 53.900838]}, {"name": "Tsarkva Svyatoi Maryi Magdaliny", "text": "Biserica Sfânta Maria Magdalena este un lăcaș de cult istoric din Minsk.", "category": "landmark", "coords": [27.553751, 53.916047]}, {"name": "Pishchalauski zamak", "text": "Castelul Pischchalovski este o clădire distinctivă din Minsk.", "category": "landmark", "coords": [27.548104, 53.898862]}, {"name": "Kastsel Svyatoga Symona i Svyatoi Aleny", "text": "Biserica Sfinții Simon și Elena este o celebră biserică neogotică din Minsk.", "category": "landmark", "coords": [27.547603, 53.896478]}, {"name": "Maly gastsiny dvor", "text": "Micul Gastini Dvor este o clădire istorică din Minsk.", "category": "landmark", "coords": [27.556096, 53.904698]}, {"name": "Pachatak darog Belarusi", "text": "Kilometrul Zero marchează punctul de început al drumurilor din Belarus.", "category": "landmark", "coords": [27.56189, 53.902216]}, {"name": "Zakharʼeuski most", "text": "Podul Zaharievski este un pod important din Minsk.", "category": "landmark", "coords": [27.571025, 53.906605]}, {"name": "Stsyapanauski sad", "text": "Grădina Sciapanau este o oază verde din Minsk.", "category": "park", "coords": [27.558241, 53.914994]}, {"name": "Lyuteranski skver", "text": "Piața Luterană este o zonă de parc public din Minsk.", "category": "park", "coords": [27.526455, 53.897059]}], "en": [{"name": "State Museum of History of the Belarusian Literature", "text": "Museum of History of Belarusian Literature in Minsker Oberstadt.", "category": "museum", "coords": [27.5572, 53.908702]}, {"name": "Minsk city museum", "text": "Museum of the History of Minsk in Minsker Oberstadt.", "category": "museum", "coords": [27.552385, 53.903338]}, {"name": "Literature Museum of Piatruś Brouka", "text": "Literature Museum of Piatruś Brouka in Minsker Oberstadt.", "category": "museum", "coords": [27.561001, 53.899374]}, {"name": "Architecture miniatures museum", "text": "Architecture miniatures museum in Minsker Oberstadt.", "category": "museum", "coords": [27.562843, 53.903172]}, {"name": "Litaraturny muzei Maksima Bagdanovicha", "text": "Maxim Bogdanovich Literature Museum in Minsker Oberstadt.", "category": "museum", "coords": [27.556052, 53.908079]}, {"name": "Gastseunya Uladzislava Galubka", "text": "Uladzislau Galubok museum in Minsker Oberstadt.", "category": "museum", "coords": [27.555891, 53.909063]}, {"name": "Belarusian National History Museum", "text": "National History Museum in Minsker Oberstadt.", "category": "museum", "coords": [27.555616, 53.896814]}, {"name": "Memaryyalny muzei-maisternya Zaira Azgura", "text": "Zair Azgur Memorial Museum in Minsker Oberstadt.", "category": "museum", "coords": [27.578511, 53.899292]}, {"name": "House Museum of First Congress of the Russian Social Democratic Labour Party", "text": "Museum of the First Congress of the RSDRP in Minsker Oberstadt.", "category": "museum", "coords": [27.571554, 53.907807]}, {"name": "Yanka Kupala Museum", "text": "Yanka Kupala Museum in Minsker Oberstadt.", "category": "museum", "coords": [27.565246, 53.906128]}, {"name": "National Art Museum", "text": "National Art Museum in Minsker Oberstadt.", "category": "museum", "coords": [27.560645, 53.898367]}, {"name": "Tsentralny muzei MUS", "text": "Museum of the Ministry of Internal Affairs in Minsker Oberstadt.", "category": "museum", "coords": [27.551975, 53.89896]}, {"name": "Cinema Museum", "text": "Cinema Museum in Minsker Oberstadt.", "category": "museum", "coords": [27.548632, 53.897307]}, {"name": "The Museum of Great Patriotic War", "text": "Museum of the Great Patriotic War in Minsker Oberstadt.", "category": "museum", "coords": [27.53789, 53.916334]}, {"name": "Mestsa razmyashchennya kastsela Svyatoga Tamasha Akvinskaga", "text": "Archaeological site of the former St. Thomas Church in Minsker Oberstadt.", "category": "historical", "coords": [27.558923, 53.903479]}, {"name": "Zamkavaya tsarkva", "text": "Archaeological site of the castle church in Minsker Oberstadt.", "category": "historical", "coords": [27.553301, 53.907243]}, {"name": "Victory Monument", "text": "Victory Monument in Minsker Oberstadt.", "category": "historical", "coords": [27.575087, 53.908674]}, {"name": "City Hall", "text": "City Hall in Minsker Oberstadt.", "category": "historical", "coords": [27.556112, 53.903561]}, {"name": "Belaruski dzyarzhauny teatr lyalek", "text": "Belarusian State Puppet Theater in Minsker Oberstadt.", "category": "cultural", "coords": [27.563334, 53.899307]}, {"name": "Respublikanski teatr belaruskai dramaturgii", "text": "Republican Theater of Belarusian Dramaturgy in Minsker Oberstadt.", "category": "cultural", "coords": [27.557553, 53.916737]}, {"name": "Klyashtar Sv. Dukha bazylyanau: zhyly korpus", "text": "Former Basilian monastery in Minsker Oberstadt.", "category": "religious", "coords": [27.557444, 53.903754]}, {"name": "Dramatychny teatr Belaruskai armii", "text": "Dramatic Theater of the Belarusian Army in Minsker Oberstadt.", "category": "cultural", "coords": [27.565242, 53.902003]}, {"name": "Belarusian State Youth Theater", "text": "Belarusian State Youth Theater in Minsker Oberstadt.", "category": "cultural", "coords": [27.589716, 53.90708]}, {"name": "National Academic Grand Opera and Ballet Theatre of the Republic of Belarus", "text": "National Opera and Ballet Theater in Minsker Oberstadt.", "category": "cultural", "coords": [27.561761, 53.910527]}, {"name": "Teatr yunaga gledacha", "text": "Theater for Young Spectators in Minsker Oberstadt.", "category": "cultural", "coords": [27.564273, 53.898491]}, {"name": "Teatr-studyya kinaaktsera", "text": "Theater-studio of film actors in Minsker Oberstadt.", "category": "cultural", "coords": [27.554798, 53.917018]}, {"name": "Muzychny teatr", "text": "State Musical Theater in Minsker Oberstadt.", "category": "cultural", "coords": [27.539717, 53.896012]}, {"name": "Palace of the Republic", "text": "Palace of the Republic in Minsker Oberstadt.", "category": "cultural", "coords": [27.560445, 53.90332]}, {"name": "Alexander Nevsky Church", "text": "Alexander Nevsky Church in Minsker Oberstadt.", "category": "religious", "coords": [27.587477, 53.908608]}, {"name": "Church of Holy Trinity (Church of St. Roch)", "text": "Holy Trinity Church in Minsker Oberstadt.", "category": "religious", "coords": [27.580186, 53.911002]}, {"name": "The Belarusian State Archives of Scientific and Technical Documentation", "text": "Former St. Joseph's Church in Minsker Oberstadt.", "category": "religious", "coords": [27.557057, 53.904726]}, {"name": "Sinagoga Beis Israel", "text": "Beis Israel Synagogue in Minsker Oberstadt.", "category": "religious", "coords": [27.550241, 53.919406]}, {"name": "Sabor Svyatykh apostalau Pyatra i Paula", "text": "Cathedral of Saints Peter and Paul in Minsker Oberstadt.", "category": "religious", "coords": [27.55172, 53.904689]}, {"name": "Cathedral mosque", "text": "Cathedral Mosque in Minsker Oberstadt.", "category": "religious", "coords": [27.52625, 53.917195]}, {"name": "Cathedral of the Holy Name of Saint Virgin Mary", "text": "Cathedral of the Holy Name of Mary in Minsker Oberstadt.", "category": "religious", "coords": [27.554655, 53.903093]}, {"name": "Syadziba Pshazdzetskikh", "text": "Pshezetsky estate in Minsker Oberstadt.", "category": "landmark", "coords": [27.553491, 53.903963]}, {"name": "Sinagoga Zaltsmana", "text": "Salzmann Synagogue in Minsker Oberstadt.", "category": "landmark", "coords": [27.547115, 53.905215]}, {"name": "Planetarium", "text": "Planetarium in Minsker Oberstadt.", "category": "landmark", "coords": [27.573539, 53.904285]}, {"name": "Yanka Kupala National Academic Theatre", "text": "The Yanka Kupala National Academic Theatre is a major theatre in Minsk.", "category": "landmark", "coords": [27.562762, 53.900838]}, {"name": "Tsarkva Svyatoi Maryi Magdaliny", "text": "The Church of Saint Mary Magdalene is a historic place of worship in Minsk.", "category": "landmark", "coords": [27.553751, 53.916047]}, {"name": "Pishchalauski zamak", "text": "The Pischchalovski Castle is a distinctive landmark in Minsk.", "category": "landmark", "coords": [27.548104, 53.898862]}, {"name": "Church of Saints Simon and Helena", "text": "The Church of Saints Simon and Helena is a famous neo-Gothic church in Minsk.", "category": "landmark", "coords": [27.547603, 53.896478]}, {"name": "Maly gastsiny dvor", "text": "The Small Gastiny Dvor is a historic building in Minsk.", "category": "landmark", "coords": [27.556096, 53.904698]}, {"name": "Beginning of the Roads of Belarus", "text": "The Zero Kilometre point marks the starting point of Belarus's roads.", "category": "landmark", "coords": [27.56189, 53.902216]}, {"name": "Zacharjeŭski Bridge", "text": "The Zacharjeŭski Bridge is a significant bridge in Minsk.", "category": "landmark", "coords": [27.571025, 53.906605]}, {"name": "Sciapanaŭski Garden", "text": "The Sciapanau Garden is a green oasis in Minsk.", "category": "park", "coords": [27.558241, 53.914994]}, {"name": "Liuteranski Garden Square", "text": "The Lutheran Square is a public park area in Minsk.", "category": "park", "coords": [27.526455, 53.897059]}]},
+    id: "belarus-minsk-upper-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dzyarzhauny muzei gistoryi belaruskai litaratury",
+                  "text": "Staatliches Museum für Geschichte der belarussischen Literatur in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.5572,
+                        53.908702
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi gorada Minska",
+                  "text": "Minsker Stadtmuseum in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.552385,
+                        53.903338
+                  ]
+            },
+            {
+                  "name": "Litaraturny muzei Petrusya Brouki",
+                  "text": "Literaturmuseum des belarussischen Dichters Piatruś Brouka in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.561001,
+                        53.899374
+                  ]
+            },
+            {
+                  "name": "Strana mini",
+                  "text": "Museum für Architekturminiaturen in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.562843,
+                        53.903172
+                  ]
+            },
+            {
+                  "name": "Litaraturny muzei Maksima Bagdanovicha",
+                  "text": "Maxim-Bogdanowitsch-Literaturmuseum in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.556052,
+                        53.908079
+                  ]
+            },
+            {
+                  "name": "Gastseunya Uladzislava Galubka",
+                  "text": "Gästehaus-Museum des belarussischen Schriftstellers Uladzislau Halubok in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.555891,
+                        53.909063
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny gistarychny muzei Respubliki Belarus",
+                  "text": "Belarussisches Nationales Geschichtsmuseum in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.555616,
+                        53.896814
+                  ]
+            },
+            {
+                  "name": "Memaryyalny muzei-maisternya Zaira Azgura",
+                  "text": "Azgur-Gedenkmuseum in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.578511,
+                        53.899292
+                  ]
+            },
+            {
+                  "name": "Dom-muzei I-ga zʼezda RSDRP",
+                  "text": "Museum des Ersten Parteikongresses in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.571554,
+                        53.907807
+                  ]
+            },
+            {
+                  "name": "Dzyarzhauny litaraturny muzei Yanki Kupaly",
+                  "text": "Janka-Kupala-Museum in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.565246,
+                        53.906128
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny mastatski muzei",
+                  "text": "Nationales Kunstmuseum in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.560645,
+                        53.898367
+                  ]
+            },
+            {
+                  "name": "Tsentralny muzei MUS",
+                  "text": "Innenministerium-Museum in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.551975,
+                        53.89896
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi belaruskaga kino",
+                  "text": "Filmmuseum in der Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.548632,
+                        53.897307
+                  ]
+            },
+            {
+                  "name": "Museum des Großen Vaterländischen Krieges",
+                  "text": "Das Museum des Großen Vaterländischen Krieges wurde am 2. Juli 2014 eröffnet.",
+                  "category": "museum",
+                  "coords": [
+                        27.53789,
+                        53.916334
+                  ]
+            },
+            {
+                  "name": "Mestsa razmyashchennya kastsela Svyatoga Tamasha Akvinskaga",
+                  "text": "Archäologische Stätte der ehemaligen Dominikanerkirche in der Minsker Oberstadt.",
+                  "category": "historical",
+                  "coords": [
+                        27.558923,
+                        53.903479
+                  ]
+            },
+            {
+                  "name": "Zamkavaya tsarkva",
+                  "text": "Archäologische Stätte der Burgkirche in der Minsker Oberstadt.",
+                  "category": "historical",
+                  "coords": [
+                        27.553301,
+                        53.907243
+                  ]
+            },
+            {
+                  "name": "Siegesdenkmal",
+                  "text": "Siegesdenkmal in der Minsker Oberstadt, gewidmet dem Zweiten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        27.575087,
+                        53.908674
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Historisches Rathaus in der Minsker Oberstadt.",
+                  "category": "historical",
+                  "coords": [
+                        27.556112,
+                        53.903561
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny teatr lyalek",
+                  "text": "Belarussisches Staatliches Puppentheater in der Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.563334,
+                        53.899307
+                  ]
+            },
+            {
+                  "name": "Respublikanski teatr belaruskai dramaturgii",
+                  "text": "Republikanisches Theater für belarussische Dramaturgie in der Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.557553,
+                        53.916737
+                  ]
+            },
+            {
+                  "name": "Klyashtar Sv. Dukha bazylyanau: zhyly korpus",
+                  "text": "Der Wohnflügel des Basilianerklosters zum Heiligen Geist stammt aus dem frühen 17. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        27.557444,
+                        53.903754
+                  ]
+            },
+            {
+                  "name": "Dramatychny teatr Belaruskai armii",
+                  "text": "Dramatisches Theater der belarussischen Armee in der Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.565242,
+                        53.902003
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny maladzezhny teatr",
+                  "text": "Das Belarussische Staatliche Jugendtheater wurde am 18. Juli 1984 gegründet.",
+                  "category": "cultural",
+                  "coords": [
+                        27.589716,
+                        53.90708
+                  ]
+            },
+            {
+                  "name": "Nationales Akademisches Großes Opern- und Balletttheater der Republik Weißrussland",
+                  "text": "Nationales Opern- und Balletttheater in der Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.561761,
+                        53.910527
+                  ]
+            },
+            {
+                  "name": "Teatr yunaga gledacha",
+                  "text": "Theater für junge Zuschauer in der Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.564273,
+                        53.898491
+                  ]
+            },
+            {
+                  "name": "Teatr-studyya kinaaktsera",
+                  "text": "Theaterstudio für Filmschauspieler in der Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.554798,
+                        53.917018
+                  ]
+            },
+            {
+                  "name": "Muzychny teatr",
+                  "text": "Musiktheater in der Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.539717,
+                        53.896012
+                  ]
+            },
+            {
+                  "name": "Palast der Republik",
+                  "text": "Palast der Republik, Konzert- und Veranstaltungsort in der Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.560445,
+                        53.90332
+                  ]
+            },
+            {
+                  "name": "Alexander-Newski-Kirche",
+                  "text": "Alexander-Newski-Kirche in der Minsker Oberstadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.587477,
+                        53.908608
+                  ]
+            },
+            {
+                  "name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)",
+                  "text": "Dreifaltigkeitskirche in der Minsker Oberstadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.580186,
+                        53.911002
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny arkhiu navukova-tekhnichnai dakumentatsyi",
+                  "text": "Das belarussische Staatsarchiv für wissenschaftliche und technische Dokumentation ist ein denkmalgeschütztes Gebäude in der Oberstadt von Minsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.557057,
+                        53.904726
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beis Israel",
+                  "text": "Synagoge Beis Israel in der Minsker Oberstadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.550241,
+                        53.919406
+                  ]
+            },
+            {
+                  "name": "Sabor Svyatykh apostalau Pyatra i Paula",
+                  "text": "Peter-und-Paul-Kathedrale in der Minsker Oberstadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.55172,
+                        53.904689
+                  ]
+            },
+            {
+                  "name": "Sabornaya myachets",
+                  "text": "Kathedralmoschee in der Minsker Oberstadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.52625,
+                        53.917195
+                  ]
+            },
+            {
+                  "name": "Mariä-Namen-Kathedrale",
+                  "text": "Die Kathedrale zum Allerheiligsten Namen Mariens wurde im frühen 18. Jahrhundert erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        27.554655,
+                        53.903093
+                  ]
+            },
+            {
+                  "name": "Syadziba Pshazdzetskikh",
+                  "text": "Herrenhaus der Familie Pshazdzetski in der Minsker Oberstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.553491,
+                        53.903963
+                  ]
+            },
+            {
+                  "name": "Sinagoga Zaltsmana",
+                  "text": "Synagoge von Zaltsman in der Minsker Oberstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.547115,
+                        53.905215
+                  ]
+            },
+            {
+                  "name": "Planetaryi",
+                  "text": "Das Planetarium in Minsk wurde am 29. Juli 1965 eröffnet.",
+                  "category": "landmark",
+                  "coords": [
+                        27.573539,
+                        53.904285
+                  ]
+            },
+            {
+                  "name": "Nationales Akademisches Janka-Kupala-Theater",
+                  "text": "Das Yanka Kupala National Academic Theatre ist ein bedeutendes Theater in Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.562762,
+                        53.900838
+                  ]
+            },
+            {
+                  "name": "Tsarkva Svyatoi Maryi Magdaliny",
+                  "text": "Die Kirche der Heiligen Maria Magdalena ist ein historisches Gotteshaus in Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.553751,
+                        53.916047
+                  ]
+            },
+            {
+                  "name": "Pishchalauski zamak",
+                  "text": "Pishchalauski-Schloss (historisches Gefängnis) in der Minsker Oberstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.548104,
+                        53.898862
+                  ]
+            },
+            {
+                  "name": "Kirche des heiligen Simon und der heiligen Helena",
+                  "text": "Die Kirche der Heiligen Simon und Helena ist eine bekannte neugotische Kirche in Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.547603,
+                        53.896478
+                  ]
+            },
+            {
+                  "name": "Maly gastsiny dvor",
+                  "text": "Kleiner Gästehof (Maly Gastsiny Dvor) in der Minsker Oberstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.556096,
+                        53.904698
+                  ]
+            },
+            {
+                  "name": "Beginn der Straßen von Belarus",
+                  "text": "Der Null-Kilometer-Punkt markiert den Beginn der belarussischen Straßen.",
+                  "category": "landmark",
+                  "coords": [
+                        27.56189,
+                        53.902216
+                  ]
+            },
+            {
+                  "name": "Zakharʼeuski most",
+                  "text": "Zacharjeŭski-Brücke über den Fluss Svisloch in der Minsker Oberstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.571025,
+                        53.906605
+                  ]
+            },
+            {
+                  "name": "Stsyapanauski sad",
+                  "text": "Sciapanaŭski-Garten, ein historischer Park in der Minsker Oberstadt.",
+                  "category": "park",
+                  "coords": [
+                        27.558241,
+                        53.914994
+                  ]
+            },
+            {
+                  "name": "Lyuteranski skver",
+                  "text": "Lutheranischer Gartenplatz, ein Park in der Minsker Oberstadt.",
+                  "category": "park",
+                  "coords": [
+                        27.526455,
+                        53.897059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dzyarzhauny muzei gistoryi belaruskai litaratury",
+                  "text": "A belarusz irodalom történetének állami múzeuma Minszk Felsővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        27.5572,
+                        53.908702
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi gorada Minska",
+                  "text": "Minszki Városi Múzeum Minszk Felsővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        27.552385,
+                        53.903338
+                  ]
+            },
+            {
+                  "name": "Litaraturny muzei Petrusya Brouki",
+                  "text": "Piatruś Brouka belarusz költő irodalmi múzeuma Minszk Felsővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        27.561001,
+                        53.899374
+                  ]
+            },
+            {
+                  "name": "Strana mini",
+                  "text": "Építészeti miniatúrák múzeuma Minszk Felsővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        27.562843,
+                        53.903172
+                  ]
+            },
+            {
+                  "name": "Litaraturny muzei Maksima Bagdanovicha",
+                  "text": "Makszim Bogdanovics Irodalmi Múzeum, Minszki Felsőváros.",
+                  "category": "museum",
+                  "coords": [
+                        27.556052,
+                        53.908079
+                  ]
+            },
+            {
+                  "name": "Gastseunya Uladzislava Galubka",
+                  "text": "Uladzislau Halubok belarusz író vendégház-múzeuma Minszk Felsővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        27.555891,
+                        53.909063
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny gistarychny muzei Respubliki Belarus",
+                  "text": "Belarusz Nemzeti Történeti Múzeum Minszk Felsővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        27.555616,
+                        53.896814
+                  ]
+            },
+            {
+                  "name": "Memaryyalny muzei-maisternya Zaira Azgura",
+                  "text": "Azgur emlékmúzeum, Minszki Felsőváros.",
+                  "category": "museum",
+                  "coords": [
+                        27.578511,
+                        53.899292
+                  ]
+            },
+            {
+                  "name": "Dom-muzei I-ga zʼezda RSDRP",
+                  "text": "Az első pártkongresszus háza, Minszki Felsőváros.",
+                  "category": "museum",
+                  "coords": [
+                        27.571554,
+                        53.907807
+                  ]
+            },
+            {
+                  "name": "Dzyarzhauny litaraturny muzei Yanki Kupaly",
+                  "text": "Janka Kupala Múzeum, Minszki Felsőváros.",
+                  "category": "museum",
+                  "coords": [
+                        27.565246,
+                        53.906128
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny mastatski muzei",
+                  "text": "Nemzeti Művészeti Múzeum, Minszki Felsőváros.",
+                  "category": "museum",
+                  "coords": [
+                        27.560645,
+                        53.898367
+                  ]
+            },
+            {
+                  "name": "Tsentralny muzei MUS",
+                  "text": "Belügyminisztériumi múzeum, Minszki Felsőváros.",
+                  "category": "museum",
+                  "coords": [
+                        27.551975,
+                        53.89896
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi belaruskaga kino",
+                  "text": "Filmmúzeum, Minszki Felsőváros.",
+                  "category": "museum",
+                  "coords": [
+                        27.548632,
+                        53.897307
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi Vyalikai Aichynnai Vainy",
+                  "text": "A Nagy Honvédő Háború Múzeuma 2014. július 2-án nyílt meg.",
+                  "category": "museum",
+                  "coords": [
+                        27.53789,
+                        53.916334
+                  ]
+            },
+            {
+                  "name": "Mestsa razmyashchennya kastsela Svyatoga Tamasha Akvinskaga",
+                  "text": "A Szent Tamás-templom egykori helyszíne, Minszki Felsőváros.",
+                  "category": "historical",
+                  "coords": [
+                        27.558923,
+                        53.903479
+                  ]
+            },
+            {
+                  "name": "Zamkavaya tsarkva",
+                  "text": "A vár-templom helyszíne, Minszki Felsőváros.",
+                  "category": "historical",
+                  "coords": [
+                        27.553301,
+                        53.907243
+                  ]
+            },
+            {
+                  "name": "Manument Peramogi",
+                  "text": "Győzelmi emlékmű Minszk Felsővárosában, a második világháborúnak szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        27.575087,
+                        53.908674
+                  ]
+            },
+            {
+                  "name": "Ratusha",
+                  "text": "Városháza, Minszki Felsőváros.",
+                  "category": "historical",
+                  "coords": [
+                        27.556112,
+                        53.903561
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny teatr lyalek",
+                  "text": "Belarusz Állami Bábszínház Minszk Felsővárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        27.563334,
+                        53.899307
+                  ]
+            },
+            {
+                  "name": "Respublikanski teatr belaruskai dramaturgii",
+                  "text": "Belarusz Drámai Színház, Minszki Felsőváros.",
+                  "category": "cultural",
+                  "coords": [
+                        27.557553,
+                        53.916737
+                  ]
+            },
+            {
+                  "name": "Klyashtar Sv. Dukha bazylyanau: zhyly korpus",
+                  "text": "A Szentlélek baziliánus kolostor lakószárnya a 17. század elejéről származik.",
+                  "category": "religious",
+                  "coords": [
+                        27.557444,
+                        53.903754
+                  ]
+            },
+            {
+                  "name": "Dramatychny teatr Belaruskai armii",
+                  "text": "A Belarusz Hadsereg drámai színháza, Minszki Felsőváros.",
+                  "category": "cultural",
+                  "coords": [
+                        27.565242,
+                        53.902003
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny maladzezhny teatr",
+                  "text": "A Belarusz Állami Ifjúsági Színházat 1984. július 18-án alapították.",
+                  "category": "cultural",
+                  "coords": [
+                        27.589716,
+                        53.90708
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny akademichny Vyaliki teatr opery i baleta Respubliki Belarus",
+                  "text": "Nemzeti Opera- és Balettszínház, Minszki Felsőváros.",
+                  "category": "cultural",
+                  "coords": [
+                        27.561761,
+                        53.910527
+                  ]
+            },
+            {
+                  "name": "Teatr yunaga gledacha",
+                  "text": "Ifjúsági Színház Minszk Felsővárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        27.564273,
+                        53.898491
+                  ]
+            },
+            {
+                  "name": "Teatr-studyya kinaaktsera",
+                  "text": "Filmszínészek Színház-stúdiója Minszk Felsővárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        27.554798,
+                        53.917018
+                  ]
+            },
+            {
+                  "name": "Muzychny teatr",
+                  "text": "Zenei Színház Minszk Felsővárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        27.539717,
+                        53.896012
+                  ]
+            },
+            {
+                  "name": "Palats Respubliki",
+                  "text": "Köztársasági Palota, koncert- és rendezvényhelyszín Minszk Felsővárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        27.560445,
+                        53.90332
+                  ]
+            },
+            {
+                  "name": "Tsarkva Alyaksandra Neuskaga",
+                  "text": "Szent Sándor Nyevszkij-templom, Minszki Felsőváros.",
+                  "category": "religious",
+                  "coords": [
+                        27.587477,
+                        53.908608
+                  ]
+            },
+            {
+                  "name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)",
+                  "text": "Szentháromság-templom, Minszki Felsőváros.",
+                  "category": "religious",
+                  "coords": [
+                        27.580186,
+                        53.911002
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny arkhiu navukova-tekhnichnai dakumentatsyi",
+                  "text": "A Fehérorosz Tudományos és Műszaki Dokumentációs Állami Levéltár műemlék épület Minszk Felsővárosában.",
+                  "category": "religious",
+                  "coords": [
+                        27.557057,
+                        53.904726
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beis Israel",
+                  "text": "Beis Israel zsinagóga Minszk Felsővárosában.",
+                  "category": "religious",
+                  "coords": [
+                        27.550241,
+                        53.919406
+                  ]
+            },
+            {
+                  "name": "Sabor Svyatykh apostalau Pyatra i Paula",
+                  "text": "Szent Péter és Pál-székesegyház, Minszki Felsőváros.",
+                  "category": "religious",
+                  "coords": [
+                        27.55172,
+                        53.904689
+                  ]
+            },
+            {
+                  "name": "Sabornaya myachets",
+                  "text": "Székesegyházi mecset Minszk Felsővárosában.",
+                  "category": "religious",
+                  "coords": [
+                        27.52625,
+                        53.917195
+                  ]
+            },
+            {
+                  "name": "Arkhikafedralny kastsel Naisvyatseishaga Imya Naisvyatseishai Dzevy Maryi",
+                  "text": "A Szűz Mária Szent Nevének székesegyháza a 18. század elején épült.",
+                  "category": "religious",
+                  "coords": [
+                        27.554655,
+                        53.903093
+                  ]
+            },
+            {
+                  "name": "Syadziba Pshazdzetskikh",
+                  "text": "A Pshazdzetski család kúriája Minszk Felsővárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.553491,
+                        53.903963
+                  ]
+            },
+            {
+                  "name": "Sinagoga Zaltsmana",
+                  "text": "Zaltsman-zsinagóga Minszk Felsővárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.547115,
+                        53.905215
+                  ]
+            },
+            {
+                  "name": "Planetaryi",
+                  "text": "A minszki planetárium 1965. július 29-én nyílt meg.",
+                  "category": "landmark",
+                  "coords": [
+                        27.573539,
+                        53.904285
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny akademichny teatr imya Yanki Kupaly",
+                  "text": "A Janka Kupala Nemzeti Akadémiai Színház Minszk egyik jelentős kulturális intézménye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.562762,
+                        53.900838
+                  ]
+            },
+            {
+                  "name": "Tsarkva Svyatoi Maryi Magdaliny",
+                  "text": "A Szent Mária Magdolna-templom Minszk egyik történelmi temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        27.553751,
+                        53.916047
+                  ]
+            },
+            {
+                  "name": "Pishchalauski zamak",
+                  "text": "Pishchalauski-kastély (történelmi börtön) Minszk Felsővárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.548104,
+                        53.898862
+                  ]
+            },
+            {
+                  "name": "Kastsel Svyatoga Symona i Svyatoi Aleny",
+                  "text": "A Szent Simon és Szent Ilona-templom Minszk híres neogótikus temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        27.547603,
+                        53.896478
+                  ]
+            },
+            {
+                  "name": "Maly gastsiny dvor",
+                  "text": "Kis Vendégudvar (Maly Gastsiny Dvor) Minszk Felsővárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.556096,
+                        53.904698
+                  ]
+            },
+            {
+                  "name": "Pachatak darog Belarusi",
+                  "text": "A Nullás kilométerkő jelöli a fehéroroszországi utak kezdetét.",
+                  "category": "landmark",
+                  "coords": [
+                        27.56189,
+                        53.902216
+                  ]
+            },
+            {
+                  "name": "Zakharʼeuski most",
+                  "text": "Zacharjeŭski híd a Svisloch folyón Minszk Felsővárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.571025,
+                        53.906605
+                  ]
+            },
+            {
+                  "name": "Stsyapanauski sad",
+                  "text": "Sciapanaŭski-kert, történelmi park Minszk Felsővárosában.",
+                  "category": "park",
+                  "coords": [
+                        27.558241,
+                        53.914994
+                  ]
+            },
+            {
+                  "name": "Lyuteranski skver",
+                  "text": "Lutheránus kert tér, park Minszk Felsővárosában.",
+                  "category": "park",
+                  "coords": [
+                        27.526455,
+                        53.897059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dzyarzhauny muzei gistoryi belaruskai litaratury",
+                  "text": "Muzeul de Stat al Istoriei Literaturii Belaruse în Orașul Superior din Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.5572,
+                        53.908702
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi gorada Minska",
+                  "text": "Muzeul orașului Minsk în Orașul Superior din Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.552385,
+                        53.903338
+                  ]
+            },
+            {
+                  "name": "Litaraturny muzei Petrusya Brouki",
+                  "text": "Muzeul literar al poetului belarus Piatruś Brouka în Orașul Superior din Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.561001,
+                        53.899374
+                  ]
+            },
+            {
+                  "name": "Strana mini",
+                  "text": "Muzeul de miniaturi arhitecturale în Orașul Superior din Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.562843,
+                        53.903172
+                  ]
+            },
+            {
+                  "name": "Litaraturny muzei Maksima Bagdanovicha",
+                  "text": "Muzeul literar Maxim Bogdanovici din Oberstadt, Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.556052,
+                        53.908079
+                  ]
+            },
+            {
+                  "name": "Gastseunya Uladzislava Galubka",
+                  "text": "Casa-muzeu a scriitorului belarus Uladzislau Halubok în Orașul Superior din Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.555891,
+                        53.909063
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny gistarychny muzei Respubliki Belarus",
+                  "text": "Muzeul Național de Istorie al Belarusului în Orașul Superior din Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.555616,
+                        53.896814
+                  ]
+            },
+            {
+                  "name": "Memaryyalny muzei-maisternya Zaira Azgura",
+                  "text": "Muzeul memorial Zair Azgur din Oberstadt, Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.578511,
+                        53.899292
+                  ]
+            },
+            {
+                  "name": "Dom-muzei I-ga zʼezda RSDRP",
+                  "text": "Muzeul casei primului congres al PCUS din Oberstadt, Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.571554,
+                        53.907807
+                  ]
+            },
+            {
+                  "name": "Dzyarzhauny litaraturny muzei Yanki Kupaly",
+                  "text": "Muzeul Yanka Kupala din Oberstadt, Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.565246,
+                        53.906128
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny mastatski muzei",
+                  "text": "Muzeul Național de Artă din Oberstadt, Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.560645,
+                        53.898367
+                  ]
+            },
+            {
+                  "name": "Tsentralny muzei MUS",
+                  "text": "Muzeul Ministerului Afacerilor Interne din Oberstadt, Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.551975,
+                        53.89896
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi belaruskaga kino",
+                  "text": "Muzeul de istorie a cinematografiei din Oberstadt, Minsk.",
+                  "category": "museum",
+                  "coords": [
+                        27.548632,
+                        53.897307
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi Vyalikai Aichynnai Vainy",
+                  "text": "Muzeul Marelui Război pentru Apărarea Patriei a fost deschis pe 2 iulie 2014.",
+                  "category": "museum",
+                  "coords": [
+                        27.53789,
+                        53.916334
+                  ]
+            },
+            {
+                  "name": "Mestsa razmyashchennya kastsela Svyatoga Tamasha Akvinskaga",
+                  "text": "Situl arheologic al fostei biserici Sf. Toma din Oberstadt, Minsk.",
+                  "category": "historical",
+                  "coords": [
+                        27.558923,
+                        53.903479
+                  ]
+            },
+            {
+                  "name": "Zamkavaya tsarkva",
+                  "text": "Situl arheologic al bisericii castelului din Oberstadt, Minsk.",
+                  "category": "historical",
+                  "coords": [
+                        27.553301,
+                        53.907243
+                  ]
+            },
+            {
+                  "name": "Manument Peramogi",
+                  "text": "Monumentul Victoriei în Orașul Superior din Minsk, dedicat celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        27.575087,
+                        53.908674
+                  ]
+            },
+            {
+                  "name": "Ratusha",
+                  "text": "Primăria orașului din Oberstadt, Minsk.",
+                  "category": "historical",
+                  "coords": [
+                        27.556112,
+                        53.903561
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny teatr lyalek",
+                  "text": "Teatrul de stat de păpuși din Belarus în Orașul Superior din Minsk.",
+                  "category": "cultural",
+                  "coords": [
+                        27.563334,
+                        53.899307
+                  ]
+            },
+            {
+                  "name": "Respublikanski teatr belaruskai dramaturgii",
+                  "text": "Teatrul republican de dramaturgie din Oberstadt, Minsk.",
+                  "category": "cultural",
+                  "coords": [
+                        27.557553,
+                        53.916737
+                  ]
+            },
+            {
+                  "name": "Klyashtar Sv. Dukha bazylyanau: zhyly korpus",
+                  "text": "Aripa de locuit a mănăstirii baziliene a Sfântului Duh datează de la începutul secolului al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        27.557444,
+                        53.903754
+                  ]
+            },
+            {
+                  "name": "Dramatychny teatr Belaruskai armii",
+                  "text": "Teatrul dramatic al armatei belaruse din Oberstadt, Minsk.",
+                  "category": "cultural",
+                  "coords": [
+                        27.565242,
+                        53.902003
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny maladzezhny teatr",
+                  "text": "Teatrul de Stat pentru Tineret din Belarus a fost fondat pe 18 iulie 1984.",
+                  "category": "cultural",
+                  "coords": [
+                        27.589716,
+                        53.90708
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny akademichny Vyaliki teatr opery i baleta Respubliki Belarus",
+                  "text": "Teatrul Național de Operă și Balet din Oberstadt, Minsk.",
+                  "category": "cultural",
+                  "coords": [
+                        27.561761,
+                        53.910527
+                  ]
+            },
+            {
+                  "name": "Teatr yunaga gledacha",
+                  "text": "Teatrul pentru tineret în Orașul Superior din Minsk.",
+                  "category": "cultural",
+                  "coords": [
+                        27.564273,
+                        53.898491
+                  ]
+            },
+            {
+                  "name": "Teatr-studyya kinaaktsera",
+                  "text": "Teatrul-studio al actorilor de film în Orașul Superior din Minsk.",
+                  "category": "cultural",
+                  "coords": [
+                        27.554798,
+                        53.917018
+                  ]
+            },
+            {
+                  "name": "Muzychny teatr",
+                  "text": "Teatrul muzical în Orașul Superior din Minsk.",
+                  "category": "cultural",
+                  "coords": [
+                        27.539717,
+                        53.896012
+                  ]
+            },
+            {
+                  "name": "Palats Respubliki",
+                  "text": "Palatul Republicii, loc de concerte și evenimente în Orașul Superior din Minsk.",
+                  "category": "cultural",
+                  "coords": [
+                        27.560445,
+                        53.90332
+                  ]
+            },
+            {
+                  "name": "Tsarkva Alyaksandra Neuskaga",
+                  "text": "Biserica Alexandru Nevski din Oberstadt, Minsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.587477,
+                        53.908608
+                  ]
+            },
+            {
+                  "name": "Kastsel Svyatoi Troitsy (Svyatoga Rokha)",
+                  "text": "Biserica Sfânta Treime din Oberstadt, Minsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.580186,
+                        53.911002
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny arkhiu navukova-tekhnichnai dakumentatsyi",
+                  "text": "Arhiva de Stat a Documentației Științifice și Tehnice din Belarus este o clădire monument istoric în Orașul de Sus din Minsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.557057,
+                        53.904726
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beis Israel",
+                  "text": "Sinagoga Beis Israel în Orașul Superior din Minsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.550241,
+                        53.919406
+                  ]
+            },
+            {
+                  "name": "Sabor Svyatykh apostalau Pyatra i Paula",
+                  "text": "Catedrala Sfinții Petru și Pavel din Oberstadt, Minsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.55172,
+                        53.904689
+                  ]
+            },
+            {
+                  "name": "Sabornaya myachets",
+                  "text": "Moscheea Catedrală în Orașul Superior din Minsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.52625,
+                        53.917195
+                  ]
+            },
+            {
+                  "name": "Arkhikafedralny kastsel Naisvyatseishaga Imya Naisvyatseishai Dzevy Maryi",
+                  "text": "Catedrala Sfântului Nume al Fecioarei Maria a fost construită la începutul secolului al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        27.554655,
+                        53.903093
+                  ]
+            },
+            {
+                  "name": "Syadziba Pshazdzetskikh",
+                  "text": "Conacul familiei Pshazdzetski în Orașul Superior din Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.553491,
+                        53.903963
+                  ]
+            },
+            {
+                  "name": "Sinagoga Zaltsmana",
+                  "text": "Sinagoga Zaltsman în Orașul Superior din Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.547115,
+                        53.905215
+                  ]
+            },
+            {
+                  "name": "Planetaryi",
+                  "text": "Planetariul din Minsk a fost deschis pe 29 iulie 1965.",
+                  "category": "landmark",
+                  "coords": [
+                        27.573539,
+                        53.904285
+                  ]
+            },
+            {
+                  "name": "Natsyyanalny akademichny teatr imya Yanki Kupaly",
+                  "text": "Teatrul Național Academic Ianka Kupala este un teatru important din Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.562762,
+                        53.900838
+                  ]
+            },
+            {
+                  "name": "Tsarkva Svyatoi Maryi Magdaliny",
+                  "text": "Biserica Sfânta Maria Magdalena este un lăcaș de cult istoric din Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.553751,
+                        53.916047
+                  ]
+            },
+            {
+                  "name": "Pishchalauski zamak",
+                  "text": "Castelul Pishchalauski (închisoare istorică) în Orașul Superior din Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.548104,
+                        53.898862
+                  ]
+            },
+            {
+                  "name": "Kastsel Svyatoga Symona i Svyatoi Aleny",
+                  "text": "Biserica Sfinții Simon și Elena este o celebră biserică neogotică din Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.547603,
+                        53.896478
+                  ]
+            },
+            {
+                  "name": "Maly gastsiny dvor",
+                  "text": "Micul Curtea Oaspeților (Maly Gastsiny Dvor) în Orașul Superior din Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.556096,
+                        53.904698
+                  ]
+            },
+            {
+                  "name": "Pachatak darog Belarusi",
+                  "text": "Kilometrul Zero marchează punctul de început al drumurilor din Belarus.",
+                  "category": "landmark",
+                  "coords": [
+                        27.56189,
+                        53.902216
+                  ]
+            },
+            {
+                  "name": "Zakharʼeuski most",
+                  "text": "Podul Zacharjeŭski peste râul Svisloch în Orașul Superior din Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.571025,
+                        53.906605
+                  ]
+            },
+            {
+                  "name": "Stsyapanauski sad",
+                  "text": "Grădina Sciapanaŭski, un parc istoric în Orașul Superior din Minsk.",
+                  "category": "park",
+                  "coords": [
+                        27.558241,
+                        53.914994
+                  ]
+            },
+            {
+                  "name": "Lyuteranski skver",
+                  "text": "Piața Grădina Luterană, un parc în Orașul Superior din Minsk.",
+                  "category": "park",
+                  "coords": [
+                        27.526455,
+                        53.897059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "State Museum of History of the Belarusian Literature",
+                  "text": "State Museum of History of Belarusian Literature in Minsk Upper Town.",
+                  "category": "museum",
+                  "coords": [
+                        27.5572,
+                        53.908702
+                  ]
+            },
+            {
+                  "name": "Minsk city museum",
+                  "text": "Minsk City Museum in Minsk Upper Town.",
+                  "category": "museum",
+                  "coords": [
+                        27.552385,
+                        53.903338
+                  ]
+            },
+            {
+                  "name": "Literature Museum of Piatruś Brouka",
+                  "text": "Literature Museum of Belarusian poet Piatruś Brouka in Minsk Upper Town.",
+                  "category": "museum",
+                  "coords": [
+                        27.561001,
+                        53.899374
+                  ]
+            },
+            {
+                  "name": "Architecture miniatures museum",
+                  "text": "Architecture Miniatures Museum in Minsk Upper Town.",
+                  "category": "museum",
+                  "coords": [
+                        27.562843,
+                        53.903172
+                  ]
+            },
+            {
+                  "name": "Litaraturny muzei Maksima Bagdanovicha",
+                  "text": "Maxim Bogdanovich Literature Museum in Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.556052,
+                        53.908079
+                  ]
+            },
+            {
+                  "name": "Gastseunya Uladzislava Galubka",
+                  "text": "Guesthouse museum of Belarusian writer Uladzislau Halubok in Minsk Upper Town.",
+                  "category": "museum",
+                  "coords": [
+                        27.555891,
+                        53.909063
+                  ]
+            },
+            {
+                  "name": "Belarusian National History Museum",
+                  "text": "Belarusian National History Museum in Minsk Upper Town.",
+                  "category": "museum",
+                  "coords": [
+                        27.555616,
+                        53.896814
+                  ]
+            },
+            {
+                  "name": "Memaryyalny muzei-maisternya Zaira Azgura",
+                  "text": "Zair Azgur Memorial Museum in Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.578511,
+                        53.899292
+                  ]
+            },
+            {
+                  "name": "House Museum of First Congress of the Russian Social Democratic Labour Party",
+                  "text": "Museum of the First Congress of the RSDRP in Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.571554,
+                        53.907807
+                  ]
+            },
+            {
+                  "name": "Yanka Kupala Museum",
+                  "text": "Yanka Kupala Museum in Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.565246,
+                        53.906128
+                  ]
+            },
+            {
+                  "name": "National Art Museum",
+                  "text": "National Art Museum in Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.560645,
+                        53.898367
+                  ]
+            },
+            {
+                  "name": "Tsentralny muzei MUS",
+                  "text": "Museum of the Ministry of Internal Affairs in Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.551975,
+                        53.89896
+                  ]
+            },
+            {
+                  "name": "Cinema Museum",
+                  "text": "Cinema Museum in Minsker Oberstadt.",
+                  "category": "museum",
+                  "coords": [
+                        27.548632,
+                        53.897307
+                  ]
+            },
+            {
+                  "name": "The Museum of Great Patriotic War",
+                  "text": "Museum of the Great Patriotic War opened on July 2, 2014.",
+                  "category": "museum",
+                  "coords": [
+                        27.53789,
+                        53.916334
+                  ]
+            },
+            {
+                  "name": "Mestsa razmyashchennya kastsela Svyatoga Tamasha Akvinskaga",
+                  "text": "Archaeological site of the former St. Thomas Church in Minsker Oberstadt.",
+                  "category": "historical",
+                  "coords": [
+                        27.558923,
+                        53.903479
+                  ]
+            },
+            {
+                  "name": "Zamkavaya tsarkva",
+                  "text": "Archaeological site of the castle church in Minsker Oberstadt.",
+                  "category": "historical",
+                  "coords": [
+                        27.553301,
+                        53.907243
+                  ]
+            },
+            {
+                  "name": "Victory Monument",
+                  "text": "Victory Monument in Minsk Upper Town, dedicated to WWII.",
+                  "category": "historical",
+                  "coords": [
+                        27.575087,
+                        53.908674
+                  ]
+            },
+            {
+                  "name": "City Hall",
+                  "text": "City Hall in Minsker Oberstadt.",
+                  "category": "historical",
+                  "coords": [
+                        27.556112,
+                        53.903561
+                  ]
+            },
+            {
+                  "name": "Belaruski dzyarzhauny teatr lyalek",
+                  "text": "Belarusian State Puppet Theatre in Minsk Upper Town.",
+                  "category": "cultural",
+                  "coords": [
+                        27.563334,
+                        53.899307
+                  ]
+            },
+            {
+                  "name": "Respublikanski teatr belaruskai dramaturgii",
+                  "text": "Republican Theater of Belarusian Dramaturgy in Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.557553,
+                        53.916737
+                  ]
+            },
+            {
+                  "name": "Klyashtar Sv. Dukha bazylyanau: zhyly korpus",
+                  "text": "The residential wing of the Basilian monastery of the Holy Spirit dates from the early 17th century.",
+                  "category": "religious",
+                  "coords": [
+                        27.557444,
+                        53.903754
+                  ]
+            },
+            {
+                  "name": "Dramatychny teatr Belaruskai armii",
+                  "text": "Dramatic Theater of the Belarusian Army in Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.565242,
+                        53.902003
+                  ]
+            },
+            {
+                  "name": "Belarusian State Youth Theater",
+                  "text": "Belarusian State Youth Theater was founded on July 18, 1984.",
+                  "category": "cultural",
+                  "coords": [
+                        27.589716,
+                        53.90708
+                  ]
+            },
+            {
+                  "name": "National Academic Grand Opera and Ballet Theatre of the Republic of Belarus",
+                  "text": "National Opera and Ballet Theater in Minsker Oberstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.561761,
+                        53.910527
+                  ]
+            },
+            {
+                  "name": "Teatr yunaga gledacha",
+                  "text": "Theatre for Young Spectators in Minsk Upper Town.",
+                  "category": "cultural",
+                  "coords": [
+                        27.564273,
+                        53.898491
+                  ]
+            },
+            {
+                  "name": "Teatr-studyya kinaaktsera",
+                  "text": "Theatre-Studio of Film Actors in Minsk Upper Town.",
+                  "category": "cultural",
+                  "coords": [
+                        27.554798,
+                        53.917018
+                  ]
+            },
+            {
+                  "name": "Muzychny teatr",
+                  "text": "Musical Theatre in Minsk Upper Town.",
+                  "category": "cultural",
+                  "coords": [
+                        27.539717,
+                        53.896012
+                  ]
+            },
+            {
+                  "name": "Palace of the Republic",
+                  "text": "Palace of the Republic, concert and event venue in Minsk Upper Town.",
+                  "category": "cultural",
+                  "coords": [
+                        27.560445,
+                        53.90332
+                  ]
+            },
+            {
+                  "name": "Alexander Nevsky Church",
+                  "text": "Alexander Nevsky Church in Minsker Oberstadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.587477,
+                        53.908608
+                  ]
+            },
+            {
+                  "name": "Church of Holy Trinity (Church of St. Roch)",
+                  "text": "Holy Trinity Church in Minsker Oberstadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.580186,
+                        53.911002
+                  ]
+            },
+            {
+                  "name": "The Belarusian State Archives of Scientific and Technical Documentation",
+                  "text": "The Belarusian State Archives of Scientific and Technical Documentation is a heritage-listed building in Minsk Upper Town.",
+                  "category": "religious",
+                  "coords": [
+                        27.557057,
+                        53.904726
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beis Israel",
+                  "text": "Beis Israel Synagogue in Minsk Upper Town.",
+                  "category": "religious",
+                  "coords": [
+                        27.550241,
+                        53.919406
+                  ]
+            },
+            {
+                  "name": "Sabor Svyatykh apostalau Pyatra i Paula",
+                  "text": "Cathedral of Saints Peter and Paul in Minsker Oberstadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.55172,
+                        53.904689
+                  ]
+            },
+            {
+                  "name": "Cathedral mosque",
+                  "text": "Cathedral Mosque in Minsk Upper Town.",
+                  "category": "religious",
+                  "coords": [
+                        27.52625,
+                        53.917195
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Name of Saint Virgin Mary",
+                  "text": "Cathedral of the Holy Name of Mary was built in the early 18th century.",
+                  "category": "religious",
+                  "coords": [
+                        27.554655,
+                        53.903093
+                  ]
+            },
+            {
+                  "name": "Syadziba Pshazdzetskikh",
+                  "text": "Pshazdzetski family manor in Minsk Upper Town.",
+                  "category": "landmark",
+                  "coords": [
+                        27.553491,
+                        53.903963
+                  ]
+            },
+            {
+                  "name": "Sinagoga Zaltsmana",
+                  "text": "Zaltsman Synagogue in Minsk Upper Town.",
+                  "category": "landmark",
+                  "coords": [
+                        27.547115,
+                        53.905215
+                  ]
+            },
+            {
+                  "name": "Planetarium",
+                  "text": "Minsk Planetarium opened on July 29, 1965.",
+                  "category": "landmark",
+                  "coords": [
+                        27.573539,
+                        53.904285
+                  ]
+            },
+            {
+                  "name": "Yanka Kupala National Academic Theatre",
+                  "text": "The Yanka Kupala National Academic Theatre is a major theatre in Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.562762,
+                        53.900838
+                  ]
+            },
+            {
+                  "name": "Tsarkva Svyatoi Maryi Magdaliny",
+                  "text": "The Church of Saint Mary Magdalene is a historic place of worship in Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.553751,
+                        53.916047
+                  ]
+            },
+            {
+                  "name": "Pishchalauski zamak",
+                  "text": "Pishchalauski Castle (historic prison) in Minsk Upper Town.",
+                  "category": "landmark",
+                  "coords": [
+                        27.548104,
+                        53.898862
+                  ]
+            },
+            {
+                  "name": "Church of Saints Simon and Helena",
+                  "text": "The Church of Saints Simon and Helena is a famous neo-Gothic church in Minsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.547603,
+                        53.896478
+                  ]
+            },
+            {
+                  "name": "Maly gastsiny dvor",
+                  "text": "Small Guest Court (Maly Gastsiny Dvor) in Minsk Upper Town.",
+                  "category": "landmark",
+                  "coords": [
+                        27.556096,
+                        53.904698
+                  ]
+            },
+            {
+                  "name": "Beginning of the Roads of Belarus",
+                  "text": "The Zero Kilometre point marks the starting point of Belarus's roads.",
+                  "category": "landmark",
+                  "coords": [
+                        27.56189,
+                        53.902216
+                  ]
+            },
+            {
+                  "name": "Zacharjeŭski Bridge",
+                  "text": "Zacharjeŭski Bridge over the Svisloch River in Minsk Upper Town.",
+                  "category": "landmark",
+                  "coords": [
+                        27.571025,
+                        53.906605
+                  ]
+            },
+            {
+                  "name": "Sciapanaŭski Garden",
+                  "text": "Sciapanaŭski Garden, a historic park in Minsk Upper Town.",
+                  "category": "park",
+                  "coords": [
+                        27.558241,
+                        53.914994
+                  ]
+            },
+            {
+                  "name": "Liuteranski Garden Square",
+                  "text": "Lutheran Garden Square, a park in Minsk Upper Town.",
+                  "category": "park",
+                  "coords": [
+                        27.526455,
+                        53.897059
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Minsker Oberstadt", hu: "Minszki felsőváros", ro: "Orașul de Sus din Minsk", en: "Minsk Upper Town"},
@@ -1845,7 +3546,700 @@ export const belarusHistoryV2: POI[] = [
       fr: ["La bataille se déroula du 26 au 29 novembre 1812", "Lieu de la retraite désastreuse de Napoléon après Moscou", "Les pontonniers français bâtirent deux ponts de 100m dans l'eau glacée", "Environ 40 000 à 50 000 soldats et traînards français périrent", "Le mot « Bérézina » est devenu synonyme de catastrophe totale en français", "Des monuments sur les deux rives honorent les morts des deux armées", "Des reconstitutions annuelles ont lieu sur le site historique"],
     }, image: "/poi-images/belarus-berezina-battlefield-history-v2.webp"},
   {
-    id: "belarus-slutsk-belts-history-v2", "sights": {"de": [{"name": "Standort der ehemaligen reformierten Kirche", "text": "Diese archäologische Stätte ist der ehemalige Standort einer bekannten reformierten Kirche im historischen Sluzk.", "category": "historical", "coords": [27.559061, 53.025847]}, {"name": "Slutski krayaznauchy muzei", "text": "Das Heimatmuseum von Sluzk ist eine anerkannte Einrichtung, die die Regionalgeschichte des historischen Sluzk dokumentiert.", "category": "museum", "coords": [27.546937, 53.023803]}, {"name": "Garadzishcha (XIII stagoddze)", "text": "Diese bedeutende archäologische Stätte zeigt die Überreste von Siedlungen und Burgen aus dem 13. Jahrhundert im historischen Sluzk.", "category": "historical", "coords": [27.556039, 53.026754]}, {"name": "Muzei gistoryi slutskikh payasou", "text": "Dieses Museum widmet sich der Geschichte der berühmten Sluzker Gürtel im historischen Sluzk.", "category": "museum", "coords": [27.55547, 53.024485]}, {"name": "Galereya mastatstvau im. U.S. Sadzina", "text": "Die Kunstgalerie U.S. Sadzin dient als wichtiges Museum für bildende Kunst im historischen Sluzk.", "category": "museum", "coords": [27.552186, 53.028421]}, {"name": "Dzitsyachy plyazh", "text": "Dieser Kinderstrand bietet ein lokales Erholungsgebiet am Wasser im historischen Sluzk.", "category": "recreational", "coords": [27.594796, 53.028256]}, {"name": "Muzei etnagrafii", "text": "Das Ethnographische Museum zeigt kulturelle Artefakte und regionale Traditionen im historischen Sluzk.", "category": "museum", "coords": [27.544496, 53.021945]}, {"name": "Park kultury i adpachynku", "text": "Dieser Kultur- und Erholungspark ist ein Freizeitpark mit verschiedenen Aktivitäten im historischen Sluzk.", "category": "family", "coords": [27.54735, 53.021864]}, {"name": "Navuchalny korpus Slutskaga dukhounaga vuchylishcha", "text": "Dieses anerkannte historische Gebäude beherbergte ursprünglich die theologische Schule von Sluzk im historischen Sluzk.", "category": "landmark", "coords": [27.546026, 53.01803]}, {"name": "Byloe Slutskae kamertsyinae vuchylishcha", "text": "Das Gebäude der ehemaligen Handelsschule von Sluzk ist eine bemerkenswerte architektonische Sehenswürdigkeit im historischen Sluzk.", "category": "landmark", "coords": [27.543824, 53.020858]}, {"name": "Svyata-Mikhailauski Sabor", "text": "Die St.-Michael-Kathedrale ist eine bedeutende religiöse Sehenswürdigkeit und ein Wahrzeichen im historischen Sluzk.", "category": "landmark", "coords": [27.578469, 53.030734]}, {"name": "U.I.Lenin", "text": "V.I.Lenin ist ein Denkmal in Historisches Sluzk.", "category": "historical", "coords": [27.552988, 53.02716]}, {"name": "Pomnik voinu-vyzvalitselyu", "text": "Monument to the Liberator Soldier ist ein Denkmal in Historisches Sluzk.", "category": "historical", "coords": [27.553978, 53.027285]}, {"name": "Anastasiya Slutskaya", "text": "Anastasija Sluckaja ist ein Denkmal in Historisches Sluzk.", "category": "historical", "coords": [27.555059, 53.027696]}, {"name": "Matatsykl", "text": "Матацыкл ist eine Sehenswürdigkeit in Historisches Sluzk.", "category": "landmark", "coords": [27.540983, 53.025417]}, {"name": "Kaplitsa", "text": "Капліца ist eine Sehenswürdigkeit in Historisches Sluzk.", "category": "landmark", "coords": [27.525264, 53.0394]}, {"name": "Moladzevy tsentr", "text": "Моладзевы цэнтр ist ein Kunstzentrum in Historisches Sluzk.", "category": "cultural", "coords": [27.560482, 53.032095]}, {"name": "Gabreiskiya mogilki", "text": "Habrejskija cemetery ist eine Sehenswürdigkeit in Historisches Sluzk.", "category": "landmark", "coords": [27.55179, 53.021022]}, {"name": "Kastsel Svyatoga Antoniya", "text": "Church of St. Anthony ist eine historische Kultstätte in Historisches Sluzk.", "category": "religious", "coords": [27.577026, 53.042411]}], "hu": [{"name": "Mestsa byloi refarmatskai tsarkvy", "text": "Ez a régészeti lelőhely egy elismert református templom egykori helyszíne az egykori Sluzk városában.", "category": "historical", "coords": [27.559061, 53.025847]}, {"name": "Slutski krayaznauchy muzei", "text": "A szlucki Helytörténeti Múzeum egy elismert intézmény, amely az egykori Sluzk regionális történelmét mutatja be.", "category": "museum", "coords": [27.546937, 53.023803]}, {"name": "Garadzishcha (XIII stagoddze)", "text": "Ez a jelentős régészeti lelőhely 13. századi települések és kastélyok maradványait tárja fel az egykori Sluzk városában.", "category": "historical", "coords": [27.556039, 53.026754]}, {"name": "Muzei gistoryi slutskikh payasou", "text": "Ez a múzeum a híres szlucki övek történelmének van szentelve az egykori Sluzk városában.", "category": "museum", "coords": [27.55547, 53.024485]}, {"name": "Galereya mastatstvau im. U.S. Sadzina", "text": "Az U.S. Sadzin Művészeti Galéria az egykori Sluzk képzőművészeti múzeumaként szolgál.", "category": "museum", "coords": [27.552186, 53.028421]}, {"name": "Dzitsyachy plyazh", "text": "Ez a gyermekstrand helyi vízi rekreációs területet kínál az egykori Sluzk városában.", "category": "recreational", "coords": [27.594796, 53.028256]}, {"name": "Muzei etnagrafii", "text": "A Néprajzi Múzeum kulturális tárgyi emlékeket és regionális hagyományokat mutat be az egykori Sluzk városában.", "category": "museum", "coords": [27.544496, 53.021945]}, {"name": "Park kultury i adpachynku", "text": "Ez a Kulturális és Pihenőpark szabadidős tevékenységeket kínál az egykori Sluzk városában.", "category": "family", "coords": [27.54735, 53.021864]}, {"name": "Navuchalny korpus Slutskaga dukhounaga vuchylishcha", "text": "Ez az elismert történelmi épület eredetileg a szlucki teológiai iskolának adott otthont az egykori Sluzk városában.", "category": "landmark", "coords": [27.546026, 53.01803]}, {"name": "Byloe Slutskae kamertsyinae vuchylishcha", "text": "Az egykori szlucki Kereskedelmi Iskola épülete jelentős építészeti látványosság az egykori Sluzk városában.", "category": "landmark", "coords": [27.543824, 53.020858]}, {"name": "Svyata-Mikhailauski Sabor", "text": "A Szent Mihály-székesegyház jelentős vallási látványosság és kiemelkedő nevezetesség az egykori Sluzk városában.", "category": "landmark", "coords": [27.578469, 53.030734]}, {"name": "U.I.Lenin", "text": "A V.I.Lenin egy emlékmű Historisches Sluzk városában.", "category": "historical", "coords": [27.552988, 53.02716]}, {"name": "Pomnik voinu-vyzvalitselyu", "text": "A Monument to the Liberator Soldier egy emlékmű Historisches Sluzk városában.", "category": "historical", "coords": [27.553978, 53.027285]}, {"name": "Anastasiya Slutskaya", "text": "Az Anastasija Sluckaja egy emlékmű Historisches Sluzk városában.", "category": "historical", "coords": [27.555059, 53.027696]}, {"name": "Matatsykl", "text": "A Матацыкл egy látványosság Historisches Sluzk városában.", "category": "landmark", "coords": [27.540983, 53.025417]}, {"name": "Kaplitsa", "text": "A Капліца egy látványosság Historisches Sluzk városában.", "category": "landmark", "coords": [27.525264, 53.0394]}, {"name": "Moladzevy tsentr", "text": "A Моладзевы цэнтр egy művészeti központ Historisches Sluzk városában.", "category": "cultural", "coords": [27.560482, 53.032095]}, {"name": "Gabreiskiya mogilki", "text": "A Habrejskija cemetery egy látványosság Historisches Sluzk városában.", "category": "landmark", "coords": [27.55179, 53.021022]}, {"name": "Kastsel Svyatoga Antoniya", "text": "A Church of St. Anthony egy történelmi istentiszteleti hely Historisches Sluzk városában.", "category": "religious", "coords": [27.577026, 53.042411]}], "ro": [{"name": "Mestsa byloi refarmatskai tsarkvy", "text": "Acest sit arheologic este fosta locație a unei biserici reformate recunoscute din istoricul Sluzk.", "category": "historical", "coords": [27.559061, 53.025847]}, {"name": "Slutski krayaznauchy muzei", "text": "Muzeul de Istorie Locală din Sluck este o instituție recunoscută care detaliază istoria regională din istoricul Sluzk.", "category": "museum", "coords": [27.546937, 53.023803]}, {"name": "Garadzishcha (XIII stagoddze)", "text": "Acest sit arheologic semnificativ dezvăluie rămășițele unor așezări și castele din secolul al XIII-lea din istoricul Sluzk.", "category": "historical", "coords": [27.556039, 53.026754]}, {"name": "Muzei gistoryi slutskikh payasou", "text": "Acest muzeu este dedicat istoriei faimoaselor brâuri din Sluck în istoricul Sluzk.", "category": "museum", "coords": [27.55547, 53.024485]}, {"name": "Galereya mastatstvau im. U.S. Sadzina", "text": "Galeria de Artă U.S. Sadzin servește drept principalul muzeu de arte frumoase din istoricul Sluzk.", "category": "museum", "coords": [27.552186, 53.028421]}, {"name": "Dzitsyachy plyazh", "text": "Această plajă pentru copii oferă o zonă locală de recreere pe malul apei în istoricul Sluzk.", "category": "recreational", "coords": [27.594796, 53.028256]}, {"name": "Muzei etnagrafii", "text": "Muzeul de Etnografie prezintă artefacte culturale și tradiții regionale din istoricul Sluzk.", "category": "museum", "coords": [27.544496, 53.021945]}, {"name": "Park kultury i adpachynku", "text": "Acest Parc de Cultură și Recreere este un parc tematic care oferă activități de agrement în istoricul Sluzk.", "category": "family", "coords": [27.54735, 53.021864]}, {"name": "Navuchalny korpus Slutskaga dukhounaga vuchylishcha", "text": "Această clădire istorică recunoscută a adăpostit inițial Școala Teologică din Sluck în istoricul Sluzk.", "category": "landmark", "coords": [27.546026, 53.01803]}, {"name": "Byloe Slutskae kamertsyinae vuchylishcha", "text": "Clădirea fostei Școli Comerciale din Sluck este o atracție arhitecturală notabilă în istoricul Sluzk.", "category": "landmark", "coords": [27.543824, 53.020858]}, {"name": "Svyata-Mikhailauski Sabor", "text": "Catedrala Sfântul Mihail este o atracție religioasă semnificativă și un reper notabil în istoricul Sluzk.", "category": "landmark", "coords": [27.578469, 53.030734]}, {"name": "U.I.Lenin", "text": "V.I.Lenin este un monument în Historisches Sluzk.", "category": "historical", "coords": [27.552988, 53.02716]}, {"name": "Pomnik voinu-vyzvalitselyu", "text": "Monument to the Liberator Soldier este un monument în Historisches Sluzk.", "category": "historical", "coords": [27.553978, 53.027285]}, {"name": "Anastasiya Slutskaya", "text": "Anastasija Sluckaja este un monument în Historisches Sluzk.", "category": "historical", "coords": [27.555059, 53.027696]}, {"name": "Matatsykl", "text": "Матацыкл este o atracție în Historisches Sluzk.", "category": "landmark", "coords": [27.540983, 53.025417]}, {"name": "Kaplitsa", "text": "Капліца este o atracție în Historisches Sluzk.", "category": "landmark", "coords": [27.525264, 53.0394]}, {"name": "Moladzevy tsentr", "text": "Моладзевы цэнтр este un centru de arte în Historisches Sluzk.", "category": "cultural", "coords": [27.560482, 53.032095]}, {"name": "Gabreiskiya mogilki", "text": "Habrejskija cemetery este o atracție în Historisches Sluzk.", "category": "landmark", "coords": [27.55179, 53.021022]}, {"name": "Kastsel Svyatoga Antoniya", "text": "Church of St. Anthony este un lăcaș de cult istoric în Historisches Sluzk.", "category": "religious", "coords": [27.577026, 53.042411]}], "en": [{"name": "Site of the former reformed church", "text": "This archaeological site is the former location of a recognized reformed church in Historisches Sluzk.", "category": "historical", "coords": [27.559061, 53.025847]}, {"name": "Sluck Museum of Local Lore", "text": "The Sluck Museum of Local Lore is a recognized institution detailing the regional history of Historisches Sluzk.", "category": "museum", "coords": [27.546937, 53.023803]}, {"name": "Ancient settlement (XIII century)", "text": "This significant archaeological site reveals the remains of 13th-century settlements and castles in Historisches Sluzk.", "category": "historical", "coords": [27.556039, 53.026754]}, {"name": "Museum of the history of the Sluck belts", "text": "This museum is dedicated to the history of the famous Sluck belts in Historisches Sluzk.", "category": "museum", "coords": [27.55547, 53.024485]}, {"name": "U.S. Sadzin Art Gallery", "text": "The U.S. Sadzin Art Gallery serves as a primary museum for fine arts in Historisches Sluzk.", "category": "museum", "coords": [27.552186, 53.028421]}, {"name": "Dzitsyachy plyazh", "text": "This children's beach offers a local recreation area by the water in Historisches Sluzk.", "category": "recreational", "coords": [27.594796, 53.028256]}, {"name": "Museum of Ethnography", "text": "The Museum of Ethnography features cultural artifacts and regional traditions in Historisches Sluzk.", "category": "museum", "coords": [27.544496, 53.021945]}, {"name": "Park kultury i adpachynku", "text": "This Park of Culture and Recreation is a theme park providing leisure activities in Historisches Sluzk.", "category": "family", "coords": [27.54735, 53.021864]}, {"name": "Educational building of the Sluck Theological School", "text": "This recognized historic building originally housed the Sluck Theological School in Historisches Sluzk.", "category": "landmark", "coords": [27.546026, 53.01803]}, {"name": "Former Sluck Commercial School", "text": "The building of the former Sluck Commercial School is a notable architectural attraction in Historisches Sluzk.", "category": "landmark", "coords": [27.543824, 53.020858]}, {"name": "St. Michael's Cathedral", "text": "St. Michael's Cathedral is a significant religious attraction and a notable landmark in Historisches Sluzk.", "category": "landmark", "coords": [27.578469, 53.030734]}, {"name": "V.I.Lenin", "text": "V.I.Lenin is a monument located in Historisches Sluzk.", "category": "historical", "coords": [27.552988, 53.02716]}, {"name": "Monument to the Liberator Soldier", "text": "Monument to the Liberator Soldier is a monument located in Historisches Sluzk.", "category": "historical", "coords": [27.553978, 53.027285]}, {"name": "Anastasija Sluckaja", "text": "Anastasija Sluckaja is a monument located in Historisches Sluzk.", "category": "historical", "coords": [27.555059, 53.027696]}, {"name": "Matatsykl", "text": "Матацыкл is an attraction located in Historisches Sluzk.", "category": "landmark", "coords": [27.540983, 53.025417]}, {"name": "Kaplitsa", "text": "Капліца is an attraction located in Historisches Sluzk.", "category": "landmark", "coords": [27.525264, 53.0394]}, {"name": "Moladzevy tsentr", "text": "Моладзевы цэнтр is an arts centre located in Historisches Sluzk.", "category": "cultural", "coords": [27.560482, 53.032095]}, {"name": "Habrejskija cemetery", "text": "Habrejskija cemetery is an attraction located in Historisches Sluzk.", "category": "landmark", "coords": [27.55179, 53.021022]}, {"name": "Church of St. Anthony", "text": "Church of St. Anthony is a historic place of worship located in Historisches Sluzk.", "category": "religious", "coords": [27.577026, 53.042411]}]},
+    id: "belarus-slutsk-belts-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Standort der ehemaligen reformierten Kirche",
+                  "text": "Der Standort der ehemaligen reformierten Kirche in Sluzk stammt aus dem Jahr 1617.",
+                  "category": "historical",
+                  "coords": [
+                        27.559061,
+                        53.025847
+                  ]
+            },
+            {
+                  "name": "Slutski krayaznauchy muzei",
+                  "text": "Das Heimatmuseum von Sluzk ist eine anerkannte Einrichtung, die die Regionalgeschichte des historischen Sluzk dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        27.546937,
+                        53.023803
+                  ]
+            },
+            {
+                  "name": "Garadzishcha (XIII stagoddze)",
+                  "text": "Diese bedeutende archäologische Stätte zeigt die Überreste von Siedlungen und Burgen aus dem 13. Jahrhundert im historischen Sluzk.",
+                  "category": "historical",
+                  "coords": [
+                        27.556039,
+                        53.026754
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi slutskikh payasou",
+                  "text": "Dieses Museum widmet sich der Geschichte der berühmten Sluzker Gürtel im historischen Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.55547,
+                        53.024485
+                  ]
+            },
+            {
+                  "name": "Galereya mastatstvau im. U.S. Sadzina",
+                  "text": "Die Kunstgalerie U.S. Sadzin dient als wichtiges Museum für bildende Kunst im historischen Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.552186,
+                        53.028421
+                  ]
+            },
+            {
+                  "name": "Dzitsyachy plyazh",
+                  "text": "Dieser Kinderstrand bietet ein lokales Erholungsgebiet am Wasser im historischen Sluzk.",
+                  "category": "recreational",
+                  "coords": [
+                        27.594796,
+                        53.028256
+                  ]
+            },
+            {
+                  "name": "Muzei etnagrafii",
+                  "text": "Das Ethnographische Museum zeigt kulturelle Artefakte und regionale Traditionen im historischen Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.544496,
+                        53.021945
+                  ]
+            },
+            {
+                  "name": "Park kultury i adpachynku",
+                  "text": "Dieser Kultur- und Erholungspark ist ein Freizeitpark mit verschiedenen Aktivitäten im historischen Sluzk.",
+                  "category": "family",
+                  "coords": [
+                        27.54735,
+                        53.021864
+                  ]
+            },
+            {
+                  "name": "Navuchalny korpus Slutskaga dukhounaga vuchylishcha",
+                  "text": "Dieses anerkannte historische Gebäude beherbergte ursprünglich die theologische Schule von Sluzk im historischen Sluzk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.546026,
+                        53.01803
+                  ]
+            },
+            {
+                  "name": "Byloe Slutskae kamertsyinae vuchylishcha",
+                  "text": "Das Gebäude der ehemaligen Handelsschule von Sluzk ist eine bemerkenswerte architektonische Sehenswürdigkeit im historischen Sluzk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.543824,
+                        53.020858
+                  ]
+            },
+            {
+                  "name": "Svyata-Mikhailauski Sabor",
+                  "text": "Die St.-Michael-Kathedrale ist eine bedeutende religiöse Sehenswürdigkeit und ein Wahrzeichen im historischen Sluzk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.578469,
+                        53.030734
+                  ]
+            },
+            {
+                  "name": "U.I.Lenin",
+                  "text": "Lenin-Denkmal in Sluzk, typisches Sowjetdenkmal.",
+                  "category": "historical",
+                  "coords": [
+                        27.552988,
+                        53.02716
+                  ]
+            },
+            {
+                  "name": "Pomnik voinu-vyzvalitselyu",
+                  "text": "Denkmal für den Befreier-Soldaten in Sluzk zur Erinnerung an den Zweiten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        27.553978,
+                        53.027285
+                  ]
+            },
+            {
+                  "name": "Anastasiya Slutskaya",
+                  "text": "Denkmal für Anastasija Sluzkaja, eine Fürstin des 16. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        27.555059,
+                        53.027696
+                  ]
+            },
+            {
+                  "name": "Matatsykl",
+                  "text": "Motorrad-Skulptur in Sluzk, ein beliebtes Fotomotiv.",
+                  "category": "landmark",
+                  "coords": [
+                        27.540983,
+                        53.025417
+                  ]
+            },
+            {
+                  "name": "Kaplitsa",
+                  "text": "Kapelle in Sluzk, ein kleiner Sakralbau aus dem 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.525264,
+                        53.0394
+                  ]
+            },
+            {
+                  "name": "Moladzevy tsentr",
+                  "text": "Jugendzentrum in Sluzk mit kulturellen Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        27.560482,
+                        53.032095
+                  ]
+            },
+            {
+                  "name": "Gabreiskiya mogilki",
+                  "text": "Jüdischer Friedhof in Sluzk, Zeugnis der früheren jüdischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        27.55179,
+                        53.021022
+                  ]
+            },
+            {
+                  "name": "Kastsel Svyatoga Antoniya",
+                  "text": "Church of St. Anthony ist eine historische Kultstätte in Historisches Sluzk.",
+                  "category": "religious",
+                  "coords": [
+                        27.577026,
+                        53.042411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mestsa byloi refarmatskai tsarkvy",
+                  "text": "A volt református templom helye Sluckban 1617-ből származik.",
+                  "category": "historical",
+                  "coords": [
+                        27.559061,
+                        53.025847
+                  ]
+            },
+            {
+                  "name": "Slutski krayaznauchy muzei",
+                  "text": "A szlucki Helytörténeti Múzeum egy elismert intézmény, amely az egykori Sluzk regionális történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.546937,
+                        53.023803
+                  ]
+            },
+            {
+                  "name": "Garadzishcha (XIII stagoddze)",
+                  "text": "Ez a jelentős régészeti lelőhely 13. századi települések és kastélyok maradványait tárja fel az egykori Sluzk városában.",
+                  "category": "historical",
+                  "coords": [
+                        27.556039,
+                        53.026754
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi slutskikh payasou",
+                  "text": "Ez a múzeum a híres szlucki övek történelmének van szentelve az egykori Sluzk városában.",
+                  "category": "museum",
+                  "coords": [
+                        27.55547,
+                        53.024485
+                  ]
+            },
+            {
+                  "name": "Galereya mastatstvau im. U.S. Sadzina",
+                  "text": "Az U.S. Sadzin Művészeti Galéria az egykori Sluzk képzőművészeti múzeumaként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        27.552186,
+                        53.028421
+                  ]
+            },
+            {
+                  "name": "Dzitsyachy plyazh",
+                  "text": "Ez a gyermekstrand helyi vízi rekreációs területet kínál az egykori Sluzk városában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.594796,
+                        53.028256
+                  ]
+            },
+            {
+                  "name": "Muzei etnagrafii",
+                  "text": "A Néprajzi Múzeum kulturális tárgyi emlékeket és regionális hagyományokat mutat be az egykori Sluzk városában.",
+                  "category": "museum",
+                  "coords": [
+                        27.544496,
+                        53.021945
+                  ]
+            },
+            {
+                  "name": "Park kultury i adpachynku",
+                  "text": "Ez a Kulturális és Pihenőpark szabadidős tevékenységeket kínál az egykori Sluzk városában.",
+                  "category": "family",
+                  "coords": [
+                        27.54735,
+                        53.021864
+                  ]
+            },
+            {
+                  "name": "Navuchalny korpus Slutskaga dukhounaga vuchylishcha",
+                  "text": "Ez az elismert történelmi épület eredetileg a szlucki teológiai iskolának adott otthont az egykori Sluzk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.546026,
+                        53.01803
+                  ]
+            },
+            {
+                  "name": "Byloe Slutskae kamertsyinae vuchylishcha",
+                  "text": "Az egykori szlucki Kereskedelmi Iskola épülete jelentős építészeti látványosság az egykori Sluzk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.543824,
+                        53.020858
+                  ]
+            },
+            {
+                  "name": "Svyata-Mikhailauski Sabor",
+                  "text": "A Szent Mihály-székesegyház jelentős vallási látványosság és kiemelkedő nevezetesség az egykori Sluzk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.578469,
+                        53.030734
+                  ]
+            },
+            {
+                  "name": "U.I.Lenin",
+                  "text": "Lenin-szobor Szluckban, tipikus szovjet emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        27.552988,
+                        53.02716
+                  ]
+            },
+            {
+                  "name": "Pomnik voinu-vyzvalitselyu",
+                  "text": "Felszabadító Katona emlékműve Szluckban, a második világháborúra emlékezve.",
+                  "category": "historical",
+                  "coords": [
+                        27.553978,
+                        53.027285
+                  ]
+            },
+            {
+                  "name": "Anastasiya Slutskaya",
+                  "text": "Anastasija Sluckaja szobra, egy 16. századi hercegnőé.",
+                  "category": "historical",
+                  "coords": [
+                        27.555059,
+                        53.027696
+                  ]
+            },
+            {
+                  "name": "Matatsykl",
+                  "text": "Motorkerékpár-szobor Szluckban, népszerű fotótéma.",
+                  "category": "landmark",
+                  "coords": [
+                        27.540983,
+                        53.025417
+                  ]
+            },
+            {
+                  "name": "Kaplitsa",
+                  "text": "Kápolna Szluckban, egy 19. századi kis szakrális épület.",
+                  "category": "landmark",
+                  "coords": [
+                        27.525264,
+                        53.0394
+                  ]
+            },
+            {
+                  "name": "Moladzevy tsentr",
+                  "text": "Ifjúsági központ Szluckban kulturális rendezvényekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        27.560482,
+                        53.032095
+                  ]
+            },
+            {
+                  "name": "Gabreiskiya mogilki",
+                  "text": "Zsidó temető Szluckban, a hajdani zsidó közösség emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        27.55179,
+                        53.021022
+                  ]
+            },
+            {
+                  "name": "Kastsel Svyatoga Antoniya",
+                  "text": "A Church of St. Anthony egy történelmi istentiszteleti hely Historisches Sluzk városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.577026,
+                        53.042411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mestsa byloi refarmatskai tsarkvy",
+                  "text": "Locul fostei biserici reformate din Sluțk datează din 1617.",
+                  "category": "historical",
+                  "coords": [
+                        27.559061,
+                        53.025847
+                  ]
+            },
+            {
+                  "name": "Slutski krayaznauchy muzei",
+                  "text": "Muzeul de Istorie Locală din Sluck este o instituție recunoscută care detaliază istoria regională din istoricul Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.546937,
+                        53.023803
+                  ]
+            },
+            {
+                  "name": "Garadzishcha (XIII stagoddze)",
+                  "text": "Acest sit arheologic semnificativ dezvăluie rămășițele unor așezări și castele din secolul al XIII-lea din istoricul Sluzk.",
+                  "category": "historical",
+                  "coords": [
+                        27.556039,
+                        53.026754
+                  ]
+            },
+            {
+                  "name": "Muzei gistoryi slutskikh payasou",
+                  "text": "Acest muzeu este dedicat istoriei faimoaselor brâuri din Sluck în istoricul Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.55547,
+                        53.024485
+                  ]
+            },
+            {
+                  "name": "Galereya mastatstvau im. U.S. Sadzina",
+                  "text": "Galeria de Artă U.S. Sadzin servește drept principalul muzeu de arte frumoase din istoricul Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.552186,
+                        53.028421
+                  ]
+            },
+            {
+                  "name": "Dzitsyachy plyazh",
+                  "text": "Această plajă pentru copii oferă o zonă locală de recreere pe malul apei în istoricul Sluzk.",
+                  "category": "recreational",
+                  "coords": [
+                        27.594796,
+                        53.028256
+                  ]
+            },
+            {
+                  "name": "Muzei etnagrafii",
+                  "text": "Muzeul de Etnografie prezintă artefacte culturale și tradiții regionale din istoricul Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.544496,
+                        53.021945
+                  ]
+            },
+            {
+                  "name": "Park kultury i adpachynku",
+                  "text": "Acest Parc de Cultură și Recreere este un parc tematic care oferă activități de agrement în istoricul Sluzk.",
+                  "category": "family",
+                  "coords": [
+                        27.54735,
+                        53.021864
+                  ]
+            },
+            {
+                  "name": "Navuchalny korpus Slutskaga dukhounaga vuchylishcha",
+                  "text": "Această clădire istorică recunoscută a adăpostit inițial Școala Teologică din Sluck în istoricul Sluzk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.546026,
+                        53.01803
+                  ]
+            },
+            {
+                  "name": "Byloe Slutskae kamertsyinae vuchylishcha",
+                  "text": "Clădirea fostei Școli Comerciale din Sluck este o atracție arhitecturală notabilă în istoricul Sluzk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.543824,
+                        53.020858
+                  ]
+            },
+            {
+                  "name": "Svyata-Mikhailauski Sabor",
+                  "text": "Catedrala Sfântul Mihail este o atracție religioasă semnificativă și un reper notabil în istoricul Sluzk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.578469,
+                        53.030734
+                  ]
+            },
+            {
+                  "name": "U.I.Lenin",
+                  "text": "Monumentul lui Lenin în Slutsk, un monument sovietic tipic.",
+                  "category": "historical",
+                  "coords": [
+                        27.552988,
+                        53.02716
+                  ]
+            },
+            {
+                  "name": "Pomnik voinu-vyzvalitselyu",
+                  "text": "Monumentul Soldatului Eliberator din Slutsk, în memoria celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        27.553978,
+                        53.027285
+                  ]
+            },
+            {
+                  "name": "Anastasiya Slutskaya",
+                  "text": "Monumentul Anastasiei Sluckaja, o prințesă din secolul al XVI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        27.555059,
+                        53.027696
+                  ]
+            },
+            {
+                  "name": "Matatsykl",
+                  "text": "Sculptură de motocicletă în Slutsk, un subiect foto popular.",
+                  "category": "landmark",
+                  "coords": [
+                        27.540983,
+                        53.025417
+                  ]
+            },
+            {
+                  "name": "Kaplitsa",
+                  "text": "Capelă în Slutsk, o mică construcție religioasă din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        27.525264,
+                        53.0394
+                  ]
+            },
+            {
+                  "name": "Moladzevy tsentr",
+                  "text": "Centru de tineret în Slutsk cu evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        27.560482,
+                        53.032095
+                  ]
+            },
+            {
+                  "name": "Gabreiskiya mogilki",
+                  "text": "Cimitir evreiesc în Slutsk, mărturie a fostei comunități evreiești.",
+                  "category": "landmark",
+                  "coords": [
+                        27.55179,
+                        53.021022
+                  ]
+            },
+            {
+                  "name": "Kastsel Svyatoga Antoniya",
+                  "text": "Church of St. Anthony este un lăcaș de cult istoric în Historisches Sluzk.",
+                  "category": "religious",
+                  "coords": [
+                        27.577026,
+                        53.042411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Site of the former reformed church",
+                  "text": "Site of the former Reformed church in Slutsk dates from 1617.",
+                  "category": "historical",
+                  "coords": [
+                        27.559061,
+                        53.025847
+                  ]
+            },
+            {
+                  "name": "Sluck Museum of Local Lore",
+                  "text": "The Sluck Museum of Local Lore is a recognized institution detailing the regional history of Historisches Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.546937,
+                        53.023803
+                  ]
+            },
+            {
+                  "name": "Ancient settlement (XIII century)",
+                  "text": "This significant archaeological site reveals the remains of 13th-century settlements and castles in Historisches Sluzk.",
+                  "category": "historical",
+                  "coords": [
+                        27.556039,
+                        53.026754
+                  ]
+            },
+            {
+                  "name": "Museum of the history of the Sluck belts",
+                  "text": "This museum is dedicated to the history of the famous Sluck belts in Historisches Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.55547,
+                        53.024485
+                  ]
+            },
+            {
+                  "name": "U.S. Sadzin Art Gallery",
+                  "text": "The U.S. Sadzin Art Gallery serves as a primary museum for fine arts in Historisches Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.552186,
+                        53.028421
+                  ]
+            },
+            {
+                  "name": "Dzitsyachy plyazh",
+                  "text": "This children's beach offers a local recreation area by the water in Historisches Sluzk.",
+                  "category": "recreational",
+                  "coords": [
+                        27.594796,
+                        53.028256
+                  ]
+            },
+            {
+                  "name": "Museum of Ethnography",
+                  "text": "The Museum of Ethnography features cultural artifacts and regional traditions in Historisches Sluzk.",
+                  "category": "museum",
+                  "coords": [
+                        27.544496,
+                        53.021945
+                  ]
+            },
+            {
+                  "name": "Park kultury i adpachynku",
+                  "text": "This Park of Culture and Recreation is a theme park providing leisure activities in Historisches Sluzk.",
+                  "category": "family",
+                  "coords": [
+                        27.54735,
+                        53.021864
+                  ]
+            },
+            {
+                  "name": "Educational building of the Sluck Theological School",
+                  "text": "This recognized historic building originally housed the Sluck Theological School in Historisches Sluzk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.546026,
+                        53.01803
+                  ]
+            },
+            {
+                  "name": "Former Sluck Commercial School",
+                  "text": "The building of the former Sluck Commercial School is a notable architectural attraction in Historisches Sluzk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.543824,
+                        53.020858
+                  ]
+            },
+            {
+                  "name": "St. Michael's Cathedral",
+                  "text": "St. Michael's Cathedral is a significant religious attraction and a notable landmark in Historisches Sluzk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.578469,
+                        53.030734
+                  ]
+            },
+            {
+                  "name": "V.I.Lenin",
+                  "text": "Lenin monument in Slutsk, a typical Soviet statue.",
+                  "category": "historical",
+                  "coords": [
+                        27.552988,
+                        53.02716
+                  ]
+            },
+            {
+                  "name": "Monument to the Liberator Soldier",
+                  "text": "Monument to the Liberator Soldier in Slutsk, commemorating WWII.",
+                  "category": "historical",
+                  "coords": [
+                        27.553978,
+                        53.027285
+                  ]
+            },
+            {
+                  "name": "Anastasija Sluckaja",
+                  "text": "Monument to Anastasia Slutskaya, a 16th-century princess.",
+                  "category": "historical",
+                  "coords": [
+                        27.555059,
+                        53.027696
+                  ]
+            },
+            {
+                  "name": "Matatsykl",
+                  "text": "Motorcycle sculpture in Slutsk, a popular photo spot.",
+                  "category": "landmark",
+                  "coords": [
+                        27.540983,
+                        53.025417
+                  ]
+            },
+            {
+                  "name": "Kaplitsa",
+                  "text": "Chapel in Slutsk, a small 19th-century religious building.",
+                  "category": "landmark",
+                  "coords": [
+                        27.525264,
+                        53.0394
+                  ]
+            },
+            {
+                  "name": "Moladzevy tsentr",
+                  "text": "Youth center in Slutsk hosting cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.560482,
+                        53.032095
+                  ]
+            },
+            {
+                  "name": "Habrejskija cemetery",
+                  "text": "Jewish cemetery in Slutsk, testament to the former Jewish community.",
+                  "category": "landmark",
+                  "coords": [
+                        27.55179,
+                        53.021022
+                  ]
+            },
+            {
+                  "name": "Church of St. Anthony",
+                  "text": "Church of St. Anthony is a historic place of worship located in Historisches Sluzk.",
+                  "category": "religious",
+                  "coords": [
+                        27.577026,
+                        53.042411
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Historisches Sluzk", hu: "Történelmi Szluck", ro: "Slutskul Istoric", en: "Historic Slutsk"},

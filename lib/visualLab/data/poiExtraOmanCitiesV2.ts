@@ -3,7 +3,1096 @@ import type { POI } from "./poi";
 
 export const poiExtraOmanCitiesV2: POI[] = [
   {
-    id: "muscat-cities-v2",
+    id: "muscat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snow Oman",
+                  "text": "Snow Oman ist ein Indoor-Schneepark, der winterliche Attraktionen in Maskat bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        58.407074,
+                        23.573154
+                  ]
+            },
+            {
+                  "name": "Oman Natural History Museum",
+                  "text": "Das Oman Natural History Museum beherbergt Ausstellungen zur lokalen Flora, Fauna und Geologie.",
+                  "category": "museum",
+                  "coords": [
+                        58.422706,
+                        23.598823
+                  ]
+            },
+            {
+                  "name": "Muscat Flagpole",
+                  "text": "Der Muscat Flagpole ist ein markantes Wahrzeichen mit der Nationalflagge in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        58.431961,
+                        23.597986
+                  ]
+            },
+            {
+                  "name": "Al Khuwair Natural Reserve",
+                  "text": "Das Naturreservat Al Khuwair ist ein Schutzgebiet, das das natürliche Ökosystem in Maskat bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        58.418025,
+                        23.586786
+                  ]
+            },
+            {
+                  "name": "Al Zawawi Mosque",
+                  "text": "Die Al-Zawawi-Moschee ist ein wunderschön gestaltetes islamisches Wahrzeichen in Maskat.",
+                  "category": "religious",
+                  "coords": [
+                        58.422176,
+                        23.596162
+                  ]
+            },
+            {
+                  "name": "Baushar Mosque",
+                  "text": "Die Baushar-Moschee ist ein islamisches Gotteshaus im Baushar-Viertel von Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.414702,
+                        23.560951
+                  ]
+            },
+            {
+                  "name": "Al Jaleel Mosque",
+                  "text": "Die Al-Jaleel-Moschee ist eine Moschee für die lokale muslimische Gemeinde in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.422114,
+                        23.563089
+                  ]
+            },
+            {
+                  "name": "Al Haqq Mosque",
+                  "text": "Die Al-Haqq-Moschee ist ein eigenes Gotteshaus in Maskat.",
+                  "category": "religious",
+                  "coords": [
+                        58.441021,
+                        23.584618
+                  ]
+            },
+            {
+                  "name": "Al Khuwair Mosque",
+                  "text": "Die Al Khuwair-Moschee ist ein spirituelles Zentrum für islamische Gottesdienste im Viertel Al Khuwair.",
+                  "category": "landmark",
+                  "coords": [
+                        58.421643,
+                        23.575289
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "Die Masjid Ar-Rahmah bietet der muslimischen Gemeinde in Maskat einen ruhigen Ort des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        58.40624,
+                        23.58036
+                  ]
+            },
+            {
+                  "name": "Jama'a al-Imam Nur al-Din al-Sa'alimi Mosque",
+                  "text": "Die Jama'a al-Imam Nur al-Din al-Sa'alimi Moschee ist eine wichtige religiöse Stätte für Muslime in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.432736,
+                        23.594573
+                  ]
+            },
+            {
+                  "name": "Al Huda Mosque",
+                  "text": "Die Al-Huda-Moschee ist ein islamisches Gotteshaus in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.401617,
+                        23.585517
+                  ]
+            },
+            {
+                  "name": "Mohammed Al Ameen Mosque Building",
+                  "text": "Das Mohammed-Al-Ameen-Moscheegebäude ist ein religiöses Bauwerk in Maskat.",
+                  "category": "religious",
+                  "coords": [
+                        58.414048,
+                        23.578442
+                  ]
+            },
+            {
+                  "name": "Hayy al Bydhaa' Mosque",
+                  "text": "Die Hayy-al-Bydhaa'-Moschee dient als muslimische Gebetsstätte in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.424082,
+                        23.566501
+                  ]
+            },
+            {
+                  "name": "Al Sahabi Al Jalil Ammar Bin Yasser Mosque",
+                  "text": "Dies ist eine lokale Moschee für die muslimische Gemeinde in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.429014,
+                        23.571323
+                  ]
+            },
+            {
+                  "name": "Al Shidhani Mosque",
+                  "text": "Die Al-Shidhani-Moschee ist ein aktives muslimisches Gotteshaus in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.426116,
+                        23.580797
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abi Rawaha Mosque",
+                  "text": "Die Abdullah-Ibn-Abi-Rawaha-Moschee bietet einen Raum für islamische Gebete in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.424638,
+                        23.584683
+                  ]
+            },
+            {
+                  "name": "Hillat Al Najd Mosque",
+                  "text": "Die Hillat-Al-Najd-Moschee ist eine traditionelle islamische Stätte in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.398659,
+                        23.586088
+                  ]
+            },
+            {
+                  "name": "Muallim Hasan Mosque",
+                  "text": "Die Muallim-Hasan-Moschee dient den Gläubigen als islamische religiöse Stätte in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.400624,
+                        23.587309
+                  ]
+            },
+            {
+                  "name": "North Ghubrah Mosque",
+                  "text": "Die North Ghubrah Mosque ist ein wichtiges muslimisches Gotteshaus in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.402157,
+                        23.587694
+                  ]
+            },
+            {
+                  "name": "Al Tawbah Mosque",
+                  "text": "Die Al-Tawbah-Moschee ist eine Einrichtung für islamische Gebete in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.399461,
+                        23.594286
+                  ]
+            },
+            {
+                  "name": "Tawi Al Wird Mosque",
+                  "text": "Die Tawi-Al-Wird-Moschee ist ein religiöses Zentrum für die lokale muslimische Gemeinde in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.40288,
+                        23.589081
+                  ]
+            },
+            {
+                  "name": "Noor Mosque",
+                  "text": "Die Noor-Moschee ist ein lokales Gotteshaus in Maskat.",
+                  "category": "religious",
+                  "coords": [
+                        58.409343,
+                        23.594301
+                  ]
+            },
+            {
+                  "name": "Tho Al Noorain Mosque",
+                  "text": "Die Tho-Al-Noorain-Moschee dient als spiritueller islamischer Ort in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.407599,
+                        23.602073
+                  ]
+            },
+            {
+                  "name": "Ibrahim Al Khalil Mosque",
+                  "text": "Die Ibrahim-Al-Khalil-Moschee ist ein religiöses Ziel für Muslime in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.402522,
+                        23.600773
+                  ]
+            },
+            {
+                  "name": "Masjid Abi AlQasim",
+                  "text": "Masjid Abi AlQasim ist eine funktionierende islamische Stätte für Gläubige in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.436287,
+                        23.591593
+                  ]
+            },
+            {
+                  "name": "Masjid As' Sultan Said Bin Taimur",
+                  "text": "Masjid As' Sultan Said Bin Taimur ist ein prominentes muslimisches Gotteshaus in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.430848,
+                        23.583831
+                  ]
+            },
+            {
+                  "name": "A'Ssalam Mosque",
+                  "text": "Die A'Ssalam-Moschee ist ein traditioneller islamischer Andachtsort in Maskat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.440683,
+                        23.577824
+                  ]
+            },
+            {
+                  "name": "Fanja Sights Shopping",
+                  "text": "Fanja Sights Shopping ist ein Marktplatz, der in Maskat eine Vielzahl von Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        58.432738,
+                        23.592344
+                  ]
+            },
+            {
+                  "name": "Noor Shopping",
+                  "text": "Noor Shopping ist ein Marktplatz für Einkäufer in Maskat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.434255,
+                        23.593824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snow Oman",
+                  "text": "A Snow Oman egy fedett hópark, amely téli témájú látványosságokat kínál Maszkatban.",
+                  "category": "recreational",
+                  "coords": [
+                        58.407074,
+                        23.573154
+                  ]
+            },
+            {
+                  "name": "Oman Natural History Museum",
+                  "text": "Az Ománi Természettudományi Múzeum a helyi flórát, faunát és geológiát bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        58.422706,
+                        23.598823
+                  ]
+            },
+            {
+                  "name": "Muscat Flagpole",
+                  "text": "A maszkat-i zászlórúd a város egyik kiemelkedő nevezetessége a nemzeti zászlóval.",
+                  "category": "landmark",
+                  "coords": [
+                        58.431961,
+                        23.597986
+                  ]
+            },
+            {
+                  "name": "Al Khuwair Natural Reserve",
+                  "text": "Az Al Khuwair Természetvédelmi Terület a természetes ökoszisztémát megőrző védett terület Maszkatban.",
+                  "category": "natural",
+                  "coords": [
+                        58.418025,
+                        23.586786
+                  ]
+            },
+            {
+                  "name": "Al Zawawi Mosque",
+                  "text": "Az Al Zawawi mecset egy gyönyörűen megtervezett iszlám nevezetesség Maszkatban.",
+                  "category": "religious",
+                  "coords": [
+                        58.422176,
+                        23.596162
+                  ]
+            },
+            {
+                  "name": "Baushar Mosque",
+                  "text": "A Baushar mecset egy iszlám imahely Maszkat Baushar nevű negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        58.414702,
+                        23.560951
+                  ]
+            },
+            {
+                  "name": "Al Jaleel Mosque",
+                  "text": "Az Al Jaleel mecset egy maszkat-i mecset, amely a helyi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        58.422114,
+                        23.563089
+                  ]
+            },
+            {
+                  "name": "Al Haqq Mosque",
+                  "text": "Az Al Haqq mecset egy kijelölt istentiszteleti hely Maszkatban.",
+                  "category": "religious",
+                  "coords": [
+                        58.441021,
+                        23.584618
+                  ]
+            },
+            {
+                  "name": "Al Khuwair Mosque",
+                  "text": "Az Al Khuwair mecset az iszlám istentisztelet spirituális központja az Al Khuwair negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        58.421643,
+                        23.575289
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "A Masjid Ar-Rahmah nyugodt imahelyet kínál a maszkat-i muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        58.40624,
+                        23.58036
+                  ]
+            },
+            {
+                  "name": "Jama'a al-Imam Nur al-Din al-Sa'alimi Mosque",
+                  "text": "A Jama'a al-Imam Nur al-Din al-Sa'alimi mecset egy fontos vallási helyszín Maszkat muszlimjai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        58.432736,
+                        23.594573
+                  ]
+            },
+            {
+                  "name": "Al Huda Mosque",
+                  "text": "Az Al Huda mecset egy iszlám istentiszteleti hely Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.401617,
+                        23.585517
+                  ]
+            },
+            {
+                  "name": "Mohammed Al Ameen Mosque Building",
+                  "text": "A Mohammed Al Ameen mecset épülete egy vallási építmény Maszkatban.",
+                  "category": "religious",
+                  "coords": [
+                        58.414048,
+                        23.578442
+                  ]
+            },
+            {
+                  "name": "Hayy al Bydhaa' Mosque",
+                  "text": "A Hayy al Bydhaa' mecset muszlim istentiszteleti helyként szolgál Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.424082,
+                        23.566501
+                  ]
+            },
+            {
+                  "name": "Al Sahabi Al Jalil Ammar Bin Yasser Mosque",
+                  "text": "Ez egy helyi mecset, amely a muszlim közösséget szolgálja Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.429014,
+                        23.571323
+                  ]
+            },
+            {
+                  "name": "Al Shidhani Mosque",
+                  "text": "Az Al Shidhani mecset egy aktív muszlim istentiszteleti hely Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.426116,
+                        23.580797
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abi Rawaha Mosque",
+                  "text": "Az Abdullah Ibn Abi Rawaha mecset teret biztosít az iszlám imák számára Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.424638,
+                        23.584683
+                  ]
+            },
+            {
+                  "name": "Hillat Al Najd Mosque",
+                  "text": "A Hillat Al Najd mecset egy hagyományos iszlám vallási hely Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.398659,
+                        23.586088
+                  ]
+            },
+            {
+                  "name": "Muallim Hasan Mosque",
+                  "text": "A Muallim Hasan mecset iszlám vallási helyként szolgálja a hívőket Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.400624,
+                        23.587309
+                  ]
+            },
+            {
+                  "name": "North Ghubrah Mosque",
+                  "text": "Észak-Ghubrah mecsete egy fontos muszlim istentiszteleti hely Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.402157,
+                        23.587694
+                  ]
+            },
+            {
+                  "name": "Al Tawbah Mosque",
+                  "text": "Az Al Tawbah mecset az iszlám imák számára fenntartott létesítmény Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.399461,
+                        23.594286
+                  ]
+            },
+            {
+                  "name": "Tawi Al Wird Mosque",
+                  "text": "A Tawi Al Wird mecset a helyi muszlim közösség vallási központja Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.40288,
+                        23.589081
+                  ]
+            },
+            {
+                  "name": "Noor Mosque",
+                  "text": "A Noor mecset egy helyi istentiszteleti hely Maszkatban.",
+                  "category": "religious",
+                  "coords": [
+                        58.409343,
+                        23.594301
+                  ]
+            },
+            {
+                  "name": "Tho Al Noorain Mosque",
+                  "text": "A Tho Al Noorain mecset iszlám spirituális helyként szolgál Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.407599,
+                        23.602073
+                  ]
+            },
+            {
+                  "name": "Ibrahim Al Khalil Mosque",
+                  "text": "Az Ibrahim Al Khalil mecset a muszlimok vallási célpontja Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.402522,
+                        23.600773
+                  ]
+            },
+            {
+                  "name": "Masjid Abi AlQasim",
+                  "text": "A Masjid Abi AlQasim egy működő iszlám vallási hely a hívők számára Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.436287,
+                        23.591593
+                  ]
+            },
+            {
+                  "name": "Masjid As' Sultan Said Bin Taimur",
+                  "text": "A Masjid As' Sultan Said Bin Taimur egy kiemelkedő muszlim istentiszteleti hely Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.430848,
+                        23.583831
+                  ]
+            },
+            {
+                  "name": "A'Ssalam Mosque",
+                  "text": "Az A'Ssalam mecset egy hagyományos iszlám istentiszteleti hely Maszkatban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.440683,
+                        23.577824
+                  ]
+            },
+            {
+                  "name": "Fanja Sights Shopping",
+                  "text": "A Fanja Sights Shopping egy különféle árukat kínáló piac Maszkatban.",
+                  "category": "cultural",
+                  "coords": [
+                        58.432738,
+                        23.592344
+                  ]
+            },
+            {
+                  "name": "Noor Shopping",
+                  "text": "A Noor Shopping egy vásárlókat kiszolgáló piactér Maszkatban.",
+                  "category": "cultural",
+                  "coords": [
+                        58.434255,
+                        23.593824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snow Oman",
+                  "text": "Snow Oman este un parc de zăpadă acoperit care oferă atracții cu tematică de iarnă în Muscat.",
+                  "category": "recreational",
+                  "coords": [
+                        58.407074,
+                        23.573154
+                  ]
+            },
+            {
+                  "name": "Oman Natural History Museum",
+                  "text": "Muzeul de Istorie Naturală din Oman găzduiește expoziții despre flora, fauna și geologia locală.",
+                  "category": "museum",
+                  "coords": [
+                        58.422706,
+                        23.598823
+                  ]
+            },
+            {
+                  "name": "Muscat Flagpole",
+                  "text": "Catargul Muscat este un punct de reper proeminent care prezintă steagul național în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        58.431961,
+                        23.597986
+                  ]
+            },
+            {
+                  "name": "Al Khuwair Natural Reserve",
+                  "text": "Rezervația Naturală Al Khuwair este o zonă protejată care conservă ecosistemul natural din Muscat.",
+                  "category": "natural",
+                  "coords": [
+                        58.418025,
+                        23.586786
+                  ]
+            },
+            {
+                  "name": "Al Zawawi Mosque",
+                  "text": "Moscheea Al Zawawi este un punct de reper islamic frumos proiectat din Muscat.",
+                  "category": "religious",
+                  "coords": [
+                        58.422176,
+                        23.596162
+                  ]
+            },
+            {
+                  "name": "Baushar Mosque",
+                  "text": "Moscheea Baushar este un lăcaș de cult islamic situat în zona Baushar din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.414702,
+                        23.560951
+                  ]
+            },
+            {
+                  "name": "Al Jaleel Mosque",
+                  "text": "Moscheea Al Jaleel este o moschee care deservește comunitatea musulmană locală din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.422114,
+                        23.563089
+                  ]
+            },
+            {
+                  "name": "Al Haqq Mosque",
+                  "text": "Moscheea Al Haqq este un lăcaș de cult dedicat, situat în Muscat.",
+                  "category": "religious",
+                  "coords": [
+                        58.441021,
+                        23.584618
+                  ]
+            },
+            {
+                  "name": "Al Khuwair Mosque",
+                  "text": "Moscheea Al Khuwair este un centru spiritual pentru cultul islamic din cartierul Al Khuwair.",
+                  "category": "landmark",
+                  "coords": [
+                        58.421643,
+                        23.575289
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "Masjid Ar-Rahmah oferă un lăcaș de cult liniștit pentru comunitatea musulmană din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.40624,
+                        23.58036
+                  ]
+            },
+            {
+                  "name": "Jama'a al-Imam Nur al-Din al-Sa'alimi Mosque",
+                  "text": "Moscheea Jama'a al-Imam Nur al-Din al-Sa'alimi este un sit religios important pentru musulmanii din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.432736,
+                        23.594573
+                  ]
+            },
+            {
+                  "name": "Al Huda Mosque",
+                  "text": "Moscheea Al Huda este un lăcaș de cult islamic situat în Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.401617,
+                        23.585517
+                  ]
+            },
+            {
+                  "name": "Mohammed Al Ameen Mosque Building",
+                  "text": "Clădirea moscheii Mohammed Al Ameen este o structură religioasă din Muscat.",
+                  "category": "religious",
+                  "coords": [
+                        58.414048,
+                        23.578442
+                  ]
+            },
+            {
+                  "name": "Hayy al Bydhaa' Mosque",
+                  "text": "Moscheea Hayy al Bydhaa' servește ca lăcaș de cult musulman în Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.424082,
+                        23.566501
+                  ]
+            },
+            {
+                  "name": "Al Sahabi Al Jalil Ammar Bin Yasser Mosque",
+                  "text": "Aceasta este o moschee locală care deservește comunitatea musulmană din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.429014,
+                        23.571323
+                  ]
+            },
+            {
+                  "name": "Al Shidhani Mosque",
+                  "text": "Moscheea Al Shidhani este un lăcaș de cult musulman activ din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.426116,
+                        23.580797
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abi Rawaha Mosque",
+                  "text": "Moscheea Abdullah Ibn Abi Rawaha oferă un spațiu pentru rugăciunile islamice din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.424638,
+                        23.584683
+                  ]
+            },
+            {
+                  "name": "Hillat Al Najd Mosque",
+                  "text": "Moscheea Hillat Al Najd este un loc islamic tradițional situat în Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.398659,
+                        23.586088
+                  ]
+            },
+            {
+                  "name": "Muallim Hasan Mosque",
+                  "text": "Moscheea Muallim Hasan servește credincioșilor ca sit religios islamic în Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.400624,
+                        23.587309
+                  ]
+            },
+            {
+                  "name": "North Ghubrah Mosque",
+                  "text": "Moscheea din North Ghubrah este un important lăcaș de cult musulman situat în Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.402157,
+                        23.587694
+                  ]
+            },
+            {
+                  "name": "Al Tawbah Mosque",
+                  "text": "Moscheea Al Tawbah este o unitate dedicată rugăciunilor islamice din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.399461,
+                        23.594286
+                  ]
+            },
+            {
+                  "name": "Tawi Al Wird Mosque",
+                  "text": "Moscheea Tawi Al Wird este un centru religios pentru comunitatea musulmană locală din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.40288,
+                        23.589081
+                  ]
+            },
+            {
+                  "name": "Noor Mosque",
+                  "text": "Moscheea Noor este un lăcaș de cult local situat în Muscat.",
+                  "category": "religious",
+                  "coords": [
+                        58.409343,
+                        23.594301
+                  ]
+            },
+            {
+                  "name": "Tho Al Noorain Mosque",
+                  "text": "Moscheea Tho Al Noorain servește ca o locație spirituală islamică în Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.407599,
+                        23.602073
+                  ]
+            },
+            {
+                  "name": "Ibrahim Al Khalil Mosque",
+                  "text": "Moscheea Ibrahim Al Khalil este o destinație religioasă pentru musulmanii din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.402522,
+                        23.600773
+                  ]
+            },
+            {
+                  "name": "Masjid Abi AlQasim",
+                  "text": "Masjid Abi AlQasim este un sit islamic funcțional pentru credincioșii din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.436287,
+                        23.591593
+                  ]
+            },
+            {
+                  "name": "Masjid As' Sultan Said Bin Taimur",
+                  "text": "Masjid As' Sultan Said Bin Taimur este un lăcaș de cult musulman important din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.430848,
+                        23.583831
+                  ]
+            },
+            {
+                  "name": "A'Ssalam Mosque",
+                  "text": "Moscheea A'Ssalam este un lăcaș de cult islamic tradițional din Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.440683,
+                        23.577824
+                  ]
+            },
+            {
+                  "name": "Fanja Sights Shopping",
+                  "text": "Fanja Sights Shopping este o piață care oferă o varietate de bunuri în Muscat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.432738,
+                        23.592344
+                  ]
+            },
+            {
+                  "name": "Noor Shopping",
+                  "text": "Noor Shopping este o piață dedicată cumpărătorilor din Muscat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.434255,
+                        23.593824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snow Oman",
+                  "text": "Snow Oman is an indoor snow park providing winter-themed attractions in Muscat.",
+                  "category": "recreational",
+                  "coords": [
+                        58.407074,
+                        23.573154
+                  ]
+            },
+            {
+                  "name": "Oman Natural History Museum",
+                  "text": "The Oman Natural History Museum houses exhibits on the local flora, fauna, and geology.",
+                  "category": "museum",
+                  "coords": [
+                        58.422706,
+                        23.598823
+                  ]
+            },
+            {
+                  "name": "Muscat Flagpole",
+                  "text": "The Muscat Flagpole is a prominent landmark featuring the national flag in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        58.431961,
+                        23.597986
+                  ]
+            },
+            {
+                  "name": "Al Khuwair Natural Reserve",
+                  "text": "Al Khuwair Natural Reserve is a protected area preserving the natural ecosystem in Muscat.",
+                  "category": "natural",
+                  "coords": [
+                        58.418025,
+                        23.586786
+                  ]
+            },
+            {
+                  "name": "Al Zawawi Mosque",
+                  "text": "Al Zawawi Mosque is a beautifully designed Islamic place of worship in Muscat.",
+                  "category": "religious",
+                  "coords": [
+                        58.422176,
+                        23.596162
+                  ]
+            },
+            {
+                  "name": "Baushar Mosque",
+                  "text": "Baushar Mosque is an Islamic place of worship located in the Baushar area of Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.414702,
+                        23.560951
+                  ]
+            },
+            {
+                  "name": "Al Jaleel Mosque",
+                  "text": "Al Jaleel Mosque is a mosque serving the local Muslim community in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.422114,
+                        23.563089
+                  ]
+            },
+            {
+                  "name": "Al Haqq Mosque",
+                  "text": "Al Haqq Mosque is a dedicated place of worship located in Muscat.",
+                  "category": "religious",
+                  "coords": [
+                        58.441021,
+                        23.584618
+                  ]
+            },
+            {
+                  "name": "Al Khuwair Mosque",
+                  "text": "Al Khuwair Mosque is a spiritual center for Islamic worship in the Al Khuwair neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        58.421643,
+                        23.575289
+                  ]
+            },
+            {
+                  "name": "Masjid Ar-Rahmah",
+                  "text": "Masjid Ar-Rahmah offers a serene place of worship for the Muslim community in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.40624,
+                        23.58036
+                  ]
+            },
+            {
+                  "name": "Jama'a al-Imam Nur al-Din al-Sa'alimi Mosque",
+                  "text": "Jama'a al-Imam Nur al-Din al-Sa'alimi Mosque is an important religious site for Muslims in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.432736,
+                        23.594573
+                  ]
+            },
+            {
+                  "name": "Al Huda Mosque",
+                  "text": "The Al Huda Mosque is an Islamic place of worship located in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.401617,
+                        23.585517
+                  ]
+            },
+            {
+                  "name": "Mohammed Al Ameen Mosque Building",
+                  "text": "The Mohammed Al Ameen Mosque Building is a religious structure in Muscat.",
+                  "category": "religious",
+                  "coords": [
+                        58.414048,
+                        23.578442
+                  ]
+            },
+            {
+                  "name": "Hayy al Bydhaa' Mosque",
+                  "text": "Hayy al Bydhaa' Mosque serves as a Muslim place of worship in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.424082,
+                        23.566501
+                  ]
+            },
+            {
+                  "name": "Al Sahabi Al Jalil Ammar Bin Yasser Mosque",
+                  "text": "This is a local mosque serving the Muslim community in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.429014,
+                        23.571323
+                  ]
+            },
+            {
+                  "name": "Al Shidhani Mosque",
+                  "text": "The Al Shidhani Mosque is an active Muslim place of worship in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.426116,
+                        23.580797
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abi Rawaha Mosque",
+                  "text": "The Abdullah Ibn Abi Rawaha Mosque provides a space for Islamic prayers in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.424638,
+                        23.584683
+                  ]
+            },
+            {
+                  "name": "Hillat Al Najd Mosque",
+                  "text": "The Hillat Al Najd Mosque is a traditional Islamic site located in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.398659,
+                        23.586088
+                  ]
+            },
+            {
+                  "name": "Muallim Hasan Mosque",
+                  "text": "The Muallim Hasan Mosque serves worshippers as an Islamic religious site in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.400624,
+                        23.587309
+                  ]
+            },
+            {
+                  "name": "North Ghubrah Mosque",
+                  "text": "The North Ghubrah Mosque is an essential Muslim place of worship situated in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.402157,
+                        23.587694
+                  ]
+            },
+            {
+                  "name": "Al Tawbah Mosque",
+                  "text": "The Al Tawbah Mosque is a dedicated facility for Islamic prayers in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.399461,
+                        23.594286
+                  ]
+            },
+            {
+                  "name": "Tawi Al Wird Mosque",
+                  "text": "Tawi Al Wird Mosque is a religious center for the local Muslim community in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.40288,
+                        23.589081
+                  ]
+            },
+            {
+                  "name": "Noor Mosque",
+                  "text": "The Noor Mosque is a local place of worship located in Muscat.",
+                  "category": "religious",
+                  "coords": [
+                        58.409343,
+                        23.594301
+                  ]
+            },
+            {
+                  "name": "Tho Al Noorain Mosque",
+                  "text": "Tho Al Noorain Mosque serves as an Islamic spiritual location within Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.407599,
+                        23.602073
+                  ]
+            },
+            {
+                  "name": "Ibrahim Al Khalil Mosque",
+                  "text": "The Ibrahim Al Khalil Mosque is a religious destination for Muslims in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.402522,
+                        23.600773
+                  ]
+            },
+            {
+                  "name": "Masjid Abi AlQasim",
+                  "text": "Masjid Abi AlQasim is a functioning Islamic site for worshippers in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.436287,
+                        23.591593
+                  ]
+            },
+            {
+                  "name": "Masjid As' Sultan Said Bin Taimur",
+                  "text": "Masjid As' Sultan Said Bin Taimur is a prominent Muslim place of worship in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.430848,
+                        23.583831
+                  ]
+            },
+            {
+                  "name": "A'Ssalam Mosque",
+                  "text": "A'Ssalam Mosque is a traditional Islamic worship venue in Muscat.",
+                  "category": "landmark",
+                  "coords": [
+                        58.440683,
+                        23.577824
+                  ]
+            },
+            {
+                  "name": "Fanja Sights Shopping",
+                  "text": "Fanja Sights Shopping is a marketplace offering a variety of goods in Muscat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.432738,
+                        23.592344
+                  ]
+            },
+            {
+                  "name": "Noor Shopping",
+                  "text": "Noor Shopping is a marketplace destination catering to shoppers in Muscat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.434255,
+                        23.593824
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-MA",
     coords: [58.4059, 23.5859],
@@ -46,7 +1135,1096 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Capitale depuis 1793 (dynastie Al-Bu-Said)", "Agglomération d'environ 1,7 million d'habitants", "Expulsion des Portugais en 1650 par Sultan bin Saif", "Grande Mosquée inaugurée en 2001 (20 000 places)", "Forts Al-Jalali et Al-Mirani du XVIe siècle", "Port Mina Sultan Qaboos, porte de l'océan Indien", "Palais Royal Al Alam dans le Vieux Mascate", "Cœur économique et commercial du sultanat"],
     }, image: "/poi-images/muscat-cities-v2.webp"},
   {
-    id: "salalah-cities-v2",
+    id: "salalah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salalah Museum",
+                  "text": "Salalah Museum ist ein Museum in der Stadt salalah-cities-v2.",
+                  "category": "museum",
+                  "coords": [
+                        54.086355,
+                        17.022675
+                  ]
+            },
+            {
+                  "name": "Modern facade Salalah",
+                  "text": "Modern facade Salalah ist ein Aussichtspunkt in der Stadt salalah-cities-v2.",
+                  "category": "natural",
+                  "coords": [
+                        54.06502,
+                        17.056816
+                  ]
+            },
+            {
+                  "name": "Sultan Palace",
+                  "text": "Sultan Palace ist eine Sehenswürdigkeit in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.096825,
+                        16.999295
+                  ]
+            },
+            {
+                  "name": "BMI",
+                  "text": "BMI ist eine Sehenswürdigkeit in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.104317,
+                        17.014407
+                  ]
+            },
+            {
+                  "name": "Tomb of Nabi Umran",
+                  "text": "Tomb of Nabi Umran ist eine Sehenswürdigkeit in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.111333,
+                        17.021428
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Clock Tower ist eine Sehenswürdigkeit in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.111759,
+                        17.025026
+                  ]
+            },
+            {
+                  "name": "Taurus Salalah",
+                  "text": "Taurus Salalah ist eine Sehenswürdigkeit in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.114401,
+                        17.024692
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Park von Salala",
+                  "text": "Salalah Public Park ist ein Park in der Stadt salalah-cities-v2.",
+                  "category": "park",
+                  "coords": [
+                        54.070998,
+                        17.012537
+                  ]
+            },
+            {
+                  "name": "Masjid Al Zawiyah",
+                  "text": "Masjid Al Zawiyah ist eine Moschee in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.106072,
+                        17.019026
+                  ]
+            },
+            {
+                  "name": "Masjed al Huda",
+                  "text": "Masjed al Huda ist eine Moschee in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.079151,
+                        17.020458
+                  ]
+            },
+            {
+                  "name": "Masjed al Baramah",
+                  "text": "Masjed al Baramah ist eine Moschee in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.081045,
+                        17.010042
+                  ]
+            },
+            {
+                  "name": "Masjed Baghadeereh",
+                  "text": "Masjed Baghadeereh ist eine Moschee in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.079434,
+                        17.009615
+                  ]
+            },
+            {
+                  "name": "Masjed Aljama",
+                  "text": "Masjed Aljama ist eine Moschee in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.099612,
+                        17.010889
+                  ]
+            },
+            {
+                  "name": "Masjed Ahmed Bin Ali",
+                  "text": "Masjed Ahmed Bin Ali ist eine Moschee in der Stadt salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.100846,
+                        17.019441
+                  ]
+            },
+            {
+                  "name": "Krishna Temple",
+                  "text": "Der Krishna-Tempel ist eine hinduistische Kultstätte in Salalah.",
+                  "category": "religious",
+                  "coords": [
+                        54.115448,
+                        17.023337
+                  ]
+            },
+            {
+                  "name": "Footprints of the Prophet Saleh Camel",
+                  "text": "Die Fußabdrücke des Kamels des Propheten Saleh sind eine religiöse Stätte in Salalah.",
+                  "category": "religious",
+                  "coords": [
+                        54.114801,
+                        17.018034
+                  ]
+            },
+            {
+                  "name": "Masjed ash Shanfari",
+                  "text": "Die Masjed ash Shanfari ist eine Moschee in der Stadt Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.109915,
+                        17.010272
+                  ]
+            },
+            {
+                  "name": "Huda mosque in New Salalah",
+                  "text": "Die Huda-Moschee in Neu-Salalah ist ein islamisches Gotteshaus.",
+                  "category": "landmark",
+                  "coords": [
+                        54.08501,
+                        17.019687
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar Al Rawas",
+                  "text": "Die Moschee von Omar Al Rawas ist eine Moschee in Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.088582,
+                        17.015742
+                  ]
+            },
+            {
+                  "name": "Sunrise Mosque",
+                  "text": "Die Sunrise-Moschee ist eine islamische Kultstätte in Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.103073,
+                        17.000242
+                  ]
+            },
+            {
+                  "name": "Sultan-Qabus-Moschee von Salala",
+                  "text": "Die Sultan-Qabus-Moschee in Salalah ist die wichtigste Moschee der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        54.093868,
+                        17.017195
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Die Sultan-Qabus-Moschee ist ein islamisches Gotteshaus in Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.100457,
+                        17.022858
+                  ]
+            },
+            {
+                  "name": "Masjid-Salman al-Farsi",
+                  "text": "Die Moschee Salman al-Farsi ist eine Moschee in Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.113227,
+                        17.019098
+                  ]
+            },
+            {
+                  "name": "Commercial Market",
+                  "text": "Der Commercial Market ist ein lokaler Marktplatz in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.081435,
+                        17.021554
+                  ]
+            },
+            {
+                  "name": "Al Dhaman Shopping",
+                  "text": "Al Dhaman Shopping ist ein Markt und Einkaufsort in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.082823,
+                        17.017482
+                  ]
+            },
+            {
+                  "name": "Food STuff & Luxuries",
+                  "text": "Food STuff & Luxuries ist ein Lebensmittel- und Spezialitätenmarkt in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.081822,
+                        17.019133
+                  ]
+            },
+            {
+                  "name": "Al Nomsiah Commercial Market",
+                  "text": "Der Al Nomsiah Commercial Market ist ein lokaler Markt in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.078444,
+                        17.01554
+                  ]
+            },
+            {
+                  "name": "Foodstuff",
+                  "text": "Foodstuff ist ein lokaler Lebensmittelmarkt in der Stadt Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.075805,
+                        17.018136
+                  ]
+            },
+            {
+                  "name": "Al Qoaf Line Commercial Market",
+                  "text": "Der Al Qoaf Line Commercial Market ist ein Marktplatz in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.109874,
+                        17.016776
+                  ]
+            },
+            {
+                  "name": "Gold Market",
+                  "text": "Der Gold Market ist ein Markt für Schmuck und Edelmetalle in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.093154,
+                        17.012239
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salalah Museum",
+                  "text": "A(z) Salalah Museum egy múzeum salalah-cities-v2 városában.",
+                  "category": "museum",
+                  "coords": [
+                        54.086355,
+                        17.022675
+                  ]
+            },
+            {
+                  "name": "Modern facade Salalah",
+                  "text": "A(z) Modern facade Salalah egy kilátó salalah-cities-v2 városában.",
+                  "category": "natural",
+                  "coords": [
+                        54.06502,
+                        17.056816
+                  ]
+            },
+            {
+                  "name": "Sultan Palace",
+                  "text": "A(z) Sultan Palace egy turisztikai látványosság salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.096825,
+                        16.999295
+                  ]
+            },
+            {
+                  "name": "BMI",
+                  "text": "A(z) BMI egy turisztikai látványosság salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.104317,
+                        17.014407
+                  ]
+            },
+            {
+                  "name": "Tomb of Nabi Umran",
+                  "text": "A(z) Tomb of Nabi Umran egy turisztikai látványosság salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.111333,
+                        17.021428
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "A(z) Clock Tower egy turisztikai látványosság salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.111759,
+                        17.025026
+                  ]
+            },
+            {
+                  "name": "Taurus Salalah",
+                  "text": "A(z) Taurus Salalah egy turisztikai látványosság salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.114401,
+                        17.024692
+                  ]
+            },
+            {
+                  "name": "Salalah Public Park",
+                  "text": "A(z) Salalah Public Park egy park salalah-cities-v2 városában.",
+                  "category": "park",
+                  "coords": [
+                        54.070998,
+                        17.012537
+                  ]
+            },
+            {
+                  "name": "Masjid Al Zawiyah",
+                  "text": "A(z) Masjid Al Zawiyah egy mecset salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.106072,
+                        17.019026
+                  ]
+            },
+            {
+                  "name": "Masjed al Huda",
+                  "text": "A(z) Masjed al Huda egy mecset salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.079151,
+                        17.020458
+                  ]
+            },
+            {
+                  "name": "Masjed al Baramah",
+                  "text": "A(z) Masjed al Baramah egy mecset salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.081045,
+                        17.010042
+                  ]
+            },
+            {
+                  "name": "Masjed Baghadeereh",
+                  "text": "A(z) Masjed Baghadeereh egy mecset salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.079434,
+                        17.009615
+                  ]
+            },
+            {
+                  "name": "Masjed Aljama",
+                  "text": "A(z) Masjed Aljama egy mecset salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.099612,
+                        17.010889
+                  ]
+            },
+            {
+                  "name": "Masjed Ahmed Bin Ali",
+                  "text": "A(z) Masjed Ahmed Bin Ali egy mecset salalah-cities-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.100846,
+                        17.019441
+                  ]
+            },
+            {
+                  "name": "Krishna Temple",
+                  "text": "A Krishna-templom egy hindu istentiszteleti hely Szalála városában.",
+                  "category": "religious",
+                  "coords": [
+                        54.115448,
+                        17.023337
+                  ]
+            },
+            {
+                  "name": "Footprints of the Prophet Saleh Camel",
+                  "text": "Szálih próféta tevéjének lábnyomai egy vallási jelentőségű hely Szalálában.",
+                  "category": "religious",
+                  "coords": [
+                        54.114801,
+                        17.018034
+                  ]
+            },
+            {
+                  "name": "Masjed ash Shanfari",
+                  "text": "A Masjed ash Shanfari egy mecset Szalála városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.109915,
+                        17.010272
+                  ]
+            },
+            {
+                  "name": "Huda mosque in New Salalah",
+                  "text": "Az új-szalálai Huda-mecset egy iszlám istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        54.08501,
+                        17.019687
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar Al Rawas",
+                  "text": "Az Omar Al Rawas mecset egy vallási épület Szalála városában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.088582,
+                        17.015742
+                  ]
+            },
+            {
+                  "name": "Sunrise Mosque",
+                  "text": "A Sunrise-mecset egy iszlám vallási épület Szalálában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.103073,
+                        17.000242
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque of Salala",
+                  "text": "A szalálai Sultan Qaboos-mecset a város legjelentősebb mecsete.",
+                  "category": "landmark",
+                  "coords": [
+                        54.093868,
+                        17.017195
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "A Sultan Qaboos-mecset egy muszlim istentiszteleti hely Szalálában.",
+                  "category": "landmark",
+                  "coords": [
+                        54.100457,
+                        17.022858
+                  ]
+            },
+            {
+                  "name": "Masjid-Salman al-Farsi",
+                  "text": "A Salman al-Farsi mecset Szalála városának egyik iszlám épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        54.113227,
+                        17.019098
+                  ]
+            },
+            {
+                  "name": "Commercial Market",
+                  "text": "A Commercial Market egy helyi piac Szalála városában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.081435,
+                        17.021554
+                  ]
+            },
+            {
+                  "name": "Al Dhaman Shopping",
+                  "text": "Az Al Dhaman Shopping egy piac és bevásárlóhely Szalála városában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.082823,
+                        17.017482
+                  ]
+            },
+            {
+                  "name": "Food STuff & Luxuries",
+                  "text": "A Food STuff & Luxuries egy élelmiszer- és luxuscikkpiac Szalála városában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.081822,
+                        17.019133
+                  ]
+            },
+            {
+                  "name": "Al Nomsiah Commercial Market",
+                  "text": "Az Al Nomsiah Commercial Market egy helyi piac Szalálában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.078444,
+                        17.01554
+                  ]
+            },
+            {
+                  "name": "Foodstuff",
+                  "text": "A Foodstuff egy helyi élelmiszerpiac Szalála városában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.075805,
+                        17.018136
+                  ]
+            },
+            {
+                  "name": "Al Qoaf Line Commercial Market",
+                  "text": "Az Al Qoaf Line Commercial Market egy helyi piac Szalálában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.109874,
+                        17.016776
+                  ]
+            },
+            {
+                  "name": "Gold Market",
+                  "text": "A Gold Market egy ékszereket és nemesfémeket árusító piac Szalálában.",
+                  "category": "cultural",
+                  "coords": [
+                        54.093154,
+                        17.012239
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salalah Museum",
+                  "text": "Salalah Museum este un muzeu situat în orașul salalah-cities-v2.",
+                  "category": "museum",
+                  "coords": [
+                        54.086355,
+                        17.022675
+                  ]
+            },
+            {
+                  "name": "Modern facade Salalah",
+                  "text": "Modern facade Salalah este un punct de belvedere situat în orașul salalah-cities-v2.",
+                  "category": "natural",
+                  "coords": [
+                        54.06502,
+                        17.056816
+                  ]
+            },
+            {
+                  "name": "Sultan Palace",
+                  "text": "Sultan Palace este o atracție turistică situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.096825,
+                        16.999295
+                  ]
+            },
+            {
+                  "name": "BMI",
+                  "text": "BMI este o atracție turistică situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.104317,
+                        17.014407
+                  ]
+            },
+            {
+                  "name": "Tomb of Nabi Umran",
+                  "text": "Tomb of Nabi Umran este o atracție turistică situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.111333,
+                        17.021428
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Clock Tower este o atracție turistică situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.111759,
+                        17.025026
+                  ]
+            },
+            {
+                  "name": "Taurus Salalah",
+                  "text": "Taurus Salalah este o atracție turistică situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.114401,
+                        17.024692
+                  ]
+            },
+            {
+                  "name": "Salalah Public Park",
+                  "text": "Salalah Public Park este un parc situat în orașul salalah-cities-v2.",
+                  "category": "park",
+                  "coords": [
+                        54.070998,
+                        17.012537
+                  ]
+            },
+            {
+                  "name": "Masjid Al Zawiyah",
+                  "text": "Masjid Al Zawiyah este o moschee situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.106072,
+                        17.019026
+                  ]
+            },
+            {
+                  "name": "Masjed al Huda",
+                  "text": "Masjed al Huda este o moschee situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.079151,
+                        17.020458
+                  ]
+            },
+            {
+                  "name": "Masjed al Baramah",
+                  "text": "Masjed al Baramah este o moschee situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.081045,
+                        17.010042
+                  ]
+            },
+            {
+                  "name": "Masjed Baghadeereh",
+                  "text": "Masjed Baghadeereh este o moschee situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.079434,
+                        17.009615
+                  ]
+            },
+            {
+                  "name": "Masjed Aljama",
+                  "text": "Masjed Aljama este o moschee situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.099612,
+                        17.010889
+                  ]
+            },
+            {
+                  "name": "Masjed Ahmed Bin Ali",
+                  "text": "Masjed Ahmed Bin Ali este o moschee situată în orașul salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.100846,
+                        17.019441
+                  ]
+            },
+            {
+                  "name": "Krishna Temple",
+                  "text": "Templul Krishna este un lăcaș de cult hindus din Salalah.",
+                  "category": "religious",
+                  "coords": [
+                        54.115448,
+                        17.023337
+                  ]
+            },
+            {
+                  "name": "Footprints of the Prophet Saleh Camel",
+                  "text": "Urmele Cămilei Profetului Saleh reprezintă un sit religios din Salalah.",
+                  "category": "religious",
+                  "coords": [
+                        54.114801,
+                        17.018034
+                  ]
+            },
+            {
+                  "name": "Masjed ash Shanfari",
+                  "text": "Masjed ash Shanfari este o moschee situată în Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.109915,
+                        17.010272
+                  ]
+            },
+            {
+                  "name": "Huda mosque in New Salalah",
+                  "text": "Moscheea Huda din Noul Salalah este un lăcaș de cult islamic.",
+                  "category": "landmark",
+                  "coords": [
+                        54.08501,
+                        17.019687
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar Al Rawas",
+                  "text": "Moscheea lui Omar Al Rawas este o moschee din orașul Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.088582,
+                        17.015742
+                  ]
+            },
+            {
+                  "name": "Sunrise Mosque",
+                  "text": "Moscheea Sunrise este un lăcaș de cult islamic din Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.103073,
+                        17.000242
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque of Salala",
+                  "text": "Moscheea Sultanului Qaboos din Salalah este cea mai importantă moschee din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        54.093868,
+                        17.017195
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Moscheea Sultanului Qaboos este un lăcaș de cult musulman din Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.100457,
+                        17.022858
+                  ]
+            },
+            {
+                  "name": "Masjid-Salman al-Farsi",
+                  "text": "Moscheea Salman al-Farsi este un lăcaș de cult din Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.113227,
+                        17.019098
+                  ]
+            },
+            {
+                  "name": "Commercial Market",
+                  "text": "Commercial Market este o piață locală situată în Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.081435,
+                        17.021554
+                  ]
+            },
+            {
+                  "name": "Al Dhaman Shopping",
+                  "text": "Al Dhaman Shopping este o piață și zonă de cumpărături din Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.082823,
+                        17.017482
+                  ]
+            },
+            {
+                  "name": "Food STuff & Luxuries",
+                  "text": "Food STuff & Luxuries este o piață de alimente și bunuri de lux din Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.081822,
+                        17.019133
+                  ]
+            },
+            {
+                  "name": "Al Nomsiah Commercial Market",
+                  "text": "Al Nomsiah Commercial Market este o piață locală din Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.078444,
+                        17.01554
+                  ]
+            },
+            {
+                  "name": "Foodstuff",
+                  "text": "Foodstuff este o piață alimentară locală din orașul Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.075805,
+                        17.018136
+                  ]
+            },
+            {
+                  "name": "Al Qoaf Line Commercial Market",
+                  "text": "Al Qoaf Line Commercial Market este o piață situată în Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.109874,
+                        17.016776
+                  ]
+            },
+            {
+                  "name": "Gold Market",
+                  "text": "Piața de aur (Gold Market) este o piață de bijuterii din Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.093154,
+                        17.012239
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salalah Museum",
+                  "text": "Salalah Museum is a museum located in the city of salalah-cities-v2.",
+                  "category": "museum",
+                  "coords": [
+                        54.086355,
+                        17.022675
+                  ]
+            },
+            {
+                  "name": "Modern facade Salalah",
+                  "text": "Modern facade Salalah is a viewpoint located in the city of salalah-cities-v2.",
+                  "category": "natural",
+                  "coords": [
+                        54.06502,
+                        17.056816
+                  ]
+            },
+            {
+                  "name": "Sultan Palace",
+                  "text": "Sultan Palace is a tourist attraction located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.096825,
+                        16.999295
+                  ]
+            },
+            {
+                  "name": "BMI",
+                  "text": "BMI is a tourist attraction located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.104317,
+                        17.014407
+                  ]
+            },
+            {
+                  "name": "Tomb of Nabi Umran",
+                  "text": "Tomb of Nabi Umran is a tourist attraction located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.111333,
+                        17.021428
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Clock Tower is a tourist attraction located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.111759,
+                        17.025026
+                  ]
+            },
+            {
+                  "name": "Taurus Salalah",
+                  "text": "Taurus Salalah is a tourist attraction located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.114401,
+                        17.024692
+                  ]
+            },
+            {
+                  "name": "Salalah Public Park",
+                  "text": "Salalah Public Park is a park located in the city of salalah-cities-v2.",
+                  "category": "park",
+                  "coords": [
+                        54.070998,
+                        17.012537
+                  ]
+            },
+            {
+                  "name": "Masjid Al Zawiyah",
+                  "text": "Masjid Al Zawiyah is a mosque located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.106072,
+                        17.019026
+                  ]
+            },
+            {
+                  "name": "Masjed al Huda",
+                  "text": "Masjed al Huda is a mosque located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.079151,
+                        17.020458
+                  ]
+            },
+            {
+                  "name": "Masjed al Baramah",
+                  "text": "Masjed al Baramah is a mosque located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.081045,
+                        17.010042
+                  ]
+            },
+            {
+                  "name": "Masjed Baghadeereh",
+                  "text": "Masjed Baghadeereh is a mosque located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.079434,
+                        17.009615
+                  ]
+            },
+            {
+                  "name": "Masjed Aljama",
+                  "text": "Masjed Aljama is a mosque located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.099612,
+                        17.010889
+                  ]
+            },
+            {
+                  "name": "Masjed Ahmed Bin Ali",
+                  "text": "Masjed Ahmed Bin Ali is a mosque located in the city of salalah-cities-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        54.100846,
+                        17.019441
+                  ]
+            },
+            {
+                  "name": "Krishna Temple",
+                  "text": "The Krishna Temple is a place of worship in Salalah.",
+                  "category": "religious",
+                  "coords": [
+                        54.115448,
+                        17.023337
+                  ]
+            },
+            {
+                  "name": "Footprints of the Prophet Saleh Camel",
+                  "text": "The Footprints of the Prophet Saleh Camel is a religious place of worship in Salalah.",
+                  "category": "religious",
+                  "coords": [
+                        54.114801,
+                        17.018034
+                  ]
+            },
+            {
+                  "name": "Masjed ash Shanfari",
+                  "text": "Masjed ash Shanfari is a mosque located in the city of Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.109915,
+                        17.010272
+                  ]
+            },
+            {
+                  "name": "Huda mosque in New Salalah",
+                  "text": "The Huda mosque in New Salalah is an Islamic place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        54.08501,
+                        17.019687
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar Al Rawas",
+                  "text": "The Mosque of Omar Al Rawas is a mosque situated in Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.088582,
+                        17.015742
+                  ]
+            },
+            {
+                  "name": "Sunrise Mosque",
+                  "text": "The Sunrise Mosque is an Islamic place of worship in Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.103073,
+                        17.000242
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque of Salala",
+                  "text": "The Sultan Qaboos Mosque of Salala is the main mosque in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        54.093868,
+                        17.017195
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "The Sultan Qaboos Mosque is a prominent Islamic place of worship in Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.100457,
+                        17.022858
+                  ]
+            },
+            {
+                  "name": "Mosque Salman al-Farsi",
+                  "text": "The Mosque Salman al-Farsi is a mosque located in Salalah.",
+                  "category": "landmark",
+                  "coords": [
+                        54.113227,
+                        17.019098
+                  ]
+            },
+            {
+                  "name": "Commercial Market",
+                  "text": "The Commercial Market is a local marketplace in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.081435,
+                        17.021554
+                  ]
+            },
+            {
+                  "name": "Al Dhaman Shopping",
+                  "text": "Al Dhaman Shopping is a market and shopping area in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.082823,
+                        17.017482
+                  ]
+            },
+            {
+                  "name": "Food STuff & Luxuries",
+                  "text": "Food STuff & Luxuries is a food and luxury goods market in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.081822,
+                        17.019133
+                  ]
+            },
+            {
+                  "name": "Al Nomsiah Commercial Market",
+                  "text": "The Al Nomsiah Commercial Market is a local marketplace in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.078444,
+                        17.01554
+                  ]
+            },
+            {
+                  "name": "Foodstuff",
+                  "text": "Foodstuff is a local food marketplace in the city of Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.075805,
+                        17.018136
+                  ]
+            },
+            {
+                  "name": "Al Qoaf Line Commercial Market",
+                  "text": "The Al Qoaf Line Commercial Market is a marketplace located in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.109874,
+                        17.016776
+                  ]
+            },
+            {
+                  "name": "Gold Market",
+                  "text": "The Gold Market is a marketplace for jewelry and precious metals in Salalah.",
+                  "category": "cultural",
+                  "coords": [
+                        54.093154,
+                        17.012239
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-ZU",
     coords: [54.0924, 17.0151],
@@ -89,7 +2267,196 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 350 000 habitants, 2e ville après Mascate", "Capitale de la province du Dhofar au sud du sultanat", "La mousson Khareef apporte pluie et collines vertes", "Lieu de naissance du sultan Qabus bin Said en 1940", "Centre historique du commerce de l'encens (Boswellia sacra)", "Patrimoine UNESCO Al-Baleed et Sumhuram", "Le port de Salalah est un grand centre de conteneurs", "À plus de 1000 kilomètres de la capitale Mascate"],
     }, image: "/poi-images/salalah-cities-v2.webp"},
   {
-    id: "nizwa-cities-v2",
+    id: "nizwa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nizwa Fort",
+                  "text": "Das Nizwa Fort ist eine massive Burg aus dem 17. Jahrhundert, die für ihren gewaltigen, runden Kanonenturm bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        57.530067,
+                        22.933206
+                  ]
+            },
+            {
+                  "name": "Al Alamath abu al hawary Mosque",
+                  "text": "Die Al Alamath abu al hawary Moschee ist eine lokale Kultstätte, die der islamischen Gemeinde in Nizwa für ihre Gebete zur Verfügung steht.",
+                  "category": "religious",
+                  "coords": [
+                        57.531276,
+                        23.005868
+                  ]
+            },
+            {
+                  "name": "Alshawadhna mosque",
+                  "text": "Die Alshawadhna-Moschee ist ein islamisches Gotteshaus, das sich in die traditionelle Stadtarchitektur von Nizwa einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530605,
+                        22.931312
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Die Sultan-Qabus-Moschee in Nizwa ist eine prächtige islamische Freitagsmoschee, die durch ihre weithin sichtbare Kuppel besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        57.53098,
+                        22.933578
+                  ]
+            },
+            {
+                  "name": "Al Rahman Majid",
+                  "text": "Die Al Rahman Majid ist eine islamische Moschee, in der die muslimische Einwohnerschaft von Nizwa zusammenkommt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.528516,
+                        22.953681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nizwa Fort",
+                  "text": "A Nizwa erőd egy masszív 17. századi kastély, amely hatalmas, kerek ágyútornyáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        57.530067,
+                        22.933206
+                  ]
+            },
+            {
+                  "name": "Al Alamath abu al hawary Mosque",
+                  "text": "Az Al Alamath abu al hawary mecset egy helyi imahely, amely a nizwai iszlám közösség imáit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        57.531276,
+                        23.005868
+                  ]
+            },
+            {
+                  "name": "Alshawadhna mosque",
+                  "text": "Az Alshawadhna mecset egy iszlám imahely, amely illeszkedik Nizwa hagyományos városi építészetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530605,
+                        22.931312
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "A nizwai Sultan Qaboos mecset egy csodálatos iszlám pénteki mecset, amely messziről látható kupolájával nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        57.53098,
+                        22.933578
+                  ]
+            },
+            {
+                  "name": "Al Rahman Majid",
+                  "text": "Az Al Rahman Majid egy iszlám mecset, ahol Nizwa muszlim lakossága gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        57.528516,
+                        22.953681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nizwa Fort",
+                  "text": "Fortul Nizwa este un castel masiv din secolul al XVII-lea, renumit pentru uriașul său turn cilindric de tunuri.",
+                  "category": "castle",
+                  "coords": [
+                        57.530067,
+                        22.933206
+                  ]
+            },
+            {
+                  "name": "Al Alamath abu al hawary Mosque",
+                  "text": "Moscheea Al Alamath abu al hawary este un lăcaș de cult local, disponibil pentru rugăciunile comunității islamice din Nizwa.",
+                  "category": "religious",
+                  "coords": [
+                        57.531276,
+                        23.005868
+                  ]
+            },
+            {
+                  "name": "Alshawadhna mosque",
+                  "text": "Moscheea Alshawadhna este un lăcaș de cult islamic care se integrează în arhitectura urbană tradițională din Nizwa.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530605,
+                        22.931312
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Moscheea Sultan Qaboos din Nizwa este o magnifică moschee de vineri islamică, impresionantă prin cupola sa vizibilă de departe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.53098,
+                        22.933578
+                  ]
+            },
+            {
+                  "name": "Al Rahman Majid",
+                  "text": "Al Rahman Majid este o moschee islamică unde se adună rezidenții musulmani din Nizwa.",
+                  "category": "landmark",
+                  "coords": [
+                        57.528516,
+                        22.953681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nizwa Fort",
+                  "text": "Nizwa Fort is a massive 17th-century castle renowned for its huge, cylindrical cannon tower.",
+                  "category": "castle",
+                  "coords": [
+                        57.530067,
+                        22.933206
+                  ]
+            },
+            {
+                  "name": "Al Alamath abu al hawary Mosque",
+                  "text": "The Al Alamath abu al hawary Mosque is a local place of worship accommodating the Islamic community's prayers in Nizwa.",
+                  "category": "religious",
+                  "coords": [
+                        57.531276,
+                        23.005868
+                  ]
+            },
+            {
+                  "name": "Alshawadhna mosque",
+                  "text": "The Alshawadhna mosque is an Islamic house of prayer blending into the traditional urban architecture of Nizwa.",
+                  "category": "landmark",
+                  "coords": [
+                        57.530605,
+                        22.931312
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "The Sultan Qaboos Mosque in Nizwa is a grand Islamic Friday mosque distinguished by its prominent dome.",
+                  "category": "landmark",
+                  "coords": [
+                        57.53098,
+                        22.933578
+                  ]
+            },
+            {
+                  "name": "Al Rahman Majid",
+                  "text": "The Al Rahman Majid is an Islamic mosque where the Muslim residents of Nizwa gather for worship.",
+                  "category": "landmark",
+                  "coords": [
+                        57.528516,
+                        22.953681
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-DA",
     coords: [57.5300, 22.9333],
@@ -132,7 +2499,448 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["90 000 habitants (Ad Dakhiliyah)", "Fort de Nizwa bâti entre 1649 et 1668", "Tour de 36 m de diamètre, la plus grande d'Oman", "Capitale aux XIIe et XVIIe siècles", "Foyer de la doctrine religieuse ibadite", "Marché aux bestiaux et à l'argent le vendredi", "À 165 kilomètres au sud-ouest de Mascate", "Porte vers le djebel Akhdar et les Wahiba Sands"],
     }, image: "/poi-images/nizwa-cities-v2.webp"},
   {
-    id: "sohar-cities-v2",
+    id: "sohar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ministry of Manpower",
+                  "text": "Das Gebäude des Ministry of Manpower in Sohar bietet einen lokalen Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        56.737302,
+                        24.337655
+                  ]
+            },
+            {
+                  "name": "Saud Bahwan Palm Gardens",
+                  "text": "Die Saud Bahwan Palm Gardens sind eine grüne Attraktion in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.732432,
+                        24.330796
+                  ]
+            },
+            {
+                  "name": "Sohar Fort Museum",
+                  "text": "Das Sohar Fort Museum ist eine lokale Einrichtung, die die Geschichte von Sohar bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        56.749629,
+                        24.362141
+                  ]
+            },
+            {
+                  "name": "City Cinema Sohar",
+                  "text": "Das City Cinema Sohar ist ein modernes Kino in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        56.725318,
+                        24.355305
+                  ]
+            },
+            {
+                  "name": "Trust Restaurant",
+                  "text": "Das Trust Restaurant ist eine beliebte kulinarische Attraktion in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.73908,
+                        24.356333
+                  ]
+            },
+            {
+                  "name": "Ghail Shaboul Mosque",
+                  "text": "Die Ghail-Shaboul-Moschee ist ein lokales islamisches Gotteshaus in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.755458,
+                        24.328201
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa Mosque",
+                  "text": "Die Scheich-Khalifa-Moschee ist eine bedeutende muslimische religiöse Stätte in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.711185,
+                        24.371779
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Dieser Gebetsraum fungiert als lokale Moschee für Gläubige in Sohar.",
+                  "category": "religious",
+                  "coords": [
+                        56.782213,
+                        24.294344
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Grand Mosque Sohar",
+                  "text": "Die große Sultan-Qabus-Moschee ist ein majestätisches muslimisches Gotteshaus in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.756919,
+                        24.312696
+                  ]
+            },
+            {
+                  "name": "St.Gregorios Jacobite Syrian Church",
+                  "text": "Die syrisch-jakobitische Kirche St. Gregorios ist eine christliche religiöse Stätte in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.691051,
+                        24.349491
+                  ]
+            },
+            {
+                  "name": "Souq",
+                  "text": "Dieser lokale Souk ist ein traditioneller Marktplatz zum Einkaufen und Handeln in Sohar.",
+                  "category": "cultural",
+                  "coords": [
+                        56.747945,
+                        24.365519
+                  ]
+            },
+            {
+                  "name": "Fresh mart",
+                  "text": "Fresh mart ist ein Marktplatz, der verschiedene Waren in der Stadt Sohar anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        56.703783,
+                        24.371143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ministry of Manpower",
+                  "text": "A Munkaügyi Minisztérium épülete Soharban egy helyi kilátópontot kínál.",
+                  "category": "natural",
+                  "coords": [
+                        56.737302,
+                        24.337655
+                  ]
+            },
+            {
+                  "name": "Saud Bahwan Palm Gardens",
+                  "text": "A Saud Bahwan Pálmakertek egy zöldellő látványosság Soharban.",
+                  "category": "landmark",
+                  "coords": [
+                        56.732432,
+                        24.330796
+                  ]
+            },
+            {
+                  "name": "Sohar Fort Museum",
+                  "text": "A Sohari Erődmúzeum a város történelmét bemutató helyi intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        56.749629,
+                        24.362141
+                  ]
+            },
+            {
+                  "name": "City Cinema Sohar",
+                  "text": "A City Cinema Sohar egy modern mozi a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        56.725318,
+                        24.355305
+                  ]
+            },
+            {
+                  "name": "Trust Restaurant",
+                  "text": "A Trust Restaurant egy népszerű étkezési látványosság Soharban.",
+                  "category": "landmark",
+                  "coords": [
+                        56.73908,
+                        24.356333
+                  ]
+            },
+            {
+                  "name": "Ghail Shaboul Mosque",
+                  "text": "A Ghail Shaboul mecset egy helyi iszlám imahely Soharban.",
+                  "category": "landmark",
+                  "coords": [
+                        56.755458,
+                        24.328201
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa Mosque",
+                  "text": "A Sheikh Khalifa mecset egy kiemelkedő muszlim vallási hely Soharban.",
+                  "category": "landmark",
+                  "coords": [
+                        56.711185,
+                        24.371779
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Ez az imaterem helyi mecsetként szolgál a hívők számára Soharban.",
+                  "category": "religious",
+                  "coords": [
+                        56.782213,
+                        24.294344
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Grand Mosque Sohar",
+                  "text": "A Szultán Kábúsz Nagymecset egy fenséges muszlim imahely Soharban.",
+                  "category": "landmark",
+                  "coords": [
+                        56.756919,
+                        24.312696
+                  ]
+            },
+            {
+                  "name": "St.Gregorios Jacobite Syrian Church",
+                  "text": "A Szent Gergely jakobita szír templom egy keresztény vallási hely Soharban.",
+                  "category": "landmark",
+                  "coords": [
+                        56.691051,
+                        24.349491
+                  ]
+            },
+            {
+                  "name": "Souq",
+                  "text": "Ez a helyi bazár egy hagyományos vásárlási és kereskedelmi piac Soharban.",
+                  "category": "cultural",
+                  "coords": [
+                        56.747945,
+                        24.365519
+                  ]
+            },
+            {
+                  "name": "Fresh mart",
+                  "text": "A Fresh mart egy piac, amely különféle árukat kínál Sohar városában.",
+                  "category": "cultural",
+                  "coords": [
+                        56.703783,
+                        24.371143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ministry of Manpower",
+                  "text": "Clădirea Ministerului Muncii din Sohar oferă un punct de belvedere local.",
+                  "category": "natural",
+                  "coords": [
+                        56.737302,
+                        24.337655
+                  ]
+            },
+            {
+                  "name": "Saud Bahwan Palm Gardens",
+                  "text": "Grădinile de palmieri Saud Bahwan reprezintă o atracție verde în Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.732432,
+                        24.330796
+                  ]
+            },
+            {
+                  "name": "Sohar Fort Museum",
+                  "text": "Muzeul Fortului Sohar este o instituție locală care păstrează istoria orașului Sohar.",
+                  "category": "museum",
+                  "coords": [
+                        56.749629,
+                        24.362141
+                  ]
+            },
+            {
+                  "name": "City Cinema Sohar",
+                  "text": "City Cinema Sohar este un cinematograf modern din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        56.725318,
+                        24.355305
+                  ]
+            },
+            {
+                  "name": "Trust Restaurant",
+                  "text": "Restaurantul Trust este o atracție culinară populară situată în Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.73908,
+                        24.356333
+                  ]
+            },
+            {
+                  "name": "Ghail Shaboul Mosque",
+                  "text": "Moscheea Ghail Shaboul este un lăcaș de cult islamic local din Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.755458,
+                        24.328201
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa Mosque",
+                  "text": "Moscheea Sheikh Khalifa este un important sit religios musulman din Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.711185,
+                        24.371779
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "Această sală de rugăciune funcționează ca o moschee locală pentru credincioșii din Sohar.",
+                  "category": "religious",
+                  "coords": [
+                        56.782213,
+                        24.294344
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Grand Mosque Sohar",
+                  "text": "Marea Moschee Sultan Qaboos este un lăcaș de cult musulman maiestuos din Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.756919,
+                        24.312696
+                  ]
+            },
+            {
+                  "name": "St.Gregorios Jacobite Syrian Church",
+                  "text": "Biserica Siriană Iacobită Sf. Gregorios este un lăcaș de cult creștin situat în Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.691051,
+                        24.349491
+                  ]
+            },
+            {
+                  "name": "Souq",
+                  "text": "Acest souq local este o piață tradițională pentru cumpărături și comerț în Sohar.",
+                  "category": "cultural",
+                  "coords": [
+                        56.747945,
+                        24.365519
+                  ]
+            },
+            {
+                  "name": "Fresh mart",
+                  "text": "Fresh mart este o piață care oferă diverse bunuri în orașul Sohar.",
+                  "category": "cultural",
+                  "coords": [
+                        56.703783,
+                        24.371143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ministry of Manpower",
+                  "text": "The Ministry of Manpower building in Sohar offers a local viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        56.737302,
+                        24.337655
+                  ]
+            },
+            {
+                  "name": "Saud Bahwan Palm Gardens",
+                  "text": "Saud Bahwan Palm Gardens is a green attraction located in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.732432,
+                        24.330796
+                  ]
+            },
+            {
+                  "name": "Sohar Fort Museum",
+                  "text": "The Sohar Fort Museum is a local institution preserving the history of Sohar.",
+                  "category": "museum",
+                  "coords": [
+                        56.749629,
+                        24.362141
+                  ]
+            },
+            {
+                  "name": "City Cinema Sohar",
+                  "text": "City Cinema Sohar is a modern movie theater in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        56.725318,
+                        24.355305
+                  ]
+            },
+            {
+                  "name": "Trust Restaurant",
+                  "text": "Trust Restaurant is a popular dining attraction situated in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.73908,
+                        24.356333
+                  ]
+            },
+            {
+                  "name": "Ghail Shaboul Mosque",
+                  "text": "Ghail Shaboul Mosque is a local Islamic place of worship in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.755458,
+                        24.328201
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa Mosque",
+                  "text": "The Sheikh Khalifa Mosque is a prominent Muslim religious site in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.711185,
+                        24.371779
+                  ]
+            },
+            {
+                  "name": "Prayer Room",
+                  "text": "This prayer room functions as a local mosque for worshippers in Sohar.",
+                  "category": "religious",
+                  "coords": [
+                        56.782213,
+                        24.294344
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Grand Mosque Sohar",
+                  "text": "The Sultan Qaboos Grand Mosque is a majestic Muslim place of worship serving Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.756919,
+                        24.312696
+                  ]
+            },
+            {
+                  "name": "St.Gregorios Jacobite Syrian Church",
+                  "text": "St. Gregorios Jacobite Syrian Church is a Christian religious site located in Sohar.",
+                  "category": "landmark",
+                  "coords": [
+                        56.691051,
+                        24.349491
+                  ]
+            },
+            {
+                  "name": "Souq",
+                  "text": "This local souq is a traditional marketplace for shopping and trading in Sohar.",
+                  "category": "cultural",
+                  "coords": [
+                        56.747945,
+                        24.365519
+                  ]
+            },
+            {
+                  "name": "Fresh mart",
+                  "text": "Fresh mart is a marketplace offering various goods in the city of Sohar.",
+                  "category": "cultural",
+                  "coords": [
+                        56.703783,
+                        24.371143
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-BA",
     coords: [56.7333, 24.3667],
@@ -173,7 +2981,268 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 200 000 habitants sur la côte d'Al Batinah", "Port le plus riche de la région aux IXe et Xe siècles", "Lieu de naissance légendaire du marin Sindbad", "Port en eau profonde Sohar Port depuis 2002", "Fort blanc du XIIIe siècle, aujourd'hui musée", "Industrie de l'aluminium, de l'acier et pétrochimie", "Environ 230 kilomètres au nord-ouest de Mascate", "Zone franche comme moteur économique régional"],
     }, image: "/poi-images/sohar-cities-v2.webp"},
   {
-    id: "sur-cities-v2",
+    id: "sur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khor al Batar Bridge",
+                  "text": "Die Khor al Batar-Brücke ist ein bemerkenswerter Übergang und eine Attraktion in Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        59.539259,
+                        22.563712
+                  ]
+            },
+            {
+                  "name": "Dhow factory",
+                  "text": "Der Aussichtspunkt der Dau-Fabrik bietet Besuchern einen einzigartigen Blick auf den traditionellen Bootsbau in Sur.",
+                  "category": "natural",
+                  "coords": [
+                        59.536715,
+                        22.561695
+                  ]
+            },
+            {
+                  "name": "DHAU",
+                  "text": "DHAU ist eine kulturelle Attraktion, die die traditionelle maritime Handwerkskunst in Sur hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        59.531301,
+                        22.56115
+                  ]
+            },
+            {
+                  "name": "Ayjah / Sur",
+                  "text": "Ayjah / Sur ist ein malerischer Aussichtspunkt mit herrlichem Blick auf die Küstenstadt Sur.",
+                  "category": "natural",
+                  "coords": [
+                        59.53972,
+                        22.562075
+                  ]
+            },
+            {
+                  "name": "Al-Ayjah Lighthouse",
+                  "text": "Der Al-Ayjah-Leuchtturm ist ein historisches Denkmal, das Schiffe entlang der Küste von Sur führt.",
+                  "category": "historical",
+                  "coords": [
+                        59.5396,
+                        22.565568
+                  ]
+            },
+            {
+                  "name": "Fort Al Ayjah",
+                  "text": "Die Burg Al Ayjah ist eine historische Festung und ein markantes Wahrzeichen in Sur.",
+                  "category": "castle",
+                  "coords": [
+                        59.543191,
+                        22.565169
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "Die Muslim Mosque ist eine ruhige islamische Kultstätte in Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        59.524851,
+                        22.565203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khor al Batar Bridge",
+                  "text": "A Khor al Batar híd egy figyelemre méltó átkelőhely és látványosság Súrban.",
+                  "category": "landmark",
+                  "coords": [
+                        59.539259,
+                        22.563712
+                  ]
+            },
+            {
+                  "name": "Dhow factory",
+                  "text": "A dhow-gyár kilátója egyedülálló bepillantást enged a hagyományos hajóépítésbe Súrban.",
+                  "category": "natural",
+                  "coords": [
+                        59.536715,
+                        22.561695
+                  ]
+            },
+            {
+                  "name": "DHAU",
+                  "text": "A DHAU egy kulturális látványosság, amely a hagyományos tengeri kézművességet emeli ki Súrban.",
+                  "category": "landmark",
+                  "coords": [
+                        59.531301,
+                        22.56115
+                  ]
+            },
+            {
+                  "name": "Ayjah / Sur",
+                  "text": "Ayjah / Sur egy festői kilátó, amely csodálatos kilátást nyújt Sur tengerparti városára.",
+                  "category": "natural",
+                  "coords": [
+                        59.53972,
+                        22.562075
+                  ]
+            },
+            {
+                  "name": "Al-Ayjah Lighthouse",
+                  "text": "Az Al-Ayjah világítótorony egy történelmi emlékmű, amely a hajókat vezeti Súr partvidékén.",
+                  "category": "historical",
+                  "coords": [
+                        59.5396,
+                        22.565568
+                  ]
+            },
+            {
+                  "name": "Al Ayjah Castle",
+                  "text": "Az Al Ayjah kastély egy történelmi erődítmény, amely kiemelkedő mérföldkőként áll Súrban.",
+                  "category": "castle",
+                  "coords": [
+                        59.543191,
+                        22.565169
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "A Muslim Mosque egy nyugodt iszlám istentiszteleti hely Súrban.",
+                  "category": "landmark",
+                  "coords": [
+                        59.524851,
+                        22.565203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khor al Batar Bridge",
+                  "text": "Podul Khor al Batar este o trecere notabilă și o atracție situată în Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        59.539259,
+                        22.563712
+                  ]
+            },
+            {
+                  "name": "Dhow factory",
+                  "text": "Punctul de belvedere al fabricii Dhow oferă vizitatorilor o privire unică asupra construcției tradiționale de bărci în Sur.",
+                  "category": "natural",
+                  "coords": [
+                        59.536715,
+                        22.561695
+                  ]
+            },
+            {
+                  "name": "DHAU",
+                  "text": "DHAU este o atracție culturală care evidențiază măiestria maritimă tradițională din Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        59.531301,
+                        22.56115
+                  ]
+            },
+            {
+                  "name": "Ayjah / Sur",
+                  "text": "Ayjah / Sur este un punct de belvedere pitoresc care oferă vederi splendide asupra orașului de coastă Sur.",
+                  "category": "natural",
+                  "coords": [
+                        59.53972,
+                        22.562075
+                  ]
+            },
+            {
+                  "name": "Al-Ayjah Lighthouse",
+                  "text": "Farul Al-Ayjah este un monument istoric care ghidează navele de-a lungul coastei din Sur.",
+                  "category": "historical",
+                  "coords": [
+                        59.5396,
+                        22.565568
+                  ]
+            },
+            {
+                  "name": "Al Ayjah Castle",
+                  "text": "Castelul Al Ayjah este o fortăreață istorică ce reprezintă un punct de reper proeminent în Sur.",
+                  "category": "castle",
+                  "coords": [
+                        59.543191,
+                        22.565169
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "Muslim Mosque este un loc liniștit de cult islamic în Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        59.524851,
+                        22.565203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khor al Batar Bridge",
+                  "text": "Khor al Batar Bridge is a notable crossing and attraction located in Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        59.539259,
+                        22.563712
+                  ]
+            },
+            {
+                  "name": "Dhow factory",
+                  "text": "The Dhow factory viewpoint provides visitors with a unique look at traditional boat building in Sur.",
+                  "category": "natural",
+                  "coords": [
+                        59.536715,
+                        22.561695
+                  ]
+            },
+            {
+                  "name": "DHAU",
+                  "text": "DHAU is a cultural attraction highlighting traditional maritime craftsmanship in Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        59.531301,
+                        22.56115
+                  ]
+            },
+            {
+                  "name": "Ayjah / Sur",
+                  "text": "Ayjah / Sur is a picturesque viewpoint offering splendid views of the coastal city of Sur.",
+                  "category": "natural",
+                  "coords": [
+                        59.53972,
+                        22.562075
+                  ]
+            },
+            {
+                  "name": "Al-Ayjah Lighthouse",
+                  "text": "Al-Ayjah Lighthouse is a historic monument guiding ships along the coastline of Sur.",
+                  "category": "historical",
+                  "coords": [
+                        59.5396,
+                        22.565568
+                  ]
+            },
+            {
+                  "name": "Al Ayjah Castle",
+                  "text": "Al Ayjah Castle is a historic fortress standing as a prominent landmark in Sur.",
+                  "category": "castle",
+                  "coords": [
+                        59.543191,
+                        22.565169
+                  ]
+            },
+            {
+                  "name": "Muslim Mosque",
+                  "text": "Muslim Mosque is a tranquil place of Islamic worship in Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        59.524851,
+                        22.565203
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-SJ",
     coords: [59.5289, 22.5667],
@@ -210,7 +3279,880 @@ export const poiExtraOmanCitiesV2: POI[] = [
       en: ["Sur is the administrative center of the Ash Sharqiyah South Governorate in Oman.", "The city's dhow yards produced the 'Fatah al-Khair', a famous 75-ton ship now on display.", "Sur's geographical coordinates are 22.5667° N, 59.5289° E.", "The city was a major hub for the 19th-century trade route between Arabia and East Africa.", "The Bibi Maryam tomb in nearby Qalhat is a significant 13th-century archaeological site.", "Sur features two main castles: Sunaysilah and Bilad Sur, dating back to the 1700s and 1800s.", "The city serves as a logistics base for tourism to the Ras al-Jinz turtle reserve.", "The modern expansion of the city includes a significant commercial port and industrial zone."],
     }, image: "/poi-images/sur-cities-v2.webp"},
   {
-    id: "khasab-cities-v2",
+    id: "khasab-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Suess",
+                  "text": "Ein markanter Kalksteingipfel, der die trockene Landschaft der Halbinsel Musandam überragt.",
+                  "category": "natural",
+                  "coords": [
+                        56.219247,
+                        26.157508
+                  ]
+            },
+            {
+                  "name": "Petroglyph Site",
+                  "text": "Eine archäologische Stätte mit antiken Felszeichnungen, die Tiere und menschliche Figuren darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        56.217463,
+                        26.177283
+                  ]
+            },
+            {
+                  "name": "Jabal al Harf",
+                  "text": "Ein markanter Berggipfel inmitten der dramatischen Felsformationen von Khasab.",
+                  "category": "natural",
+                  "coords": [
+                        56.208165,
+                        26.21095
+                  ]
+            },
+            {
+                  "name": "Jabal Mustah",
+                  "text": "Ein steiler Kalksteingipfel, der typisch für die zerklüftete Geologie der omanischen Fjorde ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.213169,
+                        26.236174
+                  ]
+            },
+            {
+                  "name": "Jabal Shamm",
+                  "text": "Ein hoher Berggipfel, der eine weite Aussicht auf das umliegende Fjordsystem bietet.",
+                  "category": "natural",
+                  "coords": [
+                        56.33,
+                        26.22
+                  ]
+            },
+            {
+                  "name": "Qarn Shamm",
+                  "text": "Ein spitzer, markanter Berggipfel in der gebirgigen Küstenregion von Musandam.",
+                  "category": "natural",
+                  "coords": [
+                        56.32,
+                        26.21
+                  ]
+            },
+            {
+                  "name": "Dolphins viewing spot",
+                  "text": "Ein Aussichtspunkt an der Küste, an dem häufig Delfine in den türkisfarbenen Gewässern gesichtet werden.",
+                  "category": "natural",
+                  "coords": [
+                        56.316185,
+                        26.198225
+                  ]
+            },
+            {
+                  "name": "Green",
+                  "text": "Ein kleiner Leuchtturm, der Schiffen den Weg in die Bucht von Khasab weist.",
+                  "category": "landmark",
+                  "coords": [
+                        56.250203,
+                        26.210824
+                  ]
+            },
+            {
+                  "name": "Jabal Haragah",
+                  "text": "Ein felsiger Gipfel in den dramatischen Gebirgszügen des nördlichen Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.237867,
+                        26.201123
+                  ]
+            },
+            {
+                  "name": "Jabal Gasab",
+                  "text": "Ein karger Kalksteingipfel mit Blick auf das blaue Wasser des Arabischen Golfs.",
+                  "category": "natural",
+                  "coords": [
+                        56.231182,
+                        26.187588
+                  ]
+            },
+            {
+                  "name": "Jabal Nazifi",
+                  "text": "Ein rauer Berggipfel an der nördlichsten Spitze der Arabischen Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        56.301636,
+                        26.16668
+                  ]
+            },
+            {
+                  "name": "Jabal Huwayni",
+                  "text": "Ein steiler Gipfel inmitten der beeindruckenden Klippenformationen bei Khasab.",
+                  "category": "natural",
+                  "coords": [
+                        56.312131,
+                        26.158979
+                  ]
+            },
+            {
+                  "name": "Khawr Qanah",
+                  "text": "Eine tiefe, fjordähnliche Bucht, die von steilen, hellen Kalksteinklippen umschlossen wird.",
+                  "category": "landmark",
+                  "coords": [
+                        56.32,
+                        26.19
+                  ]
+            },
+            {
+                  "name": "Jabal Mahama",
+                  "text": "Ein massiver Berg im Herzen der spektakulären Musandam-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        56.228552,
+                        26.111899
+                  ]
+            },
+            {
+                  "name": "Ashtanah",
+                  "text": "Ruinen eines traditionellen Steindorfes, das versteckt in den Wüstenbergen liegt.",
+                  "category": "historical",
+                  "coords": [
+                        56.214337,
+                        26.095012
+                  ]
+            },
+            {
+                  "name": "Bukha Fort",
+                  "text": "Eine Küstenfestung aus dem 17. Jahrhundert mit einem markanten quadratischen Wachturm.",
+                  "category": "landmark",
+                  "coords": [
+                        56.158409,
+                        26.142145
+                  ]
+            },
+            {
+                  "name": "Hil Beach",
+                  "text": "Ein ruhiger Sandstrand an der rauen Küstenlinie von Musandam.",
+                  "category": "recreational",
+                  "coords": [
+                        56.177337,
+                        26.186019
+                  ]
+            },
+            {
+                  "name": "Bassa Beach",
+                  "text": "Ein beliebter Sandstrand bei Khasab mit klarem, ruhigem Wasser zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        56.238216,
+                        26.211745
+                  ]
+            },
+            {
+                  "name": "Khasab Fort",
+                  "text": "Eine im 17. Jahrhundert von den Portugiesen erbaute Festung direkt am Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        56.249233,
+                        26.19828
+                  ]
+            },
+            {
+                  "name": "Telegraph Island",
+                  "text": "Eine Insel im Fjord, auf der die Briten 1864 eine Telegrafenstation errichteten.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342912,
+                        26.195516
+                  ]
+            },
+            {
+                  "name": "al Kamazrah Fort",
+                  "text": "Eine kleine Steinfestung, die ursprünglich zum Schutz der lokalen Wasserversorgung errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        56.252439,
+                        26.194137
+                  ]
+            },
+            {
+                  "name": "Al Gizm Mosque",
+                  "text": "Eine schlichte Stadtteilmoschee mit einem bescheidenen Minarett im Zentrum von Khasab.",
+                  "category": "landmark",
+                  "coords": [
+                        56.255707,
+                        26.196896
+                  ]
+            },
+            {
+                  "name": "Al Souri Mosque",
+                  "text": "Eine traditionelle Moschee in Khasab, die durch ihren lokalen omanischen Architekturstil besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        56.256296,
+                        26.193785
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Eine prachtvolle Moschee in Khasab mit beeindruckenden Kuppeln und elegantem omanischem Design.",
+                  "category": "landmark",
+                  "coords": [
+                        56.247241,
+                        26.183189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Suss",
+                  "text": "Muszandam-félsziget száraz tája fölé magasodó jellegzetes mészkőcsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        56.219247,
+                        26.157508
+                  ]
+            },
+            {
+                  "name": "Petroglyph Site",
+                  "text": "Régészeti lelőhely ősi sziklarajzokkal, amelyek állatokat és emberi alakokat ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        56.217463,
+                        26.177283
+                  ]
+            },
+            {
+                  "name": "Jabal al Harf",
+                  "text": "Khasab látványos sziklaformációi között található jellegzetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        56.208165,
+                        26.21095
+                  ]
+            },
+            {
+                  "name": "Jabal Mustah",
+                  "text": "Az ománi fjordok szabdalt geológiájára jellemző meredek mészkőcsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        56.213169,
+                        26.236174
+                  ]
+            },
+            {
+                  "name": "Jabal Shamm",
+                  "text": "Magas hegycsúcs, ahonnan pazar kilátás nyílik a környező fjordrendszerre.",
+                  "category": "natural",
+                  "coords": [
+                        56.33,
+                        26.22
+                  ]
+            },
+            {
+                  "name": "Qarn Shamm",
+                  "text": "Hegyes, jellegzetes hegycsúcs Muszandam hegyvidéki parti régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        56.32,
+                        26.21
+                  ]
+            },
+            {
+                  "name": "Dolphins viewing spot",
+                  "text": "Tengerparti megfigyelőpont, ahonnan gyakran láthatók delfinek a türkizkék vízben.",
+                  "category": "natural",
+                  "coords": [
+                        56.316185,
+                        26.198225
+                  ]
+            },
+            {
+                  "name": "Green",
+                  "text": "Kis világítótorony, amely a Khasab-öbölbe érkező hajóknak mutatja az utat.",
+                  "category": "landmark",
+                  "coords": [
+                        56.250203,
+                        26.210824
+                  ]
+            },
+            {
+                  "name": "Jabal Haragah",
+                  "text": "Sziklás hegycsúcs Észak-Omán látványos vonulatai között.",
+                  "category": "natural",
+                  "coords": [
+                        56.237867,
+                        26.201123
+                  ]
+            },
+            {
+                  "name": "Jabal Gasab",
+                  "text": "Kopár mészkőcsúcs, amely az Arab-öböl kék vizére néz.",
+                  "category": "natural",
+                  "coords": [
+                        56.231182,
+                        26.187588
+                  ]
+            },
+            {
+                  "name": "Jabal Nazifi",
+                  "text": "Zord hegycsúcs az Arab-félsziget legészakibb csücskénél.",
+                  "category": "natural",
+                  "coords": [
+                        56.301636,
+                        26.16668
+                  ]
+            },
+            {
+                  "name": "Jabal Huwayni",
+                  "text": "Meredek csúcs a Khasab környéki lenyűgöző sziklaformációk között.",
+                  "category": "natural",
+                  "coords": [
+                        56.312131,
+                        26.158979
+                  ]
+            },
+            {
+                  "name": "Khawr Qanah",
+                  "text": "Mély, fjordszerű öböl, amelyet meredek, világos mészkősziklák vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        56.32,
+                        26.19
+                  ]
+            },
+            {
+                  "name": "Jabal Mahama",
+                  "text": "Hatalmas hegy a látványos Muszandam-táj szívében.",
+                  "category": "natural",
+                  "coords": [
+                        56.228552,
+                        26.111899
+                  ]
+            },
+            {
+                  "name": "Ashtanah",
+                  "text": "Egy hagyományos kőfalu romjai a sivatagi hegyek között rejtőzve.",
+                  "category": "historical",
+                  "coords": [
+                        56.214337,
+                        26.095012
+                  ]
+            },
+            {
+                  "name": "Bukha Fort",
+                  "text": "17. századi tengerparti erőd jellegzetes négyszögletes őrtoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        56.158409,
+                        26.142145
+                  ]
+            },
+            {
+                  "name": "Hil Beach",
+                  "text": "Csendes homokos strand Muszandam zord tengerparti vonalán.",
+                  "category": "recreational",
+                  "coords": [
+                        56.177337,
+                        26.186019
+                  ]
+            },
+            {
+                  "name": "Bassa Beach",
+                  "text": "Népszerű homokos strand Khasabnál, tiszta és nyugodt vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        56.238216,
+                        26.211745
+                  ]
+            },
+            {
+                  "name": "Khasab Fort",
+                  "text": "A portugálok által a 17. században épített erőd közvetlenül a tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        56.249233,
+                        26.19828
+                  ]
+            },
+            {
+                  "name": "Telegraph Island",
+                  "text": "Sziget a fjordban, ahol a britek 1864-ben távíróállomást létesítettek.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342912,
+                        26.195516
+                  ]
+            },
+            {
+                  "name": "al Kamazrah Fort",
+                  "text": "Kisméretű kőerőd, amelyet eredetileg a helyi vízellátás védelmére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        56.252439,
+                        26.194137
+                  ]
+            },
+            {
+                  "name": "Al Gizm Mosque",
+                  "text": "Egyszerű városnegyedi mecset szerény minarettel Khasab központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        56.255707,
+                        26.196896
+                  ]
+            },
+            {
+                  "name": "Al Souri Mosque",
+                  "text": "Tradicionális mecset Haszábban, amely a helyi ománi építészeti stílust képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        56.256296,
+                        26.193785
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Haszáb grandiózus mecsete, amely impozáns kupoláival és elegáns ománi dizájnjával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        56.247241,
+                        26.183189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Suss",
+                  "text": "Un vârf calcaros proeminent care domină peisajul arid al peninsulei Musandam.",
+                  "category": "natural",
+                  "coords": [
+                        56.219247,
+                        26.157508
+                  ]
+            },
+            {
+                  "name": "Petroglyph Site",
+                  "text": "Un sit arheologic cu desene rupestre antice ce reprezintă animale și figuri umane.",
+                  "category": "landmark",
+                  "coords": [
+                        56.217463,
+                        26.177283
+                  ]
+            },
+            {
+                  "name": "Jabal al Harf",
+                  "text": "Un vârf montan proeminent în mijlocul formațiunilor stâncoase dramatice din Khasab.",
+                  "category": "natural",
+                  "coords": [
+                        56.208165,
+                        26.21095
+                  ]
+            },
+            {
+                  "name": "Jabal Mustah",
+                  "text": "Un vârf calcaros abrupt, tipic pentru geologia accidentată a fiordurilor omane.",
+                  "category": "natural",
+                  "coords": [
+                        56.213169,
+                        26.236174
+                  ]
+            },
+            {
+                  "name": "Jabal Shamm",
+                  "text": "Un vârf montan înalt care oferă o perspectivă largă asupra sistemului de fiorduri înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        56.33,
+                        26.22
+                  ]
+            },
+            {
+                  "name": "Qarn Shamm",
+                  "text": "Un vârf montan ascuțit și distinctiv în regiunea de coastă muntoasă din Musandam.",
+                  "category": "natural",
+                  "coords": [
+                        56.32,
+                        26.21
+                  ]
+            },
+            {
+                  "name": "Dolphins viewing spot",
+                  "text": "Un punct de observație de coastă unde pot fi văzuți frecvent delfini în apele turcoaz.",
+                  "category": "natural",
+                  "coords": [
+                        56.316185,
+                        26.198225
+                  ]
+            },
+            {
+                  "name": "Green",
+                  "text": "Un far mic care ghidează navele la intrarea în golful Khasab.",
+                  "category": "landmark",
+                  "coords": [
+                        56.250203,
+                        26.210824
+                  ]
+            },
+            {
+                  "name": "Jabal Haragah",
+                  "text": "Un vârf stâncos în lanțurile montane dramatice din nordul Omanului.",
+                  "category": "natural",
+                  "coords": [
+                        56.237867,
+                        26.201123
+                  ]
+            },
+            {
+                  "name": "Jabal Gasab",
+                  "text": "Un vârf calcaros arid, cu vedere la apele albastre ale Golfului Arab.",
+                  "category": "natural",
+                  "coords": [
+                        56.231182,
+                        26.187588
+                  ]
+            },
+            {
+                  "name": "Jabal Nazifi",
+                  "text": "Un vârf muntos accidentat în extremitatea nordică a Peninsulei Arabe.",
+                  "category": "natural",
+                  "coords": [
+                        56.301636,
+                        26.16668
+                  ]
+            },
+            {
+                  "name": "Jabal Huwayni",
+                  "text": "Un vârf abrupt printre formațiunile de stânci impresionante de lângă Khasab.",
+                  "category": "natural",
+                  "coords": [
+                        56.312131,
+                        26.158979
+                  ]
+            },
+            {
+                  "name": "Khawr Qanah",
+                  "text": "Un golf adânc, asemănător unui fiord, înconjurat de stânci calcaroase abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        56.32,
+                        26.19
+                  ]
+            },
+            {
+                  "name": "Jabal Mahama",
+                  "text": "Un munte masiv în inima peisajului spectaculos din Musandam.",
+                  "category": "natural",
+                  "coords": [
+                        56.228552,
+                        26.111899
+                  ]
+            },
+            {
+                  "name": "Ashtanah",
+                  "text": "Ruinele unui sat tradițional din piatră, ascuns în munții deșertici.",
+                  "category": "historical",
+                  "coords": [
+                        56.214337,
+                        26.095012
+                  ]
+            },
+            {
+                  "name": "Bukha Fort",
+                  "text": "O fortăreață de coastă din secolul al XVII-lea, cu un turn de veghe pătrat distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        56.158409,
+                        26.142145
+                  ]
+            },
+            {
+                  "name": "Hil Beach",
+                  "text": "O plajă liniștită de nisip de-a lungul liniei de coastă accidentate din Musandam.",
+                  "category": "recreational",
+                  "coords": [
+                        56.177337,
+                        26.186019
+                  ]
+            },
+            {
+                  "name": "Bassa Beach",
+                  "text": "O plajă de nisip populară lângă Khasab, cu ape clare și calme pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        56.238216,
+                        26.211745
+                  ]
+            },
+            {
+                  "name": "Khasab Fort",
+                  "text": "O fortăreață construită de portughezi în secolul al XVII-lea, situată chiar pe malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        56.249233,
+                        26.19828
+                  ]
+            },
+            {
+                  "name": "Telegraph Island",
+                  "text": "O insulă într-un fiord unde britanicii au stabilit o stație de telegraf în 1864.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342912,
+                        26.195516
+                  ]
+            },
+            {
+                  "name": "al Kamazrah Fort",
+                  "text": "O mică fortăreață de piatră construită inițial pentru a proteja sursa locală de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        56.252439,
+                        26.194137
+                  ]
+            },
+            {
+                  "name": "Al Gizm Mosque",
+                  "text": "O moschee de cartier simplă, cu un minaret modest, în centrul orașului Khasab.",
+                  "category": "landmark",
+                  "coords": [
+                        56.255707,
+                        26.196896
+                  ]
+            },
+            {
+                  "name": "Al Souri Mosque",
+                  "text": "O moschee tradițională în Khasab, caracterizată prin stilul său arhitectural local omanez.",
+                  "category": "landmark",
+                  "coords": [
+                        56.256296,
+                        26.193785
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "O moschee grandioasă din Khasab, cu cupole impresionante și un design omanez elegant.",
+                  "category": "landmark",
+                  "coords": [
+                        56.247241,
+                        26.183189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Suss",
+                  "text": "A prominent limestone peak overlooking the arid landscape of the Musandam Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        56.219247,
+                        26.157508
+                  ]
+            },
+            {
+                  "name": "Petroglyph Site",
+                  "text": "An archaeological site featuring ancient rock carvings of animals and human figures.",
+                  "category": "landmark",
+                  "coords": [
+                        56.217463,
+                        26.177283
+                  ]
+            },
+            {
+                  "name": "Jabal al Harf",
+                  "text": "A prominent mountain peak amidst the dramatic rock formations of Khasab.",
+                  "category": "natural",
+                  "coords": [
+                        56.208165,
+                        26.21095
+                  ]
+            },
+            {
+                  "name": "Jabal Mustah",
+                  "text": "A steep limestone peak typical of the rugged geology of the Omani fjords.",
+                  "category": "natural",
+                  "coords": [
+                        56.213169,
+                        26.236174
+                  ]
+            },
+            {
+                  "name": "Jabal Shamm",
+                  "text": "A high mountain peak offering a broad vista over the surrounding fjord system.",
+                  "category": "natural",
+                  "coords": [
+                        56.33,
+                        26.22
+                  ]
+            },
+            {
+                  "name": "Qarn Shamm",
+                  "text": "A sharp, distinctive mountain peak in the mountainous coastal region of Musandam.",
+                  "category": "natural",
+                  "coords": [
+                        56.32,
+                        26.21
+                  ]
+            },
+            {
+                  "name": "Dolphins viewing spot",
+                  "text": "A coastal viewpoint where dolphins are frequently spotted in the turquoise waters.",
+                  "category": "natural",
+                  "coords": [
+                        56.316185,
+                        26.198225
+                  ]
+            },
+            {
+                  "name": "Green",
+                  "text": "A small lighthouse guiding vessels into the bay of Khasab.",
+                  "category": "landmark",
+                  "coords": [
+                        56.250203,
+                        26.210824
+                  ]
+            },
+            {
+                  "name": "Jabal Haragah",
+                  "text": "A rocky peak in the dramatic mountain ranges of northern Oman.",
+                  "category": "natural",
+                  "coords": [
+                        56.237867,
+                        26.201123
+                  ]
+            },
+            {
+                  "name": "Jabal Gasab",
+                  "text": "A barren limestone summit overlooking the blue waters of the Arabian Gulf.",
+                  "category": "natural",
+                  "coords": [
+                        56.231182,
+                        26.187588
+                  ]
+            },
+            {
+                  "name": "Jabal Nazifi",
+                  "text": "A rugged mountain peak at the northernmost tip of the Arabian Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        56.301636,
+                        26.16668
+                  ]
+            },
+            {
+                  "name": "Jabal Huwayni",
+                  "text": "A steep peak set among the impressive cliff formations near Khasab.",
+                  "category": "natural",
+                  "coords": [
+                        56.312131,
+                        26.158979
+                  ]
+            },
+            {
+                  "name": "Khawr Qanah",
+                  "text": "A deep, fjord-like bay enclosed by steep, light-colored limestone cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        56.32,
+                        26.19
+                  ]
+            },
+            {
+                  "name": "Jabal Mahama",
+                  "text": "A massive mountain in the heart of the spectacular Musandam landscape.",
+                  "category": "natural",
+                  "coords": [
+                        56.228552,
+                        26.111899
+                  ]
+            },
+            {
+                  "name": "Ashtanah",
+                  "text": "Ruins of a traditional stone village hidden within the desert mountains.",
+                  "category": "historical",
+                  "coords": [
+                        56.214337,
+                        26.095012
+                  ]
+            },
+            {
+                  "name": "Bukha Fort",
+                  "text": "A 17th-century coastal fortress featuring a distinctive square watchtower.",
+                  "category": "landmark",
+                  "coords": [
+                        56.158409,
+                        26.142145
+                  ]
+            },
+            {
+                  "name": "Hil Beach",
+                  "text": "A quiet stretch of sandy beach along the rugged Musandam coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        56.177337,
+                        26.186019
+                  ]
+            },
+            {
+                  "name": "Bassa Beach",
+                  "text": "A popular sandy beach near Khasab with clear, calm waters for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        56.238216,
+                        26.211745
+                  ]
+            },
+            {
+                  "name": "Khasab Fort",
+                  "text": "A coastal fortress built by the Portuguese in the 17th century.",
+                  "category": "landmark",
+                  "coords": [
+                        56.249233,
+                        26.19828
+                  ]
+            },
+            {
+                  "name": "Telegraph Island",
+                  "text": "An island in a fjord where the British established a telegraph repeater station in 1864.",
+                  "category": "landmark",
+                  "coords": [
+                        56.342912,
+                        26.195516
+                  ]
+            },
+            {
+                  "name": "al Kamazrah Fort",
+                  "text": "A small stone fort originally built to protect the local water supply.",
+                  "category": "landmark",
+                  "coords": [
+                        56.252439,
+                        26.194137
+                  ]
+            },
+            {
+                  "name": "Al Gizm Mosque",
+                  "text": "A modest neighborhood mosque with a simple minaret in the center of Khasab.",
+                  "category": "landmark",
+                  "coords": [
+                        56.255707,
+                        26.196896
+                  ]
+            },
+            {
+                  "name": "Al Souri Mosque",
+                  "text": "A traditional mosque in Khasab characterized by its local Omani architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        56.256296,
+                        26.193785
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "A grand mosque in Khasab featuring impressive domes and elegant Omani design.",
+                  "category": "landmark",
+                  "coords": [
+                        56.247241,
+                        26.183189
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-MU",
     coords: [56.2486, 26.1794],
@@ -247,7 +4189,196 @@ export const poiExtraOmanCitiesV2: POI[] = [
       en: ["Capital of the Musandam Governorate exclave.", "Strategically overlooks the Strait of Hormuz.", "Known as the 'Norway of Arabia' due to its dramatic fjords.", "Home to the 17th-century Khasab Fort, a Portuguese structure.", "Major hub for dhow cruises and dolphin watching tours.", "Regional trade center between Oman and Iran.", "Features a regional airport with flights to Muscat.", "Connected to the UAE by a scenic 35-kilometer coastal road."],
     }, image: "/poi-images/khasab-cities-v2.webp"},
   {
-    id: "ibra-cities-v2",
+    id: "ibra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Safari World",
+                  "text": "Ein lokaler Wildpark in der Nähe von Ibra, der einheimische Tierarten und exotische Tiere in einer Wüstenumgebung zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        58.539343,
+                        22.629479
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Die verfallenen Lehmziegelbauten der Altstadt von Ibra sind ein Beispiel für die traditionelle Verteidigungsarchitektur der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        58.534346,
+                        22.690862
+                  ]
+            },
+            {
+                  "name": "Manzifat",
+                  "text": "Ein altes Viertel von Ibra, das für seine historischen, zweistöckigen Lehmhäuser mit verzierten Rundbögen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        58.532778,
+                        22.686435
+                  ]
+            },
+            {
+                  "name": "Juma Said Al-Maskari",
+                  "text": "Eine traditionelle Moschee in Ibra, die als spirituelles Zentrum für die lokale Gemeinschaft in diesem historischen Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        58.53382,
+                        22.706914
+                  ]
+            },
+            {
+                  "name": "Ladies Market",
+                  "text": "Ein besonderer Wochenmarkt, der mittwochs stattfindet und auf dem einheimische Frauen traditionelles Handwerk und Textilien verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        58.545164,
+                        22.692892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Safari World",
+                  "text": "Helyi vadaspark Ibra közelében, amely őshonos és egzotikus állatfajokat mutat be sivatagi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        58.539343,
+                        22.629479
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Ibra óvárosának düledező vályogtégla épületei a régió hagyományos védelmi építészetének példái.",
+                  "category": "landmark",
+                  "coords": [
+                        58.534346,
+                        22.690862
+                  ]
+            },
+            {
+                  "name": "Manzifat",
+                  "text": "Ibra egyik ősi negyede, amely történelmi, kétszintes, díszes boltívekkel ellátott vályogházairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.532778,
+                        22.686435
+                  ]
+            },
+            {
+                  "name": "Juma Said Al-Maskari",
+                  "text": "Hagyományos mecset Ibrában, amely a helyi közösség szellemi központjaként szolgál ebben a történelmi negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        58.53382,
+                        22.706914
+                  ]
+            },
+            {
+                  "name": "Ladies Market",
+                  "text": "Különleges, szerdánként tartott piac, ahol a helyi nők hagyományos kézműves termékeket és textíliákat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.545164,
+                        22.692892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Safari World",
+                  "text": "Un parc de animale sălbatice lângă Ibra, care prezintă specii locale și animale exotice într-un cadru de deșert.",
+                  "category": "recreational",
+                  "coords": [
+                        58.539343,
+                        22.629479
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "Clădirile ruinate din cărămidă de lut din orașul vechi Ibra sunt un exemplu al arhitecturii defensive tradiționale a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        58.534346,
+                        22.690862
+                  ]
+            },
+            {
+                  "name": "Manzifat",
+                  "text": "Un cartier vechi din Ibra, cunoscut pentru casele sale istorice din cărămidă de lut, cu două etaje și arcade ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        58.532778,
+                        22.686435
+                  ]
+            },
+            {
+                  "name": "Juma Said Al-Maskari",
+                  "text": "O moschee tradițională din Ibra, care servește ca centru spiritual pentru comunitatea locală din acest cartier istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        58.53382,
+                        22.706914
+                  ]
+            },
+            {
+                  "name": "Ladies Market",
+                  "text": "O piață săptămânală specială, miercuri, unde femeile locale vând obiecte de artizanat și textile tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        58.545164,
+                        22.692892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Safari World",
+                  "text": "A local wildlife park near Ibra showcasing indigenous species and exotic animals in a desert setting.",
+                  "category": "recreational",
+                  "coords": [
+                        58.539343,
+                        22.629479
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "The crumbling mud-brick structures of Ibra's old town showcase the region's traditional defensive architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        58.534346,
+                        22.690862
+                  ]
+            },
+            {
+                  "name": "Manzifat",
+                  "text": "An ancient quarter of Ibra known for its historic two-story mud-brick houses with decorative arches.",
+                  "category": "landmark",
+                  "coords": [
+                        58.532778,
+                        22.686435
+                  ]
+            },
+            {
+                  "name": "Juma Said Al-Maskari",
+                  "text": "A traditional mosque in Ibra serving as a spiritual center for the local community in this historic neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        58.53382,
+                        22.706914
+                  ]
+            },
+            {
+                  "name": "Ladies Market",
+                  "text": "A unique weekly market held on Wednesdays where local women gather to sell traditional handicrafts and textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        58.545164,
+                        22.692892
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-SS",
     coords: [58.5333, 22.6833],
@@ -284,7 +4415,232 @@ export const poiExtraOmanCitiesV2: POI[] = [
       en: ["Administrative capital of Ash Sharqiyah North Governorate.", "Home to the famous Wednesday Women's Market.", "Contains the Al Minzafah historical area with mud-brick mansions.", "Key gateway to the Sharqiyah Sands (Wahiba Sands).", "Major educational hub with a technological university.", "Known for high-quality silver crafts and Omani Khanjars.", "Strategic location on the highway connecting Muscat to Sur.", "Features numerous ancient watchtowers on surrounding hills."],
     }, image: "/poi-images/ibra-cities-v2.webp"},
   {
-    id: "ibri-cities-v2",
+    id: "ibri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Kawas",
+                  "text": "Ein kahler Berggipfel, der charakteristisch für die karge Wüstenlandschaft der Dhahirah-Region ist.",
+                  "category": "natural",
+                  "coords": [
+                        56.536614,
+                        23.23384
+                  ]
+            },
+            {
+                  "name": "Aynayn",
+                  "text": "Ein historisches omanisches Fort mit charakteristischen Wachtürmen und massiven Verteidigungsmauern.",
+                  "category": "castle",
+                  "coords": [
+                        56.545086,
+                        23.28814
+                  ]
+            },
+            {
+                  "name": "Jabal Sukhbari",
+                  "text": "Ein hoher Berggipfel in der Ibri-Region mit weitem Blick über die umliegenden Kiesebenen.",
+                  "category": "natural",
+                  "coords": [
+                        56.52,
+                        23.3
+                  ]
+            },
+            {
+                  "name": "Ibri Sports Club",
+                  "text": "Eine zentrale Sportstätte, in der Fußballspiele und verschiedene lokale Leichtathletik-Wettbewerbe stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        56.5168,
+                        23.24163
+                  ]
+            },
+            {
+                  "name": "As Sulayf",
+                  "text": "Ein befestigtes Dorf auf einem Hügel mit einer erhaltenen Mauer über den Palmenhainen von Ibri.",
+                  "category": "castle",
+                  "coords": [
+                        56.525841,
+                        23.204711
+                  ]
+            },
+            {
+                  "name": "Ibri Fort",
+                  "text": "Eine antike Festung aus Lehmziegeln mit einer historischen Moschee und wehrhaften Bastionen.",
+                  "category": "castle",
+                  "coords": [
+                        56.506081,
+                        23.236868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Kawas",
+                  "text": "Kopár hegycsúcs, amely jellemző a Dahira régió sivár sivatagi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        56.536614,
+                        23.23384
+                  ]
+            },
+            {
+                  "name": "Aynayn",
+                  "text": "Történelmi ománi erőd jellegzetes őrtornyokkal és masszív védőfalakkal.",
+                  "category": "castle",
+                  "coords": [
+                        56.545086,
+                        23.28814
+                  ]
+            },
+            {
+                  "name": "Jabal Sukhbari",
+                  "text": "Magas hegycsúcs Ibri térségében, ahonnan kilátás nyílik a környező kavicsos síkságokra.",
+                  "category": "natural",
+                  "coords": [
+                        56.52,
+                        23.3
+                  ]
+            },
+            {
+                  "name": "Ibri Sports Club",
+                  "text": "Központi sportlétesítmény, amely futballmérkőzéseknek és különböző helyi atlétikai versenyeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        56.5168,
+                        23.24163
+                  ]
+            },
+            {
+                  "name": "As Sulayf",
+                  "text": "Dombokon fekvő erődített falu épen maradt fallal Ibri pálmaligetei felett.",
+                  "category": "castle",
+                  "coords": [
+                        56.525841,
+                        23.204711
+                  ]
+            },
+            {
+                  "name": "Ibri Fort",
+                  "text": "Ősi vályogtégla erőd történelmi mecsettel és védelmi bástyákkal.",
+                  "category": "castle",
+                  "coords": [
+                        56.506081,
+                        23.236868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Kawas",
+                  "text": "Un vârf de munte arid, caracteristic pentru peisajul deșertic golaș din regiunea Dhahirah.",
+                  "category": "natural",
+                  "coords": [
+                        56.536614,
+                        23.23384
+                  ]
+            },
+            {
+                  "name": "Aynayn",
+                  "text": "O fortăreață istorică omaneză, cu turnuri de veghe caracteristice și ziduri de apărare masive.",
+                  "category": "castle",
+                  "coords": [
+                        56.545086,
+                        23.28814
+                  ]
+            },
+            {
+                  "name": "Jabal Sukhbari",
+                  "text": "Un vârf de munte înalt în regiunea Ibri, cu vederi largi asupra câmpiilor pietroase din jur.",
+                  "category": "natural",
+                  "coords": [
+                        56.52,
+                        23.3
+                  ]
+            },
+            {
+                  "name": "Ibri Sports Club",
+                  "text": "O facilitate sportivă centrală care găzduiește meciuri de fotbal și diverse competiții locale de atletism.",
+                  "category": "landmark",
+                  "coords": [
+                        56.5168,
+                        23.24163
+                  ]
+            },
+            {
+                  "name": "As Sulayf",
+                  "text": "Un sat fortificat pe un deal, cu un zid de apărare conservat deasupra livezilor de palmieri din Ibri.",
+                  "category": "castle",
+                  "coords": [
+                        56.525841,
+                        23.204711
+                  ]
+            },
+            {
+                  "name": "Ibri Fort",
+                  "text": "O fortăreață antică din cărămidă de lut, cu o moschee istorică și bastioane de apărare.",
+                  "category": "castle",
+                  "coords": [
+                        56.506081,
+                        23.236868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Kawas",
+                  "text": "A barren mountain peak characteristic of the stark desert landscape of the Dhahirah region.",
+                  "category": "natural",
+                  "coords": [
+                        56.536614,
+                        23.23384
+                  ]
+            },
+            {
+                  "name": "Aynayn",
+                  "text": "A historic Omani fort featuring characteristic watchtowers and massive defensive walls.",
+                  "category": "castle",
+                  "coords": [
+                        56.545086,
+                        23.28814
+                  ]
+            },
+            {
+                  "name": "Jabal Sukhbari",
+                  "text": "A high mountain peak in the Ibri region with broad views over the surrounding stony plains.",
+                  "category": "natural",
+                  "coords": [
+                        56.52,
+                        23.3
+                  ]
+            },
+            {
+                  "name": "Ibri Sports Club",
+                  "text": "A central sports facility hosting football matches and various local athletic competitions.",
+                  "category": "landmark",
+                  "coords": [
+                        56.5168,
+                        23.24163
+                  ]
+            },
+            {
+                  "name": "As Sulayf",
+                  "text": "A hilltop fortified village with a preserved defensive wall overlooking the palm groves of Ibri.",
+                  "category": "castle",
+                  "coords": [
+                        56.525841,
+                        23.204711
+                  ]
+            },
+            {
+                  "name": "Ibri Fort",
+                  "text": "An ancient mud-brick stronghold featuring a historic mosque and defensive bastions.",
+                  "category": "castle",
+                  "coords": [
+                        56.506081,
+                        23.236868
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-ZA",
     coords: [56.5058, 23.2289],
@@ -321,7 +4677,304 @@ export const poiExtraOmanCitiesV2: POI[] = [
       en: ["Administrative capital of the Ad Dhahirah Governorate.", "Home to the massive Ibri Fort and Sulaif hilltop fort.", "Location of the Ibri II Solar project, a milestone in Omani green energy.", "Key transport hub on the route to the Saudi Arabian border.", "Major center for inland oil and gas exploration.", "Summer temperatures are among the highest in the Sultanate.", "Hosts the Ibri College of Technology.", "Proximity to the UNESCO World Heritage site of Bat tombs."],
     }, image: "/poi-images/ibri-cities-v2.webp"},
   {
-    id: "al-buraimi-cities-v2",
+    id: "al-buraimi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ministry of education Theater",
+                  "text": "Ein regionales Kulturzentrum, das Theateraufführungen und Bildungsveranstaltungen in Al Buraimi beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        55.781149,
+                        24.258374
+                  ]
+            },
+            {
+                  "name": "Hill Fun City Al Ain",
+                  "text": "Ein familienfreundlicher Freizeitpark mit Fahrgeschäften und Unterhaltungsangeboten inmitten der Wüstenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        55.785023,
+                        24.301651
+                  ]
+            },
+            {
+                  "name": "Jabal Huwayyah",
+                  "text": "Ein markanter Felshügel in der Nähe von Al Buraimi, der für seine charakteristische geologische Form bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        55.847619,
+                        24.293326
+                  ]
+            },
+            {
+                  "name": "Jabal Awhah",
+                  "text": "Ein Wüstengipfel, der weite Ausblicke über die trockene Landschaft an der Grenze bietet.",
+                  "category": "natural",
+                  "coords": [
+                        55.820024,
+                        24.280072
+                  ]
+            },
+            {
+                  "name": "AAN2014",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Blick auf die Stadtlandschaft von Al Buraimi ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        55.79691,
+                        24.32883
+                  ]
+            },
+            {
+                  "name": "Hili Archaeological Park",
+                  "text": "Diese archäologische Stätte beherbergt Gräber aus der Bronzezeit und ein antikes Falaj-Bewässerungssystem.",
+                  "category": "historical",
+                  "coords": [
+                        55.794163,
+                        24.293139
+                  ]
+            },
+            {
+                  "name": "Masjid Rashid Jabri",
+                  "text": "Eine moderne Moschee in Al Buraimi, die als spiritueller Treffpunkt für die Anwohner dient.",
+                  "category": "religious",
+                  "coords": [
+                        55.798261,
+                        24.307044
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Die zentrale Freitagsmoschee von Al Buraimi, benannt nach dem langjährigen Herrscher des Omans.",
+                  "category": "landmark",
+                  "coords": [
+                        55.784564,
+                        24.261342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ministry of education Theater",
+                  "text": "Regionális kulturális központ Al Buraimiben, amely színházi előadásoknak és oktatási eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        55.781149,
+                        24.258374
+                  ]
+            },
+            {
+                  "name": "Hill Fun City Al Ain",
+                  "text": "Családbarát vidámpark játékokkal és szórakozási lehetőségekkel a sivatagi város szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        55.785023,
+                        24.301651
+                  ]
+            },
+            {
+                  "name": "Jabal Huwayyah",
+                  "text": "Egy jellegzetes sziklás domb Al Buraimi közelében, amely karakteres geológiai formájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        55.847619,
+                        24.293326
+                  ]
+            },
+            {
+                  "name": "Jabal Awhah",
+                  "text": "Sivatagi hegycsúcs, amely széles kilátást nyújt a határ menti száraz vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        55.820024,
+                        24.280072
+                  ]
+            },
+            {
+                  "name": "AAN2014",
+                  "text": "Magaslati kilátópont, ahonnan széles rálátás nyílik Al Buraimi városi tájára.",
+                  "category": "natural",
+                  "coords": [
+                        55.79691,
+                        24.32883
+                  ]
+            },
+            {
+                  "name": "Hili Archaeological Park",
+                  "text": "Ez a régészeti lelőhely bronzkori síroknak és egy ősi falaj öntözőrendszernek ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        55.794163,
+                        24.293139
+                  ]
+            },
+            {
+                  "name": "Masjid Rashid Jabri",
+                  "text": "Modern mecset Al Buraimiben, amely a helyi lakosok spirituális gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        55.798261,
+                        24.307044
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Al Buraimi központi pénteki mecsetje, amely Omán hosszú ideig uralkodó szultánjáról kapta nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        55.784564,
+                        24.261342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ministry of education Theater",
+                  "text": "Un centru cultural regional din Al Buraimi, care găzduiește spectacole de teatru și evenimente educaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        55.781149,
+                        24.258374
+                  ]
+            },
+            {
+                  "name": "Hill Fun City Al Ain",
+                  "text": "Un parc de distracții pentru familii, cu roller-coastere și divertisment în inima orașului de deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        55.785023,
+                        24.301651
+                  ]
+            },
+            {
+                  "name": "Jabal Huwayyah",
+                  "text": "Un deal stâncos proeminent lângă Al Buraimi, cunoscut pentru forma sa geologică distinctivă.",
+                  "category": "natural",
+                  "coords": [
+                        55.847619,
+                        24.293326
+                  ]
+            },
+            {
+                  "name": "Jabal Awhah",
+                  "text": "Un vârf montan în deșert care oferü vederi largi asupra peisajului arid de la graniță.",
+                  "category": "natural",
+                  "coords": [
+                        55.820024,
+                        24.280072
+                  ]
+            },
+            {
+                  "name": "AAN2014",
+                  "text": "Un punct de observație la înălțime, oferind o panoramă largă asupra peisajului urban din Al Buraimi.",
+                  "category": "natural",
+                  "coords": [
+                        55.79691,
+                        24.32883
+                  ]
+            },
+            {
+                  "name": "Hili Archaeological Park",
+                  "text": "Acest sit arheologic găzduiește morminte din Epoca Bronzului și un sistem antic de irigații falaj.",
+                  "category": "historical",
+                  "coords": [
+                        55.794163,
+                        24.293139
+                  ]
+            },
+            {
+                  "name": "Masjid Rashid Jabri",
+                  "text": "O moschee modernă în Al Buraimi, care servește ca loc de întâlnire spirituală pentru rezidenți.",
+                  "category": "religious",
+                  "coords": [
+                        55.798261,
+                        24.307044
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "Marea moschee de vineri din Al Buraimi, numită după conducătorul de lungă durată al Omanului.",
+                  "category": "landmark",
+                  "coords": [
+                        55.784564,
+                        24.261342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ministry of education Theater",
+                  "text": "A regional cultural center in Al Buraimi hosting theatrical performances and educational events.",
+                  "category": "cultural",
+                  "coords": [
+                        55.781149,
+                        24.258374
+                  ]
+            },
+            {
+                  "name": "Hill Fun City Al Ain",
+                  "text": "A family-friendly amusement park featuring rides and entertainment in the heart of the desert city.",
+                  "category": "landmark",
+                  "coords": [
+                        55.785023,
+                        24.301651
+                  ]
+            },
+            {
+                  "name": "Jabal Huwayyah",
+                  "text": "A prominent rocky hill near Al Buraimi, known for its distinctive geological shape.",
+                  "category": "natural",
+                  "coords": [
+                        55.847619,
+                        24.293326
+                  ]
+            },
+            {
+                  "name": "Jabal Awhah",
+                  "text": "A desert peak offering wide views over the arid landscape along the border.",
+                  "category": "natural",
+                  "coords": [
+                        55.820024,
+                        24.280072
+                  ]
+            },
+            {
+                  "name": "AAN2014",
+                  "text": "An elevated viewpoint providing a broad perspective over the Al Buraimi urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        55.79691,
+                        24.32883
+                  ]
+            },
+            {
+                  "name": "Hili Archaeological Park",
+                  "text": "This archaeological site houses Bronze Age tombs and an ancient falaj irrigation system.",
+                  "category": "historical",
+                  "coords": [
+                        55.794163,
+                        24.293139
+                  ]
+            },
+            {
+                  "name": "Masjid Rashid Jabri",
+                  "text": "A modern mosque in Al Buraimi serving as a spiritual gathering place for residents.",
+                  "category": "religious",
+                  "coords": [
+                        55.798261,
+                        24.307044
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Mosque",
+                  "text": "The central Friday mosque of Al Buraimi, named after Oman's long-reigning ruler.",
+                  "category": "landmark",
+                  "coords": [
+                        55.784564,
+                        24.261342
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-BU",
     coords: [55.7936, 24.2567],
@@ -358,7 +5011,52 @@ export const poiExtraOmanCitiesV2: POI[] = [
       en: ["Capital city of Al Buraimi Governorate.", "Situated at the western edge of the Al Hajar Mountains.", "Home to the Al Khandaq Fort, famous for its defensive dry moat.", "Major trade hub between Oman and the United Arab Emirates.", "Hosts the University of Buraimi and Buraimi College.", "Features traditional Aflaj irrigation systems, some dating back centuries.", "Climate is hyper-arid with average summer highs of 45-48°C.", "Distance to Muscat is approximately 340 kilometers via highway."],
     }, image: "/poi-images/al-buraimi-cities-v2.webp"},
   {
-    id: "rustaq-cities-v2",
+    id: "rustaq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thermal Springs Al Khadhra",
+                  "text": "Diese natürlichen Thermalwässer entspringen in der Nähe von Rustaq und bieten warme, mineralstoffreiche Becken, die von den Einheimischen historisch zur Entspannung und Heilung genutzt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        57.311101,
+                        23.359054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thermal Springs Al Khadhra",
+                  "text": "Ezek a természetes termálvizek Rustaq közelében törnek a felszínre, és meleg, ásványi anyagokban gazdag medencéket kínálnak, amelyeket a helyiek történelmileg pihenésre és gyógyulásra használnak.",
+                  "category": "natural",
+                  "coords": [
+                        57.311101,
+                        23.359054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thermal Springs Al Khadhra",
+                  "text": "Aceste ape termale naturale ies la suprafață în apropiere de Rustaq, oferind bazine calde, bogate în minerale, folosite istoric de localnici pentru relaxare și vindecare.",
+                  "category": "natural",
+                  "coords": [
+                        57.311101,
+                        23.359054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thermal Springs Al Khadhra",
+                  "text": "These natural thermal waters emerge near Rustaq, offering warm, mineral-rich pools historically used by locals for relaxation and healing.",
+                  "category": "natural",
+                  "coords": [
+                        57.311101,
+                        23.359054
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-BS",
     coords: [57.3972, 23.3906],
@@ -399,7 +5097,52 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["90 000 habitants (Al Batinah Sud)", "Capitale des Yarubides de 1624 à 1744", "Fort de Rustaq datant initialement du VIIe siècle", "Sources sulfureuses d'Ain al-Kasfa à 45°C", "Au pied des montagnes du djebel Akhdar", "Foyer de la dynastie Al-Bu-Said depuis 1744", "Importante production de dattes et de mangues", "Située à 175 kilomètres à l'ouest de Mascate"],
     }, image: "/poi-images/rustaq-cities-v2.webp"},
   {
-    id: "haima-cities-v2",
+    id: "haima-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Rahman Mosque",
+                  "text": "Die Al-Rahman-Moschee in Haima ist ein wichtiges Heiligtum der Wüstenstadt, das an seiner charakteristischen grünen Kuppel und dem hoch aufragenden Minarett leicht zu erkennen ist.",
+                  "category": "religious",
+                  "coords": [
+                        56.277507,
+                        19.952696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Rahman Mosque",
+                  "text": "A Haima-i Al-Rahman mecset egy kulcsfontosságú sivatagi városi szentély, amely könnyen felismerhető jellegzetes zöld kupolájáról és tornyosuló minaretjéről.",
+                  "category": "religious",
+                  "coords": [
+                        56.277507,
+                        19.952696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Rahman Mosque",
+                  "text": "Moscheea Al-Rahman din Haima este un sanctuar crucial din orașul deșertic, ușor de recunoscut prin cupola sa verde distinctivă și minaretul impunător.",
+                  "category": "religious",
+                  "coords": [
+                        56.277507,
+                        19.952696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Rahman Mosque",
+                  "text": "The Al-Rahman Mosque in Haima is a crucial desert town sanctuary, easily recognized by its distinctive green dome and towering minaret.",
+                  "category": "religious",
+                  "coords": [
+                        56.277507,
+                        19.952696
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "OM-WU",
     coords: [56.2731, 19.9572],
@@ -441,7 +5184,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sadaf Wedding Hall",
-                  "text": "قاعة صدف للافراح ist ein Theater in Sib.",
+                  "text": "Die Hochzeitshalle Sadaf in Seeb.",
                   "category": "cultural",
                   "coords": [
                         58.194814,
@@ -450,7 +5193,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Asala Hall",
-                  "text": "قاعة الأصالة ist ein Theater in Sib.",
+                  "text": "Die Halle Al Asala in Seeb.",
                   "category": "cultural",
                   "coords": [
                         58.20006,
@@ -459,7 +5202,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Faisal Rest House",
-                  "text": "استراحة الفيصل ist ein Aussichtspunkt in Sib.",
+                  "text": "Das Gästehaus Al Faisal in Seeb.",
                   "category": "natural",
                   "coords": [
                         58.196722,
@@ -468,7 +5211,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Araimi Boulevard",
-                  "text": "Al-Araimi Boulevard ist ein Aussichtspunkt in Sib.",
+                  "text": "Die Al-Araimi Allee in Seeb.",
                   "category": "natural",
                   "coords": [
                         58.182846,
@@ -477,7 +5220,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Garden",
-                  "text": "حديقة ist eine Sehenswürdigkeit in Sib.",
+                  "text": "Der Garten in Seeb.",
                   "category": "landmark",
                   "coords": [
                         58.172098,
@@ -488,7 +5231,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sadaf Wedding Hall",
-                  "text": "A قاعة صدف للافراح egy színház Sib városában.",
+                  "text": "A Sadaf esküvői terem Seebben.",
                   "category": "cultural",
                   "coords": [
                         58.194814,
@@ -497,7 +5240,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Asala Hall",
-                  "text": "A قاعة الأصالة egy színház Sib városában.",
+                  "text": "Az Al Asala terem Seebben.",
                   "category": "cultural",
                   "coords": [
                         58.20006,
@@ -506,7 +5249,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Faisal Rest House",
-                  "text": "Az استراحة الفيصل egy kilátó Sib városában.",
+                  "text": "Az Al Faisal vendégház Seebben.",
                   "category": "natural",
                   "coords": [
                         58.196722,
@@ -515,7 +5258,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Araimi Boulevard",
-                  "text": "Az Al-Araimi Boulevard egy kilátó Sib városában.",
+                  "text": "Az Al-Araimi körút Seebben.",
                   "category": "natural",
                   "coords": [
                         58.182846,
@@ -524,7 +5267,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Garden",
-                  "text": "A حديقة egy látványosság Sib városában.",
+                  "text": "A kert Seebben.",
                   "category": "landmark",
                   "coords": [
                         58.172098,
@@ -535,7 +5278,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sadaf Wedding Hall",
-                  "text": "قاعة صدف للافراح este un teatru situat în Sib.",
+                  "text": "Sala de nunți Sadaf în Seeb.",
                   "category": "cultural",
                   "coords": [
                         58.194814,
@@ -544,7 +5287,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Asala Hall",
-                  "text": "قاعة الأصالة este un teatru situat în Sib.",
+                  "text": "Sala Al Asala în Seeb.",
                   "category": "cultural",
                   "coords": [
                         58.20006,
@@ -553,7 +5296,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Faisal Rest House",
-                  "text": "استراحة الفيصل este un punct de belvedere situat în Sib.",
+                  "text": "Casa de oaspeți Al Faisal în Seeb.",
                   "category": "natural",
                   "coords": [
                         58.196722,
@@ -562,7 +5305,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Araimi Boulevard",
-                  "text": "Al-Araimi Boulevard este un punct de belvedere situat în Sib.",
+                  "text": "Bulevardul Al-Araimi în Seeb.",
                   "category": "natural",
                   "coords": [
                         58.182846,
@@ -571,7 +5314,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Garden",
-                  "text": "حديقة este o atracție situată în Sib.",
+                  "text": "Grădina din Seeb.",
                   "category": "landmark",
                   "coords": [
                         58.172098,
@@ -582,7 +5325,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sadaf Wedding Hall",
-                  "text": "قاعة صدف للافراح is a theatre located in Sib.",
+                  "text": "Sadaf wedding hall in Seeb.",
                   "category": "cultural",
                   "coords": [
                         58.194814,
@@ -591,7 +5334,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Asala Hall",
-                  "text": "قاعة الأصالة is a theatre located in Sib.",
+                  "text": "Al Asala hall in Seeb.",
                   "category": "cultural",
                   "coords": [
                         58.20006,
@@ -600,7 +5343,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Faisal Rest House",
-                  "text": "استراحة الفيصل is a viewpoint located in Sib.",
+                  "text": "Al Faisal rest house in Seeb.",
                   "category": "natural",
                   "coords": [
                         58.196722,
@@ -609,7 +5352,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Araimi Boulevard",
-                  "text": "Al-Araimi Boulevard is a viewpoint located in Sib.",
+                  "text": "Al-Araimi boulevard in Seeb.",
                   "category": "natural",
                   "coords": [
                         58.182846,
@@ -618,7 +5361,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Garden",
-                  "text": "حديقة is an attraction located in Sib.",
+                  "text": "Garden in Seeb.",
                   "category": "landmark",
                   "coords": [
                         58.172098,
@@ -673,7 +5416,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al Alam Palace",
-                  "text": "Der Al Alam Palace ist ein repräsentatives Schloss des Sultans in Matrah.",
+                  "text": "Prunkvoller Palast des Sultans von Oman mit blau-goldener Fassade in Muttrah.",
                   "category": "castle",
                   "coords": [
                         58.594838,
@@ -718,7 +5461,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bait Al Zubair",
-                  "text": "Bait Al Zubair ist ein Museum in Matrah.",
+                  "text": "Das Museum Bait Al Zubair in Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.58961,
@@ -727,7 +5470,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Muscat Gate Museum",
-                  "text": "Das Muscat Gate Museum ist ein Museum in Matrah.",
+                  "text": "Das Muscat Gate Museum in Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.585857,
@@ -736,7 +5479,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Place & People Museum",
-                  "text": "Das Place & People Museum ist ein Museum in Matrah.",
+                  "text": "Das Place & People Museum in Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.568252,
@@ -745,7 +5488,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Mutrah Fort",
-                  "text": "Das Mutrah Fort ist eine Festung in Matrah.",
+                  "text": "Die Festung Mutrah mit Blick auf den Hafen.",
                   "category": "fortress",
                   "coords": [
                         58.567103,
@@ -754,7 +5497,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Oman French Museum",
-                  "text": "Das Oman French Museum ist ein Museum in Matrah.",
+                  "text": "Das Omanisch-Französische Museum in Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.591768,
@@ -763,7 +5506,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harbour Gate",
-                  "text": "Harbour Gate ist ein Monument in Matrah.",
+                  "text": "Das historische Hafentor am Hafen von Muttrah.",
                   "category": "historical",
                   "coords": [
                         58.548167,
@@ -772,7 +5515,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Paisley",
-                  "text": "Paisley ist eine Kunstgalerie in Matrah.",
+                  "text": "Das Paisley-Museum in Muttrah widmet sich dem Paisleymuster.",
                   "category": "museum",
                   "coords": [
                         58.563775,
@@ -781,7 +5524,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Omani Heritage Gallery",
-                  "text": "Die Omani Heritage Gallery ist eine Kunstgalerie in Matrah.",
+                  "text": "Die Omani Heritage Gallery in Muttrah präsentiert das omanische Kulturerbe.",
                   "category": "museum",
                   "coords": [
                         58.565329,
@@ -790,7 +5533,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Mutrah Souq",
-                  "text": "سوق مطرح ist eine Sehenswürdigkeit in Matrah.",
+                  "text": "Der traditionelle Souq von Muttrah mit seinen engen Gassen.",
                   "category": "landmark",
                   "coords": [
                         58.563831,
@@ -799,7 +5542,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Shiva temple",
-                  "text": "Der Shiva temple ist ein bekannter hinduistischer Tempel und eine Kultstätte in Matrah.",
+                  "text": "Hinduistischer Tempel aus dem 19. Jahrhundert im alten Souk von Muttrah.",
                   "category": "religious",
                   "coords": [
                         58.58816,
@@ -810,7 +5553,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al Alam Palace",
-                  "text": "Az Al Alam Palace az ománi szultán nevezetes ünnepi kastélya Matrah városában.",
+                  "text": "Az ománi szultán pompás palotája kék-arany homlokzattal Muttrahban.",
                   "category": "castle",
                   "coords": [
                         58.594838,
@@ -855,7 +5598,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bait Al Zubair",
-                  "text": "A Bait Al Zubair egy múzeum Matrah városában.",
+                  "text": "A Bait Al Zubair múzeum Muttrahban.",
                   "category": "museum",
                   "coords": [
                         58.58961,
@@ -864,7 +5607,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Muscat Gate Museum",
-                  "text": "A Muscat Gate Museum egy múzeum Matrah városában.",
+                  "text": "A Muszcat Kapu Múzeum Muttrahban.",
                   "category": "museum",
                   "coords": [
                         58.585857,
@@ -873,7 +5616,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Place & People Museum",
-                  "text": "A Place & People Museum egy múzeum Matrah városában.",
+                  "text": "A Place & People Múzeum Muttrahban.",
                   "category": "museum",
                   "coords": [
                         58.568252,
@@ -882,7 +5625,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Mutrah Fort",
-                  "text": "A Mutrah Fort egy erőd Matrah városában.",
+                  "text": "A Mutrah erőd, amely a kikötőre néz.",
                   "category": "fortress",
                   "coords": [
                         58.567103,
@@ -891,7 +5634,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Oman French Museum",
-                  "text": "Az Oman French Museum egy múzeum Matrah városában.",
+                  "text": "Az Omán-Francia Múzeum Muttrahban.",
                   "category": "museum",
                   "coords": [
                         58.591768,
@@ -900,7 +5643,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harbour Gate",
-                  "text": "A Harbour Gate egy műemlék Matrah városában.",
+                  "text": "A történelmi kikötőkapu Muttrah kikötőjében.",
                   "category": "historical",
                   "coords": [
                         58.548167,
@@ -909,7 +5652,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Paisley",
-                  "text": "A Paisley egy művészeti galéria Matrah városában.",
+                  "text": "A Paisley Múzeum Muttrahban a paisley mintázatot mutatja be.",
                   "category": "museum",
                   "coords": [
                         58.563775,
@@ -918,7 +5661,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Omani Heritage Gallery",
-                  "text": "Az Omani Heritage Gallery egy művészeti galéria Matrah városában.",
+                  "text": "Az Ománi Örökség Galéria Muttrahban Omán kulturális örökségét mutatja be.",
                   "category": "museum",
                   "coords": [
                         58.565329,
@@ -927,7 +5670,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Mutrah Souq",
-                  "text": "A سوق مطرح egy látványosság Matrah városában.",
+                  "text": "A Muttrah-i hagyományos piac, a Souq, szűk sikátoraival.",
                   "category": "landmark",
                   "coords": [
                         58.563831,
@@ -936,7 +5679,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Shiva temple",
-                  "text": "A Shiva temple egy jól ismert hindu templom és istentiszteleti hely Matrah városában.",
+                  "text": "19. századi hindu templom Muttrah óvárosának piacán.",
                   "category": "religious",
                   "coords": [
                         58.58816,
@@ -947,7 +5690,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Al Alam Palace",
-                  "text": "Al Alam Palace este un palat ceremonial important al Sultanului în Matrah.",
+                  "text": "Palatul ceremonial al sultanului Omanului, cu fațadă albastră și aurie în Muttrah.",
                   "category": "castle",
                   "coords": [
                         58.594838,
@@ -992,7 +5735,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bait Al Zubair",
-                  "text": "Bait Al Zubair este un muzeu în Matrah.",
+                  "text": "Muzeul Bait Al Zubair în Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.58961,
@@ -1001,7 +5744,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Muscat Gate Museum",
-                  "text": "Muscat Gate Museum este un muzeu în Matrah.",
+                  "text": "Muzeul Porții Muscat în Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.585857,
@@ -1010,7 +5753,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Place & People Museum",
-                  "text": "Place & People Museum este un muzeu în Matrah.",
+                  "text": "Muzeul Place & People în Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.568252,
@@ -1019,7 +5762,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Mutrah Fort",
-                  "text": "Mutrah Fort este un fort în Matrah.",
+                  "text": "Fortăreața Mutrah care domină portul.",
                   "category": "fortress",
                   "coords": [
                         58.567103,
@@ -1028,7 +5771,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Oman French Museum",
-                  "text": "Oman French Museum este un muzeu în Matrah.",
+                  "text": "Muzeul Oman-Franța în Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.591768,
@@ -1037,7 +5780,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harbour Gate",
-                  "text": "Harbour Gate este un monument în Matrah.",
+                  "text": "Poarta istorică a portului din Muttrah.",
                   "category": "historical",
                   "coords": [
                         58.548167,
@@ -1046,7 +5789,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Paisley",
-                  "text": "Paisley este o galerie de artă în Matrah.",
+                  "text": "Muzeul Paisley din Muttrah este dedicat modelului paisley.",
                   "category": "museum",
                   "coords": [
                         58.563775,
@@ -1055,7 +5798,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Omani Heritage Gallery",
-                  "text": "Omani Heritage Gallery este o galerie de artă în Matrah.",
+                  "text": "Galerii de patrimoniu omanez din Muttrah expun moștenirea culturală a Omanului.",
                   "category": "museum",
                   "coords": [
                         58.565329,
@@ -1064,7 +5807,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Mutrah Souq",
-                  "text": "سوق مطرح este o atracție în Matrah.",
+                  "text": "Souq-ul tradițional din Muttrah, cu aleile sale înguste.",
                   "category": "landmark",
                   "coords": [
                         58.563831,
@@ -1073,7 +5816,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Shiva temple",
-                  "text": "Shiva temple este un templu hindus recunoscut și un lăcaș de cult în Matrah.",
+                  "text": "Templu hindus din secolul al XIX-lea în vechiul souk din Muttrah.",
                   "category": "religious",
                   "coords": [
                         58.58816,
@@ -1084,7 +5827,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al Alam Palace",
-                  "text": "Al Alam Palace is a notable ceremonial palace of the Sultan in Matrah.",
+                  "text": "Ceremonial palace of the Sultan of Oman with a blue and gold facade in Muttrah.",
                   "category": "castle",
                   "coords": [
                         58.594838,
@@ -1129,7 +5872,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bait Al Zubair",
-                  "text": "Bait Al Zubair is a museum in Matrah.",
+                  "text": "Bait Al Zubair museum in Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.58961,
@@ -1138,7 +5881,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Muscat Gate Museum",
-                  "text": "Muscat Gate Museum is a museum in Matrah.",
+                  "text": "Muscat Gate Museum in Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.585857,
@@ -1147,7 +5890,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Place & People Museum",
-                  "text": "Place & People Museum is a museum in Matrah.",
+                  "text": "Place & People Museum in Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.568252,
@@ -1156,7 +5899,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Mutrah Fort",
-                  "text": "Mutrah Fort is a fort in Matrah.",
+                  "text": "Mutrah Fort overlooking the harbor.",
                   "category": "fortress",
                   "coords": [
                         58.567103,
@@ -1165,7 +5908,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Oman French Museum",
-                  "text": "Oman French Museum is a museum in Matrah.",
+                  "text": "Oman French Museum in Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.591768,
@@ -1174,7 +5917,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harbour Gate",
-                  "text": "Harbour Gate is a monument in Matrah.",
+                  "text": "The historic Harbour Gate at Muttrah's port.",
                   "category": "historical",
                   "coords": [
                         58.548167,
@@ -1183,7 +5926,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Paisley",
-                  "text": "Paisley is an art gallery in Matrah.",
+                  "text": "The Paisley Museum in Muttrah is dedicated to the paisley pattern.",
                   "category": "museum",
                   "coords": [
                         58.563775,
@@ -1192,7 +5935,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Omani Heritage Gallery",
-                  "text": "Omani Heritage Gallery is an art gallery in Matrah.",
+                  "text": "The Omani Heritage Gallery in Muttrah showcases Omani cultural heritage.",
                   "category": "museum",
                   "coords": [
                         58.565329,
@@ -1201,7 +5944,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Mutrah Souq",
-                  "text": "سوق مطرح is an attraction in Matrah.",
+                  "text": "The traditional Mutrah Souq with its narrow alleys.",
                   "category": "landmark",
                   "coords": [
                         58.563831,
@@ -1210,7 +5953,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Shiva temple",
-                  "text": "The Shiva temple is a well-known Hindu temple and place of worship in Matrah.",
+                  "text": "19th-century Hindu temple in the old souk of Muttrah.",
                   "category": "religious",
                   "coords": [
                         58.58816,
@@ -1263,7 +6006,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Snow Oman",
-                  "text": "Themenpark in Bawshar.",
+                  "text": "Der Indoor-Schneepark Snow Oman in Bawshar.",
                   "category": "family",
                   "coords": [
                         58.407074,
@@ -1272,7 +6015,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Khuwair Nature Reserve",
-                  "text": "Naturschutzgebiet in Bawshar.",
+                  "text": "Das Naturschutzgebiet Al Khuwair in Bawshar schützt die Küstenlandschaft.",
                   "category": "natural",
                   "coords": [
                         58.417957,
@@ -1281,7 +6024,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "House",
-                  "text": "Attraktion in Bawshar.",
+                  "text": "Ein historisches Haus in Bawshar mit traditioneller omanischer Architektur.",
                   "category": "landmark",
                   "coords": [
                         58.426077,
@@ -1290,7 +6033,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bawshar Sands",
-                  "text": "Aussichtspunkt in Bawshar.",
+                  "text": "Die Sanddünen von Bosher Sands in Bawshar.",
                   "category": "natural",
                   "coords": [
                         58.407274,
@@ -1299,7 +6042,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Große Sultan-Qabus-Moschee",
-                  "text": "Prächtige Moschee in Bawshar.",
+                  "text": "Eine der größten Moscheen der Welt mit einer 50-m-Kuppel und dem zweitgrößten handgewebten Teppich.",
                   "category": "religious",
                   "coords": [
                         58.388518,
@@ -1310,7 +6053,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Snow Oman",
-                  "text": "Vidámpark Bawsharban.",
+                  "text": "A Snow Oman beltéri hópark Bawsharban.",
                   "category": "family",
                   "coords": [
                         58.407074,
@@ -1319,7 +6062,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Khuwair Nature Reserve",
-                  "text": "Természetvédelmi terület Bawsharban.",
+                  "text": "Az Al Khuwair Természetvédelmi Terület Bawsharban a tengerparti tájat védi.",
                   "category": "natural",
                   "coords": [
                         58.417957,
@@ -1328,7 +6071,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "House",
-                  "text": "Látnivaló Bawsharban.",
+                  "text": "Egy történelmi ház Bawsharban, hagyományos ománi építészettel.",
                   "category": "landmark",
                   "coords": [
                         58.426077,
@@ -1337,7 +6080,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bawshar Sands",
-                  "text": "Kilátópont Bawsharban.",
+                  "text": "A Bosher Sands homokdűnéi Bawsharban.",
                   "category": "natural",
                   "coords": [
                         58.407274,
@@ -1346,7 +6089,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Qaboos Grand Mosque",
-                  "text": "Pompás mecset Bawsharban.",
+                  "text": "A világ egyik legnagyobb mecsete 50 méteres kupolával és a második legnagyobb kézzel szőtt szőnyeggel.",
                   "category": "religious",
                   "coords": [
                         58.388518,
@@ -1357,7 +6100,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Snow Oman",
-                  "text": "Parc tematic în Bawshar.",
+                  "text": "Parcul interior de zăpadă Snow Oman din Bawshar.",
                   "category": "family",
                   "coords": [
                         58.407074,
@@ -1366,7 +6109,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Khuwair Nature Reserve",
-                  "text": "Rezervație naturală în Bawshar.",
+                  "text": "Rezervația naturală Al Khuwair din Bawshar protejează peisajul de coastă.",
                   "category": "natural",
                   "coords": [
                         58.417957,
@@ -1375,7 +6118,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "House",
-                  "text": "Atracție în Bawshar.",
+                  "text": "O casă istorică din Bawshar, cu arhitectură tradițională omană.",
                   "category": "landmark",
                   "coords": [
                         58.426077,
@@ -1384,7 +6127,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bawshar Sands",
-                  "text": "Punct de observație în Bawshar.",
+                  "text": "Dunele de nisip Bosher Sands din Bawshar.",
                   "category": "natural",
                   "coords": [
                         58.407274,
@@ -1393,7 +6136,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Qaboos Grand Mosque",
-                  "text": "Moschee grandioasă în Bawshar.",
+                  "text": "Una dintre cele mai mari moschei din lume, cu o cupolă de 50 m și al doilea cel mai mare covor țesut manual.",
                   "category": "religious",
                   "coords": [
                         58.388518,
@@ -1404,7 +6147,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Snow Oman",
-                  "text": "Theme park in Bawshar.",
+                  "text": "Snow Oman indoor snow park in Bawshar.",
                   "category": "family",
                   "coords": [
                         58.407074,
@@ -1413,7 +6156,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Khuwair Natural Reserve",
-                  "text": "Nature reserve in Bawshar.",
+                  "text": "Al Khuwair Natural Reserve in Bawshar protects coastal landscapes.",
                   "category": "natural",
                   "coords": [
                         58.417957,
@@ -1422,7 +6165,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "House",
-                  "text": "Attraction in Bawshar.",
+                  "text": "A historic house in Bawshar with traditional Omani architecture.",
                   "category": "landmark",
                   "coords": [
                         58.426077,
@@ -1431,7 +6174,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bosher Sands",
-                  "text": "Viewpoint in Bawshar.",
+                  "text": "The sand dunes of Bosher Sands in Bawshar.",
                   "category": "natural",
                   "coords": [
                         58.407274,
@@ -1440,7 +6183,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Sultan Qaboos Grand Mosque",
-                  "text": "Grand mosque in Bawshar.",
+                  "text": "One of the world's largest mosques, with a 50-meter dome and the second-largest hand-woven carpet.",
                   "category": "religious",
                   "coords": [
                         58.388518,
@@ -1504,7 +6247,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bahla Gate",
-                  "text": "Bahla Gate ist ein Museum in Bahla.",
+                  "text": "Das ehemalige Stadttor von Bahla, heute Museum zur lokalen Geschichte.",
                   "category": "museum",
                   "coords": [
                         57.291742,
@@ -1513,7 +6256,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "View on Bahla and fort",
-                  "text": "View on Bahla and fort ist eine Sehenswürdigkeit in Bahla.",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf Bahla und seine Festung.",
                   "category": "landmark",
                   "coords": [
                         57.306703,
@@ -1533,7 +6276,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bahla Gate",
-                  "text": "A Bahla Gate egy múzeum Bahla városában.",
+                  "text": "A Bahla kapu, ma múzeum, amely a helyi történelmet mutatja be.",
                   "category": "museum",
                   "coords": [
                         57.291742,
@@ -1542,7 +6285,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "View on Bahla and fort",
-                  "text": "A View on Bahla and fort egy látványosság Bahla városában.",
+                  "text": "Egy kilátópont Bahla városára és erődjére nyíló panorámával.",
                   "category": "landmark",
                   "coords": [
                         57.306703,
@@ -1562,7 +6305,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bahla Gate",
-                  "text": "Bahla Gate este un muzeu situat în Bahla.",
+                  "text": "Poarta Bahla, acum muzeu, care expune istoria locală.",
                   "category": "museum",
                   "coords": [
                         57.291742,
@@ -1571,7 +6314,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "View on Bahla and fort",
-                  "text": "View on Bahla and fort este o atracție situată în Bahla.",
+                  "text": "Un punct de belvedere cu panoramă asupra orașului Bahla și a cetății sale.",
                   "category": "landmark",
                   "coords": [
                         57.306703,
@@ -1591,7 +6334,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Bahla Gate",
-                  "text": "Bahla Gate is a museum located in Bahla.",
+                  "text": "Bahla Gate, now a museum showcasing local history.",
                   "category": "museum",
                   "coords": [
                         57.291742,
@@ -1600,7 +6343,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "View on Bahla and fort",
-                  "text": "View on Bahla and fort is an attraction located in Bahla.",
+                  "text": "A viewpoint offering a panorama of Bahla and its fort.",
                   "category": "landmark",
                   "coords": [
                         57.306703,
@@ -1653,7 +6396,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al Junainah",
-                  "text": "الجنينة ist ein Schloss in Barka.",
+                  "text": "Die Burg Al Junainah in Barka, eine traditionelle omanische Festung.",
                   "category": "castle",
                   "coords": [
                         57.8834,
@@ -1662,7 +6405,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Harth Farm",
-                  "text": "مزرعة الحرث ist ein Schloss in Barka.",
+                  "text": "Die Burg Al Harth Farm in Barka, aus einem Bauernhof entstanden.",
                   "category": "castle",
                   "coords": [
                         57.907989,
@@ -1671,7 +6414,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Jahilah",
-                  "text": "الجحيلة ist ein Schloss in Barka.",
+                  "text": "Die Burg Al Jahilah in Barka, eine weitere historische Festung.",
                   "category": "castle",
                   "coords": [
                         57.890655,
@@ -1682,7 +6425,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al Junainah",
-                  "text": "A الجنينة egy kastély Barka városában.",
+                  "text": "Az Al Junainah vár Barkában, egy hagyományos ománi erőd.",
                   "category": "castle",
                   "coords": [
                         57.8834,
@@ -1691,7 +6434,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Harth Farm",
-                  "text": "A مزرعة الحرث egy kastély Barka városában.",
+                  "text": "Az Al Harth Farm vár Barkában, egykori mezőgazdasági településből.",
                   "category": "castle",
                   "coords": [
                         57.907989,
@@ -1700,7 +6443,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Jahilah",
-                  "text": "A الجحيلة egy kastély Barka városában.",
+                  "text": "Az Al Jahilah vár Barkában, egy másik történelmi erőd.",
                   "category": "castle",
                   "coords": [
                         57.890655,
@@ -1711,7 +6454,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Al Junainah",
-                  "text": "الجنينة este un castel în Barka.",
+                  "text": "Castelul Al Junainah din Barka, o fortăreață tradițională omană.",
                   "category": "castle",
                   "coords": [
                         57.8834,
@@ -1720,7 +6463,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Harth Farm",
-                  "text": "مزرعة الحرث este un castel în Barka.",
+                  "text": "Castelul Al Harth Farm din Barka, provenit dintr-o fermă.",
                   "category": "castle",
                   "coords": [
                         57.907989,
@@ -1729,7 +6472,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Jahilah",
-                  "text": "الجحيلة este un castel în Barka.",
+                  "text": "Castelul Al Jahilah din Barka, o altă fortăreață istorică.",
                   "category": "castle",
                   "coords": [
                         57.890655,
@@ -1740,7 +6483,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al Junainah",
-                  "text": "الجنينة is a castle in Barka.",
+                  "text": "Al Junainah Castle in Barka, a traditional Omani fortress.",
                   "category": "castle",
                   "coords": [
                         57.8834,
@@ -1749,7 +6492,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Harth Farm",
-                  "text": "مزرعة الحرث is a castle in Barka.",
+                  "text": "Al Harth Farm Castle in Barka, originally a farm.",
                   "category": "castle",
                   "coords": [
                         57.907989,
@@ -1758,7 +6501,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Jahilah",
-                  "text": "الجحيلة is a castle in Barka.",
+                  "text": "Al Jahilah Castle in Barka, another historic fortress.",
                   "category": "castle",
                   "coords": [
                         57.890655,
@@ -1854,7 +6597,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sur Al Hilal Fort",
-                  "text": "حصن سور آل هلال ist eine Burg in Suwaiq.",
+                  "text": "Die Festung Sur Al Hilal in Suwayq, eine Verteidigungsanlage.",
                   "category": "castle",
                   "coords": [
                         57.355315,
@@ -1865,7 +6608,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sur Al Hilal Fort",
-                  "text": "A حصن سور آل هلال egy vár Suwaiq városában.",
+                  "text": "A Sur Al Hilal erőd Suwayqban, egy védelmi építmény.",
                   "category": "castle",
                   "coords": [
                         57.355315,
@@ -1876,7 +6619,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sur Al Hilal Fort",
-                  "text": "حصن سور آل هلال este un castel situat în Suwaiq.",
+                  "text": "Fortăreața Sur Al Hilal din Suwayq, o construcție defensivă.",
                   "category": "castle",
                   "coords": [
                         57.355315,
@@ -1887,7 +6630,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sur Al Hilal Fort",
-                  "text": "حصن سور آل هلال is a castle located in Suwaiq.",
+                  "text": "Sur Al Hilal Fort in Suwayq, a defensive structure.",
                   "category": "castle",
                   "coords": [
                         57.355315,
@@ -1941,7 +6684,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Saham Fort",
-                  "text": "Das Saham Fort ist eine historische Burg an der Küste in der Stadt Saham.",
+                  "text": "Das Saham Fort ist eine einstöckige Festung mit traditioneller omanischer Architektur im Küstenort Saham.",
                   "category": "castle",
                   "coords": [
                         56.890415,
@@ -1952,7 +6695,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Saham erőd",
-                  "text": "A Saham erőd egy történelmi kastély, amely a tengerparton található Saham városában.",
+                  "text": "A Saham erőd egy egyemeletes erődítmény, hagyományos ománi építészettel a tengerparti Saham városában.",
                   "category": "castle",
                   "coords": [
                         56.890415,
@@ -1963,7 +6706,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fortul Saham",
-                  "text": "Fortul Saham este un castel istoric situat pe coastă, în orașul Saham.",
+                  "text": "Fortul Saham este o fortăreață cu un singur etaj, cu arhitectură tradițională omană, în orașul de coastă Saham.",
                   "category": "castle",
                   "coords": [
                         56.890415,
@@ -1974,7 +6717,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Saham fort",
-                  "text": "Saham fort is a historic castle located on the coast in the city of Saham.",
+                  "text": "Saham fort is a one-story fort with traditional Omani architecture in the coastal town of Saham.",
                   "category": "castle",
                   "coords": [
                         56.890415,
@@ -2023,7 +6766,52 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 120 000 habitants dans l'Al Batinah Nord", "Environ 200 kilomètres au nord-ouest de Mascate", "Fort de Saham de la fin du XVIIIe siècle", "Said bin Sultan a régné de 1804 à 1856", "Transfert de la capitale à Zanzibar en 1832", "Ville importante pour la pêche et l'agriculture", "Irrigation Aflag pour les citrons verts et les dattes", "Installations de congélation pour traiter la pêche"],
     }, image: "/poi-images/saham-cities-v2.webp"},
   {
-    id: "shinas-cities-v2",
+    id: "shinas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shinas Fort",
+                  "text": "Diese im 13. Jahrhundert erbaute Küstenfestung im Oman beeindruckt durch ihre massiven Rundtürme und beherbergt ein Museum.",
+                  "category": "castle",
+                  "coords": [
+                        56.466365,
+                        24.744213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shinas Fort",
+                  "text": "Ez a 13. században épült ománi tengerparti erőd masszív kerek tornyairól ismert, és egy múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        56.466365,
+                        24.744213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shinas Fort",
+                  "text": "Această fortăreață de coastă din Oman, construită în secolul al XIII-lea, impresionează prin turnurile sale rotunde masive și găzduiește un muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        56.466365,
+                        24.744213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shinas Fort",
+                  "text": "Built in the 13th century, this coastal fortress in Oman is notable for its massive round towers and houses a museum.",
+                  "category": "castle",
+                  "coords": [
+                        56.466365,
+                        24.744213
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-BA",
     coords: [56.4667, 24.7500],
@@ -2068,7 +6856,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al Mudaibi Castles and Forts",
-                  "text": "قلاع وحصون المضيبي ist eine Burg in Al Mudaibi.",
+                  "text": "Die Burgen und Festungen von Al Mudaibi in Mudhaibi, eine Gruppe historischer Wehranlagen.",
                   "category": "castle",
                   "coords": [
                         58.122319,
@@ -2079,7 +6867,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al Mudaibi Castles and Forts",
-                  "text": "A قلاع وحصون المضيبي egy vár Al Mudaibi városában.",
+                  "text": "Al Mudaibi várai és erődjei Mudhaibiban, történelmi erődítmények csoportja.",
                   "category": "castle",
                   "coords": [
                         58.122319,
@@ -2090,7 +6878,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Al Mudaibi Castles and Forts",
-                  "text": "قلاع وحصون المضيبي este un castel situat în Al Mudaibi.",
+                  "text": "Castelele și fortărețele Al Mudaibi din Mudhaibi, un grup de fortificații istorice.",
                   "category": "castle",
                   "coords": [
                         58.122319,
@@ -2101,7 +6889,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al Mudaibi Castles and Forts",
-                  "text": "قلاع وحصون المضيبي is a castle located in Al Mudaibi.",
+                  "text": "Al Mudaibi Castles and Forts in Mudhaibi, a cluster of historic fortifications.",
                   "category": "castle",
                   "coords": [
                         58.122319,
@@ -2154,7 +6942,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jalan Bani Bu Ali Fort",
-                  "text": "Das Jalan Bani Bu Ali Fort ist eine Burg in der Stadt Jalan Bani Bu Ali.",
+                  "text": "Die Festung Jalan Bani Bu Ali in Bani Bu Ali, eine Befestigungsanlage.",
                   "category": "castle",
                   "coords": [
                         59.321245,
@@ -2165,7 +6953,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Jalan Bani Bu Ali Fort",
-                  "text": "A Jalan Bani Bu Ali erőd egy kastély Jalan Bani Bu Ali városában.",
+                  "text": "A Jalan Bani Bu Ali erőd Bani Bu Aliban, egy erődítmény.",
                   "category": "castle",
                   "coords": [
                         59.321245,
@@ -2176,7 +6964,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Jalan Bani Bu Ali Fort",
-                  "text": "Fortul Jalan Bani Bu Ali este un castel situat în orașul Jalan Bani Bu Ali.",
+                  "text": "Fortăreața Jalan Bani Bu Ali din Bani Bu Ali, o fortificație.",
                   "category": "castle",
                   "coords": [
                         59.321245,
@@ -2187,7 +6975,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jalan Bani Bu Ali Fort",
-                  "text": "Jalan Bani Bu Ali Fort is a castle located in the city of Jalan Bani Bu Ali.",
+                  "text": "Jalan Bani Bu Ali Fort in Bani Bu Ali, a fortification.",
                   "category": "castle",
                   "coords": [
                         59.321245,
@@ -2281,7 +7069,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bait al-Safah",
-                  "text": "Bait al-Safah ist ein Museum in Al Hamra.",
+                  "text": "Das Museum Bait al-Safah in Hamra, ein restauriertes Lehmziegelhaus.",
                   "category": "museum",
                   "coords": [
                         57.281532,
@@ -2290,7 +7078,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Jabaat al Baqt",
-                  "text": "Jabaat al Baqt ist ein Berggipfel in Al Hamra.",
+                  "text": "Die Jabaat al Baqt ist eine Kalksteinfelsformation in der Region Al Hamra in Oman.",
                   "category": "natural",
                   "coords": [
                         57.310043,
@@ -2299,7 +7087,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Munaizif",
-                  "text": "المنيزف ist eine Sehenswürdigkeit in Al Hamra.",
+                  "text": "Al Munaizif in Hamra, ein historischer Platz mit traditioneller Architektur.",
                   "category": "landmark",
                   "coords": [
                         57.298423,
@@ -2310,7 +7098,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bait al-Safah",
-                  "text": "A Bait al-Safah egy múzeum Al Hamra városában.",
+                  "text": "A Bait al-Safah múzeum Hamrában, egy felújított vályogház.",
                   "category": "museum",
                   "coords": [
                         57.281532,
@@ -2319,7 +7107,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Jabaat al Baqt",
-                  "text": "A Jabaat al Baqt egy hegycsúcs Al Hamra területén.",
+                  "text": "A Jabaat al Baqt egy mészkő sziklaformáció az ománi Al Hamra régióban.",
                   "category": "natural",
                   "coords": [
                         57.310043,
@@ -2328,7 +7116,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Munaizif",
-                  "text": "A المنيزف egy látványosság Al Hamra városában.",
+                  "text": "Al Munaizif Hamrában, egy történelmi tér hagyományos építészettel.",
                   "category": "landmark",
                   "coords": [
                         57.298423,
@@ -2339,7 +7127,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bait al-Safah",
-                  "text": "Bait al-Safah este un muzeu situat în Al Hamra.",
+                  "text": "Muzeul Bait al-Safah din Hamra, o casă restaurată din chirpici.",
                   "category": "museum",
                   "coords": [
                         57.281532,
@@ -2348,7 +7136,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Jabaat al Baqt",
-                  "text": "Jabaat al Baqt este un vârf montan situat în Al Hamra.",
+                  "text": "Jabaat al Baqt este o formațiune de calcar în regiunea Al Hamra din Oman.",
                   "category": "natural",
                   "coords": [
                         57.310043,
@@ -2357,7 +7145,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Munaizif",
-                  "text": "المنيزف este o atracție situată în Al Hamra.",
+                  "text": "Al Munaizif din Hamra, o piață istorică cu arhitectură tradițională.",
                   "category": "landmark",
                   "coords": [
                         57.298423,
@@ -2368,7 +7156,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bait al-Safah",
-                  "text": "Bait al-Safah is a museum located in Al Hamra.",
+                  "text": "Bait al-Safah Museum in Hamra, a restored mudbrick house.",
                   "category": "museum",
                   "coords": [
                         57.281532,
@@ -2377,7 +7165,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Jabaat al Baqt",
-                  "text": "Jabaat al Baqt is a peak located in Al Hamra.",
+                  "text": "Jabaat al Baqt is a limestone rock formation in the Al Hamra region of Oman.",
                   "category": "natural",
                   "coords": [
                         57.310043,
@@ -2386,7 +7174,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Al Munaizif",
-                  "text": "المنيزف is an attraction located in Al Hamra.",
+                  "text": "Al Munaizif in Hamra, a historic square with traditional architecture.",
                   "category": "landmark",
                   "coords": [
                         57.298423,
@@ -2439,7 +7227,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Taqah Fort",
-                  "text": "Das Taqah-Fort ist eine lokale Festung in der Stadt Taqah.",
+                  "text": "Die Festung Taqah in Taqah, eine Küstenfestung.",
                   "category": "fortress",
                   "coords": [
                         54.395346,
@@ -2448,7 +7236,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Taqah Castle",
-                  "text": "Taqah Castle ist eine historische Burg in der Stadt Taqah.",
+                  "text": "Die Burg Taqah in Taqah, ein weiteres historisches Bauwerk.",
                   "category": "castle",
                   "coords": [
                         54.394971,
@@ -2457,7 +7245,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Khawr Taqah Reserve",
-                  "text": "Das Khawr Taqah Reserve ist ein Naturschutzgebiet in der Stadt Taqah.",
+                  "text": "Das Naturschutzgebiet Khawr Taqah in Taqah, ein Mangroven-Feuchtgebiet.",
                   "category": "natural",
                   "coords": [
                         54.370928,
@@ -2466,7 +7254,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Khawr Rawri Reserve",
-                  "text": "Das Khawr Rawri Reserve ist ein geschütztes Naturschutzgebiet in der Stadt Taqah.",
+                  "text": "Das Naturschutzgebiet Khawr Rawri in Taqah, bekannt für seine Vogelwelt.",
                   "category": "natural",
                   "coords": [
                         54.430796,
@@ -2477,7 +7265,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Taqah Fort",
-                  "text": "A Taqah erőd egy helyi erőd Taqah városában.",
+                  "text": "A Taqah erőd Taqahban, egy tengerparti erőd.",
                   "category": "fortress",
                   "coords": [
                         54.395346,
@@ -2486,7 +7274,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Taqah Castle",
-                  "text": "A Taqah-kastély egy történelmi kastély Taqah városában.",
+                  "text": "A Taqah vár Taqahban, egy másik történelmi épület.",
                   "category": "castle",
                   "coords": [
                         54.394971,
@@ -2495,7 +7283,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Khawr Taqah Reserve",
-                  "text": "A Khawr Taqah Reserve egy természetvédelmi terület Taqah városában.",
+                  "text": "A Khawr Taqah Természetvédelmi Terület Taqahban, egy mangrove mocsár.",
                   "category": "natural",
                   "coords": [
                         54.370928,
@@ -2504,7 +7292,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Khawr Rawri Reserve",
-                  "text": "A Khawr Rawri Reserve egy védett természetvédelmi terület Taqah városában.",
+                  "text": "A Khawr Rawri Természetvédelmi Terület Taqahban, madárvilágáról ismert.",
                   "category": "natural",
                   "coords": [
                         54.430796,
@@ -2515,7 +7303,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Taqah Fort",
-                  "text": "Fortul Taqah este o fortăreață locală situată în orașul Taqah.",
+                  "text": "Fortăreața Taqah din Taqah, o fortificație de coastă.",
                   "category": "fortress",
                   "coords": [
                         54.395346,
@@ -2524,7 +7312,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Taqah Castle",
-                  "text": "Castelul Taqah este un castel istoric situat în orașul Taqah.",
+                  "text": "Castelul Taqah din Taqah, o altă clădire istorică.",
                   "category": "castle",
                   "coords": [
                         54.394971,
@@ -2533,7 +7321,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Rezervația Khawr Taqah",
-                  "text": "Rezervația Khawr Taqah este o rezervație naturală situată în orașul Taqah.",
+                  "text": "Rezervația naturală Khawr Taqah din Taqah, o zonă umedă de mangrove.",
                   "category": "natural",
                   "coords": [
                         54.370928,
@@ -2542,7 +7330,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Rezervația Khawr Rawri",
-                  "text": "Rezervația Khawr Rawri este o rezervație naturală protejată din orașul Taqah.",
+                  "text": "Rezervația naturală Khawr Rawri din Taqah, cunoscută pentru păsări.",
                   "category": "natural",
                   "coords": [
                         54.430796,
@@ -2553,7 +7341,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Taqah Fort",
-                  "text": "Taqah Fort is a local fort situated in the city of Taqah.",
+                  "text": "Taqah Fort in Taqah, a coastal fortress.",
                   "category": "fortress",
                   "coords": [
                         54.395346,
@@ -2562,7 +7350,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Taqah Castle",
-                  "text": "Taqah Castle is a historic castle located in the city of Taqah.",
+                  "text": "Taqah Castle in Taqah, another historic building.",
                   "category": "castle",
                   "coords": [
                         54.394971,
@@ -2571,7 +7359,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Khawr Taqah Reserve",
-                  "text": "Khawr Taqah Reserve is a nature reserve located in the city of Taqah.",
+                  "text": "Khawr Taqah Reserve in Taqah, a mangrove wetland.",
                   "category": "natural",
                   "coords": [
                         54.370928,
@@ -2580,7 +7368,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Khawr Rawri Reserve",
-                  "text": "Khawr Rawri Reserve is a protected nature reserve in the city of Taqah.",
+                  "text": "Khawr Rawri Reserve in Taqah, known for its birdlife.",
                   "category": "natural",
                   "coords": [
                         54.430796,
@@ -2629,7 +7417,196 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 25 000 habitants dans le Dhofar", "Environ 35 kilomètres à l'est de Salalah", "Fort de Taqah du XIXe siècle", "Construit sous Said bin Sultan", "Patrimoine UNESCO Sumhuram à 5 km", "Sumhuram date du Ier siècle avant J.-C.", "Port historique d'exportation d'encens", "Centre de la pêche à la sardine"],
     }, image: "/poi-images/taqah-cities-v2.webp"},
   {
-    id: "mirbat-cities-v2", "sights": {"de": [{"name": "Mirbat Fort", "text": "Historische Festung in Mirbat.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Burg in Mirbat.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "Entlang der omanischen Küste bei Mirbat bietet dieser Strand einen beruhigenden Rückzugsort am Meer. Eine stille, beschauliche Atmosphäre empfängt die Besucher an diesem charmanten Küstenstreifen. Der Ort lädt dazu ein, im Sand zu verweilen, ausgedehnte Spaziergänge am Ufer zu machen oder dem Wellenschlag zuzuhören. Für angenehmere Temperaturen empfiehlt sich ein Besuch in den kühleren Morgenstunden.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Attraktion in Mirbat.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Attraktion in Mirbat.", "category": "landmark", "coords": [54.691399, 16.992494]}], "hu": [{"name": "Mirbat Fort", "text": "Történelmi erőd Mirbatban.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Vár Mirbatban.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "Az ománi partok mentén, Mirbat közelében található strand megnyugtató tengerparti menedéket kínál. Csendes, szemlélődő atmoszféra fogadja a látogatókat ezen a bájos partszakaszon. A hely hívogató a homokban való elidőzésre, hosszú parti sétákra vagy a hullámzás hallgatására. A kellemesebb hőmérséklet érdekében érdemes a hűvösebb reggeli órákat választani a látogatásra.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Látnivaló Mirbatban.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Látnivaló Mirbatban.", "category": "landmark", "coords": [54.691399, 16.992494]}], "ro": [{"name": "Mirbat Fort", "text": "Fortăreață istorică în Mirbat.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Castel în Mirbat.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "De-a lungul coastei din Oman, lângă Mirbat, această plajă oferă un refugiu liniștitor la malul mării. O atmosferă tăcută și contemplativă îi întâmpină pe vizitatori pe această porțiune fermecătoare de coastă. Locația vă invită să zăboviți pe nisip, să faceți plimbări lungi pe țărm sau să ascultați sunetul valurilor. Pentru temperaturi mai plăcute, se recomandă o vizită în orele mai răcoroase ale dimineții.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Atracție în Mirbat.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Atracție în Mirbat.", "category": "landmark", "coords": [54.691399, 16.992494]}], "en": [{"name": "Mirbat Fort", "text": "Historic fort in Mirbat.", "category": "castle", "coords": [54.695659, 16.992016]}, {"name": "Tower Zohair", "text": "Castle in Mirbat.", "category": "castle", "coords": [54.692154, 16.975952]}, {"name": "Mirbat beach", "text": "Along the Omani coast near Mirbat, this beach provides a soothing seaside retreat. A quiet, contemplative atmosphere welcomes visitors to this charming stretch of coastline. The location invites you to linger on the sand, take extended walks along the shore, or listen to the crashing waves. For more pleasant temperatures, a visit during the cooler morning hours is recommended.", "category": "recreational", "coords": [54.689388, 16.995552]}, {"name": "Bin Ali", "text": "Attraction in Mirbat.", "category": "landmark", "coords": [54.690658, 17.002411]}, {"name": "Canons of Mirbat Castle", "text": "Attraction in Mirbat.", "category": "landmark", "coords": [54.691399, 16.992494]}]},
+    id: "mirbat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirbat Fort",
+                  "text": "Die Festung Mirbat in Mirbat, eine historische Burg.",
+                  "category": "castle",
+                  "coords": [
+                        54.695659,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Der Turm Zohair in Mirbat, ein Wachturm.",
+                  "category": "castle",
+                  "coords": [
+                        54.692154,
+                        16.975952
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "Entlang der omanischen Küste bei Mirbat bietet dieser Strand einen beruhigenden Rückzugsort am Meer. Eine stille, beschauliche Atmosphäre empfängt die Besucher an diesem charmanten Küstenstreifen. Der Ort lädt dazu ein, im Sand zu verweilen, ausgedehnte Spaziergänge am Ufer zu machen oder dem Wellenschlag zuzuhören. Für angenehmere Temperaturen empfiehlt sich ein Besuch in den kühleren Morgenstunden.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689388,
+                        16.995552
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Bin Ali in Mirbat, vermutlich ein historisches Grabmal.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "Die historischen Kanonen der Mirbat-Festung in Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirbat Fort",
+                  "text": "A Mirbat erőd Mirbatban, egy történelmi vár.",
+                  "category": "castle",
+                  "coords": [
+                        54.695659,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "A Zohair torony Mirbatban, egy őrtorony.",
+                  "category": "castle",
+                  "coords": [
+                        54.692154,
+                        16.975952
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "Az ománi partok mentén, Mirbat közelében található strand megnyugtató tengerparti menedéket kínál. Csendes, szemlélődő atmoszféra fogadja a látogatókat ezen a bájos partszakaszon. A hely hívogató a homokban való elidőzésre, hosszú parti sétákra vagy a hullámzás hallgatására. A kellemesebb hőmérséklet érdekében érdemes a hűvösebb reggeli órákat választani a látogatásra.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689388,
+                        16.995552
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Bin Ali Mirbatban, valószínűleg egy történelmi síremlék.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "A Mirbat erőd történelmi ágyúi Mirbatban.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirbat Fort",
+                  "text": "Fortăreața Mirbat din Mirbat, un castel istoric.",
+                  "category": "castle",
+                  "coords": [
+                        54.695659,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Turnul Zohair din Mirbat, un turn de pază.",
+                  "category": "castle",
+                  "coords": [
+                        54.692154,
+                        16.975952
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "De-a lungul coastei din Oman, lângă Mirbat, această plajă oferă un refugiu liniștitor la malul mării. O atmosferă tăcută și contemplativă îi întâmpină pe vizitatori pe această porțiune fermecătoare de coastă. Locația vă invită să zăboviți pe nisip, să faceți plimbări lungi pe țărm sau să ascultați sunetul valurilor. Pentru temperaturi mai plăcute, se recomandă o vizită în orele mai răcoroase ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689388,
+                        16.995552
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Bin Ali din Mirbat, probabil un monument funerar istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "Tunurile istorice ale cetății Mirbat din Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirbat Fort",
+                  "text": "Mirbat Fort in Mirbat, a historic castle.",
+                  "category": "castle",
+                  "coords": [
+                        54.695659,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Tower Zohair in Mirbat, a watchtower.",
+                  "category": "castle",
+                  "coords": [
+                        54.692154,
+                        16.975952
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "Along the Omani coast near Mirbat, this beach provides a soothing seaside retreat. A quiet, contemplative atmosphere welcomes visitors to this charming stretch of coastline. The location invites you to linger on the sand, take extended walks along the shore, or listen to the crashing waves. For more pleasant temperatures, a visit during the cooler morning hours is recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689388,
+                        16.995552
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Bin Ali in Mirbat, believed to be a historic tomb.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "The historic canons of Mirbat Castle in Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-ZU",
     coords: [54.6833, 16.9833],
@@ -2676,7 +7653,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jabal Majali",
-                  "text": "Jabal Majali ist ein Berggipfel in Thumrait.",
+                  "text": "Der Jabal Majali ist ein felsiger Berg in der Region Dhofar in Oman, nahe Thumrait.",
                   "category": "natural",
                   "coords": [
                         54.010236,
@@ -2687,7 +7664,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Jabal Majali",
-                  "text": "A Jabal Majali egy hegycsúcs Thumrait területén.",
+                  "text": "A Jabal Majali egy sziklás hegy az ománi Dhofar régióban, Thumrait közelében.",
                   "category": "natural",
                   "coords": [
                         54.010236,
@@ -2698,7 +7675,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Jabal Majali",
-                  "text": "Jabal Majali este un vârf montan situat în Thumrait.",
+                  "text": "Jabal Majali este un munte stâncos în regiunea Dhofar din Oman, lângă Thumrait.",
                   "category": "natural",
                   "coords": [
                         54.010236,
@@ -2709,7 +7686,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jabal Majali",
-                  "text": "Jabal Majali is a peak located in Thumrait.",
+                  "text": "Jabal Majali is a rocky mountain in the Dhofar region of Oman, near Thumrait.",
                   "category": "natural",
                   "coords": [
                         54.010236,
@@ -2804,7 +7781,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nakhal Fort",
-                  "text": "Bedeutende Festung in Nakhal.",
+                  "text": "Festung aus dem 17. Jahrhundert mit markantem Rundturm am Fuße der Hadschar-Berge.",
                   "category": "castle",
                   "coords": [
                         57.8287,
@@ -2813,7 +7790,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Al Thawwarah",
-                  "text": "Attraktion in Nakhal.",
+                  "text": "Die natürliche Quelle Ain Al Thawwarah in Nakhal.",
                   "category": "landmark",
                   "coords": [
                         57.828448,
@@ -2824,7 +7801,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nakhal Fort",
-                  "text": "Jelentős erőd Nakhalban.",
+                  "text": "17. századi erődítmény feltűnő kör alakú toronnyal a Hadsar-hegység lábánál.",
                   "category": "castle",
                   "coords": [
                         57.8287,
@@ -2833,7 +7810,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Al Thawwarah",
-                  "text": "Látnivaló Nakhalban.",
+                  "text": "Az Ain Al Thawwarah természetes forrás Nakhalban.",
                   "category": "landmark",
                   "coords": [
                         57.828448,
@@ -2844,7 +7821,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nakhal Fort",
-                  "text": "Fortăreață importantă în Nakhal.",
+                  "text": "Fortăreață din secolul al XVII-lea cu un turn rotund distinctiv la poalele munților Hajar.",
                   "category": "castle",
                   "coords": [
                         57.8287,
@@ -2853,7 +7830,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Al Thawwarah",
-                  "text": "Atracție în Nakhal.",
+                  "text": "Izvorul natural Ain Al Thawwarah din Nakhal.",
                   "category": "landmark",
                   "coords": [
                         57.828448,
@@ -2864,7 +7841,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nakhal Fort",
-                  "text": "Notable fort in Nakhal.",
+                  "text": "17th-century fortress with a striking round tower at the foot of the Hajar Mountains.",
                   "category": "castle",
                   "coords": [
                         57.8287,
@@ -2873,7 +7850,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Ain Al Thawwarah",
-                  "text": "Attraction in Nakhal.",
+                  "text": "The natural spring of Ain Al Thawwarah in Nakhal.",
                   "category": "landmark",
                   "coords": [
                         57.828448,
@@ -2926,7 +7903,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Old Adam",
-                  "text": "Old Adam ist eine Burg in Adam.",
+                  "text": "Das alte Adam, eine historische Festungsstadt.",
                   "category": "castle",
                   "coords": [
                         57.523492,
@@ -2935,7 +7912,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harat Bani Wa'il",
-                  "text": "حارة بني وائل ist eine Burg in Adam.",
+                  "text": "Harat Bani Wa'il in Adam, ein befestigtes Wohnviertel.",
                   "category": "castle",
                   "coords": [
                         57.522954,
@@ -2944,7 +7921,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harat Al Ain",
-                  "text": "حارة العين ist eine Burg in Adam.",
+                  "text": "Harat Al Ain in Adam, ein weiteres befestigtes Viertel.",
                   "category": "castle",
                   "coords": [
                         57.527588,
@@ -2955,7 +7932,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Old Adam",
-                  "text": "Az Old Adam egy vár Adam városában.",
+                  "text": "Ó-Adom, egy történelmi erődített város.",
                   "category": "castle",
                   "coords": [
                         57.523492,
@@ -2964,7 +7941,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harat Bani Wa'il",
-                  "text": "A حارة بني وائل egy vár Adam városában.",
+                  "text": "Harat Bani Wa'il Adam városában, egy erődített negyed.",
                   "category": "castle",
                   "coords": [
                         57.522954,
@@ -2973,7 +7950,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harat Al Ain",
-                  "text": "A حارة العين egy vár Adam városában.",
+                  "text": "Harat Al Ain Adam városában, egy másik erődített negyed.",
                   "category": "castle",
                   "coords": [
                         57.527588,
@@ -2984,7 +7961,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Old Adam",
-                  "text": "Old Adam este un castel situat în Adam.",
+                  "text": "Vechiul Adam, un oraș fortificat istoric.",
                   "category": "castle",
                   "coords": [
                         57.523492,
@@ -2993,7 +7970,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harat Bani Wa'il",
-                  "text": "حارة بني وائل este un castel situat în Adam.",
+                  "text": "Harat Bani Wa'il din Adam, un cartier fortificat.",
                   "category": "castle",
                   "coords": [
                         57.522954,
@@ -3002,7 +7979,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harat Al Ain",
-                  "text": "حارة العين este un castel situat în Adam.",
+                  "text": "Harat Al Ain din Adam, un alt cartier fortificat.",
                   "category": "castle",
                   "coords": [
                         57.527588,
@@ -3013,7 +7990,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Old Adam",
-                  "text": "Old Adam is a castle located in Adam.",
+                  "text": "Old Adam, a historic fortified town.",
                   "category": "castle",
                   "coords": [
                         57.523492,
@@ -3022,7 +7999,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harat Bani Wa'il",
-                  "text": "حارة بني وائل is a castle located in Adam.",
+                  "text": "Harat Bani Wa'il in Adam, a fortified quarter.",
                   "category": "castle",
                   "coords": [
                         57.522954,
@@ -3031,7 +8008,7 @@ export const poiExtraOmanCitiesV2: POI[] = [
             },
             {
                   "name": "Harat Al Ain",
-                  "text": "حارة العين is a castle located in Adam.",
+                  "text": "Harat Al Ain in Adam, another fortified quarter.",
                   "category": "castle",
                   "coords": [
                         57.527588,

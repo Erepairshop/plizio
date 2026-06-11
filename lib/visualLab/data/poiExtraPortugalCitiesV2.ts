@@ -3,7 +3,412 @@ import { POI } from './poi';
 export const portugalCitiesV2: POI[] = [
 
   {
-    id: "portugal-barcelos-cities-v2", "sights": {"de": [{"name": "Teatro Gil Vicente", "text": "Ein bedeutendes Theatergebäude in Barcelos.", "category": "cultural", "coords": [-8.621859, 41.529538]}, {"name": "Paço dos Duques de Bragança", "text": "Eine archäologische Ausgrabungsstätte in Barcelos.", "category": "historical", "coords": [-8.622069, 41.528196]}, {"name": "Museu de Olaria", "text": "Ein Museum in Barcelos, das der traditionellen Töpferkunst gewidmet ist.", "category": "museum", "coords": [-8.620629, 41.529847]}, {"name": "Castro do Alto da Torre", "text": "Eine befestigte Siedlung aus vorrömischer Zeit in Barcelos.", "category": "historical", "coords": [-8.645652, 41.545047]}, {"name": "Galeria Municipal de Arte de Barcelos", "text": "Die städtische Kunstgalerie von Barcelos.", "category": "museum", "coords": [-8.617685, 41.53034]}, {"name": "Praia Fluvial de Barcelinhos", "text": "An den Ufern des Cávado in Barcelos gelegen, verspricht dieser Flussstrand eine charmante Erholungsmöglichkeit im Grünen. Eine friedliche, familiäre Stimmung macht den Uferstreifen zu einem attraktiven Ziel an warmen Tagen. Badegäste können im Wasser schwimmen, am Ufer die Sonne genießen oder gemütliche Flussspaziergänge unternehmen. Wer einen ruhigen Platz am Wasser sucht, kommt am besten am frühen Vormittag.", "category": "recreational", "coords": [-8.618841, 41.527467]}, {"name": "Chafariz do Campo da Feira", "text": "Ein historischer monumentaler Brunnen in Barcelos.", "category": "landmark", "coords": [-8.61809, 41.532833]}, {"name": "Torre da Porta Nova", "text": "Ein historischer Turm, der einst Teil der Stadtmauer von Barcelos war.", "category": "tower", "coords": [-8.619701, 41.530938]}, {"name": "Capela de São Brás", "text": "Eine kleine Kapelle in Barcelos.", "category": "religious", "coords": [-8.616327, 41.520804]}, {"name": "Capela da Nossa Senhora da Ponte", "text": "Eine Kapelle in der Nähe der Brücke in Barcelos.", "category": "religious", "coords": [-8.62227, 41.52681]}, {"name": "Mercado Municipal de Barcelos", "text": "Der städtische Marktplatz von Barcelos.", "category": "landmark", "coords": [-8.621893, 41.5318]}], "hu": [{"name": "Teatro Gil Vicente", "text": "Fontos színházépület Barcelosban.", "category": "cultural", "coords": [-8.621859, 41.529538]}, {"name": "Paço dos Duques de Bragança", "text": "Régészeti lelőhely Barcelosban.", "category": "historical", "coords": [-8.622069, 41.528196]}, {"name": "Museu de Olaria", "text": "A hagyományos fazekasmesterségnek szentelt múzeum Barcelosban.", "category": "museum", "coords": [-8.620629, 41.529847]}, {"name": "Castro do Alto da Torre", "text": "Római kor előtti erődített település Barcelosban.", "category": "historical", "coords": [-8.645652, 41.545047]}, {"name": "Galeria Municipal de Arte de Barcelos", "text": "Barcelos városi művészeti galériája.", "category": "museum", "coords": [-8.617685, 41.53034]}, {"name": "Praia Fluvial de Barcelinhos", "text": "A Barcelosban kanyargó Cávado folyó partján fekvő folyami strand bájos kikapcsolódási lehetőséget ígér a zöldben. A békés, családias hangulat meleg napokon vonzó úti céllá teszi a partszakaszt. A fürdőzők úszhatnak a vízben, élvezhetik a napsütést a parton, vagy kényelmes sétákat tehetnek a folyó mentén. Aki csendes helyet keres a vízparton, a legjobb, ha kora délelőtt érkezik.", "category": "recreational", "coords": [-8.618841, 41.527467]}, {"name": "Chafariz do Campo da Feira", "text": "Történelmi monumentális szökőkút Barcelosban.", "category": "landmark", "coords": [-8.61809, 41.532833]}, {"name": "Torre da Porta Nova", "text": "Történelmi torony, amely egykor Barcelos városfalának része volt.", "category": "tower", "coords": [-8.619701, 41.530938]}, {"name": "Capela de São Brás", "text": "Kisméretű kápolna Barcelosban.", "category": "religious", "coords": [-8.616327, 41.520804]}, {"name": "Capela da Nossa Senhora da Ponte", "text": "Kápolna a híd közelében Barcelosban.", "category": "religious", "coords": [-8.62227, 41.52681]}, {"name": "Mercado Municipal de Barcelos", "text": "Barcelos városi piaca.", "category": "landmark", "coords": [-8.621893, 41.5318]}], "ro": [{"name": "Teatro Gil Vicente", "text": "O clădire importantă de teatru în Barcelos.", "category": "cultural", "coords": [-8.621859, 41.529538]}, {"name": "Paço dos Duques de Bragança", "text": "Un sit arheologic în Barcelos.", "category": "historical", "coords": [-8.622069, 41.528196]}, {"name": "Museu de Olaria", "text": "Un muzeu din Barcelos dedicat artei tradiționale a olăritului.", "category": "museum", "coords": [-8.620629, 41.529847]}, {"name": "Castro do Alto da Torre", "text": "O așezare fortificată din epoca preromană în Barcelos.", "category": "historical", "coords": [-8.645652, 41.545047]}, {"name": "Galeria Municipal de Arte de Barcelos", "text": "Galeria municipală de artă din Barcelos.", "category": "museum", "coords": [-8.617685, 41.53034]}, {"name": "Praia Fluvial de Barcelinhos", "text": "Situată pe malurile râului Cávado din Barcelos, această plajă fluvială promite o evadare fermecătoare în natură. O atmosferă pașnică, prietenoasă cu familiile, face ca această zonă riverană să fie o destinație atractivă în zilele calde. Scăldătorii pot înota în apă, se pot bucura de soare pe mal sau pot face plimbări lungi pe lângă râu. Dacă sunteți în căutarea unui loc liniștit la apă, cel mai bine este să ajungeți la mijlocul dimineții.", "category": "recreational", "coords": [-8.618841, 41.527467]}, {"name": "Chafariz do Campo da Feira", "text": "O fântână monumentală istorică în Barcelos.", "category": "landmark", "coords": [-8.61809, 41.532833]}, {"name": "Torre da Porta Nova", "text": "Un turn istoric care a făcut parte din zidurile orașului Barcelos.", "category": "tower", "coords": [-8.619701, 41.530938]}, {"name": "Capela de São Brás", "text": "O mică capelă în Barcelos.", "category": "religious", "coords": [-8.616327, 41.520804]}, {"name": "Capela da Nossa Senhora da Ponte", "text": "O capelă situată lângă podul din Barcelos.", "category": "religious", "coords": [-8.62227, 41.52681]}, {"name": "Mercado Municipal de Barcelos", "text": "Piața municipală din Barcelos.", "category": "landmark", "coords": [-8.621893, 41.5318]}], "en": [{"name": "Teatro Gil Vicente", "text": "A significant theater building in Barcelos.", "category": "cultural", "coords": [-8.621859, 41.529538]}, {"name": "Paço dos Duques de Bragança", "text": "An archaeological site located in Barcelos.", "category": "historical", "coords": [-8.622069, 41.528196]}, {"name": "Museu de Olaria", "text": "A museum in Barcelos dedicated to the traditional art of pottery.", "category": "museum", "coords": [-8.620629, 41.529847]}, {"name": "Castro do Alto da Torre", "text": "A pre-Roman fortified settlement located in Barcelos.", "category": "historical", "coords": [-8.645652, 41.545047]}, {"name": "Galeria Municipal de Arte de Barcelos", "text": "The municipal art gallery of Barcelos.", "category": "museum", "coords": [-8.617685, 41.53034]}, {"name": "Praia Fluvial de Barcelinhos", "text": "Nestled on the banks of the Cávado in Barcelos, this river beach promises a charming recreational opportunity surrounded by nature. A peaceful, family-friendly vibe makes the riverside a highly attractive destination on warm days. Bathers can swim in the water, soak up the sun on the shore, or take leisurely walks along the river. Those looking for a quiet spot by the water are best advised to arrive early in the morning.", "category": "recreational", "coords": [-8.618841, 41.527467]}, {"name": "Chafariz do Campo da Feira", "text": "A historic monumental fountain in Barcelos.", "category": "landmark", "coords": [-8.61809, 41.532833]}, {"name": "Torre da Porta Nova", "text": "A historic tower that was once part of the city walls of Barcelos.", "category": "tower", "coords": [-8.619701, 41.530938]}, {"name": "Capela de São Brás", "text": "A small chapel located in Barcelos.", "category": "religious", "coords": [-8.616327, 41.520804]}, {"name": "Capela da Nossa Senhora da Ponte", "text": "A chapel located near the bridge in Barcelos.", "category": "religious", "coords": [-8.62227, 41.52681]}, {"name": "Mercado Municipal de Barcelos", "text": "The municipal marketplace of Barcelos.", "category": "landmark", "coords": [-8.621893, 41.5318]}]},
+    id: "portugal-barcelos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Gil Vicente",
+                  "text": "Das Teatro Gil Vicente in Barcelos ist ein Theater aus dem 19. Jahrhundert und kultureller Treffpunkt.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.621859,
+                        41.529538
+                  ]
+            },
+            {
+                  "name": "Paço dos Duques de Bragança",
+                  "text": "Der Paço dos Duques de Bragança in Barcelos ist der ehemalige Herzogspalast der Bragança, heute ein Museum.",
+                  "category": "historical",
+                  "coords": [
+                        -8.622069,
+                        41.528196
+                  ]
+            },
+            {
+                  "name": "Museu de Olaria",
+                  "text": "Ein Museum in Barcelos, das der traditionellen Töpferkunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.620629,
+                        41.529847
+                  ]
+            },
+            {
+                  "name": "Castro do Alto da Torre",
+                  "text": "Der Castro do Alto da Torre ist eine eisenzeitliche Siedlung auf einem Hügel in Barcelos.",
+                  "category": "historical",
+                  "coords": [
+                        -8.645652,
+                        41.545047
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal de Arte de Barcelos",
+                  "text": "Die Städtische Kunstgalerie von Barcelos zeigt Werke lokaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        -8.617685,
+                        41.53034
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Barcelinhos",
+                  "text": "An den Ufern des Cávado in Barcelos gelegen, verspricht dieser Flussstrand eine charmante Erholungsmöglichkeit im Grünen. Eine friedliche, familiäre Stimmung macht den Uferstreifen zu einem attraktiven Ziel an warmen Tagen. Badegäste können im Wasser schwimmen, am Ufer die Sonne genießen oder gemütliche Flussspaziergänge unternehmen. Wer einen ruhigen Platz am Wasser sucht, kommt am besten am frühen Vormittag.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.618841,
+                        41.527467
+                  ]
+            },
+            {
+                  "name": "Chafariz do Campo da Feira",
+                  "text": "Der Chafariz do Campo da Feira ist ein barocker Brunnen auf dem Hauptmarktplatz von Barcelos.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.61809,
+                        41.532833
+                  ]
+            },
+            {
+                  "name": "Torre da Porta Nova",
+                  "text": "Ein historischer Turm, der einst Teil der Stadtmauer von Barcelos war.",
+                  "category": "tower",
+                  "coords": [
+                        -8.619701,
+                        41.530938
+                  ]
+            },
+            {
+                  "name": "Capela de São Brás",
+                  "text": "Die Kapelle São Brás in Barcelos liegt auf einem Hügel und ist dem Schutzpatron gegen Halskrankheiten geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        -8.616327,
+                        41.520804
+                  ]
+            },
+            {
+                  "name": "Capela da Nossa Senhora da Ponte",
+                  "text": "Die Kapelle Unserer Lieben Frau von der Brücke in Barcelos steht nahe der Brücke über den Cávado.",
+                  "category": "religious",
+                  "coords": [
+                        -8.62227,
+                        41.52681
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Barcelos",
+                  "text": "Der Mercado Municipal von Barcelos ist ein historischer Marktbau mit azulejo-Kacheln.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.621893,
+                        41.5318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Gil Vicente",
+                  "text": "A barcelosi Teatro Gil Vicente egy 19. századi színház, kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.621859,
+                        41.529538
+                  ]
+            },
+            {
+                  "name": "Paço dos Duques de Bragança",
+                  "text": "A barcelosi Paço dos Duques de Bragança a Bragança hercegek egykori palotája, ma múzeum.",
+                  "category": "historical",
+                  "coords": [
+                        -8.622069,
+                        41.528196
+                  ]
+            },
+            {
+                  "name": "Museu de Olaria",
+                  "text": "A hagyományos fazekasmesterségnek szentelt múzeum Barcelosban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.620629,
+                        41.529847
+                  ]
+            },
+            {
+                  "name": "Castro do Alto da Torre",
+                  "text": "A Castro do Alto da Torre egy vaskori település egy dombon Barcelosban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.645652,
+                        41.545047
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal de Arte de Barcelos",
+                  "text": "A barcelosi Városi Művészeti Galéria helyi művészek munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.617685,
+                        41.53034
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Barcelinhos",
+                  "text": "A Barcelosban kanyargó Cávado folyó partján fekvő folyami strand bájos kikapcsolódási lehetőséget ígér a zöldben. A békés, családias hangulat meleg napokon vonzó úti céllá teszi a partszakaszt. A fürdőzők úszhatnak a vízben, élvezhetik a napsütést a parton, vagy kényelmes sétákat tehetnek a folyó mentén. Aki csendes helyet keres a vízparton, a legjobb, ha kora délelőtt érkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.618841,
+                        41.527467
+                  ]
+            },
+            {
+                  "name": "Chafariz do Campo da Feira",
+                  "text": "A Chafariz do Campo da Feira egy barokk szökőkút Barcelos főterén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.61809,
+                        41.532833
+                  ]
+            },
+            {
+                  "name": "Torre da Porta Nova",
+                  "text": "Történelmi torony, amely egykor Barcelos városfalának része volt.",
+                  "category": "tower",
+                  "coords": [
+                        -8.619701,
+                        41.530938
+                  ]
+            },
+            {
+                  "name": "Capela de São Brás",
+                  "text": "A São Brás-kápolna Barcelosban egy dombon áll, a torokbajok védőszentjének szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -8.616327,
+                        41.520804
+                  ]
+            },
+            {
+                  "name": "Capela da Nossa Senhora da Ponte",
+                  "text": "A Híd Miasszonyunk-kápolna Barcelosban, a Cávado folyó hídja közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.62227,
+                        41.52681
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Barcelos",
+                  "text": "A barcelosi Mercado Municipal egy történelmi piacépület azulejo csempékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.621893,
+                        41.5318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Gil Vicente",
+                  "text": "Teatro Gil Vicente din Barcelos este un teatru din secolul al XIX-lea și centru cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.621859,
+                        41.529538
+                  ]
+            },
+            {
+                  "name": "Paço dos Duques de Bragança",
+                  "text": "Paço dos Duques de Bragança din Barcelos este fostul palat ducal al familiei Bragança, acum muzeu.",
+                  "category": "historical",
+                  "coords": [
+                        -8.622069,
+                        41.528196
+                  ]
+            },
+            {
+                  "name": "Museu de Olaria",
+                  "text": "Un muzeu din Barcelos dedicat artei tradiționale a olăritului.",
+                  "category": "museum",
+                  "coords": [
+                        -8.620629,
+                        41.529847
+                  ]
+            },
+            {
+                  "name": "Castro do Alto da Torre",
+                  "text": "Castro do Alto da Torre este o așezare din Epoca Fierului pe un deal în Barcelos.",
+                  "category": "historical",
+                  "coords": [
+                        -8.645652,
+                        41.545047
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal de Arte de Barcelos",
+                  "text": "Galeria Municipală de Artă din Barcelos expune lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -8.617685,
+                        41.53034
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Barcelinhos",
+                  "text": "Situată pe malurile râului Cávado din Barcelos, această plajă fluvială promite o evadare fermecătoare în natură. O atmosferă pașnică, prietenoasă cu familiile, face ca această zonă riverană să fie o destinație atractivă în zilele calde. Scăldătorii pot înota în apă, se pot bucura de soare pe mal sau pot face plimbări lungi pe lângă râu. Dacă sunteți în căutarea unui loc liniștit la apă, cel mai bine este să ajungeți la mijlocul dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.618841,
+                        41.527467
+                  ]
+            },
+            {
+                  "name": "Chafariz do Campo da Feira",
+                  "text": "Chafariz do Campo da Feira este o fântână barocă în piața principală din Barcelos.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.61809,
+                        41.532833
+                  ]
+            },
+            {
+                  "name": "Torre da Porta Nova",
+                  "text": "Un turn istoric care a făcut parte din zidurile orașului Barcelos.",
+                  "category": "tower",
+                  "coords": [
+                        -8.619701,
+                        41.530938
+                  ]
+            },
+            {
+                  "name": "Capela de São Brás",
+                  "text": "Capela São Brás din Barcelos, situată pe o colină, dedicată sfântului protector al bolilor de gât.",
+                  "category": "religious",
+                  "coords": [
+                        -8.616327,
+                        41.520804
+                  ]
+            },
+            {
+                  "name": "Capela da Nossa Senhora da Ponte",
+                  "text": "Capela Maica Domnului de la Pod din Barcelos, lângă podul peste râul Cávado.",
+                  "category": "religious",
+                  "coords": [
+                        -8.62227,
+                        41.52681
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Barcelos",
+                  "text": "Mercado Municipal din Barcelos, o piață istorică cu faianță azulejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.621893,
+                        41.5318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Gil Vicente",
+                  "text": "The Teatro Gil Vicente in Barcelos is a 19th-century theatre serving as a cultural venue.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.621859,
+                        41.529538
+                  ]
+            },
+            {
+                  "name": "Paço dos Duques de Bragança",
+                  "text": "The Paço dos Duques de Bragança in Barcelos is the former ducal palace of the Bragança family, now a museum.",
+                  "category": "historical",
+                  "coords": [
+                        -8.622069,
+                        41.528196
+                  ]
+            },
+            {
+                  "name": "Museu de Olaria",
+                  "text": "A museum in Barcelos dedicated to the traditional art of pottery.",
+                  "category": "museum",
+                  "coords": [
+                        -8.620629,
+                        41.529847
+                  ]
+            },
+            {
+                  "name": "Castro do Alto da Torre",
+                  "text": "Castro do Alto da Torre is an Iron Age settlement on a hill in Barcelos.",
+                  "category": "historical",
+                  "coords": [
+                        -8.645652,
+                        41.545047
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal de Arte de Barcelos",
+                  "text": "The Municipal Art Gallery of Barcelos displays works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -8.617685,
+                        41.53034
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Barcelinhos",
+                  "text": "Nestled on the banks of the Cávado in Barcelos, this river beach promises a charming recreational opportunity surrounded by nature. A peaceful, family-friendly vibe makes the riverside a highly attractive destination on warm days. Bathers can swim in the water, soak up the sun on the shore, or take leisurely walks along the river. Those looking for a quiet spot by the water are best advised to arrive early in the morning.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.618841,
+                        41.527467
+                  ]
+            },
+            {
+                  "name": "Chafariz do Campo da Feira",
+                  "text": "The Chafariz do Campo da Feira is a Baroque fountain in the main market square of Barcelos.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.61809,
+                        41.532833
+                  ]
+            },
+            {
+                  "name": "Torre da Porta Nova",
+                  "text": "A historic tower that was once part of the city walls of Barcelos.",
+                  "category": "tower",
+                  "coords": [
+                        -8.619701,
+                        41.530938
+                  ]
+            },
+            {
+                  "name": "Capela de São Brás",
+                  "text": "Chapel of São Brás in Barcelos, on a hill, dedicated to the patron saint of throat ailments.",
+                  "category": "religious",
+                  "coords": [
+                        -8.616327,
+                        41.520804
+                  ]
+            },
+            {
+                  "name": "Capela da Nossa Senhora da Ponte",
+                  "text": "Chapel of Our Lady of the Bridge in Barcelos, near the bridge over the Cávado River.",
+                  "category": "religious",
+                  "coords": [
+                        -8.62227,
+                        41.52681
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Barcelos",
+                  "text": "Mercado Municipal in Barcelos, a historic market building with azulejo tiles.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.621893,
+                        41.5318
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Barcelos", hu: "Barcelos", ro: "Barcelos", en: "Barcelos" },
@@ -97,7 +502,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Mar",
-                  "text": "Ein Museum, das der maritimen Geschichte und der Fischerei gewidmet ist.",
+                  "text": "Das Museu do Mar in Figueira da Foz ist der Fischereitradition und Hafenhistorie gewidmet.",
                   "category": "museum",
                   "coords": [
                         -8.87654,
@@ -124,7 +529,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Cabedelinho",
-                  "text": "Ein ruhigerer Strandabschnitt in der Nähe der Flussmündung.",
+                  "text": "Praia do Cabedelinho ist ein kleiner, ruhiger Sandstrand an der Mündung des Mondego.",
                   "category": "recreational",
                   "coords": [
                         -8.86636,
@@ -133,7 +538,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Cabedelo",
-                  "text": "Ein bekannter Strand, der besonders bei Surfern sehr beliebt ist.",
+                  "text": "Praia do Cabedelo ist ein langer Sandstrand am Atlantik, beliebt bei Surfern.",
                   "category": "recreational",
                   "coords": [
                         -8.862718,
@@ -142,7 +547,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Hospital",
-                  "text": "Ein lokaler Sandstrand an der Küste von Figueira da Foz.",
+                  "text": "Praia do Hospital ist ein Stadtstrand in Figueira da Foz mit Wellenbrecher und Badezone.",
                   "category": "recreational",
                   "coords": [
                         -8.863159,
@@ -216,7 +621,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Mar",
-                  "text": "A tengerészeti történelemnek és a halászatnak szentelt múzeum.",
+                  "text": "A Figueira da Foz-i Museu do Mar a halászati hagyományok és a kikötő történetének szentelt múzeum.",
                   "category": "museum",
                   "coords": [
                         -8.87654,
@@ -243,7 +648,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Cabedelinho",
-                  "text": "Egy nyugodtabb strandszakasz a folyótorkolat közelében.",
+                  "text": "A Praia do Cabedelinho egy kis, csendes homokos strand a Mondego torkolatánál.",
                   "category": "recreational",
                   "coords": [
                         -8.86636,
@@ -252,7 +657,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Cabedelo",
-                  "text": "Ismert tengerparti szakasz, amely különösen a szörfösök körében népszerű.",
+                  "text": "A Praia do Cabedelo egy hosszú homokos strand az Atlanti-óceán partján, népszerű a szörfösök körében.",
                   "category": "recreational",
                   "coords": [
                         -8.862718,
@@ -261,7 +666,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Hospital",
-                  "text": "Helyi homokos strand Figueira da Foz partjainál.",
+                  "text": "A Praia do Hospital egy városi strand Figueira da Fozban, hullámtörővel és fürdőzónával.",
                   "category": "recreational",
                   "coords": [
                         -8.863159,
@@ -335,7 +740,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Mar",
-                  "text": "Un muzeu dedicat istoriei maritime și pescuitului.",
+                  "text": "Museu do Mar din Figueira da Foz este dedicat tradițiilor pescărești și istoriei portului.",
                   "category": "museum",
                   "coords": [
                         -8.87654,
@@ -362,7 +767,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Cabedelinho",
-                  "text": "O secțiune de plajă mai liniștită situată lângă gura de vărsare a râului.",
+                  "text": "Praia do Cabedelinho este o plajă mică și liniștită la gura de vărsare a râului Mondego.",
                   "category": "recreational",
                   "coords": [
                         -8.86636,
@@ -371,7 +776,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Cabedelo",
-                  "text": "O plajă renumită, foarte populară în rândul surfeurilor.",
+                  "text": "Praia do Cabedelo este o plajă lungă de nisip pe Oceanul Atlantic, populară printre surfers.",
                   "category": "recreational",
                   "coords": [
                         -8.862718,
@@ -380,7 +785,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Hospital",
-                  "text": "O plajă locală de nisip pe coasta din Figueira da Foz.",
+                  "text": "Praia do Hospital este o plajă urbană în Figueira da Foz, cu dig de protecție și zonă de înot.",
                   "category": "recreational",
                   "coords": [
                         -8.863159,
@@ -454,7 +859,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Mar",
-                  "text": "A museum dedicated to maritime history and fishing.",
+                  "text": "The Museu do Mar in Figueira da Foz is dedicated to fishing traditions and port history.",
                   "category": "museum",
                   "coords": [
                         -8.87654,
@@ -481,7 +886,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Cabedelinho",
-                  "text": "A quieter beach section located near the river mouth.",
+                  "text": "Praia do Cabedelinho is a small, quiet sandy beach at the mouth of the Mondego River.",
                   "category": "recreational",
                   "coords": [
                         -8.86636,
@@ -490,7 +895,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Cabedelo",
-                  "text": "A well-known beach that is very popular among surfers.",
+                  "text": "Praia do Cabedelo is a long sandy beach on the Atlantic Ocean, popular among surfers.",
                   "category": "recreational",
                   "coords": [
                         -8.862718,
@@ -499,7 +904,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Hospital",
-                  "text": "A local sandy beach on the coast of Figueira da Foz.",
+                  "text": "Praia do Hospital is an urban beach in Figueira da Foz with a breakwater and swimming area.",
                   "category": "recreational",
                   "coords": [
                         -8.863159,
@@ -851,7 +1256,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sé Catedral de Angra do Heroísmo",
-                  "text": "Die im 16. Jahrhundert erbaute Kathedrale ist das größte religiöse Gebäude der Azoren und beeindruckt durch ihre markante Doppelturmfassade.",
+                  "text": "Schwimmbad des Hotels Terceira Mar mit Blick auf die Bucht von Angra.",
                   "category": "churches",
                   "confidence": "high",
                   "coords": [
@@ -871,7 +1276,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Brasil",
-                  "text": "Der erloschene Vulkan bildet eine natürliche Halbinsel und bietet Wanderwege sowie Panoramablicke über die UNESCO-Weltkulturerbestadt und das Meer.",
+                  "text": "Festung aus dem 16. Jahrhundert mit Blick auf den Hafen von Angra do Heroísmo.",
                   "category": "viewpoints",
                   "confidence": "high",
                   "coords": [
@@ -911,7 +1316,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Angra do Heroísmo",
-                  "text": "Das Museum befindet sich in einem ehemaligen Franziskanerkloster und zeigt Ausstellungen zur maritimen Geschichte, Münzkunde und sakralen Kunst.",
+                  "text": "Museum im ehemaligen Franziskanerkloster mit Ausstellungen zur azoreanischen Kunst.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -941,7 +1346,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Hospital da Boa Nova",
-                  "text": "Das Hospital da Boa Nova ist ein historisches Krankenhaus und heutiges Museum in Angra do Heroísmo.",
+                  "text": "Das Hospital da Boa Nova in Angra do Heroísmo ist ein ehemaliges Krankenhaus aus dem 16. Jahrhundert, heute Museum.",
                   "category": "museum",
                   "coords": [
                         -27.223697,
@@ -959,7 +1364,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Silveira",
-                  "text": "Silveira ist ein Strand in der Stadt Angra do Heroísmo.",
+                  "text": "Praia da Silveira in Angra do Heroísmo ist ein vulkanischer Sandstrand mit einem natürlichen Meerwasserbecken.",
                   "category": "recreational",
                   "coords": [
                         -27.235713,
@@ -968,7 +1373,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Ribeirinha",
-                  "text": "Das Museu da Ribeirinha ist ein lokales Museum in Angra do Heroísmo.",
+                  "text": "Das Museu da Ribeirinha in Angra do Heroísmo ist ein ethnografisches Museum in einem ehemaligen Kloster.",
                   "category": "museum",
                   "coords": [
                         -27.177653,
@@ -977,7 +1382,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Outeiro da Memória",
-                  "text": "Outeiro da Memória ist ein markantes Denkmal, das einen Panoramablick über Angra do Heroísmo bietet.",
+                  "text": "Obelisk zur Erinnerung an die Liberalen Kriege 1832–1834 in Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.218329,
@@ -986,7 +1391,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baía de Villa Maria",
-                  "text": "Baía de Villa Maria ist eine malerische Bucht an der Küste von Angra do Heroísmo.",
+                  "text": "Die Baía de Villa Maria auf Terceira ist eine malerische Bucht mit natürlichen Pools.",
                   "category": "landmark",
                   "coords": [
                         -27.249612,
@@ -1004,7 +1409,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro",
-                  "text": "Dies ist ein lokaler Aussichtspunkt in Angra do Heroísmo.",
+                  "text": "Der Miradouro in Angra do Heroísmo ist ein Aussichtspunkt über die Bucht und die Stadt.",
                   "category": "natural",
                   "coords": [
                         -27.232453,
@@ -1013,7 +1418,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império de Santo Amaro",
-                  "text": "Império de Santo Amaro ist eine lokale Sehenswürdigkeit in Angra do Heroísmo.",
+                  "text": "Eine kleine Kapelle, die dem Heiligen Amaro in Angra do Heroísmo gewidmet ist.",
                   "category": "landmark",
                   "coords": [
                         -27.185907,
@@ -1022,7 +1427,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império do Meio da Rua",
-                  "text": "Império do Meio da Rua ist eine kulturelle Sehenswürdigkeit in Angra do Heroísmo.",
+                  "text": "Bastion aus dem 16. Jahrhundert mit Hotel in Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.181367,
@@ -1031,7 +1436,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império da Serra",
-                  "text": "Império da Serra ist eine lokale Sehenswürdigkeit in der Stadt Angra do Heroísmo.",
+                  "text": "Halbmondförmige Bucht mit dem Status eines Naturparks in Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.178529,
@@ -1040,7 +1445,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro de Santo António",
-                  "text": "Miradouro de Santo António ist ein Aussichtspunkt in der Stadt Angra do Heroísmo.",
+                  "text": "Ein Aussichtspunkt mit Blick auf Angra do Heroísmo.",
                   "category": "natural",
                   "coords": [
                         -27.219095,
@@ -1049,7 +1454,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Grota do Medo",
-                  "text": "Grota do Medo ist eine Sehenswürdigkeit in der Stadt Angra do Heroísmo.",
+                  "text": "Eine Höhle namens 'Grota do Medo' (Höhle der Angst) in Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.224867,
@@ -1058,7 +1463,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Vigia de Baleia",
-                  "text": "Whale Watching Tower ist ein Beobachtungspunkt in Angra do Heroísmo.",
+                  "text": "Ein Turm an der Küste zum Walbeobachten in Angra do Heroísmo.",
                   "category": "natural",
                   "coords": [
                         -27.226896,
@@ -1067,7 +1472,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Vigia da II Guerra",
-                  "text": "Vigia da II Guerra ist ein Aussichtspunkt in Angra do Heroísmo.",
+                  "text": "Ein Beobachtungsposten aus dem Zweiten Weltkrieg in Angra do Heroísmo.",
                   "category": "natural",
                   "coords": [
                         -27.230899,
@@ -1076,7 +1481,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Forte da Quebrada",
-                  "text": "Forte da Quebrada bietet historische Ruinen in Angra do Heroísmo.",
+                  "text": "Historisches Rathaus mit manuelinischer Fassade in Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.223821,
@@ -1085,7 +1490,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinas Muralha Castelo de São João Baptista",
-                  "text": "Ruinas Muralha Castelo de São João Baptista sind die historischen Ruinen in Angra do Heroísmo.",
+                  "text": "1570 erbaute Kathedrale in Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.217335,
@@ -1094,7 +1499,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Convento das Concecionistas",
-                  "text": "Convento das Concecionistas ist die Stätte historischer Ruinen in der Stadt Angra do Heroísmo.",
+                  "text": "Ein Kloster des Ordens der Concecionistas in Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.212192,
@@ -1103,7 +1508,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de São Pedro",
-                  "text": "Igreja de São Pedro ist eine bemerkenswerte Kultstätte in Angra do Heroísmo.",
+                  "text": "Barockkirche im historischen Zentrum von Angra do Heroísmo.",
                   "category": "religious",
                   "coords": [
                         -27.229725,
@@ -1112,7 +1517,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santo António da Grota",
-                  "text": "Ermida de Santo António da Grota ist eine historische Kultstätte in Angra do Heroísmo.",
+                  "text": "Die Ermida de Santo António da Grota ist eine kleine Kapelle aus dem 17. Jahrhundert in einer Grotte auf Terceira.",
                   "category": "religious",
                   "coords": [
                         -27.221805,
@@ -1123,7 +1528,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sé székesegyház",
-                  "text": "A 16. században épült katedrális az Azori-szigetek legnagyobb vallási épülete, jellegzetes kéttornyos homlokzata a városkép meghatározó eleme.",
+                  "text": "A Terceira Mar Hotel medencéje, amely az Angra-öbölre néz.",
                   "category": "churches",
                   "confidence": "high",
                   "coords": [
@@ -1143,7 +1548,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Brasil",
-                  "text": "A kialudt vulkáni kúp természetes félszigetet alkot, ahonnan panorámás kilátás nyílik az UNESCO világörökségi városra és a környező túraösvényekre.",
+                  "text": "16. századi erőd, amely Angra do Heroísmo kikötőjére néz.",
                   "category": "viewpoints",
                   "confidence": "high",
                   "coords": [
@@ -1183,7 +1588,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Angra do Heroísmo Múzeum",
-                  "text": "Az egykori ferences kolostorban elhelyezett múzeum tengerészeti történeti, numizmatikai és egyházművészeti kiállításoknak ad otthont.",
+                  "text": "Erdei pihenőrezervátum a Monte Brasil hegyen, létesítve 1989-ben.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -1213,7 +1618,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Hospital da Boa Nova",
-                  "text": "A Hospital da Boa Nova egy történelmi kórház és jelenlegi múzeum Angra do Heroísmo városában.",
+                  "text": "Az angra do heroísmói Hospital da Boa Nova egy 16. századi kórház, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -27.223697,
@@ -1231,7 +1636,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Silveira",
-                  "text": "A Silveira egy strand Angra do Heroísmo városában.",
+                  "text": "Az angra do heroísmo-i Praia da Silveira vulkanikus homokos strand természetes tengeri medencével.",
                   "category": "recreational",
                   "coords": [
                         -27.235713,
@@ -1240,7 +1645,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Ribeirinha",
-                  "text": "A Museu da Ribeirinha egy helyi múzeum Angra do Heroísmo városában.",
+                  "text": "Az angra do heroísmo-i Museu da Ribeirinha egy egykori kolostorban működő néprajzi múzeum.",
                   "category": "museum",
                   "coords": [
                         -27.177653,
@@ -1249,7 +1654,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Outeiro da Memória",
-                  "text": "Az Outeiro da Memória egy kiemelkedő emlékmű, amely panorámás kilátást nyújt Angra do Heroísmo városára.",
+                  "text": "Obeliszk a Polgárháború (1832–1834) emlékére Angra do Heroísmo városában.",
                   "category": "historical",
                   "coords": [
                         -27.218329,
@@ -1258,7 +1663,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baía de Villa Maria",
-                  "text": "A Baía de Villa Maria egy festői tengerparti öböl Angra do Heroísmo területén.",
+                  "text": "A Baía de Villa Maria a Terceira-szigeten egy festői öböl természetes medencékkel.",
                   "category": "landmark",
                   "coords": [
                         -27.249612,
@@ -1276,7 +1681,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro",
-                  "text": "Ez egy helyi kilátó Angra do Heroísmo városában.",
+                  "text": "Az angra do heroísmo-i Miradouro egy kilátópont az öbölre és a városra.",
                   "category": "natural",
                   "coords": [
                         -27.232453,
@@ -1285,7 +1690,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império de Santo Amaro",
-                  "text": "Az Império de Santo Amaro egy helyi látványosság Angra do Heroísmo városában.",
+                  "text": "Egy kis kápolna, amelyet Szent Amaronak szenteltek Angra do Heroísmo-ban.",
                   "category": "landmark",
                   "coords": [
                         -27.185907,
@@ -1294,7 +1699,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império do Meio da Rua",
-                  "text": "Az Império do Meio da Rua egy kulturális látványosság Angra do Heroísmo városában.",
+                  "text": "16. századi erőd szállodával Angra do Heroísmo városában.",
                   "category": "landmark",
                   "coords": [
                         -27.181367,
@@ -1303,7 +1708,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império da Serra",
-                  "text": "Az Império da Serra egy helyi látványosság Angra do Heroísmo városában.",
+                  "text": "Félkör alakú öböl természetvédelmi területi státusszal Angra do Heroísmo városában.",
                   "category": "landmark",
                   "coords": [
                         -27.178529,
@@ -1312,7 +1717,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro de Santo António",
-                  "text": "A Miradouro de Santo António egy kilátó Angra do Heroísmo városában.",
+                  "text": "Egy kilátópont, amely Angra do Heroísmo-ra nyújt kilátást.",
                   "category": "natural",
                   "coords": [
                         -27.219095,
@@ -1321,7 +1726,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Grota do Medo",
-                  "text": "A Grota do Medo egy látványosság Angra do Heroísmo városában.",
+                  "text": "Egy 'Grota do Medo' (Félelem barlangja) nevű barlang Angra do Heroísmo-ban.",
                   "category": "landmark",
                   "coords": [
                         -27.224867,
@@ -1330,7 +1735,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Vigia de Baleia",
-                  "text": "A Whale Watching Tower egy megfigyelőpont Angra do Heroísmo városában.",
+                  "text": "Egy torony a parton bálnák megfigyelésére Angra do Heroísmo-ban.",
                   "category": "natural",
                   "coords": [
                         -27.226896,
@@ -1339,7 +1744,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Vigia da II Guerra",
-                  "text": "A Vigia da II Guerra egy kilátó Angra do Heroísmo városában.",
+                  "text": "Egy második világháborús megfigyelőállomás Angra do Heroísmo-ban.",
                   "category": "natural",
                   "coords": [
                         -27.230899,
@@ -1348,7 +1753,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Forte da Quebrada",
-                  "text": "A Forte da Quebrada történelmi romokat kínál Angra do Heroísmo városában.",
+                  "text": "Történelmi városháza manuellin stílusú homlokzattal Angra do Heroísmo városában.",
                   "category": "historical",
                   "coords": [
                         -27.223821,
@@ -1357,7 +1762,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinas Muralha Castelo de São João Baptista",
-                  "text": "A Ruinas Muralha Castelo de São João Baptista egy történelmi romterület Angra do Heroísmo városában.",
+                  "text": "1570-ben épült székesegyház Angra do Heroísmóban.",
                   "category": "historical",
                   "coords": [
                         -27.217335,
@@ -1366,7 +1771,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Convento das Concecionistas",
-                  "text": "A Convento das Concecionistas egy történelmi romterület Angra do Heroísmo városában.",
+                  "text": "A Concecionistas rend kolostora Angra do Heroísmo-ban.",
                   "category": "historical",
                   "coords": [
                         -27.212192,
@@ -1375,7 +1780,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de São Pedro",
-                  "text": "Az Igreja de São Pedro egy jelentős imahely Angra do Heroísmo városában.",
+                  "text": "Múzeum az egykori ferences kolostorban, az azori művészetet bemutatva.",
                   "category": "religious",
                   "coords": [
                         -27.229725,
@@ -1384,7 +1789,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santo António da Grota",
-                  "text": "Az Ermida de Santo António da Grota egy történelmi imahely Angra do Heroísmo városában.",
+                  "text": "Az Ermida de Santo António da Grota egy 17. századi kis kápolna egy grottában Terceira szigetén.",
                   "category": "religious",
                   "coords": [
                         -27.221805,
@@ -1395,7 +1800,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Catedrala Sé din Angra do Heroísmo",
-                  "text": "Construită în secolul al XVI-lea, această catedrală este cea mai mare clădire religioasă din Azore, având o fațadă distinctivă cu două turnuri.",
+                  "text": "Piscina hotelului Terceira Mar cu vedere spre golful Angra.",
                   "category": "churches",
                   "confidence": "high",
                   "coords": [
@@ -1415,7 +1820,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Brasil",
-                  "text": "Vulcanul stins formează o peninsulă naturală, oferind trasee de drumeție și vederi panoramice asupra orașului inclus în patrimoniul UNESCO.",
+                  "text": "Fortăreață din secolul al XVI-lea cu vedere spre portul Angra do Heroísmo.",
                   "category": "viewpoints",
                   "confidence": "high",
                   "coords": [
@@ -1455,7 +1860,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Muzeul din Angra do Heroísmo",
-                  "text": "Găzduit într-o fostă mănăstire franciscană, muzeul prezintă expoziții de istorie maritimă, numismatică și artă sacră locală.",
+                  "text": "Rezervație forestieră de recreere pe Monte Brasil, înființată în 1989.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -1485,7 +1890,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Hospital da Boa Nova",
-                  "text": "Hospital da Boa Nova este un spital istoric și actual muzeu situat în Angra do Heroísmo.",
+                  "text": "Hospital da Boa Nova din Angra do Heroísmo este un fost spital din secolul al XVI-lea, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         -27.223697,
@@ -1503,7 +1908,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Silveira",
-                  "text": "Silveira este o plajă situată în orașul Angra do Heroísmo.",
+                  "text": "Praia da Silveira din Angra do Heroísmo este o plajă cu nisip vulcanic și o piscină naturală oceanică.",
                   "category": "recreational",
                   "coords": [
                         -27.235713,
@@ -1512,7 +1917,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Ribeirinha",
-                  "text": "Museu da Ribeirinha este un muzeu local din Angra do Heroísmo.",
+                  "text": "Museu da Ribeirinha din Angra do Heroísmo este un muzeu etnografic într-o fostă mănăstire.",
                   "category": "museum",
                   "coords": [
                         -27.177653,
@@ -1521,7 +1926,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Outeiro da Memória",
-                  "text": "Outeiro da Memória este un monument proeminent care oferă vederi panoramice asupra orașului Angra do Heroísmo.",
+                  "text": "Obelisc care comemorează Războiul Liberal (1832-1834) în Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.218329,
@@ -1530,7 +1935,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baía de Villa Maria",
-                  "text": "Baía de Villa Maria este un golf pitoresc pe coasta orașului Angra do Heroísmo.",
+                  "text": "Baía de Villa Maria din insula Terceira este o golf pitoresc cu piscine naturale.",
                   "category": "landmark",
                   "coords": [
                         -27.249612,
@@ -1548,7 +1953,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro",
-                  "text": "Acesta este un punct de belvedere local din Angra do Heroísmo.",
+                  "text": "Miradouro din Angra do Heroísmo este un punct de belvedere asupra golfului și orașului.",
                   "category": "natural",
                   "coords": [
                         -27.232453,
@@ -1557,7 +1962,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império de Santo Amaro",
-                  "text": "Império de Santo Amaro este o atracție locală din Angra do Heroísmo.",
+                  "text": "O mică capelă dedicată Sfântului Amaro în Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.185907,
@@ -1566,7 +1971,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império do Meio da Rua",
-                  "text": "Império do Meio da Rua este o atracție culturală din Angra do Heroísmo.",
+                  "text": "Fortăreață din secolul al XVI-lea acum hotel în Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.181367,
@@ -1575,7 +1980,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império da Serra",
-                  "text": "Império da Serra este o atracție locală situată în orașul Angra do Heroísmo.",
+                  "text": "Golf semirotund cu statut de parc natural în Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.178529,
@@ -1584,7 +1989,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro de Santo António",
-                  "text": "Miradouro de Santo António este un punct de belvedere în orașul Angra do Heroísmo.",
+                  "text": "Un punct de belvedere cu vedere spre Angra do Heroísmo.",
                   "category": "natural",
                   "coords": [
                         -27.219095,
@@ -1593,7 +1998,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Grota do Medo",
-                  "text": "Grota do Medo este o atracție situată în orașul Angra do Heroísmo.",
+                  "text": "O peșteră numită 'Grota do Medo' (Peștera Fricii) în Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.224867,
@@ -1602,7 +2007,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Vigia de Baleia",
-                  "text": "Whale Watching Tower este un punct de belvedere situat în Angra do Heroísmo.",
+                  "text": "Un turn pe coastă pentru observarea balenelor în Angra do Heroísmo.",
                   "category": "natural",
                   "coords": [
                         -27.226896,
@@ -1611,7 +2016,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Vigia da II Guerra",
-                  "text": "Vigia da II Guerra este un punct de belvedere situat în Angra do Heroísmo.",
+                  "text": "Un post de observație din al Doilea Război Mondial în Angra do Heroísmo.",
                   "category": "natural",
                   "coords": [
                         -27.230899,
@@ -1620,7 +2025,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Forte da Quebrada",
-                  "text": "Forte da Quebrada prezintă ruine istorice situate în Angra do Heroísmo.",
+                  "text": "Primărie istorică cu fațadă în stil manuelin în Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.223821,
@@ -1629,7 +2034,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinas Muralha Castelo de São João Baptista",
-                  "text": "Ruinas Muralha Castelo de São João Baptista sunt ruine istorice din Angra do Heroísmo.",
+                  "text": "Catedrală construită în 1570 în Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.217335,
@@ -1638,7 +2043,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Convento das Concecionistas",
-                  "text": "Convento das Concecionistas este locul unor ruine istorice din orașul Angra do Heroísmo.",
+                  "text": "O mănăstire a ordinului Concecionistas în Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.212192,
@@ -1647,7 +2052,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de São Pedro",
-                  "text": "Igreja de São Pedro este un lăcaș de cult notabil din Angra do Heroísmo.",
+                  "text": "Muzeu găzduit în fosta mănăstire franciscană, expunând arta azorelor.",
                   "category": "religious",
                   "coords": [
                         -27.229725,
@@ -1656,7 +2061,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santo António da Grota",
-                  "text": "Ermida de Santo António da Grota este un lăcaș de cult istoric în Angra do Heroísmo.",
+                  "text": "Ermida de Santo António da Grota este o capelă mică din secolul al XVII-lea într-o grotă pe insula Terceira.",
                   "category": "religious",
                   "coords": [
                         -27.221805,
@@ -1667,7 +2072,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sé Cathedral of Angra do Heroísmo",
-                  "text": "Built in the 16th century, this cathedral is the largest religious building in the Azores, featuring a distinctive twin-tower facade.",
+                  "text": "Swimming pool at the Terceira Mar Hotel overlooking Angra Bay.",
                   "category": "churches",
                   "confidence": "high",
                   "coords": [
@@ -1687,7 +2092,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Monte Brasil",
-                  "text": "This extinct volcano forms a natural peninsula, offering panoramic views over the UNESCO world heritage city and various hiking trails.",
+                  "text": "16th-century fort overlooking Angra do Heroísmo harbour.",
                   "category": "viewpoints",
                   "confidence": "high",
                   "coords": [
@@ -1727,7 +2132,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Angra do Heroísmo Museum",
-                  "text": "Housed in a former Franciscan convent, the museum displays exhibits on maritime history, numismatics, and regional sacred art.",
+                  "text": "Forest recreation reserve on Monte Brasil established in 1989.",
                   "category": "museums",
                   "confidence": "high",
                   "coords": [
@@ -1757,7 +2162,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Hospital da Boa Nova",
-                  "text": "The Hospital da Boa Nova is a historic hospital and present-day museum located in Angra do Heroísmo.",
+                  "text": "The Hospital da Boa Nova in Angra do Heroísmo is a former 16th-century hospital, now a museum.",
                   "category": "museum",
                   "coords": [
                         -27.223697,
@@ -1775,7 +2180,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Silveira",
-                  "text": "Silveira is a beach situated in the city of Angra do Heroísmo.",
+                  "text": "Praia da Silveira in Angra do Heroísmo is a volcanic sand beach with a natural ocean pool.",
                   "category": "recreational",
                   "coords": [
                         -27.235713,
@@ -1784,7 +2189,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Ribeirinha",
-                  "text": "Museu da Ribeirinha is a local museum in Angra do Heroísmo.",
+                  "text": "Museu da Ribeirinha in Angra do Heroísmo is an ethnographic museum in a former convent.",
                   "category": "museum",
                   "coords": [
                         -27.177653,
@@ -1793,7 +2198,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Outeiro da Memória",
-                  "text": "Outeiro da Memória is a prominent monument offering panoramic views over Angra do Heroísmo.",
+                  "text": "Obelisk commemorating the Liberal Wars of 1832-1834 in Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.218329,
@@ -1802,7 +2207,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baía de Villa Maria",
-                  "text": "Baía de Villa Maria is a scenic coastal bay in Angra do Heroísmo.",
+                  "text": "Baía de Villa Maria on Terceira Island is a scenic bay with natural swimming pools.",
                   "category": "landmark",
                   "coords": [
                         -27.249612,
@@ -1820,7 +2225,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro",
-                  "text": "This is a local viewpoint situated in Angra do Heroísmo.",
+                  "text": "The Miradouro in Angra do Heroísmo is a viewpoint over the bay and the city.",
                   "category": "natural",
                   "coords": [
                         -27.232453,
@@ -1829,7 +2234,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império de Santo Amaro",
-                  "text": "Império de Santo Amaro is a local attraction in Angra do Heroísmo.",
+                  "text": "A small chapel dedicated to Santo Amaro in Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.185907,
@@ -1838,7 +2243,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império do Meio da Rua",
-                  "text": "Império do Meio da Rua is a cultural attraction located in Angra do Heroísmo.",
+                  "text": "16th-century fort now housing a hotel in Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.181367,
@@ -1847,7 +2252,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império da Serra",
-                  "text": "Império da Serra is a local attraction located in the city of Angra do Heroísmo.",
+                  "text": "Semicircular bay with a Natural Park status in Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.178529,
@@ -1856,7 +2261,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro de Santo António",
-                  "text": "Miradouro de Santo António is a viewpoint in the city of Angra do Heroísmo.",
+                  "text": "A viewpoint offering views of Angra do Heroísmo.",
                   "category": "natural",
                   "coords": [
                         -27.219095,
@@ -1865,7 +2270,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Grota do Medo",
-                  "text": "Grota do Medo is an attraction situated in the city of Angra do Heroísmo.",
+                  "text": "A cave called 'Grota do Medo' (Cave of Fear) in Angra do Heroísmo.",
                   "category": "landmark",
                   "coords": [
                         -27.224867,
@@ -1874,7 +2279,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Whale Watching Tower",
-                  "text": "Whale Watching Tower is a viewpoint located in Angra do Heroísmo.",
+                  "text": "A tower on the coast for whale watching in Angra do Heroísmo.",
                   "category": "natural",
                   "coords": [
                         -27.226896,
@@ -1883,7 +2288,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Vigia da II Guerra",
-                  "text": "Vigia da II Guerra is a viewpoint situated in Angra do Heroísmo.",
+                  "text": "A World War II observation post in Angra do Heroísmo.",
                   "category": "natural",
                   "coords": [
                         -27.230899,
@@ -1892,7 +2297,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Forte da Quebrada",
-                  "text": "Forte da Quebrada features historical ruins located in Angra do Heroísmo.",
+                  "text": "Historic town hall with a Manueline-style facade in Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.223821,
@@ -1901,7 +2306,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ruinas Muralha Castelo de São João Baptista",
-                  "text": "Ruinas Muralha Castelo de São João Baptista are historical ruins in Angra do Heroísmo.",
+                  "text": "Cathedral built in 1570 in Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.217335,
@@ -1910,7 +2315,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Convento das Concecionistas",
-                  "text": "Convento das Concecionistas is the site of historical ruins in the city of Angra do Heroísmo.",
+                  "text": "A convent of the Concecionistas order in Angra do Heroísmo.",
                   "category": "historical",
                   "coords": [
                         -27.212192,
@@ -1919,7 +2324,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de São Pedro",
-                  "text": "Igreja de São Pedro is a notable place of worship located in Angra do Heroísmo.",
+                  "text": "Museum housed in the former Franciscan convent, displaying Azorean art.",
                   "category": "religious",
                   "coords": [
                         -27.229725,
@@ -1928,7 +2333,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santo António da Grota",
-                  "text": "Ermida de Santo António da Grota is a historical place of worship in Angra do Heroísmo.",
+                  "text": "The Ermida de Santo António da Grota is a small 17th-century chapel set in a grotto on Terceira Island.",
                   "category": "religious",
                   "coords": [
                         -27.221805,
@@ -1943,7 +2348,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Forte de Santa Cruz da Horta",
-                  "text": "Eine historische Festung zum Schutz des Hafens von Horta.",
+                  "text": "Das Forte de Santa Cruz da Horta ist eine Festung aus dem 16. Jahrhundert, die den Hafen von Horta auf Faial überblickt.",
                   "category": "fortress",
                   "coords": [
                         -28.626495,
@@ -1970,7 +2375,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Torre do Relógio",
-                  "text": "Überreste eines historischen Uhrturms in Horta.",
+                  "text": "Die Torre do Relógio ist ein Uhrturm aus dem 19. Jahrhundert im Zentrum von Horta.",
                   "category": "historical",
                   "coords": [
                         -28.625745,
@@ -2015,7 +2420,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santa Bárbara",
-                  "text": "Eine kleine Kapelle in Horta.",
+                  "text": "Die Ermida de Santa Bárbara in Horta ist eine Kapelle aus dem 15. Jahrhundert, der Heiligen Barbara geweiht.",
                   "category": "religious",
                   "coords": [
                         -28.644113,
@@ -2024,7 +2429,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de Nossa Senhora da Guia",
-                  "text": "Eine Kapelle auf einem Hügel mit Blick auf Horta.",
+                  "text": "Die Capela de Nossa Senhora da Guia in Horta ist eine kleine Kapelle mit Blick auf den Hafen.",
                   "category": "religious",
                   "coords": [
                         -28.628458,
@@ -2033,7 +2438,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora do Rosário",
-                  "text": "Eine historische Kirche in Horta.",
+                  "text": "Die Igreja de Nossa Senhora do Rosário in Horta ist eine Kirche aus dem 17. Jahrhundert mit einer Azulejo-Fassade.",
                   "category": "religious",
                   "coords": [
                         -28.62763,
@@ -2042,7 +2447,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora da Conceição",
-                  "text": "Eine Pfarrkirche in Horta.",
+                  "text": "Die Igreja de Nossa Senhora da Conceição in Horta ist eine Kirche aus dem 18. Jahrhundert im historischen Zentrum.",
                   "category": "religious",
                   "coords": [
                         -28.623796,
@@ -2051,7 +2456,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora do Carmo",
-                  "text": "Eine Kirche des ehemaligen Karmeliterklosters in Horta.",
+                  "text": "Die Igreja de Nossa Senhora do Carmo in Horta ist eine Kirche aus dem 17. Jahrhundert mit einem geschnitzten Altaraufsatz.",
                   "category": "religious",
                   "coords": [
                         -28.628922,
@@ -2060,7 +2465,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Nossa Senhora do Pilar",
-                  "text": "Eine Kapelle mit weitem Blick über Horta.",
+                  "text": "Die Ermida de Nossa Senhora do Pilar in Horta ist eine kleine Einsiedelei aus dem 18. Jahrhundert auf einem Hügel.",
                   "category": "religious",
                   "coords": [
                         -28.62456,
@@ -2069,7 +2474,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santo Amaro",
-                  "text": "Eine kleine religiöse Stätte in Horta.",
+                  "text": "Die Ermida de Santo Amaro in Horta ist eine Einsiedelei aus dem 16. Jahrhundert nahe der Küste.",
                   "category": "religious",
                   "coords": [
                         -28.635181,
@@ -2096,7 +2501,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império da Trindade",
-                  "text": "Ein Heilig-Geist-Kapelle in Horta.",
+                  "text": "Das Império da Trindade in Horta ist eine bunte Kapelle des Heiligen Geistes aus dem 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -28.611081,
@@ -2195,7 +2600,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "The Cedars House",
-                  "text": "Ein bemerkenswertes historisches Herrenhaus in Horta.",
+                  "text": "Das Cedars House in Horta ist ein Herrenhaus aus dem 19. Jahrhundert, umgeben von Zedern.",
                   "category": "historical",
                   "coords": [
                         -28.631199,
@@ -2240,7 +2645,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar da Quinta de São Lourenço",
-                  "text": "Ein elegantes historisches Herrenhaus und Anwesen in Horta.",
+                  "text": "Ein Herrenhaus auf dem Gut São Lourenço in Horta.",
                   "category": "historical",
                   "coords": [
                         -28.639422,
@@ -2348,7 +2753,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil dos Flamengos",
-                  "text": "Parque Infantil dos Flamengos ist ein Spielplatz in Horta, ideal für einen Ausflug mit Kindern.",
+                  "text": "Ein Kinderspielplatz im Stadtteil Flamengos von Horta.",
                   "category": "family",
                   "coords": [
                         -28.653961,
@@ -2404,7 +2809,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Forte de Santa Cruz da Horta",
-                  "text": "Történelmi erőd Horta kikötőjének védelmére.",
+                  "text": "A Forte de Santa Cruz da Horta egy 16. századi erőd, amely Horta kikötőjére néz Faial szigetén.",
                   "category": "fortress",
                   "coords": [
                         -28.626495,
@@ -2431,7 +2836,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Torre do Relógio",
-                  "text": "Egy történelmi óratorony maradványai Hortában.",
+                  "text": "A Torre do Relógio egy 19. századi óratorony Horta központjában.",
                   "category": "historical",
                   "coords": [
                         -28.625745,
@@ -2476,7 +2881,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santa Bárbara",
-                  "text": "Kisméretű kápolna Hortában.",
+                  "text": "A hortai Ermida de Santa Bárbara egy 15. századi kápolna, amelyet Szent Borbálának szenteltek.",
                   "category": "religious",
                   "coords": [
                         -28.644113,
@@ -2485,7 +2890,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de Nossa Senhora da Guia",
-                  "text": "Kápolna egy dombtetőn, kilátással Hortára.",
+                  "text": "A hortai Capela de Nossa Senhora da Guia egy kis kápolna, ahonnan kilátás nyílik a kikötőre.",
                   "category": "religious",
                   "coords": [
                         -28.628458,
@@ -2494,7 +2899,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora do Rosário",
-                  "text": "Történelmi templom Hortában.",
+                  "text": "A hortai Igreja de Nossa Senhora do Rosário egy 17. századi templom azulejo homlokzattal.",
                   "category": "religious",
                   "coords": [
                         -28.62763,
@@ -2503,7 +2908,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora da Conceição",
-                  "text": "Plébániatemplom Hortában.",
+                  "text": "A hortai Igreja de Nossa Senhora da Conceição egy 18. századi templom a történelmi központban.",
                   "category": "religious",
                   "coords": [
                         -28.623796,
@@ -2512,7 +2917,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora do Carmo",
-                  "text": "Az egykori karmelita kolostor temploma Hortában.",
+                  "text": "A hortai Igreja de Nossa Senhora do Carmo egy 17. századi templom faragott oltárral.",
                   "category": "religious",
                   "coords": [
                         -28.628922,
@@ -2521,7 +2926,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Nossa Senhora do Pilar",
-                  "text": "Kápolna, ahonnan széles kilátás nyílik Hortára.",
+                  "text": "A hortai Ermida de Nossa Senhora do Pilar egy 18. századi kis remetelak egy dombon.",
                   "category": "religious",
                   "coords": [
                         -28.62456,
@@ -2530,7 +2935,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santo Amaro",
-                  "text": "Kisméretű vallási helyszín Hortában.",
+                  "text": "A hortai Ermida de Santo Amaro egy 16. századi remetelak a part közelében.",
                   "category": "religious",
                   "coords": [
                         -28.635181,
@@ -2557,7 +2962,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império da Trindade",
-                  "text": "Szentlélek-kápolna Hortában.",
+                  "text": "A hortai Império da Trindade egy 19. századi színes Szentlélek-kápolna.",
                   "category": "religious",
                   "coords": [
                         -28.611081,
@@ -2656,7 +3061,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "The Cedars House",
-                  "text": "Egy jelentős történelmi kúria Hortában.",
+                  "text": "A Cedars House Horta szigetén egy 19. századi kúria, cédrusfákkal körülvéve.",
                   "category": "historical",
                   "coords": [
                         -28.631199,
@@ -2701,7 +3106,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar da Quinta de São Lourenço",
-                  "text": "Elegáns történelmi kúria és birtok Hortában.",
+                  "text": "Egy kúria a São Lourenço birtokon Horta-ban.",
                   "category": "historical",
                   "coords": [
                         -28.639422,
@@ -2809,7 +3214,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil dos Flamengos",
-                  "text": "A Parque Infantil dos Flamengos egy játszótér Horta területén, ideális egy gyerekekkel való kiránduláshoz.",
+                  "text": "Egy gyerekjátszótér Horta Flamengos negyedében.",
                   "category": "family",
                   "coords": [
                         -28.653961,
@@ -2865,7 +3270,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Forte de Santa Cruz da Horta",
-                  "text": "O fortăreață istorică construită pentru a proteja portul Horta.",
+                  "text": "Forte de Santa Cruz da Horta este o fortăreață din secolul al XVI-lea care domină portul Horta pe insula Faial.",
                   "category": "fortress",
                   "coords": [
                         -28.626495,
@@ -2892,7 +3297,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Torre do Relógio",
-                  "text": "Rămășițele unui turn cu ceas istoric din Horta.",
+                  "text": "Torre do Relógio este un turn cu ceas din secolul al XIX-lea în centrul Hortei.",
                   "category": "historical",
                   "coords": [
                         -28.625745,
@@ -2937,7 +3342,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santa Bárbara",
-                  "text": "O mică capelă în Horta.",
+                  "text": "Ermida de Santa Bárbara din Horta este o capelă din secolul al XV-lea dedicată Sfintei Barbara.",
                   "category": "religious",
                   "coords": [
                         -28.644113,
@@ -2946,7 +3351,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de Nossa Senhora da Guia",
-                  "text": "O capelă situată pe un deal cu vedere spre Horta.",
+                  "text": "Capela de Nossa Senhora da Guia din Horta este o capelă mică cu vedere spre port.",
                   "category": "religious",
                   "coords": [
                         -28.628458,
@@ -2955,7 +3360,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora do Rosário",
-                  "text": "O biserică istorică în Horta.",
+                  "text": "Igreja de Nossa Senhora do Rosário din Horta este o biserică din secolul al XVII-lea cu fațadă de azulejos.",
                   "category": "religious",
                   "coords": [
                         -28.62763,
@@ -2964,7 +3369,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora da Conceição",
-                  "text": "O biserică parohială în Horta.",
+                  "text": "Igreja de Nossa Senhora da Conceição din Horta este o biserică din secolul al XVIII-lea în centrul istoric.",
                   "category": "religious",
                   "coords": [
                         -28.623796,
@@ -2973,7 +3378,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora do Carmo",
-                  "text": "Biserica fostei mănăstiri carmelite din Horta.",
+                  "text": "Igreja de Nossa Senhora do Carmo din Horta este o biserică din secolul al XVII-lea cu un retablo sculptat.",
                   "category": "religious",
                   "coords": [
                         -28.628922,
@@ -2982,7 +3387,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Nossa Senhora do Pilar",
-                  "text": "O capelă care oferă o vedere panoramică asupra orașului Horta.",
+                  "text": "Ermida de Nossa Senhora do Pilar din Horta este o mică sihăstrie din secolul al XVIII-lea pe un deal.",
                   "category": "religious",
                   "coords": [
                         -28.62456,
@@ -2991,7 +3396,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santo Amaro",
-                  "text": "Un mic lăcaș de cult în Horta.",
+                  "text": "Ermida de Santo Amaro din Horta este o sihăstrie din secolul al XVI-lea aproape de coastă.",
                   "category": "religious",
                   "coords": [
                         -28.635181,
@@ -3018,7 +3423,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império da Trindade",
-                  "text": "O capelă a Duhului Sfânt în Horta.",
+                  "text": "Império da Trindade din Horta este o capelă colorată a Duhului Sfânt din secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         -28.611081,
@@ -3117,7 +3522,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "The Cedars House",
-                  "text": "Un conac istoric notabil situat în Horta.",
+                  "text": "Cedars House din Horta, o conac din secolul al XIX-lea înconjurat de cedri.",
                   "category": "historical",
                   "coords": [
                         -28.631199,
@@ -3162,7 +3567,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar da Quinta de São Lourenço",
-                  "text": "Un conac și o proprietate istorică elegantă situată în Horta.",
+                  "text": "Un conac pe moșia São Lourenço în Horta.",
                   "category": "historical",
                   "coords": [
                         -28.639422,
@@ -3270,7 +3675,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil dos Flamengos",
-                  "text": "Parque Infantil dos Flamengos este un loc de joacă în Horta, ideal pentru o ieșire cu copiii.",
+                  "text": "Un loc de joacă pentru copii în cartierul Flamengos din Horta.",
                   "category": "family",
                   "coords": [
                         -28.653961,
@@ -3326,7 +3731,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Forte de Santa Cruz da Horta",
-                  "text": "A historic fort built to protect the harbor of Horta.",
+                  "text": "The Forte de Santa Cruz da Horta is a 16th-century fortress overlooking the harbour of Horta on Faial Island.",
                   "category": "fortress",
                   "coords": [
                         -28.626495,
@@ -3353,7 +3758,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Torre do Relógio",
-                  "text": "The remains of a historic clock tower in Horta.",
+                  "text": "The Torre do Relógio is a 19th-century clock tower in the centre of Horta.",
                   "category": "historical",
                   "coords": [
                         -28.625745,
@@ -3398,7 +3803,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santa Bárbara",
-                  "text": "A small chapel located in Horta.",
+                  "text": "The Ermida de Santa Bárbara in Horta is a 15th-century chapel dedicated to Saint Barbara.",
                   "category": "religious",
                   "coords": [
                         -28.644113,
@@ -3407,7 +3812,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de Nossa Senhora da Guia",
-                  "text": "A chapel situated on a hill overlooking Horta.",
+                  "text": "The Capela de Nossa Senhora da Guia in Horta is a small chapel with a view over the port.",
                   "category": "religious",
                   "coords": [
                         -28.628458,
@@ -3416,7 +3821,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora do Rosário",
-                  "text": "A historic church located in Horta.",
+                  "text": "The Igreja de Nossa Senhora do Rosário in Horta is a 17th-century church with a notable azulejo facade.",
                   "category": "religious",
                   "coords": [
                         -28.62763,
@@ -3425,7 +3830,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora da Conceição",
-                  "text": "A parish church located in Horta.",
+                  "text": "The Igreja de Nossa Senhora da Conceição in Horta is an 18th-century church in the historic centre.",
                   "category": "religious",
                   "coords": [
                         -28.623796,
@@ -3434,7 +3839,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora do Carmo",
-                  "text": "The church of the former Carmelite convent in Horta.",
+                  "text": "The Igreja de Nossa Senhora do Carmo in Horta is a 17th-century church with a carved altarpiece.",
                   "category": "religious",
                   "coords": [
                         -28.628922,
@@ -3443,7 +3848,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Nossa Senhora do Pilar",
-                  "text": "A chapel offering a broad view over Horta.",
+                  "text": "The Ermida de Nossa Senhora do Pilar in Horta is a small 18th-century hermitage on a hill.",
                   "category": "religious",
                   "coords": [
                         -28.62456,
@@ -3452,7 +3857,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de Santo Amaro",
-                  "text": "A small religious site in Horta.",
+                  "text": "The Ermida de Santo Amaro in Horta is a 16th-century hermitage near the coast.",
                   "category": "religious",
                   "coords": [
                         -28.635181,
@@ -3479,7 +3884,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Império da Trindade",
-                  "text": "A Holy Spirit chapel in Horta.",
+                  "text": "The Império da Trindade in Horta is a colourful 19th-century Holy Spirit chapel.",
                   "category": "religious",
                   "coords": [
                         -28.611081,
@@ -3578,7 +3983,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "The Cedars House",
-                  "text": "A notable historical manor house located in Horta.",
+                  "text": "The Cedars House in Horta, a 19th-century estate surrounded by cedar trees.",
                   "category": "historical",
                   "coords": [
                         -28.631199,
@@ -3623,7 +4028,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar da Quinta de São Lourenço",
-                  "text": "An elegant historical manor and estate located in Horta.",
+                  "text": "A manor house on the São Lourenço estate in Horta.",
                   "category": "historical",
                   "coords": [
                         -28.639422,
@@ -3731,7 +4136,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil dos Flamengos",
-                  "text": "Parque Infantil dos Flamengos is a playground in Horta, ideal for an outing with children.",
+                  "text": "A children's playground in the Flamengos neighborhood of Horta.",
                   "category": "family",
                   "coords": [
                         -28.653961,
@@ -4193,7 +4598,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim de Carrilho Videira",
-                  "text": "Ein kleiner städtischer Garten im Herzen der Stadt.",
+                  "text": "Der Jardim de Carrilho Videira in Vila Nova de Gaia ist ein Garten mit Blick auf den Douro.",
                   "category": "park",
                   "coords": [
                         -8.619008,
@@ -4202,7 +4607,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim de João Chagas",
-                  "text": "Ein zentraler öffentlicher Park, der auch als Jardim da Cordoaria bekannt ist.",
+                  "text": "Ein Garten, benannt nach dem Journalisten João Chagas, in Vila Nova de Gaia.",
                   "category": "park",
                   "coords": [
                         -8.61654,
@@ -4256,7 +4661,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago do Parque de Serralves",
-                  "text": "Ein malerischer See in einer Gartenanlage in Vila Nova de Gaia.",
+                  "text": "Ein See im Park Serralves in Vila Nova de Gaia.",
                   "category": "natural",
                   "coords": [
                         -8.656915,
@@ -4690,7 +5095,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim de Carrilho Videira",
-                  "text": "Kisméretű városi közpark a városban.",
+                  "text": "A Vila Nova de Gaiában található Jardim de Carrilho Videira egy kert, ahonnan kilátás nyílik a Douro folyóra.",
                   "category": "park",
                   "coords": [
                         -8.619008,
@@ -4699,7 +5104,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim de João Chagas",
-                  "text": "Központi közpark, más néven Jardim da Cordoaria.",
+                  "text": "Egy João Chagas újságíróról elnevezett kert Vila Nova de Gaia-ban.",
                   "category": "park",
                   "coords": [
                         -8.61654,
@@ -4753,7 +5158,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago do Parque de Serralves",
-                  "text": "Egy festői tó egy kertben Vila Nova de Gaiában.",
+                  "text": "Egy tó a Serralves Parkban Vila Nova de Gaia-ban.",
                   "category": "natural",
                   "coords": [
                         -8.656915,
@@ -5187,7 +5592,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim de Carrilho Videira",
-                  "text": "O mică grădină publică urbană situată în oraș.",
+                  "text": "Grădina Carrilho Videira din Vila Nova de Gaia este o grădină cu vedere spre râul Douro.",
                   "category": "park",
                   "coords": [
                         -8.619008,
@@ -5196,7 +5601,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim de João Chagas",
-                  "text": "Un parc public central, cunoscut și sub numele de Jardim da Cordoaria.",
+                  "text": "O grădină numită după jurnalistul João Chagas în Vila Nova de Gaia.",
                   "category": "park",
                   "coords": [
                         -8.61654,
@@ -5250,7 +5655,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago do Parque de Serralves",
-                  "text": "Un lac pitoresc într-o grădină din Vila Nova de Gaia.",
+                  "text": "Un lac în Parcul Serralves din Vila Nova de Gaia.",
                   "category": "natural",
                   "coords": [
                         -8.656915,
@@ -5684,7 +6089,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim de Carrilho Videira",
-                  "text": "A small urban public garden in the city.",
+                  "text": "The Jardim de Carrilho Videira in Vila Nova de Gaia is a garden offering views of the Douro River.",
                   "category": "park",
                   "coords": [
                         -8.619008,
@@ -5693,7 +6098,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim de João Chagas",
-                  "text": "A central public park also known as Jardim da Cordoaria.",
+                  "text": "A garden named after journalist João Chagas in Vila Nova de Gaia.",
                   "category": "park",
                   "coords": [
                         -8.61654,
@@ -5747,7 +6152,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago do Parque de Serralves",
-                  "text": "A scenic lake in a garden in Vila Nova de Gaia.",
+                  "text": "A lake in Serralves Park in Vila Nova de Gaia.",
                   "category": "natural",
                   "coords": [
                         -8.656915,
@@ -5939,7 +6344,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Senhor de Matosinhos",
-                  "text": "Der Parque Infantil do Senhor de Matosinhos ist ein Spielplatz in Matosinhos für Spiel und Spaß.",
+                  "text": "Ein Spielplatz in der Nähe der Kirche Senhor de Matosinhos in Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.683018,
@@ -5948,7 +6353,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil da Biquinha",
-                  "text": "Der Parque Infantil da Biquinha ist ein familienfreundlicher Spielplatz in Matosinhos.",
+                  "text": "Ein Spielplatz an der Biquinha in Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.672968,
@@ -5957,7 +6362,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Estádio do Mar",
-                  "text": "Der Estádio do Mar ist ein öffentlicher Spielplatz in Matosinhos für Kinder.",
+                  "text": "Ein Fußballstadion am Meer in Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.668131,
@@ -5984,7 +6389,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil Florbela Espanca",
-                  "text": "Der Parque Infantil Florbela Espanca ist ein schöner Ort zum Spielen für Kinder in Matosinhos.",
+                  "text": "Ein Spielplatz, benannt nach der Dichterin Florbela Espanca, in Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.704761,
@@ -6029,7 +6434,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Castelo do Queijo",
-                  "text": "Praia do Castelo do Queijo ist ein Strand in Matosinhos bei der Festung.",
+                  "text": "Der Strand Praia do Castelo do Queijo in Matosinhos hat eine käseförmige Felsformation.",
                   "category": "recreational",
                   "coords": [
                         -8.689997,
@@ -6038,7 +6443,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia de Matosinhos",
-                  "text": "Praia de Matosinhos ist ein großer Sandstrand in Matosinhos.",
+                  "text": "Der Strand Praia de Matosinhos ist ein langer Sandstrand, beliebt zum Surfen und Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         -8.693456,
@@ -6130,7 +6535,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Senhor de Matosinhos",
-                  "text": "A Parque Infantil do Senhor de Matosinhos egy játszótér Matosinhosban a játékhoz és szórakozáshoz.",
+                  "text": "Egy játszótér a Senhor de Matosinhos templom közelében Matosinhos-ban.",
                   "category": "family",
                   "coords": [
                         -8.683018,
@@ -6139,7 +6544,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil da Biquinha",
-                  "text": "A Parque Infantil da Biquinha egy családbarát játszótér Matosinhos városában.",
+                  "text": "Egy játszótér a Biquinha-nél Matosinhos-ban.",
                   "category": "family",
                   "coords": [
                         -8.672968,
@@ -6148,7 +6553,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Estádio do Mar",
-                  "text": "Az Estádio do Mar egy nyilvános játszótér Matosinhosban a gyerekek számára.",
+                  "text": "Egy futballstadion a tenger mellett Matosinhos-ban.",
                   "category": "family",
                   "coords": [
                         -8.668131,
@@ -6175,7 +6580,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil Florbela Espanca",
-                  "text": "A Parque Infantil Florbela Espanca egy szép hely a játékra a gyerekeknek Matosinhosban.",
+                  "text": "Egy játszótér Florbela Espanca költőnőről elnevezve Matosinhos-ban.",
                   "category": "family",
                   "coords": [
                         -8.704761,
@@ -6220,7 +6625,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Castelo do Queijo",
-                  "text": "Praia do Castelo do Queijo egy strand Matosinhosban az erőd közelében.",
+                  "text": "A Praia do Castelo do Queijo strand Matosinhosban egy sajt alakú szikláról híres.",
                   "category": "recreational",
                   "coords": [
                         -8.689997,
@@ -6229,7 +6634,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia de Matosinhos",
-                  "text": "Praia de Matosinhos egy nagy homokos strand Matosinhosban.",
+                  "text": "A Praia de Matosinhos egy hosszú homokos strand, szörfözésre és napozásra alkalmas.",
                   "category": "recreational",
                   "coords": [
                         -8.693456,
@@ -6321,7 +6726,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Senhor de Matosinhos",
-                  "text": "Parque Infantil do Senhor de Matosinhos este un loc de joacă în Matosinhos pentru joacă și distracție.",
+                  "text": "Un loc de joacă lângă biserica Senhor de Matosinhos în Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.683018,
@@ -6330,7 +6735,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil da Biquinha",
-                  "text": "Parque Infantil da Biquinha este un teren de joacă pentru familii situat în Matosinhos.",
+                  "text": "Un loc de joacă la Biquinha în Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.672968,
@@ -6339,7 +6744,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Estádio do Mar",
-                  "text": "Estádio do Mar este un loc de joacă public în Matosinhos pentru copii.",
+                  "text": "Un stadion de fotbal lângă mare în Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.668131,
@@ -6366,7 +6771,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil Florbela Espanca",
-                  "text": "Parque Infantil Florbela Espanca este un loc plăcut de joacă pentru copii în Matosinhos.",
+                  "text": "Un loc de joacă numit după poeta Florbela Espanca în Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.704761,
@@ -6411,7 +6816,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Castelo do Queijo",
-                  "text": "Praia do Castelo do Queijo este o plajă în Matosinhos lângă fortăreață.",
+                  "text": "Plaja Praia do Castelo do Queijo din Matosinhos, cu o formațiune stâncoasă în formă de brânză.",
                   "category": "recreational",
                   "coords": [
                         -8.689997,
@@ -6420,7 +6825,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia de Matosinhos",
-                  "text": "Praia de Matosinhos este o plajă mare de nisip în Matosinhos.",
+                  "text": "Plaja Praia de Matosinhos, o plajă lungă cu nisip, populară pentru surfing și plajă.",
                   "category": "recreational",
                   "coords": [
                         -8.693456,
@@ -6512,7 +6917,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Senhor de Matosinhos",
-                  "text": "Parque Infantil do Senhor de Matosinhos is a playground in Matosinhos for play and fun.",
+                  "text": "A playground near the Senhor de Matosinhos church in Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.683018,
@@ -6521,7 +6926,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil da Biquinha",
-                  "text": "Parque Infantil da Biquinha is a family-friendly playground in Matosinhos.",
+                  "text": "A playground at Biquinha in Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.672968,
@@ -6530,7 +6935,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Estádio do Mar",
-                  "text": "Estádio do Mar is a public playground in Matosinhos for children.",
+                  "text": "A football stadium by the sea in Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.668131,
@@ -6557,7 +6962,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil Florbela Espanca",
-                  "text": "Parque Infantil Florbela Espanca is a nice place for children to play in Matosinhos.",
+                  "text": "A playground named after poet Florbela Espanca in Matosinhos.",
                   "category": "family",
                   "coords": [
                         -8.704761,
@@ -6602,7 +7007,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Castelo do Queijo",
-                  "text": "Praia do Castelo do Queijo is a beach in Matosinhos near the fort.",
+                  "text": "Praia do Castelo do Queijo beach in Matosinhos, known for a cheese-shaped rock formation.",
                   "category": "recreational",
                   "coords": [
                         -8.689997,
@@ -6611,7 +7016,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia de Matosinhos",
-                  "text": "Praia de Matosinhos is a large sandy beach in Matosinhos.",
+                  "text": "Praia de Matosinhos beach, a long sandy beach popular for surfing and sunbathing.",
                   "category": "recreational",
                   "coords": [
                         -8.693456,
@@ -6875,7 +7280,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Os Perseguídos",
-                  "text": "Ein Denkmal in Almada, das den Verfolgten gewidmet ist.",
+                  "text": "Ein Denkmal für die Verfolgten in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.155816,
@@ -6902,7 +7307,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Poço",
-                  "text": "Historische Ruinen eines alten Brunnens in Almada.",
+                  "text": "Ein alter Brunnen in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.157637,
@@ -6911,7 +7316,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antigo Poço de Cacilhas",
-                  "text": "Die Überreste eines alten Brunnens im Viertel Cacilhas.",
+                  "text": "Ein alter Brunnen in Cacilhas, Almada.",
                   "category": "historical",
                   "coords": [
                         -9.149668,
@@ -6920,7 +7325,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fonte da Mutela",
-                  "text": "Historische Überreste eines alten Brunnens in Almada.",
+                  "text": "Ein historischer Brunnen an der Mutela in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.154344,
@@ -6929,7 +7334,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta da Alegria",
-                  "text": "Überreste eines historischen Anwesens in Almada.",
+                  "text": "Ein historisches Anwesen namens Quinta da Alegria in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.150822,
@@ -6947,7 +7352,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta de São João da Ramalha",
-                  "text": "Ruinen eines alten Landguts in der Region Almada.",
+                  "text": "Ein historisches Anwesen von São João da Ramalha in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.167415,
@@ -6965,7 +7370,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim Botânico",
-                  "text": "Ein botanischer Garten in Almada, der die lokale Flora präsentiert.",
+                  "text": "Ein botanischer Garten in Almada.",
                   "category": "landmark",
                   "coords": [
                         -9.159909,
@@ -7001,7 +7406,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar da Quinta de Vale Mourelos",
-                  "text": "Ein historisches Herrenhaus in der Gemeinde Almada.",
+                  "text": "Ein Herrenhaus in Vale Mourelos in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.185056,
@@ -7010,7 +7415,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Cacilhas",
-                  "text": "Eine historische Windmühle im Viertel Cacilhas.",
+                  "text": "Eine Windmühle in Cacilhas, Almada.",
                   "category": "landmark",
                   "coords": [
                         -9.14813,
@@ -7028,7 +7433,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santiago",
-                  "text": "Eine historische Kirche im Herzen von Almada.",
+                  "text": "Die Igreja de Santiago in Almada ist eine Kirche aus dem 16. Jahrhundert mit einem manuelinischen Portal.",
                   "category": "religious",
                   "coords": [
                         -9.156353,
@@ -7037,7 +7442,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida do Mártir São Sebastião",
-                  "text": "Eine kleine Kapelle in Almada, die dem Heiligen Sebastian gewidmet ist.",
+                  "text": "Die Einsiedelei des heiligen Sebastian in Almada liegt auf einem Hügel und ist dem Märtyrer geweiht.",
                   "category": "religious",
                   "coords": [
                         -9.161396,
@@ -7055,7 +7460,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Duque de Lafões",
-                  "text": "Lago Duque de Lafões ist ein See in Almada, ideal für eine entspannende Pause.",
+                  "text": "Ein See, benannt nach dem Herzog von Lafões, in Almada.",
                   "category": "natural",
                   "coords": [
                         -9.169075,
@@ -7064,7 +7469,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lagoa",
-                  "text": "Lagoa ist ein See in Almada, der eine natürliche Note in die Stadt bringt.",
+                  "text": "Eine Lagune in Almada.",
                   "category": "natural",
                   "coords": [
                         -9.188938,
@@ -7100,7 +7505,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Principal",
-                  "text": "Lago Principal ist ein See in Almada, ideal für einen Spaziergang im Park.",
+                  "text": "Der Hauptsee in Almada.",
                   "category": "natural",
                   "coords": [
                         -9.202917,
@@ -7109,7 +7514,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque da Juventude",
-                  "text": "Parque Infantil do Parque da Juventude ist ein Spielplatz in Almada für aktive Kinder.",
+                  "text": "Ein Spielplatz im Parque da Juventude (Jugendpark) in Almada.",
                   "category": "family",
                   "coords": [
                         -9.165506,
@@ -7118,7 +7523,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil dos Caranguejais",
-                  "text": "Parque Infantil dos Caranguejais ist ein Spielplatz in Almada, der Familien willkommen heißt.",
+                  "text": "Ein Spielplatz im Caranguejais-Gebiet von Almada.",
                   "category": "family",
                   "coords": [
                         -9.156365,
@@ -7127,7 +7532,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil da Praceta Jornal de Almada",
-                  "text": "Parque Infantil da Praceta Jornal de Almada ist ein Spielplatz in Almada zum Spielen im Freien.",
+                  "text": "Ein Spielplatz an der Praceta Jornal de Almada in Almada.",
                   "category": "family",
                   "coords": [
                         -9.152896,
@@ -7136,7 +7541,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Jardim Dr. Alberto Araújo",
-                  "text": "Parque Infantil do Jardim Dr. Alberto Araújo ist ein Spielplatz in Almada für einen Familienausflug.",
+                  "text": "Ein Spielplatz im Jardim Dr. Alberto Araújo in Almada.",
                   "category": "family",
                   "coords": [
                         -9.158169,
@@ -7145,7 +7550,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque Urbano do Pragal",
-                  "text": "Parque Infantil do Parque Urbano do Pragal ist ein Spielplatz in Almada in einem Stadtpark.",
+                  "text": "Ein Spielplatz im Stadtpark von Pragal in Almada.",
                   "category": "family",
                   "coords": [
                         -9.17063,
@@ -7181,7 +7586,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque Luís Sá",
-                  "text": "Parque Infantil do Parque Luís Sá ist ein Spielplatz in Almada in schöner Umgebung.",
+                  "text": "Ein Spielplatz im Parque Luís Sá in Almada.",
                   "category": "family",
                   "coords": [
                         -9.15144,
@@ -7199,7 +7604,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Largo Padre Ricardo Gameiro",
-                  "text": "Parque Infantil do Largo Padre Ricardo Gameiro ist ein Spielplatz in Almada zum Spielen im Freien.",
+                  "text": "Ein Spielplatz am Largo Padre Ricardo Gameiro in Almada.",
                   "category": "family",
                   "coords": [
                         -9.15629,
@@ -7435,7 +7840,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Os Perseguídos",
-                  "text": "Emlékmű Almadában az üldözöttek tiszteletére.",
+                  "text": "Egy emlékmű az üldözötteknek Almada-ban.",
                   "category": "historical",
                   "coords": [
                         -9.155816,
@@ -7462,7 +7867,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Poço",
-                  "text": "Egy régi kút történelmi romjai Almadában.",
+                  "text": "Egy régi kút Almada-ban.",
                   "category": "historical",
                   "coords": [
                         -9.157637,
@@ -7471,7 +7876,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antigo Poço de Cacilhas",
-                  "text": "Egy régi kút maradványai Cacilhas negyedében.",
+                  "text": "Egy régi kút Cacilhas-ban, Almada.",
                   "category": "historical",
                   "coords": [
                         -9.149668,
@@ -7480,7 +7885,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fonte da Mutela",
-                  "text": "Egy régi forrás történelmi maradványai Almadában.",
+                  "text": "Egy történelmi kút a Mutela-nál Almada-ban.",
                   "category": "historical",
                   "coords": [
                         -9.154344,
@@ -7489,7 +7894,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta da Alegria",
-                  "text": "Egy történelmi birtok romjai Almadában.",
+                  "text": "Egy történelmi birtok, Quinta da Alegria, Almada-ban.",
                   "category": "historical",
                   "coords": [
                         -9.150822,
@@ -7507,7 +7912,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta de São João da Ramalha",
-                  "text": "Egy régi udvarház romjai Almada régiójában.",
+                  "text": "Egy történelmi birtok, São João da Ramalha, Almada-ban.",
                   "category": "historical",
                   "coords": [
                         -9.167415,
@@ -7525,7 +7930,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim Botânico",
-                  "text": "Botanikus kert Almadában, amely a helyi növényvilágot mutatja be.",
+                  "text": "Egy botanikus kert Almada-ban.",
                   "category": "landmark",
                   "coords": [
                         -9.159909,
@@ -7561,7 +7966,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar da Quinta de Vale Mourelos",
-                  "text": "Történelmi udvarház Almada településén.",
+                  "text": "Egy kúria Vale Mourelos-ban, Almada.",
                   "category": "historical",
                   "coords": [
                         -9.185056,
@@ -7570,7 +7975,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Cacilhas",
-                  "text": "Történelmi szélmalom Cacilhas negyedében.",
+                  "text": "Egy szélmalom Cacilhas-ban, Almada.",
                   "category": "landmark",
                   "coords": [
                         -9.14813,
@@ -7588,7 +7993,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santiago",
-                  "text": "Történelmi templom Almada szívében.",
+                  "text": "A Santiago-templom Almadában egy 16. századi templom manueli stílusú portállal.",
                   "category": "religious",
                   "coords": [
                         -9.156353,
@@ -7597,7 +8002,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida do Mártir São Sebastião",
-                  "text": "Szent Sebestyénnek szentelt kis kápolna Almadában.",
+                  "text": "Szent Sebestyén remetelak Almadában egy dombon áll, a vértanú tiszteletére.",
                   "category": "religious",
                   "coords": [
                         -9.161396,
@@ -7615,7 +8020,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Duque de Lafões",
-                  "text": "A Lago Duque de Lafões egy tó Almada területén, amely ideális egy pihentető szünethez.",
+                  "text": "Egy tó, Lafões hercegéről elnevezve, Almada-ban.",
                   "category": "natural",
                   "coords": [
                         -9.169075,
@@ -7624,7 +8029,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lagoa",
-                  "text": "A Lagoa egy tó Almada területén, amely természetes hangulatot visz a városba.",
+                  "text": "Egy lagúna Almada-ban.",
                   "category": "natural",
                   "coords": [
                         -9.188938,
@@ -7660,7 +8065,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Principal",
-                  "text": "A Lago Principal egy tó Almada területén, amely ideális egy parki sétához.",
+                  "text": "A fő tó Almada-ban.",
                   "category": "natural",
                   "coords": [
                         -9.202917,
@@ -7669,7 +8074,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque da Juventude",
-                  "text": "A Parque Infantil do Parque da Juventude egy játszótér Almada területén aktív gyerekeknek.",
+                  "text": "Egy játszótér a Parque da Juventude (Ifjúsági Park) parkban Almada-ban.",
                   "category": "family",
                   "coords": [
                         -9.165506,
@@ -7678,7 +8083,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil dos Caranguejais",
-                  "text": "A Parque Infantil dos Caranguejais egy játszótér Almada területén, amely várja a családokat.",
+                  "text": "Egy játszótér Almada Caranguejais negyedében.",
                   "category": "family",
                   "coords": [
                         -9.156365,
@@ -7687,7 +8092,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil da Praceta Jornal de Almada",
-                  "text": "A Parque Infantil da Praceta Jornal de Almada egy játszótér Almada területén a szabadtéri játékhoz.",
+                  "text": "Egy játszótér a Praceta Jornal de Almada-n Almada-ban.",
                   "category": "family",
                   "coords": [
                         -9.152896,
@@ -7696,7 +8101,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Jardim Dr. Alberto Araújo",
-                  "text": "A Parque Infantil do Jardim Dr. Alberto Araújo egy játszótér Almada területén egy családi kiránduláshoz.",
+                  "text": "Egy játszótér a Jardim Dr. Alberto Araújo-ban Almada-ban.",
                   "category": "family",
                   "coords": [
                         -9.158169,
@@ -7705,7 +8110,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque Urbano do Pragal",
-                  "text": "A Parque Infantil do Parque Urbano do Pragal egy játszótér Almada egyik városi parkjában.",
+                  "text": "Egy játszótér a Pragal Városi Parkban Almada-ban.",
                   "category": "family",
                   "coords": [
                         -9.17063,
@@ -7741,7 +8146,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque Luís Sá",
-                  "text": "A Parque Infantil do Parque Luís Sá egy játszótér Almada területén, szép környezetben.",
+                  "text": "Egy játszótér a Parque Luís Sá-ban Almada-ban.",
                   "category": "family",
                   "coords": [
                         -9.15144,
@@ -7759,7 +8164,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Largo Padre Ricardo Gameiro",
-                  "text": "A Parque Infantil do Largo Padre Ricardo Gameiro egy játszótér Almada területén a szabadtéri játékhoz.",
+                  "text": "Egy játszótér a Largo Padre Ricardo Gameiro-n Almada-ban.",
                   "category": "family",
                   "coords": [
                         -9.15629,
@@ -7995,7 +8400,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Os Perseguídos",
-                  "text": "Un monument în Almada dedicat celor persecutați.",
+                  "text": "Un monument pentru persecutați în Almada.",
                   "category": "historical",
                   "coords": [
                         -9.155816,
@@ -8022,7 +8427,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Poço",
-                  "text": "Ruinele istorice ale unei vechi fântâni în Almada.",
+                  "text": "Un puț vechi în Almada.",
                   "category": "historical",
                   "coords": [
                         -9.157637,
@@ -8031,7 +8436,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antigo Poço de Cacilhas",
-                  "text": "Rămășițele unei vechi fântâni în cartierul Cacilhas.",
+                  "text": "Un puț vechi în Cacilhas, Almada.",
                   "category": "historical",
                   "coords": [
                         -9.149668,
@@ -8040,7 +8445,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fonte da Mutela",
-                  "text": "Rămășițe istorice ale unei vechi cișmele în Almada.",
+                  "text": "O fântână istorică la Mutela în Almada.",
                   "category": "historical",
                   "coords": [
                         -9.154344,
@@ -8049,7 +8454,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta da Alegria",
-                  "text": "Ruinele unei proprietăți istorice în Almada.",
+                  "text": "O proprietate istorică numită Quinta da Alegria în Almada.",
                   "category": "historical",
                   "coords": [
                         -9.150822,
@@ -8067,7 +8472,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta de São João da Ramalha",
-                  "text": "Ruinele unui vechi conac în regiunea Almada.",
+                  "text": "O proprietate istorică São João da Ramalha în Almada.",
                   "category": "historical",
                   "coords": [
                         -9.167415,
@@ -8085,7 +8490,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim Botânico",
-                  "text": "O grădină botanică în Almada care prezintă flora locală.",
+                  "text": "O grădină botanică în Almada.",
                   "category": "landmark",
                   "coords": [
                         -9.159909,
@@ -8121,7 +8526,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar da Quinta de Vale Mourelos",
-                  "text": "Un conac istoric situat în municipalitatea Almada.",
+                  "text": "Un conac la Vale Mourelos în Almada.",
                   "category": "historical",
                   "coords": [
                         -9.185056,
@@ -8130,7 +8535,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Cacilhas",
-                  "text": "O moară de vânt istorică în cartierul Cacilhas.",
+                  "text": "O moară de vânt în Cacilhas, Almada.",
                   "category": "landmark",
                   "coords": [
                         -9.14813,
@@ -8148,7 +8553,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santiago",
-                  "text": "O biserică istorică situată în inima orașului Almada.",
+                  "text": "Biserica Santiago din Almada, o biserică din secolul al XVI-lea cu un portal manuelin.",
                   "category": "religious",
                   "coords": [
                         -9.156353,
@@ -8157,7 +8562,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida do Mártir São Sebastião",
-                  "text": "O mică capelă în Almada dedicată Sfântului Sebastian.",
+                  "text": "Schitul Sf. Sebastian din Almada, situat pe o colină, dedicat martirului.",
                   "category": "religious",
                   "coords": [
                         -9.161396,
@@ -8175,7 +8580,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Duque de Lafões",
-                  "text": "Lago Duque de Lafões este un lac în Almada, ideal pentru o pauză relaxantă.",
+                  "text": "Un lac numit după Ducele de Lafões în Almada.",
                   "category": "natural",
                   "coords": [
                         -9.169075,
@@ -8184,7 +8589,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lagoa",
-                  "text": "Lagoa este un lac în Almada, aducând o notă naturală în oraș.",
+                  "text": "O lagună în Almada.",
                   "category": "natural",
                   "coords": [
                         -9.188938,
@@ -8220,7 +8625,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Principal",
-                  "text": "Lago Principal este un lac în Almada, ideal pentru o plimbare în parc.",
+                  "text": "Lacul principal din Almada.",
                   "category": "natural",
                   "coords": [
                         -9.202917,
@@ -8229,7 +8634,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque da Juventude",
-                  "text": "Parque Infantil do Parque da Juventude este un loc de joacă în Almada pentru copii activi.",
+                  "text": "Un loc de joacă în Parcul Tineretului (Parque da Juventude) din Almada.",
                   "category": "family",
                   "coords": [
                         -9.165506,
@@ -8238,7 +8643,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil dos Caranguejais",
-                  "text": "Parque Infantil dos Caranguejais este un loc de joacă în Almada, care primește familiile.",
+                  "text": "Un loc de joacă în zona Caranguejais din Almada.",
                   "category": "family",
                   "coords": [
                         -9.156365,
@@ -8247,7 +8652,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil da Praceta Jornal de Almada",
-                  "text": "Parque Infantil da Praceta Jornal de Almada este un loc de joacă în Almada pentru jocuri în aer liber.",
+                  "text": "Un loc de joacă pe Praceta Jornal de Almada în Almada.",
                   "category": "family",
                   "coords": [
                         -9.152896,
@@ -8256,7 +8661,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Jardim Dr. Alberto Araújo",
-                  "text": "Parque Infantil do Jardim Dr. Alberto Araújo este un loc de joacă în Almada pentru o ieșire cu familia.",
+                  "text": "Un loc de joacă în Grădina Dr. Alberto Araújo din Almada.",
                   "category": "family",
                   "coords": [
                         -9.158169,
@@ -8265,7 +8670,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque Urbano do Pragal",
-                  "text": "Parque Infantil do Parque Urbano do Pragal este un loc de joacă într-un parc urban din Almada.",
+                  "text": "Un loc de joacă în Parcul Urban Pragal din Almada.",
                   "category": "family",
                   "coords": [
                         -9.17063,
@@ -8301,7 +8706,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque Luís Sá",
-                  "text": "Parque Infantil do Parque Luís Sá este un loc de joacă în Almada, situat într-un cadru plăcut.",
+                  "text": "Un loc de joacă în Parcul Luís Sá din Almada.",
                   "category": "family",
                   "coords": [
                         -9.15144,
@@ -8319,7 +8724,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Largo Padre Ricardo Gameiro",
-                  "text": "Parque Infantil do Largo Padre Ricardo Gameiro este un loc de joacă în Almada pentru jocuri în aer liber.",
+                  "text": "Un loc de joacă în Piața Padre Ricardo Gameiro din Almada.",
                   "category": "family",
                   "coords": [
                         -9.15629,
@@ -8555,7 +8960,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Os Perseguídos",
-                  "text": "A monument in Almada dedicated to the persecuted.",
+                  "text": "A monument to the persecuted in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.155816,
@@ -8582,7 +8987,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Poço",
-                  "text": "Historic ruins of an old well in Almada.",
+                  "text": "An old well in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.157637,
@@ -8591,7 +8996,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antigo Poço de Cacilhas",
-                  "text": "The remains of an old well in the Cacilhas district.",
+                  "text": "An old well in Cacilhas, Almada.",
                   "category": "historical",
                   "coords": [
                         -9.149668,
@@ -8600,7 +9005,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fonte da Mutela",
-                  "text": "Historic remains of an old fountain in Almada.",
+                  "text": "A historic fountain at Mutela in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.154344,
@@ -8609,7 +9014,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta da Alegria",
-                  "text": "Ruins of a historical estate in Almada.",
+                  "text": "A historic estate called Quinta da Alegria in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.150822,
@@ -8627,7 +9032,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta de São João da Ramalha",
-                  "text": "Ruins of an old manor house in the Almada region.",
+                  "text": "A historic estate of São João da Ramalha in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.167415,
@@ -8645,7 +9050,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Jardim Botânico",
-                  "text": "A botanical garden in Almada showcasing local flora.",
+                  "text": "A botanical garden in Almada.",
                   "category": "landmark",
                   "coords": [
                         -9.159909,
@@ -8681,7 +9086,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar da Quinta de Vale Mourelos",
-                  "text": "A historical manor house located in the Almada municipality.",
+                  "text": "A manor house at Vale Mourelos in Almada.",
                   "category": "historical",
                   "coords": [
                         -9.185056,
@@ -8690,7 +9095,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Cacilhas",
-                  "text": "A historic windmill located in the Cacilhas district.",
+                  "text": "A windmill in Cacilhas, Almada.",
                   "category": "landmark",
                   "coords": [
                         -9.14813,
@@ -8708,7 +9113,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santiago",
-                  "text": "A historic church located in the heart of Almada.",
+                  "text": "Igreja de Santiago in Almada, a 16th-century church with a Manueline portal.",
                   "category": "religious",
                   "coords": [
                         -9.156353,
@@ -8717,7 +9122,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida do Mártir São Sebastião",
-                  "text": "A small chapel in Almada dedicated to Saint Sebastian.",
+                  "text": "Hermitage of St. Sebastian in Almada, on a hilltop, dedicated to the martyr.",
                   "category": "religious",
                   "coords": [
                         -9.161396,
@@ -8735,7 +9140,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Duque de Lafões",
-                  "text": "Lago Duque de Lafões is a lake in Almada, ideal for a relaxing break.",
+                  "text": "A lake named after the Duke of Lafões in Almada.",
                   "category": "natural",
                   "coords": [
                         -9.169075,
@@ -8744,7 +9149,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lagoa",
-                  "text": "Lagoa is a lake in Almada, bringing a natural touch to the city.",
+                  "text": "A lagoon in Almada.",
                   "category": "natural",
                   "coords": [
                         -9.188938,
@@ -8780,7 +9185,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Principal",
-                  "text": "Lago Principal is a lake in Almada, ideal for a walk in the park.",
+                  "text": "The main lake in Almada.",
                   "category": "natural",
                   "coords": [
                         -9.202917,
@@ -8789,7 +9194,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque da Juventude",
-                  "text": "Parque Infantil do Parque da Juventude is a playground in Almada for active children.",
+                  "text": "A playground in the Parque da Juventude (Youth Park) in Almada.",
                   "category": "family",
                   "coords": [
                         -9.165506,
@@ -8798,7 +9203,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil dos Caranguejais",
-                  "text": "Parque Infantil dos Caranguejais is a playground in Almada that welcomes families.",
+                  "text": "A playground in the Caranguejais area of Almada.",
                   "category": "family",
                   "coords": [
                         -9.156365,
@@ -8807,7 +9212,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil da Praceta Jornal de Almada",
-                  "text": "Parque Infantil da Praceta Jornal de Almada is a playground in Almada for outdoor play.",
+                  "text": "A playground on Praceta Jornal de Almada in Almada.",
                   "category": "family",
                   "coords": [
                         -9.152896,
@@ -8816,7 +9221,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Jardim Dr. Alberto Araújo",
-                  "text": "Parque Infantil do Jardim Dr. Alberto Araújo is a playground in Almada for a family outing.",
+                  "text": "A playground in Jardim Dr. Alberto Araújo in Almada.",
                   "category": "family",
                   "coords": [
                         -9.158169,
@@ -8825,7 +9230,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque Urbano do Pragal",
-                  "text": "Parque Infantil do Parque Urbano do Pragal is a playground in an urban park in Almada.",
+                  "text": "A playground in the Pragal Urban Park in Almada.",
                   "category": "family",
                   "coords": [
                         -9.17063,
@@ -8861,7 +9266,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Parque Luís Sá",
-                  "text": "Parque Infantil do Parque Luís Sá is a playground in Almada, located in a pleasant setting.",
+                  "text": "A playground in Parque Luís Sá in Almada.",
                   "category": "family",
                   "coords": [
                         -9.15144,
@@ -8879,7 +9284,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Largo Padre Ricardo Gameiro",
-                  "text": "Parque Infantil do Largo Padre Ricardo Gameiro is a playground in Almada for outdoor play.",
+                  "text": "A playground in Largo Padre Ricardo Gameiro in Almada.",
                   "category": "family",
                   "coords": [
                         -9.15629,
@@ -8999,7 +9404,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Recreios da Amadora",
-                  "text": "Ein historisches Theater und Kulturzentrum in Amadora.",
+                  "text": "Das Recreios da Amadora ist ein Kulturzentrum mit Theater- und Musikvorführungen.",
                   "category": "cultural",
                   "coords": [
                         -9.235064,
@@ -9008,7 +9413,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Turim",
-                  "text": "Ein lokaler Theater- und Kulturveranstaltungsort in Amadora.",
+                  "text": "Ein Kulturzentrum namens Turim in Amadora.",
                   "category": "cultural",
                   "coords": [
                         -9.202396,
@@ -9017,7 +9422,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Adventure Park Pinhal da Paiã",
-                  "text": "Ein Outdoor-Themenpark, der verschiedene Abenteueraktivitäten anbietet.",
+                  "text": "Ein Abenteuerpark in Pinhal da Paiã, Amadora.",
                   "category": "family",
                   "coords": [
                         -9.20787,
@@ -9035,7 +9440,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cineteatro Dom João V",
-                  "text": "Ein städtisches Theater und Kino in Amadora.",
+                  "text": "Ein Kinotheater, benannt nach König João V., in Amadora.",
                   "category": "cultural",
                   "coords": [
                         -9.218634,
@@ -9044,7 +9449,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fórum Luís de Camões",
-                  "text": "Ein kulturelles Museum und Ausstellungsraum in Amadora.",
+                  "text": "Ein Museum/Forum, benannt nach Luís de Camões, in Amadora.",
                   "category": "museum",
                   "coords": [
                         -9.213728,
@@ -9053,7 +9458,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Matinha de Queluz",
-                  "text": "Ein kleines Naturschutzgebiet und Waldgebiet in der Nähe von Queluz.",
+                  "text": "Ein kleines Waldgebiet im Stadtteil Queluz von Amadora, ideal für Naturspaziergänge.",
                   "category": "natural",
                   "coords": [
                         -9.260003,
@@ -9071,7 +9476,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palácio da Porcalhota",
-                  "text": "Ein historisches Herrenhaus in der Region Amadora.",
+                  "text": "Ein historischer Palast im ehemaligen Porcalhota-Viertel von Amadora, mit adliger Vergangenheit.",
                   "category": "castle",
                   "coords": [
                         -9.230661,
@@ -9080,7 +9485,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palco",
-                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen in Amadora.",
+                  "text": "Eine Bühne im Stadtzentrum von Amadora, die für Gemeinschaftsveranstaltungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         -9.235251,
@@ -9089,7 +9494,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Delfim Guimarães",
-                  "text": "Ein zentraler Stadtpark und Grünanlage in Amadora.",
+                  "text": "Ein Stadtpark mit Kinderspielplatz und schattigen Sitzbänken im Zentrum von Amadora.",
                   "category": "park",
                   "coords": [
                         -9.236653,
@@ -9107,7 +9512,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Eucaliptal de Benfica",
-                  "text": "Ein Parkgebiet, das durch seine Eukalyptusbäume geprägt ist.",
+                  "text": "Ein von Eukalyptusbäumen dominierter Park im Stadtteil Benfica von Amadora.",
                   "category": "park",
                   "coords": [
                         -9.199562,
@@ -9125,7 +9530,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Arte Contemporânea da Amadora",
-                  "text": "Eine Galerie, die Ausstellungen zeitgenössischer Kunst gewidmet ist.",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in Amadora, das moderne portugiesische Künstler präsentiert.",
                   "category": "cultural",
                   "coords": [
                         -9.226802,
@@ -9143,7 +9548,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palacete dos Condes de Almeida Araújo",
-                  "text": "Ein historisches Herrenhaus in Amadora.",
+                  "text": "Ein historisches Herrenhaus der Grafen von Almeida Araújo in Amadora.",
                   "category": "historical",
                   "coords": [
                         -9.256509,
@@ -9161,7 +9566,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja da Divina Misericórdia - Alfragide",
-                  "text": "Eine moderne Kirche im Stadtteil Alfragide.",
+                  "text": "Eine moderne katholische Kirche, der Göttlichen Barmherzigkeit geweiht, in der Pfarrei Alfragide von Amadora.",
                   "category": "religious",
                   "coords": [
                         -9.218156,
@@ -9170,7 +9575,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Chafariz da Carranca",
-                  "text": "Ein historischer, dekorativer öffentlicher Brunnen.",
+                  "text": "Ein steinerner Brunnen mit einer geschnitzten Fratze (Carranca) in Amadora.",
                   "category": "landmark",
                   "coords": [
                         -9.257147,
@@ -9179,7 +9584,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora Mãe de Deus",
-                  "text": "Ein lokales Gotteshaus in Amadora.",
+                  "text": "Eine katholische Pfarrkirche, Unserer Lieben Frau Mutter Gottes geweiht, im Zentrum von Amadora.",
                   "category": "religious",
                   "coords": [
                         -9.210071,
@@ -9197,7 +9602,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976",
-                  "text": "Ein Militärpanzer, der als historisches Denkmal ausgestellt ist.",
+                  "text": "Ein ausgemusterter M48A5-Kampfpanzer in Amadora, 50 Tonnen schwer.",
                   "category": "landmark",
                   "coords": [
                         -9.238784,
@@ -9451,7 +9856,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Recreios da Amadora",
-                  "text": "Történelmi színház és kulturális központ Amadorában.",
+                  "text": "A Recreios da Amadora egy kulturális központ, színházi és zenei előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -9.235064,
@@ -9460,7 +9865,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Turim",
-                  "text": "Helyi színház és kulturális helyszín Amadorában.",
+                  "text": "Egy Turim nevű kulturális központ Amadora-ban.",
                   "category": "cultural",
                   "coords": [
                         -9.202396,
@@ -9469,7 +9874,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Adventure Park Pinhal da Paiã",
-                  "text": "Szabadtéri élménypark, amely kalandprogramokat kínál.",
+                  "text": "Egy kalandpark Pinhal da Paiã-ban, Amadora.",
                   "category": "family",
                   "coords": [
                         -9.20787,
@@ -9487,7 +9892,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cineteatro Dom João V",
-                  "text": "Városi színház és mozi Amadorában.",
+                  "text": "Egy mozi-színház, amelyet V. João királyról neveztek el, Amadora-ban.",
                   "category": "cultural",
                   "coords": [
                         -9.218634,
@@ -9496,7 +9901,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fórum Luís de Camões",
-                  "text": "Kulturális múzeum és kiállítótér Amadorában.",
+                  "text": "Egy múzeum/fórum, Luís de Camõesről elnevezve, Amadora-ban.",
                   "category": "museum",
                   "coords": [
                         -9.213728,
@@ -9505,7 +9910,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Matinha de Queluz",
-                  "text": "Kisméretű természetvédelmi terület és erdős rész Queluz közelében.",
+                  "text": "Egy kis erdőterület Amadora Queluz negyedében, természeti sétákra alkalmas.",
                   "category": "natural",
                   "coords": [
                         -9.260003,
@@ -9523,7 +9928,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palácio da Porcalhota",
-                  "text": "Történelmi kúria Amadora környékén.",
+                  "text": "Történelmi palota Amadora egykori Porcalhota negyedében, nemesi múltú.",
                   "category": "castle",
                   "coords": [
                         -9.230661,
@@ -9532,7 +9937,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palco",
-                  "text": "Helyi színházi helyszín Amadorában.",
+                  "text": "Színpad Amadora belvárosában, közösségi rendezvények számára.",
                   "category": "cultural",
                   "coords": [
                         -9.235251,
@@ -9541,7 +9946,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Delfim Guimarães",
-                  "text": "Központi városi park és zöldterület Amadorában.",
+                  "text": "Városi park játszótérrel és árnyékos padokkal Amadora központjában.",
                   "category": "park",
                   "coords": [
                         -9.236653,
@@ -9559,7 +9964,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Eucaliptal de Benfica",
-                  "text": "Eukaliptuszfáiról nevezetes parkterület.",
+                  "text": "Eukaliptuszfák által uralt park Amadora Benfica negyedében.",
                   "category": "park",
                   "coords": [
                         -9.199562,
@@ -9577,7 +9982,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Arte Contemporânea da Amadora",
-                  "text": "Kortárs művészeti kiállításoknak szentelt galéria.",
+                  "text": "Kortárs művészeti központ Amadorában, modern portugál művészek bemutatására.",
                   "category": "cultural",
                   "coords": [
                         -9.226802,
@@ -9595,7 +10000,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palacete dos Condes de Almeida Araújo",
-                  "text": "Történelmi kúria Amadorában.",
+                  "text": "Az Almeida Araújo grófok történelmi kastélya Amadorában.",
                   "category": "historical",
                   "coords": [
                         -9.256509,
@@ -9613,7 +10018,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja da Divina Misericórdia - Alfragide",
-                  "text": "Modern templom Alfragide negyedében.",
+                  "text": "Modern katolikus templom, az Isteni Irgalomnak szentelve, Amadora Alfragide plébániáján.",
                   "category": "religious",
                   "coords": [
                         -9.218156,
@@ -9622,7 +10027,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Chafariz da Carranca",
-                  "text": "Történelmi díszes közszökőkút.",
+                  "text": "Kőkút faragott arcábrázolással (carranca) Amadorában.",
                   "category": "landmark",
                   "coords": [
                         -9.257147,
@@ -9631,7 +10036,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora Mãe de Deus",
-                  "text": "Helyi vallási kegyhely Amadorában.",
+                  "text": "Katolikus plébániatemplom, a Miasszonyunk, Isten Anyja tiszteletére szentelve, Amadora központjában.",
                   "category": "religious",
                   "coords": [
                         -9.210071,
@@ -9649,7 +10054,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976",
-                  "text": "Katonai harckocsi, amelyet történelmi emlékműként állítottak ki.",
+                  "text": "Egy leszerelt M48A5 harckocsi Amadorában, 50 tonnás tömeggel.",
                   "category": "landmark",
                   "coords": [
                         -9.238784,
@@ -9903,7 +10308,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Recreios da Amadora",
-                  "text": "Un teatru istoric și centru cultural în Amadora.",
+                  "text": "Recreios da Amadora, un centru cultural care găzduiește spectacole de teatru și muzică.",
                   "category": "cultural",
                   "coords": [
                         -9.235064,
@@ -9912,7 +10317,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Turim",
-                  "text": "Un teatru local și spațiu cultural în Amadora.",
+                  "text": "Un centru cultural numit Turim în Amadora.",
                   "category": "cultural",
                   "coords": [
                         -9.202396,
@@ -9921,7 +10326,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Adventure Park Pinhal da Paiã",
-                  "text": "Un parc de distracții în aer liber care oferă activități de aventură.",
+                  "text": "Un parc de aventură în Pinhal da Paiã, Amadora.",
                   "category": "family",
                   "coords": [
                         -9.20787,
@@ -9939,7 +10344,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cineteatro Dom João V",
-                  "text": "Un teatru municipal și cinematograf în Amadora.",
+                  "text": "Un cinematograf-teatru numit după regele João al V-lea în Amadora.",
                   "category": "cultural",
                   "coords": [
                         -9.218634,
@@ -9948,7 +10353,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fórum Luís de Camões",
-                  "text": "Un muzeu cultural și spațiu de expoziții în Amadora.",
+                  "text": "Un muzeu/forum numit după Luís de Camões în Amadora.",
                   "category": "museum",
                   "coords": [
                         -9.213728,
@@ -9957,7 +10362,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Matinha de Queluz",
-                  "text": "O mică rezervație naturală și zonă împădurită lângă Queluz.",
+                  "text": "O mică pădure în cartierul Queluz din Amadora, potrivită pentru plimbări în natură.",
                   "category": "natural",
                   "coords": [
                         -9.260003,
@@ -9975,7 +10380,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palácio da Porcalhota",
-                  "text": "Un conac istoric situat în zona Amadora.",
+                  "text": "Un palat istoric în fosta cartier Porcalhota din Amadora, cu un trecut nobiliar.",
                   "category": "castle",
                   "coords": [
                         -9.230661,
@@ -9984,7 +10389,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palco",
-                  "text": "Un spațiu teatral local în Amadora.",
+                  "text": "O scenă în centrul orașului Amadora, folosită pentru evenimente comunitare.",
                   "category": "cultural",
                   "coords": [
                         -9.235251,
@@ -9993,7 +10398,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Delfim Guimarães",
-                  "text": "Un parc urban central și spațiu verde în Amadora.",
+                  "text": "Un parc urban cu loc de joacă și bănci umbrite în centrul Amadorei.",
                   "category": "park",
                   "coords": [
                         -9.236653,
@@ -10011,7 +10416,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Eucaliptal de Benfica",
-                  "text": "O zonă de parc caracterizată prin arborii săi de eucalipt.",
+                  "text": "Un parc dominat de eucalipți în cartierul Benfica din Amadora.",
                   "category": "park",
                   "coords": [
                         -9.199562,
@@ -10029,7 +10434,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Arte Contemporânea da Amadora",
-                  "text": "O galerie dedicată expozițiilor de artă contemporană.",
+                  "text": "Un centru de artă contemporană în Amadora, care expune artiști portughezi moderni.",
                   "category": "cultural",
                   "coords": [
                         -9.226802,
@@ -10047,7 +10452,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palacete dos Condes de Almeida Araújo",
-                  "text": "Un conac istoric în Amadora.",
+                  "text": "Un conac istoric al conților de Almeida Araújo din Amadora.",
                   "category": "historical",
                   "coords": [
                         -9.256509,
@@ -10065,7 +10470,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja da Divina Misericórdia - Alfragide",
-                  "text": "O biserică modernă situată în zona Alfragide.",
+                  "text": "O biserică catolică modernă dedicată Divinei Milostiviri în parohia Alfragide din Amadora.",
                   "category": "religious",
                   "coords": [
                         -9.218156,
@@ -10074,7 +10479,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Chafariz da Carranca",
-                  "text": "O fântână publică decorativă istorică.",
+                  "text": "O fântână de piatră cu o față sculptată (carranca) în Amadora.",
                   "category": "landmark",
                   "coords": [
                         -9.257147,
@@ -10083,7 +10488,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora Mãe de Deus",
-                  "text": "Un lăcaș de cult local în Amadora.",
+                  "text": "O biserică catolică parohială dedicată Maicii Domnului în centrul Amadorei.",
                   "category": "religious",
                   "coords": [
                         -9.210071,
@@ -10101,7 +10506,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976",
-                  "text": "Un tanc militar expus ca monument istoric.",
+                  "text": "Un tanc de luptă M48A5 dezafectat în Amadora, cu greutatea de 50 de tone.",
                   "category": "landmark",
                   "coords": [
                         -9.238784,
@@ -10355,7 +10760,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Recreios da Amadora",
-                  "text": "A historic theatre and cultural center in Amadora.",
+                  "text": "Recreios da Amadora, a cultural centre hosting theatre and music performances.",
                   "category": "cultural",
                   "coords": [
                         -9.235064,
@@ -10364,7 +10769,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Turim",
-                  "text": "A local theatre and cultural venue in Amadora.",
+                  "text": "A cultural center named Turim in Amadora.",
                   "category": "cultural",
                   "coords": [
                         -9.202396,
@@ -10373,7 +10778,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Adventure Park Pinhal da Paiã",
-                  "text": "An outdoor theme park offering adventure activities.",
+                  "text": "An adventure park in Pinhal da Paiã, Amadora.",
                   "category": "family",
                   "coords": [
                         -9.20787,
@@ -10391,7 +10796,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cineteatro Dom João V",
-                  "text": "A municipal theatre and cinema venue in Amadora.",
+                  "text": "A cinema-theatre named after King João V in Amadora.",
                   "category": "cultural",
                   "coords": [
                         -9.218634,
@@ -10400,7 +10805,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fórum Luís de Camões",
-                  "text": "A cultural museum and exhibition space in Amadora.",
+                  "text": "A museum/forum named after Luís de Camões in Amadora.",
                   "category": "museum",
                   "coords": [
                         -9.213728,
@@ -10409,7 +10814,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Matinha de Queluz",
-                  "text": "A small nature reserve and wooded area near Queluz.",
+                  "text": "A small forested area in the Queluz district of Amadora, ideal for nature walks.",
                   "category": "natural",
                   "coords": [
                         -9.260003,
@@ -10427,7 +10832,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palácio da Porcalhota",
-                  "text": "A historic manor house located in the Amadora area.",
+                  "text": "A historic palace in the former Porcalhota area of Amadora, reflecting its aristocratic past.",
                   "category": "castle",
                   "coords": [
                         -9.230661,
@@ -10436,7 +10841,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palco",
-                  "text": "A local theatre venue in Amadora.",
+                  "text": "A stage in the city centre of Amadora, used for community events.",
                   "category": "cultural",
                   "coords": [
                         -9.235251,
@@ -10445,7 +10850,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Delfim Guimarães",
-                  "text": "A central urban park and green space in Amadora.",
+                  "text": "A municipal park with a children's playground and shaded benches in the centre of Amadora.",
                   "category": "park",
                   "coords": [
                         -9.236653,
@@ -10463,7 +10868,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Eucaliptal de Benfica",
-                  "text": "A park area characterized by its eucalyptus trees.",
+                  "text": "A park dominated by eucalyptus trees in the Benfica district of Amadora.",
                   "category": "park",
                   "coords": [
                         -9.199562,
@@ -10481,7 +10886,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Arte Contemporânea da Amadora",
-                  "text": "A gallery dedicated to contemporary art exhibitions.",
+                  "text": "A contemporary art centre in Amadora, showcasing modern Portuguese artists.",
                   "category": "cultural",
                   "coords": [
                         -9.226802,
@@ -10499,7 +10904,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palacete dos Condes de Almeida Araújo",
-                  "text": "A historic manor house in Amadora.",
+                  "text": "A historic mansion of the Counts of Almeida Araújo in Amadora.",
                   "category": "historical",
                   "coords": [
                         -9.256509,
@@ -10517,7 +10922,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja da Divina Misericórdia - Alfragide",
-                  "text": "A modern church located in the Alfragide area.",
+                  "text": "A modern Catholic church dedicated to Divine Mercy in the Alfragide parish of Amadora.",
                   "category": "religious",
                   "coords": [
                         -9.218156,
@@ -10526,7 +10931,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Chafariz da Carranca",
-                  "text": "A historic decorative public fountain.",
+                  "text": "A stone fountain decorated with a carved face (carranca) in Amadora.",
                   "category": "landmark",
                   "coords": [
                         -9.257147,
@@ -10535,7 +10940,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Nossa Senhora Mãe de Deus",
-                  "text": "A local place of worship in Amadora.",
+                  "text": "A Catholic parish church dedicated to Our Lady Mother of God in the centre of Amadora.",
                   "category": "religious",
                   "coords": [
                         -9.210071,
@@ -10553,7 +10958,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Carro Combate 50 ton. Diesel 10,5 cm M48A5 m/1976",
-                  "text": "A military tank on display as a historical monument.",
+                  "text": "A decommissioned M48A5 battle tank on display in Amadora, weighing 50 tons.",
                   "category": "landmark",
                   "coords": [
                         -9.238784,
@@ -10916,7 +11321,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cinema São Vicente",
-                  "text": "Ein lokales Theater und Kino in Seixal.",
+                  "text": "Ein traditionsreiches Kino in Seixal, benannt nach dem heiligen Vinzenz.",
                   "category": "cultural",
                   "coords": [
                         -9.084994,
@@ -10970,7 +11375,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Poente",
-                  "text": "Eine traditionelle Windmühle in Seixal.",
+                  "text": "Eine restaurierte Windmühle im Westen von Seixal, heute als Kulturraum genutzt.",
                   "category": "landmark",
                   "coords": [
                         -9.082695,
@@ -10979,7 +11384,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Pequeno",
-                  "text": "Die Ruinen einer kleinen historischen Mühle in Seixal.",
+                  "text": "Eine kleine Windmühle in Seixal, typisch für das Mühlenerbe der Region.",
                   "category": "historical",
                   "coords": [
                         -9.082934,
@@ -10988,7 +11393,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Velho dos Paulistas",
-                  "text": "Die Ruinen einer alten Mühle namens Moinho Velho dos Paulistas in Seixal.",
+                  "text": "Der Moinho Velho dos Paulistas in Seixal ist eine historische Gezeitenmühle aus dem 18. Jahrhundert am Fluss Seixal.",
                   "category": "historical",
                   "coords": [
                         -9.085295,
@@ -10997,7 +11402,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Novo dos Paulistas",
-                  "text": "Die Ruinen eines Mühlengebäudes in Seixal.",
+                  "text": "Der Moinho Novo dos Paulistas in Seixal ist eine historische Gezeitenmühle aus dem 19. Jahrhundert neben der alten Mühle.",
                   "category": "historical",
                   "coords": [
                         -9.085582,
@@ -11042,7 +11447,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro do Alto Dona Ana",
-                  "text": "Ein Aussichtspunkt im Stadtteil Alto Dona Ana in Seixal.",
+                  "text": "Ein Aussichtspunkt am Alto Dona Ana in Seixal mit Panoramablick über die Tejo-Mündung.",
                   "category": "natural",
                   "coords": [
                         -9.102765,
@@ -11069,7 +11474,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Fábrica de Cortiça da Mundet",
-                  "text": "Die Ruinen der ehemaligen Korkfabrik Mundet in Seixal.",
+                  "text": "Die ehemalige Korkfabrik Mundet in Seixal, ein Zeugnis der regionalen Korkindustrie.",
                   "category": "historical",
                   "coords": [
                         -9.103383,
@@ -11078,7 +11483,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho do Jim",
-                  "text": "Eine traditionelle Windmühle namens Moinho do Jim in Seixal.",
+                  "text": "Eine Windmühle namens 'Jim' in Seixal, heute ein geschütztes Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         -9.08363,
@@ -11132,7 +11537,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Caldeira de Moinho de Maré",
-                  "text": "Die Caldeira de Moinho de Maré ist ein ruhiger See in Seixal, ideal für Spaziergänge.",
+                  "text": "Ein historisches Gezeitenmühlenbecken in Seixal, Teil des salz- und mühlengeschichtlichen Erbes.",
                   "category": "natural",
                   "coords": [
                         -9.065585,
@@ -11150,7 +11555,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Tanque de refrigeração",
-                  "text": "Das Tanque de refrigeração ist ein künstliches Gewässer in Seixal.",
+                  "text": "Ein historischer Kühltank in Seixal, einst für industrielle Kühlung genutzt.",
                   "category": "natural",
                   "coords": [
                         -9.164274,
@@ -11159,7 +11564,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago da Vida",
-                  "text": "Der Lago da Vida ist ein malerischer See in Seixal mit schöner Aussicht.",
+                  "text": "Ein kleiner See namens 'See des Lebens' in Seixal, Mittelpunkt eines Parks.",
                   "category": "natural",
                   "coords": [
                         -9.144886,
@@ -11168,7 +11573,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Intantil da Quinta do Serrado",
-                  "text": "Der Parque Intantil da Quinta do Serrado ist ein beliebter Kinderspielplatz in Seixal.",
+                  "text": "Ein Kinderspielplatz auf dem Anwesen Quinta do Serrado in Seixal.",
                   "category": "family",
                   "coords": [
                         -9.12024,
@@ -11177,7 +11582,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque da Quinta de Santa Teresinha",
-                  "text": "Der Parque da Quinta de Santa Teresinha ist ein familienfreundlicher Ort in Seixal.",
+                  "text": "Ein Familienpark auf dem Anwesen Quinta de Santa Teresinha in Seixal.",
                   "category": "family",
                   "coords": [
                         -9.100194,
@@ -11204,7 +11609,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil Torre da Marinha",
-                  "text": "Der Parque Infantil Torre da Marinha ist ein Spielplatz im Stadtgebiet von Seixal.",
+                  "text": "Ein Spielplatz in der Nähe von Torre da Marinha in Seixal.",
                   "category": "family",
                   "coords": [
                         -9.103343,
@@ -11323,7 +11728,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cinema São Vicente",
-                  "text": "Helyi színház és mozi Seixalban.",
+                  "text": "Egy hagyományos mozi Seixalban, Szent Vincéről elnevezve.",
                   "category": "cultural",
                   "coords": [
                         -9.084994,
@@ -11377,7 +11782,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Poente",
-                  "text": "Hagyományos szélmalom Seixalban.",
+                  "text": "Felújított szélmalom Seixal nyugati részén, ma kulturális térként működik.",
                   "category": "landmark",
                   "coords": [
                         -9.082695,
@@ -11386,7 +11791,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Pequeno",
-                  "text": "Egy kis történelmi malom romjai Seixalban.",
+                  "text": "Kis szélmalom Seixalban, jellemző a régió malomörökségére.",
                   "category": "historical",
                   "coords": [
                         -9.082934,
@@ -11395,7 +11800,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Velho dos Paulistas",
-                  "text": "Egy Moinho Velho dos Paulistas néven ismert régi malom romjai Seixalban.",
+                  "text": "A seixali Moinho Velho dos Paulistas egy 18. századi történelmi árapálymalom a Seixal folyón.",
                   "category": "historical",
                   "coords": [
                         -9.085295,
@@ -11404,7 +11809,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Novo dos Paulistas",
-                  "text": "Egy malomépület romjai Seixalban.",
+                  "text": "A seixali Moinho Novo dos Paulistas egy 19. századi történelmi árapálymalom a régi malom mellett.",
                   "category": "historical",
                   "coords": [
                         -9.085582,
@@ -11449,7 +11854,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro do Alto Dona Ana",
-                  "text": "Kilátó Seixal Alto Dona Ana negyedében.",
+                  "text": "Kilátó Alto Dona Anán Seixalban, panorámás kilátással a Tejo torkolatára.",
                   "category": "natural",
                   "coords": [
                         -9.102765,
@@ -11476,7 +11881,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Fábrica de Cortiça da Mundet",
-                  "text": "Az egykori Mundet parafagyár romjai Seixalban.",
+                  "text": "A Mundet parafagyár Seixalban, a helyi parafaipar emléke.",
                   "category": "historical",
                   "coords": [
                         -9.103383,
@@ -11485,7 +11890,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho do Jim",
-                  "text": "Hagyományos szélmalom, az úgynevezett Moinho do Jim Seixalban.",
+                  "text": "Egy 'Jim' nevű szélmalom Seixalban, ma védett nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         -9.08363,
@@ -11539,7 +11944,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Caldeira de Moinho de Maré",
-                  "text": "A Caldeira de Moinho de Maré egy nyugodt tó Seixalban, amely ideális sétákhoz.",
+                  "text": "Történelmi árapálymalom-medence Seixalban, a só- és malomipari örökség része.",
                   "category": "natural",
                   "coords": [
                         -9.065585,
@@ -11557,7 +11962,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Tanque de refrigeração",
-                  "text": "A Tanque de refrigeração egy mesterséges vízfelület Seixalban.",
+                  "text": "Történelmi hűtőtank Seixalban, egykor ipari hűtésre használták.",
                   "category": "natural",
                   "coords": [
                         -9.164274,
@@ -11566,7 +11971,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago da Vida",
-                  "text": "A Lago da Vida egy festői tó Seixalban, szép kilátással.",
+                  "text": "Egy 'Élet tava' nevű kis tó Seixalban, egy park központi eleme.",
                   "category": "natural",
                   "coords": [
                         -9.144886,
@@ -11575,7 +11980,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Intantil da Quinta do Serrado",
-                  "text": "A Parque Intantil da Quinta do Serrado egy népszerű játszótér Seixalban.",
+                  "text": "Gyermekjátszótér a Quinta do Serrado birtokon Seixalban.",
                   "category": "family",
                   "coords": [
                         -9.12024,
@@ -11584,7 +11989,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque da Quinta de Santa Teresinha",
-                  "text": "A Parque da Quinta de Santa Teresinha egy családbarát hely Seixalban.",
+                  "text": "Családi park a Quinta de Santa Teresinha birtokon Seixalban.",
                   "category": "family",
                   "coords": [
                         -9.100194,
@@ -11611,7 +12016,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil Torre da Marinha",
-                  "text": "A Parque Infantil Torre da Marinha egy játszótér Seixal városi területén.",
+                  "text": "Játszótér Torre da Marinha közelében Seixalban.",
                   "category": "family",
                   "coords": [
                         -9.103343,
@@ -11730,7 +12135,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cinema São Vicente",
-                  "text": "Un teatru și cinematograf local din Seixal.",
+                  "text": "Un cinematograf tradițional în Seixal, numit după Sfântul Vincențiu.",
                   "category": "cultural",
                   "coords": [
                         -9.084994,
@@ -11784,7 +12189,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Poente",
-                  "text": "O moară de vânt tradițională situată în Seixal.",
+                  "text": "O moară de vânt restaurată în partea de vest a Seixalului, acum un spațiu cultural.",
                   "category": "landmark",
                   "coords": [
                         -9.082695,
@@ -11793,7 +12198,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Pequeno",
-                  "text": "Ruinele unei mici mori istorice din Seixal.",
+                  "text": "O moară de vânt mică în Seixal, tipică pentru patrimoniul morăritului din regiune.",
                   "category": "historical",
                   "coords": [
                         -9.082934,
@@ -11802,7 +12207,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Velho dos Paulistas",
-                  "text": "Ruinele unei mori vechi cunoscute sub numele de Moinho Velho dos Paulistas din Seixal.",
+                  "text": "Moinho Velho dos Paulistas din Seixal este o moară de maree istorică din secolul al XVIII-lea pe râul Seixal.",
                   "category": "historical",
                   "coords": [
                         -9.085295,
@@ -11811,7 +12216,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Novo dos Paulistas",
-                  "text": "Ruinele unei clădiri de moară din Seixal.",
+                  "text": "Moinho Novo dos Paulistas din Seixal este o moară de maree istorică din secolul al XIX-lea lângă moara veche.",
                   "category": "historical",
                   "coords": [
                         -9.085582,
@@ -11856,7 +12261,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro do Alto Dona Ana",
-                  "text": "Un punct de belvedere pitoresc situat în districtul Alto Dona Ana din Seixal.",
+                  "text": "Un punct de belvedere la Alto Dona Ana în Seixal, cu vedere panoramică asupra estuarului Tajo.",
                   "category": "natural",
                   "coords": [
                         -9.102765,
@@ -11883,7 +12288,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Fábrica de Cortiça da Mundet",
-                  "text": "Ruinele fostei fabrici de plută Mundet din Seixal.",
+                  "text": "Fosta fabrică de plută Mundet din Seixal, mărturie a industriei locale de plută.",
                   "category": "historical",
                   "coords": [
                         -9.103383,
@@ -11892,7 +12297,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho do Jim",
-                  "text": "O moară de vânt tradițională cunoscută sub numele de Moinho do Jim în Seixal.",
+                  "text": "O moară de vânt numită 'Jim' în Seixal, astăzi un reper protejat.",
                   "category": "landmark",
                   "coords": [
                         -9.08363,
@@ -11946,7 +12351,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Caldeira de Moinho de Maré",
-                  "text": "Caldeira de Moinho de Maré este un lac liniștit în Seixal, ideal pentru plimbări.",
+                  "text": "Un bazin de moară tidală istorică în Seixal, parte a patrimoniului sării și morilor.",
                   "category": "natural",
                   "coords": [
                         -9.065585,
@@ -11964,7 +12369,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Tanque de refrigeração",
-                  "text": "Tanque de refrigeração este o zonă cu apă artificială în Seixal.",
+                  "text": "Un rezervor de răcire istoric în Seixal, odată folosit pentru răcire industrială.",
                   "category": "natural",
                   "coords": [
                         -9.164274,
@@ -11973,7 +12378,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago da Vida",
-                  "text": "Lago da Vida este un lac pitoresc în Seixal, cu o priveliște frumoasă.",
+                  "text": "Un mic lac numit 'Lacul Vieții' în Seixal, element central al unui parc.",
                   "category": "natural",
                   "coords": [
                         -9.144886,
@@ -11982,7 +12387,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Intantil da Quinta do Serrado",
-                  "text": "Parque Intantil da Quinta do Serrado este un teren de joacă popular pentru copii în Seixal.",
+                  "text": "Un loc de joacă pentru copii pe moșia Quinta do Serrado din Seixal.",
                   "category": "family",
                   "coords": [
                         -9.12024,
@@ -11991,7 +12396,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque da Quinta de Santa Teresinha",
-                  "text": "Parque da Quinta de Santa Teresinha este un loc prietenos pentru familii în Seixal.",
+                  "text": "Un parc de familie pe moșia Quinta de Santa Teresinha din Seixal.",
                   "category": "family",
                   "coords": [
                         -9.100194,
@@ -12018,7 +12423,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil Torre da Marinha",
-                  "text": "Parque Infantil Torre da Marinha este un loc de joacă în zona urbană a Seixalului.",
+                  "text": "Un loc de joacă lângă Torre da Marinha din Seixal.",
                   "category": "family",
                   "coords": [
                         -9.103343,
@@ -12137,7 +12542,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cinema São Vicente",
-                  "text": "A local theatre and cinema venue in Seixal.",
+                  "text": "A historic cinema in Seixal, named after Saint Vincent.",
                   "category": "cultural",
                   "coords": [
                         -9.084994,
@@ -12191,7 +12596,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Poente",
-                  "text": "A traditional windmill structure located in Seixal.",
+                  "text": "A restored windmill in the western part of Seixal, now used as a cultural space.",
                   "category": "landmark",
                   "coords": [
                         -9.082695,
@@ -12200,7 +12605,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Pequeno",
-                  "text": "The ruins of a small historic mill in Seixal.",
+                  "text": "A small windmill in Seixal, typical of the region's milling heritage.",
                   "category": "historical",
                   "coords": [
                         -9.082934,
@@ -12209,7 +12614,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Velho dos Paulistas",
-                  "text": "The ruins of an old mill known as Moinho Velho dos Paulistas in Seixal.",
+                  "text": "The Moinho Velho dos Paulistas in Seixal is an 18th-century historic tide mill on the Seixal River.",
                   "category": "historical",
                   "coords": [
                         -9.085295,
@@ -12218,7 +12623,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho Novo dos Paulistas",
-                  "text": "The ruins of a mill building in Seixal.",
+                  "text": "The Moinho Novo dos Paulistas in Seixal is a 19th-century historic tide mill adjacent to the old mill.",
                   "category": "historical",
                   "coords": [
                         -9.085582,
@@ -12263,7 +12668,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro do Alto Dona Ana",
-                  "text": "A scenic viewpoint located in the Alto Dona Ana district of Seixal.",
+                  "text": "A viewpoint at Alto Dona Ana in Seixal, offering panoramic views over the Tagus estuary.",
                   "category": "natural",
                   "coords": [
                         -9.102765,
@@ -12290,7 +12695,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Fábrica de Cortiça da Mundet",
-                  "text": "The ruins of the former Mundet cork factory in Seixal.",
+                  "text": "The former Mundet cork factory in Seixal, a reminder of the region's cork industry.",
                   "category": "historical",
                   "coords": [
                         -9.103383,
@@ -12299,7 +12704,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho do Jim",
-                  "text": "A traditional windmill known as Moinho do Jim in Seixal.",
+                  "text": "A windmill named 'Jim' in Seixal, now a preserved landmark.",
                   "category": "landmark",
                   "coords": [
                         -9.08363,
@@ -12353,7 +12758,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Caldeira de Moinho de Maré",
-                  "text": "Caldeira de Moinho de Maré is a calm lake in Seixal, ideal for walks.",
+                  "text": "A historic tidal mill basin in Seixal, part of the salt and milling heritage.",
                   "category": "natural",
                   "coords": [
                         -9.065585,
@@ -12371,7 +12776,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Tanque de refrigeração",
-                  "text": "Tanque de refrigeração is an artificial water body in Seixal.",
+                  "text": "A historic cooling tank in Seixal, once used for industrial refrigeration.",
                   "category": "natural",
                   "coords": [
                         -9.164274,
@@ -12380,7 +12785,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago da Vida",
-                  "text": "Lago da Vida is a picturesque lake in Seixal with a beautiful view.",
+                  "text": "A small lake named 'Lake of Life' in Seixal, centrepiece of a park.",
                   "category": "natural",
                   "coords": [
                         -9.144886,
@@ -12389,7 +12794,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Intantil da Quinta do Serrado",
-                  "text": "Parque Intantil da Quinta do Serrado is a popular children's playground in Seixal.",
+                  "text": "A children's playground on the Quinta do Serrado estate in Seixal.",
                   "category": "family",
                   "coords": [
                         -9.12024,
@@ -12398,7 +12803,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque da Quinta de Santa Teresinha",
-                  "text": "Parque da Quinta de Santa Teresinha is a family-friendly place in Seixal.",
+                  "text": "A family park on the Quinta de Santa Teresinha estate in Seixal.",
                   "category": "family",
                   "coords": [
                         -9.100194,
@@ -12425,7 +12830,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil Torre da Marinha",
-                  "text": "Parque Infantil Torre da Marinha is a playground in the urban area of Seixal.",
+                  "text": "A playground near Torre da Marinha in Seixal.",
                   "category": "family",
                   "coords": [
                         -9.103343,
@@ -12509,7 +12914,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro do Pocinho das Nascentes",
-                  "text": "Ein Freilufttheater in Montijo für kulturelle Veranstaltungen.",
+                  "text": "Ein Freiluft-Amphitheater am Pocinho das Nascentes in Montijo, genutzt für Kulturveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -8.959433,
@@ -12536,7 +12941,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Esteval",
-                  "text": "Eine traditionelle Windmühle in der Gegend von Esteval, Montijo.",
+                  "text": "Eine Windmühle im Gebiet Esteval von Montijo mit Blick auf die umliegenden Felder.",
                   "category": "landmark",
                   "coords": [
                         -8.966769,
@@ -12554,7 +12959,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Maré da Lançada",
-                  "text": "Ruinen einer historischen Gezeitenmühle in Montijo.",
+                  "text": "Eine historische Gezeitenmühle in Lançada, Montijo, wasserkraftbetrieben.",
                   "category": "historical",
                   "coords": [
                         -8.951373,
@@ -12581,7 +12986,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Alto das Barreiras",
-                  "text": "Eine historische Windmühle auf einem Hügel in Montijo.",
+                  "text": "Eine Windmühle auf dem Hügel Alto das Barreiras in Montijo, ein lokales Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         -8.973468,
@@ -12590,7 +12995,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Afonsoeiro",
-                  "text": "Eine traditionelle Windmühle im Viertel Afonsoeiro.",
+                  "text": "Eine Windmühle im Viertel Afonsoeiro von Montijo, Teil des Mühlenerbes.",
                   "category": "landmark",
                   "coords": [
                         -8.957351,
@@ -12691,7 +13096,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro do Pocinho das Nascentes",
-                  "text": "Szabadtéri színház Montijo városában, kulturális események helyszíne.",
+                  "text": "Szabadtéri amfiteátrum a Pocinho das Nascentes-nél Montijóban, kulturális események számára.",
                   "category": "cultural",
                   "coords": [
                         -8.959433,
@@ -12718,7 +13123,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Esteval",
-                  "text": "Hagyományos szélmalom Montijo Esteval negyedében.",
+                  "text": "Szélmalom Montijo Esteval negyedében, kilátással a környező mezőkre.",
                   "category": "landmark",
                   "coords": [
                         -8.966769,
@@ -12736,7 +13141,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Maré da Lançada",
-                  "text": "Egy történelmi árapálymalom romjai Montijo városában.",
+                  "text": "Történelmi árapálymalom Lançadában, Montijóban, vízierővel működött.",
                   "category": "historical",
                   "coords": [
                         -8.951373,
@@ -12763,7 +13168,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Alto das Barreiras",
-                  "text": "Történelmi szélmalom egy dombtetőn Montijo városában.",
+                  "text": "Szélmalom az Alto das Barreiras dombon Montijóban, helyi nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         -8.973468,
@@ -12772,7 +13177,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Afonsoeiro",
-                  "text": "Hagyományos szélmalom Afonsoeiro negyedében.",
+                  "text": "Szélmalom Montijo Afonsoeiro negyedében, a malomörökség része.",
                   "category": "landmark",
                   "coords": [
                         -8.957351,
@@ -12873,7 +13278,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro do Pocinho das Nascentes",
-                  "text": "Un teatru în aer liber în Montijo pentru evenimente culturale.",
+                  "text": "Un amfiteatru în aer liber la Pocinho das Nascentes în Montijo, folosit pentru evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         -8.959433,
@@ -12900,7 +13305,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Esteval",
-                  "text": "O moară de vânt tradițională în zona Esteval din Montijo.",
+                  "text": "O moară de vânt în zona Esteval din Montijo, cu vedere asupra câmpurilor înconjurătoare.",
                   "category": "landmark",
                   "coords": [
                         -8.966769,
@@ -12918,7 +13323,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Maré da Lançada",
-                  "text": "Ruinele unei mori de maree istorice în Montijo.",
+                  "text": "O moară tidală istorică în Lançada, Montijo, acționată de apă.",
                   "category": "historical",
                   "coords": [
                         -8.951373,
@@ -12945,7 +13350,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Alto das Barreiras",
-                  "text": "O moară de vânt istorică situată pe o colină în Montijo.",
+                  "text": "O moară de vânt pe dealul Alto das Barreiras din Montijo, un reper local.",
                   "category": "landmark",
                   "coords": [
                         -8.973468,
@@ -12954,7 +13359,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Afonsoeiro",
-                  "text": "O moară de vânt tradițională în cartierul Afonsoeiro.",
+                  "text": "O moară de vânt în cartierul Afonsoeiro din Montijo, parte a patrimoniului morilor.",
                   "category": "landmark",
                   "coords": [
                         -8.957351,
@@ -13055,7 +13460,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro do Pocinho das Nascentes",
-                  "text": "An open-air theatre in Montijo for cultural events.",
+                  "text": "An outdoor amphitheatre at Pocinho das Nascentes in Montijo, used for cultural events.",
                   "category": "cultural",
                   "coords": [
                         -8.959433,
@@ -13082,7 +13487,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Esteval",
-                  "text": "A traditional windmill in the Esteval area of Montijo.",
+                  "text": "A windmill in the Esteval area of Montijo, overlooking the surrounding fields.",
                   "category": "landmark",
                   "coords": [
                         -8.966769,
@@ -13100,7 +13505,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Maré da Lançada",
-                  "text": "Ruins of a historic tide mill in Montijo.",
+                  "text": "A historic tidal mill at Lançada in Montijo, powered by the tides.",
                   "category": "historical",
                   "coords": [
                         -8.951373,
@@ -13127,7 +13532,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Alto das Barreiras",
-                  "text": "A historic windmill situated on a hill in Montijo.",
+                  "text": "A windmill on Alto das Barreiras hill in Montijo, a local landmark.",
                   "category": "landmark",
                   "coords": [
                         -8.973468,
@@ -13136,7 +13541,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Moinho de Vento do Afonsoeiro",
-                  "text": "A traditional windmill in the Afonsoeiro district.",
+                  "text": "A windmill in the Afonsoeiro area of Montijo, part of the milling heritage.",
                   "category": "landmark",
                   "coords": [
                         -8.957351,
@@ -13274,7 +13679,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cine-Teatro de São Pedro",
-                  "text": "Ein traditionelles Theater und Kino in Abrantes.",
+                  "text": "Ein frühes 20. Jahrhundert Kino-Theater im Zentrum von Abrantes.",
                   "category": "cultural",
                   "coords": [
                         -8.198592,
@@ -13283,7 +13688,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antas da Jogada",
-                  "text": "Eine archäologische Stätte mit prähistorischen Dolmen.",
+                  "text": "Dolmen (Antas) in Jogada, Abrantes, prähistorische Grabstätten.",
                   "category": "historical",
                   "coords": [
                         -8.20411,
@@ -13292,7 +13697,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Menir de Vale dos Chãos",
-                  "text": "Ein prähistorischer megalithischer Menhir.",
+                  "text": "Ein Menhir im Vale dos Chãos in Abrantes, ein prähistorischer Steinmonolith.",
                   "category": "historical",
                   "coords": [
                         -8.19515,
@@ -13301,7 +13706,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Outeiro de São Pedro",
-                  "text": "Eine historische Festung und ein strategischer Aussichtspunkt in Abrantes.",
+                  "text": "Eine Hügelfestung des heiligen Petrus in Abrantes mit Blick auf das Tejo-Tal.",
                   "category": "fortress",
                   "coords": [
                         -8.192795,
@@ -13310,7 +13715,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fortim do Caneiro",
-                  "text": "Eine archäologische Ausgrabungsstätte in Abrantes.",
+                  "text": "Ein kleines Fort am Caneiro in Abrantes, Teil der historischen Verteidigungslinien.",
                   "category": "historical",
                   "coords": [
                         -8.206021,
@@ -13337,7 +13742,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Mourões",
-                  "text": "Historische Ruinen in der Stadt Abrantes.",
+                  "text": "Eine Hügelfestung mit Überresten einer maurischen Befestigung bei Abrantes.",
                   "category": "historical",
                   "coords": [
                         -8.191726,
@@ -13346,7 +13751,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Abrantes",
-                  "text": "Eine Aussichtsschaukel in Abrantes.",
+                  "text": "Eine große Schaukel mit Blick auf den Tejo in Abrantes, eine moderne Attraktion.",
                   "category": "landmark",
                   "coords": [
                         -8.195372,
@@ -13355,7 +13760,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "EN 2 Km 400",
-                  "text": "Ein Markierungspunkt an der berühmten Nationalstraße EN2 in Abrantes.",
+                  "text": "Ein Kilometerstein bei Kilometer 400 der Nationalstraße 2 in Abrantes, markanter Punkt auf Portugals längster Straße.",
                   "category": "landmark",
                   "coords": [
                         -8.1847,
@@ -13373,7 +13778,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta de Coalhos",
-                  "text": "Ein traditionelles Herrenhaus und Anwesen in Abrantes.",
+                  "text": "Ein historisches Landgut namens Quinta de Coalhos in Abrantes, einst ländlicher Herrensitz.",
                   "category": "historical",
                   "coords": [
                         -8.16982,
@@ -13420,7 +13825,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cine-Teatro de São Pedro",
-                  "text": "Hagyományos színház és mozi Abrantesben.",
+                  "text": "Korai 20. századi mozi-színház Abrantes központjában.",
                   "category": "cultural",
                   "coords": [
                         -8.198592,
@@ -13429,7 +13834,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antas da Jogada",
-                  "text": "Régészeti lelőhely őskori dolmenekkel.",
+                  "text": "Dolmenek (Antas) Jogadában, Abrantesben, őskori sírhelyek.",
                   "category": "historical",
                   "coords": [
                         -8.20411,
@@ -13438,7 +13843,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Menir de Vale dos Chãos",
-                  "text": "Őskori megalitikus állókő (menhir).",
+                  "text": "Menhir a Vale dos Chãos-ban Abrantesben, egy őskori kőmonolit.",
                   "category": "historical",
                   "coords": [
                         -8.19515,
@@ -13447,7 +13852,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Outeiro de São Pedro",
-                  "text": "Történelmi erőd és stratégiai kilátópont Abrantesben.",
+                  "text": "Szent Péter domb-érődítmény Abrantesben, kilátással a Tejo-völgyre.",
                   "category": "fortress",
                   "coords": [
                         -8.192795,
@@ -13456,7 +13861,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fortim do Caneiro",
-                  "text": "Régészeti lelőhely Abrantes területén.",
+                  "text": "Kis erőd Caneirónál Abrantesben, a történelmi védvonalak része.",
                   "category": "historical",
                   "coords": [
                         -8.206021,
@@ -13483,7 +13888,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Mourões",
-                  "text": "Történelmi romok Abrantes városában.",
+                  "text": "Dombtetőn lévő régészeti lelőhely egy mór erődítmény maradványaival Abrantes közelében.",
                   "category": "historical",
                   "coords": [
                         -8.191726,
@@ -13492,7 +13897,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Abrantes",
-                  "text": "Panorámás hinta Abrantes területén.",
+                  "text": "Nagy hinta a Tejo folyóra néző kilátással Abrantesben, modern turisztikai látványosság.",
                   "category": "landmark",
                   "coords": [
                         -8.195372,
@@ -13501,7 +13906,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "EN 2 Km 400",
-                  "text": "Egy nevezetes pont a híres EN2-es úton, Abrantes közelében.",
+                  "text": "Kilométerkő a 400. kilométernél a 2-es országúton Abrantesben, nevezetes pont Portugália leghosszabb útján.",
                   "category": "landmark",
                   "coords": [
                         -8.1847,
@@ -13519,7 +13924,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta de Coalhos",
-                  "text": "Hagyományos udvarház és birtok Abrantesben.",
+                  "text": "Történelmi birtok, a Quinta de Coalhos Abrantesben, egykor vidéki kúria.",
                   "category": "historical",
                   "coords": [
                         -8.16982,
@@ -13566,7 +13971,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cine-Teatro de São Pedro",
-                  "text": "Un teatru tradițional și cinematograf în Abrantes.",
+                  "text": "Un cinematograf-teatru de la începutul secolului XX în centrul Abrantesului.",
                   "category": "cultural",
                   "coords": [
                         -8.198592,
@@ -13575,7 +13980,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antas da Jogada",
-                  "text": "Un sit arheologic care prezintă dolmene preistorice.",
+                  "text": "Dolmene (Antas) la Jogada, Abrantes, morminte preistorice.",
                   "category": "historical",
                   "coords": [
                         -8.20411,
@@ -13584,7 +13989,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Menir de Vale dos Chãos",
-                  "text": "Un menhir megalitic preistoric.",
+                  "text": "Un menhir în Vale dos Chãos din Abrantes, un monolit de piatră preistoric.",
                   "category": "historical",
                   "coords": [
                         -8.19515,
@@ -13593,7 +13998,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Outeiro de São Pedro",
-                  "text": "Un fort istoric și punct de observare strategic în Abrantes.",
+                  "text": "O fortăreață pe dealul Sfântului Petru în Abrantes, cu vedere asupra văii Tajo.",
                   "category": "fortress",
                   "coords": [
                         -8.192795,
@@ -13602,7 +14007,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fortim do Caneiro",
-                  "text": "Un sit arheologic situat în Abrantes.",
+                  "text": "Un fort mic la Caneiro în Abrantes, parte a liniilor defensive istorice.",
                   "category": "historical",
                   "coords": [
                         -8.206021,
@@ -13629,7 +14034,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Mourões",
-                  "text": "Ruine istorice situate în orașul Abrantes.",
+                  "text": "Un sit arheologic pe deal cu rămășițe ale unei fortificații maure lângă Abrantes.",
                   "category": "historical",
                   "coords": [
                         -8.191726,
@@ -13638,7 +14043,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Abrantes",
-                  "text": "Un leagăn panoramic situat în Abrantes.",
+                  "text": "Un leagăn mare cu vedere asupra râului Tajo în Abrantes, o atracție modernă.",
                   "category": "landmark",
                   "coords": [
                         -8.195372,
@@ -13647,7 +14052,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "EN 2 Km 400",
-                  "text": "Un punct de reper pe faimosul drum EN2 din Abrantes.",
+                  "text": "Un reper la kilometrul 400 al Drumului Național 2 în Abrantes, un punct notabil pe cel mai lung drum al Portugaliei.",
                   "category": "landmark",
                   "coords": [
                         -8.1847,
@@ -13665,7 +14070,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta de Coalhos",
-                  "text": "Un conac tradițional și o proprietate istorică în Abrantes.",
+                  "text": "O moșie istorică numită Quinta de Coalhos în Abrantes, odată un conac rural.",
                   "category": "historical",
                   "coords": [
                         -8.16982,
@@ -13712,7 +14117,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cine-Teatro de São Pedro",
-                  "text": "A traditional theatre and cinema venue in Abrantes.",
+                  "text": "An early 20th-century cinema-theatre in the centre of Abrantes.",
                   "category": "cultural",
                   "coords": [
                         -8.198592,
@@ -13721,7 +14126,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antas da Jogada",
-                  "text": "An archaeological site featuring prehistoric dolmens.",
+                  "text": "Dolmens (antas) at Jogada in Abrantes, prehistoric burial structures.",
                   "category": "historical",
                   "coords": [
                         -8.20411,
@@ -13730,7 +14135,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Menir de Vale dos Chãos",
-                  "text": "A prehistoric megalithic standing stone.",
+                  "text": "A menhir in Vale dos Chãos in Abrantes, a prehistoric stone monolith.",
                   "category": "historical",
                   "coords": [
                         -8.19515,
@@ -13739,7 +14144,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Outeiro de São Pedro",
-                  "text": "A historic fort and strategic viewpoint in Abrantes.",
+                  "text": "A hilltop fortress dedicated to Saint Peter in Abrantes, overlooking the Tagus valley.",
                   "category": "fortress",
                   "coords": [
                         -8.192795,
@@ -13748,7 +14153,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Fortim do Caneiro",
-                  "text": "An archaeological site located in Abrantes.",
+                  "text": "A small fort at Caneiro in Abrantes, part of historic defensive lines.",
                   "category": "historical",
                   "coords": [
                         -8.206021,
@@ -13775,7 +14180,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Mourões",
-                  "text": "Historic ruins located in the city of Abrantes.",
+                  "text": "A hilltop archaeological site with remains of a Moorish fortification near Abrantes.",
                   "category": "historical",
                   "coords": [
                         -8.191726,
@@ -13784,7 +14189,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Abrantes",
-                  "text": "A scenic panorama swing located in Abrantes.",
+                  "text": "A large swing overlooking the Tagus River in Abrantes, a modern tourist attraction.",
                   "category": "landmark",
                   "coords": [
                         -8.195372,
@@ -13793,7 +14198,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "EN 2 Km 400",
-                  "text": "A landmark point on the famous EN2 road in Abrantes.",
+                  "text": "A landmark marker at kilometre 400 of National Road 2 in Abrantes, a notable point on Portugal's longest road.",
                   "category": "landmark",
                   "coords": [
                         -8.1847,
@@ -13811,7 +14216,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Quinta de Coalhos",
-                  "text": "A traditional manor house and estate in Abrantes.",
+                  "text": "A historic estate named Quinta de Coalhos in Abrantes, once a rural manor.",
                   "category": "historical",
                   "coords": [
                         -8.16982,
@@ -13895,7 +14300,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ecoteca de Mirandela",
-                  "text": "Ein Umweltmuseum und Bildungszentrum in Mirandela.",
+                  "text": "Ein Umweltmuseum in Mirandela, das sich der Natur und Nachhaltigkeit widmet.",
                   "category": "museum",
                   "coords": [
                         -7.179725,
@@ -13969,7 +14374,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ecoteca de Mirandela",
-                  "text": "Környezetvédelmi múzeum és oktatási központ Mirandelában.",
+                  "text": "Környezetvédelmi múzeum Mirandelában, a természet és a fenntarthatóság témájában.",
                   "category": "museum",
                   "coords": [
                         -7.179725,
@@ -14043,7 +14448,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ecoteca de Mirandela",
-                  "text": "Un muzeu de mediu și centru de educație din Mirandela.",
+                  "text": "Un muzeu de mediu în Mirandela, dedicat naturii și sustenabilității.",
                   "category": "museum",
                   "coords": [
                         -7.179725,
@@ -14117,7 +14522,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ecoteca de Mirandela",
-                  "text": "An environmental museum and education center in Mirandela.",
+                  "text": "An environmental museum in Mirandela, dedicated to nature and sustainability.",
                   "category": "museum",
                   "coords": [
                         -7.179725,
@@ -14255,7 +14660,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Espinho",
-                  "text": "Ein Museum in Espinho, das lokale Geschichte und Kunst ausstellt.",
+                  "text": "Das Städtische Museum von Espinho, untergebracht in einem historischen Gebäude mit Ausstellungen zur Lokalgeschichte.",
                   "category": "museum",
                   "coords": [
                         -8.644015,
@@ -14428,7 +14833,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Espinho",
-                  "text": "Espinho városi múzeuma, amely helytörténeti és művészeti kiállításokat kínál.",
+                  "text": "Espinho Városi Múzeuma, történelmi épületben, helytörténeti kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -8.644015,
@@ -14601,7 +15006,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Espinho",
-                  "text": "Un muzeu în Espinho ce expune istoria și arta locală.",
+                  "text": "Muzeul Municipal din Espinho, găzduit într-o clădire istorică, cu expoziții de istorie locală.",
                   "category": "museum",
                   "coords": [
                         -8.644015,
@@ -14774,7 +15179,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Espinho",
-                  "text": "A museum in Espinho exhibiting local history and art.",
+                  "text": "The municipal museum of Espinho, housed in a historic building, displaying local history.",
                   "category": "museum",
                   "coords": [
                         -8.644015,
@@ -15308,7 +15713,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia de Lagoa II",
-                  "text": "Praia de Lagoa II ist ein Strand in Póvoa de Varzim.",
+                  "text": "Ein Strand namens Lagoa II in Póvoa de Varzim, ein sandiger Abschnitt an der Atlantikküste.",
                   "category": "recreational",
                   "coords": [
                         -8.774473,
@@ -15670,7 +16075,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia de Lagoa II",
-                  "text": "A Praia de Lagoa II egy tengerparti strand Póvoa de Varzimban.",
+                  "text": "Lagoa II nevű strand Póvoa de Varzimban, homokos szakasz az Atlanti-óceán partján.",
                   "category": "recreational",
                   "coords": [
                         -8.774473,
@@ -16032,7 +16437,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia de Lagoa II",
-                  "text": "Praia de Lagoa II este o plajă situată în Póvoa de Varzim.",
+                  "text": "O plajă numită Lagoa II în Póvoa de Varzim, o porțiune nisipoasă pe coasta Atlanticului.",
                   "category": "recreational",
                   "coords": [
                         -8.774473,
@@ -16394,7 +16799,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia de Lagoa II",
-                  "text": "Praia de Lagoa II is a beach located in Póvoa de Varzim.",
+                  "text": "A beach named Lagoa II in Póvoa de Varzim, a sandy stretch along the Atlantic coast.",
                   "category": "recreational",
                   "coords": [
                         -8.774473,
@@ -16465,7 +16870,1600 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-povoa-de-varzim-cities-v2.webp",
   },
   {
-    id: "portugal-vila-do-conde-cities-v2", "sights": {"de": [{"name": "Mosteiro de Santa Clara", "text": "Ein großes historisches Kloster mit Blick auf den Fluss Ave in Vila do Conde.", "category": "religious", "coords": [-8.739128, 41.352447]}, {"name": "Forte de São João Baptista", "text": "Eine Küstenfestung in Vila do Conde, die die Mündung des Flusses Ave schützte.", "category": "castle", "coords": [-8.751812, 41.341715]}, {"name": "Centro de Memória", "text": "Ein Museum und Kulturzentrum, das dem Gedächtnis und der Geschichte von Vila do Conde gewidmet ist.", "category": "museum", "coords": [-8.741815, 41.357225]}, {"name": "Palacete Melo", "text": "Ein historisches Herrenhaus und eine architektonische Sehenswürdigkeit in Vila do Conde.", "category": "castle", "coords": [-8.750161, 41.352818]}, {"name": "Farol de Regufe", "text": "Ein markanter eiserner Leuchtturmturm in Vila do Conde.", "category": "landmark", "coords": [-8.75472, 41.374404]}, {"name": "Farol Barra Rio Ave", "text": "Ein Leuchtturm, der den Eingang zum Fluss Ave in Vila do Conde markiert.", "category": "landmark", "coords": [-8.749653, 41.336653]}, {"name": "Auditório Municipal de Vila do Conde", "text": "Ein städtisches Theater und Auditorium für Aufführungen in Vila do Conde.", "category": "cultural", "coords": [-8.741007, 41.351934]}, {"name": "Praia de Árvore", "text": "Eingebettet im Stadtteil Árvore von Vila do Conde, bietet dieser malerische Sandstrand eine herrliche Flucht ans Meer. Die Umgebung wirkt wunderbar entspannt und macht den Ort zu einem Favoriten für unbeschwerte Tage unter der portugiesischen Sonne. Familien und Alleinreisende finden hier reichlich Platz zum Schwimmen, im Sand spielen oder einfach zum Ausruhen. Ein schöner Nachmittag wird hier am besten gekrönt, indem man den Sonnenuntergang über dem Atlantik beobachtet.", "category": "recreational", "coords": [-8.739078, 41.330108]}, {"name": "Azurara Parque Aventura", "text": "Ein Outdoor-Abenteuer- und Themenpark in Vila do Conde.", "category": "family", "coords": [-8.733775, 41.348923]}, {"name": "Farol do Aguilhão", "text": "Ein Leuchtturm an der Küste von Vila do Conde.", "category": "landmark", "coords": [-8.760587, 41.361261]}, {"name": "Praia das Caxinas", "text": "Direkt im traditionellen Fischerviertel von Vila do Conde gelegen, verbindet die Praia das Caxinas lokales Leben mit maritimer Freizeit. Eine warme, gemeinschaftliche Atmosphäre prägt diesen beliebten Sandstrand. Besucher erwartet eine authentisch belebte Kulisse, in der Sonnenbaden und erfrischendes Schwimmen vom alltäglichen Rhythmus der Küstenstadt begleitet werden. Der späte Vormittag ist eine hervorragende Zeit, um sich einen guten Platz im Sand zu sichern.", "category": "recreational", "coords": [-8.755421, 41.3565]}, {"name": "Alfândega Régia", "text": "Ein Museum im historischen Gebäude des königlichen Zollamtes von Vila do Conde.", "category": "museum", "coords": [-8.74386, 41.350114]}, {"name": "Teatro Municipal de Vila de Conde", "text": "Das wichtigste städtische Theater für Kunst und Aufführungen in Vila do Conde.", "category": "cultural", "coords": [-8.74578, 41.352832]}, {"name": "Centro Ciência Viva", "text": "Ein interaktives Wissenschaftsmuseum in Vila do Conde.", "category": "museum", "coords": [-8.734156, 41.354419]}, {"name": "Praia do Peixe", "text": "Die Praia do Peixe in Vila do Conde umarmt das Erbe ihrer Fischertradition und besticht durch eine unprätentiöse, authentische Ausstrahlung. Dieser lokale Uferabschnitt bietet einen intimen Einblick in die maritime Kultur, die diese Region geprägt hat. Die Zeit hier verbringt man am besten mit ruhigen Spaziergängen am Wasser und dem Genießen des bodenständigen Küstenlebens. Der Strand ist ein wunderbarer Ort, um einen Gang zurückzuschalten und die frische Meeresbrise auf sich wirken zu lassen.", "category": "recreational", "coords": [-8.762597, 41.374706]}, {"name": "Memorial aos Ex-Combatentes do Ultramar", "text": "Ein Denkmal in Vila do Conde zu Ehren der Veteranen überseeischer Militärkampagnen.", "category": "historical", "coords": [-8.745005, 41.347443]}, {"name": "Aqueduto de Vila do Conde", "text": "Ein historisches Aquädukt mit Dutzenden von Bögen, das einst Wasser in die Stadt leitete.", "category": "landmark", "coords": [-8.736557, 41.374224]}, {"name": "Monumento à Rendilheira de Vila do Conde", "text": "Ein Denkmal, das den traditionellen Klöppelspitzenmacherinnen von Vila do Conde gewidmet ist.", "category": "historical", "coords": [-8.741623, 41.350904]}, {"name": "Miúdos e Graúdos", "text": "Ein Kultur- und Kunstzentrum in Vila do Conde für Kinder und Erwachsene.", "category": "cultural", "coords": [-8.755779, 41.375447]}, {"name": "Miradouro", "text": "Ein Aussichtspunkt, der weite Ausblicke auf die Umgebung bietet.", "category": "natural", "coords": [-8.755222, 41.351357]}, {"name": "Street Art \"Pescadores das Caxinas\"", "text": "Urbane Kunst, die den lokalen Fischern von Caxinas gewidmet ist.", "category": "landmark", "coords": [-8.759353, 41.364506]}, {"name": "Padrão aos Mortos da Primeira Guerra Mundial", "text": "Ein Denkmal zu Ehren der Gefallenen des Ersten Weltkriegs.", "category": "historical", "coords": [-8.738215, 41.351742]}, {"name": "Padrão da Memória", "text": "Ein Gedenkmonument im Stadtgebiet von Vila do Conde.", "category": "historical", "coords": [-8.75054, 41.341101]}, {"name": "Forcada das Caxinas", "text": "Eine lokale Sehenswürdigkeit im Fischerviertel Caxinas.", "category": "landmark", "coords": [-8.764812, 41.361307]}, {"name": "Molhe Sul da Barra de Póvoa de Varzim", "text": "Eine Mole am Hafenbereich zwischen Póvoa de Varzim und Vila do Conde.", "category": "landmark", "coords": [-8.764828, 41.370047]}, {"name": "Pelourinho de Vila do Conde", "text": "Ein historischer Pranger und Wahrzeichen der städtischen Gerichtsbarkeit.", "category": "landmark", "coords": [-8.743456, 41.353935]}, {"name": "Capela de Nossa Senhora da Guia", "text": "Eine kleine Kapelle am Meer, die der Schutzpatronin der Seefahrer gewidmet ist.", "category": "religious", "coords": [-8.749597, 41.339873]}, {"name": "Igreja da Lapa", "text": "Eine historische Kirche, die für ihre religiöse Bedeutung bekannt ist.", "category": "religious", "coords": [-8.761365, 41.373835]}, {"name": "Igreja de Santa Maria de Azurara", "text": "Eine bedeutende Kirche im gotischen Manuelinik-Stil in Azurara.", "category": "religious", "coords": [-8.735667, 41.344848]}, {"name": "Igreja de Nossa Senhora da Lapa", "text": "Ein religiöser Ort in Vila do Conde, der Unserer Lieben Frau von Lapa gewidmet ist.", "category": "religious", "coords": [-8.737587, 41.359903]}, {"name": "Igreja Matriz de Vila do Conde", "text": "Die Hauptpfarrkirche der Stadt, ein bedeutendes Beispiel der Manuelinik.", "category": "religious", "coords": [-8.742368, 41.353912]}, {"name": "Lago do Parque da Cidade João Paulo II", "text": "Der Lago do Parque da Cidade João Paulo II ist ein zentraler See in Vila Do Conde.", "category": "natural", "coords": [-8.750988, 41.362323]}, {"name": "Lago do Parque da Cidade Póvoa de Varzim", "text": "Dieser See im Stadtpark bietet eine ruhige Atmosphäre in Vila Do Conde.", "category": "natural", "coords": [-8.753727, 41.399607]}, {"name": "Parque Infantil Parque dos Avós", "text": "Der Parque Infantil Parque dos Avós ist ein Ort für generationenübergreifenden Spielspaß in Vila Do Conde.", "category": "family", "coords": [-8.757848, 41.370638]}, {"name": "Parque Infantil das Dalias", "text": "Der Parque Infantil das Dalias ist ein charmanter Spielplatz für Kinder in Vila Do Conde.", "category": "family", "coords": [-8.75819, 41.371685]}, {"name": "Parque Infantil das Caxinas", "text": "Der Parque Infantil das Caxinas bietet Spiel und Spaß für Familien in Vila Do Conde.", "category": "family", "coords": [-8.75556, 41.366254]}, {"name": "Parque Infantil Poça da Bouça", "text": "Der Parque Infantil Poça da Bouça ist ein beliebter Treffpunkt für Familien in Vila Do Conde.", "category": "family", "coords": [-8.753881, 41.365725]}, {"name": "Parque Infantil Dom Pedro IV", "text": "Im Parque Infantil Dom Pedro IV können Kinder in Vila Do Conde sicher spielen.", "category": "family", "coords": [-8.755284, 41.371054]}, {"name": "Parque Infantil Dr. João Carneiro de Morais", "text": "Der Spielplatz Dr. João Carneiro de Morais ist eine familienfreundliche Anlage in Vila Do Conde.", "category": "family", "coords": [-8.751366, 41.366166]}, {"name": "Parque do Regufe", "text": "Der Parque do Regufe bietet Platz zum Austoben für Familien in Vila Do Conde.", "category": "family", "coords": [-8.752437, 41.375014]}, {"name": "Parque Infantil B.D.P", "text": "Der Parque Infantil B.D.P ist ein lokaler Spielplatz für Kinder in Vila Do Conde.", "category": "family", "coords": [-8.752987, 41.35809]}, {"name": "Pirâmide Escola Primária das Caxinas", "text": "Die Pirâmide Escola Primária das Caxinas ist ein Spielgerät für Schüler in Vila Do Conde.", "category": "family", "coords": [-8.756434, 41.364572]}, {"name": "Parque Infantil Escola Primária Benguiados", "text": "Dieser Schulspielplatz bietet Kindern in Vila Do Conde Raum für Bewegung.", "category": "family", "coords": [-8.748722, 41.361646]}, {"name": "Parque Infantil de Argivai", "text": "Der Parque Infantil de Argivai ist eine schöne Spielstätte für Familien in Vila Do Conde.", "category": "family", "coords": [-8.740882, 41.373767]}], "hu": [{"name": "Mosteiro de Santa Clara", "text": "Nagy történelmi kolostor Vila do Condében, amely az Ave folyóra néz.", "category": "religious", "coords": [-8.739128, 41.352447]}, {"name": "Forte de São João Baptista", "text": "Partmenti erőd Vila do Condében, amely az Ave folyó torkolatát védte.", "category": "castle", "coords": [-8.751812, 41.341715]}, {"name": "Centro de Memória", "text": "Múzeum és kulturális központ, amelyet Vila do Conde emlékezetének és történelmének szenteltek.", "category": "museum", "coords": [-8.741815, 41.357225]}, {"name": "Palacete Melo", "text": "Történelmi udvarház és építészeti látványosság Vila do Condében.", "category": "castle", "coords": [-8.750161, 41.352818]}, {"name": "Farol de Regufe", "text": "Jellegzetes vas világítótorony Vila do Condében.", "category": "landmark", "coords": [-8.75472, 41.374404]}, {"name": "Farol Barra Rio Ave", "text": "Az Ave folyó bejáratát jelző világítótorony Vila do Condében.", "category": "landmark", "coords": [-8.749653, 41.336653]}, {"name": "Auditório Municipal de Vila do Conde", "text": "Városi színház és előadóterem Vila do Condében.", "category": "cultural", "coords": [-8.741007, 41.351934]}, {"name": "Praia de Árvore", "text": "A Vila do Conde Árvore negyedében megbúvó festői homokos strand csodálatos menedéket nyújt az óceán partján. A környezet csodálatosan nyugodt, így tökéletes helyszín a portugál nap alatti gondtalan napok eltöltéséhez. A családok és az egyedül utazók egyaránt bőséges teret találnak itt az úszáshoz, a homokozáshoz vagy a pihenéshez. Egy itt töltött kellemes délutánt leginkább az Atlanti-óceán feletti naplemente megtekintésével érdemes megkoronázni.", "category": "recreational", "coords": [-8.739078, 41.330108]}, {"name": "Azurara Parque Aventura", "text": "Szabadtéri kaland- és vidámpark Vila do Condében.", "category": "family", "coords": [-8.733775, 41.348923]}, {"name": "Farol do Aguilhão", "text": "Világítótorony Vila do Conde tengerpartján.", "category": "landmark", "coords": [-8.760587, 41.361261]}, {"name": "Praia das Caxinas", "text": "A Vila do Conde hagyományos halásznegyedében található Praia das Caxinas a helyi életet ötvözi a tengerparti pihenéssel. Ezt a népszerű homokos partot meleg, közösségközpontú légkör jellemzi. A látogatók egy igazán élénk környezetre számíthatnak, ahol a napozást és a frissítő fürdőzést a tengerparti kisváros mindennapi ritmusa kíséri. A délelőtt közepe kiváló időpont arra, hogy jó helyet biztosítsunk magunknak a homokban.", "category": "recreational", "coords": [-8.755421, 41.3565]}, {"name": "Alfândega Régia", "text": "Múzeum Vila do Conde történelmi királyi vámházának épületében.", "category": "museum", "coords": [-8.74386, 41.350114]}, {"name": "Teatro Municipal de Vila de Conde", "text": "Vila do Conde fő városi színháza művészeti előadások számára.", "category": "cultural", "coords": [-8.74578, 41.352832]}, {"name": "Centro Ciência Viva", "text": "Interaktív tudományos múzeum Vila do Condében.", "category": "museum", "coords": [-8.734156, 41.354419]}, {"name": "Praia do Peixe", "text": "A halászvárosi gyökereket magába foglaló Praia do Peixe Vila do Conde városában szerény, hagyományos hangulatával tűnik ki. Ez a helyi partszakasz meghitt bepillantást nyújt abba a mindennapi tengeri kultúrába, amely a régiót formálta. Az itt töltött időt leginkább a vízparti csendes séták és a partszakasz életmódjának értékelése jelenti. Kellemes emlékeztető arra, hogy lassítsunk le, és egyszerűen csak élvezzük az autentikus tengerparti szellőt.", "category": "recreational", "coords": [-8.762597, 41.374706]}, {"name": "Memorial aos Ex-Combatentes do Ultramar", "text": "Emlékmű Vila do Condében a tengerentúli hadjáratok veteránjainak tiszteletére.", "category": "historical", "coords": [-8.745005, 41.347443]}, {"name": "Aqueduto de Vila do Conde", "text": "Történelmi vízvezeték több tucat ívvel, amely egykor vizet szállított a városba.", "category": "landmark", "coords": [-8.736557, 41.374224]}, {"name": "Monumento à Rendilheira de Vila do Conde", "text": "Vila do Conde hagyományos csipkeverőinek szentelt emlékmű.", "category": "historical", "coords": [-8.741623, 41.350904]}, {"name": "Miúdos e Graúdos", "text": "Kulturális művészeti központ Vila do Condében gyerekeknek és felnőtteknek egyaránt.", "category": "cultural", "coords": [-8.755779, 41.375447]}, {"name": "Miradouro", "text": "Kilátóhely, ahonnan szép kilátás nyílik a környékre.", "category": "natural", "coords": [-8.755222, 41.351357]}, {"name": "Street Art \"Pescadores das Caxinas\"", "text": "A caxinasi halászok tiszteletére készült utcai művészeti alkotás.", "category": "landmark", "coords": [-8.759353, 41.364506]}, {"name": "Padrão aos Mortos da Primeira Guerra Mundial", "text": "Az első világháború áldozatainak emléket állító emlékmű.", "category": "historical", "coords": [-8.738215, 41.351742]}, {"name": "Padrão da Memória", "text": "Emlékmű Vila do Conde városában.", "category": "historical", "coords": [-8.75054, 41.341101]}, {"name": "Forcada das Caxinas", "text": "Helyi látnivaló Caxinas halásznegyedében.", "category": "landmark", "coords": [-8.764812, 41.361307]}, {"name": "Molhe Sul da Barra de Póvoa de Varzim", "text": "Gát a kikötőnél Póvoa de Varzim és Vila do Conde határán.", "category": "landmark", "coords": [-8.764828, 41.370047]}, {"name": "Pelourinho de Vila do Conde", "text": "Történelmi szégyenoszlop, amely a városi önkormányzat jelképe.", "category": "landmark", "coords": [-8.743456, 41.353935]}, {"name": "Capela de Nossa Senhora da Guia", "text": "Kisméretű tengerparti kápolna, amelyet a tengerészek védőszentjének szenteltek.", "category": "religious", "coords": [-8.749597, 41.339873]}, {"name": "Igreja da Lapa", "text": "Történelmi templom, amely vallási jelentőségéről ismert.", "category": "religious", "coords": [-8.761365, 41.373835]}, {"name": "Igreja de Santa Maria de Azurara", "text": "Jelentős gótikus-ánuelei stílusú templom Azurarában.", "category": "religious", "coords": [-8.735667, 41.344848]}, {"name": "Igreja de Nossa Senhora da Lapa", "text": "Vila do Conde egyik vallási helyszíne, amelyet a Lapai Szűzanyának szenteltek.", "category": "religious", "coords": [-8.737587, 41.359903]}, {"name": "Igreja Matriz de Vila do Conde", "text": "A város főplébániatemploma, a manuelin stílus kiemelkedő példája.", "category": "religious", "coords": [-8.742368, 41.353912]}, {"name": "Lago do Parque da Cidade João Paulo II", "text": "A Lago do Parque da Cidade João Paulo II egy központi tó Vila Do Conde városában.", "category": "natural", "coords": [-8.750988, 41.362323]}, {"name": "Lago do Parque da Cidade Póvoa de Varzim", "text": "Ez a városi parkban található tó nyugodt légkört biztosít Vila Do Conde-ban.", "category": "natural", "coords": [-8.753727, 41.399607]}, {"name": "Parque Infantil Parque dos Avós", "text": "A Parque Infantil Parque dos Avós egy hely a generációkon átívelő játékhoz Vila Do Conde-ban.", "category": "family", "coords": [-8.757848, 41.370638]}, {"name": "Parque Infantil das Dalias", "text": "A Parque Infantil das Dalias egy bájos játszótér gyerekeknek Vila Do Conde-ban.", "category": "family", "coords": [-8.75819, 41.371685]}, {"name": "Parque Infantil das Caxinas", "text": "A Parque Infantil das Caxinas játékot és szórakozást kínál a családoknak Vila Do Conde-ban.", "category": "family", "coords": [-8.75556, 41.366254]}, {"name": "Parque Infantil Poça da Bouça", "text": "A Parque Infantil Poça da Bouça népszerű találkozóhely a családok számára Vila Do Conde-ban.", "category": "family", "coords": [-8.753881, 41.365725]}, {"name": "Parque Infantil Dom Pedro IV", "text": "A Parque Infantil Dom Pedro IV területén a gyerekek biztonságban játszhatnak Vila Do Conde-ban.", "category": "family", "coords": [-8.755284, 41.371054]}, {"name": "Parque Infantil Dr. João Carneiro de Morais", "text": "A Dr. João Carneiro de Morais játszótér egy családbarát létesítmény Vila Do Conde-ban.", "category": "family", "coords": [-8.751366, 41.366166]}, {"name": "Parque do Regufe", "text": "A Parque do Regufe helyet biztosít a családoknak a kikapcsolódáshoz Vila Do Conde-ban.", "category": "family", "coords": [-8.752437, 41.375014]}, {"name": "Parque Infantil B.D.P", "text": "A Parque Infantil B.D.P egy helyi játszótér gyerekeknek Vila Do Conde-ban.", "category": "family", "coords": [-8.752987, 41.35809]}, {"name": "Pirâmide Escola Primária das Caxinas", "text": "A Pirâmide Escola Primária das Caxinas egy játéklehetőség diákoknak Vila Do Conde-ban.", "category": "family", "coords": [-8.756434, 41.364572]}, {"name": "Parque Infantil Escola Primária Benguiados", "text": "Ez az iskolai játszótér mozgási lehetőséget biztosít a gyerekeknek Vila Do Conde-ban.", "category": "family", "coords": [-8.748722, 41.361646]}, {"name": "Parque Infantil de Argivai", "text": "A Parque Infantil de Argivai egy szép játszótér családoknak Vila Do Conde-ban.", "category": "family", "coords": [-8.740882, 41.373767]}], "ro": [{"name": "Mosteiro de Santa Clara", "text": "O mănăstire istorică mare, cu vedere la râul Ave, în Vila do Conde.", "category": "religious", "coords": [-8.739128, 41.352447]}, {"name": "Forte de São João Baptista", "text": "O cetate de coastă din Vila do Conde care proteja gura râului Ave.", "category": "castle", "coords": [-8.751812, 41.341715]}, {"name": "Centro de Memória", "text": "Un muzeu și centru cultural dedicat memoriei și istoriei orașului Vila do Conde.", "category": "museum", "coords": [-8.741815, 41.357225]}, {"name": "Palacete Melo", "text": "Un conac istoric și o atracție arhitecturală în Vila do Conde.", "category": "castle", "coords": [-8.750161, 41.352818]}, {"name": "Farol de Regufe", "text": "Un turn de far din fier distinctiv situat în Vila do Conde.", "category": "landmark", "coords": [-8.75472, 41.374404]}, {"name": "Farol Barra Rio Ave", "text": "Un far care marchează intrarea în râul Ave în Vila do Conde.", "category": "landmark", "coords": [-8.749653, 41.336653]}, {"name": "Auditório Municipal de Vila do Conde", "text": "Un teatru municipal și un auditorium pentru spectacole în Vila do Conde.", "category": "cultural", "coords": [-8.741007, 41.351934]}, {"name": "Praia de Árvore", "text": "Ascunsă în districtul Árvore din Vila Do Conde, această plajă pitorească de nisip oferă o evadare minunată la ocean. Mediul este incredibil de relaxat, transformând locul într-un favorit pentru zile fără griji sub soarele portughez. Familiile și călătorii solitari deopotrivă găsesc aici spațiu amplu pentru a înota, a se juca în nisip sau pur și simplu pentru a se odihni. O după-amiază superbă aici se încheie cel mai bine admirând apusul deasupra orizontului Atlanticului.", "category": "recreational", "coords": [-8.739078, 41.330108]}, {"name": "Azurara Parque Aventura", "text": "Un parc de aventură în aer liber și parc tematic situat în Vila do Conde.", "category": "family", "coords": [-8.733775, 41.348923]}, {"name": "Farol do Aguilhão", "text": "Un far situat pe linia de coastă a orașului Vila do Conde.", "category": "landmark", "coords": [-8.760587, 41.361261]}, {"name": "Praia das Caxinas", "text": "Situată chiar în cartierul tradițional de pescari din Vila Do Conde, Praia das Caxinas îmbină viața locală cu relaxarea la malul mării. O atmosferă caldă, centrată pe comunitate, definește această porțiune populară de nisip. Vizitatorii se pot aștepta la un cadru cu adevărat plin de viață, unde băile de soare și înotul revigorant se desfășoară în ritmul zilnic al orașului de coastă. Dimineața târziu este un moment excelent pentru a asigura un loc bun pe plajă.", "category": "recreational", "coords": [-8.755421, 41.3565]}, {"name": "Alfândega Régia", "text": "Un muzeu situat în clădirea istorică a Vămii Regale din Vila do Conde.", "category": "museum", "coords": [-8.74386, 41.350114]}, {"name": "Teatro Municipal de Vila de Conde", "text": "Principala sală de teatru municipală pentru arte și spectacole din Vila do Conde.", "category": "cultural", "coords": [-8.74578, 41.352832]}, {"name": "Centro Ciência Viva", "text": "Un muzeu de știință interactiv situat în Vila do Conde.", "category": "museum", "coords": [-8.734156, 41.354419]}, {"name": "Praia do Peixe", "text": "Îmbrățișând esența rădăcinilor sale de oraș pescăresc, Praia do Peixe din Vila Do Conde se remarcă prin atmosfera sa tradițională și lipsită de pretenții. Acest țărm local oferă o privire intimă asupra culturii maritime zilnice care a modelat regiunea. Timpul petrecut aici implică plimbări liniștite pe malul apei și aprecierea stilului de viață de coastă durabil. Este un loc perfect pentru a încetini ritmul și a savura pur și simplu briza autentică a oceanului.", "category": "recreational", "coords": [-8.762597, 41.374706]}, {"name": "Memorial aos Ex-Combatentes do Ultramar", "text": "Un monument din Vila do Conde care onorează veteranii campaniilor militare din străinătate.", "category": "historical", "coords": [-8.745005, 41.347443]}, {"name": "Aqueduto de Vila do Conde", "text": "Un apeduct istoric cu zeci de arcade care transporta odinioară apa în oraș.", "category": "landmark", "coords": [-8.736557, 41.374224]}, {"name": "Monumento à Rendilheira de Vila do Conde", "text": "Un monument dedicat tradiționalelor dantelărese din Vila do Conde.", "category": "historical", "coords": [-8.741623, 41.350904]}, {"name": "Miúdos e Graúdos", "text": "Un centru de arte culturale din Vila do Conde adresat atât copiilor, cât și adulților.", "category": "cultural", "coords": [-8.755779, 41.375447]}, {"name": "Miradouro", "text": "Un punct de belvedere ce oferă vederi asupra împrejurimilor.", "category": "natural", "coords": [-8.755222, 41.351357]}, {"name": "Street Art \"Pescadores das Caxinas\"", "text": "Artă stradală dedicată pescarilor locali din Caxinas.", "category": "landmark", "coords": [-8.759353, 41.364506]}, {"name": "Padrão aos Mortos da Primeira Guerra Mundial", "text": "Un monument ridicat în cinstea celor căzuți în Primul Război Mondial.", "category": "historical", "coords": [-8.738215, 41.351742]}, {"name": "Padrão da Memória", "text": "Un monument comemorativ situat în Vila do Conde.", "category": "historical", "coords": [-8.75054, 41.341101]}, {"name": "Forcada das Caxinas", "text": "O atracție locală situată în cartierul de pescari Caxinas.", "category": "landmark", "coords": [-8.764812, 41.361307]}, {"name": "Molhe Sul da Barra de Póvoa de Varzim", "text": "Un dig situat în zona portuară de lângă Vila do Conde.", "category": "landmark", "coords": [-8.764828, 41.370047]}, {"name": "Pelourinho de Vila do Conde", "text": "Un stâlp al infamiei istoric, simbol al autorității municipale.", "category": "landmark", "coords": [-8.743456, 41.353935]}, {"name": "Capela de Nossa Senhora da Guia", "text": "O mică capelă la malul mării, dedicată protectoarei navigatorilor.", "category": "religious", "coords": [-8.749597, 41.339873]}, {"name": "Igreja da Lapa", "text": "O biserică istorică cunoscută pentru importanța sa religioasă.", "category": "religious", "coords": [-8.761365, 41.373835]}, {"name": "Igreja de Santa Maria de Azurara", "text": "O biserică importantă în stil gotic-manuelin din Azurara.", "category": "religious", "coords": [-8.735667, 41.344848]}, {"name": "Igreja de Nossa Senhora da Lapa", "text": "Un sit religios din Vila do Conde dedicat Maicii Domnului din Lapa.", "category": "religious", "coords": [-8.737587, 41.359903]}, {"name": "Igreja Matriz de Vila do Conde", "text": "Biserica parohială principală, un exemplu important al stilului manuelin.", "category": "religious", "coords": [-8.742368, 41.353912]}, {"name": "Lago do Parque da Cidade João Paulo II", "text": "Lago do Parque da Cidade João Paulo II este un lac central în Vila Do Conde.", "category": "natural", "coords": [-8.750988, 41.362323]}, {"name": "Lago do Parque da Cidade Póvoa de Varzim", "text": "Acest lac din parcul orașului oferă o atmosferă liniștită în Vila Do Conde.", "category": "natural", "coords": [-8.753727, 41.399607]}, {"name": "Parque Infantil Parque dos Avós", "text": "Parque Infantil Parque dos Avós este un loc pentru distracție intergenerațională în Vila Do Conde.", "category": "family", "coords": [-8.757848, 41.370638]}, {"name": "Parque Infantil das Dalias", "text": "Parque Infantil das Dalias este un loc de joacă fermecător pentru copii în Vila Do Conde.", "category": "family", "coords": [-8.75819, 41.371685]}, {"name": "Parque Infantil das Caxinas", "text": "Parque Infantil das Caxinas oferă joc și distracție pentru familii în Vila Do Conde.", "category": "family", "coords": [-8.75556, 41.366254]}, {"name": "Parque Infantil Poça da Bouça", "text": "Parque Infantil Poça da Bouça este un loc de întâlnire popular pentru familii în Vila Do Conde.", "category": "family", "coords": [-8.753881, 41.365725]}, {"name": "Parque Infantil Dom Pedro IV", "text": "În Parque Infantil Dom Pedro IV, copiii se pot juca în siguranță în Vila Do Conde.", "category": "family", "coords": [-8.755284, 41.371054]}, {"name": "Parque Infantil Dr. João Carneiro de Morais", "text": "Terenul de joacă Dr. João Carneiro de Morais este o facilitate pentru familii în Vila Do Conde.", "category": "family", "coords": [-8.751366, 41.366166]}, {"name": "Parque do Regufe", "text": "Parque do Regufe oferă spațiu de joacă pentru familii în Vila Do Conde.", "category": "family", "coords": [-8.752437, 41.375014]}, {"name": "Parque Infantil B.D.P", "text": "Parque Infantil B.D.P este un loc de joacă local pentru copii în Vila Do Conde.", "category": "family", "coords": [-8.752987, 41.35809]}, {"name": "Pirâmide Escola Primária das Caxinas", "text": "Pirâmide Escola Primária das Caxinas este un echipament de joacă pentru elevi în Vila Do Conde.", "category": "family", "coords": [-8.756434, 41.364572]}, {"name": "Parque Infantil Escola Primária Benguiados", "text": "Acest loc de joacă școlar oferă copiilor din Vila Do Conde spațiu pentru mișcare.", "category": "family", "coords": [-8.748722, 41.361646]}, {"name": "Parque Infantil de Argivai", "text": "Parque Infantil de Argivai este un loc de joacă frumos pentru familii în Vila Do Conde.", "category": "family", "coords": [-8.740882, 41.373767]}], "en": [{"name": "Mosteiro de Santa Clara", "text": "A large historic monastery overlooking the Ave River in Vila do Conde.", "category": "religious", "coords": [-8.739128, 41.352447]}, {"name": "Forte de São João Baptista", "text": "A coastal fortress in Vila do Conde that protected the mouth of the Ave River.", "category": "castle", "coords": [-8.751812, 41.341715]}, {"name": "Centro de Memória", "text": "A museum and cultural center dedicated to the memory and history of Vila do Conde.", "category": "museum", "coords": [-8.741815, 41.357225]}, {"name": "Palacete Melo", "text": "A historic manor house and architectural attraction in Vila do Conde.", "category": "castle", "coords": [-8.750161, 41.352818]}, {"name": "Farol de Regufe", "text": "A distinctive iron lighthouse tower located in Vila do Conde.", "category": "landmark", "coords": [-8.75472, 41.374404]}, {"name": "Farol Barra Rio Ave", "text": "A lighthouse marking the entrance to the Ave River in Vila do Conde.", "category": "landmark", "coords": [-8.749653, 41.336653]}, {"name": "Auditório Municipal de Vila do Conde", "text": "A municipal theatre and auditorium for performances in Vila do Conde.", "category": "cultural", "coords": [-8.741007, 41.351934]}, {"name": "Praia de Árvore", "text": "Nestled in the Árvore district of Vila Do Conde, this picturesque sandy beach provides a delightful escape to the ocean. The environment feels wonderfully relaxed, making it a favorite spot for unhurried days under the Portuguese sun. Families and solo travelers alike can find ample space to swim, play in the sand, or simply rest. A lovely afternoon here is best topped off by watching the sunset color the Atlantic horizon.", "category": "recreational", "coords": [-8.739078, 41.330108]}, {"name": "Azurara Parque Aventura", "text": "An outdoor adventure and theme park located in Vila do Conde.", "category": "family", "coords": [-8.733775, 41.348923]}, {"name": "Farol do Aguilhão", "text": "A lighthouse situated on the coastline of Vila do Conde.", "category": "landmark", "coords": [-8.760587, 41.361261]}, {"name": "Praia das Caxinas", "text": "Located right within the traditional fishing district of Vila Do Conde, Praia das Caxinas merges local life with seaside leisure. A warm and community-focused atmosphere defines this popular stretch of sand. Visitors can expect a genuinely lively setting where sunbathing and refreshing swims are enjoyed alongside the daily rhythm of the coastal town. Mid-morning is an excellent time to secure a good spot on the sand.", "category": "recreational", "coords": [-8.755421, 41.3565]}, {"name": "Alfândega Régia", "text": "A museum located in the historic Royal Customshouse building of Vila do Conde.", "category": "museum", "coords": [-8.74386, 41.350114]}, {"name": "Teatro Municipal de Vila de Conde", "text": "The main municipal theatre venue for arts and performances in Vila do Conde.", "category": "cultural", "coords": [-8.74578, 41.352832]}, {"name": "Centro Ciência Viva", "text": "An interactive science museum located in Vila do Conde.", "category": "museum", "coords": [-8.734156, 41.354419]}, {"name": "Praia do Peixe", "text": "Embracing the essence of its fishing town roots, Praia do Peixe in Vila Do Conde stands out with its unpretentious, traditional vibe. This local shore provides an intimate look into the daily maritime culture that has shaped the region. Spending time here involves quiet walks by the water and appreciating the enduring coastal way of life. It serves as a gentle reminder to slow down and simply enjoy the authentic coastal breeze.", "category": "recreational", "coords": [-8.762597, 41.374706]}, {"name": "Memorial aos Ex-Combatentes do Ultramar", "text": "A monument in Vila do Conde honoring veterans of overseas military campaigns.", "category": "historical", "coords": [-8.745005, 41.347443]}, {"name": "Aqueduto de Vila do Conde", "text": "A historic aqueduct with dozens of arches that once carried water to the city.", "category": "landmark", "coords": [-8.736557, 41.374224]}, {"name": "Monumento à Rendilheira de Vila do Conde", "text": "A monument dedicated to the traditional bobbin lace makers of Vila do Conde.", "category": "historical", "coords": [-8.741623, 41.350904]}, {"name": "Miúdos e Graúdos", "text": "A cultural arts center in Vila do Conde catering to both children and adults.", "category": "cultural", "coords": [-8.755779, 41.375447]}, {"name": "Miradouro", "text": "A viewpoint offering vistas of the surrounding area.", "category": "natural", "coords": [-8.755222, 41.351357]}, {"name": "Street Art \"Pescadores das Caxinas\"", "text": "Urban art dedicated to the local fishermen of Caxinas.", "category": "landmark", "coords": [-8.759353, 41.364506]}, {"name": "Padrão aos Mortos da Primeira Guerra Mundial", "text": "A monument honoring the fallen of the First World War.", "category": "historical", "coords": [-8.738215, 41.351742]}, {"name": "Padrão da Memória", "text": "A commemorative monument located in Vila do Conde.", "category": "historical", "coords": [-8.75054, 41.341101]}, {"name": "Forcada das Caxinas", "text": "A local interest point in the Caxinas fishing district.", "category": "landmark", "coords": [-8.764812, 41.361307]}, {"name": "Molhe Sul da Barra de Póvoa de Varzim", "text": "A breakwater structure near the harbor area of Vila do Conde.", "category": "landmark", "coords": [-8.764828, 41.370047]}, {"name": "Pelourinho de Vila do Conde", "text": "A historic pillory and symbol of municipal authority.", "category": "landmark", "coords": [-8.743456, 41.353935]}, {"name": "Capela de Nossa Senhora da Guia", "text": "A small seaside chapel dedicated to the patron saint of sailors.", "category": "religious", "coords": [-8.749597, 41.339873]}, {"name": "Igreja da Lapa", "text": "A historic church known for its religious significance.", "category": "religious", "coords": [-8.761365, 41.373835]}, {"name": "Igreja de Santa Maria de Azurara", "text": "A significant Gothic-Manueline church located in Azurara.", "category": "religious", "coords": [-8.735667, 41.344848]}, {"name": "Igreja de Nossa Senhora da Lapa", "text": "A religious site in Vila do Conde dedicated to Our Lady of Lapa.", "category": "religious", "coords": [-8.737587, 41.359903]}, {"name": "Igreja Matriz de Vila do Conde", "text": "The main parish church, a significant example of Manueline architecture.", "category": "religious", "coords": [-8.742368, 41.353912]}, {"name": "Lago do Parque da Cidade João Paulo II", "text": "Lago do Parque da Cidade João Paulo II is a central lake in Vila Do Conde.", "category": "natural", "coords": [-8.750988, 41.362323]}, {"name": "Lago do Parque da Cidade Póvoa de Varzim", "text": "This lake in the city park offers a calm atmosphere in Vila Do Conde.", "category": "natural", "coords": [-8.753727, 41.399607]}, {"name": "Parque Infantil Parque dos Avós", "text": "Parque Infantil Parque dos Avós is a place for intergenerational play in Vila Do Conde.", "category": "family", "coords": [-8.757848, 41.370638]}, {"name": "Parque Infantil das Dalias", "text": "Parque Infantil das Dalias is a charming playground for children in Vila Do Conde.", "category": "family", "coords": [-8.75819, 41.371685]}, {"name": "Parque Infantil das Caxinas", "text": "Parque Infantil das Caxinas offers play and fun for families in Vila Do Conde.", "category": "family", "coords": [-8.75556, 41.366254]}, {"name": "Parque Infantil Poça da Bouça", "text": "Parque Infantil Poça da Bouça is a popular meeting point for families in Vila Do Conde.", "category": "family", "coords": [-8.753881, 41.365725]}, {"name": "Parque Infantil Dom Pedro IV", "text": "In Parque Infantil Dom Pedro IV, children can play safely in Vila Do Conde.", "category": "family", "coords": [-8.755284, 41.371054]}, {"name": "Parque Infantil Dr. João Carneiro de Morais", "text": "The Dr. João Carneiro de Morais playground is a family-friendly facility in Vila Do Conde.", "category": "family", "coords": [-8.751366, 41.366166]}, {"name": "Parque do Regufe", "text": "Parque do Regufe offers space for families to play in Vila Do Conde.", "category": "family", "coords": [-8.752437, 41.375014]}, {"name": "Parque Infantil B.D.P", "text": "Parque Infantil B.D.P is a local playground for children in Vila Do Conde.", "category": "family", "coords": [-8.752987, 41.35809]}, {"name": "Pirâmide Escola Primária das Caxinas", "text": "Pirâmide Escola Primária das Caxinas is a play structure for students in Vila Do Conde.", "category": "family", "coords": [-8.756434, 41.364572]}, {"name": "Parque Infantil Escola Primária Benguiados", "text": "This school playground offers children in Vila Do Conde space for physical activity.", "category": "family", "coords": [-8.748722, 41.361646]}, {"name": "Parque Infantil de Argivai", "text": "Parque Infantil de Argivai is a nice play area for families in Vila Do Conde.", "category": "family", "coords": [-8.740882, 41.373767]}]},
+    id: "portugal-vila-do-conde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosteiro de Santa Clara",
+                  "text": "Ein großes historisches Kloster mit Blick auf den Fluss Ave in Vila do Conde.",
+                  "category": "religious",
+                  "coords": [
+                        -8.739128,
+                        41.352447
+                  ]
+            },
+            {
+                  "name": "Forte de São João Baptista",
+                  "text": "Eine Küstenfestung in Vila do Conde, die die Mündung des Flusses Ave schützte.",
+                  "category": "castle",
+                  "coords": [
+                        -8.751812,
+                        41.341715
+                  ]
+            },
+            {
+                  "name": "Centro de Memória",
+                  "text": "Ein Museum und Kulturzentrum, das dem Gedächtnis und der Geschichte von Vila do Conde gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.741815,
+                        41.357225
+                  ]
+            },
+            {
+                  "name": "Palacete Melo",
+                  "text": "Ein historisches Herrenhaus und eine architektonische Sehenswürdigkeit in Vila do Conde.",
+                  "category": "castle",
+                  "coords": [
+                        -8.750161,
+                        41.352818
+                  ]
+            },
+            {
+                  "name": "Farol de Regufe",
+                  "text": "Ein markanter eiserner Leuchtturmturm in Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.75472,
+                        41.374404
+                  ]
+            },
+            {
+                  "name": "Farol Barra Rio Ave",
+                  "text": "Ein Leuchtturm, der den Eingang zum Fluss Ave in Vila do Conde markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.749653,
+                        41.336653
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Vila do Conde",
+                  "text": "Das Städtische Auditorium von Vila do Conde, ein moderner Veranstaltungsort für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.741007,
+                        41.351934
+                  ]
+            },
+            {
+                  "name": "Praia de Árvore",
+                  "text": "Eingebettet im Stadtteil Árvore von Vila do Conde, bietet dieser malerische Sandstrand eine herrliche Flucht ans Meer. Die Umgebung wirkt wunderbar entspannt und macht den Ort zu einem Favoriten für unbeschwerte Tage unter der portugiesischen Sonne. Familien und Alleinreisende finden hier reichlich Platz zum Schwimmen, im Sand spielen oder einfach zum Ausruhen. Ein schöner Nachmittag wird hier am besten gekrönt, indem man den Sonnenuntergang über dem Atlantik beobachtet.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.739078,
+                        41.330108
+                  ]
+            },
+            {
+                  "name": "Azurara Parque Aventura",
+                  "text": "Ein Outdoor-Abenteuer- und Themenpark in Vila do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.733775,
+                        41.348923
+                  ]
+            },
+            {
+                  "name": "Farol do Aguilhão",
+                  "text": "Ein Leuchtturm an der Küste von Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.760587,
+                        41.361261
+                  ]
+            },
+            {
+                  "name": "Praia das Caxinas",
+                  "text": "Direkt im traditionellen Fischerviertel von Vila do Conde gelegen, verbindet die Praia das Caxinas lokales Leben mit maritimer Freizeit. Eine warme, gemeinschaftliche Atmosphäre prägt diesen beliebten Sandstrand. Besucher erwartet eine authentisch belebte Kulisse, in der Sonnenbaden und erfrischendes Schwimmen vom alltäglichen Rhythmus der Küstenstadt begleitet werden. Der späte Vormittag ist eine hervorragende Zeit, um sich einen guten Platz im Sand zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.755421,
+                        41.3565
+                  ]
+            },
+            {
+                  "name": "Alfândega Régia",
+                  "text": "Ein Museum im historischen Gebäude des königlichen Zollamtes von Vila do Conde.",
+                  "category": "museum",
+                  "coords": [
+                        -8.74386,
+                        41.350114
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Vila de Conde",
+                  "text": "Das wichtigste städtische Theater für Kunst und Aufführungen in Vila do Conde.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.74578,
+                        41.352832
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva",
+                  "text": "Ein interaktives Wissenschaftszentrum in Vila do Conde, Teil des Ciência Viva Netzwerks.",
+                  "category": "museum",
+                  "coords": [
+                        -8.734156,
+                        41.354419
+                  ]
+            },
+            {
+                  "name": "Praia do Peixe",
+                  "text": "Die Praia do Peixe in Vila do Conde umarmt das Erbe ihrer Fischertradition und besticht durch eine unprätentiöse, authentische Ausstrahlung. Dieser lokale Uferabschnitt bietet einen intimen Einblick in die maritime Kultur, die diese Region geprägt hat. Die Zeit hier verbringt man am besten mit ruhigen Spaziergängen am Wasser und dem Genießen des bodenständigen Küstenlebens. Der Strand ist ein wunderbarer Ort, um einen Gang zurückzuschalten und die frische Meeresbrise auf sich wirken zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.762597,
+                        41.374706
+                  ]
+            },
+            {
+                  "name": "Memorial aos Ex-Combatentes do Ultramar",
+                  "text": "Ein Denkmal in Vila do Conde zu Ehren der Veteranen überseeischer Militärkampagnen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.745005,
+                        41.347443
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Vila do Conde",
+                  "text": "Ein historisches Aquädukt mit Dutzenden von Bögen, das einst Wasser in die Stadt leitete.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.736557,
+                        41.374224
+                  ]
+            },
+            {
+                  "name": "Monumento à Rendilheira de Vila do Conde",
+                  "text": "Ein Denkmal, das den traditionellen Klöppelspitzenmacherinnen von Vila do Conde gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.741623,
+                        41.350904
+                  ]
+            },
+            {
+                  "name": "Miúdos e Graúdos",
+                  "text": "Ein Kultur- und Kunstzentrum in Vila do Conde für Kinder und Erwachsene.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.755779,
+                        41.375447
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Ein Aussichtspunkt in Vila do Conde mit Blick über die Mündung des Flusses Ave.",
+                  "category": "natural",
+                  "coords": [
+                        -8.755222,
+                        41.351357
+                  ]
+            },
+            {
+                  "name": "Street Art \"Pescadores das Caxinas\"",
+                  "text": "Ein Wandbild mit Fischern von Caxinas in Vila do Conde, ein großflächiges Street-Art-Werk.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.759353,
+                        41.364506
+                  ]
+            },
+            {
+                  "name": "Padrão aos Mortos da Primeira Guerra Mundial",
+                  "text": "Ein Denkmal für die Gefallenen des Ersten Weltkriegs, enthüllt am 10. April 1932 in Vila do Conde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.738215,
+                        41.351742
+                  ]
+            },
+            {
+                  "name": "Padrão da Memória",
+                  "text": "Ein Gedenkstein in Vila do Conde, errichtet zur Erinnerung an historische Ereignisse.",
+                  "category": "historical",
+                  "coords": [
+                        -8.75054,
+                        41.341101
+                  ]
+            },
+            {
+                  "name": "Forcada das Caxinas",
+                  "text": "Eine lokale Sehenswürdigkeit im Fischerviertel Caxinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764812,
+                        41.361307
+                  ]
+            },
+            {
+                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
+                  "text": "Eine Mole am Hafenbereich zwischen Póvoa de Varzim und Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764828,
+                        41.370047
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Vila do Conde",
+                  "text": "Ein historischer Pranger und Wahrzeichen der städtischen Gerichtsbarkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.743456,
+                        41.353935
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Guia",
+                  "text": "Eine kleine Kapelle am Meer, die der Schutzpatronin der Seefahrer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.749597,
+                        41.339873
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "Eine historische Kirche, die für ihre religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.761365,
+                        41.373835
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Maria de Azurara",
+                  "text": "Eine bedeutende Kirche im gotischen Manuelinik-Stil in Azurara.",
+                  "category": "religious",
+                  "coords": [
+                        -8.735667,
+                        41.344848
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Lapa",
+                  "text": "Ein religiöser Ort in Vila do Conde, der Unserer Lieben Frau von Lapa gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.737587,
+                        41.359903
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Vila do Conde",
+                  "text": "Die Hauptpfarrkirche der Stadt, ein bedeutendes Beispiel der Manuelinik.",
+                  "category": "religious",
+                  "coords": [
+                        -8.742368,
+                        41.353912
+                  ]
+            },
+            {
+                  "name": "Lago do Parque da Cidade João Paulo II",
+                  "text": "Ein See im João Paulo II. Stadtpark in Vila do Conde, zentrales Element der Grünanlage.",
+                  "category": "natural",
+                  "coords": [
+                        -8.750988,
+                        41.362323
+                  ]
+            },
+            {
+                  "name": "Lago do Parque da Cidade Póvoa de Varzim",
+                  "text": "Dieser See im Stadtpark bietet eine ruhige Atmosphäre in Vila Do Conde.",
+                  "category": "natural",
+                  "coords": [
+                        -8.753727,
+                        41.399607
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Parque dos Avós",
+                  "text": "Ein Kinderspielplatz im Avós-Park in Vila do Conde mit traditionellen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        -8.757848,
+                        41.370638
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Dalias",
+                  "text": "Ein Spielplatz im Dalias-Viertel von Vila do Conde, für Kleinkinder gestaltet.",
+                  "category": "family",
+                  "coords": [
+                        -8.75819,
+                        41.371685
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Caxinas",
+                  "text": "Der Parque Infantil das Caxinas bietet Spiel und Spaß für Familien in Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.75556,
+                        41.366254
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Poça da Bouça",
+                  "text": "Der Parque Infantil Poça da Bouça ist ein beliebter Treffpunkt für Familien in Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.753881,
+                        41.365725
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dom Pedro IV",
+                  "text": "Im Parque Infantil Dom Pedro IV können Kinder in Vila Do Conde sicher spielen.",
+                  "category": "family",
+                  "coords": [
+                        -8.755284,
+                        41.371054
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dr. João Carneiro de Morais",
+                  "text": "Ein Spielplatz benannt nach Dr. João Carneiro de Morais in Vila do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.751366,
+                        41.366166
+                  ]
+            },
+            {
+                  "name": "Parque do Regufe",
+                  "text": "Der Parque do Regufe bietet Platz zum Austoben für Familien in Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.752437,
+                        41.375014
+                  ]
+            },
+            {
+                  "name": "Parque Infantil B.D.P",
+                  "text": "Ein Spielplatz im Gebiet B.D.P. in Vila do Conde, für die lokale Gemeinschaft.",
+                  "category": "family",
+                  "coords": [
+                        -8.752987,
+                        41.35809
+                  ]
+            },
+            {
+                  "name": "Pirâmide Escola Primária das Caxinas",
+                  "text": "Pyramidenförmige Grundschule in Vila do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.756434,
+                        41.364572
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Escola Primária Benguiados",
+                  "text": "Dieser Schulspielplatz bietet Kindern in Vila Do Conde Raum für Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        -8.748722,
+                        41.361646
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Argivai",
+                  "text": "Der Parque Infantil de Argivai ist eine schöne Spielstätte für Familien in Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.740882,
+                        41.373767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosteiro de Santa Clara",
+                  "text": "Nagy történelmi kolostor Vila do Condében, amely az Ave folyóra néz.",
+                  "category": "religious",
+                  "coords": [
+                        -8.739128,
+                        41.352447
+                  ]
+            },
+            {
+                  "name": "Forte de São João Baptista",
+                  "text": "Partmenti erőd Vila do Condében, amely az Ave folyó torkolatát védte.",
+                  "category": "castle",
+                  "coords": [
+                        -8.751812,
+                        41.341715
+                  ]
+            },
+            {
+                  "name": "Centro de Memória",
+                  "text": "Múzeum és kulturális központ, amelyet Vila do Conde emlékezetének és történelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -8.741815,
+                        41.357225
+                  ]
+            },
+            {
+                  "name": "Palacete Melo",
+                  "text": "Történelmi udvarház és építészeti látványosság Vila do Condében.",
+                  "category": "castle",
+                  "coords": [
+                        -8.750161,
+                        41.352818
+                  ]
+            },
+            {
+                  "name": "Farol de Regufe",
+                  "text": "Jellegzetes vas világítótorony Vila do Condében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.75472,
+                        41.374404
+                  ]
+            },
+            {
+                  "name": "Farol Barra Rio Ave",
+                  "text": "Az Ave folyó bejáratát jelző világítótorony Vila do Condében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.749653,
+                        41.336653
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Vila do Conde",
+                  "text": "Vila do Conde Városi Auditóriuma, modern előadóhelyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.741007,
+                        41.351934
+                  ]
+            },
+            {
+                  "name": "Praia de Árvore",
+                  "text": "A Vila do Conde Árvore negyedében megbúvó festői homokos strand csodálatos menedéket nyújt az óceán partján. A környezet csodálatosan nyugodt, így tökéletes helyszín a portugál nap alatti gondtalan napok eltöltéséhez. A családok és az egyedül utazók egyaránt bőséges teret találnak itt az úszáshoz, a homokozáshoz vagy a pihenéshez. Egy itt töltött kellemes délutánt leginkább az Atlanti-óceán feletti naplemente megtekintésével érdemes megkoronázni.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.739078,
+                        41.330108
+                  ]
+            },
+            {
+                  "name": "Azurara Parque Aventura",
+                  "text": "Szabadtéri kaland- és vidámpark Vila do Condében.",
+                  "category": "family",
+                  "coords": [
+                        -8.733775,
+                        41.348923
+                  ]
+            },
+            {
+                  "name": "Farol do Aguilhão",
+                  "text": "Világítótorony Vila do Conde tengerpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.760587,
+                        41.361261
+                  ]
+            },
+            {
+                  "name": "Praia das Caxinas",
+                  "text": "A Vila do Conde hagyományos halásznegyedében található Praia das Caxinas a helyi életet ötvözi a tengerparti pihenéssel. Ezt a népszerű homokos partot meleg, közösségközpontú légkör jellemzi. A látogatók egy igazán élénk környezetre számíthatnak, ahol a napozást és a frissítő fürdőzést a tengerparti kisváros mindennapi ritmusa kíséri. A délelőtt közepe kiváló időpont arra, hogy jó helyet biztosítsunk magunknak a homokban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.755421,
+                        41.3565
+                  ]
+            },
+            {
+                  "name": "Alfândega Régia",
+                  "text": "Múzeum Vila do Conde történelmi királyi vámházának épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -8.74386,
+                        41.350114
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Vila de Conde",
+                  "text": "Vila do Conde fő városi színháza művészeti előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.74578,
+                        41.352832
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva",
+                  "text": "Interaktív tudományos központ Vila do Conde-ban, a Ciência Viva hálózat része.",
+                  "category": "museum",
+                  "coords": [
+                        -8.734156,
+                        41.354419
+                  ]
+            },
+            {
+                  "name": "Praia do Peixe",
+                  "text": "A halászvárosi gyökereket magába foglaló Praia do Peixe Vila do Conde városában szerény, hagyományos hangulatával tűnik ki. Ez a helyi partszakasz meghitt bepillantást nyújt abba a mindennapi tengeri kultúrába, amely a régiót formálta. Az itt töltött időt leginkább a vízparti csendes séták és a partszakasz életmódjának értékelése jelenti. Kellemes emlékeztető arra, hogy lassítsunk le, és egyszerűen csak élvezzük az autentikus tengerparti szellőt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.762597,
+                        41.374706
+                  ]
+            },
+            {
+                  "name": "Memorial aos Ex-Combatentes do Ultramar",
+                  "text": "Emlékmű Vila do Condében a tengerentúli hadjáratok veteránjainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -8.745005,
+                        41.347443
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Vila do Conde",
+                  "text": "Történelmi vízvezeték több tucat ívvel, amely egykor vizet szállított a városba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.736557,
+                        41.374224
+                  ]
+            },
+            {
+                  "name": "Monumento à Rendilheira de Vila do Conde",
+                  "text": "Vila do Conde hagyományos csipkeverőinek szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -8.741623,
+                        41.350904
+                  ]
+            },
+            {
+                  "name": "Miúdos e Graúdos",
+                  "text": "Kulturális művészeti központ Vila do Condében gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.755779,
+                        41.375447
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Kilátó Vila do Conde-ban, rálátással az Ave folyó torkolatára.",
+                  "category": "natural",
+                  "coords": [
+                        -8.755222,
+                        41.351357
+                  ]
+            },
+            {
+                  "name": "Street Art \"Pescadores das Caxinas\"",
+                  "text": "Falfestmény a caxinasi halászokról Vila do Conde-ban, nagyméretű utcai művészeti alkotás.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.759353,
+                        41.364506
+                  ]
+            },
+            {
+                  "name": "Padrão aos Mortos da Primeira Guerra Mundial",
+                  "text": "Az első világháború halottainak emlékműve, 1932. április 10-én leleplezve Vila do Conde-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.738215,
+                        41.351742
+                  ]
+            },
+            {
+                  "name": "Padrão da Memória",
+                  "text": "Emlékkő Vila do Conde-ban, történelmi események emlékére állítva.",
+                  "category": "historical",
+                  "coords": [
+                        -8.75054,
+                        41.341101
+                  ]
+            },
+            {
+                  "name": "Forcada das Caxinas",
+                  "text": "Helyi látnivaló Caxinas halásznegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764812,
+                        41.361307
+                  ]
+            },
+            {
+                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
+                  "text": "Gát a kikötőnél Póvoa de Varzim és Vila do Conde határán.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764828,
+                        41.370047
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Vila do Conde",
+                  "text": "Történelmi szégyenoszlop, amely a városi önkormányzat jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.743456,
+                        41.353935
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Guia",
+                  "text": "Kisméretű tengerparti kápolna, amelyet a tengerészek védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.749597,
+                        41.339873
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "Történelmi templom, amely vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.761365,
+                        41.373835
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Maria de Azurara",
+                  "text": "Jelentős gótikus-ánuelei stílusú templom Azurarában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.735667,
+                        41.344848
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Lapa",
+                  "text": "Vila do Conde egyik vallási helyszíne, amelyet a Lapai Szűzanyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.737587,
+                        41.359903
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Vila do Conde",
+                  "text": "A város főplébániatemploma, a manuelin stílus kiemelkedő példája.",
+                  "category": "religious",
+                  "coords": [
+                        -8.742368,
+                        41.353912
+                  ]
+            },
+            {
+                  "name": "Lago do Parque da Cidade João Paulo II",
+                  "text": "Tó a João Paulo II. Városi Parkban Vila do Conde-ban, a zöldterület központi eleme.",
+                  "category": "natural",
+                  "coords": [
+                        -8.750988,
+                        41.362323
+                  ]
+            },
+            {
+                  "name": "Lago do Parque da Cidade Póvoa de Varzim",
+                  "text": "Ez a városi parkban található tó nyugodt légkört biztosít Vila Do Conde-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -8.753727,
+                        41.399607
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Parque dos Avós",
+                  "text": "Gyermekjátszótér az Avós Parkban Vila do Conde-ban, hagyományos játékeszközökkel.",
+                  "category": "family",
+                  "coords": [
+                        -8.757848,
+                        41.370638
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Dalias",
+                  "text": "Játszótér Vila do Conde Dalias negyedében, kisgyermekek számára kialakítva.",
+                  "category": "family",
+                  "coords": [
+                        -8.75819,
+                        41.371685
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Caxinas",
+                  "text": "A Parque Infantil das Caxinas játékot és szórakozást kínál a családoknak Vila Do Conde-ban.",
+                  "category": "family",
+                  "coords": [
+                        -8.75556,
+                        41.366254
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Poça da Bouça",
+                  "text": "A Parque Infantil Poça da Bouça népszerű találkozóhely a családok számára Vila Do Conde-ban.",
+                  "category": "family",
+                  "coords": [
+                        -8.753881,
+                        41.365725
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dom Pedro IV",
+                  "text": "A Parque Infantil Dom Pedro IV területén a gyerekek biztonságban játszhatnak Vila Do Conde-ban.",
+                  "category": "family",
+                  "coords": [
+                        -8.755284,
+                        41.371054
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dr. João Carneiro de Morais",
+                  "text": "Játszótér Dr. João Carneiro de Moraisról elnevezve Vila do Conde-ban.",
+                  "category": "family",
+                  "coords": [
+                        -8.751366,
+                        41.366166
+                  ]
+            },
+            {
+                  "name": "Parque do Regufe",
+                  "text": "A Parque do Regufe helyet biztosít a családoknak a kikapcsolódáshoz Vila Do Conde-ban.",
+                  "category": "family",
+                  "coords": [
+                        -8.752437,
+                        41.375014
+                  ]
+            },
+            {
+                  "name": "Parque Infantil B.D.P",
+                  "text": "Játszótér a B.D.P. területen Vila do Conde-ban, a helyi közösség számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.752987,
+                        41.35809
+                  ]
+            },
+            {
+                  "name": "Pirâmide Escola Primária das Caxinas",
+                  "text": "Piramis alakú általános iskola Vila do Conde-ban.",
+                  "category": "family",
+                  "coords": [
+                        -8.756434,
+                        41.364572
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Escola Primária Benguiados",
+                  "text": "Ez az iskolai játszótér mozgási lehetőséget biztosít a gyerekeknek Vila Do Conde-ban.",
+                  "category": "family",
+                  "coords": [
+                        -8.748722,
+                        41.361646
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Argivai",
+                  "text": "A Parque Infantil de Argivai egy szép játszótér családoknak Vila Do Conde-ban.",
+                  "category": "family",
+                  "coords": [
+                        -8.740882,
+                        41.373767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosteiro de Santa Clara",
+                  "text": "O mănăstire istorică mare, cu vedere la râul Ave, în Vila do Conde.",
+                  "category": "religious",
+                  "coords": [
+                        -8.739128,
+                        41.352447
+                  ]
+            },
+            {
+                  "name": "Forte de São João Baptista",
+                  "text": "O cetate de coastă din Vila do Conde care proteja gura râului Ave.",
+                  "category": "castle",
+                  "coords": [
+                        -8.751812,
+                        41.341715
+                  ]
+            },
+            {
+                  "name": "Centro de Memória",
+                  "text": "Un muzeu și centru cultural dedicat memoriei și istoriei orașului Vila do Conde.",
+                  "category": "museum",
+                  "coords": [
+                        -8.741815,
+                        41.357225
+                  ]
+            },
+            {
+                  "name": "Palacete Melo",
+                  "text": "Un conac istoric și o atracție arhitecturală în Vila do Conde.",
+                  "category": "castle",
+                  "coords": [
+                        -8.750161,
+                        41.352818
+                  ]
+            },
+            {
+                  "name": "Farol de Regufe",
+                  "text": "Un turn de far din fier distinctiv situat în Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.75472,
+                        41.374404
+                  ]
+            },
+            {
+                  "name": "Farol Barra Rio Ave",
+                  "text": "Un far care marchează intrarea în râul Ave în Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.749653,
+                        41.336653
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Vila do Conde",
+                  "text": "Auditoriul Municipal din Vila do Conde, un spațiu modern pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.741007,
+                        41.351934
+                  ]
+            },
+            {
+                  "name": "Praia de Árvore",
+                  "text": "Ascunsă în districtul Árvore din Vila Do Conde, această plajă pitorească de nisip oferă o evadare minunată la ocean. Mediul este incredibil de relaxat, transformând locul într-un favorit pentru zile fără griji sub soarele portughez. Familiile și călătorii solitari deopotrivă găsesc aici spațiu amplu pentru a înota, a se juca în nisip sau pur și simplu pentru a se odihni. O după-amiază superbă aici se încheie cel mai bine admirând apusul deasupra orizontului Atlanticului.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.739078,
+                        41.330108
+                  ]
+            },
+            {
+                  "name": "Azurara Parque Aventura",
+                  "text": "Un parc de aventură în aer liber și parc tematic situat în Vila do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.733775,
+                        41.348923
+                  ]
+            },
+            {
+                  "name": "Farol do Aguilhão",
+                  "text": "Un far situat pe linia de coastă a orașului Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.760587,
+                        41.361261
+                  ]
+            },
+            {
+                  "name": "Praia das Caxinas",
+                  "text": "Situată chiar în cartierul tradițional de pescari din Vila Do Conde, Praia das Caxinas îmbină viața locală cu relaxarea la malul mării. O atmosferă caldă, centrată pe comunitate, definește această porțiune populară de nisip. Vizitatorii se pot aștepta la un cadru cu adevărat plin de viață, unde băile de soare și înotul revigorant se desfășoară în ritmul zilnic al orașului de coastă. Dimineața târziu este un moment excelent pentru a asigura un loc bun pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.755421,
+                        41.3565
+                  ]
+            },
+            {
+                  "name": "Alfândega Régia",
+                  "text": "Un muzeu situat în clădirea istorică a Vămii Regale din Vila do Conde.",
+                  "category": "museum",
+                  "coords": [
+                        -8.74386,
+                        41.350114
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Vila de Conde",
+                  "text": "Principala sală de teatru municipală pentru arte și spectacole din Vila do Conde.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.74578,
+                        41.352832
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva",
+                  "text": "Un centru științific interactiv în Vila do Conde, parte a rețelei Ciência Viva.",
+                  "category": "museum",
+                  "coords": [
+                        -8.734156,
+                        41.354419
+                  ]
+            },
+            {
+                  "name": "Praia do Peixe",
+                  "text": "Îmbrățișând esența rădăcinilor sale de oraș pescăresc, Praia do Peixe din Vila Do Conde se remarcă prin atmosfera sa tradițională și lipsită de pretenții. Acest țărm local oferă o privire intimă asupra culturii maritime zilnice care a modelat regiunea. Timpul petrecut aici implică plimbări liniștite pe malul apei și aprecierea stilului de viață de coastă durabil. Este un loc perfect pentru a încetini ritmul și a savura pur și simplu briza autentică a oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.762597,
+                        41.374706
+                  ]
+            },
+            {
+                  "name": "Memorial aos Ex-Combatentes do Ultramar",
+                  "text": "Un monument din Vila do Conde care onorează veteranii campaniilor militare din străinătate.",
+                  "category": "historical",
+                  "coords": [
+                        -8.745005,
+                        41.347443
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Vila do Conde",
+                  "text": "Un apeduct istoric cu zeci de arcade care transporta odinioară apa în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.736557,
+                        41.374224
+                  ]
+            },
+            {
+                  "name": "Monumento à Rendilheira de Vila do Conde",
+                  "text": "Un monument dedicat tradiționalelor dantelărese din Vila do Conde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.741623,
+                        41.350904
+                  ]
+            },
+            {
+                  "name": "Miúdos e Graúdos",
+                  "text": "Un centru de arte culturale din Vila do Conde adresat atât copiilor, cât și adulților.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.755779,
+                        41.375447
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Un punct de belvedere în Vila do Conde, cu vedere asupra estuarului râului Ave.",
+                  "category": "natural",
+                  "coords": [
+                        -8.755222,
+                        41.351357
+                  ]
+            },
+            {
+                  "name": "Street Art \"Pescadores das Caxinas\"",
+                  "text": "Un mural cu pescari din Caxinas în Vila do Conde, o lucrare de artă stradală la scară mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.759353,
+                        41.364506
+                  ]
+            },
+            {
+                  "name": "Padrão aos Mortos da Primeira Guerra Mundial",
+                  "text": "Un monument pentru morții Primului Război Mondial, dezvelit la 10 aprilie 1932 în Vila do Conde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.738215,
+                        41.351742
+                  ]
+            },
+            {
+                  "name": "Padrão da Memória",
+                  "text": "Un memorial în Vila do Conde, ridicat în memoria evenimentelor istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -8.75054,
+                        41.341101
+                  ]
+            },
+            {
+                  "name": "Forcada das Caxinas",
+                  "text": "O atracție locală situată în cartierul de pescari Caxinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764812,
+                        41.361307
+                  ]
+            },
+            {
+                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
+                  "text": "Un dig situat în zona portuară de lângă Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764828,
+                        41.370047
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Vila do Conde",
+                  "text": "Un stâlp al infamiei istoric, simbol al autorității municipale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.743456,
+                        41.353935
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Guia",
+                  "text": "O mică capelă la malul mării, dedicată protectoarei navigatorilor.",
+                  "category": "religious",
+                  "coords": [
+                        -8.749597,
+                        41.339873
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "O biserică istorică cunoscută pentru importanța sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -8.761365,
+                        41.373835
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Maria de Azurara",
+                  "text": "O biserică importantă în stil gotic-manuelin din Azurara.",
+                  "category": "religious",
+                  "coords": [
+                        -8.735667,
+                        41.344848
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Lapa",
+                  "text": "Un sit religios din Vila do Conde dedicat Maicii Domnului din Lapa.",
+                  "category": "religious",
+                  "coords": [
+                        -8.737587,
+                        41.359903
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Vila do Conde",
+                  "text": "Biserica parohială principală, un exemplu important al stilului manuelin.",
+                  "category": "religious",
+                  "coords": [
+                        -8.742368,
+                        41.353912
+                  ]
+            },
+            {
+                  "name": "Lago do Parque da Cidade João Paulo II",
+                  "text": "Un lac în Parcul Orășenesc João Paulo II din Vila do Conde, element central al spațiului verde.",
+                  "category": "natural",
+                  "coords": [
+                        -8.750988,
+                        41.362323
+                  ]
+            },
+            {
+                  "name": "Lago do Parque da Cidade Póvoa de Varzim",
+                  "text": "Acest lac din parcul orașului oferă o atmosferă liniștită în Vila Do Conde.",
+                  "category": "natural",
+                  "coords": [
+                        -8.753727,
+                        41.399607
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Parque dos Avós",
+                  "text": "Un loc de joacă pentru copii în Parcul Avós din Vila do Conde, cu echipamente tradiționale de joacă.",
+                  "category": "family",
+                  "coords": [
+                        -8.757848,
+                        41.370638
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Dalias",
+                  "text": "Un loc de joacă în cartierul Dalias din Vila do Conde, amenajat pentru copii mici.",
+                  "category": "family",
+                  "coords": [
+                        -8.75819,
+                        41.371685
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Caxinas",
+                  "text": "Parque Infantil das Caxinas oferă joc și distracție pentru familii în Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.75556,
+                        41.366254
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Poça da Bouça",
+                  "text": "Parque Infantil Poça da Bouça este un loc de întâlnire popular pentru familii în Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.753881,
+                        41.365725
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dom Pedro IV",
+                  "text": "În Parque Infantil Dom Pedro IV, copiii se pot juca în siguranță în Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.755284,
+                        41.371054
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dr. João Carneiro de Morais",
+                  "text": "Un loc de joacă numit după Dr. João Carneiro de Morais în Vila do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.751366,
+                        41.366166
+                  ]
+            },
+            {
+                  "name": "Parque do Regufe",
+                  "text": "Parque do Regufe oferă spațiu de joacă pentru familii în Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.752437,
+                        41.375014
+                  ]
+            },
+            {
+                  "name": "Parque Infantil B.D.P",
+                  "text": "Un loc de joacă în zona B.D.P. din Vila do Conde, pentru comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        -8.752987,
+                        41.35809
+                  ]
+            },
+            {
+                  "name": "Pirâmide Escola Primária das Caxinas",
+                  "text": "Școală primară în formă de piramidă în Vila do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.756434,
+                        41.364572
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Escola Primária Benguiados",
+                  "text": "Acest loc de joacă școlar oferă copiilor din Vila Do Conde spațiu pentru mișcare.",
+                  "category": "family",
+                  "coords": [
+                        -8.748722,
+                        41.361646
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Argivai",
+                  "text": "Parque Infantil de Argivai este un loc de joacă frumos pentru familii în Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.740882,
+                        41.373767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosteiro de Santa Clara",
+                  "text": "A large historic monastery overlooking the Ave River in Vila do Conde.",
+                  "category": "religious",
+                  "coords": [
+                        -8.739128,
+                        41.352447
+                  ]
+            },
+            {
+                  "name": "Forte de São João Baptista",
+                  "text": "A coastal fortress in Vila do Conde that protected the mouth of the Ave River.",
+                  "category": "castle",
+                  "coords": [
+                        -8.751812,
+                        41.341715
+                  ]
+            },
+            {
+                  "name": "Centro de Memória",
+                  "text": "A museum and cultural center dedicated to the memory and history of Vila do Conde.",
+                  "category": "museum",
+                  "coords": [
+                        -8.741815,
+                        41.357225
+                  ]
+            },
+            {
+                  "name": "Palacete Melo",
+                  "text": "A historic manor house and architectural attraction in Vila do Conde.",
+                  "category": "castle",
+                  "coords": [
+                        -8.750161,
+                        41.352818
+                  ]
+            },
+            {
+                  "name": "Farol de Regufe",
+                  "text": "A distinctive iron lighthouse tower located in Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.75472,
+                        41.374404
+                  ]
+            },
+            {
+                  "name": "Farol Barra Rio Ave",
+                  "text": "A lighthouse marking the entrance to the Ave River in Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.749653,
+                        41.336653
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Vila do Conde",
+                  "text": "The municipal auditorium of Vila do Conde, a modern venue for performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.741007,
+                        41.351934
+                  ]
+            },
+            {
+                  "name": "Praia de Árvore",
+                  "text": "Nestled in the Árvore district of Vila Do Conde, this picturesque sandy beach provides a delightful escape to the ocean. The environment feels wonderfully relaxed, making it a favorite spot for unhurried days under the Portuguese sun. Families and solo travelers alike can find ample space to swim, play in the sand, or simply rest. A lovely afternoon here is best topped off by watching the sunset color the Atlantic horizon.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.739078,
+                        41.330108
+                  ]
+            },
+            {
+                  "name": "Azurara Parque Aventura",
+                  "text": "An outdoor adventure and theme park located in Vila do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.733775,
+                        41.348923
+                  ]
+            },
+            {
+                  "name": "Farol do Aguilhão",
+                  "text": "A lighthouse situated on the coastline of Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.760587,
+                        41.361261
+                  ]
+            },
+            {
+                  "name": "Praia das Caxinas",
+                  "text": "Located right within the traditional fishing district of Vila Do Conde, Praia das Caxinas merges local life with seaside leisure. A warm and community-focused atmosphere defines this popular stretch of sand. Visitors can expect a genuinely lively setting where sunbathing and refreshing swims are enjoyed alongside the daily rhythm of the coastal town. Mid-morning is an excellent time to secure a good spot on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.755421,
+                        41.3565
+                  ]
+            },
+            {
+                  "name": "Alfândega Régia",
+                  "text": "A museum located in the historic Royal Customshouse building of Vila do Conde.",
+                  "category": "museum",
+                  "coords": [
+                        -8.74386,
+                        41.350114
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Vila de Conde",
+                  "text": "The main municipal theatre venue for arts and performances in Vila do Conde.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.74578,
+                        41.352832
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva",
+                  "text": "A hands-on science centre in Vila do Conde, part of the Ciência Viva network.",
+                  "category": "museum",
+                  "coords": [
+                        -8.734156,
+                        41.354419
+                  ]
+            },
+            {
+                  "name": "Praia do Peixe",
+                  "text": "Embracing the essence of its fishing town roots, Praia do Peixe in Vila Do Conde stands out with its unpretentious, traditional vibe. This local shore provides an intimate look into the daily maritime culture that has shaped the region. Spending time here involves quiet walks by the water and appreciating the enduring coastal way of life. It serves as a gentle reminder to slow down and simply enjoy the authentic coastal breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.762597,
+                        41.374706
+                  ]
+            },
+            {
+                  "name": "Memorial aos Ex-Combatentes do Ultramar",
+                  "text": "A monument in Vila do Conde honoring veterans of overseas military campaigns.",
+                  "category": "historical",
+                  "coords": [
+                        -8.745005,
+                        41.347443
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Vila do Conde",
+                  "text": "A historic aqueduct with dozens of arches that once carried water to the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.736557,
+                        41.374224
+                  ]
+            },
+            {
+                  "name": "Monumento à Rendilheira de Vila do Conde",
+                  "text": "A monument dedicated to the traditional bobbin lace makers of Vila do Conde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.741623,
+                        41.350904
+                  ]
+            },
+            {
+                  "name": "Miúdos e Graúdos",
+                  "text": "A cultural arts center in Vila do Conde catering to both children and adults.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.755779,
+                        41.375447
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "A viewpoint in Vila do Conde overlooking the Ave River estuary.",
+                  "category": "natural",
+                  "coords": [
+                        -8.755222,
+                        41.351357
+                  ]
+            },
+            {
+                  "name": "Street Art \"Pescadores das Caxinas\"",
+                  "text": "A mural depicting fishermen from Caxinas in Vila do Conde, a large-scale street art piece.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.759353,
+                        41.364506
+                  ]
+            },
+            {
+                  "name": "Padrão aos Mortos da Primeira Guerra Mundial",
+                  "text": "A monument to the dead of the First World War, unveiled on 10 April 1932 in Vila do Conde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.738215,
+                        41.351742
+                  ]
+            },
+            {
+                  "name": "Padrão da Memória",
+                  "text": "A memorial pillar in Vila do Conde, erected to commemorate historical events.",
+                  "category": "historical",
+                  "coords": [
+                        -8.75054,
+                        41.341101
+                  ]
+            },
+            {
+                  "name": "Forcada das Caxinas",
+                  "text": "A local interest point in the Caxinas fishing district.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764812,
+                        41.361307
+                  ]
+            },
+            {
+                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
+                  "text": "A breakwater structure near the harbor area of Vila do Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.764828,
+                        41.370047
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Vila do Conde",
+                  "text": "A historic pillory and symbol of municipal authority.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.743456,
+                        41.353935
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Guia",
+                  "text": "A small seaside chapel dedicated to the patron saint of sailors.",
+                  "category": "religious",
+                  "coords": [
+                        -8.749597,
+                        41.339873
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "A historic church known for its religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        -8.761365,
+                        41.373835
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Maria de Azurara",
+                  "text": "A significant Gothic-Manueline church located in Azurara.",
+                  "category": "religious",
+                  "coords": [
+                        -8.735667,
+                        41.344848
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Lapa",
+                  "text": "A religious site in Vila do Conde dedicated to Our Lady of Lapa.",
+                  "category": "religious",
+                  "coords": [
+                        -8.737587,
+                        41.359903
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Vila do Conde",
+                  "text": "The main parish church, a significant example of Manueline architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -8.742368,
+                        41.353912
+                  ]
+            },
+            {
+                  "name": "Lago do Parque da Cidade João Paulo II",
+                  "text": "A lake in the City Park João Paulo II in Vila do Conde, a central feature of the green space.",
+                  "category": "natural",
+                  "coords": [
+                        -8.750988,
+                        41.362323
+                  ]
+            },
+            {
+                  "name": "Lago do Parque da Cidade Póvoa de Varzim",
+                  "text": "This lake in the city park offers a calm atmosphere in Vila Do Conde.",
+                  "category": "natural",
+                  "coords": [
+                        -8.753727,
+                        41.399607
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Parque dos Avós",
+                  "text": "A children's playground in the Avós Park in Vila do Conde, with traditional play equipment.",
+                  "category": "family",
+                  "coords": [
+                        -8.757848,
+                        41.370638
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Dalias",
+                  "text": "A playground in the Dalias district of Vila do Conde, designed for young children.",
+                  "category": "family",
+                  "coords": [
+                        -8.75819,
+                        41.371685
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Caxinas",
+                  "text": "Parque Infantil das Caxinas offers play and fun for families in Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.75556,
+                        41.366254
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Poça da Bouça",
+                  "text": "Parque Infantil Poça da Bouça is a popular meeting point for families in Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.753881,
+                        41.365725
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dom Pedro IV",
+                  "text": "In Parque Infantil Dom Pedro IV, children can play safely in Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.755284,
+                        41.371054
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Dr. João Carneiro de Morais",
+                  "text": "A playground named after Dr. João Carneiro de Morais in Vila do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.751366,
+                        41.366166
+                  ]
+            },
+            {
+                  "name": "Parque do Regufe",
+                  "text": "Parque do Regufe offers space for families to play in Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.752437,
+                        41.375014
+                  ]
+            },
+            {
+                  "name": "Parque Infantil B.D.P",
+                  "text": "A playground in the B.D.P. area of Vila do Conde, for the local community.",
+                  "category": "family",
+                  "coords": [
+                        -8.752987,
+                        41.35809
+                  ]
+            },
+            {
+                  "name": "Pirâmide Escola Primária das Caxinas",
+                  "text": "Pyramid-shaped primary school in Vila do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.756434,
+                        41.364572
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Escola Primária Benguiados",
+                  "text": "This school playground offers children in Vila Do Conde space for physical activity.",
+                  "category": "family",
+                  "coords": [
+                        -8.748722,
+                        41.361646
+                  ]
+            },
+            {
+                  "name": "Parque Infantil de Argivai",
+                  "text": "Parque Infantil de Argivai is a nice play area for families in Vila Do Conde.",
+                  "category": "family",
+                  "coords": [
+                        -8.740882,
+                        41.373767
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Vila do Conde", hu: "Vila do Conde", ro: "Vila do Conde", en: "Vila do Conde" },
@@ -16910,7 +18908,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal do Entroncamento",
-                  "text": "Das Rathaus von Entroncamento ist der Sitz der lokalen Stadtverwaltung.",
+                  "text": "Das ehemalige Rathaus von Entroncamento, ein Beispiel früher 20. Jahrhundert Architektur.",
                   "category": "historical",
                   "coords": [
                         -8.468164,
@@ -16948,7 +18946,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal do Entroncamento",
-                  "text": "Entroncamento városházája a helyi önkormányzat központi épülete.",
+                  "text": "Entroncamento egykori városházája, a 20. század eleji építészet példája.",
                   "category": "historical",
                   "coords": [
                         -8.468164,
@@ -16986,7 +18984,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal do Entroncamento",
-                  "text": "Primăria din Entroncamento este sediul administrației locale a orașului.",
+                  "text": "Fosta primărie a Entroncamentoului, un exemplu de arhitectură de la începutul secolului XX.",
                   "category": "historical",
                   "coords": [
                         -8.468164,
@@ -17024,7 +19022,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal do Entroncamento",
-                  "text": "The Entroncamento Town Hall is the headquarters of the local municipal government.",
+                  "text": "The former town hall of Entroncamento, an example of early 20th-century architecture.",
                   "category": "historical",
                   "coords": [
                         -8.468164,
@@ -17126,7 +19124,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Moura",
-                  "text": "Das Stadtmuseum von Moura, das sich auf die lokale Geschichte konzentriert.",
+                  "text": "Stadtmuseum mit Ausstellungen zur Geschichte von Moura.",
                   "category": "museum",
                   "coords": [
                         -7.453622,
@@ -17162,7 +19160,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja do Espírito Santo",
-                  "text": "Eine historische Kirche im Stadtgebiet von Moura.",
+                  "text": "Eine katholische Kirche, dem Heiligen Geist geweiht, im historischen Zentrum von Moura.",
                   "category": "religious",
                   "coords": [
                         -7.448241,
@@ -17218,7 +19216,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Moura",
-                  "text": "Moura városi múzeuma, amely a helyi történelemre összpontosít.",
+                  "text": "Városi múzeum Moura történelmének kiállításaival.",
                   "category": "museum",
                   "coords": [
                         -7.453622,
@@ -17254,7 +19252,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja do Espírito Santo",
-                  "text": "Történelmi templom Moura városában.",
+                  "text": "Katolikus templom a Szentlélek tiszteletére szentelve Moura történelmi központjában.",
                   "category": "religious",
                   "coords": [
                         -7.448241,
@@ -17310,7 +19308,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Moura",
-                  "text": "Muzeul municipal din Moura, concentrat pe istoria locală.",
+                  "text": "Muzeu municipal cu expoziții despre istoria orașului Moura.",
                   "category": "museum",
                   "coords": [
                         -7.453622,
@@ -17346,7 +19344,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja do Espírito Santo",
-                  "text": "O biserică istorică situată în orașul Moura.",
+                  "text": "O biserică catolică dedicată Sfântului Duh în centrul istoric al Mourei.",
                   "category": "religious",
                   "coords": [
                         -7.448241,
@@ -17402,7 +19400,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Moura",
-                  "text": "The municipal museum of Moura, focused on local history.",
+                  "text": "Municipal museum with exhibits on the history of Moura.",
                   "category": "museum",
                   "coords": [
                         -7.453622,
@@ -17438,7 +19436,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja do Espírito Santo",
-                  "text": "A historic church located in the town of Moura.",
+                  "text": "A Catholic church dedicated to the Holy Spirit in the historic centre of Moura.",
                   "category": "religious",
                   "coords": [
                         -7.448241,
@@ -17576,7 +19574,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de São Pedro",
-                  "text": "Eine kleine Kapelle in Serpa, die dem Heiligen Petrus geweiht ist.",
+                  "text": "Eine kleine ländliche Kapelle, dem Heiligen Petrus geweiht, in der Umgebung von Serpa.",
                   "category": "religious",
                   "coords": [
                         -7.603475,
@@ -17686,7 +19684,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de São Pedro",
-                  "text": "Kicsi kápolna Serpában, amelyet Szent Péternek szenteltek.",
+                  "text": "Kis vidéki kápolna, Szent Péter tiszteletére szentelve, Serpa közelében.",
                   "category": "religious",
                   "coords": [
                         -7.603475,
@@ -17796,7 +19794,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de São Pedro",
-                  "text": "O mică capelă în Serpa, dedicată Sfântului Petru.",
+                  "text": "O capelă rurală mică dedicată Sfântului Petru în zona rurală lângă Serpa.",
                   "category": "religious",
                   "coords": [
                         -7.603475,
@@ -17906,7 +19904,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ermida de São Pedro",
-                  "text": "A small chapel in Serpa dedicated to Saint Peter.",
+                  "text": "A small rural chapel dedicated to Saint Peter in the countryside near Serpa.",
                   "category": "religious",
                   "coords": [
                         -7.603475,
@@ -18089,7 +20087,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Diogo Bernardes",
-                  "text": "Ein elegantes Theater in Ponte de Lima, das ein vielfältiges Kulturprogramm bietet.",
+                  "text": "Historisches Theater, benannt nach dem Dichter Diogo Bernardes aus dem 16. Jahrhundert, in Ponte de Lima.",
                   "category": "cultural",
                   "coords": [
                         -8.586611,
@@ -18098,7 +20096,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Brinquedo Português",
-                  "text": "Dieses Museum in Ponte de Lima zeigt eine faszinierende Sammlung traditionellen portugiesischen Spielzeugs.",
+                  "text": "Museum für portugiesisches Spielzeug in einem ehemaligen Postamt.",
                   "category": "museum",
                   "coords": [
                         -8.588997,
@@ -18107,7 +20105,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Expolima",
-                  "text": "Ein Veranstaltungszentrum in Ponte de Lima, das für Messen, Ausstellungen und Freizeitaktivitäten genutzt wird.",
+                  "text": "Moderner Ausstellungs- und Freizeitpark entlang des Lima-Flusses mit Messen und Veranstaltungen.",
                   "category": "family",
                   "coords": [
                         -8.583412,
@@ -18116,7 +20114,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pedra do Cavalinho",
-                  "text": "Eine archäologische Fundstätte in Ponte de Lima mit prähistorischen Felsgravuren.",
+                  "text": "Pedra do Cavalinho ist ein historischer Steindenkmal in Ponte de Lima, ein Nationaldenkmal.",
                   "category": "historical",
                   "coords": [
                         -8.605943,
@@ -18143,7 +20141,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Associação Florestal do Lima",
-                  "text": "Eine lokale Organisation in Ponte de Lima, die sich dem Schutz und der Pflege der Wälder widmet.",
+                  "text": "Historisches Gebäude der Forstvereinigung Lima mit einer mit Bäumen bemalten Azulejo-Fassade.",
                   "category": "landmark",
                   "coords": [
                         -8.58574,
@@ -18152,7 +20150,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casa dos Calistos",
-                  "text": "Ein weiteres Beispiel für ein herrschaftliches Anwesen in der historischen Kleinstadt Ponte de Lima.",
+                  "text": "Casa dos Calistos ist ein historisches Haus im mittelalterlichen Zentrum von Ponte de Lima.",
                   "category": "historical",
                   "coords": [
                         -8.583568,
@@ -18170,7 +20168,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ponte Medieval",
-                  "text": "Die berühmte mittelalterliche Brücke, die der Stadt Ponte de Lima ihren Namen gab.",
+                  "text": "Capela das Pereiras ist eine kleine Kapelle in Ponte de Lima, denkmalgeschützt.",
                   "category": "landmark",
                   "coords": [
                         -8.586764,
@@ -18188,7 +20186,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar de Crasto",
-                  "text": "Ein herrschaftliches Solar-Anwesen in Ponte de Lima mit historischem Charme.",
+                  "text": "Herrenhaus aus der Zeit um 1640 in Ponte de Lima.",
                   "category": "historical",
                   "coords": [
                         -8.576976,
@@ -18215,7 +20213,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Nossa Senhora da Guia",
-                  "text": "Ein Ort des religiösen Erbes in Ponte de Lima, gewidmet Unserer Lieben Frau der Führung.",
+                  "text": "Nossa Senhora da Guia ist eine Kapelle auf einem Hügel mit Blick auf die Stadt.",
                   "category": "landmark",
                   "coords": [
                         -8.589844,
@@ -18244,7 +20242,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Diogo Bernardes",
-                  "text": "Elegáns színház Ponte de Limában, amely változatos kulturális programokat kínál.",
+                  "text": "Történelmi színház, amely a 16. századi költőről, Diogo Bernardesről kapta a nevét, Ponte de Limában.",
                   "category": "cultural",
                   "coords": [
                         -8.586611,
@@ -18253,7 +20251,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Brinquedo Português",
-                  "text": "Ez a Ponte de Lima-i múzeum a hagyományos portugál játékok lenyűgöző gyűjteményét mutatja be.",
+                  "text": "Portugál játékmúzeum egy egykori postaépületben.",
                   "category": "museum",
                   "coords": [
                         -8.588997,
@@ -18262,7 +20260,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Expolima",
-                  "text": "Rendezvényközpont Ponte de Limában, amelyet vásárokra, kiállításokra és szabadidős tevékenységekre használnak.",
+                  "text": "Modern kiállító- és szabadidőpark a Lima folyó mentén, vásárokkal és rendezvényekkel.",
                   "category": "family",
                   "coords": [
                         -8.583412,
@@ -18271,7 +20269,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pedra do Cavalinho",
-                  "text": "Régészeti lelőhely Ponte de Limában őskori sziklavésetekkel.",
+                  "text": "A Pedra do Cavalinho történelmi kőemlék Ponte de Limában, nemzeti műemlék.",
                   "category": "historical",
                   "coords": [
                         -8.605943,
@@ -18298,7 +20296,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Associação Florestal do Lima",
-                  "text": "Helyi szervezet Ponte de Limában, amely az erdők védelmének és gondozásának szentelte magát.",
+                  "text": "A Lima Erdészeti Egyesület történelmi épülete fákkal díszített azulejo-homlokzattal.",
                   "category": "landmark",
                   "coords": [
                         -8.58574,
@@ -18307,7 +20305,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casa dos Calistos",
-                  "text": "Egy másik példa egy úri birtokra Ponte de Lima történelmi kisvárosában.",
+                  "text": "A Casa dos Calistos egy történelmi ház Ponte de Lima középkori központjában.",
                   "category": "historical",
                   "coords": [
                         -8.583568,
@@ -18325,7 +20323,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ponte Medieval",
-                  "text": "A híres középkori híd, amely Ponte de Lima városának a nevét adta.",
+                  "text": "A Capela das Pereiras egy kis kápolna Ponte de Limában, műemléki védelem alatt.",
                   "category": "landmark",
                   "coords": [
                         -8.586764,
@@ -18343,7 +20341,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar de Crasto",
-                  "text": "Úri Solar-birtok Ponte de Limában, történelmi bájjal.",
+                  "text": "1640 körüli kúria Ponte de Limában.",
                   "category": "historical",
                   "coords": [
                         -8.576976,
@@ -18370,7 +20368,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Nossa Senhora da Guia",
-                  "text": "Vallási örökségi helyszín Ponte de Limában, amelyet az Útmutató Miasszonyunknak szenteltek.",
+                  "text": "A Nossa Senhora da Guia egy kápolna egy dombon, amely a városra néz.",
                   "category": "landmark",
                   "coords": [
                         -8.589844,
@@ -18399,7 +20397,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Diogo Bernardes",
-                  "text": "Un teatru elegant în Ponte de Lima, care oferă un program cultural variat.",
+                  "text": "Teatru istoric numit după poetul Diogo Bernardes din secolul al XVI-lea, în Ponte de Lima.",
                   "category": "cultural",
                   "coords": [
                         -8.586611,
@@ -18408,7 +20406,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Brinquedo Português",
-                  "text": "Acest muzeu din Ponte de Lima expune o colecție fascinantă de jucării tradiționale portugheze.",
+                  "text": "Muzeul jucăriilor portugheze într-o fostă clădire poștală.",
                   "category": "museum",
                   "coords": [
                         -8.588997,
@@ -18417,7 +20415,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Expolima",
-                  "text": "Un centru de evenimente în Ponte de Lima, utilizat pentru târguri, expoziții și activități de recreere.",
+                  "text": "Parc modern de expoziții și agrement de-a lungul râului Lima, cu târguri și evenimente.",
                   "category": "family",
                   "coords": [
                         -8.583412,
@@ -18426,7 +20424,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pedra do Cavalinho",
-                  "text": "Un sit arheologic în Ponte de Lima care prezintă gravuri rupestre preistorice.",
+                  "text": "Pedra do Cavalinho este un monument istoric din piatră în Ponte de Lima, monument național.",
                   "category": "historical",
                   "coords": [
                         -8.605943,
@@ -18453,7 +20451,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Associação Florestal do Lima",
-                  "text": "O organizație locală în Ponte de Lima, dedicată protecției și îngrijirii pădurilor.",
+                  "text": "Clădire istorică a Asociației Forestiere Lima, cu fațadă de azulejo pictată cu copaci.",
                   "category": "landmark",
                   "coords": [
                         -8.58574,
@@ -18462,7 +20460,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casa dos Calistos",
-                  "text": "Un alt exemplu de domeniu nobiliar în orașul istoric Ponte de Lima.",
+                  "text": "Casa dos Calistos este o casă istorică în centrul medieval al Ponte de Lima.",
                   "category": "historical",
                   "coords": [
                         -8.583568,
@@ -18480,7 +20478,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ponte Medieval",
-                  "text": "Celebrul pod medieval care a dat numele orașului Ponte de Lima.",
+                  "text": "Capela das Pereiras este o capelă mică în Ponte de Lima, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         -8.586764,
@@ -18498,7 +20496,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar de Crasto",
-                  "text": "O reședință nobiliară de tip solar în Ponte de Lima, cu farmec istoric.",
+                  "text": "Conac din jurul anului 1640 în Ponte de Lima.",
                   "category": "historical",
                   "coords": [
                         -8.576976,
@@ -18525,7 +20523,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Nossa Senhora da Guia",
-                  "text": "Un sit de patrimoniu religios în Ponte de Lima, dedicat Maicii Domnului a Îndrumării.",
+                  "text": "Nossa Senhora da Guia este o capelă pe un deal cu vedere spre oraș.",
                   "category": "landmark",
                   "coords": [
                         -8.589844,
@@ -18554,7 +20552,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Diogo Bernardes",
-                  "text": "An elegant theatre in Ponte de Lima offering a diverse cultural program.",
+                  "text": "Historic theatre named after the 16th-century poet Diogo Bernardes in Ponte de Lima.",
                   "category": "cultural",
                   "coords": [
                         -8.586611,
@@ -18563,7 +20561,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu do Brinquedo Português",
-                  "text": "This museum in Ponte de Lima showcases a fascinating collection of traditional Portuguese toys.",
+                  "text": "Museum of Portuguese toys housed in a former post office.",
                   "category": "museum",
                   "coords": [
                         -8.588997,
@@ -18572,7 +20570,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Expolima",
-                  "text": "An event center in Ponte de Lima used for fairs, exhibitions, and leisure activities.",
+                  "text": "Modern exhibition and leisure park along the Lima river, hosting fairs and events.",
                   "category": "family",
                   "coords": [
                         -8.583412,
@@ -18581,7 +20579,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pedra do Cavalinho",
-                  "text": "An archaeological site in Ponte de Lima featuring prehistoric rock engravings.",
+                  "text": "Pedra do Cavalinho is a historic stone monument in Ponte de Lima, a national monument.",
                   "category": "historical",
                   "coords": [
                         -8.605943,
@@ -18608,7 +20606,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Associação Florestal do Lima",
-                  "text": "A local organization in Ponte de Lima dedicated to the protection and management of forests.",
+                  "text": "Historic building of the Lima Forestry Association with a facade of azulejos painted with trees.",
                   "category": "landmark",
                   "coords": [
                         -8.58574,
@@ -18617,7 +20615,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casa dos Calistos",
-                  "text": "Another example of a stately manor in the historic town of Ponte de Lima.",
+                  "text": "Casa dos Calistos is a historic house in the medieval centre of Ponte de Lima.",
                   "category": "historical",
                   "coords": [
                         -8.583568,
@@ -18635,7 +20633,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ponte Medieval",
-                  "text": "The famous medieval bridge that gave the town of Ponte de Lima its name.",
+                  "text": "Capela das Pereiras is a small chapel in Ponte de Lima, heritage listed.",
                   "category": "landmark",
                   "coords": [
                         -8.586764,
@@ -18653,7 +20651,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar de Crasto",
-                  "text": "A stately solar manor in Ponte de Lima with historical charm.",
+                  "text": "Manor house from around 1640 in Ponte de Lima.",
                   "category": "historical",
                   "coords": [
                         -8.576976,
@@ -18680,7 +20678,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Nossa Senhora da Guia",
-                  "text": "A religious heritage site in Ponte de Lima dedicated to Our Lady of Guidance.",
+                  "text": "Nossa Senhora da Guia is a chapel on a hill overlooking the town.",
                   "category": "landmark",
                   "coords": [
                         -8.589844,
@@ -18935,7 +20933,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro Rossio",
-                  "text": "Ein Aussichtspunkt mit weitem Blick auf die Atlantikküste.",
+                  "text": "Rossio-Aussichtspunkt mit Blick auf die Küste von Albufeira.",
                   "category": "natural",
                   "coords": [
                         -8.256806,
@@ -18980,7 +20978,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Albufeira",
-                  "text": "Die Câmara Municipal ist das Rathaus und das Verwaltungszentrum von Albufeira.",
+                  "text": "Die Câmara Municipal de Albufeira ist ein Rathaus aus dem 20. Jahrhundert, entworfen von Architekt Manuel Francisco Cordeiro Ramos Chaves.",
                   "category": "historical",
                   "coords": [
                         -8.24572,
@@ -18989,7 +20987,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Artificial",
-                  "text": "Der Lago Artificial ist ein künstlich angelegter See in Albufeira.",
+                  "text": "Künstlicher See in Albufeira, der als Naherholungszone genutzt wird.",
                   "category": "natural",
                   "coords": [
                         -8.238252,
@@ -19016,7 +21014,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pool On The Hill",
-                  "text": "Dieses Schwimmbad in Albufeira ist ein angenehmer Ort für ein Familienbad.",
+                  "text": "Schwimmbad auf einem Hügel in Albufeira.",
                   "category": "family",
                   "coords": [
                         -8.259907,
@@ -19261,7 +21259,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro Rossio",
-                  "text": "Kilátóhely, ahonnan pazar kilátás nyílik az atlanti partvidékre.",
+                  "text": "Rossio kilátó, amely Albufeira partjaira nyújt kilátást.",
                   "category": "natural",
                   "coords": [
                         -8.256806,
@@ -19306,7 +21304,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Albufeira",
-                  "text": "A Câmara Municipal Albufeira városháza és közigazgatási központja.",
+                  "text": "A Câmara Municipal de Albufeira egy 20. századi városháza, amelyet Manuel Francisco Cordeiro Ramos Chaves építész tervezett.",
                   "category": "historical",
                   "coords": [
                         -8.24572,
@@ -19315,7 +21313,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Artificial",
-                  "text": "A Lago Artificial egy mesterségesen kialakított tó Albufeirában.",
+                  "text": "Mesterséges tó Albufeirában, pihenőhelyként használva.",
                   "category": "natural",
                   "coords": [
                         -8.238252,
@@ -19342,7 +21340,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pool On The Hill",
-                  "text": "Ez az albufeirai uszoda kellemes hely egy családi mártózáshoz.",
+                  "text": "Medence egy dombon Albufeirában.",
                   "category": "family",
                   "coords": [
                         -8.259907,
@@ -19587,7 +21585,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro Rossio",
-                  "text": "Un punct de observație cu vederi asupra coastei atlantice.",
+                  "text": "Punct de belvedere Rossio cu vedere spre coasta Albufeira.",
                   "category": "natural",
                   "coords": [
                         -8.256806,
@@ -19632,7 +21630,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Albufeira",
-                  "text": "Câmara Municipal este clădirea primăriei și centrul administrativ al orașului Albufeira.",
+                  "text": "Câmara Municipal de Albufeira este o primărie din secolul al XX-lea, proiectată de arhitectul Manuel Francisco Cordeiro Ramos Chaves.",
                   "category": "historical",
                   "coords": [
                         -8.24572,
@@ -19641,7 +21639,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Artificial",
-                  "text": "Lago Artificial este un lac artificial în Albufeira.",
+                  "text": "Lac artificial în Albufeira, utilizat ca zonă de agrement.",
                   "category": "natural",
                   "coords": [
                         -8.238252,
@@ -19668,7 +21666,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pool On The Hill",
-                  "text": "Această piscină din Albufeira este un loc plăcut pentru o baie în familie.",
+                  "text": "Piscină pe un deal în Albufeira.",
                   "category": "family",
                   "coords": [
                         -8.259907,
@@ -19913,7 +21911,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Miradouro Rossio",
-                  "text": "A viewpoint offering wide views of the Atlantic coast.",
+                  "text": "Rossio viewpoint overlooking the coast of Albufeira.",
                   "category": "natural",
                   "coords": [
                         -8.256806,
@@ -19958,7 +21956,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Albufeira",
-                  "text": "The Câmara Municipal is the town hall building and administrative center of Albufeira.",
+                  "text": "The Câmara Municipal de Albufeira is a 20th-century town hall designed by architect Manuel Francisco Cordeiro Ramos Chaves.",
                   "category": "historical",
                   "coords": [
                         -8.24572,
@@ -19967,7 +21965,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Lago Artificial",
-                  "text": "Lago Artificial is a man-made lake in Albufeira.",
+                  "text": "Artificial lake in Albufeira used as a recreation area.",
                   "category": "natural",
                   "coords": [
                         -8.238252,
@@ -19994,7 +21992,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pool On The Hill",
-                  "text": "This swimming pool in Albufeira is a pleasant spot for a family dip.",
+                  "text": "Swimming pool on a hill in Albufeira.",
                   "category": "family",
                   "coords": [
                         -8.259907,
@@ -20205,7 +22203,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Sobreiro de Sao Geraldo",
-                  "text": "Eine bemerkenswerte Korkeiche in Oia.",
+                  "text": "Korkeichenbaum in Oia, der als lokales Wahrzeichen gilt.",
                   "category": "landmark",
                   "coords": [
                         -8.6065,
@@ -20279,7 +22277,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Sobreiro de Sao Geraldo",
-                  "text": "Egy nevezetes parafa Oia városában.",
+                  "text": "Paratölgy fa Oiában, amely helyi nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         -8.6065,
@@ -20353,7 +22351,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Sobreiro de Sao Geraldo",
-                  "text": "Un stejar de plută remarcabil situat în Oia.",
+                  "text": "Stejar de plută în Oia, considerat un reper local.",
                   "category": "landmark",
                   "coords": [
                         -8.6065,
@@ -20427,7 +22425,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Sobreiro de Sao Geraldo",
-                  "text": "A notable cork oak tree located in Oia.",
+                  "text": "Cork oak tree in Oia, regarded as a local landmark.",
                   "category": "landmark",
                   "coords": [
                         -8.6065,
@@ -20538,7 +22536,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casinha do Padeiro",
-                  "text": "Ein malerischer Aussichtspunkt in den Bergen von Valongo.",
+                  "text": "Als 'Casinha do Padeiro' bekannte Felsformation in Valongo.",
                   "category": "natural",
                   "coords": [
                         -8.491507,
@@ -20603,7 +22601,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casinha do Padeiro",
-                  "text": "Gidres-gödrös kilátópont Valongo hegyei között.",
+                  "text": "A 'Casinha do Padeiro' néven ismert sziklaformáció Valongóban.",
                   "category": "natural",
                   "coords": [
                         -8.491507,
@@ -20668,7 +22666,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casinha do Padeiro",
-                  "text": "Un punct de belvedere pitoresc situat în munții din Valongo.",
+                  "text": "Formațiune stâncoasă cunoscută ca 'Casinha do Padeiro' în Valongo.",
                   "category": "natural",
                   "coords": [
                         -8.491507,
@@ -20733,7 +22731,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casinha do Padeiro",
-                  "text": "A scenic viewpoint located in the mountains of Valongo.",
+                  "text": "Rock formation known as 'Casinha do Padeiro' in Valongo.",
                   "category": "natural",
                   "coords": [
                         -8.491507,
@@ -20790,7 +22788,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mosteiro de Leça do Balio",
-                  "text": "Das Kloster Leça do Balio ist eine bedeutende befestigte gotische Kirche und ein Nationaldenkmal in Maia.",
+                  "text": "Eine römische Steinbogenbrücke über den Fluss.",
                   "category": "religious",
                   "coords": [
                         -8.623427,
@@ -20808,7 +22806,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Junta de Freguesia da Maia",
-                  "text": "Dieses Museum ist im ehemaligen Gebäude der Gemeindeverwaltung von Maia untergebracht.",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Stadt Maia und den Douro.",
                   "category": "museum",
                   "coords": [
                         -8.629794,
@@ -20817,7 +22815,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo da Maia",
-                  "text": "Der Zoo von Maia ist ein beliebtes lokales Ziel, das eine Vielzahl von Tierarten beherbergt.",
+                  "text": "Eine kleine sandige Bucht, geschützt von Klippen.",
                   "category": "family",
                   "coords": [
                         -8.631663,
@@ -20826,7 +22824,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Exterior do Fórum da Maia",
-                  "text": "Dieses Freiluft-Amphitheater am Forum Maia dient als Veranstaltungsort für kulturelle Events und Aufführungen.",
+                  "text": "Ein Aussichtspunkt an der Rua Melo Nunes.",
                   "category": "cultural",
                   "coords": [
                         -8.623163,
@@ -20835,7 +22833,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório",
-                  "text": "Dieses Auditorium in Maia ist ein lokaler Veranstaltungsort für verschiedene künstlerische und theatralische Produktionen.",
+                  "text": "Ein Museum, das der traditionellen Leinenherstellung gewidmet ist.",
                   "category": "cultural",
                   "coords": [
                         -8.610859,
@@ -20844,7 +22842,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Fundação Gramaxo",
-                  "text": "Das Museum der Stiftung Gramaxo in Maia stellt lokale Kunst und Sammlungen zum Kulturerbe aus.",
+                  "text": "Ein Museum zur Geschichte der Tabakindustrie.",
                   "category": "museum",
                   "coords": [
                         -8.627564,
@@ -20891,7 +22889,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mosteiro de Leça do Balio",
-                  "text": "A Leça do Balio-kolostor egy jelentős erődített gótikus templom és nemzeti műemlék Maiában.",
+                  "text": "Római kőíves híd a folyón.",
                   "category": "religious",
                   "coords": [
                         -8.623427,
@@ -20909,7 +22907,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Junta de Freguesia da Maia",
-                  "text": "Ez a múzeum Maia korábbi plébániai tanácsának épületében található.",
+                  "text": "Kilátó a Maia városra és a Douro folyóra.",
                   "category": "museum",
                   "coords": [
                         -8.629794,
@@ -20918,7 +22916,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo da Maia",
-                  "text": "A maiai állatkert egy népszerű helyi úti cél, amely számos állatfajt mutat be.",
+                  "text": "Kis homokos öböl, sziklákkal védve.",
                   "category": "family",
                   "coords": [
                         -8.631663,
@@ -20927,7 +22925,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Exterior do Fórum da Maia",
-                  "text": "A maiai fórum szabadtéri amfiteátruma kulturális események és előadások helyszíne.",
+                  "text": "Kilátó a Rua Melo Nunesen.",
                   "category": "cultural",
                   "coords": [
                         -8.623163,
@@ -20936,7 +22934,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório",
-                  "text": "Ez a maiai auditórium különféle művészeti és színházi produkciók helyszíne.",
+                  "text": "Múzeum, amely a hagyományos lenvászon készítésnek szentelt.",
                   "category": "cultural",
                   "coords": [
                         -8.610859,
@@ -20945,7 +22943,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Fundação Gramaxo",
-                  "text": "A maiai Gramaxo Alapítvány Múzeuma helyi művészeti és kulturális örökségi gyűjteményeket mutat be.",
+                  "text": "Múzeum a dohányipar történetéről.",
                   "category": "museum",
                   "coords": [
                         -8.627564,
@@ -20992,7 +22990,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mosteiro de Leça do Balio",
-                  "text": "Mănăstirea Leça do Balio este o biserică gotică fortificată notabilă și monument național în Maia.",
+                  "text": "Un pod roman cu arc de piatră peste râu.",
                   "category": "religious",
                   "coords": [
                         -8.623427,
@@ -21010,7 +23008,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Junta de Freguesia da Maia",
-                  "text": "Acest muzeu este găzduit în fosta clădire a consiliului parohial din Maia.",
+                  "text": "Un punct de belvedere cu vedere asupra orașului Maia și a râului Douro.",
                   "category": "museum",
                   "coords": [
                         -8.629794,
@@ -21019,7 +23017,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo da Maia",
-                  "text": "Grădina Zoologică din Maia este o destinație locală populară care adăpostește o varietate de specii de animale.",
+                  "text": "O mică golfuleță nisipoasă adăpostită de stânci.",
                   "category": "family",
                   "coords": [
                         -8.631663,
@@ -21028,7 +23026,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Exterior do Fórum da Maia",
-                  "text": "Acest amfiteatru în aer liber de la Forumul Maia servește ca loc de desfășurare pentru evenimente și spectacole culturale.",
+                  "text": "Un punct de belvedere pe Rua Melo Nunes.",
                   "category": "cultural",
                   "coords": [
                         -8.623163,
@@ -21037,7 +23035,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório",
-                  "text": "Acest auditoriu din Maia este un loc local pentru diverse producții artistice și teatrale.",
+                  "text": "Un muzeu dedicat producției tradiționale de in.",
                   "category": "cultural",
                   "coords": [
                         -8.610859,
@@ -21046,7 +23044,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Fundação Gramaxo",
-                  "text": "Muzeul Fundației Gramaxo din Maia expune colecții de artă locală și patrimoniu cultural.",
+                  "text": "Un muzeu despre istoria industriei tutunului.",
                   "category": "museum",
                   "coords": [
                         -8.627564,
@@ -21093,7 +23091,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mosteiro de Leça do Balio",
-                  "text": "The Monastery of Leça do Balio is a notable fortified Gothic church and national monument in Maia.",
+                  "text": "A Roman stone arch bridge over the river.",
                   "category": "religious",
                   "coords": [
                         -8.623427,
@@ -21111,7 +23109,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Junta de Freguesia da Maia",
-                  "text": "This museum is housed in the former parish council building of Maia.",
+                  "text": "A viewpoint overlooking the city of Maia and the Douro River.",
                   "category": "museum",
                   "coords": [
                         -8.629794,
@@ -21120,7 +23118,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Zoo da Maia",
-                  "text": "The Maia Zoo is a popular local destination featuring a variety of animal species.",
+                  "text": "A small sandy cove sheltered by cliffs.",
                   "category": "family",
                   "coords": [
                         -8.631663,
@@ -21129,7 +23127,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Exterior do Fórum da Maia",
-                  "text": "This outdoor amphitheater at the Maia Forum serves as a venue for cultural events and performances.",
+                  "text": "A scenic overlook on Rua Melo Nunes.",
                   "category": "cultural",
                   "coords": [
                         -8.623163,
@@ -21138,7 +23136,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório",
-                  "text": "This auditorium in Maia is a local venue for various artistic and theatrical productions.",
+                  "text": "A museum dedicated to traditional linen production.",
                   "category": "cultural",
                   "coords": [
                         -8.610859,
@@ -21147,7 +23145,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu da Fundação Gramaxo",
-                  "text": "The Gramaxo Foundation Museum in Maia displays local art and cultural heritage collections.",
+                  "text": "A museum about the history of the tobacco industry.",
                   "category": "museum",
                   "coords": [
                         -8.627564,
@@ -21348,7 +23346,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja do Divino Salvador de Fânzeres",
-                  "text": "Die Gemeindekirche von Fânzeres ist ein wichtiges religiöses Zentrum des Ortes.",
+                  "text": "Eine Pfarrkirche, dem Göttlichen Erlöser geweiht, im Ortsteil Fânzeres von Gondomar.",
                   "category": "religious",
                   "coords": [
                         -8.526894,
@@ -21503,7 +23501,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja do Divino Salvador de Fânzeres",
-                  "text": "Fânzeres plébániatemploma a település fontos vallási központja.",
+                  "text": "Plébániatemplom, az Isteni Megváltónak szentelve, Gondomar Fânzeres negyedében.",
                   "category": "religious",
                   "coords": [
                         -8.526894,
@@ -21658,7 +23656,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja do Divino Salvador de Fânzeres",
-                  "text": "Biserica parohială din Fânzeres este un centru religios important al localității.",
+                  "text": "O biserică parohială dedicată Mântuitorului Divin în zona Fânzeres din Gondomar.",
                   "category": "religious",
                   "coords": [
                         -8.526894,
@@ -21813,7 +23811,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja do Divino Salvador de Fânzeres",
-                  "text": "The parish church of Fânzeres is an important religious center of the town.",
+                  "text": "A parish church dedicated to the Divine Saviour in the Fânzeres area of Gondomar.",
                   "category": "religious",
                   "coords": [
                         -8.526894,
@@ -21933,7 +23931,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Paiol Militar",
-                  "text": "Das Paiol Militar ist ein historisches ehemaliges Militärmagazin in Penafiel.",
+                  "text": "Ehemaliges Militärpulvermagazin in Penafiel, heute ein historisches Denkmal.",
                   "category": "historical",
                   "coords": [
                         -8.290415,
@@ -21960,7 +23958,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Janela da Reboleira",
-                  "text": "Die Janela da Reboleira ist eine historische Ruine und ein architektonisches Überbleibsel in Penafiel.",
+                  "text": "Ein historisches manieristisches Fenster, denkmalgeschützt in Penafiel.",
                   "category": "historical",
                   "coords": [
                         -8.30507,
@@ -22061,7 +24059,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Paiol Militar",
-                  "text": "A Paiol Militar egy történelmi egykori katonai lőszerraktár Penafielben.",
+                  "text": "Egykori katonai lőporraktár Penafielben, ma történelmi emlékmű.",
                   "category": "historical",
                   "coords": [
                         -8.290415,
@@ -22088,7 +24086,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Janela da Reboleira",
-                  "text": "A Janela da Reboleira egy történelmi rom és építészeti maradvány Penafielben.",
+                  "text": "Történelmi manierista ablak, műemlék Penafielben.",
                   "category": "historical",
                   "coords": [
                         -8.30507,
@@ -22189,7 +24187,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Paiol Militar",
-                  "text": "Paiol Militar este un fost depozit militar istoric situat în Penafiel.",
+                  "text": "Fost depozit militar de pulbere în Penafiel, astăzi monument istoric.",
                   "category": "historical",
                   "coords": [
                         -8.290415,
@@ -22216,7 +24214,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Janela da Reboleira",
-                  "text": "Janela da Reboleira este o ruină istorică și un vestigiu arhitectural din Penafiel.",
+                  "text": "O fereastră istorică manieristă, monument protejat în Penafiel.",
                   "category": "historical",
                   "coords": [
                         -8.30507,
@@ -22317,7 +24315,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Paiol Militar",
-                  "text": "The Paiol Militar is a historic former military magazine located in Penafiel.",
+                  "text": "Former military powder magazine in Penafiel, now a historical monument.",
                   "category": "historical",
                   "coords": [
                         -8.290415,
@@ -22344,7 +24342,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Janela da Reboleira",
-                  "text": "The Janela da Reboleira is a historic ruin and architectural remnant in Penafiel.",
+                  "text": "A historic Manierist window, heritage-listed in Penafiel.",
                   "category": "historical",
                   "coords": [
                         -8.30507,
@@ -22464,7 +24462,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lagoa das Sete Fontes",
-                  "text": "Die Lagoa das Sete Fontes ist ein ruhiger See in Trofa.",
+                  "text": "Lagune, die von sieben Quellen gespeist wird, in Trofa.",
                   "category": "natural",
                   "coords": [
                         -8.528021,
@@ -22491,7 +24489,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de Lazer",
-                  "text": "Der Parque de Lazer ist ein Naherholungsgebiet mit Spielmöglichkeiten in Trofa.",
+                  "text": "Freizeitpark in Trofa mit Erholungsmöglichkeiten für Familien.",
                   "category": "family",
                   "coords": [
                         -8.566956,
@@ -22529,7 +24527,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lagoa das Sete Fontes",
-                  "text": "A Lagoa das Sete Fontes egy nyugodt tó Trofa városában.",
+                  "text": "Hét forrásból táplálkozó lagúna Trofában.",
                   "category": "natural",
                   "coords": [
                         -8.528021,
@@ -22556,7 +24554,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de Lazer",
-                  "text": "A Parque de Lazer egy pihenőövezet játéklehetőségekkel Trofában.",
+                  "text": "Szabadidőpark Trofában, családi kikapcsolódási lehetőségekkel.",
                   "category": "family",
                   "coords": [
                         -8.566956,
@@ -22594,7 +24592,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lagoa das Sete Fontes",
-                  "text": "Lagoa das Sete Fontes este un lac liniștit în Trofa.",
+                  "text": "Lagună alimentată de șapte izvoare în Trofa.",
                   "category": "natural",
                   "coords": [
                         -8.528021,
@@ -22621,7 +24619,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de Lazer",
-                  "text": "Parque de Lazer este o zonă de recreere cu facilități de joacă în Trofa.",
+                  "text": "Parc de agrement în Trofa, cu facilități pentru familii.",
                   "category": "family",
                   "coords": [
                         -8.566956,
@@ -22659,7 +24657,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lagoa das Sete Fontes",
-                  "text": "Lagoa das Sete Fontes is a peaceful lake in Trofa.",
+                  "text": "Lagoon fed by seven springs in Trofa.",
                   "category": "natural",
                   "coords": [
                         -8.528021,
@@ -22686,7 +24684,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de Lazer",
-                  "text": "Parque de Lazer is a recreation area with play facilities in Trofa.",
+                  "text": "Leisure park in Trofa with family recreation options.",
                   "category": "family",
                   "coords": [
                         -8.566956,
@@ -23562,7 +25560,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Caminha",
-                  "text": "Die Câmara Municipal ist das Rathaus und das wichtigste Verwaltungsgebäude von Caminha.",
+                  "text": "Das historische Rathaus von Caminha am Hauptplatz mit Blick auf den Fluss Minho.",
                   "category": "historical",
                   "coords": [
                         -8.838504,
@@ -23571,7 +25569,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Presa da Cheira",
-                  "text": "Die Presa da Cheira ist ein kleiner See in der malerischen Umgebung von Caminha.",
+                  "text": "Staudamm in Caminha, umgeben von Wald.",
                   "category": "natural",
                   "coords": [
                         -8.827343,
@@ -23580,7 +25578,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Roda",
-                  "text": "Roda ist ein einfacher Spielbereich für Kinder in Caminha.",
+                  "text": "Ein als 'Roda' bekanntes Fahrgeschäft in Caminha, ideal für Familien.",
                   "category": "family",
                   "coords": [
                         -8.835545,
@@ -23598,7 +25596,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Puntal",
-                  "text": "Praia do Puntal ist ein Strand in Caminha.",
+                  "text": "Sandstrand an der Mündung des Rio Minho in Caminha.",
                   "category": "recreational",
                   "coords": [
                         -8.872541,
@@ -23798,7 +25796,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Caminha",
-                  "text": "A Câmara Municipal Caminha városháza és fő közigazgatási épülete.",
+                  "text": "Caminha történelmi városházája a főtéren, a Minho folyóra néző kilátással.",
                   "category": "historical",
                   "coords": [
                         -8.838504,
@@ -23807,7 +25805,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Presa da Cheira",
-                  "text": "A Presa da Cheira egy kis tó Caminha festői környezetében.",
+                  "text": "Gát Caminhában, erdővel körülvéve.",
                   "category": "natural",
                   "coords": [
                         -8.827343,
@@ -23816,7 +25814,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Roda",
-                  "text": "A Roda egy egyszerű játszótér gyerekeknek Caminhában.",
+                  "text": "A 'Roda' néven ismert vidámparki játék Caminhában, családoknak ideális.",
                   "category": "family",
                   "coords": [
                         -8.835545,
@@ -23834,7 +25832,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Puntal",
-                  "text": "Praia do Puntal egy strand Caminha területén.",
+                  "text": "Homokos strand a Minho folyó torkolatánál Caminhában.",
                   "category": "recreational",
                   "coords": [
                         -8.872541,
@@ -24034,7 +26032,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Caminha",
-                  "text": "Câmara Municipal este primăria și principala clădire administrativă din Caminha.",
+                  "text": "Primăria istorică a Caminhei, situată în piața principală cu vedere la râul Minho.",
                   "category": "historical",
                   "coords": [
                         -8.838504,
@@ -24043,7 +26041,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Presa da Cheira",
-                  "text": "Presa da Cheira este un lac mic în împrejurimile pitorești ale Caminhei.",
+                  "text": "Baraj în Caminha, înconjurat de pădure.",
                   "category": "natural",
                   "coords": [
                         -8.827343,
@@ -24052,7 +26050,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Roda",
-                  "text": "Roda este o zonă simplă de joacă pentru copii în Caminha.",
+                  "text": "O atracție numită 'Roda' în Caminha, ideală pentru familii.",
                   "category": "family",
                   "coords": [
                         -8.835545,
@@ -24070,7 +26068,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Puntal",
-                  "text": "Praia do Puntal este o plajă în Caminha.",
+                  "text": "Plajă nisipoasă la gura râului Minho în Caminha.",
                   "category": "recreational",
                   "coords": [
                         -8.872541,
@@ -24270,7 +26268,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Caminha",
-                  "text": "The Câmara Municipal is the town hall and principal administrative building of Caminha.",
+                  "text": "The historic town hall of Caminha, located in the main square overlooking the Minho River.",
                   "category": "historical",
                   "coords": [
                         -8.838504,
@@ -24279,7 +26277,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Presa da Cheira",
-                  "text": "Presa da Cheira is a small lake in the picturesque surroundings of Caminha.",
+                  "text": "Dam in Caminha surrounded by forest.",
                   "category": "natural",
                   "coords": [
                         -8.827343,
@@ -24288,7 +26286,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Roda",
-                  "text": "Roda is a simple play area for children in Caminha.",
+                  "text": "A ride known as 'Roda' in Caminha, ideal for families.",
                   "category": "family",
                   "coords": [
                         -8.835545,
@@ -24306,7 +26304,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia do Puntal",
-                  "text": "Praia do Puntal is a beach in Caminha.",
+                  "text": "Sandy beach at the mouth of the Minho River in Caminha.",
                   "category": "recreational",
                   "coords": [
                         -8.872541,
@@ -24381,7 +26379,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de María Auxiliadora",
-                  "text": "Eine moderne katholische Kirche in Vilar Formoso.",
+                  "text": "Eine katholische Kirche, Maria Hilfe der Christen geweiht, in der Grenzstadt Vilar Formoso.",
                   "category": "religious",
                   "coords": [
                         -6.822461,
@@ -24410,7 +26408,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de María Auxiliadora",
-                  "text": "Modern katolikus templom Vilar Formoso településén.",
+                  "text": "Katolikus templom, Mária, a Keresztények Segítsége tiszteletére szentelve, a határvárosban Vilar Formoso.",
                   "category": "religious",
                   "coords": [
                         -6.822461,
@@ -24439,7 +26437,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de María Auxiliadora",
-                  "text": "O biserică catolică modernă în Vilar Formoso.",
+                  "text": "O biserică catolică dedicată Mariei Ajutătoarea în orașul de frontieră Vilar Formoso.",
                   "category": "religious",
                   "coords": [
                         -6.822461,
@@ -24468,7 +26466,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia de María Auxiliadora",
-                  "text": "A modern Catholic church in Vilar Formoso.",
+                  "text": "A Catholic church dedicated to Mary Help of Christians in the border town of Vilar Formoso.",
                   "category": "religious",
                   "coords": [
                         -6.822461,
@@ -25155,7 +27153,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lago do Parque de La-Salette",
-                  "text": "Der See im Parque de La-Salette ist ein friedlicher Ort in Oliveira De Azemeis.",
+                  "text": "Künstlicher See im Park der Wallfahrtskirche La-Salette in Oaz.",
                   "category": "natural",
                   "coords": [
                         -8.465204,
@@ -25238,7 +27236,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lago do Parque de La-Salette",
-                  "text": "A Parque de La-Salette-ben található tó egy békés hely Oliveira De Azemeisben.",
+                  "text": "Mesterséges tó a La-Salette zarándoktemplom parkjában Oazban.",
                   "category": "natural",
                   "coords": [
                         -8.465204,
@@ -25321,7 +27319,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lago do Parque de La-Salette",
-                  "text": "Lacul din Parque de La-Salette este un loc liniștit în Oliveira De Azemeis.",
+                  "text": "Lac artificial în parcul bisericii de pelerinaj La-Salette din Oaz.",
                   "category": "natural",
                   "coords": [
                         -8.465204,
@@ -25404,7 +27402,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lago do Parque de La-Salette",
-                  "text": "The lake in Parque de La-Salette is a peaceful spot in Oliveira De Azemeis.",
+                  "text": "Artificial lake in the park of the La-Salette pilgrimage church in Oaz.",
                   "category": "natural",
                   "coords": [
                         -8.465204,
@@ -26613,7 +28611,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Piscinas Bombeiros Voluntários de Esmoriz",
-                  "text": "Ein öffentliches Schwimmbad in Esmoriz.",
+                  "text": "Freibad der Freiwilligen Feuerwehr in Esmoriz.",
                   "category": "recreational",
                   "coords": [
                         -8.632203,
@@ -26732,7 +28730,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Piscinas Bombeiros Voluntários de Esmoriz",
-                  "text": "Nyilvános úszómedence Esmorizban.",
+                  "text": "Az Esmorizi Önkéntes Tűzoltók úszómedencéi.",
                   "category": "recreational",
                   "coords": [
                         -8.632203,
@@ -26851,7 +28849,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Piscinas Bombeiros Voluntários de Esmoriz",
-                  "text": "O piscină publică în Esmoriz.",
+                  "text": "Piscinele Pompierilor Voluntari din Esmoriz.",
                   "category": "recreational",
                   "coords": [
                         -8.632203,
@@ -26970,7 +28968,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Piscinas Bombeiros Voluntários de Esmoriz",
-                  "text": "A public swimming pool in Esmoriz.",
+                  "text": "Swimming pools of the Volunteer Firefighters of Esmoriz.",
                   "category": "recreational",
                   "coords": [
                         -8.632203,
@@ -27045,7 +29043,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Arte de Ovar",
-                  "text": "Ein modernes Kunst- und Kulturzentrum in Ovar.",
+                  "text": "Kunstzentrum in Ovar, das zeitgenössische Ausstellungen zeigt.",
                   "category": "cultural",
                   "coords": [
                         -8.621837,
@@ -27137,7 +29135,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Arte de Ovar",
-                  "text": "Modern művészeti és kulturális központ Ovar városában.",
+                  "text": "Művészeti központ Ovarban, kortárs kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         -8.621837,
@@ -27229,7 +29227,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Arte de Ovar",
-                  "text": "Un centru modern de artă și cultură situat în Ovar.",
+                  "text": "Centru de artă în Ovar, cu expoziții contemporane.",
                   "category": "cultural",
                   "coords": [
                         -8.621837,
@@ -27321,7 +29319,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de Arte de Ovar",
-                  "text": "A modern art and culture center located in Ovar.",
+                  "text": "Art center in Ovar featuring contemporary exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -8.621837,
@@ -27675,7 +29673,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fontanário",
-                  "text": "Das Fontanário ist ein kleines Wasserbecken in Tarouca.",
+                  "text": "Alter Steinbrunnen in Lamego.",
                   "category": "natural",
                   "coords": [
                         -7.774488,
@@ -27684,7 +29682,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cisterna de Lamego",
-                  "text": "Die Cisterna de Lamego ist ein historisches Wasserreservoir in Tarouca.",
+                  "text": "Historische Zisterne, die Regenwasser sammelte, in Lamego.",
                   "category": "natural",
                   "coords": [
                         -7.808783,
@@ -27693,7 +29691,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira de Varosa",
-                  "text": "Die Albufeira de Varosa ist ein Stausee in Tarouca, ideal für Landschaftsaufnahmen.",
+                  "text": "Stausee am Fluss Varosa, umgeben von Weinbergen, in Lamego.",
                   "category": "natural",
                   "coords": [
                         -7.77696,
@@ -27722,7 +29720,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fontanário",
-                  "text": "A Fontanário egy kis medence Taroucában.",
+                  "text": "Régi kőkút Lamegóban.",
                   "category": "natural",
                   "coords": [
                         -7.774488,
@@ -27731,7 +29729,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cisterna de Lamego",
-                  "text": "A Cisterna de Lamego egy történelmi víztározó Taroucában.",
+                  "text": "Történelmi ciszterna Lamegóban, amely esővizet gyűjtött.",
                   "category": "natural",
                   "coords": [
                         -7.808783,
@@ -27740,7 +29738,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira de Varosa",
-                  "text": "Az Albufeira de Varosa egy víztározó Taroucában, amely ideális tájképekhez.",
+                  "text": "Víztározó a Varosa folyón, szőlőültetvényekkel körülvéve, Lamegóban.",
                   "category": "natural",
                   "coords": [
                         -7.77696,
@@ -27769,7 +29767,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fontanário",
-                  "text": "Fontanário este un mic bazin cu apă în Tarouca.",
+                  "text": "Fântână veche de piatră în Lamego.",
                   "category": "natural",
                   "coords": [
                         -7.774488,
@@ -27778,7 +29776,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cisterna de Lamego",
-                  "text": "Cisterna de Lamego este un rezervor de apă istoric în Tarouca.",
+                  "text": "Cisternă istorică în Lamego, care colecta apa de ploaie.",
                   "category": "natural",
                   "coords": [
                         -7.808783,
@@ -27787,7 +29785,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira de Varosa",
-                  "text": "Albufeira de Varosa este un lac de acumulare în Tarouca, ideal pentru fotografii de peisaj.",
+                  "text": "Lac de acumulare pe râul Varosa, înconjurat de podgorii, în Lamego.",
                   "category": "natural",
                   "coords": [
                         -7.77696,
@@ -27816,7 +29814,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fontanário",
-                  "text": "Fontanário is a small water basin in Tarouca.",
+                  "text": "Old stone fountain in Lamego.",
                   "category": "natural",
                   "coords": [
                         -7.774488,
@@ -27825,7 +29823,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Cisterna de Lamego",
-                  "text": "Cisterna de Lamego is a historic water reservoir in Tarouca.",
+                  "text": "Historic cistern in Lamego that collected rainwater.",
                   "category": "natural",
                   "coords": [
                         -7.808783,
@@ -27834,7 +29832,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira de Varosa",
-                  "text": "Albufeira de Varosa is a reservoir in Tarouca, ideal for landscape views.",
+                  "text": "Reservoir on the Varosa River surrounded by vineyards in Lamego.",
                   "category": "natural",
                   "coords": [
                         -7.77696,
@@ -27909,7 +29907,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro de Moimenta da Beira",
-                  "text": "Ein lokales Theatergebäude in Moimenta da Beira.",
+                  "text": "Kleines Theater mit reichem Programm in Moimenta da Beira.",
                   "category": "cultural",
                   "coords": [
                         -7.614205,
@@ -27929,7 +29927,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro de Moimenta da Beira",
-                  "text": "Helyi színházépület Moimenta da Beira településen.",
+                  "text": "Kis színház gazdag programmal Moimenta da Beirában.",
                   "category": "cultural",
                   "coords": [
                         -7.614205,
@@ -27949,7 +29947,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro de Moimenta da Beira",
-                  "text": "O clădire de teatru locală în Moimenta da Beira.",
+                  "text": "Teatru mic cu program bogat în Moimenta da Beira.",
                   "category": "cultural",
                   "coords": [
                         -7.614205,
@@ -27969,7 +29967,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro de Moimenta da Beira",
-                  "text": "A local theater building in Moimenta da Beira.",
+                  "text": "Small theatre with a rich programme in Moimenta da Beira.",
                   "category": "cultural",
                   "coords": [
                         -7.614205,
@@ -28107,7 +30105,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela Santo Amaro",
-                  "text": "Eine religiöse Kapelle in Sertã, die dem heiligen Amaro gewidmet ist.",
+                  "text": "Kleine Kapelle auf einem Hügel in Serta.",
                   "category": "landmark",
                   "coords": [
                         -8.10089,
@@ -28208,7 +30206,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela Santo Amaro",
-                  "text": "Szent Amaro-nak szentelt vallási kápolna Sertãban.",
+                  "text": "Kis kápolna egy dombon Sertában.",
                   "category": "landmark",
                   "coords": [
                         -8.10089,
@@ -28309,7 +30307,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela Santo Amaro",
-                  "text": "O capelă religioasă din Sertã dedicată Sfântului Amaro.",
+                  "text": "Capelă mică pe un deal în Serta.",
                   "category": "landmark",
                   "coords": [
                         -8.10089,
@@ -28410,7 +30408,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela Santo Amaro",
-                  "text": "A religious chapel in Sertã dedicated to Saint Amaro.",
+                  "text": "Small chapel on a hill in Serta.",
                   "category": "landmark",
                   "coords": [
                         -8.10089,
@@ -29088,7 +31086,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Praça de Touros",
-                  "text": "Die ehemalige Stierkampfarena von Idanha-a-Nova.",
+                  "text": "Ehemalige Stierkampfarena in Idanha a Nova, heute Kulturstätte.",
                   "category": "landmark",
                   "coords": [
                         -7.244803,
@@ -29126,7 +31124,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Praça de Touros",
-                  "text": "Idanha-a-Nova egykori bikaviadal-arénája.",
+                  "text": "Egykori bikaviadal-aréna Idanha a Novában, ma kulturális helyszín.",
                   "category": "landmark",
                   "coords": [
                         -7.244803,
@@ -29164,7 +31162,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Praça de Touros",
-                  "text": "Fosta arenă de tauri din Idanha-a-Nova.",
+                  "text": "Fostă arenă de coridă în Idanha a Nova, astăzi loc cultural.",
                   "category": "landmark",
                   "coords": [
                         -7.244803,
@@ -29202,7 +31200,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Antiga Praça de Touros",
-                  "text": "The former bullring of Idanha-a-Nova.",
+                  "text": "Former bullring in Idanha a Nova, now a cultural venue.",
                   "category": "landmark",
                   "coords": [
                         -7.244803,
@@ -29601,7 +31599,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Entrada Principal",
-                  "text": "Haupteingang einer Sehenswürdigkeit in Belmonte.",
+                  "text": "Haupteingang der Burg von Belmonte.",
                   "category": "landmark",
                   "coords": [
                         -7.354829,
@@ -29648,7 +31646,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Entrada Principal",
-                  "text": "Egy belmonte-i látványosság főbejárata.",
+                  "text": "A belmontei vár főbejárata.",
                   "category": "landmark",
                   "coords": [
                         -7.354829,
@@ -29695,7 +31693,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Entrada Principal",
-                  "text": "Intrarea principală a unui obiectiv turistic din Belmonte.",
+                  "text": "Intrarea principală a castelului din Belmonte.",
                   "category": "landmark",
                   "coords": [
                         -7.354829,
@@ -29742,7 +31740,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Entrada Principal",
-                  "text": "Main entrance of a local attraction in Belmonte.",
+                  "text": "Main entrance of the castle of Belmonte.",
                   "category": "landmark",
                   "coords": [
                         -7.354829,
@@ -30447,7 +32445,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Castelo de Trancoso",
-                  "text": "Eine mittelalterliche Burg, die das Stadtbild von Trancoso prägt.",
+                  "text": "Eine mittelalterliche Burg auf einem Hügel mit einem quadratischen Bergfried und Panoramablick über Trancoso.",
                   "category": "castle",
                   "coords": [
                         -7.347491,
@@ -30474,7 +32472,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro da Cultura Judaica",
-                  "text": "Ein Museum in Trancoso, das der jüdischen Geschichte gewidmet ist.",
+                  "text": "Ein jüdisches Kulturzentrum, eröffnet 2012 in Trancoso.",
                   "category": "museum",
                   "coords": [
                         -7.348156,
@@ -30483,7 +32481,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palácio Ducal",
-                  "text": "Ein historisches Herrenhaus in der Stadt Trancoso.",
+                  "text": "Der ehemalige Herzogspalast in Trancoso, ein Renaissancebau mit einer prächtigen Treppe.",
                   "category": "historical",
                   "coords": [
                         -7.348934,
@@ -30492,7 +32490,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casa do Correio Mor",
-                  "text": "Ein bedeutendes historisches Gebäude in Trancoso.",
+                  "text": "Historisches Gebäude des ehemaligen Postmeisters in Trancoso.",
                   "category": "historical",
                   "coords": [
                         -7.349292,
@@ -30510,7 +32508,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Trancoso",
-                  "text": "Der Sitz der Stadtverwaltung von Trancoso.",
+                  "text": "Das Rathaus von Trancoso, untergebracht in einem Herrenhaus aus dem 16. Jahrhundert am Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         -7.350485,
@@ -30539,7 +32537,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Castelo de Trancoso",
-                  "text": "Trancoso városképét meghatározó középkori vár.",
+                  "text": "Középkori vár a dombtetőn, négyszögletes toronnyal és panorámás kilátással Trancosóra.",
                   "category": "castle",
                   "coords": [
                         -7.347491,
@@ -30566,7 +32564,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro da Cultura Judaica",
-                  "text": "A zsidó történelemnek szentelt múzeum Trancoso-ban.",
+                  "text": "Zsidó kulturális központ, 2012-ben nyílt meg Trancosóban.",
                   "category": "museum",
                   "coords": [
                         -7.348156,
@@ -30575,7 +32573,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palácio Ducal",
-                  "text": "Egy történelmi udvarház Trancoso városában.",
+                  "text": "Az egykori hercegi palota Trancosóban, reneszánsz épület díszes lépcsőházzal.",
                   "category": "historical",
                   "coords": [
                         -7.348934,
@@ -30584,7 +32582,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casa do Correio Mor",
-                  "text": "Egy jelentős történelmi épület Trancoso-ban.",
+                  "text": "Az egykori postamester történelmi épülete Trancosóban.",
                   "category": "historical",
                   "coords": [
                         -7.349292,
@@ -30602,7 +32600,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Trancoso",
-                  "text": "Trancoso városi önkormányzatának székhelye.",
+                  "text": "Trancoso városházája, egy 16. századi kúriában a főtéren.",
                   "category": "historical",
                   "coords": [
                         -7.350485,
@@ -30631,7 +32629,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Castelo de Trancoso",
-                  "text": "Un castel medieval care domină peisajul urban din Trancoso.",
+                  "text": "Un castel medieval pe deal, cu un turn pătrat și vedere panoramică asupra Trancosoului.",
                   "category": "castle",
                   "coords": [
                         -7.347491,
@@ -30658,7 +32656,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro da Cultura Judaica",
-                  "text": "Un muzeu din Trancoso dedicat istoriei evreiești.",
+                  "text": "Un centru cultural evreiesc deschis în 2012 în Trancoso.",
                   "category": "museum",
                   "coords": [
                         -7.348156,
@@ -30667,7 +32665,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palácio Ducal",
-                  "text": "Un conac istoric în orașul Trancoso.",
+                  "text": "Fostul Palat Ducal din Trancoso, o clădire renascentistă cu o scară impunătoare.",
                   "category": "historical",
                   "coords": [
                         -7.348934,
@@ -30676,7 +32674,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casa do Correio Mor",
-                  "text": "O clădire istorică importantă din Trancoso.",
+                  "text": "Clădire istorică a fostului poștaș în Trancoso.",
                   "category": "historical",
                   "coords": [
                         -7.349292,
@@ -30694,7 +32692,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Trancoso",
-                  "text": "Sediul administrației locale din Trancoso.",
+                  "text": "Primăria din Trancoso, găzduită într-un conac din secolul al XVI-lea în piața principală.",
                   "category": "historical",
                   "coords": [
                         -7.350485,
@@ -30723,7 +32721,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Castelo de Trancoso",
-                  "text": "A medieval castle that dominates the Trancoso skyline.",
+                  "text": "A hilltop medieval castle with a square keep and panoramic views over Trancoso.",
                   "category": "castle",
                   "coords": [
                         -7.347491,
@@ -30750,7 +32748,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Centro da Cultura Judaica",
-                  "text": "A museum in Trancoso dedicated to Jewish history.",
+                  "text": "A Jewish cultural centre opened in 2012 in Trancoso.",
                   "category": "museum",
                   "coords": [
                         -7.348156,
@@ -30759,7 +32757,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Palácio Ducal",
-                  "text": "A historic manor house in the city of Trancoso.",
+                  "text": "The former Ducal Palace in Trancoso, a Renaissance building with a grand staircase.",
                   "category": "historical",
                   "coords": [
                         -7.348934,
@@ -30768,7 +32766,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Casa do Correio Mor",
-                  "text": "A significant historic building in Trancoso.",
+                  "text": "Historic building of the former postmaster in Trancoso.",
                   "category": "historical",
                   "coords": [
                         -7.349292,
@@ -30786,7 +32784,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Trancoso",
-                  "text": "The seat of the local government in Trancoso.",
+                  "text": "The town hall of Trancoso, housed in a 16th-century manor building on the main square.",
                   "category": "historical",
                   "coords": [
                         -7.350485,
@@ -30879,7 +32877,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar das Casas Novas",
-                  "text": "Ein historisches Herrenhaus in Mêda.",
+                  "text": "Herrschaftliches Anwesen in Meda, umgeben von Gärten.",
                   "category": "historical",
                   "coords": [
                         -7.262738,
@@ -30897,7 +32895,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Mêda",
-                  "text": "Das Verwaltungsgebäude der Stadtverwaltung von Mêda.",
+                  "text": "Das Rathaus von Mêda, gelegen am Hauptplatz der Stadt.",
                   "category": "historical",
                   "coords": [
                         -7.261469,
@@ -30935,7 +32933,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar das Casas Novas",
-                  "text": "Történelmi udvarház Mêda városában.",
+                  "text": "Úri birtok Medában, kertekkel körülvéve.",
                   "category": "historical",
                   "coords": [
                         -7.262738,
@@ -30953,7 +32951,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Mêda",
-                  "text": "Mêda városának városházi épülete.",
+                  "text": "Mêda városházája a város főterén.",
                   "category": "historical",
                   "coords": [
                         -7.261469,
@@ -30991,7 +32989,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar das Casas Novas",
-                  "text": "Un conac istoric în Mêda.",
+                  "text": "Proprietate domnească în Meda, înconjurată de grădini.",
                   "category": "historical",
                   "coords": [
                         -7.262738,
@@ -31009,7 +33007,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Mêda",
-                  "text": "Clădirea administrativă a primăriei din Mêda.",
+                  "text": "Primăria din Mêda, situată în piața principală a orașului.",
                   "category": "historical",
                   "coords": [
                         -7.261469,
@@ -31047,7 +33045,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar das Casas Novas",
-                  "text": "A historic manor house in Mêda.",
+                  "text": "Manor estate in Meda surrounded by gardens.",
                   "category": "historical",
                   "coords": [
                         -7.262738,
@@ -31065,7 +33063,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Mêda",
-                  "text": "The administrative building of Mêda's town hall.",
+                  "text": "The town hall of Mêda, located on the town's main square.",
                   "category": "historical",
                   "coords": [
                         -7.261469,
@@ -31176,7 +33174,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja da Misericórdia de Freixo de Espada à Cinta",
-                  "text": "Ein religiöses Bauwerk der Misericórdia-Bruderschaft in Freixo de Espada à Cinta.",
+                  "text": "Die Igreja da Misericórdia de Freixo de Espada à Cinta ist eine Renaissance-Kirche aus dem 16. Jahrhundert mit Portal.",
                   "category": "religious",
                   "coords": [
                         -6.806073,
@@ -31194,7 +33192,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira do Pocinho",
-                  "text": "Die Albufeira do Pocinho ist ein großer See in Freixo De Espada A Cinta.",
+                  "text": "Stausee am Fluss Douro in der Nähe von Foz de Espada.",
                   "category": "natural",
                   "coords": [
                         -6.959387,
@@ -31212,7 +33210,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Embalse de Saucelle",
-                  "text": "Embalse de Saucelle ist ein Stausee an der Grenze bei Freixo De Espada A Cinta.",
+                  "text": "Stausee Saucelle am Douro, nahe der Grenze zu Spanien.",
                   "category": "natural",
                   "coords": [
                         -6.746327,
@@ -31277,7 +33275,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja da Misericórdia de Freixo de Espada à Cinta",
-                  "text": "A Misericórdia testvériség vallási épülete Freixo de Espada à Cintában.",
+                  "text": "A freixo de espada à cintai Igreja da Misericórdia egy 16. századi reneszánsz templom portállal.",
                   "category": "religious",
                   "coords": [
                         -6.806073,
@@ -31295,7 +33293,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira do Pocinho",
-                  "text": "Az Albufeira do Pocinho egy nagy tó Freixo De Espada A Cinta területén.",
+                  "text": "Víztározó a Douro folyón, Foz de Espada közelében.",
                   "category": "natural",
                   "coords": [
                         -6.959387,
@@ -31313,7 +33311,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Embalse de Saucelle",
-                  "text": "Az Embalse de Saucelle egy víztározó a határ mentén, Freixo De Espada A Cinta közelében.",
+                  "text": "Saucelle víztározó a Douro folyón, a spanyol határ közelében.",
                   "category": "natural",
                   "coords": [
                         -6.746327,
@@ -31378,7 +33376,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja da Misericórdia de Freixo de Espada à Cinta",
-                  "text": "Un edificiu religios al frăției Misericórdia din Freixo de Espada à Cinta.",
+                  "text": "Igreja da Misericórdia de Freixo de Espada à Cinta este o biserică renascentistă din secolul al XVI-lea cu portal.",
                   "category": "religious",
                   "coords": [
                         -6.806073,
@@ -31396,7 +33394,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira do Pocinho",
-                  "text": "Albufeira do Pocinho este un lac mare în Freixo De Espada A Cinta.",
+                  "text": "Lac de acumulare pe râul Douro, lângă Foz de Espada.",
                   "category": "natural",
                   "coords": [
                         -6.959387,
@@ -31414,7 +33412,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Embalse de Saucelle",
-                  "text": "Embalse de Saucelle este un lac de acumulare la graniță, lângă Freixo De Espada A Cinta.",
+                  "text": "Lacul de acumulare Saucelle pe râul Douro, aproape de granița cu Spania.",
                   "category": "natural",
                   "coords": [
                         -6.746327,
@@ -31479,7 +33477,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja da Misericórdia de Freixo de Espada à Cinta",
-                  "text": "A religious edifice of the Misericórdia brotherhood in Freixo de Espada à Cinta.",
+                  "text": "The Igreja da Misericórdia de Freixo de Espada à Cinta is a 16th-century Renaissance church with a portal.",
                   "category": "religious",
                   "coords": [
                         -6.806073,
@@ -31497,7 +33495,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira do Pocinho",
-                  "text": "Albufeira do Pocinho is a large lake in Freixo De Espada A Cinta.",
+                  "text": "Reservoir on the Douro River near Foz de Espada.",
                   "category": "natural",
                   "coords": [
                         -6.959387,
@@ -31515,7 +33513,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Embalse de Saucelle",
-                  "text": "Embalse de Saucelle is a reservoir on the border near Freixo De Espada A Cinta.",
+                  "text": "Saucelle reservoir on the Douro River near the Spanish border.",
                   "category": "natural",
                   "coords": [
                         -6.746327,
@@ -31608,7 +33606,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Figueira",
-                  "text": "Ein markanter Berggipfel in der Nähe von Mogadouro.",
+                  "text": "Ein Naturdenkmal mit einem jahrhundertealten Feigenbaum in der Landschaft von Mogadouro.",
                   "category": "natural",
                   "coords": [
                         -6.732529,
@@ -31626,7 +33624,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Menina a ler",
-                  "text": "Eine Skulptur in Mogadouro, die ein lesendes Mädchen darstellt.",
+                  "text": "Statue eines lesenden Mädchens auf dem Hauptplatz von Mogadouro.",
                   "category": "landmark",
                   "coords": [
                         -6.711483,
@@ -31718,7 +33716,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Figueira",
-                  "text": "Egy jellegzetes hegycsúcs Mogadouro közelében.",
+                  "text": "Természeti nevezetesség évszázados fügefával Mogadouro vidékén.",
                   "category": "natural",
                   "coords": [
                         -6.732529,
@@ -31736,7 +33734,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Menina a ler",
-                  "text": "Egy olvasó lányt ábrázoló szobor Mogadouro-ban.",
+                  "text": "Olvasó lány szobra Mogadouro főterén.",
                   "category": "landmark",
                   "coords": [
                         -6.711483,
@@ -31828,7 +33826,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Figueira",
-                  "text": "Un vârf montan proeminent în apropiere de Mogadouro.",
+                  "text": "Un reper natural cu un smochin secular în peisajul rural al Mogadouroului.",
                   "category": "natural",
                   "coords": [
                         -6.732529,
@@ -31846,7 +33844,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Menina a ler",
-                  "text": "O sculptură în Mogadouro înfățișând o fată care citește.",
+                  "text": "Statuia unei fete citind în piața principală din Mogadouro.",
                   "category": "landmark",
                   "coords": [
                         -6.711483,
@@ -31938,7 +33936,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Figueira",
-                  "text": "A prominent mountain peak near Mogadouro.",
+                  "text": "A natural landmark featuring a centuries-old fig tree in the countryside of Mogadouro.",
                   "category": "natural",
                   "coords": [
                         -6.732529,
@@ -31956,7 +33954,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Menina a ler",
-                  "text": "A sculpture in Mogadouro depicting a girl reading.",
+                  "text": "Statue of a girl reading in the main square of Mogadouro.",
                   "category": "landmark",
                   "coords": [
                         -6.711483,
@@ -32067,7 +34065,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Câmara Municipal de Alfândega da Fé",
-                  "text": "Das Rathaus der Gemeinde Alfândega da Fé.",
+                  "text": "Das Rathaus von Alfândega da Fé, ein Gebäude aus dem 19. Jahrhundert im Stadtzentrum.",
                   "category": "historical",
                   "coords": [
                         -6.963101,
@@ -32123,7 +34121,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Câmara Municipal de Alfândega da Fé",
-                  "text": "Alfândega da Fé község városházája.",
+                  "text": "Alfândega da Fé városházája, egy 19. századi épület a városközpontban.",
                   "category": "historical",
                   "coords": [
                         -6.963101,
@@ -32179,7 +34177,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Câmara Municipal de Alfândega da Fé",
-                  "text": "Primăria municipiului Alfândega da Fé.",
+                  "text": "Primăria din Alfândega da Fé, o clădire din secolul al XIX-lea în centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -6.963101,
@@ -32235,7 +34233,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Câmara Municipal de Alfândega da Fé",
-                  "text": "The town hall of the Alfândega da Fé municipality.",
+                  "text": "The town hall of Alfândega da Fé, a 19th-century building in the town centre.",
                   "category": "historical",
                   "coords": [
                         -6.963101,
@@ -32589,7 +34587,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "CICA - Centro Interpretativo do Castelo de Ansiães",
-                  "text": "Ein Interpretationszentrum, das die Geschichte der Burg von Ansiães erklärt.",
+                  "text": "Besucherzentrum der Burgruine Ansiães mit archäologischen Funden.",
                   "category": "museum",
                   "coords": [
                         -7.300426,
@@ -32598,7 +34596,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Núcleo Museológico da Telha - Telheira de Luzelos",
-                  "text": "Ein Museum, das der traditionellen Ziegelherstellung gewidmet ist.",
+                  "text": "Museum zur Geschichte der Ziegelherstellung in einer ehemaligen Ziegelei.",
                   "category": "museum",
                   "coords": [
                         -7.320906,
@@ -32625,7 +34623,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar dos Marizes",
-                  "text": "Ein historisches Herrenhaus in Carrazeda de Ansiães.",
+                  "text": "Historisches Herrenhaus der Familie Marizes, heute Veranstaltungsort.",
                   "category": "historical",
                   "coords": [
                         -7.327847,
@@ -32672,7 +34670,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "CICA - Centro Interpretativo do Castelo de Ansiães",
-                  "text": "Az Ansiães várának történetét bemutató látogatóközpont.",
+                  "text": "Az ansiães-i várrom látogatóközpontja régészeti leletekkel.",
                   "category": "museum",
                   "coords": [
                         -7.300426,
@@ -32681,7 +34679,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Núcleo Museológico da Telha - Telheira de Luzelos",
-                  "text": "A hagyományos téglagyártásnak szentelt múzeum.",
+                  "text": "Téglagyártás történetének múzeuma egy egykori téglagyárban.",
                   "category": "museum",
                   "coords": [
                         -7.320906,
@@ -32708,7 +34706,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar dos Marizes",
-                  "text": "Egy történelmi udvarház Carrazeda de Ansiães településén.",
+                  "text": "A Marizes család történelmi kúriája, ma rendezvényhelyszín.",
                   "category": "historical",
                   "coords": [
                         -7.327847,
@@ -32755,7 +34753,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "CICA - Centro Interpretativo do Castelo de Ansiães",
-                  "text": "Un centru de interpretare care explică istoria castelului Ansiães.",
+                  "text": "Centru de interpretare a ruinelor castelului Ansiães, cu descoperiri arheologice.",
                   "category": "museum",
                   "coords": [
                         -7.300426,
@@ -32764,7 +34762,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Núcleo Museológico da Telha - Telheira de Luzelos",
-                  "text": "Un muzeu dedicat fabricării tradiționale a țiglelor.",
+                  "text": "Muzeu al istoriei fabricării cărămizilor într-o fostă cărămidărie.",
                   "category": "museum",
                   "coords": [
                         -7.320906,
@@ -32791,7 +34789,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar dos Marizes",
-                  "text": "Un conac istoric în Carrazeda de Ansiães.",
+                  "text": "Conac istoric al familiei Marizes, astăzi loc de evenimente.",
                   "category": "historical",
                   "coords": [
                         -7.327847,
@@ -32838,7 +34836,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "CICA - Ansiães Castle Interpretive Center",
-                  "text": "An interpretive center explaining the history of Ansiães Castle.",
+                  "text": "Interpretive center of the Ansiães castle ruins with archaeological finds.",
                   "category": "museum",
                   "coords": [
                         -7.300426,
@@ -32847,7 +34845,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Núcleo Museológico da Telha - Telheira de Luzelos",
-                  "text": "A museum dedicated to traditional tile making.",
+                  "text": "Museum on the history of brickmaking in a former brick factory.",
                   "category": "museum",
                   "coords": [
                         -7.320906,
@@ -32874,7 +34872,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar dos Marizes",
-                  "text": "A historic manor house in Carrazeda de Ansiães.",
+                  "text": "Historic manor of the Marizes family, now an event venue.",
                   "category": "historical",
                   "coords": [
                         -7.327847,
@@ -32967,7 +34965,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Panorámico da Chouriça",
-                  "text": "Eine Panoramaschaukel mit Aussicht auf die Region Vinhais.",
+                  "text": "Aussichtsschaukel mit Blick auf das Tal von Vinhais.",
                   "category": "landmark",
                   "coords": [
                         -6.993586,
@@ -32985,7 +34983,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Vinhais",
-                  "text": "Ein historischer Pranger im Zentrum von Vinhais.",
+                  "text": "Der Pelourinho de Vinhais ist ein steinerner Pranger aus dem 16. Jahrhundert auf dem Stadtplatz.",
                   "category": "landmark",
                   "coords": [
                         -6.999915,
@@ -32994,7 +34992,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Vinhais",
-                  "text": "Das Rathaus der Gemeinde Vinhais.",
+                  "text": "Das Rathaus von Vinhais, am historischen Platz mit einem manuelinischen Fenster gelegen.",
                   "category": "historical",
                   "coords": [
                         -7.002283,
@@ -33003,7 +35001,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de São Facundo",
-                  "text": "Ein religiöses Gebäude in der Stadt Vinhais.",
+                  "text": "Eine Kirche, dem Heiligen Facundus geweiht, im historischen Zentrum von Vinhais.",
                   "category": "religious",
                   "coords": [
                         -6.999729,
@@ -33030,7 +35028,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia Fluvial da Ponte da Ranca",
-                  "text": "Ein öffentlicher Badeplatz in Vinhais für eine Abkühlung im Sommer.",
+                  "text": "Flussstrand an der Brücke von Ranca, ideal zum Baden.",
                   "category": "family",
                   "coords": [
                         -6.99697,
@@ -33059,7 +35057,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Panorámico da Chouriça",
-                  "text": "Panorámahinta kilátással Vinhais régiójára.",
+                  "text": "Kilátóhinta a Vinhais-völgyre néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         -6.993586,
@@ -33077,7 +35075,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Vinhais",
-                  "text": "Történelmi szégyenoszlop Vinhais központjában.",
+                  "text": "A Pelourinho de Vinhais egy 16. századi kőpelengér a város főterén.",
                   "category": "landmark",
                   "coords": [
                         -6.999915,
@@ -33086,7 +35084,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Vinhais",
-                  "text": "Vinhais község városházája.",
+                  "text": "Vinhais városházája a történelmi téren, manuelinus stílusú ablakkal.",
                   "category": "historical",
                   "coords": [
                         -7.002283,
@@ -33095,7 +35093,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de São Facundo",
-                  "text": "Vallási épület Vinhais városában.",
+                  "text": "Szent Facundus tiszteletére szentelt templom Vinhais történelmi központjában.",
                   "category": "religious",
                   "coords": [
                         -6.999729,
@@ -33122,7 +35120,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia Fluvial da Ponte da Ranca",
-                  "text": "Nyilvános fürdőhely Vinhais városában egy nyári hűsöléshez.",
+                  "text": "Folyami strand a Ranca hídnál, úszásra ideális.",
                   "category": "family",
                   "coords": [
                         -6.99697,
@@ -33151,7 +35149,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Panorámico da Chouriça",
-                  "text": "Un leagăn panoramic cu vedere asupra regiunii Vinhais.",
+                  "text": "Leagăn panoramic cu vedere spre valea Vinhais.",
                   "category": "landmark",
                   "coords": [
                         -6.993586,
@@ -33169,7 +35167,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Vinhais",
-                  "text": "Un stâlp al infamiei istoric în centrul localității Vinhais.",
+                  "text": "Pelourinho de Vinhais este un peloriu de piatră din secolul al XVI-lea în piața orașului.",
                   "category": "landmark",
                   "coords": [
                         -6.999915,
@@ -33178,7 +35176,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Vinhais",
-                  "text": "Primăria municipiului Vinhais.",
+                  "text": "Primăria din Vinhais, situată în piața istorică, cu o fereastră manuelină.",
                   "category": "historical",
                   "coords": [
                         -7.002283,
@@ -33187,7 +35185,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de São Facundo",
-                  "text": "Un lăcaș de cult în orașul Vinhais.",
+                  "text": "O biserică dedicată Sfântului Facund în centrul istoric al Vinhaisului.",
                   "category": "religious",
                   "coords": [
                         -6.999729,
@@ -33214,7 +35212,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia Fluvial da Ponte da Ranca",
-                  "text": "Un loc public de scăldat în Vinhais pentru o răcorire de vară.",
+                  "text": "Plajă fluvială la podul Ranca, ideală pentru scăldat.",
                   "category": "family",
                   "coords": [
                         -6.99697,
@@ -33243,7 +35241,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Panorámico da Chouriça",
-                  "text": "A panoramic swing with views over the Vinhais region.",
+                  "text": "Panoramic swing with a view over the Vinhais valley.",
                   "category": "landmark",
                   "coords": [
                         -6.993586,
@@ -33261,7 +35259,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Pelourinho de Vinhais",
-                  "text": "A historic pillory in the center of Vinhais.",
+                  "text": "The Pelourinho de Vinhais is a 16th-century stone pillory in the town square.",
                   "category": "landmark",
                   "coords": [
                         -6.999915,
@@ -33270,7 +35268,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Vinhais",
-                  "text": "The town hall of the Vinhais municipality.",
+                  "text": "The town hall of Vinhais, located on the historic square with a Manueline window.",
                   "category": "historical",
                   "coords": [
                         -7.002283,
@@ -33279,7 +35277,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de São Facundo",
-                  "text": "A religious building in the town of Vinhais.",
+                  "text": "A church dedicated to Saint Facundus in the historic centre of Vinhais.",
                   "category": "religious",
                   "coords": [
                         -6.999729,
@@ -33306,7 +35304,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia Fluvial da Ponte da Ranca",
-                  "text": "A public bath in Vinhais for a summer cool down.",
+                  "text": "River beach at the bridge of Ranca, ideal for swimming.",
                   "category": "family",
                   "coords": [
                         -6.99697,
@@ -33363,7 +35361,7 @@ export const portugalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Barragem da Carvalheira",
-                  "text": "Die Barragem da Carvalheira ist ein ruhiger Stausee in Macedo De Cavaleiros.",
+                  "text": "Staudamm am Fluss Tua in Mirandela.",
                   "category": "natural",
                   "coords": [
                         -6.978573,
@@ -33372,7 +35370,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira do Azibo",
-                  "text": "Die Albufeira do Azibo ist ein bekannter See für Erholung in Macedo De Cavaleiros.",
+                  "text": "Stausee mit Strand und Wassersportmöglichkeiten in Mirandela.",
                   "category": "natural",
                   "coords": [
                         -6.903792,
@@ -33381,7 +35379,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Mercado",
-                  "text": "Der Parque Infantil do Mercado ist ein zentraler Spielplatz in Macedo De Cavaleiros.",
+                  "text": "Spielplatz neben dem Marktplatz von Mirandela.",
                   "category": "family",
                   "coords": [
                         -6.958577,
@@ -33408,7 +35406,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Sacra",
-                  "text": "Ein Museum für religiöse Kunst in Macedo de Cavaleiros.",
+                  "text": "Museum mit religiösen Kunstwerken aus der Region Mirandela.",
                   "category": "museum",
                   "coords": [
                         -6.961197,
@@ -33437,7 +35435,7 @@ export const portugalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Barragem da Carvalheira",
-                  "text": "A Barragem da Carvalheira egy nyugodt víztározó Macedo De Cavaleirosben.",
+                  "text": "Gát a Tua folyón Mirandelában.",
                   "category": "natural",
                   "coords": [
                         -6.978573,
@@ -33446,7 +35444,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira do Azibo",
-                  "text": "Az Albufeira do Azibo egy jól ismert pihenőhely Macedo De Cavaleirosben.",
+                  "text": "Víztározó stranddal és vízi sport lehetőségekkel Mirandelában.",
                   "category": "natural",
                   "coords": [
                         -6.903792,
@@ -33455,7 +35453,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Mercado",
-                  "text": "A Parque Infantil do Mercado egy központi játszótér Macedo De Cavaleirosben.",
+                  "text": "Játszótér a mirandelai piac mellett.",
                   "category": "family",
                   "coords": [
                         -6.958577,
@@ -33482,7 +35480,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Sacra",
-                  "text": "Egyházművészeti múzeum Macedo de Cavaleirosban.",
+                  "text": "Múzeum vallási műalkotásokkal a mirandelai régióból.",
                   "category": "museum",
                   "coords": [
                         -6.961197,
@@ -33511,7 +35509,7 @@ export const portugalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Barragem da Carvalheira",
-                  "text": "Barragem da Carvalheira este un lac de acumulare liniștit în Macedo De Cavaleiros.",
+                  "text": "Baraj pe râul Tua în Mirandela.",
                   "category": "natural",
                   "coords": [
                         -6.978573,
@@ -33520,7 +35518,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira do Azibo",
-                  "text": "Albufeira do Azibo este un lac cunoscut pentru recreere în Macedo De Cavaleiros.",
+                  "text": "Lac de acumulare cu plajă și activități nautice în Mirandela.",
                   "category": "natural",
                   "coords": [
                         -6.903792,
@@ -33529,7 +35527,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Mercado",
-                  "text": "Parque Infantil do Mercado este un teren de joacă central în Macedo De Cavaleiros.",
+                  "text": "Loc de joacă lângă piața din Mirandela.",
                   "category": "family",
                   "coords": [
                         -6.958577,
@@ -33556,7 +35554,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Sacra",
-                  "text": "Un muzeu de artă sacră în Macedo de Cavaleiros.",
+                  "text": "Muzeu cu opere de artă religioasă din regiunea Mirandela.",
                   "category": "museum",
                   "coords": [
                         -6.961197,
@@ -33585,7 +35583,7 @@ export const portugalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Barragem da Carvalheira",
-                  "text": "Barragem da Carvalheira is a peaceful reservoir in Macedo De Cavaleiros.",
+                  "text": "Dam on the Tua River in Mirandela.",
                   "category": "natural",
                   "coords": [
                         -6.978573,
@@ -33594,7 +35592,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Albufeira do Azibo",
-                  "text": "Albufeira do Azibo is a well-known lake for recreation in Macedo De Cavaleiros.",
+                  "text": "Reservoir with a beach and water sports in Mirandela.",
                   "category": "natural",
                   "coords": [
                         -6.903792,
@@ -33603,7 +35601,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil do Mercado",
-                  "text": "Parque Infantil do Mercado is a central playground in Macedo De Cavaleiros.",
+                  "text": "Children's playground next to the market square of Mirandela.",
                   "category": "family",
                   "coords": [
                         -6.958577,
@@ -33630,7 +35628,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu de Arte Sacra",
-                  "text": "A museum of sacred art in Macedo de Cavaleiros.",
+                  "text": "Museum with religious artworks from the Mirandela region.",
                   "category": "museum",
                   "coords": [
                         -6.961197,
@@ -34056,7 +36054,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Senhora do Outeiro",
-                  "text": "Eine beliebte Panoramaschaukel in Penela.",
+                  "text": "Aussichtsschaukel am Wallfahrtsort Senhora do Outeiro bei Penela.",
                   "category": "landmark",
                   "coords": [
                         -8.402556,
@@ -34065,7 +36063,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar Quinta da Boiça",
-                  "text": "Ein historisches Herrenhaus in Penela.",
+                  "text": "Historischer Landsitz mit Weingut in Penela.",
                   "category": "historical",
                   "coords": [
                         -8.370968,
@@ -34074,7 +36072,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço da vinha Encosta da Criveira",
-                  "text": "Eine Schaukel in den Weinbergen von Penela.",
+                  "text": "Schaukel inmitten der Weinberge von Penela.",
                   "category": "landmark",
                   "coords": [
                         -8.397054,
@@ -34092,7 +36090,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santa Eufémia",
-                  "text": "Eine lokale Kirche in der Gemeinde Penela.",
+                  "text": "Die Igreja de Santa Eufémia in Penela ist eine romanische Kirche aus dem 13. Jahrhundert mit Glockenturm.",
                   "category": "religious",
                   "coords": [
                         -8.389929,
@@ -34119,7 +36117,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Presa das Bicas",
-                  "text": "Ein Bereich zum Schwimmen in Penela in natürlicher Umgebung.",
+                  "text": "Kleiner Staudamm mit Wasserfontänen, beliebt für Familienausflüge in Penela.",
                   "category": "family",
                   "coords": [
                         -8.377068,
@@ -34139,7 +36137,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Senhora do Outeiro",
-                  "text": "Népszerű panorámahinta Penela városában.",
+                  "text": "Kilátóhinta a Senhora do Outeiro zarándokhelynél Penelában.",
                   "category": "landmark",
                   "coords": [
                         -8.402556,
@@ -34148,7 +36146,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar Quinta da Boiça",
-                  "text": "Történelmi udvarház Penela városában.",
+                  "text": "Történelmi birtok szőlőbirtokkal Penelában.",
                   "category": "historical",
                   "coords": [
                         -8.370968,
@@ -34157,7 +36155,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço da vinha Encosta da Criveira",
-                  "text": "Penela szőlőültetvényei között található hinta.",
+                  "text": "Hinta a penelai szőlőültetvények közepén.",
                   "category": "landmark",
                   "coords": [
                         -8.397054,
@@ -34175,7 +36173,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santa Eufémia",
-                  "text": "Helyi templom Penela községben.",
+                  "text": "A penelai Igreja de Santa Eufémia egy 13. századi román stílusú templom harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         -8.389929,
@@ -34202,7 +36200,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Presa das Bicas",
-                  "text": "Úszásra alkalmas terület Penela városában, természetes környezetben.",
+                  "text": "Kis gát vízsugarakkal, népszerű családi kirándulóhely Penelában.",
                   "category": "family",
                   "coords": [
                         -8.377068,
@@ -34222,7 +36220,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Senhora do Outeiro",
-                  "text": "Un leagăn panoramic popular în Penela.",
+                  "text": "Leagăn panoramic la locul de pelerinaj Senhora do Outeiro lângă Penela.",
                   "category": "landmark",
                   "coords": [
                         -8.402556,
@@ -34231,7 +36229,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar Quinta da Boiça",
-                  "text": "Un conac istoric în Penela.",
+                  "text": "Proprietate istorică cu podgorie în Penela.",
                   "category": "historical",
                   "coords": [
                         -8.370968,
@@ -34240,7 +36238,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço da vinha Encosta da Criveira",
-                  "text": "Un leagăn situat în podgoriile din Penela.",
+                  "text": "Leagăn în mijlocul podgoriilor din Penela.",
                   "category": "landmark",
                   "coords": [
                         -8.397054,
@@ -34258,7 +36256,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santa Eufémia",
-                  "text": "O biserică locală în municipiul Penela.",
+                  "text": "Igreja de Santa Eufémia din Penela este o biserică romanică din secolul al XIII-lea cu clopotniță.",
                   "category": "religious",
                   "coords": [
                         -8.389929,
@@ -34285,7 +36283,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Presa das Bicas",
-                  "text": "O zonă pentru înot în Penela într-un cadru natural.",
+                  "text": "Baraj mic cu jeturi de apă, popular pentru excursii de familie în Penela.",
                   "category": "family",
                   "coords": [
                         -8.377068,
@@ -34305,7 +36303,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço Senhora do Outeiro",
-                  "text": "A popular panoramic swing in Penela.",
+                  "text": "Panoramic swing at the pilgrimage site of Senhora do Outeiro near Penela.",
                   "category": "landmark",
                   "coords": [
                         -8.402556,
@@ -34314,7 +36312,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Solar Quinta da Boiça",
-                  "text": "A historic manor house in Penela.",
+                  "text": "Historic estate with a vineyard in Penela.",
                   "category": "historical",
                   "coords": [
                         -8.370968,
@@ -34323,7 +36321,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Baloiço da vinha Encosta da Criveira",
-                  "text": "A swing located in the vineyards of Penela.",
+                  "text": "Swing amidst the vineyards of Penela.",
                   "category": "landmark",
                   "coords": [
                         -8.397054,
@@ -34341,7 +36339,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Igreja de Santa Eufémia",
-                  "text": "A local church in the Penela municipality.",
+                  "text": "The Igreja de Santa Eufémia in Penela is a 13th-century Romanesque church with a bell tower.",
                   "category": "religious",
                   "coords": [
                         -8.389929,
@@ -34368,7 +36366,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Presa das Bicas",
-                  "text": "An area for swimming in Penela in a natural setting.",
+                  "text": "Small dam with water spouts, popular for family outings in Penela.",
                   "category": "family",
                   "coords": [
                         -8.377068,
@@ -34479,7 +36477,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu LOAD ZX Spectrum",
-                  "text": "Ein Museum, das die Geschichte des ZX Spectrum Computers feiert.",
+                  "text": "Einzigartiges Museum, das dem ZX Spectrum-Computer gewidmet ist, in Cantanhede.",
                   "category": "museum",
                   "coords": [
                         -8.592669,
@@ -34497,7 +36495,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de Feiras e Exposições de Cantanhede",
-                  "text": "Ein Veranstaltungsort für Messen und Ausstellungen in Cantanhede.",
+                  "text": "Großer Ausstellungspark, der Messen und Veranstaltungen in Cantanhede beherbergt.",
                   "category": "landmark",
                   "coords": [
                         -8.588326,
@@ -34506,7 +36504,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de São João Baptista",
-                  "text": "Eine religiöse Kapelle in Cantanhede.",
+                  "text": "Die Capela de São João Baptista in Cantanhede ist eine Kapelle aus dem 16. Jahrhundert mit bemalten Tafeln.",
                   "category": "religious",
                   "coords": [
                         -8.591525,
@@ -34515,7 +36513,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de São Tomé",
-                  "text": "Eine kleine Kapelle in der Stadt Cantanhede.",
+                  "text": "Eine kleine Kapelle, dem Heiligen Thomas geweiht, im ländlichen Gebiet von Cantanhede.",
                   "category": "religious",
                   "coords": [
                         -8.581724,
@@ -34524,7 +36522,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Camara Municipal de Cantanhede",
-                  "text": "Das Rathaus von Cantanhede ist der Sitz der lokalen Stadtverwaltung.",
+                  "text": "Das Rathaus von Cantanhede, ein bemerkenswertes Gebäude im Stadtzentrum.",
                   "category": "landmark",
                   "coords": [
                         -8.593734,
@@ -34544,7 +36542,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu LOAD ZX Spectrum",
-                  "text": "A ZX Spectrum számítógép történetét bemutató múzeum.",
+                  "text": "Egyedülálló múzeum, amely a ZX Spectrum számítógépnek szentelt, Cantanhedében.",
                   "category": "museum",
                   "coords": [
                         -8.592669,
@@ -34562,7 +36560,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de Feiras e Exposições de Cantanhede",
-                  "text": "Vásárok és kiállítások helyszíne Cantanhede városában.",
+                  "text": "Nagy kiállítási park, amely vásároknak és eseményeknek ad otthont Cantanhedében.",
                   "category": "landmark",
                   "coords": [
                         -8.588326,
@@ -34571,7 +36569,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de São João Baptista",
-                  "text": "Egy vallási kápolna Cantanhede városában.",
+                  "text": "A cantanhedei Capela de São João Baptista egy 16. századi kápolna festett táblákkal.",
                   "category": "religious",
                   "coords": [
                         -8.591525,
@@ -34580,7 +36578,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de São Tomé",
-                  "text": "Egy kis kápolna Cantanhede városában.",
+                  "text": "Kis kápolna, Szent Tamás tiszteletére szentelve, Cantanhede vidéki területén.",
                   "category": "religious",
                   "coords": [
                         -8.581724,
@@ -34589,7 +36587,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Camara Municipal de Cantanhede",
-                  "text": "Cantanhede városháza a helyi önkormányzat székhelye.",
+                  "text": "Cantanhede városházája, egy figyelemre méltó épület a városközpontban.",
                   "category": "landmark",
                   "coords": [
                         -8.593734,
@@ -34609,7 +36607,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu LOAD ZX Spectrum",
-                  "text": "Un muzeu care celebrează istoria computerului ZX Spectrum.",
+                  "text": "Muzeu unic dedicat computerului ZX Spectrum, în Cantanhede.",
                   "category": "museum",
                   "coords": [
                         -8.592669,
@@ -34627,7 +36625,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de Feiras e Exposições de Cantanhede",
-                  "text": "Un spațiu dedicat târgurilor și expozițiilor în Cantanhede.",
+                  "text": "Parc mare de expoziții care găzduiește târguri și evenimente în Cantanhede.",
                   "category": "landmark",
                   "coords": [
                         -8.588326,
@@ -34636,7 +36634,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de São João Baptista",
-                  "text": "O capelă religioasă în Cantanhede.",
+                  "text": "Capela de São João Baptista din Cantanhede este o capelă din secolul al XVI-lea cu panouri pictate.",
                   "category": "religious",
                   "coords": [
                         -8.591525,
@@ -34645,7 +36643,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de São Tomé",
-                  "text": "O mică capelă în orașul Cantanhede.",
+                  "text": "O capelă mică dedicată Sfântului Toma în zona rurală a Cantanhedei.",
                   "category": "religious",
                   "coords": [
                         -8.581724,
@@ -34654,7 +36652,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Camara Municipal de Cantanhede",
-                  "text": "Primăria din Cantanhede este sediul administrației locale.",
+                  "text": "Primăria din Cantanhede, o clădire remarcabilă în centrul orașului.",
                   "category": "landmark",
                   "coords": [
                         -8.593734,
@@ -34674,7 +36672,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu LOAD ZX Spectrum",
-                  "text": "A museum celebrating the history of the ZX Spectrum computer.",
+                  "text": "Unique museum dedicated to the ZX Spectrum computer in Cantanhede.",
                   "category": "museum",
                   "coords": [
                         -8.592669,
@@ -34692,7 +36690,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Parque de Feiras e Exposições de Cantanhede",
-                  "text": "A venue for fairs and exhibitions in Cantanhede.",
+                  "text": "Large exhibition park hosting trade fairs and events in Cantanhede.",
                   "category": "landmark",
                   "coords": [
                         -8.588326,
@@ -34701,7 +36699,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de São João Baptista",
-                  "text": "A religious chapel in Cantanhede.",
+                  "text": "The Capela de São João Baptista in Cantanhede is a 16th-century chapel with painted panels.",
                   "category": "religious",
                   "coords": [
                         -8.591525,
@@ -34710,7 +36708,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Capela de São Tomé",
-                  "text": "A small chapel in the city of Cantanhede.",
+                  "text": "A small chapel dedicated to Saint Thomas in the rural area of Cantanhede.",
                   "category": "religious",
                   "coords": [
                         -8.581724,
@@ -34719,7 +36717,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Camara Municipal de Cantanhede",
-                  "text": "The town hall of Cantanhede is the seat of the local municipal government.",
+                  "text": "The town hall of Cantanhede, a notable building in the town centre.",
                   "category": "landmark",
                   "coords": [
                         -8.593734,
@@ -34947,7 +36945,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Farol de Vila Real de Santo António",
-                  "text": "Ein 1923 erbauter Leuchtturm in Vila Real de Santo António.",
+                  "text": "Der Farol de Vila Real de Santo António ist ein Leuchtturm aus dem 19. Jahrhundert an der Mündung des Guadiana.",
                   "category": "landmark",
                   "coords": [
                         -7.416313,
@@ -35010,7 +37008,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro do Revelim de Santo António",
-                  "text": "Ein modernes Freilufttheater im Revelim de Santo António Park.",
+                  "text": "Freiluft-Amphitheater innerhalb der historischen Festung Santo António in Tavira.",
                   "category": "cultural",
                   "coords": [
                         -7.440024,
@@ -35028,7 +37026,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Playa de San Bruno",
-                  "text": "Die Playa de San Bruno ist ein Strand in Vila Real de Santo António.",
+                  "text": "Sandstrand an der Algarveküste, benannt nach San Bruno, in der Nähe von Tavira.",
                   "category": "recreational",
                   "coords": [
                         -7.392818,
@@ -35048,7 +37046,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Farol de Vila Real de Santo António",
-                  "text": "1923-ban épült világítótorony Vila Real de Santo António városában.",
+                  "text": "A Farol de Vila Real de Santo António egy 19. századi világítótorony a Guadiana torkolatánál.",
                   "category": "landmark",
                   "coords": [
                         -7.416313,
@@ -35111,7 +37109,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro do Revelim de Santo António",
-                  "text": "Modern szabadtéri színház a Revelim de Santo António parkban.",
+                  "text": "Szabadtéri amfiteátrum a Santo António erődítményen belül Tavira közelében.",
                   "category": "cultural",
                   "coords": [
                         -7.440024,
@@ -35129,7 +37127,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Playa de San Bruno",
-                  "text": "A Playa de San Bruno egy strand Vila Real de Santo António területén.",
+                  "text": "Homokos strand az Algarve-parton, San Bruno néven, Tavira közelében.",
                   "category": "recreational",
                   "coords": [
                         -7.392818,
@@ -35149,7 +37147,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Farol de Vila Real de Santo António",
-                  "text": "Un far construit în 1923 în Vila Real de Santo António.",
+                  "text": "Farol de Vila Real de Santo António este un far din secolul al XIX-lea la gura râului Guadiana.",
                   "category": "landmark",
                   "coords": [
                         -7.416313,
@@ -35212,7 +37210,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro do Revelim de Santo António",
-                  "text": "Un amfiteatru modern în aer liber situat în parcul Revelim de Santo António.",
+                  "text": "Amfiteatru în aer liber în interiorul fortificației istorice Santo António lângă Tavira.",
                   "category": "cultural",
                   "coords": [
                         -7.440024,
@@ -35230,7 +37228,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Playa de San Bruno",
-                  "text": "Playa de San Bruno este o plajă situată în Vila Real de Santo António.",
+                  "text": "Plajă nisipoasă pe coasta Algarve, numită San Bruno, lângă Tavira.",
                   "category": "recreational",
                   "coords": [
                         -7.392818,
@@ -35250,7 +37248,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Farol de Vila Real de Santo António",
-                  "text": "A lighthouse built in 1923 in Vila Real de Santo António.",
+                  "text": "The Farol de Vila Real de Santo António is a 19th-century lighthouse at the mouth of the Guadiana River.",
                   "category": "landmark",
                   "coords": [
                         -7.416313,
@@ -35313,7 +37311,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Anfiteatro do Revelim de Santo António",
-                  "text": "A modern open-air theatre located in the Revelim de Santo António park.",
+                  "text": "Open-air amphitheater within the historic fortification of Santo António near Tavira.",
                   "category": "cultural",
                   "coords": [
                         -7.440024,
@@ -35331,7 +37329,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Playa de San Bruno",
-                  "text": "Playa de San Bruno is a beach located in Vila Real de Santo António.",
+                  "text": "Sandy beach on the Algarve coast named San Bruno, near Tavira.",
                   "category": "recreational",
                   "coords": [
                         -7.392818,
@@ -35415,7 +37413,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Olhão",
-                  "text": "Ein Museum, das der Geschichte und Kultur von Olhão gewidmet ist.",
+                  "text": "Stadtmuseum in einem historischen Gebäude im alten Zentrum von Olhão, mit lokaler Geschichte.",
                   "category": "museum",
                   "coords": [
                         -7.841026,
@@ -35424,7 +37422,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório Municipal de Olhão",
-                  "text": "Das städtische Auditorium von Olhão für kulturelle Veranstaltungen.",
+                  "text": "Moderner Veranstaltungssaal in Olhão, genutzt für Konzerte und Theateraufführungen.",
                   "category": "cultural",
                   "coords": [
                         -7.837141,
@@ -35469,7 +37467,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ponte Velha de Quelfes",
-                  "text": "Eine alte Brücke in Quelfes mit römischen Ursprüngen.",
+                  "text": "Eine historische alte Brücke, denkmalgeschützt in Olhão.",
                   "category": "historical",
                   "coords": [
                         -7.829932,
@@ -35487,7 +37485,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Sabino Boat Tours",
-                  "text": "Ein Anbieter für Bootstouren in den Gewässern von Olhão.",
+                  "text": "Bootstouren, die die Lagune Ria Formosa von Olhão aus erkunden.",
                   "category": "landmark",
                   "coords": [
                         -7.837497,
@@ -35505,7 +37503,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Associação Cultural Re-Criativa República 14",
-                  "text": "Ein lokaler Kulturverein und Veranstaltungsort in Olhão.",
+                  "text": "Kreativer Kulturraum in einem ehemaligen republikanischen Gebäude in Olhão.",
                   "category": "cultural",
                   "coords": [
                         -7.839935,
@@ -35514,7 +37512,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Olhão",
-                  "text": "Das Rathausgebäude der Gemeinde Olhão.",
+                  "text": "Das Rathaus von Olhão, ein Gebäude aus dem 19. Jahrhundert mit einem Uhrenturm mit Blick auf die Ria Formosa.",
                   "category": "historical",
                   "coords": [
                         -7.841736,
@@ -35532,7 +37530,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Torre de Marim",
-                  "text": "Ein historischer Wachturm in der Gegend von Marim.",
+                  "text": "Ein historischer Turm, denkmalgeschützt in Olhão.",
                   "category": "landmark",
                   "coords": [
                         -7.812077,
@@ -35604,7 +37602,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia dos Cavacos",
-                  "text": "Praia dos Cavacos ist ein ruhiger Strand in Olhão.",
+                  "text": "Ein Sandstrand an der Ria Formosa Lagune bei Olhão, beliebt zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         -7.795974,
@@ -35642,7 +37640,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Olhão",
-                  "text": "Olhão történelmét és kultúráját bemutató múzeum.",
+                  "text": "Városi múzeum egy történelmi épületben Olhão óvárosában, helyi történelemmel.",
                   "category": "museum",
                   "coords": [
                         -7.841026,
@@ -35651,7 +37649,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório Municipal de Olhão",
-                  "text": "Olhão városi auditóriuma kulturális események számára.",
+                  "text": "Modern előadóterem Olhãoban, koncertek és színházi előadások számára.",
                   "category": "cultural",
                   "coords": [
                         -7.837141,
@@ -35696,7 +37694,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ponte Velha de Quelfes",
-                  "text": "Egy régi híd Quelfesben, római eredettel.",
+                  "text": "Történelmi régi híd, műemlék Olhãóban.",
                   "category": "historical",
                   "coords": [
                         -7.829932,
@@ -35714,7 +37712,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Sabino Boat Tours",
-                  "text": "Hajókirándulásokat kínáló szolgáltató Olhão vizein.",
+                  "text": "Hajótúrák, amelyek a Ria Formosa lagúnát fedezik fel Olhãoból.",
                   "category": "landmark",
                   "coords": [
                         -7.837497,
@@ -35732,7 +37730,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Associação Cultural Re-Criativa República 14",
-                  "text": "Helyi kulturális egyesület és rendezvényhelyszín Olhãóban.",
+                  "text": "Kreatív kulturális tér egy egykori republikánus épületben Olhãoban.",
                   "category": "cultural",
                   "coords": [
                         -7.839935,
@@ -35741,7 +37739,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Olhão",
-                  "text": "Olhão község városházájának épülete.",
+                  "text": "Olhão városházája, egy 19. századi épület óratoronnyal, kilátással a Ria Formosára.",
                   "category": "historical",
                   "coords": [
                         -7.841736,
@@ -35759,7 +37757,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Torre de Marim",
-                  "text": "Egy történelmi őrtorony Marim környékén.",
+                  "text": "Történelmi torony, műemlék Olhãóban.",
                   "category": "landmark",
                   "coords": [
                         -7.812077,
@@ -35831,7 +37829,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia dos Cavacos",
-                  "text": "A Praia dos Cavacos egy tengerparti strand Olhãoban.",
+                  "text": "Homokos strand a Ria Formosa lagúnánál Olhão közelében, népszerű fürdőzésre.",
                   "category": "recreational",
                   "coords": [
                         -7.795974,
@@ -35869,7 +37867,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Olhão",
-                  "text": "Un muzeu dedicat istoriei și culturii orașului Olhão.",
+                  "text": "Muzeu municipal într-o clădire istorică din centrul vechi al Olhão, cu istorie locală.",
                   "category": "museum",
                   "coords": [
                         -7.841026,
@@ -35878,7 +37876,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório Municipal de Olhão",
-                  "text": "Auditoriul municipal din Olhão pentru evenimente culturale.",
+                  "text": "Auditoriu modern în Olhão, folosit pentru concerte și piese de teatru.",
                   "category": "cultural",
                   "coords": [
                         -7.837141,
@@ -35923,7 +37921,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ponte Velha de Quelfes",
-                  "text": "Un pod vechi în Quelfes, de origine romană.",
+                  "text": "Un pod vechi istoric, monument protejat în Olhão.",
                   "category": "historical",
                   "coords": [
                         -7.829932,
@@ -35941,7 +37939,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Sabino Boat Tours",
-                  "text": "Un furnizor de tururi cu barca în apele din Olhão.",
+                  "text": "Tururi cu barca care explorează laguna Ria Formosa din Olhão.",
                   "category": "landmark",
                   "coords": [
                         -7.837497,
@@ -35959,7 +37957,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Associação Cultural Re-Criativa República 14",
-                  "text": "O asociație culturală locală și loc de desfășurare în Olhão.",
+                  "text": "Spațiu cultural creativ într-o fostă clădire republicană în Olhão.",
                   "category": "cultural",
                   "coords": [
                         -7.839935,
@@ -35968,7 +37966,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Olhão",
-                  "text": "Clădirea primăriei municipiului Olhão.",
+                  "text": "Primăria din Olhão, o clădire din secolul al XIX-lea cu un turn cu ceas care domină Ria Formosa.",
                   "category": "historical",
                   "coords": [
                         -7.841736,
@@ -35986,7 +37984,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Torre de Marim",
-                  "text": "Un turn de veghe istoric în zona Marim.",
+                  "text": "Un turn istoric, monument protejat în Olhão.",
                   "category": "landmark",
                   "coords": [
                         -7.812077,
@@ -36058,7 +38056,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia dos Cavacos",
-                  "text": "Praia dos Cavacos este o plajă situată în Olhão.",
+                  "text": "O plajă nisipoasă pe laguna Ria Formosa lângă Olhão, populară pentru înot.",
                   "category": "recreational",
                   "coords": [
                         -7.795974,
@@ -36096,7 +38094,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Museu Municipal de Olhão",
-                  "text": "A museum dedicated to the history and culture of Olhão.",
+                  "text": "Municipal museum in a historic building in Olhão's old town, showcasing local history.",
                   "category": "museum",
                   "coords": [
                         -7.841026,
@@ -36105,7 +38103,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Auditório Municipal de Olhão",
-                  "text": "The municipal auditorium of Olhão for cultural events.",
+                  "text": "Modern auditorium in Olhão used for concerts and theater performances.",
                   "category": "cultural",
                   "coords": [
                         -7.837141,
@@ -36150,7 +38148,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Ponte Velha de Quelfes",
-                  "text": "An old bridge in Quelfes with Roman origins.",
+                  "text": "A historic old bridge, heritage-listed in Olhão.",
                   "category": "historical",
                   "coords": [
                         -7.829932,
@@ -36168,7 +38166,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Sabino Boat Tours",
-                  "text": "A provider of boat tours in the waters of Olhão.",
+                  "text": "Boat tours exploring the Ria Formosa lagoon from Olhão.",
                   "category": "landmark",
                   "coords": [
                         -7.837497,
@@ -36186,7 +38184,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Associação Cultural Re-Criativa República 14",
-                  "text": "A local cultural association and venue in Olhão.",
+                  "text": "Creative cultural space in a former republican building in Olhão.",
                   "category": "cultural",
                   "coords": [
                         -7.839935,
@@ -36195,7 +38193,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Câmara Municipal de Olhão",
-                  "text": "The town hall building of the Olhão municipality.",
+                  "text": "The town hall of Olhão, a 19th-century building with a clock tower overlooking the Ria Formosa.",
                   "category": "historical",
                   "coords": [
                         -7.841736,
@@ -36213,7 +38211,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Torre de Marim",
-                  "text": "A historical watchtower in the Marim area.",
+                  "text": "A historic tower, heritage-listed in Olhão.",
                   "category": "landmark",
                   "coords": [
                         -7.812077,
@@ -36285,7 +38283,7 @@ export const portugalCitiesV2: POI[] = [
             },
             {
                   "name": "Praia dos Cavacos",
-                  "text": "Praia dos Cavacos is a beach located in Olhão.",
+                  "text": "A sandy beach on the Ria Formosa lagoon near Olhão, popular for swimming.",
                   "category": "recreational",
                   "coords": [
                         -7.795974,

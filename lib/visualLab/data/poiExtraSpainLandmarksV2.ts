@@ -778,7 +778,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
             },
             {
                   "name": "Palau prioral de Monistrol",
-                  "text": "Ein historischer Palast, der für kulturelle Ausstellungen genutzt wird.",
+                  "text": "Palau prioral de Monistrol, ein Museum im ehemaligen Prioratspalast am Fuße des Montserrat.",
                   "category": "museum",
                   "coords": [
                         1.84563,
@@ -796,7 +796,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
             },
             {
                   "name": "Turó de la Salindanga",
-                  "text": "Ein markanter Berggipfel im Montserrat-Massiv.",
+                  "text": "Gipfel mit weitem Blick über das Llobregat-Tal und das Kloster Montserrat.",
                   "category": "landmark",
                   "coords": [
                         1.862035,
@@ -852,7 +852,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
             },
             {
                   "name": "Palau prioral de Monistrol",
-                  "text": "Kulturális kiállításoknak otthont adó történelmi palota.",
+                  "text": "Palau prioral de Monistrol, egy múzeum az egykori priorátusi palotában a Montserrat lábánál.",
                   "category": "museum",
                   "coords": [
                         1.84563,
@@ -870,7 +870,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
             },
             {
                   "name": "Turó de la Salindanga",
-                  "text": "Jellegzetes hegycsúcs a Montserrat-hegységben.",
+                  "text": "Csúcs kilátással a Llobregat-völgyre és a Montserrat-kolostorra.",
                   "category": "landmark",
                   "coords": [
                         1.862035,
@@ -926,7 +926,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
             },
             {
                   "name": "Palau prioral de Monistrol",
-                  "text": "Un palat istoric utilizat pentru expoziții culturale.",
+                  "text": "Palau prioral de Monistrol, un muzeu în fostul palat prioral la poalele Montserratului.",
                   "category": "museum",
                   "coords": [
                         1.84563,
@@ -944,7 +944,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
             },
             {
                   "name": "Turó de la Salindanga",
-                  "text": "Un vârf montan proeminent în masivul Montserrat.",
+                  "text": "Vârf cu vedere panoramică asupra văii Llobregat și a mănăstirii Montserrat.",
                   "category": "landmark",
                   "coords": [
                         1.862035,
@@ -1000,7 +1000,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
             },
             {
                   "name": "Palau prioral de Monistrol",
-                  "text": "A historic palace used for cultural exhibitions.",
+                  "text": "Palau prioral de Monistrol, a museum in the former priory palace at the foot of Montserrat.",
                   "category": "museum",
                   "coords": [
                         1.84563,
@@ -1018,7 +1018,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
             },
             {
                   "name": "Turó de la Salindanga",
-                  "text": "A prominent mountain peak in the Montserrat massif.",
+                  "text": "Peak with panoramic views of the Llobregat valley and Montserrat monastery.",
                   "category": "landmark",
                   "coords": [
                         1.862035,

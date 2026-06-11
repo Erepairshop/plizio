@@ -1294,7 +1294,7 @@ export const irelandLifeV2: POI[] = [
       "de": [
             {
                   "name": "Stillbrook Hill",
-                  "text": "Ein Gipfel in den Slieve Bloom Mountains in Irland.",
+                  "text": "Hügel in den Slieve Bloom Mountains mit Aussicht über die Ebene.",
                   "category": "landmark",
                   "coords": [
                         -7.638336,
@@ -1332,7 +1332,7 @@ export const irelandLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Stillbrook Hill",
-                  "text": "Hegycsúcs az írországi Slieve Bloom-hegységben.",
+                  "text": "Domb a Slieve Bloom-hegységben, kilátással a síkságra.",
                   "category": "landmark",
                   "coords": [
                         -7.638336,
@@ -1370,7 +1370,7 @@ export const irelandLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Stillbrook Hill",
-                  "text": "Un vârf în munții Slieve Bloom din Irlanda.",
+                  "text": "Deal în Munții Slieve Bloom, cu vedere asupra câmpiei.",
                   "category": "landmark",
                   "coords": [
                         -7.638336,
@@ -1408,7 +1408,7 @@ export const irelandLifeV2: POI[] = [
       "en": [
             {
                   "name": "Stillbrook Hill",
-                  "text": "A peak in the Slieve Bloom Mountains of Ireland.",
+                  "text": "Hill in the Slieve Bloom Mountains offering views over the plain.",
                   "category": "landmark",
                   "coords": [
                         -7.638336,
@@ -1852,7 +1852,7 @@ export const irelandLifeV2: POI[] = [
             },
             {
                   "name": "Binn idir an dá Log",
-                  "text": "Der höchste Gipfel der Maumturk Mountains in Irland.",
+                  "text": "Ein Gipfel in der Twelve-Bens-Kette von Connemara mit einem steilen felsigen Gipfel.",
                   "category": "landmark",
                   "coords": [
                         -9.676782,
@@ -1870,7 +1870,7 @@ export const irelandLifeV2: POI[] = [
             },
             {
                   "name": "Binn Chaonaigh",
-                  "text": "Ein markanter Berg in der irischen Grafschaft Galway.",
+                  "text": "Ein Gipfel im Derryclare Wood in den Twelve Bens.",
                   "category": "landmark",
                   "coords": [
                         -9.658197,
@@ -1899,7 +1899,7 @@ export const irelandLifeV2: POI[] = [
             },
             {
                   "name": "Binn idir an dá Log",
-                  "text": "Az írországi Maumturk-hegység legmagasabb csúcsa.",
+                  "text": "Hegycsúcs a Connemara-i Tizenkét Bens-hegységben, meredek sziklás csúccsal.",
                   "category": "landmark",
                   "coords": [
                         -9.676782,
@@ -1917,7 +1917,7 @@ export const irelandLifeV2: POI[] = [
             },
             {
                   "name": "Binn Chaonaigh",
-                  "text": "Jellegzetes hegy az írországi Galway megyében.",
+                  "text": "Csúcs a Derryclare Woodban, a Twelve Bens hegységben.",
                   "category": "landmark",
                   "coords": [
                         -9.658197,
@@ -1946,7 +1946,7 @@ export const irelandLifeV2: POI[] = [
             },
             {
                   "name": "Binn idir an dá Log",
-                  "text": "Cel mai înalt vârf din munții Maumturk din Irlanda.",
+                  "text": "Un vârf montan în lanțul Twelve Bens din Connemara, cu un vârf stâncos abrupt.",
                   "category": "landmark",
                   "coords": [
                         -9.676782,
@@ -1964,7 +1964,7 @@ export const irelandLifeV2: POI[] = [
             },
             {
                   "name": "Binn Chaonaigh",
-                  "text": "Un munte proeminent în comitatul Galway din Irlanda.",
+                  "text": "Un vârf în Pădurea Derryclare, în munții Twelve Bens.",
                   "category": "landmark",
                   "coords": [
                         -9.658197,
@@ -1993,7 +1993,7 @@ export const irelandLifeV2: POI[] = [
             },
             {
                   "name": "Binn idir an dá Log",
-                  "text": "The highest peak of the Maumturk Mountains in Ireland.",
+                  "text": "A mountain peak in the Twelve Bens range of Connemara, with a steep rocky summit.",
                   "category": "landmark",
                   "coords": [
                         -9.676782,
@@ -2011,7 +2011,7 @@ export const irelandLifeV2: POI[] = [
             },
             {
                   "name": "Binn Chaonaigh",
-                  "text": "A prominent mountain in County Galway, Ireland.",
+                  "text": "A peak in Derryclare Wood in the Twelve Bens range.",
                   "category": "landmark",
                   "coords": [
                         -9.658197,

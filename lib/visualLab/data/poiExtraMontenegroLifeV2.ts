@@ -16,7 +16,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Das ehemalige Regierungsgebäude beherbergt heute die Sammlungen des Nationalmuseums von Montenegro.",
+                  "text": "Nationalmuseum im ehemaligen Regierungsgebäude, das montenegrinische königliche Artefakte zeigt.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -72,7 +72,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Az egykori kormányépület ma Montenegró Nemzeti Múzeumának gyűjteményeinek ad otthont.",
+                  "text": "Nemzeti múzeum a volt kormányzati épületben, montenegrói királyi tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -128,7 +128,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Fosta clădire a guvernului găzduiește astăzi colecțiile Muzeului Național al Muntenegrului.",
+                  "text": "Muzeul Național găzduit în fosta Casă de Guvern, care expune artefacte regale muntenegrene.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -184,7 +184,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Government House - National Museum of Montenegro",
-                  "text": "The former government house now houses the collections of the National Museum of Montenegro.",
+                  "text": "National museum housed in the former Government House, displaying Montenegrin royal artifacts.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -295,7 +295,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "tunel plaža",
-                  "text": "Kiesstrand, der durch einen Fußgängertunnel erreichbar ist.",
+                  "text": "Strand, der durch einen Tunnel erreichbar ist, im Wildtiergebiet Sutorman.",
                   "category": "recreational",
                   "coords": [
                         19.037141,
@@ -378,7 +378,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "tunel plaža",
-                  "text": "Kavicsos strand, amely egy gyalogos alagúton keresztül érhető el.",
+                  "text": "Strand, amely egy alagúton át érhető el, a Sutorman vadvédelmi területen.",
                   "category": "recreational",
                   "coords": [
                         19.037141,
@@ -461,7 +461,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "tunel plaža",
-                  "text": "Plajă cu prundiş accesibilă printr-un tunel pietonal.",
+                  "text": "Plajă accesibilă printr-un tunel, în zona de faună sălbatică Sutorman.",
                   "category": "recreational",
                   "coords": [
                         19.037141,
@@ -544,7 +544,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "tunel plaža",
-                  "text": "A pebble beach accessible through a pedestrian tunnel.",
+                  "text": "Beach accessible through a tunnel, within the Sutorman wildlife area.",
                   "category": "recreational",
                   "coords": [
                         19.037141,
@@ -709,7 +709,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Milošev tok",
-                  "text": "Ein Gipfel im Gebirgsmassiv des Durmitor.",
+                  "text": "Bach, der in den Crno Jezero fließt, bekannt für seine türkise Farbe.",
                   "category": "landmark",
                   "coords": [
                         19.054633,
@@ -783,7 +783,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Milošev tok",
-                  "text": "Hegycsúcs a Durmitor-hegység vonulatában.",
+                  "text": "Patak, amely a Crno Jezero-tóba folyik, türkiz színéről ismert.",
                   "category": "landmark",
                   "coords": [
                         19.054633,
@@ -857,7 +857,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Milošev tok",
-                  "text": "Un vârf muntos în masivul Durmitor.",
+                  "text": "Pârâu care se varsă în Lacul Negru, cunoscut pentru culoarea sa turcoaz.",
                   "category": "landmark",
                   "coords": [
                         19.054633,
@@ -931,7 +931,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Milošev tok",
-                  "text": "A peak in the Durmitor mountain massif.",
+                  "text": "Stream flowing into Crno Jezero, known for its turquoise color.",
                   "category": "landmark",
                   "coords": [
                         19.054633,
@@ -1636,7 +1636,7 @@ export const montenegroLifeV2: POI[] = [
       "de": [
             {
                   "name": "Veliki Pijesak",
-                  "text": "Veliki Pijesak liegt am Rand des Rumija-Waldes.",
+                  "text": "Großer Sandstrand, umgeben vom Rumija-Wald.",
                   "category": "recreational",
                   "coords": [
                         19.142249,
@@ -1663,7 +1663,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Crvena Stijena",
-                  "text": "Ein für seine markanten roten Felsformationen bekannter Strand.",
+                  "text": "Roter Felsenstrand am Rande des Rumija-Waldes.",
                   "category": "recreational",
                   "coords": [
                         19.094723,
@@ -1701,7 +1701,7 @@ export const montenegroLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Veliki Pijesak",
-                  "text": "Veliki Pijesak a Rumija-erdő szélén található.",
+                  "text": "Hatalmas homokos strand, a Rumija-erdővel körülvéve.",
                   "category": "recreational",
                   "coords": [
                         19.142249,
@@ -1728,7 +1728,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Crvena Stijena",
-                  "text": "Jellegzetes vörös szikláiról ismert tengerparti szakasz.",
+                  "text": "Vörös sziklás strand a Rumija-erdő szélén.",
                   "category": "recreational",
                   "coords": [
                         19.094723,
@@ -1766,7 +1766,7 @@ export const montenegroLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Veliki Pijesak",
-                  "text": "Veliki Pijesak este situată la marginea pădurii Rumija.",
+                  "text": "Plajă nisipoasă întinsă, înconjurată de Pădurea Rumija.",
                   "category": "recreational",
                   "coords": [
                         19.142249,
@@ -1793,7 +1793,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Crvena Stijena",
-                  "text": "O plajă cunoscută pentru formațiunile sale stâncoase roșiatice.",
+                  "text": "Plajă cu stânci roșii la marginea Pădurii Rumija.",
                   "category": "recreational",
                   "coords": [
                         19.094723,
@@ -1831,7 +1831,7 @@ export const montenegroLifeV2: POI[] = [
       "en": [
             {
                   "name": "Veliki Pijesak",
-                  "text": "Veliki Pijesak is situated by the Rumija Forest.",
+                  "text": "Expansive sandy beach surrounded by Rumija Forest.",
                   "category": "recreational",
                   "coords": [
                         19.142249,
@@ -1858,7 +1858,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Crvena Stijena",
-                  "text": "A beach known for its distinctive red rock formations.",
+                  "text": "Red rock beach at the edge of Rumija Forest.",
                   "category": "recreational",
                   "coords": [
                         19.094723,
@@ -2532,7 +2532,196 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-krnovo-plateau-life-v2.webp",
   },
   {
-    id: "montenegro-solila-wetland-life-v2", "sights": {"de": [{"name": "Plavi horizonti", "text": "Plavi horizonti Strand bei Solila.", "category": "recreational", "coords": [18.682994, 42.385696]}, {"name": "Kalardovo", "text": "Kalardovo liegt in der Nähe des Solila-Feuchtgebiets.", "category": "recreational", "coords": [18.712501, 42.406795]}, {"name": "Velika Špilja - Pecka", "text": "Velika Špilja - Pecka liegt beim Solila-Feuchtgebiet.", "category": "recreational", "coords": [18.651989, 42.376242]}, {"name": "Almara beach", "text": "Der Almara Beach besticht durch seine besondere Lage am Solila-Feuchtgebiet, wo Küstencharme auf montenegrinische Natur trifft. Diese Umgebung eignet sich wunderbar für ruhige Schwimmrunden und anschließende Spaziergänge in der Natur. Sonnenanbeter schätzen die friedliche, offene Atmosphäre direkt neben dem Vogelreservat. Ein idealer Ort für einen entspannten und entschleunigten Nachmittag.", "category": "recreational", "coords": [18.652752, 42.382618]}, {"name": "Velja Spilja", "text": "Velja Spilja liegt beim Solila-Feuchtgebiet.", "category": "recreational", "coords": [18.652406, 42.377554]}], "hu": [{"name": "Plavi horizonti", "text": "Plavi horizonti strand Solila közelében.", "category": "recreational", "coords": [18.682994, 42.385696]}, {"name": "Kalardovo", "text": "Kalardovo a Solila vizes élőhely közelében található.", "category": "recreational", "coords": [18.712501, 42.406795]}, {"name": "Velika Špilja - Pecka", "text": "A Velika Špilja - Pecka a Solila vizesélőhelynél található.", "category": "recreational", "coords": [18.651989, 42.376242]}, {"name": "Almara beach", "text": "Az Almara beach egyedülálló módon a Solila madárrezervátum mellett található, ötvözve a part menti szépséget a montenegrói vizes élőhelyekkel. A környezet tökéletes azok számára, akik a nyugodt úszást természetközeli sétákkal szeretnék kombinálni. A napozók imádni fogják a madárles közeli békés, tágas atmoszférát. Remek helyszín egy csendes délutáni elvonuláshoz.", "category": "recreational", "coords": [18.652752, 42.382618]}, {"name": "Velja Spilja", "text": "A Velja Spilja a Solila vizesélőhelynél található.", "category": "recreational", "coords": [18.652406, 42.377554]}], "ro": [{"name": "Plavi horizonti", "text": "Plaja Plavi horizonti lângă Solila.", "category": "recreational", "coords": [18.682994, 42.385696]}, {"name": "Kalardovo", "text": "Kalardovo este situat lângă zona umedă Solila.", "category": "recreational", "coords": [18.712501, 42.406795]}, {"name": "Velika Špilja - Pecka", "text": "Velika Špilja - Pecka este situată lângă zona umedă Solila.", "category": "recreational", "coords": [18.651989, 42.376242]}, {"name": "Almara beach", "text": "Plaja Almara se bucură de o locație inedită lângă zona de observare a păsărilor Solila, îmbinând peisajul de coastă cu natura din Muntenegru. Acest mediu este perfect pentru o baie relaxantă, urmată de plimbări reconfortante prin natură. Iubitorii de soare vor aprecia atmosfera liniștită și aerisită din preajma rezervației. Este un loc fantastic pentru o evadare pașnică de după-amiază.", "category": "recreational", "coords": [18.652752, 42.382618]}, {"name": "Velja Spilja", "text": "Velja Spilja este situată lângă zona umedă Solila.", "category": "recreational", "coords": [18.652406, 42.377554]}], "en": [{"name": "Plavi horizonti", "text": "Plavi horizonti beach near Solila.", "category": "recreational", "coords": [18.682994, 42.385696]}, {"name": "Kalardovo", "text": "Kalardovo is located near the Solila wetland.", "category": "recreational", "coords": [18.712501, 42.406795]}, {"name": "Velika Špilja - Pecka", "text": "Velika Špilja - Pecka is located at the Solila wetland.", "category": "recreational", "coords": [18.651989, 42.376242]}, {"name": "Almara beach", "text": "Almara beach is uniquely situated by the Solila Bird Watching Area, blending coastal beauty with Montenegrin wetland nature. The environment here is perfect for those who enjoy calm swims followed by peaceful nature walks. Sunbathers will appreciate the tranquil and airy atmosphere near the bird reserve. It is a fantastic spot for a quiet afternoon getaway.", "category": "recreational", "coords": [18.652752, 42.382618]}, {"name": "Velja Spilja", "text": "Velja Spilja is located at the Solila wetland.", "category": "recreational", "coords": [18.652406, 42.377554]}]},
+    id: "montenegro-solila-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plavi horizonti",
+                  "text": "Strand mit blauem Wasserhorizont, angrenzend an das Solila-Feuchtgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.682994,
+                        42.385696
+                  ]
+            },
+            {
+                  "name": "Kalardovo",
+                  "text": "Sandstrand nahe der Solila-Salinen-Feuchtgebiete.",
+                  "category": "recreational",
+                  "coords": [
+                        18.712501,
+                        42.406795
+                  ]
+            },
+            {
+                  "name": "Velika Špilja - Pecka",
+                  "text": "Strand nahe einer großen Höhle, im Solila-Feuchtgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.651989,
+                        42.376242
+                  ]
+            },
+            {
+                  "name": "Almara beach",
+                  "text": "Der Almara Beach besticht durch seine besondere Lage am Solila-Feuchtgebiet, wo Küstencharme auf montenegrinische Natur trifft. Diese Umgebung eignet sich wunderbar für ruhige Schwimmrunden und anschließende Spaziergänge in der Natur. Sonnenanbeter schätzen die friedliche, offene Atmosphäre direkt neben dem Vogelreservat. Ein idealer Ort für einen entspannten und entschleunigten Nachmittag.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652752,
+                        42.382618
+                  ]
+            },
+            {
+                  "name": "Velja Spilja",
+                  "text": "Strand an der großen Höhle, im Solila-Feuchtgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652406,
+                        42.377554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plavi horizonti",
+                  "text": "Strand kék víz horizonttal, a Solila vizes élőhely mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        18.682994,
+                        42.385696
+                  ]
+            },
+            {
+                  "name": "Kalardovo",
+                  "text": "Homokos strand a Solila sómező vizes élőhely közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.712501,
+                        42.406795
+                  ]
+            },
+            {
+                  "name": "Velika Špilja - Pecka",
+                  "text": "Strand egy nagy barlang közelében, a Solila vizes élőhelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.651989,
+                        42.376242
+                  ]
+            },
+            {
+                  "name": "Almara beach",
+                  "text": "Az Almara beach egyedülálló módon a Solila madárrezervátum mellett található, ötvözve a part menti szépséget a montenegrói vizes élőhelyekkel. A környezet tökéletes azok számára, akik a nyugodt úszást természetközeli sétákkal szeretnék kombinálni. A napozók imádni fogják a madárles közeli békés, tágas atmoszférát. Remek helyszín egy csendes délutáni elvonuláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652752,
+                        42.382618
+                  ]
+            },
+            {
+                  "name": "Velja Spilja",
+                  "text": "Strand a nagy barlangnál, a Solila vizes élőhelyen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652406,
+                        42.377554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plavi horizonti",
+                  "text": "Plajă cu orizont de apă albastră, adiacentă zonei umede Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.682994,
+                        42.385696
+                  ]
+            },
+            {
+                  "name": "Kalardovo",
+                  "text": "Plajă nisipoasă lângă zona umedă a sărăturilor Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.712501,
+                        42.406795
+                  ]
+            },
+            {
+                  "name": "Velika Špilja - Pecka",
+                  "text": "Plajă lângă o peșteră mare, în zona umedă Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.651989,
+                        42.376242
+                  ]
+            },
+            {
+                  "name": "Almara beach",
+                  "text": "Plaja Almara se bucură de o locație inedită lângă zona de observare a păsărilor Solila, îmbinând peisajul de coastă cu natura din Muntenegru. Acest mediu este perfect pentru o baie relaxantă, urmată de plimbări reconfortante prin natură. Iubitorii de soare vor aprecia atmosfera liniștită și aerisită din preajma rezervației. Este un loc fantastic pentru o evadare pașnică de după-amiază.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652752,
+                        42.382618
+                  ]
+            },
+            {
+                  "name": "Velja Spilja",
+                  "text": "Plajă lângă Peștera Mare, în zona umedă Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652406,
+                        42.377554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plavi horizonti",
+                  "text": "Beach with blue water horizon, adjacent to Solila Wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.682994,
+                        42.385696
+                  ]
+            },
+            {
+                  "name": "Kalardovo",
+                  "text": "Sandy beach near the Solila salt pans wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.712501,
+                        42.406795
+                  ]
+            },
+            {
+                  "name": "Velika Špilja - Pecka",
+                  "text": "Beach near a large cave, within Solila Wetland area.",
+                  "category": "recreational",
+                  "coords": [
+                        18.651989,
+                        42.376242
+                  ]
+            },
+            {
+                  "name": "Almara beach",
+                  "text": "Almara beach is uniquely situated by the Solila Bird Watching Area, blending coastal beauty with Montenegrin wetland nature. The environment here is perfect for those who enjoy calm swims followed by peaceful nature walks. Sunbathers will appreciate the tranquil and airy atmosphere near the bird reserve. It is a fantastic spot for a quiet afternoon getaway.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652752,
+                        42.382618
+                  ]
+            },
+            {
+                  "name": "Velja Spilja",
+                  "text": "Beach by the Big Cave, in Solila Wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652406,
+                        42.377554
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "ME",
     name: { de: "Solila Vogelbeobachtung", hu: "Solila madármegfigyelés", ro: "Observarea păsărilor Solila", en: "Solila Bird Watching Area" },
@@ -3279,7 +3468,88 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-tara-canyon-wildlife-life-v2.webp",
   },
   {
-    id: "montenegro-kotor-bay-nature-life-v2", "sights": {"de": [{"name": "Ljuta Beach", "text": "Versteckt an den Ufern der Bucht von Kotor, lockt der Ljuta Strand mit einer malerischen montenegrinischen Kulisse. Dieser Küstenabschnitt bietet eine herrliche Umgebung, um im ruhigen Wasser der Bucht zu schwimmen oder sich zu sonnen. Besucher erwartet eine authentische Atmosphäre, die besonders bei Erholungssuchenden beliebt ist. Die warmen Sommermonate sind die beste Zeit für ein erfrischendes Bad.", "category": "recreational", "coords": [18.763875, 42.480253]}, {"name": "Bajova kula", "text": "Bajova kula ist ein Strand in der Bucht von Kotor.", "category": "recreational", "coords": [18.734731, 42.483741]}], "hu": [{"name": "Ljuta Beach", "text": "A Kotori-öböl partján megbúvó Ljuta Beach egy festői montenegrói tájba invitálja a látogatókat. A partvidék csodálatos helyszínt biztosít az öböl csendes vizében való úszáshoz és a kellemes napozáshoz. A vendégeket egy autentikus, bájos atmoszféra várja, amely tökéletes egy pihentető nap eltöltésére. A meleg nyári hónapokban a legvonzóbb a tenger hűsítő vize.", "category": "recreational", "coords": [18.763875, 42.480253]}, {"name": "Bajova kula", "text": "A Bajova kula egy strand a Kotori-öbölben.", "category": "recreational", "coords": [18.734731, 42.483741]}], "ro": [{"name": "Ljuta Beach", "text": "Ascunsă pe țărmurile Golfului Kotor, plaja Ljuta își invită vizitatorii într-un peisaj pitoresc din Muntenegru. Acest loc oferă un cadru minunat pentru a înota în apele liniștite ale golfului sau pentru a sta la plajă. Vă așteaptă o atmosferă autentică și plină de farmec, perfectă pentru o zi de relaxare totală. Apele calme devin deosebit de atrăgătoare în timpul sezonului cald.", "category": "recreational", "coords": [18.763875, 42.480253]}, {"name": "Bajova kula", "text": "Bajova kula este o plajă situată în Golful Kotor.", "category": "recreational", "coords": [18.734731, 42.483741]}], "en": [{"name": "Ljuta Beach", "text": "Tucked along the shores of the Bay of Kotor, Ljuta Beach invites visitors into a picturesque Montenegrin landscape. The beach provides a lovely setting to swim in the bay's calm waters or bask in the local flora's shade. Expect a charming, authentic atmosphere favored by those seeking a relaxing day out. The calm waters are particularly inviting during the warm summer months.", "category": "recreational", "coords": [18.763875, 42.480253]}, {"name": "Bajova kula", "text": "Bajova kula is a beach located in the Bay of Kotor.", "category": "recreational", "coords": [18.734731, 42.483741]}]},
+    id: "montenegro-kotor-bay-nature-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ljuta Beach",
+                  "text": "Versteckt an den Ufern der Bucht von Kotor, lockt der Ljuta Strand mit einer malerischen montenegrinischen Kulisse. Dieser Küstenabschnitt bietet eine herrliche Umgebung, um im ruhigen Wasser der Bucht zu schwimmen oder sich zu sonnen. Besucher erwartet eine authentische Atmosphäre, die besonders bei Erholungssuchenden beliebt ist. Die warmen Sommermonate sind die beste Zeit für ein erfrischendes Bad.",
+                  "category": "recreational",
+                  "coords": [
+                        18.763875,
+                        42.480253
+                  ]
+            },
+            {
+                  "name": "Bajova kula",
+                  "text": "Strand unterhalb von Bajova kula, an der Küste der Bucht von Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.734731,
+                        42.483741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ljuta Beach",
+                  "text": "A Kotori-öböl partján megbúvó Ljuta Beach egy festői montenegrói tájba invitálja a látogatókat. A partvidék csodálatos helyszínt biztosít az öböl csendes vizében való úszáshoz és a kellemes napozáshoz. A vendégeket egy autentikus, bájos atmoszféra várja, amely tökéletes egy pihentető nap eltöltésére. A meleg nyári hónapokban a legvonzóbb a tenger hűsítő vize.",
+                  "category": "recreational",
+                  "coords": [
+                        18.763875,
+                        42.480253
+                  ]
+            },
+            {
+                  "name": "Bajova kula",
+                  "text": "Strand Bajova kula alatt, a Kotor-öböl partján.",
+                  "category": "recreational",
+                  "coords": [
+                        18.734731,
+                        42.483741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ljuta Beach",
+                  "text": "Ascunsă pe țărmurile Golfului Kotor, plaja Ljuta își invită vizitatorii într-un peisaj pitoresc din Muntenegru. Acest loc oferă un cadru minunat pentru a înota în apele liniștite ale golfului sau pentru a sta la plajă. Vă așteaptă o atmosferă autentică și plină de farmec, perfectă pentru o zi de relaxare totală. Apele calme devin deosebit de atrăgătoare în timpul sezonului cald.",
+                  "category": "recreational",
+                  "coords": [
+                        18.763875,
+                        42.480253
+                  ]
+            },
+            {
+                  "name": "Bajova kula",
+                  "text": "Plajă sub Bajova kula, pe coasta Golfului Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.734731,
+                        42.483741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ljuta Beach",
+                  "text": "Tucked along the shores of the Bay of Kotor, Ljuta Beach invites visitors into a picturesque Montenegrin landscape. The beach provides a lovely setting to swim in the bay's calm waters or bask in the local flora's shade. Expect a charming, authentic atmosphere favored by those seeking a relaxing day out. The calm waters are particularly inviting during the warm summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        18.763875,
+                        42.480253
+                  ]
+            },
+            {
+                  "name": "Bajova kula",
+                  "text": "Beach below Bajova Kula, on the coast of Kotor Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        18.734731,
+                        42.483741
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ME",
     name: { de: "Bucht von Kotor Flora", hu: "Kotori-öböl flóra", ro: "Flora golfului Kotor", en: "Bay of Kotor Flora" },
@@ -3337,7 +3607,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Das Nationalmuseum von Montenegro, untergebracht im ehemaligen Regierungsgebäude.",
+                  "text": "Nationalmuseum im ehemaligen Regierungsgebäude, das montenegrinische königliche Artefakte zeigt.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -3393,7 +3663,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Montenegró Nemzeti Múzeuma, amely az egykori kormányzati épületben található.",
+                  "text": "Nemzeti múzeum a volt kormányzati épületben, montenegrói királyi tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -3449,7 +3719,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Muzeul Național al Muntenegrului, găzduit în fosta clădire a guvernului.",
+                  "text": "Muzeul Național găzduit în fosta Casă de Guvern, care expune artefacte regale muntenegrene.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -3505,7 +3775,7 @@ export const montenegroLifeV2: POI[] = [
             },
             {
                   "name": "Government House - National Museum of Montenegro",
-                  "text": "The National Museum of Montenegro, housed in the former government building.",
+                  "text": "National museum housed in the former Government House, displaying Montenegrin royal artifacts.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -3936,7 +4206,268 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-durmitor-bear-life-v2.webp",
   },
   {
-    id: "montenegro-valdanos-olive-life-v2", "sights": {"de": [{"name": "Valdanos", "text": "Valdanos liegt im Valdanos-Olivenhain.", "category": "recreational", "coords": [19.164992, 41.951422]}, {"name": "Paljuškovo Beach", "text": "Begrenzt von den malerischen Olivenhainen von Valdanos, bildet Paljuškovo Beach eine friedliche Oase an der Küste Montenegros. Die umgebenden Olivenbäume verleihen dem Strand ein wunderbar natürliches Ambiente mit angenehmem Schatten. Sanftes Schwimmen und entspanntes Sonnenbaden stehen in diesem naturverbundenen Rückzugsort im Mittelpunkt. Ein Besuch am Vormittag lässt einen die Ruhe besonders intensiv erleben.", "category": "recreational", "coords": [19.149161, 41.999404]}, {"name": "Plazhi i Adës së Krruçit", "text": "Plazhi i Adës së Krruçit liegt bei Valdanos.", "category": "recreational", "coords": [19.143357, 41.991307]}, {"name": "Plazhi i Doçes", "text": "Plazhi i Doçes liegt bei Valdanos.", "category": "recreational", "coords": [19.150384, 41.981003]}, {"name": "Plazhi i Rakitës", "text": "Plazhi i Rakitës liegt bei Valdanos.", "category": "recreational", "coords": [19.152121, 41.982414]}, {"name": "Plazhi i Krruçit", "text": "Plazhi i Krruçit liegt bei Valdanos.", "category": "recreational", "coords": [19.15084, 41.986418]}, {"name": "Davudova plaža", "text": "In der Nähe des grünen Valdanos-Ökosystems gelegen, bietet die Davudova plaža einen charmanten Zufluchtsort am Meer. Die ruhige Atmosphäre ist ideal für Gäste, die abseits der großen Touristenströme schwimmen und entspannen möchten. Die natürliche Umgebung lädt zudem zu beschaulichen Spaziergängen am Wasser ein. Ein paar kühle Getränke machen den sonnigen Nachmittag hier perfekt.", "category": "recreational", "coords": [19.141711, 41.978329]}], "hu": [{"name": "Valdanos", "text": "Valdanos a Valdanos olajfaligetben található.", "category": "recreational", "coords": [19.164992, 41.951422]}, {"name": "Paljuškovo Beach", "text": "A festői Valdanos olajfaligetek által határolt Paljuškovo Beach egy igazi békés menedék a montenegrói parton. A környező olajfák csodálatosan természetes, árnyékos atmoszférát biztosítanak a partszakasznak. Ebben a természetközeli öbölben a napozás és a kényelmes úszás nyújtja a legnagyobb élményt. A reggeli órákban a legkellemesebb élvezni a zavartalan környezetet.", "category": "recreational", "coords": [19.149161, 41.999404]}, {"name": "Plazhi i Adës së Krruçit", "text": "A Plazhi i Adës së Krruçit Valdanosnál található.", "category": "recreational", "coords": [19.143357, 41.991307]}, {"name": "Plazhi i Doçes", "text": "A Plazhi i Doçes Valdanosnál található.", "category": "recreational", "coords": [19.150384, 41.981003]}, {"name": "Plazhi i Rakitës", "text": "A Plazhi i Rakitës Valdanosnál található.", "category": "recreational", "coords": [19.152121, 41.982414]}, {"name": "Plazhi i Krruçit", "text": "A Plazhi i Krruçit Valdanosnál található.", "category": "recreational", "coords": [19.15084, 41.986418]}, {"name": "Davudova plaža", "text": "A buja Valdanos ökoszisztéma közelében fekvő Davudova plaža egy bájos tengerparti menedéket kínál Montenegróban. A csendes atmoszféra tökéletes azoknak a látogatóknak, akik a nyüzsgő turistaközpontoktól távol szeretnének úszni és pihenni. A természetes környezet csodás lehetőséget nyújt a békés parti sétákra is. Egy napfényes délutánra érdemes néhány frissítő itallal készülni.", "category": "recreational", "coords": [19.141711, 41.978329]}], "ro": [{"name": "Valdanos", "text": "Valdanos este situată în zona plantațiilor de măslini din Valdanos.", "category": "recreational", "coords": [19.164992, 41.951422]}, {"name": "Paljuškovo Beach", "text": "Mărginită de pitoreștile livezi de măslini din Valdanos, plaja Paljuškovo este un refugiu liniștit pe coasta Muntenegrului. Măslinii din împrejurimi oferă plajei o ambianță naturală și plăcut umbrită. Înotul relaxant și băile de soare sunt principalele atracții ale acestui loc dedicat iubitorilor de natură. Diminețile sunt ideale pentru a absorbi întreaga pace a acestei zone.", "category": "recreational", "coords": [19.149161, 41.999404]}, {"name": "Plazhi i Adës së Krruçit", "text": "Plazhi i Adës së Krruçit este situată lângă Valdanos.", "category": "recreational", "coords": [19.143357, 41.991307]}, {"name": "Plazhi i Doçes", "text": "Plazhi i Doçes este situată lângă Valdanos.", "category": "recreational", "coords": [19.150384, 41.981003]}, {"name": "Plazhi i Rakitës", "text": "Plazhi i Rakitës este situată lângă Valdanos.", "category": "recreational", "coords": [19.152121, 41.982414]}, {"name": "Plazhi i Krruçit", "text": "Plazhi i Krruçit este situată lângă Valdanos.", "category": "recreational", "coords": [19.15084, 41.986418]}, {"name": "Davudova plaža", "text": "Situată în apropierea ecosistemului bogat din Valdanos, Davudova plaža oferă o evadare fermecătoare la mare în Muntenegru. Atmosfera senină este perfectă pentru oaspeții care doresc să înoate și să se relaxeze departe de centrele turistice aglomerate. Cadrul natural face din această plajă un loc ideal pentru plimbări liniștite pe țărm. Aduceți câteva băuturi răcoritoare pentru a vă bucura din plin de o după-amiază însorită.", "category": "recreational", "coords": [19.141711, 41.978329]}], "en": [{"name": "Valdanos", "text": "Valdanos is located near the Valdanos Olive groves.", "category": "recreational", "coords": [19.164992, 41.951422]}, {"name": "Paljuškovo Beach", "text": "Bordered by the scenic Valdanos Olive Grove Ecosystem, Paljuškovo Beach is a peaceful haven on the Montenegrin coast. The surrounding olive trees lend a wonderfully natural and shaded ambiance to the shoreline. Sunbathing and gentle swimming are the highlights in this quiet, nature-focused retreat. It is highly recommended to visit in the morning to enjoy the serene environment fully.", "category": "recreational", "coords": [19.149161, 41.999404]}, {"name": "Plazhi i Adës së Krruçit", "text": "Plazhi i Adës së Krruçit is located near Valdanos.", "category": "recreational", "coords": [19.143357, 41.991307]}, {"name": "Plazhi i Doçes", "text": "Plazhi i Doçes is located near Valdanos.", "category": "recreational", "coords": [19.150384, 41.981003]}, {"name": "Plazhi i Rakitës", "text": "Plazhi i Rakitës is located near Valdanos.", "category": "recreational", "coords": [19.152121, 41.982414]}, {"name": "Plazhi i Krruçit", "text": "Plazhi i Krruçit is located near Valdanos.", "category": "recreational", "coords": [19.15084, 41.986418]}, {"name": "Davudova plaža", "text": "Located near the lush Valdanos ecosystem, Davudova plaža offers a charming seaside escape in Montenegro. The serene atmosphere is perfect for visitors wanting to swim and lounge away from major tourist hubs. The natural setting makes it a lovely spot for peaceful coastal walks. Packing a few refreshing drinks for a sunny afternoon here is always a good idea.", "category": "recreational", "coords": [19.141711, 41.978329]}]},
+    id: "montenegro-valdanos-olive-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Valdanos",
+                  "text": "Kieselstrand umgeben von uralten Olivenhainen in Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.164992,
+                        41.951422
+                  ]
+            },
+            {
+                  "name": "Paljuškovo Beach",
+                  "text": "Begrenzt von den malerischen Olivenhainen von Valdanos, bildet Paljuškovo Beach eine friedliche Oase an der Küste Montenegros. Die umgebenden Olivenbäume verleihen dem Strand ein wunderbar natürliches Ambiente mit angenehmem Schatten. Sanftes Schwimmen und entspanntes Sonnenbaden stehen in diesem naturverbundenen Rückzugsort im Mittelpunkt. Ein Besuch am Vormittag lässt einen die Ruhe besonders intensiv erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.149161,
+                        41.999404
+                  ]
+            },
+            {
+                  "name": "Plazhi i Adës së Krruçit",
+                  "text": "Sandstrand auf der Insel Ada, im Olivengebiet Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143357,
+                        41.991307
+                  ]
+            },
+            {
+                  "name": "Plazhi i Doçes",
+                  "text": "Kieselstrand nahe den Valdanos-Olivenhainen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.150384,
+                        41.981003
+                  ]
+            },
+            {
+                  "name": "Plazhi i Rakitës",
+                  "text": "Sandstrand mit Rakita-Bäumen, in der Olivenregion Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.152121,
+                        41.982414
+                  ]
+            },
+            {
+                  "name": "Plazhi i Krruçit",
+                  "text": "Abgeschiedener Strand auf der Halbinsel Krruç, Teil des Olivengebiets Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.15084,
+                        41.986418
+                  ]
+            },
+            {
+                  "name": "Davudova plaža",
+                  "text": "In der Nähe des grünen Valdanos-Ökosystems gelegen, bietet die Davudova plaža einen charmanten Zufluchtsort am Meer. Die ruhige Atmosphäre ist ideal für Gäste, die abseits der großen Touristenströme schwimmen und entspannen möchten. Die natürliche Umgebung lädt zudem zu beschaulichen Spaziergängen am Wasser ein. Ein paar kühle Getränke machen den sonnigen Nachmittag hier perfekt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141711,
+                        41.978329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valdanos",
+                  "text": "Kavicsos strand ősi olajfaligetekkel körülvéve Valdanosban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.164992,
+                        41.951422
+                  ]
+            },
+            {
+                  "name": "Paljuškovo Beach",
+                  "text": "A festői Valdanos olajfaligetek által határolt Paljuškovo Beach egy igazi békés menedék a montenegrói parton. A környező olajfák csodálatosan természetes, árnyékos atmoszférát biztosítanak a partszakasznak. Ebben a természetközeli öbölben a napozás és a kényelmes úszás nyújtja a legnagyobb élményt. A reggeli órákban a legkellemesebb élvezni a zavartalan környezetet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.149161,
+                        41.999404
+                  ]
+            },
+            {
+                  "name": "Plazhi i Adës së Krruçit",
+                  "text": "Homokos strand Ada szigetén, a Valdanos olajfa területen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143357,
+                        41.991307
+                  ]
+            },
+            {
+                  "name": "Plazhi i Doçes",
+                  "text": "Kavicsos strand a Valdanos olajfaligetek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.150384,
+                        41.981003
+                  ]
+            },
+            {
+                  "name": "Plazhi i Rakitës",
+                  "text": "Homokos strand rakita fákkal, a Valdanos olajfa régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.152121,
+                        41.982414
+                  ]
+            },
+            {
+                  "name": "Plazhi i Krruçit",
+                  "text": "Félreeső strand a Krruç-félszigeten, a Valdanos olajfa terület része.",
+                  "category": "recreational",
+                  "coords": [
+                        19.15084,
+                        41.986418
+                  ]
+            },
+            {
+                  "name": "Davudova plaža",
+                  "text": "A buja Valdanos ökoszisztéma közelében fekvő Davudova plaža egy bájos tengerparti menedéket kínál Montenegróban. A csendes atmoszféra tökéletes azoknak a látogatóknak, akik a nyüzsgő turistaközpontoktól távol szeretnének úszni és pihenni. A természetes környezet csodás lehetőséget nyújt a békés parti sétákra is. Egy napfényes délutánra érdemes néhány frissítő itallal készülni.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141711,
+                        41.978329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valdanos",
+                  "text": "Plajă cu pietriș înconjurată de livezi străvechi de măslini în Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.164992,
+                        41.951422
+                  ]
+            },
+            {
+                  "name": "Paljuškovo Beach",
+                  "text": "Mărginită de pitoreștile livezi de măslini din Valdanos, plaja Paljuškovo este un refugiu liniștit pe coasta Muntenegrului. Măslinii din împrejurimi oferă plajei o ambianță naturală și plăcut umbrită. Înotul relaxant și băile de soare sunt principalele atracții ale acestui loc dedicat iubitorilor de natură. Diminețile sunt ideale pentru a absorbi întreaga pace a acestei zone.",
+                  "category": "recreational",
+                  "coords": [
+                        19.149161,
+                        41.999404
+                  ]
+            },
+            {
+                  "name": "Plazhi i Adës së Krruçit",
+                  "text": "Plajă nisipoasă pe insula Ada, în zona de măslini Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143357,
+                        41.991307
+                  ]
+            },
+            {
+                  "name": "Plazhi i Doçes",
+                  "text": "Plajă cu pietriș lângă livezile de măslini Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.150384,
+                        41.981003
+                  ]
+            },
+            {
+                  "name": "Plazhi i Rakitës",
+                  "text": "Plajă nisipoasă cu copaci rakita, în regiunea măslinilor Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.152121,
+                        41.982414
+                  ]
+            },
+            {
+                  "name": "Plazhi i Krruçit",
+                  "text": "Plajă retrasă pe peninsula Krruç, parte a zonei de măslini Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.15084,
+                        41.986418
+                  ]
+            },
+            {
+                  "name": "Davudova plaža",
+                  "text": "Situată în apropierea ecosistemului bogat din Valdanos, Davudova plaža oferă o evadare fermecătoare la mare în Muntenegru. Atmosfera senină este perfectă pentru oaspeții care doresc să înoate și să se relaxeze departe de centrele turistice aglomerate. Cadrul natural face din această plajă un loc ideal pentru plimbări liniștite pe țărm. Aduceți câteva băuturi răcoritoare pentru a vă bucura din plin de o după-amiază însorită.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141711,
+                        41.978329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valdanos",
+                  "text": "Pebble beach surrounded by ancient olive groves in Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.164992,
+                        41.951422
+                  ]
+            },
+            {
+                  "name": "Paljuškovo Beach",
+                  "text": "Bordered by the scenic Valdanos Olive Grove Ecosystem, Paljuškovo Beach is a peaceful haven on the Montenegrin coast. The surrounding olive trees lend a wonderfully natural and shaded ambiance to the shoreline. Sunbathing and gentle swimming are the highlights in this quiet, nature-focused retreat. It is highly recommended to visit in the morning to enjoy the serene environment fully.",
+                  "category": "recreational",
+                  "coords": [
+                        19.149161,
+                        41.999404
+                  ]
+            },
+            {
+                  "name": "Plazhi i Adës së Krruçit",
+                  "text": "Sandy beach on the Ada island, within the Valdanos olive area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143357,
+                        41.991307
+                  ]
+            },
+            {
+                  "name": "Plazhi i Doçes",
+                  "text": "Pebble beach near the Valdanos olive groves.",
+                  "category": "recreational",
+                  "coords": [
+                        19.150384,
+                        41.981003
+                  ]
+            },
+            {
+                  "name": "Plazhi i Rakitës",
+                  "text": "Sandy beach with rakita trees, in the Valdanos olive region.",
+                  "category": "recreational",
+                  "coords": [
+                        19.152121,
+                        41.982414
+                  ]
+            },
+            {
+                  "name": "Plazhi i Krruçit",
+                  "text": "Secluded beach on the Krruç peninsula, part of Valdanos olive area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.15084,
+                        41.986418
+                  ]
+            },
+            {
+                  "name": "Davudova plaža",
+                  "text": "Located near the lush Valdanos ecosystem, Davudova plaža offers a charming seaside escape in Montenegro. The serene atmosphere is perfect for visitors wanting to swim and lounge away from major tourist hubs. The natural setting makes it a lovely spot for peaceful coastal walks. Packing a few refreshing drinks for a sunny afternoon here is always a good idea.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141711,
+                        41.978329
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ME",
     name: { de: "Valdanos Olivenhain-Ökosystem", hu: "Valdanos olajfaliget-ökoszisztéma", ro: "Ecosistemul livada de măslini Valdanos", en: "Valdanos Olive Grove Ecosystem" },

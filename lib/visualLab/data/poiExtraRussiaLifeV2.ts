@@ -49,7 +49,52 @@ imageHint: "Baikal seal nerpa on ice",
     },
     image: "/poi-images/russia-lake-baikal-nerpa-life-v2.webp",
 },  {
-    id: "russia-kronotsky-reserve-life-v2",
+    id: "russia-kronotsky-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vid na sopku Ostraia",
+                  "text": "Dieser Aussichtspunkt im Kronozki-Naturreservat bietet einen ungetrübten Blick auf den dramatischen Gipfel des Vulkans Ostraja.",
+                  "category": "natural",
+                  "coords": [
+                        160.22886,
+                        54.617447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vid na sopku Ostraia",
+                  "text": "Ez a Kronockij Természetvédelmi Területen lévő festői kilátópont tiszta rálátást biztosít az Osztraja vulkán drámai csúcsára.",
+                  "category": "natural",
+                  "coords": [
+                        160.22886,
+                        54.617447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vid na sopku Ostraia",
+                  "text": "Acest punct de belvedere pitoresc din Rezervația Naturală Kronotsky oferă o vedere clară asupra vârfului vulcanic Ostraya.",
+                  "category": "natural",
+                  "coords": [
+                        160.22886,
+                        54.617447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vid na sopku Ostraia",
+                  "text": "This scenic viewpoint in the Kronotsky Nature Reserve provides a clear look at the dramatic peak of the Ostraya volcano.",
+                  "category": "natural",
+                  "coords": [
+                        160.22886,
+                        54.617447
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Naturreservat Kronozki", hu: "Kronockij Természetvédelmi Terület", ro: "Rezervația Naturală Kronotski", en: "Kronotsky Nature Reserve"},
@@ -187,7 +232,88 @@ imageHint: "Amur tiger in snowy forest",
     },
     image: "/poi-images/russia-sikhote-alin-life-v2.webp",
 },  {
-    id: "russia-caucasus-reserve-life-v2",
+    id: "russia-caucasus-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chugush",
+                  "text": "Der höchste Gipfel der Republik Adygeja mit einer Höhe von 3.237 Metern im Westkaukasus.",
+                  "category": "natural",
+                  "coords": [
+                        40.209717,
+                        43.797428
+                  ]
+            },
+            {
+                  "name": "Kavkazskii zapovednik",
+                  "text": "Ein weitläufiges Biosphärenreservat, das 1924 zum Schutz der alpinen Flora und Fauna des Kaukasus gegründet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        40.304844,
+                        43.825235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chugush",
+                  "text": "Az Adigeföldi Köztársaság legmagasabb csúcsa, amely 3237 méter magasan fekszik a Nyugat-Kaukázusban.",
+                  "category": "natural",
+                  "coords": [
+                        40.209717,
+                        43.797428
+                  ]
+            },
+            {
+                  "name": "Kavkazskii zapovednik",
+                  "text": "Hatalmas bioszféra-rezervátum, amelyet 1924-ben alapítottak a kaukázusi alpesi flóra és fauna védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        40.304844,
+                        43.825235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chugush",
+                  "text": "Cel mai înalt vârf din Republica Adîgheia, cu o altitudine de 3.237 de metri în Caucazul de Vest.",
+                  "category": "natural",
+                  "coords": [
+                        40.209717,
+                        43.797428
+                  ]
+            },
+            {
+                  "name": "Kavkazskii zapovednik",
+                  "text": "O rezervație vastă a biosferei, înființată în 1924 pentru a proteja flora și fauna alpină din Caucaz.",
+                  "category": "natural",
+                  "coords": [
+                        40.304844,
+                        43.825235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chugush",
+                  "text": "The highest peak of the Republic of Adygea, reaching an elevation of 3,237 metres in the Western Caucasus.",
+                  "category": "natural",
+                  "coords": [
+                        40.209717,
+                        43.797428
+                  ]
+            },
+            {
+                  "name": "Kavkazskii zapovednik",
+                  "text": "A vast biosphere reserve established in 1924 to protect the alpine flora and fauna of the Caucasus.",
+                  "category": "natural",
+                  "coords": [
+                        40.304844,
+                        43.825235
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Kaukasus-Naturreservat", hu: "Kaukázusi Állami Természetvédelmi Terület", ro: "Rezervația Naturală a Caucazului", en: "Caucasus Nature Reserve"},
@@ -233,7 +359,124 @@ imageHint: "Caucasian bison in mountain meadow",
     },
     image: "/poi-images/russia-caucasus-reserve-life-v2.webp",
 },  {
-    id: "russia-land-of-leopard-life-v2",
+    id: "russia-land-of-leopard-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maiak Krolichii",
+                  "text": "Ein einsamer Leuchtturm auf einer felsigen Landzunge an der Küste des Japanischen Meeres im Nationalpark Land des Leoparden.",
+                  "category": "landmark",
+                  "coords": [
+                        131.505676,
+                        42.969312
+                  ]
+            },
+            {
+                  "name": "pamiatnik Mikhailu Iankovskomu",
+                  "text": "Ein Denkmal für den polnisch-russischen Naturforscher Mikhail Jankowski, der die Flora und Fauna dieser Fernost-Region erforschte.",
+                  "category": "landmark",
+                  "coords": [
+                        131.493112,
+                        42.967762
+                  ]
+            },
+            {
+                  "name": "Luchshii obzor na maiak",
+                  "text": "Ein Aussichtspunkt auf den Klippen, der den besten Blick auf den historischen Leuchtturm und die umliegende Meeresbucht bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        131.499287,
+                        42.969676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maiak Krolichii",
+                  "text": "Egy magányos világítótorony a Japán-tenger partján, a Leopárd-föld Nemzeti Park egyik sziklás fokán.",
+                  "category": "landmark",
+                  "coords": [
+                        131.505676,
+                        42.969312
+                  ]
+            },
+            {
+                  "name": "pamiatnik Mikhailu Iankovskomu",
+                  "text": "Emlékmű Mihail Jankovszkij lengyel-orosz természetbúvárnak, aki a Távol-Kelet ezen régiójának élővilágát kutatta.",
+                  "category": "landmark",
+                  "coords": [
+                        131.493112,
+                        42.967762
+                  ]
+            },
+            {
+                  "name": "Luchshii obzor na maiak",
+                  "text": "Egy kilátópont a sziklákon, ahonnan a legjobb rálátás nyílik a történelmi világítótoronyra és a környező tengeröbölre.",
+                  "category": "landmark",
+                  "coords": [
+                        131.499287,
+                        42.969676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maiak Krolichii",
+                  "text": "Un far solitar pe un promontoriu stâncos de pe coasta Mării Japoniei, în Parcul Național Țara Leopardului.",
+                  "category": "landmark",
+                  "coords": [
+                        131.505676,
+                        42.969312
+                  ]
+            },
+            {
+                  "name": "pamiatnik Mikhailu Iankovskomu",
+                  "text": "Un monument dedicat naturalistului polono-rus Mihail Iankovski, care a explorat flora și fauna acestei regiuni din Orientul Îndépartat.",
+                  "category": "landmark",
+                  "coords": [
+                        131.493112,
+                        42.967762
+                  ]
+            },
+            {
+                  "name": "Luchshii obzor na maiak",
+                  "text": "Un punct de observație pe stânci, care oferă cea mai bună vedere asupra farului istoric și a golfului marin înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        131.499287,
+                        42.969676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maiak Krolichii",
+                  "text": "A lonely lighthouse on a rocky promontory on the Sea of Japan coast within the Land of the Leopard National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        131.505676,
+                        42.969312
+                  ]
+            },
+            {
+                  "name": "pamiatnik Mikhailu Iankovskomu",
+                  "text": "A monument to the Polish-Russian naturalist Mikhail Yankovsky, who explored the flora and fauna of this Far Eastern region.",
+                  "category": "landmark",
+                  "coords": [
+                        131.493112,
+                        42.967762
+                  ]
+            },
+            {
+                  "name": "Luchshii obzor na maiak",
+                  "text": "A viewpoint on the cliffs providing the best outlook over the historic lighthouse and the surrounding sea bay.",
+                  "category": "landmark",
+                  "coords": [
+                        131.499287,
+                        42.969676
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Nationalpark Land des Leoparden", hu: "Leopárdok Földje Nemzeti Park", ro: "Parcul Național Țara Leopardului", en: "Land of the Leopard National Park"},
@@ -319,7 +562,124 @@ imageHint: "Reindeer herd on Putorana plateau",
     },
     image: "/poi-images/russia-putorana-reserve-life-v2.webp",
 },  {
-    id: "russia-altai-reserve-life-v2",
+    id: "russia-altai-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oboronitel'nyi val Artal",
+                  "text": "Ein antiker Verteidigungswall aus Stein im Altai-Naturreservat.",
+                  "category": "historical",
+                  "coords": [
+                        87.780644,
+                        51.454201
+                  ]
+            },
+            {
+                  "name": "Oboronitel'nye ukrepleniia Artal",
+                  "text": "Überreste alter Festungsanlagen, die strategisch in das bergige Gelände integriert wurden.",
+                  "category": "historical",
+                  "coords": [
+                        87.77661,
+                        51.454909
+                  ]
+            },
+            {
+                  "name": "Telezker See",
+                  "text": "Der tiefste See im Altai, bekannt für sein kristallklares Wasser und den Status als UNESCO-Welterbe.",
+                  "category": "natural",
+                  "coords": [
+                        87.66487,
+                        51.589409
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oboronitel'nyi val Artal",
+                  "text": "Ősi, kőből épült védmű az Altaj természetvédelmi területen.",
+                  "category": "historical",
+                  "coords": [
+                        87.780644,
+                        51.454201
+                  ]
+            },
+            {
+                  "name": "Oboronitel'nye ukrepleniia Artal",
+                  "text": "Stratégiailag a hegyvidéki terepbe épített ősi erődítmények maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        87.77661,
+                        51.454909
+                  ]
+            },
+            {
+                  "name": "Teletskoe ozero",
+                  "text": "Az Altaj legmélyebb tava, amely kristálytiszta vizéről és UNESCO világörökségi státuszáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        87.66487,
+                        51.589409
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oboronitel'nyi val Artal",
+                  "text": "Un val de apărare antic din piatră în rezervația naturală Altai.",
+                  "category": "historical",
+                  "coords": [
+                        87.780644,
+                        51.454201
+                  ]
+            },
+            {
+                  "name": "Oboronitel'nye ukrepleniia Artal",
+                  "text": "Ruinele unor fortificații antice integrate strategic în terenul muntos.",
+                  "category": "historical",
+                  "coords": [
+                        87.77661,
+                        51.454909
+                  ]
+            },
+            {
+                  "name": "Teletskoe ozero",
+                  "text": "Cel mai adânc lac din Altai, cunoscut pentru apele sale cristaline și statutul de patrimoniu UNESCO.",
+                  "category": "natural",
+                  "coords": [
+                        87.66487,
+                        51.589409
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oboronitel'nyi val Artal",
+                  "text": "An ancient defensive stone rampart located within the Altai Nature Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        87.780644,
+                        51.454201
+                  ]
+            },
+            {
+                  "name": "Oboronitel'nye ukrepleniia Artal",
+                  "text": "Remains of ancient fortifications strategically built into the mountainous terrain.",
+                  "category": "historical",
+                  "coords": [
+                        87.77661,
+                        51.454909
+                  ]
+            },
+            {
+                  "name": "Lake Teletskoye",
+                  "text": "The deepest lake in Altai, known for its crystal-clear water and UNESCO World Heritage status.",
+                  "category": "natural",
+                  "coords": [
+                        87.66487,
+                        51.589409
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Altai-Naturreservat", hu: "Altaji Állami Természetvédelmi Terület", ro: "Rezervația Naturală Altai", en: "Altai Nature Reserve"},
@@ -594,7 +954,916 @@ imageHint: "European bison in snowy Moscow forest",
     }
   },
   {
-    id: "russia-stolby-reserve-life-v2",
+    id: "russia-stolby-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vidovka Serebrianikovskaia",
+                  "text": "Dieser Aussichtspunkt im Stolby-Reservat bietet einen weiten Blick über das Jenissei-Tal und die Serebrjanikowski-Felsen.",
+                  "category": "natural",
+                  "coords": [
+                        92.702986,
+                        55.99547
+                  ]
+            },
+            {
+                  "name": "Vidovka Uiutnaia",
+                  "text": "Ein geschützter Aussichtsplatz im Stolby-Park, der für seine ruhige Lage inmitten der bizarren Granitformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        92.695296,
+                        55.994567
+                  ]
+            },
+            {
+                  "name": "Vidovka Udachnaia",
+                  "text": "Dieser Aussichtspunkt bietet eine der besten Perspektiven auf die sibirische Taiga im Stolby-Naturreservat.",
+                  "category": "natural",
+                  "coords": [
+                        92.658437,
+                        55.985557
+                  ]
+            },
+            {
+                  "name": "Sibirskaia korona (tablichka mezhdu derev'ev)",
+                  "text": "Eine kleine Gedenktafel zwischen den Bäumen im Stolby-Wald, die an die Bergsteiger der 'Sibirischen Krone' erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        92.66369,
+                        55.988059
+                  ]
+            },
+            {
+                  "name": "Pionerskaia vidovka",
+                  "text": "Ein historischer Aussichtspunkt, der früher oft von Pioniergruppen besucht wurde und einen Blick auf die zentralen Stolby-Felsen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        92.663307,
+                        55.977794
+                  ]
+            },
+            {
+                  "name": "Vidovka Gornogo",
+                  "text": "Dieser Hochpunkt bietet einen dramatischen Blick auf die umliegenden Schluchten und die bewaldeten Kämme des Sajany-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        92.695754,
+                        55.982154
+                  ]
+            },
+            {
+                  "name": "Shalunin Byk",
+                  "text": "Eine markante Felsformation aus Granit-Syenit im Naturschutzgebiet Stolby.",
+                  "category": "natural",
+                  "coords": [
+                        92.687167,
+                        55.966195
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka \"Tsar'-ryba\"",
+                  "text": "Ein Aussichtspunkt mit einem Stör-Denkmal und weitem Blick auf den Fluss Jenissei.",
+                  "category": "natural",
+                  "coords": [
+                        92.612395,
+                        55.960275
+                  ]
+            },
+            {
+                  "name": "Sliznevskii obval",
+                  "text": "Ein Aussichtspunkt auf einer Felsklippe mit weitem Blick über das Jenissei-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        92.587326,
+                        55.938432
+                  ]
+            },
+            {
+                  "name": "Dudorevskie skaly",
+                  "text": "Hohe Felsvorsprünge mit Panoramablick auf die umgebende sibirische Taiga.",
+                  "category": "natural",
+                  "coords": [
+                        92.578793,
+                        55.933016
+                  ]
+            },
+            {
+                  "name": "Nelidovskie kamni",
+                  "text": "Eine Gruppe massiver Granit-Syenit-Pfeiler, die typisch für die Wildnis von Stolby sind.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741829,
+                        55.910615
+                  ]
+            },
+            {
+                  "name": "Dikariok",
+                  "text": "Eine kleinere, abgelegene Felssäule im Reservat, die bei lokalen Kletterern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741979,
+                        55.92208
+                  ]
+            },
+            {
+                  "name": "Skif",
+                  "text": "Eine natürliche Felsformation inmitten der dichten Kiefernwälder des Reservats.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741537,
+                        55.918935
+                  ]
+            },
+            {
+                  "name": "Stolbovskaia vidovka",
+                  "text": "Ein hoher Aussichtspunkt mit Blick über die einzigartigen Felsformationen von Stolby.",
+                  "category": "natural",
+                  "coords": [
+                        92.756647,
+                        55.9342
+                  ]
+            },
+            {
+                  "name": "Vidovka",
+                  "text": "Ein Aussichtspunkt mit Blick auf das zerklüftete vulkanische Gelände des Naturparks.",
+                  "category": "natural",
+                  "coords": [
+                        92.747245,
+                        55.963238
+                  ]
+            },
+            {
+                  "name": "Vtoraia torgashinskaia vidovka",
+                  "text": "Ein Aussichtspunkt auf dem Torgaschinski-Rücken mit Blick auf die Stolby-Felsen.",
+                  "category": "natural",
+                  "coords": [
+                        92.889169,
+                        55.919445
+                  ]
+            },
+            {
+                  "name": "Pamiatnik prirody kraevogo znacheniia Dendrarii SibGTU",
+                  "text": "Ein staatlich geschütztes Arboretum mit einer vielfältigen Sammlung sibirischer Baumarten.",
+                  "category": "natural",
+                  "coords": [
+                        92.63208,
+                        55.976061
+                  ]
+            },
+            {
+                  "name": "Territoriia ogranichennogo poseshcheniia (bufernaia zona) nats.parka <<Stolby>>",
+                  "text": "Eine geschützte Pufferzone zur Erhaltung des unberührten Ökosystems und der Felssäulen.",
+                  "category": "natural",
+                  "coords": [
+                        92.778971,
+                        55.909694
+                  ]
+            },
+            {
+                  "name": "Turistsko-ekskursionnyi raion zapovednika <<Stolby>>",
+                  "text": "Der am leichtesten zugängliche Teil des Reservats, bekannt für seine monumentalen Granitfelsen.",
+                  "category": "natural",
+                  "coords": [
+                        92.765416,
+                        55.92939
+                  ]
+            },
+            {
+                  "name": "Roev ruchei",
+                  "text": "Einer der größten Zoos Russlands, am Hang des Sajan-Gebirges gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        92.73207,
+                        55.965846
+                  ]
+            },
+            {
+                  "name": "Khram na Maiake sviatogo prav. Ioanna Kronshtadskogo",
+                  "text": "Eine orthodoxe Kirche an einem Leuchtturmstandort am Rande des Naturschutzgebiets.",
+                  "category": "religious",
+                  "coords": [
+                        92.686443,
+                        55.986609
+                  ]
+            },
+            {
+                  "name": "Veles i Makosh'",
+                  "text": "Eine moderne heidnische Stätte, die den slawischen Gottheiten Veles und Makosh gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.661526,
+                        55.983241
+                  ]
+            },
+            {
+                  "name": "Khram Sergiia Radonezhskogo",
+                  "text": "Eine christliche Kirche, die dem Heiligen Sergius von Radonesch im Stolby-Gebiet gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        92.698641,
+                        55.983263
+                  ]
+            },
+            {
+                  "name": "Chasovnia sviatitelia Innokentiia",
+                  "text": "Eine kleine christliche Kapelle, die dem Heiligen Innozenz gewidmet ist, nahe dem Reservat.",
+                  "category": "landmark",
+                  "coords": [
+                        92.745232,
+                        55.950638
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozhiei Materi \"Vsetsaritsa\"",
+                  "text": "Eine orthodoxe Kirche, benannt nach der Ikone der Gottesmutter „Pantanassa“.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741839,
+                        55.979408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vidovka Serebrianikovskaia",
+                  "text": "A Sztolbi természetvédelmi terület ezen kilátópontja tágas panorámát nyújt a Jenyiszej völgyére és a Szerebrjanyikovszkij-sziklákra.",
+                  "category": "natural",
+                  "coords": [
+                        92.702986,
+                        55.99547
+                  ]
+            },
+            {
+                  "name": "Vidovka Uiutnaia",
+                  "text": "Védett kilátóhely a Sztolbi parkban, amely nyugodt elhelyezkedéséről ismert a bizarr gránitformációk között.",
+                  "category": "natural",
+                  "coords": [
+                        92.695296,
+                        55.994567
+                  ]
+            },
+            {
+                  "name": "Vidovka Udachnaia",
+                  "text": "Erről a kilátópontról nyílik az egyik legjobb kilátás a szibériai tajgára a Sztolbi természetvédelmi területen.",
+                  "category": "natural",
+                  "coords": [
+                        92.658437,
+                        55.985557
+                  ]
+            },
+            {
+                  "name": "Sibirskaia korona (tablichka mezhdu derev'ev)",
+                  "text": "Kicsi emléktábla a Sztolbi-erdő fái között, amely a „Szibériai Korona” hegymászóira emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        92.66369,
+                        55.988059
+                  ]
+            },
+            {
+                  "name": "Pionerskaia vidovka",
+                  "text": "Történelmi kilátópont, amelyet korábban gyakran látogattak úttörőcsoportok, és kilátást nyújt a központi Sztolbi-sziklákra.",
+                  "category": "natural",
+                  "coords": [
+                        92.663307,
+                        55.977794
+                  ]
+            },
+            {
+                  "name": "Vidovka Gornogo",
+                  "text": "Ez a magaslati pont drámai kilátást nyújt a környező szurdokokra és a Szaján-hegység erdős gerinceire.",
+                  "category": "natural",
+                  "coords": [
+                        92.695754,
+                        55.982154
+                  ]
+            },
+            {
+                  "name": "Shalunin Byk",
+                  "text": "Jellegzetes gránit-szienit sziklaképződmény a Stolbi Természetvédelmi Területen.",
+                  "category": "natural",
+                  "coords": [
+                        92.687167,
+                        55.966195
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka \"Tsar'-ryba\"",
+                  "text": "Kilátópont egy tokhal-emlékművel, ahonnan pazar kilátás nyílik a Jenyiszej folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        92.612395,
+                        55.960275
+                  ]
+            },
+            {
+                  "name": "Sliznevskii obval",
+                  "text": "Kilátóhely egy sziklaperemen, széles panorámával a Jenyiszej völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        92.587326,
+                        55.938432
+                  ]
+            },
+            {
+                  "name": "Dudorevskie skaly",
+                  "text": "Magas sziklanyúlványok, ahonnan panorámás kilátás nyílik a környező szibériai tajgára.",
+                  "category": "natural",
+                  "coords": [
+                        92.578793,
+                        55.933016
+                  ]
+            },
+            {
+                  "name": "Nelidovskie kamni",
+                  "text": "Hatalmas gránit-szienit oszlopok csoportja, amely a Stolbi vadonra jellemző.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741829,
+                        55.910615
+                  ]
+            },
+            {
+                  "name": "Dikariok",
+                  "text": "Egy kisebb, félreeső sziklaoszlop a rezervátumban, amely népszerű a helyi sziklamászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741979,
+                        55.92208
+                  ]
+            },
+            {
+                  "name": "Skif",
+                  "text": "Sűrű fenyőerdők között álló természetes sziklaképződmény a rezervátumban.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741537,
+                        55.918935
+                  ]
+            },
+            {
+                  "name": "Stolbovskaia vidovka",
+                  "text": "Magaslati kilátóhely, ahonnan rálátni a Stolbi egyedülálló sziklaképződményeire.",
+                  "category": "natural",
+                  "coords": [
+                        92.756647,
+                        55.9342
+                  ]
+            },
+            {
+                  "name": "Vidovka",
+                  "text": "Kilátópont, ahonnan a natúrpark sziklás vulkáni terepére nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        92.747245,
+                        55.963238
+                  ]
+            },
+            {
+                  "name": "Vtoraia torgashinskaia vidovka",
+                  "text": "Kilátópont a Torgasinszkij-gerincen, kilátással a Stolbi-oszlopok felé.",
+                  "category": "natural",
+                  "coords": [
+                        92.889169,
+                        55.919445
+                  ]
+            },
+            {
+                  "name": "Pamiatnik prirody kraevogo znacheniia Dendrarii SibGTU",
+                  "text": "Államilag védett arborétum, amely a szibériai fafajok változatos gyűjteményét mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        92.63208,
+                        55.976061
+                  ]
+            },
+            {
+                  "name": "Territoriia ogranichennogo poseshcheniia (bufernaia zona) nats.parka <<Stolby>>",
+                  "text": "Védett pufferzóna, amely megőrzi az érintetlen ökoszisztémát és az egyedülálló sziklaoszlopokat.",
+                  "category": "natural",
+                  "coords": [
+                        92.778971,
+                        55.909694
+                  ]
+            },
+            {
+                  "name": "Turistsko-ekskursionnyi raion zapovednika <<Stolby>>",
+                  "text": "A rezervátum legkönnyebben hozzáférhető része, amely monumentális gránitszikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        92.765416,
+                        55.92939
+                  ]
+            },
+            {
+                  "name": "Roev ruchei",
+                  "text": "Oroszország egyik legnagyobb állatkertje, a Szaján-hegység lejtőin található.",
+                  "category": "recreational",
+                  "coords": [
+                        92.73207,
+                        55.965846
+                  ]
+            },
+            {
+                  "name": "Khram na Maiake sviatogo prav. Ioanna Kronshtadskogo",
+                  "text": "Ortodox templom egy világítótorony helyszínén, a természetvédelmi terület szélén.",
+                  "category": "religious",
+                  "coords": [
+                        92.686443,
+                        55.986609
+                  ]
+            },
+            {
+                  "name": "Veles i Makosh'",
+                  "text": "Modern pogány kegyhely, amelyet Velesz és Makos szláv istenségeknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        92.661526,
+                        55.983241
+                  ]
+            },
+            {
+                  "name": "Khram Sergiia Radonezhskogo",
+                  "text": "Radonyezsi Szent Szergejnek szentelt keresztény templom a Stolbi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        92.698641,
+                        55.983263
+                  ]
+            },
+            {
+                  "name": "Chasovnia sviatitelia Innokentiia",
+                  "text": "Szent Ince tiszteletére szentelt kis keresztény kápolna a rezervátum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        92.745232,
+                        55.950638
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozhiei Materi \"Vsetsaritsa\"",
+                  "text": "Az Istenanya „Pantanassza” ikonjáról elnevezett ortodox templom.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741839,
+                        55.979408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vidovka Serebrianikovskaia",
+                  "text": "Acest punct de belvedere din Rezervația Stolbî oferă o vedere largă asupra văii Enisei și a stâncilor Serebreanikovski.",
+                  "category": "natural",
+                  "coords": [
+                        92.702986,
+                        55.99547
+                  ]
+            },
+            {
+                  "name": "Vidovka Uiutnaia",
+                  "text": "Un loc de belvedere protejat în parcul Stolbî, cunoscut pentru poziția sa liniștită în mijlocul formațiunilor bizare de granit.",
+                  "category": "natural",
+                  "coords": [
+                        92.695296,
+                        55.994567
+                  ]
+            },
+            {
+                  "name": "Vidovka Udachnaia",
+                  "text": "Acest punct de belvedere oferă una dintre cele mai bune perspective asupra taigalei siberiene din Rezervația Naturală Stolbî.",
+                  "category": "natural",
+                  "coords": [
+                        92.658437,
+                        55.985557
+                  ]
+            },
+            {
+                  "name": "Sibirskaia korona (tablichka mezhdu derev'ev)",
+                  "text": "O mică placă memorială între copacii din pădurea Stolbî, care îi comemorează pe alpiniștii „Coroanei Siberiene”.",
+                  "category": "landmark",
+                  "coords": [
+                        92.66369,
+                        55.988059
+                  ]
+            },
+            {
+                  "name": "Pionerskaia vidovka",
+                  "text": "Un punct de belvedere istoric, vizitat adesea în trecut de grupuri de pionieri, oferind o vedere spre stâncile centrale Stolbî.",
+                  "category": "natural",
+                  "coords": [
+                        92.663307,
+                        55.977794
+                  ]
+            },
+            {
+                  "name": "Vidovka Gornogo",
+                  "text": "Acest punct înalt oferă o vedere dramatică asupra cheilor din jur și a crestelor împădurite ale Munților Saian.",
+                  "category": "natural",
+                  "coords": [
+                        92.695754,
+                        55.982154
+                  ]
+            },
+            {
+                  "name": "Shalunin Byk",
+                  "text": "O formațiune stâncoasă proeminentă din granit-sienit în Rezervația Naturală Stolbi.",
+                  "category": "natural",
+                  "coords": [
+                        92.687167,
+                        55.966195
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka \"Tsar'-ryba\"",
+                  "text": "Un punct de belvedere cu un monument al sturionului și vedere panoramică spre fluviul Enisei.",
+                  "category": "natural",
+                  "coords": [
+                        92.612395,
+                        55.960275
+                  ]
+            },
+            {
+                  "name": "Sliznevskii obval",
+                  "text": "Un punct de observație pe o stâncă abruptă, oferind vederi largi asupra văii Eniseiului.",
+                  "category": "natural",
+                  "coords": [
+                        92.587326,
+                        55.938432
+                  ]
+            },
+            {
+                  "name": "Dudorevskie skaly",
+                  "text": "Aflorimente stâncoase înalte care oferă vederi panoramice asupra taigalei siberiene înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        92.578793,
+                        55.933016
+                  ]
+            },
+            {
+                  "name": "Nelidovskie kamni",
+                  "text": "Un grup de stâlpi masivi de granit-sienit, tipici pentru zona sălbatică Stolbi.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741829,
+                        55.910615
+                  ]
+            },
+            {
+                  "name": "Dikariok",
+                  "text": "Un stâlp de stâncă mai mic și izolat din rezervație, popular printre alpiniștii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741979,
+                        55.92208
+                  ]
+            },
+            {
+                  "name": "Skif",
+                  "text": "O formațiune stâncoasă naturală aflată în mijlocul pădurilor dese de pini din rezervație.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741537,
+                        55.918935
+                  ]
+            },
+            {
+                  "name": "Stolbovskaia vidovka",
+                  "text": "Un punct de observație înalt care oferă vederi spre formațiunile stâncoase unice din Stolbi.",
+                  "category": "natural",
+                  "coords": [
+                        92.756647,
+                        55.9342
+                  ]
+            },
+            {
+                  "name": "Vidovka",
+                  "text": "Un punct de observație cu vedere la terenul vulcanic accidentat al parcului natural.",
+                  "category": "natural",
+                  "coords": [
+                        92.747245,
+                        55.963238
+                  ]
+            },
+            {
+                  "name": "Vtoraia torgashinskaia vidovka",
+                  "text": "Un punct de belvedere pe creasta Torgașinski, cu vedere spre stâlpii din Stolbi.",
+                  "category": "natural",
+                  "coords": [
+                        92.889169,
+                        55.919445
+                  ]
+            },
+            {
+                  "name": "Pamiatnik prirody kraevogo znacheniia Dendrarii SibGTU",
+                  "text": "Un arboretum protejat de stat, care prezintă o colecție diversă de specii de arbori siberieni.",
+                  "category": "natural",
+                  "coords": [
+                        92.63208,
+                        55.976061
+                  ]
+            },
+            {
+                  "name": "Territoriia ogranichennogo poseshcheniia (bufernaia zona) nats.parka <<Stolby>>",
+                  "text": "O zonă tampon protejată care conservă ecosistemul curat și stâlpii de stâncă unici.",
+                  "category": "natural",
+                  "coords": [
+                        92.778971,
+                        55.909694
+                  ]
+            },
+            {
+                  "name": "Turistsko-ekskursionnyi raion zapovednika <<Stolby>>",
+                  "text": "Cea mai accesibilă parte a rezervației, cunoscută pentru stâncile sale monumentale de granit.",
+                  "category": "natural",
+                  "coords": [
+                        92.765416,
+                        55.92939
+                  ]
+            },
+            {
+                  "name": "Roev ruchei",
+                  "text": "Una dintre cele mai mari grădini zoologice din Rusia, situată pe versanții Munților Saian.",
+                  "category": "recreational",
+                  "coords": [
+                        92.73207,
+                        55.965846
+                  ]
+            },
+            {
+                  "name": "Khram na Maiake sviatogo prav. Ioanna Kronshtadskogo",
+                  "text": "O biserică ortodoxă situată pe locul unui far, la marginea rezervației naturale.",
+                  "category": "religious",
+                  "coords": [
+                        92.686443,
+                        55.986609
+                  ]
+            },
+            {
+                  "name": "Veles i Makosh'",
+                  "text": "Un sit păgân modern dedicat vechilor divinități slave Veles și Makoș.",
+                  "category": "landmark",
+                  "coords": [
+                        92.661526,
+                        55.983241
+                  ]
+            },
+            {
+                  "name": "Khram Sergiia Radonezhskogo",
+                  "text": "O biserică creștină dedicată Sfântului Serghie de Radonej din zona Stolbi.",
+                  "category": "landmark",
+                  "coords": [
+                        92.698641,
+                        55.983263
+                  ]
+            },
+            {
+                  "name": "Chasovnia sviatitelia Innokentiia",
+                  "text": "O mică capelă creștină dedicată Sfântului Inocențiu, situată lângă rezervație.",
+                  "category": "landmark",
+                  "coords": [
+                        92.745232,
+                        55.950638
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozhiei Materi \"Vsetsaritsa\"",
+                  "text": "O biserică ortodoxă numită după icoana Maicii Domnului „Pantanassa”.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741839,
+                        55.979408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vidovka Serebrianikovskaia",
+                  "text": "This viewpoint in the Stolby Reserve offers a wide view over the Yenisei Valley and the Serebryanikovsky rocks.",
+                  "category": "natural",
+                  "coords": [
+                        92.702986,
+                        55.99547
+                  ]
+            },
+            {
+                  "name": "Vidovka Uiutnaia",
+                  "text": "A sheltered viewpoint in Stolby Park known for its quiet setting amidst the bizarre granite formations.",
+                  "category": "natural",
+                  "coords": [
+                        92.695296,
+                        55.994567
+                  ]
+            },
+            {
+                  "name": "Vidovka Udachnaia",
+                  "text": "This viewpoint offers one of the best perspectives of the Siberian taiga within the Stolby Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        92.658437,
+                        55.985557
+                  ]
+            },
+            {
+                  "name": "Sibirskaia korona (tablichka mezhdu derev'ev)",
+                  "text": "A small memorial plaque between trees in the Stolby forest, commemorating the climbers of the 'Siberian Crown'.",
+                  "category": "landmark",
+                  "coords": [
+                        92.66369,
+                        55.988059
+                  ]
+            },
+            {
+                  "name": "Pionerskaia vidovka",
+                  "text": "A historic viewpoint formerly frequented by pioneer groups, offering a view of the central Stolby rocks.",
+                  "category": "natural",
+                  "coords": [
+                        92.663307,
+                        55.977794
+                  ]
+            },
+            {
+                  "name": "Vidovka Gornogo",
+                  "text": "This high point offers a dramatic view of the surrounding gorges and the forested ridges of the Sayan Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        92.695754,
+                        55.982154
+                  ]
+            },
+            {
+                  "name": "Shalunin Byk",
+                  "text": "A prominent granite-syenite rock formation located within the Stolby Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        92.687167,
+                        55.966195
+                  ]
+            },
+            {
+                  "name": "Smotrovaia ploshchadka \"Tsar'-ryba\"",
+                  "text": "A viewpoint featuring a sturgeon monument and wide views of the Yenisei River.",
+                  "category": "natural",
+                  "coords": [
+                        92.612395,
+                        55.960275
+                  ]
+            },
+            {
+                  "name": "Sliznevskii obval",
+                  "text": "A scenic lookout on a rocky cliff offering wide views of the Yenisei valley.",
+                  "category": "natural",
+                  "coords": [
+                        92.587326,
+                        55.938432
+                  ]
+            },
+            {
+                  "name": "Dudorevskie skaly",
+                  "text": "High rock outcroppings providing panoramic views of the surrounding Siberian taiga.",
+                  "category": "natural",
+                  "coords": [
+                        92.578793,
+                        55.933016
+                  ]
+            },
+            {
+                  "name": "Nelidovskie kamni",
+                  "text": "A group of massive granite-syenite pillars typical of the Stolby wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741829,
+                        55.910615
+                  ]
+            },
+            {
+                  "name": "Dikariok",
+                  "text": "A smaller, secluded rock pillar within the reserve, popular with local climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741979,
+                        55.92208
+                  ]
+            },
+            {
+                  "name": "skala",
+                  "text": "A natural rock formation standing amidst the dense pine forests of the reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741537,
+                        55.918935
+                  ]
+            },
+            {
+                  "name": "Stolbovskaya vidovka",
+                  "text": "A high vantage point offering views across the unique rock formations of Stolby.",
+                  "category": "natural",
+                  "coords": [
+                        92.756647,
+                        55.9342
+                  ]
+            },
+            {
+                  "name": "Vidovka",
+                  "text": "A scenic lookout point overlooking the rugged volcanic terrain of the nature park.",
+                  "category": "natural",
+                  "coords": [
+                        92.747245,
+                        55.963238
+                  ]
+            },
+            {
+                  "name": "Vtoraia torgashinskaia vidovka",
+                  "text": "A viewpoint on the Torgashinsky Ridge with views toward the Stolby pillars.",
+                  "category": "natural",
+                  "coords": [
+                        92.889169,
+                        55.919445
+                  ]
+            },
+            {
+                  "name": "Pamiatnik prirody kraevogo znacheniia Dendrarii SibGTU",
+                  "text": "A state-protected arboretum featuring a diverse collection of Siberian tree species.",
+                  "category": "natural",
+                  "coords": [
+                        92.63208,
+                        55.976061
+                  ]
+            },
+            {
+                  "name": "Territory of limited visits (buffer zone) of the Stolby Nature Reserve",
+                  "text": "A protected buffer zone preserving the pristine ecosystem and unique rock pillars.",
+                  "category": "natural",
+                  "coords": [
+                        92.778971,
+                        55.909694
+                  ]
+            },
+            {
+                  "name": "Tourism and excursion area of the Stolby Nature Reserve",
+                  "text": "The most accessible part of the reserve, known for its monumental granite rocks.",
+                  "category": "natural",
+                  "coords": [
+                        92.765416,
+                        55.92939
+                  ]
+            },
+            {
+                  "name": "Roev ruchey",
+                  "text": "One of Russia's largest zoos, situated on the slopes of the Sayan Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        92.73207,
+                        55.965846
+                  ]
+            },
+            {
+                  "name": "Khram na Maiake sviatogo prav. Ioanna Kronshtadskogo",
+                  "text": "An Orthodox church located at a lighthouse site on the edge of the nature reserve.",
+                  "category": "religious",
+                  "coords": [
+                        92.686443,
+                        55.986609
+                  ]
+            },
+            {
+                  "name": "Veles i Makosh'",
+                  "text": "A modern pagan site or shrine dedicated to the ancient Slavic deities Veles and Makosh.",
+                  "category": "landmark",
+                  "coords": [
+                        92.661526,
+                        55.983241
+                  ]
+            },
+            {
+                  "name": "Khram Sergiia Radonezhskogo",
+                  "text": "A Christian church dedicated to Saint Sergius of Radonezh in the Stolby area.",
+                  "category": "landmark",
+                  "coords": [
+                        92.698641,
+                        55.983263
+                  ]
+            },
+            {
+                  "name": "Chasovnia sviatitelia Innokentiia",
+                  "text": "A small Christian chapel dedicated to Saint Innocent, located near the reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        92.745232,
+                        55.950638
+                  ]
+            },
+            {
+                  "name": "Khram v chest' ikony Bozhiei Materi \"Vsetsaritsa\"",
+                  "text": "An Orthodox church named after the \"Pantanassa\" icon of the Mother of God.",
+                  "category": "landmark",
+                  "coords": [
+                        92.741839,
+                        55.979408
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Nationalpark Krasnojarsker Stolby", hu: "Krasznojarszki Stolbi Nemzeti Park", ro: "Parcul Național Stolbi Krasnoiarsk", en: "Krasnoyarsk Stolby National Park"},
@@ -745,7 +2014,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Дель мар",
-                  "text": "Ein gehobener Strandclub an der Küste von Sotschi.",
+                  "text": "Der Strandclub ‚Дель мар‘ (Del Mar) nahe dem Sotschi-Arboretum an der Schwarzmeerküste.",
                   "category": "recreational",
                   "coords": [
                         39.725752,
@@ -754,7 +2023,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Рыжий пляж",
-                  "text": "Ein modern gestalteter Strandbereich in Sotschi.",
+                  "text": "Der ‚Рыжий пляж‘ (Roter Strand) – ein Sandstrand am Fuße des Sotschi-Arboretums.",
                   "category": "recreational",
                   "coords": [
                         39.732746,
@@ -763,7 +2032,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Солнечный",
-                  "text": "Ein öffentlicher Strand an der Schwarzmeerküste von Sotschi.",
+                  "text": "Der Erholungskomplex ‚Solnechny‘ (Sonnig) im Sotschi-Arboretum.",
                   "category": "recreational",
                   "coords": [
                         39.74029,
@@ -792,7 +2061,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Дель мар",
-                  "text": "Színvonalas strandklub Szocsi tengerpartján.",
+                  "text": "A 'Дель мар' (Del Mar) strandklub a Szocsi Arborétum közelében, a Fekete-tenger partján.",
                   "category": "recreational",
                   "coords": [
                         39.725752,
@@ -801,7 +2070,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Рыжий пляж",
-                  "text": "Modern kialakítású strandterület Szocsiban.",
+                  "text": "A 'Рыжий пляж' (Piros Strand) – egy homokos tengerpart a Szocsi Arborétum lábánál.",
                   "category": "recreational",
                   "coords": [
                         39.732746,
@@ -810,7 +2079,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Солнечный",
-                  "text": "Nyilvános strand Szocsi fekete-tengeri partvidékén.",
+                  "text": "A 'Solnechny' (Napfényes) rekreációs komplexum a Szocsi Arborétumban.",
                   "category": "recreational",
                   "coords": [
                         39.74029,
@@ -839,7 +2108,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Дель мар",
-                  "text": "Un club de plajă elegant pe litoralul din Soci.",
+                  "text": "Clubul de plajă 'Дель мар' (Del Mar) lângă Arboretumul din Soci, pe coasta Mării Negre.",
                   "category": "recreational",
                   "coords": [
                         39.725752,
@@ -848,7 +2117,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Рыжий пляж",
-                  "text": "O zonă de plajă modernă în Soci.",
+                  "text": "Plaja 'Рыжий пляж' (Plaja Roșie) – o plajă cu nisip la poalele Arboretumului din Soci.",
                   "category": "recreational",
                   "coords": [
                         39.732746,
@@ -857,7 +2126,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Солнечный",
-                  "text": "O plajă publică pe coasta Mării Negre din Soci.",
+                  "text": "Complexul de agrement 'Solnechny' (Însorit) din cadrul Arboretumului din Soci.",
                   "category": "recreational",
                   "coords": [
                         39.74029,
@@ -886,7 +2155,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Дель мар",
-                  "text": "An upscale beach club on the coast of Sochi.",
+                  "text": "The beach club 'Дель мар' (Del Mar) near the Sochi Arboretum on the Black Sea coast.",
                   "category": "recreational",
                   "coords": [
                         39.725752,
@@ -895,7 +2164,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Рыжий пляж",
-                  "text": "A modernly designed beach area in Sochi.",
+                  "text": "The 'Рыжий пляж' (Red Beach) – a sandy cove beach at the foot of the Sochi Arboretum.",
                   "category": "recreational",
                   "coords": [
                         39.732746,
@@ -904,7 +2173,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
             },
             {
                   "name": "Solnechny",
-                  "text": "A public beach on the Black Sea coast of Sochi.",
+                  "text": "The recreation complex 'Solnechny' within the Sochi Arboretum.",
                   "category": "recreational",
                   "coords": [
                         39.74029,
@@ -1176,7 +2445,52 @@ imageHint: "Wild reindeer in Lapland tundra",
     },
     image: "/poi-images/russia-lapland-reserve-life-v2.webp",
 },  {
-    id: "russia-black-lands-life-v2",
+    id: "russia-black-lands-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bufernaia zona zapovednika Chiornye Zemli",
+                  "text": "Diese geschützte ökologische Pufferzone bewahrt die weite Steppenumgebung und die empfindliche Artenvielfalt der Schwarzen Erden.",
+                  "category": "natural",
+                  "coords": [
+                        46.262035,
+                        45.937809
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bufernaia zona zapovednika Chiornye Zemli",
+                  "text": "Ez a védett ökológiai pufferzóna megőrzi a Fekete Földek hatalmas sztyeppei környezetét és törékeny biológiai sokféleségét.",
+                  "category": "natural",
+                  "coords": [
+                        46.262035,
+                        45.937809
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bufernaia zona zapovednika Chiornye Zemli",
+                  "text": "Această zonă tampon ecologică protejată conservă vastul mediu de stepă și biodiversitatea fragilă a Pământurilor Negre.",
+                  "category": "natural",
+                  "coords": [
+                        46.262035,
+                        45.937809
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bufernaia zona zapovednika Chiornye Zemli",
+                  "text": "This protected ecological buffer zone preserves the vast steppe environment and fragile biodiversity of the Black Lands.",
+                  "category": "natural",
+                  "coords": [
+                        46.262035,
+                        45.937809
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Naturreservat Schwarze Erden", hu: "Fekete Földek Természetvédelmi Terület", ro: "Rezervația Naturală Pământurile Negre", en: "Black Lands Nature Reserve"},
@@ -1268,7 +2582,52 @@ imageHint: "Saiga antelope in Russian steppe",
     }
   },
   {
-    id: "russia-sayano-shushenski-life-v2",
+    id: "russia-sayano-shushenski-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sajano-Schuschensker Naturreservat",
+                  "text": "Das Sajano-Schuschensker Naturreservat schützt zerklüftete Gebirgstaiga und bietet einen wichtigen Lebensraum für den Schneeleoparden.",
+                  "category": "natural",
+                  "coords": [
+                        91.862768,
+                        52.169318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saiano-Shushenskii zapovednik",
+                  "text": "A Szajano-Susenszkoje Természetvédelmi Terület a zord hegyi tajgát védi, és kulcsfontosságú élőhelyet biztosít a hópárduc számára.",
+                  "category": "natural",
+                  "coords": [
+                        91.862768,
+                        52.169318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saiano-Shushenskii zapovednik",
+                  "text": "Rezervația Naturală Saiano-Șușenski protejează taigaua montană accidentată și oferă un habitat critic pentru leopardul de zăpadă.",
+                  "category": "natural",
+                  "coords": [
+                        91.862768,
+                        52.169318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sayano-Shushenski Nature Reserve",
+                  "text": "The Sayano-Shushenski Nature Reserve protects rugged mountainous taiga and provides a critical habitat for the snow leopard.",
+                  "category": "natural",
+                  "coords": [
+                        91.862768,
+                        52.169318
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Sajano-Schuschenski-Naturreservat", hu: "Szajano-Susenszkij Természetvédelmi Terület", ro: "Rezervația Naturală Saiano-Șușenski", en: "Sayano-Shushenski Nature Reserve"},
@@ -1314,7 +2673,88 @@ imageHint: "Siberian ibex on mountain cliff",
     },
     image: "/poi-images/russia-sayano-shushenski-life-v2.webp",
 },  {
-    id: "russia-commander-islands-life-v2",
+    id: "russia-commander-islands-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pogibshii ekskavator",
+                  "text": "Diese ungewöhnliche Attraktion auf den Kommandeurinseln, bekannt als \"Toter Bagger\", ist eine verrostete, verlassene Maschine aus der Sowjetzeit, die an der abgelegenen Küste ruht.",
+                  "category": "landmark",
+                  "coords": [
+                        166.102817,
+                        55.041235
+                  ]
+            },
+            {
+                  "name": "Pogibshaia tsisterna",
+                  "text": "Diese Sehenswürdigkeit auf den Kommandeurinseln besteht aus einer verfallenen, verlassenen Zisterne.",
+                  "category": "landmark",
+                  "coords": [
+                        166.072896,
+                        55.076075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pogibshii ekskavator",
+                  "text": "A \"Halott exkavátor\" néven ismert szokatlan látványosság a Parancsnok-szigeteken egy rozsdás, elhagyatott szovjet korabeli gép, amely a távoli tengerparton pihen.",
+                  "category": "landmark",
+                  "coords": [
+                        166.102817,
+                        55.041235
+                  ]
+            },
+            {
+                  "name": "Pogibshaia tsisterna",
+                  "text": "Ez a Parancsnok-szigeteki látványosság egy romos, elhagyatott ciszterna.",
+                  "category": "landmark",
+                  "coords": [
+                        166.072896,
+                        55.076075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pogibshii ekskavator",
+                  "text": "Cunoscută sub numele de „Excavatorul Mort”, această atracție neobișnuită din Insulele Comandor este o mașinărie ruginită, abandonată din perioada sovietică, ce se odihnește pe coasta îndepărtată.",
+                  "category": "landmark",
+                  "coords": [
+                        166.102817,
+                        55.041235
+                  ]
+            },
+            {
+                  "name": "Pogibshaia tsisterna",
+                  "text": "Această atracție din Insulele Comandorului constă dintr-o cisternă ruinată și abandonată.",
+                  "category": "landmark",
+                  "coords": [
+                        166.072896,
+                        55.076075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pogibshii ekskavator",
+                  "text": "Known as the \"Dead Excavator,\" this unusual attraction in the Commander Islands is a rusted, abandoned machine from the Soviet era resting on the remote coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        166.102817,
+                        55.041235
+                  ]
+            },
+            {
+                  "name": "Pogibshaia tsisterna",
+                  "text": "This attraction on the Commander Islands consists of a ruined, abandoned cistern.",
+                  "category": "landmark",
+                  "coords": [
+                        166.072896,
+                        55.076075
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Kommandeurinseln-Reservat", hu: "Parancsnok-szigetek Természetvédelmi Terület", ro: "Rezervația Insulele Comandante", en: "Commander Islands Nature Reserve"},
@@ -1406,7 +2846,772 @@ imageHint: "Siberian ibex on mountain cliff",
     }
   },
   {
-    id: "russia-kuril-reserve-life-v2",
+    id: "russia-kuril-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Medvezhii pliazh",
+                  "text": "Ein abgelegener Strand auf der Insel Kunaschir, an dem häufig Braunbären in der Wildnis beobachtet werden können.",
+                  "category": "landmark",
+                  "coords": [
+                        145.747362,
+                        44.061965
+                  ]
+            },
+            {
+                  "name": "Kekur <<Chiortov palets>>",
+                  "text": "Eine markante, fingerförmige Felsnadel, die vor der Küste der Kurilen dramatisch aus dem Meer ragt.",
+                  "category": "landmark",
+                  "coords": [
+                        145.874775,
+                        44.071007
+                  ]
+            },
+            {
+                  "name": "Diuna",
+                  "text": "Ein Küstengebiet mit Sanddünen und seltener Flora auf der pazifischen Seite der Insel Kunaschir.",
+                  "category": "landmark",
+                  "coords": [
+                        145.863064,
+                        44.057106
+                  ]
+            },
+            {
+                  "name": "Maiak Iuzhno-Kuril'skii (nedeistv.)",
+                  "text": "Ein markanter Leuchtturm, der einst den Schiffen den Weg in den Hafen von Juzhno-Kurilsk wies.",
+                  "category": "landmark",
+                  "coords": [
+                        145.876431,
+                        44.020886
+                  ]
+            },
+            {
+                  "name": "Iuzhno-Kuril'skii kraevedcheskii muzei im. F.I. Pyzh'ianova",
+                  "text": "Das Museum zeigt Exponate zur Naturkunde, Geologie und ethnografischen Geschichte der Kurilen-Inseln.",
+                  "category": "museum",
+                  "coords": [
+                        145.858233,
+                        44.028905
+                  ]
+            },
+            {
+                  "name": "9-i km- nachalo marshruta na istochnik Rosinka, na Verkhne-doktorskie istochniki, na vodopady( porogi) Kislogo ruch'ia",
+                  "text": "Dieser Wegpunkt markiert den Startpunkt für Wanderungen zu den Rosinka-Mineralquellen und nahen Wasserfällen.",
+                  "category": "landmark",
+                  "coords": [
+                        145.769986,
+                        44.014009
+                  ]
+            },
+            {
+                  "name": "proizrastanie gruppy Tisov",
+                  "text": "Ein geschütztes Gebiet innerhalb des Reservats, das für seine Bestände an uralten Eiben bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        145.773201,
+                        44.009894
+                  ]
+            },
+            {
+                  "name": "Proizrastanie Kedrovogo stlannika( sosny steliashchaiasia)",
+                  "text": "Ein ökologisch wertvolles Gebiet, das von dichten Beständen der sibirischen Zwergkiefer geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        145.773329,
+                        44.008386
+                  ]
+            },
+            {
+                  "name": "Tisovaia roshcha",
+                  "text": "Ein schattiger Hain mit jahrhundertealten Eiben, der Teil des botanischen Erbes von Kunaschir ist.",
+                  "category": "landmark",
+                  "coords": [
+                        145.772806,
+                        44.001598
+                  ]
+            },
+            {
+                  "name": "Vid na par GeoTES",
+                  "text": "Ein Aussichtspunkt, von dem aus die aufsteigenden Dampfsäulen des geothermischen Kraftwerks Mendelejew sichtbar sind.",
+                  "category": "natural",
+                  "coords": [
+                        145.772487,
+                        43.995424
+                  ]
+            },
+            {
+                  "name": "Severo-zapadnoe sul'fatarnoe pole",
+                  "text": "Ein aktives Thermalgebiet am Vulkan Mendelejew mit heißen Schwefelquellen und zischenden Fumarolen.",
+                  "category": "landmark",
+                  "coords": [
+                        145.728947,
+                        43.987397
+                  ]
+            },
+            {
+                  "name": "Iuzhno-Kuril'skii reliktovyi les",
+                  "text": "Ein seit 1980 geschützter Reliktwald mit seltenen Laubbaumarten, die für das milde Inselklima typisch sind.",
+                  "category": "natural",
+                  "coords": [
+                        145.69481,
+                        44.002083
+                  ]
+            },
+            {
+                  "name": "termal'nye istochniki Stolbovskie",
+                  "text": "Diese natürlichen Thermalquellen liegen am Ende eines Waldpfads direkt an der Meeresküste.",
+                  "category": "landmark",
+                  "coords": [
+                        145.683032,
+                        44.007171
+                  ]
+            },
+            {
+                  "name": "Lagunooziornyi reliktovyi les",
+                  "text": "Ein historischer Waldbestand nahe dem Lagunnoje-See, der bereits 1980 unter Naturschutz gestellt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        145.766957,
+                        44.046269
+                  ]
+            },
+            {
+                  "name": "Kunashirskii kustarnikovyi reliktovyi les",
+                  "text": "Ein spezielles Naturschutzgebiet, das seit 1980 seltene Strauch- und Gebüschgesellschaften der Kurilen bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        145.746998,
+                        44.032075
+                  ]
+            },
+            {
+                  "name": "Vulkan Mendeleeva",
+                  "text": "Dieses Reservat schützt die vulkanischen Landschaften und geothermischen Phänomene rund um den Vulkan Mendelejew.",
+                  "category": "natural",
+                  "coords": [
+                        145.741433,
+                        43.987572
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Zhivonachal'noi Troitsy",
+                  "text": "Eine orthodoxe Kirche in Juzhno-Kurilsk mit charakteristischen hölzernen Zwiebeltürmen im traditionellen Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        145.864763,
+                        44.027071
+                  ]
+            },
+            {
+                  "name": "Tserkov' Vsekh Sviatykh, v zemle Rossiiskoi prosiiavshikh",
+                  "text": "Diese christliche Kirche ist allen Heiligen Russlands gewidmet und bildet ein geistliches Zentrum der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        145.8534,
+                        44.03104
+                  ]
+            },
+            {
+                  "name": "Chasovnia Innokentiia, mitropolita Moskovskogo",
+                  "text": "Eine kleine orthodoxe Kapelle, die dem Heiligen Innozenz von Moskau gewidmet ist und Ruhe zur Einkehr bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        145.825905,
+                        44.029212
+                  ]
+            },
+            {
+                  "name": "Griazevaia vanna, razdevalka, stolik.",
+                  "text": "Eine einfache geothermische Anlage mit Schlammbädern, die für ihre entspannenden Mineralstoffe genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        145.77359,
+                        43.999807
+                  ]
+            },
+            {
+                  "name": "Rosinka",
+                  "text": "Abgelegene heiße Quelle inmitten der vulkanischen Landschaft des Kurilen-Reservats.",
+                  "category": "natural",
+                  "coords": [
+                        145.767966,
+                        43.999368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Medvezhii pliazh",
+                  "text": "Egy távoli strand Kunasir szigetén, ahol gyakran láthatók barna medvék a vadonban.",
+                  "category": "landmark",
+                  "coords": [
+                        145.747362,
+                        44.061965
+                  ]
+            },
+            {
+                  "name": "Kekur <<Chiortov palets>>",
+                  "text": "Egy jellegzetes ujj alakú sziklatű, amely drámaian emelkedik ki a tengerből a Kuril-szigetek partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        145.874775,
+                        44.071007
+                  ]
+            },
+            {
+                  "name": "Diuna",
+                  "text": "Homokdűnékkel és ritka flórával borított tengerparti terület Kunasir szigetének csendes-óceáni oldalán.",
+                  "category": "landmark",
+                  "coords": [
+                        145.863064,
+                        44.057106
+                  ]
+            },
+            {
+                  "name": "Maiak Iuzhno-Kuril'skii (nedeistv.)",
+                  "text": "Egy jellegzetes világítótorony, amely egykor a hajókat vezette be Juzsno-Kurilszk kikötőjébe.",
+                  "category": "landmark",
+                  "coords": [
+                        145.876431,
+                        44.020886
+                  ]
+            },
+            {
+                  "name": "Iuzhno-Kuril'skii kraevedcheskii muzei im. F.I. Pyzh'ianova",
+                  "text": "A múzeum a Kuril-szigetek természettudományi, geológiai és néprajzi történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        145.858233,
+                        44.028905
+                  ]
+            },
+            {
+                  "name": "9-i km- nachalo marshruta na istochnik Rosinka, na Verkhne-doktorskie istochniki, na vodopady( porogi) Kislogo ruch'ia",
+                  "text": "Ez az útjelző a Rosinka-ásványforrásokhoz és a közeli vízesésekhez vezető túrák kiindulópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        145.769986,
+                        44.014009
+                  ]
+            },
+            {
+                  "name": "proizrastanie gruppy Tisov",
+                  "text": "A rezervátum egyik védett területe, amely ősi tiszafáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        145.773201,
+                        44.009894
+                  ]
+            },
+            {
+                  "name": "Proizrastanie Kedrovogo stlannika( sosny steliashchaiasia)",
+                  "text": "Ökológiailag értékes terület, amelyet a szibériai törpefenyő sűrű állományai jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        145.773329,
+                        44.008386
+                  ]
+            },
+            {
+                  "name": "Tisovaia roshcha",
+                  "text": "Évszázados tiszafákból álló árnyas liget, amely Kunasir botanikai örökségének része.",
+                  "category": "landmark",
+                  "coords": [
+                        145.772806,
+                        44.001598
+                  ]
+            },
+            {
+                  "name": "Vid na par GeoTES",
+                  "text": "Kilátóhely, ahonnan láthatók a Mengyelejev geotermikus erőmű felszálló gőzoszlopai.",
+                  "category": "natural",
+                  "coords": [
+                        145.772487,
+                        43.995424
+                  ]
+            },
+            {
+                  "name": "Severo-zapadnoe sul'fatarnoe pole",
+                  "text": "Aktív termálterület a Mengyelejev-vulkánnál, forró kénes forrásokkal és sziszegő fumarolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        145.728947,
+                        43.987397
+                  ]
+            },
+            {
+                  "name": "Iuzhno-Kuril'skii reliktovyi les",
+                  "text": "Egy 1980 óta védett reliktum erdő ritka lombhullató fafajokkal, amelyek a sziget enyhe éghajlatára jellemzőek.",
+                  "category": "natural",
+                  "coords": [
+                        145.69481,
+                        44.002083
+                  ]
+            },
+            {
+                  "name": "termal'nye istochniki Stolbovskie",
+                  "text": "Ezek a természetes termálforrások egy erdei ösvény végén, közvetlenül a tengerparton találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        145.683032,
+                        44.007171
+                  ]
+            },
+            {
+                  "name": "Lagunooziornyi reliktovyi les",
+                  "text": "A Lagunnoje-tó melletti történelmi erdőállomány, amelyet már 1980-ban természetvédelmi területté nyilvánítottak.",
+                  "category": "natural",
+                  "coords": [
+                        145.766957,
+                        44.046269
+                  ]
+            },
+            {
+                  "name": "Kunashirskii kustarnikovyi reliktovyi les",
+                  "text": "Egy különleges természetvédelmi terület, amely 1980 óta őrzi a Kuril-szigetek ritka cserjéseit.",
+                  "category": "natural",
+                  "coords": [
+                        145.746998,
+                        44.032075
+                  ]
+            },
+            {
+                  "name": "Vulkan Mendeleeva",
+                  "text": "Ez a rezervátum a Mengyelejev-vulkán körüli vulkáni tájakat és geotermikus jelenségeket védi.",
+                  "category": "natural",
+                  "coords": [
+                        145.741433,
+                        43.987572
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Zhivonachal'noi Troitsy",
+                  "text": "Egy ortodox templom Juzsno-Kurilszkban, jellegzetes fából készült hagymakupolákkal, hagyományos stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        145.864763,
+                        44.027071
+                  ]
+            },
+            {
+                  "name": "Tserkov' Vsekh Sviatykh, v zemle Rossiiskoi prosiiavshikh",
+                  "text": "Ez a keresztény templom Oroszország összes szentjének van szentelve, és a sziget egyik lelki központja.",
+                  "category": "landmark",
+                  "coords": [
+                        145.8534,
+                        44.03104
+                  ]
+            },
+            {
+                  "name": "Chasovnia Innokentiia, mitropolita Moskovskogo",
+                  "text": "Egy kis ortodox kápolna Moszkvai Szent Ince tiszteletére, amely csendes helyet kínál az elmélyüléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        145.825905,
+                        44.029212
+                  ]
+            },
+            {
+                  "name": "Griazevaia vanna, razdevalka, stolik.",
+                  "text": "Egy egyszerű geotermikus létesítmény iszapfürdőkkel, amelyet pihentető ásványi anyagai miatt látogatnak.",
+                  "category": "natural",
+                  "coords": [
+                        145.77359,
+                        43.999807
+                  ]
+            },
+            {
+                  "name": "Rosinka",
+                  "text": "Távoli hévízforrás a Kuril-szigeteki Természetvédelmi Terület vulkáni környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        145.767966,
+                        43.999368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Medvezhii pliazh",
+                  "text": "O plajă izolată de pe insula Kunașir, unde urșii bruni pot fi observați frecvent în sălbăticie.",
+                  "category": "landmark",
+                  "coords": [
+                        145.747362,
+                        44.061965
+                  ]
+            },
+            {
+                  "name": "Kekur <<Chiortov palets>>",
+                  "text": "O coloană stâncoasă distinctivă în formă de deget care se ridică dramatic din mare lângă coasta Kurilelor.",
+                  "category": "landmark",
+                  "coords": [
+                        145.874775,
+                        44.071007
+                  ]
+            },
+            {
+                  "name": "Diuna",
+                  "text": "O zonă de coastă cu dune de nisip și floră rară pe partea pacifică a insulei Kunașir.",
+                  "category": "landmark",
+                  "coords": [
+                        145.863064,
+                        44.057106
+                  ]
+            },
+            {
+                  "name": "Maiak Iuzhno-Kuril'skii (nedeistv.)",
+                  "text": "Un far distinctiv care a ghidat cândva navele în portul Iujno-Kurilsk.",
+                  "category": "landmark",
+                  "coords": [
+                        145.876431,
+                        44.020886
+                  ]
+            },
+            {
+                  "name": "Iuzhno-Kuril'skii kraevedcheskii muzei im. F.I. Pyzh'ianova",
+                  "text": "Muzeul prezintă exponate despre istoria naturală, geologia și istoria etnografică a insulelor Kurile.",
+                  "category": "museum",
+                  "coords": [
+                        145.858233,
+                        44.028905
+                  ]
+            },
+            {
+                  "name": "9-i km- nachalo marshruta na istochnik Rosinka, na Verkhne-doktorskie istochniki, na vodopady( porogi) Kislogo ruch'ia",
+                  "text": "Acest punct de pe traseu marchează începutul drumețiilor către izvoarele minerale Rosinka și cascadele din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        145.769986,
+                        44.014009
+                  ]
+            },
+            {
+                  "name": "proizrastanie gruppy Tisov",
+                  "text": "O zonă protejată din cadrul rezervației, cunoscută pentru exemplarele sale de tisa străvechi.",
+                  "category": "landmark",
+                  "coords": [
+                        145.773201,
+                        44.009894
+                  ]
+            },
+            {
+                  "name": "Proizrastanie Kedrovogo stlannika( sosny steliashchaiasia)",
+                  "text": "O zonă de valoare ecologică caracterizată prin tufe dese de pin pitic siberian.",
+                  "category": "landmark",
+                  "coords": [
+                        145.773329,
+                        44.008386
+                  ]
+            },
+            {
+                  "name": "Tisovaia roshcha",
+                  "text": "O dumbravă umbrită cu tisa veche de secole, care face parte din moștenirea botanică a insulei Kunașir.",
+                  "category": "landmark",
+                  "coords": [
+                        145.772806,
+                        44.001598
+                  ]
+            },
+            {
+                  "name": "Vid na par GeoTES",
+                  "text": "Un punct de observație de unde sunt vizibile coloanele de abur ale centralei geotermale Mendeleev.",
+                  "category": "natural",
+                  "coords": [
+                        145.772487,
+                        43.995424
+                  ]
+            },
+            {
+                  "name": "Severo-zapadnoe sul'fatarnoe pole",
+                  "text": "O zonă termală activă de la vulcanul Mendeleev, cu izvoare sulfuroase fierbinți și fumarole sibilante.",
+                  "category": "landmark",
+                  "coords": [
+                        145.728947,
+                        43.987397
+                  ]
+            },
+            {
+                  "name": "Iuzhno-Kuril'skii reliktovyi les",
+                  "text": "O pădure relictă protejată din 1980, cu specii rare de foioase tipice pentru climatul blând al insulei.",
+                  "category": "natural",
+                  "coords": [
+                        145.69481,
+                        44.002083
+                  ]
+            },
+            {
+                  "name": "termal'nye istochniki Stolbovskie",
+                  "text": "Aceste izvoare termale naturale sunt situate la capătul unei poteci prin pădure, chiar pe malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        145.683032,
+                        44.007171
+                  ]
+            },
+            {
+                  "name": "Lagunooziornyi reliktovyi les",
+                  "text": "O pădure istorică de lângă lacul Lagunnoe, declarată rezervație naturală încă din 1980.",
+                  "category": "natural",
+                  "coords": [
+                        145.766957,
+                        44.046269
+                  ]
+            },
+            {
+                  "name": "Kunashirskii kustarnikovyi reliktovyi les",
+                  "text": "O rezervație naturală specială care, din 1980, conservă comunități rare de arbuști din insulele Kurile.",
+                  "category": "natural",
+                  "coords": [
+                        145.746998,
+                        44.032075
+                  ]
+            },
+            {
+                  "name": "Vulkan Mendeleeva",
+                  "text": "Această rezervație protejează peisajele vulcanice și fenomenele geotermale din jurul vulcanului Mendeleev.",
+                  "category": "natural",
+                  "coords": [
+                        145.741433,
+                        43.987572
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Zhivonachal'noi Troitsy",
+                  "text": "O biserică ortodoxă din Iujno-Kurilsk cu cupole din lemn caracteristice, în stil tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        145.864763,
+                        44.027071
+                  ]
+            },
+            {
+                  "name": "Tserkov' Vsekh Sviatykh, v zemle Rossiiskoi prosiiavshikh",
+                  "text": "Această biserică creștină este dedicată tuturor sfinților Rusiei și constituie un centru spiritual al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        145.8534,
+                        44.03104
+                  ]
+            },
+            {
+                  "name": "Chasovnia Innokentiia, mitropolita Moskovskogo",
+                  "text": "O mică capelă ortodoxă dedicată Sfântului Inocențiu de Moscova, oferind un loc liniștit pentru reculegere.",
+                  "category": "landmark",
+                  "coords": [
+                        145.825905,
+                        44.029212
+                  ]
+            },
+            {
+                  "name": "Griazevaia vanna, razdevalka, stolik.",
+                  "text": "O facilitate geotermală simplă cu băi de nămol, utilizată pentru mineralele sale relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        145.77359,
+                        43.999807
+                  ]
+            },
+            {
+                  "name": "Rosinka",
+                  "text": "Izvor fierbinte izolat în peisajul vulcanic al Rezervației Kurile.",
+                  "category": "natural",
+                  "coords": [
+                        145.767966,
+                        43.999368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bear’s beach",
+                  "text": "A remote beach on Kunashir Island where brown bears can often be spotted in the wild.",
+                  "category": "landmark",
+                  "coords": [
+                        145.747362,
+                        44.061965
+                  ]
+            },
+            {
+                  "name": "Kekur <<Chiortov palets>>",
+                  "text": "A distinctive finger-shaped sea stack rising dramatically from the sea off the Kuril coast.",
+                  "category": "landmark",
+                  "coords": [
+                        145.874775,
+                        44.071007
+                  ]
+            },
+            {
+                  "name": "Diuna",
+                  "text": "A coastal area featuring sand dunes and rare flora on the Pacific side of Kunashir Island.",
+                  "category": "landmark",
+                  "coords": [
+                        145.863064,
+                        44.057106
+                  ]
+            },
+            {
+                  "name": "Maiak Iuzhno-Kuril'skii (nedeistv.)",
+                  "text": "A distinctive lighthouse that once guided ships into the Yuzhno-Kurilsk harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        145.876431,
+                        44.020886
+                  ]
+            },
+            {
+                  "name": "Iuzhno-Kuril'skii kraevedcheskii muzei im. F.I. Pyzh'ianova",
+                  "text": "The museum showcases exhibits on the natural history, geology, and ethnographic history of the Kuril Islands.",
+                  "category": "museum",
+                  "coords": [
+                        145.858233,
+                        44.028905
+                  ]
+            },
+            {
+                  "name": "9-i km- nachalo marshruta na istochnik Rosinka, na Verkhne-doktorskie istochniki, na vodopady( porogi) Kislogo ruch'ia",
+                  "text": "This waypoint marks the starting point for hikes to the Rosinka mineral springs and nearby waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        145.769986,
+                        44.014009
+                  ]
+            },
+            {
+                  "name": "proizrastanie gruppy Tisov",
+                  "text": "A protected area within the reserve known for its stands of ancient yew trees.",
+                  "category": "landmark",
+                  "coords": [
+                        145.773201,
+                        44.009894
+                  ]
+            },
+            {
+                  "name": "Proizrastanie Kedrovogo stlannika( sosny steliashchaiasia)",
+                  "text": "An ecologically valuable area characterized by dense thickets of Siberian dwarf pine.",
+                  "category": "landmark",
+                  "coords": [
+                        145.773329,
+                        44.008386
+                  ]
+            },
+            {
+                  "name": "Tisovaia roshcha",
+                  "text": "A shaded grove of centuries-old yew trees that is part of Kunashir's botanical heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        145.772806,
+                        44.001598
+                  ]
+            },
+            {
+                  "name": "Vid na par GeoTES",
+                  "text": "A viewpoint from which the rising steam plumes of the Mendeleyev geothermal power plant are visible.",
+                  "category": "natural",
+                  "coords": [
+                        145.772487,
+                        43.995424
+                  ]
+            },
+            {
+                  "name": "Severo-zapadnoe sul'fatarnoe pole",
+                  "text": "An active thermal area at Mendeleyev Volcano with hot sulfur springs and hissing fumaroles.",
+                  "category": "landmark",
+                  "coords": [
+                        145.728947,
+                        43.987397
+                  ]
+            },
+            {
+                  "name": "Iuzhno-Kuril'skii reliktovyi les",
+                  "text": "A relict forest protected since 1980, featuring rare deciduous tree species typical of the island's mild climate.",
+                  "category": "natural",
+                  "coords": [
+                        145.69481,
+                        44.002083
+                  ]
+            },
+            {
+                  "name": "termal'nye istochniki Stolbovskie",
+                  "text": "These natural thermal springs are located at the end of a forest path right on the sea coast.",
+                  "category": "landmark",
+                  "coords": [
+                        145.683032,
+                        44.007171
+                  ]
+            },
+            {
+                  "name": "Lagunooziornyi reliktovyi les",
+                  "text": "A historic forest stand near Lagoon Lake that was designated a nature reserve back in 1980.",
+                  "category": "natural",
+                  "coords": [
+                        145.766957,
+                        44.046269
+                  ]
+            },
+            {
+                  "name": "Kunashirskii kustarnikovyi reliktovyi les",
+                  "text": "A special nature reserve that has preserved rare shrub communities of the Kuril Islands since 1980.",
+                  "category": "natural",
+                  "coords": [
+                        145.746998,
+                        44.032075
+                  ]
+            },
+            {
+                  "name": "Vulkan Mendeleeva",
+                  "text": "This reserve protects the volcanic landscapes and geothermal phenomena around the Mendeleyev Volcano.",
+                  "category": "natural",
+                  "coords": [
+                        145.741433,
+                        43.987572
+                  ]
+            },
+            {
+                  "name": "Khram Sviatoi Zhivonachal'noi Troitsy",
+                  "text": "An Orthodox church in Yuzhno-Kurilsk featuring characteristic wooden onion domes in traditional style.",
+                  "category": "landmark",
+                  "coords": [
+                        145.864763,
+                        44.027071
+                  ]
+            },
+            {
+                  "name": "Tserkov' Vsekh Sviatykh, v zemle Rossiiskoi prosiiavshikh",
+                  "text": "This Christian church is dedicated to all the saints of Russia and forms a spiritual center on the island.",
+                  "category": "landmark",
+                  "coords": [
+                        145.8534,
+                        44.03104
+                  ]
+            },
+            {
+                  "name": "Chasovnia Innokentiia, mitropolita Moskovskogo",
+                  "text": "A small Orthodox chapel dedicated to Saint Innocent of Moscow, offering a quiet place for reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        145.825905,
+                        44.029212
+                  ]
+            },
+            {
+                  "name": "Griazevaia vanna, razdevalka, stolik.",
+                  "text": "A simple geothermal facility featuring mud baths, used for its relaxing mineral properties.",
+                  "category": "natural",
+                  "coords": [
+                        145.77359,
+                        43.999807
+                  ]
+            },
+            {
+                  "name": "Rosinka",
+                  "text": "Remote hot spring located within the volcanic landscape of the Kuril Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        145.767966,
+                        43.999368
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Kurilen-Naturreservat", hu: "Kuril-szigeteki Természetvédelmi Terület", ro: "Rezervația Naturală Kurile", en: "Kuril Nature Reserve"},
@@ -1452,7 +3657,376 @@ imageHint: "Siberian ibex on mountain cliff",
     }
   },
   {
-    id: "russia-teberda-reserve-life-v2",
+    id: "russia-teberda-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ostatki zagona?",
+                  "text": "Aussichtspunkt auf die Überreste eines alten Viehpferchs in den alpinen Matten des Reservats.",
+                  "category": "natural",
+                  "coords": [
+                        41.782192,
+                        43.400512
+                  ]
+            },
+            {
+                  "name": "Vid na vodopad Shumka",
+                  "text": "Bietet eine Aussicht auf den Shumka-Wasserfall, der durch den dichten Bergwald stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        41.731365,
+                        43.405634
+                  ]
+            },
+            {
+                  "name": "Oblomki",
+                  "text": "Ein Aussichtspunkt über verstreute Gesteinstrümmer in den Hochlagen von Teberda.",
+                  "category": "natural",
+                  "coords": [
+                        41.760212,
+                        43.355241
+                  ]
+            },
+            {
+                  "name": "Bratskaia mogila stroitelei dorogi",
+                  "text": "Eine feierliche Gedenkstätte für die in diesem Massengrab im Reservat Bestatteten.",
+                  "category": "historical",
+                  "coords": [
+                        41.715089,
+                        43.312616
+                  ]
+            },
+            {
+                  "name": "Sliianie r.Amanauz i Gonachkhir",
+                  "text": "Blick auf den malerischen Zusammenfluss der Flüsse Amanaus und Gonatschchir im Bergtal.",
+                  "category": "natural",
+                  "coords": [
+                        41.666488,
+                        43.336053
+                  ]
+            },
+            {
+                  "name": "Vid na badukskoe ozero",
+                  "text": "Panorama-Aussicht auf den türkisfarbenen Baduk-Bergsee, der von hohen Gipfeln umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        41.657458,
+                        43.377838
+                  ]
+            },
+            {
+                  "name": "Zashchitnikam perevalov Kavkaza",
+                  "text": "Ein Steindenkmal für die Soldaten, die die strategischen Kaukasus-Pässe verteidigten.",
+                  "category": "historical",
+                  "coords": [
+                        41.66136,
+                        43.377617
+                  ]
+            },
+            {
+                  "name": "Atsenguary?",
+                  "text": "Aussichtspunkt auf die Atsenguaren, antike steinerne Hirtenhütten in den Hochweiden.",
+                  "category": "natural",
+                  "coords": [
+                        41.613829,
+                        43.370545
+                  ]
+            },
+            {
+                  "name": "Ofigennyi vid sverkhu na ozero",
+                  "text": "Ein hochgelegener Aussichtspunkt mit beeindruckendem Blick auf einen tiefblauen Bergsee.",
+                  "category": "natural",
+                  "coords": [
+                        41.648067,
+                        43.417232
+                  ]
+            },
+            {
+                  "name": "Bania turbazy <<Mukhu>>",
+                  "text": "Eine traditionelle Berganlage an der Mukhu-Basis, ideal zur Entspannung nach einer Wanderung.",
+                  "category": "recreational",
+                  "coords": [
+                        41.686839,
+                        43.475563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ostatki zagona?",
+                  "text": "Kilátópont egy régi kőkarám maradványaira a rezervátum alpesi legelőin.",
+                  "category": "natural",
+                  "coords": [
+                        41.782192,
+                        43.400512
+                  ]
+            },
+            {
+                  "name": "Vid na vodopad Shumka",
+                  "text": "Kilátás a sűrű hegyi erdőn keresztül lezúduló Sumka-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        41.731365,
+                        43.405634
+                  ]
+            },
+            {
+                  "name": "Oblomki",
+                  "text": "Kilátópont a teberdai magashegységben szétszóródott kőtörmelékekre.",
+                  "category": "natural",
+                  "coords": [
+                        41.760212,
+                        43.355241
+                  ]
+            },
+            {
+                  "name": "Bratskaia mogila stroitelei dorogi",
+                  "text": "Ünnepélyes emlékhely a rezervátum területén található közös sírban nyugvók tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        41.715089,
+                        43.312616
+                  ]
+            },
+            {
+                  "name": "Sliianie r.Amanauz i Gonachkhir",
+                  "text": "Kilátás az Amanauz és a Gonacshir folyók festői összefolyására a hegyi völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        41.666488,
+                        43.336053
+                  ]
+            },
+            {
+                  "name": "Vid na badukskoe ozero",
+                  "text": "Panorámás kilátás a magas csúcsok által körbeölelt türkizkék Baduk-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        41.657458,
+                        43.377838
+                  ]
+            },
+            {
+                  "name": "Zashchitnikam perevalov Kavkaza",
+                  "text": "Kőemlékmű a stratégiai fontosságú kaukázusi hágókat védelmező katonák emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        41.66136,
+                        43.377617
+                  ]
+            },
+            {
+                  "name": "Atsenguary?",
+                  "text": "Kilátás az acenguárokra, azaz az alpesi legelőkön található ősi kő pásztorkunyhókra.",
+                  "category": "natural",
+                  "coords": [
+                        41.613829,
+                        43.370545
+                  ]
+            },
+            {
+                  "name": "Ofigennyi vid sverkhu na ozero",
+                  "text": "Magaslati kilátóhely, ahonnan lenyűgöző kilátás nyílik a mélykék hegyi tóra.",
+                  "category": "natural",
+                  "coords": [
+                        41.648067,
+                        43.417232
+                  ]
+            },
+            {
+                  "name": "Bania turbazy <<Mukhu>>",
+                  "text": "Hagyományos hegyi szauna a Muhu turistabázison, ideális pihenésre túrázás után.",
+                  "category": "recreational",
+                  "coords": [
+                        41.686839,
+                        43.475563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ostatki zagona?",
+                  "text": "Punct de observație asupra resturilor unui vechi țarc de piatră din pășunile alpine ale rezervației.",
+                  "category": "natural",
+                  "coords": [
+                        41.782192,
+                        43.400512
+                  ]
+            },
+            {
+                  "name": "Vid na vodopad Shumka",
+                  "text": "Oferă o vedere spre cascada Șumka, care curge prin pădurea deasă de munte.",
+                  "category": "natural",
+                  "coords": [
+                        41.731365,
+                        43.405634
+                  ]
+            },
+            {
+                  "name": "Oblomki",
+                  "text": "Un punct de observație asupra dărâmăturilor de stâncă împrăștiate în zonele înalte din Teberda.",
+                  "category": "natural",
+                  "coords": [
+                        41.760212,
+                        43.355241
+                  ]
+            },
+            {
+                  "name": "Bratskaia mogila stroitelei dorogi",
+                  "text": "Un loc de comemorare solemn pentru cei îngropați în această groapă comună din rezervație.",
+                  "category": "historical",
+                  "coords": [
+                        41.715089,
+                        43.312616
+                  ]
+            },
+            {
+                  "name": "Sliianie r.Amanauz i Gonachkhir",
+                  "text": "Vedere spre confluența pitorească a râurilor Amanauz și Gonacichir în valea montană.",
+                  "category": "natural",
+                  "coords": [
+                        41.666488,
+                        43.336053
+                  ]
+            },
+            {
+                  "name": "Vid na badukskoe ozero",
+                  "text": "Vedere panoramică asupra lacului montan turcoaz Baduk, înconjurat de vârfuri înalte.",
+                  "category": "natural",
+                  "coords": [
+                        41.657458,
+                        43.377838
+                  ]
+            },
+            {
+                  "name": "Zashchitnikam perevalov Kavkaza",
+                  "text": "Un monument de piatră dedicat soldaților care au apărat trecătorile strategice din Caucaz.",
+                  "category": "historical",
+                  "coords": [
+                        41.66136,
+                        43.377617
+                  ]
+            },
+            {
+                  "name": "Atsenguary?",
+                  "text": "Vedere spre ațenguari, vechi colibe de piatră ale păstorilor din pășunile înalte.",
+                  "category": "natural",
+                  "coords": [
+                        41.613829,
+                        43.370545
+                  ]
+            },
+            {
+                  "name": "Ofigennyi vid sverkhu na ozero",
+                  "text": "Un punct de observație la mare altitudine, cu o perspectivă uimitoare asupra unui lac montan albastru.",
+                  "category": "natural",
+                  "coords": [
+                        41.648067,
+                        43.417232
+                  ]
+            },
+            {
+                  "name": "Bania turbazy <<Mukhu>>",
+                  "text": "O saună montană tradițională situată la baza Muhu, ideală pentru relaxare după o drumeție.",
+                  "category": "recreational",
+                  "coords": [
+                        41.686839,
+                        43.475563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ostatki zagona?",
+                  "text": "Viewpoint overlooking the ruins of an ancient stone corral in the alpine meadows of the reserve.",
+                  "category": "natural",
+                  "coords": [
+                        41.782192,
+                        43.400512
+                  ]
+            },
+            {
+                  "name": "Vid na vodopad Shumka",
+                  "text": "Offers a view of the Shumka waterfall cascading through the dense mountain forest.",
+                  "category": "natural",
+                  "coords": [
+                        41.731365,
+                        43.405634
+                  ]
+            },
+            {
+                  "name": "Oblomki",
+                  "text": "A viewpoint overlooking scattered rock debris in the Teberda highlands.",
+                  "category": "natural",
+                  "coords": [
+                        41.760212,
+                        43.355241
+                  ]
+            },
+            {
+                  "name": "Communal grave",
+                  "text": "A solemn memorial site honoring those buried in this communal grave within the reserve.",
+                  "category": "historical",
+                  "coords": [
+                        41.715089,
+                        43.312616
+                  ]
+            },
+            {
+                  "name": "Sliianie r.Amanauz i Gonachkhir",
+                  "text": "Overlooks the scenic confluence where the Amanauz and Gonachkhir rivers meet in the mountain valley.",
+                  "category": "natural",
+                  "coords": [
+                        41.666488,
+                        43.336053
+                  ]
+            },
+            {
+                  "name": "Vid na badukskoe ozero",
+                  "text": "Provides a panoramic view of the turquoise Baduk mountain lake surrounded by high peaks.",
+                  "category": "natural",
+                  "coords": [
+                        41.657458,
+                        43.377838
+                  ]
+            },
+            {
+                  "name": "Zashchitnikam perevalov Kavkaza",
+                  "text": "A stone monument dedicated to the soldiers who defended the strategic Caucasus mountain passes.",
+                  "category": "historical",
+                  "coords": [
+                        41.66136,
+                        43.377617
+                  ]
+            },
+            {
+                  "name": "Atsenguary?",
+                  "text": "Viewpoint of the Atsenguary, ancient stone shepherd structures in the high pastures.",
+                  "category": "natural",
+                  "coords": [
+                        41.613829,
+                        43.370545
+                  ]
+            },
+            {
+                  "name": "Ofigennyi vid sverkhu na ozero",
+                  "text": "A high-altitude lookout point with a stunning perspective over a deep blue mountain lake.",
+                  "category": "natural",
+                  "coords": [
+                        41.648067,
+                        43.417232
+                  ]
+            },
+            {
+                  "name": "Bania turbazy <<Mukhu>>",
+                  "text": "A traditional mountain sauna at the Mukhu base, ideal for relaxation after a hike.",
+                  "category": "recreational",
+                  "coords": [
+                        41.686839,
+                        43.475563
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Teberda-Biosphärenreservat", hu: "Teberda Bioszféra-rezervátum", ro: "Rezervația Biosferei Teberda", en: "Teberda Biosphere Reserve"},
@@ -1727,7 +4301,952 @@ imageHint: "Moose farm in Komi forest",
     },
     image: "/poi-images/russia-pechora-ilych-life-v2.webp",
 },  {
-    id: "russia-novosibirsk-zoo-life-v2",
+    id: "russia-novosibirsk-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Novosibirsk - gorod trudovoi doblesti",
+                  "text": "Diese 31 Meter hohe Stele wurde 2022 eingeweiht, um den Beitrag der Stadt zur Industrie während des Zweiten Weltkriegs zu ehren.",
+                  "category": "historical",
+                  "coords": [
+                        82.912516,
+                        55.05943
+                  ]
+            },
+            {
+                  "name": "Dvorets kul'tury Sibtekstil'mash",
+                  "text": "Dieses große Kulturzentrum aus der Sowjetzeit dient als Veranstaltungsort für Theateraufführungen und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        82.81365,
+                        54.987175
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva \"Romantika\"",
+                  "text": "Dieses 1988 gegründete Zentrum für Kinderkreativität bietet verschiedene Kunstkurse und Workshops für Jugendliche an.",
+                  "category": "cultural",
+                  "coords": [
+                        82.968491,
+                        55.111564
+                  ]
+            },
+            {
+                  "name": "TsDT \"Sodruzhestvo\", SP \"Eleron\"",
+                  "text": "Dieses seit 1986 bestehende Jugendzentrum widmet sich der Förderung künstlerischer Talente und technischer Kreativität.",
+                  "category": "cultural",
+                  "coords": [
+                        82.969269,
+                        55.109904
+                  ]
+            },
+            {
+                  "name": "Detskii tsentr <<Dosug>>",
+                  "text": "Ein lokales Freizeitzentrum, das sich auf die Organisation von kreativen Freizeitaktivitäten für Schulkinder spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        82.937019,
+                        55.093474
+                  ]
+            },
+            {
+                  "name": "Khoztovary",
+                  "text": "Ein geschäftiger Nachbarschaftsmarkt, der eine große Auswahl an Haushaltswaren und Werkzeugen für den täglichen Bedarf bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        82.965623,
+                        55.109272
+                  ]
+            },
+            {
+                  "name": "Krest'ianskaia Sloboda",
+                  "text": "Dieser Markt ist auf traditionelle russische Agrarprodukte und frische Lebensmittel von regionalen Bauernhöfen spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        82.898675,
+                        55.128815
+                  ]
+            },
+            {
+                  "name": "Timiriazevskii",
+                  "text": "Ein lokaler Marktplatz im Timirjasewski-Viertel, der die Anwohner mit frischen Lebensmitteln und Waren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        82.894198,
+                        55.057436
+                  ]
+            },
+            {
+                  "name": "Eko rynok",
+                  "text": "Ein moderner Marktplatz, der sich auf biologisch angebaute Lebensmittel und ökologisch zertifizierte Produkte konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        82.91757,
+                        55.058848
+                  ]
+            },
+            {
+                  "name": "Terrarium",
+                  "text": "Dieser spezialisierte Zoopavillon beherbergt eine vielfältige Sammlung von Schlangen, Echsen und exotischen Reptilien.",
+                  "category": "landmark",
+                  "coords": [
+                        82.888965,
+                        55.056432
+                  ]
+            },
+            {
+                  "name": "Voron",
+                  "text": "Dieses Gehege ist den großen schwarzen Raben gewidmet, die für ihre außergewöhnliche Intelligenz bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        82.887583,
+                        55.056443
+                  ]
+            },
+            {
+                  "name": "Alleia Kirieshek",
+                  "text": "Ein beliebter Spazierweg im Zoo, der von Bänken und Ständen mit regionalen Snacks gesäumt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.887028,
+                        55.057352
+                  ]
+            },
+            {
+                  "name": "Lebedi, gusi, utki",
+                  "text": "Ein großer Teich, in dem Schwäne, Gänse und verschiedene Entenarten gemeinsam in einer naturnahen Umgebung schwimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        82.884604,
+                        55.057675
+                  ]
+            },
+            {
+                  "name": "Vozdushnye shary",
+                  "text": "Ein familienfreundliches Fahrgeschäft im Zoo mit farbenfrohen, rotierenden Heißluftballon-Gondeln.",
+                  "category": "landmark",
+                  "coords": [
+                        82.895021,
+                        55.091085
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia voennaia chast'",
+                  "text": "Die verlassenen Überreste einer ehemaligen Militärgarnison, die heute ein Ziel für Urban Explorers sind.",
+                  "category": "landmark",
+                  "coords": [
+                        82.92991,
+                        55.133681
+                  ]
+            },
+            {
+                  "name": "300-letniaia sosna",
+                  "text": "Diese massive, geschützte Kiefer im örtlichen Wald ist bereits über 300 Jahre alt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.858504,
+                        55.11639
+                  ]
+            },
+            {
+                  "name": "Lisitsy, Pestsy, Korsaki, Fenek",
+                  "text": "Dieses Gehege beherbergt verschiedene Fuchsarten, darunter Polarfuchse, Steppenfüchse und den kleinen Wüstenfuchs Fennek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.877267,
+                        55.053968
+                  ]
+            },
+            {
+                  "name": "Nochnoi mir",
+                  "text": "Ein abgedunkelter Pavillon, in dem Besucher das aktive Verhalten nachtaktiver Tiere beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        82.876502,
+                        55.055769
+                  ]
+            },
+            {
+                  "name": "Pamiatnik konstruktivizma",
+                  "text": "Dieses architektonische Denkmal präsentiert die strengen geometrischen Formen des sowjetischen Konstruktivismus.",
+                  "category": "landmark",
+                  "coords": [
+                        82.881972,
+                        55.046764
+                  ]
+            },
+            {
+                  "name": "Zhuravli",
+                  "text": "Ein weitläufiges Gehege für elegante Kraniche, die für ihre anmutigen Balztänze bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88369,
+                        55.055019
+                  ]
+            },
+            {
+                  "name": "Medvedi (burye, gimalaiskii, baribal)",
+                  "text": "Diese felsige Anlage beherbergt Braunbären, Himalajabären und amerikanische Schwarzbären.",
+                  "category": "landmark",
+                  "coords": [
+                        82.884743,
+                        55.055235
+                  ]
+            },
+            {
+                  "name": "Fazany, vorob'inye, kurinye, popugai",
+                  "text": "Dieses große Vogelhaus ist mit farbenfrohen Fasanen, Papageien und verschiedenen Singvögeln gefüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.885331,
+                        55.056264
+                  ]
+            },
+            {
+                  "name": "Kharzy",
+                  "text": "Ein naturnahes Gehege für die Buntmarder, flinke und kraftvolle Raubtiere aus der sibirischen Taiga.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88192,
+                        55.05459
+                  ]
+            },
+            {
+                  "name": "Aziatskii stepnoi kot",
+                  "text": "Ein spezialisiertes Gehege für die asiatische Wildkatze, die perfekt an das Leben in trockenen Steppen angepasst ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.8842,
+                        55.056528
+                  ]
+            },
+            {
+                  "name": "Kamyshovyi kot",
+                  "text": "Ein Gehege für die Rohrkatze, die in der freien Natur bevorzugt in feuchten Schilfgebieten und Sümpfen jagt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.883292,
+                        55.056344
+                  ]
+            },
+            {
+                  "name": "Afrikanskie l'vy",
+                  "text": "Eine große Außenanlage, in der Besucher ein Rudel afrikanischer Löwen beim Ruhen oder Spielen beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88229,
+                        55.056307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Novosibirsk - gorod trudovoi doblesti",
+                  "text": "Ezt a 31 méter magas sztélét 2022-ben avatták fel a város második világháború alatti ipari hozzájárulásának tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        82.912516,
+                        55.05943
+                  ]
+            },
+            {
+                  "name": "Dvorets kul'tury Sibtekstil'mash",
+                  "text": "Ez a hatalmas, szovjet érából származó kulturális központ színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        82.81365,
+                        54.987175
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva \"Romantika\"",
+                  "text": "Ez az 1988-ban alapított gyermekalkotó központ különféle művészeti köröket és workshopokat kínál fiataloknak.",
+                  "category": "cultural",
+                  "coords": [
+                        82.968491,
+                        55.111564
+                  ]
+            },
+            {
+                  "name": "TsDT \"Sodruzhestvo\", SP \"Eleron\"",
+                  "text": "Ez az 1986 óta működő ifjúsági központ a művészeti tehetségek és a technikai kreativitás gondozására szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        82.969269,
+                        55.109904
+                  ]
+            },
+            {
+                  "name": "Detskii tsentr <<Dosug>>",
+                  "text": "Helyi szabadidőközpont, amely iskolások számára szervezett kreatív foglalkozásokra és kikapcsolódásra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        82.937019,
+                        55.093474
+                  ]
+            },
+            {
+                  "name": "Khoztovary",
+                  "text": "Forgalmas szomszédsági piac, amely háztartási cikkek és szerszámok széles választékát kínálja a mindennapi igényekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        82.965623,
+                        55.109272
+                  ]
+            },
+            {
+                  "name": "Krest'ianskaia Sloboda",
+                  "text": "Ez a piac a hagyományos orosz mezőgazdasági termékekre és a regionális gazdaságokból származó friss élelmiszerekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        82.898675,
+                        55.128815
+                  ]
+            },
+            {
+                  "name": "Timiriazevskii",
+                  "text": "Helyi piac a Tyimirjazevszkij negyedben, amely friss élelmiszerekkel és árukkal látja el a környék lakóit.",
+                  "category": "cultural",
+                  "coords": [
+                        82.894198,
+                        55.057436
+                  ]
+            },
+            {
+                  "name": "Eko rynok",
+                  "text": "Modern piactér, amely a biogazdálkodásból származó élelmiszerekre és ökológiailag tanúsított termékekre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        82.91757,
+                        55.058848
+                  ]
+            },
+            {
+                  "name": "Terrarium",
+                  "text": "Ez a különleges állatkerti pavilon kígyók, gyíkok és egzotikus hüllők változatos gyűjteményének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        82.888965,
+                        55.056432
+                  ]
+            },
+            {
+                  "name": "Voron",
+                  "text": "Ez a kifutó a nagy testű hollóknak szentelt hely, amelyek rendkívüli intelligenciájukról ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.887583,
+                        55.056443
+                  ]
+            },
+            {
+                  "name": "Alleia Kirieshek",
+                  "text": "Népszerű sétatér az állatkertben, amelyet padok és helyi harapnivalókat árusító bódék szegélyeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.887028,
+                        55.057352
+                  ]
+            },
+            {
+                  "name": "Lebedi, gusi, utki",
+                  "text": "Tágas tavacska, ahol hattyúk, ludak és különféle récefajok úszkálnak együtt természetközeli környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        82.884604,
+                        55.057675
+                  ]
+            },
+            {
+                  "name": "Vozdushnye shary",
+                  "text": "Családbarát vidámparki játék az állatkertben, színes, forgó hőlégballon-gondolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        82.895021,
+                        55.091085
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia voennaia chast'",
+                  "text": "Egy egykori katonai helyőrség elhagyatott maradványai, amely ma az urbexesek kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        82.92991,
+                        55.133681
+                  ]
+            },
+            {
+                  "name": "300-letniaia sosna",
+                  "text": "Ez a hatalmas, védett erdei fenyő már több mint 300 éve áll a helyi erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        82.858504,
+                        55.11639
+                  ]
+            },
+            {
+                  "name": "Lisitsy, Pestsy, Korsaki, Fenek",
+                  "text": "Ez a kifutó különféle rókafajoknak ad otthont, köztük sarki rókáknak, pusztai rókáknak és a kis sivatagi fenneknek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.877267,
+                        55.053968
+                  ]
+            },
+            {
+                  "name": "Nochnoi mir",
+                  "text": "Sötétített pavillon, ahol a látogatók megfigyelhetik az éjszakai állatok aktív viselkedését.",
+                  "category": "landmark",
+                  "coords": [
+                        82.876502,
+                        55.055769
+                  ]
+            },
+            {
+                  "name": "Pamiatnik konstruktivizma",
+                  "text": "Ez az építészeti emlékmű a szovjet konstruktivizmus szigorú geometrikus formáit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        82.881972,
+                        55.046764
+                  ]
+            },
+            {
+                  "name": "Zhuravli",
+                  "text": "Tágas kifutó az elegáns darvak számára, amelyek kecses násztáncukról ismertek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88369,
+                        55.055019
+                  ]
+            },
+            {
+                  "name": "Medvedi (burye, gimalaiskii, baribal)",
+                  "text": "Ez a sziklás kifutó barna medvéknek, himalájai medvéknek és amerikai fekete medvéknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        82.884743,
+                        55.055235
+                  ]
+            },
+            {
+                  "name": "Fazany, vorob'inye, kurinye, popugai",
+                  "text": "Ez a nagy madárház színes fácánokkal, papagájokkal és különféle énekesmadarakkal van teli.",
+                  "category": "landmark",
+                  "coords": [
+                        82.885331,
+                        55.056264
+                  ]
+            },
+            {
+                  "name": "Kharzy",
+                  "text": "Természetközeli kifutó a sárgatorkú martalócoknak, amelyek a szibériai tajga fürge és erőteljes ragadozói.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88192,
+                        55.05459
+                  ]
+            },
+            {
+                  "name": "Aziatskii stepnoi kot",
+                  "text": "Speciális kifutó az ázsiai vadmacska számára, amely tökéletesen alkalmazkodott a száraz sztyeppei élethez.",
+                  "category": "landmark",
+                  "coords": [
+                        82.8842,
+                        55.056528
+                  ]
+            },
+            {
+                  "name": "Kamyshovyi kot",
+                  "text": "Kifutó a mocsári macska számára, amely a természetben legszívesebben nedves nádasokban és mocsarakban vadászik.",
+                  "category": "landmark",
+                  "coords": [
+                        82.883292,
+                        55.056344
+                  ]
+            },
+            {
+                  "name": "Afrikanskie l'vy",
+                  "text": "Nagy szabadtéri kifutó, ahol a látogatók afrikai oroszlánfalkát láthatnak pihenés vagy játék közben.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88229,
+                        55.056307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Novosibirsk - gorod trudovoi doblesti",
+                  "text": "Această stelă înaltă de 31 de metri a fost inaugurată în 2022 pentru a onora contribuția industrială a orașului în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        82.912516,
+                        55.05943
+                  ]
+            },
+            {
+                  "name": "Dvorets kul'tury Sibtekstil'mash",
+                  "text": "Acest centru cultural masiv din epoca sovietică servește ca loc de desfășurare pentru spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        82.81365,
+                        54.987175
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva \"Romantika\"",
+                  "text": "Fondat în 1988, acest centru de creație pentru copii oferă diverse cursuri de artă și ateliere pentru tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        82.968491,
+                        55.111564
+                  ]
+            },
+            {
+                  "name": "TsDT \"Sodruzhestvo\", SP \"Eleron\"",
+                  "text": "Funcționând din 1986, acest centru pentru tineret este dedicat cultivării talentelor artistice și creativității tehnice.",
+                  "category": "cultural",
+                  "coords": [
+                        82.969269,
+                        55.109904
+                  ]
+            },
+            {
+                  "name": "Detskii tsentr <<Dosug>>",
+                  "text": "Un centru local de petrecere a timpului liber, specializat în organizarea de activități creative pentru școlari.",
+                  "category": "cultural",
+                  "coords": [
+                        82.937019,
+                        55.093474
+                  ]
+            },
+            {
+                  "name": "Khoztovary",
+                  "text": "O piață de cartier animată, care oferă o gamă largă de articole de uz casnic și unelte pentru nevoile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        82.965623,
+                        55.109272
+                  ]
+            },
+            {
+                  "name": "Krest'ianskaia Sloboda",
+                  "text": "Această piață este specializată în produse agricole rusești tradiționale și alimente proaspete de la fermele regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        82.898675,
+                        55.128815
+                  ]
+            },
+            {
+                  "name": "Timiriazevskii",
+                  "text": "O piață locală din districtul Timiriazevski, care deservește rezidenții cu alimente proaspete și bunuri de consum.",
+                  "category": "cultural",
+                  "coords": [
+                        82.894198,
+                        55.057436
+                  ]
+            },
+            {
+                  "name": "Eko rynok",
+                  "text": "O piață modernă concentrată pe alimente din agricultura ecologică și produse certificate ecologic.",
+                  "category": "cultural",
+                  "coords": [
+                        82.91757,
+                        55.058848
+                  ]
+            },
+            {
+                  "name": "Terrarium",
+                  "text": "Acest pavilion specializat din grădina zoologică găzduiește o colecție diversă de șerpi, șopârle și reptile exotice.",
+                  "category": "landmark",
+                  "coords": [
+                        82.888965,
+                        55.056432
+                  ]
+            },
+            {
+                  "name": "Voron",
+                  "text": "Acest țarc este dedicat corbilor negri mari, cunoscuți pentru inteligența lor excepțională.",
+                  "category": "landmark",
+                  "coords": [
+                        82.887583,
+                        55.056443
+                  ]
+            },
+            {
+                  "name": "Alleia Kirieshek",
+                  "text": "O alee populară din grădina zoologică, mărginită de bănci și tarabe cu gustări locale.",
+                  "category": "landmark",
+                  "coords": [
+                        82.887028,
+                        55.057352
+                  ]
+            },
+            {
+                  "name": "Lebedi, gusi, utki",
+                  "text": "Un iaz mare unde lebede, gâște și diverse specii de rațe înoată împreună într-un cadru natural.",
+                  "category": "landmark",
+                  "coords": [
+                        82.884604,
+                        55.057675
+                  ]
+            },
+            {
+                  "name": "Vozdushnye shary",
+                  "text": "O atracție pentru familii în grădina zoologică, cu nacele colorate în formă de baloane cu aer cald care se rotesc.",
+                  "category": "landmark",
+                  "coords": [
+                        82.895021,
+                        55.091085
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia voennaia chast'",
+                  "text": "Rămășițele abandonate ale unei foste garnizoane militare, care acum sunt o destinație pentru exploratorii urbani.",
+                  "category": "landmark",
+                  "coords": [
+                        82.92991,
+                        55.133681
+                  ]
+            },
+            {
+                  "name": "300-letniaia sosna",
+                  "text": "Acest pin masiv protejat din pădurea locală are o vechime de peste 300 de ani.",
+                  "category": "landmark",
+                  "coords": [
+                        82.858504,
+                        55.11639
+                  ]
+            },
+            {
+                  "name": "Lisitsy, Pestsy, Korsaki, Fenek",
+                  "text": "Acest țarc găzduiește diverse specii de vulpi, inclusiv vulpi polare, vulpi de stepă și micul fennec de deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        82.877267,
+                        55.053968
+                  ]
+            },
+            {
+                  "name": "Nochnoi mir",
+                  "text": "Un pavilion întunecat unde vizitatorii pot observa comportamentul activ al animalelor nocturne.",
+                  "category": "landmark",
+                  "coords": [
+                        82.876502,
+                        55.055769
+                  ]
+            },
+            {
+                  "name": "Pamiatnik konstruktivizma",
+                  "text": "Acest monument arhitectural prezintă formele geometrice riguroase ale constructivismului sovietic.",
+                  "category": "landmark",
+                  "coords": [
+                        82.881972,
+                        55.046764
+                  ]
+            },
+            {
+                  "name": "Zhuravli",
+                  "text": "Un țarc spațios pentru cocorii eleganți, cunoscuți pentru dansurile lor de curte grațioase.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88369,
+                        55.055019
+                  ]
+            },
+            {
+                  "name": "Medvedi (burye, gimalaiskii, baribal)",
+                  "text": "Acest habitat stâncos găzduiește urși bruni, urși de Himalaya și urși negri americani.",
+                  "category": "landmark",
+                  "coords": [
+                        82.884743,
+                        55.055235
+                  ]
+            },
+            {
+                  "name": "Fazany, vorob'inye, kurinye, popugai",
+                  "text": "Această volieră mare este plină de fazani colorați, papagali și diverse păsări cântătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        82.885331,
+                        55.056264
+                  ]
+            },
+            {
+                  "name": "Kharzy",
+                  "text": "Un țarc natural pentru harza, prădători agili și puternici din taigaua siberiană.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88192,
+                        55.05459
+                  ]
+            },
+            {
+                  "name": "Aziatskii stepnoi kot",
+                  "text": "Un țarc specializat pentru pisica sălbatică asiatică, adaptată perfect la viața în stepele aride.",
+                  "category": "landmark",
+                  "coords": [
+                        82.8842,
+                        55.056528
+                  ]
+            },
+            {
+                  "name": "Kamyshovyi kot",
+                  "text": "Un țarc pentru pisica de mlaștină, care în natură vânează de preferință în stufărișuri umede și mlaștini.",
+                  "category": "landmark",
+                  "coords": [
+                        82.883292,
+                        55.056344
+                  ]
+            },
+            {
+                  "name": "Afrikanskie l'vy",
+                  "text": "Un țarc exterior mare unde vizitatorii pot vedea o mândrie de lei africani odihnindu-se sau jucându-se.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88229,
+                        55.056307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Novosibirsk - gorod trudovoi doblesti",
+                  "text": "This 31-meter-high stele was inaugurated in 2022 to honor the city's industrial contribution during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        82.912516,
+                        55.05943
+                  ]
+            },
+            {
+                  "name": "Dvorets kul'tury Sibtekstil'mash",
+                  "text": "This large Soviet-era cultural center serves as a venue for theatrical performances and factory-linked community events.",
+                  "category": "cultural",
+                  "coords": [
+                        82.81365,
+                        54.987175
+                  ]
+            },
+            {
+                  "name": "Dom detskogo tvorchestva \"Romantika\"",
+                  "text": "Founded in 1988, this children's creativity center hosts various youth art classes and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        82.968491,
+                        55.111564
+                  ]
+            },
+            {
+                  "name": "TsDT \"Sodruzhestvo\", SP \"Eleron\"",
+                  "text": "Operating since 1986, this youth center focuses on fostering artistic talent and technical creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        82.969269,
+                        55.109904
+                  ]
+            },
+            {
+                  "name": "Detskii tsentr <<Dosug>>",
+                  "text": "A local leisure center specializing in organized creative activities and after-school programs for children.",
+                  "category": "cultural",
+                  "coords": [
+                        82.937019,
+                        55.093474
+                  ]
+            },
+            {
+                  "name": "Khoztovary",
+                  "text": "A busy neighborhood marketplace offering a wide range of household goods and hardware for daily needs.",
+                  "category": "cultural",
+                  "coords": [
+                        82.965623,
+                        55.109272
+                  ]
+            },
+            {
+                  "name": "Krest'ianskaia Sloboda",
+                  "text": "This marketplace specializes in traditional Russian agricultural products and fresh food from regional farms.",
+                  "category": "cultural",
+                  "coords": [
+                        82.898675,
+                        55.128815
+                  ]
+            },
+            {
+                  "name": "Timiriazevskii",
+                  "text": "A local marketplace in the Timiryazevsky district serving residents with fresh produce and consumer goods.",
+                  "category": "cultural",
+                  "coords": [
+                        82.894198,
+                        55.057436
+                  ]
+            },
+            {
+                  "name": "Eko rynok",
+                  "text": "A modern marketplace focused on organically grown food and ecologically certified products.",
+                  "category": "cultural",
+                  "coords": [
+                        82.91757,
+                        55.058848
+                  ]
+            },
+            {
+                  "name": "Terrarium",
+                  "text": "This specialized zoo pavilion houses a diverse collection of snakes, lizards, and exotic reptiles.",
+                  "category": "landmark",
+                  "coords": [
+                        82.888965,
+                        55.056432
+                  ]
+            },
+            {
+                  "name": "Voron",
+                  "text": "This enclosure is dedicated to large black ravens, birds known for their exceptional intelligence.",
+                  "category": "landmark",
+                  "coords": [
+                        82.887583,
+                        55.056443
+                  ]
+            },
+            {
+                  "name": "Alleia Kirieshek",
+                  "text": "A popular paved walkway within the zoo lined with benches and kiosks selling local snacks.",
+                  "category": "landmark",
+                  "coords": [
+                        82.887028,
+                        55.057352
+                  ]
+            },
+            {
+                  "name": "Lebedi, gusi, utki",
+                  "text": "A large pond where swans, geese, and various duck species swim together in a natural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        82.884604,
+                        55.057675
+                  ]
+            },
+            {
+                  "name": "Vozdushnye shary",
+                  "text": "A family-friendly amusement ride within the zoo featuring colorful rotating hot air balloon gondolas.",
+                  "category": "landmark",
+                  "coords": [
+                        82.895021,
+                        55.091085
+                  ]
+            },
+            {
+                  "name": "Zabroshennaia voennaia chast'",
+                  "text": "The abandoned remains of a former military garrison, now a destination for urban explorers.",
+                  "category": "landmark",
+                  "coords": [
+                        82.92991,
+                        55.133681
+                  ]
+            },
+            {
+                  "name": "300-letniaia sosna",
+                  "text": "This massive, protected pine tree in the local forest has stood for over 300 years.",
+                  "category": "landmark",
+                  "coords": [
+                        82.858504,
+                        55.11639
+                  ]
+            },
+            {
+                  "name": "Lisitsy, Pestsy, Korsaki, Fenek",
+                  "text": "This enclosure houses various fox species, including arctic foxes, corsac foxes, and the small desert fennec.",
+                  "category": "landmark",
+                  "coords": [
+                        82.877267,
+                        55.053968
+                  ]
+            },
+            {
+                  "name": "Night world",
+                  "text": "A darkened pavilion where visitors can observe the active behavior of various nocturnal animals.",
+                  "category": "landmark",
+                  "coords": [
+                        82.876502,
+                        55.055769
+                  ]
+            },
+            {
+                  "name": "Pamiatnik konstruktivizma",
+                  "text": "This architectural monument showcases the bold geometric forms characteristic of Soviet constructivism.",
+                  "category": "landmark",
+                  "coords": [
+                        82.881972,
+                        55.046764
+                  ]
+            },
+            {
+                  "name": "Zhuravli",
+                  "text": "A spacious enclosure housing elegant cranes, birds known for their graceful courtship dances.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88369,
+                        55.055019
+                  ]
+            },
+            {
+                  "name": "Medvedi (burye, gimalaiskii, baribal)",
+                  "text": "This rocky habitat houses brown bears, Himalayan bears, and American black bears (baribals).",
+                  "category": "landmark",
+                  "coords": [
+                        82.884743,
+                        55.055235
+                  ]
+            },
+            {
+                  "name": "Fazany, vorob'inye, kurinye, popugai",
+                  "text": "This large aviary is filled with colorful pheasants, parrots, and various songbird species.",
+                  "category": "landmark",
+                  "coords": [
+                        82.885331,
+                        55.056264
+                  ]
+            },
+            {
+                  "name": "Kharzy",
+                  "text": "A natural enclosure for the yellow-throated marten, an agile and powerful predator of the Siberian taiga.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88192,
+                        55.05459
+                  ]
+            },
+            {
+                  "name": "Aziatskii stepnoi kot",
+                  "text": "A specialized enclosure for the Asiatic wildcat, a species perfectly adapted to life in arid steppes.",
+                  "category": "landmark",
+                  "coords": [
+                        82.8842,
+                        55.056528
+                  ]
+            },
+            {
+                  "name": "Kamyshovyi kot",
+                  "text": "An enclosure for the jungle cat, a species that typically hunts in wet reed beds and marshy areas.",
+                  "category": "landmark",
+                  "coords": [
+                        82.883292,
+                        55.056344
+                  ]
+            },
+            {
+                  "name": "Afrikanskie l'vy",
+                  "text": "A large outdoor enclosure where visitors can see a pride of African lions resting or playing.",
+                  "category": "landmark",
+                  "coords": [
+                        82.88229,
+                        55.056307
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "wildlife",
     name: { de: "Zoo Nowosibirsk", hu: "Novoszibirszki Állatkert", ro: "Grădina Zoologică din Novosibirsk", en: "Novosibirsk Zoo"},

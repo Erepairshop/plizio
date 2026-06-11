@@ -3,7 +3,340 @@ import { POI } from './poi';
 export const palestineReliefV2: POI[] = [
 
   {
-    id: "palestine-baal-hazor-relief-v2",
+    id: "palestine-baal-hazor-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burj Barduil",
+                  "text": "Die Ruinen einer mittelalterlichen Kreuzritterfestung, auch bekannt als Baldwins Turm, auf einem strategischen Bergrücken.",
+                  "category": "historical",
+                  "coords": [
+                        35.244122,
+                        31.985323
+                  ]
+            },
+            {
+                  "name": "nadi ammar",
+                  "text": "Ein lokaler Freizeit- und Sportclub, der soziale Aktivitäten und Unterhaltung in der Region Baal Hazor bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            },
+            {
+                  "name": "Flagstones valley",
+                  "text": "Ein Aussichtspunkt mit Blick auf eine Talsohle, die durch natürliche, flache Kalksteinplatten geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.2286,
+                        32.000971
+                  ]
+            },
+            {
+                  "name": "Khirbet Tarafayn",
+                  "text": "Archäologische Ruinen einer antiken Siedlung mit Überresten von Steinstrukturen und historischen Zisternen.",
+                  "category": "historical",
+                  "coords": [
+                        35.21209,
+                        31.993543
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ein lokales muslimisches Gebetshaus im Gebiet von Baal Hazor, das der täglichen Andacht der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229003,
+                        31.97231
+                  ]
+            },
+            {
+                  "name": "Selwad Old Mosque",
+                  "text": "Die historische alte Moschee von Silwad, die Zeugnis von der traditionellen Architektur und Geschichte des Ortes ablegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257881,
+                        31.986324
+                  ]
+            },
+            {
+                  "name": "Abu Aubayda Mosque",
+                  "text": "Eine den Gläubigen gewidmete Moschee in der Region Silwad mit einem markanten Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259547,
+                        31.978123
+                  ]
+            },
+            {
+                  "name": "Yabrud Mosque",
+                  "text": "Das religiöse Zentrum des Dorfes Yabrud, das als wichtigster Ort für die Freitagspredigten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242759,
+                        31.97652
+                  ]
+            },
+            {
+                  "name": "Salah Al-Din Mosque",
+                  "text": "Eine nach dem legendären Anführer Salah Al-Din benannte Moschee, die im Zentrum der lokalen Gemeinde steht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.262408,
+                        31.967698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burj Barduil",
+                  "text": "Egy középkori keresztes lovagvár romjai, más néven Baldwin-torony, egy stratégiai hegygerincen.",
+                  "category": "historical",
+                  "coords": [
+                        35.244122,
+                        31.985323
+                  ]
+            },
+            {
+                  "name": "nadi ammar",
+                  "text": "Helyi szabadidő- és sportklub, amely közösségi tevékenységeket és szórakozást kínál a Baal Hazor régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            },
+            {
+                  "name": "Flagstones valley",
+                  "text": "Kilátópont, amely egy természetes, lapos mészkőlapokkal borított völgyaljzatra néz.",
+                  "category": "natural",
+                  "coords": [
+                        35.2286,
+                        32.000971
+                  ]
+            },
+            {
+                  "name": "Khirbet Tarafayn",
+                  "text": "Egy ősi település régészeti romjai kőszerkezetek maradványaival és történelmi ciszternákkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.21209,
+                        31.993543
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Helyi muszlim imaház Baal Hazor környékén, amely a közösség napi áhítatát szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229003,
+                        31.97231
+                  ]
+            },
+            {
+                  "name": "Selwad Old Mosque",
+                  "text": "Szilvád történelmi régi mecsete, amely a település hagyományos építészetéről és múltjáról tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257881,
+                        31.986324
+                  ]
+            },
+            {
+                  "name": "Abu Aubayda Mosque",
+                  "text": "A hívőknek szentelt mecset Szilvád régiójában, jellegzetes imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259547,
+                        31.978123
+                  ]
+            },
+            {
+                  "name": "Yabrud Mosque",
+                  "text": "Jabrúd falu vallási központja, amely a pénteki prédikációk fő helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242759,
+                        31.97652
+                  ]
+            },
+            {
+                  "name": "Salah Al-Din Mosque",
+                  "text": "A legendás vezetőről, Szaladinról elnevezett mecset, amely a helyi közösség központjában áll.",
+                  "category": "landmark",
+                  "coords": [
+                        35.262408,
+                        31.967698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burj Barduil",
+                  "text": "Ruinele unei cetăți medievale cruciate, cunoscută și sub numele de Turnul lui Baldwin, pe o creastă strategică.",
+                  "category": "historical",
+                  "coords": [
+                        35.244122,
+                        31.985323
+                  ]
+            },
+            {
+                  "name": "nadi ammar",
+                  "text": "Un club local de recreere și sport care oferă activități sociale și divertisment în regiunea Baal Hazor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            },
+            {
+                  "name": "Flagstones valley",
+                  "text": "Un punct de observație cu vedere spre fundul unei văi caracterizat prin dale de calcar naturale și plate.",
+                  "category": "natural",
+                  "coords": [
+                        35.2286,
+                        32.000971
+                  ]
+            },
+            {
+                  "name": "Khirbet Tarafayn",
+                  "text": "Ruinele arheologice ale unei așezări antice, cu vestigii de structuri din piatră și cisterne istorice.",
+                  "category": "historical",
+                  "coords": [
+                        35.21209,
+                        31.993543
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O casă de rugăciune musulmană locală din zona Baal Hazor, care servește devoțiunii zilnice a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229003,
+                        31.97231
+                  ]
+            },
+            {
+                  "name": "Selwad Old Mosque",
+                  "text": "Vechea moschee istorică din Silwad, care depune mărturie despre arhitectura tradițională și istoria localității.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257881,
+                        31.986324
+                  ]
+            },
+            {
+                  "name": "Abu Aubayda Mosque",
+                  "text": "O moschee dedicată credincioșilor din regiunea Silwad, cu o sală de rugăciune distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259547,
+                        31.978123
+                  ]
+            },
+            {
+                  "name": "Yabrud Mosque",
+                  "text": "Centrul religios al satului Yabrud, care servește drept loc principal pentru predicile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242759,
+                        31.97652
+                  ]
+            },
+            {
+                  "name": "Salah Al-Din Mosque",
+                  "text": "O moschee numită după legendarul conducător Salah Al-Din, situată în centrul comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.262408,
+                        31.967698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burj Barduil",
+                  "text": "The ruins of a medieval Crusader fortress, also known as Baldwin's Tower, on a strategic ridge.",
+                  "category": "historical",
+                  "coords": [
+                        35.244122,
+                        31.985323
+                  ]
+            },
+            {
+                  "name": "nadi ammar",
+                  "text": "A local recreation and sports club providing social activities and entertainment in the Baal Hazor region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            },
+            {
+                  "name": "Flagstones valley",
+                  "text": "A viewpoint overlooking a valley floor characterized by natural, flat limestone pavement.",
+                  "category": "natural",
+                  "coords": [
+                        35.2286,
+                        32.000971
+                  ]
+            },
+            {
+                  "name": "Khirbet Tarafayn",
+                  "text": "Archaeological ruins of an ancient settlement featuring remains of stone structures and historical cisterns.",
+                  "category": "historical",
+                  "coords": [
+                        35.21209,
+                        31.993543
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A local Muslim prayer house in the Baal Hazor area, serving the daily devotion of the community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229003,
+                        31.97231
+                  ]
+            },
+            {
+                  "name": "Selwad Old Mosque",
+                  "text": "The historical old mosque of Silwad, bearing witness to the town's traditional architecture and history.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257881,
+                        31.986324
+                  ]
+            },
+            {
+                  "name": "Abu Aubayda Mosque",
+                  "text": "A mosque dedicated to worshippers in the Silwad region, featuring a prominent prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259547,
+                        31.978123
+                  ]
+            },
+            {
+                  "name": "Yabrud Mosque",
+                  "text": "The religious center of Yabrud village, serving as the primary site for Friday sermons.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242759,
+                        31.97652
+                  ]
+            },
+            {
+                  "name": "Salah Al-Din Mosque",
+                  "text": "A mosque named after the legendary leader Salah Al-Din, standing at the heart of the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.262408,
+                        31.967698
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "peak",
     name: { de: "Baal-Hazor", hu: "Baal-Hácór", ro: "Baal-Hazor", en: "Baal-Hazor" },
@@ -93,7 +426,376 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-dead-sea-basin-relief-v2.webp",
   },
   {
-    id: "palestine-mount-sartaba-relief-v2",
+    id: "palestine-mount-sartaba-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Orev Viewpoint",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das Jordantal und die Wüstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        35.430547,
+                        32.059116
+                  ]
+            },
+            {
+                  "name": "Sartava;Sartaba",
+                  "text": "Ein historischer Gipfel mit den Ruinen einer hasmonäischen Festung und Panoramablick auf das Jordantal.",
+                  "category": "natural",
+                  "coords": [
+                        35.461768,
+                        32.096197
+                  ]
+            },
+            {
+                  "name": "Gilgal, the camp of the 12 tribes",
+                  "text": "Ein biblisches Denkmal zum Gedenken an das erste Lager der Israeliten nach der Überquerung des Jordans.",
+                  "category": "historical",
+                  "coords": [
+                        35.462509,
+                        32.056305
+                  ]
+            },
+            {
+                  "name": "Habikka memorial",
+                  "text": "Ein markantes Denkmal im Jordantal, das den in den Konflikten der Region gefallenen Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.461605,
+                        32.053196
+                  ]
+            },
+            {
+                  "name": "Gilgal I",
+                  "text": "Eine frühneolithische archäologische Stätte, die für ihre gut erhaltenen antiken Strukturen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.475499,
+                        32.032801
+                  ]
+            },
+            {
+                  "name": "Sartaba",
+                  "text": "Ein Schutzgebiet um den markanten kegelförmigen Berg, das eine einzigartige Wüstenflora und -fauna beheimatet.",
+                  "category": "natural",
+                  "coords": [
+                        35.449293,
+                        32.090397
+                  ]
+            },
+            {
+                  "name": "Adam Bridge",
+                  "text": "Ein Naturschutzgebiet, das das Gebiet um den historischen Übergang über den Jordan umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        35.537822,
+                        32.112399
+                  ]
+            },
+            {
+                  "name": "Fasayel Mosque",
+                  "text": "Eine Gemeindemoschee für das Dorf Fasayel, nahe den Ruinen des antiken Herodianischen Palastes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.437008,
+                        32.032589
+                  ]
+            },
+            {
+                  "name": "Fasayel new mosque",
+                  "text": "Eine neu errichtete Moschee mit weißer Fassade für die wachsende Gemeinde im Jordantal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443968,
+                        32.02333
+                  ]
+            },
+            {
+                  "name": "Fasayal Mosque",
+                  "text": "Ein Gotteshaus in der trockenen Landschaft der Siedlung Fasayel im Jordantal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443875,
+                        32.026259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Orev Viewpoint",
+                  "text": "Panorámás kilátóhely, ahonnan elsöprő kilátás nyílik a Jordán-völgyre és a sivatagi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        35.430547,
+                        32.059116
+                  ]
+            },
+            {
+                  "name": "Sartava;Sartaba",
+                  "text": "Történelmi csúcs egy hasmoneus erőd romjaival és panorámás kilátással a Jordán-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        35.461768,
+                        32.096197
+                  ]
+            },
+            {
+                  "name": "Gilgal, the camp of the 12 tribes",
+                  "text": "Bibliai emlékmű, amely az izraeliták első táborhelyének állít emléket a Jordán folyón való átkelés után.",
+                  "category": "historical",
+                  "coords": [
+                        35.462509,
+                        32.056305
+                  ]
+            },
+            {
+                  "name": "Habikka memorial",
+                  "text": "Látványos emlékmű a Jordán-völgyben, amelyet a régió konfliktusaiban elesett katonák tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        35.461605,
+                        32.053196
+                  ]
+            },
+            {
+                  "name": "Gilgal I",
+                  "text": "Korai neolitikus régészeti lelőhely, amely jól megőrzött ősi építményeiről és leleteiről híres.",
+                  "category": "historical",
+                  "coords": [
+                        35.475499,
+                        32.032801
+                  ]
+            },
+            {
+                  "name": "Sartaba",
+                  "text": "A jellegzetes kúp alakú hegy körüli védett terület, amely egyedülálló sivatagi növény- és állatvilágnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        35.449293,
+                        32.090397
+                  ]
+            },
+            {
+                  "name": "Adam Bridge",
+                  "text": "Természetvédelmi terület, amely a Jordán folyó történelmi átkelőhelye körüli területet foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        35.537822,
+                        32.112399
+                  ]
+            },
+            {
+                  "name": "Fasayel Mosque",
+                  "text": "Fasayel falujának közösségi mecsetje, az ókori heródesi palota romjainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.437008,
+                        32.032589
+                  ]
+            },
+            {
+                  "name": "Fasayel new mosque",
+                  "text": "Újonnan épült, fehér homlokzatú mecset, amely a Jordán-völgy növekvő közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443968,
+                        32.02333
+                  ]
+            },
+            {
+                  "name": "Fasayal Mosque",
+                  "text": "Imaház a Jordán-völgyi Fasayel település száraz táján.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443875,
+                        32.026259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Orev Viewpoint",
+                  "text": "Un punct de observație panoramic care oferă vederi spectaculoase asupra Văii Iordanului și a peisajului deșertic.",
+                  "category": "natural",
+                  "coords": [
+                        35.430547,
+                        32.059116
+                  ]
+            },
+            {
+                  "name": "Sartava;Sartaba",
+                  "text": "Un vârf istoric cu ruinele unei cetăți hasmoneene și vedere panoramică asupra Văii Iordanului.",
+                  "category": "natural",
+                  "coords": [
+                        35.461768,
+                        32.096197
+                  ]
+            },
+            {
+                  "name": "Gilgal, the camp of the 12 tribes",
+                  "text": "Un monument biblic care comemorează prima tabără a israeliților după traversarea râului Iordan.",
+                  "category": "historical",
+                  "coords": [
+                        35.462509,
+                        32.056305
+                  ]
+            },
+            {
+                  "name": "Habikka memorial",
+                  "text": "Un monument impunător în Valea Iordanului, dedicat soldaților căzuți în conflictele din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        35.461605,
+                        32.053196
+                  ]
+            },
+            {
+                  "name": "Gilgal I",
+                  "text": "Un sit arheologic din neoliticul timpuriu, faimos pentru structurile sale antice bine conservate și descoperirile făcute aici.",
+                  "category": "historical",
+                  "coords": [
+                        35.475499,
+                        32.032801
+                  ]
+            },
+            {
+                  "name": "Sartaba",
+                  "text": "O arie protejată care înconjoară muntele distinctiv în formă de con, adăpostind floră și faună unică de deșert.",
+                  "category": "natural",
+                  "coords": [
+                        35.449293,
+                        32.090397
+                  ]
+            },
+            {
+                  "name": "Adam Bridge",
+                  "text": "O rezervație naturală care cuprinde zona din jurul punctului istoric de trecere peste râul Iordan.",
+                  "category": "natural",
+                  "coords": [
+                        35.537822,
+                        32.112399
+                  ]
+            },
+            {
+                  "name": "Fasayel Mosque",
+                  "text": "O moschee comunitară care deservește satul Fasayel, situată lângă ruinele palatului herodian antic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.437008,
+                        32.032589
+                  ]
+            },
+            {
+                  "name": "Fasayel new mosque",
+                  "text": "O moschee nou construită, cu fațadă albă, care deservește comunitatea în expansiune din Valea Iordanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443968,
+                        32.02333
+                  ]
+            },
+            {
+                  "name": "Fasayal Mosque",
+                  "text": "Un lăcaș de cult situat în peisajul arid al așezării Fasayel din Valea Iordanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443875,
+                        32.026259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orev Viewpoint",
+                  "text": "A panoramic lookout point offering sweeping views of the Jordan Valley and the desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        35.430547,
+                        32.059116
+                  ]
+            },
+            {
+                  "name": "Sartava;Sartaba",
+                  "text": "A historic peak featuring the ruins of a Hasmonean fortress and panoramic views of the Jordan Valley.",
+                  "category": "natural",
+                  "coords": [
+                        35.461768,
+                        32.096197
+                  ]
+            },
+            {
+                  "name": "Gilgal, the camp of the 12 tribes",
+                  "text": "A biblical monument commemorating the first camp of the Israelites after crossing the Jordan River.",
+                  "category": "historical",
+                  "coords": [
+                        35.462509,
+                        32.056305
+                  ]
+            },
+            {
+                  "name": "Habikka memorial",
+                  "text": "A striking monument in the Jordan Valley dedicated to soldiers who fell in the region's conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        35.461605,
+                        32.053196
+                  ]
+            },
+            {
+                  "name": "Gilgal I",
+                  "text": "An early Neolithic archaeological site famous for its well-preserved ancient structures and findings.",
+                  "category": "historical",
+                  "coords": [
+                        35.475499,
+                        32.032801
+                  ]
+            },
+            {
+                  "name": "Sartaba",
+                  "text": "A protected area surrounding the distinctive cone-shaped mountain, home to unique desert flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        35.449293,
+                        32.090397
+                  ]
+            },
+            {
+                  "name": "Adam Bridge",
+                  "text": "A nature reserve encompassing the area around the historic crossing point over the Jordan River.",
+                  "category": "natural",
+                  "coords": [
+                        35.537822,
+                        32.112399
+                  ]
+            },
+            {
+                  "name": "Fasayel Mosque",
+                  "text": "A community mosque serving the village of Fasayel, located near the ruins of the ancient Herodian palace.",
+                  "category": "landmark",
+                  "coords": [
+                        35.437008,
+                        32.032589
+                  ]
+            },
+            {
+                  "name": "Fasayel new mosque",
+                  "text": "A newly constructed mosque with a white facade serving the expanding community in the Jordan Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443968,
+                        32.02333
+                  ]
+            },
+            {
+                  "name": "Fasayal Mosque",
+                  "text": "A place of worship located in the arid landscape of the Fasayel settlement in the Jordan Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.443875,
+                        32.026259
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "mountain",
     name: { de: "Sartaba", hu: "Szartaba", ro: "Sartaba", en: "Mount Sartaba" },
@@ -138,7 +840,772 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-mount-sartaba-relief-v2.webp",
   },
   {
-    id: "palestine-samarian-highlands-relief-v2",
+    id: "palestine-samarian-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anan Odeh Home",
+                  "text": "Ein historisches Wohngebäude im samarischen Hochland mit burgähnlichen Merkmalen.",
+                  "category": "castle",
+                  "coords": [
+                        35.252299,
+                        32.138298
+                  ]
+            },
+            {
+                  "name": "Tayel howwari Villa",
+                  "text": "Eine bemerkenswerte historische Villa und Residenz in der Region des samarischen Hochlands.",
+                  "category": "castle",
+                  "coords": [
+                        35.253192,
+                        32.140935
+                  ]
+            },
+            {
+                  "name": "Al Ateek",
+                  "text": "Ein lokaler Theaterort, der kulturelle Unterhaltung im samarischen Hochland bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.256046,
+                        32.149926
+                  ]
+            },
+            {
+                  "name": "All Yabas",
+                  "text": "Ein Gedenkmonument in der Landschaft des samarischen Hochlands.",
+                  "category": "historical",
+                  "coords": [
+                        35.288597,
+                        32.14499
+                  ]
+            },
+            {
+                  "name": "Ras zied mountain",
+                  "text": "Ein Aussichtspunkt mit weitem Panorama über das samarische Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        35.254189,
+                        32.134137
+                  ]
+            },
+            {
+                  "name": "Osrien Big Mosque",
+                  "text": "Ein markanter muslimischer Gebetsort, der der Gemeinde im samarischen Hochland dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.309783,
+                        32.125056
+                  ]
+            },
+            {
+                  "name": "Ibad Al Rahman",
+                  "text": "Eine muslimische religiöse Stätte im Gebiet des samarischen Hochlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.283689,
+                        32.161232
+                  ]
+            },
+            {
+                  "name": "Oudala Al Kaber",
+                  "text": "Eine Moschee und ein religiöses Zentrum für den muslimischen Glauben im samarischen Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        35.276475,
+                        32.152666
+                  ]
+            },
+            {
+                  "name": "Dar Al Quran Al Karem",
+                  "text": "Ein Zentrum für das Studium des Korans im samarischen Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257079,
+                        32.152366
+                  ]
+            },
+            {
+                  "name": "Hawwarah",
+                  "text": "Eine muslimische religiöse Stätte in der Stadt Hawwarah im samarischen Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        35.258083,
+                        32.149212
+                  ]
+            },
+            {
+                  "name": "Ainabous",
+                  "text": "Eine lokale religiöse Stätte für die muslimische Gemeinschaft im Dorf Ainabous.",
+                  "category": "landmark",
+                  "coords": [
+                        35.244744,
+                        32.14749
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Eine Moschee im samarischen Hochland, die dem Frieden und dem Gebet gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221472,
+                        32.139016
+                  ]
+            },
+            {
+                  "name": "Al-Sabil Mosque",
+                  "text": "Ein Gebetsort für den muslimischen Glauben im samarischen Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        35.24049,
+                        32.145663
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine Gemeindemoschee, die einen Ort für die täglichen Gebete im samarischen Hochland bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.344789,
+                        32.127184
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "Eine Moschee im samarischen Hochland zu Ehren von Othman Bin Afan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.286823,
+                        32.143251
+                  ]
+            },
+            {
+                  "name": "Omar Mosque",
+                  "text": "Ein muslimischer Gebetsort im samarischen Hochland, benannt nach Kalif Omar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.295923,
+                        32.144628
+                  ]
+            },
+            {
+                  "name": "Beita Old Mosque",
+                  "text": "Eine historische Moschee im Dorf Beita, die die traditionelle Architektur im samarischen Hochland repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.284579,
+                        32.138292
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al-Siddiq Mosque",
+                  "text": "Eine Moschee im samarischen Hochland, benannt zu Ehren von Abu Bakr Al-Siddiq.",
+                  "category": "landmark",
+                  "coords": [
+                        35.264144,
+                        32.137159
+                  ]
+            },
+            {
+                  "name": "Al Khilafah Mosque",
+                  "text": "Ein Ort für islamische Gottesdienste und Versammlungen im samarischen Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        35.347278,
+                        32.127475
+                  ]
+            },
+            {
+                  "name": "Owais Bin Amir",
+                  "text": "Ein muslimisches religiöses Wahrzeichen im samarischen Hochland, benannt nach Owais Bin Amir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.344287,
+                        32.130274
+                  ]
+            },
+            {
+                  "name": "Small Mosque",
+                  "text": "Eine bescheidene lokale Moschee, die einen Ort zum Gebet im samarischen Hochland bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.337955,
+                        32.124293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anan Odeh Home",
+                  "text": "Történelmi lakóépület a Szamáriai-felföldön, várkastélyszerű jegyekkel.",
+                  "category": "castle",
+                  "coords": [
+                        35.252299,
+                        32.138298
+                  ]
+            },
+            {
+                  "name": "Tayel howwari Villa",
+                  "text": "Nevezetes történelmi villa és lakóhely a Szamáriai-felföld régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        35.253192,
+                        32.140935
+                  ]
+            },
+            {
+                  "name": "Al Ateek",
+                  "text": "Helyi színházi helyszín, amely kulturális szórakozást nyújt a Szamáriai-felföldön.",
+                  "category": "cultural",
+                  "coords": [
+                        35.256046,
+                        32.149926
+                  ]
+            },
+            {
+                  "name": "All Yabas",
+                  "text": "Emlékmű a Szamáriai-felföld táján.",
+                  "category": "historical",
+                  "coords": [
+                        35.288597,
+                        32.14499
+                  ]
+            },
+            {
+                  "name": "Ras zied mountain",
+                  "text": "Kilátópont, ahonnan széles panoráma nyílik a Szamáriai-felföldre.",
+                  "category": "natural",
+                  "coords": [
+                        35.254189,
+                        32.134137
+                  ]
+            },
+            {
+                  "name": "Osrien Big Mosque",
+                  "text": "Kiemelkedő muszlim istentiszteleti hely a Szamáriai-felföld közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.309783,
+                        32.125056
+                  ]
+            },
+            {
+                  "name": "Ibad Al Rahman",
+                  "text": "Muszlim vallási helyszín a Szamáriai-felföld területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.283689,
+                        32.161232
+                  ]
+            },
+            {
+                  "name": "Oudala Al Kaber",
+                  "text": "Mecset és vallási központ a muszlim hívők számára a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.276475,
+                        32.152666
+                  ]
+            },
+            {
+                  "name": "Dar Al Quran Al Karem",
+                  "text": "A Korán tanulmányozásának szentelt központ a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257079,
+                        32.152366
+                  ]
+            },
+            {
+                  "name": "Hawwarah",
+                  "text": "Muszlim vallási helyszín Hawwarah városában, a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.258083,
+                        32.149212
+                  ]
+            },
+            {
+                  "name": "Ainabous",
+                  "text": "Helyi vallási helyszín a muszlim közösség számára Ainabous faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.244744,
+                        32.14749
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "A békének és az imádságnak szentelt mecset a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221472,
+                        32.139016
+                  ]
+            },
+            {
+                  "name": "Al-Sabil Mosque",
+                  "text": "Muszlim vallási istentiszteleti hely a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.24049,
+                        32.145663
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Közösségi mecset, amely helyet biztosít a napi imádságokhoz a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.344789,
+                        32.127184
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "Othman Bin Afan tiszteletére emelt mecset a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.286823,
+                        32.143251
+                  ]
+            },
+            {
+                  "name": "Omar Mosque",
+                  "text": "Omar kalifáról elnevezett muszlim istentiszteleti hely a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.295923,
+                        32.144628
+                  ]
+            },
+            {
+                  "name": "Beita Old Mosque",
+                  "text": "Történelmi mecset Beita faluban, amely a Szamáriai-felföld hagyományos építészetét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.284579,
+                        32.138292
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al-Siddiq Mosque",
+                  "text": "Abu Bakr Al-Siddiq tiszteletére elnevezett mecset a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.264144,
+                        32.137159
+                  ]
+            },
+            {
+                  "name": "Al Khilafah Mosque",
+                  "text": "Iszlám istentiszteleti és gyülekezési hely a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.347278,
+                        32.127475
+                  ]
+            },
+            {
+                  "name": "Owais Bin Amir",
+                  "text": "Owais Bin Amirről elnevezett muszlim vallási nevezetesség a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.344287,
+                        32.130274
+                  ]
+            },
+            {
+                  "name": "Small Mosque",
+                  "text": "Szerény helyi mecset, amely imádkozási lehetőséget biztosít a Szamáriai-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        35.337955,
+                        32.124293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anan Odeh Home",
+                  "text": "O structură rezidențială istorică din zonele înalte ale Samariei, cu trăsături de castel.",
+                  "category": "castle",
+                  "coords": [
+                        35.252299,
+                        32.138298
+                  ]
+            },
+            {
+                  "name": "Tayel howwari Villa",
+                  "text": "O vilă istorică notabilă și reședință situată în regiunea deluroasă a Samariei.",
+                  "category": "castle",
+                  "coords": [
+                        35.253192,
+                        32.140935
+                  ]
+            },
+            {
+                  "name": "Al Ateek",
+                  "text": "Un teatru local care oferă divertisment cultural în zonele înalte ale Samariei.",
+                  "category": "cultural",
+                  "coords": [
+                        35.256046,
+                        32.149926
+                  ]
+            },
+            {
+                  "name": "All Yabas",
+                  "text": "Un monument comemorativ situat în peisajul zonelor înalte ale Samariei.",
+                  "category": "historical",
+                  "coords": [
+                        35.288597,
+                        32.14499
+                  ]
+            },
+            {
+                  "name": "Ras zied mountain",
+                  "text": "Un punct de belvedere care oferă panorame largi asupra zonelor înalte ale Samariei.",
+                  "category": "natural",
+                  "coords": [
+                        35.254189,
+                        32.134137
+                  ]
+            },
+            {
+                  "name": "Osrien Big Mosque",
+                  "text": "Un loc de cult musulman proeminent care deservește comunitatea din zonele înalte ale Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.309783,
+                        32.125056
+                  ]
+            },
+            {
+                  "name": "Ibad Al Rahman",
+                  "text": "Un sit religios musulman situat în zona dealurilor Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.283689,
+                        32.161232
+                  ]
+            },
+            {
+                  "name": "Oudala Al Kaber",
+                  "text": "O moschee și un centru religios pentru credința musulmană din zonele înalte ale Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.276475,
+                        32.152666
+                  ]
+            },
+            {
+                  "name": "Dar Al Quran Al Karem",
+                  "text": "Un centru dedicat studiului Coranului în zonele înalte ale Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257079,
+                        32.152366
+                  ]
+            },
+            {
+                  "name": "Hawwarah",
+                  "text": "Un sit religios musulman din orașul Hawwarah, în zonele înalte ale Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.258083,
+                        32.149212
+                  ]
+            },
+            {
+                  "name": "Ainabous",
+                  "text": "Un sit religios local pentru comunitatea musulmană din satul Ainabous.",
+                  "category": "landmark",
+                  "coords": [
+                        35.244744,
+                        32.14749
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "O moschee din zonele înalte ale Samariei, dedicată păcii și rugăciunii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221472,
+                        32.139016
+                  ]
+            },
+            {
+                  "name": "Al-Sabil Mosque",
+                  "text": "Un loc de cult pentru credința musulmană situat în zonele înalte ale Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.24049,
+                        32.145663
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee comunitară care oferă un loc pentru rugăciunile zilnice în zonele înalte ale Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.344789,
+                        32.127184
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "O moschee din zonele înalte ale Samariei, care îl onorează pe Othman Bin Afan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.286823,
+                        32.143251
+                  ]
+            },
+            {
+                  "name": "Omar Mosque",
+                  "text": "Un loc de cult musulman din zonele înalte ale Samariei, numit după califul Omar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.295923,
+                        32.144628
+                  ]
+            },
+            {
+                  "name": "Beita Old Mosque",
+                  "text": "O moschee istorică din satul Beita, reprezentând arhitectura tradițională din zonele înalte ale Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.284579,
+                        32.138292
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al-Siddiq Mosque",
+                  "text": "O moschee din zonele înalte ale Samariei, numită în onoarea lui Abu Bakr Al-Siddiq.",
+                  "category": "landmark",
+                  "coords": [
+                        35.264144,
+                        32.137159
+                  ]
+            },
+            {
+                  "name": "Al Khilafah Mosque",
+                  "text": "Un loc pentru cultul islamic și adunare situat în zonele înalte ale Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.347278,
+                        32.127475
+                  ]
+            },
+            {
+                  "name": "Owais Bin Amir",
+                  "text": "Un punct de reper religios musulman din zonele înalte ale Samariei, numit după Owais Bin Amir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.344287,
+                        32.130274
+                  ]
+            },
+            {
+                  "name": "Small Mosque",
+                  "text": "O moschee locală modestă care oferă un loc de rugăciune în zonele înalte ale Samariei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.337955,
+                        32.124293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anan Odeh Home",
+                  "text": "A historic residential structure in the Samarian Highlands with castle-like features.",
+                  "category": "castle",
+                  "coords": [
+                        35.252299,
+                        32.138298
+                  ]
+            },
+            {
+                  "name": "Tayel howwari Villa",
+                  "text": "A notable historic villa and residence located in the Samarian Highlands region.",
+                  "category": "castle",
+                  "coords": [
+                        35.253192,
+                        32.140935
+                  ]
+            },
+            {
+                  "name": "Al Ateek",
+                  "text": "A local theatre venue providing cultural entertainment in the Samarian Highlands.",
+                  "category": "cultural",
+                  "coords": [
+                        35.256046,
+                        32.149926
+                  ]
+            },
+            {
+                  "name": "All Yabas",
+                  "text": "A commemorative monument standing in the Samarian Highlands landscape.",
+                  "category": "historical",
+                  "coords": [
+                        35.288597,
+                        32.14499
+                  ]
+            },
+            {
+                  "name": "Ras zied mountain",
+                  "text": "A scenic viewpoint offering broad panoramas over the Samarian Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        35.254189,
+                        32.134137
+                  ]
+            },
+            {
+                  "name": "Osrien Big Mosque",
+                  "text": "A prominent Muslim place of worship serving the community in the Samarian Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.309783,
+                        32.125056
+                  ]
+            },
+            {
+                  "name": "Ibad Al Rahman",
+                  "text": "A Muslim religious site located within the Samarian Highlands area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.283689,
+                        32.161232
+                  ]
+            },
+            {
+                  "name": "Oudala Al Kaber",
+                  "text": "A mosque and religious center for the Muslim faith in the Samarian Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.276475,
+                        32.152666
+                  ]
+            },
+            {
+                  "name": "Dar Al Quran Al Karem",
+                  "text": "A center dedicated to the study of the Quran in the Samarian Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257079,
+                        32.152366
+                  ]
+            },
+            {
+                  "name": "Hawwarah",
+                  "text": "A Muslim religious site in the town of Hawwarah within the Samarian Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.258083,
+                        32.149212
+                  ]
+            },
+            {
+                  "name": "Ainabous",
+                  "text": "A local religious site for the Muslim community in the village of Ainabous.",
+                  "category": "landmark",
+                  "coords": [
+                        35.244744,
+                        32.14749
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "A-Salam Mosque is a place of worship in the Samarian Highlands dedicated to peace.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221472,
+                        32.139016
+                  ]
+            },
+            {
+                  "name": "Al-Sabil Mosque",
+                  "text": "A place of worship for the Muslim faith located in the Samarian Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.24049,
+                        32.145663
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A community mosque providing a place for daily prayers in the Samarian Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.344789,
+                        32.127184
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "A mosque in the Samarian Highlands honoring Othman Bin Afan.",
+                  "category": "landmark",
+                  "coords": [
+                        35.286823,
+                        32.143251
+                  ]
+            },
+            {
+                  "name": "Omar Mosque",
+                  "text": "A Muslim place of worship in the Samarian Highlands named after Caliph Omar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.295923,
+                        32.144628
+                  ]
+            },
+            {
+                  "name": "Beita Old Mosque",
+                  "text": "A historic mosque in the village of Beita, representing traditional architecture in the Samarian Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.284579,
+                        32.138292
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Al-Siddiq Mosque",
+                  "text": "A mosque in the Samarian Highlands named in honor of Abu Bakr Al-Siddiq.",
+                  "category": "landmark",
+                  "coords": [
+                        35.264144,
+                        32.137159
+                  ]
+            },
+            {
+                  "name": "Al Khilafah Mosque",
+                  "text": "A place for Islamic worship and gathering located in the Samarian Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.347278,
+                        32.127475
+                  ]
+            },
+            {
+                  "name": "Owais Bin Amir",
+                  "text": "A Muslim religious landmark in the Samarian Highlands named after Owais Bin Amir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.344287,
+                        32.130274
+                  ]
+            },
+            {
+                  "name": "Small Mosque",
+                  "text": "A modest local mosque providing a place for prayer in the Samarian Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        35.337955,
+                        32.124293
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "landmark",
     name: { de: "Samarisches Hochland", hu: "Szamáriai-hegyvidék", ro: "Podișul Samariei", en: "Samarian Highlands" },
@@ -228,7 +1695,772 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-wadi-ghazza-relief-v2.webp",
   },
   {
-    id: "palestine-mount-muntar-relief-v2",
+    id: "palestine-mount-muntar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "7up",
+                  "text": "7up ist eine lokale Attraktion in der Region des Berges Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.479702,
+                        31.512887
+                  ]
+            },
+            {
+                  "name": "Ayaat Studio",
+                  "text": "Das Ayaat Studio ist ein Kunstzentrum am Berg Muntar.",
+                  "category": "cultural",
+                  "coords": [
+                        34.46938,
+                        31.500946
+                  ]
+            },
+            {
+                  "name": "Ibn Othman Mosque",
+                  "text": "Die Ibn Othman Mosque ist eine Kultstätte in der Gegend des Berges Muntar.",
+                  "category": "religious",
+                  "coords": [
+                        34.469362,
+                        31.499793
+                  ]
+            },
+            {
+                  "name": "Amar ben Yasser Mosque",
+                  "text": "Die Amar ben Yasser Mosque ist ein islamisches Heiligtum am Berg Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.482447,
+                        31.510096
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Die Al Rahman Mosque ist eine weitere Moschee in der Muntar-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        34.485333,
+                        31.514938
+                  ]
+            },
+            {
+                  "name": "Al-Hussein Mosque",
+                  "text": "Die Al-Hussein Mosque ist eine lokale muslimische Kultstätte am Berg Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.487503,
+                        31.509057
+                  ]
+            },
+            {
+                  "name": "Qebaa Mosque",
+                  "text": "Die Qebaa Mosque dient der lokalen Gemeinschaft am Berg Muntar als Kultstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        34.481059,
+                        31.518415
+                  ]
+            },
+            {
+                  "name": "Al-Maghazeen Mosque",
+                  "text": "Die Al-Maghazeen Mosque ist eine bekannte Moschee in der Region des Berges Muntar.",
+                  "category": "religious",
+                  "coords": [
+                        34.473136,
+                        31.501004
+                  ]
+            },
+            {
+                  "name": "Al-Sayyed Ali Mosque",
+                  "text": "Die Al-Sayyed Ali Mosque ist eine islamische Stätte am Berg Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.471237,
+                        31.501215
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Die Al-Haq Mosque lädt Gläubige in der Nähe des Berges Muntar zum Gebet ein.",
+                  "category": "landmark",
+                  "coords": [
+                        34.472258,
+                        31.499078
+                  ]
+            },
+            {
+                  "name": "Al-Shuhda Mosque",
+                  "text": "Die Al-Shuhda Mosque ist ein Ort der Andacht in der Umgebung des Berges Muntar.",
+                  "category": "religious",
+                  "coords": [
+                        34.475356,
+                        31.499889
+                  ]
+            },
+            {
+                  "name": "Mosque and Cemetery Aal Besaso",
+                  "text": "Die Mosque and Cemetery Aal Besaso kombinieren eine Moschee und einen Friedhof am Berg Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.476152,
+                        31.495083
+                  ]
+            },
+            {
+                  "name": "Tareq Bin Zeyad Mosque",
+                  "text": "Die Tareq Bin Zeyad Mosque ist eine muslimische Kultstätte in der Nähe des Berges Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.47351,
+                        31.492598
+                  ]
+            },
+            {
+                  "name": "Al-Redwan Mosque",
+                  "text": "Die Al-Redwan-Moschee ist eine lokale muslimische Gebetsstätte in dieser Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        34.46907,
+                        31.492605
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "Die Al-Huda-Moschee ist ein islamisches Gotteshaus, das der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.470405,
+                        31.497949
+                  ]
+            },
+            {
+                  "name": "Shuhadaa Al-Shejaeya Mosque",
+                  "text": "Die Shuhadaa-Al-Shejaeya-Moschee ist ein islamisches Zentrum in dieser Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.467473,
+                        31.49054
+                  ]
+            },
+            {
+                  "name": "Al-Shaheed Ahmad Yaseen Mosque",
+                  "text": "Die Al-Shaheed-Ahmad-Yaseen-Moschee ist ein lokaler Ort der muslimischen Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        34.468906,
+                        31.487947
+                  ]
+            },
+            {
+                  "name": "Al-Morabeteen",
+                  "text": "Al-Morabeteen ist eine islamische Stätte in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.481686,
+                        31.496004
+                  ]
+            },
+            {
+                  "name": "Al-Basheer Mosque",
+                  "text": "Die Al-Basheer-Moschee dient als muslimische Kultstätte in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        34.48224,
+                        31.502328
+                  ]
+            },
+            {
+                  "name": "Khadeeja Bent Khowayled",
+                  "text": "Khadeeja Bent Khowayled ist eine muslimische Stätte, die dem Gebet gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.49094,
+                        31.501485
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Die Al-Salam-Moschee ist eine islamische Gebetsstätte in dieser Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        34.486279,
+                        31.495436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "7up",
+                  "text": "A 7up egy helyi látványosság a Muntar-hegy régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.479702,
+                        31.512887
+                  ]
+            },
+            {
+                  "name": "Ayaat Studio",
+                  "text": "Az Ayaat Studio egy művészeti központ a Muntar-hegynél.",
+                  "category": "cultural",
+                  "coords": [
+                        34.46938,
+                        31.500946
+                  ]
+            },
+            {
+                  "name": "Ibn Othman Mosque",
+                  "text": "Az Ibn Othman Mosque egy istentiszteleti hely a Muntar-hegy környékén.",
+                  "category": "religious",
+                  "coords": [
+                        34.469362,
+                        31.499793
+                  ]
+            },
+            {
+                  "name": "Amar ben Yasser Mosque",
+                  "text": "Az Amar ben Yasser Mosque egy iszlám szentély a Muntar-hegynél.",
+                  "category": "landmark",
+                  "coords": [
+                        34.482447,
+                        31.510096
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Az Al Rahman Mosque egy újabb mecset a Muntar régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.485333,
+                        31.514938
+                  ]
+            },
+            {
+                  "name": "Al-Hussein Mosque",
+                  "text": "Az Al-Hussein Mosque egy helyi muszlim imahely a Muntar-hegynél.",
+                  "category": "landmark",
+                  "coords": [
+                        34.487503,
+                        31.509057
+                  ]
+            },
+            {
+                  "name": "Qebaa Mosque",
+                  "text": "A Qebaa Mosque a helyi közösség imahelyeként szolgál a Muntar-hegynél.",
+                  "category": "landmark",
+                  "coords": [
+                        34.481059,
+                        31.518415
+                  ]
+            },
+            {
+                  "name": "Al-Maghazeen Mosque",
+                  "text": "Az Al-Maghazeen Mosque egy ismert mecset a Muntar-hegy régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        34.473136,
+                        31.501004
+                  ]
+            },
+            {
+                  "name": "Al-Sayyed Ali Mosque",
+                  "text": "Az Al-Sayyed Ali Mosque egy iszlám helyszín a Muntar-hegynél.",
+                  "category": "landmark",
+                  "coords": [
+                        34.471237,
+                        31.501215
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Az Al-Haq Mosque imára hívja a hívőket a Muntar-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.472258,
+                        31.499078
+                  ]
+            },
+            {
+                  "name": "Al-Shuhda Mosque",
+                  "text": "Az Al-Shuhda Mosque az áhítat helye a Muntar-hegy környékén.",
+                  "category": "religious",
+                  "coords": [
+                        34.475356,
+                        31.499889
+                  ]
+            },
+            {
+                  "name": "Mosque and Cemetery Aal Besaso",
+                  "text": "A Mosque and Cemetery Aal Besaso egy mecsetet és egy temetőt foglal magában a Muntar-hegynél.",
+                  "category": "landmark",
+                  "coords": [
+                        34.476152,
+                        31.495083
+                  ]
+            },
+            {
+                  "name": "Tareq Bin Zeyad Mosque",
+                  "text": "A Tareq Bin Zeyad Mosque egy muszlim imahely a Muntar-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        34.47351,
+                        31.492598
+                  ]
+            },
+            {
+                  "name": "Al-Redwan Mosque",
+                  "text": "Az Al-Redwan mecset egy helyi muszlim imahely ezen a területen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.46907,
+                        31.492605
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "Az Al-Huda mecset egy iszlám imahely, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        34.470405,
+                        31.497949
+                  ]
+            },
+            {
+                  "name": "Shuhadaa Al-Shejaeya Mosque",
+                  "text": "A Shuhadaa Al-Shejaeya mecset egy iszlám központ ebben a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.467473,
+                        31.49054
+                  ]
+            },
+            {
+                  "name": "Al-Shaheed Ahmad Yaseen Mosque",
+                  "text": "Az Al-Shaheed Ahmad Yaseen mecset egy helyi muszlim imahely.",
+                  "category": "landmark",
+                  "coords": [
+                        34.468906,
+                        31.487947
+                  ]
+            },
+            {
+                  "name": "Al-Morabeteen",
+                  "text": "Az Al-Morabeteen egy iszlám helyszín a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.481686,
+                        31.496004
+                  ]
+            },
+            {
+                  "name": "Al-Basheer Mosque",
+                  "text": "Az Al-Basheer mecset muszlim istentiszteleti helyként szolgál a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.48224,
+                        31.502328
+                  ]
+            },
+            {
+                  "name": "Khadeeja Bent Khowayled",
+                  "text": "A Khadeeja Bent Khowayled egy imádkozásnak szentelt muszlim helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        34.49094,
+                        31.501485
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Az Al-Salam mecset egy iszlám imahely ezen a területen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.486279,
+                        31.495436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "7up",
+                  "text": "7up este o atracție locală în regiunea Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.479702,
+                        31.512887
+                  ]
+            },
+            {
+                  "name": "Ayaat Studio",
+                  "text": "Ayaat Studio este un centru de arte din zona Mount Muntar.",
+                  "category": "cultural",
+                  "coords": [
+                        34.46938,
+                        31.500946
+                  ]
+            },
+            {
+                  "name": "Ibn Othman Mosque",
+                  "text": "Ibn Othman Mosque este un lăcaș de cult din zona Mount Muntar.",
+                  "category": "religious",
+                  "coords": [
+                        34.469362,
+                        31.499793
+                  ]
+            },
+            {
+                  "name": "Amar ben Yasser Mosque",
+                  "text": "Amar ben Yasser Mosque este un sanctuar islamic din Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.482447,
+                        31.510096
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Al Rahman Mosque este o altă moschee din regiunea Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.485333,
+                        31.514938
+                  ]
+            },
+            {
+                  "name": "Al-Hussein Mosque",
+                  "text": "Al-Hussein Mosque este un lăcaș de cult musulman local din Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.487503,
+                        31.509057
+                  ]
+            },
+            {
+                  "name": "Qebaa Mosque",
+                  "text": "Qebaa Mosque servește comunitatea locală ca lăcaș de cult în Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.481059,
+                        31.518415
+                  ]
+            },
+            {
+                  "name": "Al-Maghazeen Mosque",
+                  "text": "Al-Maghazeen Mosque este o moschee cunoscută din regiunea Mount Muntar.",
+                  "category": "religious",
+                  "coords": [
+                        34.473136,
+                        31.501004
+                  ]
+            },
+            {
+                  "name": "Al-Sayyed Ali Mosque",
+                  "text": "Al-Sayyed Ali Mosque este un sit islamic din Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.471237,
+                        31.501215
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Al-Haq Mosque cheamă credincioșii la rugăciune în apropiere de Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.472258,
+                        31.499078
+                  ]
+            },
+            {
+                  "name": "Al-Shuhda Mosque",
+                  "text": "Al-Shuhda Mosque este un loc de rugăciune în zona Mount Muntar.",
+                  "category": "religious",
+                  "coords": [
+                        34.475356,
+                        31.499889
+                  ]
+            },
+            {
+                  "name": "Mosque and Cemetery Aal Besaso",
+                  "text": "Mosque and Cemetery Aal Besaso combină o moschee și un cimitir în Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.476152,
+                        31.495083
+                  ]
+            },
+            {
+                  "name": "Tareq Bin Zeyad Mosque",
+                  "text": "Tareq Bin Zeyad Mosque este un lăcaș de cult musulman lângă Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.47351,
+                        31.492598
+                  ]
+            },
+            {
+                  "name": "Al-Redwan Mosque",
+                  "text": "Moscheea Al-Redwan este un lăcaș de cult musulman local din această zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        34.46907,
+                        31.492605
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "Moscheea Al-Huda este un lăcaș de cult islamic care deservește comunitatea.",
+                  "category": "landmark",
+                  "coords": [
+                        34.470405,
+                        31.497949
+                  ]
+            },
+            {
+                  "name": "Shuhadaa Al-Shejaeya Mosque",
+                  "text": "Moscheea Shuhadaa Al-Shejaeya este un centru islamic din acest oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        34.467473,
+                        31.49054
+                  ]
+            },
+            {
+                  "name": "Al-Shaheed Ahmad Yaseen Mosque",
+                  "text": "Moscheea Al-Shaheed Ahmad Yaseen este un loc local de rugăciune musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        34.468906,
+                        31.487947
+                  ]
+            },
+            {
+                  "name": "Al-Morabeteen",
+                  "text": "Al-Morabeteen este un sit islamic din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        34.481686,
+                        31.496004
+                  ]
+            },
+            {
+                  "name": "Al-Basheer Mosque",
+                  "text": "Moscheea Al-Basheer servește ca lăcaș de cult musulman în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        34.48224,
+                        31.502328
+                  ]
+            },
+            {
+                  "name": "Khadeeja Bent Khowayled",
+                  "text": "Khadeeja Bent Khowayled este un loc musulman dedicat rugăciunii.",
+                  "category": "landmark",
+                  "coords": [
+                        34.49094,
+                        31.501485
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Moscheea Al-Salam este un lăcaș de cult islamic din această zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        34.486279,
+                        31.495436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "7up",
+                  "text": "7up is a local attraction in the Mount Muntar region.",
+                  "category": "landmark",
+                  "coords": [
+                        34.479702,
+                        31.512887
+                  ]
+            },
+            {
+                  "name": "Ayaat Studio",
+                  "text": "The Ayaat Studio is an arts centre at Mount Muntar.",
+                  "category": "cultural",
+                  "coords": [
+                        34.46938,
+                        31.500946
+                  ]
+            },
+            {
+                  "name": "Ibn Othman Mosque",
+                  "text": "The Ibn Othman Mosque is a place of worship in the Mount Muntar area.",
+                  "category": "religious",
+                  "coords": [
+                        34.469362,
+                        31.499793
+                  ]
+            },
+            {
+                  "name": "Amar ben Yasser Mosque",
+                  "text": "The Amar ben Yasser Mosque is an Islamic sanctuary at Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.482447,
+                        31.510096
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "The Al Rahman Mosque is another mosque in the Mount Muntar region.",
+                  "category": "landmark",
+                  "coords": [
+                        34.485333,
+                        31.514938
+                  ]
+            },
+            {
+                  "name": "Al-Hussein Mosque",
+                  "text": "The Al-Hussein Mosque is a local Muslim place of worship at Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.487503,
+                        31.509057
+                  ]
+            },
+            {
+                  "name": "Qebaa Mosque",
+                  "text": "The Qebaa Mosque serves the local community as a place of worship at Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.481059,
+                        31.518415
+                  ]
+            },
+            {
+                  "name": "Al-Maghazeen Mosque",
+                  "text": "The Al-Maghazeen Mosque is a known mosque in the Mount Muntar region.",
+                  "category": "religious",
+                  "coords": [
+                        34.473136,
+                        31.501004
+                  ]
+            },
+            {
+                  "name": "Al-Sayyed Ali Mosque",
+                  "text": "The Al-Sayyed Ali Mosque is an Islamic site at Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.471237,
+                        31.501215
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "The Al-Haq Mosque invites worshippers to pray near Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.472258,
+                        31.499078
+                  ]
+            },
+            {
+                  "name": "Al-Shuhda Mosque",
+                  "text": "The Al-Shuhda Mosque is a place of devotion in the Mount Muntar area.",
+                  "category": "religious",
+                  "coords": [
+                        34.475356,
+                        31.499889
+                  ]
+            },
+            {
+                  "name": "Mosque and Cemetery Aal Besaso",
+                  "text": "The Mosque and Cemetery Aal Besaso combine a mosque and a cemetery at Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.476152,
+                        31.495083
+                  ]
+            },
+            {
+                  "name": "Tareq Bin Zeyad Mosque",
+                  "text": "The Tareq Bin Zeyad Mosque is a Muslim place of worship near Mount Muntar.",
+                  "category": "landmark",
+                  "coords": [
+                        34.47351,
+                        31.492598
+                  ]
+            },
+            {
+                  "name": "Al-Redwan Mosque",
+                  "text": "The Al-Redwan Mosque is a local Muslim place of worship in this area.",
+                  "category": "landmark",
+                  "coords": [
+                        34.46907,
+                        31.492605
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "The Al-Huda Mosque is an Islamic place of worship serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        34.470405,
+                        31.497949
+                  ]
+            },
+            {
+                  "name": "Shuhadaa Al-Shejaeya Mosque",
+                  "text": "The Shuhadaa Al-Shejaeya Mosque is an Islamic center in this city.",
+                  "category": "landmark",
+                  "coords": [
+                        34.467473,
+                        31.49054
+                  ]
+            },
+            {
+                  "name": "Al-Shaheed Ahmad Yaseen Mosque",
+                  "text": "The Al-Shaheed Ahmad Yaseen Mosque is a local place of Muslim worship.",
+                  "category": "landmark",
+                  "coords": [
+                        34.468906,
+                        31.487947
+                  ]
+            },
+            {
+                  "name": "Al-Morabeteen",
+                  "text": "Al-Morabeteen is an Islamic site located in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        34.481686,
+                        31.496004
+                  ]
+            },
+            {
+                  "name": "Al-Basheer Mosque",
+                  "text": "The Al-Basheer Mosque serves as a Muslim place of worship in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        34.48224,
+                        31.502328
+                  ]
+            },
+            {
+                  "name": "Khadeeja Bent Khowayled",
+                  "text": "Khadeeja Bent Khowayled is a Muslim site dedicated to prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        34.49094,
+                        31.501485
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "The Al-Salam Mosque is an Islamic place of worship in this area.",
+                  "category": "landmark",
+                  "coords": [
+                        34.486279,
+                        31.495436
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "peak",
     name: { de: "Muntar-Hügel", hu: "Muntar-domb", ro: "Dealul Muntar", en: "Mount Muntar" },
@@ -273,7 +2505,124 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-mount-muntar-relief-v2.webp",
   },
   {
-    id: "palestine-mount-tamun-relief-v2",
+    id: "palestine-mount-tamun-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "el 'Unuq",
+                  "text": "Eine archäologische Stätte auf einem Bergrücken, die für ihre antiken Terrassenmauern und Steineinfriedungen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        35.370832,
+                        32.249658
+                  ]
+            },
+            {
+                  "name": "Tell Miske",
+                  "text": "Ein antiker Siedlungshügel, auf dem Keramikfunde und Mauerreste auf eine Besiedlung seit der Bronzezeit hinweisen.",
+                  "category": "historical",
+                  "coords": [
+                        35.394034,
+                        32.236095
+                  ]
+            },
+            {
+                  "name": "Alnasareah",
+                  "text": "Ein natürlicher Ort mit Thermalquellen, deren mineralreiches Wasser seit langem für seine heilende Wirkung geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        35.396333,
+                        32.241222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "el 'Unuq",
+                  "text": "Régészeti lelőhely egy hegygerincen, amely antik teraszfalairól és kőkerítéseiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        35.370832,
+                        32.249658
+                  ]
+            },
+            {
+                  "name": "Tell Miske",
+                  "text": "Ősi településhalom, ahol kerámialeletek és falmaradványok utalnak a bronzkor óta tartó lakottságra.",
+                  "category": "historical",
+                  "coords": [
+                        35.394034,
+                        32.236095
+                  ]
+            },
+            {
+                  "name": "Alnasareah",
+                  "text": "Természetes helyszín termálforrásokkal, melyek ásványi anyagokban gazdag vizét régóta gyógyhatásúnak tartják.",
+                  "category": "natural",
+                  "coords": [
+                        35.396333,
+                        32.241222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "el 'Unuq",
+                  "text": "Un sit arheologic pe o creastă montană, cunoscut pentru zidurile sale vechi de terasare și incintele de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        35.370832,
+                        32.249658
+                  ]
+            },
+            {
+                  "name": "Tell Miske",
+                  "text": "O movilă de așezare antică unde fragmentele de ceramică și resturile de ziduri indică locuirea încă din Epoca Bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        35.394034,
+                        32.236095
+                  ]
+            },
+            {
+                  "name": "Alnasareah",
+                  "text": "Un loc natural cu izvoare termale ale căror ape bogate în minerale sunt apreciate de mult timp pentru proprietățile curatice.",
+                  "category": "natural",
+                  "coords": [
+                        35.396333,
+                        32.241222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "el 'Unuq",
+                  "text": "An archaeological site on a mountain ridge known for its ancient terraced walls and stone enclosures.",
+                  "category": "historical",
+                  "coords": [
+                        35.370832,
+                        32.249658
+                  ]
+            },
+            {
+                  "name": "Tell Miske",
+                  "text": "An ancient settlement mound where pottery finds and wall remains indicate habitation since the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        35.394034,
+                        32.236095
+                  ]
+            },
+            {
+                  "name": "Alnasareah",
+                  "text": "A natural site with thermal springs whose mineral-rich waters have long been valued for their healing properties.",
+                  "category": "natural",
+                  "coords": [
+                        35.396333,
+                        32.241222
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "mountain",
     name: { de: "Berg Tamun", hu: "Tamun-hegy", ro: "Muntele Tamun", en: "Mount Tamun" },
@@ -363,7 +2712,340 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-herodium-hill-relief-v2.webp",
   },
   {
-    id: "palestine-mount-munidhra-relief-v2",
+    id: "palestine-mount-munidhra-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siris' Oaks",
+                  "text": "Dieses Naturschutzgebiet schützt einen jahrhundertealten Hain einheimischer Eichen entlang der Hänge der Region Mount Munidhra.",
+                  "category": "natural",
+                  "coords": [
+                        35.312816,
+                        32.312652
+                  ]
+            },
+            {
+                  "name": "Salah Al-Din Al-Ayubi Mosque",
+                  "text": "Diese Moschee, die der lokalen muslimischen Gemeinde in der Region Mount Munidhra dient, ist nach dem berühmten historischen Sultan Saladin benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.305144,
+                        32.34304
+                  ]
+            },
+            {
+                  "name": "Al-Bir Waltaqwa mosque",
+                  "text": "Diese Moschee im Gebiet des Mount Munidhra versammelt Gläubige zu den täglichen Gebeten und weist traditionelle islamische Architekturelemente auf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.293165,
+                        32.325531
+                  ]
+            },
+            {
+                  "name": "Al-Farouk Mosque",
+                  "text": "Diese muslimische Kultstätte, die an ihrem markanten Minarett zu erkennen ist, bietet den Bewohnern des Gebiets um den Mount Munidhra spirituelle Orientierung.",
+                  "category": "landmark",
+                  "coords": [
+                        35.290336,
+                        32.327445
+                  ]
+            },
+            {
+                  "name": "Siris Old Mosque",
+                  "text": "Als etablierte religiöse Stätte bewahrt diese alte Moschee das traditionelle Steinmauerwerk, das für die historischen Gebäude der Region Mount Munidhra charakteristisch ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.290508,
+                        32.328753
+                  ]
+            },
+            {
+                  "name": "Abu-Baker Alseddeq mosque",
+                  "text": "Diese lokale Moschee ist dem ersten Kalifen des Islam gewidmet und bildet einen zentralen Versammlungspunkt für Gläubige in der Nähe des Mount Munidhra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.29056,
+                        32.330722
+                  ]
+            },
+            {
+                  "name": "Altawba Mosque",
+                  "text": "Dieses muslimische Heiligtum in der Region Mount Munidhra bietet einen ruhigen Raum der Besinnung und zeichnet sich durch seine klaren, bescheidenen architektonischen Linien aus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.296502,
+                        32.331054
+                  ]
+            },
+            {
+                  "name": "Al-Baraka Mosque",
+                  "text": "Eingebettet in die Landschaft des Mount Munidhra, dient diese Moschee der umliegenden Gemeinde mit täglichen Gebeten und Freitagspredigten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.301604,
+                        32.339745
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "Diese lokale Moschee verfügt über einen gewölbten Eingangsbereich und fungiert als Bildungs- und spirituelles Zentrum für Muslime in der Gegend des Mount Munidhra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.303358,
+                        32.33425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siris' Oaks",
+                  "text": "Ez a természetvédelmi terület egy évszázados, őshonos tölgyfákból álló ligetet véd a Munidhra-hegy lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        35.312816,
+                        32.312652
+                  ]
+            },
+            {
+                  "name": "Salah Al-Din Al-Ayubi Mosque",
+                  "text": "A Munidhra-hegy térségének helyi muszlim közösségét szolgáló mecset a híres történelmi szultán, Szaladin nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.305144,
+                        32.34304
+                  ]
+            },
+            {
+                  "name": "Al-Bir Waltaqwa mosque",
+                  "text": "Ez a Munidhra-hegy térségében található mecset napi imákra gyűjti össze a hívőket, és hagyományos iszlám építészeti elemekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.293165,
+                        32.325531
+                  ]
+            },
+            {
+                  "name": "Al-Farouk Mosque",
+                  "text": "A jellegzetes minaretjéről felismerhető muszlim imahely a Munidhra-hegy térségének lakói számára nyújt szellemi iránymutatást.",
+                  "category": "landmark",
+                  "coords": [
+                        35.290336,
+                        32.327445
+                  ]
+            },
+            {
+                  "name": "Siris Old Mosque",
+                  "text": "Kialakult vallási helyszínként ez a régi mecset megőrizte a Munidhra-hegy térségének történelmi épületeire jellemző hagyományos kőművesmunkát.",
+                  "category": "landmark",
+                  "coords": [
+                        35.290508,
+                        32.328753
+                  ]
+            },
+            {
+                  "name": "Abu-Baker Alseddeq mosque",
+                  "text": "Az iszlám első kalifájának szentelt helyi mecset a hívők központi gyülekezőhelye a Munidhra-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.29056,
+                        32.330722
+                  ]
+            },
+            {
+                  "name": "Altawba Mosque",
+                  "text": "A Munidhra-hegy térségében lévő, letisztult és szerény építészeti vonalak által jellemzett muszlim szentély csendes teret kínál az elmélkedésre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.296502,
+                        32.331054
+                  ]
+            },
+            {
+                  "name": "Al-Baraka Mosque",
+                  "text": "A Munidhra-hegy tájába ágyazott mecset a környező közösséget szolgálja napi imákkal és pénteki prédikációkkal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.301604,
+                        32.339745
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "Az íves bejárattal rendelkező helyi mecset a muszlimok oktatási és szellemi központjaként működik a Munidhra-hegy térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.303358,
+                        32.33425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siris' Oaks",
+                  "text": "Această rezervație naturală protejează o pădurice seculară de stejari nativi de-a lungul pantelor zonei Muntele Munidhra.",
+                  "category": "natural",
+                  "coords": [
+                        35.312816,
+                        32.312652
+                  ]
+            },
+            {
+                  "name": "Salah Al-Din Al-Ayubi Mosque",
+                  "text": "Servind comunitatea musulmană locală din regiunea Muntele Munidhra, această moschee poartă numele faimosului sultan istoric Saladin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.305144,
+                        32.34304
+                  ]
+            },
+            {
+                  "name": "Al-Bir Waltaqwa mosque",
+                  "text": "Această moschee din zona Muntele Munidhra adună credincioșii pentru rugăciunile zilnice și prezintă elemente arhitecturale islamice tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.293165,
+                        32.325531
+                  ]
+            },
+            {
+                  "name": "Al-Farouk Mosque",
+                  "text": "Recunoscut după minaretul său distinctiv, acest lăcaș de cult musulman oferă îndrumare spirituală rezidenților din zona Muntele Munidhra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.290336,
+                        32.327445
+                  ]
+            },
+            {
+                  "name": "Siris Old Mosque",
+                  "text": "Ca un sit religios vechi, această moschee istorică păstrează zidăria tradițională din piatră, caracteristică clădirilor din regiunea Muntele Munidhra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.290508,
+                        32.328753
+                  ]
+            },
+            {
+                  "name": "Abu-Baker Alseddeq mosque",
+                  "text": "Dedicată primului calif al islamului, această moschee locală este un punct central de adunare pentru credincioșii de lângă Muntele Munidhra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.29056,
+                        32.330722
+                  ]
+            },
+            {
+                  "name": "Altawba Mosque",
+                  "text": "Oferind un spațiu liniștit pentru reflecție, acest sanctuar musulman din regiunea Muntele Munidhra este definit de liniile sale arhitecturale curate și modeste.",
+                  "category": "landmark",
+                  "coords": [
+                        35.296502,
+                        32.331054
+                  ]
+            },
+            {
+                  "name": "Al-Baraka Mosque",
+                  "text": "Ascunsă în peisajul de la Muntele Munidhra, această moschee deservește comunitatea din jur cu rugăciuni zilnice și predici de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        35.301604,
+                        32.339745
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "Această moschee locală prezintă o intrare boltită și funcționează ca un centru educațional și spiritual pentru musulmanii din zona Muntele Munidhra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.303358,
+                        32.33425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siris' Oaks",
+                  "text": "This nature reserve protects a centuries-old grove of native oak trees along the slopes of the Mount Munidhra area.",
+                  "category": "natural",
+                  "coords": [
+                        35.312816,
+                        32.312652
+                  ]
+            },
+            {
+                  "name": "Salah Al-Din Al-Ayubi Mosque",
+                  "text": "Serving the local Muslim community in the Mount Munidhra region, this mosque is named after the famed historical sultan Saladin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.305144,
+                        32.34304
+                  ]
+            },
+            {
+                  "name": "Al-Bir Waltaqwa mosque",
+                  "text": "This mosque in the Mount Munidhra area gathers worshippers for daily prayers and features traditional Islamic architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        35.293165,
+                        32.325531
+                  ]
+            },
+            {
+                  "name": "Al-Farouk Mosque",
+                  "text": "Recognizable by its distinctive minaret, this Muslim place of worship provides spiritual guidance for the residents of the Mount Munidhra area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.290336,
+                        32.327445
+                  ]
+            },
+            {
+                  "name": "Siris Old Mosque",
+                  "text": "As an established religious site, this old mosque preserves traditional stone masonry characteristic of the Mount Munidhra region's historic buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        35.290508,
+                        32.328753
+                  ]
+            },
+            {
+                  "name": "Abu-Baker Alseddeq mosque",
+                  "text": "Dedicated to the first caliph of Islam, this local mosque is a central gathering point for worshippers near Mount Munidhra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.29056,
+                        32.330722
+                  ]
+            },
+            {
+                  "name": "Altawba Mosque",
+                  "text": "Providing a quiet space for reflection, this Muslim sanctuary in the Mount Munidhra region is defined by its clean, modest architectural lines.",
+                  "category": "landmark",
+                  "coords": [
+                        35.296502,
+                        32.331054
+                  ]
+            },
+            {
+                  "name": "Al-Baraka Mosque",
+                  "text": "Nestled in the Mount Munidhra landscape, this mosque serves the surrounding community with daily prayers and Friday sermons.",
+                  "category": "landmark",
+                  "coords": [
+                        35.301604,
+                        32.339745
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "This local mosque features an arched entranceway and acts as an educational and spiritual center for Muslims in the Mount Munidhra area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.303358,
+                        32.33425
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "mountain",
     name: { de: "Berg Munidhra", hu: "Munidhra-hegy", ro: "Muntele Munidhra", en: "Mount Munidhra" },
@@ -408,7 +3090,52 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-mount-munidhra-relief-v2.webp",
   },
   {
-    id: "palestine-jenin-hills-relief-v2",
+    id: "palestine-jenin-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abad Al Rahman Mosque",
+                  "text": "Ein spirituelles Heiligtum mit traditionellen islamischen Gestaltungselementen in der Nähe der Hügel von Dschenin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.203548,
+                        32.444384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abad Al Rahman Mosque",
+                  "text": "Hagyományos iszlám dizájnelemekkel rendelkező spirituális szentély Dzsenín dombjai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.203548,
+                        32.444384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abad Al Rahman Mosque",
+                  "text": "Un sanctuar spiritual cu elemente de design islamic tradițional, situat în apropierea dealurilor din Jenin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.203548,
+                        32.444384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abad Al Rahman Mosque",
+                  "text": "A spiritual sanctuary with traditional Islamic design elements located near the hills of Jenin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.203548,
+                        32.444384
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "landmark",
     name: { de: "Hügelland von Jenin", hu: "Dzsenini-dombság", ro: "Dealurile Jeninului", en: "Jenin Hills" },
@@ -453,7 +3180,592 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-jenin-hills-relief-v2.webp",
   },
   {
-    id: "palestine-mount-aziur-relief-v2",
+    id: "palestine-mount-aziur-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbet Qufin",
+                  "text": "Khirbet Qufin umfasst die Ruinen einer antiken Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        35.114018,
+                        31.621026
+                  ]
+            },
+            {
+                  "name": "Gat",
+                  "text": "Gat ist eine faszinierende archäologische Stätte, die Ausgrabungen aus alten Zeiten zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "Jebel al Qarn",
+                  "text": "Der Jebel al Qarn ist ein lokaler Berggipfel mit malerischer Natur.",
+                  "category": "natural",
+                  "coords": [
+                        35.126013,
+                        31.618645
+                  ]
+            },
+            {
+                  "name": "Al-Arroub Women's Association",
+                  "text": "Die Al-Arroub Women's Association fungiert als lebendiges Kunst- und Kulturzentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        35.133583,
+                        31.624171
+                  ]
+            },
+            {
+                  "name": "The Ari Fuld Lookout",
+                  "text": "Der Ari Fuld Lookout ist ein Aussichtspunkt, von dem aus man die Umgebung überblicken kann.",
+                  "category": "natural",
+                  "coords": [
+                        35.136056,
+                        31.636732
+                  ]
+            },
+            {
+                  "name": "Old Al-Arroub",
+                  "text": "Das alte Al-Arroub ist eine archäologische Stätte, die Überreste einer frühen Siedlung bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        35.141894,
+                        31.620555
+                  ]
+            },
+            {
+                  "name": "Beit Midrash Mahanaim",
+                  "text": "Das Beit Midrash Mahanaim ist eine bedeutende jüdische Gebets- und Lernstätte.",
+                  "category": "religious",
+                  "coords": [
+                        35.143325,
+                        31.646616
+                  ]
+            },
+            {
+                  "name": "Asera Mosque",
+                  "text": "Die Asera-Moschee ist ein Ort der spirituellen Zusammenkunft für Muslime in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.111255,
+                        31.6189
+                  ]
+            },
+            {
+                  "name": "Beit Ommar Old Mosque",
+                  "text": "Die alte Moschee von Beit Ommar ist ein historisches muslimisches Gebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10243,
+                        31.620532
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Diese Moschee ist ein zentrales muslimisches Gotteshaus in der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.159541,
+                        31.622923
+                  ]
+            },
+            {
+                  "name": "Beit Ommar Big Mosque",
+                  "text": "Die Beit Ommar Big Mosque ist eine große und architektonisch auffällige muslimische Stätte.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102286,
+                        31.621575
+                  ]
+            },
+            {
+                  "name": "Um Al-Mo'menen Mosque",
+                  "text": "Die Um Al-Mo'menen Moschee ist ein wichtiger religiöser Ort für die muslimische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.134168,
+                        31.622948
+                  ]
+            },
+            {
+                  "name": "Abdalah Azzam Mosque",
+                  "text": "Die Abdalah Azzam Moschee dient der Stadt als muslimisches Gotteshaus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.135158,
+                        31.624981
+                  ]
+            },
+            {
+                  "name": "Migdal Oz",
+                  "text": "Migdal Oz ist ein Zentrum des jüdischen Lebens in dieser Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        35.140926,
+                        31.639131
+                  ]
+            },
+            {
+                  "name": "Ibn Taymeyah Mosque",
+                  "text": "Die Ibn-Taymeyah-Moschee dient als lokales muslimisches Gotteshaus in palestine-mount-aziur-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        35.140739,
+                        31.622847
+                  ]
+            },
+            {
+                  "name": "Al-Safa Mosque",
+                  "text": "Die Al-Safa-Moschee bietet einen Raum für islamische Gebete in palestine-mount-aziur-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        35.154499,
+                        31.621679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbet Qufin",
+                  "text": "A Khirbet Qufin egy ókori település maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        35.114018,
+                        31.621026
+                  ]
+            },
+            {
+                  "name": "Gat",
+                  "text": "Gat egy lenyűgöző régészeti lelőhely ősi ásatásokkal.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "Jebel al Qarn",
+                  "text": "A Jebel al Qarn egy helyi hegycsúcs festői természeti környezettel.",
+                  "category": "natural",
+                  "coords": [
+                        35.126013,
+                        31.618645
+                  ]
+            },
+            {
+                  "name": "Al-Arroub Women's Association",
+                  "text": "Az Al-Arroub Women's Association egy pezsgő művészeti és kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        35.133583,
+                        31.624171
+                  ]
+            },
+            {
+                  "name": "The Ari Fuld Lookout",
+                  "text": "Az Ari Fuld Lookout egy kilátóhely, ahonnan remek rálátás nyílik a vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        35.136056,
+                        31.636732
+                  ]
+            },
+            {
+                  "name": "Old Al-Arroub",
+                  "text": "A régi Al-Arroub egy régészeti terület, amely egy korai település emlékeit őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        35.141894,
+                        31.620555
+                  ]
+            },
+            {
+                  "name": "Beit Midrash Mahanaim",
+                  "text": "A Beit Midrash Mahanaim egy fontos zsidó imaház és tanulmányi központ.",
+                  "category": "religious",
+                  "coords": [
+                        35.143325,
+                        31.646616
+                  ]
+            },
+            {
+                  "name": "Asera Mosque",
+                  "text": "Az Asera-mecset a helyi muszlimok spirituális gyülekezési helye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.111255,
+                        31.6189
+                  ]
+            },
+            {
+                  "name": "Beit Ommar Old Mosque",
+                  "text": "A régi Beit Ommar mecset egy történelmi muszlim épület.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10243,
+                        31.620532
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ez a mecset a helyi muszlim közösség fontos imahelye.",
+                  "category": "landmark",
+                  "coords": [
+                        35.159541,
+                        31.622923
+                  ]
+            },
+            {
+                  "name": "Beit Ommar Big Mosque",
+                  "text": "A Beit Ommar Big Mosque egy nagyméretű, figyelemre méltó építészetű muszlim helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102286,
+                        31.621575
+                  ]
+            },
+            {
+                  "name": "Um Al-Mo'menen Mosque",
+                  "text": "Az Um Al-Mo'menen mecset egy fontos vallási hely a muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.134168,
+                        31.622948
+                  ]
+            },
+            {
+                  "name": "Abdalah Azzam Mosque",
+                  "text": "Az Abdalah Azzam mecset muszlim imaházként szolgál a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.135158,
+                        31.624981
+                  ]
+            },
+            {
+                  "name": "Migdal Oz",
+                  "text": "A Migdal Oz a helyi zsidó élet egyik központja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.140926,
+                        31.639131
+                  ]
+            },
+            {
+                  "name": "Ibn Taymeyah Mosque",
+                  "text": "Az Ibn Taymeyah mecset helyi muszlim istentiszteleti helyként szolgál palestine-mount-aziur-relief-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.140739,
+                        31.622847
+                  ]
+            },
+            {
+                  "name": "Al-Safa Mosque",
+                  "text": "Az Al-Safa mecset iszlám imádkozási helyet biztosít palestine-mount-aziur-relief-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.154499,
+                        31.621679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbet Qufin",
+                  "text": "Khirbet Qufin cuprinde ruinele unei vechi așezări.",
+                  "category": "historical",
+                  "coords": [
+                        35.114018,
+                        31.621026
+                  ]
+            },
+            {
+                  "name": "Gat",
+                  "text": "Gat este un sit arheologic fascinant cu excavații din vremuri străvechi.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "Jebel al Qarn",
+                  "text": "Jebel al Qarn este un vârf montan local cu peisaje pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        35.126013,
+                        31.618645
+                  ]
+            },
+            {
+                  "name": "Al-Arroub Women's Association",
+                  "text": "Asociația Femeilor din Al-Arroub funcționează ca un centru artistic și cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        35.133583,
+                        31.624171
+                  ]
+            },
+            {
+                  "name": "The Ari Fuld Lookout",
+                  "text": "Ari Fuld Lookout este un punct de observare cu o panoramă deosebită a împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        35.136056,
+                        31.636732
+                  ]
+            },
+            {
+                  "name": "Old Al-Arroub",
+                  "text": "Vechiul Al-Arroub este un sit arheologic care păstrează urmele unei așezări timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        35.141894,
+                        31.620555
+                  ]
+            },
+            {
+                  "name": "Beit Midrash Mahanaim",
+                  "text": "Beit Midrash Mahanaim este un lăcaș de cult și de studiu iudaic.",
+                  "category": "religious",
+                  "coords": [
+                        35.143325,
+                        31.646616
+                  ]
+            },
+            {
+                  "name": "Asera Mosque",
+                  "text": "Moscheea Asera este un loc de adunare spirituală pentru musulmanii din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        35.111255,
+                        31.6189
+                  ]
+            },
+            {
+                  "name": "Beit Ommar Old Mosque",
+                  "text": "Vechea moschee Beit Ommar este o clădire musulmană istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10243,
+                        31.620532
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee este un lăcaș central de cult musulman din comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.159541,
+                        31.622923
+                  ]
+            },
+            {
+                  "name": "Beit Ommar Big Mosque",
+                  "text": "Marea Moschee Beit Ommar este un sit musulman spațios, cu o arhitectură impresionantă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102286,
+                        31.621575
+                  ]
+            },
+            {
+                  "name": "Um Al-Mo'menen Mosque",
+                  "text": "Moscheea Um Al-Mo'menen este un loc religios important pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        35.134168,
+                        31.622948
+                  ]
+            },
+            {
+                  "name": "Abdalah Azzam Mosque",
+                  "text": "Moscheea Abdalah Azzam servește drept lăcaș de cult musulman al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.135158,
+                        31.624981
+                  ]
+            },
+            {
+                  "name": "Migdal Oz",
+                  "text": "Migdal Oz este un centru al vieții evreiești din această zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.140926,
+                        31.639131
+                  ]
+            },
+            {
+                  "name": "Ibn Taymeyah Mosque",
+                  "text": "Moscheea Ibn Taymeyah servește ca lăcaș de cult musulman local în palestine-mount-aziur-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        35.140739,
+                        31.622847
+                  ]
+            },
+            {
+                  "name": "Al-Safa Mosque",
+                  "text": "Moscheea Al-Safa oferă un spațiu pentru rugăciunea islamică în palestine-mount-aziur-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        35.154499,
+                        31.621679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbet Qufin",
+                  "text": "Khirbet Qufin encompasses the ruins of an ancient settlement.",
+                  "category": "historical",
+                  "coords": [
+                        35.114018,
+                        31.621026
+                  ]
+            },
+            {
+                  "name": "Gat",
+                  "text": "Gat is a fascinating archaeological site featuring ancient excavations.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "Jebel al Qarn",
+                  "text": "Jebel al Qarn is a local mountain peak surrounded by scenic nature.",
+                  "category": "natural",
+                  "coords": [
+                        35.126013,
+                        31.618645
+                  ]
+            },
+            {
+                  "name": "Al-Arroub Women's Association",
+                  "text": "The Al-Arroub Women's Association operates as a vibrant arts and cultural center.",
+                  "category": "cultural",
+                  "coords": [
+                        35.133583,
+                        31.624171
+                  ]
+            },
+            {
+                  "name": "The Ari Fuld Lookout",
+                  "text": "The Ari Fuld Lookout is a vantage point offering wide views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        35.136056,
+                        31.636732
+                  ]
+            },
+            {
+                  "name": "Old Al-Arroub",
+                  "text": "Old Al-Arroub is an archaeological site preserving the remains of an early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        35.141894,
+                        31.620555
+                  ]
+            },
+            {
+                  "name": "Beit Midrash Mahanaim",
+                  "text": "Beit Midrash Mahanaim is a notable Jewish place of worship and study.",
+                  "category": "religious",
+                  "coords": [
+                        35.143325,
+                        31.646616
+                  ]
+            },
+            {
+                  "name": "Asera Mosque",
+                  "text": "Asera Mosque is a spiritual gathering place for Muslims in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        35.111255,
+                        31.6189
+                  ]
+            },
+            {
+                  "name": "Beit Ommar Old Mosque",
+                  "text": "Beit Ommar Old Mosque is a historic Muslim building in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10243,
+                        31.620532
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This Mosque serves as a central Muslim place of worship in the community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.159541,
+                        31.622923
+                  ]
+            },
+            {
+                  "name": "Beit Ommar Big Mosque",
+                  "text": "Beit Ommar Big Mosque is a large and architecturally striking Muslim site.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102286,
+                        31.621575
+                  ]
+            },
+            {
+                  "name": "Um Al-Mo'menen Mosque",
+                  "text": "Um Al-Mo'menen Mosque is an important religious venue for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.134168,
+                        31.622948
+                  ]
+            },
+            {
+                  "name": "Abdalah Azzam Mosque",
+                  "text": "Abdalah Azzam Mosque serves the city as a Muslim house of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        35.135158,
+                        31.624981
+                  ]
+            },
+            {
+                  "name": "Migdal Oz",
+                  "text": "Migdal Oz is a center of Jewish community life in this area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.140926,
+                        31.639131
+                  ]
+            },
+            {
+                  "name": "Ibn Taymeyah Mosque",
+                  "text": "The Ibn Taymeyah Mosque serves as a local Muslim place of worship in palestine-mount-aziur-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        35.140739,
+                        31.622847
+                  ]
+            },
+            {
+                  "name": "Al-Safa Mosque",
+                  "text": "Al-Safa Mosque provides a space for Islamic prayer in palestine-mount-aziur-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        35.154499,
+                        31.621679
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "peak",
     name: { de: "Berg 'Aziur", hu: "Aziur-hegy", ro: "Muntele 'Aziur", en: "Mount 'Aziur" },
@@ -543,7 +3855,268 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-mount-kanub-relief-v2.webp",
   },
   {
-    id: "palestine-jebel-abu-ghneim-relief-v2",
+    id: "palestine-jebel-abu-ghneim-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Abū Ghunaym",
+                  "text": "Diese archäologischen Überreste befinden sich auf dem strategisch wichtigen Hügel zwischen Jerusalem und Bethlehem.",
+                  "category": "historical",
+                  "coords": [
+                        35.22123,
+                        31.725649
+                  ]
+            },
+            {
+                  "name": "Solomon's Pools aqueduct",
+                  "text": "Überreste des antiken Aquäduktsystems, das einst Wasser von den Teichen Salomos nach Jerusalem leitete.",
+                  "category": "historical",
+                  "coords": [
+                        35.21655,
+                        31.732035
+                  ]
+            },
+            {
+                  "name": "Kathisma",
+                  "text": "Ruinen einer achteckigen byzantinischen Kirche, die an der Stelle errichtet wurde, wo Maria sich ausgeruht haben soll.",
+                  "category": "historical",
+                  "coords": [
+                        35.212783,
+                        31.739224
+                  ]
+            },
+            {
+                  "name": "Har Hamor Yeshiva",
+                  "text": "Eine bedeutende zionistische Jeschiwa im Viertel Har Homa, bekannt für ihre religiösen Studien.",
+                  "category": "religious",
+                  "coords": [
+                        35.217461,
+                        31.727549
+                  ]
+            },
+            {
+                  "name": "The Ramat Gan Archealogical Garden",
+                  "text": "Ein Garten mit archäologischen Fundstücken, der die antike Geschichte und das Erbe der Region präsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        35.216726,
+                        31.739885
+                  ]
+            },
+            {
+                  "name": "Mar Elias",
+                  "text": "Dieses griechisch-orthodoxe Kloster ist traditionell mit einer Rast des Propheten Elias verbunden.",
+                  "category": "religious",
+                  "coords": [
+                        35.211165,
+                        31.73477
+                  ]
+            },
+            {
+                  "name": "Kochvei Or",
+                  "text": "Ein jüdisches religiöses Zentrum und Bildungsinstitut in der Siedlung Har Homa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.222108,
+                        31.721105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Abū Ghunaym",
+                  "text": "Ezek a régészeti maradványok a Jeruzsálem és Betlehem közötti stratégiai dombon találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.22123,
+                        31.725649
+                  ]
+            },
+            {
+                  "name": "Solomon's Pools aqueduct",
+                  "text": "Az ókori vízvezeték-rendszer maradványai, amely egykor Salamon tavaiból szállította a vizet Jeruzsálembe.",
+                  "category": "historical",
+                  "coords": [
+                        35.21655,
+                        31.732035
+                  ]
+            },
+            {
+                  "name": "Kathisma",
+                  "text": "Egy nyolcszögletű bizánci templom romjai, amely azon a helyen épült, ahol a hagyomány szerint Mária megpihent.",
+                  "category": "historical",
+                  "coords": [
+                        35.212783,
+                        31.739224
+                  ]
+            },
+            {
+                  "name": "Har Hamor Yeshiva",
+                  "text": "Egy jelentős cionista jesiva Har Homa negyedében, amely vallási tanulmányairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        35.217461,
+                        31.727549
+                  ]
+            },
+            {
+                  "name": "The Ramat Gan Archealogical Garden",
+                  "text": "Régészeti leleteket bemutató kert, amely a régió ókori történelmét és örökségét tárja a látogatók elé.",
+                  "category": "historical",
+                  "coords": [
+                        35.216726,
+                        31.739885
+                  ]
+            },
+            {
+                  "name": "Mar Elias",
+                  "text": "Ez a görög ortodox kolostor a hagyomány szerint Illés próféta egyik pihenőhelyéhez kapcsolódik.",
+                  "category": "religious",
+                  "coords": [
+                        35.211165,
+                        31.73477
+                  ]
+            },
+            {
+                  "name": "Kochvei Or",
+                  "text": "Zsidó vallási központ és oktatási intézmény Har Homa településén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.222108,
+                        31.721105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Abū Ghunaym",
+                  "text": "Aceste vestigii arheologice sunt situate pe dealul strategic dintre Ierusalim și Betleem.",
+                  "category": "historical",
+                  "coords": [
+                        35.22123,
+                        31.725649
+                  ]
+            },
+            {
+                  "name": "Solomon's Pools aqueduct",
+                  "text": "Vestigii ale sistemului antic de apeducte care transporta odinioară apa de la bazinele lui Solomon spre Ierusalim.",
+                  "category": "historical",
+                  "coords": [
+                        35.21655,
+                        31.732035
+                  ]
+            },
+            {
+                  "name": "Kathisma",
+                  "text": "Ruinele unei biserici bizantine octogonale, ridicată pe locul unde se spune că s-a odihnit Fecioara Maria.",
+                  "category": "historical",
+                  "coords": [
+                        35.212783,
+                        31.739224
+                  ]
+            },
+            {
+                  "name": "Har Hamor Yeshiva",
+                  "text": "O ieșiva sionistă importantă din cartierul Har Homa, cunoscută pentru studiile sale religioase.",
+                  "category": "religious",
+                  "coords": [
+                        35.217461,
+                        31.727549
+                  ]
+            },
+            {
+                  "name": "The Ramat Gan Archealogical Garden",
+                  "text": "O grădină cu vestigii arheologice care prezintă istoria antică și moștenirea culturală a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        35.216726,
+                        31.739885
+                  ]
+            },
+            {
+                  "name": "Mar Elias",
+                  "text": "Această mănăstire greco-ortodoxă este legată tradițional de un popas al prorocului Ilie.",
+                  "category": "religious",
+                  "coords": [
+                        35.211165,
+                        31.73477
+                  ]
+            },
+            {
+                  "name": "Kochvei Or",
+                  "text": "Un centru religios evreiesc și instituție de învățământ din așezarea Har Homa.",
+                  "category": "landmark",
+                  "coords": [
+                        35.222108,
+                        31.721105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Abū Ghunaym",
+                  "text": "These archaeological remains are located on the strategic hill situated between Jerusalem and Bethlehem.",
+                  "category": "historical",
+                  "coords": [
+                        35.22123,
+                        31.725649
+                  ]
+            },
+            {
+                  "name": "Solomon's Pools aqueduct",
+                  "text": "Remains of the ancient aqueduct system that once transported water from Solomon's Pools to Jerusalem.",
+                  "category": "historical",
+                  "coords": [
+                        35.21655,
+                        31.732035
+                  ]
+            },
+            {
+                  "name": "Kathisma",
+                  "text": "Ruins of an octagonal Byzantine church built on the spot where tradition says Mary rested.",
+                  "category": "historical",
+                  "coords": [
+                        35.212783,
+                        31.739224
+                  ]
+            },
+            {
+                  "name": "Har Hamor Yeshiva",
+                  "text": "A prominent Zionist yeshiva in the Har Homa neighborhood, known for its religious studies.",
+                  "category": "religious",
+                  "coords": [
+                        35.217461,
+                        31.727549
+                  ]
+            },
+            {
+                  "name": "The Ramat Gan Archealogical Garden",
+                  "text": "A garden featuring archaeological finds that showcases the ancient history and heritage of the region.",
+                  "category": "historical",
+                  "coords": [
+                        35.216726,
+                        31.739885
+                  ]
+            },
+            {
+                  "name": "Mar Elias",
+                  "text": "This Greek Orthodox monastery is traditionally linked to a resting place of the Prophet Elijah.",
+                  "category": "religious",
+                  "coords": [
+                        35.211165,
+                        31.73477
+                  ]
+            },
+            {
+                  "name": "Kochvei Or",
+                  "text": "A Jewish religious center and educational institution located in the Har Homa settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        35.222108,
+                        31.721105
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "mountain",
     name: { de: "Jebel Abu Ghneim", hu: "Dzsebel Abu Gneim", ro: "Jebel Abu Ghneim", en: "Jebel Abu Ghneim" },
@@ -588,7 +4161,232 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-jebel-abu-ghneim-relief-v2.webp",
   },
   {
-    id: "palestine-mount-gilo-relief-v2",
+    id: "palestine-mount-gilo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old house",
+                  "text": "Die Überreste eines alten Steinhauses, das die historische ländliche Architektur am Berg Gilo zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        35.1609,
+                        31.726723
+                  ]
+            },
+            {
+                  "name": "Cramisan Convent",
+                  "text": "Dieses Salesianerkloster auf dem Berg Gilo ist bekannt für seine Weinberge und die Weinproduktion.",
+                  "category": "religious",
+                  "coords": [
+                        35.172383,
+                        31.726863
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Eine Synagoge, die als religiöses Zentrum für die jüdische Gemeinde am Berg Gilo dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.17056,
+                        31.723036
+                  ]
+            },
+            {
+                  "name": "Adrat Eliyahu Synagogue",
+                  "text": "Diese Gemeindesynagoge befindet sich im Wohngebiet am Nordhang des Berges Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.189741,
+                        31.734152
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "Diese Moschee bietet den muslimischen Bewohnern am Berg Gilo einen Ort für Gebet und Versammlung.",
+                  "category": "landmark",
+                  "coords": [
+                        35.160973,
+                        31.725808
+                  ]
+            },
+            {
+                  "name": "Al-Raj'a",
+                  "text": "Ein lokaler muslimischer Gebetsort in den hügeligen Außenbezirken von Mount Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.167617,
+                        31.72791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old house",
+                  "text": "Egy régi kőház maradványai, amely a Gilo-hegy történelmi népi építészetét idézi.",
+                  "category": "historical",
+                  "coords": [
+                        35.1609,
+                        31.726723
+                  ]
+            },
+            {
+                  "name": "Cramisan Convent",
+                  "text": "Ez a szalézi kolostor a Gilo-hegyen híres szőlőültetvényeiről és bortermeléséről.",
+                  "category": "religious",
+                  "coords": [
+                        35.172383,
+                        31.726863
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Zsinagóga, amely a Gilo-hegyi zsidó közösség vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.17056,
+                        31.723036
+                  ]
+            },
+            {
+                  "name": "Adrat Eliyahu Synagogue",
+                  "text": "Ez a közösségi zsinagóga a Gilo-hegy északi lejtőjének lakóövezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.189741,
+                        31.734152
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "Ez a mecset imádkozó- és gyülekezőhelyet biztosít a Gilo-hegyi muszlim lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.160973,
+                        31.725808
+                  ]
+            },
+            {
+                  "name": "Al-Raj'a",
+                  "text": "Helyi muszlim imádkozóhely a Gilo-hegy dombos külterületén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.167617,
+                        31.72791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old house",
+                  "text": "Rămășițele unei case vechi de piatră care ilustrează arhitectura rurală istorică de pe Muntele Gilo.",
+                  "category": "historical",
+                  "coords": [
+                        35.1609,
+                        31.726723
+                  ]
+            },
+            {
+                  "name": "Cramisan Convent",
+                  "text": "Această mănăstire saleziană de pe Muntele Gilo este cunoscută pentru podgoriile și producția sa de vin.",
+                  "category": "religious",
+                  "coords": [
+                        35.172383,
+                        31.726863
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "O sinagogă care servește ca centru religios pentru comunitatea evreiască de pe Muntele Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.17056,
+                        31.723036
+                  ]
+            },
+            {
+                  "name": "Adrat Eliyahu Synagogue",
+                  "text": "Această sinagogă comunitară este situată în zona rezidențială de pe panta de nord a Muntelui Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.189741,
+                        31.734152
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "Această moschee oferă un loc de rugăciune și adunare pentru locuitorii musulmani de pe Muntele Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.160973,
+                        31.725808
+                  ]
+            },
+            {
+                  "name": "Al-Raj'a",
+                  "text": "Un loc local de rugăciune musulman în periferia deluroasă a Muntelui Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.167617,
+                        31.72791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old house",
+                  "text": "The remains of an old stone house illustrating the historic rural architecture on Mount Gilo.",
+                  "category": "historical",
+                  "coords": [
+                        35.1609,
+                        31.726723
+                  ]
+            },
+            {
+                  "name": "Cramisan Convent",
+                  "text": "A Salesian monastery on Mount Gilo known for its extensive vineyards and local wine production.",
+                  "category": "religious",
+                  "coords": [
+                        35.172383,
+                        31.726863
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "A synagogue serving as a religious center for the Jewish community on Mount Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.17056,
+                        31.723036
+                  ]
+            },
+            {
+                  "name": "Adrat Eliyahu Synagogue",
+                  "text": "A community synagogue located within the residential area on the northern slope of Mount Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.189741,
+                        31.734152
+                  ]
+            },
+            {
+                  "name": "Al-Huda Mosque",
+                  "text": "A mosque providing a place for prayer and gathering for the Muslim residents of Mount Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.160973,
+                        31.725808
+                  ]
+            },
+            {
+                  "name": "Al-Raj'a",
+                  "text": "A local Muslim prayer site located in the hilly outskirts of Mount Gilo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.167617,
+                        31.72791
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "mountain",
     name: { de: "Berg Gilo", hu: "Giló-hegy", ro: "Muntele Gilo", en: "Mount Gilo" },
@@ -633,7 +4431,304 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-mount-gilo-relief-v2.webp",
   },
   {
-    id: "palestine-jebel-juhar-relief-v2",
+    id: "palestine-jebel-juhar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tel Zif",
+                  "text": "Tel Zif ist eine biblische archäologische Stätte im Gebiet Jebel Juhar.",
+                  "category": "historical",
+                  "coords": [
+                        35.134391,
+                        31.475188
+                  ]
+            },
+            {
+                  "name": "Aristobuliya",
+                  "text": "Aristobuliya ist eine archäologische Ruine mit antiken strukturellen Überresten in der Region Jebel Juhar.",
+                  "category": "historical",
+                  "coords": [
+                        35.141734,
+                        31.467282
+                  ]
+            },
+            {
+                  "name": "Khirbet Umm Lasafa",
+                  "text": "Khirbet Umm Lasafa ist eine Stätte mit antiken Ruinen in der Gegend von Jebel Juhar.",
+                  "category": "historical",
+                  "coords": [
+                        35.157356,
+                        31.438228
+                  ]
+            },
+            {
+                  "name": "Khaled Bin Waleed Mosque",
+                  "text": "Die Khaled-Bin-Waleed-Moschee ist ein islamisches Gotteshaus in der Region Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121262,
+                        31.525593
+                  ]
+            },
+            {
+                  "name": "Loot Mosque",
+                  "text": "Die Loot-Moschee ist eine lokale Einrichtung für die muslimische Gemeinde in Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.165175,
+                        31.517145
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "Die Al-Taqwa-Moschee ist eine religiöse Stätte, die dem islamischen Gottesdienst in Jebel Juhar gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.157741,
+                        31.517303
+                  ]
+            },
+            {
+                  "name": "Masjid Al Musabrin",
+                  "text": "Masjid Al Musabrin ist eine funktionale Moschee in der Gegend von Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.161653,
+                        31.520191
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Diese lokale Moschee dient als islamisches Gotteshaus in Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.157195,
+                        31.523174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tel Zif",
+                  "text": "Tel Zif egy bibliai régészeti lelőhely a Jebel Juhar térségben.",
+                  "category": "historical",
+                  "coords": [
+                        35.134391,
+                        31.475188
+                  ]
+            },
+            {
+                  "name": "Aristobuliya",
+                  "text": "Arisztobúlia egy ókori épületmaradványokat bemutató régészeti rom a Jebel Juhar régióban.",
+                  "category": "historical",
+                  "coords": [
+                        35.141734,
+                        31.467282
+                  ]
+            },
+            {
+                  "name": "Khirbet Umm Lasafa",
+                  "text": "Khirbet Umm Lasafa egy ősi romterület a Jebel Juhar térségben.",
+                  "category": "historical",
+                  "coords": [
+                        35.157356,
+                        31.438228
+                  ]
+            },
+            {
+                  "name": "Khaled Bin Waleed Mosque",
+                  "text": "A Khaled Bin Waleed mecset egy iszlám imahely a Jebel Juhar régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121262,
+                        31.525593
+                  ]
+            },
+            {
+                  "name": "Loot Mosque",
+                  "text": "A Loot mecset egy helyi létesítmény, amely a muszlim közösséget szolgálja Jebel Juharban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.165175,
+                        31.517145
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "Az Al-Taqwa mecset egy iszlám istentiszteletnek szentelt vallási hely Jebel Juharban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.157741,
+                        31.517303
+                  ]
+            },
+            {
+                  "name": "Masjid Al Musabrin",
+                  "text": "A Masjid Al Musabrin egy működő mecset a Jebel Juhar térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.161653,
+                        31.520191
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ez a helyi mecset iszlám imahelyként szolgál Jebel Juharban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.157195,
+                        31.523174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tel Zif",
+                  "text": "Tel Zif este un sit arheologic biblic situat în zona Jebel Juhar.",
+                  "category": "historical",
+                  "coords": [
+                        35.134391,
+                        31.475188
+                  ]
+            },
+            {
+                  "name": "Aristobuliya",
+                  "text": "Aristobuliya este o ruină arheologică care prezintă vestigii structurale antice în regiunea Jebel Juhar.",
+                  "category": "historical",
+                  "coords": [
+                        35.141734,
+                        31.467282
+                  ]
+            },
+            {
+                  "name": "Khirbet Umm Lasafa",
+                  "text": "Khirbet Umm Lasafa este un sit cu ruine antice situat în zona Jebel Juhar.",
+                  "category": "historical",
+                  "coords": [
+                        35.157356,
+                        31.438228
+                  ]
+            },
+            {
+                  "name": "Khaled Bin Waleed Mosque",
+                  "text": "Moscheea Khaled Bin Waleed este un lăcaș de cult islamic din regiunea Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121262,
+                        31.525593
+                  ]
+            },
+            {
+                  "name": "Loot Mosque",
+                  "text": "Moscheea Loot este o facilitate locală care deservește comunitatea musulmană din Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.165175,
+                        31.517145
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "Moscheea Al-Taqwa este un sit religios dedicat cultului islamic în Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.157741,
+                        31.517303
+                  ]
+            },
+            {
+                  "name": "Masjid Al Musabrin",
+                  "text": "Masjid Al Musabrin este o moschee funcțională situată în zona Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.161653,
+                        31.520191
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee locală servește ca lăcaș de cult islamic în Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.157195,
+                        31.523174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tel Zif",
+                  "text": "Tel Zif is a biblical archaeological site located in the Jebel Juhar area.",
+                  "category": "historical",
+                  "coords": [
+                        35.134391,
+                        31.475188
+                  ]
+            },
+            {
+                  "name": "Aristobuliya",
+                  "text": "Aristobuliya is an archaeological ruin featuring ancient structural remains in the Jebel Juhar region.",
+                  "category": "historical",
+                  "coords": [
+                        35.141734,
+                        31.467282
+                  ]
+            },
+            {
+                  "name": "Khirbet Umm Lasafa",
+                  "text": "Khirbet Umm Lasafa is a site of ancient ruins located in the Jebel Juhar area.",
+                  "category": "historical",
+                  "coords": [
+                        35.157356,
+                        31.438228
+                  ]
+            },
+            {
+                  "name": "Khaled Bin Waleed Mosque",
+                  "text": "Khaled Bin Waleed Mosque is an Islamic place of worship in the Jebel Juhar region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121262,
+                        31.525593
+                  ]
+            },
+            {
+                  "name": "Loot Mosque",
+                  "text": "Loot Mosque is a local facility serving the Muslim community in Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.165175,
+                        31.517145
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "Al-Taqwa Mosque is a religious site dedicated to Islamic worship in Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.157741,
+                        31.517303
+                  ]
+            },
+            {
+                  "name": "Masjid Al Musabrin",
+                  "text": "Masjid Al Musabrin is a functional mosque situated in the Jebel Juhar area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.161653,
+                        31.520191
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This local mosque serves as a place of Islamic worship in Jebel Juhar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.157195,
+                        31.523174
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "peak",
     name: { de: "Jebel Juhar", hu: "Dzsebel Dzsuhar", ro: "Jebel Juhar", en: "Jebel Juhar" },
@@ -678,7 +4773,304 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-jebel-juhar-relief-v2.webp",
   },
   {
-    id: "palestine-jebel-mukabbir-relief-v2",
+    id: "palestine-jebel-mukabbir-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viewpoint of Temple Mount",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen freien Blick über das Kidrontal auf den Felsendom bietet.",
+                  "category": "natural",
+                  "coords": [
+                        35.239965,
+                        31.753373
+                  ]
+            },
+            {
+                  "name": "The olive trees",
+                  "text": "Eine Umweltskulptur von Ran Morin mit lebenden Olivenbäumen, die in drei hohen Säulen wachsen.",
+                  "category": "historical",
+                  "coords": [
+                        35.223126,
+                        31.737469
+                  ]
+            },
+            {
+                  "name": "Agnon House",
+                  "text": "Das ehemalige Wohnhaus des Nobelpreisträgers Shmuel Yosef Agnon, heute ein Museum über sein Leben und Werk.",
+                  "category": "museum",
+                  "coords": [
+                        35.223849,
+                        31.74862
+                  ]
+            },
+            {
+                  "name": "Kehilat Moreshet Avraham",
+                  "text": "Eine Masorti-Synagoge (konservativ), die der Gemeinde von Ost-Talpiot dient und einen Blick auf die Judäische Wüste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229959,
+                        31.748706
+                  ]
+            },
+            {
+                  "name": "Sha'arei Ezra",
+                  "text": "Eine lokale Synagoge und ein Gemeindezentrum im Wohnviertel Ost-Talpiot.",
+                  "category": "landmark",
+                  "coords": [
+                        35.23163,
+                        31.746939
+                  ]
+            },
+            {
+                  "name": "AL - MURABITIN",
+                  "text": "Eine Stadtviertel-Moschee in Jabel Mukaber, die sich durch ihr traditionelles Steinmauerwerk auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236804,
+                        31.733047
+                  ]
+            },
+            {
+                  "name": "HaHursha Synagogue",
+                  "text": "Eine Synagoge am Rande der Jerusalemer Pinienhaine, die das Gebiet Nord-Talpiot bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.222024,
+                        31.751307
+                  ]
+            },
+            {
+                  "name": "Kehilat Yaakov",
+                  "text": "Eine traditionelle Gemeindesynagoge im Herzen des Viertels Ost-Talpiot.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221872,
+                        31.756455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viewpoint of Temple Mount",
+                  "text": "Egy emelt kilátópont, ahonnan tiszta kilátás nyílik a Kidron-völgyön keresztül a Szikladómra.",
+                  "category": "natural",
+                  "coords": [
+                        35.239965,
+                        31.753373
+                  ]
+            },
+            {
+                  "name": "The olive trees",
+                  "text": "Ran Morin környezeti szobra, amely három magas oszlopban növő élő olajfákat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        35.223126,
+                        31.737469
+                  ]
+            },
+            {
+                  "name": "Agnon House",
+                  "text": "Shmuel Yosef Agnon Nobel-díjas író egykori otthona, amely ma életét és munkásságát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        35.223849,
+                        31.74862
+                  ]
+            },
+            {
+                  "name": "Kehilat Moreshet Avraham",
+                  "text": "Egy maszorti (konzervatív) zsinagóga Kelet-Talpiotban, kilátással a Júdeai-sivatagra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229959,
+                        31.748706
+                  ]
+            },
+            {
+                  "name": "Sha'arei Ezra",
+                  "text": "Egy helyi zsinagóga és közösségi központ Kelet-Talpiot lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.23163,
+                        31.746939
+                  ]
+            },
+            {
+                  "name": "AL - MURABITIN",
+                  "text": "Egy környékbeli mecset Jabel Mukaberben, amelyet hagyományos kőművesmunka jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236804,
+                        31.733047
+                  ]
+            },
+            {
+                  "name": "HaHursha Synagogue",
+                  "text": "A jeruzsálemi fenyőligetek szélén található zsinagóga, amely Észak-Talpiot területét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.222024,
+                        31.751307
+                  ]
+            },
+            {
+                  "name": "Kehilat Yaakov",
+                  "text": "Egy hagyományos közösségi zsinagóga Kelet-Talpiot negyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221872,
+                        31.756455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viewpoint of Temple Mount",
+                  "text": "Un punct de observație ridicat care oferă vederi clare peste Valea Kidron spre Domul Stâncii.",
+                  "category": "natural",
+                  "coords": [
+                        35.239965,
+                        31.753373
+                  ]
+            },
+            {
+                  "name": "The olive trees",
+                  "text": "O sculptură ambientală de Ran Morin, reprezentând măslini vii care cresc în interiorul a trei coloane înalte.",
+                  "category": "historical",
+                  "coords": [
+                        35.223126,
+                        31.737469
+                  ]
+            },
+            {
+                  "name": "Agnon House",
+                  "text": "Fosta casă a scriitorului laureat al Premiului Nobel, Shmuel Yosef Agnon, astăzi un muzeu dedicat vieții și operei sale.",
+                  "category": "museum",
+                  "coords": [
+                        35.223849,
+                        31.74862
+                  ]
+            },
+            {
+                  "name": "Kehilat Moreshet Avraham",
+                  "text": "O sinagogă Masorti (conservatoare) care deservește comunitatea din Talpiot de Est, cu vedere spre Deșertul Iudeii.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229959,
+                        31.748706
+                  ]
+            },
+            {
+                  "name": "Sha'arei Ezra",
+                  "text": "O sinagogă locală și un centru comunitar în cartierul rezidențial Talpiot de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        35.23163,
+                        31.746939
+                  ]
+            },
+            {
+                  "name": "AL - MURABITIN",
+                  "text": "O moschee de cartier în Jabel Mukaber, caracterizată prin zidăria sa tradițională din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236804,
+                        31.733047
+                  ]
+            },
+            {
+                  "name": "HaHursha Synagogue",
+                  "text": "O sinagogă situată la marginea pădurilor de pini din Ierusalim, deservind zona Talpiot de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        35.222024,
+                        31.751307
+                  ]
+            },
+            {
+                  "name": "Kehilat Yaakov",
+                  "text": "O sinagogă comunitară tradițională în inima cartierului Talpiot de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221872,
+                        31.756455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewpoint of Temple Mount",
+                  "text": "An elevated vantage point providing clear views across the Kidron Valley toward the Dome of the Rock.",
+                  "category": "natural",
+                  "coords": [
+                        35.239965,
+                        31.753373
+                  ]
+            },
+            {
+                  "name": "The olive trees",
+                  "text": "An environmental sculpture by Ran Morin featuring live olive trees growing within three high columns.",
+                  "category": "historical",
+                  "coords": [
+                        35.223126,
+                        31.737469
+                  ]
+            },
+            {
+                  "name": "Agnon House",
+                  "text": "The former home of Nobel Prize-winning author Shmuel Yosef Agnon, now a museum of his life and work.",
+                  "category": "museum",
+                  "coords": [
+                        35.223849,
+                        31.74862
+                  ]
+            },
+            {
+                  "name": "Kehilat Moreshet Avraham",
+                  "text": "A Masorti (Conservative) synagogue serving the community of East Talpiot with a view of the Judean Desert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229959,
+                        31.748706
+                  ]
+            },
+            {
+                  "name": "Sha'arei Ezra",
+                  "text": "A local synagogue and community center in the residential neighborhood of East Talpiot.",
+                  "category": "landmark",
+                  "coords": [
+                        35.23163,
+                        31.746939
+                  ]
+            },
+            {
+                  "name": "AL - MURABITIN",
+                  "text": "A neighborhood mosque in Jabel Mukaber, characterized by its traditional stone masonry.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236804,
+                        31.733047
+                  ]
+            },
+            {
+                  "name": "HaHursha Synagogue",
+                  "text": "A synagogue located on the edge of the Jerusalem pine groves, serving the North Talpiot area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.222024,
+                        31.751307
+                  ]
+            },
+            {
+                  "name": "Kehilat Yaakov",
+                  "text": "A traditional community synagogue in the heart of the East Talpiot neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        35.221872,
+                        31.756455
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "peak",
     name: { de: "Jebel Mukabbir", hu: "Dzsebel Mukabbir", ro: "Jebel Mukabbir", en: "Jebel Mukabbir" },
@@ -723,7 +5115,556 @@ export const palestineReliefV2: POI[] = [
     image: "/poi-images/palestine-jebel-mukabbir-relief-v2.webp",
   },
   {
-    id: "palestine-mount-salman-relief-v2",
+    id: "palestine-mount-salman-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kh. Ifqas",
+                  "text": "Khirbet Ifqas ist eine archäologische Stätte, die die Steinruinen und Fundamente einer antiken Siedlung in der Nähe des Berges Salman bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        35.181923,
+                        32.176466
+                  ]
+            },
+            {
+                  "name": "Kafrur",
+                  "text": "Die archäologische Stätte von Kafrur beherbergt die historischen Überreste antiker Strukturen, die in das zerklüftete Gelände des Berges Salman eingebettet sind.",
+                  "category": "historical",
+                  "coords": [
+                        35.188564,
+                        32.19563
+                  ]
+            },
+            {
+                  "name": "Kamin Hassif",
+                  "text": "Dieser Höhleneingang in der Region des Berges Salman, der lokal als Vogelgrube bekannt ist, bietet Zugang zu den unterirdischen Tiefen.",
+                  "category": "natural",
+                  "coords": [
+                        35.226181,
+                        32.177095
+                  ]
+            },
+            {
+                  "name": "Salman al-Farsi",
+                  "text": "Dieses Naturschutzgebiet schützt das raue Gelände und die einheimische Flora der Region um den Berg Salman.",
+                  "category": "natural",
+                  "coords": [
+                        35.232179,
+                        32.168827
+                  ]
+            },
+            {
+                  "name": "Iraq Bourin",
+                  "text": "Diese lokale islamische Kultstätte dient der Gemeinde, die in die Landschaft des Berges Salman eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.238278,
+                        32.202166
+                  ]
+            },
+            {
+                  "name": "Madma Gig Mosque",
+                  "text": "Diese Moschee dient der lokalen muslimischen Bevölkerung als spirituelles Zentrum in der Nähe des Berges Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231382,
+                        32.184721
+                  ]
+            },
+            {
+                  "name": "Al Abrar",
+                  "text": "Al Abrar ist eine islamische Kultstätte, die einen Raum für tägliche Gebete in der Region des Berges Salman bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.21415,
+                        32.178856
+                  ]
+            },
+            {
+                  "name": "Al-Omari Mosque",
+                  "text": "Diese lokale Moschee versammelt die islamische Gemeinde zum regelmäßigen Gottesdienst inmitten der Hügel des Berges Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.230767,
+                        32.185878
+                  ]
+            },
+            {
+                  "name": "Tal Mosque",
+                  "text": "Die Tal-Moschee in der Region des Berges Salman fungiert als zentraler Gebetssaal für lokale Muslime.",
+                  "category": "landmark",
+                  "coords": [
+                        35.211901,
+                        32.200574
+                  ]
+            },
+            {
+                  "name": "Al Shohada'",
+                  "text": "Al Shohada' ist ein islamisches Heiligtum, das der Gemeinde am Berg Salman eine friedliche Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.216387,
+                        32.199154
+                  ]
+            },
+            {
+                  "name": "Sorrah Al-Kaber",
+                  "text": "Diese größere Moschee dient als wichtiger religiöser Mittelpunkt für Muslime in der Umgebung des Berges Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190229,
+                        32.210711
+                  ]
+            },
+            {
+                  "name": "Sorrah",
+                  "text": "Als muslimische Kultstätte unterstützt diese Einrichtung das spirituelle Leben der Bewohner in der Nähe des Berges Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.192406,
+                        32.210721
+                  ]
+            },
+            {
+                  "name": "Al-Balad Mosque",
+                  "text": "Die Al-Balad-Moschee bietet einen traditionellen Rahmen für islamische Rituale und Zusammenkünfte im Gebiet des Berges Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.25018,
+                        32.183862
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "Ihren Namen „Frieden“ widerspiegelnd, bietet diese Moschee einen ruhigen spirituellen Rückzugsort für die islamische Gemeinde am Berg Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.171703,
+                        32.210558
+                  ]
+            },
+            {
+                  "name": "Slman Al Farisi",
+                  "text": "Benannt nach einem berühmten Gefährten des Propheten, fungiert diese Moschee als religiöses Zentrum in der Nähe des Berges Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.252243,
+                        32.17672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kh. Ifqas",
+                  "text": "Khirbet Ifqas egy régészeti lelőhely, amely egy ősi település kőromjait és alapjait őrzi a Szalmán-hegy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.181923,
+                        32.176466
+                  ]
+            },
+            {
+                  "name": "Kafrur",
+                  "text": "Kafrur régészeti lelőhelye a Szalmán-hegy zord terepébe ágyazott ókori építmények történelmi maradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        35.188564,
+                        32.19563
+                  ]
+            },
+            {
+                  "name": "Kamin Hassif",
+                  "text": "A helyiek által Madárveremként ismert barlangbejárat a Szalmán-hegy régiójának felszín alatti mélységeibe nyújt betekintést.",
+                  "category": "natural",
+                  "coords": [
+                        35.226181,
+                        32.177095
+                  ]
+            },
+            {
+                  "name": "Salman al-Farsi",
+                  "text": "Ez a természetvédelmi terület a Szalmán-hegy vidékének zord terepét és őshonos növényvilágát őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        35.232179,
+                        32.168827
+                  ]
+            },
+            {
+                  "name": "Iraq Bourin",
+                  "text": "Ez a helyi muszlim imahely a Szalmán-hegy vidékén megbúvó közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.238278,
+                        32.202166
+                  ]
+            },
+            {
+                  "name": "Madma Gig Mosque",
+                  "text": "A helyi muszlim lakosságot szolgáló mecset egy spirituális központ a Szalmán-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231382,
+                        32.184721
+                  ]
+            },
+            {
+                  "name": "Al Abrar",
+                  "text": "Az Al Abrar egy iszlám istentiszteleti hely, amely teret ad a napi imáknak a Szalmán-hegy régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.21415,
+                        32.178856
+                  ]
+            },
+            {
+                  "name": "Al-Omari Mosque",
+                  "text": "Ez a helyi mecset az iszlám közösséget gyűjti össze rendszeres istentiszteletre a Szalmán-hegy dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.230767,
+                        32.185878
+                  ]
+            },
+            {
+                  "name": "Tal Mosque",
+                  "text": "A Szalmán-hegy térségében található Tal mecset központi imateremként működik a helyi muszlimok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.211901,
+                        32.200574
+                  ]
+            },
+            {
+                  "name": "Al Shohada'",
+                  "text": "Az Al Shohada' egy dedikált iszlám szentély, amely békés környezetet kínál a Szalmán-hegy közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.216387,
+                        32.199154
+                  ]
+            },
+            {
+                  "name": "Sorrah Al-Kaber",
+                  "text": "Ez a nagyobb mecset fontos vallási központként szolgál a Szalmán-hegy környékén élő muszlimok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190229,
+                        32.210711
+                  ]
+            },
+            {
+                  "name": "Sorrah",
+                  "text": "Ez a muszlim istentiszteleti hely a Szalmán-hegy közelében élő lakosok spirituális életét támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.192406,
+                        32.210721
+                  ]
+            },
+            {
+                  "name": "Al-Balad Mosque",
+                  "text": "Az Al-Balad mecset hagyományos környezetet biztosít az iszlám rituálék és összejövetelek számára a Szalmán-hegy térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.25018,
+                        32.183862
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "A „Béke” nevet viselő mecset nyugodt spirituális menedéket nyújt a Szalmán-hegy iszlám közösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        35.171703,
+                        32.210558
+                  ]
+            },
+            {
+                  "name": "Slman Al Farisi",
+                  "text": "A Próféta híres társáról elnevezett mecset vallási központként működik a Szalmán-hegy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.252243,
+                        32.17672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kh. Ifqas",
+                  "text": "Khirbet Ifqas este un sit arheologic care păstrează ruinele de piatră și fundațiile unei așezări antice din apropierea Muntelui Salman.",
+                  "category": "historical",
+                  "coords": [
+                        35.181923,
+                        32.176466
+                  ]
+            },
+            {
+                  "name": "Kafrur",
+                  "text": "Situl arheologic de la Kafrur deține rămășițele istorice ale unor structuri antice încorporate în terenul accidentat al Muntelui Salman.",
+                  "category": "historical",
+                  "coords": [
+                        35.188564,
+                        32.19563
+                  ]
+            },
+            {
+                  "name": "Kamin Hassif",
+                  "text": "Cunoscută local ca Groapa Păsărilor, această intrare de peșteră oferă acces la adâncimile subterane ale regiunii Muntele Salman.",
+                  "category": "natural",
+                  "coords": [
+                        35.226181,
+                        32.177095
+                  ]
+            },
+            {
+                  "name": "Salman al-Farsi",
+                  "text": "Această rezervație naturală protejează terenul accidentat și flora autohtonă din zona Muntelui Salman.",
+                  "category": "natural",
+                  "coords": [
+                        35.232179,
+                        32.168827
+                  ]
+            },
+            {
+                  "name": "Iraq Bourin",
+                  "text": "Acest lăcaș de cult islamic local servește comunitatea aflată în peisajul Muntelui Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.238278,
+                        32.202166
+                  ]
+            },
+            {
+                  "name": "Madma Gig Mosque",
+                  "text": "Deservind populația musulmană locală, această moschee este un centru spiritual lângă Muntele Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231382,
+                        32.184721
+                  ]
+            },
+            {
+                  "name": "Al Abrar",
+                  "text": "Al Abrar este un lăcaș de cult islamic care oferă un spațiu pentru rugăciunile zilnice în regiunea Muntelui Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.21415,
+                        32.178856
+                  ]
+            },
+            {
+                  "name": "Al-Omari Mosque",
+                  "text": "Această moschee locală adună comunitatea islamică pentru rugăciuni regulate printre dealurile Muntelui Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.230767,
+                        32.185878
+                  ]
+            },
+            {
+                  "name": "Tal Mosque",
+                  "text": "Situată în zona Muntelui Salman, Moscheea Tal funcționează ca o sală centrală de rugăciune pentru musulmanii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        35.211901,
+                        32.200574
+                  ]
+            },
+            {
+                  "name": "Al Shohada'",
+                  "text": "Al Shohada' este un sanctuar islamic care oferă un mediu liniștit pentru comunitatea de lângă Muntele Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.216387,
+                        32.199154
+                  ]
+            },
+            {
+                  "name": "Sorrah Al-Kaber",
+                  "text": "Această moschee mai mare servește ca un important punct focal religios pentru musulmanii din vecinătatea Muntelui Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190229,
+                        32.210711
+                  ]
+            },
+            {
+                  "name": "Sorrah",
+                  "text": "Lăcaș de cult musulman, această clădire susține viața spirituală a locuitorilor din apropierea Muntelui Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.192406,
+                        32.210721
+                  ]
+            },
+            {
+                  "name": "Al-Balad Mosque",
+                  "text": "Moscheea Al-Balad oferă un cadru tradițional pentru ritualuri și adunări islamice în zona Muntelui Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.25018,
+                        32.183862
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "Reflectându-și numele „Pace”, această moschee oferă un refugiu spiritual liniștit pentru comunitatea islamică din apropierea Muntelui Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.171703,
+                        32.210558
+                  ]
+            },
+            {
+                  "name": "Slman Al Farisi",
+                  "text": "Numită după un tovarăș renumit al Profetului, această moschee acționează ca un centru religios lângă Muntele Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.252243,
+                        32.17672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kh. Ifqas",
+                  "text": "Khirbet Ifqas is an archaeological site preserving the stone ruins and foundations of an ancient settlement near Mount Salman.",
+                  "category": "historical",
+                  "coords": [
+                        35.181923,
+                        32.176466
+                  ]
+            },
+            {
+                  "name": "Kafrur",
+                  "text": "The archaeological site of Kafrur holds the historical remains of ancient structures embedded in the rugged terrain of Mount Salman.",
+                  "category": "historical",
+                  "coords": [
+                        35.188564,
+                        32.19563
+                  ]
+            },
+            {
+                  "name": "Kamin Hassif",
+                  "text": "Known locally as the Birds' Pit, this cave entrance offers access to the subterranean depths of the Mount Salman region.",
+                  "category": "natural",
+                  "coords": [
+                        35.226181,
+                        32.177095
+                  ]
+            },
+            {
+                  "name": "Salman al-Farsi",
+                  "text": "This nature reserve protects the rugged terrain and native flora of the Mount Salman area.",
+                  "category": "natural",
+                  "coords": [
+                        35.232179,
+                        32.168827
+                  ]
+            },
+            {
+                  "name": "Iraq Bourin",
+                  "text": "This local Islamic place of worship serves the community nestled in the Mount Salman landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        35.238278,
+                        32.202166
+                  ]
+            },
+            {
+                  "name": "Madma Gig Mosque",
+                  "text": "Serving the local Muslim population, this mosque is a spiritual center near Mount Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231382,
+                        32.184721
+                  ]
+            },
+            {
+                  "name": "Al Abrar",
+                  "text": "Al Abrar is an Islamic place of worship providing a space for daily prayers in the Mount Salman region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.21415,
+                        32.178856
+                  ]
+            },
+            {
+                  "name": "Al-Omari Mosque",
+                  "text": "This local mosque gathers the Islamic community for regular worship amidst the hills of Mount Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.230767,
+                        32.185878
+                  ]
+            },
+            {
+                  "name": "Tal Mosque",
+                  "text": "Situated in the Mount Salman area, the Tal Mosque functions as a central prayer hall for local Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        35.211901,
+                        32.200574
+                  ]
+            },
+            {
+                  "name": "Al Shohada'",
+                  "text": "Al Shohada' is a dedicated Islamic sanctuary offering a peaceful environment for the Mount Salman community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.216387,
+                        32.199154
+                  ]
+            },
+            {
+                  "name": "Sorrah Al-Kaber",
+                  "text": "This larger mosque serves as an important religious focal point for Muslims in the Mount Salman vicinity.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190229,
+                        32.210711
+                  ]
+            },
+            {
+                  "name": "Sorrah",
+                  "text": "A Muslim place of worship, this facility supports the spiritual life of residents near Mount Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.192406,
+                        32.210721
+                  ]
+            },
+            {
+                  "name": "Al-Balad Mosque",
+                  "text": "The Al-Balad Mosque provides a traditional setting for Islamic rituals and gatherings within the Mount Salman area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.25018,
+                        32.183862
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "Reflecting its name 'Peace', this mosque offers a tranquil spiritual retreat for the Mount Salman Islamic community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.171703,
+                        32.210558
+                  ]
+            },
+            {
+                  "name": "Slman Al Farisi",
+                  "text": "Named after a renowned companion of the Prophet, this mosque acts as a religious center near Mount Salman.",
+                  "category": "landmark",
+                  "coords": [
+                        35.252243,
+                        32.17672
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "mountain",
     name: { de: "Berg Salman", hu: "Szalman-hegy", ro: "Muntele Salman", en: "Mount Salman" },

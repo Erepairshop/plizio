@@ -3,7 +3,448 @@ import type { POI } from "./poi";
 
 export const poiExtraIndiaReliefV2: POI[] = [
   {
-    id: "annamalai-hills-mountain-relief-v2",
+    id: "annamalai-hills-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nallamudi Poonjolai",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die weitläufigen Teeplantagen und die Siedlungen der Ureinwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        76.93507,
+                        10.25304
+                  ]
+            },
+            {
+                  "name": "Chinnakallar Falls",
+                  "text": "Ein wasserreicher Wasserfall, der aufgrund der extrem hohen Niederschlagsmengen als Cherrapunji Südindiens gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        77.029407,
+                        10.302886
+                  ]
+            },
+            {
+                  "name": "St. Luke's Church",
+                  "text": "Eine beschauliche anglikanische Kirche, die inmitten der grünen Teehügel der Anaimalai-Berge liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        76.958891,
+                        10.330904
+                  ]
+            },
+            {
+                  "name": "Mari Amman Thiru Kovil",
+                  "text": "Ein farbenfroher Hindu-Tempel, der der Göttin Mariamman gewidmet ist und das Zentrum lokaler religiöser Feste bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        76.936301,
+                        10.262989
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein schlichter Hindu-Andachtsort, der friedlich von der hügeligen Landschaft der Anaimalai Hills umgeben ist.",
+                  "category": "religious",
+                  "coords": [
+                        76.944977,
+                        10.288267
+                  ]
+            },
+            {
+                  "name": "Sholayar Muslim Janath Mosque and Arabic School",
+                  "text": "Eine lokale Moschee mit angeschlossener arabischer Schule, die der muslimischen Gemeinde in Sholayar dient.",
+                  "category": "landmark",
+                  "coords": [
+                        76.94614,
+                        10.296099
+                  ]
+            },
+            {
+                  "name": "Madurai Veeran Swamy Temple",
+                  "text": "Ein Tempel für die Volksgottheit Madurai Veeran, der oft mit einem Schwert als Wächter der Siedlung dargestellt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        76.913319,
+                        10.319209
+                  ]
+            },
+            {
+                  "name": "Heart Of Jesus",
+                  "text": "Ein christliches Heiligtum in den Bergen, das für seine friedliche Atmosphäre und die umliegende Natur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        76.956411,
+                        10.329774
+                  ]
+            },
+            {
+                  "name": "Stanmore Group Church",
+                  "text": "Diese Kirche liegt inmitten der Teeplantagen und dient vor allem den dort arbeitenden Gemeinschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        76.941679,
+                        10.329862
+                  ]
+            },
+            {
+                  "name": "Annai Vvelankanni Matha Chruch",
+                  "text": "Eine katholische Kirche, die Unserer Lieben Frau von der guten Gesundheit gewidmet ist und als Wallfahrtsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        76.996461,
+                        10.33959
+                  ]
+            },
+            {
+                  "name": "Balaji Temple",
+                  "text": "Ein Hindu-Tempel für Lord Venkateswara, der nach dem Vorbild der berühmten Tempel von Tirupati gestaltet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        77.00115,
+                        10.334147
+                  ]
+            },
+            {
+                  "name": "Valparai Market",
+                  "text": "Ein belebtes Handelszentrum in den Bergen, wo frisches Gemüse und hochwertiger Tee direkt aus der Region verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        76.955619,
+                        10.328729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nallamudi Poonjolai",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a kiterjedt teaültetvényekre és a törzsi településekre.",
+                  "category": "landmark",
+                  "coords": [
+                        76.93507,
+                        10.25304
+                  ]
+            },
+            {
+                  "name": "Chinnakallar Falls",
+                  "text": "Bővízű vízesés, amelyet a rendkívül magas csapadékmennyiség miatt Dél-India Cserápundzsijának neveznek.",
+                  "category": "landmark",
+                  "coords": [
+                        77.029407,
+                        10.302886
+                  ]
+            },
+            {
+                  "name": "St. Luke's Church",
+                  "text": "Békés anglikán templom, amely az Anaimalai-hegység zöldellő teadombjai között fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        76.958891,
+                        10.330904
+                  ]
+            },
+            {
+                  "name": "Mari Amman Thiru Kovil",
+                  "text": "Színpompás hindu templom Mariamman istennő tiszteletére, amely a helyi vallási ünnepek központja.",
+                  "category": "landmark",
+                  "coords": [
+                        76.936301,
+                        10.262989
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Egyszerű hindu istentiszteleti hely, amelyet az Anaimalai-hegyek dombos tájai ölelnek körül.",
+                  "category": "religious",
+                  "coords": [
+                        76.944977,
+                        10.288267
+                  ]
+            },
+            {
+                  "name": "Sholayar Muslim Janath Mosque and Arabic School",
+                  "text": "Helyi mecset és arab iskola, amely a solayari muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        76.94614,
+                        10.296099
+                  ]
+            },
+            {
+                  "name": "Madurai Veeran Swamy Temple",
+                  "text": "Madurai Veeran népi istenség temploma, akit gyakran karddal a kezében, a település őrzőjeként ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        76.913319,
+                        10.319209
+                  ]
+            },
+            {
+                  "name": "Heart Of Jesus",
+                  "text": "Hegyi keresztény szentély, amely békés hangulatáról és a környező természetről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        76.956411,
+                        10.329774
+                  ]
+            },
+            {
+                  "name": "Stanmore Group Church",
+                  "text": "Ez a templom a teaültetvények közepén található, és elsősorban az ott dolgozó közösségeket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        76.941679,
+                        10.329862
+                  ]
+            },
+            {
+                  "name": "Annai Vvelankanni Matha Chruch",
+                  "text": "Szűz Máriának, a Betegek Gyógyítójának szentelt katolikus templom, amely népszerű zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        76.996461,
+                        10.33959
+                  ]
+            },
+            {
+                  "name": "Balaji Temple",
+                  "text": "Lord Venkateswara hindu temploma, amelyet a híres tirupati templomok mintájára alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        77.00115,
+                        10.334147
+                  ]
+            },
+            {
+                  "name": "Valparai Market",
+                  "text": "Nyüzsgő hegyi kereskedelmi központ, ahol friss zöldséget és kiváló minőségű helyi teát árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        76.955619,
+                        10.328729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nallamudi Poonjolai",
+                  "text": "Un punct de observație care oferă vederi panoramice peste plantațiile vaste de ceai și așezările tribale.",
+                  "category": "landmark",
+                  "coords": [
+                        76.93507,
+                        10.25304
+                  ]
+            },
+            {
+                  "name": "Chinnakallar Falls",
+                  "text": "O cascadă spectaculoasă, supranumită Cherrapunji al Indiei de Sud datorită precipitațiilor extrem de abundente.",
+                  "category": "landmark",
+                  "coords": [
+                        77.029407,
+                        10.302886
+                  ]
+            },
+            {
+                  "name": "St. Luke's Church",
+                  "text": "O biserică anglicană liniștită, situată printre dealurile verzi cu plantații de ceai din Munții Anaimalai.",
+                  "category": "landmark",
+                  "coords": [
+                        76.958891,
+                        10.330904
+                  ]
+            },
+            {
+                  "name": "Mari Amman Thiru Kovil",
+                  "text": "Un templu hindu colorat dedicat zeiței Mariamman, fiind centrul festivalurilor religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        76.936301,
+                        10.262989
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un lăcaș de cult hindu simplu, înconjurat de peisajul deluros liniștit al Munților Anaimalai.",
+                  "category": "religious",
+                  "coords": [
+                        76.944977,
+                        10.288267
+                  ]
+            },
+            {
+                  "name": "Sholayar Muslim Janath Mosque and Arabic School",
+                  "text": "O moschee locală cu școală arabă adiacentă, care deservește comunitatea musulmană din Sholayar.",
+                  "category": "landmark",
+                  "coords": [
+                        76.94614,
+                        10.296099
+                  ]
+            },
+            {
+                  "name": "Madurai Veeran Swamy Temple",
+                  "text": "Un templu dedicat zeității populare Madurai Veeran, adesea reprezentat cu o sabie ca protector al așezării.",
+                  "category": "landmark",
+                  "coords": [
+                        76.913319,
+                        10.319209
+                  ]
+            },
+            {
+                  "name": "Heart Of Jesus",
+                  "text": "Un sanctuar creștin montan, cunoscut pentru atmosfera sa liniștită și natura înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        76.956411,
+                        10.329774
+                  ]
+            },
+            {
+                  "name": "Stanmore Group Church",
+                  "text": "Această biserică este situată în inima plantațiilor de ceai și deservește în special comunitățile de muncitori.",
+                  "category": "landmark",
+                  "coords": [
+                        76.941679,
+                        10.329862
+                  ]
+            },
+            {
+                  "name": "Annai Vvelankanni Matha Chruch",
+                  "text": "O biserică catolică dedicată Maicii Domnului a Bunei Sănătăți, servind ca loc de pelerinaj.",
+                  "category": "landmark",
+                  "coords": [
+                        76.996461,
+                        10.33959
+                  ]
+            },
+            {
+                  "name": "Balaji Temple",
+                  "text": "Un templu hindu dedicat Domnului Venkateswara, modelat după faimoasele temple din Tirupati.",
+                  "category": "landmark",
+                  "coords": [
+                        77.00115,
+                        10.334147
+                  ]
+            },
+            {
+                  "name": "Valparai Market",
+                  "text": "Un centru comercial montan animat, unde se vând legume proaspete și ceai local de înaltă calitate.",
+                  "category": "cultural",
+                  "coords": [
+                        76.955619,
+                        10.328729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nallamudi Poonjolai",
+                  "text": "A scenic viewpoint offering panoramas of sprawling tea estates and local tribal settlements.",
+                  "category": "landmark",
+                  "coords": [
+                        76.93507,
+                        10.25304
+                  ]
+            },
+            {
+                  "name": "Chinnakallar Falls",
+                  "text": "A powerful waterfall known as the Cherrapunji of South India due to its exceptionally high rainfall.",
+                  "category": "landmark",
+                  "coords": [
+                        77.029407,
+                        10.302886
+                  ]
+            },
+            {
+                  "name": "St. Luke's Church",
+                  "text": "A serene Anglican church nestled amidst the lush green tea hills of the Anaimalai range.",
+                  "category": "landmark",
+                  "coords": [
+                        76.958891,
+                        10.330904
+                  ]
+            },
+            {
+                  "name": "Mari Amman Thiru Kovil",
+                  "text": "A colorful Hindu temple dedicated to the goddess Mariamman, serving as a hub for local festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        76.936301,
+                        10.262989
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A simple Hindu place of worship peacefully surrounded by the rolling landscapes of the Anaimalai Hills.",
+                  "category": "religious",
+                  "coords": [
+                        76.944977,
+                        10.288267
+                  ]
+            },
+            {
+                  "name": "Sholayar Muslim Janath Mosque and Arabic School",
+                  "text": "A local mosque and Arabic school serving the spiritual and educational needs of the Sholayar community.",
+                  "category": "landmark",
+                  "coords": [
+                        76.94614,
+                        10.296099
+                  ]
+            },
+            {
+                  "name": "Madurai Veeran Swamy Temple",
+                  "text": "A temple dedicated to the folk deity Madurai Veeran, often depicted with a sword as a village protector.",
+                  "category": "landmark",
+                  "coords": [
+                        76.913319,
+                        10.319209
+                  ]
+            },
+            {
+                  "name": "Heart Of Jesus",
+                  "text": "A mountain Christian shrine known for its peaceful atmosphere and scenic natural surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        76.956411,
+                        10.329774
+                  ]
+            },
+            {
+                  "name": "Stanmore Group Church",
+                  "text": "This church is situated within the tea estates and primarily serves the local plantation communities.",
+                  "category": "landmark",
+                  "coords": [
+                        76.941679,
+                        10.329862
+                  ]
+            },
+            {
+                  "name": "Annai Vvelankanni Matha Chruch",
+                  "text": "A Catholic church dedicated to Our Lady of Good Health, functioning as a local pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        76.996461,
+                        10.33959
+                  ]
+            },
+            {
+                  "name": "Balaji Temple",
+                  "text": "A Hindu temple dedicated to Lord Venkateswara, modeled after the famous Tirupati temple style.",
+                  "category": "landmark",
+                  "coords": [
+                        77.00115,
+                        10.334147
+                  ]
+            },
+            {
+                  "name": "Valparai Market",
+                  "text": "A bustling mountain trade center selling fresh vegetables and high-quality local tea.",
+                  "category": "cultural",
+                  "coords": [
+                        76.955619,
+                        10.328729
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IN-TN",
     coords: [77.0, 10.3],
@@ -243,7 +684,268 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "parvati-valley-relief-v2",
+    id: "parvati-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "topa thach",
+                  "text": "Eine hochgelegene Almwiese im Parvati-Tal, die Trekkern einen weiten Blick auf die schneebedeckten Gipfel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        77.414607,
+                        32.009861
+                  ]
+            },
+            {
+                  "name": "waterfall viewpoint",
+                  "text": "Ein Aussichtspunkt, der einen spektakulären Blick auf einen donnernden Wasserfall in der wilden Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        77.462722,
+                        32.023042
+                  ]
+            },
+            {
+                  "name": "misora thach",
+                  "text": "Eine einsame Bergwiese, die als idealer Rastplatz für Wanderer auf dem Weg in den hohen Himalaya dient.",
+                  "category": "natural",
+                  "coords": [
+                        77.423248,
+                        32.015745
+                  ]
+            },
+            {
+                  "name": "Fairy Forest",
+                  "text": "Ein dichter Kiefernwald bei Pulga, bekannt für seine moosbewachsenen Bäume und eine fast mystische Stille.",
+                  "category": "landmark",
+                  "coords": [
+                        77.441315,
+                        31.991701
+                  ]
+            },
+            {
+                  "name": "Rudranag Shiva Temple",
+                  "text": "Ein heiliger Ort in der Nähe eines schlangenförmigen Wasserfalls, an dem Lord Shiva meditiert haben soll.",
+                  "category": "landmark",
+                  "coords": [
+                        77.485225,
+                        32.001788
+                  ]
+            },
+            {
+                  "name": "Tunda\nBhuj (hot spring?!)",
+                  "text": "Eine hochalpine Weide auf dem Weg zum Pin-Parvati-Pass, umgeben von zahllosen Kaskaden und Wildblumen.",
+                  "category": "natural",
+                  "coords": [
+                        77.591667,
+                        31.971104
+                  ]
+            },
+            {
+                  "name": "Kheerganga Hot Spring",
+                  "text": "Natürliche, schwefelhaltige Thermalquellen auf einer Höhe von 3000 Metern, ein Ziel für Pilger und Trekker.",
+                  "category": "natural",
+                  "coords": [
+                        77.509741,
+                        31.991865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "topa thach",
+                  "text": "Magaslati alpesi rét a Parvati-völgyben, ahonnan tágas kilátás nyílik a hófödte csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        77.414607,
+                        32.009861
+                  ]
+            },
+            {
+                  "name": "waterfall viewpoint",
+                  "text": "Kilátópont, ahonnan látványos kilátás nyílik a vad természetben morajló vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        77.462722,
+                        32.023042
+                  ]
+            },
+            {
+                  "name": "misora thach",
+                  "text": "Magányos hegyi rét, amely ideális pihenőhely a magas-himalájai túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        77.423248,
+                        32.015745
+                  ]
+            },
+            {
+                  "name": "Fairy Forest",
+                  "text": "Sűrű fenyőerdő Pulga közelében, amely mohás fáiról és szinte misztikus csendjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        77.441315,
+                        31.991701
+                  ]
+            },
+            {
+                  "name": "Rudranag Shiva Temple",
+                  "text": "Szent hely egy kígyó alakú vízesés közelében, ahol a hiedelem szerint Siva isten meditált.",
+                  "category": "landmark",
+                  "coords": [
+                        77.485225,
+                        32.001788
+                  ]
+            },
+            {
+                  "name": "Tunda\nBhuj (hot spring?!)",
+                  "text": "Magashegyi legelő a Pin Parvati-hágó felé vezető úton, számtalan kaszkáddal és vadvirággal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        77.591667,
+                        31.971104
+                  ]
+            },
+            {
+                  "name": "Kheerganga Hot Spring",
+                  "text": "Természetes, kéntartalmú termálforrások 3000 méteres magasságban, zarándokok és túrázók célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        77.509741,
+                        31.991865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "topa thach",
+                  "text": "O pajiște alpină la mare altitudine în Valea Parvati, oferind drumeților o vedere largă asupra vârfurilor înzăpezite.",
+                  "category": "natural",
+                  "coords": [
+                        77.414607,
+                        32.009861
+                  ]
+            },
+            {
+                  "name": "waterfall viewpoint",
+                  "text": "Un punct de observație care oferă o vedere spectaculoasă asupra unei cascade tunătoare în natura sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        77.462722,
+                        32.023042
+                  ]
+            },
+            {
+                  "name": "misora thach",
+                  "text": "O pajiște montană izolată, care servește drept loc de odihnă ideal pentru drumeții în drum spre Himalaya înaltă.",
+                  "category": "natural",
+                  "coords": [
+                        77.423248,
+                        32.015745
+                  ]
+            },
+            {
+                  "name": "Fairy Forest",
+                  "text": "O pădure de pini densă lângă Pulga, cunoscută pentru copacii săi acoperiți de mușchi și o liniște aproape mistică.",
+                  "category": "landmark",
+                  "coords": [
+                        77.441315,
+                        31.991701
+                  ]
+            },
+            {
+                  "name": "Rudranag Shiva Temple",
+                  "text": "Un loc sacru lângă o cascadă în formă de șarpe, unde se spune că Domnul Shiva a meditat.",
+                  "category": "landmark",
+                  "coords": [
+                        77.485225,
+                        32.001788
+                  ]
+            },
+            {
+                  "name": "Tunda\nBhuj (hot spring?!)",
+                  "text": "O pășune alpină înaltă pe drumul spre pasul Pin Parvati, înconjurată de nenumărate cascade și flori sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        77.591667,
+                        31.971104
+                  ]
+            },
+            {
+                  "name": "Kheerganga Hot Spring",
+                  "text": "Izvoare termale naturale sulfuroase la o altitudine de 3000 de metri, o destinație pentru pelerini și drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        77.509741,
+                        31.991865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "topa thach",
+                  "text": "A high-altitude alpine meadow in the Parvati Valley, offering trekkers a wide view of the snow-capped peaks.",
+                  "category": "natural",
+                  "coords": [
+                        77.414607,
+                        32.009861
+                  ]
+            },
+            {
+                  "name": "waterfall viewpoint",
+                  "text": "A viewpoint offering a spectacular look at a thundering waterfall in the wild nature.",
+                  "category": "natural",
+                  "coords": [
+                        77.462722,
+                        32.023042
+                  ]
+            },
+            {
+                  "name": "misora thach",
+                  "text": "A lonely mountain meadow serving as an ideal resting spot for hikers headed into the high Himalayas.",
+                  "category": "natural",
+                  "coords": [
+                        77.423248,
+                        32.015745
+                  ]
+            },
+            {
+                  "name": "Fairy Forest",
+                  "text": "A dense pine forest near Pulga, known for its moss-covered trees and an almost mystical silence.",
+                  "category": "landmark",
+                  "coords": [
+                        77.441315,
+                        31.991701
+                  ]
+            },
+            {
+                  "name": "Rudranag Shiva Temple",
+                  "text": "A sacred site near a serpent-shaped waterfall, where Lord Shiva is said to have meditated.",
+                  "category": "landmark",
+                  "coords": [
+                        77.485225,
+                        32.001788
+                  ]
+            },
+            {
+                  "name": "Tunda\nBhuj (hot spring?!)",
+                  "text": "A high alpine pasture on the way to the Pin Parvati Pass, surrounded by countless cascades and wildflowers.",
+                  "category": "natural",
+                  "coords": [
+                        77.591667,
+                        31.971104
+                  ]
+            },
+            {
+                  "name": "Kheerganga Hot Spring",
+                  "text": "Natural sulfurous hot springs at an altitude of 3000 meters, a destination for pilgrims and trekkers.",
+                  "category": "natural",
+                  "coords": [
+                        77.509741,
+                        31.991865
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IN-HP",
     coords: [77.5, 32.0],
@@ -291,7 +993,1276 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "cardamom-hills-mountain-relief-v2",
+    id: "cardamom-hills-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anchuruli Tunnel",
+                  "text": "Ein imposanter kreisförmiger Wassertunnel, der den Erattayar-Damm mit dem Idukki-Stausee verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        77.074781,
+                        9.771356
+                  ]
+            },
+            {
+                  "name": "Priya Theatre",
+                  "text": "Ein lokales Kino in der Hügelstadt Kattappana, das zur Unterhaltung der Gemeinde dient.",
+                  "category": "cultural",
+                  "coords": [
+                        77.157119,
+                        9.724262
+                  ]
+            },
+            {
+                  "name": "Sree Narayana Guru Mandiram",
+                  "text": "Ein hinduistischer Schrein in den Cardamom Hills, der dem Sozialreformer Sree Narayana Guru gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        77.113627,
+                        9.728594
+                  ]
+            },
+            {
+                  "name": "Shanthi Bhavan CMC Convent",
+                  "text": "Ein friedliches katholisches Konvent inmitten der üppigen Gewürzplantagen von Idukki.",
+                  "category": "religious",
+                  "coords": [
+                        77.101687,
+                        9.730983
+                  ]
+            },
+            {
+                  "name": "St stephen's knanaya church",
+                  "text": "Eine syrisch-christliche Knanaya-Kirche, die die einzigartige lokale Gemeinschaft in den Bergen versorgt.",
+                  "category": "religious",
+                  "coords": [
+                        77.121545,
+                        9.756507
+                  ]
+            },
+            {
+                  "name": "St. Antonys Shrine",
+                  "text": "Ein katholischer Schrein am Straßenrand, der oft von Reisenden in den Cardamom Hills besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        77.11065,
+                        9.773625
+                  ]
+            },
+            {
+                  "name": "bethel Marthoma chutrch vellayamkudi",
+                  "text": "Eine traditionelle syrische Mar-Thoma-Kirche in der landwirtschaftlich geprägten Region von Vellayamkudi.",
+                  "category": "religious",
+                  "coords": [
+                        77.101325,
+                        9.770608
+                  ]
+            },
+            {
+                  "name": "Kalyanathandu Kailasanadha Mahadeva Temple",
+                  "text": "Ein Shiva-Tempel auf einem Hügel mit Panoramablick auf den weiten Idukki-Stausee.",
+                  "category": "religious",
+                  "coords": [
+                        77.089693,
+                        9.760924
+                  ]
+            },
+            {
+                  "name": "St Joseph church anakuthi",
+                  "text": "Eine katholische Pfarrkirche in der zerklüfteten Landschaft von Anakuthi.",
+                  "category": "religious",
+                  "coords": [
+                        77.132958,
+                        9.765735
+                  ]
+            },
+            {
+                  "name": "St pauls believers church",
+                  "text": "Eine Kirche der Believers Eastern Konfession in der hügeligen Gegend um Kattappana.",
+                  "category": "religious",
+                  "coords": [
+                        77.153279,
+                        9.754609
+                  ]
+            },
+            {
+                  "name": "Padinjare Kavala Masjid",
+                  "text": "Eine lokale Moschee für das tägliche Gebet an der Padinjare Kavala Kreuzung.",
+                  "category": "religious",
+                  "coords": [
+                        77.15329,
+                        9.840603
+                  ]
+            },
+            {
+                  "name": "CSI Church",
+                  "text": "Ein Gotteshaus der Church of South India inmitten von Tee- und Gewürzplantagen.",
+                  "category": "religious",
+                  "coords": [
+                        77.162113,
+                        9.838904
+                  ]
+            },
+            {
+                  "name": "Shri Soolpara Temple",
+                  "text": "Ein traditioneller hinduistischer Tempel in der ruhigen ländlichen Umgebung der Cardamom Hills.",
+                  "category": "religious",
+                  "coords": [
+                        77.205489,
+                        9.806421
+                  ]
+            },
+            {
+                  "name": "Christ raj parish hall",
+                  "text": "Ein Gemeindehaus der katholischen Pfarrei Christ Raj für soziale und religiöse Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        77.127472,
+                        9.795741
+                  ]
+            },
+            {
+                  "name": "Saint Antony's Church",
+                  "text": "Eine katholische Kirche, die dem heiligen Antonius gewidmet ist und die Bergbewohner versorgt.",
+                  "category": "religious",
+                  "coords": [
+                        77.150045,
+                        9.752494
+                  ]
+            },
+            {
+                  "name": "New Covenand Prayer Hall",
+                  "text": "Ein evangelisches Gebetshaus für die christliche Gemeinschaft in der Region Kattappana.",
+                  "category": "religious",
+                  "coords": [
+                        77.154923,
+                        9.752075
+                  ]
+            },
+            {
+                  "name": "Mahaganapathy Temple",
+                  "text": "Ein Ganesha gewidmeter Tempel, der von Einheimischen für Segnungen am Fuße der Hügel besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        77.153107,
+                        9.722362
+                  ]
+            },
+            {
+                  "name": "Velankanni Matha Church",
+                  "text": "Eine katholische Kirche, die Unserer Lieben Frau der Gesundheit gewidmet ist, ein populärer Titel in Südindien.",
+                  "category": "religious",
+                  "coords": [
+                        77.117472,
+                        9.716501
+                  ]
+            },
+            {
+                  "name": "st.joseph church  cemetry",
+                  "text": "Ein ruhiger Friedhof an einem Hang, der an die katholische St.-Joseph-Pfarrei angeschlossen ist.",
+                  "category": "religious",
+                  "coords": [
+                        77.076027,
+                        9.755933
+                  ]
+            },
+            {
+                  "name": "Infant Jesus Church",
+                  "text": "Ein katholisches Gotteshaus in den gewürzreichen Hügeln, das dem Jesuskind gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        77.093873,
+                        9.749004
+                  ]
+            },
+            {
+                  "name": "St Joseph Church",
+                  "text": "Ein religiöses Zentrum für die katholische Gemeinschaft im Distrikt der Cardamom Hills.",
+                  "category": "religious",
+                  "coords": [
+                        77.101327,
+                        9.746944
+                  ]
+            },
+            {
+                  "name": "St Lazarus chappel",
+                  "text": "Eine kleine Kapelle, die dem heiligen Lazarus gewidmet ist und einen Raum für stilles Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        77.100984,
+                        9.747946
+                  ]
+            },
+            {
+                  "name": "St.Geoarge Parish Hall",
+                  "text": "Ein Veranstaltungsort für kirchliche und soziale Ereignisse in der Region Kattappana.",
+                  "category": "religious",
+                  "coords": [
+                        77.115534,
+                        9.747923
+                  ]
+            },
+            {
+                  "name": "St.George Jacobite Syrian Church",
+                  "text": "Eine syrisch-orthodoxe Jakobitenkirche in den Bergen, die dem Westsyrischen Ritus folgt.",
+                  "category": "religious",
+                  "coords": [
+                        77.119752,
+                        9.750924
+                  ]
+            },
+            {
+                  "name": "Sree Narayana Guru Keerthi Sthambam",
+                  "text": "Eine Gedenksäule und ein Schrein zu Ehren des keralitischen Philosophen Sree Narayana Guru.",
+                  "category": "religious",
+                  "coords": [
+                        77.115605,
+                        9.754261
+                  ]
+            },
+            {
+                  "name": "darussallam juma masjid",
+                  "text": "Eine Moschee in den Cardamom Hills, in der das Freitagsgebet für die lokale Gemeinschaft stattfindet.",
+                  "category": "religious",
+                  "coords": [
+                        77.11327,
+                        9.755523
+                  ]
+            },
+            {
+                  "name": "St.Marys Knanaya church",
+                  "text": "Eine syrisch-christliche Kirche, die zur ethnischen Gemeinschaft der Knanaya gehört.",
+                  "category": "religious",
+                  "coords": [
+                        77.11292,
+                        9.75697
+                  ]
+            },
+            {
+                  "name": "ST GREGORIOS CHAPEL",
+                  "text": "Eine kleine Kapelle, die dem heiligen Gregorios von Parumala, einem verehrten indisch-orthodoxen Heiligen, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        77.073142,
+                        9.795783
+                  ]
+            },
+            {
+                  "name": "ST STEPHEN MALANKARA CATHOLIC CHURCH CHAPEL",
+                  "text": "Ein Gotteshaus für den syro-malankarisch-katholischen Ritus in der Hügellandschaft.",
+                  "category": "religious",
+                  "coords": [
+                        77.075466,
+                        9.783095
+                  ]
+            },
+            {
+                  "name": "ST MARY'S ORTHODOX CHURCH CHAPEL",
+                  "text": "Ein Schrein der Malankara-Orthodox-Syrischen Kirche in der ländlichen Region Idukki.",
+                  "category": "religious",
+                  "coords": [
+                        77.066441,
+                        9.795537
+                  ]
+            },
+            {
+                  "name": "St. Peter's Church Chempakapara",
+                  "text": "Eine Pfarrkirche, die die bäuerliche Gemeinschaft in den Hügeln von Chempakapara versorgt.",
+                  "category": "religious",
+                  "coords": [
+                        77.09569,
+                        9.828437
+                  ]
+            },
+            {
+                  "name": "vegetable marhet",
+                  "text": "Ein lebhafter lokaler Markt, auf dem frische Erzeugnisse aus den umliegenden Gewürzgärten verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        77.115648,
+                        9.756849
+                  ]
+            },
+            {
+                  "name": "Mudiyeruma Market",
+                  "text": "Ein traditioneller Dorfmarkt, der für seinen Handel mit lokalen Agrarprodukten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        77.181859,
+                        9.817741
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "Ein wöchentlicher Markt in den Cardamom Hills, auf dem Einheimische Vorräte kaufen und verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        77.194134,
+                        9.812702
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Ein lebhafter Marktplatz in den Bergen, auf dem frischer Kardamom und lokale Gewürze gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        77.159148,
+                        9.795525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anchuruli Tunnel",
+                  "text": "Lenyűgöző kör keresztmetszetű alagút, amely az Erattayar-gát vizét az Idukki-víztározóba vezeti.",
+                  "category": "landmark",
+                  "coords": [
+                        77.074781,
+                        9.771356
+                  ]
+            },
+            {
+                  "name": "Priya Theatre",
+                  "text": "Helyi mozi Kattappana hegyi városában, amely a környék lakóinak nyújt kikapcsolódást.",
+                  "category": "cultural",
+                  "coords": [
+                        77.157119,
+                        9.724262
+                  ]
+            },
+            {
+                  "name": "Sree Narayana Guru Mandiram",
+                  "text": "Sree Narayana Guru társadalmi reformernek szentelt hindu szentély a Kardamom-hegyekben.",
+                  "category": "religious",
+                  "coords": [
+                        77.113627,
+                        9.728594
+                  ]
+            },
+            {
+                  "name": "Shanthi Bhavan CMC Convent",
+                  "text": "Békés katolikus kolostor Idukki buja fűszerültetvényei között.",
+                  "category": "religious",
+                  "coords": [
+                        77.101687,
+                        9.730983
+                  ]
+            },
+            {
+                  "name": "St stephen's knanaya church",
+                  "text": "Knanaya szír keresztény templom, amely a hegyekben élő sajátos közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        77.121545,
+                        9.756507
+                  ]
+            },
+            {
+                  "name": "St. Antonys Shrine",
+                  "text": "Út menti katolikus szentély, amelyet gyakran látogatnak az utazók a Kardamom-hegyekben.",
+                  "category": "religious",
+                  "coords": [
+                        77.11065,
+                        9.773625
+                  ]
+            },
+            {
+                  "name": "bethel Marthoma chutrch vellayamkudi",
+                  "text": "Hagyományos Mar Thoma szír templom Vellayamkudi mezőgazdasági régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        77.101325,
+                        9.770608
+                  ]
+            },
+            {
+                  "name": "Kalyanathandu Kailasanadha Mahadeva Temple",
+                  "text": "Dombvidéki Siva-templom, ahonnan panorámás kilátás nyílik a hatalmas Idukki-víztározóra.",
+                  "category": "religious",
+                  "coords": [
+                        77.089693,
+                        9.760924
+                  ]
+            },
+            {
+                  "name": "St Joseph church anakuthi",
+                  "text": "Katolikus plébániatemplom Anakuthi sziklás vidékén.",
+                  "category": "religious",
+                  "coords": [
+                        77.132958,
+                        9.765735
+                  ]
+            },
+            {
+                  "name": "St pauls believers church",
+                  "text": "A Believers Eastern felekezethez tartozó templom Kattappana dombos vidékén.",
+                  "category": "religious",
+                  "coords": [
+                        77.153279,
+                        9.754609
+                  ]
+            },
+            {
+                  "name": "Padinjare Kavala Masjid",
+                  "text": "Helyi mecset a napi imádságokhoz a Padinjare Kavala útkereszteződésnél.",
+                  "category": "religious",
+                  "coords": [
+                        77.15329,
+                        9.840603
+                  ]
+            },
+            {
+                  "name": "CSI Church",
+                  "text": "A Dél-indiai Egyház (CSI) imaháza tea- és fűszerültetvényekkel körülvéve.",
+                  "category": "religious",
+                  "coords": [
+                        77.162113,
+                        9.838904
+                  ]
+            },
+            {
+                  "name": "Shri Soolpara Temple",
+                  "text": "Hagyományos hindu templom a Kardamom-hegyek nyugodt, vidéki környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        77.205489,
+                        9.806421
+                  ]
+            },
+            {
+                  "name": "Christ raj parish hall",
+                  "text": "A Christ Raj katolikus plébánia közösségi háza szociális és vallási összejövetelekhez.",
+                  "category": "religious",
+                  "coords": [
+                        77.127472,
+                        9.795741
+                  ]
+            },
+            {
+                  "name": "Saint Antony's Church",
+                  "text": "Páduai Szent Antalnak szentelt katolikus templom, amely a hegyi lakókat szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        77.150045,
+                        9.752494
+                  ]
+            },
+            {
+                  "name": "New Covenand Prayer Hall",
+                  "text": "Evangéliumi imaház a keresztény közösség számára Kattappana régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        77.154923,
+                        9.752075
+                  ]
+            },
+            {
+                  "name": "Mahaganapathy Temple",
+                  "text": "Ganésa istennek szentelt templom, amelyet a helyiek áldásért látogatnak a dombok lábánál.",
+                  "category": "religious",
+                  "coords": [
+                        77.153107,
+                        9.722362
+                  ]
+            },
+            {
+                  "name": "Velankanni Matha Church",
+                  "text": "Az Egészség Miasszonyának szentelt katolikus templom, amely népszerű titulus Dél-Indiában.",
+                  "category": "religious",
+                  "coords": [
+                        77.117472,
+                        9.716501
+                  ]
+            },
+            {
+                  "name": "st.joseph church  cemetry",
+                  "text": "Csendes domboldali temető, amely a helyi Szent József katolikus plébániához tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        77.076027,
+                        9.755933
+                  ]
+            },
+            {
+                  "name": "Infant Jesus Church",
+                  "text": "A Gyermek Jézusnak szentelt katolikus templom a fűszertermő dombok között.",
+                  "category": "religious",
+                  "coords": [
+                        77.093873,
+                        9.749004
+                  ]
+            },
+            {
+                  "name": "St Joseph Church",
+                  "text": "Vallási központ a katolikus közösség számára a Kardamom-hegyek vidékén.",
+                  "category": "religious",
+                  "coords": [
+                        77.101327,
+                        9.746944
+                  ]
+            },
+            {
+                  "name": "St Lazarus chappel",
+                  "text": "Szent Lázárnak szentelt kis kápolna, amely helyet biztosít a csendes imádsághoz.",
+                  "category": "religious",
+                  "coords": [
+                        77.100984,
+                        9.747946
+                  ]
+            },
+            {
+                  "name": "St.Geoarge Parish Hall",
+                  "text": "Egyházi és társadalmi események helyszíne Kattappana környékén.",
+                  "category": "religious",
+                  "coords": [
+                        77.115534,
+                        9.747923
+                  ]
+            },
+            {
+                  "name": "St.George Jacobite Syrian Church",
+                  "text": "Jakobita szír ortodox templom a hegyekben, amely a nyugati szír rítust követi.",
+                  "category": "religious",
+                  "coords": [
+                        77.119752,
+                        9.750924
+                  ]
+            },
+            {
+                  "name": "Sree Narayana Guru Keerthi Sthambam",
+                  "text": "Emlékoszlop és szentély Sree Narayana Guru keralai filozófus tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        77.115605,
+                        9.754261
+                  ]
+            },
+            {
+                  "name": "darussallam juma masjid",
+                  "text": "Mecset a Kardamom-hegyekben, ahol a helyi közösség pénteki imáit tartják.",
+                  "category": "religious",
+                  "coords": [
+                        77.11327,
+                        9.755523
+                  ]
+            },
+            {
+                  "name": "St.Marys Knanaya church",
+                  "text": "Szír keresztény templom, amely a sajátos knanaya etnikai közösséghez tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        77.11292,
+                        9.75697
+                  ]
+            },
+            {
+                  "name": "ST GREGORIOS CHAPEL",
+                  "text": "Parumalai Szent Gergelynek, egy tisztelt indiai ortodox szentnek szentelt kis kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        77.073142,
+                        9.795783
+                  ]
+            },
+            {
+                  "name": "ST STEPHEN MALANKARA CATHOLIC CHURCH CHAPEL",
+                  "text": "A szír-malankár katolikus rítus imaháza a dombos vidéken.",
+                  "category": "religious",
+                  "coords": [
+                        77.075466,
+                        9.783095
+                  ]
+            },
+            {
+                  "name": "ST MARY'S ORTHODOX CHURCH CHAPEL",
+                  "text": "A Malankara Ortodox Szír Egyház helyi szentélye Idukki vidéki régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        77.066441,
+                        9.795537
+                  ]
+            },
+            {
+                  "name": "St. Peter's Church Chempakapara",
+                  "text": "A Chempakapara dombjai között élő gazdálkodó közösséget szolgáló plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        77.09569,
+                        9.828437
+                  ]
+            },
+            {
+                  "name": "vegetable marhet",
+                  "text": "Élénk helyi piac, ahol a környező fűszerkertek friss terményeit árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        77.115648,
+                        9.756849
+                  ]
+            },
+            {
+                  "name": "Mudiyeruma Market",
+                  "text": "Hagyományos falusi piac, amely a helyi mezőgazdasági kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        77.181859,
+                        9.817741
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "Heti piac a Kardamom-hegyekben, ahol a helyiek élelmiszert és használati cikkeket cserélnek gazdát.",
+                  "category": "cultural",
+                  "coords": [
+                        77.194134,
+                        9.812702
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Hegyi piactér, ahol frissen szüretelt kardamomot és helyi fűszereket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        77.159148,
+                        9.795525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anchuruli Tunnel",
+                  "text": "Un tunel de apă circular impresionant care face legătura între barajul Erattayar și rezervorul Idukki.",
+                  "category": "landmark",
+                  "coords": [
+                        77.074781,
+                        9.771356
+                  ]
+            },
+            {
+                  "name": "Priya Theatre",
+                  "text": "Un cinematograf local din orașul montan Kattappana, oferind divertisment comunității.",
+                  "category": "cultural",
+                  "coords": [
+                        77.157119,
+                        9.724262
+                  ]
+            },
+            {
+                  "name": "Sree Narayana Guru Mandiram",
+                  "text": "Un altar hindu din dealurile Cardamom, dedicat reformatorului social Sree Narayana Guru.",
+                  "category": "religious",
+                  "coords": [
+                        77.113627,
+                        9.728594
+                  ]
+            },
+            {
+                  "name": "Shanthi Bhavan CMC Convent",
+                  "text": "O mănăstire catolică liniștită, situată în mijlocul plantațiilor luxuriante de mirodenii din Idukki.",
+                  "category": "religious",
+                  "coords": [
+                        77.101687,
+                        9.730983
+                  ]
+            },
+            {
+                  "name": "St stephen's knanaya church",
+                  "text": "O biserică creștină siriacă Knanaya, care deservește comunitatea locală unică din munți.",
+                  "category": "religious",
+                  "coords": [
+                        77.121545,
+                        9.756507
+                  ]
+            },
+            {
+                  "name": "St. Antonys Shrine",
+                  "text": "Un altar catolic de la marginea drumului, vizitat frecvent de călătorii din dealurile Cardamom.",
+                  "category": "religious",
+                  "coords": [
+                        77.11065,
+                        9.773625
+                  ]
+            },
+            {
+                  "name": "bethel Marthoma chutrch vellayamkudi",
+                  "text": "O biserică tradițională siriacă Mar Thoma din regiunea agricolă Vellayamkudi.",
+                  "category": "religious",
+                  "coords": [
+                        77.101325,
+                        9.770608
+                  ]
+            },
+            {
+                  "name": "Kalyanathandu Kailasanadha Mahadeva Temple",
+                  "text": "Un templu dedicat lui Shiva, situat pe un deal cu vederi panoramice asupra vastului rezervor Idukki.",
+                  "category": "religious",
+                  "coords": [
+                        77.089693,
+                        9.760924
+                  ]
+            },
+            {
+                  "name": "St Joseph church anakuthi",
+                  "text": "O biserică parohială catolică situată în peisajul accidentat din Anakuthi.",
+                  "category": "religious",
+                  "coords": [
+                        77.132958,
+                        9.765735
+                  ]
+            },
+            {
+                  "name": "St pauls believers church",
+                  "text": "O biserică aparținând confesiunii Believers Eastern în zona deluroasă din Kattappana.",
+                  "category": "religious",
+                  "coords": [
+                        77.153279,
+                        9.754609
+                  ]
+            },
+            {
+                  "name": "Padinjare Kavala Masjid",
+                  "text": "O moschee locală pentru rugăciunile zilnice la intersecția Padinjare Kavala.",
+                  "category": "religious",
+                  "coords": [
+                        77.15329,
+                        9.840603
+                  ]
+            },
+            {
+                  "name": "CSI Church",
+                  "text": "O casă de rugăciune a Bisericii Indiei de Sud (CSI), înconjurată de plantații de ceai și mirodenii.",
+                  "category": "religious",
+                  "coords": [
+                        77.162113,
+                        9.838904
+                  ]
+            },
+            {
+                  "name": "Shri Soolpara Temple",
+                  "text": "Un templu hindu tradițional în cadrul rural liniștit al dealurilor Cardamom.",
+                  "category": "religious",
+                  "coords": [
+                        77.205489,
+                        9.806421
+                  ]
+            },
+            {
+                  "name": "Christ raj parish hall",
+                  "text": "O sală comunitară a parohiei catolice Christ Raj pentru adunări sociale și religioase.",
+                  "category": "religious",
+                  "coords": [
+                        77.127472,
+                        9.795741
+                  ]
+            },
+            {
+                  "name": "Saint Antony's Church",
+                  "text": "O biserică catolică dedicată Sfântului Anton, care deservește locuitorii de la munte.",
+                  "category": "religious",
+                  "coords": [
+                        77.150045,
+                        9.752494
+                  ]
+            },
+            {
+                  "name": "New Covenand Prayer Hall",
+                  "text": "O casă de rugăciune evanghelică pentru comunitatea creștină din regiunea Kattappana.",
+                  "category": "religious",
+                  "coords": [
+                        77.154923,
+                        9.752075
+                  ]
+            },
+            {
+                  "name": "Mahaganapathy Temple",
+                  "text": "Un templu dedicat lui Ganesha, vizitat de localnici pentru binecuvântări la poalele dealurilor.",
+                  "category": "religious",
+                  "coords": [
+                        77.153107,
+                        9.722362
+                  ]
+            },
+            {
+                  "name": "Velankanni Matha Church",
+                  "text": "O biserică catolică dedicată Maicii Domnului a Sănătății, un titlu popular în sudul Indiei.",
+                  "category": "religious",
+                  "coords": [
+                        77.117472,
+                        9.716501
+                  ]
+            },
+            {
+                  "name": "st.joseph church  cemetry",
+                  "text": "Un cimitir liniștit pe un deal, atașat parohiei catolice Sfântul Iosif.",
+                  "category": "religious",
+                  "coords": [
+                        77.076027,
+                        9.755933
+                  ]
+            },
+            {
+                  "name": "Infant Jesus Church",
+                  "text": "Un lăcaș de cult catolic dedicat Pruncului Isus în dealurile bogate în mirodenii.",
+                  "category": "religious",
+                  "coords": [
+                        77.093873,
+                        9.749004
+                  ]
+            },
+            {
+                  "name": "St Joseph Church",
+                  "text": "Un centru religios pentru comunitatea catolică din districtul dealurilor Cardamom.",
+                  "category": "religious",
+                  "coords": [
+                        77.101327,
+                        9.746944
+                  ]
+            },
+            {
+                  "name": "St Lazarus chappel",
+                  "text": "O mică capelă dedicată Sfântului Lazăr, oferind un spațiu pentru rugăciune tăcută.",
+                  "category": "religious",
+                  "coords": [
+                        77.100984,
+                        9.747946
+                  ]
+            },
+            {
+                  "name": "St.Geoarge Parish Hall",
+                  "text": "Un loc de desfășurare pentru evenimente bisericești și sociale în zona Kattappana.",
+                  "category": "religious",
+                  "coords": [
+                        77.115534,
+                        9.747923
+                  ]
+            },
+            {
+                  "name": "St.George Jacobite Syrian Church",
+                  "text": "O biserică ortodoxă siriană iacobită din munți, care urmează ritul siriac de vest.",
+                  "category": "religious",
+                  "coords": [
+                        77.119752,
+                        9.750924
+                  ]
+            },
+            {
+                  "name": "Sree Narayana Guru Keerthi Sthambam",
+                  "text": "O coloană memorială și un altar în onoarea filosofului keralit Sree Narayana Guru.",
+                  "category": "religious",
+                  "coords": [
+                        77.115605,
+                        9.754261
+                  ]
+            },
+            {
+                  "name": "darussallam juma masjid",
+                  "text": "O moschee din dealurile Cardamom, unde se desfășoară rugăciunile de vineri pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        77.11327,
+                        9.755523
+                  ]
+            },
+            {
+                  "name": "St.Marys Knanaya church",
+                  "text": "O biserică creștină siriacă aparținând comunității etnice Knanaya.",
+                  "category": "religious",
+                  "coords": [
+                        77.11292,
+                        9.75697
+                  ]
+            },
+            {
+                  "name": "ST GREGORIOS CHAPEL",
+                  "text": "O mică capelă dedicată Sfântului Gregorios din Parumala, un venerat sfânt ortodox indian.",
+                  "category": "religious",
+                  "coords": [
+                        77.073142,
+                        9.795783
+                  ]
+            },
+            {
+                  "name": "ST STEPHEN MALANKARA CATHOLIC CHURCH CHAPEL",
+                  "text": "Un lăcaș de cult pentru ritul catolic siro-malankar în peisajul deluros.",
+                  "category": "religious",
+                  "coords": [
+                        77.075466,
+                        9.783095
+                  ]
+            },
+            {
+                  "name": "ST MARY'S ORTHODOX CHURCH CHAPEL",
+                  "text": "Un altar al Bisericii Ortodoxe Siriene Malankara în regiunea rurală Idukki.",
+                  "category": "religious",
+                  "coords": [
+                        77.066441,
+                        9.795537
+                  ]
+            },
+            {
+                  "name": "St. Peter's Church Chempakapara",
+                  "text": "O biserică parohială care deservește comunitatea de fermieri din dealurile Chempakapara.",
+                  "category": "religious",
+                  "coords": [
+                        77.09569,
+                        9.828437
+                  ]
+            },
+            {
+                  "name": "vegetable marhet",
+                  "text": "O piață locală plină de viață unde se vând produse proaspete din grădinile de mirodenii din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        77.115648,
+                        9.756849
+                  ]
+            },
+            {
+                  "name": "Mudiyeruma Market",
+                  "text": "O piață tradițională sătească, cunoscută pentru comerțul cu produse agricole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        77.181859,
+                        9.817741
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "O piață săptămânală în dealurile Cardamom, unde localnicii cumpără și vând provizii.",
+                  "category": "cultural",
+                  "coords": [
+                        77.194134,
+                        9.812702
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "O piață montană plină de viață, unde se vând cardamom proaspăt și diverse condimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        77.159148,
+                        9.795525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anchuruli Tunnel",
+                  "text": "An impressive circular water tunnel carrying flow from the Erattayar Dam into the Idukki Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        77.074781,
+                        9.771356
+                  ]
+            },
+            {
+                  "name": "Priya Theatre",
+                  "text": "A local cinema hall in the hilly town of Kattappana, serving as a hub for community entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        77.157119,
+                        9.724262
+                  ]
+            },
+            {
+                  "name": "Sree Narayana Guru Mandiram",
+                  "text": "A Hindu shrine in the Cardamom Hills dedicated to the social reformer Sree Narayana Guru.",
+                  "category": "religious",
+                  "coords": [
+                        77.113627,
+                        9.728594
+                  ]
+            },
+            {
+                  "name": "Shanthi Bhavan CMC Convent",
+                  "text": "A peaceful Catholic convent set among the lush spice plantations of Idukki.",
+                  "category": "religious",
+                  "coords": [
+                        77.101687,
+                        9.730983
+                  ]
+            },
+            {
+                  "name": "St stephen's knanaya church",
+                  "text": "A Knanaya Syrian Christian church serving the unique local community in the hills.",
+                  "category": "religious",
+                  "coords": [
+                        77.121545,
+                        9.756507
+                  ]
+            },
+            {
+                  "name": "St. Antonys Shrine",
+                  "text": "A roadside Catholic shrine frequently visited by travelers in the Cardamom Hills.",
+                  "category": "religious",
+                  "coords": [
+                        77.11065,
+                        9.773625
+                  ]
+            },
+            {
+                  "name": "bethel Marthoma chutrch vellayamkudi",
+                  "text": "A traditional Mar Thoma Syrian church serving the agrarian region of Vellayamkudi.",
+                  "category": "religious",
+                  "coords": [
+                        77.101325,
+                        9.770608
+                  ]
+            },
+            {
+                  "name": "Kalyanathandu Kailasanadha Mahadeva Temple",
+                  "text": "A hilltop Shiva temple offering panoramic views of the vast Idukki reservoir.",
+                  "category": "religious",
+                  "coords": [
+                        77.089693,
+                        9.760924
+                  ]
+            },
+            {
+                  "name": "St Joseph church anakuthi",
+                  "text": "A local Catholic parish church situated in the rugged landscape of Anakuthi.",
+                  "category": "religious",
+                  "coords": [
+                        77.132958,
+                        9.765735
+                  ]
+            },
+            {
+                  "name": "St pauls believers church",
+                  "text": "A church of the Believers Eastern denomination in the hilly Kattappana area.",
+                  "category": "religious",
+                  "coords": [
+                        77.153279,
+                        9.754609
+                  ]
+            },
+            {
+                  "name": "Padinjare Kavala Masjid",
+                  "text": "A local mosque for daily prayers at the Padinjare Kavala junction.",
+                  "category": "religious",
+                  "coords": [
+                        77.15329,
+                        9.840603
+                  ]
+            },
+            {
+                  "name": "CSI Church",
+                  "text": "A place of worship for the Church of South India amidst tea and spice plantations.",
+                  "category": "religious",
+                  "coords": [
+                        77.162113,
+                        9.838904
+                  ]
+            },
+            {
+                  "name": "Shri Soolpara Temple",
+                  "text": "A traditional Hindu temple set in the tranquil rural environment of the Cardamom Hills.",
+                  "category": "religious",
+                  "coords": [
+                        77.205489,
+                        9.806421
+                  ]
+            },
+            {
+                  "name": "Christ raj parish hall",
+                  "text": "A community hall belonging to the Christ Raj Catholic parish for social and religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        77.127472,
+                        9.795741
+                  ]
+            },
+            {
+                  "name": "Saint Antony's Church",
+                  "text": "A Catholic church dedicated to Saint Anthony, serving the mountain residents.",
+                  "category": "religious",
+                  "coords": [
+                        77.150045,
+                        9.752494
+                  ]
+            },
+            {
+                  "name": "New Covenand Prayer Hall",
+                  "text": "An evangelical prayer hall for the Christian community in the Kattappana region.",
+                  "category": "religious",
+                  "coords": [
+                        77.154923,
+                        9.752075
+                  ]
+            },
+            {
+                  "name": "Mahaganapathy Temple",
+                  "text": "A temple dedicated to Lord Ganesha, visited by locals for blessings at the foot of the hills.",
+                  "category": "religious",
+                  "coords": [
+                        77.153107,
+                        9.722362
+                  ]
+            },
+            {
+                  "name": "Velankanni Matha Church",
+                  "text": "A Catholic church dedicated to Our Lady of Good Health, a popular title in South India.",
+                  "category": "religious",
+                  "coords": [
+                        77.117472,
+                        9.716501
+                  ]
+            },
+            {
+                  "name": "st.joseph church  cemetry",
+                  "text": "A quiet hillside cemetery associated with the local St. Joseph Catholic parish.",
+                  "category": "religious",
+                  "coords": [
+                        77.076027,
+                        9.755933
+                  ]
+            },
+            {
+                  "name": "Infant Jesus Church",
+                  "text": "A Catholic place of worship dedicated to the Infant Jesus in the spice-rich hills.",
+                  "category": "religious",
+                  "coords": [
+                        77.093873,
+                        9.749004
+                  ]
+            },
+            {
+                  "name": "St Joseph Church",
+                  "text": "A religious center for the Catholic community in the Cardamom Hills district.",
+                  "category": "religious",
+                  "coords": [
+                        77.101327,
+                        9.746944
+                  ]
+            },
+            {
+                  "name": "St Lazarus chappel",
+                  "text": "A small chapel dedicated to Saint Lazarus, providing a space for quiet prayer.",
+                  "category": "religious",
+                  "coords": [
+                        77.100984,
+                        9.747946
+                  ]
+            },
+            {
+                  "name": "St.Geoarge Parish Hall",
+                  "text": "A venue for church and social events located in the Kattappana area.",
+                  "category": "religious",
+                  "coords": [
+                        77.115534,
+                        9.747923
+                  ]
+            },
+            {
+                  "name": "St.George Jacobite Syrian Church",
+                  "text": "A Jacobite Syrian Orthodox church in the hills, following the West Syriac rite.",
+                  "category": "religious",
+                  "coords": [
+                        77.119752,
+                        9.750924
+                  ]
+            },
+            {
+                  "name": "Sree Narayana Guru Keerthi Sthambam",
+                  "text": "A memorial pillar and shrine honoring the Keralite philosopher Sree Narayana Guru.",
+                  "category": "religious",
+                  "coords": [
+                        77.115605,
+                        9.754261
+                  ]
+            },
+            {
+                  "name": "darussallam juma masjid",
+                  "text": "A mosque in the Cardamom Hills providing a space for Friday prayers for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        77.11327,
+                        9.755523
+                  ]
+            },
+            {
+                  "name": "St.Marys Knanaya church",
+                  "text": "A Syrian Christian church belonging to the unique Knanaya ethnic community.",
+                  "category": "religious",
+                  "coords": [
+                        77.11292,
+                        9.75697
+                  ]
+            },
+            {
+                  "name": "ST GREGORIOS CHAPEL",
+                  "text": "A small chapel dedicated to Saint Gregorios of Parumala, a revered Indian Orthodox saint.",
+                  "category": "religious",
+                  "coords": [
+                        77.073142,
+                        9.795783
+                  ]
+            },
+            {
+                  "name": "ST STEPHEN MALANKARA CATHOLIC CHURCH CHAPEL",
+                  "text": "A place of worship for the Syro-Malankara Catholic rite in the hilly landscape.",
+                  "category": "religious",
+                  "coords": [
+                        77.075466,
+                        9.783095
+                  ]
+            },
+            {
+                  "name": "ST MARY'S ORTHODOX CHURCH CHAPEL",
+                  "text": "A local shrine of the Malankara Orthodox Syrian Church in the rural Idukki region.",
+                  "category": "religious",
+                  "coords": [
+                        77.066441,
+                        9.795537
+                  ]
+            },
+            {
+                  "name": "St. Peter's Church Chempakapara",
+                  "text": "A parish church serving the farming community in the Chempakapara hills.",
+                  "category": "religious",
+                  "coords": [
+                        77.09569,
+                        9.828437
+                  ]
+            },
+            {
+                  "name": "vegetable marhet",
+                  "text": "A lively local market where fresh produce from the surrounding spice gardens is traded.",
+                  "category": "cultural",
+                  "coords": [
+                        77.115648,
+                        9.756849
+                  ]
+            },
+            {
+                  "name": "Mudiyeruma Market",
+                  "text": "A traditional village marketplace known for its trade in local agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        77.181859,
+                        9.817741
+                  ]
+            },
+            {
+                  "name": "Sunday Market",
+                  "text": "A weekly market in the Cardamom Hills where locals gather to buy and sell provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        77.194134,
+                        9.812702
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A lively mountain marketplace specializing in fresh cardamom and local spice trade.",
+                  "category": "cultural",
+                  "coords": [
+                        77.159148,
+                        9.795525
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IN-KL",
     coords: [77.15, 9.8],
@@ -435,7 +2406,268 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "nubra-valley-relief-v2",
+    id: "nubra-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sumoor Sand Dunes",
+                  "text": "Hochgelegene Sanddünen in der Nähe des Zusammenflusses der Flüsse Shyok und Nubra.",
+                  "category": "landmark",
+                  "coords": [
+                        77.607037,
+                        34.605753
+                  ]
+            },
+            {
+                  "name": "Luvan Tso",
+                  "text": "Ein ruhiger Hochgebirgssee in der kargen Hochwüstenlandschaft von Ladakh.",
+                  "category": "landmark",
+                  "coords": [
+                        77.552284,
+                        34.74715
+                  ]
+            },
+            {
+                  "name": "Sumur Maral",
+                  "text": "Die Überreste eines historischen Bauwerks im Dorf Sumur, die von der Vergangenheit der Region zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        77.6457,
+                        34.634394
+                  ]
+            },
+            {
+                  "name": "Samstanling Gompa",
+                  "text": "Ein farbenfrohes Kloster aus dem 19. Jahrhundert, das für seine prächtigen Wandmalereien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.625282,
+                        34.631734
+                  ]
+            },
+            {
+                  "name": "Prayer Wheel",
+                  "text": "Eine große, kunstvoll verzierte Gebetsmühle, die von Gläubigen im Uhrzeigersinn gedreht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        77.613214,
+                        34.618512
+                  ]
+            },
+            {
+                  "name": "Gompa",
+                  "text": "Ein spiritueller Zufluchtsort im Himalaya, der der buddhistischen Meditation gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        77.612747,
+                        34.612383
+                  ]
+            },
+            {
+                  "name": "Mani-wall",
+                  "text": "Diese buddhistische Steinmauer im Nubra-Tal ist mit unzähligen handgemeißelten Mantras bedeckt.",
+                  "category": "landmark",
+                  "coords": [
+                        77.611146,
+                        34.632202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sumoor Sand Dunes",
+                  "text": "Magaslati homokdűnék a Shyok és Nubra folyók összefolyásának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        77.607037,
+                        34.605753
+                  ]
+            },
+            {
+                  "name": "Luvan Tso",
+                  "text": "Nyugodt magashegyi tó Ladak kopár, magaslati sivatagi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        77.552284,
+                        34.74715
+                  ]
+            },
+            {
+                  "name": "Sumur Maral",
+                  "text": "Egy történelmi építmény maradványai Sumur faluban, amelyek a régió múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        77.6457,
+                        34.634394
+                  ]
+            },
+            {
+                  "name": "Samstanling Gompa",
+                  "text": "Színpompás, 19. századi kolostor, amely pompás falfestményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        77.625282,
+                        34.631734
+                  ]
+            },
+            {
+                  "name": "Prayer Wheel",
+                  "text": "Nagy, művészien díszített imakerék, amelyet a hívők az óramutató járásával megegyező irányba forgatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        77.613214,
+                        34.618512
+                  ]
+            },
+            {
+                  "name": "Gompa",
+                  "text": "Buddhista meditációnak szentelt spirituális menedékhely a Himalájában.",
+                  "category": "landmark",
+                  "coords": [
+                        77.612747,
+                        34.612383
+                  ]
+            },
+            {
+                  "name": "Mani-wall",
+                  "text": "Ez a buddhista kőfal a Nubra-völgyben számtalan kézzel vésett mantrát őriz.",
+                  "category": "landmark",
+                  "coords": [
+                        77.611146,
+                        34.632202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sumoor Sand Dunes",
+                  "text": "Dune de nisip de mare altitudine situate lângă confluența râurilor Shyok și Nubra.",
+                  "category": "landmark",
+                  "coords": [
+                        77.607037,
+                        34.605753
+                  ]
+            },
+            {
+                  "name": "Luvan Tso",
+                  "text": "Un lac liniștit de mare altitudine în peisajul arid de deșert montan din Ladakh.",
+                  "category": "landmark",
+                  "coords": [
+                        77.552284,
+                        34.74715
+                  ]
+            },
+            {
+                  "name": "Sumur Maral",
+                  "text": "Rămășițele unei structuri istorice din satul Sumur, care atestă trecutul regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        77.6457,
+                        34.634394
+                  ]
+            },
+            {
+                  "name": "Samstanling Gompa",
+                  "text": "O mănăstire colorată din secolul al XIX-lea, cunoscută pentru picturile sale murale magnifice.",
+                  "category": "landmark",
+                  "coords": [
+                        77.625282,
+                        34.631734
+                  ]
+            },
+            {
+                  "name": "Prayer Wheel",
+                  "text": "O roată de rugăciune mare, decorată artistic, care este învârtită de credincioși în sensul acelor de ceasornic.",
+                  "category": "landmark",
+                  "coords": [
+                        77.613214,
+                        34.618512
+                  ]
+            },
+            {
+                  "name": "Gompa",
+                  "text": "Un refugiu spiritual în Himalaya dedicat meditației budiste.",
+                  "category": "landmark",
+                  "coords": [
+                        77.612747,
+                        34.612383
+                  ]
+            },
+            {
+                  "name": "Mani-wall",
+                  "text": "Acest zid de piatră budist din Valea Nubra este acoperit cu nenumărate mantre sculptate manual.",
+                  "category": "landmark",
+                  "coords": [
+                        77.611146,
+                        34.632202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sumoor Sand Dunes",
+                  "text": "High-altitude sand dunes located near the confluence of the Shyok and Nubra rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        77.607037,
+                        34.605753
+                  ]
+            },
+            {
+                  "name": "Luvan Tso",
+                  "text": "A serene high-altitude lake in the barren high-desert landscape of Ladakh.",
+                  "category": "landmark",
+                  "coords": [
+                        77.552284,
+                        34.74715
+                  ]
+            },
+            {
+                  "name": "Sumur Maral",
+                  "text": "The remains of a historical structure in Sumur village, testifying to the region's past.",
+                  "category": "historical",
+                  "coords": [
+                        77.6457,
+                        34.634394
+                  ]
+            },
+            {
+                  "name": "Samstanling Gompa",
+                  "text": "A colourful 19th-century monastery known for its magnificent murals.",
+                  "category": "landmark",
+                  "coords": [
+                        77.625282,
+                        34.631734
+                  ]
+            },
+            {
+                  "name": "Prayer Wheel",
+                  "text": "A large, ornately decorated prayer wheel spun by devotees in a clockwise direction.",
+                  "category": "landmark",
+                  "coords": [
+                        77.613214,
+                        34.618512
+                  ]
+            },
+            {
+                  "name": "Gompa",
+                  "text": "A spiritual retreat in the Himalayas dedicated to Buddhist meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        77.612747,
+                        34.612383
+                  ]
+            },
+            {
+                  "name": "Mani-wall",
+                  "text": "This Buddhist stone wall in the Nubra Valley is covered with countless hand-carved mantras.",
+                  "category": "landmark",
+                  "coords": [
+                        77.611146,
+                        34.632202
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IN-LA",
     coords: [77.56, 34.68],
@@ -483,7 +2715,52 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "pir-panjal-range-mountain-relief-v2",
+    id: "pir-panjal-range-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mashid",
+                  "text": "Eingebettet in das raue Gelände der Pir-Panjal-Kette ist dieser Bergschrein ein abgelegener Mittelpunkt für hinduistische Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        76.03852,
+                        33.01703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mashid",
+                  "text": "A Pir Panjal-hegység zord terepén található hegyi szentély a hindu istentiszteletek egy távoli központja.",
+                  "category": "landmark",
+                  "coords": [
+                        76.03852,
+                        33.01703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mashid",
+                  "text": "Situat în mijlocul terenului accidentat al lanțului muntos Pir Panjal, acest sanctuar de munte este un punct central îndepărtat pentru cultul hindus.",
+                  "category": "landmark",
+                  "coords": [
+                        76.03852,
+                        33.01703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mashid",
+                  "text": "Situated amidst the rugged terrain of the Pir Panjal Range, this mountain shrine is a remote focal point for Hindu worship.",
+                  "category": "landmark",
+                  "coords": [
+                        76.03852,
+                        33.01703
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IN-HP",
     coords: [76.0, 33.0],
@@ -531,7 +2808,52 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "chambal-valley-relief-v2",
+    id: "chambal-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ranthambhore National Park",
+                  "text": "Ein weltweit anerkanntes Naturschutzgebiet in Rajasthan, das für seine bedeutende Bengal-Tiger-Population bekannt ist, die zwischen historischen Festungsruinen umherstreift.",
+                  "category": "natural",
+                  "coords": [
+                        76.497439,
+                        26.020806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ranthambhore National Park",
+                  "text": "Egy globálisan elismert természetvédelmi terület Rádzsasztánban, amelyet történelmi erődromok között kószáló jelentős bengálitigris-populációja tesz híressé.",
+                  "category": "natural",
+                  "coords": [
+                        76.497439,
+                        26.020806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ranthambhore National Park",
+                  "text": "O rezervație naturală recunoscută la nivel mondial în Rajasthan, celebră pentru proeminenta sa populație de tigri bengalezi care cutreieră printre ruinele istorice ale forturilor.",
+                  "category": "natural",
+                  "coords": [
+                        76.497439,
+                        26.020806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ranthambhore National Park",
+                  "text": "A globally recognized nature reserve in Rajasthan, celebrated for its prominent Bengal tiger population roaming among historic fort ruins.",
+                  "category": "natural",
+                  "coords": [
+                        76.497439,
+                        26.020806
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IN-MP",
     coords: [76.5, 26.0],
@@ -627,7 +2949,88 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "dandakaranya-plateau-relief-v2",
+    id: "dandakaranya-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gurudwara",
+                  "text": "Ein Sikh-Gotteshaus, das inmitten der rauen Landschaft des Dandakaranya-Plateaus Gemeinschaftsmahlzeiten und spirituellen Trost bietet.",
+                  "category": "religious",
+                  "coords": [
+                        82.016152,
+                        19.076809
+                  ]
+            },
+            {
+                  "name": "Hinglajin Mandir",
+                  "text": "Dieser regionale Hindu-Tempel, der der Göttin gewidmet ist, ist ein wichtiges Zentrum der lokalen Verehrung auf dem weiten Dandakaranya-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        82.001079,
+                        19.078111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gurudwara",
+                  "text": "Egy szikh istentiszteleti hely, amely közösségi étkezéseket és spirituális vigaszt nyújt a Dandakaranya-fennsík zord táján.",
+                  "category": "religious",
+                  "coords": [
+                        82.016152,
+                        19.076809
+                  ]
+            },
+            {
+                  "name": "Hinglajin Mandir",
+                  "text": "Ez az Istennőnek szentelt regionális hindu templom a helyi áhítat fontos központja a kiterjedt Dandakaranya-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        82.001079,
+                        19.078111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gurudwara",
+                  "text": "Un lăcaș de cult sikh care oferă mese comunitare și alinare spirituală în mijlocul peisajului accidentat al Platoului Dandakaranya.",
+                  "category": "religious",
+                  "coords": [
+                        82.016152,
+                        19.076809
+                  ]
+            },
+            {
+                  "name": "Hinglajin Mandir",
+                  "text": "Acest templu hindus regional dedicat Zeiței este un centru vital de devotament local pe întinsul Platou Dandakaranya.",
+                  "category": "landmark",
+                  "coords": [
+                        82.001079,
+                        19.078111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gurudwara",
+                  "text": "A Sikh place of worship offering community meals and spiritual solace amidst the rugged landscape of the Dandakaranya Plateau.",
+                  "category": "religious",
+                  "coords": [
+                        82.016152,
+                        19.076809
+                  ]
+            },
+            {
+                  "name": "Hinglajin Mandir",
+                  "text": "This regional Hindu temple dedicated to the Goddess is a vital center of local devotion on the expansive Dandakaranya Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        82.001079,
+                        19.078111
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "IN-CT",
     coords: [82.0, 19.0],
@@ -675,7 +3078,196 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "trisul-mountain-relief-v2",
+    id: "trisul-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Raunthi",
+                  "text": "Ein 6063 Meter hoher Gipfel, der Teil der zerklüfteten Bergwand ist, die das Nanda-Devi-Schutzgebiet umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        79.718854,
+                        30.36946
+                  ]
+            },
+            {
+                  "name": "Nanda Ghungti",
+                  "text": "Dieser 6309 Meter hohe Berg ist aufgrund seiner Form und seiner Nähe zur Nanda Devi als „Schleier der Nanda Devi“ bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        79.719332,
+                        30.34848
+                  ]
+            },
+            {
+                  "name": "Trisul I",
+                  "text": "Dieser markante 7120 Meter hohe Gipfel ähnelt einem Dreizack und ist einer der bekanntesten Berge der Kumaun-Region.",
+                  "category": "natural",
+                  "coords": [
+                        79.777646,
+                        30.313155
+                  ]
+            },
+            {
+                  "name": "Mrigthuni",
+                  "text": "Ein majestätischer Gipfel von 6855 Metern Höhe, der sich in der Nähe des Trisul-Massivs im Garhwal-Himalaya befindet.",
+                  "category": "natural",
+                  "coords": [
+                        79.829246,
+                        30.289741
+                  ]
+            },
+            {
+                  "name": "Hom Kund",
+                  "text": "Dieser kleine Hochgebirgssee ist ein heiliger Ort und das Ziel der spirituellen Nanda-Devi-Raj-Jat-Wallfahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        79.738777,
+                        30.313761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raunthi",
+                  "text": "Egy 6063 méter magas csúcs, amely a Nanda Devi menedékhelyet körülvevő szaggatott hegyfal része.",
+                  "category": "natural",
+                  "coords": [
+                        79.718854,
+                        30.36946
+                  ]
+            },
+            {
+                  "name": "Nanda Ghungti",
+                  "text": "Ez a 6309 méter magas hegy formája és a Nanda Devihez való közelsége miatt a „Nanda Devi fátyla” néven ismert.",
+                  "category": "natural",
+                  "coords": [
+                        79.719332,
+                        30.34848
+                  ]
+            },
+            {
+                  "name": "Trisul I",
+                  "text": "Ez a jellegzetes, 7120 méter magas csúcs egy szigonyra emlékeztet, és a Kumaun régió egyik legismertebb hegye.",
+                  "category": "natural",
+                  "coords": [
+                        79.777646,
+                        30.313155
+                  ]
+            },
+            {
+                  "name": "Mrigthuni",
+                  "text": "Fenséges, 6855 méter magas csúcs a Garhwal-Himalájában, a Trisul-masszívum közelében.",
+                  "category": "natural",
+                  "coords": [
+                        79.829246,
+                        30.289741
+                  ]
+            },
+            {
+                  "name": "Hom Kund",
+                  "text": "Ez a kis magashegyi tó szent hely, és a spirituális Nanda Devi Raj Jat zarándoklat végpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        79.738777,
+                        30.313761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raunthi",
+                  "text": "Un vârf de 6063 de metri care face parte din peretele muntos accidentat ce înconjoară Sanctuarul Nanda Devi.",
+                  "category": "natural",
+                  "coords": [
+                        79.718854,
+                        30.36946
+                  ]
+            },
+            {
+                  "name": "Nanda Ghungti",
+                  "text": "Acest munte de 6309 metri este cunoscut sub numele de „Vălul lui Nanda Devi” datorită formei sale și proximității față de Nanda Devi.",
+                  "category": "natural",
+                  "coords": [
+                        79.719332,
+                        30.34848
+                  ]
+            },
+            {
+                  "name": "Trisul I",
+                  "text": "Acest vârf proeminent de 7120 de metri seamănă cu un trident și este unul dintre cei mai cunoscuți munți din regiunea Kumaun.",
+                  "category": "natural",
+                  "coords": [
+                        79.777646,
+                        30.313155
+                  ]
+            },
+            {
+                  "name": "Mrigthuni",
+                  "text": "Un vârf maiestuos de 6855 de metri situat în apropierea masivului Trisul din Himalaya Garhwal.",
+                  "category": "natural",
+                  "coords": [
+                        79.829246,
+                        30.289741
+                  ]
+            },
+            {
+                  "name": "Hom Kund",
+                  "text": "Acest mic lac de mare altitudine este un loc sacru și destinația pelerinajului spiritual Nanda Devi Raj Jat.",
+                  "category": "landmark",
+                  "coords": [
+                        79.738777,
+                        30.313761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raunthi",
+                  "text": "A 6063-metre peak that forms part of the rugged mountain wall surrounding the Nanda Devi Sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        79.718854,
+                        30.36946
+                  ]
+            },
+            {
+                  "name": "Nanda Ghungti",
+                  "text": "This 6309-metre mountain is known as the 'Veil of Nanda Devi' due to its shape and proximity to Nanda Devi.",
+                  "category": "natural",
+                  "coords": [
+                        79.719332,
+                        30.34848
+                  ]
+            },
+            {
+                  "name": "Trisul I",
+                  "text": "This prominent 7120-metre peak resembles a trident and is one of the most recognized mountains in the Kumaun region.",
+                  "category": "natural",
+                  "coords": [
+                        79.777646,
+                        30.313155
+                  ]
+            },
+            {
+                  "name": "Mrigthuni",
+                  "text": "A majestic 6855-metre peak located near the Trisul massif in the Garhwal Himalayas.",
+                  "category": "natural",
+                  "coords": [
+                        79.829246,
+                        30.289741
+                  ]
+            },
+            {
+                  "name": "Hom Kund",
+                  "text": "This small high-altitude lake is a sacred site and the destination of the spiritual Nanda Devi Raj Jat pilgrimage.",
+                  "category": "landmark",
+                  "coords": [
+                        79.738777,
+                        30.313761
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IN-UT",
     coords: [79.77, 30.32],
@@ -771,7 +3363,124 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "kumaon-himalaya-mountain-relief-v2",
+    id: "kumaon-himalaya-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jhundidhar",
+                  "text": "In den rauen Gipfeln des Kumaon-Himalayas gelegen, bietet diese abgelegene Kultstätte einen Panoramablick auf die umliegenden Täler.",
+                  "category": "religious",
+                  "coords": [
+                        79.93378,
+                        30.05035
+                  ]
+            },
+            {
+                  "name": "Devi Temple",
+                  "text": "Dieser hoch gelegene Hindu-Tempel im Kumaon-Himalaya ist der Göttin gewidmet und wird häufig von den lokalen Berggemeinden besucht.",
+                  "category": "landmark",
+                  "coords": [
+                        80.04288,
+                        29.983853
+                  ]
+            },
+            {
+                  "name": "Shikhar Moolnarayan Temple",
+                  "text": "Auf einem markanten Gipfel im Kumaon-Himalaya gelegen, ist dieser Steintempel der Gottheit Moolnarayan gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        80.008281,
+                        29.933636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jhundidhar",
+                  "text": "A Kumaon Himalája zord csúcsai között található távoli istentiszteleti helyről panorámás kilátás nyílik a környező völgyekre.",
+                  "category": "religious",
+                  "coords": [
+                        79.93378,
+                        30.05035
+                  ]
+            },
+            {
+                  "name": "Devi Temple",
+                  "text": "Ez a Kumaon Himalájában magasan fekvő hindu templom az Istennőnek van szentelve, és a helyi hegyi közösségek gyakran látogatják.",
+                  "category": "landmark",
+                  "coords": [
+                        80.04288,
+                        29.983853
+                  ]
+            },
+            {
+                  "name": "Shikhar Moolnarayan Temple",
+                  "text": "A Kumaon Himalája egyik kiemelkedő csúcsán elhelyezkedő kőtemplomot Moolnarayan istenségnek szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        80.008281,
+                        29.933636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jhundidhar",
+                  "text": "Situat pe culmile accidentate ale Munților Himalaya Kumaon, acest lăcaș de cult izolat oferă vederi panoramice ale văilor înconjurătoare.",
+                  "category": "religious",
+                  "coords": [
+                        79.93378,
+                        30.05035
+                  ]
+            },
+            {
+                  "name": "Devi Temple",
+                  "text": "Acest templu hindus ridicat din Munții Himalaya Kumaon este dedicat Zeiței și vizitat frecvent de comunitățile montane locale.",
+                  "category": "landmark",
+                  "coords": [
+                        80.04288,
+                        29.983853
+                  ]
+            },
+            {
+                  "name": "Shikhar Moolnarayan Temple",
+                  "text": "Poziționat pe un vârf proeminent din Munții Himalaya Kumaon, acest templu de piatră este dedicat zeității Moolnarayan.",
+                  "category": "landmark",
+                  "coords": [
+                        80.008281,
+                        29.933636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jhundidhar",
+                  "text": "Located in the rugged peaks of the Kumaon Himalayas, this remote place of worship offers panoramic views of the surrounding valleys.",
+                  "category": "religious",
+                  "coords": [
+                        79.93378,
+                        30.05035
+                  ]
+            },
+            {
+                  "name": "Devi Temple",
+                  "text": "This elevated Hindu temple in the Kumaon Himalayas is dedicated to the Goddess and frequently visited by local mountain communities.",
+                  "category": "landmark",
+                  "coords": [
+                        80.04288,
+                        29.983853
+                  ]
+            },
+            {
+                  "name": "Shikhar Moolnarayan Temple",
+                  "text": "Positioned atop a prominent peak in the Kumaon Himalayas, this stone temple is dedicated to the deity Moolnarayan.",
+                  "category": "landmark",
+                  "coords": [
+                        80.008281,
+                        29.933636
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IN-UT",
     coords: [80.0, 30.0],
@@ -867,7 +3576,736 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "andhra-coast-relief-v2",
+    id: "andhra-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odalarevu Beach",
+                  "text": "Ein ruhiger Sandstrand am Golf von Bengalen, ideal für lange Spaziergänge an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        81.977263,
+                        16.413333
+                  ]
+            },
+            {
+                  "name": "Venkata Ramana Theatre",
+                  "text": "Das Venkata Ramana Theatre ist ein lokales Kino, das die neuesten regionalen Telugu-Filme zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        82.004019,
+                        16.577352
+                  ]
+            },
+            {
+                  "name": "Sri Lalitha Theatre",
+                  "text": "Ein beliebtes lokales Kino, das Unterhaltung durch regionale und nationale Filmproduktionen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        82.00187,
+                        16.577128
+                  ]
+            },
+            {
+                  "name": "Venkata Rama Theatre",
+                  "text": "Das Venkata Rama Theatre ist ein Unterhaltungszentrum, das für seine Filmvorführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        82.003381,
+                        16.573715
+                  ]
+            },
+            {
+                  "name": "waterpark",
+                  "text": "Ein lokaler Wasserpark mit Rutschen und Pools, ein beliebtes Ausflugsziel für Familien an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        81.987697,
+                        16.559499
+                  ]
+            },
+            {
+                  "name": "Sri Lakshmi Theatre",
+                  "text": "Das Sri Lakshmi Theatre ist ein traditionelles Kino, das ein breites Publikum für regionale Filme anzieht.",
+                  "category": "cultural",
+                  "coords": [
+                        82.008314,
+                        16.589016
+                  ]
+            },
+            {
+                  "name": "Samudra Beach Resorts",
+                  "text": "Ein Strandresort an der Küste von Andhra, das Unterkünfte mit direktem Blick auf das Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        81.977788,
+                        16.414909
+                  ]
+            },
+            {
+                  "name": "Sri Sita Rama Temple",
+                  "text": "Ein hinduistischer Sri Sita Rama Tempel, der für seine religiösen Feste zu Ehren von Rama bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.958402,
+                        16.421914
+                  ]
+            },
+            {
+                  "name": "Kanaka Durga Temple",
+                  "text": "Ein Kanaka-Durga-Tempel, der der Göttin Durga gewidmet ist und ein Ort der spirituellen Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.959985,
+                        16.424001
+                  ]
+            },
+            {
+                  "name": "Maridamma Temple",
+                  "text": "Ein Maridamma-Tempel, ein bedeutendes hinduistisches Heiligtum, in dem die lokale Göttin verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        81.969642,
+                        16.426201
+                  ]
+            },
+            {
+                  "name": "JDPM Church",
+                  "text": "Die JDPM Church ist eine christliche Kirche an der Küste, die regelmäßige Gottesdienste für die Gemeinde anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        81.974266,
+                        16.423549
+                  ]
+            },
+            {
+                  "name": "Ramalayam Temple",
+                  "text": "Ein Ramalayam-Tempel an der Küste von Andhra, der der Verehrung von Lord Rama gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.998826,
+                        16.491302
+                  ]
+            },
+            {
+                  "name": "Vigneshwaralayam",
+                  "text": "Ein traditioneller Ganesha-Tempel, der für seine markante monolithische Götterfigur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002962,
+                        16.577408
+                  ]
+            },
+            {
+                  "name": "Eadarapalli Yellamma Temple",
+                  "text": "Ein lokaler Schrein der Volksgöttin Yellamma, der ein Zentrum für regionale Jataras-Feste ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.999846,
+                        16.57843
+                  ]
+            },
+            {
+                  "name": "Subrahmanyeshwara Swami Temple",
+                  "text": "Ein Lord Murugan gewidmeter Tempel, in dem häufig Naga-Dosha-Rituale durchgeführt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002456,
+                        16.572818
+                  ]
+            },
+            {
+                  "name": "Sai Baba Temple",
+                  "text": "Ein Shirdi Sai Baba geweihter Gebetsort, der für seine friedliche spirituelle Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002033,
+                        16.569778
+                  ]
+            },
+            {
+                  "name": "Sri Venkateshwara Swami Temple",
+                  "text": "Ein Lord Venkateswara gewidmeter Schrein, der im klassischen südindischen Dravida-Stil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        82.012833,
+                        16.58054
+                  ]
+            },
+            {
+                  "name": "god",
+                  "text": "Ein kleiner hinduistischer Schrein, der lokalen Gottheiten gewidmet ist und als Ort der täglichen Andacht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        81.986875,
+                        16.509792
+                  ]
+            },
+            {
+                  "name": "shivalayam",
+                  "text": "Ein Shiva-Tempel, der oft durch einen zentralen Lingam und eine Nandi-Statue gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.943975,
+                        16.457611
+                  ]
+            },
+            {
+                  "name": "mudho temple",
+                  "text": "Eine lokale christliche Kirche, die als geistliches Zentrum für die christliche Gemeinde der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        81.939848,
+                        16.454889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odalarevu Beach",
+                  "text": "Csendes homokos strand a Bengáli-öböl partján, amely ideális hosszú tengerparti sétákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        81.977263,
+                        16.413333
+                  ]
+            },
+            {
+                  "name": "Venkata Ramana Theatre",
+                  "text": "A Venkata Ramana Theatre egy helyi mozi, amely a legújabb regionális telugu filmeket vetíti.",
+                  "category": "cultural",
+                  "coords": [
+                        82.004019,
+                        16.577352
+                  ]
+            },
+            {
+                  "name": "Sri Lalitha Theatre",
+                  "text": "Népszerű helyi mozi, amely regionális és országos filmprodukciókkal várja a nézőket.",
+                  "category": "cultural",
+                  "coords": [
+                        82.00187,
+                        16.577128
+                  ]
+            },
+            {
+                  "name": "Venkata Rama Theatre",
+                  "text": "A Venkata Rama Theatre egy szórakoztató központ, amely filmvetítéseiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        82.003381,
+                        16.573715
+                  ]
+            },
+            {
+                  "name": "waterpark",
+                  "text": "Helyi vízipark csúszdákkal és medencékkel, a tengerparti családok kedvelt kirándulóhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        81.987697,
+                        16.559499
+                  ]
+            },
+            {
+                  "name": "Sri Lakshmi Theatre",
+                  "text": "A Srí Lakshmi Theatre egy hagyományos mozi, amely széles közönséget vonz a regionális filmekre.",
+                  "category": "cultural",
+                  "coords": [
+                        82.008314,
+                        16.589016
+                  ]
+            },
+            {
+                  "name": "Samudra Beach Resorts",
+                  "text": "Tengerparti üdülőhely Andhra partjainál, amely közvetlen tengerre néző szállást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        81.977788,
+                        16.414909
+                  ]
+            },
+            {
+                  "name": "Sri Sita Rama Temple",
+                  "text": "Hindu Srí Szíta Ráma-templom, amely a Ráma tiszteletére rendezett vallási ünnepeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        81.958402,
+                        16.421914
+                  ]
+            },
+            {
+                  "name": "Kanaka Durga Temple",
+                  "text": "Kanaka Durga-templom, amelyet Durga istennőnek szenteltek, és jelentős spirituális helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        81.959985,
+                        16.424001
+                  ]
+            },
+            {
+                  "name": "Maridamma Temple",
+                  "text": "Maridamma-templom, egy jelentős hindu szentély, ahol a helyi istennőt tisztelik.",
+                  "category": "landmark",
+                  "coords": [
+                        81.969642,
+                        16.426201
+                  ]
+            },
+            {
+                  "name": "JDPM Church",
+                  "text": "A JDPM Church egy keresztény templom a parton, amely rendszeres istentiszteleteket kínál a közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        81.974266,
+                        16.423549
+                  ]
+            },
+            {
+                  "name": "Ramalayam Temple",
+                  "text": "Ramalayam-templom Andhra partjainál, amelyet az Úr Ráma tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        81.998826,
+                        16.491302
+                  ]
+            },
+            {
+                  "name": "Vigneshwaralayam",
+                  "text": "Hagyományos Ganesha-templom, amely jellegzetes monolit istenszobráról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002962,
+                        16.577408
+                  ]
+            },
+            {
+                  "name": "Eadarapalli Yellamma Temple",
+                  "text": "Yellamma népi istennő helyi szentélye, amely a regionális Jatara fesztiválok központja.",
+                  "category": "landmark",
+                  "coords": [
+                        81.999846,
+                        16.57843
+                  ]
+            },
+            {
+                  "name": "Subrahmanyeshwara Swami Temple",
+                  "text": "Lord Murugannak szentelt templom, ahol gyakran végeznek Naga Dosha rituálékat.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002456,
+                        16.572818
+                  ]
+            },
+            {
+                  "name": "Sai Baba Temple",
+                  "text": "Shirdi Sai Babának szentelt imádkozóhely, amely békés spirituális légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002033,
+                        16.569778
+                  ]
+            },
+            {
+                  "name": "Sri Venkateshwara Swami Temple",
+                  "text": "Lord Venkateswarának szentelt szentély, amely klasszikus dél-indiai dravida stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        82.012833,
+                        16.58054
+                  ]
+            },
+            {
+                  "name": "god",
+                  "text": "Helyi istenségeknek szentelt kis hindu szentély, amely a napi áhítat helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        81.986875,
+                        16.509792
+                  ]
+            },
+            {
+                  "name": "shivalayam",
+                  "text": "Shiva-templom, amelyet gyakran egy központi Lingam és egy Nandi-szobor jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        81.943975,
+                        16.457611
+                  ]
+            },
+            {
+                  "name": "mudho temple",
+                  "text": "Helyi keresztény templom, amely a régió keresztény közösségének lelki központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        81.939848,
+                        16.454889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odalarevu Beach",
+                  "text": "O plajă de nisip liniștită la Golful Bengal, ideală pentru plimbări lungi pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        81.977263,
+                        16.413333
+                  ]
+            },
+            {
+                  "name": "Venkata Ramana Theatre",
+                  "text": "Teatrul Venkata Ramana este un cinematograf local care rulează cele mai recente filme regionale în limba telugu.",
+                  "category": "cultural",
+                  "coords": [
+                        82.004019,
+                        16.577352
+                  ]
+            },
+            {
+                  "name": "Sri Lalitha Theatre",
+                  "text": "Un cinematograf local popular care oferă divertisment prin producții cinematografice regionale și naționale.",
+                  "category": "cultural",
+                  "coords": [
+                        82.00187,
+                        16.577128
+                  ]
+            },
+            {
+                  "name": "Venkata Rama Theatre",
+                  "text": "Teatrul Venkata Rama este un centru de divertisment cunoscut pentru proiecțiile sale de filme.",
+                  "category": "cultural",
+                  "coords": [
+                        82.003381,
+                        16.573715
+                  ]
+            },
+            {
+                  "name": "waterpark",
+                  "text": "Un parc acvatic local cu tobogane și piscine, o destinație populară pentru familiile de pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        81.987697,
+                        16.559499
+                  ]
+            },
+            {
+                  "name": "Sri Lakshmi Theatre",
+                  "text": "Teatrul Sri Lakshmi este un cinematograf tradițional care atrage un public larg pentru filme regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        82.008314,
+                        16.589016
+                  ]
+            },
+            {
+                  "name": "Samudra Beach Resorts",
+                  "text": "O stațiune de pe plajă de pe coasta Andhra, care oferă cazare cu vedere directă la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        81.977788,
+                        16.414909
+                  ]
+            },
+            {
+                  "name": "Sri Sita Rama Temple",
+                  "text": "Un templu hindu Sri Sita Rama, cunoscut pentru festivalurile sale religioase în onoarea lui Rama.",
+                  "category": "landmark",
+                  "coords": [
+                        81.958402,
+                        16.421914
+                  ]
+            },
+            {
+                  "name": "Kanaka Durga Temple",
+                  "text": "Un templu Kanaka Durga dedicat zeiței Durga, fiind un loc de importanță spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        81.959985,
+                        16.424001
+                  ]
+            },
+            {
+                  "name": "Maridamma Temple",
+                  "text": "Un templu Maridamma, un altar hindu important unde este venerată zeița locală.",
+                  "category": "landmark",
+                  "coords": [
+                        81.969642,
+                        16.426201
+                  ]
+            },
+            {
+                  "name": "JDPM Church",
+                  "text": "Biserica JDPM este o biserică creștină de pe coastă, care oferă servicii religioase regulate pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        81.974266,
+                        16.423549
+                  ]
+            },
+            {
+                  "name": "Ramalayam Temple",
+                  "text": "Un templu Ramalayam pe coasta Andhra, dedicat venerării Domnului Rama.",
+                  "category": "landmark",
+                  "coords": [
+                        81.998826,
+                        16.491302
+                  ]
+            },
+            {
+                  "name": "Vigneshwaralayam",
+                  "text": "Un templu tradițional dedicat lui Ganesha, cunoscut pentru statuia sa monolitică proeminentă.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002962,
+                        16.577408
+                  ]
+            },
+            {
+                  "name": "Eadarapalli Yellamma Temple",
+                  "text": "Un sanctuar local al zeiței populare Yellamma, care este un centru pentru festivalurile regionale Jatara.",
+                  "category": "landmark",
+                  "coords": [
+                        81.999846,
+                        16.57843
+                  ]
+            },
+            {
+                  "name": "Subrahmanyeshwara Swami Temple",
+                  "text": "Un templu dedicat Lordului Murugan, unde se desfășoară frecvent ritualuri Naga Dosha.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002456,
+                        16.572818
+                  ]
+            },
+            {
+                  "name": "Sai Baba Temple",
+                  "text": "Un loc de rugăciune dedicat lui Shirdi Sai Baba, cunoscut pentru atmosfera sa spirituală liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002033,
+                        16.569778
+                  ]
+            },
+            {
+                  "name": "Sri Venkateshwara Swami Temple",
+                  "text": "Un sanctuar dedicat Lordului Venkateswara, construit în stilul clasic dravidian din sudul Indiei.",
+                  "category": "religious",
+                  "coords": [
+                        82.012833,
+                        16.58054
+                  ]
+            },
+            {
+                  "name": "god",
+                  "text": "Un mic sanctuar hindu dedicat zeităților locale, servind ca loc de devoțiune zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        81.986875,
+                        16.509792
+                  ]
+            },
+            {
+                  "name": "shivalayam",
+                  "text": "Un templu dedicat lui Shiva, caracterizat adesea printr-un Lingam central și o statuie Nandi.",
+                  "category": "landmark",
+                  "coords": [
+                        81.943975,
+                        16.457611
+                  ]
+            },
+            {
+                  "name": "mudho temple",
+                  "text": "O biserică creștină locală, care servește ca centru spiritual pentru comunitatea creștină din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        81.939848,
+                        16.454889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odalarevu Beach",
+                  "text": "A serene sandy beach on the Bay of Bengal, ideal for long coastal walks.",
+                  "category": "landmark",
+                  "coords": [
+                        81.977263,
+                        16.413333
+                  ]
+            },
+            {
+                  "name": "Venkata Ramana Theatre",
+                  "text": "The Venkata Ramana Theatre is a local cinema screening the latest regional Telugu films.",
+                  "category": "cultural",
+                  "coords": [
+                        82.004019,
+                        16.577352
+                  ]
+            },
+            {
+                  "name": "Sri Lalitha Theatre",
+                  "text": "A popular local cinema offering entertainment through regional and national film productions.",
+                  "category": "cultural",
+                  "coords": [
+                        82.00187,
+                        16.577128
+                  ]
+            },
+            {
+                  "name": "Venkata Rama Theatre",
+                  "text": "The Venkata Rama Theatre is an entertainment hub known for its film screenings.",
+                  "category": "cultural",
+                  "coords": [
+                        82.003381,
+                        16.573715
+                  ]
+            },
+            {
+                  "name": "waterpark",
+                  "text": "A local water park featuring slides and pools, a popular destination for families on the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        81.987697,
+                        16.559499
+                  ]
+            },
+            {
+                  "name": "Sri Lakshmi Theatre",
+                  "text": "The Sri Lakshmi Theatre is a traditional cinema attracting a wide audience for regional films.",
+                  "category": "cultural",
+                  "coords": [
+                        82.008314,
+                        16.589016
+                  ]
+            },
+            {
+                  "name": "Samudra Beach Resorts",
+                  "text": "A beach resort on the Andhra coast offering accommodations with direct views of the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        81.977788,
+                        16.414909
+                  ]
+            },
+            {
+                  "name": "Sri Sita Rama Temple",
+                  "text": "A Hindu Sri Sita Rama temple known for its religious festivals in honor of Rama.",
+                  "category": "landmark",
+                  "coords": [
+                        81.958402,
+                        16.421914
+                  ]
+            },
+            {
+                  "name": "Kanaka Durga Temple",
+                  "text": "A Kanaka Durga temple dedicated to the goddess Durga, serving as a site of spiritual significance.",
+                  "category": "landmark",
+                  "coords": [
+                        81.959985,
+                        16.424001
+                  ]
+            },
+            {
+                  "name": "Maridamma Temple",
+                  "text": "A Maridamma temple, an important Hindu shrine where the local goddess is worshipped.",
+                  "category": "landmark",
+                  "coords": [
+                        81.969642,
+                        16.426201
+                  ]
+            },
+            {
+                  "name": "JDPM Church",
+                  "text": "The JDPM Church is a coastal Christian church offering regular services for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        81.974266,
+                        16.423549
+                  ]
+            },
+            {
+                  "name": "Ramalayam Temple",
+                  "text": "A Ramalayam temple on the Andhra coast dedicated to the worship of Lord Rama.",
+                  "category": "landmark",
+                  "coords": [
+                        81.998826,
+                        16.491302
+                  ]
+            },
+            {
+                  "name": "Vigneshwaralayam",
+                  "text": "A traditional temple dedicated to Ganesha, known for its prominent monolithic idol.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002962,
+                        16.577408
+                  ]
+            },
+            {
+                  "name": "Eadarapalli Yellamma Temple",
+                  "text": "A local shrine of the folk goddess Yellamma, which serves as a center for regional Jatara festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        81.999846,
+                        16.57843
+                  ]
+            },
+            {
+                  "name": "Subrahmanyeshwara Swami Temple",
+                  "text": "A temple dedicated to Lord Murugan, where Naga Dosha rituals are frequently performed.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002456,
+                        16.572818
+                  ]
+            },
+            {
+                  "name": "Sai Baba Temple",
+                  "text": "A place of worship dedicated to Shirdi Sai Baba, known for its peaceful spiritual atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        82.002033,
+                        16.569778
+                  ]
+            },
+            {
+                  "name": "Sri Venkateshwara Swami Temple",
+                  "text": "A shrine dedicated to Lord Venkateswara, built in the classic South Indian Dravidian style.",
+                  "category": "religious",
+                  "coords": [
+                        82.012833,
+                        16.58054
+                  ]
+            },
+            {
+                  "name": "god",
+                  "text": "A small Hindu shrine dedicated to local deities, serving as a site for daily devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        81.986875,
+                        16.509792
+                  ]
+            },
+            {
+                  "name": "shivalayam",
+                  "text": "A Shiva temple, often characterized by a central Lingam and a Nandi statue.",
+                  "category": "landmark",
+                  "coords": [
+                        81.943975,
+                        16.457611
+                  ]
+            },
+            {
+                  "name": "mudho temple",
+                  "text": "A local Christian church serving as a spiritual center for the region's Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        81.939848,
+                        16.454889
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "IN-AP",
     coords: [82.0, 16.5],
@@ -915,7 +4353,808 @@ export const poiExtraIndiaReliefV2: POI[] = [
     },
   },
   {
-    id: "dzukou-valley-relief-v2",
+    id: "dzukou-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puliebadze WLS",
+                  "text": "Ein Naturschutzgebiet bei Kohima, das den seltenen Blyth-Tragopan schützt und Ausblicke auf den Mount Pulie Badze bietet.",
+                  "category": "natural",
+                  "coords": [
+                        94.062553,
+                        25.610259
+                  ]
+            },
+            {
+                  "name": "Battle of Kohima Museum",
+                  "text": "Dieses Museum im Heritage Village Kisama zeigt Relikte aus der entscheidenden Schlacht des Zweiten Weltkriegs von 1944.",
+                  "category": "museum",
+                  "coords": [
+                        94.115298,
+                        25.616387
+                  ]
+            },
+            {
+                  "name": "General Mowu Gwizantsu",
+                  "text": "Ein Denkmal in den historischen Naga-Bergen, das einem prominenten Führer der Naga-Nationalbewegung gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        94.043795,
+                        25.673195
+                  ]
+            },
+            {
+                  "name": "Khehu Ba",
+                  "text": "Antike Steinreste einer historischen Siedlung in den zerklüfteten Hügeln nahe dem Dzukou-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        93.999114,
+                        25.641055
+                  ]
+            },
+            {
+                  "name": "RECMPA",
+                  "text": "Ein modernes Kulturzentrum und Amphitheater, das der Musik und den traditionellen darstellenden Künsten von Nagaland gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        94.07477,
+                        25.663369
+                  ]
+            },
+            {
+                  "name": "Shiv Nepali Mandir, Chandmari",
+                  "text": "Ein Hindutempel im Viertel Chandmari, der der lokalen nepalesischen Gemeinschaft mit traditionellen Schreinen dient.",
+                  "category": "religious",
+                  "coords": [
+                        94.10448,
+                        25.659127
+                  ]
+            },
+            {
+                  "name": "Durga Bari",
+                  "text": "Eine traditionelle hinduistische Gebetsstätte, die der Göttin Durga gewidmet ist und oft im Zentrum lokaler Feste steht.",
+                  "category": "religious",
+                  "coords": [
+                        94.104783,
+                        25.660972
+                  ]
+            },
+            {
+                  "name": "Lotha Baptist Church",
+                  "text": "Eine bedeutende protestantische Kirche, die der Gemeinschaft der Lotha-Naga mit Gottesdiensten in ihrer Muttersprache dient.",
+                  "category": "religious",
+                  "coords": [
+                        94.105739,
+                        25.662307
+                  ]
+            },
+            {
+                  "name": "Moa Baptist Church",
+                  "text": "Eine lokale baptistische Gebetsstätte, die als geistliches Zentrum für die christlichen Bewohner des Viertels dient.",
+                  "category": "religious",
+                  "coords": [
+                        94.102583,
+                        25.665531
+                  ]
+            },
+            {
+                  "name": "Mezoma Baptist Church",
+                  "text": "Eine auf einem Hügel gelegene Kirche im historischen Angami-Naga-Dorf Mezoma mit Blick über das umliegende Tal.",
+                  "category": "religious",
+                  "coords": [
+                        94.016546,
+                        25.670567
+                  ]
+            },
+            {
+                  "name": "Assamese Chuch",
+                  "text": "Eine christliche Gebetsstätte, die für die in der Region lebende assamesischsprachige Gemeinschaft errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        94.095384,
+                        25.660335
+                  ]
+            },
+            {
+                  "name": "TYO Bamboo Market",
+                  "text": "Ein geschäftiger lokaler Marktplatz, der auf traditionelles Bambuskunsthandwerk, Körbe und Möbel spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        94.099362,
+                        25.658557
+                  ]
+            },
+            {
+                  "name": "yimkhiung khiangyam",
+                  "text": "Ein traditionelles Stammeshaus der Yimkhiung-Naga mit markanten architektonischen Motiven und Holzschnitzereien.",
+                  "category": "landmark",
+                  "coords": [
+                        94.113653,
+                        25.616175
+                  ]
+            },
+            {
+                  "name": "Dzüko Valley Base Camp",
+                  "text": "Der Hauptausgangspunkt für Wanderungen ins Tal, der einfache Unterkünfte und Ausblicke auf die nebelverhangenen Gipfel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        94.002055,
+                        25.626389
+                  ]
+            },
+            {
+                  "name": "Dzuko Valley",
+                  "text": "Ein hochgelegenes Tal, das für seine smaragdgrünen Hügel und die seltenen rosa Dzüko-Lilien bekannt ist, die im Sommer blühen.",
+                  "category": "landmark",
+                  "coords": [
+                        94.000812,
+                        25.606811
+                  ]
+            },
+            {
+                  "name": "Mizo Church",
+                  "text": "Eine christliche Gebetsstätte, die der Mizo-Gemeinschaft mit Hymnen und Gottesdiensten in der Mizo-Sprache dient.",
+                  "category": "landmark",
+                  "coords": [
+                        94.099898,
+                        25.661116
+                  ]
+            },
+            {
+                  "name": "AG AO CHURCH",
+                  "text": "Eine Kirche der Assemblies of God, die der Gemeinschaft der Ao-Naga dient und in einer ruhigen Wohngegend liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        94.111083,
+                        25.659569
+                  ]
+            },
+            {
+                  "name": "City Church",
+                  "text": "Eine moderne protestantische Gemeindekirche, die geistliche Dienste im Herzen der Hauptstadt anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        94.101456,
+                        25.661149
+                  ]
+            },
+            {
+                  "name": "CRC",
+                  "text": "Eine lokale Christian Revival Church, in der regelmäßige evangelikale Gottesdienste und Gemeindetreffen stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        94.101243,
+                        25.658611
+                  ]
+            },
+            {
+                  "name": "Kuzhami Chakhesang Baptist Church",
+                  "text": "Ein baptistisches Gotteshaus, das den kuzhamisprachigen Mitgliedern des Stammes der Chakhesang-Naga dient.",
+                  "category": "landmark",
+                  "coords": [
+                        94.096923,
+                        25.657816
+                  ]
+            },
+            {
+                  "name": "Ministers' Hill Baptist Church",
+                  "text": "Eine prominente baptistische Kirche auf einem Hügel, die eine große Gemeinde in einem der wichtigsten Stadtbezirke betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        94.092911,
+                        25.656463
+                  ]
+            },
+            {
+                  "name": "Chakhesang Baptist Church",
+                  "text": "Eine große baptistische Stammeskirche, die als zentraler Knotenpunkt für die Gemeinschaft der Chakhesang-Naga dient.",
+                  "category": "landmark",
+                  "coords": [
+                        94.09909,
+                        25.653691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puliebadze WLS",
+                  "text": "Kohima közeli természetvédelmi terület, amely a ritka Blyth-tragopánnak ad otthont és kilátást nyújt a Pulie Badze-hegyre.",
+                  "category": "natural",
+                  "coords": [
+                        94.062553,
+                        25.610259
+                  ]
+            },
+            {
+                  "name": "Battle of Kohima Museum",
+                  "text": "A Kisama Heritage Village-ben található múzeum az 1944-es sorsdöntő második világháborús csata emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        94.115298,
+                        25.616387
+                  ]
+            },
+            {
+                  "name": "General Mowu Gwizantsu",
+                  "text": "A történelmi Naga-hegyekben található emlékmű, amelyet a naga nemzeti mozgalom egyik kiemelkedő vezetőjének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        94.043795,
+                        25.673195
+                  ]
+            },
+            {
+                  "name": "Khehu Ba",
+                  "text": "Egy történelmi település ősi kőmaradványai a Dzukou-völgy közeli vadregényes dombok között.",
+                  "category": "historical",
+                  "coords": [
+                        93.999114,
+                        25.641055
+                  ]
+            },
+            {
+                  "name": "RECMPA",
+                  "text": "Modern kulturális központ és amfiteátrum, amely Nagaland zenéjének és hagyományos előadóművészetének ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        94.07477,
+                        25.663369
+                  ]
+            },
+            {
+                  "name": "Shiv Nepali Mandir, Chandmari",
+                  "text": "Hindu templom Chandmari negyedben, amely hagyományos szentélyeivel a helyi nepáli közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        94.10448,
+                        25.659127
+                  ]
+            },
+            {
+                  "name": "Durga Bari",
+                  "text": "Hagyományos hindu istentiszteleti hely Durga istennőnek szentelve, amely gyakran a helyi fesztiválok központja.",
+                  "category": "religious",
+                  "coords": [
+                        94.104783,
+                        25.660972
+                  ]
+            },
+            {
+                  "name": "Lotha Baptist Church",
+                  "text": "Jelentős protestáns templom, amely a lotha naga közösséget szolgálja anyanyelvi istentiszteletekkel.",
+                  "category": "religious",
+                  "coords": [
+                        94.105739,
+                        25.662307
+                  ]
+            },
+            {
+                  "name": "Moa Baptist Church",
+                  "text": "Helyi baptista istentiszteleti hely, amely a környék keresztény lakóinak spirituális központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        94.102583,
+                        25.665531
+                  ]
+            },
+            {
+                  "name": "Mezoma Baptist Church",
+                  "text": "Dombtetőn álló templom a történelmi Mezoma Angami naga faluban, kilátással a környező völgyre.",
+                  "category": "religious",
+                  "coords": [
+                        94.016546,
+                        25.670567
+                  ]
+            },
+            {
+                  "name": "Assamese Chuch",
+                  "text": "Keresztény istentiszteleti hely, amelyet a régióban élő asszámi nyelvű közösség számára hoztak létre.",
+                  "category": "religious",
+                  "coords": [
+                        94.095384,
+                        25.660335
+                  ]
+            },
+            {
+                  "name": "TYO Bamboo Market",
+                  "text": "Nyüzsgő helyi piac, amely hagyományos bambusz kézműves termékekre, kosarakra és bútorokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        94.099362,
+                        25.658557
+                  ]
+            },
+            {
+                  "name": "yimkhiung khiangyam",
+                  "text": "Hagyományos Yimkhiung naga törzsi ház, jellegzetes építészeti motívumokkal és fafaragásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        94.113653,
+                        25.616175
+                  ]
+            },
+            {
+                  "name": "Dzüko Valley Base Camp",
+                  "text": "A völgybe irányuló túrák fő kiindulópontja, amely egyszerű szállást és kilátást kínál a ködbe burkolózó csúcsokra.",
+                  "category": "landmark",
+                  "coords": [
+                        94.002055,
+                        25.626389
+                  ]
+            },
+            {
+                  "name": "Dzuko Valley",
+                  "text": "Magaslati völgy, amely smaragdzöld dombjairól és a nyáron nyíló ritka rózsaszín Dzüko-liliomokról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        94.000812,
+                        25.606811
+                  ]
+            },
+            {
+                  "name": "Mizo Church",
+                  "text": "Keresztény istentiszteleti hely, amely mizo nyelvű himnuszokkal és szertartásokkal szolgálja a mizo közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        94.099898,
+                        25.661116
+                  ]
+            },
+            {
+                  "name": "AG AO CHURCH",
+                  "text": "Az Assemblies of God egyháza, amely az ao naga közösséget szolgálja, egy csendes lakóövezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        94.111083,
+                        25.659569
+                  ]
+            },
+            {
+                  "name": "City Church",
+                  "text": "Modern protestáns közösségi templom, amely spirituális szolgáltatásokat nyújt a főváros szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        94.101456,
+                        25.661149
+                  ]
+            },
+            {
+                  "name": "CRC",
+                  "text": "Helyi Christian Revival Church, amely rendszeres evangéliumi istentiszteleteknek és közösségi összejöveteleknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        94.101243,
+                        25.658611
+                  ]
+            },
+            {
+                  "name": "Kuzhami Chakhesang Baptist Church",
+                  "text": "Baptista istentiszteleti hely, amely a Chakhesang naga törzs kuzhami nyelvű tagjait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        94.096923,
+                        25.657816
+                  ]
+            },
+            {
+                  "name": "Ministers' Hill Baptist Church",
+                  "text": "Egy dombon fekvő jelentős baptista templom, amely a város egyik kulcsfontosságú negyedében szolgálja a nagy gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        94.092911,
+                        25.656463
+                  ]
+            },
+            {
+                  "name": "Chakhesang Baptist Church",
+                  "text": "Nagy törzsi baptista templom, amely a Chakhesang naga közösség központi csomópontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        94.09909,
+                        25.653691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puliebadze WLS",
+                  "text": "O rezervație naturală lângă Kohima care protejează rarul fazan tragopan al lui Blyth și oferă vederi spre Muntele Pulie Badze.",
+                  "category": "natural",
+                  "coords": [
+                        94.062553,
+                        25.610259
+                  ]
+            },
+            {
+                  "name": "Battle of Kohima Museum",
+                  "text": "Situat în Satul Cultural Kisama, acesta expune relicve din bătălia decisivă de la Kohima din 1944.",
+                  "category": "museum",
+                  "coords": [
+                        94.115298,
+                        25.616387
+                  ]
+            },
+            {
+                  "name": "General Mowu Gwizantsu",
+                  "text": "Un monument dedicat unui lider proeminent al mișcării naționale Naga, situat în zona istorică Naga Hills.",
+                  "category": "historical",
+                  "coords": [
+                        94.043795,
+                        25.673195
+                  ]
+            },
+            {
+                  "name": "Khehu Ba",
+                  "text": "Rămășițe antice din piatră ale unei așezări istorice în dealurile accidentate de lângă Valea Dzukou.",
+                  "category": "historical",
+                  "coords": [
+                        93.999114,
+                        25.641055
+                  ]
+            },
+            {
+                  "name": "RECMPA",
+                  "text": "Un centru cultural modern și amfiteatru dedicat muzicii și artelor spectacolului tradiționale din Nagaland.",
+                  "category": "cultural",
+                  "coords": [
+                        94.07477,
+                        25.663369
+                  ]
+            },
+            {
+                  "name": "Shiv Nepali Mandir, Chandmari",
+                  "text": "Un templu hindu în zona Chandmari, care deservește comunitatea nepaleză locală cu altare tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        94.10448,
+                        25.659127
+                  ]
+            },
+            {
+                  "name": "Durga Bari",
+                  "text": "Un lăcaș de cult hindu tradițional dedicat zeiței Durga, adesea centrul festivalurilor locale.",
+                  "category": "religious",
+                  "coords": [
+                        94.104783,
+                        25.660972
+                  ]
+            },
+            {
+                  "name": "Lotha Baptist Church",
+                  "text": "O biserică protestantă proeminentă care deservește comunitatea Lotha Naga cu slujbe în limba lor maternă.",
+                  "category": "religious",
+                  "coords": [
+                        94.105739,
+                        25.662307
+                  ]
+            },
+            {
+                  "name": "Moa Baptist Church",
+                  "text": "Un lăcaș de cult baptist local care servește ca centru spiritual pentru rezidenții creștini din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        94.102583,
+                        25.665531
+                  ]
+            },
+            {
+                  "name": "Mezoma Baptist Church",
+                  "text": "O biserică situată pe un deal în satul istoric Angami Naga, Mezoma, oferind priveliști asupra văii înconjurătoare.",
+                  "category": "religious",
+                  "coords": [
+                        94.016546,
+                        25.670567
+                  ]
+            },
+            {
+                  "name": "Assamese Chuch",
+                  "text": "Un lăcaș de cult creștin stabilit pentru comunitatea vorbitoare de asameză care locuiește în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        94.095384,
+                        25.660335
+                  ]
+            },
+            {
+                  "name": "TYO Bamboo Market",
+                  "text": "O piață locală plină de viață, specializată în obiecte de artizanat tradiționale din bambus, coșuri și mobilier.",
+                  "category": "cultural",
+                  "coords": [
+                        94.099362,
+                        25.658557
+                  ]
+            },
+            {
+                  "name": "yimkhiung khiangyam",
+                  "text": "O casă tribală tradițională Yimkhiung Naga, cu motive arhitecturale distincte și sculpturi în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        94.113653,
+                        25.616175
+                  ]
+            },
+            {
+                  "name": "Dzüko Valley Base Camp",
+                  "text": "Punctul principal de plecare pentru drumeții în vale, oferind adăpost de bază și priveliști ale vârfurilor acoperite de ceață.",
+                  "category": "landmark",
+                  "coords": [
+                        94.002055,
+                        25.626389
+                  ]
+            },
+            {
+                  "name": "Dzuko Valley",
+                  "text": "O vale la mare altitudine, faimoasă pentru dealurile sale verzi ca smaraldul și crinii roz rari Dzüko care înfloresc vara.",
+                  "category": "landmark",
+                  "coords": [
+                        94.000812,
+                        25.606811
+                  ]
+            },
+            {
+                  "name": "Mizo Church",
+                  "text": "Un lăcaș de cult creștin care deservește comunitatea Mizo cu imnuri și slujbe în limba mizo.",
+                  "category": "landmark",
+                  "coords": [
+                        94.099898,
+                        25.661116
+                  ]
+            },
+            {
+                  "name": "AG AO CHURCH",
+                  "text": "O biserică Assemblies of God care deservește comunitatea Ao Naga, situată într-o zonă rezidențială liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        94.111083,
+                        25.659569
+                  ]
+            },
+            {
+                  "name": "City Church",
+                  "text": "O biserică comunitară protestantă modernă care oferă servicii spirituale în iarna capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        94.101456,
+                        25.661149
+                  ]
+            },
+            {
+                  "name": "CRC",
+                  "text": "O biserică locală Christian Revival Church care găzduiește slujbe evanghelice regulate și adunări comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        94.101243,
+                        25.658611
+                  ]
+            },
+            {
+                  "name": "Kuzhami Chakhesang Baptist Church",
+                  "text": "Un lăcaș de cult baptist care deservește membrii vorbitori de kuzhami ai tribului Chakhesang Naga.",
+                  "category": "landmark",
+                  "coords": [
+                        94.096923,
+                        25.657816
+                  ]
+            },
+            {
+                  "name": "Ministers' Hill Baptist Church",
+                  "text": "O biserică baptistă proeminentă situată pe un deal, care deservește o congregație mare într-unul dintre districtele cheie ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        94.092911,
+                        25.656463
+                  ]
+            },
+            {
+                  "name": "Chakhesang Baptist Church",
+                  "text": "O biserică baptistă tribală mare, care servește ca un hub central pentru comunitatea Chakhesang Naga.",
+                  "category": "landmark",
+                  "coords": [
+                        94.09909,
+                        25.653691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puliebadze WLS",
+                  "text": "A nature reserve near Kohima protecting the rare Blyth's tragopan and offering views of Mount Pulie Badze.",
+                  "category": "natural",
+                  "coords": [
+                        94.062553,
+                        25.610259
+                  ]
+            },
+            {
+                  "name": "Battle of Kohima Museum",
+                  "text": "Located at the Kisama Heritage Village, it exhibits relics from the decisive 1944 WWII battle.",
+                  "category": "museum",
+                  "coords": [
+                        94.115298,
+                        25.616387
+                  ]
+            },
+            {
+                  "name": "General Mowu Gwizantsu",
+                  "text": "A memorial dedicated to a prominent Naga leader, located in the historic Naga Hills.",
+                  "category": "historical",
+                  "coords": [
+                        94.043795,
+                        25.673195
+                  ]
+            },
+            {
+                  "name": "Khehu Ba",
+                  "text": "Ancient stone remains of a historical settlement in the rugged hills near Dzukou Valley.",
+                  "category": "historical",
+                  "coords": [
+                        93.999114,
+                        25.641055
+                  ]
+            },
+            {
+                  "name": "RECMPA",
+                  "text": "A modern cultural venue and amphitheater dedicated to Nagaland's music and traditional performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        94.07477,
+                        25.663369
+                  ]
+            },
+            {
+                  "name": "Shiv Nepali Mandir, Chandmari",
+                  "text": "A Hindu temple in the Chandmari area serving the local Nepali community with traditional shrines.",
+                  "category": "religious",
+                  "coords": [
+                        94.10448,
+                        25.659127
+                  ]
+            },
+            {
+                  "name": "Durga Bari",
+                  "text": "A traditional Hindu place of worship dedicated to Goddess Durga, often the focus of local festivals.",
+                  "category": "religious",
+                  "coords": [
+                        94.104783,
+                        25.660972
+                  ]
+            },
+            {
+                  "name": "Lotha Baptist Church",
+                  "text": "A prominent Protestant church serving the Lotha Naga community with services in their native language.",
+                  "category": "religious",
+                  "coords": [
+                        94.105739,
+                        25.662307
+                  ]
+            },
+            {
+                  "name": "Moa Baptist Church",
+                  "text": "A local Baptist place of worship that serves as a spiritual center for the neighborhood's Christian residents.",
+                  "category": "religious",
+                  "coords": [
+                        94.102583,
+                        25.665531
+                  ]
+            },
+            {
+                  "name": "Mezoma Baptist Church",
+                  "text": "A hilltop church in the historic Angami Naga village of Mezoma, offering views over the surrounding valley.",
+                  "category": "religious",
+                  "coords": [
+                        94.016546,
+                        25.670567
+                  ]
+            },
+            {
+                  "name": "Assamese Chuch",
+                  "text": "A Christian place of worship established for the Assamese-speaking community residing in the region.",
+                  "category": "religious",
+                  "coords": [
+                        94.095384,
+                        25.660335
+                  ]
+            },
+            {
+                  "name": "TYO Bamboo Market",
+                  "text": "A bustling local marketplace specializing in traditional bamboo handicrafts, baskets, and furniture.",
+                  "category": "cultural",
+                  "coords": [
+                        94.099362,
+                        25.658557
+                  ]
+            },
+            {
+                  "name": "yimkhiung khiangyam",
+                  "text": "A traditional Yimkhiung Naga tribal house featuring distinct architectural motifs and wood carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        94.113653,
+                        25.616175
+                  ]
+            },
+            {
+                  "name": "Dzüko Valley Base Camp",
+                  "text": "The primary starting point for treks into the valley, offering basic shelter and views of the mist-covered peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        94.002055,
+                        25.626389
+                  ]
+            },
+            {
+                  "name": "Dzuko Valley",
+                  "text": "A high-altitude valley famous for its emerald rolling hills and the rare pink Dzüko lilies that bloom in summer.",
+                  "category": "landmark",
+                  "coords": [
+                        94.000812,
+                        25.606811
+                  ]
+            },
+            {
+                  "name": "Mizo Church",
+                  "text": "A Christian place of worship serving the Mizo community with hymns and services in the Mizo language.",
+                  "category": "landmark",
+                  "coords": [
+                        94.099898,
+                        25.661116
+                  ]
+            },
+            {
+                  "name": "AG AO CHURCH",
+                  "text": "An Assemblies of God church serving the Ao Naga community, located in a quiet residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        94.111083,
+                        25.659569
+                  ]
+            },
+            {
+                  "name": "City Church",
+                  "text": "A modern Protestant community church providing spiritual services in the heart of the capital city.",
+                  "category": "landmark",
+                  "coords": [
+                        94.101456,
+                        25.661149
+                  ]
+            },
+            {
+                  "name": "CRC",
+                  "text": "A local Christian Revival Church that hosts regular evangelical services and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        94.101243,
+                        25.658611
+                  ]
+            },
+            {
+                  "name": "Kuzhami Chakhesang Baptist Church",
+                  "text": "A Baptist house of worship serving the Kuzhami-speaking members of the Chakhesang Naga tribe.",
+                  "category": "landmark",
+                  "coords": [
+                        94.096923,
+                        25.657816
+                  ]
+            },
+            {
+                  "name": "Ministers' Hill Baptist Church",
+                  "text": "A prominent Baptist church situated on a hill, serving a large congregation in one of the city's key districts.",
+                  "category": "landmark",
+                  "coords": [
+                        94.092911,
+                        25.656463
+                  ]
+            },
+            {
+                  "name": "Chakhesang Baptist Church",
+                  "text": "A large tribal Baptist church that serves as a central hub for the Chakhesang Naga community.",
+                  "category": "landmark",
+                  "coords": [
+                        94.09909,
+                        25.653691
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IN-MN",
     coords: [94.03, 25.61],

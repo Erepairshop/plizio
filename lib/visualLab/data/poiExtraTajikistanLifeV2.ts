@@ -99,7 +99,88 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "romit-nature-reserve-life-v2",
+    id: "romit-nature-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "chertovo ushchel'e",
+                  "text": "Ein Aussichtspunkt in der Romit-Schlucht, der dramatische Blicke in den tiefen Felsspalt gewährt.",
+                  "category": "natural",
+                  "coords": [
+                        69.206164,
+                        38.66203
+                  ]
+            },
+            {
+                  "name": "zairon",
+                  "text": "Heilende Thermalquellen im Romit-Naturreservat, die für ihr mineralhaltiges Wasser geschätzt werden.",
+                  "category": "natural",
+                  "coords": [
+                        69.235595,
+                        38.690661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "chertovo ushchel'e",
+                  "text": "Kilátópont a Romit-szorosban, ahonnan drámai kilátás nyílik a mély sziklahasadékra.",
+                  "category": "natural",
+                  "coords": [
+                        69.206164,
+                        38.66203
+                  ]
+            },
+            {
+                  "name": "zairon",
+                  "text": "Gyógyhatású termálforrások a Romit természetvédelmi területen, melyek ásványi anyagokban gazdag vizükről ismertek.",
+                  "category": "natural",
+                  "coords": [
+                        69.235595,
+                        38.690661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "chertovo ushchel'e",
+                  "text": "Un punct de observație în defileul Romit, care oferă vederi dramatice asupra prăpastiei adânci.",
+                  "category": "natural",
+                  "coords": [
+                        69.206164,
+                        38.66203
+                  ]
+            },
+            {
+                  "name": "zairon",
+                  "text": "Izvoare termale curative în rezervația naturală Romit, apreciate pentru apa lor bogată în minerale.",
+                  "category": "natural",
+                  "coords": [
+                        69.235595,
+                        38.690661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "chertovo ushchel'e",
+                  "text": "A viewpoint in the Romit gorge providing dramatic looks into the deep rocky crevice.",
+                  "category": "natural",
+                  "coords": [
+                        69.206164,
+                        38.66203
+                  ]
+            },
+            {
+                  "name": "Zairon hot springs",
+                  "text": "Healing thermal springs in the Romit nature reserve, valued for their mineral-rich waters.",
+                  "category": "natural",
+                  "coords": [
+                        69.235595,
+                        38.690661
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TJ-RR",
     coords: [69.3, 38.7],
@@ -147,7 +228,160 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "pamir-botanical-garden-life-v2",
+    id: "pamir-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "GES \"Khorog\"",
+                  "text": "Ein Denkmal mit einem sowjetischen Lastwagen, das an den Bau des Pamir-Highways erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        71.592602,
+                        37.486058
+                  ]
+            },
+            {
+                  "name": "Kofar-Kal'a",
+                  "text": "Die Überreste dieser antiken Burg dienten einst dem Schutz der Seidenstraße im Hochgebirge.",
+                  "category": "castle",
+                  "coords": [
+                        71.66257,
+                        37.528934
+                  ]
+            },
+            {
+                  "name": "Club",
+                  "text": "Ein lokales Kulturzentrum, das als Treffpunkt für Kunstveranstaltungen und soziale Kontakte dient.",
+                  "category": "cultural",
+                  "coords": [
+                        71.653095,
+                        37.531091
+                  ]
+            },
+            {
+                  "name": "mesto pokloneniia",
+                  "text": "Eine muslimische Kultstätte inmitten der alpinen Flora des botanischen Gartens im Pamir.",
+                  "category": "landmark",
+                  "coords": [
+                        71.569411,
+                        37.492465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "GES \"Khorog\"",
+                  "text": "Szovjet teherautót formázó emlékmű, amely a Pamír-országút megnyitásának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        71.592602,
+                        37.486058
+                  ]
+            },
+            {
+                  "name": "Kofar-Kal'a",
+                  "text": "Ennek az ősi várnak a maradványai egykor a Selyemút védelmét szolgálták a magashegységben.",
+                  "category": "castle",
+                  "coords": [
+                        71.66257,
+                        37.528934
+                  ]
+            },
+            {
+                  "name": "Club",
+                  "text": "Helyi kulturális központ, amely művészeti események és társasági összejövetelek helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        71.653095,
+                        37.531091
+                  ]
+            },
+            {
+                  "name": "mesto pokloneniia",
+                  "text": "Muszlim kegyhely a Pamír botanikus kertjének alpesi növényvilága között.",
+                  "category": "landmark",
+                  "coords": [
+                        71.569411,
+                        37.492465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "GES \"Khorog\"",
+                  "text": "Un monument cu un camion sovietic, care comemorează construcția șoselei trans-pamiriene.",
+                  "category": "landmark",
+                  "coords": [
+                        71.592602,
+                        37.486058
+                  ]
+            },
+            {
+                  "name": "Kofar-Kal'a",
+                  "text": "Rămășițele acestui castel antic serveau odinioară la protejarea Drumului Mătăsii în munți.",
+                  "category": "castle",
+                  "coords": [
+                        71.66257,
+                        37.528934
+                  ]
+            },
+            {
+                  "name": "Club",
+                  "text": "Un centru cultural local care servește drept loc de întâlnire pentru evenimente artistice și sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        71.653095,
+                        37.531091
+                  ]
+            },
+            {
+                  "name": "mesto pokloneniia",
+                  "text": "Un loc de cult musulman situat în mijlocul florei alpine a grădinii botanice din Pamir.",
+                  "category": "landmark",
+                  "coords": [
+                        71.569411,
+                        37.492465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Truck commemorating the opening of the Pamir Highway",
+                  "text": "A monument featuring a Soviet truck, commemorating the opening of the Pamir Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        71.592602,
+                        37.486058
+                  ]
+            },
+            {
+                  "name": "Kafir-Qal'a",
+                  "text": "The remains of this ancient castle once served to protect the Silk Road in the high mountains.",
+                  "category": "castle",
+                  "coords": [
+                        71.66257,
+                        37.528934
+                  ]
+            },
+            {
+                  "name": "Club",
+                  "text": "A local cultural center serving as a hub for arts events and social gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        71.653095,
+                        37.531091
+                  ]
+            },
+            {
+                  "name": "mesto pokloneniia",
+                  "text": "A Muslim shrine located amidst the alpine flora of the Pamir botanical garden.",
+                  "category": "landmark",
+                  "coords": [
+                        71.569411,
+                        37.492465
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "TJ-GB",
     coords: [71.58, 37.49],
@@ -195,7 +429,124 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "dushanbe-botanical-garden-life-v2",
+    id: "dushanbe-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bogi botaniki",
+                  "text": "Der Botanische Garten in Duschanbe beherbergt eine umfangreiche Sammlung lokaler und exotischer Pflanzenarten auf einem weitläufigen Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        68.780382,
+                        38.602828
+                  ]
+            },
+            {
+                  "name": "Bog'i Khaiiom",
+                  "text": "Der Park Khayyam ist ein beliebter Themenpark, der in Duschanbe vielfältige Fahrgeschäfte und Freizeitmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        68.772149,
+                        38.59837
+                  ]
+            },
+            {
+                  "name": "Karaoke Galaxy",
+                  "text": "Karaoke Galaxy ist ein lebhafter Marktplatz mit integrierten Karaoke-Räumen für Unterhaltung in Duschanbe.",
+                  "category": "cultural",
+                  "coords": [
+                        68.784026,
+                        38.594704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bogi botaniki",
+                  "text": "A Dusanbei Botanikus Kert helyi és egzotikus növényfajok kiterjedt gyűjteményének ad otthont egy tágas területen.",
+                  "category": "landmark",
+                  "coords": [
+                        68.780382,
+                        38.602828
+                  ]
+            },
+            {
+                  "name": "Bog'i Khaiiom",
+                  "text": "A Park Khayyam egy népszerű vidámpark, amely különféle körhintákat és rekreációs tevékenységeket kínál Dusanbéban.",
+                  "category": "recreational",
+                  "coords": [
+                        68.772149,
+                        38.59837
+                  ]
+            },
+            {
+                  "name": "Karaoke Galaxy",
+                  "text": "A Karaoke Galaxy egy élettel teli piactéri szórakozóhely beépített karaoke szobákkal Dusanbéban.",
+                  "category": "cultural",
+                  "coords": [
+                        68.784026,
+                        38.594704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bogi botaniki",
+                  "text": "Grădina Botanică din Dușanbe găzduiește o colecție vastă de specii de plante locale și exotice pe un teren extins.",
+                  "category": "landmark",
+                  "coords": [
+                        68.780382,
+                        38.602828
+                  ]
+            },
+            {
+                  "name": "Bog'i Khaiiom",
+                  "text": "Park Khayyam este un parc de distracții popular care oferă diverse atracții și activități de recreere în Dușanbe.",
+                  "category": "recreational",
+                  "coords": [
+                        68.772149,
+                        38.59837
+                  ]
+            },
+            {
+                  "name": "Karaoke Galaxy",
+                  "text": "Karaoke Galaxy este o piață animată care dispune de săli de karaoke integrate pentru divertisment în Dușanbe.",
+                  "category": "cultural",
+                  "coords": [
+                        68.784026,
+                        38.594704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Botanical Garden",
+                  "text": "The Dushanbe Botanical Garden hosts an extensive collection of local and exotic plant species across its spacious grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        68.780382,
+                        38.602828
+                  ]
+            },
+            {
+                  "name": "Park Khayyam",
+                  "text": "Park Khayyam is a popular theme park offering various amusement rides and recreational activities in Dushanbe.",
+                  "category": "recreational",
+                  "coords": [
+                        68.772149,
+                        38.59837
+                  ]
+            },
+            {
+                  "name": "Karaoke Galaxy",
+                  "text": "Karaoke Galaxy is a lively marketplace venue featuring integrated karaoke rooms for entertainment in Dushanbe.",
+                  "category": "cultural",
+                  "coords": [
+                        68.784026,
+                        38.594704
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "TJ-DU",
     coords: [68.78, 38.6],
@@ -291,7 +642,52 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "hissar-valley-vineyards-life-v2",
+    id: "hissar-valley-vineyards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mechet' Imami A'zam Tuda",
+                  "text": "Eine Kultstätte, die eingebettet in das landwirtschaftlich reiche Hissartal zwischen den lokalen Weinbergen liegt.",
+                  "category": "religious",
+                  "coords": [
+                        68.46366,
+                        38.577197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mechet' Imami A'zam Tuda",
+                  "text": "Egy istentiszteleti hely, amely a mezőgazdaságilag gazdag Hiszár-völgyben, a helyi szőlőültetvények között található.",
+                  "category": "religious",
+                  "coords": [
+                        68.46366,
+                        38.577197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mechet' Imami A'zam Tuda",
+                  "text": "Un lăcaș de cult cuibărit în bogata vale agricolă Hissar, printre podgoriile locale.",
+                  "category": "religious",
+                  "coords": [
+                        68.46366,
+                        38.577197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mechet' Imami A'zam Tuda",
+                  "text": "A place of worship nestled in the agriculturally rich Hissar Valley among the local vineyards.",
+                  "category": "religious",
+                  "coords": [
+                        68.46366,
+                        38.577197
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TJ-RR",
     coords: [68.5, 38.5],
@@ -387,7 +783,736 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "dushanbe-zoo-life-v2",
+    id: "dushanbe-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alulak",
+                  "text": "Alulak ist ein familienfreundlicher Freizeitpark mit verschiedenen Fahrgeschäften in der Nähe des Zoos von Duschanbe.",
+                  "category": "recreational",
+                  "coords": [
+                        68.721819,
+                        38.582245
+                  ]
+            },
+            {
+                  "name": "Panda",
+                  "text": "Dieses Unterhaltungszentrum für Kinder bietet fantasievolle Spielbereiche mit Panda-Dekorationen.",
+                  "category": "recreational",
+                  "coords": [
+                        68.718906,
+                        38.581664
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Del'fin\"",
+                  "text": "Ein moderner Wasserpark im Stadtzentrum, der mit seinen Außenbecken und Rutschen für Abkühlung sorgt.",
+                  "category": "recreational",
+                  "coords": [
+                        68.734376,
+                        38.577052
+                  ]
+            },
+            {
+                  "name": "Afsona",
+                  "text": "Afsona ist ein Themenpark, der mit märchenhaften Attraktionen für die Unterhaltung von Familien sorgt.",
+                  "category": "recreational",
+                  "coords": [
+                        68.740787,
+                        38.589579
+                  ]
+            },
+            {
+                  "name": "Shamsi No. 4",
+                  "text": "Shamsi No. 4 ist ein städtisches Denkmal, das als Orientierungspunkt im belebten Viertel von Duschanbe dient.",
+                  "category": "historical",
+                  "coords": [
+                        68.750469,
+                        38.578293
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Abuali ibn Sino",
+                  "text": "Dieses Denkmal ehrt den berühmten persischen Gelehrten Avicenna, auch bekannt als Abu Ali ibn Sino.",
+                  "category": "historical",
+                  "coords": [
+                        68.754689,
+                        38.579749
+                  ]
+            },
+            {
+                  "name": "Akademiia khudozhnikov Tadzhikistana",
+                  "text": "Dieses Kunstzentrum dient als kreativer Treffpunkt zur Förderung der tadschikischen Malerei und bildenden Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753967,
+                        38.577136
+                  ]
+            },
+            {
+                  "name": "Dom kul'tury",
+                  "text": "Ein traditionelles Kulturhaus, das regelmäßig lokale Theateraufführungen und gemeinschaftliche Veranstaltungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        68.762395,
+                        38.582731
+                  ]
+            },
+            {
+                  "name": "Masch'idi \"Mekhkalon\" MIR SAID ALI Kh'AMADONI",
+                  "text": "Diese Moschee ist dem bedeutenden Sufi-Gelehrten Mir Sayyid Ali Hamadani gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        68.732756,
+                        38.590695
+                  ]
+            },
+            {
+                  "name": "Maschid ba nomi Khochi Ismoil",
+                  "text": "Die Hoji-Ismail-Moschee ist ein lokales Gebetshaus mit traditionellen islamischen Architekturelementen.",
+                  "category": "landmark",
+                  "coords": [
+                        68.724396,
+                        38.584564
+                  ]
+            },
+            {
+                  "name": "Maschidi makhallavii Zarafshon",
+                  "text": "Diese Gemeindemoschee befindet sich im Viertel Zarafshon und dient den Anwohnern für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        68.715025,
+                        38.585542
+                  ]
+            },
+            {
+                  "name": "Mechet' imeni Khochi Kurbona",
+                  "text": "Die nach Khoji Kurbon benannte Moschee besticht durch ihre ruhige Atmosphäre und klassische Gestaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        68.723562,
+                        38.590068
+                  ]
+            },
+            {
+                  "name": "Obshchestvennaia mechet' Kazakhskogo mikroraiona",
+                  "text": "Diese Moschee dient als geistliches Zentrum für die Gemeinschaft im kasachischen Mikrorajon von Duschanbe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.736987,
+                        38.586314
+                  ]
+            },
+            {
+                  "name": "Masch'idi kuchai Sharaf",
+                  "text": "Die kleine Moschee in der Sharaf-Straße bietet einen bescheidenen Gebetsraum für die gläubigen Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763221,
+                        38.580561
+                  ]
+            },
+            {
+                  "name": "MASCh'IDI 101",
+                  "text": "Die Moschee 101 ist eine wichtige religiöse Einrichtung für die Bewohner des gleichnamigen 101. Stadtbezirks.",
+                  "category": "landmark",
+                  "coords": [
+                        68.735146,
+                        38.579841
+                  ]
+            },
+            {
+                  "name": "Masch'id",
+                  "text": "Ein schlichter muslimischer Gebetsort in Duschanbe, der Raum für stille Kontemplation und die täglichen Pflichten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        68.73947,
+                        38.57783
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Eine traditionelle Moschee, die als wichtiger Versammlungspunkt für die lokale muslimische Gemeinde fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        68.747214,
+                        38.589317
+                  ]
+            },
+            {
+                  "name": "Bozor",
+                  "text": "Auf diesem lebhaften Obstmarkt findet man eine große Auswahl an frischen, saisonalen Früchten aus Tadschikistan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.728202,
+                        38.579487
+                  ]
+            },
+            {
+                  "name": "Bazori Safariion",
+                  "text": "Bazori Safariion ist ein geschäftiger Basar, der für seine Vielfalt an Textilien und lokalen Lebensmitteln bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        68.757675,
+                        38.571143
+                  ]
+            },
+            {
+                  "name": "Shomu Sakh'ar",
+                  "text": "Ein lokaler Marktplatz, auf dem Anwohner frische Zutaten und Haushaltswaren für den täglichen Bedarf kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        68.759934,
+                        38.583681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alulak",
+                  "text": "Az Alulak egy családbarát vidámpark különféle játékokkal a dusanbei állatkert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        68.721819,
+                        38.582245
+                  ]
+            },
+            {
+                  "name": "Panda",
+                  "text": "Ez a gyermekszórakoztató központ ötletes játszótereket kínál pandás dekorációkkal.",
+                  "category": "recreational",
+                  "coords": [
+                        68.718906,
+                        38.581664
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Del'fin\"",
+                  "text": "Modern vízi park a városközpontban, amely szabadtéri medencéivel és csúszdáival nyújt felfrissülést.",
+                  "category": "recreational",
+                  "coords": [
+                        68.734376,
+                        38.577052
+                  ]
+            },
+            {
+                  "name": "Afsona",
+                  "text": "Az Afsona egy vidámpark, amely mesebeli attrakciókkal szórakoztatja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        68.740787,
+                        38.589579
+                  ]
+            },
+            {
+                  "name": "Shamsi No. 4",
+                  "text": "A Shamsi No. 4 egy városi emlékmű, amely tájékozódási pontként szolgál Dusanbe forgalmas negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        68.750469,
+                        38.578293
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Abuali ibn Sino",
+                  "text": "Ez az emlékmű a híres perzsa tudós, Avicenna előtt tiszteleg, akit Abu Ali ibn Sino néven is ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        68.754689,
+                        38.579749
+                  ]
+            },
+            {
+                  "name": "Akademiia khudozhnikov Tadzhikistana",
+                  "text": "Ez a művészeti központ kreatív találkozóhelyként szolgál a tádzsik festészet és képzőművészet népszerűsítésére.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753967,
+                        38.577136
+                  ]
+            },
+            {
+                  "name": "Dom kul'tury",
+                  "text": "Hagyományos művelődési ház, amely rendszeresen ad otthont helyi színházi előadásoknak és közösségi eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        68.762395,
+                        38.582731
+                  ]
+            },
+            {
+                  "name": "Masch'idi \"Mekhkalon\" MIR SAID ALI Kh'AMADONI",
+                  "text": "Ez a mecset a jelentős szúfi tudós, Mir Szajjid Ali Hamadáni emlékének van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        68.732756,
+                        38.590695
+                  ]
+            },
+            {
+                  "name": "Maschid ba nomi Khochi Ismoil",
+                  "text": "A Hodzsi Iszmail-mecset egy helyi imaház hagyományos iszlám építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        68.724396,
+                        38.584564
+                  ]
+            },
+            {
+                  "name": "Maschidi makhallavii Zarafshon",
+                  "text": "Ez a közösségi mecset a Zarafshon negyedben található, és a helyi lakosok napi imáit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        68.715025,
+                        38.585542
+                  ]
+            },
+            {
+                  "name": "Mechet' imeni Khochi Kurbona",
+                  "text": "A Hodzsi Kurbonról elnevezett mecset nyugodt légkörével és klasszikus kialakításával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        68.723562,
+                        38.590068
+                  ]
+            },
+            {
+                  "name": "Obshchestvennaia mechet' Kazakhskogo mikroraiona",
+                  "text": "Ez a mecset a dusanbei kazah mikrorajon közösségének szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        68.736987,
+                        38.586314
+                  ]
+            },
+            {
+                  "name": "Masch'idi kuchai Sharaf",
+                  "text": "A Sharaf utcai kis mecset szerény imateret biztosít a hívő helyi lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763221,
+                        38.580561
+                  ]
+            },
+            {
+                  "name": "MASCh'IDI 101",
+                  "text": "A 101-es mecset fontos vallási intézmény az azonos nevű 101-es városrész lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        68.735146,
+                        38.579841
+                  ]
+            },
+            {
+                  "name": "Masch'id",
+                  "text": "Egyszerű muszlim imaház Dusanbe városában, amely helyet biztosít a csendes elmélkedéshez és a napi kötelességekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        68.73947,
+                        38.57783
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Hagyományos mecset, amely a helyi muszlim közösség fontos gyülekezőhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        68.747214,
+                        38.589317
+                  ]
+            },
+            {
+                  "name": "Bozor",
+                  "text": "Ezen a nyüzsgő gyümölcspiacon friss, szezonális tádzsik gyümölcsök széles választéka található.",
+                  "category": "cultural",
+                  "coords": [
+                        68.728202,
+                        38.579487
+                  ]
+            },
+            {
+                  "name": "Bazori Safariion",
+                  "text": "A Bazori Safariion egy nyüzsgő bazár, amely textíliák és helyi élelmiszerek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        68.757675,
+                        38.571143
+                  ]
+            },
+            {
+                  "name": "Shomu Sakh'ar",
+                  "text": "Helyi piactér, ahol a lakók friss alapanyagokat és háztartási cikkeket vásárolnak a napi szükségletekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        68.759934,
+                        38.583681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alulak",
+                  "text": "Alulak este un parc de distracții pentru familii, cu diverse atracții, situat lângă grădina zoologică din Dushanbe.",
+                  "category": "recreational",
+                  "coords": [
+                        68.721819,
+                        38.582245
+                  ]
+            },
+            {
+                  "name": "Panda",
+                  "text": "Acest centru de divertisment pentru copii oferă zone de joacă imaginative cu decorațiuni tematice cu panda.",
+                  "category": "recreational",
+                  "coords": [
+                        68.718906,
+                        38.581664
+                  ]
+            },
+            {
+                  "name": "Akvapark \"Del'fin\"",
+                  "text": "Un parc acvatic modern în centrul orașului, care oferă răcoare prin piscinele sale exterioare și tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        68.734376,
+                        38.577052
+                  ]
+            },
+            {
+                  "name": "Afsona",
+                  "text": "Afsona este un parc tematic care oferă divertisment pentru familii prin atracții inspirate din basme.",
+                  "category": "recreational",
+                  "coords": [
+                        68.740787,
+                        38.589579
+                  ]
+            },
+            {
+                  "name": "Shamsi No. 4",
+                  "text": "Shamsi No. 4 este un monument urban care servește ca punct de reper în cartierul plin de viață din Dushanbe.",
+                  "category": "historical",
+                  "coords": [
+                        68.750469,
+                        38.578293
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Abuali ibn Sino",
+                  "text": "Acest monument îl onorează pe celebrul polimat persan Avicenna, cunoscut și sub numele de Abu Ali ibn Sino.",
+                  "category": "historical",
+                  "coords": [
+                        68.754689,
+                        38.579749
+                  ]
+            },
+            {
+                  "name": "Akademiia khudozhnikov Tadzhikistana",
+                  "text": "Acest centru de artă servește ca un centru creativ pentru promovarea picturii și artelor vizuale tadjice.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753967,
+                        38.577136
+                  ]
+            },
+            {
+                  "name": "Dom kul'tury",
+                  "text": "O casă de cultură tradițională care găzduiește regulat spectacole locale de teatru și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        68.762395,
+                        38.582731
+                  ]
+            },
+            {
+                  "name": "Masch'idi \"Mekhkalon\" MIR SAID ALI Kh'AMADONI",
+                  "text": "Această moschee este dedicată importantului învățat sufi Mir Sayyid Ali Hamadani.",
+                  "category": "landmark",
+                  "coords": [
+                        68.732756,
+                        38.590695
+                  ]
+            },
+            {
+                  "name": "Maschid ba nomi Khochi Ismoil",
+                  "text": "Moscheea Hoji Ismail este un lăcaș de cult local cu elemente de arhitectură islamică tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        68.724396,
+                        38.584564
+                  ]
+            },
+            {
+                  "name": "Maschidi makhallavii Zarafshon",
+                  "text": "Această moschee comunitară este situată în cartierul Zarafshon și servește rezidenților locali pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        68.715025,
+                        38.585542
+                  ]
+            },
+            {
+                  "name": "Mechet' imeni Khochi Kurbona",
+                  "text": "Moscheea numită după Khoji Kurbon impresionează prin atmosfera sa liniștită și designul clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        68.723562,
+                        38.590068
+                  ]
+            },
+            {
+                  "name": "Obshchestvennaia mechet' Kazakhskogo mikroraiona",
+                  "text": "Această moschee servește ca centru spiritual pentru comunitatea din microraionul kazah din Dushanbe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.736987,
+                        38.586314
+                  ]
+            },
+            {
+                  "name": "Masch'idi kuchai Sharaf",
+                  "text": "Mica moschee de pe strada Sharaf oferă un spațiu de rugăciune modest pentru rezidenții locali credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763221,
+                        38.580561
+                  ]
+            },
+            {
+                  "name": "MASCh'IDI 101",
+                  "text": "Moscheea 101 este o instituție religioasă importantă pentru locuitorii districtului 101, purtând același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        68.735146,
+                        38.579841
+                  ]
+            },
+            {
+                  "name": "Masch'id",
+                  "text": "Un lăcaș de cult musulman simplu din Dushanbe, care oferă spațiu pentru contemplare liniștită și obligațiile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        68.73947,
+                        38.57783
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "O moschee tradițională care funcționează ca un punct de adunare important pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        68.747214,
+                        38.589317
+                  ]
+            },
+            {
+                  "name": "Bozor",
+                  "text": "În această piață de fructe plină de viață veți găsi o selecție largă de fructe proaspete, de sezon, din Tadjikistan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.728202,
+                        38.579487
+                  ]
+            },
+            {
+                  "name": "Bazori Safariion",
+                  "text": "Bazori Safariion este un bazar aglomerat, cunoscut pentru varietatea sa de textile și produse alimentare locale.",
+                  "category": "cultural",
+                  "coords": [
+                        68.757675,
+                        38.571143
+                  ]
+            },
+            {
+                  "name": "Shomu Sakh'ar",
+                  "text": "O piață locală unde rezidenții cumpără ingrediente proaspete și articole de uz casnic pentru nevoile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        68.759934,
+                        38.583681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alulak",
+                  "text": "Alulak is a family-friendly theme park with various rides located near the Dushanbe Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        68.721819,
+                        38.582245
+                  ]
+            },
+            {
+                  "name": "Childrens Entertainment Center Panda",
+                  "text": "This children's entertainment center features imaginative play areas with panda-themed decorations.",
+                  "category": "recreational",
+                  "coords": [
+                        68.718906,
+                        38.581664
+                  ]
+            },
+            {
+                  "name": "water park",
+                  "text": "A modern water park in the city center providing refreshment with its outdoor pools and slides.",
+                  "category": "recreational",
+                  "coords": [
+                        68.734376,
+                        38.577052
+                  ]
+            },
+            {
+                  "name": "Afsona",
+                  "text": "Afsona is a theme park providing family entertainment with fairytale-inspired attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        68.740787,
+                        38.589579
+                  ]
+            },
+            {
+                  "name": "Shamsi No. 4",
+                  "text": "Shamsi No. 4 is an urban monument serving as a landmark in the bustling Dushanbe neighborhood.",
+                  "category": "historical",
+                  "coords": [
+                        68.750469,
+                        38.578293
+                  ]
+            },
+            {
+                  "name": "Pamiatnik Abuali ibn Sino",
+                  "text": "This monument honors the famous Persian polymath Avicenna, also known as Abu Ali ibn Sino.",
+                  "category": "historical",
+                  "coords": [
+                        68.754689,
+                        38.579749
+                  ]
+            },
+            {
+                  "name": "Academy of Painters of Tajikistan",
+                  "text": "This arts center serves as a creative hub for promoting Tajik painting and visual arts.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753967,
+                        38.577136
+                  ]
+            },
+            {
+                  "name": "Dom kul'tury",
+                  "text": "A traditional House of Culture that regularly hosts local theatrical performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        68.762395,
+                        38.582731
+                  ]
+            },
+            {
+                  "name": "Masch'idi \"Mekhkalon\" MIR SAID ALI Kh'AMADONI",
+                  "text": "This mosque is dedicated to the prominent Sufi scholar Mir Sayyid Ali Hamadani.",
+                  "category": "landmark",
+                  "coords": [
+                        68.732756,
+                        38.590695
+                  ]
+            },
+            {
+                  "name": "Hoji Ismail mosque",
+                  "text": "The Hoji Ismail mosque is a local place of worship featuring traditional Islamic architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        68.724396,
+                        38.584564
+                  ]
+            },
+            {
+                  "name": "Maschidi makhallavii Zarafshon",
+                  "text": "This community mosque is located in the Zarafshon neighborhood and serves local residents for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        68.715025,
+                        38.585542
+                  ]
+            },
+            {
+                  "name": "Mechet' imeni Khochi Kurbona",
+                  "text": "The mosque named after Khoji Kurbon is noted for its serene atmosphere and classical design.",
+                  "category": "landmark",
+                  "coords": [
+                        68.723562,
+                        38.590068
+                  ]
+            },
+            {
+                  "name": "Obshchestvennaia mechet' Kazakhskogo mikroraiona",
+                  "text": "This mosque serves as a spiritual center for the community in the Kazakh micro-district of Dushanbe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.736987,
+                        38.586314
+                  ]
+            },
+            {
+                  "name": "Masch'idi kuchai Sharaf",
+                  "text": "The small mosque on Sharaf Street provides a modest prayer space for devout local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763221,
+                        38.580561
+                  ]
+            },
+            {
+                  "name": "MASCh'IDI 101",
+                  "text": "The 101 mosque is an important religious institution for residents of the 101st district of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        68.735146,
+                        38.579841
+                  ]
+            },
+            {
+                  "name": "place_of_worship",
+                  "text": "A simple Muslim place of worship in Dushanbe, providing space for quiet contemplation and daily duties.",
+                  "category": "landmark",
+                  "coords": [
+                        68.73947,
+                        38.57783
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "A traditional mosque that functions as an important gathering point for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        68.747214,
+                        38.589317
+                  ]
+            },
+            {
+                  "name": "fruit market",
+                  "text": "At this lively fruit market, you can find a wide selection of fresh, seasonal fruits from Tajikistan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.728202,
+                        38.579487
+                  ]
+            },
+            {
+                  "name": "Bazori Safariion",
+                  "text": "Bazori Safariion is a bustling bazaar known for its variety of textiles and local food items.",
+                  "category": "cultural",
+                  "coords": [
+                        68.757675,
+                        38.571143
+                  ]
+            },
+            {
+                  "name": "Shomu Sakh'ar",
+                  "text": "A local marketplace where residents buy fresh ingredients and household goods for daily needs.",
+                  "category": "cultural",
+                  "coords": [
+                        68.759934,
+                        38.583681
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "TJ-DU",
     coords: [68.76, 38.58],
@@ -435,7 +1560,592 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "aquapark-dolphin-dushanbe-life-v2",
+    id: "aquapark-dolphin-dushanbe-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fantaziia",
+                  "text": "Das Fantaziya-Zentrum bietet Kindern interaktive Spiele und Fahrgeschäfte in einer fantasievoll gestalteten Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        68.710116,
+                        38.581532
+                  ]
+            },
+            {
+                  "name": "Filarmoniiai davlatii Tochikiston",
+                  "text": "Die staatliche tadschikische Philharmonie ist ein bedeutendes Konzerthaus für klassische und traditionelle Musik.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753796,
+                        38.563583
+                  ]
+            },
+            {
+                  "name": "Orel",
+                  "text": "Dieses Adler-Denkmal (Orel) ist ein Symbol für Stärke und nationalen Stolz in der tadschikischen Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        68.741623,
+                        38.558453
+                  ]
+            },
+            {
+                  "name": "Masch'idi \"Nu'mon ibni Sobit\"",
+                  "text": "Die prächtige Moschee ist nach Nu'man ibn Thabit benannt, dem Begründer der Hanafi-Rechtsschule im Islam.",
+                  "category": "religious",
+                  "coords": [
+                        68.736578,
+                        38.574306
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Diese Moschee zeigt klassische tadschikische Zierelemente und dient als Ort der Ruhe inmitten der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.723978,
+                        38.529141
+                  ]
+            },
+            {
+                  "name": "Masch'id ch'omea",
+                  "text": "Die Jome-Moschee ist eine große Freitagsmoschee, in der sich Gläubige zum wöchentlichen Gemeinschaftsgebet versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        68.764364,
+                        38.549954
+                  ]
+            },
+            {
+                  "name": "Tserkov' <<Blagodat'>>",
+                  "text": "Die Grace-Kirche ist ein christliches Gotteshaus, das der lokalen Glaubensgemeinschaft in Duschanbe dient.",
+                  "category": "religious",
+                  "coords": [
+                        68.753957,
+                        38.557238
+                  ]
+            },
+            {
+                  "name": "Maschidi DOARZ",
+                  "text": "Die DOARZ-Moschee ist ein wichtiges religiöses Zentrum im gleichnamigen Bezirk von Duschanbe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.741995,
+                        38.542012
+                  ]
+            },
+            {
+                  "name": "Masdzhid",
+                  "text": "Dieser muslimische Gebetsraum bietet eine schlichte und andächtige Umgebung für die täglichen Riten.",
+                  "category": "landmark",
+                  "coords": [
+                        68.75967,
+                        38.563602
+                  ]
+            },
+            {
+                  "name": "Yovar",
+                  "text": "Yovar ist ein moderner Marktplatz, der eine breite Palette an Lebensmitteln und Haushaltswaren in Duschanbe anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        68.71484,
+                        38.581854
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Dieser Rynok ist ein typischer lokaler Markt mit zahlreichen Ständen für Kleidung und frische Lebensmittel.",
+                  "category": "cultural",
+                  "coords": [
+                        68.760891,
+                        38.556363
+                  ]
+            },
+            {
+                  "name": "Bozori Balkh",
+                  "text": "Bozori Balkh ist ein großer Basar, der besonders für seine Auswahl an tadschikischen Gewürzen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        68.720877,
+                        38.540758
+                  ]
+            },
+            {
+                  "name": "Bozorchai Iakkachinor",
+                  "text": "Dieser kleine Nachbarschaftsmarkt bietet grundlegende Lebensmittel für die Bewohner des Iakkachinor-Viertels.",
+                  "category": "cultural",
+                  "coords": [
+                        68.758902,
+                        38.554039
+                  ]
+            },
+            {
+                  "name": "Bozorchai 32 mkrn",
+                  "text": "Ein lokaler Basar im 32. Mikrorajon, der die tägliche Versorgung der umliegenden Wohngebiete sicherstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        68.747174,
+                        38.557624
+                  ]
+            },
+            {
+                  "name": "Bozorchai 33 (mkrn)",
+                  "text": "Lokaler Nachbarschaftsmarkt mit einer Auswahl an frischem Obst und Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        68.744512,
+                        38.550501
+                  ]
+            },
+            {
+                  "name": "Russkaia Bania",
+                  "text": "Traditionelles russisches Dampfbad für eine klassische Wellness-Erfahrung.",
+                  "category": "recreational",
+                  "coords": [
+                        68.756619,
+                        38.5542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fantaziia",
+                  "text": "A Fantaziya központ interaktív játékokat és vidámparki elemeket kínál a gyerekeknek képzeletgazdag környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        68.710116,
+                        38.581532
+                  ]
+            },
+            {
+                  "name": "Filarmoniiai davlatii Tochikiston",
+                  "text": "A Tádzsik Állami Filharmónia a klasszikus és a hagyományos zene jelentős koncerthelyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753796,
+                        38.563583
+                  ]
+            },
+            {
+                  "name": "Orel",
+                  "text": "Ez a sasemlékmű (Orel) az erő és a nemzeti büszkeség szimbóluma a tádzsik fővárosban.",
+                  "category": "historical",
+                  "coords": [
+                        68.741623,
+                        38.558453
+                  ]
+            },
+            {
+                  "name": "Masch'idi \"Nu'mon ibni Sobit\"",
+                  "text": "A pompás mecset Nu'man ibn Thabit-ról, az iszlám hanafita jogi iskolájának alapítójáról kapta a nevét.",
+                  "category": "religious",
+                  "coords": [
+                        68.736578,
+                        38.574306
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Ez a mecset klasszikus tádzsik díszítőelemeket mutat be, és a nyugalom szigeteként szolgál a város közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        68.723978,
+                        38.529141
+                  ]
+            },
+            {
+                  "name": "Masch'id ch'omea",
+                  "text": "A Dzsóme-mecset egy nagy pénteki mecset, ahol a hívők a heti közös imára gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        68.764364,
+                        38.549954
+                  ]
+            },
+            {
+                  "name": "Tserkov' <<Blagodat'>>",
+                  "text": "A Grace-templom egy keresztény imaház, amely a dusanbei helyi hívő közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        68.753957,
+                        38.557238
+                  ]
+            },
+            {
+                  "name": "Maschidi DOARZ",
+                  "text": "A DOARZ-mecset fontos vallási központ Dusanbe azonos nevű negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        68.741995,
+                        38.542012
+                  ]
+            },
+            {
+                  "name": "Masdzhid",
+                  "text": "Ez a muszlim imaház egyszerű és áhítatos környezetet biztosít a napi rituálékhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        68.75967,
+                        38.563602
+                  ]
+            },
+            {
+                  "name": "Yovar",
+                  "text": "A Yovar egy modern piactér, amely élelmiszerek és háztartási cikkek széles választékát kínálja Dusanbéban.",
+                  "category": "cultural",
+                  "coords": [
+                        68.71484,
+                        38.581854
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Ez a piac egy tipikus helyi vásárhely számos ruházati és friss élelmiszeres standdal.",
+                  "category": "cultural",
+                  "coords": [
+                        68.760891,
+                        38.556363
+                  ]
+            },
+            {
+                  "name": "Bozori Balkh",
+                  "text": "A Bozori Balkh egy nagy bazár, amely különösen a tádzsik fűszerválasztékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        68.720877,
+                        38.540758
+                  ]
+            },
+            {
+                  "name": "Bozorchai Iakkachinor",
+                  "text": "Ez a kis szomszédsági piac alapvető élelmiszereket kínál az Iakkachinor negyed lakói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        68.758902,
+                        38.554039
+                  ]
+            },
+            {
+                  "name": "Bozorchai 32 mkrn",
+                  "text": "Helyi bazár a 32. mikrorajonban, amely a környező lakónegyedek napi ellátását biztosítja.",
+                  "category": "cultural",
+                  "coords": [
+                        68.747174,
+                        38.557624
+                  ]
+            },
+            {
+                  "name": "Bozorchai 33 (mkrn)",
+                  "text": "Helyi piac friss gyümölcsökkel és zöldségekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        68.744512,
+                        38.550501
+                  ]
+            },
+            {
+                  "name": "Russkaia Bania",
+                  "text": "Hagyományos orosz gőzfürdő a klasszikus wellness élményért.",
+                  "category": "recreational",
+                  "coords": [
+                        68.756619,
+                        38.5542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fantaziia",
+                  "text": "Centrul Fantaziya oferă copiilor jocuri interactive și atracții de divertisment într-un mediu cu design fantezist.",
+                  "category": "recreational",
+                  "coords": [
+                        68.710116,
+                        38.581532
+                  ]
+            },
+            {
+                  "name": "Filarmoniiai davlatii Tochikiston",
+                  "text": "Filarmonica de Stat din Tadjikistan este o sală de concerte importantă pentru muzica clasică și tradițională.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753796,
+                        38.563583
+                  ]
+            },
+            {
+                  "name": "Orel",
+                  "text": "Acest monument al vulturului (Orel) este un simbol al puterii și al mândriei naționale în capitala tadjică.",
+                  "category": "historical",
+                  "coords": [
+                        68.741623,
+                        38.558453
+                  ]
+            },
+            {
+                  "name": "Masch'idi \"Nu'mon ibni Sobit\"",
+                  "text": "Această moschee splendidă este numită după Nu'man ibn Thabit, fondatorul școlii de jurisprudență Hanafi din islam.",
+                  "category": "religious",
+                  "coords": [
+                        68.736578,
+                        38.574306
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Această moschee prezintă elemente decorative clasice tadjice și servește ca loc de liniște în mijlocul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        68.723978,
+                        38.529141
+                  ]
+            },
+            {
+                  "name": "Masch'id ch'omea",
+                  "text": "Moscheea Jome este o mare moschee de vineri, unde credincioșii se adună pentru rugăciunea săptămânală comună.",
+                  "category": "religious",
+                  "coords": [
+                        68.764364,
+                        38.549954
+                  ]
+            },
+            {
+                  "name": "Tserkov' <<Blagodat'>>",
+                  "text": "Biserica Grace este un lăcaș de cult creștin care servește comunitatea locală de credincioși din Dushanbe.",
+                  "category": "religious",
+                  "coords": [
+                        68.753957,
+                        38.557238
+                  ]
+            },
+            {
+                  "name": "Maschidi DOARZ",
+                  "text": "Moscheea DOARZ este un centru religios important în districtul cu același nume din Dushanbe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.741995,
+                        38.542012
+                  ]
+            },
+            {
+                  "name": "Masdzhid",
+                  "text": "Acest spațiu de rugăciune musulman oferă un mediu simplu și evlavios pentru ritualurile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        68.75967,
+                        38.563602
+                  ]
+            },
+            {
+                  "name": "Yovar",
+                  "text": "Yovar este o piață modernă care oferă o gamă largă de produse alimentare și articole de uz casnic în Dushanbe.",
+                  "category": "cultural",
+                  "coords": [
+                        68.71484,
+                        38.581854
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Această piață (Rynok) este o piață locală tipică, cu numeroase tarabe de îmbrăcăminte și alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        68.760891,
+                        38.556363
+                  ]
+            },
+            {
+                  "name": "Bozori Balkh",
+                  "text": "Bozori Balkh este un bazar mare, cunoscut în special pentru selecția sa de condimente tadjice.",
+                  "category": "cultural",
+                  "coords": [
+                        68.720877,
+                        38.540758
+                  ]
+            },
+            {
+                  "name": "Bozorchai Iakkachinor",
+                  "text": "Această mică piață de cartier oferă alimente de bază pentru locuitorii din cartierul Iakkachinor.",
+                  "category": "cultural",
+                  "coords": [
+                        68.758902,
+                        38.554039
+                  ]
+            },
+            {
+                  "name": "Bozorchai 32 mkrn",
+                  "text": "Un bazar local în microraionul 32, care asigură aprovizionarea zilnică a zonelor rezidențiale din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        68.747174,
+                        38.557624
+                  ]
+            },
+            {
+                  "name": "Bozorchai 33 (mkrn)",
+                  "text": "Piață locală de cartier cu fructe și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        68.744512,
+                        38.550501
+                  ]
+            },
+            {
+                  "name": "Russkaia Bania",
+                  "text": "Baie rusească tradițională ce oferă o experiență spa clasică.",
+                  "category": "recreational",
+                  "coords": [
+                        68.756619,
+                        38.5542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Childrens Entertainment Center Fantaziya",
+                  "text": "The Fantaziya center offers children interactive games and amusement rides in an imaginatively designed environment.",
+                  "category": "recreational",
+                  "coords": [
+                        68.710116,
+                        38.581532
+                  ]
+            },
+            {
+                  "name": "Filarmoniiai davlatii Tochikiston",
+                  "text": "The State Philharmonic of Tajikistan is a major concert venue for classical and traditional music.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753796,
+                        38.563583
+                  ]
+            },
+            {
+                  "name": "Orel",
+                  "text": "This eagle monument (Orel) is a symbol of strength and national pride in the Tajik capital.",
+                  "category": "historical",
+                  "coords": [
+                        68.741623,
+                        38.558453
+                  ]
+            },
+            {
+                  "name": "Masch'idi \"Nu'mon ibni Sobit\"",
+                  "text": "This grand mosque is named after Nu'man ibn Thabit, the founder of the Hanafi school of Islamic jurisprudence.",
+                  "category": "religious",
+                  "coords": [
+                        68.736578,
+                        38.574306
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "This mosque showcases classical Tajik decorative elements and serves as a place of tranquility amidst the city.",
+                  "category": "landmark",
+                  "coords": [
+                        68.723978,
+                        38.529141
+                  ]
+            },
+            {
+                  "name": "Masch'id ch'omea",
+                  "text": "The Jome mosque is a large Friday mosque where believers gather for the weekly congregational prayer.",
+                  "category": "religious",
+                  "coords": [
+                        68.764364,
+                        38.549954
+                  ]
+            },
+            {
+                  "name": "«Grace» church",
+                  "text": "The Grace church is a Christian place of worship serving the local community of believers in Dushanbe.",
+                  "category": "religious",
+                  "coords": [
+                        68.753957,
+                        38.557238
+                  ]
+            },
+            {
+                  "name": "Maschidi DOARZ",
+                  "text": "The DOARZ mosque is an important religious center in the DOARZ district of Dushanbe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.741995,
+                        38.542012
+                  ]
+            },
+            {
+                  "name": "Masdzhid",
+                  "text": "This Muslim prayer space provides a simple and devotional environment for daily rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        68.75967,
+                        38.563602
+                  ]
+            },
+            {
+                  "name": "Yovar",
+                  "text": "Yovar is a modern marketplace offering a wide range of food and household goods in Dushanbe.",
+                  "category": "cultural",
+                  "coords": [
+                        68.71484,
+                        38.581854
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "This Rynok is a typical local market with numerous stalls for clothing and fresh food.",
+                  "category": "cultural",
+                  "coords": [
+                        68.760891,
+                        38.556363
+                  ]
+            },
+            {
+                  "name": "Bozori Balkh",
+                  "text": "Bozori Balkh is a large bazaar particularly known for its selection of Tajik spices.",
+                  "category": "cultural",
+                  "coords": [
+                        68.720877,
+                        38.540758
+                  ]
+            },
+            {
+                  "name": "Bozorchai Iakkachinor",
+                  "text": "This small neighborhood market offers basic food items for the residents of the Iakkachinor district.",
+                  "category": "cultural",
+                  "coords": [
+                        68.758902,
+                        38.554039
+                  ]
+            },
+            {
+                  "name": "Bozorchai 32 mkrn",
+                  "text": "A local bazaar in the 32nd micro-district, ensuring the daily supply of the surrounding residential areas.",
+                  "category": "cultural",
+                  "coords": [
+                        68.747174,
+                        38.557624
+                  ]
+            },
+            {
+                  "name": "Bozorchai 33 (mkrn)",
+                  "text": "Local neighborhood market selling fresh fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        68.744512,
+                        38.550501
+                  ]
+            },
+            {
+                  "name": "Russkaia Bania",
+                  "text": "Traditional Russian steam bath offering a classic spa experience.",
+                  "category": "recreational",
+                  "coords": [
+                        68.756619,
+                        38.5542
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "TJ-DU",
     coords: [68.75, 38.56],
@@ -483,7 +2193,88 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "youth-park-komsomol-lake-life-v2",
+    id: "youth-park-komsomol-lake-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maschidi Navobod",
+                  "text": "Diese Nachbarschaftsmoschee bietet einen Ort für muslimische Gottesdienste in der Nähe des Jugendparks und des Komsomol-Sees von Duschanbe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.758457,
+                        38.597115
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Dushanbe \"K'atar\"",
+                  "text": "Eine prominente große Moschee in Duschanbe, die oft als Katar-Moschee bezeichnet wird und riesige Gebetssäle in der Nähe des Komsomol-Sees bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763339,
+                        38.595926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maschidi Navobod",
+                  "text": "Ez a környékbeli mecset a dushanbei Ifjúsági Park és a Komszomol-tó közelében biztosít helyet a muszlim istentiszteletek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        68.758457,
+                        38.597115
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Dushanbe \"K'atar\"",
+                  "text": "Egy kiemelkedő dushanbei nagymecset, amelyet gyakran Katari mecsetként emlegetnek, és hatalmas imatermeket kínál a Komszomol-tó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763339,
+                        38.595926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maschidi Navobod",
+                  "text": "Această moschee de cartier oferă un loc pentru cultul musulman în apropierea Parcului Tineretului și a Lacului Komsomol din Dușanbe.",
+                  "category": "landmark",
+                  "coords": [
+                        68.758457,
+                        38.597115
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Dushanbe \"K'atar\"",
+                  "text": "O moschee grandioasă din Dușanbe, denumită adesea Moscheea Qatar, care oferă săli vaste de rugăciune lângă Lacul Komsomol.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763339,
+                        38.595926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maschidi Navobod",
+                  "text": "This neighborhood mosque provides a place for Muslim worship near Dushanbe's Youth Park and Komsomol Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        68.758457,
+                        38.597115
+                  ]
+            },
+            {
+                  "name": "Masch'idi ch'omei Dushanbe \"K'atar\"",
+                  "text": "A prominent grand mosque in Dushanbe, often referred to as the Qatar Mosque, offering vast prayer halls near Komsomol Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        68.763339,
+                        38.595926
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "TJ-DU",
     coords: [68.77, 38.59],
@@ -627,7 +2418,88 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "boghi-poytakht-park-dushanbe-life-v2",
+    id: "boghi-poytakht-park-dushanbe-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vid na gorod",
+                  "text": "Ein Aussichtspunkt im Boghi-Poytakht-Park, der ein Panorama der Stadt Duschanbe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        68.843596,
+                        38.622641
+                  ]
+            },
+            {
+                  "name": "Artists’ Colony",
+                  "text": "Ein Kreativzentrum in Duschanbe, das Ateliers und Ausstellungsflächen für lokale Künstler bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        68.791485,
+                        38.605109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vid na gorod",
+                  "text": "Kilátópont a Boghi Poytakht parkban, amely Dusanbe városának panorámáját kínálja.",
+                  "category": "natural",
+                  "coords": [
+                        68.843596,
+                        38.622641
+                  ]
+            },
+            {
+                  "name": "Artists’ Colony",
+                  "text": "Kreatív központ Dusanbében, amely műtermeket és kiállítótereket kínál a helyi művészeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        68.791485,
+                        38.605109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vid na gorod",
+                  "text": "Un punct de observație în Parcul Boghi Poytakht, care oferă o panoramă a orașului Dușanbe.",
+                  "category": "natural",
+                  "coords": [
+                        68.843596,
+                        38.622641
+                  ]
+            },
+            {
+                  "name": "Artists’ Colony",
+                  "text": "Un centru creativ din Dușanbe, care oferă ateliere și spații de expoziție pentru artiștii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        68.791485,
+                        38.605109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vid na gorod",
+                  "text": "A viewpoint in Boghi Poytakht Park offering a panorama of Dushanbe city.",
+                  "category": "natural",
+                  "coords": [
+                        68.843596,
+                        38.622641
+                  ]
+            },
+            {
+                  "name": "Artists’ Colony",
+                  "text": "A creative hub in Dushanbe providing studios and exhibition spaces for local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        68.791485,
+                        38.605109
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "TJ-DU",
     coords: [68.79, 38.61],
@@ -675,7 +2547,160 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "farkhor-wheat-fields-life-v2",
+    id: "farkhor-wheat-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dosu Bolga",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick über die weiten Weizenfelder der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        69.399996,
+                        37.49649
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi Mechet'",
+                  "text": "Die zentrale Moschee von Farkhor dient als wichtigstes islamisches Gebetshaus der Region.",
+                  "category": "religious",
+                  "coords": [
+                        69.402722,
+                        37.497598
+                  ]
+            },
+            {
+                  "name": "Panjshanbe Bozori Sadoqat",
+                  "text": "Ein traditioneller lokaler Markt in Farkhor, auf dem frische Lebensmittel und Waren des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.361256,
+                        37.541277
+                  ]
+            },
+            {
+                  "name": "12 tochka kanal r. Farkhar dzhamoati Vatan dekhai Surkhob",
+                  "text": "Diese Thermalquelle befindet sich in der Nähe des Farkhor-Flusskanals im Jamoat Vatan.",
+                  "category": "natural",
+                  "coords": [
+                        69.325702,
+                        37.532553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dosu Bolga",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a régió kiterjedt búzatábláira.",
+                  "category": "natural",
+                  "coords": [
+                        69.399996,
+                        37.49649
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi Mechet'",
+                  "text": "Farkhor központi mecsetje a régió legfontosabb iszlám imaházaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        69.402722,
+                        37.497598
+                  ]
+            },
+            {
+                  "name": "Panjshanbe Bozori Sadoqat",
+                  "text": "Hagyományos helyi piac Farkhorban, ahol friss élelmiszereket és mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.361256,
+                        37.541277
+                  ]
+            },
+            {
+                  "name": "12 tochka kanal r. Farkhar dzhamoati Vatan dekhai Surkhob",
+                  "text": "Ez a hévízforrás a Farkhor-folyó csatornája közelében található a Vatan dzsamoatban.",
+                  "category": "natural",
+                  "coords": [
+                        69.325702,
+                        37.532553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dosu Bolga",
+                  "text": "Un punct de observație ce oferă o vedere panoramică asupra vastelor lanuri de grâu din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        69.399996,
+                        37.49649
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi Mechet'",
+                  "text": "Moscheea centrală din Farkhor servește ca principal lăcaș de cult islamic din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        69.402722,
+                        37.497598
+                  ]
+            },
+            {
+                  "name": "Panjshanbe Bozori Sadoqat",
+                  "text": "O piață locală tradițională în Farkhor, unde se vând alimente proaspete și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        69.361256,
+                        37.541277
+                  ]
+            },
+            {
+                  "name": "12 tochka kanal r. Farkhar dzhamoati Vatan dekhai Surkhob",
+                  "text": "Acest izvor termal este situat lângă canalul râului Farkhor, în jamoatul Vatan.",
+                  "category": "natural",
+                  "coords": [
+                        69.325702,
+                        37.532553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Az bobokhoiaton pursed",
+                  "text": "A viewpoint offering a panoramic outlook over the region's vast wheat fields.",
+                  "category": "natural",
+                  "coords": [
+                        69.399996,
+                        37.49649
+                  ]
+            },
+            {
+                  "name": "Central Mosque",
+                  "text": "The central mosque of Farkhor serves as the primary Islamic house of worship for the region.",
+                  "category": "religious",
+                  "coords": [
+                        69.402722,
+                        37.497598
+                  ]
+            },
+            {
+                  "name": "Panjshanbe Bozori Sadoqat",
+                  "text": "A traditional local market in Farkhor trading in fresh produce and everyday household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.361256,
+                        37.541277
+                  ]
+            },
+            {
+                  "name": "12 tochka kanal r. Farkhar dzhamoati Vatan dekhai Surkhob",
+                  "text": "This thermal spring is located near the Farkhar river canal in the Vatan jamoat.",
+                  "category": "natural",
+                  "coords": [
+                        69.325702,
+                        37.532553
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "TJ-KT",
     coords: [69.4, 37.5],
@@ -771,7 +2796,52 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "childrens-park-dushanbe-life-v2",
+    id: "childrens-park-dushanbe-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rynok IoVAR",
+                  "text": "Rynok IoVAR ist ein städtischer Markt in der Nähe des Kinderparks in Duschanbe, in dem Verkäufer tägliche Lebensmittel und Snacks anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        68.766954,
+                        38.567686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rynok IoVAR",
+                  "text": "A Rynok IoVAR egy városi piac a dushanbei Gyermekpark közelében, amely tele van napi élelmiszereket és harapnivalókat árusító árusokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        68.766954,
+                        38.567686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rynok IoVAR",
+                  "text": "Rynok IoVAR este o piață urbană situată lângă Parcul Copiilor din Dușanbe, plină de vânzători care oferă provizii zilnice și gustări.",
+                  "category": "cultural",
+                  "coords": [
+                        68.766954,
+                        38.567686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rynok IoVAR",
+                  "text": "Rynok IoVAR is an urban market situated near the Children's Park in Dushanbe, bustling with vendors selling daily provisions and snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        68.766954,
+                        38.567686
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "TJ-DU",
     coords: [68.78, 38.57],
@@ -867,7 +2937,124 @@ export const poiExtraTajikistanLifeV2: POI[] = [
     },
   },
   {
-    id: "sari-khosor-nature-park-life-v2",
+    id: "sari-khosor-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Airplane",
+                  "text": "Ein ungewöhnliches Denkmal im Sari-Chossor-Naturpark, das aus einem alten sowjetischen Flugzeug besteht.",
+                  "category": "historical",
+                  "coords": [
+                        69.984707,
+                        38.364677
+                  ]
+            },
+            {
+                  "name": "Sangtuda",
+                  "text": "Eine archäologische Stätte bei Sangtuda, die antike Siedlungsspuren in der Nähe des Wachsch-Flusses bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        69.914496,
+                        38.305344
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Ein bescheidenes islamisches Gebetshaus inmitten der malerischen Landschaft des Sari-Chossor-Naturparks.",
+                  "category": "religious",
+                  "coords": [
+                        69.981323,
+                        38.34812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Airplane",
+                  "text": "Szokatlan emlékmű a Sari Khosor Nemzeti Parkban, amely egy régi szovjet repülőgépből áll.",
+                  "category": "historical",
+                  "coords": [
+                        69.984707,
+                        38.364677
+                  ]
+            },
+            {
+                  "name": "Sangtuda",
+                  "text": "Régészeti lelőhely Sangtuda közelében, amely ősi településnyomokat őriz a Vahs-folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        69.914496,
+                        38.305344
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Szerény iszlám imaház a Sari Khosor Nemzeti Park festői tájai között.",
+                  "category": "religious",
+                  "coords": [
+                        69.981323,
+                        38.34812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Airplane",
+                  "text": "Un monument neobișnuit în Parcul Natural Sari Khosor, constând într-un vechi avion sovietic.",
+                  "category": "historical",
+                  "coords": [
+                        69.984707,
+                        38.364677
+                  ]
+            },
+            {
+                  "name": "Sangtuda",
+                  "text": "Un sit arheologic lângă Sangtuda, care păstrează urmele unei așezări antice în apropierea râului Vakhsh.",
+                  "category": "historical",
+                  "coords": [
+                        69.914496,
+                        38.305344
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "O casă de rugăciune islamică modestă, situată în mijlocul peisajului pitoresc al Parcului Natural Sari Khosor.",
+                  "category": "religious",
+                  "coords": [
+                        69.981323,
+                        38.34812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Airplane",
+                  "text": "An unusual monument in the Sari Khosor Nature Park consisting of an old Soviet airplane.",
+                  "category": "historical",
+                  "coords": [
+                        69.984707,
+                        38.364677
+                  ]
+            },
+            {
+                  "name": "Sangtuda",
+                  "text": "An archaeological site near Sangtuda preserving ancient settlement traces near the Vakhsh River.",
+                  "category": "historical",
+                  "coords": [
+                        69.914496,
+                        38.305344
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "A modest Islamic house of prayer set amidst the scenic landscapes of the Sari Khosor Nature Park.",
+                  "category": "religious",
+                  "coords": [
+                        69.981323,
+                        38.34812
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TJ-KT",
     coords: [70.0, 38.3],

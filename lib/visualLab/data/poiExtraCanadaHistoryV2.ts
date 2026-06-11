@@ -160,7 +160,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Volodymir Ukrainian Orthodox Cathedral",
-                  "text": "Eine ukrainisch-orthodoxe Kathedrale in Fort York, Toronto.",
+                  "text": "Eine ukrainisch-orthodoxe Kathedrale mit goldenen Zwiebeltürmen im Roncesvalles-Viertel.",
                   "category": "religious",
                   "coords": [
                         -79.406953,
@@ -169,7 +169,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Royal",
-                  "text": "Ein Theater in Fort York, Toronto.",
+                  "text": "Ein historisches Kino an der College Street mit Independent- und Klassikerfilmen.",
                   "category": "cultural",
                   "coords": [
                         -79.414509,
@@ -178,7 +178,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Mathias Anglican Church",
-                  "text": "Eine anglikanische Kirche in Fort York, Toronto.",
+                  "text": "Eine neugotische anglikanische Kirche mit einem hohen Turm in Parkdale.",
                   "category": "religious",
                   "coords": [
                         -79.411165,
@@ -187,7 +187,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Theatre Centre",
-                  "text": "Ein Theaterzentrum in Fort York, Toronto.",
+                  "text": "Ein zeitgenössisches Veranstaltungszentrum im Quartier West Queen West in Toronto.",
                   "category": "cultural",
                   "coords": [
                         -79.423255,
@@ -205,7 +205,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Roxton Road Parkette",
-                  "text": "Ein kleiner Park an der Roxton Road in Fort York, Toronto.",
+                  "text": "Ein kleiner Stadtpark an der Roxton Road in Toronto.",
                   "category": "park",
                   "coords": [
                         -79.419607,
@@ -232,7 +232,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "peach gallery",
-                  "text": "Eine Kunstgalerie in Fort York, Toronto.",
+                  "text": "Eine zeitgenössische Kunstgalerie in Toronto mit wechselnden Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         -79.419365,
@@ -268,7 +268,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stephen Bulger Gallery",
-                  "text": "Eine Fotografie-Galerie in Fort York, Toronto.",
+                  "text": "Eine Galerie, die sich auf künstlerische Fotografie spezialisiert hat.",
                   "category": "museum",
                   "coords": [
                         -79.427675,
@@ -277,7 +277,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Worth",
-                  "text": "Eine Galerie in Fort York, Toronto.",
+                  "text": "Ein Museum im York-Viertel von Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.409485,
@@ -459,7 +459,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Volodymir Ukrainian Orthodox Cathedral",
-                  "text": "Ukrán ortodox székesegyház Fort Yorkban, Torontóban.",
+                  "text": "Aranyhagyma tornyú ukrán ortodox székesegyház a Roncesvalles negyedben.",
                   "category": "religious",
                   "coords": [
                         -79.406953,
@@ -468,7 +468,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Royal",
-                  "text": "Egy színház Fort Yorkban, Torontóban.",
+                  "text": "Történelmi mozi a College Streeten, független és klasszikus filmekkel.",
                   "category": "cultural",
                   "coords": [
                         -79.414509,
@@ -477,7 +477,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Mathias Anglican Church",
-                  "text": "Anglikán templom Fort Yorkban, Torontóban.",
+                  "text": "Neogótikus anglikán templom magas toronnyal a Parkdale negyedben.",
                   "category": "religious",
                   "coords": [
                         -79.411165,
@@ -486,7 +486,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Theatre Centre",
-                  "text": "Egy színházi központ Fort Yorkban, Torontóban.",
+                  "text": "Kortárs előadóművészeti központ Toronto West Queen West negyedében.",
                   "category": "cultural",
                   "coords": [
                         -79.423255,
@@ -504,7 +504,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Roxton Road Parkette",
-                  "text": "Egy kis park a Roxton Roadon Fort Yorkban, Torontóban.",
+                  "text": "Egy kis városi park a Roxton Road mentén Torontóban.",
                   "category": "park",
                   "coords": [
                         -79.419607,
@@ -531,7 +531,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "peach gallery",
-                  "text": "Egy művészeti galéria Fort Yorkban, Torontóban.",
+                  "text": "Kortárs művészeti galéria Torontóban, változó kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -79.419365,
@@ -567,7 +567,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stephen Bulger Gallery",
-                  "text": "Fotógaléria a torontói Fort Yorkban.",
+                  "text": "Egy galéria, amely a művészi fényképezésre specializálódott.",
                   "category": "museum",
                   "coords": [
                         -79.427675,
@@ -576,7 +576,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Worth",
-                  "text": "Galéria a torontói Fort Yorkban.",
+                  "text": "Múzeum Toronto York negyedében.",
                   "category": "museum",
                   "coords": [
                         -79.409485,
@@ -758,7 +758,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Volodymir Ukrainian Orthodox Cathedral",
-                  "text": "O catedrală ucraineană ortodoxă în Fort York, Toronto.",
+                  "text": "O catedrală ortodoxă ucraineană cu turle aurii în cartierul Roncesvalles.",
                   "category": "religious",
                   "coords": [
                         -79.406953,
@@ -767,7 +767,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Royal",
-                  "text": "Un teatru în Fort York, Toronto.",
+                  "text": "Un cinematograf istoric pe College Street, cu filme independente și clasice.",
                   "category": "cultural",
                   "coords": [
                         -79.414509,
@@ -776,7 +776,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Mathias Anglican Church",
-                  "text": "O biserică anglicană în Fort York, Toronto.",
+                  "text": "O biserică anglicană neogotică cu un turn înalt în cartierul Parkdale.",
                   "category": "religious",
                   "coords": [
                         -79.411165,
@@ -785,7 +785,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Theatre Centre",
-                  "text": "Un centru teatral în Fort York, Toronto.",
+                  "text": "Un centru de spectacole contemporane în cartierul West Queen West din Toronto.",
                   "category": "cultural",
                   "coords": [
                         -79.423255,
@@ -803,7 +803,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Roxton Road Parkette",
-                  "text": "Un mic parc pe strada Roxton în Fort York, Toronto.",
+                  "text": "Un mic parc urban de-a lungul străzii Roxton din Toronto.",
                   "category": "park",
                   "coords": [
                         -79.419607,
@@ -830,7 +830,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "peach gallery",
-                  "text": "O galerie de artă în Fort York, Toronto.",
+                  "text": "O galerie de artă contemporană din Toronto cu expoziții itinerante.",
                   "category": "museum",
                   "coords": [
                         -79.419365,
@@ -866,7 +866,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stephen Bulger Gallery",
-                  "text": "O galerie de fotografie în Fort York, Toronto.",
+                  "text": "O galerie specializată în fotografie de artă.",
                   "category": "museum",
                   "coords": [
                         -79.427675,
@@ -875,7 +875,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Worth",
-                  "text": "O galerie în Fort York, Toronto.",
+                  "text": "Un muzeu în cartierul York din Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.409485,
@@ -1057,7 +1057,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Volodymir Ukrainian Orthodox Cathedral",
-                  "text": "A Ukrainian Orthodox cathedral in Fort York, Toronto.",
+                  "text": "A Ukrainian Orthodox cathedral with golden onion domes in the Roncesvalles neighbourhood.",
                   "category": "religious",
                   "coords": [
                         -79.406953,
@@ -1066,7 +1066,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Royal",
-                  "text": "A theatre in Fort York, Toronto.",
+                  "text": "A historic cinema on College Street showing independent and classic films.",
                   "category": "cultural",
                   "coords": [
                         -79.414509,
@@ -1075,7 +1075,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Mathias Anglican Church",
-                  "text": "An Anglican church in Fort York, Toronto.",
+                  "text": "A Gothic Revival Anglican church with a tall spire in Parkdale.",
                   "category": "religious",
                   "coords": [
                         -79.411165,
@@ -1084,7 +1084,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Theatre Centre",
-                  "text": "A theatre centre in Fort York, Toronto.",
+                  "text": "A contemporary performance venue in Toronto's West Queen West neighbourhood.",
                   "category": "cultural",
                   "coords": [
                         -79.423255,
@@ -1102,7 +1102,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Roxton Road Parkette",
-                  "text": "A small park on Roxton Road in Fort York, Toronto.",
+                  "text": "A small urban park along Roxton Road in Toronto.",
                   "category": "park",
                   "coords": [
                         -79.419607,
@@ -1129,7 +1129,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "peach gallery",
-                  "text": "An art gallery in Fort York, Toronto.",
+                  "text": "A contemporary art gallery in Toronto showcasing rotating exhibitions.",
                   "category": "museum",
                   "coords": [
                         -79.419365,
@@ -1165,7 +1165,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stephen Bulger Gallery",
-                  "text": "A photography gallery in Fort York, Toronto.",
+                  "text": "A gallery specializing in fine art photography.",
                   "category": "museum",
                   "coords": [
                         -79.427675,
@@ -1174,7 +1174,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Worth",
-                  "text": "A gallery in Fort York, Toronto.",
+                  "text": "A museum in Toronto's York neighbourhood.",
                   "category": "museum",
                   "coords": [
                         -79.409485,
@@ -1525,7 +1525,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Battures de Montmagny",
-                  "text": "Ein Strand im Gebiet von Montmagny, in der Nähe von Grosse Île.",
+                  "text": "Erholungsgebiet an den Gezeitenflächen der Montmagny-Küste.",
                   "category": "recreational",
                   "coords": [
                         -70.5777,
@@ -1534,7 +1534,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cabaret Cogeco",
-                  "text": "Ein Theater in der Nähe von Grosse Île.",
+                  "text": "Ein Kabarett- und Musiklokal auf der Île Irish Memorial.",
                   "category": "cultural",
                   "coords": [
                         -70.561305,
@@ -1543,7 +1543,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Domaine RITT Cidrerie & Vergers",
-                  "text": "Eine Apfelwein-Kelterei und Obstgärten-Attraktion in der Nähe von Grosse Île.",
+                  "text": "Eine Apfelweinkellerei und Obstgärten auf der Insel.",
                   "category": "landmark",
                   "coords": [
                         -70.456777,
@@ -1552,7 +1552,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Por des Vaches",
-                  "text": "Ein Strand in der Nähe von Grosse Île.",
+                  "text": "Ein Erholungsgebiet namens Le Por des Vaches.",
                   "category": "recreational",
                   "coords": [
                         -70.520994,
@@ -1561,7 +1561,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Musée de L'Isle-aux-Grues",
-                  "text": "Ein Museum auf der Isle-aux-Grues, in der Nähe von Grosse Île.",
+                  "text": "Ein Museum auf der Isle-aux-Grues.",
                   "category": "museum",
                   "coords": [
                         -70.544326,
@@ -1570,7 +1570,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc Marcel-Desjardins",
-                  "text": "Ein Park in der Nähe von Grosse Île.",
+                  "text": "Eine Grünanlage, die Marcel Desjardins auf der Insel gewidmet ist.",
                   "category": "park",
                   "coords": [
                         -70.567425,
@@ -1579,7 +1579,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc municipal Optimiste",
-                  "text": "Ein Gemeindepark in der Nähe von Grosse Île.",
+                  "text": "Ein kommunaler Park mit einem Namen, der den Gemeinschaftsoptimismus widerspiegelt.",
                   "category": "park",
                   "coords": [
                         -70.456277,
@@ -1590,7 +1590,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Battures de Montmagny",
-                  "text": "Egy strand a Montmagny környékén, Grosse Île közelében.",
+                  "text": "Rekreációs terület a Montmagny-part árapálysíkságain.",
                   "category": "recreational",
                   "coords": [
                         -70.5777,
@@ -1599,7 +1599,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cabaret Cogeco",
-                  "text": "Egy színház Grosse Île közelében.",
+                  "text": "Kabaré- és zenei helyszín az Île Irish Memorial szigeten.",
                   "category": "cultural",
                   "coords": [
                         -70.561305,
@@ -1608,7 +1608,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Domaine RITT Cidrerie & Vergers",
-                  "text": "Egy almabor-készítő ültetvény és gyümölcsösök attrakció Grosse Île közelében.",
+                  "text": "Almabor-ház és almaültetvények a szigeten.",
                   "category": "landmark",
                   "coords": [
                         -70.456777,
@@ -1617,7 +1617,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Por des Vaches",
-                  "text": "Egy strand Grosse Île közelében.",
+                  "text": "Egy Le Por des Vaches nevű rekreációs terület.",
                   "category": "recreational",
                   "coords": [
                         -70.520994,
@@ -1626,7 +1626,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Musée de L'Isle-aux-Grues",
-                  "text": "Egy múzeum a Isle-aux-Grues szigeten, Grosse Île közelében.",
+                  "text": "Múzeum az Isle-aux-Grues szigeten.",
                   "category": "museum",
                   "coords": [
                         -70.544326,
@@ -1635,7 +1635,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc Marcel-Desjardins",
-                  "text": "Egy park Grosse Île közelében.",
+                  "text": "Marcel Desjardinsnak szentelt zöldterület a szigeten.",
                   "category": "park",
                   "coords": [
                         -70.567425,
@@ -1644,7 +1644,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc municipal Optimiste",
-                  "text": "Egy önkormányzati park Grosse Île közelében.",
+                  "text": "Önkormányzati park, melynek neve a közösségi optimizmust tükrözi.",
                   "category": "park",
                   "coords": [
                         -70.456277,
@@ -1655,7 +1655,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Battures de Montmagny",
-                  "text": "O plajă în zona Montmagny, lângă Grosse Île.",
+                  "text": "Zonă recreativă pe platourile de maree de pe țărmul Montmagny.",
                   "category": "recreational",
                   "coords": [
                         -70.5777,
@@ -1664,7 +1664,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cabaret Cogeco",
-                  "text": "Un teatru lângă Grosse Île.",
+                  "text": "Un local de cabaret și muzică pe Île Irish Memorial.",
                   "category": "cultural",
                   "coords": [
                         -70.561305,
@@ -1673,7 +1673,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Domaine RITT Cidrerie & Vergers",
-                  "text": "O atracție cu livadă și cidru lângă Grosse Île.",
+                  "text": "O cidrerie și livezi de mere pe insulă.",
                   "category": "landmark",
                   "coords": [
                         -70.456777,
@@ -1682,7 +1682,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Por des Vaches",
-                  "text": "O plajă lângă Grosse Île.",
+                  "text": "O zonă recreativă numită Le Por des Vaches.",
                   "category": "recreational",
                   "coords": [
                         -70.520994,
@@ -1691,7 +1691,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Musée de L'Isle-aux-Grues",
-                  "text": "Un muzeu pe Insula Gruelor (Isle-aux-Grues), lângă Grosse Île.",
+                  "text": "Un muzeu pe insula Isle-aux-Grues.",
                   "category": "museum",
                   "coords": [
                         -70.544326,
@@ -1700,7 +1700,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc Marcel-Desjardins",
-                  "text": "Un parc lângă Grosse Île.",
+                  "text": "Un spațiu verde dedicat lui Marcel Desjardins pe insulă.",
                   "category": "park",
                   "coords": [
                         -70.567425,
@@ -1709,7 +1709,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc municipal Optimiste",
-                  "text": "Un parc municipal lângă Grosse Île.",
+                  "text": "Un parc municipal cu un nume care reflectă optimismul comunității.",
                   "category": "park",
                   "coords": [
                         -70.456277,
@@ -1720,7 +1720,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Battures de Montmagny",
-                  "text": "A beach in the Montmagny area, near Grosse Île.",
+                  "text": "Recreational tidal flats along the Montmagny shore.",
                   "category": "recreational",
                   "coords": [
                         -70.5777,
@@ -1729,7 +1729,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cabaret Cogeco",
-                  "text": "A theatre near Grosse Île.",
+                  "text": "A cabaret and music venue on Île Irish Memorial.",
                   "category": "cultural",
                   "coords": [
                         -70.561305,
@@ -1738,7 +1738,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Domaine RITT Cidrerie & Vergers",
-                  "text": "A cider orchard attraction near Grosse Île.",
+                  "text": "A cider house and apple orchards on the island.",
                   "category": "landmark",
                   "coords": [
                         -70.456777,
@@ -1747,7 +1747,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Por des Vaches",
-                  "text": "A beach near Grosse Île.",
+                  "text": "A recreational area known as Le Por des Vaches.",
                   "category": "recreational",
                   "coords": [
                         -70.520994,
@@ -1756,7 +1756,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Musée de L'Isle-aux-Grues",
-                  "text": "A museum on Isle-aux-Grues, near Grosse Île.",
+                  "text": "A museum located on Isle-aux-Grues island.",
                   "category": "museum",
                   "coords": [
                         -70.544326,
@@ -1765,7 +1765,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc Marcel-Desjardins",
-                  "text": "A park near Grosse Île.",
+                  "text": "A green space dedicated to Marcel Desjardins on the island.",
                   "category": "park",
                   "coords": [
                         -70.567425,
@@ -1774,7 +1774,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc municipal Optimiste",
-                  "text": "A municipal park near Grosse Île.",
+                  "text": "A municipal park with a name reflecting community optimism.",
                   "category": "park",
                   "coords": [
                         -70.456277,
@@ -1834,7 +1834,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Abbey Dawn Hill",
-                  "text": "Abbey Dawn Hill in der Region Kingston ist ein Hügel, der einen Ausblick auf die Umgebung bietet.",
+                  "text": "Ein bewaldeter Hügel mit Aussicht auf die Umgebung von Kingston.",
                   "category": "natural",
                   "coords": [
                         -76.383773,
@@ -1852,7 +1852,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Knowlton Theatre",
-                  "text": "Das Knowlton Theatre in der Region Kingston ist ein Theater, das kulturelle Veranstaltungen ausrichtet.",
+                  "text": "Ein kulturelles Theater in Henry Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.443994,
@@ -1870,7 +1870,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Navy Bay",
-                  "text": "Eine Bucht in der Nähe von Fort Henry in Kingston, Ontario.",
+                  "text": "Eine geschützte Bucht, die von Marineschiffen genutzt wird.",
                   "category": "landmark",
                   "coords": [
                         -76.464074,
@@ -1888,7 +1888,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Old House Museum",
-                  "text": "Ein Museum in einem historischen Gebäude in Kingston.",
+                  "text": "Ein historisches Hausmuseum in Henry Kingston.",
                   "category": "museum",
                   "coords": [
                         -76.439862,
@@ -1906,7 +1906,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Lawrence Islands National Park",
-                  "text": "Ein Nationalpark in der Region der Tausend Inseln in Ontario.",
+                  "text": "Ein Nationalpark aus Inseln im Sankt-Lorenz-Strom.",
                   "category": "natural",
                   "coords": [
                         -76.373044,
@@ -1933,7 +1933,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Military Communications and Electronics Museum",
-                  "text": "Ein Museum in Kingston, das der Geschichte der militärischen Kommunikation und Elektronik gewidmet ist.",
+                  "text": "Das Museum für Militärkommunikation und Elektronik in Kingston zeigt historische Funk- und Nachrichtengeräte.",
                   "category": "museum",
                   "coords": [
                         -76.439921,
@@ -1942,7 +1942,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Holy Name of Jesus Church",
-                  "text": "Eine Kirche in Kingston, Ontario.",
+                  "text": "Eine katholische Kirche, die der Gemeinde in Kingston dient.",
                   "category": "religious",
                   "coords": [
                         -76.424311,
@@ -1951,7 +1951,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Shannon Park Splash Pads",
-                  "text": "Ein Wasserspielplatz im Shannon Park in Kingston.",
+                  "text": "Spritzpads für Kinder im Shannon Park.",
                   "category": "recreational",
                   "coords": [
                         -76.485139,
@@ -1980,7 +1980,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Abbey Dawn Hill",
-                  "text": "Az Abbey Dawn Hill a Kingston régióban egy domb, amely kilátást nyújt a környékre.",
+                  "text": "Egy erdős domb, kilátással Kingston környékére.",
                   "category": "natural",
                   "coords": [
                         -76.383773,
@@ -1998,7 +1998,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Knowlton Theatre",
-                  "text": "A Knowlton Theatre a Kingston régióban egy színház, amely kulturális eseményeket szervez.",
+                  "text": "Egy kulturális színház Henry Kingstonban.",
                   "category": "cultural",
                   "coords": [
                         -76.443994,
@@ -2016,7 +2016,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Navy Bay",
-                  "text": "Egy öböl a Fort Henry közelében, Kingstonban, Ontario.",
+                  "text": "Egy védett öböl, amelyet haditengerészeti hajók használnak.",
                   "category": "landmark",
                   "coords": [
                         -76.464074,
@@ -2034,7 +2034,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Old House Museum",
-                  "text": "Egy múzeum egy történelmi épületben Kingstonban.",
+                  "text": "Történelmi házmúzeum Henry Kingstonban.",
                   "category": "museum",
                   "coords": [
                         -76.439862,
@@ -2052,7 +2052,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Lawrence Islands National Park",
-                  "text": "Egy nemzeti park az Ezer-szigetek régiójában, Ontario.",
+                  "text": "Nemzeti park szigetekből a Szent Lőrinc folyóban.",
                   "category": "natural",
                   "coords": [
                         -76.373044,
@@ -2079,7 +2079,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Military Communications and Electronics Museum",
-                  "text": "Egy múzeum Kingstonban, amely a katonai kommunikáció és elektronika történetének szentelt.",
+                  "text": "A Kingstonban található Katonai Hírközlési és Elektronikai Múzeum történelmi rádió- és híradástechnikai eszközöket mutat be.",
                   "category": "museum",
                   "coords": [
                         -76.439921,
@@ -2088,7 +2088,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Holy Name of Jesus Church",
-                  "text": "Egy templom Kingstonban, Ontario.",
+                  "text": "Katolikus templom, amely a kingstoni közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         -76.424311,
@@ -2097,7 +2097,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Shannon Park Splash Pads",
-                  "text": "Vizi játszótér a kingstoni Shannon Parkban.",
+                  "text": "Gyermekek számára kialakított pancsoló a Shannon Parkban.",
                   "category": "recreational",
                   "coords": [
                         -76.485139,
@@ -2126,7 +2126,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Abbey Dawn Hill",
-                  "text": "Abbey Dawn Hill din regiunea Kingston este un deal care oferă o vedere asupra zonei înconjurătoare.",
+                  "text": "Un deal împădurit cu vedere asupra zonei Kingston.",
                   "category": "natural",
                   "coords": [
                         -76.383773,
@@ -2144,7 +2144,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Knowlton Theatre",
-                  "text": "Teatrul Knowlton din regiunea Kingston este un teatru care organizează evenimente culturale.",
+                  "text": "Un teatru cultural în Henry Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.443994,
@@ -2162,7 +2162,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Navy Bay",
-                  "text": "Un golf situat lângă Fort Henry în Kingston, Ontario.",
+                  "text": "Un golf adăpostit folosit de navele navale.",
                   "category": "landmark",
                   "coords": [
                         -76.464074,
@@ -2180,7 +2180,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Old House Museum",
-                  "text": "Un muzeu găzduit într-o clădire istorică din Kingston.",
+                  "text": "Un muzeu de casă istorică în Henry Kingston.",
                   "category": "museum",
                   "coords": [
                         -76.439862,
@@ -2198,7 +2198,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Lawrence Islands National Park",
-                  "text": "Un parc național în regiunea Celor o Mie de Insule din Ontario.",
+                  "text": "Un parc național format din insule în râul St. Lawrence.",
                   "category": "natural",
                   "coords": [
                         -76.373044,
@@ -2225,7 +2225,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Military Communications and Electronics Museum",
-                  "text": "Un muzeu în Kingston dedicat istoriei comunicațiilor și electronicii militare.",
+                  "text": "Muzeul de Comunicații Militare și Electronică din Kingston expune echipamente istorice de radio și comunicații.",
                   "category": "museum",
                   "coords": [
                         -76.439921,
@@ -2234,7 +2234,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Holy Name of Jesus Church",
-                  "text": "O biserică în Kingston, Ontario.",
+                  "text": "O biserică catolică ce slujește comunitatea din Kingston.",
                   "category": "religious",
                   "coords": [
                         -76.424311,
@@ -2243,7 +2243,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Shannon Park Splash Pads",
-                  "text": "O zonă de joacă cu apă în Parcul Shannon din Kingston.",
+                  "text": "Zone de stropit pentru copii în Parcul Shannon.",
                   "category": "recreational",
                   "coords": [
                         -76.485139,
@@ -2272,7 +2272,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Abbey Dawn Hill",
-                  "text": "Abbey Dawn Hill in the Kingston area is a hill offering a view of the surroundings.",
+                  "text": "A wooded hill offering views of the surrounding Kingston area.",
                   "category": "natural",
                   "coords": [
                         -76.383773,
@@ -2290,7 +2290,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Knowlton Theatre",
-                  "text": "Knowlton Theatre in the Kingston area is a theatre hosting cultural events.",
+                  "text": "A cultural theatre in Henry Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.443994,
@@ -2308,7 +2308,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Navy Bay",
-                  "text": "A bay located near Fort Henry in Kingston, Ontario.",
+                  "text": "A sheltered bay used by naval vessels.",
                   "category": "landmark",
                   "coords": [
                         -76.464074,
@@ -2326,7 +2326,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Old House Museum",
-                  "text": "A museum housed in a historic building in Kingston.",
+                  "text": "A historic house museum in Henry Kingston.",
                   "category": "museum",
                   "coords": [
                         -76.439862,
@@ -2344,7 +2344,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Lawrence Islands National Park",
-                  "text": "A national park in the Thousand Islands region of Ontario.",
+                  "text": "A national park of islands in the St. Lawrence River.",
                   "category": "natural",
                   "coords": [
                         -76.373044,
@@ -2371,7 +2371,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Military Communications and Electronics Museum",
-                  "text": "A museum in Kingston dedicated to the history of military communications and electronics.",
+                  "text": "This museum in Kingston houses historic military communication and electronics equipment, including vintage radios and cipher machines.",
                   "category": "museum",
                   "coords": [
                         -76.439921,
@@ -2380,7 +2380,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Holy Name of Jesus Church",
-                  "text": "A church in Kingston, Ontario.",
+                  "text": "A Catholic church serving the Kingston community.",
                   "category": "religious",
                   "coords": [
                         -76.424311,
@@ -2389,7 +2389,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Shannon Park Splash Pads",
-                  "text": "A water play area in Kingston's Shannon Park.",
+                  "text": "Splash pads for children in Shannon Park.",
                   "category": "recreational",
                   "coords": [
                         -76.485139,
@@ -2521,7 +2521,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Klondike Institute of Art and Culture",
-                  "text": "Ein Kunst- und Kulturzentrum in Dawson City.",
+                  "text": "Ein Kunst- und Kulturinstitut in der Klondike-Goldrauschregion.",
                   "category": "cultural",
                   "coords": [
                         -139.435375,
@@ -2566,7 +2566,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steamboat Graveyard #2",
-                  "text": "Ein Friedhof für Dampfschiffe im Klondike-Gebiet.",
+                  "text": "Ein Ort mit verlassenen Dampfschiffen aus der Goldrauschzeit.",
                   "category": "landmark",
                   "coords": [
                         -139.444132,
@@ -2620,7 +2620,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Dawson City Firefighters Museum",
-                  "text": "Ein Museum zur Geschichte der Feuerwehr in Dawson City.",
+                  "text": "Ein Museum zur Feuerwehrgeschichte in Dawson City.",
                   "category": "museum",
                   "coords": [
                         -139.428569,
@@ -2694,7 +2694,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Klondike Institute of Art and Culture",
-                  "text": "Egy művészeti és kulturális központ Dawson City-ban.",
+                  "text": "Művészeti és kulturális intézet a Klondike-i aranyláz régiójában.",
                   "category": "cultural",
                   "coords": [
                         -139.435375,
@@ -2739,7 +2739,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steamboat Graveyard #2",
-                  "text": "Egy gőzhajó temető a Klondike régióban.",
+                  "text": "Hely, ahol elhagyott gőzhajók vannak az aranyláz korszakából.",
                   "category": "landmark",
                   "coords": [
                         -139.444132,
@@ -2793,7 +2793,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Dawson City Firefighters Museum",
-                  "text": "Egy múzeum a tűzoltóság történetéről Dawson City-ban.",
+                  "text": "Tűzoltóság történeti múzeum Dawson Cityben.",
                   "category": "museum",
                   "coords": [
                         -139.428569,
@@ -2867,7 +2867,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Klondike Institute of Art and Culture",
-                  "text": "Un centru de artă și cultură în Dawson City.",
+                  "text": "Un institut de artă și cultură în regiunea goanei după aur Klondike.",
                   "category": "cultural",
                   "coords": [
                         -139.435375,
@@ -2912,7 +2912,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steamboat Graveyard #2",
-                  "text": "Un cimitir de vapoare în zona Klondike.",
+                  "text": "Un sit cu nave cu aburi abandonate din era goanei după aur.",
                   "category": "landmark",
                   "coords": [
                         -139.444132,
@@ -2966,7 +2966,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Dawson City Firefighters Museum",
-                  "text": "Un muzeu despre istoria pompierilor în Dawson City.",
+                  "text": "Un muzeu al istoriei pompierilor din Dawson City.",
                   "category": "museum",
                   "coords": [
                         -139.428569,
@@ -3040,7 +3040,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Klondike Institute of Art and Culture",
-                  "text": "An arts and culture centre in Dawson City.",
+                  "text": "An art and culture institute in the Klondike gold rush region.",
                   "category": "cultural",
                   "coords": [
                         -139.435375,
@@ -3085,7 +3085,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steamboat Graveyard #2",
-                  "text": "A steamboat graveyard in the Klondike area.",
+                  "text": "A site with abandoned steamboats from the gold rush era.",
                   "category": "landmark",
                   "coords": [
                         -139.444132,
@@ -3139,7 +3139,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Dawson City Firefighters Museum",
-                  "text": "A museum on firefighting history in Dawson City.",
+                  "text": "A museum of firefighting history in Dawson City.",
                   "category": "museum",
                   "coords": [
                         -139.428569,
@@ -3427,7 +3427,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Bay National Historic Site",
-                  "text": "Ein Museum zur Geschichte der baskischen Walfangstation in Red Bay.",
+                  "text": "Eine nationale historische Stätte des baskischen Walfangs in Red Bay.",
                   "category": "museum",
                   "coords": [
                         -56.427562,
@@ -3436,7 +3436,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Monument to Whales",
-                  "text": "Ein Denkmal in Red Bay zu Ehren der Wale.",
+                  "text": "Ein Denkmal, das an Wale in Red Bay erinnert.",
                   "category": "historical",
                   "coords": [
                         -56.444718,
@@ -3465,7 +3465,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Bay National Historic Site",
-                  "text": "Múzeum a red bay-i baszk bálnavadászat történetéről.",
+                  "text": "A baszk bálnavadászat nemzeti történelmi helyszíne a Red Bayben.",
                   "category": "museum",
                   "coords": [
                         -56.427562,
@@ -3474,7 +3474,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Monument to Whales",
-                  "text": "Emlékmű Red Bay-ben a bálnák tiszteletére.",
+                  "text": "Emlékmű, amely a bálnákra emlékeztet a Red Bayben.",
                   "category": "historical",
                   "coords": [
                         -56.444718,
@@ -3503,7 +3503,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Bay National Historic Site",
-                  "text": "Un muzeu despre istoria stației basce de vânătoare de balene din Red Bay.",
+                  "text": "Un sit istoric național al vânătorii de balene basce în Red Bay.",
                   "category": "museum",
                   "coords": [
                         -56.427562,
@@ -3512,7 +3512,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Monument to Whales",
-                  "text": "Un monument în Red Bay în onoarea balenelor.",
+                  "text": "Un monument care comemorează balenele în Red Bay.",
                   "category": "historical",
                   "coords": [
                         -56.444718,
@@ -3541,7 +3541,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Bay National Historic Site",
-                  "text": "A museum about the Basque whaling station in Red Bay.",
+                  "text": "A national historic site of Basque whaling in Red Bay.",
                   "category": "museum",
                   "coords": [
                         -56.427562,
@@ -3550,7 +3550,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Monument to Whales",
-                  "text": "A monument in Red Bay honoring whales.",
+                  "text": "A monument commemorating whales in Red Bay.",
                   "category": "historical",
                   "coords": [
                         -56.444718,
@@ -3610,7 +3610,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Shearwater Aviation Museum",
-                  "text": "Das Shearwater Aviation Museum ist ein Museum auf der CFB Shearwater in Halifax, das die Geschichte der Marinefliegerei zeigt.",
+                  "text": "Das Shearwater Aviation Museum in Halifax zeigt militärische Flugzeuge und Marineflieger-Geschichte.",
                   "category": "museum",
                   "coords": [
                         -63.514679,
@@ -3619,7 +3619,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Museum of Immigration at Pier 21",
-                  "text": "Das Canadian Museum of Immigration at Pier 21 in Halifax ist Kanadas nationales Einwanderungsmuseum.",
+                  "text": "Das kanadische Einwanderungsmuseum am Pier 21 in Halifax zeigt die Ankunft von über einer Million Einwanderern.",
                   "category": "museum",
                   "coords": [
                         -63.566054,
@@ -3628,7 +3628,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Public Archives of Nova Scotia",
-                  "text": "Die Public Archives of Nova Scotia in Halifax sind das Provinzarchiv von Nova Scotia.",
+                  "text": "Das Nova Scotia Archives in Halifax verwahrt historische Dokumente und Fotos der Provinz.",
                   "category": "museum",
                   "coords": [
                         -63.585938,
@@ -3637,7 +3637,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Centre",
-                  "text": "Das Discovery Centre ist ein Wissenschaftsmuseum in Halifax.",
+                  "text": "Das Discovery Centre in Halifax ist ein interaktives Wissenschaftsmuseum mit Hands-on-Exponaten.",
                   "category": "landmark",
                   "coords": [
                         -63.567826,
@@ -3646,7 +3646,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince of Wales Tower",
-                  "text": "Der Prince of Wales Tower ist ein historischer Martello-Turm in Halifax.",
+                  "text": "Der Prince of Wales Tower in Halifax ist eine runde Steinbefestigung aus dem 18. Jahrhundert.",
                   "category": "landmark",
                   "coords": [
                         -63.569684,
@@ -3655,7 +3655,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Victoria Park",
-                  "text": "Der Victoria Park ist ein öffentlicher Park in Halifax.",
+                  "text": "Der Victoria Park in Halifax liegt am Hang des Citadel Hill und bietet Grünflächen und Spielplätze.",
                   "category": "landmark",
                   "coords": [
                         -63.579533,
@@ -3664,7 +3664,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Point Pleasant Park",
-                  "text": "Der Point Pleasant Park ist ein großer Park an der Südspitze der Halbinsel Halifax.",
+                  "text": "Point Pleasant Park in Halifax ist ein bewaldeter Park an der Küste mit Wanderwegen und alten Befestigungen.",
                   "category": "park",
                   "coords": [
                         -63.568413,
@@ -3673,7 +3673,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gorsebrook Park",
-                  "text": "Der Gorsebrook Park ist ein Park in Halifax.",
+                  "text": "Der Gorsebrook Park in Halifax ist ein kleiner Stadtpark an der Gorsebrook Avenue.",
                   "category": "park",
                   "coords": [
                         -63.582071,
@@ -3682,7 +3682,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Point Pleasant Battery",
-                  "text": "Die Point Pleasant Battery ist eine historische Batterieruine in Halifax.",
+                  "text": "Eine Küstenartilleriebatterie aus dem 19. Jahrhundert im Point Pleasant Park.",
                   "category": "historical",
                   "coords": [
                         -63.563598,
@@ -3691,7 +3691,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McNab",
-                  "text": "Fort McNab ist eine Festung in Halifax.",
+                  "text": "Ein Fort aus dem 19. Jahrhundert auf McNab Island, das den Hafen von Halifax schützte.",
                   "category": "fortress",
                   "coords": [
                         -63.515322,
@@ -3700,7 +3700,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rebecca Cohn Auditorium",
-                  "text": "Das Rebecca Cohn Auditorium ist ein Kunstzentrum in Halifax.",
+                  "text": "Ein Konzertsaal auf dem Campus der Dalhousie University.",
                   "category": "cultural",
                   "coords": [
                         -63.588808,
@@ -3709,7 +3709,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "All Saints Cathedral",
-                  "text": "Die All Saints Cathedral ist ein Gotteshaus in Halifax.",
+                  "text": "Die anglikanische Kathedrale von Halifax, bekannt für ihre neugotische Architektur.",
                   "category": "religious",
                   "coords": [
                         -63.580526,
@@ -3718,7 +3718,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Massey United Church",
-                  "text": "Die Fort Massey United Church ist ein Gotteshaus in Halifax.",
+                  "text": "Eine United Church of Canada-Gemeinde im Zentrum von Halifax.",
                   "category": "religious",
                   "coords": [
                         -63.57324,
@@ -3727,7 +3727,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's United Church",
-                  "text": "Die St. Andrew's United Church ist ein Gotteshaus in Halifax.",
+                  "text": "Eine historische United Church in der Nähe der Halifax-Uferpromenade.",
                   "category": "religious",
                   "coords": [
                         -63.587294,
@@ -3736,7 +3736,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maugers Beach Lighthouse",
-                  "text": "Der Maugers Beach Lighthouse ist ein Leuchtturm in Halifax.",
+                  "text": "Ein historischer Leuchtturm am Maugers Beach, der Schiffe in den Hafen führt.",
                   "category": "landmark",
                   "coords": [
                         -63.533602,
@@ -3745,7 +3745,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Halifax Seaport Farmers’ Market",
-                  "text": "Der Halifax Seaport Farmers' Market ist ein Marktplatz in Halifax.",
+                  "text": "Ein großer Bauernmarkt am Halifax Seaport, einer der ältesten Kanadas.",
                   "category": "landmark",
                   "coords": [
                         -63.565639,
@@ -3754,7 +3754,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Eisner Cove",
-                  "text": "Die Eisner Cove ist eine Bucht in Halifax.",
+                  "text": "Eine kleine Bucht entlang der Küste der Halbinsel Halifax.",
                   "category": "landmark",
                   "coords": [
                         -63.52412,
@@ -3763,7 +3763,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Melville Cove",
-                  "text": "Die Melville Cove ist eine Bucht in Halifax.",
+                  "text": "Eine Bucht im Gebiet von Halifax, die oft zum Bootfahren genutzt wird.",
                   "category": "landmark",
                   "coords": [
                         -63.615742,
@@ -3772,7 +3772,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Northwest Arm",
-                  "text": "Der Northwest Arm ist eine Bucht in Halifax.",
+                  "text": "Ein langer schmaler Meeresarm, der vom Hafen von Halifax ins Landesinnere reicht.",
                   "category": "landmark",
                   "coords": [
                         -63.593374,
@@ -3781,7 +3781,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sir Sandford Fleming Park",
-                  "text": "Der Sir Sandford Fleming Park ist ein Park in Halifax.",
+                  "text": "Der Sir Sandford Fleming Park in Halifax wurde am 6. November 2007 eröffnet und bietet Seezugang.",
                   "category": "park",
                   "coords": [
                         -63.602685,
@@ -3790,7 +3790,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deadmans Island Park",
-                  "text": "Der Deadmans Island Park ist ein Park in Halifax.",
+                  "text": "Deadmans Island Park in Halifax wurde am 31. März 2009 eröffnet und liegt an der Küste.",
                   "category": "park",
                   "coords": [
                         -63.610083,
@@ -3799,7 +3799,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Conrose Park",
-                  "text": "Der Conrose Park ist ein Park in Halifax.",
+                  "text": "Ein Nachbarschaftspark im Conrose-Viertel von Halifax.",
                   "category": "park",
                   "coords": [
                         -63.601099,
@@ -3808,7 +3808,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Hugonin-Perrin Estate and Gardens",
-                  "text": "Die Stätte des ehemaligen Hugonin-Perrin-Anwesens und der Gärten ist eine Ruine in Halifax.",
+                  "text": "Das ehemalige Hugonin-Perrin-Anwesen und Gartengelände in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.527355,
@@ -3817,7 +3817,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former Findlay's Picnic Grounds",
-                  "text": "Die ehemaligen Findlay's Picnic Grounds sind eine Ruine in Halifax.",
+                  "text": "Historische Picknickplätze, ehemals bekannt als Findlay's, in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.532569,
@@ -3826,7 +3826,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former Hugonin Wharf",
-                  "text": "Der ehemalige Hugonin Wharf ist eine Ruine in Halifax.",
+                  "text": "Ein ehemaliger Kai in Halifax, bekannt als Hugonin Wharf.",
                   "category": "historical",
                   "coords": [
                         -63.531265,
@@ -3835,7 +3835,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Burial site for cholera victims from the SS England, 1866",
-                  "text": "Die Grabstätte für Choleraopfer der SS England von 1866 ist ein Denkmal in Halifax.",
+                  "text": "Grabstätte für Choleraopfer der SS England (1866).",
                   "category": "historical",
                   "coords": [
                         -63.535122,
@@ -3844,7 +3844,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Detention Barracks",
-                  "text": "Die Stätte der ehemaligen Detention Barracks ist eine Ruine in Halifax.",
+                  "text": "Gelände der ehemaligen Haftkasernen in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.525341,
@@ -3853,7 +3853,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McLean Farm",
-                  "text": "Die McLean Farm ist eine Ruine in Halifax.",
+                  "text": "Historische McLean-Farm in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.516006,
@@ -3862,7 +3862,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former McNab Family Homestead",
-                  "text": "Die Stätte des ehemaligen McNab Family Homestead ist eine Ruine in Halifax.",
+                  "text": "Ehemaliges Gehöft der Familie McNab in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.519447,
@@ -3871,7 +3871,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Rifle Range Pier",
-                  "text": "Die Stätte des ehemaligen Rifle Range Pier ist eine Ruine in Halifax.",
+                  "text": "Ehemaliger Pier für den Schießstand in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.51053,
@@ -3880,7 +3880,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Concrete Gun Platform",
-                  "text": "Die Betonkanonenplattform ist eine Ruine in Halifax.",
+                  "text": "Ein Beton-Geschützstand in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.508654,
@@ -3889,7 +3889,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Concrete Rangefinder Platforms",
-                  "text": "Die Betonentfernungsmesserplattformen sind eine Ruine in Halifax.",
+                  "text": "Betonplattformen für Entfernungsmesser in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.511473,
@@ -3898,7 +3898,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Searchlight Emplacement",
-                  "text": "Die Scheinwerferstellung ist eine Ruine in Halifax.",
+                  "text": "Ein Suchscheinwerferstand in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.511795,
@@ -3907,7 +3907,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rifle Range",
-                  "text": "Der Schießstand ist eine Ruine in Halifax.",
+                  "text": "Ein historischer Schießstand in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.507098,
@@ -3916,7 +3916,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rifle Range Target Butts",
-                  "text": "Die Schießstand-Zielwälle sind eine Ruine in Halifax.",
+                  "text": "Historische Schießstand-Zielscheiben in Halifax, Überreste eines Schützenvereins.",
                   "category": "historical",
                   "coords": [
                         -63.504888,
@@ -3925,7 +3925,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former McNabs Island Lighthouse (1903-1976)",
-                  "text": "Der ehemalige McNabs Island Lighthouse (1903-1976) ist eine Ruine in Halifax.",
+                  "text": "Ehemaliger Leuchtturm auf McNabs Island, in Betrieb von 1903 bis 1976.",
                   "category": "historical",
                   "coords": [
                         -63.535521,
@@ -3934,7 +3934,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Woolnough's Pleasure Grounds",
-                  "text": "Die Woolnough's Pleasure Grounds sind eine Ruine in Halifax.",
+                  "text": "Woolnough's Pleasure Grounds, eine historische Vergnügungsanlage in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.536969,
@@ -3945,7 +3945,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Shearwater Aviation Museum",
-                  "text": "A Shearwater Aviation Museum egy múzeum a CFB Shearwater repülőbázison Halifaxban, amely a haditengerészeti repülés történetét mutatja be.",
+                  "text": "A halifaxi Shearwater Repülési Múzeum katonai repülőgépeket és a tengerészeti repülés történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -63.514679,
@@ -3954,7 +3954,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Museum of Immigration at Pier 21",
-                  "text": "A Canadian Museum of Immigration at Pier 21 Halifaxban Kanada nemzeti bevándorlási múzeuma.",
+                  "text": "A halifaxi Pier 21-ben található Kanadai Bevándorlási Múzeum bemutatja több mint egymillió bevándorló érkezését.",
                   "category": "museum",
                   "coords": [
                         -63.566054,
@@ -3963,7 +3963,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Public Archives of Nova Scotia",
-                  "text": "A Public Archives of Nova Scotia Halifaxban Nova Scotia tartományi levéltára.",
+                  "text": "A halifaxi Nova Scotia Archívum a tartomány történelmi dokumentumait és fényképeit őrzi.",
                   "category": "museum",
                   "coords": [
                         -63.585938,
@@ -3972,7 +3972,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Centre",
-                  "text": "A Discovery Centre egy tudományos múzeum Halifaxban.",
+                  "text": "A halifaxi Discovery Centre interaktív tudományos múzeum kézzelfogható kiállításokkal.",
                   "category": "landmark",
                   "coords": [
                         -63.567826,
@@ -3981,7 +3981,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince of Wales Tower",
-                  "text": "A Prince of Wales Tower egy történelmi Martello-torony Halifaxban.",
+                  "text": "A halifaxi Prince of Wales Tower egy 18. századi kerek kőerődítmény.",
                   "category": "landmark",
                   "coords": [
                         -63.569684,
@@ -3990,7 +3990,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Victoria Park",
-                  "text": "A Victoria Park egy közpark Halifaxban.",
+                  "text": "A halifaxi Victoria Park a Citadel Hill lejtőjén fekszik, zöldterületekkel és játszóterekkel.",
                   "category": "landmark",
                   "coords": [
                         -63.579533,
@@ -3999,7 +3999,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Point Pleasant Park",
-                  "text": "A Point Pleasant Park egy nagy park a Halifax-félsziget déli csücskén.",
+                  "text": "A halifaxi Point Pleasant Park egy erdős part menti park, sétautakkal és régi erődítményekkel.",
                   "category": "park",
                   "coords": [
                         -63.568413,
@@ -4008,7 +4008,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gorsebrook Park",
-                  "text": "A Gorsebrook Park egy park Halifaxban.",
+                  "text": "A halifaxi Gorsebrook Park egy kis városi park a Gorsebrook Avenue-n.",
                   "category": "park",
                   "coords": [
                         -63.582071,
@@ -4017,7 +4017,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Point Pleasant Battery",
-                  "text": "A Point Pleasant Battery egy történelmi ütegrom Halifaxban.",
+                  "text": "19. századi tengerparti tüzérségi üteg a Point Pleasant Parkban.",
                   "category": "historical",
                   "coords": [
                         -63.563598,
@@ -4026,7 +4026,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McNab",
-                  "text": "Fort McNab egy erőd Halifaxban.",
+                  "text": "19. századi erőd McNab-szigeten, amely Halifax kikötőjét védte.",
                   "category": "fortress",
                   "coords": [
                         -63.515322,
@@ -4035,7 +4035,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rebecca Cohn Auditorium",
-                  "text": "A Rebecca Cohn Auditorium egy művészeti központ Halifaxban.",
+                  "text": "Koncertterem a Dalhousie Egyetem campusán.",
                   "category": "cultural",
                   "coords": [
                         -63.588808,
@@ -4044,7 +4044,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "All Saints Cathedral",
-                  "text": "Az All Saints Cathedral egy istentiszteleti hely Halifaxban.",
+                  "text": "Halifax anglikán katedrálisa, neogótikus építészetéről ismert.",
                   "category": "religious",
                   "coords": [
                         -63.580526,
@@ -4053,7 +4053,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Massey United Church",
-                  "text": "A Fort Massey United Church egy istentiszteleti hely Halifaxban.",
+                  "text": "Egy United Church of Canada gyülekezet Halifax központjában.",
                   "category": "religious",
                   "coords": [
                         -63.57324,
@@ -4062,7 +4062,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's United Church",
-                  "text": "A St. Andrew's United Church egy istentiszteleti hely Halifaxban.",
+                  "text": "Történelmi United Church a Halifax-i vízpart közelében.",
                   "category": "religious",
                   "coords": [
                         -63.587294,
@@ -4071,7 +4071,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maugers Beach Lighthouse",
-                  "text": "A Maugers Beach Lighthouse egy világítótorony Halifaxban.",
+                  "text": "Történelmi világítótorony a Maugers Beachen, amely hajókat vezet a kikötőbe.",
                   "category": "landmark",
                   "coords": [
                         -63.533602,
@@ -4080,7 +4080,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Halifax Seaport Farmers’ Market",
-                  "text": "A Halifax Seaport Farmers' Market egy piac Halifaxban.",
+                  "text": "Nagy termelői piac a Halifax Seaportnál, Kanada egyik legrégebbije.",
                   "category": "landmark",
                   "coords": [
                         -63.565639,
@@ -4089,7 +4089,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Eisner Cove",
-                  "text": "Az Eisner Cove egy öböl Halifaxban.",
+                  "text": "Egy kis öböl a Halifax-félsziget partvonala mentén.",
                   "category": "landmark",
                   "coords": [
                         -63.52412,
@@ -4098,7 +4098,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Melville Cove",
-                  "text": "A Melville Cove egy öböl Halifaxban.",
+                  "text": "Egy öböl Halifax térségében, gyakran használják csónakázásra.",
                   "category": "landmark",
                   "coords": [
                         -63.615742,
@@ -4107,7 +4107,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Northwest Arm",
-                  "text": "A Northwest Arm egy öböl Halifaxban.",
+                  "text": "Hosszú, keskeny tengerág, amely Halifax kikötőjétől nyúlik be a szárazföldbe.",
                   "category": "landmark",
                   "coords": [
                         -63.593374,
@@ -4116,7 +4116,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sir Sandford Fleming Park",
-                  "text": "A Sir Sandford Fleming Park egy park Halifaxban.",
+                  "text": "A halifaxi Sir Sandford Fleming Parkot 2007. november 6-án nyitották meg, és tóhoz való hozzáférést biztosít.",
                   "category": "park",
                   "coords": [
                         -63.602685,
@@ -4125,7 +4125,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deadmans Island Park",
-                  "text": "A Deadmans Island Park egy park Halifaxban.",
+                  "text": "A halifaxi Deadmans Island Parkot 2009. március 31-én nyitották meg, és a parton fekszik.",
                   "category": "park",
                   "coords": [
                         -63.610083,
@@ -4134,7 +4134,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Conrose Park",
-                  "text": "A Conrose Park egy park Halifaxban.",
+                  "text": "Egy negyedpark a halifaxi Conrose negyedben.",
                   "category": "park",
                   "coords": [
                         -63.601099,
@@ -4143,7 +4143,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Hugonin-Perrin Estate and Gardens",
-                  "text": "A volt Hugonin-Perrin birtok és kertek helyszíne romokban áll Halifaxban.",
+                  "text": "A korábbi Hugonin-Perrin birtok és kert területe Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.527355,
@@ -4152,7 +4152,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former Findlay's Picnic Grounds",
-                  "text": "A volt Findlay's Picnic Grounds romokban áll Halifaxban.",
+                  "text": "Történelmi piknikezőhelyek, korábban Findlay's néven ismert, Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.532569,
@@ -4161,7 +4161,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former Hugonin Wharf",
-                  "text": "A volt Hugonin Wharf romokban áll Halifaxban.",
+                  "text": "Egy korábbi rakpart Halifaxben, Hugonin Wharf néven ismert.",
                   "category": "historical",
                   "coords": [
                         -63.531265,
@@ -4170,7 +4170,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Burial site for cholera victims from the SS England, 1866",
-                  "text": "Az SS England 1866-os kolerajárvány áldozatainak temetkezési helye emlékmű Halifaxban.",
+                  "text": "Temetkezési hely a SS England kolerás áldozatainak (1866).",
                   "category": "historical",
                   "coords": [
                         -63.535122,
@@ -4179,7 +4179,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Detention Barracks",
-                  "text": "A volt Detention Barracks helyszíne romokban áll Halifaxban.",
+                  "text": "A korábbi fogdák helyszíne Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.525341,
@@ -4188,7 +4188,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McLean Farm",
-                  "text": "A McLean Farm romokban áll Halifaxban.",
+                  "text": "Történelmi McLean-tanya Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.516006,
@@ -4197,7 +4197,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former McNab Family Homestead",
-                  "text": "A volt McNab családi birtok helyszíne romokban áll Halifaxban.",
+                  "text": "A McNab család egykori tanyája Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.519447,
@@ -4206,7 +4206,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Rifle Range Pier",
-                  "text": "A volt Rifle Range Pier helyszíne romokban áll Halifaxban.",
+                  "text": "A lőtér egykori mólója Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.51053,
@@ -4215,7 +4215,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Concrete Gun Platform",
-                  "text": "A beton ágyúállvány romokban áll Halifaxban.",
+                  "text": "Betonágyúállás Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.508654,
@@ -4224,7 +4224,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Concrete Rangefinder Platforms",
-                  "text": "A beton távmérő platformok romokban állnak Halifaxban.",
+                  "text": "Beton távolságmérő platformok Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.511473,
@@ -4233,7 +4233,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Searchlight Emplacement",
-                  "text": "A reflektorállás romokban áll Halifaxban.",
+                  "text": "Reflektorállás Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.511795,
@@ -4242,7 +4242,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rifle Range",
-                  "text": "A lőtér romokban áll Halifaxban.",
+                  "text": "Történelmi lőtér Halifaxben.",
                   "category": "historical",
                   "coords": [
                         -63.507098,
@@ -4251,7 +4251,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rifle Range Target Butts",
-                  "text": "A lőtér céltábla dombjai romokban állnak Halifaxban.",
+                  "text": "Történelmi lőtéri célpontok Halifaxban, egy lövészklub maradványai.",
                   "category": "historical",
                   "coords": [
                         -63.504888,
@@ -4260,7 +4260,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former McNabs Island Lighthouse (1903-1976)",
-                  "text": "A volt McNabs Island világítótorony (1903-1976) romokban áll Halifaxban.",
+                  "text": "Volt világítótorony a McNabs-szigeten, 1903 és 1976 között működött.",
                   "category": "historical",
                   "coords": [
                         -63.535521,
@@ -4269,7 +4269,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Woolnough's Pleasure Grounds",
-                  "text": "A Woolnough's Pleasure Grounds romokban állnak Halifaxban.",
+                  "text": "Woolnough's Pleasure Grounds, történelmi szórakoztató park Halifaxban.",
                   "category": "historical",
                   "coords": [
                         -63.536969,
@@ -4280,7 +4280,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Shearwater Aviation Museum",
-                  "text": "Shearwater Aviation Museum este un muzeu la CFB Shearwater în Halifax, care prezintă istoria aviației navale.",
+                  "text": "Muzeul Aviației Shearwater din Halifax expune aeronave militare și istoria aviației navale.",
                   "category": "museum",
                   "coords": [
                         -63.514679,
@@ -4289,7 +4289,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Museum of Immigration at Pier 21",
-                  "text": "Canadian Museum of Immigration at Pier 21 din Halifax este muzeul național al imigrației al Canadei.",
+                  "text": "Muzeul canadian al imigrației de la Pier 21 din Halifax prezintă sosirea a peste un milion de imigranți.",
                   "category": "museum",
                   "coords": [
                         -63.566054,
@@ -4298,7 +4298,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Public Archives of Nova Scotia",
-                  "text": "Public Archives of Nova Scotia din Halifax este arhiva provincială a Noii Scoții.",
+                  "text": "Arhivele Noii Scoții din Halifax păstrează documente și fotografii istorice ale provinciei.",
                   "category": "museum",
                   "coords": [
                         -63.585938,
@@ -4307,7 +4307,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Centre",
-                  "text": "Discovery Centre este un muzeu științific în Halifax.",
+                  "text": "Discovery Centre din Halifax este un muzeu interactiv de știință cu exponate practice.",
                   "category": "landmark",
                   "coords": [
                         -63.567826,
@@ -4316,7 +4316,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince of Wales Tower",
-                  "text": "Prince of Wales Tower este un turn Martello istoric în Halifax.",
+                  "text": "Turnul Prințului de Wales din Halifax este o fortificație rotundă de piatră din secolul al XVIII-lea.",
                   "category": "landmark",
                   "coords": [
                         -63.569684,
@@ -4325,7 +4325,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Victoria Park",
-                  "text": "Victoria Park este un parc public în Halifax.",
+                  "text": "Parcul Victoria din Halifax se află pe panta dealului Citadel Hill, oferind spații verzi și locuri de joacă.",
                   "category": "landmark",
                   "coords": [
                         -63.579533,
@@ -4334,7 +4334,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Point Pleasant Park",
-                  "text": "Point Pleasant Park este un parc mare la capătul sudic al peninsulei Halifax.",
+                  "text": "Point Pleasant Park din Halifax este un parc împădurit pe coastă, cu trasee de drumeție și fortificații vechi.",
                   "category": "park",
                   "coords": [
                         -63.568413,
@@ -4343,7 +4343,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gorsebrook Park",
-                  "text": "Gorsebrook Park este un parc în Halifax.",
+                  "text": "Parcul Gorsebrook din Halifax este un mic parc urban pe strada Gorsebrook Avenue.",
                   "category": "park",
                   "coords": [
                         -63.582071,
@@ -4352,7 +4352,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Point Pleasant Battery",
-                  "text": "Point Pleasant Battery este o ruină de baterie istorică în Halifax.",
+                  "text": "O baterie de artilerie de coastă din secolul al XIX-lea în Parcul Point Pleasant.",
                   "category": "historical",
                   "coords": [
                         -63.563598,
@@ -4361,7 +4361,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McNab",
-                  "text": "Fort McNab este un fort în Halifax.",
+                  "text": "Un fort din secolul al XIX-lea pe Insula McNab, care proteja portul Halifax.",
                   "category": "fortress",
                   "coords": [
                         -63.515322,
@@ -4370,7 +4370,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rebecca Cohn Auditorium",
-                  "text": "Rebecca Cohn Auditorium este un centru de artă în Halifax.",
+                  "text": "O sală de concerte pe campusul Universității Dalhousie.",
                   "category": "cultural",
                   "coords": [
                         -63.588808,
@@ -4379,7 +4379,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "All Saints Cathedral",
-                  "text": "All Saints Cathedral este un lăcaș de cult în Halifax.",
+                  "text": "Catedrala anglicană din Halifax, cunoscută pentru arhitectura sa neogotică.",
                   "category": "religious",
                   "coords": [
                         -63.580526,
@@ -4388,7 +4388,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Massey United Church",
-                  "text": "Fort Massey United Church este un lăcaș de cult în Halifax.",
+                  "text": "O congregație a Bisericii Unite a Canadei în centrul Halifaxului.",
                   "category": "religious",
                   "coords": [
                         -63.57324,
@@ -4397,7 +4397,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's United Church",
-                  "text": "St. Andrew's United Church este un lăcaș de cult în Halifax.",
+                  "text": "O biserică unită istorică lângă malul apei din Halifax.",
                   "category": "religious",
                   "coords": [
                         -63.587294,
@@ -4406,7 +4406,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maugers Beach Lighthouse",
-                  "text": "Maugers Beach Lighthouse este un far în Halifax.",
+                  "text": "Un far istoric pe plaja Maugers, ghidând navele în port.",
                   "category": "landmark",
                   "coords": [
                         -63.533602,
@@ -4415,7 +4415,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Halifax Seaport Farmers’ Market",
-                  "text": "Halifax Seaport Farmers' Market este o piață în Halifax.",
+                  "text": "O piață mare de produse agricole la Halifax Seaport, una dintre cele mai vechi din Canada.",
                   "category": "landmark",
                   "coords": [
                         -63.565639,
@@ -4424,7 +4424,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Eisner Cove",
-                  "text": "Eisner Cove este un golf în Halifax.",
+                  "text": "Un mic golf de-a lungul coastei peninsulei Halifax.",
                   "category": "landmark",
                   "coords": [
                         -63.52412,
@@ -4433,7 +4433,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Melville Cove",
-                  "text": "Melville Cove este un golf în Halifax.",
+                  "text": "Un golf în zona Halifax, adesea folosit pentru plimbări cu barca.",
                   "category": "landmark",
                   "coords": [
                         -63.615742,
@@ -4442,7 +4442,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Northwest Arm",
-                  "text": "Northwest Arm este un golf în Halifax.",
+                  "text": "Un braț lung și îngust al mării care se extinde în interior de la portul Halifax.",
                   "category": "landmark",
                   "coords": [
                         -63.593374,
@@ -4451,7 +4451,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sir Sandford Fleming Park",
-                  "text": "Parcul Sir Sandford Fleming este un parc în Halifax.",
+                  "text": "Parcul Sir Sandford Fleming din Halifax a fost deschis pe 6 noiembrie 2007 și oferă acces la lac.",
                   "category": "park",
                   "coords": [
                         -63.602685,
@@ -4460,7 +4460,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deadmans Island Park",
-                  "text": "Parcul Deadmans Island este un parc în Halifax.",
+                  "text": "Parcul Insula Deadmans din Halifax a fost deschis pe 31 martie 2009 și se află pe coastă.",
                   "category": "park",
                   "coords": [
                         -63.610083,
@@ -4469,7 +4469,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Conrose Park",
-                  "text": "Parcul Conrose este un parc în Halifax.",
+                  "text": "Un parc de cartier în zona Conrose din Halifax.",
                   "category": "park",
                   "coords": [
                         -63.601099,
@@ -4478,7 +4478,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Hugonin-Perrin Estate and Gardens",
-                  "text": "Fostul sit al proprietății și grădinilor Hugonin-Perrin este o ruină în Halifax.",
+                  "text": "Fosta proprietate Hugonin-Perrin și grădini în Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.527355,
@@ -4487,7 +4487,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former Findlay's Picnic Grounds",
-                  "text": "Fostul loc de picnic Findlay este o ruină în Halifax.",
+                  "text": "Locuri de picnic istorice, cunoscute anterior ca Findlay's, în Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.532569,
@@ -4496,7 +4496,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former Hugonin Wharf",
-                  "text": "Fostul debarcader Hugonin este o ruină în Halifax.",
+                  "text": "Un fost chei în Halifax, cunoscut sub numele de Hugonin Wharf.",
                   "category": "historical",
                   "coords": [
                         -63.531265,
@@ -4505,7 +4505,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Burial site for cholera victims from the SS England, 1866",
-                  "text": "Locul de înmormântare al victimelor holerei de pe SS England, 1866, este un monument în Halifax.",
+                  "text": "Loc de înmormântare pentru victimele holerei de pe SS England (1866).",
                   "category": "historical",
                   "coords": [
                         -63.535122,
@@ -4514,7 +4514,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Detention Barracks",
-                  "text": "Fostul loc al barăcilor de detenție este o ruină în Halifax.",
+                  "text": "Fostul amplasament al cazărmilor de detenție din Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.525341,
@@ -4523,7 +4523,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McLean Farm",
-                  "text": "Ferma McLean este o ruină în Halifax.",
+                  "text": "Ferma istorică McLean în Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.516006,
@@ -4532,7 +4532,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former McNab Family Homestead",
-                  "text": "Fostul loc al casei familiei McNab este o ruină în Halifax.",
+                  "text": "Fosta gospodărie a familiei McNab în Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.519447,
@@ -4541,7 +4541,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Rifle Range Pier",
-                  "text": "Fostul loc al debarcaderului poligonului de tir este o ruină în Halifax.",
+                  "text": "Fostul debarcader al poligonului de tir din Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.51053,
@@ -4550,7 +4550,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Concrete Gun Platform",
-                  "text": "Platforma de tun din beton este o ruină în Halifax.",
+                  "text": "O platformă de tun din beton în Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.508654,
@@ -4559,7 +4559,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Concrete Rangefinder Platforms",
-                  "text": "Platformele de telemetru din beton sunt o ruină în Halifax.",
+                  "text": "Platforme de beton pentru telemetre în Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.511473,
@@ -4568,7 +4568,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Searchlight Emplacement",
-                  "text": "Amplasamentul de căutare cu reflector este o ruină în Halifax.",
+                  "text": "O amplasare de proiector în Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.511795,
@@ -4577,7 +4577,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rifle Range",
-                  "text": "Poligonul de tir este o ruină în Halifax.",
+                  "text": "Un poligon de tir istoric în Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.507098,
@@ -4586,7 +4586,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rifle Range Target Butts",
-                  "text": "Bermele țintă ale poligonului de tir sunt o ruină în Halifax.",
+                  "text": "Ținte de tir istorice în Halifax, rămășițe ale unui poligon de tragere.",
                   "category": "historical",
                   "coords": [
                         -63.504888,
@@ -4595,7 +4595,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former McNabs Island Lighthouse (1903-1976)",
-                  "text": "Fostul far al insulei McNabs (1903-1976) este o ruină în Halifax.",
+                  "text": "Fostul far de pe insula McNabs, activ între 1903 și 1976.",
                   "category": "historical",
                   "coords": [
                         -63.535521,
@@ -4604,7 +4604,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Woolnough's Pleasure Grounds",
-                  "text": "Grădinile de agrement Woolnough sunt o ruină în Halifax.",
+                  "text": "Woolnough's Pleasure Grounds, un parc de distracții istoric în Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.536969,
@@ -4615,7 +4615,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Shearwater Aviation Museum",
-                  "text": "Shearwater Aviation Museum is a museum at CFB Shearwater in Halifax, showcasing naval aviation history.",
+                  "text": "Located at CFB Shearwater, this museum displays military aircraft and artifacts from Canadian naval aviation.",
                   "category": "museum",
                   "coords": [
                         -63.514679,
@@ -4624,7 +4624,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Museum of Immigration at Pier 21",
-                  "text": "The Canadian Museum of Immigration at Pier 21 in Halifax is Canada's national museum of immigration.",
+                  "text": "Canada's national immigration museum at Pier 21 tells the story of over one million immigrants who landed here.",
                   "category": "museum",
                   "coords": [
                         -63.566054,
@@ -4633,7 +4633,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Public Archives of Nova Scotia",
-                  "text": "The Public Archives of Nova Scotia in Halifax is the provincial archives of Nova Scotia.",
+                  "text": "The Public Archives of Nova Scotia house the province's historical records, including maps, photographs, and government documents.",
                   "category": "museum",
                   "coords": [
                         -63.585938,
@@ -4642,7 +4642,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Centre",
-                  "text": "Discovery Centre is a science museum in Halifax.",
+                  "text": "Halifax's Discovery Centre offers hands-on science exhibits for all ages, including a replica of a storm-warning tower.",
                   "category": "landmark",
                   "coords": [
                         -63.567826,
@@ -4651,7 +4651,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince of Wales Tower",
-                  "text": "Prince of Wales Tower is a historic Martello tower in Halifax.",
+                  "text": "This round stone tower in Halifax's Point Pleasant Park was built in 1796 as a defensive fortification.",
                   "category": "landmark",
                   "coords": [
                         -63.569684,
@@ -4660,7 +4660,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Victoria Park",
-                  "text": "Victoria Park is a public park in Halifax.",
+                  "text": "Victoria Park in central Halifax features wooded slopes, walking paths, and a bandstand with views of the harbour.",
                   "category": "landmark",
                   "coords": [
                         -63.579533,
@@ -4669,7 +4669,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Point Pleasant Park",
-                  "text": "Point Pleasant Park is a large park at the southern tip of the Halifax peninsula.",
+                  "text": "Point Pleasant Park is a 75-hectare forested park on Halifax's southern peninsula, with trails and historic forts.",
                   "category": "park",
                   "coords": [
                         -63.568413,
@@ -4678,7 +4678,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gorsebrook Park",
-                  "text": "Gorsebrook Park is a park in Halifax.",
+                  "text": "Gorsebrook Park is a neighbourhood green space in Halifax, popular for its sports fields and playground.",
                   "category": "park",
                   "coords": [
                         -63.582071,
@@ -4687,7 +4687,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Point Pleasant Battery",
-                  "text": "Point Pleasant Battery is a historic battery ruin in Halifax.",
+                  "text": "A 19th-century coastal artillery battery in Point Pleasant Park.",
                   "category": "historical",
                   "coords": [
                         -63.563598,
@@ -4696,7 +4696,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort McNab",
-                  "text": "Fort McNab is a fort in Halifax.",
+                  "text": "A 19th-century fort on McNab Island protecting Halifax Harbour.",
                   "category": "fortress",
                   "coords": [
                         -63.515322,
@@ -4705,7 +4705,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rebecca Cohn Auditorium",
-                  "text": "Rebecca Cohn Auditorium is an arts centre in Halifax.",
+                  "text": "A concert hall on the Dalhousie University campus.",
                   "category": "cultural",
                   "coords": [
                         -63.588808,
@@ -4714,7 +4714,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "All Saints Cathedral",
-                  "text": "All Saints Cathedral is a place of worship in Halifax.",
+                  "text": "The Anglican cathedral of Halifax, notable for its Gothic Revival architecture.",
                   "category": "religious",
                   "coords": [
                         -63.580526,
@@ -4723,7 +4723,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Massey United Church",
-                  "text": "Fort Massey United Church is a place of worship in Halifax.",
+                  "text": "A United Church of Canada congregation in central Halifax.",
                   "category": "religious",
                   "coords": [
                         -63.57324,
@@ -4732,7 +4732,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's United Church",
-                  "text": "St. Andrew's United Church is a place of worship in Halifax.",
+                  "text": "A historic United Church near the Halifax waterfront.",
                   "category": "religious",
                   "coords": [
                         -63.587294,
@@ -4741,7 +4741,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maugers Beach Lighthouse",
-                  "text": "Maugers Beach Lighthouse is a lighthouse in Halifax.",
+                  "text": "A historic lighthouse on Maugers Beach, guiding ships into the harbour.",
                   "category": "landmark",
                   "coords": [
                         -63.533602,
@@ -4750,7 +4750,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Halifax Seaport Farmers’ Market",
-                  "text": "Halifax Seaport Farmers' Market is a marketplace in Halifax.",
+                  "text": "A large farmers' market at the Halifax Seaport, one of Canada's oldest.",
                   "category": "landmark",
                   "coords": [
                         -63.565639,
@@ -4759,7 +4759,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Eisner Cove",
-                  "text": "Eisner Cove is a bay in Halifax.",
+                  "text": "A small cove along the Halifax peninsula coastline.",
                   "category": "landmark",
                   "coords": [
                         -63.52412,
@@ -4768,7 +4768,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Melville Cove",
-                  "text": "Melville Cove is a bay in Halifax.",
+                  "text": "A cove in the Halifax area, often used for boating.",
                   "category": "landmark",
                   "coords": [
                         -63.615742,
@@ -4777,7 +4777,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Northwest Arm",
-                  "text": "Northwest Arm is a bay in Halifax.",
+                  "text": "A long narrow inlet extending inland from Halifax Harbour.",
                   "category": "landmark",
                   "coords": [
                         -63.593374,
@@ -4786,7 +4786,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sir Sandford Fleming Park",
-                  "text": "Sir Sandford Fleming Park is a park in Halifax.",
+                  "text": "Opened on November 6, 2007, Sir Sandford Fleming Park in Halifax features walking trails and lake access.",
                   "category": "park",
                   "coords": [
                         -63.602685,
@@ -4795,7 +4795,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deadmans Island Park",
-                  "text": "Deadmans Island Park is a park in Halifax.",
+                  "text": "Deadmans Island Park, opened on March 31, 2009, is a coastal park in Halifax with views of the harbour.",
                   "category": "park",
                   "coords": [
                         -63.610083,
@@ -4804,7 +4804,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Conrose Park",
-                  "text": "Conrose Park is a park in Halifax.",
+                  "text": "A neighbourhood park in the Conrose area of Halifax.",
                   "category": "park",
                   "coords": [
                         -63.601099,
@@ -4813,7 +4813,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Hugonin-Perrin Estate and Gardens",
-                  "text": "The site of the former Hugonin-Perrin Estate and Gardens is a ruin in Halifax.",
+                  "text": "The former Hugonin-Perrin estate and gardens site in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.527355,
@@ -4822,7 +4822,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former Findlay's Picnic Grounds",
-                  "text": "The former Findlay's Picnic Grounds are a ruin in Halifax.",
+                  "text": "Historic picnic grounds formerly known as Findlay's in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.532569,
@@ -4831,7 +4831,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former Hugonin Wharf",
-                  "text": "The former Hugonin Wharf is a ruin in Halifax.",
+                  "text": "A former wharf in Halifax known as Hugonin Wharf.",
                   "category": "historical",
                   "coords": [
                         -63.531265,
@@ -4840,7 +4840,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Burial site for cholera victims from the SS England, 1866",
-                  "text": "The burial site for cholera victims from the SS England, 1866, is a monument in Halifax.",
+                  "text": "Burial site for cholera victims from the SS England (1866).",
                   "category": "historical",
                   "coords": [
                         -63.535122,
@@ -4849,7 +4849,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Detention Barracks",
-                  "text": "The site of the former Detention Barracks is a ruin in Halifax.",
+                  "text": "Site of former detention barracks in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.525341,
@@ -4858,7 +4858,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McLean Farm",
-                  "text": "McLean Farm is a ruin in Halifax.",
+                  "text": "Historic McLean Farm site in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.516006,
@@ -4867,7 +4867,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former McNab Family Homestead",
-                  "text": "The site of the former McNab Family Homestead is a ruin in Halifax.",
+                  "text": "Former McNab family homestead site in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.519447,
@@ -4876,7 +4876,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Site of former Rifle Range Pier",
-                  "text": "The site of the former Rifle Range Pier is a ruin in Halifax.",
+                  "text": "Former rifle range pier site in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.51053,
@@ -4885,7 +4885,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Concrete Gun Platform",
-                  "text": "The concrete gun platform is a ruin in Halifax.",
+                  "text": "A concrete gun platform in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.508654,
@@ -4894,7 +4894,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Concrete Rangefinder Platforms",
-                  "text": "The concrete rangefinder platforms are a ruin in Halifax.",
+                  "text": "Concrete rangefinder platforms in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.511473,
@@ -4903,7 +4903,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Searchlight Emplacement",
-                  "text": "The searchlight emplacement is a ruin in Halifax.",
+                  "text": "A searchlight emplacement in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.511795,
@@ -4912,7 +4912,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rifle Range",
-                  "text": "The rifle range is a ruin in Halifax.",
+                  "text": "A historic rifle range in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.507098,
@@ -4921,7 +4921,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rifle Range Target Butts",
-                  "text": "The rifle range target butts are a ruin in Halifax.",
+                  "text": "Historical target butts of a rifle range in Halifax, remnants of a shooting club.",
                   "category": "historical",
                   "coords": [
                         -63.504888,
@@ -4930,7 +4930,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Former McNabs Island Lighthouse (1903-1976)",
-                  "text": "The former McNabs Island Lighthouse (1903-1976) is a ruin in Halifax.",
+                  "text": "Former lighthouse on McNabs Island, operated from 1903 to 1976.",
                   "category": "historical",
                   "coords": [
                         -63.535521,
@@ -4939,7 +4939,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Woolnough's Pleasure Grounds",
-                  "text": "Woolnough's Pleasure Grounds are a ruin in Halifax.",
+                  "text": "Woolnough's Pleasure Grounds, a historic pleasure park in Halifax.",
                   "category": "historical",
                   "coords": [
                         -63.536969,
@@ -4999,7 +4999,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Upper Fort Garry Gateway",
-                  "text": "Ein historisches Tor des Upper Fort Garry in Winnipeg.",
+                  "text": "Steintor der Upper Fort Garry in Winnipeg, Überrest der alten Festung.",
                   "category": "landmark",
                   "coords": [
                         -97.135343,
@@ -5008,7 +5008,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Winnipeg Railway Museum",
-                  "text": "Ein Eisenbahnmuseum im historischen Union Station in Winnipeg.",
+                  "text": "Das Winnipeg Railway Museum zeigt historische Lokomotiven und Waggons im Union Station.",
                   "category": "museum",
                   "coords": [
                         -97.134061,
@@ -5017,7 +5017,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Meeting Place",
-                  "text": "Eine Kultstätte im Fort-Garry-Gebiet von Winnipeg.",
+                  "text": "Ein christlicher Gemeinschaftstreffpunkt in Winnipeg.",
                   "category": "religious",
                   "coords": [
                         -97.139202,
@@ -5028,7 +5028,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Upper Fort Garry Gateway",
-                  "text": "Az Upper Fort Garry történelmi kapuja Winnipegben.",
+                  "text": "Az Upper Fort Garry kőkapuja Winnipegben, a régi erőd maradványa.",
                   "category": "landmark",
                   "coords": [
                         -97.135343,
@@ -5037,7 +5037,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Winnipeg Railway Museum",
-                  "text": "Vasútmúzeum Winnipeg történelmi Union Station pályaudvarán.",
+                  "text": "A Winnipeg Vasúti Múzeum történelmi mozdonyokat és vagonokat mutat be a Union Stationben.",
                   "category": "museum",
                   "coords": [
                         -97.134061,
@@ -5046,7 +5046,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Meeting Place",
-                  "text": "Egy istentiszteleti hely Winnipeg Fort Garry negyedében.",
+                  "text": "Keresztény közösségi találkozóhely Winnipegben.",
                   "category": "religious",
                   "coords": [
                         -97.139202,
@@ -5057,7 +5057,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Upper Fort Garry Gateway",
-                  "text": "O poartă istorică a Upper Fort Garry din Winnipeg.",
+                  "text": "Poarta de piatră a Upper Fort Garry din Winnipeg, rămășiță a vechii fortărețe.",
                   "category": "landmark",
                   "coords": [
                         -97.135343,
@@ -5066,7 +5066,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Winnipeg Railway Museum",
-                  "text": "Un muzeu feroviar situat în istorica Gara Union din Winnipeg.",
+                  "text": "Muzeul Feroviar din Winnipeg expune locomotive și vagoane istorice în Gara Union.",
                   "category": "museum",
                   "coords": [
                         -97.134061,
@@ -5075,7 +5075,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Meeting Place",
-                  "text": "Un loc de cult în zona Fort Garry din Winnipeg.",
+                  "text": "Un loc de întâlnire creștin comunitar în Winnipeg.",
                   "category": "religious",
                   "coords": [
                         -97.139202,
@@ -5086,7 +5086,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Upper Fort Garry Gateway",
-                  "text": "A historic gateway of Upper Fort Garry in Winnipeg.",
+                  "text": "Stone gateway of Upper Fort Garry in Winnipeg, remnant of the old fort.",
                   "category": "landmark",
                   "coords": [
                         -97.135343,
@@ -5095,7 +5095,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Winnipeg Railway Museum",
-                  "text": "A railway museum located in Winnipeg's historic Union Station.",
+                  "text": "Located inside Winnipeg's Union Station, this museum displays vintage locomotives, rail cars, and railway memorabilia.",
                   "category": "museum",
                   "coords": [
                         -97.134061,
@@ -5104,7 +5104,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Meeting Place",
-                  "text": "A place of worship in the Fort Garry area of Winnipeg.",
+                  "text": "A Christian community gathering space in Winnipeg.",
                   "category": "religious",
                   "coords": [
                         -97.139202,
@@ -5173,7 +5173,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Football Hall of Fame & Museum",
-                  "text": "Ein Museum in dundurn-castle-hamilton-history-v2, das dem Canadian Football gewidmet ist.",
+                  "text": "Die Canadian Football Hall of Fame in Hamilton ehrt Spieler, Trainer und Funktionäre des kanadischen Fußballs.",
                   "category": "museum",
                   "coords": [
                         -79.831171,
@@ -5182,7 +5182,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McMaster Museum of Art",
-                  "text": "Das McMaster Museum of Art in dundurn-castle-hamilton-history-v2 mit einer Sammlung moderner und zeitgenössischer Kunst.",
+                  "text": "Das McMaster Museum of Art in Hamilton beherbergt eine Sammlung von über 6.000 Werken, darunter kanadische und internationale Kunst.",
                   "category": "museum",
                   "coords": [
                         -79.918128,
@@ -5200,7 +5200,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ's Church Anglican Cathedral",
-                  "text": "Eine anglikanische Kathedrale in dundurn-castle-hamilton-history-v2, die Bischofskirche von Hamilton.",
+                  "text": "Die Christ's Church Anglican Cathedral in Hamilton ist eine neugotische Kathedrale aus dem 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -79.865707,
@@ -5218,7 +5218,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sherman Falls",
-                  "text": "Ein Wasserfall in dundurn-castle-hamilton-history-v2, bekannt als Sherman Falls.",
+                  "text": "Sherman Falls in Hamilton ist ein 15 Meter hoher Wasserfall am Niagara Escarpment.",
                   "category": "landmark",
                   "coords": [
                         -79.972868,
@@ -5227,7 +5227,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tiffany Falls",
-                  "text": "Ein Wasserfall in dundurn-castle-hamilton-history-v2, bekannt als Tiffany Falls.",
+                  "text": "Tiffany Falls in Hamilton ist ein 21 Meter hoher Kaskadenwasserfall im Schutzgebiet.",
                   "category": "landmark",
                   "coords": [
                         -79.958207,
@@ -5236,7 +5236,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Shaver Falls / Filman Falls",
-                  "text": "Ein Wasserfall in dundurn-castle-hamilton-history-v2, auch Shaver Falls oder Filman Falls genannt.",
+                  "text": "Shaver Falls (auch Filman Falls) in Hamilton ist ein 12 Meter hoher Wasserfall am Bachlauf.",
                   "category": "landmark",
                   "coords": [
                         -79.951482,
@@ -5281,7 +5281,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Green Venture EcoHouse",
-                  "text": "Ein Museum in dundurn-castle-hamilton-history-v2, das sich auf nachhaltiges Wohnen konzentriert.",
+                  "text": "Ein Demonstrationshaus für nachhaltiges Wohnen in Hamilton.",
                   "category": "museum",
                   "coords": [
                         -79.785648,
@@ -5299,7 +5299,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Thomas Catholic Church",
-                  "text": "Eine katholische Kirche in dundurn-castle-hamilton-history-v2, gewidmet dem heiligen Thomas.",
+                  "text": "Eine römisch-katholische Kirche der Pfarrei St. Thomas in Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.91615,
@@ -5308,7 +5308,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Martyrs Roman Catholic Church",
-                  "text": "Eine katholische Kirche in dundurn-castle-hamilton-history-v2, gewidmet den kanadischen Märtyrern.",
+                  "text": "Eine katholische Kirche in Hamilton, benannt nach den kanadischen Märtyrern.",
                   "category": "religious",
                   "coords": [
                         -79.92008,
@@ -5317,7 +5317,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Church",
-                  "text": "Eine Kirche in dundurn-castle-hamilton-history-v2, gewidmet dem heiligen Augustinus.",
+                  "text": "Eine historische Kirche in Hamilton, die dem heiligen Augustinus geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -79.956972,
@@ -5326,7 +5326,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Barton Stone United Church",
-                  "text": "Eine Vereinigte Kirche in dundurn-castle-hamilton-history-v2, die Barton Stone United Church.",
+                  "text": "Eine United Church an der Kreuzung von Barton Street und Stone Street in Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.88966,
@@ -5335,7 +5335,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Siena Church",
-                  "text": "Eine katholische Kirche in dundurn-castle-hamilton-history-v2, gewidmet der heiligen Katharina von Siena.",
+                  "text": "Eine römisch-katholische Gemeinde in Hamilton unter dem Patronat der heiligen Katharina von Siena.",
                   "category": "religious",
                   "coords": [
                         -79.865883,
@@ -5344,7 +5344,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Annunciation of Our Lord Catholic Church",
-                  "text": "Eine katholische Kirche in dundurn-castle-hamilton-history-v2, gewidmet der Verkündigung des Herrn.",
+                  "text": "Eine katholische Kirche in Hamilton, die der Verkündigung des Herrn gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         -79.897886,
@@ -5353,7 +5353,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Regina Mundi Catholic Church",
-                  "text": "Eine katholische Kirche in dundurn-castle-hamilton-history-v2, die Regina Mundi (Königin der Welt) genannt wird.",
+                  "text": "Eine katholische Kirche in Hamilton mit dem Namen Regina Mundi (Königin der Welt).",
                   "category": "religious",
                   "coords": [
                         -79.912481,
@@ -5371,7 +5371,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hamilton Christian Fellowship",
-                  "text": "Die Hamilton Christian Fellowship ist ein Gotteshaus im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine evangelikale christliche Gemeinschaft in Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.883807,
@@ -5380,7 +5380,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Stephen of Hungary Catholic Church",
-                  "text": "Die St. Stephen of Hungary Catholic Church ist eine katholische Kirche im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine ungarische katholische Kirche in Hamilton, die der ungarischen Gemeinschaft dient.",
                   "category": "religious",
                   "coords": [
                         -79.860179,
@@ -5398,7 +5398,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sts. Cyril and Methodius Slovak Catholic Church",
-                  "text": "Die Sts. Cyril and Methodius Slovak Catholic Church ist eine slowakisch-katholische Kirche im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine slowakische katholische Kirche in Hamilton, den Slawenaposteln Kyrill und Method geweiht.",
                   "category": "religious",
                   "coords": [
                         -79.869053,
@@ -5407,7 +5407,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady of All Souls Catholic Church",
-                  "text": "Die Our Lady of All Souls Catholic Church ist eine katholische Kirche im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine katholische Kirche in Hamilton, die Unserer Lieben Frau von allen Seelen geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -79.866552,
@@ -5416,7 +5416,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Anthony of Padua Catholic Church",
-                  "text": "Die St. Anthony of Padua Catholic Church ist eine katholische Kirche im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine franziskanisch inspirierte katholische Gemeinde in Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.829159,
@@ -5425,7 +5425,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Giáo Xứ Đức Mẹ Việt Nam",
-                  "text": "Die Our Lady of Vietnam Catholic Church ist eine katholische Kirche im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine vietnamesische katholische Kirche in Hamilton, die der vietnamesischen Gemeinschaft dient.",
                   "category": "religious",
                   "coords": [
                         -79.808291,
@@ -5434,7 +5434,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Catholic Church",
-                  "text": "Die St. John's Catholic Church ist eine katholische Kirche im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine katholische Kirche in Hamilton, die dem heiligen Johannes geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -79.819869,
@@ -5443,7 +5443,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Margaret Mary Church",
-                  "text": "Die St. Margaret Mary Church ist eine Kirche im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine katholische Kirche in Hamilton, die der heiligen Margareta Maria Alacoque geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -79.828271,
@@ -5452,7 +5452,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Naum of Ohrid Macedonian Orthodox Church",
-                  "text": "Die St. Naum of Ohrid Macedonian Orthodox Church ist eine mazedonisch-orthodoxe Kirche im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine mazedonisch-orthodoxe Kirche in Hamilton, die dem heiligen Naum von Ohrid geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -79.838209,
@@ -5461,7 +5461,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Luke's Catholic Church",
-                  "text": "Die St. Luke's Catholic Church ist eine katholische Kirche im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine katholische Kirche in Hamilton unter dem Patronat des heiligen Lukas.",
                   "category": "religious",
                   "coords": [
                         -79.794405,
@@ -5470,7 +5470,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McCassa Bay",
-                  "text": "Die McCassa Bay ist eine Bucht im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Eine Bucht am Ontariosee nahe Hamilton.",
                   "category": "landmark",
                   "coords": [
                         -79.863134,
@@ -5479,7 +5479,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gage Memorial Fountain",
-                  "text": "Der Gage Memorial Fountain ist ein Brunnen im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Ein Gedenkbrunnen im Gage Park in Castle Hamilton.",
                   "category": "landmark",
                   "coords": [
                         -79.828335,
@@ -5497,7 +5497,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gage Park",
-                  "text": "Der Gage Park ist ein Park im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Ein großer öffentlicher Park in Castle Hamilton, der den Gage Memorial Fountain beherbergt.",
                   "category": "park",
                   "coords": [
                         -79.828558,
@@ -5506,7 +5506,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mohawk Sports Park",
-                  "text": "Der Mohawk Sports Park ist ein Park im Dundurn Castle Hamilton Gebiet.",
+                  "text": "Ein Sportpark in Castle Hamilton mit Sportplätzen und Spielplätzen.",
                   "category": "park",
                   "coords": [
                         -79.821642,
@@ -5526,7 +5526,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Football Hall of Fame & Museum",
-                  "text": "Múzeum dundurn-castle-hamilton-history-v2-ben, amely a kanadai futballnak szentelt.",
+                  "text": "A Hamiltonban található Kanadai Futball Hírességek Csarnoka a kanadai futball játékosait, edzőit és tisztviselőit tiszteli.",
                   "category": "museum",
                   "coords": [
                         -79.831171,
@@ -5535,7 +5535,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McMaster Museum of Art",
-                  "text": "A McMaster Művészeti Múzeum dundurn-castle-hamilton-history-v2-ben, modern és kortárs művészeti gyűjteménnyel.",
+                  "text": "A Hamiltoni McMaster Művészeti Múzeum több mint 6000 alkotást tartalmaz, köztük kanadai és nemzetközi művészetet.",
                   "category": "museum",
                   "coords": [
                         -79.918128,
@@ -5553,7 +5553,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ's Church Anglican Cathedral",
-                  "text": "Anglikán székesegyház dundurn-castle-hamilton-history-v2-ben, Hamilton püspöki temploma.",
+                  "text": "A Hamiltoni Krisztus-templom Anglikán Székesegyház egy 19. századi neogótikus katedrális.",
                   "category": "religious",
                   "coords": [
                         -79.865707,
@@ -5571,7 +5571,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sherman Falls",
-                  "text": "Vízesés dundurn-castle-hamilton-history-v2-ben, Sherman Falls néven ismert.",
+                  "text": "A Hamiltoni Sherman Falls egy 15 méter magas vízesés a Niagara-szirten.",
                   "category": "landmark",
                   "coords": [
                         -79.972868,
@@ -5580,7 +5580,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tiffany Falls",
-                  "text": "Vízesés dundurn-castle-hamilton-history-v2-ben, Tiffany Falls néven ismert.",
+                  "text": "A Hamiltoni Tiffany Falls egy 21 méter magas kaszkád vízesés a védett területen.",
                   "category": "landmark",
                   "coords": [
                         -79.958207,
@@ -5589,7 +5589,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Shaver Falls / Filman Falls",
-                  "text": "Vízesés dundurn-castle-hamilton-history-v2-ben, más néven Shaver Falls vagy Filman Falls.",
+                  "text": "A Hamiltoni Shaver Falls (más néven Filman Falls) egy 12 méter magas vízesés a patak mentén.",
                   "category": "landmark",
                   "coords": [
                         -79.951482,
@@ -5634,7 +5634,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Green Venture EcoHouse",
-                  "text": "Múzeum dundurn-castle-hamilton-history-v2-ben, amely a fenntartható lakhatásra összpontosít.",
+                  "text": "Fenntartható életmódot bemutató ház Hamiltonban.",
                   "category": "museum",
                   "coords": [
                         -79.785648,
@@ -5652,7 +5652,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Thomas Catholic Church",
-                  "text": "Katolikus templom dundurn-castle-hamilton-history-v2-ben, Szent Tamásnak szentelve.",
+                  "text": "Római katolikus templom a Hamilton-i Szent Tamás plébániához tartozóan.",
                   "category": "religious",
                   "coords": [
                         -79.91615,
@@ -5661,7 +5661,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Martyrs Roman Catholic Church",
-                  "text": "Katolikus templom dundurn-castle-hamilton-history-v2-ben, a kanadai vértanúknak szentelve.",
+                  "text": "Katolikus templom Hamiltonban, a kanadai vértanúkról elnevezve.",
                   "category": "religious",
                   "coords": [
                         -79.92008,
@@ -5670,7 +5670,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Church",
-                  "text": "Templom dundurn-castle-hamilton-history-v2-ben, Szent Ágostonnak szentelve.",
+                  "text": "Történelmi templom Hamiltonban, Szent Ágoston tiszteletére szentelve.",
                   "category": "religious",
                   "coords": [
                         -79.956972,
@@ -5679,7 +5679,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Barton Stone United Church",
-                  "text": "Egyesült templom dundurn-castle-hamilton-history-v2-ben, a Barton Stone United Church.",
+                  "text": "United Church a Barton és Stone utcák kereszteződésénél Hamiltonban.",
                   "category": "religious",
                   "coords": [
                         -79.88966,
@@ -5688,7 +5688,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Siena Church",
-                  "text": "Katolikus templom dundurn-castle-hamilton-history-v2-ben, Sienai Szent Katalinnak szentelve.",
+                  "text": "Római katolikus plébánia Hamiltonban, Sienai Szent Katalin pártfogása alatt.",
                   "category": "religious",
                   "coords": [
                         -79.865883,
@@ -5697,7 +5697,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Annunciation of Our Lord Catholic Church",
-                  "text": "Katolikus templom dundurn-castle-hamilton-history-v2-ben, az Úr Angyali Üdvözletének szentelve.",
+                  "text": "Katolikus templom Hamiltonban, az Úr angyali üdvözletének szentelve.",
                   "category": "religious",
                   "coords": [
                         -79.897886,
@@ -5706,7 +5706,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Regina Mundi Catholic Church",
-                  "text": "Katolikus templom dundurn-castle-hamilton-history-v2-ben, Regina Mundi (a Világ Királynője) néven.",
+                  "text": "Katolikus templom Hamiltonban, Regina Mundi (a világ királynője) néven.",
                   "category": "religious",
                   "coords": [
                         -79.912481,
@@ -5724,7 +5724,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hamilton Christian Fellowship",
-                  "text": "A Hamilton Christian Fellowship egy istentiszteleti hely a Dundurn Castle Hamilton területén.",
+                  "text": "Evangéliumi keresztény közösség Hamiltonban.",
                   "category": "religious",
                   "coords": [
                         -79.883807,
@@ -5733,7 +5733,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Stephen of Hungary Catholic Church",
-                  "text": "A St. Stephen of Hungary Catholic Church egy katolikus templom a Dundurn Castle Hamilton területén.",
+                  "text": "Magyar katolikus templom Hamiltonban, a magyar közösség szolgálatában.",
                   "category": "religious",
                   "coords": [
                         -79.860179,
@@ -5751,7 +5751,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sts. Cyril and Methodius Slovak Catholic Church",
-                  "text": "A Sts. Cyril and Methodius Slovak Catholic Church egy szlovák katolikus templom a Dundurn Castle Hamilton területén.",
+                  "text": "Szlovák katolikus templom Hamiltonban, Cirill és Metód szláv apostolok tiszteletére szentelve.",
                   "category": "religious",
                   "coords": [
                         -79.869053,
@@ -5760,7 +5760,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady of All Souls Catholic Church",
-                  "text": "Az Our Lady of All Souls Catholic Church egy katolikus templom a Dundurn Castle Hamilton területén.",
+                  "text": "Katolikus templom Hamiltonban, Minden Lelkek Anyjának szentelve.",
                   "category": "religious",
                   "coords": [
                         -79.866552,
@@ -5769,7 +5769,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Anthony of Padua Catholic Church",
-                  "text": "A St. Anthony of Padua Catholic Church egy katolikus templom a Dundurn Castle Hamilton területén.",
+                  "text": "Ferences ihletésű katolikus plébánia Hamiltonban.",
                   "category": "religious",
                   "coords": [
                         -79.829159,
@@ -5778,7 +5778,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Giáo Xứ Đức Mẹ Việt Nam",
-                  "text": "Az Our Lady of Vietnam Catholic Church egy katolikus templom a Dundurn Castle Hamilton területén.",
+                  "text": "Vietnámi katolikus templom Hamiltonban, a vietnámi közösség szolgálatában.",
                   "category": "religious",
                   "coords": [
                         -79.808291,
@@ -5787,7 +5787,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Catholic Church",
-                  "text": "A St. John's Catholic Church egy katolikus templom a Dundurn Castle Hamilton területén.",
+                  "text": "Katolikus templom Hamiltonban, Szent János tiszteletére szentelve.",
                   "category": "religious",
                   "coords": [
                         -79.819869,
@@ -5796,7 +5796,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Margaret Mary Church",
-                  "text": "A St. Margaret Mary Church egy templom a Dundurn Castle Hamilton területén.",
+                  "text": "Katolikus templom Hamiltonban, Szent Margit Mária Alacoque tiszteletére szentelve.",
                   "category": "religious",
                   "coords": [
                         -79.828271,
@@ -5805,7 +5805,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Naum of Ohrid Macedonian Orthodox Church",
-                  "text": "A St. Naum of Ohrid Macedonian Orthodox Church egy macedón ortodox templom a Dundurn Castle Hamilton területén.",
+                  "text": "Macedón ortodox templom Hamiltonban, Ohridi Szent Naum tiszteletére szentelve.",
                   "category": "religious",
                   "coords": [
                         -79.838209,
@@ -5814,7 +5814,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Luke's Catholic Church",
-                  "text": "A St. Luke's Catholic Church egy katolikus templom a Dundurn Castle Hamilton területén.",
+                  "text": "Katolikus templom Hamiltonban, Szent Lukács pártfogása alatt.",
                   "category": "religious",
                   "coords": [
                         -79.794405,
@@ -5823,7 +5823,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McCassa Bay",
-                  "text": "A McCassa Bay egy öböl a Dundurn Castle Hamilton területén.",
+                  "text": "Egy öböl az Ontario-tó partján, Hamilton közelében.",
                   "category": "landmark",
                   "coords": [
                         -79.863134,
@@ -5832,7 +5832,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gage Memorial Fountain",
-                  "text": "A Gage Memorial Fountain egy szökőkút a Dundurn Castle Hamilton területén.",
+                  "text": "Emlékszökőkút a Gage Parkban, Castle Hamiltonban.",
                   "category": "landmark",
                   "coords": [
                         -79.828335,
@@ -5850,7 +5850,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gage Park",
-                  "text": "A Gage Park egy park a Dundurn Castle Hamilton területén.",
+                  "text": "Egy nagy közpark Castle Hamiltonban, a Gage Memorial Fountain otthona.",
                   "category": "park",
                   "coords": [
                         -79.828558,
@@ -5859,7 +5859,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mohawk Sports Park",
-                  "text": "A Mohawk Sports Park egy park a Dundurn Castle Hamilton területén.",
+                  "text": "Sportpark Castle Hamiltonban sportpályákkal és játszóterekkel.",
                   "category": "park",
                   "coords": [
                         -79.821642,
@@ -5879,7 +5879,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Football Hall of Fame & Museum",
-                  "text": "Un muzeu în dundurn-castle-hamilton-history-v2 dedicat fotbalului canadian.",
+                  "text": "Sala de Onoare a Fotbalului Canadian din Hamilton onorează jucători, antrenori și oficiali ai fotbalului canadian.",
                   "category": "museum",
                   "coords": [
                         -79.831171,
@@ -5888,7 +5888,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McMaster Museum of Art",
-                  "text": "Muzeul de Artă McMaster din dundurn-castle-hamilton-history-v2 cu o colecție de artă modernă și contemporană.",
+                  "text": "Muzeul de Artă McMaster din Hamilton deține o colecție de peste 6.000 de opere, inclusiv artă canadiană și internațională.",
                   "category": "museum",
                   "coords": [
                         -79.918128,
@@ -5906,7 +5906,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ's Church Anglican Cathedral",
-                  "text": "O catedrală anglicană în dundurn-castle-hamilton-history-v2, biserica episcopală a Hamiltonului.",
+                  "text": "Catedrala Anglicană a lui Hristos din Hamilton este o catedrală neogotică din secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         -79.865707,
@@ -5924,7 +5924,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sherman Falls",
-                  "text": "O cascadă în dundurn-castle-hamilton-history-v2, cunoscută ca Sherman Falls.",
+                  "text": "Cascadele Sherman din Hamilton sunt o cascadă de 15 metri înălțime pe Escarpamentul Niagara.",
                   "category": "landmark",
                   "coords": [
                         -79.972868,
@@ -5933,7 +5933,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tiffany Falls",
-                  "text": "O cascadă în dundurn-castle-hamilton-history-v2, cunoscută ca Tiffany Falls.",
+                  "text": "Cascadele Tiffany din Hamilton sunt o cascadă în trepte de 21 de metri într-o arie protejată.",
                   "category": "landmark",
                   "coords": [
                         -79.958207,
@@ -5942,7 +5942,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Shaver Falls / Filman Falls",
-                  "text": "O cascadă în dundurn-castle-hamilton-history-v2, numită și Shaver Falls sau Filman Falls.",
+                  "text": "Cascada Shaver (cunoscută și ca Filman Falls) din Hamilton are 12 metri înălțime de-a lungul pârâului.",
                   "category": "landmark",
                   "coords": [
                         -79.951482,
@@ -5987,7 +5987,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Green Venture EcoHouse",
-                  "text": "Un muzeu în dundurn-castle-hamilton-history-v2 axat pe locuirea sustenabilă.",
+                  "text": "O casă demonstrativă pentru viața sustenabilă în Hamilton.",
                   "category": "museum",
                   "coords": [
                         -79.785648,
@@ -6005,7 +6005,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Thomas Catholic Church",
-                  "text": "O biserică catolică în dundurn-castle-hamilton-history-v2, dedicată Sfântului Toma.",
+                  "text": "O biserică romano-catolică a Parohiei Sfântul Toma din Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.91615,
@@ -6014,7 +6014,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Martyrs Roman Catholic Church",
-                  "text": "O biserică catolică în dundurn-castle-hamilton-history-v2, dedicată martirilor canadieni.",
+                  "text": "O biserică catolică în Hamilton, numită după Martirii Canadieni.",
                   "category": "religious",
                   "coords": [
                         -79.92008,
@@ -6023,7 +6023,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Church",
-                  "text": "O biserică în dundurn-castle-hamilton-history-v2, dedicată Sfântului Augustin.",
+                  "text": "O biserică istorică în Hamilton, dedicată Sfântului Augustin.",
                   "category": "religious",
                   "coords": [
                         -79.956972,
@@ -6032,7 +6032,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Barton Stone United Church",
-                  "text": "O biserică unită în dundurn-castle-hamilton-history-v2, Barton Stone United Church.",
+                  "text": "O Biserică Unită la intersecția străzilor Barton și Stone din Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.88966,
@@ -6041,7 +6041,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Siena Church",
-                  "text": "O biserică catolică în dundurn-castle-hamilton-history-v2, dedicată Sfintei Ecaterina de Siena.",
+                  "text": "O parohie romano-catolică în Hamilton sub patronajul Sfintei Ecaterina de Siena.",
                   "category": "religious",
                   "coords": [
                         -79.865883,
@@ -6050,7 +6050,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Annunciation of Our Lord Catholic Church",
-                  "text": "O biserică catolică în dundurn-castle-hamilton-history-v2, dedicată Bunei Vestiri a Domnului.",
+                  "text": "O biserică catolică în Hamilton dedicată Bunei Vestiri.",
                   "category": "religious",
                   "coords": [
                         -79.897886,
@@ -6059,7 +6059,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Regina Mundi Catholic Church",
-                  "text": "O biserică catolică în dundurn-castle-hamilton-history-v2, numită Regina Mundi (Regina Lumii).",
+                  "text": "O biserică catolică în Hamilton numită Regina Mundi (Regina Lumii).",
                   "category": "religious",
                   "coords": [
                         -79.912481,
@@ -6077,7 +6077,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hamilton Christian Fellowship",
-                  "text": "Hamilton Christian Fellowship este un lăcaș de cult în zona Dundurn Castle Hamilton.",
+                  "text": "O comunitate creștină evanghelică în Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.883807,
@@ -6086,7 +6086,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Stephen of Hungary Catholic Church",
-                  "text": "St. Stephen of Hungary Catholic Church este o biserică catolică în zona Dundurn Castle Hamilton.",
+                  "text": "O biserică catolică maghiară în Hamilton, slujind comunitatea maghiară.",
                   "category": "religious",
                   "coords": [
                         -79.860179,
@@ -6104,7 +6104,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sts. Cyril and Methodius Slovak Catholic Church",
-                  "text": "Sts. Cyril and Methodius Slovak Catholic Church este o biserică catolică slovacă în zona Dundurn Castle Hamilton.",
+                  "text": "O biserică catolică slovacă în Hamilton, dedicată apostolilor slavi Chiril și Metodie.",
                   "category": "religious",
                   "coords": [
                         -79.869053,
@@ -6113,7 +6113,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady of All Souls Catholic Church",
-                  "text": "Our Lady of All Souls Catholic Church este o biserică catolică în zona Dundurn Castle Hamilton.",
+                  "text": "O biserică catolică în Hamilton dedicată Maicii Domnului pentru toate sufletele.",
                   "category": "religious",
                   "coords": [
                         -79.866552,
@@ -6122,7 +6122,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Anthony of Padua Catholic Church",
-                  "text": "St. Anthony of Padua Catholic Church este o biserică catolică în zona Dundurn Castle Hamilton.",
+                  "text": "O parohie catolică de inspirație franciscană în Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.829159,
@@ -6131,7 +6131,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Giáo Xứ Đức Mẹ Việt Nam",
-                  "text": "Our Lady of Vietnam Catholic Church este o biserică catolică în zona Dundurn Castle Hamilton.",
+                  "text": "O biserică catolică vietnameză în Hamilton, slujind comunitatea vietnameză.",
                   "category": "religious",
                   "coords": [
                         -79.808291,
@@ -6140,7 +6140,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Catholic Church",
-                  "text": "St. John's Catholic Church este o biserică catolică în zona Dundurn Castle Hamilton.",
+                  "text": "O biserică catolică în Hamilton dedicată Sfântului Ioan.",
                   "category": "religious",
                   "coords": [
                         -79.819869,
@@ -6149,7 +6149,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Margaret Mary Church",
-                  "text": "St. Margaret Mary Church este o biserică în zona Dundurn Castle Hamilton.",
+                  "text": "O biserică catolică în Hamilton dedicată Sfintei Margareta Maria Alacoque.",
                   "category": "religious",
                   "coords": [
                         -79.828271,
@@ -6158,7 +6158,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Naum of Ohrid Macedonian Orthodox Church",
-                  "text": "St. Naum of Ohrid Macedonian Orthodox Church este o biserică ortodoxă macedoneană în zona Dundurn Castle Hamilton.",
+                  "text": "O biserică ortodoxă macedoneană în Hamilton, dedicată Sfântului Naum de Ohrid.",
                   "category": "religious",
                   "coords": [
                         -79.838209,
@@ -6167,7 +6167,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Luke's Catholic Church",
-                  "text": "St. Luke's Catholic Church este o biserică catolică în zona Dundurn Castle Hamilton.",
+                  "text": "O biserică catolică în Hamilton sub patronajul Sfântului Luca.",
                   "category": "religious",
                   "coords": [
                         -79.794405,
@@ -6176,7 +6176,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McCassa Bay",
-                  "text": "McCassa Bay este un golf în zona Dundurn Castle Hamilton.",
+                  "text": "Un golf pe malul Lacului Ontario, lângă Hamilton.",
                   "category": "landmark",
                   "coords": [
                         -79.863134,
@@ -6185,7 +6185,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gage Memorial Fountain",
-                  "text": "Gage Memorial Fountain este o fântână în zona Dundurn Castle Hamilton.",
+                  "text": "O fântână memorială în Parcul Gage, Castle Hamilton.",
                   "category": "landmark",
                   "coords": [
                         -79.828335,
@@ -6203,7 +6203,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gage Park",
-                  "text": "Gage Park este un parc în zona Dundurn Castle Hamilton.",
+                  "text": "Un parc public mare în Castle Hamilton, care găzduiește Fântâna Memorială Gage.",
                   "category": "park",
                   "coords": [
                         -79.828558,
@@ -6212,7 +6212,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mohawk Sports Park",
-                  "text": "Mohawk Sports Park este un parc în zona Dundurn Castle Hamilton.",
+                  "text": "Un parc sportiv în Castle Hamilton, cu terenuri de sport și locuri de joacă.",
                   "category": "park",
                   "coords": [
                         -79.821642,
@@ -6232,7 +6232,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Football Hall of Fame & Museum",
-                  "text": "A museum in dundurn-castle-hamilton-history-v2 dedicated to Canadian football.",
+                  "text": "The Canadian Football Hall of Fame & Museum in Hamilton celebrates the achievements of CFL players, coaches, and builders.",
                   "category": "museum",
                   "coords": [
                         -79.831171,
@@ -6241,7 +6241,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McMaster Museum of Art",
-                  "text": "The McMaster Museum of Art in dundurn-castle-hamilton-history-v2 with a collection of modern and contemporary art.",
+                  "text": "McMaster Museum of Art houses a diverse collection of over 6,000 works, including Canadian and Indigenous art.",
                   "category": "museum",
                   "coords": [
                         -79.918128,
@@ -6259,7 +6259,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ's Church Anglican Cathedral",
-                  "text": "An Anglican cathedral in dundurn-castle-hamilton-history-v2, the bishop's church of Hamilton.",
+                  "text": "Christ's Church Anglican Cathedral in downtown Hamilton is a Gothic Revival cathedral built in 1856.",
                   "category": "religious",
                   "coords": [
                         -79.865707,
@@ -6277,7 +6277,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sherman Falls",
-                  "text": "A waterfall in dundurn-castle-hamilton-history-v2, known as Sherman Falls.",
+                  "text": "Sherman Falls is a 15-metre ribbon waterfall along the Niagara Escarpment in Hamilton.",
                   "category": "landmark",
                   "coords": [
                         -79.972868,
@@ -6286,7 +6286,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tiffany Falls",
-                  "text": "A waterfall in dundurn-castle-hamilton-history-v2, known as Tiffany Falls.",
+                  "text": "Tiffany Falls plunges 21 metres over the Niagara Escarpment in a protected natural area.",
                   "category": "landmark",
                   "coords": [
                         -79.958207,
@@ -6295,7 +6295,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Shaver Falls / Filman Falls",
-                  "text": "A waterfall in dundurn-castle-hamilton-history-v2, also called Shaver Falls or Filman Falls.",
+                  "text": "Shaver Falls, also called Filman Falls, is a 12-metre cascade in Hamilton's Lower Side Trail.",
                   "category": "landmark",
                   "coords": [
                         -79.951482,
@@ -6340,7 +6340,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Green Venture EcoHouse",
-                  "text": "A museum in dundurn-castle-hamilton-history-v2 focused on sustainable living.",
+                  "text": "A demonstration house showcasing sustainable living in Hamilton.",
                   "category": "museum",
                   "coords": [
                         -79.785648,
@@ -6358,7 +6358,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Thomas Catholic Church",
-                  "text": "A Catholic church in dundurn-castle-hamilton-history-v2 dedicated to Saint Thomas.",
+                  "text": "A Roman Catholic church serving St. Thomas Parish in Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.91615,
@@ -6367,7 +6367,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Martyrs Roman Catholic Church",
-                  "text": "A Catholic church in dundurn-castle-hamilton-history-v2 dedicated to the Canadian Martyrs.",
+                  "text": "A Catholic church in Hamilton named after the Canadian Martyrs.",
                   "category": "religious",
                   "coords": [
                         -79.92008,
@@ -6376,7 +6376,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Church",
-                  "text": "A church in dundurn-castle-hamilton-history-v2 dedicated to Saint Augustine.",
+                  "text": "A historic church in Hamilton dedicated to St. Augustine.",
                   "category": "religious",
                   "coords": [
                         -79.956972,
@@ -6385,7 +6385,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Barton Stone United Church",
-                  "text": "A United Church in dundurn-castle-hamilton-history-v2, the Barton Stone United Church.",
+                  "text": "A United Church at the intersection of Barton and Stone streets in Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.88966,
@@ -6394,7 +6394,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Catherine of Siena Church",
-                  "text": "A Catholic church in dundurn-castle-hamilton-history-v2 dedicated to Saint Catherine of Siena.",
+                  "text": "A Roman Catholic parish in Hamilton under the patronage of St. Catherine of Siena.",
                   "category": "religious",
                   "coords": [
                         -79.865883,
@@ -6403,7 +6403,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Annunciation of Our Lord Catholic Church",
-                  "text": "A Catholic church in dundurn-castle-hamilton-history-v2 dedicated to the Annunciation of the Lord.",
+                  "text": "A Catholic church in Hamilton dedicated to the Annunciation of the Lord.",
                   "category": "religious",
                   "coords": [
                         -79.897886,
@@ -6412,7 +6412,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Regina Mundi Catholic Church",
-                  "text": "A Catholic church in dundurn-castle-hamilton-history-v2 called Regina Mundi (Queen of the World).",
+                  "text": "A Catholic church in Hamilton named Regina Mundi (Queen of the World).",
                   "category": "religious",
                   "coords": [
                         -79.912481,
@@ -6430,7 +6430,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hamilton Christian Fellowship",
-                  "text": "Hamilton Christian Fellowship is a place of worship in the Dundurn Castle Hamilton area.",
+                  "text": "An evangelical Christian fellowship in Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.883807,
@@ -6439,7 +6439,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Stephen of Hungary Catholic Church",
-                  "text": "St. Stephen of Hungary Catholic Church is a Catholic church in the Dundurn Castle Hamilton area.",
+                  "text": "A Hungarian Catholic church in Hamilton serving the Hungarian community.",
                   "category": "religious",
                   "coords": [
                         -79.860179,
@@ -6457,7 +6457,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sts. Cyril and Methodius Slovak Catholic Church",
-                  "text": "Sts. Cyril and Methodius Slovak Catholic Church is a Slovak Catholic church in the Dundurn Castle Hamilton area.",
+                  "text": "A Slovak Catholic church in Hamilton dedicated to the Slavic apostles Cyril and Methodius.",
                   "category": "religious",
                   "coords": [
                         -79.869053,
@@ -6466,7 +6466,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady of All Souls Catholic Church",
-                  "text": "Our Lady of All Souls Catholic Church is a Catholic church in the Dundurn Castle Hamilton area.",
+                  "text": "A Catholic church in Hamilton dedicated to Our Lady of All Souls.",
                   "category": "religious",
                   "coords": [
                         -79.866552,
@@ -6475,7 +6475,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Anthony of Padua Catholic Church",
-                  "text": "St. Anthony of Padua Catholic Church is a Catholic church in the Dundurn Castle Hamilton area.",
+                  "text": "A Franciscan-inspired Catholic parish in Hamilton.",
                   "category": "religious",
                   "coords": [
                         -79.829159,
@@ -6484,7 +6484,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Our Lady of Vietnam Catholic Church",
-                  "text": "Our Lady of Vietnam Catholic Church is a Catholic church in the Dundurn Castle Hamilton area.",
+                  "text": "A Vietnamese Catholic church in Hamilton serving the Vietnamese community.",
                   "category": "religious",
                   "coords": [
                         -79.808291,
@@ -6493,7 +6493,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Catholic Church",
-                  "text": "St. John's Catholic Church is a Catholic church in the Dundurn Castle Hamilton area.",
+                  "text": "A Catholic church in Hamilton dedicated to St. John.",
                   "category": "religious",
                   "coords": [
                         -79.819869,
@@ -6502,7 +6502,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Margaret Mary Church",
-                  "text": "St. Margaret Mary Church is a church in the Dundurn Castle Hamilton area.",
+                  "text": "A Catholic church in Hamilton dedicated to St. Margaret Mary Alacoque.",
                   "category": "religious",
                   "coords": [
                         -79.828271,
@@ -6511,7 +6511,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Naum of Ohrid Macedonian Orthodox Church",
-                  "text": "St. Naum of Ohrid Macedonian Orthodox Church is a Macedonian Orthodox church in the Dundurn Castle Hamilton area.",
+                  "text": "A Macedonian Orthodox church in Hamilton dedicated to St. Naum of Ohrid.",
                   "category": "religious",
                   "coords": [
                         -79.838209,
@@ -6520,7 +6520,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Luke's Catholic Church",
-                  "text": "St. Luke's Catholic Church is a Catholic church in the Dundurn Castle Hamilton area.",
+                  "text": "A Catholic church in Hamilton under the patronage of St. Luke.",
                   "category": "religious",
                   "coords": [
                         -79.794405,
@@ -6529,7 +6529,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McCassa Bay",
-                  "text": "McCassa Bay is a bay in the Dundurn Castle Hamilton area.",
+                  "text": "A bay on Lake Ontario near Hamilton.",
                   "category": "landmark",
                   "coords": [
                         -79.863134,
@@ -6538,7 +6538,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gage Memorial Fountain",
-                  "text": "Gage Memorial Fountain is a fountain in the Dundurn Castle Hamilton area.",
+                  "text": "A memorial fountain in Gage Park, Castle Hamilton.",
                   "category": "landmark",
                   "coords": [
                         -79.828335,
@@ -6556,7 +6556,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gage Park",
-                  "text": "Gage Park is a park in the Dundurn Castle Hamilton area.",
+                  "text": "A large public park in Castle Hamilton, home to the Gage Memorial Fountain.",
                   "category": "park",
                   "coords": [
                         -79.828558,
@@ -6565,7 +6565,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mohawk Sports Park",
-                  "text": "Mohawk Sports Park is a park in the Dundurn Castle Hamilton area.",
+                  "text": "A sports park in Castle Hamilton with athletic fields and playgrounds.",
                   "category": "park",
                   "coords": [
                         -79.821642,
@@ -6661,7 +6661,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The ACT Arts Centre",
-                  "text": "Das The ACT Arts Centre ist ein Kunstzentrum in fort-langley-history-v2.",
+                  "text": "Ein Zentrum für darstellende Künste in Langley mit Theater- und Musikveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -122.59845,
@@ -6670,7 +6670,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vancouver British Columbia Temple",
-                  "text": "Der Vancouver British Columbia Temple ist ein Gotteshaus in fort-langley-history-v2.",
+                  "text": "Der einzige LDS-Tempel in British Columbia, gelegen in Langley.",
                   "category": "religious",
                   "coords": [
                         -122.658011,
@@ -6679,7 +6679,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's United Church",
-                  "text": "Die Saint Andrew's United Church ist ein Gotteshaus in fort-langley-history-v2.",
+                  "text": "Eine denkmalgeschützte United Church in Langley mit Buntglasfenstern.",
                   "category": "religious",
                   "coords": [
                         -122.582482,
@@ -6688,7 +6688,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Northeast bastion",
-                  "text": "Die Northeast bastion ist ein Turm in fort-langley-history-v2.",
+                  "text": "Die historische nordöstliche Bastion der Fort Langley National Historic Site in Langley.",
                   "category": "tower",
                   "coords": [
                         -122.570931,
@@ -6697,7 +6697,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grant Hill",
-                  "text": "Der Grant Hill ist ein Gipfel in fort-langley-history-v2.",
+                  "text": "Ein natürlicher Hügel in Langley mit Wanderwegen und Aussicht.",
                   "category": "natural",
                   "coords": [
                         -122.504769,
@@ -6706,7 +6706,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Derby Reach Regional Park",
-                  "text": "Der Derby Reach Regional Park ist ein Naturschutzgebiet in fort-langley-history-v2.",
+                  "text": "Ein regionaler Park am Fraser River in Langley, beliebt zum Wandern und Campen.",
                   "category": "natural",
                   "coords": [
                         -122.609375,
@@ -6715,7 +6715,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Brae Island Regional Park",
-                  "text": "Der Brae Island Regional Park ist ein Naturschutzgebiet in fort-langley-history-v2.",
+                  "text": "Ein regionaler Park auf einer Insel im Fraser River nahe Langley.",
                   "category": "natural",
                   "coords": [
                         -122.58261,
@@ -6724,7 +6724,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Langley CN Station",
-                  "text": "Die Fort Langley CN Station ist ein Museum in fort-langley-history-v2.",
+                  "text": "Museum im ehemaligen CN-Bahnhof von Fort Langley.",
                   "category": "museum",
                   "coords": [
                         -122.578341,
@@ -6733,7 +6733,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maple Ridge Museum",
-                  "text": "Das Maple Ridge Museum ist ein Museum in fort-langley-history-v2.",
+                  "text": "Museum zur Geschichte von Maple Ridge in Langley.",
                   "category": "museum",
                   "coords": [
                         -122.597596,
@@ -6742,7 +6742,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pitt Meadows Art Gallery",
-                  "text": "Die Pitt Meadows Art Gallery ist ein Museum in fort-langley-history-v2.",
+                  "text": "Kunstgalerie in Pitt Meadows, Langley.",
                   "category": "museum",
                   "coords": [
                         -122.680301,
@@ -6751,7 +6751,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Haney House",
-                  "text": "Das Haney House ist ein Museum in fort-langley-history-v2.",
+                  "text": "Historisches Wohnhausmuseum im Haney-Viertel von Langley.",
                   "category": "museum",
                   "coords": [
                         -122.602087,
@@ -6760,7 +6760,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Langley",
-                  "text": "Das Fort Langley ist ein Museum in fort-langley-history-v2.",
+                  "text": "Rekonstruierte Pelzhandelsfestung der Hudson's Bay Company in Langley.",
                   "category": "museum",
                   "coords": [
                         -122.572139,
@@ -6769,7 +6769,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "BC Farm Museum",
-                  "text": "Das BC Farm Museum ist ein Museum in fort-langley-history-v2.",
+                  "text": "Museum für landwirtschaftliche Geschichte in Langley.",
                   "category": "museum",
                   "coords": [
                         -122.575494,
@@ -6778,7 +6778,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Portage",
-                  "text": "The Portage ist ein Denkmal in fort-langley-history-v2.",
+                  "text": "Historischer Portagepfad in Langley, Teil einer Handelsroute.",
                   "category": "historical",
                   "coords": [
                         -122.608604,
@@ -6787,7 +6787,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Telegraph Trail",
-                  "text": "Der Telegraph Trail ist ein Denkmal in fort-langley-history-v2.",
+                  "text": "Historische Telegrafenleitung in Langley, entlang der alten Route.",
                   "category": "historical",
                   "coords": [
                         -122.594282,
@@ -6796,7 +6796,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "David Truman Memorial Bird Garden",
-                  "text": "Der David Truman Memorial Bird Garden ist eine Gedenkstätte in fort-langley-history-v2.",
+                  "text": "David Truman Gedenkvogelgarten, ein Vogelparadies in Langley.",
                   "category": "historical",
                   "coords": [
                         -122.638147,
@@ -6805,7 +6805,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Theatre in the Country",
-                  "text": "Das Theatre in the Country ist ein Theater in fort-langley-history-v2.",
+                  "text": "Das 2013 eröffnete Theatre in the Country in Langley ist ein ländliches Theater.",
                   "category": "cultural",
                   "coords": [
                         -122.652343,
@@ -6814,7 +6814,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Prairie Methodist Church",
-                  "text": "Die Langley Prairie Methodist Church ist eine Kirche in fort-langley-history-v2.",
+                  "text": "Langley Prairie Methodist Church, erbaut am 23. Mai 1886, geschütztes Kulturerbe.",
                   "category": "religious",
                   "coords": [
                         -122.623886,
@@ -6823,7 +6823,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chief Sepass Theater",
-                  "text": "Das Chief Sepass Theater ist ein Theater in fort-langley-history-v2.",
+                  "text": "Theater benannt nach Häuptling Sepass in Langley.",
                   "category": "cultural",
                   "coords": [
                         -122.587456,
@@ -6832,7 +6832,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Spirit Square",
-                  "text": "Der Langley Spirit Square ist ein Theater in fort-langley-history-v2.",
+                  "text": "Öffentlicher Platz im Herzen von Langley.",
                   "category": "cultural",
                   "coords": [
                         -122.653815,
@@ -6841,7 +6841,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kanaka Creek Fish Fence",
-                  "text": "Der Kanaka Creek Fish Fence ist eine Attraktion in fort-langley-history-v2.",
+                  "text": "Historischer Fischzaun am Kanaka Creek in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.557059,
@@ -6850,7 +6850,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Original Fort Langley Site",
-                  "text": "Die Original Fort Langley Site ist eine Attraktion in fort-langley-history-v2.",
+                  "text": "Ursprünglicher Standort des Fort Langley, markiert durch Gedenktafeln.",
                   "category": "landmark",
                   "coords": [
                         -122.593905,
@@ -6859,7 +6859,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glow Gardens Langley",
-                  "text": "Die Glow Gardens Langley sind eine Attraktion in fort-langley-history-v2.",
+                  "text": "Illuminierte Gartenanlage mit bunten Lichtinstallationen in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.623165,
@@ -6868,7 +6868,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Bog at Riverside Cranberry Farm",
-                  "text": "Das The Bog at Riverside Cranberry Farm ist eine Attraktion in fort-langley-history-v2.",
+                  "text": "Preiselbeermoor auf der Riverside Cranberry Farm in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.482779,
@@ -6877,7 +6877,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kanaka Creek Watershed Stewardship Centre",
-                  "text": "Das Kanaka Creek Watershed Stewardship Centre ist eine Attraktion in Fort Langley, die sich dem Schutz des Wassereinzugsgebiets widmet.",
+                  "text": "Bildungszentrum zur Wasserscheide des Kanaka Creek in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.507305,
@@ -6886,7 +6886,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Thunderbird Show Park",
-                  "text": "Der Thunderbird Show Park ist ein Veranstaltungspark in Fort Langley.",
+                  "text": "Pferdesportpark in Langley mit Springreitwettbewerben.",
                   "category": "landmark",
                   "coords": [
                         -122.542183,
@@ -6895,7 +6895,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tavistock Point",
-                  "text": "Tavistock Point ist ein Aussichtspunkt in Fort Langley.",
+                  "text": "Naturbelassene Landzunge am Fraser River in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.588504,
@@ -6904,7 +6904,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Bog",
-                  "text": "Das Langley Bog ist ein Naturschutzgebiet in Fort Langley.",
+                  "text": "Hochmoor in Langley mit seltener Torfvegetation.",
                   "category": "natural",
                   "coords": [
                         -122.610382,
@@ -6913,7 +6913,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hope Redwoods Nature Area",
-                  "text": "Das Hope Redwoods Nature Area ist ein Naturschutzgebiet in Fort Langley.",
+                  "text": "Naturgebiet mit Mammutbäumen in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.61623,
@@ -6922,7 +6922,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "North Alouette Regional Greenway",
-                  "text": "Der North Alouette Regional Greenway ist ein Naturschutzgebiet in Fort Langley.",
+                  "text": "Regionaler Grüngürtel entlang des North Alouette River in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.613585,
@@ -6931,7 +6931,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harris Landing Park",
-                  "text": "Der Harris Landing Park ist ein Naturschutzgebiet in Fort Langley.",
+                  "text": "Park am Ufer des Fraser River in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.693249,
@@ -6940,7 +6940,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Port Kells Park",
-                  "text": "Der Port Kells Park ist ein Park in Fort Langley.",
+                  "text": "Port Kells Park, 1933 angelegt, geschützte Grünanlage in Langley.",
                   "category": "park",
                   "coords": [
                         -122.686827,
@@ -6949,7 +6949,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ponder Park",
-                  "text": "Der Ponder Park ist ein Naturschutzgebiet in Fort Langley.",
+                  "text": "Nachbarschaftspark mit Spielplatz und Grünflächen in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.531198,
@@ -6996,7 +6996,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The ACT Arts Centre",
-                  "text": "A The ACT Arts Centre egy művészeti központ fort-langley-history-v2-ben.",
+                  "text": "Előadóművészeti központ Langley-ban, színházi és zenei eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         -122.59845,
@@ -7005,7 +7005,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vancouver British Columbia Temple",
-                  "text": "A Vancouver British Columbia Temple egy istentiszteleti hely fort-langley-history-v2-ben.",
+                  "text": "Az egyetlen LDS templom Brit Columbiaban, Langleyban található.",
                   "category": "religious",
                   "coords": [
                         -122.658011,
@@ -7014,7 +7014,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's United Church",
-                  "text": "A Saint Andrew's United Church egy istentiszteleti hely fort-langley-history-v2-ben.",
+                  "text": "Egy műemlékvédelem alatt álló United Church Langleyban, színes üvegablakokkal.",
                   "category": "religious",
                   "coords": [
                         -122.582482,
@@ -7023,7 +7023,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Northeast bastion",
-                  "text": "A Northeast bastion egy torony fort-langley-history-v2-ben.",
+                  "text": "A Fort Langley Nemzeti Történelmi Helyszín északkeleti bástyája Langleyban.",
                   "category": "tower",
                   "coords": [
                         -122.570931,
@@ -7032,7 +7032,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grant Hill",
-                  "text": "A Grant Hill egy csúcs fort-langley-history-v2-ben.",
+                  "text": "Egy természetes domb Langleyban, túraútvonalakkal és kilátással.",
                   "category": "natural",
                   "coords": [
                         -122.504769,
@@ -7041,7 +7041,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Derby Reach Regional Park",
-                  "text": "A Derby Reach Regional Park egy természetvédelmi terület fort-langley-history-v2-ben.",
+                  "text": "Regionális park a Fraser folyó mentén Langleyban, népszerű túrázásra és kempingezésre.",
                   "category": "natural",
                   "coords": [
                         -122.609375,
@@ -7050,7 +7050,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Brae Island Regional Park",
-                  "text": "A Brae Island Regional Park egy természetvédelmi terület fort-langley-history-v2-ben.",
+                  "text": "Regionális park egy szigeten a Fraser folyóban Langley közelében.",
                   "category": "natural",
                   "coords": [
                         -122.58261,
@@ -7059,7 +7059,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Langley CN Station",
-                  "text": "A Fort Langley CN Station egy múzeum fort-langley-history-v2-ben.",
+                  "text": "Múzeum a Fort Langley egykori CN vasútállomásán.",
                   "category": "museum",
                   "coords": [
                         -122.578341,
@@ -7068,7 +7068,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maple Ridge Museum",
-                  "text": "A Maple Ridge Museum egy múzeum fort-langley-history-v2-ben.",
+                  "text": "Maple Ridge történetét bemutató múzeum Langleyben.",
                   "category": "museum",
                   "coords": [
                         -122.597596,
@@ -7077,7 +7077,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pitt Meadows Art Gallery",
-                  "text": "A Pitt Meadows Art Gallery egy múzeum fort-langley-history-v2-ben.",
+                  "text": "Művészeti galéria Pitt Meadowsben, Langleyben.",
                   "category": "museum",
                   "coords": [
                         -122.680301,
@@ -7086,7 +7086,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Haney House",
-                  "text": "A Haney House egy múzeum fort-langley-history-v2-ben.",
+                  "text": "Történelmi lakóház múzeum a haneyi negyedben, Langleyben.",
                   "category": "museum",
                   "coords": [
                         -122.602087,
@@ -7095,7 +7095,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Langley",
-                  "text": "A Fort Langley egy múzeum fort-langley-history-v2-ben.",
+                  "text": "A Hudson's Bay Company rekonstruált szőrmekereskedelmi erődje Langleyben.",
                   "category": "museum",
                   "coords": [
                         -122.572139,
@@ -7104,7 +7104,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "BC Farm Museum",
-                  "text": "A BC Farm Museum egy múzeum fort-langley-history-v2-ben.",
+                  "text": "Mezőgazdasági történeti múzeum Langleyben.",
                   "category": "museum",
                   "coords": [
                         -122.575494,
@@ -7113,7 +7113,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Portage",
-                  "text": "A The Portage egy emlékmű fort-langley-history-v2-ben.",
+                  "text": "Történelmi portage-ösvény Langleyben, egy kereskedelmi útvonal része.",
                   "category": "historical",
                   "coords": [
                         -122.608604,
@@ -7122,7 +7122,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Telegraph Trail",
-                  "text": "A Telegraph Trail egy emlékmű fort-langley-history-v2-ben.",
+                  "text": "Történelmi távíróvonal Langleyben, a régi útvonal mentén.",
                   "category": "historical",
                   "coords": [
                         -122.594282,
@@ -7131,7 +7131,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "David Truman Memorial Bird Garden",
-                  "text": "A David Truman Memorial Bird Garden egy emlékhely fort-langley-history-v2-ben.",
+                  "text": "David Truman Madáremlékkert, madárparadicsom Langleyben.",
                   "category": "historical",
                   "coords": [
                         -122.638147,
@@ -7140,7 +7140,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Theatre in the Country",
-                  "text": "A Theatre in the Country egy színház fort-langley-history-v2-ben.",
+                  "text": "A 2013-ban megnyílt Theatre in the Country Langley-ben egy vidéki színház.",
                   "category": "cultural",
                   "coords": [
                         -122.652343,
@@ -7149,7 +7149,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Prairie Methodist Church",
-                  "text": "A Langley Prairie Methodist Church egy templom fort-langley-history-v2-ben.",
+                  "text": "Langley Prairie Methodist Church, 1886. május 23-án épült, védett örökség.",
                   "category": "religious",
                   "coords": [
                         -122.623886,
@@ -7158,7 +7158,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chief Sepass Theater",
-                  "text": "A Chief Sepass Theater egy színház fort-langley-history-v2-ben.",
+                  "text": "Színház, mely Sepass főnökről kapta nevét Langleyben.",
                   "category": "cultural",
                   "coords": [
                         -122.587456,
@@ -7167,7 +7167,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Spirit Square",
-                  "text": "A Langley Spirit Square egy színház fort-langley-history-v2-ben.",
+                  "text": "Nyilvános tér Langley szívében.",
                   "category": "cultural",
                   "coords": [
                         -122.653815,
@@ -7176,7 +7176,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kanaka Creek Fish Fence",
-                  "text": "A Kanaka Creek Fish Fence egy látnivaló fort-langley-history-v2-ben.",
+                  "text": "Történelmi halfogó a Kanaka-patakon Langleyben.",
                   "category": "landmark",
                   "coords": [
                         -122.557059,
@@ -7185,7 +7185,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Original Fort Langley Site",
-                  "text": "A Original Fort Langley Site egy látnivaló fort-langley-history-v2-ben.",
+                  "text": "A Fort Langley eredeti helye, emléktáblákkal jelölve.",
                   "category": "landmark",
                   "coords": [
                         -122.593905,
@@ -7194,7 +7194,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glow Gardens Langley",
-                  "text": "A Glow Gardens Langley egy látnivaló fort-langley-history-v2-ben.",
+                  "text": "Kivilágított kert színes fényinstallációkkal Langleyben.",
                   "category": "landmark",
                   "coords": [
                         -122.623165,
@@ -7203,7 +7203,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Bog at Riverside Cranberry Farm",
-                  "text": "A The Bog at Riverside Cranberry Farm egy látnivaló fort-langley-history-v2-ben.",
+                  "text": "Tőzegáfonya-mocsár a Riverside Cranberry Farmon Langleyben.",
                   "category": "landmark",
                   "coords": [
                         -122.482779,
@@ -7212,7 +7212,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kanaka Creek Watershed Stewardship Centre",
-                  "text": "A Kanaka Creek Watershed Stewardship Centre egy látványosság Fort Langleyben, amely a vízgyűjtő terület védelmével foglalkozik.",
+                  "text": "A Kanaka-patak vízgyűjtőjének oktatási központja Langleyben.",
                   "category": "landmark",
                   "coords": [
                         -122.507305,
@@ -7221,7 +7221,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Thunderbird Show Park",
-                  "text": "A Thunderbird Show Park egy rendezvénypark Fort Langleyben.",
+                  "text": "Lovassport-park Langleyben, díjugrató versenyekkel.",
                   "category": "landmark",
                   "coords": [
                         -122.542183,
@@ -7230,7 +7230,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tavistock Point",
-                  "text": "A Tavistock Point egy kilátópont Fort Langleyben.",
+                  "text": "Természetes földnyelv a Fraser-folyónál Langleyben.",
                   "category": "natural",
                   "coords": [
                         -122.588504,
@@ -7239,7 +7239,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Bog",
-                  "text": "A Langley Bog egy természetvédelmi terület Fort Langleyben.",
+                  "text": "Tőzegláp Langleyben, ritka tőzegnövényzettel.",
                   "category": "natural",
                   "coords": [
                         -122.610382,
@@ -7248,7 +7248,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hope Redwoods Nature Area",
-                  "text": "A Hope Redwoods Nature Area egy természetvédelmi terület Fort Langleyben.",
+                  "text": "Természetvédelmi terület mamutfenyőkkel Langleyben.",
                   "category": "natural",
                   "coords": [
                         -122.61623,
@@ -7257,7 +7257,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "North Alouette Regional Greenway",
-                  "text": "A North Alouette Regional Greenway egy természetvédelmi terület Fort Langleyben.",
+                  "text": "Regionális zöldfolyosó a North Alouette folyó mentén Langleyben.",
                   "category": "natural",
                   "coords": [
                         -122.613585,
@@ -7266,7 +7266,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harris Landing Park",
-                  "text": "A Harris Landing Park egy természetvédelmi terület Fort Langleyben.",
+                  "text": "Park a Fraser-folyó partján Langleyben.",
                   "category": "natural",
                   "coords": [
                         -122.693249,
@@ -7275,7 +7275,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Port Kells Park",
-                  "text": "A Port Kells Park egy park Fort Langleyben.",
+                  "text": "Port Kells Park, 1933-ban létesített park Langley-ben, védett örökség.",
                   "category": "park",
                   "coords": [
                         -122.686827,
@@ -7284,7 +7284,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ponder Park",
-                  "text": "A Ponder Park egy természetvédelmi terület Fort Langleyben.",
+                  "text": "Szomszédsági park játszótérrel és zöldterületekkel Langleyben.",
                   "category": "natural",
                   "coords": [
                         -122.531198,
@@ -7331,7 +7331,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The ACT Arts Centre",
-                  "text": "The ACT Arts Centre este un centru de artă în fort-langley-history-v2.",
+                  "text": "Un centru de arte spectacolului în Langley, care găzduiește evenimente de teatru și muzică.",
                   "category": "cultural",
                   "coords": [
                         -122.59845,
@@ -7340,7 +7340,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vancouver British Columbia Temple",
-                  "text": "Vancouver British Columbia Temple este un lăcaș de cult în fort-langley-history-v2.",
+                  "text": "Singurul templu LDS din Columbia Britanică, situat în Langley.",
                   "category": "religious",
                   "coords": [
                         -122.658011,
@@ -7349,7 +7349,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's United Church",
-                  "text": "Saint Andrew's United Church este un lăcaș de cult în fort-langley-history-v2.",
+                  "text": "O biserică United Church cu statut de patrimoniu în Langley, cu vitralii.",
                   "category": "religious",
                   "coords": [
                         -122.582482,
@@ -7358,7 +7358,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Northeast bastion",
-                  "text": "Northeast bastion este un turn în fort-langley-history-v2.",
+                  "text": "Bastionul istoric de nord-est al Sitului Istoric Național Fort Langley din Langley.",
                   "category": "tower",
                   "coords": [
                         -122.570931,
@@ -7367,7 +7367,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grant Hill",
-                  "text": "Grant Hill este un vârf în fort-langley-history-v2.",
+                  "text": "Un deal natural în Langley, cu trasee de drumeție și vedere panoramică.",
                   "category": "natural",
                   "coords": [
                         -122.504769,
@@ -7376,7 +7376,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Derby Reach Regional Park",
-                  "text": "Derby Reach Regional Park este o rezervație naturală în fort-langley-history-v2.",
+                  "text": "Un parc regional de-a lungul râului Fraser în Langley, popular pentru drumeții și camping.",
                   "category": "natural",
                   "coords": [
                         -122.609375,
@@ -7385,7 +7385,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Brae Island Regional Park",
-                  "text": "Brae Island Regional Park este o rezervație naturală în fort-langley-history-v2.",
+                  "text": "Un parc regional pe o insulă în râul Fraser, lângă Langley.",
                   "category": "natural",
                   "coords": [
                         -122.58261,
@@ -7394,7 +7394,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Langley CN Station",
-                  "text": "Fort Langley CN Station este un muzeu în fort-langley-history-v2.",
+                  "text": "Muzeu în fosta gară CN din Fort Langley.",
                   "category": "museum",
                   "coords": [
                         -122.578341,
@@ -7403,7 +7403,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maple Ridge Museum",
-                  "text": "Maple Ridge Museum este un muzeu în fort-langley-history-v2.",
+                  "text": "Muzeu al istoriei Maple Ridge, situat în Langley.",
                   "category": "museum",
                   "coords": [
                         -122.597596,
@@ -7412,7 +7412,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pitt Meadows Art Gallery",
-                  "text": "Pitt Meadows Art Gallery este un muzeu în fort-langley-history-v2.",
+                  "text": "Galerie de artă în Pitt Meadows, Langley.",
                   "category": "museum",
                   "coords": [
                         -122.680301,
@@ -7421,7 +7421,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Haney House",
-                  "text": "Haney House este un muzeu în fort-langley-history-v2.",
+                  "text": "Muzeu al unei case istorice în cartierul Haney din Langley.",
                   "category": "museum",
                   "coords": [
                         -122.602087,
@@ -7430,7 +7430,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Langley",
-                  "text": "Fort Langley este un muzeu în fort-langley-history-v2.",
+                  "text": "Fortăreață reconstruită a companiei Hudson's Bay pentru comerțul cu blănuri, în Langley.",
                   "category": "museum",
                   "coords": [
                         -122.572139,
@@ -7439,7 +7439,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "BC Farm Museum",
-                  "text": "BC Farm Museum este un muzeu în fort-langley-history-v2.",
+                  "text": "Muzeu al istoriei agricole în Langley.",
                   "category": "museum",
                   "coords": [
                         -122.575494,
@@ -7448,7 +7448,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Portage",
-                  "text": "The Portage este un monument în fort-langley-history-v2.",
+                  "text": "Potecă istorică de portaj în Langley, parte a unui traseu comercial.",
                   "category": "historical",
                   "coords": [
                         -122.608604,
@@ -7457,7 +7457,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Telegraph Trail",
-                  "text": "Telegraph Trail este un monument în fort-langley-history-v2.",
+                  "text": "Linie telegrafică istorică în Langley, de-a lungul traseului vechi.",
                   "category": "historical",
                   "coords": [
                         -122.594282,
@@ -7466,7 +7466,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "David Truman Memorial Bird Garden",
-                  "text": "David Truman Memorial Bird Garden este un memorial în fort-langley-history-v2.",
+                  "text": "Grădină memorială pentru păsări David Truman, un paradis ornitologic în Langley.",
                   "category": "historical",
                   "coords": [
                         -122.638147,
@@ -7475,7 +7475,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Theatre in the Country",
-                  "text": "Theatre in the Country este un teatru în fort-langley-history-v2.",
+                  "text": "Teatrul „Theatre in the Country” din Langley, deschis în 2013, este un teatru rural.",
                   "category": "cultural",
                   "coords": [
                         -122.652343,
@@ -7484,7 +7484,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Prairie Methodist Church",
-                  "text": "Langley Prairie Methodist Church este o biserică în fort-langley-history-v2.",
+                  "text": "Biserica metodistă Langley Prairie, construită la 23 mai 1886, patrimoniu protejat.",
                   "category": "religious",
                   "coords": [
                         -122.623886,
@@ -7493,7 +7493,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chief Sepass Theater",
-                  "text": "Chief Sepass Theater este un teatru în fort-langley-history-v2.",
+                  "text": "Teatru numit după șeful Sepass, în Langley.",
                   "category": "cultural",
                   "coords": [
                         -122.587456,
@@ -7502,7 +7502,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Spirit Square",
-                  "text": "Langley Spirit Square este un teatru în fort-langley-history-v2.",
+                  "text": "Piață publică în inima orașului Langley.",
                   "category": "cultural",
                   "coords": [
                         -122.653815,
@@ -7511,7 +7511,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kanaka Creek Fish Fence",
-                  "text": "Kanaka Creek Fish Fence este o atracție în fort-langley-history-v2.",
+                  "text": "Gard de pești istoric pe pârâul Kanaka din Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.557059,
@@ -7520,7 +7520,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Original Fort Langley Site",
-                  "text": "Original Fort Langley Site este o atracție în fort-langley-history-v2.",
+                  "text": "Locația originală a Fort Langley, marcată cu plăci comemorative.",
                   "category": "landmark",
                   "coords": [
                         -122.593905,
@@ -7529,7 +7529,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glow Gardens Langley",
-                  "text": "Glow Gardens Langley este o atracție în fort-langley-history-v2.",
+                  "text": "Grădină iluminată cu instalații luminoase colorate în Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.623165,
@@ -7538,7 +7538,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Bog at Riverside Cranberry Farm",
-                  "text": "The Bog at Riverside Cranberry Farm este o atracție în fort-langley-history-v2.",
+                  "text": "Mlaștină de merișoare la ferma Riverside Cranberry din Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.482779,
@@ -7547,7 +7547,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kanaka Creek Watershed Stewardship Centre",
-                  "text": "Centrul de administrare a bazinului hidrografic Kanaka Creek este o atracție în Fort Langley, dedicată protejării bazinului hidrografic.",
+                  "text": "Centru educațional pentru bazinul hidrografic al pârâului Kanaka din Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.507305,
@@ -7556,7 +7556,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Thunderbird Show Park",
-                  "text": "Thunderbird Show Park este un parc de evenimente în Fort Langley.",
+                  "text": "Parc ecvestru în Langley, cu competiții de sărituri peste obstacole.",
                   "category": "landmark",
                   "coords": [
                         -122.542183,
@@ -7565,7 +7565,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tavistock Point",
-                  "text": "Tavistock Point este un punct de belvedere în Fort Langley.",
+                  "text": "Punct natural pe malul râului Fraser în Langley.",
                   "category": "natural",
                   "coords": [
                         -122.588504,
@@ -7574,7 +7574,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Bog",
-                  "text": "Langley Bog este o rezervație naturală în Fort Langley.",
+                  "text": "Mlaștină de turbă în Langley, cu vegetație rară de turbă.",
                   "category": "natural",
                   "coords": [
                         -122.610382,
@@ -7583,7 +7583,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hope Redwoods Nature Area",
-                  "text": "Hope Redwoods Nature Area este o rezervație naturală în Fort Langley.",
+                  "text": "Zonă naturală cu sequoia în Langley.",
                   "category": "natural",
                   "coords": [
                         -122.61623,
@@ -7592,7 +7592,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "North Alouette Regional Greenway",
-                  "text": "North Alouette Regional Greenway este o rezervație naturală în Fort Langley.",
+                  "text": "Culoar verde regional de-a lungul râului North Alouette din Langley.",
                   "category": "natural",
                   "coords": [
                         -122.613585,
@@ -7601,7 +7601,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harris Landing Park",
-                  "text": "Harris Landing Park este o rezervație naturală în Fort Langley.",
+                  "text": "Parc pe malul râului Fraser în Langley.",
                   "category": "natural",
                   "coords": [
                         -122.693249,
@@ -7610,7 +7610,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Port Kells Park",
-                  "text": "Port Kells Park este un parc în Fort Langley.",
+                  "text": "Parcul Port Kells, amenajat în 1933 în Langley, patrimoniu protejat.",
                   "category": "park",
                   "coords": [
                         -122.686827,
@@ -7619,7 +7619,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ponder Park",
-                  "text": "Ponder Park este o rezervație naturală în Fort Langley.",
+                  "text": "Parc de cartier cu loc de joacă și spații verzi în Langley.",
                   "category": "natural",
                   "coords": [
                         -122.531198,
@@ -7666,7 +7666,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The ACT Arts Centre",
-                  "text": "The ACT Arts Centre is an arts centre in fort-langley-history-v2.",
+                  "text": "A performing arts centre in Langley hosting theatre and music events.",
                   "category": "cultural",
                   "coords": [
                         -122.59845,
@@ -7675,7 +7675,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vancouver British Columbia Temple",
-                  "text": "The Vancouver British Columbia Temple is a place of worship in fort-langley-history-v2.",
+                  "text": "The only LDS temple in British Columbia, located in Langley.",
                   "category": "religious",
                   "coords": [
                         -122.658011,
@@ -7684,7 +7684,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Andrew's United Church",
-                  "text": "Saint Andrew's United Church is a place of worship in fort-langley-history-v2.",
+                  "text": "A heritage-designated United Church in Langley with stained glass windows.",
                   "category": "religious",
                   "coords": [
                         -122.582482,
@@ -7693,7 +7693,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Northeast bastion",
-                  "text": "The Northeast bastion is a tower in fort-langley-history-v2.",
+                  "text": "The historic northeast bastion of Fort Langley National Historic Site in Langley.",
                   "category": "tower",
                   "coords": [
                         -122.570931,
@@ -7702,7 +7702,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grant Hill",
-                  "text": "Grant Hill is a peak in fort-langley-history-v2.",
+                  "text": "A natural hill in Langley with hiking trails and views.",
                   "category": "natural",
                   "coords": [
                         -122.504769,
@@ -7711,7 +7711,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Derby Reach Regional Park",
-                  "text": "Derby Reach Regional Park is a nature reserve in fort-langley-history-v2.",
+                  "text": "A regional park along the Fraser River in Langley, popular for hiking and camping.",
                   "category": "natural",
                   "coords": [
                         -122.609375,
@@ -7720,7 +7720,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Brae Island Regional Park",
-                  "text": "Brae Island Regional Park is a nature reserve in fort-langley-history-v2.",
+                  "text": "A regional park on an island in the Fraser River near Langley.",
                   "category": "natural",
                   "coords": [
                         -122.58261,
@@ -7729,7 +7729,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Langley CN Station",
-                  "text": "Fort Langley CN Station is a museum in fort-langley-history-v2.",
+                  "text": "Museum in the former CN railway station of Fort Langley.",
                   "category": "museum",
                   "coords": [
                         -122.578341,
@@ -7738,7 +7738,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maple Ridge Museum",
-                  "text": "Maple Ridge Museum is a museum in fort-langley-history-v2.",
+                  "text": "Museum of Maple Ridge history, located in Langley.",
                   "category": "museum",
                   "coords": [
                         -122.597596,
@@ -7747,7 +7747,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pitt Meadows Art Gallery",
-                  "text": "Pitt Meadows Art Gallery is a museum in fort-langley-history-v2.",
+                  "text": "Art gallery in Pitt Meadows, Langley.",
                   "category": "museum",
                   "coords": [
                         -122.680301,
@@ -7756,7 +7756,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Haney House",
-                  "text": "Haney House is a museum in fort-langley-history-v2.",
+                  "text": "Historic house museum in the Haney area of Langley.",
                   "category": "museum",
                   "coords": [
                         -122.602087,
@@ -7765,7 +7765,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Langley",
-                  "text": "Fort Langley is a museum in fort-langley-history-v2.",
+                  "text": "Reconstructed Hudson's Bay Company fur trade fort in Langley.",
                   "category": "museum",
                   "coords": [
                         -122.572139,
@@ -7774,7 +7774,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "BC Farm Museum",
-                  "text": "The BC Farm Museum is a museum in fort-langley-history-v2.",
+                  "text": "Museum of agricultural history in Langley.",
                   "category": "museum",
                   "coords": [
                         -122.575494,
@@ -7783,7 +7783,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Portage",
-                  "text": "The Portage is a monument in fort-langley-history-v2.",
+                  "text": "Historic portage trail in Langley, part of a trade route.",
                   "category": "historical",
                   "coords": [
                         -122.608604,
@@ -7792,7 +7792,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Telegraph Trail",
-                  "text": "The Telegraph Trail is a monument in fort-langley-history-v2.",
+                  "text": "Historic telegraph line in Langley, along the old route.",
                   "category": "historical",
                   "coords": [
                         -122.594282,
@@ -7801,7 +7801,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "David Truman Memorial Bird Garden",
-                  "text": "The David Truman Memorial Bird Garden is a memorial in fort-langley-history-v2.",
+                  "text": "David Truman Memorial Bird Garden, a bird sanctuary in Langley.",
                   "category": "historical",
                   "coords": [
                         -122.638147,
@@ -7810,7 +7810,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Theatre in the Country",
-                  "text": "Theatre in the Country is a theatre in fort-langley-history-v2.",
+                  "text": "Theatre in the Country, opened in 2013, is a rural theatre in Langley.",
                   "category": "cultural",
                   "coords": [
                         -122.652343,
@@ -7819,7 +7819,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Prairie Methodist Church",
-                  "text": "Langley Prairie Methodist Church is a church in fort-langley-history-v2.",
+                  "text": "Langley Prairie Methodist Church, built on May 23, 1886, listed heritage.",
                   "category": "religious",
                   "coords": [
                         -122.623886,
@@ -7828,7 +7828,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chief Sepass Theater",
-                  "text": "Chief Sepass Theater is a theatre in fort-langley-history-v2.",
+                  "text": "Theater named after Chief Sepass in Langley.",
                   "category": "cultural",
                   "coords": [
                         -122.587456,
@@ -7837,7 +7837,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Spirit Square",
-                  "text": "Langley Spirit Square is a theatre in fort-langley-history-v2.",
+                  "text": "Public square in the heart of Langley.",
                   "category": "cultural",
                   "coords": [
                         -122.653815,
@@ -7846,7 +7846,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kanaka Creek Fish Fence",
-                  "text": "Kanaka Creek Fish Fence is an attraction in fort-langley-history-v2.",
+                  "text": "Historic fish fence on Kanaka Creek in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.557059,
@@ -7855,7 +7855,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Original Fort Langley Site",
-                  "text": "The Original Fort Langley Site is an attraction in fort-langley-history-v2.",
+                  "text": "Original site of Fort Langley, marked by commemorative plaques.",
                   "category": "landmark",
                   "coords": [
                         -122.593905,
@@ -7864,7 +7864,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glow Gardens Langley",
-                  "text": "Glow Gardens Langley is an attraction in fort-langley-history-v2.",
+                  "text": "Illuminated garden with colorful light installations in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.623165,
@@ -7873,7 +7873,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Bog at Riverside Cranberry Farm",
-                  "text": "The Bog at Riverside Cranberry Farm is an attraction in fort-langley-history-v2.",
+                  "text": "Cranberry bog at Riverside Cranberry Farm in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.482779,
@@ -7882,7 +7882,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kanaka Creek Watershed Stewardship Centre",
-                  "text": "The Kanaka Creek Watershed Stewardship Centre is an attraction in Fort Langley focused on watershed stewardship.",
+                  "text": "Watershed stewardship education centre for Kanaka Creek in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.507305,
@@ -7891,7 +7891,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Thunderbird Show Park",
-                  "text": "Thunderbird Show Park is an event park in Fort Langley.",
+                  "text": "Equestrian show park in Langley, hosting jumping competitions.",
                   "category": "landmark",
                   "coords": [
                         -122.542183,
@@ -7900,7 +7900,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tavistock Point",
-                  "text": "Tavistock Point is a viewpoint in Fort Langley.",
+                  "text": "Natural point on the Fraser River in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.588504,
@@ -7909,7 +7909,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langley Bog",
-                  "text": "Langley Bog is a nature reserve in Fort Langley.",
+                  "text": "Raised bog in Langley with rare peat vegetation.",
                   "category": "natural",
                   "coords": [
                         -122.610382,
@@ -7918,7 +7918,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hope Redwoods Nature Area",
-                  "text": "Hope Redwoods Nature Area is a nature reserve in Fort Langley.",
+                  "text": "Nature area with redwood trees in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.61623,
@@ -7927,7 +7927,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "North Alouette Regional Greenway",
-                  "text": "North Alouette Regional Greenway is a nature reserve in Fort Langley.",
+                  "text": "Regional greenway along the North Alouette River in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.613585,
@@ -7936,7 +7936,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harris Landing Park",
-                  "text": "Harris Landing Park is a nature reserve in Fort Langley.",
+                  "text": "Park on the Fraser River shoreline in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.693249,
@@ -7945,7 +7945,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Port Kells Park",
-                  "text": "Port Kells Park is a park in Fort Langley.",
+                  "text": "Port Kells Park, established in 1933 in Langley, heritage site.",
                   "category": "park",
                   "coords": [
                         -122.686827,
@@ -7954,7 +7954,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ponder Park",
-                  "text": "Ponder Park is a nature reserve in Fort Langley.",
+                  "text": "Neighbourhood park with playground and green spaces in Langley.",
                   "category": "natural",
                   "coords": [
                         -122.531198,
@@ -8023,7 +8023,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bloom Galerie D'Art",
-                  "text": "Bloom Galerie D'Art ist eine Kunstgalerie in Alt-Montreal.",
+                  "text": "Kunstgalerie in Montreal mit zeitgenössischen Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         -73.555433,
@@ -8032,7 +8032,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "L'Original",
-                  "text": "L'Original ist eine Galerie in Alt-Montreal.",
+                  "text": "Museum für Design und Alltagskultur in Montreal.",
                   "category": "museum",
                   "coords": [
                         -73.555053,
@@ -8041,7 +8041,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Entre Nous",
-                  "text": "Entre Nous ist eine Sehenswürdigkeit in Alt-Montreal.",
+                  "text": "Wahrzeichen in Montreal, ein öffentlicher Kunstpavillon.",
                   "category": "landmark",
                   "coords": [
                         -73.554054,
@@ -8050,7 +8050,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Impact Galerie",
-                  "text": "Impact Galerie ist eine Galerie in Alt-Montreal.",
+                  "text": "Galerie für zeitgenössische Fotografie und Drucke in Montreal.",
                   "category": "museum",
                   "coords": [
                         -73.556278,
@@ -8059,7 +8059,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre des sciences de Montréal",
-                  "text": "Das Centre des sciences de Montréal ist ein Wissenschaftszentrum im Alten Hafen von Montreal.",
+                  "text": "Das Centre des sciences de Montréal in Montreal bietet interaktive Ausstellungen zu Wissenschaft und Technologie.",
                   "category": "museum",
                   "coords": [
                         -73.551325,
@@ -8079,7 +8079,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bloom Galerie D'Art",
-                  "text": "A Bloom Galerie D'Art egy művészeti galéria a régi Montreálban.",
+                  "text": "Kortárs kiállításoknak otthont adó művészeti galéria Montrealban.",
                   "category": "museum",
                   "coords": [
                         -73.555433,
@@ -8088,7 +8088,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "L'Original",
-                  "text": "A L'Original egy galéria a régi Montreálban.",
+                  "text": "Design- és mindennapi kultúra múzeuma Montrealban.",
                   "category": "museum",
                   "coords": [
                         -73.555053,
@@ -8097,7 +8097,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Entre Nous",
-                  "text": "Az Entre Nous egy látványosság a régi Montreálban.",
+                  "text": "Nevezetesség Montrealban, egy nyilvános művészeti pavilon.",
                   "category": "landmark",
                   "coords": [
                         -73.554054,
@@ -8106,7 +8106,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Impact Galerie",
-                  "text": "Az Impact Galerie egy galéria a régi Montreálban.",
+                  "text": "Kortárs fotográfiai és nyomatok galériája Montrealban.",
                   "category": "museum",
                   "coords": [
                         -73.556278,
@@ -8115,7 +8115,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre des sciences de Montréal",
-                  "text": "A Centre des sciences de Montréal egy tudományos központ a Montreáli Óvárosban.",
+                  "text": "A Montreali Tudományos Központ interaktív kiállításokat kínál tudományról és technológiáról.",
                   "category": "museum",
                   "coords": [
                         -73.551325,
@@ -8135,7 +8135,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bloom Galerie D'Art",
-                  "text": "Bloom Galerie D'Art este o galerie de artă din Vechiul Montreal.",
+                  "text": "Galerie de artă contemporană în Montreal.",
                   "category": "museum",
                   "coords": [
                         -73.555433,
@@ -8144,7 +8144,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "L'Original",
-                  "text": "L'Original este o galerie din Vechiul Montreal.",
+                  "text": "Muzeu al designului și culturii cotidiene în Montreal.",
                   "category": "museum",
                   "coords": [
                         -73.555053,
@@ -8153,7 +8153,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Entre Nous",
-                  "text": "Entre Nous este o atracție în Vechiul Montreal.",
+                  "text": "Reper în Montreal, un pavilion de artă publică.",
                   "category": "landmark",
                   "coords": [
                         -73.554054,
@@ -8162,7 +8162,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Impact Galerie",
-                  "text": "Impact Galerie este o galerie din Vechiul Montreal.",
+                  "text": "Galerie de fotografie contemporană și printuri în Montreal.",
                   "category": "museum",
                   "coords": [
                         -73.556278,
@@ -8171,7 +8171,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre des sciences de Montréal",
-                  "text": "Centre des sciences de Montréal este un centru științific în Vechiul Port din Montreal.",
+                  "text": "Centrul de Știință din Montréal oferă expoziții interactive despre știință și tehnologie.",
                   "category": "museum",
                   "coords": [
                         -73.551325,
@@ -8191,7 +8191,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bloom Galerie D'Art",
-                  "text": "Bloom Galerie D'Art is an art gallery in Old Montreal.",
+                  "text": "Art gallery in Montreal featuring contemporary exhibitions.",
                   "category": "museum",
                   "coords": [
                         -73.555433,
@@ -8200,7 +8200,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "L'Original",
-                  "text": "L'Original is a gallery in Old Montreal.",
+                  "text": "Museum of design and everyday culture in Montreal.",
                   "category": "museum",
                   "coords": [
                         -73.555053,
@@ -8209,7 +8209,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Entre Nous",
-                  "text": "Entre Nous is an attraction in Old Montreal.",
+                  "text": "Landmark in Montreal, a public art pavilion.",
                   "category": "landmark",
                   "coords": [
                         -73.554054,
@@ -8218,7 +8218,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Impact Galerie",
-                  "text": "Impact Galerie is a gallery in Old Montreal.",
+                  "text": "Gallery of contemporary photography and prints in Montreal.",
                   "category": "museum",
                   "coords": [
                         -73.556278,
@@ -8227,7 +8227,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre des sciences de Montréal",
-                  "text": "The Centre des sciences de Montréal is a science centre in the Old Port of Montreal.",
+                  "text": "The Centre des sciences de Montréal on the Old Port features hands-on exhibits and an IMAX theatre.",
                   "category": "museum",
                   "coords": [
                         -73.551325,
@@ -8287,7 +8287,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Toronto Harbour Light",
-                  "text": "Das Toronto Harbour Light ist ein Leuchtturm am Hafen von Toronto.",
+                  "text": "Der Toronto Harbour Light ist ein Leuchtturm am Eingang des Torontoer Hafens am Ontariosee.",
                   "category": "landmark",
                   "coords": [
                         -79.343416,
@@ -8296,7 +8296,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Outer Harbour",
-                  "text": "Die Outer Harbour ist eine Bucht im Distillery District von Toronto.",
+                  "text": "Der äußere Hafen von Toronto mit Yachthäfen und Fährterminals.",
                   "category": "landmark",
                   "coords": [
                         -79.337742,
@@ -8305,7 +8305,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bayside Gallery",
-                  "text": "Die Bayside Gallery ist eine Kunstgalerie im Distillery District von Toronto.",
+                  "text": "Kunstgalerie am Ufer des Ontariosees in Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.363784,
@@ -8323,7 +8323,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Stage",
-                  "text": "Die Canadian Stage ist ein Theater im Distillery District von Toronto.",
+                  "text": "Eine führende Theaterkompanie in Toronto, die im Bluma Appel Theatre auftritt.",
                   "category": "cultural",
                   "coords": [
                         -79.364055,
@@ -8332,7 +8332,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mimi Hernndorf Studio Theatre",
-                  "text": "Das Mimi Hernndorf Studio Theatre ist ein Theater im Distillery District von Toronto.",
+                  "text": "Ein Studiotheater im Künstlerviertel von Toronto, benannt nach einem bekannten Mäzen.",
                   "category": "cultural",
                   "coords": [
                         -79.36603,
@@ -8341,7 +8341,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Queen Gallery",
-                  "text": "Die Queen Gallery ist eine Kunstgalerie im Distillery District von Toronto.",
+                  "text": "Galerie an der Queen Street West in Toronto, spezialisiert auf lokale Künstler.",
                   "category": "museum",
                   "coords": [
                         -79.363407,
@@ -8350,7 +8350,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Lost & Found",
-                  "text": "Die The Lost & Found ist eine Kunstgalerie im Distillery District von Toronto.",
+                  "text": "Museum für Fundsachen und verschollene Gegenstände in Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.362163,
@@ -8359,7 +8359,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Opera House",
-                  "text": "Das The Opera House ist ein Theater im Distillery District von Toronto.",
+                  "text": "Ein historischer Musikclub an der Queen Street East in Toronto mit Live-Konzerten.",
                   "category": "cultural",
                   "coords": [
                         -79.348786,
@@ -8368,7 +8368,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Turning Basin",
-                  "text": "Der Turning Basin ist eine Bucht im Distillery District von Toronto.",
+                  "text": "Ein Wendebecken für Schiffe im inneren Hafen von Toronto.",
                   "category": "landmark",
                   "coords": [
                         -79.332531,
@@ -8377,7 +8377,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Sandcastle Theatre",
-                  "text": "Das Red Sandcastle Theatre ist ein Theater im Distillery District von Toronto.",
+                  "text": "Rot gestrichenes Theaterhaus in Toronto mit intimen Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -79.341911,
@@ -8386,7 +8386,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Edward Jackman Centre",
-                  "text": "Das The Edward Jackman Centre ist ein Theater im Distillery District von Toronto.",
+                  "text": "Ein Kulturzentrum im Cabbagetown-Viertel von Toronto.",
                   "category": "cultural",
                   "coords": [
                         -79.339676,
@@ -8395,7 +8395,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Aki Studio",
-                  "text": "Das Aki Studio ist ein Theater im Distillery District von Toronto.",
+                  "text": "Indigenes Theaterstudio in Toronto, Aufführungen von First-Nations-Künstlern.",
                   "category": "cultural",
                   "coords": [
                         -79.362082,
@@ -8413,7 +8413,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bayview Beach",
-                  "text": "Bayview Beach ist ein Strand in Toronto.",
+                  "text": "Strandabschnitt an der Bayview Avenue in Toronto, künstlich angelegt.",
                   "category": "recreational",
                   "coords": [
                         -79.357045,
@@ -8422,7 +8422,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wards Island Beach",
-                  "text": "Wards Island Beach ist ein Strand auf Ward's Island in Toronto.",
+                  "text": "Ein Sandstrand auf Wards Island im Ontariosee, Teil der Toronto Islands.",
                   "category": "recreational",
                   "coords": [
                         -79.351722,
@@ -8440,7 +8440,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cherry Beach",
-                  "text": "Cherry Beach ist ein beliebter Strand in den Port Lands von Toronto.",
+                  "text": "Cherry Beach in Toronto ist ein Sandstrand am Ontariosee mit Picknickplätzen und Blick auf die Stadt.",
                   "category": "recreational",
                   "coords": [
                         -79.343744,
@@ -8449,7 +8449,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cherry Street Strauss Trunnion Bascule Bridge",
-                  "text": "Die Cherry Street Strauss Trunnion Bascule Bridge ist eine Klappbrücke, die den Keating Channel in Toronto überspannt.",
+                  "text": "Die Cherry Street Strauss Trunnion Bascule Bridge in Toronto ist eine bewegliche Klappbrücke aus dem Jahr 1932.",
                   "category": "landmark",
                   "coords": [
                         -79.349099,
@@ -8458,7 +8458,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deaf Culture Centre",
-                  "text": "Das Deaf Culture Centre ist ein Museum für Gehörlosenkultur in Toronto.",
+                  "text": "Zentrum für Gehörlosenkultur in Toronto, Ausstellungen und Events.",
                   "category": "museum",
                   "coords": [
                         -79.359946,
@@ -8467,7 +8467,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Macedonian Bulgarian Orthodox",
-                  "text": "Die mazedonisch-bulgarisch-orthodoxe Kirche ist ein Gotteshaus in Toronto.",
+                  "text": "Eine mazedonisch-bulgarisch-orthodoxe Kirche in Toronto, die der slawischen Gemeinschaft dient.",
                   "category": "religious",
                   "coords": [
                         -79.36336,
@@ -8476,7 +8476,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Underpass Park",
-                  "text": "Underpass Park ist ein Park unter einem Viadukt in Toronto.",
+                  "text": "Ein Park unter der Gardiner Expressway in Torontos West Don Lands.",
                   "category": "park",
                   "coords": [
                         -79.354748,
@@ -8503,7 +8503,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Regent Park Athletic Grounds",
-                  "text": "Der Regent Park Athletic Grounds ist ein Sportpark im Viertel Regent Park in Toronto.",
+                  "text": "Ein Sportplatz-Komplex im Regent Park-Viertel von Toronto.",
                   "category": "park",
                   "coords": [
                         -79.359111,
@@ -8512,7 +8512,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Barthomew",
-                  "text": "St. Barthomew ist eine dem heiligen Bartholomäus geweihte Kirche in Toronto.",
+                  "text": "Die St. Bartholomew's Anglican Church im Regent Park-Gebiet von Toronto.",
                   "category": "religious",
                   "coords": [
                         -79.36391,
@@ -8521,7 +8521,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Woodbine Beach",
-                  "text": "Woodbine Beach ist ein breiter Sandstrand im Viertel Beaches in Toronto.",
+                  "text": "Woodbine Beach in Toronto ist ein langer Sandstrand am Ontariosee mit Promenade und Volleyballplätzen.",
                   "category": "recreational",
                   "coords": [
                         -79.307165,
@@ -8532,7 +8532,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Toronto Harbour Light",
-                  "text": "A Toronto Harbour Light egy világítótorony a torontói kikötőben.",
+                  "text": "A Torontói Kikötő Világítótorony a Toronto kikötőjének bejáratánál található az Ontario-tó partján.",
                   "category": "landmark",
                   "coords": [
                         -79.343416,
@@ -8541,7 +8541,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Outer Harbour",
-                  "text": "Az Outer Harbour egy öböl Toronto Distillery negyedében.",
+                  "text": "Toronto külső kikötője, kikötőkkel és kompterminálokkal.",
                   "category": "landmark",
                   "coords": [
                         -79.337742,
@@ -8550,7 +8550,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bayside Gallery",
-                  "text": "A Bayside Galéria egy művészeti galéria Toronto Distillery negyedében.",
+                  "text": "Művészeti galéria az Ontario-tó partján Torontóban.",
                   "category": "museum",
                   "coords": [
                         -79.363784,
@@ -8568,7 +8568,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Stage",
-                  "text": "A Canadian Stage egy színház Toronto Distillery negyedében.",
+                  "text": "Vezető színházi társaság Torontóban, a Bluma Appel Színházban lép fel.",
                   "category": "cultural",
                   "coords": [
                         -79.364055,
@@ -8577,7 +8577,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mimi Hernndorf Studio Theatre",
-                  "text": "A Mimi Hernndorf Stúdió Színház egy színház Toronto Distillery negyedében.",
+                  "text": "Stúdiószínház Toronto kulturális negyedében, egy híres mecénásról elnevezve.",
                   "category": "cultural",
                   "coords": [
                         -79.36603,
@@ -8586,7 +8586,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Queen Gallery",
-                  "text": "A Queen Galéria egy művészeti galéria Toronto Distillery negyedében.",
+                  "text": "Galéria a Queen Street Westen Torontóban, helyi művészekre specializálódva.",
                   "category": "museum",
                   "coords": [
                         -79.363407,
@@ -8595,7 +8595,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Lost & Found",
-                  "text": "A The Lost & Found egy művészeti galéria Toronto Distillery negyedében.",
+                  "text": "Talált tárgyak és elveszett holmik múzeuma Torontóban.",
                   "category": "museum",
                   "coords": [
                         -79.362163,
@@ -8604,7 +8604,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Opera House",
-                  "text": "A The Opera House egy színház Toronto Distillery negyedében.",
+                  "text": "Történelmi zenei helyszín a Queen Street East-en Torontóban, élő koncertekkel.",
                   "category": "cultural",
                   "coords": [
                         -79.348786,
@@ -8613,7 +8613,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Turning Basin",
-                  "text": "A Turning Basin egy öböl Toronto Distillery negyedében.",
+                  "text": "Hajók fordulómedencéje Toronto belső kikötőjében.",
                   "category": "landmark",
                   "coords": [
                         -79.332531,
@@ -8622,7 +8622,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Sandcastle Theatre",
-                  "text": "A Red Sandcastle Theatre egy színház Toronto Distillery negyedében.",
+                  "text": "Pirosra festett színházépület Torontóban, intim előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -79.341911,
@@ -8631,7 +8631,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Edward Jackman Centre",
-                  "text": "A The Edward Jackman Centre egy színház Toronto Distillery negyedében.",
+                  "text": "Kulturális központ Toronto Cabbagetown negyedében.",
                   "category": "cultural",
                   "coords": [
                         -79.339676,
@@ -8640,7 +8640,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Aki Studio",
-                  "text": "A Aki Studio egy színház Toronto Distillery negyedében.",
+                  "text": "Őslakos színházstúdió Torontóban, First Nations művészek előadásai.",
                   "category": "cultural",
                   "coords": [
                         -79.362082,
@@ -8658,7 +8658,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bayview Beach",
-                  "text": "A Bayview Beach egy strand Torontóban.",
+                  "text": "Strand a Bayview Avenue mentén Torontóban, mesterségesen kialakítva.",
                   "category": "recreational",
                   "coords": [
                         -79.357045,
@@ -8667,7 +8667,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wards Island Beach",
-                  "text": "A Wards Island Beach egy strand a Torontóhoz tartozó Ward's Island szigeten.",
+                  "text": "Homokos strand Wards Island-en az Ontario-tóban, a Toronto-szigetek része.",
                   "category": "recreational",
                   "coords": [
                         -79.351722,
@@ -8685,7 +8685,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cherry Beach",
-                  "text": "A Cherry Beach egy népszerű strand Toronto Port Lands negyedében.",
+                  "text": "A Torontói Cherry Beach egy homokos strand az Ontario-tó partján, piknikezőhelyekkel és városképpel.",
                   "category": "recreational",
                   "coords": [
                         -79.343744,
@@ -8694,7 +8694,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cherry Street Strauss Trunnion Bascule Bridge",
-                  "text": "A Cherry Street Strauss Trunnion Bascule Bridge egy felnyitható híd, amely a torontói Keating-csatorna felett ível át.",
+                  "text": "A Torontói Cherry Street Strauss Trunnion Bascule Bridge egy 1932-ben épült felnyitható híd.",
                   "category": "landmark",
                   "coords": [
                         -79.349099,
@@ -8703,7 +8703,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deaf Culture Centre",
-                  "text": "A Deaf Culture Centre egy múzeum Torontóban, amely a siketek kultúrájának szentelt.",
+                  "text": "Siketek kulturális központja Torontóban, kiállításokkal és eseményekkel.",
                   "category": "museum",
                   "coords": [
                         -79.359946,
@@ -8712,7 +8712,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Macedonian Bulgarian Orthodox",
-                  "text": "A macedón-bolgár ortodox templom egy istentiszteleti hely Torontóban.",
+                  "text": "Macedón-bolgár ortodox templom Torontóban, a szláv közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         -79.36336,
@@ -8721,7 +8721,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Underpass Park",
-                  "text": "Az Underpass Park egy park egy viadukt alatt Torontóban.",
+                  "text": "Egy park a Gardiner felüljáró alatt Toronto West Don Lands területén.",
                   "category": "park",
                   "coords": [
                         -79.354748,
@@ -8748,7 +8748,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Regent Park Athletic Grounds",
-                  "text": "A Regent Park Athletic Grounds egy sportpark Toronto Regent Park negyedében.",
+                  "text": "Sportpálya-komplexum Toronto Regent Park negyedében.",
                   "category": "park",
                   "coords": [
                         -79.359111,
@@ -8757,7 +8757,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Barthomew",
-                  "text": "A Szent Bertalan-templom egy Torontóban található, Szent Bertalannak szentelt templom.",
+                  "text": "A Szent Bertalan anglikán templom Toronto Regent Park környékén.",
                   "category": "religious",
                   "coords": [
                         -79.36391,
@@ -8766,7 +8766,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Woodbine Beach",
-                  "text": "A Woodbine Beach egy széles homokos strand Toronto Beaches negyedében.",
+                  "text": "A Torontói Woodbine Beach egy hosszú homokos strand az Ontario-tó partján, sétánnyal és röplabdapályákkal.",
                   "category": "recreational",
                   "coords": [
                         -79.307165,
@@ -8777,7 +8777,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Toronto Harbour Light",
-                  "text": "Farul Portului Toronto este un far la intrarea în portul Toronto.",
+                  "text": "Farul Portului Toronto este un far la intrarea în portul Toronto pe Lacul Ontario.",
                   "category": "landmark",
                   "coords": [
                         -79.343416,
@@ -8786,7 +8786,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Outer Harbour",
-                  "text": "Portul Exterior este un golf în cartierul Distillery din Toronto.",
+                  "text": "Portul exterior al Toronto, cu porturi de agrement și terminale de feribot.",
                   "category": "landmark",
                   "coords": [
                         -79.337742,
@@ -8795,7 +8795,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bayside Gallery",
-                  "text": "Galeriile Bayside sunt o galerie de artă în cartierul Distillery din Toronto.",
+                  "text": "Galerie de artă pe malul lacului Ontario în Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.363784,
@@ -8813,7 +8813,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Stage",
-                  "text": "Scena Canadiană este un teatru în cartierul Distillery din Toronto.",
+                  "text": "O companie de teatru de frunte din Toronto, care joacă la Teatrul Bluma Appel.",
                   "category": "cultural",
                   "coords": [
                         -79.364055,
@@ -8822,7 +8822,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mimi Hernndorf Studio Theatre",
-                  "text": "Teatrul Studio Mimi Hernndorf este un teatru în cartierul Distillery din Toronto.",
+                  "text": "Un teatru studio în districtul cultural din Toronto, numit după un patron renumit.",
                   "category": "cultural",
                   "coords": [
                         -79.36603,
@@ -8831,7 +8831,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Queen Gallery",
-                  "text": "Galeriile Queen sunt o galerie de artă în cartierul Distillery din Toronto.",
+                  "text": "Galerie pe Queen Street West din Toronto, specializată pe artiști locali.",
                   "category": "museum",
                   "coords": [
                         -79.363407,
@@ -8840,7 +8840,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Lost & Found",
-                  "text": "Galeria The Lost & Found este o galerie de artă în cartierul Distillery din Toronto.",
+                  "text": "Muzeu al obiectelor pierdute și găsite în Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.362163,
@@ -8849,7 +8849,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Opera House",
-                  "text": "Casa de Operă este un teatru în cartierul Distillery din Toronto.",
+                  "text": "Un loc de muzică istoric pe Queen Street East din Toronto, cu concerte live.",
                   "category": "cultural",
                   "coords": [
                         -79.348786,
@@ -8858,7 +8858,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Turning Basin",
-                  "text": "Bazinul de întoarcere este un golf în cartierul Distillery din Toronto.",
+                  "text": "Un bazin de întoarcere pentru nave în portul interior al Toronto.",
                   "category": "landmark",
                   "coords": [
                         -79.332531,
@@ -8867,7 +8867,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Sandcastle Theatre",
-                  "text": "Teatrul Red Sandcastle este un teatru în cartierul Distillery din Toronto.",
+                  "text": "Teatru vopsit în roșu în Toronto, cu spectacole intime.",
                   "category": "cultural",
                   "coords": [
                         -79.341911,
@@ -8876,7 +8876,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Edward Jackman Centre",
-                  "text": "Centrul Edward Jackman este un teatru în cartierul Distillery din Toronto.",
+                  "text": "Un centru cultural în cartierul Cabbagetown din Toronto.",
                   "category": "cultural",
                   "coords": [
                         -79.339676,
@@ -8885,7 +8885,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Aki Studio",
-                  "text": "Studioul Aki este un teatru în cartierul Distillery din Toronto.",
+                  "text": "Studio de teatru indigen în Toronto, spectacole ale artiștilor First Nations.",
                   "category": "cultural",
                   "coords": [
                         -79.362082,
@@ -8903,7 +8903,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bayview Beach",
-                  "text": "Bayview Beach este o plajă în Toronto.",
+                  "text": "Plajă de-a lungul Bayview Avenue în Toronto, amenajată artificial.",
                   "category": "recreational",
                   "coords": [
                         -79.357045,
@@ -8912,7 +8912,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wards Island Beach",
-                  "text": "Wards Island Beach este o plajă pe insula Ward's Island din Toronto.",
+                  "text": "O plajă cu nisip pe Insula Wards în Lacul Ontario, parte a Insulelor Toronto.",
                   "category": "recreational",
                   "coords": [
                         -79.351722,
@@ -8930,7 +8930,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cherry Beach",
-                  "text": "Cherry Beach este o plajă populară în zona Port Lands din Toronto.",
+                  "text": "Plaja Cherry din Toronto este o plajă nisipoasă pe Lacul Ontario, cu zone de picnic și vedere spre oraș.",
                   "category": "recreational",
                   "coords": [
                         -79.343744,
@@ -8939,7 +8939,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cherry Street Strauss Trunnion Bascule Bridge",
-                  "text": "Podul basculant Cherry Street Strauss Trunnion este un pod basculant care traversează canalul Keating din Toronto.",
+                  "text": "Podul basculant Cherry Street Strauss Trunnion din Toronto este un pod mobil construit în 1932.",
                   "category": "landmark",
                   "coords": [
                         -79.349099,
@@ -8948,7 +8948,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deaf Culture Centre",
-                  "text": "Centrul pentru cultura surzilor este un muzeu dedicat culturii surzilor din Toronto.",
+                  "text": "Centru al culturii surzilor în Toronto, cu expoziții și evenimente.",
                   "category": "museum",
                   "coords": [
                         -79.359946,
@@ -8957,7 +8957,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Macedonian Bulgarian Orthodox",
-                  "text": "Biserica ortodoxă macedoneană-bulgară este un lăcaș de cult în Toronto.",
+                  "text": "O biserică ortodoxă macedoneană-bulgară în Toronto, care slujește comunitatea slavă.",
                   "category": "religious",
                   "coords": [
                         -79.36336,
@@ -8966,7 +8966,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Underpass Park",
-                  "text": "Underpass Park este un parc situat sub un viaduct în Toronto.",
+                  "text": "Un parc sub Autostrada Gardiner în cartierul West Don Lands din Toronto.",
                   "category": "park",
                   "coords": [
                         -79.354748,
@@ -8993,7 +8993,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Regent Park Athletic Grounds",
-                  "text": "Regent Park Athletic Grounds este un parc sportiv în cartierul Regent Park din Toronto.",
+                  "text": "Un complex de terenuri sportive în cartierul Regent Park din Toronto.",
                   "category": "park",
                   "coords": [
                         -79.359111,
@@ -9002,7 +9002,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Barthomew",
-                  "text": "Biserica Sfântul Bartolomeu este o biserică dedicată sfântului Bartolomeu în Toronto.",
+                  "text": "Biserica Anglicană Sf. Bartolomeu în zona Regent Park din Toronto.",
                   "category": "religious",
                   "coords": [
                         -79.36391,
@@ -9011,7 +9011,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Woodbine Beach",
-                  "text": "Woodbine Beach este o plajă largă cu nisip în cartierul Beaches din Toronto.",
+                  "text": "Plaja Woodbine din Toronto este o plajă lungă nisipoasă pe Lacul Ontario, cu promenadă și terenuri de volei.",
                   "category": "recreational",
                   "coords": [
                         -79.307165,
@@ -9022,7 +9022,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Toronto Harbour Light",
-                  "text": "Toronto Harbour Light is a lighthouse at the entrance to Toronto Harbour.",
+                  "text": "The Toronto Harbour Light is a 19-metre lighthouse marking the eastern entrance to Toronto Harbour on Lake Ontario.",
                   "category": "landmark",
                   "coords": [
                         -79.343416,
@@ -9031,7 +9031,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Outer Harbour",
-                  "text": "Outer Harbour is a bay in the Distillery District of Toronto.",
+                  "text": "The outer harbour of Toronto, with marinas and ferry terminals.",
                   "category": "landmark",
                   "coords": [
                         -79.337742,
@@ -9040,7 +9040,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bayside Gallery",
-                  "text": "Bayside Gallery is an art gallery in the Distillery District of Toronto.",
+                  "text": "Art gallery on the Lake Ontario waterfront in Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.363784,
@@ -9058,7 +9058,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canadian Stage",
-                  "text": "Canadian Stage is a theatre in the Distillery District of Toronto.",
+                  "text": "A leading theatre company in Toronto, performing at the Bluma Appel Theatre.",
                   "category": "cultural",
                   "coords": [
                         -79.364055,
@@ -9067,7 +9067,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mimi Hernndorf Studio Theatre",
-                  "text": "Mimi Hernndorf Studio Theatre is a theatre in the Distillery District of Toronto.",
+                  "text": "A studio theatre in Toronto's cultural district, named after a noted patron.",
                   "category": "cultural",
                   "coords": [
                         -79.36603,
@@ -9076,7 +9076,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Queen Gallery",
-                  "text": "Queen Gallery is an art gallery in the Distillery District of Toronto.",
+                  "text": "Gallery on Queen Street West in Toronto, specializing in local artists.",
                   "category": "museum",
                   "coords": [
                         -79.363407,
@@ -9085,7 +9085,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Lost & Found",
-                  "text": "The Lost & Found is an art gallery in the Distillery District of Toronto.",
+                  "text": "Museum of lost and found objects in Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.362163,
@@ -9094,7 +9094,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Opera House",
-                  "text": "The Opera House is a theatre in the Distillery District of Toronto.",
+                  "text": "A historic music venue on Queen Street East in Toronto, hosting live concerts.",
                   "category": "cultural",
                   "coords": [
                         -79.348786,
@@ -9103,7 +9103,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Turning Basin",
-                  "text": "Turning Basin is a bay in the Distillery District of Toronto.",
+                  "text": "A turning basin for ships in Toronto's inner harbour.",
                   "category": "landmark",
                   "coords": [
                         -79.332531,
@@ -9112,7 +9112,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Red Sandcastle Theatre",
-                  "text": "Red Sandcastle Theatre is a theatre in the Distillery District of Toronto.",
+                  "text": "Red-painted theatre house in Toronto hosting intimate performances.",
                   "category": "cultural",
                   "coords": [
                         -79.341911,
@@ -9121,7 +9121,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Edward Jackman Centre",
-                  "text": "The Edward Jackman Centre is a theatre in the Distillery District of Toronto.",
+                  "text": "A cultural centre in Toronto's Cabbagetown neighbourhood.",
                   "category": "cultural",
                   "coords": [
                         -79.339676,
@@ -9130,7 +9130,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Aki Studio",
-                  "text": "Aki Studio is a theatre in the Distillery District of Toronto.",
+                  "text": "Indigenous theatre studio in Toronto, performances by First Nations artists.",
                   "category": "cultural",
                   "coords": [
                         -79.362082,
@@ -9148,7 +9148,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bayview Beach",
-                  "text": "Bayview Beach is a beach in Toronto.",
+                  "text": "Beach along Bayview Avenue in Toronto, artificially created.",
                   "category": "recreational",
                   "coords": [
                         -79.357045,
@@ -9157,7 +9157,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wards Island Beach",
-                  "text": "Wards Island Beach is a beach on Ward's Island in Toronto.",
+                  "text": "A sandy beach on Wards Island in Lake Ontario, part of the Toronto Islands.",
                   "category": "recreational",
                   "coords": [
                         -79.351722,
@@ -9175,7 +9175,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cherry Beach",
-                  "text": "Cherry Beach is a popular beach in Toronto's Port Lands.",
+                  "text": "Cherry Beach is a sandy public beach on Lake Ontario in Toronto, popular for windsurfing and kitesurfing.",
                   "category": "recreational",
                   "coords": [
                         -79.343744,
@@ -9184,7 +9184,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cherry Street Strauss Trunnion Bascule Bridge",
-                  "text": "Cherry Street Strauss Trunnion Bascule Bridge is a bascule bridge spanning the Keating Channel in Toronto.",
+                  "text": "The Cherry Street Strauss Trunnion Bascule Bridge is a historic vertical-lift bridge built in 1932 over Toronto's Keating Channel.",
                   "category": "landmark",
                   "coords": [
                         -79.349099,
@@ -9193,7 +9193,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deaf Culture Centre",
-                  "text": "The Deaf Culture Centre is a museum dedicated to Deaf culture in Toronto.",
+                  "text": "Deaf culture centre in Toronto, with exhibitions and events.",
                   "category": "museum",
                   "coords": [
                         -79.359946,
@@ -9202,7 +9202,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Macedonian Bulgarian Orthodox",
-                  "text": "The Macedonian Bulgarian Orthodox church is a place of worship in Toronto.",
+                  "text": "A Macedonian Bulgarian Orthodox church in Toronto, serving the Slavic community.",
                   "category": "religious",
                   "coords": [
                         -79.36336,
@@ -9211,7 +9211,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Underpass Park",
-                  "text": "Underpass Park is a park located under a viaduct in Toronto.",
+                  "text": "A park built under the Gardiner Expressway in Toronto's West Don Lands.",
                   "category": "park",
                   "coords": [
                         -79.354748,
@@ -9238,7 +9238,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Regent Park Athletic Grounds",
-                  "text": "Regent Park Athletic Grounds is an athletic grounds park in Toronto's Regent Park neighborhood.",
+                  "text": "A sports field complex in Toronto's Regent Park neighbourhood.",
                   "category": "park",
                   "coords": [
                         -79.359111,
@@ -9247,7 +9247,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Barthomew",
-                  "text": "St. Barthomew is a church dedicated to St. Bartholomew in Toronto.",
+                  "text": "St. Bartholomew's Anglican Church in Toronto's Regent Park area.",
                   "category": "religious",
                   "coords": [
                         -79.36391,
@@ -9256,7 +9256,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Woodbine Beach",
-                  "text": "Woodbine Beach is a wide sandy beach in Toronto's Beaches neighborhood.",
+                  "text": "Woodbine Beach is a 3-kilometre sandy beach on Lake Ontario in Toronto, part of the Beaches neighbourhood.",
                   "category": "recreational",
                   "coords": [
                         -79.307165,
@@ -9427,7 +9427,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Villa Cataraqui",
-                  "text": "Die Villa Cataraqui in battlefields-park-quebec-history-v2 ist ein historisches Herrenhaus auf dem Domaine Cataraqui.",
+                  "text": "Erbaut im Dezember 1851, diese denkmalgeschützte Villa im Parc Quebec ist ein gutes Beispiel viktorianischer Architektur.",
                   "category": "historical",
                   "coords": [
                         -71.253267,
@@ -9445,7 +9445,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Michel de Sillery",
-                  "text": "Die Saint Michael's Church of Sillery in battlefields-park-quebec-history-v2 ist eine Kirche im Stadtteil Sillery.",
+                  "text": "Die Saint Michael's Church of Sillery in Quebec City ist eine katholische Kirche aus dem 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -71.244262,
@@ -9472,7 +9472,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pont Pierre-Laporte",
-                  "text": "Die Pierre-Laporte-Brücke ist eine Hängebrücke in Québec-Stadt, die nach Lévis führt.",
+                  "text": "Die Pierre Laporte Brücke in Quebec City überspannt den Sankt-Lorenz-Strom und ist eine Hängebrücke.",
                   "category": "landmark",
                   "coords": [
                         -71.290659,
@@ -9490,7 +9490,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc des Braves",
-                  "text": "Der Parc des Braves in Québec-Stadt erinnert an die Schlacht von Sainte-Foy.",
+                  "text": "Der Parc des Braves in Quebec City erinnert an die Schlacht von Sainte-Foy von 1760.",
                   "category": "park",
                   "coords": [
                         -71.241289,
@@ -9499,7 +9499,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Aquarium du Québec",
-                  "text": "Das Aquarium of Quebec in Québec-Stadt zeigt verschiedenste Meereslebewesen.",
+                  "text": "Das Aquarium of Quebec in Quebec City zeigt Meerestiere aus dem Sankt-Lorenz-Strom und den Polargebieten.",
                   "category": "recreational",
                   "coords": [
                         -71.288479,
@@ -9508,7 +9508,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pavillon Pierre-Lassonde",
-                  "text": "Der Pavillon Pierre-Lassonde ist ein Museumsgebäude in Québec-Stadt.",
+                  "text": "Ein Pavillon des Musée national des beaux-arts du Québec in der Stadt Quebec.",
                   "category": "museum",
                   "coords": [
                         -71.225362,
@@ -9517,7 +9517,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Villa Beauvoir",
-                  "text": "Die Villa Beauvoir ist ein Herrenhaus in Québec-Stadt.",
+                  "text": "Die Villa Beauvoir in Quebec City ist ein historisches Haus aus dem Jahr 1867 auf den Plains of Abraham.",
                   "category": "historical",
                   "coords": [
                         -71.260949,
@@ -9526,7 +9526,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Théatre Périscope",
-                  "text": "Das Théâtre Périscope ist ein Theater in Québec-Stadt.",
+                  "text": "Ein Theater im Saint-Jean-Baptiste-Viertel von Quebec City, bekannt für zeitgenössische Stücke.",
                   "category": "cultural",
                   "coords": [
                         -71.226087,
@@ -9535,7 +9535,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Petit Théâtre de Québec",
-                  "text": "Das Le Petit Théâtre de Québec ist ein Theater in Québec-Stadt.",
+                  "text": "Ein kleines Theater im Montcalm-Viertel von Quebec City.",
                   "category": "cultural",
                   "coords": [
                         -71.233906,
@@ -9544,7 +9544,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vieux Bureau de poste",
-                  "text": "Das Vieux Bureau de poste ist ein Theater in Québec-Stadt.",
+                  "text": "Das historische alte Postamt in der Altstadt von Quebec City.",
                   "category": "cultural",
                   "coords": [
                         -71.240056,
@@ -9553,7 +9553,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-David-de-l’Auberivière",
-                  "text": "Die Église Saint-David-de-l’Auberivière ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine katholische Kirche im Auberivière-Viertel von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.201134,
@@ -9562,7 +9562,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Church",
-                  "text": "Die Saint Patrick's Church ist eine katholische Kirche in Québec-Stadt.",
+                  "text": "Eine historische katholische Kirche an der Grande Allée in Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.224068,
@@ -9571,7 +9571,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint Sauveur",
-                  "text": "Die Église Saint Sauveur ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine Kirche im Saint-Sauveur-Viertel von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.235654,
@@ -9580,7 +9580,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Angèle de Saint-Malo",
-                  "text": "Die Église Sainte-Angèle de Saint-Malo ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine katholische Kirche im Saint-Malo-Viertel von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.245214,
@@ -9589,7 +9589,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Notre-Dame-de-Recouvrance",
-                  "text": "Die Église Notre-Dame-de-Recouvrance ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine Kirche in der Oberstadt von Quebec City, die Notre-Dame de Recouvrance gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         -71.258038,
@@ -9598,7 +9598,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint François-Xavier",
-                  "text": "Die Saint François-Xavier ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine katholische Kirche, die dem Heiligen Franz Xaver in Quebec City gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         -71.297374,
@@ -9607,7 +9607,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Baptiste de la Salle",
-                  "text": "Die Église Saint-Jean-Baptiste de la Salle ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine Kirche im Saint-Jean-Baptiste-Viertel von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.29391,
@@ -9616,7 +9616,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Thomas-d'Aquin",
-                  "text": "Die Église Saint-Thomas-d'Aquin ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine katholische Kirche im Saint-Thomas-d'Aquin-Gebiet von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.268131,
@@ -9625,7 +9625,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église des Saints-Martyrs-Canadiens",
-                  "text": "Die Église des Saints-Martyrs-Canadiens ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine katholische Kirche, die den kanadischen Märtyrern in Quebec City gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         -71.237477,
@@ -9634,7 +9634,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Congregation Beth Israel Ohev Sholom",
-                  "text": "Die Congregation Beth Israel Ohev Sholom ist eine Synagoge in Québec-Stadt.",
+                  "text": "Eine jüdische Synagoge im Sainte-Foy-Viertel von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.23596,
@@ -9643,7 +9643,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Charles-Garnier",
-                  "text": "Die Église Saint-Charles-Garnier ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine katholische Kirche im Charlesbourg-Viertel von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.250811,
@@ -9652,7 +9652,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Saint-Mathieu",
-                  "text": "Die Église de Saint-Mathieu ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine Kirche im Saint-Mathieu-Gebiet von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.30837,
@@ -9661,7 +9661,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grande Mosquée de Québec",
-                  "text": "Die Grande Mosquée de Québec ist eine Moschee in Québec-Stadt.",
+                  "text": "Die größte Moschee in Quebec City, die der muslimischen Gemeinschaft dient.",
                   "category": "religious",
                   "coords": [
                         -71.305369,
@@ -9670,7 +9670,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Benoit-Abbé",
-                  "text": "Die St-Benoit Church ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine katholische Kirche im Saint-Benoît-Viertel von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.323758,
@@ -9679,7 +9679,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Monique-des-Saules",
-                  "text": "Die Église Sainte-Monique-des-Saules ist eine Kirche in Québec-Stadt.",
+                  "text": "Eine Kirche im Sainte-Monique-des-Saules-Viertel von Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.320804,
@@ -9688,7 +9688,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Saint-Jean-Chrysostome",
-                  "text": "Die Église de Saint-Jean-Chrysostome ist eine Kirche in Québec-Stadt.",
+                  "text": "Die Kirche des heiligen Johannes Chrysostomus, des Erzbischofs von Konstantinopel im 4. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -71.197209,
@@ -9697,7 +9697,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anse au Foulon",
-                  "text": "Die Anse au Foulon ist eine Bucht in Québec-Stadt.",
+                  "text": "Die Bucht, in der 1759 britische Truppen während der Belagerung von Québec landeten.",
                   "category": "landmark",
                   "coords": [
                         -71.231189,
@@ -9706,7 +9706,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maison des Jésuites de Sillery",
-                  "text": "Die Maison des Jésuites de Sillery ist eine historische Sehenswürdigkeit in Québec-Stadt.",
+                  "text": "Das steinerne Haus aus dem 17. Jahrhundert, das als Jesuitenmission diente.",
                   "category": "landmark",
                   "coords": [
                         -71.258029,
@@ -9735,7 +9735,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Villa Cataraqui",
-                  "text": "A Villa Cataraqui a battlefields-park-quebec-history-v2 területén egy történelmi kúria a Domaine Cataraqui birtokon.",
+                  "text": "1851 decemberében épült, ez a műemlék villa a Parc Quebecben a viktoriánus építészet szép példája.",
                   "category": "historical",
                   "coords": [
                         -71.253267,
@@ -9753,7 +9753,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Michel de Sillery",
-                  "text": "A Saint Michael's Church of Sillery a battlefields-park-quebec-history-v2 területén egy templom Sillery negyedben.",
+                  "text": "A quebeci Silleryi Szent Mihály-templom egy 19. századi katolikus templom.",
                   "category": "religious",
                   "coords": [
                         -71.244262,
@@ -9780,7 +9780,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pont Pierre-Laporte",
-                  "text": "A Pierre Laporte híd egy függőhíd Quebec Cityben, amely Lévisbe vezet.",
+                  "text": "A quebeci Pierre Laporte híd a Szent Lőrinc folyó felett ível át, és egy függőhíd.",
                   "category": "landmark",
                   "coords": [
                         -71.290659,
@@ -9798,7 +9798,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc des Braves",
-                  "text": "A Parc des Braves Quebec Cityben a Sainte-Foy-i csatára emlékezik.",
+                  "text": "A quebeci Parc des Braves az 1760-as Sainte-Foy-i csatára emlékezik.",
                   "category": "park",
                   "coords": [
                         -71.241289,
@@ -9807,7 +9807,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Aquarium du Québec",
-                  "text": "Az Aquarium of Quebec Quebec Cityben tengeri élőlényeket mutat be.",
+                  "text": "A quebeci Aquarium of Quebec a Szent Lőrinc folyó és a sarkvidékek tengeri állatait mutatja be.",
                   "category": "recreational",
                   "coords": [
                         -71.288479,
@@ -9816,7 +9816,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pavillon Pierre-Lassonde",
-                  "text": "A Pavillon Pierre-Lassonde egy múzeumépület Quebec Cityben.",
+                  "text": "A Musée national des beaux-arts du Québec pavilonja Quebec városában.",
                   "category": "museum",
                   "coords": [
                         -71.225362,
@@ -9825,7 +9825,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Villa Beauvoir",
-                  "text": "A Villa Beauvoir egy kúria Quebec Cityben.",
+                  "text": "A quebeci Villa Beauvoir egy 1867-ből származó történelmi ház az Abraham-síkságon.",
                   "category": "historical",
                   "coords": [
                         -71.260949,
@@ -9834,7 +9834,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Théatre Périscope",
-                  "text": "A Théâtre Périscope egy színház Quebec Cityben.",
+                  "text": "Színház Quebec City Saint-Jean-Baptiste negyedében, kortárs darabjairól ismert.",
                   "category": "cultural",
                   "coords": [
                         -71.226087,
@@ -9843,7 +9843,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Petit Théâtre de Québec",
-                  "text": "A Le Petit Théâtre de Québec egy színház Quebec Cityben.",
+                  "text": "Egy kis színház Quebec City Montcalm negyedében.",
                   "category": "cultural",
                   "coords": [
                         -71.233906,
@@ -9852,7 +9852,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vieux Bureau de poste",
-                  "text": "A Vieux Bureau de poste egy színház Quebec Cityben.",
+                  "text": "A történelmi régi postaépület Quebec City óvárosában.",
                   "category": "cultural",
                   "coords": [
                         -71.240056,
@@ -9861,7 +9861,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-David-de-l’Auberivière",
-                  "text": "Az Église Saint-David-de-l’Auberivière egy templom Quebec Cityben.",
+                  "text": "Katolikus templom Quebec City Auberivière negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.201134,
@@ -9870,7 +9870,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Church",
-                  "text": "A Saint Patrick's Church egy katolikus templom Quebec Cityben.",
+                  "text": "Történelmi katolikus templom a Grande Allée-n Quebec Cityben.",
                   "category": "religious",
                   "coords": [
                         -71.224068,
@@ -9879,7 +9879,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint Sauveur",
-                  "text": "Az Église Saint Sauveur egy templom Quebec Cityben.",
+                  "text": "Egy templom Quebec City Saint-Sauveur negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.235654,
@@ -9888,7 +9888,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Angèle de Saint-Malo",
-                  "text": "Az Église Sainte-Angèle de Saint-Malo egy templom Quebec Cityben.",
+                  "text": "Katolikus templom Quebec City Saint-Malo negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.245214,
@@ -9897,7 +9897,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Notre-Dame-de-Recouvrance",
-                  "text": "Az Église Notre-Dame-de-Recouvrance egy templom Quebec Cityben.",
+                  "text": "Egy templom Quebec City Felsővárosában, Notre-Dame de Recouvrance-nak szentelve.",
                   "category": "religious",
                   "coords": [
                         -71.258038,
@@ -9906,7 +9906,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint François-Xavier",
-                  "text": "A Saint François-Xavier egy templom Quebec Cityben.",
+                  "text": "Katolikus templom, Szent Ferenc Xavér tiszteletére szentelve Quebec Cityben.",
                   "category": "religious",
                   "coords": [
                         -71.297374,
@@ -9915,7 +9915,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Baptiste de la Salle",
-                  "text": "Az Église Saint-Jean-Baptiste de la Salle egy templom Quebec Cityben.",
+                  "text": "Egy templom Quebec City Saint-Jean-Baptiste negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.29391,
@@ -9924,7 +9924,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Thomas-d'Aquin",
-                  "text": "Az Église Saint-Thomas-d'Aquin egy templom Quebec Cityben.",
+                  "text": "Katolikus templom Quebec City Saint-Thomas-d'Aquin területén.",
                   "category": "religious",
                   "coords": [
                         -71.268131,
@@ -9933,7 +9933,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église des Saints-Martyrs-Canadiens",
-                  "text": "Az Église des Saints-Martyrs-Canadiens egy templom Quebec Cityben.",
+                  "text": "Katolikus templom, a kanadai vértanúk tiszteletére szentelve Quebec Cityben.",
                   "category": "religious",
                   "coords": [
                         -71.237477,
@@ -9942,7 +9942,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Congregation Beth Israel Ohev Sholom",
-                  "text": "A Congregation Beth Israel Ohev Sholom egy zsinagóga Quebec Cityben.",
+                  "text": "Zsinagóga Quebec City Sainte-Foy negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.23596,
@@ -9951,7 +9951,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Charles-Garnier",
-                  "text": "Az Église Saint-Charles-Garnier egy templom Quebec Cityben.",
+                  "text": "Katolikus templom Quebec City Charlesbourg negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.250811,
@@ -9960,7 +9960,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Saint-Mathieu",
-                  "text": "Az Église de Saint-Mathieu egy templom Quebec Cityben.",
+                  "text": "Egy templom Quebec City Saint-Mathieu területén.",
                   "category": "religious",
                   "coords": [
                         -71.30837,
@@ -9969,7 +9969,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grande Mosquée de Québec",
-                  "text": "A Grande Mosquée de Québec egy mecset Quebec Cityben.",
+                  "text": "A legnagyobb mecset Quebec Cityben, a muszlim közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         -71.305369,
@@ -9978,7 +9978,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Benoit-Abbé",
-                  "text": "A St-Benoit Church egy templom Quebec Cityben.",
+                  "text": "Katolikus templom Quebec City Saint-Benoît negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.323758,
@@ -9987,7 +9987,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Monique-des-Saules",
-                  "text": "Az Église Sainte-Monique-des-Saules egy templom Quebec Cityben.",
+                  "text": "Egy templom Quebec City Sainte-Monique-des-Saules negyedében.",
                   "category": "religious",
                   "coords": [
                         -71.320804,
@@ -9996,7 +9996,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Saint-Jean-Chrysostome",
-                  "text": "Az Église de Saint-Jean-Chrysostome egy templom Quebec Cityben.",
+                  "text": "A Szent Aranyszájú Jánosnak, a 4. századi konstantinápolyi érseknek szentelt templom.",
                   "category": "religious",
                   "coords": [
                         -71.197209,
@@ -10005,7 +10005,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anse au Foulon",
-                  "text": "Az Anse au Foulon egy öböl Quebec Cityben.",
+                  "text": "Az az öböl, ahol 1759-ben brit csapatok partra szálltak Québec ostroma során.",
                   "category": "landmark",
                   "coords": [
                         -71.231189,
@@ -10014,7 +10014,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maison des Jésuites de Sillery",
-                  "text": "A Maison des Jésuites de Sillery egy történelmi látványosság Quebec Cityben.",
+                  "text": "A 17. századi kőház, amely jezsuita misszióként szolgált.",
                   "category": "landmark",
                   "coords": [
                         -71.258029,
@@ -10043,7 +10043,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Villa Cataraqui",
-                  "text": "Vila Cataraqui din battlefields-park-quebec-history-v2 este un conac istoric pe domeniul Cataraqui.",
+                  "text": "Construită în decembrie 1851, această vilă clasată în Parc Quebec este un exemplu al arhitecturii victoriene.",
                   "category": "historical",
                   "coords": [
                         -71.253267,
@@ -10061,7 +10061,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Michel de Sillery",
-                  "text": "Biserica Sfântul Mihail din Sillery, în battlefields-park-quebec-history-v2, este o biserică în cartierul Sillery.",
+                  "text": "Biserica Sfântul Mihail din Sillery, orașul Quebec, este o biserică catolică din secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         -71.244262,
@@ -10088,7 +10088,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pont Pierre-Laporte",
-                  "text": "Podul Pierre Laporte este un pod suspendat în orașul Québec, care face legătura cu Lévis.",
+                  "text": "Podul Pierre Laporte din orașul Quebec traversează Fluviul Sfântul Laurențiu și este un pod suspendat.",
                   "category": "landmark",
                   "coords": [
                         -71.290659,
@@ -10106,7 +10106,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc des Braves",
-                  "text": "Parc des Braves din orașul Québec comemorează Bătălia de la Sainte-Foy.",
+                  "text": "Parcul des Braves din orașul Quebec comemorează bătălia de la Sainte-Foy din 1760.",
                   "category": "park",
                   "coords": [
                         -71.241289,
@@ -10115,7 +10115,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Aquarium du Québec",
-                  "text": "Acvariul din Québec din orașul Québec prezintă specii acvatice.",
+                  "text": "Acvariul din Quebec prezintă animale marine din Fluviul Sfântul Laurențiu și din regiunile polare.",
                   "category": "recreational",
                   "coords": [
                         -71.288479,
@@ -10124,7 +10124,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pavillon Pierre-Lassonde",
-                  "text": "Pavilionul Pierre-Lassonde este o clădire muzeală din orașul Québec.",
+                  "text": "Un pavilion al Muzeului Național de Arte Frumoase din Québec în orașul Quebec.",
                   "category": "museum",
                   "coords": [
                         -71.225362,
@@ -10133,7 +10133,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Villa Beauvoir",
-                  "text": "Villa Beauvoir este un conac în orașul Québec.",
+                  "text": "Vila Beauvoir din orașul Quebec este o casă istorică din 1867 situată pe Câmpiile lui Abraham.",
                   "category": "historical",
                   "coords": [
                         -71.260949,
@@ -10142,7 +10142,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Théatre Périscope",
-                  "text": "Théâtre Périscope este un teatru în orașul Québec.",
+                  "text": "Un teatru în cartierul Saint-Jean-Baptiste din Quebec City, cunoscut pentru piese contemporane.",
                   "category": "cultural",
                   "coords": [
                         -71.226087,
@@ -10151,7 +10151,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Petit Théâtre de Québec",
-                  "text": "Le Petit Théâtre de Québec este un teatru în orașul Québec.",
+                  "text": "Un teatru mic în districtul Montcalm din Quebec City.",
                   "category": "cultural",
                   "coords": [
                         -71.233906,
@@ -10160,7 +10160,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vieux Bureau de poste",
-                  "text": "Vieux Bureau de poste este un teatru în orașul Québec.",
+                  "text": "Clădirea istorică a vechiului oficiu poștal din Orașul Vechi al Quebec City.",
                   "category": "cultural",
                   "coords": [
                         -71.240056,
@@ -10169,7 +10169,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-David-de-l’Auberivière",
-                  "text": "Église Saint-David-de-l’Auberivière este o biserică în orașul Québec.",
+                  "text": "O biserică catolică în cartierul Auberivière din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.201134,
@@ -10178,7 +10178,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Church",
-                  "text": "Saint Patrick's Church este o biserică catolică în orașul Québec.",
+                  "text": "O biserică catolică istorică pe Grande Allée în Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.224068,
@@ -10187,7 +10187,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint Sauveur",
-                  "text": "Église Saint Sauveur este o biserică în orașul Québec.",
+                  "text": "O biserică în cartierul Saint-Sauveur din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.235654,
@@ -10196,7 +10196,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Angèle de Saint-Malo",
-                  "text": "Église Sainte-Angèle de Saint-Malo este o biserică în orașul Québec.",
+                  "text": "O biserică catolică în districtul Saint-Malo din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.245214,
@@ -10205,7 +10205,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Notre-Dame-de-Recouvrance",
-                  "text": "Église Notre-Dame-de-Recouvrance este o biserică în orașul Québec.",
+                  "text": "O biserică în Orașul Superior din Quebec City, dedicată Notre-Dame de Recouvrance.",
                   "category": "religious",
                   "coords": [
                         -71.258038,
@@ -10214,7 +10214,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint François-Xavier",
-                  "text": "Saint François-Xavier este o biserică în orașul Québec.",
+                  "text": "O biserică catolică dedicată Sfântului Francisc Xavier în Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.297374,
@@ -10223,7 +10223,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Baptiste de la Salle",
-                  "text": "Église Saint-Jean-Baptiste de la Salle este o biserică în orașul Québec.",
+                  "text": "O biserică în cartierul Saint-Jean-Baptiste din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.29391,
@@ -10232,7 +10232,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Thomas-d'Aquin",
-                  "text": "Église Saint-Thomas-d'Aquin este o biserică în orașul Québec.",
+                  "text": "O biserică catolică în zona Saint-Thomas-d'Aquin din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.268131,
@@ -10241,7 +10241,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église des Saints-Martyrs-Canadiens",
-                  "text": "Église des Saints-Martyrs-Canadiens este o biserică în orașul Québec.",
+                  "text": "O biserică catolică închinată martirilor canadieni în Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.237477,
@@ -10250,7 +10250,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Congregation Beth Israel Ohev Sholom",
-                  "text": "Congregation Beth Israel Ohev Sholom este o sinagogă în orașul Québec.",
+                  "text": "O sinagogă evreiască în cartierul Sainte-Foy din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.23596,
@@ -10259,7 +10259,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Charles-Garnier",
-                  "text": "Église Saint-Charles-Garnier este o biserică în orașul Québec.",
+                  "text": "O biserică catolică în districtul Charlesbourg din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.250811,
@@ -10268,7 +10268,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Saint-Mathieu",
-                  "text": "Église de Saint-Mathieu este o biserică în orașul Québec.",
+                  "text": "O biserică în zona Saint-Mathieu din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.30837,
@@ -10277,7 +10277,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grande Mosquée de Québec",
-                  "text": "Grande Mosquée de Québec este o moschee în orașul Québec.",
+                  "text": "Cea mai mare moschee din Quebec City, care servește comunitatea musulmană.",
                   "category": "religious",
                   "coords": [
                         -71.305369,
@@ -10286,7 +10286,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Benoit-Abbé",
-                  "text": "St-Benoit Church este o biserică în orașul Québec.",
+                  "text": "O biserică catolică în cartierul Saint-Benoît din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.323758,
@@ -10295,7 +10295,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Monique-des-Saules",
-                  "text": "Église Sainte-Monique-des-Saules este o biserică în orașul Québec.",
+                  "text": "O biserică în cartierul Sainte-Monique-des-Saules din Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.320804,
@@ -10304,7 +10304,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Saint-Jean-Chrysostome",
-                  "text": "Église de Saint-Jean-Chrysostome este o biserică în orașul Québec.",
+                  "text": "Biserica dedicată Sfântului Ioan Gură de Aur, arhiepiscopul Constantinopolului din secolul al IV-lea.",
                   "category": "religious",
                   "coords": [
                         -71.197209,
@@ -10313,7 +10313,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anse au Foulon",
-                  "text": "Anse au Foulon este un golf în orașul Québec.",
+                  "text": "Golful unde trupele britanice au debarcat în 1759 în timpul asediului Quebecului.",
                   "category": "landmark",
                   "coords": [
                         -71.231189,
@@ -10322,7 +10322,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maison des Jésuites de Sillery",
-                  "text": "Maison des Jésuites de Sillery este o atracție istorică în orașul Québec.",
+                  "text": "Casa de piatră din secolul al XVII-lea care a servit ca misiune iezuită.",
                   "category": "landmark",
                   "coords": [
                         -71.258029,
@@ -10351,7 +10351,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Villa Cataraqui",
-                  "text": "Villa Cataraqui in battlefields-park-quebec-history-v2 is a historic manor on the Domaine Cataraqui.",
+                  "text": "Built in December 1851, this heritage villa in Parc Quebec is a fine example of Victorian architecture.",
                   "category": "historical",
                   "coords": [
                         -71.253267,
@@ -10369,7 +10369,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Michael's Church of Sillery",
-                  "text": "Saint Michael's Church of Sillery in battlefields-park-quebec-history-v2 is a church in the Sillery district.",
+                  "text": "Saint Michael's Church of Sillery is a Roman Catholic church built in 1855 in Quebec City's Sillery neighbourhood.",
                   "category": "religious",
                   "coords": [
                         -71.244262,
@@ -10396,7 +10396,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pierre Laporte Bridge",
-                  "text": "Pierre Laporte Bridge is a suspension bridge in Quebec City connecting to Lévis.",
+                  "text": "The Pierre Laporte Bridge is a suspension bridge crossing the St. Lawrence River in Quebec City, completed in 1970.",
                   "category": "landmark",
                   "coords": [
                         -71.290659,
@@ -10414,7 +10414,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc des Braves",
-                  "text": "Parc des Braves is a park in Quebec City commemorating the Battle of Sainte-Foy.",
+                  "text": "Parc des Braves in Quebec City is a park commemorating the 1760 Battle of Sainte-Foy, with a memorial column.",
                   "category": "park",
                   "coords": [
                         -71.241289,
@@ -10423,7 +10423,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Aquarium of Quebec",
-                  "text": "Aquarium of Quebec is a public aquarium in Quebec City showcasing aquatic species.",
+                  "text": "The Aquarium of Quebec features over 10,000 marine animals, including polar bears and seals, in Quebec City.",
                   "category": "recreational",
                   "coords": [
                         -71.288479,
@@ -10432,7 +10432,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pavillon Pierre-Lassonde",
-                  "text": "Pavillon Pierre-Lassonde is a museum building in Quebec City.",
+                  "text": "A pavilion of the Musée national des beaux-arts du Québec in Quebec City.",
                   "category": "museum",
                   "coords": [
                         -71.225362,
@@ -10441,7 +10441,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Villa Beauvoir",
-                  "text": "Villa Beauvoir is a manor house in Quebec City.",
+                  "text": "Villa Beauvoir is a historic house built in 1867 on the Plains of Abraham in Quebec City, now used as a café.",
                   "category": "historical",
                   "coords": [
                         -71.260949,
@@ -10450,7 +10450,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Théatre Périscope",
-                  "text": "Théâtre Périscope is a theatre in Quebec City.",
+                  "text": "A theatre in Quebec City's Saint-Jean-Baptiste neighbourhood, known for contemporary plays.",
                   "category": "cultural",
                   "coords": [
                         -71.226087,
@@ -10459,7 +10459,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Le Petit Théâtre de Québec",
-                  "text": "Le Petit Théâtre de Québec is a theatre in Quebec City.",
+                  "text": "A small theatre in Quebec City's Montcalm district.",
                   "category": "cultural",
                   "coords": [
                         -71.233906,
@@ -10468,7 +10468,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vieux Bureau de poste",
-                  "text": "Vieux Bureau de poste is a theatre venue in Quebec City.",
+                  "text": "The historic old post office building in Quebec City's Old Town.",
                   "category": "cultural",
                   "coords": [
                         -71.240056,
@@ -10477,7 +10477,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-David-de-l’Auberivière",
-                  "text": "Église Saint-David-de-l’Auberivière is a church in Quebec City.",
+                  "text": "A Catholic church in Quebec City's Auberivière district.",
                   "category": "religious",
                   "coords": [
                         -71.201134,
@@ -10486,7 +10486,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Patrick's Church",
-                  "text": "Saint Patrick's Church is a Catholic church in Quebec City.",
+                  "text": "A historic Catholic church on Grande Allée in Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.224068,
@@ -10495,7 +10495,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint Sauveur",
-                  "text": "Église Saint Sauveur is a church in Quebec City.",
+                  "text": "A church in Quebec City's Saint-Sauveur neighbourhood.",
                   "category": "religious",
                   "coords": [
                         -71.235654,
@@ -10504,7 +10504,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Angèle de Saint-Malo",
-                  "text": "Église Sainte-Angèle de Saint-Malo is a church in Quebec City.",
+                  "text": "A Catholic church in Quebec City's Saint-Malo district.",
                   "category": "religious",
                   "coords": [
                         -71.245214,
@@ -10513,7 +10513,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Notre-Dame-de-Recouvrance",
-                  "text": "Église Notre-Dame-de-Recouvrance is a church in Quebec City.",
+                  "text": "A church in Quebec City's Old Upper Town, dedicated to Notre-Dame de Recouvrance.",
                   "category": "religious",
                   "coords": [
                         -71.258038,
@@ -10522,7 +10522,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint François-Xavier",
-                  "text": "Saint François-Xavier is a church in Quebec City.",
+                  "text": "A Catholic church dedicated to St. Francis Xavier in Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.297374,
@@ -10531,7 +10531,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Baptiste de la Salle",
-                  "text": "Église Saint-Jean-Baptiste de la Salle is a church in Quebec City.",
+                  "text": "A church in Quebec City's Saint-Jean-Baptiste district.",
                   "category": "religious",
                   "coords": [
                         -71.29391,
@@ -10540,7 +10540,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Thomas-d'Aquin",
-                  "text": "Église Saint-Thomas-d'Aquin is a church in Quebec City.",
+                  "text": "A Catholic church in Quebec City's Saint-Thomas-d'Aquin area.",
                   "category": "religious",
                   "coords": [
                         -71.268131,
@@ -10549,7 +10549,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église des Saints-Martyrs-Canadiens",
-                  "text": "Église des Saints-Martyrs-Canadiens is a church in Quebec City.",
+                  "text": "A Catholic church honouring the Canadian martyrs in Quebec City.",
                   "category": "religious",
                   "coords": [
                         -71.237477,
@@ -10558,7 +10558,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Congregation Beth Israel Ohev Sholom",
-                  "text": "Congregation Beth Israel Ohev Sholom is a synagogue in Quebec City.",
+                  "text": "A Jewish synagogue in Quebec City's Sainte-Foy district.",
                   "category": "religious",
                   "coords": [
                         -71.23596,
@@ -10567,7 +10567,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Charles-Garnier",
-                  "text": "Église Saint-Charles-Garnier is a church in Quebec City.",
+                  "text": "A Catholic church in Quebec City's Charlesbourg district.",
                   "category": "religious",
                   "coords": [
                         -71.250811,
@@ -10576,7 +10576,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Saint-Mathieu",
-                  "text": "Église de Saint-Mathieu is a church in Quebec City.",
+                  "text": "A church in Quebec City's Saint-Mathieu area.",
                   "category": "religious",
                   "coords": [
                         -71.30837,
@@ -10585,7 +10585,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grande Mosquée de Québec",
-                  "text": "Grande Mosquée de Québec is a mosque in Quebec City.",
+                  "text": "The largest mosque in Quebec City, serving the Muslim community.",
                   "category": "religious",
                   "coords": [
                         -71.305369,
@@ -10594,7 +10594,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St-Benoit Church",
-                  "text": "St-Benoit Church is a church in Quebec City.",
+                  "text": "A Catholic church in Quebec City's Saint-Benoît district.",
                   "category": "religious",
                   "coords": [
                         -71.323758,
@@ -10603,7 +10603,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Sainte-Monique-des-Saules",
-                  "text": "Église Sainte-Monique-des-Saules is a church in Quebec City.",
+                  "text": "A church in Quebec City's Sainte-Monique-des-Saules neighbourhood.",
                   "category": "religious",
                   "coords": [
                         -71.320804,
@@ -10612,7 +10612,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église de Saint-Jean-Chrysostome",
-                  "text": "Église de Saint-Jean-Chrysostome is a church in Quebec City.",
+                  "text": "The church dedicated to Saint John Chrysostom, the 4th-century Archbishop of Constantinople.",
                   "category": "religious",
                   "coords": [
                         -71.197209,
@@ -10621,7 +10621,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anse au Foulon",
-                  "text": "Anse au Foulon is a bay in Quebec City.",
+                  "text": "The cove where British troops landed in 1759 during the Siege of Quebec.",
                   "category": "landmark",
                   "coords": [
                         -71.231189,
@@ -10630,7 +10630,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maison des Jésuites de Sillery",
-                  "text": "Maison des Jésuites de Sillery is a historic attraction in Quebec City.",
+                  "text": "The 17th-century stone house that served as a Jesuit mission.",
                   "category": "landmark",
                   "coords": [
                         -71.258029,
@@ -10690,7 +10690,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "The Al Green Gallery / Green Family Companies",
-                  "text": "Ein Kunstzentrum in Toronto.",
+                  "text": "Kunstgalerie und Firmensitz der Green Family Companies in Toronto.",
                   "category": "cultural",
                   "coords": [
                         -79.394213,
@@ -10699,7 +10699,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Avant Garde",
-                  "text": "Eine Kunstgalerie in Toronto.",
+                  "text": "Museum für Avantgarde-Kunst in Toronto, experimentelle Werke.",
                   "category": "museum",
                   "coords": [
                         -79.389616,
@@ -10708,7 +10708,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tunnel of Glam",
-                  "text": "Eine künstlerische Tunnelinstallation in Toronto.",
+                  "text": "Ein Fußgängertunnel in Loma Toronto, geschmückt mit glitzernden Lichtern.",
                   "category": "landmark",
                   "coords": [
                         -79.394262,
@@ -10717,7 +10717,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Growth Path Optical Art",
-                  "text": "Eine Galerie, die sich auf optische Kunst spezialisiert hat.",
+                  "text": "Ein Museum für optische Kunst und Illusionen in Loma Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.403286,
@@ -10726,7 +10726,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Absolute Comedy",
-                  "text": "Ein Comedy-Club in Toronto.",
+                  "text": "Ein Comedy-Club in Loma Toronto mit Live-Stand-up-Auftritten.",
                   "category": "cultural",
                   "coords": [
                         -79.398523,
@@ -10735,7 +10735,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Picture Perfect Gallery",
-                  "text": "Eine Kunstgalerie in Toronto.",
+                  "text": "Eine Galerie in Loma Toronto, die sich der fotografischen Kunst widmet.",
                   "category": "museum",
                   "coords": [
                         -79.399854,
@@ -10744,7 +10744,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Spadina Museum",
-                  "text": "Das Spadina Museum ist ein historisches Herrenhaus mit viktorianischen Gärten in Toronto.",
+                  "text": "Das Spadina Museum in Toronto ist ein Herrenhaus aus dem 19. Jahrhundert mit viktorianischen Gärten.",
                   "category": "museum",
                   "coords": [
                         -79.408114,
@@ -10753,7 +10753,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Loma",
-                  "text": "Eine historische Burg und Aussichtspunkt in Toronto.",
+                  "text": "Ein natürlicher Hügelpark in Loma Toronto mit Aussicht über die Stadt.",
                   "category": "natural",
                   "coords": [
                         -79.409121,
@@ -10762,7 +10762,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Germain Gallery",
-                  "text": "Eine Kunstgalerie in Toronto.",
+                  "text": "Eine Kunstgalerie in Loma Toronto mit zeitgenössischen Werken.",
                   "category": "museum",
                   "coords": [
                         -79.404248,
@@ -10771,7 +10771,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Jean Sibelius Square",
-                  "text": "Ein Park, benannt nach dem Komponisten Jean Sibelius, in Toronto.",
+                  "text": "Ein Platz, benannt nach dem finnischen Komponisten Jean Sibelius.",
                   "category": "park",
                   "coords": [
                         -79.408813,
@@ -10780,7 +10780,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Iskcon",
-                  "text": "Der Iskcon-Tempel ist ein Hare-Krishna-Tempel in Toronto.",
+                  "text": "Der ISKCON-Tempel in Toronto (Hare Krishna Temple) ist ein hinduistischer Tempel mit einer goldverzierten Kuppel.",
                   "category": "religious",
                   "coords": [
                         -79.397106,
@@ -10789,7 +10789,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "David A. Balfour Park",
-                  "text": "David A. Balfour Park ist ein Park in Toronto.",
+                  "text": "Ein Park, benannt nach David A. Balfour.",
                   "category": "park",
                   "coords": [
                         -79.386907,
@@ -10798,7 +10798,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Calvin Presbyterian Church",
-                  "text": "Calvin Presbyterian Church ist eine presbyterianische Kirche in Toronto.",
+                  "text": "Die Calvin Presbyterian Church in Toronto ist eine presbyterianische Kirche im gotischen Revival-Stil aus dem Jahr 1915.",
                   "category": "religious",
                   "coords": [
                         -79.396061,
@@ -10807,7 +10807,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ Church Deer Park",
-                  "text": "Christ Church Deer Park ist eine anglikanische Kirche in Toronto.",
+                  "text": "Die Christ Church Deer Park in Toronto ist eine anglikanische Kirche mit einer markanten Holzkonstruktion.",
                   "category": "religious",
                   "coords": [
                         -79.39573,
@@ -10816,7 +10816,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Al Green Sculpture Park",
-                  "text": "Al Green Sculpture Park ist ein Park in Toronto.",
+                  "text": "Ein Skulpturenpark, benannt nach dem Sänger Al Green.",
                   "category": "park",
                   "coords": [
                         -79.39437,
@@ -10825,7 +10825,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Yorkminster Park Baptist Church",
-                  "text": "Yorkminster Park Baptist Church ist eine baptistische Kirche in Toronto.",
+                  "text": "Die Yorkminster Park Baptist Church in Toronto ist eine große Baptistenkirche mit einem markanten Turm.",
                   "category": "religious",
                   "coords": [
                         -79.394243,
@@ -10843,7 +10843,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St Peter's Estonian Lutheran Church",
-                  "text": "St Peter's Estonian Lutheran Church ist eine lutherische Kirche in Toronto.",
+                  "text": "Die einzige estnisch-lutherische Kirche in Toronto.",
                   "category": "religious",
                   "coords": [
                         -79.390184,
@@ -10852,7 +10852,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "First Christian Reformed Church of Toronto",
-                  "text": "First Christian Reformed Church of Toronto ist eine christlich-reformierte Kirche in Toronto.",
+                  "text": "Die First Christian Reformed Church of Toronto ist eine reformierte Kirche im Stadtteil Scarborough.",
                   "category": "religious",
                   "coords": [
                         -79.388116,
@@ -10861,7 +10861,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "June Rowlands Park",
-                  "text": "June Rowlands Park ist ein Park in Toronto.",
+                  "text": "Ein Park, benannt nach June Rowlands, der ersten Bürgermeisterin Torontos.",
                   "category": "park",
                   "coords": [
                         -79.388572,
@@ -10870,7 +10870,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Covenant Baptist Church",
-                  "text": "Covenant Baptist Church ist eine baptistische Kirche in Toronto.",
+                  "text": "Eine Baptistenkirche im Loma-Viertel von Toronto.",
                   "category": "religious",
                   "coords": [
                         -79.402927,
@@ -10888,7 +10888,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Eglinton Park",
-                  "text": "Eglinton Park ist ein großer Park in Toronto.",
+                  "text": "Der Eglinton Park in Toronto ist ein Stadtpark mit einem Teich und Tennisplätzen.",
                   "category": "park",
                   "coords": [
                         -79.405334,
@@ -10906,7 +10906,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sir Winston Churchill Park",
-                  "text": "Sir Winston Churchill Park ist ein Park in Toronto.",
+                  "text": "Ein Park, benannt nach Sir Winston Churchill, dem britischen Premierminister.",
                   "category": "park",
                   "coords": [
                         -79.408804,
@@ -10915,7 +10915,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Toronto Archives",
-                  "text": "Toronto Archives ist ein Museum in Toronto, das historische Aufzeichnungen beherbergt.",
+                  "text": "Ein Museum in Loma Toronto, das historische Aufzeichnungen und Dokumente bewahrt.",
                   "category": "museum",
                   "coords": [
                         -79.407182,
@@ -10926,7 +10926,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "The Al Green Gallery / Green Family Companies",
-                  "text": "Egy művészeti központ Torontóban.",
+                  "text": "Művészeti galéria és a Green Family Companies székhelye Torontóban.",
                   "category": "cultural",
                   "coords": [
                         -79.394213,
@@ -10935,7 +10935,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Avant Garde",
-                  "text": "Egy művészeti galéria Torontóban.",
+                  "text": "Avantgárd művészeti múzeum Torontóban, kísérleti alkotásokkal.",
                   "category": "museum",
                   "coords": [
                         -79.389616,
@@ -10944,7 +10944,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tunnel of Glam",
-                  "text": "Egy művészi alagútinstalláció Torontóban.",
+                  "text": "Egy gyalogos alagút Loma Torontóban, csillogó fényekkel díszítve.",
                   "category": "landmark",
                   "coords": [
                         -79.394262,
@@ -10953,7 +10953,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Growth Path Optical Art",
-                  "text": "Galéria, amely optikai művészetre specializálódott.",
+                  "text": "Egy optikai művészeti és illúziómúzeum Loma Torontóban.",
                   "category": "museum",
                   "coords": [
                         -79.403286,
@@ -10962,7 +10962,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Absolute Comedy",
-                  "text": "Egy komédiaklub Torontóban.",
+                  "text": "Egy komédia klub Loma Torontóban élő stand-up előadásokkal.",
                   "category": "cultural",
                   "coords": [
                         -79.398523,
@@ -10971,7 +10971,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Picture Perfect Gallery",
-                  "text": "Egy művészeti galéria Torontóban.",
+                  "text": "Egy galéria Loma Torontóban, amely a fotóművészetre specializálódott.",
                   "category": "museum",
                   "coords": [
                         -79.399854,
@@ -10980,7 +10980,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Spadina Museum",
-                  "text": "A Spadina Múzeum egy történelmi kúria viktoriánus kertekkel Torontóban.",
+                  "text": "A Torontói Spadina Múzeum egy 19. századi kúria viktoriánus kertekkel.",
                   "category": "museum",
                   "coords": [
                         -79.408114,
@@ -10989,7 +10989,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Loma",
-                  "text": "Egy történelmi vár és kilátó Torontóban.",
+                  "text": "Egy természetes dombpark Loma Torontóban, kilátással a városra.",
                   "category": "natural",
                   "coords": [
                         -79.409121,
@@ -10998,7 +10998,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Germain Gallery",
-                  "text": "Egy művészeti galéria Torontóban.",
+                  "text": "Egy kortárs művészeti galéria Loma Torontóban.",
                   "category": "museum",
                   "coords": [
                         -79.404248,
@@ -11007,7 +11007,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Jean Sibelius Square",
-                  "text": "Egy park, amely Jean Sibelius zeneszerzőről kapta a nevét, Torontóban.",
+                  "text": "A finn zeneszerzőről, Jean Sibeliusról elnevezett tér.",
                   "category": "park",
                   "coords": [
                         -79.408813,
@@ -11016,7 +11016,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Iskcon",
-                  "text": "Az Iskcon templom egy Hare Krisna templom Torontóban.",
+                  "text": "A Torontói ISKCON-templom (Hare Krishna Templom) egy hindu templom aranyozott kupolával.",
                   "category": "religious",
                   "coords": [
                         -79.397106,
@@ -11025,7 +11025,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "David A. Balfour Park",
-                  "text": "David A. Balfour Park egy park Torontóban.",
+                  "text": "David A. Balfourról elnevezett park.",
                   "category": "park",
                   "coords": [
                         -79.386907,
@@ -11034,7 +11034,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Calvin Presbyterian Church",
-                  "text": "Calvin Presbyterian Church egy presbiteriánus templom Torontóban.",
+                  "text": "A Torontói Calvin Presbyterian Church egy 1915-ben épült presbiteriánus templom gótikus revival stílusban.",
                   "category": "religious",
                   "coords": [
                         -79.396061,
@@ -11043,7 +11043,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ Church Deer Park",
-                  "text": "Christ Church Deer Park egy anglikán templom Torontóban.",
+                  "text": "A Torontói Christ Church Deer Park egy anglikán templom jellegzetes faszerkezettel.",
                   "category": "religious",
                   "coords": [
                         -79.39573,
@@ -11052,7 +11052,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Al Green Sculpture Park",
-                  "text": "Al Green Sculpture Park egy park Torontóban.",
+                  "text": "Al Green énekesről elnevezett szoborpark.",
                   "category": "park",
                   "coords": [
                         -79.39437,
@@ -11061,7 +11061,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Yorkminster Park Baptist Church",
-                  "text": "Yorkminster Park Baptist Church egy baptista templom Torontóban.",
+                  "text": "A Torontói Yorkminster Park Baptist Church egy nagy baptista templom jellegzetes toronnyal.",
                   "category": "religious",
                   "coords": [
                         -79.394243,
@@ -11079,7 +11079,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St Peter's Estonian Lutheran Church",
-                  "text": "St Peter's Estonian Lutheran Church egy evangélikus templom Torontóban.",
+                  "text": "Az egyetlen észt evangélikus templom Torontóban.",
                   "category": "religious",
                   "coords": [
                         -79.390184,
@@ -11088,7 +11088,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "First Christian Reformed Church of Toronto",
-                  "text": "First Christian Reformed Church of Toronto egy keresztény református templom Torontóban.",
+                  "text": "A Torontói Első Keresztény Református Templom a Scarborough negyedben található.",
                   "category": "religious",
                   "coords": [
                         -79.388116,
@@ -11097,7 +11097,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "June Rowlands Park",
-                  "text": "June Rowlands Park egy park Torontóban.",
+                  "text": "June Rowlandsról, Toronto első női polgármesteréről elnevezett park.",
                   "category": "park",
                   "coords": [
                         -79.388572,
@@ -11106,7 +11106,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Covenant Baptist Church",
-                  "text": "Covenant Baptist Church egy baptista templom Torontóban.",
+                  "text": "Egy baptista templom Toronto Loma negyedében.",
                   "category": "religious",
                   "coords": [
                         -79.402927,
@@ -11124,7 +11124,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Eglinton Park",
-                  "text": "Eglinton Park egy nagy park Torontóban.",
+                  "text": "A Torontói Eglinton Park egy városi park tóval és teniszpályákkal.",
                   "category": "park",
                   "coords": [
                         -79.405334,
@@ -11142,7 +11142,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sir Winston Churchill Park",
-                  "text": "Sir Winston Churchill Park egy park Torontóban.",
+                  "text": "Sir Winston Churchill brit miniszterelnökről elnevezett park.",
                   "category": "park",
                   "coords": [
                         -79.408804,
@@ -11151,7 +11151,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Toronto Archives",
-                  "text": "Toronto Archives egy múzeum Torontóban, amely történelmi iratokat őriz.",
+                  "text": "Egy múzeum Loma Torontóban, amely a város történelmi iratait őrzi.",
                   "category": "museum",
                   "coords": [
                         -79.407182,
@@ -11162,7 +11162,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "The Al Green Gallery / Green Family Companies",
-                  "text": "Un centru de artă din Toronto.",
+                  "text": "Galerie de artă și sediul Green Family Companies în Toronto.",
                   "category": "cultural",
                   "coords": [
                         -79.394213,
@@ -11171,7 +11171,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Avant Garde",
-                  "text": "O galerie de artă din Toronto.",
+                  "text": "Muzeu de artă avangardistă în Toronto, cu lucrări experimentale.",
                   "category": "museum",
                   "coords": [
                         -79.389616,
@@ -11180,7 +11180,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tunnel of Glam",
-                  "text": "O instalație artistică de tunel în Toronto.",
+                  "text": "Un tunel pietonal în Loma Toronto, decorat cu lumini sclipitoare.",
                   "category": "landmark",
                   "coords": [
                         -79.394262,
@@ -11189,7 +11189,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Growth Path Optical Art",
-                  "text": "O galerie specializată în arta optică.",
+                  "text": "Un muzeu de artă optică și iluzii în Loma Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.403286,
@@ -11198,7 +11198,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Absolute Comedy",
-                  "text": "Un club de comedie din Toronto.",
+                  "text": "Un club de comedie în Loma Toronto cu spectacole live de stand-up.",
                   "category": "cultural",
                   "coords": [
                         -79.398523,
@@ -11207,7 +11207,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Picture Perfect Gallery",
-                  "text": "O galerie de artă din Toronto.",
+                  "text": "O galerie în Loma Toronto dedicată artei fotografice.",
                   "category": "museum",
                   "coords": [
                         -79.399854,
@@ -11216,7 +11216,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Spadina Museum",
-                  "text": "Muzeul Spadina este un conac istoric cu grădini victoriene din Toronto.",
+                  "text": "Muzeul Spadina din Toronto este un conac din secolul al XIX-lea cu grădini victoriene.",
                   "category": "museum",
                   "coords": [
                         -79.408114,
@@ -11225,7 +11225,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Loma",
-                  "text": "Un castel istoric și punct de belvedere în Toronto.",
+                  "text": "Un parc natural pe un deal în Loma Toronto, cu vedere asupra orașului.",
                   "category": "natural",
                   "coords": [
                         -79.409121,
@@ -11234,7 +11234,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Germain Gallery",
-                  "text": "O galerie de artă din Toronto.",
+                  "text": "O galerie de artă contemporană în Loma Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.404248,
@@ -11243,7 +11243,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Jean Sibelius Square",
-                  "text": "Un parc numit după compozitorul Jean Sibelius în Toronto.",
+                  "text": "O piață numită după compozitorul finlandez Jean Sibelius.",
                   "category": "park",
                   "coords": [
                         -79.408813,
@@ -11252,7 +11252,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Iskcon",
-                  "text": "Templul Iskcon este un templu Hare Krishna din Toronto.",
+                  "text": "Templul ISKCON din Toronto (Templul Hare Krishna) este un templu hindus cu o cupolă aurită.",
                   "category": "religious",
                   "coords": [
                         -79.397106,
@@ -11261,7 +11261,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "David A. Balfour Park",
-                  "text": "David A. Balfour Park este un parc în Toronto.",
+                  "text": "Un parc numit după David A. Balfour.",
                   "category": "park",
                   "coords": [
                         -79.386907,
@@ -11270,7 +11270,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Calvin Presbyterian Church",
-                  "text": "Calvin Presbyterian Church este o biserică prezbiteriană în Toronto.",
+                  "text": "Biserica Calvin Presbyterian din Toronto este o biserică prezbiteriană în stil gotic revival, construită în 1915.",
                   "category": "religious",
                   "coords": [
                         -79.396061,
@@ -11279,7 +11279,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ Church Deer Park",
-                  "text": "Christ Church Deer Park este o biserică anglicană în Toronto.",
+                  "text": "Biserica Christ Church Deer Park din Toronto este o biserică anglicană cu o structură distinctivă din lemn.",
                   "category": "religious",
                   "coords": [
                         -79.39573,
@@ -11288,7 +11288,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Al Green Sculpture Park",
-                  "text": "Al Green Sculpture Park este un parc în Toronto.",
+                  "text": "Un parc de sculpturi numit după cântărețul Al Green.",
                   "category": "park",
                   "coords": [
                         -79.39437,
@@ -11297,7 +11297,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Yorkminster Park Baptist Church",
-                  "text": "Yorkminster Park Baptist Church este o biserică baptistă în Toronto.",
+                  "text": "Biserica Baptistă Yorkminster Park din Toronto este o mare biserică baptistă cu un turn distinctiv.",
                   "category": "religious",
                   "coords": [
                         -79.394243,
@@ -11315,7 +11315,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St Peter's Estonian Lutheran Church",
-                  "text": "St Peter's Estonian Lutheran Church este o biserică luterană în Toronto.",
+                  "text": "Singura biserică luterană estonă din Toronto.",
                   "category": "religious",
                   "coords": [
                         -79.390184,
@@ -11324,7 +11324,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "First Christian Reformed Church of Toronto",
-                  "text": "First Christian Reformed Church of Toronto este o biserică creștină reformată în Toronto.",
+                  "text": "Prima Biserică Creștină Reformată din Toronto este o biserică reformată în cartierul Scarborough.",
                   "category": "religious",
                   "coords": [
                         -79.388116,
@@ -11333,7 +11333,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "June Rowlands Park",
-                  "text": "June Rowlands Park este un parc în Toronto.",
+                  "text": "Un parc numit după June Rowlands, prima femeie primar al Torontoului.",
                   "category": "park",
                   "coords": [
                         -79.388572,
@@ -11342,7 +11342,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Covenant Baptist Church",
-                  "text": "Covenant Baptist Church este o biserică baptistă în Toronto.",
+                  "text": "O biserică baptistă în cartierul Loma din Toronto.",
                   "category": "religious",
                   "coords": [
                         -79.402927,
@@ -11360,7 +11360,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Eglinton Park",
-                  "text": "Eglinton Park este un parc mare în Toronto.",
+                  "text": "Parcul Eglinton din Toronto este un parc urban cu un iaz și terenuri de tenis.",
                   "category": "park",
                   "coords": [
                         -79.405334,
@@ -11378,7 +11378,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sir Winston Churchill Park",
-                  "text": "Sir Winston Churchill Park este un parc în Toronto.",
+                  "text": "Un parc numit după Sir Winston Churchill, prim-ministru britanic.",
                   "category": "park",
                   "coords": [
                         -79.408804,
@@ -11387,7 +11387,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Toronto Archives",
-                  "text": "Toronto Archives este un muzeu în Toronto care adăpostește documente istorice.",
+                  "text": "Un muzeu în Loma Toronto care păstrează înregistrări și documente istorice.",
                   "category": "museum",
                   "coords": [
                         -79.407182,
@@ -11398,7 +11398,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "The Al Green Gallery / Green Family Companies",
-                  "text": "An arts centre in Toronto.",
+                  "text": "Art gallery and headquarters of Green Family Companies in Toronto.",
                   "category": "cultural",
                   "coords": [
                         -79.394213,
@@ -11407,7 +11407,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Avant Garde",
-                  "text": "An art gallery in Toronto.",
+                  "text": "Museum of avant-garde art in Toronto, featuring experimental works.",
                   "category": "museum",
                   "coords": [
                         -79.389616,
@@ -11416,7 +11416,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tunnel of Glam",
-                  "text": "An artistic tunnel installation in Toronto.",
+                  "text": "A pedestrian tunnel in Loma Toronto decorated with glittering lights.",
                   "category": "landmark",
                   "coords": [
                         -79.394262,
@@ -11425,7 +11425,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Growth Path Optical Art",
-                  "text": "A gallery specializing in optical art.",
+                  "text": "A museum of optical art and illusion in Loma Toronto.",
                   "category": "museum",
                   "coords": [
                         -79.403286,
@@ -11434,7 +11434,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Absolute Comedy",
-                  "text": "A comedy club in Toronto.",
+                  "text": "A comedy club in Loma Toronto with live stand-up performances.",
                   "category": "cultural",
                   "coords": [
                         -79.398523,
@@ -11443,7 +11443,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Picture Perfect Gallery",
-                  "text": "An art gallery in Toronto.",
+                  "text": "A gallery in Loma Toronto dedicated to photographic art.",
                   "category": "museum",
                   "coords": [
                         -79.399854,
@@ -11452,7 +11452,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Spadina Museum",
-                  "text": "Spadina Museum is a historic house museum with Victorian gardens in Toronto.",
+                  "text": "Spadina Museum is a 19th-century mansion in Toronto with preserved Victorian interiors and five acres of gardens.",
                   "category": "museum",
                   "coords": [
                         -79.408114,
@@ -11461,7 +11461,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Casa Loma",
-                  "text": "A historic castle and viewpoint in Toronto.",
+                  "text": "A natural hilltop park in Loma Toronto with views over the city.",
                   "category": "natural",
                   "coords": [
                         -79.409121,
@@ -11470,7 +11470,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Germain Gallery",
-                  "text": "An art gallery in Toronto.",
+                  "text": "An art gallery in Loma Toronto featuring contemporary works.",
                   "category": "museum",
                   "coords": [
                         -79.404248,
@@ -11479,7 +11479,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Jean Sibelius Square",
-                  "text": "A park named after composer Jean Sibelius in Toronto.",
+                  "text": "A square named after the Finnish composer Jean Sibelius.",
                   "category": "park",
                   "coords": [
                         -79.408813,
@@ -11488,7 +11488,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Iskcon",
-                  "text": "Iskcon is a Hare Krishna temple in Toronto.",
+                  "text": "The ISKCON Hare Krishna Temple in Toronto features a striking golden dome and offers vegetarian meals daily.",
                   "category": "religious",
                   "coords": [
                         -79.397106,
@@ -11497,7 +11497,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "David A. Balfour Park",
-                  "text": "David A. Balfour Park is a park in Toronto.",
+                  "text": "A park named after David A. Balfour.",
                   "category": "park",
                   "coords": [
                         -79.386907,
@@ -11506,7 +11506,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Calvin Presbyterian Church",
-                  "text": "Calvin Presbyterian Church is a Presbyterian church in Toronto.",
+                  "text": "Calvin Presbyterian Church in Toronto is a Gothic Revival stone church built in 1915.",
                   "category": "religious",
                   "coords": [
                         -79.396061,
@@ -11515,7 +11515,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ Church Deer Park",
-                  "text": "Christ Church Deer Park is an Anglican church in Toronto.",
+                  "text": "Christ Church Deer Park in Toronto is an Anglican church built in 1910 with a distinctive wooden interior.",
                   "category": "religious",
                   "coords": [
                         -79.39573,
@@ -11524,7 +11524,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Al Green Sculpture Park",
-                  "text": "Al Green Sculpture Park is a park in Toronto.",
+                  "text": "A sculpture park named after the singer Al Green.",
                   "category": "park",
                   "coords": [
                         -79.39437,
@@ -11533,7 +11533,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Yorkminster Park Baptist Church",
-                  "text": "Yorkminster Park Baptist Church is a Baptist church in Toronto.",
+                  "text": "Yorkminster Park Baptist Church in Toronto is known for its massive pipe organ and Gothic architecture.",
                   "category": "religious",
                   "coords": [
                         -79.394243,
@@ -11551,7 +11551,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St Peter's Estonian Lutheran Church",
-                  "text": "St Peter's Estonian Lutheran Church is a Lutheran church in Toronto.",
+                  "text": "The only Estonian Lutheran church in Toronto.",
                   "category": "religious",
                   "coords": [
                         -79.390184,
@@ -11560,7 +11560,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "First Christian Reformed Church of Toronto",
-                  "text": "First Christian Reformed Church of Toronto is a Christian Reformed church in Toronto.",
+                  "text": "First Christian Reformed Church of Toronto serves the Dutch community in Scarborough with services in English and Dutch.",
                   "category": "religious",
                   "coords": [
                         -79.388116,
@@ -11569,7 +11569,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "June Rowlands Park",
-                  "text": "June Rowlands Park is a park in Toronto.",
+                  "text": "A park named after June Rowlands, the first female mayor of Toronto.",
                   "category": "park",
                   "coords": [
                         -79.388572,
@@ -11578,7 +11578,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Covenant Baptist Church",
-                  "text": "Covenant Baptist Church is a Baptist church in Toronto.",
+                  "text": "A Baptist church in the Loma district of Toronto.",
                   "category": "religious",
                   "coords": [
                         -79.402927,
@@ -11596,7 +11596,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Eglinton Park",
-                  "text": "Eglinton Park is a large park in Toronto.",
+                  "text": "Eglinton Park in midtown Toronto features a pond, skating rink, and sports fields.",
                   "category": "park",
                   "coords": [
                         -79.405334,
@@ -11614,7 +11614,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sir Winston Churchill Park",
-                  "text": "Sir Winston Churchill Park is a park in Toronto.",
+                  "text": "A park named after Sir Winston Churchill, the British prime minister.",
                   "category": "park",
                   "coords": [
                         -79.408804,
@@ -11623,7 +11623,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Toronto Archives",
-                  "text": "Toronto Archives is a museum in Toronto housing historical records.",
+                  "text": "A museum in Loma Toronto preserving historical records and documents.",
                   "category": "museum",
                   "coords": [
                         -79.407182,
@@ -11683,7 +11683,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Craigdarroch Castle",
-                  "text": "Das Craigdarroch Castle ist ein Museum und ein historisches Herrenhaus in Victoria.",
+                  "text": "Das Craigdarroch Castle in Victoria ist ein viktorianisches Herrenhaus aus dem Jahr 1890 mit opulenten Innenräumen.",
                   "category": "museum",
                   "coords": [
                         -123.343804,
@@ -11701,7 +11701,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pemberton Memorial Operating Room",
-                  "text": "Das Pemberton Memorial Operating Room ist ein Museum, das einen historischen Operationssaal zeigt.",
+                  "text": "1896 eröffnet, bewahrt dieses Museum einen der ältesten Operationssäle Kanadas in Castle Victoria.",
                   "category": "museum",
                   "coords": [
                         -123.32787,
@@ -11719,7 +11719,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Island Lighthouse",
-                  "text": "Der Discovery Island Lighthouse ist ein Leuchtturm auf Discovery Island.",
+                  "text": "Der Discovery Island Lighthouse vor Victoria ist ein Leuchtturm auf einer Insel im Juan-de-Fuca-Strait.",
                   "category": "landmark",
                   "coords": [
                         -123.225663,
@@ -11728,7 +11728,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grove of tall Chinese windmill palm (Trachycarpus fortunei)",
-                  "text": "Ein Hain aus hohen chinesischen Windmühlenpalmen in Victoria.",
+                  "text": "Der Hain der hohen chinesischen Fächerpalmen (Trachycarpus fortunei) in Victoria ist eine seltene Palmenansammlung.",
                   "category": "park",
                   "coords": [
                         -123.344483,
@@ -11737,7 +11737,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Island Marine Provincial Park",
-                  "text": "Der Discovery Island Marine Provincial Park ist ein Naturschutzgebiet auf Discovery Island.",
+                  "text": "Der Discovery Island Marine Provincial Park vor Victoria schützt ein Meeresökosystem mit Robben und Seevögeln.",
                   "category": "natural",
                   "coords": [
                         -123.236656,
@@ -11746,7 +11746,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Belfry Theatre",
-                  "text": "Das Belfry Theatre ist ein Theater in Victoria.",
+                  "text": "Das Theater in einer umgebauten Kirche in Victoria.",
                   "category": "cultural",
                   "coords": [
                         -123.34544,
@@ -11755,7 +11755,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "University Farquhar Auditorium",
-                  "text": "Das University Farquhar Auditorium ist ein Auditorium der Universität in Victoria.",
+                  "text": "Das Hauptauditorium auf dem Campus der University of Victoria.",
                   "category": "cultural",
                   "coords": [
                         -123.311762,
@@ -11764,7 +11764,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cadboro Bay",
-                  "text": "Die Cadboro Bay ist eine Bucht in Victoria.",
+                  "text": "Ein Sandstrand und eine Bucht in Victoria.",
                   "category": "landmark",
                   "coords": [
                         -123.287406,
@@ -11773,7 +11773,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sheep Cove",
-                  "text": "Der Sheep Cove ist eine Bucht in Victoria.",
+                  "text": "Eine kleine Bucht, benannt nach Schafen.",
                   "category": "landmark",
                   "coords": [
                         -123.284717,
@@ -11782,7 +11782,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maynard Cove",
-                  "text": "Der Maynard Cove ist eine Bucht in Victoria.",
+                  "text": "Eine Bucht, benannt nach Maynard.",
                   "category": "landmark",
                   "coords": [
                         -123.266493,
@@ -11791,7 +11791,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Arbutus Cove",
-                  "text": "Der Arbutus Cove ist eine Bucht in Victoria.",
+                  "text": "Eine Bucht, benannt nach den dort wachsenden Erdbeerbäumen.",
                   "category": "landmark",
                   "coords": [
                         -123.301802,
@@ -11800,7 +11800,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glencoe Cove",
-                  "text": "Der Glencoe Cove ist eine Bucht in Victoria.",
+                  "text": "Eine Bucht, benannt nach Glencoe in Schottland.",
                   "category": "landmark",
                   "coords": [
                         -123.301834,
@@ -11809,7 +11809,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Margaret Bay",
-                  "text": "Die Margaret Bay ist eine Bucht in Victoria.",
+                  "text": "Eine Bucht, benannt nach Margaret.",
                   "category": "landmark",
                   "coords": [
                         -123.311368,
@@ -11818,7 +11818,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vantreight Cove",
-                  "text": "Der Vantreight Cove ist eine Bucht in Victoria.",
+                  "text": "Eine Bucht, benannt nach der Familie Vantreight.",
                   "category": "landmark",
                   "coords": [
                         -123.308001,
@@ -11827,7 +11827,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finnerty Cove",
-                  "text": "Der Finnerty Cove ist eine Bucht in Victoria.",
+                  "text": "Eine Bucht, benannt nach Finnerty.",
                   "category": "landmark",
                   "coords": [
                         -123.297762,
@@ -11836,7 +11836,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anderson Hill",
-                  "text": "Der Anderson Hill ist ein Hügel in Victoria.",
+                  "text": "Ein Hügel, benannt nach Anderson.",
                   "category": "natural",
                   "coords": [
                         -123.305909,
@@ -11845,7 +11845,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gonzales Hill",
-                  "text": "Der Gonzales Hill ist ein Hügel in Victoria.",
+                  "text": "Ein Hügel, benannt nach Gonzales.",
                   "category": "natural",
                   "coords": [
                         -123.320488,
@@ -11854,7 +11854,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prevost Hill",
-                  "text": "Der Prevost Hill ist ein Hügel in Victoria.",
+                  "text": "Ein Hügel, benannt nach Prevost.",
                   "category": "natural",
                   "coords": [
                         -123.278327,
@@ -11863,7 +11863,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Tolmie",
-                  "text": "Der Mount Tolmie ist ein Hügel in Victoria.",
+                  "text": "Ein Hügel, benannt nach Simon Fraser Tolmie, dem ehemaligen Premierminister von British Columbia.",
                   "category": "natural",
                   "coords": [
                         -123.325604,
@@ -11872,7 +11872,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Abkhazi Garden",
-                  "text": "Der Abkhazi Garden ist ein Garten in Victoria.",
+                  "text": "Ein Garten, der in den 1940er Jahren von Prinz und Prinzessin Abkhazi angelegt wurde.",
                   "category": "park",
                   "coords": [
                         -123.326531,
@@ -11881,7 +11881,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Uplands Park",
-                  "text": "Der Uplands Park ist ein Park in Victoria.",
+                  "text": "Ein Park im Uplands-Viertel von Victoria.",
                   "category": "park",
                   "coords": [
                         -123.298206,
@@ -11890,7 +11890,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ten Mile Point Ecological Reserve",
-                  "text": "Das Ten Mile Point Ecological Reserve ist ein Naturschutzgebiet in Victoria.",
+                  "text": "1975 eingerichtetes ökologisches Reservat an der Küste von Vancouver Island.",
                   "category": "natural",
                   "coords": [
                         -123.264395,
@@ -11899,7 +11899,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Phyllis Park",
-                  "text": "Der Phyllis Park ist ein Park in Victoria.",
+                  "text": "Ein Park, benannt nach Phyllis.",
                   "category": "park",
                   "coords": [
                         -123.276,
@@ -11908,7 +11908,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Konukson Park",
-                  "text": "Der Konukson Park ist ein Park in Victoria.",
+                  "text": "Ein Park, benannt nach Konukson.",
                   "category": "park",
                   "coords": [
                         -123.274658,
@@ -11917,7 +11917,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cadboro-Gyro Park",
-                  "text": "Der Cadboro-Gyro Park ist ein Park in Victoria.",
+                  "text": "Ein Park, benannt nach dem Cadboro-Viertel und dem Gyro-Club.",
                   "category": "park",
                   "coords": [
                         -123.294153,
@@ -11926,7 +11926,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finnerty Gardens",
-                  "text": "Die Finnerty Gardens sind Gärten in Victoria.",
+                  "text": "Die Gärten auf dem Campus der University of Victoria.",
                   "category": "park",
                   "coords": [
                         -123.316448,
@@ -11935,7 +11935,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wentworth Villa",
-                  "text": "Die Wentworth Villa ist ein Museum in Victoria.",
+                  "text": "Ein historisches Villenmuseum in Castle Victoria mit Einrichtungen aus der Epoche.",
                   "category": "museum",
                   "coords": [
                         -123.351619,
@@ -11944,7 +11944,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "FLUX Media Gallery",
-                  "text": "Die FLUX Media Gallery ist eine Galerie in Victoria.",
+                  "text": "Eine Galerie in Castle Victoria, die sich auf digitale und Medienkunst konzentriert.",
                   "category": "museum",
                   "coords": [
                         -123.337243,
@@ -11953,7 +11953,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Totem Pole laying down",
-                  "text": "Der alte Totempfahl ist eine Ruine in Victoria.",
+                  "text": "Ein historischer, umgefallener Totempfahl in Castle Victoria.",
                   "category": "historical",
                   "coords": [
                         -123.339836,
@@ -11962,7 +11962,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Captain Ernest Godfrey Beaumont's House",
-                  "text": "Das Haus von Captain Ernest Godfrey Beaumont ist eine Ruine in Victoria.",
+                  "text": "Das restaurierte Haus aus dem 19. Jahrhundert eines Kapitäns in Castle Victoria.",
                   "category": "historical",
                   "coords": [
                         -123.239653,
@@ -11971,7 +11971,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langham Court Theatre",
-                  "text": "Das Langham Court Theatre ist ein Theater in Victoria.",
+                  "text": "Ein Theater in Castle Victoria, das Bühnenstücke und Aufführungen zeigt.",
                   "category": "cultural",
                   "coords": [
                         -123.349195,
@@ -11980,7 +11980,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christine Duke Theatre",
-                  "text": "Ein Theater im Craigdarroch-Castle-Bereich von Victoria.",
+                  "text": "Ein weiteres Theater in Castle Victoria für kulturelle Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -123.327613,
@@ -11989,7 +11989,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gonzales Bay Erratic",
-                  "text": "Ein Findling (glazialer Erratik) in der Gonzales Bay in Victoria.",
+                  "text": "Ein großer Findling aus der Eiszeit an der Gonzales Bay in Castle Victoria.",
                   "category": "landmark",
                   "coords": [
                         -123.326925,
@@ -12016,7 +12016,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Oak Bay Islands Ecological Reserve",
-                  "text": "Ein Naturschutzgebiet mit Inseln nahe Oak Bay bei Victoria.",
+                  "text": "Das 1979 eingerichtete Oak Bay Islands Ecological Reserve in Castle Victoria ist ein Naturschutzgebiet.",
                   "category": "natural",
                   "coords": [
                         -123.26384,
@@ -12025,7 +12025,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trial Islands Ecological Reserve",
-                  "text": "Ein Naturschutzgebiet auf den Trial Islands vor Victoria.",
+                  "text": "Ein geschütztes ökologisches Reservat auf den Trial Islands bei Castle Victoria.",
                   "category": "natural",
                   "coords": [
                         -123.305373,
@@ -12036,7 +12036,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Craigdarroch Castle",
-                  "text": "A Craigdarroch Castle egy múzeum és történelmi kastély Victoriában.",
+                  "text": "A Victoriai Craigdarroch Castle egy 1890-ben épült viktoriánus kúria fényűző enteriőrökkel.",
                   "category": "museum",
                   "coords": [
                         -123.343804,
@@ -12054,7 +12054,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pemberton Memorial Operating Room",
-                  "text": "A Pemberton Memorial Operating Room egy múzeum, amely egy történelmi műtőt mutat be.",
+                  "text": "1896-ban nyitották meg, ez a múzeum Kanada egyik legrégebbi műtőjét őrzi a Castle Victoria-ban.",
                   "category": "museum",
                   "coords": [
                         -123.32787,
@@ -12072,7 +12072,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Island Lighthouse",
-                  "text": "A Discovery Island Lighthouse egy világítótorony a Discovery Island-en.",
+                  "text": "A Victoria előtti Discovery Island Világítótorony egy szigeten áll a Juan de Fuca-szorosban.",
                   "category": "landmark",
                   "coords": [
                         -123.225663,
@@ -12081,7 +12081,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grove of tall Chinese windmill palm (Trachycarpus fortunei)",
-                  "text": "Magas kínai szélmalompálmák ligete Victoriában.",
+                  "text": "A Victoriai magas kínai legyezőpálmák (Trachycarpus fortunei) ligete egy ritka pálmagyűjtemény.",
                   "category": "park",
                   "coords": [
                         -123.344483,
@@ -12090,7 +12090,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Island Marine Provincial Park",
-                  "text": "A Discovery Island Marine Provincial Park egy természetvédelmi terület a Discovery Island-en.",
+                  "text": "A Victoria előtti Discovery Island Marine Provincial Park egy tengeri ökoszisztémát véd, fókákkal és tengeri madarakkal.",
                   "category": "natural",
                   "coords": [
                         -123.236656,
@@ -12099,7 +12099,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Belfry Theatre",
-                  "text": "A Belfry Theatre egy színház Victoriában.",
+                  "text": "A színház egy átalakított templomban Victoriában.",
                   "category": "cultural",
                   "coords": [
                         -123.34544,
@@ -12108,7 +12108,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "University Farquhar Auditorium",
-                  "text": "A University Farquhar Auditorium egy egyetemi előadóterem Victoriában.",
+                  "text": "A Victoriai Egyetem campusának fő előadóterme.",
                   "category": "cultural",
                   "coords": [
                         -123.311762,
@@ -12117,7 +12117,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cadboro Bay",
-                  "text": "A Cadboro Bay egy öböl Victoriában.",
+                  "text": "Egy homokos strand és öböl Victoriában.",
                   "category": "landmark",
                   "coords": [
                         -123.287406,
@@ -12126,7 +12126,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sheep Cove",
-                  "text": "A Sheep Cove egy öböl Victoriában.",
+                  "text": "Egy kis öböl, amely a juhokról kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         -123.284717,
@@ -12135,7 +12135,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maynard Cove",
-                  "text": "A Maynard Cove egy öböl Victoriában.",
+                  "text": "Maynardról elnevezett öböl.",
                   "category": "landmark",
                   "coords": [
                         -123.266493,
@@ -12144,7 +12144,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Arbutus Cove",
-                  "text": "Az Arbutus Cove egy öböl Victoriában.",
+                  "text": "Öböl, amely a parton növő szamócafákról kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         -123.301802,
@@ -12153,7 +12153,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glencoe Cove",
-                  "text": "A Glencoe Cove egy öböl Victoriában.",
+                  "text": "A skóciai Glencoe-ról elnevezett öböl.",
                   "category": "landmark",
                   "coords": [
                         -123.301834,
@@ -12162,7 +12162,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Margaret Bay",
-                  "text": "A Margaret Bay egy öböl Victoriában.",
+                  "text": "Margaretról elnevezett öböl.",
                   "category": "landmark",
                   "coords": [
                         -123.311368,
@@ -12171,7 +12171,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vantreight Cove",
-                  "text": "A Vantreight Cove egy öböl Victoriában.",
+                  "text": "A Vantreight családról elnevezett öböl.",
                   "category": "landmark",
                   "coords": [
                         -123.308001,
@@ -12180,7 +12180,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finnerty Cove",
-                  "text": "A Finnerty Cove egy öböl Victoriában.",
+                  "text": "Finnertyről elnevezett öböl.",
                   "category": "landmark",
                   "coords": [
                         -123.297762,
@@ -12189,7 +12189,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anderson Hill",
-                  "text": "Az Anderson Hill egy domb Victoriában.",
+                  "text": "Andersonról elnevezett domb.",
                   "category": "natural",
                   "coords": [
                         -123.305909,
@@ -12198,7 +12198,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gonzales Hill",
-                  "text": "A Gonzales Hill egy domb Victoriában.",
+                  "text": "Gonzalesről elnevezett domb.",
                   "category": "natural",
                   "coords": [
                         -123.320488,
@@ -12207,7 +12207,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prevost Hill",
-                  "text": "A Prevost Hill egy domb Victoriában.",
+                  "text": "Prevostról elnevezett domb.",
                   "category": "natural",
                   "coords": [
                         -123.278327,
@@ -12216,7 +12216,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Tolmie",
-                  "text": "A Mount Tolmie egy domb Victoriában.",
+                  "text": "Simon Fraser Tolmie, Brit Kolumbia egykori miniszterelnökéről elnevezett domb.",
                   "category": "natural",
                   "coords": [
                         -123.325604,
@@ -12225,7 +12225,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Abkhazi Garden",
-                  "text": "Az Abkhazi Garden egy kert Victoriában.",
+                  "text": "Az 1940-es években Abkhazi herceg és hercegnő által létrehozott kert.",
                   "category": "park",
                   "coords": [
                         -123.326531,
@@ -12234,7 +12234,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Uplands Park",
-                  "text": "Az Uplands Park egy park Victoriában.",
+                  "text": "Egy park Victoria Uplands negyedében.",
                   "category": "park",
                   "coords": [
                         -123.298206,
@@ -12243,7 +12243,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ten Mile Point Ecological Reserve",
-                  "text": "A Ten Mile Point Ecological Reserve egy természetvédelmi terület Victoriában.",
+                  "text": "1975-ben létrehozott ökológiai rezervátum a Vancouver-sziget partján.",
                   "category": "natural",
                   "coords": [
                         -123.264395,
@@ -12252,7 +12252,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Phyllis Park",
-                  "text": "A Phyllis Park egy park Victoriában.",
+                  "text": "Phyllisről elnevezett park.",
                   "category": "park",
                   "coords": [
                         -123.276,
@@ -12261,7 +12261,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Konukson Park",
-                  "text": "A Konukson Park egy park Victoriában.",
+                  "text": "Konuksonról elnevezett park.",
                   "category": "park",
                   "coords": [
                         -123.274658,
@@ -12270,7 +12270,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cadboro-Gyro Park",
-                  "text": "A Cadboro-Gyro Park egy park Victoriában.",
+                  "text": "A Cadboro negyedről és a Gyro Clubról elnevezett park.",
                   "category": "park",
                   "coords": [
                         -123.294153,
@@ -12279,7 +12279,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finnerty Gardens",
-                  "text": "A Finnerty Gardens kertek Victoriában.",
+                  "text": "A Victoriai Egyetem campusának kertjei.",
                   "category": "park",
                   "coords": [
                         -123.316448,
@@ -12288,7 +12288,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wentworth Villa",
-                  "text": "A Wentworth Villa egy múzeum Victoriában.",
+                  "text": "Egy történelmi villamúzeum Castle Victoriában, korszakbútorokkal.",
                   "category": "museum",
                   "coords": [
                         -123.351619,
@@ -12297,7 +12297,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "FLUX Media Gallery",
-                  "text": "A FLUX Media Gallery egy galéria Victoriában.",
+                  "text": "Egy galéria Castle Victoriában, amely digitális és médiaművészetre összpontosít.",
                   "category": "museum",
                   "coords": [
                         -123.337243,
@@ -12306,7 +12306,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Totem Pole laying down",
-                  "text": "A régi totemoszlop egy rom Victoriában.",
+                  "text": "Egy történelmi, eldőlt totemoszlop Castle Victoriában.",
                   "category": "historical",
                   "coords": [
                         -123.339836,
@@ -12315,7 +12315,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Captain Ernest Godfrey Beaumont's House",
-                  "text": "Ernest Godfrey Beaumont kapitány háza egy rom Victoriában.",
+                  "text": "Egy 19. századi kapitányház helyreállítva Castle Victoriában.",
                   "category": "historical",
                   "coords": [
                         -123.239653,
@@ -12324,7 +12324,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langham Court Theatre",
-                  "text": "A Langham Court Theatre egy színház Victoriában.",
+                  "text": "Egy színház Castle Victoriában, amely színdarabokat és előadásokat játszik.",
                   "category": "cultural",
                   "coords": [
                         -123.349195,
@@ -12333,7 +12333,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christine Duke Theatre",
-                  "text": "Színház a Victoria-i Craigdarroch-kastély területén.",
+                  "text": "Egy másik színház Castle Victoriában kulturális előadások számára.",
                   "category": "cultural",
                   "coords": [
                         -123.327613,
@@ -12342,7 +12342,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gonzales Bay Erratic",
-                  "text": "Gleccser által szállított szikla (erratikus) a Victoria-i Gonzales-öbölben.",
+                  "text": "Egy nagy jégkorszaki vándorkő a Gonzales-öbölben, Castle Victoriában.",
                   "category": "landmark",
                   "coords": [
                         -123.326925,
@@ -12369,7 +12369,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Oak Bay Islands Ecological Reserve",
-                  "text": "Természetvédelmi terület szigetekkel Oak Bay közelében, Victoria mellett.",
+                  "text": "Az 1979-ben létrehozott Oak Bay-szigetek Ökológiai Rezervátuma Castle Victoria-ban természetvédelmi terület.",
                   "category": "natural",
                   "coords": [
                         -123.26384,
@@ -12378,7 +12378,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trial Islands Ecological Reserve",
-                  "text": "Természetvédelmi terület a Trial-szigeteken, Victoria partjainál.",
+                  "text": "Egy védett ökológiai rezervátum a Trial-szigeteken, Castle Victoria közelében.",
                   "category": "natural",
                   "coords": [
                         -123.305373,
@@ -12389,7 +12389,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Craigdarroch Castle",
-                  "text": "Castelul Craigdarroch este un muzeu și un conac istoric în Victoria.",
+                  "text": "Castelul Craigdarroch din Victoria este un conac victorian construit în 1890, cu interioare opulente.",
                   "category": "museum",
                   "coords": [
                         -123.343804,
@@ -12407,7 +12407,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pemberton Memorial Operating Room",
-                  "text": "Sala de Operație Memorială Pemberton este un muzeu care prezintă un salon operator istoric.",
+                  "text": "Deschis în 1896, acest muzeu păstrează una dintre cele mai vechi săli de operație din Canada, în Castle Victoria.",
                   "category": "museum",
                   "coords": [
                         -123.32787,
@@ -12425,7 +12425,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Island Lighthouse",
-                  "text": "Farul de pe Insula Discovery este un far pe Insula Discovery.",
+                  "text": "Farul Insulei Discovery de lângă Victoria este un far situat pe o insulă în Strâmtoarea Juan de Fuca.",
                   "category": "landmark",
                   "coords": [
                         -123.225663,
@@ -12434,7 +12434,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grove of tall Chinese windmill palm (Trachycarpus fortunei)",
-                  "text": "O pădurice de palmieri chinezești înalți (Trachycarpus fortunei) în Victoria.",
+                  "text": "Crângul de palmieri chinezești înalți (Trachycarpus fortunei) din Victoria este o colecție rară de palmieri.",
                   "category": "park",
                   "coords": [
                         -123.344483,
@@ -12443,7 +12443,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Island Marine Provincial Park",
-                  "text": "Parcul Marin Provincial al Insulei Discovery este o rezervație naturală pe Insula Discovery.",
+                  "text": "Parcul Marin Provincial Insula Discovery de lângă Victoria protejează un ecosistem marin cu foci și păsări de mare.",
                   "category": "natural",
                   "coords": [
                         -123.236656,
@@ -12452,7 +12452,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Belfry Theatre",
-                  "text": "Teatrul Belfry este un teatru în Victoria.",
+                  "text": "Teatrul într-o biserică transformată din Victoria.",
                   "category": "cultural",
                   "coords": [
                         -123.34544,
@@ -12461,7 +12461,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "University Farquhar Auditorium",
-                  "text": "Auditoriul Farquhar al Universității este un auditoriu universitar în Victoria.",
+                  "text": "Auditoriul principal de pe campusul Universității Victoria.",
                   "category": "cultural",
                   "coords": [
                         -123.311762,
@@ -12470,7 +12470,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cadboro Bay",
-                  "text": "Golful Cadboro este un golf în Victoria.",
+                  "text": "O plajă nisipoasă și un golf în Victoria.",
                   "category": "landmark",
                   "coords": [
                         -123.287406,
@@ -12479,7 +12479,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sheep Cove",
-                  "text": "Golful Sheep (Sheep Cove) este un golf în Victoria.",
+                  "text": "Un mic golf numit după oi.",
                   "category": "landmark",
                   "coords": [
                         -123.284717,
@@ -12488,7 +12488,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maynard Cove",
-                  "text": "Golful Maynard (Maynard Cove) este un golf în Victoria.",
+                  "text": "Un golf numit după Maynard.",
                   "category": "landmark",
                   "coords": [
                         -123.266493,
@@ -12497,7 +12497,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Arbutus Cove",
-                  "text": "Golful Arbutus (Arbutus Cove) este un golf în Victoria.",
+                  "text": "Un golf numit după arbuștii de arbuți care cresc acolo.",
                   "category": "landmark",
                   "coords": [
                         -123.301802,
@@ -12506,7 +12506,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glencoe Cove",
-                  "text": "Golful Glencoe (Glencoe Cove) este un golf în Victoria.",
+                  "text": "Un golf numit după Glencoe din Scoția.",
                   "category": "landmark",
                   "coords": [
                         -123.301834,
@@ -12515,7 +12515,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Margaret Bay",
-                  "text": "Golful Margaret (Margaret Bay) este un golf în Victoria.",
+                  "text": "Un golf numit după Margaret.",
                   "category": "landmark",
                   "coords": [
                         -123.311368,
@@ -12524,7 +12524,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vantreight Cove",
-                  "text": "Golful Vantreight (Vantreight Cove) este un golf în Victoria.",
+                  "text": "Un golf numit după familia Vantreight.",
                   "category": "landmark",
                   "coords": [
                         -123.308001,
@@ -12533,7 +12533,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finnerty Cove",
-                  "text": "Golful Finnerty (Finnerty Cove) este un golf în Victoria.",
+                  "text": "Un golf numit după Finnerty.",
                   "category": "landmark",
                   "coords": [
                         -123.297762,
@@ -12542,7 +12542,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anderson Hill",
-                  "text": "Dealul Anderson (Anderson Hill) este un deal în Victoria.",
+                  "text": "Un deal numit după Anderson.",
                   "category": "natural",
                   "coords": [
                         -123.305909,
@@ -12551,7 +12551,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gonzales Hill",
-                  "text": "Dealul Gonzales (Gonzales Hill) este un deal în Victoria.",
+                  "text": "Un deal numit după Gonzales.",
                   "category": "natural",
                   "coords": [
                         -123.320488,
@@ -12560,7 +12560,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prevost Hill",
-                  "text": "Dealul Prevost (Prevost Hill) este un deal în Victoria.",
+                  "text": "Un deal numit după Prevost.",
                   "category": "natural",
                   "coords": [
                         -123.278327,
@@ -12569,7 +12569,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Tolmie",
-                  "text": "Muntele Tolmie (Mount Tolmie) este un deal în Victoria.",
+                  "text": "Un deal numit după Simon Fraser Tolmie, fostul premier al Columbiei Britanice.",
                   "category": "natural",
                   "coords": [
                         -123.325604,
@@ -12578,7 +12578,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Abkhazi Garden",
-                  "text": "Grădina Abkhazi (Abkhazi Garden) este o grădină în Victoria.",
+                  "text": "O grădină creată în anii 1940 de prințul și prințesa Abkhazi.",
                   "category": "park",
                   "coords": [
                         -123.326531,
@@ -12587,7 +12587,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Uplands Park",
-                  "text": "Parcul Uplands (Uplands Park) este un parc în Victoria.",
+                  "text": "Un parc în cartierul Uplands din Victoria.",
                   "category": "park",
                   "coords": [
                         -123.298206,
@@ -12596,7 +12596,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ten Mile Point Ecological Reserve",
-                  "text": "Rezervația Ecologică Ten Mile Point este o rezervație naturală în Victoria.",
+                  "text": "Rezervație ecologică înființată în 1975 pe coasta Insulei Vancouver.",
                   "category": "natural",
                   "coords": [
                         -123.264395,
@@ -12605,7 +12605,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Phyllis Park",
-                  "text": "Parcul Phyllis (Phyllis Park) este un parc în Victoria.",
+                  "text": "Un parc numit după Phyllis.",
                   "category": "park",
                   "coords": [
                         -123.276,
@@ -12614,7 +12614,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Konukson Park",
-                  "text": "Parcul Konukson (Konukson Park) este un parc în Victoria.",
+                  "text": "Un parc numit după Konukson.",
                   "category": "park",
                   "coords": [
                         -123.274658,
@@ -12623,7 +12623,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cadboro-Gyro Park",
-                  "text": "Parcul Cadboro-Gyro (Cadboro-Gyro Park) este un parc în Victoria.",
+                  "text": "Un parc numit după cartierul Cadboro și clubul Gyro.",
                   "category": "park",
                   "coords": [
                         -123.294153,
@@ -12632,7 +12632,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finnerty Gardens",
-                  "text": "Grădinile Finnerty (Finnerty Gardens) sunt grădini în Victoria.",
+                  "text": "Grădinile de pe campusul Universității Victoria.",
                   "category": "park",
                   "coords": [
                         -123.316448,
@@ -12641,7 +12641,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wentworth Villa",
-                  "text": "Vila Wentworth (Wentworth Villa) este un muzeu în Victoria.",
+                  "text": "Un muzeu într-o vilă istorică din Castle Victoria, cu mobilier de epocă.",
                   "category": "museum",
                   "coords": [
                         -123.351619,
@@ -12650,7 +12650,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "FLUX Media Gallery",
-                  "text": "Galerie Media FLUX (FLUX Media Gallery) este o galerie în Victoria.",
+                  "text": "O galerie în Castle Victoria axată pe arta digitală și media.",
                   "category": "museum",
                   "coords": [
                         -123.337243,
@@ -12659,7 +12659,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Totem Pole laying down",
-                  "text": "Vechiul Stâlp Totemic (Old Totem Pole) este o ruină în Victoria.",
+                  "text": "Un stâlp totemic istoric căzut în Castle Victoria.",
                   "category": "historical",
                   "coords": [
                         -123.339836,
@@ -12668,7 +12668,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Captain Ernest Godfrey Beaumont's House",
-                  "text": "Casa Căpitanului Ernest Godfrey Beaumont este o ruină în Victoria.",
+                  "text": "Casa restaurată din secolul al XIX-lea a unui căpitan în Castle Victoria.",
                   "category": "historical",
                   "coords": [
                         -123.239653,
@@ -12677,7 +12677,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langham Court Theatre",
-                  "text": "Teatrul Langham Court (Langham Court Theatre) este un teatru în Victoria.",
+                  "text": "Un teatru în Castle Victoria care găzduiește piese de teatru și spectacole.",
                   "category": "cultural",
                   "coords": [
                         -123.349195,
@@ -12686,7 +12686,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christine Duke Theatre",
-                  "text": "Un teatru în zona Castelului Craigdarroch din Victoria.",
+                  "text": "Un alt teatru în Castle Victoria pentru spectacole culturale.",
                   "category": "cultural",
                   "coords": [
                         -123.327613,
@@ -12695,7 +12695,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gonzales Bay Erratic",
-                  "text": "Un bolovan erratic glaciar în Golful Gonzales din Victoria.",
+                  "text": "Un bloc erratic glacial mare pe Golful Gonzales din Castle Victoria.",
                   "category": "landmark",
                   "coords": [
                         -123.326925,
@@ -12722,7 +12722,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Oak Bay Islands Ecological Reserve",
-                  "text": "O rezervație naturală cu insule lângă Oak Bay, aproape de Victoria.",
+                  "text": "Rezervația ecologică Insulele Oak Bay din Castle Victoria, înființată în 1979, este o arie protejată.",
                   "category": "natural",
                   "coords": [
                         -123.26384,
@@ -12731,7 +12731,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trial Islands Ecological Reserve",
-                  "text": "O rezervație naturală pe Insulele Trial, lângă Victoria.",
+                  "text": "O rezervație ecologică protejată pe Insulele Trial, lângă Castle Victoria.",
                   "category": "natural",
                   "coords": [
                         -123.305373,
@@ -12742,7 +12742,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Craigdarroch Castle",
-                  "text": "Craigdarroch Castle is a museum and historic house in Victoria.",
+                  "text": "Craigdarroch Castle is a Victorian-era mansion in Victoria, built in 1890 for coal baron Robert Dunsmuir.",
                   "category": "museum",
                   "coords": [
                         -123.343804,
@@ -12760,7 +12760,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pemberton Memorial Operating Room",
-                  "text": "The Pemberton Memorial Operating Room is a museum displaying a historic operating room.",
+                  "text": "Opened in 1896, this museum preserves one of the oldest operating rooms in Canada, located in Castle Victoria.",
                   "category": "museum",
                   "coords": [
                         -123.32787,
@@ -12778,7 +12778,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Island Lighthouse",
-                  "text": "Discovery Island Lighthouse is a lighthouse on Discovery Island.",
+                  "text": "Discovery Island Lighthouse, built in 1886, marks the entrance to Victoria Harbour from the Juan de Fuca Strait.",
                   "category": "landmark",
                   "coords": [
                         -123.225663,
@@ -12787,7 +12787,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grove of tall Chinese windmill palm (Trachycarpus fortunei)",
-                  "text": "A grove of tall Chinese windmill palms (Trachycarpus fortunei) in Victoria.",
+                  "text": "This grove of tall Chinese windmill palms in Victoria's Beacon Hill Park features hardy palms rare for the latitude.",
                   "category": "park",
                   "coords": [
                         -123.344483,
@@ -12796,7 +12796,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Discovery Island Marine Provincial Park",
-                  "text": "Discovery Island Marine Provincial Park is a nature reserve on Discovery Island.",
+                  "text": "Discovery Island Marine Provincial Park is a protected area off Victoria, home to seals, sea lions, and nesting seabirds.",
                   "category": "natural",
                   "coords": [
                         -123.236656,
@@ -12805,7 +12805,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Belfry Theatre",
-                  "text": "Belfry Theatre is a theatre in Victoria.",
+                  "text": "The theatre in a converted church in Victoria.",
                   "category": "cultural",
                   "coords": [
                         -123.34544,
@@ -12814,7 +12814,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "University Farquhar Auditorium",
-                  "text": "University Farquhar Auditorium is a university auditorium in Victoria.",
+                  "text": "The main auditorium on the University of Victoria campus.",
                   "category": "cultural",
                   "coords": [
                         -123.311762,
@@ -12823,7 +12823,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cadboro Bay",
-                  "text": "Cadboro Bay is a bay in Victoria.",
+                  "text": "A sandy beach and bay in Victoria.",
                   "category": "landmark",
                   "coords": [
                         -123.287406,
@@ -12832,7 +12832,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sheep Cove",
-                  "text": "Sheep Cove is a bay in Victoria.",
+                  "text": "A small cove named after sheep.",
                   "category": "landmark",
                   "coords": [
                         -123.284717,
@@ -12841,7 +12841,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Maynard Cove",
-                  "text": "Maynard Cove is a bay in Victoria.",
+                  "text": "A cove named after Maynard.",
                   "category": "landmark",
                   "coords": [
                         -123.266493,
@@ -12850,7 +12850,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Arbutus Cove",
-                  "text": "Arbutus Cove is a bay in Victoria.",
+                  "text": "A cove named after the arbutus trees that grow there.",
                   "category": "landmark",
                   "coords": [
                         -123.301802,
@@ -12859,7 +12859,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glencoe Cove",
-                  "text": "Glencoe Cove is a bay in Victoria.",
+                  "text": "A cove named after Glencoe in Scotland.",
                   "category": "landmark",
                   "coords": [
                         -123.301834,
@@ -12868,7 +12868,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Margaret Bay",
-                  "text": "Margaret Bay is a bay in Victoria.",
+                  "text": "A bay named after Margaret.",
                   "category": "landmark",
                   "coords": [
                         -123.311368,
@@ -12877,7 +12877,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vantreight Cove",
-                  "text": "Vantreight Cove is a bay in Victoria.",
+                  "text": "A cove named after the Vantreight family.",
                   "category": "landmark",
                   "coords": [
                         -123.308001,
@@ -12886,7 +12886,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finnerty Cove",
-                  "text": "Finnerty Cove is a bay in Victoria.",
+                  "text": "A cove named after Finnerty.",
                   "category": "landmark",
                   "coords": [
                         -123.297762,
@@ -12895,7 +12895,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anderson Hill",
-                  "text": "Anderson Hill is a peak in Victoria.",
+                  "text": "A hill named after Anderson.",
                   "category": "natural",
                   "coords": [
                         -123.305909,
@@ -12904,7 +12904,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gonzales Hill",
-                  "text": "Gonzales Hill is a peak in Victoria.",
+                  "text": "A hill named after Gonzales.",
                   "category": "natural",
                   "coords": [
                         -123.320488,
@@ -12913,7 +12913,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prevost Hill",
-                  "text": "Prevost Hill is a peak in Victoria.",
+                  "text": "A hill named after Prevost.",
                   "category": "natural",
                   "coords": [
                         -123.278327,
@@ -12922,7 +12922,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Tolmie",
-                  "text": "Mount Tolmie is a peak in Victoria.",
+                  "text": "A hill named after Simon Fraser Tolmie, former premier of British Columbia.",
                   "category": "natural",
                   "coords": [
                         -123.325604,
@@ -12931,7 +12931,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Abkhazi Garden",
-                  "text": "Abkhazi Garden is a garden in Victoria.",
+                  "text": "A garden created by Prince and Princess Abkhazi in the 1940s.",
                   "category": "park",
                   "coords": [
                         -123.326531,
@@ -12940,7 +12940,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Uplands Park",
-                  "text": "Uplands Park is a park in Victoria.",
+                  "text": "A park in the Uplands neighbourhood of Victoria.",
                   "category": "park",
                   "coords": [
                         -123.298206,
@@ -12949,7 +12949,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ten Mile Point Ecological Reserve",
-                  "text": "Ten Mile Point Ecological Reserve is a nature reserve in Victoria.",
+                  "text": "Ecological reserve established in 1975 on the coast of Vancouver Island.",
                   "category": "natural",
                   "coords": [
                         -123.264395,
@@ -12958,7 +12958,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Phyllis Park",
-                  "text": "Phyllis Park is a park in Victoria.",
+                  "text": "A park named after Phyllis.",
                   "category": "park",
                   "coords": [
                         -123.276,
@@ -12967,7 +12967,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Konukson Park",
-                  "text": "Konukson Park is a park in Victoria.",
+                  "text": "A park named after Konukson.",
                   "category": "park",
                   "coords": [
                         -123.274658,
@@ -12976,7 +12976,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cadboro-Gyro Park",
-                  "text": "Cadboro-Gyro Park is a park in Victoria.",
+                  "text": "A park named after the Cadboro neighbourhood and the Gyro club.",
                   "category": "park",
                   "coords": [
                         -123.294153,
@@ -12985,7 +12985,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finnerty Gardens",
-                  "text": "Finnerty Gardens are gardens in Victoria.",
+                  "text": "The gardens on the University of Victoria campus.",
                   "category": "park",
                   "coords": [
                         -123.316448,
@@ -12994,7 +12994,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wentworth Villa",
-                  "text": "Wentworth Villa is a museum in Victoria.",
+                  "text": "A historic villa museum in Castle Victoria with period furnishings.",
                   "category": "museum",
                   "coords": [
                         -123.351619,
@@ -13003,7 +13003,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "FLUX Media Gallery",
-                  "text": "FLUX Media Gallery is a gallery in Victoria.",
+                  "text": "A gallery in Castle Victoria focusing on digital and media art.",
                   "category": "museum",
                   "coords": [
                         -123.337243,
@@ -13012,7 +13012,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Old Totem Pole laying down",
-                  "text": "Old Totem Pole laying down is a ruins in Victoria.",
+                  "text": "A historical fallen totem pole in Castle Victoria.",
                   "category": "historical",
                   "coords": [
                         -123.339836,
@@ -13021,7 +13021,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Captain Ernest Godfrey Beaumont's House",
-                  "text": "Captain Ernest Godfrey Beaumont's House is a ruins in Victoria.",
+                  "text": "The restored 19th-century home of a sea captain in Castle Victoria.",
                   "category": "historical",
                   "coords": [
                         -123.239653,
@@ -13030,7 +13030,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langham Court Theatre",
-                  "text": "Langham Court Theatre is a theatre in Victoria.",
+                  "text": "A theatre in Castle Victoria hosting plays and performances.",
                   "category": "cultural",
                   "coords": [
                         -123.349195,
@@ -13039,7 +13039,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christine Duke Theatre",
-                  "text": "A theatre in the Craigdarroch Castle area of Victoria.",
+                  "text": "Another theatre in Castle Victoria for cultural performances.",
                   "category": "cultural",
                   "coords": [
                         -123.327613,
@@ -13048,7 +13048,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gonzales Bay Erratic",
-                  "text": "A glacial erratic at Gonzales Bay in Victoria.",
+                  "text": "A large glacial erratic boulder on Gonzales Bay in Castle Victoria.",
                   "category": "landmark",
                   "coords": [
                         -123.326925,
@@ -13075,7 +13075,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Oak Bay Islands Ecological Reserve",
-                  "text": "An ecological reserve of islands near Oak Bay in Victoria.",
+                  "text": "Oak Bay Islands Ecological Reserve, established in 1979 in Castle Victoria, is a protected ecological area.",
                   "category": "natural",
                   "coords": [
                         -123.26384,
@@ -13084,7 +13084,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trial Islands Ecological Reserve",
-                  "text": "An ecological reserve on the Trial Islands near Victoria.",
+                  "text": "A protected ecological reserve on the Trial Islands near Castle Victoria.",
                   "category": "natural",
                   "coords": [
                         -123.305373,
@@ -13144,7 +13144,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Golf Hill",
-                  "text": "Golf Hill ist ein Gipfel in Victoria, British Columbia.",
+                  "text": "Ein Hügel in Victoria.",
                   "category": "natural",
                   "coords": [
                         -123.402154,
@@ -13153,7 +13153,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mile 0",
-                  "text": "Mile 0 ist eine Attraktion in Victoria, British Columbia.",
+                  "text": "Der historische Meilenstein Null (Mile 0) am Beginn des Trans-Canada Highway.",
                   "category": "landmark",
                   "coords": [
                         -123.369003,
@@ -13171,7 +13171,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tea at the Empress",
-                  "text": "Tea at the Empress ist eine Attraktion in Victoria, British Columbia.",
+                  "text": "Der 1908 eingeweihte Teeservice ‚Tea at the Empress‘ im Bc Museum ist ein historisches Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         -123.36786,
@@ -13189,7 +13189,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McLoughlin Point",
-                  "text": "McLoughlin Point ist eine Ruine in Victoria, British Columbia.",
+                  "text": "Ein historischer Punkt in Bc Museum, benannt nach dem Pelzhändler John McLoughlin.",
                   "category": "historical",
                   "coords": [
                         -123.397916,
@@ -13198,7 +13198,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Brotchie Ledge Light",
-                  "text": "Brotchie Ledge Light ist ein Leuchtturm in Victoria, British Columbia.",
+                  "text": "Ein Leuchtturm zur Navigation in den Hafen von Victoria in Bc Museum.",
                   "category": "landmark",
                   "coords": [
                         -123.387983,
@@ -13207,7 +13207,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ogden Point Sundial",
-                  "text": "Ogden Point Sundial ist eine Attraktion in Victoria, British Columbia.",
+                  "text": "Eine große Sonnenuhr am Ogden Point in Bc Museum.",
                   "category": "landmark",
                   "coords": [
                         -123.384067,
@@ -13216,7 +13216,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beacon Hill",
-                  "text": "Beacon Hill ist ein Gipfel in Victoria, British Columbia.",
+                  "text": "Der Hügel, der dem Beacon Hill Park seinen Namen gibt.",
                   "category": "natural",
                   "coords": [
                         -123.365284,
@@ -13225,7 +13225,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beacon Hill Park Story Pole",
-                  "text": "Beacon Hill Park Story Pole ist ein Denkmal in Victoria, British Columbia.",
+                  "text": "Ein Totempfahl im Beacon Hill Park in Bc Museum, der Geschichten der First Nations erzählt.",
                   "category": "historical",
                   "coords": [
                         -123.360431,
@@ -13234,7 +13234,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Ann's Schoolhouse",
-                  "text": "Saint Ann's Schoolhouse ist ein Museum in Victoria, British Columbia.",
+                  "text": "Ein restauriertes Schulhausmuseum von 1858 in Bc Museum.",
                   "category": "museum",
                   "coords": [
                         -123.366912,
@@ -13243,7 +13243,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steve Fonyo Beach",
-                  "text": "Steve Fonyo Beach ist ein Strand in Victoria, British Columbia.",
+                  "text": "Ein Strand in Bc Museum, benannt nach dem Läufer Steve Fonyo.",
                   "category": "recreational",
                   "coords": [
                         -123.372883,
@@ -13261,7 +13261,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Church of Our Lord",
-                  "text": "Church of Our Lord ist ein Gotteshaus in Victoria, British Columbia.",
+                  "text": "Eine historische Kirche in Victoria aus dem 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -123.364416,
@@ -13270,7 +13270,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Royal Theatre",
-                  "text": "Royal Theatre ist ein Theater in Victoria, British Columbia.",
+                  "text": "1913 eröffnetes Theater in Victoria.",
                   "category": "cultural",
                   "coords": [
                         -123.362344,
@@ -13288,7 +13288,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "James Bay",
-                  "text": "James Bay ist eine Bucht in Victoria mit Blick auf die Juan-de-Fuca-Straße.",
+                  "text": "Die Bucht, nach der das James-Bay-Viertel benannt ist.",
                   "category": "landmark",
                   "coords": [
                         -123.371226,
@@ -13297,7 +13297,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finlayson Point Beach",
-                  "text": "Finlayson Point Beach ist ein Strand in der Nähe des Royal BC Museum in Victoria.",
+                  "text": "Ein Sandstrand am Finlayson Point in Bc Museum.",
                   "category": "recreational",
                   "coords": [
                         -123.365132,
@@ -13326,7 +13326,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Golf Hill",
-                  "text": "Golf Hill egy csúcs Victoria, British Columbia városában.",
+                  "text": "Egy domb Victoriában.",
                   "category": "natural",
                   "coords": [
                         -123.402154,
@@ -13335,7 +13335,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mile 0",
-                  "text": "Mile 0 egy látványosság Victoria, British Columbia városában.",
+                  "text": "A történelmi mérföldkő (Mile 0) a Trans-Canada Highway kezdeténél.",
                   "category": "landmark",
                   "coords": [
                         -123.369003,
@@ -13353,7 +13353,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tea at the Empress",
-                  "text": "Tea at the Empress egy látványosság Victoria, British Columbia városában.",
+                  "text": "A Bc Museum-ban található „Tea at the Empress” teázás 1908-ban indult, történelmi jelkép.",
                   "category": "landmark",
                   "coords": [
                         -123.36786,
@@ -13371,7 +13371,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McLoughlin Point",
-                  "text": "McLoughlin Point egy rom Victoria, British Columbia városában.",
+                  "text": "Egy történelmi pont a Bc Museum területén, John McLoughlin prémvadászról elnevezve.",
                   "category": "historical",
                   "coords": [
                         -123.397916,
@@ -13380,7 +13380,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Brotchie Ledge Light",
-                  "text": "Brotchie Ledge Light egy világítótorony Victoria, British Columbia városában.",
+                  "text": "Egy világítótorony a Victoria kikötőbe vezető hajók számára a Bc Museum-nél.",
                   "category": "landmark",
                   "coords": [
                         -123.387983,
@@ -13389,7 +13389,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ogden Point Sundial",
-                  "text": "Ogden Point Sundial egy látványosság Victoria, British Columbia városában.",
+                  "text": "Egy nagy napóra az Ogden Pointnál, a Bc Museum-nél.",
                   "category": "landmark",
                   "coords": [
                         -123.384067,
@@ -13398,7 +13398,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beacon Hill",
-                  "text": "Beacon Hill egy csúcs Victoria, British Columbia városában.",
+                  "text": "A domb, amelyről a Beacon Hill Park a nevét kapta.",
                   "category": "natural",
                   "coords": [
                         -123.365284,
@@ -13407,7 +13407,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beacon Hill Park Story Pole",
-                  "text": "Beacon Hill Park Story Pole egy emlékmű Victoria, British Columbia városában.",
+                  "text": "Egy totemoszlop a Beacon Hill Parkban (Bc Museum), amely első nemzetek történeteit meséli el.",
                   "category": "historical",
                   "coords": [
                         -123.360431,
@@ -13416,7 +13416,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Ann's Schoolhouse",
-                  "text": "Saint Ann's Schoolhouse egy múzeum Victoria, British Columbia városában.",
+                  "text": "Egy 1858-ból helyreállított iskolaházmúzeum a Bc Museum-nél.",
                   "category": "museum",
                   "coords": [
                         -123.366912,
@@ -13425,7 +13425,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steve Fonyo Beach",
-                  "text": "Steve Fonyo Beach egy strand Victoria, British Columbia városában.",
+                  "text": "Egy strand a Bc Museum-nél, Steve Fonyo futóról elnevezve.",
                   "category": "recreational",
                   "coords": [
                         -123.372883,
@@ -13443,7 +13443,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Church of Our Lord",
-                  "text": "Church of Our Lord egy imaház Victoria, British Columbia városában.",
+                  "text": "Egy 19. századi történelmi templom Victoriában.",
                   "category": "religious",
                   "coords": [
                         -123.364416,
@@ -13452,7 +13452,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Royal Theatre",
-                  "text": "Royal Theatre egy színház Victoria, British Columbia városában.",
+                  "text": "1913-ban megnyitott színház Victoria belvárosában.",
                   "category": "cultural",
                   "coords": [
                         -123.362344,
@@ -13470,7 +13470,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "James Bay",
-                  "text": "James Bay egy öböl Victoria városában, a Juan de Fuca-szorosra néz.",
+                  "text": "Az öböl, amelyről a James Bay negyed a nevét kapta.",
                   "category": "landmark",
                   "coords": [
                         -123.371226,
@@ -13479,7 +13479,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finlayson Point Beach",
-                  "text": "Finlayson Point Beach egy strand Victoria városában, a Royal BC Museum közelében.",
+                  "text": "Egy homokos strand a Finlayson Pointnál, a Bc Museum-nél.",
                   "category": "recreational",
                   "coords": [
                         -123.365132,
@@ -13508,7 +13508,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Golf Hill",
-                  "text": "Golf Hill este un vârf în Victoria, British Columbia.",
+                  "text": "Un deal în Victoria.",
                   "category": "natural",
                   "coords": [
                         -123.402154,
@@ -13517,7 +13517,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mile 0",
-                  "text": "Mile 0 este o atracție în Victoria, British Columbia.",
+                  "text": "Borna istorică zero (Mile 0) la începutul Autostrăzii Trans-Canada.",
                   "category": "landmark",
                   "coords": [
                         -123.369003,
@@ -13535,7 +13535,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tea at the Empress",
-                  "text": "Tea at the Empress este o atracție în Victoria, British Columbia.",
+                  "text": "Serviciul de ceai „Tea at the Empress” de la Bc Museum, inaugurat în 1908, este un reper istoric.",
                   "category": "landmark",
                   "coords": [
                         -123.36786,
@@ -13553,7 +13553,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McLoughlin Point",
-                  "text": "McLoughlin Point este o ruine în Victoria, British Columbia.",
+                  "text": "Un punct istoric la Bc Museum, numit după comerciantul de blănuri John McLoughlin.",
                   "category": "historical",
                   "coords": [
                         -123.397916,
@@ -13562,7 +13562,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Brotchie Ledge Light",
-                  "text": "Brotchie Ledge Light este un far în Victoria, British Columbia.",
+                  "text": "Un far care ghidează navele în Portul Victoria, la Bc Museum.",
                   "category": "landmark",
                   "coords": [
                         -123.387983,
@@ -13571,7 +13571,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ogden Point Sundial",
-                  "text": "Ogden Point Sundial este o atracție în Victoria, British Columbia.",
+                  "text": "Un cadran solar mare la Ogden Point, lângă Bc Museum.",
                   "category": "landmark",
                   "coords": [
                         -123.384067,
@@ -13580,7 +13580,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beacon Hill",
-                  "text": "Beacon Hill este un vârf în Victoria, British Columbia.",
+                  "text": "Dealul care dă numele Parcului Beacon Hill.",
                   "category": "natural",
                   "coords": [
                         -123.365284,
@@ -13589,7 +13589,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beacon Hill Park Story Pole",
-                  "text": "Beacon Hill Park Story Pole este un monument în Victoria, British Columbia.",
+                  "text": "Un stâlp totemic în Parcul Beacon Hill (Bc Museum) care spune povești ale Primelor Națiuni.",
                   "category": "historical",
                   "coords": [
                         -123.360431,
@@ -13598,7 +13598,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Ann's Schoolhouse",
-                  "text": "Saint Ann's Schoolhouse este un muzeu în Victoria, British Columbia.",
+                  "text": "Un muzeu într-o școală restaurată din 1858 la Bc Museum.",
                   "category": "museum",
                   "coords": [
                         -123.366912,
@@ -13607,7 +13607,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steve Fonyo Beach",
-                  "text": "Steve Fonyo Beach este o plajă în Victoria, British Columbia.",
+                  "text": "O plajă la Bc Museum, numită după alergătorul Steve Fonyo.",
                   "category": "recreational",
                   "coords": [
                         -123.372883,
@@ -13625,7 +13625,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Church of Our Lord",
-                  "text": "Church of Our Lord este un lăcaș de cult în Victoria, British Columbia.",
+                  "text": "O biserică istorică din Victoria, construită în secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         -123.364416,
@@ -13634,7 +13634,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Royal Theatre",
-                  "text": "Royal Theatre este un teatru în Victoria, British Columbia.",
+                  "text": "Teatru deschis în 1913 în Victoria.",
                   "category": "cultural",
                   "coords": [
                         -123.362344,
@@ -13652,7 +13652,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "James Bay",
-                  "text": "James Bay este un golf din Victoria, cu vedere la Strâmtoarea Juan de Fuca.",
+                  "text": "Golful care dă numele cartierului James Bay.",
                   "category": "landmark",
                   "coords": [
                         -123.371226,
@@ -13661,7 +13661,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finlayson Point Beach",
-                  "text": "Finlayson Point Beach este o plajă din Victoria, aproape de Muzeul Regal din Columbia Britanică.",
+                  "text": "O plajă cu nisip la Finlayson Point, lângă Bc Museum.",
                   "category": "recreational",
                   "coords": [
                         -123.365132,
@@ -13690,7 +13690,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Golf Hill",
-                  "text": "Golf Hill is a peak in Victoria, British Columbia.",
+                  "text": "A hill in Victoria.",
                   "category": "natural",
                   "coords": [
                         -123.402154,
@@ -13699,7 +13699,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mile 0",
-                  "text": "Mile 0 is an attraction in Victoria, British Columbia.",
+                  "text": "The historic milepost Mile 0 marking the start of the Trans-Canada Highway.",
                   "category": "landmark",
                   "coords": [
                         -123.369003,
@@ -13717,7 +13717,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Tea at the Empress",
-                  "text": "Tea at the Empress is an attraction in Victoria, British Columbia.",
+                  "text": "Tea at the Empress at Bc Museum is a historic landmark tea service inaugurated in 1908.",
                   "category": "landmark",
                   "coords": [
                         -123.36786,
@@ -13735,7 +13735,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "McLoughlin Point",
-                  "text": "McLoughlin Point is a ruins site in Victoria, British Columbia.",
+                  "text": "A historical point at Bc Museum named after fur trader John McLoughlin.",
                   "category": "historical",
                   "coords": [
                         -123.397916,
@@ -13744,7 +13744,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Brotchie Ledge Light",
-                  "text": "Brotchie Ledge Light is a lighthouse in Victoria, British Columbia.",
+                  "text": "A lighthouse guiding ships into Victoria Harbour at Bc Museum.",
                   "category": "landmark",
                   "coords": [
                         -123.387983,
@@ -13753,7 +13753,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ogden Point Sundial",
-                  "text": "Ogden Point Sundial is an attraction in Victoria, British Columbia.",
+                  "text": "A large sundial at Ogden Point near Bc Museum.",
                   "category": "landmark",
                   "coords": [
                         -123.384067,
@@ -13762,7 +13762,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beacon Hill",
-                  "text": "Beacon Hill is a peak in Victoria, British Columbia.",
+                  "text": "The hill that gives Beacon Hill Park its name.",
                   "category": "natural",
                   "coords": [
                         -123.365284,
@@ -13771,7 +13771,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beacon Hill Park Story Pole",
-                  "text": "Beacon Hill Park Story Pole is a monument in Victoria, British Columbia.",
+                  "text": "A totem pole in Beacon Hill Park at Bc Museum telling First Nations stories.",
                   "category": "historical",
                   "coords": [
                         -123.360431,
@@ -13780,7 +13780,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Saint Ann's Schoolhouse",
-                  "text": "Saint Ann's Schoolhouse is a museum in Victoria, British Columbia.",
+                  "text": "A restored 1858 schoolhouse museum at Bc Museum.",
                   "category": "museum",
                   "coords": [
                         -123.366912,
@@ -13789,7 +13789,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steve Fonyo Beach",
-                  "text": "Steve Fonyo Beach is a beach in Victoria, British Columbia.",
+                  "text": "A beach at Bc Museum named after runner Steve Fonyo.",
                   "category": "recreational",
                   "coords": [
                         -123.372883,
@@ -13807,7 +13807,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Church of Our Lord",
-                  "text": "Church of Our Lord is a place of worship in Victoria, British Columbia.",
+                  "text": "A historic church in Victoria built in the 19th century.",
                   "category": "religious",
                   "coords": [
                         -123.364416,
@@ -13816,7 +13816,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Royal Theatre",
-                  "text": "Royal Theatre is a theatre in Victoria, British Columbia.",
+                  "text": "Theatre opened in 1913 in downtown Victoria.",
                   "category": "cultural",
                   "coords": [
                         -123.362344,
@@ -13834,7 +13834,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "James Bay",
-                  "text": "James Bay is a bay in Victoria overlooking the Strait of Juan de Fuca.",
+                  "text": "The bay after which the James Bay neighbourhood is named.",
                   "category": "landmark",
                   "coords": [
                         -123.371226,
@@ -13843,7 +13843,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finlayson Point Beach",
-                  "text": "Finlayson Point Beach is a beach in Victoria near the Royal BC Museum.",
+                  "text": "A sandy beach at Finlayson Point near Bc Museum.",
                   "category": "recreational",
                   "coords": [
                         -123.365132,
@@ -13921,7 +13921,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "National Music Centre",
-                  "text": "Das National Music Centre in Calgary ist ein Museum, das die Musikgeschichte Kanadas präsentiert.",
+                  "text": "Ein Museum in Museum Calgary, das die kanadische Musikgeschichte und Instrumente feiert.",
                   "category": "museum",
                   "coords": [
                         -114.052905,
@@ -13930,7 +13930,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Martha Cohen Theatre",
-                  "text": "Das Martha Cohen Theatre in Calgary ist ein Veranstaltungsort für Theateraufführungen.",
+                  "text": "Ein Theater in Museum Calgary, benannt nach Martha Cohen.",
                   "category": "cultural",
                   "coords": [
                         -114.059436,
@@ -13939,7 +13939,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Max Bell Theatre",
-                  "text": "Das Max Bell Theatre in Calgary ist ein Theater für Konzerte und Aufführungen.",
+                  "text": "Ein Theater im Calgary Centre for Performing Arts in Museum Calgary.",
                   "category": "cultural",
                   "coords": [
                         -114.058531,
@@ -13948,7 +13948,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sparrow Artspace",
-                  "text": "Das Sparrow Artspace ist ein Kunstzentrum in Calgary.",
+                  "text": "Ein kunstraum in Museum Calgary, der Gemeinschaftsausstellungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -114.051527,
@@ -13957,7 +13957,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Grand",
-                  "text": "The Grand ist ein historisches Theater in Calgary.",
+                  "text": "Ehemaliges Kino, heute Kulturzentrum in Calgary.",
                   "category": "cultural",
                   "coords": [
                         -114.065043,
@@ -13966,7 +13966,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "George C. King Bridge",
-                  "text": "Die George C. King Bridge ist eine Brücke in Calgary.",
+                  "text": "Eine Brücke, benannt nach George C. King, einem ehemaligen Bürgermeister von Calgary.",
                   "category": "landmark",
                   "coords": [
                         -114.046901,
@@ -13975,7 +13975,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Calgary Municipal Building",
-                  "text": "Das Calgary Municipal Building ist das Rathaus von Calgary.",
+                  "text": "Denkmalgeschütztes Rathaus in der Innenstadt von Calgary.",
                   "category": "historical",
                   "coords": [
                         -114.056532,
@@ -13984,7 +13984,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glenbow Museum",
-                  "text": "Das Glenbow Museum ist ein Kunst- und Geschichtsmuseum in Calgary.",
+                  "text": "Kunst- und Geschichtsmuseum in Calgary mit über 1 Million Objekten.",
                   "category": "museum",
                   "coords": [
                         -114.061246,
@@ -13993,7 +13993,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cathedral Church of the Redeemer",
-                  "text": "Die Cathedral Church of the Redeemer ist eine anglikanische Kathedrale in Calgary.",
+                  "text": "Anglikanische Kathedrale in Calgary, erbaut im neugotischen Stil.",
                   "category": "religious",
                   "coords": [
                         -114.059924,
@@ -14002,7 +14002,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harmony Park",
-                  "text": "Der Harmony Park ist ein Park in Calgary.",
+                  "text": "Ein Park in Calgary mit dem Namen Harmony.",
                   "category": "park",
                   "coords": [
                         -114.063563,
@@ -14011,7 +14011,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "4th Avenue Flyover",
-                  "text": "Die 4th Avenue Flyover ist eine Überführung in Calgary.",
+                  "text": "Die 4th Avenue-Überführung in Calgary.",
                   "category": "landmark",
                   "coords": [
                         -114.05143,
@@ -14020,7 +14020,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trout Beach",
-                  "text": "Der Trout Beach ist ein Strand in Calgary.",
+                  "text": "Ein Strand am Bow River in Museum Calgary, beliebt zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         -114.045088,
@@ -14029,7 +14029,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bridgeland/Riverside Vacant Lot Garden",
-                  "text": "Der Bridgeland/Riverside Vacant Lot Garden ist ein Gemeinschaftsgarten in Calgary.",
+                  "text": "Ein Gemeinschaftsgarten auf einem Brachgrundstück im Viertel Bridgeland/Riverside in Calgary.",
                   "category": "park",
                   "coords": [
                         -114.045293,
@@ -14040,7 +14040,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "National Music Centre",
-                  "text": "A calgary-i National Music Centre egy múzeum, amely Kanada zenei történelmét mutatja be.",
+                  "text": "Egy múzeum Museum Calgaryban, amely a kanadai zene történetét és hangszereit ünnepli.",
                   "category": "museum",
                   "coords": [
                         -114.052905,
@@ -14049,7 +14049,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Martha Cohen Theatre",
-                  "text": "A calgary-i Martha Cohen Theatre színházi előadások helyszíne.",
+                  "text": "Egy színház Museum Calgaryban, Martha Cohenről elnevezve.",
                   "category": "cultural",
                   "coords": [
                         -114.059436,
@@ -14058,7 +14058,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Max Bell Theatre",
-                  "text": "A calgary-i Max Bell Theatre egy színház koncertek és előadások számára.",
+                  "text": "Egy színház a Calgary Centre for Performing Arts épületében, Museum Calgaryban.",
                   "category": "cultural",
                   "coords": [
                         -114.058531,
@@ -14067,7 +14067,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sparrow Artspace",
-                  "text": "A Sparrow Artspace egy művészeti központ Calgaryban.",
+                  "text": "Egy művészeti tér Museum Calgaryban, amely közösségi kiállításokat fogad.",
                   "category": "cultural",
                   "coords": [
                         -114.051527,
@@ -14076,7 +14076,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Grand",
-                  "text": "A Grand egy történelmi színház Calgaryban.",
+                  "text": "Egykori mozi, ma kulturális központ Calgary belvárosában.",
                   "category": "cultural",
                   "coords": [
                         -114.065043,
@@ -14085,7 +14085,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "George C. King Bridge",
-                  "text": "A George C. King híd egy híd Calgaryban.",
+                  "text": "George C. Kingről, Calgary egykori polgármesteréről elnevezett híd.",
                   "category": "landmark",
                   "coords": [
                         -114.046901,
@@ -14094,7 +14094,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Calgary Municipal Building",
-                  "text": "A Calgary Municipal Building Calgary városháza.",
+                  "text": "Műemlék városháza Calgary belvárosában.",
                   "category": "historical",
                   "coords": [
                         -114.056532,
@@ -14103,7 +14103,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glenbow Museum",
-                  "text": "A Glenbow Múzeum egy művészeti és történelmi múzeum Calgaryban.",
+                  "text": "Művészeti és történeti múzeum Calgaryban, több mint egymillió tárggyal.",
                   "category": "museum",
                   "coords": [
                         -114.061246,
@@ -14112,7 +14112,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cathedral Church of the Redeemer",
-                  "text": "A Cathedral Church of the Redeemer egy anglikán katedrális Calgaryban.",
+                  "text": "Anglikán székesegyház Calgaryban, neogótikus stílusban.",
                   "category": "religious",
                   "coords": [
                         -114.059924,
@@ -14121,7 +14121,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harmony Park",
-                  "text": "A Harmony Park egy park Calgaryban.",
+                  "text": "Egy Harmony nevű park Calgaryban.",
                   "category": "park",
                   "coords": [
                         -114.063563,
@@ -14130,7 +14130,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "4th Avenue Flyover",
-                  "text": "A 4th Avenue Flyover egy felüljáró Calgaryban.",
+                  "text": "A 4th Avenue felüljáró Calgaryban.",
                   "category": "landmark",
                   "coords": [
                         -114.05143,
@@ -14139,7 +14139,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trout Beach",
-                  "text": "A Trout Beach egy strand Calgaryban.",
+                  "text": "Egy strand a Bow River partján Museum Calgaryban, népszerű úszásra.",
                   "category": "recreational",
                   "coords": [
                         -114.045088,
@@ -14148,7 +14148,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bridgeland/Riverside Vacant Lot Garden",
-                  "text": "A Bridgeland/Riverside Vacant Lot Garden egy közösségi kert Calgaryban.",
+                  "text": "Egy közösségi kert egy üres telken a calgary-i Bridgeland/Riverside negyedben.",
                   "category": "park",
                   "coords": [
                         -114.045293,
@@ -14159,7 +14159,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "National Music Centre",
-                  "text": "National Music Centre din Calgary este un muzeu care prezintă istoria muzicii canadiene.",
+                  "text": "Un muzeu în Museum Calgary care celebrează istoria muzicii canadiene și instrumentele.",
                   "category": "museum",
                   "coords": [
                         -114.052905,
@@ -14168,7 +14168,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Martha Cohen Theatre",
-                  "text": "Martha Cohen Theatre din Calgary este un loc pentru spectacole de teatru.",
+                  "text": "Un teatru în Museum Calgary, numit după Martha Cohen.",
                   "category": "cultural",
                   "coords": [
                         -114.059436,
@@ -14177,7 +14177,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Max Bell Theatre",
-                  "text": "Max Bell Theatre din Calgary este un teatru pentru concerte și spectacole.",
+                  "text": "Un teatru în Calgary Centre for Performing Arts, în Museum Calgary.",
                   "category": "cultural",
                   "coords": [
                         -114.058531,
@@ -14186,7 +14186,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sparrow Artspace",
-                  "text": "Sparrow Artspace este un centru de artă în Calgary.",
+                  "text": "Un spațiu de artă în Museum Calgary care găzduiește expoziții comunitare.",
                   "category": "cultural",
                   "coords": [
                         -114.051527,
@@ -14195,7 +14195,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Grand",
-                  "text": "The Grand este un teatru istoric în Calgary.",
+                  "text": "Fost cinematograf, acum centru cultural în centrul orașului Calgary.",
                   "category": "cultural",
                   "coords": [
                         -114.065043,
@@ -14204,7 +14204,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "George C. King Bridge",
-                  "text": "Podul George C. King este un pod în Calgary.",
+                  "text": "Un pod numit după George C. King, fost primar al Calgary-ului.",
                   "category": "landmark",
                   "coords": [
                         -114.046901,
@@ -14213,7 +14213,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Calgary Municipal Building",
-                  "text": "Clădirea Municipală Calgary este primăria orașului Calgary.",
+                  "text": "Primărie protejată ca monument istoric în centrul orașului Calgary.",
                   "category": "historical",
                   "coords": [
                         -114.056532,
@@ -14222,7 +14222,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glenbow Museum",
-                  "text": "Muzeul Glenbow este un muzeu de artă și istorie în Calgary.",
+                  "text": "Muzeu de artă și istorie în Calgary, cu peste un milion de obiecte.",
                   "category": "museum",
                   "coords": [
                         -114.061246,
@@ -14231,7 +14231,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cathedral Church of the Redeemer",
-                  "text": "Catedrala Biserica Răscumpărătorului este o catedrală anglicană în Calgary.",
+                  "text": "Catedrală anglicană în Calgary, în stil neogotic.",
                   "category": "religious",
                   "coords": [
                         -114.059924,
@@ -14240,7 +14240,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harmony Park",
-                  "text": "Parcul Harmony este un parc în Calgary.",
+                  "text": "Un parc în Calgary numit Harmony.",
                   "category": "park",
                   "coords": [
                         -114.063563,
@@ -14249,7 +14249,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "4th Avenue Flyover",
-                  "text": "Pasajul 4th Avenue Flyover este un pasaj în Calgary.",
+                  "text": "Pasajul superior de pe 4th Avenue din Calgary.",
                   "category": "landmark",
                   "coords": [
                         -114.05143,
@@ -14258,7 +14258,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trout Beach",
-                  "text": "Plaja Trout este o plajă în Calgary.",
+                  "text": "O plajă pe râul Bow în Museum Calgary, populară pentru înot.",
                   "category": "recreational",
                   "coords": [
                         -114.045088,
@@ -14267,7 +14267,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bridgeland/Riverside Vacant Lot Garden",
-                  "text": "Grădina Bridgeland/Riverside Vacant Lot Garden este o grădină comunitară în Calgary.",
+                  "text": "O grădină comunitară pe un teren viran în cartierul Bridgeland/Riverside din Calgary.",
                   "category": "park",
                   "coords": [
                         -114.045293,
@@ -14278,7 +14278,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "National Music Centre",
-                  "text": "National Music Centre in Calgary is a museum showcasing Canada's music history.",
+                  "text": "A museum in Museum Calgary celebrating Canadian music history and instruments.",
                   "category": "museum",
                   "coords": [
                         -114.052905,
@@ -14287,7 +14287,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Martha Cohen Theatre",
-                  "text": "Martha Cohen Theatre in Calgary is a venue for theatre performances.",
+                  "text": "A theatre in Museum Calgary named after Martha Cohen.",
                   "category": "cultural",
                   "coords": [
                         -114.059436,
@@ -14296,7 +14296,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Max Bell Theatre",
-                  "text": "Max Bell Theatre in Calgary is a theatre for concerts and performances.",
+                  "text": "A theatre in the Calgary Centre for Performing Arts in Museum Calgary.",
                   "category": "cultural",
                   "coords": [
                         -114.058531,
@@ -14305,7 +14305,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sparrow Artspace",
-                  "text": "Sparrow Artspace is an arts centre in Calgary.",
+                  "text": "An art space in Museum Calgary hosting community exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -114.051527,
@@ -14314,7 +14314,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Grand",
-                  "text": "The Grand is a historic theatre in Calgary.",
+                  "text": "Former movie theatre, now a cultural venue in downtown Calgary.",
                   "category": "cultural",
                   "coords": [
                         -114.065043,
@@ -14323,7 +14323,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "George C. King Bridge",
-                  "text": "George C. King Bridge is a bridge in Calgary.",
+                  "text": "A bridge named after George C. King, a former mayor of Calgary.",
                   "category": "landmark",
                   "coords": [
                         -114.046901,
@@ -14332,7 +14332,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Calgary Municipal Building",
-                  "text": "Calgary Municipal Building is the city hall of Calgary.",
+                  "text": "Heritage-listed city hall in downtown Calgary.",
                   "category": "historical",
                   "coords": [
                         -114.056532,
@@ -14341,7 +14341,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Glenbow Museum",
-                  "text": "Glenbow Museum is a museum of art and history in Calgary.",
+                  "text": "Art and history museum in Calgary with over one million objects.",
                   "category": "museum",
                   "coords": [
                         -114.061246,
@@ -14350,7 +14350,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Cathedral Church of the Redeemer",
-                  "text": "Cathedral Church of the Redeemer is an Anglican cathedral in Calgary.",
+                  "text": "Anglican cathedral in Calgary, built in Gothic Revival style.",
                   "category": "religious",
                   "coords": [
                         -114.059924,
@@ -14359,7 +14359,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harmony Park",
-                  "text": "Harmony Park is a park in Calgary.",
+                  "text": "A park in Calgary named Harmony.",
                   "category": "park",
                   "coords": [
                         -114.063563,
@@ -14368,7 +14368,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "4th Avenue Flyover",
-                  "text": "4th Avenue Flyover is a bridge overpass in Calgary.",
+                  "text": "The 4th Avenue flyover in Calgary.",
                   "category": "landmark",
                   "coords": [
                         -114.05143,
@@ -14377,7 +14377,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trout Beach",
-                  "text": "Trout Beach is a beach in Calgary.",
+                  "text": "A beach on the Bow River in Museum Calgary popular for swimming.",
                   "category": "recreational",
                   "coords": [
                         -114.045088,
@@ -14386,7 +14386,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bridgeland/Riverside Vacant Lot Garden",
-                  "text": "Bridgeland/Riverside Vacant Lot Garden is a community garden in Calgary.",
+                  "text": "A community garden on a vacant lot in the Bridgeland/Riverside neighbourhood of Calgary.",
                   "category": "park",
                   "coords": [
                         -114.045293,
@@ -14482,7 +14482,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "USINE C",
-                  "text": "USINE C ist ein Theater in Montreal, das in einer ehemaligen Fabrik untergebracht ist.",
+                  "text": "Ehemalige Fabrik, heute Kulturzentrum im Stadtteil Centre-Sud von Montreal.",
                   "category": "cultural",
                   "coords": [
                         -73.560717,
@@ -14491,7 +14491,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "MTELUS",
-                  "text": "MTELUS ist ein Konzertsaal in Montreal, der ursprünglich ein Kino war.",
+                  "text": "Historischer Konzertsaal in Montreal, bekannt für Rock- und Popkonzerte.",
                   "category": "cultural",
                   "coords": [
                         -73.563396,
@@ -14500,7 +14500,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-Apôtre",
-                  "text": "Die Église Saint-Pierre-Apôtre ist eine katholische Kirche in Montreal.",
+                  "text": "19. Jahrhundert katholische Kirche in Montreal im neugotischen Stil.",
                   "category": "religious",
                   "coords": [
                         -73.552899,
@@ -14509,7 +14509,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Société des arts technologiques (SAT)",
-                  "text": "Die Society for Arts and Technology (SAT) ist ein digitales Kunstzentrum und Theater in Montreal.",
+                  "text": "Zentrum für digitale Kunst und Technologie in Montreal.",
                   "category": "cultural",
                   "coords": [
                         -73.562583,
@@ -14536,7 +14536,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc Miville-Couture",
-                  "text": "Ein Park in Montreal, benannt nach Miville-Couture.",
+                  "text": "Kleiner Park im Stadtteil Centre-Sud von Montreal mit Spielplatz.",
                   "category": "park",
                   "coords": [
                         -73.555116,
@@ -14545,7 +14545,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Carré Viger",
-                  "text": "Der Square Viger ist ein historischer Platz in Montreal, benannt nach Denis-Benjamin Viger.",
+                  "text": "Historischer Platz im Osten der Altstadt von Montreal.",
                   "category": "park",
                   "coords": [
                         -73.554157,
@@ -14581,7 +14581,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc de Dieppe",
-                  "text": "Der Parc de Dieppe ist ein Park in Montreal, der an die Landung in Dieppe im Zweiten Weltkrieg erinnert.",
+                  "text": "1986 eröffnet, erinnert dieser Park im Ramsay Montreal an die Dieppe-Razzia des Zweiten Weltkriegs.",
                   "category": "park",
                   "coords": [
                         -73.543355,
@@ -14617,7 +14617,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Théâtre de Verdure",
-                  "text": "Ein Freilichttheater in einem Park, das kulturelle Aufführungen veranstaltet.",
+                  "text": "Ein Freilichttheater im Parc La Fontaine in Montreal.",
                   "category": "cultural",
                   "coords": [
                         -73.57115,
@@ -14716,7 +14716,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc des Faubourgs",
-                  "text": "Ein öffentlicher Park im Faubourg-Viertel von Montreal.",
+                  "text": "Ein Park im Faubourgs-Viertel von Montreal.",
                   "category": "park",
                   "coords": [
                         -73.556554,
@@ -14772,7 +14772,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "USINE C",
-                  "text": "Az USINE C egy színház Montréalban, amely egy egykori gyárban kapott helyet.",
+                  "text": "Egykori gyár, ma kulturális központ Montreal Centre-Sud negyedében.",
                   "category": "cultural",
                   "coords": [
                         -73.560717,
@@ -14781,7 +14781,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "MTELUS",
-                  "text": "Az MTELUS egy koncertterem Montréalban, amely eredetileg mozi volt.",
+                  "text": "Történelmi koncertterem Montrealban, híres rock- és popkoncertekről.",
                   "category": "cultural",
                   "coords": [
                         -73.563396,
@@ -14790,7 +14790,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-Apôtre",
-                  "text": "A Saint-Pierre-Apôtre templom egy katolikus templom Montréalban.",
+                  "text": "19. századi katolikus templom Montrealban, neogótikus stílusban.",
                   "category": "religious",
                   "coords": [
                         -73.552899,
@@ -14799,7 +14799,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Société des arts technologiques (SAT)",
-                  "text": "A Society for Arts and Technology (SAT) egy digitális művészeti központ és színház Montréalban.",
+                  "text": "Digitális művészeti és technológiai központ Montrealban.",
                   "category": "cultural",
                   "coords": [
                         -73.562583,
@@ -14826,7 +14826,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc Miville-Couture",
-                  "text": "Egy park Montréalban, amely Miville-Couture-ról kapta a nevét.",
+                  "text": "Kis park Montreal Centre-Sud negyedében, játszótérrel.",
                   "category": "park",
                   "coords": [
                         -73.555116,
@@ -14835,7 +14835,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Carré Viger",
-                  "text": "A Square Viger egy történelmi tér Montréalban, amely Denis-Benjamin Vigerről kapta a nevét.",
+                  "text": "Történelmi tér Montreal óvárosának keleti részén.",
                   "category": "park",
                   "coords": [
                         -73.554157,
@@ -14871,7 +14871,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc de Dieppe",
-                  "text": "A Parc de Dieppe egy park Montréalban, amely a második világháborúban történt dieppe-i partraszállásra emlékeztet.",
+                  "text": "1986-ban nyitották meg, ez a park a montréali Ramsayban a második világháborús Dieppe-i rajtaütésre emlékezik.",
                   "category": "park",
                   "coords": [
                         -73.543355,
@@ -14907,7 +14907,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Théâtre de Verdure",
-                  "text": "Szabadtéri színház egy parkban, kulturális előadások helyszíne.",
+                  "text": "Egy szabadtéri színház a montréali Parc La Fontaine-ben.",
                   "category": "cultural",
                   "coords": [
                         -73.57115,
@@ -15006,7 +15006,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc des Faubourgs",
-                  "text": "Nyilvános park Montreal Faubourg negyedében.",
+                  "text": "Egy park a montréali Faubourgs negyedben.",
                   "category": "park",
                   "coords": [
                         -73.556554,
@@ -15062,7 +15062,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "USINE C",
-                  "text": "USINE C este un teatru din Montreal găzduit într-o fostă fabrică.",
+                  "text": "Fostă fabrică, acum centru cultural în cartierul Centre-Sud din Montreal.",
                   "category": "cultural",
                   "coords": [
                         -73.560717,
@@ -15071,7 +15071,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "MTELUS",
-                  "text": "MTELUS este o sală de concerte din Montreal, inițial un cinematograf.",
+                  "text": "Sală de concerte istorică în Montreal, cunoscută pentru concerte rock și pop.",
                   "category": "cultural",
                   "coords": [
                         -73.563396,
@@ -15080,7 +15080,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-Apôtre",
-                  "text": "Biserica Saint-Pierre-Apôtre este o biserică catolică din Montreal.",
+                  "text": "Biserică catolică din secolul al XIX-lea în Montreal, stil neogotic.",
                   "category": "religious",
                   "coords": [
                         -73.552899,
@@ -15089,7 +15089,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Société des arts technologiques (SAT)",
-                  "text": "Society for Arts and Technology (SAT) este un centru de artă digitală și teatru în Montreal.",
+                  "text": "Centru de artă digitală și tehnologie în Montreal.",
                   "category": "cultural",
                   "coords": [
                         -73.562583,
@@ -15116,7 +15116,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc Miville-Couture",
-                  "text": "Un parc în Montreal, numit după Miville-Couture.",
+                  "text": "Parc mic în cartierul Centre-Sud din Montreal, cu loc de joacă.",
                   "category": "park",
                   "coords": [
                         -73.555116,
@@ -15125,7 +15125,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Carré Viger",
-                  "text": "Square Viger este o piață istorică din Montreal, numită după Denis-Benjamin Viger.",
+                  "text": "Piață istorică în estul orașului vechi Montreal.",
                   "category": "park",
                   "coords": [
                         -73.554157,
@@ -15161,7 +15161,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc de Dieppe",
-                  "text": "Parc de Dieppe este un parc din Montreal care comemorează debarcarea de la Dieppe din al Doilea Război Mondial.",
+                  "text": "Deschis în 1986, acest parc din Ramsay Montreal comemorează Raidul de la Dieppe din al Doilea Război Mondial.",
                   "category": "park",
                   "coords": [
                         -73.543355,
@@ -15197,7 +15197,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Théâtre de Verdure",
-                  "text": "Un teatru în aer liber situat într-un parc, gazdă a spectacolelor culturale.",
+                  "text": "Un teatru în aer liber în Parcul La Fontaine din Montreal.",
                   "category": "cultural",
                   "coords": [
                         -73.57115,
@@ -15296,7 +15296,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc des Faubourgs",
-                  "text": "Un parc public situat în cartierul Faubourg din Montreal.",
+                  "text": "Un parc în cartierul Faubourgs din Montreal.",
                   "category": "park",
                   "coords": [
                         -73.556554,
@@ -15352,7 +15352,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "USINE C",
-                  "text": "USINE C is a theatre in Montreal housed in a former factory.",
+                  "text": "Former factory, now a cultural centre in Montreal's Centre-Sud neighbourhood.",
                   "category": "cultural",
                   "coords": [
                         -73.560717,
@@ -15361,7 +15361,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "MTELUS",
-                  "text": "MTELUS is a concert hall in Montreal originally a cinema.",
+                  "text": "Historic concert hall in Montreal, known for rock and pop concerts.",
                   "category": "cultural",
                   "coords": [
                         -73.563396,
@@ -15370,7 +15370,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-Apôtre",
-                  "text": "Église Saint-Pierre-Apôtre is a Catholic church in Montreal.",
+                  "text": "19th-century Catholic church in Montreal in Gothic Revival style.",
                   "category": "religious",
                   "coords": [
                         -73.552899,
@@ -15379,7 +15379,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Society for Arts and Technology",
-                  "text": "The Society for Arts and Technology (SAT) is a digital arts centre and theatre in Montreal.",
+                  "text": "Centre for digital art and technology in Montreal.",
                   "category": "cultural",
                   "coords": [
                         -73.562583,
@@ -15406,7 +15406,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc Miville-Couture",
-                  "text": "A park in Montreal named after Miville-Couture.",
+                  "text": "Small park in Montreal's Centre-Sud neighbourhood with a playground.",
                   "category": "park",
                   "coords": [
                         -73.555116,
@@ -15415,7 +15415,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Square Viger",
-                  "text": "Square Viger is a historic square in Montreal named after Denis-Benjamin Viger.",
+                  "text": "Historic square in the eastern part of Old Montreal.",
                   "category": "park",
                   "coords": [
                         -73.554157,
@@ -15451,7 +15451,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc de Dieppe",
-                  "text": "Parc de Dieppe is a park in Montreal commemorating the Dieppe Raid of World War II.",
+                  "text": "Opened in 1986, this park in Ramsay Montreal commemorates the Dieppe Raid of World War II.",
                   "category": "park",
                   "coords": [
                         -73.543355,
@@ -15487,7 +15487,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Théâtre de Verdure",
-                  "text": "An open-air theatre located in a park, hosting cultural performances.",
+                  "text": "An outdoor theatre in Parc La Fontaine in Montreal.",
                   "category": "cultural",
                   "coords": [
                         -73.57115,
@@ -15586,7 +15586,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Parc des Faubourgs",
-                  "text": "A public park located in the Faubourg district of Montreal.",
+                  "text": "A park in the Faubourgs neighbourhood of Montreal.",
                   "category": "park",
                   "coords": [
                         -73.556554,
@@ -15664,7 +15664,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "WDFN (Detroit)",
-                  "text": "Ein Sendeturm für den Radiosender WDFN in Detroit.",
+                  "text": "Radiowachturm in Detroit (Michigan) für den Sender WDFN.",
                   "category": "tower",
                   "coords": [
                         -83.199567,
@@ -15673,7 +15673,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pointe Mouillee State Game Area",
-                  "text": "Ein staatliches Jagd- und Vogelreservat in Michigan, wichtiges Vogelgebiet.",
+                  "text": "Staatliches Jagd- und Vogelschutzgebiet am Lake Erie in Michigan.",
                   "category": "natural",
                   "coords": [
                         -83.189837,
@@ -15700,7 +15700,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Elizabeth Park",
-                  "text": "Ein Park am Detroit River in Trenton, Michigan.",
+                  "text": "Park am Detroit River in Michigan mit Picknickplätzen und Bootsanleger.",
                   "category": "park",
                   "coords": [
                         -83.180522,
@@ -15709,7 +15709,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John the Baptist Catholic Church",
-                  "text": "Eine katholische Kirche in Amherstburg.",
+                  "text": "St. John the Baptist Catholic Church in Malden Amherstburg ist eine katholische Kirche, die Johannes dem Täufer geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -83.103662,
@@ -15718,7 +15718,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "Eine anglikanische Kirche in Amherstburg.",
+                  "text": "Christ Church in Malden Amherstburg ist eine historische Kirche der Anglikanischen Gemeinschaft.",
                   "category": "religious",
                   "coords": [
                         -83.110351,
@@ -15727,7 +15727,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "Eine presbyterianische Kirche in Amherstburg.",
+                  "text": "St. Andrew's Presbyterian Church in Malden Amherstburg ist eine presbyterianische Kirche, die dem Heiligen Andreas geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -83.109204,
@@ -15736,7 +15736,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Joseph Catholic Church",
-                  "text": "Eine katholische Kirche in Amherstburg.",
+                  "text": "St. Joseph Catholic Church in Malden Amherstburg ist eine katholische Kirche, die dem Heiligen Josef geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -83.069824,
@@ -15745,7 +15745,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibraltar Bay",
-                  "text": "Eine Bucht am Detroit River.",
+                  "text": "Gibraltar Bay in Malden Amherstburg ist eine Bucht am Detroit River.",
                   "category": "landmark",
                   "coords": [
                         -83.156591,
@@ -15754,7 +15754,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "International Lake",
-                  "text": "Eine Bucht nahe der Grenze zwischen den USA und Kanada.",
+                  "text": "International Lake in Malden Amherstburg ist ein kleiner See in der Nähe des Detroit River.",
                   "category": "landmark",
                   "coords": [
                         -83.123611,
@@ -15763,7 +15763,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Malden National Historic Site",
-                  "text": "Eine historische Festung in Amherstburg, Ontario.",
+                  "text": "Fort Malden National Historic Site in Malden Amherstburg ist eine Festung aus dem Krieg von 1812 am Detroit River.",
                   "category": "landmark",
                   "coords": [
                         -83.113394,
@@ -15772,7 +15772,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Haas Park",
-                  "text": "Ein Park in Amherstburg.",
+                  "text": "Haas Park in Malden Amherstburg ist ein nach der Familie Haas benannter Park.",
                   "category": "park",
                   "coords": [
                         -83.178083,
@@ -15781,7 +15781,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Slocum Truax Park",
-                  "text": "Ein Park in Amherstburg, benannt nach örtlichen Familien.",
+                  "text": "Slocum Truax Park in Malden Amherstburg ist ein nach den Familien Slocum und Truax benannter Park.",
                   "category": "park",
                   "coords": [
                         -83.179194,
@@ -15790,7 +15790,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "North McLouth Park",
-                  "text": "Ein Park in Amherstburg.",
+                  "text": "North McLouth Park in Malden Amherstburg ist ein nach der Familie McLouth benannter Park.",
                   "category": "park",
                   "coords": [
                         -83.206682,
@@ -15799,7 +15799,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Affholter Park",
-                  "text": "Ein Park in Amherstburg.",
+                  "text": "Affholter Park in Malden Amherstburg ist ein nach der Familie Affholter benannter Park.",
                   "category": "park",
                   "coords": [
                         -83.213409,
@@ -15808,7 +15808,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Constitution Park",
-                  "text": "Der Lower Constitution Park ist ein Park in Amherstburg.",
+                  "text": "Lower Constitution Park in Malden Amherstburg ist ein Park am Detroit River.",
                   "category": "park",
                   "coords": [
                         -83.21986,
@@ -15817,7 +15817,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lions Park",
-                  "text": "Der Lions Park ist ein Park in Amherstburg.",
+                  "text": "Lions Park in Malden Amherstburg ist ein von den Lions Clubs betreuter Park.",
                   "category": "park",
                   "coords": [
                         -83.197049,
@@ -15826,7 +15826,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "White Sands",
-                  "text": "White Sands ist ein Strand in Amherstburg.",
+                  "text": "White Sands in Malden Amherstburg ist ein Sandstrand am Detroit River.",
                   "category": "recreational",
                   "coords": [
                         -83.121058,
@@ -15835,7 +15835,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bailey's Beach",
-                  "text": "Bailey's Beach ist ein Strand in Amherstburg.",
+                  "text": "Bailey's Beach in Malden Amherstburg ist ein nach der Familie Bailey benannter Strand am Detroit River.",
                   "category": "recreational",
                   "coords": [
                         -83.112536,
@@ -15844,7 +15844,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibraltar Historical Museum",
-                  "text": "Das Gibraltar Historical Museum ist ein Museum in Amherstburg.",
+                  "text": "Ein Museum in Malden Amherstburg, das die Geschichte von Gibraltar und Amherstburg dokumentiert.",
                   "category": "museum",
                   "coords": [
                         -83.18956,
@@ -15853,7 +15853,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Marshland Museum",
-                  "text": "Das Marshland Museum ist ein Museum in Amherstburg.",
+                  "text": "Ein Museum in Malden Amherstburg, das sich auf die Ökologie und Geschichte des Sumpflandes konzentriert.",
                   "category": "museum",
                   "coords": [
                         -83.198055,
@@ -15862,7 +15862,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Historical Museum",
-                  "text": "Das Trenton Historical Museum ist ein Museum in Amherstburg.",
+                  "text": "Ein Museum in Malden Amherstburg, das die lokale Geschichte von Trenton bewahrt.",
                   "category": "museum",
                   "coords": [
                         -83.179189,
@@ -15871,7 +15871,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Cultural Center",
-                  "text": "Das Trenton Cultural Center ist ein Museum in Amherstburg.",
+                  "text": "Ein Museum und Kulturzentrum in Malden Amherstburg mit wechselnden Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         -83.197646,
@@ -15880,7 +15880,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Open Book Theatre",
-                  "text": "Das Open Book Theatre ist ein Theater in Amherstburg.",
+                  "text": "Ein Theater in Malden Amherstburg, das für Literaturverfilmungen bekannt ist.",
                   "category": "cultural",
                   "coords": [
                         -83.187829,
@@ -15889,7 +15889,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Village Theatre",
-                  "text": "Das Trenton Village Theatre ist ein Theater in Amherstburg.",
+                  "text": "Ein Gemeinschaftstheater im Trenton Village in Malden Amherstburg.",
                   "category": "cultural",
                   "coords": [
                         -83.17652,
@@ -15898,7 +15898,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Livingstone Channel Upper Entrance Light",
-                  "text": "Das Livingstone Channel Upper Entrance Light ist ein Leuchtturm in Amherstburg.",
+                  "text": "Ein Leuchtturm am oberen Eingang des Livingstone Channel in Malden Amherstburg.",
                   "category": "landmark",
                   "coords": [
                         -83.12237,
@@ -15907,7 +15907,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grosse Ile North Channel Range Front Light",
-                  "text": "Das Grosse Ile North Channel Range Front Light ist ein Leuchtturm in Amherstburg.",
+                  "text": "Ein Richtfeuer für die Navigation im Detroit River bei Grosse Ile in Malden Amherstburg.",
                   "category": "landmark",
                   "coords": [
                         -83.139933,
@@ -15916,7 +15916,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sanger's Lagoon Overlook",
-                  "text": "Der Sanger's Lagoon Overlook ist ein Aussichtspunkt in Amherstburg.",
+                  "text": "Ein Aussichtspunkt über die Sanger's Lagoon in Malden Amherstburg.",
                   "category": "natural",
                   "coords": [
                         -83.198173,
@@ -15936,7 +15936,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "WDFN (Detroit)",
-                  "text": "Adótorony a detroiti WDFN rádióállomás számára.",
+                  "text": "Rádiótorony Detroitban (Michigan) a WDFN állomás számára.",
                   "category": "tower",
                   "coords": [
                         -83.199567,
@@ -15945,7 +15945,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pointe Mouillee State Game Area",
-                  "text": "Állami vadászati és madárrezervátum Michiganben, fontos madárterület.",
+                  "text": "Állami vadász- és madárvédelmi terület az Erie-tó partján Michiganben.",
                   "category": "natural",
                   "coords": [
                         -83.189837,
@@ -15972,7 +15972,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Elizabeth Park",
-                  "text": "Egy park a Detroit folyó partján Trentonban, Michigan államban.",
+                  "text": "Park a Detroit folyó partján Michiganben, piknikezőhelyekkel és csónakkikötővel.",
                   "category": "park",
                   "coords": [
                         -83.180522,
@@ -15981,7 +15981,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John the Baptist Catholic Church",
-                  "text": "Egy katolikus templom Amherstburgban.",
+                  "text": "A St. John the Baptist Catholic Church egy Keresztelő Szent Jánosnak szentelt katolikus templom Malden Amherstburgban.",
                   "category": "religious",
                   "coords": [
                         -83.103662,
@@ -15990,7 +15990,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "Egy anglikán templom Amherstburgban.",
+                  "text": "A Christ Church egy történelmi anglikán templom Malden Amherstburgban.",
                   "category": "religious",
                   "coords": [
                         -83.110351,
@@ -15999,7 +15999,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "Egy presbiteriánus templom Amherstburgban.",
+                  "text": "A St. Andrew's Presbyterian Church egy Szent Andrásnak szentelt presbiteriánus templom Malden Amherstburgban.",
                   "category": "religious",
                   "coords": [
                         -83.109204,
@@ -16008,7 +16008,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Joseph Catholic Church",
-                  "text": "Egy katolikus templom Amherstburgban.",
+                  "text": "A St. Joseph Catholic Church egy Szent Józsefnek szentelt katolikus templom Malden Amherstburgban.",
                   "category": "religious",
                   "coords": [
                         -83.069824,
@@ -16017,7 +16017,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibraltar Bay",
-                  "text": "Egy öböl a Detroit folyónál.",
+                  "text": "A Gibraltar Bay egy öböl a Detroit folyón Malden Amherstburg közelében.",
                   "category": "landmark",
                   "coords": [
                         -83.156591,
@@ -16026,7 +16026,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "International Lake",
-                  "text": "Egy öböl az USA és Kanada határa közelében.",
+                  "text": "Az International Lake egy kis tó a Detroit folyó közelében, Malden Amherstburg területén.",
                   "category": "landmark",
                   "coords": [
                         -83.123611,
@@ -16035,7 +16035,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Malden National Historic Site",
-                  "text": "Egy történelmi erőd Amherstburgban, Ontarióban.",
+                  "text": "A Fort Malden National Historic Site egy 1812-es háborús erőd a Detroit folyónál, Malden Amherstburgban.",
                   "category": "landmark",
                   "coords": [
                         -83.113394,
@@ -16044,7 +16044,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Haas Park",
-                  "text": "Egy park Amherstburgban.",
+                  "text": "A Haas Park egy a Haas családról elnevezett park Malden Amherstburgban.",
                   "category": "park",
                   "coords": [
                         -83.178083,
@@ -16053,7 +16053,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Slocum Truax Park",
-                  "text": "Egy park Amherstburgban, helyi családokról elnevezve.",
+                  "text": "A Slocum Truax Park egy a Slocum és Truax családról elnevezett park Malden Amherstburgban.",
                   "category": "park",
                   "coords": [
                         -83.179194,
@@ -16062,7 +16062,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "North McLouth Park",
-                  "text": "Egy park Amherstburgban.",
+                  "text": "A North McLouth Park egy a McLouth családról elnevezett park Malden Amherstburgban.",
                   "category": "park",
                   "coords": [
                         -83.206682,
@@ -16071,7 +16071,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Affholter Park",
-                  "text": "Egy park Amherstburgban.",
+                  "text": "A Affholter Park egy a Affholter családról elnevezett park Malden Amherstburgban.",
                   "category": "park",
                   "coords": [
                         -83.213409,
@@ -16080,7 +16080,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Constitution Park",
-                  "text": "A Lower Constitution Park egy park Amherstburgban.",
+                  "text": "A Lower Constitution Park egy park a Detroit folyó partján, Malden Amherstburgban.",
                   "category": "park",
                   "coords": [
                         -83.21986,
@@ -16089,7 +16089,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lions Park",
-                  "text": "A Lions Park egy park Amherstburgban.",
+                  "text": "A Lions Park egy Lions Club által gondozott park Malden Amherstburgban.",
                   "category": "park",
                   "coords": [
                         -83.197049,
@@ -16098,7 +16098,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "White Sands",
-                  "text": "A White Sands egy strand Amherstburgban.",
+                  "text": "A White Sands egy homokos strand a Detroit folyónál, Malden Amherstburgban.",
                   "category": "recreational",
                   "coords": [
                         -83.121058,
@@ -16107,7 +16107,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bailey's Beach",
-                  "text": "A Bailey's Beach egy strand Amherstburgban.",
+                  "text": "A Bailey's Beach egy a Bailey családról elnevezett strand a Detroit folyónál, Malden Amherstburgban.",
                   "category": "recreational",
                   "coords": [
                         -83.112536,
@@ -16116,7 +16116,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibraltar Historical Museum",
-                  "text": "A Gibraltar Historical Museum egy múzeum Amherstburgban.",
+                  "text": "Egy múzeum Malden Amherstburgben, amely Gibraltár és Amherstburg történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -83.18956,
@@ -16125,7 +16125,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Marshland Museum",
-                  "text": "A Marshland Museum egy múzeum Amherstburgban.",
+                  "text": "Egy múzeum Malden Amherstburgben, amely a mocsárvidék ökológiájával és történetével foglalkozik.",
                   "category": "museum",
                   "coords": [
                         -83.198055,
@@ -16134,7 +16134,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Historical Museum",
-                  "text": "A Trenton Historical Museum egy múzeum Amherstburgban.",
+                  "text": "Egy múzeum Malden Amherstburgben, amely Trenton helyi történelmét őrzi.",
                   "category": "museum",
                   "coords": [
                         -83.179189,
@@ -16143,7 +16143,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Cultural Center",
-                  "text": "A Trenton Cultural Center egy múzeum Amherstburgban.",
+                  "text": "Egy múzeum és kulturális központ Malden Amherstburgben, változó kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         -83.197646,
@@ -16152,7 +16152,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Open Book Theatre",
-                  "text": "Az Open Book Theatre egy színház Amherstburgban.",
+                  "text": "Egy színház Malden Amherstburgben, amely irodalmi adaptációkról ismert.",
                   "category": "cultural",
                   "coords": [
                         -83.187829,
@@ -16161,7 +16161,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Village Theatre",
-                  "text": "A Trenton Village Theatre egy színház Amherstburgban.",
+                  "text": "Egy közösségi színház a Trenton Village-ben, Malden Amherstburgben.",
                   "category": "cultural",
                   "coords": [
                         -83.17652,
@@ -16170,7 +16170,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Livingstone Channel Upper Entrance Light",
-                  "text": "A Livingstone Channel Upper Entrance Light egy világítótorony Amherstburgban.",
+                  "text": "Egy világítótorony a Livingstone Channel felső bejáratánál, Malden Amherstburgben.",
                   "category": "landmark",
                   "coords": [
                         -83.12237,
@@ -16179,7 +16179,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grosse Ile North Channel Range Front Light",
-                  "text": "A Grosse Ile North Channel Range Front Light egy világítótorony Amherstburgban.",
+                  "text": "Egy irányfény a Detroit folyón a Grosse Ile-nél, Malden Amherstburgben.",
                   "category": "landmark",
                   "coords": [
                         -83.139933,
@@ -16188,7 +16188,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sanger's Lagoon Overlook",
-                  "text": "A Sanger's Lagoon Overlook egy kilátóhely Amherstburgban.",
+                  "text": "Egy kilátó a Sanger's Lagoon felett Malden Amherstburgben.",
                   "category": "natural",
                   "coords": [
                         -83.198173,
@@ -16208,7 +16208,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "WDFN (Detroit)",
-                  "text": "Un turn de transmisie pentru postul de radio WDFN din Detroit.",
+                  "text": "Turn de radio în Detroit (Michigan) pentru postul WDFN.",
                   "category": "tower",
                   "coords": [
                         -83.199567,
@@ -16217,7 +16217,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pointe Mouillee State Game Area",
-                  "text": "O rezervație de vânătoare și păsări din Michigan, zonă importantă pentru păsări.",
+                  "text": "Zonă de vânătoare și protecție a păsărilor de stat pe malul lacului Erie în Michigan.",
                   "category": "natural",
                   "coords": [
                         -83.189837,
@@ -16244,7 +16244,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Elizabeth Park",
-                  "text": "Un parc pe râul Detroit în Trenton, Michigan.",
+                  "text": "Parc pe malul râului Detroit în Michigan, cu locuri de picnic și debarcader.",
                   "category": "park",
                   "coords": [
                         -83.180522,
@@ -16253,7 +16253,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John the Baptist Catholic Church",
-                  "text": "O biserică catolică în Amherstburg.",
+                  "text": "Biserica Catolică Sf. Ioan Botezătorul din Malden Amherstburg este dedicată Sfântului Ioan Botezătorul.",
                   "category": "religious",
                   "coords": [
                         -83.103662,
@@ -16262,7 +16262,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "O biserică anglicană în Amherstburg.",
+                  "text": "Christ Church din Malden Amherstburg este o biserică istorică anglicană.",
                   "category": "religious",
                   "coords": [
                         -83.110351,
@@ -16271,7 +16271,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "O biserică prezbiteriană în Amherstburg.",
+                  "text": "Biserica Prezbiteriană Sf. Andrei din Malden Amherstburg este dedicată Sfântului Andrei.",
                   "category": "religious",
                   "coords": [
                         -83.109204,
@@ -16280,7 +16280,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Joseph Catholic Church",
-                  "text": "O biserică catolică în Amherstburg.",
+                  "text": "Biserica Catolică Sf. Iosif din Malden Amherstburg este dedicată Sfântului Iosif.",
                   "category": "religious",
                   "coords": [
                         -83.069824,
@@ -16289,7 +16289,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibraltar Bay",
-                  "text": "Un golf pe râul Detroit.",
+                  "text": "Gibraltar Bay din Malden Amherstburg este un golf pe râul Detroit.",
                   "category": "landmark",
                   "coords": [
                         -83.156591,
@@ -16298,7 +16298,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "International Lake",
-                  "text": "Un golf lângă granița dintre SUA și Canada.",
+                  "text": "International Lake din Malden Amherstburg este un lac mic lângă râul Detroit.",
                   "category": "landmark",
                   "coords": [
                         -83.123611,
@@ -16307,7 +16307,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Malden National Historic Site",
-                  "text": "Un fort istoric în Amherstburg, Ontario.",
+                  "text": "Fort Malden National Historic Site din Malden Amherstburg este o fortăreață din Războiul din 1812, pe râul Detroit.",
                   "category": "landmark",
                   "coords": [
                         -83.113394,
@@ -16316,7 +16316,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Haas Park",
-                  "text": "Un parc în Amherstburg.",
+                  "text": "Haas Park din Malden Amherstburg este un parc numit după familia Haas.",
                   "category": "park",
                   "coords": [
                         -83.178083,
@@ -16325,7 +16325,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Slocum Truax Park",
-                  "text": "Un parc în Amherstburg, numit după familii locale.",
+                  "text": "Slocum Truax Park din Malden Amherstburg este un parc numit după familiile Slocum și Truax.",
                   "category": "park",
                   "coords": [
                         -83.179194,
@@ -16334,7 +16334,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "North McLouth Park",
-                  "text": "Un parc în Amherstburg.",
+                  "text": "North McLouth Park din Malden Amherstburg este un parc numit după familia McLouth.",
                   "category": "park",
                   "coords": [
                         -83.206682,
@@ -16343,7 +16343,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Affholter Park",
-                  "text": "Un parc în Amherstburg.",
+                  "text": "Affholter Park din Malden Amherstburg este un parc numit după familia Affholter.",
                   "category": "park",
                   "coords": [
                         -83.213409,
@@ -16352,7 +16352,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Constitution Park",
-                  "text": "Lower Constitution Park este un parc în Amherstburg.",
+                  "text": "Lower Constitution Park din Malden Amherstburg este un parc pe malul râului Detroit.",
                   "category": "park",
                   "coords": [
                         -83.21986,
@@ -16361,7 +16361,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lions Park",
-                  "text": "Lions Park este un parc în Amherstburg.",
+                  "text": "Lions Park din Malden Amherstburg este un parc îngrijit de Clubul Lions.",
                   "category": "park",
                   "coords": [
                         -83.197049,
@@ -16370,7 +16370,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "White Sands",
-                  "text": "White Sands este o plajă în Amherstburg.",
+                  "text": "White Sands din Malden Amherstburg este o plajă cu nisip pe râul Detroit.",
                   "category": "recreational",
                   "coords": [
                         -83.121058,
@@ -16379,7 +16379,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bailey's Beach",
-                  "text": "Bailey's Beach este o plajă în Amherstburg.",
+                  "text": "Bailey's Beach din Malden Amherstburg este o plajă numită după familia Bailey pe râul Detroit.",
                   "category": "recreational",
                   "coords": [
                         -83.112536,
@@ -16388,7 +16388,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibraltar Historical Museum",
-                  "text": "Gibraltar Historical Museum este un muzeu în Amherstburg.",
+                  "text": "Un muzeu în Malden Amherstburg care documentează istoria Gibraltarului și Amherstburgului.",
                   "category": "museum",
                   "coords": [
                         -83.18956,
@@ -16397,7 +16397,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Marshland Museum",
-                  "text": "Marshland Museum este un muzeu în Amherstburg.",
+                  "text": "Un muzeu în Malden Amherstburg axat pe ecologia și istoria zonei mlăștinoase.",
                   "category": "museum",
                   "coords": [
                         -83.198055,
@@ -16406,7 +16406,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Historical Museum",
-                  "text": "Trenton Historical Museum este un muzeu în Amherstburg.",
+                  "text": "Un muzeu în Malden Amherstburg care păstrează istoria locală a Trentonului.",
                   "category": "museum",
                   "coords": [
                         -83.179189,
@@ -16415,7 +16415,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Cultural Center",
-                  "text": "Trenton Cultural Center este un muzeu în Amherstburg.",
+                  "text": "Un muzeu și centru cultural în Malden Amherstburg cu expoziții rotative.",
                   "category": "museum",
                   "coords": [
                         -83.197646,
@@ -16424,7 +16424,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Open Book Theatre",
-                  "text": "Open Book Theatre este un teatru în Amherstburg.",
+                  "text": "Un teatru în Malden Amherstburg cunoscut pentru adaptări literare.",
                   "category": "cultural",
                   "coords": [
                         -83.187829,
@@ -16433,7 +16433,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Village Theatre",
-                  "text": "Trenton Village Theatre este un teatru în Amherstburg.",
+                  "text": "Un teatru comunitar în Trenton Village, Malden Amherstburg.",
                   "category": "cultural",
                   "coords": [
                         -83.17652,
@@ -16442,7 +16442,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Livingstone Channel Upper Entrance Light",
-                  "text": "Livingstone Channel Upper Entrance Light este un far în Amherstburg.",
+                  "text": "Un far la intrarea superioară a Canalului Livingstone în Malden Amherstburg.",
                   "category": "landmark",
                   "coords": [
                         -83.12237,
@@ -16451,7 +16451,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grosse Ile North Channel Range Front Light",
-                  "text": "Grosse Ile North Channel Range Front Light este un far în Amherstburg.",
+                  "text": "Un far de aliniament pentru navigație pe Râul Detroit la Grosse Ile, Malden Amherstburg.",
                   "category": "landmark",
                   "coords": [
                         -83.139933,
@@ -16460,7 +16460,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sanger's Lagoon Overlook",
-                  "text": "Sanger's Lagoon Overlook este un punct de belvedere în Amherstburg.",
+                  "text": "Un punct de belvedere asupra Lagunei Sanger în Malden Amherstburg.",
                   "category": "natural",
                   "coords": [
                         -83.198173,
@@ -16480,7 +16480,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "WDFN (Detroit)",
-                  "text": "A broadcast tower for radio station WDFN in Detroit.",
+                  "text": "Radio tower in Detroit, Michigan for station WDFN.",
                   "category": "tower",
                   "coords": [
                         -83.199567,
@@ -16489,7 +16489,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pointe Mouillee State Game Area",
-                  "text": "A state game area and important bird area in Michigan.",
+                  "text": "State game and bird protection area on Lake Erie in Michigan.",
                   "category": "natural",
                   "coords": [
                         -83.189837,
@@ -16516,7 +16516,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Elizabeth Park",
-                  "text": "A park on the Detroit River in Trenton, Michigan.",
+                  "text": "Park on the Detroit River in Michigan with picnic areas and boat dock.",
                   "category": "park",
                   "coords": [
                         -83.180522,
@@ -16525,7 +16525,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John the Baptist Catholic Church",
-                  "text": "A Catholic church in Amherstburg.",
+                  "text": "St. John the Baptist Catholic Church in Malden Amherstburg is a Catholic church dedicated to John the Baptist.",
                   "category": "religious",
                   "coords": [
                         -83.103662,
@@ -16534,7 +16534,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Christ Church",
-                  "text": "An Anglican church in Amherstburg.",
+                  "text": "Christ Church in Malden Amherstburg is a historic Anglican church.",
                   "category": "religious",
                   "coords": [
                         -83.110351,
@@ -16543,7 +16543,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "A Presbyterian church in Amherstburg.",
+                  "text": "St. Andrew's Presbyterian Church in Malden Amherstburg is a Presbyterian church dedicated to Saint Andrew.",
                   "category": "religious",
                   "coords": [
                         -83.109204,
@@ -16552,7 +16552,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Joseph Catholic Church",
-                  "text": "A Catholic church in Amherstburg.",
+                  "text": "St. Joseph Catholic Church in Malden Amherstburg is a Catholic church dedicated to Saint Joseph.",
                   "category": "religious",
                   "coords": [
                         -83.069824,
@@ -16561,7 +16561,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibraltar Bay",
-                  "text": "A bay on the Detroit River.",
+                  "text": "Gibraltar Bay in Malden Amherstburg is a bay on the Detroit River.",
                   "category": "landmark",
                   "coords": [
                         -83.156591,
@@ -16570,7 +16570,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "International Lake",
-                  "text": "A bay area near the international border.",
+                  "text": "International Lake in Malden Amherstburg is a small lake near the Detroit River.",
                   "category": "landmark",
                   "coords": [
                         -83.123611,
@@ -16579,7 +16579,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fort Malden National Historic Site",
-                  "text": "A historic fort in Amherstburg, Ontario.",
+                  "text": "Fort Malden National Historic Site in Malden Amherstburg is a War of 1812 fortification on the Detroit River.",
                   "category": "landmark",
                   "coords": [
                         -83.113394,
@@ -16588,7 +16588,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Haas Park",
-                  "text": "A park in Amherstburg.",
+                  "text": "Haas Park in Malden Amherstburg is a park named after the Haas family.",
                   "category": "park",
                   "coords": [
                         -83.178083,
@@ -16597,7 +16597,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Slocum Truax Park",
-                  "text": "A park in Amherstburg named after local families.",
+                  "text": "Slocum Truax Park in Malden Amherstburg is a park named after the Slocum and Truax families.",
                   "category": "park",
                   "coords": [
                         -83.179194,
@@ -16606,7 +16606,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "North McLouth Park",
-                  "text": "A park in Amherstburg.",
+                  "text": "North McLouth Park in Malden Amherstburg is a park named after the McLouth family.",
                   "category": "park",
                   "coords": [
                         -83.206682,
@@ -16615,7 +16615,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Affholter Park",
-                  "text": "A park in Amherstburg.",
+                  "text": "Affholter Park in Malden Amherstburg is a park named after the Affholter family.",
                   "category": "park",
                   "coords": [
                         -83.213409,
@@ -16624,7 +16624,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Constitution Park",
-                  "text": "Lower Constitution Park is a park in Amherstburg.",
+                  "text": "Lower Constitution Park in Malden Amherstburg is a park along the Detroit River.",
                   "category": "park",
                   "coords": [
                         -83.21986,
@@ -16633,7 +16633,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lions Park",
-                  "text": "Lions Park is a park in Amherstburg.",
+                  "text": "Lions Park in Malden Amherstburg is a park maintained by the Lions Club.",
                   "category": "park",
                   "coords": [
                         -83.197049,
@@ -16642,7 +16642,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "White Sands",
-                  "text": "White Sands is a beach in Amherstburg.",
+                  "text": "White Sands in Malden Amherstburg is a sandy beach on the Detroit River.",
                   "category": "recreational",
                   "coords": [
                         -83.121058,
@@ -16651,7 +16651,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bailey's Beach",
-                  "text": "Bailey's Beach is a beach in Amherstburg.",
+                  "text": "Bailey's Beach in Malden Amherstburg is a beach named after the Bailey family on the Detroit River.",
                   "category": "recreational",
                   "coords": [
                         -83.112536,
@@ -16660,7 +16660,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gibraltar Historical Museum",
-                  "text": "Gibraltar Historical Museum is a museum in Amherstburg.",
+                  "text": "A museum in Malden Amherstburg documenting the history of Gibraltar and Amherstburg.",
                   "category": "museum",
                   "coords": [
                         -83.18956,
@@ -16669,7 +16669,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Marshland Museum",
-                  "text": "Marshland Museum is a museum in Amherstburg.",
+                  "text": "A museum in Malden Amherstburg focused on marshland ecology and history.",
                   "category": "museum",
                   "coords": [
                         -83.198055,
@@ -16678,7 +16678,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Historical Museum",
-                  "text": "Trenton Historical Museum is a museum in Amherstburg.",
+                  "text": "A museum in Malden Amherstburg preserving Trenton's local history.",
                   "category": "museum",
                   "coords": [
                         -83.179189,
@@ -16687,7 +16687,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Cultural Center",
-                  "text": "Trenton Cultural Center is a museum in Amherstburg.",
+                  "text": "A museum and cultural center in Malden Amherstburg with rotating exhibits.",
                   "category": "museum",
                   "coords": [
                         -83.197646,
@@ -16696,7 +16696,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Open Book Theatre",
-                  "text": "Open Book Theatre is a theatre in Amherstburg.",
+                  "text": "A theatre in Malden Amherstburg known for literary adaptations.",
                   "category": "cultural",
                   "coords": [
                         -83.187829,
@@ -16705,7 +16705,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trenton Village Theatre",
-                  "text": "Trenton Village Theatre is a theatre in Amherstburg.",
+                  "text": "A community theatre in Trenton Village, Malden Amherstburg.",
                   "category": "cultural",
                   "coords": [
                         -83.17652,
@@ -16714,7 +16714,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Livingstone Channel Upper Entrance Light",
-                  "text": "Livingstone Channel Upper Entrance Light is a lighthouse in Amherstburg.",
+                  "text": "A lighthouse at the upper entrance of Livingstone Channel in Malden Amherstburg.",
                   "category": "landmark",
                   "coords": [
                         -83.12237,
@@ -16723,7 +16723,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grosse Ile North Channel Range Front Light",
-                  "text": "Grosse Ile North Channel Range Front Light is a lighthouse in Amherstburg.",
+                  "text": "A range light for navigation on the Detroit River at Grosse Ile, Malden Amherstburg.",
                   "category": "landmark",
                   "coords": [
                         -83.139933,
@@ -16732,7 +16732,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sanger's Lagoon Overlook",
-                  "text": "Sanger's Lagoon Overlook is a viewpoint in Amherstburg.",
+                  "text": "An overlook of Sanger's Lagoon in Malden Amherstburg.",
                   "category": "natural",
                   "coords": [
                         -83.198173,
@@ -16828,7 +16828,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beth Israel Congregation",
-                  "text": "Jüdische Gemeinde und Synagoge in Kingston.",
+                  "text": "Historische Synagoge in Kingston (Ontario) aus dem frühen 20. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -76.505242,
@@ -16837,7 +16837,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "Historische presbyterianische Kirche in Kingston aus dem Jahr 1822.",
+                  "text": "Historische Steinkirche im Zentrum von Kingston, Ontario.",
                   "category": "religious",
                   "coords": [
                         -76.489464,
@@ -16846,7 +16846,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chalmers United Church",
-                  "text": "Eine Gemeinde der United Church of Canada in Kingston.",
+                  "text": "United Church in Kingston mit auffälligem Kirchturm.",
                   "category": "religious",
                   "coords": [
                         -76.490629,
@@ -16891,7 +16891,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grand Theatre",
-                  "text": "Theater für darstellende Künste in Kingston.",
+                  "text": "Grand Theatre in Kingston (Towers Kingston) ist ein historisches Theater aus dem frühen 20. Jahrhundert.",
                   "category": "cultural",
                   "coords": [
                         -76.486415,
@@ -16900,7 +16900,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Anglican Church",
-                  "text": "Anglikanische Kirche in Kingston.",
+                  "text": "St. John's Anglican Church in Kingston (Towers Kingston) ist eine anglikanische Kirche, die Johannes dem Täufer geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -76.518659,
@@ -16918,7 +16918,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Princess Street United Church",
-                  "text": "Gemeinde der United Church of Canada an der Princess Street in Kingston.",
+                  "text": "Princess Street United Church in Kingston (Towers Kingston) ist eine vereinigte Kirche an der Princess Street.",
                   "category": "religious",
                   "coords": [
                         -76.500968,
@@ -16927,7 +16927,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "Baptistenkirche in Kingston.",
+                  "text": "First Baptist Church in Kingston (Towers Kingston) ist eine historische Baptistenkirche.",
                   "category": "religious",
                   "coords": [
                         -76.487895,
@@ -16945,7 +16945,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wellington Street Theatre",
-                  "text": "Theater in der Wellington Street in Kingston.",
+                  "text": "Wellington Street Theatre in Kingston (Towers Kingston) ist ein Theater an der Wellington Street.",
                   "category": "cultural",
                   "coords": [
                         -76.48403,
@@ -16954,7 +16954,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John the Apostle Church",
-                  "text": "Kirche zu Ehren des Apostels Johannes in Kingston.",
+                  "text": "St. John the Apostle Church in Kingston (Towers Kingston) ist eine katholische Kirche, die dem Apostel Johannes geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -76.489543,
@@ -16963,7 +16963,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. James' Anglican Church",
-                  "text": "Anglikanische Kirche in Kingston.",
+                  "text": "St. James' Anglican Church in Kingston (Towers Kingston) ist eine anglikanische Kirche, die dem Heiligen Jakobus geweiht ist.",
                   "category": "religious",
                   "coords": [
                         -76.491452,
@@ -16972,7 +16972,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Reeds Bay",
-                  "text": "Eine Bucht an der Uferpromenade von Kingston.",
+                  "text": "Reeds Bay in Kingston (Towers Kingston) ist eine Bucht am Ontariosee.",
                   "category": "landmark",
                   "coords": [
                         -76.466549,
@@ -16981,7 +16981,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anglin Bay",
-                  "text": "Eine Bucht am Ontariosee in Kingston.",
+                  "text": "Anglin Bay in Kingston (Towers Kingston) ist eine Bucht am Ontariosee.",
                   "category": "landmark",
                   "coords": [
                         -76.479382,
@@ -16999,7 +16999,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lake Ontario Park",
-                  "text": "Ein Park am Ufer des Ontariosees in Kingston.",
+                  "text": "Lake Ontario Park in Kingston (Towers Kingston) ist ein Park am Ufer des Ontariosees.",
                   "category": "park",
                   "coords": [
                         -76.531395,
@@ -17008,7 +17008,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Martello Alley",
-                  "text": "Eine Kunstgalerie und kulturelle Gasse in Kingston.",
+                  "text": "Ein Museum in einer restaurierten Gasse in Towers Kingston mit lokaler Geschichte.",
                   "category": "museum",
                   "coords": [
                         -76.481992,
@@ -17017,7 +17017,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Miller Museum of Geology",
-                  "text": "Geologiemuseum an der Queen’s University in Kingston.",
+                  "text": "Ein geologisches Museum in Towers Kingston mit Mineralien- und Fossiliensammlungen.",
                   "category": "museum",
                   "coords": [
                         -76.492587,
@@ -17026,7 +17026,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canada's Penitentiary Museum",
-                  "text": "Museum über die Gefängnisgeschichte Kanadas in Kingston.",
+                  "text": "Ein Museum in Towers Kingston, das die Geschichte der kanadischen Bundesgefängnisse dokumentiert.",
                   "category": "museum",
                   "coords": [
                         -76.513778,
@@ -17035,7 +17035,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "PumpHouse Museum",
-                  "text": "Das PumpHouse Museum ist ein Museum in Martello-Towers-Kingston-History-v2.",
+                  "text": "Museum in einem historischen Wasserpumpwerk in Towers Kingston.",
                   "category": "museum",
                   "coords": [
                         -76.484726,
@@ -17044,7 +17044,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hillcroft Plaque",
-                  "text": "Die Hillcroft-Gedenktafel ist ein Denkmal in Martello-Towers-Kingston-History-v2.",
+                  "text": "Historische Gedenktafel am Standort des ehemaligen Hillcroft-Anwesens in Towers Kingston.",
                   "category": "historical",
                   "coords": [
                         -76.506039,
@@ -17053,7 +17053,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Market Street Battery",
-                  "text": "Die Market Street Battery ist eine Festung in Martello-Towers-Kingston-History-v2.",
+                  "text": "Historische Artilleriebatterie an der Market Street in Towers Kingston.",
                   "category": "fortress",
                   "coords": [
                         -76.47946,
@@ -17062,7 +17062,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Summerhill Plaque",
-                  "text": "Die Summerhill-Gedenktafel ist ein Denkmal in Martello-Towers-Kingston-History-v2.",
+                  "text": "Gedenktafel zur Geschichte von Summerhill in Towers Kingston.",
                   "category": "historical",
                   "coords": [
                         -76.492374,
@@ -17071,7 +17071,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vacant",
-                  "text": "Die Ruinen von Vacant sind eine Ruine in Martello-Towers-Kingston-History-v2.",
+                  "text": "Ein unbebautes historisches Gelände in Towers Kingston, durch eine Tafel markiert.",
                   "category": "historical",
                   "coords": [
                         -76.498177,
@@ -17080,7 +17080,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Domino Theatre",
-                  "text": "Das Domino Theatre ist ein Theater in Martello-Towers-Kingston-History-v2.",
+                  "text": "Ein Gemeinschaftstheater mit Live-Aufführungen in Towers Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.572932,
@@ -17089,7 +17089,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Absolute Comedy",
-                  "text": "Absolute Comedy ist ein Theater in Martello-Towers-Kingston-History-v2.",
+                  "text": "Ein Comedy-Club mit Stand-up-Auftritten in Towers Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.521934,
@@ -17098,7 +17098,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Isabel Bader Centre for Performing Arts",
-                  "text": "Das Isabel Bader Centre for Performing Arts ist ein Theater in Martello-Towers-Kingston-History-v2.",
+                  "text": "Ein nach der Philanthropin Isabel Bader benanntes Zentrum für darstellende Künste in Towers Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.506521,
@@ -17145,7 +17145,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beth Israel Congregation",
-                  "text": "Zsidó gyülekezet és zsinagóga Kingstonban.",
+                  "text": "Történelmi zsinagóga Kingstonban (Ontario), a 20. század elejéről.",
                   "category": "religious",
                   "coords": [
                         -76.505242,
@@ -17154,7 +17154,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "Történelmi presbiteriánus templom Kingstonban 1822-ből.",
+                  "text": "Történelmi kőtemplom Kingston belvárosában, Ontario.",
                   "category": "religious",
                   "coords": [
                         -76.489464,
@@ -17163,7 +17163,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chalmers United Church",
-                  "text": "A Kanadai Egyesült Egyház gyülekezete Kingstonban.",
+                  "text": "United Church Kingstonban, feltűnő harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         -76.490629,
@@ -17208,7 +17208,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grand Theatre",
-                  "text": "Előadóművészeti színház Kingstonban.",
+                  "text": "A Grand Theatre egy történelmi színház Kingstonban (Towers Kingston), a 20. század elejéről.",
                   "category": "cultural",
                   "coords": [
                         -76.486415,
@@ -17217,7 +17217,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Anglican Church",
-                  "text": "Anglikán templom Kingstonban.",
+                  "text": "A St. John's Anglican Church egy Keresztelő Szent Jánosnak szentelt anglikán templom Kingstonban (Towers Kingston).",
                   "category": "religious",
                   "coords": [
                         -76.518659,
@@ -17235,7 +17235,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Princess Street United Church",
-                  "text": "A Kanadai Egyesült Egyház gyülekezete a Princess Streeten, Kingstonban.",
+                  "text": "A Princess Street United Church egy egyesített templom a Princess Street-en, Kingstonban (Towers Kingston).",
                   "category": "religious",
                   "coords": [
                         -76.500968,
@@ -17244,7 +17244,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "Baptista templom Kingstonban.",
+                  "text": "A First Baptist Church egy történelmi baptista templom Kingstonban (Towers Kingston).",
                   "category": "religious",
                   "coords": [
                         -76.487895,
@@ -17262,7 +17262,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wellington Street Theatre",
-                  "text": "Színház a Wellington Streeten, Kingstonban.",
+                  "text": "A Wellington Street Theatre egy színház a Wellington Street-en, Kingstonban (Towers Kingston).",
                   "category": "cultural",
                   "coords": [
                         -76.48403,
@@ -17271,7 +17271,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John the Apostle Church",
-                  "text": "Apostol Jánosnak szentelt templom Kingstonban.",
+                  "text": "A St. John the Apostle Church egy János apostolnak szentelt katolikus templom Kingstonban (Towers Kingston).",
                   "category": "religious",
                   "coords": [
                         -76.489543,
@@ -17280,7 +17280,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. James' Anglican Church",
-                  "text": "Anglikán templom Kingstonban.",
+                  "text": "A St. James' Anglican Church egy Szent Jakabnak szentelt anglikán templom Kingstonban (Towers Kingston).",
                   "category": "religious",
                   "coords": [
                         -76.491452,
@@ -17289,7 +17289,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Reeds Bay",
-                  "text": "Egy öböl Kingston vízpartján.",
+                  "text": "A Reeds Bay egy öböl az Ontario-tó partján, Kingstonban (Towers Kingston).",
                   "category": "landmark",
                   "coords": [
                         -76.466549,
@@ -17298,7 +17298,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anglin Bay",
-                  "text": "Egy öböl az Ontario-tó partján, Kingstonban.",
+                  "text": "Az Anglin Bay egy öböl az Ontario-tó partján, Kingstonban (Towers Kingston).",
                   "category": "landmark",
                   "coords": [
                         -76.479382,
@@ -17316,7 +17316,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lake Ontario Park",
-                  "text": "Egy park az Ontario-tó partján, Kingstonban.",
+                  "text": "A Lake Ontario Park egy park az Ontario-tó partján, Kingstonban (Towers Kingston).",
                   "category": "park",
                   "coords": [
                         -76.531395,
@@ -17325,7 +17325,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Martello Alley",
-                  "text": "Művészeti galéria és kulturális sikátor Kingstonban.",
+                  "text": "Egy múzeum egy helyreállított sikátorban Towers Kingstonban, helyi történelemmel.",
                   "category": "museum",
                   "coords": [
                         -76.481992,
@@ -17334,7 +17334,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Miller Museum of Geology",
-                  "text": "Geológiai múzeum a Queen's Egyetemen, Kingstonban.",
+                  "text": "Egy geológiai múzeum Towers Kingstonban, ásvány- és fosszília-gyűjteményekkel.",
                   "category": "museum",
                   "coords": [
                         -76.492587,
@@ -17343,7 +17343,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canada's Penitentiary Museum",
-                  "text": "Múzeum Kanada börtöntörténetéről Kingstonban.",
+                  "text": "Egy múzeum Towers Kingstonban, amely a kanadai szövetségi börtönök történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -76.513778,
@@ -17352,7 +17352,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "PumpHouse Museum",
-                  "text": "A PumpHouse Múzeum egy múzeum a Martello-Towers-Kingston-History-v2 területén.",
+                  "text": "Múzeum egy történelmi vízszivattyú-telepen Towers Kingstonban.",
                   "category": "museum",
                   "coords": [
                         -76.484726,
@@ -17361,7 +17361,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hillcroft Plaque",
-                  "text": "A Hillcroft Plakett egy emlékmű a Martello-Towers-Kingston-History-v2 területén.",
+                  "text": "Történelmi emléktábla a korábbi Hillcroft-birtok helyén Towers Kingstonban.",
                   "category": "historical",
                   "coords": [
                         -76.506039,
@@ -17370,7 +17370,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Market Street Battery",
-                  "text": "A Market Street Battery egy erőd a Martello-Towers-Kingston-History-v2 területén.",
+                  "text": "Történelmi tüzérségi üteg a Market Streeten, Towers Kingstonban.",
                   "category": "fortress",
                   "coords": [
                         -76.47946,
@@ -17379,7 +17379,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Summerhill Plaque",
-                  "text": "A Summerhill Plakett egy emlékmű a Martello-Towers-Kingston-History-v2 területén.",
+                  "text": "Emléktábla Summerhill történelméről Towers Kingstonban.",
                   "category": "historical",
                   "coords": [
                         -76.492374,
@@ -17388,7 +17388,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vacant",
-                  "text": "A Vacant romok egy romterület a Martello-Towers-Kingston-History-v2 területén.",
+                  "text": "Egy beépítetlen történelmi terület Towers Kingstonban, táblával jelölve.",
                   "category": "historical",
                   "coords": [
                         -76.498177,
@@ -17397,7 +17397,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Domino Theatre",
-                  "text": "A Domino Színház egy színház a Martello-Towers-Kingston-History-v2 területén.",
+                  "text": "Egy közösségi színház élő előadásokkal Towers Kingstonban.",
                   "category": "cultural",
                   "coords": [
                         -76.572932,
@@ -17406,7 +17406,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Absolute Comedy",
-                  "text": "Az Absolute Comedy egy színház a Martello-Towers-Kingston-History-v2 területén.",
+                  "text": "Egy komédiaklub stand-up előadásokkal Towers Kingstonban.",
                   "category": "cultural",
                   "coords": [
                         -76.521934,
@@ -17415,7 +17415,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Isabel Bader Centre for Performing Arts",
-                  "text": "Az Isabel Bader Előadóművészeti Központ egy színház a Martello-Towers-Kingston-History-v2 területén.",
+                  "text": "Isabel Bader philanthropistáról elnevezett előadóművészeti központ Towers Kingstonban.",
                   "category": "cultural",
                   "coords": [
                         -76.506521,
@@ -17462,7 +17462,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beth Israel Congregation",
-                  "text": "Congregație evreiască și sinagogă în Kingston.",
+                  "text": "Sinagogă istorică în Kingston (Ontario) de la începutul secolului al XX-lea.",
                   "category": "religious",
                   "coords": [
                         -76.505242,
@@ -17471,7 +17471,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "Biserică prezbiteriană istorică în Kingston, datând din 1822.",
+                  "text": "Biserică istorică din piatră în centrul orașului Kingston, Ontario.",
                   "category": "religious",
                   "coords": [
                         -76.489464,
@@ -17480,7 +17480,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chalmers United Church",
-                  "text": "O congregație a Bisericii Unite a Canadei din Kingston.",
+                  "text": "Biserica United Church în Kingston, cu un turn distinctiv.",
                   "category": "religious",
                   "coords": [
                         -76.490629,
@@ -17525,7 +17525,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grand Theatre",
-                  "text": "Teatru de arte spectacolului în Kingston.",
+                  "text": "Grand Theatre din Kingston (Towers Kingston) este un teatru istoric de la începutul secolului al XX-lea.",
                   "category": "cultural",
                   "coords": [
                         -76.486415,
@@ -17534,7 +17534,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Anglican Church",
-                  "text": "Biserică anglicană în Kingston.",
+                  "text": "Biserica Anglicană Sf. Ioan din Kingston (Towers Kingston) este dedicată Sfântului Ioan Botezătorul.",
                   "category": "religious",
                   "coords": [
                         -76.518659,
@@ -17552,7 +17552,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Princess Street United Church",
-                  "text": "Congregație a Bisericii Unite a Canadei pe Princess Street în Kingston.",
+                  "text": "Princess Street United Church din Kingston (Towers Kingston) este o biserică unită pe Princess Street.",
                   "category": "religious",
                   "coords": [
                         -76.500968,
@@ -17561,7 +17561,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "Biserică baptistă în Kingston.",
+                  "text": "First Baptist Church din Kingston (Towers Kingston) este o biserică baptistă istorică.",
                   "category": "religious",
                   "coords": [
                         -76.487895,
@@ -17579,7 +17579,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wellington Street Theatre",
-                  "text": "Teatru situat pe Wellington Street în Kingston.",
+                  "text": "Wellington Street Theatre din Kingston (Towers Kingston) este un teatru pe Wellington Street.",
                   "category": "cultural",
                   "coords": [
                         -76.48403,
@@ -17588,7 +17588,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John the Apostle Church",
-                  "text": "Biserică dedicată Sfântului Ioan Apostolul în Kingston.",
+                  "text": "Biserica Sf. Ioan Apostolul din Kingston (Towers Kingston) este dedicată Sfântului Ioan Apostolul.",
                   "category": "religious",
                   "coords": [
                         -76.489543,
@@ -17597,7 +17597,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. James' Anglican Church",
-                  "text": "Biserică anglicană în Kingston.",
+                  "text": "Biserica Anglicană Sf. Iacob din Kingston (Towers Kingston) este dedicată Sfântului Iacob.",
                   "category": "religious",
                   "coords": [
                         -76.491452,
@@ -17606,7 +17606,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Reeds Bay",
-                  "text": "Un golf pe malul apei din Kingston.",
+                  "text": "Reeds Bay din Kingston (Towers Kingston) este un golf pe Lacul Ontario.",
                   "category": "landmark",
                   "coords": [
                         -76.466549,
@@ -17615,7 +17615,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anglin Bay",
-                  "text": "Un golf pe lacul Ontario din Kingston.",
+                  "text": "Anglin Bay din Kingston (Towers Kingston) este un golf pe Lacul Ontario.",
                   "category": "landmark",
                   "coords": [
                         -76.479382,
@@ -17633,7 +17633,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lake Ontario Park",
-                  "text": "Un parc de-a lungul malurilor lacului Ontario din Kingston.",
+                  "text": "Lake Ontario Park din Kingston (Towers Kingston) este un parc pe malul Lacului Ontario.",
                   "category": "park",
                   "coords": [
                         -76.531395,
@@ -17642,7 +17642,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Martello Alley",
-                  "text": "O galerie de artă și alee culturală în Kingston.",
+                  "text": "Un muzeu într-o alee restaurată în Towers Kingston cu istorie locală.",
                   "category": "museum",
                   "coords": [
                         -76.481992,
@@ -17651,7 +17651,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Miller Museum of Geology",
-                  "text": "Muzeu de geologie la Queen’s University din Kingston.",
+                  "text": "Un muzeu de geologie în Towers Kingston cu colecții de minerale și fosile.",
                   "category": "museum",
                   "coords": [
                         -76.492587,
@@ -17660,7 +17660,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canada's Penitentiary Museum",
-                  "text": "Muzeu despre istoria închisorilor din Canada, situat în Kingston.",
+                  "text": "Un muzeu în Towers Kingston care documentează istoria penitenciarelor federale canadiene.",
                   "category": "museum",
                   "coords": [
                         -76.513778,
@@ -17669,7 +17669,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "PumpHouse Museum",
-                  "text": "Muzeul PumpHouse este un muzeu în Martello-Towers-Kingston-History-v2.",
+                  "text": "Muzeu într-o stație istorică de pompare a apei din Towers Kingston.",
                   "category": "museum",
                   "coords": [
                         -76.484726,
@@ -17678,7 +17678,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hillcroft Plaque",
-                  "text": "Placa Hillcroft este un monument în Martello-Towers-Kingston-History-v2.",
+                  "text": "Plașă comemorativă istorică la locul fostei moșii Hillcroft din Towers Kingston.",
                   "category": "historical",
                   "coords": [
                         -76.506039,
@@ -17687,7 +17687,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Market Street Battery",
-                  "text": "Bateria Market Street este un fort în Martello-Towers-Kingston-History-v2.",
+                  "text": "Baterie de artilerie istorică pe Market Street în Towers Kingston.",
                   "category": "fortress",
                   "coords": [
                         -76.47946,
@@ -17696,7 +17696,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Summerhill Plaque",
-                  "text": "Placa Summerhill este un monument în Martello-Towers-Kingston-History-v2.",
+                  "text": "Plașă comemorativă a istoriei Summerhill din Towers Kingston.",
                   "category": "historical",
                   "coords": [
                         -76.492374,
@@ -17705,7 +17705,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vacant",
-                  "text": "Ruinele Vacant sunt ruine în Martello-Towers-Kingston-History-v2.",
+                  "text": "Un teren istoric neconstruit din Towers Kingston, marcat cu o placă.",
                   "category": "historical",
                   "coords": [
                         -76.498177,
@@ -17714,7 +17714,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Domino Theatre",
-                  "text": "Teatrul Domino este un teatru în Martello-Towers-Kingston-History-v2.",
+                  "text": "Un teatru comunitar cu spectacole live în Towers Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.572932,
@@ -17723,7 +17723,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Absolute Comedy",
-                  "text": "Absolute Comedy este un teatru în Martello-Towers-Kingston-History-v2.",
+                  "text": "Un club de comedie cu spectacole de stand-up în Towers Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.521934,
@@ -17732,7 +17732,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Isabel Bader Centre for Performing Arts",
-                  "text": "Centrul Isabel Bader pentru Arte Performative este un teatru în Martello-Towers-Kingston-History-v2.",
+                  "text": "Un centru de arte performative numit după filantropa Isabel Bader din Towers Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.506521,
@@ -17779,7 +17779,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beth Israel Congregation",
-                  "text": "Jewish congregation and synagogue in Kingston.",
+                  "text": "Historic synagogue in Kingston, Ontario from early 20th century.",
                   "category": "religious",
                   "coords": [
                         -76.505242,
@@ -17788,7 +17788,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Andrew's Presbyterian Church",
-                  "text": "Historic Presbyterian church in Kingston dating from 1822.",
+                  "text": "Historic stone church in downtown Kingston, Ontario.",
                   "category": "religious",
                   "coords": [
                         -76.489464,
@@ -17797,7 +17797,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chalmers United Church",
-                  "text": "A United Church of Canada congregation in Kingston.",
+                  "text": "United Church in Kingston with a distinctive bell tower.",
                   "category": "religious",
                   "coords": [
                         -76.490629,
@@ -17842,7 +17842,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Grand Theatre",
-                  "text": "Performing arts theatre in Kingston.",
+                  "text": "Grand Theatre in Kingston (Towers Kingston) is a historic theatre from the early 20th century.",
                   "category": "cultural",
                   "coords": [
                         -76.486415,
@@ -17851,7 +17851,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John's Anglican Church",
-                  "text": "Anglican church in Kingston.",
+                  "text": "St. John's Anglican Church in Kingston (Towers Kingston) is an Anglican church dedicated to John the Baptist.",
                   "category": "religious",
                   "coords": [
                         -76.518659,
@@ -17869,7 +17869,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Princess Street United Church",
-                  "text": "United Church of Canada congregation on Princess Street in Kingston.",
+                  "text": "Princess Street United Church in Kingston (Towers Kingston) is a United church on Princess Street.",
                   "category": "religious",
                   "coords": [
                         -76.500968,
@@ -17878,7 +17878,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "First Baptist Church",
-                  "text": "Baptist church in Kingston.",
+                  "text": "First Baptist Church in Kingston (Towers Kingston) is a historic Baptist church.",
                   "category": "religious",
                   "coords": [
                         -76.487895,
@@ -17896,7 +17896,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wellington Street Theatre",
-                  "text": "Theatre located on Wellington Street in Kingston.",
+                  "text": "Wellington Street Theatre in Kingston (Towers Kingston) is a theatre on Wellington Street.",
                   "category": "cultural",
                   "coords": [
                         -76.48403,
@@ -17905,7 +17905,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. John the Apostle Church",
-                  "text": "Church dedicated to Saint John the Apostle in Kingston.",
+                  "text": "St. John the Apostle Church in Kingston (Towers Kingston) is a Catholic church dedicated to John the Apostle.",
                   "category": "religious",
                   "coords": [
                         -76.489543,
@@ -17914,7 +17914,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. James' Anglican Church",
-                  "text": "Anglican church in Kingston.",
+                  "text": "St. James' Anglican Church in Kingston (Towers Kingston) is an Anglican church dedicated to Saint James.",
                   "category": "religious",
                   "coords": [
                         -76.491452,
@@ -17923,7 +17923,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Reeds Bay",
-                  "text": "A bay in Kingston's waterfront.",
+                  "text": "Reeds Bay in Kingston (Towers Kingston) is a bay on Lake Ontario.",
                   "category": "landmark",
                   "coords": [
                         -76.466549,
@@ -17932,7 +17932,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Anglin Bay",
-                  "text": "A bay on Lake Ontario in Kingston.",
+                  "text": "Anglin Bay in Kingston (Towers Kingston) is a bay on Lake Ontario.",
                   "category": "landmark",
                   "coords": [
                         -76.479382,
@@ -17950,7 +17950,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lake Ontario Park",
-                  "text": "A park along the shores of Lake Ontario in Kingston.",
+                  "text": "Lake Ontario Park in Kingston (Towers Kingston) is a park on the shore of Lake Ontario.",
                   "category": "park",
                   "coords": [
                         -76.531395,
@@ -17959,7 +17959,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Martello Alley",
-                  "text": "An art gallery and cultural alley in Kingston.",
+                  "text": "A museum in a restored alleyway in Towers Kingston featuring local history.",
                   "category": "museum",
                   "coords": [
                         -76.481992,
@@ -17968,7 +17968,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Miller Museum of Geology",
-                  "text": "Geology museum at Queen's University in Kingston.",
+                  "text": "A geology museum in Towers Kingston with mineral and fossil collections.",
                   "category": "museum",
                   "coords": [
                         -76.492587,
@@ -17977,7 +17977,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Canada's Penitentiary Museum",
-                  "text": "Museum about Canada's prison history, located in Kingston.",
+                  "text": "A museum in Towers Kingston documenting the history of Canada's federal penitentiaries.",
                   "category": "museum",
                   "coords": [
                         -76.513778,
@@ -17986,7 +17986,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "PumpHouse Museum",
-                  "text": "The PumpHouse Museum is a museum in Martello-Towers-Kingston-History-v2.",
+                  "text": "Museum housed in a historic water pumping station in Towers Kingston.",
                   "category": "museum",
                   "coords": [
                         -76.484726,
@@ -17995,7 +17995,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hillcroft Plaque",
-                  "text": "The Hillcroft Plaque is a monument in Martello-Towers-Kingston-History-v2.",
+                  "text": "Historical plaque marking the site of the former Hillcroft estate in Towers Kingston.",
                   "category": "historical",
                   "coords": [
                         -76.506039,
@@ -18004,7 +18004,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Market Street Battery",
-                  "text": "The Market Street Battery is a fort in Martello-Towers-Kingston-History-v2.",
+                  "text": "Historic artillery battery on Market Street in Towers Kingston.",
                   "category": "fortress",
                   "coords": [
                         -76.47946,
@@ -18013,7 +18013,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Summerhill Plaque",
-                  "text": "The Summerhill Plaque is a monument in Martello-Towers-Kingston-History-v2.",
+                  "text": "Plaque commemorating the history of Summerhill in Towers Kingston.",
                   "category": "historical",
                   "coords": [
                         -76.492374,
@@ -18022,7 +18022,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vacant",
-                  "text": "The Vacant ruins are ruins in Martello-Towers-Kingston-History-v2.",
+                  "text": "A vacant historical site in Towers Kingston, marked by a plaque.",
                   "category": "historical",
                   "coords": [
                         -76.498177,
@@ -18031,7 +18031,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Domino Theatre",
-                  "text": "The Domino Theatre is a theatre in Martello-Towers-Kingston-History-v2.",
+                  "text": "A community theatre hosting live performances in Towers Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.572932,
@@ -18040,7 +18040,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Absolute Comedy",
-                  "text": "Absolute Comedy is a theatre in Martello-Towers-Kingston-History-v2.",
+                  "text": "A comedy club featuring stand-up performances in Towers Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.521934,
@@ -18049,7 +18049,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Isabel Bader Centre for Performing Arts",
-                  "text": "The Isabel Bader Centre for Performing Arts is a theatre in Martello-Towers-Kingston-History-v2.",
+                  "text": "A performing arts centre named after philanthropist Isabel Bader in Towers Kingston.",
                   "category": "cultural",
                   "coords": [
                         -76.506521,
@@ -18109,7 +18109,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Police Outpost Provincial Park",
-                  "text": "Police Outpost Provincial Park ist ein Provinzpark in Galt, bekannt für Angeln und Camping.",
+                  "text": "Provinzpark in Alberta an der Grenze zu Montana, bekannt für seine Prärielandschaft.",
                   "category": "natural",
                   "coords": [
                         -113.464958,
@@ -18120,7 +18120,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Police Outpost Provincial Park",
-                  "text": "Police Outpost Provincial Park egy tartományi park Galtban, horgászati és kempingezési lehetőségekkel.",
+                  "text": "Tartományi park Alberta államban, a Montana határon, préri tájjal.",
                   "category": "natural",
                   "coords": [
                         -113.464958,
@@ -18131,7 +18131,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Police Outpost Provincial Park",
-                  "text": "Police Outpost Provincial Park este un parc provincial în Galt, cunoscut pentru pescuit și camping.",
+                  "text": "Parcul provincial în Alberta, la granița cu Montana, cunoscut pentru peisajul de prerie.",
                   "category": "natural",
                   "coords": [
                         -113.464958,
@@ -18142,7 +18142,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Police Outpost Provincial Park",
-                  "text": "Police Outpost Provincial Park is a provincial park in Galt, known for fishing and camping.",
+                  "text": "Provincial park in Alberta on the Montana border, known for prairie landscape.",
                   "category": "natural",
                   "coords": [
                         -113.464958,
@@ -18202,7 +18202,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "The Britannia Mine Museum",
-                  "text": "Das Britannia Mine Museum ist ein Bergbaumuseum auf dem Gelände der ehemaligen Britannia-Mine in British Columbia.",
+                  "text": "Museum in einer ehemaligen Kupfermine in Britannia Beach, BC.",
                   "category": "museum",
                   "coords": [
                         -123.203988,
@@ -18256,7 +18256,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stop of Interest 59 - Britannia Mine",
-                  "text": "Ein historischer Anziehungspunkt am Britannia-Mine-Museum.",
+                  "text": "Historischer Halt am Britannia-Bergwerk, jetzt Teil des Mine Museums in Mine Museum.",
                   "category": "landmark",
                   "coords": [
                         -123.210198,
@@ -18492,7 +18492,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "The Britannia Mine Museum",
-                  "text": "A Britannia Mine Museum egy bányászati múzeum a hajdani Britannia-bánya területén Brit-Kolumbiában.",
+                  "text": "Múzeum egy egykori rézbányában, Britannia Beach, Brit Kolumbia.",
                   "category": "museum",
                   "coords": [
                         -123.203988,
@@ -18546,7 +18546,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stop of Interest 59 - Britannia Mine",
-                  "text": "Egy történelmi látnivaló a Britannia Bánya Múzeumnál.",
+                  "text": "Történelmi megálló a Britannia-bányánál, ma a Mine Museum része Mine Museumban.",
                   "category": "landmark",
                   "coords": [
                         -123.210198,
@@ -18782,7 +18782,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "The Britannia Mine Museum",
-                  "text": "Muzeul Minei Britannia este un muzeu minier pe terenul fostei mine Britannia din Columbia Britanică.",
+                  "text": "Muzeu într-o fostă mină de cupru în Britannia Beach, Columbia Britanică.",
                   "category": "museum",
                   "coords": [
                         -123.203988,
@@ -18836,7 +18836,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stop of Interest 59 - Britannia Mine",
-                  "text": "Un punct de interes istoric la Muzeul Minei Britannia.",
+                  "text": "Oprire istorică la mina Britannia, acum parte a Muzeului Mine din Mine Museum.",
                   "category": "landmark",
                   "coords": [
                         -123.210198,
@@ -19072,7 +19072,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "The Britannia Mine Museum",
-                  "text": "The Britannia Mine Museum is a mining museum on the site of the former Britannia Mine in British Columbia.",
+                  "text": "Museum in a former copper mine at Britannia Beach, British Columbia.",
                   "category": "museum",
                   "coords": [
                         -123.203988,
@@ -19126,7 +19126,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stop of Interest 59 - Britannia Mine",
-                  "text": "A historical point of interest at the Britannia Mine Museum.",
+                  "text": "Historic stop at the Britannia Mine, now part of the Mine Museum in Mine Museum.",
                   "category": "landmark",
                   "coords": [
                         -123.210198,
@@ -19420,7 +19420,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Indian Graves Provincial Recreation Area",
-                  "text": "Indian Graves Provincial Recreation Area ist ein Provinzerholungsgebiet in Bar U Ranch.",
+                  "text": "Geschütztes Naturgebiet mit indigenen Grabstätten in der Nähe von U Ranch.",
                   "category": "natural",
                   "coords": [
                         -114.36265,
@@ -19429,7 +19429,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Willow Creek Public Land Use Zone",
-                  "text": "Willow Creek Public Land Use Zone ist eine öffentliche Landnutzungszone im Bereich der Bar U Ranch.",
+                  "text": "Ein ausgewiesenes öffentliches Nutzungsgebiet entlang des Willow Creek in der Nähe von U Ranch.",
                   "category": "natural",
                   "coords": [
                         -114.369487,
@@ -19449,7 +19449,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Indian Graves Provincial Recreation Area",
-                  "text": "Indian Graves Provincial Recreation Area egy tartományi rekreációs terület a Bar U Ranchban.",
+                  "text": "Védett természeti terület őslakos temetkezési helyekkel az U Ranch közelében.",
                   "category": "natural",
                   "coords": [
                         -114.36265,
@@ -19458,7 +19458,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Willow Creek Public Land Use Zone",
-                  "text": "Willow Creek Public Land Use Zone egy közterület-használati övezet a Bar U Ranch területén.",
+                  "text": "Kijelölt közhasználatú övezet a Willow Creek mentén, az U Ranch közelében.",
                   "category": "natural",
                   "coords": [
                         -114.369487,
@@ -19478,7 +19478,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Indian Graves Provincial Recreation Area",
-                  "text": "Indian Graves Provincial Recreation Area este o zonă de recreere provincială în Bar U Ranch.",
+                  "text": "Arie naturală protejată conținând morminte indigene lângă U Ranch.",
                   "category": "natural",
                   "coords": [
                         -114.36265,
@@ -19487,7 +19487,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Willow Creek Public Land Use Zone",
-                  "text": "Willow Creek Public Land Use Zone este o zonă publică de utilizare a terenurilor în zona Bar U Ranch.",
+                  "text": "O zonă publică desemnată de-a lungul Willow Creek lângă U Ranch.",
                   "category": "natural",
                   "coords": [
                         -114.369487,
@@ -19507,7 +19507,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Indian Graves Provincial Recreation Area",
-                  "text": "Indian Graves Provincial Recreation Area is a provincial recreation area at Bar U Ranch.",
+                  "text": "A protected natural area containing Indigenous burial sites near U Ranch.",
                   "category": "natural",
                   "coords": [
                         -114.36265,
@@ -19516,7 +19516,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Willow Creek Public Land Use Zone",
-                  "text": "Willow Creek Public Land Use Zone is a public land use zone in the Bar U Ranch area.",
+                  "text": "A designated public land use zone along Willow Creek near U Ranch.",
                   "category": "natural",
                   "coords": [
                         -114.369487,
@@ -19603,7 +19603,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Finlayson",
-                  "text": "Ein beliebter Wanderberg im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Berg auf Vancouver Island mit Aussicht auf die Straße von Juan de Fuca.",
                   "category": "natural",
                   "coords": [
                         -123.538287,
@@ -19639,7 +19639,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Redeemer Lutheran Church",
-                  "text": "Eine lutherische Kirche im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Redeemer Lutheran Church in Lighthouse ist eine lutherische Kirche der Missouri-Synode.",
                   "category": "religious",
                   "coords": [
                         -123.512219,
@@ -19648,7 +19648,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fleming Bay",
-                  "text": "Eine Bucht im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Fleming Bay in Lighthouse ist eine Bucht an der Küste von British Columbia.",
                   "category": "landmark",
                   "coords": [
                         -123.412064,
@@ -19657,7 +19657,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Inspiration Cove",
-                  "text": "Eine Bucht im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Inspiration Cove in Lighthouse ist eine kleine Bucht mit steilen Klippen.",
                   "category": "landmark",
                   "coords": [
                         -123.415798,
@@ -19666,7 +19666,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Royal Roads",
-                  "text": "Eine Bucht im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Royal Roads in Lighthouse ist eine historische Straße entlang der Küste.",
                   "category": "landmark",
                   "coords": [
                         -123.452922,
@@ -19675,7 +19675,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount McDonald",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Mount McDonald in Lighthouse ist ein Berg mit einer Höhe von etwa 300 Metern.",
                   "category": "natural",
                   "coords": [
                         -123.568686,
@@ -19684,7 +19684,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Seymour Hill",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Seymour Hill in Lighthouse ist ein Hügel mit Blick auf die umliegende Landschaft.",
                   "category": "natural",
                   "coords": [
                         -123.463623,
@@ -19693,7 +19693,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mill Hill",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Mill Hill in Lighthouse ist ein Hügel, der nach einer ehemaligen Mühle benannt ist.",
                   "category": "natural",
                   "coords": [
                         -123.479912,
@@ -19702,7 +19702,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Knockan Hill",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Knockan Hill in Lighthouse ist ein felsiger Hügel in der Region.",
                   "category": "natural",
                   "coords": [
                         -123.417103,
@@ -19711,7 +19711,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Scafe Hill",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Scafe Hill in Lighthouse ist ein nach der Familie Scafe benannter Hügel.",
                   "category": "natural",
                   "coords": [
                         -123.487635,
@@ -19720,7 +19720,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Miniskirt",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Miniskirt in Lighthouse ist eine natürliche Landmarke mit einem ungewöhnlichen Namen.",
                   "category": "natural",
                   "coords": [
                         -123.525372,
@@ -19729,7 +19729,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolf Hill",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Wolf Hill in Lighthouse ist ein Hügel, der an Wölfe erinnert.",
                   "category": "natural",
                   "coords": [
                         -123.564676,
@@ -19738,7 +19738,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Wells",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Mount Wells in Lighthouse ist ein Berg mit einer Höhe von über 400 Metern.",
                   "category": "natural",
                   "coords": [
                         -123.556548,
@@ -19747,7 +19747,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Skirt Mountain",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Skirt Mountain in Lighthouse ist ein Berg mit einer ungewöhnlichen Form.",
                   "category": "natural",
                   "coords": [
                         -123.53172,
@@ -19756,7 +19756,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Triangular Hill",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Triangular Hill in Lighthouse ist ein dreieckig geformter Hügel.",
                   "category": "natural",
                   "coords": [
                         -123.511603,
@@ -19765,7 +19765,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin Mountain",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Metchosin Mountain in Lighthouse ist der höchste Punkt in der Metchosin-Region.",
                   "category": "natural",
                   "coords": [
                         -123.52927,
@@ -19774,7 +19774,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre Mountain",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Ein Berggipfel mit Panoramablick in der Nähe von Lighthouse.",
                   "category": "natural",
                   "coords": [
                         -123.547345,
@@ -19783,7 +19783,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Helmcken",
-                  "text": "Ein Berggipfel im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Ein Berggipfel im Gebiet von Lighthouse.",
                   "category": "natural",
                   "coords": [
                         -123.578371,
@@ -19792,7 +19792,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gamble Park",
-                  "text": "Ein Park im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Ein öffentlicher Park mit Spazierwegen und Grünflächen in Lighthouse.",
                   "category": "park",
                   "coords": [
                         -123.4762,
@@ -19801,7 +19801,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Wells Regional Park",
-                  "text": "Ein Regionalpark im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Ein Regionalpark mit Wanderwegen und Naturlandschaft in der Nähe von Lighthouse.",
                   "category": "park",
                   "coords": [
                         -123.552786,
@@ -19810,7 +19810,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langford Lake Park",
-                  "text": "Ein Park am Langford Lake im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Ein Seeuferpark mit Freizeiteinrichtungen am Langford Lake in Lighthouse.",
                   "category": "park",
                   "coords": [
                         -123.522654,
@@ -19819,7 +19819,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Coast Collective Art Centre",
-                  "text": "Eine Kunstgalerie im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Kunstgalerie und Museum, das Werke von Küstenkünstlern präsentiert, in Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.469235,
@@ -19828,7 +19828,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Studio Bauer",
-                  "text": "Eine Kunstgalerie im Gebiet des Fisgard-Leuchtturms.",
+                  "text": "Künstleratelier und Museum mit Werken der Familie Bauer in Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.531517,
@@ -19864,7 +19864,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin School Museum",
-                  "text": "Das Metchosin School Museum ist ein Museum in der Gegend des Fisgard-Leuchtturms.",
+                  "text": "Historisches Schulgebäude, das in ein Museum umgewandelt wurde, in Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.533443,
@@ -19873,7 +19873,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin Pioneer Museum",
-                  "text": "Das Metchosin Pioneer Museum ist ein Museum in der Gegend des Fisgard-Leuchtturms.",
+                  "text": "Museum mit Artefakten der frühen Pioniere der Metchosin-Gegend in Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.536146,
@@ -19882,7 +19882,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "HMS Warspite",
-                  "text": "Das HMS Warspite-Denkmal ist ein Monument in der Gegend des Fisgard-Leuchtturms.",
+                  "text": "Historische Gedenkstätte für die HMS Warspite, ein britisches Schlachtschiff, in Lighthouse.",
                   "category": "historical",
                   "coords": [
                         -123.423721,
@@ -19891,7 +19891,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Battery",
-                  "text": "Die Lower Battery ist eine Festung in der Gegend des Fisgard-Leuchtturms.",
+                  "text": "Die 1895 erbaute Lower Battery in Lighthouse ist eine Küstenbatterie.",
                   "category": "fortress",
                   "coords": [
                         -123.450361,
@@ -19900,7 +19900,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Belmont Battery",
-                  "text": "Die Belmont Battery ist eine Festung in der Gegend des Fisgard-Leuchtturms.",
+                  "text": "Die 1900 erbaute Belmont Battery in Lighthouse ist eine Küstenbatterie.",
                   "category": "fortress",
                   "coords": [
                         -123.451649,
@@ -19909,7 +19909,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lime Kiln",
-                  "text": "Der Lime Kiln ist eine Ruine in der Gegend des Fisgard-Leuchtturms.",
+                  "text": "Historischer Kalkofen zur Herstellung von Branntkalk in Lighthouse.",
                   "category": "historical",
                   "coords": [
                         -123.459358,
@@ -19947,7 +19947,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Finlayson",
-                  "text": "Egy népszerű túracsúcs a Fisgard Lighthouse környékén.",
+                  "text": "Hegy a Vancouver-szigeten, kilátással a Juan de Fuca-szorosra.",
                   "category": "natural",
                   "coords": [
                         -123.538287,
@@ -19983,7 +19983,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Redeemer Lutheran Church",
-                  "text": "Egy evangélikus templom a Fisgard Lighthouse környékén.",
+                  "text": "A Redeemer Lutheran Church egy lutheránus templom a Missouri-i zsinatban, Lighthouse városában.",
                   "category": "religious",
                   "coords": [
                         -123.512219,
@@ -19992,7 +19992,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fleming Bay",
-                  "text": "Egy öböl a Fisgard Lighthouse környékén.",
+                  "text": "A Fleming Bay egy öböl Brit Columbia partjainál, Lighthouse közelében.",
                   "category": "landmark",
                   "coords": [
                         -123.412064,
@@ -20001,7 +20001,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Inspiration Cove",
-                  "text": "Egy öböl a Fisgard Lighthouse környékén.",
+                  "text": "Az Inspiration Cove egy kis öböl meredek sziklákkal Lighthouse-ban.",
                   "category": "landmark",
                   "coords": [
                         -123.415798,
@@ -20010,7 +20010,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Royal Roads",
-                  "text": "Egy öböl a Fisgard Lighthouse környékén.",
+                  "text": "A Royal Roads egy történelmi út a tengerpart mentén Lighthouse-ban.",
                   "category": "landmark",
                   "coords": [
                         -123.452922,
@@ -20019,7 +20019,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount McDonald",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Mount McDonald egy körülbelül 300 méter magas hegy Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.568686,
@@ -20028,7 +20028,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Seymour Hill",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Seymour Hill egy domb, amely kilátást nyújt a környező tájra Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.463623,
@@ -20037,7 +20037,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mill Hill",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Mill Hill egy egykori malomról elnevezett domb Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.479912,
@@ -20046,7 +20046,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Knockan Hill",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Knockan Hill egy sziklás domb Lighthouse régiójában.",
                   "category": "natural",
                   "coords": [
                         -123.417103,
@@ -20055,7 +20055,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Scafe Hill",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Scafe Hill egy a Scafe családról elnevezett domb Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.487635,
@@ -20064,7 +20064,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Miniskirt",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Miniskirt egy szokatlan nevű természeti nevezetesség Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.525372,
@@ -20073,7 +20073,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolf Hill",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Wolf Hill egy domb, amely a farkasokról kapta a nevét Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.564676,
@@ -20082,7 +20082,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Wells",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Mount Wells egy több mint 400 méter magas hegy Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.556548,
@@ -20091,7 +20091,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Skirt Mountain",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Skirt Mountain egy szokatlan alakú hegy Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.53172,
@@ -20100,7 +20100,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Triangular Hill",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Triangular Hill egy háromszög alakú domb Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.511603,
@@ -20109,7 +20109,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin Mountain",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "A Metchosin Mountain a Metchosin régió legmagasabb pontja Lighthouse-ban.",
                   "category": "natural",
                   "coords": [
                         -123.52927,
@@ -20118,7 +20118,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre Mountain",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "Egy hegycsúcs panorámás kilátással Lighthouse közelében.",
                   "category": "natural",
                   "coords": [
                         -123.547345,
@@ -20127,7 +20127,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Helmcken",
-                  "text": "Egy hegycsúcs a Fisgard Lighthouse környékén.",
+                  "text": "Egy hegycsúcs a Lighthouse területén.",
                   "category": "natural",
                   "coords": [
                         -123.578371,
@@ -20136,7 +20136,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gamble Park",
-                  "text": "Egy park a Fisgard Lighthouse környékén.",
+                  "text": "Egy nyilvános park sétatúkkal és zöldterületekkel Lighthouse-ban.",
                   "category": "park",
                   "coords": [
                         -123.4762,
@@ -20145,7 +20145,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Wells Regional Park",
-                  "text": "Egy regionális park a Fisgard Lighthouse környékén.",
+                  "text": "Egy regionális park túraútvonalakkal és természeti látványosságokkal Lighthouse közelében.",
                   "category": "park",
                   "coords": [
                         -123.552786,
@@ -20154,7 +20154,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langford Lake Park",
-                  "text": "Egy park a Langford-tó mellett a Fisgard Lighthouse környékén.",
+                  "text": "Egy tóparti park szabadidős létesítményekkel a Langford-tónál Lighthouse-ban.",
                   "category": "park",
                   "coords": [
                         -123.522654,
@@ -20163,7 +20163,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Coast Collective Art Centre",
-                  "text": "Egy művészeti galéria a Fisgard Lighthouse környékén.",
+                  "text": "Művészeti galéria és múzeum, amely part menti művészek munkáit mutatja be Lighthouse-ban.",
                   "category": "museum",
                   "coords": [
                         -123.469235,
@@ -20172,7 +20172,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Studio Bauer",
-                  "text": "Egy művészeti galéria a Fisgard Lighthouse környékén.",
+                  "text": "Művészstúdió és múzeum a Bauer család alkotásaival Lighthouse-ban.",
                   "category": "museum",
                   "coords": [
                         -123.531517,
@@ -20208,7 +20208,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin School Museum",
-                  "text": "A Metchosin School Museum egy múzeum a Fisgard világítótorony környékén.",
+                  "text": "Történelmi iskolaépület, amelyet múzeummá alakítottak át Lighthouse-ban.",
                   "category": "museum",
                   "coords": [
                         -123.533443,
@@ -20217,7 +20217,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin Pioneer Museum",
-                  "text": "A Metchosin Pioneer Museum egy múzeum a Fisgard világítótorony környékén.",
+                  "text": "Múzeum, amely a Metchosin környék korai úttörőinek tárgyait őrzi Lighthouse-ban.",
                   "category": "museum",
                   "coords": [
                         -123.536146,
@@ -20226,7 +20226,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "HMS Warspite",
-                  "text": "A HMS Warspite emlékmű egy műemlék a Fisgard világítótorony környékén.",
+                  "text": "A HMS Warspite brit csatahajó emlékhelye Lighthouse-ban.",
                   "category": "historical",
                   "coords": [
                         -123.423721,
@@ -20235,7 +20235,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Battery",
-                  "text": "A Lower Battery egy erőd a Fisgard világítótorony környékén.",
+                  "text": "Az 1895-ben épült Lower Battery Lighthouse-ban egy parti üteg.",
                   "category": "fortress",
                   "coords": [
                         -123.450361,
@@ -20244,7 +20244,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Belmont Battery",
-                  "text": "A Belmont Battery egy erőd a Fisgard világítótorony környékén.",
+                  "text": "Az 1900-ban épült Belmont Battery Lighthouse-ban egy parti üteg.",
                   "category": "fortress",
                   "coords": [
                         -123.451649,
@@ -20253,7 +20253,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lime Kiln",
-                  "text": "A Lime Kiln egy rom a Fisgard világítótorony környékén.",
+                  "text": "Történelmi mészégető kemence az égetett mész előállításához Lighthouse-ban.",
                   "category": "historical",
                   "coords": [
                         -123.459358,
@@ -20291,7 +20291,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Finlayson",
-                  "text": "Un vârf popular pentru drumeții în zona Fisgard Lighthouse.",
+                  "text": "Munte pe Insula Vancouver, cu vedere spre Strâmtoarea Juan de Fuca.",
                   "category": "natural",
                   "coords": [
                         -123.538287,
@@ -20327,7 +20327,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Redeemer Lutheran Church",
-                  "text": "O biserică luterană în zona Fisgard Lighthouse.",
+                  "text": "Biserica Luterană Mântuitorul din Lighthouse este o biserică luterană a Sinodului Missouri.",
                   "category": "religious",
                   "coords": [
                         -123.512219,
@@ -20336,7 +20336,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fleming Bay",
-                  "text": "Un golf în zona Fisgard Lighthouse.",
+                  "text": "Fleming Bay din Lighthouse este un golf pe coasta Columbiai Britanice.",
                   "category": "landmark",
                   "coords": [
                         -123.412064,
@@ -20345,7 +20345,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Inspiration Cove",
-                  "text": "Un golf în zona Fisgard Lighthouse.",
+                  "text": "Inspiration Cove din Lighthouse este un mic golf cu stânci abrupte.",
                   "category": "landmark",
                   "coords": [
                         -123.415798,
@@ -20354,7 +20354,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Royal Roads",
-                  "text": "Un golf în zona Fisgard Lighthouse.",
+                  "text": "Royal Roads din Lighthouse este un drum istoric de-a lungul coastei.",
                   "category": "landmark",
                   "coords": [
                         -123.452922,
@@ -20363,7 +20363,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount McDonald",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Mount McDonald din Lighthouse este un munte cu o altitudine de aproximativ 300 de metri.",
                   "category": "natural",
                   "coords": [
                         -123.568686,
@@ -20372,7 +20372,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Seymour Hill",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Seymour Hill din Lighthouse este un deal cu vedere spre peisajul înconjurător.",
                   "category": "natural",
                   "coords": [
                         -123.463623,
@@ -20381,7 +20381,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mill Hill",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Mill Hill din Lighthouse este un deal numit după o moară veche.",
                   "category": "natural",
                   "coords": [
                         -123.479912,
@@ -20390,7 +20390,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Knockan Hill",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Knockan Hill din Lighthouse este un deal stâncos în regiune.",
                   "category": "natural",
                   "coords": [
                         -123.417103,
@@ -20399,7 +20399,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Scafe Hill",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Scafe Hill din Lighthouse este un deal numit după familia Scafe.",
                   "category": "natural",
                   "coords": [
                         -123.487635,
@@ -20408,7 +20408,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Miniskirt",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Miniskirt din Lighthouse este un reper natural cu un nume neobișnuit.",
                   "category": "natural",
                   "coords": [
                         -123.525372,
@@ -20417,7 +20417,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolf Hill",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Wolf Hill din Lighthouse este un deal numit după lupi.",
                   "category": "natural",
                   "coords": [
                         -123.564676,
@@ -20426,7 +20426,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Wells",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Mount Wells din Lighthouse este un munte cu o altitudine de peste 400 de metri.",
                   "category": "natural",
                   "coords": [
                         -123.556548,
@@ -20435,7 +20435,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Skirt Mountain",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Skirt Mountain din Lighthouse este un munte cu o formă neobișnuită.",
                   "category": "natural",
                   "coords": [
                         -123.53172,
@@ -20444,7 +20444,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Triangular Hill",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Triangular Hill din Lighthouse este un deal de formă triunghiulară.",
                   "category": "natural",
                   "coords": [
                         -123.511603,
@@ -20453,7 +20453,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin Mountain",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Metchosin Mountain din Lighthouse este cel mai înalt punct din regiunea Metchosin.",
                   "category": "natural",
                   "coords": [
                         -123.52927,
@@ -20462,7 +20462,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre Mountain",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Un vârf de munte cu vedere panoramică lângă Lighthouse.",
                   "category": "natural",
                   "coords": [
                         -123.547345,
@@ -20471,7 +20471,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Helmcken",
-                  "text": "Un vârf muntos în zona Fisgard Lighthouse.",
+                  "text": "Un vârf de munte în zona Lighthouse.",
                   "category": "natural",
                   "coords": [
                         -123.578371,
@@ -20480,7 +20480,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gamble Park",
-                  "text": "Un parc în zona Fisgard Lighthouse.",
+                  "text": "Un parc public cu alei pietonale și spații verzi în Lighthouse.",
                   "category": "park",
                   "coords": [
                         -123.4762,
@@ -20489,7 +20489,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Wells Regional Park",
-                  "text": "Un parc regional în zona Fisgard Lighthouse.",
+                  "text": "Un parc regional cu trasee de drumeție și peisaje naturale lângă Lighthouse.",
                   "category": "park",
                   "coords": [
                         -123.552786,
@@ -20498,7 +20498,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langford Lake Park",
-                  "text": "Un parc lângă Lacul Langford în zona Fisgard Lighthouse.",
+                  "text": "Un parc pe malul lacului cu facilități de agrement pe Lacul Langford în Lighthouse.",
                   "category": "park",
                   "coords": [
                         -123.522654,
@@ -20507,7 +20507,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Coast Collective Art Centre",
-                  "text": "O galerie de artă în zona Fisgard Lighthouse.",
+                  "text": "Galerie de artă și muzeu care prezintă lucrări ale artiștilor de coastă în Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.469235,
@@ -20516,7 +20516,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Studio Bauer",
-                  "text": "O galerie de artă în zona Fisgard Lighthouse.",
+                  "text": "Atelier de artist și muzeu cu lucrări ale familiei Bauer în Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.531517,
@@ -20552,7 +20552,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin School Museum",
-                  "text": "Muzeul Școlii Metchosin este un muzeu în zona Farului Fisgard.",
+                  "text": "Clădire școlară istorică transformată în muzeu în Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.533443,
@@ -20561,7 +20561,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin Pioneer Museum",
-                  "text": "Muzeul Pionierului Metchosin este un muzeu în zona Farului Fisgard.",
+                  "text": "Muzeu care păstrează artefacte ale primilor pionieri din zona Metchosin în Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.536146,
@@ -20570,7 +20570,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "HMS Warspite",
-                  "text": "Monumentul HMS Warspite este un monument în zona Farului Fisgard.",
+                  "text": "Loc memorial istoric pentru HMS Warspite, un cuirasat britanic, în Lighthouse.",
                   "category": "historical",
                   "coords": [
                         -123.423721,
@@ -20579,7 +20579,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Battery",
-                  "text": "Bateria Inferioară este o fortăreață în zona Farului Fisgard.",
+                  "text": "Bateria Inferioară din Lighthouse, construită în 1895, este o baterie de coastă.",
                   "category": "fortress",
                   "coords": [
                         -123.450361,
@@ -20588,7 +20588,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Belmont Battery",
-                  "text": "Bateria Belmont este o fortăreață în zona Farului Fisgard.",
+                  "text": "Bateria Belmont din Lighthouse, construită în 1900, este o baterie de coastă.",
                   "category": "fortress",
                   "coords": [
                         -123.451649,
@@ -20597,7 +20597,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lime Kiln",
-                  "text": "Cuptorul de Var (Lime Kiln) este o ruină în zona Farului Fisgard.",
+                  "text": "Cuptor istoric de var pentru producerea varului nestins în Lighthouse.",
                   "category": "historical",
                   "coords": [
                         -123.459358,
@@ -20635,7 +20635,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Finlayson",
-                  "text": "A popular hiking peak in the Fisgard Lighthouse area.",
+                  "text": "Mountain on Vancouver Island with views of the Strait of Juan de Fuca.",
                   "category": "natural",
                   "coords": [
                         -123.538287,
@@ -20671,7 +20671,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Redeemer Lutheran Church",
-                  "text": "A Lutheran church in the Fisgard Lighthouse area.",
+                  "text": "Redeemer Lutheran Church in Lighthouse is a Lutheran church of the Missouri Synod.",
                   "category": "religious",
                   "coords": [
                         -123.512219,
@@ -20680,7 +20680,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Fleming Bay",
-                  "text": "A bay in the Fisgard Lighthouse area.",
+                  "text": "Fleming Bay in Lighthouse is a bay on the coast of British Columbia.",
                   "category": "landmark",
                   "coords": [
                         -123.412064,
@@ -20689,7 +20689,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Inspiration Cove",
-                  "text": "A bay in the Fisgard Lighthouse area.",
+                  "text": "Inspiration Cove in Lighthouse is a small cove with steep cliffs.",
                   "category": "landmark",
                   "coords": [
                         -123.415798,
@@ -20698,7 +20698,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Royal Roads",
-                  "text": "A bay in the Fisgard Lighthouse area.",
+                  "text": "Royal Roads in Lighthouse is a historic road along the coast.",
                   "category": "landmark",
                   "coords": [
                         -123.452922,
@@ -20707,7 +20707,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount McDonald",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Mount McDonald in Lighthouse is a mountain with an elevation of about 300 meters.",
                   "category": "natural",
                   "coords": [
                         -123.568686,
@@ -20716,7 +20716,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Seymour Hill",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Seymour Hill in Lighthouse is a hill with views of the surrounding landscape.",
                   "category": "natural",
                   "coords": [
                         -123.463623,
@@ -20725,7 +20725,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mill Hill",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Mill Hill in Lighthouse is a hill named after a former mill.",
                   "category": "natural",
                   "coords": [
                         -123.479912,
@@ -20734,7 +20734,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Knockan Hill",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Knockan Hill in Lighthouse is a rocky hill in the region.",
                   "category": "natural",
                   "coords": [
                         -123.417103,
@@ -20743,7 +20743,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Scafe Hill",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Scafe Hill in Lighthouse is a hill named after the Scafe family.",
                   "category": "natural",
                   "coords": [
                         -123.487635,
@@ -20752,7 +20752,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Miniskirt",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Miniskirt in Lighthouse is a natural landmark with an unusual name.",
                   "category": "natural",
                   "coords": [
                         -123.525372,
@@ -20761,7 +20761,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Wolf Hill",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Wolf Hill in Lighthouse is a hill named after wolves.",
                   "category": "natural",
                   "coords": [
                         -123.564676,
@@ -20770,7 +20770,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Wells",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Mount Wells in Lighthouse is a mountain with an elevation of over 400 meters.",
                   "category": "natural",
                   "coords": [
                         -123.556548,
@@ -20779,7 +20779,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Skirt Mountain",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Skirt Mountain in Lighthouse is a mountain with an unusual shape.",
                   "category": "natural",
                   "coords": [
                         -123.53172,
@@ -20788,7 +20788,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Triangular Hill",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Triangular Hill in Lighthouse is a triangular-shaped hill.",
                   "category": "natural",
                   "coords": [
                         -123.511603,
@@ -20797,7 +20797,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin Mountain",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "Metchosin Mountain in Lighthouse is the highest point in the Metchosin region.",
                   "category": "natural",
                   "coords": [
                         -123.52927,
@@ -20806,7 +20806,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Centre Mountain",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "A mountain summit offering panoramic views near Lighthouse.",
                   "category": "natural",
                   "coords": [
                         -123.547345,
@@ -20815,7 +20815,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Helmcken",
-                  "text": "A mountain peak in the Fisgard Lighthouse area.",
+                  "text": "A mountain peak in the Lighthouse area.",
                   "category": "natural",
                   "coords": [
                         -123.578371,
@@ -20824,7 +20824,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gamble Park",
-                  "text": "A park in the Fisgard Lighthouse area.",
+                  "text": "A public park with walking paths and green spaces in Lighthouse.",
                   "category": "park",
                   "coords": [
                         -123.4762,
@@ -20833,7 +20833,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Wells Regional Park",
-                  "text": "A regional park in the Fisgard Lighthouse area.",
+                  "text": "A regional park offering hiking trails and natural scenery near Lighthouse.",
                   "category": "park",
                   "coords": [
                         -123.552786,
@@ -20842,7 +20842,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Langford Lake Park",
-                  "text": "A park by Langford Lake in the Fisgard Lighthouse area.",
+                  "text": "A lakefront park with recreational facilities on Langford Lake in Lighthouse.",
                   "category": "park",
                   "coords": [
                         -123.522654,
@@ -20851,7 +20851,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Coast Collective Art Centre",
-                  "text": "An art gallery in the Fisgard Lighthouse area.",
+                  "text": "An art gallery and museum showcasing coastal artists in Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.469235,
@@ -20860,7 +20860,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Studio Bauer",
-                  "text": "An art gallery in the Fisgard Lighthouse area.",
+                  "text": "Artist's studio and museum featuring the work of the Bauer family in Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.531517,
@@ -20896,7 +20896,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin School Museum",
-                  "text": "Metchosin School Museum is a museum in the Fisgard Lighthouse area.",
+                  "text": "A historic school building converted into a museum in Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.533443,
@@ -20905,7 +20905,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Metchosin Pioneer Museum",
-                  "text": "Metchosin Pioneer Museum is a museum in the Fisgard Lighthouse area.",
+                  "text": "Museum preserving artifacts from early pioneers of the Metchosin area in Lighthouse.",
                   "category": "museum",
                   "coords": [
                         -123.536146,
@@ -20914,7 +20914,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "HMS Warspite",
-                  "text": "HMS Warspite is a monument in the Fisgard Lighthouse area.",
+                  "text": "Historical marker commemorating the HMS Warspite, a British battleship, in Lighthouse.",
                   "category": "historical",
                   "coords": [
                         -123.423721,
@@ -20923,7 +20923,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lower Battery",
-                  "text": "Lower Battery is a fort in the Fisgard Lighthouse area.",
+                  "text": "Lower Battery, built in 1895 in Lighthouse, is a coastal fortress battery.",
                   "category": "fortress",
                   "coords": [
                         -123.450361,
@@ -20932,7 +20932,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Belmont Battery",
-                  "text": "Belmont Battery is a fort in the Fisgard Lighthouse area.",
+                  "text": "Belmont Battery, built in 1900 in Lighthouse, is a coastal fortress battery.",
                   "category": "fortress",
                   "coords": [
                         -123.451649,
@@ -20941,7 +20941,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Lime Kiln",
-                  "text": "Lime Kiln is a ruins in the Fisgard Lighthouse area.",
+                  "text": "Historic lime kiln used for producing quicklime in Lighthouse.",
                   "category": "historical",
                   "coords": [
                         -123.459358,
@@ -21001,7 +21001,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Gulf of Georgia Cannery National Historic Site",
-                  "text": "Gulf of Georgia Cannery National Historic Site ist ein Museum in gulf-of-georgia-cannery-history-v2. Es ist eine historische Lachskonservenfabrik.",
+                  "text": "Ehemalige Fischkonservenfabrik in Steveston (Richmond, BC), heute National Historic Site.",
                   "category": "museum",
                   "coords": [
                         -123.186943,
@@ -21010,7 +21010,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Westham Island Bridge",
-                  "text": "Westham Island Bridge ist eine Brücke in gulf-of-georgia-cannery-history-v2. Sie verbindet Westham Island mit dem Festland.",
+                  "text": "Eröffnet am 29. März 1910, überquert diese Drehbrücke den Fraser River bei Westham Island nahe Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.130231,
@@ -21037,7 +21037,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deas Island Regional Park",
-                  "text": "Deas Island Regional Park ist ein Park in gulf-of-georgia-cannery-history-v2. Es ist ein regionaler Park auf einer Insel im Fraser River.",
+                  "text": "Regionalpark auf einer Insel im Fraser River, bekannt für seinen alten Baumbestand.",
                   "category": "park",
                   "coords": [
                         -123.066376,
@@ -21046,7 +21046,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Richmond Art Gallery",
-                  "text": "Richmond Art Gallery ist eine Galerie in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Eine Kunstgalerie mit zeitgenössischen Werken im Gebiet Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.140711,
@@ -21055,7 +21055,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Britannia Shipyards National Historic Site",
-                  "text": "Britannia Shipyards National Historic Site ist ein Museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Ein historischer Schiffbauplatz am Flussufer, heute Museum, im Gebiet Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.169143,
@@ -21064,7 +21064,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Railway Museum",
-                  "text": "Steveston Railway Museum ist ein Museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Ein Eisenbahnmuseum mit historischen Zügen im Steveston-Gebiet von Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.180635,
@@ -21073,7 +21073,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Museum",
-                  "text": "Steveston Museum ist ein Museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Ein Heimatmuseum in einem denkmalgeschützten Gebäude in Steveston, Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.182962,
@@ -21082,7 +21082,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Genesis Theater",
-                  "text": "Genesis Theater ist ein Theater in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Ein Theater für darstellende Kunst mit Live-Aufführungen in Of Georgia Cannery.",
                   "category": "cultural",
                   "coords": [
                         -123.084831,
@@ -21091,7 +21091,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gardens Agricultural Park",
-                  "text": "Gardens Agricultural Park ist ein Park in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Ein Agrarpark mit Gemeinschaftsgärten und landwirtschaftlichen Ausstellungen in Of Georgia Cannery.",
                   "category": "park",
                   "coords": [
                         -123.088882,
@@ -21100,7 +21100,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Michael Abraham Studio Gallery",
-                  "text": "Michael Abraham Studio Gallery ist eine Galerie in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Kunstgalerie und Atelier von Michael Abraham in der Nähe der historischen Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.084143,
@@ -21109,7 +21109,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bird Museum",
-                  "text": "Bird Museum ist ein Museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Museum, das Vogelpräparaten und Ornithologie gewidmet ist, in der Nähe der Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.178432,
@@ -21118,7 +21118,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Inverholme Schoolhouse",
-                  "text": "Inverholme Schoolhouse ist ein Museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Das Inverholme Schoolhouse in Of Georgia Cannery ist ein Schulhausmuseum von 1909.",
                   "category": "museum",
                   "coords": [
                         -123.056742,
@@ -21127,7 +21127,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Cenotaph",
-                  "text": "Ladner Cenotaph ist ein Denkmal in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Der 1921 enthüllte Ladner Cenotaph in Of Georgia Cannery ist ein Kriegerdenkmal.",
                   "category": "historical",
                   "coords": [
                         -123.085083,
@@ -21136,7 +21136,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Fishermen's Memorial",
-                  "text": "Steveston Fishermen's Memorial ist ein Denkmal in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Denkmal für auf See verlorene Fischer in Steveston, nahe der Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.19458,
@@ -21145,7 +21145,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Britannia Shipyard Property",
-                  "text": "The Britannia Shipyard Property ist ein Denkmal in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Historisches Werftgelände der Britannia Shipyard nahe der Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.171147,
@@ -21154,7 +21154,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pioneer Japanese Fishermen",
-                  "text": "Pioneer Japanese Fishermen ist ein Denkmal in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Historische Gedenktafel für die frühen japanischen Fischer in Steveston nahe der Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.1727,
@@ -21163,7 +21163,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Memorial Clock",
-                  "text": "Ladner Memorial Clock ist ein Denkmal in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Historische Gedenkuhr in Ladner, nahe der Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.085742,
@@ -21172,7 +21172,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kirkland House",
-                  "text": "Kirkland House ist eine Attraktion in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Historisches Kirkland House, ein markantes Wohnhaus nahe der Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.078609,
@@ -21181,7 +21181,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vancouver Whale Watch",
-                  "text": "Vancouver Whale Watch ist eine Attraktion in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Startpunkt für Walbeobachtungstouren nahe der Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.18401,
@@ -21190,7 +21190,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Seabreeze Adventures",
-                  "text": "Steveston Seabreeze Adventures ist eine Attraktion in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Abenteuerreiseveranstalter mit Bootsausflügen ab Steveston nahe der Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.181229,
@@ -21199,7 +21199,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finn Slough (Tidal Community)",
-                  "text": "Finn Slough (Tidal Community) ist eine Attraktion in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Eine einzigartige Gezeitensiedlung mit schwimmenden Häusern im Finn Slough nahe der Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.11424,
@@ -21208,7 +21208,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Richmond Country Farms",
-                  "text": "Richmond Country Farms ist eine Attraktion in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Arbeitsbauernhof mit saisonalen Produkten und Veranstaltungen in Richmond nahe der Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.083228,
@@ -21217,7 +21217,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sand Heads Lighthouse",
-                  "text": "Sand Heads Lighthouse ist ein Leuchtturm in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Aktiver Leuchtturm an der Mündung des Fraser River nahe der Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.303391,
@@ -21226,7 +21226,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Harbour Point Viewing Stand",
-                  "text": "Ladner Harbour Point Viewing Stand ist ein Aussichtspunkt in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Aussichtsplattform mit Blick auf den Ladner Harbour nahe der Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.094206,
@@ -21235,7 +21235,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chung Chuck Lookout",
-                  "text": "Chung Chuck Lookout ist ein Aussichtspunkt in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Aussichtspunkt benannt nach Chung Chuck mit Blick auf das Fraser River Delta nahe der Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.094926,
@@ -21244,7 +21244,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "No 2 Road Pier",
-                  "text": "No 2 Road Pier ist ein Aussichtspunkt in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Öffentlicher Pier, der am No. 2 Road in den Fraser River ragt, nahe der Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.158371,
@@ -21253,7 +21253,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Viewing Platform",
-                  "text": "Viewing Platform ist ein Aussichtspunkt in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Einfache Aussichtsplattform über den Marschlandschaften nahe der Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.182839,
@@ -21262,7 +21262,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Roberts Bank Wildlife Management Area",
-                  "text": "Roberts Bank Wildlife Management Area ist ein Naturschutzgebiet in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Geschütztes Wildtierhabitat am Roberts Bank, wichtig für Zugvögel, nahe der Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.221959,
@@ -21271,7 +21271,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "South Arm Marshes Wildlife Management Area",
-                  "text": "Ein geschütztes Marschgebiet in der Region Gulf of Georgia.",
+                  "text": "Marschwildschutzgebiet entlang des South Arm des Fraser River nahe der Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.115966,
@@ -21282,7 +21282,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Gulf of Georgia Cannery National Historic Site",
-                  "text": "Gulf of Georgia Cannery National Historic Site egy múzeum gulf-of-georgia-cannery-history-v2-ben. Ez egy történelmi lazackonzervgyár.",
+                  "text": "Egykori halkonzervgyár Stevestonban (Richmond, BC), ma nemzeti történelmi hely.",
                   "category": "museum",
                   "coords": [
                         -123.186943,
@@ -21291,7 +21291,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Westham Island Bridge",
-                  "text": "Westham Island Bridge egy híd gulf-of-georgia-cannery-history-v2-ben. Összeköti Westham-szigetet a szárazfölddel.",
+                  "text": "1910. március 29-én nyitották meg, ez a forgóhíd a Fraser folyón ível át Westham Island-nél a Cannery közelében.",
                   "category": "landmark",
                   "coords": [
                         -123.130231,
@@ -21318,7 +21318,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deas Island Regional Park",
-                  "text": "Deas Island Regional Park egy park gulf-of-georgia-cannery-history-v2-ben. Ez egy regionális park a Fraser folyó egy szigetén.",
+                  "text": "Regionális park egy szigeten a Fraser folyón, öreg fáival ismert.",
                   "category": "park",
                   "coords": [
                         -123.066376,
@@ -21327,7 +21327,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Richmond Art Gallery",
-                  "text": "Richmond Art Gallery egy galéria gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Egy művészeti galéria kortárs alkotásokkal az Of Georgia Cannery területén.",
                   "category": "museum",
                   "coords": [
                         -123.140711,
@@ -21336,7 +21336,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Britannia Shipyards National Historic Site",
-                  "text": "Britannia Shipyards National Historic Site egy múzeum gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Történelmi hajógyár a folyóparton, ma múzeum, az Of Georgia Cannery területén.",
                   "category": "museum",
                   "coords": [
                         -123.169143,
@@ -21345,7 +21345,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Railway Museum",
-                  "text": "Steveston Railway Museum egy múzeum gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Egy vasúti múzeum régi vonatokkal a Steveston területén, Of Georgia Cannery-ben.",
                   "category": "museum",
                   "coords": [
                         -123.180635,
@@ -21354,7 +21354,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Museum",
-                  "text": "Steveston Museum egy múzeum gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Egy helytörténeti múzeum egy műemlék épületben Stevestonban, Of Georgia Cannery-ben.",
                   "category": "museum",
                   "coords": [
                         -123.182962,
@@ -21363,7 +21363,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Genesis Theater",
-                  "text": "Genesis Theater egy színház gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Egy előadó-művészeti színház élő előadásokkal Of Georgia Cannery-ben.",
                   "category": "cultural",
                   "coords": [
                         -123.084831,
@@ -21372,7 +21372,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gardens Agricultural Park",
-                  "text": "Gardens Agricultural Park egy park gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Egy mezőgazdasági park közösségi kertekkel és mezőgazdasági kiállításokkal Of Georgia Cannery-ben.",
                   "category": "park",
                   "coords": [
                         -123.088882,
@@ -21381,7 +21381,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Michael Abraham Studio Gallery",
-                  "text": "Michael Abraham Studio Gallery egy galéria gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Michael Abraham művészeti galériája és stúdiója a történelmi Georgia Cannery közelében.",
                   "category": "museum",
                   "coords": [
                         -123.084143,
@@ -21390,7 +21390,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bird Museum",
-                  "text": "Bird Museum egy múzeum gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Madárpreparátumoknak és ornitológiának szentelt múzeum a Georgia Cannery közelében.",
                   "category": "museum",
                   "coords": [
                         -123.178432,
@@ -21399,7 +21399,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Inverholme Schoolhouse",
-                  "text": "Inverholme Schoolhouse egy múzeum gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Az Inverholme Iskolaház Of Georgia Cannery-ben egy 1909-ben épült iskolamúzeum.",
                   "category": "museum",
                   "coords": [
                         -123.056742,
@@ -21408,7 +21408,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Cenotaph",
-                  "text": "Ladner Cenotaph egy emlékmű gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Az 1921-ben avatott Ladner Cenotaph Of Georgia Cannery-ben egy háborús emlékmű.",
                   "category": "historical",
                   "coords": [
                         -123.085083,
@@ -21417,7 +21417,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Fishermen's Memorial",
-                  "text": "Steveston Fishermen's Memorial egy emlékmű gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Emlékmű a tengeren eltűnt halászok tiszteletére Stevestonban, a Georgia Cannery közelében.",
                   "category": "historical",
                   "coords": [
                         -123.19458,
@@ -21426,7 +21426,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Britannia Shipyard Property",
-                  "text": "The Britannia Shipyard Property egy emlékmű gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "A Britannia hajógyár történelmi területe a Georgia Cannery közelében.",
                   "category": "historical",
                   "coords": [
                         -123.171147,
@@ -21435,7 +21435,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pioneer Japanese Fishermen",
-                  "text": "Pioneer Japanese Fishermen egy emlékmű gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Történelmi emléktábla a korai japán halászok tiszteletére Stevestonban a Georgia Cannery közelében.",
                   "category": "historical",
                   "coords": [
                         -123.1727,
@@ -21444,7 +21444,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Memorial Clock",
-                  "text": "Ladner Memorial Clock egy emlékmű gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Történelmi emlékóra Ladnerben, a Georgia Cannery közelében.",
                   "category": "historical",
                   "coords": [
                         -123.085742,
@@ -21453,7 +21453,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kirkland House",
-                  "text": "Kirkland House egy látványosság gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Történelmi Kirkland-ház, egy nevezetes lakóépület a Georgia Cannery közelében.",
                   "category": "landmark",
                   "coords": [
                         -123.078609,
@@ -21462,7 +21462,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vancouver Whale Watch",
-                  "text": "Vancouver Whale Watch egy látványosság gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Bálnanéző túrák indulási pontja a Georgia Cannery közelében.",
                   "category": "landmark",
                   "coords": [
                         -123.18401,
@@ -21471,7 +21471,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Seabreeze Adventures",
-                  "text": "Steveston Seabreeze Adventures egy látványosság gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Kalandtúra-szervező hajóutakkal Stevestonból a Georgia Cannery közelében.",
                   "category": "landmark",
                   "coords": [
                         -123.181229,
@@ -21480,7 +21480,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finn Slough (Tidal Community)",
-                  "text": "Finn Slough (Tidal Community) egy látványosság gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Egy egyedi árapályos közösség úszó házakkal a Finn Slough-ban a Georgia Cannery közelében.",
                   "category": "landmark",
                   "coords": [
                         -123.11424,
@@ -21489,7 +21489,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Richmond Country Farms",
-                  "text": "Richmond Country Farms egy látványosság gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Működő farm szezonális termékekkel és rendezvényekkel Richmondban, a Georgia Cannery közelében.",
                   "category": "landmark",
                   "coords": [
                         -123.083228,
@@ -21498,7 +21498,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sand Heads Lighthouse",
-                  "text": "Sand Heads Lighthouse egy világítótorony gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Működő világítótorony a Fraser folyó torkolatánál, a Georgia Cannery közelében.",
                   "category": "landmark",
                   "coords": [
                         -123.303391,
@@ -21507,7 +21507,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Harbour Point Viewing Stand",
-                  "text": "Ladner Harbour Point Viewing Stand egy kilátópont gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Kilátó platform Ladner kikötőjére a Georgia Cannery közelében.",
                   "category": "natural",
                   "coords": [
                         -123.094206,
@@ -21516,7 +21516,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chung Chuck Lookout",
-                  "text": "Chung Chuck Lookout egy kilátópont gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Chung Chuckról elnevezett kilátó a Fraser folyó deltájára a Georgia Cannery közelében.",
                   "category": "natural",
                   "coords": [
                         -123.094926,
@@ -21525,7 +21525,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "No 2 Road Pier",
-                  "text": "No 2 Road Pier egy kilátópont gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Közösségi móló, amely a No. 2 Roadnál nyúlik be a Fraser folyóba, a Georgia Cannery közelében.",
                   "category": "natural",
                   "coords": [
                         -123.158371,
@@ -21534,7 +21534,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Viewing Platform",
-                  "text": "Viewing Platform egy kilátópont gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Egyszerű kilátó a mocsaras területek fölé a Georgia Cannery közelében.",
                   "category": "natural",
                   "coords": [
                         -123.182839,
@@ -21543,7 +21543,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Roberts Bank Wildlife Management Area",
-                  "text": "Roberts Bank Wildlife Management Area egy természetvédelmi terület gulf-of-georgia-cannery-history-v2-ben.",
+                  "text": "Védett vadélőhely a Roberts Banknál, fontos a vonuló madarak számára, a Georgia Cannery közelében.",
                   "category": "natural",
                   "coords": [
                         -123.221959,
@@ -21552,7 +21552,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "South Arm Marshes Wildlife Management Area",
-                  "text": "Egy védett mocsárterület a Gulf of Georgia régióban.",
+                  "text": "Mocsári vadvédelmi terület a Fraser folyó South Arm ága mentén, a Georgia Cannery közelében.",
                   "category": "natural",
                   "coords": [
                         -123.115966,
@@ -21563,7 +21563,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Gulf of Georgia Cannery National Historic Site",
-                  "text": "Gulf of Georgia Cannery National Historic Site este un muzeu în gulf-of-georgia-cannery-history-v2. Este o fabrică istorică de conserve de somon.",
+                  "text": "Fostă fabrică de conserve de pește în Steveston (Richmond, BC), acum sit istoric național.",
                   "category": "museum",
                   "coords": [
                         -123.186943,
@@ -21572,7 +21572,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Westham Island Bridge",
-                  "text": "Westham Island Bridge este un pod în gulf-of-georgia-cannery-history-v2. Leagă insula Westham de continent.",
+                  "text": "Deschis pe 29 martie 1910, acest pod turnant traversează Râul Fraser la Westham Island lângă Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.130231,
@@ -21599,7 +21599,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deas Island Regional Park",
-                  "text": "Deas Island Regional Park este un parc în gulf-of-georgia-cannery-history-v2. Este un parc regional pe o insulă din râul Fraser.",
+                  "text": "Parcul regional pe o insulă în râul Fraser, cunoscut pentru copacii bătrâni.",
                   "category": "park",
                   "coords": [
                         -123.066376,
@@ -21608,7 +21608,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Richmond Art Gallery",
-                  "text": "Richmond Art Gallery este o galerie în gulf-of-georgia-cannery-history-v2.",
+                  "text": "O galerie de artă cu lucrări contemporane în zona Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.140711,
@@ -21617,7 +21617,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Britannia Shipyards National Historic Site",
-                  "text": "Britannia Shipyards National Historic Site este un muzeu în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Un șantier naval istoric pe malul râului, acum muzeu, în zona Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.169143,
@@ -21626,7 +21626,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Railway Museum",
-                  "text": "Steveston Railway Museum este un muzeu în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Un muzeu feroviar cu trenuri de epocă în zona Steveston din Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.180635,
@@ -21635,7 +21635,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Museum",
-                  "text": "Steveston Museum este un muzeu în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Un muzeu de istorie locală într-o clădire istorică în Steveston, Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.182962,
@@ -21644,7 +21644,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Genesis Theater",
-                  "text": "Genesis Theater este un teatru în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Un teatru de arte spectacolului cu spectacole live în Of Georgia Cannery.",
                   "category": "cultural",
                   "coords": [
                         -123.084831,
@@ -21653,7 +21653,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gardens Agricultural Park",
-                  "text": "Gardens Agricultural Park este un parc în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Un parc agricol cu grădini comunitare și expoziții agricole în Of Georgia Cannery.",
                   "category": "park",
                   "coords": [
                         -123.088882,
@@ -21662,7 +21662,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Michael Abraham Studio Gallery",
-                  "text": "Michael Abraham Studio Gallery este o galerie în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Galerie de artă și studio a lui Michael Abraham lângă conserva istorică Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.084143,
@@ -21671,7 +21671,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bird Museum",
-                  "text": "Bird Museum este un muzeu în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Muzeu dedicat specimenelor de păsări și ornitologie lângă Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.178432,
@@ -21680,7 +21680,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Inverholme Schoolhouse",
-                  "text": "Inverholme Schoolhouse este un muzeu în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Școala Inverholme din Of Georgia Cannery este un muzeu școlar construit în 1909.",
                   "category": "museum",
                   "coords": [
                         -123.056742,
@@ -21689,7 +21689,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Cenotaph",
-                  "text": "Ladner Cenotaph este un monument în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Cenotaful Ladner din Of Georgia Cannery, dezvelit în 1921, este un monument al războiului.",
                   "category": "historical",
                   "coords": [
                         -123.085083,
@@ -21698,7 +21698,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Fishermen's Memorial",
-                  "text": "Steveston Fishermen's Memorial este un monument în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Memorial dedicat pescarilor pierduți pe mare în Steveston, lângă Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.19458,
@@ -21707,7 +21707,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Britannia Shipyard Property",
-                  "text": "The Britannia Shipyard Property este un monument în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Proprietate istorică a șantierului naval Britannia lângă Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.171147,
@@ -21716,7 +21716,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pioneer Japanese Fishermen",
-                  "text": "Pioneer Japanese Fishermen este un monument în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Plașă istorică comemorativă pentru pescarii japonezi timpurii din Steveston lângă Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.1727,
@@ -21725,7 +21725,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Memorial Clock",
-                  "text": "Ladner Memorial Clock este un monument în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Ceas memorial istoric în Ladner, lângă Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.085742,
@@ -21734,7 +21734,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kirkland House",
-                  "text": "Kirkland House este o atracție în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Casa istorică Kirkland, un reper rezidențial lângă Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.078609,
@@ -21743,7 +21743,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vancouver Whale Watch",
-                  "text": "Vancouver Whale Watch este o atracție în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Punct de plecare pentru excursii de observare a balenelor lângă Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.18401,
@@ -21752,7 +21752,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Seabreeze Adventures",
-                  "text": "Steveston Seabreeze Adventures este o atracție în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Operator de tururi de aventură cu excursii cu barca din Steveston lângă Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.181229,
@@ -21761,7 +21761,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finn Slough (Tidal Community)",
-                  "text": "Finn Slough (Tidal Community) este o atracție în gulf-of-georgia-cannery-history-v2.",
+                  "text": "O comunitate tidală unică cu case plutitoare în Finn Slough lângă Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.11424,
@@ -21770,7 +21770,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Richmond Country Farms",
-                  "text": "Richmond Country Farms este o atracție în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Fermă funcțională cu produse sezoniere și evenimente în Richmond lângă Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.083228,
@@ -21779,7 +21779,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sand Heads Lighthouse",
-                  "text": "Sand Heads Lighthouse este un far în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Far activ la gura râului Fraser lângă Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.303391,
@@ -21788,7 +21788,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Harbour Point Viewing Stand",
-                  "text": "Ladner Harbour Point Viewing Stand este un punct de vedere în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Platformă de observare cu vedere spre Ladner Harbour lângă Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.094206,
@@ -21797,7 +21797,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chung Chuck Lookout",
-                  "text": "Chung Chuck Lookout este un punct de vedere în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Punct de belvedere numit după Chung Chuck, cu vedere asupra deltei râului Fraser lângă Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.094926,
@@ -21806,7 +21806,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "No 2 Road Pier",
-                  "text": "No 2 Road Pier este un punct de vedere în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Debarcader public care se extinde în râul Fraser la No. 2 Road lângă Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.158371,
@@ -21815,7 +21815,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Viewing Platform",
-                  "text": "Viewing Platform este un punct de vedere în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Platformă simplă de observare deasupra mlaștinilor lângă Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.182839,
@@ -21824,7 +21824,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Roberts Bank Wildlife Management Area",
-                  "text": "Roberts Bank Wildlife Management Area este o rezervație naturală în gulf-of-georgia-cannery-history-v2.",
+                  "text": "Habitat protejat pentru animale sălbatice la Roberts Bank, important pentru păsări migratoare lângă Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.221959,
@@ -21833,7 +21833,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "South Arm Marshes Wildlife Management Area",
-                  "text": "O arie protejată de mlaștină în regiunea Golfului Georgia.",
+                  "text": "Zonă de management al vieții sălbatice a mlaștinilor de-a lungul brațului South Arm al râului Fraser lângă Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.115966,
@@ -21844,7 +21844,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Gulf of Georgia Cannery National Historic Site",
-                  "text": "Gulf of Georgia Cannery National Historic Site is a museum in gulf-of-georgia-cannery-history-v2. It is a historic salmon cannery.",
+                  "text": "Former fish cannery in Steveston (Richmond, BC), now a National Historic Site.",
                   "category": "museum",
                   "coords": [
                         -123.186943,
@@ -21853,7 +21853,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Westham Island Bridge",
-                  "text": "Westham Island Bridge is a bridge in gulf-of-georgia-cannery-history-v2. It connects Westham Island to the mainland.",
+                  "text": "Opened March 29, 1910, this swing bridge crosses the Fraser River at Westham Island near Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.130231,
@@ -21880,7 +21880,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Deas Island Regional Park",
-                  "text": "Deas Island Regional Park is a park in gulf-of-georgia-cannery-history-v2. It is a regional park on an island in the Fraser River.",
+                  "text": "Regional park on an island in the Fraser River, known for its old-growth trees.",
                   "category": "park",
                   "coords": [
                         -123.066376,
@@ -21889,7 +21889,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Richmond Art Gallery",
-                  "text": "Richmond Art Gallery is a gallery in gulf-of-georgia-cannery-history-v2.",
+                  "text": "An art gallery showcasing contemporary works in the Of Georgia Cannery area.",
                   "category": "museum",
                   "coords": [
                         -123.140711,
@@ -21898,7 +21898,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Britannia Shipyards National Historic Site",
-                  "text": "Britannia Shipyards National Historic Site is a museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "A historic shipyard site on the riverbank, now a museum, in the Of Georgia Cannery area.",
                   "category": "museum",
                   "coords": [
                         -123.169143,
@@ -21907,7 +21907,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Railway Museum",
-                  "text": "Steveston Railway Museum is a museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "A railway museum featuring vintage trains in the Steveston area of Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.180635,
@@ -21916,7 +21916,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Museum",
-                  "text": "Steveston Museum is a museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "A local history museum in a heritage building in Steveston, Of Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.182962,
@@ -21925,7 +21925,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Genesis Theater",
-                  "text": "Genesis Theater is a theatre in gulf-of-georgia-cannery-history-v2.",
+                  "text": "A performing arts theatre hosting live shows in Of Georgia Cannery.",
                   "category": "cultural",
                   "coords": [
                         -123.084831,
@@ -21934,7 +21934,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Gardens Agricultural Park",
-                  "text": "Gardens Agricultural Park is a park in gulf-of-georgia-cannery-history-v2.",
+                  "text": "An agricultural park with community gardens and farm exhibits in Of Georgia Cannery.",
                   "category": "park",
                   "coords": [
                         -123.088882,
@@ -21943,7 +21943,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Michael Abraham Studio Gallery",
-                  "text": "Michael Abraham Studio Gallery is a gallery in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Art gallery and studio of Michael Abraham near the historic Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.084143,
@@ -21952,7 +21952,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Bird Museum",
-                  "text": "Bird Museum is a museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Museum dedicated to bird specimens and ornithology near the Georgia Cannery.",
                   "category": "museum",
                   "coords": [
                         -123.178432,
@@ -21961,7 +21961,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Inverholme Schoolhouse",
-                  "text": "Inverholme Schoolhouse is a museum in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Inverholme Schoolhouse in Of Georgia Cannery is a schoolhouse museum built in 1909.",
                   "category": "museum",
                   "coords": [
                         -123.056742,
@@ -21970,7 +21970,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Cenotaph",
-                  "text": "Ladner Cenotaph is a monument in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Ladner Cenotaph, unveiled in 1921 in Of Georgia Cannery, is a war memorial.",
                   "category": "historical",
                   "coords": [
                         -123.085083,
@@ -21979,7 +21979,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Fishermen's Memorial",
-                  "text": "Steveston Fishermen's Memorial is a monument in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Memorial honoring fishermen lost at sea in Steveston, near the Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.19458,
@@ -21988,7 +21988,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Britannia Shipyard Property",
-                  "text": "The Britannia Shipyard Property is a monument in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Historic shipyard property associated with the Britannia Shipyard near the Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.171147,
@@ -21997,7 +21997,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Pioneer Japanese Fishermen",
-                  "text": "Pioneer Japanese Fishermen is a monument in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Historical marker commemorating early Japanese fishermen in Steveston near the Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.1727,
@@ -22006,7 +22006,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Memorial Clock",
-                  "text": "Ladner Memorial Clock is a monument in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Historic clock memorial in Ladner, near the Georgia Cannery.",
                   "category": "historical",
                   "coords": [
                         -123.085742,
@@ -22015,7 +22015,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kirkland House",
-                  "text": "Kirkland House is an attraction in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Historic Kirkland House, a landmark residence near the Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.078609,
@@ -22024,7 +22024,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Vancouver Whale Watch",
-                  "text": "Vancouver Whale Watch is an attraction in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Whale watching tour departure point near the Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.18401,
@@ -22033,7 +22033,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Steveston Seabreeze Adventures",
-                  "text": "Steveston Seabreeze Adventures is an attraction in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Adventure tour operator offering boat trips from Steveston near the Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.181229,
@@ -22042,7 +22042,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Finn Slough (Tidal Community)",
-                  "text": "Finn Slough (Tidal Community) is an attraction in gulf-of-georgia-cannery-history-v2.",
+                  "text": "A unique tidal community of floating homes in Finn Slough near the Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.11424,
@@ -22051,7 +22051,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Richmond Country Farms",
-                  "text": "Richmond Country Farms is an attraction in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Working farm offering seasonal produce and events in Richmond near the Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.083228,
@@ -22060,7 +22060,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sand Heads Lighthouse",
-                  "text": "Sand Heads Lighthouse is a lighthouse in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Active lighthouse at the mouth of the Fraser River near the Georgia Cannery.",
                   "category": "landmark",
                   "coords": [
                         -123.303391,
@@ -22069,7 +22069,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Ladner Harbour Point Viewing Stand",
-                  "text": "Ladner Harbour Point Viewing Stand is a viewpoint in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Scenic viewing stand overlooking Ladner Harbour near the Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.094206,
@@ -22078,7 +22078,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Chung Chuck Lookout",
-                  "text": "Chung Chuck Lookout is a viewpoint in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Lookout point named after Chung Chuck, offering views of the Fraser River delta near the Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.094926,
@@ -22087,7 +22087,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "No 2 Road Pier",
-                  "text": "No 2 Road Pier is a viewpoint in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Public pier extending into the Fraser River at No. 2 Road near the Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.158371,
@@ -22096,7 +22096,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Viewing Platform",
-                  "text": "Viewing Platform is a viewpoint in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Simple viewing platform overlooking the marshlands near the Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.182839,
@@ -22105,7 +22105,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Roberts Bank Wildlife Management Area",
-                  "text": "Roberts Bank Wildlife Management Area is a nature reserve in gulf-of-georgia-cannery-history-v2.",
+                  "text": "Protected wildlife habitat at Roberts Bank, important for migratory birds near the Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.221959,
@@ -22114,7 +22114,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "South Arm Marshes Wildlife Management Area",
-                  "text": "A protected marsh area in the Gulf of Georgia region.",
+                  "text": "Marshy wildlife management area along the South Arm of the Fraser River near the Georgia Cannery.",
                   "category": "natural",
                   "coords": [
                         -123.115966,
@@ -22183,7 +22183,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Daniel Cyr's Visual & Stained Glass Art visuel et vitraux",
-                  "text": "Daniel Cyr's Visual & Stained Glass Art visuel et vitraux ist eine Galerie in Green Gables.",
+                  "text": "Atelier und Museum für Glasmalerei von Daniel Cyr in Gables, PEI.",
                   "category": "museum",
                   "coords": [
                         -63.456401,
@@ -22192,7 +22192,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Space Shuttle Columbia Replica",
-                  "text": "Space Shuttle Columbia Replica ist eine Attraktion in Green Gables.",
+                  "text": "Ein originalgetreues Nachbild des Space Shuttles Columbia in Gables, PEI.",
                   "category": "landmark",
                   "coords": [
                         -63.445769,
@@ -22201,7 +22201,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Garden Theatre",
-                  "text": "Garden Theatre ist ein Theater in Green Gables.",
+                  "text": "Ein Freilufttheater in einem Garten in Gables, PEI.",
                   "category": "cultural",
                   "coords": [
                         -63.348208,
@@ -22210,7 +22210,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harmony House Theatre",
-                  "text": "Harmony House Theatre ist ein Theater in Green Gables.",
+                  "text": "Ein Gemeinschaftstheater im historischen Harmony-House-Gebäude in Gables, PEI.",
                   "category": "cultural",
                   "coords": [
                         -63.351396,
@@ -22219,7 +22219,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Roman Catholic Church",
-                  "text": "St. Augustine's Roman Catholic Church ist eine Kirche in Green Gables.",
+                  "text": "Eine römisch-katholische Kirche mit traditionellem Kirchturm in Gables, Prince Edward Island.",
                   "category": "religious",
                   "coords": [
                         -63.284164,
@@ -22228,7 +22228,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Doucet House",
-                  "text": "Doucet House ist ein Museum in Green Gables.",
+                  "text": "Ein historisches Wohnhausmuseum, das das frühe akadische Leben in Gables, PEI, bewahrt.",
                   "category": "museum",
                   "coords": [
                         -63.282663,
@@ -22248,7 +22248,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Daniel Cyr's Visual & Stained Glass Art visuel et vitraux",
-                  "text": "Daniel Cyr's Visual & Stained Glass Art visuel et vitraux egy galéria Green Gables-ben.",
+                  "text": "Daniel Cyr üvegfestészeti műterme és múzeuma Gablesben, PEI-n.",
                   "category": "museum",
                   "coords": [
                         -63.456401,
@@ -22257,7 +22257,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Space Shuttle Columbia Replica",
-                  "text": "Space Shuttle Columbia Replica egy attrakció Green Gables-ben.",
+                  "text": "A Columbia űrrepülőgép életnagyságú másolata Gablesben, PEI-n.",
                   "category": "landmark",
                   "coords": [
                         -63.445769,
@@ -22266,7 +22266,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Garden Theatre",
-                  "text": "Garden Theatre egy színház Green Gables-ben.",
+                  "text": "Egy szabadtéri színház egy kertben Gablesben, PEI-n.",
                   "category": "cultural",
                   "coords": [
                         -63.348208,
@@ -22275,7 +22275,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harmony House Theatre",
-                  "text": "Harmony House Theatre egy színház Green Gables-ben.",
+                  "text": "Egy közösségi színház a történelmi Harmony House épületében Gablesben, PEI-n.",
                   "category": "cultural",
                   "coords": [
                         -63.351396,
@@ -22284,7 +22284,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Roman Catholic Church",
-                  "text": "St. Augustine's Roman Catholic Church egy templom Green Gables-ben.",
+                  "text": "Egy római katolikus templom hagyományos toronnyal Gables-ben, Prince Edward Island-en.",
                   "category": "religious",
                   "coords": [
                         -63.284164,
@@ -22293,7 +22293,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Doucet House",
-                  "text": "Doucet House egy múzeum Green Gables-ben.",
+                  "text": "Egy történelmi házmúzeum, amely a korai akád életet őrzi Gables-ben, PEI-n.",
                   "category": "museum",
                   "coords": [
                         -63.282663,
@@ -22313,7 +22313,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Daniel Cyr's Visual & Stained Glass Art visuel et vitraux",
-                  "text": "Daniel Cyr's Visual & Stained Glass Art visuel et vitraux este o galerie în Green Gables.",
+                  "text": "Atelier și muzeu de vitralii al lui Daniel Cyr în Gables, PEI.",
                   "category": "museum",
                   "coords": [
                         -63.456401,
@@ -22322,7 +22322,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Space Shuttle Columbia Replica",
-                  "text": "Space Shuttle Columbia Replica este o atracție în Green Gables.",
+                  "text": "O replică la scară reală a navetei spațiale Columbia în Gables, PEI.",
                   "category": "landmark",
                   "coords": [
                         -63.445769,
@@ -22331,7 +22331,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Garden Theatre",
-                  "text": "Garden Theatre este un teatru în Green Gables.",
+                  "text": "Un teatru în aer liber amplasat într-o grădină în Gables, PEI.",
                   "category": "cultural",
                   "coords": [
                         -63.348208,
@@ -22340,7 +22340,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harmony House Theatre",
-                  "text": "Harmony House Theatre este un teatru în Green Gables.",
+                  "text": "Un teatru comunitar găzduit în clădirea istorică Harmony House din Gables, PEI.",
                   "category": "cultural",
                   "coords": [
                         -63.351396,
@@ -22349,7 +22349,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Roman Catholic Church",
-                  "text": "St. Augustine's Roman Catholic Church este o biserică în Green Gables.",
+                  "text": "O biserică romano-catolică cu un turn tradițional în Gables, Insula Prințului Edward.",
                   "category": "religious",
                   "coords": [
                         -63.284164,
@@ -22358,7 +22358,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Doucet House",
-                  "text": "Doucet House este un muzeu în Green Gables.",
+                  "text": "Un muzeu-casă istorică ce păstrează viața acadiană timpurie în Gables, PEI.",
                   "category": "museum",
                   "coords": [
                         -63.282663,
@@ -22378,7 +22378,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Daniel Cyr's Visual & Stained Glass Art visuel et vitraux",
-                  "text": "Daniel Cyr's Visual & Stained Glass Art visuel et vitraux is a gallery in Green Gables.",
+                  "text": "Studio and museum showcasing stained glass art by Daniel Cyr in Gables, PEI.",
                   "category": "museum",
                   "coords": [
                         -63.456401,
@@ -22387,7 +22387,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Space Shuttle Columbia Replica",
-                  "text": "Space Shuttle Columbia Replica is an attraction in Green Gables.",
+                  "text": "A full-scale replica of the Space Shuttle Columbia on display in Gables, PEI.",
                   "category": "landmark",
                   "coords": [
                         -63.445769,
@@ -22396,7 +22396,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Garden Theatre",
-                  "text": "Garden Theatre is a theatre in Green Gables.",
+                  "text": "An outdoor theatre set in a garden in Gables, PEI.",
                   "category": "cultural",
                   "coords": [
                         -63.348208,
@@ -22405,7 +22405,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Harmony House Theatre",
-                  "text": "Harmony House Theatre is a theatre in Green Gables.",
+                  "text": "A community theatre housed in a historic Harmony House building in Gables, PEI.",
                   "category": "cultural",
                   "coords": [
                         -63.351396,
@@ -22414,7 +22414,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Augustine's Roman Catholic Church",
-                  "text": "St. Augustine's Roman Catholic Church is a church in Green Gables.",
+                  "text": "A Roman Catholic church with a traditional steeple in Gables, Prince Edward Island.",
                   "category": "religious",
                   "coords": [
                         -63.284164,
@@ -22423,7 +22423,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Doucet House",
-                  "text": "Doucet House is a museum in Green Gables.",
+                  "text": "A historic house museum preserving early Acadian life in Gables, PEI.",
                   "category": "museum",
                   "coords": [
                         -63.282663,
@@ -22483,7 +22483,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "MacKenzie Theatre",
-                  "text": "MacKenzie Theatre ist ein Theater in Charlottetown.",
+                  "text": "Ein Live-Theater im Bereich House Charlottetown.",
                   "category": "cultural",
                   "coords": [
                         -63.126448,
@@ -22492,7 +22492,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Year Marker",
-                  "text": "Year Marker ist ein Denkmal in Charlottetown.",
+                  "text": "Eine historische Jahreszahltafel an einem Haus in Charlottetown, die das Baujahr angibt.",
                   "category": "historical",
                   "coords": [
                         -63.122486,
@@ -22501,7 +22501,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Ryan Hill",
-                  "text": "Mount Ryan Hill ist ein Gipfel in Charlottetown.",
+                  "text": "Ein natürlicher Hügel mit Blick auf das Gebiet von House Charlottetown.",
                   "category": "natural",
                   "coords": [
                         -63.014246,
@@ -22510,7 +22510,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Connaught Square",
-                  "text": "Connaught Square ist ein Park in Charlottetown.",
+                  "text": "Ein öffentlicher Platzpark mit Rasenflächen in House Charlottetown.",
                   "category": "park",
                   "coords": [
                         -63.129023,
@@ -22519,7 +22519,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hillsborough Square",
-                  "text": "Hillsborough Square ist ein Park in Charlottetown.",
+                  "text": "Ein historischer Platzpark im Zentrum von House Charlottetown.",
                   "category": "park",
                   "coords": [
                         -63.12151,
@@ -22528,7 +22528,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mark Butcher Memorial Chairs",
-                  "text": "Mark Butcher Memorial Chairs ist ein Denkmal in Charlottetown.",
+                  "text": "Eine Gedenkbank-Installation, die Mark Butcher in House Charlottetown gewidmet ist.",
                   "category": "historical",
                   "coords": [
                         -63.124109,
@@ -22537,7 +22537,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Central Christian Church",
-                  "text": "Central Christian Church ist ein Gotteshaus in Charlottetown.",
+                  "text": "Eine christliche Kirche, die die Gemeinde in House Charlottetown bedient.",
                   "category": "religious",
                   "coords": [
                         -63.125263,
@@ -22546,7 +22546,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity United Church",
-                  "text": "Trinity United Church ist ein Gotteshaus in Charlottetown.",
+                  "text": "Eine Gemeinde der United Church of Canada in einem historischen Gebäude in House Charlottetown.",
                   "category": "religious",
                   "coords": [
                         -63.123289,
@@ -22555,7 +22555,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Paul's Anglican Church",
-                  "text": "St. Paul's Anglican Church ist ein Gotteshaus in Charlottetown.",
+                  "text": "Eine anglikanische Kirche mit traditionellem Kirchturm in House Charlottetown.",
                   "category": "religious",
                   "coords": [
                         -63.125089,
@@ -22564,7 +22564,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Guild",
-                  "text": "The Guild ist ein Theater in Charlottetown.",
+                  "text": "Kulturzentrum im historischen House Charlottetown-Gebäude.",
                   "category": "cultural",
                   "coords": [
                         -63.127451,
@@ -22591,7 +22591,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rochford Square",
-                  "text": "Der Rochford Square ist ein Park in Charlottetown.",
+                  "text": "Ein kleiner öffentlicher Platzpark im Bezirk House Charlottetown.",
                   "category": "park",
                   "coords": [
                         -63.131677,
@@ -22600,7 +22600,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beaconsfield Historic House",
-                  "text": "Das Beaconsfield Historic House ist ein historisches Wohnhausmuseum in Charlottetown.",
+                  "text": "Ein historisches viktorianisches Wohnhausmuseum mit zeitgenössischen Möbeln in House Charlottetown.",
                   "category": "museum",
                   "coords": [
                         -63.13349,
@@ -22609,7 +22609,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince Edward Battery",
-                  "text": "Die Prince Edward Battery ist eine Befestigungsanlage in Charlottetown.",
+                  "text": "Die 1805 erbaute Prince Edward Battery in House Charlottetown ist eine Festungsbatterie.",
                   "category": "fortress",
                   "coords": [
                         -63.137527,
@@ -22627,7 +22627,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kellys Cove",
-                  "text": "Kellys Cove ist eine Bucht in Charlottetown.",
+                  "text": "Eine malerische Bucht an der Küste nahe House Charlottetown.",
                   "category": "landmark",
                   "coords": [
                         -63.099492,
@@ -22636,7 +22636,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stewart Cove",
-                  "text": "Stewart Cove ist eine Bucht in Charlottetown.",
+                  "text": "Eine kleine geschützte Bucht am Ufer von House Charlottetown.",
                   "category": "landmark",
                   "coords": [
                         -63.109617,
@@ -22647,7 +22647,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "MacKenzie Theatre",
-                  "text": "MacKenzie Theatre egy színház Charlottetownban.",
+                  "text": "Egy élő színház a House Charlottetown környékén.",
                   "category": "cultural",
                   "coords": [
                         -63.126448,
@@ -22656,7 +22656,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Year Marker",
-                  "text": "Year Marker egy emlékmű Charlottetownban.",
+                  "text": "Történelmi évszámtábla egy házon Charlottetownban, amely az építés évét jelöli.",
                   "category": "historical",
                   "coords": [
                         -63.122486,
@@ -22665,7 +22665,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Ryan Hill",
-                  "text": "Mount Ryan Hill egy csúcs Charlottetownban.",
+                  "text": "Egy természetes domb, kilátással a House Charlottetown területére.",
                   "category": "natural",
                   "coords": [
                         -63.014246,
@@ -22674,7 +22674,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Connaught Square",
-                  "text": "Connaught Square egy park Charlottetownban.",
+                  "text": "Egy nyilvános térpark zöld pázsittal House Charlottetown-ban.",
                   "category": "park",
                   "coords": [
                         -63.129023,
@@ -22683,7 +22683,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hillsborough Square",
-                  "text": "Hillsborough Square egy park Charlottetownban.",
+                  "text": "Egy történelmi térpark House Charlottetown központjában.",
                   "category": "park",
                   "coords": [
                         -63.12151,
@@ -22692,7 +22692,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mark Butcher Memorial Chairs",
-                  "text": "Mark Butcher Memorial Chairs egy emlékmű Charlottetownban.",
+                  "text": "Egy emlékpad-installáció, amely Mark Butcher emlékére készült House Charlottetown-ban.",
                   "category": "historical",
                   "coords": [
                         -63.124109,
@@ -22701,7 +22701,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Central Christian Church",
-                  "text": "A Central Christian Church egy istentiszteleti hely Charlottetownban.",
+                  "text": "Egy keresztény templom, amely a House Charlottetown-i közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         -63.125263,
@@ -22710,7 +22710,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity United Church",
-                  "text": "A Trinity United Church egy istentiszteleti hely Charlottetownban.",
+                  "text": "A Kanadai Egyesült Egyház gyülekezete egy történelmi épületben House Charlottetown-ban.",
                   "category": "religious",
                   "coords": [
                         -63.123289,
@@ -22719,7 +22719,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Paul's Anglican Church",
-                  "text": "A St. Paul's Anglican Church egy anglikán templom Charlottetownban.",
+                  "text": "Egy anglikán templom hagyományos toronnyal House Charlottetown-ban.",
                   "category": "religious",
                   "coords": [
                         -63.125089,
@@ -22728,7 +22728,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Guild",
-                  "text": "A The Guild egy színház Charlottetownban.",
+                  "text": "Kulturális tér a történelmi House Charlottetown épületben.",
                   "category": "cultural",
                   "coords": [
                         -63.127451,
@@ -22755,7 +22755,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rochford Square",
-                  "text": "A Rochford Square egy park Charlottetownban.",
+                  "text": "Egy kis nyilvános térpark a House Charlottetown kerületben.",
                   "category": "park",
                   "coords": [
                         -63.131677,
@@ -22764,7 +22764,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beaconsfield Historic House",
-                  "text": "A Beaconsfield Historic House egy történelmi háztörténeti múzeum Charlottetownban.",
+                  "text": "Egy történelmi viktoriánus házmúzeum korabeli bútorokkal House Charlottetown-ban.",
                   "category": "museum",
                   "coords": [
                         -63.13349,
@@ -22773,7 +22773,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince Edward Battery",
-                  "text": "A Prince Edward Battery egy erődítmény Charlottetownban.",
+                  "text": "Az 1805-ben épült Prince Edward Battery House Charlottetown-ban egy erődítményi üteg.",
                   "category": "fortress",
                   "coords": [
                         -63.137527,
@@ -22791,7 +22791,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kellys Cove",
-                  "text": "A Kellys Cove egy öböl Charlottetownban.",
+                  "text": "Egy festői öböl a partvidéken House Charlottetown közelében.",
                   "category": "landmark",
                   "coords": [
                         -63.099492,
@@ -22800,7 +22800,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stewart Cove",
-                  "text": "A Stewart Cove egy öböl Charlottetownban.",
+                  "text": "Egy kis védett öböl House Charlottetown partján.",
                   "category": "landmark",
                   "coords": [
                         -63.109617,
@@ -22811,7 +22811,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "MacKenzie Theatre",
-                  "text": "MacKenzie Theatre este un teatru în Charlottetown.",
+                  "text": "O sală de teatru live în zona House Charlottetown.",
                   "category": "cultural",
                   "coords": [
                         -63.126448,
@@ -22820,7 +22820,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Year Marker",
-                  "text": "Year Marker este un monument în Charlottetown.",
+                  "text": "Un indicator istoric de an pe o casă din Charlottetown, care marchează anul construcției.",
                   "category": "historical",
                   "coords": [
                         -63.122486,
@@ -22829,7 +22829,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Ryan Hill",
-                  "text": "Mount Ryan Hill este un vârf în Charlottetown.",
+                  "text": "Un deal natural cu vedere asupra zonei House Charlottetown.",
                   "category": "natural",
                   "coords": [
                         -63.014246,
@@ -22838,7 +22838,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Connaught Square",
-                  "text": "Connaught Square este un parc în Charlottetown.",
+                  "text": "Un parc-piață publică cu peluze verzi în House Charlottetown.",
                   "category": "park",
                   "coords": [
                         -63.129023,
@@ -22847,7 +22847,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hillsborough Square",
-                  "text": "Hillsborough Square este un parc în Charlottetown.",
+                  "text": "Un parc-piață istoric în centrul House Charlottetown.",
                   "category": "park",
                   "coords": [
                         -63.12151,
@@ -22856,7 +22856,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mark Butcher Memorial Chairs",
-                  "text": "Mark Butcher Memorial Chairs este un monument în Charlottetown.",
+                  "text": "O instalație de bănci memoriale dedicată lui Mark Butcher în House Charlottetown.",
                   "category": "historical",
                   "coords": [
                         -63.124109,
@@ -22865,7 +22865,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Central Christian Church",
-                  "text": "Central Christian Church este un loc de cult în Charlottetown.",
+                  "text": "O biserică creștină care slujește comunitatea din House Charlottetown.",
                   "category": "religious",
                   "coords": [
                         -63.125263,
@@ -22874,7 +22874,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity United Church",
-                  "text": "Trinity United Church este un loc de cult în Charlottetown.",
+                  "text": "O congregație a Bisericii Unite a Canadei într-o clădire istorică în House Charlottetown.",
                   "category": "religious",
                   "coords": [
                         -63.123289,
@@ -22883,7 +22883,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Paul's Anglican Church",
-                  "text": "St. Paul's Anglican Church este o biserică anglicană în Charlottetown.",
+                  "text": "O biserică anglicană cu un turn tradițional în House Charlottetown.",
                   "category": "religious",
                   "coords": [
                         -63.125089,
@@ -22892,7 +22892,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Guild",
-                  "text": "The Guild este un teatru în Charlottetown.",
+                  "text": "Spațiu cultural în clădirea istorică House Charlottetown.",
                   "category": "cultural",
                   "coords": [
                         -63.127451,
@@ -22919,7 +22919,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rochford Square",
-                  "text": "Rochford Square este un parc în Charlottetown.",
+                  "text": "Un mic parc-piață publică în districtul House Charlottetown.",
                   "category": "park",
                   "coords": [
                         -63.131677,
@@ -22928,7 +22928,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beaconsfield Historic House",
-                  "text": "Beaconsfield Historic House este un muzeu de casă istorică în Charlottetown.",
+                  "text": "Un muzeu-casă istorică victoriană cu mobilier de epocă în House Charlottetown.",
                   "category": "museum",
                   "coords": [
                         -63.13349,
@@ -22937,7 +22937,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince Edward Battery",
-                  "text": "Prince Edward Battery este o fortificație în Charlottetown.",
+                  "text": "Bateria Prince Edward din House Charlottetown, construită în 1805, este o baterie de fortăreață.",
                   "category": "fortress",
                   "coords": [
                         -63.137527,
@@ -22955,7 +22955,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kellys Cove",
-                  "text": "Kellys Cove este un golf în Charlottetown.",
+                  "text": "Un golf pitoresc pe coastă lângă House Charlottetown.",
                   "category": "landmark",
                   "coords": [
                         -63.099492,
@@ -22964,7 +22964,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stewart Cove",
-                  "text": "Stewart Cove este un golf în Charlottetown.",
+                  "text": "Un mic golf adăpostit pe țărmul House Charlottetown.",
                   "category": "landmark",
                   "coords": [
                         -63.109617,
@@ -22975,7 +22975,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "MacKenzie Theatre",
-                  "text": "MacKenzie Theatre is a theatre in Charlottetown.",
+                  "text": "A live theatre venue in the House Charlottetown area.",
                   "category": "cultural",
                   "coords": [
                         -63.126448,
@@ -22984,7 +22984,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Year Marker",
-                  "text": "Year Marker is a monument in Charlottetown.",
+                  "text": "A historical year marker on a house in Charlottetown, indicating its construction date.",
                   "category": "historical",
                   "coords": [
                         -63.122486,
@@ -22993,7 +22993,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mount Ryan Hill",
-                  "text": "Mount Ryan Hill is a peak in Charlottetown.",
+                  "text": "A natural hill offering views of the House Charlottetown area.",
                   "category": "natural",
                   "coords": [
                         -63.014246,
@@ -23002,7 +23002,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Connaught Square",
-                  "text": "Connaught Square is a park in Charlottetown.",
+                  "text": "A public square park with green lawns in House Charlottetown.",
                   "category": "park",
                   "coords": [
                         -63.129023,
@@ -23011,7 +23011,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Hillsborough Square",
-                  "text": "Hillsborough Square is a park in Charlottetown.",
+                  "text": "A historic square park in the centre of House Charlottetown.",
                   "category": "park",
                   "coords": [
                         -63.12151,
@@ -23020,7 +23020,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Mark Butcher Memorial Chairs",
-                  "text": "Mark Butcher Memorial Chairs is a monument in Charlottetown.",
+                  "text": "A memorial bench installation dedicated to Mark Butcher in House Charlottetown.",
                   "category": "historical",
                   "coords": [
                         -63.124109,
@@ -23029,7 +23029,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Central Christian Church",
-                  "text": "Central Christian Church is a place of worship in Charlottetown.",
+                  "text": "A Christian church serving the community in House Charlottetown.",
                   "category": "religious",
                   "coords": [
                         -63.125263,
@@ -23038,7 +23038,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Trinity United Church",
-                  "text": "Trinity United Church is a place of worship in Charlottetown.",
+                  "text": "A United Church of Canada congregation in a historic building in House Charlottetown.",
                   "category": "religious",
                   "coords": [
                         -63.123289,
@@ -23047,7 +23047,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "St. Paul's Anglican Church",
-                  "text": "St. Paul's Anglican Church is a place of worship in Charlottetown.",
+                  "text": "An Anglican church with a traditional spire in House Charlottetown.",
                   "category": "religious",
                   "coords": [
                         -63.125089,
@@ -23056,7 +23056,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "The Guild",
-                  "text": "The Guild is a theatre in Charlottetown.",
+                  "text": "Cultural venue inside the historic House Charlottetown building.",
                   "category": "cultural",
                   "coords": [
                         -63.127451,
@@ -23083,7 +23083,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Rochford Square",
-                  "text": "Rochford Square is a park in Charlottetown.",
+                  "text": "A small public square park in the House Charlottetown district.",
                   "category": "park",
                   "coords": [
                         -63.131677,
@@ -23092,7 +23092,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Beaconsfield Historic House",
-                  "text": "Beaconsfield Historic House is a historic house museum in Charlottetown.",
+                  "text": "A historic Victorian house museum with period furnishings in House Charlottetown.",
                   "category": "museum",
                   "coords": [
                         -63.13349,
@@ -23101,7 +23101,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Prince Edward Battery",
-                  "text": "Prince Edward Battery is a fortification in Charlottetown.",
+                  "text": "Prince Edward Battery, built in 1805 in House Charlottetown, is a fortress battery.",
                   "category": "fortress",
                   "coords": [
                         -63.137527,
@@ -23119,7 +23119,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kellys Cove",
-                  "text": "Kellys Cove is a bay in Charlottetown.",
+                  "text": "A scenic cove on the coastline near House Charlottetown.",
                   "category": "landmark",
                   "coords": [
                         -63.099492,
@@ -23128,7 +23128,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Stewart Cove",
-                  "text": "Stewart Cove is a bay in Charlottetown.",
+                  "text": "A small sheltered cove along the shore of House Charlottetown.",
                   "category": "landmark",
                   "coords": [
                         -63.109617,
@@ -23188,7 +23188,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Esterhazy Regional Park",
-                  "text": "Ein Naturschutzgebiet in Esterhazy.",
+                  "text": "Regionalpark auf dem Gelände einer ehemaligen Mühle.",
                   "category": "natural",
                   "coords": [
                         -102.057513,
@@ -23197,7 +23197,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sheave Wheel Monument",
-                  "text": "Ein Denkmal in Esterhazy.",
+                  "text": "Historisches Denkmal einer Seilscheibe auf dem früheren Mühlengelände.",
                   "category": "historical",
                   "coords": [
                         -102.078964,
@@ -23206,7 +23206,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kaposvar Historic Site",
-                  "text": "Eine historische Stätte in Esterhazy.",
+                  "text": "Historische Stätte, benannt nach der ungarischen Stadt Kaposvár, im Flour-Mill-Viertel.",
                   "category": "landmark",
                   "coords": [
                         -102.085018,
@@ -23217,7 +23217,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Esterhazy Regional Park",
-                  "text": "Egy természetvédelmi terület Esterhazyban.",
+                  "text": "Regionális park egy egykori malom helyén.",
                   "category": "natural",
                   "coords": [
                         -102.057513,
@@ -23226,7 +23226,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sheave Wheel Monument",
-                  "text": "Egy emlékmű Esterhazyban.",
+                  "text": "Történelmi emlékmű egy drótkötél-tárcsáról a régi malom területén.",
                   "category": "historical",
                   "coords": [
                         -102.078964,
@@ -23235,7 +23235,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kaposvar Historic Site",
-                  "text": "Egy történelmi helyszín Esterhazyban.",
+                  "text": "Kaposvárról elnevezett történelmi helyszín a Flour Mill negyedben.",
                   "category": "landmark",
                   "coords": [
                         -102.085018,
@@ -23246,7 +23246,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Esterhazy Regional Park",
-                  "text": "O rezervație naturală în Esterhazy.",
+                  "text": "Parcul regional situat pe locul unei foste mori de făină.",
                   "category": "natural",
                   "coords": [
                         -102.057513,
@@ -23255,7 +23255,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sheave Wheel Monument",
-                  "text": "Un monument în Esterhazy.",
+                  "text": "Monument istoric al unui scripete de cablu pe locul fostei mori.",
                   "category": "historical",
                   "coords": [
                         -102.078964,
@@ -23264,7 +23264,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kaposvar Historic Site",
-                  "text": "O atracție istorică în Esterhazy.",
+                  "text": "Sit istoric numit după orașul maghiar Kaposvár, în cartierul Flour Mill.",
                   "category": "landmark",
                   "coords": [
                         -102.085018,
@@ -23275,7 +23275,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Esterhazy Regional Park",
-                  "text": "A nature reserve in Esterhazy.",
+                  "text": "Regional park situated at the site of a former flour mill.",
                   "category": "natural",
                   "coords": [
                         -102.057513,
@@ -23284,7 +23284,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Sheave Wheel Monument",
-                  "text": "A monument in Esterhazy.",
+                  "text": "Historical monument of a sheave wheel at the former flour mill site.",
                   "category": "historical",
                   "coords": [
                         -102.078964,
@@ -23293,7 +23293,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
             },
             {
                   "name": "Kaposvar Historic Site",
-                  "text": "A historic site attraction in Esterhazy.",
+                  "text": "Historic site named after the Hungarian city Kaposvár, located in the Flour Mill area.",
                   "category": "landmark",
                   "coords": [
                         -102.085018,

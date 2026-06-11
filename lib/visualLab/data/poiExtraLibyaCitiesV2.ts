@@ -47,7 +47,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Benghazi Lighthouse",
-                  "text": "Dieses lokale Wahrzeichen dient als Leuchtturm in Bengasi.",
+                  "text": "Der im 19. Jahrhundert von Italienern erbaute Leuchtturm an der Uferpromenade von Benghazi.",
                   "category": "landmark",
                   "coords": [
                         20.063595,
@@ -56,7 +56,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dies",
-                  "text": "Dies ist ein kultureller Veranstaltungsort und ein Theater in Bengasi.",
+                  "text": "Ein Kulturzentrum in der Altstadt von Benghazi.",
                   "category": "cultural",
                   "coords": [
                         20.083672,
@@ -65,7 +65,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sidi Oubed Cemetery",
-                  "text": "Der Sidi Oubed Cemetery ist eine archäologische Stätte in Bengasi.",
+                  "text": "Der Friedhof von Sidi Oubed, einem verehrten Sufi-Heiligen, in Benghazi.",
                   "category": "historical",
                   "coords": [
                         20.087637,
@@ -74,7 +74,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Local Culture Theater",
-                  "text": "Das Local Culture Theater ist ein Theater für lokale Kultur in Bengasi.",
+                  "text": "Ein Gemeinschaftstheater mit traditionellen libyschen Aufführungen in Benghazi.",
                   "category": "cultural",
                   "coords": [
                         20.06095,
@@ -83,7 +83,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Area L in Sidi Khiribech",
-                  "text": "Area L in Sidi Khiribech ist eine archäologische Stätte in Bengasi.",
+                  "text": "Eine archäologische Ausgrabungsstätte im Bezirk Sidi Khiribech von Benghazi.",
                   "category": "historical",
                   "coords": [
                         20.062387,
@@ -92,7 +92,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Birka Palace",
-                  "text": "Der Al Birka Palace ist eine historische Burg in Bengasi.",
+                  "text": "Ein osmanischer Palast aus dem 19. Jahrhundert mit prunkvollen Gärten im Al-Birka-Viertel von Benghazi.",
                   "category": "castle",
                   "coords": [
                         20.077825,
@@ -101,7 +101,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Manar Palace",
-                  "text": "Der Al Manar Palace ist ein bemerkenswertes Schloss in Bengasi.",
+                  "text": "Ein moderner Palast, der als Gästehaus der Regierung in Benghazi dient.",
                   "category": "castle",
                   "coords": [
                         20.058034,
@@ -119,7 +119,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dieser lokale Markt",
-                  "text": "Dieser lokale Markt ist eine Attraktion in Bengasi.",
+                  "text": "Der traditionelle Souq Al-Hashish-Markt für Gewürze und Textilien im Zentrum von Benghazi.",
                   "category": "landmark",
                   "coords": [
                         20.063695,
@@ -128,7 +128,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Diese Einrichtung",
-                  "text": "Diese Einrichtung ist eine lokale Attraktion in Bengasi.",
+                  "text": "Ein historisches Café am Hauptplatz von Benghazi.",
                   "category": "landmark",
                   "coords": [
                         20.087964,
@@ -137,7 +137,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dieser Ort",
-                  "text": "Dieser Ort ist eine kommerzielle Sehenswürdigkeit in Bengasi.",
+                  "text": "Eine Uferpromenade mit Blick auf das Mittelmeer in Benghazi.",
                   "category": "landmark",
                   "coords": [
                         20.090919,
@@ -155,7 +155,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Piazza Al kesh",
-                  "text": "Die Piazza Al kesh ist ein anerkannter öffentlicher Platz in Bengasi.",
+                  "text": "Die Piazza Al Kesh ist ein zentraler Platz im Herzen von Bengasi, der oft für öffentliche Veranstaltungen genutzt wird.",
                   "category": "landmark",
                   "coords": [
                         20.077248,
@@ -209,7 +209,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dieses Mausoleum",
-                  "text": "Dieses Mausoleum ist eine markante historische Attraktion in Bengasi.",
+                  "text": "Das Mausoleum von Omar Al-Mukhtar in Bengasi ist die Ruhestätte des libyschen Widerstandsführers gegen die italienische Kolonialisierung.",
                   "category": "landmark",
                   "coords": [
                         20.068272,
@@ -227,7 +227,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Binqatou Mosque",
-                  "text": "Die Binqatou Mosque ist ein lokales Gotteshaus in Bengasi.",
+                  "text": "Moschee in der Altstadt von Bengasi mit osmanischer Architektur.",
                   "category": "religious",
                   "coords": [
                         20.058955,
@@ -247,7 +247,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Benghazi Lighthouse",
-                  "text": "Ez a helyi nevezetesség világítótoronyként működik Bengáziban.",
+                  "text": "A 19. században olaszok által épített világítótorony a bengházi tengerparton.",
                   "category": "landmark",
                   "coords": [
                         20.063595,
@@ -256,7 +256,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "National Theater",
-                  "text": "Ez egy kulturális helyszín és színház Bengáziban.",
+                  "text": "Kulturális központ Bengházi óvárosában.",
                   "category": "cultural",
                   "coords": [
                         20.083672,
@@ -265,7 +265,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sidi Oubed Cemetery",
-                  "text": "A Sidi Oubed Cemetery egy régészeti lelőhely Bengáziban.",
+                  "text": "Sidi Oubed, egy tisztelt szúfi szent temetője Bengháziban.",
                   "category": "historical",
                   "coords": [
                         20.087637,
@@ -274,7 +274,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Local Culture Theater",
-                  "text": "A Local Culture Theater egy helyi kulturális színház Bengáziban.",
+                  "text": "Közösségi színház, hagyományos líbiai előadásokkal Bengháziban.",
                   "category": "cultural",
                   "coords": [
                         20.06095,
@@ -283,7 +283,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Area L in Sidi Khiribech",
-                  "text": "Az Area L in Sidi Khiribech egy régészeti lelőhely Bengáziban.",
+                  "text": "Régészeti ásatási terület a bengházi Sidi Khiribech negyedben.",
                   "category": "historical",
                   "coords": [
                         20.062387,
@@ -292,7 +292,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Birka Palace",
-                  "text": "Az Al Birka Palace egy történelmi kastélyépület Bengáziban.",
+                  "text": "Egy 19. századi oszmán palota díszkertekkel Bengházi Al Birka negyedében.",
                   "category": "castle",
                   "coords": [
                         20.077825,
@@ -301,7 +301,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Manar Palace",
-                  "text": "Az Al Manar Palace egy figyelemre méltó kastély Bengáziban.",
+                  "text": "Egy modern palota, amely kormányzati vendégházként szolgál Bengháziban.",
                   "category": "castle",
                   "coords": [
                         20.058034,
@@ -319,7 +319,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Souq Al-Hashish",
-                  "text": "Ez a helyi piac egy népszerű látványosság Bengáziban.",
+                  "text": "A hagyományos Souq Al-Hashish fűszer- és textilpiac Bengházi központjában.",
                   "category": "landmark",
                   "coords": [
                         20.063695,
@@ -328,7 +328,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "One Pound Shop",
-                  "text": "Ez a létesítmény egy helyi látványosság Bengáziban.",
+                  "text": "Egy történelmi kávéház Bengházi főterén.",
                   "category": "landmark",
                   "coords": [
                         20.087964,
@@ -337,7 +337,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Naam Confectionery",
-                  "text": "Ez a helyszín egy kereskedelmi látványosság Bengáziban.",
+                  "text": "Egy tengerparti sétány a Földközi-tengerre néző kilátással Bengháziban.",
                   "category": "landmark",
                   "coords": [
                         20.090919,
@@ -355,7 +355,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Piazza Al kesh",
-                  "text": "A Piazza Al kesh egy elismert nyilvános tér Bengáziban.",
+                  "text": "A Piazza Al Kesh egy központi tér Bengázi szívében, gyakran használják nyilvános eseményekre.",
                   "category": "landmark",
                   "coords": [
                         20.077248,
@@ -409,7 +409,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Omar Al-Mukhtar Mausoleum",
-                  "text": "Ez a mauzóleum egy kiemelkedő történelmi látványosság Bengáziban.",
+                  "text": "Omar Al-Mukhtar mauzóleuma Bengáziban a líbiai ellenállás vezetőjének nyughelye, aki az olasz gyarmatosítás ellen harcolt.",
                   "category": "landmark",
                   "coords": [
                         20.068272,
@@ -427,7 +427,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Binqatou Mosque",
-                  "text": "A Binqatou Mosque egy helyi mecset és istentiszteleti hely Bengáziban.",
+                  "text": "Mecset Bengázi óvárosában, oszmán építészettel.",
                   "category": "religious",
                   "coords": [
                         20.058955,
@@ -447,7 +447,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Benghazi Lighthouse",
-                  "text": "Acest punct de reper local funcționează ca un far în Bengasi.",
+                  "text": "Farul construit de italieni în secolul al XIX-lea pe faleza din Benghazi.",
                   "category": "landmark",
                   "coords": [
                         20.063595,
@@ -456,7 +456,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Acesta",
-                  "text": "Acesta este un spațiu cultural și un teatru în Bengasi.",
+                  "text": "Un centru cultural în orașul vechi al Benghaziului.",
                   "category": "cultural",
                   "coords": [
                         20.083672,
@@ -465,7 +465,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sidi Oubed Cemetery",
-                  "text": "Sidi Oubed Cemetery este un sit arheologic situat în Bengasi.",
+                  "text": "Cimitirul lui Sidi Oubed, un sfânt sufi venerat, în Benghazi.",
                   "category": "historical",
                   "coords": [
                         20.087637,
@@ -474,7 +474,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Local Culture Theater",
-                  "text": "Local Culture Theater este un teatru dedicat culturii locale din Bengasi.",
+                  "text": "Un teatru comunitar care găzduiește spectacole tradiționale libiene în Benghazi.",
                   "category": "cultural",
                   "coords": [
                         20.06095,
@@ -483,7 +483,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Area L in Sidi Khiribech",
-                  "text": "Area L in Sidi Khiribech este un sit arheologic situat în Bengasi.",
+                  "text": "Un sit arheologic în districtul Sidi Khiribech din Benghazi.",
                   "category": "historical",
                   "coords": [
                         20.062387,
@@ -492,7 +492,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Birka Palace",
-                  "text": "Al Birka Palace este un castel istoric în Bengasi.",
+                  "text": "Un palat otoman din secolul al XIX-lea cu grădini ornamentale în districtul Al Birka din Benghazi.",
                   "category": "castle",
                   "coords": [
                         20.077825,
@@ -501,7 +501,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Manar Palace",
-                  "text": "Al Manar Palace este un castel remarcabil situat în Bengasi.",
+                  "text": "Un palat modern folosit ca casă de oaspeți a guvernului în Benghazi.",
                   "category": "castle",
                   "coords": [
                         20.058034,
@@ -519,7 +519,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Această piață locală",
-                  "text": "Această piață locală este o atracție populară în Bengasi.",
+                  "text": "Piața tradițională Souq Al-Hashish pentru mirodenii și textile în centrul Benghaziului.",
                   "category": "landmark",
                   "coords": [
                         20.063695,
@@ -528,7 +528,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Această unitate",
-                  "text": "Această unitate este o atracție locală în Bengasi.",
+                  "text": "O cafenea istorică în piața principală din Benghazi.",
                   "category": "landmark",
                   "coords": [
                         20.087964,
@@ -537,7 +537,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Acest sit",
-                  "text": "Acest sit este o atracție comercială locală din Bengasi.",
+                  "text": "O promenadă pe malul mării cu vedere la Mediterana în Benghazi.",
                   "category": "landmark",
                   "coords": [
                         20.090919,
@@ -555,7 +555,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Piazza Al kesh",
-                  "text": "Piazza Al kesh este o atracție publică recunoscută în orașul Bengasi.",
+                  "text": "Piazza Al Kesh este o piață centrală în inima Benghaziului, adesea folosită pentru evenimente publice.",
                   "category": "landmark",
                   "coords": [
                         20.077248,
@@ -609,7 +609,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Acest mausoleu",
-                  "text": "Acest mausoleu este o atracție istorică proeminentă în Bengasi.",
+                  "text": "Mausoleul lui Omar Al-Mukhtar din Benghazi este locul de odihnă al liderului rezistenței libiene împotriva colonizării italiene.",
                   "category": "landmark",
                   "coords": [
                         20.068272,
@@ -627,7 +627,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Binqatou Mosque",
-                  "text": "Binqatou Mosque este un lăcaș de cult local situat în Bengasi.",
+                  "text": "Moschee în orașul vechi din Benghazi, cu arhitectură otomană.",
                   "category": "religious",
                   "coords": [
                         20.058955,
@@ -647,7 +647,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Benghazi Lighthouse",
-                  "text": "This local landmark functions as a lighthouse in Bengasi.",
+                  "text": "The 19th-century Italian-built lighthouse on the Benghazi waterfront.",
                   "category": "landmark",
                   "coords": [
                         20.063595,
@@ -656,7 +656,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "This",
-                  "text": "This is a cultural venue and theatre located in Bengasi.",
+                  "text": "A cultural center in the old town of Benghazi.",
                   "category": "cultural",
                   "coords": [
                         20.083672,
@@ -665,7 +665,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sidi Oubed Cemetery",
-                  "text": "Sidi Oubed Cemetery is an archaeological site located in Bengasi.",
+                  "text": "The burial ground of Sidi Oubed, a revered Sufi saint, in Benghazi.",
                   "category": "historical",
                   "coords": [
                         20.087637,
@@ -674,7 +674,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Local Culture Theater",
-                  "text": "The Local Culture Theater is an active performance space in Bengasi.",
+                  "text": "A community theater hosting traditional Libyan performances in Benghazi.",
                   "category": "cultural",
                   "coords": [
                         20.06095,
@@ -683,7 +683,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Area L in Sidi Khiribech",
-                  "text": "Area L in Sidi Khiribech is an archaeological site located in Bengasi.",
+                  "text": "An archaeological excavation site in the Sidi Khiribech district of Benghazi.",
                   "category": "historical",
                   "coords": [
                         20.062387,
@@ -692,7 +692,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Birka Palace",
-                  "text": "Al Birka Palace is a historical castle structure in Bengasi.",
+                  "text": "A 19th-century Ottoman palace with ornate gardens in Benghazi's Al Birka district.",
                   "category": "castle",
                   "coords": [
                         20.077825,
@@ -701,7 +701,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Manar Palace",
-                  "text": "Al Manar Palace is a notable castle building situated in Bengasi.",
+                  "text": "A modern palace used as a government guesthouse in Benghazi.",
                   "category": "castle",
                   "coords": [
                         20.058034,
@@ -719,7 +719,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Souq Al-Hashish",
-                  "text": "This local market and attraction is located in Bengasi.",
+                  "text": "The traditional Souq Al-Hashish market for spices and textiles in central Benghazi.",
                   "category": "landmark",
                   "coords": [
                         20.063695,
@@ -728,7 +728,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "This establishment",
-                  "text": "This establishment is a local attraction in Bengasi.",
+                  "text": "A historic café in Benghazi's main square.",
                   "category": "landmark",
                   "coords": [
                         20.087964,
@@ -737,7 +737,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "This site",
-                  "text": "This site is a local commercial attraction located in Bengasi.",
+                  "text": "A waterfront promenade with views of the Mediterranean in Benghazi.",
                   "category": "landmark",
                   "coords": [
                         20.090919,
@@ -755,7 +755,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Piazza Al kesh",
-                  "text": "Piazza Al kesh is a recognized public attraction in the city of Bengasi.",
+                  "text": "Piazza Al Kesh is a central square in the heart of Benghazi, often used for public events.",
                   "category": "landmark",
                   "coords": [
                         20.077248,
@@ -809,7 +809,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Omar Al-Mukhtar Mausoleum",
-                  "text": "The Omar Al-Mukhtar Mausoleum is a prominent historical attraction in Bengasi.",
+                  "text": "Omar Al-Mukhtar Mausoleum in Benghazi is the resting place of the Libyan resistance leader against Italian colonization.",
                   "category": "landmark",
                   "coords": [
                         20.068272,
@@ -827,7 +827,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Binqatou Mosque",
-                  "text": "The Binqatou Mosque is a local place of worship situated in Bengasi.",
+                  "text": "Mosque in Benghazi's old city with Ottoman-era architecture.",
                   "category": "religious",
                   "coords": [
                         20.058955,
@@ -878,7 +878,700 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       fr: ["Appelée à l'origine Bérénice.", "Plus important port de Cyrénaïque.", "Centre de la révolution libyenne de 2011.", "Deuxième centre économique du pays.", "Site historique du monde antique.", "Carrefour stratégique sur la Méditerranée."],
     }, image: "/poi-images/benghazi-cities-v2.webp"},
   {
-    id: "misrata-cities-v2", "sights": {"de": [{"name": "Martyrs Exhibition", "text": "Museum in Misrata.", "category": "museum", "coords": [15.080692, 32.366708]}, {"name": "Historical Museum", "text": "Historisches Museum in Misrata.", "category": "museum", "coords": [15.090913, 32.375029]}, {"name": "Qzeer Martyrs Memorial", "text": "Das نصب تذكاري شهداء قزير ist eine ehrwürdige historische Stätte in der Stadt Misrata. Dieses Denkmal erinnert an bedeutende Ereignisse der Vergangenheit und ist fest im libyschen Bewusstsein verankert. Für Besucher bietet sich hier ein Ort des Respekts und der geschichtlichen Reflexion.", "category": "historical", "coords": [15.078408, 32.351618]}, {"name": "Smart Tech Security and Surveillance Systems", "text": "Unter dem Namen شركة التقنية الذكية ﻷنظمة الحماية والمراقبة findet sich ein außergewöhnlicher natürlicher Aussichtspunkt in Misrata. Der Ort bietet Reisenden die Gelegenheit, ihren Blick über Teile der libyschen Umgebung schweifen zu lassen. Ein Besuch lohnt sich für alle, die eine besondere Perspektive auf die Stadt suchen.", "category": "natural", "coords": [15.097305, 32.378596]}, {"name": "Stone Revolution Island", "text": "Mit der جزيرة ثورة الحجارة verfügt Misrata über ein bemerkenswertes historisches Denkmal. Es prägt das Straßenbild der libyschen Stadt und zieht die Blicke von Passanten auf sich. Interessierte können hier ein Stück steinerne Stadtgeschichte im Vorbeigehen erleben.", "category": "historical", "coords": [15.098999, 32.377284]}, {"name": "Home", "text": "Die Sehenswürdigkeit Home ist eine lokale Attraktion in der Stadt Misrata. Dieses städtische Wahrzeichen bereichert das Straßenbild und weckt die Neugier der Touristen. Besucher Libyens können sich auf einen interessanten Anlaufpunkt innerhalb der Gemeinde freuen.", "category": "landmark", "coords": [15.115834, 32.39073]}, {"name": "Happy Family Island", "text": "Denkmal am Kreisverkehr in Misrata.", "category": "historical", "coords": [15.102782, 32.37675]}, {"name": "Asswehly Club", "text": "Club in Misrata.", "category": "landmark", "coords": [15.096278, 32.38738]}, {"name": "Qadah Island", "text": "Denkmal am Kreisverkehr in Misrata.", "category": "historical", "coords": [15.076029, 32.393097]}, {"name": "The Fridge", "text": "Bei الثلاجة handelt es sich um eine markante Attraktion im libyschen Misrata. Das Wahrzeichen hebt sich deutlich von seiner Umgebung ab und dient vielen als Orientierungspunkt. Bei einem Spaziergang durch die Stadt kann man dieses charakteristische Bauwerk kaum übersehen.", "category": "landmark", "coords": [15.104135, 32.392057]}, {"name": "Children's Land", "text": "Freizeitattraktion in Misrata.", "category": "landmark", "coords": [15.1112, 32.357249]}, {"name": "Awlad Ba'iyo Cemetery", "text": "Die historische Stätte مقبرة اولاد بعيو fungiert als ehrwürdiges Denkmal in Misrata. Auf diesem Gelände wird die weitreichende Geschichte der libyschen Stadt greifbar gemacht. Besucher erleben einen ruhigen Ort, der zum Nachdenken über die lokale Vergangenheit anregt.", "category": "historical", "coords": [15.082662, 32.376892]}, {"name": "Sama International", "text": "Die Attraktion سما الدوليه stellt einen markanten Orientierungspunkt im Stadtbild von Misrata dar. Besucher können an diesem Wahrzeichen in Libyen die lokale Atmosphäre auf sich wirken lassen.", "category": "landmark", "coords": [15.103131, 32.351317]}, {"name": "Children's Land Park", "text": "Der Aussichtspunkt منتزه أرض الأطفال bietet eine naturnahe Umgebung inmitten von Misrata. Dieser Ort in Libyen lädt Besucher dazu ein, den Blick über die weite Stadtlandschaft schweifen zu lassen.", "category": "natural", "coords": [15.109604, 32.356975]}, {"name": "Speed Bump Street", "text": "In der Stadt Misrata befindet sich شارع المطبات, ein Ort, der als natürlicher Aussichtspunkt fungiert. Von hier aus können Interessierte die Besonderheiten dieser Gegend in Libyen betrachten.", "category": "natural", "coords": [15.074293, 32.375467]}, {"name": "Frayfer Roundabout", "text": "Das historische Denkmal جزيرة دوران فريفر erinnert an die Vergangenheit der Stadt Misrata. Bei einem Besuch dieses libyschen Denkmals lässt sich ein Stück lokale Geschichte entdecken.", "category": "historical", "coords": [15.079567, 32.384193]}, {"name": "Blood Island", "text": "Ein weiteres bedeutendes Denkmal in Misrata ist جزيرة الدم, welches historische Bedeutung trägt. Diese Gedenkstätte in Libyen bietet Besuchern einen Ort der Reflexion.", "category": "historical", "coords": [15.110561, 32.38327]}, {"name": "Farhat Chocolate", "text": "Die Landmarke فرحات شكولاته ist ein bekannter Anlaufpunkt in den Straßen von Misrata. Für Touristen und Einheimische gleichermaßen ist diese libysche Attraktion ein interessanter Halt.", "category": "landmark", "coords": [15.07248, 32.376308]}, {"name": "Nidal Al-Astal House", "text": "Der Aussichtspunkt منزل نضال الأسطى fügt sich als natürlicher Bezugspunkt in das Stadtbild von Misrata ein. Von dieser libyschen Sehenswürdigkeit aus können Gäste die umliegende Region überblicken.", "category": "natural", "coords": [15.090545, 32.387235]}], "hu": [{"name": "Martyrs Exhibition", "text": "Múzeum Misratában.", "category": "museum", "coords": [15.080692, 32.366708]}, {"name": "Historical Museum", "text": "Történelmi múzeum Misratában.", "category": "museum", "coords": [15.090913, 32.375029]}, {"name": "Qzeer Martyrs Memorial", "text": "A نصب تذكاري شهداء قزير egy tiszteletreméltó történelmi helyszín Miszráta városában. Ez az emlékmű a múlt jelentős eseményeire emlékeztet, és szilárdan gyökerezik a líbiai köztudatban. A látogatók számára ez a tisztelet és a történelmi elmélkedés helyszíne.", "category": "historical", "coords": [15.078408, 32.351618]}, {"name": "Smart Tech Security and Surveillance Systems", "text": "A شركة التقنية الذكية ﻷنظمة الحماية والمراقبة néven egy szokatlan természetes kilátóhely található Miszrátában. A helyszín lehetőséget kínál az utazóknak, hogy tekintetüket végigfuttassák a líbiai környezet egyes részein. A látogatás mindenki számára megéri, aki egy különleges perspektívából szeretné látni a várost.", "category": "natural", "coords": [15.097305, 32.378596]}, {"name": "Stone Revolution Island", "text": "A جزيرة ثورة الحجارة révén Miszráta egy figyelemre méltó történelmi emlékművel büszkélkedhet. Meghatározza a líbiai város utcaképét, és vonzza a járókelők tekintetét. Az érdeklődők itt séta közben tapasztalhatják meg a város kőbe zárt történelmének egy darabját.", "category": "historical", "coords": [15.098999, 32.377284]}, {"name": "Home", "text": "A Home nevű látványosság egy helyi attrakció Miszráta városában. Ez a városi nevezetesség gazdagítja az utcaképet, és felkelti a turisták kíváncsiságát. A Líbiába látogatók egy érdekes tájékozódási pontra számíthatnak a közösségen belül.", "category": "landmark", "coords": [15.115834, 32.39073]}, {"name": "Happy Family Island", "text": "Emlékmű Misratában.", "category": "historical", "coords": [15.102782, 32.37675]}, {"name": "Asswehly Club", "text": "Klub Misratában.", "category": "landmark", "coords": [15.096278, 32.38738]}, {"name": "Qadah Island", "text": "Emlékmű Misratában.", "category": "historical", "coords": [15.076029, 32.393097]}, {"name": "The Fridge", "text": "A الثلاجة egy feltűnő látványosság a líbiai Miszrátában. A nevezetesség egyértelműen kiemelkedik a környezetéből, és sokak számára tájékozódási pontként szolgál. Egy városi séta során aligha lehet figyelmen kívül hagyni ezt a jellegzetes építményt.", "category": "landmark", "coords": [15.104135, 32.392057]}, {"name": "Children's Land", "text": "Szabadidős látnivaló Misratában.", "category": "landmark", "coords": [15.1112, 32.357249]}, {"name": "Awlad Ba'iyo Cemetery", "text": "A مقبرة اولاد بعيو történelmi helyszín tiszteletreméltó emlékműként funkcionál Miszrátában. Ezen a területen a líbiai város nagy múltú történelme válik kézzelfoghatóvá. A látogatók egy csendes helyet tapasztalhatnak meg, amely a helyi múlton való elmélkedésre ösztönöz.", "category": "historical", "coords": [15.082662, 32.376892]}, {"name": "Sama International", "text": "A سما الدوليه egy figyelemre méltó tájékozódási pont és látványosság Miszráta városában. Az ide látogatók közelebbről is megismerkedhetnek Líbia ezen egyedi nevezetességével.", "category": "landmark", "coords": [15.103131, 32.351317]}, {"name": "Children's Land Park", "text": "A منتزه أرض الأطفال nevű kilátó egy természetes környezetet kínál Miszráta szívében. Ez a líbiai hely arra csábítja a látogatókat, hogy megcsodálják a városképet.", "category": "natural", "coords": [15.109604, 32.356975]}, {"name": "Speed Bump Street", "text": "Miszráta városában található a شارع المطبات, egy természetes kilátóként is funkcionáló pont. Innen az érdeklődők nyugodtan megtekinthetik e líbiai környék sajátosságait.", "category": "natural", "coords": [15.074293, 32.375467]}, {"name": "Frayfer Roundabout", "text": "A történelmi جزيرة دوران فريفر emlékmű Miszráta múltját idézi fel. Ezen a líbiai emlékhelyen a látogatók a helyi történelem egy darabkáját fedezhetik fel.", "category": "historical", "coords": [15.079567, 32.384193]}, {"name": "Blood Island", "text": "Egy másik jelentős történelmi emlékhely Miszráta városában a جزيرة الدم. Ez a líbiai emlékmű elmélkedésre ösztönzi az ide érkezőket.", "category": "historical", "coords": [15.110561, 32.38327]}, {"name": "Farhat Chocolate", "text": "A فرحات شكولاته egy jól ismert tájékozódási pont Miszráta utcáin. Turisták és helyiek számára egyaránt érdekes megállóhely ez a líbiai látványosság.", "category": "landmark", "coords": [15.07248, 32.376308]}, {"name": "Nidal Al-Astal House", "text": "A منزل نضال الأسطى nevű kilátó természetes támpontként illeszkedik Miszráta városképébe. Ebből a líbiai nevezetességből a vendégek áttekinthetik a környező régiót.", "category": "natural", "coords": [15.090545, 32.387235]}], "ro": [{"name": "Martyrs Exhibition", "text": "Muzeu în Misrata.", "category": "museum", "coords": [15.080692, 32.366708]}, {"name": "Historical Museum", "text": "Muzeu istoric în Misrata.", "category": "museum", "coords": [15.090913, 32.375029]}, {"name": "Qzeer Martyrs Memorial", "text": "نصب تذكاري شهداء قزير este un loc istoric venerabil din orașul Misrata. Acest monument comemorează evenimente semnificative din trecut și este adânc înrădăcinat în conștiința libiană. Vizitatorilor li se oferă aici un loc de respect și reflecție istorică.", "category": "historical", "coords": [15.078408, 32.351618]}, {"name": "Smart Tech Security and Surveillance Systems", "text": "Sub numele de شركة التقنية الذكية ﻷنظمة الحماية والمراقبة veți găsi un punct de observație natural neobișnuit în Misrata. Locația oferă călătorilor oportunitatea de a privi peste părți ale împrejurimilor libiene. O vizită merită pentru oricine caută o perspectivă specială asupra orașului.", "category": "natural", "coords": [15.097305, 32.378596]}, {"name": "Stone Revolution Island", "text": "Cu جزيرة ثورة الحجارة, Misrata are un monument istoric remarcabil. Acesta caracterizează peisajul stradal al orașului libian și atrage privirile trecătorilor. Cei interesați pot experimenta aici o bucată din istoria de piatră a orașului în trecere.", "category": "historical", "coords": [15.098999, 32.377284]}, {"name": "Home", "text": "Atracția Home este o atracție locală din orașul Misrata. Acest reper urban îmbogățește peisajul stradal și trezește curiozitatea turiștilor. Vizitatorii Libiei pot aștepta cu nerăbdare un punct focal interesant în cadrul comunității.", "category": "landmark", "coords": [15.115834, 32.39073]}, {"name": "Happy Family Island", "text": "Monument în Misrata.", "category": "historical", "coords": [15.102782, 32.37675]}, {"name": "Asswehly Club", "text": "Club în Misrata.", "category": "landmark", "coords": [15.096278, 32.38738]}, {"name": "Qadah Island", "text": "Monument în Misrata.", "category": "historical", "coords": [15.076029, 32.393097]}, {"name": "The Fridge", "text": "الثلاجة este o atracție marcantă în Misrata din Libia. Reperul iese clar în evidență față de împrejurimile sale și servește ca punct de orientare pentru mulți. În timpul unei plimbări prin oraș, este greu de ratat această structură caracteristică.", "category": "landmark", "coords": [15.104135, 32.392057]}, {"name": "Children's Land", "text": "Atracție de agrement în Misrata.", "category": "landmark", "coords": [15.1112, 32.357249]}, {"name": "Awlad Ba'iyo Cemetery", "text": "Situl istoric مقبرة اولاد بعيو funcționează ca un monument venerabil în Misrata. Istoria vastă a orașului libian devine tangibilă pe acest tărâm. Vizitatorii experimentează un loc liniștit care încurajează reflecția asupra trecutului local.", "category": "historical", "coords": [15.082662, 32.376892]}, {"name": "Sama International", "text": "Atracția سما الدوليه reprezintă un punct de reper notabil în peisajul urban din Misrata. Vizitatorii pot simți atmosfera locală la acest obiectiv interesant din Libia.", "category": "landmark", "coords": [15.103131, 32.351317]}, {"name": "Children's Land Park", "text": "Punctul de belvedere منتزه أرض الأطفال oferă un cadru natural în inima orașului Misrata. Acest loc din Libia invită vizitatorii să admire priveliștile asupra peisajului urban.", "category": "natural", "coords": [15.109604, 32.356975]}, {"name": "În orașul Misrata", "text": "În orașul Misrata se află شارع المطبات, un loc care funcționează ca un punct de observare natural. De aici, cei interesați pot admira particularitățile acestei zone din Libia.", "category": "natural", "coords": [15.074293, 32.375467]}, {"name": "Frayfer Roundabout", "text": "Monumentul istoric جزيرة دوران فريفر amintește de trecutul orașului Misrata. Vizitând acest memorial din Libia, se poate descoperi o parte din istoria locală.", "category": "historical", "coords": [15.079567, 32.384193]}, {"name": "Un alt monument important în Misrata", "text": "Un alt monument important în Misrata este جزيرة الدم, un loc cu o puternică semnificație istorică. Acest memorial din Libia oferă vizitatorilor un spațiu de reflecție.", "category": "historical", "coords": [15.110561, 32.38327]}, {"name": "Farhat Chocolate", "text": "Reperul فرحات شكولاته este un punct de atracție cunoscut pe străzile din Misrata. Atât pentru turiști, cât și pentru localnici, această atracție libiană reprezintă o oprire interesantă.", "category": "landmark", "coords": [15.07248, 32.376308]}, {"name": "Nidal Al-Astal House", "text": "Punctul de observare منزل نضال الأسطى se integrează ca un reper natural în peisajul din Misrata. De la această atracție din Libia, oaspeții pot privi spre regiunea înconjurătoare.", "category": "natural", "coords": [15.090545, 32.387235]}], "en": [{"name": "Martyrs monument", "text": "Museum in Misrata.", "category": "museum", "coords": [15.080692, 32.366708]}, {"name": "Historical Museum", "text": "Historical museum in Misrata.", "category": "museum", "coords": [15.090913, 32.375029]}, {"name": "Qzeer Martyrs Memorial", "text": "The نصب تذكاري شهداء قزير is a venerable historical site in the city of Misrata. This memorial commemorates significant events of the past and is firmly rooted in Libyan consciousness. For visitors, it offers a place of respect and historical reflection.", "category": "historical", "coords": [15.078408, 32.351618]}, {"name": "Smart Technology Company for Protection and Monitoring Systems", "text": "Under the name شركة التقنية الذكية ﻷنظمة الحماية والمراقبة, you will find an unusual natural viewpoint in Misrata. The location offers travelers the opportunity to cast their gaze over parts of the Libyan surroundings. A visit is worthwhile for anyone looking for a special perspective on the city.", "category": "natural", "coords": [15.097305, 32.378596]}, {"name": "Stone Revolution Island", "text": "With the جزيرة ثورة الحجارة, Misrata boasts a remarkable historical monument. It characterizes the streetscape of the Libyan city and attracts the attention of passers-by. Those interested can experience a piece of the city's stone history here in passing.", "category": "historical", "coords": [15.098999, 32.377284]}, {"name": "Home", "text": "The landmark Home is a local attraction in the city of Misrata. This urban landmark enriches the streetscape and arouses the curiosity of tourists. Visitors to Libya can look forward to an interesting focal point within the community.", "category": "landmark", "coords": [15.115834, 32.39073]}, {"name": "Roundabout", "text": "Monument in Misrata.", "category": "historical", "coords": [15.102782, 32.37675]}, {"name": "Asswehly Club", "text": "Attraction in Misrata.", "category": "landmark", "coords": [15.096278, 32.38738]}, {"name": "Gadah roundabout", "text": "Monument in Misrata.", "category": "historical", "coords": [15.076029, 32.393097]}, {"name": "The Fridge", "text": "الثلاجة is a striking attraction in Misrata, Libya. The landmark clearly stands out from its surroundings and serves as an orientation point for many. During a walk through the city, it is hard to miss this characteristic structure.", "category": "landmark", "coords": [15.104135, 32.392057]}, {"name": "Children's Land", "text": "Attraction in Misrata.", "category": "landmark", "coords": [15.1112, 32.357249]}, {"name": "Awlad Ba'iyo Cemetery", "text": "The historical site مقبرة اولاد بعيو functions as a venerable monument in Misrata. The far-reaching history of the Libyan city is made tangible on these grounds. Visitors experience a quiet place that encourages reflection on the local past.", "category": "historical", "coords": [15.082662, 32.376892]}, {"name": "Sama", "text": "The landmark سما الدوليه stands as a notable point of interest within the cityscape of Misrata. Visitors to this Libyan attraction can take in the local atmosphere.", "category": "landmark", "coords": [15.103131, 32.351317]}, {"name": "Children's Land Park", "text": "The natural viewpoint of منتزه أرض الأطفال offers an outdoor setting amidst the urban environment of Misrata. This location in Libya invites visitors to take in views across the city.", "category": "natural", "coords": [15.109604, 32.356975]}, {"name": "Speed Bump Street", "text": "Located in the city of Misrata, شارع المطبات functions as a natural viewing area. From this vantage point, sightseers can observe the characteristics of this Libyan locale.", "category": "natural", "coords": [15.074293, 32.375467]}, {"name": "Frayfer Roundabout", "text": "The historical monument جزيرة دوران فريفر serves as a reminder of the past in Misrata. A visit to this Libyan memorial allows one to uncover a piece of local history.", "category": "historical", "coords": [15.079567, 32.384193]}, {"name": "Blood Island", "text": "Another significant monument in Misrata is جزيرة الدم, a site bearing historical importance. This Libyan memorial provides visitors with a place for reflection.", "category": "historical", "coords": [15.110561, 32.38327]}, {"name": "Farhat Chocolate", "text": "The landmark فرحات شكولاته is a recognized point of interest on the streets of Misrata. For tourists and locals alike, this Libyan attraction makes for an interesting stop.", "category": "landmark", "coords": [15.07248, 32.376308]}, {"name": "Nidal Al-Astal House", "text": "The viewing point of منزل نضال الأسطى fits into the cityscape of Misrata as a natural reference point. From this Libyan sight, guests can look out over the surrounding region.", "category": "natural", "coords": [15.090545, 32.387235]}]},
+    id: "misrata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Martyrs Exhibition",
+                  "text": "Das Märtyrerdenkmal in Misrata ist ein Museum, das den Gefallenen des Aufstands von 2011 gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Das Historische Museum in Misrata zeigt Artefakte aus der antiken und modernen Geschichte der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "Qzeer Martyrs Memorial",
+                  "text": "Das نصب تذكاري شهداء قزير ist eine ehrwürdige historische Stätte in der Stadt Misrata. Dieses Denkmal erinnert an bedeutende Ereignisse der Vergangenheit und ist fest im libyschen Bewusstsein verankert. Für Besucher bietet sich hier ein Ort des Respekts und der geschichtlichen Reflexion.",
+                  "category": "historical",
+                  "coords": [
+                        15.078408,
+                        32.351618
+                  ]
+            },
+            {
+                  "name": "Smart Tech Security and Surveillance Systems",
+                  "text": "Unter dem Namen شركة التقنية الذكية ﻷنظمة الحماية والمراقبة findet sich ein außergewöhnlicher natürlicher Aussichtspunkt in Misrata. Der Ort bietet Reisenden die Gelegenheit, ihren Blick über Teile der libyschen Umgebung schweifen zu lassen. Ein Besuch lohnt sich für alle, die eine besondere Perspektive auf die Stadt suchen.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "Stone Revolution Island",
+                  "text": "Mit der جزيرة ثورة الحجارة verfügt Misrata über ein bemerkenswertes historisches Denkmal. Es prägt das Straßenbild der libyschen Stadt und zieht die Blicke von Passanten auf sich. Interessierte können hier ein Stück steinerne Stadtgeschichte im Vorbeigehen erleben.",
+                  "category": "historical",
+                  "coords": [
+                        15.098999,
+                        32.377284
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Die Sehenswürdigkeit Home ist eine lokale Attraktion in der Stadt Misrata. Dieses städtische Wahrzeichen bereichert das Straßenbild und weckt die Neugier der Touristen. Besucher Libyens können sich auf einen interessanten Anlaufpunkt innerhalb der Gemeinde freuen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "Happy Family Island",
+                  "text": "Der Kreisverkehr in Misrata ist ein historischer Verkehrsknotenpunkt, der während des Konflikts 2011 eine Schlüsselrolle spielte.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "Asswehly Club",
+                  "text": "Der Asswehly Club in Misrata ist ein historischer Fußballverein und eine Sportstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096278,
+                        32.38738
+                  ]
+            },
+            {
+                  "name": "Qadah Island",
+                  "text": "Der Gadah-Kreisverkehr in Misrata ist ein historischer Kreisverkehr, der eine wichtige Kreuzung markiert.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "The Fridge",
+                  "text": "Bei الثلاجة handelt es sich um eine markante Attraktion im libyschen Misrata. Das Wahrzeichen hebt sich deutlich von seiner Umgebung ab und dient vielen als Orientierungspunkt. Bei einem Spaziergang durch die Stadt kann man dieses charakteristische Bauwerk kaum übersehen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.104135,
+                        32.392057
+                  ]
+            },
+            {
+                  "name": "Children's Land",
+                  "text": "Das Kinderland in Misrata ist ein Erholungsgebiet für Familien mit Spielgeräten und Grünflächen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1112,
+                        32.357249
+                  ]
+            },
+            {
+                  "name": "Awlad Ba'iyo Cemetery",
+                  "text": "Die historische Stätte مقبرة اولاد بعيو fungiert als ehrwürdiges Denkmal in Misrata. Auf diesem Gelände wird die weitreichende Geschichte der libyschen Stadt greifbar gemacht. Besucher erleben einen ruhigen Ort, der zum Nachdenken über die lokale Vergangenheit anregt.",
+                  "category": "historical",
+                  "coords": [
+                        15.082662,
+                        32.376892
+                  ]
+            },
+            {
+                  "name": "Sama International",
+                  "text": "Die Attraktion سما الدوليه stellt einen markanten Orientierungspunkt im Stadtbild von Misrata dar. Besucher können an diesem Wahrzeichen in Libyen die lokale Atmosphäre auf sich wirken lassen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "Children's Land Park",
+                  "text": "Der Aussichtspunkt منتزه أرض الأطفال bietet eine naturnahe Umgebung inmitten von Misrata. Dieser Ort in Libyen lädt Besucher dazu ein, den Blick über die weite Stadtlandschaft schweifen zu lassen.",
+                  "category": "natural",
+                  "coords": [
+                        15.109604,
+                        32.356975
+                  ]
+            },
+            {
+                  "name": "Speed Bump Street",
+                  "text": "In der Stadt Misrata befindet sich شارع المطبات, ein Ort, der als natürlicher Aussichtspunkt fungiert. Von hier aus können Interessierte die Besonderheiten dieser Gegend in Libyen betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        15.074293,
+                        32.375467
+                  ]
+            },
+            {
+                  "name": "Frayfer Roundabout",
+                  "text": "Das historische Denkmal جزيرة دوران فريفر erinnert an die Vergangenheit der Stadt Misrata. Bei einem Besuch dieses libyschen Denkmals lässt sich ein Stück lokale Geschichte entdecken.",
+                  "category": "historical",
+                  "coords": [
+                        15.079567,
+                        32.384193
+                  ]
+            },
+            {
+                  "name": "Blood Island",
+                  "text": "Ein weiteres bedeutendes Denkmal in Misrata ist جزيرة الدم, welches historische Bedeutung trägt. Diese Gedenkstätte in Libyen bietet Besuchern einen Ort der Reflexion.",
+                  "category": "historical",
+                  "coords": [
+                        15.110561,
+                        32.38327
+                  ]
+            },
+            {
+                  "name": "Farhat Chocolate",
+                  "text": "Die Landmarke فرحات شكولاته ist ein bekannter Anlaufpunkt in den Straßen von Misrata. Für Touristen und Einheimische gleichermaßen ist diese libysche Attraktion ein interessanter Halt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.07248,
+                        32.376308
+                  ]
+            },
+            {
+                  "name": "Nidal Al-Astal House",
+                  "text": "Der Aussichtspunkt منزل نضال الأسطى fügt sich als natürlicher Bezugspunkt in das Stadtbild von Misrata ein. Von dieser libyschen Sehenswürdigkeit aus können Gäste die umliegende Region überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        15.090545,
+                        32.387235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Martyrs Exhibition",
+                  "text": "A vértanúk emlékműve Misratában egy múzeum, amely a 2011-es felkelés áldozatainak emléket állít.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "A Történelmi Múzeum Misratában a város ókori és modern múltjából származó tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "Qzeer Martyrs Memorial",
+                  "text": "A نصب تذكاري شهداء قزير egy tiszteletreméltó történelmi helyszín Miszráta városában. Ez az emlékmű a múlt jelentős eseményeire emlékeztet, és szilárdan gyökerezik a líbiai köztudatban. A látogatók számára ez a tisztelet és a történelmi elmélkedés helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        15.078408,
+                        32.351618
+                  ]
+            },
+            {
+                  "name": "Smart Tech Security and Surveillance Systems",
+                  "text": "A شركة التقنية الذكية ﻷنظمة الحماية والمراقبة néven egy szokatlan természetes kilátóhely található Miszrátában. A helyszín lehetőséget kínál az utazóknak, hogy tekintetüket végigfuttassák a líbiai környezet egyes részein. A látogatás mindenki számára megéri, aki egy különleges perspektívából szeretné látni a várost.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "Stone Revolution Island",
+                  "text": "A جزيرة ثورة الحجارة révén Miszráta egy figyelemre méltó történelmi emlékművel büszkélkedhet. Meghatározza a líbiai város utcaképét, és vonzza a járókelők tekintetét. Az érdeklődők itt séta közben tapasztalhatják meg a város kőbe zárt történelmének egy darabját.",
+                  "category": "historical",
+                  "coords": [
+                        15.098999,
+                        32.377284
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "A Home nevű látványosság egy helyi attrakció Miszráta városában. Ez a városi nevezetesség gazdagítja az utcaképet, és felkelti a turisták kíváncsiságát. A Líbiába látogatók egy érdekes tájékozódási pontra számíthatnak a közösségen belül.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "Happy Family Island",
+                  "text": "A körforgalom Misratában egy történelmi közlekedési csomópont, amely kulcsszerepet játszott a 2011-es konfliktus során.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "Asswehly Club",
+                  "text": "Az Asswehly Club Misratában egy történelmi futballklub és sportlétesítmény.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096278,
+                        32.38738
+                  ]
+            },
+            {
+                  "name": "Qadah Island",
+                  "text": "A Gadah körforgalom Misratában egy történelmi körforgalom, amely fontos útkereszteződést jelöl.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "The Fridge",
+                  "text": "A الثلاجة egy feltűnő látványosság a líbiai Miszrátában. A nevezetesség egyértelműen kiemelkedik a környezetéből, és sokak számára tájékozódási pontként szolgál. Egy városi séta során aligha lehet figyelmen kívül hagyni ezt a jellegzetes építményt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.104135,
+                        32.392057
+                  ]
+            },
+            {
+                  "name": "Children's Land",
+                  "text": "A Gyermekföld Misratában egy családi szórakoztató terület játszótérrel és zöldterületekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1112,
+                        32.357249
+                  ]
+            },
+            {
+                  "name": "Awlad Ba'iyo Cemetery",
+                  "text": "A مقبرة اولاد بعيو történelmi helyszín tiszteletreméltó emlékműként funkcionál Miszrátában. Ezen a területen a líbiai város nagy múltú történelme válik kézzelfoghatóvá. A látogatók egy csendes helyet tapasztalhatnak meg, amely a helyi múlton való elmélkedésre ösztönöz.",
+                  "category": "historical",
+                  "coords": [
+                        15.082662,
+                        32.376892
+                  ]
+            },
+            {
+                  "name": "Sama International",
+                  "text": "A سما الدوليه egy figyelemre méltó tájékozódási pont és látványosság Miszráta városában. Az ide látogatók közelebbről is megismerkedhetnek Líbia ezen egyedi nevezetességével.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "Children's Land Park",
+                  "text": "A منتزه أرض الأطفال nevű kilátó egy természetes környezetet kínál Miszráta szívében. Ez a líbiai hely arra csábítja a látogatókat, hogy megcsodálják a városképet.",
+                  "category": "natural",
+                  "coords": [
+                        15.109604,
+                        32.356975
+                  ]
+            },
+            {
+                  "name": "Speed Bump Street",
+                  "text": "Miszráta városában található a شارع المطبات, egy természetes kilátóként is funkcionáló pont. Innen az érdeklődők nyugodtan megtekinthetik e líbiai környék sajátosságait.",
+                  "category": "natural",
+                  "coords": [
+                        15.074293,
+                        32.375467
+                  ]
+            },
+            {
+                  "name": "Frayfer Roundabout",
+                  "text": "A történelmi جزيرة دوران فريفر emlékmű Miszráta múltját idézi fel. Ezen a líbiai emlékhelyen a látogatók a helyi történelem egy darabkáját fedezhetik fel.",
+                  "category": "historical",
+                  "coords": [
+                        15.079567,
+                        32.384193
+                  ]
+            },
+            {
+                  "name": "Blood Island",
+                  "text": "Egy másik jelentős történelmi emlékhely Miszráta városában a جزيرة الدم. Ez a líbiai emlékmű elmélkedésre ösztönzi az ide érkezőket.",
+                  "category": "historical",
+                  "coords": [
+                        15.110561,
+                        32.38327
+                  ]
+            },
+            {
+                  "name": "Farhat Chocolate",
+                  "text": "A فرحات شكولاته egy jól ismert tájékozódási pont Miszráta utcáin. Turisták és helyiek számára egyaránt érdekes megállóhely ez a líbiai látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        15.07248,
+                        32.376308
+                  ]
+            },
+            {
+                  "name": "Nidal Al-Astal House",
+                  "text": "A منزل نضال الأسطى nevű kilátó természetes támpontként illeszkedik Miszráta városképébe. Ebből a líbiai nevezetességből a vendégek áttekinthetik a környező régiót.",
+                  "category": "natural",
+                  "coords": [
+                        15.090545,
+                        32.387235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Martyrs Exhibition",
+                  "text": "Monumentul Martirilor din Misrata este un muzeu dedicat celor căzuți în revolta din 2011.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Muzeul Istoric din Misrata expune artefacte din trecutul antic și modern al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "Qzeer Martyrs Memorial",
+                  "text": "نصب تذكاري شهداء قزير este un loc istoric venerabil din orașul Misrata. Acest monument comemorează evenimente semnificative din trecut și este adânc înrădăcinat în conștiința libiană. Vizitatorilor li se oferă aici un loc de respect și reflecție istorică.",
+                  "category": "historical",
+                  "coords": [
+                        15.078408,
+                        32.351618
+                  ]
+            },
+            {
+                  "name": "Smart Tech Security and Surveillance Systems",
+                  "text": "Sub numele de شركة التقنية الذكية ﻷنظمة الحماية والمراقبة veți găsi un punct de observație natural neobișnuit în Misrata. Locația oferă călătorilor oportunitatea de a privi peste părți ale împrejurimilor libiene. O vizită merită pentru oricine caută o perspectivă specială asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "Stone Revolution Island",
+                  "text": "Cu جزيرة ثورة الحجارة, Misrata are un monument istoric remarcabil. Acesta caracterizează peisajul stradal al orașului libian și atrage privirile trecătorilor. Cei interesați pot experimenta aici o bucată din istoria de piatră a orașului în trecere.",
+                  "category": "historical",
+                  "coords": [
+                        15.098999,
+                        32.377284
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Atracția Home este o atracție locală din orașul Misrata. Acest reper urban îmbogățește peisajul stradal și trezește curiozitatea turiștilor. Vizitatorii Libiei pot aștepta cu nerăbdare un punct focal interesant în cadrul comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "Happy Family Island",
+                  "text": "Sensul giratoriu din Misrata este un nod istoric de trafic care a jucat un rol cheie în timpul conflictului din 2011.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "Asswehly Club",
+                  "text": "Clubul Asswehly din Misrata este un club de fotbal istoric și o instalație sportivă.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096278,
+                        32.38738
+                  ]
+            },
+            {
+                  "name": "Qadah Island",
+                  "text": "Sensul giratoriu Gadah din Misrata este un sens istoric care marchează o intersecție importantă.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "The Fridge",
+                  "text": "الثلاجة este o atracție marcantă în Misrata din Libia. Reperul iese clar în evidență față de împrejurimile sale și servește ca punct de orientare pentru mulți. În timpul unei plimbări prin oraș, este greu de ratat această structură caracteristică.",
+                  "category": "landmark",
+                  "coords": [
+                        15.104135,
+                        32.392057
+                  ]
+            },
+            {
+                  "name": "Children's Land",
+                  "text": "Tara Copiilor din Misrata este o zonă de agrement pentru familii, cu echipamente de joacă și spații verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1112,
+                        32.357249
+                  ]
+            },
+            {
+                  "name": "Awlad Ba'iyo Cemetery",
+                  "text": "Situl istoric مقبرة اولاد بعيو funcționează ca un monument venerabil în Misrata. Istoria vastă a orașului libian devine tangibilă pe acest tărâm. Vizitatorii experimentează un loc liniștit care încurajează reflecția asupra trecutului local.",
+                  "category": "historical",
+                  "coords": [
+                        15.082662,
+                        32.376892
+                  ]
+            },
+            {
+                  "name": "Sama International",
+                  "text": "Atracția سما الدوليه reprezintă un punct de reper notabil în peisajul urban din Misrata. Vizitatorii pot simți atmosfera locală la acest obiectiv interesant din Libia.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "Children's Land Park",
+                  "text": "Punctul de belvedere منتزه أرض الأطفال oferă un cadru natural în inima orașului Misrata. Acest loc din Libia invită vizitatorii să admire priveliștile asupra peisajului urban.",
+                  "category": "natural",
+                  "coords": [
+                        15.109604,
+                        32.356975
+                  ]
+            },
+            {
+                  "name": "În orașul Misrata",
+                  "text": "În orașul Misrata se află شارع المطبات, un loc care funcționează ca un punct de observare natural. De aici, cei interesați pot admira particularitățile acestei zone din Libia.",
+                  "category": "natural",
+                  "coords": [
+                        15.074293,
+                        32.375467
+                  ]
+            },
+            {
+                  "name": "Frayfer Roundabout",
+                  "text": "Monumentul istoric جزيرة دوران فريفر amintește de trecutul orașului Misrata. Vizitând acest memorial din Libia, se poate descoperi o parte din istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        15.079567,
+                        32.384193
+                  ]
+            },
+            {
+                  "name": "Un alt monument important în Misrata",
+                  "text": "Un alt monument important în Misrata este جزيرة الدم, un loc cu o puternică semnificație istorică. Acest memorial din Libia oferă vizitatorilor un spațiu de reflecție.",
+                  "category": "historical",
+                  "coords": [
+                        15.110561,
+                        32.38327
+                  ]
+            },
+            {
+                  "name": "Farhat Chocolate",
+                  "text": "Reperul فرحات شكولاته este un punct de atracție cunoscut pe străzile din Misrata. Atât pentru turiști, cât și pentru localnici, această atracție libiană reprezintă o oprire interesantă.",
+                  "category": "landmark",
+                  "coords": [
+                        15.07248,
+                        32.376308
+                  ]
+            },
+            {
+                  "name": "Nidal Al-Astal House",
+                  "text": "Punctul de observare منزل نضال الأسطى se integrează ca un reper natural în peisajul din Misrata. De la această atracție din Libia, oaspeții pot privi spre regiunea înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        15.090545,
+                        32.387235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Martyrs monument",
+                  "text": "The Martyrs Monument in Misrata is a museum dedicated to those who fell in the 2011 uprising.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "The Historical Museum in Misrata displays artifacts from the city's ancient and modern past.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "Qzeer Martyrs Memorial",
+                  "text": "The نصب تذكاري شهداء قزير is a venerable historical site in the city of Misrata. This memorial commemorates significant events of the past and is firmly rooted in Libyan consciousness. For visitors, it offers a place of respect and historical reflection.",
+                  "category": "historical",
+                  "coords": [
+                        15.078408,
+                        32.351618
+                  ]
+            },
+            {
+                  "name": "Smart Technology Company for Protection and Monitoring Systems",
+                  "text": "Under the name شركة التقنية الذكية ﻷنظمة الحماية والمراقبة, you will find an unusual natural viewpoint in Misrata. The location offers travelers the opportunity to cast their gaze over parts of the Libyan surroundings. A visit is worthwhile for anyone looking for a special perspective on the city.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "Stone Revolution Island",
+                  "text": "With the جزيرة ثورة الحجارة, Misrata boasts a remarkable historical monument. It characterizes the streetscape of the Libyan city and attracts the attention of passers-by. Those interested can experience a piece of the city's stone history here in passing.",
+                  "category": "historical",
+                  "coords": [
+                        15.098999,
+                        32.377284
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "The landmark Home is a local attraction in the city of Misrata. This urban landmark enriches the streetscape and arouses the curiosity of tourists. Visitors to Libya can look forward to an interesting focal point within the community.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "Roundabout",
+                  "text": "The Roundabout in Misrata is a historic traffic circle that played a key role during the 2011 conflict.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "Asswehly Club",
+                  "text": "Asswehly Club in Misrata is a historic football club and sports venue.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096278,
+                        32.38738
+                  ]
+            },
+            {
+                  "name": "Gadah roundabout",
+                  "text": "Gadah Roundabout in Misrata is a historic traffic circle marking an important crossroads.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "The Fridge",
+                  "text": "الثلاجة is a striking attraction in Misrata, Libya. The landmark clearly stands out from its surroundings and serves as an orientation point for many. During a walk through the city, it is hard to miss this characteristic structure.",
+                  "category": "landmark",
+                  "coords": [
+                        15.104135,
+                        32.392057
+                  ]
+            },
+            {
+                  "name": "Children's Land",
+                  "text": "Children's Land in Misrata is a recreational area for families, with playground equipment and green spaces.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1112,
+                        32.357249
+                  ]
+            },
+            {
+                  "name": "Awlad Ba'iyo Cemetery",
+                  "text": "The historical site مقبرة اولاد بعيو functions as a venerable monument in Misrata. The far-reaching history of the Libyan city is made tangible on these grounds. Visitors experience a quiet place that encourages reflection on the local past.",
+                  "category": "historical",
+                  "coords": [
+                        15.082662,
+                        32.376892
+                  ]
+            },
+            {
+                  "name": "Sama",
+                  "text": "The landmark سما الدوليه stands as a notable point of interest within the cityscape of Misrata. Visitors to this Libyan attraction can take in the local atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "Children's Land Park",
+                  "text": "The natural viewpoint of منتزه أرض الأطفال offers an outdoor setting amidst the urban environment of Misrata. This location in Libya invites visitors to take in views across the city.",
+                  "category": "natural",
+                  "coords": [
+                        15.109604,
+                        32.356975
+                  ]
+            },
+            {
+                  "name": "Speed Bump Street",
+                  "text": "Located in the city of Misrata, شارع المطبات functions as a natural viewing area. From this vantage point, sightseers can observe the characteristics of this Libyan locale.",
+                  "category": "natural",
+                  "coords": [
+                        15.074293,
+                        32.375467
+                  ]
+            },
+            {
+                  "name": "Frayfer Roundabout",
+                  "text": "The historical monument جزيرة دوران فريفر serves as a reminder of the past in Misrata. A visit to this Libyan memorial allows one to uncover a piece of local history.",
+                  "category": "historical",
+                  "coords": [
+                        15.079567,
+                        32.384193
+                  ]
+            },
+            {
+                  "name": "Blood Island",
+                  "text": "Another significant monument in Misrata is جزيرة الدم, a site bearing historical importance. This Libyan memorial provides visitors with a place for reflection.",
+                  "category": "historical",
+                  "coords": [
+                        15.110561,
+                        32.38327
+                  ]
+            },
+            {
+                  "name": "Farhat Chocolate",
+                  "text": "The landmark فرحات شكولاته is a recognized point of interest on the streets of Misrata. For tourists and locals alike, this Libyan attraction makes for an interesting stop.",
+                  "category": "landmark",
+                  "coords": [
+                        15.07248,
+                        32.376308
+                  ]
+            },
+            {
+                  "name": "Nidal Al-Astal House",
+                  "text": "The viewing point of منزل نضال الأسطى fits into the cityscape of Misrata as a natural reference point. From this Libyan sight, guests can look out over the surrounding region.",
+                  "category": "natural",
+                  "coords": [
+                        15.090545,
+                        32.387235
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-MI",
     coords: [15.0914, 32.3754],
@@ -928,7 +1621,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parlamentsgebäude",
-                  "text": "Das Parlamentsgebäude ist eine schlossartige Struktur in Al-Baida.",
+                  "text": "Das Parlament in Bayda ist eine historische Burg, die als Sitz des libyschen Parlaments diente.",
                   "category": "castle",
                   "coords": [
                         21.74208,
@@ -937,7 +1630,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Ghariqa Brücke",
-                  "text": "Die Al Ghariqa Brücke ist ein bemerkenswerter Aussichtspunkt in Al-Baida.",
+                  "text": "Die Al-Ghariqa-Brücke ist ein natürliches Wahrzeichen nahe Bayda, eine Felsformation, die eine Schlucht überspannt.",
                   "category": "natural",
                   "coords": [
                         21.765412,
@@ -966,7 +1659,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parlament épülete",
-                  "text": "A Parlament épülete egy kastélyszerű építmény Al-Baida városában.",
+                  "text": "A Parlament Baydában egy történelmi vár, amely a líbiai parlament székhelyéül szolgált.",
                   "category": "castle",
                   "coords": [
                         21.74208,
@@ -975,7 +1668,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Ghariqa híd",
-                  "text": "Az Al Ghariqa híd egy nevezetes kilátó Al-Baida városában.",
+                  "text": "Az Al Ghariqa híd egy természeti nevezetesség Bayda közelében, egy sziklaformáció, amely áthidal egy szakadékot.",
                   "category": "natural",
                   "coords": [
                         21.765412,
@@ -1004,7 +1697,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Clădirea Parlamentului",
-                  "text": "Clădirea Parlamentului este o structură asemănătoare unui castel din Al-Baida.",
+                  "text": "Parlamentul din Bayda este un castel istoric care a servit ca sediu al parlamentului libian.",
                   "category": "castle",
                   "coords": [
                         21.74208,
@@ -1013,7 +1706,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Podul Al Ghariqa",
-                  "text": "Podul Al Ghariqa este un punct de belvedere notabil din Al-Baida.",
+                  "text": "Podul Al Ghariqa este un reper natural lângă Bayda, o formațiune stâncoasă care traversează o râpă.",
                   "category": "natural",
                   "coords": [
                         21.765412,
@@ -1042,7 +1735,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parliament",
-                  "text": "The Parliament building is a castle-like structure located in Al-Baida.",
+                  "text": "Parliament in Bayda is a historic castle that served as the seat of the Libyan parliament.",
                   "category": "castle",
                   "coords": [
                         21.74208,
@@ -1051,7 +1744,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Ghariqa Bridge",
-                  "text": "Al Ghariqa Bridge is a notable viewpoint in Al-Baida.",
+                  "text": "Al Ghariqa Bridge is a natural landmark near Bayda, a rock formation spanning a ravine.",
                   "category": "natural",
                   "coords": [
                         21.765412,
@@ -1127,7 +1820,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Alryhana",
-                  "text": "Alryhana ist eine lokale Attraktion in der Stadt Zawia.",
+                  "text": "Alryhana ist ein zentrales Wahrzeichen in Zawiya, im alten Viertel gelegen.",
                   "category": "landmark",
                   "coords": [
                         12.740612,
@@ -1145,7 +1838,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dieser Ort",
-                  "text": "Dieser Ort ist eine bekannte Attraktion in Zawia.",
+                  "text": "Dieser spezifische Ort ist ein bekannter Treffpunkt im Stadtzentrum von Zawiya.",
                   "category": "landmark",
                   "coords": [
                         12.733855,
@@ -1154,7 +1847,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Diese Insel oder dieser Kreisverkehr",
-                  "text": "Diese Insel oder dieser Kreisverkehr ist eine Attraktion in Zawia.",
+                  "text": "Diese Insel oder dieser Kreisverkehr ist ein Verkehrsknotenpunkt in Zawiya, ein zentraler Orientierungspunkt.",
                   "category": "landmark",
                   "coords": [
                         12.727507,
@@ -1163,7 +1856,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dieses lokale Wahrzeichen",
-                  "text": "Dieses lokale Wahrzeichen ist eine anerkannte Attraktion in Zawia.",
+                  "text": "Dieses lokale Wahrzeichen ist ein markantes Gebäude oder Denkmal, das den Charakter von Zawiya prägt.",
                   "category": "landmark",
                   "coords": [
                         12.704695,
@@ -1172,7 +1865,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Diese Sehenswürdigkeit",
-                  "text": "Diese Sehenswürdigkeit ist eine ausgewiesene Attraktion in Zawia.",
+                  "text": "Dieser Punkt von Interesse ist ein wichtiger Ort in Zawiya, der bei Touristen wegen seiner Bedeutung beliebt ist.",
                   "category": "landmark",
                   "coords": [
                         12.736635,
@@ -1183,7 +1876,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Alryhana Island",
-                  "text": "Alryhana egy helyi látványosság Zawia városában.",
+                  "text": "Alryhana egy központi nevezetesség Zawiyában, az óvárosban található.",
                   "category": "landmark",
                   "coords": [
                         12.740612,
@@ -1201,7 +1894,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Ma'askar Island",
-                  "text": "Ez a helyszín egy jól ismert látványosság Zawiában.",
+                  "text": "Ez a konkrét hely egy jól ismert találkozópont Zawiya városközpontjában.",
                   "category": "landmark",
                   "coords": [
                         12.733855,
@@ -1210,7 +1903,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Hwisa Island",
-                  "text": "Ez a sziget vagy körforgalom egy látványosság Zawiában.",
+                  "text": "Ez a sziget vagy körforgalom egy közlekedési csomópont Zawiyában, központi tájékozódási pont.",
                   "category": "landmark",
                   "coords": [
                         12.727507,
@@ -1219,7 +1912,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Rukeena Island",
-                  "text": "Ez a helyi nevezetesség egy elismert látványosság Zawiában.",
+                  "text": "Ez a helyi nevezetesség egy jellegzetes épület vagy emlékmű, amely meghatározza Zawiya karakterét.",
                   "category": "landmark",
                   "coords": [
                         12.704695,
@@ -1228,7 +1921,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Kashif Al-Qana'ah",
-                  "text": "Ez az érdekes hely egy kijelölt látványosság Zawiában.",
+                  "text": "Ez az érdekes pont egy kulcsfontosságú hely Zawiyában, népszerű a turisták körében jelentősége miatt.",
                   "category": "landmark",
                   "coords": [
                         12.736635,
@@ -1239,7 +1932,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Alryhana",
-                  "text": "Alryhana este o atracție locală situată în orașul Zawia.",
+                  "text": "Alryhana este un reper central în Zawiya, situat în cartierul vechi.",
                   "category": "landmark",
                   "coords": [
                         12.740612,
@@ -1257,7 +1950,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Această locație specifică",
-                  "text": "Această locație specifică este o atracție binecunoscută în Zawia.",
+                  "text": "Această locație specifică este un punct de întâlnire bine cunoscut în centrul orașului Zawiya.",
                   "category": "landmark",
                   "coords": [
                         12.733855,
@@ -1266,7 +1959,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Această insulă sau sens giratoriu",
-                  "text": "Această insulă sau sens giratoriu este o atracție notabilă în Zawia.",
+                  "text": "Această insulă sau sens giratoriu este un nod de trafic în Zawiya, un punct central de orientare.",
                   "category": "landmark",
                   "coords": [
                         12.727507,
@@ -1275,7 +1968,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Acest reper local",
-                  "text": "Acest reper local este o atracție recunoscută din Zawia.",
+                  "text": "Acest reper local este o clădire sau monument notabil care definește caracterul orașului Zawiya.",
                   "category": "landmark",
                   "coords": [
                         12.704695,
@@ -1284,7 +1977,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Acest punct de interes",
-                  "text": "Acest punct de interes este o atracție desemnată în Zawia.",
+                  "text": "Acest punct de interes este o locație cheie în Zawiya, populară printre turiști datorită semnificației sale.",
                   "category": "landmark",
                   "coords": [
                         12.736635,
@@ -1295,7 +1988,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Alryhana",
-                  "text": "Alryhana is a local attraction located in the city of Zawia.",
+                  "text": "Alryhana is a central landmark in Zawiya, located in the old quarter.",
                   "category": "landmark",
                   "coords": [
                         12.740612,
@@ -1313,7 +2006,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "This specific location",
-                  "text": "This specific location is a well-known attraction in Zawia.",
+                  "text": "This specific location is a well-known meeting point in Zawiya's city center.",
                   "category": "landmark",
                   "coords": [
                         12.733855,
@@ -1322,7 +2015,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "This island or roundabout",
-                  "text": "This island or roundabout is a notable attraction in Zawia.",
+                  "text": "This island or roundabout is a traffic hub in Zawiya, a central point for navigation.",
                   "category": "landmark",
                   "coords": [
                         12.727507,
@@ -1331,7 +2024,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "This local landmark",
-                  "text": "This local landmark is a recognized attraction situated in Zawia.",
+                  "text": "This local landmark is a notable building or monument that defines the character of Zawiya.",
                   "category": "landmark",
                   "coords": [
                         12.704695,
@@ -1340,7 +2033,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "This point of interest",
-                  "text": "This point of interest is a designated attraction in Zawia.",
+                  "text": "This point of interest is a key location in Zawiya, popular among tourists for its significance.",
                   "category": "landmark",
                   "coords": [
                         12.736635,
@@ -1444,7 +2137,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sirte Theater",
-                  "text": "Das Sirte Theater ist ein lokaler Veranstaltungsort für darstellende Künste in Sirte.",
+                  "text": "Das Sirte Theater ist eine kulturelle Sehenswürdigkeit in Sirte, ein Veranstaltungsort für Theaterstücke und Konzerte.",
                   "category": "cultural",
                   "coords": [
                         16.572443,
@@ -1453,7 +2146,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sirte Beach",
-                  "text": "Der Sirte Beach ist ein beliebtes Küstengebiet und ein Strand in Sirte.",
+                  "text": "Der Sirte Strand ist eine sandige Küste am Mittelmeer in Sirte, beliebt zum Schwimmen und Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         16.569715,
@@ -1462,7 +2155,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Destroyed by Oddyssey Dawn",
-                  "text": "عمارات شارع دبي ist eine Sehenswürdigkeit in der Stadt Sirte.",
+                  "text": "Die Dubai-Straßen-Apartments sind eine bemerkenswerte Wohnanlage in Sirte, bekannt für ihr modernes Design.",
                   "category": "landmark",
                   "coords": [
                         16.583133,
@@ -1471,7 +2164,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Cemetery Street",
-                  "text": "شارع المقبرة ist eine lokale Sehenswürdigkeit in Sirte.",
+                  "text": "Die Friedhofsstraße in Sirte ist eine Straße mit historischen Gräbern und Denkmälern.",
                   "category": "landmark",
                   "coords": [
                         16.592689,
@@ -1480,7 +2173,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Imad Al-Zayani",
-                  "text": "عماد الزياني ist eine bemerkenswerte lokale Attraktion in Sirte.",
+                  "text": "Imad Al-Zayani ist ein Wahrzeichen in Sirte, das dem libyschen Dichter und Schriftsteller gewidmet ist.",
                   "category": "landmark",
                   "coords": [
                         16.594796,
@@ -1498,7 +2191,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mahdi",
-                  "text": "مهدي ist eine Sehenswürdigkeit und Attraktion in Sirte.",
+                  "text": "Mahdi ist ein Wahrzeichen in Sirte, ein bemerkenswerter Ort für Gemeinschaftstreffen.",
                   "category": "landmark",
                   "coords": [
                         16.598937,
@@ -1507,7 +2200,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Khaled",
-                  "text": "خالد ist eine lokale Sehenswürdigkeit in Sirte.",
+                  "text": "Khaled ist ein Wahrzeichen in Sirte, ein bekannter Orientierungspunkt für die Einwohner.",
                   "category": "landmark",
                   "coords": [
                         16.568735,
@@ -1518,7 +2211,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sirte Színház",
-                  "text": "A Sirte Színház egy helyi előadóművészeti helyszín Sirte városában.",
+                  "text": "A Sirte Színház egy kulturális nevezetesség Sirte városában, színdarabok és koncertek helyszíne.",
                   "category": "cultural",
                   "coords": [
                         16.572443,
@@ -1527,7 +2220,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sirte-tengerpart",
-                  "text": "A Sirte-tengerpart egy népszerű partszakasz és strand Sirte városában.",
+                  "text": "A Sirte Beach egy homokos tengerpart a Földközi-tenger mentén Sirte városában, népszerű fürdőzésre és napozásra.",
                   "category": "recreational",
                   "coords": [
                         16.569715,
@@ -1536,7 +2229,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Destroyed by Oddyssey Dawn",
-                  "text": "Az عمارات شارع دبي egy látványosság Sirte városában.",
+                  "text": "A Dubai utcai apartmanok egy figyelemre méltó lakótelep Sirte városában, modern kialakításukról ismertek.",
                   "category": "landmark",
                   "coords": [
                         16.583133,
@@ -1545,7 +2238,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Cemetery Street",
-                  "text": "A شارع المقبرة egy helyi látványosság Sirte területén.",
+                  "text": "A Temető utca Sirte városában egy út, melyet történelmi sírok és emlékművek szegélyeznek.",
                   "category": "landmark",
                   "coords": [
                         16.592689,
@@ -1554,7 +2247,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Imad Al-Zayani",
-                  "text": "Az عماد الزياني egy nevezetes helyi látványosság Sirte városában.",
+                  "text": "Imad Al-Zayani egy nevezetesség Sirte városában, a líbiai költő és író emlékére.",
                   "category": "landmark",
                   "coords": [
                         16.594796,
@@ -1572,7 +2265,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mahdi",
-                  "text": "A مهدي egy érdekes pont és látványosság Sirte városában.",
+                  "text": "Mahdi egy nevezetesség Sirte városában, egy jelentős hely a közösségi összejövetelek számára.",
                   "category": "landmark",
                   "coords": [
                         16.598937,
@@ -1581,7 +2274,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Khaled",
-                  "text": "A خالد egy helyi látványosság Sirte területén.",
+                  "text": "Khaled egy nevezetesség Sirte városában, jól ismert referenciaként a lakosok számára.",
                   "category": "landmark",
                   "coords": [
                         16.568735,
@@ -1592,7 +2285,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatrul Sirte",
-                  "text": "Teatrul Sirte este un loc de artă a spectacolului din Sirte.",
+                  "text": "Teatrul Sirte este un reper cultural din Sirte, un loc pentru piese de teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         16.572443,
@@ -1601,7 +2294,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Plaja Sirte",
-                  "text": "Plaja Sirte este o zonă de coastă și o plajă populară din Sirte.",
+                  "text": "Plaja Sirte este o coastă nisipoasă de-a lungul Mării Mediterane în Sirte, populară pentru înot și plajă.",
                   "category": "recreational",
                   "coords": [
                         16.569715,
@@ -1610,7 +2303,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Destroyed by Oddyssey Dawn",
-                  "text": "عمارات شارع دبي este o atracție din orașul Sirte.",
+                  "text": "Apartamentele de pe Strada Dubai sunt un complex rezidențial notabil în Sirte, cunoscut pentru designul modern.",
                   "category": "landmark",
                   "coords": [
                         16.583133,
@@ -1619,7 +2312,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Cemetery Street",
-                  "text": "شارع المقبرة este o atracție locală din Sirte.",
+                  "text": "Strada Cimitirului din Sirte este un drum flancat de morminte istorice și monumente.",
                   "category": "landmark",
                   "coords": [
                         16.592689,
@@ -1628,7 +2321,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Imad Al-Zayani",
-                  "text": "عماد الزياني este o atracție locală notabilă din Sirte.",
+                  "text": "Imad Al-Zayani este un reper în Sirte, dedicat poetului și scriitorului libian.",
                   "category": "landmark",
                   "coords": [
                         16.594796,
@@ -1646,7 +2339,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mahdi",
-                  "text": "مهدي este un punct de interes și o atracție în Sirte.",
+                  "text": "Mahdi este un reper în Sirte, un loc notabil pentru întruniri comunitare.",
                   "category": "landmark",
                   "coords": [
                         16.598937,
@@ -1655,7 +2348,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Khaled",
-                  "text": "خالد este o atracție locală găsită în Sirte.",
+                  "text": "Khaled este un reper în Sirte, un punct de referință bine cunoscut pentru locuitori.",
                   "category": "landmark",
                   "coords": [
                         16.568735,
@@ -1666,7 +2359,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sirte Theater",
-                  "text": "Sirte Theater is a local performing arts venue in Sirte.",
+                  "text": "Sirte Theater is a cultural landmark in Sirte, a venue for plays and concerts.",
                   "category": "cultural",
                   "coords": [
                         16.572443,
@@ -1675,7 +2368,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sirte Beach",
-                  "text": "Sirte Beach is a popular coastal area and beach in Sirte.",
+                  "text": "Sirte Beach is a sandy coastline along the Mediterranean Sea in Sirte, popular for swimming and sunbathing.",
                   "category": "recreational",
                   "coords": [
                         16.569715,
@@ -1684,7 +2377,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dubai Street Apartments",
-                  "text": "عمارات شارع دبي is an attraction found in the city of Sirte.",
+                  "text": "Dubai Street Apartments are a notable residential complex in Sirte, known for their modern design.",
                   "category": "landmark",
                   "coords": [
                         16.583133,
@@ -1693,7 +2386,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Cemetery Street",
-                  "text": "شارع المقبرة is a local attraction located in Sirte.",
+                  "text": "Cemetery Street in Sirte is a road lined with historic graves and memorials.",
                   "category": "landmark",
                   "coords": [
                         16.592689,
@@ -1702,7 +2395,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Imad Al-Zayani",
-                  "text": "عماد الزياني is a notable local attraction situated in Sirte.",
+                  "text": "Imad Al-Zayani is a landmark in Sirte dedicated to the Libyan poet and writer.",
                   "category": "landmark",
                   "coords": [
                         16.594796,
@@ -1720,7 +2413,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mahdi",
-                  "text": "مهدي is a point of interest and attraction in Sirte.",
+                  "text": "Mahdi is a landmark in Sirte, a notable location for community gatherings.",
                   "category": "landmark",
                   "coords": [
                         16.598937,
@@ -1729,7 +2422,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Khaled",
-                  "text": "خالد is a local tourist attraction found in Sirte.",
+                  "text": "Khaled is a landmark in Sirte, a well-known reference point for residents.",
                   "category": "landmark",
                   "coords": [
                         16.568735,
@@ -1787,7 +2480,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nationalmuseum",
-                  "text": "Das Nationalmuseum ist eine Institution für Geschichte und Kultur in Tobruk.",
+                  "text": "Das Nationalmuseum in Tobruk zeigt die libysche Geschichte und Artefakte, oft mit Relikten aus dem Zweiten Weltkrieg.",
                   "category": "museum",
                   "coords": [
                         23.976645,
@@ -1796,7 +2489,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "San Gorge Beach",
-                  "text": "San Gorge Beach ist ein öffentlicher Strand in Tobruk.",
+                  "text": "Der San Gorge Strand ist ein beliebter Badestrand an der Küste nahe Tobruk.",
                   "category": "recreational",
                   "coords": [
                         23.999224,
@@ -1805,7 +2498,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Alledo beach",
-                  "text": "Alledo beach ist ein Küstenort in Tobruk.",
+                  "text": "Der Alledo Strand ist ein Küstenabschnitt in Tobruk, oft ruhiger und weniger überlaufen.",
                   "category": "recreational",
                   "coords": [
                         24.003412,
@@ -1841,7 +2534,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dieses lokale Wahrzeichen",
-                  "text": "Dieses lokale Wahrzeichen ist eine Attraktion in Tobruk.",
+                  "text": "Der Ten-Piastres-Platz ist ein bekanntes Wahrzeichen im Stadtzentrum von Tobruk.",
                   "category": "landmark",
                   "coords": [
                         24.00433,
@@ -1852,7 +2545,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "National Museum",
-                  "text": "A National Museum egy történelemmel és kultúrával foglalkozó múzeum Tobrukban.",
+                  "text": "A Nemzeti Múzeum Tobrukban líbiai történelmet és tárgyakat mutat be, gyakran a második világháborús emlékekkel.",
                   "category": "museum",
                   "coords": [
                         23.976645,
@@ -1861,7 +2554,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "San Gorge Beach",
-                  "text": "A San Gorge Beach egy nyilvános tengerparti terület Tobrukban.",
+                  "text": "A San Gorge Beach egy népszerű fürdőzésre alkalmas strand a tengerparton Tobruk közelében.",
                   "category": "recreational",
                   "coords": [
                         23.999224,
@@ -1870,7 +2563,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Alledo beach",
-                  "text": "Az Alledo beach egy tengerparti célpont Tobrukban.",
+                  "text": "Az Alledo beach egy tengerparti szakasz Tobrukban, gyakran csendesebb és kevésbé zsúfolt.",
                   "category": "recreational",
                   "coords": [
                         24.003412,
@@ -1906,7 +2599,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ten Piastres Site",
-                  "text": "Ez a helyi nevezetesség látványosságként szolgál Tobrukban.",
+                  "text": "A Ten Piastres Site egy jól ismert nevezetesség Tobruk városközpontjában.",
                   "category": "landmark",
                   "coords": [
                         24.00433,
@@ -1917,7 +2610,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "National Museum",
-                  "text": "National Museum este o instituție dedicată istoriei și culturii în Tobruk.",
+                  "text": "Muzeul Național din Tobruk prezintă istoria libiană și artefacte, adesea cu relicve din al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
                         23.976645,
@@ -1926,7 +2619,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "San Gorge Beach",
-                  "text": "San Gorge Beach este o zonă publică de coastă în Tobruk.",
+                  "text": "Plaja San Gorge este o plajă populară pentru scăldat pe coasta de lângă Tobruk.",
                   "category": "recreational",
                   "coords": [
                         23.999224,
@@ -1935,7 +2628,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Alledo beach",
-                  "text": "Alledo beach este o destinație pe litoral situată în Tobruk.",
+                  "text": "Plaja Alledo este o porțiune de coastă în Tobruk, adesea mai liniștită și mai puțin aglomerată.",
                   "category": "recreational",
                   "coords": [
                         24.003412,
@@ -1971,7 +2664,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ten Piastres Site",
-                  "text": "Acest punct de reper local servește drept atracție în Tobruk.",
+                  "text": "Situl Zece Piastri este un reper bine cunoscut în centrul orașului Tobruk.",
                   "category": "landmark",
                   "coords": [
                         24.00433,
@@ -1982,7 +2675,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "the National Museum",
-                  "text": "The National Museum is an institution dedicated to history and culture in Tobruk.",
+                  "text": "The National Museum in Tobruk showcases Libyan history and artifacts, often including relics from World War II.",
                   "category": "museum",
                   "coords": [
                         23.976645,
@@ -1991,7 +2684,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "San Gorge Beach",
-                  "text": "San Gorge Beach is a public coastal area in Tobruk.",
+                  "text": "San Gorge Beach is a popular swimming beach on the coast near Tobruk.",
                   "category": "recreational",
                   "coords": [
                         23.999224,
@@ -2000,7 +2693,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Alledo beach",
-                  "text": "Alledo beach is a seaside destination located in Tobruk.",
+                  "text": "Alledo beach is a coastal stretch in Tobruk, often quieter and less crowded.",
                   "category": "recreational",
                   "coords": [
                         24.003412,
@@ -2036,7 +2729,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ten Piastres Site",
-                  "text": "This local landmark serves as an attraction in Tobruk.",
+                  "text": "Ten Piastres Site is a well-known landmark in Tobruk's city center.",
                   "category": "landmark",
                   "coords": [
                         24.00433,
@@ -2140,7 +2833,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Wadi Derna Dam",
-                  "text": "Die Ruinen des Derna-Staudamms befinden sich in der Stadt Derna.",
+                  "text": "Ein 1986 erbauter Damm im Wadi Derna bei der Stadt Derna, zur Hochwasserkontrolle.",
                   "category": "historical",
                   "coords": [
                         22.631422,
@@ -2151,7 +2844,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Wadi Derna Dam",
-                  "text": "A Dernai gát romjai Derna városában találhatók.",
+                  "text": "1986-ban épült gát a Vádi Dernában, Derna város közelében, árvízvédelemre.",
                   "category": "historical",
                   "coords": [
                         22.631422,
@@ -2162,7 +2855,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Wadi Derna Dam",
-                  "text": "Ruinele barajului Derna sunt situate în orașul Derna.",
+                  "text": "Un baraj construit în 1986 în Wadi Derna, lângă orașul Derna, pentru controlul inundațiilor.",
                   "category": "historical",
                   "coords": [
                         22.631422,
@@ -2173,7 +2866,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Wadi Derna Dam",
-                  "text": "The ruins of the Derna Dam are located in the city of Derna.",
+                  "text": "A dam built in 1986 in Wadi Derna near the city of Derna, used for flood control.",
                   "category": "historical",
                   "coords": [
                         22.631422,
@@ -2231,7 +2924,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Teatro Sabha",
-                  "text": "Das Teatro Sabha ist ein Veranstaltungsort und ein lokales Theater in Sebha.",
+                  "text": "Das Teatro Sabha ist eine kulturelle Spielstätte in Sabha mit Theateraufführungen und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         14.425258,
@@ -2249,7 +2942,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old City",
-                  "text": "Das Gebiet der Altstadt weist historische Ruinen in Sebha auf.",
+                  "text": "Die Altstadt von Sabha ist das historische Viertel mit traditioneller Architektur und engen Gassen.",
                   "category": "historical",
                   "coords": [
                         14.41337,
@@ -2260,7 +2953,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Teatro Sabha",
-                  "text": "A Teatro Sabha egy előadóhely és helyi színház Sebhában.",
+                  "text": "A Teatro Sabha egy kulturális helyszín Sabha városában, színházi előadásokkal és rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         14.425258,
@@ -2278,7 +2971,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old City",
-                  "text": "Az óváros történelmi romokkal rendelkezik Sebhában.",
+                  "text": "Sabha óvárosa a történelmi negyed hagyományos építészettel és keskeny sikátorokkal.",
                   "category": "historical",
                   "coords": [
                         14.41337,
@@ -2289,7 +2982,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Teatro Sabha",
-                  "text": "Teatro Sabha este un loc pentru spectacole și un teatru local în Sebha.",
+                  "text": "Teatro Sabha este un loc cultural în Sabha, cu spectacole de teatru și evenimente.",
                   "category": "cultural",
                   "coords": [
                         14.425258,
@@ -2307,7 +3000,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old City",
-                  "text": "Zona Orașului Vechi prezintă ruine istorice situate în Sebha.",
+                  "text": "Orașul Vechi din Sabha este cartierul istoric cu arhitectură tradițională și alei înguste.",
                   "category": "historical",
                   "coords": [
                         14.41337,
@@ -2318,7 +3011,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Teatro Sabha",
-                  "text": "Teatro Sabha is a venue for performances and a local theatre in Sebha.",
+                  "text": "Teatro Sabha is a cultural venue in Sabha, hosting theatrical performances and events.",
                   "category": "cultural",
                   "coords": [
                         14.425258,
@@ -2336,7 +3029,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Town",
-                  "text": "The Old Town area features historical ruins located in Sebha.",
+                  "text": "The Old Town of Sabha is the historic district with traditional architecture and narrow alleys.",
                   "category": "historical",
                   "coords": [
                         14.41337,
@@ -2403,7 +3096,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Leptis Magna Museum",
-                  "text": "Museum in Al-Chums.",
+                  "text": "Museum am Eingang von Leptis Magna mit römischen Mosaiken und Skulpturen.",
                   "category": "museum",
                   "coords": [
                         14.288587,
@@ -2412,7 +3105,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Khums Lighthouse",
-                  "text": "Leuchtturm in Al-Chums.",
+                  "text": "Der Leuchtturm von Khoms ist ein Küstenleuchtturm in Khoms, der Schiffe entlang der Mittelmeerküste leitet.",
                   "category": "landmark",
                   "coords": [
                         14.268834,
@@ -2421,7 +3114,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Khums Beach",
-                  "text": "Strand in Al-Chums.",
+                  "text": "Der Al-Khoms-Strand ist ein Sandstrand in Khoms, beliebt zur Erholung und für Wassersport.",
                   "category": "recreational",
                   "coords": [
                         14.257871,
@@ -2430,7 +3123,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Chalcidicum von Leptis Magna",
-                  "text": "Ruinen in Al-Chums.",
+                  "text": "Römischer Marktbau in Leptis Magna mit einem säulenumstandenen Innenhof.",
                   "category": "historical",
                   "coords": [
                         14.291001,
@@ -2439,7 +3132,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Marcus Aurelius",
-                  "text": "Römischer Triumphbogen in Al-Chums.",
+                  "text": "Ein römischer Triumphbogen in Leptis Magna nahe Khoms, erbaut im 2. Jahrhundert n. Chr.",
                   "category": "historical",
                   "coords": [
                         14.2862,
@@ -2448,7 +3141,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Antonius Pius",
-                  "text": "Denkmal in Al-Chums.",
+                  "text": "Der Bogen des Antoninus Pius ist ein römischer Triumphbogen in der antiken Stadt Leptis Magna nahe Khoms.",
                   "category": "historical",
                   "coords": [
                         14.287241,
@@ -2457,7 +3150,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mahmoud Al-Wuhaishi",
-                  "text": "Attraktion in Al-Chums.",
+                  "text": "Mahmoud Al-Wuhaishi ist ein Wahrzeichen in Khoms, eine nach einer prominenten Persönlichkeit der Region benannte Stätte.",
                   "category": "landmark",
                   "coords": [
                         14.265712,
@@ -2466,7 +3159,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Septimius Severus",
-                  "text": "Denkmal in Al-Chums.",
+                  "text": "Der Bogen des Septimius Severus ist ein römischer Triumphbogen in Leptis Magna nahe Khoms, dem römischen Kaiser gewidmet.",
                   "category": "historical",
                   "coords": [
                         14.289156,
@@ -2486,7 +3179,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Leptis Magna Museum",
-                  "text": "Múzeum Al-Chums-ban.",
+                  "text": "Múzeum Leptis Magna bejáratánál, római mozaikokkal és szobrokkal.",
                   "category": "museum",
                   "coords": [
                         14.288587,
@@ -2495,7 +3188,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Khums Lighthouse",
-                  "text": "Világítótorony Al-Chums-ban.",
+                  "text": "A Khomsi világítótorony egy tengerparti világítótorony Khomsban, hajók irányítása a Földközi-tenger partja mentén.",
                   "category": "landmark",
                   "coords": [
                         14.268834,
@@ -2504,7 +3197,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Khums Beach",
-                  "text": "Strand Al-Chums-ban.",
+                  "text": "Az Al Khoms Beach egy homokos strand Khomsban, népszerű pihenésre és vízi sportokra.",
                   "category": "recreational",
                   "coords": [
                         14.257871,
@@ -2513,7 +3206,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Chalcidicum",
-                  "text": "Romok Al-Chums-ban.",
+                  "text": "Római piacépület Leptis Magnában, oszlopos udvarral.",
                   "category": "historical",
                   "coords": [
                         14.291001,
@@ -2522,7 +3215,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Marcus Aurelius",
-                  "text": "Római diadalív Al-Chums-ban.",
+                  "text": "Egy római diadalív Leptis Magnában, Khoms közelében, a 2. században épült.",
                   "category": "historical",
                   "coords": [
                         14.2862,
@@ -2531,7 +3224,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Antonius Pius",
-                  "text": "Emlékmű Al-Chums-ban.",
+                  "text": "Az Antonius Pius diadalív egy római diadalív az ókori Leptis Magna városában, Khoms közelében.",
                   "category": "historical",
                   "coords": [
                         14.287241,
@@ -2540,7 +3233,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mahmoud Al-Wuhaishi",
-                  "text": "Látnivaló Al-Chums-ban.",
+                  "text": "Mahmoud Al-Wuhaishi egy nevezetesség Khomsban, a régió egy kiemelkedő személyiségéről elnevezett hely.",
                   "category": "landmark",
                   "coords": [
                         14.265712,
@@ -2549,7 +3242,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Septimius Severus",
-                  "text": "Emlékmű Al-Chums-ban.",
+                  "text": "A Septimius Severus diadalív egy római diadalív Leptis Magnában Khoms közelében, a római császárnak szentelve.",
                   "category": "historical",
                   "coords": [
                         14.289156,
@@ -2569,7 +3262,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Leptis Magna Museum",
-                  "text": "Muzeu în Al-Chums.",
+                  "text": "Muzeu la intrarea în Leptis Magna, cu mozaicuri și sculpturi romane.",
                   "category": "museum",
                   "coords": [
                         14.288587,
@@ -2578,7 +3271,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Khums Lighthouse",
-                  "text": "Far în Al-Chums.",
+                  "text": "Farul din Khoms este un far de coastă în Khoms, ghidând navele de-a lungul coastei mediteraneene.",
                   "category": "landmark",
                   "coords": [
                         14.268834,
@@ -2587,7 +3280,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Khums Beach",
-                  "text": "Plajă în Al-Chums.",
+                  "text": "Plaja Al Khoms este o plajă cu nisip în Khoms, populară pentru relaxare și sporturi nautice.",
                   "category": "recreational",
                   "coords": [
                         14.257871,
@@ -2596,7 +3289,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Chalcidicum",
-                  "text": "Ruine în Al-Chums.",
+                  "text": "Clădire romană de piață în Leptis Magna, cu un curte cu coloane.",
                   "category": "historical",
                   "coords": [
                         14.291001,
@@ -2605,7 +3298,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Marcus Aurelius",
-                  "text": "Arc de triumf roman în Al-Chums.",
+                  "text": "Un arc de triumf roman în Leptis Magna lângă Khoms, construit în secolul al II-lea d.Hr.",
                   "category": "historical",
                   "coords": [
                         14.2862,
@@ -2614,7 +3307,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Antonius Pius",
-                  "text": "Monument în Al-Chums.",
+                  "text": "Arcul lui Antoninus Pius este un arc de triumf roman în orașul antic Leptis Magna lângă Khoms.",
                   "category": "historical",
                   "coords": [
                         14.287241,
@@ -2623,7 +3316,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mahmoud Al-Wuhaishi",
-                  "text": "Atracție în Al-Chums.",
+                  "text": "Mahmoud Al-Wuhaishi este un reper în Khoms, un loc numit după o personalitate proeminentă a regiunii.",
                   "category": "landmark",
                   "coords": [
                         14.265712,
@@ -2632,7 +3325,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Septimius Severus",
-                  "text": "Monument în Al-Chums.",
+                  "text": "Arcul lui Septimius Severus este un arc de triumf roman în Leptis Magna lângă Khoms, dedicat împăratului roman.",
                   "category": "historical",
                   "coords": [
                         14.289156,
@@ -2652,7 +3345,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Leptis Magna Museum",
-                  "text": "Museum in Al-Chums.",
+                  "text": "Museum at the entrance of Leptis Magna, displaying Roman mosaics and sculptures.",
                   "category": "museum",
                   "coords": [
                         14.288587,
@@ -2661,7 +3354,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Lighthouse of Khoms",
-                  "text": "Lighthouse in Al-Chums.",
+                  "text": "Lighthouse of Khoms is a coastal lighthouse in Khoms, guiding ships along the Mediterranean coast.",
                   "category": "landmark",
                   "coords": [
                         14.268834,
@@ -2670,7 +3363,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al Khoms Beach",
-                  "text": "Beach in Al-Chums.",
+                  "text": "Al Khoms Beach is a sandy beach in Khoms, popular for relaxation and water sports.",
                   "category": "recreational",
                   "coords": [
                         14.257871,
@@ -2679,7 +3372,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Chalcidicum",
-                  "text": "Ruins in Al-Chums.",
+                  "text": "Ancient Roman market building in Leptis Magna with a colonnaded courtyard.",
                   "category": "historical",
                   "coords": [
                         14.291001,
@@ -2688,7 +3381,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Marcus Aurelius",
-                  "text": "Roman triumphal arch in Al-Chums.",
+                  "text": "A Roman triumphal arch in Leptis Magna near Khoms, built in the 2nd century AD.",
                   "category": "historical",
                   "coords": [
                         14.2862,
@@ -2697,7 +3390,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Antonius Pius",
-                  "text": "Monument in Al-Chums.",
+                  "text": "Arch of Antonius Pius is a Roman triumphal arch in the ancient city of Leptis Magna near Khoms.",
                   "category": "historical",
                   "coords": [
                         14.287241,
@@ -2706,7 +3399,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Mahmoud Al-Wuhaishi",
-                  "text": "Attraction in Al-Chums.",
+                  "text": "Mahmoud Al-Wuhaishi is a landmark in Khoms, a site named after a prominent figure from the region.",
                   "category": "landmark",
                   "coords": [
                         14.265712,
@@ -2715,7 +3408,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arch of Septimius Severus",
-                  "text": "Monument in Al-Chums.",
+                  "text": "Arch of Septimius Severus is a Roman triumphal arch in Leptis Magna near Khoms, dedicated to the Roman emperor.",
                   "category": "historical",
                   "coords": [
                         14.289156,
@@ -2773,7 +3466,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bani Walid Museum",
-                  "text": "Das Bani Walid Museum ist ein bekanntes archäologisches Museum in Bani Walid.",
+                  "text": "Museum in Bani Walid mit Funden aus der römischen und berberischen Zeit.",
                   "category": "museum",
                   "coords": [
                         14.018116,
@@ -2800,7 +3493,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Qasr Bani Walid Battles 2011: 1913",
-                  "text": "Qasr Bani Walid Battles 2011: 1913 ist ein Denkmal in Bani Walid.",
+                  "text": "Qasr Bani Walid ist eine historische Burg in Walid, Schauplatz von Schlachten im Jahr 1913 und im Bürgerkrieg 2011.",
                   "category": "historical",
                   "coords": [
                         14.017782,
@@ -2818,7 +3511,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Imran Abuhureiba",
-                  "text": "عمران أبوحريبة ist ein Aussichtspunkt in Bani Walid.",
+                  "text": "Imran Abuhureiba ist ein Naturwahrzeichen in Walid, bekannt für seine malerische Landschaft.",
                   "category": "natural",
                   "coords": [
                         13.982527,
@@ -2827,7 +3520,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Addawaira Battale",
-                  "text": "Addawaira Battale ist ein Denkmal in Bani Walid.",
+                  "text": "Addawaira Battale ist ein historischer Ort in Walid, der den Schauplatz einer vergangenen Schlacht markiert.",
                   "category": "historical",
                   "coords": [
                         14.000646,
@@ -2838,7 +3531,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bani Walid Múzeum",
-                  "text": "A Bani Walid Múzeum egy ismert régészeti múzeum Bani Walid városában.",
+                  "text": "Múzeum Bani Walidban, római és berber kori leletekkel.",
                   "category": "museum",
                   "coords": [
                         14.018116,
@@ -2865,7 +3558,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Qasr Bani Walid Battles 2011: 1913",
-                  "text": "A Qasr Bani Walid Battles 2011: 1913 egy emlékmű Bani Walid városában.",
+                  "text": "Qasr Bani Walid egy történelmi vár Walidban, az 1913-as és a 2011-es polgárháború csatáinak színhelye.",
                   "category": "historical",
                   "coords": [
                         14.017782,
@@ -2883,7 +3576,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Imran Abuhureiba",
-                  "text": "A عمران أبوحريبة egy kilátópont Bani Walid városában.",
+                  "text": "Imran Abuhureiba egy természeti nevezetesség Walidban, festői tájáról ismert.",
                   "category": "natural",
                   "coords": [
                         13.982527,
@@ -2892,7 +3585,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Addawaira Battale",
-                  "text": "Az Addawaira Battale egy emlékmű Bani Walid városában.",
+                  "text": "Addawaira Battale egy történelmi helyszín Walidban, egy múltbeli csata helyszínét jelölve.",
                   "category": "historical",
                   "coords": [
                         14.000646,
@@ -2903,7 +3596,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Muzeul Bani Walid",
-                  "text": "Muzeul Bani Walid este un cunoscut muzeu arheologic situat în Bani Walid.",
+                  "text": "Muzeu în Bani Walid cu artefacte din perioada romană și berberă.",
                   "category": "museum",
                   "coords": [
                         14.018116,
@@ -2930,7 +3623,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Qasr Bani Walid Battles 2011: 1913",
-                  "text": "Qasr Bani Walid Battles 2011: 1913 este un monument situat în Bani Walid.",
+                  "text": "Qasr Bani Walid este un castel istoric în Walid, locul unor bătălii din 1913 și războiul civil din 2011.",
                   "category": "historical",
                   "coords": [
                         14.017782,
@@ -2948,7 +3641,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Imran Abuhureiba",
-                  "text": "عمران أبوحريبة este un punct de belvedere situat în Bani Walid.",
+                  "text": "Imran Abuhureiba este un reper natural în Walid, cunoscut pentru peisajul său pitoresc.",
                   "category": "natural",
                   "coords": [
                         13.982527,
@@ -2957,7 +3650,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Addawaira Battale",
-                  "text": "Addawaira Battale este un monument situat în Bani Walid.",
+                  "text": "Addawaira Battale este un sit istoric în Walid, marcând locul unei bătălii trecute.",
                   "category": "historical",
                   "coords": [
                         14.000646,
@@ -2968,7 +3661,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Bani Walid Museum",
-                  "text": "Bani Walid Museum is a known archaeological museum located in Bani Walid.",
+                  "text": "Museum in Bani Walid housing artifacts from the Roman and Berber periods.",
                   "category": "museum",
                   "coords": [
                         14.018116,
@@ -2995,7 +3688,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Qasr Bani Walid Battles 2011: 1913",
-                  "text": "Qasr Bani Walid Battles 2011: 1913 is a local monument situated in Bani Walid.",
+                  "text": "Qasr Bani Walid is a historic castle in Walid, site of battles in 1913 and the 2011 civil war.",
                   "category": "historical",
                   "coords": [
                         14.017782,
@@ -3013,7 +3706,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Imran Abuhureiba",
-                  "text": "عمران أبوحريبة is a scenic viewpoint located in Bani Walid.",
+                  "text": "Imran Abuhureiba is a natural landmark in Walid, known for its scenic landscape.",
                   "category": "natural",
                   "coords": [
                         13.982527,
@@ -3022,7 +3715,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Addawaira Battale",
-                  "text": "Addawaira Battale is a monument located in Bani Walid.",
+                  "text": "Addawaira Battale is a historical site in Walid, marking the location of a past battle.",
                   "category": "historical",
                   "coords": [
                         14.000646,
@@ -3218,7 +3911,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Theatre Zuara",
-                  "text": "Das Theatre Zuara ist ein kultureller Veranstaltungsort in Zuwara.",
+                  "text": "Das Theatre Zuara ist eine kulturelle Spielstätte in Zuwara mit Aufführungen und Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         12.086329,
@@ -3227,7 +3920,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zuwara Heritage and Identity Association",
-                  "text": "جمعية زوارة للهوية و التراث ist ein Museum in Zuwara.",
+                  "text": "Der Verband für Erbe und Identität von Zuwara ist ein Museum in Zuwara, das der Bewahrung der lokalen Berberkultur gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         12.084969,
@@ -3236,7 +3929,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zauara Beach",
-                  "text": "Zauara Beach ist ein Strandbereich in Zuwara.",
+                  "text": "Der Zauara Strand ist ein Sandstrand in Zuwara, beliebt zum Schwimmen und Entspannen.",
                   "category": "recreational",
                   "coords": [
                         12.055723,
@@ -3245,7 +3938,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zuara Beach",
-                  "text": "Zuara Beach ist ein Sandstrand in Zuwara.",
+                  "text": "Der Zuara Strand ist ein weiterer Sandstrand in Zuwara, der eine ruhigere Alternative bietet.",
                   "category": "recreational",
                   "coords": [
                         12.072514,
@@ -3256,7 +3949,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Theatre Zuara",
-                  "text": "A Theatre Zuara egy kulturális és előadóművészeti helyszín Zuwarában.",
+                  "text": "A Theatre Zuara egy kulturális helyszín Zuwara városában, előadásokkal és rendezvényekkel.",
                   "category": "cultural",
                   "coords": [
                         12.086329,
@@ -3265,7 +3958,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zuwara Heritage and Identity Association",
-                  "text": "A جمعية زوارة للهوية و التراث egy múzeum Zuwara városában.",
+                  "text": "A Zuwara Örökség és Identitás Egyesület egy múzeum Zuwara városában, amely a helyi berber kultúra megőrzésére összpontosít.",
                   "category": "museum",
                   "coords": [
                         12.084969,
@@ -3274,7 +3967,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zauara Beach",
-                  "text": "A Zauara Beach egy tengerparti terület Zuwara városában.",
+                  "text": "A Zauara Beach egy homokos strand Zuwara városában, népszerű fürdőzésre és pihenésre.",
                   "category": "recreational",
                   "coords": [
                         12.055723,
@@ -3283,7 +3976,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zuara Beach",
-                  "text": "A Zuara Beach egy homokos strand Zuwara városában.",
+                  "text": "A Zuara Beach egy másik homokos strand Zuwara városában, csendesebb alternatívát kínálva.",
                   "category": "recreational",
                   "coords": [
                         12.072514,
@@ -3294,7 +3987,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Theatre Zuara",
-                  "text": "Theatre Zuara este un spațiu cultural și de spectacole situat în Zuwara.",
+                  "text": "Teatrul Zuara este un loc cultural în Zuwara, cu spectacole și evenimente.",
                   "category": "cultural",
                   "coords": [
                         12.086329,
@@ -3303,7 +3996,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zuwara Heritage and Identity Association",
-                  "text": "جمعية زوارة للهوية و التراث este un muzeu situat în Zuwara.",
+                  "text": "Asociația pentru Patrimoniu și Identitate Zuwara este un muzeu în Zuwara dedicat păstrării culturii locale berbere.",
                   "category": "museum",
                   "coords": [
                         12.084969,
@@ -3312,7 +4005,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zauara Beach",
-                  "text": "Zauara Beach este o plajă situată în Zuwara.",
+                  "text": "Plaja Zauara este o plajă cu nisip în Zuwara, populară pentru înot și relaxare.",
                   "category": "recreational",
                   "coords": [
                         12.055723,
@@ -3321,7 +4014,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zuara Beach",
-                  "text": "Zuara Beach este o plajă cu nisip localizată în Zuwara.",
+                  "text": "Plaja Zuara este o altă plajă cu nisip în Zuwara, oferind o alternativă mai liniștită.",
                   "category": "recreational",
                   "coords": [
                         12.072514,
@@ -3332,7 +4025,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Theatre Zuara",
-                  "text": "Theatre Zuara is a cultural and performance venue situated in Zuwara.",
+                  "text": "Theatre Zuara is a cultural venue in Zuwara, hosting performances and events.",
                   "category": "cultural",
                   "coords": [
                         12.086329,
@@ -3341,7 +4034,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zuwara Heritage and Identity Association",
-                  "text": "جمعية زوارة للهوية و التراث is a museum located in Zuwara.",
+                  "text": "Zuwara Heritage and Identity Association is a museum in Zuwara dedicated to preserving local Berber culture.",
                   "category": "museum",
                   "coords": [
                         12.084969,
@@ -3350,7 +4043,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zauara Beach",
-                  "text": "Zauara Beach is a coastal area situated in Zuwara.",
+                  "text": "Zauara Beach is a sandy beach in Zuwara, popular for swimming and relaxing.",
                   "category": "recreational",
                   "coords": [
                         12.055723,
@@ -3359,7 +4052,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Zuara Beach",
-                  "text": "Zuara Beach is a sandy beach located in Zuwara.",
+                  "text": "Zuara Beach is another sandy beach in Zuwara, offering a quieter alternative.",
                   "category": "recreational",
                   "coords": [
                         12.072514,
@@ -3555,7 +4248,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Sami Yefren",
-                  "text": "Attraktion in Jefren.",
+                  "text": "Sami Yefren ist ein zentraler Platz in Yefren mit traditioneller Berber-Architektur.",
                   "category": "landmark",
                   "coords": [
                         12.524822,
@@ -3564,7 +4257,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Yfren",
-                  "text": "Historischer Ort in Jefren.",
+                  "text": "Alt-Yfren ist das historische Viertel von Yefren mit engen Gassen und Lehmhäusern.",
                   "category": "landmark",
                   "coords": [
                         12.519407,
@@ -3575,7 +4268,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Sami Yefren",
-                  "text": "Látnivaló Jefren-ben.",
+                  "text": "Sami Yefren egy központi tér Jefrenben, hagyományos berber építészettel.",
                   "category": "landmark",
                   "coords": [
                         12.524822,
@@ -3584,7 +4277,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Yfren",
-                  "text": "Történelmi helyszín Jefren-ben.",
+                  "text": "Ó-Yfren Jefren történelmi negyede szűk utcákkal és vályogházakkal.",
                   "category": "landmark",
                   "coords": [
                         12.519407,
@@ -3595,7 +4288,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Sami Yefren",
-                  "text": "Atracție în Jefren.",
+                  "text": "Sami Yefren este o piață centrală în Yefren, cu arhitectură tradițională berberă.",
                   "category": "landmark",
                   "coords": [
                         12.524822,
@@ -3604,7 +4297,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Yfren",
-                  "text": "Loc istoric în Jefren.",
+                  "text": "Yfrenul Vechi este cartierul istoric din Yefren, cu alei înguste și case de chirpici.",
                   "category": "landmark",
                   "coords": [
                         12.519407,
@@ -3615,7 +4308,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Sami Yefren",
-                  "text": "Attraction in Jefren.",
+                  "text": "Sami Yefren is a central square in Yefren with traditional Berber architecture.",
                   "category": "landmark",
                   "coords": [
                         12.524822,
@@ -3624,7 +4317,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Yfren",
-                  "text": "Historical site in Jefren.",
+                  "text": "Old Yfren is the historic quarter of Yefren with narrow alleys and mud-brick houses.",
                   "category": "landmark",
                   "coords": [
                         12.519407,
@@ -3682,7 +4375,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Nalut museum",
-                  "text": "Das Nalut museum ist ein lokales Museum in Nalut.",
+                  "text": "Das Nalut-Museum zeigt lokale Artefakte und traditionelles Kunsthandwerk aus der Region.",
                   "category": "museum",
                   "coords": [
                         10.982636,
@@ -3691,7 +4384,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Nalut Ksar",
-                  "text": "قصر نالوت ist ein Museum in der Stadt Nalut.",
+                  "text": "Nalut Ksar ist eine historische befestigte Kornkammer in Nalut, heute Museum für Berber-Speichertechniken.",
                   "category": "museum",
                   "coords": [
                         10.986893,
@@ -3700,7 +4393,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Khalifa ben Asker",
-                  "text": "Khalifa ben Asker ist ein Theater in Nalut.",
+                  "text": "Khalifa ben Asker ist eine kulturelle Stätte in Nalut, vermutlich das Grab eines lokalen Heiligen.",
                   "category": "cultural",
                   "coords": [
                         10.988829,
@@ -3709,7 +4402,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "dinosaurs museum",
-                  "text": "Das dinosaurs museum ist eine Ausstellungseinrichtung in Nalut.",
+                  "text": "Das Dinosaurier-Museum in Nalut zeigt fossile Überreste prähistorischer Tiere aus der Region.",
                   "category": "museum",
                   "coords": [
                         10.983196,
@@ -3718,7 +4411,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "sara3 al rahba-nalut",
-                  "text": "sara3 al rahba-nalut ist eine Attraktion in Nalut.",
+                  "text": "Sara3 al Rahba ist ein Platz in Nalut, der früher als Versammlungsort diente.",
                   "category": "landmark",
                   "coords": [
                         10.984886,
@@ -3729,7 +4422,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Nalut museum",
-                  "text": "A Nalut museum egy helyi múzeum Nalut városában.",
+                  "text": "A Nalut Múzeum helyi tárgyakat és hagyományos kézműves termékeket mutat be a régióból.",
                   "category": "museum",
                   "coords": [
                         10.982636,
@@ -3738,7 +4431,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Nalut Ksar",
-                  "text": "A قصر نالوت egy múzeum Nalut városában.",
+                  "text": "A Nalut Ksar egy történelmi erődített magtár Nalutban, ma a berber tárolási módok múzeuma.",
                   "category": "museum",
                   "coords": [
                         10.986893,
@@ -3747,7 +4440,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Khalifa ben Asker",
-                  "text": "A Khalifa ben Asker egy színház Nalut városában.",
+                  "text": "Khalifa ben Asker egy kulturális helyszín Nalutban, feltehetően egy helyi szent sírja.",
                   "category": "cultural",
                   "coords": [
                         10.988829,
@@ -3756,7 +4449,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "dinosaurs museum",
-                  "text": "A dinosaurs museum egy múzeumi létesítmény Nalut városában.",
+                  "text": "A Naluti Dinoszaurusz Múzeum a régióban talált őskori állatok fosszíliáit mutatja be.",
                   "category": "museum",
                   "coords": [
                         10.983196,
@@ -3765,7 +4458,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "sara3 al rahba-nalut",
-                  "text": "A sara3 al rahba-nalut egy látványosság Nalut városában.",
+                  "text": "A Sara3 al Rahba egy tér Nalutban, amelyet egykor gyülekezőhelyként használtak.",
                   "category": "landmark",
                   "coords": [
                         10.984886,
@@ -3776,7 +4469,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Nalut museum",
-                  "text": "Nalut museum este un muzeu local situat în Nalut.",
+                  "text": "Muzeul Nalut expune artefacte locale și meșteșuguri tradiționale din regiunea Nalut.",
                   "category": "museum",
                   "coords": [
                         10.982636,
@@ -3785,7 +4478,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Nalut Ksar",
-                  "text": "قصر نالوت este un muzeu situat în orașul Nalut.",
+                  "text": "Nalut Ksar este un grânar fortificat istoric din Nalut, acum muzeu al tehnicilor berbere de depozitare.",
                   "category": "museum",
                   "coords": [
                         10.986893,
@@ -3794,7 +4487,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Khalifa ben Asker",
-                  "text": "Khalifa ben Asker este un teatru situat în Nalut.",
+                  "text": "Khalifa ben Asker este un sit cultural în Nalut, considerat mormântul unui sfânt local.",
                   "category": "cultural",
                   "coords": [
                         10.988829,
@@ -3803,7 +4496,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dinosaurs museum",
-                  "text": "Dinosaurs museum este o facilitate expozițională situată în Nalut.",
+                  "text": "Muzeul dinozaurilor din Nalut expune resturi fosile de animale preistorice găsite în regiune.",
                   "category": "museum",
                   "coords": [
                         10.983196,
@@ -3812,7 +4505,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Sara3 al rahba-nalut",
-                  "text": "Sara3 al rahba-nalut este o atracție situată în Nalut.",
+                  "text": "Sara3 al Rahba este o piață în Nalut, folosită cândva ca loc de adunare.",
                   "category": "landmark",
                   "coords": [
                         10.984886,
@@ -3823,7 +4516,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Nalut museum",
-                  "text": "Nalut museum is a local museum situated in Nalut.",
+                  "text": "Nalut museum displays local artifacts and traditional crafts from the Nalut region.",
                   "category": "museum",
                   "coords": [
                         10.982636,
@@ -3832,7 +4525,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Nalut Ksar",
-                  "text": "قصر نالوت is a museum located in the city of Nalut.",
+                  "text": "Nalut Ksar is a historic fortified granary in Nalut, now a museum of Berber storage methods.",
                   "category": "museum",
                   "coords": [
                         10.986893,
@@ -3841,7 +4534,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Khalifa ben Asker",
-                  "text": "Khalifa ben Asker is a theatre venue located in Nalut.",
+                  "text": "Khalifa ben Asker is a cultural site in Nalut, believed to be the tomb of a local saint.",
                   "category": "cultural",
                   "coords": [
                         10.988829,
@@ -3850,7 +4543,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "dinosaurs museum",
-                  "text": "The dinosaurs museum is an exhibition facility located in Nalut.",
+                  "text": "Dinosaurs museum in Nalut displays fossil remains of prehistoric creatures found in the region.",
                   "category": "museum",
                   "coords": [
                         10.983196,
@@ -3859,7 +4552,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "sara3 al rahba-nalut",
-                  "text": "sara3 al rahba-nalut is an attraction located in Nalut.",
+                  "text": "Sara3 al Rahba is a square in Nalut, once used as a gathering place.",
                   "category": "landmark",
                   "coords": [
                         10.984886,
@@ -4009,7 +4702,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gat Castle",
-                  "text": "Gat Castle ist eine historische Burganlage in Ghat.",
+                  "text": "Gat Castle ist eine historische Festung in Ghat mit Blick auf die Altstadt und die Wüste.",
                   "category": "castle",
                   "coords": [
                         10.177066,
@@ -4020,7 +4713,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gat Castle",
-                  "text": "A Gat Castle egy történelmi kastélyépület Ghat városában.",
+                  "text": "A Gat-vár egy történelmi erődítmény Ghatban, az óvárosra és a sivatagra néző kilátással.",
                   "category": "castle",
                   "coords": [
                         10.177066,
@@ -4031,7 +4724,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gat Castle",
-                  "text": "Gat Castle este un castel istoric situat în Ghat.",
+                  "text": "Castelul Gat este o fortăreață istorică în Ghat, cu vedere spre orașul vechi și deșert.",
                   "category": "castle",
                   "coords": [
                         10.177066,
@@ -4042,7 +4735,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gat Castle",
-                  "text": "Gat Castle is a historical castle structure located in Ghat.",
+                  "text": "Gat Castle is a historic fortress in Ghat, overlooking the old town and the desert.",
                   "category": "castle",
                   "coords": [
                         10.177066,
@@ -4100,7 +4793,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gadames Castle",
-                  "text": "Gadames Castle ist eine Festung in der Stadt Ghadames.",
+                  "text": "Gadames Castle ist eine historische Festung in Ghadames, Teil der UNESCO-gelisteten Altstadtmauern.",
                   "category": "castle",
                   "coords": [
                         9.495106,
@@ -4109,7 +4802,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tilwan School",
-                  "text": "Tilwan School ist eine lokale Attraktion in Ghadames.",
+                  "text": "Die Tilwan-Schule ist ein historisches Gebäude in Ghadames, ursprünglich eine Koranschule mit traditioneller Bauweise.",
                   "category": "landmark",
                   "coords": [
                         9.498333,
@@ -4120,7 +4813,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gadames Castle",
-                  "text": "A Gadames Castle egy erőd Ghadames városában.",
+                  "text": "A Gadames-vár egy történelmi erőd Ghadamesben, az UNESCO-listás óváros falainak része.",
                   "category": "castle",
                   "coords": [
                         9.495106,
@@ -4129,7 +4822,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tilwan School",
-                  "text": "A Tilwan School egy helyi látványosság Ghadames városában.",
+                  "text": "A Tilwan Iskola egy történelmi épület Ghadamesben, eredetileg korániskola hagyományos építészettel.",
                   "category": "landmark",
                   "coords": [
                         9.498333,
@@ -4140,7 +4833,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gadames Castle",
-                  "text": "Gadames Castle este o fortăreață situată în orașul Ghadames.",
+                  "text": "Castelul Gadames este o fortăreață istorică în Ghadames, parte a zidurilor orașului vechi incluse în UNESCO.",
                   "category": "castle",
                   "coords": [
                         9.495106,
@@ -4149,7 +4842,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tilwan School",
-                  "text": "Tilwan School este o atracție locală din Ghadames.",
+                  "text": "Școala Tilwan este o clădire istorică în Ghadames, inițial o școală coranică cu arhitectură tradițională.",
                   "category": "landmark",
                   "coords": [
                         9.498333,
@@ -4160,7 +4853,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gadames Castle",
-                  "text": "Gadames Castle is a historic fortress situated in the city of Ghadames.",
+                  "text": "Gadames Castle is a historic fortress in Ghadames, part of the UNESCO-listed old city walls.",
                   "category": "castle",
                   "coords": [
                         9.495106,
@@ -4169,7 +4862,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tilwan School",
-                  "text": "Tilwan School is a local attraction located in Ghadames.",
+                  "text": "Tilwan School is a historic building in Ghadames, originally a Quranic school with traditional architecture.",
                   "category": "landmark",
                   "coords": [
                         9.498333,
@@ -4227,7 +4920,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Al-Khumsmiya Street",
-                  "text": "Attraktion in Hun.",
+                  "text": "Die Al-Khumsmiya-Straße ist die Haupteinkaufsstraße in Hun mit lokalen Geschäften und Cafés.",
                   "category": "landmark",
                   "coords": [
                         15.958062,
@@ -4238,7 +4931,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Al-Khumsmiya Street",
-                  "text": "Látnivaló Hun-ban.",
+                  "text": "Az Al-Khumsmiya utca Hun fő bevásárlóutcája, helyi üzletekkel és kávézókkal.",
                   "category": "landmark",
                   "coords": [
                         15.958062,
@@ -4249,7 +4942,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Al-Khumsmiya Street",
-                  "text": "Atracție în Hun.",
+                  "text": "Strada Al-Khumsmiya este strada principală de cumpărături din Hun, cu magazine locale și cafenele.",
                   "category": "landmark",
                   "coords": [
                         15.958062,
@@ -4260,7 +4953,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Al-Khumsmiya Street",
-                  "text": "Attraction in Hun.",
+                  "text": "Al-Khumsmiya Street is the main shopping street in Hun, lined with local shops and cafes.",
                   "category": "landmark",
                   "coords": [
                         15.958062,
@@ -4318,7 +5011,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Weddan Castle",
-                  "text": "Weddan Castle ist eine Burg in Waddan.",
+                  "text": "Weddan Castle ist eine historische Befestigung in Waddan, erbaut aus lokalem Stein.",
                   "category": "castle",
                   "coords": [
                         16.134352,
@@ -4327,7 +5020,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "jaws",
-                  "text": "jaws ist ein Denkmal in der Stadt Waddan.",
+                  "text": "Jaws ist eine historische Stätte in Waddan mit alten Felsritzungen.",
                   "category": "historical",
                   "coords": [
                         16.15118,
@@ -4338,7 +5031,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Weddan Castle",
-                  "text": "A Weddan Castle egy kastély Waddan városában.",
+                  "text": "A Weddan-vár egy történelmi erődítmény Waddanban, helyi kőből épült.",
                   "category": "castle",
                   "coords": [
                         16.134352,
@@ -4347,7 +5040,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "jaws",
-                  "text": "A jaws egy emlékmű Waddan városában.",
+                  "text": "A Jaws egy történelmi helyszín Waddanban, ősi sziklavésetekkel.",
                   "category": "historical",
                   "coords": [
                         16.15118,
@@ -4358,7 +5051,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Weddan Castle",
-                  "text": "Weddan Castle este un castel situat în Waddan.",
+                  "text": "Castelul Weddan este o fortificație istorică în Waddan, construită din piatră locală.",
                   "category": "castle",
                   "coords": [
                         16.134352,
@@ -4367,7 +5060,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Jaws",
-                  "text": "Jaws este un monument situat în orașul Waddan.",
+                  "text": "Jaws este un sit istoric în Waddan, cu vechi gravuri rupestre.",
                   "category": "historical",
                   "coords": [
                         16.15118,
@@ -4378,7 +5071,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Weddan Castle",
-                  "text": "Weddan Castle is a castle situated in Waddan.",
+                  "text": "Weddan Castle is a historic fortification in Waddan, built from local stone.",
                   "category": "castle",
                   "coords": [
                         16.134352,
@@ -4387,7 +5080,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "jaws",
-                  "text": "jaws is a monument located in the city of Waddan.",
+                  "text": "Jaws is a historical site in Waddan, featuring ancient rock carvings.",
                   "category": "historical",
                   "coords": [
                         16.15118,
@@ -4445,7 +5138,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Brak Castle",
-                  "text": "قلعة براك ist eine Burganlage in Brak.",
+                  "text": "Brak Castle ist eine historische Festung in Brak mit Blick auf die Oase.",
                   "category": "castle",
                   "coords": [
                         14.267769,
@@ -4463,7 +5156,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Brak",
-                  "text": "براك القديمة ist ein Aussichtspunkt in Brak.",
+                  "text": "Alt-Brak ist ein Naturgebiet mit felsigem Gelände und antiken Ruinen nahe Brak.",
                   "category": "natural",
                   "coords": [
                         14.269837,
@@ -4472,7 +5165,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Nazila",
-                  "text": "النزيلة bietet Besuchern eine malerische Aussicht in Brak.",
+                  "text": "Al-Nazila ist eine natürliche Quelle oder Oase in Brak, bekannt für ihr Frischwasser.",
                   "category": "natural",
                   "coords": [
                         14.272777,
@@ -4483,7 +5176,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Brak Castle",
-                  "text": "A قلعة براك egy kastélyépület Brak városában.",
+                  "text": "A Brak-vár egy történelmi erőd Brakban, az oázisra nyíló kilátással.",
                   "category": "castle",
                   "coords": [
                         14.267769,
@@ -4501,7 +5194,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Brak",
-                  "text": "A براك القديمة egy kilátóhely Brak városában.",
+                  "text": "Ó-Brak egy természeti terület sziklás tereppel és ősi romokkal Brak közelében.",
                   "category": "natural",
                   "coords": [
                         14.269837,
@@ -4510,7 +5203,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Nazila",
-                  "text": "A النزيلة festői kilátást nyújt a látogatóknak Brak városában.",
+                  "text": "Al-Nazila egy természetes forrás vagy oázis Brakban, friss vizéről ismert.",
                   "category": "natural",
                   "coords": [
                         14.272777,
@@ -4521,7 +5214,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Brak Castle",
-                  "text": "قلعة براك este un castel situat în Brak.",
+                  "text": "Castelul Brak este o fortăreață istorică în Brak, cu vedere asupra oazei.",
                   "category": "castle",
                   "coords": [
                         14.267769,
@@ -4539,7 +5232,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Brak",
-                  "text": "براك القديمة este un punct de belvedere amenajat în Brak.",
+                  "text": "Brakul Vechi este o zonă naturală cu teren stâncos și ruine antice lângă Brak.",
                   "category": "natural",
                   "coords": [
                         14.269837,
@@ -4548,7 +5241,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Nazila",
-                  "text": "النزيلة oferă vizitatorilor o priveliște pitorească din Brak.",
+                  "text": "Al-Nazila este un izvor natural sau o oază în Brak, cunoscut pentru apa proaspătă.",
                   "category": "natural",
                   "coords": [
                         14.272777,
@@ -4559,7 +5252,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Brak Castle",
-                  "text": "قلعة براك is a castle structure located in Brak.",
+                  "text": "Brak Castle is a historic fortress in Brak, with views over the oasis.",
                   "category": "castle",
                   "coords": [
                         14.267769,
@@ -4577,7 +5270,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Old Brak",
-                  "text": "براك القديمة is a designated viewpoint situated in Brak.",
+                  "text": "Old Brak is a natural area of rocky terrain and ancient ruins near Brak.",
                   "category": "natural",
                   "coords": [
                         14.269837,
@@ -4586,7 +5279,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Nazila",
-                  "text": "النزيلة provides visitors with a scenic view in Brak.",
+                  "text": "Al-Nazila is a natural spring or oasis in Brak, known for its fresh water.",
                   "category": "natural",
                   "coords": [
                         14.272777,
@@ -4690,7 +5383,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Wadi Ali",
-                  "text": "وادي على ist ein Aussichtspunkt in Sintan.",
+                  "text": "Wadi Ali ist ein trockenes Flusstal in Zintan mit Palmenhainen und saisonalen Bächen.",
                   "category": "natural",
                   "coords": [
                         12.252247,
@@ -4699,7 +5392,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Al-Shiyab",
-                  "text": "دار الشياب ist eine lokale Attraktion in Sintan.",
+                  "text": "Dar Al-Shiyab ist ein traditionelles Steinhaus in Zintan, heute ein kulturelles Wahrzeichen.",
                   "category": "landmark",
                   "coords": [
                         12.248914,
@@ -4708,7 +5401,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Fathet Wassin",
-                  "text": "فتحت وسين ist eine Attraktion in der Stadt Sintan.",
+                  "text": "Fathet Wassin ist ein historisches Tor in Zintan, das den Eingang zum alten Viertel markiert.",
                   "category": "landmark",
                   "coords": [
                         12.273114,
@@ -4717,7 +5410,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Romani",
-                  "text": "الروماني ist ein Aussichtspunkt in Sintan.",
+                  "text": "Al-Romani ist ein Berggebiet nahe Zintan, bekannt für seine felsigen Landschaften.",
                   "category": "natural",
                   "coords": [
                         12.279905,
@@ -4726,7 +5419,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Abaziz",
-                  "text": "ابزيز ist eine Sehenswürdigkeit in Sintan.",
+                  "text": "Abaziz ist ein markanter Hügel in Zintan, der eine Panoramaaussicht bietet.",
                   "category": "landmark",
                   "coords": [
                         12.249361,
@@ -4735,7 +5428,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Awlad Abulhol Island",
-                  "text": "جزيرة اولاد ابوالهول ist ein Denkmal in Sintan.",
+                  "text": "Awlad Abulhol Island ist eine historische Stätte in Zintan mit alten Grabhügeln.",
                   "category": "historical",
                   "coords": [
                         12.226197,
@@ -4744,7 +5437,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Sharef",
-                  "text": "الشارف ist ein lokales Denkmal in der Stadt Sintan.",
+                  "text": "Al-Sharef ist eine historische Siedlung in Zintan mit Ruinen traditioneller Behausungen.",
                   "category": "historical",
                   "coords": [
                         12.234611,
@@ -4755,7 +5448,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Wadi Ali",
-                  "text": "A وادي على egy kilátópont Sintan városában.",
+                  "text": "A Wadi Ali egy száraz folyóvölgy Zintanban, pálmaligetekkel és időszakos patakokkal.",
                   "category": "natural",
                   "coords": [
                         12.252247,
@@ -4764,7 +5457,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Al-Shiyab",
-                  "text": "A دار الشياب egy helyi látványosság Sintan városában.",
+                  "text": "A Dar Al-Shiyab egy hagyományos kőház Zintanban, ma kulturális nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         12.248914,
@@ -4773,7 +5466,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Fathet Wassin",
-                  "text": "A فتحت وسين egy látványosság Sintan városában.",
+                  "text": "A Fathet Wassin egy történelmi kapu Zintanban, az óváros bejáratát jelzi.",
                   "category": "landmark",
                   "coords": [
                         12.273114,
@@ -4782,7 +5475,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Romani",
-                  "text": "A الروماني egy megfigyelőpont Sintan városában.",
+                  "text": "Al-Romani egy hegyvidéki terület Zintan közelében, sziklás tájairól ismert.",
                   "category": "natural",
                   "coords": [
                         12.279905,
@@ -4791,7 +5484,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Abaziz",
-                  "text": "A ابزيز egy látványosság Sintan városában.",
+                  "text": "Abaziz egy jellegzetes domb Zintanban, panorámás kilátással.",
                   "category": "landmark",
                   "coords": [
                         12.249361,
@@ -4800,7 +5493,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Awlad Abulhol Island",
-                  "text": "A جزيرة اولاد ابوالهول egy emlékmű Sintan városában.",
+                  "text": "Awlad Abulhol Island egy történelmi helyszín Zintanban, ősi sírhalmokkal.",
                   "category": "historical",
                   "coords": [
                         12.226197,
@@ -4809,7 +5502,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Sharef",
-                  "text": "A الشارف egy helyi emlékmű Sintan városában.",
+                  "text": "Al-Sharef egy történelmi település Zintanban, hagyományos lakóházak romjaival.",
                   "category": "historical",
                   "coords": [
                         12.234611,
@@ -4820,7 +5513,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Wadi Ali",
-                  "text": "وادي على este un punct de belvedere în Sintan.",
+                  "text": "Wadi Ali este o vale fluvială uscată în Zintan, cu crânguri de palmieri și pâraie sezoniere.",
                   "category": "natural",
                   "coords": [
                         12.252247,
@@ -4829,7 +5522,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Al-Shiyab",
-                  "text": "دار الشياب este o atracție locală situată în Sintan.",
+                  "text": "Dar Al-Shiyab este o casă tradițională de piatră în Zintan, acum un reper cultural.",
                   "category": "landmark",
                   "coords": [
                         12.248914,
@@ -4838,7 +5531,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Fathet Wassin",
-                  "text": "فتحت وسين este o atracție situată în orașul Sintan.",
+                  "text": "Fathet Wassin este o poartă istorică în Zintan, marcând intrarea în cartierul vechi.",
                   "category": "landmark",
                   "coords": [
                         12.273114,
@@ -4847,7 +5540,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Romani",
-                  "text": "الروماني este un punct de observare situat în Sintan.",
+                  "text": "Al-Romani este o zonă muntoasă lângă Zintan, cunoscută pentru peisajele stâncoase.",
                   "category": "natural",
                   "coords": [
                         12.279905,
@@ -4856,7 +5549,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Abaziz",
-                  "text": "ابزيز este un punct de atracție în Sintan.",
+                  "text": "Abaziz este un deal proeminent în Zintan, oferind vederi panoramice.",
                   "category": "landmark",
                   "coords": [
                         12.249361,
@@ -4865,7 +5558,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Awlad Abulhol Island",
-                  "text": "جزيرة اولاد ابوالهول este un monument situat în Sintan.",
+                  "text": "Insula Awlad Abulhol este un sit istoric în Zintan, cu movile funerare antice.",
                   "category": "historical",
                   "coords": [
                         12.226197,
@@ -4874,7 +5567,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Sharef",
-                  "text": "الشارف este un monument local în orașul Sintan.",
+                  "text": "Al-Sharef este o așezare istorică în Zintan, cu ruine ale locuințelor tradiționale.",
                   "category": "historical",
                   "coords": [
                         12.234611,
@@ -4885,7 +5578,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Wadi Ali",
-                  "text": "وادي على is a scenic viewpoint in Sintan.",
+                  "text": "Wadi Ali is a dry river valley in Zintan, with palm groves and seasonal streams.",
                   "category": "natural",
                   "coords": [
                         12.252247,
@@ -4894,7 +5587,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Dar Al-Shiyab",
-                  "text": "دار الشياب is a local attraction situated in Sintan.",
+                  "text": "Dar Al-Shiyab is a traditional stone house in Zintan, now a cultural landmark.",
                   "category": "landmark",
                   "coords": [
                         12.248914,
@@ -4903,7 +5596,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Fathet Wassin",
-                  "text": "فتحت وسين is an attraction located in the city of Sintan.",
+                  "text": "Fathet Wassin is a historic gate in Zintan, marking the entrance to the old quarter.",
                   "category": "landmark",
                   "coords": [
                         12.273114,
@@ -4912,7 +5605,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Romani",
-                  "text": "الروماني is an observation viewpoint located in Sintan.",
+                  "text": "Al-Romani is a mountainous area near Zintan, known for its rocky landscapes.",
                   "category": "natural",
                   "coords": [
                         12.279905,
@@ -4921,7 +5614,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Abaziz",
-                  "text": "ابزيز is a point of interest attraction in Sintan.",
+                  "text": "Abaziz is a prominent hill in Zintan, offering panoramic views.",
                   "category": "landmark",
                   "coords": [
                         12.249361,
@@ -4930,7 +5623,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Awlad Abulhol Island",
-                  "text": "جزيرة اولاد ابوالهول is a monument located in Sintan.",
+                  "text": "Awlad Abulhol Island is a historical site in Zintan, containing ancient burial mounds.",
                   "category": "historical",
                   "coords": [
                         12.226197,
@@ -4939,7 +5632,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Sharef",
-                  "text": "الشارف is a local monument in the city of Sintan.",
+                  "text": "Al-Sharef is a historical settlement in Zintan, with ruins of traditional dwellings.",
                   "category": "historical",
                   "coords": [
                         12.234611,
@@ -4997,7 +5690,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Center for heritage",
-                  "text": "Das Center for heritage ist ein Museum in Mizda.",
+                  "text": "Das Zentrum für Kulturerbe in Mizda ist ein Museum, das die lokale Berberkultur bewahrt.",
                   "category": "museum",
                   "coords": [
                         12.980072,
@@ -5006,7 +5699,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ancient Ruins",
-                  "text": "Die Ruins bieten einen historischen Aussichtspunkt über Mizda.",
+                  "text": "Ruinen antiker Bauwerke in Mizda, gelegen in einer natürlichen Wüstenlandschaft.",
                   "category": "natural",
                   "coords": [
                         12.983681,
@@ -5015,7 +5708,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Lawtia",
-                  "text": "Lawtia ist eine Touristenattraktion in der Stadt Mizda.",
+                  "text": "Lawtia ist ein markanter Hügel oder Berg in Mizda, der als Aussichtspunkt dient.",
                   "category": "landmark",
                   "coords": [
                         12.984077,
@@ -5024,7 +5717,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arqoub Al-Saqaqra",
-                  "text": "عرقوب الصقاقرة ist eine Sehenswürdigkeit in Mizda.",
+                  "text": "Arqoub Al-Saqaqra ist ein felsiger Kamm in Mizda mit alten Höhlenwohnungen.",
                   "category": "landmark",
                   "coords": [
                         12.992459,
@@ -5035,7 +5728,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Center for heritage",
-                  "text": "A Center for heritage egy múzeum Mizda városában.",
+                  "text": "A Mizdai Örökség Központ egy múzeum, amely a helyi berber kultúrát őrzi.",
                   "category": "museum",
                   "coords": [
                         12.980072,
@@ -5044,7 +5737,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins",
-                  "text": "A Ruins egy történelmi kilátópont Mizda területén.",
+                  "text": "Ősi építmények romjai Mizdában, természetes sivatagi környezetben.",
                   "category": "natural",
                   "coords": [
                         12.983681,
@@ -5053,7 +5746,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Lawtia",
-                  "text": "Lawtia egy turisztikai látványosság Mizda városában.",
+                  "text": "Lawtia egy jellegzetes domb vagy hegy Mizdában, kilátóként szolgál.",
                   "category": "landmark",
                   "coords": [
                         12.984077,
@@ -5062,7 +5755,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arqoub Al-Saqaqra",
-                  "text": "A عرقوب الصقاقرة egy látványosság Mizda városában.",
+                  "text": "Arqoub Al-Saqaqra egy sziklás gerinc Mizdában, ősi barlanglakásokkal.",
                   "category": "landmark",
                   "coords": [
                         12.992459,
@@ -5073,7 +5766,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Center for heritage",
-                  "text": "Center for heritage este un muzeu din Mizda.",
+                  "text": "Centrul pentru Patrimoniu din Mizda este un muzeu care păstrează cultura berberă locală.",
                   "category": "museum",
                   "coords": [
                         12.980072,
@@ -5082,7 +5775,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins",
-                  "text": "Ruins reprezintă un punct de belvedere istoric în Mizda.",
+                  "text": "Ruine ale unor structuri antice în Mizda, situate într-un peisaj natural deșertic.",
                   "category": "natural",
                   "coords": [
                         12.983681,
@@ -5091,7 +5784,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Lawtia",
-                  "text": "Lawtia este o atracție turistică situată în orașul Mizda.",
+                  "text": "Lawtia este un deal sau munte proeminent în Mizda, folosit ca punct de observație.",
                   "category": "landmark",
                   "coords": [
                         12.984077,
@@ -5100,7 +5793,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arqoub Al-Saqaqra",
-                  "text": "عرقوب الصقاقرة este o atracție situată în Mizda.",
+                  "text": "Arqoub Al-Saqaqra este o creastă stâncoasă în Mizda, cu locuințe rupestre antice.",
                   "category": "landmark",
                   "coords": [
                         12.992459,
@@ -5111,7 +5804,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Center for heritage",
-                  "text": "The Center for heritage is a museum dedicated to local history in Mizda.",
+                  "text": "Center for Heritage in Mizda is a museum preserving local Berber culture.",
                   "category": "museum",
                   "coords": [
                         12.980072,
@@ -5120,7 +5813,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruins",
-                  "text": "The Ruins provide a historic viewpoint over Mizda.",
+                  "text": "Ruins of ancient structures in Mizda, located in a natural desert setting.",
                   "category": "natural",
                   "coords": [
                         12.983681,
@@ -5129,7 +5822,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Lawtia",
-                  "text": "Lawtia is a tourist attraction situated in the city of Mizda.",
+                  "text": "Lawtia is a prominent hill or mountain in Mizda, used as a lookout.",
                   "category": "landmark",
                   "coords": [
                         12.984077,
@@ -5138,7 +5831,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Arqoub Al-Saqaqra",
-                  "text": "عرقوب الصقاقرة is an attraction point located in Mizda.",
+                  "text": "Arqoub Al-Saqaqra is a rocky ridge in Mizda, with ancient cave dwellings.",
                   "category": "landmark",
                   "coords": [
                         12.992459,
@@ -5192,7 +5885,628 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "shahhat-cities-v2", "sights": {"de": [{"name": "Kyrene", "text": "Antike griechische Stadt in Schahat.", "category": "historical", "coords": [21.85641, 32.8208]}, {"name": "Temple of Hades in Cyrene", "text": "Der historische Temple of Hades in Cyrene ist eine faszinierende archäologische Stätte in Shahhat. Bei einer Besichtigung der Ruinen können Gäste tief in die antike Geschichte Libyens eintauchen.", "category": "historical", "coords": [21.853068, 32.823192]}, {"name": "Theater of Cyrene", "text": "Das archäologische Areal des Theater of Cyrene zeugt von der frühen Kultur in Shahhat. Die historischen Überreste dieser libyschen Stätte geben eine beeindruckende Vorstellung vom damaligen Leben.", "category": "historical", "coords": [21.856261, 32.815627]}, {"name": "Chariot Racing Track", "text": "Als bedeutende historische Stätte zieht ميدان سباق المركبات Besucher nach Shahhat. Das archäologische Gelände in Libyen veranschaulicht eindrucksvoll die Ausmaße antiker Anlagen.", "category": "historical", "coords": [21.864143, 32.822211]}, {"name": "Eine außergewöhnliche archäologische Stätte in Shahhat", "text": "Eine außergewöhnliche archäologische Stätte in Shahhat ist die Anlage معبد أبولو. Wer diese historischen Gemäuer in Libyen besucht, spürt den architektonischen Geist vergangener Epochen.", "category": "castle", "coords": [21.861943, 32.827163]}, {"name": "Theatre 3", "text": "Unter den Überresten von Shahhat findet sich auch Theatre 3, eine alte archäologische Stätte. Geschichtsinteressierte können an diesem libyschen Ort Spuren der Vergangenheit erkunden.", "category": "historical", "coords": [21.858017, 32.817681]}, {"name": "Sculpture Museum", "text": "Museum in Schahat.", "category": "museum", "coords": [21.86418, 32.817812]}, {"name": "The Agora", "text": "Die historische Stätte الاجورا bildet das archäologische Herzstück von Shahhat. Auf diesem Gebiet in Libyen wandeln Besucher auf den Pfaden längst vergangener Kulturen.", "category": "historical", "coords": [21.855787, 32.81927]}, {"name": "Temple of Apollo", "text": "Mit معبد أبوللو bewahrt Shahhat eine weitere wichtige archäologische Ausgrabung. Diese libyschen Ruinen bieten einen authentischen Blick auf die antike Baugeschichte.", "category": "historical", "coords": [21.851548, 32.823952]}, {"name": "Temple of Demeter", "text": "Das archäologische Gebiet rund um den Temple of Demeter lockt Historiker und Touristen nach Shahhat. Die Überreste in diesem Teil Libyens sind stille Zeugen einer reichen antiken Geschichte.", "category": "historical", "coords": [21.85744, 32.814305]}, {"name": "Ancient City of Cyrene", "text": "Antike Ruinen in Schahat.", "category": "historical", "coords": [21.857096, 32.822327]}, {"name": "Qaşr al Baţḩā’", "text": "Die steinernen Ruinen von Qaşr al Baţḩā’ dokumentieren die reiche Vergangenheit von Shahhat. Wer sich für libysche Geschichte begeistert, findet hier ein interessantes Ausflugsziel.", "category": "historical", "coords": [21.836201, 32.845269]}, {"name": "Viewpoint", "text": "Sehenswürdigkeit in Schahat.", "category": "landmark", "coords": [21.854667, 32.823676]}, {"name": "Acropolis", "text": "Ruinen der Akropolis in Schahat.", "category": "historical", "coords": [21.850813, 32.821902]}, {"name": "Temple of Zeus", "text": "Als imposantes historisches Zeugnis prägen die Ruinen von معبد زيوس das Umland von Shahhat. Die Ausmaße dieser libyschen Sehenswürdigkeit lassen die einstige Pracht noch immer erahnen.", "category": "historical", "coords": [21.862444, 32.82234]}, {"name": "The Propylaeum", "text": "In Shahhat stechen die historischen Ruinen namens البروبيلون السويري hervor. Diese faszinierenden Überreste in Libyen laden dazu ein, vergangene Epochen zu rekonstruieren.", "category": "historical", "coords": [21.857315, 32.820125]}, {"name": "Temple of Hermes", "text": "Die alten Ruinen des Temple of Hermes sind eine Attraktion für Besucher in Shahhat. Mitten in Libyen offenbart dieses historische Bauwerk interessante Details früherer Kulturen.", "category": "historical", "coords": [21.857033, 32.818248]}], "hu": [{"name": "Kyrini", "text": "Ókori görög város Schahat-ban.", "category": "historical", "coords": [21.85641, 32.8208]}, {"name": "Temple of Hades in Cyrene", "text": "A történelmi Temple of Hades in Cyrene egy lenyűgöző régészeti lelőhely Shahhatban. A romok megtekintése során a vendégek elmerülhetnek Líbia ókori történelmében.", "category": "historical", "coords": [21.853068, 32.823192]}, {"name": "Theater of Cyrene", "text": "A Theater of Cyrene régészeti területe Shahhat korai kultúrájáról tanúskodik. E líbiai történelmi helyszín maradványai lenyűgöző képet adnak az egykori életről.", "category": "historical", "coords": [21.856261, 32.815627]}, {"name": "Chariot Racing Track", "text": "Jelentős történelmi helyszínként a ميدان سباق المركبات sok látogatót vonz Shahhatba. Ez a líbiai régészeti terület lenyűgözően szemlélteti az ókori építmények méreteit.", "category": "historical", "coords": [21.864143, 32.822211]}, {"name": "Temple of Apollo", "text": "Shahhat egyik kivételes régészeti helyszíne a معبد أبولو épületegyüttese. Aki felkeresi ezeket a történelmi falakat Líbiában, megérezheti az elmúlt korszakok építészeti szellemét.", "category": "castle", "coords": [21.861943, 32.827163]}, {"name": "Theatre 3", "text": "Shahhat maradványai között található a Theatre 3 is, amely egy ősi régészeti lelőhely. A történelem iránt érdeklődők a múlt nyomait fedezhetik fel ezen a líbiai helyszínen.", "category": "historical", "coords": [21.858017, 32.817681]}, {"name": "Sculpture Museum", "text": "Múzeum Schahat városában.", "category": "museum", "coords": [21.86418, 32.817812]}, {"name": "The Agora", "text": "Az الاجورا történelmi helyszíne Shahhat régészeti központját alkotja. Ezen a líbiai területen a látogatók rég letűnt kultúrák ösvényein sétálhatnak.", "category": "historical", "coords": [21.855787, 32.81927]}, {"name": "Temple of Apollo", "text": "A معبد أبوللو révén Shahhat egy másik fontos régészeti ásatást őriz. Ezek a líbiai romok hiteles bepillantást nyújtanak az ókori építészettörténetbe.", "category": "historical", "coords": [21.851548, 32.823952]}, {"name": "Temple of Demeter", "text": "A Temple of Demeter körüli régészeti terület vonzza a történészeket és a turistákat Shahhatba. A maradványok Líbia ezen részén a gazdag ókori történelem néma tanúi.", "category": "historical", "coords": [21.85744, 32.814305]}, {"name": "Ancient City of Cyrene", "text": "Ókori romok Schahat városában.", "category": "historical", "coords": [21.857096, 32.822327]}, {"name": "Qaşr al Baţḩā’", "text": "A Qaşr al Baţḩā’ kőből épült romjai Shahhat gazdag múltját dokumentálják. Aki rajong a líbiai történelemért, itt egy érdekes kirándulási célpontot talál.", "category": "historical", "coords": [21.836201, 32.845269]}, {"name": "Viewpoint", "text": "Látnivaló Schahat városában.", "category": "landmark", "coords": [21.854667, 32.823676]}, {"name": "Acropolis", "text": "Az akropolisz romjai Schahat városában.", "category": "historical", "coords": [21.850813, 32.821902]}, {"name": "Temple of Zeus", "text": "Impozáns történelmi tanúbizonyságként a معبد زيوس romjai határozzák meg Shahhat környékét. E líbiai nevezetesség méretei még mindig sejtetik egykori pompáját.", "category": "historical", "coords": [21.862444, 32.82234]}, {"name": "The Propylaeum", "text": "Shahhatban kiemelkednek a البروبيلون السويري nevű történelmi romok. Ezek a lenyűgöző líbiai maradványok arra csábítanak, hogy rekonstruáljuk a letűnt korszakokat.", "category": "historical", "coords": [21.857315, 32.820125]}, {"name": "Temple of Hermes", "text": "A Temple of Hermes ősi romjai az idelátogatók egyik fő attrakcióját jelentik Shahhatban. Líbia közepén ez a történelmi építmény korábbi kultúrák érdekes részleteit tárja fel.", "category": "historical", "coords": [21.857033, 32.818248]}], "ro": [{"name": "Kyrini", "text": "Oraș antic grecesc în Schahat.", "category": "historical", "coords": [21.85641, 32.8208]}, {"name": "Temple of Hades in Cyrene", "text": "Istoricul Temple of Hades in Cyrene este un sit arheologic fascinant din Shahhat. În timpul unei vizite la ruine, oaspeții se pot scufunda în istoria antică a Libiei.", "category": "historical", "coords": [21.853068, 32.823192]}, {"name": "Theater of Cyrene", "text": "Zona arheologică Theater of Cyrene depune mărturie despre cultura timpurie din Shahhat. Rămășițele istorice ale acestui sit libian oferă o imagine impresionantă a vieții de odinioară.", "category": "historical", "coords": [21.856261, 32.815627]}, {"name": "Chariot Racing Track", "text": "Ca sit istoric important, ميدان سباق المركبات atrage numeroși vizitatori în Shahhat. Terenul arheologic din Libia ilustrează în mod impresionant dimensiunile structurilor antice.", "category": "historical", "coords": [21.864143, 32.822211]}, {"name": "Un sit arheologic excepțional în Shahhat", "text": "Un sit arheologic excepțional în Shahhat este complexul معبد أبولو. Cei care vizitează aceste ziduri istorice din Libia pot simți spiritul arhitectural al epocilor trecute.", "category": "castle", "coords": [21.861943, 32.827163]}, {"name": "Theatre 3", "text": "Printre vestigiile din Shahhat se numără și Theatre 3, un vechi sit arheologic. Cei pasionați de istorie pot explora urmele trecutului în acest loc din Libia.", "category": "historical", "coords": [21.858017, 32.817681]}, {"name": "Sculpture Museum", "text": "Muzeu în Schahat.", "category": "museum", "coords": [21.86418, 32.817812]}, {"name": "The Agora", "text": "Situl istoric الاجورا formează piesa centrală arheologică din Shahhat. În această zonă din Libia, vizitatorii pășesc pe urmele unor culturi de mult apuse.", "category": "historical", "coords": [21.855787, 32.81927]}, {"name": "Temple of Apollo", "text": "Cu معبد أبوللو, Shahhat păstrează o altă excavație arheologică importantă. Aceste ruine libiene oferă o privire autentică asupra istoriei construcțiilor antice.", "category": "historical", "coords": [21.851548, 32.823952]}, {"name": "Temple of Demeter", "text": "Zona arheologică din jurul Temple of Demeter atrage istorici și turiști în Shahhat. Rămășițele din această parte a Libiei sunt martori tăcuți ai unei bogate istorii antice.", "category": "historical", "coords": [21.85744, 32.814305]}, {"name": "Ancient City of Cyrene", "text": "Ruine antice în Schahat.", "category": "historical", "coords": [21.857096, 32.822327]}, {"name": "Qaşr al Baţḩā’", "text": "Ruinele de piatră de la Qaşr al Baţḩā’ documentează trecutul bogat al orașului Shahhat. Cei pasionați de istoria libiană vor găsi aici o destinație interesantă pentru excursii.", "category": "historical", "coords": [21.836201, 32.845269]}, {"name": "Viewpoint", "text": "Atracție în Schahat.", "category": "landmark", "coords": [21.854667, 32.823676]}, {"name": "Acropolis", "text": "Ruinele acropolei în Schahat.", "category": "historical", "coords": [21.850813, 32.821902]}, {"name": "Temple of Zeus", "text": "Ca o dovadă istorică impunătoare, ruinele de la معبد زيوس marchează împrejurimile orașului Shahhat. Dimensiunile acestei atracții libiene sugerează încă splendoarea de odinioară.", "category": "historical", "coords": [21.862444, 32.82234]}, {"name": "The Propylaeum", "text": "În Shahhat se evidențiază ruinele istorice numite البروبيلون السويري. Aceste vestigii fascinante din Libia ne invită să reconstruim mental epocile trecute.", "category": "historical", "coords": [21.857315, 32.820125]}, {"name": "Temple of Hermes", "text": "Vechile ruine de la Temple of Hermes sunt o atracție pentru vizitatorii din Shahhat. Chiar în mijlocul Libiei, această structură istorică dezvăluie detalii interesante ale culturilor anterioare.", "category": "historical", "coords": [21.857033, 32.818248]}], "en": [{"name": "Cyrene", "text": "Ancient Greek city in Schahat.", "category": "historical", "coords": [21.85641, 32.8208]}, {"name": "Temple of Hades in Cyrene", "text": "The historical Temple of Hades in Cyrene is a fascinating archaeological site in Shahhat. While touring the ruins, guests can immerse themselves in the ancient history of Libya.", "category": "historical", "coords": [21.853068, 32.823192]}, {"name": "Theater of Cyrene", "text": "The archaeological area of the Theater of Cyrene testifies to the early culture in Shahhat. The historical remains of this Libyan site give an impressive idea of life in ancient times.", "category": "historical", "coords": [21.856261, 32.815627]}, {"name": "Chariot Racing Track", "text": "As a significant historical site, ميدان سباق المركبات draws visitors to Shahhat. The archaeological grounds in Libya impressively illustrate the scale of ancient facilities.", "category": "historical", "coords": [21.864143, 32.822211]}, {"name": "Temple of Apolo", "text": "An exceptional archaeological site in Shahhat is the complex of معبد أبولو. Anyone visiting these historical structures in Libya can feel the architectural spirit of past eras.", "category": "castle", "coords": [21.861943, 32.827163]}, {"name": "Theatre 3", "text": "Among the remains of Shahhat is Theatre 3, an ancient archaeological site. History enthusiasts can explore traces of the past at this location in Libya.", "category": "historical", "coords": [21.858017, 32.817681]}, {"name": "Shahhat Museum", "text": "Museum in Schahat.", "category": "museum", "coords": [21.86418, 32.817812]}, {"name": "The Agora", "text": "The historical site of الاجورا forms the archaeological centerpiece of Shahhat. In this area of Libya, visitors walk along the paths of long-gone cultures.", "category": "historical", "coords": [21.855787, 32.81927]}, {"name": "Temple of Apollo", "text": "With معبد أبوللو, Shahhat preserves another important archaeological excavation. These Libyan ruins offer an authentic look at ancient architectural history.", "category": "historical", "coords": [21.851548, 32.823952]}, {"name": "Temple of Demeter", "text": "The archaeological area around the Temple of Demeter attracts historians and tourists to Shahhat. The remains in this part of Libya are silent witnesses to a rich ancient history.", "category": "historical", "coords": [21.85744, 32.814305]}, {"name": "Shahhat (Cyrene) monuments", "text": "Ancient ruins in Schahat.", "category": "historical", "coords": [21.857096, 32.822327]}, {"name": "Qaşr al Baţḩā’", "text": "The stone ruins of Qaşr al Baţḩā’ document the rich past of Shahhat. Those enthusiastic about Libyan history will find an interesting excursion destination here.", "category": "historical", "coords": [21.836201, 32.845269]}, {"name": "Viewpoint", "text": "Attraction in Schahat.", "category": "landmark", "coords": [21.854667, 32.823676]}, {"name": "Acropolis", "text": "Acropolis ruins in Schahat.", "category": "historical", "coords": [21.850813, 32.821902]}, {"name": "Temple of Zeus", "text": "As an imposing historical testament, the ruins of معبد زيوس characterize the surroundings of Shahhat. The scale of this Libyan sight still hints at its former splendor.", "category": "historical", "coords": [21.862444, 32.82234]}, {"name": "The Propylaeum", "text": "In Shahhat, the historical ruins named البروبيلون السويري stand out. These fascinating remains in Libya invite visitors to conceptually reconstruct past eras.", "category": "historical", "coords": [21.857315, 32.820125]}, {"name": "Temple of Hermes", "text": "The ancient ruins of the Temple of Hermes are an attraction for visitors in Shahhat. Right in the middle of Libya, this historical structure reveals interesting details of earlier cultures.", "category": "historical", "coords": [21.857033, 32.818248]}]},
+    id: "shahhat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kyrene",
+                  "text": "Kyrene ist eine antike griechische Stadt in Shahhat, berühmt für ihren Apollontempel.",
+                  "category": "historical",
+                  "coords": [
+                        21.85641,
+                        32.8208
+                  ]
+            },
+            {
+                  "name": "Temple of Hades in Cyrene",
+                  "text": "Der historische Temple of Hades in Cyrene ist eine faszinierende archäologische Stätte in Shahhat. Bei einer Besichtigung der Ruinen können Gäste tief in die antike Geschichte Libyens eintauchen.",
+                  "category": "historical",
+                  "coords": [
+                        21.853068,
+                        32.823192
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "Das archäologische Areal des Theater of Cyrene zeugt von der frühen Kultur in Shahhat. Die historischen Überreste dieser libyschen Stätte geben eine beeindruckende Vorstellung vom damaligen Leben.",
+                  "category": "historical",
+                  "coords": [
+                        21.856261,
+                        32.815627
+                  ]
+            },
+            {
+                  "name": "Chariot Racing Track",
+                  "text": "Als bedeutende historische Stätte zieht ميدان سباق المركبات Besucher nach Shahhat. Das archäologische Gelände in Libyen veranschaulicht eindrucksvoll die Ausmaße antiker Anlagen.",
+                  "category": "historical",
+                  "coords": [
+                        21.864143,
+                        32.822211
+                  ]
+            },
+            {
+                  "name": "Eine außergewöhnliche archäologische Stätte in Shahhat",
+                  "text": "Eine außergewöhnliche archäologische Stätte in Shahhat ist die Anlage معبد أبولو. Wer diese historischen Gemäuer in Libyen besucht, spürt den architektonischen Geist vergangener Epochen.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Theatre 3",
+                  "text": "Unter den Überresten von Shahhat findet sich auch Theatre 3, eine alte archäologische Stätte. Geschichtsinteressierte können an diesem libyschen Ort Spuren der Vergangenheit erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        21.858017,
+                        32.817681
+                  ]
+            },
+            {
+                  "name": "Sculpture Museum",
+                  "text": "Das Shahhat-Museum beherbergt Funde aus der nahegelegenen Ausgrabungsstätte Kyrene.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "The Agora",
+                  "text": "Die historische Stätte الاجورا bildet das archäologische Herzstück von Shahhat. Auf diesem Gebiet in Libyen wandeln Besucher auf den Pfaden längst vergangener Kulturen.",
+                  "category": "historical",
+                  "coords": [
+                        21.855787,
+                        32.81927
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "Mit معبد أبوللو bewahrt Shahhat eine weitere wichtige archäologische Ausgrabung. Diese libyschen Ruinen bieten einen authentischen Blick auf die antike Baugeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        21.851548,
+                        32.823952
+                  ]
+            },
+            {
+                  "name": "Temple of Demeter",
+                  "text": "Das archäologische Gebiet rund um den Temple of Demeter lockt Historiker und Touristen nach Shahhat. Die Überreste in diesem Teil Libyens sind stille Zeugen einer reichen antiken Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "Ancient City of Cyrene",
+                  "text": "Die Monumente von Kyrene in Shahhat umfassen den Zeustempel und das griechische Theater.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "Die steinernen Ruinen von Qaşr al Baţḩā’ dokumentieren die reiche Vergangenheit von Shahhat. Wer sich für libysche Geschichte begeistert, findet hier ein interessantes Ausflugsziel.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845269
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "Der Aussichtspunkt in Shahhat bietet einen Panoramablick auf die Ruinen von Kyrene und die umliegenden Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        21.854667,
+                        32.823676
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "Die Akropolis von Kyrene in Shahhat ist die antike Hügelfestung mit Tempelfundamenten.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus",
+                  "text": "Als imposantes historisches Zeugnis prägen die Ruinen von معبد زيوس das Umland von Shahhat. Die Ausmaße dieser libyschen Sehenswürdigkeit lassen die einstige Pracht noch immer erahnen.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "The Propylaeum",
+                  "text": "In Shahhat stechen die historischen Ruinen namens البروبيلون السويري hervor. Diese faszinierenden Überreste in Libyen laden dazu ein, vergangene Epochen zu rekonstruieren.",
+                  "category": "historical",
+                  "coords": [
+                        21.857315,
+                        32.820125
+                  ]
+            },
+            {
+                  "name": "Temple of Hermes",
+                  "text": "Die alten Ruinen des Temple of Hermes sind eine Attraktion für Besucher in Shahhat. Mitten in Libyen offenbart dieses historische Bauwerk interessante Details früherer Kulturen.",
+                  "category": "historical",
+                  "coords": [
+                        21.857033,
+                        32.818248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kyrini",
+                  "text": "Küréne egy ókori görög város Shahhatban, híres Apollón-templomáról.",
+                  "category": "historical",
+                  "coords": [
+                        21.85641,
+                        32.8208
+                  ]
+            },
+            {
+                  "name": "Temple of Hades in Cyrene",
+                  "text": "A történelmi Temple of Hades in Cyrene egy lenyűgöző régészeti lelőhely Shahhatban. A romok megtekintése során a vendégek elmerülhetnek Líbia ókori történelmében.",
+                  "category": "historical",
+                  "coords": [
+                        21.853068,
+                        32.823192
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "A Theater of Cyrene régészeti területe Shahhat korai kultúrájáról tanúskodik. E líbiai történelmi helyszín maradványai lenyűgöző képet adnak az egykori életről.",
+                  "category": "historical",
+                  "coords": [
+                        21.856261,
+                        32.815627
+                  ]
+            },
+            {
+                  "name": "Chariot Racing Track",
+                  "text": "Jelentős történelmi helyszínként a ميدان سباق المركبات sok látogatót vonz Shahhatba. Ez a líbiai régészeti terület lenyűgözően szemlélteti az ókori építmények méreteit.",
+                  "category": "historical",
+                  "coords": [
+                        21.864143,
+                        32.822211
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "Shahhat egyik kivételes régészeti helyszíne a معبد أبولو épületegyüttese. Aki felkeresi ezeket a történelmi falakat Líbiában, megérezheti az elmúlt korszakok építészeti szellemét.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Theatre 3",
+                  "text": "Shahhat maradványai között található a Theatre 3 is, amely egy ősi régészeti lelőhely. A történelem iránt érdeklődők a múlt nyomait fedezhetik fel ezen a líbiai helyszínen.",
+                  "category": "historical",
+                  "coords": [
+                        21.858017,
+                        32.817681
+                  ]
+            },
+            {
+                  "name": "Sculpture Museum",
+                  "text": "A Shahhat Múzeum a közeli Küréne ásatási leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "The Agora",
+                  "text": "Az الاجورا történelmi helyszíne Shahhat régészeti központját alkotja. Ezen a líbiai területen a látogatók rég letűnt kultúrák ösvényein sétálhatnak.",
+                  "category": "historical",
+                  "coords": [
+                        21.855787,
+                        32.81927
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "A معبد أبوللو révén Shahhat egy másik fontos régészeti ásatást őriz. Ezek a líbiai romok hiteles bepillantást nyújtanak az ókori építészettörténetbe.",
+                  "category": "historical",
+                  "coords": [
+                        21.851548,
+                        32.823952
+                  ]
+            },
+            {
+                  "name": "Temple of Demeter",
+                  "text": "A Temple of Demeter körüli régészeti terület vonzza a történészeket és a turistákat Shahhatba. A maradványok Líbia ezen részén a gazdag ókori történelem néma tanúi.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "Ancient City of Cyrene",
+                  "text": "A kürénei műemlékek Shahhatban magukban foglalják a Zeusz-templomot és a görög színházat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "A Qaşr al Baţḩā’ kőből épült romjai Shahhat gazdag múltját dokumentálják. Aki rajong a líbiai történelemért, itt egy érdekes kirándulási célpontot talál.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845269
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "A kilátó Shahhatban panorámás kilátást nyújt Küréne romjaira és a környező dombokra.",
+                  "category": "landmark",
+                  "coords": [
+                        21.854667,
+                        32.823676
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "A kürénei Akropolisz Shahhatban az ókori domb erődítménye templomalapzatokkal.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus",
+                  "text": "Impozáns történelmi tanúbizonyságként a معبد زيوس romjai határozzák meg Shahhat környékét. E líbiai nevezetesség méretei még mindig sejtetik egykori pompáját.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "The Propylaeum",
+                  "text": "Shahhatban kiemelkednek a البروبيلون السويري nevű történelmi romok. Ezek a lenyűgöző líbiai maradványok arra csábítanak, hogy rekonstruáljuk a letűnt korszakokat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857315,
+                        32.820125
+                  ]
+            },
+            {
+                  "name": "Temple of Hermes",
+                  "text": "A Temple of Hermes ősi romjai az idelátogatók egyik fő attrakcióját jelentik Shahhatban. Líbia közepén ez a történelmi építmény korábbi kultúrák érdekes részleteit tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        21.857033,
+                        32.818248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kyrini",
+                  "text": "Cirene este un oraș grecesc antic în Shahhat, renumit pentru Templul lui Apollo.",
+                  "category": "historical",
+                  "coords": [
+                        21.85641,
+                        32.8208
+                  ]
+            },
+            {
+                  "name": "Temple of Hades in Cyrene",
+                  "text": "Istoricul Temple of Hades in Cyrene este un sit arheologic fascinant din Shahhat. În timpul unei vizite la ruine, oaspeții se pot scufunda în istoria antică a Libiei.",
+                  "category": "historical",
+                  "coords": [
+                        21.853068,
+                        32.823192
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "Zona arheologică Theater of Cyrene depune mărturie despre cultura timpurie din Shahhat. Rămășițele istorice ale acestui sit libian oferă o imagine impresionantă a vieții de odinioară.",
+                  "category": "historical",
+                  "coords": [
+                        21.856261,
+                        32.815627
+                  ]
+            },
+            {
+                  "name": "Chariot Racing Track",
+                  "text": "Ca sit istoric important, ميدان سباق المركبات atrage numeroși vizitatori în Shahhat. Terenul arheologic din Libia ilustrează în mod impresionant dimensiunile structurilor antice.",
+                  "category": "historical",
+                  "coords": [
+                        21.864143,
+                        32.822211
+                  ]
+            },
+            {
+                  "name": "Un sit arheologic excepțional în Shahhat",
+                  "text": "Un sit arheologic excepțional în Shahhat este complexul معبد أبولو. Cei care vizitează aceste ziduri istorice din Libia pot simți spiritul arhitectural al epocilor trecute.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Theatre 3",
+                  "text": "Printre vestigiile din Shahhat se numără și Theatre 3, un vechi sit arheologic. Cei pasionați de istorie pot explora urmele trecutului în acest loc din Libia.",
+                  "category": "historical",
+                  "coords": [
+                        21.858017,
+                        32.817681
+                  ]
+            },
+            {
+                  "name": "Sculpture Museum",
+                  "text": "Muzeul Shahhat adăpostește artefacte excavate din situl arheologic Cirene.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "The Agora",
+                  "text": "Situl istoric الاجورا formează piesa centrală arheologică din Shahhat. În această zonă din Libia, vizitatorii pășesc pe urmele unor culturi de mult apuse.",
+                  "category": "historical",
+                  "coords": [
+                        21.855787,
+                        32.81927
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "Cu معبد أبوللو, Shahhat păstrează o altă excavație arheologică importantă. Aceste ruine libiene oferă o privire autentică asupra istoriei construcțiilor antice.",
+                  "category": "historical",
+                  "coords": [
+                        21.851548,
+                        32.823952
+                  ]
+            },
+            {
+                  "name": "Temple of Demeter",
+                  "text": "Zona arheologică din jurul Temple of Demeter atrage istorici și turiști în Shahhat. Rămășițele din această parte a Libiei sunt martori tăcuți ai unei bogate istorii antice.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "Ancient City of Cyrene",
+                  "text": "Monumentele din Cirene din Shahhat includ Templul lui Zeus și teatrul grecesc.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "Ruinele de piatră de la Qaşr al Baţḩā’ documentează trecutul bogat al orașului Shahhat. Cei pasionați de istoria libiană vor găsi aici o destinație interesantă pentru excursii.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845269
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "Punctul de belvedere din Shahhat oferă vederi panoramice asupra ruinelor din Cirene și dealurilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        21.854667,
+                        32.823676
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "Acropola din Cirene în Shahhat este cetatea antică pe deal, cu fundații de temple.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus",
+                  "text": "Ca o dovadă istorică impunătoare, ruinele de la معبد زيوس marchează împrejurimile orașului Shahhat. Dimensiunile acestei atracții libiene sugerează încă splendoarea de odinioară.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "The Propylaeum",
+                  "text": "În Shahhat se evidențiază ruinele istorice numite البروبيلون السويري. Aceste vestigii fascinante din Libia ne invită să reconstruim mental epocile trecute.",
+                  "category": "historical",
+                  "coords": [
+                        21.857315,
+                        32.820125
+                  ]
+            },
+            {
+                  "name": "Temple of Hermes",
+                  "text": "Vechile ruine de la Temple of Hermes sunt o atracție pentru vizitatorii din Shahhat. Chiar în mijlocul Libiei, această structură istorică dezvăluie detalii interesante ale culturilor anterioare.",
+                  "category": "historical",
+                  "coords": [
+                        21.857033,
+                        32.818248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cyrene",
+                  "text": "Cyrene is an ancient Greek city in Shahhat, famous for its Temple of Apollo.",
+                  "category": "historical",
+                  "coords": [
+                        21.85641,
+                        32.8208
+                  ]
+            },
+            {
+                  "name": "Temple of Hades in Cyrene",
+                  "text": "The historical Temple of Hades in Cyrene is a fascinating archaeological site in Shahhat. While touring the ruins, guests can immerse themselves in the ancient history of Libya.",
+                  "category": "historical",
+                  "coords": [
+                        21.853068,
+                        32.823192
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "The archaeological area of the Theater of Cyrene testifies to the early culture in Shahhat. The historical remains of this Libyan site give an impressive idea of life in ancient times.",
+                  "category": "historical",
+                  "coords": [
+                        21.856261,
+                        32.815627
+                  ]
+            },
+            {
+                  "name": "Chariot Racing Track",
+                  "text": "As a significant historical site, ميدان سباق المركبات draws visitors to Shahhat. The archaeological grounds in Libya impressively illustrate the scale of ancient facilities.",
+                  "category": "historical",
+                  "coords": [
+                        21.864143,
+                        32.822211
+                  ]
+            },
+            {
+                  "name": "Temple of Apolo",
+                  "text": "An exceptional archaeological site in Shahhat is the complex of معبد أبولو. Anyone visiting these historical structures in Libya can feel the architectural spirit of past eras.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Theatre 3",
+                  "text": "Among the remains of Shahhat is Theatre 3, an ancient archaeological site. History enthusiasts can explore traces of the past at this location in Libya.",
+                  "category": "historical",
+                  "coords": [
+                        21.858017,
+                        32.817681
+                  ]
+            },
+            {
+                  "name": "Shahhat Museum",
+                  "text": "Shahhat Museum houses artifacts excavated from the nearby Cyrene archaeological site.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "The Agora",
+                  "text": "The historical site of الاجورا forms the archaeological centerpiece of Shahhat. In this area of Libya, visitors walk along the paths of long-gone cultures.",
+                  "category": "historical",
+                  "coords": [
+                        21.855787,
+                        32.81927
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "With معبد أبوللو, Shahhat preserves another important archaeological excavation. These Libyan ruins offer an authentic look at ancient architectural history.",
+                  "category": "historical",
+                  "coords": [
+                        21.851548,
+                        32.823952
+                  ]
+            },
+            {
+                  "name": "Temple of Demeter",
+                  "text": "The archaeological area around the Temple of Demeter attracts historians and tourists to Shahhat. The remains in this part of Libya are silent witnesses to a rich ancient history.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "Shahhat (Cyrene) monuments",
+                  "text": "The monuments of Cyrene in Shahhat include the Temple of Zeus and the Greek theater.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "The stone ruins of Qaşr al Baţḩā’ document the rich past of Shahhat. Those enthusiastic about Libyan history will find an interesting excursion destination here.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845269
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "Viewpoint in Shahhat offers panoramic vistas of the Cyrene ruins and surrounding hills.",
+                  "category": "landmark",
+                  "coords": [
+                        21.854667,
+                        32.823676
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "The Acropolis of Cyrene in Shahhat is the ancient hilltop citadel with temple foundations.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus",
+                  "text": "As an imposing historical testament, the ruins of معبد زيوس characterize the surroundings of Shahhat. The scale of this Libyan sight still hints at its former splendor.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "The Propylaeum",
+                  "text": "In Shahhat, the historical ruins named البروبيلون السويري stand out. These fascinating remains in Libya invite visitors to conceptually reconstruct past eras.",
+                  "category": "historical",
+                  "coords": [
+                        21.857315,
+                        32.820125
+                  ]
+            },
+            {
+                  "name": "Temple of Hermes",
+                  "text": "The ancient ruins of the Temple of Hermes are an attraction for visitors in Shahhat. Right in the middle of Libya, this historical structure reveals interesting details of earlier cultures.",
+                  "category": "historical",
+                  "coords": [
+                        21.857033,
+                        32.818248
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JA",
     coords: [21.8542, 32.8236],
@@ -5251,7 +6565,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ancient warehouses",
-                  "text": "Die Ancient warehouses sind eine archäologische Stätte in Susa.",
+                  "text": "Die antiken Lagerhäuser in Susa dienten zur Aufbewahrung von Getreide und Gütern aus Kyrene.",
                   "category": "historical",
                   "coords": [
                         21.967273,
@@ -5260,7 +6574,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "West Necropolis of Apollonia",
-                  "text": "Die West Necropolis of Apollonia ist eine archäologische Grabstätte in Susa.",
+                  "text": "Die Westnekropole von Apollonia in Susa enthält in den Felsen gehauene Gräber aus römischer Zeit.",
                   "category": "historical",
                   "coords": [
                         21.957227,
@@ -5269,7 +6583,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Warehouses",
-                  "text": "Die Warehouses bilden eine archäologische Stätte in Susa.",
+                  "text": "Die Lagerhäuser in Susa sind Teil des antiken Hafens von Apollonia.",
                   "category": "historical",
                   "coords": [
                         21.973152,
@@ -5278,7 +6592,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Palace of the Dux",
-                  "text": "Der Palace of the Dux ist eine historische Burganlage in Susa.",
+                  "text": "Der Palast des Dux in Susa war die Residenz des römischen Militärkommandanten in Apollonia.",
                   "category": "castle",
                   "coords": [
                         21.969817,
@@ -5287,7 +6601,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "East Necropolis",
-                  "text": "Die East Necropolis ist eine Ruinenstätte und ehemalige Nekropole in Susa.",
+                  "text": "Die Ostnekropole von Apollonia in Susa weist Grabmonumente und Gräber auf.",
                   "category": "historical",
                   "coords": [
                         21.974688,
@@ -5296,7 +6610,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Bu Al-Zaa'la",
-                  "text": "بو الزاعلة ist eine Attraktion in Susa.",
+                  "text": "Bu Al-Zaa'la ist eine historische Moschee oder ein Schrein in Susa mit einem markanten Minarett.",
                   "category": "landmark",
                   "coords": [
                         21.95806,
@@ -5305,7 +6619,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Amejwaj Apartment",
-                  "text": "شقة عبدالله امعوج اجار ist ein Aussichtspunkt in Susa.",
+                  "text": "Abdullah Amejwaj Apartment ist eine natürliche Felsunterkunft in Susa, die in der Antike als Wohnung genutzt wurde.",
                   "category": "natural",
                   "coords": [
                         21.953523,
@@ -5314,7 +6628,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Western Church",
-                  "text": "الكنيسة الغربية ist eine historische Ruine in Susa.",
+                  "text": "Die Westkirche in Susa ist eine frühchristliche Basilika in der antiken Stadt Apollonia.",
                   "category": "historical",
                   "coords": [
                         21.966728,
@@ -5323,7 +6637,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "The Theatre",
-                  "text": "المسرح ist eine Ruinenstätte in der Stadt Susa.",
+                  "text": "Römisches Theater, in den Hang gegraben, noch heute für Sommeraufführungen genutzt.",
                   "category": "historical",
                   "coords": [
                         21.974935,
@@ -5332,7 +6646,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Western Gate",
-                  "text": "البوابة الغربية ist eine Ruinenstruktur in der Stadt Susa.",
+                  "text": "Römisches Tor mit drei Bögen, einst der westliche Zugang zur antiken Stadt.",
                   "category": "historical",
                   "coords": [
                         21.965606,
@@ -5341,7 +6655,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Central Church",
-                  "text": "الكنيسة الوسطي ist eine historische Ruinenstätte in Susa.",
+                  "text": "Mittelalterliche Kirche mit hohem Glockenturm am Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         21.968251,
@@ -5361,7 +6675,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ancient warehouses",
-                  "text": "Az Ancient warehouses egy régészeti lelőhely Susa városában.",
+                  "text": "Az ókori raktárak Susában a Küréneből származó gabona és áruk tárolására szolgáltak.",
                   "category": "historical",
                   "coords": [
                         21.967273,
@@ -5370,7 +6684,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "West Necropolis of Apollonia",
-                  "text": "A West Necropolis of Apollonia egy régészeti temetkezési hely Susa városában.",
+                  "text": "Apollonia nyugati nekropolisza Susában római kori sziklába vágott sírokat tartalmaz.",
                   "category": "historical",
                   "coords": [
                         21.957227,
@@ -5379,7 +6693,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Warehouses",
-                  "text": "A Warehouses egy régészeti területet alkot Susa városában.",
+                  "text": "A susai raktárak Apollonia ókori kikötőjének részét képezik.",
                   "category": "historical",
                   "coords": [
                         21.973152,
@@ -5388,7 +6702,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Palace of the Dux",
-                  "text": "A Palace of the Dux egy történelmi kastélyépület Susa városában.",
+                  "text": "A Dux palotája Susában Apollonia római katonai parancsnokának rezidenciája volt.",
                   "category": "castle",
                   "coords": [
                         21.969817,
@@ -5397,7 +6711,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "East Necropolis",
-                  "text": "Az East Necropolis egy romos temetkezési hely Susa városában.",
+                  "text": "Apollonia keleti nekropolisza Susában síremlékeket és sírokat tartalmaz.",
                   "category": "historical",
                   "coords": [
                         21.974688,
@@ -5406,7 +6720,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Bu Al-Zaa'la",
-                  "text": "A بو الزاعلة egy látványosság Susa városában.",
+                  "text": "Bu Al-Zaa'la egy történelmi mecset vagy szentély Susában, jellegzetes minarettel.",
                   "category": "landmark",
                   "coords": [
                         21.95806,
@@ -5415,7 +6729,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Amejwaj Apartment",
-                  "text": "A شقة عبدالله امعوج اجار egy kilátópont Susa városában.",
+                  "text": "Abdullah Amejwaj Apartman egy természetes sziklamenedék Susában, amelyet az ókorban lakóhelyként használtak.",
                   "category": "natural",
                   "coords": [
                         21.953523,
@@ -5424,7 +6738,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Western Church",
-                  "text": "A الكنيسة الغربية egy történelmi rom Susa városában.",
+                  "text": "A nyugati templom Susában egy korai keresztény bazilika Apollonia ókori városában.",
                   "category": "historical",
                   "coords": [
                         21.966728,
@@ -5433,7 +6747,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "The Theatre",
-                  "text": "A المسرح egy romterület Susa városában.",
+                  "text": "Római színház, a domboldalba vésve, nyári előadások helyszíne.",
                   "category": "historical",
                   "coords": [
                         21.974935,
@@ -5442,7 +6756,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Western Gate",
-                  "text": "A البوابة الغربية egy romos építmény Susa városában.",
+                  "text": "Római kapu három ívvel, egykor az ókori város nyugati bejárata.",
                   "category": "historical",
                   "coords": [
                         21.965606,
@@ -5451,7 +6765,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Central Church",
-                  "text": "A الكنيسة الوسطي egy történelmi romterület Susa városában.",
+                  "text": "Középkori templom magas harangtoronnyal a főtéren.",
                   "category": "historical",
                   "coords": [
                         21.968251,
@@ -5471,7 +6785,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ancient warehouses",
-                  "text": "Ancient warehouses reprezintă un sit arheologic situat în Susa.",
+                  "text": "Depozitele antice din Susa erau folosite pentru depozitarea cerealelor și mărfurilor din Cirene.",
                   "category": "historical",
                   "coords": [
                         21.967273,
@@ -5480,7 +6794,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "West Necropolis of Apollonia",
-                  "text": "West Necropolis of Apollonia este un sit arheologic funerar în Susa.",
+                  "text": "Necropola de Vest a Apolloniei din Susa conține morminte săpate în stâncă din perioada romană.",
                   "category": "historical",
                   "coords": [
                         21.957227,
@@ -5489,7 +6803,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Warehouses",
-                  "text": "Warehouses formează un sit arheologic situat în Susa.",
+                  "text": "Depozitele din Susa fac parte din portul antic al Apolloniei.",
                   "category": "historical",
                   "coords": [
                         21.973152,
@@ -5498,7 +6812,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Palace of the Dux",
-                  "text": "Palace of the Dux este un palat fortificat istoric din Susa.",
+                  "text": "Palatul Duxului din Susa a fost reședința comandantului militar roman în Apollonia.",
                   "category": "castle",
                   "coords": [
                         21.969817,
@@ -5507,7 +6821,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "East Necropolis",
-                  "text": "East Necropolis este un sit funerar în ruină situat în Susa.",
+                  "text": "Necropola de Est a Apolloniei din Susa prezintă monumente funerare și morminte.",
                   "category": "historical",
                   "coords": [
                         21.974688,
@@ -5516,7 +6830,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Bu Al-Zaa'la",
-                  "text": "بو الزاعلة este o atracție situată în Susa.",
+                  "text": "Bu Al-Zaa'la este o moschee istorică sau un altar în Susa, cu un minaret distinctiv.",
                   "category": "landmark",
                   "coords": [
                         21.95806,
@@ -5525,7 +6839,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Amejwaj Apartment",
-                  "text": "شقة عبدالله امعوج اجار este un punct de belvedere situat în Susa.",
+                  "text": "Apartamentul Abdullah Amejwaj este un adăpost natural de stâncă în Susa, folosit ca locuință în antichitate.",
                   "category": "natural",
                   "coords": [
                         21.953523,
@@ -5534,7 +6848,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Western Church",
-                  "text": "الكنيسة الغربية este o ruină istorică situată în Susa.",
+                  "text": "Biserica de Vest din Susa este o bazilică creștină timpurie în orașul antic Apollonia.",
                   "category": "historical",
                   "coords": [
                         21.966728,
@@ -5543,7 +6857,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "The Theatre",
-                  "text": "المسرح este un sit ruinat aflat în Susa.",
+                  "text": "Teatru roman sculptat în coasta dealului, găzduind încă spectacole de vară.",
                   "category": "historical",
                   "coords": [
                         21.974935,
@@ -5552,7 +6866,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Western Gate",
-                  "text": "البوابة الغربية este o structură ruinată din orașul Susa.",
+                  "text": "Poartă romană cu trei arcuri, odinioară intrarea de vest a orașului antic.",
                   "category": "historical",
                   "coords": [
                         21.965606,
@@ -5561,7 +6875,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Central Church",
-                  "text": "الكنيسة الوسطي este un sit istoric în ruine situat în Susa.",
+                  "text": "Biserică medievală cu un turn-clopotniță înalt în piața centrală.",
                   "category": "historical",
                   "coords": [
                         21.968251,
@@ -5581,7 +6895,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Ancient warehouses",
-                  "text": "The Ancient warehouses are an archaeological site located in Susa.",
+                  "text": "Ancient warehouses in Susa were used for storing grain and goods from Cyrene.",
                   "category": "historical",
                   "coords": [
                         21.967273,
@@ -5590,7 +6904,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "West Necropolis of Apollonia",
-                  "text": "The West Necropolis of Apollonia is an archaeological burial site in Susa.",
+                  "text": "West Necropolis of Apollonia in Susa contains rock-cut tombs dating from Roman times.",
                   "category": "historical",
                   "coords": [
                         21.957227,
@@ -5599,7 +6913,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Warehouses",
-                  "text": "The Warehouses form an archaeological site situated in Susa.",
+                  "text": "Warehouses in Susa are part of the ancient port complex of Apollonia.",
                   "category": "historical",
                   "coords": [
                         21.973152,
@@ -5608,7 +6922,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Palace of the Dux",
-                  "text": "The Palace of the Dux is a historical castle structure in Susa.",
+                  "text": "Palace of the Dux in Susa was the residence of the Roman military commander in Apollonia.",
                   "category": "castle",
                   "coords": [
                         21.969817,
@@ -5617,7 +6931,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "East Necropolis",
-                  "text": "The East Necropolis is a ruined burial site in Susa.",
+                  "text": "East Necropolis of Apollonia in Susa features funerary monuments and tombs.",
                   "category": "historical",
                   "coords": [
                         21.974688,
@@ -5626,7 +6940,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Bu Al-Zaa'la",
-                  "text": "بو الزاعلة is an attraction located in Susa.",
+                  "text": "Bu Al-Zaa'la is a historic mosque or shrine in Susa, with a distinct minaret.",
                   "category": "landmark",
                   "coords": [
                         21.95806,
@@ -5635,7 +6949,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Abdullah Amejwaj Apartment",
-                  "text": "شقة عبدالله امعوج اجار is a scenic viewpoint in Susa.",
+                  "text": "Abdullah Amejwaj Apartment is a natural rock shelter in Susa, used as a dwelling in ancient times.",
                   "category": "natural",
                   "coords": [
                         21.953523,
@@ -5644,7 +6958,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Western Church",
-                  "text": "الكنيسة الغربية is a historical ruined site in Susa.",
+                  "text": "Western Church in Susa is an early Christian basilica in the ancient city of Apollonia.",
                   "category": "historical",
                   "coords": [
                         21.966728,
@@ -5653,7 +6967,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "The Theatre",
-                  "text": "المسرح is a ruined site found in the city of Susa.",
+                  "text": "Roman theatre carved into the hillside, still hosting summer performances.",
                   "category": "historical",
                   "coords": [
                         21.974935,
@@ -5662,7 +6976,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Western Gate",
-                  "text": "البوابة الغربية is a ruined structure in the city of Susa.",
+                  "text": "Roman gate with three arches, once the western entrance to the ancient city.",
                   "category": "historical",
                   "coords": [
                         21.965606,
@@ -5671,7 +6985,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Central Church",
-                  "text": "الكنيسة الوسطي is a historical ruined site located in Susa.",
+                  "text": "Medieval church with a tall bell tower dominating the central square.",
                   "category": "historical",
                   "coords": [
                         21.968251,
@@ -5821,7 +7135,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Zalla Castle",
-                  "text": "Zalla Castle ist eine historische Burganlage in Zillah.",
+                  "text": "Mittelalterliche Burg auf einem Felsenhügel, mit Mauern, die von quadratischen Türmen verstärkt werden.",
                   "category": "castle",
                   "coords": [
                         17.567181,
@@ -5832,7 +7146,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zalla Castle",
-                  "text": "A Zalla Castle egy történelmi kastélyépület Zillah városában.",
+                  "text": "Középkori vár egy sziklás dombon, falait négyzet alakú tornyok erősítik.",
                   "category": "castle",
                   "coords": [
                         17.567181,
@@ -5843,7 +7157,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zalla Castle",
-                  "text": "Zalla Castle este un castel istoric situat în Zillah.",
+                  "text": "Castel medieval construit pe o colină stâncoasă, cu ziduri întărite de turnuri pătrate.",
                   "category": "castle",
                   "coords": [
                         17.567181,
@@ -5854,7 +7168,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Zalla Castle",
-                  "text": "Zalla Castle is a historical castle structure located in Zillah.",
+                  "text": "Medieval castle built on a rocky hill, with walls reinforced by square towers.",
                   "category": "castle",
                   "coords": [
                         17.567181,
@@ -6142,7 +7456,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ad-Dumayrah",
-                  "text": "الدميرة ist eine lokale Attraktion in Qaminis.",
+                  "text": "Kegelförmiger Hügel, der sich aus der Wüstenebene erhebt, ein lokales Navigationszeichen.",
                   "category": "landmark",
                   "coords": [
                         20.013162,
@@ -6153,7 +7467,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ad-Dumayrah",
-                  "text": "A الدميرة egy helyi látványosság Qaminis városában.",
+                  "text": "Kúp alakú domb, amely a sivatagi síkságból emelkedik ki, helyi tájékozódási pont.",
                   "category": "landmark",
                   "coords": [
                         20.013162,
@@ -6164,7 +7478,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ad-Dumayrah",
-                  "text": "الدميرة este o atracție locală situată în Qaminis.",
+                  "text": "Deal conic ce se înalță din câmpia deșertică, un reper local de orientare.",
                   "category": "landmark",
                   "coords": [
                         20.013162,
@@ -6175,7 +7489,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ad-Dumayrah",
-                  "text": "الدميرة is a local attraction situated in Qaminis.",
+                  "text": "Conical hill rising from the desert plain, a local navigational landmark.",
                   "category": "landmark",
                   "coords": [
                         20.013162,
@@ -6233,7 +7547,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Taucheira",
-                  "text": "Taucheira ist eine antike archäologische Stätte in der Stadt Taucheira.",
+                  "text": "Eine antike griechisch-römische Stadt, gegründet um 630 v. Chr., nahe dem modernen Tukrah.",
                   "category": "historical",
                   "coords": [
                         20.575779,
@@ -6242,7 +7556,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tocra Castle",
-                  "text": "Tocra Castle ist eine historische Festungsanlage in Taucheira.",
+                  "text": "Viereckige Festung mit vier Ecktürmen, mit Blick auf die Mittelmeerküste.",
                   "category": "castle",
                   "coords": [
                         20.568276,
@@ -6251,7 +7565,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tocra Beach",
-                  "text": "Tocra Beach ist ein Küstenabschnitt in Taucheira.",
+                  "text": "Sandstrand mit ruhigem türkisfarbenem Wasser, ideal zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         20.53295,
@@ -6269,7 +7583,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Palace of the Byzantine governor",
-                  "text": "Der Palace of the Byzantine governor ist eine archäologische Stätte in Taucheira.",
+                  "text": "Ruinen des byzantinischen Gouverneurspalastes mit erhaltenen Mosaikböden.",
                   "category": "historical",
                   "coords": [
                         20.56842,
@@ -6280,7 +7594,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Taucheira",
-                  "text": "Taucheira egy ősi régészeti lelőhely Taucheira városában.",
+                  "text": "Egy ókori görög-római város, alapítva kb. i.e. 630-ban, a mai Tukrah közelében.",
                   "category": "historical",
                   "coords": [
                         20.575779,
@@ -6289,7 +7603,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tocra Castle",
-                  "text": "A Tocra Castle egy történelmi erődítmény Taucheira városában.",
+                  "text": "Négyszögletű erőd négy saroktoronnyal, a Földközi-tenger partjára nézve.",
                   "category": "castle",
                   "coords": [
                         20.568276,
@@ -6298,7 +7612,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tocra Beach",
-                  "text": "A Tocra Beach egy tengerparti szakasz Taucheira városában.",
+                  "text": "Homokos strand nyugodt türkizkék vízzel, ideális úszáshoz.",
                   "category": "recreational",
                   "coords": [
                         20.53295,
@@ -6316,7 +7630,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Palace of the Byzantine governor",
-                  "text": "A Palace of the Byzantine governor egy régészeti lelőhely Taucheira városában.",
+                  "text": "Egy bizánci kormányzói palota romjai, érintetlen mozaikpadlókkal.",
                   "category": "historical",
                   "coords": [
                         20.56842,
@@ -6327,7 +7641,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Taucheira",
-                  "text": "Taucheira este un sit arheologic antic situat în orașul Taucheira.",
+                  "text": "Un oraș antic greco-roman, fondat în jurul anului 630 î.Hr., lângă modernul Tukrah.",
                   "category": "historical",
                   "coords": [
                         20.575779,
@@ -6336,7 +7650,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tocra Castle",
-                  "text": "Tocra Castle este o fortificație istorică aflată în Taucheira.",
+                  "text": "Cetate pătrată cu patru turnuri de colț, cu vedere spre coasta Mării Mediterane.",
                   "category": "castle",
                   "coords": [
                         20.568276,
@@ -6345,7 +7659,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tocra Beach",
-                  "text": "Tocra Beach este o porțiune de coastă situată în Taucheira.",
+                  "text": "Plajă nisipoasă cu ape turcoaz liniștite, ideală pentru înot.",
                   "category": "recreational",
                   "coords": [
                         20.53295,
@@ -6363,7 +7677,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Palace of the Byzantine governor",
-                  "text": "Palace of the Byzantine governor este un sit arheologic situat în Taucheira.",
+                  "text": "Ruinele palatului guvernatorului bizantin, cu podele de mozaic intacte.",
                   "category": "historical",
                   "coords": [
                         20.56842,
@@ -6374,7 +7688,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Taucheira",
-                  "text": "Taucheira is an ancient archaeological site located in the city of Taucheira.",
+                  "text": "An ancient Greek and Roman city founded around 630 BC, near modern Tukrah.",
                   "category": "historical",
                   "coords": [
                         20.575779,
@@ -6383,7 +7697,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tocra Castle",
-                  "text": "Tocra Castle is a historic fortification found in Taucheira.",
+                  "text": "Square fortress with four corner towers, overlooking the Mediterranean coast.",
                   "category": "castle",
                   "coords": [
                         20.568276,
@@ -6392,7 +7706,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Tocra Beach",
-                  "text": "Tocra Beach is a coastal stretch located in Taucheira.",
+                  "text": "Sandy beach with calm turquoise waters, ideal for swimming.",
                   "category": "recreational",
                   "coords": [
                         20.53295,
@@ -6410,7 +7724,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
             },
             {
                   "name": "Palace of the Byzantine governor",
-                  "text": "The Palace of the Byzantine governor is an archaeological site located in Taucheira.",
+                  "text": "Ruins of a Byzantine governor's palace, featuring intact mosaic floors.",
                   "category": "historical",
                   "coords": [
                         20.56842,
@@ -6514,7 +7828,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Old Castle",
-                  "text": "Das Old Castle ist eine historische Festung in Dschardas al-Ahrar.",
+                  "text": "Verfallene Steinburg auf einem Hügelgipfel mit Panoramablick über das umliegende Ackerland.",
                   "category": "castle",
                   "coords": [
                         20.987502,
@@ -6525,7 +7839,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Old Castle",
-                  "text": "Az Old Castle egy történelmi erődítmény Dschardas al-Ahrar városában.",
+                  "text": "Romos kővár egy dombtetőn, panorámás kilátással a környező termőföldekre.",
                   "category": "castle",
                   "coords": [
                         20.987502,
@@ -6536,7 +7850,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Old Castle",
-                  "text": "Old Castle este o fortăreață istorică situată în Dschardas al-Ahrar.",
+                  "text": "Castel de piatră în ruină așezat pe un vârf de deal, oferind vederi panoramice asupra terenurilor agricole înconjurătoare.",
                   "category": "castle",
                   "coords": [
                         20.987502,
@@ -6547,7 +7861,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Old Castle",
-                  "text": "The Old Castle is a historic fortress located in Dschardas al-Ahrar.",
+                  "text": "Ruined stone castle perched on a hilltop, offering panoramic views of the surrounding farmland.",
                   "category": "castle",
                   "coords": [
                         20.987502,
@@ -6789,7 +8103,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Senussi Zawiya",
-                  "text": "Archäologische Stätte in Al-Dschaghbub.",
+                  "text": "Gekalkter religiöser Komplex mit Moschee und Innenhof, historischer Sitz des Senussi-Ordens.",
                   "category": "historical",
                   "coords": [
                         24.519564,
@@ -6800,7 +8114,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Senussi Zawiya",
-                  "text": "Régészeti lelőhely Al-Dschaghbub városában.",
+                  "text": "Fehérre meszelt vallási komplexum mecsettel és udvarral, a szenuszija rend történelmi székhelye.",
                   "category": "historical",
                   "coords": [
                         24.519564,
@@ -6811,7 +8125,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Senussi Zawiya",
-                  "text": "Sit arheologic în Al-Dschaghbub.",
+                  "text": "Complex religios văruit cu moschee și curte, sediul istoric al ordinului Senussi.",
                   "category": "historical",
                   "coords": [
                         24.519564,
@@ -6822,7 +8136,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Senussi Zawiya",
-                  "text": "Archaeological site in Al-Dschaghbub.",
+                  "text": "Whitewashed religious compound with mosque and courtyard, historic seat of the Senussi order.",
                   "category": "historical",
                   "coords": [
                         24.519564,
@@ -6880,7 +8194,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Theatre of Kasr ben Ghachir",
-                  "text": "Das Theatre of Kasr ben Ghachir ist ein Veranstaltungsort in Qasr bin Ghaschir.",
+                  "text": "Gut erhaltenes römisches Theater mit steinernen Sitzreihen, die in den Hang gehauen sind.",
                   "category": "cultural",
                   "coords": [
                         13.179326,
@@ -6900,7 +8214,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Theatre of Kasr ben Ghachir",
-                  "text": "A Theatre of Kasr ben Ghachir egy előadóterem Qasr bin Ghaschir városában.",
+                  "text": "Jól megőrzött római színház, kőülésekkel a domboldalba vésve.",
                   "category": "cultural",
                   "coords": [
                         13.179326,
@@ -6920,7 +8234,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Theatre of Kasr ben Ghachir",
-                  "text": "Theatre of Kasr ben Ghachir este un loc pentru spectacole în Qasr bin Ghaschir.",
+                  "text": "Teatru roman bine conservat, cu scaune de piatră sculptate în coasta dealului.",
                   "category": "cultural",
                   "coords": [
                         13.179326,
@@ -6940,7 +8254,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Theatre of Kasr ben Ghachir",
-                  "text": "The Theatre of Kasr ben Ghachir is a venue for performances in Qasr bin Ghaschir.",
+                  "text": "Well-preserved Roman theatre with stone seating carved into the hillside.",
                   "category": "cultural",
                   "coords": [
                         13.179326,

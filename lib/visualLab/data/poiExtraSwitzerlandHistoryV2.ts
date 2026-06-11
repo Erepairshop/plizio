@@ -997,7 +997,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Mont Russelin",
-                  "text": "Ein Berggipfel in der Schweizer Jura-Region.",
+                  "text": "Der Mont Russelin ist ein bewaldeter Hügel oberhalb der mittelalterlichen Stadt Saint-Ursanne.",
                   "category": "landmark",
                   "coords": [
                         7.202108,
@@ -1062,7 +1062,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Mont Russelin",
-                  "text": "Egy hegycsúcs a svájci Jura régióban.",
+                  "text": "A Mont Russelin egy erdős domb a középkori Saint-Ursanne városa fölött.",
                   "category": "landmark",
                   "coords": [
                         7.202108,
@@ -1127,7 +1127,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Mont Russelin",
-                  "text": "Un vârf muntos situat în regiunea Jura din Elveția.",
+                  "text": "Mont Russelin este un deal împădurit deasupra orașului medieval Saint-Ursanne.",
                   "category": "landmark",
                   "coords": [
                         7.202108,
@@ -1192,7 +1192,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Mont Russelin",
-                  "text": "A mountain peak located in the Swiss Jura region.",
+                  "text": "Mont Russelin is a wooded hill above the medieval town of Saint-Ursanne.",
                   "category": "landmark",
                   "coords": [
                         7.202108,
@@ -1330,7 +1330,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "piscine couverte",
-                  "text": "Ein Hallenbad beim Schloss Pruntrut.",
+                  "text": "Hallenbad nahe dem Schloss Porrentruy.",
                   "category": "recreational",
                   "coords": [
                         7.076709,
@@ -1413,7 +1413,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "piscine couverte",
-                  "text": "Fedett uszoda a porrentruy-i kastélynál.",
+                  "text": "Fedett uszoda a Porrentruy-kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         7.076709,
@@ -1496,7 +1496,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "piscine couverte",
-                  "text": "O piscină acoperită lângă Castelul Porrentruy.",
+                  "text": "Piscină acoperită lângă Castelul Porrentruy.",
                   "category": "recreational",
                   "coords": [
                         7.076709,
@@ -1579,7 +1579,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "piscine couverte",
-                  "text": "An indoor swimming pool near Porrentruy Castle.",
+                  "text": "Indoor swimming pool near Porrentruy Castle.",
                   "category": "recreational",
                   "coords": [
                         7.076709,
@@ -2248,7 +2248,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Alpbüel",
-                  "text": "Ein Berggipfel bei den Ruinen der Burg Castels.",
+                  "text": "Der Alpbüel ist ein Gipfel in der Nähe der Burgruine Castels.",
                   "category": "landmark",
                   "coords": [
                         9.765035,
@@ -2266,7 +2266,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Gafäll",
-                  "text": "Ein Gipfel bei den Ruinen der Burg Castels.",
+                  "text": "Gafäll ist ein Wasserfall in der Nähe der Burg Castels.",
                   "category": "landmark",
                   "coords": [
                         9.768199,
@@ -2313,7 +2313,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Alpbüel",
-                  "text": "Hegycsúcs Castels várromjainak közelében.",
+                  "text": "Az Alpbüel egy csúcs a Castels várrom közelében.",
                   "category": "landmark",
                   "coords": [
                         9.765035,
@@ -2331,7 +2331,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Gafäll",
-                  "text": "Hegycsúcs Castels várromjainak közelében.",
+                  "text": "A Gafäll egy vízesés a Castels-kastély közelében.",
                   "category": "landmark",
                   "coords": [
                         9.768199,
@@ -2378,7 +2378,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Alpbüel",
-                  "text": "Un vârf muntos lângă ruinele castelului Castels.",
+                  "text": "Alpbüel este un vârf în apropierea ruinelor castelului Castels.",
                   "category": "landmark",
                   "coords": [
                         9.765035,
@@ -2396,7 +2396,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Gafäll",
-                  "text": "Un vârf de munte lângă ruinele castelului Castels.",
+                  "text": "Gafäll este o cascadă în apropierea Castelului Castels.",
                   "category": "landmark",
                   "coords": [
                         9.768199,
@@ -2443,7 +2443,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Alpbüel",
-                  "text": "A mountain peak located near the Castels castle ruins.",
+                  "text": "Alpbüel is a peak near the ruins of Castels Castle.",
                   "category": "landmark",
                   "coords": [
                         9.765035,
@@ -2461,7 +2461,7 @@ export const switzerlandHistoryV2: POI[] = [
             },
             {
                   "name": "Gafäll",
-                  "text": "A mountain peak near the ruins of Castels Castle.",
+                  "text": "Gafäll is a waterfall near Castels Castle.",
                   "category": "landmark",
                   "coords": [
                         9.768199,

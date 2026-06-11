@@ -79,7 +79,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dinosaurierpark Skopje",
-                  "text": "Ein Dinosaurier-Themenpark nahe der Sultan-Murat-Moschee.",
+                  "text": "Der Dinosaurierpark Skopje in der Nähe der Sultan-Murat-Moschee zeigt lebensgroße Dinosauriermodelle.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -88,7 +88,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Ein olympisches Schwimmbecken in der Nähe der Sultan-Murat-Moschee.",
+                  "text": "Olympia-Schwimmbecken in der Nähe der Sultan-Murat-Moschee.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -189,7 +189,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Скопје",
-                  "text": "Dinoszaurusz-park a Szultán Murát-mecset közelében.",
+                  "text": "A Skopjei Dinoszaurusz Park a Szultán Murat mecset közelében életnagyságú dinoszauruszmodelleket mutat be.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -198,7 +198,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Olimpiai úszómedence a Szultán Murát-mecset közelében.",
+                  "text": "Olimpiai méretű úszómedence a Szultán Murát mecset közelében.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -299,7 +299,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Скопје",
-                  "text": "Un parc cu tematică de dinozauri lângă Moscheea Sultan Murat.",
+                  "text": "Parcul Dinozaurilor din Skopje, lângă Moscheea Sultan Murat, prezintă modele de dinozauri în mărime naturală.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -308,7 +308,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "O piscină olimpică în apropierea Moscheii Sultan Murat.",
+                  "text": "Piscină olimpică lângă Moscheea Sultan Murat.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -409,7 +409,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dinosaur Park Skopje",
-                  "text": "A dinosaur theme park near the Sultan Murat Mosque.",
+                  "text": "Dinosaur Park Skopje, near Sultan Murat Mosque, features life-sized dinosaur models.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -418,7 +418,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Olympic swimming pool - Centar",
-                  "text": "An Olympic swimming pool near the Sultan Murat Mosque.",
+                  "text": "Olympic-sized swimming pool located near the Sultan Murat Mosque.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -493,7 +493,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       "de": [
             {
                   "name": "Peshtera Vrelo",
-                  "text": "Beeindruckendes Höhlensystem im Matka-Canyon.",
+                  "text": "Die Vrelo-Höhle nahe dem Kloster Matka hat eine tiefe Unterwasserquelle.",
                   "category": "landmark",
                   "coords": [
                         21.292269,
@@ -520,7 +520,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Манастир Uspenie na Presveta Bogoroditsa",
-                  "text": "Historisches orthodoxes Kloster in der malerischen Schlucht.",
+                  "text": "Das Kloster der Entschlafung der Gottesmutter ist ein orthodoxes Kloster aus dem Mittelalter in der Matka-Schlucht.",
                   "category": "landmark",
                   "coords": [
                         21.295962,
@@ -558,7 +558,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       "hu": [
             {
                   "name": "Peshtera Vrelo",
-                  "text": "Lenyűgöző barlangrendszer a Matka-kanyonban.",
+                  "text": "A Vrelo-barlang a Matka-kolostor közelében egy mély víz alatti forrással rendelkezik.",
                   "category": "landmark",
                   "coords": [
                         21.292269,
@@ -585,7 +585,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Манастир Uspenie na Presveta Bogoroditsa",
-                  "text": "Történelmi ortodox kolostor a festői kanyonban.",
+                  "text": "Az Istenszülő elszenderülése kolostor egy középkori ortodox kolostor a Matka-szurdokban.",
                   "category": "landmark",
                   "coords": [
                         21.295962,
@@ -623,7 +623,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       "ro": [
             {
                   "name": "Peshtera Vrelo",
-                  "text": "Sistem impresionant de peșteri în canionul Matka.",
+                  "text": "Peștera Vrelo, lângă Mănăstirea Matka, are un izvor subacvatic adânc.",
                   "category": "landmark",
                   "coords": [
                         21.292269,
@@ -650,7 +650,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Манастир Uspenie na Presveta Bogoroditsa",
-                  "text": "Mănăstire ortodoxă istorică situată în canionul pitoresc.",
+                  "text": "Mănăstirea Adormirea Maicii Domnului este o mănăstire ortodoxă medievală în Cheile Matka.",
                   "category": "landmark",
                   "coords": [
                         21.295962,
@@ -688,7 +688,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       "en": [
             {
                   "name": "Vrelo Cave",
-                  "text": "Impressive cave system in the Matka Canyon.",
+                  "text": "Vrelo Cave, near Matka Monastery, features a deep underwater spring.",
                   "category": "landmark",
                   "coords": [
                         21.292269,
@@ -715,7 +715,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Dormition of the Most Holy Theotokos monastery",
-                  "text": "Historic Orthodox monastery situated in the picturesque canyon.",
+                  "text": "Dormition of the Theotokos monastery is a medieval Orthodox monastery in the Matka Canyon.",
                   "category": "landmark",
                   "coords": [
                         21.295962,
@@ -1015,7 +1015,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Museum im Haus, in dem der Revolutionär Goce Delchev wohnte.",
+                  "text": "Goce Delchev Memorial House nahe der St.-Dimitrius-Kirche in Bitola.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -1051,7 +1051,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mémorial de Bitola",
-                  "text": "Gedenkmuseum, das den historischen Ereignissen von Bitola gewidmet ist.",
+                  "text": "Gedenkmuseum von Bitola, neben der Kirche St. Dimitrius gelegen.",
                   "category": "museum",
                   "coords": [
                         21.358605,
@@ -1098,7 +1098,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Múzeum abban a házban, ahol Goce Delcsev forradalmár megszállt.",
+                  "text": "Goce Delchev Emlékház a Szent Dimitriusz-templom közelében, Bitolában.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -1134,7 +1134,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mémorial de Bitola",
-                  "text": "Bitola történelmi eseményeinek szentelt emlékhely és múzeum.",
+                  "text": "Bitola emlékmúzeuma a Szent Dimitriosz templom mellett.",
                   "category": "museum",
                   "coords": [
                         21.358605,
@@ -1181,7 +1181,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Muzeu situat în casa în care a locuit revoluționarul Goce Delchev.",
+                  "text": "Casa Memorială Goce Delchev lângă Biserica Sf. Dimitrie din Bitola.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -1217,7 +1217,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mémorial de Bitola",
-                  "text": "Muzeu memorial dedicat evenimentelor istorice din Bitola.",
+                  "text": "Muzeul memorial al Bitolei, situat lângă Biserica Sf. Dimitrie.",
                   "category": "museum",
                   "coords": [
                         21.358605,
@@ -1264,7 +1264,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Museum located in the house where the revolutionary Goce Delchev stayed.",
+                  "text": "Goce Delchev Memorial House near St. Dimitrius Church in Bitola.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -1300,7 +1300,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Mémorial de Bitola",
-                  "text": "Memorial museum dedicated to the historical events of Bitola.",
+                  "text": "Memorial museum of Bitola, situated by the Church of St. Dimitrius.",
                   "category": "museum",
                   "coords": [
                         21.358605,
@@ -1438,7 +1438,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Ein Gedenkmuseum im ehemaligen Wohnhaus des mazedonischen Revolutionärs Goce Delchev.",
+                  "text": "Goce Delchev Memorial House am Uhrturm von Bitola.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -1521,7 +1521,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Emlékmúzeum Goce Delcsev macedón forradalmár egykori lakóházában.",
+                  "text": "Goce Delchev Emlékház Bitola Óratornyánál.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -1604,7 +1604,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "Un muzeu memorial amenajat în fosta casă a revoluționarului macedonean Goce Delcev.",
+                  "text": "Casa Memorială Goce Delchev lângă Turnul cu Ceas din Bitola.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -1687,7 +1687,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Goce Delchev Memorial House",
-                  "text": "A memorial museum located in the former house of the Macedonian revolutionary Goce Delchev.",
+                  "text": "Goce Delchev Memorial House near Bitola's Clock Tower.",
                   "category": "museum",
                   "coords": [
                         21.332208,
@@ -1915,7 +1915,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dinosaurierpark Skopje",
-                  "text": "Ein Dinosaurierpark beim historischen Kurshumli An in Skopje.",
+                  "text": "Dinosaurier-Freizeitpark nahe der historischen Karawanserei Kurshumli An in Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -1924,7 +1924,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Ein olympisches Schwimmbad im Viertel des Kurshumli An.",
+                  "text": "Olympia-Schwimmbecken neben der Karawanserei Kurshumli An.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -2025,7 +2025,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Скопје",
-                  "text": "Dinoszaurusz-park a történelmi Kursumli An mellett Szkopjéban.",
+                  "text": "Dinoszaurusz-témájú szórakoztató park a történelmi Kurshumli An karavánszeráj közelében Szkopjéban.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -2034,7 +2034,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Olimpiai uszoda a Kursumli An környékén.",
+                  "text": "Olimpiai méretű úszómedence a Kurshumli An karavánszeráj mellett.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -2135,7 +2135,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Скопје",
-                  "text": "Un parc cu dinozauri lângă istoricul Kurshumli An din Skopje.",
+                  "text": "Parcul tematic cu dinozauri lângă hanul istoric Kurshumli An din Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -2144,7 +2144,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "O piscină olimpică în zona Kurshumli An.",
+                  "text": "Piscină olimpică lângă hanul Kurshumli An.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -2245,7 +2245,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dinosaur Park Skopje",
-                  "text": "A dinosaur park by the historic Kurshumli An in Skopje.",
+                  "text": "Dinosaur-themed amusement park near the historic Kurshumli An caravanserai in Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -2254,7 +2254,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Olympic swimming pool - Centar",
-                  "text": "An Olympic swimming pool in the Kurshumli An area.",
+                  "text": "Olympic-sized swimming pool adjacent to the Kurshumli An caravanserai.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -2455,7 +2455,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Мал базен",
-                  "text": "Ein kleines Schwimmbecken für Besucher in der Nähe von Gorno Nerezi.",
+                  "text": "Kleines Schwimmbecken nahe der Kirche St. Pantaleon in Gorno Nerezi.",
                   "category": "recreational",
                   "coords": [
                         21.341216,
@@ -2464,7 +2464,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Ein olympisches Schwimmbad in der Umgebung der Kirche des Heiligen Panteleimon.",
+                  "text": "Olympia-Schwimmbecken nahe der Kirche St. Pantaleon in Gorno Nerezi.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -2565,7 +2565,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Мал базен",
-                  "text": "Kisméretű úszómedence a látogatók számára Gorno Nerezi közelében.",
+                  "text": "Kis úszómedence a Szent Pantaleon templom közelében Gorno Nereziben.",
                   "category": "recreational",
                   "coords": [
                         21.341216,
@@ -2574,7 +2574,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Olimpiai úszómedence a Szent Panteleimon-templom környékén.",
+                  "text": "Olimpiai méretű úszómedence a Szent Pantaleon templom közelében Gorno Nereziben.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -2675,7 +2675,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Мал базен",
-                  "text": "O piscină mică pentru vizitatori în apropiere de Gorno Nerezi.",
+                  "text": "Piscină mică lângă Biserica Sf. Pantelimon din Gorno Nerezi.",
                   "category": "recreational",
                   "coords": [
                         21.341216,
@@ -2684,7 +2684,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "O piscină olimpică situată în împrejurimile bisericii Sfântul Panteleimon.",
+                  "text": "Piscină olimpică lângă Biserica Sf. Pantelimon din Gorno Nerezi.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -2785,7 +2785,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Small pool",
-                  "text": "A small swimming pool for visitors near Gorno Nerezi.",
+                  "text": "Small swimming pool near the Church of St. Pantaleon in Gorno Nerezi.",
                   "category": "recreational",
                   "coords": [
                         21.341216,
@@ -2794,7 +2794,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Olympic swimming pool - Centar",
-                  "text": "An Olympic swimming pool located in the surroundings of the Saint Panteleimon Church.",
+                  "text": "Olympic-sized swimming pool near the Church of St. Pantaleon in Gorno Nerezi.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -3022,7 +3022,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dinosaurierpark Skopje",
-                  "text": "Der Dinosaur Park Skopje ist ein Themenpark beim Karpos-Denkmal.",
+                  "text": "Dinosaurier-Freizeitpark nahe dem Karpos-Denkmal in Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -3031,7 +3031,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Olympic swimming pool - Centar ist ein Schwimmbad beim Karpos-Denkmal.",
+                  "text": "Olympia-Schwimmbecken nahe dem Karpos-Denkmal in Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -3132,7 +3132,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Скопје",
-                  "text": "A Dinosaur Park Skopje egy tematikus park a Karpos-emlékműnél.",
+                  "text": "Dinoszaurusz-témájú szórakoztató park a Karpos-emlékmű közelében Szkopjéban.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -3141,7 +3141,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Az Olympic swimming pool - Centar egy uszoda a Karpos-emlékműnél.",
+                  "text": "Olimpiai méretű úszómedence a Karpos-emlékmű közelében Szkopjéban.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -3242,7 +3242,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Дино парк Скопје",
-                  "text": "Dinosaur Park Skopje este un parc tematic situat lângă Monumentul Karpos.",
+                  "text": "Parcul tematic cu dinozauri lângă Monumentul lui Karpos din Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -3251,7 +3251,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Олимписки базен - Центар",
-                  "text": "Olympic swimming pool - Centar este o piscină situată lângă Monumentul Karpos.",
+                  "text": "Piscină olimpică lângă Monumentul lui Karpos din Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -3352,7 +3352,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Dinosaur Park Skopje",
-                  "text": "Dinosaur Park Skopje is a theme park located near the Karpos Monument in Skopje.",
+                  "text": "Dinosaur-themed amusement park near the Monument of Karpos in Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.41926,
@@ -3361,7 +3361,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Olympic swimming pool - Centar",
-                  "text": "Olympic swimming pool - Centar is a swimming pool located near the Karpos Monument in Skopje.",
+                  "text": "Olympic-sized swimming pool near the Monument of Karpos in Skopje.",
                   "category": "recreational",
                   "coords": [
                         21.439118,
@@ -3454,7 +3454,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
-                  "text": "Ein Gedenkmuseum für den mazedonischen Nationalhelden Kuzman Josifoski-Pitu.",
+                  "text": "Das Gedenkmuseum des Volkshelden Kuzman Josifoski-Pitu in Varoš bei der Kirche des Erzengels Michael.",
                   "category": "museum",
                   "coords": [
                         21.559707,
@@ -3519,7 +3519,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
-                  "text": "Emlékmúzeum Kuzman Josifoski-Pitu macedón nemzeti hős tiszteletére.",
+                  "text": "Kuzman Josifoski-Pitu népi hős emlékmúzeuma Varošban, a Szent Mihály arkangyal templom mellett.",
                   "category": "museum",
                   "coords": [
                         21.559707,
@@ -3584,7 +3584,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
-                  "text": "Un muzeu memorial dedicat eroului național macedonean Kuzman Josifoski-Pitu.",
+                  "text": "Muzeul memorial al eroului popular Kuzman Josifoski-Pitu în Varoš, lângă biserica Sf. Arhanghel Mihail.",
                   "category": "museum",
                   "coords": [
                         21.559707,
@@ -3649,7 +3649,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "People's hero Kuzman Josifoski-Pitu Memorial museum",
-                  "text": "A memorial museum dedicated to the Macedonian national hero Kuzman Josifoski-Pitu.",
+                  "text": "People's hero Kuzman Josifoski-Pitu Memorial museum in Varoš near St. Archangel Michael church.",
                   "category": "museum",
                   "coords": [
                         21.559707,
@@ -3814,7 +3814,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Манастир Uspenie na Presveta Bogoroditsa",
-                  "text": "Orthodoxes Kloster im Gebiet des Matka-Canyons.",
+                  "text": "Das Kloster der Entschlafung der Gottesmutter nahe dem Andreas-Kloster in Matka.",
                   "category": "landmark",
                   "coords": [
                         21.295962,
@@ -3841,7 +3841,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sv. Nedela",
-                  "text": "Kleine orthodoxe Kirche oder Kapelle im Matka-Canyon.",
+                  "text": "Die Kirche Heiliger Sonntag (St. Nedela) ist eine orthodoxe Kirche nahe dem Andreas-Kloster in Matka.",
                   "category": "religious",
                   "coords": [
                         21.291514,
@@ -3879,7 +3879,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Манастир Uspenie na Presveta Bogoroditsa",
-                  "text": "Ortodox kolostor a Matka-kanyon területén.",
+                  "text": "Az Istenszülő elszenderülése kolostor az András-kolostor közelében, Matkában.",
                   "category": "landmark",
                   "coords": [
                         21.295962,
@@ -3906,7 +3906,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sv. Nedela",
-                  "text": "Kis ortodox templom vagy kápolna a Matka-kanyonban.",
+                  "text": "A Szent Vasárnap (Szent Nedela) templom egy ortodox templom az András-kolostor közelében, Matkában.",
                   "category": "religious",
                   "coords": [
                         21.291514,
@@ -3944,7 +3944,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Манастир Uspenie na Presveta Bogoroditsa",
-                  "text": "Mănăstire ortodoxă situată în zona Canyonului Matka.",
+                  "text": "Mănăstirea Adormirea Maicii Domnului lângă Mănăstirea Sf. Andrei din Matka.",
                   "category": "landmark",
                   "coords": [
                         21.295962,
@@ -3971,7 +3971,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Sv. Nedela",
-                  "text": "O mică biserică sau capelă ortodoxă situată în Canyonul Matka.",
+                  "text": "Biserica Sfânta Duminică (Sf. Nedela) este o biserică ortodoxă lângă Mănăstirea Sf. Andrei din Matka.",
                   "category": "religious",
                   "coords": [
                         21.291514,
@@ -4009,7 +4009,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "The Dormition of the Most Holy Theotokos monastery",
-                  "text": "Orthodox monastery located in the Matka Canyon area.",
+                  "text": "Dormition monastery near St. Andrew's Monastery in Matka.",
                   "category": "landmark",
                   "coords": [
                         21.295962,
@@ -4036,7 +4036,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
             },
             {
                   "name": "Holy Sunday",
-                  "text": "Small Orthodox church or chapel in the Matka Canyon.",
+                  "text": "Holy Sunday (St. Nedela) Church is an Orthodox church near St. Andrew's Monastery in Matka.",
                   "category": "religious",
                   "coords": [
                         21.291514,

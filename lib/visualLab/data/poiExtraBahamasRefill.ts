@@ -115,7 +115,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "de": [
             {
                   "name": "Dean's Blue Hole",
-                  "text": "Eines der tiefsten Unterwasser-Blauen-Löcher der Welt.",
+                  "text": "Tiefstes Blue Hole der Welt (202 m) nahe Clarence Town auf Long Island.",
                   "category": "landmark",
                   "coords": [
                         -75.008608,
@@ -124,7 +124,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Gems At Paradise",
-                  "text": "Strandresort, das Entspannung in Clarence Town bietet.",
+                  "text": "Erholungsgebiet mit Strandzugang in Clarence Town.",
                   "category": "recreational",
                   "coords": [
                         -74.985021,
@@ -135,7 +135,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "hu": [
             {
                   "name": "Dean's Blue Hole",
-                  "text": "A világ egyik legmélyebb víz alatti kék lyuka.",
+                  "text": "A világ legmélyebb kék lyuka (202 m) Clarence Town közelében, Long Islanden.",
                   "category": "landmark",
                   "coords": [
                         -75.008608,
@@ -144,7 +144,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Gems At Paradise",
-                  "text": "Pihenést kínáló tengerparti üdülőhely Clarence Townban.",
+                  "text": "Pihenőhely strandhozzáféréssel Clarence Townban.",
                   "category": "recreational",
                   "coords": [
                         -74.985021,
@@ -155,7 +155,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "ro": [
             {
                   "name": "Dean's Blue Hole",
-                  "text": "Una dintre cele mai adânci găuri albastre submarine din lume.",
+                  "text": "Cel mai adânc ochi albastru din lume (202 m) lângă Clarence Town pe Long Island.",
                   "category": "landmark",
                   "coords": [
                         -75.008608,
@@ -164,7 +164,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Gems At Paradise",
-                  "text": "Complex turistic la plajă ce oferă relaxare în Clarence Town.",
+                  "text": "Zonă de agrement cu acces la plajă în Clarence Town.",
                   "category": "recreational",
                   "coords": [
                         -74.985021,
@@ -175,7 +175,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "en": [
             {
                   "name": "Dean's Blue Hole",
-                  "text": "One of the world's deepest underwater sinkholes.",
+                  "text": "The world's deepest blue hole, 202 meters, near Clarence Town on Long Island.",
                   "category": "landmark",
                   "coords": [
                         -75.008608,
@@ -184,7 +184,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Gems At Paradise",
-                  "text": "Beach resort offering relaxation in Clarence Town.",
+                  "text": "A recreational area with beach access in Clarence Town.",
                   "category": "recreational",
                   "coords": [
                         -74.985021,
@@ -466,7 +466,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "de": [
             {
                   "name": "Great Inagua Light",
-                  "text": "Das Great Inagua Light ist ein lokaler Leuchtturm in Matthew Town.",
+                  "text": "Historischer Leuchtturm auf Great Inagua in Matthew Town.",
                   "category": "landmark",
                   "coords": [
                         -73.67421,
@@ -475,7 +475,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Erickson Museum",
-                  "text": "Das Erickson Museum ist ein lokales Museum in Matthew Town.",
+                  "text": "Kleines Museum zur Lokalgeschichte in Matthew Town.",
                   "category": "museum",
                   "coords": [
                         -73.677127,
@@ -486,7 +486,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "hu": [
             {
                   "name": "Great Inagua Light",
-                  "text": "A Great Inagua Light egy helyi világítótorony Matthew Townban.",
+                  "text": "Történelmi világítótorony Great Inaguán, Matthew Townban.",
                   "category": "landmark",
                   "coords": [
                         -73.67421,
@@ -495,7 +495,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Erickson Museum",
-                  "text": "Az Erickson Museum egy helyi múzeum Matthew Townban.",
+                  "text": "Kis múzeum a helyi történelemről Matthew Townban.",
                   "category": "museum",
                   "coords": [
                         -73.677127,
@@ -506,7 +506,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "ro": [
             {
                   "name": "Great Inagua Light",
-                  "text": "Great Inagua Light este un far local situat în Matthew Town.",
+                  "text": "Un far istoric pe insula Great Inagua în Matthew Town.",
                   "category": "landmark",
                   "coords": [
                         -73.67421,
@@ -515,7 +515,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Erickson Museum",
-                  "text": "Muzeul Erickson este un muzeu local situat în Matthew Town.",
+                  "text": "Un mic muzeu de istorie locală în Matthew Town.",
                   "category": "museum",
                   "coords": [
                         -73.677127,
@@ -526,7 +526,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "en": [
             {
                   "name": "Great Inagua Light",
-                  "text": "Great Inagua Light is a local lighthouse situated in Matthew Town.",
+                  "text": "A historic lighthouse on Great Inagua island in Matthew Town.",
                   "category": "landmark",
                   "coords": [
                         -73.67421,
@@ -535,7 +535,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Erickson Museum",
-                  "text": "The Erickson Museum is a local museum located in Matthew Town.",
+                  "text": "A small museum showcasing local history in Matthew Town.",
                   "category": "museum",
                   "coords": [
                         -73.677127,
@@ -656,7 +656,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "de": [
             {
                   "name": "Conch Sound bleu hole",
-                  "text": "Das Conch Sound bleu hole ist ein Denkmal in Nicolls Town.",
+                  "text": "Blaues Loch, bekannt für seine Conch-Muscheln, nahe Nicolls Town.",
                   "category": "historical",
                   "coords": [
                         -77.999767,
@@ -665,7 +665,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Conch Sounds Oceanic Blue Hole",
-                  "text": "Das Conch Sounds Oceanic Blue Hole ist eine lokale Touristenattraktion in Nicolls Town.",
+                  "text": "Ozeanblaues Loch mit vielfältigem Meeresleben nahe Nicolls Town.",
                   "category": "landmark",
                   "coords": [
                         -78.000565,
@@ -676,7 +676,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "hu": [
             {
                   "name": "Conch Sound bleu hole",
-                  "text": "A Conch Sound bleu hole egy emlékmű Nicolls Townban.",
+                  "text": "Kék lyuk, híres kagylóiról, Nicolls Town közelében.",
                   "category": "historical",
                   "coords": [
                         -77.999767,
@@ -685,7 +685,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Conch Sounds Oceanic Blue Hole",
-                  "text": "A Conch Sounds Oceanic Blue Hole egy helyi turisztikai látványosság Nicolls Townban.",
+                  "text": "Óceáni kék lyuk változatos tengeri élővilággal Nicolls Town közelében.",
                   "category": "landmark",
                   "coords": [
                         -78.000565,
@@ -696,7 +696,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "ro": [
             {
                   "name": "Conch Sound bleu hole",
-                  "text": "Conch Sound bleu hole este un monument situat în Nicolls Town.",
+                  "text": "Un ochi albastru cunoscut pentru scoici de conch lângă Nicolls Town.",
                   "category": "historical",
                   "coords": [
                         -77.999767,
@@ -705,7 +705,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Conch Sounds Oceanic Blue Hole",
-                  "text": "Conch Sounds Oceanic Blue Hole este o atracție turistică locală în Nicolls Town.",
+                  "text": "Un ochi albastru oceanic cu viață marină diversă lângă Nicolls Town.",
                   "category": "landmark",
                   "coords": [
                         -78.000565,
@@ -716,7 +716,7 @@ export const poiExtraBahamasRefill: POI[] = [
       "en": [
             {
                   "name": "Conch Sound bleu hole",
-                  "text": "Conch Sound bleu hole is a monument located in Nicolls Town.",
+                  "text": "A blue hole known for its conch shells near Nicolls Town.",
                   "category": "historical",
                   "coords": [
                         -77.999767,
@@ -725,7 +725,7 @@ export const poiExtraBahamasRefill: POI[] = [
             },
             {
                   "name": "Conch Sounds Oceanic Blue Hole",
-                  "text": "Conch Sounds Oceanic Blue Hole is a local tourist attraction in Nicolls Town.",
+                  "text": "An oceanic blue hole with diverse marine life near Nicolls Town.",
                   "category": "landmark",
                   "coords": [
                         -78.000565,

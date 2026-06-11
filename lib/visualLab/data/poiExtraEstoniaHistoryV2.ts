@@ -7,7 +7,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Tillunire supelrand",
-                  "text": "Der Tillunire-Badestrand liegt bei der Maasi Ordensburg.",
+                  "text": "Badesandstrand in Tillunire nahe der Maasi-Ordensburg.",
                   "category": "recreational",
                   "coords": [
                         23.167671,
@@ -18,7 +18,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Tillunire supelrand",
-                  "text": "A Tillunire strand a maasi-i kereszteslovagvár mellett található.",
+                  "text": "Fürdő strand Tillunire-ban, a Maasi Rendkastély közelében.",
                   "category": "recreational",
                   "coords": [
                         23.167671,
@@ -29,7 +29,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Tillunire supelrand",
-                  "text": "Plaja Tillunire lângă castelul ordinului Maasi.",
+                  "text": "Plajă de înot la Tillunire lângă Castelul Ordinului Maasi.",
                   "category": "recreational",
                   "coords": [
                         23.167671,
@@ -40,7 +40,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Tillunire supelrand",
-                  "text": "Tillunire beach is located near Maasi Order Castle.",
+                  "text": "Swimming beach at Tillunire near Maasi Order Castle.",
                   "category": "recreational",
                   "coords": [
                         23.167671,
@@ -97,7 +97,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Melliste järve supelrand",
-                  "text": "Badestrand am Melliste-See beim Schloss Kastre.",
+                  "text": "Badesandstrand am Melliste-See nahe Kastre-Kastell.",
                   "category": "recreational",
                   "coords": [
                         26.974666,
@@ -106,7 +106,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Issaku järve supelrand",
-                  "text": "Badestrand am Issaku-See bei Kastre.",
+                  "text": "Badesandstrand am Issaku-See nahe Kastre-Kastell.",
                   "category": "recreational",
                   "coords": [
                         27.012995,
@@ -135,7 +135,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Melliste järve supelrand",
-                  "text": "Melliste-tavi strand a Kastre kastélynál.",
+                  "text": "Fürdő strand a Melliste-tónál, Kastre kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         26.974666,
@@ -144,7 +144,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Issaku järve supelrand",
-                  "text": "Strand az Issaku-tónál, Kastre közelében.",
+                  "text": "Fürdő strand az Issaku-tónál, Kastre kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         27.012995,
@@ -173,7 +173,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Melliste järve supelrand",
-                  "text": "Plaja lacului Melliste lângă castelul Kastre.",
+                  "text": "Plajă de înot pe Lacul Melliste lângă Castelul Kastre.",
                   "category": "recreational",
                   "coords": [
                         26.974666,
@@ -182,7 +182,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Issaku järve supelrand",
-                  "text": "Plajă la lacul Issaku lângă Kastre.",
+                  "text": "Plajă de înot pe Lacul Issaku lângă Castelul Kastre.",
                   "category": "recreational",
                   "coords": [
                         27.012995,
@@ -211,7 +211,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Melliste järve supelrand",
-                  "text": "Melliste lake beach near Kastre castle.",
+                  "text": "Swimming beach on Lake Melliste near Kastre Castle.",
                   "category": "recreational",
                   "coords": [
                         26.974666,
@@ -220,7 +220,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Issaku järve supelrand",
-                  "text": "Beach at Issaku lake near Kastre.",
+                  "text": "Swimming beach on Lake Issaku near Kastre Castle.",
                   "category": "recreational",
                   "coords": [
                         27.012995,
@@ -475,7 +475,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Laulasmaa rand",
-                  "text": "Laulasmaa-Strand nahe den Schlossruinen Keila-Joa.",
+                  "text": "Strand in Laulasmaa nahe den Keila-Joa-Schlossruinen.",
                   "category": "recreational",
                   "coords": [
                         24.23544,
@@ -540,7 +540,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Laulasmaa rand",
-                  "text": "Laulasmaa strand a Keila-Joa várromok közelében.",
+                  "text": "Strand Laulasmaában, a Keila Joa kastélyromok közelében.",
                   "category": "recreational",
                   "coords": [
                         24.23544,
@@ -605,7 +605,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Laulasmaa rand",
-                  "text": "Plaja Laulasmaa lângă ruinele castelului Keila-Joa.",
+                  "text": "Plajă în Laulasmaa lângă ruinele Castelului Keila Joa.",
                   "category": "recreational",
                   "coords": [
                         24.23544,
@@ -670,7 +670,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Laulasmaa rand",
-                  "text": "Laulasmaa beach near Keila-Joa castle ruins.",
+                  "text": "Beach at Laulasmaa near Keila Joa Castle ruins.",
                   "category": "recreational",
                   "coords": [
                         24.23544,
@@ -826,7 +826,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Nissi supelrand",
-                  "text": "Strand bei Schloss Laitse.",
+                  "text": "Nissi Badesandstrand nahe Gutshof Laitse.",
                   "category": "recreational",
                   "coords": [
                         24.318484,
@@ -837,7 +837,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Nissi supelrand",
-                  "text": "Strand a Laitse kastély közelében.",
+                  "text": "Nissi fürdő strand a Laitse kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         24.318484,
@@ -848,7 +848,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Nissi supelrand",
-                  "text": "Plajă lângă conacul Laitse.",
+                  "text": "Plajă de înot Nissi lângă Conacul Laitse.",
                   "category": "recreational",
                   "coords": [
                         24.318484,
@@ -859,7 +859,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Nissi supelrand",
-                  "text": "Beach near Laitse Manor.",
+                  "text": "Nissi swimming beach near Laitse Manor.",
                   "category": "recreational",
                   "coords": [
                         24.318484,
@@ -961,7 +961,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Restu karjääri supelrand",
-                  "text": "Badestrand am Steinbruch Restu bei Sangaste.",
+                  "text": "Badesandstrand am Restu-Steinbruch nahe Gutshof Sangaste.",
                   "category": "recreational",
                   "coords": [
                         26.386474,
@@ -981,7 +981,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Restu karjääri supelrand",
-                  "text": "Strand a Restu-kőbányánál, Sangaste közelében.",
+                  "text": "Fürdő strand a Restu kőbányánál, a Sangaste kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         26.386474,
@@ -1001,7 +1001,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Restu karjääri supelrand",
-                  "text": "Plajă la cariera Restu, lângă Sangaste.",
+                  "text": "Plajă de înot la cariera Restu lângă Conacul Sangaste.",
                   "category": "recreational",
                   "coords": [
                         26.386474,
@@ -1021,7 +1021,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Restu karjääri supelrand",
-                  "text": "Beach at Restu quarry near Sangaste.",
+                  "text": "Swimming beach at Restu quarry near Sangaste Manor.",
                   "category": "recreational",
                   "coords": [
                         26.386474,
@@ -1087,7 +1087,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Räägu järve supelrand",
-                  "text": "Strand am Räägu-See bei Schloss Ohekatku.",
+                  "text": "Badesandstrand am Räägu-See nahe Gutshof Ohekatku.",
                   "category": "recreational",
                   "coords": [
                         24.87766,
@@ -1098,7 +1098,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Räägu järve supelrand",
-                  "text": "Strand a Räägu-tónál, Ohekatku kastély közelében.",
+                  "text": "Fürdő strand a Räägu-tónál, az Ohekatku kastély közelében.",
                   "category": "recreational",
                   "coords": [
                         24.87766,
@@ -1109,7 +1109,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Räägu järve supelrand",
-                  "text": "Plajă la lacul Räägu lângă conacul Ohekatku.",
+                  "text": "Plajă de înot pe Lacul Räägu lângă Conacul Ohekatku.",
                   "category": "recreational",
                   "coords": [
                         24.87766,
@@ -1120,7 +1120,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Räägu järve supelrand",
-                  "text": "Beach at Räägu Lake near Ohekatku Manor.",
+                  "text": "Swimming beach on Lake Räägu near Ohekatku Manor.",
                   "category": "recreational",
                   "coords": [
                         24.87766,
@@ -1222,7 +1222,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Vanamõisa järve supelrand",
-                  "text": "Vanamõisa-See-Badestrand bei den Schlossruinen Tõrva.",
+                  "text": "Badesandstrand am Vanamõisa-See nahe den Burgruinen von Torva.",
                   "category": "recreational",
                   "coords": [
                         25.931065,
@@ -1231,7 +1231,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Riiska supelrand",
-                  "text": "Strand bei Tõrva.",
+                  "text": "Riiska Badesandstrand nahe den Burgruinen von Torva.",
                   "category": "recreational",
                   "coords": [
                         25.935856,
@@ -1267,7 +1267,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Helme Püha Neitsi Maarja kirik",
-                  "text": "Die Ruinen der mittelalterlichen Marienkirche in Helme.",
+                  "text": "Mittelalterliche Kirche (Mariä Himmelfahrt) mit freistehendem Glockenturm bei den Ruinen der Burg Helme.",
                   "category": "religious",
                   "coords": [
                         25.88204,
@@ -1287,7 +1287,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Vanamõisa järve supelrand",
-                  "text": "Vanamõisa-tavi strand a Tõrva várromoknál.",
+                  "text": "Fürdő strand a Vanamõisa-tónál, a Torva vár romjai közelében.",
                   "category": "recreational",
                   "coords": [
                         25.931065,
@@ -1296,7 +1296,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Riiska supelrand",
-                  "text": "Strand Tõrvánál.",
+                  "text": "Riiska fürdő strand a Torva vár romjai közelében.",
                   "category": "recreational",
                   "coords": [
                         25.935856,
@@ -1332,7 +1332,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Helme Püha Neitsi Maarja kirik",
-                  "text": "A középkori Szűz Mária-templom romjai Helmében.",
+                  "text": "Középkori templom (Szűz Mária mennybevétele) különálló harangtoronnyal a Helme váromladékoknál.",
                   "category": "religious",
                   "coords": [
                         25.88204,
@@ -1352,7 +1352,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Vanamõisa järve supelrand",
-                  "text": "Plaja lacului Vanamõisa lângă ruinele castelului Tõrva.",
+                  "text": "Plajă de înot pe Lacul Vanamõisa lângă ruinele Castelului Torva.",
                   "category": "recreational",
                   "coords": [
                         25.931065,
@@ -1361,7 +1361,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Riiska supelrand",
-                  "text": "Plajă lângă Tõrva.",
+                  "text": "Plajă de înot Riiska lângă ruinele Castelului Torva.",
                   "category": "recreational",
                   "coords": [
                         25.935856,
@@ -1397,7 +1397,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Helme Püha Neitsi Maarja kirik",
-                  "text": "Ruinele bisericii medievale Sfânta Maria din Helme.",
+                  "text": "Biserică medievală (Adormirea Maicii Domnului) cu clopotniță separat lângă ruinele cetății Helme.",
                   "category": "religious",
                   "coords": [
                         25.88204,
@@ -1417,7 +1417,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Vanamõisa järve supelrand",
-                  "text": "Vanamõisa lake beach near Tõrva castle ruins.",
+                  "text": "Swimming beach on Lake Vanamõisa near Torva Castle ruins.",
                   "category": "recreational",
                   "coords": [
                         25.931065,
@@ -1426,7 +1426,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Riiska supelrand",
-                  "text": "Beach near Tõrva.",
+                  "text": "Riiska swimming beach near Torva Castle ruins.",
                   "category": "recreational",
                   "coords": [
                         25.935856,
@@ -1462,7 +1462,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Helme Püha Neitsi Maarja kirik",
-                  "text": "The ruins of the medieval St. Mary's Church in Helme.",
+                  "text": "Medieval church (Assumption of Mary) with a detached bell tower near Helme castle ruins.",
                   "category": "religious",
                   "coords": [
                         25.88204,
@@ -1546,7 +1546,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Pärnamäe hiis",
-                  "text": "Ein heiliger Hain und eine archäologische Stätte in Estland.",
+                  "text": "Historischer heiliger Hain in Pärnamäe nahe Gutshof Jaggeri.",
                   "category": "historical",
                   "coords": [
                         25.214805,
@@ -1582,7 +1582,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Jõelähtme kirik",
-                  "text": "Eine der ältesten mittelalterlichen Kirchen Estlands.",
+                  "text": "Mittelalterliche Wehrkirche mit Steinmauer und hohem Turm in Jõelähtme bei Jaggeri.",
                   "category": "religious",
                   "coords": [
                         25.124136,
@@ -1629,7 +1629,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Pärnamäe hiis",
-                  "text": "Szent liget és régészeti lelőhely Észtországban.",
+                  "text": "Történelmi szent liget Pärnamäe-ban, a Jaggeri kastély közelében.",
                   "category": "historical",
                   "coords": [
                         25.214805,
@@ -1665,7 +1665,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Jõelähtme kirik",
-                  "text": "Észtország egyik legrégebbi középkori temploma.",
+                  "text": "Középkori erődtemplom kőfallal és magas toronnyal Jõelähtmében, Jaggeri közelében.",
                   "category": "religious",
                   "coords": [
                         25.124136,
@@ -1712,7 +1712,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Pärnamäe hiis",
-                  "text": "Un crâng sacru și un sit arheologic în Estonia.",
+                  "text": "Lunca sacră istorică la Pärnamäe lângă Conacul Jaggeri.",
                   "category": "historical",
                   "coords": [
                         25.214805,
@@ -1748,7 +1748,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Jõelähtme kirik",
-                  "text": "Una dintre cele mai vechi biserici medievale din Estonia.",
+                  "text": "Biserică fortificată medievală cu zid de piatră și turn înalt în Jõelähtme, lângă Jaggeri.",
                   "category": "religious",
                   "coords": [
                         25.124136,
@@ -1795,7 +1795,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Pärnamäe hiis",
-                  "text": "A sacred grove and archaeological site in Estonia.",
+                  "text": "Historical sacred grove at Pärnamäe near Jaggeri Manor.",
                   "category": "historical",
                   "coords": [
                         25.214805,
@@ -1831,7 +1831,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Jõelähtme Church of Blessed Virgin Mary",
-                  "text": "One of the oldest medieval churches in Estonia.",
+                  "text": "Medieval fortified church with a stone wall and tall tower in Jõelähtme near Jaggeri.",
                   "category": "religious",
                   "coords": [
                         25.124136,
@@ -1962,7 +1962,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Põltsamaa supelrand",
-                  "text": "Strand a Põltsamaa-i várromok közelében.",
+                  "text": "Strand Põltsamaa várromjai mellett.",
                   "category": "recreational",
                   "coords": [
                         25.971762,
@@ -2221,7 +2221,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Suure-Jaani supelrand",
-                  "text": "Strand bei Suure-Jaani.",
+                  "text": "Badestrand nahe der Kirche von Suure-Jaani.",
                   "category": "recreational",
                   "coords": [
                         25.468919,
@@ -2239,7 +2239,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Heliloojate Kappide muuseum",
-                  "text": "Ein Museum in Suure-Jaani, das der Musikerfamilie Kapp gewidmet ist.",
+                  "text": "Heimatmuseum der Familie Kapp im ehemaligen Wohnhaus nahe der Kirche von Suure-Jaani.",
                   "category": "museum",
                   "coords": [
                         25.471843,
@@ -2266,7 +2266,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Suure-Jaani ujumiskoht",
-                  "text": "Ein Badeplatz in der Nähe der Kirche von Suure-Jaani.",
+                  "text": "Badeplatz nahe der Kirche von Suure-Jaani.",
                   "category": "recreational",
                   "coords": [
                         25.47158,
@@ -2277,7 +2277,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Suure-Jaani supelrand",
-                  "text": "Part Suure-Jaaninál.",
+                  "text": "Strand a Suure-Jaani templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.468919,
@@ -2295,7 +2295,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Heliloojate Kappide muuseum",
-                  "text": "A Kapp zenészcsaládnak szentelt múzeum Suure-Jaaniban.",
+                  "text": "A Kapp család emlékmúzeuma egykori otthonukban, Suure-Jaani temploma mellett.",
                   "category": "museum",
                   "coords": [
                         25.471843,
@@ -2333,7 +2333,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Suure-Jaani supelrand",
-                  "text": "Plajă lângă Suure-Jaani.",
+                  "text": "Plajă lângă biserica Suure-Jaani.",
                   "category": "recreational",
                   "coords": [
                         25.468919,
@@ -2351,7 +2351,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Heliloojate Kappide muuseum",
-                  "text": "Un muzeu în Suure-Jaani dedicat familiei de muzicieni Kapp.",
+                  "text": "Muzeul casei familiei Kapp în fosta locuință, lângă biserica Suure-Jaani.",
                   "category": "museum",
                   "coords": [
                         25.471843,
@@ -2378,7 +2378,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Suure-Jaani ujumiskoht",
-                  "text": "Un loc de scăldat în apropierea bisericii din Suure-Jaani.",
+                  "text": "Loc de înot lângă biserica Suure-Jaani.",
                   "category": "recreational",
                   "coords": [
                         25.47158,
@@ -2389,7 +2389,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Suure-Jaani supelrand",
-                  "text": "Beach near Suure-Jaani.",
+                  "text": "Beach near Suure-Jaani Church.",
                   "category": "recreational",
                   "coords": [
                         25.468919,
@@ -2407,7 +2407,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Home Museum Of The Kapp Family",
-                  "text": "A museum in Suure-Jaani dedicated to the Kapp family of musicians.",
+                  "text": "Home museum of the Kapp family in their former residence near Suure-Jaani Church.",
                   "category": "museum",
                   "coords": [
                         25.471843,
@@ -2434,7 +2434,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Suure-Jaani ujumiskoht",
-                  "text": "A swimming area located near the Suure-Jaani Church.",
+                  "text": "Swimming spot near Suure-Jaani Church.",
                   "category": "recreational",
                   "coords": [
                         25.47158,
@@ -3013,7 +3013,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Kirimäe supelrand",
-                  "text": "Badestrand Kirimäe bei den Ruinen von Ungru.",
+                  "text": "Badestrand bei den Ruinen des Ungru-Herrenhauses.",
                   "category": "recreational",
                   "coords": [
                         23.654542,
@@ -3024,7 +3024,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Kirimäe supelrand",
-                  "text": "Kirimäe strand az Ungru romok közelében.",
+                  "text": "Strand az Ungru-kastély romjainál.",
                   "category": "recreational",
                   "coords": [
                         23.654542,
@@ -3035,7 +3035,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Kirimäe supelrand",
-                  "text": "Plaja Kirimäe lângă Ruinele Ungru.",
+                  "text": "Plajă lângă ruinele conacului Ungru.",
                   "category": "recreational",
                   "coords": [
                         23.654542,
@@ -3046,7 +3046,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Kirimäe supelrand",
-                  "text": "Kirimäe beach near Ungru Ruins.",
+                  "text": "Beach near the ruins of Ungru Manor.",
                   "category": "recreational",
                   "coords": [
                         23.654542,
@@ -3328,7 +3328,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tori sild",
-                  "text": "Eine bedeutende Brücke über den Fluss Pärnu in Tori.",
+                  "text": "Tori sild, eine Brücke aus dem Jahr 1956 in Tori Kirche.",
                   "category": "landmark",
                   "coords": [
                         24.814658,
@@ -3337,7 +3337,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tori uus vallamaja",
-                  "text": "Das moderne Gemeindehaus der Landgemeinde Tori.",
+                  "text": "Neues Gemeindehaus in Tori.",
                   "category": "landmark",
                   "coords": [
                         24.814383,
@@ -3375,7 +3375,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tori sild",
-                  "text": "Jelentős híd a Pärnu-folyón Tori településénél.",
+                  "text": "Tori sild, egy 1956-ban épült híd Tori templomban.",
                   "category": "landmark",
                   "coords": [
                         24.814658,
@@ -3384,7 +3384,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tori uus vallamaja",
-                  "text": "Tori község modern önkormányzati épülete.",
+                  "text": "Új közösségi ház Tori faluban.",
                   "category": "landmark",
                   "coords": [
                         24.814383,
@@ -3422,7 +3422,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tori sild",
-                  "text": "Un pod notabil care traversează râul Pärnu în Tori.",
+                  "text": "Podul Tori, construit în 1956 în Tori Church.",
                   "category": "landmark",
                   "coords": [
                         24.814658,
@@ -3431,7 +3431,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tori uus vallamaja",
-                  "text": "Clădirea municipală modernă a parohiei Tori.",
+                  "text": "Casă comunitară nouă în satul Tori.",
                   "category": "landmark",
                   "coords": [
                         24.814383,
@@ -3469,7 +3469,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tori sild",
-                  "text": "A notable bridge crossing the Pärnu River in Tori.",
+                  "text": "Tori Bridge, a bridge built in 1956 in Tori Church.",
                   "category": "landmark",
                   "coords": [
                         24.814658,
@@ -3478,7 +3478,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tori uus vallamaja",
-                  "text": "The modern municipal building of the Tori parish.",
+                  "text": "New community house in Tori village.",
                   "category": "landmark",
                   "coords": [
                         24.814383,
@@ -3544,7 +3544,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Tarbja supelrand",
-                  "text": "Strand bei der Burgruine Paide.",
+                  "text": "Badestrand bei den Ruinen der Burg Paide.",
                   "category": "recreational",
                   "coords": [
                         25.578583,
@@ -3555,7 +3555,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Tarbja supelrand",
-                  "text": "Strand a paidei várromok közelében.",
+                  "text": "Strand Paide várromjai mellett.",
                   "category": "recreational",
                   "coords": [
                         25.578583,
@@ -3577,7 +3577,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Tarbja supelrand",
-                  "text": "Beach near the Paide castle ruins.",
+                  "text": "Beach near the ruins of Paide Castle.",
                   "category": "recreational",
                   "coords": [
                         25.578583,
@@ -3634,7 +3634,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Lohusuu supelrand",
-                  "text": "Badestrand an der Kirche in Lohusuu.",
+                  "text": "Badestrand nahe der Kirche von Lohusuu.",
                   "category": "recreational",
                   "coords": [
                         27.048927,
@@ -3643,7 +3643,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "EELK Lohusuu kirik",
-                  "text": "Eine evangelisch-lutherische Kirche aus dem 19. Jahrhundert in Lohusuu.",
+                  "text": "Holzkirche (lutherisch) aus dem 18. Jahrhundert in Lohusuu.",
                   "category": "religious",
                   "coords": [
                         27.045742,
@@ -3652,7 +3652,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Lohusuu Veneküla kalmistu kabel",
-                  "text": "Eine Friedhofskapelle im Dorf Lohusuu-Veneküla.",
+                  "text": "Kleine hölzerne Friedhofskapelle mit Schindeldach im Veneküla-Friedhof in Lohusuu.",
                   "category": "religious",
                   "coords": [
                         27.058019,
@@ -3681,7 +3681,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Lohusuu supelrand",
-                  "text": "Strand a lohusuu-i templom mellett.",
+                  "text": "Strand a Lohusuu templom közelében.",
                   "category": "recreational",
                   "coords": [
                         27.048927,
@@ -3690,7 +3690,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "EELK Lohusuu kirik",
-                  "text": "19. századi evangélikus templom Lohusuuban.",
+                  "text": "18. századi fából készült evangélikus templom Lohusuuban.",
                   "category": "religious",
                   "coords": [
                         27.045742,
@@ -3699,7 +3699,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Lohusuu Veneküla kalmistu kabel",
-                  "text": "Temetőkápolna Lohusuu-Veneküla faluban.",
+                  "text": "Kis fa temetőkápolna zsindelytetővel a venekülai temetőben Lohusuuban.",
                   "category": "religious",
                   "coords": [
                         27.058019,
@@ -3728,7 +3728,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Lohusuu supelrand",
-                  "text": "Plajă lângă biserica din Lohusuu.",
+                  "text": "Plajă lângă biserica Lohusuu.",
                   "category": "recreational",
                   "coords": [
                         27.048927,
@@ -3737,7 +3737,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "EELK Lohusuu kirik",
-                  "text": "O biserică evanghelică luterană din secolul al XIX-lea în Lohusuu.",
+                  "text": "Biserică de lemn (luterană) din secolul al XVIII-lea în Lohusuu.",
                   "category": "religious",
                   "coords": [
                         27.045742,
@@ -3746,7 +3746,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Lohusuu Veneküla kalmistu kabel",
-                  "text": "O chapelă de cimitir în satul Lohusuu-Veneküla.",
+                  "text": "Mici capelă de lemn de cimitir cu acoperiș de șindrilă în cimitirul Veneküla din Lohusuu.",
                   "category": "religious",
                   "coords": [
                         27.058019,
@@ -3775,7 +3775,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Lohusuu supelrand",
-                  "text": "Beach located by the church in Lohusuu.",
+                  "text": "Beach near Lohusuu Church.",
                   "category": "recreational",
                   "coords": [
                         27.048927,
@@ -3784,7 +3784,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "EELK Lohusuu kirik",
-                  "text": "A 19th-century Evangelical Lutheran church in Lohusuu.",
+                  "text": "18th-century wooden Lutheran church in Lohusuu.",
                   "category": "religious",
                   "coords": [
                         27.045742,
@@ -3793,7 +3793,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Lohusuu Veneküla kalmistu kabel",
-                  "text": "A cemetery chapel in the village of Lohusuu-Veneküla.",
+                  "text": "Small wooden cemetery chapel with a shingled roof in the Veneküla cemetery in Lohusuu.",
                   "category": "religious",
                   "coords": [
                         27.058019,
@@ -4003,7 +4003,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Ülde supelrand",
-                  "text": "Badestrand Ülde bei Kuhjavere Manor.",
+                  "text": "Badestrand am Herrenhaus Kuhjavere.",
                   "category": "recreational",
                   "coords": [
                         25.664788,
@@ -4012,7 +4012,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tääksi supelrand",
-                  "text": "Der Tääksi-Badestrand liegt in der Nähe des Kuhjavere-Herrenhauses.",
+                  "text": "Badeplatz am Herrenhaus Kuhjavere.",
                   "category": "recreational",
                   "coords": [
                         25.624155,
@@ -4023,7 +4023,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Ülde supelrand",
-                  "text": "Ülde strand a Kuhjavere kastély közelében.",
+                  "text": "Strand a Kuhjavere-kastély mellett.",
                   "category": "recreational",
                   "coords": [
                         25.664788,
@@ -4032,7 +4032,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tääksi supelrand",
-                  "text": "A Tääksi strand a Kuhjavere kúria közelében található.",
+                  "text": "Fürdőhely a Kuhjavere-kastély mellett.",
                   "category": "recreational",
                   "coords": [
                         25.624155,
@@ -4043,7 +4043,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Ülde supelrand",
-                  "text": "Plaja Ülde lângă Conacul Kuhjavere.",
+                  "text": "Plajă lângă conacul Kuhjavere.",
                   "category": "recreational",
                   "coords": [
                         25.664788,
@@ -4052,7 +4052,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tääksi supelrand",
-                  "text": "Plaja Tääksi este situată lângă conacul Kuhjavere.",
+                  "text": "Loc de înot lângă conacul Kuhjavere.",
                   "category": "recreational",
                   "coords": [
                         25.624155,
@@ -4063,7 +4063,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Ülde supelrand",
-                  "text": "Ülde beach near Kuhjavere Manor.",
+                  "text": "Beach at Kuhjavere Manor.",
                   "category": "recreational",
                   "coords": [
                         25.664788,
@@ -4072,7 +4072,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Tääksi supelrand",
-                  "text": "Tääksi beach is located near Kuhjavere Manor.",
+                  "text": "Swimming area at Kuhjavere Manor.",
                   "category": "recreational",
                   "coords": [
                         25.624155,
@@ -4129,7 +4129,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Liimala supelrand",
-                  "text": "Badestrand Liimala bei Purtse Manor.",
+                  "text": "Badestrand am Herrenhaus Purtse.",
                   "category": "recreational",
                   "coords": [
                         26.985761,
@@ -4167,7 +4167,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Liimala supelrand",
-                  "text": "Liimala strand a Purtse kastély közelében.",
+                  "text": "Strand a Purtse-kastély mellett.",
                   "category": "recreational",
                   "coords": [
                         26.985761,
@@ -4205,7 +4205,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Liimala supelrand",
-                  "text": "Plaja Liimala lângă Conacul Purtse.",
+                  "text": "Plajă lângă conacul Purtse.",
                   "category": "recreational",
                   "coords": [
                         26.985761,
@@ -4243,7 +4243,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Liimala supelrand",
-                  "text": "Liimala beach near Purtse Manor.",
+                  "text": "Beach at Purtse Manor.",
                   "category": "recreational",
                   "coords": [
                         26.985761,
@@ -4327,7 +4327,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Trepimäe supelrand",
-                  "text": "Trepimäe-Badestrand nahe der Kirche von Rannu.",
+                  "text": "Badestrand nahe der Kirche von Rannu.",
                   "category": "recreational",
                   "coords": [
                         26.130829,
@@ -4336,7 +4336,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Rannu supelrand",
-                  "text": "Strand bei der Kirche Rannu.",
+                  "text": "Badeplatz nahe der Kirche von Rannu.",
                   "category": "recreational",
                   "coords": [
                         26.218708,
@@ -4365,7 +4365,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Trepimäe supelrand",
-                  "text": "Trepimäe strand a rannui templom közelében.",
+                  "text": "Strand a Rannu templom közelében.",
                   "category": "recreational",
                   "coords": [
                         26.130829,
@@ -4374,7 +4374,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Rannu supelrand",
-                  "text": "Strand a rannui templom mellett.",
+                  "text": "Fürdőhely a Rannu templom közelében.",
                   "category": "recreational",
                   "coords": [
                         26.218708,
@@ -4403,7 +4403,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Trepimäe supelrand",
-                  "text": "Plaja Trepimäe lângă biserica din Rannu.",
+                  "text": "Plajă lângă biserica Rannu.",
                   "category": "recreational",
                   "coords": [
                         26.130829,
@@ -4412,7 +4412,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Rannu supelrand",
-                  "text": "Plajă lângă biserica Rannu.",
+                  "text": "Loc de înot lângă biserica Rannu.",
                   "category": "recreational",
                   "coords": [
                         26.218708,
@@ -4441,7 +4441,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Trepimäe supelrand",
-                  "text": "Trepimäe beach near Rannu church.",
+                  "text": "Beach near Rannu Church.",
                   "category": "recreational",
                   "coords": [
                         26.130829,
@@ -4450,7 +4450,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Rannu supelrand",
-                  "text": "Beach near Rannu Church.",
+                  "text": "Swimming spot near Rannu Church.",
                   "category": "recreational",
                   "coords": [
                         26.218708,
@@ -4525,7 +4525,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Valkla-Salmistu rand",
-                  "text": "Strand Valkla-Salmistu bei Kolga.",
+                  "text": "Sandstrand am Herrenhaus Kolga.",
                   "category": "recreational",
                   "coords": [
                         25.35187,
@@ -4534,7 +4534,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Andineeme rand",
-                  "text": "Der Andineeme-Strand liegt bei der Kolga-Herrenhausanlage.",
+                  "text": "Strandabschnitt am Herrenhaus Kolga.",
                   "category": "recreational",
                   "coords": [
                         25.456503,
@@ -4563,7 +4563,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Valkla-Salmistu rand",
-                  "text": "Valkla-Salmistu strand Kolga közelében.",
+                  "text": "Homokos strand a Kolga-kastély mellett.",
                   "category": "recreational",
                   "coords": [
                         25.35187,
@@ -4572,7 +4572,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Andineeme rand",
-                  "text": "Az Andineeme strand a Kolga kúria mellett található.",
+                  "text": "Strandrész a Kolga-kastély mellett.",
                   "category": "recreational",
                   "coords": [
                         25.456503,
@@ -4601,7 +4601,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Valkla-Salmistu rand",
-                  "text": "Plaja Valkla-Salmistu lângă Kolga.",
+                  "text": "Plajă cu nisip lângă conacul Kolga.",
                   "category": "recreational",
                   "coords": [
                         25.35187,
@@ -4610,7 +4610,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Andineeme rand",
-                  "text": "Plaja Andineeme este situată lângă conacul Kolga.",
+                  "text": "Sector de plajă lângă conacul Kolga.",
                   "category": "recreational",
                   "coords": [
                         25.456503,
@@ -4639,7 +4639,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Valkla-Salmistu rand",
-                  "text": "Valkla-Salmistu beach near Kolga.",
+                  "text": "Sandy beach near Kolga Manor.",
                   "category": "recreational",
                   "coords": [
                         25.35187,
@@ -4648,7 +4648,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Andineeme rand",
-                  "text": "Andineeme beach is located near Kolga Manor.",
+                  "text": "Beach section near Kolga Manor.",
                   "category": "recreational",
                   "coords": [
                         25.456503,
@@ -4750,7 +4750,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Padise mõisa viinavabrik",
-                  "text": "Die Ruinen der alten Brennerei des Gutshofs Padise.",
+                  "text": "Ehemalige Brennerei des Herrenhauses Padise nahe den Klosterruinen.",
                   "category": "historical",
                   "coords": [
                         24.139406,
@@ -4797,7 +4797,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Padise mõisa viinavabrik",
-                  "text": "A padisei uradalom egykori szeszfőzdéjének romjai.",
+                  "text": "A Padise-kastély egykori szeszfőzdéje a kolostorromok mellett.",
                   "category": "historical",
                   "coords": [
                         24.139406,
@@ -4844,7 +4844,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Padise mõisa viinavabrik",
-                  "text": "Ruinele fostei distilerii a conacului Padise.",
+                  "text": "Fosta distilerie a conacului Padise, lângă ruinele mănăstirii.",
                   "category": "historical",
                   "coords": [
                         24.139406,
@@ -4891,7 +4891,7 @@ export const estoniaHistoryV2: POI[] = [
             },
             {
                   "name": "Padise mõisa viinavabrik",
-                  "text": "The ruins of the old distillery of the Padise manor.",
+                  "text": "Former distillery of Padise Manor near the monastery ruins.",
                   "category": "historical",
                   "coords": [
                         24.139406,
@@ -4957,7 +4957,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Kose supelrand",
-                  "text": "Badestrand in Kose nahe der Kirche.",
+                  "text": "Badestrand nahe der Kirche von Kose.",
                   "category": "recreational",
                   "coords": [
                         25.169952,
@@ -5013,7 +5013,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Kose supelrand",
-                  "text": "Kosei strand a templom közelében.",
+                  "text": "Strand a Kose templom közelében.",
                   "category": "recreational",
                   "coords": [
                         25.169952,
@@ -5069,7 +5069,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Kose supelrand",
-                  "text": "Plaja Kose lângă biserică.",
+                  "text": "Plajă lângă biserica Kose.",
                   "category": "recreational",
                   "coords": [
                         25.169952,
@@ -5125,7 +5125,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Kose supelrand",
-                  "text": "Kose beach near the church.",
+                  "text": "Beach near Kose Church.",
                   "category": "recreational",
                   "coords": [
                         25.169952,
@@ -5425,7 +5425,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Puurmani supelrand",
-                  "text": "Puurmani-Badestrand beim Gut Puurmani.",
+                  "text": "Badestrand am Herrenhaus Puurmani.",
                   "category": "recreational",
                   "coords": [
                         26.299408,
@@ -5454,7 +5454,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Puurmani supelrand",
-                  "text": "Puurmani strand a Puurmani kastélynál.",
+                  "text": "Strand a Puurmani-kastély mellett.",
                   "category": "recreational",
                   "coords": [
                         26.299408,
@@ -5483,7 +5483,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Puurmani supelrand",
-                  "text": "Plaja Puurmani lângă conacul Puurmani.",
+                  "text": "Plajă lângă conacul Puurmani.",
                   "category": "recreational",
                   "coords": [
                         26.299408,
@@ -5512,7 +5512,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Puurmani supelrand",
-                  "text": "Puurmani beach near Puurmani Manor.",
+                  "text": "Beach at Puurmani Manor.",
                   "category": "recreational",
                   "coords": [
                         26.299408,
@@ -5632,7 +5632,7 @@ export const estoniaHistoryV2: POI[] = [
       "de": [
             {
                   "name": "Mahu supelrand",
-                  "text": "Mahu-Badestrand bei der historischen Malla-Herrenhausanlage.",
+                  "text": "Badestrand am Herrenhaus Malla.",
                   "category": "recreational",
                   "coords": [
                         26.726402,
@@ -5643,7 +5643,7 @@ export const estoniaHistoryV2: POI[] = [
       "hu": [
             {
                   "name": "Mahu supelrand",
-                  "text": "Mahu strand a történelmi Malla kúria közelében.",
+                  "text": "Strand a Malla-kastély mellett.",
                   "category": "recreational",
                   "coords": [
                         26.726402,
@@ -5654,7 +5654,7 @@ export const estoniaHistoryV2: POI[] = [
       "ro": [
             {
                   "name": "Mahu supelrand",
-                  "text": "Plaja Mahu lângă conacul istoric Malla.",
+                  "text": "Plajă lângă conacul Malla.",
                   "category": "recreational",
                   "coords": [
                         26.726402,
@@ -5665,7 +5665,7 @@ export const estoniaHistoryV2: POI[] = [
       "en": [
             {
                   "name": "Mahu supelrand",
-                  "text": "Mahu beach near the historic Malla Manor.",
+                  "text": "Beach near Malla Manor.",
                   "category": "recreational",
                   "coords": [
                         26.726402,

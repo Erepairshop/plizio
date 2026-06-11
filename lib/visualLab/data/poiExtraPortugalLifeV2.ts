@@ -2005,7 +2005,7 @@ export const portugalLifeV2: POI[] = [
             },
             {
                   "name": "Praia do Mexilhoeiro",
-                  "text": "Ein lokaler Strand im Viertel Mexilhoeiro von Barreiro.",
+                  "text": "Kleine Bucht mit Felsformationen, die an Muscheln erinnern, in der Nähe von Parque de Monterreo.",
                   "category": "recreational",
                   "coords": [
                         -9.090217,
@@ -2043,7 +2043,7 @@ export const portugalLifeV2: POI[] = [
             },
             {
                   "name": "Praia do Mexilhoeiro",
-                  "text": "Egy helyi strand Barreiro Mexilhoeiro területén.",
+                  "text": "Kis öböl sziklákkal, amelyek kagylókra emlékeztetnek, Parque de Monterreo közelében.",
                   "category": "recreational",
                   "coords": [
                         -9.090217,
@@ -2081,7 +2081,7 @@ export const portugalLifeV2: POI[] = [
             },
             {
                   "name": "Praia do Mexilhoeiro",
-                  "text": "O plajă locală situată în zona Mexilhoeiro din Barreiro.",
+                  "text": "Golf mic cu formațiuni stâncoase ce amintesc de midii, lângă Parque de Monterreo.",
                   "category": "recreational",
                   "coords": [
                         -9.090217,
@@ -2119,7 +2119,7 @@ export const portugalLifeV2: POI[] = [
             },
             {
                   "name": "Praia do Mexilhoeiro",
-                  "text": "A local beach situated in the Mexilhoeiro area of Barreiro.",
+                  "text": "Small cove with rock formations resembling mussels, near Parque de Monterreo.",
                   "category": "recreational",
                   "coords": [
                         -9.090217,

@@ -3,7 +3,1096 @@ import type { POI } from "./poi";
 
 export const poiExtraLaosLandmarksV2: POI[] = [
   {
-    id: "pha-that-luang-landmarks-v2",
+    id: "pha-that-luang-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Weopadith Swimming Pool",
+                  "text": "Dieser familienorientierte Wasserpark bietet ein großes Außenschwimmbad und Freizeit-Wasserrutschen, um der tropischen Hitze zu entfliehen.",
+                  "category": "recreational",
+                  "coords": [
+                        102.633828,
+                        18.004587
+                  ]
+            },
+            {
+                  "name": "People's Security Museum",
+                  "text": "Das Museum für Volkssicherheit dokumentiert die Geschichte der laotischen Polizei mit Ausstellungen von Oldtimern und historischen Uniformen.",
+                  "category": "museum",
+                  "coords": [
+                        102.630659,
+                        17.979755
+                  ]
+            },
+            {
+                  "name": "ອະນຸສອນສະຖານ ປະທານ ສຸພານຸວົງ",
+                  "text": "Das in seiner ehemaligen Residenz gelegene Gedenkmuseum bewahrt die persönlichen Gegenstände und Fotografien des ersten Präsidenten von Laos auf.",
+                  "category": "museum",
+                  "coords": [
+                        102.628942,
+                        17.979725
+                  ]
+            },
+            {
+                  "name": "ຫໍພິພິຕະພັນໄກສອນ",
+                  "text": "Dieses Museum, das in einem monumentalen Gebäude untergebracht ist, welches traditionelle und sozialistische Architektur verbindet, ehrt das Leben des Revolutionsführers.",
+                  "category": "museum",
+                  "coords": [
+                        102.644276,
+                        18.006761
+                  ]
+            },
+            {
+                  "name": "Lao National Museum",
+                  "text": "Das im Gebäude aus der französischen Kolonialzeit untergebrachte laotische Nationalmuseum zeichnet die Geschichte der Nation von der Vorgeschichte bis zum revolutionären Kampf nach.",
+                  "category": "museum",
+                  "coords": [
+                        102.645267,
+                        18.007704
+                  ]
+            },
+            {
+                  "name": "ທາດຫຼວງ",
+                  "text": "Pha That Luang ist eine massive, mit Gold überzogene buddhistische Stupa, die weithin als das wichtigste Nationaldenkmal von Laos gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.636487,
+                        17.976665
+                  ]
+            },
+            {
+                  "name": "ອານຸສາວະລີ ນັກຮົບນີລະນາມ",
+                  "text": "Dieses markante Denkmal aus Beton ehrt als Gedenkstätte die Ereignisse der laotischen Revolution.",
+                  "category": "historical",
+                  "coords": [
+                        102.631957,
+                        17.977165
+                  ]
+            },
+            {
+                  "name": "Lao People's Army History Museum",
+                  "text": "Dieses Militärmuseum zeigt eine Reihe von Waffen aus der Sowjetzeit und Ausstellungen zur Geschichte der laotischen Streitkräfte.",
+                  "category": "museum",
+                  "coords": [
+                        102.63054,
+                        17.982644
+                  ]
+            },
+            {
+                  "name": "Ocean Park",
+                  "text": "Ein lebhafter Wasserpark im Freien mit kurvenreichen Rutschen und einem großen Wellenbad für die Erholung der Familie.",
+                  "category": "recreational",
+                  "coords": [
+                        102.645978,
+                        17.959788
+                  ]
+            },
+            {
+                  "name": "ITECC Zoo",
+                  "text": "Dieser kleine Zoo in der Nähe des Ausstellungszentrums beherbergt verschiedene regionale Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        102.64752,
+                        17.960046
+                  ]
+            },
+            {
+                  "name": "Wat Phonphanao",
+                  "text": "Ein ruhiger buddhistischer Tempelkomplex, der sich durch seine verzierten goldenen Stupas und stillen Meditationshöfe auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.638594,
+                        17.991171
+                  ]
+            },
+            {
+                  "name": "Wat Pon Saath",
+                  "text": "Dieses aktive buddhistische Heiligtum verfügt über kunstvoll bemalte Fassaden und dient als spiritueller Treffpunkt für lokale Mönche.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626558,
+                        17.979614
+                  ]
+            },
+            {
+                  "name": "ໂບດ ນາໄຊ",
+                  "text": "Eine moderne christliche Kirche, die der lokalen evangelischen Gemeinde als Gotteshaus und Ort der Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634452,
+                        17.966432
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນທັນໃຕ້",
+                  "text": "Ein traditionelles buddhistisches Kloster mit geschwungenen, mehrstufigen Dächern und einer ruhigen Anlage im Schatten großer tropischer Bäume.",
+                  "category": "landmark",
+                  "coords": [
+                        102.642648,
+                        17.955419
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນທັນເໜືອ",
+                  "text": "Diese lokale buddhistische Kultstätte ist mit farbenfrohen Wandmalereien geschmückt, die Szenen aus den Jataka-Erzählungen darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.641938,
+                        17.961347
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານຊ້າງຄູ້",
+                  "text": "Eine religiöse Stätte in der Nachbarschaft, die mit ihrer traditionellen laotischen Religionsarchitektur einen ruhigen Rückzugsort bietet.",
+                  "category": "religious",
+                  "coords": [
+                        102.645485,
+                        18.02383
+                  ]
+            },
+            {
+                  "name": "ວັດ",
+                  "text": "Dieser bescheidene buddhistische Tempel dient der umliegenden Gemeinde als wichtiger Ort für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.645461,
+                        18.020981
+                  ]
+            },
+            {
+                  "name": "ວັດ ພຸທະມຸງຄຸນໂພໄຊຍາຣາມ ບ້ານ ດຸງໃຫຍ່",
+                  "text": "Ein detailreicher Tempelkomplex, der für sein lebendiges klösterliches Leben und seine kunstvollen Zeremonienhallen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        102.704527,
+                        17.982466
+                  ]
+            },
+            {
+                  "name": "ວັດ ແສງສະຫວ່າງ ອຳພາວັນ",
+                  "text": "Umgeben von üppiger Vegetation bietet dieser buddhistische Tempel wunderschön geschnitzte Holztüren und goldene Buddha-Statuen.",
+                  "category": "religious",
+                  "coords": [
+                        102.707156,
+                        17.979035
+                  ]
+            },
+            {
+                  "name": "ວັດຫ້ອງໄກ່ແກ້ວ",
+                  "text": "Ein ruhiges buddhistisches Heiligtum, das sich durch seinen reich verzierten klassischen Stupa und friedliche Klosterquartiere auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.624784,
+                        17.98453
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າພູກຳພ້າ ວົງໄຊຍະຣາມ",
+                  "text": "Diese traditionelle buddhistische Stätte bietet mit ihrer eleganten Gebetshalle und dem gepflegten Tempelgelände eine meditative Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        102.657327,
+                        17.991424
+                  ]
+            },
+            {
+                  "name": "Pha that luanh",
+                  "text": "Dieser massive, mit Gold bedeckte buddhistische Stupa gilt als das wichtigste Nationaldenkmal in Laos und dominiert die Skyline der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634013,
+                        17.984129
+                  ]
+            },
+            {
+                  "name": "Vat Sisangvone",
+                  "text": "Ein funktionierendes buddhistisches Kloster, in dem ansässige Mönche alte Gesangstraditionen inmitten fein dekorierter Schreine pflegen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.635768,
+                        17.968379
+                  ]
+            },
+            {
+                  "name": "Nonwai Temple",
+                  "text": "Ein Gotteshaus in der Nachbarschaft mit klassischen religiösen Motiven, das die Gläubigen zu den täglichen Ritualen willkommen heißt.",
+                  "category": "religious",
+                  "coords": [
+                        102.668293,
+                        17.949939
+                  ]
+            },
+            {
+                  "name": "Vat Xokkham",
+                  "text": "Dieser buddhistische Tempelkomplex bietet mit seiner traditionellen Ordinationshalle und den schattigen Innenhöfen einen friedlichen spirituellen Rückzugsort.",
+                  "category": "landmark",
+                  "coords": [
+                        102.662097,
+                        17.980181
+                  ]
+            },
+            {
+                  "name": "Tradition Market Phonsawang",
+                  "text": "Ein belebter Markt im Freien, auf dem sich täglich Einheimische treffen, um mit frischen tropischen Früchten, Gemüse und handgefertigten Waren zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        102.626453,
+                        17.999914
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດຫົວຂົວ",
+                  "text": "Dieser große öffentliche Markt ist ein pulsierender Knotenpunkt voller Stände, an denen eine vielfältige Auswahl an laotischem Streetfood und Dingen des täglichen Bedarfs verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        102.650655,
+                        17.975411
+                  ]
+            },
+            {
+                  "name": "Taladlao-ຕະຫຼາດລາວ",
+                  "text": "Ein authentischer lokaler Markt, auf dem viele Verkäufer frische regionale Produkte und traditionelle laotische Textilien anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        102.660332,
+                        18.029927
+                  ]
+            },
+            {
+                  "name": "Naxay Market",
+                  "text": "Ein lebhafter Gemeindemarkt, der für seinen frischen morgendlichen Fang, aromatische Gewürze und verzehrfertige lokale Köstlichkeiten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        102.631587,
+                        17.970062
+                  ]
+            },
+            {
+                  "name": "Night Market",
+                  "text": "Wenn der Abend hereinbricht, erwacht dieser weitläufige Markt mit beleuchteten Ständen zum Leben, die Kleidung, Souvenirs und brutzelndes Streetfood anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        102.632751,
+                        17.975146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Weopadith Swimming Pool",
+                  "text": "Ez a családbarát vízi park nagy szabadtéri úszómedencével és szabadidős csúszdákkal várja a trópusi hőség elől menekülőket.",
+                  "category": "recreational",
+                  "coords": [
+                        102.633828,
+                        18.004587
+                  ]
+            },
+            {
+                  "name": "People's Security Museum",
+                  "text": "A Népbiztonsági Múzeum a laoszi rendőrség történetét mutatja be régi járművek és történelmi egyenruhák kiállításával.",
+                  "category": "museum",
+                  "coords": [
+                        102.630659,
+                        17.979755
+                  ]
+            },
+            {
+                  "name": "ອະນຸສອນສະຖານ ປະທານ ສຸພານຸວົງ",
+                  "text": "Az egykori rezidenciáján található emlékmúzeum Laosz első elnökének személyes tárgyait és fényképeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        102.628942,
+                        17.979725
+                  ]
+            },
+            {
+                  "name": "ຫໍພິພິຕະພັນໄກສອນ",
+                  "text": "A hagyományos és szocialista építészetet ötvöző monumentális épületben található múzeum a forradalmi vezető élete előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        102.644276,
+                        18.006761
+                  ]
+            },
+            {
+                  "name": "Lao National Museum",
+                  "text": "A francia gyarmati épületben található Laoszi Nemzeti Múzeum a nemzet történetét követi nyomon a történelem előtti időktől a forradalmi küzdelmekig.",
+                  "category": "museum",
+                  "coords": [
+                        102.645267,
+                        18.007704
+                  ]
+            },
+            {
+                  "name": "ທາດຫຼວງ",
+                  "text": "A Pha That Luang egy hatalmas, arannyal borított buddhista sztúpa, amelyet széles körben Laosz legfontosabb nemzeti műemlékének tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        102.636487,
+                        17.976665
+                  ]
+            },
+            {
+                  "name": "ອານຸສາວະລີ ນັກຮົບນີລະນາມ",
+                  "text": "Ez a lenyűgöző beton emlékmű a laoszi forradalom eseményeinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        102.631957,
+                        17.977165
+                  ]
+            },
+            {
+                  "name": "Lao People's Army History Museum",
+                  "text": "A hadtörténeti múzeum szovjet kori fegyvereket és a laoszi fegyveres erők történetét bemutató kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        102.63054,
+                        17.982644
+                  ]
+            },
+            {
+                  "name": "Ocean Park",
+                  "text": "Egy nyüzsgő szabadtéri vízi park, amely kanyargós csúszdákkal és egy nagy hullámmedencével várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        102.645978,
+                        17.959788
+                  ]
+            },
+            {
+                  "name": "ITECC Zoo",
+                  "text": "A kiállítási központ közelében található kis állatkert számos regionális vadon élő állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        102.64752,
+                        17.960046
+                  ]
+            },
+            {
+                  "name": "Wat Phonphanao",
+                  "text": "Csendes buddhista templomegyüttes, amelyet díszes arany sztúpák és nyugodt meditációs udvarok jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.638594,
+                        17.991171
+                  ]
+            },
+            {
+                  "name": "Wat Pon Saath",
+                  "text": "Ez az aktív buddhista szentély bonyolultan festett homlokzatokkal rendelkezik, és a helyi szerzetesek szellemi gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626558,
+                        17.979614
+                  ]
+            },
+            {
+                  "name": "ໂບດ ນາໄຊ",
+                  "text": "Modern keresztény templom, amely az istentisztelet és a közösségi élet központja a helyi evangéliumi gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634452,
+                        17.966432
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນທັນໃຕ້",
+                  "text": "Hagyományos buddhista kolostor, melynek többemeletes, ívelt tetői és nagy trópusi fák által árnyékolt nyugodt kertje van.",
+                  "category": "landmark",
+                  "coords": [
+                        102.642648,
+                        17.955419
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນທັນເໜືອ",
+                  "text": "Ezt a helyi buddhista imahelyet a Dzsátaka-mesék jeleneteit ábrázoló, színes falfestmények díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.641938,
+                        17.961347
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານຊ້າງຄູ້",
+                  "text": "Környékbeli imahely, amely csendes menedéket nyújt a hagyományos laoszi vallási építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        102.645485,
+                        18.02383
+                  ]
+            },
+            {
+                  "name": "ວັດ",
+                  "text": "Ez a szerény buddhista templom a környező közösség fontos napi imádkozóhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.645461,
+                        18.020981
+                  ]
+            },
+            {
+                  "name": "ວັດ ພຸທະມຸງຄຸນໂພໄຊຍາຣາມ ບ້ານ ດຸງໃຫຍ່",
+                  "text": "Részletgazdag templomegyüttes, amely élénk szerzetesi életéről és díszes szertartástermeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        102.704527,
+                        17.982466
+                  ]
+            },
+            {
+                  "name": "ວັດ ແສງສະຫວ່າງ ອຳພາວັນ",
+                  "text": "A buja növényzettel körülvett buddhista templom gyönyörűen faragott faajtókkal és arany Buddha-szobrokkal büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        102.707156,
+                        17.979035
+                  ]
+            },
+            {
+                  "name": "ວັດຫ້ອງໄກ່ແກ້ວ",
+                  "text": "Csendes buddhista szentély, amelyet gazdagon díszített klasszikus sztúpája és békés szerzetesi negyede jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        102.624784,
+                        17.98453
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າພູກຳພ້າ ວົງໄຊຍະຣາມ",
+                  "text": "Ez a hagyományos buddhista hely meditatív környezetet kínál elegáns imatermével és gondozott templomkertjével.",
+                  "category": "landmark",
+                  "coords": [
+                        102.657327,
+                        17.991424
+                  ]
+            },
+            {
+                  "name": "Pha that luanh",
+                  "text": "A Laosz legfontosabb nemzeti műemlékének tartott, hatalmas aranyborítású buddhista sztúpa uralja a város látképét.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634013,
+                        17.984129
+                  ]
+            },
+            {
+                  "name": "Vat Sisangvone",
+                  "text": "Működő buddhista kolostor, ahol a helyi szerzetesek a finoman díszített szentélyek között ápolják az ősi kántálási hagyományokat.",
+                  "category": "landmark",
+                  "coords": [
+                        102.635768,
+                        17.968379
+                  ]
+            },
+            {
+                  "name": "Nonwai Temple",
+                  "text": "Környékbeli imahely klasszikus vallási motívumokkal, amely napi rituálékra várja a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        102.668293,
+                        17.949939
+                  ]
+            },
+            {
+                  "name": "Vat Xokkham",
+                  "text": "Ez a buddhista templomegyüttes békés szellemi menedéket nyújt hagyományos felszentelési csarnokával és árnyékos udvaraival.",
+                  "category": "landmark",
+                  "coords": [
+                        102.662097,
+                        17.980181
+                  ]
+            },
+            {
+                  "name": "Tradition Market Phonsawang",
+                  "text": "Nyüzsgő szabadtéri piac, ahol a helyiek naponta gyűlnek össze, hogy friss trópusi gyümölcsöket, zöldségeket és kézműves termékeket cseréljenek.",
+                  "category": "cultural",
+                  "coords": [
+                        102.626453,
+                        17.999914
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດຫົວຂົວ",
+                  "text": "Ez a nagy nyilvános piac egy nyüzsgő központ, tele olyan standokkal, amelyek különféle laoszi utcai ételeket és mindennapi szükségleti cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        102.650655,
+                        17.975411
+                  ]
+            },
+            {
+                  "name": "Taladlao-ຕະຫຼາດລາວ",
+                  "text": "Autentikus helyi piac, ahol az árusok friss regionális termékeket és hagyományos laoszi textíliákat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        102.660332,
+                        18.029927
+                  ]
+            },
+            {
+                  "name": "Naxay Market",
+                  "text": "Élénk közösségi piac, amely friss reggeli fogásairól, aromás fűszereiről és fogyasztásra kész helyi finomságairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        102.631587,
+                        17.970062
+                  ]
+            },
+            {
+                  "name": "Night Market",
+                  "text": "Ahogy leszáll az est, ez a kiterjedt piac életre kel a kivilágított standokkal, amelyek ruházatot, ajándéktárgyakat és sercegő utcai ételeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        102.632751,
+                        17.975146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Weopadith Swimming Pool",
+                  "text": "Acest parc acvatic destinat familiilor oferă o piscină mare în aer liber și tobogane de agrement pentru a scăpa de căldura tropicală.",
+                  "category": "recreational",
+                  "coords": [
+                        102.633828,
+                        18.004587
+                  ]
+            },
+            {
+                  "name": "People's Security Museum",
+                  "text": "Muzeul Securității Poporului prezintă istoria forțelor de poliție din Laos cu exponate de vehicule de epocă și uniforme istorice.",
+                  "category": "museum",
+                  "coords": [
+                        102.630659,
+                        17.979755
+                  ]
+            },
+            {
+                  "name": "ອະນຸສອນສະຖານ ປະທານ ສຸພານຸວົງ",
+                  "text": "Situat în fosta sa reședință, acest muzeu memorial păstrează artefactele personale și fotografiile primului președinte al Laosului.",
+                  "category": "museum",
+                  "coords": [
+                        102.628942,
+                        17.979725
+                  ]
+            },
+            {
+                  "name": "ຫໍພິພິຕະພັນໄກສອນ",
+                  "text": "Găzduit într-o clădire monumentală care îmbină arhitectura tradițională și cea socialistă, acest muzeu onorează viața liderului revoluționar.",
+                  "category": "museum",
+                  "coords": [
+                        102.644276,
+                        18.006761
+                  ]
+            },
+            {
+                  "name": "Lao National Museum",
+                  "text": "Situat într-o clădire colonială franceză, Muzeul Național Lao urmărește istoria națiunii de la preistorie până la lupta revoluționară.",
+                  "category": "museum",
+                  "coords": [
+                        102.645267,
+                        18.007704
+                  ]
+            },
+            {
+                  "name": "ທາດຫຼວງ",
+                  "text": "Pha That Luang este o stupă budistă masivă, acoperită cu aur, considerată pe scară largă drept cel mai important monument național din Laos.",
+                  "category": "landmark",
+                  "coords": [
+                        102.636487,
+                        17.976665
+                  ]
+            },
+            {
+                  "name": "ອານຸສາວະລີ ນັກຮົບນີລະນາມ",
+                  "text": "Acest monument impresionant de beton onorează evenimentele revoluției din Laos.",
+                  "category": "historical",
+                  "coords": [
+                        102.631957,
+                        17.977165
+                  ]
+            },
+            {
+                  "name": "Lao People's Army History Museum",
+                  "text": "Acest muzeu militar expune o gamă de armament din era sovietică și expoziții despre istoria forțelor armate laoțiene.",
+                  "category": "museum",
+                  "coords": [
+                        102.63054,
+                        17.982644
+                  ]
+            },
+            {
+                  "name": "Ocean Park",
+                  "text": "Un parc acvatic vibrant în aer liber, cu tobogane șerpuitoare și o piscină mare cu valuri pentru recreere în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        102.645978,
+                        17.959788
+                  ]
+            },
+            {
+                  "name": "ITECC Zoo",
+                  "text": "Situat lângă centrul expozițional, acest mic parc zoologic găzduiește o varietate de specii de animale sălbatice regionale.",
+                  "category": "recreational",
+                  "coords": [
+                        102.64752,
+                        17.960046
+                  ]
+            },
+            {
+                  "name": "Wat Phonphanao",
+                  "text": "Un complex de temple budiste senin, caracterizat prin stupele sale aurii ornamentate și curțile liniștite de meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        102.638594,
+                        17.991171
+                  ]
+            },
+            {
+                  "name": "Wat Pon Saath",
+                  "text": "Acest sanctuar budist activ are fațade pictate cu complexitate și servește ca loc de adunare spirituală pentru călugării locali.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626558,
+                        17.979614
+                  ]
+            },
+            {
+                  "name": "ໂບດ ນາໄຊ",
+                  "text": "O biserică creștină modernă care oferă un loc de închinare și comuniune pentru congregația evanghelică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634452,
+                        17.966432
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນທັນໃຕ້",
+                  "text": "O mănăstire budistă tradițională, cu acoperișuri curbate pe mai multe niveluri și terenuri liniștite umbrite de copaci tropicali mari.",
+                  "category": "landmark",
+                  "coords": [
+                        102.642648,
+                        17.955419
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນທັນເໜືອ",
+                  "text": "Acest loc de cult budist local este împodobit cu picturi murale colorate care înfățișează scene din poveștile Jataka.",
+                  "category": "landmark",
+                  "coords": [
+                        102.641938,
+                        17.961347
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານຊ້າງຄູ້",
+                  "text": "Un loc de cult de cartier, oferind un refugiu liniștit cu arhitectura sa religioasă tradițională din Laos.",
+                  "category": "religious",
+                  "coords": [
+                        102.645485,
+                        18.02383
+                  ]
+            },
+            {
+                  "name": "ວັດ",
+                  "text": "Acest templu budist modest funcționează ca un loc esențial de rugăciune zilnică pentru comunitatea din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        102.645461,
+                        18.020981
+                  ]
+            },
+            {
+                  "name": "ວັດ ພຸທະມຸງຄຸນໂພໄຊຍາຣາມ ບ້ານ ດຸງໃຫຍ່",
+                  "text": "Un complex detaliat de temple cunoscut pentru viața sa monahală vibrantă și sălile de ceremonii ornamentate.",
+                  "category": "religious",
+                  "coords": [
+                        102.704527,
+                        17.982466
+                  ]
+            },
+            {
+                  "name": "ວັດ ແສງສະຫວ່າງ ອຳພາວັນ",
+                  "text": "Înconjurat de vegetație luxuriantă, acest templu budist are uși de lemn frumos sculptate și statui de aur ale lui Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        102.707156,
+                        17.979035
+                  ]
+            },
+            {
+                  "name": "ວັດຫ້ອງໄກ່ແກ້ວ",
+                  "text": "Un sanctuar budist senin, marcat de stupa sa clasică bogat decorată și de cartierele monahale pașnice.",
+                  "category": "landmark",
+                  "coords": [
+                        102.624784,
+                        17.98453
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າພູກຳພ້າ ວົງໄຊຍະຣາມ",
+                  "text": "Acest sit budist tradițional oferă un mediu meditativ cu sala sa elegantă de rugăciune și terenurile de templu îngrijite.",
+                  "category": "landmark",
+                  "coords": [
+                        102.657327,
+                        17.991424
+                  ]
+            },
+            {
+                  "name": "Pha that luanh",
+                  "text": "Considerată cel mai important monument național din Laos, această masivă stupă budistă acoperită cu aur domină orizontul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634013,
+                        17.984129
+                  ]
+            },
+            {
+                  "name": "Vat Sisangvone",
+                  "text": "O mănăstire budistă funcțională, unde călugării rezidenți mențin tradițiile străvechi de incantație printre altare fin decorate.",
+                  "category": "landmark",
+                  "coords": [
+                        102.635768,
+                        17.968379
+                  ]
+            },
+            {
+                  "name": "Nonwai Temple",
+                  "text": "Un loc de cult de cartier cu motive religioase clasice, care întâmpină devotații pentru ritualurile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        102.668293,
+                        17.949939
+                  ]
+            },
+            {
+                  "name": "Vat Xokkham",
+                  "text": "Acest complex de temple budiste oferă un refugiu spiritual liniștit cu sala sa tradițională de hirotonire și curțile umbrite.",
+                  "category": "landmark",
+                  "coords": [
+                        102.662097,
+                        17.980181
+                  ]
+            },
+            {
+                  "name": "Tradition Market Phonsawang",
+                  "text": "O piață aglomerată în aer liber, unde localnicii se adună zilnic pentru a face negoț cu fructe tropicale proaspete, legume și produse făcute manual.",
+                  "category": "cultural",
+                  "coords": [
+                        102.626453,
+                        17.999914
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດຫົວຂົວ",
+                  "text": "Această piață publică mare este un centru vibrant plin de tarabe care vând o gamă diversă de mâncare stradală laoțiană și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        102.650655,
+                        17.975411
+                  ]
+            },
+            {
+                  "name": "Taladlao-ຕະຫຼາດລາວ",
+                  "text": "O piață locală autentică, plină de vânzători care expun produse regionale proaspete și textile tradiționale din Laos.",
+                  "category": "cultural",
+                  "coords": [
+                        102.660332,
+                        18.029927
+                  ]
+            },
+            {
+                  "name": "Naxay Market",
+                  "text": "O piață comunitară plină de viață, cunoscută pentru captura proaspătă de dimineață, condimentele aromate și delicatesele locale gata de consum.",
+                  "category": "cultural",
+                  "coords": [
+                        102.631587,
+                        17.970062
+                  ]
+            },
+            {
+                  "name": "Night Market",
+                  "text": "Odată cu lăsarea serii, această piață extinsă prinde viață cu tarabe luminate care oferă îmbrăcăminte, suveniruri și mâncare stradală sfârâitoare.",
+                  "category": "cultural",
+                  "coords": [
+                        102.632751,
+                        17.975146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weopadith Swimming Pool",
+                  "text": "This family-oriented water park offers a large outdoor swimming pool and recreational slides to escape the tropical heat.",
+                  "category": "recreational",
+                  "coords": [
+                        102.633828,
+                        18.004587
+                  ]
+            },
+            {
+                  "name": "People's Security Museum",
+                  "text": "The People's Security Museum chronicles the history of the Lao police force with displays of vintage vehicles and historic uniforms.",
+                  "category": "museum",
+                  "coords": [
+                        102.630659,
+                        17.979755
+                  ]
+            },
+            {
+                  "name": "Memorial of President Souphanouvong",
+                  "text": "Situated in his former residence, this memorial museum preserves the personal artifacts and photographs of Laos's first president.",
+                  "category": "museum",
+                  "coords": [
+                        102.628942,
+                        17.979725
+                  ]
+            },
+            {
+                  "name": "Kaysone Phomvihane  Museum",
+                  "text": "Housed in a monumental building blending traditional and socialist architecture, this museum honours the life of the revolutionary leader.",
+                  "category": "museum",
+                  "coords": [
+                        102.644276,
+                        18.006761
+                  ]
+            },
+            {
+                  "name": "Lao National Museum",
+                  "text": "Located in a French colonial building, the Lao National Museum traces the nation's history from prehistoric times through the revolutionary struggle.",
+                  "category": "museum",
+                  "coords": [
+                        102.645267,
+                        18.007704
+                  ]
+            },
+            {
+                  "name": "That Luang",
+                  "text": "Pha That Luang is a massive gold-covered Buddhist stupa widely regarded as the most important national monument in Laos.",
+                  "category": "landmark",
+                  "coords": [
+                        102.636487,
+                        17.976665
+                  ]
+            },
+            {
+                  "name": "Revolution Monument",
+                  "text": "This striking monument stands as a stark concrete memorial honoring the events of the Laotian revolution.",
+                  "category": "historical",
+                  "coords": [
+                        102.631957,
+                        17.977165
+                  ]
+            },
+            {
+                  "name": "Lao People's Army History Museum",
+                  "text": "This military museum displays an array of Soviet-era weaponry and exhibits detailing the history of the Lao armed forces.",
+                  "category": "museum",
+                  "coords": [
+                        102.63054,
+                        17.982644
+                  ]
+            },
+            {
+                  "name": "Ocean Park",
+                  "text": "A vibrant outdoor water park featuring winding slides and a large wave pool for family recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        102.645978,
+                        17.959788
+                  ]
+            },
+            {
+                  "name": "ITECC Zoo",
+                  "text": "Located near the exhibition center, this small zoological park houses a variety of regional wildlife species.",
+                  "category": "recreational",
+                  "coords": [
+                        102.64752,
+                        17.960046
+                  ]
+            },
+            {
+                  "name": "Wat Phonphanao",
+                  "text": "A serene Buddhist temple complex characterized by its ornate golden stupas and quiet meditation courtyards.",
+                  "category": "landmark",
+                  "coords": [
+                        102.638594,
+                        17.991171
+                  ]
+            },
+            {
+                  "name": "Wat Pon Saath",
+                  "text": "This active Buddhist sanctuary features intricately painted facades and serves as a spiritual gathering place for local monks.",
+                  "category": "landmark",
+                  "coords": [
+                        102.626558,
+                        17.979614
+                  ]
+            },
+            {
+                  "name": "Nassai Evangelical Church",
+                  "text": "A modern Christian church providing a place of worship and community fellowship for the local Evangelical congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634452,
+                        17.966432
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນທັນໃຕ້",
+                  "text": "A traditional Buddhist monastery featuring sweeping multi-tiered roofs and tranquil grounds shaded by large tropical trees.",
+                  "category": "landmark",
+                  "coords": [
+                        102.642648,
+                        17.955419
+                  ]
+            },
+            {
+                  "name": "Wat Phonthan Neua",
+                  "text": "This local Buddhist worship site is adorned with colorful murals depicting scenes from the Jataka tales.",
+                  "category": "landmark",
+                  "coords": [
+                        102.641938,
+                        17.961347
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານຊ້າງຄູ້",
+                  "text": "A neighborhood place of worship offering a quiet retreat with its traditional Lao religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        102.645485,
+                        18.02383
+                  ]
+            },
+            {
+                  "name": "ວັດ",
+                  "text": "This modest Buddhist temple functions as an essential daily prayer site for the surrounding community.",
+                  "category": "landmark",
+                  "coords": [
+                        102.645461,
+                        18.020981
+                  ]
+            },
+            {
+                  "name": "Vat Phouthamoungkhoun Phôxaignaram Ban Doung Gnai",
+                  "text": "A detailed temple complex known for its vibrant monastic life and ornate ceremonial halls.",
+                  "category": "religious",
+                  "coords": [
+                        102.704527,
+                        17.982466
+                  ]
+            },
+            {
+                  "name": "Wat Sèngsavang Amphavan",
+                  "text": "Surrounded by lush vegetation, this Buddhist temple features beautifully carved wooden doors and golden Buddha statues.",
+                  "category": "religious",
+                  "coords": [
+                        102.707156,
+                        17.979035
+                  ]
+            },
+            {
+                  "name": "Wat hongkaikeo",
+                  "text": "A serene Buddhist sanctuary marked by its highly decorated classical stupa and peaceful monastic quarters.",
+                  "category": "landmark",
+                  "coords": [
+                        102.624784,
+                        17.98453
+                  ]
+            },
+            {
+                  "name": "Wat Paphoukampha Vôngxaignaram",
+                  "text": "This traditional Buddhist site offers a meditative environment with its elegant prayer hall and manicured temple grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        102.657327,
+                        17.991424
+                  ]
+            },
+            {
+                  "name": "Pha that luanh",
+                  "text": "Considered the most important national monument in Laos, this massive gold-covered Buddhist stupa dominates the city skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        102.634013,
+                        17.984129
+                  ]
+            },
+            {
+                  "name": "Vat Sisangvone",
+                  "text": "A functioning Buddhist monastery where resident monks maintain ancient chanting traditions amidst finely decorated shrines.",
+                  "category": "landmark",
+                  "coords": [
+                        102.635768,
+                        17.968379
+                  ]
+            },
+            {
+                  "name": "Nonwai Temple",
+                  "text": "A neighborhood place of worship featuring classic religious motifs that welcome devotees for daily rituals.",
+                  "category": "religious",
+                  "coords": [
+                        102.668293,
+                        17.949939
+                  ]
+            },
+            {
+                  "name": "Vat Xokkham",
+                  "text": "This Buddhist temple compound provides a peaceful spiritual refuge with its traditional ordination hall and shaded courtyards.",
+                  "category": "landmark",
+                  "coords": [
+                        102.662097,
+                        17.980181
+                  ]
+            },
+            {
+                  "name": "Tradition Market Phonsawang",
+                  "text": "A bustling outdoor marketplace where locals gather daily to trade fresh tropical fruits, vegetables, and handmade goods.",
+                  "category": "cultural",
+                  "coords": [
+                        102.626453,
+                        17.999914
+                  ]
+            },
+            {
+                  "name": "Houakhoua Public Market",
+                  "text": "This large public market is a vibrant hub filled with stalls selling a diverse array of Laotian street food and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        102.650655,
+                        17.975411
+                  ]
+            },
+            {
+                  "name": "Taladlao-ຕະຫຼາດລາວ",
+                  "text": "An authentic local market teeming with vendors displaying fresh regional produce and traditional Lao textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        102.660332,
+                        18.029927
+                  ]
+            },
+            {
+                  "name": "Naxay Market",
+                  "text": "A lively community marketplace known for its fresh morning catch, aromatic spices, and ready-to-eat local delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        102.631587,
+                        17.970062
+                  ]
+            },
+            {
+                  "name": "Night Market",
+                  "text": "As evening falls, this sprawling market comes alive with illuminated stalls offering clothing, souvenirs, and sizzling street food.",
+                  "category": "cultural",
+                  "coords": [
+                        102.632751,
+                        17.975146
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-VT",
     coords: [102.6366, 17.9767],
@@ -71,7 +1160,700 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
     {
-    id: "wat-xieng-thong-landmarks-v2",
+    id: "wat-xieng-thong-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tak Bat (Main Street)",
+                  "text": "Die spirituelle morgendliche Tradition, bei der safrangelb gekleidete Mönche schweigend Speisenopfer entgegennehmen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141546,
+                        19.895133
+                  ]
+            },
+            {
+                  "name": "Luang prabang international opera house",
+                  "text": "Eine Kulturstätte, die der Bewahrung traditioneller laotischer Künste wie klassischem Tanz und Musik gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        102.146574,
+                        19.891764
+                  ]
+            },
+            {
+                  "name": "Mekong sunset view",
+                  "text": "Ein beliebter Ort am Flussufer, um zu beobachten, wie die Sonne hinter den Bergen am Mekong untergeht.",
+                  "category": "natural",
+                  "coords": [
+                        102.144983,
+                        19.89919
+                  ]
+            },
+            {
+                  "name": "ທອງພຸດ",
+                  "text": "Eine markante vergoldete Buddha-Statue, die als Wahrzeichen für Frieden und Meditation dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.140105,
+                        19.901245
+                  ]
+            },
+            {
+                  "name": "Garavek Traditional Storytelling Theater",
+                  "text": "Ein intimes Theater, in dem alte laotische Legenden durch Erzählkunst und traditionelle Musik vermittelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        102.141331,
+                        19.896338
+                  ]
+            },
+            {
+                  "name": "ວັດຊຽງທອງ",
+                  "text": "Ein königlicher Tempel aus dem 16. Jahrhundert, berühmt für seine tief geschwungenen Dächer und das Lebensbaum-Mosaik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.143165,
+                        19.897474
+                  ]
+            },
+            {
+                  "name": "Wat Hadsiao",
+                  "text": "Ein traditionelles buddhistisches Kloster am Flussufer mit kunstvollen Holzschnitzereien und Wandmalereien.",
+                  "category": "landmark",
+                  "coords": [
+                        102.147195,
+                        19.906675
+                  ]
+            },
+            {
+                  "name": "ວັດຊ່າງຄ້ອງ",
+                  "text": "Ein Tempel in einem Dorf, das für seine traditionelle Herstellung von Sa-Papier und Seide bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.152572,
+                        19.901555
+                  ]
+            },
+            {
+                  "name": "Wat Nongxayhkounsavang",
+                  "text": "Ein lokaler buddhistischer Tempel, der mit farbenfrohen Wandbildern und traditionellen laotischen Motiven geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.154442,
+                        19.903106
+                  ]
+            },
+            {
+                  "name": "Wat Khokphap",
+                  "text": "Ein ruhiger Gemeindetempel, der für seinen klassischen Luang-Prabang-Stil und seinen friedlichen Garten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.153079,
+                        19.91042
+                  ]
+            },
+            {
+                  "name": "Wat Nong Sa Keo",
+                  "text": "Ein bescheidenes buddhistisches Kloster in einer ruhigen Gasse mit traditionellen gestuften Dächern.",
+                  "category": "landmark",
+                  "coords": [
+                        102.148518,
+                        19.91091
+                  ]
+            },
+            {
+                  "name": "Wat Kiu Nor Intharam",
+                  "text": "Ein kleiner buddhistischer Komplex, der der Nachbarschaft mit seiner schlichten, aber eleganten Gebetshalle dient.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141124,
+                        19.906234
+                  ]
+            },
+            {
+                  "name": "ຖ້ຳ Sak Kalin ວັດ",
+                  "text": "Eine buddhistische Tempelanlage, die mit einer heiligen Höhle verbunden ist, die einst für königliche Meditationen genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141948,
+                        19.902608
+                  ]
+            },
+            {
+                  "name": "Wat Sirimoungkhoun Sayaram",
+                  "text": "Ein buddhistischer Tempel mit kunstvollen Giebeln und einem Hof, in dem Mönche tägliche Rituale vollziehen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.142648,
+                        19.896113
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າຄາ ໄຊຍາຣາມ",
+                  "text": "Ein friedlicher buddhistischer Tempel am Fluss, der sich durch schlichte, weiße Wände und Goldschmuck auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.144429,
+                        19.893491
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນສະອາດ ພັດທິຍະມຸງຄຸນ",
+                  "text": "Ein Nachbarschaftstempel mit lebendigen Buddha-Statuen und traditioneller religiöser Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        102.146398,
+                        19.896002
+                  ]
+            },
+            {
+                  "name": "Wat Pak Khan Khammungkhun",
+                  "text": "Am Zusammenfluss von Nam Khan und Mekong gelegen, bietet es eine ruhige Atmosphäre für Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        102.144704,
+                        19.897151
+                  ]
+            },
+            {
+                  "name": "ວັດສຸວັນນະຄີຣີ",
+                  "text": "Ein einzigartiger buddhistischer Tempel, der laotische Architektur mit französischen Kolonialelementen verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.143719,
+                        19.89637
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດນ້ອຍໂຄມຂວາງ",
+                  "text": "Ein kleiner, lebhafter Markt, auf dem Verkäufer frische tropische Früchte und traditionelle Snacks anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        102.156113,
+                        19.904348
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tak Bat (Main Street)",
+                  "text": "Spirituális reggeli hagyomány, amelynek során sáfrányszínű ruhás szerzetesek néma csendben gyűjtik az ételadományokat.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141546,
+                        19.895133
+                  ]
+            },
+            {
+                  "name": "Luang prabang international opera house",
+                  "text": "Kulturális helyszín, amely a hagyományos laoszi előadóművészetek, köztük a klasszikus tánc és zene megőrzésének szentelt.",
+                  "category": "cultural",
+                  "coords": [
+                        102.146574,
+                        19.891764
+                  ]
+            },
+            {
+                  "name": "Mekong sunset view",
+                  "text": "Népszerű folyóparti hely, ahonnan megcsodálhatjuk a Mekong túloldalán a hegyek mögött lebukó napot.",
+                  "category": "natural",
+                  "coords": [
+                        102.144983,
+                        19.89919
+                  ]
+            },
+            {
+                  "name": "ທອງພຸດ",
+                  "text": "Jellegzetes aranyozott Buddha-szobor, amely a béke és a meditáció jelképeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.140105,
+                        19.901245
+                  ]
+            },
+            {
+                  "name": "Garavek Traditional Storytelling Theater",
+                  "text": "Meghitt színház, ahol ősi laoszi legendákat ismerhetünk meg történetmesélésen és hagyományos zenén keresztül.",
+                  "category": "cultural",
+                  "coords": [
+                        102.141331,
+                        19.896338
+                  ]
+            },
+            {
+                  "name": "ວັດຊຽງທອງ",
+                  "text": "16. századi királyi templom, amely alacsonyan hajló tetőiről és a bonyolult „Élet fája” mozaikról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        102.143165,
+                        19.897474
+                  ]
+            },
+            {
+                  "name": "Wat Hadsiao",
+                  "text": "Hagyományos buddhista kolostor a folyópart közelében, díszes fafaragásokkal és falfestményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        102.147195,
+                        19.906675
+                  ]
+            },
+            {
+                  "name": "ວັດຊ່າງຄ້ອງ",
+                  "text": "Egy falu temploma, amely a hagyományos szá-papír és selyem gyártásáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        102.152572,
+                        19.901555
+                  ]
+            },
+            {
+                  "name": "Wat Nongxayhkounsavang",
+                  "text": "Helyi buddhista templom színes vallási falfestményekkel és hagyományos laoszi építészeti motívumokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        102.154442,
+                        19.903106
+                  ]
+            },
+            {
+                  "name": "Wat Khokphap",
+                  "text": "Nyugodt közösségi templom, amely klasszikus Luang Prabang-i stílusáról és békés kertjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.153079,
+                        19.91042
+                  ]
+            },
+            {
+                  "name": "Wat Nong Sa Keo",
+                  "text": "Szerény buddhista kolostor egy csendes sikátorban, hagyományos, lépcsőzetes tetőkkel.",
+                  "category": "landmark",
+                  "coords": [
+                        102.148518,
+                        19.91091
+                  ]
+            },
+            {
+                  "name": "Wat Kiu Nor Intharam",
+                  "text": "Kis buddhista épületegyüttes, amely egyszerű, mégis elegáns imacsarnokával szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141124,
+                        19.906234
+                  ]
+            },
+            {
+                  "name": "ຖ້ຳ Sak Kalin ວັດ",
+                  "text": "Buddhista templomhelyszín, amely egy szent barlanghoz kapcsolódik, melyet régen királyi meditációra használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141948,
+                        19.902608
+                  ]
+            },
+            {
+                  "name": "Wat Sirimoungkhoun Sayaram",
+                  "text": "Buddhista templom díszes oromfalakkal és egy udvarral, ahol a szerzetesek a napi rituálékat végzik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.142648,
+                        19.896113
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າຄາ ໄຊຍາຣາມ",
+                  "text": "Békés folyóparti buddhista templom, amelyet egyszerű, meszelt falak és arany díszítések jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.144429,
+                        19.893491
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນສະອາດ ພັດທິຍະມຸງຄຸນ",
+                  "text": "Környékbeli templom, amely élénk buddhista szobrokat és hagyományos vallási építészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        102.146398,
+                        19.896002
+                  ]
+            },
+            {
+                  "name": "Wat Pak Khan Khammungkhun",
+                  "text": "A Nam Khan és a Mekong összefolyásánál található, nyugodt légkört biztosítva az imádkozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        102.144704,
+                        19.897151
+                  ]
+            },
+            {
+                  "name": "ວັດສຸວັນນະຄີຣີ",
+                  "text": "Egyedülálló buddhista templom, amely ötvözi a hagyományos laoszi építészetet a francia gyarmati díszítőelemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        102.143719,
+                        19.89637
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດນ້ອຍໂຄມຂວາງ",
+                  "text": "Kicsi, élettel teli helyi piac, ahol trópusi gyümölcsöket és hagyományos laoszi falatokat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        102.156113,
+                        19.904348
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tak Bat (Main Street)",
+                  "text": "Tradiția spirituală de dimineață în care călugării în haine de culoarea șofranului merg în liniște pentru a primi ofrande de hrană.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141546,
+                        19.895133
+                  ]
+            },
+            {
+                  "name": "Luang prabang international opera house",
+                  "text": "Un centru cultural dedicat conservării artelor spectacolului tradiționale laoțiene, inclusiv dansul și muzica clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        102.146574,
+                        19.891764
+                  ]
+            },
+            {
+                  "name": "Mekong sunset view",
+                  "text": "Un loc popular pe malul râului pentru a privi soarele apunând în spatele munților de peste Mekong.",
+                  "category": "natural",
+                  "coords": [
+                        102.144983,
+                        19.89919
+                  ]
+            },
+            {
+                  "name": "ທອງພຸດ",
+                  "text": "O statuie aurită proeminentă a lui Buddha, care servește ca punct de reper pentru pace și meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        102.140105,
+                        19.901245
+                  ]
+            },
+            {
+                  "name": "Garavek Traditional Storytelling Theater",
+                  "text": "Un teatru intim unde legendele vechi laoțiene sunt împărtășite prin povești și muzică tradițională.",
+                  "category": "cultural",
+                  "coords": [
+                        102.141331,
+                        19.896338
+                  ]
+            },
+            {
+                  "name": "ວັດຊຽງທອງ",
+                  "text": "Un templu regal din secolul al XVI-lea, renumit pentru acoperișurile sale joase și mozaicul elaborat „Pomul Vieții”.",
+                  "category": "landmark",
+                  "coords": [
+                        102.143165,
+                        19.897474
+                  ]
+            },
+            {
+                  "name": "Wat Hadsiao",
+                  "text": "O mănăstire budistă tradițională situată lângă malul râului, cu sculpturi în lemn și picturi murale ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        102.147195,
+                        19.906675
+                  ]
+            },
+            {
+                  "name": "ວັດຊ່າງຄ້ອງ",
+                  "text": "Un templu situat într-un sat renumit pentru producția sa tradițională de hârtie Sa și mătase.",
+                  "category": "landmark",
+                  "coords": [
+                        102.152572,
+                        19.901555
+                  ]
+            },
+            {
+                  "name": "Wat Nongxayhkounsavang",
+                  "text": "Un templu budist local decorat cu picturi murale religioase colorate și motive arhitecturale tradiționale laoțiene.",
+                  "category": "landmark",
+                  "coords": [
+                        102.154442,
+                        19.903106
+                  ]
+            },
+            {
+                  "name": "Wat Khokphap",
+                  "text": "Un templu comunitar senin, cunoscut pentru stilul său clasic Luang Prabang și grădina liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        102.153079,
+                        19.91042
+                  ]
+            },
+            {
+                  "name": "Wat Nong Sa Keo",
+                  "text": "O mănăstire budistă modestă, ascunsă pe o alee liniștită, cu acoperișuri tradiționale în etaje.",
+                  "category": "landmark",
+                  "coords": [
+                        102.148518,
+                        19.91091
+                  ]
+            },
+            {
+                  "name": "Wat Kiu Nor Intharam",
+                  "text": "Un mic complex budist care deservește cartierul local prin sala sa de rugăciune simplă, dar elegantă.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141124,
+                        19.906234
+                  ]
+            },
+            {
+                  "name": "ຖ້ຳ Sak Kalin ວັດ",
+                  "text": "Un sit de templu budist asociat cu o peșteră sacră folosită istoric pentru meditația regală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141948,
+                        19.902608
+                  ]
+            },
+            {
+                  "name": "Wat Sirimoungkhoun Sayaram",
+                  "text": "Un templu budist cu frontoane ornamentate și o curte unde călugării îndeplinesc ritualuri zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        102.142648,
+                        19.896113
+                  ]
+            },
+            {
+                  "name": "ວັດປ່າຄາ ໄຊຍາຣາມ",
+                  "text": "Un templu budist liniștit de pe malul râului, caracterizat prin pereții săi simpli, albiți și decorațiunile aurii.",
+                  "category": "landmark",
+                  "coords": [
+                        102.144429,
+                        19.893491
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນສະອາດ ພັດທິຍະມຸງຄຸນ",
+                  "text": "Un templu de cartier care prezintă statui budiste vibrante și arhitectură religioasă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        102.146398,
+                        19.896002
+                  ]
+            },
+            {
+                  "name": "Wat Pak Khan Khammungkhun",
+                  "text": "Situat la confluența râurilor Nam Khan și Mekong, oferind o atmosferă calmă pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        102.144704,
+                        19.897151
+                  ]
+            },
+            {
+                  "name": "ວັດສຸວັນນະຄີຣີ",
+                  "text": "Un templu budist unic care îmbină arhitectura tradițională laoțiană cu elemente decorative coloniale franceze.",
+                  "category": "landmark",
+                  "coords": [
+                        102.143719,
+                        19.89637
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດນ້ອຍໂຄມຂວາງ",
+                  "text": "O mică piață locală vibrantă unde vânzătorii vând fructe tropicale proaspete și gustări tradiționale laoțiene.",
+                  "category": "cultural",
+                  "coords": [
+                        102.156113,
+                        19.904348
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tak Bat (Main Street)",
+                  "text": "The spiritual morning tradition where saffron-robed monks walk in silence to receive food offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141546,
+                        19.895133
+                  ]
+            },
+            {
+                  "name": "Luang prabang international opera house",
+                  "text": "A cultural venue dedicated to preserving traditional Lao performing arts, including classical dance and music.",
+                  "category": "cultural",
+                  "coords": [
+                        102.146574,
+                        19.891764
+                  ]
+            },
+            {
+                  "name": "Mekong Sunset Viewpoint",
+                  "text": "A popular riverbank spot to watch the sun dip behind the mountains across the Mekong.",
+                  "category": "natural",
+                  "coords": [
+                        102.144983,
+                        19.89919
+                  ]
+            },
+            {
+                  "name": "Golden Buddha",
+                  "text": "A prominent gilded statue of Buddha that serves as a landmark for peace and meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        102.140105,
+                        19.901245
+                  ]
+            },
+            {
+                  "name": "Garavek Traditional Storytelling Theater",
+                  "text": "An intimate theater where ancient Lao legends are shared through storytelling and traditional music.",
+                  "category": "cultural",
+                  "coords": [
+                        102.141331,
+                        19.896338
+                  ]
+            },
+            {
+                  "name": "Wat Xieng Thong",
+                  "text": "A 16th-century royal temple famous for its low-sweeping roofs and elaborate \"Tree of Life\" mosaic.",
+                  "category": "landmark",
+                  "coords": [
+                        102.143165,
+                        19.897474
+                  ]
+            },
+            {
+                  "name": "Wat Hadsiao",
+                  "text": "A traditional Buddhist monastery located near the riverbank, featuring ornate wood carvings and murals.",
+                  "category": "landmark",
+                  "coords": [
+                        102.147195,
+                        19.906675
+                  ]
+            },
+            {
+                  "name": "Wat Xangkhong",
+                  "text": "A temple situated in a village renowned for its traditional production of Sa paper and silk.",
+                  "category": "landmark",
+                  "coords": [
+                        102.152572,
+                        19.901555
+                  ]
+            },
+            {
+                  "name": "Wat Nongxayhkounsavang",
+                  "text": "A local Buddhist temple decorated with colorful religious murals and traditional Lao architectural motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        102.154442,
+                        19.903106
+                  ]
+            },
+            {
+                  "name": "Wat Khokphap",
+                  "text": "A serene community temple known for its classic Luang Prabang style and peaceful garden.",
+                  "category": "landmark",
+                  "coords": [
+                        102.153079,
+                        19.91042
+                  ]
+            },
+            {
+                  "name": "Wat Nong Sa Keo",
+                  "text": "A modest Buddhist monastery tucked away in a quiet alley, featuring traditional tiered roofs.",
+                  "category": "landmark",
+                  "coords": [
+                        102.148518,
+                        19.91091
+                  ]
+            },
+            {
+                  "name": "Wat Kiunho",
+                  "text": "A small Buddhist complex serving the local neighborhood with its simple yet elegant prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141124,
+                        19.906234
+                  ]
+            },
+            {
+                  "name": "Tham Sak Kalin Temple",
+                  "text": "A Buddhist temple site associated with a sacred cave historically used for royal meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        102.141948,
+                        19.902608
+                  ]
+            },
+            {
+                  "name": "Wat Sirimoungkhoun Sayaram",
+                  "text": "A Buddhist temple featuring ornate pediments and a courtyard where monks perform daily rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        102.142648,
+                        19.896113
+                  ]
+            },
+            {
+                  "name": "Wat Pakha Xaingaram",
+                  "text": "A peaceful riverside Buddhist temple characterized by its simple, whitewashed walls and golden trim.",
+                  "category": "landmark",
+                  "coords": [
+                        102.144429,
+                        19.893491
+                  ]
+            },
+            {
+                  "name": "Wat Phon Sa-At Phattiyamongkhoun",
+                  "text": "A neighborhood temple showcasing vibrant Buddhist statues and traditional religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        102.146398,
+                        19.896002
+                  ]
+            },
+            {
+                  "name": "Wat Pak Khan Khammungkhun",
+                  "text": "Situated at the confluence of the Nam Khan and Mekong, offering a calm atmosphere for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        102.144704,
+                        19.897151
+                  ]
+            },
+            {
+                  "name": "Wat Souvannakhiri",
+                  "text": "A unique Buddhist temple blending traditional Lao architecture with French colonial decorative elements.",
+                  "category": "landmark",
+                  "coords": [
+                        102.143719,
+                        19.89637
+                  ]
+            },
+            {
+                  "name": "ຕະຫລາດນ້ອຍໂຄມຂວາງ",
+                  "text": "A small, vibrant local market where vendors sell fresh tropical fruits and traditional Lao snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        102.156113,
+                        19.904348
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-LP",
     coords: [102.1436, 19.8972],
@@ -139,7 +1921,556 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "buddha-park-landmarks-v2",
+    id: "buddha-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nong Khai Museum",
+                  "text": "Dieses lokale Museum dokumentiert das reiche Erbe der Mekong-Region und stellt historische Artefakte, traditionelles Handwerk und kulturelle Exponate aus.",
+                  "category": "museum",
+                  "coords": [
+                        102.738916,
+                        17.879198
+                  ]
+            },
+            {
+                  "name": "Prap Ho Monument",
+                  "text": "Dieses historische Denkmal erinnert an die Soldaten, die die Region im 19. Jahrhundert gegen die Haw-Rebellionen verteidigten.",
+                  "category": "historical",
+                  "coords": [
+                        102.740566,
+                        17.879624
+                  ]
+            },
+            {
+                  "name": "Nong Khai Walking Street",
+                  "text": "Dieser lebhafte Fußgängermarkt entlang des malerischen Mekong-Ufers erwacht an den Wochenenden mit lokalen Streetfood-Ständen und traditionellem Handwerk zum Leben.",
+                  "category": "landmark",
+                  "coords": [
+                        102.743504,
+                        17.88421
+                  ]
+            },
+            {
+                  "name": "Naga statue",
+                  "text": "Diese beeindruckende Skulptur mit Blick auf den Fluss stellt die mythische Naga-Schlange dar, einen verehrten Schutzgeist des Mekong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.752801,
+                        17.887761
+                  ]
+            },
+            {
+                  "name": "ຈັດສີຣັຕດະນາຣາມ ທ່າເດື່ອ",
+                  "text": "Nahe dem Mekong-Übergang gelegen, dient dieser traditionelle buddhistische Tempel mit seiner klassisch verzierten Gebetshalle den lokalen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.746818,
+                        17.892216
+                  ]
+            },
+            {
+                  "name": "Phrathat La Nong",
+                  "text": "Dieser heilige buddhistische Stupa ist berühmt dafür, dass er ursprünglich unter den Strömungen des Mekong versunken war, bevor eine Nachbildung am Ufer errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        102.766932,
+                        17.899765
+                  ]
+            },
+            {
+                  "name": "Phra That La Nong (copy)",
+                  "text": "Dieser leuchtende Nachbau-Stupa, der am Flussufer als Ersatz für das ursprünglich versunkene Denkmal errichtet wurde, ist ein zentraler Ort für lokale buddhistische Zeremonien.",
+                  "category": "religious",
+                  "coords": [
+                        102.769003,
+                        17.899247
+                  ]
+            },
+            {
+                  "name": "ວັດໂພສີສົມພງນນາຣາມບ້ານທ່າພະເໝີງ",
+                  "text": "Diese traditionelle buddhistische Anlage dient ihrer ländlichen Gemeinde mit einer bunt bemalten Ordinationshalle inmitten schattiger Klosteranlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.780264,
+                        17.934275
+                  ]
+            },
+            {
+                  "name": "ວັດ",
+                  "text": "Dieser klassische buddhistische Tempelkomplex zeichnet sich durch sein anmutig geschwungenes, mehrstufiges Dach aus und bietet den dort lebenden Mönchen einen ruhigen Zufluchtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        102.703028,
+                        17.943482
+                  ]
+            },
+            {
+                  "name": "Wat Michai Thung",
+                  "text": "Umgeben von schützenden Mauern, beeindruckt dieser wunderschön verzierte buddhistische Tempel mit traditionellen Nagas, die die Treppen zur Haupthalle bewachen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.728247,
+                        17.877863
+                  ]
+            },
+            {
+                  "name": "ວັດ ຊົມພູວະນາຣາມ ບ. ປາຫວ້າ",
+                  "text": "Im Herzen seines Dorfes gelegen, gruppiert sich diese buddhistische Tempelanlage um einen Stupa mit goldener Spitze, an dem täglich Almosen dargebracht werden.",
+                  "category": "landmark",
+                  "coords": [
+                        102.740156,
+                        17.891294
+                  ]
+            },
+            {
+                  "name": "ວັດໂພສວາງຖີນຕ້າງ",
+                  "text": "Dieses buddhistische Kloster, das spirituelle Zentrum der Nachbarschaft, ist mit lebendigen Fresken geschmückt, die Geschichten aus dem Leben Buddhas erzählen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.757181,
+                        17.900321
+                  ]
+            },
+            {
+                  "name": "Wat Sri Kunmaung",
+                  "text": "Mit seinen unverwechselbaren architektonischen Elementen des Lanchang-Stils am Dach bewahrt dieses historische buddhistische Heiligtum tiefe kulturelle Verbindungen zu beiden Seiten des Mekong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.751299,
+                        17.88495
+                  ]
+            },
+            {
+                  "name": "Tha Sadet Market",
+                  "text": "Dieser berühmte Grenzmarkt, der in einer weitläufigen, überdachten Arkade entlang des Mekong betrieben wird, quillt über vor Textilien, Elektronik und Waren aus ganz Indochina.",
+                  "category": "cultural",
+                  "coords": [
+                        102.747516,
+                        17.885405
+                  ]
+            },
+            {
+                  "name": "Po Chai Market",
+                  "text": "Dieser lebhafte lokale Markt, der schon in den frühen Morgenstunden belebt ist, ist voll von Ständen, die frische regionale Produkte und heißes Isan-Streetfood verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        102.755821,
+                        17.884959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nong Khai Museum",
+                  "text": "A Mekong-régió gazdag örökségét bemutató helyi múzeum történelmi tárgyakat, hagyományos kézműves termékeket és kulturális kiállításokat tár a látogatók elé.",
+                  "category": "museum",
+                  "coords": [
+                        102.738916,
+                        17.879198
+                  ]
+            },
+            {
+                  "name": "Prap Ho Monument",
+                  "text": "Ez a történelmi emlékmű azoknak a katonáknak állít emléket, akik a 19. században megvédték a régiót a haw lázadásokkal szemben.",
+                  "category": "historical",
+                  "coords": [
+                        102.740566,
+                        17.879624
+                  ]
+            },
+            {
+                  "name": "Nong Khai Walking Street",
+                  "text": "A festői Mekong folyó partján húzódó, nyüzsgő sétálóutca hétvégente helyi utcai ételeket és hagyományos kézműves termékeket kínáló árusokkal telik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        102.743504,
+                        17.88421
+                  ]
+            },
+            {
+                  "name": "Naga statue",
+                  "text": "A folyóra néző lenyűgöző szobor a mitikus Naga kígyót, a Mekong nagy tiszteletnek örvendő védőszellemét ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        102.752801,
+                        17.887761
+                  ]
+            },
+            {
+                  "name": "ຈັດສີຣັຕດະນາຣາມ ທ່າເດື່ອ",
+                  "text": "A Mekong folyó átkelője közelében található hagyományos buddhista templom klasszikus díszítésű imatermével szolgálja a helyi hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        102.746818,
+                        17.892216
+                  ]
+            },
+            {
+                  "name": "Phrathat La Nong",
+                  "text": "Ez a szent buddhista sztúpa arról híres, hogy eredetileg a Mekong folyó áramlatai alá süllyedt, mielőtt a parton megépítették volna a másolatát.",
+                  "category": "religious",
+                  "coords": [
+                        102.766932,
+                        17.899765
+                  ]
+            },
+            {
+                  "name": "Phra That La Nong (copy)",
+                  "text": "Az eredeti, elsüllyedt emlékmű pótlására a folyóparton emelt csillogó sztúpamásolat a helyi buddhista szertartások központja.",
+                  "category": "religious",
+                  "coords": [
+                        102.769003,
+                        17.899247
+                  ]
+            },
+            {
+                  "name": "ວັດໂພສີສົມພງນນາຣາມບ້ານທ່າພະເໝີງ",
+                  "text": "Ez a hagyományos buddhista épületegyüttes élénk színekre festett beavatási csarnokával és árnyékos kolostorkertjével szolgálja a vidéki közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        102.780264,
+                        17.934275
+                  ]
+            },
+            {
+                  "name": "ວັດ",
+                  "text": "A kecsesen ívelt, többszintes tetőzetéről felismerhető klasszikus buddhista templomegyüttes nyugodt menedéket nyújt az itt élő szerzetesek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.703028,
+                        17.943482
+                  ]
+            },
+            {
+                  "name": "Wat Michai Thung",
+                  "text": "A védőfalakkal körülvett, gyönyörűen díszített buddhista templom fő imatermébe vezető lépcsőit hagyományos nagák őrzik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.728247,
+                        17.877863
+                  ]
+            },
+            {
+                  "name": "ວັດ ຊົມພູວະນາຣາມ ບ. ປາຫວ້າ",
+                  "text": "A falu szívében található buddhista templomegyüttes egy aranytornyú sztúpa köré épült, ahol napi alamizsnaosztást tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        102.740156,
+                        17.891294
+                  ]
+            },
+            {
+                  "name": "ວັດໂພສວາງຖີນຕ້າງ",
+                  "text": "A helyi környék spirituális életének horgonyaként szolgáló buddhista kolostort Buddha életéből vett történeteket ábrázoló élénk freskók díszítik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.757181,
+                        17.900321
+                  ]
+            },
+            {
+                  "name": "Wat Sri Kunmaung",
+                  "text": "A tetőzetében jellegzetes Lanchang építészeti elemeket felvonultató történelmi buddhista szentély mély kulturális kapcsolatokat ápol a Mekong mindkét partjával.",
+                  "category": "landmark",
+                  "coords": [
+                        102.751299,
+                        17.88495
+                  ]
+            },
+            {
+                  "name": "Tha Sadet Market",
+                  "text": "A Mekong mentén húzódó, kiterjedt fedett árkádsoron működő híres határ menti piac roskadozik a textilektől, elektronikától és a távoli Indokínából származó áruktól.",
+                  "category": "cultural",
+                  "coords": [
+                        102.747516,
+                        17.885405
+                  ]
+            },
+            {
+                  "name": "Po Chai Market",
+                  "text": "A kora reggeli óráktól kezdve nyüzsgő, élénk helyi piacon friss regionális termékeket és forró isani utcai ételeket árusító standok sorakoznak.",
+                  "category": "cultural",
+                  "coords": [
+                        102.755821,
+                        17.884959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nong Khai Museum",
+                  "text": "Documentând bogata moștenire a regiunii Mekong, acest muzeu local expune artefacte istorice, meșteșuguri tradiționale și exponate culturale.",
+                  "category": "museum",
+                  "coords": [
+                        102.738916,
+                        17.879198
+                  ]
+            },
+            {
+                  "name": "Prap Ho Monument",
+                  "text": "Acest memorial istoric comemorează soldații care au apărat regiunea împotriva rebeliunilor Haw în timpul secolului al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        102.740566,
+                        17.879624
+                  ]
+            },
+            {
+                  "name": "Nong Khai Walking Street",
+                  "text": "Situată de-a lungul pitorescului râu Mekong, această stradă pietonală vibrantă prinde viață în weekenduri cu tarabe cu mâncare stradală locală și meșteșuguri tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.743504,
+                        17.88421
+                  ]
+            },
+            {
+                  "name": "Naga statue",
+                  "text": "Având vedere spre râu, această sculptură impresionantă înfățișează legendarul șarpe Naga, un spirit păzitor venerat al Mekongului.",
+                  "category": "landmark",
+                  "coords": [
+                        102.752801,
+                        17.887761
+                  ]
+            },
+            {
+                  "name": "ຈັດສີຣັຕດະນາຣາມ ທ່າເດື່ອ",
+                  "text": "Situat în apropiere de trecerea râului Mekong, acest templu budist tradițional servește credincioșii locali cu sala sa de rugăciune ornamentată clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        102.746818,
+                        17.892216
+                  ]
+            },
+            {
+                  "name": "Phrathat La Nong",
+                  "text": "Această stupă budistă sacră este faimoasă pentru faptul că inițial a fost scufundată sub curenții râului Mekong, înainte ca o replică să fie construită pe mal.",
+                  "category": "religious",
+                  "coords": [
+                        102.766932,
+                        17.899765
+                  ]
+            },
+            {
+                  "name": "Phra That La Nong (copy)",
+                  "text": "Ridicată pe malul râului pentru a înlocui monumentul original scufundat, această replică strălucitoare a stupei este un punct central pentru ceremoniile budiste locale.",
+                  "category": "religious",
+                  "coords": [
+                        102.769003,
+                        17.899247
+                  ]
+            },
+            {
+                  "name": "ວັດໂພສີສົມພງນນາຣາມບ້ານທ່າພະເໝີງ",
+                  "text": "Acest complex budist tradițional servește comunitatea sa rurală, având o sală de hirotonire pictată în culori vii, situată în mijlocul unor terenuri mănăstirești umbrite.",
+                  "category": "landmark",
+                  "coords": [
+                        102.780264,
+                        17.934275
+                  ]
+            },
+            {
+                  "name": "ວັດ",
+                  "text": "Distins prin acoperișul său elegant cu mai multe niveluri, acest complex tradițional budist oferă un refugiu senin pentru călugării rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        102.703028,
+                        17.943482
+                  ]
+            },
+            {
+                  "name": "Wat Michai Thung",
+                  "text": "Înconjurat de ziduri de protecție, acest templu budist frumos ornamentat prezintă naga tradiționale care păzesc scările spre sala principală de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        102.728247,
+                        17.877863
+                  ]
+            },
+            {
+                  "name": "ວັດ ຊົມພູວະນາຣາມ ບ. ປາຫວ້າ",
+                  "text": "Situat în inima satului său, acest complex de temple budiste este centrat în jurul unei stupe cu turlă aurie, unde au loc ofrande zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        102.740156,
+                        17.891294
+                  ]
+            },
+            {
+                  "name": "ວັດໂພສວາງຖີນຕ້າງ",
+                  "text": "Ancorând viața spirituală a cartierului, această mănăstire budistă este împodobită cu fresce vii care înfățișează povești din viața lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        102.757181,
+                        17.900321
+                  ]
+            },
+            {
+                  "name": "Wat Sri Kunmaung",
+                  "text": "Prezentând elemente arhitecturale distincte Lanchang în linia acoperișului său, acest sanctuar budist istoric păstrează legături culturale profunde cu ambele părți ale Mekongului.",
+                  "category": "landmark",
+                  "coords": [
+                        102.751299,
+                        17.88495
+                  ]
+            },
+            {
+                  "name": "Tha Sadet Market",
+                  "text": "Funcționând într-o arcadă acoperită întinsă de-a lungul Mekongului, această faimoasă piață de frontieră abundă în textile, electronice și bunuri din toată Indochina.",
+                  "category": "cultural",
+                  "coords": [
+                        102.747516,
+                        17.885405
+                  ]
+            },
+            {
+                  "name": "Po Chai Market",
+                  "text": "Forfotind de la primele ore ale dimineții, această piață locală vibrantă este plină de tarabe care vând produse regionale proaspete și mâncare stradală fierbinte Isan.",
+                  "category": "cultural",
+                  "coords": [
+                        102.755821,
+                        17.884959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nong Khai Museum",
+                  "text": "Documenting the rich heritage of the Mekong region, this local museum displays historical artifacts, traditional crafts, and cultural exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        102.738916,
+                        17.879198
+                  ]
+            },
+            {
+                  "name": "Prap Ho Monument",
+                  "text": "This historic memorial commemorates the soldiers who defended the region against the Haw rebellions during the 19th century.",
+                  "category": "historical",
+                  "coords": [
+                        102.740566,
+                        17.879624
+                  ]
+            },
+            {
+                  "name": "Nong Khai Walking Street",
+                  "text": "Lined along the scenic Mekong River, this vibrant pedestrian street market comes alive with local street food stalls and traditional crafts on weekends.",
+                  "category": "landmark",
+                  "coords": [
+                        102.743504,
+                        17.88421
+                  ]
+            },
+            {
+                  "name": "Naga statue",
+                  "text": "Overlooking the river, this impressive sculpture depicts the mythical Naga serpent, a revered guardian spirit of the Mekong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.752801,
+                        17.887761
+                  ]
+            },
+            {
+                  "name": "ຈັດສີຣັຕດະນາຣາມ ທ່າເດື່ອ",
+                  "text": "Situated near the Mekong River crossing, this traditional Buddhist temple serves the local faithful with its classically ornamented prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        102.746818,
+                        17.892216
+                  ]
+            },
+            {
+                  "name": "Phrathat La Nong",
+                  "text": "This sacred Buddhist stupa is famous for originally being submerged under the currents of the Mekong River before a replica was built onshore.",
+                  "category": "religious",
+                  "coords": [
+                        102.766932,
+                        17.899765
+                  ]
+            },
+            {
+                  "name": "Phra That La Nong (copy)",
+                  "text": "Erected on the riverbank to replace the original sunken monument, this gleaming replica stupa is a focal point for local Buddhist ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        102.769003,
+                        17.899247
+                  ]
+            },
+            {
+                  "name": "ວັດໂພສີສົມພງນນາຣາມບ້ານທ່າພະເໝີງ",
+                  "text": "This traditional Buddhist compound serves its rural community with a brightly painted ordination hall set amidst shaded monastery grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        102.780264,
+                        17.934275
+                  ]
+            },
+            {
+                  "name": "Wat",
+                  "text": "Distinguishable by its gracefully sweeping, multi-tiered roofline, this classic Buddhist temple complex provides a serene haven for resident monks.",
+                  "category": "landmark",
+                  "coords": [
+                        102.703028,
+                        17.943482
+                  ]
+            },
+            {
+                  "name": "Wat Michai Thung",
+                  "text": "Enclosed by protective walls, this beautifully ornamented Buddhist temple features traditional nagas guarding the stairways to its main prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        102.728247,
+                        17.877863
+                  ]
+            },
+            {
+                  "name": "Wat Xômphouvanaram Ban Pava",
+                  "text": "Located in the heart of its village, this Buddhist temple compound centers around a golden-spired stupa where daily alms offerings take place.",
+                  "category": "landmark",
+                  "coords": [
+                        102.740156,
+                        17.891294
+                  ]
+            },
+            {
+                  "name": "Wat Phôsoang Thintang",
+                  "text": "Anchoring the local neighborhood's spiritual life, this Buddhist monastery is adorned with vivid frescoes depicting tales from the Buddha's life.",
+                  "category": "landmark",
+                  "coords": [
+                        102.757181,
+                        17.900321
+                  ]
+            },
+            {
+                  "name": "Wat Sri Kunmaung",
+                  "text": "Featuring distinct Lanchang architectural elements in its roofline, this historic Buddhist sanctuary preserves deep cultural ties to both sides of the Mekong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.751299,
+                        17.88495
+                  ]
+            },
+            {
+                  "name": "Tha Sadet Market",
+                  "text": "Operating in a sprawling covered arcade along the Mekong, this famous border market overflows with textiles, electronics, and goods from across Indochina.",
+                  "category": "cultural",
+                  "coords": [
+                        102.747516,
+                        17.885405
+                  ]
+            },
+            {
+                  "name": "Po Chai Market",
+                  "text": "Bustling from the early morning hours, this vibrant local marketplace is packed with stalls selling fresh regional produce and hot Isan street food.",
+                  "category": "cultural",
+                  "coords": [
+                        102.755821,
+                        17.884959
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-VT",
     coords: [102.7667, 17.9133],
@@ -207,7 +2538,124 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "vat-phou-landmarks-v2",
+    id: "vat-phou-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hong Nang Sida",
+                  "text": "Eine wichtige archäologische Stätte mit alten Khmer-Steinruinen südlich von Vat Phou.",
+                  "category": "historical",
+                  "coords": [
+                        105.814727,
+                        14.838143
+                  ]
+            },
+            {
+                  "name": "Elephant Head",
+                  "text": "Eine bemerkenswerte Attraktion mit einer natürlichen oder geschnitzten Felsformation in Form eines Elefantenkopfes in der Nähe von Vat Phou.",
+                  "category": "landmark",
+                  "coords": [
+                        105.814633,
+                        14.849981
+                  ]
+            },
+            {
+                  "name": "Buddha's Footprint",
+                  "text": "Eine heilige Attraktion in Vat Phou mit der in Stein gemeißelten Darstellung eines Fußabdrucks Buddhas.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81422,
+                        14.849048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hong Nang Sida",
+                  "text": "Fontos régészeti lelőhely ősi khmer kőromokkal Vat Phou-tól délre.",
+                  "category": "historical",
+                  "coords": [
+                        105.814727,
+                        14.838143
+                  ]
+            },
+            {
+                  "name": "Elephant Head",
+                  "text": "Figyelemre méltó látványosság, amely egy elefántfejet formázó természetes vagy faragott sziklaképződmény Vat Phou közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        105.814633,
+                        14.849981
+                  ]
+            },
+            {
+                  "name": "Buddha's Footprint",
+                  "text": "Szent látványosság Vat Phou-ban, amely Buddha lábnyomának kőbe faragott ábrázolását mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81422,
+                        14.849048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hong Nang Sida",
+                  "text": "Un sit arheologic important, cu ruine antice de piatră khmere la sud de Vat Phou.",
+                  "category": "historical",
+                  "coords": [
+                        105.814727,
+                        14.838143
+                  ]
+            },
+            {
+                  "name": "Elephant Head",
+                  "text": "O atracție notabilă care prezintă o formațiune stâncoasă naturală sau sculptată care seamănă cu capul unui elefant, lângă Vat Phou.",
+                  "category": "landmark",
+                  "coords": [
+                        105.814633,
+                        14.849981
+                  ]
+            },
+            {
+                  "name": "Buddha's Footprint",
+                  "text": "O atracție sacră la Vat Phou, prezentând o reprezentare sculptată a amprentei lui Buddha pe o stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81422,
+                        14.849048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hong Nang Sida Ruins",
+                  "text": "An important archaeological site featuring ancient Khmer stone ruins south of Vat Phou.",
+                  "category": "historical",
+                  "coords": [
+                        105.814727,
+                        14.838143
+                  ]
+            },
+            {
+                  "name": "Elephant Head",
+                  "text": "A notable attraction featuring a natural or carved rock formation resembling an elephant's head near Vat Phou.",
+                  "category": "landmark",
+                  "coords": [
+                        105.814633,
+                        14.849981
+                  ]
+            },
+            {
+                  "name": "Buddha's Footprint",
+                  "text": "A sacred attraction at Vat Phou featuring a carved depiction of Buddha's footprint on a rock.",
+                  "category": "landmark",
+                  "coords": [
+                        105.81422,
+                        14.849048
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-CH",
     coords: [105.8167, 14.8483],
@@ -343,7 +2791,124 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "haw-phra-kaew-landmarks-v2",
+    id: "haw-phra-kaew-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ວັດເກົ້າຍອດ",
+                  "text": "Dieser buddhistische Tempel liegt in der Nähe des berühmten Haw Phra Kaew und verfügt über kunstvolle Holzschnitzereien und geschwungene Dächer.",
+                  "category": "landmark",
+                  "coords": [
+                        102.614482,
+                        17.959326
+                  ]
+            },
+            {
+                  "name": "ເຈົ້າອານຸວົງ",
+                  "text": "Diese verehrte Kultstätte in der Nähe von Haw Phra Kaew erinnert an Chao Anouvong, einen wichtigen historischen Monarchen der Region.",
+                  "category": "religious",
+                  "coords": [
+                        102.608572,
+                        17.960342
+                  ]
+            },
+            {
+                  "name": "Vat Phīavat",
+                  "text": "Dieser buddhistische Tempel im historischen Bezirk Haw Phra Kaew ist dafür bekannt, eine große, markante sitzende Buddhastatue zu beherbergen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.614228,
+                        17.957862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ວັດເກົ້າຍອດ",
+                  "text": "Az ikonikus Haw Phra Kaew nevezetességek közelében található buddhista templomot bonyolult fafaragások és ívelt tetők jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.614482,
+                        17.959326
+                  ]
+            },
+            {
+                  "name": "ເຈົ້າອານຸວົງ",
+                  "text": "Ez a Haw Phra Kaew közelében található tisztelt istentiszteleti hely Chao Anouvongnak, a régió egyik fontos történelmi uralkodójának állít emléket.",
+                  "category": "religious",
+                  "coords": [
+                        102.608572,
+                        17.960342
+                  ]
+            },
+            {
+                  "name": "Vat Phīavat",
+                  "text": "A történelmi Haw Phra Kaew negyedben található buddhista templom arról nevezetes, hogy egy nagy, feltűnő ülő Buddha-szobornak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        102.614228,
+                        17.957862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ວັດເກົ້າຍອດ",
+                  "text": "Situat lângă reperele emblematice din Haw Phra Kaew, acest templu budist prezintă sculpturi complexe din lemn și acoperișuri curbate.",
+                  "category": "landmark",
+                  "coords": [
+                        102.614482,
+                        17.959326
+                  ]
+            },
+            {
+                  "name": "ເຈົ້າອານຸວົງ",
+                  "text": "Acest loc de cult venerat din apropiere de Haw Phra Kaew îl comemorează pe Chao Anouvong, un monarh istoric important al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        102.608572,
+                        17.960342
+                  ]
+            },
+            {
+                  "name": "Vat Phīavat",
+                  "text": "Situat în cartierul istoric Haw Phra Kaew, acest templu budist se remarcă prin faptul că adăpostește o statuie mare și impresionantă a lui Buddha așezat.",
+                  "category": "landmark",
+                  "coords": [
+                        102.614228,
+                        17.957862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Kaonyot",
+                  "text": "Situated near the iconic Haw Phra Kaew landmarks, this Buddhist temple features intricate wooden carvings and sweeping roofs.",
+                  "category": "landmark",
+                  "coords": [
+                        102.614482,
+                        17.959326
+                  ]
+            },
+            {
+                  "name": "ເຈົ້າອານຸວົງ",
+                  "text": "This revered place of worship near Haw Phra Kaew commemorates Chao Anouvong, an important historical monarch of the region.",
+                  "category": "religious",
+                  "coords": [
+                        102.608572,
+                        17.960342
+                  ]
+            },
+            {
+                  "name": "Wat Phiavat",
+                  "text": "Located in the historic Haw Phra Kaew district, this Buddhist temple is noted for housing a large, striking seated Buddha statue.",
+                  "category": "landmark",
+                  "coords": [
+                        102.614228,
+                        17.957862
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-VT",
     coords: [102.6111, 17.9608],
@@ -411,7 +2976,124 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "royal-palace-museum-landmarks-v2",
+    id: "royal-palace-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Royal Car Exhibition",
+                  "text": "Dieses Garagenmuseum hinter dem Hauptpalast zeigt eine faszinierende Sammlung amerikanischer Oldtimer-Luxusautos, die einst von der laotischen Königsfamilie gefahren wurden.",
+                  "category": "museum",
+                  "coords": [
+                        102.135616,
+                        19.892824
+                  ]
+            },
+            {
+                  "name": "Wat Xieng Mene Sai Ya Set Tha Ram",
+                  "text": "Diese traditionelle buddhistische Tempelanlage liegt ruhig auf der gegenüberliegenden Flussseite der Palastanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.13301,
+                        19.898088
+                  ]
+            },
+            {
+                  "name": "Wat Choum Khong",
+                  "text": "Ein ruhiger buddhistischer Tempel, der für seinen kleinen, wunderschön gepflegten Garten mit Statuen und blühender Bougainvillea bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.136778,
+                        19.893189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Car Exhibition",
+                  "text": "A főpalota mögött található garázsmúzeum az amerikai luxus veteránautók lenyűgöző gyűjteményét mutatja be, amelyeket egykor a laoszi királyi család vezetett.",
+                  "category": "museum",
+                  "coords": [
+                        102.135616,
+                        19.892824
+                  ]
+            },
+            {
+                  "name": "Wat Xieng Mene Sai Ya Set Tha Ram",
+                  "text": "Ez a hagyományos buddhista templomkomplexum csendesen fekszik a nyüzsgő palotaudvarral szemközti folyóparton.",
+                  "category": "landmark",
+                  "coords": [
+                        102.13301,
+                        19.898088
+                  ]
+            },
+            {
+                  "name": "Wat Choum Khong",
+                  "text": "Spanyol meggyel és szobrokkal díszített, gyönyörűen gondozott kis kertjéről ismert békés buddhista templom.",
+                  "category": "landmark",
+                  "coords": [
+                        102.136778,
+                        19.893189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Royal Car Exhibition",
+                  "text": "Situat în spatele palatului principal, acest muzeu de garaj expune o colecție fascinantă de mașini americane de lux de epocă, conduse odată de familia regală laoțiană.",
+                  "category": "museum",
+                  "coords": [
+                        102.135616,
+                        19.892824
+                  ]
+            },
+            {
+                  "name": "Wat Xieng Mene Sai Ya Set Tha Ram",
+                  "text": "Acest complex tradițional de temple budiste este situat liniștit peste râu de terenurile aglomerate ale palatului.",
+                  "category": "landmark",
+                  "coords": [
+                        102.13301,
+                        19.898088
+                  ]
+            },
+            {
+                  "name": "Wat Choum Khong",
+                  "text": "Un templu budist senin, remarcat pentru mica sa grădină frumos întreținută, cu statui și bougainvillea înflorite.",
+                  "category": "landmark",
+                  "coords": [
+                        102.136778,
+                        19.893189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Car Exhibition",
+                  "text": "Located behind the main palace, this garage museum exhibits a fascinating collection of vintage American luxury cars once driven by the Lao royal family.",
+                  "category": "museum",
+                  "coords": [
+                        102.135616,
+                        19.892824
+                  ]
+            },
+            {
+                  "name": "Wat Xieng Mene Sai Ya Set Tha Ram",
+                  "text": "This traditional Buddhist temple complex sits quietly across the river from the bustling palace grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        102.13301,
+                        19.898088
+                  ]
+            },
+            {
+                  "name": "Wat Choum Khong",
+                  "text": "A serene Buddhist temple noted for its small, beautifully maintained garden featuring statues and flowering bougainvillea.",
+                  "category": "landmark",
+                  "coords": [
+                        102.136778,
+                        19.893189
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-LP",
     coords: [102.1352, 19.8925],
@@ -479,7 +3161,160 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
     {
-    id: "that-sikhottabong-landmarks-v2",
+    id: "that-sikhottabong-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ທັດສະນະ",
+                  "text": "Dieser felsige Aussichtspunkt in der Nähe von Sikhottabong bietet eine wunderschöne, erhöhte Perspektive über die Stadt vom Rand einer zerklüfteten Klippe.",
+                  "category": "natural",
+                  "coords": [
+                        104.831905,
+                        17.411076
+                  ]
+            },
+            {
+                  "name": "Buddiiskii khram",
+                  "text": "Dieser Buddiiskii Khram ist eine ruhige lokale Kultstätte im Sikhottabong-Gebiet, die einen stillen Ort für spirituelle Hingabe bietet.",
+                  "category": "religious",
+                  "coords": [
+                        104.833008,
+                        17.411087
+                  ]
+            },
+            {
+                  "name": "Ban Sikhottabong",
+                  "text": "Pha That Sikhottabong ist ein majestätischer 29 Meter hoher buddhistischer Stupa, der hoch verehrt wird, da er angeblich das Schlüsselbein Buddhas beherbergen soll.",
+                  "category": "landmark",
+                  "coords": [
+                        104.80706,
+                        17.350208
+                  ]
+            },
+            {
+                  "name": "Souksomboun Market",
+                  "text": "Der Souksomboun-Markt ist ein geschäftiger Marktplatz in der Nähe der Wahrzeichen von Sikhottabong, gefüllt mit Ständen, an denen lokale Lebensmittel und Haushaltswaren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        104.828638,
+                        17.390633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ທັດສະນະ",
+                  "text": "Ez a Sikhottabong melletti sziklás kilátó egyenetlen szikla széléről kínál gyönyörű, magaslati rálátást a városra.",
+                  "category": "natural",
+                  "coords": [
+                        104.831905,
+                        17.411076
+                  ]
+            },
+            {
+                  "name": "Buddiiskii khram",
+                  "text": "Ez a Buddiiskii khram egy nyugodt helyi istentiszteleti hely Sikhottabong területén, amely csendes teret biztosít a spirituális áhítathoz.",
+                  "category": "religious",
+                  "coords": [
+                        104.833008,
+                        17.411087
+                  ]
+            },
+            {
+                  "name": "Ban Sikhottabong",
+                  "text": "A Pha That Sikhottabong egy fenséges, 29 méter magas buddhista sztúpa, amelyet azért tisztelnek, mert állítólag Buddha kulcscsontját őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        104.80706,
+                        17.350208
+                  ]
+            },
+            {
+                  "name": "Souksomboun Market",
+                  "text": "A Souksomboun piac egy nyüzsgő piactér a sikhottabongi nevezetességek közelében, tele helyi élelmiszereket és háztartási cikkeket árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        104.828638,
+                        17.390633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ທັດສະນະ",
+                  "text": "Acest punct de belvedere stâncos din apropiere de Sikhottabong oferă o perspectivă frumoasă și înaltă asupra orașului, de pe marginea unei stânci accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        104.831905,
+                        17.411076
+                  ]
+            },
+            {
+                  "name": "Buddiiskii khram",
+                  "text": "Acest Buddiiskii khram este un lăcaș de cult local și senin din zona Sikhottabong, oferind un spațiu liniștit pentru devotament spiritual.",
+                  "category": "religious",
+                  "coords": [
+                        104.833008,
+                        17.411087
+                  ]
+            },
+            {
+                  "name": "Ban Sikhottabong",
+                  "text": "Pha That Sikhottabong este o stupă budistă maiestuoasă de 29 de metri înălțime, foarte venerată pentru că s-ar presupune că adăpostește clavicula lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        104.80706,
+                        17.350208
+                  ]
+            },
+            {
+                  "name": "Souksomboun Market",
+                  "text": "Piața Souksomboun este o piață aglomerată în apropiere de atracțiile din Sikhottabong, plină de tarabe care vând alimente locale și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        104.828638,
+                        17.390633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "A beautiful view of the city from the cliff",
+                  "text": "This rocky viewpoint near Sikhottabong offers a beautiful, elevated perspective over the city from the edge of a rugged cliff.",
+                  "category": "natural",
+                  "coords": [
+                        104.831905,
+                        17.411076
+                  ]
+            },
+            {
+                  "name": "Buddiiskii khram",
+                  "text": "This Buddiiskii khram is a serene local place of worship in the Sikhottabong area, providing a quiet space for spiritual devotion.",
+                  "category": "religious",
+                  "coords": [
+                        104.833008,
+                        17.411087
+                  ]
+            },
+            {
+                  "name": "Pha That Sikhottabong",
+                  "text": "Pha That Sikhottabong is a majestic 29-metre-tall Buddhist stupa, highly venerated for supposedly housing the collarbone of Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        104.80706,
+                        17.350208
+                  ]
+            },
+            {
+                  "name": "Souksomboun Market",
+                  "text": "Souksomboun Market is a bustling marketplace near the Sikhottabong landmarks, filled with stalls selling local groceries and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        104.828638,
+                        17.390633
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-KH",
     coords: [104.8356, 17.3517],
@@ -547,7 +3382,124 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "wat-mai-suwannaphumaham-landmarks-v2",
+    id: "wat-mai-suwannaphumaham-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Friends Gallery",
+                  "text": "Ein gemütlicher Kunstraum, in dem zeitgenössische Gemälde und Fotografien lokaler laotischer Künstler gezeigt werden.",
+                  "category": "museum",
+                  "coords": [
+                        102.134547,
+                        19.887753
+                  ]
+            },
+            {
+                  "name": "Night Food Market",
+                  "text": "Eine belebte Gasse, die für ihre vegetarischen Buffets und preiswertes, authentisches laotisches Streetfood bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.133574,
+                        19.889876
+                  ]
+            },
+            {
+                  "name": "Wat Mahathat",
+                  "text": "Bekannt als „Tempel des großen Stupa“, zeichnet er sich durch sein großes goldenes Chedi und Holzschnitzereien aus.",
+                  "category": "landmark",
+                  "coords": [
+                        102.13235,
+                        19.88735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Friends Gallery",
+                  "text": "Hangulatos művészeti tér, ahol tehetséges helyi laoszi művészek kortárs festményeit és fotóit mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        102.134547,
+                        19.887753
+                  ]
+            },
+            {
+                  "name": "Night Food Market",
+                  "text": "Nyüzsgő sikátor, amely vegetáriánus büféiről és megfizethető, autentikus laoszi utcai ételeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        102.133574,
+                        19.889876
+                  ]
+            },
+            {
+                  "name": "Wat Mahathat",
+                  "text": "A „Nagy sztúpa templomaként” ismert épület nagy arany csedijéről és fafaragásairól nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        102.13235,
+                        19.88735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Friends Gallery",
+                  "text": "Un spațiu de artă primitor care expune picturi și fotografii contemporane ale unor artiști locali laoțieni talentați.",
+                  "category": "museum",
+                  "coords": [
+                        102.134547,
+                        19.887753
+                  ]
+            },
+            {
+                  "name": "Night Food Market",
+                  "text": "O alee plină de viață, celebră pentru bufetele sale vegetariene și mâncarea de stradă laoțiană autentică și accesibilă.",
+                  "category": "landmark",
+                  "coords": [
+                        102.133574,
+                        19.889876
+                  ]
+            },
+            {
+                  "name": "Wat Mahathat",
+                  "text": "Cunoscut sub numele de „Templul Marii Stupe”, acesta este remarcabil pentru marea sa chedi aurie și sculpturile în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        102.13235,
+                        19.88735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Friends Gallery",
+                  "text": "A cozy art space showcasing contemporary paintings and photographs by talented local Lao artists.",
+                  "category": "museum",
+                  "coords": [
+                        102.134547,
+                        19.887753
+                  ]
+            },
+            {
+                  "name": "Night Food Market",
+                  "text": "A bustling alleyway famous for its vegetarian buffets and affordable, authentic Lao street food.",
+                  "category": "landmark",
+                  "coords": [
+                        102.133574,
+                        19.889876
+                  ]
+            },
+            {
+                  "name": "Wat Mahathat",
+                  "text": "Known as the \"Temple of the Great Stupa,\" it is notable for its large golden chedi and wood carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        102.13235,
+                        19.88735
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-LP",
     coords: [102.1333, 19.8894],
@@ -615,7 +3567,124 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "viengxay-caves-landmarks-v2",
+    id: "viengxay-caves-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phou Nang Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen beeindruckenden Blick auf die markante Kalksteinkarstlandschaft der Provinz Houaphan.",
+                  "category": "natural",
+                  "coords": [
+                        104.228449,
+                        20.410672
+                  ]
+            },
+            {
+                  "name": "ຈຸດທາງເສຍດິນເຈື່ອນ",
+                  "text": "Ein Halt an der Bergstraße mit Blick auf die zerklüfteten Gipfel und tiefen Täler rund um Viengxay.",
+                  "category": "natural",
+                  "coords": [
+                        104.225047,
+                        20.465976
+                  ]
+            },
+            {
+                  "name": "Tanh Nok Ann Cave",
+                  "text": "Ein Höhlenkomplex im Kalkstein, der während des Indochinakrieges als Zufluchtsort und strategisches Versteck diente.",
+                  "category": "landmark",
+                  "coords": [
+                        104.184515,
+                        20.446354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phou Nang Viewpoint",
+                  "text": "Erről a kilátóhelyről lenyűgöző kilátás nyílik Houaphan tartomány jellegzetes mészkősziklás karsztvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        104.228449,
+                        20.410672
+                  ]
+            },
+            {
+                  "name": "ຈຸດທາງເສຍດິນເຈື່ອນ",
+                  "text": "Megálló a hegyi úton, ahonnan kilátás nyílik a Viengxay környéki csipkés hegycsúcsokra és mély völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        104.225047,
+                        20.465976
+                  ]
+            },
+            {
+                  "name": "Tanh Nok Ann Cave",
+                  "text": "Mészkőbarlang-rendszer, amely az indokínai háború idején óvóhelyként és stratégiai rejtekhelyként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        104.184515,
+                        20.446354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phou Nang Viewpoint",
+                  "text": "Acest punct de belvedere oferă o vedere impresionantă asupra peisajului carstic de calcar distinctiv din provincia Houaphan.",
+                  "category": "natural",
+                  "coords": [
+                        104.228449,
+                        20.410672
+                  ]
+            },
+            {
+                  "name": "ຈຸດທາງເສຍດິນເຈື່ອນ",
+                  "text": "O oprire pe drumul montan ce oferă vederi spre vârfurile accidentate și văile adânci din jurul localității Viengxay.",
+                  "category": "natural",
+                  "coords": [
+                        104.225047,
+                        20.465976
+                  ]
+            },
+            {
+                  "name": "Tanh Nok Ann Cave",
+                  "text": "Un complex de peșteri în calcar care a servit drept adăpost și ascunzătoare strategică în timpul Războiului din Indochina.",
+                  "category": "landmark",
+                  "coords": [
+                        104.184515,
+                        20.446354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phou Nang Viewpoint",
+                  "text": "This vantage point offers an impressive view of the striking limestone karst landscape of Houaphan province.",
+                  "category": "natural",
+                  "coords": [
+                        104.228449,
+                        20.410672
+                  ]
+            },
+            {
+                  "name": "Landslide Roadຈຸດ",
+                  "text": "A stop along the mountain road offering vistas of the rugged peaks and deep valleys around Viengxay.",
+                  "category": "natural",
+                  "coords": [
+                        104.225047,
+                        20.465976
+                  ]
+            },
+            {
+                  "name": "Tanh Nok Ann Cave",
+                  "text": "A limestone cave complex that served as a shelter and strategic hiding place during the Indochina War.",
+                  "category": "landmark",
+                  "coords": [
+                        104.184515,
+                        20.446354
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-HO",
     coords: [104.2250, 20.4075],
@@ -751,7 +3820,88 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "mount-phousi-landmarks-v2",
+    id: "mount-phousi-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phou Si",
+                  "text": "Heiliger Hügel im Herzen von Luang Prabang mit einer goldenen Stupa auf seinem Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        102.136945,
+                        19.890256
+                  ]
+            },
+            {
+                  "name": "Wat Pa Houak",
+                  "text": "Kleiner Tempel am Fuße des Berges Phousi mit gut erhaltenen Wandgemälden aus dem 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.135988,
+                        19.890544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phou Si Mountain",
+                  "text": "Szent domb Luangprahang szívében, amelynek csúcsán egy arany sztúpa áll.",
+                  "category": "natural",
+                  "coords": [
+                        102.136945,
+                        19.890256
+                  ]
+            },
+            {
+                  "name": "Wat Pa Houak",
+                  "text": "Kis templom a Phousi-hegy lábánál, jól megőrzött 19. századi falfestményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        102.135988,
+                        19.890544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phou Si Mountain",
+                  "text": "Deal sacru în inima orașului Luang Prabang, cu o stupă aurie în vârful său.",
+                  "category": "natural",
+                  "coords": [
+                        102.136945,
+                        19.890256
+                  ]
+            },
+            {
+                  "name": "Wat Pa Houak",
+                  "text": "Templu mic la poalele Muntelui Phousi, cu picturi murale bine conservate din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        102.135988,
+                        19.890544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phou Si Mountain",
+                  "text": "Sacred hill in the heart of Luang Prabang with a golden stupa at its summit.",
+                  "category": "natural",
+                  "coords": [
+                        102.136945,
+                        19.890256
+                  ]
+            },
+            {
+                  "name": "Wat Pa Houak",
+                  "text": "Small temple at the foot of Mount Phousi featuring well-preserved 19th-century murals.",
+                  "category": "landmark",
+                  "coords": [
+                        102.135988,
+                        19.890544
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-LP",
     coords: [102.1361, 19.8906],
@@ -819,7 +3969,52 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "kong-lor-cave-landmarks-v2",
+    id: "kong-lor-cave-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "ຖ້ຳກອງລໍ",
+                  "text": "Tham Kong Lor ist eine gewaltige, 7,5 Kilometer lange Karstkalksteinhöhle am Fluss Hinboun, die mit kleinen Booten befahrbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        104.761613,
+                        17.956091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ຖ້ຳກອງລໍ",
+                  "text": "A Tham Kong Lor egy hatalmas, 7,5 kilométer hosszú karsztos mészkőbarlang a Hinboun folyón, amely kis csónakokkal is hajózható.",
+                  "category": "landmark",
+                  "coords": [
+                        104.761613,
+                        17.956091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ຖ້ຳກອງລໍ",
+                  "text": "Tham Kong Lor este o imensă peșteră de calcar carstic lungă de 7,5 kilometri pe râul Hinboun, navigabilă cu bărci mici.",
+                  "category": "landmark",
+                  "coords": [
+                        104.761613,
+                        17.956091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tham Kong Lor",
+                  "text": "Tham Kong Lor is an immense, 7.5-kilometre-long karst limestone cave on the Hinboun River, navigable by small boats.",
+                  "category": "landmark",
+                  "coords": [
+                        104.761613,
+                        17.956091
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-KH",
     coords: [104.7578, 17.9547],
@@ -887,7 +4082,52 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "wat-visounnarath-landmarks-v2",
+    id: "wat-visounnarath-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "That Makmo",
+                  "text": "Aufgrund ihrer einzigartigen halbkugelförmigen Form als \"Wassermelonen-Stupa\" bezeichnet, ist diese Steinstruktur ein markantes Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.138762,
+                        19.887402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "That Makmo",
+                  "text": "Az egyedi félgömb alakja miatt \"Görögdinnye Sztúpa\" becenévre hallgató kőépítmény különleges tájékozódási pont.",
+                  "category": "landmark",
+                  "coords": [
+                        102.138762,
+                        19.887402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "That Makmo",
+                  "text": "Supranumită \"Stupa Pepene Verde\" datorită formei sale semisferice unice, această structură de piatră este un punct de reper distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        102.138762,
+                        19.887402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "That Makmo",
+                  "text": "Nicknamed the \"Watermelon Stupa\" due to its unique hemispherical shape, this stone structure is a distinctive landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        102.138762,
+                        19.887402
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-LP",
     coords: [102.1389, 19.8864],
@@ -955,7 +4195,556 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
   {
-    id: "cope-visitor-centre-landmarks-v2",
+    id: "cope-visitor-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "Diese lebendige kulturelle Attraktion in Vientiane beherbergt die heilige Stadtsäule, von der traditionell geglaubt wird, dass sie die Einwohner der Hauptstadt schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.615627,
+                        17.958565
+                  ]
+            },
+            {
+                  "name": "Coffee Ah'",
+                  "text": "Ein intimer Galerieraum in Vientiane, der wechselnde lokale Kunstausstellungen mit einer entspannten, modernen Kaffeehausatmosphäre verbindet.",
+                  "category": "museum",
+                  "coords": [
+                        102.631546,
+                        17.952698
+                  ]
+            },
+            {
+                  "name": "COPE Visitor Centre",
+                  "text": "Dieses fesselnde Museum in Vientiane dokumentiert die anhaltenden Auswirkungen von Blindgängern in Laos und zeigt die Versorgung von Überlebenden mit Prothesen.",
+                  "category": "museum",
+                  "coords": [
+                        102.620317,
+                        17.95795
+                  ]
+            },
+            {
+                  "name": "Vat Sīmư̄ang",
+                  "text": "Dieser hochverehrte, 1563 erbaute buddhistische Tempel in Vientiane ist berühmt dafür, die ursprüngliche Stadtsäule zu beherbergen und für seine lebhaften täglichen Segnungszeremonien.",
+                  "category": "religious",
+                  "coords": [
+                        102.617109,
+                        17.957959
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນປ່າເປົ້າ",
+                  "text": "Ein bemerkenswerter buddhistischer Tempel in Vientiane, der sich durch seine beeindruckende goldene Stupa und seine friedliche klösterliche Umgebung auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.637974,
+                        17.945976
+                  ]
+            },
+            {
+                  "name": "Vat Mahāphutthavongsā Pā Lūang",
+                  "text": "Ein weitläufiges buddhistisches Waldkloster in Vientiane, das sich strengen Meditationspraktiken in einer natürlichen, ruhigen waldreichen Umgebung widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.625876,
+                        17.945243
+                  ]
+            },
+            {
+                  "name": "Nagas Shrine",
+                  "text": "Ein heiliger Schrein in Vientiane, der den mythischen Naga-Schlangen gewidmet ist, aufwendig verziert mit Schlangenmotiven und täglichen Opfergaben.",
+                  "category": "religious",
+                  "coords": [
+                        102.616615,
+                        17.945128
+                  ]
+            },
+            {
+                  "name": "ວັດທາດກາວ",
+                  "text": "Ein traditioneller buddhistischer Tempel in Vientiane, bekannt für seinen historischen, verfallenen Ziegel-Stupa-Sockel und die ruhigen Klosterquartiere.",
+                  "category": "landmark",
+                  "coords": [
+                        102.617444,
+                        17.954427
+                  ]
+            },
+            {
+                  "name": "ວັດພະໄຊຍເສຕຖາທິຣາຊ",
+                  "text": "Ein lokaler buddhistischer Tempelkomplex in Vientiane mit lebhaften Wandmalereien religiöser Geschichten und einem Gemeindesaal für lokale Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        102.620513,
+                        17.953803
+                  ]
+            },
+            {
+                  "name": "Wat Ban Fay",
+                  "text": "Dieses buddhistische Kloster in Vientiane dient als spiritueller Anker für die umliegende Wohnanlage und veranstaltet regelmäßige Gesangssitzungen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.62078,
+                        17.963865
+                  ]
+            },
+            {
+                  "name": "Wat Dong Palane",
+                  "text": "Ein etablierter buddhistischer Tempel in Vientiane, erkennbar an seinen kunstvollen Eingangstoren und schattigen Bereichen, die für ruhige Meditation genutzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        102.622779,
+                        17.959905
+                  ]
+            },
+            {
+                  "name": "Wat Saphanthong Tai",
+                  "text": "Ein buddhistischer Tempel in einem südlichen Viertel von Vientiane, der den lokalen Gläubigen eine ruhige Umgebung und traditionelle Gebetshallen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.628548,
+                        17.949576
+                  ]
+            },
+            {
+                  "name": "ວັດ ສະພານທອງເໜືອ",
+                  "text": "Der nördliche Partnertempel im Saphanthong-Gebiet von Vientiane mit klassischen architektonischen Elementen des laotischen Buddhismus und bunten Dachziegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        102.630842,
+                        17.95529
+                  ]
+            },
+            {
+                  "name": "Wat Sala Daeng",
+                  "text": "Ein friedliches buddhistisches Heiligtum in Vientiane, bekannt für seine traditionellen rot überdachten Pavillons, in denen verehrte religiöse Statuen stehen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.623556,
+                        17.955359
+                  ]
+            },
+            {
+                  "name": "Bounkhamyong Temple",
+                  "text": "Eine engagierte buddhistische Kultstätte in Vientiane, an der sich häufig Anwohner zu gemeinsamen Gesängen und traditionellen verdienstvollen Veranstaltungen versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        102.621478,
+                        17.949696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "Ez a nyüzsgő vientiane-i kulturális látványosság ad otthont a szent várososzlopnak, amely a hagyomány szerint a főváros lakóit védi.",
+                  "category": "landmark",
+                  "coords": [
+                        102.615627,
+                        17.958565
+                  ]
+            },
+            {
+                  "name": "Coffee Ah'",
+                  "text": "Egy intim galériatér Vientiane-ban, amely a változó helyi művészeti kiállításokat nyugodt, modern kávéházi hangulattal ötvözi.",
+                  "category": "museum",
+                  "coords": [
+                        102.631546,
+                        17.952698
+                  ]
+            },
+            {
+                  "name": "COPE Visitor Centre",
+                  "text": "Ez a lenyűgöző vientiane-i múzeum a fel nem robbant ordnance laoszi folyamatos hatásait dokumentálja, és bemutatja a túlélők protézisekkel való ellátását.",
+                  "category": "museum",
+                  "coords": [
+                        102.620317,
+                        17.95795
+                  ]
+            },
+            {
+                  "name": "Vat Sīmư̄ang",
+                  "text": "Az 1563-ban épült, nagy tiszteletnek örvendő vientiane-i buddhista templom arról híres, hogy itt található az eredeti várososzlop és élénk napi áldási szertartásokat tartanak.",
+                  "category": "religious",
+                  "coords": [
+                        102.617109,
+                        17.957959
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນປ່າເປົ້າ",
+                  "text": "Egy nevezetes buddhista templom Vientiane-ban, amelyet lenyűgöző arany sztúpája és békés kolostori környezete tesz különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        102.637974,
+                        17.945976
+                  ]
+            },
+            {
+                  "name": "Vat Mahāphutthavongsā Pā Lūang",
+                  "text": "Egy kiterjedt buddhista erdei kolostor Vientiane-ban, amelyet szigorú meditációs gyakorlatoknak szenteltek természetes, nyugodt, erdős környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        102.625876,
+                        17.945243
+                  ]
+            },
+            {
+                  "name": "Nagas Shrine",
+                  "text": "A mitikus naga kígyóknak szentelt vientiane-i szentély, amelyet bonyolult kígyómotívumok és napi felajánlások díszítenek.",
+                  "category": "religious",
+                  "coords": [
+                        102.616615,
+                        17.945128
+                  ]
+            },
+            {
+                  "name": "ວັດທາດກາວ",
+                  "text": "Egy hagyományos buddhista templom Vientiane-ban, amely történelmi, romos tégla sztúpa alapjáról és nyugodt kolostori negyedéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.617444,
+                        17.954427
+                  ]
+            },
+            {
+                  "name": "ວັດພະໄຊຍເສຕຖາທິຣາຊ",
+                  "text": "Egy helyi buddhista templomkomplexum Vientiane-ban, amely vallási történeteket ábrázoló élénk falfestményeket és a helyi fesztiválokhoz közösségi termet kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.620513,
+                        17.953803
+                  ]
+            },
+            {
+                  "name": "Wat Ban Fay",
+                  "text": "Ez a vientiane-i buddhista kolostor spirituális horgonyként szolgál a környező lakóközösség számára, és rendszeres kántálásokat tart.",
+                  "category": "landmark",
+                  "coords": [
+                        102.62078,
+                        17.963865
+                  ]
+            },
+            {
+                  "name": "Wat Dong Palane",
+                  "text": "Egy elismert buddhista templom Vientiane-ban, amely felismerhető díszes bejárati kapuiról és a csendes meditációra használt árnyékos területekről.",
+                  "category": "landmark",
+                  "coords": [
+                        102.622779,
+                        17.959905
+                  ]
+            },
+            {
+                  "name": "Wat Saphanthong Tai",
+                  "text": "Egy déli negyedben található buddhista templom Vientiane-ban, amely nyugodt környezetet és hagyományos imatermeket biztosít a helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.628548,
+                        17.949576
+                  ]
+            },
+            {
+                  "name": "ວັດ ສະພານທອງເໜືອ",
+                  "text": "Az északi megfelelője a vientiane-i Saphanthong negyedben, amely klasszikus laoszi buddhista építészeti elemekkel és színes tetőcserepekkel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.630842,
+                        17.95529
+                  ]
+            },
+            {
+                  "name": "Wat Sala Daeng",
+                  "text": "Egy békés buddhista szentély Vientiane-ban, amely a hagyományos, piros tetős pavilonjairól ismert, amelyek tisztelt vallási szobroknak adnak otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        102.623556,
+                        17.955359
+                  ]
+            },
+            {
+                  "name": "Bounkhamyong Temple",
+                  "text": "Egy dedikált buddhista istentiszteleti hely Vientiane-ban, amely gyakran gyűjti össze a helyi lakosokat közös kántálásra és hagyományos érdemszerző eseményekre.",
+                  "category": "landmark",
+                  "coords": [
+                        102.621478,
+                        17.949696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "Această atracție culturală vibrantă din Vientiane găzduiește stâlpul sacru al orașului, despre care se crede în mod tradițional că protejează locuitorii capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        102.615627,
+                        17.958565
+                  ]
+            },
+            {
+                  "name": "Coffee Ah'",
+                  "text": "Un spațiu intim de galerie din Vientiane, combinând expoziții de artă locale rotative cu o atmosferă relaxată de cafenea modernă.",
+                  "category": "museum",
+                  "coords": [
+                        102.631546,
+                        17.952698
+                  ]
+            },
+            {
+                  "name": "COPE Visitor Centre",
+                  "text": "Acest muzeu captivant din Vientiane documentează impactul continuu al muniției neexplodate în Laos și prezintă furnizarea de proteze pentru supraviețuitori.",
+                  "category": "museum",
+                  "coords": [
+                        102.620317,
+                        17.95795
+                  ]
+            },
+            {
+                  "name": "Vat Sīmư̄ang",
+                  "text": "Construit în 1563, acest templu budist extrem de venerat din Vientiane este renumit pentru adăpostirea stâlpului original al orașului și pentru ceremoniile zilnice animate de binecuvântare.",
+                  "category": "religious",
+                  "coords": [
+                        102.617109,
+                        17.957959
+                  ]
+            },
+            {
+                  "name": "ວັດໂພນປ່າເປົ້າ",
+                  "text": "Un templu budist remarcabil din Vientiane, care se distinge prin stupa sa aurie impresionantă și prin mediul monahal pașnic.",
+                  "category": "landmark",
+                  "coords": [
+                        102.637974,
+                        17.945976
+                  ]
+            },
+            {
+                  "name": "Vat Mahāphutthavongsā Pā Lūang",
+                  "text": "O mănăstire budistă vastă de pădure din Vientiane, dedicată practicilor riguroase de meditație într-un cadru natural, senin și împădurit.",
+                  "category": "landmark",
+                  "coords": [
+                        102.625876,
+                        17.945243
+                  ]
+            },
+            {
+                  "name": "Nagas Shrine",
+                  "text": "Un altar sacru din Vientiane dedicat șerpilor mitici Naga, împodobit complex cu motive de șerpi și ofrande zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        102.616615,
+                        17.945128
+                  ]
+            },
+            {
+                  "name": "ວັດທາດກາວ",
+                  "text": "Un templu budist tradițional din Vientiane, cunoscut pentru baza sa istorică și ruinată de stupa din cărămidă și pentru cartierele monahale senine.",
+                  "category": "landmark",
+                  "coords": [
+                        102.617444,
+                        17.954427
+                  ]
+            },
+            {
+                  "name": "ວັດພະໄຊຍເສຕຖາທິຣາຊ",
+                  "text": "Un complex de temple budiste locale din Vientiane, cu picturi murale vibrante cu povești religioase și o sală comunitară pentru festivaluri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.620513,
+                        17.953803
+                  ]
+            },
+            {
+                  "name": "Wat Ban Fay",
+                  "text": "Această mănăstire budistă din Vientiane servește ca o ancoră spirituală pentru comunitatea rezidențială din jur, găzduind sesiuni regulate de incantații.",
+                  "category": "landmark",
+                  "coords": [
+                        102.62078,
+                        17.963865
+                  ]
+            },
+            {
+                  "name": "Wat Dong Palane",
+                  "text": "Un templu budist consacrat din Vientiane, recunoscut prin porțile sale de intrare ornamentate și zonele umbrite folosite pentru meditație liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        102.622779,
+                        17.959905
+                  ]
+            },
+            {
+                  "name": "Wat Saphanthong Tai",
+                  "text": "Un templu budist din cartierul sudic al orașului Vientiane, oferind un mediu liniștit și săli de rugăciune tradiționale pentru devotații locali.",
+                  "category": "landmark",
+                  "coords": [
+                        102.628548,
+                        17.949576
+                  ]
+            },
+            {
+                  "name": "ວັດ ສະພານທອງເໜືອ",
+                  "text": "Templul omolog nordic din zona Saphanthong din Vientiane, prezentând elemente arhitecturale clasice budiste laoțiene și țigle colorate pe acoperiș.",
+                  "category": "landmark",
+                  "coords": [
+                        102.630842,
+                        17.95529
+                  ]
+            },
+            {
+                  "name": "Wat Sala Daeng",
+                  "text": "Un sanctuar budist pașnic din Vientiane, remarcat pentru pavilioanele sale tradiționale cu acoperiș roșu, care adăpostesc statui religioase venerate.",
+                  "category": "landmark",
+                  "coords": [
+                        102.623556,
+                        17.955359
+                  ]
+            },
+            {
+                  "name": "Bounkhamyong Temple",
+                  "text": "Un loc de cult budist dedicat din Vientiane, adunând frecvent rezidenții locali pentru incantații colective și evenimente tradiționale de obținere de merite.",
+                  "category": "landmark",
+                  "coords": [
+                        102.621478,
+                        17.949696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "This vibrant cultural attraction in Vientiane houses the sacred city pillar, traditionally believed to protect the capital's inhabitants.",
+                  "category": "landmark",
+                  "coords": [
+                        102.615627,
+                        17.958565
+                  ]
+            },
+            {
+                  "name": "Coffee Ah'",
+                  "text": "An intimate gallery space in Vientiane, blending rotating local art exhibitions with a relaxed, modern coffeehouse atmosphere.",
+                  "category": "museum",
+                  "coords": [
+                        102.631546,
+                        17.952698
+                  ]
+            },
+            {
+                  "name": "COPE Visitor Centre",
+                  "text": "This compelling museum in Vientiane documents the ongoing impact of unexploded ordnance in Laos and showcases the provision of prosthetics to survivors.",
+                  "category": "museum",
+                  "coords": [
+                        102.620317,
+                        17.95795
+                  ]
+            },
+            {
+                  "name": "Wat Si Muang",
+                  "text": "Built in 1563, this highly venerated Buddhist temple in Vientiane is famous for housing the original city pillar and its lively daily blessing ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        102.617109,
+                        17.957959
+                  ]
+            },
+            {
+                  "name": "Wat​ Phonpapao",
+                  "text": "A notable Buddhist temple in Vientiane, distinguished by its impressive golden stupa and peaceful monastic environment.",
+                  "category": "landmark",
+                  "coords": [
+                        102.637974,
+                        17.945976
+                  ]
+            },
+            {
+                  "name": "Mahābuddhavaṁsa Royal Forest Monastery",
+                  "text": "A sprawling Buddhist forest monastery in Vientiane, dedicated to rigorous meditation practices in a natural, serene wooded setting.",
+                  "category": "landmark",
+                  "coords": [
+                        102.625876,
+                        17.945243
+                  ]
+            },
+            {
+                  "name": "Nagas Shrine",
+                  "text": "A sacred shrine in Vientiane dedicated to the mythical Naga serpents, intricately adorned with serpent motifs and daily offerings.",
+                  "category": "religious",
+                  "coords": [
+                        102.616615,
+                        17.945128
+                  ]
+            },
+            {
+                  "name": "Wat Thatkao",
+                  "text": "A traditional Buddhist temple in Vientiane, known for its historic, ruined brick stupa base and serene monastic quarters.",
+                  "category": "landmark",
+                  "coords": [
+                        102.617444,
+                        17.954427
+                  ]
+            },
+            {
+                  "name": "Wat Phaxay",
+                  "text": "A local Buddhist temple complex in Vientiane, featuring vibrant murals of religious stories and a community hall for local festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        102.620513,
+                        17.953803
+                  ]
+            },
+            {
+                  "name": "Wat Ban Fay",
+                  "text": "This Buddhist monastery in Vientiane serves as a spiritual anchor for its surrounding residential community, hosting regular chanting sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        102.62078,
+                        17.963865
+                  ]
+            },
+            {
+                  "name": "Wat Dong Palane",
+                  "text": "An established Buddhist temple in Vientiane, recognizable by its ornate entrance gates and shaded areas used for quiet meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        102.622779,
+                        17.959905
+                  ]
+            },
+            {
+                  "name": "Wat Saphanthong Tai",
+                  "text": "A southern neighborhood Buddhist temple in Vientiane, providing a tranquil environment and traditional prayer halls for local devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        102.628548,
+                        17.949576
+                  ]
+            },
+            {
+                  "name": "Wat Saphanthongneua",
+                  "text": "The northern counterpart temple in the Saphanthong area of Vientiane, featuring classical Lao Buddhist architectural elements and colorful roof tiles.",
+                  "category": "landmark",
+                  "coords": [
+                        102.630842,
+                        17.95529
+                  ]
+            },
+            {
+                  "name": "Wat Sala Daeng",
+                  "text": "A peaceful Buddhist sanctuary in Vientiane, noted for its traditional red-roofed pavilions that house revered religious statues.",
+                  "category": "landmark",
+                  "coords": [
+                        102.623556,
+                        17.955359
+                  ]
+            },
+            {
+                  "name": "Bounkhamyong Temple",
+                  "text": "A dedicated Buddhist worship site in Vientiane, frequently gathering local residents for collective chanting and traditional merit-making events.",
+                  "category": "landmark",
+                  "coords": [
+                        102.621478,
+                        17.949696
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-VT",
     coords: [102.6192, 17.9567],
@@ -1091,7 +4880,340 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     },
   },
     {
-    id: "lao-national-museum-landmarks-v2",
+    id: "lao-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lao National Theatre",
+                  "text": "Das laotische Nationaltheater dient als wichtiger kultureller Veranstaltungsort für traditionelle darstellende Künste in Vientiane.",
+                  "category": "cultural",
+                  "coords": [
+                        102.606064,
+                        17.963985
+                  ]
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "Diese belebte Chinatown-Attraktion besticht durch lebhafte Straßen mit traditionellen Geschäften und lokalen asiatischen Lokalen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603456,
+                        17.966419
+                  ]
+            },
+            {
+                  "name": "Night food market",
+                  "text": "Der lebhafte Nacht-Streetfood-Markt bietet mit seinen zahlreichen Open-Air-Essensständen einen authentischen Geschmack Südostasiens.",
+                  "category": "landmark",
+                  "coords": [
+                        102.604728,
+                        17.967152
+                  ]
+            },
+            {
+                  "name": "Lao National Opera",
+                  "text": "Die laotische Nationaloper ist ein großes Theatergebäude, das klassischen Aufführungen und der dramatischen Kunst in der Hauptstadt gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        102.605326,
+                        17.969746
+                  ]
+            },
+            {
+                  "name": "ວັດ ມີໄຊ",
+                  "text": "Wat Mixay ist ein lebhafter buddhistischer Tempel im thailändischen Stil mit kunstvollen Wandmalereien und einer reich verzierten zentralen Stupa.",
+                  "category": "religious",
+                  "coords": [
+                        102.605158,
+                        17.965304
+                  ]
+            },
+            {
+                  "name": "ຫໍວັດທະນະທຳແຫ່ງຊາດ",
+                  "text": "Die laotische nationale Kulturhalle ist ein imposantes Theatergebäude mit markanten traditionellen geschwungenen Dächern, in dem große Veranstaltungen der darstellenden Künste stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        102.606658,
+                        17.966172
+                  ]
+            },
+            {
+                  "name": "ວັດທົ່ງຕູມ",
+                  "text": "Dieser lokale buddhistische Tempel dient als ruhiges spirituelles Zentrum mit traditioneller laotischer Klosterarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        102.605935,
+                        17.976916
+                  ]
+            },
+            {
+                  "name": "ວັດ ເຈີ່ນຮຶງດ໋າວ",
+                  "text": "Diese kleine buddhistische Kultstätte spiegelt das spirituelle Erbe der vietnamesischen Gemeinschaft im Herzen der Stadt wider.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603707,
+                        17.968623
+                  ]
+            },
+            {
+                  "name": "Thongkamkham market",
+                  "text": "Der Thongkamkham-Markt ist ein großer, lebendiger Marktplatz, auf dem Einheimische alles von bunten Textilien bis hin zu frischen täglichen Lebensmitteln handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        102.608278,
+                        17.974718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lao National Theatre",
+                  "text": "A Laoszi Nemzeti Színház a hagyományos előadó-művészetek kiemelkedő kulturális helyszíne Vientiánban.",
+                  "category": "cultural",
+                  "coords": [
+                        102.606064,
+                        17.963985
+                  ]
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "Ez a nyüzsgő kínai negyed látványossága élettel teli utcákkal, hagyományos üzletekkel és ázsiai éttermekkel várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603456,
+                        17.966419
+                  ]
+            },
+            {
+                  "name": "Night food market",
+                  "text": "A nyüzsgő éjszakai élelmiszerpiac Délkelet-Ázsia autentikus ízeit kínálja a számos szabadtéri utcai árusító standon.",
+                  "category": "landmark",
+                  "coords": [
+                        102.604728,
+                        17.967152
+                  ]
+            },
+            {
+                  "name": "Lao National Opera",
+                  "text": "A Laoszi Nemzeti Opera egy nagyszerű színház, amelyet a klasszikus előadásoknak és a drámai művészeteknek szenteltek a fővárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        102.605326,
+                        17.969746
+                  ]
+            },
+            {
+                  "name": "ວັດ ມີໄຊ",
+                  "text": "A Wat Mixay egy thai stílusban épült, élénk színekben pompázó buddhista templom, amelyet bonyolult falfestmények és egy gazdagon díszített központi sztúpa jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        102.605158,
+                        17.965304
+                  ]
+            },
+            {
+                  "name": "ຫໍວັດທະນະທຳແຫ່ງຊາດ",
+                  "text": "A Laoszi Nemzeti Kulturális Csarnok egy impozáns színházépület jellegzetes hagyományos ívelt tetőkkel, amely jelentős előadó-művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        102.606658,
+                        17.966172
+                  ]
+            },
+            {
+                  "name": "ວັດທົ່ງຕູມ",
+                  "text": "Ez a helyi buddhista templom csendes spirituális központként szolgál, amely hagyományos laoszi kolostori építészetet vonultat fel.",
+                  "category": "landmark",
+                  "coords": [
+                        102.605935,
+                        17.976916
+                  ]
+            },
+            {
+                  "name": "ວັດ ເຈີ່ນຮຶງດ໋າວ",
+                  "text": "Ez a kis buddhista imahely a város szívében élő vietnámi közösség spirituális örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603707,
+                        17.968623
+                  ]
+            },
+            {
+                  "name": "Thongkamkham market",
+                  "text": "A Thongkamkham piac egy nagy, nyüzsgő piactér, ahol a helyiek a színes textíliáktól a friss napi élelmiszerekig mindennel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        102.608278,
+                        17.974718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lao National Theatre",
+                  "text": "Teatrul Național din Laos servește ca loc cultural proeminent pentru artele spectacolului tradițional din Vientiane.",
+                  "category": "cultural",
+                  "coords": [
+                        102.606064,
+                        17.963985
+                  ]
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "Această atracție animată din Chinatown prezintă străzi pline de viață, mărginite de magazine tradiționale și restaurante asiatice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603456,
+                        17.966419
+                  ]
+            },
+            {
+                  "name": "Night food market",
+                  "text": "Piața vibrantă de alimente nocturnă oferă un gust autentic al Asiei de Sud-Est prin numeroasele sale tarabe cu mâncare de stradă în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        102.604728,
+                        17.967152
+                  ]
+            },
+            {
+                  "name": "Lao National Opera",
+                  "text": "Opera Națională Lao este o locație de teatru grandioasă dedicată spectacolelor clasice și artelor dramatice din capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        102.605326,
+                        17.969746
+                  ]
+            },
+            {
+                  "name": "ວັດ ມີໄຊ",
+                  "text": "Wat Mixay este un templu budist vibrant construit în stil thailandez, cu picturi murale complicate și o stupă centrală bogat decorată.",
+                  "category": "religious",
+                  "coords": [
+                        102.605158,
+                        17.965304
+                  ]
+            },
+            {
+                  "name": "ຫໍວັດທະນະທຳແຫ່ງຊາດ",
+                  "text": "Sala Culturală Națională Lao este o clădire de teatru impunătoare, cu acoperișuri curbate tradiționale distinctive, care găzduiește evenimente majore de artă a spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        102.606658,
+                        17.966172
+                  ]
+            },
+            {
+                  "name": "ວັດທົ່ງຕູມ",
+                  "text": "Acest templu budist local servește drept centru spiritual liniștit, prezentând arhitectură monahală tradițională laoțiană.",
+                  "category": "landmark",
+                  "coords": [
+                        102.605935,
+                        17.976916
+                  ]
+            },
+            {
+                  "name": "ວັດ ເຈີ່ນຮຶງດ໋າວ",
+                  "text": "Acest mic loc de cult budist reflectă moștenirea spirituală a comunității vietnameze din inima orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603707,
+                        17.968623
+                  ]
+            },
+            {
+                  "name": "Thongkamkham market",
+                  "text": "Piața Thongkamkham este o piață mare și vibrantă, unde localnicii tranzacționează de la textile colorate până la alimente zilnice proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        102.608278,
+                        17.974718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lao National Theatre",
+                  "text": "The Lao National Theatre serves as a prominent cultural venue for traditional performing arts in Vientiane.",
+                  "category": "cultural",
+                  "coords": [
+                        102.606064,
+                        17.963985
+                  ]
+            },
+            {
+                  "name": "Chinatown",
+                  "text": "This bustling Chinatown attraction features vibrant streets lined with traditional shops and local Asian eateries.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603456,
+                        17.966419
+                  ]
+            },
+            {
+                  "name": "Night food market",
+                  "text": "The vibrant night food market offers an authentic taste of Southeast Asia with its numerous open-air street food stalls.",
+                  "category": "landmark",
+                  "coords": [
+                        102.604728,
+                        17.967152
+                  ]
+            },
+            {
+                  "name": "Lao National Opera",
+                  "text": "The Lao National Opera is a grand theatre venue dedicated to classical performances and dramatic arts in the capital.",
+                  "category": "cultural",
+                  "coords": [
+                        102.605326,
+                        17.969746
+                  ]
+            },
+            {
+                  "name": "Mixay Temple",
+                  "text": "Wat Mixay is a vibrant Buddhist temple built in the Thai style, featuring intricate murals and a richly decorated central stupa.",
+                  "category": "religious",
+                  "coords": [
+                        102.605158,
+                        17.965304
+                  ]
+            },
+            {
+                  "name": "Lao National Cultural Hall",
+                  "text": "The Lao National Cultural Hall is an imposing theatre building with distinctive traditional curved roofs, hosting major performing arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        102.606658,
+                        17.966172
+                  ]
+            },
+            {
+                  "name": "ວັດທົ່ງຕູມ",
+                  "text": "This local Buddhist temple serves as a quiet spiritual center featuring traditional Laotian monastic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        102.605935,
+                        17.976916
+                  ]
+            },
+            {
+                  "name": "ວັດ ເຈີ່ນຮຶງດ໋າວ",
+                  "text": "This small Buddhist worship site reflects the spiritual heritage of the Vietnamese community in the heart of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603707,
+                        17.968623
+                  ]
+            },
+            {
+                  "name": "Thongkamkham Market",
+                  "text": "Thongkamkham Market is a large, vibrant marketplace where locals trade everything from colorful textiles to fresh daily groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        102.608278,
+                        17.974718
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LA-VT",
     coords: [102.6067, 17.9667],

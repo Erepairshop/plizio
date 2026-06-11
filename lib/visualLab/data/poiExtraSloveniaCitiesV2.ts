@@ -3,7 +3,664 @@ import { POI } from './poi';
 export const sloveniaCitiesV2: POI[] = [
 
   {
-    id: "slovenia-velenje-cities-v2", "sights": {"de": [{"name": "Muzej premogovništva Slovenije", "text": "Ein Museum in Velenje, das der Geschichte des Kohlenbergbaus in Slowenien gewidmet ist.", "category": "museum", "coords": [15.098439, 46.372463]}, {"name": "Kulturni dom Velenje", "text": "Ein Kulturzentrum und Theater in Velenje.", "category": "cultural", "coords": [15.114857, 46.359626]}, {"name": "Velenjska plaža", "text": "Wunderschön an den Ufern des Velenje-Sees gelegen, ist die Velenjska plaža ein äußerst beliebter Rückzugsort am Wasser in Slowenien. Sie besticht durch ein lebhaftes und einladendes Ambiente, das im Sommer Freunde und Familien gleichermaßen anzieht. Schwimmer können hier ein erfrischendes Bad im See nehmen, während Sonnenanbeter reichlich Platz zum Entspannen am Ufer finden. Es lohnt sich, bequeme Strandmatten für einen ausgedehnten, entspannten Tag am Wasser mitzubringen.", "category": "recreational", "coords": [15.086551, 46.370114]}, {"name": "Grad Ekenštajn", "text": "Die Ruinen der Burg Ekenštajn bei Velenje.", "category": "historical", "coords": [15.130456, 46.359697]}, {"name": "Šaleški grad", "text": "Überreste der mittelalterlichen Burg Šalek in Velenje.", "category": "historical", "coords": [15.127223, 46.361628]}, {"name": "Ostanki gradu Gradišče", "text": "Die Ruinen der Burg Gradišče in Velenje.", "category": "historical", "coords": [15.089282, 46.357197]}, {"name": "Jakec", "text": "Ein Aussichtspunkt in Velenje mit Blick auf die Umgebung.", "category": "natural", "coords": [15.093098, 46.357835]}, {"name": "Grad", "text": "Ein Aussichtspunkt in Velenje.", "category": "natural", "coords": [15.110214, 46.356596]}, {"name": "Venturin (KT – žig)", "text": "Ein Wanderziel und Kontrollpunkt in Velenje.", "category": "landmark", "coords": [15.136214, 46.343128]}, {"name": "cerkev sv. Martina", "text": "Eine dem heiligen Martin geweihte Kirche in Velenje.", "category": "religious", "coords": [15.117093, 46.364871]}, {"name": "Družmirsko jezero", "text": "Družmirsko jezero ist ein See in Velenje, der für sein ruhiges Wasser bekannt ist.", "category": "natural", "coords": [15.065418, 46.379847]}, {"name": "Podkrajsko otroško igrišče", "text": "Podkrajsko otroško igrišče ist ein Spielplatz in Velenje, ideal für Kinder.", "category": "family", "coords": [15.102691, 46.355596]}, {"name": "Igrišče čebelice Maje", "text": "Igrišče čebelice Maje ist ein Themen-Spielplatz in Velenje für Familienspaß.", "category": "family", "coords": [15.125574, 46.368064]}, {"name": "Pozojevo igrišče", "text": "Pozojevo igrišče ist ein Spielplatz in Velenje, der für Familien geeignet ist.", "category": "family", "coords": [15.091205, 46.369022]}, {"name": "Mastodontovo igrišče", "text": "Mastodontovo igrišče ist ein Spielplatz in Velenje, der Platz für Spiele im Freien bietet.", "category": "family", "coords": [15.090809, 46.370545]}, {"name": "Rožletovo igrišče", "text": "Rožletovo igrišče ist ein Spielplatz in Velenje für Kinder und Eltern.", "category": "family", "coords": [15.106818, 46.367924]}, {"name": "Otroški zabaviščni park Velenje", "text": "Otroški zabaviščni park Velenje ist ein Vergnügungsspielplatz in Velenje für Familien.", "category": "family", "coords": [15.092411, 46.369975]}, {"name": "Mestno otroško igrišče", "text": "Mestno otroško igrišče ist ein städtischer Spielplatz in Velenje, ideal für einen kurzen Besuch.", "category": "family", "coords": [15.11674, 46.358023]}], "hu": [{"name": "Muzej premogovništva Slovenije", "text": "A szlovén szénbányászat történetének szentelt múzeum Velenjében.", "category": "museum", "coords": [15.098439, 46.372463]}, {"name": "Kulturni dom Velenje", "text": "Kulturális központ és színház Velenjében.", "category": "cultural", "coords": [15.114857, 46.359626]}, {"name": "Velenjska plaža", "text": "A Velenje-tó partján gyönyörűen elhelyezkedő Velenjska plaža egy rendkívül kedvelt szlovéniai tóparti menedék. A helyszín élénk és hívogató hangulattal büszkélkedhet, amely a nyár folyamán barátok és családok népszerű találkozóhelye. Az úszni vágyók frissítő mártózást tehetnek a tóban, míg mások bőséges helyet találnak a parton a napozáshoz és a pihenéshez. Érdemes kényelmes strandmatracokat hozni egy hosszú, vízparti ejtőzéshez.", "category": "recreational", "coords": [15.086551, 46.370114]}, {"name": "Grad Ekenštajn", "text": "Ekenštajn várának romjai Velenje közelében.", "category": "historical", "coords": [15.130456, 46.359697]}, {"name": "Šaleški grad", "text": "A középkori Šalek várának maradványai Velenjében.", "category": "historical", "coords": [15.127223, 46.361628]}, {"name": "Ostanki gradu Gradišče", "text": "Gradišče várának romjai Velenjében.", "category": "historical", "coords": [15.089282, 46.357197]}, {"name": "Jakec", "text": "Kilátópont Velenjében, kilátással a környékre.", "category": "natural", "coords": [15.093098, 46.357835]}, {"name": "Grad", "text": "Kilátópont Velenjében.", "category": "natural", "coords": [15.110214, 46.356596]}, {"name": "Venturin (KT – žig)", "text": "Túraútvonal célpont és pecsételőhely Velenjében.", "category": "landmark", "coords": [15.136214, 46.343128]}, {"name": "cerkev sv. Martina", "text": "Szent Mártonnak szentelt templom Velenjében.", "category": "religious", "coords": [15.117093, 46.364871]}, {"name": "Družmirsko jezero", "text": "A Družmirsko jezero egy tó Velenje városában, amely nyugodt vizéről ismert.", "category": "natural", "coords": [15.065418, 46.379847]}, {"name": "Podkrajsko otroško igrišče", "text": "A Podkrajsko otroško igrišče egy játszótér Velenje területén, amely tökéletes a gyerekeknek.", "category": "family", "coords": [15.102691, 46.355596]}, {"name": "Igrišče čebelice Maje", "text": "Az Igrišče čebelice Maje egy tematikus játszótér Velenje városában a családi szórakozásért.", "category": "family", "coords": [15.125574, 46.368064]}, {"name": "Pozojevo igrišče", "text": "A Pozojevo igrišče egy játszótér Velenje területén, amely alkalmas családok számára.", "category": "family", "coords": [15.091205, 46.369022]}, {"name": "Mastodontovo igrišče", "text": "A Mastodontovo igrišče egy játszótér Velenje városában, amely helyet kínál a szabadtéri játékhoz.", "category": "family", "coords": [15.090809, 46.370545]}, {"name": "Rožletovo igrišče", "text": "A Rožletovo igrišče egy játszótér Velenje területén gyerekeknek és szülőknek.", "category": "family", "coords": [15.106818, 46.367924]}, {"name": "Otroški zabaviščni park Velenje", "text": "Az Otroški zabaviščni park Velenje egy szórakoztató játszótér Velenje városában családoknak.", "category": "family", "coords": [15.092411, 46.369975]}, {"name": "Mestno otroško igrišče", "text": "A Mestno otroško igrišče egy városi játszótér Velenje területén, amely tökéletes egy rövid látogatáshoz.", "category": "family", "coords": [15.11674, 46.358023]}], "ro": [{"name": "Muzej premogovništva Slovenije", "text": "Un muzeu din Velenje dedicat istoriei mineritului de cărbune din Slovenia.", "category": "museum", "coords": [15.098439, 46.372463]}, {"name": "Kulturni dom Velenje", "text": "Un centru cultural și teatru în Velenje.", "category": "cultural", "coords": [15.114857, 46.359626]}, {"name": "Velenjska plaža", "text": "Situată superb pe malurile Lacului Velenje, Velenjska plaža este o destinație de retragere pe malul lacului foarte apreciată în Slovenia. Locația se mândrește cu o ambianță plină de viață și primitoare, servind drept punct de întâlnire popular pentru prieteni și familii pe tot parcursul verii. Înotătorii se pot bucura de o baie răcoroasă în lac, în timp ce iubitorii de soare vor găsi spațiu din plin pentru a se relaxa pe mal. Aducerea unor rogojini confortabile de plajă este o idee excelentă pentru o zi lungă și relaxantă la malul apei.", "category": "recreational", "coords": [15.086551, 46.370114]}, {"name": "Grad Ekenštajn", "text": "Ruinele castelului Ekenštajn de lângă Velenje.", "category": "historical", "coords": [15.130456, 46.359697]}, {"name": "Šaleški grad", "text": "Rămășițele castelului medieval Šalek din Velenje.", "category": "historical", "coords": [15.127223, 46.361628]}, {"name": "Ostanki gradu Gradišče", "text": "Ruinele castelului Gradišče din Velenje.", "category": "historical", "coords": [15.089282, 46.357197]}, {"name": "Jakec", "text": "Un punct de belvedere în Velenje cu vedere asupra împrejurimilor.", "category": "natural", "coords": [15.093098, 46.357835]}, {"name": "Grad", "text": "Un punct de belvedere în Velenje.", "category": "natural", "coords": [15.110214, 46.356596]}, {"name": "Venturin (KT – žig)", "text": "O destinație de drumeție și punct de control în Velenje.", "category": "landmark", "coords": [15.136214, 46.343128]}, {"name": "cerkev sv. Martina", "text": "O biserică dedicată Sfântului Martin în Velenje.", "category": "religious", "coords": [15.117093, 46.364871]}, {"name": "Družmirsko jezero", "text": "Družmirsko jezero este un lac din Velenje, cunoscut pentru apele sale calme.", "category": "natural", "coords": [15.065418, 46.379847]}, {"name": "Podkrajsko otroško igrišče", "text": "Podkrajsko otroško igrišče este un teren de joacă din Velenje, perfect pentru copii.", "category": "family", "coords": [15.102691, 46.355596]}, {"name": "Igrišče čebelice Maje", "text": "Igrišče čebelice Maje este un teren de joacă tematic în Velenje pentru distracția familiei.", "category": "family", "coords": [15.125574, 46.368064]}, {"name": "Pozojevo igrišče", "text": "Pozojevo igrišče este un teren de joacă situat în Velenje, potrivit pentru familii.", "category": "family", "coords": [15.091205, 46.369022]}, {"name": "Mastodontovo igrišče", "text": "Mastodontovo igrišče este un teren de joacă din Velenje, oferind spațiu pentru joacă în aer liber.", "category": "family", "coords": [15.090809, 46.370545]}, {"name": "Rožletovo igrišče", "text": "Rožletovo igrišče este un teren de joacă în Velenje pentru copii și părinți.", "category": "family", "coords": [15.106818, 46.367924]}, {"name": "Otroški zabaviščni park Velenje", "text": "Otroški zabaviščni park Velenje este un parc de distracții pentru copii în Velenje, pentru familii.", "category": "family", "coords": [15.092411, 46.369975]}, {"name": "Mestno otroško igrišče", "text": "Mestno otroško igrišče este un teren de joacă orășenesc în Velenje, perfect pentru o vizită scurtă.", "category": "family", "coords": [15.11674, 46.358023]}], "en": [{"name": "Muzej premogovništva Slovenije", "text": "A museum in Velenje dedicated to the history of coal mining in Slovenia.", "category": "museum", "coords": [15.098439, 46.372463]}, {"name": "Kulturni dom Velenje", "text": "A cultural center and theatre in Velenje.", "category": "cultural", "coords": [15.114857, 46.359626]}, {"name": "Velenjska plaža", "text": "Beautifully situated on the shores of Lake Velenje, Velenjska plaža is a highly favored lakeside retreat in Slovenia. The location boasts a lively and inviting ambiance, serving as a popular gathering point for friends and families throughout the summer. Swimmers can take a refreshing dip in the lake, while others will find plenty of space to relax and sunbathe on the shore. Bringing along comfortable beach mats is a smart idea for a long, leisurely day by the water.", "category": "recreational", "coords": [15.086551, 46.370114]}, {"name": "Grad Ekenštajn", "text": "The ruins of Ekenštajn Castle near Velenje.", "category": "historical", "coords": [15.130456, 46.359697]}, {"name": "Šalek Castle", "text": "Remains of the medieval Šalek Castle in Velenje.", "category": "historical", "coords": [15.127223, 46.361628]}, {"name": "Ostanki gradu Gradišče", "text": "The ruins of Gradišče Castle in Velenje.", "category": "historical", "coords": [15.089282, 46.357197]}, {"name": "Jakec", "text": "A viewpoint in Velenje offering views of the surroundings.", "category": "natural", "coords": [15.093098, 46.357835]}, {"name": "Grad", "text": "A viewpoint in Velenje.", "category": "natural", "coords": [15.110214, 46.356596]}, {"name": "Venturin (KT – žig)", "text": "A hiking destination and checkpoint in Velenje.", "category": "landmark", "coords": [15.136214, 46.343128]}, {"name": "cerkev sv. Martina", "text": "A church dedicated to Saint Martin in Velenje.", "category": "religious", "coords": [15.117093, 46.364871]}, {"name": "Družmirsko jezero", "text": "Družmirsko jezero is a lake in Velenje, known for its calm waters.", "category": "natural", "coords": [15.065418, 46.379847]}, {"name": "Podkrajsko otroško igrišče", "text": "Podkrajsko otroško igrišče is a playground in Velenje, perfect for kids.", "category": "family", "coords": [15.102691, 46.355596]}, {"name": "Igrišče čebelice Maje", "text": "Igrišče čebelice Maje is a themed playground in Velenje for family fun.", "category": "family", "coords": [15.125574, 46.368064]}, {"name": "Pozojevo igrišče", "text": "Pozojevo igrišče is a playground located in Velenje, suitable for families.", "category": "family", "coords": [15.091205, 46.369022]}, {"name": "Mastodontovo igrišče", "text": "Mastodontovo igrišče is a playground in Velenje, offering space for outdoor play.", "category": "family", "coords": [15.090809, 46.370545]}, {"name": "Rožletovo igrišče", "text": "Rožletovo igrišče is a playground in Velenje for children and parents.", "category": "family", "coords": [15.106818, 46.367924]}, {"name": "Otroški zabaviščni park Velenje", "text": "Otroški zabaviščni park Velenje is an amusement playground in Velenje for families.", "category": "family", "coords": [15.092411, 46.369975]}, {"name": "Mestno otroško igrišče", "text": "Mestno otroško igrišče is a city playground in Velenje, perfect for a short visit.", "category": "family", "coords": [15.11674, 46.358023]}]},
+    id: "slovenia-velenje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej premogovništva Slovenije",
+                  "text": "Ein Museum in Velenje, das der Geschichte des Kohlenbergbaus in Slowenien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.098439,
+                        46.372463
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Velenje",
+                  "text": "Das zentrale Kulturhaus in der Innenstadt von Velenje.",
+                  "category": "cultural",
+                  "coords": [
+                        15.114857,
+                        46.359626
+                  ]
+            },
+            {
+                  "name": "Velenjska plaža",
+                  "text": "Wunderschön an den Ufern des Velenje-Sees gelegen, ist die Velenjska plaža ein äußerst beliebter Rückzugsort am Wasser in Slowenien. Sie besticht durch ein lebhaftes und einladendes Ambiente, das im Sommer Freunde und Familien gleichermaßen anzieht. Schwimmer können hier ein erfrischendes Bad im See nehmen, während Sonnenanbeter reichlich Platz zum Entspannen am Ufer finden. Es lohnt sich, bequeme Strandmatten für einen ausgedehnten, entspannten Tag am Wasser mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.086551,
+                        46.370114
+                  ]
+            },
+            {
+                  "name": "Grad Ekenštajn",
+                  "text": "Die Burg Ekenštajn ist eine Ruine aus dem 13. Jahrhundert auf einem Hügel oberhalb von Velenje.",
+                  "category": "historical",
+                  "coords": [
+                        15.130456,
+                        46.359697
+                  ]
+            },
+            {
+                  "name": "Šaleški grad",
+                  "text": "Das Schloss Šalek ist eine mittelalterliche Burg am Šalek-See nahe Velenje.",
+                  "category": "historical",
+                  "coords": [
+                        15.127223,
+                        46.361628
+                  ]
+            },
+            {
+                  "name": "Ostanki gradu Gradišče",
+                  "text": "Die Ruinen einer mittelalterlichen Burg auf einem Hügel oberhalb von Velenje.",
+                  "category": "historical",
+                  "coords": [
+                        15.089282,
+                        46.357197
+                  ]
+            },
+            {
+                  "name": "Jakec",
+                  "text": "Ein Aussichtspunkt in Velenje mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        15.093098,
+                        46.357835
+                  ]
+            },
+            {
+                  "name": "Grad",
+                  "text": "Eine burgförmige Felsformation in der Umgebung von Velenje.",
+                  "category": "natural",
+                  "coords": [
+                        15.110214,
+                        46.356596
+                  ]
+            },
+            {
+                  "name": "Venturin (KT – žig)",
+                  "text": "Ein Mineralienvorkommen mit einem Prüfstempel in Velenje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.136214,
+                        46.343128
+                  ]
+            },
+            {
+                  "name": "cerkev sv. Martina",
+                  "text": "Cerkev sv. Martina ist eine dem Heiligen Martin geweihte Kirche in Velenje.",
+                  "category": "religious",
+                  "coords": [
+                        15.117093,
+                        46.364871
+                  ]
+            },
+            {
+                  "name": "Družmirsko jezero",
+                  "text": "Ein malerischer See, der durch Bergsenkung bei Velenje entstanden ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.065418,
+                        46.379847
+                  ]
+            },
+            {
+                  "name": "Podkrajsko otroško igrišče",
+                  "text": "Ein Kinderspielplatz im Stadtteil Podkraj von Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.102691,
+                        46.355596
+                  ]
+            },
+            {
+                  "name": "Igrišče čebelice Maje",
+                  "text": "Ein Themen-Spielplatz mit der Biene Maja in Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.125574,
+                        46.368064
+                  ]
+            },
+            {
+                  "name": "Pozojevo igrišče",
+                  "text": "Ein Spielplatz, benannt nach dem Drachen Pozoj in Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.091205,
+                        46.369022
+                  ]
+            },
+            {
+                  "name": "Mastodontovo igrišče",
+                  "text": "Mastodontovo igrišče ist ein Spielplatz in Velenje, der Platz für Spiele im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.090809,
+                        46.370545
+                  ]
+            },
+            {
+                  "name": "Rožletovo igrišče",
+                  "text": "Ein Spielplatz, der der Kinderfigur Rožle gewidmet ist, in Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.106818,
+                        46.367924
+                  ]
+            },
+            {
+                  "name": "Otroški zabaviščni park Velenje",
+                  "text": "Ein Kindervergnügungspark mit Innen- und Außenattraktionen in Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.092411,
+                        46.369975
+                  ]
+            },
+            {
+                  "name": "Mestno otroško igrišče",
+                  "text": "Mestno otroško igrišče ist ein städtischer Spielplatz in Velenje, ideal für einen kurzen Besuch.",
+                  "category": "family",
+                  "coords": [
+                        15.11674,
+                        46.358023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej premogovništva Slovenije",
+                  "text": "A szlovén szénbányászat történetének szentelt múzeum Velenjében.",
+                  "category": "museum",
+                  "coords": [
+                        15.098439,
+                        46.372463
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Velenje",
+                  "text": "A központi kultúrház Velenje belvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        15.114857,
+                        46.359626
+                  ]
+            },
+            {
+                  "name": "Velenjska plaža",
+                  "text": "A Velenje-tó partján gyönyörűen elhelyezkedő Velenjska plaža egy rendkívül kedvelt szlovéniai tóparti menedék. A helyszín élénk és hívogató hangulattal büszkélkedhet, amely a nyár folyamán barátok és családok népszerű találkozóhelye. Az úszni vágyók frissítő mártózást tehetnek a tóban, míg mások bőséges helyet találnak a parton a napozáshoz és a pihenéshez. Érdemes kényelmes strandmatracokat hozni egy hosszú, vízparti ejtőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        15.086551,
+                        46.370114
+                  ]
+            },
+            {
+                  "name": "Grad Ekenštajn",
+                  "text": "Az Ekenštajn-vár egy 13. századi várrom a Velenje feletti dombon.",
+                  "category": "historical",
+                  "coords": [
+                        15.130456,
+                        46.359697
+                  ]
+            },
+            {
+                  "name": "Šaleški grad",
+                  "text": "A Šalek-vár egy középkori vár a Šalek-tó mellett Velenje közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.127223,
+                        46.361628
+                  ]
+            },
+            {
+                  "name": "Ostanki gradu Gradišče",
+                  "text": "Egy középkori vár romjai egy dombon Velenje felett.",
+                  "category": "historical",
+                  "coords": [
+                        15.089282,
+                        46.357197
+                  ]
+            },
+            {
+                  "name": "Jakec",
+                  "text": "Kilátópont Velenjében, kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.093098,
+                        46.357835
+                  ]
+            },
+            {
+                  "name": "Grad",
+                  "text": "Egy vár alakú sziklaformáció Velenje környékén.",
+                  "category": "natural",
+                  "coords": [
+                        15.110214,
+                        46.356596
+                  ]
+            },
+            {
+                  "name": "Venturin (KT – žig)",
+                  "text": "Egy ásványi anyag lelőhely minősítő bélyegzővel Velenjében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.136214,
+                        46.343128
+                  ]
+            },
+            {
+                  "name": "cerkev sv. Martina",
+                  "text": "A Cerkev sv. Martina egy Szent Mártonnak szentelt templom Velenjében.",
+                  "category": "religious",
+                  "coords": [
+                        15.117093,
+                        46.364871
+                  ]
+            },
+            {
+                  "name": "Družmirsko jezero",
+                  "text": "Egy festői tó, amely bányászati süllyedés következtében jött létre Velenje közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.065418,
+                        46.379847
+                  ]
+            },
+            {
+                  "name": "Podkrajsko otroško igrišče",
+                  "text": "Egy gyermekjátszótér Velenje Podkraj negyedében.",
+                  "category": "family",
+                  "coords": [
+                        15.102691,
+                        46.355596
+                  ]
+            },
+            {
+                  "name": "Igrišče čebelice Maje",
+                  "text": "Egy tematikus játszótér Maja, a méhecske figurájával Velenjében.",
+                  "category": "family",
+                  "coords": [
+                        15.125574,
+                        46.368064
+                  ]
+            },
+            {
+                  "name": "Pozojevo igrišče",
+                  "text": "Egy játszótér, amelyet a Pozoj sárkányról neveztek el Velenjében.",
+                  "category": "family",
+                  "coords": [
+                        15.091205,
+                        46.369022
+                  ]
+            },
+            {
+                  "name": "Mastodontovo igrišče",
+                  "text": "A Mastodontovo igrišče egy játszótér Velenje városában, amely helyet kínál a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.090809,
+                        46.370545
+                  ]
+            },
+            {
+                  "name": "Rožletovo igrišče",
+                  "text": "Egy játszótér, amelyet Rožle gyermek karakterének szenteltek Velenjében.",
+                  "category": "family",
+                  "coords": [
+                        15.106818,
+                        46.367924
+                  ]
+            },
+            {
+                  "name": "Otroški zabaviščni park Velenje",
+                  "text": "Egy gyermek szórakoztató park beltéri és kültéri attrakciókkal Velenjében.",
+                  "category": "family",
+                  "coords": [
+                        15.092411,
+                        46.369975
+                  ]
+            },
+            {
+                  "name": "Mestno otroško igrišče",
+                  "text": "A Mestno otroško igrišče egy városi játszótér Velenje területén, amely tökéletes egy rövid látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.11674,
+                        46.358023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej premogovništva Slovenije",
+                  "text": "Un muzeu din Velenje dedicat istoriei mineritului de cărbune din Slovenia.",
+                  "category": "museum",
+                  "coords": [
+                        15.098439,
+                        46.372463
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Velenje",
+                  "text": "Casa de cultură centrală din centrul orașului Velenje.",
+                  "category": "cultural",
+                  "coords": [
+                        15.114857,
+                        46.359626
+                  ]
+            },
+            {
+                  "name": "Velenjska plaža",
+                  "text": "Situată superb pe malurile Lacului Velenje, Velenjska plaža este o destinație de retragere pe malul lacului foarte apreciată în Slovenia. Locația se mândrește cu o ambianță plină de viață și primitoare, servind drept punct de întâlnire popular pentru prieteni și familii pe tot parcursul verii. Înotătorii se pot bucura de o baie răcoroasă în lac, în timp ce iubitorii de soare vor găsi spațiu din plin pentru a se relaxa pe mal. Aducerea unor rogojini confortabile de plajă este o idee excelentă pentru o zi lungă și relaxantă la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        15.086551,
+                        46.370114
+                  ]
+            },
+            {
+                  "name": "Grad Ekenštajn",
+                  "text": "Castelul Ekenštajn este o ruină de castel din secolul al XIII-lea pe un deal deasupra Velenjului.",
+                  "category": "historical",
+                  "coords": [
+                        15.130456,
+                        46.359697
+                  ]
+            },
+            {
+                  "name": "Šaleški grad",
+                  "text": "Castelul Šalek este un castel medieval lângă Lacul Šalek, aproape de Velenje.",
+                  "category": "historical",
+                  "coords": [
+                        15.127223,
+                        46.361628
+                  ]
+            },
+            {
+                  "name": "Ostanki gradu Gradišče",
+                  "text": "Ruinele unui castel medieval pe un deal deasupra Velenje.",
+                  "category": "historical",
+                  "coords": [
+                        15.089282,
+                        46.357197
+                  ]
+            },
+            {
+                  "name": "Jakec",
+                  "text": "Un punct de belvedere în Velenje cu vedere asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.093098,
+                        46.357835
+                  ]
+            },
+            {
+                  "name": "Grad",
+                  "text": "O formațiune stâncoasă în formă de castel în zona Velenje.",
+                  "category": "natural",
+                  "coords": [
+                        15.110214,
+                        46.356596
+                  ]
+            },
+            {
+                  "name": "Venturin (KT – žig)",
+                  "text": "Un zăcământ mineral cu un ștampil de certificare în Velenje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.136214,
+                        46.343128
+                  ]
+            },
+            {
+                  "name": "cerkev sv. Martina",
+                  "text": "Cerkev sv. Martina este o biserică dedicată Sfântului Martin în Velenje.",
+                  "category": "religious",
+                  "coords": [
+                        15.117093,
+                        46.364871
+                  ]
+            },
+            {
+                  "name": "Družmirsko jezero",
+                  "text": "Un lac pitoresc format prin tasare minieră lângă Velenje.",
+                  "category": "natural",
+                  "coords": [
+                        15.065418,
+                        46.379847
+                  ]
+            },
+            {
+                  "name": "Podkrajsko otroško igrišče",
+                  "text": "Un loc de joacă pentru copii în cartierul Podkraj din Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.102691,
+                        46.355596
+                  ]
+            },
+            {
+                  "name": "Igrišče čebelice Maje",
+                  "text": "Un loc de joacă tematic cu personaje din Albina Maya în Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.125574,
+                        46.368064
+                  ]
+            },
+            {
+                  "name": "Pozojevo igrišče",
+                  "text": "Un loc de joacă numit după dragonul Pozoj în Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.091205,
+                        46.369022
+                  ]
+            },
+            {
+                  "name": "Mastodontovo igrišče",
+                  "text": "Mastodontovo igrišče este un teren de joacă din Velenje, oferind spațiu pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        15.090809,
+                        46.370545
+                  ]
+            },
+            {
+                  "name": "Rožletovo igrišče",
+                  "text": "Un loc de joacă dedicat personajului pentru copii Rožle în Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.106818,
+                        46.367924
+                  ]
+            },
+            {
+                  "name": "Otroški zabaviščni park Velenje",
+                  "text": "Un parc de distracții pentru copii cu atracții interioare și exterioare în Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.092411,
+                        46.369975
+                  ]
+            },
+            {
+                  "name": "Mestno otroško igrišče",
+                  "text": "Mestno otroško igrišče este un teren de joacă orășenesc în Velenje, perfect pentru o vizită scurtă.",
+                  "category": "family",
+                  "coords": [
+                        15.11674,
+                        46.358023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej premogovništva Slovenije",
+                  "text": "A museum in Velenje dedicated to the history of coal mining in Slovenia.",
+                  "category": "museum",
+                  "coords": [
+                        15.098439,
+                        46.372463
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Velenje",
+                  "text": "The main cultural hall in the center of Velenje.",
+                  "category": "cultural",
+                  "coords": [
+                        15.114857,
+                        46.359626
+                  ]
+            },
+            {
+                  "name": "Velenjska plaža",
+                  "text": "Beautifully situated on the shores of Lake Velenje, Velenjska plaža is a highly favored lakeside retreat in Slovenia. The location boasts a lively and inviting ambiance, serving as a popular gathering point for friends and families throughout the summer. Swimmers can take a refreshing dip in the lake, while others will find plenty of space to relax and sunbathe on the shore. Bringing along comfortable beach mats is a smart idea for a long, leisurely day by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        15.086551,
+                        46.370114
+                  ]
+            },
+            {
+                  "name": "Grad Ekenštajn",
+                  "text": "Grad Ekenštajn is a 13th-century castle ruin on a hill above Velenje.",
+                  "category": "historical",
+                  "coords": [
+                        15.130456,
+                        46.359697
+                  ]
+            },
+            {
+                  "name": "Šalek Castle",
+                  "text": "Šalek Castle is a medieval castle on Lake Šalek near Velenje.",
+                  "category": "historical",
+                  "coords": [
+                        15.127223,
+                        46.361628
+                  ]
+            },
+            {
+                  "name": "Ostanki gradu Gradišče",
+                  "text": "Ruins of a medieval castle on a hill above Velenje.",
+                  "category": "historical",
+                  "coords": [
+                        15.089282,
+                        46.357197
+                  ]
+            },
+            {
+                  "name": "Jakec",
+                  "text": "A viewpoint in Velenje offering views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.093098,
+                        46.357835
+                  ]
+            },
+            {
+                  "name": "Grad",
+                  "text": "A castle-shaped rock formation in the Velenje area.",
+                  "category": "natural",
+                  "coords": [
+                        15.110214,
+                        46.356596
+                  ]
+            },
+            {
+                  "name": "Venturin (KT – žig)",
+                  "text": "A mineral deposit with a certification stamp in Velenje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.136214,
+                        46.343128
+                  ]
+            },
+            {
+                  "name": "cerkev sv. Martina",
+                  "text": "Cerkev sv. Martina is a church dedicated to St. Martin in Velenje.",
+                  "category": "religious",
+                  "coords": [
+                        15.117093,
+                        46.364871
+                  ]
+            },
+            {
+                  "name": "Družmirsko jezero",
+                  "text": "A scenic lake formed by mining subsidence near Velenje.",
+                  "category": "natural",
+                  "coords": [
+                        15.065418,
+                        46.379847
+                  ]
+            },
+            {
+                  "name": "Podkrajsko otroško igrišče",
+                  "text": "A children's playground in the Podkraj district of Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.102691,
+                        46.355596
+                  ]
+            },
+            {
+                  "name": "Igrišče čebelice Maje",
+                  "text": "A themed playground featuring Maya the Bee in Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.125574,
+                        46.368064
+                  ]
+            },
+            {
+                  "name": "Pozojevo igrišče",
+                  "text": "A playground named after the dragon Pozoj in Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.091205,
+                        46.369022
+                  ]
+            },
+            {
+                  "name": "Mastodontovo igrišče",
+                  "text": "Mastodontovo igrišče is a playground in Velenje, offering space for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        15.090809,
+                        46.370545
+                  ]
+            },
+            {
+                  "name": "Rožletovo igrišče",
+                  "text": "A playground dedicated to the children's character Rožle in Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.106818,
+                        46.367924
+                  ]
+            },
+            {
+                  "name": "Otroški zabaviščni park Velenje",
+                  "text": "A children's amusement park with indoor and outdoor attractions in Velenje.",
+                  "category": "family",
+                  "coords": [
+                        15.092411,
+                        46.369975
+                  ]
+            },
+            {
+                  "name": "Mestno otroško igrišče",
+                  "text": "Mestno otroško igrišče is a city playground in Velenje, perfect for a short visit.",
+                  "category": "family",
+                  "coords": [
+                        15.11674,
+                        46.358023
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "city",
     name: { de: "Velenje", hu: "Velenje", ro: "Velenje", en: "Velenje"},
@@ -53,7 +710,7 @@ imageHint: "Velenje Castle and modern city skyline",
       "de": [
             {
                   "name": "Schloss Graben",
-                  "text": "Eine historische Burganlage in Novo Mesto.",
+                  "text": "Grad Graben ist eine mittelalterliche Burg auf einem Hügel über Novo Mesto.",
                   "category": "castle",
                   "coords": [
                         15.183564,
@@ -71,7 +728,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Tabletka",
-                  "text": "Ein modernes Denkmal in Novo Mesto.",
+                  "text": "Eine Gedenktafel an einem Gebäude in der Altstadt von Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.169477,
@@ -80,7 +737,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Skulptura Leona Štuklja",
-                  "text": "Eine Skulptur zu Ehren des Olympioniken Leon Štukelj.",
+                  "text": "Eine Bronzeskulptur des olympischen Turners Leon Štukelj in einem Park in Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.171205,
@@ -89,7 +746,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Seidlova cesta 1",
-                  "text": "Ein geschütztes Denkmal in Novo Mesto.",
+                  "text": "Ein historisches Gebäude mit reich verziertem Fassade an der Seidlova cesta 1 in Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.163228,
@@ -98,7 +755,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Poganci, Obeležje osamosvojitve",
-                  "text": "Ein Denkmal zur Unabhängigkeit Sloweniens.",
+                  "text": "Ein Denkmal zur Erinnerung an die Unabhängigkeit Sloweniens in Poganci bei Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.178809,
@@ -107,7 +764,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Porušena cerkev sv. Roka",
-                  "text": "Die Ruinen einer ehemaligen St.-Rochus-Kirche.",
+                  "text": "Ruinen der St. Rochus-Kirche auf einem Hügel oberhalb von Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.169035,
@@ -116,7 +773,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Mestna hiša",
-                  "text": "Das historische Rathaus von Novo Mesto aus dem Jahr 1905.",
+                  "text": "Das Rathaus von Novo Mesto (Mestna hiša) ist ein Renaissancebau aus dem 16. Jahrhundert am Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         15.170189,
@@ -125,7 +782,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Kapela Božjega groba",
-                  "text": "Eine Kapelle in Novo Mesto.",
+                  "text": "Kapela Božjega groba ist eine barocke Kapelle in Novo Mesto.",
                   "category": "religious",
                   "coords": [
                         15.174221,
@@ -134,7 +791,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "JŽ 25-019",
-                  "text": "Eine historische Dampflokomotive als Denkmal.",
+                  "text": "Dampflokomotive JŽ 25-019, erbaut 1920 in Novo Mesto.",
                   "category": "landmark",
                   "coords": [
                         15.153474,
@@ -143,7 +800,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Vrtec Pedenjped Novo mesto, enota METKA",
-                  "text": "Der Spielplatz Pedenjped in Novo Mesto ist ein einladender Ort für Kinder zum Spielen.",
+                  "text": "Ein Kindergarten mit großem Spielplatz im METKA-Viertel von Novo Mesto.",
                   "category": "family",
                   "coords": [
                         15.161725,
@@ -163,7 +820,7 @@ imageHint: "Velenje Castle and modern city skyline",
       "hu": [
             {
                   "name": "Grad Graben",
-                  "text": "Történelmi vár Novo Mesto területén.",
+                  "text": "A Grad Graben egy középkori vár egy dombon Novo Mesto felett.",
                   "category": "castle",
                   "coords": [
                         15.183564,
@@ -181,7 +838,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Tabletka",
-                  "text": "Modern emlékmű Novo Mesto területén.",
+                  "text": "Emléktábla egy épületen Novo Mesto óvárosában.",
                   "category": "historical",
                   "coords": [
                         15.169477,
@@ -190,7 +847,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Skulptura Leona Štuklja",
-                  "text": "Leon Štukelj olimpikon tiszteletére emelt szobor.",
+                  "text": "Leon Štukelj olimpiai tornász bronzszobra egy novo mestói parkban.",
                   "category": "historical",
                   "coords": [
                         15.171205,
@@ -199,7 +856,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Seidlova cesta 1",
-                  "text": "Műemlékvédelmi helyszín Novo Mesto területén.",
+                  "text": "Történelmi épület díszes homlokzattal a Seidlova cesta 1. szám alatt, Novo Mestóban.",
                   "category": "historical",
                   "coords": [
                         15.163228,
@@ -208,7 +865,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Poganci, Obeležje osamosvojitve",
-                  "text": "Szlovénia függetlenségének állított emlékmű.",
+                  "text": "Szlovénia függetlenségét megörökítő emlékmű Poganciban, Novo Mesto mellett.",
                   "category": "historical",
                   "coords": [
                         15.178809,
@@ -217,7 +874,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Porušena cerkev sv. Roka",
-                  "text": "Az egykori Szent Rókus-templom romjai.",
+                  "text": "Szent Rókus-templom romjai egy dombon Novo Mesto felett.",
                   "category": "historical",
                   "coords": [
                         15.169035,
@@ -226,7 +883,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Mestna hiša",
-                  "text": "Novo Mesto 1905-ben épült történelmi városháza.",
+                  "text": "A Novo mesto-i Városháza (Mestna hiša) egy 16. századi reneszánsz épület a főtéren.",
                   "category": "historical",
                   "coords": [
                         15.170189,
@@ -235,7 +892,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Kapela Božjega groba",
-                  "text": "Egy kápolna Novo Mesto területén.",
+                  "text": "A Kapela Božjega groba egy barokk kápolna Novom Mesatóban.",
                   "category": "religious",
                   "coords": [
                         15.174221,
@@ -244,7 +901,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "JŽ 25-019",
-                  "text": "Történelmi gőzmozdony, amely emlékműként szolgál.",
+                  "text": "JŽ 25-019 gőzmozdony, 1920-ban épült Novo Mestóban.",
                   "category": "landmark",
                   "coords": [
                         15.153474,
@@ -253,7 +910,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Vrtec Pedenjped Novo mesto, enota METKA",
-                  "text": "A Novo Mesto-i Pedenjped játszótér hívogató hely a gyerekek számára a játékhoz.",
+                  "text": "Óvoda nagy játszótérrel a Novo Mesto-i METKA negyedben.",
                   "category": "family",
                   "coords": [
                         15.161725,
@@ -273,7 +930,7 @@ imageHint: "Velenje Castle and modern city skyline",
       "ro": [
             {
                   "name": "Grad Graben",
-                  "text": "O fortăreață istorică în Novo Mesto.",
+                  "text": "Grad Graben este un castel medieval pe un deal deasupra Novog Mesata.",
                   "category": "castle",
                   "coords": [
                         15.183564,
@@ -291,7 +948,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Tabletka",
-                  "text": "Un monument modern în Novo Mesto.",
+                  "text": "O placă comemorativă pe o clădire din centrul vechi al orașului Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.169477,
@@ -300,7 +957,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Skulptura Leona Štuklja",
-                  "text": "O sculptură dedicată olimpicăului Leon Štukelj.",
+                  "text": "O sculptură de bronz a gimnastului olimpic Leon Štukelj într-un parc din Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.171205,
@@ -309,7 +966,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Seidlova cesta 1",
-                  "text": "Un monument protejat în Novo Mesto.",
+                  "text": "O clădire istorică cu fațadă ornamentată pe strada Seidlova cesta 1, în Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.163228,
@@ -318,7 +975,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Poganci, Obeležje osamosvojitve",
-                  "text": "Un monument dedicat independenței Sloveniei.",
+                  "text": "Un monument care comemorează independența Sloveniei în Poganci, lângă Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.178809,
@@ -327,7 +984,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Porušena cerkev sv. Roka",
-                  "text": "Ruinele fostei biserici Sfântul Rochus.",
+                  "text": "Ruinele bisericii Sf. Roch pe o colină deasupra orașului Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.169035,
@@ -336,7 +993,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Mestna hiša",
-                  "text": "Primăria istorică din Novo Mesto, construită în 1905.",
+                  "text": "Primăria din Novo Mesto (Mestna hiša) este o clădire renascentistă din secolul al XVI-lea în piața principală.",
                   "category": "historical",
                   "coords": [
                         15.170189,
@@ -345,7 +1002,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Kapela Božjega groba",
-                  "text": "O capelă în Novo Mesto.",
+                  "text": "Kapela Božjega groba este o capelă barocă în Novo Mesto.",
                   "category": "religious",
                   "coords": [
                         15.174221,
@@ -354,7 +1011,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "JŽ 25-019",
-                  "text": "O locomotivă istorică cu abur, expusă ca monument.",
+                  "text": "Locomotivă cu aburi JŽ 25-019 construită în 1920 în Novo Mesto.",
                   "category": "landmark",
                   "coords": [
                         15.153474,
@@ -363,7 +1020,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Vrtec Pedenjped Novo mesto, enota METKA",
-                  "text": "Locul de joacă Pedenjped din Novo Mesto este un spațiu primitor pentru joaca copiilor.",
+                  "text": "O grădiniță cu un loc de joacă mare în districtul METKA din Novo Mesto.",
                   "category": "family",
                   "coords": [
                         15.161725,
@@ -383,7 +1040,7 @@ imageHint: "Velenje Castle and modern city skyline",
       "en": [
             {
                   "name": "Grad Graben",
-                  "text": "A historic castle complex in Novo Mesto.",
+                  "text": "Grad Graben is a medieval castle on a hill above Novo Mesto.",
                   "category": "castle",
                   "coords": [
                         15.183564,
@@ -401,7 +1058,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Tabletka",
-                  "text": "A modern monument in Novo Mesto.",
+                  "text": "A commemorative tablet on a building in Novo Mesto's old town.",
                   "category": "historical",
                   "coords": [
                         15.169477,
@@ -410,7 +1067,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Skulptura Leona Štuklja",
-                  "text": "A sculpture honoring the Olympian Leon Štukelj.",
+                  "text": "A bronze sculpture of Olympic gymnast Leon Štukelj in a Novo Mesto park.",
                   "category": "historical",
                   "coords": [
                         15.171205,
@@ -419,7 +1076,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Seidlova cesta 1",
-                  "text": "A protected monument in Novo Mesto.",
+                  "text": "A historic building with an ornate facade at Seidlova cesta 1 in Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.163228,
@@ -428,7 +1085,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Poganci, Obeležje osamosvojitve",
-                  "text": "A monument dedicated to Slovenia's independence.",
+                  "text": "A monument marking Slovenia's independence in Poganci near Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.178809,
@@ -437,7 +1094,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Porušena cerkev sv. Roka",
-                  "text": "The ruins of the former St. Roch church.",
+                  "text": "Ruins of St. Roch's Church on a hill above Novo Mesto.",
                   "category": "historical",
                   "coords": [
                         15.169035,
@@ -446,7 +1103,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Mestna hiša",
-                  "text": "The historic town hall of Novo Mesto, built in 1905.",
+                  "text": "Mestna hiša (Town Hall) in Novo Mesto is a 16th-century Renaissance building on the main square.",
                   "category": "historical",
                   "coords": [
                         15.170189,
@@ -455,7 +1112,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Kapela Božjega groba",
-                  "text": "A chapel in Novo Mesto.",
+                  "text": "Kapela Božjega groba is a Baroque chapel in Novo Mesto.",
                   "category": "religious",
                   "coords": [
                         15.174221,
@@ -464,7 +1121,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "JŽ 25-019",
-                  "text": "A historic steam locomotive displayed as a monument.",
+                  "text": "Steam locomotive JŽ 25-019 built in 1920 in Novo Mesto.",
                   "category": "landmark",
                   "coords": [
                         15.153474,
@@ -473,7 +1130,7 @@ imageHint: "Velenje Castle and modern city skyline",
             },
             {
                   "name": "Vrtec Pedenjped Novo mesto, enota METKA",
-                  "text": "Vrtec Pedenjped playground in Novo Mesto is an inviting space for children to play.",
+                  "text": "A kindergarten with a large playground in the METKA district of Novo Mesto.",
                   "category": "family",
                   "coords": [
                         15.161725,
@@ -883,7 +1540,7 @@ imageHint: "Ptuj old town with castle and Drava river",
       "de": [
             {
                   "name": "Grad Zaprice",
-                  "text": "Historisches Schloss in Kamnik.",
+                  "text": "Das Schloss Zaprice ist ein Renaissanceschloss auf einem Hügel oberhalb von Kamnik, heute Museum.",
                   "category": "castle",
                   "coords": [
                         14.605664,
@@ -892,7 +1549,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Rojstna hiša Rudolfa Maistra",
-                  "text": "Museum über Rudolf Maister in Kamnik.",
+                  "text": "Das Geburtshaus von Rudolf Maister ist ein Museum, das dem Leben des slowenischen Generals und Dichters gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         14.608535,
@@ -901,7 +1558,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Samostan Mekinje",
-                  "text": "Kloster in Kamnik.",
+                  "text": "Samostan Mekinje ist ein Franziskanerkloster mit einer Barockkirche in Kamnik.",
                   "category": "religious",
                   "coords": [
                         14.615292,
@@ -910,7 +1567,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Dom kulture Kamnik",
-                  "text": "Theater in Kamnik.",
+                  "text": "Ein Kulturzentrum für Aufführungen und Ausstellungen im Zentrum von Kamnik.",
                   "category": "cultural",
                   "coords": [
                         14.609378,
@@ -919,7 +1576,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Galerija Miha Maleš",
-                  "text": "Kunstmuseum in Kamnik.",
+                  "text": "Eine Galerie, die die Gemälde von Miha Maleš in Kamnik zeigt.",
                   "category": "museum",
                   "coords": [
                         14.611979,
@@ -928,7 +1585,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Arboretum Volčji Potok",
-                  "text": "Weitläufiger botanischer Garten bei Kamnik.",
+                  "text": "Ein Arboretum mit exotischen Bäumen und einem japanischen Garten bei Kamnik.",
                   "category": "park",
                   "coords": [
                         14.6129,
@@ -937,7 +1594,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Budnarjeva muzejska hiša",
-                  "text": "Traditionelles Museumsgebäude in Kamnik.",
+                  "text": "Das Budnarjeva muzejska hiša (Budnar-Museumshaus) ist ein traditionelles Haus mit einer funktionierenden Schmiede in Kamnik.",
                   "category": "landmark",
                   "coords": [
                         14.649508,
@@ -946,7 +1603,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Stari grad",
-                  "text": "Aussichtspunkt bei der Burgruine in Kamnik.",
+                  "text": "Der Stari-grad-Hügel mit einer Burgruine und Blick auf die Kamniker Alpen.",
                   "category": "natural",
                   "coords": [
                         14.61686,
@@ -955,7 +1612,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Stari grad (Arboretum)",
-                  "text": "Der Stari grad in Kamnik ist ein beliebter Aussichtspunkt mit historischem Flair.",
+                  "text": "Ein bewaldeter Hügel mit einer Burgruine im Arboretum Volčji Potok.",
                   "category": "natural",
                   "coords": [
                         14.61302,
@@ -984,7 +1641,7 @@ imageHint: "Ptuj old town with castle and Drava river",
       "hu": [
             {
                   "name": "Grad Zaprice",
-                  "text": "Történelmi kastély Kamnikban.",
+                  "text": "A Zaprice-vár egy reneszánsz vár a Kamnik feletti dombon, ma múzeum.",
                   "category": "castle",
                   "coords": [
                         14.605664,
@@ -993,7 +1650,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Rojstna hiša Rudolfa Maistra",
-                  "text": "Rudolf Maister múzeum Kamnikban.",
+                  "text": "Rudolf Maister szülőháza múzeum, amely a szlovén tábornok és költő életét mutatja be.",
                   "category": "museum",
                   "coords": [
                         14.608535,
@@ -1002,7 +1659,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Samostan Mekinje",
-                  "text": "Kolostor Kamnikban.",
+                  "text": "A Samostan Mekinje egy ferences kolostor barokk templommal Kamnikban.",
                   "category": "religious",
                   "coords": [
                         14.615292,
@@ -1011,7 +1668,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Dom kulture Kamnik",
-                  "text": "Színház Kamnikban.",
+                  "text": "Előadásoknak és kiállításoknak otthont adó kulturális központ Kamnik központjában.",
                   "category": "cultural",
                   "coords": [
                         14.609378,
@@ -1020,7 +1677,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Galerija Miha Maleš",
-                  "text": "Művészeti múzeum Kamnikban.",
+                  "text": "Miha Maleš festményeit bemutató galéria Kamnikban.",
                   "category": "museum",
                   "coords": [
                         14.611979,
@@ -1029,7 +1686,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Arboretum Volčji Potok",
-                  "text": "Kiterjedt botanikus kert Kamniknál.",
+                  "text": "Exotikus fákkal és japánkerttel rendelkező arborétum Kamnik közelében.",
                   "category": "park",
                   "coords": [
                         14.6129,
@@ -1038,7 +1695,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Budnarjeva muzejska hiša",
-                  "text": "Hagyományos múzeumi épület Kamnikban.",
+                  "text": "A Budnarjeva muzejska hiša (Budnar Múzeumház) egy hagyományos ház működő kovácsműhellyel Kamnikban.",
                   "category": "landmark",
                   "coords": [
                         14.649508,
@@ -1047,7 +1704,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Stari grad",
-                  "text": "Kilátópont Kamnik romjainál.",
+                  "text": "Stari grad domb várrommal és kilátással a Kamniki-Alpokra.",
                   "category": "natural",
                   "coords": [
                         14.61686,
@@ -1056,7 +1713,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Stari grad (Arboretum)",
-                  "text": "A kamniki Stari grad egy népszerű kilátóhely történelmi hangulattal.",
+                  "text": "Erdős domb várrommal a Volčji Potok Arborétum területén.",
                   "category": "natural",
                   "coords": [
                         14.61302,
@@ -1085,7 +1742,7 @@ imageHint: "Ptuj old town with castle and Drava river",
       "ro": [
             {
                   "name": "Grad Zaprice",
-                  "text": "Castel istoric în Kamnik.",
+                  "text": "Castelul Zaprice este un castel renascentist pe un deal deasupra Kamnik-ului, acum muzeu.",
                   "category": "castle",
                   "coords": [
                         14.605664,
@@ -1094,7 +1751,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Rojstna hiša Rudolfa Maistra",
-                  "text": "Muzeu dedicat lui Rudolf Maister în Kamnik.",
+                  "text": "Casa natală a lui Rudolf Maister este un muzeu dedicat vieții generalului și poetului sloven.",
                   "category": "museum",
                   "coords": [
                         14.608535,
@@ -1103,7 +1760,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Samostan Mekinje",
-                  "text": "Mănăstire în Kamnik.",
+                  "text": "Samostan Mekinje este o mănăstire franciscană cu o biserică barocă în Kamnik.",
                   "category": "religious",
                   "coords": [
                         14.615292,
@@ -1112,7 +1769,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Dom kulture Kamnik",
-                  "text": "Teatru în Kamnik.",
+                  "text": "Un centru cultural pentru spectacole și expoziții în centrul orașului Kamnik.",
                   "category": "cultural",
                   "coords": [
                         14.609378,
@@ -1121,7 +1778,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Galerija Miha Maleš",
-                  "text": "Muzeu de artă în Kamnik.",
+                  "text": "O galerie care expune picturile lui Miha Maleš în Kamnik.",
                   "category": "museum",
                   "coords": [
                         14.611979,
@@ -1130,7 +1787,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Arboretum Volčji Potok",
-                  "text": "Grădină botanică întinsă lângă Kamnik.",
+                  "text": "Un arboretum cu arbori exotici și o grădină japoneză lângă Kamnik.",
                   "category": "park",
                   "coords": [
                         14.6129,
@@ -1139,7 +1796,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Budnarjeva muzejska hiša",
-                  "text": "Clădire muzeală tradițională în Kamnik.",
+                  "text": "Budnarjeva muzejska hiša (Casa-muzeu Budnar) este o casă tradițională cu o fierărie funcțională în Kamnik.",
                   "category": "landmark",
                   "coords": [
                         14.649508,
@@ -1148,7 +1805,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Stari grad",
-                  "text": "Punct de belvedere la ruinele castelului din Kamnik.",
+                  "text": "Dealul Stari grad cu o ruină de castel și vedere spre Alpii Kamnik.",
                   "category": "natural",
                   "coords": [
                         14.61686,
@@ -1157,7 +1814,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Stari grad (Arboretum)",
-                  "text": "Stari grad din Kamnik este un punct de belvedere popular cu o atmosferă istorică.",
+                  "text": "Un deal împădurit cu o ruină de castel în interiorul Arboretumului Volčji Potok.",
                   "category": "natural",
                   "coords": [
                         14.61302,
@@ -1186,7 +1843,7 @@ imageHint: "Ptuj old town with castle and Drava river",
       "en": [
             {
                   "name": "Grad Zaprice",
-                  "text": "Historic castle in Kamnik.",
+                  "text": "Grad Zaprice is a Renaissance castle on a hill above Kamnik, now a museum.",
                   "category": "castle",
                   "coords": [
                         14.605664,
@@ -1195,7 +1852,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Rojstna hiša Rudolfa Maistra",
-                  "text": "Museum dedicated to Rudolf Maister in Kamnik.",
+                  "text": "The birthplace of Rudolf Maister is a museum dedicated to the Slovenian general and poet.",
                   "category": "museum",
                   "coords": [
                         14.608535,
@@ -1204,7 +1861,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Samostan Mekinje",
-                  "text": "Monastery in Kamnik.",
+                  "text": "Samostan Mekinje is a Franciscan monastery with a Baroque church in Kamnik.",
                   "category": "religious",
                   "coords": [
                         14.615292,
@@ -1213,7 +1870,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Dom kulture Kamnik",
-                  "text": "Theatre in Kamnik.",
+                  "text": "A cultural center for performances and exhibitions in central Kamnik.",
                   "category": "cultural",
                   "coords": [
                         14.609378,
@@ -1222,7 +1879,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Galerija Miha Maleš",
-                  "text": "Art museum in Kamnik.",
+                  "text": "A gallery showcasing the paintings of Miha Maleš in Kamnik.",
                   "category": "museum",
                   "coords": [
                         14.611979,
@@ -1231,7 +1888,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Arboretum Volčji Potok",
-                  "text": "Extensive botanical garden near Kamnik.",
+                  "text": "An arboretum with exotic trees and a Japanese garden near Kamnik.",
                   "category": "park",
                   "coords": [
                         14.6129,
@@ -1240,7 +1897,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Budnarjeva muzejska hiša",
-                  "text": "Traditional museum building in Kamnik.",
+                  "text": "Budnarjeva muzejska hiša (Budnar Museum House) is a traditional Kamnik house with a working forge.",
                   "category": "landmark",
                   "coords": [
                         14.649508,
@@ -1249,7 +1906,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Stari grad",
-                  "text": "Viewpoint at the castle ruins in Kamnik.",
+                  "text": "Stari grad hill with a castle ruin and views of the Kamnik Alps.",
                   "category": "natural",
                   "coords": [
                         14.61686,
@@ -1258,7 +1915,7 @@ imageHint: "Ptuj old town with castle and Drava river",
             },
             {
                   "name": "Stari grad (Arboretum)",
-                  "text": "The Stari grad in Kamnik is a popular viewpoint with historical charm.",
+                  "text": "A wooded hill with a castle ruin inside the Arboretum Volčji Potok.",
                   "category": "natural",
                   "coords": [
                         14.61302,
@@ -1334,7 +1991,7 @@ imageHint: "Kamnik town center with Alps in background",
       "de": [
             {
                   "name": "4. DRITL",
-                  "text": "Ein Bergbaumuseum in Trbovlje.",
+                  "text": "Ein Kohlebergbaumuseum in einem ehemaligen Schacht in Trbovlje.",
                   "category": "museum",
                   "coords": [
                         15.044494,
@@ -1343,7 +2000,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Zasavski muzej Trbovlje",
-                  "text": "Das Regionalmuseum für das Save-Tal in Trbovlje.",
+                  "text": "Das Regionalmuseum Zasavje in einer historischen Villa in Trbovlje.",
                   "category": "museum",
                   "coords": [
                         15.043255,
@@ -1352,7 +2009,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Dom Svobode",
-                  "text": "Ein Kultur- und Theatergebäude in Trbovlje.",
+                  "text": "Eine historische Arbeiterhalle für kulturelle Veranstaltungen in Trbovlje.",
                   "category": "cultural",
                   "coords": [
                         15.05374,
@@ -1370,7 +2027,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Cerkev svetega Križa",
-                  "text": "Eine Kirche in Retje bei Trbovlje.",
+                  "text": "Die Kirche des Heiligen Kreuzes (Cerkev sv. Križa) ist eine gotische Kirche mit einem hölzernen Glockenturm in Retje bei Trbovlje.",
                   "category": "religious",
                   "coords": [
                         15.05565,
@@ -1379,7 +2036,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Otroško igrišče na Logu",
-                  "text": "Otroško igrišče na Logu ist ein Spielplatz in Trbovlje zur Familienerholung.",
+                  "text": "Ein Kinderspielplatz mit Schaukeln und Rutschen im Log-Viertel von Trbovlje.",
                   "category": "family",
                   "coords": [
                         15.08279,
@@ -1399,7 +2056,7 @@ imageHint: "Kamnik town center with Alps in background",
       "hu": [
             {
                   "name": "4. DRITL",
-                  "text": "Bányászati múzeum Trbovlje területén.",
+                  "text": "Szénbányászati múzeum egy egykori aknában Trbovljében.",
                   "category": "museum",
                   "coords": [
                         15.044494,
@@ -1408,7 +2065,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Zasavski muzej Trbovlje",
-                  "text": "A Száva-völgyi régió múzeuma Trbovljében.",
+                  "text": "A Zasavje regionális múzeum egy történelmi villában Trbovljében.",
                   "category": "museum",
                   "coords": [
                         15.043255,
@@ -1417,7 +2074,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Dom Svobode",
-                  "text": "Kulturális és színházi épület Trbovljében.",
+                  "text": "Történelmi munkáscsarnok kulturális események számára Trbovljében.",
                   "category": "cultural",
                   "coords": [
                         15.05374,
@@ -1435,7 +2092,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Cerkev svetega Križa",
-                  "text": "Egy templom Retje településen, Trbovlje közelében.",
+                  "text": "A Szent Kereszt-templom (Cerkev sv. Križa) egy gótikus templom fa harangtoronnyal a Trbovlje melletti Retjében.",
                   "category": "religious",
                   "coords": [
                         15.05565,
@@ -1444,7 +2101,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Otroško igrišče na Logu",
-                  "text": "Az Otroško igrišče na Logu egy játszótér Trbovlje városában a családi kikapcsolódáshoz.",
+                  "text": "Gyermekjátszótér hintákkal és csúszdákkal a trbovljei Log negyedben.",
                   "category": "family",
                   "coords": [
                         15.08279,
@@ -1464,7 +2121,7 @@ imageHint: "Kamnik town center with Alps in background",
       "ro": [
             {
                   "name": "4. DRITL",
-                  "text": "Un muzeu minier în Trbovlje.",
+                  "text": "Un muzeu al mineritului de cărbune într-un fost puț minier în Trbovlje.",
                   "category": "museum",
                   "coords": [
                         15.044494,
@@ -1473,7 +2130,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Zasavski muzej Trbovlje",
-                  "text": "Muzeul regional pentru valea Savei din Trbovlje.",
+                  "text": "Muzeul regional Zasavje într-o vilă istorică din Trbovlje.",
                   "category": "museum",
                   "coords": [
                         15.043255,
@@ -1482,7 +2139,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Dom Svobode",
-                  "text": "O clădire culturală și de teatru în Trbovlje.",
+                  "text": "O sală istorică a muncitorilor folosită pentru evenimente culturale în Trbovlje.",
                   "category": "cultural",
                   "coords": [
                         15.05374,
@@ -1500,7 +2157,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Cerkev svetega Križa",
-                  "text": "O biserică în Retje, lângă Trbovlje.",
+                  "text": "Biserica Sfintei Cruci (Cerkev sv. Križa) este o biserică gotică cu un turn clopotniță din lemn în Retje, lângă Trbovlje.",
                   "category": "religious",
                   "coords": [
                         15.05565,
@@ -1509,7 +2166,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Otroško igrišče na Logu",
-                  "text": "Otroško igrišče na Logu este un teren de joacă în Trbovlje pentru recreere în familie.",
+                  "text": "Un loc de joacă pentru copii cu leagăne și tobogane în districtul Log din Trbovlje.",
                   "category": "family",
                   "coords": [
                         15.08279,
@@ -1529,7 +2186,7 @@ imageHint: "Kamnik town center with Alps in background",
       "en": [
             {
                   "name": "4. DRITL",
-                  "text": "A mining museum in Trbovlje.",
+                  "text": "A coal mining museum in a former mine shaft in Trbovlje.",
                   "category": "museum",
                   "coords": [
                         15.044494,
@@ -1538,7 +2195,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Zasavski muzej Trbovlje",
-                  "text": "The regional museum for the Sava Valley in Trbovlje.",
+                  "text": "The Zasavje regional museum in a historic villa in Trbovlje.",
                   "category": "museum",
                   "coords": [
                         15.043255,
@@ -1547,7 +2204,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Dom Svobode",
-                  "text": "A cultural and theatre building in Trbovlje.",
+                  "text": "A historic workers' hall used for cultural events in Trbovlje.",
                   "category": "cultural",
                   "coords": [
                         15.05374,
@@ -1565,7 +2222,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Cerkev svetega Križa",
-                  "text": "A church in Retje near Trbovlje.",
+                  "text": "Cerkev svetega Križa (Church of the Holy Cross) is a Gothic church with a wooden belfry in Retje near Trbovlje.",
                   "category": "religious",
                   "coords": [
                         15.05565,
@@ -1574,7 +2231,7 @@ imageHint: "Kamnik town center with Alps in background",
             },
             {
                   "name": "Otroško igrišče na Logu",
-                  "text": "Otroško igrišče na Logu is a playground in Trbovlje for family recreation.",
+                  "text": "A children's playground with swings and slides in the Log district of Trbovlje.",
                   "category": "family",
                   "coords": [
                         15.08279,
@@ -1677,7 +2334,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Dolik",
-                  "text": "Eine Kunstgalerie in Jesenice, die lokale Werke präsentiert.",
+                  "text": "Ein Eisenverarbeitungsmuseum in einer ehemaligen Gießerei in Jesenice.",
                   "category": "museum",
                   "coords": [
                         14.057372,
@@ -1704,7 +2361,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Poljanska baba",
-                  "text": "Eine markante Felsformation in der Nähe von Jesenice.",
+                  "text": "Eine weiblich geformte Felsformation am Berg Mežakla bei Jesenice.",
                   "category": "landmark",
                   "coords": [
                         14.077658,
@@ -1713,7 +2370,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Mali Jelenkamen",
-                  "text": "Ein Aussichtspunkt, der weite Blicke über das Tal bietet.",
+                  "text": "Ein kleiner Felsgipfel auf dem Mežakla-Plateau bei Jesenice.",
                   "category": "natural",
                   "coords": [
                         14.072987,
@@ -1722,7 +2379,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Razgledišče Špica na Mežakli",
-                  "text": "Ein beliebter Panoramapunkt auf der Mežakla-Hochebene.",
+                  "text": "Ein Aussichtspunkt auf dem Berg Mežakla mit Blick auf die Julischen Alpen.",
                   "category": "natural",
                   "coords": [
                         14.044557,
@@ -1740,7 +2397,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Cerkev Sv. Lenarta",
-                  "text": "Eine spätgotische Kirche, die dem heiligen Leonhard gewidmet ist.",
+                  "text": "Die St.-Leonhards-Kirche (Cerkev sv. Lenarta) ist eine gotische Kirche auf einem Hügel über Jesenice.",
                   "category": "religious",
                   "coords": [
                         14.049584,
@@ -1787,7 +2444,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Dolik",
-                  "text": "Művészeti galéria Jesenicében, amely helyi alkotásokat mutat be.",
+                  "text": "Vasfeldolgozási múzeum egy egykori öntödében Jesenicében.",
                   "category": "museum",
                   "coords": [
                         14.057372,
@@ -1814,7 +2471,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Poljanska baba",
-                  "text": "Jellegzetes sziklaalakzat Jesenice közelében.",
+                  "text": "Női formájú sziklaalakzat a Mežakla-hegyen Jesenice mellett.",
                   "category": "landmark",
                   "coords": [
                         14.077658,
@@ -1823,7 +2480,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Mali Jelenkamen",
-                  "text": "Kilátópont, amely széles panorámát nyújt a völgyre.",
+                  "text": "Kis sziklás csúcs a Mežakla-fennsíkon Jesenice közelében.",
                   "category": "natural",
                   "coords": [
                         14.072987,
@@ -1832,7 +2489,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Razgledišče Špica na Mežakli",
-                  "text": "Népszerű panorámás kilátóhely a Mežakla-fennsíkon.",
+                  "text": "Kilátó a Mežaklán a Julián-Alpokra tekintő panorámával.",
                   "category": "natural",
                   "coords": [
                         14.044557,
@@ -1850,7 +2507,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Cerkev Sv. Lenarta",
-                  "text": "Szent Lénártnak szentelt késő gótikus templom.",
+                  "text": "A Szent Lénárd-templom (Cerkev sv. Lenarta) egy gótikus templom a Jesenice feletti dombon.",
                   "category": "religious",
                   "coords": [
                         14.049584,
@@ -1897,7 +2554,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Dolik",
-                  "text": "O galerie de artă în Jesenice care prezintă lucrări locale.",
+                  "text": "Un muzeu al prelucrării fierului într-o fostă turnătorie în Jesenice.",
                   "category": "museum",
                   "coords": [
                         14.057372,
@@ -1924,7 +2581,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Poljanska baba",
-                  "text": "O formațiune stâncoasă distinctivă în apropiere de Jesenice.",
+                  "text": "O formațiune stâncoasă în formă de femeie pe muntele Mežakla lângă Jesenice.",
                   "category": "landmark",
                   "coords": [
                         14.077658,
@@ -1933,7 +2590,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Mali Jelenkamen",
-                  "text": "Un punct de belvedere ce oferă vederi largi asupra văii.",
+                  "text": "Un vârf stâncos mic pe platoul Mežakla lângă Jesenice.",
                   "category": "natural",
                   "coords": [
                         14.072987,
@@ -1942,7 +2599,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Razgledišče Špica na Mežakli",
-                  "text": "Un punct panoramic popular pe platoul Mežakla.",
+                  "text": "Un punct de belvedere pe muntele Mežakla cu vedere spre Alpii Iulieni.",
                   "category": "natural",
                   "coords": [
                         14.044557,
@@ -1960,7 +2617,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Cerkev Sv. Lenarta",
-                  "text": "O biserică în stil gotic târziu dedicată Sfântului Leonard.",
+                  "text": "Biserica Sfântul Leonard (Cerkev sv. Lenarta) este o biserică gotică pe un deal deasupra Jesenice.",
                   "category": "religious",
                   "coords": [
                         14.049584,
@@ -2007,7 +2664,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Dolik",
-                  "text": "An art gallery in Jesenice showcasing local works.",
+                  "text": "An ironworking museum in a former foundry in Jesenice.",
                   "category": "museum",
                   "coords": [
                         14.057372,
@@ -2034,7 +2691,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Poljanska baba",
-                  "text": "A distinctive rock formation located near Jesenice.",
+                  "text": "A rock formation shaped like a woman on Mount Mežakla near Jesenice.",
                   "category": "landmark",
                   "coords": [
                         14.077658,
@@ -2043,7 +2700,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Mali Jelenkamen",
-                  "text": "A viewpoint offering expansive views over the valley.",
+                  "text": "A small rocky peak on the Mežakla plateau near Jesenice.",
                   "category": "natural",
                   "coords": [
                         14.072987,
@@ -2052,7 +2709,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Razgledišče Špica na Mežakli",
-                  "text": "A popular panoramic viewpoint on the Mežakla plateau.",
+                  "text": "A viewpoint on Mount Mežakla overlooking the Julian Alps.",
                   "category": "natural",
                   "coords": [
                         14.044557,
@@ -2070,7 +2727,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
             },
             {
                   "name": "Cerkev Sv. Lenarta",
-                  "text": "A late Gothic church dedicated to Saint Leonard.",
+                  "text": "St. Leonard's Church (Cerkev Sv. Lenarta) is a Gothic church on a hill above Jesenice.",
                   "category": "religious",
                   "coords": [
                         14.049584,
@@ -2146,7 +2803,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Expano Paviljon",
-                  "text": "Ein interaktiver Pavillon am Sobota-See.",
+                  "text": "Expano, ein moderner Ausstellungspavillon in Murska Sobota.",
                   "category": "landmark",
                   "coords": [
                         16.166139,
@@ -2155,7 +2812,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Galerija Robin",
-                  "text": "Eine Kunstgalerie in Murska Sobota.",
+                  "text": "Eine Galerie für zeitgenössische Kunst in einem historischen Gebäude in Murska Sobota.",
                   "category": "museum",
                   "coords": [
                         16.167566,
@@ -2164,7 +2821,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Evangeličanska cerkev",
-                  "text": "Eine evangelische Kirche in Murska Sobota.",
+                  "text": "Die evangelische Kirche (Evangeličanska cerkev) ist ein Kirchenbau aus dem frühen 20. Jahrhundert in Murska Sobota.",
                   "category": "religious",
                   "coords": [
                         16.16539,
@@ -2173,7 +2830,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Stolna cerkev sv. Nikolaja",
-                  "text": "Die Kathedrale des heiligen Nikolaus in Murska Sobota.",
+                  "text": "Die Kathedrale des heiligen Nikolaus (Stolna cerkev sv. Nikolaja) ist eine neugotische Kathedrale mit einem hohen Turm in Murska Sobota.",
                   "category": "religious",
                   "coords": [
                         16.170088,
@@ -2247,7 +2904,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Expano Paviljon",
-                  "text": "Interaktív pavilon a Muraszombati-tónál.",
+                  "text": "Expano, egy modern kiállítási pavilon Murska Sobotában.",
                   "category": "landmark",
                   "coords": [
                         16.166139,
@@ -2256,7 +2913,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Galerija Robin",
-                  "text": "Művészeti galéria Muraszombatban.",
+                  "text": "Kortárs művészeti galéria egy történelmi épületben Murska Sobotában.",
                   "category": "museum",
                   "coords": [
                         16.167566,
@@ -2265,7 +2922,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Evangeličanska cerkev",
-                  "text": "Evangélikus templom Muraszombatban.",
+                  "text": "Az evangélikus templom (Evangeličanska cerkev) egy 20. század eleji templom Murska Sobotában.",
                   "category": "religious",
                   "coords": [
                         16.16539,
@@ -2274,7 +2931,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Szent Miklós székesegyház",
-                  "text": "Szent Miklós-székesegyház Muraszombatban.",
+                  "text": "A Szent Miklós-székesegyház (Stolna cerkev sv. Nikolaja) egy neogótikus katedrális magas toronnyal Murska Sobotában.",
                   "category": "religious",
                   "coords": [
                         16.170088,
@@ -2348,7 +3005,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Expano Paviljon",
-                  "text": "Un pavilion interactiv pe malul lacului Sobota.",
+                  "text": "Expano, un pavilion modern de expoziții în Murska Sobota.",
                   "category": "landmark",
                   "coords": [
                         16.166139,
@@ -2357,7 +3014,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Galerija Robin",
-                  "text": "O galerie de artă în Murska Sobota.",
+                  "text": "O galerie de artă contemporană într-o clădire istorică din Murska Sobota.",
                   "category": "museum",
                   "coords": [
                         16.167566,
@@ -2366,7 +3023,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Evangeličanska cerkev",
-                  "text": "O biserică evanghelică în Murska Sobota.",
+                  "text": "Biserica evanghelică (Evangeličanska cerkev) este o biserică de la începutul secolului XX în Murska Sobota.",
                   "category": "religious",
                   "coords": [
                         16.16539,
@@ -2375,7 +3032,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Stolna cerkev sv. Nikolaja",
-                  "text": "Catedrala Sfântul Nicolae din Murska Sobota.",
+                  "text": "Catedrala Sfântul Nicolae (Stolna cerkev sv. Nikolaja) este o catedrală neogotică cu un turn înalt în Murska Sobota.",
                   "category": "religious",
                   "coords": [
                         16.170088,
@@ -2449,7 +3106,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Expano Paviljon",
-                  "text": "An interactive pavilion by Lake Sobota.",
+                  "text": "Expano, a modern exhibition pavilion in Murska Sobota.",
                   "category": "landmark",
                   "coords": [
                         16.166139,
@@ -2458,7 +3115,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Galerija Robin",
-                  "text": "An art gallery in Murska Sobota.",
+                  "text": "A contemporary art gallery in a historic building in Murska Sobota.",
                   "category": "museum",
                   "coords": [
                         16.167566,
@@ -2467,7 +3124,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Evangeličanska cerkev",
-                  "text": "An Evangelical church in Murska Sobota.",
+                  "text": "The Lutheran Church (Evangeličanska cerkev) is an early 20th-century church in Murska Sobota.",
                   "category": "religious",
                   "coords": [
                         16.16539,
@@ -2476,7 +3133,7 @@ imageHint: "Jesenice city view with steel works and mountains",
             },
             {
                   "name": "Stolna cerkev sv. Nikolaja",
-                  "text": "St. Nicholas Cathedral in Murska Sobota.",
+                  "text": "St. Nicholas Cathedral (Stolna cerkev sv. Nikolaja) is a Neo-Gothic cathedral with a tall spire in Murska Sobota.",
                   "category": "religious",
                   "coords": [
                         16.170088,
@@ -2579,7 +3236,7 @@ imageHint: "Murska Sobota Castle in the city park",
       "de": [
             {
                   "name": "Teatro Verdi",
-                  "text": "Ein historisches Theatergebäude in Nova Gorica.",
+                  "text": "Das Teatro Verdi ist ein historisches Theater in Nova Gorica.",
                   "category": "cultural",
                   "coords": [
                         13.620283,
@@ -2588,7 +3245,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Museo Santa Chiara",
-                  "text": "Ein Museum in Nova Gorica.",
+                  "text": "Museo Santa Chiara ist ein Museum in einem ehemaligen Kloster in Nova Gorica.",
                   "category": "museum",
                   "coords": [
                         13.622978,
@@ -2597,7 +3254,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Castello di Gorizia",
-                  "text": "Eine mittelalterliche Festung, die über der Stadt thront.",
+                  "text": "Die Burg Gorizia ist eine mittelalterliche Burg auf einem Hügel mit Blick auf die Stadt und den Fluss Isonzo.",
                   "category": "castle",
                   "coords": [
                         13.627762,
@@ -2606,7 +3263,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Palazzo Coronini Cronberg",
-                  "text": "Ein historischer Palast, der heute ein Museum beherbergt.",
+                  "text": "Der Palazzo Coronini Cronberg ist ein Renaissancepalast mit einem großen Park, heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         13.620373,
@@ -2642,7 +3299,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Magic Stage",
-                  "text": "Ein lokaler Theater- und Veranstaltungsort in Nova Gorica.",
+                  "text": "Eine Freilichtbühne für Konzerte und Festivals in Nova Gorica.",
                   "category": "cultural",
                   "coords": [
                         13.623131,
@@ -2759,7 +3416,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Ikarus",
-                  "text": "Ein modernes Denkmal in Nova Gorica, das dem Fliegen gewidmet ist.",
+                  "text": "Skulptur „Ikarus“ von 1960 von Janez Lenassi in Nova Gorica.",
                   "category": "historical",
                   "coords": [
                         13.646762,
@@ -2795,7 +3452,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "DAG – Digital Art Gallery",
-                  "text": "Ein Ausstellungsraum für digitale Kunst und moderne Medien.",
+                  "text": "Eine Galerie für digitale Kunst und Neue Medien in Nova Gorica.",
                   "category": "museum",
                   "coords": [
                         13.626336,
@@ -2813,7 +3470,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Gradič Mafejšče",
-                  "text": "Ein kleines, historisches Herrenhaus in der Nähe von Nova Gorica.",
+                  "text": "Ein historisches Herrenhaus umgeben von Weinbergen bei Nova Gorica.",
                   "category": "historical",
                   "coords": [
                         13.645131,
@@ -2885,7 +3542,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Chiesa di San Mauro",
-                  "text": "Eine markante Kirche, die auf einem Hügel über der Stadt liegt.",
+                  "text": "Die Kirche San Mauro ist eine barocke Kirche im Zentrum von Gorizia, dem heiligen Maurus geweiht.",
                   "category": "religious",
                   "coords": [
                         13.629757,
@@ -2903,7 +3560,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "San Pio X",
-                  "text": "Ein modernes Kirchengebäude, das dem Heiligen Pius X. gewidmet ist.",
+                  "text": "San Pio X ist eine moderne Kirche in Nova Gorica, Papst Pius X. geweiht.",
                   "category": "religious",
                   "coords": [
                         13.612882,
@@ -2986,7 +3643,7 @@ imageHint: "Murska Sobota Castle in the city park",
       "hu": [
             {
                   "name": "Teatro Verdi",
-                  "text": "Történelmi színházépület Nova Gorica területén.",
+                  "text": "A Teatro Verdi egy történelmi színház Nova Goricában.",
                   "category": "cultural",
                   "coords": [
                         13.620283,
@@ -2995,7 +3652,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Museo Santa Chiara",
-                  "text": "Múzeum Nova Gorica területén.",
+                  "text": "A Museo Santa Chiara egy múzeum egykori kolostorban Nova Goricában.",
                   "category": "museum",
                   "coords": [
                         13.622978,
@@ -3004,7 +3661,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Castello di Gorizia / Cjiscjel di Gurize / Goriški grad",
-                  "text": "A város fölé magasodó középkori erődítmény.",
+                  "text": "A Gorizia-vár egy középkori vár egy dombon, rálátással a városra és az Isonzó folyóra.",
                   "category": "castle",
                   "coords": [
                         13.627762,
@@ -3013,7 +3670,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Palazzo Coronini Cronberg",
-                  "text": "Történelmi palota, amely ma múzeumnak ad otthont.",
+                  "text": "A Palazzo Coronini Cronberg egy reneszánsz palota nagy parkkal, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         13.620373,
@@ -3049,7 +3706,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Magic Stage",
-                  "text": "Helyi színház és rendezvényhelyszín Nova Gorica városában.",
+                  "text": "Szabadtéri színpad koncerteknek és fesztiváloknak Nova Goricában.",
                   "category": "cultural",
                   "coords": [
                         13.623131,
@@ -3166,7 +3823,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Ikarus",
-                  "text": "A repülésnek szentelt modern emlékmű Nova Gorica városában.",
+                  "text": "„Ikarus” szobor 1960-ból, Janez Lenassi alkotása Nova Goricában.",
                   "category": "historical",
                   "coords": [
                         13.646762,
@@ -3202,7 +3859,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "DAG – Digital Art Gallery",
-                  "text": "Digitális művészeti és modern média kiállítóhely.",
+                  "text": "Digitális művészeti és új médiás galéria Nova Goricában.",
                   "category": "museum",
                   "coords": [
                         13.626336,
@@ -3220,7 +3877,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Gradič Mafejšče",
-                  "text": "Kisméretű, történelmi kúria Nova Gorica közelében.",
+                  "text": "Történelmi kúria szőlőültetvényekkel körülvéve Nova Gorica mellett.",
                   "category": "historical",
                   "coords": [
                         13.645131,
@@ -3292,7 +3949,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Chiesa di San Mauro",
-                  "text": "Jellegzetes templom, amely a város feletti dombon található.",
+                  "text": "A San Mauro-templom egy barokk templom Gorizia központjában, Szent Maurusnak szentelve.",
                   "category": "religious",
                   "coords": [
                         13.629757,
@@ -3310,7 +3967,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "San Pio X",
-                  "text": "Szent X. Piusznak szentelt modern templomépület.",
+                  "text": "A San Pio X egy modern templom Nova Goricában, X. Piusz pápának szentelve.",
                   "category": "religious",
                   "coords": [
                         13.612882,
@@ -3393,7 +4050,7 @@ imageHint: "Murska Sobota Castle in the city park",
       "ro": [
             {
                   "name": "Teatro Verdi",
-                  "text": "O clădire istorică de teatru în Nova Gorica.",
+                  "text": "Teatro Verdi este un teatru istoric în Nova Gorica.",
                   "category": "cultural",
                   "coords": [
                         13.620283,
@@ -3402,7 +4059,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Museo Santa Chiara",
-                  "text": "Un muzeu în Nova Gorica.",
+                  "text": "Museo Santa Chiara este un muzeu într-o fostă mănăstire în Nova Gorica.",
                   "category": "museum",
                   "coords": [
                         13.622978,
@@ -3411,7 +4068,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Castello di Gorizia / Cjiscjel di Gurize / Goriški grad",
-                  "text": "O fortăreață medievală care domină orașul.",
+                  "text": "Castelul Gorizia este un castel medieval pe un deal, cu vedere asupra orașului și râului Isonzo.",
                   "category": "castle",
                   "coords": [
                         13.627762,
@@ -3420,7 +4077,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Palazzo Coronini Cronberg",
-                  "text": "Un palat istoric care astăzi găzduiește un muzeu.",
+                  "text": "Palazzo Coronini Cronberg este un palat renascentist cu un parc mare, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         13.620373,
@@ -3456,7 +4113,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Magic Stage",
-                  "text": "Un loc local de teatru și evenimente în Nova Gorica.",
+                  "text": "O scenă în aer liber pentru concerte și festivaluri în Nova Gorica.",
                   "category": "cultural",
                   "coords": [
                         13.623131,
@@ -3573,7 +4230,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Ikarus",
-                  "text": "Un monument modern în Nova Gorica, dedicat zborului.",
+                  "text": "Sculptură „Icar” din 1960 de Janez Lenassi în Nova Gorica.",
                   "category": "historical",
                   "coords": [
                         13.646762,
@@ -3609,7 +4266,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "DAG – Digital Art Gallery",
-                  "text": "Un spațiu de expoziție pentru artă digitală și media moderne.",
+                  "text": "O galerie de artă digitală și noi media în Nova Gorica.",
                   "category": "museum",
                   "coords": [
                         13.626336,
@@ -3627,7 +4284,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Gradič Mafejšče",
-                  "text": "Un conac istoric de dimensiuni mici lângă Nova Gorica.",
+                  "text": "Un conac istoric înconjurat de podgorii lângă Nova Gorica.",
                   "category": "historical",
                   "coords": [
                         13.645131,
@@ -3699,7 +4356,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Chiesa di San Mauro",
-                  "text": "O biserică distinctivă situată pe un deal deasupra orașului.",
+                  "text": "Biserica San Mauro este o biserică barocă în centrul orașului Gorizia, dedicată Sfântului Maurus.",
                   "category": "religious",
                   "coords": [
                         13.629757,
@@ -3717,7 +4374,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "San Pio X",
-                  "text": "O clădire modernă de biserică dedicată Sfântului Pius al X-lea.",
+                  "text": "San Pio X este o biserică modernă în Nova Gorica, dedicată Papei Pius al X-lea.",
                   "category": "religious",
                   "coords": [
                         13.612882,
@@ -3800,7 +4457,7 @@ imageHint: "Murska Sobota Castle in the city park",
       "en": [
             {
                   "name": "Teatro Verdi",
-                  "text": "A historic theatre building in Nova Gorica.",
+                  "text": "Teatro Verdi is a historic theatre in Nova Gorica.",
                   "category": "cultural",
                   "coords": [
                         13.620283,
@@ -3809,7 +4466,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Museo Santa Chiara",
-                  "text": "A museum in Nova Gorica.",
+                  "text": "Museo Santa Chiara is a museum in a former monastery in Nova Gorica.",
                   "category": "museum",
                   "coords": [
                         13.622978,
@@ -3818,7 +4475,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Gorizia Castle",
-                  "text": "A medieval fortress overlooking the city.",
+                  "text": "Gorizia Castle is a medieval castle on a hill overlooking the town and the Soča River.",
                   "category": "castle",
                   "coords": [
                         13.627762,
@@ -3827,7 +4484,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Palazzo Coronini Cronberg",
-                  "text": "A historic palace that now houses a museum.",
+                  "text": "Palazzo Coronini Cronberg is a Renaissance palace with a large park, now a museum.",
                   "category": "museum",
                   "coords": [
                         13.620373,
@@ -3863,7 +4520,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Magic Stage",
-                  "text": "A local theatre and event venue in Nova Gorica.",
+                  "text": "An open-air stage for concerts and festivals in Nova Gorica.",
                   "category": "cultural",
                   "coords": [
                         13.623131,
@@ -3980,7 +4637,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Ikarus",
-                  "text": "A modern monument in Nova Gorica dedicated to flight.",
+                  "text": "Sculpture 'Ikarus' created in 1960 by Janez Lenassi in Nova Gorica.",
                   "category": "historical",
                   "coords": [
                         13.646762,
@@ -4016,7 +4673,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "DAG – Digital Art Gallery",
-                  "text": "An exhibition space for digital art and modern media.",
+                  "text": "A gallery for digital art and new media in Nova Gorica.",
                   "category": "museum",
                   "coords": [
                         13.626336,
@@ -4034,7 +4691,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Gradič Mafejšče",
-                  "text": "A small, historic manor house near Nova Gorica.",
+                  "text": "A historic manor house surrounded by vineyards near Nova Gorica.",
                   "category": "historical",
                   "coords": [
                         13.645131,
@@ -4106,7 +4763,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "Chiesa di San Mauro",
-                  "text": "A distinctive church located on a hill above the city.",
+                  "text": "Chiesa di San Mauro is a Baroque church in the center of Gorizia, dedicated to St. Maurus.",
                   "category": "religious",
                   "coords": [
                         13.629757,
@@ -4124,7 +4781,7 @@ imageHint: "Murska Sobota Castle in the city park",
             },
             {
                   "name": "San Pio X",
-                  "text": "A modern church building dedicated to Saint Pius X.",
+                  "text": "San Pio X is a modern church in Nova Gorica, dedicated to Pope Pius X.",
                   "category": "religious",
                   "coords": [
                         13.612882,
@@ -4263,7 +4920,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Vagon",
-                  "text": "Ein kleiner Veranstaltungsort für Theateraufführungen in Domžale.",
+                  "text": "Ein Kulturort in einem ehemaligen Eisenbahnwaggon in Domžale.",
                   "category": "cultural",
                   "coords": [
                         14.605069,
@@ -4281,7 +4938,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Razgledna ploščad Šumberk",
-                  "text": "Eine Aussichtsplattform auf dem Hügel Šumberk.",
+                  "text": "Eine Aussichtsplattform auf dem Šumberk-Hügel mit Blick auf Domžale und das Laibacher Becken.",
                   "category": "natural",
                   "coords": [
                         14.605017,
@@ -4299,7 +4956,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Cerkev sv. Pavla",
-                  "text": "Eine lokale Kirche, die dem heiligen Paulus gewidmet ist.",
+                  "text": "Cerkev sv. Pavla ist eine dem Apostel Paulus geweihte Kirche in Domžale.",
                   "category": "religious",
                   "coords": [
                         14.599188,
@@ -4319,7 +4976,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Vagon",
-                  "text": "Kisméretű színházi előadások helyszíne Domžale városában.",
+                  "text": "Kulturális helyszín egy egykori vasúti kocsiban Domžaleban.",
                   "category": "cultural",
                   "coords": [
                         14.605069,
@@ -4337,7 +4994,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Razgledna ploščad Šumberk",
-                  "text": "Kilátóterasz a Šumberk-dombon.",
+                  "text": "Kilátóplatform a Šumberk-dombon, rálátással Domžale-ra és a Ljubljanai-medencére.",
                   "category": "natural",
                   "coords": [
                         14.605017,
@@ -4355,7 +5012,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Cerkev sv. Pavla",
-                  "text": "Szent Pálnak szentelt helyi templom.",
+                  "text": "A Cerkev sv. Pavla egy Pál apostolnak szentelt templom Domžaléban.",
                   "category": "religious",
                   "coords": [
                         14.599188,
@@ -4375,7 +5032,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Vagon",
-                  "text": "Un mic spațiu cultural pentru spectacole de teatru în Domžale.",
+                  "text": "Un loc cultural într-un fost vagon de tren în Domžale.",
                   "category": "cultural",
                   "coords": [
                         14.605069,
@@ -4393,7 +5050,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Razgledna ploščad Šumberk",
-                  "text": "O platformă de belvedere situată pe dealul Šumberk.",
+                  "text": "O platformă de observație pe dealul Šumberk cu vedere spre Domžale și Bazinul Ljubljana.",
                   "category": "natural",
                   "coords": [
                         14.605017,
@@ -4411,7 +5068,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Cerkev sv. Pavla",
-                  "text": "O biserică locală dedicată Sfântului Pavel.",
+                  "text": "Cerkev sv. Pavla este o biserică dedicată Apostolului Pavel în Domžale.",
                   "category": "religious",
                   "coords": [
                         14.599188,
@@ -4431,7 +5088,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Vagon",
-                  "text": "A small venue for theatrical performances in Domžale.",
+                  "text": "A cultural venue in a former railway carriage in Domžale.",
                   "category": "cultural",
                   "coords": [
                         14.605069,
@@ -4449,7 +5106,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Razgledna ploščad Šumberk",
-                  "text": "A viewing platform located on the Šumberk hill.",
+                  "text": "A viewing platform on Šumberk hill with views of Domžale and the Ljubljana Basin.",
                   "category": "natural",
                   "coords": [
                         14.605017,
@@ -4467,7 +5124,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
             },
             {
                   "name": "Cerkev sv. Pavla",
-                  "text": "A local church dedicated to Saint Paul.",
+                  "text": "Cerkev sv. Pavla is a church dedicated to St. Paul in Domžale.",
                   "category": "religious",
                   "coords": [
                         14.599188,
@@ -4521,7 +5178,880 @@ imageHint: "Domzale town center and sports park",
     },
     image: "/poi-images/slovenia-domzale-cities-v2.webp",
 },  {
-    id: "slovenia-izola-cities-v2", "sights": {"de": [{"name": "Rimska vila in pristanišče Haliaetum Izola", "text": "Haliaetum ist eine archäologische Stätte in Izola, die die Überreste einer antiken römischen Villa und eines Hafens zeigt.", "category": "historical", "coords": [13.646995, 45.533197]}, {"name": "Krajinski park Strunjan", "text": "Der Krajinski Park Strunjan ist ein geschütztes Naturschutzgebiet im Küstengebiet von Izola.", "category": "natural", "coords": [13.615461, 45.534123]}, {"name": "Izola", "text": "Der Leuchtturm von Izola dient als navigatorisches Wahrzeichen in der Küstenstadt Izola.", "category": "landmark", "coords": [13.656042, 45.541589]}, {"name": "Arheološko najdišče Viližan", "text": "Arheološko najdišče Viližan ist eine lokale archäologische Ausgrabungsstätte in Izola.", "category": "historical", "coords": [13.675901, 45.542701]}, {"name": "Muzej na prostem Mala barka Biser", "text": "Das Muzej na prostem Mala barka Biser ist ein maritimes Freilichtmuseum in Izola.", "category": "museum", "coords": [13.648179, 45.532477]}, {"name": "Plaža na Svetilniku", "text": "Rund um den ikonischen Leuchtturm von Izola gelegen, bietet die Plaža na Svetilniku ein malerisches Küstenerlebnis in Slowenien. Die lebhafte Atmosphäre zieht sowohl Einheimische als auch Touristen an, die einen klassischen Strandtag verbringen möchten. Besucher können sich mühelos ins Meer stürzen oder entlang der landschaftlich reizvollen Promenade spazieren. Da dieser Ort in der Hochsaison sehr gefragt ist, sollte man sich am besten schon früh morgens ein schönes Plätzchen sichern.", "category": "recreational", "coords": [13.657299, 45.541536]}, {"name": "Plaža doma \"Dva topola\" za slepe in slabovidne", "text": "Entlang der Küste von Izola gelegen, ist dieser spezialisierte Strand liebevoll für sehbehinderte Gäste konzipiert worden. Die Stimmung ist hier besonders friedvoll, wobei der Fokus auf Barrierefreiheit und maximalem Komfort für alle Besucher liegt. Man kann die sanften Wellen und die Geräusche des Meeres in einer sicheren und unterstützenden Umgebung völlig unbeschwert erleben. Er ist ein wunderbares Beispiel für inklusive Sommererholung, die man am besten an einem sonnigen Nachmittag genießt.", "category": "recreational", "coords": [13.659159, 45.541994]}, {"name": "kulturni dom Izola", "text": "Das Kulturni dom Izola ist ein lokales Kulturzentrum und Theater in der Stadt Izola.", "category": "cultural", "coords": [13.661996, 45.535399]}, {"name": "Tobogan Simonov zaliv", "text": "Tobogan Simonov zaliv ist eine Freizeit-Wasserparkanlage in der Simonbucht von Izola.", "category": "family", "coords": [13.645736, 45.532358]}, {"name": "Muzej Parenzana", "text": "Muzej Parenzana ist ein Museum in der Stadt Izola.", "category": "museum", "coords": [13.659497, 45.538315]}, {"name": "plaža Delfin", "text": "Am Rande der Küstenstadt Izola gelegen, präsentiert die Plaža Delfin ein charmantes Stück der slowenischen Uferlandschaft. Das Gebiet versprüht einen freundlichen, geschäftigen Charme, der den Geist eines typischen Badeurlaubs perfekt einfängt. Ob man ins Meer eintaucht, in der Sonne relaxt oder die Uferpromenade erkundet, die Stunden vergehen hier wie im Flug. Die Sommertage sind hier recht lebhaft, weshalb Sonnencreme und ein gutes Buch in keiner Strandtasche fehlen sollten.", "category": "recreational", "coords": [13.649226, 45.533945]}, {"name": "Roman pier of Halietum port - submerged", "text": "Der versunkene römische Pier des Hafens Halietum ist eine archäologische Stätte in Izola.", "category": "historical", "coords": [13.645621, 45.533475]}, {"name": "Zaliv Svetega Križa / Baia di Santa Croce", "text": "Zaliv Svetega Križa, auch bekannt als Baia di Santa Croce, ist eine Bucht in Izola.", "category": "landmark", "coords": [13.610415, 45.538476]}, {"name": "Markovec / S. Marco", "text": "Markovec (S. Marco) ist ein Gipfel in der Region von Izola.", "category": "natural", "coords": [13.701216, 45.537301]}, {"name": "Simonov zaliv / Baia di San Simone", "text": "Simonov zaliv ist eine Bucht in Izola, bekannt für ihren beliebten Strand und die Überreste einer römischen Villa.", "category": "landmark", "coords": [13.643638, 45.533286]}, {"name": "Zaliv Viližan", "text": "Zaliv Viližan ist eine lokale Bucht in Izola.", "category": "landmark", "coords": [13.669616, 45.542201]}, {"name": "Razgledna točka s klopco", "text": "Dieser Ort in Izola dient als malerischer Aussichtspunkt mit einer Bank.", "category": "natural", "coords": [13.61588, 45.539614]}, {"name": "Strunjanska dolina", "text": "Strunjanska dolina bietet einen malerischen Aussichtspunkt in Izola.", "category": "natural", "coords": [13.637104, 45.525094]}, {"name": "Atelje, galerija Rex", "text": "Atelje, galerija Rex ist eine Kunstgalerie in Izola.", "category": "museum", "coords": [13.657606, 45.538074]}, {"name": "Ex Tovarna Argo", "text": "Ex Tovarna Argo umfasst die Ruinen einer ehemaligen Fabrik in Izola.", "category": "historical", "coords": [13.655447, 45.533467]}, {"name": "Cerkev Sv. Janeza Evangelista", "text": "Die Cerkev Sv. Janeza Evangelista ist eine religiöse Kultstätte in Izola.", "category": "religious", "coords": [13.658062, 45.53963]}, {"name": "Cerkev Sv. Dominika", "text": "Die Cerkev Sv. Dominika ist eine historische Kultstätte in Izola.", "category": "religious", "coords": [13.660281, 45.537216]}, {"name": "Parna lokomotiva BBÖ P3", "text": "Die Parna lokomotiva BBÖ P3 ist eine historische Dampflokomotive, die in Izola erhalten ist.", "category": "landmark", "coords": [13.668919, 45.538164]}, {"name": "Nardi - technical heritage", "text": "Nardi - technical heritage ist die Ausstellung eines historischen Fahrzeugs in Izola.", "category": "landmark", "coords": [13.684071, 45.5427]}], "hu": [{"name": "Rimska vila in pristanišče Haliaetum Izola", "text": "A Haliaetum egy régészeti lelőhely Izolában, amely egy ókori római villa és kikötő maradványait mutatja be.", "category": "historical", "coords": [13.646995, 45.533197]}, {"name": "Krajinski park Strunjan", "text": "A Krajinski park Strunjan egy védett természetvédelmi terület Izola partvidékén.", "category": "natural", "coords": [13.615461, 45.534123]}, {"name": "Izola", "text": "Az izolai világítótorony navigációs tájékozódási pontként szolgál a tengerparti Izola városában.", "category": "landmark", "coords": [13.656042, 45.541589]}, {"name": "Arheološko najdišče Viližan", "text": "Az Arheološko najdišče Viližan egy helyi régészeti lelőhely Izolában.", "category": "historical", "coords": [13.675901, 45.542701]}, {"name": "Muzej na prostem Mala barka Biser", "text": "A Muzej na prostem Mala barka Biser egy szabadtéri tengerészeti múzeum Izolában.", "category": "museum", "coords": [13.648179, 45.532477]}, {"name": "Plaža na Svetilniku", "text": "Az Izola ikonikus világítótornyát körülölelő Plaža na Svetilniku festői tengerparti élményt nyújt Szlovéniában. A pezsgő partvidéki légkör egyaránt vonzza a helyieket és a klasszikus strandolásra vágyó turistákat. A látogatók könnyedén megmártózhatnak a tenger habjaiban, vagy sétálhatnak egyet a partot szegélyező hangulatos sétányon. Mivel a főszezonban a hely meglehetősen népszerű, mindenképpen javasolt a kora reggeli érkezés a legjobb helyek biztosítása érdekében.", "category": "recreational", "coords": [13.657299, 45.541536]}, {"name": "Plaža doma \"Dva topola\" za slepe in slabovidne", "text": "Az Izola partvidékén fekvő, speciálisan kialakított strandot kifejezetten a látássérült vendégek igényeinek megfelelően tervezték. A légkör rendkívül békés, ahol a főszerepet az akadálymentesítés és az idelátogatók kényelme kapja. A fürdőzők egy biztonságos és támogató közegben tapasztalhatják meg a lágy hullámokat és a partvidék nyugtató hangjait. Ez az inkluzív nyári kikapcsolódás nagyszerű példája, amelyet a legjobban egy verőfényes délutánon lehet élvezni.", "category": "recreational", "coords": [13.659159, 45.541994]}, {"name": "kulturni dom Izola", "text": "A Kulturni dom Izola egy helyi kulturális központ és színház Izola városában.", "category": "cultural", "coords": [13.661996, 45.535399]}, {"name": "Tobogan Simonov zaliv", "text": "A Tobogan Simonov zaliv egy vízipark jellegű szórakozási lehetőség Izola Simon-öböl nevű részén.", "category": "family", "coords": [13.645736, 45.532358]}, {"name": "Muzej Parenzana", "text": "A Muzej Parenzana egy múzeum Izola városában.", "category": "museum", "coords": [13.659497, 45.538315]}, {"name": "plaža Delfin", "text": "Az Izola nevű tengerparti városka szélén elterülő Plaža Delfin a szlovén partvidék egy bájos szegletét tárja elénk. A területből barátságos, nyüzsgő vonzerő árad, amely tökéletesen megragadja egy igazi tengerparti nyaralás hangulatát. Legyen szó tengerbe csobbanásról, napfürdőzésről vagy a vízpart felfedezéséről, itt bőségesen akad tennivaló. A nyári napok errefelé meglehetősen verőfényesek, így az erős naptej és egy jó könyv bepakolása szinte kötelező.", "category": "recreational", "coords": [13.649226, 45.533945]}, {"name": "Roman pier of Halietum port - submerged", "text": "A Halietum kikötő víz alatti római mólója egy régészeti lelőhely Izolában.", "category": "historical", "coords": [13.645621, 45.533475]}, {"name": "Zaliv Svetega Križa / Baia di Santa Croce", "text": "A Zaliv Svetega Križa, vagy Baia di Santa Croce, egy öböl Izolában.", "category": "landmark", "coords": [13.610415, 45.538476]}, {"name": "Markovec / S. Marco", "text": "A Markovec (S. Marco) egy hegycsúcs Izola térségében.", "category": "natural", "coords": [13.701216, 45.537301]}, {"name": "Simonov zaliv / Baia di San Simone", "text": "A Simonov zaliv egy öböl Izolában, amely népszerű strandjáról és egy ókori római villa romjairól ismert.", "category": "landmark", "coords": [13.643638, 45.533286]}, {"name": "Zaliv Viližan", "text": "A Zaliv Viližan egy öböl Izola partjainál.", "category": "landmark", "coords": [13.669616, 45.542201]}, {"name": "Razgledna točka s klopco", "text": "Ez a helyszín egy pados kilátó Izola városában.", "category": "natural", "coords": [13.61588, 45.539614]}, {"name": "Strunjanska dolina", "text": "A Strunjanska dolina egy festői kilátóhely Izola területén.", "category": "natural", "coords": [13.637104, 45.525094]}, {"name": "Atelje, galerija Rex", "text": "Az Atelje, galerija Rex egy művészeti galéria Izolában.", "category": "museum", "coords": [13.657606, 45.538074]}, {"name": "Ex Tovarna Argo", "text": "Az Ex Tovarna Argo egy egykori gyár romjait őrzi Izolában.", "category": "historical", "coords": [13.655447, 45.533467]}, {"name": "Cerkev Sv. Janeza Evangelista", "text": "A Cerkev Sv. Janeza Evangelista egy vallási épület Izola városában.", "category": "religious", "coords": [13.658062, 45.53963]}, {"name": "Cerkev Sv. Dominika", "text": "A Cerkev Sv. Dominika egy történelmi vallási épület Izola városában.", "category": "religious", "coords": [13.660281, 45.537216]}, {"name": "Parna lokomotiva BBÖ P3", "text": "A Parna lokomotiva BBÖ P3 egy történelmi gőzmozdony, amely Izola városában található.", "category": "landmark", "coords": [13.668919, 45.538164]}, {"name": "Nardi - technical heritage", "text": "A Nardi - technical heritage egy történelmi járművet bemutató látványosság Izola városában.", "category": "landmark", "coords": [13.684071, 45.5427]}], "ro": [{"name": "Rimska vila in pristanišče Haliaetum Izola", "text": "Haliaetum este un sit arheologic din Izola care prezintă rămășițele unei vechi vile și ale unui port roman.", "category": "historical", "coords": [13.646995, 45.533197]}, {"name": "Krajinski park Strunjan", "text": "Parcul peisagistic Strunjan este o rezervație naturală protejată situată în zona de coastă a Izolei.", "category": "natural", "coords": [13.615461, 45.534123]}, {"name": "Izola", "text": "Farul din Izola servește drept punct de reper pentru navigație în orașul de coastă Izola.", "category": "landmark", "coords": [13.656042, 45.541589]}, {"name": "Arheološko najdišče Viližan", "text": "Arheološko najdišče Viližan este un sit arheologic local situat în Izola.", "category": "historical", "coords": [13.675901, 45.542701]}, {"name": "Muzej na prostem Mala barka Biser", "text": "Muzej na prostem Mala barka Biser este un muzeu maritim în aer liber situat în Izola.", "category": "museum", "coords": [13.648179, 45.532477]}, {"name": "Plaža na Svetilniku", "text": "Încadrând emblematicul far din Izola, Plaža na Svetilniku oferă o experiență pitorească pe coasta Sloveniei. Atmosfera de coastă vibrantă rezonează puternic atât cu localnicii, cât și cu turiștii care caută o zi clasică la malul mării. Vizitatorii se pot scufunda cu ușurință în mare sau se pot plimba de-a lungul promenadei panoramice care mărginește plaja. Deoarece devine destul de aglomerată în timpul sezonului de vârf, este foarte recomandat să ajungeți dimineața devreme pentru a vă asigura un loc bun.", "category": "recreational", "coords": [13.657299, 45.541536]}, {"name": "Plaža doma \"Dva topola\" za slepe in slabovidne", "text": "Situată de-a lungul coastei din Izola, această plajă specializată este concepută cu grijă pentru a găzdui oaspeții cu deficiențe de vedere. Ambianța este profund liniștită, cu un accent puternic pe accesibilitate și confort pentru toți cei care o vizitează. Persoanele pot experimenta în siguranță valurile blânde și sunetele liniștitoare ale mării într-un mediu foarte sigur și prietenos. Reprezintă un exemplu frumos de recreere estivală incluzivă, ideală pentru a fi savurată într-o după-amiază caldă și însorită.", "category": "recreational", "coords": [13.659159, 45.541994]}, {"name": "kulturni dom Izola", "text": "Kulturni dom Izola este un centru cultural și un teatru local din orașul Izola.", "category": "cultural", "coords": [13.661996, 45.535399]}, {"name": "Tobogan Simonov zaliv", "text": "Tobogan Simonov zaliv este o facilitate de agrement dintr-un parc acvatic situat în zona Golfului Simon din Izola.", "category": "family", "coords": [13.645736, 45.532358]}, {"name": "Muzej Parenzana", "text": "Muzej Parenzana este un muzeu situat în orașul Izola.", "category": "museum", "coords": [13.659497, 45.538315]}, {"name": "plaža Delfin", "text": "Aflată la marginea orașului de coastă Izola, Plaža Delfin prezintă o felie fermecătoare a peisajului litoral sloven. Zona emană un farmec prietenos și activ, care surprinde perfect spiritul plin de viață al unei adevărate vacanțe pe malul mării. Fie că vă scufundați în apă, vă relaxați la soare sau explorați faleza, există o mulțime de modalități de a vă petrece timpul. Zilele de vară pot fi destul de strălucitoare aici, așa că este întotdeauna recomandat să puneți în bagaj o cremă de protecție solară și o carte bună.", "category": "recreational", "coords": [13.649226, 45.533945]}, {"name": "Roman pier of Halietum port - submerged", "text": "Digul roman scufundat al portului Halietum este un sit arheologic din Izola.", "category": "historical", "coords": [13.645621, 45.533475]}, {"name": "Zaliv Svetega Križa / Baia di Santa Croce", "text": "Zaliv Svetega Križa, cunoscută și sub numele de Baia di Santa Croce, este un golf din Izola.", "category": "landmark", "coords": [13.610415, 45.538476]}, {"name": "Markovec / S. Marco", "text": "Markovec (S. Marco) este un vârf din zona Izola.", "category": "natural", "coords": [13.701216, 45.537301]}, {"name": "Simonov zaliv / Baia di San Simone", "text": "Simonov zaliv este un golf din Izola, remarcabil pentru plaja sa și vestigiile unei vile romane antice.", "category": "landmark", "coords": [13.643638, 45.533286]}, {"name": "Zaliv Viližan", "text": "Zaliv Viližan este un golf situat în Izola.", "category": "landmark", "coords": [13.669616, 45.542201]}, {"name": "Razgledna točka s klopco", "text": "Acest loc din Izola servește ca un punct de belvedere dotat cu o bancă.", "category": "natural", "coords": [13.61588, 45.539614]}, {"name": "Strunjanska dolina", "text": "Strunjanska dolina oferă un punct de belvedere panoramic în Izola.", "category": "natural", "coords": [13.637104, 45.525094]}, {"name": "Atelje, galerija Rex", "text": "Atelje, galerija Rex este o galerie de artă situată în Izola.", "category": "museum", "coords": [13.657606, 45.538074]}, {"name": "Ex Tovarna Argo", "text": "Ex Tovarna Argo reprezintă ruinele unei foste fabrici din Izola.", "category": "historical", "coords": [13.655447, 45.533467]}, {"name": "Cerkev Sv. Janeza Evangelista", "text": "Cerkev Sv. Janeza Evangelista este un lăcaș de cult situat în Izola.", "category": "religious", "coords": [13.658062, 45.53963]}, {"name": "Cerkev Sv. Dominika", "text": "Cerkev Sv. Dominika este un lăcaș de cult istoric din Izola.", "category": "religious", "coords": [13.660281, 45.537216]}, {"name": "Parna lokomotiva BBÖ P3", "text": "Parna lokomotiva BBÖ P3 este o locomotivă cu abur istorică expusă în Izola.", "category": "landmark", "coords": [13.668919, 45.538164]}, {"name": "Nardi - technical heritage", "text": "Nardi - technical heritage prezintă un vehicul istoric conservat în Izola.", "category": "landmark", "coords": [13.684071, 45.5427]}], "en": [{"name": "Roman villa and port Haliaetum Isola", "text": "Haliaetum is an archaeological site in Izola featuring the remains of an ancient Roman villa and port.", "category": "historical", "coords": [13.646995, 45.533197]}, {"name": "Krajinski park Strunjan", "text": "Krajinski park Strunjan is a protected nature reserve located in the coastal area of Izola.", "category": "natural", "coords": [13.615461, 45.534123]}, {"name": "Izola", "text": "The Izola lighthouse serves as a navigational landmark in the coastal town of Izola.", "category": "landmark", "coords": [13.656042, 45.541589]}, {"name": "Arheološko najdišče Viližan", "text": "Arheološko najdišče Viližan is a local archaeological site situated in Izola.", "category": "historical", "coords": [13.675901, 45.542701]}, {"name": "Muzej na prostem Mala barka Biser", "text": "Muzej na prostem Mala barka Biser is an open-air maritime museum located in Izola.", "category": "museum", "coords": [13.648179, 45.532477]}, {"name": "Plaža na Svetilniku", "text": "Wrapped around the iconic lighthouse in Izola, Plaža na Svetilniku offers a picturesque coastal experience in Slovenia. The vibrant seaside atmosphere resonates strongly with both locals and tourists seeking a classic beach day. Visitors can easily take a plunge into the sea or wander along the scenic promenade that frames the water. Because it becomes quite busy during peak season, arriving early in the morning to secure a good spot is highly advised.", "category": "recreational", "coords": [13.657299, 45.541536]}, {"name": "Beach for visually impaireds", "text": "Located along the Izola shoreline, this specialized beach is thoughtfully designed to accommodate visually impaired guests. The ambiance is deeply tranquil, with a strong focus on accessibility and comfort for everyone who visits. Individuals can safely experience the gentle waves and the soothing coastal sounds in a highly secure and supportive environment. It serves as a beautiful example of inclusive summer recreation, ideally enjoyed during a warm, sunny afternoon.", "category": "recreational", "coords": [13.659159, 45.541994]}, {"name": "kulturni dom Izola", "text": "The Kulturni dom Izola is a local cultural center and theatre in the city of Izola.", "category": "cultural", "coords": [13.661996, 45.535399]}, {"name": "Tobogan Simonov zaliv", "text": "Tobogan Simonov zaliv is a recreational water park feature located in the Simon's Bay area of Izola.", "category": "family", "coords": [13.645736, 45.532358]}, {"name": "Muzej Parenzana", "text": "Muzej Parenzana is a museum located in the city of Izola.", "category": "museum", "coords": [13.659497, 45.538315]}, {"name": "plaža Delfin", "text": "Gracing the edge of the coastal town of Izola, Plaža Delfin presents a charming slice of the Slovenian shoreline. The area emanates a friendly, active charm that perfectly captures the lively spirit of a true seaside holiday. Whether diving into the water, lounging warmly in the sun, or exploring the waterfront, there are plenty of ways to pass the time. Summer days here can be quite bright, so packing strong sunscreen and a good book is always recommended.", "category": "recreational", "coords": [13.649226, 45.533945]}, {"name": "Roman pier of Halietum port- submerged", "text": "The submerged Roman pier of Halietum port is an archaeological site in Izola.", "category": "historical", "coords": [13.645621, 45.533475]}, {"name": "Zaliv Svetega Križa / Baia di Santa Croce", "text": "Zaliv Svetega Križa, also known as Baia di Santa Croce, is a bay situated in Izola.", "category": "landmark", "coords": [13.610415, 45.538476]}, {"name": "Markovec / S. Marco", "text": "Markovec (S. Marco) is a peak located in the area of Izola.", "category": "natural", "coords": [13.701216, 45.537301]}, {"name": "Simonov zaliv / Baia di San Simone", "text": "Simonov zaliv is a bay in Izola, known for its popular beach and the archaeological remains of a Roman maritime villa.", "category": "landmark", "coords": [13.643638, 45.533286]}, {"name": "Zaliv Viližan", "text": "Zaliv Viližan is a local bay situated in Izola.", "category": "landmark", "coords": [13.669616, 45.542201]}, {"name": "Viewpoint with bench", "text": "This location in Izola serves as a scenic viewpoint equipped with a bench.", "category": "natural", "coords": [13.61588, 45.539614]}, {"name": "Strunjanska dolina", "text": "Strunjanska dolina offers a scenic viewpoint in the Izola area.", "category": "natural", "coords": [13.637104, 45.525094]}, {"name": "Atelje, galerija Rex", "text": "Atelje, galerija Rex is an art gallery located in Izola.", "category": "museum", "coords": [13.657606, 45.538074]}, {"name": "Ex Tovarna Argo", "text": "Ex Tovarna Argo features the ruins of a former factory in Izola.", "category": "historical", "coords": [13.655447, 45.533467]}, {"name": "Cerkev Sv. Janeza Evangelista", "text": "The Cerkev Sv. Janeza Evangelista is a place of worship located in Izola.", "category": "religious", "coords": [13.658062, 45.53963]}, {"name": "Cerkev Sv. Dominika", "text": "Cerkev Sv. Dominika is a historic place of worship situated in Izola.", "category": "religious", "coords": [13.660281, 45.537216]}, {"name": "Parna lokomotiva BBÖ P3", "text": "The Parna lokomotiva BBÖ P3 is a historical steam locomotive preserved in Izola.", "category": "landmark", "coords": [13.668919, 45.538164]}, {"name": "Nardi - technical heritage", "text": "Nardi - technical heritage is an exhibition of a historical vehicle in Izola.", "category": "landmark", "coords": [13.684071, 45.5427]}]},
+    id: "slovenia-izola-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rimska vila in pristanišče Haliaetum Izola",
+                  "text": "Haliaetum ist eine archäologische Stätte in Izola, die die Überreste einer antiken römischen Villa und eines Hafens zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        13.646995,
+                        45.533197
+                  ]
+            },
+            {
+                  "name": "Krajinski park Strunjan",
+                  "text": "Der Krajinski Park Strunjan ist ein geschütztes Naturschutzgebiet im Küstengebiet von Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.615461,
+                        45.534123
+                  ]
+            },
+            {
+                  "name": "Izola",
+                  "text": "Der Leuchtturm von Izola dient als navigatorisches Wahrzeichen in der Küstenstadt Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.656042,
+                        45.541589
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Viližan",
+                  "text": "Eine archäologische Stätte mit römischen Ruinen in Viližan bei Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.675901,
+                        45.542701
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mala barka Biser",
+                  "text": "Ein Freilichtmuseum mit dem traditionellen Fischerboot 'Mala barka Biser' in Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.648179,
+                        45.532477
+                  ]
+            },
+            {
+                  "name": "Plaža na Svetilniku",
+                  "text": "Rund um den ikonischen Leuchtturm von Izola gelegen, bietet die Plaža na Svetilniku ein malerisches Küstenerlebnis in Slowenien. Die lebhafte Atmosphäre zieht sowohl Einheimische als auch Touristen an, die einen klassischen Strandtag verbringen möchten. Besucher können sich mühelos ins Meer stürzen oder entlang der landschaftlich reizvollen Promenade spazieren. Da dieser Ort in der Hochsaison sehr gefragt ist, sollte man sich am besten schon früh morgens ein schönes Plätzchen sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        13.657299,
+                        45.541536
+                  ]
+            },
+            {
+                  "name": "Plaža doma \"Dva topola\" za slepe in slabovidne",
+                  "text": "Entlang der Küste von Izola gelegen, ist dieser spezialisierte Strand liebevoll für sehbehinderte Gäste konzipiert worden. Die Stimmung ist hier besonders friedvoll, wobei der Fokus auf Barrierefreiheit und maximalem Komfort für alle Besucher liegt. Man kann die sanften Wellen und die Geräusche des Meeres in einer sicheren und unterstützenden Umgebung völlig unbeschwert erleben. Er ist ein wunderbares Beispiel für inklusive Sommererholung, die man am besten an einem sonnigen Nachmittag genießt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.659159,
+                        45.541994
+                  ]
+            },
+            {
+                  "name": "kulturni dom Izola",
+                  "text": "Das Kulturzentrum von Izola mit Theater- und Musikveranstaltungen an der Uferpromenade.",
+                  "category": "cultural",
+                  "coords": [
+                        13.661996,
+                        45.535399
+                  ]
+            },
+            {
+                  "name": "Tobogan Simonov zaliv",
+                  "text": "Tobogan Simonov zaliv ist eine Freizeit-Wasserparkanlage in der Simonbucht von Izola.",
+                  "category": "family",
+                  "coords": [
+                        13.645736,
+                        45.532358
+                  ]
+            },
+            {
+                  "name": "Muzej Parenzana",
+                  "text": "Ein Museum über die historische Schmalspurbahn Parenzana in Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.659497,
+                        45.538315
+                  ]
+            },
+            {
+                  "name": "plaža Delfin",
+                  "text": "Am Rande der Küstenstadt Izola gelegen, präsentiert die Plaža Delfin ein charmantes Stück der slowenischen Uferlandschaft. Das Gebiet versprüht einen freundlichen, geschäftigen Charme, der den Geist eines typischen Badeurlaubs perfekt einfängt. Ob man ins Meer eintaucht, in der Sonne relaxt oder die Uferpromenade erkundet, die Stunden vergehen hier wie im Flug. Die Sommertage sind hier recht lebhaft, weshalb Sonnencreme und ein gutes Buch in keiner Strandtasche fehlen sollten.",
+                  "category": "recreational",
+                  "coords": [
+                        13.649226,
+                        45.533945
+                  ]
+            },
+            {
+                  "name": "Roman pier of Halietum port - submerged",
+                  "text": "Ein versunkener römischer Pier des antiken Hafens Halietum, vor der Küste von Izola sichtbar.",
+                  "category": "historical",
+                  "coords": [
+                        13.645621,
+                        45.533475
+                  ]
+            },
+            {
+                  "name": "Zaliv Svetega Križa / Baia di Santa Croce",
+                  "text": "Die Zaliv Svetega Križa ist eine Bucht mit einem Strand an der adriatischen Küste bei Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.610415,
+                        45.538476
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "Markovec / S. Marco ist ein Hügel an der Küste von Izola mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Simonov zaliv / Baia di San Simone",
+                  "text": "Simonov zaliv ist eine Bucht in Izola, bekannt für ihren beliebten Strand und die Überreste einer römischen Villa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.643638,
+                        45.533286
+                  ]
+            },
+            {
+                  "name": "Zaliv Viližan",
+                  "text": "Der Zaliv Viližan ist eine Bucht an der istrischen Küste nahe Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669616,
+                        45.542201
+                  ]
+            },
+            {
+                  "name": "Razgledna točka s klopco",
+                  "text": "Dieser Ort in Izola dient als malerischer Aussichtspunkt mit einer Bank.",
+                  "category": "natural",
+                  "coords": [
+                        13.61588,
+                        45.539614
+                  ]
+            },
+            {
+                  "name": "Strunjanska dolina",
+                  "text": "Strunjanska dolina bietet einen malerischen Aussichtspunkt in Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.637104,
+                        45.525094
+                  ]
+            },
+            {
+                  "name": "Atelje, galerija Rex",
+                  "text": "Ein Künstleratelier und eine Galerie in der mittelalterlichen Altstadt von Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.657606,
+                        45.538074
+                  ]
+            },
+            {
+                  "name": "Ex Tovarna Argo",
+                  "text": "Ex Tovarna Argo umfasst die Ruinen einer ehemaligen Fabrik in Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.655447,
+                        45.533467
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Janeza Evangelista",
+                  "text": "Cerkev Sv. Janeza Evangelista ist eine gotische Kirche in der Altstadt von Izola.",
+                  "category": "religious",
+                  "coords": [
+                        13.658062,
+                        45.53963
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Dominika",
+                  "text": "Cerkev Sv. Dominika ist eine Barockkirche im historischen Zentrum von Izola.",
+                  "category": "religious",
+                  "coords": [
+                        13.660281,
+                        45.537216
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva BBÖ P3",
+                  "text": "Die Parna lokomotiva BBÖ P3 ist eine historische Dampflokomotive, die in Izola erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.668919,
+                        45.538164
+                  ]
+            },
+            {
+                  "name": "Nardi - technical heritage",
+                  "text": "Ein technisches Denkmal mit Nardi-Werkzeugmaschinen in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.684071,
+                        45.5427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rimska vila in pristanišče Haliaetum Izola",
+                  "text": "A Haliaetum egy régészeti lelőhely Izolában, amely egy ókori római villa és kikötő maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        13.646995,
+                        45.533197
+                  ]
+            },
+            {
+                  "name": "Krajinski park Strunjan",
+                  "text": "A Krajinski park Strunjan egy védett természetvédelmi terület Izola partvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        13.615461,
+                        45.534123
+                  ]
+            },
+            {
+                  "name": "Izola",
+                  "text": "Az izolai világítótorony navigációs tájékozódási pontként szolgál a tengerparti Izola városában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.656042,
+                        45.541589
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Viližan",
+                  "text": "Régészeti lelőhely római romokkal Viližanban, Izola mellett.",
+                  "category": "historical",
+                  "coords": [
+                        13.675901,
+                        45.542701
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mala barka Biser",
+                  "text": "Szabadtéri múzeum a 'Mala barka Biser' hagyományos halászhajóval Izolában.",
+                  "category": "museum",
+                  "coords": [
+                        13.648179,
+                        45.532477
+                  ]
+            },
+            {
+                  "name": "Plaža na Svetilniku",
+                  "text": "Az Izola ikonikus világítótornyát körülölelő Plaža na Svetilniku festői tengerparti élményt nyújt Szlovéniában. A pezsgő partvidéki légkör egyaránt vonzza a helyieket és a klasszikus strandolásra vágyó turistákat. A látogatók könnyedén megmártózhatnak a tenger habjaiban, vagy sétálhatnak egyet a partot szegélyező hangulatos sétányon. Mivel a főszezonban a hely meglehetősen népszerű, mindenképpen javasolt a kora reggeli érkezés a legjobb helyek biztosítása érdekében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.657299,
+                        45.541536
+                  ]
+            },
+            {
+                  "name": "Plaža doma \"Dva topola\" za slepe in slabovidne",
+                  "text": "Az Izola partvidékén fekvő, speciálisan kialakított strandot kifejezetten a látássérült vendégek igényeinek megfelelően tervezték. A légkör rendkívül békés, ahol a főszerepet az akadálymentesítés és az idelátogatók kényelme kapja. A fürdőzők egy biztonságos és támogató közegben tapasztalhatják meg a lágy hullámokat és a partvidék nyugtató hangjait. Ez az inkluzív nyári kikapcsolódás nagyszerű példája, amelyet a legjobban egy verőfényes délutánon lehet élvezni.",
+                  "category": "recreational",
+                  "coords": [
+                        13.659159,
+                        45.541994
+                  ]
+            },
+            {
+                  "name": "kulturni dom Izola",
+                  "text": "Izola kulturális központja színházi és zenei eseményekkel a tengerparti sétányon.",
+                  "category": "cultural",
+                  "coords": [
+                        13.661996,
+                        45.535399
+                  ]
+            },
+            {
+                  "name": "Tobogan Simonov zaliv",
+                  "text": "A Tobogan Simonov zaliv egy vízipark jellegű szórakozási lehetőség Izola Simon-öböl nevű részén.",
+                  "category": "family",
+                  "coords": [
+                        13.645736,
+                        45.532358
+                  ]
+            },
+            {
+                  "name": "Muzej Parenzana",
+                  "text": "Múzeum a történelmi Parenzana keskeny nyomtávú vasútról Izolában.",
+                  "category": "museum",
+                  "coords": [
+                        13.659497,
+                        45.538315
+                  ]
+            },
+            {
+                  "name": "plaža Delfin",
+                  "text": "Az Izola nevű tengerparti városka szélén elterülő Plaža Delfin a szlovén partvidék egy bájos szegletét tárja elénk. A területből barátságos, nyüzsgő vonzerő árad, amely tökéletesen megragadja egy igazi tengerparti nyaralás hangulatát. Legyen szó tengerbe csobbanásról, napfürdőzésről vagy a vízpart felfedezéséről, itt bőségesen akad tennivaló. A nyári napok errefelé meglehetősen verőfényesek, így az erős naptej és egy jó könyv bepakolása szinte kötelező.",
+                  "category": "recreational",
+                  "coords": [
+                        13.649226,
+                        45.533945
+                  ]
+            },
+            {
+                  "name": "Roman pier of Halietum port - submerged",
+                  "text": "A Halietum ókori kikötő elsüllyedt római mólója, Izola partjainál látható.",
+                  "category": "historical",
+                  "coords": [
+                        13.645621,
+                        45.533475
+                  ]
+            },
+            {
+                  "name": "Zaliv Svetega Križa / Baia di Santa Croce",
+                  "text": "A Zaliv Svetega Križa egy öböl stranddal az Adriai-tenger partján, Izola közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.610415,
+                        45.538476
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "A Markovec / S. Marco egy domb Izola partján, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Simonov zaliv / Baia di San Simone",
+                  "text": "A Simonov zaliv egy öböl Izolában, amely népszerű strandjáról és egy ókori római villa romjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.643638,
+                        45.533286
+                  ]
+            },
+            {
+                  "name": "Zaliv Viližan",
+                  "text": "A Zaliv Viližan egy öböl az Isztriai parton, Izola közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669616,
+                        45.542201
+                  ]
+            },
+            {
+                  "name": "Razgledna točka s klopco",
+                  "text": "Ez a helyszín egy pados kilátó Izola városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.61588,
+                        45.539614
+                  ]
+            },
+            {
+                  "name": "Strunjanska dolina",
+                  "text": "A Strunjanska dolina egy festői kilátóhely Izola területén.",
+                  "category": "natural",
+                  "coords": [
+                        13.637104,
+                        45.525094
+                  ]
+            },
+            {
+                  "name": "Atelje, galerija Rex",
+                  "text": "Művészstúdió és galéria Izola középkori óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        13.657606,
+                        45.538074
+                  ]
+            },
+            {
+                  "name": "Ex Tovarna Argo",
+                  "text": "Az Ex Tovarna Argo egy egykori gyár romjait őrzi Izolában.",
+                  "category": "historical",
+                  "coords": [
+                        13.655447,
+                        45.533467
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Janeza Evangelista",
+                  "text": "A Cerkev Sv. Janeza Evangelista egy gótikus templom Izola óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        13.658062,
+                        45.53963
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Dominika",
+                  "text": "A Cerkev Sv. Dominika egy barokk templom Izola történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        13.660281,
+                        45.537216
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva BBÖ P3",
+                  "text": "A Parna lokomotiva BBÖ P3 egy történelmi gőzmozdony, amely Izola városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        13.668919,
+                        45.538164
+                  ]
+            },
+            {
+                  "name": "Nardi - technical heritage",
+                  "text": "Műszaki örökségi helyszín Nardi szerszámgépekkel Izolában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.684071,
+                        45.5427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rimska vila in pristanišče Haliaetum Izola",
+                  "text": "Haliaetum este un sit arheologic din Izola care prezintă rămășițele unei vechi vile și ale unui port roman.",
+                  "category": "historical",
+                  "coords": [
+                        13.646995,
+                        45.533197
+                  ]
+            },
+            {
+                  "name": "Krajinski park Strunjan",
+                  "text": "Parcul peisagistic Strunjan este o rezervație naturală protejată situată în zona de coastă a Izolei.",
+                  "category": "natural",
+                  "coords": [
+                        13.615461,
+                        45.534123
+                  ]
+            },
+            {
+                  "name": "Izola",
+                  "text": "Farul din Izola servește drept punct de reper pentru navigație în orașul de coastă Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.656042,
+                        45.541589
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Viližan",
+                  "text": "Un sit arheologic cu ruine romane în Viližan lângă Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.675901,
+                        45.542701
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mala barka Biser",
+                  "text": "Un muzeu în aer liber cu barca tradițională de pescuit 'Mala barka Biser' în Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.648179,
+                        45.532477
+                  ]
+            },
+            {
+                  "name": "Plaža na Svetilniku",
+                  "text": "Încadrând emblematicul far din Izola, Plaža na Svetilniku oferă o experiență pitorească pe coasta Sloveniei. Atmosfera de coastă vibrantă rezonează puternic atât cu localnicii, cât și cu turiștii care caută o zi clasică la malul mării. Vizitatorii se pot scufunda cu ușurință în mare sau se pot plimba de-a lungul promenadei panoramice care mărginește plaja. Deoarece devine destul de aglomerată în timpul sezonului de vârf, este foarte recomandat să ajungeți dimineața devreme pentru a vă asigura un loc bun.",
+                  "category": "recreational",
+                  "coords": [
+                        13.657299,
+                        45.541536
+                  ]
+            },
+            {
+                  "name": "Plaža doma \"Dva topola\" za slepe in slabovidne",
+                  "text": "Situată de-a lungul coastei din Izola, această plajă specializată este concepută cu grijă pentru a găzdui oaspeții cu deficiențe de vedere. Ambianța este profund liniștită, cu un accent puternic pe accesibilitate și confort pentru toți cei care o vizitează. Persoanele pot experimenta în siguranță valurile blânde și sunetele liniștitoare ale mării într-un mediu foarte sigur și prietenos. Reprezintă un exemplu frumos de recreere estivală incluzivă, ideală pentru a fi savurată într-o după-amiază caldă și însorită.",
+                  "category": "recreational",
+                  "coords": [
+                        13.659159,
+                        45.541994
+                  ]
+            },
+            {
+                  "name": "kulturni dom Izola",
+                  "text": "Centrul cultural al Izolei, cu evenimente de teatru și muzică pe faleză.",
+                  "category": "cultural",
+                  "coords": [
+                        13.661996,
+                        45.535399
+                  ]
+            },
+            {
+                  "name": "Tobogan Simonov zaliv",
+                  "text": "Tobogan Simonov zaliv este o facilitate de agrement dintr-un parc acvatic situat în zona Golfului Simon din Izola.",
+                  "category": "family",
+                  "coords": [
+                        13.645736,
+                        45.532358
+                  ]
+            },
+            {
+                  "name": "Muzej Parenzana",
+                  "text": "Un muzeu dedicat căii ferate înguste istorice Parenzana în Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.659497,
+                        45.538315
+                  ]
+            },
+            {
+                  "name": "plaža Delfin",
+                  "text": "Aflată la marginea orașului de coastă Izola, Plaža Delfin prezintă o felie fermecătoare a peisajului litoral sloven. Zona emană un farmec prietenos și activ, care surprinde perfect spiritul plin de viață al unei adevărate vacanțe pe malul mării. Fie că vă scufundați în apă, vă relaxați la soare sau explorați faleza, există o mulțime de modalități de a vă petrece timpul. Zilele de vară pot fi destul de strălucitoare aici, așa că este întotdeauna recomandat să puneți în bagaj o cremă de protecție solară și o carte bună.",
+                  "category": "recreational",
+                  "coords": [
+                        13.649226,
+                        45.533945
+                  ]
+            },
+            {
+                  "name": "Roman pier of Halietum port - submerged",
+                  "text": "Un dig roman scufundat din portul antic Halietum, vizibil în largul coastei Izolei.",
+                  "category": "historical",
+                  "coords": [
+                        13.645621,
+                        45.533475
+                  ]
+            },
+            {
+                  "name": "Zaliv Svetega Križa / Baia di Santa Croce",
+                  "text": "Zaliv Svetega Križa este un golf cu plajă pe coasta Adriaticii lângă Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.610415,
+                        45.538476
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "Markovec / S. Marco este un deal pe coasta Izolei, cu vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Simonov zaliv / Baia di San Simone",
+                  "text": "Simonov zaliv este un golf din Izola, remarcabil pentru plaja sa și vestigiile unei vile romane antice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.643638,
+                        45.533286
+                  ]
+            },
+            {
+                  "name": "Zaliv Viližan",
+                  "text": "Zaliv Viližan este un golf pe coasta Istriei lângă Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669616,
+                        45.542201
+                  ]
+            },
+            {
+                  "name": "Razgledna točka s klopco",
+                  "text": "Acest loc din Izola servește ca un punct de belvedere dotat cu o bancă.",
+                  "category": "natural",
+                  "coords": [
+                        13.61588,
+                        45.539614
+                  ]
+            },
+            {
+                  "name": "Strunjanska dolina",
+                  "text": "Strunjanska dolina oferă un punct de belvedere panoramic în Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.637104,
+                        45.525094
+                  ]
+            },
+            {
+                  "name": "Atelje, galerija Rex",
+                  "text": "Un atelier de artist și galerie în centrul vechi medieval al Izolei.",
+                  "category": "museum",
+                  "coords": [
+                        13.657606,
+                        45.538074
+                  ]
+            },
+            {
+                  "name": "Ex Tovarna Argo",
+                  "text": "Ex Tovarna Argo reprezintă ruinele unei foste fabrici din Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.655447,
+                        45.533467
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Janeza Evangelista",
+                  "text": "Cerkev Sv. Janeza Evangelista este o biserică gotică în centrul vechi al Izolei.",
+                  "category": "religious",
+                  "coords": [
+                        13.658062,
+                        45.53963
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Dominika",
+                  "text": "Cerkev Sv. Dominika este o biserică barocă în centrul istoric al Izolei.",
+                  "category": "religious",
+                  "coords": [
+                        13.660281,
+                        45.537216
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva BBÖ P3",
+                  "text": "Parna lokomotiva BBÖ P3 este o locomotivă cu abur istorică expusă în Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.668919,
+                        45.538164
+                  ]
+            },
+            {
+                  "name": "Nardi - technical heritage",
+                  "text": "Un sit de patrimoniu tehnic cu mașini-unelte Nardi în Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.684071,
+                        45.5427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman villa and port Haliaetum Isola",
+                  "text": "Haliaetum is an archaeological site in Izola featuring the remains of an ancient Roman villa and port.",
+                  "category": "historical",
+                  "coords": [
+                        13.646995,
+                        45.533197
+                  ]
+            },
+            {
+                  "name": "Krajinski park Strunjan",
+                  "text": "Krajinski park Strunjan is a protected nature reserve located in the coastal area of Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.615461,
+                        45.534123
+                  ]
+            },
+            {
+                  "name": "Izola",
+                  "text": "The Izola lighthouse serves as a navigational landmark in the coastal town of Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.656042,
+                        45.541589
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Viližan",
+                  "text": "An archaeological site with Roman ruins in Viližan near Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.675901,
+                        45.542701
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mala barka Biser",
+                  "text": "An open-air museum showcasing the traditional fishing boat 'Mala barka Biser' in Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.648179,
+                        45.532477
+                  ]
+            },
+            {
+                  "name": "Plaža na Svetilniku",
+                  "text": "Wrapped around the iconic lighthouse in Izola, Plaža na Svetilniku offers a picturesque coastal experience in Slovenia. The vibrant seaside atmosphere resonates strongly with both locals and tourists seeking a classic beach day. Visitors can easily take a plunge into the sea or wander along the scenic promenade that frames the water. Because it becomes quite busy during peak season, arriving early in the morning to secure a good spot is highly advised.",
+                  "category": "recreational",
+                  "coords": [
+                        13.657299,
+                        45.541536
+                  ]
+            },
+            {
+                  "name": "Beach for visually impaireds",
+                  "text": "Located along the Izola shoreline, this specialized beach is thoughtfully designed to accommodate visually impaired guests. The ambiance is deeply tranquil, with a strong focus on accessibility and comfort for everyone who visits. Individuals can safely experience the gentle waves and the soothing coastal sounds in a highly secure and supportive environment. It serves as a beautiful example of inclusive summer recreation, ideally enjoyed during a warm, sunny afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        13.659159,
+                        45.541994
+                  ]
+            },
+            {
+                  "name": "kulturni dom Izola",
+                  "text": "Izola's cultural center hosting theater and music events on the waterfront.",
+                  "category": "cultural",
+                  "coords": [
+                        13.661996,
+                        45.535399
+                  ]
+            },
+            {
+                  "name": "Tobogan Simonov zaliv",
+                  "text": "Tobogan Simonov zaliv is a recreational water park feature located in the Simon's Bay area of Izola.",
+                  "category": "family",
+                  "coords": [
+                        13.645736,
+                        45.532358
+                  ]
+            },
+            {
+                  "name": "Muzej Parenzana",
+                  "text": "A museum about the historic Parenzana narrow-gauge railway in Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.659497,
+                        45.538315
+                  ]
+            },
+            {
+                  "name": "plaža Delfin",
+                  "text": "Gracing the edge of the coastal town of Izola, Plaža Delfin presents a charming slice of the Slovenian shoreline. The area emanates a friendly, active charm that perfectly captures the lively spirit of a true seaside holiday. Whether diving into the water, lounging warmly in the sun, or exploring the waterfront, there are plenty of ways to pass the time. Summer days here can be quite bright, so packing strong sunscreen and a good book is always recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        13.649226,
+                        45.533945
+                  ]
+            },
+            {
+                  "name": "Roman pier of Halietum port- submerged",
+                  "text": "A submerged Roman pier from the ancient port of Halietum, visible off the coast of Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.645621,
+                        45.533475
+                  ]
+            },
+            {
+                  "name": "Zaliv Svetega Križa / Baia di Santa Croce",
+                  "text": "Zaliv Svetega Križa is a bay with a beach on the Adriatic coast near Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.610415,
+                        45.538476
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "Markovec / S. Marco is a hill on the coast of Izola with panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Simonov zaliv / Baia di San Simone",
+                  "text": "Simonov zaliv is a bay in Izola, known for its popular beach and the archaeological remains of a Roman maritime villa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.643638,
+                        45.533286
+                  ]
+            },
+            {
+                  "name": "Zaliv Viližan",
+                  "text": "Zaliv Viližan is a bay on the Istrian coast near Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669616,
+                        45.542201
+                  ]
+            },
+            {
+                  "name": "Viewpoint with bench",
+                  "text": "This location in Izola serves as a scenic viewpoint equipped with a bench.",
+                  "category": "natural",
+                  "coords": [
+                        13.61588,
+                        45.539614
+                  ]
+            },
+            {
+                  "name": "Strunjanska dolina",
+                  "text": "Strunjanska dolina offers a scenic viewpoint in the Izola area.",
+                  "category": "natural",
+                  "coords": [
+                        13.637104,
+                        45.525094
+                  ]
+            },
+            {
+                  "name": "Atelje, galerija Rex",
+                  "text": "An artist's studio and gallery in the medieval old town of Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.657606,
+                        45.538074
+                  ]
+            },
+            {
+                  "name": "Ex Tovarna Argo",
+                  "text": "Ex Tovarna Argo features the ruins of a former factory in Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.655447,
+                        45.533467
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Janeza Evangelista",
+                  "text": "Cerkev Sv. Janeza Evangelista is a Gothic church in Izola's old town.",
+                  "category": "religious",
+                  "coords": [
+                        13.658062,
+                        45.53963
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Dominika",
+                  "text": "Cerkev Sv. Dominika is a Baroque church in Izola's historic center.",
+                  "category": "religious",
+                  "coords": [
+                        13.660281,
+                        45.537216
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva BBÖ P3",
+                  "text": "The Parna lokomotiva BBÖ P3 is a historical steam locomotive preserved in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.668919,
+                        45.538164
+                  ]
+            },
+            {
+                  "name": "Nardi - technical heritage",
+                  "text": "A technical heritage site with Nardi machine tools in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.684071,
+                        45.5427
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Izola", hu: "Izola", ro: "Izola", en: "Izola"},
@@ -4567,7 +6097,340 @@ imageHint: "Izola coastal town view with marina",
     },
     image: "/poi-images/slovenia-izola-cities-v2.webp",
 },  {
-    id: "slovenia-kocevje-cities-v2", "sights": {"de": [{"name": "Glavna plaža Jezero", "text": "Als Hauptstrand des malerischen Sees in Kočevje ist die Glavna plaža Jezero von üppig grünen Wäldern umgeben. Sie verströmt eine ausgesprochen ruhige und natürliche Atmosphäre, die bei Erholungssuchenden und Naturliebhabern gleichermaßen hoch im Kurs steht. Besucher können im stillen Wasser des Sees schwimmen oder ein gemütliches Picknick an den weitläufigen Ufern veranstalten. Mit einer flauschigen Decke und ein paar Spielen im Gepäck wird der Nachmittag am Wasser perfekt.", "category": "recreational", "coords": [14.874735, 45.64691]}, {"name": "Gozdni rezervat Kofel", "text": "Ein Naturschutzgebiet mit geschütztem Waldbestand in der Region Kočevje.", "category": "natural", "coords": [14.842301, 45.651665]}, {"name": "Pokrajinski muzej Kočevje", "text": "Das Museum präsentiert die lokale Geschichte und das Erbe der Region Kočevje.", "category": "museum", "coords": [14.865691, 45.637015]}, {"name": "Gozdni rezervat Mestni vrh", "text": "Ein Waldreservat, das einen Teil des Urwaldes bei Kočevje schützt.", "category": "natural", "coords": [14.850707, 45.620928]}, {"name": "Gozdni rezervat Željnske Jame", "text": "Ein Schutzgebiet, das die Umgebung der bedeutenden Höhlen von Željne umfasst.", "category": "natural", "coords": [14.887881, 45.654911]}, {"name": "Željnske jame", "text": "Diese Karsthöhlen sind bekannt für ihre horizontale Struktur und mehrere Eingänge.", "category": "natural", "coords": [14.884619, 45.654972]}, {"name": "Remihov mlin", "text": "Überreste einer historischen Mühle in der Gegend von Kočevje.", "category": "historical", "coords": [14.895178, 45.654741]}, {"name": "cerkev sv. Fabijana in Boštjana ter sv. Jerneja", "text": "Die Pfarrkirche von Kočevje ist den Heiligen Fabian, Sebastian und Bartholomäus gewidmet.", "category": "religious", "coords": [14.860262, 45.639764]}, {"name": "Lokomotiva JŽ 153-006‎", "text": "Eine historische Lokomotive, die an die Bahngeschichte von Kočevje erinnert.", "category": "landmark", "coords": [14.8572, 45.645693]}], "hu": [{"name": "Glavna plaža Jezero", "text": "A Kočevje festői tavának fő strandjaként szolgáló Glavna plaža Jezero partszakaszt buja, zöldellő erdők ölelik körbe. Kifejezetten békés és természetes kisugárzással rendelkezik, amely igen népszerű a pihenni vágyó helyiek és a természetbarátok körében. A vendégek egy jót úszhatnak a tó nyugodt vizében, vagy piknikezhetnek a tágas parton. Egy puha takaróval és néhány szabadtéri játékkal felszerelkezve ideális nyári délutánt tölthetünk el itt.", "category": "recreational", "coords": [14.874735, 45.64691]}, {"name": "Gozdni rezervat Kofel", "text": "Természetvédelmi terület védett erdőállománnyal Kočevje régiójában.", "category": "natural", "coords": [14.842301, 45.651665]}, {"name": "Pokrajinski muzej Kočevje", "text": "A múzeum Kočevje régió helyi történelmét és örökségét mutatja be.", "category": "museum", "coords": [14.865691, 45.637015]}, {"name": "Gozdni rezervat Mestni vrh", "text": "Erőrezervátum, amely a Kočevje melletti őserdő egy részét védi.", "category": "natural", "coords": [14.850707, 45.620928]}, {"name": "Gozdni rezervat Željnske Jame", "text": "A jelentős Željnei-barlangok környékét magában foglaló védett terület.", "category": "natural", "coords": [14.887881, 45.654911]}, {"name": "Željnske jame", "text": "Ezek a karsztbarlangok vízszintes szerkezetükről és több bejáratukról ismertek.", "category": "natural", "coords": [14.884619, 45.654972]}, {"name": "Remihov mlin", "text": "Egy történelmi malom maradványai Kočevje környékén.", "category": "historical", "coords": [14.895178, 45.654741]}, {"name": "cerkev sv. Fabijana in Boštjana ter sv. Jerneja", "text": "Kočevje plébániatemploma Szent Fábiánnak, Sebestyénnek és Bertalannak van szentelve.", "category": "religious", "coords": [14.860262, 45.639764]}, {"name": "Lokomotiva JŽ 153-006‎", "text": "Történelmi mozdony, amely Kočevje vasúti múltjára emlékeztet.", "category": "landmark", "coords": [14.8572, 45.645693]}], "ro": [{"name": "Glavna plaža Jezero", "text": "Servind ca plajă principală pe pitorescul lac din Kočevje, Glavna plaža Jezero este frumos încadrată de păduri verzi și luxuriante. Oferă o atmosferă distinct de senină și naturală, fiind foarte populară atât printre localnicii care se odihnesc, cât și printre iubitorii de natură. Oaspeții se pot bucura de o baie liniștită în apele calme ale lacului sau pot savura cu ușurință un picnic de-a lungul țărmului generos. Aducerea unei pături confortabile și a unor jocuri în aer liber asigură o după-amiază de vară ideală.", "category": "recreational", "coords": [14.874735, 45.64691]}, {"name": "Gozdni rezervat Kofel", "text": "O rezervație naturală cu pădure protejată în regiunea Kočevje.", "category": "natural", "coords": [14.842301, 45.651665]}, {"name": "Pokrajinski muzej Kočevje", "text": "Muzeul prezintă istoria locală și moștenirea regiunii Kočevje.", "category": "museum", "coords": [14.865691, 45.637015]}, {"name": "Gozdni rezervat Mestni vrh", "text": "O rezervație forestieră care protejează o parte din pădurea virgină de lângă Kočevje.", "category": "natural", "coords": [14.850707, 45.620928]}, {"name": "Gozdni rezervat Željnske Jame", "text": "O zonă protejată care cuprinde împrejurimile importantelor peșteri Željne.", "category": "natural", "coords": [14.887881, 45.654911]}, {"name": "Željnske jame", "text": "Aceste peșteri carstice sunt cunoscute pentru structura lor orizontală și intrările multiple.", "category": "natural", "coords": [14.884619, 45.654972]}, {"name": "Remihov mlin", "text": "Rămășițele unei mori istorice în zona Kočevje.", "category": "historical", "coords": [14.895178, 45.654741]}, {"name": "cerkev sv. Fabijana in Boštjana ter sv. Jerneja", "text": "Biserica parohială din Kočevje este dedicată Sfinților Fabian, Sebastian și Bartolomeu.", "category": "religious", "coords": [14.860262, 45.639764]}, {"name": "Lokomotiva JŽ 153-006‎", "text": "O locomotivă istorică ce amintește de istoria feroviară a orașului Kočevje.", "category": "landmark", "coords": [14.8572, 45.645693]}], "en": [{"name": "Glavna plaža Jezero", "text": "Serving as the primary beach on the picturesque lake in Kočevje, Glavna plaža Jezero is beautifully framed by lush green forests. It projects a distinctly serene and natural vibe, proving very popular with both resting locals and traveling nature lovers. Guests can take a peaceful swim in the calm lake waters or easily enjoy a picnic along the expansive shoreline. Bringing along a cozy blanket and some outdoor games makes for an ideal summer afternoon.", "category": "recreational", "coords": [14.874735, 45.64691]}, {"name": "Gozdni rezervat Kofel", "text": "A nature reserve with protected forest in the Kočevje region.", "category": "natural", "coords": [14.842301, 45.651665]}, {"name": "Pokrajinski muzej Kočevje", "text": "The museum presents the local history and heritage of the Kočevje region.", "category": "museum", "coords": [14.865691, 45.637015]}, {"name": "Gozdni rezervat Mestni vrh", "text": "A forest reserve protecting a part of the virgin forest near Kočevje.", "category": "natural", "coords": [14.850707, 45.620928]}, {"name": "Gozdni rezervat Željnske Jame", "text": "A protected area encompassing the surroundings of the significant Željne caves.", "category": "natural", "coords": [14.887881, 45.654911]}, {"name": "Željnske jame", "text": "These karst caves are known for their horizontal structure and multiple entrances.", "category": "natural", "coords": [14.884619, 45.654972]}, {"name": "Remihov mlin", "text": "Remains of a historic mill in the Kočevje area.", "category": "historical", "coords": [14.895178, 45.654741]}, {"name": "cerkev sv. Fabijana in Boštjana ter sv. Jerneja", "text": "The parish church of Kočevje is dedicated to Saints Fabian, Sebastian, and Bartholomew.", "category": "religious", "coords": [14.860262, 45.639764]}, {"name": "Lokomotiva JŽ 153-006‎", "text": "A historical locomotive recalling the railway history of Kočevje.", "category": "landmark", "coords": [14.8572, 45.645693]}]},
+    id: "slovenia-kocevje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glavna plaža Jezero",
+                  "text": "Als Hauptstrand des malerischen Sees in Kočevje ist die Glavna plaža Jezero von üppig grünen Wäldern umgeben. Sie verströmt eine ausgesprochen ruhige und natürliche Atmosphäre, die bei Erholungssuchenden und Naturliebhabern gleichermaßen hoch im Kurs steht. Besucher können im stillen Wasser des Sees schwimmen oder ein gemütliches Picknick an den weitläufigen Ufern veranstalten. Mit einer flauschigen Decke und ein paar Spielen im Gepäck wird der Nachmittag am Wasser perfekt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.874735,
+                        45.64691
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kofel",
+                  "text": "Ein Naturschutzgebiet mit geschütztem Waldbestand in der Region Kočevje.",
+                  "category": "natural",
+                  "coords": [
+                        14.842301,
+                        45.651665
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Kočevje",
+                  "text": "Das Museum präsentiert die lokale Geschichte und das Erbe der Region Kočevje.",
+                  "category": "museum",
+                  "coords": [
+                        14.865691,
+                        45.637015
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mestni vrh",
+                  "text": "Ein Waldreservat, das einen Teil des Urwaldes bei Kočevje schützt.",
+                  "category": "natural",
+                  "coords": [
+                        14.850707,
+                        45.620928
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Željnske Jame",
+                  "text": "Ein Schutzgebiet, das die Umgebung der bedeutenden Höhlen von Željne umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        14.887881,
+                        45.654911
+                  ]
+            },
+            {
+                  "name": "Željnske jame",
+                  "text": "Diese Karsthöhlen sind bekannt für ihre horizontale Struktur und mehrere Eingänge.",
+                  "category": "natural",
+                  "coords": [
+                        14.884619,
+                        45.654972
+                  ]
+            },
+            {
+                  "name": "Remihov mlin",
+                  "text": "Eine historische Wassermühle am Fluss Rinža in Kočevje.",
+                  "category": "historical",
+                  "coords": [
+                        14.895178,
+                        45.654741
+                  ]
+            },
+            {
+                  "name": "cerkev sv. Fabijana in Boštjana ter sv. Jerneja",
+                  "text": "Die Pfarrkirche von Kočevje ist den Heiligen Fabian, Sebastian und Bartholomäus gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        14.860262,
+                        45.639764
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 153-006‎",
+                  "text": "Eine historische Lokomotive, die an die Bahngeschichte von Kočevje erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.8572,
+                        45.645693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glavna plaža Jezero",
+                  "text": "A Kočevje festői tavának fő strandjaként szolgáló Glavna plaža Jezero partszakaszt buja, zöldellő erdők ölelik körbe. Kifejezetten békés és természetes kisugárzással rendelkezik, amely igen népszerű a pihenni vágyó helyiek és a természetbarátok körében. A vendégek egy jót úszhatnak a tó nyugodt vizében, vagy piknikezhetnek a tágas parton. Egy puha takaróval és néhány szabadtéri játékkal felszerelkezve ideális nyári délutánt tölthetünk el itt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.874735,
+                        45.64691
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kofel",
+                  "text": "Természetvédelmi terület védett erdőállománnyal Kočevje régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        14.842301,
+                        45.651665
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Kočevje",
+                  "text": "A múzeum Kočevje régió helyi történelmét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.865691,
+                        45.637015
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mestni vrh",
+                  "text": "Erőrezervátum, amely a Kočevje melletti őserdő egy részét védi.",
+                  "category": "natural",
+                  "coords": [
+                        14.850707,
+                        45.620928
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Željnske Jame",
+                  "text": "A jelentős Željnei-barlangok környékét magában foglaló védett terület.",
+                  "category": "natural",
+                  "coords": [
+                        14.887881,
+                        45.654911
+                  ]
+            },
+            {
+                  "name": "Željnske jame",
+                  "text": "Ezek a karsztbarlangok vízszintes szerkezetükről és több bejáratukról ismertek.",
+                  "category": "natural",
+                  "coords": [
+                        14.884619,
+                        45.654972
+                  ]
+            },
+            {
+                  "name": "Remihov mlin",
+                  "text": "Történelmi vízimalom a Rinža folyón Kočevjében.",
+                  "category": "historical",
+                  "coords": [
+                        14.895178,
+                        45.654741
+                  ]
+            },
+            {
+                  "name": "cerkev sv. Fabijana in Boštjana ter sv. Jerneja",
+                  "text": "Kočevje plébániatemploma Szent Fábiánnak, Sebestyénnek és Bertalannak van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        14.860262,
+                        45.639764
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 153-006‎",
+                  "text": "Történelmi mozdony, amely Kočevje vasúti múltjára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.8572,
+                        45.645693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glavna plaža Jezero",
+                  "text": "Servind ca plajă principală pe pitorescul lac din Kočevje, Glavna plaža Jezero este frumos încadrată de păduri verzi și luxuriante. Oferă o atmosferă distinct de senină și naturală, fiind foarte populară atât printre localnicii care se odihnesc, cât și printre iubitorii de natură. Oaspeții se pot bucura de o baie liniștită în apele calme ale lacului sau pot savura cu ușurință un picnic de-a lungul țărmului generos. Aducerea unei pături confortabile și a unor jocuri în aer liber asigură o după-amiază de vară ideală.",
+                  "category": "recreational",
+                  "coords": [
+                        14.874735,
+                        45.64691
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kofel",
+                  "text": "O rezervație naturală cu pădure protejată în regiunea Kočevje.",
+                  "category": "natural",
+                  "coords": [
+                        14.842301,
+                        45.651665
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Kočevje",
+                  "text": "Muzeul prezintă istoria locală și moștenirea regiunii Kočevje.",
+                  "category": "museum",
+                  "coords": [
+                        14.865691,
+                        45.637015
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mestni vrh",
+                  "text": "O rezervație forestieră care protejează o parte din pădurea virgină de lângă Kočevje.",
+                  "category": "natural",
+                  "coords": [
+                        14.850707,
+                        45.620928
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Željnske Jame",
+                  "text": "O zonă protejată care cuprinde împrejurimile importantelor peșteri Željne.",
+                  "category": "natural",
+                  "coords": [
+                        14.887881,
+                        45.654911
+                  ]
+            },
+            {
+                  "name": "Željnske jame",
+                  "text": "Aceste peșteri carstice sunt cunoscute pentru structura lor orizontală și intrările multiple.",
+                  "category": "natural",
+                  "coords": [
+                        14.884619,
+                        45.654972
+                  ]
+            },
+            {
+                  "name": "Remihov mlin",
+                  "text": "O moară de apă istorică pe râul Rinža în Kočevje.",
+                  "category": "historical",
+                  "coords": [
+                        14.895178,
+                        45.654741
+                  ]
+            },
+            {
+                  "name": "cerkev sv. Fabijana in Boštjana ter sv. Jerneja",
+                  "text": "Biserica parohială din Kočevje este dedicată Sfinților Fabian, Sebastian și Bartolomeu.",
+                  "category": "religious",
+                  "coords": [
+                        14.860262,
+                        45.639764
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 153-006‎",
+                  "text": "O locomotivă istorică ce amintește de istoria feroviară a orașului Kočevje.",
+                  "category": "landmark",
+                  "coords": [
+                        14.8572,
+                        45.645693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glavna plaža Jezero",
+                  "text": "Serving as the primary beach on the picturesque lake in Kočevje, Glavna plaža Jezero is beautifully framed by lush green forests. It projects a distinctly serene and natural vibe, proving very popular with both resting locals and traveling nature lovers. Guests can take a peaceful swim in the calm lake waters or easily enjoy a picnic along the expansive shoreline. Bringing along a cozy blanket and some outdoor games makes for an ideal summer afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        14.874735,
+                        45.64691
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Kofel",
+                  "text": "A nature reserve with protected forest in the Kočevje region.",
+                  "category": "natural",
+                  "coords": [
+                        14.842301,
+                        45.651665
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Kočevje",
+                  "text": "The museum presents the local history and heritage of the Kočevje region.",
+                  "category": "museum",
+                  "coords": [
+                        14.865691,
+                        45.637015
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Mestni vrh",
+                  "text": "A forest reserve protecting a part of the virgin forest near Kočevje.",
+                  "category": "natural",
+                  "coords": [
+                        14.850707,
+                        45.620928
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Željnske Jame",
+                  "text": "A protected area encompassing the surroundings of the significant Željne caves.",
+                  "category": "natural",
+                  "coords": [
+                        14.887881,
+                        45.654911
+                  ]
+            },
+            {
+                  "name": "Željnske jame",
+                  "text": "These karst caves are known for their horizontal structure and multiple entrances.",
+                  "category": "natural",
+                  "coords": [
+                        14.884619,
+                        45.654972
+                  ]
+            },
+            {
+                  "name": "Remihov mlin",
+                  "text": "A historic watermill on the Rinža River in Kočevje.",
+                  "category": "historical",
+                  "coords": [
+                        14.895178,
+                        45.654741
+                  ]
+            },
+            {
+                  "name": "cerkev sv. Fabijana in Boštjana ter sv. Jerneja",
+                  "text": "The parish church of Kočevje is dedicated to Saints Fabian, Sebastian, and Bartholomew.",
+                  "category": "religious",
+                  "coords": [
+                        14.860262,
+                        45.639764
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 153-006‎",
+                  "text": "A historical locomotive recalling the railway history of Kočevje.",
+                  "category": "landmark",
+                  "coords": [
+                        14.8572,
+                        45.645693
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Kočevje", hu: "Kočevje", ro: "Kočevje", en: "Kočevje"},
@@ -4626,7 +6489,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Notranjski muzej Postojna",
-                  "text": "Ein regionales Museum mit Schwerpunkt auf der Karstgeschichte.",
+                  "text": "Ein Museum zur Natur- und Kulturgeschichte der Innerkrain in Postojna.",
                   "category": "museum",
                   "coords": [
                         14.217448,
@@ -4635,7 +6498,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Modrijanov mlin",
-                  "text": "Eine historische Mühle am Fluss Pivka beim Eingang zur Höhle von Postojna.",
+                  "text": "Größte Schauhöhle Sloweniens mit 24 Meter hoher Halle und Zugbahn.",
                   "category": "museum",
                   "coords": [
                         14.204889,
@@ -4644,7 +6507,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Neotropica",
-                  "text": "Ein Aquarium in Postojna, das auf exotische Tiere spezialisiert ist.",
+                  "text": "Neotropica ist eine tropische Indoor-Anlage mit exotischen Pflanzen und Schmetterlingen.",
                   "category": "family",
                   "coords": [
                         14.196701,
@@ -4653,7 +6516,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Vivarij Proteus",
-                  "text": "Eine Ausstellung zur Höhlenbiologie, in der Grottenolme zu sehen sind.",
+                  "text": "Ein historisches Wassermühlenmuseum aus dem Jahr 1593 in Postojna.",
                   "category": "family",
                   "coords": [
                         14.20489,
@@ -4662,7 +6525,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Ruševine gradu Postojna (Adelsberg)",
-                  "text": "Die Ruinen einer mittelalterlichen Burg auf einem Hügel über Postojna.",
+                  "text": "Die Ruinen der Burg Postojna (Adelsberg) liegen auf einem Felsen über dem Höhleneingang.",
                   "category": "castle",
                   "coords": [
                         14.210957,
@@ -4671,7 +6534,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Höhle von Postojna",
-                  "text": "Eines der weltweit bekanntesten Karsthöhlensysteme.",
+                  "text": "Die Postojna-Höhle ist eine der größten Karsthöhlen der Welt mit einer Zugfahrt durch die Säle.",
                   "category": "landmark",
                   "coords": [
                         14.203855,
@@ -4698,7 +6561,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Lekinka",
-                  "text": "Ein Höhleneingang im Karstgebiet von Postojna.",
+                  "text": "Die Lekinka ist eine große Karstdoline im Wald bei Postojna, Teil des Karstsystems.",
                   "category": "natural",
                   "coords": [
                         14.193299,
@@ -4707,7 +6570,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Križ obiska papeža sv. Janeza Pavla II.",
-                  "text": "Ein Denkmal zur Erinnerung an den Besuch von Papst Johannes Paul II.",
+                  "text": "Das Kreuz erinnert an den Besuch von Papst Johannes Paul II. im Jahr 1996 in Postojna.",
                   "category": "historical",
                   "coords": [
                         14.192558,
@@ -4725,7 +6588,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Sveta Magdalena",
-                  "text": "Die Ruinen einer alten Kirche auf einem Hügel bei Postojna.",
+                  "text": "St. Magdalena, eine Kapellenruine auf einem Hügel oberhalb von Postojna.",
                   "category": "historical",
                   "coords": [
                         14.199669,
@@ -4734,7 +6597,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Kulturni dom Postojna",
-                  "text": "Das lokale Kulturzentrum für Theater und Veranstaltungen in Postojna.",
+                  "text": "Der Kulturni dom Postojna ist ein Kulturhaus im Stadtzentrum mit Konzerten und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         14.214908,
@@ -4743,7 +6606,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Pustolovski Park",
-                  "text": "Ein Outdoor-Abenteuerpark mit Kletterparcours im Wald.",
+                  "text": "Der Pustolovski Park ist ein Hochseilgarten in den Bäumen nahe Postojna.",
                   "category": "landmark",
                   "coords": [
                         14.206816,
@@ -4752,7 +6615,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Mlinski dvor",
-                  "text": "Ein historisches Herrenhaus in der Nähe von Postojna.",
+                  "text": "Ein historischer Mühlenkomplex mit einem Wasserrad in Postojna.",
                   "category": "historical",
                   "coords": [
                         14.212235,
@@ -4761,7 +6624,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Parna lokomotiva FS 740.121",
-                  "text": "Eine ausgestellte historische Dampflokomotive in Postojna.",
+                  "text": "Eine Dampflokomotive FS 740.121, ausgestellt am Bahnhof Postojna.",
                   "category": "landmark",
                   "coords": [
                         14.220996,
@@ -4781,7 +6644,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Notranjski muzej Postojna",
-                  "text": "Regionális múzeum, amely a karsztvidék történelmére összpontosít.",
+                  "text": "Belső-Krajna természet- és kultúrtörténetének múzeuma Postojnában.",
                   "category": "museum",
                   "coords": [
                         14.217448,
@@ -4790,7 +6653,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Modrijanov mlin",
-                  "text": "Történelmi malom a Pivka-folyón, a Postojnai-barlang bejáratánál.",
+                  "text": "Szlovénia legnagyobb bemutató barlangja, 24 méter magas teremmel és kisvonattal.",
                   "category": "museum",
                   "coords": [
                         14.204889,
@@ -4799,7 +6662,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Neotropica",
-                  "text": "Egzotikus állatokra szakosodott akvárium Postojnában.",
+                  "text": "A Neotropica egy beltéri trópusi park egzotikus növényekkel és pillangókkal.",
                   "category": "family",
                   "coords": [
                         14.196701,
@@ -4808,7 +6671,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Vivarij Proteus",
-                  "text": "Barlangi biológiai kiállítás, ahol barlangi vakgőtéket láthatunk.",
+                  "text": "Történelmi vízimalom múzeum 1593-ból Postojnában.",
                   "category": "family",
                   "coords": [
                         14.20489,
@@ -4817,7 +6680,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Ruševine gradu Postojna (Adelsberg)",
-                  "text": "Középkori vár romjai a Postojna feletti dombon.",
+                  "text": "A Postojna (Adelsberg) vár romjai egy sziklán állnak a barlang bejárata fölött.",
                   "category": "castle",
                   "coords": [
                         14.210957,
@@ -4826,7 +6689,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Postojnai barlang",
-                  "text": "A világ egyik legismertebb karsztbarlang-rendszere.",
+                  "text": "A Postojna-barlang a világ egyik legnagyobb karsztbarlangja, vonatozással a termein át.",
                   "category": "landmark",
                   "coords": [
                         14.203855,
@@ -4853,7 +6716,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Lekinka",
-                  "text": "Barlangbejárat a postojnai karsztvidéken.",
+                  "text": "A Lekinka egy nagy karsztvíznyelő az erdőben Postojna közelében, a karsztrendszer része.",
                   "category": "natural",
                   "coords": [
                         14.193299,
@@ -4862,7 +6725,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Križ obiska papeža sv. Janeza Pavla II.",
-                  "text": "II. János Pál pápa látogatásának emlékére állított kereszt.",
+                  "text": "A kereszt II. János Pál pápa 1996-os postojnai látogatásának állít emléket.",
                   "category": "historical",
                   "coords": [
                         14.192558,
@@ -4880,7 +6743,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Sveta Magdalena",
-                  "text": "Egy régi templom romjai a Postojna melletti dombon.",
+                  "text": "Szent Magdolna-kápolna romja egy dombon Postojna felett.",
                   "category": "historical",
                   "coords": [
                         14.199669,
@@ -4889,7 +6752,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Kulturni dom Postojna",
-                  "text": "Postojna helyi kulturális központja, színházi és egyéb rendezvények helyszíne.",
+                  "text": "A Kulturni dom Postojna egy kulturális ház a városközpontban, koncertekkel és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         14.214908,
@@ -4898,7 +6761,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Pustolovski Park",
-                  "text": "Szabadtéri kalandpark erdei kötélpályákkal.",
+                  "text": "A Pustolovski Park egy fákon átívelő magas kötélpálya Postojna közelében.",
                   "category": "landmark",
                   "coords": [
                         14.206816,
@@ -4907,7 +6770,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Mlinski dvor",
-                  "text": "Történelmi udvarház Postojna közelében.",
+                  "text": "Történelmi malomegyüttes vízikerékkel Postojnában.",
                   "category": "historical",
                   "coords": [
                         14.212235,
@@ -4916,7 +6779,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Parna lokomotiva FS 740.121",
-                  "text": "Kiállított történelmi gőzmozdony Postojnában.",
+                  "text": "FS 740.121 gőzmozdony kiállítva a postojnai vasútállomáson.",
                   "category": "landmark",
                   "coords": [
                         14.220996,
@@ -4936,7 +6799,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Notranjski muzej Postojna",
-                  "text": "Un muzeu regional axat pe istoria regiunii carstice.",
+                  "text": "Un muzeu al istoriei naturale și culturale a Crainei Interioare în Postojna.",
                   "category": "museum",
                   "coords": [
                         14.217448,
@@ -4945,7 +6808,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Modrijanov mlin",
-                  "text": "O moară istorică pe râul Pivka, lângă intrarea în Peștera Postojna.",
+                  "text": "Cea mai mare peșteră turistică din Slovenia, cu o sală de 24 m înălțime și un trenuleț.",
                   "category": "museum",
                   "coords": [
                         14.204889,
@@ -4954,7 +6817,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Neotropica",
-                  "text": "Un acvariu în Postojna specializat în specii exotice.",
+                  "text": "Neotropica este un parc tropical interior cu plante exotice și fluturi.",
                   "category": "family",
                   "coords": [
                         14.196701,
@@ -4963,7 +6826,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Vivarij Proteus",
-                  "text": "O expoziție de biologie cavernicolă unde pot fi văzuți olmi.",
+                  "text": "Un muzeu al morii de apă din 1593 în Postojna.",
                   "category": "family",
                   "coords": [
                         14.20489,
@@ -4972,7 +6835,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Ruševine gradu Postojna (Adelsberg)",
-                  "text": "Ruinele unui castel medieval pe un deal deasupra orașului Postojna.",
+                  "text": "Ruinele castelului Postojna (Adelsberg) se află pe o stâncă deasupra intrării în peșteră.",
                   "category": "castle",
                   "coords": [
                         14.210957,
@@ -4981,7 +6844,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Postojnska jama",
-                  "text": "Unul dintre cele mai renumite sisteme de peșteri carstice din lume.",
+                  "text": "Peștera Postojna este una dintre cele mai mari peșteri carstice din lume, cu un tren prin săli.",
                   "category": "landmark",
                   "coords": [
                         14.203855,
@@ -5008,7 +6871,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Lekinka",
-                  "text": "O intrare de peșteră în zona carstică Postojna.",
+                  "text": "Lekinka este o dolină carstică mare în pădurea de lângă Postojna, parte a sistemului carstic.",
                   "category": "natural",
                   "coords": [
                         14.193299,
@@ -5017,7 +6880,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Križ obiska papeža sv. Janeza Pavla II.",
-                  "text": "O cruce monument ridicată în memoria vizitei Papei Ioan Paul al II-lea.",
+                  "text": "Crucea comemorează vizita Papei Ioan Paul al II-lea la Postojna în 1996.",
                   "category": "historical",
                   "coords": [
                         14.192558,
@@ -5035,7 +6898,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Sveta Magdalena",
-                  "text": "Ruinele unei vechi biserici pe un deal lângă Postojna.",
+                  "text": "Sf. Magdalena, o ruină de capelă pe o colină deasupra orașului Postojna.",
                   "category": "historical",
                   "coords": [
                         14.199669,
@@ -5044,7 +6907,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Kulturni dom Postojna",
-                  "text": "Centrul cultural local pentru teatru și evenimente în Postojna.",
+                  "text": "Kulturni dom Postojna este o casă de cultură în centrul orașului, cu concerte și expoziții.",
                   "category": "cultural",
                   "coords": [
                         14.214908,
@@ -5053,7 +6916,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Pustolovski Park",
-                  "text": "Un parc de aventură în aer liber cu trasee de cățărare în pădure.",
+                  "text": "Pustolovski Park este un parc de aventură cu trasee de frânghie între copaci lângă Postojna.",
                   "category": "landmark",
                   "coords": [
                         14.206816,
@@ -5062,7 +6925,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Mlinski dvor",
-                  "text": "Un conac istoric situat în apropiere de Postojna.",
+                  "text": "Un complex istoric de moară cu roată de apă în Postojna.",
                   "category": "historical",
                   "coords": [
                         14.212235,
@@ -5071,7 +6934,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Parna lokomotiva FS 740.121",
-                  "text": "O locomotivă cu abur istorică expusă în Postojna.",
+                  "text": "O locomotivă cu abur FS 740.121 expusă la gara Postojna.",
                   "category": "landmark",
                   "coords": [
                         14.220996,
@@ -5091,7 +6954,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Notranjski muzej Postojna",
-                  "text": "A regional museum focusing on the history of the Karst region.",
+                  "text": "A museum documenting the natural and cultural history of Inner Carniola in Postojna.",
                   "category": "museum",
                   "coords": [
                         14.217448,
@@ -5100,7 +6963,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Modrijanov Mill",
-                  "text": "A historic mill on the Pivka River near the entrance to Postojna Cave.",
+                  "text": "A historic watermill museum from 1593 in Postojna.",
                   "category": "museum",
                   "coords": [
                         14.204889,
@@ -5109,7 +6972,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Neotropica",
-                  "text": "An aquarium in Postojna specializing in exotic animals.",
+                  "text": "Neotropica is an indoor tropical park with exotic plants and butterflies.",
                   "category": "family",
                   "coords": [
                         14.196701,
@@ -5118,7 +6981,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Vivarij Proteus",
-                  "text": "An exhibition of cave biology featuring the olm (proteus).",
+                  "text": "Vivarij Proteus displays live olms (Proteus anguinus) from the Postojna Cave.",
                   "category": "family",
                   "coords": [
                         14.20489,
@@ -5127,7 +6990,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Ruševine gradu Postojna (Adelsberg)",
-                  "text": "The ruins of a medieval castle on a hill overlooking Postojna.",
+                  "text": "The ruins of Postojna Castle (Adelsberg) sit on a cliff above the cave entrance.",
                   "category": "castle",
                   "coords": [
                         14.210957,
@@ -5136,7 +6999,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Postojna Cave",
-                  "text": "One of the world's most famous karst cave systems.",
+                  "text": "Postojna Cave is one of the largest karst caves in the world, with a train ride through its chambers.",
                   "category": "landmark",
                   "coords": [
                         14.203855,
@@ -5163,7 +7026,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Lekinka",
-                  "text": "A cave entrance in the Postojna karst area.",
+                  "text": "Lekinka is a large karst sinkhole in the forest near Postojna, part of the karst system.",
                   "category": "natural",
                   "coords": [
                         14.193299,
@@ -5172,7 +7035,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Križ obiska papeža sv. Janeza Pavla II.",
-                  "text": "A monument cross commemorating the visit of Pope John Paul II.",
+                  "text": "The cross marks the spot where Pope John Paul II visited Postojna in 1996.",
                   "category": "historical",
                   "coords": [
                         14.192558,
@@ -5190,7 +7053,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Sveta Magdalena",
-                  "text": "The ruins of an old church on a hill near Postojna.",
+                  "text": "St. Magdalena, a ruined chapel on a hill above Postojna.",
                   "category": "historical",
                   "coords": [
                         14.199669,
@@ -5199,7 +7062,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Kulturni dom Postojna",
-                  "text": "The local cultural centre for theatre and events in Postojna.",
+                  "text": "Kulturni dom Postojna is a cultural hall in the town center hosting concerts and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         14.214908,
@@ -5208,7 +7071,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Pustolovski Park",
-                  "text": "An outdoor adventure park with climbing courses in the forest.",
+                  "text": "Pustolovski Park is a high-ropes adventure park among the trees near Postojna.",
                   "category": "landmark",
                   "coords": [
                         14.206816,
@@ -5217,7 +7080,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Mlinski dvor",
-                  "text": "A historic manor house located near Postojna.",
+                  "text": "A historic mill complex with a water wheel in Postojna.",
                   "category": "historical",
                   "coords": [
                         14.212235,
@@ -5226,7 +7089,7 @@ imageHint: "Kocevje city and the nearby lake",
             },
             {
                   "name": "Parna lokomotiva FS 740.121",
-                  "text": "A historic steam locomotive on display in Postojna.",
+                  "text": "A steam locomotive FS 740.121 displayed at Postojna railway station.",
                   "category": "landmark",
                   "coords": [
                         14.220996,
@@ -5574,7 +7437,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Kulturni center Vrhnika",
-                  "text": "Ein Kulturzentrum in Vrhnika, das Ausstellungen und Events beherbergt.",
+                  "text": "Ein Kulturzentrum mit einer Museumssammlung im Zentrum von Vrhnika.",
                   "category": "museum",
                   "coords": [
                         14.292706,
@@ -5583,7 +7446,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Naviport: rimska postojanka s pristaniščem",
-                  "text": "Reste einer antiken römischen Siedlung und eines Hafens.",
+                  "text": "Naviport, eine römische Station mit Hafen am Fluss Ljubljanica bei Vrhnika.",
                   "category": "historical",
                   "coords": [
                         14.302755,
@@ -5601,7 +7464,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Mik'lčeva kašča",
-                  "text": "Ein traditioneller alter Getreidespeicher in Vrhnika.",
+                  "text": "Mik'lčeva kašča ist ein historischer Getreidespeicher aus Holz in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.301956,
@@ -5619,7 +7482,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Veliko okence",
-                  "text": "Eine bedeutende Karstquelle in der Nähe von Vrhnika.",
+                  "text": "Veliko okence, eine große fensterförmige Felsformation auf den Retovje-Hügeln bei Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.295936,
@@ -5637,7 +7500,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Trije pingvini",
-                  "text": "Eine kleine Skulptur, die drei Pinguine darstellt.",
+                  "text": "Historisches Denkmal mit drei Pinguinstatuen in Vrhnika.",
                   "category": "historical",
                   "coords": [
                         14.306722,
@@ -5655,7 +7518,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Meletova kašča",
-                  "text": "Ein gut erhaltener historischer Getreidespeicher.",
+                  "text": "Historischer Getreidespeicher in Steinbauweise in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.295338,
@@ -5664,7 +7527,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Razorceva kmetija",
-                  "text": "Ein traditioneller Bauernhof in der Region Vrhnika.",
+                  "text": "Erhaltenes Bauerngehöft in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.296376,
@@ -5673,7 +7536,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Maroltova kašča",
-                  "text": "Ein historischer Speicherbau in Vrhnika.",
+                  "text": "Marolts historischer Getreidespeicher in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.301155,
@@ -5682,7 +7545,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Spomenik na Drči",
-                  "text": "Ein Denkmal in Vrhnika zur Erinnerung an historische Ereignisse.",
+                  "text": "Kriegerdenkmal auf dem Drča-Hügel in Vrhnika.",
                   "category": "historical",
                   "coords": [
                         14.291196,
@@ -5691,7 +7554,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Lokomotiva 62-121",
-                  "text": "Eine historische Lokomotive, die in Vrhnika ausgestellt ist.",
+                  "text": "Erhaltene Dampflokomotive 62-121 in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.298283,
@@ -5711,7 +7574,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Kulturni center Vrhnika",
-                  "text": "Kulturális központ Vrhnikában, amely kiállításoknak és eseményeknek ad otthont.",
+                  "text": "Kulturális központ múzeumi gyűjteménnyel Vrhnika központjában.",
                   "category": "museum",
                   "coords": [
                         14.292706,
@@ -5720,7 +7583,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Naviport: rimska postojanka s pristaniščem",
-                  "text": "Egy ókori római település és kikötő maradványai.",
+                  "text": "Naviport, római állomás kikötővel a Ljubljanica folyón Vrhnika mellett.",
                   "category": "historical",
                   "coords": [
                         14.302755,
@@ -5738,7 +7601,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Mik'lčeva kašča",
-                  "text": "Hagyományos régi gabonatároló (kašča) Vrhnikában.",
+                  "text": "A Mik'lčeva kašča egy történelmi fából készült magtár Vrhnikában.",
                   "category": "landmark",
                   "coords": [
                         14.301956,
@@ -5756,7 +7619,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Veliko okence",
-                  "text": "Jelentős karsztforrás Vrhnika közelében.",
+                  "text": "Veliko okence, egy nagy ablak alakú sziklaformáció a Retovje-dombságon Vrhnika mellett.",
                   "category": "landmark",
                   "coords": [
                         14.295936,
@@ -5774,7 +7637,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Trije pingvini",
-                  "text": "Három pingvint ábrázoló kis szobor.",
+                  "text": "Három pingvint ábrázoló történelmi emlékmű Vrhnikában.",
                   "category": "historical",
                   "coords": [
                         14.306722,
@@ -5792,7 +7655,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Meletova kašča",
-                  "text": "Jó állapotban megmaradt történelmi gabonatároló.",
+                  "text": "Történelmi kőmagtár Vrhnikában.",
                   "category": "landmark",
                   "coords": [
                         14.295338,
@@ -5801,7 +7664,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Razorceva kmetija",
-                  "text": "Hagyományos parasztgazdaság Vrhnika környékén.",
+                  "text": "Fennmaradt parasztgazdaság Vrhnikában.",
                   "category": "landmark",
                   "coords": [
                         14.296376,
@@ -5810,7 +7673,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Maroltova kašča",
-                  "text": "Történelmi magtár Vrhnika városában.",
+                  "text": "Marolt történelmi magtára Vrhnikában.",
                   "category": "landmark",
                   "coords": [
                         14.301155,
@@ -5819,7 +7682,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Spomenik na Drči",
-                  "text": "Történelmi eseményekre emlékeztető emlékmű Vrhnikában.",
+                  "text": "Háborús emlékmű a Drča-dombon Vrhnikában.",
                   "category": "historical",
                   "coords": [
                         14.291196,
@@ -5828,7 +7691,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Lokomotiva 62-121",
-                  "text": "Vrhnikában kiállított történelmi mozdony.",
+                  "text": "Megőrzött 62-121-es gőzmozdony Vrhnikában.",
                   "category": "landmark",
                   "coords": [
                         14.298283,
@@ -5848,7 +7711,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Kulturni center Vrhnika",
-                  "text": "Un centru cultural în Vrhnika care găzduiește expoziții și evenimente.",
+                  "text": "Un centru cultural cu o colecție muzeală în centrul orașului Vrhnika.",
                   "category": "museum",
                   "coords": [
                         14.292706,
@@ -5857,7 +7720,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Naviport: rimska postojanka s pristaniščem",
-                  "text": "Rămășițele unei așezări și ale unui port roman antic.",
+                  "text": "Naviport, o stație romană cu port pe râul Ljubljanica lângă Vrhnika.",
                   "category": "historical",
                   "coords": [
                         14.302755,
@@ -5875,7 +7738,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Mik'lčeva kašča",
-                  "text": "Un vechi hambar tradițional în Vrhnika.",
+                  "text": "Mik'lčeva kašča este un hambar istoric din lemn în Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.301956,
@@ -5893,7 +7756,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Veliko okence",
-                  "text": "Un izvor carstic important în apropiere de Vrhnika.",
+                  "text": "Veliko okence, o formațiune stâncoasă mare în formă de fereastră pe dealurile Retovje lângă Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.295936,
@@ -5911,7 +7774,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Trije pingvini",
-                  "text": "O mică sculptură reprezentând trei pinguini.",
+                  "text": "Monument istoric cu trei statui de pinguini în Vrhnika.",
                   "category": "historical",
                   "coords": [
                         14.306722,
@@ -5929,7 +7792,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Meletova kašča",
-                  "text": "Un hambar istoric bine conservat.",
+                  "text": "Grânar istoric din piatră în Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.295338,
@@ -5938,7 +7801,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Razorceva kmetija",
-                  "text": "O fermă tradițională în regiunea Vrhnika.",
+                  "text": "Fermă tradițională conservată în Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.296376,
@@ -5947,7 +7810,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Maroltova kašča",
-                  "text": "O magazie istorică în Vrhnika.",
+                  "text": "Grânarul istoric Marolt din Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.301155,
@@ -5956,7 +7819,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Spomenik na Drči",
-                  "text": "Un monument în Vrhnika care comemorează evenimente istorice.",
+                  "text": "Monument memorial pe dealul Drča din Vrhnika.",
                   "category": "historical",
                   "coords": [
                         14.291196,
@@ -5965,7 +7828,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Lokomotiva 62-121",
-                  "text": "O locomotivă istorică expusă în Vrhnika.",
+                  "text": "Locomotivă cu abur păstrată, numărul 62-121, în Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.298283,
@@ -5985,7 +7848,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Vrhnika Cultural Centre",
-                  "text": "A cultural centre in Vrhnika hosting exhibitions and events.",
+                  "text": "A cultural centre with a museum collection in the centre of Vrhnika.",
                   "category": "museum",
                   "coords": [
                         14.292706,
@@ -5994,7 +7857,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Naviport: rimska postojanka s pristaniščem",
-                  "text": "Remains of an ancient Roman settlement and port.",
+                  "text": "Naviport, a Roman way station with a port on the Ljubljanica River near Vrhnika.",
                   "category": "historical",
                   "coords": [
                         14.302755,
@@ -6012,7 +7875,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Mik'lčeva kašča",
-                  "text": "A traditional old granary (kašča) in Vrhnika.",
+                  "text": "Mik'lčeva kašča is a historic wooden granary in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.301956,
@@ -6030,7 +7893,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Veliko okence",
-                  "text": "A significant karst spring located near Vrhnika.",
+                  "text": "Veliko okence, a large window-shaped rock formation on the Retovje hills near Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.295936,
@@ -6048,7 +7911,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Trije pingvini",
-                  "text": "A small sculpture depicting three penguins.",
+                  "text": "Historical monument featuring three penguin statues in Vrhnika.",
                   "category": "historical",
                   "coords": [
                         14.306722,
@@ -6066,7 +7929,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Meletova kašča",
-                  "text": "A well-preserved historic granary.",
+                  "text": "Historic stone granary in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.295338,
@@ -6075,7 +7938,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Razorceva kmetija",
-                  "text": "A traditional farmstead in the Vrhnika area.",
+                  "text": "Preserved traditional farmstead in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.296376,
@@ -6084,7 +7947,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Maroltova kašča",
-                  "text": "A historic granary building in Vrhnika.",
+                  "text": "Marolt's historic granary in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.301155,
@@ -6093,7 +7956,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Spomenik na Drči",
-                  "text": "A monument in Vrhnika commemorating historical events.",
+                  "text": "War memorial on Drča hill in Vrhnika.",
                   "category": "historical",
                   "coords": [
                         14.291196,
@@ -6102,7 +7965,7 @@ imageHint: "Slovenj Gradec historic center and main square",
             },
             {
                   "name": "Lokomotiva 62-121",
-                  "text": "A historical locomotive on display in Vrhnika.",
+                  "text": "Preserved steam locomotive number 62-121 in Vrhnika.",
                   "category": "landmark",
                   "coords": [
                         14.298283,
@@ -6467,7 +8330,7 @@ imageHint: "Krško city view with Sava river and power plant",
       "de": [
             {
                   "name": "Posavski muzej Brežice",
-                  "text": "Posavski muzej Brežice ist ein lokales Museum in Brezice.",
+                  "text": "Regionalmuseum der Posavje-Region in Brežice.",
                   "category": "museum",
                   "coords": [
                         15.592585,
@@ -6494,7 +8357,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "WW2 grave site",
-                  "text": "Die Grabstätte aus dem Zweiten Weltkrieg ist eine archäologische und historische Stätte in Brezice.",
+                  "text": "Gräberstätte aus dem Zweiten Weltkrieg in Brežice.",
                   "category": "historical",
                   "coords": [
                         15.636347,
@@ -6503,7 +8366,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Straža Mansion",
-                  "text": "Das Herrenhaus Straža ist ein historisches Anwesen in Brezice.",
+                  "text": "Das Herrenhaus Straža (Dvorec Straža) ist ein Renaissance-Schloss mit Park in Brežice, heute Museum.",
                   "category": "historical",
                   "coords": [
                         15.607103,
@@ -6512,7 +8375,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Vodovodni stolp Brežice",
-                  "text": "Vodovodni stolp Brežice ist eine bemerkenswerte Sehenswürdigkeit in Brezice.",
+                  "text": "Der Vodovodni stolp Brežice ist ein historischer Wasserturm aus dem frühen 20. Jahrhundert in Brežice.",
                   "category": "landmark",
                   "coords": [
                         15.593663,
@@ -6521,7 +8384,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Sava Rapids",
-                  "text": "Sava Rapids ist ein natürlicher Aussichtspunkt in Brezice.",
+                  "text": "Stromschnellen der Save bei Brežice.",
                   "category": "natural",
                   "coords": [
                         15.61774,
@@ -6530,7 +8393,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Obelisk zmage 1991",
-                  "text": "Der Obelisk zmage 1991 ist ein Denkmal in Brezice.",
+                  "text": "Siegesobelisk, errichtet 2021 in Brežice.",
                   "category": "historical",
                   "coords": [
                         15.59153,
@@ -6539,7 +8402,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Kapela Božjega groba",
-                  "text": "Die Kapela Božjega groba ist eine religiöse Stätte in der Stadt Brezice.",
+                  "text": "Kapela Božjega groba ist eine barocke Kapelle in Brežice.",
                   "category": "religious",
                   "coords": [
                         15.586498,
@@ -6550,7 +8413,7 @@ imageHint: "Krško city view with Sava river and power plant",
       "hu": [
             {
                   "name": "Posavski muzej Brežice",
-                  "text": "A Posavski muzej Brežice egy helyi múzeum Brezice városában.",
+                  "text": "A Posavje régió múzeuma Brežicében.",
                   "category": "museum",
                   "coords": [
                         15.592585,
@@ -6577,7 +8440,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "WW2 grave site",
-                  "text": "A második világháborús sírhely egy régészeti és történelmi helyszín Brezice városában.",
+                  "text": "Második világháborús sírhely Brežicében.",
                   "category": "historical",
                   "coords": [
                         15.636347,
@@ -6586,7 +8449,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Straža Mansion",
-                  "text": "A Straža Mansion egy történelmi udvarház Brezice városában.",
+                  "text": "A Straža-kastély (Dvorec Straža) egy reneszánsz kastély parkkal Brežicében, ma múzeum.",
                   "category": "historical",
                   "coords": [
                         15.607103,
@@ -6595,7 +8458,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Vodovodni stolp Brežice",
-                  "text": "A Vodovodni stolp Brežice egy nevezetes látványosság Brezice területén.",
+                  "text": "A Vodovodni stolp Brežice egy történelmi víztorony a 20. század elejéről Brežicében.",
                   "category": "landmark",
                   "coords": [
                         15.593663,
@@ -6604,7 +8467,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Sava Rapids",
-                  "text": "A Sava Rapids egy természetes kilátópont Brezice városában.",
+                  "text": "Száva folyó zuhatagai Brežicénél.",
                   "category": "natural",
                   "coords": [
                         15.61774,
@@ -6613,7 +8476,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Obelisk zmage 1991",
-                  "text": "Az Obelisk zmage 1991 egy műemlék Brezice városában.",
+                  "text": "Győzelmi obeliszk, 2021-ben állították Brežicében.",
                   "category": "historical",
                   "coords": [
                         15.59153,
@@ -6622,7 +8485,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Kapela Božjega groba",
-                  "text": "A Kapela Božjega groba egy vallási imahely Brezice városában.",
+                  "text": "A Kapela Božjega groba egy barokk kápolna Brežicében.",
                   "category": "religious",
                   "coords": [
                         15.586498,
@@ -6633,7 +8496,7 @@ imageHint: "Krško city view with Sava river and power plant",
       "ro": [
             {
                   "name": "Posavski muzej Brežice",
-                  "text": "Posavski muzej Brežice este un muzeu local situat în Brezice.",
+                  "text": "Muzeul regional al regiunii Posavje din Brežice.",
                   "category": "museum",
                   "coords": [
                         15.592585,
@@ -6660,7 +8523,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "WW2 grave site",
-                  "text": "Mormântul din Al Doilea Război Mondial este un sit arheologic și istoric din Brezice.",
+                  "text": "Loc de înmormântare din al Doilea Război Mondial în Brežice.",
                   "category": "historical",
                   "coords": [
                         15.636347,
@@ -6669,7 +8532,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Straža Mansion",
-                  "text": "Conacul Straža este un conac istoric situat în Brezice.",
+                  "text": "Conacul Straža (Dvorec Straža) este un conac renascentist cu parc în Brežice, acum muzeu.",
                   "category": "historical",
                   "coords": [
                         15.607103,
@@ -6678,7 +8541,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Vodovodni stolp Brežice",
-                  "text": "Vodovodni stolp Brežice este o atracție notabilă din Brezice.",
+                  "text": "Vodovodni stolp Brežice este un turn de apă istoric de la începutul secolului XX în Brežice.",
                   "category": "landmark",
                   "coords": [
                         15.593663,
@@ -6687,7 +8550,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Sava Rapids",
-                  "text": "Sava Rapids este un punct de belvedere natural în Brezice.",
+                  "text": "Rapidele râului Sava lângă Brežice.",
                   "category": "natural",
                   "coords": [
                         15.61774,
@@ -6696,7 +8559,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Obelisk zmage 1991",
-                  "text": "Obelisk zmage 1991 este un monument din Brezice.",
+                  "text": "Obelisc al victoriei ridicat în 2021 la Brežice.",
                   "category": "historical",
                   "coords": [
                         15.59153,
@@ -6705,7 +8568,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Kapela Božjega groba",
-                  "text": "Kapela Božjega groba este un lăcaș de cult situat în orașul Brezice.",
+                  "text": "Kapela Božjega groba este o capelă barocă în Brežice.",
                   "category": "religious",
                   "coords": [
                         15.586498,
@@ -6716,7 +8579,7 @@ imageHint: "Krško city view with Sava river and power plant",
       "en": [
             {
                   "name": "Posavski muzej Brežice",
-                  "text": "Posavski muzej Brežice is a local museum located in Brezice.",
+                  "text": "Regional museum of the Posavje area in Brežice.",
                   "category": "museum",
                   "coords": [
                         15.592585,
@@ -6743,7 +8606,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "WW2 grave site",
-                  "text": "The WW2 grave site is an archaeological and historical site in Brezice.",
+                  "text": "World War II burial site in Brežice.",
                   "category": "historical",
                   "coords": [
                         15.636347,
@@ -6752,7 +8615,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Straža Mansion",
-                  "text": "Straža Mansion is a historic manor located in Brezice.",
+                  "text": "Straža Mansion (Dvorec Straža) is a Renaissance mansion with a park in Brežice, now a museum.",
                   "category": "historical",
                   "coords": [
                         15.607103,
@@ -6761,7 +8624,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Vodovodni stolp Brežice",
-                  "text": "Vodovodni stolp Brežice is a notable attraction situated in Brezice.",
+                  "text": "Vodovodni stolp Brežice is a historic early 20th-century water tower in Brežice.",
                   "category": "landmark",
                   "coords": [
                         15.593663,
@@ -6770,7 +8633,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Sava Rapids",
-                  "text": "Sava Rapids is a natural viewpoint in Brezice.",
+                  "text": "Rapids on the Sava River near Brežice.",
                   "category": "natural",
                   "coords": [
                         15.61774,
@@ -6779,7 +8642,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Obelisk zmage 1991",
-                  "text": "Obelisk zmage 1991 is a monument in Brezice.",
+                  "text": "Victory obelisk erected in 2021 in Brežice.",
                   "category": "historical",
                   "coords": [
                         15.59153,
@@ -6788,7 +8651,7 @@ imageHint: "Krško city view with Sava river and power plant",
             },
             {
                   "name": "Kapela Božjega groba",
-                  "text": "Kapela Božjega groba is a place of worship located in the city of Brezice.",
+                  "text": "Kapela Božjega groba is a Baroque chapel in Brežice.",
                   "category": "religious",
                   "coords": [
                         15.586498,
@@ -6938,7 +8801,7 @@ imageHint: "Ajdovscina Roman walls and city center",
       "de": [
             {
                   "name": "Živi muzej Krasa",
-                  "text": "Der Lebendige Karst-Museum in Sežana bietet Einblicke in die geologischen Besonderheiten der Region.",
+                  "text": "Ein Freilichtmuseum, das traditionelles Karstleben und Architektur in Sežana zeigt.",
                   "category": "museum",
                   "coords": [
                         13.869856,
@@ -6965,7 +8828,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Riparo di Monrupino",
-                  "text": "Der Riparo di Monrupino ist eine bedeutende archäologische Fundstelle nahe Sežana.",
+                  "text": "Prähistorischer Felsunterstand bei Monrupino nahe Sežana.",
                   "category": "historical",
                   "coords": [
                         13.814172,
@@ -6974,7 +8837,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Pastirsko zavetje",
-                  "text": "Dieses Pastirsko zavetje in Sežana ist ein historischer Schutzraum für Hirten.",
+                  "text": "Eine rekonstruierte Hirtenhütte mit ethnografischen Ausstellungen in Sežana.",
                   "category": "museum",
                   "coords": [
                         13.865649,
@@ -6992,7 +8855,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Prazgodovinske lovske megastrukture - osrednja past",
-                  "text": "Archäologische Stätte in Sezana.",
+                  "text": "Zentrale Falle der prähistorischen Jagd-Megastrukturen nahe Sežana.",
                   "category": "historical",
                   "coords": [
                         13.895702,
@@ -7001,7 +8864,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Kosovelov dom",
-                  "text": "Theater in Sezana.",
+                  "text": "Kulturzentrum, benannt nach dem Dichter Srečko Kosovel, in Sežana.",
                   "category": "cultural",
                   "coords": [
                         13.870166,
@@ -7019,7 +8882,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Golokratna jama",
-                  "text": "Höhleneingang in Sezana.",
+                  "text": "Die Golokratna jama ist eine Karsthöhle mit unterirdischen Formationen in der Region Sežana.",
                   "category": "natural",
                   "coords": [
                         13.862938,
@@ -7028,7 +8891,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Monte Franco / Frankovec",
-                  "text": "Berggipfel in Sezana.",
+                  "text": "Monte Franco / Frankovec ist ein Hügel im Karstgebiet bei Sežana.",
                   "category": "natural",
                   "coords": [
                         13.836612,
@@ -7037,7 +8900,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Jama Malanca",
-                  "text": "Höhleneingang in Sezana.",
+                  "text": "Die Jama Malanca ist eine Kalksteinhöhle im Karst von Sežana.",
                   "category": "natural",
                   "coords": [
                         13.880017,
@@ -7046,7 +8909,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Napoleonov hrast",
-                  "text": "Sehenswürdigkeit in Sezana.",
+                  "text": "Alte Eiche, die der Legende nach mit Napoleon verbunden ist, in Sežana.",
                   "category": "landmark",
                   "coords": [
                         13.862935,
@@ -7055,7 +8918,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Orlek, mejni kamen",
-                  "text": "Denkmal in Sezana.",
+                  "text": "Historischer Grenzstein in Orlek bei Sežana.",
                   "category": "historical",
                   "coords": [
                         13.834748,
@@ -7064,7 +8927,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Dolina dei Druidi",
-                  "text": "Ruinen in Sezana.",
+                  "text": "Tal mit druidischen Kultstätten in Sežana.",
                   "category": "historical",
                   "coords": [
                         13.824055,
@@ -7073,7 +8936,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Razgledišče na Kosovelovi poti",
-                  "text": "Aussichtspunkt in Sezana.",
+                  "text": "Aussichtspunkt entlang des Kosovel-Wanderwegs nahe Sežana.",
                   "category": "natural",
                   "coords": [
                         13.864434,
@@ -7082,7 +8945,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Naravno okno",
-                  "text": "Sehenswürdigkeit in Sezana.",
+                  "text": "Natürliches Felsfenster in Sežana.",
                   "category": "landmark",
                   "coords": [
                         13.856743,
@@ -7091,7 +8954,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Sežana, mejni kamen",
-                  "text": "Denkmal in Sezana.",
+                  "text": "Grenzstein von Sežana.",
                   "category": "historical",
                   "coords": [
                         13.894568,
@@ -7100,7 +8963,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Sežana, kamniti osamelec",
-                  "text": "Denkmal in Sezana.",
+                  "text": "Steinerner Findling in Sežana.",
                   "category": "historical",
                   "coords": [
                         13.890186,
@@ -7109,7 +8972,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Arheološko najdišče Tabor",
-                  "text": "Ruinen in Sezana.",
+                  "text": "Archäologische Fundstätte Tabor bei Sežana.",
                   "category": "historical",
                   "coords": [
                         13.867536,
@@ -7118,7 +8981,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Cerkev Marijinega Vnebovzetja",
-                  "text": "Gotteshaus in Sezana.",
+                  "text": "Cerkev Marijinega Vnebovzetja ist eine Mariä Himmelfahrt geweihte Kirche in Sežana.",
                   "category": "religious",
                   "coords": [
                         13.866815,
@@ -7127,7 +8990,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Cerkev Svetega Andreja",
-                  "text": "Gotteshaus in Sezana.",
+                  "text": "Cerkev Svetega Andreja ist eine dem Heiligen Andreas geweihte Kirche im Stadtzentrum von Sežana.",
                   "category": "religious",
                   "coords": [
                         13.901166,
@@ -7138,7 +9001,7 @@ imageHint: "Ajdovscina Roman walls and city center",
       "hu": [
             {
                   "name": "Živi muzej Krasa",
-                  "text": "A Sežana-i Élő Karszt Múzeum betekintést nyújt a régió geológiai különlegességeibe.",
+                  "text": "Szabadtéri múzeum, amely a hagyományos karsztvidéki életet és építészetet mutatja be Sežanában.",
                   "category": "museum",
                   "coords": [
                         13.869856,
@@ -7165,7 +9028,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Riparo di Monrupino",
-                  "text": "A Riparo di Monrupino egy jelentős régészeti lelőhely Sežana közelében.",
+                  "text": "Őskori sziklamenedék Monrupino közelében, Sežana mellett.",
                   "category": "historical",
                   "coords": [
                         13.814172,
@@ -7174,7 +9037,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Pastirsko zavetje",
-                  "text": "Ez a Sežana-i pásztor menedékhely egy történelmi védőépület a pásztorok számára.",
+                  "text": "Egy rekonstruált pásztorkunyhó néprajzi kiállításokkal Sežanában.",
                   "category": "museum",
                   "coords": [
                         13.865649,
@@ -7192,7 +9055,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Prazgodovinske lovske megastrukture - osrednja past",
-                  "text": "Régészeti lelőhely Sezanában.",
+                  "text": "Az őskori vadászó megastruktúrák központi csapdája Sežana közelében.",
                   "category": "historical",
                   "coords": [
                         13.895702,
@@ -7201,7 +9064,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Kosovelov dom",
-                  "text": "Színház Sezanában.",
+                  "text": "Srečko Kosovel költőről elnevezett kultúrház Sežanában.",
                   "category": "cultural",
                   "coords": [
                         13.870166,
@@ -7219,7 +9082,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Golokratna jama",
-                  "text": "Barlangbejárat Sezanában.",
+                  "text": "A Golokratna jama egy karsztbarlang föld alatti képződményekkel a Sežana régióban.",
                   "category": "natural",
                   "coords": [
                         13.862938,
@@ -7228,7 +9091,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Monte Franco / Frankovec",
-                  "text": "Hegycsúcs Sezanában.",
+                  "text": "A Monte Franco / Frankovec egy domb a Karszt régióban Sežana mellett.",
                   "category": "natural",
                   "coords": [
                         13.836612,
@@ -7237,7 +9100,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Jama Malanca",
-                  "text": "Barlangbejárat Sezanában.",
+                  "text": "A Jama Malanca egy mészkőbarlang a Sežanai Karsztban.",
                   "category": "natural",
                   "coords": [
                         13.880017,
@@ -7246,7 +9109,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Napoleonov hrast",
-                  "text": "Látnivaló Sezanában.",
+                  "text": "Öreg tölgy, amelyet a legenda Napóleonhoz köt, Sežanában.",
                   "category": "landmark",
                   "coords": [
                         13.862935,
@@ -7255,7 +9118,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Orlek, mejni kamen",
-                  "text": "Emlékmű Sezanában.",
+                  "text": "Történelmi határkő Orlekben, Sežana közelében.",
                   "category": "historical",
                   "coords": [
                         13.834748,
@@ -7264,7 +9127,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Dolina dei Druidi",
-                  "text": "Romok Sezanában.",
+                  "text": "Druida kultikus helyekkel teli völgy Sežanában.",
                   "category": "historical",
                   "coords": [
                         13.824055,
@@ -7273,7 +9136,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Razgledišče na Kosovelovi poti",
-                  "text": "Kilátópont Sezanában.",
+                  "text": "Kilátó a Kosovel túraútvonal mentén Sežana közelében.",
                   "category": "natural",
                   "coords": [
                         13.864434,
@@ -7282,7 +9145,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Naravno okno",
-                  "text": "Látnivaló Sezanában.",
+                  "text": "Természetes kőablak Sežanában.",
                   "category": "landmark",
                   "coords": [
                         13.856743,
@@ -7291,7 +9154,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Sežana, mejni kamen",
-                  "text": "Emlékmű Sezanában.",
+                  "text": "Sežana határköve.",
                   "category": "historical",
                   "coords": [
                         13.894568,
@@ -7300,7 +9163,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Sežana, kamniti osamelec",
-                  "text": "Emlékmű Sezanában.",
+                  "text": "Kőszikla-különálló Sežanában.",
                   "category": "historical",
                   "coords": [
                         13.890186,
@@ -7309,7 +9172,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Arheološko najdišče Tabor",
-                  "text": "Romok Sezanában.",
+                  "text": "Tabor régészeti lelőhely Sežana közelében.",
                   "category": "historical",
                   "coords": [
                         13.867536,
@@ -7318,7 +9181,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Cerkev Marijinega Vnebovzetja",
-                  "text": "Imaház Sezanában.",
+                  "text": "A Cerkev Marijinega Vnebovzetja egy Nagyboldogasszonynak szentelt templom Sežanában.",
                   "category": "religious",
                   "coords": [
                         13.866815,
@@ -7327,7 +9190,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Cerkev Svetega Andreja",
-                  "text": "Imaház Sezanában.",
+                  "text": "A Cerkev Svetega Andreja egy Szent Andrásnak szentelt templom Sežana belvárosában.",
                   "category": "religious",
                   "coords": [
                         13.901166,
@@ -7338,7 +9201,7 @@ imageHint: "Ajdovscina Roman walls and city center",
       "ro": [
             {
                   "name": "Živi muzej Krasa",
-                  "text": "Muzeul viu al carstului din Sežana oferă perspective asupra particularităților geologice ale regiunii.",
+                  "text": "Un muzeu în aer liber care prezintă viața și arhitectura tradițională a Carstului în Sežana.",
                   "category": "museum",
                   "coords": [
                         13.869856,
@@ -7365,7 +9228,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Riparo di Monrupino",
-                  "text": "Riparo di Monrupino este un sit arheologic semnificativ de lângă Sežana.",
+                  "text": "Adăpost preistoric în stâncă lângă Monrupino, aproape de Sežana.",
                   "category": "historical",
                   "coords": [
                         13.814172,
@@ -7374,7 +9237,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Pastirsko zavetje",
-                  "text": "Acest adăpost al păstorilor din Sežana este un refugiu istoric pentru păstori.",
+                  "text": "O colibă de păstor reconstituită cu exponate etnografice în Sežana.",
                   "category": "museum",
                   "coords": [
                         13.865649,
@@ -7392,7 +9255,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Prazgodovinske lovske megastrukture - osrednja past",
-                  "text": "Sit arheologic în Sezana.",
+                  "text": "Capcana centrală a megastructurilor de vânătoare preistorice lângă Sežana.",
                   "category": "historical",
                   "coords": [
                         13.895702,
@@ -7401,7 +9264,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Kosovelov dom",
-                  "text": "Teatru în Sezana.",
+                  "text": "Centru cultural numit după poetul Srečko Kosovel în Sežana.",
                   "category": "cultural",
                   "coords": [
                         13.870166,
@@ -7419,7 +9282,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Golokratna jama",
-                  "text": "Intrare de peșteră în Sezana.",
+                  "text": "Peștera Golokratna este o peșteră carstică cu formațiuni subterane în regiunea Sežana.",
                   "category": "natural",
                   "coords": [
                         13.862938,
@@ -7428,7 +9291,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Monte Franco / Frankovec",
-                  "text": "Vârf montan în Sezana.",
+                  "text": "Monte Franco / Frankovec este un deal în regiunea carstică lângă Sežana.",
                   "category": "natural",
                   "coords": [
                         13.836612,
@@ -7437,7 +9300,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Jama Malanca",
-                  "text": "Intrare de peșteră în Sezana.",
+                  "text": "Jama Malanca este o peșteră de calcar în Carstul Sežanei.",
                   "category": "natural",
                   "coords": [
                         13.880017,
@@ -7446,7 +9309,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Napoleonov hrast",
-                  "text": "Atracție în Sezana.",
+                  "text": "Stejar bătrân legat de legenda lui Napoleon în Sežana.",
                   "category": "landmark",
                   "coords": [
                         13.862935,
@@ -7455,7 +9318,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Orlek, mejni kamen",
-                  "text": "Monument în Sezana.",
+                  "text": "Piatră de hotar istorică în Orlek lângă Sežana.",
                   "category": "historical",
                   "coords": [
                         13.834748,
@@ -7464,7 +9327,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Dolina dei Druidi",
-                  "text": "Ruine în Sezana.",
+                  "text": "Vale cu sanctuare druidice în Sežana.",
                   "category": "historical",
                   "coords": [
                         13.824055,
@@ -7473,7 +9336,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Razgledišče na Kosovelovi poti",
-                  "text": "Punct de observație în Sezana.",
+                  "text": "Punct de belvedere pe traseul de drumeție Kosovel lângă Sežana.",
                   "category": "natural",
                   "coords": [
                         13.864434,
@@ -7482,7 +9345,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Naravno okno",
-                  "text": "Atracție în Sezana.",
+                  "text": "Fereastră naturală de piatră în Sežana.",
                   "category": "landmark",
                   "coords": [
                         13.856743,
@@ -7491,7 +9354,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Sežana, mejni kamen",
-                  "text": "Monument în Sezana.",
+                  "text": "Piatră de hotar a Sežanei.",
                   "category": "historical",
                   "coords": [
                         13.894568,
@@ -7500,7 +9363,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Sežana, kamniti osamelec",
-                  "text": "Monument în Sezana.",
+                  "text": "Piatră solitară în Sežana.",
                   "category": "historical",
                   "coords": [
                         13.890186,
@@ -7509,7 +9372,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Arheološko najdišče Tabor",
-                  "text": "Ruine în Sezana.",
+                  "text": "Sit arheologic Tabor lângă Sežana.",
                   "category": "historical",
                   "coords": [
                         13.867536,
@@ -7518,7 +9381,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Cerkev Marijinega Vnebovzetja",
-                  "text": "Lăcaș de cult în Sezana.",
+                  "text": "Cerkev Marijinega Vnebovzetja este o biserică dedicată Adormirii Maicii Domnului în Sežana.",
                   "category": "religious",
                   "coords": [
                         13.866815,
@@ -7527,7 +9390,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Cerkev Svetega Andreja",
-                  "text": "Lăcaș de cult în Sezana.",
+                  "text": "Cerkev Svetega Andreja este o biserică dedicată Sfântului Andrei în centrul Sežanei.",
                   "category": "religious",
                   "coords": [
                         13.901166,
@@ -7538,7 +9401,7 @@ imageHint: "Ajdovscina Roman walls and city center",
       "en": [
             {
                   "name": "Živi muzej Krasa",
-                  "text": "The Living Karst Museum in Sežana offers insights into the geological features of the region.",
+                  "text": "An open-air museum showcasing traditional Karst life and architecture in Sežana.",
                   "category": "museum",
                   "coords": [
                         13.869856,
@@ -7565,7 +9428,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Riparo di Monrupino",
-                  "text": "The Riparo di Monrupino is a significant archaeological site near Sežana.",
+                  "text": "Prehistoric rock shelter near Monrupino close to Sežana.",
                   "category": "historical",
                   "coords": [
                         13.814172,
@@ -7574,7 +9437,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Pastirsko zavetje",
-                  "text": "This shepherd shelter in Sežana is a historical refuge for shepherds.",
+                  "text": "A reconstructed shepherd's shelter with ethnographic exhibits in Sežana.",
                   "category": "museum",
                   "coords": [
                         13.865649,
@@ -7592,7 +9455,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Prazgodovinske lovske megastrukture - osrednja past",
-                  "text": "Archaeological site in Sezana.",
+                  "text": "Central trap of prehistoric hunting megastructures near Sežana.",
                   "category": "historical",
                   "coords": [
                         13.895702,
@@ -7601,7 +9464,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Kosovelov dom",
-                  "text": "Theatre in Sezana.",
+                  "text": "Cultural center named after poet Srečko Kosovel in Sežana.",
                   "category": "cultural",
                   "coords": [
                         13.870166,
@@ -7619,7 +9482,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Golokratna jama",
-                  "text": "Cave entrance in Sezana.",
+                  "text": "Golokratna jama is a karst cave with underground formations in the Sežana area.",
                   "category": "natural",
                   "coords": [
                         13.862938,
@@ -7628,7 +9491,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Monte Franco / Frankovec",
-                  "text": "Mountain peak in Sezana.",
+                  "text": "Monte Franco / Frankovec is a hill in the Karst region near Sežana.",
                   "category": "natural",
                   "coords": [
                         13.836612,
@@ -7637,7 +9500,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Jama Malanca",
-                  "text": "Cave entrance in Sezana.",
+                  "text": "Jama Malanca is a limestone cave in the Sežana karst.",
                   "category": "natural",
                   "coords": [
                         13.880017,
@@ -7646,7 +9509,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Napoleonov hrast",
-                  "text": "Attraction in Sezana.",
+                  "text": "Ancient oak tree linked to Napoleon by legend in Sežana.",
                   "category": "landmark",
                   "coords": [
                         13.862935,
@@ -7655,7 +9518,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Orlek, mejni kamen",
-                  "text": "Monument in Sezana.",
+                  "text": "Historical border marker at Orlek near Sežana.",
                   "category": "historical",
                   "coords": [
                         13.834748,
@@ -7664,7 +9527,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Dolina dei Druidi",
-                  "text": "Ruins in Sezana.",
+                  "text": "Valley with druidic worship sites in Sežana.",
                   "category": "historical",
                   "coords": [
                         13.824055,
@@ -7673,7 +9536,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Razgledišče na Kosovelovi poti",
-                  "text": "Viewpoint in Sezana.",
+                  "text": "Viewpoint along the Kosovel hiking trail near Sežana.",
                   "category": "natural",
                   "coords": [
                         13.864434,
@@ -7682,7 +9545,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Naravno okno",
-                  "text": "Attraction in Sezana.",
+                  "text": "Natural stone window in Sežana.",
                   "category": "landmark",
                   "coords": [
                         13.856743,
@@ -7691,7 +9554,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Sežana, mejni kamen",
-                  "text": "Monument in Sezana.",
+                  "text": "Sežana border stone.",
                   "category": "historical",
                   "coords": [
                         13.894568,
@@ -7700,7 +9563,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Sežana, kamniti osamelec",
-                  "text": "Monument in Sezana.",
+                  "text": "Isolated stone boulder in Sežana.",
                   "category": "historical",
                   "coords": [
                         13.890186,
@@ -7709,7 +9572,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Arheološko najdišče Tabor",
-                  "text": "Ruins in Sezana.",
+                  "text": "Archaeological site Tabor near Sežana.",
                   "category": "historical",
                   "coords": [
                         13.867536,
@@ -7718,7 +9581,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Cerkev Marijinega Vnebovzetja",
-                  "text": "Place of worship in Sezana.",
+                  "text": "Cerkev Marijinega Vnebovzetja is a church dedicated to the Assumption in Sežana.",
                   "category": "religious",
                   "coords": [
                         13.866815,
@@ -7727,7 +9590,7 @@ imageHint: "Ajdovscina Roman walls and city center",
             },
             {
                   "name": "Cerkev Svetega Andreja",
-                  "text": "Place of worship in Sezana.",
+                  "text": "Cerkev Svetega Andreja is a church dedicated to St. Andrew in Sežana's town center.",
                   "category": "religious",
                   "coords": [
                         13.901166,
@@ -7785,7 +9648,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
       "de": [
             {
                   "name": "Pusti grad",
-                  "text": "Die Ruinen einer mittelalterlichen Burg bei Radovljica.",
+                  "text": "Der Pusti grad (Wüste Burg) ist eine Burgruine aus dem Mittelalter auf einem Hügel über Radovljica.",
                   "category": "castle",
                   "coords": [
                         14.169883,
@@ -7794,7 +9657,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Grad Podvin",
-                  "text": "Ein historisches Schlossgebäude in Radovljica.",
+                  "text": "Das Schloss Podvin (Grad Podvin) ist ein Renaissanceschloss mit einem Arkadenhof bei Radovljica.",
                   "category": "castle",
                   "coords": [
                         14.208422,
@@ -7803,7 +9666,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Šivčeva hiša (Gallery)",
-                  "text": "Ein Museum und eine Galerie in einem spätgotischen Haus.",
+                  "text": "Galerie im historischen Šivec-Haus in Radovljica.",
                   "category": "museum",
                   "coords": [
                         14.175342,
@@ -7812,7 +9675,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Etnološki muzej Mošnje",
-                  "text": "Ein ethnologisches Museum in Mošnje bei Radovljica.",
+                  "text": "Ethnologisches Museum im Dorf Mošnje bei Radovljica.",
                   "category": "museum",
                   "coords": [
                         14.210828,
@@ -7821,7 +9684,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "bunker (Rupnikova linija)",
-                  "text": "Überreste eines Bunkers der historischen Rupnik-Linie.",
+                  "text": "Bunker der Rupnik-Linie aus dem Zweiten Weltkrieg in Radovljica.",
                   "category": "historical",
                   "coords": [
                         14.168504,
@@ -7839,7 +9702,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Kapela sv. Križa",
-                  "text": "Eine Kapelle in Radovljica, die dem Heiligen Kreuz gewidmet ist.",
+                  "text": "Kapela sv. Križa ist eine kleine Kapelle in Radovljica.",
                   "category": "religious",
                   "coords": [
                         14.177623,
@@ -7848,7 +9711,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Cerkev sv. Janeza Krstnika",
-                  "text": "Eine historische Johanneskirche in der Region Radovljica.",
+                  "text": "Die Kirche des heiligen Johannes des Täufers (Cerkev sv. Janeza Krstnika) ist eine gotische Kirche mit Fresken oberhalb der Save in Radovljica.",
                   "category": "religious",
                   "coords": [
                         14.210244,
@@ -7859,7 +9722,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
       "hu": [
             {
                   "name": "Pusti grad",
-                  "text": "Egy középkori vár romjai Radovljica közelében.",
+                  "text": "A Pusti grad (Pusztavár) egy középkori várrom a Radovljica feletti dombon.",
                   "category": "castle",
                   "coords": [
                         14.169883,
@@ -7868,7 +9731,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Grad Podvin",
-                  "text": "Történelmi kastélyépület Radovljicában.",
+                  "text": "A Podvin-kastély (Grad Podvin) egy reneszánsz kastély árkádos udvarral Radovljica közelében.",
                   "category": "castle",
                   "coords": [
                         14.208422,
@@ -7877,7 +9740,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Šivčeva hiša (Gallery)",
-                  "text": "Múzeum és galéria egy késő gótikus házban.",
+                  "text": "Galéria a történelmi Šivec-házban Radovljicában.",
                   "category": "museum",
                   "coords": [
                         14.175342,
@@ -7886,7 +9749,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Etnološki muzej Mošnje",
-                  "text": "Néprajzi múzeum Mošnjében, Radovljica közelében.",
+                  "text": "Néprajzi múzeum Mošnje faluban Radovljica mellett.",
                   "category": "museum",
                   "coords": [
                         14.210828,
@@ -7895,7 +9758,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "bunker (Rupnikova linija)",
-                  "text": "A történelmi Rupnik-vonal egyik bunkerének maradványai.",
+                  "text": "A Rupnik-vonal második világháborús bunkerje Radovljicában.",
                   "category": "historical",
                   "coords": [
                         14.168504,
@@ -7913,7 +9776,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Kapela sv. Križa",
-                  "text": "A Szent Keresztnek szentelt kápolna Radovljicában.",
+                  "text": "A Kapela sv. Križa egy kis kápolna Radovljicában.",
                   "category": "religious",
                   "coords": [
                         14.177623,
@@ -7922,7 +9785,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Cerkev sv. Janeza Krstnika",
-                  "text": "Történelmi Szent János-templom Radovljica környékén.",
+                  "text": "A Keresztelő Szent János-templom (Cerkev sv. Janeza Krstnika) egy gótikus templom freskókkal a Száva felett Radovljicánál.",
                   "category": "religious",
                   "coords": [
                         14.210244,
@@ -7933,7 +9796,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
       "ro": [
             {
                   "name": "Pusti grad",
-                  "text": "Ruinele unui castel medieval lângă Radovljica.",
+                  "text": "Pusti grad (Castelul Pustiu) este o ruină medievală de castel pe un deal deasupra Radovljica.",
                   "category": "castle",
                   "coords": [
                         14.169883,
@@ -7942,7 +9805,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Grad Podvin",
-                  "text": "O clădire istorică de castel în Radovljica.",
+                  "text": "Castelul Podvin (Grad Podvin) este un castel renascentist cu o curte cu arcade lângă Radovljica.",
                   "category": "castle",
                   "coords": [
                         14.208422,
@@ -7951,7 +9814,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Šivčeva hiša (Gallery)",
-                  "text": "Un muzeu și o galerie într-o casă gotică târzie.",
+                  "text": "Galerie în casa istorică Šivec din Radovljica.",
                   "category": "museum",
                   "coords": [
                         14.175342,
@@ -7960,7 +9823,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Etnološki muzej Mošnje",
-                  "text": "Un muzeu etnologic în Mošnje, lângă Radovljica.",
+                  "text": "Muzeu etnologic în satul Mošnje lângă Radovljica.",
                   "category": "museum",
                   "coords": [
                         14.210828,
@@ -7969,7 +9832,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "bunker (Rupnikova linija)",
-                  "text": "Rămășițele unui buncăr din linia istorică Rupnik.",
+                  "text": "Buncăr din linia Rupnik, al Doilea Război Mondial, în Radovljica.",
                   "category": "historical",
                   "coords": [
                         14.168504,
@@ -7987,7 +9850,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Kapela sv. Križa",
-                  "text": "O chapelă în Radovljica dedicată Sfintei Cruci.",
+                  "text": "Kapela sv. Križa este o capelă mică în Radovljica.",
                   "category": "religious",
                   "coords": [
                         14.177623,
@@ -7996,7 +9859,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Cerkev sv. Janeza Krstnika",
-                  "text": "O biserică istorică dedicată Sfântului Ioan în zona Radovljica.",
+                  "text": "Biserica Sfântul Ioan Botezătorul (Cerkev sv. Janeza Krstnika) este o biserică gotică cu fresce deasupra râului Sava în Radovljica.",
                   "category": "religious",
                   "coords": [
                         14.210244,
@@ -8007,7 +9870,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
       "en": [
             {
                   "name": "Pusti grad",
-                  "text": "The ruins of a medieval castle near Radovljica.",
+                  "text": "Pusti grad (Empty Castle) is a medieval castle ruin on a hill above Radovljica.",
                   "category": "castle",
                   "coords": [
                         14.169883,
@@ -8016,7 +9879,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Grad Podvin",
-                  "text": "A historic castle building in Radovljica.",
+                  "text": "Grad Podvin is a Renaissance castle with an arcaded courtyard near Radovljica.",
                   "category": "castle",
                   "coords": [
                         14.208422,
@@ -8025,7 +9888,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Šivčeva hiša (Gallery)",
-                  "text": "A museum and gallery housed in a late Gothic building.",
+                  "text": "Gallery in the historic Šivec house in Radovljica.",
                   "category": "museum",
                   "coords": [
                         14.175342,
@@ -8034,7 +9897,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Etnološki muzej Mošnje",
-                  "text": "An ethnological museum in Mošnje near Radovljica.",
+                  "text": "Ethnological museum in the village of Mošnje near Radovljica.",
                   "category": "museum",
                   "coords": [
                         14.210828,
@@ -8043,7 +9906,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "bunker (Rupnikova linija)",
-                  "text": "Remains of a bunker from the historic Rupnik Line.",
+                  "text": "World War II bunker of the Rupnik Line in Radovljica.",
                   "category": "historical",
                   "coords": [
                         14.168504,
@@ -8061,7 +9924,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Kapela sv. Križa",
-                  "text": "A chapel in Radovljica dedicated to the Holy Cross.",
+                  "text": "Kapela sv. Križa is a small chapel in Radovljica.",
                   "category": "religious",
                   "coords": [
                         14.177623,
@@ -8070,7 +9933,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
             },
             {
                   "name": "Cerkev sv. Janeza Krstnika",
-                  "text": "A historical St. John's church in the Radovljica area.",
+                  "text": "Cerkev sv. Janeza Krstnika (Church of St. John the Baptist) is a Gothic church with frescoes on a hill above the Sava River in Radovljica.",
                   "category": "religious",
                   "coords": [
                         14.210244,
@@ -8128,7 +9991,7 @@ imageHint: "Radovljica medieval square with frescoes",
       "de": [
             {
                   "name": "Antonijev Rov",
-                  "text": "Der Antonischacht ist ein Museum und ein historischer Teil des Quecksilberbergwerks in Idrija.",
+                  "text": "Der Antonistollen (Anthony's Shaft) ist ein historischer Quecksilberbergwerkseingang in Idrija, heute als Museum zugänglich.",
                   "category": "museum",
                   "coords": [
                         14.022565,
@@ -8146,7 +10009,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Mestni muzej Idrija",
-                  "text": "Das Stadtmuseum Idrija ist eine Einrichtung zur Bewahrung des lokalen Erbes in Idrija.",
+                  "text": "Stadtmuseum von Idrija.",
                   "category": "museum",
                   "coords": [
                         14.018404,
@@ -8164,7 +10027,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Gozdni rezervat Strug",
-                  "text": "Das Waldreservat Strug ist ein geschütztes Naturschutzgebiet in Idrija.",
+                  "text": "Schutzgebiet Waldreservat Strug bei Idrija.",
                   "category": "natural",
                   "coords": [
                         14.005787,
@@ -8173,7 +10036,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Gozdni rezervat Divje jezero",
-                  "text": "Divje jezero ist ein Naturschutzgebiet in Idrija, dessen Zentrum ein bekannter Karstsee ist.",
+                  "text": "John-of-Nepomuk-Kapelle, eine dem heiligen Johannes Nepomuk geweihte Kapelle in Idrija.",
                   "category": "natural",
                   "coords": [
                         14.028052,
@@ -8182,7 +10045,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Hleviška planina",
-                  "text": "Hleviška planina ist ein natürlicher Berggipfel in der Umgebung von Idrija.",
+                  "text": "Hleviška planina ist eine hochgelegene Karsthochebene mit Almweiden in der Region Idrija.",
                   "category": "natural",
                   "coords": [
                         13.994368,
@@ -8200,7 +10063,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Tičnica",
-                  "text": "Tičnica ist ein etablierter Aussichtspunkt in der Stadt Idrija.",
+                  "text": "Vogelbeobachtungsstation in Idrija.",
                   "category": "natural",
                   "coords": [
                         14.02443,
@@ -8209,7 +10072,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Spomenik osamosvojitvene vojne",
-                  "text": "Dieses Denkmal in Idrija erinnert an den Unabhängigkeitskrieg.",
+                  "text": "St. Joseph der Arbeiter, eine moderne Kirche für die Bergleute von Idrija.",
                   "category": "historical",
                   "coords": [
                         14.027437,
@@ -8218,7 +10081,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Ruševine nekdanjega jezu pri Kobili",
-                  "text": "Die Ruinen des ehemaligen Staudamms bei Kobila sind eine historische Stätte in Idrija.",
+                  "text": "Ruinen eines ehemaligen Staudamms an der Idrijca bei Kobil.",
                   "category": "historical",
                   "coords": [
                         14.024171,
@@ -8227,7 +10090,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Cerkev Svetega Antona",
-                  "text": "Die St.-Antonius-Kirche ist ein bemerkenswertes Gotteshaus in Idrija.",
+                  "text": "Die St. Anthony's Church ist eine Barockkirche in Idrija, Teil des Bergbauerbes.",
                   "category": "religious",
                   "coords": [
                         14.02628,
@@ -8236,7 +10099,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "sv. Jožef Delavec",
-                  "text": "St. Josef der Arbeiter ist ein Gotteshaus in Idrija.",
+                  "text": "St. Joseph the worker ist eine moderne Kirche in Idrija, dem Heiligen Josef geweiht.",
                   "category": "religious",
                   "coords": [
                         14.028805,
@@ -8254,7 +10117,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Kapelica sv. Janeza Nepomuka",
-                  "text": "Die Johannes-Nepomuk-Kapelle ist eine religiöse Stätte und ein Gotteshaus in Idrija.",
+                  "text": "Barockkapelle am Rande der historischen Bergbaustadt Idrija, dem Schutzpatron gegen Überschwemmungen geweiht.",
                   "category": "religious",
                   "coords": [
                         14.019928,
@@ -8263,7 +10126,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Cerkev Žalostne Matere Božje",
-                  "text": "Die Kirche der Schmerzhaften Muttergottes ist ein Gotteshaus in Idrija.",
+                  "text": "Cerkev Žalostne Matere Božje, eine der Schmerzhaften Muttergottes geweihte Kirche in Idrija.",
                   "category": "religious",
                   "coords": [
                         14.03501,
@@ -8272,7 +10135,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Raufnk",
-                  "text": "Raufnk ist ein markanter historischer Schornstein in Idrija.",
+                  "text": "Natürliche Felsformation Raufnk in Idrija.",
                   "category": "landmark",
                   "coords": [
                         14.033021,
@@ -8283,7 +10146,7 @@ imageHint: "Radovljica medieval square with frescoes",
       "hu": [
             {
                   "name": "Antonijev Rov",
-                  "text": "Az Antal-akna egy múzeum és az idrijai higanybánya egy történelmi része.",
+                  "text": "Az Antal-tárna (Anthony's Shaft) egy történelmi higanybánya-bejárat Idrijában, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         14.022565,
@@ -8301,7 +10164,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Mestni muzej Idrija",
-                  "text": "Az Idrijai Városi Múzeum a helyi örökséget megőrző intézmény Idrijában.",
+                  "text": "Idrijai városi múzeum.",
                   "category": "museum",
                   "coords": [
                         14.018404,
@@ -8319,7 +10182,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Gozdni rezervat Strug",
-                  "text": "A Strug Erdőrezervátum egy védett természeti terület Idrijában.",
+                  "text": "Strug erdei rezervátum természetvédelmi terület Idrija mellett.",
                   "category": "natural",
                   "coords": [
                         14.005787,
@@ -8328,7 +10191,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Gozdni rezervat Divje jezero",
-                  "text": "A Divje jezero egy természetvédelmi terület Idrijában, amelynek középpontjában egy híres karszttó áll.",
+                  "text": "Nepomuki Szent János-kápolna, egy Nepomuki Szent Jánosnak szentelt kápolna Idrijában.",
                   "category": "natural",
                   "coords": [
                         14.028052,
@@ -8337,7 +10200,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Hleviška planina",
-                  "text": "A Hleviška planina egy természetes hegycsúcs Idrija környékén.",
+                  "text": "A Hleviška planina egy magaslati karsztfennsík hegyi legelőkkel az Idrijai régióban.",
                   "category": "natural",
                   "coords": [
                         13.994368,
@@ -8355,7 +10218,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Tičnica",
-                  "text": "A Tičnica egy bevált kilátópont Idrija városában.",
+                  "text": "Madármegfigyelő állomás Idrijában.",
                   "category": "natural",
                   "coords": [
                         14.02443,
@@ -8364,7 +10227,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Spomenik osamosvojitvene vojne",
-                  "text": "Ez az idrijai emlékmű a függetlenségi háborúnak állít emléket.",
+                  "text": "Szent József, a munkás, egy modern templom az idrijai bányászok számára.",
                   "category": "historical",
                   "coords": [
                         14.027437,
@@ -8373,7 +10236,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Ruševine nekdanjega jezu pri Kobili",
-                  "text": "Az egykori gát romjai Kobilánál egy történelmi helyszín Idrijában.",
+                  "text": "Egykori gát romjai az Idrijca folyón Kobil mellett.",
                   "category": "historical",
                   "coords": [
                         14.024171,
@@ -8382,7 +10245,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Cerkev Svetega Antona",
-                  "text": "A Szent Antal-templom egy figyelemre méltó istentiszteleti hely Idrijában.",
+                  "text": "A Szent Antal-templom egy barokk templom Idrijában, a bányászati örökség része.",
                   "category": "religious",
                   "coords": [
                         14.02628,
@@ -8391,7 +10254,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "sv. Jožef Delavec",
-                  "text": "A Munkás Szent József egy istentiszteleti hely Idrijában.",
+                  "text": "A Szent József, a munkás templom egy modern templom Idrijában, Szent Józsefnek szentelve.",
                   "category": "religious",
                   "coords": [
                         14.028805,
@@ -8409,7 +10272,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Kapelica sv. Janeza Nepomuka",
-                  "text": "A Nepomuki Szent János-kápolna egy vallási és istentiszteleti hely Idrijában.",
+                  "text": "Barokk kápolna Idrija történelmi bányavárosában, az áradások elleni védőszent tiszteletére.",
                   "category": "religious",
                   "coords": [
                         14.019928,
@@ -8418,7 +10281,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Cerkev Žalostne Matere Božje",
-                  "text": "A Fájdalmas Anya-templom egy istentiszteleti hely Idrijában.",
+                  "text": "Cerkev Žalostne Matere Božje, a Fájdalmas Szűzanyának szentelt templom Idrijában.",
                   "category": "religious",
                   "coords": [
                         14.03501,
@@ -8427,7 +10290,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Raufnk",
-                  "text": "A Raufnk egy kiemelkedő történelmi kémény Idrijában.",
+                  "text": "Raufnk természetes sziklaformáció Idrijában.",
                   "category": "landmark",
                   "coords": [
                         14.033021,
@@ -8438,7 +10301,7 @@ imageHint: "Radovljica medieval square with frescoes",
       "ro": [
             {
                   "name": "Antonijev Rov",
-                  "text": "Puțul lui Anton este un muzeu și o secțiune istorică a minei de mercur din Idrija.",
+                  "text": "Puțul lui Anton (Anthony's Shaft) este o intrare istorică într-o mină de mercur din Idrija, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         14.022565,
@@ -8456,7 +10319,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Mestni muzej Idrija",
-                  "text": "Muzeul Municipal din Idrija este o instituție care păstrează patrimoniul local din Idrija.",
+                  "text": "Muzeul municipal al orașului Idrija.",
                   "category": "museum",
                   "coords": [
                         14.018404,
@@ -8474,7 +10337,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Gozdni rezervat Strug",
-                  "text": "Rezervația Forestieră Strug este o rezervație naturală protejată situată în Idrija.",
+                  "text": "Rezervația forestieră protejată Strug lângă Idrija.",
                   "category": "natural",
                   "coords": [
                         14.005787,
@@ -8483,7 +10346,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Gozdni rezervat Divje jezero",
-                  "text": "Divje jezero este o rezervație naturală în Idrija, centrată în jurul unui faimos lac carstic.",
+                  "text": "Capela Sfântul Ioan Nepomuk, o capelă dedicată Sfântului Ioan Nepomuk în Idrija.",
                   "category": "natural",
                   "coords": [
                         14.028052,
@@ -8492,7 +10355,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Hleviška planina",
-                  "text": "Hleviška planina este un vârf natural situat în împrejurimile orașului Idrija.",
+                  "text": "Hleviška planina este un platou carstic înalt cu pășuni alpine în regiunea Idrija.",
                   "category": "natural",
                   "coords": [
                         13.994368,
@@ -8510,7 +10373,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Tičnica",
-                  "text": "Tičnica este un punct de belvedere stabilit în orașul Idrija.",
+                  "text": "Stație de observare a păsărilor în Idrija.",
                   "category": "natural",
                   "coords": [
                         14.02443,
@@ -8519,7 +10382,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Spomenik osamosvojitvene vojne",
-                  "text": "Acest monument din Idrija comemorează războiul de independență.",
+                  "text": "Sfântul Iosif Muncitorul, o biserică modernă construită pentru minerii din Idrija.",
                   "category": "historical",
                   "coords": [
                         14.027437,
@@ -8528,7 +10391,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Ruševine nekdanjega jezu pri Kobili",
-                  "text": "Ruinele fostului baraj de la Kobila reprezintă un sit istoric situat în Idrija.",
+                  "text": "Ruinele unui fost baraj pe râul Idrijca lângă satul Kobil.",
                   "category": "historical",
                   "coords": [
                         14.024171,
@@ -8537,7 +10400,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Cerkev Svetega Antona",
-                  "text": "Biserica Sf. Anton este un lăcaș de cult notabil din Idrija.",
+                  "text": "Biserica Sfântul Anton este o biserică barocă în Idrija, parte a patrimoniului minier.",
                   "category": "religious",
                   "coords": [
                         14.02628,
@@ -8546,7 +10409,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "sv. Jožef Delavec",
-                  "text": "Sfântul Iosif Muncitorul este un lăcaș de cult situat în Idrija.",
+                  "text": "Biserica Sfântul Iosif Muncitorul este o biserică modernă în Idrija, dedicată Sfântului Iosif.",
                   "category": "religious",
                   "coords": [
                         14.028805,
@@ -8564,7 +10427,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Kapelica sv. Janeza Nepomuka",
-                  "text": "Capela Sfântul Ioan de Nepomuk este un sit religios și lăcaș de cult din Idrija.",
+                  "text": "Capela barocă din orașul minier istoric Idrija, dedicată patronului împotriva inundațiilor.",
                   "category": "religious",
                   "coords": [
                         14.019928,
@@ -8573,7 +10436,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Cerkev Žalostne Matere Božje",
-                  "text": "Biserica Maicii Domnului Îndurerată este un lăcaș de cult situat în Idrija.",
+                  "text": "Cerkev Žalostne Matere Božje, o biserică dedicată Maicii Domnului Durerilor în Idrija.",
                   "category": "religious",
                   "coords": [
                         14.03501,
@@ -8582,7 +10445,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Raufnk",
-                  "text": "Raufnk este un coș de fum istoric proeminent situat în Idrija.",
+                  "text": "Formațiune naturală de stâncă numită Raufnk în Idrija.",
                   "category": "landmark",
                   "coords": [
                         14.033021,
@@ -8593,7 +10456,7 @@ imageHint: "Radovljica medieval square with frescoes",
       "en": [
             {
                   "name": "Anthony's Shaft",
-                  "text": "Anthony's Shaft is a museum and a historic section of the mercury mine in Idrija.",
+                  "text": "Anthony's Shaft is a historic mercury mine entrance in Idrija, now a museum.",
                   "category": "museum",
                   "coords": [
                         14.022565,
@@ -8611,7 +10474,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Idrija Municipal Museum",
-                  "text": "The Idrija Municipal Museum is an institution preserving local heritage in Idrija.",
+                  "text": "Idrija town museum.",
                   "category": "museum",
                   "coords": [
                         14.018404,
@@ -8629,7 +10492,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Gozdni rezervat Strug",
-                  "text": "Gozdni rezervat Strug is a protected nature reserve located in Idrija.",
+                  "text": "Protected forest reserve Strug near Idrija.",
                   "category": "natural",
                   "coords": [
                         14.005787,
@@ -8647,7 +10510,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Hleviška planina",
-                  "text": "Hleviška planina is a natural peak situated in the surroundings of Idrija.",
+                  "text": "Hleviška planina is a high-altitude karst plateau with alpine pastures in the Idrija region.",
                   "category": "natural",
                   "coords": [
                         13.994368,
@@ -8665,7 +10528,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Tičnica",
-                  "text": "Tičnica is an established viewpoint located in the city of Idrija.",
+                  "text": "Bird observation station in Idrija.",
                   "category": "natural",
                   "coords": [
                         14.02443,
@@ -8674,7 +10537,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Spomenik osamosvojitvene vojne",
-                  "text": "This monument in Idrija commemorates the war of independence.",
+                  "text": "A monument commemorating Slovenia's 1991 independence war in Idrija.",
                   "category": "historical",
                   "coords": [
                         14.027437,
@@ -8683,7 +10546,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Ruševine nekdanjega jezu pri Kobili",
-                  "text": "The ruins of the former dam at Kobila are a historical site located in Idrija.",
+                  "text": "Ruins of a former dam on the Idrijca River near the village of Kobil.",
                   "category": "historical",
                   "coords": [
                         14.024171,
@@ -8692,7 +10555,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "St. Anthony's church",
-                  "text": "St. Anthony's church is a notable place of worship located in Idrija.",
+                  "text": "St. Anthony's Church is a Baroque church in Idrija, part of the mining heritage.",
                   "category": "religious",
                   "coords": [
                         14.02628,
@@ -8701,7 +10564,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "St. Joseph the worker",
-                  "text": "St. Joseph the Worker is a place of worship situated in Idrija.",
+                  "text": "St. Joseph the worker is a modern church in Idrija, dedicated to St. Joseph.",
                   "category": "religious",
                   "coords": [
                         14.028805,
@@ -8719,7 +10582,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "John of Nepomuk Chapel",
-                  "text": "The John of Nepomuk Chapel is a religious site and place of worship in Idrija.",
+                  "text": "Baroque chapel on the edge of the historic mining town of Idrija, dedicated to the patron saint against floods.",
                   "category": "religious",
                   "coords": [
                         14.019928,
@@ -8728,7 +10591,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Cerkev Žalostne Matere Božje",
-                  "text": "The Church of Our Lady of Sorrows is a place of worship located in Idrija.",
+                  "text": "Cerkev Žalostne Matere Božje, a church dedicated to Our Lady of Sorrows in Idrija.",
                   "category": "religious",
                   "coords": [
                         14.03501,
@@ -8737,7 +10600,7 @@ imageHint: "Radovljica medieval square with frescoes",
             },
             {
                   "name": "Raufnk",
-                  "text": "Raufnk is a prominent historical chimney located in Idrija.",
+                  "text": "Natural rock formation Raufnk in Idrija.",
                   "category": "landmark",
                   "coords": [
                         14.033021,
@@ -8877,7 +10740,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Kulturni Center Ravne",
-                  "text": "Ein Zentrum für kulturelle Veranstaltungen und Kunst in Ravne.",
+                  "text": "Kulturzentrum in Ravne na Koroškem.",
                   "category": "cultural",
                   "coords": [
                         14.966331,
@@ -8886,7 +10749,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Grad Šrotnek",
-                  "text": "Die Ruinen der Burg Šrotnek in Ravne na Koroškem.",
+                  "text": "Burgruine Šrotnek in Ravne na Koroškem.",
                   "category": "historical",
                   "coords": [
                         14.972828,
@@ -8904,7 +10767,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Večnamensko igrišče Trg svobode",
-                  "text": "Večnamensko igrišče Trg svobode ist ein Mehrzweck-Spielplatz in Ravne Na Koroskem.",
+                  "text": "Spielplatz am Freiheitsplatz in Ravne na Koroškem.",
                   "category": "family",
                   "coords": [
                         14.966113,
@@ -8951,7 +10814,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Kulturni Center Ravne",
-                  "text": "Kulturális rendezvények és művészetek központja Ravnéban.",
+                  "text": "Kulturális központ Ravne na Koroškemben.",
                   "category": "cultural",
                   "coords": [
                         14.966331,
@@ -8960,7 +10823,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Grad Šrotnek",
-                  "text": "Šrotnek várának romjai Ravne na Koroškemben.",
+                  "text": "Šrotnek vár romjai Ravne na Koroškemben.",
                   "category": "historical",
                   "coords": [
                         14.972828,
@@ -8978,7 +10841,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Večnamensko igrišče Trg svobode",
-                  "text": "A Večnamensko igrišče Trg svobode egy többcélú játszótér Ravne Na Koroskem területén.",
+                  "text": "Játszótér a Szabadság téren Ravne na Koroškemben.",
                   "category": "family",
                   "coords": [
                         14.966113,
@@ -9025,7 +10888,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Kulturni Center Ravne",
-                  "text": "Un centru pentru evenimente culturale și artă în Ravne.",
+                  "text": "Centru cultural în Ravne na Koroškem.",
                   "category": "cultural",
                   "coords": [
                         14.966331,
@@ -9052,7 +10915,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Večnamensko igrišče Trg svobode",
-                  "text": "Večnamensko igrišče Trg svobode este un teren de joacă polivalent în Ravne Na Koroskem.",
+                  "text": "Loc de joacă pe Piața Libertății din Ravne na Koroškem.",
                   "category": "family",
                   "coords": [
                         14.966113,
@@ -9099,7 +10962,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Kulturni Center Ravne",
-                  "text": "A center for cultural events and arts in Ravne.",
+                  "text": "Cultural center in Ravne na Koroškem.",
                   "category": "cultural",
                   "coords": [
                         14.966331,
@@ -9108,7 +10971,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Grad Šrotnek",
-                  "text": "The ruins of Šrotnek Castle in Ravne na Koroškem.",
+                  "text": "Castle ruins of Šrotnek in Ravne na Koroškem.",
                   "category": "historical",
                   "coords": [
                         14.972828,
@@ -9126,7 +10989,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Večnamensko igrišče Trg svobode",
-                  "text": "Večnamensko igrišče Trg svobode is a multi-purpose playground in Ravne Na Koroskem.",
+                  "text": "Playground on Freedom Square in Ravne na Koroškem.",
                   "category": "family",
                   "coords": [
                         14.966113,
@@ -9500,7 +11363,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Muzej Franca Rozmana Staneta",
-                  "text": "Ein Franc Rozman Stane gewidmetes Museum in Medvode.",
+                  "text": "Museum, das dem slowenischen Partisanengeneral Franc Rozman Stane in Medvode gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         14.440687,
@@ -9527,7 +11390,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Kulturni dom Medvode",
-                  "text": "Das kulturelle Zentrum und Veranstaltungsort in Medvode.",
+                  "text": "Kulturhaus der Gemeinde Medvode.",
                   "category": "cultural",
                   "coords": [
                         14.410432,
@@ -9545,7 +11408,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Marija",
-                  "text": "Ein Denkmal oder eine Statue der Jungfrau Maria in Medvode.",
+                  "text": "Historisches Mariendenkmal in Medvode.",
                   "category": "historical",
                   "coords": [
                         14.409726,
@@ -9563,7 +11426,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Sv. Miklavž",
-                  "text": "Eine dem heiligen Nikolaus geweihte Kirche in Medvode.",
+                  "text": "Hügelkirche des Heiligen Nikolaus oberhalb der Sava in Medvode.",
                   "category": "religious",
                   "coords": [
                         14.395577,
@@ -9590,7 +11453,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Sveti Tomaž",
-                  "text": "Eine kleine Kirche, die dem heiligen Thomas gewidmet ist, in Medvode.",
+                  "text": "Kleine barocke Thomaskirche auf dem Land nahe Medvode.",
                   "category": "religious",
                   "coords": [
                         14.426903,
@@ -9646,7 +11509,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Muzej Franca Rozmana Staneta",
-                  "text": "Franc Rozman Stanénak szentelt múzeum Medvodében.",
+                  "text": "Múzeum Medvodében, amely Franc Rozman Stane szlovén partizán tábornoknak állít emléket.",
                   "category": "museum",
                   "coords": [
                         14.440687,
@@ -9673,7 +11536,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Kulturni dom Medvode",
-                  "text": "Medvode kulturális központja és rendezvényhelyszíne.",
+                  "text": "Medvode közösségi művelődési háza.",
                   "category": "cultural",
                   "coords": [
                         14.410432,
@@ -9691,7 +11554,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Marija",
-                  "text": "Szűz Mária emlékműve vagy szobra Medvodében.",
+                  "text": "Történelmi Mária-emlékmű Medvodében.",
                   "category": "historical",
                   "coords": [
                         14.409726,
@@ -9709,7 +11572,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Sv. Miklavž",
-                  "text": "Szent Miklósnak szentelt templom Medvodében.",
+                  "text": "Szent Miklós-templom a Medvode feletti dombon, a Száva folyóra néz.",
                   "category": "religious",
                   "coords": [
                         14.395577,
@@ -9736,7 +11599,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Sveti Tomaž",
-                  "text": "Szent Tamásnak szentelt kis templom Medvodében.",
+                  "text": "Kis barokk Szent Tamás-templom Medvode közelében, a vidéken.",
                   "category": "religious",
                   "coords": [
                         14.426903,
@@ -9792,7 +11655,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Muzej Franca Rozmana Staneta",
-                  "text": "Un muzeu dedicat lui Franc Rozman Stane în Medvode.",
+                  "text": "Muzeu dedicat generalului partizan sloven Franc Rozman Stane în Medvode.",
                   "category": "museum",
                   "coords": [
                         14.440687,
@@ -9819,7 +11682,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Kulturni dom Medvode",
-                  "text": "Centrul cultural și locul de desfășurare a evenimentelor din Medvode.",
+                  "text": "Casa de cultură a comunei Medvode.",
                   "category": "cultural",
                   "coords": [
                         14.410432,
@@ -9837,7 +11700,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Marija",
-                  "text": "Un monument sau o statuie a Fecioarei Maria în Medvode.",
+                  "text": "Monument istoric dedicat Mariei în Medvode.",
                   "category": "historical",
                   "coords": [
                         14.409726,
@@ -9855,7 +11718,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Sv. Miklavž",
-                  "text": "O biserică dedicată Sfântului Nicolae în Medvode.",
+                  "text": "Biserica Sfântul Nicolae pe un deal deasupra râului Sava din Medvode.",
                   "category": "religious",
                   "coords": [
                         14.395577,
@@ -9882,7 +11745,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Sveti Tomaž",
-                  "text": "O mică biserică dedicată Sfântului Toma în Medvode.",
+                  "text": "Mică biserică barocă Sfântul Toma în zona rurală lângă Medvode.",
                   "category": "religious",
                   "coords": [
                         14.426903,
@@ -9938,7 +11801,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Muzej Franca Rozmana Staneta",
-                  "text": "A museum dedicated to Franc Rozman Stane in Medvode.",
+                  "text": "Museum dedicated to the Slovenian partisan general Franc Rozman Stane in Medvode.",
                   "category": "museum",
                   "coords": [
                         14.440687,
@@ -9965,7 +11828,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Kulturni dom Medvode",
-                  "text": "The cultural center and venue in Medvode.",
+                  "text": "Community cultural house of Medvode.",
                   "category": "cultural",
                   "coords": [
                         14.410432,
@@ -9983,7 +11846,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Marija",
-                  "text": "A monument or statue of the Virgin Mary in Medvode.",
+                  "text": "Historical monument dedicated to Mary in Medvode.",
                   "category": "historical",
                   "coords": [
                         14.409726,
@@ -10001,7 +11864,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Sv. Miklavž",
-                  "text": "A church dedicated to Saint Nicholas in Medvode.",
+                  "text": "Hilltop church of St. Nicholas overlooking the Sava River in Medvode.",
                   "category": "religious",
                   "coords": [
                         14.395577,
@@ -10028,7 +11891,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Sveti Tomaž",
-                  "text": "A small church dedicated to Saint Thomas in Medvode.",
+                  "text": "Small Baroque church of St. Thomas in the countryside near Medvode.",
                   "category": "religious",
                   "coords": [
                         14.426903,
@@ -10895,7 +12758,7 @@ imageHint: "Crnomelj town center at river confluence",
       "de": [
             {
                   "name": "Dom kulture Lenart",
-                  "text": "Ein lokales Theater und Kulturhaus in Lenart.",
+                  "text": "Kulturhaus in Lenart.",
                   "category": "cultural",
                   "coords": [
                         15.829956,
@@ -10904,7 +12767,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Perniško jezero",
-                  "text": "Perniško jezero ist ein See in Lenart V Slovenskih Goricah.",
+                  "text": "Perniško-See bei Lenart.",
                   "category": "natural",
                   "coords": [
                         15.722831,
@@ -10913,7 +12776,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Jezero Komarnik",
-                  "text": "Jezero Komarnik ist ein malerischer See in Lenart V Slovenskih Goricah.",
+                  "text": "Komarnik-See in der Nähe von Lenart.",
                   "category": "natural",
                   "coords": [
                         15.805661,
@@ -10922,7 +12785,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Jezero Radehova",
-                  "text": "Jezero Radehova ist ein See in Lenart V Slovenskih Goricah.",
+                  "text": "Radehova-See bei Lenart.",
                   "category": "natural",
                   "coords": [
                         15.840172,
@@ -10933,7 +12796,7 @@ imageHint: "Crnomelj town center at river confluence",
       "hu": [
             {
                   "name": "Dom kulture Lenart",
-                  "text": "Helyi színház és kultúrház Lenartban.",
+                  "text": "Kultúrház Lenartban.",
                   "category": "cultural",
                   "coords": [
                         15.829956,
@@ -10942,7 +12805,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Perniško jezero",
-                  "text": "A Perniško jezero egy tó Lenart V Slovenskih Goricah városában.",
+                  "text": "Perniško-tó Lenart mellett.",
                   "category": "natural",
                   "coords": [
                         15.722831,
@@ -10951,7 +12814,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Jezero Komarnik",
-                  "text": "A Jezero Komarnik egy festői tó Lenart V Slovenskih Goricah területén.",
+                  "text": "Komarnik-tó Lenart közelében.",
                   "category": "natural",
                   "coords": [
                         15.805661,
@@ -10960,7 +12823,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Jezero Radehova",
-                  "text": "A Jezero Radehova egy tó Lenart V Slovenskih Goricah városában.",
+                  "text": "Radehova-tó Lenart mellett.",
                   "category": "natural",
                   "coords": [
                         15.840172,
@@ -10971,7 +12834,7 @@ imageHint: "Crnomelj town center at river confluence",
       "ro": [
             {
                   "name": "Dom kulture Lenart",
-                  "text": "Un teatru local și casă de cultură în Lenart.",
+                  "text": "Casă de cultură în Lenart.",
                   "category": "cultural",
                   "coords": [
                         15.829956,
@@ -10980,7 +12843,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Perniško jezero",
-                  "text": "Perniško jezero este un lac situat în Lenart V Slovenskih Goricah.",
+                  "text": "Lacul Perniško lângă Lenart.",
                   "category": "natural",
                   "coords": [
                         15.722831,
@@ -10989,7 +12852,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Jezero Komarnik",
-                  "text": "Jezero Komarnik este un lac pitoresc în Lenart V Slovenskih Goricah.",
+                  "text": "Lacul Komarnik lângă Lenart.",
                   "category": "natural",
                   "coords": [
                         15.805661,
@@ -10998,7 +12861,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Jezero Radehova",
-                  "text": "Jezero Radehova este un lac din Lenart V Slovenskih Goricah.",
+                  "text": "Lacul Radehova lângă Lenart.",
                   "category": "natural",
                   "coords": [
                         15.840172,
@@ -11009,7 +12872,7 @@ imageHint: "Crnomelj town center at river confluence",
       "en": [
             {
                   "name": "Dom kulture Lenart",
-                  "text": "A local theatre and cultural house in Lenart.",
+                  "text": "Cultural house in Lenart.",
                   "category": "cultural",
                   "coords": [
                         15.829956,
@@ -11018,7 +12881,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Perniško jezero",
-                  "text": "Perniško jezero is a lake located in Lenart V Slovenskih Goricah.",
+                  "text": "Lake Perniško near Lenart.",
                   "category": "natural",
                   "coords": [
                         15.722831,
@@ -11027,7 +12890,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Jezero Komarnik",
-                  "text": "Jezero Komarnik is a scenic lake in Lenart V Slovenskih Goricah.",
+                  "text": "Lake Komarnik near Lenart.",
                   "category": "natural",
                   "coords": [
                         15.805661,
@@ -11036,7 +12899,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Jezero Radehova",
-                  "text": "Jezero Radehova is a lake in Lenart V Slovenskih Goricah.",
+                  "text": "Lake Radehova near Lenart.",
                   "category": "natural",
                   "coords": [
                         15.840172,
@@ -11417,7 +13280,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Cerkev sv. Katarine",
-                  "text": "Diese Kirche in Litija ist der Heiligen Katharina geweiht.",
+                  "text": "Gotische Katharinenkirche auf einem Hügel über der Stadt Litija.",
                   "category": "religious",
                   "coords": [
                         14.852996,
@@ -11491,7 +13354,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Cerkev sv. Katarine",
-                  "text": "Litija egyik szakrális épülete, amelyet Szent Katalinnak szenteltek.",
+                  "text": "Gótikus Szent Katalin-templom a Litija fölé emelkedő dombon.",
                   "category": "religious",
                   "coords": [
                         14.852996,
@@ -11565,7 +13428,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Cerkev sv. Katarine",
-                  "text": "O biserică din Litija dedicată Sfintei Ecaterina.",
+                  "text": "Biserică gotică Sfânta Ecaterina pe un deal deasupra orașului Litija.",
                   "category": "religious",
                   "coords": [
                         14.852996,
@@ -11639,7 +13502,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Cerkev sv. Katarine",
-                  "text": "A local church in Litija dedicated to Saint Catherine.",
+                  "text": "Gothic church of St. Catherine on a hill above the town of Litija.",
                   "category": "religious",
                   "coords": [
                         14.852996,
@@ -11705,7 +13568,7 @@ imageHint: "Crnomelj town center at river confluence",
       "de": [
             {
                   "name": "Jezero Rogoza",
-                  "text": "Jezero Rogoza ist ein See in Spodnji Duplek.",
+                  "text": "Rogoza-See in Duplek.",
                   "category": "natural",
                   "coords": [
                         15.667987,
@@ -11714,7 +13577,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Miklavška mlaka",
-                  "text": "Miklavška mlaka ist ein See in Spodnji Duplek.",
+                  "text": "Miklavž-Teich in Duplek.",
                   "category": "natural",
                   "coords": [
                         15.720206,
@@ -11723,7 +13586,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vodnjak Bohova 2",
-                  "text": "Vodnjak Bohova 2 ist ein Gewässer in Spodnji Duplek.",
+                  "text": "Brunnen Bohova 2 in Duplek.",
                   "category": "natural",
                   "coords": [
                         15.668237,
@@ -11732,7 +13595,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vodnjak Bohova 1",
-                  "text": "Vodnjak Bohova 1 ist ein See in Spodnji Duplek.",
+                  "text": "Brunnen Bohova 1 in Duplek.",
                   "category": "natural",
                   "coords": [
                         15.670526,
@@ -11741,7 +13604,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gramoznica Duplek",
-                  "text": "Gramoznica Duplek ist ein See in Spodnji Duplek, der oft wegen seiner Aussicht besucht wird.",
+                  "text": "Ein künstlicher See aus Kiesabbau bei Duplek.",
                   "category": "natural",
                   "coords": [
                         15.732356,
@@ -11750,7 +13613,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Perniško jezero",
-                  "text": "Perniško jezero ist ein See in Spodnji Duplek.",
+                  "text": "Ein kleiner natürlicher See, von Wald umgeben, nahe Duplek.",
                   "category": "natural",
                   "coords": [
                         15.729291,
@@ -11770,7 +13633,7 @@ imageHint: "Crnomelj town center at river confluence",
       "hu": [
             {
                   "name": "Jezero Rogoza",
-                  "text": "A Jezero Rogoza egy tó Spodnji Duplek területén.",
+                  "text": "Rogoza-tó Duplekben.",
                   "category": "natural",
                   "coords": [
                         15.667987,
@@ -11779,7 +13642,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Miklavška mlaka",
-                  "text": "A Miklavška mlaka egy tó Spodnji Duplek városában.",
+                  "text": "Miklavž-tó Duplekben.",
                   "category": "natural",
                   "coords": [
                         15.720206,
@@ -11788,7 +13651,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vodnjak Bohova 2",
-                  "text": "A Vodnjak Bohova 2 egy vízfelület Spodnji Duplek területén.",
+                  "text": "Bohova 2-es kút Duplekben.",
                   "category": "natural",
                   "coords": [
                         15.668237,
@@ -11797,7 +13660,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vodnjak Bohova 1",
-                  "text": "A Vodnjak Bohova 1 egy tó Spodnji Duplek városában.",
+                  "text": "Bohova 1-es kút Duplekben.",
                   "category": "natural",
                   "coords": [
                         15.670526,
@@ -11806,7 +13669,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gramoznica Duplek",
-                  "text": "A Gramoznica Duplek egy tó Spodnji Duplek területén, amelyet gyakran látogatnak a kilátás miatt.",
+                  "text": "Mesterséges tó, amely kavicsbányászat során keletkezett Duplek mellett.",
                   "category": "natural",
                   "coords": [
                         15.732356,
@@ -11815,7 +13678,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Perniško jezero",
-                  "text": "A Perniško jezero egy tó Spodnji Duplek városában.",
+                  "text": "Egy kis természetes tó, erdővel körülvéve, Duplek közelében.",
                   "category": "natural",
                   "coords": [
                         15.729291,
@@ -11835,7 +13698,7 @@ imageHint: "Crnomelj town center at river confluence",
       "ro": [
             {
                   "name": "Jezero Rogoza",
-                  "text": "Jezero Rogoza este un lac situat în Spodnji Duplek.",
+                  "text": "Lacul Rogoza în Duplek.",
                   "category": "natural",
                   "coords": [
                         15.667987,
@@ -11844,7 +13707,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Miklavška mlaka",
-                  "text": "Miklavška mlaka este un lac situat în Spodnji Duplek.",
+                  "text": "Balta Miklavž din Duplek.",
                   "category": "natural",
                   "coords": [
                         15.720206,
@@ -11853,7 +13716,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vodnjak Bohova 2",
-                  "text": "Vodnjak Bohova 2 este o întindere de apă în Spodnji Duplek.",
+                  "text": "Fântâna Bohova 2 în Duplek.",
                   "category": "natural",
                   "coords": [
                         15.668237,
@@ -11862,7 +13725,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vodnjak Bohova 1",
-                  "text": "Vodnjak Bohova 1 este un lac situat în Spodnji Duplek.",
+                  "text": "Fântâna Bohova 1 în Duplek.",
                   "category": "natural",
                   "coords": [
                         15.670526,
@@ -11871,7 +13734,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gramoznica Duplek",
-                  "text": "Gramoznica Duplek este un lac din Spodnji Duplek, adesea vizitat pentru priveliștile sale.",
+                  "text": "Un lac artificial format prin exploatarea de pietriș lângă Duplek.",
                   "category": "natural",
                   "coords": [
                         15.732356,
@@ -11880,7 +13743,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Perniško jezero",
-                  "text": "Perniško jezero este un lac în Spodnji Duplek.",
+                  "text": "Un mic lac natural înconjurat de pădure lângă Duplek.",
                   "category": "natural",
                   "coords": [
                         15.729291,
@@ -11900,7 +13763,7 @@ imageHint: "Crnomelj town center at river confluence",
       "en": [
             {
                   "name": "Jezero Rogoza",
-                  "text": "Jezero Rogoza is a lake situated in Spodnji Duplek.",
+                  "text": "Lake Rogoza in Duplek.",
                   "category": "natural",
                   "coords": [
                         15.667987,
@@ -11909,7 +13772,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Miklavška mlaka",
-                  "text": "Miklavška mlaka is a lake located in Spodnji Duplek.",
+                  "text": "Miklavž pond in Duplek.",
                   "category": "natural",
                   "coords": [
                         15.720206,
@@ -11918,7 +13781,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vodnjak Bohova 2",
-                  "text": "Vodnjak Bohova 2 is a body of water in Spodnji Duplek.",
+                  "text": "Bohova well 2 in Duplek.",
                   "category": "natural",
                   "coords": [
                         15.668237,
@@ -11927,7 +13790,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vodnjak Bohova 1",
-                  "text": "Vodnjak Bohova 1 is a lake located in Spodnji Duplek.",
+                  "text": "Bohova well 1 in Duplek.",
                   "category": "natural",
                   "coords": [
                         15.670526,
@@ -11936,7 +13799,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gramoznica Duplek",
-                  "text": "Gramoznica Duplek is a lake in Spodnji Duplek, often visited for its views.",
+                  "text": "An artificial lake formed by gravel extraction near Duplek.",
                   "category": "natural",
                   "coords": [
                         15.732356,
@@ -11945,7 +13808,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Perniško jezero",
-                  "text": "Perniško jezero is a lake in Spodnji Duplek.",
+                  "text": "A small natural lake surrounded by forest near Duplek.",
                   "category": "natural",
                   "coords": [
                         15.729291,
@@ -12029,7 +13892,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vanganelsko jezero",
-                  "text": "Der Vanganelsko jezero bei Hrastovlje ist ein ruhiger See, der von Natur umgeben ist.",
+                  "text": "Ein See in der Nähe von Hristovlje im slowenischen Karst.",
                   "category": "natural",
                   "coords": [
                         13.779023,
@@ -12067,7 +13930,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vanganelsko jezero",
-                  "text": "A Hrastovlje melletti Vanganelsko jezero egy csendes tó, amelyet természet vesz körül.",
+                  "text": "Tó Hristovlje közelében, a szlovén karsztvidéken.",
                   "category": "natural",
                   "coords": [
                         13.779023,
@@ -12105,7 +13968,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vanganelsko jezero",
-                  "text": "Vanganelsko jezero de lângă Hrastovlje este un lac liniștit, înconjurat de natură.",
+                  "text": "Un lac lângă Hristovlje, în regiunea carstică slovenă.",
                   "category": "natural",
                   "coords": [
                         13.779023,
@@ -12143,7 +14006,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Vanganelsko jezero",
-                  "text": "Vanganelsko jezero near Hrastovlje is a calm lake surrounded by nature.",
+                  "text": "A lake near Hristovlje in the Slovenian karst region.",
                   "category": "natural",
                   "coords": [
                         13.779023,
@@ -12407,7 +14270,7 @@ imageHint: "Crnomelj town center at river confluence",
       "de": [
             {
                   "name": "Pistrov grad",
-                  "text": "Ruinen einer mittelalterlichen Befestigung in Vuzenica.",
+                  "text": "Mittelalterliche Burgruine auf einem Hügel oberhalb von Vuzenica.",
                   "category": "historical",
                   "coords": [
                         15.171278,
@@ -12416,7 +14279,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Trbonjsko jezero",
-                  "text": "Trbonjsko jezero ist ein See in Vuzenica.",
+                  "text": "Ein See in der Nähe von Vuzenica, oft zum Angeln genutzt.",
                   "category": "natural",
                   "coords": [
                         15.126157,
@@ -12436,7 +14299,7 @@ imageHint: "Crnomelj town center at river confluence",
       "hu": [
             {
                   "name": "Pistrov grad",
-                  "text": "Egy középkori erődítmény romjai Vuzenicában.",
+                  "text": "Középkori várrom egy dombon Vuzenica fölött.",
                   "category": "historical",
                   "coords": [
                         15.171278,
@@ -12445,7 +14308,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Trbonjsko jezero",
-                  "text": "A Trbonjsko jezero egy tó Vuzenica területén.",
+                  "text": "Tó Vuzenica közelében, gyakran használják horgászatra.",
                   "category": "natural",
                   "coords": [
                         15.126157,
@@ -12465,7 +14328,7 @@ imageHint: "Crnomelj town center at river confluence",
       "ro": [
             {
                   "name": "Pistrov grad",
-                  "text": "Ruinele unei fortificații medievale în Vuzenica.",
+                  "text": "Ruinele unui castel medieval pe un deal deasupra Vuzenicăi.",
                   "category": "historical",
                   "coords": [
                         15.171278,
@@ -12474,7 +14337,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Trbonjsko jezero",
-                  "text": "Trbonjsko jezero este un lac situat în Vuzenica.",
+                  "text": "Un lac lângă Vuzenica, adesea folosit pentru pescuit.",
                   "category": "natural",
                   "coords": [
                         15.126157,
@@ -12494,7 +14357,7 @@ imageHint: "Crnomelj town center at river confluence",
       "en": [
             {
                   "name": "Pistrov grad",
-                  "text": "Ruins of a medieval fortification in Vuzenica.",
+                  "text": "Medieval castle ruins on a hill above Vuzenica.",
                   "category": "historical",
                   "coords": [
                         15.171278,
@@ -12503,7 +14366,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Trbonjsko jezero",
-                  "text": "Trbonjsko jezero is a lake located in Vuzenica.",
+                  "text": "A lake near Vuzenica, often used for fishing.",
                   "category": "natural",
                   "coords": [
                         15.126157,
@@ -12749,7 +14612,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gozdni rezervat Ruta-Štiblerjev vrh",
-                  "text": "Ein geschütztes Waldreservat in der Nähe von Selnica ob Dravi.",
+                  "text": "Geschütztes Waldreservat auf dem Štiblerjev vrh bei Selnica ob Dravi.",
                   "category": "natural",
                   "coords": [
                         15.451187,
@@ -12758,7 +14621,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Cerkev Device Marije",
-                  "text": "Eine der Jungfrau Maria geweihte Kirche.",
+                  "text": "Marienwallfahrtskirche mit Blick auf das Drava-Tal in Selnica ob Dravi.",
                   "category": "religious",
                   "coords": [
                         15.421331,
@@ -12787,7 +14650,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gozdni rezervat Ruta-Štiblerjev vrh",
-                  "text": "Védett erdőrezervátum Selnica ob Dravi közelében.",
+                  "text": "Védett erdőrezervátum a Štiblerjev vrh csúcson Selnica ob Dravi mellett.",
                   "category": "natural",
                   "coords": [
                         15.451187,
@@ -12796,7 +14659,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Cerkev Device Marije",
-                  "text": "Szűz Máriának szentelt templom.",
+                  "text": "Mária-búcsújáró templom a Dráva-völgyre néző dombon, Selnica ob Davi mellett.",
                   "category": "religious",
                   "coords": [
                         15.421331,
@@ -12825,7 +14688,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gozdni rezervat Ruta-Štiblerjev vrh",
-                  "text": "O rezervație forestieră protejată lângă Selnica ob Dravi.",
+                  "text": "Rezervație forestieră protejată pe vârful Štiblerjev vrh lângă Selnica ob Dravi.",
                   "category": "natural",
                   "coords": [
                         15.451187,
@@ -12834,7 +14697,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Cerkev Device Marije",
-                  "text": "O biserică dedicată Fecioarei Maria.",
+                  "text": "Biserică de pelerinaj a Fecioarei Maria cu vedere asupra văii Drava în Selnica Ob Dravi.",
                   "category": "religious",
                   "coords": [
                         15.421331,
@@ -12863,7 +14726,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gozdni rezervat Ruta-Štiblerjev vrh",
-                  "text": "A protected forest reserve near Selnica ob Dravi.",
+                  "text": "Protected forest reserve on Štiblerjev vrh peak near Selnica ob Dravi.",
                   "category": "natural",
                   "coords": [
                         15.451187,
@@ -12872,7 +14735,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Cerkev Device Marije",
-                  "text": "A church dedicated to the Virgin Mary.",
+                  "text": "Pilgrimage church of the Virgin Mary overlooking the Drava River valley in Selnica Ob Dravi.",
                   "category": "religious",
                   "coords": [
                         15.421331,
@@ -13208,7 +15071,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gramoznica Duplek",
-                  "text": "Gramoznica Duplek ist ein See in Starše, der eine angenehme Naturkulisse bietet.",
+                  "text": "Ehemalige Kiesgrube, die zu einem See wurde, bei Starše.",
                   "category": "natural",
                   "coords": [
                         15.732356,
@@ -13264,7 +15127,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gramoznica Duplek",
-                  "text": "A Gramoznica Duplek egy tó Starše területén, amely kellemes természeti környezetet kínál.",
+                  "text": "Egykori kavicsbánya, amely tóvá vált Starše mellett.",
                   "category": "natural",
                   "coords": [
                         15.732356,
@@ -13320,7 +15183,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gramoznica Duplek",
-                  "text": "Gramoznica Duplek este un lac din Starše care oferă un cadru natural plăcut.",
+                  "text": "Fosta carieră de pietriș transformată în lac lângă Starše.",
                   "category": "natural",
                   "coords": [
                         15.732356,
@@ -13376,7 +15239,7 @@ imageHint: "Crnomelj town center at river confluence",
             },
             {
                   "name": "Gramoznica Duplek",
-                  "text": "Gramoznica Duplek is a lake in Starse offering a pleasant natural setting.",
+                  "text": "Former gravel pit turned into a lake near Starše.",
                   "category": "natural",
                   "coords": [
                         15.732356,
@@ -13559,7 +15422,7 @@ imageHint: "Crnomelj town center at river confluence",
       "de": [
             {
                   "name": "Pettauer See",
-                  "text": "Ptujsko jezero ist ein großer See in der Nähe von Cirkulane.",
+                  "text": "Künstlicher Stausee an der Drau zur Stromerzeugung bei Cirkulane.",
                   "category": "natural",
                   "coords": [
                         15.901161,
@@ -13579,7 +15442,7 @@ imageHint: "Crnomelj town center at river confluence",
       "hu": [
             {
                   "name": "Ptujsko jezero",
-                  "text": "A Ptujsko jezero egy nagy tó Cirkulane közelében.",
+                  "text": "Mesterséges víztározó a Dráván, áramtermelésre használják Cirkulane mellett.",
                   "category": "natural",
                   "coords": [
                         15.901161,
@@ -13599,7 +15462,7 @@ imageHint: "Crnomelj town center at river confluence",
       "ro": [
             {
                   "name": "Ptujsko jezero",
-                  "text": "Ptujsko jezero este un lac mare lângă Cirkulane.",
+                  "text": "Lac de acumulare artificial pe Drava pentru producerea de electricitate lângă Cirkulane.",
                   "category": "natural",
                   "coords": [
                         15.901161,
@@ -13619,7 +15482,7 @@ imageHint: "Crnomelj town center at river confluence",
       "en": [
             {
                   "name": "Ptujsko jezero",
-                  "text": "Ptujsko jezero is a large lake near Cirkulane.",
+                  "text": "Artificial reservoir on the Drava River for hydroelectric power near Cirkulane.",
                   "category": "natural",
                   "coords": [
                         15.901161,

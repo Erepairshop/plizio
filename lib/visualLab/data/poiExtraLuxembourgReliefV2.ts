@@ -99,7 +99,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
       "de": [
             {
                   "name": "Thillenvogtei",
-                  "text": "Die Thillenvogtei ist ein Museum in Napoléonsgaart, das das ländliche Leben vergangener Zeiten zeigt.",
+                  "text": "Thillenvogtei ist ein Heimatmuseum in der ehemaligen Vogtei von Napoleonsgaart.",
                   "category": "museum",
                   "coords": [
                         5.900054,
@@ -117,7 +117,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
             },
             {
                   "name": "Schuerelserschlass",
-                  "text": "Das Schuerelserschlass ist eine historische Burganlage in der Region Napoléonsgaart.",
+                  "text": "Das nach der Familie Schuerer benannte Schloss in Napoleonsgaart.",
                   "category": "castle",
                   "coords": [
                         5.881574,
@@ -135,7 +135,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
             },
             {
                   "name": "Chapelle Saint-Remacle",
-                  "text": "Die Kapelle Saint-Remacle ist ein friedlicher religiöser Ort in Napoléonsgaart.",
+                  "text": "Chapelle Saint-Remacle ist eine dem heiligen Remaclus geweihte Kapelle in Éischt (Napoleonsgaart).",
                   "category": "religious",
                   "coords": [
                         5.887133,
@@ -164,7 +164,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
       "hu": [
             {
                   "name": "Thillenvogtei",
-                  "text": "A Thillenvogtei egy múzeum Napoléonsgaartban, amely a múltbéli vidéki életet mutatja be.",
+                  "text": "A Thillenvogtei egy helytörténeti múzeum a volt várbíróság épületében Napoleonsgaartban.",
                   "category": "museum",
                   "coords": [
                         5.900054,
@@ -182,7 +182,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
             },
             {
                   "name": "Schuerelserschlass",
-                  "text": "A Schuerelserschlass egy történelmi várkastély Napoléonsgaart régiójában.",
+                  "text": "A Schuerer családról elnevezett kastély Napoleonsgaartban.",
                   "category": "castle",
                   "coords": [
                         5.881574,
@@ -200,7 +200,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
             },
             {
                   "name": "Chapelle Saint-Remacle",
-                  "text": "A Saint-Remacle kápolna egy békés vallási helyszín Napoléonsgaartban.",
+                  "text": "A Chapelle Saint-Remacle Szent Remaclusnak szentelt kápolna Éischtben (Napoleonsgaart).",
                   "category": "religious",
                   "coords": [
                         5.887133,
@@ -229,7 +229,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
       "ro": [
             {
                   "name": "Thillenvogtei",
-                  "text": "Thillenvogtei este un muzeu din Napoléonsgaart care prezintă viața rurală de altădată.",
+                  "text": "Thillenvogtei este un muzeu de istorie locală în fosta reședință a bailului din Napoleonsgaart.",
                   "category": "museum",
                   "coords": [
                         5.900054,
@@ -247,7 +247,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
             },
             {
                   "name": "Schuerelserschlass",
-                  "text": "Schuerelserschlass este o cetate istorică din regiunea Napoléonsgaart.",
+                  "text": "Castelul numit după familia Schuerer din Napoleonsgaart.",
                   "category": "castle",
                   "coords": [
                         5.881574,
@@ -265,7 +265,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
             },
             {
                   "name": "Chapelle Saint-Remacle",
-                  "text": "Capela Saint-Remacle este un lăcaș de cult liniștit din Napoléonsgaart.",
+                  "text": "Chapelle Saint-Remacle este o capelă dedicată Sfântului Remaclu în Éischt, Napoleonsgaart.",
                   "category": "religious",
                   "coords": [
                         5.887133,
@@ -294,7 +294,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
       "en": [
             {
                   "name": "Thillenvogtei",
-                  "text": "Thillenvogtei is a museum in Napoléonsgaart showcasing rural life of the past.",
+                  "text": "Thillenvogtei is a local history museum in the former bailiff's residence of Napoleonsgaart.",
                   "category": "museum",
                   "coords": [
                         5.900054,
@@ -312,7 +312,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
             },
             {
                   "name": "Schuerelserschlass",
-                  "text": "Schuerelserschlass is a historic castle in the Napoléonsgaart region.",
+                  "text": "The Schuerers' castle in Napoleonsgaart.",
                   "category": "castle",
                   "coords": [
                         5.881574,
@@ -330,7 +330,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
             },
             {
                   "name": "Chapelle Saint-Remacle",
-                  "text": "The Chapelle Saint-Remacle is a peaceful religious site in Napoléonsgaart.",
+                  "text": "Chapelle Saint-Remacle is a chapel dedicated to Saint Remaclus in Éischt, Napoleonsgaart.",
                   "category": "religious",
                   "coords": [
                         5.887133,

@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraUzbekistanNatureV2: POI[] = [
   {
-    id: "aral-sea-nature-v2",
+    id: "aral-sea-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zdes' nakhoditsia vodoem",
+                  "text": "Ein kleiner verbliebener Wasserkörper im ehemaligen Aralseebecken, der die Umweltveränderungen der Region verdeutlicht.",
+                  "category": "landmark",
+                  "coords": [
+                        59.589087,
+                        44.965615
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zdes' nakhoditsia vodoem",
+                  "text": "Egy apró, megmaradt víztömeg az egykori Aral-tó medrében, amely a terület környezeti változásait jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        59.589087,
+                        44.965615
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zdes' nakhoditsia vodoem",
+                  "text": "O mică întindere de apă rămasă în fostul bazin al Mării Aral, evidențiind schimbările de mediu din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        59.589087,
+                        44.965615
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zdes' nakhoditsia vodoem",
+                  "text": "A small remaining water body in the former Aral Sea basin, highlighting the area's environmental changes.",
+                  "category": "landmark",
+                  "coords": [
+                        59.589087,
+                        44.965615
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "UZ-QR",
     coords: [59.6133, 44.8888],
@@ -75,7 +120,844 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "charvak-reservoir-nature-v2",
+    id: "charvak-reservoir-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shayx Umar Valiy Bog'istoniy maqbarasi",
+                  "text": "Dieses verehrte Mausoleum ist die Grabstätte des Vaters des berühmten Sufi-Heiligen Scheich Schowur, gelegen in der Nähe des Tscharwak-Stausees.",
+                  "category": "historical",
+                  "coords": [
+                        70.073519,
+                        41.685305
+                  ]
+            },
+            {
+                  "name": "Akshuran",
+                  "text": "Ein Aussichtspunkt in den Bergen mit weitem Blick auf die umliegenden Gipfel und das blaue Wasser des darunter liegenden Stausees.",
+                  "category": "landmark",
+                  "coords": [
+                        69.950842,
+                        41.572465
+                  ]
+            },
+            {
+                  "name": "Petroglify",
+                  "text": "Diese antiken Steinritzungen stammen aus der Jungsteinzeit und stellen Tiere und Symbole auf den dunklen Felswänden dar.",
+                  "category": "landmark",
+                  "coords": [
+                        69.93999,
+                        41.621428
+                  ]
+            },
+            {
+                  "name": "Petroglify Gornye Kozly",
+                  "text": "Diese neolithische Stätte zeigt gut erhaltene Felsbilder, die speziell Bergziegen darstellen und die antiken Jagdkulturen widerspiegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        69.938624,
+                        41.623173
+                  ]
+            },
+            {
+                  "name": "dacha",
+                  "text": "Ein lokales Wahrzeichen und Rastplatz an der Bergstraße, der traditionelle Gastfreundschaft und Ausblicke auf das Tal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.944498,
+                        41.668523
+                  ]
+            },
+            {
+                  "name": "Farkhad",
+                  "text": "Ein Denkmal für den legendären Helden Farhad, der in der regionalen Folklore für seine Stärke und Liebe gefeiert wird.",
+                  "category": "historical",
+                  "coords": [
+                        69.963568,
+                        41.627588
+                  ]
+            },
+            {
+                  "name": "Vid na Charvakskoe vodokhranilishche",
+                  "text": "Dieser Panoramablickpunkt bietet eine atemberaubende Perspektive auf den riesigen türkisfarbenen Stausee und das umliegende Chatkal-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        69.981528,
+                        41.616368
+                  ]
+            },
+            {
+                  "name": "Delto-PARADROM",
+                  "text": "Ein beliebter Startplatz für Gleitschirmflieger am Ufer des türkisfarbenen Charwak-Stausees.",
+                  "category": "landmark",
+                  "coords": [
+                        70.031568,
+                        41.612601
+                  ]
+            },
+            {
+                  "name": "Archaly",
+                  "text": "Ein Berggebiet am Charwak-See, das als Ausgangspunkt für Wanderungen in die malerische Natur dient.",
+                  "category": "landmark",
+                  "coords": [
+                        69.967306,
+                        41.555987
+                  ]
+            },
+            {
+                  "name": "Vkhod v ushchel'e (Ostorozhno - vozmozhen kamnepad!)",
+                  "text": "Der Eingang zu einer schmalen Schlucht, in der die beeindruckenden Felswände steil aufragen.",
+                  "category": "landmark",
+                  "coords": [
+                        70.114185,
+                        41.604406
+                  ]
+            },
+            {
+                  "name": "Vid na dolinu reki Koksu",
+                  "text": "Ein Aussichtspunkt mit Blick auf das gewundene Flusstal des Koksu, bevor er in den Stausee mündet.",
+                  "category": "natural",
+                  "coords": [
+                        70.100471,
+                        41.614746
+                  ]
+            },
+            {
+                  "name": "Panoramnaia besedka",
+                  "text": "Ein dekorativer Pavillon, der einen weiten Blick über die Berglandschaft am Stausee bietet.",
+                  "category": "natural",
+                  "coords": [
+                        70.066972,
+                        41.592795
+                  ]
+            },
+            {
+                  "name": "Lesnichestvo",
+                  "text": "Ein Naturschutzgebiet am Rande des Sees, das der Erhaltung der lokalen Bergflora gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        69.9762,
+                        41.593847
+                  ]
+            },
+            {
+                  "name": "Pliazh Iusupkhona",
+                  "text": "Ein beliebter Badestrand am Charwak-See, der für sein klares Wasser und Wassersportmöglichkeiten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        70.03505,
+                        41.622141
+                  ]
+            },
+            {
+                  "name": "Sharshara",
+                  "text": "Ein kleiner Strandabschnitt am Seeufer, der nach den nahegelegenen Wasserfällen benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        70.067357,
+                        41.597005
+                  ]
+            },
+            {
+                  "name": "Toli buva jome’ masjidi",
+                  "text": "Eine lokale Freitagsmoschee in der Bergregion, die als religiöser Mittelpunkt der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        70.055822,
+                        41.694729
+                  ]
+            },
+            {
+                  "name": "Sayitboy o‘g‘li vali Xalfa jome’ masjidi",
+                  "text": "Diese Moschee zeichnet sich durch ihre traditionelle Architektur im ländlichen Usbekistan aus.",
+                  "category": "landmark",
+                  "coords": [
+                        69.957064,
+                        41.675702
+                  ]
+            },
+            {
+                  "name": "Qadamjoy jome’ masjidi",
+                  "text": "Ein bedeutendes muslimisches Bethaus für die Bewohner der Siedlungen rund um den Stausee.",
+                  "category": "landmark",
+                  "coords": [
+                        70.103345,
+                        41.596563
+                  ]
+            },
+            {
+                  "name": "Abdukarim hoji jome’ masjidi",
+                  "text": "Ein schlichter Sakralbau in der Natur, der zur stillen Einkehr und zum Gebet einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        70.091684,
+                        41.612525
+                  ]
+            },
+            {
+                  "name": "Xo‘jakent jome’ masjidi",
+                  "text": "Die Moschee von Xo‘jakent liegt nahe den berühmten prähistorischen Felszeichnungen der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        69.937427,
+                        41.634895
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Ein kleiner lokaler Markt, auf dem frisches Obst und traditionelle Snacks aus der Region angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.957918,
+                        41.622765
+                  ]
+            },
+            {
+                  "name": "Bochka",
+                  "text": "Ein bekannter Handelsplatz an der Straße zum See, berühmt für seine Fischgerichte und Grillstände.",
+                  "category": "cultural",
+                  "coords": [
+                        69.938645,
+                        41.626757
+                  ]
+            },
+            {
+                  "name": "Bazarchik (Energetiki)",
+                  "text": "Ein kleiner Basar, der hauptsächlich die Anwohner und Besucher der umliegenden Ferienanlagen versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        69.938596,
+                        41.631506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shayx Umar Valiy Bog'istoniy maqbarasi",
+                  "text": "Ez a tisztelt mauzóleum a híres szúfi szent, Sejk Sovur apjának nyughelye a Csirvak-víztározó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        70.073519,
+                        41.685305
+                  ]
+            },
+            {
+                  "name": "Akshuran",
+                  "text": "Hegyi kilátóhely, ahonnan pazar kilátás nyílik a környező csúcsokra és a víztározó kék vizére.",
+                  "category": "landmark",
+                  "coords": [
+                        69.950842,
+                        41.572465
+                  ]
+            },
+            {
+                  "name": "Petroglify",
+                  "text": "Ezek az ősi kőfaragványok a neolitikumból származnak, állatokat és szimbólumokat ábrázolnak a sötét sziklafalakon.",
+                  "category": "landmark",
+                  "coords": [
+                        69.93999,
+                        41.621428
+                  ]
+            },
+            {
+                  "name": "Petroglify Gornye Kozly",
+                  "text": "Ez a neolitikus lelőhely jól megőrzött sziklarajzokat tartalmaz, amelyek kifejezetten kőszáli kecskéket ábrázolnak, tükrözve az ősi vadászkultúrákat.",
+                  "category": "landmark",
+                  "coords": [
+                        69.938624,
+                        41.623173
+                  ]
+            },
+            {
+                  "name": "dacha",
+                  "text": "Helyi tájékozódási pont és pihenőhely a hegyi úton, amely hagyományos vendégszeretetet és kilátást kínál a völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        69.944498,
+                        41.668523
+                  ]
+            },
+            {
+                  "name": "Farkhad",
+                  "text": "A legendás hősnek, Farhadnak szentelt emlékmű, akit a regionális folklór erejéért és szerelméért dicsőít.",
+                  "category": "historical",
+                  "coords": [
+                        69.963568,
+                        41.627588
+                  ]
+            },
+            {
+                  "name": "Vid na Charvakskoe vodokhranilishche",
+                  "text": "Erről a panorámás kilátópontról lélegzetelállító kilátás nyílik a hatalmas türkizkék víztározóra és a környező Chatkal-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        69.981528,
+                        41.616368
+                  ]
+            },
+            {
+                  "name": "Delto-PARADROM",
+                  "text": "Népszerű siklóernyős helyszín a türkizkék vizű Charvak-víztározó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        70.031568,
+                        41.612601
+                  ]
+            },
+            {
+                  "name": "Archaly",
+                  "text": "Hegyi terület a Charvak-tónál, amely kiindulópontként szolgál a festői természetbe vezető túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        69.967306,
+                        41.555987
+                  ]
+            },
+            {
+                  "name": "Vkhod v ushchel'e (Ostorozhno - vozmozhen kamnepad!)",
+                  "text": "Egy szűk szurdok bejárata, ahol a lenyűgöző sziklafalak meredeken emelkednek a magasba.",
+                  "category": "landmark",
+                  "coords": [
+                        70.114185,
+                        41.604406
+                  ]
+            },
+            {
+                  "name": "Vid na dolinu reki Koksu",
+                  "text": "Kilátópont, ahonnan rálátni a Kokszu-folyó kanyargós völgyére, mielőtt a víztározóba torkollik.",
+                  "category": "natural",
+                  "coords": [
+                        70.100471,
+                        41.614746
+                  ]
+            },
+            {
+                  "name": "Panoramnaia besedka",
+                  "text": "Dekoratív pavilon, amely tágas kilátást nyújt a víztározó melletti hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        70.066972,
+                        41.592795
+                  ]
+            },
+            {
+                  "name": "Lesnichestvo",
+                  "text": "A tó partján fekvő természetvédelmi terület, amely a helyi hegyi flóra megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        69.9762,
+                        41.593847
+                  ]
+            },
+            {
+                  "name": "Pliazh Iusupkhona",
+                  "text": "Népszerű strand a Charvak-tónál, amely tiszta vizéről és vízi sportolási lehetőségeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        70.03505,
+                        41.622141
+                  ]
+            },
+            {
+                  "name": "Sharshara",
+                  "text": "Egy kis strandszakasz a tóparton, amely a közeli vízesésekről kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        70.067357,
+                        41.597005
+                  ]
+            },
+            {
+                  "name": "Toli buva jome’ masjidi",
+                  "text": "Helyi pénteki mecset a hegyvidéken, amely a közösség vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        70.055822,
+                        41.694729
+                  ]
+            },
+            {
+                  "name": "Sayitboy o‘g‘li vali Xalfa jome’ masjidi",
+                  "text": "Ez a mecset a vidéki üzbegisztáni hagyományos építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        69.957064,
+                        41.675702
+                  ]
+            },
+            {
+                  "name": "Qadamjoy jome’ masjidi",
+                  "text": "Jelentős muszlim imaház a víztározó körüli települések lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        70.103345,
+                        41.596563
+                  ]
+            },
+            {
+                  "name": "Abdukarim hoji jome’ masjidi",
+                  "text": "Egyszerű szakrális épület a természetben, amely csendes elvonulásra és imára hív.",
+                  "category": "landmark",
+                  "coords": [
+                        70.091684,
+                        41.612525
+                  ]
+            },
+            {
+                  "name": "Xo‘jakent jome’ masjidi",
+                  "text": "A hodzsakenti mecset a régió híres, prahisztorikus sziklarajzai közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        69.937427,
+                        41.634895
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "Kicsi helyi piac, ahol friss gyümölcsöket és hagyományos helyi ételeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.957918,
+                        41.622765
+                  ]
+            },
+            {
+                  "name": "Bochka",
+                  "text": "Ismert kereskedőhely a tóhoz vezető úton, amely halételeiről és grillstandjairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        69.938645,
+                        41.626757
+                  ]
+            },
+            {
+                  "name": "Bazarchik (Energetiki)",
+                  "text": "Kicsi bazár, amely főként a környező üdülőközpontok lakóit és látogatóit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        69.938596,
+                        41.631506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shayx Umar Valiy Bog'istoniy maqbarasi",
+                  "text": "Acest mausoleu venerat este locul de înmormântare al tatălui celebrului sfânt sufit Șeic Șovur, situat lângă rezervorul Charvak.",
+                  "category": "historical",
+                  "coords": [
+                        70.073519,
+                        41.685305
+                  ]
+            },
+            {
+                  "name": "Akshuran",
+                  "text": "Un punct de belvedere montan care oferă vederi panoramice asupra vârfurilor înconjurătoare și a apelor albastre ale rezervorului de dedesubt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.950842,
+                        41.572465
+                  ]
+            },
+            {
+                  "name": "Petroglify",
+                  "text": "Aceste sculpturi antice în piatră datează din perioada neolitică, înfățișând animale și simboluri pe fețele stâncilor întunecate.",
+                  "category": "landmark",
+                  "coords": [
+                        69.93999,
+                        41.621428
+                  ]
+            },
+            {
+                  "name": "Petroglify Gornye Kozly",
+                  "text": "Acest sit neolitic prezintă artă rupestră bine conservată care înfățișează în special capre de munte, reflectând culturile antice de vânătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        69.938624,
+                        41.623173
+                  ]
+            },
+            {
+                  "name": "dacha",
+                  "text": "Un punct de reper local și popas pe drumul de munte, oferind ospitalitate tradițională și vederi asupra văii.",
+                  "category": "landmark",
+                  "coords": [
+                        69.944498,
+                        41.668523
+                  ]
+            },
+            {
+                  "name": "Farkhad",
+                  "text": "Un monument dedicat eroului legendar Farhad, celebrat în folclorul regional pentru forța și dragostea sa.",
+                  "category": "historical",
+                  "coords": [
+                        69.963568,
+                        41.627588
+                  ]
+            },
+            {
+                  "name": "Vid na Charvakskoe vodokhranilishche",
+                  "text": "Acest punct de belvedere panoramic oferă o perspectivă uluitoare asupra vastului rezervor turcoaz și a munților Chatkal din jur.",
+                  "category": "natural",
+                  "coords": [
+                        69.981528,
+                        41.616368
+                  ]
+            },
+            {
+                  "name": "Delto-PARADROM",
+                  "text": "Un loc popular pentru parapantă pe malul lacului de acumulare turcoaz Charvak.",
+                  "category": "landmark",
+                  "coords": [
+                        70.031568,
+                        41.612601
+                  ]
+            },
+            {
+                  "name": "Archaly",
+                  "text": "O zonă montană lângă lacul Charvak, care servește ca punct de plecare pentru drumeții în natura pitorească.",
+                  "category": "landmark",
+                  "coords": [
+                        69.967306,
+                        41.555987
+                  ]
+            },
+            {
+                  "name": "Vkhod v ushchel'e (Ostorozhno - vozmozhen kamnepad!)",
+                  "text": "Intrarea într-un canion îngust, unde pereții de stâncă impresionanți se înalță abrupt.",
+                  "category": "landmark",
+                  "coords": [
+                        70.114185,
+                        41.604406
+                  ]
+            },
+            {
+                  "name": "Vid na dolinu reki Koksu",
+                  "text": "Un punct de observație cu vedere la valea șerpuitoare a râului Koksu înainte de a se vărsa în lacul de acumulare.",
+                  "category": "natural",
+                  "coords": [
+                        70.100471,
+                        41.614746
+                  ]
+            },
+            {
+                  "name": "Panoramnaia besedka",
+                  "text": "Un foișor decorativ care oferă o vedere largă asupra peisajului montan de lângă lacul de acumulare.",
+                  "category": "natural",
+                  "coords": [
+                        70.066972,
+                        41.592795
+                  ]
+            },
+            {
+                  "name": "Lesnichestvo",
+                  "text": "O rezervație naturală la marginea lacului, dedicată conservării florei montane locale.",
+                  "category": "natural",
+                  "coords": [
+                        69.9762,
+                        41.593847
+                  ]
+            },
+            {
+                  "name": "Pliazh Iusupkhona",
+                  "text": "O plajă populară la lacul Charvak, cunoscută pentru apele sale limpezi și posibilitățile de sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        70.03505,
+                        41.622141
+                  ]
+            },
+            {
+                  "name": "Sharshara",
+                  "text": "O mică porțiune de plajă pe malul lacului, numită după cascadele din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        70.067357,
+                        41.597005
+                  ]
+            },
+            {
+                  "name": "Toli buva jome’ masjidi",
+                  "text": "O moschee locală de vineri în regiunea montană, care servește drept centru religios al comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        70.055822,
+                        41.694729
+                  ]
+            },
+            {
+                  "name": "Sayitboy o‘g‘li vali Xalfa jome’ masjidi",
+                  "text": "Această moschee se remarcă prin arhitectura sa tradițională din Uzbekistanul rural.",
+                  "category": "landmark",
+                  "coords": [
+                        69.957064,
+                        41.675702
+                  ]
+            },
+            {
+                  "name": "Qadamjoy jome’ masjidi",
+                  "text": "O importantă casă de rugăciune musulmană pentru locuitorii așezărilor din jurul lacului de acumulare.",
+                  "category": "landmark",
+                  "coords": [
+                        70.103345,
+                        41.596563
+                  ]
+            },
+            {
+                  "name": "Abdukarim hoji jome’ masjidi",
+                  "text": "Un edificiu religios simplu în mijlocul naturii, care invită la reculegere și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        70.091684,
+                        41.612525
+                  ]
+            },
+            {
+                  "name": "Xo‘jakent jome’ masjidi",
+                  "text": "Moscheea din Xo‘jakent este situată lângă faimoasele desene rupestre preistorice din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        69.937427,
+                        41.634895
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "O mică piață locală unde se vând fructe proaspete și gustări tradiționale din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        69.957918,
+                        41.622765
+                  ]
+            },
+            {
+                  "name": "Bochka",
+                  "text": "Un loc de comerț cunoscut pe drumul spre lac, renumit pentru mâncărurile din pește și tarabele cu grătar.",
+                  "category": "cultural",
+                  "coords": [
+                        69.938645,
+                        41.626757
+                  ]
+            },
+            {
+                  "name": "Bazarchik (Energetiki)",
+                  "text": "Un mic bazar care deservește în principal rezidenții și vizitatorii complexelor de vacanță din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        69.938596,
+                        41.631506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shayx Umar Valiy Bog'istoniy maqbarasi",
+                  "text": "This revered mausoleum is the burial place of the father of the famous Sufi saint Sheikh Shovur, set near the Charvak reservoir.",
+                  "category": "historical",
+                  "coords": [
+                        70.073519,
+                        41.685305
+                  ]
+            },
+            {
+                  "name": "Akshuran",
+                  "text": "A mountain lookout point offering sweeping views of the surrounding peaks and the blue waters of the reservoir below.",
+                  "category": "landmark",
+                  "coords": [
+                        69.950842,
+                        41.572465
+                  ]
+            },
+            {
+                  "name": "Petroglyphs",
+                  "text": "These ancient stone carvings date back to the Neolithic period, depicting animals and symbols on the dark rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        69.93999,
+                        41.621428
+                  ]
+            },
+            {
+                  "name": "Petroglyphs of Mountain Goats",
+                  "text": "This Neolithic site features well-preserved rock art specifically depicting mountain goats, reflecting ancient hunting cultures.",
+                  "category": "landmark",
+                  "coords": [
+                        69.938624,
+                        41.623173
+                  ]
+            },
+            {
+                  "name": "Isroil aka",
+                  "text": "A local landmark and rest stop on the mountain road, offering traditional hospitality and views of the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        69.944498,
+                        41.668523
+                  ]
+            },
+            {
+                  "name": "Farhad",
+                  "text": "A monument dedicated to the legendary hero Farhad, celebrated in regional folklore for his strength and love.",
+                  "category": "historical",
+                  "coords": [
+                        69.963568,
+                        41.627588
+                  ]
+            },
+            {
+                  "name": "View of the Charvak reservoir",
+                  "text": "This panoramic viewpoint provides a breathtaking perspective of the vast turquoise reservoir and the surrounding Chatkal mountains.",
+                  "category": "natural",
+                  "coords": [
+                        69.981528,
+                        41.616368
+                  ]
+            },
+            {
+                  "name": "Delto-PARADROM",
+                  "text": "A popular paragliding launch site located on the shores of the turquoise Charvak Reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        70.031568,
+                        41.612601
+                  ]
+            },
+            {
+                  "name": "Archaly",
+                  "text": "A mountainous area by Charvak Lake that serves as a starting point for hikes into the scenic nature.",
+                  "category": "landmark",
+                  "coords": [
+                        69.967306,
+                        41.555987
+                  ]
+            },
+            {
+                  "name": "Vkhod v ushchel'e (Ostorozhno - vozmozhen kamnepad!)",
+                  "text": "The entrance to a narrow gorge where impressive rock walls rise steeply into the air.",
+                  "category": "landmark",
+                  "coords": [
+                        70.114185,
+                        41.604406
+                  ]
+            },
+            {
+                  "name": "View of the Koksu River valley",
+                  "text": "A viewpoint overlooking the winding Koksu River valley before it enters the reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        70.100471,
+                        41.614746
+                  ]
+            },
+            {
+                  "name": "Panoramnaia besedka",
+                  "text": "A decorative pavilion offering a wide view over the mountainous landscape by the reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        70.066972,
+                        41.592795
+                  ]
+            },
+            {
+                  "name": "Lesnichestvo",
+                  "text": "A nature reserve on the edge of the lake dedicated to preserving the local mountain flora.",
+                  "category": "natural",
+                  "coords": [
+                        69.9762,
+                        41.593847
+                  ]
+            },
+            {
+                  "name": "Pliazh Iusupkhona",
+                  "text": "A popular swimming beach at Charvak Lake known for its clear water and water sports facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        70.03505,
+                        41.622141
+                  ]
+            },
+            {
+                  "name": "Sharshara",
+                  "text": "A small beach area on the lakeshore named after the nearby waterfalls.",
+                  "category": "recreational",
+                  "coords": [
+                        70.067357,
+                        41.597005
+                  ]
+            },
+            {
+                  "name": "Toli buva jome’ masjidi",
+                  "text": "A local Friday mosque in the mountain region serving as the community's religious center.",
+                  "category": "landmark",
+                  "coords": [
+                        70.055822,
+                        41.694729
+                  ]
+            },
+            {
+                  "name": "Sayitboy o‘g‘li vali Xalfa jome’ masjidi",
+                  "text": "This mosque is characterized by its traditional architecture in rural Uzbekistan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.957064,
+                        41.675702
+                  ]
+            },
+            {
+                  "name": "Qadamjoy jome’ masjidi",
+                  "text": "A significant Muslim prayer house for the residents of the settlements around the reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        70.103345,
+                        41.596563
+                  ]
+            },
+            {
+                  "name": "Abdukarim hoji jome’ masjidi",
+                  "text": "A simple sacred building in nature that invites quiet reflection and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        70.091684,
+                        41.612525
+                  ]
+            },
+            {
+                  "name": "Xo‘jakent jome’ masjidi",
+                  "text": "The Xo‘jakent mosque is located near the region's famous prehistoric rock drawings.",
+                  "category": "landmark",
+                  "coords": [
+                        69.937427,
+                        41.634895
+                  ]
+            },
+            {
+                  "name": "Bazarchik",
+                  "text": "A small local market offering fresh fruit and traditional snacks from the region.",
+                  "category": "cultural",
+                  "coords": [
+                        69.957918,
+                        41.622765
+                  ]
+            },
+            {
+                  "name": "Bochka",
+                  "text": "A well-known trading spot on the road to the lake, famous for its fish dishes and grill stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        69.938645,
+                        41.626757
+                  ]
+            },
+            {
+                  "name": "Bazarchik (Energetiki)",
+                  "text": "A small bazaar mainly serving the residents and visitors of the surrounding holiday resorts.",
+                  "category": "cultural",
+                  "coords": [
+                        69.938596,
+                        41.631506
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "UZ-TO",
     coords: [70.0401, 41.6210],
@@ -147,7 +1029,88 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "tudakul-lake-nature-v2",
+    id: "tudakul-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lazurnaia",
+                  "text": "Lazurnaia ist ein Sandstrand am Ufer des Tudakul-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        64.750771,
+                        39.796764
+                  ]
+            },
+            {
+                  "name": "To'dako'l Beach",
+                  "text": "To'dako'l Beach bietet eine sandige Küstenlandschaft für Besucher am Tudakul-See.",
+                  "category": "recreational",
+                  "coords": [
+                        64.775011,
+                        39.788928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lazurnaia",
+                  "text": "A Lazurnaia egy homokos strand a Tudakul-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        64.750771,
+                        39.796764
+                  ]
+            },
+            {
+                  "name": "To'dako'l Beach",
+                  "text": "A To'dako'l strand homokos tengerparti környezetet kínál a Tudakul-tó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        64.775011,
+                        39.788928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lazurnaia",
+                  "text": "Lazurnaia este o plajă cu nisip situată pe malul lacului Tudakul.",
+                  "category": "recreational",
+                  "coords": [
+                        64.750771,
+                        39.796764
+                  ]
+            },
+            {
+                  "name": "To'dako'l Beach",
+                  "text": "Plaja To'dako'l oferă un cadru de coastă cu nisip pentru vizitatorii de-a lungul lacului Tudakul.",
+                  "category": "recreational",
+                  "coords": [
+                        64.775011,
+                        39.788928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lazurnaia",
+                  "text": "Lazurnaia is a sandy beach situated on the shores of Lake Tudakul.",
+                  "category": "recreational",
+                  "coords": [
+                        64.750771,
+                        39.796764
+                  ]
+            },
+            {
+                  "name": "To'dako'l Beach",
+                  "text": "To'dako'l Beach offers a sandy coastal setting for visitors along Lake Tudakul.",
+                  "category": "recreational",
+                  "coords": [
+                        64.775011,
+                        39.788928
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "UZ-NW",
     coords: [64.8322, 39.8147],
@@ -247,7 +1210,52 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "khazret-sultan-nature-v2",
+    id: "khazret-sultan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"Yuqori To'palang\" milliy tabiat bog'i",
+                  "text": "Der Nationalpark „Upper Tupalang“ ist ein ausgewiesenes ökologisches Reservat, das die Wildnis in der Nähe des Khazret-Sultan-Gipfels schützt.",
+                  "category": "natural",
+                  "coords": [
+                        67.834758,
+                        38.890445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"Yuqori To'palang\" milliy tabiat bog'i",
+                  "text": "A „Felső-Tupalang” Nemzeti Természeti Park egy kijelölt ökológiai rezervátum, amely a Khazret Sultan csúcs közelében lévő vadont mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        67.834758,
+                        38.890445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"Yuqori To'palang\" milliy tabiat bog'i",
+                  "text": "Parcul Național Natural „Tupalangul Superior” este o rezervație ecologică desemnată care pune în valoare sălbăticia din apropierea vârfului Khazret Sultan.",
+                  "category": "natural",
+                  "coords": [
+                        67.834758,
+                        38.890445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Upper Tupalang\" National Nature Park",
+                  "text": "The \"Upper Tupalang\" National Nature Park is a designated ecological reserve showcasing the wilderness near the Khazret Sultan peak.",
+                  "category": "natural",
+                  "coords": [
+                        67.834758,
+                        38.890445
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-SU",
     coords: [67.8288, 38.9482],
@@ -283,7 +1291,772 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "greater-chimgan-nature-v2",
+    id: "greater-chimgan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pesochnyi",
+                  "text": "Dieser sandige Abschnitt ist ein markanter Teil des Wanderwegs am Großen Tschimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.04576,
+                        41.54283
+                  ]
+            },
+            {
+                  "name": "Kanatka (Nizhniaia tochka)",
+                  "text": "Dies ist die Talstation der Seilbahn, die Besucher in das Skigebiet des Tschimgan befördert.",
+                  "category": "landmark",
+                  "coords": [
+                        70.021218,
+                        41.525608
+                  ]
+            },
+            {
+                  "name": "Takhtadzhailiau",
+                  "text": "Diese hochgelegene Almwiese bietet im Sommer weite Ausblicke über das Tschimgan-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        70.014749,
+                        41.50798
+                  ]
+            },
+            {
+                  "name": "Kumbel'",
+                  "text": "Der Kumbel-Grat ist bekannt für seine Panoramaausblicke auf die umliegenden Gipfel des Westlichen Tienschan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.978132,
+                        41.476095
+                  ]
+            },
+            {
+                  "name": "Chetkumbel'",
+                  "text": "Dieser Bergrücken ist Teil des Kumbel-Systems und bietet anspruchsvolle Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        69.993853,
+                        41.479965
+                  ]
+            },
+            {
+                  "name": "Petroglyph (Hirsch)",
+                  "text": "Diese archäologische Stätte zeigt Petroglyphen aus dem Neolithikum und der Bronzezeit.",
+                  "category": "landmark",
+                  "coords": [
+                        70.015859,
+                        41.483178
+                  ]
+            },
+            {
+                  "name": "\"Stenka\" (imeetsia tros)",
+                  "text": "Diese steile Felswand ist für Bergsteiger mit einem fest installierten Sicherungsseil ausgestattet.",
+                  "category": "landmark",
+                  "coords": [
+                        70.050789,
+                        41.499918
+                  ]
+            },
+            {
+                  "name": "Skal'nyi uchatok Vorota",
+                  "text": "Die „Vorota“-Felsformation bildet eine markante, torartige Passage am Bergpfad.",
+                  "category": "landmark",
+                  "coords": [
+                        70.05503,
+                        41.505202
+                  ]
+            },
+            {
+                  "name": "\"Galstuk\" Tros na skal'nom pod'iome",
+                  "text": "Dieser steile Aufstieg, „Galstuk“ genannt, ist zur Sicherheit mit einem Drahtseil versehen.",
+                  "category": "landmark",
+                  "coords": [
+                        70.053608,
+                        41.499603
+                  ]
+            },
+            {
+                  "name": "Navoznaia gora",
+                  "text": "Der Navoznaia-Berg ist ein lokaler Orientierungspunkt auf den Wanderrouten am Tschimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.042472,
+                        41.482969
+                  ]
+            },
+            {
+                  "name": "Palat",
+                  "text": "Diese markante Felsformation im Westlichen Tienschan ähnelt einem monumentalen Bauwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        70.115855,
+                        41.431686
+                  ]
+            },
+            {
+                  "name": "Skol'zkii",
+                  "text": "Dieser Wegabschnitt ist für seinen rutschigen Untergrund bekannt und erfordert beim Abstieg Vorsicht.",
+                  "category": "landmark",
+                  "coords": [
+                        70.061937,
+                        41.438562
+                  ]
+            },
+            {
+                  "name": "Takhta",
+                  "text": "Diese flache Hochebene dient Bergwanderern oft als Rastplatz mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        70.063422,
+                        41.46772
+                  ]
+            },
+            {
+                  "name": "Bol'shoi Chimgan",
+                  "text": "Mit 3309 Metern ist der Große Tschimgan der höchste Gipfel des Tschatkal-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        70.058672,
+                        41.49519
+                  ]
+            },
+            {
+                  "name": "Komsomolets",
+                  "text": "Der Komsomolez ist ein markanter Berggipfel im Tschimgan-Gebiet, der oft von Bergsteigern besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        70.090725,
+                        41.502157
+                  ]
+            },
+            {
+                  "name": "Kichkina",
+                  "text": "Dieser kleinere Gipfel liegt in unmittelbarer Nähe zum Hauptmassiv des Großen Tschimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.085415,
+                        41.497669
+                  ]
+            },
+            {
+                  "name": "Perya",
+                  "text": "Die „Federn“ sind scharfe Felsgrate, die steil aus der Berglandschaft des Tschimgan aufragen.",
+                  "category": "landmark",
+                  "coords": [
+                        70.095588,
+                        41.503229
+                  ]
+            },
+            {
+                  "name": "Sypuchii",
+                  "text": "Dieser Hang besteht aus lockerem Geröll und stellt eine technische Herausforderung für Wanderer dar.",
+                  "category": "landmark",
+                  "coords": [
+                        70.101477,
+                        41.503451
+                  ]
+            },
+            {
+                  "name": "Tumannyi",
+                  "text": "Dieser Bergsattel ist oft in dichten Nebel gehüllt, was ihm eine mystische Atmosphäre verleiht.",
+                  "category": "landmark",
+                  "coords": [
+                        70.115446,
+                        41.507628
+                  ]
+            },
+            {
+                  "name": "Tesniny (ostorozhno vozmozhen kamnepad)",
+                  "text": "In diesen engen Schluchten herrscht erhöhte Steinschlaggefahr, insbesondere nach Regenfällen.",
+                  "category": "landmark",
+                  "coords": [
+                        70.06255,
+                        41.538755
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Diese kleine Moschee am Berghang dient als Gebetsort für die lokale Gemeinde im Tschimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.030296,
+                        41.544528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pesochnyi",
+                  "text": "Ez a homokos szakasz a Nagy-Csimgán menti túraútvonal jellegzetes része.",
+                  "category": "landmark",
+                  "coords": [
+                        70.04576,
+                        41.54283
+                  ]
+            },
+            {
+                  "name": "Kanatka (Nizhniaia tochka)",
+                  "text": "Ez a felvonó alsó állomása, amely a Csimgán síterepére szállítja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        70.021218,
+                        41.525608
+                  ]
+            },
+            {
+                  "name": "Takhtadzhailiau",
+                  "text": "Ez a magasan fekvő hegyi legelő nyáron tágas kilátást nyújt a Csimgán-masszívumra.",
+                  "category": "landmark",
+                  "coords": [
+                        70.014749,
+                        41.50798
+                  ]
+            },
+            {
+                  "name": "Kumbel'",
+                  "text": "A Kumbel-gerinc a Nyugati-Tian-san környező csúcsaira nyíló panorámás kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.978132,
+                        41.476095
+                  ]
+            },
+            {
+                  "name": "Chetkumbel'",
+                  "text": "Ez a hegygerinc a Kumbel-rendszer része, és kihívást jelentő túraútvonalakat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        69.993853,
+                        41.479965
+                  ]
+            },
+            {
+                  "name": "Petroglif olen'",
+                  "text": "Ez a régészeti lelőhely újkőkorszaki és bronzkori sziklarajzokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        70.015859,
+                        41.483178
+                  ]
+            },
+            {
+                  "name": "\"Stenka\" (imeetsia tros)",
+                  "text": "Ez a meredek sziklafal a hegymászók számára rögzített biztosítókötéllel van felszerelve.",
+                  "category": "landmark",
+                  "coords": [
+                        70.050789,
+                        41.499918
+                  ]
+            },
+            {
+                  "name": "Skal'nyi uchatok Vorota",
+                  "text": "A „Vorota” sziklaalakzat jellegzetes, kapuszerű átjárót alkot a hegyi ösvényen.",
+                  "category": "landmark",
+                  "coords": [
+                        70.05503,
+                        41.505202
+                  ]
+            },
+            {
+                  "name": "\"Galstuk\" Tros na skal'nom pod'iome",
+                  "text": "Ez a „Galstuk” nevű meredek emelkedő a biztonság érdekében drótkötéllel van ellátva.",
+                  "category": "landmark",
+                  "coords": [
+                        70.053608,
+                        41.499603
+                  ]
+            },
+            {
+                  "name": "Navoznaia gora",
+                  "text": "A Navoznaja-hegy a csimgáni túraútvonalak egyik helyi tájékozódási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        70.042472,
+                        41.482969
+                  ]
+            },
+            {
+                  "name": "Palat",
+                  "text": "Ez a Nyugati-Tian-sanban található jellegzetes sziklaalakzat egy monumentális építményre hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        70.115855,
+                        41.431686
+                  ]
+            },
+            {
+                  "name": "Skol'zkii",
+                  "text": "Ez az útszakasz csúszós talajáról ismert, és óvatosságot igényel a leereszkedésnél.",
+                  "category": "landmark",
+                  "coords": [
+                        70.061937,
+                        41.438562
+                  ]
+            },
+            {
+                  "name": "Takhta",
+                  "text": "Ez a lapos fennsík gyakran szolgál pihenőhelyként a panorámás kilátást élvező túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        70.063422,
+                        41.46772
+                  ]
+            },
+            {
+                  "name": "Bol'shoi Chimgan",
+                  "text": "A 3309 méteres Nagy-Csimgán a Csatkal-hegység legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        70.058672,
+                        41.49519
+                  ]
+            },
+            {
+                  "name": "Komsomolets",
+                  "text": "A Komszomolec a Csimgán-vidék egyik jellegzetes hegycsúcsa, amelyet gyakran látogatnak a hegymászók.",
+                  "category": "landmark",
+                  "coords": [
+                        70.090725,
+                        41.502157
+                  ]
+            },
+            {
+                  "name": "Kichkina",
+                  "text": "Ez a kisebb csúcs a Nagy-Csimgán főmasszívumának közvetlen közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        70.085415,
+                        41.497669
+                  ]
+            },
+            {
+                  "name": "Perya",
+                  "text": "A „Tollak” éles sziklagerincek, amelyek meredeken emelkednek ki a csimgáni hegyi tájból.",
+                  "category": "landmark",
+                  "coords": [
+                        70.095588,
+                        41.503229
+                  ]
+            },
+            {
+                  "name": "Sypuchii",
+                  "text": "Ez a lejtő laza törmelékből áll, és technikai kihívást jelent a túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        70.101477,
+                        41.503451
+                  ]
+            },
+            {
+                  "name": "Tumannyi",
+                  "text": "Ezt a hegyi nyerget gyakran sűrű köd borítja, ami misztikus hangulatot kölcsönöz neki.",
+                  "category": "landmark",
+                  "coords": [
+                        70.115446,
+                        41.507628
+                  ]
+            },
+            {
+                  "name": "Tesniny (ostorozhno vozmozhen kamnepad)",
+                  "text": "Ezekben a szűk szurdokokban fokozott a kőomlásveszély, különösen esőzések után.",
+                  "category": "landmark",
+                  "coords": [
+                        70.06255,
+                        41.538755
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ez a hegyoldalban fekvő kis mecset imádkozóhelyként szolgál a csimgáni helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        70.030296,
+                        41.544528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pesochnyi",
+                  "text": "Această secțiune nisipoasă este o parte distinctivă a traseului de drumeție de pe Marele Cimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.04576,
+                        41.54283
+                  ]
+            },
+            {
+                  "name": "Kanatka (Nizhniaia tochka)",
+                  "text": "Aceasta este stația inferioară a telecabinei care transportă vizitatorii în zona de schi Cimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.021218,
+                        41.525608
+                  ]
+            },
+            {
+                  "name": "Takhtadzhailiau",
+                  "text": "Această pășune alpină de mare altitudine oferă vederi largi peste masivul Cimgan în timpul verii.",
+                  "category": "landmark",
+                  "coords": [
+                        70.014749,
+                        41.50798
+                  ]
+            },
+            {
+                  "name": "Kumbel'",
+                  "text": "Creasta Kumbel este cunoscută pentru vederile sale panoramice asupra vârfurilor învecinate din Tian-Șanul de Vest.",
+                  "category": "landmark",
+                  "coords": [
+                        69.978132,
+                        41.476095
+                  ]
+            },
+            {
+                  "name": "Chetkumbel'",
+                  "text": "Această creastă face parte din sistemul Kumbel și oferă trasee de drumeție provocatoare.",
+                  "category": "landmark",
+                  "coords": [
+                        69.993853,
+                        41.479965
+                  ]
+            },
+            {
+                  "name": "Petroglif olen'",
+                  "text": "Acest sit arheologic prezintă petroglife din epoca neolitică și a bronzului.",
+                  "category": "landmark",
+                  "coords": [
+                        70.015859,
+                        41.483178
+                  ]
+            },
+            {
+                  "name": "\"Stenka\" (imeetsia tros)",
+                  "text": "Acest perete stâncos abrupt este echipat cu un cablu de siguranță fix pentru alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        70.050789,
+                        41.499918
+                  ]
+            },
+            {
+                  "name": "Skal'nyi uchatok Vorota",
+                  "text": "Formațiunea stâncoasă „Vorota” formează un pasaj distinctiv, asemănător unei porți, pe poteca montană.",
+                  "category": "landmark",
+                  "coords": [
+                        70.05503,
+                        41.505202
+                  ]
+            },
+            {
+                  "name": "\"Galstuk\" Tros na skal'nom pod'iome",
+                  "text": "Această urcare abruptă, numită „Galstuk”, este prevăzută cu un cablu metalic pentru siguranță.",
+                  "category": "landmark",
+                  "coords": [
+                        70.053608,
+                        41.499603
+                  ]
+            },
+            {
+                  "name": "Navoznaia gora",
+                  "text": "Muntele Navoznaia este un punct de reper local pe traseele de drumeție de pe Cimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.042472,
+                        41.482969
+                  ]
+            },
+            {
+                  "name": "Palat",
+                  "text": "Această formațiune stâncoasă proeminentă din Tian-Șanul de Vest seamănă cu o structură monumentală.",
+                  "category": "landmark",
+                  "coords": [
+                        70.115855,
+                        41.431686
+                  ]
+            },
+            {
+                  "name": "Skol'zkii",
+                  "text": "Această secțiune de traseu este cunoscută pentru terenul său alunecos și necesită prudență la coborâre.",
+                  "category": "landmark",
+                  "coords": [
+                        70.061937,
+                        41.438562
+                  ]
+            },
+            {
+                  "name": "Takhta",
+                  "text": "Acest platou înalt și plat servește adesea ca loc de odihnă pentru drumeții care se bucură de vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        70.063422,
+                        41.46772
+                  ]
+            },
+            {
+                  "name": "Bol'shoi Chimgan",
+                  "text": "Vârful Marele Cimgan, de 3309 metri, este cel mai înalt punct din munții Chatkal.",
+                  "category": "natural",
+                  "coords": [
+                        70.058672,
+                        41.49519
+                  ]
+            },
+            {
+                  "name": "Komsomolets",
+                  "text": "Komsomolets este un vârf muntos proeminent din zona Cimgan, vizitat adesea de alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        70.090725,
+                        41.502157
+                  ]
+            },
+            {
+                  "name": "Kichkina",
+                  "text": "Acest vârf mai mic este situat în imediata apropiere a masivului principal Marele Cimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.085415,
+                        41.497669
+                  ]
+            },
+            {
+                  "name": "Perya",
+                  "text": "„Penele” sunt creste stâncoase ascuțite care se ridică abrupt din peisajul montan al Cimganului.",
+                  "category": "landmark",
+                  "coords": [
+                        70.095588,
+                        41.503229
+                  ]
+            },
+            {
+                  "name": "Sypuchii",
+                  "text": "Această pantă este formată din grohotiș instabil și reprezintă o provocare tehnică pentru drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        70.101477,
+                        41.503451
+                  ]
+            },
+            {
+                  "name": "Tumannyi",
+                  "text": "Această șa muntoasă este adesea învăluită în ceață densă, ceea ce îi conferă o atmosferă mistică.",
+                  "category": "landmark",
+                  "coords": [
+                        70.115446,
+                        41.507628
+                  ]
+            },
+            {
+                  "name": "Tesniny (ostorozhno vozmozhen kamnepad)",
+                  "text": "În aceste chei înguste există un risc crescut de căderi de pietre, în special după ploi.",
+                  "category": "landmark",
+                  "coords": [
+                        70.06255,
+                        41.538755
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Această mică moschee de pe versantul muntelui servește ca loc de rugăciune pentru comunitatea locală din Cimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.030296,
+                        41.544528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pesochniy",
+                  "text": "This sandy section is a distinctive part of the hiking trail on Greater Chimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.04576,
+                        41.54283
+                  ]
+            },
+            {
+                  "name": "Kanatka (Nizhniaia tochka)",
+                  "text": "This is the lower station of the cable car that transports visitors into the Chimgan ski area.",
+                  "category": "landmark",
+                  "coords": [
+                        70.021218,
+                        41.525608
+                  ]
+            },
+            {
+                  "name": "Takhtajaylyau",
+                  "text": "This high-altitude mountain meadow offers expansive views over the Chimgan massif in summer.",
+                  "category": "landmark",
+                  "coords": [
+                        70.014749,
+                        41.50798
+                  ]
+            },
+            {
+                  "name": "Kumbel",
+                  "text": "The Kumbel ridge is known for its panoramic views of the surrounding peaks of the Western Tien Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.978132,
+                        41.476095
+                  ]
+            },
+            {
+                  "name": "Chetkumbel",
+                  "text": "This mountain ridge is part of the Kumbel system and offers challenging hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        69.993853,
+                        41.479965
+                  ]
+            },
+            {
+                  "name": "Petroglyphs",
+                  "text": "This archaeological site features petroglyphs dating back to the Neolithic and Bronze Age.",
+                  "category": "landmark",
+                  "coords": [
+                        70.015859,
+                        41.483178
+                  ]
+            },
+            {
+                  "name": "\"Stenka\" (imeetsia tros)",
+                  "text": "This steep rock wall is equipped with a fixed safety cable for climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        70.050789,
+                        41.499918
+                  ]
+            },
+            {
+                  "name": "Skal'nyi uchatok Vorota",
+                  "text": "The 'Vorota' rock formation forms a distinctive, gate-like passage on the mountain path.",
+                  "category": "landmark",
+                  "coords": [
+                        70.05503,
+                        41.505202
+                  ]
+            },
+            {
+                  "name": "\"Galstuk\" Tros na skal'nom pod'iome",
+                  "text": "This steep ascent, called 'Galstuk', is equipped with a wire rope for safety.",
+                  "category": "landmark",
+                  "coords": [
+                        70.053608,
+                        41.499603
+                  ]
+            },
+            {
+                  "name": "Navoznaia gora",
+                  "text": "Navoznaia Mountain is a local landmark on the hiking routes at Chimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.042472,
+                        41.482969
+                  ]
+            },
+            {
+                  "name": "Palat",
+                  "text": "This prominent rock formation in the Western Tien Shan resembles a monumental structure.",
+                  "category": "landmark",
+                  "coords": [
+                        70.115855,
+                        41.431686
+                  ]
+            },
+            {
+                  "name": "Skol'zkii",
+                  "text": "This trail section is known for its slippery ground and requires caution during descent.",
+                  "category": "landmark",
+                  "coords": [
+                        70.061937,
+                        41.438562
+                  ]
+            },
+            {
+                  "name": "Tahta",
+                  "text": "This flat high plateau often serves as a resting spot for hikers enjoying panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        70.063422,
+                        41.46772
+                  ]
+            },
+            {
+                  "name": "Greater Chimgan",
+                  "text": "At 3309 metres, Greater Chimgan is the highest peak of the Chatkal Range.",
+                  "category": "natural",
+                  "coords": [
+                        70.058672,
+                        41.49519
+                  ]
+            },
+            {
+                  "name": "Komsomolets",
+                  "text": "Komsomolets is a prominent mountain peak in the Chimgan area, often visited by climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        70.090725,
+                        41.502157
+                  ]
+            },
+            {
+                  "name": "Kichkina",
+                  "text": "This smaller peak is located in close proximity to the main massif of Greater Chimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.085415,
+                        41.497669
+                  ]
+            },
+            {
+                  "name": "Perya",
+                  "text": "The 'Feathers' are sharp rock ridges that rise steeply from the Chimgan mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        70.095588,
+                        41.503229
+                  ]
+            },
+            {
+                  "name": "Sypuchiy",
+                  "text": "This slope consists of loose scree and presents a technical challenge for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        70.101477,
+                        41.503451
+                  ]
+            },
+            {
+                  "name": "Tumanniy",
+                  "text": "This mountain saddle is often shrouded in thick fog, giving it a mystical atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        70.115446,
+                        41.507628
+                  ]
+            },
+            {
+                  "name": "Tesniny (ostorozhno vozmozhen kamnepad)",
+                  "text": "In these narrow gorges, there is an increased risk of rockfall, especially after rainfall.",
+                  "category": "landmark",
+                  "coords": [
+                        70.06255,
+                        41.538755
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This small mosque on the mountainside serves as a place of prayer for the local community in Chimgan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.030296,
+                        41.544528
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-TO",
     coords: [70.0526, 41.4938],
@@ -319,7 +2092,52 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-adelung-nature-v2",
+    id: "mount-adelung-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sairam",
+                  "text": "Mit einer Höhe von 4.238 Metern ist dieser majestätische Gipfel ein markantes Wahrzeichen im Ugam-Gebirge nahe der Grenze.",
+                  "category": "natural",
+                  "coords": [
+                        70.480734,
+                        42.137746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sairam",
+                  "text": "A 4238 méter magasra emelkedő fenséges csúcs az Ugam-hegység meghatározó tájképi eleme a határ közelében.",
+                  "category": "natural",
+                  "coords": [
+                        70.480734,
+                        42.137746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sairam",
+                  "text": "Ridicându-se la 4.238 de metri, acest vârf maiestuos este un reper proeminent în Munții Ugam, lângă graniță.",
+                  "category": "natural",
+                  "coords": [
+                        70.480734,
+                        42.137746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sairam",
+                  "text": "Rising to 4,238 metres, this majestic peak is a prominent landmark in the Ugam Range near the border.",
+                  "category": "natural",
+                  "coords": [
+                        70.480734,
+                        42.137746
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-TO",
     coords: [70.4328, 42.1554],
@@ -391,7 +2209,232 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "ugam-chatkal-national-park-nature-v2",
+    id: "ugam-chatkal-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Po'latxon",
+                  "text": "Ein markanter Tafelberg im Chatkal-Gebirge mit einem weitläufigen, von Schluchten umgebenen Hochplateau.",
+                  "category": "natural",
+                  "coords": [
+                        70.171862,
+                        41.43381
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Ein markanter Gedenkobelisk im Nationalpark, der oft als Orientierungspunkt für Wanderer im Chatkal-Gebirge dient.",
+                  "category": "landmark",
+                  "coords": [
+                        70.154139,
+                        41.478699
+                  ]
+            },
+            {
+                  "name": "Obi-Rakhmat",
+                  "text": "Diese 1962 entdeckte Höhle im Gebirge ist eine bedeutende paläolithische Fundstätte mit prähistorischen Schichten.",
+                  "category": "natural",
+                  "coords": [
+                        70.132448,
+                        41.568852
+                  ]
+            },
+            {
+                  "name": "Imonkhan",
+                  "text": "Ein landschaftlich reizvoller Ort im Nationalpark, bekannt für seine weite Aussicht auf die Gipfel des Chatkal-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        70.225363,
+                        41.484033
+                  ]
+            },
+            {
+                  "name": "Sargardon",
+                  "text": "Die Überreste einer alten Siedlung im Schutzgebiet, die sich in der Nähe eines malerischen Gebirgswasserfalls befinden.",
+                  "category": "historical",
+                  "coords": [
+                        70.247442,
+                        41.475554
+                  ]
+            },
+            {
+                  "name": "Abdak",
+                  "text": "Ein beliebtes Ausflugsziel im Nationalpark, umgeben von der wilden Hochgebirgsnatur Usbekistans.",
+                  "category": "landmark",
+                  "coords": [
+                        70.280037,
+                        41.461737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Po'latxon",
+                  "text": "Jellegzetes táblahegy a Csatkal-hegységben, kiterjedt, szurdokokkal körülvett fennsíkkal.",
+                  "category": "natural",
+                  "coords": [
+                        70.171862,
+                        41.43381
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Jellegzetes emlékmű a nemzeti parkban, amely gyakran tájékozódási pontként szolgál a Csatkal-hegységben túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        70.154139,
+                        41.478699
+                  ]
+            },
+            {
+                  "name": "Obi-Rakhmat",
+                  "text": "Az 1962-ben felfedezett hegyi barlang egy fontos paleolitikus lelőhely, amely őskori rétegeket tartalmaz.",
+                  "category": "natural",
+                  "coords": [
+                        70.132448,
+                        41.568852
+                  ]
+            },
+            {
+                  "name": "Imonkhan",
+                  "text": "Festői hely a nemzeti parkban, amely a Csatkal-hegység csúcsaira nyíló széles kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        70.225363,
+                        41.484033
+                  ]
+            },
+            {
+                  "name": "Sargardon",
+                  "text": "Egy ősi település romjai a védett területen, amelyek egy festői hegyi vízesés közelében fekszenek.",
+                  "category": "historical",
+                  "coords": [
+                        70.247442,
+                        41.475554
+                  ]
+            },
+            {
+                  "name": "Abdak",
+                  "text": "Népszerű kirándulóhely a nemzeti parkban, Üzbegisztán vadregényes magashegyi természetével körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        70.280037,
+                        41.461737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Po'latxon",
+                  "text": "Un munte de tip platou în Munții Chatkal, cu un platou înalt vast înconjurat de defileuri.",
+                  "category": "natural",
+                  "coords": [
+                        70.171862,
+                        41.43381
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Un obelisc comemorativ în parcul național, care servește adesea drept punct de reper pentru drumeții din Munții Chatkal.",
+                  "category": "landmark",
+                  "coords": [
+                        70.154139,
+                        41.478699
+                  ]
+            },
+            {
+                  "name": "Obi-Rakhmat",
+                  "text": "Descoperită în 1962, această peșteră montană este un sit paleolitic important cu straturi preistorice.",
+                  "category": "natural",
+                  "coords": [
+                        70.132448,
+                        41.568852
+                  ]
+            },
+            {
+                  "name": "Imonkhan",
+                  "text": "Un loc pitoresc în parcul național, cunoscut pentru vederile sale largi asupra vârfurilor Munților Chatkal.",
+                  "category": "landmark",
+                  "coords": [
+                        70.225363,
+                        41.484033
+                  ]
+            },
+            {
+                  "name": "Sargardon",
+                  "text": "Ruinele unei așezări antice din zona protejată, situate în apropierea unei cascade montane pitorești.",
+                  "category": "historical",
+                  "coords": [
+                        70.247442,
+                        41.475554
+                  ]
+            },
+            {
+                  "name": "Abdak",
+                  "text": "O destinație populară în parcul național, înconjurată de natura sălbatică montană a Uzbekistanului.",
+                  "category": "landmark",
+                  "coords": [
+                        70.280037,
+                        41.461737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pulatkhan",
+                  "text": "A distinctive table mountain in the Chatkal Range with a vast high plateau surrounded by gorges.",
+                  "category": "natural",
+                  "coords": [
+                        70.171862,
+                        41.43381
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A prominent commemorative obelisk in the national park, often serving as a landmark for hikers in the Chatkal Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        70.154139,
+                        41.478699
+                  ]
+            },
+            {
+                  "name": "Obi-Rakhmat",
+                  "text": "Discovered in 1962, this mountain cave is a significant Paleolithic site containing prehistoric layers.",
+                  "category": "natural",
+                  "coords": [
+                        70.132448,
+                        41.568852
+                  ]
+            },
+            {
+                  "name": "Imankhan",
+                  "text": "A scenic spot in the national park, known for its wide mountain views over the Chatkal Range peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        70.225363,
+                        41.484033
+                  ]
+            },
+            {
+                  "name": "Sargardon",
+                  "text": "The ruins of an ancient settlement in the protected area, located near a scenic mountain waterfall.",
+                  "category": "historical",
+                  "coords": [
+                        70.247442,
+                        41.475554
+                  ]
+            },
+            {
+                  "name": "Abdak",
+                  "text": "A popular destination in the national park, surrounded by the wild high-mountain nature of Uzbekistan.",
+                  "category": "landmark",
+                  "coords": [
+                        70.280037,
+                        41.461737
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "UZ-TO",
     coords: [70.1983, 41.5205],
@@ -427,7 +2470,88 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "zaamin-national-park-nature-v2",
+    id: "zaamin-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ushchel'e Chartangi",
+                  "text": "Ein schmaler Kalkstein-Canyon mit steilen Felswänden in der Bergregion von Zaamin.",
+                  "category": "landmark",
+                  "coords": [
+                        68.414677,
+                        39.630324
+                  ]
+            },
+            {
+                  "name": "Zomin davlat qo‘riqxonasi",
+                  "text": "Dieses Reservat ist für seine uralten Wacholderwälder (Archa) an den Hängen des Turkestangebirges bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        68.31266,
+                        39.594475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ushchel'e Chartangi",
+                  "text": "Egy szűk mészkő-kanyon meredek sziklafalakkal Zaamin hegyvidéki régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        68.414677,
+                        39.630324
+                  ]
+            },
+            {
+                  "name": "Zomin davlat qo‘riqxonasi",
+                  "text": "Ez a rezervátum az ősi borókaerdőiről (arcsa) ismert a Turkesztáni-hegység lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        68.31266,
+                        39.594475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ushchel'e Chartangi",
+                  "text": "Un canon îngust de calcar cu pereți stâncoși abrupți în regiunea montană Zaamin.",
+                  "category": "landmark",
+                  "coords": [
+                        68.414677,
+                        39.630324
+                  ]
+            },
+            {
+                  "name": "Zomin davlat qo‘riqxonasi",
+                  "text": "Această rezervație este cunoscută pentru pădurile sale antice de ienupăr (archa) de pe versanții munților Turkestan.",
+                  "category": "natural",
+                  "coords": [
+                        68.31266,
+                        39.594475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chartangi canyon",
+                  "text": "A narrow limestone canyon with steep rock walls in the mountainous region of Zaamin.",
+                  "category": "landmark",
+                  "coords": [
+                        68.414677,
+                        39.630324
+                  ]
+            },
+            {
+                  "name": "Zaamin State Reserve",
+                  "text": "This reserve is famous for its ancient juniper (archa) forests on the slopes of the Turkestan Range.",
+                  "category": "natural",
+                  "coords": [
+                        68.31266,
+                        39.594475
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "UZ-JI",
     coords: [68.3241, 39.5847],
@@ -463,7 +2587,340 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "nuratau-kyzylkum-reserve-nature-v2",
+    id: "nuratau-kyzylkum-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dikie Barany Severtsova",
+                  "text": "Ein Aussichtspunkt im Nuratau-Gebirge zur Beobachtung der seltenen Sewertzow-Wildschafe.",
+                  "category": "natural",
+                  "coords": [
+                        66.771022,
+                        40.53191
+                  ]
+            },
+            {
+                  "name": "Krasivyi vid na gory i vsiu dolinu",
+                  "text": "Von diesem Aussichtspunkt bietet sich ein weiter Blick über die karge Berglandschaft des Nuratau-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        66.800065,
+                        40.518409
+                  ]
+            },
+            {
+                  "name": "Petroglify ( risunki zhivotnykh i liudei na skalakh)",
+                  "text": "Antike Felsritzungen im Nuratau-Reservat, die Jagdszenen und Tiere darstellen.",
+                  "category": "landmark",
+                  "coords": [
+                        66.799256,
+                        40.517171
+                  ]
+            },
+            {
+                  "name": "Petroglyph",
+                  "text": "Ein prähistorisches Petroglyph, das Zeugnis von der frühen Besiedlung der Kyzylkum-Region ablegt.",
+                  "category": "landmark",
+                  "coords": [
+                        66.770313,
+                        40.49549
+                  ]
+            },
+            {
+                  "name": "Eski qo'rg'on xarobalari",
+                  "text": "Ruinen einer alten Festungsanlage, die einst die Bergpässe von Nuratau sicherte.",
+                  "category": "historical",
+                  "coords": [
+                        66.804432,
+                        40.532362
+                  ]
+            },
+            {
+                  "name": "Eski qo'rg'on xarobalari",
+                  "text": "Die versteinerten Überreste des alten Bergdorfes Hoyat im Herzen des Nuratau-Gebirges.",
+                  "category": "historical",
+                  "coords": [
+                        66.781889,
+                        40.530902
+                  ]
+            },
+            {
+                  "name": "Nurota Davlat Qo’riqxonasi",
+                  "text": "Dieses Naturschutzgebiet im Nuratau-Gebirge bewahrt seltene Tierarten wie das Buchara-Wildschaf.",
+                  "category": "natural",
+                  "coords": [
+                        66.774408,
+                        40.521638
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Eine lokale Freitagsmoschee, die als spirituelles Zentrum für die Dorfbewohner im Nuratau-Gebirge dient.",
+                  "category": "landmark",
+                  "coords": [
+                        66.791705,
+                        40.520483
+                  ]
+            },
+            {
+                  "name": "Hazrati Imon ato Boboi eshon ziyoratgohi",
+                  "text": "Ein muslimischer Wallfahrtsort in der Bergregion, der einem lokalen Heiligen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        66.774053,
+                        40.502814
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dikie Barany Severtsova",
+                  "text": "Kilátópont a Nuratau-hegységben a ritka Szevercov-vadjuhok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        66.771022,
+                        40.53191
+                  ]
+            },
+            {
+                  "name": "Krasivyi vid na gory i vsiu dolinu",
+                  "text": "Erről a kilátóhelyről széles panoráma nyílik a Nuratau-hegység kopár vonulataira.",
+                  "category": "natural",
+                  "coords": [
+                        66.800065,
+                        40.518409
+                  ]
+            },
+            {
+                  "name": "Petroglify ( risunki zhivotnykh i liudei na skalakh)",
+                  "text": "Ősi sziklarajzok a Nuratau rezervátumban, amelyek vadászjeleneteket és állatokat ábrázolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        66.799256,
+                        40.517171
+                  ]
+            },
+            {
+                  "name": "Petroglyph",
+                  "text": "Egy őskori sziklarajz, amely a Kizil-kum régió korai betelepüléséről tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        66.770313,
+                        40.49549
+                  ]
+            },
+            {
+                  "name": "Eski qo'rg'on xarobalari",
+                  "text": "Egy régi erődítmény romjai, amely egykor a Nuratau-hegység hágóit védte.",
+                  "category": "historical",
+                  "coords": [
+                        66.804432,
+                        40.532362
+                  ]
+            },
+            {
+                  "name": "Eski qo'rg'on xarobalari",
+                  "text": "Hoyat régi hegyi falujának kőmaradványai a Nuratau-hegység szívében.",
+                  "category": "historical",
+                  "coords": [
+                        66.781889,
+                        40.530902
+                  ]
+            },
+            {
+                  "name": "Nurota Davlat Qo’riqxonasi",
+                  "text": "Ez a Nuratau-hegységben található természetvédelmi terület olyan ritka fajokat véd, mint a buharai vadjuh.",
+                  "category": "natural",
+                  "coords": [
+                        66.774408,
+                        40.521638
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Helyi pénteki mecset, amely a Nuratau-hegység lakói számára szolgál szellemi központként.",
+                  "category": "landmark",
+                  "coords": [
+                        66.791705,
+                        40.520483
+                  ]
+            },
+            {
+                  "name": "Hazrati Imon ato Boboi eshon ziyoratgohi",
+                  "text": "Muszlim zarándokhely a hegyvidéken, amelyet egy helyi szentnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        66.774053,
+                        40.502814
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dikie Barany Severtsova",
+                  "text": "Un punct de observație în munții Nuratau pentru vizualizarea oilor sălbatice rare de Severtzov.",
+                  "category": "natural",
+                  "coords": [
+                        66.771022,
+                        40.53191
+                  ]
+            },
+            {
+                  "name": "Krasivyi vid na gory i vsiu dolinu",
+                  "text": "De la acest punct de belvedere se deschide o vedere panoramică asupra munților Nuratau.",
+                  "category": "natural",
+                  "coords": [
+                        66.800065,
+                        40.518409
+                  ]
+            },
+            {
+                  "name": "Petroglify ( risunki zhivotnykh i liudei na skalakh)",
+                  "text": "Gravuri rupestre antice în rezervația Nuratau, care înfățișează scene de vânătoare și animale.",
+                  "category": "landmark",
+                  "coords": [
+                        66.799256,
+                        40.517171
+                  ]
+            },
+            {
+                  "name": "Petroglyph",
+                  "text": "O petroglifă preistorică ce atestă așezarea timpurie a regiunii Kyzylkum.",
+                  "category": "landmark",
+                  "coords": [
+                        66.770313,
+                        40.49549
+                  ]
+            },
+            {
+                  "name": "Eski qo'rg'on xarobalari",
+                  "text": "Ruinele unei vechi fortificații care asigura odinioară trecătorile montane din Nuratau.",
+                  "category": "historical",
+                  "coords": [
+                        66.804432,
+                        40.532362
+                  ]
+            },
+            {
+                  "name": "Eski qo'rg'on xarobalari",
+                  "text": "Rămășițele de piatră ale vechiului sat montan Hoyat, situat în inima munților Nuratau.",
+                  "category": "historical",
+                  "coords": [
+                        66.781889,
+                        40.530902
+                  ]
+            },
+            {
+                  "name": "Nurota Davlat Qo’riqxonasi",
+                  "text": "Această rezervație naturală din munții Nuratau protejează specii rare, cum ar fi oaia sălbatică de Buhara.",
+                  "category": "natural",
+                  "coords": [
+                        66.774408,
+                        40.521638
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "O moschee locală de vineri care servește drept centru spiritual pentru locuitorii din munții Nuratau.",
+                  "category": "landmark",
+                  "coords": [
+                        66.791705,
+                        40.520483
+                  ]
+            },
+            {
+                  "name": "Hazrati Imon ato Boboi eshon ziyoratgohi",
+                  "text": "Un loc de pelerinaj musulman din regiunea montană, dedicat unui sfânt local.",
+                  "category": "landmark",
+                  "coords": [
+                        66.774053,
+                        40.502814
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Severtzov argali mountain sheep enclosure",
+                  "text": "A viewpoint in the Nuratau mountains for observing the rare Severtzov argali mountain sheep.",
+                  "category": "natural",
+                  "coords": [
+                        66.771022,
+                        40.53191
+                  ]
+            },
+            {
+                  "name": "Beautiful view",
+                  "text": "This scenic overlook provides a wide view of the rugged Nuratau mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        66.800065,
+                        40.518409
+                  ]
+            },
+            {
+                  "name": "Petroglyphs",
+                  "text": "Ancient rock carvings in the Nuratau reserve depicting hunting scenes and animals.",
+                  "category": "landmark",
+                  "coords": [
+                        66.799256,
+                        40.517171
+                  ]
+            },
+            {
+                  "name": "Petroglyph",
+                  "text": "A prehistoric petroglyph evidence of early settlement in the Kyzylkum region.",
+                  "category": "landmark",
+                  "coords": [
+                        66.770313,
+                        40.49549
+                  ]
+            },
+            {
+                  "name": "Eski qo'rg'on xarobalari",
+                  "text": "Ruins of an ancient fortress that once guarded the mountain passes of Nuratau.",
+                  "category": "historical",
+                  "coords": [
+                        66.804432,
+                        40.532362
+                  ]
+            },
+            {
+                  "name": "Hoyat Ruins",
+                  "text": "The stone remains of the old mountain village of Hoyat in the heart of the Nuratau range.",
+                  "category": "historical",
+                  "coords": [
+                        66.781889,
+                        40.530902
+                  ]
+            },
+            {
+                  "name": "\"Nurata\" Nature Preserve",
+                  "text": "This nature preserve in the Nuratau mountains protects rare species like the Bukhara wild sheep.",
+                  "category": "natural",
+                  "coords": [
+                        66.774408,
+                        40.521638
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "A local Friday mosque serving as a spiritual center for villagers in the Nuratau mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        66.791705,
+                        40.520483
+                  ]
+            },
+            {
+                  "name": "Hazrati Imon ato Boboi eshon ziyoratgohi",
+                  "text": "A Muslim pilgrimage site in the mountain region dedicated to a local holy figure.",
+                  "category": "landmark",
+                  "coords": [
+                        66.774053,
+                        40.502814
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "UZ-JI",
     coords: [66.8647, 40.5283],
@@ -571,7 +3028,196 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "badai-tugai-reserve-nature-v2",
+    id: "badai-tugai-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sholi xoroz",
+                  "text": "Diese traditionelle Windmühle befindet sich in der Nähe des Naturschutzgebiets Badai-Tugai.",
+                  "category": "landmark",
+                  "coords": [
+                        60.385656,
+                        41.937681
+                  ]
+            },
+            {
+                  "name": "Baday-toǵay qorıqxanası",
+                  "text": "Dieses 1971 gegründete Reservat schützt die wertvollen Tugai-Wälder am Ufer des Amudarja.",
+                  "category": "natural",
+                  "coords": [
+                        60.369162,
+                        41.999972
+                  ]
+            },
+            {
+                  "name": "Tómengi Ámiwdárya mámleketlik biosfera rezervatı",
+                  "text": "Dieses UNESCO-Biosphärenreservat bewahrt das Ökosystem der Flussauen und beherbergt den bedrohten Bucharahirsch.",
+                  "category": "natural",
+                  "coords": [
+                        60.345746,
+                        42.00968
+                  ]
+            },
+            {
+                  "name": "Janpik qala qorg'ani",
+                  "text": "Die Ruinen dieser antiken Lehmziegelfestung thronen auf einer Klippe über dem Fluss Amudarja.",
+                  "category": "landmark",
+                  "coords": [
+                        60.325983,
+                        42.026778
+                  ]
+            },
+            {
+                  "name": "Do'simbiy masjidi",
+                  "text": "Eine lokale Moschee, die der muslimischen Gemeinde in der Nähe des Naturschutzgebiets dient.",
+                  "category": "landmark",
+                  "coords": [
+                        60.29733,
+                        41.926086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sholi xoroz",
+                  "text": "Ez a hagyományos szélmalom a Badai-Tugai természetvédelmi terület közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        60.385656,
+                        41.937681
+                  ]
+            },
+            {
+                  "name": "Baday-toǵay qorıqxanası",
+                  "text": "Ez az 1971-ben alapított rezervátum az Amu-darja partján található értékes tugaj-erdőket védi.",
+                  "category": "natural",
+                  "coords": [
+                        60.369162,
+                        41.999972
+                  ]
+            },
+            {
+                  "name": "Tómengi Ámiwdárya mámleketlik biosfera rezervatı",
+                  "text": "Ez az UNESCO bioszféra-rezervátum megőrzi az ártéri ökoszisztémát, és otthont ad a veszélyeztetett buharai szarvasnak.",
+                  "category": "natural",
+                  "coords": [
+                        60.345746,
+                        42.00968
+                  ]
+            },
+            {
+                  "name": "Janpik qala qorg'ani",
+                  "text": "Ennek az ősi vályogtégla erődnek a romjai egy sziklán magasodnak az Amu-darja folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        60.325983,
+                        42.026778
+                  ]
+            },
+            {
+                  "name": "Do'simbiy masjidi",
+                  "text": "Egy helyi mecset, amely a természetvédelmi terület közelében élő muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        60.29733,
+                        41.926086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sholi xoroz",
+                  "text": "Această moară de vânt tradițională este situată în apropierea rezervației naturale Badai-Tugai.",
+                  "category": "landmark",
+                  "coords": [
+                        60.385656,
+                        41.937681
+                  ]
+            },
+            {
+                  "name": "Baday-toǵay qorıqxanası",
+                  "text": "Această rezervație fondată în 1971 protejează pădurile valoroase de tugai de pe malul râului Amudarja.",
+                  "category": "natural",
+                  "coords": [
+                        60.369162,
+                        41.999972
+                  ]
+            },
+            {
+                  "name": "Tómengi Ámiwdárya mámleketlik biosfera rezervatı",
+                  "text": "Această rezervație a biosferei UNESCO conservă ecosistemul luncii râului și găzduiește cerbul de Buhara, aflat în pericol.",
+                  "category": "natural",
+                  "coords": [
+                        60.345746,
+                        42.00968
+                  ]
+            },
+            {
+                  "name": "Janpik qala qorg'ani",
+                  "text": "Ruinele acestei antice cetăți din cărămidă de lut sunt cocoțate pe o stâncă deasupra râului Amudarja.",
+                  "category": "landmark",
+                  "coords": [
+                        60.325983,
+                        42.026778
+                  ]
+            },
+            {
+                  "name": "Do'simbiy masjidi",
+                  "text": "O moschee locală care deservește comunitatea musulmană din apropierea rezervației naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        60.29733,
+                        41.926086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sholi xoroz",
+                  "text": "This traditional windmill is located near the Badai-Tugai nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        60.385656,
+                        41.937681
+                  ]
+            },
+            {
+                  "name": "\"Baday-Tugay\" Reserve",
+                  "text": "Established in 1971, this reserve protects the precious tugai forests along the Amu Darya river.",
+                  "category": "natural",
+                  "coords": [
+                        60.369162,
+                        41.999972
+                  ]
+            },
+            {
+                  "name": "Lower Amudarya State Biosphere Reserve",
+                  "text": "This UNESCO biosphere reserve preserves the river floodplain ecosystem and is home to the endangered Bukhara deer.",
+                  "category": "natural",
+                  "coords": [
+                        60.345746,
+                        42.00968
+                  ]
+            },
+            {
+                  "name": "Fortress Dzhampyk Kala",
+                  "text": "The ruins of this ancient mud-brick fortress are perched on a cliff overlooking the Amu Darya river.",
+                  "category": "landmark",
+                  "coords": [
+                        60.325983,
+                        42.026778
+                  ]
+            },
+            {
+                  "name": "Do'simbiy masjidi",
+                  "text": "A local mosque serving the Muslim community near the nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        60.29733,
+                        41.926086
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "UZ-QR",
     coords: [60.3347, 41.9723],
@@ -607,7 +3253,124 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "zeravshan-reserve-nature-v2",
+    id: "zeravshan-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kafirkala",
+                  "text": "Die antiken Ruinen von Kafirkala zeugen von einer alten sogdischen Festungssiedlung nahe dem Serafschan-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        67.021498,
+                        39.571966
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Diese islamische Freitagsmoschee dient als zentraler Ort für das gemeinschaftliche Gebet in der Serafschan-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        67.180831,
+                        39.531044
+                  ]
+            },
+            {
+                  "name": "Kattatayloq jom'e masjid",
+                  "text": "Die Hauptfreitagsmoschee der Siedlung Katta Tayloq, die der lokalen muslimischen Gemeinschaft mit ihrem geräumigen Gebetssaal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        67.09363,
+                        39.599424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kafirkala",
+                  "text": "Kafirkala ősi romjai egy egykori szogd erődítmény maradványai a Zarafshan-völgy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        67.021498,
+                        39.571966
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Ez az iszlám pénteki mecset a közösségi imádkozás központi helyszíneként szolgál a Zarafshan-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        67.180831,
+                        39.531044
+                  ]
+            },
+            {
+                  "name": "Kattatayloq jom'e masjid",
+                  "text": "A Katta Tayloq település fő pénteki mecsete, amely tágas imatermével szolgálja a helyi muszlim közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        67.09363,
+                        39.599424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kafirkala",
+                  "text": "Ruinele antice din Kafirkala reprezintă rămășițele unei foste așezări fortificate sogdiene din apropierea văii Zeravșan.",
+                  "category": "historical",
+                  "coords": [
+                        67.021498,
+                        39.571966
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "Această moschee islamică de vineri servește ca loc central pentru rugăciunile congregaționale din regiunea Zeravșan.",
+                  "category": "landmark",
+                  "coords": [
+                        67.180831,
+                        39.531044
+                  ]
+            },
+            {
+                  "name": "Kattatayloq jom'e masjid",
+                  "text": "Principala moschee de vineri a așezării Katta Tayloq, servind comunitatea musulmană locală cu sala sa spațioasă de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        67.09363,
+                        39.599424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kafirkala",
+                  "text": "The ancient ruins of Kafirkala belong to a former Sogdian fortress settlement near the Zeravshan valley.",
+                  "category": "historical",
+                  "coords": [
+                        67.021498,
+                        39.571966
+                  ]
+            },
+            {
+                  "name": "jom'e masjid",
+                  "text": "This Islamic Friday mosque serves as a central place for congregational prayer in the Zeravshan region.",
+                  "category": "landmark",
+                  "coords": [
+                        67.180831,
+                        39.531044
+                  ]
+            },
+            {
+                  "name": "Kattatayloq jom'e masjid",
+                  "text": "The main Friday mosque of the Katta Tayloq settlement, serving the local Muslim community with its spacious prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        67.09363,
+                        39.599424
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "UZ-SA",
     coords: [67.0982, 39.5638],
@@ -643,7 +3406,52 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     },
   },
   {
-    id: "kitab-reserve-nature-v2",
+    id: "kitab-reserve-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "jom'e masjid",
+                  "text": "Eine Freitagsmoschee, die als islamisches Gebetszentrum nahe dem staatlichen Naturreservat Kitab dient.",
+                  "category": "landmark",
+                  "coords": [
+                        67.245543,
+                        39.193156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "jom'e masjid",
+                  "text": "Egy pénteki mecset, amely az iszlám közösség imaközpontjaként szolgál a Kitab Állami Természetvédelmi Terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        67.245543,
+                        39.193156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "jom'e masjid",
+                  "text": "O moschee de vineri care servește drept centru de rugăciune islamic în apropierea Rezervației Naturale de Stat Kitab.",
+                  "category": "landmark",
+                  "coords": [
+                        67.245543,
+                        39.193156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "jom'e masjid",
+                  "text": "A Jome Mosque serving as a Friday prayer center for the local Islamic community near the Kitab State Nature Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        67.245543,
+                        39.193156
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UZ-QA",
     coords: [67.1475, 39.1972],

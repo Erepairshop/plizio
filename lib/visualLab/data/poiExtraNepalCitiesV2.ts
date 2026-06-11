@@ -3,7 +3,448 @@ import type { POI } from "./poi";
 
 export const poiExtraNepalCitiesV2: POI[] = [
   {
-    id: "ghorahi-cities-v2",
+    id: "ghorahi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mandir",
+                  "text": "Ein lokaler hinduistischer Schrein, der einen ruhigen Raum für tägliche Gebete in Ghorahi bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        82.452728,
+                        28.03641
+                  ]
+            },
+            {
+                  "name": "१६ नम्बर वडा मन्दिर",
+                  "text": "Ein kleiner hinduistischer Nachbarschaftstempel, der den Bewohnern des Bezirks 16 in Ghorahi dient.",
+                  "category": "landmark",
+                  "coords": [
+                        82.450935,
+                        28.032314
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "Ein Hindutempel in Ghorahi, der dem Gott Shiva geweiht ist und einen traditionellen Lingam-Schrein beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.467626,
+                        28.026535
+                  ]
+            },
+            {
+                  "name": "राधा कृष्ण मन्दिर",
+                  "text": "Ein Radha und Krishna geweihter Hindutempel, der mit bunten Motiven im Zentrum von Ghorahi verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.473643,
+                        28.029759
+                  ]
+            },
+            {
+                  "name": "Shiva Parbati Mandir",
+                  "text": "Ein hinduistischer Tempelkomplex in Ghorahi, der den Gottheiten Shiva und Parbati gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.484804,
+                        28.052051
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Ein klassisches hinduistisches Heiligtum in Ghorahi, das sich auf die Verehrung von Shiva konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        82.488615,
+                        28.042819
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "Ein Hindutempel in Ghorahi, in dem Einheimische dem elefantenköpfigen Gott Ganesha ihre Gebete darbringen.",
+                  "category": "landmark",
+                  "coords": [
+                        82.489874,
+                        28.041902
+                  ]
+            },
+            {
+                  "name": "श्री गोरक्ष पत्र देवता सिद्ध रत्ननाथ मठ",
+                  "text": "Eine bedeutende hinduistische klösterliche Einrichtung in Ghorahi, die Siddha Ratnanath gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.496719,
+                        28.022856
+                  ]
+            },
+            {
+                  "name": "Temp",
+                  "text": "Eine lokale hinduistische religiöse Struktur, die von der Gemeinde in Ghorahi für tägliche Rituale genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        82.486986,
+                        28.037624
+                  ]
+            },
+            {
+                  "name": "अम्बिकेश्‍वरी मन्दिर",
+                  "text": "Eine verehrte hinduistische Stätte in Ghorahi, die der Göttin Ambikeshwori gewidmet ist und Pilger aus der Region anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        82.500865,
+                        28.042911
+                  ]
+            },
+            {
+                  "name": "Balidan A.G. Church",
+                  "text": "Ein christliches Kirchengebäude, das der lokalen Gemeinde in Ghorahi mit wöchentlichen Gottesdiensten dient.",
+                  "category": "religious",
+                  "coords": [
+                        82.478786,
+                        28.039858
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Ein lebendiger Hindutempel, in dessen Mittelpunkt ein Schrein für Lord Ganesh in Ghorahi steht.",
+                  "category": "landmark",
+                  "coords": [
+                        82.479452,
+                        28.034247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mandir",
+                  "text": "Helyi hindu szentély, amely csendes teret biztosít a napi imákhoz Ghorahiban.",
+                  "category": "landmark",
+                  "coords": [
+                        82.452728,
+                        28.03641
+                  ]
+            },
+            {
+                  "name": "१६ नम्बर वडा मन्दिर",
+                  "text": "Kis hindu szomszédsági templom, amely Ghorahi 16-os kerületének lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        82.450935,
+                        28.032314
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "Shiva istennek szentelt hindu templom Ghorahiban, amely egy hagyományos lingam szentélyt foglal magában.",
+                  "category": "landmark",
+                  "coords": [
+                        82.467626,
+                        28.026535
+                  ]
+            },
+            {
+                  "name": "राधा कृष्ण मन्दिर",
+                  "text": "Rádhának és Krisnának szentelt hindu templom, amelyet színes motívumok díszítenek Ghorahi központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        82.473643,
+                        28.029759
+                  ]
+            },
+            {
+                  "name": "Shiva Parbati Mandir",
+                  "text": "Shiva és Parbati istenségeknek szentelt hindu templomkomplexum Ghorahiban.",
+                  "category": "landmark",
+                  "coords": [
+                        82.484804,
+                        28.052051
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Klasszikus hindu szentély Ghorahiban, amely Shiva imádatára összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        82.488615,
+                        28.042819
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "Hindu templom Ghorahiban, ahol a helyiek az elefántfejű Ganesha istenhez imádkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        82.489874,
+                        28.041902
+                  ]
+            },
+            {
+                  "name": "श्री गोरक्ष पत्र देवता सिद्ध रत्ननाथ मठ",
+                  "text": "Jelentős hindu kolostori intézmény Ghorahiban, amelyet Sziddha Ratnanáthnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.496719,
+                        28.022856
+                  ]
+            },
+            {
+                  "name": "Temp",
+                  "text": "Helyi hindu vallási épület, amelyet a ghorahii közösség napi rituálékhoz használ.",
+                  "category": "landmark",
+                  "coords": [
+                        82.486986,
+                        28.037624
+                  ]
+            },
+            {
+                  "name": "अम्बिकेश्‍वरी मन्दिर",
+                  "text": "Ambikeshwori istennőnek szentelt, tisztelt hindu hely Ghorahiban, amely a régióból vonzza a zarándokokat.",
+                  "category": "landmark",
+                  "coords": [
+                        82.500865,
+                        28.042911
+                  ]
+            },
+            {
+                  "name": "Balidan A.G. Church",
+                  "text": "Keresztény templomépület, amely heti istentiszteletekkel szolgálja a helyi gyülekezetet Ghorahiban.",
+                  "category": "religious",
+                  "coords": [
+                        82.478786,
+                        28.039858
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Nyüzsgő hindu templom, amelynek középpontjában Ganesha isten szentélye áll Ghorahiban.",
+                  "category": "landmark",
+                  "coords": [
+                        82.479452,
+                        28.034247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mandir",
+                  "text": "Un altar hindus local care oferă un spațiu liniștit pentru rugăciunile zilnice în Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.452728,
+                        28.03641
+                  ]
+            },
+            {
+                  "name": "१६ नम्बर वडा मन्दिर",
+                  "text": "Un mic templu hindus de cartier care deservește locuitorii sectorului 16 din Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.450935,
+                        28.032314
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "Un templu hindus în Ghorahi dedicat zeului Shiva, care găzduiește un altar tradițional lingam.",
+                  "category": "landmark",
+                  "coords": [
+                        82.467626,
+                        28.026535
+                  ]
+            },
+            {
+                  "name": "राधा कृष्ण मन्दिर",
+                  "text": "Un templu hindus dedicat lui Radha și Krishna, decorat cu motive colorate în Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.473643,
+                        28.029759
+                  ]
+            },
+            {
+                  "name": "Shiva Parbati Mandir",
+                  "text": "Un complex de temple hinduse în Ghorahi dedicat zeităților Shiva și Parbati.",
+                  "category": "landmark",
+                  "coords": [
+                        82.484804,
+                        28.052051
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Un sanctuar hindus clasic în Ghorahi, axat pe venerarea lui Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        82.488615,
+                        28.042819
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "Un templu hindus în Ghorahi unde localnicii se roagă zeului cu cap de elefant, Ganesha.",
+                  "category": "landmark",
+                  "coords": [
+                        82.489874,
+                        28.041902
+                  ]
+            },
+            {
+                  "name": "श्री गोरक्ष पत्र देवता सिद्ध रत्ननाथ मठ",
+                  "text": "O importantă instituție monahală hindusă în Ghorahi, dedicată lui Siddha Ratnanath.",
+                  "category": "landmark",
+                  "coords": [
+                        82.496719,
+                        28.022856
+                  ]
+            },
+            {
+                  "name": "Temp",
+                  "text": "O structură religioasă hindusă locală folosită de comunitatea din Ghorahi pentru ritualuri zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        82.486986,
+                        28.037624
+                  ]
+            },
+            {
+                  "name": "अम्बिकेश्‍वरी मन्दिर",
+                  "text": "Un sit hindus venerat în Ghorahi, dedicat zeiței Ambikeshwori, atrăgând pelerini din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        82.500865,
+                        28.042911
+                  ]
+            },
+            {
+                  "name": "Balidan A.G. Church",
+                  "text": "O clădire a bisericii creștine care deservește congregația locală cu slujbe săptămânale în Ghorahi.",
+                  "category": "religious",
+                  "coords": [
+                        82.478786,
+                        28.039858
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Un templu hindus vibrant, centrat în jurul unui altar pentru Lordul Ganesh în Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.479452,
+                        28.034247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mandir",
+                  "text": "A local Hindu shrine providing a quiet space for daily prayers in Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.452728,
+                        28.03641
+                  ]
+            },
+            {
+                  "name": "16 number ward mandir",
+                  "text": "A small Hindu neighborhood temple serving the residents of ward 16 in Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.450935,
+                        28.032314
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "A Hindu temple in Ghorahi dedicated to Lord Shiva, featuring a traditional lingam shrine.",
+                  "category": "landmark",
+                  "coords": [
+                        82.467626,
+                        28.026535
+                  ]
+            },
+            {
+                  "name": "राधा कृष्ण मन्दिर",
+                  "text": "A Hindu temple dedicated to Radha and Krishna, decorated with colorful motifs in Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.473643,
+                        28.029759
+                  ]
+            },
+            {
+                  "name": "Shiva Parbati Mandir",
+                  "text": "A Hindu shrine complex honoring deities Shiva and Parbati within the city of Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.484804,
+                        28.052051
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "A classic Hindu sanctuary centered around the worship of Shiva in Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.488615,
+                        28.042819
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "A Hindu temple where locals offer prayers to the elephant-headed god Ganesh in Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.489874,
+                        28.041902
+                  ]
+            },
+            {
+                  "name": "Shree Gorakhsya Patra Debata Siddha Ratnanath Math",
+                  "text": "A significant Hindu monastic institution dedicated to Siddha Ratnanath in Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.496719,
+                        28.022856
+                  ]
+            },
+            {
+                  "name": "Temp",
+                  "text": "A local Hindu religious structure utilized for daily rituals by the Ghorahi community.",
+                  "category": "landmark",
+                  "coords": [
+                        82.486986,
+                        28.037624
+                  ]
+            },
+            {
+                  "name": "Ambikeshwori Temple",
+                  "text": "A revered Hindu site in Ghorahi dedicated to Goddess Ambikeshwori, attracting regional pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        82.500865,
+                        28.042911
+                  ]
+            },
+            {
+                  "name": "Balidan A.G. Church",
+                  "text": "A Christian church building serving the local congregation with weekly services in Ghorahi.",
+                  "category": "religious",
+                  "coords": [
+                        82.478786,
+                        28.039858
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "A vibrant Hindu temple centered around a shrine for Lord Ganesh in Ghorahi.",
+                  "category": "landmark",
+                  "coords": [
+                        82.479452,
+                        28.034247
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P5",
     coords: [82.48, 28.03],
@@ -54,7 +495,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Jestha Nagarik Bishram Esthal",
-                  "text": "Freizeitpark in Budhanilkantha.",
+                  "text": "Seniorenruheplatz in Budhanilkantha.",
                   "category": "family",
                   "coords": [
                         85.366308,
@@ -63,7 +504,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Budhanikantha entry gate",
-                  "text": "Eingangstor zur Stätte Budhanilkantha.",
+                  "text": "Eingangstor zum Budhanilkantha-Tempel in Budhanilkantha.",
                   "category": "landmark",
                   "coords": [
                         85.362218,
@@ -83,7 +524,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Jestha Nagarik Bishram Esthal",
-                  "text": "Vidámpark Budhanilkanthában.",
+                  "text": "Idősek pihenőhelye Budhanilkanthában.",
                   "category": "family",
                   "coords": [
                         85.366308,
@@ -92,7 +533,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Budhanikantha entry gate",
-                  "text": "A Budhanilkantha szentély bejárati kapuja.",
+                  "text": "A Budhanilkantha-templom bejárati kapuja Budhanilkanthában.",
                   "category": "landmark",
                   "coords": [
                         85.362218,
@@ -112,7 +553,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Jestha Nagarik Bishram Esthal",
-                  "text": "Parc de distracții în Budhanilkantha.",
+                  "text": "Loc de odihnă pentru seniori în Budhanilkantha.",
                   "category": "family",
                   "coords": [
                         85.366308,
@@ -121,7 +562,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Budhanikantha entry gate",
-                  "text": "Poarta de intrare la situl Budhanilkantha.",
+                  "text": "Poarta de intrare a templului Budhanilkantha în Budhanilkantha.",
                   "category": "landmark",
                   "coords": [
                         85.362218,
@@ -141,7 +582,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Jestha Nagarik Bishram Esthal",
-                  "text": "Theme park in Budhanilkantha.",
+                  "text": "Senior citizens' resting place in Budhanilkantha.",
                   "category": "family",
                   "coords": [
                         85.366308,
@@ -150,7 +591,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Budhanikantha entry gate",
-                  "text": "Entry gate to the Budhanilkantha site.",
+                  "text": "Entry gate of the Budhanilkantha Temple in Budhanilkantha.",
                   "category": "landmark",
                   "coords": [
                         85.362218,
@@ -218,7 +659,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "रानीबन",
-                  "text": "रानीबन bietet einen malerischen Aussichtspunkt in Tarakeshwar.",
+                  "text": "Waldgebiet रानीबन in Tarakeshwar.",
                   "category": "natural",
                   "coords": [
                         85.26688,
@@ -227,7 +668,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Manamaiju Ajima Mai Temple ist eine religiöse Attraktion in Tarakeshwar.",
+                  "text": "Manamaiju-Ajima-Mai-Tempel in Tarakeshwar.",
                   "category": "landmark",
                   "coords": [
                         85.31214,
@@ -236,7 +677,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Decoration and Fine Art Gallery",
-                  "text": "Decoration and Fine Art Gallery ist eine Kunstgalerie in Tarakeshwar.",
+                  "text": "Galerie für Dekoration und Bildende Kunst in Tarakeshwar.",
                   "category": "museum",
                   "coords": [
                         85.315746,
@@ -247,7 +688,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "रानीबन",
-                  "text": "A रानीबन egy festői kilátó Tarakeshwar városában.",
+                  "text": "रानीबan erdőterület Tarakeshurban.",
                   "category": "natural",
                   "coords": [
                         85.26688,
@@ -256,7 +697,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Manamaiju Ajima Mai Temple",
-                  "text": "A Manamaiju Ajima Mai Temple egy vallási látványosság Tarakeshwar városában.",
+                  "text": "Manamaiju Ajima Mai templom Tarakeshurban.",
                   "category": "landmark",
                   "coords": [
                         85.31214,
@@ -265,7 +706,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Decoration and Fine Art Gallery",
-                  "text": "A Decoration and Fine Art Gallery egy művészeti galéria Tarakeshwar városában.",
+                  "text": "Díszítő- és Képzőművészeti Galéria Tarakeshurban.",
                   "category": "museum",
                   "coords": [
                         85.315746,
@@ -276,7 +717,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "रानीबन",
-                  "text": "रानीबन oferă un punct de belvedere pitoresc situat în Tarakeshwar.",
+                  "text": "Zona forestieră रानीबन din Tarakeshwar.",
                   "category": "natural",
                   "coords": [
                         85.26688,
@@ -285,7 +726,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Manamaiju Ajima Mai Temple este o atracție religioasă situată în Tarakeshwar.",
+                  "text": "Templul Manamaiju Ajima Mai din Tarakeshwar.",
                   "category": "landmark",
                   "coords": [
                         85.31214,
@@ -294,7 +735,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Decoration and Fine Art Gallery",
-                  "text": "Decoration and Fine Art Gallery este o galerie de artă situată în Tarakeshwar.",
+                  "text": "Galerie de Decorație și Artă Fină în Tarakeshwar.",
                   "category": "museum",
                   "coords": [
                         85.315746,
@@ -305,7 +746,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "रानीबन",
-                  "text": "रानीबन offers a scenic viewpoint located in Tarakeshwar.",
+                  "text": "Raniban forest area in Tarakeshwar.",
                   "category": "natural",
                   "coords": [
                         85.26688,
@@ -314,7 +755,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Manamaiju Ajima Mai Temple is a religious attraction situated in Tarakeshwar.",
+                  "text": "Manamaiju Ajima Mai Temple in Tarakeshwar.",
                   "category": "landmark",
                   "coords": [
                         85.31214,
@@ -323,7 +764,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Decoration and Fine Art Gallery",
-                  "text": "Decoration and Fine Art Gallery is an art gallery located in Tarakeshwar.",
+                  "text": "Decoration and Fine Art Gallery in Tarakeshwar.",
                   "category": "museum",
                   "coords": [
                         85.315746,
@@ -378,7 +819,304 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/tarakeshwar-cities-v2.webp"},
   {
-    id: "tilottama-cities-v2",
+    id: "tilottama-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "तिलोत्तमा नगरपालिका कार्यालय",
+                  "text": "Das Verwaltungszentrum der schnell wachsenden Stadt Tilottama im Distrikt Rupandehi, ein wichtiger Knotenpunkt für lokale Regierungsdienste.",
+                  "category": "historical",
+                  "coords": [
+                        83.463171,
+                        27.620951
+                  ]
+            },
+            {
+                  "name": "Durga mandir",
+                  "text": "Ein lokaler Hindu-Tempel in Tilottama, der der Göttin Durga gewidmet ist und einen Gemeinschaftsplatz für religiöse Versammlungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        83.474032,
+                        27.601342
+                  ]
+            },
+            {
+                  "name": "Pandey Kulpuja Mandir",
+                  "text": "Ein Kulpuja-Tempel in Tilottama, der für Ahnenverehrung genutzt wird und tief in den Familientraditionen des Pandey-Clans verwurzelt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        83.475248,
+                        27.601995
+                  ]
+            },
+            {
+                  "name": "Pangeni Kulani Mandir",
+                  "text": "Ein heiliger Schrein in Tilottama, der den Vorfahren der Pangeni-Familie gewidmet ist und bei lokalen Zeremonien eine Rolle spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        83.476355,
+                        27.598238
+                  ]
+            },
+            {
+                  "name": "शिवालय मन्दिर",
+                  "text": "Ein Hindu-Tempel, der Lord Shiva gewidmet ist und einen ruhigen Garten für Gebete in der Region Tilottama bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        83.468779,
+                        27.641042
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "Ein Ram-Janaki-Tempel in Tilottama, der die göttliche Verbindung von Rama und Sita mit traditionellen Schnitzereien feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        83.497496,
+                        27.628409
+                  ]
+            },
+            {
+                  "name": "kandel general store",
+                  "text": "Ein lokales Gemischtwarengeschäft in Tilottama, das eine breite Palette an lebensnotwendigen Haushaltswaren und traditionellen nepalesischen Snacks anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        83.472997,
+                        27.601163
+                  ]
+            },
+            {
+                  "name": "Patanjali Store",
+                  "text": "Ein Fachmarkt in Tilottama, der ayurvedische Gesundheitsprodukte und natürliche Kräuterheilmittel der Marke Patanjali anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        83.474239,
+                        27.600279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "तिलोत्तमा नगरपालिका कार्यालय",
+                  "text": "Rupandehi körzet gyorsan növekvő Tilottama városának adminisztratív központja, a helyi kormányzati szolgáltatások fontos csomópontja.",
+                  "category": "historical",
+                  "coords": [
+                        83.463171,
+                        27.620951
+                  ]
+            },
+            {
+                  "name": "Durga mandir",
+                  "text": "Helyi hindu templom Tilottamában, amelyet Durga istennőnek szenteltek, és közösségi teret biztosít a vallási összejövetelekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        83.474032,
+                        27.601342
+                  ]
+            },
+            {
+                  "name": "Pandey Kulpuja Mandir",
+                  "text": "Kulpuja-templom Tilottamában, amelyet ősök tiszteletére használnak, és mélyen gyökerezik a Pandey-klán családi hagyományaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.475248,
+                        27.601995
+                  ]
+            },
+            {
+                  "name": "Pangeni Kulani Mandir",
+                  "text": "Szent szentély Tilottamában, amelyet a Pangeni család őseinek szenteltek, és szerepet játszik a helyi ceremóniákban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.476355,
+                        27.598238
+                  ]
+            },
+            {
+                  "name": "शिवालय मन्दिर",
+                  "text": "Lord Shivának szentelt hindu templom, amely nyugodt kerttel rendelkezik az imádságokhoz Tilottama régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        83.468779,
+                        27.641042
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "Ram Janaki templom Tilottamában, amely Ráma és Szíta isteni kapcsolatát ünnepli hagyományos faragványokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        83.497496,
+                        27.628409
+                  ]
+            },
+            {
+                  "name": "kandel general store",
+                  "text": "Helyi vegyesbolt Tilottamában, amely alapvető háztartási cikkek széles választékát és hagyományos nepáli rágcsálnivalókat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        83.472997,
+                        27.601163
+                  ]
+            },
+            {
+                  "name": "Patanjali Store",
+                  "text": "Speciális piac Tilottamában, amely Patanjali márkájú ájurvédikus egészségügyi termékeket és természetes gyógynövénykészítményeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        83.474239,
+                        27.600279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "तिलोत्तमा नगरपालिका कार्यालय",
+                  "text": "Centrul administrativ al orașului Tilottama, aflat în plină dezvoltare în districtul Rupandehi, un hub important pentru serviciile guvernamentale locale.",
+                  "category": "historical",
+                  "coords": [
+                        83.463171,
+                        27.620951
+                  ]
+            },
+            {
+                  "name": "Durga mandir",
+                  "text": "Un templu hindu local în Tilottama dedicat zeiței Durga, oferind un spațiu comunitar pentru adunările religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        83.474032,
+                        27.601342
+                  ]
+            },
+            {
+                  "name": "Pandey Kulpuja Mandir",
+                  "text": "Un templu Kulpuja în Tilottama, folosit pentru venerarea strămoșilor și adânc înrădăcinat în tradițiile familiei clanului Pandey.",
+                  "category": "landmark",
+                  "coords": [
+                        83.475248,
+                        27.601995
+                  ]
+            },
+            {
+                  "name": "Pangeni Kulani Mandir",
+                  "text": "Un sanctuar sacru în Tilottama dedicat strămoșilor familiei Pangeni, jucând un rol în ceremoniile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        83.476355,
+                        27.598238
+                  ]
+            },
+            {
+                  "name": "शिवालय मन्दिर",
+                  "text": "Un templu hindu dedicat Lordului Shiva, oferind o grădină liniștită pentru rugăciune în regiunea Tilottama.",
+                  "category": "landmark",
+                  "coords": [
+                        83.468779,
+                        27.641042
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "Un templu Ram Janaki în Tilottama, celebrând uniunea divină dintre Rama și Sita cu sculpturi tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        83.497496,
+                        27.628409
+                  ]
+            },
+            {
+                  "name": "kandel general store",
+                  "text": "Un magazin general local în Tilottama care oferă o gamă largă de provizii esențiale pentru casă și gustări tradiționale nepaleze.",
+                  "category": "cultural",
+                  "coords": [
+                        83.472997,
+                        27.601163
+                  ]
+            },
+            {
+                  "name": "Patanjali Store",
+                  "text": "O piață specializată în Tilottama care oferă produse de sănătate ayurvedice și remedii naturale pe bază de plante de la marca Patanjali.",
+                  "category": "cultural",
+                  "coords": [
+                        83.474239,
+                        27.600279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tilottama Municipality Office",
+                  "text": "The administrative center of the fast-growing Tilottama city in Rupandehi district, a key hub for local government services.",
+                  "category": "historical",
+                  "coords": [
+                        83.463171,
+                        27.620951
+                  ]
+            },
+            {
+                  "name": "Durga mandir",
+                  "text": "A local Hindu temple in Tilottama dedicated to Goddess Durga, featuring a community space for religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        83.474032,
+                        27.601342
+                  ]
+            },
+            {
+                  "name": "Pandey Kulpuja Mandir",
+                  "text": "A Kulpuja temple in Tilottama used for ancestral worship, deeply rooted in the family traditions of the Pandey clan.",
+                  "category": "landmark",
+                  "coords": [
+                        83.475248,
+                        27.601995
+                  ]
+            },
+            {
+                  "name": "Pangeni Kulani Mandir",
+                  "text": "A sacred shrine in Tilottama dedicated to the ancestors of the Pangeni family, playing a role in local ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        83.476355,
+                        27.598238
+                  ]
+            },
+            {
+                  "name": "शिवालय मन्दिर",
+                  "text": "A Hindu temple dedicated to Lord Shiva, featuring a peaceful garden for prayer in the Tilottama region.",
+                  "category": "landmark",
+                  "coords": [
+                        83.468779,
+                        27.641042
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "A Ram Janaki temple in Tilottama celebrating the divine union of Rama and Sita with traditional carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        83.497496,
+                        27.628409
+                  ]
+            },
+            {
+                  "name": "kandel general store",
+                  "text": "A local general store in Tilottama providing a wide range of essential household supplies and traditional Nepalese snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        83.472997,
+                        27.601163
+                  ]
+            },
+            {
+                  "name": "Patanjali Store",
+                  "text": "A specialty market in Tilottama offering Ayurvedic health products and natural herbal remedies from the Patanjali brand.",
+                  "category": "cultural",
+                  "coords": [
+                        83.474239,
+                        27.600279
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P5",
     coords: [83.48, 27.62],
@@ -431,7 +1169,952 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/tilottama-cities-v2.webp"},
   {
-    id: "gokarneshwar-cities-v2",
+    id: "gokarneshwar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gokarna Mahadev Temple",
+                  "text": "Ein berühmter Shiva-Tempel im Pagodenstil, bekannt für seine kunstvollen Holzschnitzereien.",
+                  "category": "landmark",
+                  "coords": [
+                        85.388083,
+                        27.739609
+                  ]
+            },
+            {
+                  "name": "Nijamati Smarak",
+                  "text": "Ein Denkmal für den öffentlichen Dienst im Gebiet von Gokarna.",
+                  "category": "historical",
+                  "coords": [
+                        85.380989,
+                        27.741591
+                  ]
+            },
+            {
+                  "name": "Gokarna",
+                  "text": "Eine historische archäologische Stätte mit Überresten aus der Licchavi-Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        85.392321,
+                        27.73596
+                  ]
+            },
+            {
+                  "name": "राम कृष्ण मन्दिर",
+                  "text": "Ein hinduistischer Tempel für Rama und Krishna in Gokarneshwar.",
+                  "category": "landmark",
+                  "coords": [
+                        85.402595,
+                        27.742713
+                  ]
+            },
+            {
+                  "name": "श्री राम जानकी मन्दिर",
+                  "text": "Ein hinduistischer Tempel zu Ehren von Rama und Sita in der Ortschaft Gokarna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.378174,
+                        27.733904
+                  ]
+            },
+            {
+                  "name": "हनुमान मन्दिर",
+                  "text": "Ein hinduistischer Schrein für den Affengott Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        85.38452,
+                        27.736907
+                  ]
+            },
+            {
+                  "name": "hollow stupa temple",
+                  "text": "Ein einzigartiger buddhistischer Stupa mit einem hohlen Innenraum, der zum Gebet genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385443,
+                        27.739443
+                  ]
+            },
+            {
+                  "name": "गोकर्णेश्वर महादेव वन क्षेत्र",
+                  "text": "Ein heiliges Waldgebiet rund um den Gokarna-Mahadev-Tempel, das vielfältige Wildtiere beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.393028,
+                        27.731552
+                  ]
+            },
+            {
+                  "name": "कृष्ण मन्दिर",
+                  "text": "Ein hinduistischer Krishna-Tempel in Gokarneshwar, der als Ort der Hingabe für die lokale Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383397,
+                        27.726405
+                  ]
+            },
+            {
+                  "name": "माता जोर्पाटी",
+                  "text": "Ein lokaler hinduistischer Schrein in Jorpati, der der Muttergöttin gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381491,
+                        27.729784
+                  ]
+            },
+            {
+                  "name": "आनन्द गणेशस्थान मन्दिर",
+                  "text": "Ein hinduistischer Tempel in Gokarneshwar, der dem elefantenköpfigen Gott Ganesha gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.380544,
+                        27.72499
+                  ]
+            },
+            {
+                  "name": "Arubari",
+                  "text": "Ein christliches Gotteshaus an einer belebten Kreuzung in Arubari.",
+                  "category": "landmark",
+                  "coords": [
+                        85.375636,
+                        27.731181
+                  ]
+            },
+            {
+                  "name": "ओम बिनायक मन्दिर",
+                  "text": "Ein dem Gott Ganesha geweihter Tempel, der im Gokarneshwar-Gebiet als Binayak bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        85.385174,
+                        27.70414
+                  ]
+            },
+            {
+                  "name": "श्री राधाकृष्ण मन्दिर",
+                  "text": "Ein hinduistischer Tempel in Gokarneshwar, der das göttliche Paar Radha und Krishna ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.391517,
+                        27.705321
+                  ]
+            },
+            {
+                  "name": "गौरीनाथ महादेव मन्दिर",
+                  "text": "Ein Schrein, der Shiva in seiner Form als Gaurinath, dem Herrn von Gauri, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        85.384987,
+                        27.707772
+                  ]
+            },
+            {
+                  "name": "Shree Ganesh Shree Tejbinayak",
+                  "text": "Ein hinduistischer Ganesha-Tempel, der in der lokalen Tradition als Tejbinayak verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383115,
+                        27.709113
+                  ]
+            },
+            {
+                  "name": "मनकामना माई मन्दिर",
+                  "text": "Ein lokaler hinduistischer Schrein, der der wunscherfüllenden Göttin Manakamana gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.396488,
+                        27.71451
+                  ]
+            },
+            {
+                  "name": "Shree Champak Vinayak Temple",
+                  "text": "Ein hinduistischer Vinayak-Tempel in Gokarneshwar, der dem elefantenköpfigen Gott Ganesha geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.415343,
+                        27.737731
+                  ]
+            },
+            {
+                  "name": "Radha Krishana Temple",
+                  "text": "Ein hinduistisches Gotteshaus in Gokarneshwar, das den Gottheiten Radha und Krishna gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.377069,
+                        27.737214
+                  ]
+            },
+            {
+                  "name": "Jageswori Temple",
+                  "text": "Ein hinduistisches Gotteshaus in Gokarneshwar, das der Göttin Bhagawati gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        85.384957,
+                        27.738081
+                  ]
+            },
+            {
+                  "name": "krishna mandhir",
+                  "text": "Ein hinduistischer Krishna-Tempel, der als friedlicher Ort für Gebete in Gokarneshwar dient.",
+                  "category": "religious",
+                  "coords": [
+                        85.376615,
+                        27.725722
+                  ]
+            },
+            {
+                  "name": "Ardha Narashwor Shiva Mandir",
+                  "text": "Ein hinduistischer Tempel, der Shiva in seiner halb männlichen, halb weiblichen Form als Ardhanarishvara gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.382164,
+                        27.721259
+                  ]
+            },
+            {
+                  "name": "Hatya motchan Ganga Dasahara shiva mandir",
+                  "text": "Ein hinduistischer Schrein an einer markanten Straßenkreuzung im Wohnviertel Green Hill City.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381609,
+                        27.717906
+                  ]
+            },
+            {
+                  "name": "Laxmi Narayan Temple",
+                  "text": "Ein hinduistischer Tempel in Gokarneshwar, der den Gottheiten Vishnu und Lakshmi gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.389429,
+                        27.70911
+                  ]
+            },
+            {
+                  "name": "Thali Gumba",
+                  "text": "Ein lokales buddhistisches Kloster in Thali, das als spirituelles Zentrum für die Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.403644,
+                        27.728418
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "Ein geschäftiger lokaler Marktplatz, auf dem frisches Obst und Gemüse aus dem Kathmandu-Tal verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        85.380619,
+                        27.721751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gokarna Mahadev Temple",
+                  "text": "Híres, pagoda stílusú Siva-templom, amely bonyolult fafaragványairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.388083,
+                        27.739609
+                  ]
+            },
+            {
+                  "name": "Nijamati Smarak",
+                  "text": "A közszolgálatnak szentelt emlékmű Gokarna területén.",
+                  "category": "historical",
+                  "coords": [
+                        85.380989,
+                        27.741591
+                  ]
+            },
+            {
+                  "name": "Gokarna",
+                  "text": "Történelmi régészeti lelőhely a Licchavi-korszakból származó maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        85.392321,
+                        27.73596
+                  ]
+            },
+            {
+                  "name": "राम कृष्ण मन्दिर",
+                  "text": "Rámának és Krisnának szentelt hindu templom Gokarnésvarban.",
+                  "category": "landmark",
+                  "coords": [
+                        85.402595,
+                        27.742713
+                  ]
+            },
+            {
+                  "name": "श्री राम जानकी मन्दिर",
+                  "text": "Rámának és Szitának szentelt hindu templom Gokarna településen.",
+                  "category": "landmark",
+                  "coords": [
+                        85.378174,
+                        27.733904
+                  ]
+            },
+            {
+                  "name": "हनुमान मन्दिर",
+                  "text": "Hanumánnak, a majomistennek szentelt hindu szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        85.38452,
+                        27.736907
+                  ]
+            },
+            {
+                  "name": "hollow stupa temple",
+                  "text": "Egyedülálló buddhista sztúpa üreges belsővel, amelyet imádkozásra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385443,
+                        27.739443
+                  ]
+            },
+            {
+                  "name": "गोकर्णेश्वर महादेव वन क्षेत्र",
+                  "text": "Szent erdős terület a Gokarna Mahadév-templom körül, amely változatos vadvilágnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        85.393028,
+                        27.731552
+                  ]
+            },
+            {
+                  "name": "कृष्ण मन्दिर",
+                  "text": "Egy hindu Krisna-templom Gokarneshwarban, amely a helyi közösség fontos hitéleti központja.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383397,
+                        27.726405
+                  ]
+            },
+            {
+                  "name": "माता जोर्पाटी",
+                  "text": "Egy helyi hindu szentély Jorpatiban, amelyet az Anyaistennő tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381491,
+                        27.729784
+                  ]
+            },
+            {
+                  "name": "आनन्द गणेशस्थान मन्दिर",
+                  "text": "Gokarneshwar egyik hindu temploma, amelyet az elefántfejű Ganésa istennek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.380544,
+                        27.72499
+                  ]
+            },
+            {
+                  "name": "Arubari",
+                  "text": "Egy keresztény imaház Arubari egyik forgalmas útkereszteződésénél.",
+                  "category": "landmark",
+                  "coords": [
+                        85.375636,
+                        27.731181
+                  ]
+            },
+            {
+                  "name": "ओम बिनायक मन्दिर",
+                  "text": "Ganésa istennek szentelt templom, amelyet Binayak néven ismernek Gokarneshwar környékén.",
+                  "category": "religious",
+                  "coords": [
+                        85.385174,
+                        27.70414
+                  ]
+            },
+            {
+                  "name": "श्री राधाकृष्ण मन्दिर",
+                  "text": "Hindu templom Gokarneshwarban, amely Radha és Krisna isteni párja előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        85.391517,
+                        27.705321
+                  ]
+            },
+            {
+                  "name": "गौरीनाथ महादेव मन्दिर",
+                  "text": "Siva istennek szentelt szentély, aki itt Gaurinath, azaz Gauri ura formájában jelenik meg.",
+                  "category": "religious",
+                  "coords": [
+                        85.384987,
+                        27.707772
+                  ]
+            },
+            {
+                  "name": "Shree Ganesh Shree Tejbinayak",
+                  "text": "Hindu Ganésa-templom, amelyet a helyi hagyományban Tejbinayakként tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383115,
+                        27.709113
+                  ]
+            },
+            {
+                  "name": "मनकामना माई मन्दिर",
+                  "text": "Helyi hindu szentély, amelyet a kívánságteljesítő Manakamana istennőnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.396488,
+                        27.71451
+                  ]
+            },
+            {
+                  "name": "Shree Champak Vinayak Temple",
+                  "text": "Hindu Vinayak-templom Gokarneshwarban, amelyet Ganésa isten tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.415343,
+                        27.737731
+                  ]
+            },
+            {
+                  "name": "Radha Krishana Temple",
+                  "text": "Hindu imaház Gokarneshwarban, amelyet Radha és Krisna istenségeknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.377069,
+                        27.737214
+                  ]
+            },
+            {
+                  "name": "Jageswori Temple",
+                  "text": "Hindu imaház Gokarneshwarban, amelyet Bhagawati istennőnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        85.384957,
+                        27.738081
+                  ]
+            },
+            {
+                  "name": "krishna mandhir",
+                  "text": "Hindu Krisna-templom, amely békés imádkozóhelyként szolgál Gokarneshwarban.",
+                  "category": "religious",
+                  "coords": [
+                        85.376615,
+                        27.725722
+                  ]
+            },
+            {
+                  "name": "Ardha Narashwor Shiva Mandir",
+                  "text": "Hindu templom, amelyet Siva félig férfi, félig női formájának, Ardhanarishvarának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.382164,
+                        27.721259
+                  ]
+            },
+            {
+                  "name": "Hatya motchan Ganga Dasahara shiva mandir",
+                  "text": "Hindu szentély a Green Hill City lakópark egyik jellegzetes útkereszteződésénél.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381609,
+                        27.717906
+                  ]
+            },
+            {
+                  "name": "Laxmi Narayan Temple",
+                  "text": "Gokarneshwari hindu templom, amelyet Visnu és Laksmi istenségeknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.389429,
+                        27.70911
+                  ]
+            },
+            {
+                  "name": "Thali Gumba",
+                  "text": "Helyi buddhista kolostor Thaliban, amely a közösség spirituális központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        85.403644,
+                        27.728418
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "Nyüzsgő helyi piac, ahol a Katmandu-völgy friss gyümölcseit és zöldségeit árusítják.",
+                  "category": "cultural",
+                  "coords": [
+                        85.380619,
+                        27.721751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gokarna Mahadev Temple",
+                  "text": "Un celebru templu dedicat lui Shiva, în stil pagodă, cunoscut pentru sculpturile sale complicate în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        85.388083,
+                        27.739609
+                  ]
+            },
+            {
+                  "name": "Nijamati Smarak",
+                  "text": "Un monument dedicat serviciului public, situat în zona Gokarna.",
+                  "category": "historical",
+                  "coords": [
+                        85.380989,
+                        27.741591
+                  ]
+            },
+            {
+                  "name": "Gokarna",
+                  "text": "Un sit arheologic istoric cu vestigii din perioada Licchavi.",
+                  "category": "historical",
+                  "coords": [
+                        85.392321,
+                        27.73596
+                  ]
+            },
+            {
+                  "name": "राम कृष्ण मन्दिर",
+                  "text": "Un templu hindu dedicat lui Rama și Krishna în Gokarneshwar.",
+                  "category": "landmark",
+                  "coords": [
+                        85.402595,
+                        27.742713
+                  ]
+            },
+            {
+                  "name": "श्री राम जानकी मन्दिर",
+                  "text": "Un templu hindu ridicat în cinstea lui Rama și Sita în localitatea Gokarna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.378174,
+                        27.733904
+                  ]
+            },
+            {
+                  "name": "हनुमान मन्दिर",
+                  "text": "Un altar hindu dedicat zeului maimuță Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        85.38452,
+                        27.736907
+                  ]
+            },
+            {
+                  "name": "hollow stupa temple",
+                  "text": "O stupă budistă unică, cu un interior gol folosit pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385443,
+                        27.739443
+                  ]
+            },
+            {
+                  "name": "गोकर्णेश्वर महादेव वन क्षेत्र",
+                  "text": "O zonă forestieră sacră în jurul templului Gokarna Mahadev, adăpostind o faună diversă.",
+                  "category": "landmark",
+                  "coords": [
+                        85.393028,
+                        27.731552
+                  ]
+            },
+            {
+                  "name": "कृष्ण मन्दिर",
+                  "text": "Un templu hindu dedicat lui Krishna în Gokarneshwar, servind ca loc de devoțiune pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383397,
+                        27.726405
+                  ]
+            },
+            {
+                  "name": "माता जोर्पाटी",
+                  "text": "Un sanctuar hindu local în Jorpati, dedicat Zeiței Mamă.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381491,
+                        27.729784
+                  ]
+            },
+            {
+                  "name": "आनन्द गणेशस्थान मन्दिर",
+                  "text": "Un templu hindu din Gokarneshwar dedicat zeului cu cap de elefant, Ganesha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.380544,
+                        27.72499
+                  ]
+            },
+            {
+                  "name": "Arubari",
+                  "text": "Un lăcaș de cult creștin situat la o intersecție animată din Arubari.",
+                  "category": "landmark",
+                  "coords": [
+                        85.375636,
+                        27.731181
+                  ]
+            },
+            {
+                  "name": "ओम बिनायक मन्दिर",
+                  "text": "Un templu dedicat zeului Ganesha, cunoscut sub numele de Binayak în zona Gokarneshwar.",
+                  "category": "religious",
+                  "coords": [
+                        85.385174,
+                        27.70414
+                  ]
+            },
+            {
+                  "name": "श्री राधाकृष्ण मन्दिर",
+                  "text": "Un templu hindu din Gokarneshwar care onorează cuplul divin Radha și Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.391517,
+                        27.705321
+                  ]
+            },
+            {
+                  "name": "गौरीनाथ महादेव मन्दिर",
+                  "text": "Un sanctuar dedicat lui Shiva în forma sa de Gaurinath, stăpânul lui Gauri.",
+                  "category": "religious",
+                  "coords": [
+                        85.384987,
+                        27.707772
+                  ]
+            },
+            {
+                  "name": "Shree Ganesh Shree Tejbinayak",
+                  "text": "Un templu hindu dedicat lui Ganesha, venerat în tradiția locală sub numele de Tejbinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383115,
+                        27.709113
+                  ]
+            },
+            {
+                  "name": "मनकामना माई मन्दिर",
+                  "text": "Un sanctuar hindu local dedicat zeiței Manakamana, despre care se spune că îndeplinește dorințele.",
+                  "category": "landmark",
+                  "coords": [
+                        85.396488,
+                        27.71451
+                  ]
+            },
+            {
+                  "name": "Shree Champak Vinayak Temple",
+                  "text": "Un templu hindu Vinayak în Gokarneshwar, ridicat în cinstea zeului Ganesha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.415343,
+                        27.737731
+                  ]
+            },
+            {
+                  "name": "Radha Krishana Temple",
+                  "text": "Un lăcaș de cult hindu din Gokarneshwar dedicat zeităților Radha și Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.377069,
+                        27.737214
+                  ]
+            },
+            {
+                  "name": "Jageswori Temple",
+                  "text": "Un lăcaș de cult hindu din Gokarneshwar dedicat zeiței Bhagawati.",
+                  "category": "religious",
+                  "coords": [
+                        85.384957,
+                        27.738081
+                  ]
+            },
+            {
+                  "name": "krishna mandhir",
+                  "text": "Un templu hindu dedicat lui Krishna, care servește ca loc de rugăciune liniștit în Gokarneshwar.",
+                  "category": "religious",
+                  "coords": [
+                        85.376615,
+                        27.725722
+                  ]
+            },
+            {
+                  "name": "Ardha Narashwor Shiva Mandir",
+                  "text": "Un templu hindu dedicat lui Shiva în forma sa pe jumătate bărbat, pe jumătate femeie, Ardhanarishvara.",
+                  "category": "landmark",
+                  "coords": [
+                        85.382164,
+                        27.721259
+                  ]
+            },
+            {
+                  "name": "Hatya motchan Ganga Dasahara shiva mandir",
+                  "text": "Un sanctuar hindu situat la o intersecție rutieră proeminentă din zona rezidențială Green Hill City.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381609,
+                        27.717906
+                  ]
+            },
+            {
+                  "name": "Laxmi Narayan Temple",
+                  "text": "Un templu hindu din Gokarneshwar dedicat zeităților Vishnu și Lakshmi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.389429,
+                        27.70911
+                  ]
+            },
+            {
+                  "name": "Thali Gumba",
+                  "text": "O mănăstire budistă locală în Thali, care servește drept centru spiritual pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        85.403644,
+                        27.728418
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "O piață locală plină de viață, unde se vând fructe și legume proaspete din Valea Kathmandu.",
+                  "category": "cultural",
+                  "coords": [
+                        85.380619,
+                        27.721751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gokarna Mahadev Temple",
+                  "text": "A famous Shiva temple built in pagoda style, known for its intricate wood carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        85.388083,
+                        27.739609
+                  ]
+            },
+            {
+                  "name": "Nijamati Smarak",
+                  "text": "A monument dedicated to the civil service located in the Gokarna area.",
+                  "category": "historical",
+                  "coords": [
+                        85.380989,
+                        27.741591
+                  ]
+            },
+            {
+                  "name": "Gokarna",
+                  "text": "A historical archaeological site featuring remains from the Licchavi period.",
+                  "category": "historical",
+                  "coords": [
+                        85.392321,
+                        27.73596
+                  ]
+            },
+            {
+                  "name": "Ram Krishna Mandir",
+                  "text": "A Hindu temple dedicated to Rama and Krishna in Gokarneshwar.",
+                  "category": "landmark",
+                  "coords": [
+                        85.402595,
+                        27.742713
+                  ]
+            },
+            {
+                  "name": "Shree Ram Janaki Mandir",
+                  "text": "A Hindu temple honoring Rama and Sita in the Gokarna locality.",
+                  "category": "landmark",
+                  "coords": [
+                        85.378174,
+                        27.733904
+                  ]
+            },
+            {
+                  "name": "Hanuman Mandir",
+                  "text": "A Hindu shrine dedicated to the monkey god Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        85.38452,
+                        27.736907
+                  ]
+            },
+            {
+                  "name": "hollow stupa temple",
+                  "text": "A unique Buddhist stupa with a hollow interior used for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385443,
+                        27.739443
+                  ]
+            },
+            {
+                  "name": "Gokarneswar Mahadev Forest Area",
+                  "text": "A sacred forested area surrounding the Gokarna Mahadev temple, home to diverse wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        85.393028,
+                        27.731552
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "A Hindu Krishna temple in Gokarneshwar that serves as a center of devotion for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383397,
+                        27.726405
+                  ]
+            },
+            {
+                  "name": "Mata Jorpati",
+                  "text": "A local Hindu shrine in Jorpati dedicated to the Mother Goddess.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381491,
+                        27.729784
+                  ]
+            },
+            {
+                  "name": "Ananda Ganesthan Temple",
+                  "text": "A Hindu temple in Gokarneshwar dedicated to the elephant-headed deity Ganesha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.380544,
+                        27.72499
+                  ]
+            },
+            {
+                  "name": "Arubari Chowk",
+                  "text": "A Christian place of worship located at a busy junction in Arubari.",
+                  "category": "landmark",
+                  "coords": [
+                        85.375636,
+                        27.731181
+                  ]
+            },
+            {
+                  "name": "Om Binayak Mandir",
+                  "text": "A temple dedicated to Lord Ganesha, known as Binayak in the Gokarneshwar area.",
+                  "category": "religious",
+                  "coords": [
+                        85.385174,
+                        27.70414
+                  ]
+            },
+            {
+                  "name": "Shree Radhakrishna Mandir",
+                  "text": "A Hindu temple in Gokarneshwar honoring the divine couple Radha and Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.391517,
+                        27.705321
+                  ]
+            },
+            {
+                  "name": "Gaurinath Mahadev Temple",
+                  "text": "A shrine dedicated to Shiva in his form as Gaurinath, the lord of Gauri.",
+                  "category": "religious",
+                  "coords": [
+                        85.384987,
+                        27.707772
+                  ]
+            },
+            {
+                  "name": "Shree Ganesh Shree Tejbinayak",
+                  "text": "A Hindu Ganesha temple revered in the local tradition as Tejbinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383115,
+                        27.709113
+                  ]
+            },
+            {
+                  "name": "Manakamana Mai Mandir",
+                  "text": "A local Hindu shrine dedicated to the wish-fulfilling goddess Manakamana.",
+                  "category": "landmark",
+                  "coords": [
+                        85.396488,
+                        27.71451
+                  ]
+            },
+            {
+                  "name": "Shree Champak Vinayak Temple",
+                  "text": "A Hindu Vinayak temple in Gokarneshwar, erected in honor of the god Ganesha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.415343,
+                        27.737731
+                  ]
+            },
+            {
+                  "name": "Radha Krishana Temple",
+                  "text": "A Hindu place of worship in Gokarneshwar dedicated to the deities Radha and Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.377069,
+                        27.737214
+                  ]
+            },
+            {
+                  "name": "Jageshwori Bhagawati Mandir",
+                  "text": "A Hindu place of worship in Gokarneshwar dedicated to the goddess Bhagawati.",
+                  "category": "religious",
+                  "coords": [
+                        85.384957,
+                        27.738081
+                  ]
+            },
+            {
+                  "name": "krishna mandhir",
+                  "text": "A Hindu Krishna temple serving as a peaceful place for prayer in Gokarneshwar.",
+                  "category": "religious",
+                  "coords": [
+                        85.376615,
+                        27.725722
+                  ]
+            },
+            {
+                  "name": "Ardha Narashwor Shiva Mandir",
+                  "text": "A Hindu temple dedicated to Shiva in his half-male, half-female form as Ardhanarishvara.",
+                  "category": "landmark",
+                  "coords": [
+                        85.382164,
+                        27.721259
+                  ]
+            },
+            {
+                  "name": "Green hill city junction",
+                  "text": "A Hindu shrine located at a prominent road junction in the Green Hill City residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        85.381609,
+                        27.717906
+                  ]
+            },
+            {
+                  "name": "Laxmi Narayan Temple",
+                  "text": "A Hindu temple in Gokarneshwar dedicated to the deities Vishnu and Lakshmi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.389429,
+                        27.70911
+                  ]
+            },
+            {
+                  "name": "Thali Gumba",
+                  "text": "A local Buddhist monastery in Thali that serves as a spiritual center for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        85.403644,
+                        27.728418
+                  ]
+            },
+            {
+                  "name": "Vegetable Market",
+                  "text": "A bustling local marketplace selling fresh fruits and vegetables from the Kathmandu Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        85.380619,
+                        27.721751
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.39, 27.73],
@@ -488,7 +2171,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Janaki Cinema Hall",
-                  "text": "Die Janaki Cinema Hall ist ein Theater in der Stadt Kalaiya.",
+                  "text": "Janaki-Kino in Kalaiya.",
                   "category": "cultural",
                   "coords": [
                         85.009327,
@@ -497,7 +2180,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Gupta Cinema Hall",
-                  "text": "Die Gupta Cinema Hall ist ein Theater in Kalaiya.",
+                  "text": "Gupta-Kino in Kalaiya.",
                   "category": "cultural",
                   "coords": [
                         85.006739,
@@ -506,7 +2189,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Kalaiya Darbar",
-                  "text": "Kalaiya Darbar ist eine historische Burg in Kalaiya.",
+                  "text": "Kalaiya Darbar – historischer Palast in Kalaiya.",
                   "category": "castle",
                   "coords": [
                         84.998957,
@@ -517,7 +2200,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Janaki Cinema Hall",
-                  "text": "A Janaki Cinema Hall egy színház Kalaiya városában.",
+                  "text": "Janaki mozi Kalaiyában.",
                   "category": "cultural",
                   "coords": [
                         85.009327,
@@ -526,7 +2209,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Gupta Cinema Hall",
-                  "text": "A Gupta Cinema Hall egy színház Kalaiya városában.",
+                  "text": "Gupta mozi Kalaiyában.",
                   "category": "cultural",
                   "coords": [
                         85.006739,
@@ -535,7 +2218,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Kalaiya Darbar",
-                  "text": "A Kalaiya Darbar egy történelmi kastély Kalaiya városában.",
+                  "text": "Kalaiya Darbar – történelmi palota Kalaiyában.",
                   "category": "castle",
                   "coords": [
                         84.998957,
@@ -546,7 +2229,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Janaki Cinema Hall",
-                  "text": "Janaki Cinema Hall este un teatru situat în orașul Kalaiya.",
+                  "text": "Cinematograful Janaki din Kalaiya.",
                   "category": "cultural",
                   "coords": [
                         85.009327,
@@ -555,7 +2238,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Gupta Cinema Hall",
-                  "text": "Gupta Cinema Hall este un teatru situat în Kalaiya.",
+                  "text": "Cinematograful Gupta din Kalaiya.",
                   "category": "cultural",
                   "coords": [
                         85.006739,
@@ -564,7 +2247,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Kalaiya Darbar",
-                  "text": "Kalaiya Darbar este un castel istoric situat în Kalaiya.",
+                  "text": "Kalaiya Darbar – palat istoric în Kalaiya.",
                   "category": "castle",
                   "coords": [
                         84.998957,
@@ -575,7 +2258,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Janaki Cinema Hall",
-                  "text": "Janaki Cinema Hall is a theatre located in the city of Kalaiya.",
+                  "text": "Janaki Cinema Hall in Kalaiya.",
                   "category": "cultural",
                   "coords": [
                         85.009327,
@@ -584,7 +2267,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Gupta Cinema Hall",
-                  "text": "Gupta Cinema Hall is a theatre situated in Kalaiya.",
+                  "text": "Gupta Cinema Hall in Kalaiya.",
                   "category": "cultural",
                   "coords": [
                         85.006739,
@@ -593,7 +2276,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Kalaiya Darbar",
-                  "text": "Kalaiya Darbar is a historic castle located in Kalaiya.",
+                  "text": "Kalaiya Darbar – historic palace in Kalaiya.",
                   "category": "castle",
                   "coords": [
                         84.998957,
@@ -652,7 +2335,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "sandip khanal",
-                  "text": "Sandip khanal ist eine Burg in Suryabinayak.",
+                  "text": "Sandip-Khanal-Burg in Suryabinayak.",
                   "category": "castle",
                   "coords": [
                         85.415554,
@@ -661,7 +2344,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Nyatapola Temple",
-                  "text": "Der Nyatapola Temple ist ein markantes, historisches Denkmal in Suryabinayak.",
+                  "text": "Fünfstöckige Pagode, die höchste in Nepal, erbaut 1702 in Bhaktapur.",
                   "category": "historical",
                   "coords": [
                         85.429372,
@@ -670,7 +2353,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "International Green Developers Nepal",
-                  "text": "International Green Developers Nepal ist eine Attraktion in Suryabinayak.",
+                  "text": "Büro der International Green Developers Nepal in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.442811,
@@ -679,7 +2362,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Dabu (Dance Platform)",
-                  "text": "Das Dabu (Dance Platform) ist ein Denkmal in Suryabinayak.",
+                  "text": "Historische Tanzplattform Dabu in Suryabinayak.",
                   "category": "historical",
                   "coords": [
                         85.427766,
@@ -688,7 +2371,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pottery Square (Talako Tole)",
-                  "text": "Der Pottery Square (Talako Tole) ist eine Attraktion in Suryabinayak.",
+                  "text": "Töpferplatz (Talako Tole) in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.427743,
@@ -697,7 +2380,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Cremation Site",
-                  "text": "Die Cremation Site ist eine Attraktion in Suryabinayak.",
+                  "text": "Einäscherungsplatz in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.430726,
@@ -706,7 +2389,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Bhajyu Pukhu",
-                  "text": "Bhajyu Pukhu ist eine lokale Attraktion in Suryabinayak.",
+                  "text": "Bhajyu Pukhu – Teich in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.420929,
@@ -715,7 +2398,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pilot Baba Ashram",
-                  "text": "Pilot Baba Ashram ist eine Attraktion in Suryabinayak.",
+                  "text": "Pilot Baba Ashram in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.422529,
@@ -724,7 +2407,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Shilu Mahadev (Fasidega)",
-                  "text": "Shilu Mahadev (Fasidega) ist ein Gotteshaus in Suryabinayak.",
+                  "text": "Ein hinduistischer Tempel, der Lord Shiva in Suryabinayak, Nepal, gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         85.428908,
@@ -735,7 +2418,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "sandip khanal",
-                  "text": "A sandip khanal egy vár Suryabinayakban.",
+                  "text": "Sandip Khanal vára Suryabinayakban.",
                   "category": "castle",
                   "coords": [
                         85.415554,
@@ -744,7 +2427,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Nyatapola Temple",
-                  "text": "A Nyatapola Temple egy nevezetes történelmi műemlék Suryabinayakban.",
+                  "text": "Ötszintes pagoda, a legmagasabb Nepálban, 1702-ben épült Bhaktapurban.",
                   "category": "historical",
                   "coords": [
                         85.429372,
@@ -753,7 +2436,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "International Green Developers Nepal",
-                  "text": "Az International Green Developers Nepal egy látványosság Suryabinayakban.",
+                  "text": "Az International Green Developers Nepal irodája Suryabinayakban.",
                   "category": "landmark",
                   "coords": [
                         85.442811,
@@ -762,7 +2445,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Dabu (Dance Platform)",
-                  "text": "A Dabu (Dance Platform) egy emlékmű Suryabinayakban.",
+                  "text": "Történelmi táncplatform, Dabu, Suryabinayakban.",
                   "category": "historical",
                   "coords": [
                         85.427766,
@@ -771,7 +2454,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pottery Square (Talako Tole)",
-                  "text": "A Pottery Square (Talako Tole) egy látványosság Suryabinayakban.",
+                  "text": "Fazekas tér (Talako Tole) Suryabinayakban.",
                   "category": "landmark",
                   "coords": [
                         85.427743,
@@ -780,7 +2463,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Cremation Site",
-                  "text": "A Cremation Site egy látványosság Suryabinayakban.",
+                  "text": "Krematórium Suryabinayakban.",
                   "category": "landmark",
                   "coords": [
                         85.430726,
@@ -789,7 +2472,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Bhajyu Pukhu",
-                  "text": "A Bhajyu Pukhu egy helyi látványosság Suryabinayakban.",
+                  "text": "Bhajyu Pukhu – tó Suryabinayakban.",
                   "category": "landmark",
                   "coords": [
                         85.420929,
@@ -798,7 +2481,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pilot Baba Ashram",
-                  "text": "A Pilot Baba Ashram egy látványosság Suryabinayakban.",
+                  "text": "Pilot Baba ashram Suryabinayakban.",
                   "category": "landmark",
                   "coords": [
                         85.422529,
@@ -807,7 +2490,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Shilu Mahadev (Fasidega)",
-                  "text": "A Shilu Mahadev (Fasidega) egy istentiszteleti hely Suryabinayakban.",
+                  "text": "Egy hindu templom, amelyet Lord Shivának szenteltek Suryabinayakban, Nepálban.",
                   "category": "religious",
                   "coords": [
                         85.428908,
@@ -818,7 +2501,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "sandip khanal",
-                  "text": "Sandip khanal este un castel situat în Suryabinayak.",
+                  "text": "Castelul Sandip Khanal din Suryabinayak.",
                   "category": "castle",
                   "coords": [
                         85.415554,
@@ -827,7 +2510,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Nyatapola Temple",
-                  "text": "Nyatapola Temple este un monument istoric notabil situat în Suryabinayak.",
+                  "text": "Pagodă cu cinci etaje, cea mai înaltă din Nepal, construită în 1702 în Bhaktapur.",
                   "category": "historical",
                   "coords": [
                         85.429372,
@@ -836,7 +2519,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "International Green Developers Nepal",
-                  "text": "International Green Developers Nepal este o atracție situată în Suryabinayak.",
+                  "text": "Sediu International Green Developers Nepal în Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.442811,
@@ -845,7 +2528,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Dabu (Dance Platform)",
-                  "text": "Dabu (Dance Platform) este un monument în Suryabinayak.",
+                  "text": "Platformă de dans istorică Dabu în Suryabinayak.",
                   "category": "historical",
                   "coords": [
                         85.427766,
@@ -854,7 +2537,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pottery Square (Talako Tole)",
-                  "text": "Pottery Square (Talako Tole) este o atracție în Suryabinayak.",
+                  "text": "Piața Olarilor (Talako Tole) în Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.427743,
@@ -863,7 +2546,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Cremation Site",
-                  "text": "Cremation Site este o atracție aflată în Suryabinayak.",
+                  "text": "Loc de incinerare în Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.430726,
@@ -872,7 +2555,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Bhajyu Pukhu",
-                  "text": "Bhajyu Pukhu este o atracție locală din Suryabinayak.",
+                  "text": "Bhajyu Pukhu – iaz în Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.420929,
@@ -881,7 +2564,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pilot Baba Ashram",
-                  "text": "Pilot Baba Ashram este o atracție aflată în Suryabinayak.",
+                  "text": "Ashramul Pilot Baba din Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.422529,
@@ -890,7 +2573,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Shilu Mahadev (Fasidega)",
-                  "text": "Shilu Mahadev (Fasidega) este un lăcaș de cult situat în Suryabinayak.",
+                  "text": "Un templu hindus dedicat lordului Shiva în Suryabinayak, Nepal.",
                   "category": "religious",
                   "coords": [
                         85.428908,
@@ -901,7 +2584,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "sandip khanal",
-                  "text": "Sandip khanal is a castle located in Suryabinayak.",
+                  "text": "Sandip Khanal castle in Suryabinayak.",
                   "category": "castle",
                   "coords": [
                         85.415554,
@@ -910,7 +2593,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Nyatapola Temple",
-                  "text": "Nyatapola Temple is a notable historical monument located in Suryabinayak.",
+                  "text": "Five-tiered pagoda, tallest in Nepal, built in 1702 in Bhaktapur.",
                   "category": "historical",
                   "coords": [
                         85.429372,
@@ -919,7 +2602,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "International Green Developers Nepal",
-                  "text": "International Green Developers Nepal is an attraction located in Suryabinayak.",
+                  "text": "International Green Developers Nepal office in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.442811,
@@ -928,7 +2611,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Dabu (Dance Platform)",
-                  "text": "Dabu (Dance Platform) is a monument in Suryabinayak.",
+                  "text": "Historical dance platform Dabu in Suryabinayak.",
                   "category": "historical",
                   "coords": [
                         85.427766,
@@ -937,7 +2620,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pottery Square (Talako Tole)",
-                  "text": "Pottery Square (Talako Tole) is an attraction in Suryabinayak.",
+                  "text": "Pottery Square (Talako Tole) in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.427743,
@@ -946,7 +2629,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Cremation Site",
-                  "text": "The Cremation Site is an attraction found in Suryabinayak.",
+                  "text": "Cremation site in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.430726,
@@ -955,7 +2638,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Bhajyu Pukhu",
-                  "text": "Bhajyu Pukhu is a local attraction located in Suryabinayak.",
+                  "text": "Bhajyu Pukhu pond in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.420929,
@@ -964,7 +2647,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pilot Baba Ashram",
-                  "text": "Pilot Baba Ashram is an attraction found in Suryabinayak.",
+                  "text": "Pilot Baba Ashram in Suryabinayak.",
                   "category": "landmark",
                   "coords": [
                         85.422529,
@@ -973,7 +2656,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Shilu Mahadev (Fasidega)",
-                  "text": "Shilu Mahadev (Fasidega) is a place of worship located in Suryabinayak.",
+                  "text": "A Hindu temple dedicated to Lord Shiva in Suryabinayak, Nepal.",
                   "category": "religious",
                   "coords": [
                         85.428908,
@@ -1028,7 +2711,412 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/suryabinayak-cities-v2.webp"},
   {
-    id: "chandragiri-cities-v2",
+    id: "chandragiri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "overhanging deck viewpoint of Kathmandu valley & Himalayas",
+                  "text": "Aussichtsplattform mit Panoramablick auf das Kathmandu-Tal und die Himalaya-Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        85.229,
+                        27.65456
+                  ]
+            },
+            {
+                  "name": "Kisipide Sport Ground",
+                  "text": "Sportplatz, der auch für religiöse Feste und Gemeinschaftsversammlungen genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        85.23838,
+                        27.685454
+                  ]
+            },
+            {
+                  "name": "Nawadurga mandir",
+                  "text": "Hindu-Tempel, der den neun Formen der Göttin Durga gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.241527,
+                        27.687684
+                  ]
+            },
+            {
+                  "name": "Sano Mandir Gurjudhara",
+                  "text": "Kleiner Tempel in der Gegend von Gurjudhara, ein lokales spirituelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        85.243514,
+                        27.687445
+                  ]
+            },
+            {
+                  "name": "Shree Swasthani Temple and Narnarayan Baba Ashram",
+                  "text": "Hindu-Tempel und Ashram für spirituelle Rückzüge und religiöse Studien.",
+                  "category": "landmark",
+                  "coords": [
+                        85.235833,
+                        27.682463
+                  ]
+            },
+            {
+                  "name": "Matatirtha Kunda",
+                  "text": "Dieser heilige Teich ist ein bedeutender Pilgerort, der besonders am nepalesischen Muttertag besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        85.231069,
+                        27.679525
+                  ]
+            },
+            {
+                  "name": "Radha Krishna Mandir",
+                  "text": "Ein hinduistischer Tempel in Chandragiri, der der göttlichen Liebe von Radha und Krishna gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.229103,
+                        27.686365
+                  ]
+            },
+            {
+                  "name": "भालेश्वर महादेव",
+                  "text": "Dieser Shiva-Tempel liegt auf dem Gipfel des Chandragiri-Hügels und bietet weite Ausblicke auf das Kathmandu-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        85.205475,
+                        27.666053
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "Ein traditioneller hinduistischer Tempel für Lord Krishna, der von den Bewohnern von Chandragiri besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        85.237275,
+                        27.684928
+                  ]
+            },
+            {
+                  "name": "Yahoya Ka Samikshakharu ko Rajya Bhawan",
+                  "text": "Ein moderner christlicher Versammlungsort für die Gemeinschaft der Zeugen Jehovas in Chandragiri.",
+                  "category": "landmark",
+                  "coords": [
+                        85.239605,
+                        27.685757
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Ein Schrein, der der elefantenköpfigen Gottheit Ganesh gewidmet ist, die in Chandragiri als Beseitiger von Hindernissen verehrt wird.",
+                  "category": "religious",
+                  "coords": [
+                        85.221865,
+                        27.693202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "overhanging deck viewpoint of Kathmandu valley & Himalayas",
+                  "text": "Kilátóterasz, amelyről panorámás kilátás nyílik a Katmandu-völgyre és a Himalája csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        85.229,
+                        27.65456
+                  ]
+            },
+            {
+                  "name": "Kisipide Sport Ground",
+                  "text": "Sportpálya, amelyet vallási fesztiválok és közösségi összejövetelek alkalmával is használnak.",
+                  "category": "religious",
+                  "coords": [
+                        85.23838,
+                        27.685454
+                  ]
+            },
+            {
+                  "name": "Nawadurga mandir",
+                  "text": "Durga istennő kilenc alakjának szentelt hindu templom.",
+                  "category": "landmark",
+                  "coords": [
+                        85.241527,
+                        27.687684
+                  ]
+            },
+            {
+                  "name": "Sano Mandir Gurjudhara",
+                  "text": "Kis templom Gurjudhara környékén, helyi szellemi központ.",
+                  "category": "landmark",
+                  "coords": [
+                        85.243514,
+                        27.687445
+                  ]
+            },
+            {
+                  "name": "Shree Swasthani Temple and Narnarayan Baba Ashram",
+                  "text": "Hindu templom és ásram szellemi elvonulásokhoz és vallási tanulmányokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        85.235833,
+                        27.682463
+                  ]
+            },
+            {
+                  "name": "Matatirtha Kunda",
+                  "text": "Ez a szent tó jelentős zarándokhely, amelyet különösen a nepáli anyák napján látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.231069,
+                        27.679525
+                  ]
+            },
+            {
+                  "name": "Radha Krishna Mandir",
+                  "text": "Radha és Krisna isteni szerelmének szentelt hindu templom Chandragiriben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.229103,
+                        27.686365
+                  ]
+            },
+            {
+                  "name": "भालेश्वर महादेव",
+                  "text": "Ez a Siva-templom a Chandragiri-hegy csúcsán található, és tágas kilátást nyújt a Katmandu-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        85.205475,
+                        27.666053
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "Lorda Krisnának szentelt hagyományos hindu templom, amelyet Chandragiri lakói látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.237275,
+                        27.684928
+                  ]
+            },
+            {
+                  "name": "Yahoya Ka Samikshakharu ko Rajya Bhawan",
+                  "text": "Jehova Tanúi chandragiri közösségének modern keresztény gyülekezeti helye.",
+                  "category": "landmark",
+                  "coords": [
+                        85.239605,
+                        27.685757
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Az elefántfejű Ganésa istenségnek szentelt szentély, akit Chandragiriben az akadályok elhárítójaként tisztelnek.",
+                  "category": "religious",
+                  "coords": [
+                        85.221865,
+                        27.693202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "overhanging deck viewpoint of Kathmandu valley & Himalayas",
+                  "text": "Platformă de observare care oferă o vedere panoramică asupra văii Kathmandu și a vârfurilor Himalaya.",
+                  "category": "natural",
+                  "coords": [
+                        85.229,
+                        27.65456
+                  ]
+            },
+            {
+                  "name": "Kisipide Sport Ground",
+                  "text": "Teren de sport folosit și pentru festivaluri religioase și adunări comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        85.23838,
+                        27.685454
+                  ]
+            },
+            {
+                  "name": "Nawadurga mandir",
+                  "text": "Templu hindu dedicat celor nouă forme ale zeiței Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        85.241527,
+                        27.687684
+                  ]
+            },
+            {
+                  "name": "Sano Mandir Gurjudhara",
+                  "text": "Templu mic în zona Gurjudhara, un centru spiritual local.",
+                  "category": "landmark",
+                  "coords": [
+                        85.243514,
+                        27.687445
+                  ]
+            },
+            {
+                  "name": "Shree Swasthani Temple and Narnarayan Baba Ashram",
+                  "text": "Templu hindu și ashram pentru retrageri spirituale și studii religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        85.235833,
+                        27.682463
+                  ]
+            },
+            {
+                  "name": "Matatirtha Kunda",
+                  "text": "Acest iaz sacru este un loc important de pelerinaj, vizitat în special de Ziua Mamei din Nepal.",
+                  "category": "landmark",
+                  "coords": [
+                        85.231069,
+                        27.679525
+                  ]
+            },
+            {
+                  "name": "Radha Krishna Mandir",
+                  "text": "Un templu hindu din Chandragiri dedicat iubirii divine dintre Radha și Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.229103,
+                        27.686365
+                  ]
+            },
+            {
+                  "name": "भालेश्वर महादेव",
+                  "text": "Acest templu dedicat lui Shiva se află pe vârful dealului Chandragiri, oferind vederi largi asupra Văii Kathmandu.",
+                  "category": "landmark",
+                  "coords": [
+                        85.205475,
+                        27.666053
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "Un templu hindu tradițional pentru Lord Krishna, vizitat de locuitorii din Chandragiri.",
+                  "category": "landmark",
+                  "coords": [
+                        85.237275,
+                        27.684928
+                  ]
+            },
+            {
+                  "name": "Yahoya Ka Samikshakharu ko Rajya Bhawan",
+                  "text": "Un loc de adunare creștin modern pentru comunitatea Martorilor lui Iehova din Chandragiri.",
+                  "category": "landmark",
+                  "coords": [
+                        85.239605,
+                        27.685757
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Un sanctuar dedicat zeității cu cap de elefant Ganesh, venerat în Chandragiri ca cel care înlătură obstacolele.",
+                  "category": "religious",
+                  "coords": [
+                        85.221865,
+                        27.693202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "overhanging deck viewpoint of Kathmandu valley & Himalayas",
+                  "text": "Observation deck providing panoramic views of the Kathmandu Valley and the Himalayan peaks.",
+                  "category": "natural",
+                  "coords": [
+                        85.229,
+                        27.65456
+                  ]
+            },
+            {
+                  "name": "Kisipide Sport Ground",
+                  "text": "Sports ground used for religious festivals and community gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        85.23838,
+                        27.685454
+                  ]
+            },
+            {
+                  "name": "Nawadurga mandir",
+                  "text": "Hindu temple dedicated to the nine forms of the goddess Durga.",
+                  "category": "landmark",
+                  "coords": [
+                        85.241527,
+                        27.687684
+                  ]
+            },
+            {
+                  "name": "Sano Mandir Gurjudhara",
+                  "text": "Small temple in the Gurjudhara area, a local spiritual center.",
+                  "category": "landmark",
+                  "coords": [
+                        85.243514,
+                        27.687445
+                  ]
+            },
+            {
+                  "name": "Shree Swasthani Temple and Narnarayan Baba Ashram",
+                  "text": "Hindu temple and ashram for spiritual retreats and religious studies.",
+                  "category": "landmark",
+                  "coords": [
+                        85.235833,
+                        27.682463
+                  ]
+            },
+            {
+                  "name": "Matatirtha Kunda",
+                  "text": "This sacred pond is a significant pilgrimage site, especially visited during the Nepalese Mother's Day festival.",
+                  "category": "landmark",
+                  "coords": [
+                        85.231069,
+                        27.679525
+                  ]
+            },
+            {
+                  "name": "Radha Krishna Mandir",
+                  "text": "A Hindu temple in Chandragiri dedicated to the divine love of Radha and Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        85.229103,
+                        27.686365
+                  ]
+            },
+            {
+                  "name": "Bhaleshwor Mahadev",
+                  "text": "This Shiva temple sits atop the Chandragiri Hill summit, offering expansive views of the Kathmandu Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        85.205475,
+                        27.666053
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "A traditional Hindu temple for Lord Krishna, frequented by the residents of Chandragiri.",
+                  "category": "landmark",
+                  "coords": [
+                        85.237275,
+                        27.684928
+                  ]
+            },
+            {
+                  "name": "Meeting Hall of Jehovah’s Witness",
+                  "text": "A modern Christian meeting place for the Jehovah’s Witness community in Chandragiri.",
+                  "category": "landmark",
+                  "coords": [
+                        85.239605,
+                        27.685757
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "A shrine dedicated to the elephant-headed deity Ganesh, worshipped in Chandragiri as the remover of obstacles.",
+                  "category": "religious",
+                  "coords": [
+                        85.221865,
+                        27.693202
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.22, 27.68],
@@ -1085,7 +3173,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "The Aquarium World",
-                  "text": "The Aquarium World ist ein lokales Aquarium in Tokha.",
+                  "text": "Aquarium World – Familienattraktion in Tokha.",
                   "category": "family",
                   "coords": [
                         85.335544,
@@ -1094,7 +3182,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Narayan Gopal Chowk",
-                  "text": "Narayan Gopal Chowk ist ein bemerkenswertes Denkmal in Tokha.",
+                  "text": "Narayan-Gopal-Platz, historischer Platz in Tokha, benannt nach dem nepalesischen Sänger.",
                   "category": "historical",
                   "coords": [
                         85.33707,
@@ -1103,7 +3191,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Er. Abeey Poudel Flat",
-                  "text": "Er. Abhiyan Poudel Flat ist eine Attraktion in Tokha.",
+                  "text": "Wohnung des Ingenieurs Abhiyan Poudel in Tokha.",
                   "category": "landmark",
                   "coords": [
                         85.339763,
@@ -1112,7 +3200,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Manamaiju Ajima Mai Temple ist eine religiöse Attraktion in Tokha.",
+                  "text": "Manamaiju-Ajima-Mai-Tempel in Tokha.",
                   "category": "landmark",
                   "coords": [
                         85.31214,
@@ -1121,7 +3209,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Destination Art Gallery",
-                  "text": "Destination Art Gallery ist eine Kunstgalerie in Tokha.",
+                  "text": "Destination Art Gallery – Kunstgalerie in Tokha.",
                   "category": "museum",
                   "coords": [
                         85.328886,
@@ -1130,7 +3218,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Johan Arts",
-                  "text": "Johan Arts ist ein Kunstzentrum in der Stadt Tokha.",
+                  "text": "Johan Arts – Kunstwerkstatt in Tokha.",
                   "category": "cultural",
                   "coords": [
                         85.321953,
@@ -1139,7 +3227,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Decoration and Fine Art Gallery",
-                  "text": "Decoration and Fine Art Gallery ist eine Galerie in Tokha.",
+                  "text": "Galerie für Dekoration und Bildende Kunst in Tokha.",
                   "category": "museum",
                   "coords": [
                         85.315746,
@@ -1150,7 +3238,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "The Aquarium World",
-                  "text": "A The Aquarium World egy helyi akvárium Tokha városában.",
+                  "text": "Aquarium World – családi látványosság Tokhában.",
                   "category": "family",
                   "coords": [
                         85.335544,
@@ -1159,7 +3247,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Narayan Gopal Chowk",
-                  "text": "A Narayan Gopal Chowk egy figyelemre méltó emlékmű Tokha városában.",
+                  "text": "Narayan Gopal tér, történelmi tér Tokhában, a nepáli énekesről elnevezve.",
                   "category": "historical",
                   "coords": [
                         85.33707,
@@ -1168,7 +3256,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Er. Abeey Poudel Flat",
-                  "text": "Az Er. Abhiyan Poudel Flat egy látványosság Tokha városában.",
+                  "text": "Abhiyan Poudel mérnök lakása Tokhában.",
                   "category": "landmark",
                   "coords": [
                         85.339763,
@@ -1177,7 +3265,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Manamaiju Ajima Mai Temple",
-                  "text": "A Manamaiju Ajima Mai Temple egy vallási látványosság Tokha városában.",
+                  "text": "Manamaiju Ajima Mai templom Tokhában.",
                   "category": "landmark",
                   "coords": [
                         85.31214,
@@ -1186,7 +3274,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Destination Art Gallery",
-                  "text": "A Destination Art Gallery egy művészeti galéria Tokha városában.",
+                  "text": "Destination Art Gallery – művészeti galéria Tokhában.",
                   "category": "museum",
                   "coords": [
                         85.328886,
@@ -1195,7 +3283,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Johan Arts",
-                  "text": "A Johan Arts egy művészeti központ Tokha városában.",
+                  "text": "Johan Arts – művészeti műhely Tokhában.",
                   "category": "cultural",
                   "coords": [
                         85.321953,
@@ -1204,7 +3292,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Decoration and Fine Art Gallery",
-                  "text": "A Decoration and Fine Art Gallery egy galéria Tokha városában.",
+                  "text": "Díszítő- és Képzőművészeti Galéria Tokhában.",
                   "category": "museum",
                   "coords": [
                         85.315746,
@@ -1215,7 +3303,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "The Aquarium World",
-                  "text": "The Aquarium World este un acvariu local situat în Tokha.",
+                  "text": "Aquarium World – atracție pentru familii în Tokha.",
                   "category": "family",
                   "coords": [
                         85.335544,
@@ -1224,7 +3312,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Narayan Gopal Chowk",
-                  "text": "Narayan Gopal Chowk este un monument notabil situat în Tokha.",
+                  "text": "Piața Narayan Gopal, piață istorică în Tokha, numită după cântărețul nepalez.",
                   "category": "historical",
                   "coords": [
                         85.33707,
@@ -1233,7 +3321,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Er. Abeey Poudel Flat",
-                  "text": "Er. Abhiyan Poudel Flat este o atracție aflată în Tokha.",
+                  "text": "Apartamentul inginerului Abhiyan Poudel din Tokha.",
                   "category": "landmark",
                   "coords": [
                         85.339763,
@@ -1242,7 +3330,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Manamaiju Ajima Mai Temple este o atracție religioasă situată în Tokha.",
+                  "text": "Templul Manamaiju Ajima Mai din Tokha.",
                   "category": "landmark",
                   "coords": [
                         85.31214,
@@ -1251,7 +3339,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Destination Art Gallery",
-                  "text": "Destination Art Gallery este o galerie de artă situată în Tokha.",
+                  "text": "Destination Art Gallery – galerie de artă în Tokha.",
                   "category": "museum",
                   "coords": [
                         85.328886,
@@ -1260,7 +3348,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Johan Arts",
-                  "text": "Johan Arts este un centru de arte aflat în orașul Tokha.",
+                  "text": "Johan Arts – atelier de artă în Tokha.",
                   "category": "cultural",
                   "coords": [
                         85.321953,
@@ -1269,7 +3357,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Decoration and Fine Art Gallery",
-                  "text": "Decoration and Fine Art Gallery este o galerie situată în Tokha.",
+                  "text": "Galerie de Decorație și Artă Fină în Tokha.",
                   "category": "museum",
                   "coords": [
                         85.315746,
@@ -1280,7 +3368,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "The Aquarium World",
-                  "text": "The Aquarium World is a local aquarium situated in Tokha.",
+                  "text": "The Aquarium World family attraction in Tokha.",
                   "category": "family",
                   "coords": [
                         85.335544,
@@ -1289,7 +3377,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Narayan Gopal Chowk",
-                  "text": "Narayan Gopal Chowk is a notable monument located in Tokha.",
+                  "text": "Narayan Gopal Chowk, a historical square in Tokha named after the Nepali singer.",
                   "category": "historical",
                   "coords": [
                         85.33707,
@@ -1298,7 +3386,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Er. Abhiyan Poudel Flat",
-                  "text": "Er. Abhiyan Poudel Flat is an attraction found in Tokha.",
+                  "text": "Engineer Abhiyan Poudel's flat in Tokha.",
                   "category": "landmark",
                   "coords": [
                         85.339763,
@@ -1307,7 +3395,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Manamaiju Ajima Mai Temple is a religious attraction situated in Tokha.",
+                  "text": "Manamaiju Ajima Mai Temple in Tokha.",
                   "category": "landmark",
                   "coords": [
                         85.31214,
@@ -1316,7 +3404,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Destination Art Gallery",
-                  "text": "Destination Art Gallery is an art gallery situated in Tokha.",
+                  "text": "Destination Art Gallery in Tokha.",
                   "category": "museum",
                   "coords": [
                         85.328886,
@@ -1325,7 +3413,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Johan Arts",
-                  "text": "Johan Arts is an arts centre found in the city of Tokha.",
+                  "text": "Johan Arts cultural workshop in Tokha.",
                   "category": "cultural",
                   "coords": [
                         85.321953,
@@ -1334,7 +3422,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Decoration and Fine Art Gallery",
-                  "text": "Decoration and Fine Art Gallery is a gallery located in Tokha.",
+                  "text": "Decoration and Fine Art Gallery in Tokha.",
                   "category": "museum",
                   "coords": [
                         85.315746,
@@ -1399,7 +3487,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Changu Museum",
-                  "text": "Das Changu Museum ist ein Museum in Kageshwari-Manohara.",
+                  "text": "Changu-Museum nahe dem Changu-Narayan-Tempel in Manohara.",
                   "category": "museum",
                   "coords": [
                         85.429241,
@@ -1417,7 +3505,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Gam Dhoka Park",
-                  "text": "Der Gam Dhoka Park ist ein Aussichtspunkt in Kageshwari-Manohara.",
+                  "text": "Gam Dhoka Park – Grünfläche in Manohara.",
                   "category": "natural",
                   "coords": [
                         85.426139,
@@ -1428,7 +3516,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Changu Museum",
-                  "text": "A Changu Museum egy múzeum Kageshwari-Manohara városában.",
+                  "text": "Changu Múzeum a Changu Narayan templom közelében Manoharában.",
                   "category": "museum",
                   "coords": [
                         85.429241,
@@ -1446,7 +3534,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Gam Dhoka Park",
-                  "text": "A Gam Dhoka Park egy kilátópont Kageshwari-Manohara területén.",
+                  "text": "Gam Dhoka Park – zöldterület Manoharában.",
                   "category": "natural",
                   "coords": [
                         85.426139,
@@ -1457,7 +3545,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Changu Museum",
-                  "text": "Changu Museum este un muzeu situat în Kageshwari-Manohara.",
+                  "text": "Muzeul Changu lângă templul Changu Narayan din Manohara.",
                   "category": "museum",
                   "coords": [
                         85.429241,
@@ -1475,7 +3563,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Gam Dhoka Park",
-                  "text": "Gam Dhoka Park este un punct de belvedere situat în Kageshwari-Manohara.",
+                  "text": "Parcul Gam Dhoka – spațiu verde în Manohara.",
                   "category": "natural",
                   "coords": [
                         85.426139,
@@ -1486,7 +3574,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Changu Museum",
-                  "text": "The Changu Museum is a museum situated in Kageshwari-Manohara.",
+                  "text": "Changu Museum near the Changu Narayan temple in Manohara.",
                   "category": "museum",
                   "coords": [
                         85.429241,
@@ -1504,7 +3592,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Gam Dhoka Park",
-                  "text": "Gam Dhoka Park is a viewpoint situated in Kageshwari-Manohara.",
+                  "text": "Gam Dhoka Park green space in Manohara.",
                   "category": "natural",
                   "coords": [
                         85.426139,
@@ -1618,7 +3706,916 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/bhimdatta-cities-v2.webp"},
   {
-    id: "mahalaxmi-cities-v2",
+    id: "mahalaxmi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "सुशानको घर",
+                  "text": "Aussichtspunkt mit Panoramablick über die grünen Hügel und das Kathmandu-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        85.357361,
+                        27.646152
+                  ]
+            },
+            {
+                  "name": "Dhaneshwar Temple",
+                  "text": "Historisches Hindu-Monument aus Stein, das dem Gott Shiva geweiht ist.",
+                  "category": "historical",
+                  "coords": [
+                        85.358017,
+                        27.648168
+                  ]
+            },
+            {
+                  "name": "shankhadevi mandir",
+                  "text": "Der Göttin Shankhadevi gewidmetes Bauwerk mit traditionellen Steinmetzarbeiten.",
+                  "category": "historical",
+                  "coords": [
+                        85.36618,
+                        27.630133
+                  ]
+            },
+            {
+                  "name": "Gaureteswor Mandir",
+                  "text": "Shiva-Tempel, der oft eine heilige Quelle oder einen Steinlingam beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.373597,
+                        27.642359
+                  ]
+            },
+            {
+                  "name": "महालक्ष्मी मन्दिर",
+                  "text": "Bedeutender Hindu-Tempel in Mahalaxmi für die Göttin des Wohlstands.",
+                  "category": "landmark",
+                  "coords": [
+                        85.37287,
+                        27.643483
+                  ]
+            },
+            {
+                  "name": "balkumari mandir",
+                  "text": "Traditioneller Newar-Tempel mit kunstvoll geschnitzten Holzfenstern und Türen.",
+                  "category": "landmark",
+                  "coords": [
+                        85.364413,
+                        27.647321
+                  ]
+            },
+            {
+                  "name": "Dharmeshwar Mahadev Temple",
+                  "text": "Ruhiger Hindu-Tempel für Shiva in einer ländlichen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        85.36519,
+                        27.664628
+                  ]
+            },
+            {
+                  "name": "हरिहरधाम बालकोट",
+                  "text": "Religiöser Komplex in Balkot mit Schreinen für Vishnu und Shiva gleichermaßen.",
+                  "category": "religious",
+                  "coords": [
+                        85.375991,
+                        27.660454
+                  ]
+            },
+            {
+                  "name": "घोप्टे ढुंगा",
+                  "text": "Einzigartige natürliche Felsformation oder Höhle, die als Hindu-Heiligtum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383657,
+                        27.651118
+                  ]
+            },
+            {
+                  "name": "सिरुतार मन्दिर",
+                  "text": "Hinduistischer Tempel im Dorf Sirutar, der als soziales und religiönes Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.384926,
+                        27.649357
+                  ]
+            },
+            {
+                  "name": "Siddhi Ganesh Mandir",
+                  "text": "Dem „Bringer des Erfolgs“ gewidmeter Tempel mit einer markanten Ganesh-Statue.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385003,
+                        27.645859
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "Einfache hinduistische Gebetsstätte mit einem Lingam als Symbol für Lord Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        85.350159,
+                        27.654398
+                  ]
+            },
+            {
+                  "name": "राधा कृष्ण मन्दिर",
+                  "text": "Hindu-Tempel für Radha und Krishna, in dem oft abendliche Gesänge stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        85.35532,
+                        27.664963
+                  ]
+            },
+            {
+                  "name": "Bishwanath Mahadev Temple",
+                  "text": "Shiva-Tempel mit einem Innenhof, der zahlreiche kleine Nebenschreine beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.362338,
+                        27.666884
+                  ]
+            },
+            {
+                  "name": "Shri Siddhimangal Buddha Bihar",
+                  "text": "Newari-buddhistisches Kloster mit einem Innenhof und einer zentralen Buddha-Statue.",
+                  "category": "landmark",
+                  "coords": [
+                        85.360614,
+                        27.644104
+                  ]
+            },
+            {
+                  "name": "bhaisab ganesh mandir",
+                  "text": "Hindu-Heiligtum für Ganesh und Bhairab, eine typische Kombination in Newar-Städten.",
+                  "category": "landmark",
+                  "coords": [
+                        85.356354,
+                        27.647126
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Viertel-Tempel für Ganesh, in dem täglich Rituale für Glück und Erfolg stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        85.355145,
+                        27.649381
+                  ]
+            },
+            {
+                  "name": "GANESH Mandir",
+                  "text": "Kleiner, traditioneller Backsteintempel für den elefantenköpfigen Gott Ganesh.",
+                  "category": "religious",
+                  "coords": [
+                        85.348692,
+                        27.622676
+                  ]
+            },
+            {
+                  "name": "Devisthan",
+                  "text": "Hinduistischer Schrein im Freien für eine lokale Muttergöttin (Devi).",
+                  "category": "landmark",
+                  "coords": [
+                        85.37863,
+                        27.641459
+                  ]
+            },
+            {
+                  "name": "Shri Harisiddhi Bhawani",
+                  "text": "Historische dreistöckige Pagode, berühmt für ihre rituellen Maskentänze.",
+                  "category": "landmark",
+                  "coords": [
+                        85.340402,
+                        27.636936
+                  ]
+            },
+            {
+                  "name": "Faith Methodist Church",
+                  "text": "Protestantische Kirche in Mahalaxmi mit regelmäßigen Gottesdiensten für die Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        85.338069,
+                        27.640239
+                  ]
+            },
+            {
+                  "name": "Moteshwor Temple",
+                  "text": "Hinduistisches Heiligtum in den ruhigen Hügeln des Kathmandu-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        85.361074,
+                        27.666561
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Hindu-Tempel, der dem elefantenköpfigen Gott Ganesh gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363133,
+                        27.640682
+                  ]
+            },
+            {
+                  "name": "Muktinath Temple",
+                  "text": "Ein lokaler Hindu-Tempel, der nach dem berühmten Muktinath-Heiligtum benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363553,
+                        27.622609
+                  ]
+            },
+            {
+                  "name": "RAM MANDIR",
+                  "text": "Hinduistischer Tempel, der dem Gott Rama gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.340314,
+                        27.633537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "सुशानको घर",
+                  "text": "Kilátópont panorámás kilátással a környező zöld dombokra és a Katmandu-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        85.357361,
+                        27.646152
+                  ]
+            },
+            {
+                  "name": "Dhaneshwar Temple",
+                  "text": "Kőből épült hindu műemlék templom, amelyet Siva istennek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        85.358017,
+                        27.648168
+                  ]
+            },
+            {
+                  "name": "shankhadevi mandir",
+                  "text": "Sankhadévi istennőnek szentelt építmény hagyományos kőfaragványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        85.36618,
+                        27.630133
+                  ]
+            },
+            {
+                  "name": "Gaureteswor Mandir",
+                  "text": "Siva-templom, amely gyakran egy szent forrásnak vagy kő lingamnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        85.373597,
+                        27.642359
+                  ]
+            },
+            {
+                  "name": "महालक्ष्मी मन्दिर",
+                  "text": "Mahalaxmi jelentős hindu temploma, amelyet a bőség istennőjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.37287,
+                        27.643483
+                  ]
+            },
+            {
+                  "name": "balkumari mandir",
+                  "text": "Hagyományos Newar templom díszesen faragott faablakokkal és ajtókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        85.364413,
+                        27.647321
+                  ]
+            },
+            {
+                  "name": "Dharmeshwar Mahadev Temple",
+                  "text": "Csendes hindu Siva-templom nyugodt lakó- vagy vidéki környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.36519,
+                        27.664628
+                  ]
+            },
+            {
+                  "name": "हरिहरधाम बालकोट",
+                  "text": "Vallási komplexum Balkotban Visnu és Siva közös tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        85.375991,
+                        27.660454
+                  ]
+            },
+            {
+                  "name": "घोप्टे ढुंगा",
+                  "text": "Egyedi természetes sziklaformáció vagy barlang, amely hindu szentélyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383657,
+                        27.651118
+                  ]
+            },
+            {
+                  "name": "सिरुतार मन्दिर",
+                  "text": "Sirutar falu hindu temploma, amely közösségi és vallási központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        85.384926,
+                        27.649357
+                  ]
+            },
+            {
+                  "name": "Siddhi Ganesh Mandir",
+                  "text": "A „siker hozójának” szentelt templom egy jellegzetes Ganésa-szoborral.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385003,
+                        27.645859
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "Egyszerű hindu szentély Siva urat jelképező kő lingammal.",
+                  "category": "landmark",
+                  "coords": [
+                        85.350159,
+                        27.654398
+                  ]
+            },
+            {
+                  "name": "राधा कृष्ण मन्दिर",
+                  "text": "Radha-Krisna hindu templom, ahol gyakran tartanak esti vallási énekeket.",
+                  "category": "landmark",
+                  "coords": [
+                        85.35532,
+                        27.664963
+                  ]
+            },
+            {
+                  "name": "Bishwanath Mahadev Temple",
+                  "text": "Siva-templom egy belső udvarral, amely számos kisebb mellékszentélyt rejt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.362338,
+                        27.666884
+                  ]
+            },
+            {
+                  "name": "Shri Siddhimangal Buddha Bihar",
+                  "text": "Newari buddhista kolostor udvarral és egy központi Buddha-szoborral.",
+                  "category": "landmark",
+                  "coords": [
+                        85.360614,
+                        27.644104
+                  ]
+            },
+            {
+                  "name": "bhaisab ganesh mandir",
+                  "text": "Ganésának és Bhairabnak szentelt kettős szentély, amely jellemző a Newar városokra.",
+                  "category": "landmark",
+                  "coords": [
+                        85.356354,
+                        27.647126
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Ganésa-szomszédsági templom, ahol napi rituálékat végeznek a jó szerencséért.",
+                  "category": "landmark",
+                  "coords": [
+                        85.355145,
+                        27.649381
+                  ]
+            },
+            {
+                  "name": "GANESH Mandir",
+                  "text": "Kisméretű, hagyományos téglaépítésű templom az elefántfejű Ganésa istennek.",
+                  "category": "religious",
+                  "coords": [
+                        85.348692,
+                        27.622676
+                  ]
+            },
+            {
+                  "name": "Devisthan",
+                  "text": "Szabadtéri hindu szentély, amelyet egy helyi anyaistennőnek (Dévi) szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.37863,
+                        27.641459
+                  ]
+            },
+            {
+                  "name": "Shri Harisiddhi Bhawani",
+                  "text": "Történelmi háromszintes pagoda templom, híres rituális maszkos táncairól.",
+                  "category": "landmark",
+                  "coords": [
+                        85.340402,
+                        27.636936
+                  ]
+            },
+            {
+                  "name": "Faith Methodist Church",
+                  "text": "Protestáns templom Mahalaxmiban, amely rendszeres istentiszteleteket tart.",
+                  "category": "landmark",
+                  "coords": [
+                        85.338069,
+                        27.640239
+                  ]
+            },
+            {
+                  "name": "Moteshwor Temple",
+                  "text": "Hindu szentély a Katmandu-völgy nyugodt dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        85.361074,
+                        27.666561
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Az elefántfejű Ganésa istennek szentelt hindu templom.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363133,
+                        27.640682
+                  ]
+            },
+            {
+                  "name": "Muktinath Temple",
+                  "text": "A híres muktinathi szentélyről elnevezett helyi hindu templom.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363553,
+                        27.622609
+                  ]
+            },
+            {
+                  "name": "RAM MANDIR",
+                  "text": "Ráma istennek szentelt hindu templom.",
+                  "category": "landmark",
+                  "coords": [
+                        85.340314,
+                        27.633537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "सुशानको घर",
+                  "text": "Punct de observație care oferă vederi panoramice peste dealurile verzi și Valea Kathmandu.",
+                  "category": "natural",
+                  "coords": [
+                        85.357361,
+                        27.646152
+                  ]
+            },
+            {
+                  "name": "Dhaneshwar Temple",
+                  "text": "Monument hindu din piatră dedicat zeului Shiva în zona Mahalaxmi.",
+                  "category": "historical",
+                  "coords": [
+                        85.358017,
+                        27.648168
+                  ]
+            },
+            {
+                  "name": "shankhadevi mandir",
+                  "text": "Edificiu dedicat zeiței Shankhadevi, decorat cu sculpturi tradiționale în piatră.",
+                  "category": "historical",
+                  "coords": [
+                        85.36618,
+                        27.630133
+                  ]
+            },
+            {
+                  "name": "Gaureteswor Mandir",
+                  "text": "Templu dedicat lui Shiva, care adăpostește adesea un izvor sfânt sau un lingam.",
+                  "category": "landmark",
+                  "coords": [
+                        85.373597,
+                        27.642359
+                  ]
+            },
+            {
+                  "name": "महालक्ष्मी मन्दिर",
+                  "text": "Templu hindu proeminent în Mahalaxmi, dedicat zeiței bogăției și prosperității.",
+                  "category": "landmark",
+                  "coords": [
+                        85.37287,
+                        27.643483
+                  ]
+            },
+            {
+                  "name": "balkumari mandir",
+                  "text": "Templu tradițional Newar cu ferestre și uși din lemn sculptat manual.",
+                  "category": "landmark",
+                  "coords": [
+                        85.364413,
+                        27.647321
+                  ]
+            },
+            {
+                  "name": "Dharmeshwar Mahadev Temple",
+                  "text": "Templu hindu liniștit dedicat lui Shiva, situat într-un cadru rural relaxant.",
+                  "category": "landmark",
+                  "coords": [
+                        85.36519,
+                        27.664628
+                  ]
+            },
+            {
+                  "name": "हरिहरधाम बालकोट",
+                  "text": "Complex religios în Balkot cu altare dedicate atât lui Vishnu, cât și lui Shiva.",
+                  "category": "religious",
+                  "coords": [
+                        85.375991,
+                        27.660454
+                  ]
+            },
+            {
+                  "name": "घोप्टे ढुंगा",
+                  "text": "Formațiune stâncoasă naturală unică sau peșteră utilizată ca altar hindu.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383657,
+                        27.651118
+                  ]
+            },
+            {
+                  "name": "सिरुतार मन्दिर",
+                  "text": "Templu hindu din satul Sirutar, care servește ca centru social și religios.",
+                  "category": "landmark",
+                  "coords": [
+                        85.384926,
+                        27.649357
+                  ]
+            },
+            {
+                  "name": "Siddhi Ganesh Mandir",
+                  "text": "Templu dedicat „aducătorului de succes”, cu o statuie distinctă a lui Ganesh.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385003,
+                        27.645859
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "Loc simplu de rugăciune hindu cu un lingam de piatră reprezentându-l pe Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        85.350159,
+                        27.654398
+                  ]
+            },
+            {
+                  "name": "राधा कृष्ण मन्दिर",
+                  "text": "Templu hindu dedicat lui Radha și Krishna, unde se țin cântări devoționale.",
+                  "category": "landmark",
+                  "coords": [
+                        85.35532,
+                        27.664963
+                  ]
+            },
+            {
+                  "name": "Bishwanath Mahadev Temple",
+                  "text": "Templu dedicat lui Shiva cu o curte interioară ce adăpostește mai multe altare mici.",
+                  "category": "landmark",
+                  "coords": [
+                        85.362338,
+                        27.666884
+                  ]
+            },
+            {
+                  "name": "Shri Siddhimangal Buddha Bihar",
+                  "text": "Mănăstire budistă Newari cu o curte și o statuie centrală a lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.360614,
+                        27.644104
+                  ]
+            },
+            {
+                  "name": "bhaisab ganesh mandir",
+                  "text": "Altar hindu dublu pentru Ganesh și Bhairab, tipic orașelor Newar din vale.",
+                  "category": "landmark",
+                  "coords": [
+                        85.356354,
+                        27.647126
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Templu de cartier pentru Ganesh, unde se fac ritualuri zilnice pentru noroc.",
+                  "category": "landmark",
+                  "coords": [
+                        85.355145,
+                        27.649381
+                  ]
+            },
+            {
+                  "name": "GANESH Mandir",
+                  "text": "Templu tradițional mic din cărămidă dedicat zeului cu cap de elefant, Ganesh.",
+                  "category": "religious",
+                  "coords": [
+                        85.348692,
+                        27.622676
+                  ]
+            },
+            {
+                  "name": "Devisthan",
+                  "text": "Altar hindu în aer liber dedicat unei zeițe mamă locale (Devi).",
+                  "category": "landmark",
+                  "coords": [
+                        85.37863,
+                        27.641459
+                  ]
+            },
+            {
+                  "name": "Shri Harisiddhi Bhawani",
+                  "text": "Templu pagodă istoric cu trei etaje, faimos pentru dansurile rituale cu măști.",
+                  "category": "landmark",
+                  "coords": [
+                        85.340402,
+                        27.636936
+                  ]
+            },
+            {
+                  "name": "Faith Methodist Church",
+                  "text": "Biserică protestantă în Mahalaxmi care oferă servicii religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        85.338069,
+                        27.640239
+                  ]
+            },
+            {
+                  "name": "Moteshwor Temple",
+                  "text": "Sanctuar hindu situat în dealurile liniștite ale văii Kathmandu.",
+                  "category": "landmark",
+                  "coords": [
+                        85.361074,
+                        27.666561
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Templu hindu dedicat zeului cu cap de elefant, Ganesh.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363133,
+                        27.640682
+                  ]
+            },
+            {
+                  "name": "Muktinath Temple",
+                  "text": "Un templu hindu local numit după faimosul sanctuar Muktinath.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363553,
+                        27.622609
+                  ]
+            },
+            {
+                  "name": "RAM MANDIR",
+                  "text": "Templu hindu dedicat zeului Rama.",
+                  "category": "landmark",
+                  "coords": [
+                        85.340314,
+                        27.633537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Susan Ko Ghar",
+                  "text": "A hilltop viewpoint offering panoramic vistas of the surrounding green hills and Kathmandu Valley.",
+                  "category": "natural",
+                  "coords": [
+                        85.357361,
+                        27.646152
+                  ]
+            },
+            {
+                  "name": "Dhaneshwar Temple",
+                  "text": "A stone-built Hindu monument or temple dedicated to Lord Shiva in the Mahalaxmi area.",
+                  "category": "historical",
+                  "coords": [
+                        85.358017,
+                        27.648168
+                  ]
+            },
+            {
+                  "name": "shankhadevi mandir",
+                  "text": "A religious structure dedicated to the goddess Shankhadevi, featuring traditional stone carvings.",
+                  "category": "historical",
+                  "coords": [
+                        85.36618,
+                        27.630133
+                  ]
+            },
+            {
+                  "name": "Gaureteswor Mandir",
+                  "text": "A Hindu temple dedicated to Shiva, often housing a sacred spring or a stone lingam.",
+                  "category": "landmark",
+                  "coords": [
+                        85.373597,
+                        27.642359
+                  ]
+            },
+            {
+                  "name": "Maha laxmi temple",
+                  "text": "A prominent Hindu temple in Mahalaxmi dedicated to the goddess of wealth and prosperity.",
+                  "category": "landmark",
+                  "coords": [
+                        85.37287,
+                        27.643483
+                  ]
+            },
+            {
+                  "name": "balkumari mandir",
+                  "text": "A traditional Newar temple featuring intricately hand-carved wooden windows and doors.",
+                  "category": "landmark",
+                  "coords": [
+                        85.364413,
+                        27.647321
+                  ]
+            },
+            {
+                  "name": "Dharmeshwar Mahadev Temple",
+                  "text": "A peaceful Hindu temple dedicated to Shiva, situated in a quiet rural or residential setting.",
+                  "category": "landmark",
+                  "coords": [
+                        85.36519,
+                        27.664628
+                  ]
+            },
+            {
+                  "name": "Harihardham Balkot",
+                  "text": "A religious complex in Balkot housing shrines for both Vishnu (Hari) and Shiva (Hara).",
+                  "category": "religious",
+                  "coords": [
+                        85.375991,
+                        27.660454
+                  ]
+            },
+            {
+                  "name": "Ghopte Dhunga",
+                  "text": "A unique natural rock formation or cave used as a local Hindu shrine.",
+                  "category": "landmark",
+                  "coords": [
+                        85.383657,
+                        27.651118
+                  ]
+            },
+            {
+                  "name": "Sirutar Temple",
+                  "text": "A community Hindu temple in the Sirutar village area, serving as a social and religious hub.",
+                  "category": "landmark",
+                  "coords": [
+                        85.384926,
+                        27.649357
+                  ]
+            },
+            {
+                  "name": "Siddhi Ganesh Mandir",
+                  "text": "A temple dedicated to the \"bestower of success,\" featuring a distinct idol of Lord Ganesh.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385003,
+                        27.645859
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "A simple Hindu place of worship with a stone lingam representing the deity Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        85.350159,
+                        27.654398
+                  ]
+            },
+            {
+                  "name": "Radha Krishna Mandir",
+                  "text": "A Hindu temple dedicated to Radha and Krishna, often hosting evening bhajans and kirtans.",
+                  "category": "landmark",
+                  "coords": [
+                        85.35532,
+                        27.664963
+                  ]
+            },
+            {
+                  "name": "Bishwanath Mahadev Temple",
+                  "text": "A Shiva temple featuring a courtyard with multiple small shrines and stone sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        85.362338,
+                        27.666884
+                  ]
+            },
+            {
+                  "name": "Shri Siddhimangal Buddha Bihar",
+                  "text": "A Newari Buddhist monastery with a central courtyard and a prominent Buddha statue.",
+                  "category": "landmark",
+                  "coords": [
+                        85.360614,
+                        27.644104
+                  ]
+            },
+            {
+                  "name": "Ganesh & Bhairab Temple",
+                  "text": "A dual-deity Hindu shrine common in Newar towns, housing both Ganesh and the fierce Bhairab.",
+                  "category": "landmark",
+                  "coords": [
+                        85.356354,
+                        27.647126
+                  ]
+            },
+            {
+                  "name": "Ganash Mandir",
+                  "text": "A neighborhood Hindu temple for Ganesh, where locals perform daily rituals for good fortune.",
+                  "category": "landmark",
+                  "coords": [
+                        85.355145,
+                        27.649381
+                  ]
+            },
+            {
+                  "name": "GANESH Mandir",
+                  "text": "A small, traditional brick temple dedicated to the elephant-headed deity Ganesh.",
+                  "category": "religious",
+                  "coords": [
+                        85.348692,
+                        27.622676
+                  ]
+            },
+            {
+                  "name": "Devisthan",
+                  "text": "An open-air or sheltered Hindu shrine dedicated to a local mother goddess (Devi).",
+                  "category": "landmark",
+                  "coords": [
+                        85.37863,
+                        27.641459
+                  ]
+            },
+            {
+                  "name": "Shri Harisiddhi Bhawani",
+                  "text": "A historic three-tiered pagoda temple famous for its ancient ritual mask dances and Newar art.",
+                  "category": "landmark",
+                  "coords": [
+                        85.340402,
+                        27.636936
+                  ]
+            },
+            {
+                  "name": "Faith Methodist Church",
+                  "text": "A Protestant church in Mahalaxmi providing regular religious services for the local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        85.338069,
+                        27.640239
+                  ]
+            },
+            {
+                  "name": "Moteshwor Temple",
+                  "text": "Hindu shrine located in the tranquil hills of the Kathmandu Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        85.361074,
+                        27.666561
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Hindu temple dedicated to the elephant-headed deity, Ganesh.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363133,
+                        27.640682
+                  ]
+            },
+            {
+                  "name": "Muktinath Temple",
+                  "text": "A local Hindu temple named after the famous Muktinath sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363553,
+                        27.622609
+                  ]
+            },
+            {
+                  "name": "RAM MANDIR",
+                  "text": "Hindu temple dedicated to Lord Rama.",
+                  "category": "landmark",
+                  "coords": [
+                        85.340314,
+                        27.633537
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.36, 27.64],
@@ -1671,7 +4668,664 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/mahalaxmi-cities-v2.webp"},
   {
-    id: "madhyapur-thimi-cities-v2", "sights": {"de": [{"name": "Kausaltar Aquarium House", "text": "Kausaltar Aquarium House ist ein Aquarium in Madhyapur Thimi.", "category": "family", "coords": [85.365199, 27.674145]}, {"name": "Xemadevi Light House Pvt.Ltd", "text": "Das Xemadevi Light House Pvt.Ltd ist ein Leuchtturm in Madhyapur Thimi.", "category": "landmark", "coords": [85.363454, 27.674852]}, {"name": "PROPOSED SITE", "text": "Ein geplanter Strandabschnitt in Madhyapur Thimi.", "category": "recreational", "coords": [85.378142, 27.680387]}, {"name": "Namuna Park", "text": "Ein Freizeitpark in der Stadt Madhyapur Thimi.", "category": "family", "coords": [85.363913, 27.688741]}, {"name": "शंखधर शाख्वा", "text": "Ein Denkmal, das Shankhadar Shakwa in Madhyapur Thimi gewidmet ist.", "category": "historical", "coords": [85.385278, 27.673487]}, {"name": "Rames", "text": "Ein malerischer Aussichtspunkt in Madhyapur Thimi.", "category": "natural", "coords": [85.387072, 27.674967]}, {"name": "Barudkhana", "text": "Das in Madhyapur Thimi gelegene Barudkhana dient als natürlicher Aussichtspunkt, um die nepalesische Umgebung zu betrachten. Besucher, die zu diesem Aussichtspunkt hinaufsteigen, können einen ruhigen Moment genießen, während sie über das lokale Gelände blicken.", "category": "natural", "coords": [85.410312, 27.682569]}, {"name": "Shakhal Basti", "text": "Ein Aussichtspunkt in Madhyapur Thimi.", "category": "natural", "coords": [85.407476, 27.678179]}, {"name": "Dandipakha", "text": "Ein lokaler Aussichtspunkt in der Stadt Madhyapur Thimi.", "category": "natural", "coords": [85.408941, 27.682023]}, {"name": "विद्यागणेश", "text": "Ein lokales Denkmal in Madhyapur Thimi.", "category": "historical", "coords": [85.386511, 27.681793]}, {"name": "Gankhu dharamapur dol", "text": "Eine lokale Sehenswürdigkeit in Madhyapur Thimi.", "category": "landmark", "coords": [85.394766, 27.68612]}, {"name": "Shree Krishna Rice Mill", "text": "Eine Mühlenattraktion in Madhyapur Thimi.", "category": "landmark", "coords": [85.390755, 27.682191]}, {"name": "Balkumari Temple", "text": "Eine bemerkenswerte Tempelattraktion in Madhyapur Thimi.", "category": "landmark", "coords": [85.385314, 27.675947]}, {"name": "Dhungedhara", "text": "Eine traditionelle Wasserspeier-Attraktion in Madhyapur Thimi.", "category": "landmark", "coords": [85.385027, 27.674715]}, {"name": "Siwa Tole", "text": "Eine Touristenattraktion in Madhyapur Thimi.", "category": "landmark", "coords": [85.386721, 27.677749]}, {"name": "Nigu Pukhu", "text": "Ein traditioneller Teich und eine Sehenswürdigkeit in Madhyapur Thimi.", "category": "landmark", "coords": [85.385638, 27.678356]}, {"name": "Dil Ceramics", "text": "Ein Kunstzentrum für Keramik in Madhyapur Thimi.", "category": "cultural", "coords": [85.391802, 27.68188]}, {"name": "Birendra Chwok", "text": "Ein lokales Denkmal in Madhyapur Thimi.", "category": "historical", "coords": [85.373972, 27.698721]}], "hu": [{"name": "Kausaltar Aquarium House", "text": "A Kausaltar Aquarium House egy akvárium Madhyapur Thimiben.", "category": "family", "coords": [85.365199, 27.674145]}, {"name": "Xemadevi Light House Pvt.Ltd", "text": "A Xemadevi Light House Pvt.Ltd egy világítótorony Madhyapur Thimiben.", "category": "landmark", "coords": [85.363454, 27.674852]}, {"name": "PROPOSED SITE", "text": "Egy tervezett strand helyszíne Madhyapur Thimi városában.", "category": "recreational", "coords": [85.378142, 27.680387]}, {"name": "Namuna Park", "text": "Egy vidámpark Madhyapur Thimi városában.", "category": "family", "coords": [85.363913, 27.688741]}, {"name": "शंखधर शाख्वा", "text": "Shankhadar Shakwa emlékműve Madhyapur Thimi városában.", "category": "historical", "coords": [85.385278, 27.673487]}, {"name": "Rames", "text": "Egy festői kilátó Madhyapur Thimi városában.", "category": "natural", "coords": [85.387072, 27.674967]}, {"name": "Barudkhana", "text": "A Madhyapur Thimiben található Barudkhana természetes kilátópontként szolgál a nepáli környezet megfigyelésére. A kilátóponthoz felmászó látogatók békés pillanatokat élhetnek át, miközben végigtekintek a helyi terepen.", "category": "natural", "coords": [85.410312, 27.682569]}, {"name": "Shakhal Basti", "text": "Egy kilátópont Madhyapur Thimi területén.", "category": "natural", "coords": [85.407476, 27.678179]}, {"name": "Dandipakha", "text": "Egy helyi kilátó Madhyapur Thimi városában.", "category": "natural", "coords": [85.408941, 27.682023]}, {"name": "विद्यागणेश", "text": "Egy helyi emlékmű Madhyapur Thimi városában.", "category": "historical", "coords": [85.386511, 27.681793]}, {"name": "Gankhu dharamapur dol", "text": "Egy helyi látványosság Madhyapur Thimi városában.", "category": "landmark", "coords": [85.394766, 27.68612]}, {"name": "Shree Krishna Rice Mill", "text": "Egy malom látványosság Madhyapur Thimi városában.", "category": "landmark", "coords": [85.390755, 27.682191]}, {"name": "Balkumari Temple", "text": "Egy figyelemre méltó templom Madhyapur Thimi városában.", "category": "landmark", "coords": [85.385314, 27.675947]}, {"name": "Dhungedhara", "text": "Egy hagyományos vízköpő látványosság Madhyapur Thimi városában.", "category": "landmark", "coords": [85.385027, 27.674715]}, {"name": "Siwa Tole", "text": "Egy turisztikai látványosság Madhyapur Thimi városában.", "category": "landmark", "coords": [85.386721, 27.677749]}, {"name": "Nigu Pukhu", "text": "Egy hagyományos tó és látványosság Madhyapur Thimi városában.", "category": "landmark", "coords": [85.385638, 27.678356]}, {"name": "Dil Ceramics", "text": "Egy kerámiával foglalkozó művészeti központ Madhyapur Thimi városában.", "category": "cultural", "coords": [85.391802, 27.68188]}, {"name": "Birendra Chwok", "text": "Egy helyi emlékmű Madhyapur Thimi városában.", "category": "historical", "coords": [85.373972, 27.698721]}], "ro": [{"name": "Kausaltar Aquarium House", "text": "Kausaltar Aquarium House este un acvariu situat în Madhyapur Thimi.", "category": "family", "coords": [85.365199, 27.674145]}, {"name": "Xemadevi Light House Pvt.Ltd", "text": "Xemadevi Light House Pvt.Ltd este un far din Madhyapur Thimi.", "category": "landmark", "coords": [85.363454, 27.674852]}, {"name": "PROPOSED SITE", "text": "Un loc propus pentru plajă, situat în Madhyapur Thimi.", "category": "recreational", "coords": [85.378142, 27.680387]}, {"name": "Namuna Park", "text": "Un parc de distracții situat în orașul Madhyapur Thimi.", "category": "family", "coords": [85.363913, 27.688741]}, {"name": "शंखधर शाख्वा", "text": "Un monument dedicat lui Shankhadar Shakwa în Madhyapur Thimi.", "category": "historical", "coords": [85.385278, 27.673487]}, {"name": "Rames", "text": "Un punct de belvedere pitoresc situat în Madhyapur Thimi.", "category": "natural", "coords": [85.387072, 27.674967]}, {"name": "Barudkhana", "text": "Situat în Madhyapur Thimi, Barudkhana funcționează ca un punct de belvedere natural pentru observarea împrejurimilor nepaleze. Vizitatorii care urcă la acest punct de observație se pot bucura de un moment de liniște privind peste terenul local.", "category": "natural", "coords": [85.410312, 27.682569]}, {"name": "Shakhal Basti", "text": "O zonă de belvedere situată în Madhyapur Thimi.", "category": "natural", "coords": [85.407476, 27.678179]}, {"name": "Dandipakha", "text": "Un punct de belvedere local situat în orașul Madhyapur Thimi.", "category": "natural", "coords": [85.408941, 27.682023]}, {"name": "विद्यागणेश", "text": "Un monument local situat în Madhyapur Thimi.", "category": "historical", "coords": [85.386511, 27.681793]}, {"name": "Gankhu dharamapur dol", "text": "O atracție locală situată în Madhyapur Thimi.", "category": "landmark", "coords": [85.394766, 27.68612]}, {"name": "Shree Krishna Rice Mill", "text": "O atracție de tip moară situată în Madhyapur Thimi.", "category": "landmark", "coords": [85.390755, 27.682191]}, {"name": "Balkumari Temple", "text": "Un templu notabil situat în Madhyapur Thimi.", "category": "landmark", "coords": [85.385314, 27.675947]}, {"name": "Dhungedhara", "text": "O atracție tradițională cu jet de apă în Madhyapur Thimi.", "category": "landmark", "coords": [85.385027, 27.674715]}, {"name": "Siwa Tole", "text": "O atracție turistică situată în Madhyapur Thimi.", "category": "landmark", "coords": [85.386721, 27.677749]}, {"name": "Nigu Pukhu", "text": "Un iaz tradițional și o atracție în Madhyapur Thimi.", "category": "landmark", "coords": [85.385638, 27.678356]}, {"name": "Dil Ceramics", "text": "Un centru de arte axat pe ceramică în Madhyapur Thimi.", "category": "cultural", "coords": [85.391802, 27.68188]}, {"name": "Birendra Chwok", "text": "Un monument local situat în Madhyapur Thimi.", "category": "historical", "coords": [85.373972, 27.698721]}], "en": [{"name": "Kausaltar Aquarium House", "text": "Kausaltar Aquarium House is an aquarium located in Madhyapur Thimi.", "category": "family", "coords": [85.365199, 27.674145]}, {"name": "Xemadevi Light House Pvt.Ltd", "text": "Xemadevi Light House Pvt.Ltd is a lighthouse in Madhyapur Thimi.", "category": "landmark", "coords": [85.363454, 27.674852]}, {"name": "PROPOSED SITE", "text": "A proposed beach site located in Madhyapur Thimi.", "category": "recreational", "coords": [85.378142, 27.680387]}, {"name": "Namuna Park", "text": "A theme park located in the city of Madhyapur Thimi.", "category": "family", "coords": [85.363913, 27.688741]}, {"name": "Shankhadar Shakwa statue", "text": "A monument dedicated to Shankhadar Shakwa in Madhyapur Thimi.", "category": "historical", "coords": [85.385278, 27.673487]}, {"name": "Rames", "text": "A scenic viewpoint situated in Madhyapur Thimi.", "category": "natural", "coords": [85.387072, 27.674967]}, {"name": "Barudkhana", "text": "Positioned in Madhyapur Thimi, Barudkhana functions as a natural viewpoint for observing the Nepalese surroundings. Visitors climbing to this vantage point can enjoy a peaceful moment looking out over the local terrain.", "category": "natural", "coords": [85.410312, 27.682569]}, {"name": "Shakhal Basti", "text": "A viewpoint area located in Madhyapur Thimi.", "category": "natural", "coords": [85.407476, 27.678179]}, {"name": "Dandipakha", "text": "A local viewpoint situated in the city of Madhyapur Thimi.", "category": "natural", "coords": [85.408941, 27.682023]}, {"name": "Vidhyaganesh", "text": "A local monument situated in Madhyapur Thimi.", "category": "historical", "coords": [85.386511, 27.681793]}, {"name": "Gankhu dharamapur dol", "text": "A local attraction located in Madhyapur Thimi.", "category": "landmark", "coords": [85.394766, 27.68612]}, {"name": "Shree Krishna Rice Mill", "text": "A mill attraction situated in Madhyapur Thimi.", "category": "landmark", "coords": [85.390755, 27.682191]}, {"name": "Balkumari Temple", "text": "A notable temple attraction located in Madhyapur Thimi.", "category": "landmark", "coords": [85.385314, 27.675947]}, {"name": "Dhungedhara", "text": "A traditional water spout attraction in Madhyapur Thimi.", "category": "landmark", "coords": [85.385027, 27.674715]}, {"name": "Siwa Tole", "text": "A tourist attraction situated in Madhyapur Thimi.", "category": "landmark", "coords": [85.386721, 27.677749]}, {"name": "Nigu Pukhu", "text": "A traditional pond and attraction in Madhyapur Thimi.", "category": "landmark", "coords": [85.385638, 27.678356]}, {"name": "Dil Ceramics", "text": "An arts centre focused on ceramics in Madhyapur Thimi.", "category": "cultural", "coords": [85.391802, 27.68188]}, {"name": "Birendra Chwok", "text": "A local monument situated in Madhyapur Thimi.", "category": "historical", "coords": [85.373972, 27.698721]}]},
+    id: "madhyapur-thimi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kausaltar Aquarium House",
+                  "text": "Kausaltar Aquarium House – Aquarium in Thimi.",
+                  "category": "family",
+                  "coords": [
+                        85.365199,
+                        27.674145
+                  ]
+            },
+            {
+                  "name": "Xemadevi Light House Pvt.Ltd",
+                  "text": "Privater Leuchtturm Xemadevi in Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363454,
+                        27.674852
+                  ]
+            },
+            {
+                  "name": "PROPOSED SITE",
+                  "text": "Geplante Freizeitanlage in Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.378142,
+                        27.680387
+                  ]
+            },
+            {
+                  "name": "Namuna Park",
+                  "text": "Namuna Park – familienfreundlicher Park in Thimi.",
+                  "category": "family",
+                  "coords": [
+                        85.363913,
+                        27.688741
+                  ]
+            },
+            {
+                  "name": "शंखधर शाख्वा",
+                  "text": "Ein Denkmal, das Shankhadar Shakwa in Madhyapur Thimi gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        85.385278,
+                        27.673487
+                  ]
+            },
+            {
+                  "name": "Rames",
+                  "text": "Rames – Naturgebiet in Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.387072,
+                        27.674967
+                  ]
+            },
+            {
+                  "name": "Barudkhana",
+                  "text": "Das in Madhyapur Thimi gelegene Barudkhana dient als natürlicher Aussichtspunkt, um die nepalesische Umgebung zu betrachten. Besucher, die zu diesem Aussichtspunkt hinaufsteigen, können einen ruhigen Moment genießen, während sie über das lokale Gelände blicken.",
+                  "category": "natural",
+                  "coords": [
+                        85.410312,
+                        27.682569
+                  ]
+            },
+            {
+                  "name": "Shakhal Basti",
+                  "text": "Shakhal Basti – naturnahe Siedlung in Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.407476,
+                        27.678179
+                  ]
+            },
+            {
+                  "name": "Dandipakha",
+                  "text": "Ein lokaler Aussichtspunkt in der Stadt Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.408941,
+                        27.682023
+                  ]
+            },
+            {
+                  "name": "विद्यागणेश",
+                  "text": "Vidhyaganesh – historische Stätte in Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.386511,
+                        27.681793
+                  ]
+            },
+            {
+                  "name": "Gankhu dharamapur dol",
+                  "text": "Gankhu Dharamapur Dol – Wahrzeichen in Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.394766,
+                        27.68612
+                  ]
+            },
+            {
+                  "name": "Shree Krishna Rice Mill",
+                  "text": "Shree Krishna Rice Mill – Reismühle in Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.390755,
+                        27.682191
+                  ]
+            },
+            {
+                  "name": "Balkumari Temple",
+                  "text": "Balkumari-Tempel, ein Hindu-Tempel in Thimi, der der Göttin Balkumari geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385314,
+                        27.675947
+                  ]
+            },
+            {
+                  "name": "Dhungedhara",
+                  "text": "Eine traditionelle Wasserspeier-Attraktion in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385027,
+                        27.674715
+                  ]
+            },
+            {
+                  "name": "Siwa Tole",
+                  "text": "Siwa Tole, ein nach dem Gott Shiva benanntes Viertel in Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.386721,
+                        27.677749
+                  ]
+            },
+            {
+                  "name": "Nigu Pukhu",
+                  "text": "Nigu Pukhu, ein traditioneller Newari-Teich in Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385638,
+                        27.678356
+                  ]
+            },
+            {
+                  "name": "Dil Ceramics",
+                  "text": "Dil Ceramics, eine Keramikwerkstatt, die traditionelle Thimi-Töpferkunst präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        85.391802,
+                        27.68188
+                  ]
+            },
+            {
+                  "name": "Birendra Chwok",
+                  "text": "Birendra Chwok, ein nach König Birendra benannter Platz in Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.373972,
+                        27.698721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kausaltar Aquarium House",
+                  "text": "Kausaltar Aquarium House – akvárium Thimiben.",
+                  "category": "family",
+                  "coords": [
+                        85.365199,
+                        27.674145
+                  ]
+            },
+            {
+                  "name": "Xemadevi Light House Pvt.Ltd",
+                  "text": "Xemadevi magán jelzőlámpa Thimiben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363454,
+                        27.674852
+                  ]
+            },
+            {
+                  "name": "PROPOSED SITE",
+                  "text": "Tervezett rekreációs terület Thimiben.",
+                  "category": "recreational",
+                  "coords": [
+                        85.378142,
+                        27.680387
+                  ]
+            },
+            {
+                  "name": "Namuna Park",
+                  "text": "Namuna Park – családbarát park Thimiben.",
+                  "category": "family",
+                  "coords": [
+                        85.363913,
+                        27.688741
+                  ]
+            },
+            {
+                  "name": "शंखधर शाख्वा",
+                  "text": "Shankhadar Shakwa emlékműve Madhyapur Thimi városában.",
+                  "category": "historical",
+                  "coords": [
+                        85.385278,
+                        27.673487
+                  ]
+            },
+            {
+                  "name": "Rames",
+                  "text": "Rames – természeti terület Thimiben.",
+                  "category": "natural",
+                  "coords": [
+                        85.387072,
+                        27.674967
+                  ]
+            },
+            {
+                  "name": "Barudkhana",
+                  "text": "A Madhyapur Thimiben található Barudkhana természetes kilátópontként szolgál a nepáli környezet megfigyelésére. A kilátóponthoz felmászó látogatók békés pillanatokat élhetnek át, miközben végigtekintek a helyi terepen.",
+                  "category": "natural",
+                  "coords": [
+                        85.410312,
+                        27.682569
+                  ]
+            },
+            {
+                  "name": "Shakhal Basti",
+                  "text": "Shakhal Basti – természetközeli település Thimiben.",
+                  "category": "natural",
+                  "coords": [
+                        85.407476,
+                        27.678179
+                  ]
+            },
+            {
+                  "name": "Dandipakha",
+                  "text": "Egy helyi kilátó Madhyapur Thimi városában.",
+                  "category": "natural",
+                  "coords": [
+                        85.408941,
+                        27.682023
+                  ]
+            },
+            {
+                  "name": "विद्यागणेश",
+                  "text": "Vidhyaganesh – történelmi helyszín Thimiben.",
+                  "category": "historical",
+                  "coords": [
+                        85.386511,
+                        27.681793
+                  ]
+            },
+            {
+                  "name": "Gankhu dharamapur dol",
+                  "text": "Gankhu Dharamapur Dol – nevezetesség Thimiben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.394766,
+                        27.68612
+                  ]
+            },
+            {
+                  "name": "Shree Krishna Rice Mill",
+                  "text": "Shree Krishna Rice Mill – rizsmalom Thimiben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.390755,
+                        27.682191
+                  ]
+            },
+            {
+                  "name": "Balkumari Temple",
+                  "text": "Balkumari-templom, egy hindu templom Thimiben, a Balkumari istennőnek szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385314,
+                        27.675947
+                  ]
+            },
+            {
+                  "name": "Dhungedhara",
+                  "text": "Egy hagyományos vízköpő látványosság Madhyapur Thimi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385027,
+                        27.674715
+                  ]
+            },
+            {
+                  "name": "Siwa Tole",
+                  "text": "Siwa Tole, egy Shiva istenről elnevezett negyed Thimiben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.386721,
+                        27.677749
+                  ]
+            },
+            {
+                  "name": "Nigu Pukhu",
+                  "text": "Nigu Pukhu, egy hagyományos newari tó Thimiben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385638,
+                        27.678356
+                  ]
+            },
+            {
+                  "name": "Dil Ceramics",
+                  "text": "Dil Ceramics, egy kerámiaműhely, amely a hagyományos thimi fazekasságot mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        85.391802,
+                        27.68188
+                  ]
+            },
+            {
+                  "name": "Birendra Chwok",
+                  "text": "Birendra Chwok, egy Birendra királyról elnevezett tér Thimiben.",
+                  "category": "historical",
+                  "coords": [
+                        85.373972,
+                        27.698721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kausaltar Aquarium House",
+                  "text": "Kausaltar Aquarium House – acvariu în Thimi.",
+                  "category": "family",
+                  "coords": [
+                        85.365199,
+                        27.674145
+                  ]
+            },
+            {
+                  "name": "Xemadevi Light House Pvt.Ltd",
+                  "text": "Far privat Xemadevi în Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363454,
+                        27.674852
+                  ]
+            },
+            {
+                  "name": "PROPOSED SITE",
+                  "text": "Zonă recreativă propusă în Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.378142,
+                        27.680387
+                  ]
+            },
+            {
+                  "name": "Namuna Park",
+                  "text": "Namuna Park – parc prietenos cu familiile în Thimi.",
+                  "category": "family",
+                  "coords": [
+                        85.363913,
+                        27.688741
+                  ]
+            },
+            {
+                  "name": "शंखधर शाख्वा",
+                  "text": "Un monument dedicat lui Shankhadar Shakwa în Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.385278,
+                        27.673487
+                  ]
+            },
+            {
+                  "name": "Rames",
+                  "text": "Rames – zonă naturală în Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.387072,
+                        27.674967
+                  ]
+            },
+            {
+                  "name": "Barudkhana",
+                  "text": "Situat în Madhyapur Thimi, Barudkhana funcționează ca un punct de belvedere natural pentru observarea împrejurimilor nepaleze. Vizitatorii care urcă la acest punct de observație se pot bucura de un moment de liniște privind peste terenul local.",
+                  "category": "natural",
+                  "coords": [
+                        85.410312,
+                        27.682569
+                  ]
+            },
+            {
+                  "name": "Shakhal Basti",
+                  "text": "Shakhal Basti – așezare naturală în Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.407476,
+                        27.678179
+                  ]
+            },
+            {
+                  "name": "Dandipakha",
+                  "text": "Un punct de belvedere local situat în orașul Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.408941,
+                        27.682023
+                  ]
+            },
+            {
+                  "name": "विद्यागणेश",
+                  "text": "Vidhyaganesh – sit istoric în Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.386511,
+                        27.681793
+                  ]
+            },
+            {
+                  "name": "Gankhu dharamapur dol",
+                  "text": "Gankhu Dharamapur Dol – punct de reper în Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.394766,
+                        27.68612
+                  ]
+            },
+            {
+                  "name": "Shree Krishna Rice Mill",
+                  "text": "Shree Krishna Rice Mill – moară de orez în Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.390755,
+                        27.682191
+                  ]
+            },
+            {
+                  "name": "Balkumari Temple",
+                  "text": "Templul Balkumari, un templu hindus din Thimi, dedicat zeiței Balkumari.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385314,
+                        27.675947
+                  ]
+            },
+            {
+                  "name": "Dhungedhara",
+                  "text": "O atracție tradițională cu jet de apă în Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385027,
+                        27.674715
+                  ]
+            },
+            {
+                  "name": "Siwa Tole",
+                  "text": "Siwa Tole, un cartier numit după zeul Shiva, în Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.386721,
+                        27.677749
+                  ]
+            },
+            {
+                  "name": "Nigu Pukhu",
+                  "text": "Nigu Pukhu, un iaz tradițional Newari în Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385638,
+                        27.678356
+                  ]
+            },
+            {
+                  "name": "Dil Ceramics",
+                  "text": "Dil Ceramics, un atelier de ceramică ce prezintă olăritul tradițional din Thimi.",
+                  "category": "cultural",
+                  "coords": [
+                        85.391802,
+                        27.68188
+                  ]
+            },
+            {
+                  "name": "Birendra Chwok",
+                  "text": "Birendra Chwok, o piață numită după regele Birendra în Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.373972,
+                        27.698721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kausaltar Aquarium House",
+                  "text": "Kausaltar Aquarium House in Thimi.",
+                  "category": "family",
+                  "coords": [
+                        85.365199,
+                        27.674145
+                  ]
+            },
+            {
+                  "name": "Xemadevi Light House Pvt.Ltd",
+                  "text": "Xemadevi private lighthouse in Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363454,
+                        27.674852
+                  ]
+            },
+            {
+                  "name": "PROPOSED SITE",
+                  "text": "Proposed recreational site in Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.378142,
+                        27.680387
+                  ]
+            },
+            {
+                  "name": "Namuna Park",
+                  "text": "Namuna Park family-friendly park in Thimi.",
+                  "category": "family",
+                  "coords": [
+                        85.363913,
+                        27.688741
+                  ]
+            },
+            {
+                  "name": "Shankhadar Shakwa statue",
+                  "text": "A monument dedicated to Shankhadar Shakwa in Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.385278,
+                        27.673487
+                  ]
+            },
+            {
+                  "name": "Rames",
+                  "text": "Rames natural area in Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.387072,
+                        27.674967
+                  ]
+            },
+            {
+                  "name": "Barudkhana",
+                  "text": "Positioned in Madhyapur Thimi, Barudkhana functions as a natural viewpoint for observing the Nepalese surroundings. Visitors climbing to this vantage point can enjoy a peaceful moment looking out over the local terrain.",
+                  "category": "natural",
+                  "coords": [
+                        85.410312,
+                        27.682569
+                  ]
+            },
+            {
+                  "name": "Shakhal Basti",
+                  "text": "Shakhal Basti natural settlement in Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.407476,
+                        27.678179
+                  ]
+            },
+            {
+                  "name": "Dandipakha",
+                  "text": "A local viewpoint situated in the city of Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.408941,
+                        27.682023
+                  ]
+            },
+            {
+                  "name": "Vidhyaganesh",
+                  "text": "Vidhyaganesh historical site in Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.386511,
+                        27.681793
+                  ]
+            },
+            {
+                  "name": "Gankhu dharamapur dol",
+                  "text": "Gankhu Dharamapur dol landmark in Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.394766,
+                        27.68612
+                  ]
+            },
+            {
+                  "name": "Shree Krishna Rice Mill",
+                  "text": "Shree Krishna Rice Mill in Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.390755,
+                        27.682191
+                  ]
+            },
+            {
+                  "name": "Balkumari Temple",
+                  "text": "Balkumari Temple, a Hindu temple in Thimi dedicated to the goddess Balkumari.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385314,
+                        27.675947
+                  ]
+            },
+            {
+                  "name": "Dhungedhara",
+                  "text": "A traditional water spout attraction in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385027,
+                        27.674715
+                  ]
+            },
+            {
+                  "name": "Siwa Tole",
+                  "text": "Siwa Tole, a neighborhood in Thimi named after the god Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        85.386721,
+                        27.677749
+                  ]
+            },
+            {
+                  "name": "Nigu Pukhu",
+                  "text": "Nigu Pukhu, a traditional Newari pond in Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385638,
+                        27.678356
+                  ]
+            },
+            {
+                  "name": "Dil Ceramics",
+                  "text": "Dil Ceramics, a ceramics workshop showcasing traditional Thimi pottery.",
+                  "category": "cultural",
+                  "coords": [
+                        85.391802,
+                        27.68188
+                  ]
+            },
+            {
+                  "name": "Birendra Chwok",
+                  "text": "Birendra Chwok, a square in Thimi named after King Birendra.",
+                  "category": "historical",
+                  "coords": [
+                        85.373972,
+                        27.698721
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.38, 27.68],
@@ -1724,7 +5378,160 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/madhyapur-thimi-cities-v2.webp"},
   {
-    id: "jitpursimara-cities-v2",
+    id: "jitpursimara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sabaiya Brahamsthan",
+                  "text": "Eine lokale hinduistische Kultstätte, die den spirituellen Bedürfnissen der Gemeinde Jitpursimara dient.",
+                  "category": "landmark",
+                  "coords": [
+                        84.9114,
+                        27.141643
+                  ]
+            },
+            {
+                  "name": "Madina Masjhid",
+                  "text": "Ein islamisches Gebetszentrum, das die lokale muslimische Bevölkerung zum täglichen Gottesdienst versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        84.930389,
+                        27.139227
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "Ein traditionelles hinduistisches Heiligtum, das Lord Shiva im Zentrum der Stadt gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        84.928089,
+                        27.16542
+                  ]
+            },
+            {
+                  "name": "Raam Temple",
+                  "text": "Ein hinduistischer Schrein zu Ehren von Lord Rama, der einen ruhigen Ort für Andacht in der Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        84.930767,
+                        27.17145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sabaiya Brahamsthan",
+                  "text": "Egy helyi hindu istentiszteleti hely, amely a jitpursimarai közösség spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        84.9114,
+                        27.141643
+                  ]
+            },
+            {
+                  "name": "Madina Masjhid",
+                  "text": "Egy iszlám imaközpont, amely napi istentiszteletre gyűjti össze a helyi muszlim lakosságot.",
+                  "category": "landmark",
+                  "coords": [
+                        84.930389,
+                        27.139227
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "Hagyományos hindu szentély Lord Shivának szentelve a város központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        84.928089,
+                        27.16542
+                  ]
+            },
+            {
+                  "name": "Raam Temple",
+                  "text": "A Lord Ráma tiszteletére emelt hindu szentély csendes teret kínál a városban az áhítat számára.",
+                  "category": "landmark",
+                  "coords": [
+                        84.930767,
+                        27.17145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sabaiya Brahamsthan",
+                  "text": "Un lăcaș de cult hindus local care deservește nevoile spirituale ale comunității Jitpursimara.",
+                  "category": "landmark",
+                  "coords": [
+                        84.9114,
+                        27.141643
+                  ]
+            },
+            {
+                  "name": "Madina Masjhid",
+                  "text": "Un centru de rugăciune islamic care adună populația musulmană locală pentru închinarea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        84.930389,
+                        27.139227
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "Un sanctuar hindus tradițional dedicat Lordului Shiva în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        84.928089,
+                        27.16542
+                  ]
+            },
+            {
+                  "name": "Raam Temple",
+                  "text": "Un altar hindus în cinstea Lordului Rama, oferind un spațiu liniștit pentru devotament în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        84.930767,
+                        27.17145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sabaiya Brahamsthan",
+                  "text": "A local Hindu place of worship serving the spiritual needs of the Jitpursimara community.",
+                  "category": "landmark",
+                  "coords": [
+                        84.9114,
+                        27.141643
+                  ]
+            },
+            {
+                  "name": "Madina Masjhid",
+                  "text": "An Islamic center of prayer gathering the local Muslim population for daily worship.",
+                  "category": "landmark",
+                  "coords": [
+                        84.930389,
+                        27.139227
+                  ]
+            },
+            {
+                  "name": "Shiva Temple",
+                  "text": "A traditional Hindu sanctuary dedicated to Lord Shiva in the town's center.",
+                  "category": "landmark",
+                  "coords": [
+                        84.928089,
+                        27.16542
+                  ]
+            },
+            {
+                  "name": "Raam Temple",
+                  "text": "A Hindu shrine honoring Lord Rama, offering a quiet space for devotion in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        84.930767,
+                        27.17145
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P2",
     coords: [84.93, 27.16],
@@ -1775,7 +5582,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Heaven Water Park",
-                  "text": "Heaven Water Park ist ein Wasserpark in Birtamod.",
+                  "text": "Heaven Water Park, ein Wasserpark mit Rutschen und Becken in Birtamod.",
                   "category": "family",
                   "coords": [
                         87.971172,
@@ -1784,7 +5591,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "मुक्ति चोक",
-                  "text": "Mukti Chowk ist ein markantes Denkmal in Birtamod.",
+                  "text": "Mukti Chowk, ein historischer Platz in Birtamod, der an die Befreiung erinnert.",
                   "category": "historical",
                   "coords": [
                         87.991907,
@@ -1793,7 +5600,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pal creations",
-                  "text": "Pal creations ist eine Galerie in der Stadt Birtamod.",
+                  "text": "Pal creations, ein Museum in Birtamod, das die Werke der Familie Pal ausstellt.",
                   "category": "museum",
                   "coords": [
                         87.988342,
@@ -1804,7 +5611,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Heaven Water Park",
-                  "text": "A Heaven Water Park egy élményfürdő Birtamod városában.",
+                  "text": "Heaven Water Park, egy vízipark csúszdákkal és medencékkel Birtamodban.",
                   "category": "family",
                   "coords": [
                         87.971172,
@@ -1813,7 +5620,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "मुक्ति चोक",
-                  "text": "A Mukti Chowk egy kiemelkedő emlékmű Birtamod városában.",
+                  "text": "Mukti Chowk, egy történelmi tér Birtamodban, a felszabadulás emlékére.",
                   "category": "historical",
                   "coords": [
                         87.991907,
@@ -1822,7 +5629,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pal creations",
-                  "text": "A Pal creations egy galéria Birtamod városában.",
+                  "text": "Pal creations, egy múzeum Birtamodban, amely a Pal család alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
                         87.988342,
@@ -1833,7 +5640,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Heaven Water Park",
-                  "text": "Heaven Water Park este un parc acvatic situat în Birtamod.",
+                  "text": "Heaven Water Park, un parc acvatic cu tobogane și piscine în Birtamod.",
                   "category": "family",
                   "coords": [
                         87.971172,
@@ -1842,7 +5649,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "मुक्ति चोक",
-                  "text": "Mukti Chowk este un monument proeminent situat în Birtamod.",
+                  "text": "Mukti Chowk, o piață istorică în Birtamod, comemorând eliberarea.",
                   "category": "historical",
                   "coords": [
                         87.991907,
@@ -1851,7 +5658,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pal creations",
-                  "text": "Pal creations este o galerie situată în orașul Birtamod.",
+                  "text": "Pal creations, un muzeu în Birtamod care expune creațiile familiei Pal.",
                   "category": "museum",
                   "coords": [
                         87.988342,
@@ -1862,7 +5669,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Heaven Water Park",
-                  "text": "Heaven Water Park is an aquatic amusement park located in Birtamod.",
+                  "text": "Heaven Water Park, a water park with slides and pools in Birtamod.",
                   "category": "family",
                   "coords": [
                         87.971172,
@@ -1871,7 +5678,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Mukti Chowk",
-                  "text": "Mukti Chowk is a prominent monument situated in Birtamod.",
+                  "text": "Mukti Chowk, a historic square in Birtamod commemorating liberation.",
                   "category": "historical",
                   "coords": [
                         87.991907,
@@ -1880,7 +5687,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pal creations",
-                  "text": "Pal creations is a gallery located in the city of Birtamod.",
+                  "text": "Pal creations, a museum in Birtamod showcasing the works of the Pal family.",
                   "category": "museum",
                   "coords": [
                         87.988342,
@@ -1941,7 +5748,448 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/birtamod-cities-v2.webp"},
   {
-    id: "nagarjun-cities-v2",
+    id: "nagarjun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aadheswor Temple",
+                  "text": "Ein historisches Monument in Nagarjun, das als bedeutender religiöser Halt auf dem Weg zum Hügel dient.",
+                  "category": "historical",
+                  "coords": [
+                        85.271104,
+                        27.722734
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Ein kleiner hinduistischer Tempel in Nagarjun, der Lord Ganesh an einem ruhigen Berghang gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.246485,
+                        27.693367
+                  ]
+            },
+            {
+                  "name": "Hasantar Gumba (Nunnery)",
+                  "text": "Ein friedliches buddhistisches Nonnenkloster in Nagarjun, das für seine spirituelle Ausbildung und Meditation bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        85.24897,
+                        27.713189
+                  ]
+            },
+            {
+                  "name": "वैदिक आवास",
+                  "text": "Eine vedische Gebetsstätte in Nagarjun, die sich auf die Bewahrung alter hinduistischer Traditionen konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        85.259147,
+                        27.723943
+                  ]
+            },
+            {
+                  "name": "सीतापाइला मन्दिर",
+                  "text": "Ein hinduistischer Tempel in Nagarjun, der der Legende nach die Fußabdrücke der Göttin Sita beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.272142,
+                        27.715458
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Ein Lord Ganesh gewidmeter Schrein in Nagarjun, der für seine bunt bemalten Statuen des Gottes bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.261342,
+                        27.70102
+                  ]
+            },
+            {
+                  "name": "कृष्ण मन्दिर",
+                  "text": "Ein hinduistischer Schrein in Nagarjun, der der Verehrung von Krishna in einer ruhigen ländlichen Umgebung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.267112,
+                        27.704926
+                  ]
+            },
+            {
+                  "name": "दुर्गा मन्दिर",
+                  "text": "Ein der Göttin Durga gewidmeter Tempel in Nagarjun, oft während des Dashain-Festivals besucht.",
+                  "category": "landmark",
+                  "coords": [
+                        85.276581,
+                        27.70243
+                  ]
+            },
+            {
+                  "name": "Bindabasini Temple",
+                  "text": "Ein Bergtempel in Nagarjun, der der Göttin Bindabasini geweiht ist und einen weiten Blick über das Tal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        85.237626,
+                        27.713509
+                  ]
+            },
+            {
+                  "name": "Dawadi Gaun",
+                  "text": "Ein kleiner Dorfschrein in Nagarjun, der als wichtiges religiöses Zentrum für die Einwohner von Dawadi Gaun dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.259937,
+                        27.702974
+                  ]
+            },
+            {
+                  "name": "Ram Mandir",
+                  "text": "Ein Lord Ram gewidmeter hinduistischer Tempel in Nagarjun, bekannt für seine schlichte Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.262418,
+                        27.700763
+                  ]
+            },
+            {
+                  "name": "Ichangu Narayan",
+                  "text": "Ein bedeutender Vishnu-Tempel aus dem 5. Jahrhundert in Nagarjun, erbaut im klassischen Pagodenstil.",
+                  "category": "landmark",
+                  "coords": [
+                        85.264014,
+                        27.729953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aadheswor Temple",
+                  "text": "Történelmi emlékmű Nagarjunban, amely fontos vallási megállóhely a domb felé vezető úton.",
+                  "category": "historical",
+                  "coords": [
+                        85.271104,
+                        27.722734
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Kisméretű hindu templom Nagarjunban, amelyet Ganésa istennek szenteltek egy csendes domboldalon.",
+                  "category": "landmark",
+                  "coords": [
+                        85.246485,
+                        27.693367
+                  ]
+            },
+            {
+                  "name": "Hasantar Gumba (Nunnery)",
+                  "text": "Békés buddhista apácazárda Nagarjunban, amely spirituális képzéséről és meditációiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        85.24897,
+                        27.713189
+                  ]
+            },
+            {
+                  "name": "वैदिक आवास",
+                  "text": "Védikus imaház Nagarjunban, amely az ősi hindu hagyományok megőrzésére összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        85.259147,
+                        27.723943
+                  ]
+            },
+            {
+                  "name": "सीतापाइला मन्दिर",
+                  "text": "Hindu templom Nagarjunban, amely a legenda szerint Szíta istennő lábnyomait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.272142,
+                        27.715458
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Ganésa istennek szentelt szentély Nagarjunban, amely színesre festett istenszobrairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.261342,
+                        27.70102
+                  ]
+            },
+            {
+                  "name": "कृष्ण मन्दिर",
+                  "text": "Hindu szentély Nagarjunban, amely Krisna tiszteletére szolgál egy nyugodt, vidéki környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.267112,
+                        27.704926
+                  ]
+            },
+            {
+                  "name": "दुर्गा मन्दिर",
+                  "text": "Durga istennőnek szentelt templom Nagarjunban, amelyet gyakran látogatnak a Dashain fesztivál idején.",
+                  "category": "landmark",
+                  "coords": [
+                        85.276581,
+                        27.70243
+                  ]
+            },
+            {
+                  "name": "Bindabasini Temple",
+                  "text": "Hegyi templom Nagarjunban, amelyet Bindabasini istennőnek szenteltek, és széles kilátást nyújt a völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        85.237626,
+                        27.713509
+                  ]
+            },
+            {
+                  "name": "Dawadi Gaun",
+                  "text": "Kisméretű falusi szentély Nagarjunban, amely Dawadi Gaun lakói számára fontos vallási központ.",
+                  "category": "landmark",
+                  "coords": [
+                        85.259937,
+                        27.702974
+                  ]
+            },
+            {
+                  "name": "Ram Mandir",
+                  "text": "Ráma istennek szentelt hindu templom Nagarjunban, amely egyszerű építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.262418,
+                        27.700763
+                  ]
+            },
+            {
+                  "name": "Ichangu Narayan",
+                  "text": "Jelentős, 5. századi Visnu-templom Nagarjunban, amely klasszikus pagoda stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        85.264014,
+                        27.729953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aadheswor Temple",
+                  "text": "Un monument istoric din Nagarjun care servește ca oprire religioasă importantă pe drumul spre deal.",
+                  "category": "historical",
+                  "coords": [
+                        85.271104,
+                        27.722734
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "Un mic templu hindu din Nagarjun dedicat zeului Ganesh, situat pe un versant liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        85.246485,
+                        27.693367
+                  ]
+            },
+            {
+                  "name": "Hasantar Gumba (Nunnery)",
+                  "text": "O mănăstire budistă de maici liniștită din Nagarjun, cunoscută pentru educația spirituală și meditație.",
+                  "category": "religious",
+                  "coords": [
+                        85.24897,
+                        27.713189
+                  ]
+            },
+            {
+                  "name": "वैदिक आवास",
+                  "text": "Un lăcaș de cult vedic din Nagarjun, care se concentrează pe păstrarea vechilor tradiții hindu.",
+                  "category": "religious",
+                  "coords": [
+                        85.259147,
+                        27.723943
+                  ]
+            },
+            {
+                  "name": "सीतापाइला मन्दिर",
+                  "text": "Un templu hindu din Nagarjun care, conform legendei, adăpostește amprentele zeiței Sita.",
+                  "category": "landmark",
+                  "coords": [
+                        85.272142,
+                        27.715458
+                  ]
+            },
+            {
+                  "name": "गणेश मन्दिर",
+                  "text": "Un altar dedicat zeului Ganesh în Nagarjun, cunoscut pentru statuile sale pictate colorat ale zeității.",
+                  "category": "landmark",
+                  "coords": [
+                        85.261342,
+                        27.70102
+                  ]
+            },
+            {
+                  "name": "कृष्ण मन्दिर",
+                  "text": "Un altar hindu din Nagarjun dedicat venerării lui Krishna într-un cadru rural liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        85.267112,
+                        27.704926
+                  ]
+            },
+            {
+                  "name": "दुर्गा मन्दिर",
+                  "text": "Un templu dedicat zeiței Durga în Nagarjun, frecvent vizitat în timpul festivalului Dashain.",
+                  "category": "landmark",
+                  "coords": [
+                        85.276581,
+                        27.70243
+                  ]
+            },
+            {
+                  "name": "Bindabasini Temple",
+                  "text": "Un templu montan din Nagarjun consacrat zeiței Bindabasini, oferind o vedere largă asupra văii.",
+                  "category": "landmark",
+                  "coords": [
+                        85.237626,
+                        27.713509
+                  ]
+            },
+            {
+                  "name": "Dawadi Gaun",
+                  "text": "Un mic altar sătesc din Nagarjun, servind ca centru religios important pentru locuitorii din Dawadi Gaun.",
+                  "category": "landmark",
+                  "coords": [
+                        85.259937,
+                        27.702974
+                  ]
+            },
+            {
+                  "name": "Ram Mandir",
+                  "text": "Un templu hindu dedicat zeului Ram în Nagarjun, cunoscut pentru arhitectura sa simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        85.262418,
+                        27.700763
+                  ]
+            },
+            {
+                  "name": "Ichangu Narayan",
+                  "text": "Un templu important dedicat lui Vishnu din secolul al V-lea în Nagarjun, construit în stil pagodă clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        85.264014,
+                        27.729953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aadheswor Temple",
+                  "text": "A historic monument in Nagarjun that serves as a significant religious stop on the path toward the hill.",
+                  "category": "historical",
+                  "coords": [
+                        85.271104,
+                        27.722734
+                  ]
+            },
+            {
+                  "name": "Ganesh Temple",
+                  "text": "A small Hindu temple in Nagarjun dedicated to Lord Ganesh, situated on a quiet hillside.",
+                  "category": "landmark",
+                  "coords": [
+                        85.246485,
+                        27.693367
+                  ]
+            },
+            {
+                  "name": "Hasantar Gumba (Nunnery)",
+                  "text": "A peaceful Buddhist nunnery in Nagarjun known for its spiritual training and meditation atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        85.24897,
+                        27.713189
+                  ]
+            },
+            {
+                  "name": "Vedic Aawas",
+                  "text": "A Vedic place of worship in Nagarjun focused on preserving ancient Hindu traditions.",
+                  "category": "religious",
+                  "coords": [
+                        85.259147,
+                        27.723943
+                  ]
+            },
+            {
+                  "name": "Sitapaila Temple",
+                  "text": "A Hindu temple in Nagarjun that, according to legend, houses the footprints of Goddess Sita.",
+                  "category": "landmark",
+                  "coords": [
+                        85.272142,
+                        27.715458
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "A shrine dedicated to Lord Ganesh in Nagarjun, known for its brightly painted statues of the deity.",
+                  "category": "landmark",
+                  "coords": [
+                        85.261342,
+                        27.70102
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "A Hindu shrine in Nagarjun dedicated to the worship of Krishna in a calm, rural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        85.267112,
+                        27.704926
+                  ]
+            },
+            {
+                  "name": "Durga Temple",
+                  "text": "A temple dedicated to Goddess Durga in Nagarjun, often visited during the Dashain festival.",
+                  "category": "landmark",
+                  "coords": [
+                        85.276581,
+                        27.70243
+                  ]
+            },
+            {
+                  "name": "Bindabasini Temple",
+                  "text": "A hillside temple in Nagarjun consecrated to Goddess Bindabasini, offering broad views of the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        85.237626,
+                        27.713509
+                  ]
+            },
+            {
+                  "name": "Dawadi Gaun",
+                  "text": "A small village shrine in Nagarjun serving as an important religious center for the residents of Dawadi Gaun.",
+                  "category": "landmark",
+                  "coords": [
+                        85.259937,
+                        27.702974
+                  ]
+            },
+            {
+                  "name": "Ram Mandir",
+                  "text": "A Hindu temple dedicated to Lord Ram in Nagarjun, known for its simple architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        85.262418,
+                        27.700763
+                  ]
+            },
+            {
+                  "name": "Ichangu Narayan",
+                  "text": "A significant 5th-century Vishnu temple in Nagarjun, constructed in the classical pagoda style.",
+                  "category": "landmark",
+                  "coords": [
+                        85.264014,
+                        27.729953
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.26, 27.71],
@@ -1988,7 +6236,52 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/nagarjun-cities-v2.webp"},
   {
-    id: "lahan-cities-v2",
+    id: "lahan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Durga Mandir",
+                  "text": "Der Durga Mandir in Lahan ist ein traditioneller hinduistischer Tempel, der der Göttin Durga geweiht ist und als wichtiger spiritueller Ort der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.482022,
+                        26.721466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Durga Mandir",
+                  "text": "A lahani Durga Mandir egy hagyományos hindu templom, amelyet Durga istennőnek szenteltek, és a város fontos spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        86.482022,
+                        26.721466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Durga Mandir",
+                  "text": "Durga Mandir din Lahan este un templu hindus tradițional dedicat zeiței Durga, servind ca un important loc spiritual în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        86.482022,
+                        26.721466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Durga Mandir",
+                  "text": "The Durga Mandir in Lahan is a traditional Hindu temple dedicated to the goddess Durga, serving as an important spiritual site in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        86.482022,
+                        26.721466
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P2",
     coords: [86.48, 26.71],
@@ -2036,7 +6329,196 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "triyuga-cities-v2",
+    id: "triyuga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shani Temple",
+                  "text": "Der Shani-Tempel in Triyuga ist eine hinduistische Kultstätte, in der Gläubige den Planetengott Shani verehren.",
+                  "category": "landmark",
+                  "coords": [
+                        86.700456,
+                        26.787426
+                  ]
+            },
+            {
+                  "name": "श्री कृष्ण मन्दिर",
+                  "text": "Der Shri Krishna Mandir in Triyuga ist ein hinduistischer Tempelkomplex, dessen Architektur und Rituale ganz der Verehrung Krishnas gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        86.696613,
+                        26.794534
+                  ]
+            },
+            {
+                  "name": "Tarkari Bazzar",
+                  "text": "Der Tarkari Bazzar in Triyuga ist ein lokaler Markt, auf dem täglich frisches Gemüse, regionale Produkte und landwirtschaftliche Erzeugnisse gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        86.701491,
+                        26.790293
+                  ]
+            },
+            {
+                  "name": "Tarkari bazaar",
+                  "text": "Dieser weitere Tarkari-Basar in Triyuga bildet einen lebhaften Handelsplatz für frische Lebensmittel und Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        86.707538,
+                        26.787902
+                  ]
+            },
+            {
+                  "name": "खसी बजार",
+                  "text": "Der Khasi Bazar in Triyuga ist ein spezialisierter Markt, der vor allem für den Handel mit Ziegen und lokalem Vieh bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        86.699847,
+                        26.806888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shani Temple",
+                  "text": "A triyugai Shani-templom egy hindu istentiszteleti hely, ahol a hívők Shani bolygóistent tisztelik.",
+                  "category": "landmark",
+                  "coords": [
+                        86.700456,
+                        26.787426
+                  ]
+            },
+            {
+                  "name": "श्री कृष्ण मन्दिर",
+                  "text": "A triyugai Shri Krishna Mandir egy hindu templom, amelynek építészete és rituáléi teljes mértékben Krisna tiszteletének vannak szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        86.696613,
+                        26.794534
+                  ]
+            },
+            {
+                  "name": "Tarkari Bazzar",
+                  "text": "A triyugai Tarkari Bazzar egy helyi piac, ahol naponta friss zöldségeket és regionális mezőgazdasági termékeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        86.701491,
+                        26.790293
+                  ]
+            },
+            {
+                  "name": "Tarkari bazaar",
+                  "text": "Ez a másik triyugai Tarkari bazár nyüzsgő kereskedelmi központként szolgál a friss élelmiszerek és a napi szükségleti cikkek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        86.707538,
+                        26.787902
+                  ]
+            },
+            {
+                  "name": "खसी बजार",
+                  "text": "A triyugai Khasi Bazar egy olyan piac, amely elsősorban a kecskékkel és helyi haszonállatokkal folytatott kereskedelemről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        86.699847,
+                        26.806888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shani Temple",
+                  "text": "Templul Shani din Triyuga este un lăcaș de cult hindus, unde credincioșii se roagă la zeitatea planetară Shani.",
+                  "category": "landmark",
+                  "coords": [
+                        86.700456,
+                        26.787426
+                  ]
+            },
+            {
+                  "name": "श्री कृष्ण मन्दिर",
+                  "text": "Shri Krishna Mandir din Triyuga este un templu hindus ale cărui ritualuri și structură sunt dedicate venerației lui Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        86.696613,
+                        26.794534
+                  ]
+            },
+            {
+                  "name": "Tarkari Bazzar",
+                  "text": "Tarkari Bazzar din Triyuga este o piață locală unde se vând zilnic legume proaspete și produse agricole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        86.701491,
+                        26.790293
+                  ]
+            },
+            {
+                  "name": "Tarkari bazaar",
+                  "text": "Acest bazar Tarkari din Triyuga formează un centru comercial plin de viață pentru alimente proaspete și bunuri de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        86.707538,
+                        26.787902
+                  ]
+            },
+            {
+                  "name": "खसी बजार",
+                  "text": "Khasi Bazar din Triyuga este o piață tradițională specializată în comerțul cu capre și animale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        86.699847,
+                        26.806888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shani Temple",
+                  "text": "The Shani Temple in Triyuga is a Hindu place of worship where devotees revere the planetary deity Shani.",
+                  "category": "landmark",
+                  "coords": [
+                        86.700456,
+                        26.787426
+                  ]
+            },
+            {
+                  "name": "Shri Krishna Mandir",
+                  "text": "Shri Krishna Mandir in Triyuga is a Hindu temple complex whose rituals and architecture are devoted entirely to the worship of Lord Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        86.696613,
+                        26.794534
+                  ]
+            },
+            {
+                  "name": "Tarkari Bazzar",
+                  "text": "Tarkari Bazzar in Triyuga is a local marketplace where daily commerce revolves around fresh vegetables and regional agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        86.701491,
+                        26.790293
+                  ]
+            },
+            {
+                  "name": "Tarkari bazaar",
+                  "text": "This additional Tarkari bazaar in Triyuga forms a bustling trading center for fresh food and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        86.707538,
+                        26.787902
+                  ]
+            },
+            {
+                  "name": "खसी बजार",
+                  "text": "The Khasi Bazar in Triyuga is a traditional marketplace specialized primarily in the trading of goats and local livestock.",
+                  "category": "cultural",
+                  "coords": [
+                        86.699847,
+                        26.806888
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P1",
     coords: [86.71, 26.79],
@@ -2084,7 +6566,232 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "kohalpur-cities-v2",
+    id: "kohalpur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shri Ramjanaki Mandir",
+                  "text": "Ein Hindutempel in Kohalpur, der Lord Ram und der Göttin Sita gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.688042,
+                        28.186909
+                  ]
+            },
+            {
+                  "name": "Manakamana Mandir",
+                  "text": "Ein lokales hinduistisches Heiligtum in Kohalpur, das von der berühmten wunscherfüllenden Gottheit inspiriert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        81.678572,
+                        28.192276
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Ein dem Gott Shiva geweihter hinduistischer Kultort inmitten der Straßen von Kohalpur.",
+                  "category": "landmark",
+                  "coords": [
+                        81.679776,
+                        28.190243
+                  ]
+            },
+            {
+                  "name": "कालिका मन्दिर",
+                  "text": "Ein hinduistischer Schrein zu Ehren der Göttin Kali, der einen spirituellen Raum in Kohalpur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        81.70857,
+                        28.199229
+                  ]
+            },
+            {
+                  "name": "Khristya Aradhana Church",
+                  "text": "Eine moderne christliche Einrichtung in Kohalpur, die gemeinschaftliche Gottesdienste veranstaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        81.703756,
+                        28.200369
+                  ]
+            },
+            {
+                  "name": "Krishi Upath Thok Bajar Sthal",
+                  "text": "Ein belebter landwirtschaftlicher Großmarkt, auf dem in Kohalpur frische lokale Produkte gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        81.680768,
+                        28.200243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shri Ramjanaki Mandir",
+                  "text": "Ram istennek és Szita istennőnek szentelt hindu templom Kohalpur településen.",
+                  "category": "landmark",
+                  "coords": [
+                        81.688042,
+                        28.186909
+                  ]
+            },
+            {
+                  "name": "Manakamana Mandir",
+                  "text": "A híres vágyteljesítő istenség által ihletett helyi hindu szentély Kohalpur településen.",
+                  "category": "landmark",
+                  "coords": [
+                        81.678572,
+                        28.192276
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Shiva istennek szentelt hindu istentiszteleti hely Kohalpur utcáin.",
+                  "category": "landmark",
+                  "coords": [
+                        81.679776,
+                        28.190243
+                  ]
+            },
+            {
+                  "name": "कालिका मन्दिर",
+                  "text": "Kali istennő előtt tisztelgő hindu szentély, amely spirituális teret biztosít Kohalpur településen.",
+                  "category": "landmark",
+                  "coords": [
+                        81.70857,
+                        28.199229
+                  ]
+            },
+            {
+                  "name": "Khristya Aradhana Church",
+                  "text": "Modern keresztény intézmény Kohalpur településen, amely közösségi istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        81.703756,
+                        28.200369
+                  ]
+            },
+            {
+                  "name": "Krishi Upath Thok Bajar Sthal",
+                  "text": "Nyüzsgő mezőgazdasági nagybani piac, ahol friss helyi termékekkel kereskednek Kohalpur településen.",
+                  "category": "cultural",
+                  "coords": [
+                        81.680768,
+                        28.200243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shri Ramjanaki Mandir",
+                  "text": "Un templu hindus în Kohalpur, dedicat zeului Ram și zeiței Sita.",
+                  "category": "landmark",
+                  "coords": [
+                        81.688042,
+                        28.186909
+                  ]
+            },
+            {
+                  "name": "Manakamana Mandir",
+                  "text": "Un sanctuar hindus local în Kohalpur, inspirat de faimoasa zeitate care îndeplinește dorințele.",
+                  "category": "landmark",
+                  "coords": [
+                        81.678572,
+                        28.192276
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "Un lăcaș de cult hindus dedicat zeului Shiva, situat pe străzile din Kohalpur.",
+                  "category": "landmark",
+                  "coords": [
+                        81.679776,
+                        28.190243
+                  ]
+            },
+            {
+                  "name": "कालिका मन्दिर",
+                  "text": "Un altar hindus care onorează zeița Kali, oferind un spațiu spiritual în Kohalpur.",
+                  "category": "landmark",
+                  "coords": [
+                        81.70857,
+                        28.199229
+                  ]
+            },
+            {
+                  "name": "Khristya Aradhana Church",
+                  "text": "O biserică creștină modernă în Kohalpur, care găzduiește adunări de cult comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        81.703756,
+                        28.200369
+                  ]
+            },
+            {
+                  "name": "Krishi Upath Thok Bajar Sthal",
+                  "text": "O piață agricolă angro plină de viață, unde se tranzacționează produse proaspete locale în Kohalpur.",
+                  "category": "cultural",
+                  "coords": [
+                        81.680768,
+                        28.200243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shri Ramjanaki Mandir",
+                  "text": "A Hindu temple devoted to Lord Ram and Goddess Sita, located in Kohalpur.",
+                  "category": "landmark",
+                  "coords": [
+                        81.688042,
+                        28.186909
+                  ]
+            },
+            {
+                  "name": "Manakamana Mandir",
+                  "text": "A local Hindu sanctuary in Kohalpur inspired by the famous wish-fulfilling deity.",
+                  "category": "landmark",
+                  "coords": [
+                        81.678572,
+                        28.192276
+                  ]
+            },
+            {
+                  "name": "Shiva Mandir",
+                  "text": "A Hindu place of worship dedicated to Lord Shiva, situated amidst the streets of Kohalpur.",
+                  "category": "landmark",
+                  "coords": [
+                        81.679776,
+                        28.190243
+                  ]
+            },
+            {
+                  "name": "कालिका मन्दिर",
+                  "text": "A Hindu shrine honoring Goddess Kali, providing a spiritual space in Kohalpur.",
+                  "category": "landmark",
+                  "coords": [
+                        81.70857,
+                        28.199229
+                  ]
+            },
+            {
+                  "name": "Khristya Aradhana Church",
+                  "text": "A modern Christian church facility hosting community worship gatherings in Kohalpur.",
+                  "category": "landmark",
+                  "coords": [
+                        81.703756,
+                        28.200369
+                  ]
+            },
+            {
+                  "name": "Krishi Upath Thok Bajar Sthal",
+                  "text": "A bustling wholesale agricultural market trading fresh local produce in Kohalpur.",
+                  "category": "cultural",
+                  "coords": [
+                        81.680768,
+                        28.200243
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P5",
     coords: [81.69, 28.19],
@@ -2132,7 +6839,88 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "tikapur-cities-v2",
+    id: "tikapur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "temple",
+                  "text": "Dieser traditionelle Hindu-Tempel in Tikapur dient als zentraler Treffpunkt für die religiöse Gemeinschaft der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        81.130934,
+                        28.529818
+                  ]
+            },
+            {
+                  "name": "Sinai Church",
+                  "text": "Ein christliches Gotteshaus in der Region Tikapur.",
+                  "category": "landmark",
+                  "coords": [
+                        81.119568,
+                        28.50803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "temple",
+                  "text": "Ez a hagyományos tikapuri hindu templom a város vallási közösségének központi találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        81.130934,
+                        28.529818
+                  ]
+            },
+            {
+                  "name": "Sinai Church",
+                  "text": "Keresztény istentiszteleti hely Tikapur térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        81.119568,
+                        28.50803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "temple",
+                  "text": "Acest templu hindus tradițional din Tikapur servește drept loc central de adunare pentru comunitatea religioasă a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        81.130934,
+                        28.529818
+                  ]
+            },
+            {
+                  "name": "Sinai Church",
+                  "text": "Un lăcaș de cult creștin situat în zona Tikapur.",
+                  "category": "landmark",
+                  "coords": [
+                        81.119568,
+                        28.50803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "temple",
+                  "text": "This traditional Hindu temple in Tikapur serves as a central gathering place for the city's religious community.",
+                  "category": "landmark",
+                  "coords": [
+                        81.130934,
+                        28.529818
+                  ]
+            },
+            {
+                  "name": "Sinai Church",
+                  "text": "A Christian place of worship located in the Tikapur area.",
+                  "category": "landmark",
+                  "coords": [
+                        81.119568,
+                        28.50803
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P7",
     coords: [81.13, 28.51],
@@ -2180,7 +6968,1024 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "siraha-cities-v2",
+    id: "siraha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hanuman Temple",
+                  "text": "Ein hinduistischer Tempel in Siraha, der dem Affengott Hanuman gewidmet ist und als lokaler Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        86.193722,
+                        26.656921
+                  ]
+            },
+            {
+                  "name": "राम जानकी मन्दिर",
+                  "text": "Ein hinduistischer Tempelkomplex in Siraha, der dem Gott Rama und der Göttin Sita gewidmet ist und im Zentrum des lokalen religiösen Lebens steht.",
+                  "category": "landmark",
+                  "coords": [
+                        86.238989,
+                        26.645786
+                  ]
+            },
+            {
+                  "name": "Bhagwati Mandir",
+                  "text": "Ein traditioneller hinduistischer Schrein in Siraha, der der Göttin Bhagwati gewidmet ist und Gläubige anzieht, die um Schutz bitten.",
+                  "category": "landmark",
+                  "coords": [
+                        86.236346,
+                        26.639608
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Ein kleiner hinduistischer Wegschrein, der an der sogenannten 2. Straße im Bezirk Siraha liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.211304,
+                        26.651222
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir Labhaka Tole",
+                  "text": "Ein lokaler Hindutempel im Viertel Labhaka Tole von Siraha, der Ram und Sita ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.227561,
+                        26.641395
+                  ]
+            },
+            {
+                  "name": "हनुमान मन्दिर",
+                  "text": "Ein hinduistisches Heiligtum in Siraha, wo Gläubige Gebete an die starke Affengottheit Hanuman richten.",
+                  "category": "landmark",
+                  "coords": [
+                        86.228252,
+                        26.629692
+                  ]
+            },
+            {
+                  "name": "Shree Shree 108 Shree Dihawar Mandir",
+                  "text": "Ein Hindu-Schrein in Siraha, der Dihawar Baba gewidmet ist und als spirituelle Schutzstätte für das örtliche Dorf fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        86.220383,
+                        26.635286
+                  ]
+            },
+            {
+                  "name": "Masjid Koba",
+                  "text": "Eine islamische Kultstätte in Siraha, die der lokalen muslimischen Gemeinde für die täglichen und Freitagsgebete dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.194207,
+                        26.646158
+                  ]
+            },
+            {
+                  "name": "Madani Masjid",
+                  "text": "Eine Gemeindemoschee in Siraha, in der sich lokale Muslime zu religiöser Unterweisung und Gemeinschaftsgebeten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19707,
+                        26.644469
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "Ein hinduistischer Tempel in Siraha, der der elefantenköpfigen Gottheit Ganesha gewidmet ist, die als Beseitiger von Hindernissen verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        86.204388,
+                        26.639206
+                  ]
+            },
+            {
+                  "name": "Dihibar Mandir",
+                  "text": "Ein lokaler Hindu-Schrein in Siraha, der der Dorfgottheit Dihibar gewidmet ist und die umliegende Nachbarschaft schützt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.210184,
+                        26.636847
+                  ]
+            },
+            {
+                  "name": "Bajrangbali Mandir",
+                  "text": "Ein hinduistischer Tempel in Siraha, der sich auf die Verehrung von Bajrangbali (Hanuman) als Verkörperung von Hingabe und Macht konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        86.205773,
+                        26.646717
+                  ]
+            },
+            {
+                  "name": "Shree Laxmi Narayan Mandir",
+                  "text": "Ein Hindutempel in Siraha, der dem Bewahrergott Vishnu (Narayan) und seiner Gefährtin Laxmi, der Göttin des Reichtums, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.206784,
+                        26.652433
+                  ]
+            },
+            {
+                  "name": "मज्जित",
+                  "text": "Eine lokale Moschee in Siraha, die der muslimischen Gemeinde einen speziellen Raum für ihre täglichen islamischen Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        86.195046,
+                        26.644864
+                  ]
+            },
+            {
+                  "name": "बलाल मस्जिद",
+                  "text": "Eine islamische Moschee in Siraha, die als spirituelles Zentrum und Gebetssaal für lokale Muslime dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191325,
+                        26.647319
+                  ]
+            },
+            {
+                  "name": "मक्की जामा मस्जिद",
+                  "text": "Eine bedeutende Gemeindemoschee in Siraha, die so konzipiert ist, dass sie die lokale muslimische Bevölkerung für Jumu'ah-Gebete aufnehmen kann.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191584,
+                        26.644659
+                  ]
+            },
+            {
+                  "name": "Jame Masjid",
+                  "text": "Eine zentrale Moschee in Siraha, die als Haupttreffpunkt für die Freitagsgebete der lokalen muslimischen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191715,
+                        26.642949
+                  ]
+            },
+            {
+                  "name": "दारु तालिम बताबिर्यत मदरसा",
+                  "text": "Eine islamische Bildungseinrichtung und ein Gebetszentrum in Siraha, das sich auf religiöse Lehren für die Gemeinde konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        86.190267,
+                        26.64445
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "Ein hinduistischer Tempel in Siraha, der Lord Shiva gewidmet ist und traditionelle Elemente des shaivitischen Kults aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.182126,
+                        26.643576
+                  ]
+            },
+            {
+                  "name": "मदिना मस्जिद",
+                  "text": "Eine nach der heiligen Stadt benannte islamische Gebetsstätte in Siraha, in der sich die lokale muslimische Gemeinde versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        86.207148,
+                        26.676593
+                  ]
+            },
+            {
+                  "name": "दिहबार मन्दिर",
+                  "text": "Ein kleiner Hindu-Schrein in Siraha, der der lokalen Schutzgottheit (Dihawar) der Siedlung gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.202514,
+                        26.674283
+                  ]
+            },
+            {
+                  "name": "कृष्ण मन्दिर",
+                  "text": "Ein hinduistischer Tempel in Siraha, der Lord Krishna gewidmet ist und während der Janmashtami-Feierlichkeiten oft von Gläubigen belebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.206708,
+                        26.67012
+                  ]
+            },
+            {
+                  "name": "Siraha Church",
+                  "text": "Ein christliches Gotteshaus in der Gegend von Siraha, das der örtlichen Gemeinde mit wöchentlichen Gottesdiensten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.208677,
+                        26.655304
+                  ]
+            },
+            {
+                  "name": "सलेस मन्दिर",
+                  "text": "Ein kultureller Hindu-Schrein in Siraha, der dem Volkshelden und der Gottheit Raja Salhesh gewidmet ist, der in der Mithila-Region tief verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19885,
+                        26.66546
+                  ]
+            },
+            {
+                  "name": "Dihibar Mandir Basbitta",
+                  "text": "Ein lokaler Hindu-Schrein im Gebiet Basbitta von Siraha, der der beschützenden Dorfgottheit Dihibar gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19839,
+                        26.668551
+                  ]
+            },
+            {
+                  "name": "नन्दराम मन्दिर",
+                  "text": "Ein lokalisierter Hindu-Tempel in Siraha, der als spezifischer Treffpunkt der Gemeinde für die traditionelle Anbetung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        86.196175,
+                        26.665089
+                  ]
+            },
+            {
+                  "name": "मज्जित",
+                  "text": "Eine alltägliche islamische Moschee in Siraha, die als Nachbarschaftszentrum für die täglichen Salah-Gebete fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        86.196933,
+                        26.662446
+                  ]
+            },
+            {
+                  "name": "Bhola Baba Mandir, Govind Mandir, Laxmi Mandir",
+                  "text": "Ein facettenreicher Hindu-Tempelkomplex in Siraha mit Schreinen für Shiva (Bhola Baba), Krishna (Govind) und Laxmi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19482,
+                        26.657727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hanuman Temple",
+                  "text": "Egy hindu templom Siraha területén, amelyet Hanuman majomistennek szenteltek, és a helyi hívek zarándokhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        86.193722,
+                        26.656921
+                  ]
+            },
+            {
+                  "name": "राम जानकी मन्दिर",
+                  "text": "Egy hindu templomkomplexum Sirahában, amelyet Ráma istennek és Szíta istennőnek szenteltek, a helyi vallási élet központjaként.",
+                  "category": "landmark",
+                  "coords": [
+                        86.238989,
+                        26.645786
+                  ]
+            },
+            {
+                  "name": "Bhagwati Mandir",
+                  "text": "Egy hagyományos hindu szentély Sirahában, amelyet Bhagwati istennőnek szenteltek, és a védelmet kérő híveket vonzza.",
+                  "category": "landmark",
+                  "coords": [
+                        86.236346,
+                        26.639608
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Egy kis út menti hindu szentély, amely a sirahai körzet úgynevezett 2-es útja mentén található.",
+                  "category": "landmark",
+                  "coords": [
+                        86.211304,
+                        26.651222
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir Labhaka Tole",
+                  "text": "Egy helyi hindu templom Siraha Labhaka Tole negyedében, amely Ráma és Szíta előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        86.227561,
+                        26.641395
+                  ]
+            },
+            {
+                  "name": "हनुमान मन्दिर",
+                  "text": "Egy hindu szentély Sirahában, ahol a hívek a bátor majomistenhez, Hanumanhoz imádkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        86.228252,
+                        26.629692
+                  ]
+            },
+            {
+                  "name": "Shree Shree 108 Shree Dihawar Mandir",
+                  "text": "Egy hindu szentély Sirahában, amelyet Dihawar Babának szenteltek, és a helyi falu spirituális védelmező helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        86.220383,
+                        26.635286
+                  ]
+            },
+            {
+                  "name": "Masjid Koba",
+                  "text": "Egy iszlám istentiszteleti hely Sirahában, amely a helyi muszlim közösséget szolgálja a napi és pénteki imák alkalmával.",
+                  "category": "landmark",
+                  "coords": [
+                        86.194207,
+                        26.646158
+                  ]
+            },
+            {
+                  "name": "Madani Masjid",
+                  "text": "Egy közösségi mecset Sirahában, ahol a helyi muszlimok vallásoktatás és gyülekezeti imák céljából gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19707,
+                        26.644469
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "Egy hindu templom Sirahában, amelyet az elefántfejű Ganesha istenségnek szenteltek, akit az akadályok elhárítójaként tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        86.204388,
+                        26.639206
+                  ]
+            },
+            {
+                  "name": "Dihibar Mandir",
+                  "text": "Egy helyi hindu szentély Sirahában, amelyet Dihibar faluistenségnek szenteltek, hogy megvédje a környező környéket.",
+                  "category": "landmark",
+                  "coords": [
+                        86.210184,
+                        26.636847
+                  ]
+            },
+            {
+                  "name": "Bajrangbali Mandir",
+                  "text": "Egy hindu templom Sirahában, amely a Bajrangbali (Hanuman) imádatára összpontosít, aki az odaadás és az erő megtestesítője.",
+                  "category": "landmark",
+                  "coords": [
+                        86.205773,
+                        26.646717
+                  ]
+            },
+            {
+                  "name": "Shree Laxmi Narayan Mandir",
+                  "text": "Egy hindu templom Sirahában, amelyet Visnu (Narayan) fenntartó istennek és hitvesének, Laxminak, a gazdagság istennőjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        86.206784,
+                        26.652433
+                  ]
+            },
+            {
+                  "name": "मज्जित",
+                  "text": "Egy helyi mecset Sirahában, amely külön teret biztosít a muszlim közösség számára a napi iszlám imák elvégzésére.",
+                  "category": "landmark",
+                  "coords": [
+                        86.195046,
+                        26.644864
+                  ]
+            },
+            {
+                  "name": "बलाल मस्जिद",
+                  "text": "Egy iszlám mecset Sirahában, amely spirituális központként és imateremként szolgál a helyi muszlimok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191325,
+                        26.647319
+                  ]
+            },
+            {
+                  "name": "मक्की जामा मस्जिद",
+                  "text": "Egy jelentős gyülekezeti mecset Sirahában, amelyet úgy terveztek, hogy befogadja a helyi muszlim lakosságot a Jumu'ah imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191584,
+                        26.644659
+                  ]
+            },
+            {
+                  "name": "Jame Masjid",
+                  "text": "Egy központi mecset Sirahában, amely a helyi muszlim gyülekezet pénteki imáinak fő találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191715,
+                        26.642949
+                  ]
+            },
+            {
+                  "name": "दारु तालिम बताबिर्यत मदरसा",
+                  "text": "Egy iszlám oktatási intézmény és imaközpont Sirahában, amely a közösség vallási tanítására összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        86.190267,
+                        26.64445
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "Egy hindu templom Sirahában, amelyet Shiva istennek szenteltek, és a saivita imádat hagyományos elemeit tartalmazza.",
+                  "category": "landmark",
+                  "coords": [
+                        86.182126,
+                        26.643576
+                  ]
+            },
+            {
+                  "name": "मदिना मस्जिद",
+                  "text": "Egy iszlám imalétesítmény Sirahában, amelyet a szent városról neveztek el, és ahol a helyi muszlim közösség gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        86.207148,
+                        26.676593
+                  ]
+            },
+            {
+                  "name": "दिहबार मन्दिर",
+                  "text": "Egy kisebb hindu szentély Sirahában, amelyet a település helyi őrzőistenségének (Dihawar) szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        86.202514,
+                        26.674283
+                  ]
+            },
+            {
+                  "name": "कृष्ण मन्दिर",
+                  "text": "Egy hindu templom Sirahában, amelyet Krisna istennek szenteltek, és a Janmashtami ünnepségek alatt gyakran nyüzsög a hívektől.",
+                  "category": "landmark",
+                  "coords": [
+                        86.206708,
+                        26.67012
+                  ]
+            },
+            {
+                  "name": "Siraha Church",
+                  "text": "Egy keresztény istentiszteleti hely Siraha térségében, amely heti istentiszteletekkel szolgálja a helyi gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        86.208677,
+                        26.655304
+                  ]
+            },
+            {
+                  "name": "सलेस मन्दिर",
+                  "text": "Egy kulturális hindu szentély Sirahában, amelyet Raja Salhesh népi hősnek és istenségnek szenteltek, akit mélyen tisztelnek a Mithila régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19885,
+                        26.66546
+                  ]
+            },
+            {
+                  "name": "Dihibar Mandir Basbitta",
+                  "text": "Egy helyi hindu szentély Siraha Basbitta területén, amelyet a védelmező Dihibar faluistenségnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19839,
+                        26.668551
+                  ]
+            },
+            {
+                  "name": "नन्दराम मन्दिर",
+                  "text": "Egy lokalizált hindu templom Sirahában, amely a hagyományos istentisztelet egyedi közösségi találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        86.196175,
+                        26.665089
+                  ]
+            },
+            {
+                  "name": "मज्जित",
+                  "text": "Egy mindennapi iszlám mecset Sirahában, amely szomszédsági központként működik a napi Salah imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        86.196933,
+                        26.662446
+                  ]
+            },
+            {
+                  "name": "Bhola Baba Mandir, Govind Mandir, Laxmi Mandir",
+                  "text": "Egy sokoldalú hindu templomkomplexum Sirahában, amely Shivának (Bhola Baba), Krishnának (Govind) és Laxminak szentelt szentélyeket foglal magába.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19482,
+                        26.657727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hanuman Temple",
+                  "text": "Un templu hindus în Siraha dedicat zeului maimuță Hanuman, servind ca loc local de devoțiune.",
+                  "category": "religious",
+                  "coords": [
+                        86.193722,
+                        26.656921
+                  ]
+            },
+            {
+                  "name": "राम जानकी मन्दिर",
+                  "text": "Un complex de temple hinduse din Siraha dedicat zeului Rama și zeiței Sita, central în viața religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        86.238989,
+                        26.645786
+                  ]
+            },
+            {
+                  "name": "Bhagwati Mandir",
+                  "text": "Un altar tradițional hindus în Siraha dedicat zeiței Bhagwati, atrăgând devotații care caută binecuvântări protectoare.",
+                  "category": "landmark",
+                  "coords": [
+                        86.236346,
+                        26.639608
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Un mic altar hindus pe marginea drumului, situat de-a lungul rutei 2 în zona districtului Siraha.",
+                  "category": "landmark",
+                  "coords": [
+                        86.211304,
+                        26.651222
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir Labhaka Tole",
+                  "text": "Un templu hindus localizat în cartierul Labhaka Tole din Siraha, onorându-i pe Ram și Sita.",
+                  "category": "landmark",
+                  "coords": [
+                        86.227561,
+                        26.641395
+                  ]
+            },
+            {
+                  "name": "हनुमान मन्दिर",
+                  "text": "Un sanctuar hindus din Siraha unde devotații oferă rugăciuni zeității maimuțelor puternice, Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        86.228252,
+                        26.629692
+                  ]
+            },
+            {
+                  "name": "Shree Shree 108 Shree Dihawar Mandir",
+                  "text": "Un altar hindus în Siraha dedicat lui Dihawar Baba, acționând ca un loc de tutelă spirituală pentru satul local.",
+                  "category": "landmark",
+                  "coords": [
+                        86.220383,
+                        26.635286
+                  ]
+            },
+            {
+                  "name": "Masjid Koba",
+                  "text": "Un lăcaș de cult islamic în Siraha, servind comunitatea musulmană locală pentru rugăciunile zilnice și de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        86.194207,
+                        26.646158
+                  ]
+            },
+            {
+                  "name": "Madani Masjid",
+                  "text": "O moschee comunitară din Siraha, unde musulmanii locali se adună pentru instruire religioasă și rugăciuni comune.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19707,
+                        26.644469
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "Un templu hindus din Siraha dedicat zeității cu cap de elefant Ganesha, venerat ca cel care înlătură obstacolele.",
+                  "category": "landmark",
+                  "coords": [
+                        86.204388,
+                        26.639206
+                  ]
+            },
+            {
+                  "name": "Dihibar Mandir",
+                  "text": "Un altar hindus local din Siraha, dedicat zeității satului Dihibar, care protejează cartierul din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        86.210184,
+                        26.636847
+                  ]
+            },
+            {
+                  "name": "Bajrangbali Mandir",
+                  "text": "Un templu hindus din Siraha axat pe închinarea lui Bajrangbali (Hanuman), o întruchipare a devotamentului și a puterii.",
+                  "category": "landmark",
+                  "coords": [
+                        86.205773,
+                        26.646717
+                  ]
+            },
+            {
+                  "name": "Shree Laxmi Narayan Mandir",
+                  "text": "Un templu hindus în Siraha dedicat zeului păstrător Vishnu (Narayan) și consoartei sale Laxmi, zeița bogăției.",
+                  "category": "landmark",
+                  "coords": [
+                        86.206784,
+                        26.652433
+                  ]
+            },
+            {
+                  "name": "मज्जित",
+                  "text": "O moschee locală din Siraha, care oferă un spațiu dedicat comunității musulmane pentru a-și îndeplini rugăciunile islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        86.195046,
+                        26.644864
+                  ]
+            },
+            {
+                  "name": "बलाल मस्जिद",
+                  "text": "O moschee islamică în Siraha care servește drept centru spiritual și sală de rugăciune pentru musulmanii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191325,
+                        26.647319
+                  ]
+            },
+            {
+                  "name": "मक्की जामा मस्जिद",
+                  "text": "O moschee comunitară semnificativă din Siraha, concepută pentru a găzdui populația musulmană locală pentru rugăciunile Jumu'ah.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191584,
+                        26.644659
+                  ]
+            },
+            {
+                  "name": "Jame Masjid",
+                  "text": "O moschee centrală în Siraha care servește ca loc principal de adunare pentru rugăciunile de vineri ale congregației musulmane locale.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191715,
+                        26.642949
+                  ]
+            },
+            {
+                  "name": "दारु तालिम बताबिर्यत मदरसा",
+                  "text": "O instituție de învățământ islamic și centru de rugăciune în Siraha, axată pe învățăturile religioase pentru comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        86.190267,
+                        26.64445
+                  ]
+            },
+            {
+                  "name": "शिव मन्दिर",
+                  "text": "Un templu hindus din Siraha dedicat Domnului Shiva, prezentând elemente tradiționale ale închinării șaivite.",
+                  "category": "landmark",
+                  "coords": [
+                        86.182126,
+                        26.643576
+                  ]
+            },
+            {
+                  "name": "मदिना मस्जिद",
+                  "text": "O unitate de rugăciune islamică din Siraha, numită după orașul sfânt, adunând comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        86.207148,
+                        26.676593
+                  ]
+            },
+            {
+                  "name": "दिहबार मन्दिर",
+                  "text": "Un mic altar hindus în Siraha dedicat zeității păzitoare locale (Dihawar) a așezământului.",
+                  "category": "landmark",
+                  "coords": [
+                        86.202514,
+                        26.674283
+                  ]
+            },
+            {
+                  "name": "कृष्ण मन्दिर",
+                  "text": "Un templu hindus în Siraha dedicat zeului Krishna, adesea plin de devotați în timpul sărbătorilor Janmashtami.",
+                  "category": "landmark",
+                  "coords": [
+                        86.206708,
+                        26.67012
+                  ]
+            },
+            {
+                  "name": "Siraha Church",
+                  "text": "Un lăcaș de cult creștin în zona Siraha care servește congregația locală cu slujbe săptămânale.",
+                  "category": "landmark",
+                  "coords": [
+                        86.208677,
+                        26.655304
+                  ]
+            },
+            {
+                  "name": "सलेस मन्दिर",
+                  "text": "Un altar cultural hindus în Siraha dedicat eroului popular și zeității Raja Salhesh, profund venerat în regiunea Mithila.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19885,
+                        26.66546
+                  ]
+            },
+            {
+                  "name": "Dihibar Mandir Basbitta",
+                  "text": "Un altar hindus local situat în zona Basbitta din Siraha, dedicat zeității protectoare a satului Dihibar.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19839,
+                        26.668551
+                  ]
+            },
+            {
+                  "name": "नन्दराम मन्दिर",
+                  "text": "Un templu hindus localizat în Siraha servind ca un punct specific de adunare a comunității pentru închinarea tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        86.196175,
+                        26.665089
+                  ]
+            },
+            {
+                  "name": "मज्जित",
+                  "text": "O moschee islamică de zi cu zi în Siraha, acționând ca un centru de cartier pentru rugăciunile Salah zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        86.196933,
+                        26.662446
+                  ]
+            },
+            {
+                  "name": "Bhola Baba Mandir, Govind Mandir, Laxmi Mandir",
+                  "text": "Un complex de temple hinduse cu mai multe fațete în Siraha, cu altare pentru Shiva (Bhola Baba), Krishna (Govind) și Laxmi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19482,
+                        26.657727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hanuman Temple",
+                  "text": "A Hindu temple in Siraha dedicated to the monkey god Hanuman, serving as a local place of devotion.",
+                  "category": "religious",
+                  "coords": [
+                        86.193722,
+                        26.656921
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir",
+                  "text": "A Hindu temple complex in Siraha devoted to Lord Rama and Goddess Sita, central to local religious life.",
+                  "category": "landmark",
+                  "coords": [
+                        86.238989,
+                        26.645786
+                  ]
+            },
+            {
+                  "name": "Bhagwati Mandir",
+                  "text": "A traditional Hindu shrine in Siraha dedicated to the Goddess Bhagwati, attracting devotees seeking protective blessings.",
+                  "category": "landmark",
+                  "coords": [
+                        86.236346,
+                        26.639608
+                  ]
+            },
+            {
+                  "name": "2no. road",
+                  "text": "A small roadside Hindu shrine situated along the 2no. route in the Siraha district area.",
+                  "category": "landmark",
+                  "coords": [
+                        86.211304,
+                        26.651222
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Mandir Labhaka Tole",
+                  "text": "A localized Hindu temple situated in the Labhaka Tole neighborhood of Siraha, honoring Ram and Sita.",
+                  "category": "landmark",
+                  "coords": [
+                        86.227561,
+                        26.641395
+                  ]
+            },
+            {
+                  "name": "Hanuman Mandir",
+                  "text": "A Hindu sanctuary in Siraha where devotees offer prayers to the strong monkey deity Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        86.228252,
+                        26.629692
+                  ]
+            },
+            {
+                  "name": "Shree Shree 108 Shree Dihawar Mandir",
+                  "text": "A Hindu shrine in Siraha dedicated to Dihawar Baba, acting as a spiritual guardian site for the local village.",
+                  "category": "landmark",
+                  "coords": [
+                        86.220383,
+                        26.635286
+                  ]
+            },
+            {
+                  "name": "Masjid Koba",
+                  "text": "An Islamic place of worship in Siraha, serving the local Muslim community for daily and Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        86.194207,
+                        26.646158
+                  ]
+            },
+            {
+                  "name": "Madani Masjid",
+                  "text": "A community mosque in Siraha where local Muslims gather for religious instruction and congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19707,
+                        26.644469
+                  ]
+            },
+            {
+                  "name": "Ganesh Mandir",
+                  "text": "A Hindu temple in Siraha dedicated to the elephant-headed deity Ganesha, revered as the remover of obstacles.",
+                  "category": "landmark",
+                  "coords": [
+                        86.204388,
+                        26.639206
+                  ]
+            },
+            {
+                  "name": "Dihibar Mandir",
+                  "text": "A local Hindu shrine in Siraha dedicated to the village deity Dihibar, protecting the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        86.210184,
+                        26.636847
+                  ]
+            },
+            {
+                  "name": "Bajrangbali Mandir",
+                  "text": "A Hindu temple in Siraha focused on the worship of Bajrangbali (Hanuman), an embodiment of devotion and power.",
+                  "category": "landmark",
+                  "coords": [
+                        86.205773,
+                        26.646717
+                  ]
+            },
+            {
+                  "name": "Shree Laxmi Narayan Mandir",
+                  "text": "A Hindu temple in Siraha dedicated to the preserver god Vishnu (Narayan) and his consort Laxmi, goddess of wealth.",
+                  "category": "landmark",
+                  "coords": [
+                        86.206784,
+                        26.652433
+                  ]
+            },
+            {
+                  "name": "मज्जित",
+                  "text": "A local mosque in Siraha providing a dedicated space for the Muslim community to perform their daily Islamic prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        86.195046,
+                        26.644864
+                  ]
+            },
+            {
+                  "name": "Balal Masjid",
+                  "text": "An Islamic mosque in Siraha serving as a spiritual center and prayer hall for local Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191325,
+                        26.647319
+                  ]
+            },
+            {
+                  "name": "Makki Jama Masjid",
+                  "text": "A significant congregational mosque in Siraha designed to accommodate the local Muslim population for Jumu'ah prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191584,
+                        26.644659
+                  ]
+            },
+            {
+                  "name": "Jame Masjid",
+                  "text": "A central mosque in Siraha that serves as a main gathering place for the local Muslim congregation's Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        86.191715,
+                        26.642949
+                  ]
+            },
+            {
+                  "name": "Daru Taalim Bataabiryat Madarsa",
+                  "text": "An Islamic educational institution and prayer center in Siraha, focusing on religious teachings for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        86.190267,
+                        26.64445
+                  ]
+            },
+            {
+                  "name": "Shiv Mandir",
+                  "text": "A Hindu temple in Siraha dedicated to Lord Shiva, featuring traditional elements of Shaivite worship.",
+                  "category": "landmark",
+                  "coords": [
+                        86.182126,
+                        26.643576
+                  ]
+            },
+            {
+                  "name": "Madina Masjid",
+                  "text": "An Islamic prayer facility in Siraha named after the holy city, gathering the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        86.207148,
+                        26.676593
+                  ]
+            },
+            {
+                  "name": "Dihabaar mandir",
+                  "text": "A grassroots Hindu shrine in Siraha dedicated to the local guardian deity (Dihawar) of the settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        86.202514,
+                        26.674283
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "A Hindu temple in Siraha dedicated to Lord Krishna, often bustling with devotees during Janmashtami celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        86.206708,
+                        26.67012
+                  ]
+            },
+            {
+                  "name": "Siraha Church",
+                  "text": "A Christian place of worship in the Siraha area serving the local congregation with weekly services.",
+                  "category": "landmark",
+                  "coords": [
+                        86.208677,
+                        26.655304
+                  ]
+            },
+            {
+                  "name": "Sahlesh Mandir",
+                  "text": "A cultural Hindu shrine in Siraha dedicated to the folk hero and deity Raja Salhesh, deeply revered in the Mithila region.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19885,
+                        26.66546
+                  ]
+            },
+            {
+                  "name": "Dihibar Mandir Basbitta",
+                  "text": "A local Hindu shrine situated in the Basbitta area of Siraha, dedicated to the protective village deity Dihibar.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19839,
+                        26.668551
+                  ]
+            },
+            {
+                  "name": "Nandaram Mandir",
+                  "text": "A localized Hindu temple in Siraha serving as a specific community gathering point for traditional worship.",
+                  "category": "landmark",
+                  "coords": [
+                        86.196175,
+                        26.665089
+                  ]
+            },
+            {
+                  "name": "मज्जित",
+                  "text": "An everyday Islamic mosque in Siraha acting as a neighborhood center for daily Salah prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        86.196933,
+                        26.662446
+                  ]
+            },
+            {
+                  "name": "Bhola Baba Mandir, Govind Mandir, Laxmi Mandir",
+                  "text": "A multifaceted Hindu temple complex in Siraha featuring shrines for Shiva (Bhola Baba), Krishna (Govind), and Laxmi.",
+                  "category": "landmark",
+                  "coords": [
+                        86.19482,
+                        26.657727
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P2",
     coords: [86.21, 26.65],
@@ -2228,7 +8033,160 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "inaruwa-cities-v2",
+    id: "inaruwa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shiva mandir",
+                  "text": "Der Shiva Mandir in Inaruwa ist ein hinduistischer Tempel, dessen zentraler Schrein das heilige Lingam zu Ehren von Lord Shiva enthält.",
+                  "category": "landmark",
+                  "coords": [
+                        87.148336,
+                        26.601183
+                  ]
+            },
+            {
+                  "name": "Bhagwati mandir",
+                  "text": "Der Bhagwati Mandir in Inaruwa ist ein hinduistischer Tempel, in dem Devotees der verehrten Göttin Bhagwati Opfergaben darbringen.",
+                  "category": "landmark",
+                  "coords": [
+                        87.14505,
+                        26.603221
+                  ]
+            },
+            {
+                  "name": "Ramjanki Mandir",
+                  "text": "Der Ramjanki Mandir in Inaruwa ist ein Tempel, der dem göttlichen Paar Rama und Sita gewidmet ist und spirituelle Zeremonien abhält.",
+                  "category": "religious",
+                  "coords": [
+                        87.139533,
+                        26.60548
+                  ]
+            },
+            {
+                  "name": "Durga Mandir",
+                  "text": "Der Durga Mandir in Inaruwa ist ein hinduistischer Andachtsort, der besonders während des Dashain-Festes für die Verehrung der Göttin Durga genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        87.134935,
+                        26.585418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shiva mandir",
+                  "text": "Az inaruwai Shiva Mandir egy hindu templom, amelynek központi szentélyében Síva isten tiszteletére állított szent lingam található.",
+                  "category": "landmark",
+                  "coords": [
+                        87.148336,
+                        26.601183
+                  ]
+            },
+            {
+                  "name": "Bhagwati mandir",
+                  "text": "Az inaruwai Bhagwati Mandir egy hindu templom, ahol a hívők a tisztelt Bhagwati istennőnek mutatnak be áldozatokat.",
+                  "category": "landmark",
+                  "coords": [
+                        87.14505,
+                        26.603221
+                  ]
+            },
+            {
+                  "name": "Ramjanki Mandir",
+                  "text": "Az inaruwai Ramjanki Mandir az isteni pár, Ráma és Szita tiszteletére emelt templom, ahol rendszeresen tartanak spirituális szertartásokat.",
+                  "category": "religious",
+                  "coords": [
+                        87.139533,
+                        26.60548
+                  ]
+            },
+            {
+                  "name": "Durga Mandir",
+                  "text": "Az inaruwai Durga Mandir egy hindu kegyhely, amely különösen a Dashain fesztivál idején telik meg Durga istennő tisztelőivel.",
+                  "category": "landmark",
+                  "coords": [
+                        87.134935,
+                        26.585418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shiva mandir",
+                  "text": "Shiva Mandir din Inaruwa este un templu hindus al cărui altar central adăpostește sacrul lingam în onoarea zeului Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        87.148336,
+                        26.601183
+                  ]
+            },
+            {
+                  "name": "Bhagwati mandir",
+                  "text": "Bhagwati Mandir din Inaruwa este un templu hindus unde credincioșii aduc ofrande veneratei zeițe Bhagwati.",
+                  "category": "landmark",
+                  "coords": [
+                        87.14505,
+                        26.603221
+                  ]
+            },
+            {
+                  "name": "Ramjanki Mandir",
+                  "text": "Ramjanki Mandir din Inaruwa este un templu dedicat cuplului divin Rama și Sita, găzduind ceremonii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        87.139533,
+                        26.60548
+                  ]
+            },
+            {
+                  "name": "Durga Mandir",
+                  "text": "Durga Mandir din Inaruwa este un lăcaș hindus vizitat intens pentru venerarea zeiței Durga, mai ales în timpul festivalului Dashain.",
+                  "category": "landmark",
+                  "coords": [
+                        87.134935,
+                        26.585418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shiva mandir",
+                  "text": "The Shiva Mandir in Inaruwa is a Hindu temple featuring a central shrine with the sacred lingam dedicated to Lord Shiva.",
+                  "category": "landmark",
+                  "coords": [
+                        87.148336,
+                        26.601183
+                  ]
+            },
+            {
+                  "name": "Bhagwati mandir",
+                  "text": "Bhagwati Mandir in Inaruwa is a Hindu temple where devotees present offerings to the revered goddess Bhagwati.",
+                  "category": "landmark",
+                  "coords": [
+                        87.14505,
+                        26.603221
+                  ]
+            },
+            {
+                  "name": "Ramjanki Mandir",
+                  "text": "The Ramjanki Mandir in Inaruwa is a place of worship dedicated to the divine couple Rama and Sita, hosting spiritual ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        87.139533,
+                        26.60548
+                  ]
+            },
+            {
+                  "name": "Durga Mandir",
+                  "text": "The Durga Mandir in Inaruwa is a Hindu devotional site prominently used for worshiping the goddess Durga, especially during the Dashain festival.",
+                  "category": "landmark",
+                  "coords": [
+                        87.134935,
+                        26.585418
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P1",
     coords: [87.15, 26.60],
@@ -2280,7 +8238,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rajput House",
-                  "text": "Historisches Herrenhaus in Rajbiraj.",
+                  "text": "Rajput House, ein historisches Rajput-Wohnhaus in Rajbiraj.",
                   "category": "historical",
                   "coords": [
                         86.741583,
@@ -2291,7 +8249,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rajput House",
-                  "text": "Történelmi kúria Rajbirajban.",
+                  "text": "Rajput House, egy történelmi radzsput lakóház Rajbirajban.",
                   "category": "historical",
                   "coords": [
                         86.741583,
@@ -2302,7 +8260,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rajput House",
-                  "text": "Conac istoric în Rajbiraj.",
+                  "text": "Rajput House, o casă istorică Rajput în Rajbiraj.",
                   "category": "historical",
                   "coords": [
                         86.741583,
@@ -2313,7 +8271,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rajput House",
-                  "text": "Historic manor in Rajbiraj.",
+                  "text": "Rajput House, a historic Rajput residence in Rajbiraj.",
                   "category": "historical",
                   "coords": [
                         86.741583,
@@ -2369,7 +8327,124 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "gulariya-cities-v2",
+    id: "gulariya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotahi Mandir",
+                  "text": "Ein traditioneller hinduistischer Gebetsort in Gulariya, der lokale architektonische Elemente aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        81.34892,
+                        28.219331
+                  ]
+            },
+            {
+                  "name": "Bageshwori Mandir",
+                  "text": "Ein der Göttin Bageshwori geweihter Hindutempel, der eine wichtige spirituelle Stätte in Gulariya darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        81.34079,
+                        28.203885
+                  ]
+            },
+            {
+                  "name": "vegetable market",
+                  "text": "Ein lebhafter lokaler Markt voller Stände, an denen in Gulariya frisches Gemüse und regionale Waren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        81.339218,
+                        28.205041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotahi Mandir",
+                  "text": "Hagyományos hindu imahely Gulariya településen, amely helyi építészeti elemeket vonultat fel.",
+                  "category": "landmark",
+                  "coords": [
+                        81.34892,
+                        28.219331
+                  ]
+            },
+            {
+                  "name": "Bageshwori Mandir",
+                  "text": "Bageshwori istennőnek szentelt hindu templom, amely fontos spirituális helyszín Gulariya településen.",
+                  "category": "landmark",
+                  "coords": [
+                        81.34079,
+                        28.203885
+                  ]
+            },
+            {
+                  "name": "vegetable market",
+                  "text": "Élénk helyi piac teli standokkal, ahol friss zöldségeket és regionális árukat árulnak Gulariya településen.",
+                  "category": "cultural",
+                  "coords": [
+                        81.339218,
+                        28.205041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotahi Mandir",
+                  "text": "Un loc de rugăciune hindus tradițional în Gulariya, care prezintă elemente arhitecturale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        81.34892,
+                        28.219331
+                  ]
+            },
+            {
+                  "name": "Bageshwori Mandir",
+                  "text": "Un templu hindus dedicat zeiței Bageshwori, un important sit spiritual în Gulariya.",
+                  "category": "landmark",
+                  "coords": [
+                        81.34079,
+                        28.203885
+                  ]
+            },
+            {
+                  "name": "vegetable market",
+                  "text": "O piață locală plină de viață, cu tarabe care vând legume proaspete și bunuri regionale în Gulariya.",
+                  "category": "cultural",
+                  "coords": [
+                        81.339218,
+                        28.205041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotahi Mandir",
+                  "text": "A traditional Hindu place of worship featuring local architectural elements in Gulariya.",
+                  "category": "landmark",
+                  "coords": [
+                        81.34892,
+                        28.219331
+                  ]
+            },
+            {
+                  "name": "Bageshwori Mandir",
+                  "text": "A Hindu temple dedicated to Goddess Bageshwori, an important spiritual site in Gulariya.",
+                  "category": "landmark",
+                  "coords": [
+                        81.34079,
+                        28.203885
+                  ]
+            },
+            {
+                  "name": "vegetable market",
+                  "text": "A lively local market filled with stalls selling fresh vegetables and regional goods in Gulariya.",
+                  "category": "cultural",
+                  "coords": [
+                        81.339218,
+                        28.205041
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P5",
     coords: [81.34, 28.21],
@@ -2421,7 +8496,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gautam's House ",
-                  "text": "Eine lokale Sehenswürdigkeit in der Stadt Bhadrapur.",
+                  "text": "Gautam's House, ein Wohnhaus in Bhadrapur, das als lokales Wahrzeichen gilt.",
                   "category": "landmark",
                   "coords": [
                         88.079186,
@@ -2432,7 +8507,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gautam's House ",
-                  "text": "Egy helyi látványosság Bhadrapur városában.",
+                  "text": "Gautam's House, egy lakóház Bhadrapurban, helyi nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         88.079186,
@@ -2443,7 +8518,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gautam's House ",
-                  "text": "O atracție locală situată în orașul Bhadrapur.",
+                  "text": "Gautam's House, o casă în Bhadrapur, un reper local.",
                   "category": "landmark",
                   "coords": [
                         88.079186,
@@ -2454,7 +8529,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gautam's House ",
-                  "text": "A local attraction situated in the city of Bhadrapur.",
+                  "text": "Gautam's House, a residence in Bhadrapur, a local landmark.",
                   "category": "landmark",
                   "coords": [
                         88.079186,
@@ -2514,7 +8589,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ura Dance Music Theater",
-                  "text": "Theater für traditionelle Tanzmusik in Banepa.",
+                  "text": "Ura Dance Music Theater, ein Theater in Banepa für den traditionellen Ura-Tanz und die dazugehörige Musik.",
                   "category": "cultural",
                   "coords": [
                         85.524444,
@@ -2523,7 +8598,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Chandeshwori view-tower",
-                  "text": "Aussichtspunkt in Banepa mit Blick auf die Umgebung.",
+                  "text": "Gosainsthan View Point, ein Aussichtspunkt in Banepa mit Panoramablick auf die Umgebung.",
                   "category": "natural",
                   "coords": [
                         85.540402,
@@ -2532,7 +8607,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Kobha Pukhu",
-                  "text": "Denkmal in Banepa.",
+                  "text": "Dwakha Pukhu, ein traditioneller Teich in Banepa, der für rituelle Waschungen genutzt wird.",
                   "category": "historical",
                   "coords": [
                         85.521965,
@@ -2541,7 +8616,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Chandika house",
-                  "text": "Aussichtspunkt am Chandika-Haus in Banepa.",
+                  "text": "Chandika house, ein natürliches Wahrzeichen in der Umgebung von Banepa.",
                   "category": "natural",
                   "coords": [
                         85.520743,
@@ -2550,7 +8625,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "कृष्ण को घर",
-                  "text": "Lokale Sehenswürdigkeit in Banepa.",
+                  "text": "Krishna's home, ein lokales Wahrzeichen in Banepa, das als Wohnhaus von Krishna bekannt ist.",
                   "category": "landmark",
                   "coords": [
                         85.535625,
@@ -2559,7 +8634,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "LHO HITI:",
-                  "text": "Historisches Denkmal in Banepa.",
+                  "text": "LHO HITI:, ein traditioneller steinerner Wasserauslass (Hiti) in Banepa.",
                   "category": "historical",
                   "coords": [
                         85.493307,
@@ -2568,7 +8643,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Sanjivani Krishi farm",
-                  "text": "Landwirtschaftlicher Betrieb in Banepa.",
+                  "text": "Sanjivani Krishi farm, ein landwirtschaftlicher Betrieb in Banepa, der als Wahrzeichen dient.",
                   "category": "landmark",
                   "coords": [
                         85.518957,
@@ -2579,7 +8654,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ura Dance Music Theater",
-                  "text": "Hagyományos tánczenei színház Banepában.",
+                  "text": "Ura Dance Music Theater, egy színház Banepában a hagyományos ura táncnak és zenének.",
                   "category": "cultural",
                   "coords": [
                         85.524444,
@@ -2588,7 +8663,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Chandeshwori view-tower",
-                  "text": "Kilátópont Banepában, kilátással a környékre.",
+                  "text": "Gosainsthan View Point, egy kilátóhely Banepában, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         85.540402,
@@ -2597,7 +8672,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Kobha Pukhu",
-                  "text": "Emlékmű Banepában.",
+                  "text": "Dwakha Pukhu, egy hagyományos tó Banepában, rituális fürdőzésre használják.",
                   "category": "historical",
                   "coords": [
                         85.521965,
@@ -2606,7 +8681,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Chandika house",
-                  "text": "Kilátópont a Chandika-háznál Banepában.",
+                  "text": "Chandika house, egy természeti nevezetesség Banepa közelében.",
                   "category": "natural",
                   "coords": [
                         85.520743,
@@ -2615,7 +8690,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "कृष्ण को घर",
-                  "text": "Helyi látnivaló Banepában.",
+                  "text": "Krishna's home, egy helyi nevezetesség Banepában, Krishna lakóhelyeként ismert.",
                   "category": "landmark",
                   "coords": [
                         85.535625,
@@ -2624,7 +8699,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "LHO HITI:",
-                  "text": "Történelmi emlékmű Banepában.",
+                  "text": "LHO HITI:, egy hagyományos kő vízkifolyó (hiti) Banepában.",
                   "category": "historical",
                   "coords": [
                         85.493307,
@@ -2633,7 +8708,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Sanjivani Krishi farm",
-                  "text": "Mezőgazdasági farm Banepában.",
+                  "text": "Sanjivani Krishi farm, egy mezőgazdasági üzem Banepában, nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         85.518957,
@@ -2644,7 +8719,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ura Dance Music Theater",
-                  "text": "Teatru pentru muzică și dans tradițional în Banepa.",
+                  "text": "Ura Dance Music Theater, un teatru în Banepa pentru dansul și muzica tradițională Ura.",
                   "category": "cultural",
                   "coords": [
                         85.524444,
@@ -2653,7 +8728,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Chandeshwori view-tower",
-                  "text": "Punct de belvedere în Banepa cu vedere asupra împrejurimilor.",
+                  "text": "Gosainsthan View Point, un punct de belvedere în Banepa cu vedere panoramică.",
                   "category": "natural",
                   "coords": [
                         85.540402,
@@ -2662,7 +8737,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Kobha Pukhu",
-                  "text": "Monument în Banepa.",
+                  "text": "Dwakha Pukhu, un iaz tradițional în Banepa, folosit pentru scăldat ritual.",
                   "category": "historical",
                   "coords": [
                         85.521965,
@@ -2671,7 +8746,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Chandika house",
-                  "text": "Punct de belvedere la casa Chandika în Banepa.",
+                  "text": "Chandika house, un reper natural în apropiere de Banepa.",
                   "category": "natural",
                   "coords": [
                         85.520743,
@@ -2680,7 +8755,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "कृष्ण को घर",
-                  "text": "Atracție locală în Banepa.",
+                  "text": "Krishna's home, un reper local în Banepa, cunoscut ca locuința lui Krishna.",
                   "category": "landmark",
                   "coords": [
                         85.535625,
@@ -2689,7 +8764,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "LHO HITI:",
-                  "text": "Monument istoric în Banepa.",
+                  "text": "LHO HITI:, un robinet tradițional de piatră (hiti) în Banepa.",
                   "category": "historical",
                   "coords": [
                         85.493307,
@@ -2698,7 +8773,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Sanjivani Krishi farm",
-                  "text": "Fermă agricolă în Banepa.",
+                  "text": "Sanjivani Krishi farm, o fermă agricolă în Banepa, un reper.",
                   "category": "landmark",
                   "coords": [
                         85.518957,
@@ -2709,7 +8784,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ura Dance Music Theater",
-                  "text": "Theater for traditional dance music in Banepa.",
+                  "text": "Ura Dance Music Theater, a theater in Banepa for traditional Ura dance and music.",
                   "category": "cultural",
                   "coords": [
                         85.524444,
@@ -2718,7 +8793,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Gosainsthan View Point",
-                  "text": "Viewpoint in Banepa overlooking the surroundings.",
+                  "text": "Gosainsthan View Point, a viewpoint in Banepa offering panoramic views.",
                   "category": "natural",
                   "coords": [
                         85.540402,
@@ -2727,7 +8802,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Dwakha Pukhu",
-                  "text": "Monument in Banepa.",
+                  "text": "Dwakha Pukhu, a traditional pond in Banepa used for ritual bathing.",
                   "category": "historical",
                   "coords": [
                         85.521965,
@@ -2736,7 +8811,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Chandika house",
-                  "text": "Viewpoint at the Chandika house in Banepa.",
+                  "text": "Chandika house, a natural landmark on the outskirts of Banepa.",
                   "category": "natural",
                   "coords": [
                         85.520743,
@@ -2745,7 +8820,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Krishna's home",
-                  "text": "Local attraction in Banepa.",
+                  "text": "Krishna's home, a local landmark in Banepa known as Krishna's residence.",
                   "category": "landmark",
                   "coords": [
                         85.535625,
@@ -2754,7 +8829,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "LHO HITI:",
-                  "text": "Historic monument in Banepa.",
+                  "text": "LHO HITI:, a traditional stone water spout (hiti) in Banepa.",
                   "category": "historical",
                   "coords": [
                         85.493307,
@@ -2763,7 +8838,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Sanjivani Krishi farm",
-                  "text": "Agricultural farm in Banepa.",
+                  "text": "Sanjivani Krishi farm, an agricultural farm in Banepa, a local landmark.",
                   "category": "landmark",
                   "coords": [
                         85.518957,
@@ -2823,7 +8898,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Baglung Kalika Temple Viewpoint",
-                  "text": "Baglung Kalika Temple Viewpoint bietet malerische Ausblicke in Baglung.",
+                  "text": "Baglung Kalika Temple Viewpoint, ein Aussichtspunkt in Baglung mit Blick auf den Kalika-Tempel.",
                   "category": "natural",
                   "coords": [
                         83.615482,
@@ -2834,7 +8909,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Baglung Kalika Temple Viewpoint",
-                  "text": "A Baglung Kalika Temple Viewpoint festői kilátást kínál Baglung városában.",
+                  "text": "Baglung Kalika Temple Viewpoint, egy kilátóhely Baglungban, a Kalika-templomra néző kilátással.",
                   "category": "natural",
                   "coords": [
                         83.615482,
@@ -2845,7 +8920,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Baglung Kalika Temple Viewpoint",
-                  "text": "Baglung Kalika Temple Viewpoint oferă vederi pitorești în Baglung.",
+                  "text": "Baglung Kalika Temple Viewpoint, un punct de belvedere în Baglung cu vedere spre Templul Kalika.",
                   "category": "natural",
                   "coords": [
                         83.615482,
@@ -2856,7 +8931,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Baglung Kalika Temple Viewpoint",
-                  "text": "Baglung Kalika Temple Viewpoint offers scenic views in Baglung.",
+                  "text": "Baglung Kalika Temple Viewpoint, a viewpoint in Baglung overlooking the Kalika Temple.",
                   "category": "natural",
                   "coords": [
                         83.615482,
@@ -2916,7 +8991,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Bhumre Shiva Mandir",
-                  "text": "Eine Hindu-Tempel-Attraktion in Waling.",
+                  "text": "Shiva mandir, ein Shiva-Tempel in der Stadt Waling.",
                   "category": "landmark",
                   "coords": [
                         83.750715,
@@ -2925,7 +9000,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pandethok View Point, Tower",
-                  "text": "Ein Turm mit malerischer Aussicht über Waling.",
+                  "text": "Pandethok View Point, Tower, ein Aussichtspunkt mit Turm in Waling mit Blick auf das Tal.",
                   "category": "landmark",
                   "coords": [
                         83.798043,
@@ -2934,7 +9009,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Thamko Chaur Tourist Area",
-                  "text": "Ein ausgewiesenes Touristengebiet in Waling.",
+                  "text": "Thamko Chaur Tourist Area, ein Touristengebiet in Waling, bekannt für seine offenen Grünflächen.",
                   "category": "landmark",
                   "coords": [
                         83.780694,
@@ -2943,7 +9018,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Bahunthan Tourist Area",
-                  "text": "Ein Attraktionsgebiet in der Stadt Waling.",
+                  "text": "Bahunthan Tourist Area, ein Touristengebiet in Waling mit malerischer Umgebung.",
                   "category": "landmark",
                   "coords": [
                         83.745532,
@@ -2954,7 +9029,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Bhumre Shiva Mandir",
-                  "text": "Egy hindu templom látványosság Waling városában.",
+                  "text": "Shiva mandir, egy Shiva-templom Waling városában.",
                   "category": "landmark",
                   "coords": [
                         83.750715,
@@ -2963,7 +9038,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pandethok View Point, Tower",
-                  "text": "Egy kilátótorony, amely festői kilátást nyújt Walingra.",
+                  "text": "Pandethok View Point, Tower, egy kilátóhely toronnyal Walingban, a völgyre néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         83.798043,
@@ -2972,7 +9047,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Thamko Chaur Tourist Area",
-                  "text": "Egy kijelölt turisztikai terület Waling városában.",
+                  "text": "Thamko Chaur Tourist Area, egy turisztikai terület Walingban, nyílt zöldterületeiről ismert.",
                   "category": "landmark",
                   "coords": [
                         83.780694,
@@ -2981,7 +9056,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Bahunthan Tourist Area",
-                  "text": "Egy turisztikai látványosság Waling városában.",
+                  "text": "Bahunthan Tourist Area, egy turisztikai terület Walingban, festői környezettel.",
                   "category": "landmark",
                   "coords": [
                         83.745532,
@@ -2992,7 +9067,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Bhumre Shiva Mandir",
-                  "text": "Un templu hindus situat în Waling.",
+                  "text": "Shiva mandir, un templu Shiva în orașul Waling.",
                   "category": "landmark",
                   "coords": [
                         83.750715,
@@ -3001,7 +9076,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pandethok View Point, Tower",
-                  "text": "Un turn care oferă priveliști pitorești asupra orașului Waling.",
+                  "text": "Pandethok View Point, Tower, un punct de belvedere cu turn în Waling, cu vedere asupra văii.",
                   "category": "landmark",
                   "coords": [
                         83.798043,
@@ -3010,7 +9085,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Thamko Chaur Tourist Area",
-                  "text": "O zonă turistică desemnată situată în Waling.",
+                  "text": "Thamko Chaur Tourist Area, o zonă turistică în Waling, cunoscută pentru spațiile verzi deschise.",
                   "category": "landmark",
                   "coords": [
                         83.780694,
@@ -3019,7 +9094,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Bahunthan Tourist Area",
-                  "text": "O zonă de atracție situată în orașul Waling.",
+                  "text": "Bahunthan Tourist Area, o zonă turistică în Waling, cu peisaje pitorești.",
                   "category": "landmark",
                   "coords": [
                         83.745532,
@@ -3030,7 +9105,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Shiva mandir",
-                  "text": "A Hindu temple attraction located in Waling.",
+                  "text": "Shiva mandir, a Shiva temple in the town of Waling.",
                   "category": "landmark",
                   "coords": [
                         83.750715,
@@ -3039,7 +9114,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Pandethok View Point, Tower",
-                  "text": "A tower offering scenic views over Waling.",
+                  "text": "Pandethok View Point, Tower, a viewpoint with a tower in Waling overlooking the valley.",
                   "category": "landmark",
                   "coords": [
                         83.798043,
@@ -3048,7 +9123,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Thamko Chaur Tourist Area",
-                  "text": "A designated tourist area located in Waling.",
+                  "text": "Thamko Chaur Tourist Area, a tourist area in Waling known for its open grounds.",
                   "category": "landmark",
                   "coords": [
                         83.780694,
@@ -3057,7 +9132,7 @@ export const poiExtraNepalCitiesV2: POI[] = [
             },
             {
                   "name": "Bahunthan Tourist Area",
-                  "text": "An attraction area situated in the city of Waling.",
+                  "text": "Bahunthan Tourist Area, a tourist area in Waling with scenic surroundings.",
                   "category": "landmark",
                   "coords": [
                         83.745532,
@@ -3161,7 +9236,664 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "gaur-cities-v2",
+    id: "gaur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Purenwa Durbar",
+                  "text": "Purenwa Durbar ist eine archäologische Stätte, die die Ruinen eines historischen nepalesischen Palastkomplexes in der Nähe von Gaur umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        85.282592,
+                        26.776185
+                  ]
+            },
+            {
+                  "name": "Chitragupt Temple",
+                  "text": "Der Chitragupt-Tempel in Gaur ist ein traditioneller hinduistischer Schrein, der dem göttlichen Aufzeichner des Karmas gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.267974,
+                        26.769489
+                  ]
+            },
+            {
+                  "name": "Hanuman Temple",
+                  "text": "Der Hanuman-Tempel in Gaur ist ein lebhafter hinduistischer Kultort, an dem sich die Gläubigen versammeln, um zum Affengott zu beten.",
+                  "category": "landmark",
+                  "coords": [
+                        85.27018,
+                        26.770016
+                  ]
+            },
+            {
+                  "name": "Baadi Mosque",
+                  "text": "Die Baadi-Moschee ist mit ihren markanten Minaretten ein bedeutendes islamisches Religionszentrum, das der lokalen muslimischen Gemeinde in Gaur dient.",
+                  "category": "landmark",
+                  "coords": [
+                        85.272891,
+                        26.768168
+                  ]
+            },
+            {
+                  "name": "Math",
+                  "text": "Das Math in Gaur ist eine hinduistische klösterliche Einrichtung, die regionale religiöse Traditionen und spirituelle Lehren bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        85.281631,
+                        26.78074
+                  ]
+            },
+            {
+                  "name": "Bhagawati Temple",
+                  "text": "Der Bhagawati-Tempel ist ein verehrtes Hindu-Heiligtum in Gaur, das für seine festlichen Versammlungen während regionaler religiöser Feiern bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.281317,
+                        26.766566
+                  ]
+            },
+            {
+                  "name": "Brahamsthan Temple",
+                  "text": "Der Brahamsthan-Tempel dient als zentraler Hinduschrein in Gaur und markiert einen heiligen Ort, der der Schöpfergottheit gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.279851,
+                        26.765382
+                  ]
+            },
+            {
+                  "name": "Krishna Temple",
+                  "text": "Der Krishna-Tempel ist mit traditioneller Andachtskunst ausgestattet und dient als lebhafter hinduistischer Verehrungsort im Herzen von Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.278525,
+                        26.76437
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Dieser lokale Hindutempel ist ein traditioneller Ort des Gebets und der Zusammenkünfte für die Einwohner von Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.276688,
+                        26.76639
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Diese Gemeindemoschee bietet einen speziellen Raum für die täglichen islamischen Gebete und die spirituelle Reflexion in Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.275136,
+                        26.767764
+                  ]
+            },
+            {
+                  "name": "Bidhyapati Temple",
+                  "text": "Der Bidhyapati-Tempel ist ein kulturell bedeutsamer Hindu-Schrein in Gaur, der Gläubige aus den umliegenden Bezirken anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        85.274958,
+                        26.763147
+                  ]
+            },
+            {
+                  "name": "Shivalaya Temple",
+                  "text": "Der Shivalaya-Tempel ist ein klassisches Hindudenkmal in Gaur, das Lord Shiva gewidmet ist und sich durch seine ruhige spirituelle Atmosphäre auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        85.279063,
+                        26.762695
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Dharmasala",
+                  "text": "Das Ram Janaki Dharmasala fungiert sowohl als hinduistische religiöse Stätte als auch als traditionelles Rasthaus für Pilger, die Gaur besuchen.",
+                  "category": "landmark",
+                  "coords": [
+                        85.280128,
+                        26.762027
+                  ]
+            },
+            {
+                  "name": "सफिदेवी मन्दिर",
+                  "text": "Safidevi Mandir ist ein engagierter hinduistischer Schrein in Gaur, zu dem lokale Anhänger kommen, um die ansässige Gottheit mit Opfergaben zu ehren.",
+                  "category": "landmark",
+                  "coords": [
+                        85.291345,
+                        26.7533
+                  ]
+            },
+            {
+                  "name": "महारानी मन्दिर",
+                  "text": "Der Maharani Mandir in Gaur ist ein hinduistischer Tempel, der für seine traditionelle Architektur und regelmäßigen Gemeindszeremonien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        85.292881,
+                        26.754668
+                  ]
+            },
+            {
+                  "name": "चम्पादेवी मन्दिर",
+                  "text": "Dieses hinduistische Heiligtum in Gaur, das Champadevi gewidmet ist, zieht Gläubige an, die in einer ruhigen Umgebung nach Segen suchen.",
+                  "category": "landmark",
+                  "coords": [
+                        85.291198,
+                        26.755756
+                  ]
+            },
+            {
+                  "name": "हनुमान मन्दिर",
+                  "text": "Dieser dem Affengott gewidmete Hanuman Mandir in Gaur erlebt regelmäßige Rezitationen der Hanuman Chalisa durch die Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        85.294365,
+                        26.756997
+                  ]
+            },
+            {
+                  "name": "सिरकता मन्दिर",
+                  "text": "Der Sirkata Mandir in Gaur ist eine lokale hinduistische Kultstätte mit traditioneller religiöser Ikonographie.",
+                  "category": "landmark",
+                  "coords": [
+                        85.29507,
+                        26.760433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Purenwa Durbar",
+                  "text": "A Purenwa Durbar egy régészeti lelőhely, amely egy történelmi nepáli palotakomplexum romjait rejti Gaur közelében.",
+                  "category": "historical",
+                  "coords": [
+                        85.282592,
+                        26.776185
+                  ]
+            },
+            {
+                  "name": "Chitragupt Temple",
+                  "text": "A gauri Chitragupt templom egy hagyományos hindu szentély, amelyet a karma isteni nyilvántartójának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        85.267974,
+                        26.769489
+                  ]
+            },
+            {
+                  "name": "Hanuman Temple",
+                  "text": "A gauri Hanuman templom egy nyüzsgő hindu imahely, ahol a hívők összegyűlnek, hogy a majomistenhez imádkozzanak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.27018,
+                        26.770016
+                  ]
+            },
+            {
+                  "name": "Baadi Mosque",
+                  "text": "A Baadi mecset kiemelkedő iszlám vallási központként szolgálja a helyi muszlim közösséget Gaurban, jellegzetes minaretjeivel.",
+                  "category": "landmark",
+                  "coords": [
+                        85.272891,
+                        26.768168
+                  ]
+            },
+            {
+                  "name": "Math",
+                  "text": "A gauri Math egy hindu szerzetesi intézmény, amely megőrzi a regionális vallási hagyományokat és spirituális tanításokat.",
+                  "category": "landmark",
+                  "coords": [
+                        85.281631,
+                        26.78074
+                  ]
+            },
+            {
+                  "name": "Bhagawati Temple",
+                  "text": "A Bhagawati templom egy tisztelt hindu szentély Gaurban, amely a regionális vallási ünnepek alatti ünnepi összejövetelekről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.281317,
+                        26.766566
+                  ]
+            },
+            {
+                  "name": "Brahamsthan Temple",
+                  "text": "A Brahamsthan templom központi hindu szentélyként szolgál Gaurban, amely a teremtő istenségnek szentelt szent helyet jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        85.279851,
+                        26.765382
+                  ]
+            },
+            {
+                  "name": "Krishna Temple",
+                  "text": "A Krisna-templom hagyományos áhítatos művészettel rendelkezik, és élénk hindu istentiszteleti helyként szolgál Gaur szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        85.278525,
+                        26.76437
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ez a helyi hindu templom a hagyományos imádság és a közösségi összejövetelek helyszíne Gaur lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        85.276688,
+                        26.76639
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Ez a közösségi mecset dedikált teret biztosít a napi iszlám imákhoz és a spirituális elmélkedéshez Gaurban.",
+                  "category": "landmark",
+                  "coords": [
+                        85.275136,
+                        26.767764
+                  ]
+            },
+            {
+                  "name": "Bidhyapati Temple",
+                  "text": "A Bidhyapati templom kulturálisan jelentős hindu szentély Gaurban, amely a környező kerületekből vonzza az imádkozókat.",
+                  "category": "landmark",
+                  "coords": [
+                        85.274958,
+                        26.763147
+                  ]
+            },
+            {
+                  "name": "Shivalaya Temple",
+                  "text": "A Shivalaya templom egy klasszikus hindu műemlék Gaurban, amelyet Lord Shivának szenteltek, és nyugodt spirituális légköre különbözteti meg.",
+                  "category": "landmark",
+                  "coords": [
+                        85.279063,
+                        26.762695
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Dharmasala",
+                  "text": "A Ram Janaki Dharmasala hindu vallási helyként és hagyományos pihenőházként is funkcionál a Gaurt látogató zarándokok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        85.280128,
+                        26.762027
+                  ]
+            },
+            {
+                  "name": "सफिदेवी मन्दिर",
+                  "text": "A Safidevi Mandir egy dedikált hindu szentély Gaurban, ahová a helyi hívők azért jönnek, hogy felajánlásokkal tiszteljék meg az ott lakó istenséget.",
+                  "category": "landmark",
+                  "coords": [
+                        85.291345,
+                        26.7533
+                  ]
+            },
+            {
+                  "name": "महारानी मन्दिर",
+                  "text": "A gauri Maharani Mandir egy hindu templom, amely hagyományos építészetéről és rendszeres közösségi szertartásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        85.292881,
+                        26.754668
+                  ]
+            },
+            {
+                  "name": "चम्पादेवी मन्दिर",
+                  "text": "A Champadevi számára szentelt gauri hindu szentély olyan hívőket vonz, akik békés környezetben keresnek áldást.",
+                  "category": "landmark",
+                  "coords": [
+                        85.291198,
+                        26.755756
+                  ]
+            },
+            {
+                  "name": "हनुमान मन्दिर",
+                  "text": "A majomistennek szentelt gauri Hanuman Mandirban a hívők rendszeresen szavalják a Hanuman Chalisát.",
+                  "category": "landmark",
+                  "coords": [
+                        85.294365,
+                        26.756997
+                  ]
+            },
+            {
+                  "name": "सिरकता मन्दिर",
+                  "text": "A gauri Sirkata Mandir egy helyi hindu istentiszteleti hely, amely hagyományos vallási ikonográfiát vonultat fel.",
+                  "category": "landmark",
+                  "coords": [
+                        85.29507,
+                        26.760433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Purenwa Durbar",
+                  "text": "Purenwa Durbar este un sit arheologic care conține ruinele unui complex istoric de palate nepaleze în vecinătatea orașului Gaur.",
+                  "category": "historical",
+                  "coords": [
+                        85.282592,
+                        26.776185
+                  ]
+            },
+            {
+                  "name": "Chitragupt Temple",
+                  "text": "Templul Chitragupt din Gaur este un altar hindus tradițional dedicat scribului divin al karmei.",
+                  "category": "landmark",
+                  "coords": [
+                        85.267974,
+                        26.769489
+                  ]
+            },
+            {
+                  "name": "Hanuman Temple",
+                  "text": "Templul Hanuman din Gaur este un lăcaș de cult hindus vibrant, unde devotații se adună pentru a se ruga zeului maimuță.",
+                  "category": "landmark",
+                  "coords": [
+                        85.27018,
+                        26.770016
+                  ]
+            },
+            {
+                  "name": "Baadi Mosque",
+                  "text": "Moscheea Baadi este un centru religios islamic proeminent care servește comunitatea musulmană locală din Gaur prin minaretele sale distincte.",
+                  "category": "landmark",
+                  "coords": [
+                        85.272891,
+                        26.768168
+                  ]
+            },
+            {
+                  "name": "Math",
+                  "text": "Math din Gaur este o instituție monahală hindusă care păstrează tradițiile religioase regionale și învățăturile spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        85.281631,
+                        26.78074
+                  ]
+            },
+            {
+                  "name": "Bhagawati Temple",
+                  "text": "Templul Bhagawati este un sanctuar hindus venerat din Gaur, cunoscut pentru adunările sale festive în timpul sărbătorilor religioase regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        85.281317,
+                        26.766566
+                  ]
+            },
+            {
+                  "name": "Brahamsthan Temple",
+                  "text": "Templul Brahamsthan servește ca altar hindus central în Gaur, marcând un loc sacru dedicat zeității creatoare.",
+                  "category": "landmark",
+                  "coords": [
+                        85.279851,
+                        26.765382
+                  ]
+            },
+            {
+                  "name": "Krishna Temple",
+                  "text": "Templul Krishna prezintă artă devoțională tradițională și servește ca un sit de cult hindus vibrant în inima orașului Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.278525,
+                        26.76437
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Acest templu hindus local este un loc tradițional de rugăciune și adunări comunitare pentru locuitorii din Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.276688,
+                        26.76639
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee comunitară oferă un spațiu dedicat pentru rugăciunile islamice zilnice și reflecția spirituală în Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.275136,
+                        26.767764
+                  ]
+            },
+            {
+                  "name": "Bidhyapati Temple",
+                  "text": "Templul Bidhyapati este un altar hindus cu semnificație culturală din Gaur, atrăgând credincioși din toate districtele înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        85.274958,
+                        26.763147
+                  ]
+            },
+            {
+                  "name": "Shivalaya Temple",
+                  "text": "Templul Shivalaya este un monument hindus clasic din Gaur dedicat zeului Shiva, care se distinge prin atmosfera sa spirituală senină.",
+                  "category": "landmark",
+                  "coords": [
+                        85.279063,
+                        26.762695
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Dharmasala",
+                  "text": "Ram Janaki Dharmasala funcționează atât ca sit religios hindus, cât și ca o casă de odihnă tradițională pentru pelerinii care vizitează Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.280128,
+                        26.762027
+                  ]
+            },
+            {
+                  "name": "सफिदेवी मन्दिर",
+                  "text": "Safidevi Mandir este un altar hindus dedicat din Gaur, unde devotații locali vin să onoreze zeitatea rezidentă cu ofrande.",
+                  "category": "landmark",
+                  "coords": [
+                        85.291345,
+                        26.7533
+                  ]
+            },
+            {
+                  "name": "महारानी मन्दिर",
+                  "text": "Maharani Mandir din Gaur este un templu hindus remarcat pentru arhitectura sa tradițională și ceremoniile comunitare regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        85.292881,
+                        26.754668
+                  ]
+            },
+            {
+                  "name": "चम्पादेवी मन्दिर",
+                  "text": "Acest sanctuar hindus din Gaur, dedicat lui Champadevi, atrage credincioșii care caută binecuvântări într-un cadru liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        85.291198,
+                        26.755756
+                  ]
+            },
+            {
+                  "name": "हनुमान मन्दिर",
+                  "text": "Dedicat zeului maimuță, acest Hanuman Mandir din Gaur găzduiește recitări regulate ale Hanuman Chalisa de către credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        85.294365,
+                        26.756997
+                  ]
+            },
+            {
+                  "name": "सिरकता मन्दिर",
+                  "text": "Sirkata Mandir din Gaur este un lăcaș de cult hindus local, prezentând iconografie religioasă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        85.29507,
+                        26.760433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Purenwa Durbar",
+                  "text": "Purenwa Durbar is an archaeological site containing the ruins of a historic Nepalese palace complex in the vicinity of Gaur.",
+                  "category": "historical",
+                  "coords": [
+                        85.282592,
+                        26.776185
+                  ]
+            },
+            {
+                  "name": "Chitragupt Temple",
+                  "text": "Chitragupt Temple in Gaur is a traditional Hindu shrine dedicated to the divine record-keeper of karma.",
+                  "category": "landmark",
+                  "coords": [
+                        85.267974,
+                        26.769489
+                  ]
+            },
+            {
+                  "name": "Hanuman Temple",
+                  "text": "Hanuman Temple in Gaur is a vibrant Hindu place of worship where devotees gather to pray to the monkey god.",
+                  "category": "landmark",
+                  "coords": [
+                        85.27018,
+                        26.770016
+                  ]
+            },
+            {
+                  "name": "Baadi Mosque",
+                  "text": "Baadi Mosque stands as a prominent Islamic religious center serving the local Muslim community in Gaur with its distinct minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        85.272891,
+                        26.768168
+                  ]
+            },
+            {
+                  "name": "Math",
+                  "text": "The Math in Gaur is a Hindu monastic institution preserving regional religious traditions and spiritual teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        85.281631,
+                        26.78074
+                  ]
+            },
+            {
+                  "name": "Bhagawati Temple",
+                  "text": "Bhagawati Temple is a venerated Hindu sanctuary in Gaur known for its festive gatherings during regional religious celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        85.281317,
+                        26.766566
+                  ]
+            },
+            {
+                  "name": "Brahamsthan Temple",
+                  "text": "Brahamsthan Temple serves as a central Hindu shrine in Gaur, marking a sacred spot dedicated to the creator deity.",
+                  "category": "landmark",
+                  "coords": [
+                        85.279851,
+                        26.765382
+                  ]
+            },
+            {
+                  "name": "Krishna Temple",
+                  "text": "Krishna Temple features traditional devotional art and serves as a vibrant Hindu worship site in the heart of Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.278525,
+                        26.76437
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "This local Hindu temple is a traditional place of prayer and community gatherings for the residents of Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.276688,
+                        26.76639
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "This community Mosque provides a dedicated space for daily Islamic prayers and spiritual reflection in Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.275136,
+                        26.767764
+                  ]
+            },
+            {
+                  "name": "Bidhyapati Temple",
+                  "text": "Bidhyapati Temple is a culturally significant Hindu shrine in Gaur, drawing worshippers from across the surrounding districts.",
+                  "category": "landmark",
+                  "coords": [
+                        85.274958,
+                        26.763147
+                  ]
+            },
+            {
+                  "name": "Shivalaya Temple",
+                  "text": "Shivalaya Temple is a classic Hindu monument in Gaur dedicated to Lord Shiva, distinguished by its serene spiritual atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        85.279063,
+                        26.762695
+                  ]
+            },
+            {
+                  "name": "Ram Janaki Dharmasala",
+                  "text": "Ram Janaki Dharmasala functions as both a Hindu religious site and a traditional rest house for pilgrims visiting Gaur.",
+                  "category": "landmark",
+                  "coords": [
+                        85.280128,
+                        26.762027
+                  ]
+            },
+            {
+                  "name": "Safidevi Mandir",
+                  "text": "Safidevi Mandir is a dedicated Hindu shrine in Gaur where local devotees come to honor the resident deity with offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        85.291345,
+                        26.7533
+                  ]
+            },
+            {
+                  "name": "Maharani Mandir",
+                  "text": "The Maharani Mandir in Gaur is a Hindu temple noted for its traditional architecture and regular community ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        85.292881,
+                        26.754668
+                  ]
+            },
+            {
+                  "name": "Champadevi Mandir",
+                  "text": "This Hindu sanctuary in Gaur, dedicated to Champadevi, attracts worshippers seeking blessings in a tranquil setting.",
+                  "category": "landmark",
+                  "coords": [
+                        85.291198,
+                        26.755756
+                  ]
+            },
+            {
+                  "name": "Hanuman Mandir",
+                  "text": "Devoted to the monkey god, this Hanuman Mandir in Gaur sees regular recitations of the Hanuman Chalisa by the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        85.294365,
+                        26.756997
+                  ]
+            },
+            {
+                  "name": "Sirkata Mandir",
+                  "text": "The Sirkata Mandir in Gaur is a local Hindu place of worship featuring traditional religious iconography.",
+                  "category": "landmark",
+                  "coords": [
+                        85.29507,
+                        26.760433
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P2",
     coords: [85.27, 26.76],

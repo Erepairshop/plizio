@@ -2089,7 +2089,7 @@ export const poiExtraHungaryCitiesV3: POI[] = [
       "de": [
             {
                   "name": "Csigaház",
-                  "text": "Ein Kulturhaus und Veranstaltungsort in Kerepestarcsa.",
+                  "text": "Ungewöhnliches Gebäude in Schneckenform, das für kulturelle Veranstaltungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         19.260343,
@@ -2107,7 +2107,7 @@ export const poiExtraHungaryCitiesV3: POI[] = [
             },
             {
                   "name": "Szent Anna-templom",
-                  "text": "Die St. Anna-Kirche ist ein sakrales Bauwerk in Kerepestarcsa.",
+                  "text": "St.-Anna-Kirche in Kerepestarcsa.",
                   "category": "religious",
                   "coords": [
                         19.290201,
@@ -2118,7 +2118,7 @@ export const poiExtraHungaryCitiesV3: POI[] = [
       "hu": [
             {
                   "name": "Csigaház",
-                  "text": "Kulturális központ és rendezvényhelyszín Kerepestarcsán.",
+                  "text": "Csigaház, egy csiga alakú épület kulturális rendezvények számára.",
                   "category": "cultural",
                   "coords": [
                         19.260343,
@@ -2136,7 +2136,7 @@ export const poiExtraHungaryCitiesV3: POI[] = [
             },
             {
                   "name": "Szent Anna-templom",
-                  "text": "A Szent Anna-templom Kerepestarcsa egyik szakrális építménye.",
+                  "text": "Szent Anna-templom Kerepestarcsán.",
                   "category": "religious",
                   "coords": [
                         19.290201,
@@ -2147,7 +2147,7 @@ export const poiExtraHungaryCitiesV3: POI[] = [
       "ro": [
             {
                   "name": "Csigaház",
-                  "text": "O casă de cultură și loc de evenimente în Kerepestarcsa.",
+                  "text": "Clădire neobișnuită în formă de melc, folosită pentru evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         19.260343,
@@ -2165,7 +2165,7 @@ export const poiExtraHungaryCitiesV3: POI[] = [
             },
             {
                   "name": "Szent Anna-templom",
-                  "text": "Biserica Sfânta Ana este un lăcaș de cult din Kerepestarcsa.",
+                  "text": "Biserica Sfânta Ana din Kerepestarcsa.",
                   "category": "religious",
                   "coords": [
                         19.290201,
@@ -2176,7 +2176,7 @@ export const poiExtraHungaryCitiesV3: POI[] = [
       "en": [
             {
                   "name": "Csigaház",
-                  "text": "A cultural center and venue in Kerepestarcsa.",
+                  "text": "Unusual snail-shaped building used for cultural events.",
                   "category": "cultural",
                   "coords": [
                         19.260343,
@@ -2194,7 +2194,7 @@ export const poiExtraHungaryCitiesV3: POI[] = [
             },
             {
                   "name": "Szent Anna-templom",
-                  "text": "Saint Anne's Church is a religious building in Kerepestarcsa.",
+                  "text": "St. Anne's Catholic church in Kerepestarcsa.",
                   "category": "religious",
                   "coords": [
                         19.290201,
@@ -39239,7 +39239,7 @@ export const poiExtraHungaryCitiesV3: POI[] = [
             },
             {
                   "name": "Roman Catholic Church of the Exaltation of the Holy Cross",
-                  "text": "Dedicated to the Exaltation of the Holy Cross, this church is a key religious and architectural landmark in Nagyecsed.",
+                  "text": "Baroque Roman Catholic church dedicated to the Exaltation of the Holy Cross in Nagyecsed.",
                   "category": "civic",
                   "coords": [
                         22.3855,

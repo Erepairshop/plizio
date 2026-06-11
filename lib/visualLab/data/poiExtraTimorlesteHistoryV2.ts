@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraTimorlesteHistoryV2: POI[] = [
   {
-    id: "cristo-rei-dili-history-v2",
+    id: "cristo-rei-dili-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Area Protegida de Cristo Rei",
+                  "text": "Die Area Protegida de Cristo Rei ist ein wunderschönes Naturschutzgebiet in cristo-rei-dili-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.609457,
+                        -8.52152
+                  ]
+            },
+            {
+                  "name": "Praia Cristo Rei",
+                  "text": "Der Praia Cristo Rei ist ein malerischer Strand in cristo-rei-dili-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.609363,
+                        -8.523798
+                  ]
+            },
+            {
+                  "name": "Station IX",
+                  "text": "Station IX ist ein christliches Monument und Teil einer Reihe in cristo-rei-dili-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610148,
+                        -8.522577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Area Protegida de Cristo Rei",
+                  "text": "Az Area Protegida de Cristo Rei egy védett természeti terület cristo-rei-dili-history-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        125.609457,
+                        -8.52152
+                  ]
+            },
+            {
+                  "name": "Praia Cristo Rei",
+                  "text": "A Praia Cristo Rei egy népszerű tengerparti szakasz cristo-rei-dili-history-v2 térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        125.609363,
+                        -8.523798
+                  ]
+            },
+            {
+                  "name": "Station IX",
+                  "text": "A Station IX egy keresztény imaállomás cristo-rei-dili-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610148,
+                        -8.522577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Area Protegida de Cristo Rei",
+                  "text": "Area Protegida de Cristo Rei este o rezervație naturală protejată din cristo-rei-dili-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.609457,
+                        -8.52152
+                  ]
+            },
+            {
+                  "name": "Praia Cristo Rei",
+                  "text": "Praia Cristo Rei este o plajă pitorească situată în regiunea cristo-rei-dili-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.609363,
+                        -8.523798
+                  ]
+            },
+            {
+                  "name": "Station IX",
+                  "text": "Station IX este un punct creștin de meditație situat în cristo-rei-dili-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610148,
+                        -8.522577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Area Protegida de Cristo Rei",
+                  "text": "The Area Protegida de Cristo Rei is a protected nature reserve situated in cristo-rei-dili-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.609457,
+                        -8.52152
+                  ]
+            },
+            {
+                  "name": "Praia Cristo Rei",
+                  "text": "Praia Cristo Rei is a scenic beach destination located in cristo-rei-dili-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        125.609363,
+                        -8.523798
+                  ]
+            },
+            {
+                  "name": "Station IX",
+                  "text": "Station IX is a Christian monument serving as a waypoint in cristo-rei-dili-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610148,
+                        -8.522577
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TL-DI",
     coords: [125.6092, -8.5218],
@@ -67,7 +184,88 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "santa-cruz-cemetery-history-v2",
+    id: "santa-cruz-cemetery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agiamondo Foundation Church",
+                  "text": "Dieses Kirchengebäude in der Nähe des historischen Friedhofs Santa Cruz in Dili ist mit den wohltätigen Bemühungen der Agiamondo Foundation verbunden.",
+                  "category": "religious",
+                  "coords": [
+                        125.587837,
+                        -8.558353
+                  ]
+            },
+            {
+                  "name": "Fundasaun Vihara Metta Prajna Dharma",
+                  "text": "Diese buddhistische Stiftung liegt im Gebiet des Friedhofs Santa Cruz und dient als ruhiges Zentrum für Dharma-Lehren und Meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        125.589467,
+                        -8.557679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agiamondo Foundation Church",
+                  "text": "A dili történelmi Santa Cruz temető közelében található templomépület az Agiamondo Alapítvány jótékonysági törekvéseihez kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        125.587837,
+                        -8.558353
+                  ]
+            },
+            {
+                  "name": "Fundasaun Vihara Metta Prajna Dharma",
+                  "text": "A Santa Cruz temető környékén megbúvó buddhista alapítvány a dharma tanításainak és a meditációnak a békés központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.589467,
+                        -8.557679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agiamondo Foundation Church",
+                  "text": "Situată lângă cimitirul istoric Santa Cruz din Dili, această clădire a bisericii este legată de eforturile caritabile ale Fundației Agiamondo.",
+                  "category": "religious",
+                  "coords": [
+                        125.587837,
+                        -8.558353
+                  ]
+            },
+            {
+                  "name": "Fundasaun Vihara Metta Prajna Dharma",
+                  "text": "Ascunsă în zona Cimitirului Santa Cruz, această fundație budistă servește ca un centru liniștit pentru învățăturile Dharma și meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        125.589467,
+                        -8.557679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agiamondo Foundation Church",
+                  "text": "Located near the historic Santa Cruz Cemetery in Dili, this church building is linked to the charitable efforts of the Agiamondo Foundation.",
+                  "category": "religious",
+                  "coords": [
+                        125.587837,
+                        -8.558353
+                  ]
+            },
+            {
+                  "name": "Fundasaun Vihara Metta Prajna Dharma",
+                  "text": "Nestled in the area of the Santa Cruz Cemetery, this Buddhist foundation serves as a serene center for Dharma teachings and meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        125.589467,
+                        -8.557679
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TL-DI",
     coords: [125.5847, -8.5627],
@@ -131,7 +329,88 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "chega-museum-balide-history-v2",
+    id: "chega-museum-balide-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chega! Exhibition",
+                  "text": "Die Chega! Exhibition ist ein Museum für historische Ereignisse in chega-museum-balide-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        125.57771,
+                        -8.565318
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora Assunão Caicoli",
+                  "text": "Die Capela Nossa Senhora Assunão Caicoli ist eine christliche Stätte in chega-museum-balide-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.577348,
+                        -8.562724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chega! Exhibition",
+                  "text": "A Chega! Exhibition történelmi eseményeket bemutató múzeum chega-museum-balide-history-v2 városában.",
+                  "category": "museum",
+                  "coords": [
+                        125.57771,
+                        -8.565318
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora Assunão Caicoli",
+                  "text": "A Capela Nossa Senhora Assunão Caicoli egy keresztény vallási emlékhely chega-museum-balide-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.577348,
+                        -8.562724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chega! Exhibition",
+                  "text": "Chega! Exhibition este un muzeu istoric aflat în chega-museum-balide-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        125.57771,
+                        -8.565318
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora Assunão Caicoli",
+                  "text": "Capela Nossa Senhora Assunão Caicoli este un sit creștin din chega-museum-balide-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.577348,
+                        -8.562724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chega! Exhibition",
+                  "text": "Chega! Exhibition is a museum detailing historical events, situated in chega-museum-balide-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        125.57771,
+                        -8.565318
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora Assunão Caicoli",
+                  "text": "Capela Nossa Senhora Assunão Caicoli is a Christian religious site located in chega-museum-balide-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.577348,
+                        -8.562724
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TL-DI",
     coords: [125.5786, -8.5630],
@@ -259,7 +538,304 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "balibo-fort-history-v2",
+    id: "balibo-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "fatuk louba",
+                  "text": "Fatuk louba ist eine lokale Sehenswürdigkeit in balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.04515,
+                        -8.918252
+                  ]
+            },
+            {
+                  "name": "fatuk boot",
+                  "text": "Fatuk boot ist eine lokale Attraktion in der Gegend von balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.979788,
+                        -8.929775
+                  ]
+            },
+            {
+                  "name": "Portuguese fort and police station",
+                  "text": "Die portugiesische Festung und Polizeistation ist ein historisches Denkmal in balibo-fort-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        124.972783,
+                        -8.946223
+                  ]
+            },
+            {
+                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
+                  "text": "Die alten portugiesischen Kasernen und ehemaligen Garnisonsruinen dienen als Denkmal in balibo-fort-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.045204,
+                        -8.969838
+                  ]
+            },
+            {
+                  "name": "australia flag house",
+                  "text": "Das Australia flag house ist eine bemerkenswerte Attraktion in balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.043548,
+                        -8.969496
+                  ]
+            },
+            {
+                  "name": "Gruta Morutau",
+                  "text": "Gruta Morutau ist eine christliche Stätte in der Gegend von balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.034338,
+                        -8.955912
+                  ]
+            },
+            {
+                  "name": "Kapela Sao Miquel Leohito",
+                  "text": "Kapela Sao Miquel Leohito ist eine Kirche in balibo-fort-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.063235,
+                        -8.998271
+                  ]
+            },
+            {
+                  "name": "Igreja ST. Antonio Balibo",
+                  "text": "Igreja ST. Antonio Balibo ist eine christliche Kultstätte in balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.042474,
+                        -8.980107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "fatuk louba",
+                  "text": "A fatuk louba egy helyi turisztikai látványosság balibo-fort-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.04515,
+                        -8.918252
+                  ]
+            },
+            {
+                  "name": "fatuk boot",
+                  "text": "A Fatuk boot egy helyi látványosság a balibo-fort-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.979788,
+                        -8.929775
+                  ]
+            },
+            {
+                  "name": "Portuguese fort and police station",
+                  "text": "A portugál erőd és rendőrállomás egy történelmi műemlék a balibo-fort-history-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        124.972783,
+                        -8.946223
+                  ]
+            },
+            {
+                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
+                  "text": "A régi portugál laktanya és az egykori helyőrség romjai műemlékként szolgálnak a balibo-fort-history-v2 régióban.",
+                  "category": "historical",
+                  "coords": [
+                        125.045204,
+                        -8.969838
+                  ]
+            },
+            {
+                  "name": "australia flag house",
+                  "text": "Az Australia flag house egy figyelemre méltó látványosság a balibo-fort-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.043548,
+                        -8.969496
+                  ]
+            },
+            {
+                  "name": "Gruta Morutau",
+                  "text": "A Gruta Morutau egy keresztény helyszín a balibo-fort-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.034338,
+                        -8.955912
+                  ]
+            },
+            {
+                  "name": "Kapela Sao Miquel Leohito",
+                  "text": "A Kapela Sao Miquel Leohito egy templom a balibo-fort-history-v2 régióban.",
+                  "category": "religious",
+                  "coords": [
+                        125.063235,
+                        -8.998271
+                  ]
+            },
+            {
+                  "name": "Igreja ST. Antonio Balibo",
+                  "text": "Az Igreja ST. Antonio Balibo egy keresztény istentiszteleti hely a balibo-fort-history-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.042474,
+                        -8.980107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "fatuk louba",
+                  "text": "Fatuk louba este o atracție turistică locală situată în balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.04515,
+                        -8.918252
+                  ]
+            },
+            {
+                  "name": "fatuk boot",
+                  "text": "Fatuk boot este o atracție locală situată în zona balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.979788,
+                        -8.929775
+                  ]
+            },
+            {
+                  "name": "Portuguese fort and police station",
+                  "text": "Fortul și secția de poliție portugheză reprezintă un monument istoric din balibo-fort-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        124.972783,
+                        -8.946223
+                  ]
+            },
+            {
+                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
+                  "text": "Vechile cazărmi portugheze și ruinele fostei garnizoane servesc drept monument în balibo-fort-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.045204,
+                        -8.969838
+                  ]
+            },
+            {
+                  "name": "australia flag house",
+                  "text": "Australia flag house este o atracție notabilă situată în balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.043548,
+                        -8.969496
+                  ]
+            },
+            {
+                  "name": "Gruta Morutau",
+                  "text": "Gruta Morutau este un sit creștin situat în zona balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.034338,
+                        -8.955912
+                  ]
+            },
+            {
+                  "name": "Kapela Sao Miquel Leohito",
+                  "text": "Kapela Sao Miquel Leohito este o biserică situată în balibo-fort-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.063235,
+                        -8.998271
+                  ]
+            },
+            {
+                  "name": "Igreja ST. Antonio Balibo",
+                  "text": "Igreja ST. Antonio Balibo este un lăcaș de cult creștin situat în balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.042474,
+                        -8.980107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "fatuk louba",
+                  "text": "Fatuk louba is a local tourist attraction situated in balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.04515,
+                        -8.918252
+                  ]
+            },
+            {
+                  "name": "fatuk boot",
+                  "text": "Fatuk boot is a local attraction located in the balibo-fort-history-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        124.979788,
+                        -8.929775
+                  ]
+            },
+            {
+                  "name": "Portuguese fort and police station",
+                  "text": "The Portuguese fort and police station is a historical monument in balibo-fort-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        124.972783,
+                        -8.946223
+                  ]
+            },
+            {
+                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
+                  "text": "The old Portuguese barracks and former garrison ruins serve as a monument in balibo-fort-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.045204,
+                        -8.969838
+                  ]
+            },
+            {
+                  "name": "australia flag house",
+                  "text": "The Australia flag house is a notable attraction situated in balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.043548,
+                        -8.969496
+                  ]
+            },
+            {
+                  "name": "Gruta Morutau",
+                  "text": "Gruta Morutau is a Christian site located in the balibo-fort-history-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.034338,
+                        -8.955912
+                  ]
+            },
+            {
+                  "name": "Kapela Sao Miquel Leohito",
+                  "text": "Kapela Sao Miquel Leohito is a church situated in balibo-fort-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.063235,
+                        -8.998271
+                  ]
+            },
+            {
+                  "name": "Igreja ST. Antonio Balibo",
+                  "text": "Igreja ST. Antonio Balibo is a Christian worship site located in balibo-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.042474,
+                        -8.980107
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TL-BO",
     coords: [125.0433, -8.9691],
@@ -323,7 +899,160 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "lifau-monument-oecusse-history-v2",
+    id: "lifau-monument-oecusse-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Berço de Timor Leste",
+                  "text": "Berço de Timor Leste ist eine bedeutende Attraktion, die die regionale Geschichte in lifau-monument-oecusse-history-v2 markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        124.321464,
+                        -9.200486
+                  ]
+            },
+            {
+                  "name": "Ponte mais longa em Timor Leste",
+                  "text": "Bekannt als die größte Brücke in Osttimor, ist dieses Bauwerk eine architektonische Hauptattraktion in lifau-monument-oecusse-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.312551,
+                        -9.208658
+                  ]
+            },
+            {
+                  "name": "Arrozais",
+                  "text": "Die lokalen Reisfelder bieten malerische landwirtschaftliche Landschaften als Naturattraktion in lifau-monument-oecusse-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.312408,
+                        -9.202363
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia ist ein entspannender Strandabschnitt an der Küste von lifau-monument-oecusse-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        124.271675,
+                        -9.223853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Berço de Timor Leste",
+                  "text": "A Berço de Timor Leste egy jelentős látványosság, amely a régió történelmét jelöli lifau-monument-oecusse-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.321464,
+                        -9.200486
+                  ]
+            },
+            {
+                  "name": "Ponte mais longa em Timor Leste",
+                  "text": "A Kelet-Timor legnagyobb hídjaként ismert építmény egy jelentős építészeti látványosság lifau-monument-oecusse-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        124.312551,
+                        -9.208658
+                  ]
+            },
+            {
+                  "name": "Arrozais",
+                  "text": "A helyi rizsföldek festői mezőgazdasági tájat kínálnak természeti látványosságként lifau-monument-oecusse-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        124.312408,
+                        -9.202363
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "A Praia egy pihentető tengerparti szakasz lifau-monument-oecusse-history-v2 partján.",
+                  "category": "recreational",
+                  "coords": [
+                        124.271675,
+                        -9.223853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Berço de Timor Leste",
+                  "text": "Berço de Timor Leste este o atracție semnificativă care marchează istoria regională în lifau-monument-oecusse-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.321464,
+                        -9.200486
+                  ]
+            },
+            {
+                  "name": "Ponte mais longa em Timor Leste",
+                  "text": "Cunoscută drept cel mai mare pod din Timorul de Est, această structură este o atracție arhitecturală majoră în lifau-monument-oecusse-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.312551,
+                        -9.208658
+                  ]
+            },
+            {
+                  "name": "Arrozais",
+                  "text": "Câmpurile de orez locale oferă peisaje agricole pitorești care servesc drept atracție naturală în lifau-monument-oecusse-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.312408,
+                        -9.202363
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia este o porțiune de plajă relaxantă de-a lungul coastei din lifau-monument-oecusse-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        124.271675,
+                        -9.223853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Berço de Timor Leste",
+                  "text": "Berço de Timor Leste is a significant attraction marking regional history in lifau-monument-oecusse-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.321464,
+                        -9.200486
+                  ]
+            },
+            {
+                  "name": "Biggest bridge in East Timor",
+                  "text": "Known as the biggest bridge in East Timor, this structure is a major architectural attraction in lifau-monument-oecusse-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.312551,
+                        -9.208658
+                  ]
+            },
+            {
+                  "name": "Rice Fields",
+                  "text": "The local Rice Fields offer scenic agricultural landscapes that serve as a natural attraction in lifau-monument-oecusse-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        124.312408,
+                        -9.202363
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia is a relaxing stretch of beach along the coast of lifau-monument-oecusse-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        124.271675,
+                        -9.223853
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TL-OE",
     coords: [124.3167, -9.2000],
@@ -451,7 +1180,88 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "pousada-de-maubisse-history-v2",
+    id: "pousada-de-maubisse-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capela Lequibaulu",
+                  "text": "Die Capela Lequibaulu in Maubisse ist eine einfache christliche Kapelle, die in das bergige Terrain dieser historischen Region eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.619022,
+                        -8.901816
+                  ]
+            },
+            {
+                  "name": "Rabilau Maubisse",
+                  "text": "Rabilau Maubisse ist ein christlicher Ort in Maubisse, der für die Bergbewohner der Gegend als spiritueller Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571561,
+                        -8.853174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capela Lequibaulu",
+                  "text": "A maubissei Capela Lequibaulu egy egyszerű keresztény kápolna, amely a történelmi régió hegyvidéki terepébe illeszkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        125.619022,
+                        -8.901816
+                  ]
+            },
+            {
+                  "name": "Rabilau Maubisse",
+                  "text": "A Rabilau Maubisse egy keresztény helyszín Maubisse-ben, amely a környék hegyi lakóinak spirituális találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571561,
+                        -8.853174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capela Lequibaulu",
+                  "text": "Capela Lequibaulu din Maubisse este o capelă creștină simplă, cuibărită în terenul muntos al acestei regiuni istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        125.619022,
+                        -8.901816
+                  ]
+            },
+            {
+                  "name": "Rabilau Maubisse",
+                  "text": "Rabilau Maubisse este un așezământ creștin din Maubisse, folosit ca punct de întâlnire spirituală pentru locuitorii din munți.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571561,
+                        -8.853174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capela Lequibaulu",
+                  "text": "Capela Lequibaulu in Maubisse is a simple Christian chapel nestled in the mountainous terrain of this historic region.",
+                  "category": "landmark",
+                  "coords": [
+                        125.619022,
+                        -8.901816
+                  ]
+            },
+            {
+                  "name": "Rabilau Maubisse",
+                  "text": "Rabilau Maubisse is a Christian site in Maubisse, serving as a spiritual gathering point for the area's mountain residents.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571561,
+                        -8.853174
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TL-AN",
     coords: [125.5975, -8.8394],
@@ -515,7 +1325,304 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "dare-memorial-history-v2",
+    id: "dare-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balcony",
+                  "text": "Ein Aussichtspunkt in Dare Memorial History.",
+                  "category": "natural",
+                  "coords": [
+                        125.570078,
+                        -8.589071
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora do Monte-Mutudare Dili",
+                  "text": "Eine christliche Kapelle in Dare Memorial History.",
+                  "category": "landmark",
+                  "coords": [
+                        125.59327,
+                        -8.577224
+                  ]
+            },
+            {
+                  "name": "Gruta",
+                  "text": "Eine Kultstätte in einer Grotte in Dare Memorial History.",
+                  "category": "religious",
+                  "coords": [
+                        125.595972,
+                        -8.601566
+                  ]
+            },
+            {
+                  "name": "Gruta Relolisa",
+                  "text": "Eine christliche Grotte in Dare Memorial History.",
+                  "category": "landmark",
+                  "coords": [
+                        125.641674,
+                        -8.619775
+                  ]
+            },
+            {
+                  "name": "Uma Laku Sao Francisco de Asis Talitu",
+                  "text": "Eine christliche Einrichtung in Dare Memorial History.",
+                  "category": "landmark",
+                  "coords": [
+                        125.611806,
+                        -8.613275
+                  ]
+            },
+            {
+                  "name": "Igreza Sao Joao Paulo II",
+                  "text": "Igreza Sao Joao Paulo II ist eine Kirche in dare-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.597459,
+                        -8.600098
+                  ]
+            },
+            {
+                  "name": "Paroquia Sao Francisco Dare",
+                  "text": "Paroquia Sao Francisco Dare ist eine christliche Stätte in dare-memorial-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571572,
+                        -8.591985
+                  ]
+            },
+            {
+                  "name": "Rosa",
+                  "text": "Rosa ist ein lokaler Marktplatz in dare-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.573039,
+                        -8.591336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balcony",
+                  "text": "Egy kilátó Dare Memorial History területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.570078,
+                        -8.589071
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora do Monte-Mutudare Dili",
+                  "text": "Egy keresztény kápolna Dare Memorial History területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.59327,
+                        -8.577224
+                  ]
+            },
+            {
+                  "name": "Gruta",
+                  "text": "Egy barlangi istentiszteleti hely Dare Memorial History területén.",
+                  "category": "religious",
+                  "coords": [
+                        125.595972,
+                        -8.601566
+                  ]
+            },
+            {
+                  "name": "Gruta Relolisa",
+                  "text": "Egy keresztény grotta Dare Memorial History területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.641674,
+                        -8.619775
+                  ]
+            },
+            {
+                  "name": "Uma Laku Sao Francisco de Asis Talitu",
+                  "text": "Egy keresztény létesítmény Dare Memorial History területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.611806,
+                        -8.613275
+                  ]
+            },
+            {
+                  "name": "Igreza Sao Joao Paulo II",
+                  "text": "Az Igreza Sao Joao Paulo II egy templom dare-memorial-history-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        125.597459,
+                        -8.600098
+                  ]
+            },
+            {
+                  "name": "Paroquia Sao Francisco Dare",
+                  "text": "A Paroquia Sao Francisco Dare egy keresztény központ dare-memorial-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571572,
+                        -8.591985
+                  ]
+            },
+            {
+                  "name": "Rosa",
+                  "text": "A Rosa egy piactér dare-memorial-history-v2 városában.",
+                  "category": "cultural",
+                  "coords": [
+                        125.573039,
+                        -8.591336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balcony",
+                  "text": "Un punct de belvedere în Dare Memorial History.",
+                  "category": "natural",
+                  "coords": [
+                        125.570078,
+                        -8.589071
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora do Monte-Mutudare Dili",
+                  "text": "O capelă creștină în Dare Memorial History.",
+                  "category": "landmark",
+                  "coords": [
+                        125.59327,
+                        -8.577224
+                  ]
+            },
+            {
+                  "name": "Gruta",
+                  "text": "Un lăcaș de cult într-o grotă din Dare Memorial History.",
+                  "category": "religious",
+                  "coords": [
+                        125.595972,
+                        -8.601566
+                  ]
+            },
+            {
+                  "name": "Gruta Relolisa",
+                  "text": "O grotă creștină în Dare Memorial History.",
+                  "category": "landmark",
+                  "coords": [
+                        125.641674,
+                        -8.619775
+                  ]
+            },
+            {
+                  "name": "Uma Laku Sao Francisco de Asis Talitu",
+                  "text": "O facilitate creștină în Dare Memorial History.",
+                  "category": "landmark",
+                  "coords": [
+                        125.611806,
+                        -8.613275
+                  ]
+            },
+            {
+                  "name": "Igreza Sao Joao Paulo II",
+                  "text": "Igreza Sao Joao Paulo II este o biserică din dare-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.597459,
+                        -8.600098
+                  ]
+            },
+            {
+                  "name": "Paroquia Sao Francisco Dare",
+                  "text": "Paroquia Sao Francisco Dare este un lăcaș creștin din dare-memorial-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571572,
+                        -8.591985
+                  ]
+            },
+            {
+                  "name": "Rosa",
+                  "text": "Rosa este o piață locală din dare-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.573039,
+                        -8.591336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balcony",
+                  "text": "A viewpoint in Dare Memorial History.",
+                  "category": "natural",
+                  "coords": [
+                        125.570078,
+                        -8.589071
+                  ]
+            },
+            {
+                  "name": "Kapela Nossa Senhora do Monte-Mutudare Dili",
+                  "text": "A Christian chapel in Dare Memorial History.",
+                  "category": "landmark",
+                  "coords": [
+                        125.59327,
+                        -8.577224
+                  ]
+            },
+            {
+                  "name": "Gruta",
+                  "text": "A place of worship located in a grotto in Dare Memorial History.",
+                  "category": "religious",
+                  "coords": [
+                        125.595972,
+                        -8.601566
+                  ]
+            },
+            {
+                  "name": "Gruta Relolisa",
+                  "text": "A Christian grotto in Dare Memorial History.",
+                  "category": "landmark",
+                  "coords": [
+                        125.641674,
+                        -8.619775
+                  ]
+            },
+            {
+                  "name": "Uma Laku Sao Francisco de Asis Talitu",
+                  "text": "A Christian facility in Dare Memorial History.",
+                  "category": "landmark",
+                  "coords": [
+                        125.611806,
+                        -8.613275
+                  ]
+            },
+            {
+                  "name": "Igreza Sao Joao Paulo II",
+                  "text": "Igreza Sao Joao Paulo II is a church situated in dare-memorial-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.597459,
+                        -8.600098
+                  ]
+            },
+            {
+                  "name": "Paroquia Sao Francisco Dare",
+                  "text": "Paroquia Sao Francisco Dare is a Christian parish in dare-memorial-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.571572,
+                        -8.591985
+                  ]
+            },
+            {
+                  "name": "Rosa",
+                  "text": "Rosa is a marketplace located in dare-memorial-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.573039,
+                        -8.591336
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TL-DI",
     coords: [125.5800, -8.5833],
@@ -579,7 +1686,196 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "motael-church-dili-history-v2",
+    id: "motael-church-dili-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja de Santo António de Motael",
+                  "text": "Die Motael Church, auch bekannt als Igreja de Santo António de Motael, ist eine Andachtsstätte in motael-church-dili-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.570714,
+                        -8.55094
+                  ]
+            },
+            {
+                  "name": "Jardim De Bebora",
+                  "text": "Das National Monument ist ein bedeutendes Denkmal in motael-church-dili-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.565948,
+                        -8.554365
+                  ]
+            },
+            {
+                  "name": "Galeria Memória Viva",
+                  "text": "Die Galeria Memória Viva ist eine Galerie in motael-church-dili-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        125.56666,
+                        -8.548946
+                  ]
+            },
+            {
+                  "name": "Mesquita An-Nur",
+                  "text": "Die Mesquita An-Nur ist eine Andachtsstätte in motael-church-dili-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.560152,
+                        -8.549749
+                  ]
+            },
+            {
+                  "name": "St. Anthony Chapel",
+                  "text": "Die St. Anthony Chapel ist eine christliche Kapelle in motael-church-dili-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.559705,
+                        -8.553534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja de Santo António de Motael",
+                  "text": "A Motael Church (Igreja de Santo António de Motael) egy vallási épület motael-church-dili-history-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        125.570714,
+                        -8.55094
+                  ]
+            },
+            {
+                  "name": "Jardim De Bebora",
+                  "text": "A National Monument egy fontos emlékmű motael-church-dili-history-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        125.565948,
+                        -8.554365
+                  ]
+            },
+            {
+                  "name": "Galeria Memória Viva",
+                  "text": "A Galeria Memória Viva egy galéria motael-church-dili-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        125.56666,
+                        -8.548946
+                  ]
+            },
+            {
+                  "name": "Mesquita An-Nur",
+                  "text": "A Mesquita An-Nur egy vallási épület motael-church-dili-history-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        125.560152,
+                        -8.549749
+                  ]
+            },
+            {
+                  "name": "St. Anthony Chapel",
+                  "text": "A St. Anthony Chapel egy keresztény kápolna motael-church-dili-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.559705,
+                        -8.553534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja de Santo António de Motael",
+                  "text": "Motael Church, cunoscută ca Igreja de Santo António de Motael, este un lăcaș de cult din motael-church-dili-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.570714,
+                        -8.55094
+                  ]
+            },
+            {
+                  "name": "Jardim De Bebora",
+                  "text": "National Monument este un monument național situat în motael-church-dili-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.565948,
+                        -8.554365
+                  ]
+            },
+            {
+                  "name": "Galeria Memória Viva",
+                  "text": "Galeria Memória Viva este o galerie de artă din motael-church-dili-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        125.56666,
+                        -8.548946
+                  ]
+            },
+            {
+                  "name": "Mesquita An-Nur",
+                  "text": "Mesquita An-Nur este un lăcaș de cult din motael-church-dili-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.560152,
+                        -8.549749
+                  ]
+            },
+            {
+                  "name": "St. Anthony Chapel",
+                  "text": "St. Anthony Chapel este o capelă creștină din motael-church-dili-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.559705,
+                        -8.553534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Motael Church",
+                  "text": "Motael Church, or Igreja de Santo António de Motael, is a noted place of worship in motael-church-dili-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.570714,
+                        -8.55094
+                  ]
+            },
+            {
+                  "name": "National Monument",
+                  "text": "National Monument is a prominent monument located in motael-church-dili-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        125.565948,
+                        -8.554365
+                  ]
+            },
+            {
+                  "name": "Galeria Memória Viva",
+                  "text": "Galeria Memória Viva is an art gallery in motael-church-dili-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        125.56666,
+                        -8.548946
+                  ]
+            },
+            {
+                  "name": "Mesquita An-Nur",
+                  "text": "Mesquita An-Nur is a place of worship situated in motael-church-dili-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.560152,
+                        -8.549749
+                  ]
+            },
+            {
+                  "name": "St. Anthony Chapel",
+                  "text": "St. Anthony Chapel is a Christian chapel located in motael-church-dili-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.559705,
+                        -8.553534
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TL-DI",
     coords: [125.5681, -8.5501],
@@ -643,7 +1939,52 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "pope-john-paul-ii-monument-history-v2",
+    id: "pope-john-paul-ii-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tasi Tolu Dive Site",
+                  "text": "Tasi Tolu Dive Site ist eine beliebte Küstenattraktion in pope-john-paul-ii-monument-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.508614,
+                        -8.556133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tasi Tolu Dive Site",
+                  "text": "A Tasi Tolu Dive Site egy népszerű búvárközpont pope-john-paul-ii-monument-history-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.508614,
+                        -8.556133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tasi Tolu Dive Site",
+                  "text": "Tasi Tolu Dive Site este o atracție turistică de coastă din pope-john-paul-ii-monument-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.508614,
+                        -8.556133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tasi Tolu Dive Site",
+                  "text": "Tasi Tolu Dive Site is a popular coastal attraction situated in pope-john-paul-ii-monument-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.508614,
+                        -8.556133
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TL-DI",
     coords: [125.5133, -8.5611],
@@ -707,7 +2048,340 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "venilale-japanese-caves-history-v2",
+    id: "venilale-japanese-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rice fields",
+                  "text": "Rice fields bieten einen Aussichtspunkt in venilale-japanese-caves-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.411069,
+                        -8.6385
+                  ]
+            },
+            {
+                  "name": "Monumento Martires de Venilale",
+                  "text": "Das Monumento Martires de Venilale ist ein Denkmal in venilale-japanese-caves-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.378369,
+                        -8.642866
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrado Coracao de Jesus Venilale",
+                  "text": "Igreja Sagrado Coracao de Jesus Venilale ist eine Kultstätte in venilale-japanese-caves-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.381725,
+                        -8.639272
+                  ]
+            },
+            {
+                  "name": "igreza ostico",
+                  "text": "igreza ostico ist eine christliche Stätte in der Gegend von venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.335967,
+                        -8.535799
+                  ]
+            },
+            {
+                  "name": "Igreja São Sebastião Mahein Osso-Queli",
+                  "text": "Igreja São Sebastião Mahein Osso-Queli ist ein christliches Bauwerk in venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.335499,
+                        -8.57422
+                  ]
+            },
+            {
+                  "name": "Kapela Ossoala",
+                  "text": "Kapela Ossoala ist eine kleine christliche Kapelle in venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.300045,
+                        -8.613813
+                  ]
+            },
+            {
+                  "name": "Capela Lia-oli",
+                  "text": "Capela Lia-oli ist eine christliche Stätte in venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.383615,
+                        -8.618398
+                  ]
+            },
+            {
+                  "name": "Capela São Cristovão Uai-Bua",
+                  "text": "Capela São Cristovão Uai-Bua ist eine christliche Einrichtung in venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.391073,
+                        -8.641262
+                  ]
+            },
+            {
+                  "name": "Mercado Suco Uato-Lari e Loi-Lubo",
+                  "text": "Dies ist ein Marktplatz, der sich in der Gegend von venilale-japanese-caves-history-v2 befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        126.335835,
+                        -8.571696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rice fields",
+                  "text": "A Rice fields egy kilátópont a venilale-japanese-caves-history-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        126.411069,
+                        -8.6385
+                  ]
+            },
+            {
+                  "name": "Monumento Martires de Venilale",
+                  "text": "A Monumento Martires de Venilale egy emlékmű a venilale-japanese-caves-history-v2 régióban.",
+                  "category": "historical",
+                  "coords": [
+                        126.378369,
+                        -8.642866
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrado Coracao de Jesus Venilale",
+                  "text": "Az Igreja Sagrado Coracao de Jesus Venilale egy istentiszteleti hely a venilale-japanese-caves-history-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        126.381725,
+                        -8.639272
+                  ]
+            },
+            {
+                  "name": "igreza ostico",
+                  "text": "Az igreza ostico egy keresztény vallási hely a venilale-japanese-caves-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.335967,
+                        -8.535799
+                  ]
+            },
+            {
+                  "name": "Igreja São Sebastião Mahein Osso-Queli",
+                  "text": "Az Igreja São Sebastião Mahein Osso-Queli egy keresztény épület a venilale-japanese-caves-history-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.335499,
+                        -8.57422
+                  ]
+            },
+            {
+                  "name": "Kapela Ossoala",
+                  "text": "A Kapela Ossoala egy keresztény kápolna a venilale-japanese-caves-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.300045,
+                        -8.613813
+                  ]
+            },
+            {
+                  "name": "Capela Lia-oli",
+                  "text": "A Capela Lia-oli egy keresztény helyszín a venilale-japanese-caves-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.383615,
+                        -8.618398
+                  ]
+            },
+            {
+                  "name": "Capela São Cristovão Uai-Bua",
+                  "text": "A Capela São Cristovão Uai-Bua egy keresztény intézmény a venilale-japanese-caves-history-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.391073,
+                        -8.641262
+                  ]
+            },
+            {
+                  "name": "Mercado Suco Uato-Lari e Loi-Lubo",
+                  "text": "Ez egy piactér, amely a venilale-japanese-caves-history-v2 területén található.",
+                  "category": "cultural",
+                  "coords": [
+                        126.335835,
+                        -8.571696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rice fields",
+                  "text": "Rice fields oferă un punct de belvedere în venilale-japanese-caves-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.411069,
+                        -8.6385
+                  ]
+            },
+            {
+                  "name": "Monumento Martires de Venilale",
+                  "text": "Monumento Martires de Venilale este un monument din venilale-japanese-caves-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.378369,
+                        -8.642866
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrado Coracao de Jesus Venilale",
+                  "text": "Igreja Sagrado Coracao de Jesus Venilale este un lăcaș de cult din venilale-japanese-caves-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.381725,
+                        -8.639272
+                  ]
+            },
+            {
+                  "name": "igreza ostico",
+                  "text": "igreza ostico este o locație creștină din venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.335967,
+                        -8.535799
+                  ]
+            },
+            {
+                  "name": "Igreja São Sebastião Mahein Osso-Queli",
+                  "text": "Igreja São Sebastião Mahein Osso-Queli este un edificiu creștin din venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.335499,
+                        -8.57422
+                  ]
+            },
+            {
+                  "name": "Kapela Ossoala",
+                  "text": "Kapela Ossoala este o capelă creștină situată în venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.300045,
+                        -8.613813
+                  ]
+            },
+            {
+                  "name": "Capela Lia-oli",
+                  "text": "Capela Lia-oli este un lăcaș creștin din venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.383615,
+                        -8.618398
+                  ]
+            },
+            {
+                  "name": "Capela São Cristovão Uai-Bua",
+                  "text": "Capela São Cristovão Uai-Bua este un centru creștin din venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.391073,
+                        -8.641262
+                  ]
+            },
+            {
+                  "name": "Mercado Suco Uato-Lari e Loi-Lubo",
+                  "text": "Aceasta este o piață situată în zona venilale-japanese-caves-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        126.335835,
+                        -8.571696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rice fields",
+                  "text": "Rice fields offer a scenic viewpoint in venilale-japanese-caves-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.411069,
+                        -8.6385
+                  ]
+            },
+            {
+                  "name": "Monumento Martires de Venilale",
+                  "text": "Monumento Martires de Venilale is a monument located in venilale-japanese-caves-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.378369,
+                        -8.642866
+                  ]
+            },
+            {
+                  "name": "Igreja Sagrado Coracao de Jesus Venilale",
+                  "text": "Igreja Sagrado Coracao de Jesus Venilale is a place of worship in venilale-japanese-caves-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.381725,
+                        -8.639272
+                  ]
+            },
+            {
+                  "name": "igreza ostico",
+                  "text": "igreza ostico is a Christian site in the venilale-japanese-caves-history-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        126.335967,
+                        -8.535799
+                  ]
+            },
+            {
+                  "name": "Igreja São Sebastião Mahein Osso-Queli",
+                  "text": "Igreja São Sebastião Mahein Osso-Queli is a Christian building situated in venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.335499,
+                        -8.57422
+                  ]
+            },
+            {
+                  "name": "Kapela Ossoala",
+                  "text": "Kapela Ossoala is a Christian chapel located in venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.300045,
+                        -8.613813
+                  ]
+            },
+            {
+                  "name": "Capela Lia-oli",
+                  "text": "Capela Lia-oli is a Christian site situated in venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.383615,
+                        -8.618398
+                  ]
+            },
+            {
+                  "name": "Capela São Cristovão Uai-Bua",
+                  "text": "Capela São Cristovão Uai-Bua is a Christian establishment in venilale-japanese-caves-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.391073,
+                        -8.641262
+                  ]
+            },
+            {
+                  "name": "Mercado Suco Uato-Lari e Loi-Lubo",
+                  "text": "This is a marketplace situated in the venilale-japanese-caves-history-v2 area.",
+                  "category": "cultural",
+                  "coords": [
+                        126.335835,
+                        -8.571696
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TL-BA",
     coords: [126.3768, -8.5878],
@@ -771,7 +2445,196 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "lautem-fort-history-v2",
+    id: "lautem-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Apikuru",
+                  "text": "Das Monument Apikuru ist ein lokales Denkmal in lautem-fort-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.892938,
+                        -8.372239
+                  ]
+            },
+            {
+                  "name": "Lautem Fort",
+                  "text": "Das Lautem Fort ist eine alte Befestigungsanlage in lautem-fort-history-v2.",
+                  "category": "fortress",
+                  "coords": [
+                        126.900975,
+                        -8.363875
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia ist ein erholsamer Strandabschnitt in lautem-fort-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        126.886737,
+                        -8.370512
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Diese christliche Kirche ist ein religiöser Versammlungsort in lautem-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.906072,
+                        -8.364908
+                  ]
+            },
+            {
+                  "name": "Igreja Katolika Lautem",
+                  "text": "Igreja Katolika Lautem ist eine Kultstätte in lautem-fort-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.904235,
+                        -8.366645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Apikuru",
+                  "text": "A Monument Apikuru egy helyi műemlék lautem-fort-history-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        126.892938,
+                        -8.372239
+                  ]
+            },
+            {
+                  "name": "Lautem Fort",
+                  "text": "A Lautem Fort egy régi erőd lautem-fort-history-v2 területén.",
+                  "category": "fortress",
+                  "coords": [
+                        126.900975,
+                        -8.363875
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "A Praia egy pihentető tengerparti terület lautem-fort-history-v2 városában.",
+                  "category": "recreational",
+                  "coords": [
+                        126.886737,
+                        -8.370512
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Ez a keresztény templom egy vallási gyülekezőhely lautem-fort-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.906072,
+                        -8.364908
+                  ]
+            },
+            {
+                  "name": "Igreja Katolika Lautem",
+                  "text": "Az Igreja Katolika Lautem egy istentiszteleti hely lautem-fort-history-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        126.904235,
+                        -8.366645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Apikuru",
+                  "text": "Monument Apikuru este un monument local situat în lautem-fort-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.892938,
+                        -8.372239
+                  ]
+            },
+            {
+                  "name": "Lautem Fort",
+                  "text": "Fortul Lautem este o veche fortificație din lautem-fort-history-v2.",
+                  "category": "fortress",
+                  "coords": [
+                        126.900975,
+                        -8.363875
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia este o zonă de plajă relaxantă în lautem-fort-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        126.886737,
+                        -8.370512
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Această biserică creștină este un loc de adunare religioasă din lautem-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.906072,
+                        -8.364908
+                  ]
+            },
+            {
+                  "name": "Igreja Katolika Lautem",
+                  "text": "Igreja Katolika Lautem este un lăcaș de cult din lautem-fort-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.904235,
+                        -8.366645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Apikuru",
+                  "text": "Monument Apikuru is a local monument situated in lautem-fort-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        126.892938,
+                        -8.372239
+                  ]
+            },
+            {
+                  "name": "Lautem Fort",
+                  "text": "Lautem Fort is an old fortification located in lautem-fort-history-v2.",
+                  "category": "fortress",
+                  "coords": [
+                        126.900975,
+                        -8.363875
+                  ]
+            },
+            {
+                  "name": "Praia",
+                  "text": "Praia is a relaxing beach area in lautem-fort-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        126.886737,
+                        -8.370512
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "This Christian church is a place of religious gathering in lautem-fort-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.906072,
+                        -8.364908
+                  ]
+            },
+            {
+                  "name": "Igreja Katolika Lautem",
+                  "text": "Igreja Katolika Lautem is a place of worship in lautem-fort-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.904235,
+                        -8.366645
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TL-LA",
     coords: [126.9042, -8.3619],
@@ -899,7 +2762,88 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "baguia-fort-history-v2",
+    id: "baguia-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "BAGUIA CHURCH",
+                  "text": "Die Baguia Church ist ein christliches Gotteshaus in der Nähe des historischen Forts in Baguia.",
+                  "category": "landmark",
+                  "coords": [
+                        126.653203,
+                        -8.628093
+                  ]
+            },
+            {
+                  "name": "Igreja São João Bosco Samalari",
+                  "text": "Die Igreja São João Bosco Samalari in der Nähe von Baguia ist dem Heiligen Johannes Bosco gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.662998,
+                        -8.599941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BAGUIA CHURCH",
+                  "text": "A Baguia Church egy keresztény istentiszteleti hely Baguia történelmi erődjének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        126.653203,
+                        -8.628093
+                  ]
+            },
+            {
+                  "name": "Igreja São João Bosco Samalari",
+                  "text": "A Baguia közelében lévő Igreja São João Bosco Samalari templomot Bosco Szent Jánosnak szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        126.662998,
+                        -8.599941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BAGUIA CHURCH",
+                  "text": "Biserica Baguia este un lăcaș de cult creștin situat în apropierea fortului istoric din Baguia.",
+                  "category": "landmark",
+                  "coords": [
+                        126.653203,
+                        -8.628093
+                  ]
+            },
+            {
+                  "name": "Igreja São João Bosco Samalari",
+                  "text": "Igreja São João Bosco Samalari de lângă Baguia este o biserică creștină dedicată Sfântului Ioan Bosco.",
+                  "category": "landmark",
+                  "coords": [
+                        126.662998,
+                        -8.599941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BAGUIA CHURCH",
+                  "text": "Baguia Church is a Christian place of worship located near the historic fort in Baguia.",
+                  "category": "landmark",
+                  "coords": [
+                        126.653203,
+                        -8.628093
+                  ]
+            },
+            {
+                  "name": "Igreja São João Bosco Samalari",
+                  "text": "Igreja São João Bosco Samalari near Baguia is a Christian church dedicated to Saint John Bosco.",
+                  "category": "landmark",
+                  "coords": [
+                        126.662998,
+                        -8.599941
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TL-BA",
     coords: [126.6583, -8.6278],
@@ -963,7 +2907,52 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "iliomar-resistance-hideouts-history-v2",
+    id: "iliomar-resistance-hideouts-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein sandiger Küstenabschnitt, der an die rauen, historischen Landschaften der Region Iliomar grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        126.829554,
+                        -8.755866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Homokos tengerparti szakasz, amely Iliomar régió zord, történelmi tájaival határos.",
+                  "category": "recreational",
+                  "coords": [
+                        126.829554,
+                        -8.755866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O întindere de coastă nisipoasă mărginită de peisajele aspre și istorice ale regiunii Iliomar.",
+                  "category": "recreational",
+                  "coords": [
+                        126.829554,
+                        -8.755866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A sandy coastal stretch bordered by the rugged, historical landscapes of the Iliomar region.",
+                  "category": "recreational",
+                  "coords": [
+                        126.829554,
+                        -8.755866
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "TL-LA",
     coords: [126.8123, -8.7056],
@@ -1027,7 +3016,124 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "matebian-caves-history-v2",
+    id: "matebian-caves-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Estasaun Missionaria De Laisorolai",
+                  "text": "Diese christliche Missionsstation liegt in der bergigen Region Matebian und dient abgelegenen lokalen Gemeinden.",
+                  "category": "landmark",
+                  "coords": [
+                        126.535974,
+                        -8.658225
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Ein protestantisches Gotteshaus in der rauen, historischen Landschaft in der Nähe der Matebian-Höhlen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.497353,
+                        -8.643392
+                  ]
+            },
+            {
+                  "name": "Capela Bualale",
+                  "text": "Diese kleine ländliche Kapelle bietet ein ruhiges Heiligtum zum Gebet in der hochgelegenen Umgebung der Matebian-Region.",
+                  "category": "religious",
+                  "coords": [
+                        126.547459,
+                        -8.629352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Estasaun Missionaria De Laisorolai",
+                  "text": "A hegyvidéki Matebian régióban megbúvó keresztény missziós állomás elszigetelt helyi gyülekezeteket szolgál ki.",
+                  "category": "landmark",
+                  "coords": [
+                        126.535974,
+                        -8.658225
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Protestáns istentiszteleti hely a Matebian-barlangok közelében, a zord, történelmi tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        126.497353,
+                        -8.643392
+                  ]
+            },
+            {
+                  "name": "Capela Bualale",
+                  "text": "Ez a kis vidéki kápolna csendes menedéket nyújt az imádkozáshoz a Matebian régió magaslati környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        126.547459,
+                        -8.629352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Estasaun Missionaria De Laisorolai",
+                  "text": "Amplasată în regiunea muntoasă Matebian, această stațiune misionară creștină deservește congregațiile locale izolate.",
+                  "category": "landmark",
+                  "coords": [
+                        126.535974,
+                        -8.658225
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "Un lăcaș de cult protestant situat în peisajul accidentat și istoric din apropierea peșterilor Matebian.",
+                  "category": "landmark",
+                  "coords": [
+                        126.497353,
+                        -8.643392
+                  ]
+            },
+            {
+                  "name": "Capela Bualale",
+                  "text": "Această mică capelă rurală oferă un sanctuar liniștit pentru rugăciune în împrejurimile înalte ale regiunii Matebian.",
+                  "category": "religious",
+                  "coords": [
+                        126.547459,
+                        -8.629352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Estasaun Missionaria De Laisorolai",
+                  "text": "Nestled in the mountainous Matebian region, this Christian missionary station serves remote local congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        126.535974,
+                        -8.658225
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante",
+                  "text": "A Protestant house of worship set in the rugged, historic landscape near the Matebian caves.",
+                  "category": "landmark",
+                  "coords": [
+                        126.497353,
+                        -8.643392
+                  ]
+            },
+            {
+                  "name": "Capela Bualale",
+                  "text": "This small rural chapel provides a quiet sanctuary for prayer in the elevated surroundings of the Matebian region.",
+                  "category": "religious",
+                  "coords": [
+                        126.547459,
+                        -8.629352
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TL-BA",
     coords: [126.5500, -8.6167],
@@ -1155,7 +3261,376 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "dili-cathedral-history-v2",
+    id: "dili-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pura Girinatha",
+                  "text": "Dieser balinesische Hindu-Tempel ist der größte seiner Art in Osttimor und wurde ursprünglich während der indonesischen Besatzung gegründet.",
+                  "category": "religious",
+                  "coords": [
+                        125.595603,
+                        -8.564931
+                  ]
+            },
+            {
+                  "name": "Casa de Santa Filomena",
+                  "text": "Ein christliches religiöses Gebäude in Dili, das zu Ehren der heiligen Philomena benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        125.596251,
+                        -8.567218
+                  ]
+            },
+            {
+                  "name": "Santa Teresinha do Menino de Jesus",
+                  "text": "Ein lokales christliches Heiligtum, das der heiligen Theresia vom Kinde Jesu gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.618232,
+                        -8.567011
+                  ]
+            },
+            {
+                  "name": "Igreja Balide",
+                  "text": "Eine markante christliche Kirche im Viertel Balide von Dili.",
+                  "category": "landmark",
+                  "coords": [
+                        125.582857,
+                        -8.56639
+                  ]
+            },
+            {
+                  "name": "Zebaoth - Igreja Kristaun Sinode",
+                  "text": "Eine christliche Synodenkirche namens Zebaoth, die als bedeutender Andachtsort für ihre Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.613143,
+                        -8.566062
+                  ]
+            },
+            {
+                  "name": "convento Canosiana",
+                  "text": "Ein religiöses Kloster der Canossianerinnen, das spirituelle und gemeinschaftliche Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.604689,
+                        -8.561348
+                  ]
+            },
+            {
+                  "name": "Sagrado Coracao de Jesus",
+                  "text": "Ein christlicher Andachtsort, der dem Heiligsten Herzen Jesu geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.603629,
+                        -8.562118
+                  ]
+            },
+            {
+                  "name": "Halilaran Market",
+                  "text": "Ein geschäftiger lokaler Marktplatz in Halilaran, auf dem Verkäufer frische Produkte und Waren des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        125.584034,
+                        -8.568914
+                  ]
+            },
+            {
+                  "name": "merkadu terminal becora",
+                  "text": "Ein lebhafter Markt neben dem Busbahnhof Becora, der Reisenden und Einheimischen eine Vielzahl von Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        125.614652,
+                        -8.569452
+                  ]
+            },
+            {
+                  "name": "Mercado Taibesi",
+                  "text": "Dieser große Freiluftmarkt ist als einer der wichtigsten Handelsknotenpunkte von Dili bekannt und bietet eine breite Palette lokaler Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        125.594145,
+                        -8.569026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pura Girinatha",
+                  "text": "Ez a balinéz hindu templom a maga nemében a legnagyobb Kelet-Timorban, és eredetileg az indonéz megszállás alatt alapították.",
+                  "category": "religious",
+                  "coords": [
+                        125.595603,
+                        -8.564931
+                  ]
+            },
+            {
+                  "name": "Casa de Santa Filomena",
+                  "text": "Dili egyik keresztény vallási épülete, amelyet Szent Filoména tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        125.596251,
+                        -8.567218
+                  ]
+            },
+            {
+                  "name": "Santa Teresinha do Menino de Jesus",
+                  "text": "A Gyermek Jézusról nevezett Szent Teréznek szentelt helyi keresztény szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        125.618232,
+                        -8.567011
+                  ]
+            },
+            {
+                  "name": "Igreja Balide",
+                  "text": "Kiemelkedő keresztény templom Dili Balide negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.582857,
+                        -8.56639
+                  ]
+            },
+            {
+                  "name": "Zebaoth - Igreja Kristaun Sinode",
+                  "text": "A Zebaoth néven ismert keresztény zsinati templom, amely a gyülekezet fontos istentiszteleti helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.613143,
+                        -8.566062
+                  ]
+            },
+            {
+                  "name": "convento Canosiana",
+                  "text": "A kanossziánus nővérek vallási kolostora, amely spirituális és közösségi szolgálatokat nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.604689,
+                        -8.561348
+                  ]
+            },
+            {
+                  "name": "Sagrado Coracao de Jesus",
+                  "text": "Jézus Szent Szívének szentelt keresztény istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        125.603629,
+                        -8.562118
+                  ]
+            },
+            {
+                  "name": "Halilaran Market",
+                  "text": "Nyüzsgő helyi piac Halilaranban, ahol az árusok friss termékeket és napi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.584034,
+                        -8.568914
+                  ]
+            },
+            {
+                  "name": "merkadu terminal becora",
+                  "text": "A Becora buszpályaudvar mellett található élénk piac, amely különféle árukat kínál az utazóknak és a helyieknek.",
+                  "category": "cultural",
+                  "coords": [
+                        125.614652,
+                        -8.569452
+                  ]
+            },
+            {
+                  "name": "Mercado Taibesi",
+                  "text": "Dili egyik fő kereskedelmi központjaként ismert ez a nagy szabadtéri piac, amely a helyi áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        125.594145,
+                        -8.569026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pura Girinatha",
+                  "text": "Acest templu hindus balinez este cel mai mare de acest gen din Timorul de Est, înființat inițial în timpul ocupației indoneziene.",
+                  "category": "religious",
+                  "coords": [
+                        125.595603,
+                        -8.564931
+                  ]
+            },
+            {
+                  "name": "Casa de Santa Filomena",
+                  "text": "O clădire religioasă creștină din Dili numită în onoarea Sfintei Filomena.",
+                  "category": "landmark",
+                  "coords": [
+                        125.596251,
+                        -8.567218
+                  ]
+            },
+            {
+                  "name": "Santa Teresinha do Menino de Jesus",
+                  "text": "Un sanctuar creștin local dedicat Sfintei Tereza a Pruncului Iisus.",
+                  "category": "landmark",
+                  "coords": [
+                        125.618232,
+                        -8.567011
+                  ]
+            },
+            {
+                  "name": "Igreja Balide",
+                  "text": "O biserică creștină proeminentă situată în cartierul Balide din Dili.",
+                  "category": "landmark",
+                  "coords": [
+                        125.582857,
+                        -8.56639
+                  ]
+            },
+            {
+                  "name": "Zebaoth - Igreja Kristaun Sinode",
+                  "text": "O biserică sinodală creștină cunoscută sub numele de Zebaoth, care servește ca loc important de cult pentru congregația sa.",
+                  "category": "landmark",
+                  "coords": [
+                        125.613143,
+                        -8.566062
+                  ]
+            },
+            {
+                  "name": "convento Canosiana",
+                  "text": "Un convent religios al Surorilor Canossiene, care oferă servicii spirituale și comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        125.604689,
+                        -8.561348
+                  ]
+            },
+            {
+                  "name": "Sagrado Coracao de Jesus",
+                  "text": "Un lăcaș de cult creștin sfințit Inimii Sacre a lui Iisus.",
+                  "category": "landmark",
+                  "coords": [
+                        125.603629,
+                        -8.562118
+                  ]
+            },
+            {
+                  "name": "Halilaran Market",
+                  "text": "O piață locală plină de viață în Halilaran, unde vânzătorii oferă produse proaspete și bunuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        125.584034,
+                        -8.568914
+                  ]
+            },
+            {
+                  "name": "merkadu terminal becora",
+                  "text": "O piață animată situată lângă terminalul de autobuze Becora, oferind o varietate de bunuri călătorilor și localnicilor.",
+                  "category": "cultural",
+                  "coords": [
+                        125.614652,
+                        -8.569452
+                  ]
+            },
+            {
+                  "name": "Mercado Taibesi",
+                  "text": "Cunoscută ca unul dintre principalele centre comerciale din Dili, această mare piață în aer liber oferă o gamă largă de mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.594145,
+                        -8.569026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pura Girinatha",
+                  "text": "This Balinese Hindu temple is the largest of its kind in East Timor, originally established during the Indonesian occupation.",
+                  "category": "religious",
+                  "coords": [
+                        125.595603,
+                        -8.564931
+                  ]
+            },
+            {
+                  "name": "Casa de Santa Filomena",
+                  "text": "A Christian religious building in Dili named in honor of Saint Philomena.",
+                  "category": "landmark",
+                  "coords": [
+                        125.596251,
+                        -8.567218
+                  ]
+            },
+            {
+                  "name": "Santa Teresinha do Menino de Jesus",
+                  "text": "A local Christian sanctuary dedicated to Saint Thérèse of the Child Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        125.618232,
+                        -8.567011
+                  ]
+            },
+            {
+                  "name": "Igreja Balide",
+                  "text": "A prominent Christian church located in the Balide neighborhood of Dili.",
+                  "category": "landmark",
+                  "coords": [
+                        125.582857,
+                        -8.56639
+                  ]
+            },
+            {
+                  "name": "Zebaoth - Igreja Kristaun Sinode",
+                  "text": "A Christian synod church known as Zebaoth, serving as a significant place of worship for its congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        125.613143,
+                        -8.566062
+                  ]
+            },
+            {
+                  "name": "convento Canosiana",
+                  "text": "A religious convent of the Canossian Sisters, providing spiritual and community services.",
+                  "category": "landmark",
+                  "coords": [
+                        125.604689,
+                        -8.561348
+                  ]
+            },
+            {
+                  "name": "Sagrado Coracao de Jesus",
+                  "text": "A Christian place of worship consecrated to the Sacred Heart of Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        125.603629,
+                        -8.562118
+                  ]
+            },
+            {
+                  "name": "Halilaran Market",
+                  "text": "A bustling local marketplace in Halilaran where vendors sell fresh produce and daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.584034,
+                        -8.568914
+                  ]
+            },
+            {
+                  "name": "merkadu terminal becora",
+                  "text": "A lively market situated adjacent to the Becora bus terminal, offering a variety of goods to travelers and locals.",
+                  "category": "cultural",
+                  "coords": [
+                        125.614652,
+                        -8.569452
+                  ]
+            },
+            {
+                  "name": "Taibesi Market",
+                  "text": "Known as one of Dili's major trading hubs, this large open-air marketplace features a wide array of local commodities.",
+                  "category": "cultural",
+                  "coords": [
+                        125.594145,
+                        -8.569026
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "TL-DI",
     coords: [125.5861, -8.5639],
@@ -1219,7 +3694,664 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
     },
   },
   {
-    id: "aileu-massacre-memorial-history-v2",
+    id: "aileu-massacre-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardim ADS Massacre do Aileu",
+                  "text": "Ein Gedenkgarten-Denkmal für die Opfer des historischen Massakers in Aileu.",
+                  "category": "historical",
+                  "coords": [
+                        125.567365,
+                        -8.731301
+                  ]
+            },
+            {
+                  "name": "Igreja Estação Nossa Senhora do Carmo Liquidoe",
+                  "text": "Eine christliche Kirchenstation in Liquidoe, die zu Ehren Unserer Lieben Frau vom Berge Karmel benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        125.634403,
+                        -8.690359
+                  ]
+            },
+            {
+                  "name": "Capela Numuleso",
+                  "text": "Eine lokale christliche Kapelle, die der Gemeinde Numuleso einen Versammlungsort für den Gottesdienst bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.642909,
+                        -8.713112
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrada Familia Namulesso",
+                  "text": "Diese christliche Kapelle in Namulesso ist der Heiligen Familie gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.654941,
+                        -8.715039
+                  ]
+            },
+            {
+                  "name": "Kapela Betulau",
+                  "text": "Eine christliche Kapelle, die der lokalen Gemeinde im historischen Gebiet von Aileu als spiritueller Rückzugsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        125.651394,
+                        -8.7458
+                  ]
+            },
+            {
+                  "name": "Gereja Assembleia de Deus",
+                  "text": "Eine christliche Kirche der Assembleia de Deus, die die Gläubigen in der Region Aileu versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.63387,
+                        -8.736286
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antônio Suco Liurai Raecoa-Ulu",
+                  "text": "Eine christliche Kapelle, die dem Heiligen Antonius gewidmet ist und sich in der ländlichen Gemeinde Liurai Raecoa-Ulu in Aileu befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.548885,
+                        -8.760369
+                  ]
+            },
+            {
+                  "name": "Capela protestante",
+                  "text": "Eine lokale protestantische Kapelle, die einen ruhigen Raum für den Gottesdienst in Aileu bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.55225,
+                        -8.75946
+                  ]
+            },
+            {
+                  "name": "Convento",
+                  "text": "Ein christliches Kloster, das eingebettet in den Hügeln der Aileu-Region liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.56366,
+                        -8.735024
+                  ]
+            },
+            {
+                  "name": "Sao Pedro e Sao Paulo Aileu",
+                  "text": "Die katholische Kirche St. Peter und Paul, die einen wichtigen spirituellen Ankerpunkt in Aileu bildet.",
+                  "category": "religious",
+                  "coords": [
+                        125.563526,
+                        -8.733172
+                  ]
+            },
+            {
+                  "name": "Uma laku Cospepal",
+                  "text": "Eine bescheidene christliche Kultstätte innerhalb des Distrikts Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.564645,
+                        -8.733841
+                  ]
+            },
+            {
+                  "name": "Kapela Hati Kudus Yesus",
+                  "text": "Eine christliche Kapelle in Aileu, die dem Heiligsten Herzen Jesu geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.574771,
+                        -8.723744
+                  ]
+            },
+            {
+                  "name": "Igreza Evangelica Assembleia de Deus",
+                  "text": "Eine evangelische Kirche der Assembleia de Deus, die in der Gemeinde von Aileu aktiv ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.567158,
+                        -8.726803
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante Betânia Aileu",
+                  "text": "Die protestantische Betânia-Kirche, in der die Gläubigen von Aileu regelmäßig Gottesdienste feiern.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562804,
+                        -8.724312
+                  ]
+            },
+            {
+                  "name": "Gruta da Nossa Senohra",
+                  "text": "Eine christliche Grotte, die Unserer Lieben Frau gewidmet ist und einen friedlichen Marienschrein in Aileu bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.564961,
+                        -8.719158
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora Fatima seloi kraik",
+                  "text": "Ein ländliches christliches Heiligtum zu Ehren Unserer Lieben Frau von Fatima in Seloi Kraik, Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524734,
+                        -8.707973
+                  ]
+            },
+            {
+                  "name": "Igreja assembleia de Deus",
+                  "text": "Eine christliche Kirche der Assembleia de Deus, die lokale religiöse Zusammenkünfte in Aileu ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        125.541009,
+                        -8.757912
+                  ]
+            },
+            {
+                  "name": "Mercado Aileu Villa",
+                  "text": "Der belebte Hauptmarkt von Aileu Villa, auf dem die Einheimischen mit frischen Produkten und regionalen Waren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        125.566722,
+                        -8.727959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardim ADS Massacre do Aileu",
+                  "text": "Emlékkert és emlékmű, amelyet az aileu-i történelmi mészárlás áldozatainak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        125.567365,
+                        -8.731301
+                  ]
+            },
+            {
+                  "name": "Igreja Estação Nossa Senhora do Carmo Liquidoe",
+                  "text": "Keresztény templomállomás Liquidoe-ban, amelyet a Kármelhegyi Boldogasszony tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        125.634403,
+                        -8.690359
+                  ]
+            },
+            {
+                  "name": "Capela Numuleso",
+                  "text": "Helyi keresztény kápolna, amely istentiszteleti gyülekezeti teret biztosít a numuleso-i közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.642909,
+                        -8.713112
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrada Familia Namulesso",
+                  "text": "Ez a namulesso-i keresztény kápolna a Szent Család tiszteletére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        125.654941,
+                        -8.715039
+                  ]
+            },
+            {
+                  "name": "Kapela Betulau",
+                  "text": "Egy keresztény kápolna, amely a helyi közösség spirituális menedékéül szolgál Aileu történelmi térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.651394,
+                        -8.7458
+                  ]
+            },
+            {
+                  "name": "Gereja Assembleia de Deus",
+                  "text": "Az Assembleia de Deus keresztény gyülekezet temploma, amely az Aileu régió hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.63387,
+                        -8.736286
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antônio Suco Liurai Raecoa-Ulu",
+                  "text": "A Páduai Szent Antalnak szentelt keresztény kápolna a vidéki Liurai Raecoa-Ulu közösségben, Aileu környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.548885,
+                        -8.760369
+                  ]
+            },
+            {
+                  "name": "Capela protestante",
+                  "text": "Egy helyi protestáns kápolna, amely csendes teret biztosít az istentiszteletek számára Aileuban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.55225,
+                        -8.75946
+                  ]
+            },
+            {
+                  "name": "Convento",
+                  "text": "Egy keresztény kolostor, amely az Aileu régió dombjai között bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        125.56366,
+                        -8.735024
+                  ]
+            },
+            {
+                  "name": "Sao Pedro e Sao Paulo Aileu",
+                  "text": "A Szent Péter és Pál katolikus templom, amely Aileu vallási életének fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        125.563526,
+                        -8.733172
+                  ]
+            },
+            {
+                  "name": "Uma laku Cospepal",
+                  "text": "Szerény keresztény istentiszteleti hely az Aileu körzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.564645,
+                        -8.733841
+                  ]
+            },
+            {
+                  "name": "Kapela Hati Kudus Yesus",
+                  "text": "Jézus Szent Szívének szentelt keresztény kápolna Aileuban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.574771,
+                        -8.723744
+                  ]
+            },
+            {
+                  "name": "Igreza Evangelica Assembleia de Deus",
+                  "text": "Az Assembleia de Deus evangéliumi temploma, amely aktív szerepet játszik Aileu közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.567158,
+                        -8.726803
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante Betânia Aileu",
+                  "text": "A Betânia protestáns templom, ahol az aileui hívők rendszeresen tartanak istentiszteleteket.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562804,
+                        -8.724312
+                  ]
+            },
+            {
+                  "name": "Gruta da Nossa Senohra",
+                  "text": "Egy Szűz Máriának szentelt keresztény barlang, amely békés Mária-kegyhelyként szolgál Aileuban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.564961,
+                        -8.719158
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora Fatima seloi kraik",
+                  "text": "Vidéki keresztény szentély a Fatimai Szűzanya tiszteletére a Seloi Kraik településen, Aileu területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524734,
+                        -8.707973
+                  ]
+            },
+            {
+                  "name": "Igreja assembleia de Deus",
+                  "text": "Az Assembleia de Deus keresztény temploma, amely helyi vallási összejöveteleknek ad otthont Aileuban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.541009,
+                        -8.757912
+                  ]
+            },
+            {
+                  "name": "Mercado Aileu Villa",
+                  "text": "Aileu Villa forgalmas fő piaca, ahol a helyiek friss termékeket és regionális árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.566722,
+                        -8.727959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardim ADS Massacre do Aileu",
+                  "text": "Un monument sub formă de grădină memorială dedicat victimelor masacrului istoric din Aileu.",
+                  "category": "historical",
+                  "coords": [
+                        125.567365,
+                        -8.731301
+                  ]
+            },
+            {
+                  "name": "Igreja Estação Nossa Senhora do Carmo Liquidoe",
+                  "text": "O biserică creștină din Liquidoe, denumită în onoarea Maicii Domnului de pe Muntele Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        125.634403,
+                        -8.690359
+                  ]
+            },
+            {
+                  "name": "Capela Numuleso",
+                  "text": "O capelă creștină locală care oferă un spațiu de adunare pentru cult în comunitatea Numuleso.",
+                  "category": "landmark",
+                  "coords": [
+                        125.642909,
+                        -8.713112
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrada Familia Namulesso",
+                  "text": "Această capelă creștină din Namulesso este dedicată Sfintei Familii.",
+                  "category": "landmark",
+                  "coords": [
+                        125.654941,
+                        -8.715039
+                  ]
+            },
+            {
+                  "name": "Kapela Betulau",
+                  "text": "O capelă creștină care oferă un refugiu spiritual comunității locale din zona istorică Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.651394,
+                        -8.7458
+                  ]
+            },
+            {
+                  "name": "Gereja Assembleia de Deus",
+                  "text": "O biserică creștină a Adunării lui Dumnezeu, care deservește credincioșii din regiunea Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.63387,
+                        -8.736286
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antônio Suco Liurai Raecoa-Ulu",
+                  "text": "O capelă creștină dedicată Sfântului Anton, situată în comunitatea rurală Liurai Raecoa-Ulu din Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.548885,
+                        -8.760369
+                  ]
+            },
+            {
+                  "name": "Capela protestante",
+                  "text": "O capelă protestantă locală care oferă un spațiu liniștit pentru rugăciune în Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.55225,
+                        -8.75946
+                  ]
+            },
+            {
+                  "name": "Convento",
+                  "text": "O mănăstire creștină amplasată printre dealurile din regiunea Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.56366,
+                        -8.735024
+                  ]
+            },
+            {
+                  "name": "Sao Pedro e Sao Paulo Aileu",
+                  "text": "Biserica catolică Sfinții Petru și Pavel, care reprezintă o ancoră spirituală importantă în Aileu.",
+                  "category": "religious",
+                  "coords": [
+                        125.563526,
+                        -8.733172
+                  ]
+            },
+            {
+                  "name": "Uma laku Cospepal",
+                  "text": "Un modest lăcaș de cult creștin situat în districtul Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.564645,
+                        -8.733841
+                  ]
+            },
+            {
+                  "name": "Kapela Hati Kudus Yesus",
+                  "text": "O capelă creștină dedicată Preasfintei Inimi a lui Isus în Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.574771,
+                        -8.723744
+                  ]
+            },
+            {
+                  "name": "Igreza Evangelica Assembleia de Deus",
+                  "text": "O biserică evanghelică a Adunării lui Dumnezeu activă în comunitatea din Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.567158,
+                        -8.726803
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante Betânia Aileu",
+                  "text": "Biserica protestantă Betânia, unde credincioșii din Aileu se adună pentru slujbe.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562804,
+                        -8.724312
+                  ]
+            },
+            {
+                  "name": "Gruta da Nossa Senohra",
+                  "text": "O grotă creștină dedicată Maicii Domnului, formând un altar marian pașnic în Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.564961,
+                        -8.719158
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora Fatima seloi kraik",
+                  "text": "Un sanctuar creștin rural în onoarea Fecioarei din Fatima în Seloi Kraik, Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524734,
+                        -8.707973
+                  ]
+            },
+            {
+                  "name": "Igreja assembleia de Deus",
+                  "text": "O biserică creștină a Adunării lui Dumnezeu care găzduiește întruniri religioase locale în Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.541009,
+                        -8.757912
+                  ]
+            },
+            {
+                  "name": "Mercado Aileu Villa",
+                  "text": "Piața principală plină de viață din Aileu Villa, unde localnicii tranzacționează produse proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.566722,
+                        -8.727959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardim ADS Massacre do Aileu",
+                  "text": "A memorial garden monument dedicated to the victims of the historical massacre in Aileu.",
+                  "category": "historical",
+                  "coords": [
+                        125.567365,
+                        -8.731301
+                  ]
+            },
+            {
+                  "name": "Igreja Estação Nossa Senhora do Carmo Liquidoe",
+                  "text": "A Christian church station in Liquidoe named in honor of Our Lady of Mount Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        125.634403,
+                        -8.690359
+                  ]
+            },
+            {
+                  "name": "Capela Numuleso",
+                  "text": "A local Christian chapel providing a gathering space for worship in the Numuleso community.",
+                  "category": "landmark",
+                  "coords": [
+                        125.642909,
+                        -8.713112
+                  ]
+            },
+            {
+                  "name": "Kapela Sagrada Familia Namulesso",
+                  "text": "This Christian chapel in Namulesso is devoted to the Holy Family.",
+                  "category": "landmark",
+                  "coords": [
+                        125.654941,
+                        -8.715039
+                  ]
+            },
+            {
+                  "name": "Kapela Betulau",
+                  "text": "A Christian chapel offering a spiritual retreat for the local community in the historic Aileu area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.651394,
+                        -8.7458
+                  ]
+            },
+            {
+                  "name": "Gereja Assembleia de Deus",
+                  "text": "An Assembly of God Christian church gathering worshippers in the Aileu region.",
+                  "category": "landmark",
+                  "coords": [
+                        125.63387,
+                        -8.736286
+                  ]
+            },
+            {
+                  "name": "Capela Santo Antônio Suco Liurai Raecoa-Ulu",
+                  "text": "A Christian chapel dedicated to St. Anthony, located in the rural suco of Liurai Raecoa-Ulu in Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.548885,
+                        -8.760369
+                  ]
+            },
+            {
+                  "name": "Capela protestante",
+                  "text": "A local Protestant chapel providing a quiet space for worship in the Aileu area.",
+                  "category": "landmark",
+                  "coords": [
+                        125.55225,
+                        -8.75946
+                  ]
+            },
+            {
+                  "name": "Convento",
+                  "text": "A Christian convent nestled among the rolling hills of the Aileu region.",
+                  "category": "landmark",
+                  "coords": [
+                        125.56366,
+                        -8.735024
+                  ]
+            },
+            {
+                  "name": "Sao Pedro e Sao Paulo Aileu",
+                  "text": "The Catholic church of St. Peter and St. Paul anchoring the religious life in Aileu.",
+                  "category": "religious",
+                  "coords": [
+                        125.563526,
+                        -8.733172
+                  ]
+            },
+            {
+                  "name": "Uma laku Cospepal",
+                  "text": "A modest Christian place of worship situated within the Aileu district.",
+                  "category": "landmark",
+                  "coords": [
+                        125.564645,
+                        -8.733841
+                  ]
+            },
+            {
+                  "name": "Kapela Hati Kudus Yesus",
+                  "text": "A Christian chapel dedicated to the Sacred Heart of Jesus in Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.574771,
+                        -8.723744
+                  ]
+            },
+            {
+                  "name": "Igreza Evangelica Assembleia de Deus",
+                  "text": "An Evangelical Assembly of God church playing an active role in the Aileu community.",
+                  "category": "landmark",
+                  "coords": [
+                        125.567158,
+                        -8.726803
+                  ]
+            },
+            {
+                  "name": "Igreja Protestante Betânia Aileu",
+                  "text": "The Bethany Protestant Church where worshippers from Aileu regularly attend services.",
+                  "category": "landmark",
+                  "coords": [
+                        125.562804,
+                        -8.724312
+                  ]
+            },
+            {
+                  "name": "Gruta da Nossa Senohra",
+                  "text": "A Christian grotto dedicated to Our Lady, providing a peaceful Marian shrine in Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.564961,
+                        -8.719158
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora Fatima seloi kraik",
+                  "text": "A rural Christian sanctuary honoring Our Lady of Fatima in Seloi Kraik, Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.524734,
+                        -8.707973
+                  ]
+            },
+            {
+                  "name": "Igreja assembleia de Deus",
+                  "text": "An Assembly of God Christian church facilitating local religious gatherings in Aileu.",
+                  "category": "landmark",
+                  "coords": [
+                        125.541009,
+                        -8.757912
+                  ]
+            },
+            {
+                  "name": "Mercado Aileu Villa",
+                  "text": "The bustling main marketplace of Aileu Villa where locals trade fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.566722,
+                        -8.727959
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TL-AL",
     coords: [125.5667, -8.7333],

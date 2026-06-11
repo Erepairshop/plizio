@@ -143,7 +143,7 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
             },
             {
                   "name": "Museu de les Ciències «Príncep Felip»",
-                  "text": "Ein interaktives Wissenschaftsmuseum in der Stadt der Künste und Wissenschaften.",
+                  "text": "Interaktives Wissenschaftsmuseum im futuristischen Gebäude der Ciudad de las Artes y las Ciencias in Valencia.",
                   "category": "museum",
                   "coords": [
                         -0.351663,
@@ -289,7 +289,7 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
             },
             {
                   "name": "Museu de les Ciències «Príncep Felip»",
-                  "text": "Interaktív természettudományi múzeum a Művészetek és Tudományok Városában.",
+                  "text": "Interaktív tudományos múzeum a Valenciai Művészetek és Tudományok Városának futurisztikus épületében.",
                   "category": "museum",
                   "coords": [
                         -0.351663,
@@ -435,7 +435,7 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
             },
             {
                   "name": "Museu de les Ciències «Príncep Felip»",
-                  "text": "Un muzeu interactiv de știință situat în Orașul Artelor și Științelor.",
+                  "text": "Muzeu interactiv de știință în clădirea futuristă a Orașului Artelor și Științelor din Valencia.",
                   "category": "museum",
                   "coords": [
                         -0.351663,
@@ -581,7 +581,7 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
             },
             {
                   "name": "Príncipe Felipe Science Museum",
-                  "text": "An interactive science museum located in the City of Arts and Sciences.",
+                  "text": "Interactive science museum in the futuristic building of the City of Arts and Sciences in Valencia.",
                   "category": "museum",
                   "coords": [
                         -0.351663,
@@ -776,7 +776,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
       "de": [
             {
                   "name": "Ereaga",
-                  "text": "Ereaga ist ein bekannter Stadtstrand in Getxo.",
+                  "text": "Ereaga, ein Sandstrand an der Abra-Bucht im Hafen von Bilbao.",
                   "category": "recreational",
                   "coords": [
                         -3.013355,
@@ -785,7 +785,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Meñakoz",
-                  "text": "Meñakoz ist ein Strand in der Gemeinde Getxo.",
+                  "text": "Erholungsgebiet im Hafen von Bilbao mit Buchten und Surfmöglichkeiten.",
                   "category": "recreational",
                   "coords": [
                         -2.98607,
@@ -794,7 +794,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Barinatxe",
-                  "text": "Barinatxe ist ein lokaler Strand in Getxo.",
+                  "text": "Barinatxe, ein Surferstrand mit felsigen Klippen nahe dem Hafen von Bilbao.",
                   "category": "recreational",
                   "coords": [
                         -3.007083,
@@ -803,7 +803,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Gorrondatxe - Azkorri",
-                  "text": "Gorrondatxe - Azkorri ist ein Strandbereich in Getxo.",
+                  "text": "Gorrondatxe-Azkorri, eine natürliche Bucht mit Klippen an der Küste von Bizkaia.",
                   "category": "recreational",
                   "coords": [
                         -3.017253,
@@ -821,7 +821,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Arrigunaga",
-                  "text": "Arrigunaga ist ein bekannter Strand in der Gemeinde Getxo.",
+                  "text": "Arrigunaga, ein langer Sandstrand mit Promenade entlang der Getxo-Uferpromenade.",
                   "category": "recreational",
                   "coords": [
                         -3.019785,
@@ -848,7 +848,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Igerilekua",
-                  "text": "Ein Schwimmbad im Hafen von Bilbao.",
+                  "text": "Igerilekua, ein Freibadkomplex an der Hafenpromenade von Bilbao.",
                   "category": "recreational",
                   "coords": [
                         -3.022176,
@@ -859,7 +859,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
       "hu": [
             {
                   "name": "Ereaga",
-                  "text": "Az Ereaga egy ismert városi strand Getxóban.",
+                  "text": "Ereaga, egy homokos strand az Abra-öbölben, Bilbao kikötőjében.",
                   "category": "recreational",
                   "coords": [
                         -3.013355,
@@ -868,7 +868,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Meñakoz",
-                  "text": "A Meñakoz egy strand Getxo településen.",
+                  "text": "Pihenőhely Bilbao kikötőjében, öblökkel és szörf lehetőségekkel.",
                   "category": "recreational",
                   "coords": [
                         -2.98607,
@@ -877,7 +877,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Barinatxe",
-                  "text": "A Barinatxe egy helyi strand Getxóban.",
+                  "text": "Barinatxe, egy szörfös strand sziklás szirtekkel Bilbao kikötője közelében.",
                   "category": "recreational",
                   "coords": [
                         -3.007083,
@@ -886,7 +886,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Gorrondatxe - Azkorri",
-                  "text": "A Gorrondatxe - Azkorri egy strandterület Getxóban.",
+                  "text": "Gorrondatxe-Azkorri, egy természetes öböl sziklákkal a biscayai parton.",
                   "category": "recreational",
                   "coords": [
                         -3.017253,
@@ -904,7 +904,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Arrigunaga",
-                  "text": "Az Arrigunaga egy ismert strand Getxo településen.",
+                  "text": "Arrigunaga, egy hosszú homokos strand sétánnyal a getxói vízparton.",
                   "category": "recreational",
                   "coords": [
                         -3.019785,
@@ -931,7 +931,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Igerilekua",
-                  "text": "Úszómedence Bilbao kikötőjében.",
+                  "text": "Igerilekua, egy szabadtéri medencekomplexum Bilbao kikötői sétányán.",
                   "category": "recreational",
                   "coords": [
                         -3.022176,
@@ -942,7 +942,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
       "ro": [
             {
                   "name": "Ereaga",
-                  "text": "Ereaga este o plajă urbană recunoscută situată în Getxo.",
+                  "text": "Ereaga, o plajă nisipoasă pe golful Abra, în portul Bilbao.",
                   "category": "recreational",
                   "coords": [
                         -3.013355,
@@ -951,7 +951,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Meñakoz",
-                  "text": "Meñakoz este o plajă situată în municipiul Getxo.",
+                  "text": "Zonă de agrement în Portul Bilbao, cu golfuri și locuri de surf.",
                   "category": "recreational",
                   "coords": [
                         -2.98607,
@@ -960,7 +960,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Barinatxe",
-                  "text": "Barinatxe este o plajă locală din Getxo.",
+                  "text": "Barinatxe, o plajă pentru surf cu stânci stâncoase lângă portul Bilbao.",
                   "category": "recreational",
                   "coords": [
                         -3.007083,
@@ -969,7 +969,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Gorrondatxe - Azkorri",
-                  "text": "Gorrondatxe - Azkorri este o zonă de plajă din Getxo.",
+                  "text": "Gorrondatxe-Azkorri, o golfuleț natural înconjurat de stânci pe coasta Bizcaya.",
                   "category": "recreational",
                   "coords": [
                         -3.017253,
@@ -987,7 +987,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Arrigunaga",
-                  "text": "Arrigunaga este o plajă recunoscută din municipiul Getxo.",
+                  "text": "Arrigunaga, o plajă lungă de nisip cu promenadă de-a lungul falezei Getxo.",
                   "category": "recreational",
                   "coords": [
                         -3.019785,
@@ -1014,7 +1014,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Igerilekua",
-                  "text": "O piscină în Portul Bilbao.",
+                  "text": "Igerilekua, un complex de piscine în aer liber pe faleza portului Bilbao.",
                   "category": "recreational",
                   "coords": [
                         -3.022176,
@@ -1025,7 +1025,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
       "en": [
             {
                   "name": "Ereaga",
-                  "text": "Ereaga is a well-known urban beach located in Getxo.",
+                  "text": "Ereaga, a sandy beach on the Abra Bay in the Port of Bilbao.",
                   "category": "recreational",
                   "coords": [
                         -3.013355,
@@ -1034,7 +1034,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Meñakoz",
-                  "text": "Meñakoz is a beach situated in the municipality of Getxo.",
+                  "text": "Recreational area in Port Bilbao with coves and surfing spots.",
                   "category": "recreational",
                   "coords": [
                         -2.98607,
@@ -1043,7 +1043,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Barinatxe",
-                  "text": "Barinatxe is a local beach found in Getxo.",
+                  "text": "Barinatxe, a surfers' beach with rocky cliffs near the Bilbao port.",
                   "category": "recreational",
                   "coords": [
                         -3.007083,
@@ -1052,7 +1052,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Gorrondatxe - Azkorri",
-                  "text": "Gorrondatxe - Azkorri is a beach area located in Getxo.",
+                  "text": "Gorrondatxe-Azkorri, a natural cove beach surrounded by cliffs on the Biscay coast.",
                   "category": "recreational",
                   "coords": [
                         -3.017253,
@@ -1070,7 +1070,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Arrigunaga",
-                  "text": "Arrigunaga is a recognized beach located in the municipality of Getxo.",
+                  "text": "Arrigunaga, a long sandy promenade beach along the Getxo waterfront.",
                   "category": "recreational",
                   "coords": [
                         -3.019785,
@@ -1097,7 +1097,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
             },
             {
                   "name": "Igerilekua",
-                  "text": "A swimming pool in the Port of Bilbao.",
+                  "text": "Igerilekua, an outdoor swimming pool complex on the Bilbao port seafront.",
                   "category": "recreational",
                   "coords": [
                         -3.022176,
@@ -1201,7 +1201,7 @@ imageHint: "Industrial docks of Port of Bilbao",
       "de": [
             {
                   "name": "Praia do Portiño de Bouzas",
-                  "text": "Ein Küstenstrand in der Nähe von Vigo mit Blick auf den Atlantik.",
+                  "text": "Praia do Portiño de Bouzas, ein kleiner geschützter Buchtstrand im Fischerhafen von Bouzas.",
                   "category": "recreational",
                   "coords": [
                         -8.754239,
@@ -1210,7 +1210,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia de Fontoura",
-                  "text": "Ein kleiner Sandstrand an der galicischen Küste bei Vigo.",
+                  "text": "Praia de Fontoura, ein ruhiger Sandstrand an der Vigo-Mündung mit einer Promenade.",
                   "category": "recreational",
                   "coords": [
                         -8.759032,
@@ -1219,7 +1219,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia do Cocho das Dornas",
-                  "text": "Ein ruhiger Strandabschnitt am Rande der Stadt Vigo in Spanien.",
+                  "text": "Praia do Cocho das Dornas, ein abgelegener felsiger Strand nahe der Vigo-Mündung.",
                   "category": "recreational",
                   "coords": [
                         -8.77725,
@@ -1255,7 +1255,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia da Espedrigada",
-                  "text": "Ein kleiner Strand an der Atlantikküste in der Nähe von Vigo.",
+                  "text": "Praia da Espedrigada, ein kleiner Stadtstrand an der Küste von Vigo.",
                   "category": "recreational",
                   "coords": [
                         -8.777094,
@@ -1266,7 +1266,7 @@ imageHint: "Industrial docks of Port of Bilbao",
       "hu": [
             {
                   "name": "Praia do Portiño de Bouzas",
-                  "text": "Partmenti strand Vigo közelében, kilátással az Atlanti-óceánra.",
+                  "text": "Praia do Portiño de Bouzas, egy kis védett öböl strand a bouzasi halászkikötőben.",
                   "category": "recreational",
                   "coords": [
                         -8.754239,
@@ -1275,7 +1275,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia de Fontoura",
-                  "text": "Kis homokos strand a galíciai tengerparton, Vigo közelében.",
+                  "text": "Praia de Fontoura, egy csendes homokos strand a Vigo-torkolatnál sétánnyal.",
                   "category": "recreational",
                   "coords": [
                         -8.759032,
@@ -1284,7 +1284,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia do Cocho das Dornas",
-                  "text": "Csendes strandrész a spanyolországi Vigo városának szélén.",
+                  "text": "Praia do Cocho das Dornas, egy félreeső sziklás strand a Vigo-torkolat közelében.",
                   "category": "recreational",
                   "coords": [
                         -8.77725,
@@ -1320,7 +1320,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia da Espedrigada",
-                  "text": "Kis strand az atlanti-parton, Vigo közelében.",
+                  "text": "Praia da Espedrigada, egy kis városi strand Vigo partján.",
                   "category": "recreational",
                   "coords": [
                         -8.777094,
@@ -1331,7 +1331,7 @@ imageHint: "Industrial docks of Port of Bilbao",
       "ro": [
             {
                   "name": "Praia do Portiño de Bouzas",
-                  "text": "O plajă de coastă lângă Vigo, cu vedere la Oceanul Atlantic.",
+                  "text": "Praia do Portiño de Bouzas, o plajă mică adăpostită în portul de pescuit Bouzas.",
                   "category": "recreational",
                   "coords": [
                         -8.754239,
@@ -1340,7 +1340,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia de Fontoura",
-                  "text": "O mică plajă cu nisip pe coasta galiciană lângă Vigo.",
+                  "text": "Praia de Fontoura, o plajă liniștită de nisip pe estuarul Vigo, cu promenadă.",
                   "category": "recreational",
                   "coords": [
                         -8.759032,
@@ -1349,7 +1349,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia do Cocho das Dornas",
-                  "text": "O secțiune de plajă liniștită la marginea orașului Vigo din Spania.",
+                  "text": "Praia do Cocho das Dornas, o plajă retrasă stâncoasă lângă estuarul Vigo.",
                   "category": "recreational",
                   "coords": [
                         -8.77725,
@@ -1385,7 +1385,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia da Espedrigada",
-                  "text": "O plajă mică pe coasta atlantică, lângă Vigo.",
+                  "text": "Praia da Espedrigada, o plajă urbană mică pe coasta orașului Vigo.",
                   "category": "recreational",
                   "coords": [
                         -8.777094,
@@ -1396,7 +1396,7 @@ imageHint: "Industrial docks of Port of Bilbao",
       "en": [
             {
                   "name": "Praia do Portiño de Bouzas",
-                  "text": "A coastal beach near Vigo with views of the Atlantic.",
+                  "text": "Praia do Portiño de Bouzas, a small sheltered cove beach in the Bouzas fishing port.",
                   "category": "recreational",
                   "coords": [
                         -8.754239,
@@ -1405,7 +1405,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia de Fontoura",
-                  "text": "A small sandy beach on the Galician coast near Vigo.",
+                  "text": "Praia de Fontoura, a quiet sandy beach on the Vigo estuary with a promenade.",
                   "category": "recreational",
                   "coords": [
                         -8.759032,
@@ -1414,7 +1414,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia do Cocho das Dornas",
-                  "text": "A quiet beach section on the outskirts of Vigo, Spain.",
+                  "text": "Praia do Cocho das Dornas, a secluded rocky beach near the Vigo estuary.",
                   "category": "recreational",
                   "coords": [
                         -8.77725,
@@ -1450,7 +1450,7 @@ imageHint: "Industrial docks of Port of Bilbao",
             },
             {
                   "name": "Praia da Espedrigada",
-                  "text": "A small beach on the Atlantic coast near Vigo.",
+                  "text": "Praia da Espedrigada, a small urban beach on the Vigo coast.",
                   "category": "recreational",
                   "coords": [
                         -8.777094,
@@ -2322,7 +2322,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
       "de": [
             {
                   "name": "Platja de la Nova Mar Bella",
-                  "text": "Platja de la Nova Mar Bella ist ein moderner Stadtstrand in Barcelona.",
+                  "text": "Sandstrand im Stadtbezirk Sant Martí in Barcelona.",
                   "category": "recreational",
                   "coords": [
                         2.21535,
@@ -2331,7 +2331,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de la Mar Bella",
-                  "text": "Mar Bella beach ist ein bekannter Strand im Stadtteil Sant Martí in Barcelona.",
+                  "text": "Beliebter Stadtstrand mit Promenade im Bezirk Sant Martí von Barcelona.",
                   "category": "recreational",
                   "coords": [
                         2.21222,
@@ -2349,7 +2349,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de Llevant",
-                  "text": "Platja de Llevant ist der nördlichste Strandabschnitt der Stadt Barcelona.",
+                  "text": "Jüngster Strand Barcelonas, künstlich angelegt im Sant Martí Bezirk.",
                   "category": "recreational",
                   "coords": [
                         2.218165,
@@ -2358,7 +2358,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de la Nova Icària",
-                  "text": "Platja de la Nova Icària ist ein ruhigerer Strand in der Nähe des Olympischen Hafens.",
+                  "text": "Sandstrand benannt nach der olympischen Siedlung Nova Icària in Barcelona.",
                   "category": "recreational",
                   "coords": [
                         2.20219,
@@ -2369,7 +2369,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
       "hu": [
             {
                   "name": "Platja de la Nova Mar Bella",
-                  "text": "A Platja de la Nova Mar Bella egy modern városi tengerpart Barcelonában.",
+                  "text": "Homokos strand Barcelona Sant Martí kerületében.",
                   "category": "recreational",
                   "coords": [
                         2.21535,
@@ -2378,7 +2378,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de la Mar Bella",
-                  "text": "A Mar Bella beach egy ismert tengerpart Barcelona Sant Martí negyedében.",
+                  "text": "Népszerű városi strand sétánnyal Barcelona Sant Martí negyedében.",
                   "category": "recreational",
                   "coords": [
                         2.21222,
@@ -2396,7 +2396,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de Llevant",
-                  "text": "A Platja de Llevant Barcelona városának legészakibb tengerparti szakasza.",
+                  "text": "Barcelona legújabb strandja, mesterségesen kialakítva a Sant Martí negyedben.",
                   "category": "recreational",
                   "coords": [
                         2.218165,
@@ -2405,7 +2405,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de la Nova Icària",
-                  "text": "A Platja de la Nova Icària egy nyugodtabb tengerpart az olimpiai kikötő közelében.",
+                  "text": "Homokos strand a Nova Icària olimpiai településről elnevezve Barcelonában.",
                   "category": "recreational",
                   "coords": [
                         2.20219,
@@ -2416,7 +2416,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
       "ro": [
             {
                   "name": "Platja de la Nova Mar Bella",
-                  "text": "Platja de la Nova Mar Bella este o plajă urbană modernă din Barcelona.",
+                  "text": "Plajă nisipoasă în cartierul Sant Martí din Barcelona.",
                   "category": "recreational",
                   "coords": [
                         2.21535,
@@ -2425,7 +2425,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de la Mar Bella",
-                  "text": "Plaja Mar Bella este o plajă cunoscută din cartierul Sant Martí din Barcelona.",
+                  "text": "Plajă urbană populară cu promenadă în cartierul Sant Martí din Barcelona.",
                   "category": "recreational",
                   "coords": [
                         2.21222,
@@ -2443,7 +2443,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de Llevant",
-                  "text": "Platja de Llevant este cea mai nordică secțiune de plajă a orașului Barcelona.",
+                  "text": "Cea mai nouă plajă a Barcelonei, creată artificial în cartierul Sant Martí.",
                   "category": "recreational",
                   "coords": [
                         2.218165,
@@ -2452,7 +2452,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de la Nova Icària",
-                  "text": "Platja de la Nova Icària este o plajă mai liniștită, situată lângă Portul Olimpic.",
+                  "text": "Plajă nisipoasă numită după așezarea olimpică Nova Icària în Barcelona.",
                   "category": "recreational",
                   "coords": [
                         2.20219,
@@ -2463,7 +2463,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
       "en": [
             {
                   "name": "Platja de la Nova Mar Bella",
-                  "text": "Platja de la Nova Mar Bella is a modern urban beach in Barcelona.",
+                  "text": "Sandy beach in Barcelona's Sant Martí district.",
                   "category": "recreational",
                   "coords": [
                         2.21535,
@@ -2472,7 +2472,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Mar Bella beach",
-                  "text": "Mar Bella beach is a well-known beach in the Sant Martí district of Barcelona.",
+                  "text": "Popular urban beach with a promenade in Barcelona's Sant Martí district.",
                   "category": "recreational",
                   "coords": [
                         2.21222,
@@ -2490,7 +2490,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de Llevant",
-                  "text": "Platja de Llevant is the northernmost beach section of Barcelona.",
+                  "text": "Barcelona's newest beach, artificially created in the Sant Martí district.",
                   "category": "recreational",
                   "coords": [
                         2.218165,
@@ -2499,7 +2499,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
             },
             {
                   "name": "Platja de la Nova Icària",
-                  "text": "Platja de la Nova Icària is a quieter beach located near the Olympic Port.",
+                  "text": "Sandy beach named after the Olympic village Nova Icària in Barcelona.",
                   "category": "recreational",
                   "coords": [
                         2.20219,
@@ -3247,7 +3247,7 @@ imageHint: "Entrance to historical Almadén mercury mine",
       "de": [
             {
                   "name": "Platja del Port de Sagunt",
-                  "text": "Ein beliebter Sandstrand in der Nähe des Hafens von Sagunt.",
+                  "text": "Strand am Industriehafen von Sagunt.",
                   "category": "recreational",
                   "coords": [
                         -0.20958,
@@ -3330,7 +3330,7 @@ imageHint: "Entrance to historical Almadén mercury mine",
       "hu": [
             {
                   "name": "Platja del Port de Sagunt",
-                  "text": "Népszerű homokos strand Sagunt kikötőjének közelében.",
+                  "text": "Strand Sagunt ipari kikötőjénél.",
                   "category": "recreational",
                   "coords": [
                         -0.20958,
@@ -3413,7 +3413,7 @@ imageHint: "Entrance to historical Almadén mercury mine",
       "ro": [
             {
                   "name": "Platja del Port de Sagunt",
-                  "text": "O plajă de nisip populară situată lângă portul din Sagunt.",
+                  "text": "Plajă la portul industrial Sagunt.",
                   "category": "recreational",
                   "coords": [
                         -0.20958,
@@ -3496,7 +3496,7 @@ imageHint: "Entrance to historical Almadén mercury mine",
       "en": [
             {
                   "name": "Platja del Port de Sagunt",
-                  "text": "A popular sandy beach located near the port of Sagunt.",
+                  "text": "Beach at the industrial port of Sagunt.",
                   "category": "recreational",
                   "coords": [
                         -0.20958,

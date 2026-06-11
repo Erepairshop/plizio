@@ -1357,7 +1357,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Espigueiros da Lomba",
-                  "text": "Traditionelle steinerne Getreidespeicher in der Ortschaft Lomba.",
+                  "text": "Traditionelle steinerne Kornspeicher auf Stelzen in der Lomba-Region der Serra da Arada.",
                   "category": "landmark",
                   "coords": [
                         -8.250847,
@@ -1431,7 +1431,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Espigueiros da Lomba",
-                  "text": "Hagyományos kőből készült gabonatárolók Lomba településen.",
+                  "text": "Hagyományos kőből készült gabonatárolók cölöpökön a Serra da Arada Lomba régiójában.",
                   "category": "landmark",
                   "coords": [
                         -8.250847,
@@ -1505,7 +1505,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Espigueiros da Lomba",
-                  "text": "Granare tradiționale din piatră situate în localitatea Lomba.",
+                  "text": "Grânare tradiționale de piatră pe stâlpi în regiunea Lomba din Serra da Arada.",
                   "category": "landmark",
                   "coords": [
                         -8.250847,
@@ -1579,7 +1579,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Espigueiros da Lomba",
-                  "text": "Traditional stone granaries located in the village of Lomba.",
+                  "text": "Traditional stone granaries on stilts in the Lomba area of Serra da Arada.",
                   "category": "landmark",
                   "coords": [
                         -8.250847,
@@ -2275,7 +2275,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Alegre Bar Pool",
-                  "text": "Ein Schwimmbad in der Serra do Bussaco.",
+                  "text": "Poolbar im Hotel Alegre im Wald von Bussaco, mit Außenbecken und Liegestühlen.",
                   "category": "recreational",
                   "coords": [
                         -8.377373,
@@ -2358,7 +2358,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Alegre Bar Pool",
-                  "text": "Egy úszómedence a Serra do Bussaco hegységben.",
+                  "text": "Medence bár az Alegre szállodában a Bussaco-erdőben, kültéri medencével és nyugágyakkal.",
                   "category": "recreational",
                   "coords": [
                         -8.377373,
@@ -2441,7 +2441,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Alegre Bar Pool",
-                  "text": "O piscină în Serra do Bussaco.",
+                  "text": "Bar cu piscină la hotelul Alegre din pădurea Bussaco, cu piscină exterioară și șezlonguri.",
                   "category": "recreational",
                   "coords": [
                         -8.377373,
@@ -2524,7 +2524,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Alegre Bar Pool",
-                  "text": "A swimming pool in the Serra do Bussaco.",
+                  "text": "Pool bar at the Alegre Hotel in Bussaco forest, with outdoor pool and loungers.",
                   "category": "recreational",
                   "coords": [
                         -8.377373,
@@ -2599,7 +2599,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Baloiço dos Moinhos",
-                  "text": "Ein Aussichtspunkt und eine Attraktion in Serra de Santana.",
+                  "text": "Schaukel mit Aussicht auf die Windmühlen der Serra de Santana in ländlicher Umgebung.",
                   "category": "landmark",
                   "coords": [
                         -8.1295,
@@ -2628,7 +2628,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Baloiço dos Moinhos",
-                  "text": "Kilátó és látványosság Serra de Santana területén.",
+                  "text": "Hinta kilátással a Serra de Santana szélmalmaira, vidéki környezetben.",
                   "category": "landmark",
                   "coords": [
                         -8.1295,
@@ -2657,7 +2657,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Baloiço dos Moinhos",
-                  "text": "Un punct de belvedere și atracție în Serra de Santana.",
+                  "text": "Leagăn cu vedere la morile de vânt din Serra de Santana, în decor rural.",
                   "category": "landmark",
                   "coords": [
                         -8.1295,
@@ -2686,7 +2686,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Baloiço dos Moinhos",
-                  "text": "A scenic viewpoint and attraction in Serra de Santana.",
+                  "text": "Swing with views over the windmills of Serra de Santana in a rural setting.",
                   "category": "landmark",
                   "coords": [
                         -8.1295,
@@ -2851,7 +2851,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Estação Memória",
-                  "text": "Die Estação Memória ist ein Museum in Fafe, das sich der Industriegeschichte widmet.",
+                  "text": "Museum zur Geschichte von Fafe, untergebracht im ehemaligen Bahnhofsgebäude.",
                   "category": "museum",
                   "coords": [
                         -8.170716,
@@ -2860,7 +2860,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Teatro-Cinema de Fafe",
-                  "text": "Das Teatro-Cinema de Fafe ist ein historisches Theater und Kino in der Stadt Fafe.",
+                  "text": "Historisches Theater- und Kinogebäude im Zentrum von Fafe, regelmäßig mit Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -8.17085,
@@ -2869,7 +2869,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Castro de Santo Ovídio",
-                  "text": "Der Castro de Santo Ovídio ist eine archäologische Stätte einer alten befestigten Siedlung.",
+                  "text": "Eisenzeitlicher Wallburg (Castro) mit Steinruinen und Aussicht über die Serra de Fafe.",
                   "category": "historical",
                   "coords": [
                         -8.184013,
@@ -2887,7 +2887,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Parque Aquático de Fafe",
-                  "text": "Der Parque Aquático de Fafe ist ein Wasserpark mit Rutschen und Schwimmbecken.",
+                  "text": "Wasserpark in den Bergen der Serra de Fafe.",
                   "category": "recreational",
                   "coords": [
                         -8.182206,
@@ -2896,7 +2896,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Praia Fluvial de Docim",
-                  "text": "Die Praia Fluvial de Docim ist ein Flussstrand in der Region Fafe.",
+                  "text": "Flussstrand am Ufer des Rio Docim in der Serra de Fafe.",
                   "category": "recreational",
                   "coords": [
                         -8.144722,
@@ -2905,7 +2905,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Casa das Paredes",
-                  "text": "Die Casa das Paredes ist ein historisches Herrenhaus in Fafe.",
+                  "text": "Casa das Paredes ist ein Herrenhaus aus dem 17. Jahrhundert in der Serra de Fafe.",
                   "category": "historical",
                   "coords": [
                         -8.159877,
@@ -2934,7 +2934,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Estação Memória",
-                  "text": "Az Estação Memória egy múzeum Faféban, amely az ipari történelemnek szentelt.",
+                  "text": "Fafe történelmének múzeuma, az egykori vasútállomás épületében.",
                   "category": "museum",
                   "coords": [
                         -8.170716,
@@ -2943,7 +2943,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Teatro-Cinema de Fafe",
-                  "text": "A Teatro-Cinema de Fafe egy történelmi színház és mozi Fafe városában.",
+                  "text": "Történelmi színház- és moziépület Fafe központjában, rendszeres eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         -8.17085,
@@ -2952,7 +2952,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Castro de Santo Ovídio",
-                  "text": "A Castro de Santo Ovídio egy ősi erődített település régészeti lelőhelye.",
+                  "text": "Vaskori erődített település (Castro) kőromokkal és kilátással a Serra de Faféra.",
                   "category": "historical",
                   "coords": [
                         -8.184013,
@@ -2970,7 +2970,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Parque Aquático de Fafe",
-                  "text": "A Parque Aquático de Fafe egy csúszdákkal és medencékkel felszerelt vízipark.",
+                  "text": "Vízividámpark a Serra de Fafe hegyeiben.",
                   "category": "recreational",
                   "coords": [
                         -8.182206,
@@ -2979,7 +2979,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Praia Fluvial de Docim",
-                  "text": "A Praia Fluvial de Docim egy folyóparti strand Fafe régiójában.",
+                  "text": "Folyami strand a Rio Docim partján a Serra de Fafe-ban.",
                   "category": "recreational",
                   "coords": [
                         -8.144722,
@@ -2988,7 +2988,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Casa das Paredes",
-                  "text": "A Casa das Paredes egy történelmi udvarház Faféban.",
+                  "text": "A Casa das Paredes egy 17. századi kúria a Serra de Fafe-ban.",
                   "category": "historical",
                   "coords": [
                         -8.159877,
@@ -3017,7 +3017,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Estação Memória",
-                  "text": "Estação Memória este un muzeu din Fafe dedicat istoriei industriale.",
+                  "text": "Muzeu al istoriei Fafe, găzduit în fosta clădire a gării.",
                   "category": "museum",
                   "coords": [
                         -8.170716,
@@ -3026,7 +3026,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Teatro-Cinema de Fafe",
-                  "text": "Teatro-Cinema de Fafe este un teatru și cinematograf istoric din orașul Fafe.",
+                  "text": "Clădire istorică de teatru și cinema în centrul Fafe, cu evenimente regulate.",
                   "category": "cultural",
                   "coords": [
                         -8.17085,
@@ -3035,7 +3035,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Castro de Santo Ovídio",
-                  "text": "Castro de Santo Ovídio este un sit arheologic al unei vechi așezări fortificate.",
+                  "text": "Cetate din epoca fierului (Castro) cu ruine de piatră și vedere asupra Serra de Fafe.",
                   "category": "historical",
                   "coords": [
                         -8.184013,
@@ -3053,7 +3053,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Parque Aquático de Fafe",
-                  "text": "Parque Aquático de Fafe este un parc acvatic cu tobogane și piscine.",
+                  "text": "Parac acvatic în munții Serra de Fafe.",
                   "category": "recreational",
                   "coords": [
                         -8.182206,
@@ -3062,7 +3062,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Praia Fluvial de Docim",
-                  "text": "Praia Fluvial de Docim este o plajă fluvială din regiunea Fafe.",
+                  "text": "Plajă fluvială pe malul râului Docim în Serra de Fafe.",
                   "category": "recreational",
                   "coords": [
                         -8.144722,
@@ -3071,7 +3071,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Casa das Paredes",
-                  "text": "Casa das Paredes este un conac istoric din Fafe.",
+                  "text": "Casa das Paredes este un conac din secolul al XVII-lea în Serra de Fafe.",
                   "category": "historical",
                   "coords": [
                         -8.159877,
@@ -3100,7 +3100,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Estação Memória",
-                  "text": "Estação Memória is a museum in Fafe dedicated to industrial history.",
+                  "text": "Museum of Fafe's history, housed in the former railway station building.",
                   "category": "museum",
                   "coords": [
                         -8.170716,
@@ -3109,7 +3109,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Teatro-Cinema de Fafe",
-                  "text": "The Teatro-Cinema de Fafe is a historic theatre and cinema in the city of Fafe.",
+                  "text": "Historic theater and cinema building in the center of Fafe, with regular events.",
                   "category": "cultural",
                   "coords": [
                         -8.17085,
@@ -3118,7 +3118,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Castro de Santo Ovídio",
-                  "text": "The Castro de Santo Ovídio is an archaeological site of an ancient fortified settlement.",
+                  "text": "Iron Age hillfort (Castro) with stone ruins and panoramic views over Serra de Fafe.",
                   "category": "historical",
                   "coords": [
                         -8.184013,
@@ -3136,7 +3136,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Parque Aquático de Fafe",
-                  "text": "The Parque Aquático de Fafe is a water park with slides and swimming pools.",
+                  "text": "Water park in the Serra de Fafe mountains.",
                   "category": "recreational",
                   "coords": [
                         -8.182206,
@@ -3145,7 +3145,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Praia Fluvial de Docim",
-                  "text": "The Praia Fluvial de Docim is a river beach in the Fafe region.",
+                  "text": "River beach on the banks of the Rio Docim in Serra de Fafe.",
                   "category": "recreational",
                   "coords": [
                         -8.144722,
@@ -3154,7 +3154,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Casa das Paredes",
-                  "text": "The Casa das Paredes is a historic manor house in Fafe.",
+                  "text": "Casa das Paredes is a 17th-century manor house in the Serra de Fafe.",
                   "category": "historical",
                   "coords": [
                         -8.159877,
@@ -4795,7 +4795,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Santuário rupestre de Garfe",
-                  "text": "Ein historisches Felsenheiligtum in der Region Garfe.",
+                  "text": "Santuário rupestre de Garfe ist ein in eine Felswand gehauenes Heiligtum in der Serra do Marão.",
                   "category": "landmark",
                   "coords": [
                         -8.25265,
@@ -4851,7 +4851,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Santuário rupestre de Garfe",
-                  "text": "Történelmi sziklaszentély Garfe környékén.",
+                  "text": "A Santuário rupestre de Garfe egy sziklába vésett szentély a Serra do Marão-ban.",
                   "category": "landmark",
                   "coords": [
                         -8.25265,
@@ -4907,7 +4907,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Santuário rupestre de Garfe",
-                  "text": "Un sanctuar istoric săpat în stâncă situat în regiunea Garfe.",
+                  "text": "Santuário rupestre de Garfe este un sanctuar cioplit în stâncă în Serra do Marão.",
                   "category": "landmark",
                   "coords": [
                         -8.25265,
@@ -4963,7 +4963,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Santuário rupestre de Garfe",
-                  "text": "A historic rock-cut sanctuary located in the Garfe region.",
+                  "text": "Santuário rupestre de Garfe is a rock-cut sanctuary carved into a cliff in the Serra do Marão.",
                   "category": "landmark",
                   "coords": [
                         -8.25265,
@@ -5047,7 +5047,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Cascata do Barbelote",
-                  "text": "Ein malerischer Wasserfall in der Serra de Monchique.",
+                  "text": "Wasserfall im nördlichen Teil der Serra de Monchique.",
                   "category": "landmark",
                   "coords": [
                         -8.613214,
@@ -5076,7 +5076,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Cascata do Barbelote",
-                  "text": "Festői vízesés a Serra de Monchique hegységben.",
+                  "text": "Vízesés a Serra de Monchique északi részén.",
                   "category": "landmark",
                   "coords": [
                         -8.613214,
@@ -5105,7 +5105,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Cascata do Barbelote",
-                  "text": "O cascadă pitorească situată în Serra de Monchique.",
+                  "text": "Cascadă în partea de nord a Serra de Monchique.",
                   "category": "landmark",
                   "coords": [
                         -8.613214,
@@ -5134,7 +5134,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Cascata do Barbelote",
-                  "text": "A picturesque waterfall located in the Serra de Monchique.",
+                  "text": "Waterfall in the northern part of the Serra de Monchique.",
                   "category": "landmark",
                   "coords": [
                         -8.613214,
@@ -6163,7 +6163,7 @@ export const portugalReliefV2: POI[] = [
       "de": [
             {
                   "name": "Via medieval de São João - Travassós",
-                  "text": "Eine mittelalterliche Ausgrabungsstätte in Travassós bei Fafe.",
+                  "text": "Mittelalterlicher Weg im Westen der Serra de Fafe.",
                   "category": "historical",
                   "coords": [
                         -8.214673,
@@ -6217,7 +6217,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Baloiço do Canal de Sendim",
-                  "text": "Eine malerische Schaukel am Kanal von Sendim in Fafe.",
+                  "text": "Schaukel mit Blick auf den Kanal von Sendim.",
                   "category": "landmark",
                   "coords": [
                         -8.178583,
@@ -6237,7 +6237,7 @@ export const portugalReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Via medieval de São João - Travassós",
-                  "text": "Középkori régészeti lelőhely Travassós közelében, Fafénál.",
+                  "text": "Középkori ösvény a Serra de Fafe nyugati részén.",
                   "category": "historical",
                   "coords": [
                         -8.214673,
@@ -6291,7 +6291,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Baloiço do Canal de Sendim",
-                  "text": "Gidafestői hinta a Sendim-csatornánál Fafe területén.",
+                  "text": "Hinta a Sendim-csatornára néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         -8.178583,
@@ -6311,7 +6311,7 @@ export const portugalReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Via medieval de São João - Travassós",
-                  "text": "Un sit arheologic medieval situat în Travassós, lângă Fafe.",
+                  "text": "Drum medieval în vestul Serrei de Fafe.",
                   "category": "historical",
                   "coords": [
                         -8.214673,
@@ -6365,7 +6365,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Baloiço do Canal de Sendim",
-                  "text": "Un leagăn pitoresc situat lângă canalul Sendim din Fafe.",
+                  "text": "Leagăn cu vedere asupra Canalului Sendim.",
                   "category": "landmark",
                   "coords": [
                         -8.178583,
@@ -6385,7 +6385,7 @@ export const portugalReliefV2: POI[] = [
       "en": [
             {
                   "name": "Via medieval de São João - Travassós",
-                  "text": "A medieval archaeological site located in Travassós near Fafe.",
+                  "text": "Medieval path in the west of Serra de Fafe.",
                   "category": "historical",
                   "coords": [
                         -8.214673,
@@ -6439,7 +6439,7 @@ export const portugalReliefV2: POI[] = [
             },
             {
                   "name": "Baloiço do Canal de Sendim",
-                  "text": "A scenic swing located by the Sendim canal in Fafe.",
+                  "text": "Swing overlooking the Sendim Canal.",
                   "category": "landmark",
                   "coords": [
                         -8.178583,

@@ -7,7 +7,7 @@ export const poiExtraIcelandCities: POI[] = [
       "de": [
             {
                   "name": "Safnahús",
-                  "text": "Ein Museum in Egilsstaðir, das das kulturelle Erbe Ostislands bewahrt.",
+                  "text": "Museum zur Bewahrung des kulturellen Erbes Ostislands, untergebracht in einem historischen Bauernhaus.",
                   "category": "museum",
                   "coords": [
                         -14.396304,
@@ -25,7 +25,7 @@ export const poiExtraIcelandCities: POI[] = [
             },
             {
                   "name": "Reindeer Park",
-                  "text": "Reindeer Park in Egilssta Ir ist ein Ausflugsziel für Familien, um Tiere zu beobachten.",
+                  "text": "Rentierpark, in dem Besucher Rentiere sehen und füttern können.",
                   "category": "family",
                   "coords": [
                         -14.441577,
@@ -36,7 +36,7 @@ export const poiExtraIcelandCities: POI[] = [
       "hu": [
             {
                   "name": "Safnahús",
-                  "text": "Egilsstaðir múzeuma, amely Kelet-Izland kulturális örökségét őrzi.",
+                  "text": "Kelet-Izland kulturális örökségét bemutató múzeum egy történelmi tanyán.",
                   "category": "museum",
                   "coords": [
                         -14.396304,
@@ -54,7 +54,7 @@ export const poiExtraIcelandCities: POI[] = [
             },
             {
                   "name": "Reindeer Park",
-                  "text": "A Reindeer Park egy állatkert Egilssta Ir területén, ahol a családok állatokat láthatnak.",
+                  "text": "Rénszarvas Park, ahol a látogatók rénszarvasokat nézhetnek és etethetnek.",
                   "category": "family",
                   "coords": [
                         -14.441577,
@@ -65,7 +65,7 @@ export const poiExtraIcelandCities: POI[] = [
       "ro": [
             {
                   "name": "Safnahús",
-                  "text": "Un muzeu din Egilsstaðir care conservă patrimoniul cultural al Islandei de Est.",
+                  "text": "Muzeul patrimoniului cultural al Islandei de Est, găzduit într-o fermă istorică.",
                   "category": "museum",
                   "coords": [
                         -14.396304,
@@ -83,7 +83,7 @@ export const poiExtraIcelandCities: POI[] = [
             },
             {
                   "name": "Reindeer Park",
-                  "text": "Reindeer Park din Egilssta Ir este o destinație pentru familii pentru a vedea animale.",
+                  "text": "Parcul cu reni, unde vizitatorii pot vedea și hrăni reni.",
                   "category": "family",
                   "coords": [
                         -14.441577,
@@ -94,7 +94,7 @@ export const poiExtraIcelandCities: POI[] = [
       "en": [
             {
                   "name": "The East Iceland Heritage Museum",
-                  "text": "A museum in Egilsstaðir preserving the cultural heritage of East Iceland.",
+                  "text": "Museum preserving the cultural heritage of East Iceland, housed in a historic farmhouse.",
                   "category": "museum",
                   "coords": [
                         -14.396304,
@@ -112,7 +112,7 @@ export const poiExtraIcelandCities: POI[] = [
             },
             {
                   "name": "Reindeer Park",
-                  "text": "Reindeer Park in Egilssta Ir is a destination for families to see animals.",
+                  "text": "Reindeer park where visitors can see and feed reindeer.",
                   "category": "family",
                   "coords": [
                         -14.441577,
@@ -235,7 +235,7 @@ export const poiExtraIcelandCities: POI[] = [
             },
             {
                   "name": "Lokatindur",
-                  "text": "Ein markanter Berggipfel in der Nähe von Neskaupstaður.",
+                  "text": "Berggipfel in der Fjordlandschaft nahe Neskaupstaður.",
                   "category": "natural",
                   "coords": [
                         -13.728833,
@@ -282,7 +282,7 @@ export const poiExtraIcelandCities: POI[] = [
             },
             {
                   "name": "Lokatindur",
-                  "text": "Jellegzetes hegycsúcs Neskaupstaður közelében.",
+                  "text": "Hegycsúcs a fjord tájban Neskaupstaður közelében.",
                   "category": "natural",
                   "coords": [
                         -13.728833,
@@ -329,7 +329,7 @@ export const poiExtraIcelandCities: POI[] = [
             },
             {
                   "name": "Lokatindur",
-                  "text": "Un vârf muntos proeminent în apropiere de Neskaupstaður.",
+                  "text": "Vârf montan în peisajul de fiorduri lângă Neskaupstaður.",
                   "category": "natural",
                   "coords": [
                         -13.728833,
@@ -376,7 +376,7 @@ export const poiExtraIcelandCities: POI[] = [
             },
             {
                   "name": "Lokatindur",
-                  "text": "A prominent mountain peak located near Neskaupstaður.",
+                  "text": "Mountain peak in the fjord landscape near Neskaupstaður.",
                   "category": "natural",
                   "coords": [
                         -13.728833,

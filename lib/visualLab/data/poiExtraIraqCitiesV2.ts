@@ -3,7 +3,520 @@ import type { POI } from "./poi";
 
 export const poiExtraIraqCitiesV2: POI[] = [
   {
-    id: "baghdad-cities-v2",
+    id: "baghdad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Norrain disposal materials shop",
+                  "text": "Ein unkonventioneller Aussichtspunkt in Bagdad, der einen Einblick in den industriellen Alltag und die Logistik der Stadt gewährt.",
+                  "category": "natural",
+                  "coords": [
+                        44.286679,
+                        33.27074
+                  ]
+            },
+            {
+                  "name": "The Golden Street",
+                  "text": "Diese belebte Straße in Bagdad ist für ihren glitzernden Goldschmuck und die lebendige Atmosphäre ihrer Basare bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        44.290126,
+                        33.27286
+                  ]
+            },
+            {
+                  "name": "Kharejia Neighborhood 889",
+                  "text": "Ein erhöhter Standort im Viertel Kharejia, der einen weiten Blick über die Wohngebiete im Osten Bagdads ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        44.292156,
+                        33.274095
+                  ]
+            },
+            {
+                  "name": "city games The Garden of Karkh",
+                  "text": "Ein Erholungsgebiet im Karkh-Distrikt von Bagdad, das für seine Grünanlagen und den Blick auf den Tigris geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        44.299153,
+                        33.263341
+                  ]
+            },
+            {
+                  "name": "AL-Jawahiri",
+                  "text": "Dieses 2022 eröffnete Museum in Bagdad befindet sich im ehemaligen Wohnhaus des berühmten irakischen Dichters Muhammad Mahdi al-Dschawahiri.",
+                  "category": "museum",
+                  "coords": [
+                        44.355549,
+                        33.297782
+                  ]
+            },
+            {
+                  "name": "tbi",
+                  "text": "Ein Standort am markanten Gebäude der Trade Bank of Iraq, der eine moderne Perspektive auf Bagdads Geschäftsviertel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.346282,
+                        33.3044
+                  ]
+            },
+            {
+                  "name": "Faw Street (National Security)",
+                  "text": "Ein Aussichtspunkt an einer der Hauptstraßen Bagdads, der Einblicke in die Architektur der umliegenden Regierungsgebäude gewährt.",
+                  "category": "natural",
+                  "coords": [
+                        44.295947,
+                        33.279692
+                  ]
+            },
+            {
+                  "name": "Konzertsaal und Theater",
+                  "text": "Ein kulturelles Zentrum in Bagdad, das für Theateraufführungen und Konzerte genutzt wird und die lokale Kunstszene fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.369065,
+                        33.317142
+                  ]
+            },
+            {
+                  "name": "Al Salam Palace",
+                  "text": "Dieser ehemalige Palast in Bagdad besticht durch seine monumentale Kuppel und die Lage am Ufer des Tigris.",
+                  "category": "castle",
+                  "coords": [
+                        44.361551,
+                        33.300937
+                  ]
+            },
+            {
+                  "name": "Al-Haj Abbas Al-Adily Mosque",
+                  "text": "Eine Moschee in Bagdad, die als lokaler Treffpunkt für das tägliche Gebet und religiöse Unterweisung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.365944,
+                        33.306898
+                  ]
+            },
+            {
+                  "name": "Al-Sayd Naeem Mosque",
+                  "text": "Ein ruhiger Gebetsort im Herzen Bagdads, der für seine traditionelle Gestaltung und lokale Bedeutung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.363424,
+                        33.306962
+                  ]
+            },
+            {
+                  "name": "Al Shawaf Mosque",
+                  "text": "Diese Moschee in Bagdad ist ein wichtiges religiöses Wahrzeichen im Stadtteil Karrada und für ihre Architektur bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.330863,
+                        33.297954
+                  ]
+            },
+            {
+                  "name": "Inner District Mosque",
+                  "text": "Eine zentrale Moschee in einem der inneren Stadtbezirke Bagdads, die als Ankerpunkt für die lokale muslimische Gemeinde fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.333404,
+                        33.29339
+                  ]
+            },
+            {
+                  "name": "Mar Yousif Chaldean Catholic Church",
+                  "text": "Eine bedeutende Gebetsstätte für die chaldäisch-katholische Gemeinde in Bagdad.",
+                  "category": "landmark",
+                  "coords": [
+                        44.324143,
+                        33.303402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Norrain disposal materials shop",
+                  "text": "Hagyományostól eltérő kilátópont Bagdadban, amely betekintést nyújt a város ipari mindennapjaiba és logisztikájába.",
+                  "category": "natural",
+                  "coords": [
+                        44.286679,
+                        33.27074
+                  ]
+            },
+            {
+                  "name": "The Golden Street",
+                  "text": "Ez a forgalmas bagdadi utca a csillogó aranyékszereiről és bazárjainak élénk hangulatáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.290126,
+                        33.27286
+                  ]
+            },
+            {
+                  "name": "Kharejia Neighborhood 889",
+                  "text": "Magaslati pont a Kharejia negyedben, ahonnan tágas kilátás nyílik Bagdad keleti lakóövezeteire.",
+                  "category": "natural",
+                  "coords": [
+                        44.292156,
+                        33.274095
+                  ]
+            },
+            {
+                  "name": "city games The Garden of Karkh",
+                  "text": "Pihenőövezet Bagdad Karkh negyedében, amely zöldfelületeiről és a Tigris folyóra nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.299153,
+                        33.263341
+                  ]
+            },
+            {
+                  "name": "AL-Jawahiri",
+                  "text": "A 2022-ben megnyitott bagdadi múzeum a híres iraki költő, Muhammad Mahdi al-Dzsawahiri egykori lakóházában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        44.355549,
+                        33.297782
+                  ]
+            },
+            {
+                  "name": "tbi",
+                  "text": "Az Iraki Kereskedelmi Bank jellegzetes épületénél található pont, amely modern rálátást biztosít Bagdad üzleti negyedére.",
+                  "category": "natural",
+                  "coords": [
+                        44.346282,
+                        33.3044
+                  ]
+            },
+            {
+                  "name": "Faw Street (National Security)",
+                  "text": "Kilátópont Bagdad egyik főútján, amely rálátást biztosít a környező kormányzati épületek építészetére.",
+                  "category": "natural",
+                  "coords": [
+                        44.295947,
+                        33.279692
+                  ]
+            },
+            {
+                  "name": "Concert Hall and Theater",
+                  "text": "Kulturális központ Bagdadban, amely színházi előadásoknak és koncerteknek ad otthont, támogatva a helyi művészeti életet.",
+                  "category": "cultural",
+                  "coords": [
+                        44.369065,
+                        33.317142
+                  ]
+            },
+            {
+                  "name": "Al Salam Palace",
+                  "text": "Ez az egykori bagdadi palota monumentális kupolájával és a Tigris partján fekvő elhelyezkedésével nyűgözi le a látogatókat.",
+                  "category": "castle",
+                  "coords": [
+                        44.361551,
+                        33.300937
+                  ]
+            },
+            {
+                  "name": "Al-Haj Abbas Al-Adily Mosque",
+                  "text": "Bagdadi mecset, amely a napi imádságok és vallási oktatás helyi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.365944,
+                        33.306898
+                  ]
+            },
+            {
+                  "name": "Al-Sayd Naeem Mosque",
+                  "text": "Nyugodt imádságos hely Bagdad szívében, amely hagyományos kialakításáról és helyi jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.363424,
+                        33.306962
+                  ]
+            },
+            {
+                  "name": "Al Shawaf Mosque",
+                  "text": "Ez a bagdadi mecset Karrada negyedének egyik fontos vallási jelképe, amely építészetéről is nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        44.330863,
+                        33.297954
+                  ]
+            },
+            {
+                  "name": "Inner District Mosque",
+                  "text": "Központi mecset Bagdad egyik belső kerületében, amely a helyi muszlim közösség tartóoszlopa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.333404,
+                        33.29339
+                  ]
+            },
+            {
+                  "name": "Mar Yousif Chaldean Catholic Church",
+                  "text": "A bagdadi káld katolikus közösség jelentős temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        44.324143,
+                        33.303402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Norrain disposal materials shop",
+                  "text": "Un punct de observație neconvențional în Bagdad, oferind o privire asupra vieții industriale de zi cu zi și a logisticii orașului.",
+                  "category": "natural",
+                  "coords": [
+                        44.286679,
+                        33.27074
+                  ]
+            },
+            {
+                  "name": "The Golden Street",
+                  "text": "Această stradă animată din Bagdad este celebră pentru bijuteriile de aur strălucitoare și atmosfera vibrantă a bazarurilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        44.290126,
+                        33.27286
+                  ]
+            },
+            {
+                  "name": "Kharejia Neighborhood 889",
+                  "text": "O locație înaltă în cartierul Kharejia, oferind o vedere panoramică asupra zonelor rezidențiale din estul Bagdadului.",
+                  "category": "natural",
+                  "coords": [
+                        44.292156,
+                        33.274095
+                  ]
+            },
+            {
+                  "name": "city games The Garden of Karkh",
+                  "text": "O zonă de recreere în districtul Karkh din Bagdad, apreciată pentru spațiile verzi și vederea spre râul Tigru.",
+                  "category": "natural",
+                  "coords": [
+                        44.299153,
+                        33.263341
+                  ]
+            },
+            {
+                  "name": "AL-Jawahiri",
+                  "text": "Acest muzeu din Bagdad, deschis în 2022, este situat în fosta reședință a celebrului poet irakian Muhammad Mahdi Al-Jawahiri.",
+                  "category": "museum",
+                  "coords": [
+                        44.355549,
+                        33.297782
+                  ]
+            },
+            {
+                  "name": "tbi",
+                  "text": "O locație lângă clădirea distinctivă a Băncii de Comerț a Irakului, oferind o perspectivă modernă asupra districtului financiar din Bagdad.",
+                  "category": "natural",
+                  "coords": [
+                        44.346282,
+                        33.3044
+                  ]
+            },
+            {
+                  "name": "Faw Street (National Security)",
+                  "text": "Un punct de observație pe una dintre străzile principale ale Bagdadului, oferind perspective asupra arhitecturii clădirilor guvernamentale.",
+                  "category": "natural",
+                  "coords": [
+                        44.295947,
+                        33.279692
+                  ]
+            },
+            {
+                  "name": "Concert Hall and Theater",
+                  "text": "Un centru cultural din Bagdad utilizat pentru spectacole de teatru și concerte, promovând scena artistică locală.",
+                  "category": "cultural",
+                  "coords": [
+                        44.369065,
+                        33.317142
+                  ]
+            },
+            {
+                  "name": "Al Salam Palace",
+                  "text": "Acest fost palat din Bagdad impresionează prin cupola sa monumentală și locația strategică pe malul râului Tigru.",
+                  "category": "castle",
+                  "coords": [
+                        44.361551,
+                        33.300937
+                  ]
+            },
+            {
+                  "name": "Al-Haj Abbas Al-Adily Mosque",
+                  "text": "O moschee din Bagdad care servește ca loc de întâlnire local pentru rugăciunile zilnice și instruirea religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.365944,
+                        33.306898
+                  ]
+            },
+            {
+                  "name": "Al-Sayd Naeem Mosque",
+                  "text": "Un loc de rugăciune liniștit în inima Bagdadului, cunoscut pentru designul său tradițional și importanța locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.363424,
+                        33.306962
+                  ]
+            },
+            {
+                  "name": "Al Shawaf Mosque",
+                  "text": "Această moschee din Bagdad este un reper religios important în cartierul Karrada, fiind recunoscută pentru arhitectura sa.",
+                  "category": "landmark",
+                  "coords": [
+                        44.330863,
+                        33.297954
+                  ]
+            },
+            {
+                  "name": "Inner District Mosque",
+                  "text": "O moschee centrală într-unul dintre districtele interioare ale Bagdadului, funcționând ca punct de sprijin pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.333404,
+                        33.29339
+                  ]
+            },
+            {
+                  "name": "Mar Yousif Chaldean Catholic Church",
+                  "text": "O importantă biserică a comunității caldeene catolice din Bagdad.",
+                  "category": "landmark",
+                  "coords": [
+                        44.324143,
+                        33.303402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Norrain disposal materials shop",
+                  "text": "An unconventional viewpoint in Baghdad offering a glimpse into the city's industrial daily life and logistics.",
+                  "category": "natural",
+                  "coords": [
+                        44.286679,
+                        33.27074
+                  ]
+            },
+            {
+                  "name": "The Golden Street",
+                  "text": "A bustling street in Baghdad known for its glittering gold jewelry shops and the vibrant atmosphere of its traditional bazaars.",
+                  "category": "natural",
+                  "coords": [
+                        44.290126,
+                        33.27286
+                  ]
+            },
+            {
+                  "name": "Kharejia Neighborhood 889",
+                  "text": "An elevated spot in the Kharejia neighborhood providing a wide view over the residential areas of eastern Baghdad.",
+                  "category": "natural",
+                  "coords": [
+                        44.292156,
+                        33.274095
+                  ]
+            },
+            {
+                  "name": "city games The Garden of Karkh",
+                  "text": "A recreational area in Baghdad's Karkh district, valued for its greenery and views overlooking the Tigris River.",
+                  "category": "natural",
+                  "coords": [
+                        44.299153,
+                        33.263341
+                  ]
+            },
+            {
+                  "name": "AL-Jawahiri",
+                  "text": "Opened in 2022, this museum in Baghdad is housed in the former residence of the famous Iraqi poet Muhammad Mahdi Al-Jawahiri.",
+                  "category": "museum",
+                  "coords": [
+                        44.355549,
+                        33.297782
+                  ]
+            },
+            {
+                  "name": "tbi",
+                  "text": "A location near the prominent Trade Bank of Iraq building, offering a modern perspective on Baghdad's business district.",
+                  "category": "natural",
+                  "coords": [
+                        44.346282,
+                        33.3044
+                  ]
+            },
+            {
+                  "name": "Faw Street (National Security)",
+                  "text": "A viewpoint along one of Baghdad's main thoroughfares, offering glimpses of the surrounding government building architecture.",
+                  "category": "natural",
+                  "coords": [
+                        44.295947,
+                        33.279692
+                  ]
+            },
+            {
+                  "name": "Concert Hall and Theater",
+                  "text": "A cultural hub in Baghdad used for theatrical performances and concerts, supporting the local arts scene.",
+                  "category": "cultural",
+                  "coords": [
+                        44.369065,
+                        33.317142
+                  ]
+            },
+            {
+                  "name": "Al Salam Palace",
+                  "text": "This former palace in Baghdad is distinguished by its monumental dome and its grand setting along the banks of the Tigris River.",
+                  "category": "castle",
+                  "coords": [
+                        44.361551,
+                        33.300937
+                  ]
+            },
+            {
+                  "name": "Al-Haj Abbas Al-Adily Mosque",
+                  "text": "A neighborhood mosque in Baghdad serving as a local hub for daily prayers and religious instruction.",
+                  "category": "landmark",
+                  "coords": [
+                        44.365944,
+                        33.306898
+                  ]
+            },
+            {
+                  "name": "Al-Sayd Naeem Mosque",
+                  "text": "A serene place of worship in the heart of Baghdad, known for its traditional design and local community significance.",
+                  "category": "landmark",
+                  "coords": [
+                        44.363424,
+                        33.306962
+                  ]
+            },
+            {
+                  "name": "Al Shawaf Mosque",
+                  "text": "A prominent mosque in Baghdad's Karrada district, serving as a significant religious landmark with distinctive architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.330863,
+                        33.297954
+                  ]
+            },
+            {
+                  "name": "Inner District Mosque",
+                  "text": "A central mosque in one of Baghdad's inner districts, acting as an anchor for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.333404,
+                        33.29339
+                  ]
+            },
+            {
+                  "name": "Mar Yousif Chaldean Catholic Church",
+                  "text": "A significant place of worship for the Chaldean Catholic community in Baghdad.",
+                  "category": "landmark",
+                  "coords": [
+                        44.324143,
+                        33.303402
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-BG",
     coords: [44.3661, 33.3152],
@@ -40,7 +553,268 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Capital of Iraq and its largest city, with over 7 million residents.", "Established in 762 AD by the Abbasids as the 'Round City'.", "Divided by the Tigris River into Karkh (West) and Rusafa (East).", "The National Museum of Iraq holds artifacts from the cradle of civilization.", "Al-Mustansiriyya University is one of the oldest in the Islamic world (1227 AD).", "Political and economic hub, containing the Green Zone and Central Bank.", "Mutanabbi Street is the cultural heart of the city's literary scene.", "Site of the famous 'Victory Arch' (Hands of Victory) monuments."],
     }, image: "/poi-images/baghdad-cities-v2.webp"},
   {
-    id: "basra-cities-v2",
+    id: "basra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shat Al-arab Zoo",
+                  "text": "Dieser Zoo am Ufer des Shatt Al-Arab beherbergt eine Vielzahl von Tierarten in einer flussnahen Anlage.",
+                  "category": "recreational",
+                  "coords": [
+                        47.848487,
+                        30.521719
+                  ]
+            },
+            {
+                  "name": "Sama Albasrah Advertising and Digital Printing Co.Ltd",
+                  "text": "Ein städtischer Aussichtspunkt in der Nähe des Werbezentrums, der einen Blick auf das geschäftige Treiben in den Straßen von Basra bietet.",
+                  "category": "natural",
+                  "coords": [
+                        47.843212,
+                        30.518872
+                  ]
+            },
+            {
+                  "name": "almoshkat printer",
+                  "text": "Ein lokales Zentrum für Druckgrafik, das als kultureller Anlaufpunkt für grafische Kunst in der Stadt gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        47.816223,
+                        30.518522
+                  ]
+            },
+            {
+                  "name": "Dxn",
+                  "text": "Ein modernes Handelszentrum in Basra, das für seine spezialisierten Wellnessprodukte und Gesundheitsberatung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        47.832974,
+                        30.50326
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sada Al-Fardan",
+                  "text": "Eine traditionelle schiitische Husseiniyah, die für ihre festlichen Dekorationen während religiöser Feiertage bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        47.849479,
+                        30.504042
+                  ]
+            },
+            {
+                  "name": "Al Sahlany Mosque",
+                  "text": "Diese muslimische Moschee im Stadtzentrum zeichnet sich durch ihre ruhige Gebetsatmosphäre aus.",
+                  "category": "landmark",
+                  "coords": [
+                        47.789975,
+                        30.507934
+                  ]
+            },
+            {
+                  "name": "CBOX",
+                  "text": "Ein lebhafter Marktplatz, der in modernen Containern untergebracht ist und lokales Kunsthandwerk sowie Streetfood bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        47.827796,
+                        30.505414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shat Al-arab Zoo",
+                  "text": "A Satt el-Arab partján található állatkert számos fajnak ad otthont a folyó menti létesítményben.",
+                  "category": "recreational",
+                  "coords": [
+                        47.848487,
+                        30.521719
+                  ]
+            },
+            {
+                  "name": "Sama Albasrah Advertising and Digital Printing Co.Ltd",
+                  "text": "Városi kilátópont a hirdetési központ közelében, amely rálátást nyújt Baszra forgalmas utcáira.",
+                  "category": "natural",
+                  "coords": [
+                        47.843212,
+                        30.518872
+                  ]
+            },
+            {
+                  "name": "almoshkat printer",
+                  "text": "Helyi nyomdászati központ, amely a grafikai művészetek kulturális találkozóhelyének számít a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.816223,
+                        30.518522
+                  ]
+            },
+            {
+                  "name": "Dxn",
+                  "text": "Modern kereskedelmi központ Baszrában, amely speciális wellness termékeiről és egészségügyi tanácsadásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        47.832974,
+                        30.50326
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sada Al-Fardan",
+                  "text": "Hagyományos síita huszeinijja, amely a vallási ünnepek alatt látható ünnepi díszítéseiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        47.849479,
+                        30.504042
+                  ]
+            },
+            {
+                  "name": "Al Sahlany Mosque",
+                  "text": "Ez a városközponti muszlim mecset a nyugodt imádkozási légkörével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.789975,
+                        30.507934
+                  ]
+            },
+            {
+                  "name": "CBOX",
+                  "text": "Modern konténerekben elhelyezett nyüzsgő piactér, amely helyi kézműves termékeket és utcai ételeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        47.827796,
+                        30.505414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shat Al-arab Zoo",
+                  "text": "Această grădină zoologică de pe malul râului Shatt Al-Arab găzduiește o varietate de specii de animale într-o incintă fluvială.",
+                  "category": "recreational",
+                  "coords": [
+                        47.848487,
+                        30.521719
+                  ]
+            },
+            {
+                  "name": "Sama Albasrah Advertising and Digital Printing Co.Ltd",
+                  "text": "Un punct de observație urban lângă centrul de publicitate, care oferă o vedere asupra agitației de pe străzile Basrei.",
+                  "category": "natural",
+                  "coords": [
+                        47.843212,
+                        30.518872
+                  ]
+            },
+            {
+                  "name": "almoshkat printer",
+                  "text": "Un centru local de imprimare, considerat un punct de referință cultural pentru arta grafică din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        47.816223,
+                        30.518522
+                  ]
+            },
+            {
+                  "name": "Dxn",
+                  "text": "Un centru comercial modern din Basra, cunoscut pentru produsele sale de wellness specializate și consultanță în sănătate.",
+                  "category": "landmark",
+                  "coords": [
+                        47.832974,
+                        30.50326
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sada Al-Fardan",
+                  "text": "O Husseiniyah șiită tradițională, cunoscută pentru decorațiunile sale festive din timpul sărbătorilor religioase.",
+                  "category": "religious",
+                  "coords": [
+                        47.849479,
+                        30.504042
+                  ]
+            },
+            {
+                  "name": "Al Sahlany Mosque",
+                  "text": "Această moschee musulmană din centrul orașului se remarcă prin atmosfera sa liniștită de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        47.789975,
+                        30.507934
+                  ]
+            },
+            {
+                  "name": "CBOX",
+                  "text": "O piață plină de viață găzduită în containere moderne, care oferă artizanat local și mâncare stradală.",
+                  "category": "cultural",
+                  "coords": [
+                        47.827796,
+                        30.505414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shat Al-arab Zoo",
+                  "text": "This zoo on the banks of the Shatt Al-Arab houses a variety of animal species in a riverside facility.",
+                  "category": "recreational",
+                  "coords": [
+                        47.848487,
+                        30.521719
+                  ]
+            },
+            {
+                  "name": "Sama Albasrah Advertising and Digital Printing Co.Ltd",
+                  "text": "An urban viewpoint near the advertising center, offering a look at the busy street life of Basra.",
+                  "category": "natural",
+                  "coords": [
+                        47.843212,
+                        30.518872
+                  ]
+            },
+            {
+                  "name": "almoshkat printer",
+                  "text": "A local printing center regarded as a cultural hub for graphic arts within the city.",
+                  "category": "landmark",
+                  "coords": [
+                        47.816223,
+                        30.518522
+                  ]
+            },
+            {
+                  "name": "Dxn",
+                  "text": "A modern commercial center in Basra known for its specialized wellness products and health consultancy.",
+                  "category": "landmark",
+                  "coords": [
+                        47.832974,
+                        30.50326
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sada Al-Fardan",
+                  "text": "A traditional Shiite Husseiniyah known for its festive decorations during religious holidays.",
+                  "category": "religious",
+                  "coords": [
+                        47.849479,
+                        30.504042
+                  ]
+            },
+            {
+                  "name": "Al Sahlany Mosque",
+                  "text": "This Muslim mosque in the city center is distinguished by its peaceful prayer atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        47.789975,
+                        30.507934
+                  ]
+            },
+            {
+                  "name": "CBOX",
+                  "text": "A lively marketplace housed in modern containers, offering local handicrafts and street food.",
+                  "category": "cultural",
+                  "coords": [
+                        47.827796,
+                        30.505414
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-BA",
     coords: [47.7835, 30.5081],
@@ -77,7 +851,988 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Iraq's second-largest city, with an urban population of 1.5 million.", "Established in 636 AD, it was a pivotal city in Islamic history.", "Produces over 80% of Iraq's oil, including the massive Rumaila field.", "Located on the Shatt al-Arab, 110 miles south of Baghdad.", "Nickname: 'Venice of the East' for its historic canal system.", "Home to the largest port in Iraq, Umm Qasr, critical for national trade.", "Center for Iraqi date production and high-quality date palm groves.", "Features the Basra International Stadium, a major sporting landmark."],
     }, image: "/poi-images/basra-cities-v2.webp"},
   {
-    id: "mosul-cities-v2",
+    id: "mosul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Egidat",
+                  "text": "Ein Denkmal in Mossul, das die kulturelle Identität und die wechselvolle Geschichte der Stadt widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        43.130257,
+                        36.33204
+                  ]
+            },
+            {
+                  "name": "Khaled Ebn Al- Waleed",
+                  "text": "Ein Denkmal für Khaled Ibn Al-Waleed in Mossul, das an eine bedeutende historische Persönlichkeit erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        43.131708,
+                        36.340292
+                  ]
+            },
+            {
+                  "name": "Department of Antiquities and Heritage Nineveh",
+                  "text": "Die Behörde für Altertümer in Ninive, die den Schutz und die Erforschung der antiken assyrischen Stätten leitet.",
+                  "category": "museum",
+                  "coords": [
+                        43.139008,
+                        36.337912
+                  ]
+            },
+            {
+                  "name": "um al maonna church",
+                  "text": "Die Um-al-Ma'onna-Kirche in Mossul, ein bedeutendes christliches Gotteshaus in der historischen Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.138238,
+                        36.334065
+                  ]
+            },
+            {
+                  "name": "Old Center",
+                  "text": "Das alte Zentrum von Mossul, geprägt durch seine engen Gassen und traditionellen Steinhäuser am Ufer des Tigris.",
+                  "category": "landmark",
+                  "coords": [
+                        43.134235,
+                        36.344352
+                  ]
+            },
+            {
+                  "name": "Miskenta church",
+                  "text": "Die Miskenta-Kirche, ein uraltes chaldäisches Gotteshaus im Herzen der Mossuler Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.134623,
+                        36.345366
+                  ]
+            },
+            {
+                  "name": "St. Miskenta Church",
+                  "text": "Eine historische syrisch-orthodoxe Kirche in Mossul, die über antiken Fundamenten aus dem 12. Jahrhundert errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        43.125618,
+                        36.338322
+                  ]
+            },
+            {
+                  "name": "Al Sa'a Church",
+                  "text": "Die Al-Sa'a-Kirche, auch Uhrenkirche genannt, berühmt für ihren markanten Glockenturm, ein Geschenk von Kaiserin Eugénie.",
+                  "category": "religious",
+                  "coords": [
+                        43.127299,
+                        36.340485
+                  ]
+            },
+            {
+                  "name": "Al-Saliheen mosque",
+                  "text": "Die Al-Saliheen-Moschee in Mossul, ein bedeutendes islamisches Gotteshaus im traditionellen Viertel der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.189473,
+                        36.305558
+                  ]
+            },
+            {
+                  "name": "Al-Hameed Mosque",
+                  "text": "Die Al-Hameed-Moschee in Mossul, eine Gebetsstätte für die lokale muslimische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        43.150884,
+                        36.325062
+                  ]
+            },
+            {
+                  "name": "Al Tawhed",
+                  "text": "Die Al-Tawhed-Moschee in Mossul, ein modernes religiöses Zentrum in einem der belebten Stadtteile.",
+                  "category": "landmark",
+                  "coords": [
+                        43.127837,
+                        36.319278
+                  ]
+            },
+            {
+                  "name": "Al-Hubayti Mosque",
+                  "text": "Die Al-Hubayti-Moschee, eine Stadtteilmoschee in Mossul, die als Treffpunkt für Gläubige dient.",
+                  "category": "religious",
+                  "coords": [
+                        43.132647,
+                        36.327917
+                  ]
+            },
+            {
+                  "name": "Ziouani Mosque",
+                  "text": "Die Ziouani-Moschee ist ein historisches osmanisches Gotteshaus in der Altstadt von Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.125591,
+                        36.336166
+                  ]
+            },
+            {
+                  "name": "Omar Al Aswed Mosque",
+                  "text": "Die Omar-Al-Aswed-Moschee ist ein traditionelles Gotteshaus im historischen Zentrum von Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.127631,
+                        36.338716
+                  ]
+            },
+            {
+                  "name": "Rabia Kathun Mosque",
+                  "text": "Die Rabia-Kathun-Moschee ist ein islamisches Gotteshaus im Viertel Bab al-Sht in Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.128565,
+                        36.339555
+                  ]
+            },
+            {
+                  "name": "Imam Awn Al Din shrine",
+                  "text": "Das aus dem 13. Jahrhundert stammende Imam-Awn-Al-Din-Heiligtum zeigt zangidische Ziegelkunst in Mossul.",
+                  "category": "religious",
+                  "coords": [
+                        43.131045,
+                        36.339098
+                  ]
+            },
+            {
+                  "name": "Shaikh Abdaal Mosque",
+                  "text": "Die Shaikh-Abdaal-Moschee ist eine historische religiöse Stätte in der Altstadt von Mossul.",
+                  "category": "religious",
+                  "coords": [
+                        43.134461,
+                        36.3428
+                  ]
+            },
+            {
+                  "name": "Alsabunchi mosque",
+                  "text": "Die Alsabunchi-Moschee ist ein aus Stein erbautes Gotteshaus in den historischen Vierteln von Mossul.",
+                  "category": "religious",
+                  "coords": [
+                        43.138242,
+                        36.340604
+                  ]
+            },
+            {
+                  "name": "Al-Khuder Shrine",
+                  "text": "Das Al-Khuder-Heiligtum ist eine historische Pilgerstätte am Ufer des Tigris in Mossul.",
+                  "category": "religious",
+                  "coords": [
+                        43.140239,
+                        36.340434
+                  ]
+            },
+            {
+                  "name": "Mosque Alogwat",
+                  "text": "Die Alogwat-Moschee ist ein traditionelles osmanisches Gotteshaus im Zentrum von Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.136539,
+                        36.344719
+                  ]
+            },
+            {
+                  "name": "El Basha mosque",
+                  "text": "Die El-Basha-Moschee ist ein osmanisches religiöses Gebäude aus dem 18. Jahrhundert im Herzen von Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.135831,
+                        36.343158
+                  ]
+            },
+            {
+                  "name": "El- Ashara El- Mobasharin Mosque",
+                  "text": "Die El-Ashara-El-Mobasharin-Moschee ist ein modernes islamisches Zentrum in der Stadt Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.110418,
+                        36.316717
+                  ]
+            },
+            {
+                  "name": "El- Haqq Mosque",
+                  "text": "Die El-Haqq-Moschee ist ein markantes lokales Gotteshaus in Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.113059,
+                        36.323048
+                  ]
+            },
+            {
+                  "name": "Jamee mosque annoor",
+                  "text": "Die Annoor-Moschee ist der Standort des ikonischen schiefen Minaretts aus dem 12. Jahrhundert in Mossul.",
+                  "category": "religious",
+                  "coords": [
+                        43.105083,
+                        36.307562
+                  ]
+            },
+            {
+                  "name": "Mosque Martyr Mazen",
+                  "text": "Die Martyr-Mazen-Moschee ist ein lokales Gotteshaus für die Gemeinschaft in Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.160537,
+                        36.335695
+                  ]
+            },
+            {
+                  "name": "Khalid ibn al-Walid Mosque",
+                  "text": "Die Khalid-ibn-al-Walid-Moschee ist ein großes religiöses Wahrzeichen in einem der Wohngebiete von Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.126079,
+                        36.325713
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Diese christliche Kirche dient als Gotteshaus für die historische religiöse Gemeinschaft von Mossul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.132041,
+                        36.343869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Egidat",
+                  "text": "Emlékmű Moszulban, amely a város kulturális identitását és mozgalmas történelmét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        43.130257,
+                        36.33204
+                  ]
+            },
+            {
+                  "name": "Khaled Ebn Al- Waleed",
+                  "text": "Khaled Ibn Al-Waleed emlékműve Moszulban, amely egy jelentős történelmi személyiségnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        43.131708,
+                        36.340292
+                  ]
+            },
+            {
+                  "name": "Department of Antiquities and Heritage Nineveh",
+                  "text": "Ninivei régészeti hivatal, amely az ókori asszír lelőhelyek védelmét és kutatását irányítja.",
+                  "category": "museum",
+                  "coords": [
+                        43.139008,
+                        36.337912
+                  ]
+            },
+            {
+                  "name": "um al maonna church",
+                  "text": "Um al-Ma'onna templom Moszulban, a történelmi óváros egyik jelentős keresztény kegyhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        43.138238,
+                        36.334065
+                  ]
+            },
+            {
+                  "name": "Old Center",
+                  "text": "Moszul régi központja, amelyet szűk utcák és a Tigris partján álló hagyományos kőházak jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        43.134235,
+                        36.344352
+                  ]
+            },
+            {
+                  "name": "Miskenta church",
+                  "text": "Miskenta-templom, egy ősi káld kegyhely Moszul óvárosának szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.134623,
+                        36.345366
+                  ]
+            },
+            {
+                  "name": "St. Miskenta Church",
+                  "text": "Történelmi szír ortodox templom Moszulban, amely 12. századi ősi alapokra épült.",
+                  "category": "religious",
+                  "coords": [
+                        43.125618,
+                        36.338322
+                  ]
+            },
+            {
+                  "name": "Al Sa'a Church",
+                  "text": "Al-Sa'a templom, más néven az Órás templom, amely Eugénia császárné ajándékaként kapott óratornyáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        43.127299,
+                        36.340485
+                  ]
+            },
+            {
+                  "name": "Al-Saliheen mosque",
+                  "text": "Az Al-Saliheen mecset Moszulban, a város hagyományos negyedének egyik jelentős iszlám kegyhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        43.189473,
+                        36.305558
+                  ]
+            },
+            {
+                  "name": "Al-Hameed Mosque",
+                  "text": "Al-Hameed mecset Moszulban, a helyi muszlim közösség imahelye.",
+                  "category": "landmark",
+                  "coords": [
+                        43.150884,
+                        36.325062
+                  ]
+            },
+            {
+                  "name": "Al Tawhed",
+                  "text": "Al-Tawhed mecset Moszulban, egy modern vallási központ a város egyik forgalmas negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.127837,
+                        36.319278
+                  ]
+            },
+            {
+                  "name": "Al-Hubayti Mosque",
+                  "text": "Al-Hubayti mecset, egy környékbeli mecset Moszulban, amely a hívők gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        43.132647,
+                        36.327917
+                  ]
+            },
+            {
+                  "name": "Ziouani Mosque",
+                  "text": "A Ziouani-mecset egy történelmi oszmán kori imaház Moszul óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.125591,
+                        36.336166
+                  ]
+            },
+            {
+                  "name": "Omar Al Aswed Mosque",
+                  "text": "Az Omar Al Aswed-mecset egy hagyományos közösségi mecset Moszul történelmi központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.127631,
+                        36.338716
+                  ]
+            },
+            {
+                  "name": "Rabia Kathun Mosque",
+                  "text": "A Rabia Kathun-mecset egy iszlám imaház Moszul Bab al-Sht negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.128565,
+                        36.339555
+                  ]
+            },
+            {
+                  "name": "Imam Awn Al Din shrine",
+                  "text": "A 13. századi Imam Awn Al Din szentély a zangida-kori téglaépítészetet mutatja be Moszulban.",
+                  "category": "religious",
+                  "coords": [
+                        43.131045,
+                        36.339098
+                  ]
+            },
+            {
+                  "name": "Shaikh Abdaal Mosque",
+                  "text": "A Shaikh Abdaal-mecset egy történelmi vallási helyszín Moszul óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        43.134461,
+                        36.3428
+                  ]
+            },
+            {
+                  "name": "Alsabunchi mosque",
+                  "text": "Az Alsabunchi-mecset egy kőből épült imaház Moszul történelmi negyedeiben.",
+                  "category": "religious",
+                  "coords": [
+                        43.138242,
+                        36.340604
+                  ]
+            },
+            {
+                  "name": "Al-Khuder Shrine",
+                  "text": "Az Al-Khuder-szentély egy történelmi vízparti kegyhely a Tigris folyó mentén Moszulban.",
+                  "category": "religious",
+                  "coords": [
+                        43.140239,
+                        36.340434
+                  ]
+            },
+            {
+                  "name": "Mosque Alogwat",
+                  "text": "Az Alogwat-mecset egy hagyományos oszmán stílusú imaház Moszul központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.136539,
+                        36.344719
+                  ]
+            },
+            {
+                  "name": "El Basha mosque",
+                  "text": "Az El Basha-mecset egy 18. századi oszmán vallási épület Moszul szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.135831,
+                        36.343158
+                  ]
+            },
+            {
+                  "name": "El- Ashara El- Mobasharin Mosque",
+                  "text": "Az El-Ashara El-Mobasharin-mecset egy modern iszlám központ Moszul városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.110418,
+                        36.316717
+                  ]
+            },
+            {
+                  "name": "El- Haqq Mosque",
+                  "text": "Az El-Haqq-mecset egy jelentős helyi imaház Moszulban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.113059,
+                        36.323048
+                  ]
+            },
+            {
+                  "name": "Jamee mosque annoor",
+                  "text": "Az Annoor-mecset a híres, 12. századi ferde minaret helyszíne Moszulban.",
+                  "category": "religious",
+                  "coords": [
+                        43.105083,
+                        36.307562
+                  ]
+            },
+            {
+                  "name": "Mosque Martyr Mazen",
+                  "text": "A Mártír Mazen-mecset egy helyi közösségi imaház Moszulban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.160537,
+                        36.335695
+                  ]
+            },
+            {
+                  "name": "Khalid ibn al-Walid Mosque",
+                  "text": "A Khalid ibn al-Walid-mecset egy nagy vallási jelkép Moszul egyik lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.126079,
+                        36.325713
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Ez a keresztény templom Moszul történelmi vallási közösségének imaházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        43.132041,
+                        36.343869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Egidat",
+                  "text": "Un monument în Mosul, care reflectă identitatea culturală și istoria zbuciumată a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        43.130257,
+                        36.33204
+                  ]
+            },
+            {
+                  "name": "Khaled Ebn Al- Waleed",
+                  "text": "Un monument dedicat lui Khaled Ibn Al-Waleed în Mosul, comemorând o figură istorică importantă.",
+                  "category": "historical",
+                  "coords": [
+                        43.131708,
+                        36.340292
+                  ]
+            },
+            {
+                  "name": "Department of Antiquities and Heritage Nineveh",
+                  "text": "Departamentul de Antichități din Ninive, care coordonează protecția și cercetarea siturilor asiriene antice.",
+                  "category": "museum",
+                  "coords": [
+                        43.139008,
+                        36.337912
+                  ]
+            },
+            {
+                  "name": "um al maonna church",
+                  "text": "Biserica Um al-Ma'onna din Mosul, un lăcaș de cult creștin important în centrul istoric al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        43.138238,
+                        36.334065
+                  ]
+            },
+            {
+                  "name": "Old Center",
+                  "text": "Centrul vechi al orașului Mosul, caracterizat prin străduțe înguste și case tradiționale de piatră pe malul Tigrului.",
+                  "category": "landmark",
+                  "coords": [
+                        43.134235,
+                        36.344352
+                  ]
+            },
+            {
+                  "name": "Miskenta church",
+                  "text": "Biserica Miskenta, un lăcaș de cult caldeean străvechi în inima centrului vechi din Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.134623,
+                        36.345366
+                  ]
+            },
+            {
+                  "name": "St. Miskenta Church",
+                  "text": "O biserică ortodoxă siriacă istorică din Mosul, construită pe fundații antice din secolul al XII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        43.125618,
+                        36.338322
+                  ]
+            },
+            {
+                  "name": "Al Sa'a Church",
+                  "text": "Biserica Al-Sa'a, cunoscută și sub numele de Biserica Ceasului, faimoasă pentru turnul său cu ceas dăruit de împărăteasa Eugénie.",
+                  "category": "religious",
+                  "coords": [
+                        43.127299,
+                        36.340485
+                  ]
+            },
+            {
+                  "name": "Al-Saliheen mosque",
+                  "text": "Moscheea Al-Saliheen din Mosul, un lăcaș de cult islamic important în cartierul tradițional al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        43.189473,
+                        36.305558
+                  ]
+            },
+            {
+                  "name": "Al-Hameed Mosque",
+                  "text": "Moscheea Al-Hameed din Mosul, un loc de rugăciune pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        43.150884,
+                        36.325062
+                  ]
+            },
+            {
+                  "name": "Al Tawhed",
+                  "text": "Moscheea Al-Tawhed din Mosul, un centru religios modern într-unul dintre cartierele aglomerate ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        43.127837,
+                        36.319278
+                  ]
+            },
+            {
+                  "name": "Al-Hubayti Mosque",
+                  "text": "Moscheea Al-Hubayti, o moschee de cartier în Mosul, care servește ca loc de întâlnire pentru credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        43.132647,
+                        36.327917
+                  ]
+            },
+            {
+                  "name": "Ziouani Mosque",
+                  "text": "Moscheea Ziouani este un lăcaș de cult istoric din epoca otomană, situat în orașul vechi din Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.125591,
+                        36.336166
+                  ]
+            },
+            {
+                  "name": "Omar Al Aswed Mosque",
+                  "text": "Moscheea Omar Al Aswed este un lăcaș de cult tradițional din centrul istoric al orașului Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.127631,
+                        36.338716
+                  ]
+            },
+            {
+                  "name": "Rabia Kathun Mosque",
+                  "text": "Moscheea Rabia Kathun este un lăcaș de cult islamic situat în zona Bab al-Sht din Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.128565,
+                        36.339555
+                  ]
+            },
+            {
+                  "name": "Imam Awn Al Din shrine",
+                  "text": "Sanctuarul Imam Awn Al Din din secolul al XIII-lea prezintă arhitectura din cărămidă din epoca zangidă în Mosul.",
+                  "category": "religious",
+                  "coords": [
+                        43.131045,
+                        36.339098
+                  ]
+            },
+            {
+                  "name": "Shaikh Abdaal Mosque",
+                  "text": "Moscheea Shaikh Abdaal este un sit religios istoric situat în orașul vechi din Mosul.",
+                  "category": "religious",
+                  "coords": [
+                        43.134461,
+                        36.3428
+                  ]
+            },
+            {
+                  "name": "Alsabunchi mosque",
+                  "text": "Moscheea Alsabunchi este un lăcaș de cult construit din piatră în cartierele istorice din Mosul.",
+                  "category": "religious",
+                  "coords": [
+                        43.138242,
+                        36.340604
+                  ]
+            },
+            {
+                  "name": "Al-Khuder Shrine",
+                  "text": "Sanctuarul Al-Khuder este un așezământ istoric de pe malul râului Tigru în Mosul.",
+                  "category": "religious",
+                  "coords": [
+                        43.140239,
+                        36.340434
+                  ]
+            },
+            {
+                  "name": "Mosque Alogwat",
+                  "text": "Moscheea Alogwat este un lăcaș de cult tradițional în stil otoman din centrul orașului Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.136539,
+                        36.344719
+                  ]
+            },
+            {
+                  "name": "El Basha mosque",
+                  "text": "Moscheea El Basha este o clădire religioasă otomană din secolul al XVIII-lea, aflată în inima orașului Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.135831,
+                        36.343158
+                  ]
+            },
+            {
+                  "name": "El- Ashara El- Mobasharin Mosque",
+                  "text": "Moscheea El-Ashara El-Mobasharin este un centru islamic modern din orașul Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.110418,
+                        36.316717
+                  ]
+            },
+            {
+                  "name": "El- Haqq Mosque",
+                  "text": "Moscheea El-Haqq este un lăcaș de cult proeminent din orașul Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.113059,
+                        36.323048
+                  ]
+            },
+            {
+                  "name": "Jamee mosque annoor",
+                  "text": "Moscheea Annoor este locul unde se află emblematicul minaret înclinat din secolul al XII-lea din Mosul.",
+                  "category": "religious",
+                  "coords": [
+                        43.105083,
+                        36.307562
+                  ]
+            },
+            {
+                  "name": "Mosque Martyr Mazen",
+                  "text": "Moscheea Martirul Mazen este un lăcaș de cult pentru comunitatea locală din Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.160537,
+                        36.335695
+                  ]
+            },
+            {
+                  "name": "Khalid ibn al-Walid Mosque",
+                  "text": "Moscheea Khalid ibn al-Walid este un reper religios de dimensiuni mari într-una dintre zonele rezidențiale din Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.126079,
+                        36.325713
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Această biserică creștină servește ca lăcaș de cult pentru comunitatea religioasă istorică din Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.132041,
+                        36.343869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Egidat",
+                  "text": "A monument in Mosul reflecting the city's cultural identity and diverse history.",
+                  "category": "historical",
+                  "coords": [
+                        43.130257,
+                        36.33204
+                  ]
+            },
+            {
+                  "name": "Khaled Ebn Al- Waleed",
+                  "text": "A monument dedicated to Khaled Ibn Al-Waleed in Mosul, commemorating a significant historical figure.",
+                  "category": "historical",
+                  "coords": [
+                        43.131708,
+                        36.340292
+                  ]
+            },
+            {
+                  "name": "Department of Antiquities and Heritage Nineveh",
+                  "text": "The Nineveh Antiquities Department, managing the protection and research of ancient Assyrian sites.",
+                  "category": "museum",
+                  "coords": [
+                        43.139008,
+                        36.337912
+                  ]
+            },
+            {
+                  "name": "um al maonna church",
+                  "text": "The Um al-Ma'onna Church in Mosul, a significant Christian place of worship in the historic old city.",
+                  "category": "landmark",
+                  "coords": [
+                        43.138238,
+                        36.334065
+                  ]
+            },
+            {
+                  "name": "Old Center",
+                  "text": "The old center of Mosul, characterized by narrow alleys and traditional stone houses along the Tigris river.",
+                  "category": "landmark",
+                  "coords": [
+                        43.134235,
+                        36.344352
+                  ]
+            },
+            {
+                  "name": "Miskenta church",
+                  "text": "The Miskenta Church, an ancient Chaldean place of worship in the heart of Mosul's old city.",
+                  "category": "landmark",
+                  "coords": [
+                        43.134623,
+                        36.345366
+                  ]
+            },
+            {
+                  "name": "St. Miskenta Church",
+                  "text": "A historic Syriac Orthodox church in Mosul, built over ancient 12th-century foundations.",
+                  "category": "religious",
+                  "coords": [
+                        43.125618,
+                        36.338322
+                  ]
+            },
+            {
+                  "name": "Al Sa'a Church",
+                  "text": "The Al-Sa'a Church, known as the Clock Church, famous for its landmark tower donated by Empress Eugénie.",
+                  "category": "religious",
+                  "coords": [
+                        43.127299,
+                        36.340485
+                  ]
+            },
+            {
+                  "name": "Al-Saliheen mosque",
+                  "text": "The Al-Saliheen Mosque in Mosul, a significant Islamic place of worship in the city's traditional district.",
+                  "category": "landmark",
+                  "coords": [
+                        43.189473,
+                        36.305558
+                  ]
+            },
+            {
+                  "name": "Al-Hameed Mosque",
+                  "text": "The Al-Hameed Mosque in Mosul, a place of prayer for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        43.150884,
+                        36.325062
+                  ]
+            },
+            {
+                  "name": "Al Tawhed",
+                  "text": "The Al-Tawhed Mosque in Mosul, a modern religious center located in one of the city's busy districts.",
+                  "category": "landmark",
+                  "coords": [
+                        43.127837,
+                        36.319278
+                  ]
+            },
+            {
+                  "name": "Al-Hubayti Mosque",
+                  "text": "The Al-Hubayti Mosque, a community mosque in Mosul serving as a gathering place for worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        43.132647,
+                        36.327917
+                  ]
+            },
+            {
+                  "name": "Ziouani Mosque",
+                  "text": "Ziouani Mosque is a historic Ottoman-era house of worship located in Mosul's Old City.",
+                  "category": "landmark",
+                  "coords": [
+                        43.125591,
+                        36.336166
+                  ]
+            },
+            {
+                  "name": "Omar Al Aswed Mosque",
+                  "text": "Omar Al Aswed Mosque is a traditional neighborhood mosque in the historic center of Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.127631,
+                        36.338716
+                  ]
+            },
+            {
+                  "name": "Rabia Kathun Mosque",
+                  "text": "Rabia Kathun Mosque is an Islamic place of worship located in the Bab al-Sht area of Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.128565,
+                        36.339555
+                  ]
+            },
+            {
+                  "name": "Imam Awn Al Din shrine",
+                  "text": "The 13th-century Imam Awn Al Din shrine showcases Zangid-era brickwork in Mosul.",
+                  "category": "religious",
+                  "coords": [
+                        43.131045,
+                        36.339098
+                  ]
+            },
+            {
+                  "name": "Shaikh Abdaal Mosque",
+                  "text": "Shaikh Abdaal Mosque is a historic religious site situated in the Old City of Mosul.",
+                  "category": "religious",
+                  "coords": [
+                        43.134461,
+                        36.3428
+                  ]
+            },
+            {
+                  "name": "Alsabunchi mosque",
+                  "text": "Alsabunchi Mosque is a stone-built house of worship in Mosul's historic districts.",
+                  "category": "religious",
+                  "coords": [
+                        43.138242,
+                        36.340604
+                  ]
+            },
+            {
+                  "name": "Al-Khuder Shrine",
+                  "text": "Al-Khuder Shrine is a historic riverside sanctuary overlooking the Tigris in Mosul.",
+                  "category": "religious",
+                  "coords": [
+                        43.140239,
+                        36.340434
+                  ]
+            },
+            {
+                  "name": "Mosque Alogwat",
+                  "text": "Mosque Alogwat is a traditional Ottoman-style place of worship in central Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.136539,
+                        36.344719
+                  ]
+            },
+            {
+                  "name": "El Basha mosque",
+                  "text": "El Basha Mosque is an 18th-century Ottoman religious building in the heart of Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.135831,
+                        36.343158
+                  ]
+            },
+            {
+                  "name": "El- Ashara El- Mobasharin Mosque",
+                  "text": "El-Ashara El-Mobasharin Mosque is a contemporary Islamic center in the city of Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.110418,
+                        36.316717
+                  ]
+            },
+            {
+                  "name": "El- Haqq Mosque",
+                  "text": "El-Haqq Mosque is a prominent neighborhood house of worship in Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.113059,
+                        36.323048
+                  ]
+            },
+            {
+                  "name": "Jamee mosque annoor",
+                  "text": "Jamee Mosque Annoor is the site of the iconic 12th-century leaning minaret in Mosul.",
+                  "category": "religious",
+                  "coords": [
+                        43.105083,
+                        36.307562
+                  ]
+            },
+            {
+                  "name": "Mosque Martyr Mazen",
+                  "text": "Mosque Martyr Mazen is a local community place of worship in Mosul.",
+                  "category": "landmark",
+                  "coords": [
+                        43.160537,
+                        36.335695
+                  ]
+            },
+            {
+                  "name": "Khalid ibn al-Walid Mosque",
+                  "text": "Khalid ibn al-Walid Mosque is a large religious landmark in one of Mosul's residential areas.",
+                  "category": "landmark",
+                  "coords": [
+                        43.126079,
+                        36.325713
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "This Christian church serves as a place of worship for Mosul's historic religious community.",
+                  "category": "landmark",
+                  "coords": [
+                        43.132041,
+                        36.343869
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-NI",
     coords: [43.13, 36.34],
@@ -114,7 +1869,556 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["The second-largest city in Iraq and capital of Nineveh Governorate.", "Located on the Tigris River, adjacent to the ruins of ancient Nineveh.", "The historic Al-Nuri Mosque was originally built in the 12th century.", "Known as the birthplace of muslin fabric, a major trade item for centuries.", "Site of the 'Revive the Spirit of Mosul' international heritage project.", "Connected by five main bridges across the Tigris River.", "The University of Mosul is one of the nation's largest academic centers.", "Liberated in July 2017 after a major international military operation."],
     }, image: "/poi-images/mosul-cities-v2.webp"},
   {
-    id: "erbil-cities-v2",
+    id: "erbil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Assyrian Tomb",
+                  "text": "Das assyrische Grab ist eine antike archäologische Stätte aus der vorislamischen Geschichte von Erbil.",
+                  "category": "historical",
+                  "coords": [
+                        44.003764,
+                        36.19366
+                  ]
+            },
+            {
+                  "name": "Kotri Salam",
+                  "text": "Kotri Salam ist ein markantes Friedenstauben-Monument auf einem zentralen Platz in Erbil.",
+                  "category": "historical",
+                  "coords": [
+                        44.008296,
+                        36.187343
+                  ]
+            },
+            {
+                  "name": "Qaysari Bazaar",
+                  "text": "Der Qaysari-Basar ist ein historischer überdachter Markt mit labyrinthartigen Gassen neben der Zitadelle von Erbil.",
+                  "category": "cultural",
+                  "coords": [
+                        44.009125,
+                        36.188429
+                  ]
+            },
+            {
+                  "name": "Erbil stones and gem stones museum",
+                  "text": "Das Museum für Steine und Edelsteine von Erbil zeigt eine umfangreiche Mineraliensammlung in der Zitadelle.",
+                  "category": "museum",
+                  "coords": [
+                        44.009377,
+                        36.190254
+                  ]
+            },
+            {
+                  "name": "Zitadelle von Erbil",
+                  "text": "Die Zitadelle von Erbil ist ein UNESCO-gelisteter antiker befestigter Hügel, der seit Jahrtausenden bewohnt wird.",
+                  "category": "castle",
+                  "coords": [
+                        44.009369,
+                        36.191325
+                  ]
+            },
+            {
+                  "name": "Haydar Agha Mosque",
+                  "text": "Eine muslimische Gebetsstätte für die Anwohner im Viertel von Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.002932,
+                        36.202336
+                  ]
+            },
+            {
+                  "name": "Abdullah Sahaty Mosque",
+                  "text": "Eine schlichte Stadtteilmoschee in Erbil, die als religiöser Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00513,
+                        36.201466
+                  ]
+            },
+            {
+                  "name": "Haji Abdullah Mosque",
+                  "text": "Eine lokale muslimische Gebetsstätte im Herzen des Stadtbezirks Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00461,
+                        36.198347
+                  ]
+            },
+            {
+                  "name": "Said Bahaadin Mosque",
+                  "text": "Eine Gemeindemoschee in Erbil, die der lokalen muslimischen Bevölkerung offensteht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.001815,
+                        36.196572
+                  ]
+            },
+            {
+                  "name": "Mahmood Halaf Mosque",
+                  "text": "Ein lokaler Ort der Anbetung für die muslimische Gemeinschaft in Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00539,
+                        36.19284
+                  ]
+            },
+            {
+                  "name": "Qibla Rast Mosque",
+                  "text": "Eine Moschee in Erbil, deren Name auf die Gebetsrichtung nach Mekka verweist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.005953,
+                        36.190793
+                  ]
+            },
+            {
+                  "name": "Derabrusha Mosque",
+                  "text": "Diese historische Moschee in Erbil wurde im Jahr 1847 gegründet.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00649,
+                        36.188181
+                  ]
+            },
+            {
+                  "name": "Mufti Mosque",
+                  "text": "Eine traditionelle muslimische Gebetsstätte im Stadtgebiet von Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.007489,
+                        36.18628
+                  ]
+            },
+            {
+                  "name": "Shekh Arf Barznji Mosque",
+                  "text": "Eine lokale Moschee in Erbil, die mit der einflussreichen Barznji-Familie verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00733,
+                        36.189237
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine schlichte Moschee für das tägliche Gebet in einem Wohngebiet von Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.007485,
+                        36.194405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Assyrian Tomb",
+                  "text": "Az asszír sír egy ősi régészeti lelőhely Erbil iszlám előtti történelméből.",
+                  "category": "historical",
+                  "coords": [
+                        44.003764,
+                        36.19366
+                  ]
+            },
+            {
+                  "name": "Kotri Salam",
+                  "text": "A Kotri Salam egy jellegzetes békegalamb-emlékmű Erbil egyik központi terén.",
+                  "category": "historical",
+                  "coords": [
+                        44.008296,
+                        36.187343
+                  ]
+            },
+            {
+                  "name": "Qaysari Bazaar",
+                  "text": "A Qaysari-bazár egy történelmi fedett piac labirintusszerű utcákkal az erbili citadella mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        44.009125,
+                        36.188429
+                  ]
+            },
+            {
+                  "name": "Erbil stones and gem stones museum",
+                  "text": "Az erbili kövek és drágakövek múzeuma ásványok hatalmas gyűjteményét mutatja be a citadellában.",
+                  "category": "museum",
+                  "coords": [
+                        44.009377,
+                        36.190254
+                  ]
+            },
+            {
+                  "name": "Citadel of Erbil",
+                  "text": "Az erbili citadella egy UNESCO-listás ősi erődített domb, amely évezredek óta lakott.",
+                  "category": "castle",
+                  "coords": [
+                        44.009369,
+                        36.191325
+                  ]
+            },
+            {
+                  "name": "Haydar Agha Mosque",
+                  "text": "Muszlim imaház Erbil negyedének lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.002932,
+                        36.202336
+                  ]
+            },
+            {
+                  "name": "Abdullah Sahaty Mosque",
+                  "text": "Egyszerű városnegyedi mecset Erbilben, amely vallási találkozóhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00513,
+                        36.201466
+                  ]
+            },
+            {
+                  "name": "Haji Abdullah Mosque",
+                  "text": "Helyi muszlim imaház Erbil városrészének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00461,
+                        36.198347
+                  ]
+            },
+            {
+                  "name": "Said Bahaadin Mosque",
+                  "text": "Közösségi mecset Erbilben, amely nyitva áll a helyi muszlim lakosság előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.001815,
+                        36.196572
+                  ]
+            },
+            {
+                  "name": "Mahmood Halaf Mosque",
+                  "text": "Helyi imaház Erbil muszlim közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00539,
+                        36.19284
+                  ]
+            },
+            {
+                  "name": "Qibla Rast Mosque",
+                  "text": "Erbili mecset, amelynek neve a Mekka felé néző imairányra utal.",
+                  "category": "landmark",
+                  "coords": [
+                        44.005953,
+                        36.190793
+                  ]
+            },
+            {
+                  "name": "Derabrusha Mosque",
+                  "text": "Ezt a történelmi erbili mecsetet 1847-ben alapították.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00649,
+                        36.188181
+                  ]
+            },
+            {
+                  "name": "Mufti Mosque",
+                  "text": "Hagyományos muszlim imaház Erbil városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.007489,
+                        36.18628
+                  ]
+            },
+            {
+                  "name": "Shekh Arf Barznji Mosque",
+                  "text": "Helyi mecset Erbilben, amely a befolyásos Barznji családdal áll kapcsolatban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00733,
+                        36.189237
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Egyszerű mecset a napi imádságokhoz Erbil egyik lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.007485,
+                        36.194405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Assyrian Tomb",
+                  "text": "Mormântul asirian este un sit arheologic antic care datează din istoria pre-islamică a orașului Erbil.",
+                  "category": "historical",
+                  "coords": [
+                        44.003764,
+                        36.19366
+                  ]
+            },
+            {
+                  "name": "Kotri Salam",
+                  "text": "Kotri Salam este un monument proeminent cu porumbelul păcii, situat într-o piață centrală din Erbil.",
+                  "category": "historical",
+                  "coords": [
+                        44.008296,
+                        36.187343
+                  ]
+            },
+            {
+                  "name": "Qaysari Bazaar",
+                  "text": "Bazarul Qaysari este o piață acoperită istorică, cu alei labirintice, situată lângă Citadela din Erbil.",
+                  "category": "cultural",
+                  "coords": [
+                        44.009125,
+                        36.188429
+                  ]
+            },
+            {
+                  "name": "Erbil stones and gem stones museum",
+                  "text": "Muzeul de Pietre și Pietre Prețioase din Erbil expune o colecție vastă de minerale în interiorul Citadelei.",
+                  "category": "museum",
+                  "coords": [
+                        44.009377,
+                        36.190254
+                  ]
+            },
+            {
+                  "name": "Citadel of Erbil",
+                  "text": "Citadela din Erbil este un vechi monticul fortificat înscris în patrimoniul UNESCO, locuit de mii de ani.",
+                  "category": "castle",
+                  "coords": [
+                        44.009369,
+                        36.191325
+                  ]
+            },
+            {
+                  "name": "Haydar Agha Mosque",
+                  "text": "Un lăcaș de cult musulman pentru rezidenții din cartierul Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.002932,
+                        36.202336
+                  ]
+            },
+            {
+                  "name": "Abdullah Sahaty Mosque",
+                  "text": "O moschee simplă de cartier din Erbil, care servește ca loc de întâlnire religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00513,
+                        36.201466
+                  ]
+            },
+            {
+                  "name": "Haji Abdullah Mosque",
+                  "text": "Un lăcaș de cult musulman local în inima districtului Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00461,
+                        36.198347
+                  ]
+            },
+            {
+                  "name": "Said Bahaadin Mosque",
+                  "text": "O moschee comunitară din Erbil, deschisă populației musulmane locale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.001815,
+                        36.196572
+                  ]
+            },
+            {
+                  "name": "Mahmood Halaf Mosque",
+                  "text": "Un lăcaș de cult local pentru comunitatea musulmană din Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00539,
+                        36.19284
+                  ]
+            },
+            {
+                  "name": "Qibla Rast Mosque",
+                  "text": "O moschee din Erbil al cărei nume face referire la direcția de rugăciune către Mecca.",
+                  "category": "landmark",
+                  "coords": [
+                        44.005953,
+                        36.190793
+                  ]
+            },
+            {
+                  "name": "Derabrusha Mosque",
+                  "text": "Această moschee istorică din Erbil a fost fondată în anul 1847.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00649,
+                        36.188181
+                  ]
+            },
+            {
+                  "name": "Mufti Mosque",
+                  "text": "Un lăcaș de cult musulman tradițional în zona urbană a orașului Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.007489,
+                        36.18628
+                  ]
+            },
+            {
+                  "name": "Shekh Arf Barznji Mosque",
+                  "text": "O moschee locală din Erbil, legată de influenta familie Barznji.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00733,
+                        36.189237
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "O moschee simplă pentru rugăciunea zilnică într-o zonă rezidențială din Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.007485,
+                        36.194405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Assyrian Tomb",
+                  "text": "The Assyrian Tomb is an ancient archaeological site dating back to Erbil's pre-Islamic history.",
+                  "category": "historical",
+                  "coords": [
+                        44.003764,
+                        36.19366
+                  ]
+            },
+            {
+                  "name": "Kotri Salam",
+                  "text": "Kotri Salam is a prominent 'Peace Dove' monument located in a central Erbil square.",
+                  "category": "historical",
+                  "coords": [
+                        44.008296,
+                        36.187343
+                  ]
+            },
+            {
+                  "name": "Qaysari Bazaar",
+                  "text": "Qaysari Bazaar is a historic covered market with labyrinthine alleys next to the Erbil Citadel.",
+                  "category": "cultural",
+                  "coords": [
+                        44.009125,
+                        36.188429
+                  ]
+            },
+            {
+                  "name": "Erbil stones and gem stones museum",
+                  "text": "Erbil Stones and Gem Stones Museum displays a vast collection of minerals inside the Citadel.",
+                  "category": "museum",
+                  "coords": [
+                        44.009377,
+                        36.190254
+                  ]
+            },
+            {
+                  "name": "Citadel of Erbil",
+                  "text": "The Erbil Citadel is a UNESCO-listed ancient fortified mound inhabited for thousands of years.",
+                  "category": "castle",
+                  "coords": [
+                        44.009369,
+                        36.191325
+                  ]
+            },
+            {
+                  "name": "Haydar Agha Mosque",
+                  "text": "A Muslim place of worship serving the residents in the Erbil neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        44.002932,
+                        36.202336
+                  ]
+            },
+            {
+                  "name": "Abdullah Sahaty Mosque",
+                  "text": "A simple neighborhood mosque in Erbil serving as a religious community hub.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00513,
+                        36.201466
+                  ]
+            },
+            {
+                  "name": "Haji Abdullah Mosque",
+                  "text": "A local Muslim place of worship situated in the heart of the Erbil district.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00461,
+                        36.198347
+                  ]
+            },
+            {
+                  "name": "Said Bahaadin Mosque",
+                  "text": "A community mosque in Erbil open to the local Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        44.001815,
+                        36.196572
+                  ]
+            },
+            {
+                  "name": "Mahmood Halaf Mosque",
+                  "text": "A local place of worship for the Muslim community in Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00539,
+                        36.19284
+                  ]
+            },
+            {
+                  "name": "Qibla Rast Mosque",
+                  "text": "An Erbil mosque whose name refers to the direction of prayer towards Mecca.",
+                  "category": "landmark",
+                  "coords": [
+                        44.005953,
+                        36.190793
+                  ]
+            },
+            {
+                  "name": "Derabrusha Mosque",
+                  "text": "This historic mosque in Erbil dates back to its foundation in 1847.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00649,
+                        36.188181
+                  ]
+            },
+            {
+                  "name": "Mufti Mosque",
+                  "text": "A traditional Muslim place of worship located within the Erbil urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.007489,
+                        36.18628
+                  ]
+            },
+            {
+                  "name": "Shekh Arf Barznji Mosque",
+                  "text": "A local mosque in Erbil associated with the influential Barznji family.",
+                  "category": "landmark",
+                  "coords": [
+                        44.00733,
+                        36.189237
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A simple mosque for daily prayer located in a residential area of Erbil.",
+                  "category": "landmark",
+                  "coords": [
+                        44.007485,
+                        36.194405
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-AR",
     coords: [44.0092, 36.1911],
@@ -151,7 +2455,1276 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Erbil Citadel is considered the world's oldest continuously inhabited town.", "The city is located in a fertile plain between the Greater and Lesser Zab rivers.", "Erbil International Airport (EBL) is the primary gateway to the region.", "Home to the Minaret Park, featuring the 12th-century Mudhafaria Minaret.", "The 100m Road is a major arterial highway surrounding the city center.", "Hosts the Erbil International Fair, attracting thousands of companies annually.", "The population is predominantly Kurdish with Arab and Turkmen minorities.", "The city's elevation is approximately 390 meters above sea level."],
     }, image: "/poi-images/erbil-cities-v2.webp"},
   {
-    id: "sulaymaniyah-cities-v2",
+    id: "sulaymaniyah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kunara",
+                  "text": "Diese bedeutende archäologische Stätte aus der Bronzezeit am Tanjaro-Fluss wurde erst 2012 entdeckt.",
+                  "category": "historical",
+                  "coords": [
+                        45.359913,
+                        35.51924
+                  ]
+            },
+            {
+                  "name": "fulkay sarwxaka",
+                  "text": "Ein markantes Bauwerk in Form einer Burg, das als Orientierungspunkt im Stadtgefüge dient.",
+                  "category": "castle",
+                  "coords": [
+                        45.450696,
+                        35.559866
+                  ]
+            },
+            {
+                  "name": "Sheikh Hasani Gala Zarda Mosque",
+                  "text": "Ein Museum, das in einem historischen Gebäude untergebracht ist und Einblicke in die religiöse Kultur gibt.",
+                  "category": "museum",
+                  "coords": [
+                        45.44741,
+                        35.546267
+                  ]
+            },
+            {
+                  "name": "Fulkay Asoi dalak",
+                  "text": "Ein turmartiges Bauwerk, das durch seine festungsähnliche Architektur im Stadtbild auffällt.",
+                  "category": "castle",
+                  "coords": [
+                        45.444308,
+                        35.551251
+                  ]
+            },
+            {
+                  "name": "Zamwa Gallery",
+                  "text": "Diese Galerie präsentiert zeitgenössische Kunstwerke lokaler kurdischer Künstler in modernem Ambiente.",
+                  "category": "museum",
+                  "coords": [
+                        45.441496,
+                        35.555823
+                  ]
+            },
+            {
+                  "name": "fulkay Askakan",
+                  "text": "Eine architektonisch interessante Konstruktion, die an eine traditionelle Festung erinnert.",
+                  "category": "castle",
+                  "coords": [
+                        45.436912,
+                        35.561056
+                  ]
+            },
+            {
+                  "name": "Sulaimaniyya-Museum",
+                  "text": "Das zweitgrößte Museum des Irak beherbergt eine beeindruckende Sammlung kurdischer und mesopotamischer Altertümer.",
+                  "category": "museum",
+                  "coords": [
+                        45.425713,
+                        35.557398
+                  ]
+            },
+            {
+                  "name": "Kurds' Heritage Museum",
+                  "text": "Ein Museum, das sich der Bewahrung und Ausstellung der reichen kurdischen Kultur und Traditionen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        45.440272,
+                        35.556281
+                  ]
+            },
+            {
+                  "name": "sandikay krekaran",
+                  "text": "Dieser muslimische Gebetsraum bietet Gläubigen einen ruhigen Ort für die tägliche Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        45.444583,
+                        35.562642
+                  ]
+            },
+            {
+                  "name": "Ebrahim prophet mosque",
+                  "text": "Eine dem Propheten Ibrahim gewidmete muslimische Moschee, die als spiritueller Treffpunkt dient.",
+                  "category": "religious",
+                  "coords": [
+                        45.408868,
+                        35.557524
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Diese Moschee ist ein zentraler Ort für muslimische Zeremonien und Gebete im Stadtviertel.",
+                  "category": "religious",
+                  "coords": [
+                        45.450633,
+                        35.535332
+                  ]
+            },
+            {
+                  "name": "Shahid Mohammed Mosque",
+                  "text": "Eine muslimische Moschee, die für ihre schlichte Gestaltung und die familiäre Atmosphäre bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        45.457585,
+                        35.546863
+                  ]
+            },
+            {
+                  "name": "Padasht Mosque",
+                  "text": "Dieses muslimische Gotteshaus ist ein wichtiger Bestandteil des täglichen Gemeindelebens.",
+                  "category": "religious",
+                  "coords": [
+                        45.346655,
+                        35.548715
+                  ]
+            },
+            {
+                  "name": "Saholaka",
+                  "text": "Diese berühmte Straße ist ein pulsierendes Zentrum für Streetfood und das Nachtleben von Sulaimaniyya.",
+                  "category": "cultural",
+                  "coords": [
+                        45.421763,
+                        35.559248
+                  ]
+            },
+            {
+                  "name": "qaratoxan market",
+                  "text": "Ein traditioneller Marktplatz, der eine authentische Atmosphäre für lokale Einkäufe bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        45.435017,
+                        35.516315
+                  ]
+            },
+            {
+                  "name": "dilan market",
+                  "text": "Ein geschäftiger Markt mit vielen Ständen, die von Kleidung bis hin zu Gewürzen alles anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        45.480698,
+                        35.542839
+                  ]
+            },
+            {
+                  "name": "kastana",
+                  "text": "Ein kleinerer Markt im Freien, der für seine frischen regionalen Agrarprodukte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        45.450592,
+                        35.563523
+                  ]
+            },
+            {
+                  "name": "harzan bazary 4u",
+                  "text": "Ein bekannter Discountmarkt, auf dem man preisgünstige Waren des täglichen Bedarfs findet.",
+                  "category": "cultural",
+                  "coords": [
+                        45.458905,
+                        35.531269
+                  ]
+            },
+            {
+                  "name": "mariam market",
+                  "text": "Ein lokaler Nachbarschaftsmarkt, der eine praktische Auswahl an Lebensmitteln für Anwohner bereithält.",
+                  "category": "cultural",
+                  "coords": [
+                        45.448517,
+                        35.531974
+                  ]
+            },
+            {
+                  "name": "shram market",
+                  "text": "Ein belebter städtischer Markt, der als wichtiger Handelsknotenpunkt im Stadtteil fungiert.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449682,
+                        35.535716
+                  ]
+            },
+            {
+                  "name": "electronic shop",
+                  "text": "Ein spezialisierter Marktbereich, der sich auf den Verkauf von Elektronik und Haushaltsgeräten konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449265,
+                        35.543059
+                  ]
+            },
+            {
+                  "name": "Nawbahar Market",
+                  "text": "Ein geschäftiger Marktplatz in Sulaimaniyya, der für sein Angebot an frischen lokalen Lebensmitteln und Haushaltswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        45.450258,
+                        35.553278
+                  ]
+            },
+            {
+                  "name": "dukani mama qala",
+                  "text": "Ein kleiner traditioneller Laden in Sulaimaniyya, der auf lokale kurdische Snacks und Lebensmittel spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449597,
+                        35.551629
+                  ]
+            },
+            {
+                  "name": "dilan",
+                  "text": "Ein lokales Marktviertel in Sulaimaniyya, das besonders für traditionelle kurdische Textilien und Trachten beliebt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        45.479298,
+                        35.547832
+                  ]
+            },
+            {
+                  "name": "orzdi street",
+                  "text": "Eine lebhafte Geschäftsstraße in Sulaimaniyya, die von zahlreichen Läden und Straßenhändlern gesäumt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        45.444134,
+                        35.557291
+                  ]
+            },
+            {
+                  "name": "Sulaymaniyah",
+                  "text": "Ein zentraler Anziehungspunkt der Stadt, der als wichtiger Knotenpunkt für den Handel und das gesellschaftliche Leben dient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.443031,
+                        35.556935
+                  ]
+            },
+            {
+                  "name": "Maly shekh latif slemany",
+                  "text": "Ein historisches Wohnhaus in Sulaimaniyya, das den traditionellen Baustil des lokalen Adels widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.465845,
+                        35.53762
+                  ]
+            },
+            {
+                  "name": "Gozakan",
+                  "text": "Eine Grünanlage in Sulaimaniyya, die historisch für ihre Walnussbäume und die ruhige Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.451266,
+                        35.553279
+                  ]
+            },
+            {
+                  "name": "solan shop",
+                  "text": "Ein modernes Einzelhandelsgeschäft in Sulaimaniyya, das eine Mischung aus zeitgenössischen und traditionellen Waren führt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.439948,
+                        35.555042
+                  ]
+            },
+            {
+                  "name": "2nd hand items Market",
+                  "text": "Ein lebhafter Flohmarkt in Sulaimaniyya, auf dem Einheimische mit Vintage-Waren und gebrauchten Schätzen handeln.",
+                  "category": "landmark",
+                  "coords": [
+                        45.440958,
+                        35.562374
+                  ]
+            },
+            {
+                  "name": "Haji Abdulrahman boskani mosque",
+                  "text": "Eine Gemeindemoschee in Sulaimaniyya mit einem einfachen Gebetssaal für die Gläubigen des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        45.457628,
+                        35.562422
+                  ]
+            },
+            {
+                  "name": "Bntabaqi Harmni Mosque",
+                  "text": "Eine friedliche islamische Gebetsstätte in Sulaimaniyya, in der sich die Anwohner zu den täglichen Gebeten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        45.444402,
+                        35.558741
+                  ]
+            },
+            {
+                  "name": "Said Hasan Mosque",
+                  "text": "Eine lokale Moschee in Sulaimaniyya, die für ihre einladende Gemeinschaftsatmosphäre während der Gebetszeiten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.445155,
+                        35.555892
+                  ]
+            },
+            {
+                  "name": "Hamza Agha Mosque",
+                  "text": "Ein bescheidenes muslimisches Gotteshaus, das sich direkt im Zentrum eines Wohnviertels in Sulaimaniyya befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.445367,
+                        35.554107
+                  ]
+            },
+            {
+                  "name": "Teke Ruta Mosque",
+                  "text": "Ein religiöses Zentrum in Sulaimaniyya, das Raum für islamischen Unterricht und gemeinschaftliche Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.447451,
+                        35.554317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kunara",
+                  "text": "Ezt a jelentős bronzkori régészeti lelőhelyet a Tanjaro-folyó mentén csak 2012-ben fedezték fel.",
+                  "category": "historical",
+                  "coords": [
+                        45.359913,
+                        35.51924
+                  ]
+            },
+            {
+                  "name": "fulkay sarwxaka",
+                  "text": "Jellegzetes, vár alakú építmény, amely tájékozódási pontként szolgál a városban.",
+                  "category": "castle",
+                  "coords": [
+                        45.450696,
+                        35.559866
+                  ]
+            },
+            {
+                  "name": "Sheikh Hasani Gala Zarda Mosque",
+                  "text": "Egy történelmi épületben elhelyezett múzeum, amely betekintést nyújt a vallási kultúrába.",
+                  "category": "museum",
+                  "coords": [
+                        45.44741,
+                        35.546267
+                  ]
+            },
+            {
+                  "name": "Fulkay Asoi dalak",
+                  "text": "Toronyszerű építmény, amely erődítményre emlékeztető építészetével tűnik ki a városképből.",
+                  "category": "castle",
+                  "coords": [
+                        45.444308,
+                        35.551251
+                  ]
+            },
+            {
+                  "name": "Zamwa Gallery",
+                  "text": "Ez a galéria kortárs kurd művészek alkotásait mutatja be modern környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        45.441496,
+                        35.555823
+                  ]
+            },
+            {
+                  "name": "fulkay Askakan",
+                  "text": "Építészetileg érdekes építmény, amely egy hagyományos erődítményre emlékeztet.",
+                  "category": "castle",
+                  "coords": [
+                        45.436912,
+                        35.561056
+                  ]
+            },
+            {
+                  "name": "Slemani Museum",
+                  "text": "Irak második legnagyobb múzeuma a kurd és mezopotámiai régiségek lenyűgöző gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        45.425713,
+                        35.557398
+                  ]
+            },
+            {
+                  "name": "Kurds' Heritage Museum",
+                  "text": "A gazdag kurd kultúra és hagyományok megőrzésének és bemutatásának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        45.440272,
+                        35.556281
+                  ]
+            },
+            {
+                  "name": "sandikay krekaran",
+                  "text": "Ez a muszlim imaház csendes helyet biztosít a hívőknek a napi áhítathoz.",
+                  "category": "religious",
+                  "coords": [
+                        45.444583,
+                        35.562642
+                  ]
+            },
+            {
+                  "name": "Ebrahim prophet mosque",
+                  "text": "Ibrahim prófétának szentelt muszlim mecset, amely spirituális találkozóhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        45.408868,
+                        35.557524
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Ez a mecset a városnegyed muszlim szertartásainak és imádságainak központi helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        45.450633,
+                        35.535332
+                  ]
+            },
+            {
+                  "name": "Shahid Mohammed Mosque",
+                  "text": "Muszlim mecset, amely egyszerű kialakításáról és családias hangulatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        45.457585,
+                        35.546863
+                  ]
+            },
+            {
+                  "name": "Padasht Mosque",
+                  "text": "Ez a muszlim imaház a mindennapi közösségi élet fontos részét képezi.",
+                  "category": "religious",
+                  "coords": [
+                        45.346655,
+                        35.548715
+                  ]
+            },
+            {
+                  "name": "Saholaka",
+                  "text": "Ez a híres utca Szulejmánijja utcai ételeinek és éjszakai életének lüktető központja.",
+                  "category": "cultural",
+                  "coords": [
+                        45.421763,
+                        35.559248
+                  ]
+            },
+            {
+                  "name": "qaratoxan market",
+                  "text": "Hagyományos piactér, amely hiteles hangulatot biztosít a helyi bevásárlásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        45.435017,
+                        35.516315
+                  ]
+            },
+            {
+                  "name": "dilan market",
+                  "text": "Nyüzsgő piac számos standdal, amelyek a ruházattól a fűszerekig mindent kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        45.480698,
+                        35.542839
+                  ]
+            },
+            {
+                  "name": "kastana",
+                  "text": "Kisebb szabadtéri piac, amely friss regionális mezőgazdasági termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        45.450592,
+                        35.563523
+                  ]
+            },
+            {
+                  "name": "harzan bazary 4u",
+                  "text": "Ismert diszkontpiac, ahol kedvező árú napi fogyasztási cikkek találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        45.458905,
+                        35.531269
+                  ]
+            },
+            {
+                  "name": "mariam market",
+                  "text": "Helyi szomszédsági piac, amely praktikus élelmiszer-választékot kínál a lakók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        45.448517,
+                        35.531974
+                  ]
+            },
+            {
+                  "name": "shram market",
+                  "text": "Forgalmas városi piac, amely a városrész fontos kereskedelmi csomópontjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449682,
+                        35.535716
+                  ]
+            },
+            {
+                  "name": "electronic shop",
+                  "text": "Specializált piaci terület, amely az elektronikai és háztartási cikkek értékesítésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449265,
+                        35.543059
+                  ]
+            },
+            {
+                  "name": "Nawbahar Market",
+                  "text": "Forgalmas piactér Szulejmánijja városában, amely friss helyi élelmiszereiről és háztartási cikkeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        45.450258,
+                        35.553278
+                  ]
+            },
+            {
+                  "name": "dukani mama qala",
+                  "text": "Egy apró, hagyományos bolt Szulejmánijjában, amely helyi kurd snackekre és élelmiszerekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449597,
+                        35.551629
+                  ]
+            },
+            {
+                  "name": "dilan",
+                  "text": "Helyi piaci negyed Szulejmánijjában, amely különösen népszerű a hagyományos kurd textilek és népviseletek miatt.",
+                  "category": "cultural",
+                  "coords": [
+                        45.479298,
+                        35.547832
+                  ]
+            },
+            {
+                  "name": "orzdi street",
+                  "text": "Élénk bevásárlóutca Szulejmánijjában, amelyet számos üzlet és utcai árus szegélyez.",
+                  "category": "landmark",
+                  "coords": [
+                        45.444134,
+                        35.557291
+                  ]
+            },
+            {
+                  "name": "Sulaymaniyah",
+                  "text": "A város központi helyszíne, amely a kereskedelem és a társasági élet fontos csomópontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        45.443031,
+                        35.556935
+                  ]
+            },
+            {
+                  "name": "Maly shekh latif slemany",
+                  "text": "Történelmi lakóház Szulejmánijjában, amely a helyi nemesség hagyományos építészeti stílusát tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.465845,
+                        35.53762
+                  ]
+            },
+            {
+                  "name": "Gozakan",
+                  "text": "Zöld terület Szulejmánijjában, amely történelmileg diófáiról és nyugodt környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        45.451266,
+                        35.553279
+                  ]
+            },
+            {
+                  "name": "solan shop",
+                  "text": "Modern kiskereskedelmi üzlet Szulejmánijjában, amely kortárs és hagyományos áruk keverékét kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.439948,
+                        35.555042
+                  ]
+            },
+            {
+                  "name": "2nd hand items Market",
+                  "text": "Élénk bolhapiac Szulejmánijjában, ahol a helyiek vintage termékekkel és használt kincsekkel kereskednek.",
+                  "category": "landmark",
+                  "coords": [
+                        45.440958,
+                        35.562374
+                  ]
+            },
+            {
+                  "name": "Haji Abdulrahman boskani mosque",
+                  "text": "Közösségi mecset Szulejmánijjában, egyszerű imateremmel a környék hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        45.457628,
+                        35.562422
+                  ]
+            },
+            {
+                  "name": "Bntabaqi Harmni Mosque",
+                  "text": "Békés iszlám imahely Szulejmánijjában, ahol a helyi lakosok gyűlnek össze a napi imádságokra.",
+                  "category": "landmark",
+                  "coords": [
+                        45.444402,
+                        35.558741
+                  ]
+            },
+            {
+                  "name": "Said Hasan Mosque",
+                  "text": "Helyi mecset Szulejmánijjában, amely barátságos közösségi légköréről ismert az imaidők alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.445155,
+                        35.555892
+                  ]
+            },
+            {
+                  "name": "Hamza Agha Mosque",
+                  "text": "Mérsékelt muzulmán imaház Szulejmánijja egyik lakónegyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.445367,
+                        35.554107
+                  ]
+            },
+            {
+                  "name": "Teke Ruta Mosque",
+                  "text": "Vallási központ Szulejmánijjában, amely helyet biztosít az iszlám oktatásnak és a közös imádságoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        45.447451,
+                        35.554317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kunara",
+                  "text": "Acest sit arheologic important din Epoca Bronzului, situat lângă râul Tanjaro, a fost descoperit abia în 2012.",
+                  "category": "historical",
+                  "coords": [
+                        45.359913,
+                        35.51924
+                  ]
+            },
+            {
+                  "name": "fulkay sarwxaka",
+                  "text": "O structură distinctivă în formă de castel care servește ca punct de reper în oraș.",
+                  "category": "castle",
+                  "coords": [
+                        45.450696,
+                        35.559866
+                  ]
+            },
+            {
+                  "name": "Sheikh Hasani Gala Zarda Mosque",
+                  "text": "Un muzeu găzduit într-o clădire istorică, oferind perspective asupra culturii religioase.",
+                  "category": "museum",
+                  "coords": [
+                        45.44741,
+                        35.546267
+                  ]
+            },
+            {
+                  "name": "Fulkay Asoi dalak",
+                  "text": "O structură asemănătoare unui turn care se remarcă în peisajul urban prin arhitectura sa de fortăreață.",
+                  "category": "castle",
+                  "coords": [
+                        45.444308,
+                        35.551251
+                  ]
+            },
+            {
+                  "name": "Zamwa Gallery",
+                  "text": "Această galerie prezintă lucrări de artă contemporană ale artiștilor kurzi locali într-un cadru modern.",
+                  "category": "museum",
+                  "coords": [
+                        45.441496,
+                        35.555823
+                  ]
+            },
+            {
+                  "name": "fulkay Askakan",
+                  "text": "O construcție interesantă din punct de vedere arhitectural, care amintește de o fortăreață tradițională.",
+                  "category": "castle",
+                  "coords": [
+                        45.436912,
+                        35.561056
+                  ]
+            },
+            {
+                  "name": "Slemani Museum",
+                  "text": "Al doilea muzeu ca mărime din Irak găzduiește o colecție impresionantă de antichități kurde și mezopotamiene.",
+                  "category": "museum",
+                  "coords": [
+                        45.425713,
+                        35.557398
+                  ]
+            },
+            {
+                  "name": "Kurds' Heritage Museum",
+                  "text": "Un muzeu dedicat conservării și expunerii bogatei culturi și tradiții kurde.",
+                  "category": "museum",
+                  "coords": [
+                        45.440272,
+                        35.556281
+                  ]
+            },
+            {
+                  "name": "sandikay krekaran",
+                  "text": "Acest lăcaș de rugăciune musulman oferü credincioșilor un spațiu liniștit pentru devoțiunea zilnică.",
+                  "category": "religious",
+                  "coords": [
+                        45.444583,
+                        35.562642
+                  ]
+            },
+            {
+                  "name": "Ebrahim prophet mosque",
+                  "text": "O moschee musulmană dedicată profetului Ibrahim, servind ca punct de întâlnire spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        45.408868,
+                        35.557524
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "Această moschee este un loc central pentru ceremoniile și rugăciunile musulmane din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        45.450633,
+                        35.535332
+                  ]
+            },
+            {
+                  "name": "Shahid Mohammed Mosque",
+                  "text": "O moschee musulmană cunoscută pentru designul său simplu și atmosfera sa familială.",
+                  "category": "religious",
+                  "coords": [
+                        45.457585,
+                        35.546863
+                  ]
+            },
+            {
+                  "name": "Padasht Mosque",
+                  "text": "Acest lăcaș de cult musulman este o parte importantă a vieții zilnice a comunității.",
+                  "category": "religious",
+                  "coords": [
+                        45.346655,
+                        35.548715
+                  ]
+            },
+            {
+                  "name": "Saholaka",
+                  "text": "Această stradă celebră este un centru vibrant pentru mâncarea stradală și viața de noapte din Sulaymaniyah.",
+                  "category": "cultural",
+                  "coords": [
+                        45.421763,
+                        35.559248
+                  ]
+            },
+            {
+                  "name": "qaratoxan market",
+                  "text": "O piață tradițională care oferă o atmosferă autentică pentru cumpărăturile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        45.435017,
+                        35.516315
+                  ]
+            },
+            {
+                  "name": "dilan market",
+                  "text": "O piață aglomerată cu numeroase standuri care oferă de toate, de la haine la condimente.",
+                  "category": "cultural",
+                  "coords": [
+                        45.480698,
+                        35.542839
+                  ]
+            },
+            {
+                  "name": "kastana",
+                  "text": "O piață în aer liber mai mică, cunoscută pentru produsele sale agricole regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        45.450592,
+                        35.563523
+                  ]
+            },
+            {
+                  "name": "harzan bazary 4u",
+                  "text": "O piață de reduceri cunoscută, unde se pot găsi mărfuri zilnice la prețuri accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        45.458905,
+                        35.531269
+                  ]
+            },
+            {
+                  "name": "mariam market",
+                  "text": "O piață locală de cartier care oferă o selecție practică de alimente pentru rezidenți.",
+                  "category": "cultural",
+                  "coords": [
+                        45.448517,
+                        35.531974
+                  ]
+            },
+            {
+                  "name": "shram market",
+                  "text": "O piață urbană animată care funcționează ca un nod comercial important în cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449682,
+                        35.535716
+                  ]
+            },
+            {
+                  "name": "electronic shop",
+                  "text": "O zonă de piață specializată, concentrată pe vânzarea de electronice și aparate electrocasnice.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449265,
+                        35.543059
+                  ]
+            },
+            {
+                  "name": "Nawbahar Market",
+                  "text": "O piață plină de viață în Sulaymaniyah, cunoscută pentru oferta sa de produse alimentare locale proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        45.450258,
+                        35.553278
+                  ]
+            },
+            {
+                  "name": "dukani mama qala",
+                  "text": "Un mic magazin tradițional din Sulaymaniyah, specializat în gustări kurde locale și alimente de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449597,
+                        35.551629
+                  ]
+            },
+            {
+                  "name": "dilan",
+                  "text": "O zonă de piață locală din Sulaymaniyah, populară în special pentru textilele și costumele tradiționale kurde.",
+                  "category": "cultural",
+                  "coords": [
+                        45.479298,
+                        35.547832
+                  ]
+            },
+            {
+                  "name": "orzdi street",
+                  "text": "O stradă comercială plină de viață din Sulaymaniyah, mărginită de numeroase magazine și vânzători ambulanți.",
+                  "category": "landmark",
+                  "coords": [
+                        45.444134,
+                        35.557291
+                  ]
+            },
+            {
+                  "name": "Sulaymaniyah",
+                  "text": "Un punct de atracție central al orașului, care servește ca un important nod pentru comerț și viața socială.",
+                  "category": "landmark",
+                  "coords": [
+                        45.443031,
+                        35.556935
+                  ]
+            },
+            {
+                  "name": "Maly shekh latif slemany",
+                  "text": "O reședință istorică din Sulaymaniyah, care reflectă stilul arhitectural tradițional al nobilimii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        45.465845,
+                        35.53762
+                  ]
+            },
+            {
+                  "name": "Gozakan",
+                  "text": "O zonă verde din Sulaymaniyah, cunoscută istoric pentru nucii săi și atmosfera liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        45.451266,
+                        35.553279
+                  ]
+            },
+            {
+                  "name": "solan shop",
+                  "text": "O destinație de retail modernă din Sulaymaniyah, care oferă un amestec de produse contemporane și tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        45.439948,
+                        35.555042
+                  ]
+            },
+            {
+                  "name": "2nd hand items Market",
+                  "text": "O piață de vechituri vibrantă din Sulaymaniyah, unde localnicii fac schimb de produse vintage și comori la mâna a doua.",
+                  "category": "landmark",
+                  "coords": [
+                        45.440958,
+                        35.562374
+                  ]
+            },
+            {
+                  "name": "Haji Abdulrahman boskani mosque",
+                  "text": "O moschee comunitară din Sulaymaniyah, cu o sală de rugăciune simplă pentru credincioșii din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        45.457628,
+                        35.562422
+                  ]
+            },
+            {
+                  "name": "Bntabaqi Harmni Mosque",
+                  "text": "Un loc de rugăciune islamic liniștit din Sulaymaniyah, unde locuitorii se adună pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        45.444402,
+                        35.558741
+                  ]
+            },
+            {
+                  "name": "Said Hasan Mosque",
+                  "text": "O moschee locală din Sulaymaniyah, cunoscută pentru atmosfera sa comunitară primitoare în timpul slujbelor.",
+                  "category": "landmark",
+                  "coords": [
+                        45.445155,
+                        35.555892
+                  ]
+            },
+            {
+                  "name": "Hamza Agha Mosque",
+                  "text": "Un lăcaș de cult musulman modest, situat chiar în inima unui cartier din Sulaymaniyah.",
+                  "category": "landmark",
+                  "coords": [
+                        45.445367,
+                        35.554107
+                  ]
+            },
+            {
+                  "name": "Teke Ruta Mosque",
+                  "text": "Un centru religios din Sulaymaniyah, care oferă spațiu pentru învățătura islamică și rugăciunea congregațională.",
+                  "category": "landmark",
+                  "coords": [
+                        45.447451,
+                        35.554317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kunara",
+                  "text": "This significant Bronze Age archaeological site along the Tanjaro River was discovered as recently as 2012.",
+                  "category": "historical",
+                  "coords": [
+                        45.359913,
+                        35.51924
+                  ]
+            },
+            {
+                  "name": "Fulkay Sarwxaka",
+                  "text": "A distinctive castle-shaped structure that serves as a landmark within the city.",
+                  "category": "castle",
+                  "coords": [
+                        45.450696,
+                        35.559866
+                  ]
+            },
+            {
+                  "name": "mosque shex hasan glazard",
+                  "text": "A museum housed in a historic building, offering insights into religious culture.",
+                  "category": "museum",
+                  "coords": [
+                        45.44741,
+                        35.546267
+                  ]
+            },
+            {
+                  "name": "Fulkay Asoi dalak",
+                  "text": "A tower-like structure that stands out in the cityscape with its fortress-like architecture.",
+                  "category": "castle",
+                  "coords": [
+                        45.444308,
+                        35.551251
+                  ]
+            },
+            {
+                  "name": "Zamwa Gallery",
+                  "text": "This gallery showcases contemporary artworks by local Kurdish artists in a modern setting.",
+                  "category": "museum",
+                  "coords": [
+                        45.441496,
+                        35.555823
+                  ]
+            },
+            {
+                  "name": "fulkay Askakan",
+                  "text": "An architecturally interesting construction that resembles a traditional fortress.",
+                  "category": "castle",
+                  "coords": [
+                        45.436912,
+                        35.561056
+                  ]
+            },
+            {
+                  "name": "Slemani Museum",
+                  "text": "The second largest museum in Iraq houses an impressive collection of Kurdish and Mesopotamian antiquities.",
+                  "category": "museum",
+                  "coords": [
+                        45.425713,
+                        35.557398
+                  ]
+            },
+            {
+                  "name": "Kurds' Heritage Museum",
+                  "text": "A museum dedicated to the preservation and exhibition of rich Kurdish culture and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        45.440272,
+                        35.556281
+                  ]
+            },
+            {
+                  "name": "sandikay krekaran",
+                  "text": "This Muslim prayer space offers believers a quiet place for daily devotion.",
+                  "category": "religious",
+                  "coords": [
+                        45.444583,
+                        35.562642
+                  ]
+            },
+            {
+                  "name": "Ebrahim prophet mosque",
+                  "text": "A Muslim mosque dedicated to the prophet Ibrahim, serving as a spiritual gathering point.",
+                  "category": "religious",
+                  "coords": [
+                        45.408868,
+                        35.557524
+                  ]
+            },
+            {
+                  "name": "Kherkhwazan Mosque",
+                  "text": "This mosque is a central location for Muslim ceremonies and prayers in the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        45.450633,
+                        35.535332
+                  ]
+            },
+            {
+                  "name": "Shahid Mohammed Mosque",
+                  "text": "A Muslim mosque known for its simple design and family-like atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        45.457585,
+                        35.546863
+                  ]
+            },
+            {
+                  "name": "Padasht Mosque",
+                  "text": "This Muslim house of worship is an important part of daily community life.",
+                  "category": "religious",
+                  "coords": [
+                        45.346655,
+                        35.548715
+                  ]
+            },
+            {
+                  "name": "Saholaka",
+                  "text": "This famous street is a vibrant hub for Sulaymaniyah's street food and nightlife.",
+                  "category": "cultural",
+                  "coords": [
+                        45.421763,
+                        35.559248
+                  ]
+            },
+            {
+                  "name": "qaratoxan market",
+                  "text": "A traditional marketplace providing an authentic atmosphere for local shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        45.435017,
+                        35.516315
+                  ]
+            },
+            {
+                  "name": "dilan market",
+                  "text": "A busy market with numerous stalls offering everything from clothing to spices.",
+                  "category": "cultural",
+                  "coords": [
+                        45.480698,
+                        35.542839
+                  ]
+            },
+            {
+                  "name": "kastana",
+                  "text": "A smaller open-air market known for its fresh regional agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        45.450592,
+                        35.563523
+                  ]
+            },
+            {
+                  "name": "harzan bazary 4u",
+                  "text": "A well-known discount market where affordable daily goods can be found.",
+                  "category": "cultural",
+                  "coords": [
+                        45.458905,
+                        35.531269
+                  ]
+            },
+            {
+                  "name": "mariam market",
+                  "text": "A local neighborhood market providing a practical selection of groceries for residents.",
+                  "category": "cultural",
+                  "coords": [
+                        45.448517,
+                        35.531974
+                  ]
+            },
+            {
+                  "name": "shram market",
+                  "text": "A busy urban market functioning as an important commercial hub in the district.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449682,
+                        35.535716
+                  ]
+            },
+            {
+                  "name": "electronic shop",
+                  "text": "A specialized market area focused on the sale of electronics and household appliances.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449265,
+                        35.543059
+                  ]
+            },
+            {
+                  "name": "Nawbahar Market",
+                  "text": "A bustling marketplace in Sulaymaniyah known for its array of fresh local produce and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        45.450258,
+                        35.553278
+                  ]
+            },
+            {
+                  "name": "dukani mama qala",
+                  "text": "A small traditional shop in Sulaymaniyah specializing in local Kurdish snacks and groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        45.449597,
+                        35.551629
+                  ]
+            },
+            {
+                  "name": "dilan",
+                  "text": "A local market area in Sulaymaniyah popular for traditional Kurdish textiles and clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        45.479298,
+                        35.547832
+                  ]
+            },
+            {
+                  "name": "orzdi street",
+                  "text": "A lively commercial street in Sulaymaniyah lined with diverse shops and street vendors.",
+                  "category": "landmark",
+                  "coords": [
+                        45.444134,
+                        35.557291
+                  ]
+            },
+            {
+                  "name": "Sulaymaniyah",
+                  "text": "A central attraction point in the city, serving as a hub for local social life and traditional commerce.",
+                  "category": "landmark",
+                  "coords": [
+                        45.443031,
+                        35.556935
+                  ]
+            },
+            {
+                  "name": "Maly shekh latif slemany",
+                  "text": "A historical residence in Sulaymaniyah reflecting the architectural style of local nobility.",
+                  "category": "landmark",
+                  "coords": [
+                        45.465845,
+                        35.53762
+                  ]
+            },
+            {
+                  "name": "Gozakan",
+                  "text": "A green area in Sulaymaniyah, historically known for its walnut orchards and tranquil setting.",
+                  "category": "landmark",
+                  "coords": [
+                        45.451266,
+                        35.553279
+                  ]
+            },
+            {
+                  "name": "solan shop",
+                  "text": "A specialty retail destination in Sulaymaniyah offering a range of modern and traditional items.",
+                  "category": "landmark",
+                  "coords": [
+                        45.439948,
+                        35.555042
+                  ]
+            },
+            {
+                  "name": "2nd hand items Market",
+                  "text": "A vibrant flea market in Sulaymaniyah where locals trade vintage goods and used treasures.",
+                  "category": "landmark",
+                  "coords": [
+                        45.440958,
+                        35.562374
+                  ]
+            },
+            {
+                  "name": "Haji Abdulrahman boskani mosque",
+                  "text": "A community mosque in Sulaymaniyah with a simple prayer hall for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        45.457628,
+                        35.562422
+                  ]
+            },
+            {
+                  "name": "Bntabaqi Harmni Mosque",
+                  "text": "A serene Islamic worship site in Sulaymaniyah where residents gather for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        45.444402,
+                        35.558741
+                  ]
+            },
+            {
+                  "name": "Said Hasan Mosque",
+                  "text": "A local mosque in Sulaymaniyah known for its welcoming community atmosphere during religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        45.445155,
+                        35.555892
+                  ]
+            },
+            {
+                  "name": "Hamza Agha Mosque",
+                  "text": "A modest Muslim place of worship located in the heart of a Sulaymaniyah neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        45.445367,
+                        35.554107
+                  ]
+            },
+            {
+                  "name": "Teke Ruta Mosque",
+                  "text": "A religious center in Sulaymaniyah providing a space for Islamic teaching and congregational prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        45.447451,
+                        35.554317
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-SU",
     coords: [45.4351, 35.5558],
@@ -188,7 +3761,1456 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Established on November 14, 1784, by Ibrahim Pasha Baban.", "Located at an elevation of 882 meters (2,894 feet) in the Zagros Mountains.", "Known as the 'Cultural Capital' of the Kurdistan Region of Iraq.", "Home to the Sulaymaniyah Museum, featuring over 6,000 artifacts.", "The city operates Sulaymaniyah International Airport (ISU).", "It was the capital of the Baban principality until 1850.", "Sulaymaniyah is a member of the UNESCO Creative Cities Network.", "Major educational hub with over 10 universities and colleges."],
     }, image: "/poi-images/sulaymaniyah-cities-v2.webp"},
   {
-    id: "kirkuk-cities-v2",
+    id: "kirkuk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imam Qasm mosque",
+                  "text": "Diese Moschee beherbergt den Schrein von Imam Qasim, ein wichtiges lokales Pilgerziel.",
+                  "category": "religious",
+                  "coords": [
+                        44.398865,
+                        35.477196
+                  ]
+            },
+            {
+                  "name": "Majidiya Mosque",
+                  "text": "Diese historische Moschee aus dem Jahr 1745 ist ein Beispiel für osmanische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        44.403477,
+                        35.473697
+                  ]
+            },
+            {
+                  "name": "Synagogue and shrine Prophet Daniel",
+                  "text": "Ein multireligiöser Ort, der als Grabstätte des Propheten Daniel verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395574,
+                        35.468751
+                  ]
+            },
+            {
+                  "name": "North Oil Company",
+                  "text": "Ein Denkmal, das Kirkuks Bedeutung als Zentrum der irakischen Erdölindustrie symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        44.362619,
+                        35.505343
+                  ]
+            },
+            {
+                  "name": "Qishla of Kirkuk",
+                  "text": "Diese osmanische Festung aus dem 18. Jahrhundert diente einst als Militärkaserne.",
+                  "category": "fortress",
+                  "coords": [
+                        44.388529,
+                        35.471266
+                  ]
+            },
+            {
+                  "name": "Noor Al-Huda Mosque",
+                  "text": "Eine lokale Moschee in Kirkuk, bekannt für ihre markante Kuppel und das Minarett.",
+                  "category": "religious",
+                  "coords": [
+                        44.36396,
+                        35.39909
+                  ]
+            },
+            {
+                  "name": "Peace Mosque",
+                  "text": "Die Friedensmoschee ist ein modernes Gotteshaus in einem Wohngebiet von Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.370624,
+                        35.389648
+                  ]
+            },
+            {
+                  "name": "Guests of God Mosque",
+                  "text": "Eine gastfreundliche Gemeindemoschee, die sowohl Reisenden als auch Einheimischen offensteht.",
+                  "category": "religious",
+                  "coords": [
+                        44.370776,
+                        35.391949
+                  ]
+            },
+            {
+                  "name": "Khadija Great Mosque",
+                  "text": "Diese große Moschee in Kirkuk ist nach der ersten Frau des Propheten benannt.",
+                  "category": "religious",
+                  "coords": [
+                        44.41546,
+                        35.398984
+                  ]
+            },
+            {
+                  "name": "Malik ibn Anas Mosque",
+                  "text": "Benannt nach dem Gründer der malikitischen Rechtsschule, dient sie lokalen Gläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        44.397199,
+                        35.403063
+                  ]
+            },
+            {
+                  "name": "Al-Rayhan Mosque",
+                  "text": "Eine Nachbarschaftsmoschee, die für ihre friedliche Gebetsatmosphäre geschätzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        44.377469,
+                        35.381859
+                  ]
+            },
+            {
+                  "name": "Al-Hijra Mosque",
+                  "text": "Diese Moschee erinnert an die Auswanderung des Propheten nach Medina.",
+                  "category": "religious",
+                  "coords": [
+                        44.38255,
+                        35.383994
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Sa’achy mosque",
+                  "text": "Eine lokale Kirkuk-Moschee, die nach einer prominenten Persönlichkeit der Gemeinschaft benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.376391,
+                        35.385819
+                  ]
+            },
+            {
+                  "name": "Al-Quddus Mosque",
+                  "text": "Ein heiliger Ort für die muslimische Gemeinschaft in einem belebten Teil von Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.394408,
+                        35.424571
+                  ]
+            },
+            {
+                  "name": "Sabreen Mosque",
+                  "text": "Diese Moschee bietet den Bewohnern des Viertels spirituelle Führung und Gebetsraum.",
+                  "category": "religious",
+                  "coords": [
+                        44.407968,
+                        35.424781
+                  ]
+            },
+            {
+                  "name": "Al-Hajj Mosque is one of the same places",
+                  "text": "Ein bedeutender Versammlungsort für Gläubige im Herzen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        44.425112,
+                        35.406671
+                  ]
+            },
+            {
+                  "name": "Kirkuk Badasht Mosque",
+                  "text": "Diese Moschee bedient das Badasht-Viertel mit ihren religiösen Dienstleistungen.",
+                  "category": "religious",
+                  "coords": [
+                        44.420637,
+                        35.406766
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "Ein lokaler Ort der Anbetung in Kirkuk für die fünf täglichen Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        44.429641,
+                        35.412203
+                  ]
+            },
+            {
+                  "name": "Safa and Marwa Mosque",
+                  "text": "Benannt nach den Hügeln der Pilgerfahrt, ist sie ein Zentrum lokaler Frömmigkeit.",
+                  "category": "religious",
+                  "coords": [
+                        44.439203,
+                        35.409821
+                  ]
+            },
+            {
+                  "name": "Haji Ali Zangana Mosque",
+                  "text": "Eine Gemeindemoschee, die von der Familie Zangana in Kirkuk gegründet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        44.436878,
+                        35.414986
+                  ]
+            },
+            {
+                  "name": "Regay Bahasht Mosque",
+                  "text": "Die Moschee trägt einen Namen, der übersetzt „Weg zum Paradies“ bedeutet.",
+                  "category": "religious",
+                  "coords": [
+                        44.434194,
+                        35.413992
+                  ]
+            },
+            {
+                  "name": "Imam Omar Mosque",
+                  "text": "Diese dem zweiten Kalifen gewidmete Stätte dient als lokales Gebetszentrum.",
+                  "category": "religious",
+                  "coords": [
+                        44.430615,
+                        35.424773
+                  ]
+            },
+            {
+                  "name": "Dar Al-Salam Mosque",
+                  "text": "Das „Haus des Friedens“ ist eine ruhige Moschee inmitten der Stadt Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.436132,
+                        35.423518
+                  ]
+            },
+            {
+                  "name": "Blessed Al-Aqsa Mosque",
+                  "text": "Benannt nach dem Heiligtum in Jerusalem, ist sie ein bedeutender Ort der Anbetung.",
+                  "category": "religious",
+                  "coords": [
+                        44.430287,
+                        35.426862
+                  ]
+            },
+            {
+                  "name": "Imam Bukhari Mosque",
+                  "text": "Eine bedeutende sunnitische Moschee in Kirkuk, die als spirituelles Zentrum für das lokale Viertel dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.42916,
+                        35.433662
+                  ]
+            },
+            {
+                  "name": "Rizgari Mosque",
+                  "text": "Diese Moschee in Kirkuk ist ein markanter religiöser Treffpunkt mit traditioneller regionaler Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        44.420293,
+                        35.438576
+                  ]
+            },
+            {
+                  "name": "MzGauty lateef",
+                  "text": "Ein lokales islamisches Gebetshaus in Kirkuk, das für seine schlichte und andächtige Atmosphäre bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.416061,
+                        35.451127
+                  ]
+            },
+            {
+                  "name": "hezha masoud",
+                  "text": "Eine Stadtteilmoschee in Kirkuk, die den Gläubigen einen ruhigen Ort für das tägliche Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        44.410186,
+                        35.462409
+                  ]
+            },
+            {
+                  "name": "Ma Shaa Allah",
+                  "text": "Ein muslimisches Gotteshaus in Kirkuk, das durch seine zentrale Lage im städtischen Gefüge auffällt.",
+                  "category": "religious",
+                  "coords": [
+                        44.407285,
+                        35.462118
+                  ]
+            },
+            {
+                  "name": "Hajj Rashid Mosque",
+                  "text": "Diese nach Hajj Rashid benannte Moschee ist ein fester Bestandteil des religiösen Lebens in Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.40962,
+                        35.460312
+                  ]
+            },
+            {
+                  "name": "Sheikh Fouad Al-Hantawi Tekke",
+                  "text": "Ein traditionelles Sufi-Zentrum (Tekke) in Kirkuk, das für spirituelle Zusammenkünfte und Meditation genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        44.406841,
+                        35.460656
+                  ]
+            },
+            {
+                  "name": "The shrine of Sheikh Ali al-Gaylani",
+                  "text": "Ein verehrter Schrein in Kirkuk, der dem Sufi-Heiligen Sheikh Ali al-Gaylani gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.400236,
+                        35.457966
+                  ]
+            },
+            {
+                  "name": "Shorjah Mosque",
+                  "text": "Eine Moschee im Shorjah-Viertel von Kirkuk, die ein wichtiger Anlaufpunkt für die lokale Bevölkerung ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.409835,
+                        35.454022
+                  ]
+            },
+            {
+                  "name": "Al-Maleika Mosque",
+                  "text": "Die Al-Maleika-Moschee ist ein markantes Bauwerk in Kirkuk, das für seine lokale religiöse Bedeutung geschätzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        44.398675,
+                        35.444015
+                  ]
+            },
+            {
+                  "name": "Said ali",
+                  "text": "Eine dem Said Ali gewidmete Gebetsstätte in Kirkuk, die Besucher zur stillen Andacht einlädt.",
+                  "category": "religious",
+                  "coords": [
+                        44.393176,
+                        35.448154
+                  ]
+            },
+            {
+                  "name": "Hassan Ibn Ali Mosque",
+                  "text": "Eine nach Hassan Ibn Ali benannte Moschee in Kirkuk, die durch ihre klassische Kuppelarchitektur erkennbar ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.391519,
+                        35.444359
+                  ]
+            },
+            {
+                  "name": "Hajj Abdullah Al-Mufarji Mosque",
+                  "text": "Ein islamisches Gotteshaus in Kirkuk, das eine zentrale Rolle bei gemeinschaftlichen Feierlichkeiten spielt.",
+                  "category": "religious",
+                  "coords": [
+                        44.391922,
+                        35.440337
+                  ]
+            },
+            {
+                  "name": "Rawdat Al-Hadi Mosque",
+                  "text": "Diese Moschee in Kirkuk bietet einen friedlichen Rückzugsort für das Gebet inmitten des geschäftigen Stadtlebens.",
+                  "category": "religious",
+                  "coords": [
+                        44.375531,
+                        35.461998
+                  ]
+            },
+            {
+                  "name": "Hajj Fadel Mosque",
+                  "text": "Die Hajj-Fadel-Moschee ist ein bekanntes lokales Wahrzeichen in Kirkuk und ein Ort der Versammlung.",
+                  "category": "religious",
+                  "coords": [
+                        44.36437,
+                        35.41448
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Great Messenger",
+                  "text": "Eine schiitische Husseiniya in Kirkuk, die für religiöse Zeremonien und Versammlungen zur Trauer genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        44.34149,
+                        35.40435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imam Qasm mosque",
+                  "text": "Ez a mecset ad otthont Imám Kászim kegyhelyének, amely fontos zarándokhely.",
+                  "category": "religious",
+                  "coords": [
+                        44.398865,
+                        35.477196
+                  ]
+            },
+            {
+                  "name": "Majidiya Mosque",
+                  "text": "Ez az 1745-ből származó történelmi mecset az oszmán építészet egyik példája.",
+                  "category": "religious",
+                  "coords": [
+                        44.403477,
+                        35.473697
+                  ]
+            },
+            {
+                  "name": "Synagogue and shrine Prophet Daniel",
+                  "text": "Többvallású helyszín, amelyet Dániel próféta sírhelyeként tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395574,
+                        35.468751
+                  ]
+            },
+            {
+                  "name": "North Oil Company",
+                  "text": "Emlékmű, amely Kirkuk iraki kőolajiparban betöltött központi szerepét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        44.362619,
+                        35.505343
+                  ]
+            },
+            {
+                  "name": "Qishla of Kirkuk",
+                  "text": "Ez a 18. századi oszmán erőd egykor katonai laktanyaként szolgált.",
+                  "category": "fortress",
+                  "coords": [
+                        44.388529,
+                        35.471266
+                  ]
+            },
+            {
+                  "name": "Noor Al-Huda Mosque",
+                  "text": "Helyi mecset Kirkukban, amely jellegzetes kupolájáról és minaretjéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        44.36396,
+                        35.39909
+                  ]
+            },
+            {
+                  "name": "Peace Mosque",
+                  "text": "A Béke-mecset egy modern imaház Kirkuk egyik lakónegyedében.",
+                  "category": "religious",
+                  "coords": [
+                        44.370624,
+                        35.389648
+                  ]
+            },
+            {
+                  "name": "Guests of God Mosque",
+                  "text": "Vendégszerető közösségi mecset, amely nyitva áll az utazók és a helyiek előtt is.",
+                  "category": "religious",
+                  "coords": [
+                        44.370776,
+                        35.391949
+                  ]
+            },
+            {
+                  "name": "Khadija Great Mosque",
+                  "text": "Ez a nagy kirkuki mecset a Próféta első feleségéről kapta a nevét.",
+                  "category": "religious",
+                  "coords": [
+                        44.41546,
+                        35.398984
+                  ]
+            },
+            {
+                  "name": "Malik ibn Anas Mosque",
+                  "text": "A málikita jogi iskola alapítójáról elnevezett mecset a helyi hívőket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        44.397199,
+                        35.403063
+                  ]
+            },
+            {
+                  "name": "Al-Rayhan Mosque",
+                  "text": "Környékbeli mecset, amelyet békés imahangulata miatt kedvelnek.",
+                  "category": "religious",
+                  "coords": [
+                        44.377469,
+                        35.381859
+                  ]
+            },
+            {
+                  "name": "Al-Hijra Mosque",
+                  "text": "Ez a mecset a Próféta Medinába való kivándorlásának állít emléket.",
+                  "category": "religious",
+                  "coords": [
+                        44.38255,
+                        35.383994
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Sa’achy mosque",
+                  "text": "Helyi kirkuki mecset, amelyet a közösség egyik kiemelkedő alakjáról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        44.376391,
+                        35.385819
+                  ]
+            },
+            {
+                  "name": "Al-Quddus Mosque",
+                  "text": "Szent hely a muszlim közösség számára Kirkuk egyik forgalmas részén.",
+                  "category": "religious",
+                  "coords": [
+                        44.394408,
+                        35.424571
+                  ]
+            },
+            {
+                  "name": "Sabreen Mosque",
+                  "text": "Ez a mecset spirituális útmutatást és imateret biztosít a környék lakóinak.",
+                  "category": "religious",
+                  "coords": [
+                        44.407968,
+                        35.424781
+                  ]
+            },
+            {
+                  "name": "Al-Hajj Mosque is one of the same places",
+                  "text": "A hívők jelentős gyülekezőhelye a város szívében.",
+                  "category": "religious",
+                  "coords": [
+                        44.425112,
+                        35.406671
+                  ]
+            },
+            {
+                  "name": "Kirkuk Badasht Mosque",
+                  "text": "Ez a mecset vallási szolgáltatásokkal látja el a Badasht negyedet.",
+                  "category": "religious",
+                  "coords": [
+                        44.420637,
+                        35.406766
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "Helyi imaház Kirkukban az öt napi ima elvégzéséhez.",
+                  "category": "religious",
+                  "coords": [
+                        44.429641,
+                        35.412203
+                  ]
+            },
+            {
+                  "name": "Safa and Marwa Mosque",
+                  "text": "A zarándoklat dombjairól elnevezve, a helyi vallásosság egyik központja.",
+                  "category": "religious",
+                  "coords": [
+                        44.439203,
+                        35.409821
+                  ]
+            },
+            {
+                  "name": "Haji Ali Zangana Mosque",
+                  "text": "A Zangana család által alapított közösségi mecset Kirkukban.",
+                  "category": "religious",
+                  "coords": [
+                        44.436878,
+                        35.414986
+                  ]
+            },
+            {
+                  "name": "Regay Bahasht Mosque",
+                  "text": "A mecset neve magyarul annyit tesz: „Út a Paradicsomba”.",
+                  "category": "religious",
+                  "coords": [
+                        44.434194,
+                        35.413992
+                  ]
+            },
+            {
+                  "name": "Imam Omar Mosque",
+                  "text": "A második kalifának szentelt helyi imaközpontként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        44.430615,
+                        35.424773
+                  ]
+            },
+            {
+                  "name": "Dar Al-Salam Mosque",
+                  "text": "A „Béke Háza” egy nyugodt mecset Kirkuk városának közepén.",
+                  "category": "religious",
+                  "coords": [
+                        44.436132,
+                        35.423518
+                  ]
+            },
+            {
+                  "name": "Blessed Al-Aqsa Mosque",
+                  "text": "A jeruzsálemi szentélyről elnevezve, a város egyik fontos imaháza.",
+                  "category": "religious",
+                  "coords": [
+                        44.430287,
+                        35.426862
+                  ]
+            },
+            {
+                  "name": "Imam Bukhari Mosque",
+                  "text": "Kirkuk egyik jelentős szunnita mecsetje, amely a helyi közösség hitéletének fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        44.42916,
+                        35.433662
+                  ]
+            },
+            {
+                  "name": "Rizgari Mosque",
+                  "text": "Ez a kirkuki mecset a helyi hívők fontos találkozóhelye, hagyományos építészeti stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        44.420293,
+                        35.438576
+                  ]
+            },
+            {
+                  "name": "MzGauty lateef",
+                  "text": "Helyi iszlám imaház Kirkukban, amely egyszerű és áhítatos légköréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        44.416061,
+                        35.451127
+                  ]
+            },
+            {
+                  "name": "hezha masoud",
+                  "text": "Kirkuki városrészi mecset, amely nyugodt helyszínt biztosít a hívők napi imádságaihoz.",
+                  "category": "religious",
+                  "coords": [
+                        44.410186,
+                        35.462409
+                  ]
+            },
+            {
+                  "name": "Ma Shaa Allah",
+                  "text": "Muszlim imaház Kirkukban, amely központi elhelyezkedésével tűnik ki a városi környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        44.407285,
+                        35.462118
+                  ]
+            },
+            {
+                  "name": "Hajj Rashid Mosque",
+                  "text": "Ez a Hajj Rashidról elnevezett mecset a kirkuki vallási élet szerves részét képezi.",
+                  "category": "religious",
+                  "coords": [
+                        44.40962,
+                        35.460312
+                  ]
+            },
+            {
+                  "name": "Sheikh Fouad Al-Hantawi Tekke",
+                  "text": "Hagyományos szúfi központ (tekke) Kirkukban, amelyet spirituális összejövetelekre és meditációra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        44.406841,
+                        35.460656
+                  ]
+            },
+            {
+                  "name": "The shrine of Sheikh Ali al-Gaylani",
+                  "text": "Tisztelt kegyhely Kirkukban, amelyet Sheikh Ali al-Gaylani szúfi szent tiszteletére emeltek.",
+                  "category": "religious",
+                  "coords": [
+                        44.400236,
+                        35.457966
+                  ]
+            },
+            {
+                  "name": "Shorjah Mosque",
+                  "text": "Mecset Kirkuk Shorjah negyedében, amely a helyi lakosság fontos találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        44.409835,
+                        35.454022
+                  ]
+            },
+            {
+                  "name": "Al-Maleika Mosque",
+                  "text": "Az Al-Maleika mecset Kirkuk egyik jellegzetes épülete, amelyet helyi vallási jelentősége miatt becsülnek.",
+                  "category": "religious",
+                  "coords": [
+                        44.398675,
+                        35.444015
+                  ]
+            },
+            {
+                  "name": "Said ali",
+                  "text": "Said Alinak szentelt imaház Kirkukban, amely csendes áhítatra hívja a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        44.393176,
+                        35.448154
+                  ]
+            },
+            {
+                  "name": "Hassan Ibn Ali Mosque",
+                  "text": "Hassan Ibn Aliról elnevezett mecset Kirkukban, amely klasszikus kupolás építészetéről ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        44.391519,
+                        35.444359
+                  ]
+            },
+            {
+                  "name": "Hajj Abdullah Al-Mufarji Mosque",
+                  "text": "Iszlám imaház Kirkukban, amely központi szerepet játszik a közösségi ünnepségek alkalmával.",
+                  "category": "religious",
+                  "coords": [
+                        44.391922,
+                        35.440337
+                  ]
+            },
+            {
+                  "name": "Rawdat Al-Hadi Mosque",
+                  "text": "Ez a kirkuki mecset békés menedéket nyújt az imádkozáshoz a pezsgő városi élet közepette.",
+                  "category": "religious",
+                  "coords": [
+                        44.375531,
+                        35.461998
+                  ]
+            },
+            {
+                  "name": "Hajj Fadel Mosque",
+                  "text": "A Hajj Fadel mecset Kirkuk egyik ismert helyi jelképe és a közösségi gyülekezés helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        44.36437,
+                        35.41448
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Great Messenger",
+                  "text": "Siíta husszeinije Kirkukban, amelyet vallási szertartásokra és gyászösszejövetelekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        44.34149,
+                        35.40435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imam Qasm mosque",
+                  "text": "Această moschee găzduiește sanctuarul lui Imam Qasim, un important loc de pelerinaj.",
+                  "category": "religious",
+                  "coords": [
+                        44.398865,
+                        35.477196
+                  ]
+            },
+            {
+                  "name": "Majidiya Mosque",
+                  "text": "Această moschee istorică din 1745 este un exemplu de arhitectură otomană.",
+                  "category": "religious",
+                  "coords": [
+                        44.403477,
+                        35.473697
+                  ]
+            },
+            {
+                  "name": "Synagogue and shrine Prophet Daniel",
+                  "text": "Un sit multireligios venerat ca fiind locul de înmormântare al profetului Daniel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395574,
+                        35.468751
+                  ]
+            },
+            {
+                  "name": "North Oil Company",
+                  "text": "Un monument ce simbolizează importanța orașului Kirkuk ca centru al industriei petroliere.",
+                  "category": "historical",
+                  "coords": [
+                        44.362619,
+                        35.505343
+                  ]
+            },
+            {
+                  "name": "Qishla of Kirkuk",
+                  "text": "Această cetate otomană din secolul al XVIII-lea a servit cândva drept cazarmă militară.",
+                  "category": "fortress",
+                  "coords": [
+                        44.388529,
+                        35.471266
+                  ]
+            },
+            {
+                  "name": "Noor Al-Huda Mosque",
+                  "text": "O moschee locală din Kirkuk, cunoscută pentru cupola și minaretul său distinctive.",
+                  "category": "religious",
+                  "coords": [
+                        44.36396,
+                        35.39909
+                  ]
+            },
+            {
+                  "name": "Peace Mosque",
+                  "text": "Moscheea Păcii este un lăcaș de rugăciune modern într-o zonă rezidențială din Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.370624,
+                        35.389648
+                  ]
+            },
+            {
+                  "name": "Guests of God Mosque",
+                  "text": "O moschee comunitară primitoare, deschisă atât călătorilor, cât și localnicilor.",
+                  "category": "religious",
+                  "coords": [
+                        44.370776,
+                        35.391949
+                  ]
+            },
+            {
+                  "name": "Khadija Great Mosque",
+                  "text": "Această moschee mare din Kirkuk este numită după prima soție a Profetului.",
+                  "category": "religious",
+                  "coords": [
+                        44.41546,
+                        35.398984
+                  ]
+            },
+            {
+                  "name": "Malik ibn Anas Mosque",
+                  "text": "Numită după fondatorul școlii juridice malikite, deservește credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        44.397199,
+                        35.403063
+                  ]
+            },
+            {
+                  "name": "Al-Rayhan Mosque",
+                  "text": "O moschee de cartier apreciată pentru atmosfera sa liniștită de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        44.377469,
+                        35.381859
+                  ]
+            },
+            {
+                  "name": "Al-Hijra Mosque",
+                  "text": "Această moschee comemorează emigrarea Profetului la Medina.",
+                  "category": "religious",
+                  "coords": [
+                        44.38255,
+                        35.383994
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Sa’achy mosque",
+                  "text": "O moschee locală din Kirkuk, numită după o figură proeminentă a comunității.",
+                  "category": "religious",
+                  "coords": [
+                        44.376391,
+                        35.385819
+                  ]
+            },
+            {
+                  "name": "Al-Quddus Mosque",
+                  "text": "Un loc sacru pentru comunitatea musulmană într-o parte aglomerată a Kirkukului.",
+                  "category": "religious",
+                  "coords": [
+                        44.394408,
+                        35.424571
+                  ]
+            },
+            {
+                  "name": "Sabreen Mosque",
+                  "text": "Această moschee oferă îndrumare spirituală și spațiu de rugăciune locuitorilor din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        44.407968,
+                        35.424781
+                  ]
+            },
+            {
+                  "name": "Al-Hajj Mosque is one of the same places",
+                  "text": "Un loc de adunare important pentru credincioși în inima orașului.",
+                  "category": "religious",
+                  "coords": [
+                        44.425112,
+                        35.406671
+                  ]
+            },
+            {
+                  "name": "Kirkuk Badasht Mosque",
+                  "text": "Această moschee deservește cartierul Badasht cu serviciile sale religioase.",
+                  "category": "religious",
+                  "coords": [
+                        44.420637,
+                        35.406766
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "Un lăcaș de rugăciune local în Kirkuk pentru cele cinci rugăciuni zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        44.429641,
+                        35.412203
+                  ]
+            },
+            {
+                  "name": "Safa and Marwa Mosque",
+                  "text": "Numită după dealurile pelerinajului, este un centru al pioșeniei locale.",
+                  "category": "religious",
+                  "coords": [
+                        44.439203,
+                        35.409821
+                  ]
+            },
+            {
+                  "name": "Haji Ali Zangana Mosque",
+                  "text": "O moschee comunitară fondată de familia Zangana în Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.436878,
+                        35.414986
+                  ]
+            },
+            {
+                  "name": "Regay Bahasht Mosque",
+                  "text": "Moscheea poartă un nume care se traduce prin „Calea spre Paradis”.",
+                  "category": "religious",
+                  "coords": [
+                        44.434194,
+                        35.413992
+                  ]
+            },
+            {
+                  "name": "Imam Omar Mosque",
+                  "text": "Acest sit dedicat celui de-al doilea calif servește ca centru local de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        44.430615,
+                        35.424773
+                  ]
+            },
+            {
+                  "name": "Dar Al-Salam Mosque",
+                  "text": "„Casa Păcii” este o moschee liniștită în mijlocul orașului Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.436132,
+                        35.423518
+                  ]
+            },
+            {
+                  "name": "Blessed Al-Aqsa Mosque",
+                  "text": "Numită după sanctuarul din Ierusalim, este un loc important de închinare.",
+                  "category": "religious",
+                  "coords": [
+                        44.430287,
+                        35.426862
+                  ]
+            },
+            {
+                  "name": "Imam Bukhari Mosque",
+                  "text": "O moschee sunnită importantă din Kirkuk, care servește ca centru spiritual pentru cartierul local.",
+                  "category": "religious",
+                  "coords": [
+                        44.42916,
+                        35.433662
+                  ]
+            },
+            {
+                  "name": "Rizgari Mosque",
+                  "text": "Această moschee din Kirkuk este un punct de întâlnire religios marcat de arhitectura tradițională locală.",
+                  "category": "religious",
+                  "coords": [
+                        44.420293,
+                        35.438576
+                  ]
+            },
+            {
+                  "name": "MzGauty lateef",
+                  "text": "O casă locală de rugăciune islamică din Kirkuk, cunoscută pentru atmosfera sa simplă și pioasă.",
+                  "category": "religious",
+                  "coords": [
+                        44.416061,
+                        35.451127
+                  ]
+            },
+            {
+                  "name": "hezha masoud",
+                  "text": "O moschee de cartier din Kirkuk, care oferă credincioșilor un loc liniștit pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        44.410186,
+                        35.462409
+                  ]
+            },
+            {
+                  "name": "Ma Shaa Allah",
+                  "text": "Un lăcaș de cult musulman din Kirkuk, care se remarcă prin amplasarea sa centrală în țesutul urban.",
+                  "category": "religious",
+                  "coords": [
+                        44.407285,
+                        35.462118
+                  ]
+            },
+            {
+                  "name": "Hajj Rashid Mosque",
+                  "text": "Această moschee numită după Hajj Rashid este o parte integrantă a vieții religioase din Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.40962,
+                        35.460312
+                  ]
+            },
+            {
+                  "name": "Sheikh Fouad Al-Hantawi Tekke",
+                  "text": "Un centru tradițional sufit (tekke) din Kirkuk, utilizat pentru adunări spirituale și meditație.",
+                  "category": "religious",
+                  "coords": [
+                        44.406841,
+                        35.460656
+                  ]
+            },
+            {
+                  "name": "The shrine of Sheikh Ali al-Gaylani",
+                  "text": "Un altar venerat din Kirkuk, dedicat sfântului sufit Sheikh Ali al-Gaylani.",
+                  "category": "religious",
+                  "coords": [
+                        44.400236,
+                        35.457966
+                  ]
+            },
+            {
+                  "name": "Shorjah Mosque",
+                  "text": "O moschee în cartierul Shorjah din Kirkuk, care este un punct important pentru populația locală.",
+                  "category": "religious",
+                  "coords": [
+                        44.409835,
+                        35.454022
+                  ]
+            },
+            {
+                  "name": "Al-Maleika Mosque",
+                  "text": "Moscheea Al-Maleika este o structură distinctivă din Kirkuk, prețuită pentru importanța sa religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        44.398675,
+                        35.444015
+                  ]
+            },
+            {
+                  "name": "Said ali",
+                  "text": "Un lăcaș de rugăciune dedicat lui Said Ali în Kirkuk, care invită vizitatorii la reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        44.393176,
+                        35.448154
+                  ]
+            },
+            {
+                  "name": "Hassan Ibn Ali Mosque",
+                  "text": "O moschee numită după Hassan Ibn Ali în Kirkuk, recognoscibilă prin arhitectura sa clasică cu cupolă.",
+                  "category": "religious",
+                  "coords": [
+                        44.391519,
+                        35.444359
+                  ]
+            },
+            {
+                  "name": "Hajj Abdullah Al-Mufarji Mosque",
+                  "text": "Un lăcaș de cult islamic din Kirkuk, care joacă un rol central în cadrul celebrărilor comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        44.391922,
+                        35.440337
+                  ]
+            },
+            {
+                  "name": "Rawdat Al-Hadi Mosque",
+                  "text": "Această moschee din Kirkuk oferă un refugiu pașnic pentru rugăciune în mijlocul vieții urbane agitate.",
+                  "category": "religious",
+                  "coords": [
+                        44.375531,
+                        35.461998
+                  ]
+            },
+            {
+                  "name": "Hajj Fadel Mosque",
+                  "text": "Moscheea Hajj Fadel este un punct de reper local cunoscut în Kirkuk și un loc de adunare.",
+                  "category": "religious",
+                  "coords": [
+                        44.36437,
+                        35.41448
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Great Messenger",
+                  "text": "O husseiniya șiită din Kirkuk, utilizată pentru ceremonii religioase și adunări de doliu.",
+                  "category": "religious",
+                  "coords": [
+                        44.34149,
+                        35.40435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imam Qasm mosque",
+                  "text": "This mosque houses the shrine of Imam Qasim, a significant local pilgrimage site.",
+                  "category": "religious",
+                  "coords": [
+                        44.398865,
+                        35.477196
+                  ]
+            },
+            {
+                  "name": "Majidiya Mosque",
+                  "text": "Dating back to 1745, this historic mosque is a fine example of Ottoman-era architecture.",
+                  "category": "religious",
+                  "coords": [
+                        44.403477,
+                        35.473697
+                  ]
+            },
+            {
+                  "name": "Synagogue and shrine Prophet Daniel",
+                  "text": "A multi-faith site revered as the burial place of the Prophet Daniel.",
+                  "category": "landmark",
+                  "coords": [
+                        44.395574,
+                        35.468751
+                  ]
+            },
+            {
+                  "name": "North Oil Company",
+                  "text": "A monument symbolizing Kirkuk's importance as a center for Iraq's petroleum industry.",
+                  "category": "historical",
+                  "coords": [
+                        44.362619,
+                        35.505343
+                  ]
+            },
+            {
+                  "name": "Qishla of Kirkuk",
+                  "text": "This 18th-century Ottoman fort and citadel once served as a military barracks.",
+                  "category": "fortress",
+                  "coords": [
+                        44.388529,
+                        35.471266
+                  ]
+            },
+            {
+                  "name": "Noor Al-Huda Mosque",
+                  "text": "A local Kirkuk mosque known for its distinctive dome and soaring minaret.",
+                  "category": "religious",
+                  "coords": [
+                        44.36396,
+                        35.39909
+                  ]
+            },
+            {
+                  "name": "Peace Mosque",
+                  "text": "The Peace Mosque is a modern place of worship located in a residential area of Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.370624,
+                        35.389648
+                  ]
+            },
+            {
+                  "name": "Guests of God Mosque",
+                  "text": "A welcoming community mosque open to both travelers and local residents.",
+                  "category": "religious",
+                  "coords": [
+                        44.370776,
+                        35.391949
+                  ]
+            },
+            {
+                  "name": "Khadija Great Mosque",
+                  "text": "This large mosque in Kirkuk is named after the first wife of the Prophet.",
+                  "category": "religious",
+                  "coords": [
+                        44.41546,
+                        35.398984
+                  ]
+            },
+            {
+                  "name": "Malik ibn Anas Mosque",
+                  "text": "Named after the founder of the Maliki school, this mosque serves local worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        44.397199,
+                        35.403063
+                  ]
+            },
+            {
+                  "name": "Al-Rayhan Mosque",
+                  "text": "A neighborhood mosque appreciated for its peaceful atmosphere for daily prayer.",
+                  "category": "religious",
+                  "coords": [
+                        44.377469,
+                        35.381859
+                  ]
+            },
+            {
+                  "name": "Al-Hijra Mosque",
+                  "text": "This mosque commemorates the Prophet's migration and serves as a local gathering site.",
+                  "category": "religious",
+                  "coords": [
+                        44.38255,
+                        35.383994
+                  ]
+            },
+            {
+                  "name": "Muhammad Al-Sa’achy mosque",
+                  "text": "A local Kirkuk mosque named after a prominent community figure and benefactor.",
+                  "category": "religious",
+                  "coords": [
+                        44.376391,
+                        35.385819
+                  ]
+            },
+            {
+                  "name": "Al-Quddus Mosque",
+                  "text": "A sacred space for the Muslim community located in a busy part of Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.394408,
+                        35.424571
+                  ]
+            },
+            {
+                  "name": "Sabreen Mosque",
+                  "text": "This mosque provides spiritual guidance and prayer space for the local residents.",
+                  "category": "religious",
+                  "coords": [
+                        44.407968,
+                        35.424781
+                  ]
+            },
+            {
+                  "name": "Al-Hajj Mosque is one of the same places",
+                  "text": "A significant gathering place for worshippers located in the heart of the city.",
+                  "category": "religious",
+                  "coords": [
+                        44.425112,
+                        35.406671
+                  ]
+            },
+            {
+                  "name": "Kirkuk Badasht Mosque",
+                  "text": "This mosque serves the Badasht district of the city with its religious services.",
+                  "category": "religious",
+                  "coords": [
+                        44.420637,
+                        35.406766
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "A local place of worship in Kirkuk for the performance of the five daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        44.429641,
+                        35.412203
+                  ]
+            },
+            {
+                  "name": "Safa and Marwa Mosque",
+                  "text": "Named after the hills of the pilgrimage, it is a center of local piety.",
+                  "category": "religious",
+                  "coords": [
+                        44.439203,
+                        35.409821
+                  ]
+            },
+            {
+                  "name": "Haji Ali Zangana Mosque",
+                  "text": "A community mosque established by the Zangana family in Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.436878,
+                        35.414986
+                  ]
+            },
+            {
+                  "name": "Regay Bahasht Mosque",
+                  "text": "The mosque bears a name that translates to 'The Way to Paradise'.",
+                  "category": "religious",
+                  "coords": [
+                        44.434194,
+                        35.413992
+                  ]
+            },
+            {
+                  "name": "Imam Omar Mosque",
+                  "text": "Dedicated to the second Caliph, this site serves as a local prayer center.",
+                  "category": "religious",
+                  "coords": [
+                        44.430615,
+                        35.424773
+                  ]
+            },
+            {
+                  "name": "Dar Al-Salam Mosque",
+                  "text": "The 'House of Peace' is a serene mosque set within the urban fabric of Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.436132,
+                        35.423518
+                  ]
+            },
+            {
+                  "name": "Blessed Al-Aqsa Mosque",
+                  "text": "Named after the holy site in Jerusalem, it is a significant place of worship in the city.",
+                  "category": "religious",
+                  "coords": [
+                        44.430287,
+                        35.426862
+                  ]
+            },
+            {
+                  "name": "Imam Bukhari Mosque",
+                  "text": "A prominent Sunni mosque in Kirkuk that serves as a spiritual center for the local neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        44.42916,
+                        35.433662
+                  ]
+            },
+            {
+                  "name": "Rizgari Mosque",
+                  "text": "This mosque in Kirkuk is a notable religious gathering point featuring traditional regional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        44.420293,
+                        35.438576
+                  ]
+            },
+            {
+                  "name": "MzGauty lateef",
+                  "text": "A local Islamic prayer house in Kirkuk known for its simple and devout atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        44.416061,
+                        35.451127
+                  ]
+            },
+            {
+                  "name": "Hezha Masoud",
+                  "text": "A neighborhood mosque in Kirkuk providing a quiet space for the faithful to perform their daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        44.410186,
+                        35.462409
+                  ]
+            },
+            {
+                  "name": "Ma Shaa Allah",
+                  "text": "A Muslim place of worship in Kirkuk that stands out due to its central location within the urban fabric.",
+                  "category": "religious",
+                  "coords": [
+                        44.407285,
+                        35.462118
+                  ]
+            },
+            {
+                  "name": "Hajj Rashid Mosque",
+                  "text": "This mosque named after Hajj Rashid is an integral part of the religious life in Kirkuk.",
+                  "category": "religious",
+                  "coords": [
+                        44.40962,
+                        35.460312
+                  ]
+            },
+            {
+                  "name": "Sheikh Fouad Al-Hantawi Tekke",
+                  "text": "A traditional Sufi center (tekke) in Kirkuk used for spiritual gatherings and meditation.",
+                  "category": "religious",
+                  "coords": [
+                        44.406841,
+                        35.460656
+                  ]
+            },
+            {
+                  "name": "The shrine of Sheikh Ali al-Gaylani",
+                  "text": "A revered shrine in Kirkuk dedicated to the Sufi saint Sheikh Ali al-Gaylani.",
+                  "category": "religious",
+                  "coords": [
+                        44.400236,
+                        35.457966
+                  ]
+            },
+            {
+                  "name": "Shorjah Mosque",
+                  "text": "A mosque in the Shorjah neighborhood of Kirkuk, serving as an important hub for the local population.",
+                  "category": "religious",
+                  "coords": [
+                        44.409835,
+                        35.454022
+                  ]
+            },
+            {
+                  "name": "Al-Maleika Mosque",
+                  "text": "Al-Maleika Mosque is a distinctive structure in Kirkuk, valued for its local religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        44.398675,
+                        35.444015
+                  ]
+            },
+            {
+                  "name": "Said ali",
+                  "text": "A prayer site dedicated to Said Ali in Kirkuk, inviting visitors for quiet contemplation.",
+                  "category": "religious",
+                  "coords": [
+                        44.393176,
+                        35.448154
+                  ]
+            },
+            {
+                  "name": "Hassan Ibn Ali Mosque",
+                  "text": "A mosque named after Hassan Ibn Ali in Kirkuk, recognizable by its classic domed architecture.",
+                  "category": "religious",
+                  "coords": [
+                        44.391519,
+                        35.444359
+                  ]
+            },
+            {
+                  "name": "Hajj Abdullah Al-Mufarji Mosque",
+                  "text": "An Islamic place of worship in Kirkuk that plays a central role during communal celebrations.",
+                  "category": "religious",
+                  "coords": [
+                        44.391922,
+                        35.440337
+                  ]
+            },
+            {
+                  "name": "Rawdat Al-Hadi Mosque",
+                  "text": "This mosque in Kirkuk provides a peaceful retreat for prayer amidst the bustling city life.",
+                  "category": "religious",
+                  "coords": [
+                        44.375531,
+                        35.461998
+                  ]
+            },
+            {
+                  "name": "Hajj Fadel Mosque",
+                  "text": "Hajj Fadel Mosque is a well-known local landmark in Kirkuk and a site for community gathering.",
+                  "category": "religious",
+                  "coords": [
+                        44.36437,
+                        35.41448
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Great Messenger",
+                  "text": "A Shia Husseiniya in Kirkuk used for religious ceremonies and mourning gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        44.34149,
+                        35.40435
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-KI",
     coords: [44.3833, 35.4667],
@@ -225,7 +5247,412 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Capital of the Kirkuk Governorate in northern Iraq.", "Built on the site of ancient Arrapha, dating back to 3000 BCE.", "Home to the Baba Gurgur oil field, discovered in October 1927.", "The historic Citadel is a major landmark of ancient Mesopotamian origin.", "Features the 'eternal fire' caused by natural gas emissions.", "Strategically located 236 kilometers north of Baghdad.", "A multicultural hub with Turkmen, Kurdish, Arab, and Assyrian residents.", "Primary source of oil exported via the Kirkuk-Ceyhan pipeline."],
     }, image: "/poi-images/kirkuk-cities-v2.webp"},
   {
-    id: "najaf-cities-v2",
+    id: "najaf-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "AAA",
+                  "text": "Eine lokale Sehenswürdigkeit in der heiligen Stadt Nadschaf, die oft von Pilgern auf ihrem Weg zu den Schreinen besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.367836,
+                        32.012895
+                  ]
+            },
+            {
+                  "name": "Dubai For Iron Sale",
+                  "text": "Ein Aussichtspunkt im Industriegebiet von Nadschaf, der einen Blick auf die wirtschaftliche Aktivität der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.346205,
+                        32.035211
+                  ]
+            },
+            {
+                  "name": "Najaf203",
+                  "text": "Ein lokaler Anziehungspunkt im geschäftigen Stadtzentrum von Nadschaf.",
+                  "category": "landmark",
+                  "coords": [
+                        44.325823,
+                        32.021785
+                  ]
+            },
+            {
+                  "name": "Atya Jburi Mosque",
+                  "text": "Ein muslimisches Gebetshaus in Nadschaf, das durch seine traditionelle lokale Architektur besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.368062,
+                        32.010346
+                  ]
+            },
+            {
+                  "name": "Education portal for university services",
+                  "text": "Eine religiöse Bildungsstätte in Nadschaf, einem bedeutenden Zentrum für schiitische Gelehrsamkeit.",
+                  "category": "religious",
+                  "coords": [
+                        44.336277,
+                        32.029916
+                  ]
+            },
+            {
+                  "name": "alshakerin mosque",
+                  "text": "Eine Moschee in Nadschaf, die als ruhiger Ort der Anbetung für die örtliche Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.32817,
+                        32.03005
+                  ]
+            },
+            {
+                  "name": "Abd Al Zahraa Al Karaawi’s Hussania",
+                  "text": "Eine schiitische Versammlungshalle in Nadschaf, die für religiöse Zeremonien und Gedenkfeiern genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        44.347895,
+                        32.003342
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of the martyr Wahab Al-Talqani",
+                  "text": "Eine religiöse Begegnungsstätte in Nadschaf, gewidmet dem Gedenken an Wahab Al-Talqani.",
+                  "category": "religious",
+                  "coords": [
+                        44.36108,
+                        32.004979
+                  ]
+            },
+            {
+                  "name": "Hassan Askari Mosque",
+                  "text": "Diese Moschee in Nadschaf ist nach dem elften schiitischen Imam benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.3373,
+                        32.0595
+                  ]
+            },
+            {
+                  "name": "almakrama souq",
+                  "text": "Ein traditioneller Marktplatz in Nadschaf, bekannt für lokale Waren und täglichen Handel.",
+                  "category": "cultural",
+                  "coords": [
+                        44.326134,
+                        32.055104
+                  ]
+            },
+            {
+                  "name": "bazar center",
+                  "text": "Ein zentraler Basar in Nadschaf, der eine Vielzahl von Textilien und Alltagsgegenständen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        44.331462,
+                        32.08625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AAA",
+                  "text": "Helyi látnivaló Nedzsef szent városában, amelyet gyakran felkeresnek a szentélyek felé tartó zarándokok.",
+                  "category": "landmark",
+                  "coords": [
+                        44.367836,
+                        32.012895
+                  ]
+            },
+            {
+                  "name": "Dubai For Iron Sale",
+                  "text": "Kilátópont Nedzsef ipari övezetében, amely rálátást nyújt a város gazdasági tevékenységére.",
+                  "category": "natural",
+                  "coords": [
+                        44.346205,
+                        32.035211
+                  ]
+            },
+            {
+                  "name": "Najaf203",
+                  "text": "Helyi közösségi és szabadidős pont Nedzsef forgalmas városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.325823,
+                        32.021785
+                  ]
+            },
+            {
+                  "name": "Atya Jburi Mosque",
+                  "text": "Hagyományos helyi építészeti stílusú muszlim imaház Nedzsef városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.368062,
+                        32.010346
+                  ]
+            },
+            {
+                  "name": "Education portal for university services",
+                  "text": "Vallási oktatási központ Nedzsefben, amely a síita tudományosság egyik fő csomópontja.",
+                  "category": "religious",
+                  "coords": [
+                        44.336277,
+                        32.029916
+                  ]
+            },
+            {
+                  "name": "alshakerin mosque",
+                  "text": "Békés imádságos hely Nedzsefben, amely a helyi közösség mecseteként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        44.32817,
+                        32.03005
+                  ]
+            },
+            {
+                  "name": "Abd Al Zahraa Al Karaawi’s Hussania",
+                  "text": "Vallási szertatásoknak és megemlékezéseknek otthont adó síita közösségi ház Nedzsefben.",
+                  "category": "religious",
+                  "coords": [
+                        44.347895,
+                        32.003342
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of the martyr Wahab Al-Talqani",
+                  "text": "Wahab Al-Talqani emlékének szentelt síita vallási közösségi épület Nedzsefben.",
+                  "category": "religious",
+                  "coords": [
+                        44.36108,
+                        32.004979
+                  ]
+            },
+            {
+                  "name": "Hassan Askari Mosque",
+                  "text": "Ez a nedzsefi mecset a tizenegyedik síita imám nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        44.3373,
+                        32.0595
+                  ]
+            },
+            {
+                  "name": "almakrama souq",
+                  "text": "Hagyományos piac Nedzsefben, amely a helyi termékekről és a napi kereskedelemről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        44.326134,
+                        32.055104
+                  ]
+            },
+            {
+                  "name": "bazar center",
+                  "text": "Nedzsef központi bazárja, ahol textíliák és mindennapi cikkek széles választéka található.",
+                  "category": "cultural",
+                  "coords": [
+                        44.331462,
+                        32.08625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AAA",
+                  "text": "O atracție locală în orașul sfânt Najaf, vizitată adesea de pelerini în drumul lor spre sanctuare.",
+                  "category": "landmark",
+                  "coords": [
+                        44.367836,
+                        32.012895
+                  ]
+            },
+            {
+                  "name": "Dubai For Iron Sale",
+                  "text": "Un punct de observație în zona industrială din Najaf, oferind o privire asupra activității economice a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        44.346205,
+                        32.035211
+                  ]
+            },
+            {
+                  "name": "Najaf203",
+                  "text": "Un punct de atracție local în centrul urban animat al orașului Najaf.",
+                  "category": "landmark",
+                  "coords": [
+                        44.325823,
+                        32.021785
+                  ]
+            },
+            {
+                  "name": "Atya Jburi Mosque",
+                  "text": "O casă de rugăciune musulmană din Najaf, remarcabilă prin arhitectura sa locală tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        44.368062,
+                        32.010346
+                  ]
+            },
+            {
+                  "name": "Education portal for university services",
+                  "text": "Un sit de educație religioasă din Najaf, un centru major pentru învățătura șiită.",
+                  "category": "religious",
+                  "coords": [
+                        44.336277,
+                        32.029916
+                  ]
+            },
+            {
+                  "name": "alshakerin mosque",
+                  "text": "O moschee din Najaf, servind ca un spațiu liniștit de închinare pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        44.32817,
+                        32.03005
+                  ]
+            },
+            {
+                  "name": "Abd Al Zahraa Al Karaawi’s Hussania",
+                  "text": "O hală de adunare șiită din Najaf, utilizată pentru ceremonii religioase și comemorări.",
+                  "category": "religious",
+                  "coords": [
+                        44.347895,
+                        32.003342
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of the martyr Wahab Al-Talqani",
+                  "text": "Un spațiu de adunare religioasă din Najaf, dedicat memoriei lui Wahab Al-Talqani.",
+                  "category": "religious",
+                  "coords": [
+                        44.36108,
+                        32.004979
+                  ]
+            },
+            {
+                  "name": "Hassan Askari Mosque",
+                  "text": "Această moschee din Najaf poartă numele celui de-al unsprezecelea imam șiit.",
+                  "category": "landmark",
+                  "coords": [
+                        44.3373,
+                        32.0595
+                  ]
+            },
+            {
+                  "name": "almakrama souq",
+                  "text": "O piață tradițională din Najaf, cunoscută pentru mărfurile locale și comerțul zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        44.326134,
+                        32.055104
+                  ]
+            },
+            {
+                  "name": "bazar center",
+                  "text": "Un bazar central din Najaf, oferind o varietate de textile și articole de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        44.331462,
+                        32.08625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AAA",
+                  "text": "A local attraction in the holy city of Najaf, often visited by pilgrims on their way to the shrines.",
+                  "category": "landmark",
+                  "coords": [
+                        44.367836,
+                        32.012895
+                  ]
+            },
+            {
+                  "name": "Dubai For Iron Sale",
+                  "text": "A viewpoint in the industrial area of Najaf, offering a look at the city's economic activity.",
+                  "category": "natural",
+                  "coords": [
+                        44.346205,
+                        32.035211
+                  ]
+            },
+            {
+                  "name": "Bashar 4NeT",
+                  "text": "A local point of interest situated within the busy urban center of Najaf.",
+                  "category": "landmark",
+                  "coords": [
+                        44.325823,
+                        32.021785
+                  ]
+            },
+            {
+                  "name": "Atya Jburi Mosque",
+                  "text": "A Muslim house of prayer in Najaf, featuring traditional local architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        44.368062,
+                        32.010346
+                  ]
+            },
+            {
+                  "name": "Education portal for university services",
+                  "text": "A religious education site in Najaf, a major center for Shia Islamic scholarship.",
+                  "category": "religious",
+                  "coords": [
+                        44.336277,
+                        32.029916
+                  ]
+            },
+            {
+                  "name": "alshakerin mosque",
+                  "text": "A mosque in Najaf, serving as a peaceful place of worship for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        44.32817,
+                        32.03005
+                  ]
+            },
+            {
+                  "name": "Abd Al Zahraa Al Karaawi’s Hussania",
+                  "text": "A Shia religious assembly hall in Najaf, used for religious ceremonies and commemorations.",
+                  "category": "religious",
+                  "coords": [
+                        44.347895,
+                        32.003342
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of the martyr Wahab Al-Talqani",
+                  "text": "A religious community space in Najaf, dedicated to the memory of Wahab Al-Talqani.",
+                  "category": "religious",
+                  "coords": [
+                        44.36108,
+                        32.004979
+                  ]
+            },
+            {
+                  "name": "Hassan Askari Mosque",
+                  "text": "This mosque in Najaf is named after the eleventh Shia Imam.",
+                  "category": "landmark",
+                  "coords": [
+                        44.3373,
+                        32.0595
+                  ]
+            },
+            {
+                  "name": "almakrama souq",
+                  "text": "A traditional marketplace in Najaf, known for local goods and daily trade.",
+                  "category": "cultural",
+                  "coords": [
+                        44.326134,
+                        32.055104
+                  ]
+            },
+            {
+                  "name": "bazar center",
+                  "text": "A central bazaar in Najaf offering a wide variety of textiles and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        44.331462,
+                        32.08625
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-NA",
     coords: [44.349, 32.029],
@@ -262,7 +5689,844 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Home to the Holy Shrine of Imam Ali, a masterpiece of Islamic art.", "Established in 791 CE by the Abbasid Caliph Harun al-Rashid.", "Contains Wadi-us-Salaam, the world's largest cemetery by area.", "The Hawza in Najaf is a preeminent center for Shia scholarship.", "Located 160 km south of Baghdad on a strategic desert plateau.", "Receives over 20 million pilgrims annually during Arbaeen.", "The city operates Al-Najaf International Airport, opened in 2008.", "Serves as the seat of the Grand Ayatollah, Iraq's top cleric."],
     }, image: "/poi-images/najaf-cities-v2.webp"},
   {
-    id: "karbala-cities-v2",
+    id: "karbala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iraq haven for events",
+                  "text": "Dieses moderne Theater in Kerbela ist ein Veranstaltungsort für lokale Aufführungen und kulturelle Festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        44.022343,
+                        32.580336
+                  ]
+            },
+            {
+                  "name": "One Million",
+                  "text": "Ein beliebter lokaler Treffpunkt und kommerzieller Anziehungspunkt im geschäftigen Zentrum von Kerbela.",
+                  "category": "landmark",
+                  "coords": [
+                        44.018829,
+                        32.59646
+                  ]
+            },
+            {
+                  "name": "Al-dhareeba bridge",
+                  "text": "Diese lokale Brücke in Kerbela überspannt einen Kanal und dient als wichtiger Orientierungspunkt in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.019642,
+                        32.602709
+                  ]
+            },
+            {
+                  "name": "Janaen Karbala Waterpark",
+                  "text": "Ein moderner Freizeitkomplex mit Wasserrutschen und Becken, der Familien in Kerbela Erholung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        43.994666,
+                        32.637209
+                  ]
+            },
+            {
+                  "name": "Zoo",
+                  "text": "Dieser Tierpark in Kerbela beherbergt verschiedene regionale Tierarten in einer begrünten Anlage.",
+                  "category": "recreational",
+                  "coords": [
+                        44.026694,
+                        32.597634
+                  ]
+            },
+            {
+                  "name": "Al-Hassan Al-Mujtaba Mosque",
+                  "text": "Diese bedeutende schiitische Moschee in Kerbela ist nach Al-Hassan al-Mujtaba, dem zweiten Imam, benannt.",
+                  "category": "religious",
+                  "coords": [
+                        43.991817,
+                        32.586412
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Umm Al-Banin A",
+                  "text": "Ein religiöser Versammlungsort in Kerbela, der Umm al-Banin gewidmet ist, der Mutter von Abbas ibn Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        44.010857,
+                        32.575729
+                  ]
+            },
+            {
+                  "name": "Hosseinieh Malik Al-Malik",
+                  "text": "Dieses schiitische Versammlungshaus in Kerbela wird für Trauerzeremonien und religiöse Vorträge genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        44.016709,
+                        32.602325
+                  ]
+            },
+            {
+                  "name": "Sadat Mosque",
+                  "text": "Ein lokaler islamischer Gebetsort in Kerbela, der von Bewohnern und Pilgern für die täglichen Gebete genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012114,
+                        32.600423
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Zahra, peace be upon her",
+                  "text": "Diese Husseiniya ist nach Fatima al-Zahra benannt und dient als Zentrum für schiitische Gedenkveranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        44.008635,
+                        32.611075
+                  ]
+            },
+            {
+                  "name": "Al Umran Mosque",
+                  "text": "Eine Moschee in Kerbela, die einen ruhigen Raum für spirituelle Besinnung inmitten der heiligen Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.97045,
+                        32.631036
+                  ]
+            },
+            {
+                  "name": "Al Hur Shrine",
+                  "text": "Dieses Heiligtum ist Al-Hurr ibn Yazid al-Tamimi gewidmet, einem Märtyrer der Schlacht von Kerbela.",
+                  "category": "landmark",
+                  "coords": [
+                        43.985312,
+                        32.651278
+                  ]
+            },
+            {
+                  "name": "Al Gharib Mosque",
+                  "text": "Eine Gemeindemoschee in Kerbela, die Raum für Gebete und das Studium islamischer Lehren bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.996303,
+                        32.633709
+                  ]
+            },
+            {
+                  "name": "Mosque of revolution of Hussein",
+                  "text": "Diese Moschee in Kerbela erinnert symbolisch an die Ereignisse der irakischen Revolution von 1920.",
+                  "category": "religious",
+                  "coords": [
+                        43.990401,
+                        32.633789
+                  ]
+            },
+            {
+                  "name": "Mosque Ahl al-Bayt (peace be upon them)",
+                  "text": "Diese Moschee ist dem 'Haus des Propheten' gewidmet, einem zentralen Element der schiitischen Glaubenslehre.",
+                  "category": "landmark",
+                  "coords": [
+                        43.974698,
+                        32.626838
+                  ]
+            },
+            {
+                  "name": "What is the university?",
+                  "text": "Diese Moschee liegt nahe dem Universitätsviertel von Kerbela und dient Studenten und Anwohnern als Gebetsort.",
+                  "category": "religious",
+                  "coords": [
+                        44.00015,
+                        32.606693
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sayyid Talib",
+                  "text": "Eine religiöse Stiftung in Kerbela, die als Versammlungsort für schiitische Trauerfeiern und Bildungsveranstaltungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        43.996713,
+                        32.589548
+                  ]
+            },
+            {
+                  "name": "Mosque of the people of clothing",
+                  "text": "Diese Moschee in Kerbela ist nach dem Hadith al-Kisa benannt und dient als wichtiger Versammlungsort für Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        43.993253,
+                        32.587778
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of Imam Ali (peace be upon him)",
+                  "text": "Ein schiitisches Versammlungshaus in Kerbela, das Imam Ali gewidmet ist und während religiöser Gedenktage als Gebetszentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.001038,
+                        32.582642
+                  ]
+            },
+            {
+                  "name": "Hosseinieh Ahl al-Bayt",
+                  "text": "Dieses Husseiniyah in Kerbela ist der Familie des Propheten gewidmet und bietet Raum für rituelle Trauerfeiern.",
+                  "category": "landmark",
+                  "coords": [
+                        44.006649,
+                        32.585177
+                  ]
+            },
+            {
+                  "name": "Mosque and Husseiniya Fatwa Jihad",
+                  "text": "Ein kombiniertes religiöses Zentrum in Kerbela, das sowohl als Moschee als auch als Versammlungsstätte für Gemeindeveranstaltungen dient.",
+                  "category": "religious",
+                  "coords": [
+                        43.983709,
+                        32.57966
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sada Al-Hashimiya",
+                  "text": "Ein schiitisches Gebetshaus in Kerbela, das von der Al-Sada Al-Hashimiya-Gemeinschaft für religiöse Zeremonien genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.009857,
+                        32.57618
+                  ]
+            },
+            {
+                  "name": "home",
+                  "text": "Eine natürliche Thermalquelle in Kerbela, die lokal für ihre entspannende Wirkung geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        44.012106,
+                        32.675271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iraq haven for events",
+                  "text": "Ez a modern karbalai színház helyi előadások és kulturális fesztiválok népszerű helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        44.022343,
+                        32.580336
+                  ]
+            },
+            {
+                  "name": "One Million",
+                  "text": "Népszerű helyi találkozóhely és kereskedelmi látványosság Karbala nyüzsgő központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.018829,
+                        32.59646
+                  ]
+            },
+            {
+                  "name": "Al-dhareeba bridge",
+                  "text": "Ez a karbalai híd egy csatornán ível át, és a város egyik fontos tájékozódási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.019642,
+                        32.602709
+                  ]
+            },
+            {
+                  "name": "Janaen Karbala Waterpark",
+                  "text": "Modern szabadidős komplexum csúszdákkal és medencékkel, amely kikapcsolódást nyújt a karbalai családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        43.994666,
+                        32.637209
+                  ]
+            },
+            {
+                  "name": "Zoo",
+                  "text": "Ez a karbalai állatkert különféle regionális állatfajoknak ad otthont egy parkosított területen.",
+                  "category": "recreational",
+                  "coords": [
+                        44.026694,
+                        32.597634
+                  ]
+            },
+            {
+                  "name": "Al-Hassan Al-Mujtaba Mosque",
+                  "text": "Ez a jelentős karbalai síita mecset Al-Hassan al-Mujtabáról, a második imámról kapta a nevét.",
+                  "category": "religious",
+                  "coords": [
+                        43.991817,
+                        32.586412
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Umm Al-Banin A",
+                  "text": "Vallási gyülekezőhely Karbalában, amelyet Umm al-Baninnak, Abbász ibn Ali édesanyjának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        44.010857,
+                        32.575729
+                  ]
+            },
+            {
+                  "name": "Hosseinieh Malik Al-Malik",
+                  "text": "Ezt a karbalai síita gyülekezeti házat gyászszertartásokra és vallási előadásokra használják.",
+                  "category": "landmark",
+                  "coords": [
+                        44.016709,
+                        32.602325
+                  ]
+            },
+            {
+                  "name": "Sadat Mosque",
+                  "text": "Helyi iszlám imahely Karbalában, amelyet a lakosok és a zarándokok használnak a napi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012114,
+                        32.600423
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Zahra, peace be upon her",
+                  "text": "Ez a huszeinije Fatima al-Zahráról kapta nevét, és a síita megemlékezések központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        44.008635,
+                        32.611075
+                  ]
+            },
+            {
+                  "name": "Al Umran Mosque",
+                  "text": "Karbalai mecset, amely csendes teret biztosít a lelki elmélyüléshez a szent város szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.97045,
+                        32.631036
+                  ]
+            },
+            {
+                  "name": "Al Hur Shrine",
+                  "text": "Ez a szentély Al-Hurr ibn Yazid al-Tamiminak, a karbalai csata egyik mártírjának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        43.985312,
+                        32.651278
+                  ]
+            },
+            {
+                  "name": "Al Gharib Mosque",
+                  "text": "Közösségi mecset Karbalában, amely helyet biztosít az imádságnak és az iszlám tanítások tanulmányozásának.",
+                  "category": "landmark",
+                  "coords": [
+                        43.996303,
+                        32.633709
+                  ]
+            },
+            {
+                  "name": "Mosque of revolution of Hussein",
+                  "text": "Ez a karbalai mecset az 1920-as iraki forradalom eseményeinek állít szimbolikus emléket.",
+                  "category": "religious",
+                  "coords": [
+                        43.990401,
+                        32.633789
+                  ]
+            },
+            {
+                  "name": "Mosque Ahl al-Bayt (peace be upon them)",
+                  "text": "Ezt a mecsetet a „Próféta házának” szentelték, amely a síita hitvilág központi eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        43.974698,
+                        32.626838
+                  ]
+            },
+            {
+                  "name": "What is the university?",
+                  "text": "Ez a mecset a karbalai egyetemi negyed közelében található, és diákok, valamint helyiek imahelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        44.00015,
+                        32.606693
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sayyid Talib",
+                  "text": "Karbalai vallási alapítvány, amely síita gyászszertartások és oktatási események gyülekezőhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        43.996713,
+                        32.589548
+                  ]
+            },
+            {
+                  "name": "Mosque of the people of clothing",
+                  "text": "A köpeny népéről elnevezett mecset Kerbelában a síita hagyományok egyik fontos szakrális helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        43.993253,
+                        32.587778
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of Imam Ali (peace be upon him)",
+                  "text": "Imám Alinak szentelt síita imaház Kerbelában, amely vallási ünnepek idején fontos közösségi központ.",
+                  "category": "landmark",
+                  "coords": [
+                        44.001038,
+                        32.582642
+                  ]
+            },
+            {
+                  "name": "Hosseinieh Ahl al-Bayt",
+                  "text": "Az Ahl al-Bayt tiszteletére emelt imaház Kerbelában, amely rituális gyászszertartásoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        44.006649,
+                        32.585177
+                  ]
+            },
+            {
+                  "name": "Mosque and Husseiniya Fatwa Jihad",
+                  "text": "Kombinált vallási központ Kerbelában, amely mecsetként és közösségi gyülekezőhelyként is funkcionál.",
+                  "category": "religious",
+                  "coords": [
+                        43.983709,
+                        32.57966
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sada Al-Hashimiya",
+                  "text": "Kerbelai síita imaház, amelyet az Al-Sada Al-Hashimiya közösség használ vallási szertartásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.009857,
+                        32.57618
+                  ]
+            },
+            {
+                  "name": "home",
+                  "text": "Természetes termálforrás Kerbelában, amelyet a helyiek pihentető és frissítő hatása miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        44.012106,
+                        32.675271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iraq haven for events",
+                  "text": "Acest teatru modern din Karbala este un loc de desfășurare pentru spectacole locale și festivaluri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        44.022343,
+                        32.580336
+                  ]
+            },
+            {
+                  "name": "One Million",
+                  "text": "Un loc popular de întâlnire local și o atracție comercială în centrul animat al orașului Karbala.",
+                  "category": "landmark",
+                  "coords": [
+                        44.018829,
+                        32.59646
+                  ]
+            },
+            {
+                  "name": "Al-dhareeba bridge",
+                  "text": "Acest pod local din Karbala traversează un canal și servește ca punct important de reper în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        44.019642,
+                        32.602709
+                  ]
+            },
+            {
+                  "name": "Janaen Karbala Waterpark",
+                  "text": "Un complex modern de agrement cu tobogane și piscine, oferind recreere familiilor din Karbala.",
+                  "category": "recreational",
+                  "coords": [
+                        43.994666,
+                        32.637209
+                  ]
+            },
+            {
+                  "name": "Zoo",
+                  "text": "Această grădină zoologică din Karbala găzduiește diverse specii de animale regionale într-un cadru amenajat.",
+                  "category": "recreational",
+                  "coords": [
+                        44.026694,
+                        32.597634
+                  ]
+            },
+            {
+                  "name": "Al-Hassan Al-Mujtaba Mosque",
+                  "text": "Această moschee șiită importantă din Karbala este numită după Al-Hassan Al-Mujtaba, al doilea imam.",
+                  "category": "religious",
+                  "coords": [
+                        43.991817,
+                        32.586412
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Umm Al-Banin A",
+                  "text": "Un loc de adunare religios din Karbala dedicat lui Umm Al-Banin, mama lui Abbas ibn Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        44.010857,
+                        32.575729
+                  ]
+            },
+            {
+                  "name": "Hosseinieh Malik Al-Malik",
+                  "text": "Această casă de adunare șiită din Karbala este folosită pentru ceremonii de doliu și prelegeri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        44.016709,
+                        32.602325
+                  ]
+            },
+            {
+                  "name": "Sadat Mosque",
+                  "text": "Un lăcaș de cult islamic local din Karbala, folosit de rezidenți și pelerini pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012114,
+                        32.600423
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Zahra, peace be upon her",
+                  "text": "Această husseiniya este numită după Fatima Al-Zahra și servește drept centru pentru comemorările șiite.",
+                  "category": "religious",
+                  "coords": [
+                        44.008635,
+                        32.611075
+                  ]
+            },
+            {
+                  "name": "Al Umran Mosque",
+                  "text": "O moschee din Karbala care oferă un spațiu liniștit pentru reflecție spirituală în mijlocul orașului sfânt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.97045,
+                        32.631036
+                  ]
+            },
+            {
+                  "name": "Al Hur Shrine",
+                  "text": "Acest sanctuar este dedicat lui Al-Hurr ibn Yazid al-Tamimi, un martir al Bătăliei de la Karbala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.985312,
+                        32.651278
+                  ]
+            },
+            {
+                  "name": "Al Gharib Mosque",
+                  "text": "O moschee comunitară din Karbala care oferă spațiu pentru rugăciune și studiul învățăturilor islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        43.996303,
+                        32.633709
+                  ]
+            },
+            {
+                  "name": "Mosque of revolution of Hussein",
+                  "text": "Această moschee din Karbala comemorează simbolic evenimentele revoluției irakiene din 1920.",
+                  "category": "religious",
+                  "coords": [
+                        43.990401,
+                        32.633789
+                  ]
+            },
+            {
+                  "name": "Mosque Ahl al-Bayt (peace be upon them)",
+                  "text": "Această moschee este dedicată „Casei Profetului”, un element central al doctrinei credinței șiite.",
+                  "category": "landmark",
+                  "coords": [
+                        43.974698,
+                        32.626838
+                  ]
+            },
+            {
+                  "name": "What is the university?",
+                  "text": "Această moschee este situată lângă zona universitară din Karbala și servește ca loc de rugăciune pentru studenți și rezidenți.",
+                  "category": "religious",
+                  "coords": [
+                        44.00015,
+                        32.606693
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sayyid Talib",
+                  "text": "O fundație religioasă din Karbala care servește ca loc de adunare pentru comemorările șiite și evenimente educaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        43.996713,
+                        32.589548
+                  ]
+            },
+            {
+                  "name": "Mosque of the people of clothing",
+                  "text": "Această moschee din Karbala este numită după „Oamenii Mantiei”, fiind un loc de rugăciune semnificativ pentru pelerini.",
+                  "category": "religious",
+                  "coords": [
+                        43.993253,
+                        32.587778
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of Imam Ali (peace be upon him)",
+                  "text": "O husseiniyah în Karbala dedicată Imamului Ali, utilizată ca centru de rugăciune și adunare în timpul ceremoniilor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        44.001038,
+                        32.582642
+                  ]
+            },
+            {
+                  "name": "Hosseinieh Ahl al-Bayt",
+                  "text": "Această husseiniyah din Karbala este dedicată familiei Profetului și găzduiește ceremonii de doliu rituale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.006649,
+                        32.585177
+                  ]
+            },
+            {
+                  "name": "Mosque and Husseiniya Fatwa Jihad",
+                  "text": "Un centru religios combinat în Karbala, funcționând atât ca moschee, cât și ca loc de adunare pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        43.983709,
+                        32.57966
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sada Al-Hashimiya",
+                  "text": "O casă de rugăciune șiită din Karbala, utilizată de comunitatea Al-Sada Al-Hashimiya pentru ceremonii religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        44.009857,
+                        32.57618
+                  ]
+            },
+            {
+                  "name": "home",
+                  "text": "O sursă termală naturală în Karbala, apreciată de localnici pentru proprietățile sale relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        44.012106,
+                        32.675271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iraq haven for events",
+                  "text": "This modern theater in Karbala is a venue for local performances and cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        44.022343,
+                        32.580336
+                  ]
+            },
+            {
+                  "name": "One Million",
+                  "text": "A popular local gathering spot and commercial attraction in the bustling center of Karbala.",
+                  "category": "landmark",
+                  "coords": [
+                        44.018829,
+                        32.59646
+                  ]
+            },
+            {
+                  "name": "Al-dhareeba bridge",
+                  "text": "This local bridge in Karbala spans a canal and serves as an important landmark in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        44.019642,
+                        32.602709
+                  ]
+            },
+            {
+                  "name": "Janaen Karbala Waterpark",
+                  "text": "A modern leisure complex with water slides and pools, offering recreation for families in Karbala.",
+                  "category": "recreational",
+                  "coords": [
+                        43.994666,
+                        32.637209
+                  ]
+            },
+            {
+                  "name": "Zoo",
+                  "text": "This wildlife park in Karbala houses various regional animal species in a landscaped setting.",
+                  "category": "recreational",
+                  "coords": [
+                        44.026694,
+                        32.597634
+                  ]
+            },
+            {
+                  "name": "Al-Hassan Al-Mujtaba Mosque",
+                  "text": "This prominent Shia mosque in Karbala is named after Al-Hassan Al-Mujtaba, the second Imam.",
+                  "category": "religious",
+                  "coords": [
+                        43.991817,
+                        32.586412
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Umm Al-Banin A",
+                  "text": "A religious assembly hall in Karbala dedicated to Umm Al-Banin, the mother of Abbas ibn Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        44.010857,
+                        32.575729
+                  ]
+            },
+            {
+                  "name": "Hosseinieh Malik Al-Malik",
+                  "text": "This Shia assembly hall in Karbala is used for mourning ceremonies and religious lectures.",
+                  "category": "landmark",
+                  "coords": [
+                        44.016709,
+                        32.602325
+                  ]
+            },
+            {
+                  "name": "Sadat Mosque",
+                  "text": "A local Islamic place of worship in Karbala used by residents and pilgrims for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        44.012114,
+                        32.600423
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Zahra, peace be upon her",
+                  "text": "This husseiniya is named after Fatima Al-Zahra and serves as a center for Shia commemorations.",
+                  "category": "religious",
+                  "coords": [
+                        44.008635,
+                        32.611075
+                  ]
+            },
+            {
+                  "name": "Al Umran Mosque",
+                  "text": "A mosque in Karbala providing a quiet space for spiritual reflection in the heart of the holy city.",
+                  "category": "landmark",
+                  "coords": [
+                        43.97045,
+                        32.631036
+                  ]
+            },
+            {
+                  "name": "Al Hur Shrine",
+                  "text": "This shrine is dedicated to Al-Hurr ibn Yazid al-Tamimi, a martyr of the Battle of Karbala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.985312,
+                        32.651278
+                  ]
+            },
+            {
+                  "name": "Al Gharib Mosque",
+                  "text": "A community mosque in Karbala providing space for prayer and the study of Islamic teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        43.996303,
+                        32.633709
+                  ]
+            },
+            {
+                  "name": "Mosque of revolution of Hussein",
+                  "text": "This mosque in Karbala symbolically commemorates the events of the 1920 Iraqi Revolt.",
+                  "category": "religious",
+                  "coords": [
+                        43.990401,
+                        32.633789
+                  ]
+            },
+            {
+                  "name": "Mosque Ahl al-Bayt (peace be upon them)",
+                  "text": "This mosque is dedicated to the 'Household of the Prophet', a central element of Shia faith doctrine.",
+                  "category": "landmark",
+                  "coords": [
+                        43.974698,
+                        32.626838
+                  ]
+            },
+            {
+                  "name": "What is the university?",
+                  "text": "This mosque is located near the university area of Karbala and serves as a place of prayer for students and residents.",
+                  "category": "religious",
+                  "coords": [
+                        44.00015,
+                        32.606693
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sayyid Talib",
+                  "text": "A religious foundation in Karbala that serves as a gathering place for Shia mourning and educational events.",
+                  "category": "landmark",
+                  "coords": [
+                        43.996713,
+                        32.589548
+                  ]
+            },
+            {
+                  "name": "Mosque of the people of clothing",
+                  "text": "This mosque in Karbala is named after the People of the Cloak, serving as a significant gathering place for worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        43.993253,
+                        32.587778
+                  ]
+            },
+            {
+                  "name": "Husseiniyah of Imam Ali (peace be upon him)",
+                  "text": "A Shia assembly hall in Karbala dedicated to Imam Ali, serving as a prayer center during religious commemorations.",
+                  "category": "landmark",
+                  "coords": [
+                        44.001038,
+                        32.582642
+                  ]
+            },
+            {
+                  "name": "Hosseinieh Ahl al-Bayt",
+                  "text": "A Shia prayer hall in Karbala dedicated to the Prophet's household, hosting ritual mourning ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        44.006649,
+                        32.585177
+                  ]
+            },
+            {
+                  "name": "Mosque and Husseiniya Fatwa Jihad",
+                  "text": "A combined religious center in Karbala that serves as both a mosque and a community assembly hall.",
+                  "category": "religious",
+                  "coords": [
+                        43.983709,
+                        32.57966
+                  ]
+            },
+            {
+                  "name": "Husseiniyah Al-Sada Al-Hashimiya",
+                  "text": "A Shia prayer hall in Karbala used by the Al-Sada Al-Hashimiya community for religious ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        44.009857,
+                        32.57618
+                  ]
+            },
+            {
+                  "name": "home",
+                  "text": "A natural hot spring in Karbala, locally appreciated for its relaxing and refreshing waters.",
+                  "category": "natural",
+                  "coords": [
+                        44.012106,
+                        32.675271
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-KA",
     coords: [44.025, 32.616],
@@ -299,7 +6563,1420 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["The Arba'in walk from Najaf to Karbala is approximately 80 kilometers.", "The shrines utilize advanced cooling systems to accommodate summer crowds.", "Karbala Governorate is a leading producer of wheat in central Iraq.", "The city's international airport is designed to handle 20 million passengers.", "Home to the Al-Hussein SC, a professional multi-sports club.", "The local economy sees billions of dollars in turnover during peak seasons.", "Features the Heritage Museum of Karbala showcasing local history.", "The city is surrounded by a 'green belt' to combat desertification."],
     }, image: "/poi-images/karbala-cities-v2.webp"},
   {
-    id: "nasiriyah-cities-v2",
+    id: "nasiriyah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nasiriyah Museum",
+                  "text": "Das Museum stellt bedeutende sumerische Artefakte aus den nahegelegenen antiken Städten Ur und Eridu aus.",
+                  "category": "museum",
+                  "coords": [
+                        46.237282,
+                        31.047075
+                  ]
+            },
+            {
+                  "name": "House-Jawdat",
+                  "text": "Ein historisches befestigtes Wohnhaus in Nasiriya mit charakteristischer regionaler Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        46.2723,
+                        31.037717
+                  ]
+            },
+            {
+                  "name": "Al-Sayyid Al-Sadr Mosque",
+                  "text": "Eine schiitische Moschee in Nasiriya, die nach einem prominenten religiösen Führer benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        46.268086,
+                        31.058704
+                  ]
+            },
+            {
+                  "name": "Imam al-Baqir Mosque",
+                  "text": "Ein schiitisches Gebetshaus, das dem fünften Imam gewidmet ist und religiöse Zeremonien beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        46.249224,
+                        31.095165
+                  ]
+            },
+            {
+                  "name": "Zahra Hussein, Fadak",
+                  "text": "Eine religiöse Stätte in Nasiriya, die für schiitische Versammlungen und Gedenkfeiern genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        46.240063,
+                        31.079949
+                  ]
+            },
+            {
+                  "name": "Bab al-Murad Mosque",
+                  "text": "Eine lokale Moschee in Nasiriya, die als Zentrum für das tägliche Gebet und Gemeinschaftstreffen dient.",
+                  "category": "religious",
+                  "coords": [
+                        46.264178,
+                        31.066938
+                  ]
+            },
+            {
+                  "name": "Husseiniya Umm al-Baneen",
+                  "text": "Ein schiitisches Gemeindehaus für religiöse Trauerzeremonien und Bildungsveranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        46.280134,
+                        31.06284
+                  ]
+            },
+            {
+                  "name": "jawda mosque",
+                  "text": "Eine Moschee im Stadtteil Jawda, die ein wichtiger Treffpunkt für schiitische Gläubige ist.",
+                  "category": "religious",
+                  "coords": [
+                        46.233705,
+                        31.123135
+                  ]
+            },
+            {
+                  "name": "Amir al-Mu'minin Mosque",
+                  "text": "Diese schiitische Moschee ist Imam Ali gewidmet und zeigt traditionelle irakische Sakralarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        46.234612,
+                        31.124408
+                  ]
+            },
+            {
+                  "name": "Imam Sajjad Mosque",
+                  "text": "Ein schiitisches Gotteshaus, das dem vierten Imam Sajjad gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        46.263838,
+                        31.069037
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Ansar al-Hujjah",
+                  "text": "Eine Husseiniya in Nasiriya, die als Versammlungsort für religiöse Rituale der schiitischen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        46.270683,
+                        31.073214
+                  ]
+            },
+            {
+                  "name": "al-imam ali mosque and Husseiniya",
+                  "text": "Ein religiöser Komplex bestehend aus einer Moschee und einem schiitischen Versammlungssaal.",
+                  "category": "religious",
+                  "coords": [
+                        46.262546,
+                        31.079323
+                  ]
+            },
+            {
+                  "name": "Hussieniyat Abo Al-Fadhel AL-Abbas",
+                  "text": "Ein schiitisches Versammlungshaus, das zu Ehren von Abbas ibn Ali errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        46.240676,
+                        31.084944
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Holy Prophet (PBUH)",
+                  "text": "Eine Husseiniya, die dem Propheten Mohammed gewidmet ist und für religiöse Gedenktage genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        46.235306,
+                        31.082164
+                  ]
+            },
+            {
+                  "name": "Huseniah Bayt Abbas",
+                  "text": "Ein traditionelles schiitisches Gemeindehaus, das für religiöse Zeremonien der Familie Abbas genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        46.237197,
+                        31.077408
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Eine bedeutende Moschee in Nasiriya, die nach dem ersten schiitischen Imam benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        46.237673,
+                        31.080477
+                  ]
+            },
+            {
+                  "name": "al hajjflaeyh Mosque",
+                  "text": "Eine lokale schiitische Moschee, die als Zentrum für Gebete und religiöse Bildung dient.",
+                  "category": "religious",
+                  "coords": [
+                        46.240097,
+                        31.051713
+                  ]
+            },
+            {
+                  "name": "al-thuqlain mosque",
+                  "text": "Eine Moschee in Nasiriya, die für ihre schiitischen religiösen Programme bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        46.220323,
+                        31.036105
+                  ]
+            },
+            {
+                  "name": "al jumhaa mosque",
+                  "text": "Eine Moschee, in der regelmäßig die wichtigen Freitagsgebete der schiitischen Gemeinde stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        46.266443,
+                        31.038369
+                  ]
+            },
+            {
+                  "name": "Marouf Agha Mosque",
+                  "text": "Eine historische Moschee in Nasiriya, die einen traditionellen Baustil der Region aufweist.",
+                  "category": "religious",
+                  "coords": [
+                        46.255246,
+                        31.043824
+                  ]
+            },
+            {
+                  "name": "Sheikh Hassan Al-Khuwaibrawi Mosque",
+                  "text": "Eine religiöse Stätte in Nasiriya, die einem lokalen schiitischen Gelehrten gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        46.253304,
+                        31.047944
+                  ]
+            },
+            {
+                  "name": "Imam Hassan al-Sabt Mosque",
+                  "text": "Diese Moschee ist Imam Hassan gewidmet und ist ein Ort für schiitische Andachten.",
+                  "category": "religious",
+                  "coords": [
+                        46.25554,
+                        31.053919
+                  ]
+            },
+            {
+                  "name": "Al Mihrab Martyr Mosque",
+                  "text": "Eine Moschee, die an schiitische Märtyrer erinnert und als religiöses Denkmal dient.",
+                  "category": "religious",
+                  "coords": [
+                        46.262494,
+                        31.064791
+                  ]
+            },
+            {
+                  "name": "Imam al-Kadhim (pbuh) Husseiniya",
+                  "text": "Ein schiitisches Gemeindehaus, das dem siebten Imam gewidmet ist und für Trauerzeremonien genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        46.268402,
+                        31.060862
+                  ]
+            },
+            {
+                  "name": "Mosque of Imam Moussa al-Kadhim",
+                  "text": "Eine dem Imam Moussa al-Kadhim gewidmete Moschee, die ein Zentrum schiitischer Spiritualität ist.",
+                  "category": "religious",
+                  "coords": [
+                        46.263843,
+                        31.056782
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque (p)",
+                  "text": "Eine dem Imam Ali gewidmete Moschee, die als wichtiger Ort für schiitische Gebete dient.",
+                  "category": "religious",
+                  "coords": [
+                        46.26762,
+                        31.053757
+                  ]
+            },
+            {
+                  "name": "Al-Hassan Al-Mujtaba Husseiniya",
+                  "text": "Ein schiitischer Versammlungssaal für religiöse Feierlichkeiten und Gedenkveranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        46.270751,
+                        31.06451
+                  ]
+            },
+            {
+                  "name": "Sayyid al-Shuhada Mosque",
+                  "text": "Diese schiitische Moschee in Nasiriyah dient der lokalen Gemeinschaft als Zentrum für Gebet und religiöse Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        46.272729,
+                        31.065667
+                  ]
+            },
+            {
+                  "name": "Abo-Alfadhel Mosque",
+                  "text": "Ein lokaler islamischer Gebetsort in Nasiriyah, benannt nach Abo-Alfadhel, einer bedeutenden Figur der schiitischen Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        46.277743,
+                        31.064547
+                  ]
+            },
+            {
+                  "name": "husseniyah Abu Talib",
+                  "text": "Diese Husseiniya in Nasiriyah ist ein schiitisches Versammlungshaus für Trauerzeremonien und Gedenkfeiern.",
+                  "category": "religious",
+                  "coords": [
+                        46.281512,
+                        31.063471
+                  ]
+            },
+            {
+                  "name": "Sayed Attia's shrine",
+                  "text": "Ein lokales Heiligtum und Grabmal in Nasiriyah, das als Ort der Verehrung und des Gebets für Pilger dient.",
+                  "category": "religious",
+                  "coords": [
+                        46.284657,
+                        31.061893
+                  ]
+            },
+            {
+                  "name": "Ahmed Issa land",
+                  "text": "Ein schiitischer Gebetsort in Nasiriyah, der auf einem für religiöse Zwecke gestifteten Grundstück errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        46.285589,
+                        31.04825
+                  ]
+            },
+            {
+                  "name": "Husseiniya Umm al-Hassan (peace be upon her)",
+                  "text": "Dieses schiitische Versammlungshaus in Nasiriyah ist dem Gedenken an Umm al-Hassan gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        46.269721,
+                        31.048686
+                  ]
+            },
+            {
+                  "name": "afterlife mosque",
+                  "text": "Eine Moschee in Nasiriyah, deren Name auf die islamische Vorstellung des Jenseits und der spirituellen Vorbereitung verweist.",
+                  "category": "religious",
+                  "coords": [
+                        46.275214,
+                        31.041998
+                  ]
+            },
+            {
+                  "name": "Husseiniya of Salman Al-Mohammadi",
+                  "text": "Diese Husseiniya ist nach Salman al-Farisi benannt, einem Gefährten des Propheten, und dient als schiitisches Gemeindezentrum.",
+                  "category": "religious",
+                  "coords": [
+                        46.273516,
+                        31.04062
+                  ]
+            },
+            {
+                  "name": "Husseiniya of Sayyid Muhammad",
+                  "text": "Ein schiitischer Versammlungsort in Nasiriyah, der für religiöse Vorträge und die gemeinschaftliche Trauer genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        46.304018,
+                        30.985637
+                  ]
+            },
+            {
+                  "name": "Imams Mosque and Husseiniya",
+                  "text": "Ein kombinierter Komplex aus Moschee und Husseiniya in Nasiriyah, der sowohl für das tägliche Gebet als auch für Gedenkfeiern genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        46.307986,
+                        30.982236
+                  ]
+            },
+            {
+                  "name": "Hosseinieh hamil al-loua",
+                  "text": "Dieses religiöse Zentrum in Nasiriyah trägt den Namen 'Bannerträger' und ist ein Ort schiitischer Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        46.2932,
+                        31.00893
+                  ]
+            },
+            {
+                  "name": "Al-Hawra Mosque and Husseiniya",
+                  "text": "Diese Einrichtung in Nasiriyah vereint Moschee und Husseiniya und ist Al-Hawra Zainab gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        46.289643,
+                        31.008541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nasiriyah Museum",
+                  "text": "A múzeum jelentős sumer leleteket mutat be a közeli Ur és Eridu antik városaiból.",
+                  "category": "museum",
+                  "coords": [
+                        46.237282,
+                        31.047075
+                  ]
+            },
+            {
+                  "name": "House-Jawdat",
+                  "text": "Történelmi erődített lakóház Nasziríjában, jellegzetes regionális építészeti stílusban.",
+                  "category": "castle",
+                  "coords": [
+                        46.2723,
+                        31.037717
+                  ]
+            },
+            {
+                  "name": "Al-Sayyid Al-Sadr Mosque",
+                  "text": "Egy síita mecset Nasziríjában, amelyet egy prominens vallási vezetőről neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        46.268086,
+                        31.058704
+                  ]
+            },
+            {
+                  "name": "Imam al-Baqir Mosque",
+                  "text": "Az ötödik imámnak szentelt síita imaház, amely vallási szertatásoknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        46.249224,
+                        31.095165
+                  ]
+            },
+            {
+                  "name": "Zahra Hussein, Fadak",
+                  "text": "Vallási helyszín Nasziríjában, amelyet síita gyűlésekre és megemlékezésekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        46.240063,
+                        31.079949
+                  ]
+            },
+            {
+                  "name": "Bab al-Murad Mosque",
+                  "text": "Helyi mecset Nasziríjában, amely a napi imádságok és közösségi találkozók központja.",
+                  "category": "religious",
+                  "coords": [
+                        46.264178,
+                        31.066938
+                  ]
+            },
+            {
+                  "name": "Husseiniya Umm al-Baneen",
+                  "text": "Síita közösségi ház vallási gyászszertatások és oktatási események számára.",
+                  "category": "religious",
+                  "coords": [
+                        46.280134,
+                        31.06284
+                  ]
+            },
+            {
+                  "name": "jawda mosque",
+                  "text": "A Dzsavda negyedben található mecset, amely a síita hívők fontos találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        46.233705,
+                        31.123135
+                  ]
+            },
+            {
+                  "name": "Amir al-Mu'minin Mosque",
+                  "text": "Ez a síita mecset Ali imámnak van szentelve, és hagyományos iraki szakrális építészetet mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        46.234612,
+                        31.124408
+                  ]
+            },
+            {
+                  "name": "Imam Sajjad Mosque",
+                  "text": "Imám Szadzsadnak, a negyedik imámnak szentelt síita kegyhely.",
+                  "category": "religious",
+                  "coords": [
+                        46.263838,
+                        31.069037
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Ansar al-Hujjah",
+                  "text": "Egy huszeiníja Nasziríjában, amely a síita közösség vallási rituáléinak gyülekezőhelye.",
+                  "category": "religious",
+                  "coords": [
+                        46.270683,
+                        31.073214
+                  ]
+            },
+            {
+                  "name": "al-imam ali mosque and Husseiniya",
+                  "text": "Egy mecsetből és egy síita gyülekezeti teremből álló vallási komplexum.",
+                  "category": "religious",
+                  "coords": [
+                        46.262546,
+                        31.079323
+                  ]
+            },
+            {
+                  "name": "Hussieniyat Abo Al-Fadhel AL-Abbas",
+                  "text": "Abbasz ibn Ali tiszteletére emelt síita gyülekezeti ház.",
+                  "category": "religious",
+                  "coords": [
+                        46.240676,
+                        31.084944
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Holy Prophet (PBUH)",
+                  "text": "A Mohamed prófétának szentelt huszeiníja, amelyet vallási emléknapokon használnak.",
+                  "category": "religious",
+                  "coords": [
+                        46.235306,
+                        31.082164
+                  ]
+            },
+            {
+                  "name": "Huseniah Bayt Abbas",
+                  "text": "Hagyományos síita közösségi ház, amelyet az Abbász család vallási szertartásaihoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        46.237197,
+                        31.077408
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Nasziríja egyik jelentős mecsetje, amelyet az első síita imámról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        46.237673,
+                        31.080477
+                  ]
+            },
+            {
+                  "name": "al hajjflaeyh Mosque",
+                  "text": "Helyi síita mecset, amely az imádságok és a vallási oktatás központja.",
+                  "category": "religious",
+                  "coords": [
+                        46.240097,
+                        31.051713
+                  ]
+            },
+            {
+                  "name": "al-thuqlain mosque",
+                  "text": "Nasziríja egyik mecsetje, amely síita vallási programjairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        46.220323,
+                        31.036105
+                  ]
+            },
+            {
+                  "name": "al jumhaa mosque",
+                  "text": "Mecset, ahol rendszeresen tartják a síita közösség fontos pénteki imáit.",
+                  "category": "religious",
+                  "coords": [
+                        46.266443,
+                        31.038369
+                  ]
+            },
+            {
+                  "name": "Marouf Agha Mosque",
+                  "text": "Történelmi mecset Nasziríjában, amely a régió hagyományos építészeti stílusát tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        46.255246,
+                        31.043824
+                  ]
+            },
+            {
+                  "name": "Sheikh Hassan Al-Khuwaibrawi Mosque",
+                  "text": "Vallási helyszín Nasziríjában, amelyet egy helyi síita tudósnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        46.253304,
+                        31.047944
+                  ]
+            },
+            {
+                  "name": "Imam Hassan al-Sabt Mosque",
+                  "text": "Ezt a mecsetet Haszán imámnak szentelték, és a síita áhítat helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        46.25554,
+                        31.053919
+                  ]
+            },
+            {
+                  "name": "Al Mihrab Martyr Mosque",
+                  "text": "A síita mártírok emlékére emelt mecset, amely vallási emlékműként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        46.262494,
+                        31.064791
+                  ]
+            },
+            {
+                  "name": "Imam al-Kadhim (pbuh) Husseiniya",
+                  "text": "A hetedik imámnak szentelt síita közösségi ház, amelyet gyászszertatásokhoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        46.268402,
+                        31.060862
+                  ]
+            },
+            {
+                  "name": "Mosque of Imam Moussa al-Kadhim",
+                  "text": "Músza al-Kázim imámnak szentelt mecset, amely a síita spiritualitás központja.",
+                  "category": "religious",
+                  "coords": [
+                        46.263843,
+                        31.056782
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque (p)",
+                  "text": "Ali imámnak szentelt mecset, amely a síita imádságok fontos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        46.26762,
+                        31.053757
+                  ]
+            },
+            {
+                  "name": "Al-Hassan Al-Mujtaba Husseiniya",
+                  "text": "Síita gyülekezeti terem vallási ünnepségek és megemlékezések számára.",
+                  "category": "religious",
+                  "coords": [
+                        46.270751,
+                        31.06451
+                  ]
+            },
+            {
+                  "name": "Sayyid al-Shuhada Mosque",
+                  "text": "Ez a násziríjai síita mecset az imádság és a vallási összejövetelek központjaként szolgál a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        46.272729,
+                        31.065667
+                  ]
+            },
+            {
+                  "name": "Abo-Alfadhel Mosque",
+                  "text": "Násziríja egyik helyi iszlám imahelye, amely a síita hagyomány jelentős alakjáról, Abo-Alfadhelről kapta a nevét.",
+                  "category": "religious",
+                  "coords": [
+                        46.277743,
+                        31.064547
+                  ]
+            },
+            {
+                  "name": "husseniyah Abu Talib",
+                  "text": "Ez a násziríjai huszeinije síita gyülekezeti ház, amely gyászszertartásoknak és megemlékezéseknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        46.281512,
+                        31.063471
+                  ]
+            },
+            {
+                  "name": "Sayed Attia's shrine",
+                  "text": "Násziríja egyik helyi szentélye és sírhelye, amely a zarándokok számára a tiszteletadás és az ima helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        46.284657,
+                        31.061893
+                  ]
+            },
+            {
+                  "name": "Ahmed Issa land",
+                  "text": "Násziríjai síita imahely, amely egy vallási célokra felajánlott telken épült fel.",
+                  "category": "religious",
+                  "coords": [
+                        46.285589,
+                        31.04825
+                  ]
+            },
+            {
+                  "name": "Husseiniya Umm al-Hassan (peace be upon her)",
+                  "text": "Ez a násziríjai síita gyülekezeti ház Umm al-Hassan emlékének szentelt helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        46.269721,
+                        31.048686
+                  ]
+            },
+            {
+                  "name": "afterlife mosque",
+                  "text": "Násziríjai mecset, amelynek neve az iszlám túlvilág-felfogására és a lelki felkészülésre utal.",
+                  "category": "religious",
+                  "coords": [
+                        46.275214,
+                        31.041998
+                  ]
+            },
+            {
+                  "name": "Husseiniya of Salman Al-Mohammadi",
+                  "text": "Ez a huszeinije Salman al-Farisi próféta-társról kapta nevét, és síita közösségi központként működik.",
+                  "category": "religious",
+                  "coords": [
+                        46.273516,
+                        31.04062
+                  ]
+            },
+            {
+                  "name": "Husseiniya of Sayyid Muhammad",
+                  "text": "Násziríjai síita gyülekezeti hely, amelyet vallási előadásokra és közösségi gyászszertartásokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        46.304018,
+                        30.985637
+                  ]
+            },
+            {
+                  "name": "Imams Mosque and Husseiniya",
+                  "text": "Násziríjai mecset és huszeinije komplexum, amely mind a napi imáknak, mind a megemlékezéseknek helyet ad.",
+                  "category": "religious",
+                  "coords": [
+                        46.307986,
+                        30.982236
+                  ]
+            },
+            {
+                  "name": "Hosseinieh hamil al-loua",
+                  "text": "Ez a násziríjai vallási központ a „Zászlóvivő” nevet viseli, és a síita áhítat fontos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        46.2932,
+                        31.00893
+                  ]
+            },
+            {
+                  "name": "Al-Hawra Mosque and Husseiniya",
+                  "text": "Ez a násziríjai intézmény mecsetként és huszeinijeként is működik, és Al-Hawra Zainab emlékét őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        46.289643,
+                        31.008541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nasiriyah Museum",
+                  "text": "Muzeul expune artefacte sumeriene importante provenite din orașele antice învecinate Ur și Eridu.",
+                  "category": "museum",
+                  "coords": [
+                        46.237282,
+                        31.047075
+                  ]
+            },
+            {
+                  "name": "House-Jawdat",
+                  "text": "O casă rezidențială istorică fortificată din Nasiriyah, cu arhitectură regională caracteristică.",
+                  "category": "castle",
+                  "coords": [
+                        46.2723,
+                        31.037717
+                  ]
+            },
+            {
+                  "name": "Al-Sayyid Al-Sadr Mosque",
+                  "text": "O moschee șiită din Nasiriyah, numită după un lider religios proeminent.",
+                  "category": "religious",
+                  "coords": [
+                        46.268086,
+                        31.058704
+                  ]
+            },
+            {
+                  "name": "Imam al-Baqir Mosque",
+                  "text": "O casă de rugăciune șiită dedicată celui de-al cincilea imam, care găzduiește ceremonii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        46.249224,
+                        31.095165
+                  ]
+            },
+            {
+                  "name": "Zahra Hussein, Fadak",
+                  "text": "Un sit religios din Nasiriyah utilizat pentru adunări șiite și comemorări.",
+                  "category": "religious",
+                  "coords": [
+                        46.240063,
+                        31.079949
+                  ]
+            },
+            {
+                  "name": "Bab al-Murad Mosque",
+                  "text": "O moschee locală din Nasiriyah, care servește drept centru pentru rugăciunile zilnice și întâlnirile comunității.",
+                  "category": "religious",
+                  "coords": [
+                        46.264178,
+                        31.066938
+                  ]
+            },
+            {
+                  "name": "Husseiniya Umm al-Baneen",
+                  "text": "O casă comunitară șiită pentru ceremonii religioase de doliu și evenimente educaționale.",
+                  "category": "religious",
+                  "coords": [
+                        46.280134,
+                        31.06284
+                  ]
+            },
+            {
+                  "name": "jawda mosque",
+                  "text": "O moschee din cartierul Jawda, fiind un punct important de întâlnire pentru credincioșii șiți.",
+                  "category": "religious",
+                  "coords": [
+                        46.233705,
+                        31.123135
+                  ]
+            },
+            {
+                  "name": "Amir al-Mu'minin Mosque",
+                  "text": "Această moschee șiită este dedicată imamului Ali și prezintă arhitectură sacră tradițională irakiană.",
+                  "category": "religious",
+                  "coords": [
+                        46.234612,
+                        31.124408
+                  ]
+            },
+            {
+                  "name": "Imam Sajjad Mosque",
+                  "text": "Un lăcaș de cult șiit dedicat celui de-al patrulea imam, Sajjad.",
+                  "category": "religious",
+                  "coords": [
+                        46.263838,
+                        31.069037
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Ansar al-Hujjah",
+                  "text": "O husseiniya în Nasiriyah, care servește ca loc de adunare pentru ritualurile religioase ale comunității șiite.",
+                  "category": "religious",
+                  "coords": [
+                        46.270683,
+                        31.073214
+                  ]
+            },
+            {
+                  "name": "al-imam ali mosque and Husseiniya",
+                  "text": "Un complex religios format dintr-o moschee și o sală de adunare șiită.",
+                  "category": "religious",
+                  "coords": [
+                        46.262546,
+                        31.079323
+                  ]
+            },
+            {
+                  "name": "Hussieniyat Abo Al-Fadhel AL-Abbas",
+                  "text": "O casă de adunare șiită ridicată în onoarea lui Abbas ibn Ali.",
+                  "category": "religious",
+                  "coords": [
+                        46.240676,
+                        31.084944
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Holy Prophet (PBUH)",
+                  "text": "O husseiniya dedicată Profetului Mahomed, utilizată pentru zilele de comemorare religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        46.235306,
+                        31.082164
+                  ]
+            },
+            {
+                  "name": "Huseniah Bayt Abbas",
+                  "text": "O casă comunitară șiită tradițională utilizată pentru ceremoniile religioase ale familiei Abbas.",
+                  "category": "religious",
+                  "coords": [
+                        46.237197,
+                        31.077408
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "O moschee importantă din Nasiriyah, numită după primul imam șiit.",
+                  "category": "religious",
+                  "coords": [
+                        46.237673,
+                        31.080477
+                  ]
+            },
+            {
+                  "name": "al hajjflaeyh Mosque",
+                  "text": "O moschee șiită locală care servește drept centru pentru rugăciuni și educație religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        46.240097,
+                        31.051713
+                  ]
+            },
+            {
+                  "name": "al-thuqlain mosque",
+                  "text": "O moschee din Nasiriyah cunoscută pentru programele sale religioase șiite.",
+                  "category": "religious",
+                  "coords": [
+                        46.220323,
+                        31.036105
+                  ]
+            },
+            {
+                  "name": "al jumhaa mosque",
+                  "text": "O moschee unde se desfășoară în mod regulat rugăciunile importante de vineri ale comunității șiite.",
+                  "category": "religious",
+                  "coords": [
+                        46.266443,
+                        31.038369
+                  ]
+            },
+            {
+                  "name": "Marouf Agha Mosque",
+                  "text": "O moschee istorică din Nasiriyah, care reflectă stilul arhitectural tradițional al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        46.255246,
+                        31.043824
+                  ]
+            },
+            {
+                  "name": "Sheikh Hassan Al-Khuwaibrawi Mosque",
+                  "text": "Un sit religios din Nasiriyah dedicat unui savant șiit local.",
+                  "category": "religious",
+                  "coords": [
+                        46.253304,
+                        31.047944
+                  ]
+            },
+            {
+                  "name": "Imam Hassan al-Sabt Mosque",
+                  "text": "Această moschee este dedicată imamului Hassan și este un loc de devoțiune șiită.",
+                  "category": "religious",
+                  "coords": [
+                        46.25554,
+                        31.053919
+                  ]
+            },
+            {
+                  "name": "Al Mihrab Martyr Mosque",
+                  "text": "O moschee care comemorează martirii șiți, servind ca monument religios.",
+                  "category": "religious",
+                  "coords": [
+                        46.262494,
+                        31.064791
+                  ]
+            },
+            {
+                  "name": "Imam al-Kadhim (pbuh) Husseiniya",
+                  "text": "O casă comunitară șiită dedicată celui de-al șaptelea imam, utilizată pentru ceremonii de doliu.",
+                  "category": "religious",
+                  "coords": [
+                        46.268402,
+                        31.060862
+                  ]
+            },
+            {
+                  "name": "Mosque of Imam Moussa al-Kadhim",
+                  "text": "O moschee dedicată imamului Moussa al-Kadhim, fiind un centru al spiritualității șiite.",
+                  "category": "religious",
+                  "coords": [
+                        46.263843,
+                        31.056782
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque (p)",
+                  "text": "O moschee dedicată imamului Ali, servind ca loc important pentru rugăciunile șiite.",
+                  "category": "religious",
+                  "coords": [
+                        46.26762,
+                        31.053757
+                  ]
+            },
+            {
+                  "name": "Al-Hassan Al-Mujtaba Husseiniya",
+                  "text": "O sală de adunare șiită pentru celebrări religioase și evenimente comemorative.",
+                  "category": "religious",
+                  "coords": [
+                        46.270751,
+                        31.06451
+                  ]
+            },
+            {
+                  "name": "Sayyid al-Shuhada Mosque",
+                  "text": "Această moschee șiită din Nasiriyah servește comunității locale ca centru pentru rugăciune și adunări religioase.",
+                  "category": "religious",
+                  "coords": [
+                        46.272729,
+                        31.065667
+                  ]
+            },
+            {
+                  "name": "Abo-Alfadhel Mosque",
+                  "text": "Un lăcaș de cult islamic local din Nasiriyah, numit după Abo-Alfadhel, o figură importantă în tradiția șiită.",
+                  "category": "religious",
+                  "coords": [
+                        46.277743,
+                        31.064547
+                  ]
+            },
+            {
+                  "name": "husseniyah Abu Talib",
+                  "text": "Această husseiniya din Nasiriyah este o casă de adunare șiită pentru ceremonii de doliu și comemorări.",
+                  "category": "religious",
+                  "coords": [
+                        46.281512,
+                        31.063471
+                  ]
+            },
+            {
+                  "name": "Sayed Attia's shrine",
+                  "text": "Un sanctuar și mormânt local din Nasiriyah, care servește ca loc de venerație și rugăciune pentru pelerini.",
+                  "category": "religious",
+                  "coords": [
+                        46.284657,
+                        31.061893
+                  ]
+            },
+            {
+                  "name": "Ahmed Issa land",
+                  "text": "Un loc de rugăciune șiit din Nasiriyah, construit pe un teren donat în scopuri religioase.",
+                  "category": "religious",
+                  "coords": [
+                        46.285589,
+                        31.04825
+                  ]
+            },
+            {
+                  "name": "Husseiniya Umm al-Hassan (peace be upon her)",
+                  "text": "Această casă de adunare șiită din Nasiriyah este un spațiu dedicat comemorării lui Umm al-Hassan.",
+                  "category": "religious",
+                  "coords": [
+                        46.269721,
+                        31.048686
+                  ]
+            },
+            {
+                  "name": "afterlife mosque",
+                  "text": "O moschee din Nasiriyah al cărei nume face referire la conceptul islamic al vieții de apoi și al pregătirii spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        46.275214,
+                        31.041998
+                  ]
+            },
+            {
+                  "name": "Husseiniya of Salman Al-Mohammadi",
+                  "text": "Această husseiniya este numită după Salman al-Farisi, un companion al profetului, și servește drept centru comunitar șiit.",
+                  "category": "religious",
+                  "coords": [
+                        46.273516,
+                        31.04062
+                  ]
+            },
+            {
+                  "name": "Husseiniya of Sayyid Muhammad",
+                  "text": "Un loc de adunare șiit din Nasiriyah, utilizat pentru prelegeri religioase și doliu comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        46.304018,
+                        30.985637
+                  ]
+            },
+            {
+                  "name": "Imams Mosque and Husseiniya",
+                  "text": "Un complex combinat de moschee și husseiniya din Nasiriyah, folosit atât pentru rugăciunile zilnice, cât și pentru comemorări.",
+                  "category": "religious",
+                  "coords": [
+                        46.307986,
+                        30.982236
+                  ]
+            },
+            {
+                  "name": "Hosseinieh hamil al-loua",
+                  "text": "Acest centru religios din Nasiriyah poartă numele de „Purtătorul de stindard” și este un loc de devoțiune șiită.",
+                  "category": "religious",
+                  "coords": [
+                        46.2932,
+                        31.00893
+                  ]
+            },
+            {
+                  "name": "Al-Hawra Mosque and Husseiniya",
+                  "text": "Această facilitate din Nasiriyah combină o moschee și o husseiniya, fiind dedicată lui Al-Hawra Zainab.",
+                  "category": "religious",
+                  "coords": [
+                        46.289643,
+                        31.008541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nasiriyah Museum",
+                  "text": "The museum exhibits significant Sumerian artifacts from the nearby ancient cities of Ur and Eridu.",
+                  "category": "museum",
+                  "coords": [
+                        46.237282,
+                        31.047075
+                  ]
+            },
+            {
+                  "name": "House-Jawdat",
+                  "text": "A historical fortified residential house in Nasiriyah with characteristic regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        46.2723,
+                        31.037717
+                  ]
+            },
+            {
+                  "name": "Al-Sayyid Al-Sadr Mosque",
+                  "text": "A Shia mosque in Nasiriyah named after a prominent religious leader.",
+                  "category": "religious",
+                  "coords": [
+                        46.268086,
+                        31.058704
+                  ]
+            },
+            {
+                  "name": "Imam al-Baqir Mosque",
+                  "text": "A Shia prayer house dedicated to the fifth Imam, hosting religious ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        46.249224,
+                        31.095165
+                  ]
+            },
+            {
+                  "name": "Zahra Hussein, Fadak",
+                  "text": "A religious site in Nasiriyah used for Shia gatherings and commemorations.",
+                  "category": "religious",
+                  "coords": [
+                        46.240063,
+                        31.079949
+                  ]
+            },
+            {
+                  "name": "Bab al-Murad Mosque",
+                  "text": "A local mosque in Nasiriyah serving as a center for daily prayers and community meetings.",
+                  "category": "religious",
+                  "coords": [
+                        46.264178,
+                        31.066938
+                  ]
+            },
+            {
+                  "name": "Husseiniya Umm al-Baneen",
+                  "text": "A Shia community hall for religious mourning ceremonies and educational events.",
+                  "category": "religious",
+                  "coords": [
+                        46.280134,
+                        31.06284
+                  ]
+            },
+            {
+                  "name": "jawda mosque",
+                  "text": "A mosque in the Jawda neighborhood, serving as an important meeting point for Shia worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        46.233705,
+                        31.123135
+                  ]
+            },
+            {
+                  "name": "Amir al-Mu'minin Mosque",
+                  "text": "This Shia mosque is dedicated to Imam Ali and features traditional Iraqi sacred architecture.",
+                  "category": "religious",
+                  "coords": [
+                        46.234612,
+                        31.124408
+                  ]
+            },
+            {
+                  "name": "Imam Sajjad Mosque",
+                  "text": "A Shia place of worship dedicated to the fourth Imam, Sajjad.",
+                  "category": "religious",
+                  "coords": [
+                        46.263838,
+                        31.069037
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Ansar al-Hujjah",
+                  "text": "A Husseiniya in Nasiriyah serving as a gathering place for religious rituals of the Shia community.",
+                  "category": "religious",
+                  "coords": [
+                        46.270683,
+                        31.073214
+                  ]
+            },
+            {
+                  "name": "al-imam ali mosque and Husseiniya",
+                  "text": "A religious complex consisting of a mosque and a Shia assembly hall.",
+                  "category": "religious",
+                  "coords": [
+                        46.262546,
+                        31.079323
+                  ]
+            },
+            {
+                  "name": "Hussieniyat Abo Al-Fadhel AL-Abbas",
+                  "text": "A Shia assembly house erected in honor of Abbas ibn Ali.",
+                  "category": "religious",
+                  "coords": [
+                        46.240676,
+                        31.084944
+                  ]
+            },
+            {
+                  "name": "Husseiniya of the Holy Prophet (PBUH)",
+                  "text": "A Husseiniya dedicated to the Holy Prophet, used for religious commemoration days.",
+                  "category": "religious",
+                  "coords": [
+                        46.235306,
+                        31.082164
+                  ]
+            },
+            {
+                  "name": "Huseniah Bayt Abbas",
+                  "text": "A traditional Shia community hall used for religious ceremonies of the Abbas family.",
+                  "category": "religious",
+                  "coords": [
+                        46.237197,
+                        31.077408
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "A significant mosque in Nasiriyah named after the first Shia Imam.",
+                  "category": "religious",
+                  "coords": [
+                        46.237673,
+                        31.080477
+                  ]
+            },
+            {
+                  "name": "al hajjflaeyh Mosque",
+                  "text": "A local Shia mosque serving as a center for prayers and religious education.",
+                  "category": "religious",
+                  "coords": [
+                        46.240097,
+                        31.051713
+                  ]
+            },
+            {
+                  "name": "al-thuqlain mosque",
+                  "text": "A mosque in Nasiriyah known for its Shia religious programs.",
+                  "category": "religious",
+                  "coords": [
+                        46.220323,
+                        31.036105
+                  ]
+            },
+            {
+                  "name": "al jumhaa mosque",
+                  "text": "A mosque where the important Friday prayers of the Shia community are regularly held.",
+                  "category": "religious",
+                  "coords": [
+                        46.266443,
+                        31.038369
+                  ]
+            },
+            {
+                  "name": "Marouf Agha Mosque",
+                  "text": "A historical mosque in Nasiriyah reflecting the traditional architectural style of the region.",
+                  "category": "religious",
+                  "coords": [
+                        46.255246,
+                        31.043824
+                  ]
+            },
+            {
+                  "name": "Sheikh Hassan Al-Khuwaibrawi Mosque",
+                  "text": "A religious site in Nasiriyah dedicated to a local Shia scholar.",
+                  "category": "religious",
+                  "coords": [
+                        46.253304,
+                        31.047944
+                  ]
+            },
+            {
+                  "name": "Imam Hassan al-Sabt Mosque",
+                  "text": "This mosque is dedicated to Imam Hassan and is a site for Shia devotion.",
+                  "category": "religious",
+                  "coords": [
+                        46.25554,
+                        31.053919
+                  ]
+            },
+            {
+                  "name": "Al Mihrab Martyr Mosque",
+                  "text": "A mosque commemorating Shia martyrs, serving as a religious monument.",
+                  "category": "religious",
+                  "coords": [
+                        46.262494,
+                        31.064791
+                  ]
+            },
+            {
+                  "name": "Imam al-Kadhim (pbuh) Husseiniya",
+                  "text": "A Shia community hall dedicated to the seventh Imam, used for mourning ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        46.268402,
+                        31.060862
+                  ]
+            },
+            {
+                  "name": "Mosque of Imam Moussa al-Kadhim",
+                  "text": "A mosque dedicated to Imam Moussa al-Kadhim, serving as a center of Shia spirituality.",
+                  "category": "religious",
+                  "coords": [
+                        46.263843,
+                        31.056782
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque (p)",
+                  "text": "A mosque dedicated to Imam Ali, serving as an important site for Shia prayers.",
+                  "category": "religious",
+                  "coords": [
+                        46.26762,
+                        31.053757
+                  ]
+            },
+            {
+                  "name": "Al-Hassan Al-Mujtaba Husseiniya",
+                  "text": "A Shia assembly hall for religious celebrations and commemorative events.",
+                  "category": "religious",
+                  "coords": [
+                        46.270751,
+                        31.06451
+                  ]
+            },
+            {
+                  "name": "Sayyid al-Shuhada Mosque",
+                  "text": "This Shia mosque in Nasiriyah serves the local community as a center for prayer and religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        46.272729,
+                        31.065667
+                  ]
+            },
+            {
+                  "name": "Abo-Alfadhel Mosque",
+                  "text": "A local Islamic place of worship in Nasiriyah named after Abo-Alfadhel, a significant figure in Shia tradition.",
+                  "category": "religious",
+                  "coords": [
+                        46.277743,
+                        31.064547
+                  ]
+            },
+            {
+                  "name": "husseniyah Abu Talib",
+                  "text": "This husseiniya in Nasiriyah is a Shia assembly house for mourning ceremonies and commemorations.",
+                  "category": "religious",
+                  "coords": [
+                        46.281512,
+                        31.063471
+                  ]
+            },
+            {
+                  "name": "Sayed Attia's shrine",
+                  "text": "A local shrine and tomb in Nasiriyah that serves as a place of veneration and prayer for pilgrims.",
+                  "category": "religious",
+                  "coords": [
+                        46.284657,
+                        31.061893
+                  ]
+            },
+            {
+                  "name": "Ahmed Issa land",
+                  "text": "A Shia place of worship in Nasiriyah built on land dedicated for religious purposes.",
+                  "category": "religious",
+                  "coords": [
+                        46.285589,
+                        31.04825
+                  ]
+            },
+            {
+                  "name": "Husseiniya Umm al-Hassan (peace be upon her)",
+                  "text": "This Shia assembly house in Nasiriyah is a dedicated space for the commemoration of Umm al-Hassan.",
+                  "category": "religious",
+                  "coords": [
+                        46.269721,
+                        31.048686
+                  ]
+            },
+            {
+                  "name": "afterlife mosque",
+                  "text": "A mosque in Nasiriyah whose name refers to the Islamic concept of the afterlife and spiritual preparation.",
+                  "category": "religious",
+                  "coords": [
+                        46.275214,
+                        31.041998
+                  ]
+            },
+            {
+                  "name": "Husseiniya of Salman Al-Mohammadi",
+                  "text": "This husseiniya is named after Salman al-Farisi, a companion of the Prophet, and serves as a Shia community center.",
+                  "category": "religious",
+                  "coords": [
+                        46.273516,
+                        31.04062
+                  ]
+            },
+            {
+                  "name": "Husseiniya of Sayyid Muhammad",
+                  "text": "A Shia assembly place in Nasiriyah used for religious lectures and communal mourning.",
+                  "category": "religious",
+                  "coords": [
+                        46.304018,
+                        30.985637
+                  ]
+            },
+            {
+                  "name": "Imams Mosque and Husseiniya",
+                  "text": "A combined mosque and husseiniya complex in Nasiriyah used for both daily prayers and commemorations.",
+                  "category": "religious",
+                  "coords": [
+                        46.307986,
+                        30.982236
+                  ]
+            },
+            {
+                  "name": "Hosseinieh hamil al-loua",
+                  "text": "This religious center in Nasiriyah bears the name 'The Banner Bearer' and is a site of Shia devotion.",
+                  "category": "religious",
+                  "coords": [
+                        46.2932,
+                        31.00893
+                  ]
+            },
+            {
+                  "name": "Al-Hawra Mosque and Husseiniya",
+                  "text": "This facility in Nasiriyah combines a mosque and a husseiniya, dedicated to the memory of Al-Hawra Zainab.",
+                  "category": "religious",
+                  "coords": [
+                        46.289643,
+                        31.008541
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-DQ",
     coords: [46.257, 31.058],
@@ -336,7 +8013,412 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Capital of Dhi Qar Governorate, founded on the Euphrates in 1872.", "Located only 15 km from the ancient Great Ziggurat of Ur.", "Acts as the main gateway to the Mesopotamian Marshes (Ahwar).", "Home to the Nasiriyah Thermal Power Station and an oil refinery.", "A major transit point on the Baghdad-Basra railway line.", "Often called the 'Athens of Iraq' for its rich intellectual life.", "Founded by the Muntafiq tribal confederation in the 19th century.", "Center for the University of Dhi Qar, established in 2002."],
     }, image: "/poi-images/nasiriyah-cities-v2.webp"},
   {
-    id: "amarah-cities-v2",
+    id: "amarah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "River sidewalk",
+                  "text": "Ein begrünter Uferweg in Amarah, der Spaziergängern einen weiten Blick über den Tigris bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        47.147707,
+                        31.833372
+                  ]
+            },
+            {
+                  "name": "Umm al-Ahzan Church",
+                  "text": "Diese syrisch-katholische Kirche, bekannt als Mutter der Leiden, ist eines der ältesten christlichen Gotteshäuser der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        47.15238,
+                        31.846563
+                  ]
+            },
+            {
+                  "name": "N00+0",
+                  "text": "Ein markantes lokales Denkmal in Amarah, das als Orientierungspunkt im Stadtzentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        47.04932,
+                        31.846481
+                  ]
+            },
+            {
+                  "name": "Maysan Entertainment City",
+                  "text": "Ein beliebter Freizeitpark in Amarah mit Fahrgeschäften und Unterhaltungsangeboten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        47.162168,
+                        31.843262
+                  ]
+            },
+            {
+                  "name": "Maysan Oil Company",
+                  "text": "Ein Gebetsraum auf dem Gelände des staatlichen Ölunternehmens, der den Mitarbeitern und Besuchern offensteht.",
+                  "category": "religious",
+                  "coords": [
+                        47.161282,
+                        31.821751
+                  ]
+            },
+            {
+                  "name": "Mosque of the Apostle",
+                  "text": "Diese im Stadtzentrum von Amarah gelegene Moschee ist dem Propheten gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        47.15821,
+                        31.833566
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "Eine katholische Kirche in Amarah, die dem Heiligen Josef gewidmet ist und die lokale christliche Gemeinde betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        47.151384,
+                        31.84679
+                  ]
+            },
+            {
+                  "name": "Mr.Ali mr.jaafer almosowi",
+                  "text": "Ein schiitischer Schrein in Amarah, der einem lokalen religiösen Gelehrten gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        47.200298,
+                        31.777625
+                  ]
+            },
+            {
+                  "name": "Alwaqf Al-Sheai",
+                  "text": "Ein Verwaltungsgebäude und Gebetszentrum der schiitischen Glaubensstiftung in Amarah.",
+                  "category": "landmark",
+                  "coords": [
+                        47.143338,
+                        31.848844
+                  ]
+            },
+            {
+                  "name": "Al Amara Fruit and Vegetable Central Market",
+                  "text": "Der zentrale Großmarkt von Amara, auf dem täglich frisches Obst und Gemüse aus der Region gehandelt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        47.09919,
+                        31.83273
+                  ]
+            },
+            {
+                  "name": "Market Of Hussein District",
+                  "text": "Ein lebhafter Stadtteilmarkt im Hussein-Distrikt von Amarah, bekannt für seine lokalen Lebensmittelstände.",
+                  "category": "cultural",
+                  "coords": [
+                        47.157492,
+                        31.83474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "River sidewalk",
+                  "text": "Parkosított vízparti sétány Amarában, amely tágas kilátást nyújt a Tigris folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        47.147707,
+                        31.833372
+                  ]
+            },
+            {
+                  "name": "Umm al-Ahzan Church",
+                  "text": "Ez a szír katolikus templom, a Fájdalmas Anya, a város egyik legrégebbi keresztény imaháza.",
+                  "category": "religious",
+                  "coords": [
+                        47.15238,
+                        31.846563
+                  ]
+            },
+            {
+                  "name": "N00+0",
+                  "text": "Jellegzetes helyi emlékmű Amarában, amely tájékozódási pontként szolgál a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        47.04932,
+                        31.846481
+                  ]
+            },
+            {
+                  "name": "Maysan Entertainment City",
+                  "text": "Népszerű szabadidőpark Amarában, amely játékokkal és szórakozási lehetőségekkel várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        47.162168,
+                        31.843262
+                  ]
+            },
+            {
+                  "name": "Maysan Oil Company",
+                  "text": "Az állami olajtársaság területén található imaterem, amely a dolgozók és a látogatók számára áll nyitva.",
+                  "category": "religious",
+                  "coords": [
+                        47.161282,
+                        31.821751
+                  ]
+            },
+            {
+                  "name": "Mosque of the Apostle",
+                  "text": "Ez az Amara városközpontjában található mecset a Próféta tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        47.15821,
+                        31.833566
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "Szent Józsefnek szentelt katolikus templom Amarában, amely a helyi keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        47.151384,
+                        31.84679
+                  ]
+            },
+            {
+                  "name": "Mr.Ali mr.jaafer almosowi",
+                  "text": "Síita kegyhely Amarában, amelyet egy helyi vallástudós emlékének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        47.200298,
+                        31.777625
+                  ]
+            },
+            {
+                  "name": "Alwaqf Al-Sheai",
+                  "text": "A síita vallási alapítvány adminisztratív épülete és imaközpontja Amarában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.143338,
+                        31.848844
+                  ]
+            },
+            {
+                  "name": "Al Amara Fruit and Vegetable Central Market",
+                  "text": "Amara központi nagykereskedelmi piaca, ahol naponta friss helyi gyümölcsöt és zöldséget árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        47.09919,
+                        31.83273
+                  ]
+            },
+            {
+                  "name": "Market Of Hussein District",
+                  "text": "Nyüzsgő piaci negyed Amara Huszein kerületében, amely helyi élelmiszerstandjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        47.157492,
+                        31.83474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "River sidewalk",
+                  "text": "O faleză amenajată în Amarah, care oferă trecătorilor o vedere panoramică asupra fluviului Tigru.",
+                  "category": "landmark",
+                  "coords": [
+                        47.147707,
+                        31.833372
+                  ]
+            },
+            {
+                  "name": "Umm al-Ahzan Church",
+                  "text": "Această biserică siriacă catolică, cunoscută sub numele de Mama Îndurerată, este unul dintre cele mai vechi lăcașuri de cult creștine din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        47.15238,
+                        31.846563
+                  ]
+            },
+            {
+                  "name": "N00+0",
+                  "text": "Un monument local distinctiv în Amarah, care servește ca punct de reper în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        47.04932,
+                        31.846481
+                  ]
+            },
+            {
+                  "name": "Maysan Entertainment City",
+                  "text": "Un parc de distracții popular în Amarah, cu atracții și opțiuni de divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        47.162168,
+                        31.843262
+                  ]
+            },
+            {
+                  "name": "Maysan Oil Company",
+                  "text": "O sală de rugăciune situată în incinta companiei petroliere de stat, deschisă angajaților și vizitatorilor.",
+                  "category": "religious",
+                  "coords": [
+                        47.161282,
+                        31.821751
+                  ]
+            },
+            {
+                  "name": "Mosque of the Apostle",
+                  "text": "Această moschee situată în centrul orașului Amarah este dedicată Profetului.",
+                  "category": "religious",
+                  "coords": [
+                        47.15821,
+                        31.833566
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "O biserică catolică din Amarah, dedicată Sfântului Iosif, care deservește comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        47.151384,
+                        31.84679
+                  ]
+            },
+            {
+                  "name": "Mr.Ali mr.jaafer almosowi",
+                  "text": "Un sanctuar șiit din Amarah, dedicat memoriei unui savant religios local.",
+                  "category": "religious",
+                  "coords": [
+                        47.200298,
+                        31.777625
+                  ]
+            },
+            {
+                  "name": "Alwaqf Al-Sheai",
+                  "text": "O clădire administrativă și centru de rugăciune al fundației religioase șiite din Amarah.",
+                  "category": "landmark",
+                  "coords": [
+                        47.143338,
+                        31.848844
+                  ]
+            },
+            {
+                  "name": "Al Amara Fruit and Vegetable Central Market",
+                  "text": "Piața centrală de gros din Amara, unde se comercializează zilnic fructe și legume proaspete din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        47.09919,
+                        31.83273
+                  ]
+            },
+            {
+                  "name": "Market Of Hussein District",
+                  "text": "O piață de cartier plină de viață în districtul Hussein din Amarah, cunoscută pentru tarabele cu alimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        47.157492,
+                        31.83474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "River sidewalk",
+                  "text": "A landscaped riverside walkway in Amarah, offering strollers broad views over the Tigris River.",
+                  "category": "landmark",
+                  "coords": [
+                        47.147707,
+                        31.833372
+                  ]
+            },
+            {
+                  "name": "Umm al-Ahzan Church",
+                  "text": "This Syriac Catholic church, known as the Mother of Sorrows, is one of the oldest Christian places of worship in the city.",
+                  "category": "religious",
+                  "coords": [
+                        47.15238,
+                        31.846563
+                  ]
+            },
+            {
+                  "name": "N00+0",
+                  "text": "A distinctive local monument in Amarah that serves as a landmark in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        47.04932,
+                        31.846481
+                  ]
+            },
+            {
+                  "name": "Maysan Entertainment City",
+                  "text": "A popular amusement park in Amarah featuring rides and entertainment options for families.",
+                  "category": "recreational",
+                  "coords": [
+                        47.162168,
+                        31.843262
+                  ]
+            },
+            {
+                  "name": "Maysan Oil Company",
+                  "text": "A prayer room located within the grounds of the state oil company, open to employees and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        47.161282,
+                        31.821751
+                  ]
+            },
+            {
+                  "name": "Mosque of the Apostle",
+                  "text": "This mosque located in the city center of Amarah is dedicated to the Prophet.",
+                  "category": "religious",
+                  "coords": [
+                        47.15821,
+                        31.833566
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "A Catholic church in Amarah dedicated to Saint Joseph, serving the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        47.151384,
+                        31.84679
+                  ]
+            },
+            {
+                  "name": "Mr.Ali mr.jaafer almosowi",
+                  "text": "A Shia shrine in Amarah dedicated to the memory of a local religious scholar.",
+                  "category": "religious",
+                  "coords": [
+                        47.200298,
+                        31.777625
+                  ]
+            },
+            {
+                  "name": "Alwaqf Al-Sheai",
+                  "text": "An administrative building and prayer center of the Shia religious endowment in Amarah.",
+                  "category": "landmark",
+                  "coords": [
+                        47.143338,
+                        31.848844
+                  ]
+            },
+            {
+                  "name": "Al Amara Fruit and Vegetable Central Market",
+                  "text": "The central wholesale market of Amara, trading fresh local fruits and vegetables daily.",
+                  "category": "cultural",
+                  "coords": [
+                        47.09919,
+                        31.83273
+                  ]
+            },
+            {
+                  "name": "Market Of Hussein District",
+                  "text": "A lively neighborhood market in the Hussein district of Amarah, known for its local food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        47.157492,
+                        31.83474
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-MA",
     coords: [47.143, 31.841],
@@ -373,7 +8455,160 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Capital of Maysan Governorate, with a population exceeding 510,000.", "Established in 1866 as an Ottoman garrison town on the Tigris.", "Located in southeastern Iraq, close to the border with Iran.", "Famous for its traditional silver inlay work known as Amarah silver.", "A major hub for the Iraqi oil industry, managing large local fields.", "Home to a significant population of the ancient Mandaean sect.", "Gateway to the UNESCO-listed Mesopotamian Marshes (Ahwar).", "The University of Maysan serves as its primary educational institution."],
     }, image: "/poi-images/amarah-cities-v2.webp"},
   {
-    id: "al-diwaniyah-cities-v2",
+    id: "al-diwaniyah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "mokab muachel top",
+                  "text": "Ein lokaler Treffpunkt in Diwaniyya, der für seine lebendige Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.943226,
+                        31.956583
+                  ]
+            },
+            {
+                  "name": "Directorate of Educational Supervision",
+                  "text": "Ein bemerkenswertes Verwaltungsgebäude in Diwaniyya, das die regionale Architektur repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        44.920372,
+                        31.98942
+                  ]
+            },
+            {
+                  "name": "The farm of Wissam Al-Zubaidi",
+                  "text": "Ein ländlicher Aussichtspunkt mit Blick auf die weiten Agrarflächen rund um Diwaniyya.",
+                  "category": "natural",
+                  "coords": [
+                        44.926114,
+                        32.04216
+                  ]
+            },
+            {
+                  "name": "Mosque of Zine El Abidine",
+                  "text": "Eine Moschee in Diwaniyya, die als religiöses Zentrum für das örtliche Stadtviertel dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.949908,
+                        31.99812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "mokab muachel top",
+                  "text": "Helyi közösségi pont Divánijja városában, amely élénk hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.943226,
+                        31.956583
+                  ]
+            },
+            {
+                  "name": "Directorate of Educational Supervision",
+                  "text": "Figyelemre méltó közigazgatási épület Divánijjában, amely a regionális építészetet képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        44.920372,
+                        31.98942
+                  ]
+            },
+            {
+                  "name": "The farm of Wissam Al-Zubaidi",
+                  "text": "Vidéki kilátópont, ahonnan rálátás nyílik a Divánijja környéki kiterjedt mezőgazdasági területekre.",
+                  "category": "natural",
+                  "coords": [
+                        44.926114,
+                        32.04216
+                  ]
+            },
+            {
+                  "name": "Mosque of Zine El Abidine",
+                  "text": "Mecset Divánijjában, amely a helyi városnegyed vallási központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        44.949908,
+                        31.99812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "mokab muachel top",
+                  "text": "Un loc de întâlnire local din Diwaniyah, cunoscut pentru atmosfera sa vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.943226,
+                        31.956583
+                  ]
+            },
+            {
+                  "name": "Directorate of Educational Supervision",
+                  "text": "O clădire administrativă notabilă din Diwaniyah, reprezentativă pentru arhitectura regională.",
+                  "category": "historical",
+                  "coords": [
+                        44.920372,
+                        31.98942
+                  ]
+            },
+            {
+                  "name": "The farm of Wissam Al-Zubaidi",
+                  "text": "Un punct de observație rural care oferă vedere spre terenurile agricole vaste din jurul orașului Diwaniyah.",
+                  "category": "natural",
+                  "coords": [
+                        44.926114,
+                        32.04216
+                  ]
+            },
+            {
+                  "name": "Mosque of Zine El Abidine",
+                  "text": "O moschee din Diwaniyah care servește drept centru religios pentru cartierul local.",
+                  "category": "religious",
+                  "coords": [
+                        44.949908,
+                        31.99812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "mokab muachel top",
+                  "text": "A local community spot in Diwaniyah known for its lively atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        44.943226,
+                        31.956583
+                  ]
+            },
+            {
+                  "name": "Directorate of Educational Supervision",
+                  "text": "A notable administrative building in Diwaniyah representing regional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        44.920372,
+                        31.98942
+                  ]
+            },
+            {
+                  "name": "The farm of Wissam Al-Zubaidi",
+                  "text": "A rural viewpoint offering vistas over the vast agricultural lands surrounding Diwaniyah.",
+                  "category": "natural",
+                  "coords": [
+                        44.926114,
+                        32.04216
+                  ]
+            },
+            {
+                  "name": "Mosque of Zine El Abidine",
+                  "text": "A mosque in Diwaniyah serving as a religious center for the local neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        44.949908,
+                        31.99812
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-QA",
     coords: [44.933, 31.983],
@@ -410,7 +8645,88 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Capital of Al-Qadisiyah Governorate, with an estimated population of 440,000.", "Located on a branch of the Euphrates River in south-central Iraq.", "Renowned as the national center for high-quality Amber rice production.", "Home to the University of Al-Qadisiyah, established in 1987.", "Hosts one of Iraq's largest tire manufacturing plants.", "Major stop on the Baghdad-Basra railway line and national highways.", "The city serves as a gateway to the ancient holy city of Nippur.", "Characterized by a hot desert climate (Köppen: BWh) with arid conditions."],
     }, image: "/poi-images/al-diwaniyah-cities-v2.webp"},
   {
-    id: "kut-cities-v2",
+    id: "kut-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wasit province Headquarters",
+                  "text": "Das markante Hauptquartier der Provinz Wasit, gelegen in der Stadt al-Kut am Tigris.",
+                  "category": "historical",
+                  "coords": [
+                        45.823846,
+                        32.502431
+                  ]
+            },
+            {
+                  "name": "The Hagami Gallery and Complex",
+                  "text": "Eine Kureinrichtung in al-Kut, die für ihre entspannenden Thermalquellen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        45.800097,
+                        32.535083
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wasit province Headquarters",
+                  "text": "Vaszit kormányzóság jellegzetes székháza Kút városában, a Tigris partján.",
+                  "category": "historical",
+                  "coords": [
+                        45.823846,
+                        32.502431
+                  ]
+            },
+            {
+                  "name": "The Hagami Gallery and Complex",
+                  "text": "Kút városában található gyógyfürdő, amely pihentető termálforrásairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        45.800097,
+                        32.535083
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wasit province Headquarters",
+                  "text": "Sediul central distinctiv al provinciei Wasit, situat în orașul Kut, pe malul Tigrului.",
+                  "category": "historical",
+                  "coords": [
+                        45.823846,
+                        32.502431
+                  ]
+            },
+            {
+                  "name": "The Hagami Gallery and Complex",
+                  "text": "O facilitate balneară din Kut, cunoscută pentru izvoarele sale termale relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        45.800097,
+                        32.535083
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wasit province Headquarters",
+                  "text": "The prominent headquarters of Wasit province, located in the city of Kut along the Tigris.",
+                  "category": "historical",
+                  "coords": [
+                        45.823846,
+                        32.502431
+                  ]
+            },
+            {
+                  "name": "The Hagami Gallery and Complex",
+                  "text": "A spa facility in Kut known for its relaxing thermal hot springs.",
+                  "category": "natural",
+                  "coords": [
+                        45.800097,
+                        32.535083
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-WA",
     coords: [45.824, 32.505],
@@ -447,7 +8763,484 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Capital city of the Wasit Governorate in eastern Iraq.", "Site of the historic Siege of Kut during World War I (1915–1916).", "The Kut Barrage was completed in 1939 to regulate irrigation.", "Located on a sharp, U-shaped bend of the Tigris River.", "Major center for Iraq's national wheat and barley production.", "Approximately 180 kilometers southeast of Baghdad.", "Home to the University of Wasit, established in 2003.", "Strategic hub for river navigation and regional overland trade."],
     }, image: "/poi-images/kut-cities-v2.webp"},
   {
-    id: "hillah-cities-v2",
+    id: "hillah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Luay",
+                  "text": "Eine städtische Attraktion im historischen Zentrum von Hillah, nahe den lokalen Märkten.",
+                  "category": "landmark",
+                  "coords": [
+                        44.483566,
+                        32.427417
+                  ]
+            },
+            {
+                  "name": "AL-MUDHSH AL-SIYAHIA",
+                  "text": "Ein Erholungsgebiet am Ufer des Euphrat, das bei Familien für Picknicks beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.428531,
+                        32.507874
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Eine öffentliche Grünanlage im Stadtzentrum, die zur abendlichen Entspannung genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        44.420447,
+                        32.501705
+                  ]
+            },
+            {
+                  "name": "street marjan",
+                  "text": "Eine belebte Geschäftsstraße, die für ihre vielen kleinen Läden und das lokale Treiben bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.444262,
+                        32.50461
+                  ]
+            },
+            {
+                  "name": "Happy land amusement park",
+                  "text": "Ein Vergnügungspark mit mechanischen Fahrgeschäften und Spielbereichen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        44.432123,
+                        32.482663
+                  ]
+            },
+            {
+                  "name": "Hillah Museum",
+                  "text": "Ein Museum, das archäologische Funde aus der nahe gelegenen antiken Stadt Babylon ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        44.43853,
+                        32.483764
+                  ]
+            },
+            {
+                  "name": "Al Eskan steeet",
+                  "text": "Eine beliebte Straße im Al-Eskan-Viertel, gesäumt von Cafés und Wohnhäusern.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4184,
+                        32.46717
+                  ]
+            },
+            {
+                  "name": "1500",
+                  "text": "Ein modernes Denkmal auf einem öffentlichen Platz, das an wichtige Ereignisse der Stadtgeschichte erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        44.468995,
+                        32.485181
+                  ]
+            },
+            {
+                  "name": "Qala Basal",
+                  "text": "Die Überreste einer historischen Befestigungsanlage, die aus Lehmziegeln errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        44.428333,
+                        32.404444
+                  ]
+            },
+            {
+                  "name": "The shrine of Imam Jafar Sadiq peace be upon him",
+                  "text": "Ein bedeutender schiitischer Schrein, der dem sechsten Imam Jafar Sadiq gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.439947,
+                        32.467528
+                  ]
+            },
+            {
+                  "name": "Church of the Virgin Mary",
+                  "text": "Eine historische christliche Kirche, die das religiöse Erbe der Minderheit in Hillah repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.427924,
+                        32.465991
+                  ]
+            },
+            {
+                  "name": "ggggg",
+                  "text": "Eine natürliche Thermalquelle, die für ihr warmes, mineralreiches Wasser bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        44.414934,
+                        32.475487
+                  ]
+            },
+            {
+                  "name": "samar",
+                  "text": "Ein Thermalbad am Stadtrand, das von Einheimischen zur Entspannung besucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        44.411524,
+                        32.435988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Luay",
+                  "text": "Városi látnivaló Hillah történelmi központjában, a helyi piacok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        44.483566,
+                        32.427417
+                  ]
+            },
+            {
+                  "name": "AL-MUDHSH AL-SIYAHIA",
+                  "text": "Az Eufrátesz partján fekvő pihenőhely, amely népszerű a családok körében piknikezésre.",
+                  "category": "landmark",
+                  "coords": [
+                        44.428531,
+                        32.507874
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Közpark a városközpontban, amelyet az esti kikapcsolódáshoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        44.420447,
+                        32.501705
+                  ]
+            },
+            {
+                  "name": "street marjan",
+                  "text": "Nyüzsgő bevásárlóutca, amely számos kis boltjáról és a helyi forgatagról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.444262,
+                        32.50461
+                  ]
+            },
+            {
+                  "name": "Happy land amusement park",
+                  "text": "Vidámpark mechanikus játékokkal és játszóterekkel a gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        44.432123,
+                        32.482663
+                  ]
+            },
+            {
+                  "name": "Hillah Museum",
+                  "text": "Múzeum, amely a közeli ókori Babilonból származó régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        44.43853,
+                        32.483764
+                  ]
+            },
+            {
+                  "name": "Al Eskan steeet",
+                  "text": "Népszerű utca az Al-Eskan negyedben, kávézókkal és lakóépületekkel szegélyezve.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4184,
+                        32.46717
+                  ]
+            },
+            {
+                  "name": "1500",
+                  "text": "Modern emlékmű egy nyilvános téren, amely a várostörténet fontos eseményeire emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        44.468995,
+                        32.485181
+                  ]
+            },
+            {
+                  "name": "Qala Basal",
+                  "text": "Egy történelmi erődítmény maradványai, amelyet agyagtéglából építettek.",
+                  "category": "castle",
+                  "coords": [
+                        44.428333,
+                        32.404444
+                  ]
+            },
+            {
+                  "name": "The shrine of Imam Jafar Sadiq peace be upon him",
+                  "text": "Jelentős síita kegyhely, amelyet a hatodik imámnak, Dzsafar al-Szádiknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        44.439947,
+                        32.467528
+                  ]
+            },
+            {
+                  "name": "Church of the Virgin Mary",
+                  "text": "Történelmi keresztény templom, amely a hillah-i kisebbség vallási örökségét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        44.427924,
+                        32.465991
+                  ]
+            },
+            {
+                  "name": "ggggg",
+                  "text": "Természetes termálforrás, amely meleg, ásványi anyagokban gazdag vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.414934,
+                        32.475487
+                  ]
+            },
+            {
+                  "name": "samar",
+                  "text": "Termálfürdő a város szélén, amelyet a helyiek kikapcsolódás céljából látogatnak.",
+                  "category": "natural",
+                  "coords": [
+                        44.411524,
+                        32.435988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Luay",
+                  "text": "O atracție urbană în centrul istoric al orașului Hillah, aproape de piețele locale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.483566,
+                        32.427417
+                  ]
+            },
+            {
+                  "name": "AL-MUDHSH AL-SIYAHIA",
+                  "text": "O zonă de recreere pe malul Eufratului, populară în rândul familiilor pentru picnicuri.",
+                  "category": "landmark",
+                  "coords": [
+                        44.428531,
+                        32.507874
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Un spațiu verde public în centrul orașului, folosit pentru relaxare de seară.",
+                  "category": "landmark",
+                  "coords": [
+                        44.420447,
+                        32.501705
+                  ]
+            },
+            {
+                  "name": "street marjan",
+                  "text": "O stradă comercială plină de viață, cunoscută pentru numeroasele sale magazine mici și agitația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        44.444262,
+                        32.50461
+                  ]
+            },
+            {
+                  "name": "Happy land amusement park",
+                  "text": "Un parc de distracții cu atracții mecanice și zone de joacă pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        44.432123,
+                        32.482663
+                  ]
+            },
+            {
+                  "name": "Hillah Museum",
+                  "text": "Un muzeu care expune descoperiri arheologice din vechiul oraș Babilon aflat în apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        44.43853,
+                        32.483764
+                  ]
+            },
+            {
+                  "name": "Al Eskan steeet",
+                  "text": "O stradă populară în cartierul Al-Eskan, mărginită de cafenele și clădiri rezidențiale.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4184,
+                        32.46717
+                  ]
+            },
+            {
+                  "name": "1500",
+                  "text": "Un monument modern într-o piață publică, care comemorează evenimente importante din istoria orașului.",
+                  "category": "historical",
+                  "coords": [
+                        44.468995,
+                        32.485181
+                  ]
+            },
+            {
+                  "name": "Qala Basal",
+                  "text": "Rămășițele unei fortificații istorice care a fost construită din cărămizi de lut.",
+                  "category": "castle",
+                  "coords": [
+                        44.428333,
+                        32.404444
+                  ]
+            },
+            {
+                  "name": "The shrine of Imam Jafar Sadiq peace be upon him",
+                  "text": "Un altar șiit important dedicat celui de-al șaselea imam, Jafar Sadiq.",
+                  "category": "religious",
+                  "coords": [
+                        44.439947,
+                        32.467528
+                  ]
+            },
+            {
+                  "name": "Church of the Virgin Mary",
+                  "text": "O biserică creștină istorică, reprezentând moștenirea religioasă a minorității din Hillah.",
+                  "category": "landmark",
+                  "coords": [
+                        44.427924,
+                        32.465991
+                  ]
+            },
+            {
+                  "name": "ggggg",
+                  "text": "Un izvor termal natural cunoscut pentru apa sa caldă și bogată în minerale.",
+                  "category": "natural",
+                  "coords": [
+                        44.414934,
+                        32.475487
+                  ]
+            },
+            {
+                  "name": "samar",
+                  "text": "O baie termală la marginea orașului, vizitată de localnici pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        44.411524,
+                        32.435988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luay",
+                  "text": "An urban attraction in the historic center of Hillah, near the local markets.",
+                  "category": "landmark",
+                  "coords": [
+                        44.483566,
+                        32.427417
+                  ]
+            },
+            {
+                  "name": "AL-MUDHSH AL-SIYAHIA",
+                  "text": "A recreational area on the banks of the Euphrates, popular among families for picnics.",
+                  "category": "landmark",
+                  "coords": [
+                        44.428531,
+                        32.507874
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "A public green space in the city center used for evening relaxation.",
+                  "category": "landmark",
+                  "coords": [
+                        44.420447,
+                        32.501705
+                  ]
+            },
+            {
+                  "name": "street marjan",
+                  "text": "A busy commercial street known for its many small shops and local bustle.",
+                  "category": "landmark",
+                  "coords": [
+                        44.444262,
+                        32.50461
+                  ]
+            },
+            {
+                  "name": "Happy land amusement park",
+                  "text": "An amusement park featuring mechanical rides and play areas for children.",
+                  "category": "recreational",
+                  "coords": [
+                        44.432123,
+                        32.482663
+                  ]
+            },
+            {
+                  "name": "Hillah Museum",
+                  "text": "A museum displaying archaeological finds from the nearby ancient city of Babylon.",
+                  "category": "museum",
+                  "coords": [
+                        44.43853,
+                        32.483764
+                  ]
+            },
+            {
+                  "name": "Al Eskan steeet",
+                  "text": "A popular street in the Al-Eskan district, lined with cafes and residential buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        44.4184,
+                        32.46717
+                  ]
+            },
+            {
+                  "name": "1500",
+                  "text": "A modern monument in a public square, commemorating important events in the city's history.",
+                  "category": "historical",
+                  "coords": [
+                        44.468995,
+                        32.485181
+                  ]
+            },
+            {
+                  "name": "Qala Basal",
+                  "text": "The remains of a historical fortification that was built from mud bricks.",
+                  "category": "castle",
+                  "coords": [
+                        44.428333,
+                        32.404444
+                  ]
+            },
+            {
+                  "name": "The shrine of Imam Jafar Sadiq peace be upon him",
+                  "text": "A significant Shia shrine dedicated to the sixth Imam, Jafar Sadiq.",
+                  "category": "religious",
+                  "coords": [
+                        44.439947,
+                        32.467528
+                  ]
+            },
+            {
+                  "name": "Church of the Virgin Mary",
+                  "text": "A historic Christian church representing the religious heritage of the minority in Hillah.",
+                  "category": "landmark",
+                  "coords": [
+                        44.427924,
+                        32.465991
+                  ]
+            },
+            {
+                  "name": "ggggg",
+                  "text": "A natural thermal spring known for its warm, mineral-rich water.",
+                  "category": "natural",
+                  "coords": [
+                        44.414934,
+                        32.475487
+                  ]
+            },
+            {
+                  "name": "samar",
+                  "text": "A thermal bath on the outskirts of the city, visited by locals for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        44.411524,
+                        32.435988
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-BB",
     coords: [44.434, 32.478],
@@ -484,7 +9277,664 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Hillah served as a regional capital under the Ottoman Empire.", "The city is known as 'Al-Hilla al-Fayhaa' (the Pleasant Hillah).", "Home to several historic mosques, including the Great Mosque of Hillah.", "The surrounding governorate produces nearly 20% of Iraq's date crop.", "Hillah is a key point on the Baghdad-Basra railway line.", "The site of the ancient city of Kish is located east of Hillah.", "Traditional mud-brick houses are still found in the central Al-Akrad district.", "The city hosts the annual Babylon International Festival for Arts and Culture."],
     }, image: "/poi-images/hillah-cities-v2.webp"},
   {
-    id: "ramadi-cities-v2",
+    id: "ramadi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omar Bin Al-Khatab Street",
+                  "text": "Diese belebte Straße in Ramadi ist eine zentrale Verkehrsader und bekannt für ihre vielen Geschäfte und Cafés.",
+                  "category": "landmark",
+                  "coords": [
+                        43.297571,
+                        33.431895
+                  ]
+            },
+            {
+                  "name": "Tahun Abu Hamid",
+                  "text": "Eine traditionelle Windmühle, die als seltenes Beispiel vorindustrieller Technik in dieser Region erhalten geblieben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.391951,
+                        33.439986
+                  ]
+            },
+            {
+                  "name": "Sindibad Amusement Park",
+                  "text": "Ein beliebter Freizeitpark in Ramadi, der mit Fahrgeschäften und Grünflächen ein wichtiges Ziel für Familienausflüge ist.",
+                  "category": "recreational",
+                  "coords": [
+                        43.314058,
+                        33.435428
+                  ]
+            },
+            {
+                  "name": "Br Al-Walidain Mosque",
+                  "text": "Diese muslimische Gebetsstätte in Ramadi zeichnet sich durch ihre schlichte, funktionale Architektur für die täglichen Gebete aus.",
+                  "category": "landmark",
+                  "coords": [
+                        43.298417,
+                        33.407458
+                  ]
+            },
+            {
+                  "name": "Hay Al-Mualimin Mosque",
+                  "text": "Eine lokale Moschee im Stadtteil Al-Mualimin, die als religiöser und sozialer Treffpunkt für die Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        43.299039,
+                        33.418089
+                  ]
+            },
+            {
+                  "name": "Al Haj Humood Mosque",
+                  "text": "Ein islamisches Gotteshaus in Ramadi, das mit seinem Minarett einen markanten Orientierungspunkt im Viertel bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.276067,
+                        33.437213
+                  ]
+            },
+            {
+                  "name": "AlMuttaqeen Mosque",
+                  "text": "Diese Moschee ist ein Ort der Stille und Besinnung inmitten der lebendigen städtischen Umgebung von Ramadi.",
+                  "category": "religious",
+                  "coords": [
+                        43.344006,
+                        33.447702
+                  ]
+            },
+            {
+                  "name": "Al-Samad Mosque",
+                  "text": "Eine Gebetsstätte mit traditionellen gestalterischen Elementen, die die islamische Identität des Stadtteils widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338769,
+                        33.424047
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Diese Moschee dient der Gemeinschaft als Ort für religiöse Unterweisung und die feierlichen Freitagsgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        43.325208,
+                        33.427522
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Fatih Mosque",
+                  "text": "Ein nach dem Eroberer benanntes islamisches Zentrum, das durch seine klassische Moscheearchitektur beeindruckt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.325334,
+                        33.423647
+                  ]
+            },
+            {
+                  "name": "Ibad Al-Rahman Mosque",
+                  "text": "Diese Moschee bietet den Gläubigen in Ramadi einen gepflegten Rahmen für die Ausübung ihrer religiösen Riten.",
+                  "category": "landmark",
+                  "coords": [
+                        43.315206,
+                        33.419303
+                  ]
+            },
+            {
+                  "name": "Al-Sdiqa Aisha Mosque",
+                  "text": "Ein wichtiges spirituelles Zentrum für muslimische Frauen und Männer in der Wohngegend von Ramadi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.322193,
+                        33.418303
+                  ]
+            },
+            {
+                  "name": "Abo-Bakir Al-Sideek Mosque",
+                  "text": "Diese Moschee im Zentrum von Ramadi ist eine der älteren Gebetsstätten der Stadt mit einer traditionellen Gebetshalle.",
+                  "category": "religious",
+                  "coords": [
+                        43.317319,
+                        33.415418
+                  ]
+            },
+            {
+                  "name": "Jami az Zubayr Bin al Awwam",
+                  "text": "Eine muslimische Gebetsstätte, die nach einem prominenten Gefährten benannt ist und als lokaler religiöser Anker dient.",
+                  "category": "landmark",
+                  "coords": [
+                        43.396167,
+                        33.454915
+                  ]
+            },
+            {
+                  "name": "Imam Shaykh Muhammad",
+                  "text": "Ein der Verehrung eines lokalen Imams gewidmeter Ort, der tiefe Einblicke in die regionale religiöse Tradition bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.329706,
+                        33.489378
+                  ]
+            },
+            {
+                  "name": "Imam Shaikh Hadid",
+                  "text": "Diese Moschee ist ein geschätztes Baudenkmal in Ramadi, das mit kunstvollen geometrischen Mustern verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.288056,
+                        33.46368
+                  ]
+            },
+            {
+                  "name": "Al-Razwan Mosque",
+                  "text": "Eine moderne Moschee in Ramadi, die durch ihre weithin sichtbare goldene oder sandfarbene Kuppel auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.299593,
+                        33.412186
+                  ]
+            },
+            {
+                  "name": "Al-Rahim Mosque",
+                  "text": "Dieses religiöse Bauwerk ist ein bedeutendes Zentrum für die spirituelle Gemeinschaft im urbanen Raum von Ramadi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.294788,
+                        33.415842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omar Bin Al-Khatab Street",
+                  "text": "Ez a nyüzsgő ramadi utca a város egyik fő közlekedési útvonala, amely számos üzletéről és kávézójáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.297571,
+                        33.431895
+                  ]
+            },
+            {
+                  "name": "Tahun Abu Hamid",
+                  "text": "Hagyományos szélmalom, amely a régió iparosodás előtti technológiájának ritka példájaként maradt fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        43.391951,
+                        33.439986
+                  ]
+            },
+            {
+                  "name": "Sindibad Amusement Park",
+                  "text": "Népszerű szabadidőpark Ramadiban, amely játékaival és zöldfelületeivel a családi kirándulások kedvelt célpontja.",
+                  "category": "recreational",
+                  "coords": [
+                        43.314058,
+                        33.435428
+                  ]
+            },
+            {
+                  "name": "Br Al-Walidain Mosque",
+                  "text": "Ez a ramadi muszlim imaház egyszerű, funkcionális építészetével tűnik ki, amely a napi imák helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        43.298417,
+                        33.407458
+                  ]
+            },
+            {
+                  "name": "Hay Al-Mualimin Mosque",
+                  "text": "Helyi mecset az Al-Mualimin negyedben, amely vallási és közösségi találkozóhelyként szolgál a lakók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.299039,
+                        33.418089
+                  ]
+            },
+            {
+                  "name": "Al Haj Humood Mosque",
+                  "text": "Iszlám templom Ramadiban, amely minaretjével jellegzetes tájékozódási pontot alkot a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        43.276067,
+                        33.437213
+                  ]
+            },
+            {
+                  "name": "AlMuttaqeen Mosque",
+                  "text": "Ez a mecset a csend és az elmélkedés helye Ramadi nyüzsgő városi környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        43.344006,
+                        33.447702
+                  ]
+            },
+            {
+                  "name": "Al-Samad Mosque",
+                  "text": "Hagyományos díszítőelemekkel ellátott imaház, amely a városrész iszlám identitását tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338769,
+                        33.424047
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Ez a mecset a közösség vallási oktatásának és az ünnepélyes pénteki imáknak a helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        43.325208,
+                        33.427522
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Fatih Mosque",
+                  "text": "A hódítóról elnevezett iszlám központ, amely klasszikus mecsetépítészetével nyűgöz le.",
+                  "category": "landmark",
+                  "coords": [
+                        43.325334,
+                        33.423647
+                  ]
+            },
+            {
+                  "name": "Ibad Al-Rahman Mosque",
+                  "text": "Ez a mecset rendezett környezetet biztosít a hívőknek Ramadiban vallási rítusaik gyakorlásához.",
+                  "category": "landmark",
+                  "coords": [
+                        43.315206,
+                        33.419303
+                  ]
+            },
+            {
+                  "name": "Al-Sdiqa Aisha Mosque",
+                  "text": "Fontos spirituális központ muszlim nők és férfiak számára Ramadi lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.322193,
+                        33.418303
+                  ]
+            },
+            {
+                  "name": "Abo-Bakir Al-Sideek Mosque",
+                  "text": "Ez a Ramadi központjában található mecset a város egyik régebbi imaháza, hagyományos imateremmel.",
+                  "category": "religious",
+                  "coords": [
+                        43.317319,
+                        33.415418
+                  ]
+            },
+            {
+                  "name": "Jami az Zubayr Bin al Awwam",
+                  "text": "Egy neves társról elnevezett muszlim imaház, amely helyi vallási támpontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        43.396167,
+                        33.454915
+                  ]
+            },
+            {
+                  "name": "Imam Shaykh Muhammad",
+                  "text": "Egy helyi imám tiszteletére szentelt hely, amely betekintést nyújt a regionális vallási hagyományokba.",
+                  "category": "landmark",
+                  "coords": [
+                        43.329706,
+                        33.489378
+                  ]
+            },
+            {
+                  "name": "Imam Shaikh Hadid",
+                  "text": "Ez a mecset Ramadi egyik becses építészeti emléke, amelyet művészi geometriai minták díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        43.288056,
+                        33.46368
+                  ]
+            },
+            {
+                  "name": "Al-Razwan Mosque",
+                  "text": "Modern mecset Ramadiban, amely messziről látható arany vagy homokszínű kupolájával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        43.299593,
+                        33.412186
+                  ]
+            },
+            {
+                  "name": "Al-Rahim Mosque",
+                  "text": "Ez a vallási épület a spirituális közösség jelentős központja Ramadi városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        43.294788,
+                        33.415842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omar Bin Al-Khatab Street",
+                  "text": "Această stradă animată din Ramadi este o arteră centrală, cunoscută pentru numeroasele sale magazine și cafenele.",
+                  "category": "landmark",
+                  "coords": [
+                        43.297571,
+                        33.431895
+                  ]
+            },
+            {
+                  "name": "Tahun Abu Hamid",
+                  "text": "O moară de vânt tradițională, care a supraviețuit ca un exemplu rar de tehnologie preindustrială în această regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        43.391951,
+                        33.439986
+                  ]
+            },
+            {
+                  "name": "Sindibad Amusement Park",
+                  "text": "Un parc de distracții popular din Ramadi, care reprezintă o destinație importantă pentru ieșirile în familie, cu atracții și spații verzi.",
+                  "category": "recreational",
+                  "coords": [
+                        43.314058,
+                        33.435428
+                  ]
+            },
+            {
+                  "name": "Br Al-Walidain Mosque",
+                  "text": "Acest lăcaș de rugăciune musulman din Ramadi se remarcă prin arhitectura sa simplă și funcțională pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        43.298417,
+                        33.407458
+                  ]
+            },
+            {
+                  "name": "Hay Al-Mualimin Mosque",
+                  "text": "O moschee locală în cartierul Al-Mualimin, care servește drept punct de întâlnire religios și social pentru rezidenți.",
+                  "category": "landmark",
+                  "coords": [
+                        43.299039,
+                        33.418089
+                  ]
+            },
+            {
+                  "name": "Al Haj Humood Mosque",
+                  "text": "Un lăcaș de cult islamic din Ramadi, care formează un punct de reper distinctiv în cartier prin minaretul său.",
+                  "category": "landmark",
+                  "coords": [
+                        43.276067,
+                        33.437213
+                  ]
+            },
+            {
+                  "name": "AlMuttaqeen Mosque",
+                  "text": "Această moschee este un loc de liniște și reflexie în mijlocul mediului urban plin de viață din Ramadi.",
+                  "category": "religious",
+                  "coords": [
+                        43.344006,
+                        33.447702
+                  ]
+            },
+            {
+                  "name": "Al-Samad Mosque",
+                  "text": "Un lăcaș de rugăciune cu elemente decorative tradiționale, reflectând identitatea islamică a cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338769,
+                        33.424047
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "Această moschee servește comunității ca loc pentru instruire religioasă și rugăciunile solemne de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        43.325208,
+                        33.427522
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Fatih Mosque",
+                  "text": "Un centru islamic numit după cuceritor, care impresionează prin arhitectura sa clasică de moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        43.325334,
+                        33.423647
+                  ]
+            },
+            {
+                  "name": "Ibad Al-Rahman Mosque",
+                  "text": "Această moschee oferă credincioșilor din Ramadi un cadru îngrijit pentru exercitarea riturilor lor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        43.315206,
+                        33.419303
+                  ]
+            },
+            {
+                  "name": "Al-Sdiqa Aisha Mosque",
+                  "text": "Un centru spiritual important pentru femeile și bărbații musulmani din zona rezidențială a orașului Ramadi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.322193,
+                        33.418303
+                  ]
+            },
+            {
+                  "name": "Abo-Bakir Al-Sideek Mosque",
+                  "text": "Această moschee din centrul orașului Ramadi este unul dintre lăcașurile de rugăciune mai vechi, cu o sală tradițională de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        43.317319,
+                        33.415418
+                  ]
+            },
+            {
+                  "name": "Jami az Zubayr Bin al Awwam",
+                  "text": "Un lăcaș de rugăciune musulman numit după un companion proeminent, servind drept ancoră religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        43.396167,
+                        33.454915
+                  ]
+            },
+            {
+                  "name": "Imam Shaykh Muhammad",
+                  "text": "Un loc dedicat venerării unui imam local, oferind o perspectivă asupra tradiției religioase regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        43.329706,
+                        33.489378
+                  ]
+            },
+            {
+                  "name": "Imam Shaikh Hadid",
+                  "text": "Această moschee este un monument arhitectural prețuit în Ramadi, decorat cu modele geometrice artistice.",
+                  "category": "landmark",
+                  "coords": [
+                        43.288056,
+                        33.46368
+                  ]
+            },
+            {
+                  "name": "Al-Razwan Mosque",
+                  "text": "O moschee modernă din Ramadi, care se remarcă prin cupola sa aurie sau de culoarea nisipului, vizibilă de la distanță.",
+                  "category": "landmark",
+                  "coords": [
+                        43.299593,
+                        33.412186
+                  ]
+            },
+            {
+                  "name": "Al-Rahim Mosque",
+                  "text": "Această structură religioasă este un centru important pentru comunitatea spirituală din spațiul urban al orașului Ramadi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.294788,
+                        33.415842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omar Bin Al-Khatab Street",
+                  "text": "This busy street in Ramadi is a central thoroughfare known for its many shops and cafes.",
+                  "category": "landmark",
+                  "coords": [
+                        43.297571,
+                        33.431895
+                  ]
+            },
+            {
+                  "name": "Tahun Abu Hamid",
+                  "text": "A traditional windmill that has survived as a rare example of pre-industrial technology in this region.",
+                  "category": "landmark",
+                  "coords": [
+                        43.391951,
+                        33.439986
+                  ]
+            },
+            {
+                  "name": "Sindibad Amusement Park",
+                  "text": "A popular amusement park in Ramadi that is a major destination for family outings with its rides and green spaces.",
+                  "category": "recreational",
+                  "coords": [
+                        43.314058,
+                        33.435428
+                  ]
+            },
+            {
+                  "name": "Br Al-Walidain Mosque",
+                  "text": "This Muslim prayer house in Ramadi stands out for its simple, functional architecture for daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        43.298417,
+                        33.407458
+                  ]
+            },
+            {
+                  "name": "Hay Al-Mualimin Mosque",
+                  "text": "A local mosque in the Al-Mualimin district, serving as a religious and social meeting point for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        43.299039,
+                        33.418089
+                  ]
+            },
+            {
+                  "name": "Al Haj Humood Mosque",
+                  "text": "An Islamic place of worship in Ramadi that forms a distinctive landmark in the neighborhood with its minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        43.276067,
+                        33.437213
+                  ]
+            },
+            {
+                  "name": "AlMuttaqeen Mosque",
+                  "text": "This mosque is a place of quiet and reflection amidst the lively urban environment of Ramadi.",
+                  "category": "religious",
+                  "coords": [
+                        43.344006,
+                        33.447702
+                  ]
+            },
+            {
+                  "name": "Al-Samad Mosque",
+                  "text": "A place of worship with traditional design elements, reflecting the Islamic identity of the district.",
+                  "category": "landmark",
+                  "coords": [
+                        43.338769,
+                        33.424047
+                  ]
+            },
+            {
+                  "name": "Al-Haq Mosque",
+                  "text": "This mosque serves the community as a place for religious instruction and solemn Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        43.325208,
+                        33.427522
+                  ]
+            },
+            {
+                  "name": "Mohammed Al-Fatih Mosque",
+                  "text": "An Islamic center named after the conqueror, impressing with its classical mosque architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        43.325334,
+                        33.423647
+                  ]
+            },
+            {
+                  "name": "Ibad Al-Rahman Mosque",
+                  "text": "This mosque provides worshippers in Ramadi with a well-maintained setting for practicing their religious rites.",
+                  "category": "landmark",
+                  "coords": [
+                        43.315206,
+                        33.419303
+                  ]
+            },
+            {
+                  "name": "Al-Sdiqa Aisha Mosque",
+                  "text": "An important spiritual center for Muslim women and men in the residential area of Ramadi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.322193,
+                        33.418303
+                  ]
+            },
+            {
+                  "name": "Abo-Bakir Al-Sideek Mosque",
+                  "text": "This mosque in central Ramadi is one of the city's older prayer houses, featuring a traditional prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        43.317319,
+                        33.415418
+                  ]
+            },
+            {
+                  "name": "Jami az Zubayr Bin al Awwam",
+                  "text": "A Muslim place of worship named after a prominent companion, serving as a local religious anchor.",
+                  "category": "landmark",
+                  "coords": [
+                        43.396167,
+                        33.454915
+                  ]
+            },
+            {
+                  "name": "Imam Shaykh Muhammad",
+                  "text": "A site dedicated to the veneration of a local imam, offering insight into regional religious traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        43.329706,
+                        33.489378
+                  ]
+            },
+            {
+                  "name": "Imam Shaikh Hadid",
+                  "text": "This mosque is a cherished architectural monument in Ramadi, decorated with artistic geometric patterns.",
+                  "category": "landmark",
+                  "coords": [
+                        43.288056,
+                        33.46368
+                  ]
+            },
+            {
+                  "name": "Al-Razwan Mosque",
+                  "text": "A modern mosque in Ramadi that stands out with its golden or sand-colored dome, visible from afar.",
+                  "category": "landmark",
+                  "coords": [
+                        43.299593,
+                        33.412186
+                  ]
+            },
+            {
+                  "name": "Al-Rahim Mosque",
+                  "text": "This religious structure is an important center for the spiritual community within Ramadi's urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        43.294788,
+                        33.415842
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-AN",
     coords: [43.308, 33.425],
@@ -521,7 +9971,772 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Ramadi was established in 1869 by the Ottoman governor Midhat Pasha.", "It is located approximately 70 miles (110 km) west of Baghdad.", "The city serves as the administrative capital of the Al-Anbar Governorate.", "The University of Anbar, located here, is a major regional educational hub.", "Strategically positioned on the trade route between Iraq and Jordan.", "The Euphrates River provides the primary water source for the city.", "The city's elevation is approximately 164 feet (50 meters) above sea level.", "Ramadi is a key center for the Iraqi construction and glass industries."],
     }, image: "/poi-images/ramadi-cities-v2.webp"},
   {
-    id: "fallujah-cities-v2",
+    id: "fallujah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Hussain Bin Ali Mosque",
+                  "text": "Die Al-Hussain Bin Ali Moschee ist ein islamisches Gotteshaus, das sich in die städtische Struktur von Falludscha einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.808091,
+                        33.358575
+                  ]
+            },
+            {
+                  "name": "Al-Shuhada Mosque",
+                  "text": "Die Al-Shuhada Moschee in Falludscha erinnert mit ihrem Namen an die Märtyrer und dient der islamischen Gemeinde als spiritueller Ort.",
+                  "category": "landmark",
+                  "coords": [
+                        43.80105,
+                        33.367507
+                  ]
+            },
+            {
+                  "name": "Al-Hassan bin Ali Mosque",
+                  "text": "Diese nach dem Enkel des Propheten benannte Moschee ist ein zentrales islamisches Gebetshaus im Wohngebiet von Falludscha.",
+                  "category": "landmark",
+                  "coords": [
+                        43.804203,
+                        33.363515
+                  ]
+            },
+            {
+                  "name": "Al-Waysi Mosque",
+                  "text": "Die Al-Waysi Moschee fungiert als spiritueller Treffpunkt für Muslime im städtischen Kontext von Falludscha.",
+                  "category": "landmark",
+                  "coords": [
+                        43.79809,
+                        33.364595
+                  ]
+            },
+            {
+                  "name": "Saad Bin Maaz Mosque",
+                  "text": "Die Saad Bin Maaz Moschee ist ein aktives islamisches Gotteshaus, das der lokalen muslimischen Gemeinschaft in Falludscha einen täglichen Gebetsraum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.796304,
+                        33.362869
+                  ]
+            },
+            {
+                  "name": "Al-Tawfiq Mosque",
+                  "text": "Die Al-Tawfiq-Moschee in Falludscha ist ein islamisches Heiligtum, das sich durch sein traditionelles Minarett und seinen für die lokale Gemeinde konzipierten Gebetssaal auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.792907,
+                        33.365671
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Die Al-Salam-Moschee dient der muslimischen Gemeinde von Falludscha und bietet eine friedliche Umgebung für tägliche islamische Gebete und spirituelle Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        43.804066,
+                        33.3328
+                  ]
+            },
+            {
+                  "name": "Al-Shamari Mosque",
+                  "text": "Die Al-Shamari-Moschee ist eine engagierte islamische Kultstätte in Falludscha, die die lokale muslimische Bevölkerung zu traditionellen Freitagsgebeten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.792578,
+                        33.33416
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "Die dem Konzept der Frömmigkeit gewidmete Al-Taqwa-Moschee in Falludscha dient als zentraler islamischer Gebetssaal für die umliegende Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        43.783547,
+                        33.335283
+                  ]
+            },
+            {
+                  "name": "Jaffar Bin Abi Talib Mosque",
+                  "text": "Die Jaffar Bin Abi Talib Moschee fungiert als lokales Heiligtum in Falludscha und beherbergt regelmäßige Gemeinschaftsgebete und religiöse Zeremonien.",
+                  "category": "religious",
+                  "coords": [
+                        43.784248,
+                        33.327953
+                  ]
+            },
+            {
+                  "name": "Shaker Al-Dahi Mosque",
+                  "text": "Die Shaker Al-Dahi Moschee ist eine islamische Gebetsstätte im Viertel in Falludscha, die spirituelle Führung und einen eigenen Raum für das tägliche Salat bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.761443,
+                        33.350103
+                  ]
+            },
+            {
+                  "name": "Al-Sahdun Mosque",
+                  "text": "Die Al-Sahdun-Moschee versammelt lokale Gläubige und ist ein islamisches Gemeindezentrum in Falludscha, das für seine regelmäßigen Gemeinschaftsgebete bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.761983,
+                        33.353468
+                  ]
+            },
+            {
+                  "name": "Al- Bn Abi Talib Mosque",
+                  "text": "Die Al- Bn Abi Talib Moschee dient den muslimischen Einwohnern von Falludscha und zeichnet sich durch ein architektonisches Layout aus, das für lokale islamische Heiligtümer traditionell ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.771484,
+                        33.341563
+                  ]
+            },
+            {
+                  "name": "Al-Shakrin Mosque",
+                  "text": "Mit einem ruhigen Gebetssaal ist die Al-Shakrin-Moschee in Falludscha ein spezieller Ort für islamische Gottesdienste und gemeinschaftliche Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        43.773829,
+                        33.361389
+                  ]
+            },
+            {
+                  "name": "Al-Furqan Mosque",
+                  "text": "Die Al-Furqan-Moschee ist ein prominentes islamisches Gotteshaus in Falludscha, das lokale Gemeindemitglieder durch tägliche Gebete und Koranstudien führt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.773447,
+                        33.356828
+                  ]
+            },
+            {
+                  "name": "Saad Abi Waqas Mosque",
+                  "text": "Benannt nach dem prominenten Gefährten des Propheten, dient die Saad Abi Waqas Moschee in Falludscha als wichtige islamische Gebetsstätte.",
+                  "category": "landmark",
+                  "coords": [
+                        43.780299,
+                        33.362496
+                  ]
+            },
+            {
+                  "name": "Ahmad Al-Badawi Mosque",
+                  "text": "Die Ahmad Al-Badawi Moschee bietet einen eigenen spirituellen Raum für die lokale muslimische Gemeinschaft in Falludscha und beherbergt tägliche islamische Rituale.",
+                  "category": "landmark",
+                  "coords": [
+                        43.775396,
+                        33.36594
+                  ]
+            },
+            {
+                  "name": "Al-Raqib Mosque",
+                  "text": "Die Al-Raqib-Moschee in Falludscha fungiert als islamisches Heiligtum in der Nachbarschaft und bietet eine ruhige Umgebung für Hingabe und gemeinschaftliches Salat.",
+                  "category": "landmark",
+                  "coords": [
+                        43.769276,
+                        33.363471
+                  ]
+            },
+            {
+                  "name": "Abu Ayub al-Ansari Mosque",
+                  "text": "Die Abu Ayub al-Ansari Moschee ist ein aktives islamisches Gotteshaus in Falludscha, das Einheimische zu täglichen spirituellen und religiösen Bräuchen willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.75921,
+                        33.359755
+                  ]
+            },
+            {
+                  "name": "Siraj Al-Munir Mosque",
+                  "text": "Als Leuchtfeuer des Glaubens ist die Siraj Al-Munir Moschee in Falludscha ein besonderer Ort für muslimische Gebetsversammlungen und Religionsunterricht.",
+                  "category": "landmark",
+                  "coords": [
+                        43.756188,
+                        33.359088
+                  ]
+            },
+            {
+                  "name": "Rawdha Muhammediya Mosque",
+                  "text": "Die Rawdha Muhammediya Moschee in Falludscha ist eine lokale islamische Gebetsstätte, die der umliegenden Gemeinde einen friedlichen Versammlungsraum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.785494,
+                        33.359749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Hussain Bin Ali Mosque",
+                  "text": "Az Al-Husszein Bin Ali mecset egy iszlám imahely, amely Fallúdzsa városi szerkezetébe illeszkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        43.808091,
+                        33.358575
+                  ]
+            },
+            {
+                  "name": "Al-Shuhada Mosque",
+                  "text": "A fallúdzsai Al-Shuhada mecset nevével a mártírokra emlékezik, és spirituális helyként szolgál az iszlám közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.80105,
+                        33.367507
+                  ]
+            },
+            {
+                  "name": "Al-Hassan bin Ali Mosque",
+                  "text": "A próféta unokájáról elnevezett mecset egy központi iszlám imaház Fallúdzsa lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.804203,
+                        33.363515
+                  ]
+            },
+            {
+                  "name": "Al-Waysi Mosque",
+                  "text": "Az Al-Waysi mecset spirituális találkozóhelyként szolgál a muszlimok számára Fallúdzsa városi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.79809,
+                        33.364595
+                  ]
+            },
+            {
+                  "name": "Saad Bin Maaz Mosque",
+                  "text": "A Szaad bin Muász-mecset egy aktív iszlám istentiszteleti központ, amely napi imateret biztosít Fallúdzsa helyi muszlim közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.796304,
+                        33.362869
+                  ]
+            },
+            {
+                  "name": "Al-Tawfiq Mosque",
+                  "text": "A fallúdzsai Al-Taufík-mecset egy iszlám szentély, amelyet hagyományos minaretje és a helyi gyülekezetek számára kialakított imaterme jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        43.792907,
+                        33.365671
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "A fallúdzsai muszlim közösséget szolgáló Al-Szalam-mecset békés környezetet kínál a napi iszlám imákhoz és a spirituális összejövetelekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        43.804066,
+                        33.3328
+                  ]
+            },
+            {
+                  "name": "Al-Shamari Mosque",
+                  "text": "Az Al-Samari-mecset egy dedikált iszlám istentiszteleti hely Fallúdzsában, amely a helyi muszlim lakosságot gyűjti össze a hagyományos pénteki imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        43.792578,
+                        33.33416
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "A jámborság fogalmának szentelt fallúdzsai Al-Takva-mecset központi iszlám imateremként szolgál a környező negyed számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.783547,
+                        33.335283
+                  ]
+            },
+            {
+                  "name": "Jaffar Bin Abi Talib Mosque",
+                  "text": "A Dzsafar bin Abi Tálib-mecset helyi szentélyként működik Fallúdzsában, rendszeres közös imáknak és vallási szertartásoknak adva helyet.",
+                  "category": "religious",
+                  "coords": [
+                        43.784248,
+                        33.327953
+                  ]
+            },
+            {
+                  "name": "Shaker Al-Dahi Mosque",
+                  "text": "A Saker Al-Dahi-mecset egy környékbeli iszlám imahely Fallúdzsában, amely spirituális útmutatást és dedikált teret biztosít a napi szalát számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.761443,
+                        33.350103
+                  ]
+            },
+            {
+                  "name": "Al-Sahdun Mosque",
+                  "text": "A helyi hívőket összegyűjtő Al-Szaadún-mecset egy iszlám közösségi központ Fallúdzsában, amely a rendszeres gyülekezeti imáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.761983,
+                        33.353468
+                  ]
+            },
+            {
+                  "name": "Al- Bn Abi Talib Mosque",
+                  "text": "Az Al- Bn Abi Tálib-mecset Fallúdzsa muszlim lakosait szolgálja, és a helyi iszlám szentélyekre jellemző hagyományos építészeti elrendezéssel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        43.771484,
+                        33.341563
+                  ]
+            },
+            {
+                  "name": "Al-Shakrin Mosque",
+                  "text": "A nyugodt imatermet kínáló fallúdzsai Al-Sakrin-mecset az iszlám vallási szolgáltatások és a közösségi elmélkedés dedikált helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        43.773829,
+                        33.361389
+                  ]
+            },
+            {
+                  "name": "Al-Furqan Mosque",
+                  "text": "Az Al-Furkán-mecset egy kiemelkedő iszlám istentiszteleti központ Fallúdzsában, amely napi imákon és korántanulmányozásokon keresztül vezeti a helyi gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.773447,
+                        33.356828
+                  ]
+            },
+            {
+                  "name": "Saad Abi Waqas Mosque",
+                  "text": "A Próféta kiemelkedő társáról elnevezett fallúdzsai Szaad Abi Vakkász-mecset alapvető iszlám imalétesítményként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        43.780299,
+                        33.362496
+                  ]
+            },
+            {
+                  "name": "Ahmad Al-Badawi Mosque",
+                  "text": "Az Ahmed Al-Badawi-mecset dedikált spirituális teret biztosít Fallúdzsa helyi muszlim közössége számára, napi iszlám rituáléknak adva otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        43.775396,
+                        33.36594
+                  ]
+            },
+            {
+                  "name": "Al-Raqib Mosque",
+                  "text": "A környékbeli iszlám szentélyként működő fallúdzsai Al-Rakib-mecset csendes környezetet kínál az áhítathoz és a közös szalátához.",
+                  "category": "landmark",
+                  "coords": [
+                        43.769276,
+                        33.363471
+                  ]
+            },
+            {
+                  "name": "Abu Ayub al-Ansari Mosque",
+                  "text": "Az Abu Ajjúb al-Anszári-mecset egy aktív iszlám istentiszteleti hely Fallúdzsában, amely mindennapi spirituális és vallási szertartásokra várja a helyieket.",
+                  "category": "landmark",
+                  "coords": [
+                        43.75921,
+                        33.359755
+                  ]
+            },
+            {
+                  "name": "Siraj Al-Munir Mosque",
+                  "text": "A hit világítótornyaként szolgáló fallúdzsai Szirádzs Al-Munir-mecset a muszlim imaösszejövetelek és a vallási oktatás dedikált helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        43.756188,
+                        33.359088
+                  ]
+            },
+            {
+                  "name": "Rawdha Muhammediya Mosque",
+                  "text": "A fallúdzsai Raudha Muhammadijja-mecset egy helyi iszlám imahely, amely békés gyülekezeti teret kínál a környező közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.785494,
+                        33.359749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Hussain Bin Ali Mosque",
+                  "text": "Moscheea Al-Hussain Bin Ali este un lăcaș de cult islamic care se integrează în structura urbană a Fallujah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.808091,
+                        33.358575
+                  ]
+            },
+            {
+                  "name": "Al-Shuhada Mosque",
+                  "text": "Moscheea Al-Shuhada din Fallujah își amintește de martiri cu numele său și servește comunității islamice ca loc spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        43.80105,
+                        33.367507
+                  ]
+            },
+            {
+                  "name": "Al-Hassan bin Ali Mosque",
+                  "text": "Această moschee, numită după nepotul profetului, este o casă centrală de rugăciune islamică din zona rezidențială a orașului Fallujah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.804203,
+                        33.363515
+                  ]
+            },
+            {
+                  "name": "Al-Waysi Mosque",
+                  "text": "Moscheea Al-Waysi acționează ca un punct de întâlnire spiritual pentru musulmanii din contextul urban al Fallujah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.79809,
+                        33.364595
+                  ]
+            },
+            {
+                  "name": "Saad Bin Maaz Mosque",
+                  "text": "Moscheea Saad Bin Maaz este un centru de cult islamic activ, care oferă un spațiu zilnic de rugăciune pentru comunitatea musulmană locală din Fallujah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.796304,
+                        33.362869
+                  ]
+            },
+            {
+                  "name": "Al-Tawfiq Mosque",
+                  "text": "Moscheea Al-Tawfiq din Fallujah este un sanctuar islamic caracterizat prin minaretul său tradițional și sala de rugăciune concepută pentru congregațiile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        43.792907,
+                        33.365671
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Deservind comunitatea musulmană din Fallujah, Moscheea Al-Salam oferă un mediu liniștit pentru rugăciunile islamice zilnice și adunările spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        43.804066,
+                        33.3328
+                  ]
+            },
+            {
+                  "name": "Al-Shamari Mosque",
+                  "text": "Moscheea Al-Shamari este un lăcaș de cult islamic dedicat în Fallujah, adunând populația musulmană locală pentru rugăciunile tradiționale de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        43.792578,
+                        33.33416
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "Dedicată conceptului de pietate, Moscheea Al-Taqwa din Fallujah servește ca o sală centrală de rugăciune islamică pentru cartierul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        43.783547,
+                        33.335283
+                  ]
+            },
+            {
+                  "name": "Jaffar Bin Abi Talib Mosque",
+                  "text": "Moscheea Jaffar Bin Abi Talib funcționează ca un sanctuar local în Fallujah, găzduind rugăciuni comunale regulate și ceremonii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        43.784248,
+                        33.327953
+                  ]
+            },
+            {
+                  "name": "Shaker Al-Dahi Mosque",
+                  "text": "Moscheea Shaker Al-Dahi este un loc de rugăciune islamic de cartier în Fallujah, oferind îndrumare spirituală și un spațiu dedicat pentru salat zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        43.761443,
+                        33.350103
+                  ]
+            },
+            {
+                  "name": "Al-Sahdun Mosque",
+                  "text": "Adunând închinătorii locali, Moscheea Al-Sahdun este un centru comunitar islamic din Fallujah cunoscut pentru rugăciunile sale congregaționale regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        43.761983,
+                        33.353468
+                  ]
+            },
+            {
+                  "name": "Al- Bn Abi Talib Mosque",
+                  "text": "Moscheea Al- Bn Abi Talib deservește locuitorii musulmani din Fallujah, prezentând un aspect arhitectural tradițional pentru sanctuarele islamice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        43.771484,
+                        33.341563
+                  ]
+            },
+            {
+                  "name": "Al-Shakrin Mosque",
+                  "text": "Oferind o sală de rugăciune senină, Moscheea Al-Shakrin din Fallujah este un loc dedicat pentru serviciile religioase islamice și reflecția comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        43.773829,
+                        33.361389
+                  ]
+            },
+            {
+                  "name": "Al-Furqan Mosque",
+                  "text": "Moscheea Al-Furqan este un important centru de cult islamic din Fallujah, ghidând congreganții locali prin rugăciuni zilnice și studii coranice.",
+                  "category": "landmark",
+                  "coords": [
+                        43.773447,
+                        33.356828
+                  ]
+            },
+            {
+                  "name": "Saad Abi Waqas Mosque",
+                  "text": "Numită după însoțitorul proeminent al Profetului, Moscheea Saad Abi Waqas din Fallujah servește ca o facilitate esențială de rugăciune islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        43.780299,
+                        33.362496
+                  ]
+            },
+            {
+                  "name": "Ahmad Al-Badawi Mosque",
+                  "text": "Moscheea Ahmad Al-Badawi oferă un spațiu spiritual dedicat comunității musulmane locale din Fallujah, găzduind ritualuri islamice zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        43.775396,
+                        33.36594
+                  ]
+            },
+            {
+                  "name": "Al-Raqib Mosque",
+                  "text": "Funcționând ca un sanctuar islamic de cartier, Moscheea Al-Raqib din Fallujah oferă un mediu liniștit pentru devotament și salat comunal.",
+                  "category": "landmark",
+                  "coords": [
+                        43.769276,
+                        33.363471
+                  ]
+            },
+            {
+                  "name": "Abu Ayub al-Ansari Mosque",
+                  "text": "Moscheea Abu Ayub al-Ansari este o casă activă de cult islamic în Fallujah, primind localnicii pentru observații spirituale și religioase zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        43.75921,
+                        33.359755
+                  ]
+            },
+            {
+                  "name": "Siraj Al-Munir Mosque",
+                  "text": "Servind ca un far al credinței, Moscheea Siraj Al-Munir din Fallujah este un loc dedicat adunărilor de rugăciune musulmană și educației religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        43.756188,
+                        33.359088
+                  ]
+            },
+            {
+                  "name": "Rawdha Muhammediya Mosque",
+                  "text": "Moscheea Rawdha Muhammediya din Fallujah este un loc local de rugăciune islamică, oferind un spațiu congregațional pașnic pentru comunitatea din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        43.785494,
+                        33.359749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Hussain Bin Ali Mosque",
+                  "text": "Al-Hussain Bin Ali Mosque is an Islamic place of worship that blends into the urban fabric of Fallujah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.808091,
+                        33.358575
+                  ]
+            },
+            {
+                  "name": "Al-Shuhada Mosque",
+                  "text": "The Al-Shuhada Mosque in Fallujah commemorates martyrs with its name and serves the Islamic community as a spiritual site.",
+                  "category": "landmark",
+                  "coords": [
+                        43.80105,
+                        33.367507
+                  ]
+            },
+            {
+                  "name": "Al-Hassan bin Ali Mosque",
+                  "text": "Named after the Prophet's grandson, this mosque is a central Islamic prayer house in the residential area of Fallujah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.804203,
+                        33.363515
+                  ]
+            },
+            {
+                  "name": "Al-Waysi Mosque",
+                  "text": "The Al-Waysi Mosque acts as a spiritual meeting place for Muslims within the urban context of Fallujah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.79809,
+                        33.364595
+                  ]
+            },
+            {
+                  "name": "Saad Bin Maaz Mosque",
+                  "text": "The Saad Bin Maaz Mosque is an active Islamic worship center providing a daily prayer space for the local Muslim community in Fallujah.",
+                  "category": "landmark",
+                  "coords": [
+                        43.796304,
+                        33.362869
+                  ]
+            },
+            {
+                  "name": "Al-Tawfiq Mosque",
+                  "text": "Fallujah's Al-Tawfiq Mosque is an Islamic sanctuary characterized by its traditional minaret and prayer hall designed for local congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        43.792907,
+                        33.365671
+                  ]
+            },
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Serving the Muslim community of Fallujah, the Al-Salam Mosque offers a peaceful environment for daily Islamic prayers and spiritual gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        43.804066,
+                        33.3328
+                  ]
+            },
+            {
+                  "name": "Al-Shamari Mosque",
+                  "text": "The Al-Shamari Mosque is a dedicated Islamic place of worship in Fallujah, gathering the local Muslim population for traditional Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        43.792578,
+                        33.33416
+                  ]
+            },
+            {
+                  "name": "Al-Taqwa Mosque",
+                  "text": "Dedicated to the concept of piety, the Al-Taqwa Mosque in Fallujah serves as a central Islamic prayer hall for its surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        43.783547,
+                        33.335283
+                  ]
+            },
+            {
+                  "name": "Jaffar Bin Abi Talib Mosque",
+                  "text": "The Jaffar Bin Abi Talib Mosque functions as a local sanctuary in Fallujah, accommodating regular communal prayers and religious ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        43.784248,
+                        33.327953
+                  ]
+            },
+            {
+                  "name": "Shaker Al-Dahi Mosque",
+                  "text": "Shaker Al-Dahi Mosque is a neighborhood Islamic prayer site in Fallujah, providing spiritual guidance and a dedicated space for daily salat.",
+                  "category": "landmark",
+                  "coords": [
+                        43.761443,
+                        33.350103
+                  ]
+            },
+            {
+                  "name": "Al-Sahdun Mosque",
+                  "text": "Gathering local worshippers, the Al-Sahdun Mosque is an Islamic community center in Fallujah known for its regular congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        43.761983,
+                        33.353468
+                  ]
+            },
+            {
+                  "name": "Al- Bn Abi Talib Mosque",
+                  "text": "The Al- Bn Abi Talib Mosque serves the Muslim residents of Fallujah, featuring an architectural layout traditional for local Islamic sanctuaries.",
+                  "category": "landmark",
+                  "coords": [
+                        43.771484,
+                        33.341563
+                  ]
+            },
+            {
+                  "name": "Al-Shakrin Mosque",
+                  "text": "Offering a serene prayer hall, the Al-Shakrin Mosque in Fallujah is a dedicated venue for Islamic religious services and community reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        43.773829,
+                        33.361389
+                  ]
+            },
+            {
+                  "name": "Al-Furqan Mosque",
+                  "text": "The Al-Furqan Mosque is a prominent Islamic worship center in Fallujah, guiding local congregants through daily prayers and Quranic studies.",
+                  "category": "landmark",
+                  "coords": [
+                        43.773447,
+                        33.356828
+                  ]
+            },
+            {
+                  "name": "Saad Abi Waqas Mosque",
+                  "text": "Named after the prominent companion of the Prophet, the Saad Abi Waqas Mosque in Fallujah serves as an essential Islamic prayer facility.",
+                  "category": "landmark",
+                  "coords": [
+                        43.780299,
+                        33.362496
+                  ]
+            },
+            {
+                  "name": "Ahmad Al-Badawi Mosque",
+                  "text": "The Ahmad Al-Badawi Mosque provides a dedicated spiritual space for the local Muslim community in Fallujah, hosting daily Islamic rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        43.775396,
+                        33.36594
+                  ]
+            },
+            {
+                  "name": "Al-Raqib Mosque",
+                  "text": "Functioning as a neighborhood Islamic sanctuary, the Al-Raqib Mosque in Fallujah offers a quiet environment for devotion and communal salat.",
+                  "category": "landmark",
+                  "coords": [
+                        43.769276,
+                        33.363471
+                  ]
+            },
+            {
+                  "name": "Abu Ayub al-Ansari Mosque",
+                  "text": "The Abu Ayub al-Ansari Mosque is an active Islamic house of worship in Fallujah, welcoming locals for daily spiritual and religious observances.",
+                  "category": "landmark",
+                  "coords": [
+                        43.75921,
+                        33.359755
+                  ]
+            },
+            {
+                  "name": "Siraj Al-Munir Mosque",
+                  "text": "Serving as a beacon of faith, the Siraj Al-Munir Mosque in Fallujah is a dedicated venue for Muslim prayer gatherings and religious education.",
+                  "category": "landmark",
+                  "coords": [
+                        43.756188,
+                        33.359088
+                  ]
+            },
+            {
+                  "name": "Rawdha Muhammediya Mosque",
+                  "text": "The Rawdha Muhammediya Mosque in Fallujah is a local Islamic prayer site, offering a peaceful congregational space for the surrounding community.",
+                  "category": "landmark",
+                  "coords": [
+                        43.785494,
+                        33.359749
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-AN",
     coords: [43.78, 33.348],
@@ -564,7 +10779,628 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["Population env. 330 000", "Ancienne académie juive Pumbedita", "« Ville des Mosquées » (plus de 200)", "70 km à l'ouest de Bagdad", "Bataille de 1941 (guerre anglo-irakienne)", "Mandat britannique 1920-1932", "Ère Saddam 1979-2003", "Domination de l'EI 2014-2016, batailles américaines 2004"],
     }, image: "/poi-images/fallujah-cities-v2.webp"},
   {
-    id: "baqubah-cities-v2",
+    id: "baqubah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Remnants of war",
+                  "text": "Ein Ort mit militärischen Relikten, die als Mahnmal für die jüngste Konfliktgeschichte der Region dienen.",
+                  "category": "natural",
+                  "coords": [
+                        44.582413,
+                        33.795378
+                  ]
+            },
+            {
+                  "name": "Jaim Mohammed",
+                  "text": "Ein lokales Denkmal und eine Sehenswürdigkeit in der Umgebung von Baqubah.",
+                  "category": "landmark",
+                  "coords": [
+                        44.635809,
+                        33.799867
+                  ]
+            },
+            {
+                  "name": "Jerusalem Roundabout",
+                  "text": "Ein markanter Kreisverkehr mit einem symbolischen Denkmal im Stadtzentrum von Baqubah.",
+                  "category": "natural",
+                  "coords": [
+                        44.598813,
+                        33.778772
+                  ]
+            },
+            {
+                  "name": "mola rozy mosque",
+                  "text": "Ein historisches religiöses Denkmal, das der lokalen islamischen Kultur gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        44.652834,
+                        33.70541
+                  ]
+            },
+            {
+                  "name": "Qalat al Mutawalla",
+                  "text": "Die historischen Befestigungsanlagen einer alten Zitadelle mit Blick auf die Ebenen von Baqubah.",
+                  "category": "castle",
+                  "coords": [
+                        44.644792,
+                        33.68234
+                  ]
+            },
+            {
+                  "name": "Qalat al Mutawalli",
+                  "text": "Ruinen einer alten Festung, die Zeugnis von der mittelalterlichen Geschichte der Region ablegen.",
+                  "category": "castle",
+                  "coords": [
+                        44.645003,
+                        33.681107
+                  ]
+            },
+            {
+                  "name": "Saif Saad",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Blick über die Stadtlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.608626,
+                        33.693945
+                  ]
+            },
+            {
+                  "name": "Jomar coffee shop",
+                  "text": "Ein beliebtes Kaffeehaus, das für seine traditionelle Atmosphäre im Herzen von Baqubah bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.632736,
+                        33.750488
+                  ]
+            },
+            {
+                  "name": "Al Imran Mosque",
+                  "text": "Ein lokaler Ort der Anbetung und des Gebets für die muslimische Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        44.644687,
+                        33.738073
+                  ]
+            },
+            {
+                  "name": "Imam Abu al Karam",
+                  "text": "Ein religiöser Schrein und eine Moschee, die dem Imam Abu al Karam gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        44.683654,
+                        33.70863
+                  ]
+            },
+            {
+                  "name": "Ibrahim Ezzat Mosque",
+                  "text": "Eine moderne Moschee im Stadtviertel, die der lokalen Bevölkerung als Gebetsstätte dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.655003,
+                        33.75415
+                  ]
+            },
+            {
+                  "name": "Al-Amin Muhammad Mosque _may God bless him and grant him peace_",
+                  "text": "Eine dem Propheten gewidmete Gebetsstätte für die Gläubigen in Baqubah.",
+                  "category": "religious",
+                  "coords": [
+                        44.655669,
+                        33.761932
+                  ]
+            },
+            {
+                  "name": "Al-Farouk Mosque",
+                  "text": "Diese islamische Gebetsstätte in Baqubah zeichnet sich durch die für die Region typische Kuppel- und Minarettarchitektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        44.644254,
+                        33.753485
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Eine lokale Stadtviertel-Moschee in Baqubah, die als Zentrum für die täglichen islamischen Gebete dient.",
+                  "category": "religious",
+                  "coords": [
+                        44.614887,
+                        33.745159
+                  ]
+            },
+            {
+                  "name": "Al-Muhajireen Mosque",
+                  "text": "Die Al-Muhajireen-Moschee ist eine bedeutende religiöse Stätte in Baqubah für die örtliche muslimische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        44.602492,
+                        33.741233
+                  ]
+            },
+            {
+                  "name": "Ali bin abi talib Mosque",
+                  "text": "Diese nach dem vierten Kalifen benannte Moschee in Baqubah ist ein bedeutendes Zentrum für den islamischen Gottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        44.559761,
+                        33.764799
+                  ]
+            },
+            {
+                  "name": "Ameer's home",
+                  "text": "Eine natürliche thermale Heißwasserquelle in der Gegend von Baqubah, bekannt für ihr warmes Mineralwasser.",
+                  "category": "natural",
+                  "coords": [
+                        44.607089,
+                        33.786136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Remnants of war",
+                  "text": "Katonai ereklyéket bemutató helyszín, amely a régió közelmúltbeli konfliktusainak emlékműveként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        44.582413,
+                        33.795378
+                  ]
+            },
+            {
+                  "name": "Jaim Mohammed",
+                  "text": "Helyi emlékmű és látnivaló Baqubah környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.635809,
+                        33.799867
+                  ]
+            },
+            {
+                  "name": "Jerusalem Roundabout",
+                  "text": "Kiemelkedő körforgalom szimbolikus emlékművel Baqubah városközpontjában.",
+                  "category": "natural",
+                  "coords": [
+                        44.598813,
+                        33.778772
+                  ]
+            },
+            {
+                  "name": "mola rozy mosque",
+                  "text": "Történelmi vallási emlékmű, amelyet a helyi iszlám kultúrának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        44.652834,
+                        33.70541
+                  ]
+            },
+            {
+                  "name": "Qalat al Mutawalla",
+                  "text": "Egy régi citadella történelmi erődítményei, amelyek Baqubah síkságaira néznek.",
+                  "category": "castle",
+                  "coords": [
+                        44.644792,
+                        33.68234
+                  ]
+            },
+            {
+                  "name": "Qalat al Mutawalli",
+                  "text": "Egy régi erőd romjai, amelyek a régió középkori történelméről tanúskodnak.",
+                  "category": "castle",
+                  "coords": [
+                        44.645003,
+                        33.681107
+                  ]
+            },
+            {
+                  "name": "Saif Saad",
+                  "text": "Magaslati kilátóhely, amely széles rálátást biztosít a városi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        44.608626,
+                        33.693945
+                  ]
+            },
+            {
+                  "name": "Jomar coffee shop",
+                  "text": "Népszerű kávéház, amely Baqubah szívében található hagyományos hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.632736,
+                        33.750488
+                  ]
+            },
+            {
+                  "name": "Al Imran Mosque",
+                  "text": "Helyi istentiszteleti és imádkozási hely a muszlim közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        44.644687,
+                        33.738073
+                  ]
+            },
+            {
+                  "name": "Imam Abu al Karam",
+                  "text": "Imám Abu al Karamnak szentelt vallási kegyhely és mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        44.683654,
+                        33.70863
+                  ]
+            },
+            {
+                  "name": "Ibrahim Ezzat Mosque",
+                  "text": "Modern mecset a városnegyedben, amely a helyi lakosság imaházaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        44.655003,
+                        33.75415
+                  ]
+            },
+            {
+                  "name": "Al-Amin Muhammad Mosque _may God bless him and grant him peace_",
+                  "text": "A Prófétának szentelt imaház a hívők számára Baqubah-ban.",
+                  "category": "religious",
+                  "coords": [
+                        44.655669,
+                        33.761932
+                  ]
+            },
+            {
+                  "name": "Al-Farouk Mosque",
+                  "text": "Ez a baqubai iszlám imaház a régióra jellemző hagyományos kupolás és minaretes építészettel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        44.644254,
+                        33.753485
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Egy helyi negyedbeli mecset Baqubah-ban, amely a napi iszlám imádságok központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        44.614887,
+                        33.745159
+                  ]
+            },
+            {
+                  "name": "Al-Muhajireen Mosque",
+                  "text": "Az Al-Muhajireen mecset Baqubah egyik jelentős vallási helyszíne a helyi muszlim közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        44.602492,
+                        33.741233
+                  ]
+            },
+            {
+                  "name": "Ali bin abi talib Mosque",
+                  "text": "A negyedik kalifáról elnevezett mecset Baqubah-ban az iszlám istentisztelet jelentős központja.",
+                  "category": "landmark",
+                  "coords": [
+                        44.559761,
+                        33.764799
+                  ]
+            },
+            {
+                  "name": "Ameer's home",
+                  "text": "Természetes termálforrás Baqubah környékén, amely meleg ásványvizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        44.607089,
+                        33.786136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Remnants of war",
+                  "text": "Un sit care prezintă relicve militare, servind ca memorial pentru istoria recentă a conflictelor din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        44.582413,
+                        33.795378
+                  ]
+            },
+            {
+                  "name": "Jaim Mohammed",
+                  "text": "Un monument local și o atracție în zona Baqubah.",
+                  "category": "landmark",
+                  "coords": [
+                        44.635809,
+                        33.799867
+                  ]
+            },
+            {
+                  "name": "Jerusalem Roundabout",
+                  "text": "Un sens giratoriu proeminent, cu un monument simbolic în centrul orașului Baqubah.",
+                  "category": "natural",
+                  "coords": [
+                        44.598813,
+                        33.778772
+                  ]
+            },
+            {
+                  "name": "mola rozy mosque",
+                  "text": "Un monument religios istoric dedicat culturii islamice locale.",
+                  "category": "historical",
+                  "coords": [
+                        44.652834,
+                        33.70541
+                  ]
+            },
+            {
+                  "name": "Qalat al Mutawalla",
+                  "text": "Fortificațiile istorice ale unei vechi citadele care domină câmpiile din Baqubah.",
+                  "category": "castle",
+                  "coords": [
+                        44.644792,
+                        33.68234
+                  ]
+            },
+            {
+                  "name": "Qalat al Mutawalli",
+                  "text": "Ruinele unei vechi fortărețe care stau mărturie pentru istoria medievală a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        44.645003,
+                        33.681107
+                  ]
+            },
+            {
+                  "name": "Saif Saad",
+                  "text": "Un punct de belvedere ridicat care oferă o vedere largă asupra peisajului urban.",
+                  "category": "natural",
+                  "coords": [
+                        44.608626,
+                        33.693945
+                  ]
+            },
+            {
+                  "name": "Jomar coffee shop",
+                  "text": "O cafenea populară, cunoscută pentru atmosfera sa tradițională din inima orașului Baqubah.",
+                  "category": "landmark",
+                  "coords": [
+                        44.632736,
+                        33.750488
+                  ]
+            },
+            {
+                  "name": "Al Imran Mosque",
+                  "text": "Un loc local de închinare și rugăciune pentru comunitatea musulmană.",
+                  "category": "religious",
+                  "coords": [
+                        44.644687,
+                        33.738073
+                  ]
+            },
+            {
+                  "name": "Imam Abu al Karam",
+                  "text": "Un altar religios și o moschee dedicate Imamului Abu al Karam.",
+                  "category": "landmark",
+                  "coords": [
+                        44.683654,
+                        33.70863
+                  ]
+            },
+            {
+                  "name": "Ibrahim Ezzat Mosque",
+                  "text": "O moschee modernă în cartier, care servește populația locală ca lăcaș de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        44.655003,
+                        33.75415
+                  ]
+            },
+            {
+                  "name": "Al-Amin Muhammad Mosque _may God bless him and grant him peace_",
+                  "text": "Un lăcaș de rugăciune dedicat Profetului pentru credincioșii din Baqubah.",
+                  "category": "religious",
+                  "coords": [
+                        44.655669,
+                        33.761932
+                  ]
+            },
+            {
+                  "name": "Al-Farouk Mosque",
+                  "text": "Acest lăcaș de cult islamic din Baqubah prezintă arhitectura tradițională cu dom și minaret, specifică regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        44.644254,
+                        33.753485
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "O moschee locală din Baqubah care servește ca centru pentru rugăciunile islamice zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        44.614887,
+                        33.745159
+                  ]
+            },
+            {
+                  "name": "Al-Muhajireen Mosque",
+                  "text": "Moscheea Al-Muhajireen este un sit religios important din Baqubah pentru comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        44.602492,
+                        33.741233
+                  ]
+            },
+            {
+                  "name": "Ali bin abi talib Mosque",
+                  "text": "Numită după al patrulea calif, această moschee din Baqubah este un centru semnificativ pentru cultul islamic.",
+                  "category": "landmark",
+                  "coords": [
+                        44.559761,
+                        33.764799
+                  ]
+            },
+            {
+                  "name": "Ameer's home",
+                  "text": "Un izvor termal natural situat în zona Baqubah, cunoscut pentru apele sale minerale calde.",
+                  "category": "natural",
+                  "coords": [
+                        44.607089,
+                        33.786136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Remnants of war",
+                  "text": "A site featuring military relics that serve as a memorial to the region's recent conflict history.",
+                  "category": "natural",
+                  "coords": [
+                        44.582413,
+                        33.795378
+                  ]
+            },
+            {
+                  "name": "Jaim Mohammed",
+                  "text": "A local monument and attraction in the Baqubah area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.635809,
+                        33.799867
+                  ]
+            },
+            {
+                  "name": "Jerusalem Roundabout",
+                  "text": "A prominent roundabout featuring a symbolic monument in Baqubah's city center.",
+                  "category": "natural",
+                  "coords": [
+                        44.598813,
+                        33.778772
+                  ]
+            },
+            {
+                  "name": "mola rozy mosque",
+                  "text": "A historic religious monument dedicated to the local Islamic culture.",
+                  "category": "historical",
+                  "coords": [
+                        44.652834,
+                        33.70541
+                  ]
+            },
+            {
+                  "name": "Qalat al Mutawalla",
+                  "text": "The historic fortifications of an old citadel overlooking the plains of Baqubah.",
+                  "category": "castle",
+                  "coords": [
+                        44.644792,
+                        33.68234
+                  ]
+            },
+            {
+                  "name": "Qalat al Mutawalli",
+                  "text": "Ruins of an ancient fortress that stand as a testament to the region's medieval history.",
+                  "category": "castle",
+                  "coords": [
+                        44.645003,
+                        33.681107
+                  ]
+            },
+            {
+                  "name": "Saif Saad",
+                  "text": "An elevated viewpoint providing a broad overlook of the urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        44.608626,
+                        33.693945
+                  ]
+            },
+            {
+                  "name": "Jomar coffee shop",
+                  "text": "A popular coffee shop known for its traditional atmosphere in the heart of Baqubah.",
+                  "category": "landmark",
+                  "coords": [
+                        44.632736,
+                        33.750488
+                  ]
+            },
+            {
+                  "name": "Al Imran Mosque",
+                  "text": "A local place of worship and prayer for the Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        44.644687,
+                        33.738073
+                  ]
+            },
+            {
+                  "name": "Imam Abu al Karam",
+                  "text": "A religious shrine and mosque dedicated to Imam Abu al Karam.",
+                  "category": "landmark",
+                  "coords": [
+                        44.683654,
+                        33.70863
+                  ]
+            },
+            {
+                  "name": "Ibrahim Ezzat Mosque",
+                  "text": "A modern neighborhood mosque serving the local population as a place of prayer.",
+                  "category": "religious",
+                  "coords": [
+                        44.655003,
+                        33.75415
+                  ]
+            },
+            {
+                  "name": "Al-Amin Muhammad Mosque _may God bless him and grant him peace_",
+                  "text": "A place of worship dedicated to the Prophet for the faithful in Baqubah.",
+                  "category": "religious",
+                  "coords": [
+                        44.655669,
+                        33.761932
+                  ]
+            },
+            {
+                  "name": "Al-Farouk Mosque",
+                  "text": "This Islamic place of worship in Baqubah features traditional dome and minaret architecture common to the region.",
+                  "category": "landmark",
+                  "coords": [
+                        44.644254,
+                        33.753485
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "A local neighborhood mosque in Baqubah serving as a center for daily Islamic prayers.",
+                  "category": "religious",
+                  "coords": [
+                        44.614887,
+                        33.745159
+                  ]
+            },
+            {
+                  "name": "Al-Muhajireen Mosque",
+                  "text": "The Al-Muhajireen Mosque is a prominent religious site in Baqubah for the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        44.602492,
+                        33.741233
+                  ]
+            },
+            {
+                  "name": "Ali bin abi talib Mosque",
+                  "text": "Named after the fourth caliph, this mosque in Baqubah is a significant center for Islamic worship.",
+                  "category": "landmark",
+                  "coords": [
+                        44.559761,
+                        33.764799
+                  ]
+            },
+            {
+                  "name": "Ameer's home",
+                  "text": "A natural thermal hot spring located in the Baqubah area, known for its warm mineral waters.",
+                  "category": "natural",
+                  "coords": [
+                        44.607089,
+                        33.786136
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-DI",
     coords: [44.641, 33.748],
@@ -601,7 +11437,412 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Provincial capital of Diyala, with a population of approximately 467,000.", "Located 50 km northeast of Baghdad on the Diyala River.", "Widely known as Iraq's orange capital due to its massive citrus orchards.", "The name Baqubah likely comes from the Aramaic for 'House of the Tent'.", "Historic trade stop on the route between Baghdad and the Iranian border.", "Home to the University of Diyala, a major regional education center.", "Strategically located on the main highway to Kirkuk and northern Iraq.", "Climate: Hot semi-arid (BSh) with high summer temperature peaks."],
     }, image: "/poi-images/baqubah-cities-v2.webp"},
   {
-    id: "tikrit-cities-v2",
+    id: "tikrit-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "saud",
+                  "text": "Ein Erholungsplatz am Ufer des Tigris, der bei Einheimischen für Ausflüge beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.727297,
+                        34.667092
+                  ]
+            },
+            {
+                  "name": "Fast road",
+                  "text": "Ein erhöhter Aussichtspunkt an der Autobahn, der weite Panoramen der Landschaft von Tikrit bietet.",
+                  "category": "natural",
+                  "coords": [
+                        43.639893,
+                        34.661298
+                  ]
+            },
+            {
+                  "name": "Bilaj",
+                  "text": "Ein beliebter Strand- und Erholungsbereich am Flussufer des Tigris in Tikrit.",
+                  "category": "landmark",
+                  "coords": [
+                        43.685808,
+                        34.64376
+                  ]
+            },
+            {
+                  "name": "Qasur ssadam husien",
+                  "text": "Die Überreste eines prächtigen Palastkomplexes am Tigris, der früher Saddam Hussein gehörte.",
+                  "category": "museum",
+                  "coords": [
+                        43.691379,
+                        34.607077
+                  ]
+            },
+            {
+                  "name": "Oxfam",
+                  "text": "Ein markantes Verwaltungsgebäude, das als lokaler architektonischer Orientierungspunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        43.671738,
+                        34.603681
+                  ]
+            },
+            {
+                  "name": "The City of Tikrit Games",
+                  "text": "Ein lebhafter Vergnügungspark mit verschiedenen Fahrgeschäften und Unterhaltung für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        43.678539,
+                        34.595599
+                  ]
+            },
+            {
+                  "name": "The mosque",
+                  "text": "Eine lokale muslimische Gebetsstätte im Stadtviertel von Tikrit.",
+                  "category": "landmark",
+                  "coords": [
+                        43.671288,
+                        34.63148
+                  ]
+            },
+            {
+                  "name": "Abu Bakir Al sdeq",
+                  "text": "Eine nach dem ersten Kalifen benannte Moschee für die sunnitische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        43.653683,
+                        34.654596
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "Die Al-Salam-Moschee, ein Ort der Ruhe und des Gebets in Tikrit.",
+                  "category": "landmark",
+                  "coords": [
+                        43.659674,
+                        34.655148
+                  ]
+            },
+            {
+                  "name": "Alqahhar mosque",
+                  "text": "Ein islamischer Gebetsraum für die Gläubigen im Stadtgebiet.",
+                  "category": "religious",
+                  "coords": [
+                        43.647929,
+                        34.604507
+                  ]
+            },
+            {
+                  "name": "The Big Tikrit Mosque",
+                  "text": "Die große Moschee von Tikrit, ein zentrales Heiligtum mit markanter Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674232,
+                        34.598959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "saud",
+                  "text": "Rekreációs hely a Tigris partján, amely népszerű a helyiek körében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.727297,
+                        34.667092
+                  ]
+            },
+            {
+                  "name": "Fast road",
+                  "text": "Egy magaslati kilátóhely az autópálya mentén, ahonnan széles panoráma nyílik Tikrit tájára.",
+                  "category": "natural",
+                  "coords": [
+                        43.639893,
+                        34.661298
+                  ]
+            },
+            {
+                  "name": "Bilaj",
+                  "text": "Népszerű folyóparti strand és üdülőterület a Tigrisnél Tikritben.",
+                  "category": "landmark",
+                  "coords": [
+                        43.685808,
+                        34.64376
+                  ]
+            },
+            {
+                  "name": "Qasur ssadam husien",
+                  "text": "Egy korábban Szaddám Huszeinhez tartozó, a Tigris mentén fekvő hatalmas palotakomplexum maradványai.",
+                  "category": "museum",
+                  "coords": [
+                        43.691379,
+                        34.607077
+                  ]
+            },
+            {
+                  "name": "Oxfam",
+                  "text": "Egy nevezetes közigazgatási épület, amely helyi építészeti tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        43.671738,
+                        34.603681
+                  ]
+            },
+            {
+                  "name": "The City of Tikrit Games",
+                  "text": "Élénk vidámpark különféle játékokkal és szórakozási lehetőségekkel családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        43.678539,
+                        34.595599
+                  ]
+            },
+            {
+                  "name": "The mosque",
+                  "text": "Helyi muszlim imaház Tikrit városnegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.671288,
+                        34.63148
+                  ]
+            },
+            {
+                  "name": "Abu Bakir Al sdeq",
+                  "text": "Az első kalifáról elnevezett mecset a szunnita közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.653683,
+                        34.654596
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "Az Al-Szalam mecset, a nyugalom és az imádság helye Tikritben.",
+                  "category": "landmark",
+                  "coords": [
+                        43.659674,
+                        34.655148
+                  ]
+            },
+            {
+                  "name": "Alqahhar mosque",
+                  "text": "Iszlám imaterem a városi hívők számára.",
+                  "category": "religious",
+                  "coords": [
+                        43.647929,
+                        34.604507
+                  ]
+            },
+            {
+                  "name": "The Big Tikrit Mosque",
+                  "text": "Tikrit nagy mecsetje, központi szentély jellegzetes építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674232,
+                        34.598959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "saud",
+                  "text": "Un loc de recreere pe malul Tigrului, popular printre localnici pentru ieșiri.",
+                  "category": "landmark",
+                  "coords": [
+                        43.727297,
+                        34.667092
+                  ]
+            },
+            {
+                  "name": "Fast road",
+                  "text": "Un punct de belvedere ridicat de-a lungul autostrăzii, oferind panorame extinse asupra peisajului din Tikrit.",
+                  "category": "natural",
+                  "coords": [
+                        43.639893,
+                        34.661298
+                  ]
+            },
+            {
+                  "name": "Bilaj",
+                  "text": "O zonă populară de plajă și recreere pe malul râului Tigru în Tikrit.",
+                  "category": "landmark",
+                  "coords": [
+                        43.685808,
+                        34.64376
+                  ]
+            },
+            {
+                  "name": "Qasur ssadam husien",
+                  "text": "Rămășițele unui complex palatial grandios care a aparținut anterior lui Saddam Hussein, situat de-a lungul Tigrului.",
+                  "category": "museum",
+                  "coords": [
+                        43.691379,
+                        34.607077
+                  ]
+            },
+            {
+                  "name": "Oxfam",
+                  "text": "O clădire administrativă notabilă care servește drept punct de reper arhitectural local.",
+                  "category": "landmark",
+                  "coords": [
+                        43.671738,
+                        34.603681
+                  ]
+            },
+            {
+                  "name": "The City of Tikrit Games",
+                  "text": "Un parc de distracții plin de viață, cu diverse atracții și divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        43.678539,
+                        34.595599
+                  ]
+            },
+            {
+                  "name": "The mosque",
+                  "text": "Un lăcaș de cult musulman local în cartierul orașului Tikrit.",
+                  "category": "landmark",
+                  "coords": [
+                        43.671288,
+                        34.63148
+                  ]
+            },
+            {
+                  "name": "Abu Bakir Al sdeq",
+                  "text": "O moschee numită după primul calif pentru comunitatea sunnită.",
+                  "category": "landmark",
+                  "coords": [
+                        43.653683,
+                        34.654596
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "Moscheea Al Salam, un loc de liniște și rugăciune în Tikrit.",
+                  "category": "landmark",
+                  "coords": [
+                        43.659674,
+                        34.655148
+                  ]
+            },
+            {
+                  "name": "Alqahhar mosque",
+                  "text": "O sală de rugăciune islamică pentru credincioșii din zona urbană.",
+                  "category": "religious",
+                  "coords": [
+                        43.647929,
+                        34.604507
+                  ]
+            },
+            {
+                  "name": "The Big Tikrit Mosque",
+                  "text": "Marea Moschee din Tikrit, un sanctuar central cu o arhitectură distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674232,
+                        34.598959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "saud",
+                  "text": "A recreational spot on the banks of the Tigris, popular among locals for outings.",
+                  "category": "landmark",
+                  "coords": [
+                        43.727297,
+                        34.667092
+                  ]
+            },
+            {
+                  "name": "Fast road",
+                  "text": "An elevated viewpoint along the highway offering expansive panoramas of the Tikrit landscape.",
+                  "category": "natural",
+                  "coords": [
+                        43.639893,
+                        34.661298
+                  ]
+            },
+            {
+                  "name": "Bilaj",
+                  "text": "A popular riverside beach and recreation area along the Tigris in Tikrit.",
+                  "category": "landmark",
+                  "coords": [
+                        43.685808,
+                        34.64376
+                  ]
+            },
+            {
+                  "name": "Qasur ssadam husien",
+                  "text": "The remains of a grand palace complex formerly belonging to Saddam Hussein, situated along the Tigris.",
+                  "category": "museum",
+                  "coords": [
+                        43.691379,
+                        34.607077
+                  ]
+            },
+            {
+                  "name": "office",
+                  "text": "A notable administrative building serving as a local architectural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        43.671738,
+                        34.603681
+                  ]
+            },
+            {
+                  "name": "The City of Tikrit Games",
+                  "text": "A lively amusement park featuring various rides and entertainment for families.",
+                  "category": "recreational",
+                  "coords": [
+                        43.678539,
+                        34.595599
+                  ]
+            },
+            {
+                  "name": "The mosque",
+                  "text": "A local Muslim place of worship in the Tikrit city neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        43.671288,
+                        34.63148
+                  ]
+            },
+            {
+                  "name": "Abu Bakir Al sdeq",
+                  "text": "A mosque named after the first Caliph for the Sunni community.",
+                  "category": "landmark",
+                  "coords": [
+                        43.653683,
+                        34.654596
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "The Al Salam Mosque, a place of peace and prayer in Tikrit.",
+                  "category": "landmark",
+                  "coords": [
+                        43.659674,
+                        34.655148
+                  ]
+            },
+            {
+                  "name": "Alqahhar mosque",
+                  "text": "An Islamic prayer hall for worshippers in the urban area.",
+                  "category": "religious",
+                  "coords": [
+                        43.647929,
+                        34.604507
+                  ]
+            },
+            {
+                  "name": "The Big Tikrit Mosque",
+                  "text": "The Big Tikrit Mosque, a central sanctuary with distinctive architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674232,
+                        34.598959
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-SA",
     coords: [43.683, 34.6],
@@ -651,7 +11892,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Samarra Museum",
-                  "text": "Das Samarra Museum ist ein lokales Museum in Samarra.",
+                  "text": "Samarra-Museum, das archäologische Funde der abbasidischen Palaststadt aus dem 9. Jahrhundert zeigt.",
                   "category": "museum",
                   "coords": [
                         43.876455,
@@ -660,7 +11901,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "check point",
-                  "text": "Der check point bietet einen Aussichtspunkt in Samarra.",
+                  "text": "Aussichtspunkt in Samarra mit Blick auf die Ruinen der historischen Stadt und den Tigris.",
                   "category": "natural",
                   "coords": [
                         43.878328,
@@ -669,7 +11910,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "samarra park",
-                  "text": "Der samarra park ist eine lokale Sehenswürdigkeit in Samarra.",
+                  "text": "Samarra-Park, eine öffentliche Grünanlage am Ufer des Tigris mit Spazierwegen.",
                   "category": "landmark",
                   "coords": [
                         43.891233,
@@ -678,7 +11919,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "samarra park 2",
-                  "text": "Der samarra park 2 ist eine weitere Sehenswürdigkeit in Samarra.",
+                  "text": "Zweiter Samarra-Park, eine weitere Grünfläche mit Spielplatz und Gärten.",
                   "category": "landmark",
                   "coords": [
                         43.892362,
@@ -687,7 +11928,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Dour Lookout",
-                  "text": "سيطرة الدور ist ein Aussichtspunkt in der Stadt Samarra.",
+                  "text": "Al-Dour-Aussichtspunkt, von dem man den Dour-See und die umliegende Landschaft überblickt.",
                   "category": "natural",
                   "coords": [
                         43.883092,
@@ -716,7 +11957,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Samarra Museum",
-                  "text": "A Samarra Museum egy helyi múzeum Samarra városában.",
+                  "text": "Samarra Múzeum, amely a 9. századi abbászida palotaváros régészeti leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
                         43.876455,
@@ -725,7 +11966,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "check point",
-                  "text": "A check point egy kilátópont Samarra városában.",
+                  "text": "Kilátópont Samarrában, ahonnan a történelmi város romjaira és a Tigrisre látni.",
                   "category": "natural",
                   "coords": [
                         43.878328,
@@ -734,7 +11975,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "samarra park",
-                  "text": "A samarra park egy helyi látványosság Samarra városában.",
+                  "text": "Samarra Park, egy nyilvános zöldterület a Tigris partján sétányokkal.",
                   "category": "landmark",
                   "coords": [
                         43.891233,
@@ -743,7 +11984,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "samarra park 2",
-                  "text": "A samarra park 2 egy további látványosság Samarra városában.",
+                  "text": "Második Samarra Park, egy további zöldterület játszótérrel és kertekkel.",
                   "category": "landmark",
                   "coords": [
                         43.892362,
@@ -752,7 +11993,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Dour Lookout",
-                  "text": "A سيطرة الدور egy kilátópont Samarra városában.",
+                  "text": "Al-Dour kilátópont, ahonnan a Dour-tó és a környező táj látható.",
                   "category": "natural",
                   "coords": [
                         43.883092,
@@ -781,7 +12022,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Samarra Museum",
-                  "text": "Samarra Museum este un muzeu local situat în orașul Samarra.",
+                  "text": "Muzeul Samarra, care expune descoperiri arheologice ale orașului palat abbasid din secolul IX.",
                   "category": "museum",
                   "coords": [
                         43.876455,
@@ -790,7 +12031,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Check point",
-                  "text": "Check point este un punct de belvedere din Samarra.",
+                  "text": "Punct de belvedere în Samarra, cu vedere la ruinele orașului istoric și la râul Tigru.",
                   "category": "natural",
                   "coords": [
                         43.878328,
@@ -799,7 +12040,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Samarra park",
-                  "text": "Samarra park este o atracție locală din Samarra.",
+                  "text": "Parcul Samarra, un spațiu verde public pe malul Tigrului cu alei de plimbare.",
                   "category": "landmark",
                   "coords": [
                         43.891233,
@@ -808,7 +12049,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Samarra park 2",
-                  "text": "Samarra park 2 este o altă atracție turistică din Samarra.",
+                  "text": "Al doilea parc Samarra, o altă zonă verde cu loc de joacă și grădini.",
                   "category": "landmark",
                   "coords": [
                         43.892362,
@@ -817,7 +12058,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Dour Lookout",
-                  "text": "سيطرة الدور este un punct de belvedere situat în Samarra.",
+                  "text": "Punctul de belvedere Al-Dour, de unde se vede lacul Dour și peisajul înconjurător.",
                   "category": "natural",
                   "coords": [
                         43.883092,
@@ -846,7 +12087,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Samarra Museum",
-                  "text": "The Samarra Museum is a local museum located in Samarra.",
+                  "text": "Samarra Museum, displaying archaeological finds from the 9th-century Abbasid palace city.",
                   "category": "museum",
                   "coords": [
                         43.876455,
@@ -855,7 +12096,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "check point",
-                  "text": "The check point is a viewpoint situated in Samarra.",
+                  "text": "Check point lookout in Samarra, offering views of the ancient city ruins and the Tigris River.",
                   "category": "natural",
                   "coords": [
                         43.878328,
@@ -864,7 +12105,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "samarra park",
-                  "text": "The samarra park is a local attraction located in Samarra.",
+                  "text": "Samarra Park, a public green space on the Tigris riverside with walking paths.",
                   "category": "landmark",
                   "coords": [
                         43.891233,
@@ -873,7 +12114,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "samarra park 2",
-                  "text": "The samarra park 2 is another local attraction in Samarra.",
+                  "text": "Samarra Park 2, another green area with a playground and gardens.",
                   "category": "landmark",
                   "coords": [
                         43.892362,
@@ -882,7 +12123,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Dour Lookout",
-                  "text": "سيطرة الدور is a viewpoint located in the city of Samarra.",
+                  "text": "Al-Dour Lookout, offering panoramic views of Lake Dour and the surrounding landscape.",
                   "category": "natural",
                   "coords": [
                         43.883092,
@@ -942,7 +12183,88 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["Population env. 360 000", "Capitale des Abbassides 836-892", "Fondée par le calife al-Mutasim", "Minaret en spirale al-Malwiya (52 m)", "Patrimoine mondial de l'UNESCO depuis 2007", "Sanctuaire chiite al-Askari", "Attentat à la bombe le 22 février 2006", "Mandat britannique 1920-1932, Saddam 1979-2003"],
     }, image: "/poi-images/samarra-cities-v2.webp"},
   {
-    id: "samawah-cities-v2",
+    id: "samawah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Methal",
+                  "text": "Ein markantes Wahrzeichen im Stadtgebiet von Samawa am Ufer des Euphrat.",
+                  "category": "landmark",
+                  "coords": [
+                        45.253101,
+                        31.326315
+                  ]
+            },
+            {
+                  "name": "TOM FORD)",
+                  "text": "Ein modernes Einkaufsziel in Samawa, das internationale Marken und Mode anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        45.27041,
+                        31.31052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Methal",
+                  "text": "Jellegzetes városi tájékozódási pont Szamáva városában, az Eufrátesz partján.",
+                  "category": "landmark",
+                  "coords": [
+                        45.253101,
+                        31.326315
+                  ]
+            },
+            {
+                  "name": "TOM FORD)",
+                  "text": "Modern bevásárlóhely Szamávában, amely nemzetközi márkákat és divatcikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        45.27041,
+                        31.31052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Methal",
+                  "text": "Un reper urban distinctiv în orașul Samawah, situat pe malul Eufratului.",
+                  "category": "landmark",
+                  "coords": [
+                        45.253101,
+                        31.326315
+                  ]
+            },
+            {
+                  "name": "TOM FORD)",
+                  "text": "O destinație modernă de cumpărături din Samawah, oferind mărci internaționale și modă.",
+                  "category": "cultural",
+                  "coords": [
+                        45.27041,
+                        31.31052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Methal",
+                  "text": "A distinctive urban landmark in Samawah, located along the banks of the Euphrates.",
+                  "category": "landmark",
+                  "coords": [
+                        45.253101,
+                        31.326315
+                  ]
+            },
+            {
+                  "name": "TOM FORD)",
+                  "text": "A modern shopping destination in Samawah offering international brands and fashion.",
+                  "category": "cultural",
+                  "coords": [
+                        45.27041,
+                        31.31052
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-MU",
     coords: [45.286, 31.313],
@@ -979,7 +12301,1384 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Samawah is the administrative capital of Al-Muthanna Governorate.", "Located on the Euphrates River, roughly midway between Baghdad and Basra.", "The ancient city of Uruk, home of Gilgamesh, is located 30 km away.", "Home to Lake Sawa, a naturally formed salt lake in the desert.", "A primary center for Iraq's cement and salt industries.", "The city serves as a major junction on the Baghdad-Basra railway.", "Elevation is approximately 9 meters (30 feet) above sea level.", "The region is a significant producer of dates and seasonal wheat."],
     }, image: "/poi-images/samawah-cities-v2.webp"},
   {
-    id: "duhok-cities-v2",
+    id: "duhok-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ILLUSION MUSEUM DUHOK",
+                  "text": "Ein interaktives Museum mit optischen Täuschungen und Trickkunst, das Spaß für die ganze Familie bietet.",
+                  "category": "museum",
+                  "coords": [
+                        42.999905,
+                        36.867275
+                  ]
+            },
+            {
+                  "name": "Duhok Gallery for Plastic Arts",
+                  "text": "Diese Galerie zeigt zeitgenössische kurdische Malerei und Bildhauerei im Herzen von Duhok.",
+                  "category": "museum",
+                  "coords": [
+                        42.996752,
+                        36.864295
+                  ]
+            },
+            {
+                  "name": "Assyrian Church(Mart Maryam)",
+                  "text": "Diese der Jungfrau Maria geweihte assyrische Kirche ist ein zentraler Treffpunkt der christlichen Gemeinde in Duhok.",
+                  "category": "castle",
+                  "coords": [
+                        42.996554,
+                        36.866198
+                  ]
+            },
+            {
+                  "name": "Qachakh culture museum",
+                  "text": "Das Museum widmet sich der kurdischen Kulturgeschichte und stellt traditionelles Handwerk sowie Alltagsobjekte aus.",
+                  "category": "museum",
+                  "coords": [
+                        42.988836,
+                        36.873102
+                  ]
+            },
+            {
+                  "name": "Luqman's creations",
+                  "text": "Ein privater Ausstellungsraum, der die kreativen Werke und künstlerischen Visionen des lokalen Künstlers Luqman zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        42.971161,
+                        36.868794
+                  ]
+            },
+            {
+                  "name": "free methodist church",
+                  "text": "Ein Ort der christlichen Andacht, der die Vielfalt der Religionsgemeinschaften in der Stadt Duhok widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        42.989494,
+                        36.865156
+                  ]
+            },
+            {
+                  "name": "Bazaar area",
+                  "text": "Dieses belebte Basarviertel ist bekannt für den Duft lokaler Gewürze und den Verkauf traditioneller kurdischer Kleidung.",
+                  "category": "cultural",
+                  "coords": [
+                        42.997964,
+                        36.862055
+                  ]
+            },
+            {
+                  "name": "Nerwoz Bazaar",
+                  "text": "Ein lokaler Markt, auf dem Händler eine Vielzahl von Textilien, Haushaltswaren und frischen Lebensmitteln anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        42.996363,
+                        36.862902
+                  ]
+            },
+            {
+                  "name": "Parwar Market",
+                  "text": "Dieser Markt ist ein wichtiger Handelsplatz für die Bewohner von Duhok, auf dem lokale Handwerksprodukte verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        42.990772,
+                        36.87116
+                  ]
+            },
+            {
+                  "name": "over pas newroz",
+                  "text": "Diese Fußgängerbrücke bietet Passanten einen weiten Blick über die belebte Newroz-Straße und das Stadtpanorama.",
+                  "category": "landmark",
+                  "coords": [
+                        42.978196,
+                        36.867418
+                  ]
+            },
+            {
+                  "name": "Armenian church",
+                  "text": "Diese armenische Kirche dient der lokalen christlichen Minderheit als religiöses und kulturelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        42.94146,
+                        36.875888
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali Mosque",
+                  "text": "Eine markante Moschee in Duhok, die nach dem Prophetengefährten benannt ist und durch ihre Kuppel auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.946121,
+                        36.879353
+                  ]
+            },
+            {
+                  "name": "Molhim mosque",
+                  "text": "Ein beschaulicher Ort des Gebets, der durch seine schlichte Schönheit und Ruhe besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        42.955486,
+                        36.874551
+                  ]
+            },
+            {
+                  "name": "Khadija Al-Kubra Mosque",
+                  "text": "Diese nach der ersten Frau des Propheten benannte Moschee ist ein wichtiger Treffpunkt für die Gläubigen der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        42.926671,
+                        36.880007
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "Eine moderne Moschee mit klaren Linien, die Platz für die täglichen Gebetsversammlungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.064128,
+                        36.846853
+                  ]
+            },
+            {
+                  "name": "Husen Abdulla Mosque",
+                  "text": "Ein lokales islamisches Zentrum, das nach einer angesehenen Persönlichkeit benannt wurde und der geistlichen Erbauung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        43.081852,
+                        36.840758
+                  ]
+            },
+            {
+                  "name": "Mzury Mosque",
+                  "text": "Eine lokale Moschee im Mzury-Viertel von Duhok, die sich durch ihre traditionellen kurdischen Minarette auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        43.0021,
+                        36.85851
+                  ]
+            },
+            {
+                  "name": "Khabat Mosque",
+                  "text": "Diese Moschee in Duhok dient als religiöses Zentrum im Khabat-Viertel mit ihrer modernen islamischen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        43.007497,
+                        36.856526
+                  ]
+            },
+            {
+                  "name": "Kurdistan Mosque",
+                  "text": "Ein bedeutendes muslimisches Gotteshaus in Duhok, das nach der Region Kurdistan benannt ist und lokale Gläubige empfängt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.009007,
+                        36.858668
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Sdiq Mosque",
+                  "text": "Diese nach dem ersten Kalifen benannte Moschee ist ein zentraler Anlaufpunkt für das Gebet im Stadtgefüge von Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.011626,
+                        36.854947
+                  ]
+            },
+            {
+                  "name": "Baroshka Mosque",
+                  "text": "Die im Baroshka-Viertel gelegene Moschee ist ein markantes religiöses Gebäude in der hügeligen Landschaft von Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.0328,
+                        36.85068
+                  ]
+            },
+            {
+                  "name": "Peshasazi Mosque",
+                  "text": "Eine Moschee im Industriegebiet von Duhok, die den Arbeitern und Anwohnern des Peshasazi-Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        43.045738,
+                        36.852664
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "Die Rahma-Moschee (Moschee der Barmherzigkeit) ist ein friedvoller Gebetsort im modernen Stadtteil von Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036207,
+                        36.855478
+                  ]
+            },
+            {
+                  "name": "Qazi Muhammad Mosque",
+                  "text": "Benannt nach dem kurdischen Führer Qazi Muhammad, steht diese Moschee als Symbol der lokalen Identität in Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.022371,
+                        36.857251
+                  ]
+            },
+            {
+                  "name": "Haji Arabi Mosque",
+                  "text": "Ein traditioneller Gebetsort im Herzen von Duhok, der für seine lokale Gemeindearbeit im Haji-Arab-Viertel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.01589,
+                        36.85767
+                  ]
+            },
+            {
+                  "name": "Mula Majeed Mosque",
+                  "text": "Diese Moschee ist ein wichtiger religiöser Treffpunkt für die Bewohner des Mula-Majeed-Bezirks in Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.015363,
+                        36.85949
+                  ]
+            },
+            {
+                  "name": "Mizgefta Gel",
+                  "text": "Die Galy-Moschee liegt nahe der Schlucht von Duhok und bietet Gläubigen einen Blick auf die umliegenden Felswände.",
+                  "category": "landmark",
+                  "coords": [
+                        43.00402,
+                        36.86405
+                  ]
+            },
+            {
+                  "name": "Rekanya Mosque",
+                  "text": "Eine Moschee in Duhok, die nach dem Rekan-Stamm benannt ist und deren kulturelles Erbe in der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.997644,
+                        36.860842
+                  ]
+            },
+            {
+                  "name": "Chaldean Church",
+                  "text": "Diese Kirche ist ein bedeutendes geistliches Zentrum für die chaldäisch-katholische Gemeinschaft im christlichen Viertel von Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        42.995957,
+                        36.861835
+                  ]
+            },
+            {
+                  "name": "Mukhtary Mosque",
+                  "text": "Die Mukhtary-Moschee ist ein moderner Bau in Duhok, der für seine klaren geometrischen Linien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.987432,
+                        36.873355
+                  ]
+            },
+            {
+                  "name": "Gre Base Mosque",
+                  "text": "Diese Moschee liegt am Fuße eines der Hügel von Duhok und dient als lokales Wahrzeichen im Gre-Base-Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991393,
+                        36.865829
+                  ]
+            },
+            {
+                  "name": "Muhammad Mosque",
+                  "text": "Eine schlichte, aber zentrale Moschee in Duhok, die nach dem Propheten Muhammad benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991819,
+                        36.863938
+                  ]
+            },
+            {
+                  "name": "Amin Mosque",
+                  "text": "Die Amin-Moschee ist ein ruhiger Rückzugsort für das tägliche Gebet inmitten der geschäftigen Straßen von Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        42.98245,
+                        36.86913
+                  ]
+            },
+            {
+                  "name": "Shakhke Mosque",
+                  "text": "Die im Shakhke-Viertel gelegene Moschee fügt sich mit ihren hellen Steinfassaden in die Vorstadtarchitektur von Duhok ein.",
+                  "category": "landmark",
+                  "coords": [
+                        42.97951,
+                        36.87526
+                  ]
+            },
+            {
+                  "name": "ALNoor Al-Mobin Mosque",
+                  "text": "Die ALNoor Al-Mobin Moschee ist für ihre hell erleuchtete Fassade während der Abendgebete in Duhok bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        42.959475,
+                        36.877172
+                  ]
+            },
+            {
+                  "name": "Judy mosque",
+                  "text": "Diese Moschee in Duhok trägt den Namen des Berges Judy, auf dem nach lokaler Überlieferung die Arche Noah strandete.",
+                  "category": "landmark",
+                  "coords": [
+                        42.96715,
+                        36.870532
+                  ]
+            },
+            {
+                  "name": "Al-Walidayn Mosque",
+                  "text": "Eine der Eltern gewidmete Moschee in Duhok, die durch ihre gastfreundliche Atmosphäre und schlichte Minarette besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        42.93422,
+                        36.8802
+                  ]
+            },
+            {
+                  "name": "Shahid Mula Amin Mosque",
+                  "text": "Diese Moschee ist dem Märtyrer Mula Amin gewidmet und dient als Gedenk- und Gebetsstätte in Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.060854,
+                        36.84079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ILLUSION MUSEUM DUHOK",
+                  "text": "Interaktív múzeum optikai csalódásokkal és trükkös művészettel, amely az egész családnak szórakozást nyújt.",
+                  "category": "museum",
+                  "coords": [
+                        42.999905,
+                        36.867275
+                  ]
+            },
+            {
+                  "name": "Duhok Gallery for Plastic Arts",
+                  "text": "Ez a galéria kortárs kurd festményeket és szobrokat mutat be Duhok szívében.",
+                  "category": "museum",
+                  "coords": [
+                        42.996752,
+                        36.864295
+                  ]
+            },
+            {
+                  "name": "Assyrian Church(Mart Maryam)",
+                  "text": "Ez a Szűz Máriának szentelt asszír templom a duhoki keresztény közösség központi találkozóhelye.",
+                  "category": "castle",
+                  "coords": [
+                        42.996554,
+                        36.866198
+                  ]
+            },
+            {
+                  "name": "Qachakh culture museum",
+                  "text": "A múzeum a kurd kultúrtörténetnek szenteli magát, hagyományos mesterségeket és mindennapi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        42.988836,
+                        36.873102
+                  ]
+            },
+            {
+                  "name": "Luqman's creations",
+                  "text": "Magán kiállítótér, amely Luqman helyi művész kreatív alkotásait és művészi vízióit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        42.971161,
+                        36.868794
+                  ]
+            },
+            {
+                  "name": "free methodist church",
+                  "text": "A keresztény áhítat helye, amely Duhok város vallási közösségeinek sokszínűségét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        42.989494,
+                        36.865156
+                  ]
+            },
+            {
+                  "name": "Bazaar area",
+                  "text": "Ez a pezsgő bazárnegyed a helyi fűszerek illatáról és a hagyományos kurd ruhák árusításáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        42.997964,
+                        36.862055
+                  ]
+            },
+            {
+                  "name": "Nerwoz Bazaar",
+                  "text": "Helyi piac, ahol a kereskedők textiláruk, háztartási cikkek és friss élelmiszerek széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        42.996363,
+                        36.862902
+                  ]
+            },
+            {
+                  "name": "Parwar Market",
+                  "text": "Ez a piac Duhok lakosainak fontos kereskedelmi helye, ahol helyi kézműves termékeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        42.990772,
+                        36.87116
+                  ]
+            },
+            {
+                  "name": "over pas newroz",
+                  "text": "Ez a gyalogos felüljáró tágas kilátást nyújt a járókelőknek a nyüzsgő Newroz utcára és a városi panorámára.",
+                  "category": "landmark",
+                  "coords": [
+                        42.978196,
+                        36.867418
+                  ]
+            },
+            {
+                  "name": "Armenian church",
+                  "text": "Ez az örmény templom a helyi keresztény kisebbség vallási és kulturális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        42.94146,
+                        36.875888
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali Mosque",
+                  "text": "Duhok egyik jellegzetes mecsetje, amelyet a próféta társáról neveztek el, és kupolájával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        42.946121,
+                        36.879353
+                  ]
+            },
+            {
+                  "name": "Molhim mosque",
+                  "text": "Nyugodt imádkozási hely, amely egyszerű szépségével és csendjével hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        42.955486,
+                        36.874551
+                  ]
+            },
+            {
+                  "name": "Khadija Al-Kubra Mosque",
+                  "text": "A próféta első feleségéről elnevezett mecset a környék hívőinek fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        42.926671,
+                        36.880007
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "Modern mecset letisztult vonalakkal, amely helyet biztosít a napi imaösszejöveteleknek.",
+                  "category": "landmark",
+                  "coords": [
+                        43.064128,
+                        36.846853
+                  ]
+            },
+            {
+                  "name": "Husen Abdulla Mosque",
+                  "text": "Helyi iszlám központ, amelyet egy tisztelt személyiségről neveztek el, és a lelki épülést szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        43.081852,
+                        36.840758
+                  ]
+            },
+            {
+                  "name": "Mzury Mosque",
+                  "text": "Helyi mecset Duhok Mzury negyedében, amely hagyományos kurd minaretjeivel szolgálja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        43.0021,
+                        36.85851
+                  ]
+            },
+            {
+                  "name": "Khabat Mosque",
+                  "text": "Ez a duhoki mecset a Khabat negyed vallási központjaként szolgál modern iszlám építészetével.",
+                  "category": "landmark",
+                  "coords": [
+                        43.007497,
+                        36.856526
+                  ]
+            },
+            {
+                  "name": "Kurdistan Mosque",
+                  "text": "Duhok egyik jelentős muszlim imaháza, amely Kurdisztán régióról kapta a nevét és fogadja a helyi hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        43.009007,
+                        36.858668
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Sdiq Mosque",
+                  "text": "Ez az első kalifáról elnevezett mecset a városi ima központi helyszíne Duhok szövetében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.011626,
+                        36.854947
+                  ]
+            },
+            {
+                  "name": "Baroshka Mosque",
+                  "text": "A Baroshka negyedben található mecset Duhok dombos tájának jellegzetes vallási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        43.0328,
+                        36.85068
+                  ]
+            },
+            {
+                  "name": "Peshasazi Mosque",
+                  "text": "Mecset Duhok ipari területén, amely a Peshasazi negyed munkásait és lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        43.045738,
+                        36.852664
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "A Rahma-mecset (az irgalmasság mecsetje) egy békés imádságos hely Duhok modern városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036207,
+                        36.855478
+                  ]
+            },
+            {
+                  "name": "Qazi Muhammad Mosque",
+                  "text": "A kurd vezetőről, Qazi Muhammad-ról elnevezett mecset a helyi identitás szimbólumaként áll Duhokban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.022371,
+                        36.857251
+                  ]
+            },
+            {
+                  "name": "Haji Arabi Mosque",
+                  "text": "Hagyományos imádkozóhely Duhok szívében, amely a Haji Arab negyedben végzett helyi közösségi munkájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.01589,
+                        36.85767
+                  ]
+            },
+            {
+                  "name": "Mula Majeed Mosque",
+                  "text": "Ez a mecset fontos vallási találkozóhely Duhok Mula Majeed negyedének lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.015363,
+                        36.85949
+                  ]
+            },
+            {
+                  "name": "Mizgefta Gel",
+                  "text": "A Galy-mecset a duhoki szurdok közelében található, kilátást nyújtva a hívőknek a környező sziklafalakra.",
+                  "category": "landmark",
+                  "coords": [
+                        43.00402,
+                        36.86405
+                  ]
+            },
+            {
+                  "name": "Rekanya Mosque",
+                  "text": "Duhoki mecset, amelyet a Rekan törzsről neveztek el, tükrözve a régió kulturális örökségét.",
+                  "category": "landmark",
+                  "coords": [
+                        42.997644,
+                        36.860842
+                  ]
+            },
+            {
+                  "name": "Chaldean Church",
+                  "text": "Ez a templom a káld katolikus közösség jelentős lelki központja Duhok keresztény negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        42.995957,
+                        36.861835
+                  ]
+            },
+            {
+                  "name": "Mukhtary Mosque",
+                  "text": "A Mukhtary-mecset egy modern épület Duhokban, amely tiszta geometrikus vonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        42.987432,
+                        36.873355
+                  ]
+            },
+            {
+                  "name": "Gre Base Mosque",
+                  "text": "Ez a mecset Duhok egyik dombjának lábánál található, és a Gre Base negyed helyi tájékozódási pontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991393,
+                        36.865829
+                  ]
+            },
+            {
+                  "name": "Muhammad Mosque",
+                  "text": "Egy egyszerű, de központi mecset Duhokban, amelyet Mohamed prófétáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991819,
+                        36.863938
+                  ]
+            },
+            {
+                  "name": "Amin Mosque",
+                  "text": "Az Amin-mecset az imádság csendes szigete a napi imákhoz Duhok forgalmas utcái közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        42.98245,
+                        36.86913
+                  ]
+            },
+            {
+                  "name": "Shakhke Mosque",
+                  "text": "A Shakhke negyedben található mecset világos kőhomlokzatával illeszkedik Duhok elővárosi építészetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        42.97951,
+                        36.87526
+                  ]
+            },
+            {
+                  "name": "ALNoor Al-Mobin Mosque",
+                  "text": "Az ALNoor Al-Mobin mecset a duhoki esti imák idején fényesen kivilágított homlokzatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        42.959475,
+                        36.877172
+                  ]
+            },
+            {
+                  "name": "Judy mosque",
+                  "text": "Ez a duhoki mecset a Judy-hegy nevét viseli, ahol a helyi hagyomány szerint Noé bárkája megfeneklett.",
+                  "category": "landmark",
+                  "coords": [
+                        42.96715,
+                        36.870532
+                  ]
+            },
+            {
+                  "name": "Al-Walidayn Mosque",
+                  "text": "A szülőknek szentelt mecset Duhokban, amely vendégszerető légkörével és egyszerű minaretjeivel tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        42.93422,
+                        36.8802
+                  ]
+            },
+            {
+                  "name": "Shahid Mula Amin Mosque",
+                  "text": "Ezt a mecsetet Mula Amin mártírnak szentelték, emlékhelyként és imaházként szolgál Duhokban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.060854,
+                        36.84079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ILLUSION MUSEUM DUHOK",
+                  "text": "Un muzeu interactiv cu iluzii optice și artă prin trucuri, oferind distracție pentru întreaga familie.",
+                  "category": "museum",
+                  "coords": [
+                        42.999905,
+                        36.867275
+                  ]
+            },
+            {
+                  "name": "Duhok Gallery for Plastic Arts",
+                  "text": "Această galerie expune pictură și sculptură kurdă contemporană în inima orașului Duhok.",
+                  "category": "museum",
+                  "coords": [
+                        42.996752,
+                        36.864295
+                  ]
+            },
+            {
+                  "name": "Assyrian Church(Mart Maryam)",
+                  "text": "Această biserică asiriană dedicată Fecioarei Maria este un punct central de întâlnire pentru comunitatea creștină din Duhok.",
+                  "category": "castle",
+                  "coords": [
+                        42.996554,
+                        36.866198
+                  ]
+            },
+            {
+                  "name": "Qachakh culture museum",
+                  "text": "Muzeul este dedicat istoriei culturale kurde, expunând meșteșuguri tradiționale și obiecte de uz cotidian.",
+                  "category": "museum",
+                  "coords": [
+                        42.988836,
+                        36.873102
+                  ]
+            },
+            {
+                  "name": "Luqman's creations",
+                  "text": "Un spațiu expozițional privat care prezintă lucrările creative și viziunile artistice ale artistului local Luqman.",
+                  "category": "museum",
+                  "coords": [
+                        42.971161,
+                        36.868794
+                  ]
+            },
+            {
+                  "name": "free methodist church",
+                  "text": "Un loc de devoțiune creștină care reflectă diversitatea comunităților religioase din orașul Duhok.",
+                  "category": "religious",
+                  "coords": [
+                        42.989494,
+                        36.865156
+                  ]
+            },
+            {
+                  "name": "Bazaar area",
+                  "text": "Această zonă de bazar plină de viață este cunoscută pentru parfumul mirodeniilor locale și vânzarea hainelor tradiționale kurde.",
+                  "category": "cultural",
+                  "coords": [
+                        42.997964,
+                        36.862055
+                  ]
+            },
+            {
+                  "name": "Nerwoz Bazaar",
+                  "text": "O piață locală unde comercianții oferă o varietate de textile, articole de uz casnic și alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        42.996363,
+                        36.862902
+                  ]
+            },
+            {
+                  "name": "Parwar Market",
+                  "text": "Această piață este un loc comercial important pentru locuitorii din Duhok, unde se vând produse artizanale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        42.990772,
+                        36.87116
+                  ]
+            },
+            {
+                  "name": "over pas newroz",
+                  "text": "Această pasarelă pietonală oferă trecătorilor o vedere largă asupra străzii animate Newroz și a panoramei orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        42.978196,
+                        36.867418
+                  ]
+            },
+            {
+                  "name": "Armenian church",
+                  "text": "Această biserică armeană servește minorității creștine locale ca centru religios și cultural.",
+                  "category": "landmark",
+                  "coords": [
+                        42.94146,
+                        36.875888
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali Mosque",
+                  "text": "O moschee proeminentă din Duhok, numită după companionul profetului, remarcându-se prin cupola sa.",
+                  "category": "landmark",
+                  "coords": [
+                        42.946121,
+                        36.879353
+                  ]
+            },
+            {
+                  "name": "Molhim mosque",
+                  "text": "Un loc liniștit de rugăciune, care impresionează prin frumusețea sa simplă și liniște.",
+                  "category": "landmark",
+                  "coords": [
+                        42.955486,
+                        36.874551
+                  ]
+            },
+            {
+                  "name": "Khadija Al-Kubra Mosque",
+                  "text": "Această moschee, numită după prima soție a profetului, este un punct important de întâlnire pentru credincioșii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        42.926671,
+                        36.880007
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "O moschee modernă cu linii clare, care oferă spațiu pentru adunările zilnice de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        43.064128,
+                        36.846853
+                  ]
+            },
+            {
+                  "name": "Husen Abdulla Mosque",
+                  "text": "Un centru islamic local numit după o personalitate respectată, dedicat edificării spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        43.081852,
+                        36.840758
+                  ]
+            },
+            {
+                  "name": "Mzury Mosque",
+                  "text": "O moschee locală în cartierul Mzury din Duhok, remarcabilă prin minaretele sale în stil tradițional kurd.",
+                  "category": "landmark",
+                  "coords": [
+                        43.0021,
+                        36.85851
+                  ]
+            },
+            {
+                  "name": "Khabat Mosque",
+                  "text": "Această moschee din Duhok servește ca centru religios în cartierul Khabat, având o arhitectură islamică modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        43.007497,
+                        36.856526
+                  ]
+            },
+            {
+                  "name": "Kurdistan Mosque",
+                  "text": "Un lăcaș de cult musulman important în Duhok, numit după regiunea Kurdistan, care primește credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        43.009007,
+                        36.858668
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Sdiq Mosque",
+                  "text": "Această moschee numită după primul calif este un punct central pentru rugăciune în structura urbană a orașului Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.011626,
+                        36.854947
+                  ]
+            },
+            {
+                  "name": "Baroshka Mosque",
+                  "text": "Situată în cartierul Baroshka, moscheea este o clădire religioasă distinctivă în peisajul deluros al orașului Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.0328,
+                        36.85068
+                  ]
+            },
+            {
+                  "name": "Peshasazi Mosque",
+                  "text": "O moschee în zona industrială a orașului Duhok, care deservește lucrătorii și rezidenții din cartierul Peshasazi.",
+                  "category": "landmark",
+                  "coords": [
+                        43.045738,
+                        36.852664
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "Moscheea Rahma (a Milostivirii) este un loc de rugăciune pașnic în partea modernă a orașului Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036207,
+                        36.855478
+                  ]
+            },
+            {
+                  "name": "Qazi Muhammad Mosque",
+                  "text": "Numită după liderul kurd Qazi Muhammad, această moschee reprezintă un simbol al identității locale în Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.022371,
+                        36.857251
+                  ]
+            },
+            {
+                  "name": "Haji Arabi Mosque",
+                  "text": "Un loc tradițional de rugăciune în inima orașului Duhok, cunoscut pentru activitatea sa în comunitatea locală din cartierul Haji Arab.",
+                  "category": "landmark",
+                  "coords": [
+                        43.01589,
+                        36.85767
+                  ]
+            },
+            {
+                  "name": "Mula Majeed Mosque",
+                  "text": "Această moschee este un punct de întâlnire religios important pentru locuitorii districtului Mula Majeed din Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.015363,
+                        36.85949
+                  ]
+            },
+            {
+                  "name": "Mizgefta Gel",
+                  "text": "Moscheea Galy este situată lângă defileul din Duhok, oferind credincioșilor o vedere spre pereții de stâncă din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        43.00402,
+                        36.86405
+                  ]
+            },
+            {
+                  "name": "Rekanya Mosque",
+                  "text": "O moschee din Duhok numită după tribul Rekan, reflectând moștenirea culturală a acestuia în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        42.997644,
+                        36.860842
+                  ]
+            },
+            {
+                  "name": "Chaldean Church",
+                  "text": "Această biserică este un centru spiritual important pentru comunitatea caldeeană catolică din cartierul creștin al orașului Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        42.995957,
+                        36.861835
+                  ]
+            },
+            {
+                  "name": "Mukhtary Mosque",
+                  "text": "Moscheea Mukhtary este o construcție modernă în Duhok, cunoscută pentru liniile sale geometrice clare.",
+                  "category": "landmark",
+                  "coords": [
+                        42.987432,
+                        36.873355
+                  ]
+            },
+            {
+                  "name": "Gre Base Mosque",
+                  "text": "Această moschee se află la poalele unuia dintre dealurile din Duhok, servind ca reper local în cartierul Gre Base.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991393,
+                        36.865829
+                  ]
+            },
+            {
+                  "name": "Muhammad Mosque",
+                  "text": "O moschee simplă, dar centrală în Duhok, numită după profetul Muhammad.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991819,
+                        36.863938
+                  ]
+            },
+            {
+                  "name": "Amin Mosque",
+                  "text": "Moscheea Amin este un refugiu liniștit pentru rugăciunea zilnică, în mijlocul străzilor aglomerate din Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        42.98245,
+                        36.86913
+                  ]
+            },
+            {
+                  "name": "Shakhke Mosque",
+                  "text": "Situată în cartierul Shakhke, moscheea se integrează în arhitectura suburbană a orașului Duhok prin fațadele sale din piatră deschisă la culoare.",
+                  "category": "landmark",
+                  "coords": [
+                        42.97951,
+                        36.87526
+                  ]
+            },
+            {
+                  "name": "ALNoor Al-Mobin Mosque",
+                  "text": "Moscheea ALNoor Al-Mobin este cunoscută pentru fațada sa luminată puternic în timpul rugăciunilor de seară din Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        42.959475,
+                        36.877172
+                  ]
+            },
+            {
+                  "name": "Judy mosque",
+                  "text": "Această moschee din Duhok poartă numele Muntelui Judy, unde, conform tradiției locale, s-ar fi oprit arca lui Noe.",
+                  "category": "landmark",
+                  "coords": [
+                        42.96715,
+                        36.870532
+                  ]
+            },
+            {
+                  "name": "Al-Walidayn Mosque",
+                  "text": "O moschee dedicată părinților în Duhok, care se remarcă prin atmosfera sa primitoare și minaretele simple.",
+                  "category": "landmark",
+                  "coords": [
+                        42.93422,
+                        36.8802
+                  ]
+            },
+            {
+                  "name": "Shahid Mula Amin Mosque",
+                  "text": "Această moschee este dedicată martirului Mula Amin, servind ca loc de comemorare și rugăciune în Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.060854,
+                        36.84079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ILLUSION MUSEUM DUHOK",
+                  "text": "An interactive museum featuring optical illusions and trick art, providing fun for the whole family.",
+                  "category": "museum",
+                  "coords": [
+                        42.999905,
+                        36.867275
+                  ]
+            },
+            {
+                  "name": "Duhok Gallery for Plastic Arts",
+                  "text": "This gallery showcases contemporary Kurdish painting and sculpture in the heart of Duhok.",
+                  "category": "museum",
+                  "coords": [
+                        42.996752,
+                        36.864295
+                  ]
+            },
+            {
+                  "name": "Assyrian Church(Mart Maryam)",
+                  "text": "This Assyrian church dedicated to the Virgin Mary is a central meeting point for the Christian community in Duhok.",
+                  "category": "castle",
+                  "coords": [
+                        42.996554,
+                        36.866198
+                  ]
+            },
+            {
+                  "name": "Qachakh culture museum",
+                  "text": "The museum is dedicated to Kurdish cultural history, exhibiting traditional crafts and everyday objects.",
+                  "category": "museum",
+                  "coords": [
+                        42.988836,
+                        36.873102
+                  ]
+            },
+            {
+                  "name": "Luqman's creations",
+                  "text": "A private exhibition space showcasing the creative works and artistic visions of local artist Luqman.",
+                  "category": "museum",
+                  "coords": [
+                        42.971161,
+                        36.868794
+                  ]
+            },
+            {
+                  "name": "free methodist church",
+                  "text": "A place of Christian worship reflecting the diversity of religious communities within Duhok city.",
+                  "category": "religious",
+                  "coords": [
+                        42.989494,
+                        36.865156
+                  ]
+            },
+            {
+                  "name": "Bazaar area",
+                  "text": "This bustling bazaar area is known for the scent of local spices and the sale of traditional Kurdish clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        42.997964,
+                        36.862055
+                  ]
+            },
+            {
+                  "name": "Nerwoz Bazaar",
+                  "text": "A local market where vendors offer a variety of textiles, household goods, and fresh food items.",
+                  "category": "cultural",
+                  "coords": [
+                        42.996363,
+                        36.862902
+                  ]
+            },
+            {
+                  "name": "Parwar Market",
+                  "text": "This market is an important trading spot for Duhok residents, where local handcrafted products are sold.",
+                  "category": "cultural",
+                  "coords": [
+                        42.990772,
+                        36.87116
+                  ]
+            },
+            {
+                  "name": "over pas newroz",
+                  "text": "This pedestrian overpass offers passersby a wide view over the busy Newroz street and the city skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        42.978196,
+                        36.867418
+                  ]
+            },
+            {
+                  "name": "Armenian church",
+                  "text": "This Armenian church serves the local Christian minority as a religious and cultural center.",
+                  "category": "landmark",
+                  "coords": [
+                        42.94146,
+                        36.875888
+                  ]
+            },
+            {
+                  "name": "Muhammad Ali Mosque",
+                  "text": "A prominent mosque in Duhok named after the prophet's companion, standing out with its distinctive dome.",
+                  "category": "landmark",
+                  "coords": [
+                        42.946121,
+                        36.879353
+                  ]
+            },
+            {
+                  "name": "Molhim mosque",
+                  "text": "A tranquil place of prayer noted for its simple beauty and peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        42.955486,
+                        36.874551
+                  ]
+            },
+            {
+                  "name": "Khadija Al-Kubra Mosque",
+                  "text": "Named after the prophet's first wife, this mosque is a key gathering place for local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        42.926671,
+                        36.880007
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "A modern mosque with clean lines, providing space for daily prayer congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        43.064128,
+                        36.846853
+                  ]
+            },
+            {
+                  "name": "Husen Abdulla Mosque",
+                  "text": "A local Islamic center named after a respected figure, dedicated to spiritual edification.",
+                  "category": "landmark",
+                  "coords": [
+                        43.081852,
+                        36.840758
+                  ]
+            },
+            {
+                  "name": "Mzury Mosque",
+                  "text": "A local mosque in the Mzury neighborhood of Duhok, featuring traditional Kurdish-style minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        43.0021,
+                        36.85851
+                  ]
+            },
+            {
+                  "name": "Khabat Mosque",
+                  "text": "This mosque in Duhok serves as a religious center in the Khabat neighborhood with its modern Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        43.007497,
+                        36.856526
+                  ]
+            },
+            {
+                  "name": "Kurdistan Mosque",
+                  "text": "A prominent Muslim house of worship in Duhok named after the Kurdistan region, welcoming local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        43.009007,
+                        36.858668
+                  ]
+            },
+            {
+                  "name": "Abu Bakr Sdiq Mosque",
+                  "text": "Named after the first caliph, this mosque is a central point for prayer within the urban fabric of Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.011626,
+                        36.854947
+                  ]
+            },
+            {
+                  "name": "Baroshka Mosque",
+                  "text": "Located in the Baroshka neighborhood, the mosque is a distinctive religious building in Duhok's hilly landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        43.0328,
+                        36.85068
+                  ]
+            },
+            {
+                  "name": "Peshasazi Mosque",
+                  "text": "A mosque in the industrial area of Duhok, serving the workers and residents of the Peshasazi district.",
+                  "category": "landmark",
+                  "coords": [
+                        43.045738,
+                        36.852664
+                  ]
+            },
+            {
+                  "name": "Rahma Mosque",
+                  "text": "The Rahma Mosque (Mosque of Mercy) is a peaceful place of prayer in the modern section of Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.036207,
+                        36.855478
+                  ]
+            },
+            {
+                  "name": "Qazi Muhammad Mosque",
+                  "text": "Named after the Kurdish leader Qazi Muhammad, this mosque stands as a symbol of local identity in Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.022371,
+                        36.857251
+                  ]
+            },
+            {
+                  "name": "Haji Arab mosque",
+                  "text": "A traditional place of worship in the heart of Duhok, known for its local community service in the Haji Arab neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        43.01589,
+                        36.85767
+                  ]
+            },
+            {
+                  "name": "Mula Majeed Mosque",
+                  "text": "This mosque is an important religious gathering place for residents of the Mula Majeed district in Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.015363,
+                        36.85949
+                  ]
+            },
+            {
+                  "name": "Galy Mosque",
+                  "text": "The Galy Mosque is situated near the Duhok gorge, offering worshippers a view of the surrounding rock faces.",
+                  "category": "landmark",
+                  "coords": [
+                        43.00402,
+                        36.86405
+                  ]
+            },
+            {
+                  "name": "Rekanya Mosque",
+                  "text": "A mosque in Duhok named after the Rekan tribe, reflecting their cultural heritage in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        42.997644,
+                        36.860842
+                  ]
+            },
+            {
+                  "name": "Chaldean Church",
+                  "text": "This church is a major spiritual hub for the Chaldean Catholic community in Duhok's Christian quarter.",
+                  "category": "landmark",
+                  "coords": [
+                        42.995957,
+                        36.861835
+                  ]
+            },
+            {
+                  "name": "Mukhtary Mosque",
+                  "text": "The Mukhtary Mosque is a modern construction in Duhok, noted for its clean geometric lines.",
+                  "category": "landmark",
+                  "coords": [
+                        42.987432,
+                        36.873355
+                  ]
+            },
+            {
+                  "name": "Gre Base Mosque",
+                  "text": "This mosque is situated at the foot of one of Duhok's hills, serving as a local landmark in the Gre Base area.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991393,
+                        36.865829
+                  ]
+            },
+            {
+                  "name": "Muhammad Mosque",
+                  "text": "A simple but central mosque in Duhok, named after the Prophet Muhammad.",
+                  "category": "landmark",
+                  "coords": [
+                        42.991819,
+                        36.863938
+                  ]
+            },
+            {
+                  "name": "Amin Mosque",
+                  "text": "The Amin Mosque is a quiet retreat for daily prayer amidst the busy streets of Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        42.98245,
+                        36.86913
+                  ]
+            },
+            {
+                  "name": "Shakhke Mosque",
+                  "text": "Located in the Shakhke neighborhood, the mosque blends into Duhok's suburban architecture with its light stone facades.",
+                  "category": "landmark",
+                  "coords": [
+                        42.97951,
+                        36.87526
+                  ]
+            },
+            {
+                  "name": "ALNoor Al-Mobin Mosque",
+                  "text": "The ALNoor Al-Mobin Mosque is known for its brightly lit facade during evening prayers in Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        42.959475,
+                        36.877172
+                  ]
+            },
+            {
+                  "name": "Judy mosque",
+                  "text": "This mosque in Duhok bears the name of Mount Judy, where local tradition says Noah's Ark grounded.",
+                  "category": "landmark",
+                  "coords": [
+                        42.96715,
+                        36.870532
+                  ]
+            },
+            {
+                  "name": "Al-Walidayn Mosque",
+                  "text": "A mosque dedicated to parents in Duhok, featuring a welcoming atmosphere and simple minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        42.93422,
+                        36.8802
+                  ]
+            },
+            {
+                  "name": "Shahid Mula Amin Mosque",
+                  "text": "This mosque is dedicated to the martyr Mula Amin, serving as a memorial and place of prayer in Duhok.",
+                  "category": "landmark",
+                  "coords": [
+                        43.060854,
+                        36.84079
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-DA",
     coords: [42.99, 36.866],
@@ -1020,7 +13719,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hi-Bar",
-                  "text": "Hi-Bar ist ein Museum in Zaxo.",
+                  "text": "Hi-Bar-Museum in Zakho, eine Ausstellung zur lokalen Kultur und Geschichte.",
                   "category": "museum",
                   "coords": [
                         42.672581,
@@ -1029,7 +13728,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Ewqaf",
-                  "text": "Ewqaf ist ein Museum in Zaxo.",
+                  "text": "Ewqaf-Museum in Zakho, ein Gebäude der islamischen Stiftung mit historischen Exponaten.",
                   "category": "museum",
                   "coords": [
                         42.675058,
@@ -1038,7 +13737,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Zakho Musem",
-                  "text": "Das Zakho Museum ist eine Kultureinrichtung in Zaxo.",
+                  "text": "Zakho-Museum, das archäologische und ethnografische Sammlungen der Region zeigt.",
                   "category": "museum",
                   "coords": [
                         42.696116,
@@ -1047,7 +13746,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "abasika seri",
-                  "text": "Abasika seri ist eine Attraktion in Zaxo.",
+                  "text": "Abasika Seri in Zakho, ein historisches Wahrzeichen mit unbekannter Funktion.",
                   "category": "landmark",
                   "coords": [
                         42.710194,
@@ -1056,7 +13755,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Mal",
-                  "text": "Mal ist eine Attraktion in Zaxo.",
+                  "text": "Mal in Zakho, ein traditionelles Gebäude, das als lokales Wahrzeichen gilt.",
                   "category": "landmark",
                   "coords": [
                         42.67798,
@@ -1065,7 +13764,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Ali Char' al-Sadd",
-                  "text": "Ali Char' al-Sadd ist ein Aussichtspunkt in Zaxo.",
+                  "text": "Ali Char' al-Sadd in Zakho, eine natürliche Felsformation oder Brücke über einem Fluss.",
                   "category": "natural",
                   "coords": [
                         42.682874,
@@ -1074,7 +13773,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "fars hamza",
-                  "text": "Fars Hamza ist ein Aussichtspunkt in Zaxo.",
+                  "text": "Fars Hamza in Zakho, ein markanter Aussichtspunkt in der Umgebung.",
                   "category": "natural",
                   "coords": [
                         42.687826,
@@ -1083,7 +13782,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Speed Radar",
-                  "text": "Der Speed Radar ist ein Aussichtspunkt in Zaxo.",
+                  "text": "Geschwindigkeitsradar in Zakho, ein technisches Bauwerk an der Straße.",
                   "category": "natural",
                   "coords": [
                         42.663593,
@@ -1092,7 +13791,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "schiefe Architektur",
-                  "text": "Die schiefe Architektur ist eine Attraktion in Zaxo.",
+                  "text": "Schiefe Architektur in Zakho, ein Gebäude mit auffälliger Neigung.",
                   "category": "landmark",
                   "coords": [
                         42.686689,
@@ -1101,7 +13800,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Gashapedan Zaxo",
-                  "text": "Gashapedan Zaxo ist eine Attraktion in Zaxo.",
+                  "text": "Gashapedan Zaxo, ein öffentlicher Platz oder Park im Zentrum von Zakho.",
                   "category": "landmark",
                   "coords": [
                         42.690198,
@@ -1110,7 +13809,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Shadi Apotheke",
-                  "text": "Die Shadi Apotheke ist eine Attraktion in Zaxo.",
+                  "text": "Shadi-Apotheke in Zakho, eine historische Apotheke mit traditioneller Einrichtung.",
                   "category": "landmark",
                   "coords": [
                         42.688224,
@@ -1119,7 +13818,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Delal-Brücke",
-                  "text": "Die Delal-Brücke ist eine historische Attraktion in Zaxo.",
+                  "text": "Dalal-Brücke in Zakho, eine Steinbogenbrücke über den Fluss Khabur.",
                   "category": "landmark",
                   "coords": [
                         42.694574,
@@ -1128,7 +13827,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Friedhof von Zaxo",
-                  "text": "Der Friedhof von Zaxo ist ein Denkmal in der Stadt.",
+                  "text": "Friedhof von Zakho, eine historische Begräbnisstätte mit alten Grabsteinen.",
                   "category": "historical",
                   "coords": [
                         42.684452,
@@ -1137,7 +13836,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Wargeha Delal",
-                  "text": "Wargeha Delal ist eine Attraktion in Zaxo.",
+                  "text": "Wargeha Delal in Zakho, ein parkähnliches Gelände mit Bäumen und Bänken.",
                   "category": "landmark",
                   "coords": [
                         42.694982,
@@ -1146,7 +13845,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Delal Corniche",
-                  "text": "Die Zakho Corniche ist eine Uferpromenade in Zaxo.",
+                  "text": "Zakho Corniche, Uferpromenade in Zakho, fertiggestellt 2021.",
                   "category": "landmark",
                   "coords": [
                         42.692403,
@@ -1155,7 +13854,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "ZA#A1998",
-                  "text": "ZA#A1998 ist eine Attraktion in Zaxo.",
+                  "text": "ZA#A1998 in Zakho, ein modernes Denkmal oder Kunstwerk aus dem Jahr 1998.",
                   "category": "landmark",
                   "coords": [
                         42.684463,
@@ -1164,7 +13863,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "za.22",
-                  "text": "Za.22 ist eine Attraktion in Zaxo.",
+                  "text": "Za.22 in Zakho, ein Gebäude mit unbekannter Nutzung, aber auffälliger Architektur.",
                   "category": "landmark",
                   "coords": [
                         42.68738,
@@ -1173,7 +13872,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "TOGA PORTO MARINA",
-                  "text": "TOGA Porto Marina Zakho ist eine Attraktion in Zaxo.",
+                  "text": "Toga Porto Marina Zakho, ein Jachthafen am Fluss mit Bootsanlegestellen.",
                   "category": "landmark",
                   "coords": [
                         42.685277,
@@ -1182,7 +13881,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "White Village",
-                  "text": "Das White Village ist eine Attraktion in Zaxo.",
+                  "text": "Weißes Dorf in Zakho, eine Siedlung mit weiß getünchten Häusern und engen Gassen.",
                   "category": "landmark",
                   "coords": [
                         42.685498,
@@ -1191,7 +13890,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Kalha Zakho",
-                  "text": "Kalha Zakho ist eine Attraktion in Zaxo.",
+                  "text": "Kalha Zakho, ein archäologischer Hügel oder ein historisches Denkmal in der Umgebung.",
                   "category": "landmark",
                   "coords": [
                         42.683,
@@ -1200,7 +13899,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "26 Gulan Park",
-                  "text": "Der 26 Gulan Park ist eine Attraktion in Zaxo.",
+                  "text": "26-Gulan-Park in Zakho, ein öffentlicher Park mit Spielplatz und Grünflächen.",
                   "category": "landmark",
                   "coords": [
                         42.689164,
@@ -1211,7 +13910,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hi-Bar",
-                  "text": "A Hi-Bar egy múzeum Zaxóban.",
+                  "text": "Hi-Bar Múzeum Zakóban, a helyi kultúra és történelem kiállítása.",
                   "category": "museum",
                   "coords": [
                         42.672581,
@@ -1220,7 +13919,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Ewqaf",
-                  "text": "Az Ewqaf egy múzeum Zaxóban.",
+                  "text": "Ewqaf Múzeum Zakóban, az iszlám alapítvány épülete történelmi tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         42.675058,
@@ -1229,7 +13928,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Zakho Musem",
-                  "text": "A Zakho Museum egy kulturális intézmény Zaxóban.",
+                  "text": "Zakho Múzeum, a régió régészeti és néprajzi gyűjteményeit bemutató intézmény.",
                   "category": "museum",
                   "coords": [
                         42.696116,
@@ -1238,7 +13937,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "abasika seri",
-                  "text": "Az Abasika seri egy látnivaló Zaxóban.",
+                  "text": "Abasika Seri Zakóban, egy ismeretlen funkciójú történelmi jelkép.",
                   "category": "landmark",
                   "coords": [
                         42.710194,
@@ -1247,7 +13946,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Mal",
-                  "text": "A Mal egy látnivaló Zaxóban.",
+                  "text": "Mal Zakóban, egy hagyományos épület, amely helyi nevezetesség.",
                   "category": "landmark",
                   "coords": [
                         42.67798,
@@ -1256,7 +13955,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Ali Char' al-Sadd",
-                  "text": "Az Ali Char' al-Sadd egy kilátó Zaxóban.",
+                  "text": "Ali Char' al-Sadd Zakóban, egy természetes sziklaképződmény vagy híd egy folyó felett.",
                   "category": "natural",
                   "coords": [
                         42.682874,
@@ -1265,7 +13964,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "fars hamza",
-                  "text": "A Fars Hamza egy kilátó Zaxóban.",
+                  "text": "Fars Hamza Zakóban, egy jellegzetes kilátópont a környéken.",
                   "category": "natural",
                   "coords": [
                         42.687826,
@@ -1274,7 +13973,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Speed radar",
-                  "text": "A Speed radar egy kilátó Zaxóban.",
+                  "text": "Sebességradar Zakóban, egy műszaki létesítmény az út mentén.",
                   "category": "natural",
                   "coords": [
                         42.663593,
@@ -1283,7 +13982,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "ferde építészet",
-                  "text": "A ferde építészet egy látnivaló Zaxóban.",
+                  "text": "Ferde építészet Zakóban, egy feltűnő dőléssel rendelkező épület.",
                   "category": "landmark",
                   "coords": [
                         42.686689,
@@ -1292,7 +13991,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Gashapedan Zaxo",
-                  "text": "A Gashapedan Zaxo egy látnivaló Zaxóban.",
+                  "text": "Gashapedan Zaxo, egy köz tér vagy park Zakho központjában.",
                   "category": "landmark",
                   "coords": [
                         42.690198,
@@ -1301,7 +14000,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Shadi gyógyszertár",
-                  "text": "A Shadi gyógyszertár egy látnivaló Zaxóban.",
+                  "text": "Shadi gyógyszertár Zakóban, egy történelmi patika hagyományos berendezéssel.",
                   "category": "landmark",
                   "coords": [
                         42.688224,
@@ -1310,7 +14009,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Delal-híd",
-                  "text": "A Delal-híd egy történelmi látnivaló Zaxóban.",
+                  "text": "Dalal híd Zakóban, egy kőíves híd a Khabur folyó felett.",
                   "category": "landmark",
                   "coords": [
                         42.694574,
@@ -1319,7 +14018,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Zaxói temető",
-                  "text": "A Zaxói temető egy emlékmű a városban.",
+                  "text": "Zakho temetője, egy történelmi temető régi sírkövekkel.",
                   "category": "historical",
                   "coords": [
                         42.684452,
@@ -1328,7 +14027,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Wargeha Delal",
-                  "text": "A Wargeha Delal egy látnivaló Zaxóban.",
+                  "text": "Wargeha Delal Zakóban, egy parkszerű terület fákkal és padokkal.",
                   "category": "landmark",
                   "coords": [
                         42.694982,
@@ -1337,7 +14036,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Delal Corniche",
-                  "text": "A Zakho Corniche egy vízparti sétány Zaxóban.",
+                  "text": "Zakho Corniche sétány Zakho városában, elkészült 2021-ben.",
                   "category": "landmark",
                   "coords": [
                         42.692403,
@@ -1346,7 +14045,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "ZA#A1998",
-                  "text": "A ZA#A1998 egy látnivaló Zaxóban.",
+                  "text": "ZA#A1998 Zakóban, egy 1998-as modern emlékmű vagy műalkotás.",
                   "category": "landmark",
                   "coords": [
                         42.684463,
@@ -1355,7 +14054,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "za.22",
-                  "text": "A Za.22 egy látnivaló Zaxóban.",
+                  "text": "Za.22 Zakóban, egy ismeretlen rendeltetésű, de feltűnő épület.",
                   "category": "landmark",
                   "coords": [
                         42.68738,
@@ -1364,7 +14063,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "TOGA PORTO MARINA",
-                  "text": "A TOGA Porto Marina Zakho egy látnivaló Zaxóban.",
+                  "text": "Toga Porto Marina Zakho, egy folyami kikötő csónakállásokkal.",
                   "category": "landmark",
                   "coords": [
                         42.685277,
@@ -1373,7 +14072,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "White Village",
-                  "text": "A White Village egy látnivaló Zaxóban.",
+                  "text": "Fehér falu Zakóban, egy fehérre meszelt házakkal és keskeny utcákkal rendelkező település.",
                   "category": "landmark",
                   "coords": [
                         42.685498,
@@ -1382,7 +14081,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Kalha Zakho",
-                  "text": "A Kalha Zakho egy látnivaló Zaxóban.",
+                  "text": "Kalha Zakho, egy régészeti domb vagy történelmi emlékmű a környéken.",
                   "category": "landmark",
                   "coords": [
                         42.683,
@@ -1391,7 +14090,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "26 Gulan Park",
-                  "text": "A 26 Gulan Park egy látnivaló Zaxóban.",
+                  "text": "26 Gulan Park Zakóban, egy nyilvános park játszótérrel és zöldterületekkel.",
                   "category": "landmark",
                   "coords": [
                         42.689164,
@@ -1402,7 +14101,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hi-Bar",
-                  "text": "Hi-Bar este un muzeu în Zaxo.",
+                  "text": "Muzeul Hi-Bar din Zakho, o expoziție despre cultura și istoria locală.",
                   "category": "museum",
                   "coords": [
                         42.672581,
@@ -1411,7 +14110,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Ewqaf",
-                  "text": "Ewqaf este un muzeu în Zaxo.",
+                  "text": "Muzeul Ewqaf din Zakho, clădirea fundației islamice cu exponate istorice.",
                   "category": "museum",
                   "coords": [
                         42.675058,
@@ -1420,7 +14119,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Zakho Musem",
-                  "text": "Muzeul Zakho este o instituție culturală în Zaxo.",
+                  "text": "Muzeul Zakho, care prezintă colecții arheologice și etnografice ale regiunii.",
                   "category": "museum",
                   "coords": [
                         42.696116,
@@ -1429,7 +14128,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "abasika seri",
-                  "text": "Abasika seri este o atracție în Zaxo.",
+                  "text": "Abasika Seri din Zakho, un reper istoric cu funcție necunoscută.",
                   "category": "landmark",
                   "coords": [
                         42.710194,
@@ -1438,7 +14137,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Mal",
-                  "text": "Mal este o atracție în Zaxo.",
+                  "text": "Mal din Zakho, o clădire tradițională considerată un reper local.",
                   "category": "landmark",
                   "coords": [
                         42.67798,
@@ -1447,7 +14146,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Ali Char' al-Sadd",
-                  "text": "Ali Char' al-Sadd este un punct de vedere în Zaxo.",
+                  "text": "Ali Char' al-Sadd din Zakho, o formațiune naturală de stâncă sau un pod peste un râu.",
                   "category": "natural",
                   "coords": [
                         42.682874,
@@ -1456,7 +14155,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "fars hamza",
-                  "text": "Fars Hamza este un punct de vedere în Zaxo.",
+                  "text": "Fars Hamza din Zakho, un punct de belvedere distinctiv în zonă.",
                   "category": "natural",
                   "coords": [
                         42.687826,
@@ -1465,7 +14164,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Speed radar",
-                  "text": "Speed radar este un punct de vedere în Zaxo.",
+                  "text": "Radar de viteză în Zakho, o construcție tehnică pe marginea drumului.",
                   "category": "natural",
                   "coords": [
                         42.663593,
@@ -1474,7 +14173,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Arhitectura înclinată",
-                  "text": "Arhitectura înclinată este o atracție în Zaxo.",
+                  "text": "Arhitectură înclinată în Zakho, o clădire cu o înclinare vizibilă.",
                   "category": "landmark",
                   "coords": [
                         42.686689,
@@ -1483,7 +14182,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Gashapedan Zaxo",
-                  "text": "Gashapedan Zaxo este o atracție în Zaxo.",
+                  "text": "Gashapedan Zaxo, o piață publică sau parc în centrul Zakho.",
                   "category": "landmark",
                   "coords": [
                         42.690198,
@@ -1492,7 +14191,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Farmacia Shadi",
-                  "text": "Farmacia Shadi este o atracție în Zaxo.",
+                  "text": "Farmacia Shadi din Zakho, o farmacie istorică cu mobilier tradițional.",
                   "category": "landmark",
                   "coords": [
                         42.688224,
@@ -1501,7 +14200,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Podul Dalal",
-                  "text": "Podul Dalal este o atracție istorică în Zaxo.",
+                  "text": "Podul Dalal din Zakho, un pod de piatră cu arc peste râul Khabur.",
                   "category": "landmark",
                   "coords": [
                         42.694574,
@@ -1510,7 +14209,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Cimitirul din Zaxo",
-                  "text": "Cimitirul din Zaxo este un monument în oraș.",
+                  "text": "Cimitirul din Zakho, un cimitir istoric cu pietre funerare vechi.",
                   "category": "historical",
                   "coords": [
                         42.684452,
@@ -1519,7 +14218,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Wargeha Delal",
-                  "text": "Wargeha Delal este o atracție în Zaxo.",
+                  "text": "Wargeha Delal din Zakho, un spațiu asemănător unui parc cu copaci și bănci.",
                   "category": "landmark",
                   "coords": [
                         42.694982,
@@ -1528,7 +14227,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Delal Corniche",
-                  "text": "Zakho Corniche este o promenadă de coastă în Zaxo.",
+                  "text": "Zakho Corniche, promenada pe malul apei din Zakho, finalizată în 2021.",
                   "category": "landmark",
                   "coords": [
                         42.692403,
@@ -1537,7 +14236,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "ZA#A1998",
-                  "text": "ZA#A1998 este o atracție în Zaxo.",
+                  "text": "ZA#A1998 din Zakho, un monument sau operă de artă modernă din anul 1998.",
                   "category": "landmark",
                   "coords": [
                         42.684463,
@@ -1546,7 +14245,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "za.22",
-                  "text": "Za.22 este o atracție în Zaxo.",
+                  "text": "Za.22 din Zakho, o clădire cu utilizare necunoscută, dar cu arhitectură remarcabilă.",
                   "category": "landmark",
                   "coords": [
                         42.68738,
@@ -1555,7 +14254,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "TOGA PORTO MARINA",
-                  "text": "TOGA Porto Marina Zakho este o atracție în Zaxo.",
+                  "text": "Toga Porto Marina Zakho, o marină pe râu cu pontoane pentru bărci.",
                   "category": "landmark",
                   "coords": [
                         42.685277,
@@ -1564,7 +14263,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "White Village",
-                  "text": "White Village este o atracție în Zaxo.",
+                  "text": "Satul Alb din Zakho, o așezare cu case văruite în alb și străzi înguste.",
                   "category": "landmark",
                   "coords": [
                         42.685498,
@@ -1573,7 +14272,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Kalha Zakho",
-                  "text": "Kalha Zakho este o atracție în Zaxo.",
+                  "text": "Kalha Zakho, un movilă arheologică sau monument istoric în zonă.",
                   "category": "landmark",
                   "coords": [
                         42.683,
@@ -1582,7 +14281,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Parcul 26 Gulan",
-                  "text": "Parcul 26 Gulan este o atracție în Zaxo.",
+                  "text": "Parcul 26 Gulan din Zakho, un parc public cu loc de joacă și zone verzi.",
                   "category": "landmark",
                   "coords": [
                         42.689164,
@@ -1593,7 +14292,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hi-Bar",
-                  "text": "Hi-Bar is a museum in Zaxo.",
+                  "text": "Hi-Bar Museum in Zakho, an exhibition on local culture and history.",
                   "category": "museum",
                   "coords": [
                         42.672581,
@@ -1602,7 +14301,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "ewqaf",
-                  "text": "Ewqaf is a museum in Zaxo.",
+                  "text": "Ewqaf Museum in Zakho, the Islamic endowment building housing historical exhibits.",
                   "category": "museum",
                   "coords": [
                         42.675058,
@@ -1611,7 +14310,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Zakho Musem",
-                  "text": "Zakho Museum is a cultural institution in Zaxo.",
+                  "text": "Zakho Museum, displaying archaeological and ethnographic collections of the region.",
                   "category": "museum",
                   "coords": [
                         42.696116,
@@ -1620,7 +14319,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "abasika seri",
-                  "text": "Abasika seri is an attraction in Zaxo.",
+                  "text": "Abasika Seri in Zakho, a historical landmark of unknown purpose.",
                   "category": "landmark",
                   "coords": [
                         42.710194,
@@ -1629,7 +14328,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Mal",
-                  "text": "Mal is an attraction in Zaxo.",
+                  "text": "Mal in Zakho, a traditional building considered a local landmark.",
                   "category": "landmark",
                   "coords": [
                         42.67798,
@@ -1638,7 +14337,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Ali Char' al-Sadd",
-                  "text": "Ali Char' al-Sadd is a viewpoint in Zaxo.",
+                  "text": "Ali Char' al-Sadd in Zakho, a natural rock formation or bridge over a river.",
                   "category": "natural",
                   "coords": [
                         42.682874,
@@ -1647,7 +14346,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "fars hamza",
-                  "text": "Fars Hamza is a viewpoint in Zaxo.",
+                  "text": "Fars Hamza in Zakho, a distinctive lookout point in the area.",
                   "category": "natural",
                   "coords": [
                         42.687826,
@@ -1656,7 +14355,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "speed radar",
-                  "text": "Speed radar is a viewpoint in Zaxo.",
+                  "text": "Speed radar in Zakho, a technical structure along the road.",
                   "category": "natural",
                   "coords": [
                         42.663593,
@@ -1665,7 +14364,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "leaning architecture",
-                  "text": "The leaning architecture is an attraction in Zaxo.",
+                  "text": "Leaning architecture in Zakho, a building with a noticeable tilt.",
                   "category": "landmark",
                   "coords": [
                         42.686689,
@@ -1674,7 +14373,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Gashapedan Zaxo",
-                  "text": "Gashapedan Zaxo is an attraction in Zaxo.",
+                  "text": "Gashapedan Zaxo, a public square or park in central Zakho.",
                   "category": "landmark",
                   "coords": [
                         42.690198,
@@ -1683,7 +14382,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Shadi pharmacy",
-                  "text": "Shadi pharmacy is an attraction in Zaxo.",
+                  "text": "Shadi Pharmacy in Zakho, a historic pharmacy with traditional furnishings.",
                   "category": "landmark",
                   "coords": [
                         42.688224,
@@ -1692,7 +14391,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Dalal Bridge",
-                  "text": "Dalal Bridge is a historic attraction in Zaxo.",
+                  "text": "Dalal Bridge in Zakho, a stone arch bridge over the Khabur River.",
                   "category": "landmark",
                   "coords": [
                         42.694574,
@@ -1701,7 +14400,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "cemetery of Zaxo",
-                  "text": "The cemetery of Zaxo is a monument in the city.",
+                  "text": "Cemetery of Zakho, a historic burial ground with ancient tombstones.",
                   "category": "historical",
                   "coords": [
                         42.684452,
@@ -1710,7 +14409,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Wargeha Delal",
-                  "text": "Wargeha Delal is an attraction in Zaxo.",
+                  "text": "Wargeha Delal in Zakho, a park-like area with trees and benches.",
                   "category": "landmark",
                   "coords": [
                         42.694982,
@@ -1719,7 +14418,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Zakho Corniche",
-                  "text": "Zakho Corniche is a waterfront promenade in Zaxo.",
+                  "text": "Zakho Corniche, waterfront promenade in Zakho, completed in 2021.",
                   "category": "landmark",
                   "coords": [
                         42.692403,
@@ -1728,7 +14427,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "ZA#A1998",
-                  "text": "ZA#A1998 is an attraction in Zaxo.",
+                  "text": "ZA#A1998 in Zakho, a modern monument or artwork from 1998.",
                   "category": "landmark",
                   "coords": [
                         42.684463,
@@ -1737,7 +14436,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "za.22",
-                  "text": "Za.22 is an attraction in Zaxo.",
+                  "text": "Za.22 in Zakho, a building of unknown use but striking architecture.",
                   "category": "landmark",
                   "coords": [
                         42.68738,
@@ -1746,7 +14445,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "TOGA PORTO MARINA ZAKHO",
-                  "text": "TOGA Porto Marina Zakho is an attraction in Zaxo.",
+                  "text": "Toga Porto Marina Zakho, a riverside marina with boat docks.",
                   "category": "landmark",
                   "coords": [
                         42.685277,
@@ -1755,7 +14454,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "White Village",
-                  "text": "White Village is an attraction in Zaxo.",
+                  "text": "White Village in Zakho, a settlement with whitewashed houses and narrow lanes.",
                   "category": "landmark",
                   "coords": [
                         42.685498,
@@ -1764,7 +14463,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Kalha Zakho",
-                  "text": "Kalha Zakho is an attraction in Zaxo.",
+                  "text": "Kalha Zakho, an archaeological mound or historic monument in the area.",
                   "category": "landmark",
                   "coords": [
                         42.683,
@@ -1773,7 +14472,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "26 Gulan Park",
-                  "text": "26 Gulan Park is an attraction in Zaxo.",
+                  "text": "26 Gulan Park in Zakho, a public park with playground and green spaces.",
                   "category": "landmark",
                   "coords": [
                         42.689164,
@@ -1828,7 +14527,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "de": [
             {
                   "name": "historische Burg von Tal Afar",
-                  "text": "Die historische Burg von Tal Afar ist eine bedeutende Festung und ein markantes Wahrzeichen der Stadt.",
+                  "text": "Historische Burg Tal Afar, eine Festung auf einem Hügel mit Blick auf die Stadt.",
                   "category": "castle",
                   "coords": [
                         42.454662,
@@ -1873,7 +14572,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Diese lokale Attraktion",
-                  "text": "Diese lokale Attraktion ist ein interessanter Ort für einen Besuch in Tal Afar.",
+                  "text": "Diese lokale Attraktion in Afar ist ein traditioneller Marktplatz im Stadtzentrum.",
                   "category": "landmark",
                   "coords": [
                         42.427917,
@@ -1911,7 +14610,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "történelmi Tal Afar vár",
-                  "text": "A történelmi Tal Afar vár egy jelentős erődítmény és kiemelkedő nevezetesség a városban.",
+                  "text": "Történelmi Tal Afar vár, egy dombon álló erőd, amely a városra néz.",
                   "category": "castle",
                   "coords": [
                         42.454662,
@@ -1956,7 +14655,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Alwa",
-                  "text": "Ez a helyi látványosság egy érdekes pont Tal Afarban.",
+                  "text": "Ez a helyi látványosság Afarban egy hagyományos piactér a városközpontban.",
                   "category": "landmark",
                   "coords": [
                         42.427917,
@@ -1994,7 +14693,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Castelul istoric Tal Afar",
-                  "text": "Castelul istoric Tal Afar este o fortăreață importantă și un punct de reper proeminent în oraș.",
+                  "text": "Castelul istoric Tal Afar, o fortăreață pe un deal cu vedere asupra orașului.",
                   "category": "castle",
                   "coords": [
                         42.454662,
@@ -2039,7 +14738,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Această atracție locală",
-                  "text": "Această atracție locală este un punct interesant de vizitat în Tal Afar.",
+                  "text": "Această atracție locală din Afar este o piață tradițională în centrul orașului.",
                   "category": "landmark",
                   "coords": [
                         42.427917,
@@ -2077,7 +14776,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "en": [
             {
                   "name": "historical Tal Afar Castle",
-                  "text": "The historical Tal Afar Castle is a significant fortress and prominent landmark in the city.",
+                  "text": "Historical Tal Afar Castle, a fortress on a hill overlooking the city.",
                   "category": "castle",
                   "coords": [
                         42.454662,
@@ -2122,7 +14821,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "This local attraction",
-                  "text": "This local attraction is an interesting point to visit in Tal Afar.",
+                  "text": "This local attraction in Afar is a traditional market square in the city center.",
                   "category": "landmark",
                   "coords": [
                         42.427917,
@@ -2200,7 +14899,880 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["Population env. 200 000, majorité turkmène", "60 km à l'ouest de Mossoul", "Forteresse ottomane du XVIe siècle", "Soulèvement contre les Britanniques en 1920", "Mandat britannique 1920-1932", "Ère Saddam 1979-2003 avec arabisation", "Domination de l'EI juin 2014 - août 2017", "Sur l'ancienne route des caravanes Mossoul-Alep"],
     }, image: "/poi-images/tal-afar-cities-v2.webp"},
   {
-    id: "halabja-cities-v2",
+    id: "halabja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sarmla",
+                  "text": "Ein malerischer Aussichtspunkt bei Halabdscha, der einen Panoramablick über die umliegende Berglandschaft und die Ebenen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        46.024334,
+                        35.12411
+                  ]
+            },
+            {
+                  "name": "Halabja Monument",
+                  "text": "Ein bewegendes Denkmal in Halabdscha, das den Opfern des Giftgasangriffs von 1988 gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        45.973532,
+                        35.185982
+                  ]
+            },
+            {
+                  "name": "Bakr Awa Hill",
+                  "text": "Ein antiker archäologischer Hügel bei Halabdscha, der Siedlungsschichten bis zurück in die Bronzezeit offenbart.",
+                  "category": "historical",
+                  "coords": [
+                        45.940321,
+                        35.221551
+                  ]
+            },
+            {
+                  "name": "Othman Mosque",
+                  "text": "Eine markante lokale Moschee in Halabdscha, die mit ihrem traditionellen Minarett und der Gebetshalle die Gemeinde bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.995335,
+                        35.17768
+                  ]
+            },
+            {
+                  "name": "Nur Mosque",
+                  "text": "Ein ruhiger islamischer Gebetsort in Halabdscha, bekannt für seine Bedeutung im religiösen Leben der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        45.993967,
+                        35.17419
+                  ]
+            },
+            {
+                  "name": "Bukhary Mosque",
+                  "text": "Eine Stadtteilmoschee in Halabdscha, benannt nach dem berühmten Gelehrten, die einen Raum für tägliche Andachten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.988194,
+                        35.172049
+                  ]
+            },
+            {
+                  "name": "Haji Karim Mosque",
+                  "text": "Eine Gemeindemoschee in Halabdscha, die sich durch ihre schlichte Architektur und ihre spirituelle Bedeutung auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.991363,
+                        35.174092
+                  ]
+            },
+            {
+                  "name": "Shafi'i mosque",
+                  "text": "Ein islamischer Gebetsort in Halabdscha, der der schafiitischen Rechtsschule folgt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.990089,
+                        35.177431
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Halabja",
+                  "text": "Die wichtigste Freitagsmoschee von Halabdscha, die als zentraler Knotenpunkt für Gebete und religiöse Ereignisse dient.",
+                  "category": "religious",
+                  "coords": [
+                        45.984637,
+                        35.176641
+                  ]
+            },
+            {
+                  "name": "Shekh Ismael Mosque",
+                  "text": "Eine lokale Moschee in Halabdscha, benannt nach einer religiösen Persönlichkeit, die den Bewohnern der Umgebung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.981544,
+                        35.177654
+                  ]
+            },
+            {
+                  "name": "Abubakr sddiq mosque",
+                  "text": "Eine religiöse Stätte in Halabdscha, die Abu Bakr gewidmet ist und traditionelle islamische Designelemente aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.978528,
+                        35.17689
+                  ]
+            },
+            {
+                  "name": "Al-Nabi mosque",
+                  "text": "Eine friedliche Moschee in Halabdscha, die dem Propheten gewidmet ist und für gemeinschaftliche Gebete genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        45.978077,
+                        35.179749
+                  ]
+            },
+            {
+                  "name": "Geylani Mosque",
+                  "text": "Eine Moschee in Halabdscha, die mit der sufistischen Geylani-Tradition verbunden ist und als Ort spiritueller Versammlung dient.",
+                  "category": "religious",
+                  "coords": [
+                        45.980461,
+                        35.183389
+                  ]
+            },
+            {
+                  "name": "Salahaddin Mosque",
+                  "text": "Ein prominentes Gebetshaus in Halabdscha, das nach dem historischen Anführer Saladin benannt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        45.984616,
+                        35.181896
+                  ]
+            },
+            {
+                  "name": "Dar Al-Ihsan Mosque",
+                  "text": "Eine religiöse Institution in Halabdscha, bekannt für ihren Schwerpunkt auf islamische Bildung und Wohltätigkeit.",
+                  "category": "religious",
+                  "coords": [
+                        45.988979,
+                        35.180406
+                  ]
+            },
+            {
+                  "name": "Pris Mosque",
+                  "text": "Ein lokaler islamischer Gebetsort in Halabdscha, der die spirituellen Bedürfnisse des umliegenden Viertels erfüllt.",
+                  "category": "landmark",
+                  "coords": [
+                        45.945617,
+                        35.15948
+                  ]
+            },
+            {
+                  "name": "Osama Mosque",
+                  "text": "Eine zeitgenössische Moschee in Halabdscha, die Raum für islamische Gottesdienste und Gemeinschaftstreffen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.994444,
+                        35.189188
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "Ein modernes islamisches Gebetshaus in Halabdscha, das sich durch seine einladende Atmosphäre für Gläubige auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        46.000813,
+                        35.18851
+                  ]
+            },
+            {
+                  "name": "Pasha Mosque",
+                  "text": "Eine im historischen Stil errichtete Moschee in Halabdscha, die als Wahrzeichen für die lokale islamische Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        45.986473,
+                        35.177189
+                  ]
+            },
+            {
+                  "name": "Imam Malik Mosque",
+                  "text": "Eine nach Imam Malik benannte Moschee in Halabdscha mit traditioneller Architektur für das Gemeinschaftsgebet.",
+                  "category": "religious",
+                  "coords": [
+                        45.984314,
+                        35.184517
+                  ]
+            },
+            {
+                  "name": "Quba Mosque",
+                  "text": "Eine islamische Gebetshalle in Halabdscha, inspiriert von der historischen Quba-Moschee.",
+                  "category": "landmark",
+                  "coords": [
+                        45.976595,
+                        35.188719
+                  ]
+            },
+            {
+                  "name": "Huzaifa Mosque",
+                  "text": "Eine Nachbarschaftsmoschee in Halabdscha, die religiösen Diensten und dem islamischen Gemeinschaftsleben gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        45.971664,
+                        35.189955
+                  ]
+            },
+            {
+                  "name": "Imam Ahmed Mosque",
+                  "text": "Eine religiöse Stätte in Halabdscha, benannt nach Imam Ahmed, die einen Ort für tägliche spirituelle Reflexion bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        45.96797,
+                        35.189259
+                  ]
+            },
+            {
+                  "name": "Sheikh Marouf Mosque",
+                  "text": "Eine muslimische Gebetsstätte im Herzen der Stadt Halabdscha.",
+                  "category": "landmark",
+                  "coords": [
+                        45.973214,
+                        35.188797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sarmla",
+                  "text": "Festői kilátópont Halabdzsa közelében, ahonnan panorámás kilátás nyílik a környező hegyekre és rónákra.",
+                  "category": "natural",
+                  "coords": [
+                        46.024334,
+                        35.12411
+                  ]
+            },
+            {
+                  "name": "Halabja Monument",
+                  "text": "Ez a megrázó halabdzsai emlékmű az 1988-as vegyi támadás áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        45.973532,
+                        35.185982
+                  ]
+            },
+            {
+                  "name": "Bakr Awa Hill",
+                  "text": "Ősi régészeti domb Halabdzsa mellett, amely a bronzkorig visszanyúló településrétegeket rejt.",
+                  "category": "historical",
+                  "coords": [
+                        45.940321,
+                        35.221551
+                  ]
+            },
+            {
+                  "name": "Othman Mosque",
+                  "text": "Halabdzsa egyik meghatározó helyi mecsete, amely hagyományos minarettel és imateremmel várja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        45.995335,
+                        35.17768
+                  ]
+            },
+            {
+                  "name": "Nur Mosque",
+                  "text": "Békés iszlám imaház Halabdzsában, amely fontos szerepet tölt be a helyi vallási életben.",
+                  "category": "landmark",
+                  "coords": [
+                        45.993967,
+                        35.17419
+                  ]
+            },
+            {
+                  "name": "Bukhary Mosque",
+                  "text": "Halabdzsai mecset a híres tudósról elnevezve, amely helyszínt biztosít a napi áhítatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        45.988194,
+                        35.172049
+                  ]
+            },
+            {
+                  "name": "Haji Karim Mosque",
+                  "text": "Közösségi mecset Halabdzsában, amelyet szerény építészet és mély szakrális jelentőség jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        45.991363,
+                        35.174092
+                  ]
+            },
+            {
+                  "name": "Shafi'i mosque",
+                  "text": "Iszlám imaház Halabdzsában, amely a sáfii jogi iskola tanításait követi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.990089,
+                        35.177431
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Halabja",
+                  "text": "Halabdzsa fő gyülekezeti mecsete, amely a pénteki imák és vallási események központi helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        45.984637,
+                        35.176641
+                  ]
+            },
+            {
+                  "name": "Shekh Ismael Mosque",
+                  "text": "Helyi mecset Halabdzsában, amelyet egy vallási alak tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        45.981544,
+                        35.177654
+                  ]
+            },
+            {
+                  "name": "Abubakr sddiq mosque",
+                  "text": "Abu Bakr tiszteletére emelt vallási helyszín Halabdzsában, hagyományos iszlám építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        45.978528,
+                        35.17689
+                  ]
+            },
+            {
+                  "name": "Al-Nabi mosque",
+                  "text": "A Prófétának szentelt békés mecset Halabdzsában, amelyet közösségi imádságokra és tanulásra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        45.978077,
+                        35.179749
+                  ]
+            },
+            {
+                  "name": "Geylani Mosque",
+                  "text": "A Geylani szúfi tradícióhoz kötődő mecset Halabdzsában, amely spirituális gyülekezőhelyként működik.",
+                  "category": "religious",
+                  "coords": [
+                        45.980461,
+                        35.183389
+                  ]
+            },
+            {
+                  "name": "Salahaddin Mosque",
+                  "text": "Halabdzsa egyik kiemelkedő imaháza, amely a történelmi vezető, Szaladin nevét viseli.",
+                  "category": "religious",
+                  "coords": [
+                        45.984616,
+                        35.181896
+                  ]
+            },
+            {
+                  "name": "Dar Al-Ihsan Mosque",
+                  "text": "Vallási intézmény Halabdzsában, amely az iszlám oktatásra és a jótékonykodásra helyezi a hangsúlyt.",
+                  "category": "religious",
+                  "coords": [
+                        45.988979,
+                        35.180406
+                  ]
+            },
+            {
+                  "name": "Pris Mosque",
+                  "text": "Helyi iszlám imaház Halabdzsában, amely a környező környék hitéletét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.945617,
+                        35.15948
+                  ]
+            },
+            {
+                  "name": "Osama Mosque",
+                  "text": "Kortárs mecset Halabdzsában, amely helyszínt biztosít az iszlám istentiszteleteknek és közösségi találkozóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        45.994444,
+                        35.189188
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "Modern iszlám imaház Halabdzsában, amelyet a hívők számára kialakított barátságos légkör jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        46.000813,
+                        35.18851
+                  ]
+            },
+            {
+                  "name": "Pasha Mosque",
+                  "text": "Történelmi stílusú mecset Halabdzsában, amely a helyi iszlám közösség egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        45.986473,
+                        35.177189
+                  ]
+            },
+            {
+                  "name": "Imam Malik Mosque",
+                  "text": "Imám Málikról elnevezett mecset Halabdzsában, hagyományos építészettel a közösségi imádkozáshoz.",
+                  "category": "religious",
+                  "coords": [
+                        45.984314,
+                        35.184517
+                  ]
+            },
+            {
+                  "name": "Quba Mosque",
+                  "text": "Iszlám imaterem Halabdzsában, amelyet a történelmi Kubá-mecset ihletett.",
+                  "category": "landmark",
+                  "coords": [
+                        45.976595,
+                        35.188719
+                  ]
+            },
+            {
+                  "name": "Huzaifa Mosque",
+                  "text": "Környékbeli mecset Halabdzsában, amely vallási szertartásoknak és az iszlám közösségi életnek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        45.971664,
+                        35.189955
+                  ]
+            },
+            {
+                  "name": "Imam Ahmed Mosque",
+                  "text": "Imám Ahmedről elnevezett vallási helyszín Halabdzsában, amely helyet biztosít a napi spirituális elmélyülésnek.",
+                  "category": "landmark",
+                  "coords": [
+                        45.96797,
+                        35.189259
+                  ]
+            },
+            {
+                  "name": "Sheikh Marouf Mosque",
+                  "text": "Helyi muszlim imaház Halabdzsa városának szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.973214,
+                        35.188797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sarmla",
+                  "text": "Un punct de belvedere pitoresc lângă Halabja, oferind vederi panoramice asupra peisajului montan și a câmpiilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        46.024334,
+                        35.12411
+                  ]
+            },
+            {
+                  "name": "Halabja Monument",
+                  "text": "Un monument emoționant din Halabja, dedicat victimelor atacului cu gaz chimic din 1988.",
+                  "category": "historical",
+                  "coords": [
+                        45.973532,
+                        35.185982
+                  ]
+            },
+            {
+                  "name": "Bakr Awa Hill",
+                  "text": "Un tumul arheologic antic de lângă Halabja, care dezvăluie straturi de așezări ce datează încă din Epoca Bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        45.940321,
+                        35.221551
+                  ]
+            },
+            {
+                  "name": "Othman Mosque",
+                  "text": "O moschee locală proeminentă din Halabja, care deservește comunitatea cu minaretul său tradițional și sala de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        45.995335,
+                        35.17768
+                  ]
+            },
+            {
+                  "name": "Nur Mosque",
+                  "text": "Un lăcaș de cult islamic liniștit din Halabja, cunoscut pentru rolul său în viața religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        45.993967,
+                        35.17419
+                  ]
+            },
+            {
+                  "name": "Bukhary Mosque",
+                  "text": "O moschee de cartier din Halabja, numită după faimosul savant, oferind un spațiu pentru devoțiunea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        45.988194,
+                        35.172049
+                  ]
+            },
+            {
+                  "name": "Haji Karim Mosque",
+                  "text": "O moschee comunitară din Halabja, caracterizată prin arhitectura sa modestă și semnificația sa spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        45.991363,
+                        35.174092
+                  ]
+            },
+            {
+                  "name": "Shafi'i mosque",
+                  "text": "Un lăcaș de cult islamic din Halabja, care urmează școala de jurisprudență Shafi'i.",
+                  "category": "landmark",
+                  "coords": [
+                        45.990089,
+                        35.177431
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Halabja",
+                  "text": "Principala moschee congregațională din Halabja, servind drept hub central pentru rugăciunile de vineri și evenimentele religioase.",
+                  "category": "religious",
+                  "coords": [
+                        45.984637,
+                        35.176641
+                  ]
+            },
+            {
+                  "name": "Shekh Ismael Mosque",
+                  "text": "O moschee locală din Halabja numită în onoarea unei figuri religioase, deservind rezidenții din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        45.981544,
+                        35.177654
+                  ]
+            },
+            {
+                  "name": "Abubakr sddiq mosque",
+                  "text": "Un sit religios din Halabja dedicat lui Abu Bakr, prezentând elemente de design islamic tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        45.978528,
+                        35.17689
+                  ]
+            },
+            {
+                  "name": "Al-Nabi mosque",
+                  "text": "O moschee liniștită din Halabja dedicată Profetului, utilizată pentru rugăciune și studiu comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        45.978077,
+                        35.179749
+                  ]
+            },
+            {
+                  "name": "Geylani Mosque",
+                  "text": "O moschee din Halabja asociată cu tradiția sufită Geylani, servind drept loc de adunare spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        45.980461,
+                        35.183389
+                  ]
+            },
+            {
+                  "name": "Salahaddin Mosque",
+                  "text": "O casă de rugăciune proeminentă din Halabja, numită după liderul istoric Salahaddin.",
+                  "category": "religious",
+                  "coords": [
+                        45.984616,
+                        35.181896
+                  ]
+            },
+            {
+                  "name": "Dar Al-Ihsan Mosque",
+                  "text": "O instituție religioasă din Halabja cunoscută pentru accentul pus pe educația islamică și caritate.",
+                  "category": "religious",
+                  "coords": [
+                        45.988979,
+                        35.180406
+                  ]
+            },
+            {
+                  "name": "Pris Mosque",
+                  "text": "Un sit local de rugăciune islamic din Halabja care servește nevoile spirituale ale cartierului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        45.945617,
+                        35.15948
+                  ]
+            },
+            {
+                  "name": "Osama Mosque",
+                  "text": "O moschee contemporană din Halabja, care oferă un spațiu dedicat cultului islamic și întâlnirilor comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        45.994444,
+                        35.189188
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "O casă de cult islamică modernă din Halabja, caracterizată prin atmosfera sa primitoare pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        46.000813,
+                        35.18851
+                  ]
+            },
+            {
+                  "name": "Pasha Mosque",
+                  "text": "O moschee în stil istoric din Halabja, care servește drept punct de reper pentru comunitatea islamică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        45.986473,
+                        35.177189
+                  ]
+            },
+            {
+                  "name": "Imam Malik Mosque",
+                  "text": "O moschee din Halabja numită după Imam Malik, cu o arhitectură tradițională potrivită pentru rugăciunea congregațională.",
+                  "category": "religious",
+                  "coords": [
+                        45.984314,
+                        35.184517
+                  ]
+            },
+            {
+                  "name": "Quba Mosque",
+                  "text": "O sală de rugăciune islamică din Halabja inspirată de moscheea istorică Quba, deservind rezidenții locali.",
+                  "category": "landmark",
+                  "coords": [
+                        45.976595,
+                        35.188719
+                  ]
+            },
+            {
+                  "name": "Huzaifa Mosque",
+                  "text": "O moschee de cartier din Halabja dedicată serviciilor religioase și vieții comunitare islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        45.971664,
+                        35.189955
+                  ]
+            },
+            {
+                  "name": "Imam Ahmed Mosque",
+                  "text": "Un sit religios din Halabja numit după Imam Ahmed, oferind un spațiu pentru reflecție spirituală zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        45.96797,
+                        35.189259
+                  ]
+            },
+            {
+                  "name": "Sheikh Marouf Mosque",
+                  "text": "Un lăcaș de cult musulman situat în inima orașului Halabja.",
+                  "category": "landmark",
+                  "coords": [
+                        45.973214,
+                        35.188797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sarmla",
+                  "text": "A scenic viewpoint near Halabja offering panoramic vistas over the surrounding mountainous landscape and plains.",
+                  "category": "natural",
+                  "coords": [
+                        46.024334,
+                        35.12411
+                  ]
+            },
+            {
+                  "name": "Halabja Monument",
+                  "text": "A poignant memorial in Halabja dedicated to the victims of the 1988 chemical gas attack.",
+                  "category": "historical",
+                  "coords": [
+                        45.973532,
+                        35.185982
+                  ]
+            },
+            {
+                  "name": "Bakr Awa Hill",
+                  "text": "An ancient archaeological mound near Halabja revealing layers of settlement dating back to the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        45.940321,
+                        35.221551
+                  ]
+            },
+            {
+                  "name": "Othman Mosque",
+                  "text": "A prominent local mosque in Halabja serving the community with its traditional minaret and prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        45.995335,
+                        35.17768
+                  ]
+            },
+            {
+                  "name": "Nur Mosque",
+                  "text": "A serene Islamic place of worship in Halabja known for its role in local religious life.",
+                  "category": "landmark",
+                  "coords": [
+                        45.993967,
+                        35.17419
+                  ]
+            },
+            {
+                  "name": "Bukhary mosque",
+                  "text": "A neighborhood mosque in Halabja named after the famous scholar, providing a space for daily devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        45.988194,
+                        35.172049
+                  ]
+            },
+            {
+                  "name": "Haji Karim Mosque",
+                  "text": "A community mosque in Halabja characterized by its modest architecture and spiritual significance.",
+                  "category": "landmark",
+                  "coords": [
+                        45.991363,
+                        35.174092
+                  ]
+            },
+            {
+                  "name": "Shafi'i mosque",
+                  "text": "An Islamic place of worship in Halabja following the Shafi'i school of jurisprudence.",
+                  "category": "landmark",
+                  "coords": [
+                        45.990089,
+                        35.177431
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Halabja",
+                  "text": "The principal congregational mosque of Halabja, serving as a central hub for Friday prayers and religious events.",
+                  "category": "religious",
+                  "coords": [
+                        45.984637,
+                        35.176641
+                  ]
+            },
+            {
+                  "name": "Shekh Ismael Mosque",
+                  "text": "A local mosque in Halabja named in honor of a religious figure, serving the nearby residents.",
+                  "category": "landmark",
+                  "coords": [
+                        45.981544,
+                        35.177654
+                  ]
+            },
+            {
+                  "name": "Abubakr sddiq mosque",
+                  "text": "A religious site in Halabja dedicated to Abu Bakr, featuring traditional Islamic design elements.",
+                  "category": "landmark",
+                  "coords": [
+                        45.978528,
+                        35.17689
+                  ]
+            },
+            {
+                  "name": "Al-Nabi mosque",
+                  "text": "A peaceful mosque in Halabja dedicated to the Prophet, used for community worship and study.",
+                  "category": "religious",
+                  "coords": [
+                        45.978077,
+                        35.179749
+                  ]
+            },
+            {
+                  "name": "Geylani Mosque",
+                  "text": "A mosque in Halabja associated with the Geylani Sufi tradition, serving as a site for spiritual gathering.",
+                  "category": "religious",
+                  "coords": [
+                        45.980461,
+                        35.183389
+                  ]
+            },
+            {
+                  "name": "Salahaddin Mosque",
+                  "text": "A prominent house of prayer in Halabja named after the historic leader Salahaddin.",
+                  "category": "religious",
+                  "coords": [
+                        45.984616,
+                        35.181896
+                  ]
+            },
+            {
+                  "name": "Dar Al-Ihsan Mosque",
+                  "text": "A religious institution in Halabja known for its focus on Islamic education and charity.",
+                  "category": "religious",
+                  "coords": [
+                        45.988979,
+                        35.180406
+                  ]
+            },
+            {
+                  "name": "Pris Mosque",
+                  "text": "A local Islamic prayer site in Halabja serving the spiritual needs of the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        45.945617,
+                        35.15948
+                  ]
+            },
+            {
+                  "name": "Osama Mosque",
+                  "text": "A contemporary mosque in Halabja providing a dedicated space for Islamic worship and community meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        45.994444,
+                        35.189188
+                  ]
+            },
+            {
+                  "name": "Rayan Mosque",
+                  "text": "A modern Islamic house of worship in Halabja characterized by its welcoming atmosphere for worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        46.000813,
+                        35.18851
+                  ]
+            },
+            {
+                  "name": "Pasha Mosque",
+                  "text": "A historic-style mosque in Halabja that serves as a landmark for the local Islamic community.",
+                  "category": "landmark",
+                  "coords": [
+                        45.986473,
+                        35.177189
+                  ]
+            },
+            {
+                  "name": "Imam Malik Mosque",
+                  "text": "A mosque in Halabja named after Imam Malik, featuring a traditional architecture suitable for congregational prayer.",
+                  "category": "religious",
+                  "coords": [
+                        45.984314,
+                        35.184517
+                  ]
+            },
+            {
+                  "name": "Quba Mosque",
+                  "text": "An Islamic prayer hall in Halabja inspired by the historic Quba mosque, serving local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        45.976595,
+                        35.188719
+                  ]
+            },
+            {
+                  "name": "Huzaifa Mosque",
+                  "text": "A neighborhood mosque in Halabja dedicated to religious services and Islamic community life.",
+                  "category": "landmark",
+                  "coords": [
+                        45.971664,
+                        35.189955
+                  ]
+            },
+            {
+                  "name": "Imam Ahmed Mosque",
+                  "text": "A religious site in Halabja named after Imam Ahmed, providing a space for daily spiritual reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        45.96797,
+                        35.189259
+                  ]
+            },
+            {
+                  "name": "Sheikh Marouf Mosque",
+                  "text": "A Muslim place of worship located in the heart of Halabja city.",
+                  "category": "landmark",
+                  "coords": [
+                        45.973214,
+                        35.188797
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "IQ-HA",
     coords: [45.987, 35.177],
@@ -2237,7 +15809,196 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["The chemical attack on Halabja is legally recognized as an act of genocide.", "Halabja is located in the Sharazor plain, one of the most fertile in Iraq.", "The city's memorial museum receives international diplomatic visits.", "Pomegranates from Halabja are exported to European and Gulf markets.", "Home to the Hawraman mountains, known for their terraced villages.", "The University of Halabja is a key center for Kurdish linguistics.", "Elevation varies significantly due to the surrounding mountainous terrain.", "The city plays a symbolic role in Kurdish national identity."],
     }, image: "/poi-images/halabja-cities-v2.webp"},
   {
-    id: "kufa-cities-v2",
+    id: "kufa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Habeeb Alra'ash Square",
+                  "text": "Ein lebhafter öffentlicher Platz in Kufa, der als zentraler Treffpunkt und Orientierungspunkt im Stadtgefüge dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402422,
+                        32.034309
+                  ]
+            },
+            {
+                  "name": "Al-Sahlah Mosque",
+                  "text": "Eine historisch bedeutende Moschee in Kufa, die eng mit der Überlieferung des 12. Imams verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.379746,
+                        32.038969
+                  ]
+            },
+            {
+                  "name": "Sa'sahat bin Sohhan Mosque",
+                  "text": "Eine antike Moschee in Kufa, die dem Gefährten Sa'sa'a bin Sohan gewidmet ist und für ihre schlichte Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        44.382429,
+                        32.038335
+                  ]
+            },
+            {
+                  "name": "The place of the Prophet of Allah Yunus (p) and Al-Hamra Mosque",
+                  "text": "Eine heilige Stätte in Kufa, die traditionell mit dem Propheten Jonas verbunden ist und an die Al-Hamra-Moschee angrenzt.",
+                  "category": "religious",
+                  "coords": [
+                        44.405217,
+                        32.04011
+                  ]
+            },
+            {
+                  "name": "Frauenmarkt",
+                  "text": "Ein traditioneller Marktplatz in Kufa, auf dem Kleidung und handgefertigte Textilien für Frauen angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        44.407627,
+                        32.03462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Habeeb Alra'ash Square",
+                  "text": "Élénk közterület Kúfában, amely központi találkozóhelyként és tájékozódási pontként szolgál a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402422,
+                        32.034309
+                  ]
+            },
+            {
+                  "name": "Al-Sahlah Mosque",
+                  "text": "Történelmileg jelentős mecset Kúfában, amely szorosan kapcsolódik a 12. imám hagyományához.",
+                  "category": "religious",
+                  "coords": [
+                        44.379746,
+                        32.038969
+                  ]
+            },
+            {
+                  "name": "Sa'sahat bin Sohhan Mosque",
+                  "text": "Ősi mecset Kúfában, amelyet Szaszaa bin Szohán társának szenteltek, és egyszerű építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        44.382429,
+                        32.038335
+                  ]
+            },
+            {
+                  "name": "The place of the Prophet of Allah Yunus (p) and Al-Hamra Mosque",
+                  "text": "Szent hely Kúfában, amely hagyományosan Jónás prófétához kötődik, és az Al-Hamra mecset mellett található.",
+                  "category": "religious",
+                  "coords": [
+                        44.405217,
+                        32.04011
+                  ]
+            },
+            {
+                  "name": "Womens' Market",
+                  "text": "Hagyományos piactér Kúfában, ahol ruhákat és kézműves textíliákat árulnak nők számára.",
+                  "category": "cultural",
+                  "coords": [
+                        44.407627,
+                        32.03462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Habeeb Alra'ash Square",
+                  "text": "O piață publică plină de viață în Kufa, servind ca punct central de întâlnire și reper în structura orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402422,
+                        32.034309
+                  ]
+            },
+            {
+                  "name": "Al-Sahlah Mosque",
+                  "text": "O moschee de o importanță istorică deosebită în Kufa, strâns legată de tradiția celui de-al 12-lea imam.",
+                  "category": "religious",
+                  "coords": [
+                        44.379746,
+                        32.038969
+                  ]
+            },
+            {
+                  "name": "Sa'sahat bin Sohhan Mosque",
+                  "text": "O moschee antică din Kufa dedicată companionului Sa'sa'a bin Sohan, cunoscută pentru arhitectura sa simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        44.382429,
+                        32.038335
+                  ]
+            },
+            {
+                  "name": "The place of the Prophet of Allah Yunus (p) and Al-Hamra Mosque",
+                  "text": "Un loc sfânt din Kufa, asociat tradițional cu profetul Iona, situat lângă moscheea Al-Hamra.",
+                  "category": "religious",
+                  "coords": [
+                        44.405217,
+                        32.04011
+                  ]
+            },
+            {
+                  "name": "Womens' Market",
+                  "text": "O piață tradițională în Kufa, specializată în îmbrăcăminte și textile artizanale pentru femei.",
+                  "category": "cultural",
+                  "coords": [
+                        44.407627,
+                        32.03462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Habeeb Alra'ash Square",
+                  "text": "A lively public square in Kufa that serves as a central meeting point and landmark in the city fabric.",
+                  "category": "landmark",
+                  "coords": [
+                        44.402422,
+                        32.034309
+                  ]
+            },
+            {
+                  "name": "Al-Sahlah Mosque",
+                  "text": "A historically significant mosque in Kufa, closely associated with the disappearance of the 12th Imam.",
+                  "category": "religious",
+                  "coords": [
+                        44.379746,
+                        32.038969
+                  ]
+            },
+            {
+                  "name": "Sa'sahat bin Sohhan Mosque",
+                  "text": "An ancient mosque in Kufa dedicated to the companion Sa'sa'a bin Sohan, known for its simple architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        44.382429,
+                        32.038335
+                  ]
+            },
+            {
+                  "name": "The place of the Prophet of Allah Yunus (p) and Al-Hamra Mosque",
+                  "text": "A holy site in Kufa traditionally associated with the Prophet Jonah, located adjacent to the Al-Hamra Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        44.405217,
+                        32.04011
+                  ]
+            },
+            {
+                  "name": "Womens' Market",
+                  "text": "A traditional marketplace in Kufa specializing in clothing and handmade textiles for women.",
+                  "category": "cultural",
+                  "coords": [
+                        44.407627,
+                        32.03462
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-NA",
     coords: [44.4, 32.03],
@@ -2284,7 +16045,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Autoterminal der Söhne von Muslim",
-                  "text": "Das Autoterminal der Söhne von Muslim ist eine Attraktion in Musayyib.",
+                  "text": "Busbahnhof 'Söhne des Muslim' in Musayyib, ein zentraler Knotenpunkt für Busse und Taxis.",
                   "category": "landmark",
                   "coords": [
                         44.310532,
@@ -2293,7 +16054,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Ghanmi für Keramik",
-                  "text": "Al-Ghanmi für Keramik ist eine Attraktion in Musayyib.",
+                  "text": "ABG Al-Ghanmi für Keramik in Musayyib, eine Werkstatt für handgefertigte Keramikwaren.",
                   "category": "landmark",
                   "coords": [
                         44.290922,
@@ -2304,7 +16065,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Muslim fiai autóterminál",
-                  "text": "A Muslim fiai autóterminál egy látnivaló Musayyibban.",
+                  "text": "Muszlim fiai buszterminál Musayyibban, buszok és taxik központi csomópontja.",
                   "category": "landmark",
                   "coords": [
                         44.310532,
@@ -2313,7 +16074,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Ghanmi kerámia",
-                  "text": "Az Al-Ghanmi kerámia egy látnivaló Musayyibban.",
+                  "text": "ABG Al-Ghanmi kerámia Musayyibban, kézzel készített kerámiák műhelye.",
                   "category": "landmark",
                   "coords": [
                         44.290922,
@@ -2324,7 +16085,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Terminalul auto al fiilor lui Muslim",
-                  "text": "Terminalul auto al fiilor lui Muslim este o atracție în Musayyib.",
+                  "text": "Terminalul auto „Fiii lui Muslim” din Musayyib, un nod central pentru autobuze și taxiuri.",
                   "category": "landmark",
                   "coords": [
                         44.310532,
@@ -2333,7 +16094,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Al-Ghanmi pentru ceramică",
-                  "text": "Al-Ghanmi pentru ceramică este o atracție în Musayyib.",
+                  "text": "ABG Al-Ghanmi pentru ceramică din Musayyib, un atelier de ceramică lucrată manual.",
                   "category": "landmark",
                   "coords": [
                         44.290922,
@@ -2344,7 +16105,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "en": [
             {
                   "name": "sons of Muslim car terminal",
-                  "text": "The sons of Muslim car terminal is an attraction in Musayyib.",
+                  "text": "Sons of Muslim car terminal in Musayyib, a central hub for buses and taxis.",
                   "category": "landmark",
                   "coords": [
                         44.310532,
@@ -2353,7 +16114,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "(ABG)Al-Ghanmi for Ceramics",
-                  "text": "Al-Ghanmi for Ceramics is an attraction in Musayyib.",
+                  "text": "ABG Al-Ghanmi for Ceramics in Musayyib, a workshop for handmade ceramic ware.",
                   "category": "landmark",
                   "coords": [
                         44.290922,
@@ -2404,7 +16165,340 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["Population env. 80 000", "60 km au sud de Bagdad", "Barrage de Hindiyyah depuis 1928 (800 000 ha)", "Mandat britannique 1920-1932", "Centrale thermique depuis 1978 (1 200 MW)", "Ère Saddam 1979-2003", "Attentat du 16 juillet 2005 (98 morts)", "Palmiers dattiers sur l'Euphrate"],
     }, image: "/poi-images/al-musayyib-cities-v2.webp"},
   {
-    id: "baiji-cities-v2",
+    id: "baiji-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Die Al-Salam-Moschee bietet eine ruhige Umgebung in Baidschi und dient als wichtiges islamisches Gemeindezentrum für tägliche Gebete und Freitagsgemeinden.",
+                  "category": "landmark",
+                  "coords": [
+                        43.489275,
+                        34.921747
+                  ]
+            },
+            {
+                  "name": "Sowadi mosque",
+                  "text": "Die Sowadi-Moschee in Baidschi ist ein lokales religiöses Heiligtum, das den spirituellen Bedürfnissen und dem gemeinschaftlichen Gottesdienst der Bewohner der Region gerecht wird.",
+                  "category": "religious",
+                  "coords": [
+                        43.506101,
+                        34.929344
+                  ]
+            },
+            {
+                  "name": "Al-Shahid Mosque",
+                  "text": "Die Al-Shahid-Moschee in Baidschi ist lokalen Gläubigen bekannt und fungiert als aktive islamische Gebetsstätte, die der täglichen Religionsausübung gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.493769,
+                        34.937362
+                  ]
+            },
+            {
+                  "name": "Al-Hadi Mosque",
+                  "text": "Die Al-Hadi-Moschee ist eine traditionelle islamische Kultstätte in Baidschi, in der sich die lokale Gemeinschaft zu regelmäßigen Gebeten und religiösen Lehren versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        43.498767,
+                        34.946987
+                  ]
+            },
+            {
+                  "name": "Al saffar Mosque",
+                  "text": "Die Al-Saffar-Moschee dient den Gläubigen von Baidschi und ist ein lokales Heiligtum, das dem gemeinsamen Gottesdienst und der spirituellen Besinnung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        43.515107,
+                        34.930845
+                  ]
+            },
+            {
+                  "name": "Al-Zubair Bn Al-Awam Mosque",
+                  "text": "Die Al-Zubair Bn Al-Awam Moschee in Baidschi bietet einen wesentlichen islamischen Gebetsraum, in dem tägliche Rituale für die umliegende muslimische Bevölkerung stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        43.484561,
+                        34.945848
+                  ]
+            },
+            {
+                  "name": "Al-Mahmood Mosque",
+                  "text": "Als lokales spirituelles Zentrum fungiert die Al-Mahmood-Moschee in Baidschi als islamisches Heiligtum, das das tägliche Salat und Gemeindeversammlungen erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.486654,
+                        34.942278
+                  ]
+            },
+            {
+                  "name": "Muhammad Rasul Allah Mosque",
+                  "text": "Die Muhammad Rasul Allah Moschee in Baidschi ist ein aktives islamisches Gotteshaus, das regelmäßigen Gemeinschaftsgebeten und religiöser Hingabe gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        43.491519,
+                        34.944324
+                  ]
+            },
+            {
+                  "name": "Fattah Mosque",
+                  "text": "Mit einem eigenen Gebetssaal dient die Fattah-Moschee in Baidschi der lokalen muslimischen Gemeinschaft als Ort für religiöse Besinnung und Salat.",
+                  "category": "landmark",
+                  "coords": [
+                        43.493015,
+                        34.923037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "A Baidzsi városában nyugodt környezetet biztosító Al-Szalam-mecset létfontosságú iszlám közösségi központként szolgál a napi imákhoz és a pénteki gyülekezetekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        43.489275,
+                        34.921747
+                  ]
+            },
+            {
+                  "name": "Sowadi mosque",
+                  "text": "A baidzsii Szovadi-mecset egy helyi vallási szentély, amely kielégíti a környék lakóinak spirituális igényeit és közös istentiszteletét.",
+                  "category": "religious",
+                  "coords": [
+                        43.506101,
+                        34.929344
+                  ]
+            },
+            {
+                  "name": "Al-Shahid Mosque",
+                  "text": "A helyi hívők által ismert baidzsii Al-Sahid-mecset aktív iszlám imalétesítményként működik, amelyet a mindennapi vallásgyakorlásnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        43.493769,
+                        34.937362
+                  ]
+            },
+            {
+                  "name": "Al-Hadi Mosque",
+                  "text": "Az Al-Hádi-mecset egy hagyományos iszlám istentiszteleti hely Baidzsi városában, amely a helyi közösséget gyűjti össze rendszeres imákra és vallási tanításokra.",
+                  "category": "landmark",
+                  "coords": [
+                        43.498767,
+                        34.946987
+                  ]
+            },
+            {
+                  "name": "Al saffar Mosque",
+                  "text": "A Baidzsi híveit szolgáló Al szaffar-mecset egy helyi szentély, amelyet a gyülekezeti istentiszteletnek és a spirituális elmélkedésnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        43.515107,
+                        34.930845
+                  ]
+            },
+            {
+                  "name": "Al-Zubair Bn Al-Awam Mosque",
+                  "text": "A baidzsii Al-Zubair bin Al-Avvam-mecset alapvető iszlám imateret biztosít, napi rituáléknak adva otthont a környező muszlim lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.484561,
+                        34.945848
+                  ]
+            },
+            {
+                  "name": "Al-Mahmood Mosque",
+                  "text": "A helyi spirituális központként működő baidzsii Al-Mahmúd-mecset egy iszlám szentély, amely elősegíti a napi szalátot és a közösségi összejöveteleket.",
+                  "category": "landmark",
+                  "coords": [
+                        43.486654,
+                        34.942278
+                  ]
+            },
+            {
+                  "name": "Muhammad Rasul Allah Mosque",
+                  "text": "A baidzsii Muhammad Raszúl Allah-mecset egy aktív iszlám istentiszteleti központ, amelyet a rendszeres közös imáknak és a vallási áhítatnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        43.491519,
+                        34.944324
+                  ]
+            },
+            {
+                  "name": "Fattah Mosque",
+                  "text": "A dedikált imatermet biztosító baidzsii Fattah-mecset a vallási elmélkedés és a szalát helyszíneként szolgál a helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        43.493015,
+                        34.923037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Oferind un cadru liniștit în Baiji, Moscheea Al-Salam servește ca un centru comunitar islamic vital pentru rugăciunile zilnice și congregațiile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        43.489275,
+                        34.921747
+                  ]
+            },
+            {
+                  "name": "Sowadi mosque",
+                  "text": "Moscheea Sowadi din Baiji este un sanctuar religios local care satisface nevoile spirituale și închinarea comunală a locuitorilor din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        43.506101,
+                        34.929344
+                  ]
+            },
+            {
+                  "name": "Al-Shahid Mosque",
+                  "text": "Cunoscută închinătorilor locali, Moscheea Al-Shahid din Baiji funcționează ca o unitate activă de rugăciune islamică dedicată respectării religioase zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        43.493769,
+                        34.937362
+                  ]
+            },
+            {
+                  "name": "Al-Hadi Mosque",
+                  "text": "Moscheea Al-Hadi este un lăcaș de cult islamic tradițional din Baiji, adunând comunitatea locală pentru rugăciuni regulate și învățături religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        43.498767,
+                        34.946987
+                  ]
+            },
+            {
+                  "name": "Al saffar Mosque",
+                  "text": "Deservind credincioșii din Baiji, Moscheea Al saffar este un sanctuar local dedicat cultului congregațional și reflecției spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        43.515107,
+                        34.930845
+                  ]
+            },
+            {
+                  "name": "Al-Zubair Bn Al-Awam Mosque",
+                  "text": "Moscheea Al-Zubair Bn Al-Awam din Baiji oferă un spațiu esențial de rugăciune islamică, găzduind ritualuri zilnice pentru populația musulmană din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        43.484561,
+                        34.945848
+                  ]
+            },
+            {
+                  "name": "Al-Mahmood Mosque",
+                  "text": "Funcționând ca un centru spiritual local, Moscheea Al-Mahmood din Baiji este un sanctuar islamic care facilitează salat zilnic și adunările comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        43.486654,
+                        34.942278
+                  ]
+            },
+            {
+                  "name": "Muhammad Rasul Allah Mosque",
+                  "text": "Moscheea Muhammad Rasul Allah din Baiji este un centru de cult islamic activ, dedicat rugăciunilor comunale regulate și devotamentului religios.",
+                  "category": "landmark",
+                  "coords": [
+                        43.491519,
+                        34.944324
+                  ]
+            },
+            {
+                  "name": "Fattah Mosque",
+                  "text": "Oferind o sală de rugăciune dedicată, Moscheea Fattah din Baiji servește comunității musulmane locale ca loc pentru reflecție religioasă și salat.",
+                  "category": "landmark",
+                  "coords": [
+                        43.493015,
+                        34.923037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Salam Mosque",
+                  "text": "Providing a tranquil setting in Baiji, the Al-Salam Mosque serves as a vital Islamic community center for daily prayers and Friday congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        43.489275,
+                        34.921747
+                  ]
+            },
+            {
+                  "name": "Sowadi mosque",
+                  "text": "The Sowadi Mosque in Baiji is a local religious sanctuary that accommodates the spiritual needs and communal worship of the area's residents.",
+                  "category": "religious",
+                  "coords": [
+                        43.506101,
+                        34.929344
+                  ]
+            },
+            {
+                  "name": "Al-Shahid Mosque",
+                  "text": "Known to local worshippers, the Al-Shahid Mosque in Baiji operates as an active Islamic prayer facility dedicated to daily religious observance.",
+                  "category": "landmark",
+                  "coords": [
+                        43.493769,
+                        34.937362
+                  ]
+            },
+            {
+                  "name": "Al-Hadi Mosque",
+                  "text": "The Al-Hadi Mosque is a traditional Islamic place of worship in Baiji, gathering the local community for regular prayers and religious teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        43.498767,
+                        34.946987
+                  ]
+            },
+            {
+                  "name": "Al saffar Mosque",
+                  "text": "Serving the faithful of Baiji, the Al saffar Mosque is a local sanctuary dedicated to congregational worship and spiritual reflection.",
+                  "category": "religious",
+                  "coords": [
+                        43.515107,
+                        34.930845
+                  ]
+            },
+            {
+                  "name": "Al-Zubair Bn Al-Awam Mosque",
+                  "text": "The Al-Zubair Bn Al-Awam Mosque in Baiji provides an essential Islamic prayer space, hosting daily rituals for the surrounding Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        43.484561,
+                        34.945848
+                  ]
+            },
+            {
+                  "name": "Al-Mahmood Mosque",
+                  "text": "Operating as a local spiritual hub, the Al-Mahmood Mosque in Baiji is an Islamic sanctuary that facilitates daily salat and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        43.486654,
+                        34.942278
+                  ]
+            },
+            {
+                  "name": "Muhammad Rasul Allah Mosque",
+                  "text": "The Muhammad Rasul Allah Mosque in Baiji is an active Islamic worship center, dedicated to regular communal prayers and religious devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        43.491519,
+                        34.944324
+                  ]
+            },
+            {
+                  "name": "Fattah Mosque",
+                  "text": "Providing a dedicated prayer hall, the Fattah Mosque in Baiji serves the local Muslim community as a venue for religious reflection and salat.",
+                  "category": "landmark",
+                  "coords": [
+                        43.493015,
+                        34.923037
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-SA",
     coords: [43.488, 34.931],
@@ -2447,7 +16541,196 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["Population env. 200 000", "200 km au nord de Bagdad", "Plus grande raffinerie depuis 1985 (310 000 barils/jour)", "Centrale thermique 1 500 MW", "Mandat britannique 1920-1932", "Ère Saddam 1979-2003", "Domination de l'EI juin 2014 - octobre 2015", "Raffinerie détruite à 70 % pendant la guerre contre l'EI"],
     }, image: "/poi-images/baiji-cities-v2.webp"},
   {
-    id: "al-qasim-cities-v2",
+    id: "al-qasim-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Martyr al - Jalali Square",
+                  "text": "Ein zentraler Platz in Al-Qasim mit Denkmälern, der weite Ausblicke auf das geschäftige Stadtzentrum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        44.682031,
+                        32.302398
+                  ]
+            },
+            {
+                  "name": "Imam Said Bin al Jad",
+                  "text": "Ein bedeutendes religiöses Grabmal in Al-Qasim, das durch seine kunstvoll verzierte Kuppel besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.655493,
+                        32.308209
+                  ]
+            },
+            {
+                  "name": "Imam Sayyid Muhammad",
+                  "text": "Ein lokaler Schrein in Al-Qasim, der als Ort der Andacht und Ruhe für die muslimische Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        44.654813,
+                        32.30914
+                  ]
+            },
+            {
+                  "name": "Imam al Khidr",
+                  "text": "Eine religiöse Stätte in Al-Qasim, die mit der prophetischen Figur Al-Khidr verbunden ist und Pilger anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        44.656089,
+                        32.301157
+                  ]
+            },
+            {
+                  "name": "Imam al Qasim",
+                  "text": "Ein prachtvolles Heiligtum in Al-Qasim, das für seine goldene Kuppel und die aufwendigen Kachelmosaike bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        44.684222,
+                        32.297664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Martyr al - Jalali Square",
+                  "text": "Al-Kaszim központi tere emlékművekkel, amely tágas kilátást nyújt a nyüzsgő városközpontra.",
+                  "category": "natural",
+                  "coords": [
+                        44.682031,
+                        32.302398
+                  ]
+            },
+            {
+                  "name": "Imam Said Bin al Jad",
+                  "text": "Al-Kaszim egyik jelentős vallási síremléke, amely díszes kupolájával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        44.655493,
+                        32.308209
+                  ]
+            },
+            {
+                  "name": "Imam Sayyid Muhammad",
+                  "text": "Helyi szentély Al-Kaszimban, amely a muszlim közösség áhítatának és nyugalmának helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        44.654813,
+                        32.30914
+                  ]
+            },
+            {
+                  "name": "Imam al Khidr",
+                  "text": "Al-Kaszim-i vallási helyszín, amely al-Khidr prófétai alakjához kötődik és vonzza a zarándokokat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.656089,
+                        32.301157
+                  ]
+            },
+            {
+                  "name": "Imam al Qasim",
+                  "text": "Pompás szentély Al-Kaszimban, amely aranykupolájáról és bonyolult csempemozaikjairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        44.684222,
+                        32.297664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Martyr al - Jalali Square",
+                  "text": "O piață centrală în Al-Qasim cu monumente, oferind vederi largi asupra centrului aglomerat al orașului.",
+                  "category": "natural",
+                  "coords": [
+                        44.682031,
+                        32.302398
+                  ]
+            },
+            {
+                  "name": "Imam Said Bin al Jad",
+                  "text": "Un important mormânt religios din Al-Qasim, remarcabil prin cupola sa decorată artistic.",
+                  "category": "landmark",
+                  "coords": [
+                        44.655493,
+                        32.308209
+                  ]
+            },
+            {
+                  "name": "Imam Sayyid Muhammad",
+                  "text": "Un sanctuar local din Al-Qasim, care servește ca loc de rugăciune și liniște pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        44.654813,
+                        32.30914
+                  ]
+            },
+            {
+                  "name": "Imam al Khidr",
+                  "text": "Un sit religios din Al-Qasim asociat cu figura profetică Al-Khidr, atrăgând numeroși pelerini.",
+                  "category": "landmark",
+                  "coords": [
+                        44.656089,
+                        32.301157
+                  ]
+            },
+            {
+                  "name": "Imam al Qasim",
+                  "text": "Un sanctuar magnific în Al-Qasim, cunoscut pentru cupola sa aurie și mozaicurile de faianță elaborate.",
+                  "category": "religious",
+                  "coords": [
+                        44.684222,
+                        32.297664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Martyr al - Jalali Square",
+                  "text": "A central square in Al-Qasim featuring monuments and offering wide views of the bustling city center.",
+                  "category": "natural",
+                  "coords": [
+                        44.682031,
+                        32.302398
+                  ]
+            },
+            {
+                  "name": "Imam Said Bin al Jad",
+                  "text": "A significant religious tomb in Al-Qasim, notable for its artistically decorated dome.",
+                  "category": "landmark",
+                  "coords": [
+                        44.655493,
+                        32.308209
+                  ]
+            },
+            {
+                  "name": "Imam Sayyid Muhammad",
+                  "text": "A local shrine in Al-Qasim that serves as a place of devotion and tranquility for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        44.654813,
+                        32.30914
+                  ]
+            },
+            {
+                  "name": "Imam al Khidr",
+                  "text": "A religious site in Al-Qasim associated with the prophetic figure Al-Khidr, attracting many pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        44.656089,
+                        32.301157
+                  ]
+            },
+            {
+                  "name": "Imam al Qasim",
+                  "text": "A magnificent shrine in Al-Qasim, known for its golden dome and intricate tile mosaics.",
+                  "category": "religious",
+                  "coords": [
+                        44.684222,
+                        32.297664
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-BB",
     coords: [44.664, 32.298],
@@ -2494,7 +16777,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gericht",
-                  "text": "Das Gericht ist eine Burg in Abu Ghuraib.",
+                  "text": "Gerichtsgebäude in Ghraib, ein historisches Justizgebäude (als Burg klassifiziert).",
                   "category": "castle",
                   "coords": [
                         44.198098,
@@ -2503,7 +16786,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Tall Abu Safa",
-                  "text": "Tall Abu Safa ist ein Gipfel in Abu Ghuraib.",
+                  "text": "Ein archäologischer Siedlungshügel (Tell) in Ghraib, Irak.",
                   "category": "natural",
                   "coords": [
                         44.188658,
@@ -2514,7 +16797,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "bíróság",
-                  "text": "A bíróság egy vár Abu Ghuraibban.",
+                  "text": "Bírósági épület Ghraibban, egy történelmi igazságügyi épület (várként besorolva).",
                   "category": "castle",
                   "coords": [
                         44.198098,
@@ -2523,7 +16806,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Tall Abu Safa",
-                  "text": "A Tall Abu Safa egy hegycsúcs Abu Ghuraibban.",
+                  "text": "Egy régészeti települési halom (tell) Ghraibban, Irakban.",
                   "category": "natural",
                   "coords": [
                         44.188658,
@@ -2534,7 +16817,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Curtea",
-                  "text": "Curtea este un castel în Abu Ghuraib.",
+                  "text": "Clădirea instanței din Ghraib, un edificiu judiciar istoric (clasificat ca cetate).",
                   "category": "castle",
                   "coords": [
                         44.198098,
@@ -2543,7 +16826,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Tall Abu Safa",
-                  "text": "Tall Abu Safa este un vârf în Abu Ghuraib.",
+                  "text": "Un deal arheologic (tell) în Ghraib, Irak.",
                   "category": "natural",
                   "coords": [
                         44.188658,
@@ -2554,7 +16837,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "en": [
             {
                   "name": "court",
-                  "text": "The court is a castle in Abu Ghuraib.",
+                  "text": "Court building in Ghraib, a historic judicial building (classified as a castle).",
                   "category": "castle",
                   "coords": [
                         44.198098,
@@ -2563,7 +16846,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Tall Abu Safa",
-                  "text": "Tall Abu Safa is a peak in Abu Ghuraib.",
+                  "text": "An archaeological settlement mound (tell) in Ghraib, Iraq.",
                   "category": "natural",
                   "coords": [
                         44.188658,
@@ -2614,7 +16897,52 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["Population env. 190 000", "32 km à l'ouest de Bagdad", "Prison d'Abou Ghraib ère Saddam", "Scandale des tortures en 2004 (troupes US)", "Ère Saddam 1979-2003", "Mandat britannique 1920-1932", "Prison fermée en 2014", "Menace de l'EI 2014-2016"],
     }, image: "/poi-images/abu-ghraib-cities-v2.webp"},
   {
-    id: "hit-cities-v2",
+    id: "hit-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "hit castle",
+                  "text": "Diese antike Zitadelle thront auf einem Hügel über dem Euphrat und ist für ihre strategische Lage in der Stadt Hit bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        42.823359,
+                        33.643843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "hit castle",
+                  "text": "Ez az ősi citadella egy dombon trónol az Eufrátesz felett, és Hit városában elfoglalt stratégiai helyzetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        42.823359,
+                        33.643843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "hit castle",
+                  "text": "Această citadelă antică tronează pe un deal deasupra Eufratului și este cunoscută pentru poziția sa strategică în orașul Hit.",
+                  "category": "castle",
+                  "coords": [
+                        42.823359,
+                        33.643843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "hit castle",
+                  "text": "This ancient citadel perches on a hill overlooking the Euphrates and is known for its strategic position in the city of Hit.",
+                  "category": "castle",
+                  "coords": [
+                        42.823359,
+                        33.643843
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-AN",
     coords: [42.823, 33.64],
@@ -2661,7 +16989,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Rebaz muhammad",
-                  "text": "Rebaz muhammad ist ein Theater in der Stadt Rawanduz.",
+                  "text": "Rebaz Muhammad in Rawandiz, ein Kulturzentrum, das nach einem lokalen Poeten benannt ist.",
                   "category": "cultural",
                   "coords": [
                         44.522055,
@@ -2670,7 +16998,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Shanglbana Aqua Park",
-                  "text": "ئەکواپارکی شنگلبانە ist ein Wasserpark, der Freizeitmöglichkeiten in Rawanduz bietet.",
+                  "text": "Shanglbana Aqua Park in Rawandiz, ein Wasserpark mit Rutschen, Becken und Spielbereichen.",
                   "category": "family",
                   "coords": [
                         44.508262,
@@ -2679,7 +17007,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Korek Mountain Teleferique",
-                  "text": "Die Korek Mountain Teleferique ist eine beliebte touristische Attraktion in Rawanduz.",
+                  "text": "Seilbahn auf den Korek-Berg mit Panoramablick über Rawandiz.",
                   "category": "landmark",
                   "coords": [
                         44.49334,
@@ -2688,7 +17016,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Rawanduz canyon view",
-                  "text": "Der Rawanduz canyon view bietet einen malerischen Aussichtspunkt in Rawanduz.",
+                  "text": "Aussichtspunkt über die tiefe Rawanduz-Schlucht.",
                   "category": "natural",
                   "coords": [
                         44.528009,
@@ -2697,7 +17025,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Bekhal",
-                  "text": "بێخاڵ ist eine lokale Sehenswürdigkeit in der Stadt Rawanduz.",
+                  "text": "Bekhal-Wasserfall, ein imposanter Sturz in den Fluss.",
                   "category": "landmark",
                   "coords": [
                         44.498135,
@@ -2706,7 +17034,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Esqala",
-                  "text": "Esqala umfasst historische Ruinen in der Umgebung von Rawanduz.",
+                  "text": "Historische Festungsruine oberhalb von Rawandiz.",
                   "category": "historical",
                   "coords": [
                         44.538175,
@@ -2715,7 +17043,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Rawanduz Swimming Pool",
-                  "text": "مەلەوانگەی ڕواندز ist eine Attraktion in der Stadt Rawanduz.",
+                  "text": "Öffentliches Schwimmbad in Rawandiz mit Becken und Liegewiese.",
                   "category": "landmark",
                   "coords": [
                         44.520221,
@@ -2724,7 +17052,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Beroyan street",
-                  "text": "Die Beroyan street ist eine bekannte Straße und Sehenswürdigkeit in Rawanduz.",
+                  "text": "Beroyan-Straße, belebte Hauptstraße im Zentrum von Rawandiz.",
                   "category": "landmark",
                   "coords": [
                         44.525781,
@@ -2733,7 +17061,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "kushtargay rwanduz",
-                  "text": "Kushtargay rwanduz ist eine lokale Attraktion in der Stadt Rawanduz.",
+                  "text": "Grünanlage in Rawandiz mit Spazierwegen und Sitzbänken.",
                   "category": "landmark",
                   "coords": [
                         44.527204,
@@ -2742,7 +17070,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Xarandi rwandz",
-                  "text": "Xarandi rwandz ist ein Anziehungspunkt für Besucher in Rawanduz.",
+                  "text": "Natürlicher Aussichtspunkt mit Blick auf die Berge um Rawandiz.",
                   "category": "landmark",
                   "coords": [
                         44.532482,
@@ -2751,7 +17079,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Holle bonakan",
-                  "text": "Holle bonakan ist eine Sehenswürdigkeit in der Region von Rawanduz.",
+                  "text": "Höhle oder Felsformation in der Nähe von Rawandiz.",
                   "category": "landmark",
                   "coords": [
                         44.513602,
@@ -2760,7 +17088,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Wardash",
-                  "text": "Wardash ist ein Denkmal in der Stadt Rawanduz.",
+                  "text": "Historische Ruinenstätte mit Mauerresten aus alter Zeit.",
                   "category": "historical",
                   "coords": [
                         44.518289,
@@ -2769,7 +17097,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Kani qur",
-                  "text": "Kani qur ist ein touristisches Ziel und eine Attraktion in Rawanduz.",
+                  "text": "Natürliche Quelle mit klarem Wasser, beliebt bei Einheimischen.",
                   "category": "landmark",
                   "coords": [
                         44.517226,
@@ -2778,7 +17106,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Gali garak",
-                  "text": "Gali garak ist ein landschaftlicher Anziehungspunkt in Rawanduz.",
+                  "text": "Malerisches Tal mit steilen Felswänden und Bachlauf.",
                   "category": "landmark",
                   "coords": [
                         44.535081,
@@ -2787,7 +17115,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Pank, Shingilbana",
-                  "text": "Pank, Shingilbana ist eine Attraktion in der Stadt Rawanduz.",
+                  "text": "Bergregion bei Rawandiz mit Wanderwegen und Aussichten.",
                   "category": "landmark",
                   "coords": [
                         44.506449,
@@ -2816,7 +17144,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Rebaz muhammad",
-                  "text": "A Rebaz muhammad egy színház Rawanduz városában.",
+                  "text": "Rebaz Muhammad Rawandizban, egy helyi költőről elnevezett kulturális központ.",
                   "category": "cultural",
                   "coords": [
                         44.522055,
@@ -2825,7 +17153,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Shanglbana Aqua Park",
-                  "text": "A ئەکواپارکی شنگلبانە egy vízipark, amely kikapcsolódási lehetőséget nyújt Rawanduzban.",
+                  "text": "Shanglbana Aqua Park Rawandizban, csúszdákkal, medencékkel és játszóterekkel rendelkező vízi park.",
                   "category": "family",
                   "coords": [
                         44.508262,
@@ -2834,7 +17162,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Korek Mountain Teleferique",
-                  "text": "A Korek Mountain Teleferique egy népszerű turisztikai látványosság Rawanduz városában.",
+                  "text": "Korek-hegyi sikló, panorámás kilátással Rawandizra.",
                   "category": "landmark",
                   "coords": [
                         44.49334,
@@ -2843,7 +17171,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Rawanduz canyon view",
-                  "text": "A Rawanduz canyon view egy festői kilátópont Rawanduz városában.",
+                  "text": "Kilátó a mély Rawanduz-szurdokra.",
                   "category": "natural",
                   "coords": [
                         44.528009,
@@ -2852,7 +17180,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Bekhal",
-                  "text": "A بێخاڵ egy helyi turisztikai látványosság Rawanduz városában.",
+                  "text": "Bekhal-vízesés, lenyűgöző zuhatag a folyóba.",
                   "category": "landmark",
                   "coords": [
                         44.498135,
@@ -2861,7 +17189,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Esqala",
-                  "text": "Az Esqala történelmi romokat foglal magában Rawanduz közelében.",
+                  "text": "Történelmi erődrom Rawandiz fölött.",
                   "category": "historical",
                   "coords": [
                         44.538175,
@@ -2870,7 +17198,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Rawanduz Swimming Pool",
-                  "text": "A مەلەوانگەی ڕواندز egy látványosság Rawanduz városában.",
+                  "text": "Nyilvános uszoda Rawandizban, medencével és napozóval.",
                   "category": "landmark",
                   "coords": [
                         44.520221,
@@ -2879,7 +17207,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Beroyan street",
-                  "text": "A Beroyan street egy ismert utca és látványosság Rawanduz városában.",
+                  "text": "Beroyan utca, nyüzsgő főutca Rawandiz központjában.",
                   "category": "landmark",
                   "coords": [
                         44.525781,
@@ -2888,7 +17216,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "kushtargay rwanduz",
-                  "text": "A kushtargay rwanduz egy helyi látványosság Rawanduz városában.",
+                  "text": "Zöld terület Rawandizban, sétányokkal és padokkal.",
                   "category": "landmark",
                   "coords": [
                         44.527204,
@@ -2897,7 +17225,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Xarandi rwandz",
-                  "text": "A Xarandi rwandz egy látogatókat vonzó hely Rawanduz városában.",
+                  "text": "Természetes kilátópont a Rawandiz környéki hegyekre.",
                   "category": "landmark",
                   "coords": [
                         44.532482,
@@ -2906,7 +17234,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Holle bonakan",
-                  "text": "A Holle bonakan egy látványosság Rawanduz régiójában.",
+                  "text": "Barlang vagy sziklaformáció Rawandiz közelében.",
                   "category": "landmark",
                   "coords": [
                         44.513602,
@@ -2915,7 +17243,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Wardash",
-                  "text": "A Wardash egy emlékmű Rawanduz városában.",
+                  "text": "Történelmi romterület régi falmaradványokkal.",
                   "category": "historical",
                   "coords": [
                         44.518289,
@@ -2924,7 +17252,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Kani qur",
-                  "text": "A Kani qur egy turisztikai célpont és látványosság Rawanduzban.",
+                  "text": "Természetes forrás tiszta vízzel, népszerű a helyiek körében.",
                   "category": "landmark",
                   "coords": [
                         44.517226,
@@ -2933,7 +17261,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Gali garak",
-                  "text": "A Gali garak egy természeti látványosság Rawanduz városában.",
+                  "text": "Festői völgy meredek sziklafalakkal és patakkal.",
                   "category": "landmark",
                   "coords": [
                         44.535081,
@@ -2942,7 +17270,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Pank, Shingilbana",
-                  "text": "A Pank, Shingilbana egy helyi látványosság Rawanduz városában.",
+                  "text": "Hegyvidék Rawandiz mellett, túraútvonalakkal és kilátással.",
                   "category": "landmark",
                   "coords": [
                         44.506449,
@@ -2971,7 +17299,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Rebaz muhammad",
-                  "text": "Rebaz muhammad este un teatru din orașul Rawanduz.",
+                  "text": "Rebaz Muhammad din Rawandiz, un centru cultural numit după un poet local.",
                   "category": "cultural",
                   "coords": [
                         44.522055,
@@ -2980,7 +17308,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Shanglbana Aqua Park",
-                  "text": "ئەکواپارکی شنگلبانە este un parc acvatic ce oferă facilități de agrement în Rawanduz.",
+                  "text": "Shanglbana Aqua Park din Rawandiz, un parc acvatic cu tobogane, piscine și zone de joacă.",
                   "category": "family",
                   "coords": [
                         44.508262,
@@ -2989,7 +17317,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Korek Mountain Teleferique",
-                  "text": "Korek Mountain Teleferique este o atracție turistică populară din Rawanduz.",
+                  "text": "Teleferic pe Muntele Korek, cu vedere panoramică asupra Rawandizului.",
                   "category": "landmark",
                   "coords": [
                         44.49334,
@@ -2998,7 +17326,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Rawanduz canyon view",
-                  "text": "Rawanduz canyon view este un punct de belvedere pitoresc din Rawanduz.",
+                  "text": "Punct de belvedere asupra canionului adânc Rawanduz.",
                   "category": "natural",
                   "coords": [
                         44.528009,
@@ -3007,7 +17335,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Bekhal",
-                  "text": "بێخاڵ este o atracție locală situată în orașul Rawanduz.",
+                  "text": "Cascada Bekhal, o cădere impresionantă în râu.",
                   "category": "landmark",
                   "coords": [
                         44.498135,
@@ -3016,7 +17344,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Esqala",
-                  "text": "Esqala cuprinde ruine istorice situate în zona Rawanduz.",
+                  "text": "Ruinele istorice ale unei fortărețe deasupra Rawandizului.",
                   "category": "historical",
                   "coords": [
                         44.538175,
@@ -3025,7 +17353,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Rawanduz Swimming Pool",
-                  "text": "مەلەوانگەی ڕواندز este o atracție turistică din orașul Rawanduz.",
+                  "text": "Piscină publică în Rawandiz, cu bazin și zonă de relaxare.",
                   "category": "landmark",
                   "coords": [
                         44.520221,
@@ -3034,7 +17362,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Beroyan street",
-                  "text": "Beroyan street este o stradă notabilă și o atracție în Rawanduz.",
+                  "text": "Strada Beroyan, arteră principală animată în centrul Rawandizului.",
                   "category": "landmark",
                   "coords": [
                         44.525781,
@@ -3043,7 +17371,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "kushtargay rwanduz",
-                  "text": "Kushtargay rwanduz este o atracție locală din orașul Rawanduz.",
+                  "text": "Spațiu verde în Rawandiz, cu alei și bănci.",
                   "category": "landmark",
                   "coords": [
                         44.527204,
@@ -3052,7 +17380,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Xarandi rwandz",
-                  "text": "Xarandi rwandz este un punct de atracție pentru vizitatori în Rawanduz.",
+                  "text": "Punct natural de belvedere asupra munților din jurul Rawandizului.",
                   "category": "landmark",
                   "coords": [
                         44.532482,
@@ -3061,7 +17389,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Holle bonakan",
-                  "text": "Holle bonakan este o atracție turistică din regiunea Rawanduz.",
+                  "text": "Peșteră sau formațiune stâncoasă lângă Rawandiz.",
                   "category": "landmark",
                   "coords": [
                         44.513602,
@@ -3070,7 +17398,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Wardash",
-                  "text": "Wardash este un monument situat în orașul Rawanduz.",
+                  "text": "Sit istoric cu ruine și rămășițe de ziduri vechi.",
                   "category": "historical",
                   "coords": [
                         44.518289,
@@ -3079,7 +17407,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Kani qur",
-                  "text": "Kani qur este o destinație turistică și atracție în Rawanduz.",
+                  "text": "Izvor natural cu apă limpede, popular printre localnici.",
                   "category": "landmark",
                   "coords": [
                         44.517226,
@@ -3088,7 +17416,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Gali garak",
-                  "text": "Gali garak este o atracție pitorească din Rawanduz.",
+                  "text": "Vale pitorească cu pereți stâncoși abrupți și pârâu.",
                   "category": "landmark",
                   "coords": [
                         44.535081,
@@ -3097,7 +17425,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Pank, Shingilbana",
-                  "text": "Pank, Shingilbana este o atracție locală situată în Rawanduz.",
+                  "text": "Zonă montană lângă Rawandiz, cu trasee de drumeție și priveliști.",
                   "category": "landmark",
                   "coords": [
                         44.506449,
@@ -3126,7 +17454,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Rebaz muhammad",
-                  "text": "Rebaz muhammad is a theatre located in the city of Rawanduz.",
+                  "text": "Rebaz Muhammad in Rawandiz, a cultural center named after a local poet.",
                   "category": "cultural",
                   "coords": [
                         44.522055,
@@ -3135,7 +17463,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Shanglbana Aqua Park",
-                  "text": "ئەکواپارکی شنگلبانە is a water park offering recreational activities in Rawanduz.",
+                  "text": "Shanglbana Aqua Park in Rawandiz, a water park with slides, pools, and play areas.",
                   "category": "family",
                   "coords": [
                         44.508262,
@@ -3144,7 +17472,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Korek Mountain Teleferique",
-                  "text": "The Korek Mountain Teleferique is a popular tourist attraction located in Rawanduz.",
+                  "text": "Cable car ascending Mount Korek with panoramic views over Rawandiz.",
                   "category": "landmark",
                   "coords": [
                         44.49334,
@@ -3153,7 +17481,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Rawanduz canyon view",
-                  "text": "The Rawanduz canyon view provides a scenic viewpoint in Rawanduz.",
+                  "text": "Viewpoint overlooking the deep Rawanduz Canyon.",
                   "category": "natural",
                   "coords": [
                         44.528009,
@@ -3162,7 +17490,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Bekhal",
-                  "text": "بێخاڵ is a local tourist attraction in the city of Rawanduz.",
+                  "text": "Bekhal Waterfall, a dramatic cascade into the river.",
                   "category": "landmark",
                   "coords": [
                         44.498135,
@@ -3171,7 +17499,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Esqala",
-                  "text": "Esqala features historical ruins located in the vicinity of Rawanduz.",
+                  "text": "Historic fortress ruins overlooking Rawandiz.",
                   "category": "historical",
                   "coords": [
                         44.538175,
@@ -3180,7 +17508,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Rawanduz Swimming Pool",
-                  "text": "مەلەوانگەی ڕواندز is a tourist attraction situated in Rawanduz.",
+                  "text": "Public swimming pool in Rawandiz with pool and sunbathing area.",
                   "category": "landmark",
                   "coords": [
                         44.520221,
@@ -3189,7 +17517,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Beroyan street",
-                  "text": "Beroyan street is a notable street and attraction in Rawanduz.",
+                  "text": "Beroyan Street, a lively main street in central Rawandiz.",
                   "category": "landmark",
                   "coords": [
                         44.525781,
@@ -3198,7 +17526,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "kushtargay rwanduz",
-                  "text": "Kushtargay rwanduz is a local attraction located in the city of Rawanduz.",
+                  "text": "Green space in Rawandiz with walking paths and benches.",
                   "category": "landmark",
                   "coords": [
                         44.527204,
@@ -3207,7 +17535,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Xarandi rwandz",
-                  "text": "Xarandi rwandz is a point of interest for visitors in Rawanduz.",
+                  "text": "Natural viewpoint overlooking the mountains around Rawandiz.",
                   "category": "landmark",
                   "coords": [
                         44.532482,
@@ -3216,7 +17544,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Holle bonakan",
-                  "text": "Holle bonakan is a tourist attraction in the Rawanduz area.",
+                  "text": "Cave or rock formation near Rawandiz.",
                   "category": "landmark",
                   "coords": [
                         44.513602,
@@ -3225,7 +17553,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Wardash",
-                  "text": "Wardash is a monument located in the city of Rawanduz.",
+                  "text": "Historical ruins with ancient wall fragments.",
                   "category": "historical",
                   "coords": [
                         44.518289,
@@ -3234,7 +17562,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Kani qur",
-                  "text": "Kani qur is a tourist destination and attraction in Rawanduz.",
+                  "text": "Natural spring with clear water, popular with locals.",
                   "category": "landmark",
                   "coords": [
                         44.517226,
@@ -3243,7 +17571,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Gali garak",
-                  "text": "Gali garak is a scenic attraction located in Rawanduz.",
+                  "text": "Scenic valley with steep rock walls and a stream.",
                   "category": "landmark",
                   "coords": [
                         44.535081,
@@ -3252,7 +17580,7 @@ export const poiExtraIraqCitiesV2: POI[] = [
             },
             {
                   "name": "Pank, Shingilbana",
-                  "text": "Pank, Shingilbana is a local attraction situated in Rawanduz.",
+                  "text": "Mountain area near Rawandiz with hiking trails and views.",
                   "category": "landmark",
                   "coords": [
                         44.506449,

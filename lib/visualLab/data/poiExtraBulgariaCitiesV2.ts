@@ -48,7 +48,916 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-pleven-cities-v2.webp",
   },
   {
-    id: "bulgaria-gabrovo-cities-v2", "sights": {"de": [{"name": "Natsionalen muzei na obrazovanieto", "text": "Ein Museum in Gabrowo, das der Geschichte der bulgarischen Bildung gewidmet ist.", "category": "museum", "coords": [25.316564, 42.870402]}, {"name": "Dramatichen teatar \"Racho Stoyanov\"", "text": "Ein bedeutendes Theater für dramatische Kunst in Gabrowo.", "category": "cultural", "coords": [25.31686, 42.872519]}, {"name": "Dom na humora i satirata", "text": "Ein weltweit bekanntes Museum für Humor und Satire in Gabrowo.", "category": "museum", "coords": [25.318106, 42.879743]}, {"name": "Regionalen istoricheski muzei Gabrovo", "text": "Ein Museum, das die reiche Geschichte der Region Gabrowo dokumentiert.", "category": "museum", "coords": [25.319585, 42.870356]}, {"name": "Dom na kulturata \"Emanuil Manolov\"", "text": "Ein lokales Kulturzentrum und Theater in Gabrowo.", "category": "cultural", "coords": [25.31474, 42.870397]}, {"name": "Leten teatar", "text": "Ein Freilufttheater für Aufführungen während der Sommermonate.", "category": "cultural", "coords": [25.311864, 42.871536]}, {"name": "Zoopark Gabrovo", "text": "Der städtische Zoo von Gabrowo mit verschiedenen Tierarten.", "category": "family", "coords": [25.330203, 42.873556]}, {"name": "Kuklen Teatar", "text": "Ein spezialisiertes Theater für Puppenspiele in Gabrowo.", "category": "cultural", "coords": [25.316123, 42.868745]}, {"name": "Starobalgarsko selishte Gradishteto", "text": "Die Überreste einer befestigten altbulgarischen Siedlung auf einem Hügel.", "category": "historical", "coords": [25.341492, 42.883256]}, {"name": "Pametnik na Racho Kovacha", "text": "Ein Denkmal für den legendären Gründer von Gabrowo, Racho den Schmied.", "category": "landmark", "coords": [25.318274, 42.87402]}, {"name": "Shivarov most", "text": "Eine Brücke in Gabrowo, die als Denkmal erhalten ist.", "category": "historical", "coords": [25.322798, 42.86137]}, {"name": "Pametnik \"Neofit Rilski\"", "text": "Ein Denkmal zu Ehren von Neofit Rilski, einer Figur der bulgarischen Wiedergeburt.", "category": "historical", "coords": [25.319937, 42.868056]}, {"name": "Pametnik na Tsanko", "text": "Ein Denkmal für den Revolutionär Tsanko Dyustabanov in Gabrowo.", "category": "historical", "coords": [25.318388, 42.871806]}, {"name": "Pametnik na Chardafon Veliki", "text": "Ein Denkmal für den bulgarischen Freiheitskämpfer Chardafon.", "category": "historical", "coords": [25.313711, 42.871396]}, {"name": "Sveti Ioan Predtecha", "text": "Eine orthodoxe Kirche, die dem Heiligen Johannes dem Täufer gewidmet ist.", "category": "religious", "coords": [25.320525, 42.874811]}, {"name": "Uspenie Bogorodichno", "text": "Eine orthodoxe Kirche, die der Entschlafung der Gottesmutter gewidmet ist.", "category": "religious", "coords": [25.319773, 42.871333]}, {"name": "Katedralen hram \"Sveta Troitsa\"", "text": "Eine prächtige Kathedrale und ein religiöses Zentrum in Gabrowo.", "category": "religious", "coords": [25.319788, 42.872778]}, {"name": "yaz. Yana", "text": "Der Yana-Stausee in Gabrovo liegt eingebettet in eine ruhige Naturlandschaft.", "category": "natural", "coords": [25.285052, 42.883155]}, {"name": "yaz. Sinkevitsa", "text": "Der Sinkevitsa-Stausee in Gabrovo bietet eine entspannte Atmosphäre am Wasser.", "category": "natural", "coords": [25.277748, 42.865347]}, {"name": "yazovir Razsadnika", "text": "Der Rassadnika-Stausee in Gabrovo ist ein Ziel für Spaziergänge in der Natur.", "category": "natural", "coords": [25.268657, 42.893191]}, {"name": "yaz. Zhaltesh", "text": "Der Zhaltesh-Stausee in Gabrovo bietet einen schönen Blick auf das Umland.", "category": "natural", "coords": [25.389071, 42.856188]}, {"name": "Yazovir Vranilovtsi", "text": "Der Vranilovtsi-Stausee in Gabrovo lädt zum Verweilen in der Natur ein.", "category": "natural", "coords": [25.241799, 42.908054]}, {"name": "Sporten ribolov", "text": "Der Sporten ribolov in Gabrovo ist ein See, der Entspannung am Wasser bietet.", "category": "natural", "coords": [25.400094, 42.89583]}, {"name": "Mechtaniya Detski razvlekatelen kompleks", "text": "Ein familienfreundlicher Spielplatz in Gabrovo für Kinder zum Austoben.", "category": "family", "coords": [25.33726, 42.873706]}, {"name": "Borchetata", "text": "Ein schöner Ort in Gabrovo, an dem Kinder sicher spielen können.", "category": "family", "coords": [25.322967, 42.889406]}], "hu": [{"name": "Natsionalen muzei na obrazovanieto", "text": "A bolgár oktatás történetének szentelt múzeum Gabrovóban.", "category": "museum", "coords": [25.316564, 42.870402]}, {"name": "Dramatichen teatar \"Racho Stoyanov\"", "text": "Gabrovo jelentős drámai színháza.", "category": "cultural", "coords": [25.31686, 42.872519]}, {"name": "Dom na humora i satirata", "text": "A humor és a szatíra világhírű múzeuma Gabrovóban.", "category": "museum", "coords": [25.318106, 42.879743]}, {"name": "Regionalen istoricheski muzei Gabrovo", "text": "Gabrovo vidékének gazdag történelmét bemutató múzeum.", "category": "museum", "coords": [25.319585, 42.870356]}, {"name": "Dom na kulturata \"Emanuil Manolov\"", "text": "Helyi kulturális központ és színház Gabrovóban.", "category": "cultural", "coords": [25.31474, 42.870397]}, {"name": "Leten teatar", "text": "Szabadtéri színház nyári előadásokhoz.", "category": "cultural", "coords": [25.311864, 42.871536]}, {"name": "Zoopark Gabrovo", "text": "Gabrovo városi állatkertje különféle állatfajokkal.", "category": "family", "coords": [25.330203, 42.873556]}, {"name": "Kuklen Teatar", "text": "Bábszínházi előadásokra szakosodott színház Gabrovóban.", "category": "cultural", "coords": [25.316123, 42.868745]}, {"name": "Starobalgarsko selishte Gradishteto", "text": "Egy dombtetőn található erődített óbolgár település maradványai.", "category": "historical", "coords": [25.341492, 42.883256]}, {"name": "Pametnik na Racho Kovacha", "text": "Gabrovo legendás alapítója, Racho kovács tiszteletére emelt emlékmű.", "category": "landmark", "coords": [25.318274, 42.87402]}, {"name": "Shivarov most", "text": "Emlékműként megőrzött híd Gabrovóban.", "category": "historical", "coords": [25.322798, 42.86137]}, {"name": "Pametnik \"Neofit Rilski\"", "text": "Emlékmű Neofit Rilszki, a bolgár újjászületés alakja tiszteletére.", "category": "historical", "coords": [25.319937, 42.868056]}, {"name": "Pametnik na Tsanko", "text": "Canko Gjusztabanov forradalmár emlékműve Gabrovóban.", "category": "historical", "coords": [25.318388, 42.871806]}, {"name": "Pametnik na Chardafon Veliki", "text": "Csardafon bolgár szabadságharcos tiszteletére emelt emlékmű.", "category": "historical", "coords": [25.313711, 42.871396]}, {"name": "Sveti Ioan Predtecha", "text": "Keresztelő Szent Jánosnak szentelt ortodox templom.", "category": "religious", "coords": [25.320525, 42.874811]}, {"name": "Uspenie Bogorodichno", "text": "Az Istenszülő elszenderedésének szentelt ortodox templom.", "category": "religious", "coords": [25.319773, 42.871333]}, {"name": "Katedralen hram \"Sveta Troitsa\"", "text": "Gabrovo lenyűgöző székesegyháza és vallási központja.", "category": "religious", "coords": [25.319788, 42.872778]}, {"name": "yaz. Yana", "text": "A Yana víztározó Gabrovóban, nyugodt természeti környezetben található.", "category": "natural", "coords": [25.285052, 42.883155]}, {"name": "yaz. Sinkevitsa", "text": "A Sinkevitsa víztározó Gabrovóban pihentető vízparti hangulatot áraszt.", "category": "natural", "coords": [25.277748, 42.865347]}, {"name": "yazovir Razsadnika", "text": "A Rassadnika víztározó Gabrovóban természetjáró séták kedvelt úti célja.", "category": "natural", "coords": [25.268657, 42.893191]}, {"name": "yaz. Zhaltesh", "text": "A Zhaltesh víztározó Gabrovóban szép kilátást nyújt a környékre.", "category": "natural", "coords": [25.389071, 42.856188]}, {"name": "Yazovir Vranilovtsi", "text": "A Vranilovtsi víztározó Gabrovóban kellemes időtöltést kínál a természetben.", "category": "natural", "coords": [25.241799, 42.908054]}, {"name": "Sporten ribolov", "text": "A Gabrovóban található Sporten ribolov tó vízparti kikapcsolódást nyújt.", "category": "natural", "coords": [25.400094, 42.89583]}, {"name": "Mechtaniya Detski razvlekatelen kompleks", "text": "Gabrovo városában található családbarát játszótér a gyerekek számára.", "category": "family", "coords": [25.33726, 42.873706]}, {"name": "Borchetata", "text": "Szép hely Gabrovo területén, ahol a gyerekek biztonságban játszhatnak.", "category": "family", "coords": [25.322967, 42.889406]}], "ro": [{"name": "Natsionalen muzei na obrazovanieto", "text": "Un muzeu din Gabrovo dedicat istoriei educației bulgare.", "category": "museum", "coords": [25.316564, 42.870402]}, {"name": "Dramatichen teatar \"Racho Stoyanov\"", "text": "Un teatru important pentru arta dramatică în Gabrovo.", "category": "cultural", "coords": [25.31686, 42.872519]}, {"name": "Dom na humora i satirata", "text": "Un muzeu faimos dedicat umorului și satirei în Gabrovo.", "category": "museum", "coords": [25.318106, 42.879743]}, {"name": "Regionalen istoricheski muzei Gabrovo", "text": "Un muzeu care documentează istoria bogată a regiunii Gabrovo.", "category": "museum", "coords": [25.319585, 42.870356]}, {"name": "Dom na kulturata \"Emanuil Manolov\"", "text": "Un centru cultural și teatru local în Gabrovo.", "category": "cultural", "coords": [25.31474, 42.870397]}, {"name": "Leten teatar", "text": "Un teatru în aer liber pentru spectacole pe timp de vară.", "category": "cultural", "coords": [25.311864, 42.871536]}, {"name": "Zoopark Gabrovo", "text": "Grădina zoologică din Gabrovo, care găzduiește diverse specii.", "category": "family", "coords": [25.330203, 42.873556]}, {"name": "Kuklen Teatar", "text": "Un teatru specializat în spectacole de păpuși în Gabrovo.", "category": "cultural", "coords": [25.316123, 42.868745]}, {"name": "Starobalgarsko selishte Gradishteto", "text": "Vestigiile unei așezări bulgare vechi fortificate pe un deal.", "category": "historical", "coords": [25.341492, 42.883256]}, {"name": "Pametnik na Racho Kovacha", "text": "Un monument dedicat legendarului fondator al orașului Gabrovo, Racho Fierarul.", "category": "landmark", "coords": [25.318274, 42.87402]}, {"name": "Shivarov most", "text": "Un pod din Gabrovo, conservat ca monument.", "category": "historical", "coords": [25.322798, 42.86137]}, {"name": "Pametnik \"Neofit Rilski\"", "text": "Un monument în cinstea lui Neofit Rilski, o figură a Renașterii bulgare.", "category": "historical", "coords": [25.319937, 42.868056]}, {"name": "Pametnik na Tsanko", "text": "Un monument dedicat revoluționarului Țanko Diustabanov în Gabrovo.", "category": "historical", "coords": [25.318388, 42.871806]}, {"name": "Pametnik na Chardafon Veliki", "text": "Un monument dedicat luptătorului bulgar pentru libertate, Ceardafon.", "category": "historical", "coords": [25.313711, 42.871396]}, {"name": "Sveti Ioan Predtecha", "text": "O biserică ortodoxă dedicată Sfântului Ioan Botezătorul.", "category": "religious", "coords": [25.320525, 42.874811]}, {"name": "Uspenie Bogorodichno", "text": "O biserică ortodoxă dedicată Adormirii Maicii Domnului.", "category": "religious", "coords": [25.319773, 42.871333]}, {"name": "Katedralen hram \"Sveta Troitsa\"", "text": "O catedrală impunătoare și centru religios în Gabrovo.", "category": "religious", "coords": [25.319788, 42.872778]}, {"name": "yaz. Yana", "text": "Lacul de acumulare Yana din Gabrovo este situat într-un cadru natural liniștit.", "category": "natural", "coords": [25.285052, 42.883155]}, {"name": "yaz. Sinkevitsa", "text": "Lacul de acumulare Sinkevitsa din Gabrovo oferă o atmosferă relaxantă lângă apă.", "category": "natural", "coords": [25.277748, 42.865347]}, {"name": "yazovir Razsadnika", "text": "Lacul de acumulare Rassadnika din Gabrovo este o destinație pentru plimbări în natură.", "category": "natural", "coords": [25.268657, 42.893191]}, {"name": "yaz. Zhaltesh", "text": "Lacul de acumulare Zhaltesh din Gabrovo oferă o priveliște frumoasă asupra împrejurimilor.", "category": "natural", "coords": [25.389071, 42.856188]}, {"name": "Yazovir Vranilovtsi", "text": "Lacul de acumulare Vranilovtsi din Gabrovo invită la momente de liniște în natură.", "category": "natural", "coords": [25.241799, 42.908054]}, {"name": "Sporten ribolov", "text": "Sporten ribolov din Gabrovo este un lac care oferă relaxare pe malul apei.", "category": "natural", "coords": [25.400094, 42.89583]}, {"name": "Mechtaniya Detski razvlekatelen kompleks", "text": "Un teren de joacă pentru copii, ideal pentru familii, situat în Gabrovo.", "category": "family", "coords": [25.33726, 42.873706]}, {"name": "Borchetata", "text": "Un loc frumos în Gabrovo unde copiii se pot juca în siguranță.", "category": "family", "coords": [25.322967, 42.889406]}], "en": [{"name": "National Museum of Education", "text": "A museum in Gabrovo dedicated to the history of Bulgarian education.", "category": "museum", "coords": [25.316564, 42.870402]}, {"name": "Dramatichen teatar \"Racho Stoyanov\"", "text": "A significant drama theatre located in Gabrovo.", "category": "cultural", "coords": [25.31686, 42.872519]}, {"name": "House of Humour and Satire", "text": "A world-famous museum dedicated to humor and satire in Gabrovo.", "category": "museum", "coords": [25.318106, 42.879743]}, {"name": "Regional History Museum Gabrovo", "text": "A museum documenting the rich history of the Gabrovo region.", "category": "museum", "coords": [25.319585, 42.870356]}, {"name": "Dom na kulturata \"Emanuil Manolov\"", "text": "A local cultural center and theatre in Gabrovo.", "category": "cultural", "coords": [25.31474, 42.870397]}, {"name": "Leten teatar", "text": "An open-air theatre for performances during the summer months.", "category": "cultural", "coords": [25.311864, 42.871536]}, {"name": "Zoopark Gabrovo", "text": "The municipal zoo of Gabrovo, home to various animal species.", "category": "family", "coords": [25.330203, 42.873556]}, {"name": "Kuklen Teatar", "text": "A theatre specialized in puppet shows in Gabrovo.", "category": "cultural", "coords": [25.316123, 42.868745]}, {"name": "Starobalgarsko selishte Gradishteto", "text": "The remains of a fortified Old Bulgarian settlement on a hill.", "category": "historical", "coords": [25.341492, 42.883256]}, {"name": "Pametnik na Racho Kovacha", "text": "A monument to the legendary founder of Gabrovo, Racho the Blacksmith.", "category": "landmark", "coords": [25.318274, 42.87402]}, {"name": "Shivarov bridge", "text": "A bridge in Gabrovo preserved as a monument.", "category": "historical", "coords": [25.322798, 42.86137]}, {"name": "Pametnik \"Neofit Rilski\"", "text": "A monument honoring Neofit Rilski, a figure of the Bulgarian National Revival.", "category": "historical", "coords": [25.319937, 42.868056]}, {"name": "Monument of Tsanko Dyustabanov", "text": "A monument to the revolutionary Tsanko Dyustabanov in Gabrovo.", "category": "historical", "coords": [25.318388, 42.871806]}, {"name": "Chardafon the Great monument", "text": "A monument dedicated to the Bulgarian freedom fighter Chardafon.", "category": "historical", "coords": [25.313711, 42.871396]}, {"name": "Sveti Ioan Predtecha", "text": "An Orthodox church dedicated to Saint John the Baptist.", "category": "religious", "coords": [25.320525, 42.874811]}, {"name": "Uspenie Bogorodichno", "text": "An Orthodox church dedicated to the Dormition of the Mother of God.", "category": "religious", "coords": [25.319773, 42.871333]}, {"name": "Katedralen hram \"Sveta Troitsa\"", "text": "A magnificent cathedral and religious center in Gabrovo.", "category": "religious", "coords": [25.319788, 42.872778]}, {"name": "yaz. Yana", "text": "The Yana reservoir in Gabrovo is set within a peaceful natural landscape.", "category": "natural", "coords": [25.285052, 42.883155]}, {"name": "yaz. Sinkevitsa", "text": "The Sinkevitsa reservoir in Gabrovo offers a relaxing atmosphere by the water.", "category": "natural", "coords": [25.277748, 42.865347]}, {"name": "yazovir Razsadnika", "text": "The Rassadnika reservoir in Gabrovo is a destination for walks in nature.", "category": "natural", "coords": [25.268657, 42.893191]}, {"name": "yaz. Zhaltesh", "text": "The Zhaltesh reservoir in Gabrovo offers a nice view of the surrounding area.", "category": "natural", "coords": [25.389071, 42.856188]}, {"name": "Yazovir Vranilovtsi", "text": "The Vranilovtsi reservoir in Gabrovo invites you to enjoy time in nature.", "category": "natural", "coords": [25.241799, 42.908054]}, {"name": "Sporten ribolov", "text": "Sporten ribolov in Gabrovo is a lake that offers relaxation by the water.", "category": "natural", "coords": [25.400094, 42.89583]}, {"name": "Mechtaniya Detski razvlekatelen kompleks", "text": "A family-friendly playground in Gabrovo for children to enjoy.", "category": "family", "coords": [25.33726, 42.873706]}, {"name": "Borchetata", "text": "A lovely spot in Gabrovo where children can play safely.", "category": "family", "coords": [25.322967, 42.889406]}]},
+    id: "bulgaria-gabrovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Natsionalen muzei na obrazovanieto",
+                  "text": "Ein Museum in Gabrowo, das der Geschichte der bulgarischen Bildung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.316564,
+                        42.870402
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Racho Stoyanov\"",
+                  "text": "Theater benannt nach dem bulgarischen Dramatiker Racho Stoyanov in Gabrovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.31686,
+                        42.872519
+                  ]
+            },
+            {
+                  "name": "Dom na humora i satirata",
+                  "text": "Ein weltweit bekanntes Museum für Humor und Satire in Gabrowo.",
+                  "category": "museum",
+                  "coords": [
+                        25.318106,
+                        42.879743
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei Gabrovo",
+                  "text": "Regionalgeschichtsmuseum Gabrowo, untergebracht im ehemaligen osmanischen Gerichtsgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        25.319585,
+                        42.870356
+                  ]
+            },
+            {
+                  "name": "Dom na kulturata \"Emanuil Manolov\"",
+                  "text": "Kulturhaus benannt nach dem bulgarischen Komponisten Emanuil Manolov in Gabrovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.31474,
+                        42.870397
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Ein Freilufttheater für Aufführungen während der Sommermonate.",
+                  "category": "cultural",
+                  "coords": [
+                        25.311864,
+                        42.871536
+                  ]
+            },
+            {
+                  "name": "Zoopark Gabrovo",
+                  "text": "Der städtische Zoo von Gabrowo mit verschiedenen Tierarten.",
+                  "category": "family",
+                  "coords": [
+                        25.330203,
+                        42.873556
+                  ]
+            },
+            {
+                  "name": "Kuklen Teatar",
+                  "text": "Puppentheater in Gabrowo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.316123,
+                        42.868745
+                  ]
+            },
+            {
+                  "name": "Starobalgarsko selishte Gradishteto",
+                  "text": "Die Überreste einer befestigten altbulgarischen Siedlung auf einem Hügel.",
+                  "category": "historical",
+                  "coords": [
+                        25.341492,
+                        42.883256
+                  ]
+            },
+            {
+                  "name": "Pametnik na Racho Kovacha",
+                  "text": "Ein Denkmal für den legendären Gründer von Gabrowo, Racho den Schmied.",
+                  "category": "landmark",
+                  "coords": [
+                        25.318274,
+                        42.87402
+                  ]
+            },
+            {
+                  "name": "Shivarov most",
+                  "text": "Historische Schiwarow-Brücke über die Jantra in Gabrowo.",
+                  "category": "historical",
+                  "coords": [
+                        25.322798,
+                        42.86137
+                  ]
+            },
+            {
+                  "name": "Pametnik \"Neofit Rilski\"",
+                  "text": "Ein Denkmal zu Ehren von Neofit Rilski, einer Figur der bulgarischen Wiedergeburt.",
+                  "category": "historical",
+                  "coords": [
+                        25.319937,
+                        42.868056
+                  ]
+            },
+            {
+                  "name": "Pametnik na Tsanko",
+                  "text": "Denkmal für den Revolutionär Zanko Djustabanow in Gabrowo.",
+                  "category": "historical",
+                  "coords": [
+                        25.318388,
+                        42.871806
+                  ]
+            },
+            {
+                  "name": "Pametnik na Chardafon Veliki",
+                  "text": "Ein Denkmal für den bulgarischen Freiheitskämpfer Chardafon.",
+                  "category": "historical",
+                  "coords": [
+                        25.313711,
+                        42.871396
+                  ]
+            },
+            {
+                  "name": "Sveti Ioan Predtecha",
+                  "text": "Eine orthodoxe Kirche, die dem Heiligen Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.320525,
+                        42.874811
+                  ]
+            },
+            {
+                  "name": "Uspenie Bogorodichno",
+                  "text": "Eine orthodoxe Kirche, die der Entschlafung der Gottesmutter gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.319773,
+                        42.871333
+                  ]
+            },
+            {
+                  "name": "Katedralen hram \"Sveta Troitsa\"",
+                  "text": "Eine prächtige Kathedrale und ein religiöses Zentrum in Gabrowo.",
+                  "category": "religious",
+                  "coords": [
+                        25.319788,
+                        42.872778
+                  ]
+            },
+            {
+                  "name": "yaz. Yana",
+                  "text": "Der Yana-Stausee in Gabrovo liegt eingebettet in eine ruhige Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.285052,
+                        42.883155
+                  ]
+            },
+            {
+                  "name": "yaz. Sinkevitsa",
+                  "text": "Der Sinkevitsa-Stausee in Gabrovo bietet eine entspannte Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        25.277748,
+                        42.865347
+                  ]
+            },
+            {
+                  "name": "yazovir Razsadnika",
+                  "text": "Der Rassadnika-Stausee in Gabrovo ist ein Ziel für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        25.268657,
+                        42.893191
+                  ]
+            },
+            {
+                  "name": "yaz. Zhaltesh",
+                  "text": "Der Zhaltesh-Stausee in Gabrovo bietet einen schönen Blick auf das Umland.",
+                  "category": "natural",
+                  "coords": [
+                        25.389071,
+                        42.856188
+                  ]
+            },
+            {
+                  "name": "Yazovir Vranilovtsi",
+                  "text": "Der Vranilovtsi-Stausee in Gabrovo lädt zum Verweilen in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        25.241799,
+                        42.908054
+                  ]
+            },
+            {
+                  "name": "Sporten ribolov",
+                  "text": "Angelsportgebiet an einem Fluss oder See bei Gabrowo.",
+                  "category": "natural",
+                  "coords": [
+                        25.400094,
+                        42.89583
+                  ]
+            },
+            {
+                  "name": "Mechtaniya Detski razvlekatelen kompleks",
+                  "text": "Ein familienfreundlicher Spielplatz in Gabrovo für Kinder zum Austoben.",
+                  "category": "family",
+                  "coords": [
+                        25.33726,
+                        42.873706
+                  ]
+            },
+            {
+                  "name": "Borchetata",
+                  "text": "Ein schöner Ort in Gabrovo, an dem Kinder sicher spielen können.",
+                  "category": "family",
+                  "coords": [
+                        25.322967,
+                        42.889406
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Natsionalen muzei na obrazovanieto",
+                  "text": "A bolgár oktatás történetének szentelt múzeum Gabrovóban.",
+                  "category": "museum",
+                  "coords": [
+                        25.316564,
+                        42.870402
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Racho Stoyanov\"",
+                  "text": "Racho Stoyanov bolgár drámaíróról elnevezett színház Gabrovóban.",
+                  "category": "cultural",
+                  "coords": [
+                        25.31686,
+                        42.872519
+                  ]
+            },
+            {
+                  "name": "Dom na humora i satirata",
+                  "text": "A humor és a szatíra világhírű múzeuma Gabrovóban.",
+                  "category": "museum",
+                  "coords": [
+                        25.318106,
+                        42.879743
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei Gabrovo",
+                  "text": "Gabrovo Regionális Történeti Múzeum, az egykori oszmán bírósági épületben.",
+                  "category": "museum",
+                  "coords": [
+                        25.319585,
+                        42.870356
+                  ]
+            },
+            {
+                  "name": "Dom na kulturata \"Emanuil Manolov\"",
+                  "text": "Emanuil Manolov bolgár zeneszerzőről elnevezett kultúrház Gabrovóban.",
+                  "category": "cultural",
+                  "coords": [
+                        25.31474,
+                        42.870397
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Szabadtéri színház nyári előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        25.311864,
+                        42.871536
+                  ]
+            },
+            {
+                  "name": "Zoopark Gabrovo",
+                  "text": "Gabrovo városi állatkertje különféle állatfajokkal.",
+                  "category": "family",
+                  "coords": [
+                        25.330203,
+                        42.873556
+                  ]
+            },
+            {
+                  "name": "Kuklen Teatar",
+                  "text": "Bábszínház Gabrovóban.",
+                  "category": "cultural",
+                  "coords": [
+                        25.316123,
+                        42.868745
+                  ]
+            },
+            {
+                  "name": "Starobalgarsko selishte Gradishteto",
+                  "text": "Egy dombtetőn található erődített óbolgár település maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        25.341492,
+                        42.883256
+                  ]
+            },
+            {
+                  "name": "Pametnik na Racho Kovacha",
+                  "text": "Gabrovo legendás alapítója, Racho kovács tiszteletére emelt emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        25.318274,
+                        42.87402
+                  ]
+            },
+            {
+                  "name": "Shivarov most",
+                  "text": "Történelmi Shivarov híd a Jantra folyón Gabrovóban.",
+                  "category": "historical",
+                  "coords": [
+                        25.322798,
+                        42.86137
+                  ]
+            },
+            {
+                  "name": "Pametnik \"Neofit Rilski\"",
+                  "text": "Emlékmű Neofit Rilszki, a bolgár újjászületés alakja tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        25.319937,
+                        42.868056
+                  ]
+            },
+            {
+                  "name": "Pametnik na Tsanko",
+                  "text": "Canko Djusztabanov forradalmár emlékműve Gabrovóban.",
+                  "category": "historical",
+                  "coords": [
+                        25.318388,
+                        42.871806
+                  ]
+            },
+            {
+                  "name": "Pametnik na Chardafon Veliki",
+                  "text": "Csardafon bolgár szabadságharcos tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        25.313711,
+                        42.871396
+                  ]
+            },
+            {
+                  "name": "Sveti Ioan Predtecha",
+                  "text": "Keresztelő Szent Jánosnak szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        25.320525,
+                        42.874811
+                  ]
+            },
+            {
+                  "name": "Uspenie Bogorodichno",
+                  "text": "Az Istenszülő elszenderedésének szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        25.319773,
+                        42.871333
+                  ]
+            },
+            {
+                  "name": "Katedralen hram \"Sveta Troitsa\"",
+                  "text": "Gabrovo lenyűgöző székesegyháza és vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        25.319788,
+                        42.872778
+                  ]
+            },
+            {
+                  "name": "yaz. Yana",
+                  "text": "A Yana víztározó Gabrovóban, nyugodt természeti környezetben található.",
+                  "category": "natural",
+                  "coords": [
+                        25.285052,
+                        42.883155
+                  ]
+            },
+            {
+                  "name": "yaz. Sinkevitsa",
+                  "text": "A Sinkevitsa víztározó Gabrovóban pihentető vízparti hangulatot áraszt.",
+                  "category": "natural",
+                  "coords": [
+                        25.277748,
+                        42.865347
+                  ]
+            },
+            {
+                  "name": "yazovir Razsadnika",
+                  "text": "A Rassadnika víztározó Gabrovóban természetjáró séták kedvelt úti célja.",
+                  "category": "natural",
+                  "coords": [
+                        25.268657,
+                        42.893191
+                  ]
+            },
+            {
+                  "name": "yaz. Zhaltesh",
+                  "text": "A Zhaltesh víztározó Gabrovóban szép kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.389071,
+                        42.856188
+                  ]
+            },
+            {
+                  "name": "Yazovir Vranilovtsi",
+                  "text": "A Vranilovtsi víztározó Gabrovóban kellemes időtöltést kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        25.241799,
+                        42.908054
+                  ]
+            },
+            {
+                  "name": "Sporten ribolov",
+                  "text": "Sporthorgászterület egy folyón vagy tavon Gabrovóban.",
+                  "category": "natural",
+                  "coords": [
+                        25.400094,
+                        42.89583
+                  ]
+            },
+            {
+                  "name": "Mechtaniya Detski razvlekatelen kompleks",
+                  "text": "Gabrovo városában található családbarát játszótér a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        25.33726,
+                        42.873706
+                  ]
+            },
+            {
+                  "name": "Borchetata",
+                  "text": "Szép hely Gabrovo területén, ahol a gyerekek biztonságban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        25.322967,
+                        42.889406
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Natsionalen muzei na obrazovanieto",
+                  "text": "Un muzeu din Gabrovo dedicat istoriei educației bulgare.",
+                  "category": "museum",
+                  "coords": [
+                        25.316564,
+                        42.870402
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Racho Stoyanov\"",
+                  "text": "Teatru numit după dramaturgul bulgar Racho Stoyanov în Gabrovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.31686,
+                        42.872519
+                  ]
+            },
+            {
+                  "name": "Dom na humora i satirata",
+                  "text": "Un muzeu faimos dedicat umorului și satirei în Gabrovo.",
+                  "category": "museum",
+                  "coords": [
+                        25.318106,
+                        42.879743
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei Gabrovo",
+                  "text": "Muzeul Regional de Istorie din Gabrovo, găzduit în fosta clădire a tribunalului otoman.",
+                  "category": "museum",
+                  "coords": [
+                        25.319585,
+                        42.870356
+                  ]
+            },
+            {
+                  "name": "Dom na kulturata \"Emanuil Manolov\"",
+                  "text": "Casă de cultură numită după compozitorul bulgar Emanuil Manolov în Gabrovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.31474,
+                        42.870397
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Un teatru în aer liber pentru spectacole pe timp de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        25.311864,
+                        42.871536
+                  ]
+            },
+            {
+                  "name": "Zoopark Gabrovo",
+                  "text": "Grădina zoologică din Gabrovo, care găzduiește diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        25.330203,
+                        42.873556
+                  ]
+            },
+            {
+                  "name": "Kuklen Teatar",
+                  "text": "Teatrul de păpuși în Gabrovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.316123,
+                        42.868745
+                  ]
+            },
+            {
+                  "name": "Starobalgarsko selishte Gradishteto",
+                  "text": "Vestigiile unei așezări bulgare vechi fortificate pe un deal.",
+                  "category": "historical",
+                  "coords": [
+                        25.341492,
+                        42.883256
+                  ]
+            },
+            {
+                  "name": "Pametnik na Racho Kovacha",
+                  "text": "Un monument dedicat legendarului fondator al orașului Gabrovo, Racho Fierarul.",
+                  "category": "landmark",
+                  "coords": [
+                        25.318274,
+                        42.87402
+                  ]
+            },
+            {
+                  "name": "Shivarov most",
+                  "text": "Podul istoric Shivarov peste râul Iantra în Gabrovo.",
+                  "category": "historical",
+                  "coords": [
+                        25.322798,
+                        42.86137
+                  ]
+            },
+            {
+                  "name": "Pametnik \"Neofit Rilski\"",
+                  "text": "Un monument în cinstea lui Neofit Rilski, o figură a Renașterii bulgare.",
+                  "category": "historical",
+                  "coords": [
+                        25.319937,
+                        42.868056
+                  ]
+            },
+            {
+                  "name": "Pametnik na Tsanko",
+                  "text": "Monumentul revoluționarului Țanko Diustabanov la Gabrovo.",
+                  "category": "historical",
+                  "coords": [
+                        25.318388,
+                        42.871806
+                  ]
+            },
+            {
+                  "name": "Pametnik na Chardafon Veliki",
+                  "text": "Un monument dedicat luptătorului bulgar pentru libertate, Ceardafon.",
+                  "category": "historical",
+                  "coords": [
+                        25.313711,
+                        42.871396
+                  ]
+            },
+            {
+                  "name": "Sveti Ioan Predtecha",
+                  "text": "O biserică ortodoxă dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        25.320525,
+                        42.874811
+                  ]
+            },
+            {
+                  "name": "Uspenie Bogorodichno",
+                  "text": "O biserică ortodoxă dedicată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        25.319773,
+                        42.871333
+                  ]
+            },
+            {
+                  "name": "Katedralen hram \"Sveta Troitsa\"",
+                  "text": "O catedrală impunătoare și centru religios în Gabrovo.",
+                  "category": "religious",
+                  "coords": [
+                        25.319788,
+                        42.872778
+                  ]
+            },
+            {
+                  "name": "yaz. Yana",
+                  "text": "Lacul de acumulare Yana din Gabrovo este situat într-un cadru natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.285052,
+                        42.883155
+                  ]
+            },
+            {
+                  "name": "yaz. Sinkevitsa",
+                  "text": "Lacul de acumulare Sinkevitsa din Gabrovo oferă o atmosferă relaxantă lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        25.277748,
+                        42.865347
+                  ]
+            },
+            {
+                  "name": "yazovir Razsadnika",
+                  "text": "Lacul de acumulare Rassadnika din Gabrovo este o destinație pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.268657,
+                        42.893191
+                  ]
+            },
+            {
+                  "name": "yaz. Zhaltesh",
+                  "text": "Lacul de acumulare Zhaltesh din Gabrovo oferă o priveliște frumoasă asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        25.389071,
+                        42.856188
+                  ]
+            },
+            {
+                  "name": "Yazovir Vranilovtsi",
+                  "text": "Lacul de acumulare Vranilovtsi din Gabrovo invită la momente de liniște în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.241799,
+                        42.908054
+                  ]
+            },
+            {
+                  "name": "Sporten ribolov",
+                  "text": "Zonă de pescuit sportiv pe un râu sau lac lângă Gabrovo.",
+                  "category": "natural",
+                  "coords": [
+                        25.400094,
+                        42.89583
+                  ]
+            },
+            {
+                  "name": "Mechtaniya Detski razvlekatelen kompleks",
+                  "text": "Un teren de joacă pentru copii, ideal pentru familii, situat în Gabrovo.",
+                  "category": "family",
+                  "coords": [
+                        25.33726,
+                        42.873706
+                  ]
+            },
+            {
+                  "name": "Borchetata",
+                  "text": "Un loc frumos în Gabrovo unde copiii se pot juca în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        25.322967,
+                        42.889406
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Education",
+                  "text": "A museum in Gabrovo dedicated to the history of Bulgarian education.",
+                  "category": "museum",
+                  "coords": [
+                        25.316564,
+                        42.870402
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Racho Stoyanov\"",
+                  "text": "Theatre named after Bulgarian playwright Racho Stoyanov in Gabrovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.31686,
+                        42.872519
+                  ]
+            },
+            {
+                  "name": "House of Humour and Satire",
+                  "text": "A world-famous museum dedicated to humor and satire in Gabrovo.",
+                  "category": "museum",
+                  "coords": [
+                        25.318106,
+                        42.879743
+                  ]
+            },
+            {
+                  "name": "Regional History Museum Gabrovo",
+                  "text": "Regional History Museum Gabrovo, housed in the former Ottoman courthouse.",
+                  "category": "museum",
+                  "coords": [
+                        25.319585,
+                        42.870356
+                  ]
+            },
+            {
+                  "name": "Dom na kulturata \"Emanuil Manolov\"",
+                  "text": "Cultural centre named after Bulgarian composer Emanuil Manolov in Gabrovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.31474,
+                        42.870397
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "An open-air theatre for performances during the summer months.",
+                  "category": "cultural",
+                  "coords": [
+                        25.311864,
+                        42.871536
+                  ]
+            },
+            {
+                  "name": "Zoopark Gabrovo",
+                  "text": "The municipal zoo of Gabrovo, home to various animal species.",
+                  "category": "family",
+                  "coords": [
+                        25.330203,
+                        42.873556
+                  ]
+            },
+            {
+                  "name": "Kuklen Teatar",
+                  "text": "Puppet theater in Gabrovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.316123,
+                        42.868745
+                  ]
+            },
+            {
+                  "name": "Starobalgarsko selishte Gradishteto",
+                  "text": "The remains of a fortified Old Bulgarian settlement on a hill.",
+                  "category": "historical",
+                  "coords": [
+                        25.341492,
+                        42.883256
+                  ]
+            },
+            {
+                  "name": "Pametnik na Racho Kovacha",
+                  "text": "A monument to the legendary founder of Gabrovo, Racho the Blacksmith.",
+                  "category": "landmark",
+                  "coords": [
+                        25.318274,
+                        42.87402
+                  ]
+            },
+            {
+                  "name": "Shivarov bridge",
+                  "text": "Historic Shivarov Bridge over the Yantra River in Gabrovo.",
+                  "category": "historical",
+                  "coords": [
+                        25.322798,
+                        42.86137
+                  ]
+            },
+            {
+                  "name": "Pametnik \"Neofit Rilski\"",
+                  "text": "A monument honoring Neofit Rilski, a figure of the Bulgarian National Revival.",
+                  "category": "historical",
+                  "coords": [
+                        25.319937,
+                        42.868056
+                  ]
+            },
+            {
+                  "name": "Monument of Tsanko Dyustabanov",
+                  "text": "Monument to revolutionary Tsanko Dyustabanov in Gabrovo.",
+                  "category": "historical",
+                  "coords": [
+                        25.318388,
+                        42.871806
+                  ]
+            },
+            {
+                  "name": "Chardafon the Great monument",
+                  "text": "A monument dedicated to the Bulgarian freedom fighter Chardafon.",
+                  "category": "historical",
+                  "coords": [
+                        25.313711,
+                        42.871396
+                  ]
+            },
+            {
+                  "name": "Sveti Ioan Predtecha",
+                  "text": "An Orthodox church dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        25.320525,
+                        42.874811
+                  ]
+            },
+            {
+                  "name": "Uspenie Bogorodichno",
+                  "text": "An Orthodox church dedicated to the Dormition of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        25.319773,
+                        42.871333
+                  ]
+            },
+            {
+                  "name": "Katedralen hram \"Sveta Troitsa\"",
+                  "text": "A magnificent cathedral and religious center in Gabrovo.",
+                  "category": "religious",
+                  "coords": [
+                        25.319788,
+                        42.872778
+                  ]
+            },
+            {
+                  "name": "yaz. Yana",
+                  "text": "The Yana reservoir in Gabrovo is set within a peaceful natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.285052,
+                        42.883155
+                  ]
+            },
+            {
+                  "name": "yaz. Sinkevitsa",
+                  "text": "The Sinkevitsa reservoir in Gabrovo offers a relaxing atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        25.277748,
+                        42.865347
+                  ]
+            },
+            {
+                  "name": "yazovir Razsadnika",
+                  "text": "The Rassadnika reservoir in Gabrovo is a destination for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.268657,
+                        42.893191
+                  ]
+            },
+            {
+                  "name": "yaz. Zhaltesh",
+                  "text": "The Zhaltesh reservoir in Gabrovo offers a nice view of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        25.389071,
+                        42.856188
+                  ]
+            },
+            {
+                  "name": "Yazovir Vranilovtsi",
+                  "text": "The Vranilovtsi reservoir in Gabrovo invites you to enjoy time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.241799,
+                        42.908054
+                  ]
+            },
+            {
+                  "name": "Sporten ribolov",
+                  "text": "Sport fishing area on a river or lake near Gabrovo.",
+                  "category": "natural",
+                  "coords": [
+                        25.400094,
+                        42.89583
+                  ]
+            },
+            {
+                  "name": "Mechtaniya Detski razvlekatelen kompleks",
+                  "text": "A family-friendly playground in Gabrovo for children to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        25.33726,
+                        42.873706
+                  ]
+            },
+            {
+                  "name": "Borchetata",
+                  "text": "A lovely spot in Gabrovo where children can play safely.",
+                  "category": "family",
+                  "coords": [
+                        25.322967,
+                        42.889406
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Gabrowo", hu: "Gabrovo", ro: "Gabrovo", en: "Gabrovo" },
@@ -93,7 +1002,484 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-gabrovo-cities-v2.webp",
   },
   {
-    id: "bulgaria-yambol-cities-v2", "sights": {"de": [{"name": "Dramatichen teatar Nevena Kokanova", "text": "Ein bedeutendes Drama-Theater in Jambol, benannt nach der Schauspielerin Nevena Kokanova.", "category": "cultural", "coords": [26.508896, 42.483764]}, {"name": "Bezisten", "text": "Ein ehemaliger osmanischer Marktbau in Jambol, der heute als Museum genutzt wird.", "category": "museum", "coords": [26.505537, 42.483753]}, {"name": "Regionalen istoricheski muzei", "text": "Das Historische Museum von Jambol bewahrt die reiche Vergangenheit der Region.", "category": "museum", "coords": [26.507904, 42.483334]}, {"name": "Vazrozhdenski etnografski kompleks", "text": "Ein Museumskomplex in Jambol, der sich der lokalen Ethnografie und Tradition widmet.", "category": "museum", "coords": [26.501084, 42.47945]}, {"name": "Museum des militärischen Ruhms", "text": "Ein Museum in Jambol, das die militärische Geschichte und Heldentaten dokumentiert.", "category": "museum", "coords": [26.505098, 42.489436]}, {"name": "Gen. Vladimir Zaimov", "text": "Ein Denkmal in Jambol zu Ehren des Generals Vladimir Zaimov.", "category": "historical", "coords": [26.519333, 42.486175]}, {"name": "Srednovekovna Yambolska krepost", "text": "Die Ruinen der mittelalterlichen Festung von Jambol, ein Zeugnis der Stadtgeschichte.", "category": "historical", "coords": [26.497764, 42.483419]}, {"name": "Pametnik na Kostaki Popovich", "text": "Dieses Denkmal in Jambol ist Kostaki Popowitsch gewidmet, einer bedeutenden Persönlichkeit der lokalen Geschichte.", "category": "historical", "coords": [26.516638, 42.482489]}, {"name": "Mladezhki dom", "text": "Das Jugendzentrum in Jambol ist ein lebendiger Treffpunkt für Kunst und kulturelle Aktivitäten.", "category": "cultural", "coords": [26.500804, 42.487149]}, {"name": "Sv. Georgi", "text": "Die St.-Georgs-Kirche ist eine bedeutende orthodoxe Kultstätte in der Stadt Jambol.", "category": "religious", "coords": [26.499862, 42.480259]}, {"name": "Sv. Troitsa", "text": "Diese orthodoxe Kirche in Jambol ist der Heiligen Dreifaltigkeit gewidmet und ein Ort der Spiritualität.", "category": "religious", "coords": [26.495066, 42.477626]}, {"name": "yaz. Krinchovitsa", "text": "Ein See bei Yambol, ideal um die natürliche Landschaft zu genießen.", "category": "natural", "coords": [26.458367, 42.494553]}, {"name": "Bivsh basein", "text": "Ein ehemaliges Schwimmbadgelände in Jambol, das früher für Wasseraktivitäten genutzt wurde.", "category": "family", "coords": [26.528143, 42.505736]}], "hu": [{"name": "Dramatichen teatar Nevena Kokanova", "text": "Jelentős drámai színház Jambolban, Nevena Kokanova színésznőről elnevezve.", "category": "cultural", "coords": [26.508896, 42.483764]}, {"name": "Bezisten", "text": "Egykori oszmán vásárcsarnok Jambolban, amely ma múzeumként működik.", "category": "museum", "coords": [26.505537, 42.483753]}, {"name": "Regionalen istoricheski muzei", "text": "A Jamboli Történeti Múzeum őrzi a régió gazdag múltját.", "category": "museum", "coords": [26.507904, 42.483334]}, {"name": "Vazrozhdenski etnografski kompleks", "text": "Jamboli múzeumi komplexum, amely a helyi néprajznak és hagyományoknak szentelt.", "category": "museum", "coords": [26.501084, 42.47945]}, {"name": "Muzei na boinata slava", "text": "Jamboli múzeum, amely a katonai történelmet és hadi tetteket dokumentálja.", "category": "museum", "coords": [26.505098, 42.489436]}, {"name": "Gen. Vladimir Zaimov", "text": "Emlékmű Jambolban Vladimir Zaimov tábornok tiszteletére.", "category": "historical", "coords": [26.519333, 42.486175]}, {"name": "Srednovekovna Yambolska krepost", "text": "Jambol középkori erődjének romjai, a város történelmének tanúi.", "category": "historical", "coords": [26.497764, 42.483419]}, {"name": "Pametnik na Kostaki Popovich", "text": "Ez a jamboli emlékmű Kosztaki Popovicsnak, a helyi történelem jelentős alakjának állít emléket.", "category": "historical", "coords": [26.516638, 42.482489]}, {"name": "Mladezhki dom", "text": "A jamboli ifjúsági központ művészeti és kulturális tevékenységek élénk helyszíne.", "category": "cultural", "coords": [26.500804, 42.487149]}, {"name": "Sv. Georgi", "text": "A Szent György-templom Jambol városának jelentős ortodox hitéleti helyszíne.", "category": "religious", "coords": [26.499862, 42.480259]}, {"name": "Sv. Troitsa", "text": "Ez a jamboli ortodox templom a Szentháromságnak van szentelve, és a spiritualitás helyszíne.", "category": "religious", "coords": [26.495066, 42.477626]}, {"name": "yaz. Krinchovitsa", "text": "Egy tó Jambol környékén, amely ideális a természetes táj élvezéséhez.", "category": "natural", "coords": [26.458367, 42.494553]}, {"name": "Bivsh basein", "text": "Egykori úszómedence helyszíne Jambolban, amelyet korábban vízi tevékenységekre használtak.", "category": "family", "coords": [26.528143, 42.505736]}], "ro": [{"name": "Dramatichen teatar Nevena Kokanova", "text": "Un teatru dramatic important în Iambol, numit după actrița Nevena Kokanova.", "category": "cultural", "coords": [26.508896, 42.483764]}, {"name": "Bezisten", "text": "O fostă piață otomană în Iambol, utilizată astăzi ca muzeu.", "category": "museum", "coords": [26.505537, 42.483753]}, {"name": "Regionalen istoricheski muzei", "text": "Muzeul de Istorie din Iambol păstrează trecutul bogat al regiunii.", "category": "museum", "coords": [26.507904, 42.483334]}, {"name": "Vazrozhdenski etnografski kompleks", "text": "Un complex muzeal în Iambol dedicat etnografiei și tradițiilor locale.", "category": "museum", "coords": [26.501084, 42.47945]}, {"name": "Muzei na boinata slava", "text": "Un muzeu în Iambol care documentează istoria militară și faptele de vitejie.", "category": "museum", "coords": [26.505098, 42.489436]}, {"name": "Gen. Vladimir Zaimov", "text": "Un monument în Iambol ridicat în onoarea generalului Vladimir Zaimov.", "category": "historical", "coords": [26.519333, 42.486175]}, {"name": "Srednovekovna Yambolska krepost", "text": "Ruinele cetății medievale din Iambol, o mărturie a istoriei orașului.", "category": "historical", "coords": [26.497764, 42.483419]}, {"name": "Pametnik na Kostaki Popovich", "text": "Acest monument din Jambol îi este dedicat lui Kostaki Popovich, o figură importantă a istoriei locale.", "category": "historical", "coords": [26.516638, 42.482489]}, {"name": "Mladezhki dom", "text": "Centrul de tineret din Jambol este un loc vibrant pentru activități artistice și culturale.", "category": "cultural", "coords": [26.500804, 42.487149]}, {"name": "Sv. Georgi", "text": "Biserica Sfântul Gheorghe este un important lăcaș de cult ortodox din orașul Jambol.", "category": "religious", "coords": [26.499862, 42.480259]}, {"name": "Sv. Troitsa", "text": "Această biserică ortodoxă din Jambol este dedicată Sfintei Treimi și este un loc de spiritualitate.", "category": "religious", "coords": [26.495066, 42.477626]}, {"name": "yaz. Krinchovitsa", "text": "Un lac în apropiere de Iambol, ideal pentru a te bucura de peisajul natural.", "category": "natural", "coords": [26.458367, 42.494553]}, {"name": "Bivsh basein", "text": "Locul unei foste piscine în Yambol, folosită odinioară pentru activități acvatice.", "category": "family", "coords": [26.528143, 42.505736]}], "en": [{"name": "Nevena Kokanova Drama Theatre", "text": "A significant drama theatre in Yambol, named after the actress Nevena Kokanova.", "category": "cultural", "coords": [26.508896, 42.483764]}, {"name": "Bezisten", "text": "A former Ottoman covered market in Yambol, now serving as a museum.", "category": "museum", "coords": [26.505537, 42.483753]}, {"name": "Historical Museum", "text": "The Historical Museum of Yambol preserves the rich past of the region.", "category": "museum", "coords": [26.507904, 42.483334]}, {"name": "Ethnographic Complex", "text": "A museum complex in Yambol dedicated to local ethnography and traditions.", "category": "museum", "coords": [26.501084, 42.47945]}, {"name": "Museum of Combat Glory", "text": "A museum in Yambol documenting military history and acts of glory.", "category": "museum", "coords": [26.505098, 42.489436]}, {"name": "Gen. Vladimir Zaimov", "text": "A monument in Yambol honoring General Vladimir Zaimov.", "category": "historical", "coords": [26.519333, 42.486175]}, {"name": "Medieval Yambol Fortress", "text": "The ruins of the medieval fortress of Yambol, a witness to the city's history.", "category": "historical", "coords": [26.497764, 42.483419]}, {"name": "Pametnik na Kostaki Popovich", "text": "This monument in Jambol is dedicated to Kostaki Popovich, a prominent figure in local history.", "category": "historical", "coords": [26.516638, 42.482489]}, {"name": "Youth Centre", "text": "The Youth Centre in Jambol is a vibrant hub for arts and cultural activities.", "category": "cultural", "coords": [26.500804, 42.487149]}, {"name": "St. George", "text": "St. George is a significant Orthodox place of worship in the city of Jambol.", "category": "religious", "coords": [26.499862, 42.480259]}, {"name": "Holy Trinity", "text": "This Orthodox church in Jambol is dedicated to the Holy Trinity and serves as a place of spirituality.", "category": "religious", "coords": [26.495066, 42.477626]}, {"name": "yaz. Krinchovitsa", "text": "A lake near Yambol, ideal for enjoying the natural scenery.", "category": "natural", "coords": [26.458367, 42.494553]}, {"name": "Bivsh basein", "text": "A former swimming pool site in Yambol once used for aquatic activities.", "category": "family", "coords": [26.528143, 42.505736]}]},
+    id: "bulgaria-yambol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dramatichen teatar Nevena Kokanova",
+                  "text": "Ein bedeutendes Drama-Theater in Jambol, benannt nach der Schauspielerin Nevena Kokanova.",
+                  "category": "cultural",
+                  "coords": [
+                        26.508896,
+                        42.483764
+                  ]
+            },
+            {
+                  "name": "Bezisten",
+                  "text": "Ein ehemaliger osmanischer Marktbau in Jambol, der heute als Museum genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        26.505537,
+                        42.483753
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei",
+                  "text": "Das Historische Museum von Jambol bewahrt die reiche Vergangenheit der Region.",
+                  "category": "museum",
+                  "coords": [
+                        26.507904,
+                        42.483334
+                  ]
+            },
+            {
+                  "name": "Vazrozhdenski etnografski kompleks",
+                  "text": "Ein Museumskomplex in Jambol, der sich der lokalen Ethnografie und Tradition widmet.",
+                  "category": "museum",
+                  "coords": [
+                        26.501084,
+                        42.47945
+                  ]
+            },
+            {
+                  "name": "Museum des militärischen Ruhms",
+                  "text": "Ein Museum in Jambol, das die militärische Geschichte und Heldentaten dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.505098,
+                        42.489436
+                  ]
+            },
+            {
+                  "name": "Gen. Vladimir Zaimov",
+                  "text": "Denkmal für General Wladimir Zaimow in Jambol.",
+                  "category": "historical",
+                  "coords": [
+                        26.519333,
+                        42.486175
+                  ]
+            },
+            {
+                  "name": "Srednovekovna Yambolska krepost",
+                  "text": "Die Ruinen der mittelalterlichen Festung von Jambol, ein Zeugnis der Stadtgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        26.497764,
+                        42.483419
+                  ]
+            },
+            {
+                  "name": "Pametnik na Kostaki Popovich",
+                  "text": "Dieses Denkmal in Jambol ist Kostaki Popowitsch gewidmet, einer bedeutenden Persönlichkeit der lokalen Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        26.516638,
+                        42.482489
+                  ]
+            },
+            {
+                  "name": "Mladezhki dom",
+                  "text": "Jugendzentrum für kulturelle und Freizeitaktivitäten in Jambol.",
+                  "category": "cultural",
+                  "coords": [
+                        26.500804,
+                        42.487149
+                  ]
+            },
+            {
+                  "name": "Sv. Georgi",
+                  "text": "Die St.-Georgs-Kirche ist eine bedeutende orthodoxe Kultstätte in der Stadt Jambol.",
+                  "category": "religious",
+                  "coords": [
+                        26.499862,
+                        42.480259
+                  ]
+            },
+            {
+                  "name": "Sv. Troitsa",
+                  "text": "Diese orthodoxe Kirche in Jambol ist der Heiligen Dreifaltigkeit gewidmet und ein Ort der Spiritualität.",
+                  "category": "religious",
+                  "coords": [
+                        26.495066,
+                        42.477626
+                  ]
+            },
+            {
+                  "name": "yaz. Krinchovitsa",
+                  "text": "Ein See bei Yambol, ideal um die natürliche Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.458367,
+                        42.494553
+                  ]
+            },
+            {
+                  "name": "Bivsh basein",
+                  "text": "Ein ehemaliges Schwimmbadgelände in Jambol, das früher für Wasseraktivitäten genutzt wurde.",
+                  "category": "family",
+                  "coords": [
+                        26.528143,
+                        42.505736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dramatichen teatar Nevena Kokanova",
+                  "text": "Jelentős drámai színház Jambolban, Nevena Kokanova színésznőről elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        26.508896,
+                        42.483764
+                  ]
+            },
+            {
+                  "name": "Bezisten",
+                  "text": "Egykori oszmán vásárcsarnok Jambolban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        26.505537,
+                        42.483753
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei",
+                  "text": "A Jamboli Történeti Múzeum őrzi a régió gazdag múltját.",
+                  "category": "museum",
+                  "coords": [
+                        26.507904,
+                        42.483334
+                  ]
+            },
+            {
+                  "name": "Vazrozhdenski etnografski kompleks",
+                  "text": "Jamboli múzeumi komplexum, amely a helyi néprajznak és hagyományoknak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        26.501084,
+                        42.47945
+                  ]
+            },
+            {
+                  "name": "Muzei na boinata slava",
+                  "text": "Jamboli múzeum, amely a katonai történelmet és hadi tetteket dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        26.505098,
+                        42.489436
+                  ]
+            },
+            {
+                  "name": "Gen. Vladimir Zaimov",
+                  "text": "Vladimir Zaimov tábornok emlékműve Jambolban.",
+                  "category": "historical",
+                  "coords": [
+                        26.519333,
+                        42.486175
+                  ]
+            },
+            {
+                  "name": "Srednovekovna Yambolska krepost",
+                  "text": "Jambol középkori erődjének romjai, a város történelmének tanúi.",
+                  "category": "historical",
+                  "coords": [
+                        26.497764,
+                        42.483419
+                  ]
+            },
+            {
+                  "name": "Pametnik na Kostaki Popovich",
+                  "text": "Ez a jamboli emlékmű Kosztaki Popovicsnak, a helyi történelem jelentős alakjának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        26.516638,
+                        42.482489
+                  ]
+            },
+            {
+                  "name": "Mladezhki dom",
+                  "text": "Ifjúsági központ kulturális és szabadidős tevékenységekhez Jambolban.",
+                  "category": "cultural",
+                  "coords": [
+                        26.500804,
+                        42.487149
+                  ]
+            },
+            {
+                  "name": "Sv. Georgi",
+                  "text": "A Szent György-templom Jambol városának jelentős ortodox hitéleti helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        26.499862,
+                        42.480259
+                  ]
+            },
+            {
+                  "name": "Sv. Troitsa",
+                  "text": "Ez a jamboli ortodox templom a Szentháromságnak van szentelve, és a spiritualitás helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        26.495066,
+                        42.477626
+                  ]
+            },
+            {
+                  "name": "yaz. Krinchovitsa",
+                  "text": "Egy tó Jambol környékén, amely ideális a természetes táj élvezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.458367,
+                        42.494553
+                  ]
+            },
+            {
+                  "name": "Bivsh basein",
+                  "text": "Egykori úszómedence helyszíne Jambolban, amelyet korábban vízi tevékenységekre használtak.",
+                  "category": "family",
+                  "coords": [
+                        26.528143,
+                        42.505736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dramatichen teatar Nevena Kokanova",
+                  "text": "Un teatru dramatic important în Iambol, numit după actrița Nevena Kokanova.",
+                  "category": "cultural",
+                  "coords": [
+                        26.508896,
+                        42.483764
+                  ]
+            },
+            {
+                  "name": "Bezisten",
+                  "text": "O fostă piață otomană în Iambol, utilizată astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        26.505537,
+                        42.483753
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei",
+                  "text": "Muzeul de Istorie din Iambol păstrează trecutul bogat al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        26.507904,
+                        42.483334
+                  ]
+            },
+            {
+                  "name": "Vazrozhdenski etnografski kompleks",
+                  "text": "Un complex muzeal în Iambol dedicat etnografiei și tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        26.501084,
+                        42.47945
+                  ]
+            },
+            {
+                  "name": "Muzei na boinata slava",
+                  "text": "Un muzeu în Iambol care documentează istoria militară și faptele de vitejie.",
+                  "category": "museum",
+                  "coords": [
+                        26.505098,
+                        42.489436
+                  ]
+            },
+            {
+                  "name": "Gen. Vladimir Zaimov",
+                  "text": "Monumentul generalului Vladimir Zaimov la Iambol.",
+                  "category": "historical",
+                  "coords": [
+                        26.519333,
+                        42.486175
+                  ]
+            },
+            {
+                  "name": "Srednovekovna Yambolska krepost",
+                  "text": "Ruinele cetății medievale din Iambol, o mărturie a istoriei orașului.",
+                  "category": "historical",
+                  "coords": [
+                        26.497764,
+                        42.483419
+                  ]
+            },
+            {
+                  "name": "Pametnik na Kostaki Popovich",
+                  "text": "Acest monument din Jambol îi este dedicat lui Kostaki Popovich, o figură importantă a istoriei locale.",
+                  "category": "historical",
+                  "coords": [
+                        26.516638,
+                        42.482489
+                  ]
+            },
+            {
+                  "name": "Mladezhki dom",
+                  "text": "Centrul de tineret pentru activități culturale și recreative în Iambol.",
+                  "category": "cultural",
+                  "coords": [
+                        26.500804,
+                        42.487149
+                  ]
+            },
+            {
+                  "name": "Sv. Georgi",
+                  "text": "Biserica Sfântul Gheorghe este un important lăcaș de cult ortodox din orașul Jambol.",
+                  "category": "religious",
+                  "coords": [
+                        26.499862,
+                        42.480259
+                  ]
+            },
+            {
+                  "name": "Sv. Troitsa",
+                  "text": "Această biserică ortodoxă din Jambol este dedicată Sfintei Treimi și este un loc de spiritualitate.",
+                  "category": "religious",
+                  "coords": [
+                        26.495066,
+                        42.477626
+                  ]
+            },
+            {
+                  "name": "yaz. Krinchovitsa",
+                  "text": "Un lac în apropiere de Iambol, ideal pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        26.458367,
+                        42.494553
+                  ]
+            },
+            {
+                  "name": "Bivsh basein",
+                  "text": "Locul unei foste piscine în Yambol, folosită odinioară pentru activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        26.528143,
+                        42.505736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nevena Kokanova Drama Theatre",
+                  "text": "A significant drama theatre in Yambol, named after the actress Nevena Kokanova.",
+                  "category": "cultural",
+                  "coords": [
+                        26.508896,
+                        42.483764
+                  ]
+            },
+            {
+                  "name": "Bezisten",
+                  "text": "A former Ottoman covered market in Yambol, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        26.505537,
+                        42.483753
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "The Historical Museum of Yambol preserves the rich past of the region.",
+                  "category": "museum",
+                  "coords": [
+                        26.507904,
+                        42.483334
+                  ]
+            },
+            {
+                  "name": "Ethnographic Complex",
+                  "text": "A museum complex in Yambol dedicated to local ethnography and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        26.501084,
+                        42.47945
+                  ]
+            },
+            {
+                  "name": "Museum of Combat Glory",
+                  "text": "A museum in Yambol documenting military history and acts of glory.",
+                  "category": "museum",
+                  "coords": [
+                        26.505098,
+                        42.489436
+                  ]
+            },
+            {
+                  "name": "Gen. Vladimir Zaimov",
+                  "text": "Monument to General Vladimir Zaimov in Yambol.",
+                  "category": "historical",
+                  "coords": [
+                        26.519333,
+                        42.486175
+                  ]
+            },
+            {
+                  "name": "Medieval Yambol Fortress",
+                  "text": "The ruins of the medieval fortress of Yambol, a witness to the city's history.",
+                  "category": "historical",
+                  "coords": [
+                        26.497764,
+                        42.483419
+                  ]
+            },
+            {
+                  "name": "Pametnik na Kostaki Popovich",
+                  "text": "This monument in Jambol is dedicated to Kostaki Popovich, a prominent figure in local history.",
+                  "category": "historical",
+                  "coords": [
+                        26.516638,
+                        42.482489
+                  ]
+            },
+            {
+                  "name": "Youth Centre",
+                  "text": "Youth center for cultural and leisure activities in Yambol.",
+                  "category": "cultural",
+                  "coords": [
+                        26.500804,
+                        42.487149
+                  ]
+            },
+            {
+                  "name": "St. George",
+                  "text": "St. George is a significant Orthodox place of worship in the city of Jambol.",
+                  "category": "religious",
+                  "coords": [
+                        26.499862,
+                        42.480259
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "This Orthodox church in Jambol is dedicated to the Holy Trinity and serves as a place of spirituality.",
+                  "category": "religious",
+                  "coords": [
+                        26.495066,
+                        42.477626
+                  ]
+            },
+            {
+                  "name": "yaz. Krinchovitsa",
+                  "text": "A lake near Yambol, ideal for enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        26.458367,
+                        42.494553
+                  ]
+            },
+            {
+                  "name": "Bivsh basein",
+                  "text": "A former swimming pool site in Yambol once used for aquatic activities.",
+                  "category": "family",
+                  "coords": [
+                        26.528143,
+                        42.505736
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Jambol", hu: "Jambol", ro: "Iambol", en: "Yambol" },
@@ -183,7 +1569,484 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-kardzhali-cities-v2.webp",
   },
   {
-    id: "bulgaria-smolyan-cities-v2", "sights": {"de": [{"name": "Rodopski dramatichen teatar", "text": "Das wichtigste Theater der Rhodopen-Region in Smoljan.", "category": "cultural", "coords": [24.714749, 41.574675]}, {"name": "Regionalen istoricheski muzei \"Stoyu Shishkov\"", "text": "Ein Museum, das sich auf das historische und kulturelle Erbe der Rhodopen konzentriert.", "category": "museum", "coords": [24.714857, 41.576332]}, {"name": "Alibeev konak", "text": "Ein historisches Gebäude, das früher als Rathaus diente.", "category": "castle", "coords": [24.724921, 41.572907]}, {"name": "Neveroyatna", "text": "Ein Aussichtspunkt mit beeindruckendem Panoramablick auf Smoljan.", "category": "natural", "coords": [24.694627, 41.59831]}, {"name": "Chinara", "text": "Eine alte, markante Platane, die als Naturdenkmal gilt.", "category": "landmark", "coords": [24.684238, 41.581859]}, {"name": "Smolyanska krepost Kaleto", "text": "Die Ruinen einer mittelalterlichen Festung in der Nähe von Smoljan.", "category": "historical", "coords": [24.700759, 41.597229]}, {"name": "Beliyat kamak", "text": "Eine natürliche Felsformation, die eine lokale Attraktion darstellt.", "category": "landmark", "coords": [24.712197, 41.596954]}, {"name": "Nevyastata", "text": "Ein berühmter Felsen und Aussichtspunkt mit Legenden in den Rhodopen.", "category": "natural", "coords": [24.689911, 41.595471]}, {"name": "Dora Vasileva", "text": "Ein Denkmal in Smoljan zu Ehren von Dora Vasileva.", "category": "historical", "coords": [24.71331, 41.574998]}, {"name": "Sv. Visarion Smolyanski", "text": "Eine der größten modernen orthodoxen Kathedralen Bulgariens.", "category": "religious", "coords": [24.708394, 41.575218]}, {"name": "yaz. Pamporovo", "text": "Ein malerischer See in Smoljan, der zum Spazierengehen einlädt.", "category": "natural", "coords": [24.691385, 41.633388]}, {"name": "Ez. Ribkata (Kiryanov gol)", "text": "Ein ruhiger See in Smoljan, ideal für Naturliebhaber.", "category": "natural", "coords": [24.68349, 41.592875]}, {"name": "Silazha", "text": "Ein schöner See in Smoljan, der eine entspannte Atmosphäre bietet.", "category": "natural", "coords": [24.673308, 41.604637]}], "hu": [{"name": "Rodopski dramatichen teatar", "text": "A Rodope-vidék legfontosabb színháza Szmoljanban.", "category": "cultural", "coords": [24.714749, 41.574675]}, {"name": "Regionalen istoricheski muzei \"Stoyu Shishkov\"", "text": "A Rodope történelmi és kulturális örökségére összpontosító múzeum.", "category": "museum", "coords": [24.714857, 41.576332]}, {"name": "Alibeev konak", "text": "Történelmi épület, amely korábban városházaként szolgált.", "category": "castle", "coords": [24.724921, 41.572907]}, {"name": "Neveroyatna", "text": "Kilátópont, ahonnan lenyűgöző panoráma nyílik Szmoljanra.", "category": "natural", "coords": [24.694627, 41.59831]}, {"name": "Chinara", "text": "Egy idős, jellegzetes platánfa, amely természeti emlékként ismert.", "category": "landmark", "coords": [24.684238, 41.581859]}, {"name": "Smolyanska krepost Kaleto", "text": "Egy középkori erőd romjai Szmoljan közelében.", "category": "historical", "coords": [24.700759, 41.597229]}, {"name": "Beliyat kamak", "text": "Természetes sziklaformáció, amely helyi látványosságnak számít.", "category": "landmark", "coords": [24.712197, 41.596954]}, {"name": "Nevyastata", "text": "Híres szikla és kilátóhely a Rodopéban, amelyhez legendák fűződnek.", "category": "natural", "coords": [24.689911, 41.595471]}, {"name": "Dora Vasileva", "text": "Dora Vaszileva tiszteletére emelt emlékmű Szmoljanban.", "category": "historical", "coords": [24.71331, 41.574998]}, {"name": "Sv. Visarion Smolyanski", "text": "Bulgária egyik legnagyobb modern ortodox székesegyháza.", "category": "religious", "coords": [24.708394, 41.575218]}, {"name": "yaz. Pamporovo", "text": "Festői tó Szmoljan területén, amely ideális sétákhoz.", "category": "natural", "coords": [24.691385, 41.633388]}, {"name": "Ez. Ribkata (Kiryanov gol)", "text": "Csendes tó Szmoljan közelében, ideális a természet kedvelőinek.", "category": "natural", "coords": [24.68349, 41.592875]}, {"name": "Silazha", "text": "Szép tó Szmoljan területén, amely pihentető légkört kínál.", "category": "natural", "coords": [24.673308, 41.604637]}], "ro": [{"name": "Rodopski dramatichen teatar", "text": "Cel mai important teatru din regiunea Rodopi, situat în Smoljan.", "category": "cultural", "coords": [24.714749, 41.574675]}, {"name": "Regionalen istoricheski muzei \"Stoyu Shishkov\"", "text": "Un muzeu axat pe moștenirea istorică și culturală a Munților Rodopi.", "category": "museum", "coords": [24.714857, 41.576332]}, {"name": "Alibeev konak", "text": "O clădire istorică ce a servit anterior drept primărie.", "category": "castle", "coords": [24.724921, 41.572907]}, {"name": "Neveroyatna", "text": "Un punct de observație cu o vedere panoramică impresionantă asupra Smoljanului.", "category": "natural", "coords": [24.694627, 41.59831]}, {"name": "Chinara", "text": "Un paltan secular, remarcabil, considerat un monument natural.", "category": "landmark", "coords": [24.684238, 41.581859]}, {"name": "Smolyanska krepost Kaleto", "text": "Ruinele unei cetăți medievale situate lângă Smoljan.", "category": "historical", "coords": [24.700759, 41.597229]}, {"name": "Beliyat kamak", "text": "O formațiune stâncoasă naturală care constituie o atracție locală.", "category": "landmark", "coords": [24.712197, 41.596954]}, {"name": "Nevyastata", "text": "O stâncă faimoasă și punct de observație cu legende în Munții Rodopi.", "category": "natural", "coords": [24.689911, 41.595471]}, {"name": "Dora Vasileva", "text": "Un monument în Smoljan ridicat în memoria Dorei Vasileva.", "category": "historical", "coords": [24.71331, 41.574998]}, {"name": "Sv. Visarion Smolyanski", "text": "Una dintre cele mai mari catedrale ortodoxe moderne din Bulgaria.", "category": "religious", "coords": [24.708394, 41.575218]}, {"name": "yaz. Pamporovo", "text": "Un lac pitoresc în Smolyan, ideal pentru plimbări.", "category": "natural", "coords": [24.691385, 41.633388]}, {"name": "Ez. Ribkata (Kiryanov gol)", "text": "Un lac liniștit în Smolyan, ideal pentru iubitorii de natură.", "category": "natural", "coords": [24.68349, 41.592875]}, {"name": "Silazha", "text": "Un lac frumos în Smolyan, care oferă o atmosferă relaxantă.", "category": "natural", "coords": [24.673308, 41.604637]}], "en": [{"name": "Rodopski dramatichen teatar", "text": "The most important theatre of the Rhodope region in Smoljan.", "category": "cultural", "coords": [24.714749, 41.574675]}, {"name": "Regionalen istoricheski muzei \"Stoyu Shishkov\"", "text": "A museum focused on the historical and cultural heritage of the Rhodopes.", "category": "museum", "coords": [24.714857, 41.576332]}, {"name": "Alibeev’s town- hall", "text": "A historical building that formerly served as the town hall.", "category": "castle", "coords": [24.724921, 41.572907]}, {"name": "Neveroyatna", "text": "A viewpoint offering impressive panoramic views of Smoljan.", "category": "natural", "coords": [24.694627, 41.59831]}, {"name": "Chinara", "text": "An old, distinctive plane tree considered a natural landmark.", "category": "landmark", "coords": [24.684238, 41.581859]}, {"name": "Smolyanska krepost Kaleto", "text": "The ruins of a medieval fortress located near Smoljan.", "category": "historical", "coords": [24.700759, 41.597229]}, {"name": "Beliyat kamak", "text": "A natural rock formation that is a local attraction.", "category": "landmark", "coords": [24.712197, 41.596954]}, {"name": "Nevyastata", "text": "A famous rock and viewpoint with legends in the Rhodope Mountains.", "category": "natural", "coords": [24.689911, 41.595471]}, {"name": "Dora Vasileva", "text": "A monument in Smoljan dedicated to Dora Vasileva.", "category": "historical", "coords": [24.71331, 41.574998]}, {"name": "Sv. Visarion Smolyanski", "text": "One of the largest modern Orthodox cathedrals in Bulgaria.", "category": "religious", "coords": [24.708394, 41.575218]}, {"name": "Pamporovo dam", "text": "A scenic lake in Smolyan, perfect for walking and enjoying the view.", "category": "natural", "coords": [24.691385, 41.633388]}, {"name": "Ez. Ribkata (Kiryanov gol)", "text": "A peaceful lake in Smolyan, ideal for nature lovers.", "category": "natural", "coords": [24.68349, 41.592875]}, {"name": "Silazha", "text": "A beautiful lake in Smolyan offering a relaxing atmosphere.", "category": "natural", "coords": [24.673308, 41.604637]}]},
+    id: "bulgaria-smolyan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rodopski dramatichen teatar",
+                  "text": "Das wichtigste Theater der Rhodopen-Region in Smoljan.",
+                  "category": "cultural",
+                  "coords": [
+                        24.714749,
+                        41.574675
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei \"Stoyu Shishkov\"",
+                  "text": "Ein Museum, das sich auf das historische und kulturelle Erbe der Rhodopen konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        24.714857,
+                        41.576332
+                  ]
+            },
+            {
+                  "name": "Alibeev konak",
+                  "text": "Ein historisches Gebäude, das früher als Rathaus diente.",
+                  "category": "castle",
+                  "coords": [
+                        24.724921,
+                        41.572907
+                  ]
+            },
+            {
+                  "name": "Neveroyatna",
+                  "text": "Ein Aussichtspunkt mit beeindruckendem Panoramablick auf Smoljan.",
+                  "category": "natural",
+                  "coords": [
+                        24.694627,
+                        41.59831
+                  ]
+            },
+            {
+                  "name": "Chinara",
+                  "text": "Eine alte, markante Platane, die als Naturdenkmal gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.684238,
+                        41.581859
+                  ]
+            },
+            {
+                  "name": "Smolyanska krepost Kaleto",
+                  "text": "Mittelalterliche Festung Kaleto auf einem Hügel über Smoljan.",
+                  "category": "historical",
+                  "coords": [
+                        24.700759,
+                        41.597229
+                  ]
+            },
+            {
+                  "name": "Beliyat kamak",
+                  "text": "Weißer Felsen, eine markante Felsformation über Smoljan.",
+                  "category": "landmark",
+                  "coords": [
+                        24.712197,
+                        41.596954
+                  ]
+            },
+            {
+                  "name": "Nevyastata",
+                  "text": "Ein berühmter Felsen und Aussichtspunkt mit Legenden in den Rhodopen.",
+                  "category": "natural",
+                  "coords": [
+                        24.689911,
+                        41.595471
+                  ]
+            },
+            {
+                  "name": "Dora Vasileva",
+                  "text": "Historisches Denkmal für Dora Vasileva in Smoljan.",
+                  "category": "historical",
+                  "coords": [
+                        24.71331,
+                        41.574998
+                  ]
+            },
+            {
+                  "name": "Sv. Visarion Smolyanski",
+                  "text": "Eine der größten modernen orthodoxen Kathedralen Bulgariens.",
+                  "category": "religious",
+                  "coords": [
+                        24.708394,
+                        41.575218
+                  ]
+            },
+            {
+                  "name": "yaz. Pamporovo",
+                  "text": "Ein malerischer See in Smoljan, der zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        24.691385,
+                        41.633388
+                  ]
+            },
+            {
+                  "name": "Ez. Ribkata (Kiryanov gol)",
+                  "text": "Fischteich 'Ribkata' in der Nähe von Smoljan.",
+                  "category": "natural",
+                  "coords": [
+                        24.68349,
+                        41.592875
+                  ]
+            },
+            {
+                  "name": "Silazha",
+                  "text": "Ein schöner See in Smoljan, der eine entspannte Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.673308,
+                        41.604637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rodopski dramatichen teatar",
+                  "text": "A Rodope-vidék legfontosabb színháza Szmoljanban.",
+                  "category": "cultural",
+                  "coords": [
+                        24.714749,
+                        41.574675
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei \"Stoyu Shishkov\"",
+                  "text": "A Rodope történelmi és kulturális örökségére összpontosító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.714857,
+                        41.576332
+                  ]
+            },
+            {
+                  "name": "Alibeev konak",
+                  "text": "Történelmi épület, amely korábban városházaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        24.724921,
+                        41.572907
+                  ]
+            },
+            {
+                  "name": "Neveroyatna",
+                  "text": "Kilátópont, ahonnan lenyűgöző panoráma nyílik Szmoljanra.",
+                  "category": "natural",
+                  "coords": [
+                        24.694627,
+                        41.59831
+                  ]
+            },
+            {
+                  "name": "Chinara",
+                  "text": "Egy idős, jellegzetes platánfa, amely természeti emlékként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.684238,
+                        41.581859
+                  ]
+            },
+            {
+                  "name": "Smolyanska krepost Kaleto",
+                  "text": "Kaleto középkori erőd egy dombon Szmoljan felett.",
+                  "category": "historical",
+                  "coords": [
+                        24.700759,
+                        41.597229
+                  ]
+            },
+            {
+                  "name": "Beliyat kamak",
+                  "text": "Fehér szikla, jellegzetes sziklaformáció Szmoljanban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.712197,
+                        41.596954
+                  ]
+            },
+            {
+                  "name": "Nevyastata",
+                  "text": "Híres szikla és kilátóhely a Rodopéban, amelyhez legendák fűződnek.",
+                  "category": "natural",
+                  "coords": [
+                        24.689911,
+                        41.595471
+                  ]
+            },
+            {
+                  "name": "Dora Vasileva",
+                  "text": "Dora Vasziljeva történelmi emlékműve Szmoljanban.",
+                  "category": "historical",
+                  "coords": [
+                        24.71331,
+                        41.574998
+                  ]
+            },
+            {
+                  "name": "Sv. Visarion Smolyanski",
+                  "text": "Bulgária egyik legnagyobb modern ortodox székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        24.708394,
+                        41.575218
+                  ]
+            },
+            {
+                  "name": "yaz. Pamporovo",
+                  "text": "Festői tó Szmoljan területén, amely ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.691385,
+                        41.633388
+                  ]
+            },
+            {
+                  "name": "Ez. Ribkata (Kiryanov gol)",
+                  "text": "„Ribkata” halastó Szmoljan közelében.",
+                  "category": "natural",
+                  "coords": [
+                        24.68349,
+                        41.592875
+                  ]
+            },
+            {
+                  "name": "Silazha",
+                  "text": "Szép tó Szmoljan területén, amely pihentető légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        24.673308,
+                        41.604637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rodopski dramatichen teatar",
+                  "text": "Cel mai important teatru din regiunea Rodopi, situat în Smoljan.",
+                  "category": "cultural",
+                  "coords": [
+                        24.714749,
+                        41.574675
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei \"Stoyu Shishkov\"",
+                  "text": "Un muzeu axat pe moștenirea istorică și culturală a Munților Rodopi.",
+                  "category": "museum",
+                  "coords": [
+                        24.714857,
+                        41.576332
+                  ]
+            },
+            {
+                  "name": "Alibeev konak",
+                  "text": "O clădire istorică ce a servit anterior drept primărie.",
+                  "category": "castle",
+                  "coords": [
+                        24.724921,
+                        41.572907
+                  ]
+            },
+            {
+                  "name": "Neveroyatna",
+                  "text": "Un punct de observație cu o vedere panoramică impresionantă asupra Smoljanului.",
+                  "category": "natural",
+                  "coords": [
+                        24.694627,
+                        41.59831
+                  ]
+            },
+            {
+                  "name": "Chinara",
+                  "text": "Un paltan secular, remarcabil, considerat un monument natural.",
+                  "category": "landmark",
+                  "coords": [
+                        24.684238,
+                        41.581859
+                  ]
+            },
+            {
+                  "name": "Smolyanska krepost Kaleto",
+                  "text": "Cetatea medievală Kaleto pe un deal deasupra Smolianului.",
+                  "category": "historical",
+                  "coords": [
+                        24.700759,
+                        41.597229
+                  ]
+            },
+            {
+                  "name": "Beliyat kamak",
+                  "text": "Stânca Albă, o formațiune stâncoasă proeminentă lângă Smolian.",
+                  "category": "landmark",
+                  "coords": [
+                        24.712197,
+                        41.596954
+                  ]
+            },
+            {
+                  "name": "Nevyastata",
+                  "text": "O stâncă faimoasă și punct de observație cu legende în Munții Rodopi.",
+                  "category": "natural",
+                  "coords": [
+                        24.689911,
+                        41.595471
+                  ]
+            },
+            {
+                  "name": "Dora Vasileva",
+                  "text": "Monument istoric pentru Dora Vasileva la Smolian.",
+                  "category": "historical",
+                  "coords": [
+                        24.71331,
+                        41.574998
+                  ]
+            },
+            {
+                  "name": "Sv. Visarion Smolyanski",
+                  "text": "Una dintre cele mai mari catedrale ortodoxe moderne din Bulgaria.",
+                  "category": "religious",
+                  "coords": [
+                        24.708394,
+                        41.575218
+                  ]
+            },
+            {
+                  "name": "yaz. Pamporovo",
+                  "text": "Un lac pitoresc în Smolyan, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        24.691385,
+                        41.633388
+                  ]
+            },
+            {
+                  "name": "Ez. Ribkata (Kiryanov gol)",
+                  "text": "Heleșteul „Ribkata” lângă Smolian.",
+                  "category": "natural",
+                  "coords": [
+                        24.68349,
+                        41.592875
+                  ]
+            },
+            {
+                  "name": "Silazha",
+                  "text": "Un lac frumos în Smolyan, care oferă o atmosferă relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        24.673308,
+                        41.604637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rodopski dramatichen teatar",
+                  "text": "The most important theatre of the Rhodope region in Smoljan.",
+                  "category": "cultural",
+                  "coords": [
+                        24.714749,
+                        41.574675
+                  ]
+            },
+            {
+                  "name": "Regionalen istoricheski muzei \"Stoyu Shishkov\"",
+                  "text": "A museum focused on the historical and cultural heritage of the Rhodopes.",
+                  "category": "museum",
+                  "coords": [
+                        24.714857,
+                        41.576332
+                  ]
+            },
+            {
+                  "name": "Alibeev’s town- hall",
+                  "text": "A historical building that formerly served as the town hall.",
+                  "category": "castle",
+                  "coords": [
+                        24.724921,
+                        41.572907
+                  ]
+            },
+            {
+                  "name": "Neveroyatna",
+                  "text": "A viewpoint offering impressive panoramic views of Smoljan.",
+                  "category": "natural",
+                  "coords": [
+                        24.694627,
+                        41.59831
+                  ]
+            },
+            {
+                  "name": "Chinara",
+                  "text": "An old, distinctive plane tree considered a natural landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        24.684238,
+                        41.581859
+                  ]
+            },
+            {
+                  "name": "Smolyanska krepost Kaleto",
+                  "text": "Medieval fortress Kaleto on a hill above Smolyan.",
+                  "category": "historical",
+                  "coords": [
+                        24.700759,
+                        41.597229
+                  ]
+            },
+            {
+                  "name": "Beliyat kamak",
+                  "text": "White Rock, a prominent rock formation near Smolyan.",
+                  "category": "landmark",
+                  "coords": [
+                        24.712197,
+                        41.596954
+                  ]
+            },
+            {
+                  "name": "Nevyastata",
+                  "text": "A famous rock and viewpoint with legends in the Rhodope Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        24.689911,
+                        41.595471
+                  ]
+            },
+            {
+                  "name": "Dora Vasileva",
+                  "text": "Historical monument to Dora Vasileva in Smolyan.",
+                  "category": "historical",
+                  "coords": [
+                        24.71331,
+                        41.574998
+                  ]
+            },
+            {
+                  "name": "Sv. Visarion Smolyanski",
+                  "text": "One of the largest modern Orthodox cathedrals in Bulgaria.",
+                  "category": "religious",
+                  "coords": [
+                        24.708394,
+                        41.575218
+                  ]
+            },
+            {
+                  "name": "Pamporovo dam",
+                  "text": "A scenic lake in Smolyan, perfect for walking and enjoying the view.",
+                  "category": "natural",
+                  "coords": [
+                        24.691385,
+                        41.633388
+                  ]
+            },
+            {
+                  "name": "Ez. Ribkata (Kiryanov gol)",
+                  "text": "Fish pond 'Ribkata' near Smolyan.",
+                  "category": "natural",
+                  "coords": [
+                        24.68349,
+                        41.592875
+                  ]
+            },
+            {
+                  "name": "Silazha",
+                  "text": "A beautiful lake in Smolyan offering a relaxing atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        24.673308,
+                        41.604637
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Smoljan", hu: "Szmoljan", ro: "Smolian", en: "Smolyan" },
@@ -615,7 +2478,376 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-silistra-cities-v2.webp",
   },
   {
-    id: "bulgaria-razgrad-cities-v2", "sights": {"de": [{"name": "Rimski grad Abritus", "text": "Die archäologischen Ruinen einer bedeutenden antiken römischen Stadt.", "category": "historical", "coords": [26.552094, 43.522046]}, {"name": "Etnografski muzei", "text": "Ein Museum, das das traditionelle Leben und Handwerk der Region zeigt.", "category": "museum", "coords": [26.530572, 43.526708]}, {"name": "Abritus", "text": "Ein Museum, das Funde aus der antiken Stadt Abritus ausstellt.", "category": "museum", "coords": [26.550859, 43.523986]}, {"name": "Dramatichen teatar \"Anton Strashimirov\" - Razgrad", "text": "Ein Theater in Rasgrad, das nach dem Schriftsteller Anton Straschimirow benannt ist.", "category": "cultural", "coords": [26.52264, 43.52617]}, {"name": "Pametnik na azbukata", "text": "Ein Denkmal in Rasgrad, das dem kyrillischen Alphabet gewidmet ist.", "category": "historical", "coords": [26.521772, 43.527917]}, {"name": "Ivan Vedar", "text": "Ein Denkmal für Ivan Vedar, den Begründer der Freimaurerei in Bulgarien.", "category": "historical", "coords": [26.527736, 43.525041]}, {"name": "100 godini BZNS", "text": "Ein Denkmal zur Feier des 100-jährigen Bestehens der BZNS-Partei.", "category": "historical", "coords": [26.524115, 43.525069]}, {"name": "Hudozhestvena galeriya", "text": "Eine städtische Galerie mit einer Sammlung regionaler Kunstwerke.", "category": "museum", "coords": [26.524177, 43.526007]}, {"name": "yaz. Pchelina", "text": "Ein weitläufiger See in Rasgrad, ideal für einen Ausflug in die Natur.", "category": "natural", "coords": [26.46697, 43.483134]}, {"name": "yaz. Pchelina 2", "text": "Ein weiterer malerischer See in der Region Rasgrad.", "category": "natural", "coords": [26.469402, 43.488596]}], "hu": [{"name": "Rimski grad Abritus", "text": "Egy jelentős ókori római város régészeti romjai.", "category": "historical", "coords": [26.552094, 43.522046]}, {"name": "Etnografski muzei", "text": "A régió hagyományos életmódját és mesterségeit bemutató múzeum.", "category": "museum", "coords": [26.530572, 43.526708]}, {"name": "Abritus", "text": "Az ókori Abritus városából származó leleteket bemutató múzeum.", "category": "museum", "coords": [26.550859, 43.523986]}, {"name": "Dramatichen teatar \"Anton Strashimirov\" - Razgrad", "text": "Anton Sztrasimirov íróról elnevezett színház Razgradban.", "category": "cultural", "coords": [26.52264, 43.52617]}, {"name": "Pametnik na azbukata", "text": "A cirill ábécének szentelt emlékmű Razgradban.", "category": "historical", "coords": [26.521772, 43.527917]}, {"name": "Ivan Vedar", "text": "Ivan Vedarnak, a bulgáriai szabadkőművesség megalapítójának emlékműve.", "category": "historical", "coords": [26.527736, 43.525041]}, {"name": "100 godini BZNS", "text": "A BZNSZ párt fennállásának 100. évfordulójára emelt emlékmű.", "category": "historical", "coords": [26.524115, 43.525069]}, {"name": "Hudozhestvena galeriya", "text": "Városi galéria regionális műalkotások gyűjteményével.", "category": "museum", "coords": [26.524177, 43.526007]}, {"name": "yaz. Pchelina", "text": "Hatalmas tó Razgrad közelében, ideális természeti kiránduláshoz.", "category": "natural", "coords": [26.46697, 43.483134]}, {"name": "yaz. Pchelina 2", "text": "Egy másik festői tó Razgrad régiójában.", "category": "natural", "coords": [26.469402, 43.488596]}], "ro": [{"name": "Rimski grad Abritus", "text": "Ruinele arheologice ale unui important oraș roman antic.", "category": "historical", "coords": [26.552094, 43.522046]}, {"name": "Etnografski muzei", "text": "Un muzeu care prezintă viața tradițională și meșteșugurile regiunii.", "category": "museum", "coords": [26.530572, 43.526708]}, {"name": "Abritus", "text": "Un muzeu care expune descoperiri din orașul antic Abritus.", "category": "museum", "coords": [26.550859, 43.523986]}, {"name": "Dramatichen teatar \"Anton Strashimirov\" - Razgrad", "text": "Un teatru în Razgrad numit după scriitorul Anton Strașimirov.", "category": "cultural", "coords": [26.52264, 43.52617]}, {"name": "Pametnik na azbukata", "text": "Un monument din Razgrad dedicat alfabetului chirilic.", "category": "historical", "coords": [26.521772, 43.527917]}, {"name": "Ivan Vedar", "text": "Un monument dedicat lui Ivan Vedar, fondatorul masoneriei în Bulgaria.", "category": "historical", "coords": [26.527736, 43.525041]}, {"name": "100 godini BZNS", "text": "Un monument care celebrează a 100-a aniversare a partidului BZNS.", "category": "historical", "coords": [26.524115, 43.525069]}, {"name": "Hudozhestvena galeriya", "text": "O galerie municipală cu o colecție de opere de artă regionale.", "category": "museum", "coords": [26.524177, 43.526007]}, {"name": "yaz. Pchelina", "text": "Un lac întins în Razgrad, ideal pentru o ieșire în natură.", "category": "natural", "coords": [26.46697, 43.483134]}, {"name": "yaz. Pchelina 2", "text": "Un alt lac pitoresc în regiunea Razgrad.", "category": "natural", "coords": [26.469402, 43.488596]}], "en": [{"name": "Abritus", "text": "The archaeological ruins of a significant ancient Roman city.", "category": "historical", "coords": [26.552094, 43.522046]}, {"name": "Etnografski muzei", "text": "A museum showing the traditional life and crafts of the region.", "category": "museum", "coords": [26.530572, 43.526708]}, {"name": "Abritus", "text": "A museum exhibiting finds from the ancient city of Abritus.", "category": "museum", "coords": [26.550859, 43.523986]}, {"name": "Dramatichen teatar \"Anton Strashimirov\" - Razgrad", "text": "A theatre in Razgrad named after the writer Anton Strashimirov.", "category": "cultural", "coords": [26.52264, 43.52617]}, {"name": "Pametnik na azbukata", "text": "A monument in Razgrad dedicated to the Cyrillic alphabet.", "category": "historical", "coords": [26.521772, 43.527917]}, {"name": "Ivan Vedar", "text": "A monument to Ivan Vedar, the founder of Freemasonry in Bulgaria.", "category": "historical", "coords": [26.527736, 43.525041]}, {"name": "100 godini BZNS", "text": "A monument celebrating the 100th anniversary of the BZNS party.", "category": "historical", "coords": [26.524115, 43.525069]}, {"name": "Hudozhestvena galeriya", "text": "A municipal gallery with a collection of regional artworks.", "category": "museum", "coords": [26.524177, 43.526007]}, {"name": "yaz. Pchelina", "text": "A large lake in Razgrad, perfect for a nature outing.", "category": "natural", "coords": [26.46697, 43.483134]}, {"name": "yaz. Pchelina 2", "text": "Another scenic lake located in the Razgrad region.", "category": "natural", "coords": [26.469402, 43.488596]}]},
+    id: "bulgaria-razgrad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rimski grad Abritus",
+                  "text": "Die archäologischen Ruinen einer bedeutenden antiken römischen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.552094,
+                        43.522046
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Ein Museum, das das traditionelle Leben und Handwerk der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.530572,
+                        43.526708
+                  ]
+            },
+            {
+                  "name": "Abritus",
+                  "text": "Ein Museum, das Funde aus der antiken Stadt Abritus ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.550859,
+                        43.523986
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Anton Strashimirov\" - Razgrad",
+                  "text": "Ein Theater in Rasgrad, das nach dem Schriftsteller Anton Straschimirow benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        26.52264,
+                        43.52617
+                  ]
+            },
+            {
+                  "name": "Pametnik na azbukata",
+                  "text": "Ein Denkmal in Rasgrad, das dem kyrillischen Alphabet gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        26.521772,
+                        43.527917
+                  ]
+            },
+            {
+                  "name": "Ivan Vedar",
+                  "text": "Ein Denkmal für Ivan Vedar, den Begründer der Freimaurerei in Bulgarien.",
+                  "category": "historical",
+                  "coords": [
+                        26.527736,
+                        43.525041
+                  ]
+            },
+            {
+                  "name": "100 godini BZNS",
+                  "text": "Ein Denkmal zur Feier des 100-jährigen Bestehens der BZNS-Partei.",
+                  "category": "historical",
+                  "coords": [
+                        26.524115,
+                        43.525069
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya",
+                  "text": "Eine städtische Galerie mit einer Sammlung regionaler Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        26.524177,
+                        43.526007
+                  ]
+            },
+            {
+                  "name": "yaz. Pchelina",
+                  "text": "Stausee Pchelina bei Rasgrad.",
+                  "category": "natural",
+                  "coords": [
+                        26.46697,
+                        43.483134
+                  ]
+            },
+            {
+                  "name": "yaz. Pchelina 2",
+                  "text": "Zweiter Stausee Pchelina bei Rasgrad.",
+                  "category": "natural",
+                  "coords": [
+                        26.469402,
+                        43.488596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rimski grad Abritus",
+                  "text": "Egy jelentős ókori római város régészeti romjai.",
+                  "category": "historical",
+                  "coords": [
+                        26.552094,
+                        43.522046
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "A régió hagyományos életmódját és mesterségeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.530572,
+                        43.526708
+                  ]
+            },
+            {
+                  "name": "Abritus",
+                  "text": "Az ókori Abritus városából származó leleteket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.550859,
+                        43.523986
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Anton Strashimirov\" - Razgrad",
+                  "text": "Anton Sztrasimirov íróról elnevezett színház Razgradban.",
+                  "category": "cultural",
+                  "coords": [
+                        26.52264,
+                        43.52617
+                  ]
+            },
+            {
+                  "name": "Pametnik na azbukata",
+                  "text": "A cirill ábécének szentelt emlékmű Razgradban.",
+                  "category": "historical",
+                  "coords": [
+                        26.521772,
+                        43.527917
+                  ]
+            },
+            {
+                  "name": "Ivan Vedar",
+                  "text": "Ivan Vedarnak, a bulgáriai szabadkőművesség megalapítójának emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        26.527736,
+                        43.525041
+                  ]
+            },
+            {
+                  "name": "100 godini BZNS",
+                  "text": "A BZNSZ párt fennállásának 100. évfordulójára emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        26.524115,
+                        43.525069
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya",
+                  "text": "Városi galéria regionális műalkotások gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        26.524177,
+                        43.526007
+                  ]
+            },
+            {
+                  "name": "yaz. Pchelina",
+                  "text": "Pchelina-víztározó Razgrad közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.46697,
+                        43.483134
+                  ]
+            },
+            {
+                  "name": "yaz. Pchelina 2",
+                  "text": "Második Pchelina-víztározó Razgrad közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.469402,
+                        43.488596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rimski grad Abritus",
+                  "text": "Ruinele arheologice ale unui important oraș roman antic.",
+                  "category": "historical",
+                  "coords": [
+                        26.552094,
+                        43.522046
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Un muzeu care prezintă viața tradițională și meșteșugurile regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        26.530572,
+                        43.526708
+                  ]
+            },
+            {
+                  "name": "Abritus",
+                  "text": "Un muzeu care expune descoperiri din orașul antic Abritus.",
+                  "category": "museum",
+                  "coords": [
+                        26.550859,
+                        43.523986
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Anton Strashimirov\" - Razgrad",
+                  "text": "Un teatru în Razgrad numit după scriitorul Anton Strașimirov.",
+                  "category": "cultural",
+                  "coords": [
+                        26.52264,
+                        43.52617
+                  ]
+            },
+            {
+                  "name": "Pametnik na azbukata",
+                  "text": "Un monument din Razgrad dedicat alfabetului chirilic.",
+                  "category": "historical",
+                  "coords": [
+                        26.521772,
+                        43.527917
+                  ]
+            },
+            {
+                  "name": "Ivan Vedar",
+                  "text": "Un monument dedicat lui Ivan Vedar, fondatorul masoneriei în Bulgaria.",
+                  "category": "historical",
+                  "coords": [
+                        26.527736,
+                        43.525041
+                  ]
+            },
+            {
+                  "name": "100 godini BZNS",
+                  "text": "Un monument care celebrează a 100-a aniversare a partidului BZNS.",
+                  "category": "historical",
+                  "coords": [
+                        26.524115,
+                        43.525069
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya",
+                  "text": "O galerie municipală cu o colecție de opere de artă regionale.",
+                  "category": "museum",
+                  "coords": [
+                        26.524177,
+                        43.526007
+                  ]
+            },
+            {
+                  "name": "yaz. Pchelina",
+                  "text": "Lacul de acumulare Pcelina lângă Razgrad.",
+                  "category": "natural",
+                  "coords": [
+                        26.46697,
+                        43.483134
+                  ]
+            },
+            {
+                  "name": "yaz. Pchelina 2",
+                  "text": "Al doilea lac de acumulare Pcelina lângă Razgrad.",
+                  "category": "natural",
+                  "coords": [
+                        26.469402,
+                        43.488596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abritus",
+                  "text": "The archaeological ruins of a significant ancient Roman city.",
+                  "category": "historical",
+                  "coords": [
+                        26.552094,
+                        43.522046
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "A museum showing the traditional life and crafts of the region.",
+                  "category": "museum",
+                  "coords": [
+                        26.530572,
+                        43.526708
+                  ]
+            },
+            {
+                  "name": "Abritus",
+                  "text": "A museum exhibiting finds from the ancient city of Abritus.",
+                  "category": "museum",
+                  "coords": [
+                        26.550859,
+                        43.523986
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar \"Anton Strashimirov\" - Razgrad",
+                  "text": "A theatre in Razgrad named after the writer Anton Strashimirov.",
+                  "category": "cultural",
+                  "coords": [
+                        26.52264,
+                        43.52617
+                  ]
+            },
+            {
+                  "name": "Pametnik na azbukata",
+                  "text": "A monument in Razgrad dedicated to the Cyrillic alphabet.",
+                  "category": "historical",
+                  "coords": [
+                        26.521772,
+                        43.527917
+                  ]
+            },
+            {
+                  "name": "Ivan Vedar",
+                  "text": "A monument to Ivan Vedar, the founder of Freemasonry in Bulgaria.",
+                  "category": "historical",
+                  "coords": [
+                        26.527736,
+                        43.525041
+                  ]
+            },
+            {
+                  "name": "100 godini BZNS",
+                  "text": "A monument celebrating the 100th anniversary of the BZNS party.",
+                  "category": "historical",
+                  "coords": [
+                        26.524115,
+                        43.525069
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya",
+                  "text": "A municipal gallery with a collection of regional artworks.",
+                  "category": "museum",
+                  "coords": [
+                        26.524177,
+                        43.526007
+                  ]
+            },
+            {
+                  "name": "yaz. Pchelina",
+                  "text": "Pchelina Reservoir near Razgrad.",
+                  "category": "natural",
+                  "coords": [
+                        26.46697,
+                        43.483134
+                  ]
+            },
+            {
+                  "name": "yaz. Pchelina 2",
+                  "text": "Second Pchelina Reservoir near Razgrad.",
+                  "category": "natural",
+                  "coords": [
+                        26.469402,
+                        43.488596
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Rasgrad", hu: "Razgrad", ro: "Razgrad", en: "Razgrad" },
@@ -750,7 +2982,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-montana-cities-v2.webp",
   },
   {
-    id: "bulgaria-kharmanli-cities-v2", "sights": {"de": [{"name": "Turski most", "text": "Eine alte Brücke aus der osmanischen Zeit in Harmanli.", "category": "landmark", "coords": [25.899769, 41.932135]}, {"name": "Harmanlı Kervansaraĭ Kervansarai", "text": "Die Überreste einer historischen Karawanserei aus dem 16. Jahrhundert.", "category": "historical", "coords": [25.901647, 41.931594]}], "hu": [{"name": "Turski most", "text": "Régi oszmán kori híd Harmanli városában.", "category": "landmark", "coords": [25.899769, 41.932135]}, {"name": "Harmanlı Kervansaraĭ Kervansarai", "text": "Egy 16. századi történelmi karavánszeráj maradványai.", "category": "historical", "coords": [25.901647, 41.931594]}], "ro": [{"name": "Turski most", "text": "Un pod vechi din epoca otomană în Harmanli.", "category": "landmark", "coords": [25.899769, 41.932135]}, {"name": "Harmanlı Kervansaraĭ Kervansarai", "text": "Resturile unui caravanserai istoric din secolul al XVI-lea.", "category": "historical", "coords": [25.901647, 41.931594]}], "en": [{"name": "Turski most", "text": "An old Ottoman-era bridge located in Harmanli.", "category": "landmark", "coords": [25.899769, 41.932135]}, {"name": "Harmanlı Kervansaraĭ Kervansarai", "text": "The remains of a historical 16th-century caravanserai.", "category": "historical", "coords": [25.901647, 41.931594]}]},
+    id: "bulgaria-kharmanli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Turski most",
+                  "text": "Türkische Brücke, erbaut 1585 über die Mariza in Charmanli.",
+                  "category": "landmark",
+                  "coords": [
+                        25.899769,
+                        41.932135
+                  ]
+            },
+            {
+                  "name": "Harmanlı Kervansaraĭ Kervansarai",
+                  "text": "Osmanische Karawanserei aus dem 16. Jahrhundert in Charmanli.",
+                  "category": "historical",
+                  "coords": [
+                        25.901647,
+                        41.931594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Turski most",
+                  "text": "Török híd, 1585-ben épült a Marica folyón Harmanliban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.899769,
+                        41.932135
+                  ]
+            },
+            {
+                  "name": "Harmanlı Kervansaraĭ Kervansarai",
+                  "text": "16. századi oszmán karavánszeráj Harmanliban.",
+                  "category": "historical",
+                  "coords": [
+                        25.901647,
+                        41.931594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turski most",
+                  "text": "Podul Turcesc, construit în 1585 peste râul Marița în Harmanli.",
+                  "category": "landmark",
+                  "coords": [
+                        25.899769,
+                        41.932135
+                  ]
+            },
+            {
+                  "name": "Harmanlı Kervansaraĭ Kervansarai",
+                  "text": "Caravanserai otoman din secolul al XVI-lea la Harmanli.",
+                  "category": "historical",
+                  "coords": [
+                        25.901647,
+                        41.931594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turski most",
+                  "text": "Turkish Bridge built in 1585 over the Maritsa River in Harmanli.",
+                  "category": "landmark",
+                  "coords": [
+                        25.899769,
+                        41.932135
+                  ]
+            },
+            {
+                  "name": "Harmanlı Kervansaraĭ Kervansarai",
+                  "text": "Ottoman caravanserai from the 16th century in Harmanli.",
+                  "category": "historical",
+                  "coords": [
+                        25.901647,
+                        41.931594
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Charmanli", hu: "Harmanli", ro: "Harmanli", en: "Harmanli" },
@@ -795,7 +3108,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-kharmanli-cities-v2.webp",
   },
   {
-    id: "bulgaria-svishtov-cities-v2", "sights": {"de": [{"name": "Aleko Konstantinov", "text": "Ein Museum in Swischtow, das dem Schriftsteller Aleko Konstantinow gewidmet ist.", "category": "museum", "coords": [25.340045, 43.62055]}, {"name": "Kaleto", "text": "Überreste einer historischen Festung in Swischtow.", "category": "historical", "coords": [25.344805, 43.621547]}], "hu": [{"name": "Aleko Konstantinov", "text": "Aleko Konsztantinov írónak szentelt múzeum Szvistovban.", "category": "museum", "coords": [25.340045, 43.62055]}, {"name": "Kaleto", "text": "Egy történelmi erőd maradványai Szvistovban.", "category": "historical", "coords": [25.344805, 43.621547]}], "ro": [{"name": "Aleko Konstantinov", "text": "Un muzeu în Sviștov dedicat scriitorului Aleko Konstantinov.", "category": "museum", "coords": [25.340045, 43.62055]}, {"name": "Kaleto", "text": "Ruinele unei vechi cetăți în Sviștov.", "category": "historical", "coords": [25.344805, 43.621547]}], "en": [{"name": "Aleko Konstantinov", "text": "A museum in Svishtov dedicated to the writer Aleko Konstantinov.", "category": "museum", "coords": [25.340045, 43.62055]}, {"name": "Kaleto", "text": "Ruins of a historical fortress in Svishtov.", "category": "historical", "coords": [25.344805, 43.621547]}]},
+    id: "bulgaria-svishtov-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aleko Konstantinov",
+                  "text": "Wohnhausmuseum des Schriftstellers Aleko Konstantinow in Swischtow.",
+                  "category": "museum",
+                  "coords": [
+                        25.340045,
+                        43.62055
+                  ]
+            },
+            {
+                  "name": "Kaleto",
+                  "text": "Mittelalterliche Festung Kaleto auf einem Hügel über der Donau in Swischtow.",
+                  "category": "historical",
+                  "coords": [
+                        25.344805,
+                        43.621547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aleko Konstantinov",
+                  "text": "Aleko Konstantinov író lakóháza és múzeuma Szvistovban.",
+                  "category": "museum",
+                  "coords": [
+                        25.340045,
+                        43.62055
+                  ]
+            },
+            {
+                  "name": "Kaleto",
+                  "text": "Kaleto középkori erőd egy dombon a Duna felett Szvistovban.",
+                  "category": "historical",
+                  "coords": [
+                        25.344805,
+                        43.621547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aleko Konstantinov",
+                  "text": "Casa memorială a scriitorului Aleko Konstantinov la Sviștov.",
+                  "category": "museum",
+                  "coords": [
+                        25.340045,
+                        43.62055
+                  ]
+            },
+            {
+                  "name": "Kaleto",
+                  "text": "Cetatea medievală Kaleto pe un deal deasupra Dunării la Sviștov.",
+                  "category": "historical",
+                  "coords": [
+                        25.344805,
+                        43.621547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aleko Konstantinov",
+                  "text": "House museum of writer Aleko Konstantinov in Svishtov.",
+                  "category": "museum",
+                  "coords": [
+                        25.340045,
+                        43.62055
+                  ]
+            },
+            {
+                  "name": "Kaleto",
+                  "text": "Medieval fortress Kaleto on a hill above the Danube in Svishtov.",
+                  "category": "historical",
+                  "coords": [
+                        25.344805,
+                        43.621547
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Swischtow", hu: "Szvisztov", ro: "Sviștov", en: "Svishtov" },
@@ -840,7 +3234,484 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-svishtov-cities-v2.webp",
   },
   {
-    id: "bulgaria-asenovgrad-cities-v2", "sights": {"de": [{"name": "Paleontologicheski muzei", "text": "Dieses Museum in Asenowgrad zeigt eine beeindruckende Sammlung prähistorischer Fossilien.", "category": "museum", "coords": [24.880429, 42.008166]}, {"name": "Asenova krepost", "text": "Diese mittelalterliche Burgruine thront auf einem Felsen und ist ein Wahrzeichen von Asenowgrad.", "category": "castle", "coords": [24.873476, 41.986684]}, {"name": "Istoricheski muzei", "text": "Das Historische Museum in Asenowgrad bietet Einblicke in die reiche Vergangenheit der Stadt.", "category": "museum", "coords": [24.874481, 42.006517]}, {"name": "Etnografski muzei", "text": "Dieses Museum in Asenowgrad widmet sich der traditionellen Lebensweise und den Bräuchen der Region.", "category": "museum", "coords": [24.871532, 42.003701]}, {"name": "Vitus", "text": "Ein Wasserpark in Asenowgrad, der verschiedene Freizeit- und Schwimmbecken für Besucher bietet.", "category": "family", "coords": [24.852147, 42.017469]}, {"name": "Pametnik na Gen. Dandevil", "text": "Dieses Denkmal in Asenowgrad ehrt General Dandeville.", "category": "historical", "coords": [24.87063, 42.006892]}, {"name": "Pametnik na Hristo Botev", "text": "Ein Denkmal in Asenowgrad zu Ehren des berühmten bulgarischen Dichters und Revolutionärs Hristo Botev.", "category": "historical", "coords": [24.874556, 42.003434]}, {"name": "Pametnik na Vasil Levski", "text": "Ein Denkmal zu Ehren des bulgarischen Nationalhelden Wassil Lewski in Assenowgrad.", "category": "historical", "coords": [24.87697, 42.011252]}, {"name": "Stanimashko lovno druzhestvo \"Sokol\"", "text": "Ein lokales Denkmal der Jagdgesellschaft Sokol in Assenowgrad.", "category": "historical", "coords": [24.842601, 41.999424]}, {"name": "Vazrozhdensko uchilishte Sv. Georgi", "text": "Ein Kulturzentrum, das in einer ehemaligen historischen Schule des bulgarischen Wiedergeburt angesiedelt ist.", "category": "cultural", "coords": [24.874983, 41.999198]}, {"name": "Sv. Dimitrii Solunski", "text": "Eine orthodoxe Kirche in Assenowgrad, die dem Heiligen Demetrius gewidmet ist.", "category": "religious", "coords": [24.877596, 42.006563]}, {"name": "Ruenskoto ezero", "text": "Der Lake Rouen in Asenovgrad ist ein See, der sich gut für einen Spaziergang in der Natur eignet.", "category": "natural", "coords": [24.824684, 42.016447]}, {"name": "yaz. 40-te izvora", "text": "Der яз. 40-те извора in Asenovgrad ist ein See, der sich gut für einen Spaziergang in der Natur eignet.", "category": "natural", "coords": [24.935055, 42.00208]}], "hu": [{"name": "Paleontologicheski muzei", "text": "Ez az aszenovgrádi múzeum prehisztorikus fosszíliák lenyűgöző gyűjteményét mutatja be.", "category": "museum", "coords": [24.880429, 42.008166]}, {"name": "Asenova krepost", "text": "Ez a sziklán trónoló középkori várrom Aszenovgrád egyik jelképe.", "category": "castle", "coords": [24.873476, 41.986684]}, {"name": "Istoricheski muzei", "text": "Az aszenovgrádi történelmi múzeum betekintést nyújt a város gazdag múltjába.", "category": "museum", "coords": [24.874481, 42.006517]}, {"name": "Etnografski muzei", "text": "Ez az aszenovgrádi múzeum a régió hagyományos életmódját és szokásait mutatja be.", "category": "museum", "coords": [24.871532, 42.003701]}, {"name": "Vitus", "text": "Vizi vidámpark Aszenovgrádban, amely különféle szabadidős és úszómedencéket kínál a látogatóknak.", "category": "family", "coords": [24.852147, 42.017469]}, {"name": "Pametnik na Gen. Dandevil", "text": "Ez az aszenovgrádi emlékmű Dandeville tábornok tiszteletére készült.", "category": "historical", "coords": [24.87063, 42.006892]}, {"name": "Pametnik na Hristo Botev", "text": "Emlékmű Aszenovgrádban a híres bolgár költő és forradalmár, Hriszto Botev tiszteletére.", "category": "historical", "coords": [24.874556, 42.003434]}, {"name": "Pametnik na Vasil Levski", "text": "Vaszil Levszki bolgár nemzeti hős tiszteletére emelt emlékmű Aszenovgradban.", "category": "historical", "coords": [24.87697, 42.011252]}, {"name": "Stanimashko lovno druzhestvo \"Sokol\"", "text": "A helyi Sólyom vadásztársaság emlékműve Aszenovgradban.", "category": "historical", "coords": [24.842601, 41.999424]}, {"name": "Vazrozhdensko uchilishte Sv. Georgi", "text": "A bolgár újjászületés korabeli egykori iskolában működő kulturális központ.", "category": "cultural", "coords": [24.874983, 41.999198]}, {"name": "Sv. Dimitrii Solunski", "text": "Szent Demeter tiszteletére szentelt ortodox templom Aszenovgradban.", "category": "religious", "coords": [24.877596, 42.006563]}, {"name": "Ruenskoto ezero", "text": "A Lake Rouen egy tó Asenovgrad területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [24.824684, 42.016447]}, {"name": "yaz. 40-te izvora", "text": "A яз. 40-те извора egy tó Asenovgrad területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [24.935055, 42.00208]}], "ro": [{"name": "Paleontologicheski muzei", "text": "Acest muzeu din Asenovgrad expune o colecție impresionantă de fosile preistorice.", "category": "museum", "coords": [24.880429, 42.008166]}, {"name": "Asenova krepost", "text": "Această ruină de castel medieval domină de pe o stâncă și este un simbol al orașului Asenovgrad.", "category": "castle", "coords": [24.873476, 41.986684]}, {"name": "Istoricheski muzei", "text": "Muzeul de Istorie din Asenovgrad oferă perspective asupra trecutului bogat al orașului.", "category": "museum", "coords": [24.874481, 42.006517]}, {"name": "Etnografski muzei", "text": "Acest muzeu din Asenovgrad este dedicat modului de viață tradițional și obiceiurilor din regiune.", "category": "museum", "coords": [24.871532, 42.003701]}, {"name": "Vitus", "text": "Un parc acvatic în Asenovgrad, care oferă diverse bazine de agrement și înot pentru vizitatori.", "category": "family", "coords": [24.852147, 42.017469]}, {"name": "Pametnik na Gen. Dandevil", "text": "Acest monument din Asenovgrad îl onorează pe generalul Dandeville.", "category": "historical", "coords": [24.87063, 42.006892]}, {"name": "Pametnik na Hristo Botev", "text": "Un monument în Asenovgrad în onoarea celebrului poet și revoluționar bulgar Hristo Botev.", "category": "historical", "coords": [24.874556, 42.003434]}, {"name": "Pametnik na Vasil Levski", "text": "Un monument dedicat eroului național bulgar Vasil Levski în Asenovgrad.", "category": "historical", "coords": [24.87697, 42.011252]}, {"name": "Stanimashko lovno druzhestvo \"Sokol\"", "text": "Un monument al societății locale de vânătoare Sokol din Asenovgrad.", "category": "historical", "coords": [24.842601, 41.999424]}, {"name": "Vazrozhdensko uchilishte Sv. Georgi", "text": "Un centru cultural situat într-o fostă școală istorică din perioada Renașterii Bulgare.", "category": "cultural", "coords": [24.874983, 41.999198]}, {"name": "Sv. Dimitrii Solunski", "text": "O biserică ortodoxă din Asenovgrad, dedicată Sfântului Dimitrie.", "category": "religious", "coords": [24.877596, 42.006563]}, {"name": "Ruenskoto ezero", "text": "Lake Rouen din Asenovgrad este un lac ce oferă un cadru natural frumos pentru relaxare.", "category": "natural", "coords": [24.824684, 42.016447]}, {"name": "yaz. 40-te izvora", "text": "яз. 40-те извора din Asenovgrad este un lac ce oferă un cadru natural frumos pentru relaxare.", "category": "natural", "coords": [24.935055, 42.00208]}], "en": [{"name": "Paleontologicheski muzei", "text": "This museum in Asenovgrad showcases an impressive collection of prehistoric fossils.", "category": "museum", "coords": [24.880429, 42.008166]}, {"name": "Asen's Fortress", "text": "This medieval castle ruin perched on a rock is a landmark of Asenovgrad.", "category": "castle", "coords": [24.873476, 41.986684]}, {"name": "Museum of History", "text": "The Museum of History in Asenovgrad provides insights into the city's rich past.", "category": "museum", "coords": [24.874481, 42.006517]}, {"name": "Etnografski muzei", "text": "This museum in Asenovgrad is dedicated to the traditional lifestyle and customs of the region.", "category": "museum", "coords": [24.871532, 42.003701]}, {"name": "Vitus", "text": "A water park in Asenovgrad offering various leisure and swimming pools for visitors.", "category": "family", "coords": [24.852147, 42.017469]}, {"name": "Pametnik na Gen. Dandevil", "text": "This monument in Asenovgrad honors General Dandeville.", "category": "historical", "coords": [24.87063, 42.006892]}, {"name": "Pametnik na Hristo Botev", "text": "A monument in Asenovgrad in honor of the famous Bulgarian poet and revolutionary Hristo Botev.", "category": "historical", "coords": [24.874556, 42.003434]}, {"name": "Pametnik na Vasil Levski", "text": "A monument dedicated to the Bulgarian national hero Vasil Levski in Assenowgrad.", "category": "historical", "coords": [24.87697, 42.011252]}, {"name": "Stanimashko lovno druzhestvo \"Sokol\"", "text": "A local monument of the Sokol hunting society in Assenowgrad.", "category": "historical", "coords": [24.842601, 41.999424]}, {"name": "Vazrozhdensko uchilishte Sv. Georgi", "text": "An arts centre housed in a former historical school from the Bulgarian National Revival period.", "category": "cultural", "coords": [24.874983, 41.999198]}, {"name": "Sv. Dimitrii Solunski", "text": "An Orthodox church in Assenowgrad dedicated to Saint Demetrius.", "category": "religious", "coords": [24.877596, 42.006563]}, {"name": "Lake Rouen", "text": "The Lake Rouen in Asenovgrad is a lake providing a pleasant natural setting for relaxation.", "category": "natural", "coords": [24.824684, 42.016447]}, {"name": "yaz. 40-te izvora", "text": "The яз. 40-те извора in Asenovgrad is a lake providing a pleasant natural setting for relaxation.", "category": "natural", "coords": [24.935055, 42.00208]}]},
+    id: "bulgaria-asenovgrad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paleontologicheski muzei",
+                  "text": "Dieses Museum in Asenowgrad zeigt eine beeindruckende Sammlung prähistorischer Fossilien.",
+                  "category": "museum",
+                  "coords": [
+                        24.880429,
+                        42.008166
+                  ]
+            },
+            {
+                  "name": "Asenova krepost",
+                  "text": "Diese mittelalterliche Burgruine thront auf einem Felsen und ist ein Wahrzeichen von Asenowgrad.",
+                  "category": "castle",
+                  "coords": [
+                        24.873476,
+                        41.986684
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Das Historische Museum in Asenowgrad bietet Einblicke in die reiche Vergangenheit der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        24.874481,
+                        42.006517
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Dieses Museum in Asenowgrad widmet sich der traditionellen Lebensweise und den Bräuchen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        24.871532,
+                        42.003701
+                  ]
+            },
+            {
+                  "name": "Vitus",
+                  "text": "Ein Wasserpark in Asenowgrad, der verschiedene Freizeit- und Schwimmbecken für Besucher bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.852147,
+                        42.017469
+                  ]
+            },
+            {
+                  "name": "Pametnik na Gen. Dandevil",
+                  "text": "Ein steinernes Obelisk für General Dandevil im Zentrum von Asenovgrad.",
+                  "category": "historical",
+                  "coords": [
+                        24.87063,
+                        42.006892
+                  ]
+            },
+            {
+                  "name": "Pametnik na Hristo Botev",
+                  "text": "Ein Denkmal in Asenowgrad zu Ehren des berühmten bulgarischen Dichters und Revolutionärs Hristo Botev.",
+                  "category": "historical",
+                  "coords": [
+                        24.874556,
+                        42.003434
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vasil Levski",
+                  "text": "Ein Denkmal zu Ehren des bulgarischen Nationalhelden Wassil Lewski in Assenowgrad.",
+                  "category": "historical",
+                  "coords": [
+                        24.87697,
+                        42.011252
+                  ]
+            },
+            {
+                  "name": "Stanimashko lovno druzhestvo \"Sokol\"",
+                  "text": "Ein lokales Denkmal der Jagdgesellschaft Sokol in Assenowgrad.",
+                  "category": "historical",
+                  "coords": [
+                        24.842601,
+                        41.999424
+                  ]
+            },
+            {
+                  "name": "Vazrozhdensko uchilishte Sv. Georgi",
+                  "text": "Ein Kulturzentrum, das in einer ehemaligen historischen Schule des bulgarischen Wiedergeburt angesiedelt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        24.874983,
+                        41.999198
+                  ]
+            },
+            {
+                  "name": "Sv. Dimitrii Solunski",
+                  "text": "Eine orthodoxe Kirche in Assenowgrad, die dem Heiligen Demetrius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.877596,
+                        42.006563
+                  ]
+            },
+            {
+                  "name": "Ruenskoto ezero",
+                  "text": "Ein natürlicher See in den Rhodopen bei Asenovgrad mit klarem Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.824684,
+                        42.016447
+                  ]
+            },
+            {
+                  "name": "yaz. 40-te izvora",
+                  "text": "Der яз. 40-те извора in Asenovgrad ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        24.935055,
+                        42.00208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paleontologicheski muzei",
+                  "text": "Ez az aszenovgrádi múzeum prehisztorikus fosszíliák lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.880429,
+                        42.008166
+                  ]
+            },
+            {
+                  "name": "Asenova krepost",
+                  "text": "Ez a sziklán trónoló középkori várrom Aszenovgrád egyik jelképe.",
+                  "category": "castle",
+                  "coords": [
+                        24.873476,
+                        41.986684
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Az aszenovgrádi történelmi múzeum betekintést nyújt a város gazdag múltjába.",
+                  "category": "museum",
+                  "coords": [
+                        24.874481,
+                        42.006517
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Ez az aszenovgrádi múzeum a régió hagyományos életmódját és szokásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.871532,
+                        42.003701
+                  ]
+            },
+            {
+                  "name": "Vitus",
+                  "text": "Vizi vidámpark Aszenovgrádban, amely különféle szabadidős és úszómedencéket kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        24.852147,
+                        42.017469
+                  ]
+            },
+            {
+                  "name": "Pametnik na Gen. Dandevil",
+                  "text": "Egy kő obeliszk Dandevil tábornok tiszteletére Aszenovgrad központjában.",
+                  "category": "historical",
+                  "coords": [
+                        24.87063,
+                        42.006892
+                  ]
+            },
+            {
+                  "name": "Pametnik na Hristo Botev",
+                  "text": "Emlékmű Aszenovgrádban a híres bolgár költő és forradalmár, Hriszto Botev tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        24.874556,
+                        42.003434
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vasil Levski",
+                  "text": "Vaszil Levszki bolgár nemzeti hős tiszteletére emelt emlékmű Aszenovgradban.",
+                  "category": "historical",
+                  "coords": [
+                        24.87697,
+                        42.011252
+                  ]
+            },
+            {
+                  "name": "Stanimashko lovno druzhestvo \"Sokol\"",
+                  "text": "A helyi Sólyom vadásztársaság emlékműve Aszenovgradban.",
+                  "category": "historical",
+                  "coords": [
+                        24.842601,
+                        41.999424
+                  ]
+            },
+            {
+                  "name": "Vazrozhdensko uchilishte Sv. Georgi",
+                  "text": "A bolgár újjászületés korabeli egykori iskolában működő kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        24.874983,
+                        41.999198
+                  ]
+            },
+            {
+                  "name": "Sv. Dimitrii Solunski",
+                  "text": "Szent Demeter tiszteletére szentelt ortodox templom Aszenovgradban.",
+                  "category": "religious",
+                  "coords": [
+                        24.877596,
+                        42.006563
+                  ]
+            },
+            {
+                  "name": "Ruenskoto ezero",
+                  "text": "Egy természetes tó a Rodope-hegységben, Aszenovgrad közelében, tiszta vízzel.",
+                  "category": "natural",
+                  "coords": [
+                        24.824684,
+                        42.016447
+                  ]
+            },
+            {
+                  "name": "yaz. 40-te izvora",
+                  "text": "A яз. 40-те извора egy tó Asenovgrad területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        24.935055,
+                        42.00208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paleontologicheski muzei",
+                  "text": "Acest muzeu din Asenovgrad expune o colecție impresionantă de fosile preistorice.",
+                  "category": "museum",
+                  "coords": [
+                        24.880429,
+                        42.008166
+                  ]
+            },
+            {
+                  "name": "Asenova krepost",
+                  "text": "Această ruină de castel medieval domină de pe o stâncă și este un simbol al orașului Asenovgrad.",
+                  "category": "castle",
+                  "coords": [
+                        24.873476,
+                        41.986684
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Muzeul de Istorie din Asenovgrad oferă perspective asupra trecutului bogat al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        24.874481,
+                        42.006517
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Acest muzeu din Asenovgrad este dedicat modului de viață tradițional și obiceiurilor din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        24.871532,
+                        42.003701
+                  ]
+            },
+            {
+                  "name": "Vitus",
+                  "text": "Un parc acvatic în Asenovgrad, care oferă diverse bazine de agrement și înot pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        24.852147,
+                        42.017469
+                  ]
+            },
+            {
+                  "name": "Pametnik na Gen. Dandevil",
+                  "text": "Un obelisc de piatră dedicat generalului Dandevil în centrul orașului Asenovgrad.",
+                  "category": "historical",
+                  "coords": [
+                        24.87063,
+                        42.006892
+                  ]
+            },
+            {
+                  "name": "Pametnik na Hristo Botev",
+                  "text": "Un monument în Asenovgrad în onoarea celebrului poet și revoluționar bulgar Hristo Botev.",
+                  "category": "historical",
+                  "coords": [
+                        24.874556,
+                        42.003434
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vasil Levski",
+                  "text": "Un monument dedicat eroului național bulgar Vasil Levski în Asenovgrad.",
+                  "category": "historical",
+                  "coords": [
+                        24.87697,
+                        42.011252
+                  ]
+            },
+            {
+                  "name": "Stanimashko lovno druzhestvo \"Sokol\"",
+                  "text": "Un monument al societății locale de vânătoare Sokol din Asenovgrad.",
+                  "category": "historical",
+                  "coords": [
+                        24.842601,
+                        41.999424
+                  ]
+            },
+            {
+                  "name": "Vazrozhdensko uchilishte Sv. Georgi",
+                  "text": "Un centru cultural situat într-o fostă școală istorică din perioada Renașterii Bulgare.",
+                  "category": "cultural",
+                  "coords": [
+                        24.874983,
+                        41.999198
+                  ]
+            },
+            {
+                  "name": "Sv. Dimitrii Solunski",
+                  "text": "O biserică ortodoxă din Asenovgrad, dedicată Sfântului Dimitrie.",
+                  "category": "religious",
+                  "coords": [
+                        24.877596,
+                        42.006563
+                  ]
+            },
+            {
+                  "name": "Ruenskoto ezero",
+                  "text": "Un lac natural în Munții Rodopi, lângă Asenovgrad, cu apă limpede.",
+                  "category": "natural",
+                  "coords": [
+                        24.824684,
+                        42.016447
+                  ]
+            },
+            {
+                  "name": "yaz. 40-te izvora",
+                  "text": "яз. 40-те извора din Asenovgrad este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        24.935055,
+                        42.00208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paleontologicheski muzei",
+                  "text": "This museum in Asenovgrad showcases an impressive collection of prehistoric fossils.",
+                  "category": "museum",
+                  "coords": [
+                        24.880429,
+                        42.008166
+                  ]
+            },
+            {
+                  "name": "Asen's Fortress",
+                  "text": "This medieval castle ruin perched on a rock is a landmark of Asenovgrad.",
+                  "category": "castle",
+                  "coords": [
+                        24.873476,
+                        41.986684
+                  ]
+            },
+            {
+                  "name": "Museum of History",
+                  "text": "The Museum of History in Asenovgrad provides insights into the city's rich past.",
+                  "category": "museum",
+                  "coords": [
+                        24.874481,
+                        42.006517
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "This museum in Asenovgrad is dedicated to the traditional lifestyle and customs of the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.871532,
+                        42.003701
+                  ]
+            },
+            {
+                  "name": "Vitus",
+                  "text": "A water park in Asenovgrad offering various leisure and swimming pools for visitors.",
+                  "category": "family",
+                  "coords": [
+                        24.852147,
+                        42.017469
+                  ]
+            },
+            {
+                  "name": "Pametnik na Gen. Dandevil",
+                  "text": "A stone obelisk dedicated to General Dandevil in the center of Asenovgrad.",
+                  "category": "historical",
+                  "coords": [
+                        24.87063,
+                        42.006892
+                  ]
+            },
+            {
+                  "name": "Pametnik na Hristo Botev",
+                  "text": "A monument in Asenovgrad in honor of the famous Bulgarian poet and revolutionary Hristo Botev.",
+                  "category": "historical",
+                  "coords": [
+                        24.874556,
+                        42.003434
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vasil Levski",
+                  "text": "A monument dedicated to the Bulgarian national hero Vasil Levski in Assenowgrad.",
+                  "category": "historical",
+                  "coords": [
+                        24.87697,
+                        42.011252
+                  ]
+            },
+            {
+                  "name": "Stanimashko lovno druzhestvo \"Sokol\"",
+                  "text": "A local monument of the Sokol hunting society in Assenowgrad.",
+                  "category": "historical",
+                  "coords": [
+                        24.842601,
+                        41.999424
+                  ]
+            },
+            {
+                  "name": "Vazrozhdensko uchilishte Sv. Georgi",
+                  "text": "An arts centre housed in a former historical school from the Bulgarian National Revival period.",
+                  "category": "cultural",
+                  "coords": [
+                        24.874983,
+                        41.999198
+                  ]
+            },
+            {
+                  "name": "Sv. Dimitrii Solunski",
+                  "text": "An Orthodox church in Assenowgrad dedicated to Saint Demetrius.",
+                  "category": "religious",
+                  "coords": [
+                        24.877596,
+                        42.006563
+                  ]
+            },
+            {
+                  "name": "Lake Rouen",
+                  "text": "A natural lake in the Rhodope Mountains near Asenovgrad with clear water.",
+                  "category": "natural",
+                  "coords": [
+                        24.824684,
+                        42.016447
+                  ]
+            },
+            {
+                  "name": "yaz. 40-te izvora",
+                  "text": "The яз. 40-те извора in Asenovgrad is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        24.935055,
+                        42.00208
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Assenowgrad", hu: "Asszenovgrad", ro: "Asenovgrad", en: "Asenovgrad" },
@@ -885,7 +3756,484 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-asenovgrad-cities-v2.webp",
   },
   {
-    id: "bulgaria-dupnitsa-cities-v2", "sights": {"de": [{"name": "Kashta muzei „Stanke Dimitrov – Marek“", "text": "Das Geburtshaus von Stanke Dimitrow, das heute als Museum dient.", "category": "museum", "coords": [23.118227, 42.265366]}, {"name": "Kashtata muzei „Vasil Demirevski – Zhelo“", "text": "Ein Museum, das dem Leben von Vasil Demirevski gewidmet ist.", "category": "museum", "coords": [23.118821, 42.260755]}, {"name": "Istoricheski muzei - Dupnitsa", "text": "Das Historische Museum von Dupniza bewahrt das kulturelle Erbe dieser bulgarischen Region. Die Ausstellungen umfassen vielfältige Exponate, die die reiche Geschichte der Stadt dokumentieren. Wer mehr über die lokale Vergangenheit erfahren möchte, sollte sich diese Sammlungen nicht entgehen lassen.", "category": "museum", "coords": [23.119484, 42.26349]}, {"name": "Krepostta \"Kulata\"", "text": "Die Überreste einer mittelalterlichen Verteidigungsanlage über Dupniza.", "category": "castle", "coords": [23.126267, 42.268759]}, {"name": "Zookat", "text": "Ein kleiner lokaler Zoo, ideal für Familienausflüge in Dupniza.", "category": "family", "coords": [23.1423, 42.249732]}, {"name": "Obshtinski dramatichen teatar \"Nevena Kokanova\"", "text": "Ein Theater, das nach der berühmten Schauspielerin Nevena Kokanowa benannt ist.", "category": "cultural", "coords": [23.116578, 42.26514]}, {"name": "Pametnik \"Yatachkata\"", "text": "Ein Denkmal, das an die Geschichte der Widerstandskämpfer erinnert.", "category": "historical", "coords": [23.119315, 42.265006]}, {"name": "Park \"Rila\" (Dupnitsa)", "text": "Ein Stadtpark in Dupniza, der nach dem nahen Rila-Gebirge benannt ist.", "category": "park", "coords": [23.145098, 42.248782]}, {"name": "Antifashistki pametnik", "text": "Ein Denkmal in Dupniza, das der antifaschistischen Bewegung gewidmet ist.", "category": "historical", "coords": [23.119474, 42.289588]}, {"name": "tsarkva „Sveti Georgi Pobedonosets“", "text": "Eine orthodoxe Kirche in Dupniza, die dem Heiligen Georg gewidmet ist.", "category": "religious", "coords": [23.115263, 42.263261]}, {"name": "Tsarkva \"Sveti Nikola\"", "text": "Eine der ältesten Kirchen in Dupniza, gewidmet dem Heiligen Nikolaus.", "category": "religious", "coords": [23.128625, 42.267581]}, {"name": "Hram \"Pokrov Bogorodichen\"", "text": "Ein orthodoxes Gotteshaus in Dupniza, gewidmet dem Schutz der Gottesmutter.", "category": "religious", "coords": [23.126069, 42.267244]}, {"name": "yaz. Turchenitsa", "text": "Ein ruhiges Gewässer in Dupniza, ideal zum Entspannen.", "category": "natural", "coords": [23.052482, 42.280837]}], "hu": [{"name": "Kashta muzei „Stanke Dimitrov – Marek“", "text": "Sztanke Dimitrov szülőháza, amely ma múzeumként működik.", "category": "museum", "coords": [23.118227, 42.265366]}, {"name": "Kashtata muzei „Vasil Demirevski – Zhelo“", "text": "Vaszil Demirevszki életének szentelt múzeum.", "category": "museum", "coords": [23.118821, 42.260755]}, {"name": "Istoricheski muzei - Dupnitsa", "text": "A Dupnicai Történeti Múzeum ennek a bolgár régiónak a kulturális örökségét őrzi. A kiállítások sokféle tárlatot vonultatnak fel, amelyek a város gazdag történelmét dokumentálják. Aki szeretne többet megtudni a helyi múltról, annak nem szabad kihagynia ezeket a gyűjteményeket.", "category": "museum", "coords": [23.119484, 42.26349]}, {"name": "Krepostta \"Kulata\"", "text": "Egy középkori védelmi erődítmény maradványai Dupnica felett.", "category": "castle", "coords": [23.126267, 42.268759]}, {"name": "Zookat", "text": "Kis helyi állatkert, amely ideális családi kirándulásokhoz Dupnicában.", "category": "family", "coords": [23.1423, 42.249732]}, {"name": "Obshtinski dramatichen teatar \"Nevena Kokanova\"", "text": "A híres Nevena Kokanova színésznőről elnevezett színház.", "category": "cultural", "coords": [23.116578, 42.26514]}, {"name": "Pametnik \"Yatachkata\"", "text": "Az ellenállási harcosok történetére emlékeztető emlékmű.", "category": "historical", "coords": [23.119315, 42.265006]}, {"name": "Park \"Rila\" (Dupnitsa)", "text": "Városi park Dupnicában, amely a közeli Rila-hegységről kapta a nevét.", "category": "park", "coords": [23.145098, 42.248782]}, {"name": "Antifashistki pametnik", "text": "Az antifasiszta mozgalomnak szentelt emlékmű Dupnicában.", "category": "historical", "coords": [23.119474, 42.289588]}, {"name": "tsarkva „Sveti Georgi Pobedonosets“", "text": "Szent Györgynek szentelt ortodox templom Dupnicában.", "category": "religious", "coords": [23.115263, 42.263261]}, {"name": "Tsarkva \"Sveti Nikola\"", "text": "Dupnica egyik legrégebbi temploma, amelyet Szent Miklósnak szenteltek.", "category": "religious", "coords": [23.128625, 42.267581]}, {"name": "Hram \"Pokrov Bogorodichen\"", "text": "Istenanyának szentelt ortodox templom Dupnicában.", "category": "religious", "coords": [23.126069, 42.267244]}, {"name": "yaz. Turchenitsa", "text": "Csendes vízfelület Dupnica területén, ideális a pihenéshez.", "category": "natural", "coords": [23.052482, 42.280837]}], "ro": [{"name": "Kashta muzei „Stanke Dimitrov – Marek“", "text": "Casa natală a lui Stanke Dimitrov, care servește astăzi ca muzeu.", "category": "museum", "coords": [23.118227, 42.265366]}, {"name": "Kashtata muzei „Vasil Demirevski – Zhelo“", "text": "Un muzeu dedicat vieții lui Vasil Demirevski.", "category": "museum", "coords": [23.118821, 42.260755]}, {"name": "Istoricheski muzei - Dupnitsa", "text": "Muzeul de Istorie din Dupnița păstrează moștenirea culturală a acestei regiuni bulgare. Expozițiile includ diverse artefacte care documentează istoria bogată a orașului. Oricine dorește să afle mai multe despre trecutul local nu ar trebui să rateze aceste colecții.", "category": "museum", "coords": [23.119484, 42.26349]}, {"name": "Krepostta \"Kulata\"", "text": "Vestigiile unei fortificații medievale de apărare deasupra Dupniței.", "category": "castle", "coords": [23.126267, 42.268759]}, {"name": "Zookat", "text": "O mică grădină zoologică locală, ideală pentru excursii în familie în Dupnița.", "category": "family", "coords": [23.1423, 42.249732]}, {"name": "Obshtinski dramatichen teatar \"Nevena Kokanova\"", "text": "Un teatru numit după celebra actriță Nevena Kokanova.", "category": "cultural", "coords": [23.116578, 42.26514]}, {"name": "Pametnik \"Yatachkata\"", "text": "Un monument care comemorează istoria luptătorilor din rezistență.", "category": "historical", "coords": [23.119315, 42.265006]}, {"name": "Park \"Rila\" (Dupnitsa)", "text": "Un parc orașenesc în Dupnița, numit după munții Rila din apropiere.", "category": "park", "coords": [23.145098, 42.248782]}, {"name": "Antifashistki pametnik", "text": "Un monument din Dupnița dedicat mișcării antifasciste.", "category": "historical", "coords": [23.119474, 42.289588]}, {"name": "tsarkva „Sveti Georgi Pobedonosets“", "text": "O biserică ortodoxă din Dupnița dedicată Sfântului Gheorghe.", "category": "religious", "coords": [23.115263, 42.263261]}, {"name": "Tsarkva \"Sveti Nikola\"", "text": "Una dintre cele mai vechi biserici din Dupnița, dedicată Sfântului Nicolae.", "category": "religious", "coords": [23.128625, 42.267581]}, {"name": "Hram \"Pokrov Bogorodichen\"", "text": "Un lăcaș de cult ortodox din Dupnița, dedicat Acoperământului Maicii Domnului.", "category": "religious", "coords": [23.126069, 42.267244]}, {"name": "yaz. Turchenitsa", "text": "O zonă liniștită cu apă în Dupnitsa, ideală pentru relaxare.", "category": "natural", "coords": [23.052482, 42.280837]}], "en": [{"name": "Kashta muzei „Stanke Dimitrov – Marek“", "text": "The birthplace of Stanke Dimitrov, now serving as a museum.", "category": "museum", "coords": [23.118227, 42.265366]}, {"name": "Kashtata muzei „Vasil Demirevski – Zhelo“", "text": "A museum dedicated to the life of Vasil Demirevski.", "category": "museum", "coords": [23.118821, 42.260755]}, {"name": "Istoricheski muzei - Dupnitsa", "text": "The Historical Museum of Dupnitsa preserves the cultural heritage of this Bulgarian region. The exhibitions feature a diverse array of artifacts that document the rich history of the city. Anyone wishing to learn more about the local past should not miss these collections.", "category": "museum", "coords": [23.119484, 42.26349]}, {"name": "Krepostta \"Kulata\"", "text": "The remains of a medieval defensive fortification above Dupnitsa.", "category": "castle", "coords": [23.126267, 42.268759]}, {"name": "Zookat", "text": "A small local zoo, ideal for family outings in Dupnitsa.", "category": "family", "coords": [23.1423, 42.249732]}, {"name": "Obshtinski dramatichen teatar \"Nevena Kokanova\"", "text": "A theatre named after the famous actress Nevena Kokanova.", "category": "cultural", "coords": [23.116578, 42.26514]}, {"name": "Pametnik \"Yatachkata\"", "text": "A memorial monument commemorating the history of resistance fighters.", "category": "historical", "coords": [23.119315, 42.265006]}, {"name": "Rila Park (Dupnitsa)", "text": "A city park in Dupnitsa named after the nearby Rila Mountains.", "category": "park", "coords": [23.145098, 42.248782]}, {"name": "Antifashistki pametnik", "text": "A monument in Dupnitsa dedicated to the anti-fascist movement.", "category": "historical", "coords": [23.119474, 42.289588]}, {"name": "St. George", "text": "An Orthodox church in Dupnitsa dedicated to Saint George.", "category": "religious", "coords": [23.115263, 42.263261]}, {"name": "Tsarkva \"Sveti Nikola\"", "text": "One of the oldest churches in Dupnitsa, dedicated to Saint Nicholas.", "category": "religious", "coords": [23.128625, 42.267581]}, {"name": "Hram \"Pokrov Bogorodichen\"", "text": "An Orthodox place of worship in Dupnitsa dedicated to the Intercession of the Mother of God.", "category": "religious", "coords": [23.126069, 42.267244]}, {"name": "yaz. Turchenitsa", "text": "A quiet body of water in Dupnitsa, ideal for relaxation.", "category": "natural", "coords": [23.052482, 42.280837]}]},
+    id: "bulgaria-dupnitsa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kashta muzei „Stanke Dimitrov – Marek“",
+                  "text": "Geburtshausmuseum von Stanke Dimitrow – Marek, einem Revolutionär, in Dupniza.",
+                  "category": "museum",
+                  "coords": [
+                        23.118227,
+                        42.265366
+                  ]
+            },
+            {
+                  "name": "Kashtata muzei „Vasil Demirevski – Zhelo“",
+                  "text": "Geburtshausmuseum von Wassil Demirewski – Scheljo, einem bulgarischen Revolutionär, in Dupniza.",
+                  "category": "museum",
+                  "coords": [
+                        23.118821,
+                        42.260755
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei - Dupnitsa",
+                  "text": "Das Historische Museum von Dupniza bewahrt das kulturelle Erbe dieser bulgarischen Region. Die Ausstellungen umfassen vielfältige Exponate, die die reiche Geschichte der Stadt dokumentieren. Wer mehr über die lokale Vergangenheit erfahren möchte, sollte sich diese Sammlungen nicht entgehen lassen.",
+                  "category": "museum",
+                  "coords": [
+                        23.119484,
+                        42.26349
+                  ]
+            },
+            {
+                  "name": "Krepostta \"Kulata\"",
+                  "text": "Die Überreste einer mittelalterlichen Verteidigungsanlage über Dupniza.",
+                  "category": "castle",
+                  "coords": [
+                        23.126267,
+                        42.268759
+                  ]
+            },
+            {
+                  "name": "Zookat",
+                  "text": "Ein kleiner lokaler Zoo, ideal für Familienausflüge in Dupniza.",
+                  "category": "family",
+                  "coords": [
+                        23.1423,
+                        42.249732
+                  ]
+            },
+            {
+                  "name": "Obshtinski dramatichen teatar \"Nevena Kokanova\"",
+                  "text": "Ein Theater, das nach der berühmten Schauspielerin Nevena Kokanowa benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        23.116578,
+                        42.26514
+                  ]
+            },
+            {
+                  "name": "Pametnik \"Yatachkata\"",
+                  "text": "Ein Denkmal, das an die Geschichte der Widerstandskämpfer erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        23.119315,
+                        42.265006
+                  ]
+            },
+            {
+                  "name": "Park \"Rila\" (Dupnitsa)",
+                  "text": "Ein Stadtpark in Dupniza, der nach dem nahen Rila-Gebirge benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        23.145098,
+                        42.248782
+                  ]
+            },
+            {
+                  "name": "Antifashistki pametnik",
+                  "text": "Ein Denkmal in Dupniza, das der antifaschistischen Bewegung gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.119474,
+                        42.289588
+                  ]
+            },
+            {
+                  "name": "tsarkva „Sveti Georgi Pobedonosets“",
+                  "text": "Eine orthodoxe Kirche in Dupniza, die dem Heiligen Georg gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.115263,
+                        42.263261
+                  ]
+            },
+            {
+                  "name": "Tsarkva \"Sveti Nikola\"",
+                  "text": "Eine der ältesten Kirchen in Dupniza, gewidmet dem Heiligen Nikolaus.",
+                  "category": "religious",
+                  "coords": [
+                        23.128625,
+                        42.267581
+                  ]
+            },
+            {
+                  "name": "Hram \"Pokrov Bogorodichen\"",
+                  "text": "Ein orthodoxes Gotteshaus in Dupniza, gewidmet dem Schutz der Gottesmutter.",
+                  "category": "religious",
+                  "coords": [
+                        23.126069,
+                        42.267244
+                  ]
+            },
+            {
+                  "name": "yaz. Turchenitsa",
+                  "text": "Ein ruhiges Gewässer in Dupniza, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        23.052482,
+                        42.280837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kashta muzei „Stanke Dimitrov – Marek“",
+                  "text": "Sztanke Dimitrov – Marek forradalmár szülőházmúzeuma Dupnicában.",
+                  "category": "museum",
+                  "coords": [
+                        23.118227,
+                        42.265366
+                  ]
+            },
+            {
+                  "name": "Kashtata muzei „Vasil Demirevski – Zhelo“",
+                  "text": "Vaszil Demirevszki – Zselo bolgár forradalmár szülőházmúzeuma Dupnicában.",
+                  "category": "museum",
+                  "coords": [
+                        23.118821,
+                        42.260755
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei - Dupnitsa",
+                  "text": "A Dupnicai Történeti Múzeum ennek a bolgár régiónak a kulturális örökségét őrzi. A kiállítások sokféle tárlatot vonultatnak fel, amelyek a város gazdag történelmét dokumentálják. Aki szeretne többet megtudni a helyi múltról, annak nem szabad kihagynia ezeket a gyűjteményeket.",
+                  "category": "museum",
+                  "coords": [
+                        23.119484,
+                        42.26349
+                  ]
+            },
+            {
+                  "name": "Krepostta \"Kulata\"",
+                  "text": "Egy középkori védelmi erődítmény maradványai Dupnica felett.",
+                  "category": "castle",
+                  "coords": [
+                        23.126267,
+                        42.268759
+                  ]
+            },
+            {
+                  "name": "Zookat",
+                  "text": "Kis helyi állatkert, amely ideális családi kirándulásokhoz Dupnicában.",
+                  "category": "family",
+                  "coords": [
+                        23.1423,
+                        42.249732
+                  ]
+            },
+            {
+                  "name": "Obshtinski dramatichen teatar \"Nevena Kokanova\"",
+                  "text": "A híres Nevena Kokanova színésznőről elnevezett színház.",
+                  "category": "cultural",
+                  "coords": [
+                        23.116578,
+                        42.26514
+                  ]
+            },
+            {
+                  "name": "Pametnik \"Yatachkata\"",
+                  "text": "Az ellenállási harcosok történetére emlékeztető emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        23.119315,
+                        42.265006
+                  ]
+            },
+            {
+                  "name": "Park \"Rila\" (Dupnitsa)",
+                  "text": "Városi park Dupnicában, amely a közeli Rila-hegységről kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        23.145098,
+                        42.248782
+                  ]
+            },
+            {
+                  "name": "Antifashistki pametnik",
+                  "text": "Az antifasiszta mozgalomnak szentelt emlékmű Dupnicában.",
+                  "category": "historical",
+                  "coords": [
+                        23.119474,
+                        42.289588
+                  ]
+            },
+            {
+                  "name": "tsarkva „Sveti Georgi Pobedonosets“",
+                  "text": "Szent Györgynek szentelt ortodox templom Dupnicában.",
+                  "category": "religious",
+                  "coords": [
+                        23.115263,
+                        42.263261
+                  ]
+            },
+            {
+                  "name": "Tsarkva \"Sveti Nikola\"",
+                  "text": "Dupnica egyik legrégebbi temploma, amelyet Szent Miklósnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        23.128625,
+                        42.267581
+                  ]
+            },
+            {
+                  "name": "Hram \"Pokrov Bogorodichen\"",
+                  "text": "Istenanyának szentelt ortodox templom Dupnicában.",
+                  "category": "religious",
+                  "coords": [
+                        23.126069,
+                        42.267244
+                  ]
+            },
+            {
+                  "name": "yaz. Turchenitsa",
+                  "text": "Csendes vízfelület Dupnica területén, ideális a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        23.052482,
+                        42.280837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kashta muzei „Stanke Dimitrov – Marek“",
+                  "text": "Casa muzeu a lui Stanke Dimitrov – Marek, un revoluționar, în Dupnița.",
+                  "category": "museum",
+                  "coords": [
+                        23.118227,
+                        42.265366
+                  ]
+            },
+            {
+                  "name": "Kashtata muzei „Vasil Demirevski – Zhelo“",
+                  "text": "Casa muzeu a lui Vasil Demirevski – Zhelo, un revoluționar bulgar, în Dupnița.",
+                  "category": "museum",
+                  "coords": [
+                        23.118821,
+                        42.260755
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei - Dupnitsa",
+                  "text": "Muzeul de Istorie din Dupnița păstrează moștenirea culturală a acestei regiuni bulgare. Expozițiile includ diverse artefacte care documentează istoria bogată a orașului. Oricine dorește să afle mai multe despre trecutul local nu ar trebui să rateze aceste colecții.",
+                  "category": "museum",
+                  "coords": [
+                        23.119484,
+                        42.26349
+                  ]
+            },
+            {
+                  "name": "Krepostta \"Kulata\"",
+                  "text": "Vestigiile unei fortificații medievale de apărare deasupra Dupniței.",
+                  "category": "castle",
+                  "coords": [
+                        23.126267,
+                        42.268759
+                  ]
+            },
+            {
+                  "name": "Zookat",
+                  "text": "O mică grădină zoologică locală, ideală pentru excursii în familie în Dupnița.",
+                  "category": "family",
+                  "coords": [
+                        23.1423,
+                        42.249732
+                  ]
+            },
+            {
+                  "name": "Obshtinski dramatichen teatar \"Nevena Kokanova\"",
+                  "text": "Un teatru numit după celebra actriță Nevena Kokanova.",
+                  "category": "cultural",
+                  "coords": [
+                        23.116578,
+                        42.26514
+                  ]
+            },
+            {
+                  "name": "Pametnik \"Yatachkata\"",
+                  "text": "Un monument care comemorează istoria luptătorilor din rezistență.",
+                  "category": "historical",
+                  "coords": [
+                        23.119315,
+                        42.265006
+                  ]
+            },
+            {
+                  "name": "Park \"Rila\" (Dupnitsa)",
+                  "text": "Un parc orașenesc în Dupnița, numit după munții Rila din apropiere.",
+                  "category": "park",
+                  "coords": [
+                        23.145098,
+                        42.248782
+                  ]
+            },
+            {
+                  "name": "Antifashistki pametnik",
+                  "text": "Un monument din Dupnița dedicat mișcării antifasciste.",
+                  "category": "historical",
+                  "coords": [
+                        23.119474,
+                        42.289588
+                  ]
+            },
+            {
+                  "name": "tsarkva „Sveti Georgi Pobedonosets“",
+                  "text": "O biserică ortodoxă din Dupnița dedicată Sfântului Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        23.115263,
+                        42.263261
+                  ]
+            },
+            {
+                  "name": "Tsarkva \"Sveti Nikola\"",
+                  "text": "Una dintre cele mai vechi biserici din Dupnița, dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        23.128625,
+                        42.267581
+                  ]
+            },
+            {
+                  "name": "Hram \"Pokrov Bogorodichen\"",
+                  "text": "Un lăcaș de cult ortodox din Dupnița, dedicat Acoperământului Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        23.126069,
+                        42.267244
+                  ]
+            },
+            {
+                  "name": "yaz. Turchenitsa",
+                  "text": "O zonă liniștită cu apă în Dupnitsa, ideală pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        23.052482,
+                        42.280837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kashta muzei „Stanke Dimitrov – Marek“",
+                  "text": "House museum of Stanke Dimitrov – Marek, a revolutionary leader, in Dupnitsa.",
+                  "category": "museum",
+                  "coords": [
+                        23.118227,
+                        42.265366
+                  ]
+            },
+            {
+                  "name": "Kashtata muzei „Vasil Demirevski – Zhelo“",
+                  "text": "House museum of Vasil Demirevski – Zhelo, a Bulgarian revolutionary, in Dupnitsa.",
+                  "category": "museum",
+                  "coords": [
+                        23.118821,
+                        42.260755
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei - Dupnitsa",
+                  "text": "The Historical Museum of Dupnitsa preserves the cultural heritage of this Bulgarian region. The exhibitions feature a diverse array of artifacts that document the rich history of the city. Anyone wishing to learn more about the local past should not miss these collections.",
+                  "category": "museum",
+                  "coords": [
+                        23.119484,
+                        42.26349
+                  ]
+            },
+            {
+                  "name": "Krepostta \"Kulata\"",
+                  "text": "The remains of a medieval defensive fortification above Dupnitsa.",
+                  "category": "castle",
+                  "coords": [
+                        23.126267,
+                        42.268759
+                  ]
+            },
+            {
+                  "name": "Zookat",
+                  "text": "A small local zoo, ideal for family outings in Dupnitsa.",
+                  "category": "family",
+                  "coords": [
+                        23.1423,
+                        42.249732
+                  ]
+            },
+            {
+                  "name": "Obshtinski dramatichen teatar \"Nevena Kokanova\"",
+                  "text": "A theatre named after the famous actress Nevena Kokanova.",
+                  "category": "cultural",
+                  "coords": [
+                        23.116578,
+                        42.26514
+                  ]
+            },
+            {
+                  "name": "Pametnik \"Yatachkata\"",
+                  "text": "A memorial monument commemorating the history of resistance fighters.",
+                  "category": "historical",
+                  "coords": [
+                        23.119315,
+                        42.265006
+                  ]
+            },
+            {
+                  "name": "Rila Park (Dupnitsa)",
+                  "text": "A city park in Dupnitsa named after the nearby Rila Mountains.",
+                  "category": "park",
+                  "coords": [
+                        23.145098,
+                        42.248782
+                  ]
+            },
+            {
+                  "name": "Antifashistki pametnik",
+                  "text": "A monument in Dupnitsa dedicated to the anti-fascist movement.",
+                  "category": "historical",
+                  "coords": [
+                        23.119474,
+                        42.289588
+                  ]
+            },
+            {
+                  "name": "St. George",
+                  "text": "An Orthodox church in Dupnitsa dedicated to Saint George.",
+                  "category": "religious",
+                  "coords": [
+                        23.115263,
+                        42.263261
+                  ]
+            },
+            {
+                  "name": "Tsarkva \"Sveti Nikola\"",
+                  "text": "One of the oldest churches in Dupnitsa, dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        23.128625,
+                        42.267581
+                  ]
+            },
+            {
+                  "name": "Hram \"Pokrov Bogorodichen\"",
+                  "text": "An Orthodox place of worship in Dupnitsa dedicated to the Intercession of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        23.126069,
+                        42.267244
+                  ]
+            },
+            {
+                  "name": "yaz. Turchenitsa",
+                  "text": "A quiet body of water in Dupnitsa, ideal for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        23.052482,
+                        42.280837
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Dupniza", hu: "Dupnica", ro: "Dupnița", en: "Dupnitsa" },
@@ -1101,7 +4449,376 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-koprivshtitsa-cities-v2.webp",
   },
   {
-    id: "bulgaria-kavarna-cities-v2", "sights": {"de": [{"name": "Babeshkiya plazh", "text": "Ein Strand bei Kavarna am Schwarzen Meer.", "category": "recreational", "coords": [28.352647, 43.413371]}, {"name": "Bendida Beach", "text": "Bendida Beach in der Nähe von Kavarna ist ein malerischer Rückzugsort direkt am Schwarzen Meer. Die geschützte Bucht sorgt für ruhiges Wasser und ein intimes, fast unberührtes Ambiente, das zum Entspannen einlädt. Besucher können sich am Sandstrand sonnen und die Schönheit der bulpickergarischen Küstenlinie auf sich wirken lassen. Es ist ein herrliches Ziel für all jene, die Ruhe abseits der überlaufenen Touristenhochburgen suchen.", "category": "recreational", "coords": [28.298808, 43.416383]}, {"name": "Argata Beach", "text": "Argata Beach ist ein verborgenes Juwel am Schwarzen Meer in der Region Kavarna, das mit unberührter Naturschönheit punktet. Der feine Sand und das klare Wasser schaffen eine exklusive und friedliche Atmosphäre für Badegäste. Hier kann man dem Rauschen der Wellen lauschen und ungestört die wärmende Sonne genießen. Wer ein stilles Fleckchen für ausgiebige Erholung am Wasser sucht, ist an diesem Küstenabschnitt genau richtig.", "category": "recreational", "coords": [28.288095, 43.413909]}, {"name": "Byzone", "text": "Ruinen einer antiken Siedlung und Festung an der Küste von Kawarna.", "category": "historical", "coords": [28.347262, 43.414087]}, {"name": "Istoricheski muzei (Kavarna)", "text": "Ein Museum, das die reiche Geschichte der Region Kawarna präsentiert.", "category": "museum", "coords": [28.340178, 43.432195]}, {"name": "Etnogarfski kompleks", "text": "Ein Museum in Kawarna, das lokales Kunsthandwerk und Traditionen zeigt.", "category": "museum", "coords": [28.334569, 43.430226]}, {"name": "Tschirakman", "text": "Ein markantes Kap und Aussichtspunkt mit Blick auf das Meer bei Kawarna.", "category": "natural", "coords": [28.349021, 43.412845]}, {"name": "Memorial na ruskite voini \"Kostnitsa\"", "text": "Ein Denkmal in Kawarna zum Gedenken an die russischen Soldaten.", "category": "historical", "coords": [28.340892, 43.436531]}, {"name": "Hristo Gradechliev", "text": "Eine Kunstgalerie in Kawarna, benannt nach dem Künstler Hristo Gradechliev.", "category": "museum", "coords": [28.337747, 43.42967]}, {"name": "Thracian Cliffs Lake", "text": "Ein beeindruckender See in Kawarna mit schöner Aussicht.", "category": "natural", "coords": [28.282825, 43.414182]}], "hu": [{"name": "Babeshkiya plazh", "text": "Strand Kavarna közelében a Fekete-tengeren.", "category": "recreational", "coords": [28.352647, 43.413371]}, {"name": "Bendida Beach", "text": "A Kavarna közelében található Bendida Beach egy festői menedékhely közvetlenül a Fekete-tenger partján. A védett öböl nyugodt vizet és intim, szinte érintetlen hangulatot biztosít, amely pihenésre hívogat. A látogatók a homokos tengerparton napozhatnak, és magukba szívhatják a bolgár partvidék szépségét. Csodálatos célpont mindazok számára, akik a zsúfolt turistaközpontoktól távol keresnek nyugalmat.", "category": "recreational", "coords": [28.298808, 43.416383]}, {"name": "Argata Beach", "text": "Az Argata Beach egy rejtett gyöngyszem a Fekete-tenger partján Kavarna térségében, amely érintetlen természeti szépségével hódít. A finom homok és a tiszta víz exkluzív és békés légkört teremt a fürdőzők számára. Itt a hullámok morajlását hallgatva zavartalanul élvezhetjük a melengető napsütést. Aki egy csendes zugot keres a vízparti pihenéshez, ezen a partszakaszon a legjobb helyen jár.", "category": "recreational", "coords": [28.288095, 43.413909]}, {"name": "Byzone", "text": "Egy ókori település és erődítmény romjai Kavarna tengerpartján.", "category": "historical", "coords": [28.347262, 43.414087]}, {"name": "Istoricheski muzei (Kavarna)", "text": "Kavarna régiójának gazdag történelmét bemutató múzeum.", "category": "museum", "coords": [28.340178, 43.432195]}, {"name": "Etnogarfski kompleks", "text": "Helyi népművészetet és hagyományokat bemutató néprajzi múzeum Kavarnában.", "category": "museum", "coords": [28.334569, 43.430226]}, {"name": "Chirakman", "text": "Jellegzetes fok és kilátópont a tengerre Kavarna közelében.", "category": "natural", "coords": [28.349021, 43.412845]}, {"name": "Memorial na ruskite voini \"Kostnitsa\"", "text": "Emlékmű Kavarnában az orosz katonák emlékére.", "category": "historical", "coords": [28.340892, 43.436531]}, {"name": "Hristo Gradechliev", "text": "Hriszto Gradecliev művészről elnevezett galéria Kavarnában.", "category": "museum", "coords": [28.337747, 43.42967]}, {"name": "Thracian Cliffs Lake", "text": "Lenyűgöző tó Kavarna területén, szép kilátással.", "category": "natural", "coords": [28.282825, 43.414182]}], "ro": [{"name": "Babeshkiya plazh", "text": "O plajă lângă Kavarna la Marea Neagră.", "category": "recreational", "coords": [28.352647, 43.413371]}, {"name": "Bendida Beach", "text": "Plaja Bendida din apropiere de Kavarna este un refugiu pitoresc chiar pe malul Mării Negre. Golful protejat asigură ape calme și o ambianță intimă, aproape neatinsă, care invită la relaxare. Vizitatorii pot face plajă pe nisip și se pot bucura de frumusețea liniei de coastă bulgare. Este o destinație minunată pentru toți cei care caută liniște departe de centrele turistice aglomerate.", "category": "recreational", "coords": [28.298808, 43.416383]}, {"name": "Argata Beach", "text": "Plaja Argata este o bijuterie ascunsă la Marea Neagră în regiunea Kavarna, care punctează prin frumusețea sa naturală neatinsă. Nisipul fin și apa limpede creează o atmosferă exclusivistă și pașnică pentru iubitorii de scăldat. Aici puteți asculta murmurul valurilor și vă puteți bucura nestingheriți de soarele cald. Cei care caută un colț liniștit pentru o recreere prelungită la malul apei se află exact unde trebuie pe această coastă.", "category": "recreational", "coords": [28.288095, 43.413909]}, {"name": "Byzone", "text": "Ruinele unei așezări și cetăți antice de pe coasta orașului Cavarna.", "category": "historical", "coords": [28.347262, 43.414087]}, {"name": "Istoricheski muzei (Kavarna)", "text": "Un muzeu care prezintă istoria bogată a regiunii Cavarna.", "category": "museum", "coords": [28.340178, 43.432195]}, {"name": "Etnogarfski kompleks", "text": "Un muzeu din Cavarna care prezintă meșteșugurile și tradițiile locale.", "category": "museum", "coords": [28.334569, 43.430226]}, {"name": "Chirakman", "text": "Un promontoriu și punct de observație cu vedere la mare lângă Cavarna.", "category": "natural", "coords": [28.349021, 43.412845]}, {"name": "Memorial na ruskite voini \"Kostnitsa\"", "text": "Un monument în Cavarna ridicat în memoria soldaților ruși.", "category": "historical", "coords": [28.340892, 43.436531]}, {"name": "Hristo Gradechliev", "text": "O galerie de artă din Cavarna, numită după artistul Hristo Gradechliev.", "category": "museum", "coords": [28.337747, 43.42967]}, {"name": "Thracian Cliffs Lake", "text": "Un lac impresionant în Kavarna, cu o priveliște frumoasă.", "category": "natural", "coords": [28.282825, 43.414182]}], "en": [{"name": "Babeshkiya plazh", "text": "A beach near Kavarna on the Black Sea.", "category": "recreational", "coords": [28.352647, 43.413371]}, {"name": "Bendida Beach", "text": "Bendida Beach near Kavarna is a picturesque retreat located right on the Black Sea. The sheltered bay ensures calm waters and an intimate, almost pristine ambiance that invites you to completely unwind. Visitors can sunbathe on the sandy beach while taking in the beauty of the Bulgarian coastline. It serves as a wonderful destination for anyone seeking tranquility away from crowded tourist hubs.", "category": "recreational", "coords": [28.298808, 43.416383]}, {"name": "Argata Beach", "text": "Argata Beach is a hidden gem on the Black Sea in the Kavarna region, standing out for its unspoiled natural beauty. The fine sand and clear water create an exclusive and peaceful atmosphere for bathers. You can easily listen to the soothing sound of the waves while enjoying the warm sun undisturbed. Anyone looking for a quiet spot for extensive relaxation by the water will find this coastal stretch absolutely perfect.", "category": "recreational", "coords": [28.288095, 43.413909]}, {"name": "Byzone", "text": "Ruins of an ancient settlement and fortress on the coast of Kavarna.", "category": "historical", "coords": [28.347262, 43.414087]}, {"name": "Kavarna Historical Museum", "text": "A museum showcasing the rich history of the Kavarna region.", "category": "museum", "coords": [28.340178, 43.432195]}, {"name": "Ethnographic Museum", "text": "A museum in Kavarna showcasing local crafts and traditions.", "category": "museum", "coords": [28.334569, 43.430226]}, {"name": "Chirakman", "text": "A prominent cape and viewpoint overlooking the sea near Kavarna.", "category": "natural", "coords": [28.349021, 43.412845]}, {"name": "Memorial to the Russian soldiers \"Kostnitsa\"", "text": "A monument in Kavarna commemorating Russian soldiers.", "category": "historical", "coords": [28.340892, 43.436531]}, {"name": "Hristo Gradechliev", "text": "An art gallery in Kavarna named after the artist Hristo Gradechliev.", "category": "museum", "coords": [28.337747, 43.42967]}, {"name": "Thracian Cliffs Lake", "text": "An impressive lake in Kavarna with a beautiful view.", "category": "natural", "coords": [28.282825, 43.414182]}]},
+    id: "bulgaria-kavarna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Babeshkiya plazh",
+                  "text": "Ein Sandstrand an der Schwarzmeerküste nahe Kavarna mit flachem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        28.352647,
+                        43.413371
+                  ]
+            },
+            {
+                  "name": "Bendida Beach",
+                  "text": "Bendida Beach in der Nähe von Kavarna ist ein malerischer Rückzugsort direkt am Schwarzen Meer. Die geschützte Bucht sorgt für ruhiges Wasser und ein intimes, fast unberührtes Ambiente, das zum Entspannen einlädt. Besucher können sich am Sandstrand sonnen und die Schönheit der bulpickergarischen Küstenlinie auf sich wirken lassen. Es ist ein herrliches Ziel für all jene, die Ruhe abseits der überlaufenen Touristenhochburgen suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298808,
+                        43.416383
+                  ]
+            },
+            {
+                  "name": "Argata Beach",
+                  "text": "Argata Beach ist ein verborgenes Juwel am Schwarzen Meer in der Region Kavarna, das mit unberührter Naturschönheit punktet. Der feine Sand und das klare Wasser schaffen eine exklusive und friedliche Atmosphäre für Badegäste. Hier kann man dem Rauschen der Wellen lauschen und ungestört die wärmende Sonne genießen. Wer ein stilles Fleckchen für ausgiebige Erholung am Wasser sucht, ist an diesem Küstenabschnitt genau richtig.",
+                  "category": "recreational",
+                  "coords": [
+                        28.288095,
+                        43.413909
+                  ]
+            },
+            {
+                  "name": "Byzone",
+                  "text": "Ruinen einer antiken Siedlung und Festung an der Küste von Kawarna.",
+                  "category": "historical",
+                  "coords": [
+                        28.347262,
+                        43.414087
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei (Kavarna)",
+                  "text": "Ein Museum, das die reiche Geschichte der Region Kawarna präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        28.340178,
+                        43.432195
+                  ]
+            },
+            {
+                  "name": "Etnogarfski kompleks",
+                  "text": "Ein Museum in Kawarna, das lokales Kunsthandwerk und Traditionen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        28.334569,
+                        43.430226
+                  ]
+            },
+            {
+                  "name": "Tschirakman",
+                  "text": "Ein markantes Kap und Aussichtspunkt mit Blick auf das Meer bei Kawarna.",
+                  "category": "natural",
+                  "coords": [
+                        28.349021,
+                        43.412845
+                  ]
+            },
+            {
+                  "name": "Memorial na ruskite voini \"Kostnitsa\"",
+                  "text": "Das Denkmal für die gefallenen russischen Soldaten ‚Kostnitsa‘ in Kavarna wurde am 5. November 1981 eingeweiht.",
+                  "category": "historical",
+                  "coords": [
+                        28.340892,
+                        43.436531
+                  ]
+            },
+            {
+                  "name": "Hristo Gradechliev",
+                  "text": "Eine Kunstgalerie in Kawarna, benannt nach dem Künstler Hristo Gradechliev.",
+                  "category": "museum",
+                  "coords": [
+                        28.337747,
+                        43.42967
+                  ]
+            },
+            {
+                  "name": "Thracian Cliffs Lake",
+                  "text": "Ein Süßwassersee zwischen den Thrakischen Klippen mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        28.282825,
+                        43.414182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Babeshkiya plazh",
+                  "text": "Egy homokos strand a Fekete-tenger partján, Kavarna közelében, sekély vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        28.352647,
+                        43.413371
+                  ]
+            },
+            {
+                  "name": "Bendida Beach",
+                  "text": "A Kavarna közelében található Bendida Beach egy festői menedékhely közvetlenül a Fekete-tenger partján. A védett öböl nyugodt vizet és intim, szinte érintetlen hangulatot biztosít, amely pihenésre hívogat. A látogatók a homokos tengerparton napozhatnak, és magukba szívhatják a bolgár partvidék szépségét. Csodálatos célpont mindazok számára, akik a zsúfolt turistaközpontoktól távol keresnek nyugalmat.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298808,
+                        43.416383
+                  ]
+            },
+            {
+                  "name": "Argata Beach",
+                  "text": "Az Argata Beach egy rejtett gyöngyszem a Fekete-tenger partján Kavarna térségében, amely érintetlen természeti szépségével hódít. A finom homok és a tiszta víz exkluzív és békés légkört teremt a fürdőzők számára. Itt a hullámok morajlását hallgatva zavartalanul élvezhetjük a melengető napsütést. Aki egy csendes zugot keres a vízparti pihenéshez, ezen a partszakaszon a legjobb helyen jár.",
+                  "category": "recreational",
+                  "coords": [
+                        28.288095,
+                        43.413909
+                  ]
+            },
+            {
+                  "name": "Byzone",
+                  "text": "Egy ókori település és erődítmény romjai Kavarna tengerpartján.",
+                  "category": "historical",
+                  "coords": [
+                        28.347262,
+                        43.414087
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei (Kavarna)",
+                  "text": "Kavarna régiójának gazdag történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        28.340178,
+                        43.432195
+                  ]
+            },
+            {
+                  "name": "Etnogarfski kompleks",
+                  "text": "Helyi népművészetet és hagyományokat bemutató néprajzi múzeum Kavarnában.",
+                  "category": "museum",
+                  "coords": [
+                        28.334569,
+                        43.430226
+                  ]
+            },
+            {
+                  "name": "Chirakman",
+                  "text": "Jellegzetes fok és kilátópont a tengerre Kavarna közelében.",
+                  "category": "natural",
+                  "coords": [
+                        28.349021,
+                        43.412845
+                  ]
+            },
+            {
+                  "name": "Memorial na ruskite voini \"Kostnitsa\"",
+                  "text": "A kavarnai orosz katonák emlékműve, a „Kostnitsa” 1981. november 5-én avatták fel.",
+                  "category": "historical",
+                  "coords": [
+                        28.340892,
+                        43.436531
+                  ]
+            },
+            {
+                  "name": "Hristo Gradechliev",
+                  "text": "Hriszto Gradecliev művészről elnevezett galéria Kavarnában.",
+                  "category": "museum",
+                  "coords": [
+                        28.337747,
+                        43.42967
+                  ]
+            },
+            {
+                  "name": "Thracian Cliffs Lake",
+                  "text": "Egy édesvizű tó a Trák-sziklák között, gyönyörű kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        28.282825,
+                        43.414182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Babeshkiya plazh",
+                  "text": "O plajă nisipoasă pe coasta Mării Negre lângă Kavarna, cu apă puțin adâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        28.352647,
+                        43.413371
+                  ]
+            },
+            {
+                  "name": "Bendida Beach",
+                  "text": "Plaja Bendida din apropiere de Kavarna este un refugiu pitoresc chiar pe malul Mării Negre. Golful protejat asigură ape calme și o ambianță intimă, aproape neatinsă, care invită la relaxare. Vizitatorii pot face plajă pe nisip și se pot bucura de frumusețea liniei de coastă bulgare. Este o destinație minunată pentru toți cei care caută liniște departe de centrele turistice aglomerate.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298808,
+                        43.416383
+                  ]
+            },
+            {
+                  "name": "Argata Beach",
+                  "text": "Plaja Argata este o bijuterie ascunsă la Marea Neagră în regiunea Kavarna, care punctează prin frumusețea sa naturală neatinsă. Nisipul fin și apa limpede creează o atmosferă exclusivistă și pașnică pentru iubitorii de scăldat. Aici puteți asculta murmurul valurilor și vă puteți bucura nestingheriți de soarele cald. Cei care caută un colț liniștit pentru o recreere prelungită la malul apei se află exact unde trebuie pe această coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        28.288095,
+                        43.413909
+                  ]
+            },
+            {
+                  "name": "Byzone",
+                  "text": "Ruinele unei așezări și cetăți antice de pe coasta orașului Cavarna.",
+                  "category": "historical",
+                  "coords": [
+                        28.347262,
+                        43.414087
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei (Kavarna)",
+                  "text": "Un muzeu care prezintă istoria bogată a regiunii Cavarna.",
+                  "category": "museum",
+                  "coords": [
+                        28.340178,
+                        43.432195
+                  ]
+            },
+            {
+                  "name": "Etnogarfski kompleks",
+                  "text": "Un muzeu din Cavarna care prezintă meșteșugurile și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        28.334569,
+                        43.430226
+                  ]
+            },
+            {
+                  "name": "Chirakman",
+                  "text": "Un promontoriu și punct de observație cu vedere la mare lângă Cavarna.",
+                  "category": "natural",
+                  "coords": [
+                        28.349021,
+                        43.412845
+                  ]
+            },
+            {
+                  "name": "Memorial na ruskite voini \"Kostnitsa\"",
+                  "text": "Monumentul soldaților ruși „Kostnitsa” din Kavarna a fost inaugurat la 5 noiembrie 1981.",
+                  "category": "historical",
+                  "coords": [
+                        28.340892,
+                        43.436531
+                  ]
+            },
+            {
+                  "name": "Hristo Gradechliev",
+                  "text": "O galerie de artă din Cavarna, numită după artistul Hristo Gradechliev.",
+                  "category": "museum",
+                  "coords": [
+                        28.337747,
+                        43.42967
+                  ]
+            },
+            {
+                  "name": "Thracian Cliffs Lake",
+                  "text": "Un lac de apă dulce printre Stâncile Tracice, cu priveliști frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        28.282825,
+                        43.414182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Babeshkiya plazh",
+                  "text": "A sandy beach on the Black Sea coast near Kavarna with shallow water.",
+                  "category": "recreational",
+                  "coords": [
+                        28.352647,
+                        43.413371
+                  ]
+            },
+            {
+                  "name": "Bendida Beach",
+                  "text": "Bendida Beach near Kavarna is a picturesque retreat located right on the Black Sea. The sheltered bay ensures calm waters and an intimate, almost pristine ambiance that invites you to completely unwind. Visitors can sunbathe on the sandy beach while taking in the beauty of the Bulgarian coastline. It serves as a wonderful destination for anyone seeking tranquility away from crowded tourist hubs.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298808,
+                        43.416383
+                  ]
+            },
+            {
+                  "name": "Argata Beach",
+                  "text": "Argata Beach is a hidden gem on the Black Sea in the Kavarna region, standing out for its unspoiled natural beauty. The fine sand and clear water create an exclusive and peaceful atmosphere for bathers. You can easily listen to the soothing sound of the waves while enjoying the warm sun undisturbed. Anyone looking for a quiet spot for extensive relaxation by the water will find this coastal stretch absolutely perfect.",
+                  "category": "recreational",
+                  "coords": [
+                        28.288095,
+                        43.413909
+                  ]
+            },
+            {
+                  "name": "Byzone",
+                  "text": "Ruins of an ancient settlement and fortress on the coast of Kavarna.",
+                  "category": "historical",
+                  "coords": [
+                        28.347262,
+                        43.414087
+                  ]
+            },
+            {
+                  "name": "Kavarna Historical Museum",
+                  "text": "A museum showcasing the rich history of the Kavarna region.",
+                  "category": "museum",
+                  "coords": [
+                        28.340178,
+                        43.432195
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "A museum in Kavarna showcasing local crafts and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        28.334569,
+                        43.430226
+                  ]
+            },
+            {
+                  "name": "Chirakman",
+                  "text": "A prominent cape and viewpoint overlooking the sea near Kavarna.",
+                  "category": "natural",
+                  "coords": [
+                        28.349021,
+                        43.412845
+                  ]
+            },
+            {
+                  "name": "Memorial to the Russian soldiers \"Kostnitsa\"",
+                  "text": "The Memorial to the Russian soldiers 'Kostnitsa' in Kavarna was dedicated on 5 November 1981.",
+                  "category": "historical",
+                  "coords": [
+                        28.340892,
+                        43.436531
+                  ]
+            },
+            {
+                  "name": "Hristo Gradechliev",
+                  "text": "An art gallery in Kavarna named after the artist Hristo Gradechliev.",
+                  "category": "museum",
+                  "coords": [
+                        28.337747,
+                        43.42967
+                  ]
+            },
+            {
+                  "name": "Thracian Cliffs Lake",
+                  "text": "A freshwater lake among the Thracian Cliffs with scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        28.282825,
+                        43.414182
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Kawarna", hu: "Kavarna", ro: "Cavarna", en: "Kavarna" },
@@ -1146,7 +4863,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-kavarna-cities-v2.webp",
   },
   {
-    id: "bulgaria-banya-cities-v2", "sights": {"de": [{"name": "Krasta", "text": "Ein markantes Kreuz und Ausflugsziel in Banja.", "category": "landmark", "coords": [24.842373, 42.549396]}, {"name": "Nachalo Eko pateka Momini gardi", "text": "Der Ausgangspunkt eines ökologischen Wanderwegs in Banja.", "category": "landmark", "coords": [24.838401, 42.546645]}, {"name": "Partizanski pametnik", "text": "Ein Denkmal zu Ehren der Partisanen in Banja.", "category": "historical", "coords": [24.799388, 42.524553]}], "hu": [{"name": "Krasta", "text": "Egy jellegzetes kereszt és látnivaló Banja településen.", "category": "landmark", "coords": [24.842373, 42.549396]}, {"name": "Nachalo Eko pateka Momini gardi", "text": "Egy ökológiai tanösvény kezdőpontja Banja községben.", "category": "landmark", "coords": [24.838401, 42.546645]}, {"name": "Partizanski pametnik", "text": "A partizánok emlékére állított emlékmű Banjában.", "category": "historical", "coords": [24.799388, 42.524553]}], "ro": [{"name": "Krasta", "text": "O cruce monumentală și punct de interes în Banea.", "category": "landmark", "coords": [24.842373, 42.549396]}, {"name": "Nachalo Eko pateka Momini gardi", "text": "Punctul de plecare al unui traseu ecologic în Banea.", "category": "landmark", "coords": [24.838401, 42.546645]}, {"name": "Partizanski pametnik", "text": "Un monument dedicat partizanilor în Banea.", "category": "historical", "coords": [24.799388, 42.524553]}], "en": [{"name": "Cross", "text": "A prominent cross and local attraction in Banya.", "category": "landmark", "coords": [24.842373, 42.549396]}, {"name": "Eco path Mummy's Breasts - Begining", "text": "The starting point of an ecological trail in Banya.", "category": "landmark", "coords": [24.838401, 42.546645]}, {"name": "Partizanski pametnik", "text": "A monument dedicated to partisans in Banya.", "category": "historical", "coords": [24.799388, 42.524553]}]},
+    id: "bulgaria-banya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krasta",
+                  "text": "Ein großes Metallkreuz auf einem Hügel mit Blick auf die Stadt Banya.",
+                  "category": "landmark",
+                  "coords": [
+                        24.842373,
+                        42.549396
+                  ]
+            },
+            {
+                  "name": "Nachalo Eko pateka Momini gardi",
+                  "text": "Startpunkt des Öko-Pfades zu den ,Mummienbrüsten‘-Felsformationen bei Banya.",
+                  "category": "landmark",
+                  "coords": [
+                        24.838401,
+                        42.546645
+                  ]
+            },
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "Ein Denkmal für die Partisanen des Zweiten Weltkriegs im Zentrum von Banya.",
+                  "category": "historical",
+                  "coords": [
+                        24.799388,
+                        42.524553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krasta",
+                  "text": "Egy nagy fémkereszt egy dombon, Banya városára néző kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        24.842373,
+                        42.549396
+                  ]
+            },
+            {
+                  "name": "Nachalo Eko pateka Momini gardi",
+                  "text": "A 'Múmia mellei' sziklaformációkhoz vezető ökoösvény kiindulópontja Banya közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.838401,
+                        42.546645
+                  ]
+            },
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "Egy emlékmű a második világháború partizánjainak Banya központjában.",
+                  "category": "historical",
+                  "coords": [
+                        24.799388,
+                        42.524553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krasta",
+                  "text": "O cruce mare de metal pe un deal, cu vedere spre orașul Banya.",
+                  "category": "landmark",
+                  "coords": [
+                        24.842373,
+                        42.549396
+                  ]
+            },
+            {
+                  "name": "Nachalo Eko pateka Momini gardi",
+                  "text": "Punctul de plecare al traseului ecologic către formațiunile stâncoase 'Sânii Mumiei' lângă Banya.",
+                  "category": "landmark",
+                  "coords": [
+                        24.838401,
+                        42.546645
+                  ]
+            },
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "Un monument dedicat partizanilor celui de-al Doilea Război Mondial în centrul orașului Banya.",
+                  "category": "historical",
+                  "coords": [
+                        24.799388,
+                        42.524553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cross",
+                  "text": "A large metal cross on a hill overlooking the town of Banya.",
+                  "category": "landmark",
+                  "coords": [
+                        24.842373,
+                        42.549396
+                  ]
+            },
+            {
+                  "name": "Eco path Mummy's Breasts - Begining",
+                  "text": "Starting point of the eco trail to the 'Mummy's Breasts' rock formations near Banya.",
+                  "category": "landmark",
+                  "coords": [
+                        24.838401,
+                        42.546645
+                  ]
+            },
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "A monument honoring World War II partisans in the center of Banya.",
+                  "category": "historical",
+                  "coords": [
+                        24.799388,
+                        42.524553
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Banja", hu: "Banya", ro: "Bania", en: "Banya" },
@@ -1191,7 +5025,484 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-banya-cities-v2.webp",
   },
   {
-    id: "bulgaria-melnik-cities-v2", "sights": {"de": [{"name": "Kordopulova Kashta", "text": "Ein historisches Hausmuseum aus der Wiedergeburt, bekannt für seine beeindruckende Architektur und Weinkeller.", "category": "museum", "coords": [23.398257, 41.523185]}, {"name": "Muzei na Vinoto", "text": "Ein Museum in Melnik, das der langen Tradition der lokalen Weinherstellung gewidmet ist.", "category": "museum", "coords": [23.395079, 41.523742]}, {"name": "Kloster Roschen", "text": "Eines der größten mittelalterlichen Klöster Bulgariens, malerisch in der Nähe von Melnik gelegen.", "category": "landmark", "coords": [23.426438, 41.53053]}, {"name": "Vekoven chinar", "text": "Ein monumentaler, jahrhundertealter Platanenbaum, der als Naturdenkmal in Melnik gilt.", "category": "landmark", "coords": [23.41592, 41.499154]}, {"name": "Melnik Pyramids Viewpoint", "text": "Ein Aussichtspunkt mit Panoramablick auf die berühmten Sandsteinpyramiden von Melnik.", "category": "natural", "coords": [23.41956, 41.528036]}, {"name": "Darina", "text": "Eine Kunstgalerie in Melnik, die Werke lokaler Künstler präsentiert.", "category": "museum", "coords": [23.392498, 41.523084]}, {"name": "Bolyarskata kashta", "text": "Die Ruinen eines byzantinischen Hauses, eines der ältesten erhaltenen Wohngebäude auf dem Balkan.", "category": "historical", "coords": [23.396447, 41.523959]}, {"name": "Turski konak", "text": "Ein historisches Gebäude in Melnik, das früher als osmanisches Verwaltungszentrum diente.", "category": "landmark", "coords": [23.393969, 41.523357]}, {"name": "tsarkva \"Sveti Nikola\"", "text": "Die Überreste der mittelalterlichen Kirche St. Nikolaus in der Nähe von Melnik.", "category": "historical", "coords": [23.392375, 41.520529]}, {"name": "Despot-Slavova krepost", "text": "Ruinen der Festung des Despoten Alexius Slaw auf dem Hügel über Melnik.", "category": "historical", "coords": [23.390539, 41.519498]}, {"name": "tsarkva \"Sv. Ioan Predtecha\"", "text": "Eine kleine historische Kirche in Melnik, die Johannes dem Täufer gewidmet ist.", "category": "religious", "coords": [23.391285, 41.526372]}, {"name": "Sv. Petka", "text": "Eine religiöse Stätte in Melnik, die der Heiligen Petka gewidmet ist.", "category": "religious", "coords": [23.401417, 41.520711]}, {"name": "Plazhen basein", "text": "Dieser Pool in Melnik bietet eine angenehme Erfrischung während der warmen Tage.", "category": "family", "coords": [23.435043, 41.534592]}], "hu": [{"name": "Kordopulov ház", "text": "Történelmi lakóház-múzeum az újjászületés korából, amely lenyűgöző építészetéről és borpincéjéről ismert.", "category": "museum", "coords": [23.398257, 41.523185]}, {"name": "Muzei na Vinoto", "text": "A helyi borkészítés hosszú hagyományainak szentelt múzeum Melnikben.", "category": "museum", "coords": [23.395079, 41.523742]}, {"name": "Rozsen kolostor", "text": "Bulgária egyik legnagyobb középkori kolostora, amely festői környezetben fekszik Melnik közelében.", "category": "landmark", "coords": [23.426438, 41.53053]}, {"name": "Vekoven chinar", "text": "Egy monumentális, évszázados platánfa, amely Melnik természeti emléke.", "category": "landmark", "coords": [23.41592, 41.499154]}, {"name": "Melniki piramisok kilátó", "text": "Kilátópont, ahonnan panorámás kilátás nyílik a híres melniki homokkő-piramisokra.", "category": "natural", "coords": [23.41956, 41.528036]}, {"name": "Darina", "text": "Melniki művészeti galéria, amely helyi művészek alkotásait mutatja be.", "category": "museum", "coords": [23.392498, 41.523084]}, {"name": "Bolyarskata kashta", "text": "Egy bizánci ház romjai, amely a Balkán egyik legrégebbi fennmaradt lakóépülete.", "category": "historical", "coords": [23.396447, 41.523959]}, {"name": "Turski konak", "text": "Történelmi épület Melnikben, amely korábban oszmán közigazgatási központként szolgált.", "category": "landmark", "coords": [23.393969, 41.523357]}, {"name": "tsarkva \"Sveti Nikola\"", "text": "A Melnik közeli középkori Szent Miklós-templom maradványai.", "category": "historical", "coords": [23.392375, 41.520529]}, {"name": "Despot-Slavova krepost", "text": "Alexiosz Szláv despota erődjének romjai a Melnik feletti dombon.", "category": "historical", "coords": [23.390539, 41.519498]}, {"name": "tsarkva \"Sv. Ioan Predtecha\"", "text": "Kisméretű történelmi templom Melnikben, Keresztelő Szent János tiszteletére.", "category": "religious", "coords": [23.391285, 41.526372]}, {"name": "Sv. Petka", "text": "Szent Petkának szentelt vallási helyszín Melnikben.", "category": "religious", "coords": [23.401417, 41.520711]}, {"name": "Plazhen basein", "text": "Ez a melniki medence kellemes felfrissülést nyújt a meleg napokon.", "category": "family", "coords": [23.435043, 41.534592]}], "ro": [{"name": "Kordopulova Kashta", "text": "O casă-muzeu istorică din perioada Renașterii, cunoscută pentru arhitectura sa impresionantă și pivnițele de vin.", "category": "museum", "coords": [23.398257, 41.523185]}, {"name": "Muzei na Vinoto", "text": "Un muzeu din Melnik dedicat tradiției îndelungate a producției locale de vin.", "category": "museum", "coords": [23.395079, 41.523742]}, {"name": "Rozhenski Manastir", "text": "Una dintre cele mai mari mănăstiri medievale din Bulgaria, situată pitoresc lângă Melnik.", "category": "landmark", "coords": [23.426438, 41.53053]}, {"name": "Vekoven chinar", "text": "Un arbore de platan monumental, vechi de secole, considerat monument natural în Melnik.", "category": "landmark", "coords": [23.41592, 41.499154]}, {"name": "Melnik Pyramids Viewpoint", "text": "Un punct de observație cu vedere panoramică asupra faimoaselor piramide de gresie din Melnik.", "category": "natural", "coords": [23.41956, 41.528036]}, {"name": "Darina", "text": "O galerie de artă din Melnik care prezintă lucrările artiștilor locali.", "category": "museum", "coords": [23.392498, 41.523084]}, {"name": "Bolyarskata kashta", "text": "Ruinele unei case bizantine, una dintre cele mai vechi clădiri rezidențiale conservate din Balcani.", "category": "historical", "coords": [23.396447, 41.523959]}, {"name": "Turski konak", "text": "O clădire istorică din Melnik care a servit anterior drept centru administrativ otoman.", "category": "landmark", "coords": [23.393969, 41.523357]}, {"name": "tsarkva \"Sveti Nikola\"", "text": "Rămășițele bisericii medievale Sfântul Nicolae din apropiere de Melnik.", "category": "historical", "coords": [23.392375, 41.520529]}, {"name": "Despot-Slavova krepost", "text": "Ruinele cetății despotului Alexie Slav de pe dealul de deasupra orașului Melnik.", "category": "historical", "coords": [23.390539, 41.519498]}, {"name": "tsarkva \"Sv. Ioan Predtecha\"", "text": "O mică biserică istorică din Melnik dedicată Sfântului Ioan Botezătorul.", "category": "religious", "coords": [23.391285, 41.526372]}, {"name": "Sv. Petka", "text": "Un lăcaș de cult din Melnik dedicat Sfintei Parascheva (Petka).", "category": "religious", "coords": [23.401417, 41.520711]}, {"name": "Plazhen basein", "text": "Această piscină din Melnik oferă o răcorire plăcută în zilele calde.", "category": "family", "coords": [23.435043, 41.534592]}], "en": [{"name": "Kordopulov House", "text": "A historical house museum from the Revival period, famous for its impressive architecture and wine cellars.", "category": "museum", "coords": [23.398257, 41.523185]}, {"name": "Muzei na Vinoto", "text": "A museum in Melnik dedicated to the long tradition of local winemaking.", "category": "museum", "coords": [23.395079, 41.523742]}, {"name": "Rozhen Monastery", "text": "One of the largest medieval monasteries in Bulgaria, picturesquely located near Melnik.", "category": "landmark", "coords": [23.426438, 41.53053]}, {"name": "Vekoven chinar", "text": "A monumental centuries-old plane tree, considered a natural landmark in Melnik.", "category": "landmark", "coords": [23.41592, 41.499154]}, {"name": "Melnik Pyramids Viewpoint", "text": "A viewpoint offering panoramic vistas of the famous Melnik sand pyramids.", "category": "natural", "coords": [23.41956, 41.528036]}, {"name": "Darina", "text": "An art gallery in Melnik showcasing works by local artists.", "category": "museum", "coords": [23.392498, 41.523084]}, {"name": "Bolyarskata kashta", "text": "The ruins of a Byzantine house, one of the oldest preserved residential buildings in the Balkans.", "category": "historical", "coords": [23.396447, 41.523959]}, {"name": "Turski konak", "text": "A historical building in Melnik that formerly served as an Ottoman administrative center.", "category": "landmark", "coords": [23.393969, 41.523357]}, {"name": "tsarkva \"Sveti Nikola\"", "text": "The remains of the medieval Church of Saint Nicholas near Melnik.", "category": "historical", "coords": [23.392375, 41.520529]}, {"name": "Despot Slav's fortress", "text": "Ruins of Despot Alexius Slav's fortress located on the hill above Melnik.", "category": "historical", "coords": [23.390539, 41.519498]}, {"name": "tsarkva \"Sv. Ioan Predtecha\"", "text": "A small historical church in Melnik dedicated to Saint John the Baptist.", "category": "religious", "coords": [23.391285, 41.526372]}, {"name": "Sv. Petka", "text": "A religious site in Melnik dedicated to Saint Petka.", "category": "religious", "coords": [23.401417, 41.520711]}, {"name": "Plazhen basein", "text": "This pool in Melnik offers pleasant refreshment during warm days.", "category": "family", "coords": [23.435043, 41.534592]}]},
+    id: "bulgaria-melnik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kordopulova Kashta",
+                  "text": "Ein historisches Hausmuseum aus der Wiedergeburt, bekannt für seine beeindruckende Architektur und Weinkeller.",
+                  "category": "museum",
+                  "coords": [
+                        23.398257,
+                        41.523185
+                  ]
+            },
+            {
+                  "name": "Muzei na Vinoto",
+                  "text": "Ein Museum in Melnik, das der langen Tradition der lokalen Weinherstellung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.395079,
+                        41.523742
+                  ]
+            },
+            {
+                  "name": "Kloster Roschen",
+                  "text": "Eines der größten mittelalterlichen Klöster Bulgariens, malerisch in der Nähe von Melnik gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.426438,
+                        41.53053
+                  ]
+            },
+            {
+                  "name": "Vekoven chinar",
+                  "text": "Ein monumentaler, jahrhundertealter Platanenbaum, der als Naturdenkmal in Melnik gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.41592,
+                        41.499154
+                  ]
+            },
+            {
+                  "name": "Melnik Pyramids Viewpoint",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die berühmten Sandsteinpyramiden von Melnik.",
+                  "category": "natural",
+                  "coords": [
+                        23.41956,
+                        41.528036
+                  ]
+            },
+            {
+                  "name": "Darina",
+                  "text": "Eine Kunstgalerie in Melnik, die Werke lokaler Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.392498,
+                        41.523084
+                  ]
+            },
+            {
+                  "name": "Bolyarskata kashta",
+                  "text": "Die Ruinen eines byzantinischen Hauses, eines der ältesten erhaltenen Wohngebäude auf dem Balkan.",
+                  "category": "historical",
+                  "coords": [
+                        23.396447,
+                        41.523959
+                  ]
+            },
+            {
+                  "name": "Turski konak",
+                  "text": "Ein historisches Gebäude in Melnik, das früher als osmanisches Verwaltungszentrum diente.",
+                  "category": "landmark",
+                  "coords": [
+                        23.393969,
+                        41.523357
+                  ]
+            },
+            {
+                  "name": "tsarkva \"Sveti Nikola\"",
+                  "text": "Die Überreste der mittelalterlichen Kirche St. Nikolaus in der Nähe von Melnik.",
+                  "category": "historical",
+                  "coords": [
+                        23.392375,
+                        41.520529
+                  ]
+            },
+            {
+                  "name": "Despot-Slavova krepost",
+                  "text": "Ruinen der Festung des Despoten Alexius Slaw auf dem Hügel über Melnik.",
+                  "category": "historical",
+                  "coords": [
+                        23.390539,
+                        41.519498
+                  ]
+            },
+            {
+                  "name": "tsarkva \"Sv. Ioan Predtecha\"",
+                  "text": "Eine kleine historische Kirche in Melnik, die Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.391285,
+                        41.526372
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "Mittelalterliche bulgarisch-orthodoxe Kirche der Heiligen Petka, in den Sandsteinfelsen von Melnik gelegen.",
+                  "category": "religious",
+                  "coords": [
+                        23.401417,
+                        41.520711
+                  ]
+            },
+            {
+                  "name": "Plazhen basein",
+                  "text": "Dieser Pool in Melnik bietet eine angenehme Erfrischung während der warmen Tage.",
+                  "category": "family",
+                  "coords": [
+                        23.435043,
+                        41.534592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kordopulov ház",
+                  "text": "Történelmi lakóház-múzeum az újjászületés korából, amely lenyűgöző építészetéről és borpincéjéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        23.398257,
+                        41.523185
+                  ]
+            },
+            {
+                  "name": "Muzei na Vinoto",
+                  "text": "A helyi borkészítés hosszú hagyományainak szentelt múzeum Melnikben.",
+                  "category": "museum",
+                  "coords": [
+                        23.395079,
+                        41.523742
+                  ]
+            },
+            {
+                  "name": "Rozsen kolostor",
+                  "text": "Bulgária egyik legnagyobb középkori kolostora, amely festői környezetben fekszik Melnik közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.426438,
+                        41.53053
+                  ]
+            },
+            {
+                  "name": "Vekoven chinar",
+                  "text": "Egy monumentális, évszázados platánfa, amely Melnik természeti emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        23.41592,
+                        41.499154
+                  ]
+            },
+            {
+                  "name": "Melniki piramisok kilátó",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a híres melniki homokkő-piramisokra.",
+                  "category": "natural",
+                  "coords": [
+                        23.41956,
+                        41.528036
+                  ]
+            },
+            {
+                  "name": "Darina",
+                  "text": "Melniki művészeti galéria, amely helyi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.392498,
+                        41.523084
+                  ]
+            },
+            {
+                  "name": "Bolyarskata kashta",
+                  "text": "Egy bizánci ház romjai, amely a Balkán egyik legrégebbi fennmaradt lakóépülete.",
+                  "category": "historical",
+                  "coords": [
+                        23.396447,
+                        41.523959
+                  ]
+            },
+            {
+                  "name": "Turski konak",
+                  "text": "Történelmi épület Melnikben, amely korábban oszmán közigazgatási központként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        23.393969,
+                        41.523357
+                  ]
+            },
+            {
+                  "name": "tsarkva \"Sveti Nikola\"",
+                  "text": "A Melnik közeli középkori Szent Miklós-templom maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        23.392375,
+                        41.520529
+                  ]
+            },
+            {
+                  "name": "Despot-Slavova krepost",
+                  "text": "Alexiosz Szláv despota erődjének romjai a Melnik feletti dombon.",
+                  "category": "historical",
+                  "coords": [
+                        23.390539,
+                        41.519498
+                  ]
+            },
+            {
+                  "name": "tsarkva \"Sv. Ioan Predtecha\"",
+                  "text": "Kisméretű történelmi templom Melnikben, Keresztelő Szent János tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        23.391285,
+                        41.526372
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "Szent Petka középkori bolgár ortodox temploma, Melnik homokkő szikláiba ágyazva.",
+                  "category": "religious",
+                  "coords": [
+                        23.401417,
+                        41.520711
+                  ]
+            },
+            {
+                  "name": "Plazhen basein",
+                  "text": "Ez a melniki medence kellemes felfrissülést nyújt a meleg napokon.",
+                  "category": "family",
+                  "coords": [
+                        23.435043,
+                        41.534592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kordopulova Kashta",
+                  "text": "O casă-muzeu istorică din perioada Renașterii, cunoscută pentru arhitectura sa impresionantă și pivnițele de vin.",
+                  "category": "museum",
+                  "coords": [
+                        23.398257,
+                        41.523185
+                  ]
+            },
+            {
+                  "name": "Muzei na Vinoto",
+                  "text": "Un muzeu din Melnik dedicat tradiției îndelungate a producției locale de vin.",
+                  "category": "museum",
+                  "coords": [
+                        23.395079,
+                        41.523742
+                  ]
+            },
+            {
+                  "name": "Rozhenski Manastir",
+                  "text": "Una dintre cele mai mari mănăstiri medievale din Bulgaria, situată pitoresc lângă Melnik.",
+                  "category": "landmark",
+                  "coords": [
+                        23.426438,
+                        41.53053
+                  ]
+            },
+            {
+                  "name": "Vekoven chinar",
+                  "text": "Un arbore de platan monumental, vechi de secole, considerat monument natural în Melnik.",
+                  "category": "landmark",
+                  "coords": [
+                        23.41592,
+                        41.499154
+                  ]
+            },
+            {
+                  "name": "Melnik Pyramids Viewpoint",
+                  "text": "Un punct de observație cu vedere panoramică asupra faimoaselor piramide de gresie din Melnik.",
+                  "category": "natural",
+                  "coords": [
+                        23.41956,
+                        41.528036
+                  ]
+            },
+            {
+                  "name": "Darina",
+                  "text": "O galerie de artă din Melnik care prezintă lucrările artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        23.392498,
+                        41.523084
+                  ]
+            },
+            {
+                  "name": "Bolyarskata kashta",
+                  "text": "Ruinele unei case bizantine, una dintre cele mai vechi clădiri rezidențiale conservate din Balcani.",
+                  "category": "historical",
+                  "coords": [
+                        23.396447,
+                        41.523959
+                  ]
+            },
+            {
+                  "name": "Turski konak",
+                  "text": "O clădire istorică din Melnik care a servit anterior drept centru administrativ otoman.",
+                  "category": "landmark",
+                  "coords": [
+                        23.393969,
+                        41.523357
+                  ]
+            },
+            {
+                  "name": "tsarkva \"Sveti Nikola\"",
+                  "text": "Rămășițele bisericii medievale Sfântul Nicolae din apropiere de Melnik.",
+                  "category": "historical",
+                  "coords": [
+                        23.392375,
+                        41.520529
+                  ]
+            },
+            {
+                  "name": "Despot-Slavova krepost",
+                  "text": "Ruinele cetății despotului Alexie Slav de pe dealul de deasupra orașului Melnik.",
+                  "category": "historical",
+                  "coords": [
+                        23.390539,
+                        41.519498
+                  ]
+            },
+            {
+                  "name": "tsarkva \"Sv. Ioan Predtecha\"",
+                  "text": "O mică biserică istorică din Melnik dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        23.391285,
+                        41.526372
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "Biserica ortodoxă bulgară medievală a Sfintei Petka, situată în stâncile de gresie din Melnik.",
+                  "category": "religious",
+                  "coords": [
+                        23.401417,
+                        41.520711
+                  ]
+            },
+            {
+                  "name": "Plazhen basein",
+                  "text": "Această piscină din Melnik oferă o răcorire plăcută în zilele calde.",
+                  "category": "family",
+                  "coords": [
+                        23.435043,
+                        41.534592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kordopulov House",
+                  "text": "A historical house museum from the Revival period, famous for its impressive architecture and wine cellars.",
+                  "category": "museum",
+                  "coords": [
+                        23.398257,
+                        41.523185
+                  ]
+            },
+            {
+                  "name": "Muzei na Vinoto",
+                  "text": "A museum in Melnik dedicated to the long tradition of local winemaking.",
+                  "category": "museum",
+                  "coords": [
+                        23.395079,
+                        41.523742
+                  ]
+            },
+            {
+                  "name": "Rozhen Monastery",
+                  "text": "One of the largest medieval monasteries in Bulgaria, picturesquely located near Melnik.",
+                  "category": "landmark",
+                  "coords": [
+                        23.426438,
+                        41.53053
+                  ]
+            },
+            {
+                  "name": "Vekoven chinar",
+                  "text": "A monumental centuries-old plane tree, considered a natural landmark in Melnik.",
+                  "category": "landmark",
+                  "coords": [
+                        23.41592,
+                        41.499154
+                  ]
+            },
+            {
+                  "name": "Melnik Pyramids Viewpoint",
+                  "text": "A viewpoint offering panoramic vistas of the famous Melnik sand pyramids.",
+                  "category": "natural",
+                  "coords": [
+                        23.41956,
+                        41.528036
+                  ]
+            },
+            {
+                  "name": "Darina",
+                  "text": "An art gallery in Melnik showcasing works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        23.392498,
+                        41.523084
+                  ]
+            },
+            {
+                  "name": "Bolyarskata kashta",
+                  "text": "The ruins of a Byzantine house, one of the oldest preserved residential buildings in the Balkans.",
+                  "category": "historical",
+                  "coords": [
+                        23.396447,
+                        41.523959
+                  ]
+            },
+            {
+                  "name": "Turski konak",
+                  "text": "A historical building in Melnik that formerly served as an Ottoman administrative center.",
+                  "category": "landmark",
+                  "coords": [
+                        23.393969,
+                        41.523357
+                  ]
+            },
+            {
+                  "name": "tsarkva \"Sveti Nikola\"",
+                  "text": "The remains of the medieval Church of Saint Nicholas near Melnik.",
+                  "category": "historical",
+                  "coords": [
+                        23.392375,
+                        41.520529
+                  ]
+            },
+            {
+                  "name": "Despot Slav's fortress",
+                  "text": "Ruins of Despot Alexius Slav's fortress located on the hill above Melnik.",
+                  "category": "historical",
+                  "coords": [
+                        23.390539,
+                        41.519498
+                  ]
+            },
+            {
+                  "name": "tsarkva \"Sv. Ioan Predtecha\"",
+                  "text": "A small historical church in Melnik dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        23.391285,
+                        41.526372
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "Medieval Bulgarian Orthodox church of Saint Petka, nestled in the sandstone cliffs of Melnik.",
+                  "category": "religious",
+                  "coords": [
+                        23.401417,
+                        41.520711
+                  ]
+            },
+            {
+                  "name": "Plazhen basein",
+                  "text": "This pool in Melnik offers pleasant refreshment during warm days.",
+                  "category": "family",
+                  "coords": [
+                        23.435043,
+                        41.534592
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Melnik", hu: "Melnik", ro: "Melnik", en: "Melnik" },
@@ -1285,7 +5596,7 @@ export const bulgariaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "yaz. Martinovo",
-                  "text": "Ein See bei Chiprovtsi, der zur Erholung in der Natur einlädt.",
+                  "text": "Ein Stausee am Fluss Martinovo bei Chiprovtsi, genutzt für Bewässerung und Erholung.",
                   "category": "natural",
                   "coords": [
                         22.84128,
@@ -1323,7 +5634,7 @@ export const bulgariaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "yaz. Martinovo",
-                  "text": "Egy tó Csiprovci környékén, amely kikapcsolódásra hív a természetben.",
+                  "text": "Egy víztározó a Martinovo folyón, Chiprovtsi közelében, öntözésre és rekreációra használva.",
                   "category": "natural",
                   "coords": [
                         22.84128,
@@ -1361,7 +5672,7 @@ export const bulgariaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "yaz. Martinovo",
-                  "text": "Un lac în apropiere de Ciprovți, care invită la recreere în natură.",
+                  "text": "Un lac de acumulare pe râul Martinovo, lângă Chiprovtsi, folosit pentru irigații și agrement.",
                   "category": "natural",
                   "coords": [
                         22.84128,
@@ -1399,7 +5710,7 @@ export const bulgariaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "yaz. Martinovo",
-                  "text": "A lake near Chiprovtsi, inviting recreation in nature.",
+                  "text": "A reservoir on the Martinovo River near Chiprovtsi, used for irrigation and recreation.",
                   "category": "natural",
                   "coords": [
                         22.84128,
@@ -1686,7 +5997,412 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-samokov-cities-v2.webp",
   },
   {
-    id: "bulgaria-balchik-cities-v2", "sights": {"de": [{"name": "Vila \"Tihoto gnezdo\"", "text": "Die ehemalige Sommerresidenz der rumänischen Königin Maria in Baltschik.", "category": "castle", "coords": [28.145657, 43.403182]}, {"name": "Starata melnitsa", "text": "Eine historische Mühle in Baltschik, die heute als Museum dient.", "category": "museum", "coords": [28.166582, 43.404754]}, {"name": "Balchishka navigatsionna svetlina - valnoloma", "text": "Ein Leuchtfeuer am Wellenbrecher des Hafens von Baltschik.", "category": "landmark", "coords": [28.163888, 43.400504]}, {"name": "Istoricheski muzei", "text": "Das historische Museum der Stadt Baltschik.", "category": "museum", "coords": [28.16292, 43.407227]}, {"name": "Kiliino uchilishte", "text": "Ein Museum in Baltschik, das in einer ehemaligen Kirchenschule untergebracht ist.", "category": "museum", "coords": [28.164434, 43.414724]}, {"name": "Tsarkva „Konstantin i Elena“", "text": "Eine ehemalige Kirche in Baltschik, die heute als Museum genutzt wird.", "category": "museum", "coords": [28.165453, 43.406138]}, {"name": "Arhitekturno-parkov kompleks “Dvoretsat”", "text": "Eine Schloss- und Gartenanlage an der Schwarzmeerküste in Baltschik.", "category": "landmark", "coords": [28.147331, 43.404612]}, {"name": "Parvite sportisti ot gr. Balchik zlatni medalisti po morski sporten mnogoboi", "text": "Ein Denkmal für die ersten Goldsportler der Stadt Baltschik im Seesport.", "category": "historical", "coords": [28.162625, 43.405397]}, {"name": "Pametnik na Vasil Levski", "text": "Ein Denkmal zu Ehren des bulgarischen Nationalhelden Wassil Lewski in Baltschik.", "category": "historical", "coords": [28.16087, 43.426966]}, {"name": "\"Starata Melnitsa\"", "text": "Die Ruinen einer alten Mühle in Baltschik.", "category": "historical", "coords": [28.168315, 43.404295]}, {"name": "Tepsi gol", "text": "Ein See bei Baltschik, ideal für einen entspannten Aufenthalt im Freien.", "category": "natural", "coords": [28.191501, 43.40103]}], "hu": [{"name": "Vila \"Tihoto gnezdo\"", "text": "Mária román királyné egykori nyári rezidenciája Balcsikban.", "category": "castle", "coords": [28.145657, 43.403182]}, {"name": "Starata melnitsa", "text": "Egy történelmi malom Balcsikban, amely ma múzeumként működik.", "category": "museum", "coords": [28.166582, 43.404754]}, {"name": "Balchishka navigatsionna svetlina - valnoloma", "text": "Navigációs fény a balcsiki kikötő hullámtörőjén.", "category": "landmark", "coords": [28.163888, 43.400504]}, {"name": "Istoricheski muzei", "text": "Balcsik városának történelmi múzeuma.", "category": "museum", "coords": [28.16292, 43.407227]}, {"name": "Kiliino uchilishte", "text": "Egy egykori egyházi iskolában berendezett múzeum Balcsikban.", "category": "museum", "coords": [28.164434, 43.414724]}, {"name": "Tsarkva „Konstantin i Elena“", "text": "Egy egykori templom Balcsikban, amely ma múzeumként látogatható.", "category": "museum", "coords": [28.165453, 43.406138]}, {"name": "Arhitekturno-parkov kompleks “Dvoretsat”", "text": "Kastély- és kertegyüttes a fekete-tengeri partvidéken, Balcsikban.", "category": "landmark", "coords": [28.147331, 43.404612]}, {"name": "Parvite sportisti ot gr. Balchik zlatni medalisti po morski sporten mnogoboi", "text": "Emlékmű Balcsik város első tengeri sportágakban aranyérmes sportolóinak.", "category": "historical", "coords": [28.162625, 43.405397]}, {"name": "Pametnik na Vasil Levski", "text": "Vaszil Levszki bolgár nemzeti hős emlékműve Balcsikban.", "category": "historical", "coords": [28.16087, 43.426966]}, {"name": "\"Starata Melnitsa\"", "text": "Egy régi malom romjai Balcsikban.", "category": "historical", "coords": [28.168315, 43.404295]}, {"name": "Tepsi gol", "text": "Egy tó Balcsik környékén, amely ideális egy pihentető szabadtéri tartózkodáshoz.", "category": "natural", "coords": [28.191501, 43.40103]}], "ro": [{"name": "Castelul Reginei Maria din Balcic „Cuibul Singuratic”", "text": "Fosta reședință de vară a reginei Maria a României din Balcic.", "category": "castle", "coords": [28.145657, 43.403182]}, {"name": "Starata melnitsa", "text": "O moară istorică din Balcic, transformată în muzeu.", "category": "museum", "coords": [28.166582, 43.404754]}, {"name": "Balchishka navigatsionna svetlina - valnoloma", "text": "Un far de navigație situat pe digul portului din Balcic.", "category": "landmark", "coords": [28.163888, 43.400504]}, {"name": "Istoricheski muzei", "text": "Muzeul de istorie din orașul Balcic.", "category": "museum", "coords": [28.16292, 43.407227]}, {"name": "Kiliino uchilishte", "text": "Un muzeu în Balcic amenajat într-o fostă școală confesională.", "category": "museum", "coords": [28.164434, 43.414724]}, {"name": "Tsarkva „Konstantin i Elena“", "text": "O fostă biserică din Balcic, transformată în spațiu muzeal.", "category": "museum", "coords": [28.165453, 43.406138]}, {"name": "Complexul architectural parc \"Palatul\"", "text": "Un complex arhitectural format dintr-un palat și o grădină botanică în Balcic.", "category": "landmark", "coords": [28.147331, 43.404612]}, {"name": "Parvite sportisti ot gr. Balchik zlatni medalisti po morski sporten mnogoboi", "text": "Un monument dedicat primilor sportivi medaliați cu aur din Balcic la sporturi nautice.", "category": "historical", "coords": [28.162625, 43.405397]}, {"name": "Pametnik na Vasil Levski", "text": "Un monument dedicat eroului național bulgar Vasil Levski în Balcic.", "category": "historical", "coords": [28.16087, 43.426966]}, {"name": "\"Starata Melnitsa\"", "text": "Ruinele unei mori vechi în Balcic.", "category": "historical", "coords": [28.168315, 43.404295]}, {"name": "Tepsi gol", "text": "Un lac în apropiere de Balcic, ideal pentru o ședere relaxantă în aer liber.", "category": "natural", "coords": [28.191501, 43.40103]}], "en": [{"name": "Balchik Palace \"Quiet Nest\"", "text": "The former summer residence of Queen Marie of Romania in Balchik.", "category": "castle", "coords": [28.145657, 43.403182]}, {"name": "Old Mill", "text": "A historical mill in Balchik that now serves as a museum.", "category": "museum", "coords": [28.166582, 43.404754]}, {"name": "Balchishka navigatsionna svetlina - valnoloma", "text": "A navigation light located on the breakwater in Balchik.", "category": "landmark", "coords": [28.163888, 43.400504]}, {"name": "History Museum", "text": "The history museum of the city of Balchik.", "category": "museum", "coords": [28.16292, 43.407227]}, {"name": "Church School", "text": "A museum in Balchik housed in a former church school.", "category": "museum", "coords": [28.164434, 43.414724]}, {"name": "Church \"Konstantin i ELena\"", "text": "A former church in Balchik that now functions as a museum.", "category": "museum", "coords": [28.165453, 43.406138]}, {"name": "Architectural park complex \"The Palace\"", "text": "An architectural park complex featuring a palace and botanical gardens in Balchik.", "category": "landmark", "coords": [28.147331, 43.404612]}, {"name": "Parvite sportisti ot gr. Balchik zlatni medalisti po morski sporten mnogoboi", "text": "A monument to the first gold medalist athletes from Balchik in maritime sports.", "category": "historical", "coords": [28.162625, 43.405397]}, {"name": "Pametnik na Vasil Levski", "text": "A monument dedicated to the Bulgarian national hero Vasil Levski in Balchik.", "category": "historical", "coords": [28.16087, 43.426966]}, {"name": "\"Starata Melnitsa\"", "text": "The ruins of an old mill located in Balchik.", "category": "historical", "coords": [28.168315, 43.404295]}, {"name": "Tepsi Gyol", "text": "A lake near Balchik, ideal for a relaxing outdoor stay.", "category": "natural", "coords": [28.191501, 43.40103]}]},
+    id: "bulgaria-balchik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vila \"Tihoto gnezdo\"",
+                  "text": "Die ehemalige Sommerresidenz der rumänischen Königin Maria in Baltschik.",
+                  "category": "castle",
+                  "coords": [
+                        28.145657,
+                        43.403182
+                  ]
+            },
+            {
+                  "name": "Starata melnitsa",
+                  "text": "Eine historische Mühle in Baltschik, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        28.166582,
+                        43.404754
+                  ]
+            },
+            {
+                  "name": "Balchishka navigatsionna svetlina - valnoloma",
+                  "text": "Ein Leuchtfeuer am Wellenbrecher des Hafens von Baltschik.",
+                  "category": "landmark",
+                  "coords": [
+                        28.163888,
+                        43.400504
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Das Historische Museum von Balchik in einem Gebäude aus dem 19. Jahrhundert mit archäologischen und ethnografischen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        28.16292,
+                        43.407227
+                  ]
+            },
+            {
+                  "name": "Kiliino uchilishte",
+                  "text": "Eine ehemalige Kirchenschule aus der Bulgarischen Wiedergeburt, heute Museum mit Bildungsartefakten in Balchik.",
+                  "category": "museum",
+                  "coords": [
+                        28.164434,
+                        43.414724
+                  ]
+            },
+            {
+                  "name": "Tsarkva „Konstantin i Elena“",
+                  "text": "Eine ehemalige Kirche in Baltschik, die heute als Museum genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        28.165453,
+                        43.406138
+                  ]
+            },
+            {
+                  "name": "Arhitekturno-parkov kompleks “Dvoretsat”",
+                  "text": "Eine Schloss- und Gartenanlage an der Schwarzmeerküste in Baltschik.",
+                  "category": "landmark",
+                  "coords": [
+                        28.147331,
+                        43.404612
+                  ]
+            },
+            {
+                  "name": "Parvite sportisti ot gr. Balchik zlatni medalisti po morski sporten mnogoboi",
+                  "text": "Ein Denkmal für die ersten Goldsportler der Stadt Baltschik im Seesport.",
+                  "category": "historical",
+                  "coords": [
+                        28.162625,
+                        43.405397
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vasil Levski",
+                  "text": "Ein Denkmal zu Ehren des bulgarischen Nationalhelden Wassil Lewski in Baltschik.",
+                  "category": "historical",
+                  "coords": [
+                        28.16087,
+                        43.426966
+                  ]
+            },
+            {
+                  "name": "\"Starata Melnitsa\"",
+                  "text": "Eine restaurierte Wassermühle aus dem 19. Jahrhundert an einem Bach in Balchik.",
+                  "category": "historical",
+                  "coords": [
+                        28.168315,
+                        43.404295
+                  ]
+            },
+            {
+                  "name": "Tepsi gol",
+                  "text": "Ein See bei Baltschik, ideal für einen entspannten Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        28.191501,
+                        43.40103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vila \"Tihoto gnezdo\"",
+                  "text": "Mária román királyné egykori nyári rezidenciája Balcsikban.",
+                  "category": "castle",
+                  "coords": [
+                        28.145657,
+                        43.403182
+                  ]
+            },
+            {
+                  "name": "Starata melnitsa",
+                  "text": "Egy történelmi malom Balcsikban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        28.166582,
+                        43.404754
+                  ]
+            },
+            {
+                  "name": "Balchishka navigatsionna svetlina - valnoloma",
+                  "text": "Navigációs fény a balcsiki kikötő hullámtörőjén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.163888,
+                        43.400504
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "A balcsiki Történeti Múzeum egy 19. századi épületben, régészeti és néprajzi kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        28.16292,
+                        43.407227
+                  ]
+            },
+            {
+                  "name": "Kiliino uchilishte",
+                  "text": "Egy egykori egyházi iskola a bolgár újjászületés korából, ma múzeum oktatási tárgyakkal Balcsikban.",
+                  "category": "museum",
+                  "coords": [
+                        28.164434,
+                        43.414724
+                  ]
+            },
+            {
+                  "name": "Tsarkva „Konstantin i Elena“",
+                  "text": "Egy egykori templom Balcsikban, amely ma múzeumként látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        28.165453,
+                        43.406138
+                  ]
+            },
+            {
+                  "name": "Arhitekturno-parkov kompleks “Dvoretsat”",
+                  "text": "Kastély- és kertegyüttes a fekete-tengeri partvidéken, Balcsikban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.147331,
+                        43.404612
+                  ]
+            },
+            {
+                  "name": "Parvite sportisti ot gr. Balchik zlatni medalisti po morski sporten mnogoboi",
+                  "text": "Emlékmű Balcsik város első tengeri sportágakban aranyérmes sportolóinak.",
+                  "category": "historical",
+                  "coords": [
+                        28.162625,
+                        43.405397
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vasil Levski",
+                  "text": "Vaszil Levszki bolgár nemzeti hős emlékműve Balcsikban.",
+                  "category": "historical",
+                  "coords": [
+                        28.16087,
+                        43.426966
+                  ]
+            },
+            {
+                  "name": "\"Starata Melnitsa\"",
+                  "text": "Egy 19. századi felújított vízimalom egy patak mellett Balcsikban.",
+                  "category": "historical",
+                  "coords": [
+                        28.168315,
+                        43.404295
+                  ]
+            },
+            {
+                  "name": "Tepsi gol",
+                  "text": "Egy tó Balcsik környékén, amely ideális egy pihentető szabadtéri tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.191501,
+                        43.40103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Reginei Maria din Balcic „Cuibul Singuratic”",
+                  "text": "Fosta reședință de vară a reginei Maria a României din Balcic.",
+                  "category": "castle",
+                  "coords": [
+                        28.145657,
+                        43.403182
+                  ]
+            },
+            {
+                  "name": "Starata melnitsa",
+                  "text": "O moară istorică din Balcic, transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        28.166582,
+                        43.404754
+                  ]
+            },
+            {
+                  "name": "Balchishka navigatsionna svetlina - valnoloma",
+                  "text": "Un far de navigație situat pe digul portului din Balcic.",
+                  "category": "landmark",
+                  "coords": [
+                        28.163888,
+                        43.400504
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Muzeul de Istorie din Balchik, găzduit într-o clădire din secolul al XIX-lea, cu exponate arheologice și etnografice.",
+                  "category": "museum",
+                  "coords": [
+                        28.16292,
+                        43.407227
+                  ]
+            },
+            {
+                  "name": "Kiliino uchilishte",
+                  "text": "O fostă școală bisericească din perioada Renașterii Bulgare, acum muzeu cu artefacte educaționale în Balchik.",
+                  "category": "museum",
+                  "coords": [
+                        28.164434,
+                        43.414724
+                  ]
+            },
+            {
+                  "name": "Tsarkva „Konstantin i Elena“",
+                  "text": "O fostă biserică din Balcic, transformată în spațiu muzeal.",
+                  "category": "museum",
+                  "coords": [
+                        28.165453,
+                        43.406138
+                  ]
+            },
+            {
+                  "name": "Complexul architectural parc \"Palatul\"",
+                  "text": "Un complex arhitectural format dintr-un palat și o grădină botanică în Balcic.",
+                  "category": "landmark",
+                  "coords": [
+                        28.147331,
+                        43.404612
+                  ]
+            },
+            {
+                  "name": "Parvite sportisti ot gr. Balchik zlatni medalisti po morski sporten mnogoboi",
+                  "text": "Un monument dedicat primilor sportivi medaliați cu aur din Balcic la sporturi nautice.",
+                  "category": "historical",
+                  "coords": [
+                        28.162625,
+                        43.405397
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vasil Levski",
+                  "text": "Un monument dedicat eroului național bulgar Vasil Levski în Balcic.",
+                  "category": "historical",
+                  "coords": [
+                        28.16087,
+                        43.426966
+                  ]
+            },
+            {
+                  "name": "\"Starata Melnitsa\"",
+                  "text": "O moară de apă restaurată din secolul al XIX-lea, pe un pârâu din Balchik.",
+                  "category": "historical",
+                  "coords": [
+                        28.168315,
+                        43.404295
+                  ]
+            },
+            {
+                  "name": "Tepsi gol",
+                  "text": "Un lac în apropiere de Balcic, ideal pentru o ședere relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.191501,
+                        43.40103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balchik Palace \"Quiet Nest\"",
+                  "text": "The former summer residence of Queen Marie of Romania in Balchik.",
+                  "category": "castle",
+                  "coords": [
+                        28.145657,
+                        43.403182
+                  ]
+            },
+            {
+                  "name": "Old Mill",
+                  "text": "A historical mill in Balchik that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        28.166582,
+                        43.404754
+                  ]
+            },
+            {
+                  "name": "Balchishka navigatsionna svetlina - valnoloma",
+                  "text": "A navigation light located on the breakwater in Balchik.",
+                  "category": "landmark",
+                  "coords": [
+                        28.163888,
+                        43.400504
+                  ]
+            },
+            {
+                  "name": "History Museum",
+                  "text": "The History Museum of Balchik, housed in a 19th‑century building with archaeological and ethnographic exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        28.16292,
+                        43.407227
+                  ]
+            },
+            {
+                  "name": "Church School",
+                  "text": "A former church school from the Bulgarian Revival period, now a museum displaying educational artifacts in Balchik.",
+                  "category": "museum",
+                  "coords": [
+                        28.164434,
+                        43.414724
+                  ]
+            },
+            {
+                  "name": "Church \"Konstantin i ELena\"",
+                  "text": "A former church in Balchik that now functions as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        28.165453,
+                        43.406138
+                  ]
+            },
+            {
+                  "name": "Architectural park complex \"The Palace\"",
+                  "text": "An architectural park complex featuring a palace and botanical gardens in Balchik.",
+                  "category": "landmark",
+                  "coords": [
+                        28.147331,
+                        43.404612
+                  ]
+            },
+            {
+                  "name": "Parvite sportisti ot gr. Balchik zlatni medalisti po morski sporten mnogoboi",
+                  "text": "A monument to the first gold medalist athletes from Balchik in maritime sports.",
+                  "category": "historical",
+                  "coords": [
+                        28.162625,
+                        43.405397
+                  ]
+            },
+            {
+                  "name": "Pametnik na Vasil Levski",
+                  "text": "A monument dedicated to the Bulgarian national hero Vasil Levski in Balchik.",
+                  "category": "historical",
+                  "coords": [
+                        28.16087,
+                        43.426966
+                  ]
+            },
+            {
+                  "name": "\"Starata Melnitsa\"",
+                  "text": "A restored 19th‑century watermill on a stream in Balchik.",
+                  "category": "historical",
+                  "coords": [
+                        28.168315,
+                        43.404295
+                  ]
+            },
+            {
+                  "name": "Tepsi Gyol",
+                  "text": "A lake near Balchik, ideal for a relaxing outdoor stay.",
+                  "category": "natural",
+                  "coords": [
+                        28.191501,
+                        43.40103
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Baltschik", hu: "Balcsik", ro: "Balcic", en: "Balchik" },
@@ -1938,7 +6654,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-razlog-cities-v2.webp",
   },
   {
-    id: "bulgaria-nova-zagora-cities-v2", "sights": {"de": [{"name": "Teatar Minko Balkanski", "text": "Ein Theater in Nowa Sagora, benannt nach Minko Balkanski.", "category": "cultural", "coords": [26.014501, 42.492143]}], "hu": [{"name": "Teatar Minko Balkanski", "text": "Minko Balkanszki nevét viselő színház Nova Zagora városában.", "category": "cultural", "coords": [26.014501, 42.492143]}], "ro": [{"name": "Teatar Minko Balkanski", "text": "Teatrul Minko Balkanski din orașul Nova Zagora.", "category": "cultural", "coords": [26.014501, 42.492143]}], "en": [{"name": "Teatar Minko Balkanski", "text": "The Minko Balkanski Theatre in Nova Zagora.", "category": "cultural", "coords": [26.014501, 42.492143]}]},
+    id: "bulgaria-nova-zagora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatar Minko Balkanski",
+                  "text": "Ein Kulturtheater, benannt nach dem bulgarischen Schauspieler Minko Balkanski, mit Theaterstücken und Konzerten in Nova Zagora.",
+                  "category": "cultural",
+                  "coords": [
+                        26.014501,
+                        42.492143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatar Minko Balkanski",
+                  "text": "Egy kulturális színház, amely Minko Balkanski bolgár színész nevét viseli, színdarabokkal és koncertekkel Nova Zagorában.",
+                  "category": "cultural",
+                  "coords": [
+                        26.014501,
+                        42.492143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatar Minko Balkanski",
+                  "text": "Un teatru cultural numit după actorul bulgar Minko Balkanski, cu piese de teatru și concerte în Nova Zagora.",
+                  "category": "cultural",
+                  "coords": [
+                        26.014501,
+                        42.492143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatar Minko Balkanski",
+                  "text": "A cultural theater named after the Bulgarian actor Minko Balkanski, hosting plays and concerts in Nova Zagora.",
+                  "category": "cultural",
+                  "coords": [
+                        26.014501,
+                        42.492143
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Nowa Sagora", hu: "Nova Zagora", ro: "Nova Zagora", en: "Nova Zagora" },
@@ -1987,7 +6748,7 @@ export const bulgariaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "White Cliffs Byala",
-                  "text": "Ein Strand nahe Byala am Schwarzen Meer.",
+                  "text": "Die weißen Kalksteinklippen an der Schwarzmeerküste bei Byala, beliebt zum Sonnenbaden und Fotografieren.",
                   "category": "recreational",
                   "coords": [
                         27.896806,
@@ -1996,7 +6757,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Chayka",
-                  "text": "Ein Strand nahe Byala am Schwarzen Meer.",
+                  "text": "Der Chayka-Strand, ein schmaler Sandstreifen zwischen Felsen, bei Einheimischen in Byala beliebt.",
                   "category": "recreational",
                   "coords": [
                         27.898026,
@@ -2005,7 +6766,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Kara dere",
-                  "text": "Ein naturbelassener Strand bei Byala am Schwarzen Meer.",
+                  "text": "Eine malerische Bucht am Mündungsgebiet des Kara Dere nahe Byala.",
                   "category": "recreational",
                   "coords": [
                         27.899027,
@@ -2023,7 +6784,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Kids swimming pool",
-                  "text": "Ein spezielles Schwimmbecken für Kinder in Byala.",
+                  "text": "Ein flaches, eingezäuntes Kinderbecken in Strandnähe in Byala.",
                   "category": "family",
                   "coords": [
                         27.881138,
@@ -2079,7 +6840,7 @@ export const bulgariaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "White Cliffs Byala",
-                  "text": "Egy strand a bulgáriai Bjala közelében, a Fekete-tengeren.",
+                  "text": "A fehér mészkősziklák a Fekete-tenger partján, Byala közelében, népszerű napozásra és fényképezésre.",
                   "category": "recreational",
                   "coords": [
                         27.896806,
@@ -2088,7 +6849,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Chayka",
-                  "text": "Egy strand a bulgáriai Bjala közelében, a Fekete-tengeren.",
+                  "text": "A Chayka strand, egy keskeny homoksáv sziklák között, népszerű a helyiek körében Byalában.",
                   "category": "recreational",
                   "coords": [
                         27.898026,
@@ -2097,7 +6858,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Kara dere",
-                  "text": "Természetes strand a Fekete-tenger partján, Byala közelében.",
+                  "text": "Egy festői öböl a Kara Dere torkolatánál Byala közelében.",
                   "category": "recreational",
                   "coords": [
                         27.899027,
@@ -2115,7 +6876,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Kids swimming pool",
-                  "text": "Kifejezetten gyerekeknek szánt úszómedence Bjalában.",
+                  "text": "Egy sekély, bekerített gyermekmedence a strand közelében Byalában.",
                   "category": "family",
                   "coords": [
                         27.881138,
@@ -2171,7 +6932,7 @@ export const bulgariaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "White Cliffs Byala",
-                  "text": "O plajă lângă Byala la Marea Neagră.",
+                  "text": "Stâncile albe de calcar de pe coasta Mării Negre lângă Byala, populare pentru plajă și fotografii.",
                   "category": "recreational",
                   "coords": [
                         27.896806,
@@ -2180,7 +6941,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Chayka",
-                  "text": "O plajă lângă Byala la Marea Neagră.",
+                  "text": "Plaja Chayka, o fâșie îngustă de nisip între stânci, populară printre localnici în Byala.",
                   "category": "recreational",
                   "coords": [
                         27.898026,
@@ -2189,7 +6950,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Kara dere",
-                  "text": "O plajă naturală lângă Byala, la Marea Neagră.",
+                  "text": "Un golf pitoresc la gura râului Kara Dere, lângă Byala.",
                   "category": "recreational",
                   "coords": [
                         27.899027,
@@ -2207,7 +6968,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Kids swimming pool",
-                  "text": "O piscină dedicată copiilor situată în Byala.",
+                  "text": "O piscină mică, îngrădită, pentru copii, lângă plajă în Byala.",
                   "category": "family",
                   "coords": [
                         27.881138,
@@ -2263,7 +7024,7 @@ export const bulgariaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "White Cliffs Byala",
-                  "text": "A beach near Byala on the Black Sea.",
+                  "text": "The white limestone cliffs along the Black Sea coast near Byala, popular for sunbathing and photography.",
                   "category": "recreational",
                   "coords": [
                         27.896806,
@@ -2272,7 +7033,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Chayka",
-                  "text": "A beach near Byala on the Black Sea.",
+                  "text": "Chayka beach, a narrow strip of sand between rocks, popular with locals in Byala.",
                   "category": "recreational",
                   "coords": [
                         27.898026,
@@ -2281,7 +7042,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Kara dere",
-                  "text": "A natural beach near Byala on the Black Sea.",
+                  "text": "A picturesque cove at the mouth of the Kara Dere river, near Byala.",
                   "category": "recreational",
                   "coords": [
                         27.899027,
@@ -2299,7 +7060,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Kids swimming pool",
-                  "text": "A dedicated swimming pool for children located in Byala.",
+                  "text": "A shallow, fenced children's pool near the beach in Byala.",
                   "category": "family",
                   "coords": [
                         27.881138,
@@ -2397,7 +7158,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-byala-cities-v2.webp",
   },
   {
-    id: "bulgaria-elkhovo-cities-v2", "sights": {"de": [{"name": "Etnografski muzei", "text": "Ein Museum in Elchowo mit einer bedeutenden Sammlung regionaler Trachten.", "category": "museum", "coords": [26.567108, 42.171202]}, {"name": "Angel Valev", "text": "Ein Denkmal zu Ehren von Angel Valev in der Stadt Elchowo.", "category": "historical", "coords": [26.565565, 42.171281]}, {"name": "Partizanski pametnik", "text": "Ein Denkmal in Elchowo zum Gedenken an die lokalen Partisanen.", "category": "historical", "coords": [26.564295, 42.175324]}], "hu": [{"name": "Etnografski muzei", "text": "Elhovo múzeuma, amely jelentős népviseleti gyűjteménnyel rendelkezik.", "category": "museum", "coords": [26.567108, 42.171202]}, {"name": "Angel Valev", "text": "Angel Valev tiszteletére emelt emlékmű Elhovo városában.", "category": "historical", "coords": [26.565565, 42.171281]}, {"name": "Partizanski pametnik", "text": "Emlékmű Elhovóban a helyi partizánok emlékére.", "category": "historical", "coords": [26.564295, 42.175324]}], "ro": [{"name": "Etnografski muzei", "text": "Un muzeu din Elhovo cu o colecție importantă de costume populare regionale.", "category": "museum", "coords": [26.567108, 42.171202]}, {"name": "Angel Valev", "text": "Un monument ridicat în cinstea lui Anghel Valev în orașul Elhovo.", "category": "historical", "coords": [26.565565, 42.171281]}, {"name": "Partizanski pametnik", "text": "Un monument în Elhovo ridicat în memoria partizanilor locali.", "category": "historical", "coords": [26.564295, 42.175324]}], "en": [{"name": "Ethnographic Museum", "text": "A museum in Elhovo with a significant collection of regional folk costumes.", "category": "museum", "coords": [26.567108, 42.171202]}, {"name": "Angel Valev", "text": "A monument honoring Angel Valev in the city of Elhovo.", "category": "historical", "coords": [26.565565, 42.171281]}, {"name": "Partizanski pametnik", "text": "A monument in Elhovo commemorating local partisans.", "category": "historical", "coords": [26.564295, 42.175324]}]},
+    id: "bulgaria-elkhovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Ein Museum in Elchowo mit einer bedeutenden Sammlung regionaler Trachten.",
+                  "category": "museum",
+                  "coords": [
+                        26.567108,
+                        42.171202
+                  ]
+            },
+            {
+                  "name": "Angel Valev",
+                  "text": "Ein Denkmal für den bulgarischen Revolutionär Angel Valev in Elkhovo.",
+                  "category": "historical",
+                  "coords": [
+                        26.565565,
+                        42.171281
+                  ]
+            },
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "Ein Steinobelisken zum Gedenken an die Partisanen der Region im Park von Elkhovo.",
+                  "category": "historical",
+                  "coords": [
+                        26.564295,
+                        42.175324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Elhovo múzeuma, amely jelentős népviseleti gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        26.567108,
+                        42.171202
+                  ]
+            },
+            {
+                  "name": "Angel Valev",
+                  "text": "Egy emlékmű Angel Valev bolgár forradalmár tiszteletére Elhovóban.",
+                  "category": "historical",
+                  "coords": [
+                        26.565565,
+                        42.171281
+                  ]
+            },
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "Egy kő obeliszk a régió partizánjainak emlékére Elhovo parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        26.564295,
+                        42.175324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Un muzeu din Elhovo cu o colecție importantă de costume populare regionale.",
+                  "category": "museum",
+                  "coords": [
+                        26.567108,
+                        42.171202
+                  ]
+            },
+            {
+                  "name": "Angel Valev",
+                  "text": "Un monument dedicat revoluționarului bulgar Angel Valev în Elkhovo.",
+                  "category": "historical",
+                  "coords": [
+                        26.565565,
+                        42.171281
+                  ]
+            },
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "Un obelisc de piatră în memoria partizanilor regiunii, în parcul din Elkhovo.",
+                  "category": "historical",
+                  "coords": [
+                        26.564295,
+                        42.175324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "A museum in Elhovo with a significant collection of regional folk costumes.",
+                  "category": "museum",
+                  "coords": [
+                        26.567108,
+                        42.171202
+                  ]
+            },
+            {
+                  "name": "Angel Valev",
+                  "text": "A monument dedicated to the Bulgarian revolutionary Angel Valev in Elkhovo.",
+                  "category": "historical",
+                  "coords": [
+                        26.565565,
+                        42.171281
+                  ]
+            },
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "A stone obelisk commemorating the region's partisans in the park of Elkhovo.",
+                  "category": "historical",
+                  "coords": [
+                        26.564295,
+                        42.175324
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Elchowo", hu: "Elhovo", ro: "Elhovo", en: "Elhovo" },
@@ -2442,7 +7320,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-elkhovo-cities-v2.webp",
   },
   {
-    id: "bulgaria-svilengrad-cities-v2", "sights": {"de": [{"name": "Istoricheski muzei", "text": "Das historische Museum in Swilengrad.", "category": "museum", "coords": [26.205318, 41.764713]}, {"name": "Most na Mustafa pasha", "text": "Eine historische osmanische Brücke über den Fluss Mariza in Swilengrad.", "category": "landmark", "coords": [26.193479, 41.768798]}, {"name": "Voreiotero Simeio Elladas", "text": "Ein Ort nahe Swilengrad, der als nördlichster Punkt Griechenlands gilt.", "category": "landmark", "coords": [26.173823, 41.748726]}], "hu": [{"name": "Istoricheski muzei", "text": "Szvilengrad történelmi múzeuma.", "category": "museum", "coords": [26.205318, 41.764713]}, {"name": "Most na Mustafa pasha", "text": "Egy történelmi oszmán híd a Marica folyón Szvilengradban.", "category": "landmark", "coords": [26.193479, 41.768798]}, {"name": "Voreiotero Simeio Elladas", "text": "Görögország legészakibb pontjaként számon tartott hely Szvilengrad közelében.", "category": "landmark", "coords": [26.173823, 41.748726]}], "ro": [{"name": "Istoricheski muzei", "text": "Muzeul de istorie din Svilengrad.", "category": "museum", "coords": [26.205318, 41.764713]}, {"name": "Most na Mustafa pasha", "text": "Un pod otoman istoric peste râul Marița în Svilengrad.", "category": "landmark", "coords": [26.193479, 41.768798]}, {"name": "Voreiotero Simeio Elladas", "text": "Un punct de interes lângă Svilengrad, considerat cel mai nordic punct al Greciei.", "category": "landmark", "coords": [26.173823, 41.748726]}], "en": [{"name": "Istoricheski muzei", "text": "The historical museum in Svilengrad.", "category": "museum", "coords": [26.205318, 41.764713]}, {"name": "Mustafa Pasha Bridge", "text": "A historical Ottoman bridge over the Maritsa River in Svilengrad.", "category": "landmark", "coords": [26.193479, 41.768798]}, {"name": "Voreiotero Simeio Elladas", "text": "A location near Svilengrad considered the northernmost point of Greece.", "category": "landmark", "coords": [26.173823, 41.748726]}]},
+    id: "bulgaria-svilengrad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Das Historische Museum von Svilengrad mit römischen und osmanischen Funden aus der Mariza-Region.",
+                  "category": "museum",
+                  "coords": [
+                        26.205318,
+                        41.764713
+                  ]
+            },
+            {
+                  "name": "Most na Mustafa pasha",
+                  "text": "Eine historische osmanische Brücke über den Fluss Mariza in Swilengrad.",
+                  "category": "landmark",
+                  "coords": [
+                        26.193479,
+                        41.768798
+                  ]
+            },
+            {
+                  "name": "Voreiotero Simeio Elladas",
+                  "text": "Ein Ort nahe Swilengrad, der als nördlichster Punkt Griechenlands gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.173823,
+                        41.748726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "A szvilengrádi Történeti Múzeum római és oszmán leletekkel a Marica-vidékről.",
+                  "category": "museum",
+                  "coords": [
+                        26.205318,
+                        41.764713
+                  ]
+            },
+            {
+                  "name": "Most na Mustafa pasha",
+                  "text": "Egy történelmi oszmán híd a Marica folyón Szvilengradban.",
+                  "category": "landmark",
+                  "coords": [
+                        26.193479,
+                        41.768798
+                  ]
+            },
+            {
+                  "name": "Voreiotero Simeio Elladas",
+                  "text": "Görögország legészakibb pontjaként számon tartott hely Szvilengrad közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        26.173823,
+                        41.748726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Muzeul de Istorie din Svilengrad, cu artefacte romane și otomane din regiunea râului Marița.",
+                  "category": "museum",
+                  "coords": [
+                        26.205318,
+                        41.764713
+                  ]
+            },
+            {
+                  "name": "Most na Mustafa pasha",
+                  "text": "Un pod otoman istoric peste râul Marița în Svilengrad.",
+                  "category": "landmark",
+                  "coords": [
+                        26.193479,
+                        41.768798
+                  ]
+            },
+            {
+                  "name": "Voreiotero Simeio Elladas",
+                  "text": "Un punct de interes lângă Svilengrad, considerat cel mai nordic punct al Greciei.",
+                  "category": "landmark",
+                  "coords": [
+                        26.173823,
+                        41.748726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "The Historical Museum of Svilengrad, featuring Roman and Ottoman artifacts from the Maritsa region.",
+                  "category": "museum",
+                  "coords": [
+                        26.205318,
+                        41.764713
+                  ]
+            },
+            {
+                  "name": "Mustafa Pasha Bridge",
+                  "text": "A historical Ottoman bridge over the Maritsa River in Svilengrad.",
+                  "category": "landmark",
+                  "coords": [
+                        26.193479,
+                        41.768798
+                  ]
+            },
+            {
+                  "name": "Voreiotero Simeio Elladas",
+                  "text": "A location near Svilengrad considered the northernmost point of Greece.",
+                  "category": "landmark",
+                  "coords": [
+                        26.173823,
+                        41.748726
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Swilengrad", hu: "Szvilengrad", ro: "Svilengrad", en: "Svilengrad" },
@@ -2487,7 +7482,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-svilengrad-cities-v2.webp",
   },
   {
-    id: "bulgaria-omurtag-cities-v2", "sights": {"de": [{"name": "Aviatsionno-kosmicheski park - Omurtag", "text": "Eine Freiluftausstellung in Omurtag, die der Luft- und Raumfahrt gewidmet ist.", "category": "family", "coords": [26.418455, 43.119843]}, {"name": "Dimitar Hristov Kamburov", "text": "Ein Denkmal zu Ehren von Dimitar Christow Kamburow in Omurtag.", "category": "historical", "coords": [26.418807, 43.107637]}, {"name": "Ivan Ormanov", "text": "Ein lokales Denkmal für Iwan Ormanow in der Stadt Omurtag.", "category": "historical", "coords": [26.418977, 43.104106]}], "hu": [{"name": "Aviatsionno-kosmicheski park - Omurtag", "text": "Szabadtéri repülési és űrhajózási kiállítás Omurtagban.", "category": "family", "coords": [26.418455, 43.119843]}, {"name": "Dimitar Hristov Kamburov", "text": "Dimitar Hrisztov Kamburov tiszteletére emelt emlékmű Omurtagban.", "category": "historical", "coords": [26.418807, 43.107637]}, {"name": "Ivan Ormanov", "text": "Ivan Ormanov tiszteletére emelt helyi emlékmű Omurtag városában.", "category": "historical", "coords": [26.418977, 43.104106]}], "ro": [{"name": "Aviatsionno-kosmicheski park - Omurtag", "text": "O expoziție aerospațială în aer liber în Omurtag.", "category": "family", "coords": [26.418455, 43.119843]}, {"name": "Dimitar Hristov Kamburov", "text": "Un monument dedicat lui Dimitar Hristov Kamburov în Omurtag.", "category": "historical", "coords": [26.418807, 43.107637]}, {"name": "Ivan Ormanov", "text": "Un monument local dedicat lui Ivan Ormanov în orașul Omurtag.", "category": "historical", "coords": [26.418977, 43.104106]}], "en": [{"name": "Open-air aerospace exposition - Omurtag", "text": "An open-air aerospace exposition in Omurtag showcasing aircraft and space technology.", "category": "family", "coords": [26.418455, 43.119843]}, {"name": "Dimitar Hristov Kamburov", "text": "A monument dedicated to Dimitar Hristov Kamburov in Omurtag.", "category": "historical", "coords": [26.418807, 43.107637]}, {"name": "Ivan Ormanov", "text": "A local monument dedicated to Ivan Ormanov in the city of Omurtag.", "category": "historical", "coords": [26.418977, 43.104106]}]},
+    id: "bulgaria-omurtag-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aviatsionno-kosmicheski park - Omurtag",
+                  "text": "Eine Freiluftausstellung in Omurtag, die der Luft- und Raumfahrt gewidmet ist.",
+                  "category": "family",
+                  "coords": [
+                        26.418455,
+                        43.119843
+                  ]
+            },
+            {
+                  "name": "Dimitar Hristov Kamburov",
+                  "text": "Ein Denkmal für Dimitar Hristov Kamburov, einen lokalen Helden der Balkankriege, in Omurtag.",
+                  "category": "historical",
+                  "coords": [
+                        26.418807,
+                        43.107637
+                  ]
+            },
+            {
+                  "name": "Ivan Ormanov",
+                  "text": "Ein lokales Denkmal für Iwan Ormanow in der Stadt Omurtag.",
+                  "category": "historical",
+                  "coords": [
+                        26.418977,
+                        43.104106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aviatsionno-kosmicheski park - Omurtag",
+                  "text": "Szabadtéri repülési és űrhajózási kiállítás Omurtagban.",
+                  "category": "family",
+                  "coords": [
+                        26.418455,
+                        43.119843
+                  ]
+            },
+            {
+                  "name": "Dimitar Hristov Kamburov",
+                  "text": "Egy emlékmű Dimitar Hrisztov Kamburovnak, a Balkán-háborúk helyi hősének, Omurtagban.",
+                  "category": "historical",
+                  "coords": [
+                        26.418807,
+                        43.107637
+                  ]
+            },
+            {
+                  "name": "Ivan Ormanov",
+                  "text": "Ivan Ormanov tiszteletére emelt helyi emlékmű Omurtag városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.418977,
+                        43.104106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aviatsionno-kosmicheski park - Omurtag",
+                  "text": "O expoziție aerospațială în aer liber în Omurtag.",
+                  "category": "family",
+                  "coords": [
+                        26.418455,
+                        43.119843
+                  ]
+            },
+            {
+                  "name": "Dimitar Hristov Kamburov",
+                  "text": "Un monument dedicat lui Dimitar Hristov Kamburov, un erou local al războaielor balcanice, în Omurtag.",
+                  "category": "historical",
+                  "coords": [
+                        26.418807,
+                        43.107637
+                  ]
+            },
+            {
+                  "name": "Ivan Ormanov",
+                  "text": "Un monument local dedicat lui Ivan Ormanov în orașul Omurtag.",
+                  "category": "historical",
+                  "coords": [
+                        26.418977,
+                        43.104106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Open-air aerospace exposition - Omurtag",
+                  "text": "An open-air aerospace exposition in Omurtag showcasing aircraft and space technology.",
+                  "category": "family",
+                  "coords": [
+                        26.418455,
+                        43.119843
+                  ]
+            },
+            {
+                  "name": "Dimitar Hristov Kamburov",
+                  "text": "A monument to Dimitar Hristov Kamburov, a local hero from the Balkan Wars, in Omurtag.",
+                  "category": "historical",
+                  "coords": [
+                        26.418807,
+                        43.107637
+                  ]
+            },
+            {
+                  "name": "Ivan Ormanov",
+                  "text": "A local monument dedicated to Ivan Ormanov in the city of Omurtag.",
+                  "category": "historical",
+                  "coords": [
+                        26.418977,
+                        43.104106
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Omurtag", hu: "Omurtag", ro: "Omurtag", en: "Omurtag" },
@@ -2739,7 +7851,268 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-popovo-cities-v2.webp",
   },
   {
-    id: "bulgaria-lyaskovets-cities-v2", "sights": {"de": [{"name": "Leten teatar", "text": "Ein Freilichttheater in Ljakowez für kulturelle Veranstaltungen im Sommer.", "category": "cultural", "coords": [25.681421, 43.122294]}, {"name": "Istoricheski muzei", "text": "Ein Museum, das die lokale Geschichte und Traditionen von Ljakowez dokumentiert.", "category": "museum", "coords": [25.687545, 43.121971]}, {"name": "Pametnik Elena", "text": "Ein Denkmal in Ljakowez, das Elena gewidmet ist.", "category": "historical", "coords": [25.686882, 43.125045]}, {"name": "Pametnik na trite epohi", "text": "Ein monumentales Bauwerk in Ljakowez, das drei verschiedene historische Epochen symbolisiert.", "category": "historical", "coords": [25.714768, 43.104774]}, {"name": "Lyaskovski manastir Sv. sv. Petar i Pavel", "text": "Ein bedeutendes orthodoxes Kloster auf einem Hügel über Ljakowez, den Heiligen Petrus und Paulus gewidmet.", "category": "religious", "coords": [25.707435, 43.095299]}, {"name": "ezero \"Sveta gora\"", "text": "Der езеро \"Света гора\" in Lyaskovets ist ein See, der sich gut für einen Spaziergang in der Natur eignet.", "category": "natural", "coords": [25.655615, 43.069764]}, {"name": "Park Detski Kut", "text": "Park Detski Kut in Lyaskovets ist ein tolles Ziel für Familien mit Kindern zum Spielen.", "category": "family", "coords": [25.681272, 43.121247]}], "hu": [{"name": "Leten teatar", "text": "Szabadtéri színház Ljakovecben nyári kulturális rendezvényekhez.", "category": "cultural", "coords": [25.681421, 43.122294]}, {"name": "Istoricheski muzei", "text": "Ljakovec helyi történelmét és hagyományait dokumentáló múzeum.", "category": "museum", "coords": [25.687545, 43.121971]}, {"name": "Pametnik Elena", "text": "Emlékmű Ljakovecben, amelyet Elenának szenteltek.", "category": "historical", "coords": [25.686882, 43.125045]}, {"name": "Pametnik na trite epohi", "text": "Monumentális építmény Ljakovecben, amely három különböző történelmi korszakot jelképez.", "category": "historical", "coords": [25.714768, 43.104774]}, {"name": "Lyaskovski manastir Sv. sv. Petar i Pavel", "text": "Jelentős ortodox kolostor a Ljakovec feletti dombon, Szent Péter és Pál tiszteletére.", "category": "religious", "coords": [25.707435, 43.095299]}, {"name": "ezero \"Sveta gora\"", "text": "A езеро \"Света гора\" egy tó Lyaskovets területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [25.655615, 43.069764]}, {"name": "Park Detski Kut", "text": "A Park Detski Kut Lyaskovets városában remek úticél a gyermekes családok számára a játékhoz.", "category": "family", "coords": [25.681272, 43.121247]}], "ro": [{"name": "Leten teatar", "text": "Un teatru de vară în aer liber în Leaskoveț pentru evenimente culturale.", "category": "cultural", "coords": [25.681421, 43.122294]}, {"name": "Istoricheski muzei", "text": "Un muzeu care documentează istoria și tradițiile locale din Leaskoveț.", "category": "museum", "coords": [25.687545, 43.121971]}, {"name": "Pametnik Elena", "text": "Un monument în Leaskoveț dedicat Elenei.", "category": "historical", "coords": [25.686882, 43.125045]}, {"name": "Pametnik na trite epohi", "text": "O structură monumentală în Leaskoveț care simbolizează trei epoci istorice diferite.", "category": "historical", "coords": [25.714768, 43.104774]}, {"name": "Lyaskovski manastir Sv. sv. Petar i Pavel", "text": "O mănăstire ortodoxă importantă situată pe un deal deasupra orașului Leaskoveț, dedicată Sfinților Petru și Pavel.", "category": "religious", "coords": [25.707435, 43.095299]}, {"name": "ezero \"Sveta gora\"", "text": "езеро \"Света гора\" din Lyaskovets este un lac ce oferă un cadru natural frumos pentru relaxare.", "category": "natural", "coords": [25.655615, 43.069764]}, {"name": "Park Detski Kut", "text": "Park Detski Kut din Lyaskovets este o destinație excelentă de joacă pentru familiile cu copii.", "category": "family", "coords": [25.681272, 43.121247]}], "en": [{"name": "Leten teatar", "text": "An open-air theater in Ljakowez used for summer cultural events.", "category": "cultural", "coords": [25.681421, 43.122294]}, {"name": "Istoricheski muzei", "text": "A museum documenting the local history and traditions of Ljakowez.", "category": "museum", "coords": [25.687545, 43.121971]}, {"name": "Pametnik Elena", "text": "A monument in Ljakowez dedicated to Elena.", "category": "historical", "coords": [25.686882, 43.125045]}, {"name": "Three Epochs monument", "text": "A monumental structure in Ljakowez symbolizing three different historical epochs.", "category": "historical", "coords": [25.714768, 43.104774]}, {"name": "Lyaskovski manastir Sv. sv. Petar i Pavel", "text": "A significant Orthodox monastery on a hill above Ljakowez, dedicated to Saints Peter and Paul.", "category": "religious", "coords": [25.707435, 43.095299]}, {"name": "ezero \"Sveta gora\"", "text": "The езеро \"Света гора\" in Lyaskovets is a lake providing a pleasant natural setting for relaxation.", "category": "natural", "coords": [25.655615, 43.069764]}, {"name": "Park Detski Kut", "text": "Park Detski Kut in Lyaskovets is a great destination for families with children to play.", "category": "family", "coords": [25.681272, 43.121247]}]},
+    id: "bulgaria-lyaskovets-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leten teatar",
+                  "text": "Ein Freilichttheater in Ljakowez für kulturelle Veranstaltungen im Sommer.",
+                  "category": "cultural",
+                  "coords": [
+                        25.681421,
+                        43.122294
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Ein Museum, das die lokale Geschichte und Traditionen von Ljakowez dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.687545,
+                        43.121971
+                  ]
+            },
+            {
+                  "name": "Pametnik Elena",
+                  "text": "Ein Denkmal für Elena, eine lokale Persönlichkeit, im Zentrum von Lyaskovets.",
+                  "category": "historical",
+                  "coords": [
+                        25.686882,
+                        43.125045
+                  ]
+            },
+            {
+                  "name": "Pametnik na trite epohi",
+                  "text": "Ein monumentales Bauwerk in Ljakowez, das drei verschiedene historische Epochen symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        25.714768,
+                        43.104774
+                  ]
+            },
+            {
+                  "name": "Lyaskovski manastir Sv. sv. Petar i Pavel",
+                  "text": "Ein bedeutendes orthodoxes Kloster auf einem Hügel über Ljakowez, den Heiligen Petrus und Paulus gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        25.707435,
+                        43.095299
+                  ]
+            },
+            {
+                  "name": "ezero \"Sveta gora\"",
+                  "text": "Der езеро \"Света гора\" in Lyaskovets ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "Park Detski Kut",
+                  "text": "Park Detski Kut in Lyaskovets ist ein tolles Ziel für Familien mit Kindern zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        25.681272,
+                        43.121247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leten teatar",
+                  "text": "Szabadtéri színház Ljakovecben nyári kulturális rendezvényekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        25.681421,
+                        43.122294
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Ljakovec helyi történelmét és hagyományait dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.687545,
+                        43.121971
+                  ]
+            },
+            {
+                  "name": "Pametnik Elena",
+                  "text": "Egy emlékmű Elena tiszteletére, egy helyi személyiségé, Laskovec központjában.",
+                  "category": "historical",
+                  "coords": [
+                        25.686882,
+                        43.125045
+                  ]
+            },
+            {
+                  "name": "Pametnik na trite epohi",
+                  "text": "Monumentális építmény Ljakovecben, amely három különböző történelmi korszakot jelképez.",
+                  "category": "historical",
+                  "coords": [
+                        25.714768,
+                        43.104774
+                  ]
+            },
+            {
+                  "name": "Lyaskovski manastir Sv. sv. Petar i Pavel",
+                  "text": "Jelentős ortodox kolostor a Ljakovec feletti dombon, Szent Péter és Pál tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        25.707435,
+                        43.095299
+                  ]
+            },
+            {
+                  "name": "ezero \"Sveta gora\"",
+                  "text": "A езеро \"Света гора\" egy tó Lyaskovets területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "Park Detski Kut",
+                  "text": "A Park Detski Kut Lyaskovets városában remek úticél a gyermekes családok számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        25.681272,
+                        43.121247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leten teatar",
+                  "text": "Un teatru de vară în aer liber în Leaskoveț pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        25.681421,
+                        43.122294
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Un muzeu care documentează istoria și tradițiile locale din Leaskoveț.",
+                  "category": "museum",
+                  "coords": [
+                        25.687545,
+                        43.121971
+                  ]
+            },
+            {
+                  "name": "Pametnik Elena",
+                  "text": "Un monument dedicat Elenei, o figură locală, în centrul orașului Lyaskovets.",
+                  "category": "historical",
+                  "coords": [
+                        25.686882,
+                        43.125045
+                  ]
+            },
+            {
+                  "name": "Pametnik na trite epohi",
+                  "text": "O structură monumentală în Leaskoveț care simbolizează trei epoci istorice diferite.",
+                  "category": "historical",
+                  "coords": [
+                        25.714768,
+                        43.104774
+                  ]
+            },
+            {
+                  "name": "Lyaskovski manastir Sv. sv. Petar i Pavel",
+                  "text": "O mănăstire ortodoxă importantă situată pe un deal deasupra orașului Leaskoveț, dedicată Sfinților Petru și Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        25.707435,
+                        43.095299
+                  ]
+            },
+            {
+                  "name": "ezero \"Sveta gora\"",
+                  "text": "езеро \"Света гора\" din Lyaskovets este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "Park Detski Kut",
+                  "text": "Park Detski Kut din Lyaskovets este o destinație excelentă de joacă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        25.681272,
+                        43.121247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leten teatar",
+                  "text": "An open-air theater in Ljakowez used for summer cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        25.681421,
+                        43.122294
+                  ]
+            },
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "A museum documenting the local history and traditions of Ljakowez.",
+                  "category": "museum",
+                  "coords": [
+                        25.687545,
+                        43.121971
+                  ]
+            },
+            {
+                  "name": "Pametnik Elena",
+                  "text": "A monument dedicated to Elena, a local figure, in the center of Lyaskovets.",
+                  "category": "historical",
+                  "coords": [
+                        25.686882,
+                        43.125045
+                  ]
+            },
+            {
+                  "name": "Three Epochs monument",
+                  "text": "A monumental structure in Ljakowez symbolizing three different historical epochs.",
+                  "category": "historical",
+                  "coords": [
+                        25.714768,
+                        43.104774
+                  ]
+            },
+            {
+                  "name": "Lyaskovski manastir Sv. sv. Petar i Pavel",
+                  "text": "A significant Orthodox monastery on a hill above Ljakowez, dedicated to Saints Peter and Paul.",
+                  "category": "religious",
+                  "coords": [
+                        25.707435,
+                        43.095299
+                  ]
+            },
+            {
+                  "name": "ezero \"Sveta gora\"",
+                  "text": "The езеро \"Света гора\" in Lyaskovets is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.655615,
+                        43.069764
+                  ]
+            },
+            {
+                  "name": "Park Detski Kut",
+                  "text": "Park Detski Kut in Lyaskovets is a great destination for families with children to play.",
+                  "category": "family",
+                  "coords": [
+                        25.681272,
+                        43.121247
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Ljakowez", hu: "Ljakovec", ro: "Leaskoveț", en: "Lyaskovets" },
@@ -2923,7 +8296,7 @@ export const bulgariaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ruski plazh",
-                  "text": "Ein Uferstrand bei Belene.",
+                  "text": "Ein Sandstrand an der Donau bei Belene, früher von russischen Seeleuten genutzt.",
                   "category": "recreational",
                   "coords": [
                         25.291223,
@@ -2934,7 +8307,7 @@ export const bulgariaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ruski plazh",
-                  "text": "Parti strand Belene közelében.",
+                  "text": "Egy homokos strand a Dunán, Belene közelében, egykor orosz tengerészek kedvelt helye.",
                   "category": "recreational",
                   "coords": [
                         25.291223,
@@ -2945,7 +8318,7 @@ export const bulgariaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ruski plazh",
-                  "text": "O plajă pe malul râului lângă Belene.",
+                  "text": "O plajă nisipoasă pe Dunăre, lângă Belene, frecventată de marinarii ruși în trecut.",
                   "category": "recreational",
                   "coords": [
                         25.291223,
@@ -2956,7 +8329,7 @@ export const bulgariaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ruski plazh",
-                  "text": "A riverside beach near Belene.",
+                  "text": "A sandy beach on the Danube near Belene, historically favored by Russian sailors.",
                   "category": "recreational",
                   "coords": [
                         25.291223,
@@ -3279,7 +8652,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-dobroslavtsi-cities-v2.webp",
   },
   {
-    id: "bulgaria-kresna-cities-v2", "sights": {"de": [{"name": "yaz. Rido 3", "text": "Ein kleiner See in Kresna, der sich gut für eine kurze Pause eignet.", "category": "natural", "coords": [23.175337, 41.79049]}, {"name": "yaz. Rido 1", "text": "Ein ruhiges Gewässer in Kresna, ideal für Naturbetrachtungen.", "category": "natural", "coords": [23.185233, 41.793585]}, {"name": "yaz. Rido 2", "text": "Ein weiterer See in Kresna, der zum Spazierengehen einlädt.", "category": "natural", "coords": [23.180108, 41.794377]}], "hu": [{"name": "yaz. Rido 3", "text": "Kicsi tó Kresna területén, amely alkalmas egy rövid szünetre.", "category": "natural", "coords": [23.175337, 41.79049]}, {"name": "yaz. Rido 1", "text": "Csendes víz Kresna közelében, ideális a természet megfigyelésére.", "category": "natural", "coords": [23.185233, 41.793585]}, {"name": "yaz. Rido 2", "text": "Egy újabb tó Kresna területén, amely sétákra hívogat.", "category": "natural", "coords": [23.180108, 41.794377]}], "ro": [{"name": "yaz. Rido 3", "text": "Un lac mic în Kresna, potrivit pentru o scurtă pauză.", "category": "natural", "coords": [23.175337, 41.79049]}, {"name": "yaz. Rido 1", "text": "O apă liniștită în Kresna, ideală pentru observarea naturii.", "category": "natural", "coords": [23.185233, 41.793585]}, {"name": "yaz. Rido 2", "text": "Un alt lac în Kresna, care invită la plimbare.", "category": "natural", "coords": [23.180108, 41.794377]}], "en": [{"name": "yaz. Rido 3", "text": "A small lake in Kresna, suitable for a short break.", "category": "natural", "coords": [23.175337, 41.79049]}, {"name": "Rido 1", "text": "A quiet body of water in Kresna, ideal for observing nature.", "category": "natural", "coords": [23.185233, 41.793585]}, {"name": "Rido 2", "text": "Another lake in Kresna that invites visitors for a walk.", "category": "natural", "coords": [23.180108, 41.794377]}]},
+    id: "bulgaria-kresna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "yaz. Rido 3",
+                  "text": "Ein kleiner Stausee in der Kresna-Schlucht, genutzt zum Angeln und zur Wasserversorgung.",
+                  "category": "natural",
+                  "coords": [
+                        23.175337,
+                        41.79049
+                  ]
+            },
+            {
+                  "name": "yaz. Rido 1",
+                  "text": "Ein ruhiges Gewässer in Kresna, ideal für Naturbetrachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        23.185233,
+                        41.793585
+                  ]
+            },
+            {
+                  "name": "yaz. Rido 2",
+                  "text": "Ein weiterer See in Kresna, der zum Spazierengehen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        23.180108,
+                        41.794377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yaz. Rido 3",
+                  "text": "Egy kis víztározó a Kreszna-szurdokban, horgászatra és vízellátásra használva.",
+                  "category": "natural",
+                  "coords": [
+                        23.175337,
+                        41.79049
+                  ]
+            },
+            {
+                  "name": "yaz. Rido 1",
+                  "text": "Csendes víz Kresna közelében, ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        23.185233,
+                        41.793585
+                  ]
+            },
+            {
+                  "name": "yaz. Rido 2",
+                  "text": "Egy újabb tó Kresna területén, amely sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        23.180108,
+                        41.794377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yaz. Rido 3",
+                  "text": "Un mic lac de acumulare în Cheile Kresna, folosit pentru pescuit și alimentare cu apă.",
+                  "category": "natural",
+                  "coords": [
+                        23.175337,
+                        41.79049
+                  ]
+            },
+            {
+                  "name": "yaz. Rido 1",
+                  "text": "O apă liniștită în Kresna, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        23.185233,
+                        41.793585
+                  ]
+            },
+            {
+                  "name": "yaz. Rido 2",
+                  "text": "Un alt lac în Kresna, care invită la plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        23.180108,
+                        41.794377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yaz. Rido 3",
+                  "text": "A small reservoir in the Kresna Gorge, used for fishing and water supply.",
+                  "category": "natural",
+                  "coords": [
+                        23.175337,
+                        41.79049
+                  ]
+            },
+            {
+                  "name": "Rido 1",
+                  "text": "A quiet body of water in Kresna, ideal for observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        23.185233,
+                        41.793585
+                  ]
+            },
+            {
+                  "name": "Rido 2",
+                  "text": "Another lake in Kresna that invites visitors for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        23.180108,
+                        41.794377
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Kresna", hu: "Kreszna", ro: "Kresna", en: "Kresna" },
@@ -3324,7 +8814,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-kresna-cities-v2.webp",
   },
   {
-    id: "bulgaria-valchedram-cities-v2", "sights": {"de": [{"name": "yaz. Butan", "text": "Ein See bei Valchedram, der zum Entspannen in der Natur einlädt.", "category": "natural", "coords": [23.638305, 43.669124]}], "hu": [{"name": "yaz. Butan", "text": "Egy tó Valchedram környékén, amely a természetben való pihenésre hív.", "category": "natural", "coords": [23.638305, 43.669124]}], "ro": [{"name": "yaz. Butan", "text": "Un lac în apropiere de Valchedram, care invită la relaxare în natură.", "category": "natural", "coords": [23.638305, 43.669124]}], "en": [{"name": "yaz. Butan", "text": "A lake near Valchedram, inviting relaxation in nature.", "category": "natural", "coords": [23.638305, 43.669124]}]},
+    id: "bulgaria-valchedram-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "yaz. Butan",
+                  "text": "Ein Stausee am Fluss Butan bei Valchedram, der die umliegenden Felder bewässert.",
+                  "category": "natural",
+                  "coords": [
+                        23.638305,
+                        43.669124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yaz. Butan",
+                  "text": "Egy víztározó a Butan folyón, Valchedram közelében, a környező földek öntözésére.",
+                  "category": "natural",
+                  "coords": [
+                        23.638305,
+                        43.669124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yaz. Butan",
+                  "text": "Un lac de acumulare pe râul Butan lângă Valchedram, pentru irigarea terenurilor agricole din jur.",
+                  "category": "natural",
+                  "coords": [
+                        23.638305,
+                        43.669124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yaz. Butan",
+                  "text": "A reservoir on the Butan River near Valchedram, irrigating the surrounding farmland.",
+                  "category": "natural",
+                  "coords": [
+                        23.638305,
+                        43.669124
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Waltschedram", hu: "Valcsedram", ro: "Vâlcedrăm", en: "Valchedram" },
@@ -3445,7 +8980,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Devil's Gorge",
-                  "text": "Die Teufelsschlucht ist eine faszinierende Naturattraktion in der Nähe von Yagodina.",
+                  "text": "Eine enge Kalksteinschlucht mit einer Höhle und einer Holzbrücke nahe dem Dorf Yagodina.",
                   "category": "landmark",
                   "coords": [
                         24.329407,
@@ -3528,7 +9063,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Devil's Gorge",
-                  "text": "Az Ördög-szurdok egy lenyűgöző természeti látványosság Yagodina közelében.",
+                  "text": "Egy szűk mészkőszurdok egy barlanggal és egy fahíddal, Yagodina falu közelében.",
                   "category": "landmark",
                   "coords": [
                         24.329407,
@@ -3611,7 +9146,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Devil's Gorge",
-                  "text": "Defileul Diavolului este o atracție naturală fascinantă situată lângă Yagodina.",
+                  "text": "O cheie îngustă de calcar cu o peșteră și un pod de lemn, lângă satul Yagodina.",
                   "category": "landmark",
                   "coords": [
                         24.329407,
@@ -3694,7 +9229,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Devil's Gorge",
-                  "text": "Devil's Gorge is an intriguing natural attraction situated near Yagodina.",
+                  "text": "A narrow limestone gorge with a cave and a wooden bridge, near Yagodina village.",
                   "category": "landmark",
                   "coords": [
                         24.329407,
@@ -3796,7 +9331,7 @@ export const bulgariaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tsarski plazh",
-                  "text": "Ein Strand bei Tschernomorez am Schwarzen Meer.",
+                  "text": "Ein abgelegener Sandstrand mit klarem Wasser, einst der königlichen Familie vorbehalten, bei Chernomorets.",
                   "category": "recreational",
                   "coords": [
                         27.647264,
@@ -3805,7 +9340,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Chernomorets",
-                  "text": "Ein Strand bei Tschernomorez am Schwarzen Meer.",
+                  "text": "Der zentrale Hauptstrand von Chernomorets mit einem langen Sandstreifen und guter Infrastruktur.",
                   "category": "recreational",
                   "coords": [
                         27.637371,
@@ -3843,7 +9378,7 @@ export const bulgariaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tsarski plazh",
-                  "text": "Strand Csernomorec közelében, a Fekete-tenger partján.",
+                  "text": "Egy félreeső homokos strand tiszta vízzel, egykor a királyi család számára fenntartva, Csernomorec közelében.",
                   "category": "recreational",
                   "coords": [
                         27.647264,
@@ -3852,7 +9387,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Chernomorets",
-                  "text": "Strand Csernomorec közelében, a Fekete-tenger partján.",
+                  "text": "Csernomorec fő központi strandja, hosszú homokos szakasszal és jó infrastruktúrával.",
                   "category": "recreational",
                   "coords": [
                         27.637371,
@@ -3890,7 +9425,7 @@ export const bulgariaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tsarski plazh",
-                  "text": "O plajă lângă Chernomorets, la Marea Neagră.",
+                  "text": "O plajă izolată cu apă limpede, odinioară rezervată familiei regale, lângă Cernomoreț.",
                   "category": "recreational",
                   "coords": [
                         27.647264,
@@ -3899,7 +9434,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Chernomorets",
-                  "text": "O plajă lângă Chernomorets, la Marea Neagră.",
+                  "text": "Plaja centrală principală din Cernomoreț, cu o fâșie lungă de nisip și facilități.",
                   "category": "recreational",
                   "coords": [
                         27.637371,
@@ -3937,7 +9472,7 @@ export const bulgariaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tsarski plazh",
-                  "text": "A beach near Chernomorets on the Black Sea.",
+                  "text": "A secluded sandy beach with clear water, once reserved for the royal family, near Chernomorets.",
                   "category": "recreational",
                   "coords": [
                         27.647264,
@@ -3946,7 +9481,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Chernomorets",
-                  "text": "A beach near Chernomorets on the Black Sea.",
+                  "text": "The main central beach of Chernomorets, with a long stretch of sand and facilities.",
                   "category": "recreational",
                   "coords": [
                         27.637371,
@@ -4165,7 +9700,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Prirodonauchen muzei",
-                  "text": "Ein naturwissenschaftliches Museum in Panagjurischte.",
+                  "text": "Das Naturkundemuseum in Panagyurishte mit Sammlungen zur lokalen Flora, Fauna und Mineralien.",
                   "category": "museum",
                   "coords": [
                         24.185849,
@@ -4174,7 +9709,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Drinova k'shcha",
-                  "text": "Ein historisches Museumshaus in Panagjurischte.",
+                  "text": "Das Haus des bulgarischen Historikers Marin Drinov, heute ein Museum über sein Leben und Werk in Panagyurishte.",
                   "category": "museum",
                   "coords": [
                         24.193268,
@@ -4183,7 +9718,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Mramor",
-                  "text": "Eine archäologische Fundstätte in der Nähe von Panagjurischte.",
+                  "text": "Ein römischer Marmorsteinbruch in den Hügeln nahe Panagyurishte.",
                   "category": "historical",
                   "coords": [
                         24.187948,
@@ -4248,7 +9783,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Prirodonauchen muzei",
-                  "text": "Természettudományi múzeum Panagjuristében.",
+                  "text": "A természettudományi múzeum Panagyurishtében, helyi növény-, állat- és ásványgyűjteményekkel.",
                   "category": "museum",
                   "coords": [
                         24.185849,
@@ -4257,7 +9792,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Drinova k'shcha",
-                  "text": "Történelmi emlékház Panagjuristében.",
+                  "text": "Marin Drinov bolgár történész háza, ma múzeum életéről és munkásságáról Panagyurishtében.",
                   "category": "museum",
                   "coords": [
                         24.193268,
@@ -4266,7 +9801,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Mramor",
-                  "text": "Régészeti lelőhely Panagjuriste közelében.",
+                  "text": "Egy római kori márványbánya a Panagyurishte melletti dombokban.",
                   "category": "historical",
                   "coords": [
                         24.187948,
@@ -4331,7 +9866,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Prirodonauchen muzei",
-                  "text": "Un muzeu de științe naturale în Panagiuriște.",
+                  "text": "Muzeul de Științe Naturale din Panagyurishte, cu colecții de floră, faună și minerale locale.",
                   "category": "museum",
                   "coords": [
                         24.185849,
@@ -4340,7 +9875,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Drinova k'shcha",
-                  "text": "O casă memorială istorică în Panagiuriște.",
+                  "text": "Casa istoricului bulgar Marin Drinov, acum muzeu despre viața și opera sa în Panagyurishte.",
                   "category": "museum",
                   "coords": [
                         24.193268,
@@ -4349,7 +9884,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Mramor",
-                  "text": "Un sit arheologic situat lângă Panagiuriște.",
+                  "text": "O carieră de marmură din perioada romană, în dealurile de lângă Panagyurishte.",
                   "category": "historical",
                   "coords": [
                         24.187948,
@@ -4414,7 +9949,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Prirodonauchen muzei",
-                  "text": "A natural science museum in Panagyurishte.",
+                  "text": "The Natural Science Museum in Panagyurishte, showcasing local flora, fauna and mineral collections.",
                   "category": "museum",
                   "coords": [
                         24.185849,
@@ -4423,7 +9958,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Drinova k'shcha",
-                  "text": "A historic museum house in Panagyurishte.",
+                  "text": "The house of Bulgarian historian Marin Drinov, now a museum about his life and work in Panagyurishte.",
                   "category": "museum",
                   "coords": [
                         24.193268,
@@ -4432,7 +9967,7 @@ export const bulgariaCitiesV2: POI[] = [
             },
             {
                   "name": "Mramor",
-                  "text": "An archaeological site located near Panagyurishte.",
+                  "text": "A Roman-era marble quarry in the hills near Panagyurishte.",
                   "category": "historical",
                   "coords": [
                         24.187948,
@@ -5439,7 +10974,160 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-suvorovo-cities-v2.webp",
   },
   {
-    id: "bulgaria-devin-cities-v2", "sights": {"de": [{"name": "Muzeina sbirka", "text": "Eine museale Sammlung in Devin, die über die regionale Geschichte informiert.", "category": "museum", "coords": [24.397983, 41.743219]}, {"name": "Besedka", "text": "Ein Aussichtspavillon in Devin mit Blick auf die Umgebung.", "category": "natural", "coords": [24.409249, 41.746396]}, {"name": "“Katya Vancheva” – Pametnik", "text": "Ein Denkmal für Katja Wantschewa in Devin.", "category": "historical", "coords": [24.399935, 41.742344]}, {"name": "Kaleto", "text": "Die Überreste einer alten Festungsanlage bei Devin.", "category": "historical", "coords": [24.349002, 41.748471]}], "hu": [{"name": "Muzeina sbirka", "text": "Devin városának regionális történelmét bemutató múzeumi gyűjtemény.", "category": "museum", "coords": [24.397983, 41.743219]}, {"name": "Besedka", "text": "Kilátópontként szolgáló pihenőhely Devinben, kilátással a környékre.", "category": "natural", "coords": [24.409249, 41.746396]}, {"name": "“Katya Vancheva” – Pametnik", "text": "Katja Vancseva emlékműve Devin városában.", "category": "historical", "coords": [24.399935, 41.742344]}, {"name": "Kaleto", "text": "Egy régi erődítmény maradványai Devin közelében.", "category": "historical", "coords": [24.349002, 41.748471]}], "ro": [{"name": "Muzeina sbirka", "text": "O colecție muzeală în Devin care prezintă istoria locală.", "category": "museum", "coords": [24.397983, 41.743219]}, {"name": "Besedka", "text": "Un foișor în Devin care oferă o vedere panoramică asupra împrejurimilor.", "category": "natural", "coords": [24.409249, 41.746396]}, {"name": "“Katya Vancheva” – Pametnik", "text": "Un monument dedicat Katrei Vanceva în Devin.", "category": "historical", "coords": [24.399935, 41.742344]}, {"name": "Kaleto", "text": "Ruinele unei vechi cetăți situate lângă Devin.", "category": "historical", "coords": [24.349002, 41.748471]}], "en": [{"name": "Muzeina sbirka", "text": "A museum collection in Devin providing information about regional history.", "category": "museum", "coords": [24.397983, 41.743219]}, {"name": "Besedka", "text": "A gazebo in Devin serving as a viewpoint over the surrounding area.", "category": "natural", "coords": [24.409249, 41.746396]}, {"name": "“Katya Vancheva” – Pametnik", "text": "A monument dedicated to Katya Vancheva in Devin.", "category": "historical", "coords": [24.399935, 41.742344]}, {"name": "Kaleto", "text": "The ruins of an ancient fortress located near Devin.", "category": "historical", "coords": [24.349002, 41.748471]}]},
+    id: "bulgaria-devin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeina sbirka",
+                  "text": "Eine museale Sammlung in Devin, die über die regionale Geschichte informiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.397983,
+                        41.743219
+                  ]
+            },
+            {
+                  "name": "Besedka",
+                  "text": "Ein Aussichtspavillon in Devin mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        24.409249,
+                        41.746396
+                  ]
+            },
+            {
+                  "name": "“Katya Vancheva” – Pametnik",
+                  "text": "Ein Denkmal für die bulgarische Dichterin Katya Vancheva im Stadtpark von Devin.",
+                  "category": "historical",
+                  "coords": [
+                        24.399935,
+                        41.742344
+                  ]
+            },
+            {
+                  "name": "Kaleto",
+                  "text": "Eine mittelalterliche Burgruine auf einem Hügel mit Blick auf die Stadt Devin.",
+                  "category": "historical",
+                  "coords": [
+                        24.349002,
+                        41.748471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeina sbirka",
+                  "text": "Devin városának regionális történelmét bemutató múzeumi gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        24.397983,
+                        41.743219
+                  ]
+            },
+            {
+                  "name": "Besedka",
+                  "text": "Kilátópontként szolgáló pihenőhely Devinben, kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        24.409249,
+                        41.746396
+                  ]
+            },
+            {
+                  "name": "“Katya Vancheva” – Pametnik",
+                  "text": "Egy emlékmű Katya Vancheva bolgár költőnő tiszteletére Devin városi parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        24.399935,
+                        41.742344
+                  ]
+            },
+            {
+                  "name": "Kaleto",
+                  "text": "Egy középkori várrom egy dombon, Devin városára néző kilátással.",
+                  "category": "historical",
+                  "coords": [
+                        24.349002,
+                        41.748471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeina sbirka",
+                  "text": "O colecție muzeală în Devin care prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        24.397983,
+                        41.743219
+                  ]
+            },
+            {
+                  "name": "Besedka",
+                  "text": "Un foișor în Devin care oferă o vedere panoramică asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        24.409249,
+                        41.746396
+                  ]
+            },
+            {
+                  "name": "“Katya Vancheva” – Pametnik",
+                  "text": "Un monument dedicat poetei bulgare Katya Vancheva, în parcul orașului Devin.",
+                  "category": "historical",
+                  "coords": [
+                        24.399935,
+                        41.742344
+                  ]
+            },
+            {
+                  "name": "Kaleto",
+                  "text": "O ruină medievală de cetate pe un deal, cu vedere spre orașul Devin.",
+                  "category": "historical",
+                  "coords": [
+                        24.349002,
+                        41.748471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeina sbirka",
+                  "text": "A museum collection in Devin providing information about regional history.",
+                  "category": "museum",
+                  "coords": [
+                        24.397983,
+                        41.743219
+                  ]
+            },
+            {
+                  "name": "Besedka",
+                  "text": "A gazebo in Devin serving as a viewpoint over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        24.409249,
+                        41.746396
+                  ]
+            },
+            {
+                  "name": "“Katya Vancheva” – Pametnik",
+                  "text": "A monument dedicated to the Bulgarian poet Katya Vancheva in Devin's town park.",
+                  "category": "historical",
+                  "coords": [
+                        24.399935,
+                        41.742344
+                  ]
+            },
+            {
+                  "name": "Kaleto",
+                  "text": "A medieval fortress ruin on a hill overlooking the town of Devin.",
+                  "category": "historical",
+                  "coords": [
+                        24.349002,
+                        41.748471
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Dewin", hu: "Devin", ro: "Devin", en: "Devin" },
@@ -5484,7 +11172,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-devin-cities-v2.webp",
   },
   {
-    id: "bulgaria-banya-nebeska-cities-v2", "sights": {"de": [{"name": "Partizanski pametnik", "text": "Ein Denkmal zu Ehren der Partisanenbewegung in Banja.", "category": "historical", "coords": [23.926438, 42.387633]}], "hu": [{"name": "Partizanski pametnik", "text": "A partizánmozgalom tiszteletére emelt emlékmű Banjában.", "category": "historical", "coords": [23.926438, 42.387633]}], "ro": [{"name": "Partizanski pametnik", "text": "Un monument dedicat mișcării de gherilă în Bania.", "category": "historical", "coords": [23.926438, 42.387633]}], "en": [{"name": "Guerilla monument", "text": "A monument honoring the guerrilla movement in Banja.", "category": "historical", "coords": [23.926438, 42.387633]}]},
+    id: "bulgaria-banya-nebeska-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "Ein Denkmal für die Guerillakämpfer des Zweiten Weltkriegs im Dorf Banya Nebeska.",
+                  "category": "historical",
+                  "coords": [
+                        23.926438,
+                        42.387633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "Egy emlékmű a második világháború gerillaharcosainak Banya Nebeska faluban.",
+                  "category": "historical",
+                  "coords": [
+                        23.926438,
+                        42.387633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Partizanski pametnik",
+                  "text": "Un monument al luptătorilor de gherilă din cel de-al Doilea Război Mondial în satul Banya Nebeska.",
+                  "category": "historical",
+                  "coords": [
+                        23.926438,
+                        42.387633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guerilla monument",
+                  "text": "A monument commemorating guerrilla fighters from World War II in the village of Banya Nebeska.",
+                  "category": "historical",
+                  "coords": [
+                        23.926438,
+                        42.387633
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "BG",
     name: { de: "Banja (Nebeska)", hu: "Banya (Nebeska)", ro: "Bania (Nebeska)", en: "Banya (Nebeska)" },
@@ -5862,7 +11595,448 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-sarnitsa-cities-v2.webp",
   },
   {
-    id: "bulgaria-banya-stara-zagora-cities-v2", "sights": {"de": [{"name": "Trakiiska grobnitsa", "text": "Ein archäologischer Fundort einer antiken thrakischen Grabstätte bei Banja.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "Hilendarski metoh", "text": "Ein ehemaliger klösterlicher Außenposten, der heute als Museum in Banja dient.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Samarskoto zname", "text": "Eine große Gedenkstätte für die Verteidiger von Stara Sagora bei Banja.", "category": "historical", "coords": [25.654014, 42.433453]}, {"name": "Park \"Bedechka\"", "text": "Ein bekannter Stadtpark in der Region Stara Sagora, ideal für Spaziergänge.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Park „Podpolkovnik Kalitin“", "text": "Ein nach Podpolkovnik Kalitin benannter Gedenkpark in der Region Banja.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Panorama", "text": "Der Naturort Panorama bietet einen weiten und freien Blick auf die Umgebung von Banja Stara Zagora in Bulgarien. Als wunderschöner Aussichtspunkt ist er ideal für alle, die eine weitreichende landschaftliche Perspektive schätzen. Fotografen und Naturliebhaber kommen hier gleichermaßen auf ihre Kosten.", "category": "natural", "coords": [25.622936, 42.442464]}, {"name": "pam. Vasil Levski", "text": "Ein Denkmal zu Ehren des bulgarischen Nationalhelden Wassil Lewski.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Revolyutsionerski pametnik", "text": "Ein lokales Denkmal, das den historischen Revolutionären gewidmet ist.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Badminton igrishta", "text": "Sportanlage mit Plätzen für Badminton in Banja.", "category": "landmark", "coords": [25.617138, 42.438182]}, {"name": "Leten teatar", "text": "Eine Freilichtbühne für kulturelle Veranstaltungen und Aufführungen.", "category": "landmark", "coords": [25.622059, 42.434484]}, {"name": "ul. Sveti Apostol Karl", "text": "Eine Straße in Banja, die nach dem Heiligen Apostel Karl benannt ist.", "category": "landmark", "coords": [25.620065, 42.440101]}, {"name": "Zala na smeha", "text": "Eine lokale Attraktion zur Unterhaltung in der Stadt Banja.", "category": "landmark", "coords": [25.616934, 42.439353]}], "hu": [{"name": "Trakiiska grobnitsa", "text": "Egy ókori traák sírhely régészeti lelőhelye Banja közelében.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "Hilendarski metoh", "text": "Egy egykori kolostori birtok, amely ma múzeumként működik Banjában.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Samarskoto zname", "text": "Hatalmas emlékhely Sztara Zagora védőinek tiszteletére Banja közelében.", "category": "historical", "coords": [25.654014, 42.433453]}, {"name": "Park \"Bedechka\"", "text": "Népszerű városi park Sztara Zagora régiójában, amely ideális sétákhoz.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Park „Podpolkovnik Kalitin“", "text": "Kalitin alezredesről elnevezett emlékpark Banja környékén.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Panorama", "text": "A Panorama nevű természeti helyszín tágas és zavartalan kilátást nyújt a bulgáriai Banja Sztara Zagora környékére. Gyönyörű kilátóként ideális mindazok számára, akik értékelik a messzire nyúló tájképi perspektívát. A fotósok és a természetkedvelők egyaránt megtalálják itt a számításukat.", "category": "natural", "coords": [25.622936, 42.442464]}, {"name": "pam. Vasil Levski", "text": "Emlékmű a bolgár nemzeti hős, Vaszil Levszki tiszteletére.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Revolyutsionerski pametnik", "text": "A történelmi forradalmároknak szentelt helyi emlékmű.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Badminton igrishta", "text": "Sportlétesítmény tollaslabda-pályákkal Banja városában.", "category": "landmark", "coords": [25.617138, 42.438182]}, {"name": "Leten teatar", "text": "Szabadtéri színpad kulturális események és előadások számára.", "category": "landmark", "coords": [25.622059, 42.434484]}, {"name": "ul. Sveti Apostol Karl", "text": "Szent Károly apostolról elnevezett utca Banja városában.", "category": "landmark", "coords": [25.620065, 42.440101]}, {"name": "Zala na smeha", "text": "Helyi szórakoztató létesítmény Banja városában.", "category": "landmark", "coords": [25.616934, 42.439353]}], "ro": [{"name": "Trakiiska grobnitsa", "text": "Un sit arheologic al unui mormânt tracic antic lângă Bania.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "Hilendarski metoh", "text": "Un fost avanpost monahal care astăzi servește ca muzeu în Bania.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Samarskoto zname", "text": "Un complex memorial vast dedicat apărătorilor orașului Stara Zagora, lângă Bania.", "category": "historical", "coords": [25.654014, 42.433453]}, {"name": "Park \"Bedechka\"", "text": "Un parc orașenesc cunoscut în regiunea Stara Zagora, ideal pentru plimbări.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Park „Podpolkovnik Kalitin“", "text": "Un parc memorial numit după Podpolkovnik Kalitin în regiunea Bania.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Panorama", "text": "Locația naturală Panorama oferă o priveliște vastă și neobstrucționată asupra împrejurimilor de la Banya Stara Zagora din Bulgaria. Ca punct de belvedere minunat, este ideal pentru toți cei care apreciază o perspectivă peisagistică largă. Fotografi și iubitori de natură deopotrivă se vor bucura de acest loc.", "category": "natural", "coords": [25.622936, 42.442464]}, {"name": "pam. Vasil Levski", "text": "Un monument dedicat eroului național bulgar Vasil Levski.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Revolyutsionerski pametnik", "text": "Un monument local dedicat revoluționarilor istorici.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Badminton igrishta", "text": "Facilitate sportivă cu terenuri de badminton în Banja.", "category": "landmark", "coords": [25.617138, 42.438182]}, {"name": "Leten teatar", "text": "O scenă în aer liber pentru evenimente culturale și spectacole.", "category": "landmark", "coords": [25.622059, 42.434484]}, {"name": "ul. Sveti Apostol Karl", "text": "O stradă din Banja numită după Sfântul Apostol Carol.", "category": "landmark", "coords": [25.620065, 42.440101]}, {"name": "Zala na smeha", "text": "O atracție locală pentru divertisment în orașul Banja.", "category": "landmark", "coords": [25.616934, 42.439353]}], "en": [{"name": "Trakiiska grobnitsa", "text": "An archaeological site of an ancient Thracian tomb near Banja.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "Hilendarski metoh", "text": "A former monastic outpost that now serves as a museum in Banja.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Defenders of Stara Zagora Memorial Complex", "text": "A large memorial complex dedicated to the defenders of Stara Zagora near Banja.", "category": "historical", "coords": [25.654014, 42.433453]}, {"name": "Bedechka Park", "text": "A well-known city park in the Stara Zagora region, ideal for walks.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Podpolkovnik Kalitin Park", "text": "A memorial park named after Podpolkovnik Kalitin in the Banja region.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Panorama", "text": "The natural site of Panorama provides a vast and unobstructed view of the surroundings of Banya Stara Zagora in Bulgaria. As a wonderful viewpoint, it is ideal for anyone who appreciates a sweeping landscape perspective. Photographers and nature lovers alike will find much to enjoy here.", "category": "natural", "coords": [25.622936, 42.442464]}, {"name": "pam. Vasil Levski", "text": "A monument dedicated to the Bulgarian national hero Vasil Levski.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Revolyutsionerski pametnik", "text": "A local monument dedicated to historical revolutionaries.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Badminton igrishta", "text": "Sports facility featuring courts for playing badminton in Banja.", "category": "landmark", "coords": [25.617138, 42.438182]}, {"name": "Leten teatar", "text": "An open-air venue for cultural events and performances.", "category": "landmark", "coords": [25.622059, 42.434484]}, {"name": "ul. Sveti Apostol Karl", "text": "A street in Banja named after the Saint Apostle Karl.", "category": "landmark", "coords": [25.620065, 42.440101]}, {"name": "Zala na smeha", "text": "A local attraction for entertainment in the town of Banja.", "category": "landmark", "coords": [25.616934, 42.439353]}]},
+    id: "bulgaria-banya-stara-zagora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trakiiska grobnitsa",
+                  "text": "Ein archäologischer Fundort einer antiken thrakischen Grabstätte bei Banja.",
+                  "category": "historical",
+                  "coords": [
+                        25.638817,
+                        42.431693
+                  ]
+            },
+            {
+                  "name": "Hilendarski metoh",
+                  "text": "Ein ehemaliger klösterlicher Außenposten, der heute als Museum in Banja dient.",
+                  "category": "museum",
+                  "coords": [
+                        25.629339,
+                        42.430881
+                  ]
+            },
+            {
+                  "name": "Samarskoto zname",
+                  "text": "Gedenkstätte mit Bronzestatuen bulgarischer Soldaten zur Erinnerung an die Verteidigung von Stara Zagora 1877 bei Banya.",
+                  "category": "historical",
+                  "coords": [
+                        25.654014,
+                        42.433453
+                  ]
+            },
+            {
+                  "name": "Park \"Bedechka\"",
+                  "text": "Ein bekannter Stadtpark in der Region Stara Sagora, ideal für Spaziergänge.",
+                  "category": "park",
+                  "coords": [
+                        25.639224,
+                        42.439566
+                  ]
+            },
+            {
+                  "name": "Park „Podpolkovnik Kalitin“",
+                  "text": "Ein nach Podpolkovnik Kalitin benannter Gedenkpark in der Region Banja.",
+                  "category": "park",
+                  "coords": [
+                        25.644582,
+                        42.425044
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Der Naturort Panorama bietet einen weiten und freien Blick auf die Umgebung von Banja Stara Zagora in Bulgarien. Als wunderschöner Aussichtspunkt ist er ideal für alle, die eine weitreichende landschaftliche Perspektive schätzen. Fotografen und Naturliebhaber kommen hier gleichermaßen auf ihre Kosten.",
+                  "category": "natural",
+                  "coords": [
+                        25.622936,
+                        42.442464
+                  ]
+            },
+            {
+                  "name": "pam. Vasil Levski",
+                  "text": "Ein Denkmal zu Ehren des bulgarischen Nationalhelden Wassil Lewski.",
+                  "category": "historical",
+                  "coords": [
+                        25.628409,
+                        42.430189
+                  ]
+            },
+            {
+                  "name": "Revolyutsionerski pametnik",
+                  "text": "Ein lokales Denkmal, das den historischen Revolutionären gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.638062,
+                        42.426003
+                  ]
+            },
+            {
+                  "name": "Badminton igrishta",
+                  "text": "Sportanlage mit Plätzen für Badminton in Banja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.617138,
+                        42.438182
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Eine Freilichtbühne für kulturelle Veranstaltungen und Aufführungen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.622059,
+                        42.434484
+                  ]
+            },
+            {
+                  "name": "ul. Sveti Apostol Karl",
+                  "text": "Eine nach dem Heiligen Apostel Karl benannte Straße mit alten Häusern in Banya (Region Stara Zagora).",
+                  "category": "landmark",
+                  "coords": [
+                        25.620065,
+                        42.440101
+                  ]
+            },
+            {
+                  "name": "Zala na smeha",
+                  "text": "Eine lokale Attraktion zur Unterhaltung in der Stadt Banja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.616934,
+                        42.439353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trakiiska grobnitsa",
+                  "text": "Egy ókori traák sírhely régészeti lelőhelye Banja közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.638817,
+                        42.431693
+                  ]
+            },
+            {
+                  "name": "Hilendarski metoh",
+                  "text": "Egy egykori kolostori birtok, amely ma múzeumként működik Banjában.",
+                  "category": "museum",
+                  "coords": [
+                        25.629339,
+                        42.430881
+                  ]
+            },
+            {
+                  "name": "Samarskoto zname",
+                  "text": "Bulgár katonák bronzszobraival díszített emlékkomplexum, amely az 1877-es Sztara Zagora-i védelmet örökíti meg Banya mellett.",
+                  "category": "historical",
+                  "coords": [
+                        25.654014,
+                        42.433453
+                  ]
+            },
+            {
+                  "name": "Park \"Bedechka\"",
+                  "text": "Népszerű városi park Sztara Zagora régiójában, amely ideális sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        25.639224,
+                        42.439566
+                  ]
+            },
+            {
+                  "name": "Park „Podpolkovnik Kalitin“",
+                  "text": "Kalitin alezredesről elnevezett emlékpark Banja környékén.",
+                  "category": "park",
+                  "coords": [
+                        25.644582,
+                        42.425044
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "A Panorama nevű természeti helyszín tágas és zavartalan kilátást nyújt a bulgáriai Banja Sztara Zagora környékére. Gyönyörű kilátóként ideális mindazok számára, akik értékelik a messzire nyúló tájképi perspektívát. A fotósok és a természetkedvelők egyaránt megtalálják itt a számításukat.",
+                  "category": "natural",
+                  "coords": [
+                        25.622936,
+                        42.442464
+                  ]
+            },
+            {
+                  "name": "pam. Vasil Levski",
+                  "text": "Emlékmű a bolgár nemzeti hős, Vaszil Levszki tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        25.628409,
+                        42.430189
+                  ]
+            },
+            {
+                  "name": "Revolyutsionerski pametnik",
+                  "text": "A történelmi forradalmároknak szentelt helyi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        25.638062,
+                        42.426003
+                  ]
+            },
+            {
+                  "name": "Badminton igrishta",
+                  "text": "Sportlétesítmény tollaslabda-pályákkal Banja városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.617138,
+                        42.438182
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Szabadtéri színpad kulturális események és előadások számára.",
+                  "category": "landmark",
+                  "coords": [
+                        25.622059,
+                        42.434484
+                  ]
+            },
+            {
+                  "name": "ul. Sveti Apostol Karl",
+                  "text": "Egy utca, amely Szent Károly apostol nevét viseli, régi házakkal Banyában (Sztara Zagora régió).",
+                  "category": "landmark",
+                  "coords": [
+                        25.620065,
+                        42.440101
+                  ]
+            },
+            {
+                  "name": "Zala na smeha",
+                  "text": "Helyi szórakoztató létesítmény Banja városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.616934,
+                        42.439353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trakiiska grobnitsa",
+                  "text": "Un sit arheologic al unui mormânt tracic antic lângă Bania.",
+                  "category": "historical",
+                  "coords": [
+                        25.638817,
+                        42.431693
+                  ]
+            },
+            {
+                  "name": "Hilendarski metoh",
+                  "text": "Un fost avanpost monahal care astăzi servește ca muzeu în Bania.",
+                  "category": "museum",
+                  "coords": [
+                        25.629339,
+                        42.430881
+                  ]
+            },
+            {
+                  "name": "Samarskoto zname",
+                  "text": "Complex memorial cu statui de bronz ale soldaților bulgari, comemorând apărarea Starei Zagora din 1877 lângă Banya.",
+                  "category": "historical",
+                  "coords": [
+                        25.654014,
+                        42.433453
+                  ]
+            },
+            {
+                  "name": "Park \"Bedechka\"",
+                  "text": "Un parc orașenesc cunoscut în regiunea Stara Zagora, ideal pentru plimbări.",
+                  "category": "park",
+                  "coords": [
+                        25.639224,
+                        42.439566
+                  ]
+            },
+            {
+                  "name": "Park „Podpolkovnik Kalitin“",
+                  "text": "Un parc memorial numit după Podpolkovnik Kalitin în regiunea Bania.",
+                  "category": "park",
+                  "coords": [
+                        25.644582,
+                        42.425044
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Locația naturală Panorama oferă o priveliște vastă și neobstrucționată asupra împrejurimilor de la Banya Stara Zagora din Bulgaria. Ca punct de belvedere minunat, este ideal pentru toți cei care apreciază o perspectivă peisagistică largă. Fotografi și iubitori de natură deopotrivă se vor bucura de acest loc.",
+                  "category": "natural",
+                  "coords": [
+                        25.622936,
+                        42.442464
+                  ]
+            },
+            {
+                  "name": "pam. Vasil Levski",
+                  "text": "Un monument dedicat eroului național bulgar Vasil Levski.",
+                  "category": "historical",
+                  "coords": [
+                        25.628409,
+                        42.430189
+                  ]
+            },
+            {
+                  "name": "Revolyutsionerski pametnik",
+                  "text": "Un monument local dedicat revoluționarilor istorici.",
+                  "category": "historical",
+                  "coords": [
+                        25.638062,
+                        42.426003
+                  ]
+            },
+            {
+                  "name": "Badminton igrishta",
+                  "text": "Facilitate sportivă cu terenuri de badminton în Banja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.617138,
+                        42.438182
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "O scenă în aer liber pentru evenimente culturale și spectacole.",
+                  "category": "landmark",
+                  "coords": [
+                        25.622059,
+                        42.434484
+                  ]
+            },
+            {
+                  "name": "ul. Sveti Apostol Karl",
+                  "text": "O stradă numită după Sfântul Apostol Carol, cu case vechi în Banya (regiunea Stara Zagora).",
+                  "category": "landmark",
+                  "coords": [
+                        25.620065,
+                        42.440101
+                  ]
+            },
+            {
+                  "name": "Zala na smeha",
+                  "text": "O atracție locală pentru divertisment în orașul Banja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.616934,
+                        42.439353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trakiiska grobnitsa",
+                  "text": "An archaeological site of an ancient Thracian tomb near Banja.",
+                  "category": "historical",
+                  "coords": [
+                        25.638817,
+                        42.431693
+                  ]
+            },
+            {
+                  "name": "Hilendarski metoh",
+                  "text": "A former monastic outpost that now serves as a museum in Banja.",
+                  "category": "museum",
+                  "coords": [
+                        25.629339,
+                        42.430881
+                  ]
+            },
+            {
+                  "name": "Defenders of Stara Zagora Memorial Complex",
+                  "text": "Memorial complex featuring bronze statues of Bulgarian soldiers, commemorating the 1877 defence of Stara Zagora near Banya.",
+                  "category": "historical",
+                  "coords": [
+                        25.654014,
+                        42.433453
+                  ]
+            },
+            {
+                  "name": "Bedechka Park",
+                  "text": "A well-known city park in the Stara Zagora region, ideal for walks.",
+                  "category": "park",
+                  "coords": [
+                        25.639224,
+                        42.439566
+                  ]
+            },
+            {
+                  "name": "Podpolkovnik Kalitin Park",
+                  "text": "A memorial park named after Podpolkovnik Kalitin in the Banja region.",
+                  "category": "park",
+                  "coords": [
+                        25.644582,
+                        42.425044
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "The natural site of Panorama provides a vast and unobstructed view of the surroundings of Banya Stara Zagora in Bulgaria. As a wonderful viewpoint, it is ideal for anyone who appreciates a sweeping landscape perspective. Photographers and nature lovers alike will find much to enjoy here.",
+                  "category": "natural",
+                  "coords": [
+                        25.622936,
+                        42.442464
+                  ]
+            },
+            {
+                  "name": "pam. Vasil Levski",
+                  "text": "A monument dedicated to the Bulgarian national hero Vasil Levski.",
+                  "category": "historical",
+                  "coords": [
+                        25.628409,
+                        42.430189
+                  ]
+            },
+            {
+                  "name": "Revolyutsionerski pametnik",
+                  "text": "A local monument dedicated to historical revolutionaries.",
+                  "category": "historical",
+                  "coords": [
+                        25.638062,
+                        42.426003
+                  ]
+            },
+            {
+                  "name": "Badminton igrishta",
+                  "text": "Sports facility featuring courts for playing badminton in Banja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.617138,
+                        42.438182
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "An open-air venue for cultural events and performances.",
+                  "category": "landmark",
+                  "coords": [
+                        25.622059,
+                        42.434484
+                  ]
+            },
+            {
+                  "name": "ul. Sveti Apostol Karl",
+                  "text": "A street named after Saint Apostle Karl, lined with old houses in Banya, Stara Zagora region.",
+                  "category": "landmark",
+                  "coords": [
+                        25.620065,
+                        42.440101
+                  ]
+            },
+            {
+                  "name": "Zala na smeha",
+                  "text": "A local attraction for entertainment in the town of Banja.",
+                  "category": "landmark",
+                  "coords": [
+                        25.616934,
+                        42.439353
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "BG",
     name: { de: "Banja (Stara Sagora)", hu: "Banya (Stara Zagora)", ro: "Bania (Stara Zagora)", en: "Banya (Stara Zagora)" },
@@ -6312,7 +12486,160 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-banya-lovech-cities-v2.webp",
   },
   {
-    id: "bulgaria-batenberg-vtarnovo-cities-v2", "sights": {"de": [{"name": "Park Kolo Ficheto", "text": "Ein Park in Weliko Tarnowo, benannt nach dem Architekten Koljo Fitscheto.", "category": "park", "coords": [25.60661, 43.078687]}, {"name": "Flat Rock", "text": "Ein Aussichtspunkt in Weliko Tarnowo, bekannt als flacher Felsen.", "category": "natural", "coords": [25.629929, 43.110041]}, {"name": "Izgreva Kartala", "text": "Ein Aussichtspunkt im Viertel Kartala von Weliko Tarnowo.", "category": "natural", "coords": [25.632841, 43.090417]}, {"name": "Preobrazhenski manastir", "text": "Ein bedeutendes bulgarisch-orthodoxes Kloster in der Nähe von Weliko Tarnowo.", "category": "religious", "coords": [25.606778, 43.116768]}], "hu": [{"name": "Park Kolo Ficheto", "text": "Kolju Ficseto építészről elnevezett park Veliko Tarnovóban.", "category": "park", "coords": [25.60661, 43.078687]}, {"name": "Flat Rock", "text": "Egy „lapos sziklaként” ismert kilátóhely Veliko Tarnovóban.", "category": "natural", "coords": [25.629929, 43.110041]}, {"name": "Izgreva Kartala", "text": "Kilátópont Veliko Tarnovo Kartala negyedében.", "category": "natural", "coords": [25.632841, 43.090417]}, {"name": "Preobrazhenski manastir", "text": "Egy jelentős bolgár ortodox kolostor Veliko Tarnovo közelében.", "category": "religious", "coords": [25.606778, 43.116768]}], "ro": [{"name": "Park Kolo Ficheto", "text": "Un parc în Veliko Tărnovo numit după arhitectul Kolio Ficeto.", "category": "park", "coords": [25.60661, 43.078687]}, {"name": "Flat Rock", "text": "Un punct de observație în Veliko Tărnovo, cunoscut sub numele de Stânca Plată.", "category": "natural", "coords": [25.629929, 43.110041]}, {"name": "Izgreva Kartala", "text": "Un punct de belvedere în cartierul Kartala din Veliko Tărnovo.", "category": "natural", "coords": [25.632841, 43.090417]}, {"name": "Mănăstirea Ortodoxă „Schimbarea la Față” Samovodene", "text": "O importantă mănăstire ortodoxă bulgară situată lângă Veliko Tărnovo.", "category": "religious", "coords": [25.606778, 43.116768]}], "en": [{"name": "Park Kolo Ficheto", "text": "A park in Veliko Tarnovo named after the architect Kolyu Ficheto.", "category": "park", "coords": [25.60661, 43.078687]}, {"name": "Flat Rock", "text": "A viewpoint in Veliko Tarnovo known as Flat Rock.", "category": "natural", "coords": [25.629929, 43.110041]}, {"name": "Izgreva Kartala", "text": "A viewpoint in the Kartala district of Veliko Tarnovo.", "category": "natural", "coords": [25.632841, 43.090417]}, {"name": "Transfiguration Monastery", "text": "A significant Bulgarian Orthodox monastery located near Veliko Tarnovo.", "category": "religious", "coords": [25.606778, 43.116768]}]},
+    id: "bulgaria-batenberg-vtarnovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park Kolo Ficheto",
+                  "text": "Ein Park in Weliko Tarnowo, benannt nach dem Architekten Koljo Fitscheto.",
+                  "category": "park",
+                  "coords": [
+                        25.60661,
+                        43.078687
+                  ]
+            },
+            {
+                  "name": "Flat Rock",
+                  "text": "Ein großer flacher Felsvorsprung mit Panoramablick auf die Umgebung bei Batenberg.",
+                  "category": "natural",
+                  "coords": [
+                        25.629929,
+                        43.110041
+                  ]
+            },
+            {
+                  "name": "Izgreva Kartala",
+                  "text": "Ein Aussichtspunkt, bekannt für seinen Sonnenaufgang über dem Kartala-Tal, nahe Batenberg.",
+                  "category": "natural",
+                  "coords": [
+                        25.632841,
+                        43.090417
+                  ]
+            },
+            {
+                  "name": "Preobrazhenski manastir",
+                  "text": "Ein bedeutendes bulgarisch-orthodoxes Kloster in der Nähe von Weliko Tarnowo.",
+                  "category": "religious",
+                  "coords": [
+                        25.606778,
+                        43.116768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park Kolo Ficheto",
+                  "text": "Kolju Ficseto építészről elnevezett park Veliko Tarnovóban.",
+                  "category": "park",
+                  "coords": [
+                        25.60661,
+                        43.078687
+                  ]
+            },
+            {
+                  "name": "Flat Rock",
+                  "text": "Egy nagy lapos sziklakibúvás, panorámás kilátással a környező vidékre Batenberg közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.629929,
+                        43.110041
+                  ]
+            },
+            {
+                  "name": "Izgreva Kartala",
+                  "text": "Egy kilátópont, amely a napfelkeltéről ismert a Kartala-völgy felett, Batenberg közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.632841,
+                        43.090417
+                  ]
+            },
+            {
+                  "name": "Preobrazhenski manastir",
+                  "text": "Egy jelentős bolgár ortodox kolostor Veliko Tarnovo közelében.",
+                  "category": "religious",
+                  "coords": [
+                        25.606778,
+                        43.116768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park Kolo Ficheto",
+                  "text": "Un parc în Veliko Tărnovo numit după arhitectul Kolio Ficeto.",
+                  "category": "park",
+                  "coords": [
+                        25.60661,
+                        43.078687
+                  ]
+            },
+            {
+                  "name": "Flat Rock",
+                  "text": "O stâncă mare și plată, cu vedere panoramică asupra peisajului din jur, lângă Batenberg.",
+                  "category": "natural",
+                  "coords": [
+                        25.629929,
+                        43.110041
+                  ]
+            },
+            {
+                  "name": "Izgreva Kartala",
+                  "text": "Un punct de belvedere cunoscut pentru răsăritul soarelui peste valea Kartala, lângă Batenberg.",
+                  "category": "natural",
+                  "coords": [
+                        25.632841,
+                        43.090417
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Schimbarea la Față” Samovodene",
+                  "text": "O importantă mănăstire ortodoxă bulgară situată lângă Veliko Tărnovo.",
+                  "category": "religious",
+                  "coords": [
+                        25.606778,
+                        43.116768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park Kolo Ficheto",
+                  "text": "A park in Veliko Tarnovo named after the architect Kolyu Ficheto.",
+                  "category": "park",
+                  "coords": [
+                        25.60661,
+                        43.078687
+                  ]
+            },
+            {
+                  "name": "Flat Rock",
+                  "text": "A large flat rock outcrop offering panoramic views of the surrounding countryside near Batenberg.",
+                  "category": "natural",
+                  "coords": [
+                        25.629929,
+                        43.110041
+                  ]
+            },
+            {
+                  "name": "Izgreva Kartala",
+                  "text": "A scenic viewpoint known for its sunrise over the Kartala valley, near Batenberg.",
+                  "category": "natural",
+                  "coords": [
+                        25.632841,
+                        43.090417
+                  ]
+            },
+            {
+                  "name": "Transfiguration Monastery",
+                  "text": "A significant Bulgarian Orthodox monastery located near Veliko Tarnovo.",
+                  "category": "religious",
+                  "coords": [
+                        25.606778,
+                        43.116768
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Weliko Tarnowo)", hu: "Batenberg (Veliko Tarnovo)", ro: "Batenberg (Veliko Târnovo)", en: "Batenberg (Veliko Tarnovo)" },
@@ -6586,7 +12913,7 @@ export const bulgariaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ribarsko selishte",
-                  "text": "Ein Strand bei Burgas am Schwarzen Meer.",
+                  "text": "Eine traditionelle Fischersiedlung mit Holzstegen und Fischrestaurants an der Schwarzmeerküste bei Burgas.",
                   "category": "recreational",
                   "coords": [
                         27.527235,
@@ -6597,7 +12924,7 @@ export const bulgariaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ribarsko selishte",
-                  "text": "Strand Burgasz közelében, a Fekete-tengeren.",
+                  "text": "Egy hagyományos halásztelepülés fa mólókkal és haléttermekkel a Fekete-tenger partján, Burgasz közelében.",
                   "category": "recreational",
                   "coords": [
                         27.527235,
@@ -6608,7 +12935,7 @@ export const bulgariaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ribarsko selishte",
-                  "text": "O plajă lângă Burgas, la Marea Neagră.",
+                  "text": "O așezare tradițională de pescari cu diguri de lemn și restaurante de pește, pe coasta Mării Negre lângă Burgas.",
                   "category": "recreational",
                   "coords": [
                         27.527235,
@@ -6619,7 +12946,7 @@ export const bulgariaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ribarsko selishte",
-                  "text": "A beach near Burgas on the Black Sea.",
+                  "text": "A traditional fishing settlement with wooden piers and seafood restaurants on the Black Sea coast near Burgas.",
                   "category": "recreational",
                   "coords": [
                         27.527235,
@@ -7036,7 +13363,7 @@ export const bulgariaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "plazh Veteran",
-                  "text": "Ein Strand bei Banya am Schwarzen Meer.",
+                  "text": "Der Veteran-Strand, ein ruhiger Sandstrand mit einem Veteranenclub in Banya (Region Varna).",
                   "category": "recreational",
                   "coords": [
                         27.940307,
@@ -7074,7 +13401,7 @@ export const bulgariaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "plazh Veteran",
-                  "text": "Strand Banya közelében, a Fekete-tenger partján.",
+                  "text": "A Veterán strand, egy csendes homokos strand veterán klubbal Banyában (Várna régió).",
                   "category": "recreational",
                   "coords": [
                         27.940307,
@@ -7112,7 +13439,7 @@ export const bulgariaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "plazh Veteran",
-                  "text": "O plajă lângă Banya, la Marea Neagră.",
+                  "text": "Plaja Veteran, o plajă nisipoasă liniștită, cu un club al veteranilor în Banya (regiunea Varna).",
                   "category": "recreational",
                   "coords": [
                         27.940307,
@@ -7150,7 +13477,7 @@ export const bulgariaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "plazh Veteran",
-                  "text": "A beach near Banya on the Black Sea.",
+                  "text": "Veteran Beach, a quiet sandy shore with a veteran's club nearby, in Banya, Varna region.",
                   "category": "recreational",
                   "coords": [
                         27.940307,

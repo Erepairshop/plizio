@@ -714,7 +714,7 @@ export const poiExtraPortugalNature: POI[] = [
       "de": [
             {
                   "name": "Central Hídrica da Fajã Redonda",
-                  "text": "Die Central Hídrica da Fajã Redonda ist ein Museum auf den Azoren, das sich mit der Geschichte der Wasserkraft befasst.",
+                  "text": "Ein Wasserkraftwerk, erbaut 1927 am Lagoa do Fogo, Azoren.",
                   "category": "museum",
                   "coords": [
                         -25.491963,
@@ -750,7 +750,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Miradouro da Bela Vista",
-                  "text": "Der Miradouro da Bela Vista ist ein Aussichtspunkt, der für seine beeindruckende Sicht auf die Küste und das Meer geschätzt wird.",
+                  "text": "Aussichtspunkt mit Panoramablick auf den Kratersee Lagoa do Fogo auf den Azoren.",
                   "category": "natural",
                   "coords": [
                         -25.495521,
@@ -788,7 +788,7 @@ export const poiExtraPortugalNature: POI[] = [
       "hu": [
             {
                   "name": "Central Hídrica da Fajã Redonda",
-                  "text": "A Central Hídrica da Fajã Redonda egy múzeum az Azori-szigeteken, amely a vízenergia történetével foglalkozik.",
+                  "text": "Vízerőmű, épült 1927-ben a Lagoa do Fogo-nál, Azori-szigetek.",
                   "category": "museum",
                   "coords": [
                         -25.491963,
@@ -824,7 +824,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Miradouro da Bela Vista",
-                  "text": "A Miradouro da Bela Vista egy kilátópont, amelyet a tengerpartra és az óceánra nyíló lenyűgöző kilátása miatt kedvelnek.",
+                  "text": "Kilátó pont panorámás kilátással a Lagoa do Fogo krátertóra az Azori-szigeteken.",
                   "category": "natural",
                   "coords": [
                         -25.495521,
@@ -862,7 +862,7 @@ export const poiExtraPortugalNature: POI[] = [
       "ro": [
             {
                   "name": "Central Hídrica da Fajã Redonda",
-                  "text": "Central Hídrica da Fajã Redonda este un muzeu din Azore care se ocupă de istoria energiei hidroelectrice.",
+                  "text": "O centrală hidroelectrică construită în 1927 la Lagoa do Fogo, Azore.",
                   "category": "museum",
                   "coords": [
                         -25.491963,
@@ -898,7 +898,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Miradouro da Bela Vista",
-                  "text": "Miradouro da Bela Vista este un punct de belvedere apreciat pentru vederea sa impresionantă asupra coastei și oceanului.",
+                  "text": "Punct de belvedere cu vedere panoramică asupra lacului de crater Lagoa do Fogo din Azore.",
                   "category": "natural",
                   "coords": [
                         -25.495521,
@@ -936,7 +936,7 @@ export const poiExtraPortugalNature: POI[] = [
       "en": [
             {
                   "name": "Central Hídrica da Fajã Redonda",
-                  "text": "The Central Hídrica da Fajã Redonda is a museum in the Azores focusing on the history of hydroelectric power.",
+                  "text": "A hydroelectric plant built in 1927 at Lagoa do Fogo, Azores.",
                   "category": "museum",
                   "coords": [
                         -25.491963,
@@ -972,7 +972,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Miradouro da Bela Vista",
-                  "text": "The Miradouro da Bela Vista is a viewpoint appreciated for its impressive vista of the coast and the ocean.",
+                  "text": "Viewpoint with panoramic views over the Lagoa do Fogo crater lake in the Azores.",
                   "category": "natural",
                   "coords": [
                         -25.495521,
@@ -1647,7 +1647,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Pinheiro Beach",
-                  "text": "Pinheiro Beach ist ein Strand in der Gegend von Lagos bei Ponta da Piedade.",
+                  "text": "Sandstrand in der Nähe der berühmten Ponta da Piedade Klippen und Grotten.",
                   "category": "recreational",
                   "coords": [
                         -8.668588,
@@ -1784,7 +1784,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Pinheiro Beach",
-                  "text": "A Pinheiro Beach egy strand Lagos területén, a Ponta da Piedade közelében.",
+                  "text": "Homokos strand a híres Ponta da Piedade sziklák és barlangok közelében.",
                   "category": "recreational",
                   "coords": [
                         -8.668588,
@@ -1921,7 +1921,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Pinheiro Beach",
-                  "text": "Pinheiro Beach este o plajă situată în zona Lagos, lângă Ponta da Piedade.",
+                  "text": "Plajă cu nisip lângă faimoasele stânci și grote Ponta da Piedade.",
                   "category": "recreational",
                   "coords": [
                         -8.668588,
@@ -2058,7 +2058,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Pinheiro Beach",
-                  "text": "Pinheiro Beach is a beach located in the Lagos area near Ponta da Piedade.",
+                  "text": "Sandy beach near the famous Ponta da Piedade cliffs and grottoes.",
                   "category": "recreational",
                   "coords": [
                         -8.668588,
@@ -2208,7 +2208,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Vista para o Cabeço do Sino",
-                  "text": "Ein Aussichtspunkt mit weitem Blick auf den Hügel Cabeço do Sino.",
+                  "text": "Aussichtspunkt mit Blick auf den Hügel Cabeço do Sino, nahe dem Dino Parque Lourinhã.",
                   "category": "natural",
                   "coords": [
                         -9.323983,
@@ -2264,7 +2264,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Vista para o Cabeço do Sino",
-                  "text": "Kilátóhely, ahonnan kilátás nyílik a Cabeço do Sino dombra.",
+                  "text": "Kilátó pont a Cabeço do Sino dombra, a Dino Parque Lourinhã közelében.",
                   "category": "natural",
                   "coords": [
                         -9.323983,
@@ -2320,7 +2320,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Vista para o Cabeço do Sino",
-                  "text": "Un punct de belvedere care oferă vederi spre dealul Cabeço do Sino.",
+                  "text": "Punct de belvedere spre dealul Cabeço do Sino, lângă Dino Parque Lourinhã.",
                   "category": "natural",
                   "coords": [
                         -9.323983,
@@ -2376,7 +2376,7 @@ export const poiExtraPortugalNature: POI[] = [
             },
             {
                   "name": "Vista para o Cabeço do Sino",
-                  "text": "A viewpoint offering views of the Cabeço do Sino hill.",
+                  "text": "Viewpoint towards Cabeço do Sino hill, near Dino Parque Lourinhã.",
                   "category": "natural",
                   "coords": [
                         -9.323983,

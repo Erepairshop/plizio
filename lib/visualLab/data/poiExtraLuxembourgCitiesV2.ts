@@ -630,7 +630,7 @@ imageHint: "Modern architecture and industrial heritage in Differdange",
             },
             {
                   "name": "Sender Düdelingen",
-                  "text": "Dieser hohe UKW- und Fernsehsender ist ein markantes Wahrzeichen von Düdelingen.",
+                  "text": "285 Meter hoher Sendeturm, ein markantes Wahrzeichen von Dudelange.",
                   "category": "landmark",
                   "coords": [
                         6.095859,
@@ -776,7 +776,7 @@ imageHint: "Modern architecture and industrial heritage in Differdange",
             },
             {
                   "name": "Dudelange Radio Tower",
-                  "text": "Ez a magas URH- és televízióadó Düdelingen egyik jellegzetes építménye.",
+                  "text": "285 méter magas adótorony, Düdelingen jellegzetes látképe.",
                   "category": "landmark",
                   "coords": [
                         6.095859,
@@ -922,7 +922,7 @@ imageHint: "Modern architecture and industrial heritage in Differdange",
             },
             {
                   "name": "Dudelange Radio Tower",
-                  "text": "Acest turn de transmisie FM și televiziune este un reper proeminent în Düdelingen.",
+                  "text": "Turn de radiocomunicații de 285 de metri, un reper proeminent al orașului Dudelange.",
                   "category": "landmark",
                   "coords": [
                         6.095859,
@@ -1068,7 +1068,7 @@ imageHint: "Modern architecture and industrial heritage in Differdange",
             },
             {
                   "name": "Dudelange Radio Tower",
-                  "text": "This tall FM and television transmitter is a prominent landmark in Düdelingen.",
+                  "text": "A 285-metre tall radio tower, a prominent landmark of Dudelange.",
                   "category": "landmark",
                   "coords": [
                         6.095859,
@@ -1354,7 +1354,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Um Bierg",
-                  "text": "Ein geschütztes Naturareal in der Nähe von Bettemburg.",
+                  "text": "Naturgebiet Um Bierg in Bettemburg.",
                   "category": "natural",
                   "coords": [
                         6.119415,
@@ -1363,7 +1363,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Altenhoven",
-                  "text": "Ein Naturschutzgebiet in der Region Bettemburg.",
+                  "text": "Naturgebiet Altenhoven in Bettemburg.",
                   "category": "natural",
                   "coords": [
                         6.115345,
@@ -1417,7 +1417,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Ado Rinnen",
-                  "text": "Ein Denkmal zu Ehren von Ado Rinnen in Bettemburg.",
+                  "text": "Ein historischer Ort in Bettembourg, dessen Name an frühere Entwässerungsgräben erinnert.",
                   "category": "historical",
                   "coords": [
                         6.064044,
@@ -1426,7 +1426,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Huncherenger Millen",
-                  "text": "Eine historische Wassermühle in Huncherange bei Bettemburg.",
+                  "text": "Historische Wassermühle an der Alzette in Bettembourg.",
                   "category": "landmark",
                   "coords": [
                         6.06635,
@@ -1444,7 +1444,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "Eine dem heiligen Lukas geweihte Kirche in Bettemburg.",
+                  "text": "Die Saint-Luc-Kirche in Bettembourg ist eine moderne Kirche mit einem markanten Glockenturm aus Stahlbeton.",
                   "category": "religious",
                   "coords": [
                         6.11893,
@@ -1500,7 +1500,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Um Bierg",
-                  "text": "Védett természeti terület Bettemburg közelében.",
+                  "text": "Um Bierg természeti terület Bettembourgban.",
                   "category": "natural",
                   "coords": [
                         6.119415,
@@ -1509,7 +1509,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Altenhoven",
-                  "text": "Természetvédelmi terület Bettemburg régiójában.",
+                  "text": "Altenhoven természeti terület Bettembourgban.",
                   "category": "natural",
                   "coords": [
                         6.115345,
@@ -1563,7 +1563,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Ado Rinnen",
-                  "text": "Ado Rinnen tiszteletére emelt emlékmű Bettemburgban.",
+                  "text": "Egy történelmi hely Bettembourgban, amelynek neve korábbi vízelvezető csatornákra utal.",
                   "category": "historical",
                   "coords": [
                         6.064044,
@@ -1572,7 +1572,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Huncherenger Millen",
-                  "text": "Történelmi vízimalom Huncherange-ban, Bettemburg közelében.",
+                  "text": "Történelmi vízimalom az Alzette folyón Bettembourgban.",
                   "category": "landmark",
                   "coords": [
                         6.06635,
@@ -1590,7 +1590,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "Szent Lukácsnak szentelt templom Bettemburgban.",
+                  "text": "A bettembourgi Szent Lukács-templom egy modern templom feltűnő vasbeton harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         6.11893,
@@ -1646,7 +1646,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Um Bierg",
-                  "text": "O zonă naturală protejată în apropiere de Bettembourg.",
+                  "text": "Zona naturală Um Bierg din Bettembourg.",
                   "category": "natural",
                   "coords": [
                         6.119415,
@@ -1655,7 +1655,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Altenhoven",
-                  "text": "O rezervație naturală în regiunea Bettembourg.",
+                  "text": "Zona naturală Altenhoven din Bettembourg.",
                   "category": "natural",
                   "coords": [
                         6.115345,
@@ -1709,7 +1709,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Ado Rinnen",
-                  "text": "Un monument ridicat în onoarea lui Ado Rinnen în Bettembourg.",
+                  "text": "Un sit istoric în Bettembourg, al cărui nume amintește de canalele de drenaj anterioare.",
                   "category": "historical",
                   "coords": [
                         6.064044,
@@ -1718,7 +1718,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Huncherenger Millen",
-                  "text": "O moară de apă istorică în Huncherange, lângă Bettembourg.",
+                  "text": "Moară de apă istorică pe râul Alzette în Bettembourg.",
                   "category": "landmark",
                   "coords": [
                         6.06635,
@@ -1736,7 +1736,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "O biserică dedicată Sfântului Luca în Bettembourg.",
+                  "text": "Biserica Sfântul Luca din Bettembourg este o biserică modernă cu un turn de clopotniță din beton armat.",
                   "category": "religious",
                   "coords": [
                         6.11893,
@@ -1792,7 +1792,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Um Bierg",
-                  "text": "A protected natural area located near Bettembourg.",
+                  "text": "Um Bierg natural area in Bettembourg.",
                   "category": "natural",
                   "coords": [
                         6.119415,
@@ -1801,7 +1801,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Altenhoven",
-                  "text": "A nature reserve located in the Bettembourg region.",
+                  "text": "Altenhoven natural area in Bettembourg.",
                   "category": "natural",
                   "coords": [
                         6.115345,
@@ -1855,7 +1855,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Ado Rinnen",
-                  "text": "A monument in honor of Ado Rinnen in Bettembourg.",
+                  "text": "A historical site in Bettembourg whose name recalls former drainage channels.",
                   "category": "historical",
                   "coords": [
                         6.064044,
@@ -1864,7 +1864,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Huncherenger Millen",
-                  "text": "A historic watermill located in Huncherange near Bettembourg.",
+                  "text": "A historic watermill on the Alzette river in Bettembourg.",
                   "category": "landmark",
                   "coords": [
                         6.06635,
@@ -1882,7 +1882,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "A church dedicated to Saint Luke in Bettembourg.",
+                  "text": "St. Luke's Church in Bettembourg is a modern church with a distinctive reinforced concrete bell tower.",
                   "category": "religious",
                   "coords": [
                         6.11893,
@@ -1949,7 +1949,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
       "de": [
             {
                   "name": "Am Bauch",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Schifflingen.",
+                  "text": "Ein Naturgebiet in Schifflange, das nach seiner bauchigen Form oder Lage benannt ist.",
                   "category": "natural",
                   "coords": [
                         5.99495,
@@ -1967,7 +1967,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Réserve naturelle Brill",
-                  "text": "Ein geschütztes Naturgebiet in Schifflingen.",
+                  "text": "Das Naturschutzgebiet 'Brill' in Schifflange schützt die lokale Artenvielfalt.",
                   "category": "natural",
                   "coords": [
                         6.006395,
@@ -2111,7 +2111,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Kirche Sankt Joseph",
-                  "text": "Eine dem Heiligen Joseph gewidmete Kirche in Schifflingen.",
+                  "text": "Die Saint-Joseph-Kirche in Schifflange ist eine neoromanische Kirche mit zwei Türmen an der Fassade.",
                   "category": "religious",
                   "coords": [
                         5.982792,
@@ -2129,7 +2129,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Saint-Martin",
-                  "text": "Die Hauptkirche von Schifflingen, bekannt als Saint-Martin.",
+                  "text": "Katholische Kirche in Schifflange, geweiht dem heiligen Martin.",
                   "category": "religious",
                   "coords": [
                         6.012372,
@@ -2149,7 +2149,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
       "hu": [
             {
                   "name": "Am Bauch",
-                  "text": "Természetvédelmi terület Schifflingen közelében.",
+                  "text": "Egy természeti terület Schifflange-ban, amelyet has alakú formájáról vagy elhelyezkedéséről neveztek el.",
                   "category": "natural",
                   "coords": [
                         5.99495,
@@ -2167,7 +2167,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Réserve naturelle Brill",
-                  "text": "Védett természeti terület Schifflingenben.",
+                  "text": "A 'Brill' természetvédelmi terület Schifflange-ban védi a helyi biológiai sokféleséget.",
                   "category": "natural",
                   "coords": [
                         6.006395,
@@ -2311,7 +2311,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Szent Józsefnek szentelt templom Schifflingenben.",
+                  "text": "A schifflange-i Szent József-templom egy neoromán templom két toronnyal a homlokzaton.",
                   "category": "religious",
                   "coords": [
                         5.982792,
@@ -2329,7 +2329,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Saint-Martin",
-                  "text": "Schifflingen főtemploma, amely Saint-Martin néven ismert.",
+                  "text": "Katolikus templom Schifflange-ban, Szent Mártonnak szentelve.",
                   "category": "religious",
                   "coords": [
                         6.012372,
@@ -2349,7 +2349,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
       "ro": [
             {
                   "name": "Am Bauch",
-                  "text": "O rezervație naturală situată lângă Schifflingen.",
+                  "text": "O zonă naturală în Schifflange, numită după forma sau locația sa asemănătoare unui burta.",
                   "category": "natural",
                   "coords": [
                         5.99495,
@@ -2367,7 +2367,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Réserve naturelle Brill",
-                  "text": "O zonă naturală protejată din Schifflingen.",
+                  "text": "Rezervația naturală 'Brill' din Schifflange protejează biodiversitatea locală.",
                   "category": "natural",
                   "coords": [
                         6.006395,
@@ -2511,7 +2511,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "O biserică dedicată Sfântului Iosif în Schifflingen.",
+                  "text": "Biserica Sfântul Iosif din Schifflange este o biserică neoromanică cu două turnuri pe fațadă.",
                   "category": "religious",
                   "coords": [
                         5.982792,
@@ -2529,7 +2529,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Saint-Martin",
-                  "text": "Biserica principală din Schifflingen, cunoscută sub numele de Saint-Martin.",
+                  "text": "Biserică catolică în Schifflange, închinată Sfântului Martin.",
                   "category": "religious",
                   "coords": [
                         6.012372,
@@ -2549,7 +2549,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
       "en": [
             {
                   "name": "Am Bauch",
-                  "text": "A nature reserve located near Schifflange.",
+                  "text": "A natural area in Schifflange named for its belly-like shape or location.",
                   "category": "natural",
                   "coords": [
                         5.99495,
@@ -2567,7 +2567,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Réserve naturelle Brill",
-                  "text": "A protected natural area in Schifflange.",
+                  "text": "The nature reserve 'Brill' in Schifflange protects local biodiversity.",
                   "category": "natural",
                   "coords": [
                         6.006395,
@@ -2711,7 +2711,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "A church in Schifflingen dedicated to Saint Joseph.",
+                  "text": "St. Joseph's Church in Schifflange is a Neo-Romanesque church with two towers on the facade.",
                   "category": "religious",
                   "coords": [
                         5.982792,
@@ -2729,7 +2729,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
             },
             {
                   "name": "Saint-Martin",
-                  "text": "The main church of Schifflingen, known as Saint-Martin.",
+                  "text": "A Catholic church in Schifflange dedicated to Saint Martin.",
                   "category": "religious",
                   "coords": [
                         6.012372,
@@ -2796,7 +2796,7 @@ imageHint: "Industrial steel structures in Schifflange",
       "de": [
             {
                   "name": "Deiwelselter",
-                  "text": "Die Deiwelselter ist eine archäologische Stätte bei Ettelbruck.",
+                  "text": "Der Deiwelselter in Ettelbruck ist eine bizarre Sandsteinformation, die an einen Altar erinnert.",
                   "category": "historical",
                   "coords": [
                         6.155038,
@@ -2805,7 +2805,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Centre des Arts Pluriels Ed Juncker",
-                  "text": "Das Centre des Arts Pluriels Ed Juncker ist ein wichtiges Theater in Ettelbruck.",
+                  "text": "Das Centre des Arts Pluriels Ed Juncker in Ettelbruck ist ein Kulturzentrum mit einem großen Veranstaltungssaal und Galerien.",
                   "category": "cultural",
                   "coords": [
                         6.097824,
@@ -2814,7 +2814,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Schloss Birtringen",
-                  "text": "Castle Birtrange ist eine Burg in der Nähe von Ettelbruck.",
+                  "text": "Schloss Birtrange, eine mittelalterliche Burg südlich von Ettelbrück.",
                   "category": "castle",
                   "coords": [
                         6.089094,
@@ -2823,7 +2823,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Schloss Erpeldange",
-                  "text": "Das Schloss Erpeldange ist eine sehenswerte Anlage bei Ettelbruck.",
+                  "text": "Schloss Erpeldange, eine mittelalterliche Burg auf einem Felsen über der Sauer.",
                   "category": "castle",
                   "coords": [
                         6.111655,
@@ -2832,7 +2832,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Römische Villa Schieren",
-                  "text": "Die römische Villa in Schieren ist eine archäologische Stätte bei Ettelbruck.",
+                  "text": "Reste einer römischen Villa bei Ettelbruck, Teil der antiken Siedlung Schieren.",
                   "category": "historical",
                   "coords": [
                         6.101302,
@@ -2850,7 +2850,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Ditgesbaach",
-                  "text": "Ditgesbaach ist ein wertvolles Naturschutzgebiet bei Ettelbruck.",
+                  "text": "Der Ditgesbaach-Bach, ein natürliches Fließgewässer in Ettelbruck.",
                   "category": "natural",
                   "coords": [
                         6.108248,
@@ -2859,7 +2859,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Trellsbam",
-                  "text": "Trellsbam bietet einen schönen Aussichtspunkt bei Ettelbruck.",
+                  "text": "Ein Naturgebiet in Ettelbruck namens Trellsbam, möglicherweise ein markanter Baum oder Waldgebiet.",
                   "category": "natural",
                   "coords": [
                         6.104785,
@@ -2868,7 +2868,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Kalléksuewen",
-                  "text": "Kalléksuewen ist ein bekannter Aussichtspunkt in der Gegend von Ettelbruck.",
+                  "text": "Ein Naturgebiet in Ettelbruck namens Kalléksuewen, das die lokale Landschaft bewahrt.",
                   "category": "natural",
                   "coords": [
                         6.083602,
@@ -2877,7 +2877,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Um Kalléksuewen",
-                  "text": "Um Kalléksuewen befinden sich historische Ruinen nahe Ettelbruck.",
+                  "text": "Ein alter Kalkofen in Ettelbrück, Zeuge der lokalen Industriegeschichte.",
                   "category": "historical",
                   "coords": [
                         6.08212,
@@ -2886,7 +2886,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Al Seerei",
-                  "text": "Al Seerei ist ein lebendiges Kunstzentrum in Ettelbruck.",
+                  "text": "Ein Kulturzentrum in Ettelbruck, das in einem historischen Gebäude oder ehemaligen Seegebiet namens Al Seerei untergebracht ist.",
                   "category": "cultural",
                   "coords": [
                         6.149456,
@@ -2895,7 +2895,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Centre Culturel \"A Maesch\"",
-                  "text": "Das Centre Culturel \"A Maesch\" ist ein Veranstaltungsort für Kunst und Kultur in Ettelbruck.",
+                  "text": "Das Kulturzentrum 'A Maesch' in Ettelbruck mit Veranstaltungen und Ausstellungen.",
                   "category": "cultural",
                   "coords": [
                         6.097192,
@@ -2904,7 +2904,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Die Saint-Sébastien ist ein bedeutendes Gotteshaus in Ettelbruck.",
+                  "text": "Neugotische römisch-katholische Kirche, erbaut 1864.",
                   "category": "religious",
                   "coords": [
                         6.100713,
@@ -2913,7 +2913,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Blaise",
-                  "text": "Die Saint-Blaise ist eine Kirche in der Stadt Ettelbruck.",
+                  "text": "Kirche Saint-Blaise, dem heiligen Blasius geweiht in Ettelbrück.",
                   "category": "religious",
                   "coords": [
                         6.096972,
@@ -2922,7 +2922,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Conversion-de-Saint-Paul",
-                  "text": "Die Conversion-de-Saint-Paul ist ein Gotteshaus in Ettelbruck.",
+                  "text": "Kirche Conversion-de-Saint-Paul, der Bekehrung des Paulus geweiht in Ettelbrück.",
                   "category": "religious",
                   "coords": [
                         6.113325,
@@ -2931,7 +2931,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Celse",
-                  "text": "Die Saint-Celse ist eine Kirche in Ettelbruck.",
+                  "text": "Kirche Saint-Celse, dem heiligen Celsus geweiht in Ettelbrück.",
                   "category": "religious",
                   "coords": [
                         6.127317,
@@ -2940,7 +2940,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Al Synagog Ettelbréck",
-                  "text": "Die ehemalige Synagoge in Ettelbruck ist ein historisches Gebäude.",
+                  "text": "Alte Synagoge Ettelbrück, ehemaliges jüdisches Gotteshaus in der Stadt.",
                   "category": "religious",
                   "coords": [
                         6.098048,
@@ -2951,7 +2951,7 @@ imageHint: "Industrial steel structures in Schifflange",
       "hu": [
             {
                   "name": "Deiwelselter",
-                  "text": "A Deiwelselter egy régészeti lelőhely Ettelbruck közelében.",
+                  "text": "Az ettelbrucki Deiwelselter egy furcsa homokkőképződmény, amely egy oltárra emlékeztet.",
                   "category": "historical",
                   "coords": [
                         6.155038,
@@ -2960,7 +2960,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Centre des Arts Pluriels Ed Juncker",
-                  "text": "A Centre des Arts Pluriels Ed Juncker egy jelentős színház Ettelbruckban.",
+                  "text": "Az ettelbrucki Centre des Arts Pluriels Ed Juncker egy kulturális központ nagy rendezvényteremmel és galériákkal.",
                   "category": "cultural",
                   "coords": [
                         6.097824,
@@ -2969,7 +2969,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Château de Birtrange",
-                  "text": "Castle Birtrange egy vár Ettelbruck közelében.",
+                  "text": "Birtrange-kastély, egy középkori vár Ettelbrucktól délre.",
                   "category": "castle",
                   "coords": [
                         6.089094,
@@ -2978,7 +2978,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Château d'Erpeldange",
-                  "text": "Erpeldange kastélya egy látnivaló Ettelbruck mellett.",
+                  "text": "Erpeldange kastély, egy középkori vár a Sauer folyó feletti sziklán.",
                   "category": "castle",
                   "coords": [
                         6.111655,
@@ -2987,7 +2987,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Réimesch Villa zu Schieren",
-                  "text": "A schiereni római villa egy régészeti lelőhely Ettelbruck mellett.",
+                  "text": "Egy római villa romjai Ettelbruck közelében, a Schieren-i ókori település része.",
                   "category": "historical",
                   "coords": [
                         6.101302,
@@ -3005,7 +3005,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Ditgesbaach",
-                  "text": "Ditgesbaach egy értékes természetvédelmi terület Ettelbruck mellett.",
+                  "text": "A Ditgesbaach-patak, egy természetes vízfolyás Ettelbruckban.",
                   "category": "natural",
                   "coords": [
                         6.108248,
@@ -3014,7 +3014,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Trellsbam",
-                  "text": "Trellsbam egy szép kilátópont Ettelbruck közelében.",
+                  "text": "Egy természeti terület Ettelbruckban, neve Trellsbam, lehet, hogy egy kiemelkedő fa vagy erdős terület.",
                   "category": "natural",
                   "coords": [
                         6.104785,
@@ -3023,7 +3023,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Kalléksuewen",
-                  "text": "Kalléksuewen egy ismert kilátópont Ettelbruck térségében.",
+                  "text": "Egy természeti terület Ettelbruckban, neve Kalléksuewen, a helyi tájat őrzi.",
                   "category": "natural",
                   "coords": [
                         6.083602,
@@ -3032,7 +3032,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Um Kalléksuewen",
-                  "text": "Um Kalléksuewen történelmi romok találhatók Ettelbruck közelében.",
+                  "text": "Egy régi mészégető kemence Ettelbrückben, a helyi ipartörténet tanúja.",
                   "category": "historical",
                   "coords": [
                         6.08212,
@@ -3041,7 +3041,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Al Seerei",
-                  "text": "Az Al Seerei egy élénk művészeti központ Ettelbruckban.",
+                  "text": "Egy kulturális helyszín Ettelbruckban, amely egy történelmi épületben vagy egykori tó területén található, neve Al Seerei.",
                   "category": "cultural",
                   "coords": [
                         6.149456,
@@ -3050,7 +3050,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Centre Culturel \"A Maesch\"",
-                  "text": "Az \"A Maesch\" Kulturális Központ művészeti és kulturális rendezvények helyszíne Ettelbruckban.",
+                  "text": "Az 'A Maesch' kulturális központ Ettelbruckban, események és kiállítások helyszíne.",
                   "category": "cultural",
                   "coords": [
                         6.097192,
@@ -3059,7 +3059,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "A Saint-Sébastien egy jelentős templom Ettelbruckban.",
+                  "text": "Neogótikus római katolikus templom, 1864-ben épült.",
                   "category": "religious",
                   "coords": [
                         6.100713,
@@ -3068,7 +3068,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Blaise",
-                  "text": "A Saint-Blaise egy templom Ettelbruck városában.",
+                  "text": "Szent Balázs-templom, Ettelbruckban, Szent Balázs tiszteletére szentelve.",
                   "category": "religious",
                   "coords": [
                         6.096972,
@@ -3077,7 +3077,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Conversion-de-Saint-Paul",
-                  "text": "A Conversion-de-Saint-Paul egy templom Ettelbruckban.",
+                  "text": "Pál megtérése templom, Pál apostol megtérésének szentelve Ettelbruckban.",
                   "category": "religious",
                   "coords": [
                         6.113325,
@@ -3086,7 +3086,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Celse",
-                  "text": "A Saint-Celse egy templom Ettelbruckban.",
+                  "text": "Szent Celsus-templom, Szent Celsus tiszteletére szentelve Ettelbruckban.",
                   "category": "religious",
                   "coords": [
                         6.127317,
@@ -3095,7 +3095,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Al Synagog Ettelbréck",
-                  "text": "Az egykori ettelbrucki zsinagóga egy történelmi épület.",
+                  "text": "Ettelbrucki régi zsinagóga, egykori zsidó imaház a városban.",
                   "category": "religious",
                   "coords": [
                         6.098048,
@@ -3106,7 +3106,7 @@ imageHint: "Industrial steel structures in Schifflange",
       "ro": [
             {
                   "name": "Deiwelselter",
-                  "text": "Deiwelselter este un sit arheologic lângă Ettelbruck.",
+                  "text": "Deiwelselter din Ettelbruck este o formațiune bizară de gresie care amintește de un altar.",
                   "category": "historical",
                   "coords": [
                         6.155038,
@@ -3115,7 +3115,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Centre des Arts Pluriels Ed Juncker",
-                  "text": "Centre des Arts Pluriels Ed Juncker este un teatru important din Ettelbruck.",
+                  "text": "Centrul de Arte Plurielle Ed Juncker din Ettelbruck este un centru cultural cu o sală mare de evenimente și galerii.",
                   "category": "cultural",
                   "coords": [
                         6.097824,
@@ -3124,7 +3124,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Château de Birtrange",
-                  "text": "Castle Birtrange este un castel din apropierea orașului Ettelbruck.",
+                  "text": "Castelul Birtrange, un castel medieval la sud de Ettelbruck.",
                   "category": "castle",
                   "coords": [
                         6.089094,
@@ -3133,7 +3133,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Château d'Erpeldange",
-                  "text": "Castelul Erpeldange este un edificiu remarcabil de lângă Ettelbruck.",
+                  "text": "Castelul Erpeldange, un castel medieval pe o stâncă deasupra râului Sauer.",
                   "category": "castle",
                   "coords": [
                         6.111655,
@@ -3142,7 +3142,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Réimesch Villa zu Schieren",
-                  "text": "Vila romană din Schieren este un sit arheologic de lângă Ettelbruck.",
+                  "text": "Ruinele unei vile romane lângă Ettelbruck, parte a așezării antice Schieren.",
                   "category": "historical",
                   "coords": [
                         6.101302,
@@ -3160,7 +3160,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Ditgesbaach",
-                  "text": "Ditgesbaach este o rezervație naturală valoroasă de lângă Ettelbruck.",
+                  "text": "Pârâul Ditgesbaach, un curs de apă natural în Ettelbruck.",
                   "category": "natural",
                   "coords": [
                         6.108248,
@@ -3169,7 +3169,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Trellsbam",
-                  "text": "Trellsbam oferă un punct de belvedere frumos lângă Ettelbruck.",
+                  "text": "Un sit natural în Ettelbruck numit Trellsbam, posibil un copac proeminent sau o zonă împădurită.",
                   "category": "natural",
                   "coords": [
                         6.104785,
@@ -3178,7 +3178,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Kalléksuewen",
-                  "text": "Kalléksuewen este un punct de belvedere cunoscut în zona Ettelbruck.",
+                  "text": "O zonă naturală în Ettelbruck numită Kalléksuewen, care păstrează peisajul local.",
                   "category": "natural",
                   "coords": [
                         6.083602,
@@ -3187,7 +3187,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Um Kalléksuewen",
-                  "text": "Um Kalléksuewen găzduiește ruine istorice lângă Ettelbruck.",
+                  "text": "Un cuptor de var vechi în Ettelbruck, martor al istoriei industriale locale.",
                   "category": "historical",
                   "coords": [
                         6.08212,
@@ -3196,7 +3196,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Al Seerei",
-                  "text": "Al Seerei este un centru cultural vibrant în Ettelbruck.",
+                  "text": "Un spațiu cultural în Ettelbruck, găzduit într-o clădire istorică sau într-o fostă zonă lacustră numită Al Seerei.",
                   "category": "cultural",
                   "coords": [
                         6.149456,
@@ -3205,7 +3205,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Centre Culturel \"A Maesch\"",
-                  "text": "Centrul Cultural \"A Maesch\" este un spațiu dedicat artei și culturii în Ettelbruck.",
+                  "text": "Centrul cultural 'A Maesch' din Ettelbruck, care găzduiește evenimente și expoziții.",
                   "category": "cultural",
                   "coords": [
                         6.097192,
@@ -3214,7 +3214,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Saint-Sébastien este un lăcaș de cult important din Ettelbruck.",
+                  "text": "Biserică romano-catolică neogotică construită în 1864.",
                   "category": "religious",
                   "coords": [
                         6.100713,
@@ -3223,7 +3223,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Blaise",
-                  "text": "Saint-Blaise este o biserică situată în orașul Ettelbruck.",
+                  "text": "Biserica Saint-Blaise, dedicată Sfântului Blasiu în Ettelbruck.",
                   "category": "religious",
                   "coords": [
                         6.096972,
@@ -3232,7 +3232,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Conversion-de-Saint-Paul",
-                  "text": "Conversion-de-Saint-Paul este un lăcaș de cult în Ettelbruck.",
+                  "text": "Biserica Conversion-de-Saint-Paul, dedicată convertirii Sfântului Pavel în Ettelbruck.",
                   "category": "religious",
                   "coords": [
                         6.113325,
@@ -3241,7 +3241,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Celse",
-                  "text": "Saint-Celse este o biserică în Ettelbruck.",
+                  "text": "Biserica Saint-Celse, dedicată Sfântului Celsus în Ettelbruck.",
                   "category": "religious",
                   "coords": [
                         6.127317,
@@ -3250,7 +3250,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Al Synagog Ettelbréck",
-                  "text": "Fosta sinagogă din Ettelbruck este o clădire istorică.",
+                  "text": "Fosta sinagogă Al Synagog din Ettelbruck, fost lăcaș de cult evreiesc.",
                   "category": "religious",
                   "coords": [
                         6.098048,
@@ -3261,7 +3261,7 @@ imageHint: "Industrial steel structures in Schifflange",
       "en": [
             {
                   "name": "Deiwelselter",
-                  "text": "Deiwelselter is an archaeological site near Ettelbruck.",
+                  "text": "The Deiwelselter in Ettelbruck is a bizarre sandstone formation resembling an altar.",
                   "category": "historical",
                   "coords": [
                         6.155038,
@@ -3270,7 +3270,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Centre des Arts Pluriels Ed Juncker",
-                  "text": "The Centre des Arts Pluriels Ed Juncker is a major theatre in Ettelbruck.",
+                  "text": "The Centre des Arts Pluriels Ed Juncker in Ettelbruck is a cultural centre with a large event hall and galleries.",
                   "category": "cultural",
                   "coords": [
                         6.097824,
@@ -3279,7 +3279,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Castle Birtrange",
-                  "text": "Castle Birtrange is a castle near Ettelbruck.",
+                  "text": "Castle Birtrange, a medieval castle south of Ettelbruck.",
                   "category": "castle",
                   "coords": [
                         6.089094,
@@ -3288,7 +3288,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Château d'Erpeldange",
-                  "text": "Erpeldange Castle is a notable site near Ettelbruck.",
+                  "text": "Château d'Erpeldange, a medieval castle perched on a cliff above the Sauer river.",
                   "category": "castle",
                   "coords": [
                         6.111655,
@@ -3297,7 +3297,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Roman Villa Schieren",
-                  "text": "The Roman Villa in Schieren is an archaeological site near Ettelbruck.",
+                  "text": "Ruins of a Roman villa near Ettelbruck, part of the ancient settlement of Schieren.",
                   "category": "historical",
                   "coords": [
                         6.101302,
@@ -3315,7 +3315,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Ditgesbaach",
-                  "text": "Ditgesbaach is a valuable nature reserve near Ettelbruck.",
+                  "text": "The Ditgesbaach stream, a natural watercourse in Ettelbruck.",
                   "category": "natural",
                   "coords": [
                         6.108248,
@@ -3324,7 +3324,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Trellsbam",
-                  "text": "Trellsbam offers a nice viewpoint near Ettelbruck.",
+                  "text": "A natural site in Ettelbruck called Trellsbam, possibly a prominent tree or wooded area.",
                   "category": "natural",
                   "coords": [
                         6.104785,
@@ -3333,7 +3333,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Kalléksuewen",
-                  "text": "Kalléksuewen is a known viewpoint in the Ettelbruck area.",
+                  "text": "A natural area in Ettelbruck called Kalléksuewen, preserving local landscape.",
                   "category": "natural",
                   "coords": [
                         6.083602,
@@ -3342,7 +3342,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Um Kalléksuewen",
-                  "text": "Um Kalléksuewen contains historic ruins near Ettelbruck.",
+                  "text": "An old lime kiln in Ettelbruck, a remnant of local industrial history.",
                   "category": "historical",
                   "coords": [
                         6.08212,
@@ -3351,7 +3351,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Al Seerei",
-                  "text": "Al Seerei is a vibrant arts centre in Ettelbruck.",
+                  "text": "A cultural venue in Ettelbruck, housed in a historic building or former lake area named Al Seerei.",
                   "category": "cultural",
                   "coords": [
                         6.149456,
@@ -3360,7 +3360,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Centre Culturel \"A Maesch\"",
-                  "text": "The \"A Maesch\" Cultural Centre is an arts and culture venue in Ettelbruck.",
+                  "text": "The cultural centre 'A Maesch' in Ettelbruck, hosting events and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         6.097192,
@@ -3369,7 +3369,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Saint-Sébastien is a notable place of worship in Ettelbruck.",
+                  "text": "Neo-Gothic Roman Catholic church built in 1864.",
                   "category": "religious",
                   "coords": [
                         6.100713,
@@ -3378,7 +3378,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Blaise",
-                  "text": "Saint-Blaise is a church located in the city of Ettelbruck.",
+                  "text": "Saint-Blaise church, dedicated to Saint Blaise in Ettelbruck.",
                   "category": "religious",
                   "coords": [
                         6.096972,
@@ -3387,7 +3387,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Conversion-de-Saint-Paul",
-                  "text": "Conversion-de-Saint-Paul is a place of worship in Ettelbruck.",
+                  "text": "Conversion-de-Saint-Paul church, dedicated to the Conversion of Saint Paul in Ettelbruck.",
                   "category": "religious",
                   "coords": [
                         6.113325,
@@ -3396,7 +3396,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Saint-Celse",
-                  "text": "Saint-Celse is a church in Ettelbruck.",
+                  "text": "Saint-Celse church, dedicated to Saint Celsus in Ettelbruck.",
                   "category": "religious",
                   "coords": [
                         6.127317,
@@ -3405,7 +3405,7 @@ imageHint: "Industrial steel structures in Schifflange",
             },
             {
                   "name": "Al Synagog Ettelbréck",
-                  "text": "The former synagogue in Ettelbruck is a historical building.",
+                  "text": "Al Synagog Ettelbréck, a former Jewish synagogue in Ettelbruck.",
                   "category": "religious",
                   "coords": [
                         6.098048,
@@ -3472,7 +3472,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Betteling",
-                  "text": "Eine archäologische Fundstätte in der Gemeinde Kayl.",
+                  "text": "Ein historisches Gebiet in Kayl namens Betteling, Teil des lokalen Erbes.",
                   "category": "historical",
                   "coords": [
                         6.030668,
@@ -3481,7 +3481,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Ponk",
-                  "text": "Ein archäologischer Fundplatz bei Kayl.",
+                  "text": "Ein historisches Wahrzeichen in Kayl, bekannt als Ponk.",
                   "category": "historical",
                   "coords": [
                         6.062179,
@@ -3490,7 +3490,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Schurel",
-                  "text": "Eine Ausgrabungsstätte in der Region Kayl.",
+                  "text": "Eine historische Stätte in Kayl namens Schurel.",
                   "category": "historical",
                   "coords": [
                         6.052362,
@@ -3508,7 +3508,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Réserve naturelle Brill",
-                  "text": "Ein Naturschutzgebiet in Kayl, das wertvolle Lebensräume schützt.",
+                  "text": "Das Naturschutzgebiet 'Brill' in Kayl schützt die lokale Flora und Fauna.",
                   "category": "natural",
                   "coords": [
                         6.006395,
@@ -3517,7 +3517,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Réserve naturelle Dumontshaff",
-                  "text": "Ein geschütztes Naturgebiet in der Umgebung von Kayl.",
+                  "text": "Das Naturschutzgebiet 'Dumontshaff' in Kayl, benannt nach der Familie Dumont.",
                   "category": "natural",
                   "coords": [
                         6.027997,
@@ -3571,7 +3571,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Stone Spiral Labyrinth",
-                  "text": "Ein spiralförmiges Steinlabyrinth als begehbare Installation in Kayl.",
+                  "text": "Ein steinernes Spiral-Labyrinth in Kayl, zum Meditationsspaziergang genutzt.",
                   "category": "landmark",
                   "coords": [
                         6.008864,
@@ -3580,7 +3580,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Eisenerzgrube",
-                  "text": "Überreste eines ehemaligen Eisenerzbergwerks in Kayl.",
+                  "text": "Ein historisches Eisenerzbergwerk in Kayl, Teil des Bergbauerbes.",
                   "category": "historical",
                   "coords": [
                         6.004616,
@@ -3625,7 +3625,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Eine dem heiligen Josef geweihte Kirche in Kayl.",
+                  "text": "Kirche Saint-Joseph, dem heiligen Josef geweiht in Kayl.",
                   "category": "religious",
                   "coords": [
                         6.041241,
@@ -3663,7 +3663,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Betteling",
-                  "text": "Régészeti lelőhely Kayl községben.",
+                  "text": "Egy történelmi terület Kayl-ban, neve Betteling, a helyi örökség része.",
                   "category": "historical",
                   "coords": [
                         6.030668,
@@ -3672,7 +3672,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Ponk",
-                  "text": "Régészeti lelőhely Kayl közelében.",
+                  "text": "Egy történelmi nevezetesség Kayl-ban, Ponk néven ismert.",
                   "category": "historical",
                   "coords": [
                         6.062179,
@@ -3681,7 +3681,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Schurel",
-                  "text": "Régészeti lelőhely Kayl régiójában.",
+                  "text": "Egy történelmi hely Kayl-ban, neve Schurel.",
                   "category": "historical",
                   "coords": [
                         6.052362,
@@ -3699,7 +3699,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Réserve naturelle Brill",
-                  "text": "Természetvédelmi terület Kaylban, amely értékes élőhelyeket véd.",
+                  "text": "A 'Brill' természetvédelmi terület Kayl-ban védi a helyi növény- és állatvilágot.",
                   "category": "natural",
                   "coords": [
                         6.006395,
@@ -3708,7 +3708,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Réserve naturelle Dumontshaff",
-                  "text": "Védett természeti terület Kayl környékén.",
+                  "text": "A 'Dumontshaff' természetvédelmi terület Kayl-ban, a Dumont családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         6.027997,
@@ -3762,7 +3762,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Stone Spiral Labyrinth",
-                  "text": "Spirális alakú kőlabirintus Kaylban.",
+                  "text": "Egy kő spirállabirintus Kayl-ban, meditációs sétákhoz használt.",
                   "category": "landmark",
                   "coords": [
                         6.008864,
@@ -3771,7 +3771,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Eisenerzgrube",
-                  "text": "Egykori vasércbánya maradványai Kaylban.",
+                  "text": "Egy történelmi vasércbánya Kayl-ban, a bányászati örökség része.",
                   "category": "historical",
                   "coords": [
                         6.004616,
@@ -3816,7 +3816,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Szent Józsefnek szentelt templom Kaylban.",
+                  "text": "Szent József-templom, Szent József tiszteletére szentelve Kaylban.",
                   "category": "religious",
                   "coords": [
                         6.041241,
@@ -3854,7 +3854,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Betteling",
-                  "text": "Un sit arheologic situat în comuna Kayl.",
+                  "text": "O zonă istorică în Kayl numită Betteling, parte a patrimoniului local.",
                   "category": "historical",
                   "coords": [
                         6.030668,
@@ -3863,7 +3863,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Ponk",
-                  "text": "Un sit arheologic în apropiere de Kayl.",
+                  "text": "Un reper istoric în Kayl, cunoscut sub numele de Ponk.",
                   "category": "historical",
                   "coords": [
                         6.062179,
@@ -3872,7 +3872,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Schurel",
-                  "text": "Un sit arheologic în regiunea Kayl.",
+                  "text": "Un sit istoric în Kayl numit Schurel.",
                   "category": "historical",
                   "coords": [
                         6.052362,
@@ -3890,7 +3890,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Réserve naturelle Brill",
-                  "text": "O rezervație naturală în Kayl care protejează habitate valoroase.",
+                  "text": "Rezervația naturală 'Brill' din Kayl protejează flora și fauna locală.",
                   "category": "natural",
                   "coords": [
                         6.006395,
@@ -3899,7 +3899,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Réserve naturelle Dumontshaff",
-                  "text": "O zonă naturală protejată în împrejurimile localității Kayl.",
+                  "text": "Rezervația naturală 'Dumontshaff' din Kayl, numită după familia Dumont.",
                   "category": "natural",
                   "coords": [
                         6.027997,
@@ -3953,7 +3953,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Stone Spiral Labyrinth",
-                  "text": "Un labirint de piatră în formă de spirală în Kayl.",
+                  "text": "Un labirint spiral din piatră în Kayl, folosit pentru plimbări meditative.",
                   "category": "landmark",
                   "coords": [
                         6.008864,
@@ -3962,7 +3962,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Eisenerzgrube",
-                  "text": "Rămășițele unei foste mine de minereu de fier în Kayl.",
+                  "text": "O mină istorică de minereu de fier în Kayl, parte a patrimoniului minier.",
                   "category": "historical",
                   "coords": [
                         6.004616,
@@ -4007,7 +4007,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "O biserică dedicată Sfântului Iosif în Kayl.",
+                  "text": "Biserica Saint-Joseph, dedicată Sfântului Iosif în Kayl.",
                   "category": "religious",
                   "coords": [
                         6.041241,
@@ -4045,7 +4045,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Betteling",
-                  "text": "An archaeological site located in the municipality of Kayl.",
+                  "text": "A historical area in Kayl called Betteling, part of local heritage.",
                   "category": "historical",
                   "coords": [
                         6.030668,
@@ -4054,7 +4054,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Ponk",
-                  "text": "An archaeological site near Kayl.",
+                  "text": "A historical landmark in Kayl known as Ponk.",
                   "category": "historical",
                   "coords": [
                         6.062179,
@@ -4063,7 +4063,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Schurel",
-                  "text": "An archaeological site in the Kayl region.",
+                  "text": "A historical site in Kayl called Schurel.",
                   "category": "historical",
                   "coords": [
                         6.052362,
@@ -4081,7 +4081,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Réserve naturelle Brill",
-                  "text": "A nature reserve in Kayl protecting valuable habitats.",
+                  "text": "The nature reserve 'Brill' in Kayl, protecting local flora and fauna.",
                   "category": "natural",
                   "coords": [
                         6.006395,
@@ -4090,7 +4090,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Réserve naturelle Dumontshaff",
-                  "text": "A protected natural area in the surroundings of Kayl.",
+                  "text": "The nature reserve 'Dumontshaff' in Kayl, named after the Dumont family.",
                   "category": "natural",
                   "coords": [
                         6.027997,
@@ -4144,7 +4144,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Stone Spiral Labyrinth",
-                  "text": "A stone spiral labyrinth installation in Kayl.",
+                  "text": "A stone spiral labyrinth in Kayl, used for walking meditation.",
                   "category": "landmark",
                   "coords": [
                         6.008864,
@@ -4153,7 +4153,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Eisenerzgrube",
-                  "text": "Remains of a former iron ore mine in Kayl.",
+                  "text": "A historical iron ore mine in Kayl, part of the mining heritage.",
                   "category": "historical",
                   "coords": [
                         6.004616,
@@ -4198,7 +4198,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "A church dedicated to Saint Joseph in Kayl.",
+                  "text": "Saint-Joseph church, dedicated to Saint Joseph in Kayl.",
                   "category": "religious",
                   "coords": [
                         6.041241,
@@ -4310,7 +4310,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Kommunales Naturschutzgebiet Mimelsratt",
-                  "text": "Ein geschütztes Naturareal in Mamer, bekannt als Mimelsratt.",
+                  "text": "Das kommunale Naturschutzgebiet 'Mimelsratt' in Mamer.",
                   "category": "natural",
                   "coords": [
                         6.021257,
@@ -4346,7 +4346,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Eine nach Johannes dem Täufer benannte Kirche in Mamer.",
+                  "text": "Kirche Saint-Jean-Baptiste, Johannes dem Täufer geweiht in Mamer.",
                   "category": "religious",
                   "coords": [
                         6.022573,
@@ -4355,7 +4355,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Saint-André",
-                  "text": "Ein Ort der Andacht in Mamer, benannt nach dem Heiligen Andreas.",
+                  "text": "Kirche Saint-André, dem heiligen Andreas geweiht in Mamer.",
                   "category": "religious",
                   "coords": [
                         5.990694,
@@ -4402,7 +4402,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Réserve naturelle communale Mimelsratt",
-                  "text": "Védett természeti terület Mamerben, Mimelsratt néven ismert.",
+                  "text": "A 'Mimelsratt' községi természetvédelmi terület Mamerben.",
                   "category": "natural",
                   "coords": [
                         6.021257,
@@ -4438,7 +4438,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Keresztelő Szent Jánosról elnevezett templom Mamerben.",
+                  "text": "Keresztelő Szent János-templom, Keresztelő Szent János tiszteletére szentelve Mamerben.",
                   "category": "religious",
                   "coords": [
                         6.022573,
@@ -4447,7 +4447,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Saint-André",
-                  "text": "Hitéleti helyszín Mamerben, Szent Andrásról elnevezve.",
+                  "text": "Szent András-templom, Szent András tiszteletére szentelve Mamerben.",
                   "category": "religious",
                   "coords": [
                         5.990694,
@@ -4494,7 +4494,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Réserve naturelle communale Mimelsratt",
-                  "text": "O zonă naturală protejată în Mamer, cunoscută sub numele de Mimelsratt.",
+                  "text": "Rezervația naturală comunală 'Mimelsratt' din Mamer.",
                   "category": "natural",
                   "coords": [
                         6.021257,
@@ -4530,7 +4530,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "O biserică numită după Sfântul Ioan Botezătorul în Mamer.",
+                  "text": "Biserica Saint-Jean-Baptiste, dedicată Sfântului Ioan Botezătorul în Mamer.",
                   "category": "religious",
                   "coords": [
                         6.022573,
@@ -4539,7 +4539,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Saint-André",
-                  "text": "Un lăcaș de cult în Mamer, numit după Sfântul Andrei.",
+                  "text": "Biserica Saint-André, dedicată Sfântului Andrei în Mamer.",
                   "category": "religious",
                   "coords": [
                         5.990694,
@@ -4586,7 +4586,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Réserve naturelle communale Mimelsratt",
-                  "text": "A protected natural area in Mamer known as Mimelsratt.",
+                  "text": "The communal nature reserve 'Mimelsratt' in Mamer.",
                   "category": "natural",
                   "coords": [
                         6.021257,
@@ -4622,7 +4622,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "A church named after Saint John the Baptist in Mamer.",
+                  "text": "Saint-Jean-Baptiste church, dedicated to John the Baptist in Mamer.",
                   "category": "religious",
                   "coords": [
                         6.022573,
@@ -4631,7 +4631,7 @@ imageHint: "The National Miners' Monument in Kayl",
             },
             {
                   "name": "Saint-André",
-                  "text": "A place of worship in Mamer named after Saint Andrew.",
+                  "text": "Saint-André church, dedicated to Saint Andrew in Mamer.",
                   "category": "religious",
                   "coords": [
                         5.990694,
@@ -4806,7 +4806,7 @@ imageHint: "Roman bath ruins in Mamer",
             },
             {
                   "name": "Saint-Gengoul",
-                  "text": "Eine Pfarrkirche in Merl, die dem heiligen Gengulphus gewidmet ist.",
+                  "text": "Saint-Gengoul-Kirche, eine katholische Kirche in der Ortsmitte von Strassen.",
                   "category": "religious",
                   "coords": [
                         6.093344,
@@ -4952,7 +4952,7 @@ imageHint: "Roman bath ruins in Mamer",
             },
             {
                   "name": "Saint-Gengoul",
-                  "text": "Szent Gengulfusnak szentelt plébániatemplom Merlben.",
+                  "text": "Szent Gengoul-templom, egy katolikus templom Strassen központjában.",
                   "category": "religious",
                   "coords": [
                         6.093344,
@@ -5098,7 +5098,7 @@ imageHint: "Roman bath ruins in Mamer",
             },
             {
                   "name": "Saint-Gengoul",
-                  "text": "O biserică parohială din Merl dedicată Sfântului Gengulphus.",
+                  "text": "Biserica Saint-Gengoul, o biserică catolică în centrul orașului Strassen.",
                   "category": "religious",
                   "coords": [
                         6.093344,
@@ -5244,7 +5244,7 @@ imageHint: "Roman bath ruins in Mamer",
             },
             {
                   "name": "Saint-Gengoul",
-                  "text": "A parish church in Merl dedicated to Saint Gengulphus.",
+                  "text": "Saint-Gengoul Church, a Catholic church dedicated to Saint Gengoul in the centre of Strassen.",
                   "category": "religious",
                   "coords": [
                         6.093344,
@@ -5465,7 +5465,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Galerie am Duerf",
-                  "text": "Eine Kunstgalerie im Dorfzentrum von Walferdingen.",
+                  "text": "Die Galerie 'Galerie am Duerf' in Walferdange mit lokaler Kunst.",
                   "category": "cultural",
                   "coords": [
                         6.122686,
@@ -5519,7 +5519,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Trinité",
-                  "text": "Die Trinité ist eine bedeutende Kirche in Walferdingen.",
+                  "text": "Trinité-Kirche mit Blick auf die Alzette in Walferdange.",
                   "category": "religious",
                   "coords": [
                         6.132751,
@@ -5528,7 +5528,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Chaire-de-Saint-Pierre",
-                  "text": "Die Chaire-de-Saint-Pierre ist eine lokale Kirche in Walferdingen.",
+                  "text": "Kapelle Chaire-de-Saint-Pierre, dem Stuhl des heiligen Petrus geweiht in Walferdingen.",
                   "category": "religious",
                   "coords": [
                         6.123986,
@@ -5537,7 +5537,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert ist eine christliche Kirche in Walferdingen.",
+                  "text": "Saint-Hubert-Kirche in der Nähe des Walferdange-Schlosses.",
                   "category": "religious",
                   "coords": [
                         6.138333,
@@ -5546,7 +5546,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Saint-André",
-                  "text": "Saint-André ist ein Sakralbau in der Stadt Walferdingen.",
+                  "text": "Kirche Saint-André, dem heiligen Andreas geweiht in Walferdingen.",
                   "category": "religious",
                   "coords": [
                         6.140363,
@@ -5656,7 +5656,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Galerie am Duerf",
-                  "text": "Művészeti galéria Walferdingen faluközpontjában.",
+                  "text": "A 'Galerie am Duerf' galéria Walferdange-ban, helyi művészetet bemutatva.",
                   "category": "cultural",
                   "coords": [
                         6.122686,
@@ -5710,7 +5710,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Trinité",
-                  "text": "A Trinité Walferdingen egyik jelentős temploma.",
+                  "text": "Szentháromság-templom az Alzette folyóra nézően Walferdange-ban.",
                   "category": "religious",
                   "coords": [
                         6.132751,
@@ -5719,7 +5719,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Chaire-de-Saint-Pierre",
-                  "text": "A Chaire-de-Saint-Pierre Walferdingen egyik helyi temploma.",
+                  "text": "Szent Péter széke kápolna, a Szent Péter székének szentelve Walferdange-ban.",
                   "category": "religious",
                   "coords": [
                         6.123986,
@@ -5728,7 +5728,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "A Saint-Hubert Walferdingen egyik keresztény temploma.",
+                  "text": "Szent Hubert-templom a Walferdange-i kastély közelében.",
                   "category": "religious",
                   "coords": [
                         6.138333,
@@ -5737,7 +5737,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Saint-André",
-                  "text": "A Saint-André Walferdingen városának egyik temploma.",
+                  "text": "Szent András-templom, Szent András tiszteletére szentelve Walferdange-ban.",
                   "category": "religious",
                   "coords": [
                         6.140363,
@@ -5847,7 +5847,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Galerie am Duerf",
-                  "text": "O galerie de artă în centrul satului Walferdingen.",
+                  "text": "Galeria 'Galerie am Duerf' din Walferdange, care prezintă artă locală.",
                   "category": "cultural",
                   "coords": [
                         6.122686,
@@ -5901,7 +5901,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Trinité",
-                  "text": "Trinité este o biserică importantă din Walferdingen.",
+                  "text": "Biserica Trinité cu vedere la râul Alzette în Walferdange.",
                   "category": "religious",
                   "coords": [
                         6.132751,
@@ -5910,7 +5910,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Chaire-de-Saint-Pierre",
-                  "text": "Chaire-de-Saint-Pierre este o biserică locală din Walferdingen.",
+                  "text": "Capela Chaire-de-Saint-Pierre, dedicată Scaunului Sfântului Petru în Walferdange.",
                   "category": "religious",
                   "coords": [
                         6.123986,
@@ -5919,7 +5919,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert este o biserică creștină din Walferdingen.",
+                  "text": "Biserica Saint-Hubert lângă castelul din Walferdange.",
                   "category": "religious",
                   "coords": [
                         6.138333,
@@ -5928,7 +5928,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Saint-André",
-                  "text": "Saint-André este un lăcaș de cult din orașul Walferdingen.",
+                  "text": "Biserica Saint-André, dedicată Sfântului Andrei în Walferdange.",
                   "category": "religious",
                   "coords": [
                         6.140363,
@@ -6038,7 +6038,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Galerie am Duerf",
-                  "text": "An art gallery in the village center of Walferdingen.",
+                  "text": "The gallery 'Galerie am Duerf' in Walferdange, showcasing local art.",
                   "category": "cultural",
                   "coords": [
                         6.122686,
@@ -6092,7 +6092,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Trinité",
-                  "text": "The Trinité is a significant church in Walferdingen.",
+                  "text": "Trinité Church overlooking the Alzette river in Walferdange.",
                   "category": "religious",
                   "coords": [
                         6.132751,
@@ -6101,7 +6101,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Chaire-de-Saint-Pierre",
-                  "text": "The Chaire-de-Saint-Pierre is a local church in Walferdingen.",
+                  "text": "Chaire-de-Saint-Pierre chapel, dedicated to the Chair of Saint Peter in Walferdange.",
                   "category": "religious",
                   "coords": [
                         6.123986,
@@ -6110,7 +6110,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert is a Christian church in Walferdingen.",
+                  "text": "Saint-Hubert Church near the Walferdange castle.",
                   "category": "religious",
                   "coords": [
                         6.138333,
@@ -6119,7 +6119,7 @@ imageHint: "Main square and church in Bertrange",
             },
             {
                   "name": "Saint-André",
-                  "text": "Saint-André is a place of worship in the city of Walferdingen.",
+                  "text": "Saint-André church, dedicated to Saint Andrew in Walferdange.",
                   "category": "religious",
                   "coords": [
                         6.140363,
@@ -6223,7 +6223,7 @@ imageHint: "Tall radio towers of Junglinster",
       "de": [
             {
                   "name": "Deiwelselter",
-                  "text": "Deiwelselter ist eine interessante archäologische Stätte in Diekirch.",
+                  "text": "Deiwelselter, ein prähistorisches Megalithgrab („Teufelsaltar”) in Diekirch.",
                   "category": "historical",
                   "coords": [
                         6.155038,
@@ -6232,7 +6232,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Musée militaire de Diekirch",
-                  "text": "Das Musée militaire de Diekirch ist das nationale Militärgeschichtsmuseum in Diekirch.",
+                  "text": "Nationalmuseum für Militärgeschichte mit Ausstellungen zum Zweiten Weltkrieg in Diekirch.",
                   "category": "museum",
                   "coords": [
                         6.159844,
@@ -6241,7 +6241,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Schloss Erpeldange",
-                  "text": "Das Château d'Erpeldange ist ein historisches Schloss in der Region Diekirch.",
+                  "text": "Schloss Erpeldange, eine Burg an der Sauer bei Diekirch.",
                   "category": "castle",
                   "coords": [
                         6.111655,
@@ -6250,7 +6250,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Conservatoire National de Véhicules Historiques Diekirch",
-                  "text": "Dieses Museum in Diekirch widmet sich der Erhaltung und Ausstellung historischer Fahrzeuge.",
+                  "text": "Das nationale Museum für historische Fahrzeuge in Diekirch mit Oldtimern und Militärfahrzeugen.",
                   "category": "museum",
                   "coords": [
                         6.158553,
@@ -6277,7 +6277,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Beiemusee",
-                  "text": "Ein Museum in Diekirch, das sich auf Ausstellungen rund um Bienen und Imkerei konzentriert.",
+                  "text": "Ein Museum über Imkerei und Honigproduktion in Diekirch.",
                   "category": "museum",
                   "coords": [
                         6.160577,
@@ -6286,7 +6286,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Al Seerei",
-                  "text": "Ein Kunstzentrum in Diekirch, das einen Veranstaltungsort für kulturelle Ereignisse und Ausstellungen bietet.",
+                  "text": "Ein historisches Gebäude in Diekirch, das kulturelle Veranstaltungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         6.149456,
@@ -6295,7 +6295,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Saint-Laurent",
-                  "text": "Eine lokale Kultstätte in der Stadt Diekirch.",
+                  "text": "Eine Kirche in Diekirch, dem Heiligen Laurentius geweiht.",
                   "category": "religious",
                   "coords": [
                         6.157487,
@@ -6313,7 +6313,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Sainte-Gertrude",
-                  "text": "Diese Kultstätte in Diekirch ist als die Kirche von Gilsdorf anerkannt.",
+                  "text": "Kirche St. Gertrud mit charakteristischem Zwiebelturm in Diekirch.",
                   "category": "religious",
                   "coords": [
                         6.181949,
@@ -6331,7 +6331,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Conversion-de-Saint-Paul",
-                  "text": "Ein religiöses Gebäude und Kultstätte in Diekirch.",
+                  "text": "Kirche Conversion-de-Saint-Paul, der Bekehrung des Paulus geweiht in Diekirch.",
                   "category": "religious",
                   "coords": [
                         6.113325,
@@ -6351,7 +6351,7 @@ imageHint: "Tall radio towers of Junglinster",
       "hu": [
             {
                   "name": "Deiwelselter",
-                  "text": "A Deiwelselter egy régészeti lelőhely Diekirch városában.",
+                  "text": "Deiwelselter, egy őskori megalit sír („Ördög-oltár”) Diekirchben.",
                   "category": "historical",
                   "coords": [
                         6.155038,
@@ -6360,7 +6360,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Musée militaire de Diekirch",
-                  "text": "A Musée militaire de Diekirch a nemzeti hadtörténeti múzeum Diekirchben.",
+                  "text": "Hadtörténeti Múzeum, amely a második világháborús relikviákat mutatja be Diekirchben.",
                   "category": "museum",
                   "coords": [
                         6.159844,
@@ -6369,7 +6369,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Château d'Erpeldange",
-                  "text": "A Château d'Erpeldange egy történelmi kastély Diekirch régiójában.",
+                  "text": "Erpeldange kastély, egy vár a Sauer folyó partján Diekirch mellett.",
                   "category": "castle",
                   "coords": [
                         6.111655,
@@ -6378,7 +6378,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Conservatoire National de Véhicules Historiques Diekirch",
-                  "text": "Ez a Diekirchben található múzeum a történelmi járművek megőrzésének és bemutatásának szenteli magát.",
+                  "text": "A történelmi járművek nemzeti múzeuma Diekirchben, veterán és katonai járművekkel.",
                   "category": "museum",
                   "coords": [
                         6.158553,
@@ -6405,7 +6405,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Beiemusee",
-                  "text": "Egy méhekkel és méhészettel kapcsolatos gyűjteményeket bemutató múzeum Diekirchben.",
+                  "text": "Méhészeti és méztermelési múzeum Diekirchben.",
                   "category": "museum",
                   "coords": [
                         6.160577,
@@ -6414,7 +6414,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Al Seerei",
-                  "text": "Egy művészeti központ Diekirchben, amely kulturális események és kiállítások helyszíne.",
+                  "text": "Egy történelmi épület Diekirchben, kulturális események helyszíne.",
                   "category": "cultural",
                   "coords": [
                         6.149456,
@@ -6423,7 +6423,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Saint-Laurent",
-                  "text": "Egy helyi istentiszteleti hely Diekirch városában.",
+                  "text": "Egy templom Diekirchben, Szent Lőrincnek szentelve.",
                   "category": "religious",
                   "coords": [
                         6.157487,
@@ -6441,7 +6441,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Sainte-Gertrude",
-                  "text": "Ezt a diekirchi istentiszteleti helyet gilsdorfi templomként tartják számon.",
+                  "text": "Szent Gertrúd-templom jellegzetes hagymakupolás toronnyal Diekirchben.",
                   "category": "religious",
                   "coords": [
                         6.181949,
@@ -6459,7 +6459,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Conversion-de-Saint-Paul",
-                  "text": "Egy vallási épület és istentiszteleti hely Diekirchben.",
+                  "text": "Pál megtérése templom, Pál apostol megtérésének szentelve Diekirchben.",
                   "category": "religious",
                   "coords": [
                         6.113325,
@@ -6479,7 +6479,7 @@ imageHint: "Tall radio towers of Junglinster",
       "ro": [
             {
                   "name": "Deiwelselter",
-                  "text": "Deiwelselter este un sit arheologic interesant din Diekirch.",
+                  "text": "Deiwelselter, un mormânt megalitic preistoric („Altarul Diavolului”) în Diekirch.",
                   "category": "historical",
                   "coords": [
                         6.155038,
@@ -6488,7 +6488,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Musée militaire de Diekirch",
-                  "text": "Musée militaire de Diekirch este muzeul național de istorie militară din Diekirch.",
+                  "text": "Muzeul Național de Istorie Militară, cu exponate din al Doilea Război Mondial în Diekirch.",
                   "category": "museum",
                   "coords": [
                         6.159844,
@@ -6497,7 +6497,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Château d'Erpeldange",
-                  "text": "Château d'Erpeldange este un castel istoric situat în regiunea Diekirch.",
+                  "text": "Castelul Erpeldange, un castel pe râul Sauer lângă Diekirch.",
                   "category": "castle",
                   "coords": [
                         6.111655,
@@ -6506,7 +6506,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Conservatoire National de Véhicules Historiques Diekirch",
-                  "text": "Acest muzeu din Diekirch este dedicat conservării și expoziției de vehicule istorice.",
+                  "text": "Muzeul național de vehicule istorice din Diekirch, cu mașini de epocă și vehicule militare.",
                   "category": "museum",
                   "coords": [
                         6.158553,
@@ -6533,7 +6533,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Beiemusee",
-                  "text": "Un muzeu în Diekirch axat pe expunerea colecțiilor legate de albine și apicultură.",
+                  "text": "Un muzeu despre apicultură și producția de miere în Diekirch.",
                   "category": "museum",
                   "coords": [
                         6.160577,
@@ -6542,7 +6542,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Al Seerei",
-                  "text": "Un centru de arte din Diekirch care oferă un spațiu pentru evenimente culturale și expoziții.",
+                  "text": "O clădire istorică în Diekirch care găzduiește evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         6.149456,
@@ -6551,7 +6551,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Saint-Laurent",
-                  "text": "Un lăcaș de cult local situat în orașul Diekirch.",
+                  "text": "O biserică în Diekirch dedicată Sfântului Laurențiu.",
                   "category": "religious",
                   "coords": [
                         6.157487,
@@ -6569,7 +6569,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Sainte-Gertrude",
-                  "text": "Acest lăcaș de cult din Diekirch este recunoscut ca Biserica din Gilsdorf.",
+                  "text": "Biserica Sf. Gertruda cu un turn cu bulb distinctiv în Diekirch.",
                   "category": "religious",
                   "coords": [
                         6.181949,
@@ -6587,7 +6587,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Conversion-de-Saint-Paul",
-                  "text": "O clădire religioasă și lăcaș de cult situat în Diekirch.",
+                  "text": "Biserica Conversion-de-Saint-Paul, dedicată convertirii Sfântului Pavel în Diekirch.",
                   "category": "religious",
                   "coords": [
                         6.113325,
@@ -6607,7 +6607,7 @@ imageHint: "Tall radio towers of Junglinster",
       "en": [
             {
                   "name": "Deiwelselter",
-                  "text": "Deiwelselter is an archaeological site located in Diekirch.",
+                  "text": "Deiwelselter, a prehistoric megalithic tomb („Devil’s Altar”) in Diekirch.",
                   "category": "historical",
                   "coords": [
                         6.155038,
@@ -6616,7 +6616,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Musée militaire de Diekirch",
-                  "text": "The Musée militaire de Diekirch is the national museum of military history located in Diekirch.",
+                  "text": "National Museum of Military History, showcasing WWII artefacts in Diekirch.",
                   "category": "museum",
                   "coords": [
                         6.159844,
@@ -6625,7 +6625,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Château d'Erpeldange",
-                  "text": "The Château d'Erpeldange is a historic castle situated in the Diekirch region.",
+                  "text": "Château d'Erpeldange, a castle on the Sauer river near Diekirch.",
                   "category": "castle",
                   "coords": [
                         6.111655,
@@ -6634,7 +6634,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Conservatoire National de Véhicules Historiques Diekirch",
-                  "text": "This museum in Diekirch is dedicated to the preservation and exhibition of historic vehicles.",
+                  "text": "The national museum of historic vehicles in Diekirch, featuring vintage cars and military vehicles.",
                   "category": "museum",
                   "coords": [
                         6.158553,
@@ -6661,7 +6661,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Beiemusee",
-                  "text": "A museum in Diekirch focused on exhibiting collections related to bees and beekeeping.",
+                  "text": "A museum about beekeeping and honey production in Diekirch.",
                   "category": "museum",
                   "coords": [
                         6.160577,
@@ -6670,7 +6670,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Al Seerei",
-                  "text": "An arts centre in Diekirch offering a venue for cultural events and exhibitions.",
+                  "text": "A historic building in Diekirch hosting cultural events.",
                   "category": "cultural",
                   "coords": [
                         6.149456,
@@ -6679,7 +6679,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Saint-Laurent",
-                  "text": "A local place of worship located in the city of Diekirch.",
+                  "text": "A church in Diekirch dedicated to St. Lawrence.",
                   "category": "religious",
                   "coords": [
                         6.157487,
@@ -6697,7 +6697,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Sainte-Gertrude",
-                  "text": "This place of worship in Diekirch is recognized as the Church of Gilsdorf.",
+                  "text": "Church of St. Gertrude with a distinctive onion-dome bell tower in Diekirch.",
                   "category": "religious",
                   "coords": [
                         6.181949,
@@ -6715,7 +6715,7 @@ imageHint: "Tall radio towers of Junglinster",
             },
             {
                   "name": "Conversion-de-Saint-Paul",
-                  "text": "A religious building and place of worship located in Diekirch.",
+                  "text": "Conversion-de-Saint-Paul church, dedicated to the Conversion of Saint Paul in Diekirch.",
                   "category": "religious",
                   "coords": [
                         6.113325,
@@ -6782,7 +6782,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
       "de": [
             {
                   "name": "Lénger Wisen",
-                  "text": "Lénger Wisen ist ein geschütztes Naturschutzgebiet in Niederkerschen.",
+                  "text": "Naturwiesen namens 'Lénger Wisen' in Bascharage.",
                   "category": "natural",
                   "coords": [
                         5.892341,
@@ -6791,7 +6791,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Château de Sanem",
-                  "text": "Das Château de Sanem ist ein historisches Schloss in Niederkerschen.",
+                  "text": "Schloss Sanem, ein Renaissanceschloss mit französischem Park in Bascharage.",
                   "category": "castle",
                   "coords": [
                         5.925984,
@@ -6800,7 +6800,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Boufferdanger Muer",
-                  "text": "Das Boufferdanger Muer ist ein wertvolles Naturschutzgebiet bei Niederkerschen.",
+                  "text": "Ein Naturgebiet in Bascharage bekannt als 'Boufferdanger Muer'.",
                   "category": "natural",
                   "coords": [
                         5.906764,
@@ -6827,7 +6827,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "A Rousen",
-                  "text": "A Rousen ist ein lokales Kulturzentrum in Niederkerschen.",
+                  "text": "Ein Kulturort 'A Rousen' in Bascharage mit Gemeinschaftsveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         5.875987,
@@ -6845,7 +6845,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert ist eine bedeutende Kirche in Niederkerschen.",
+                  "text": "Saint-Hubert-Kirche, dem Schutzpatron der Jäger gewidmet, in Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.875828,
@@ -6854,7 +6854,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Immaculée Conception de la Vierge Marie",
-                  "text": "Die Kirche Immaculée Conception de la Vierge Marie ist ein Sakralbau in Niederkerschen.",
+                  "text": "Kirche der Unbefleckten Empfängnis, ein Marienheiligtum im Dorf Linger, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.886711,
@@ -6863,7 +6863,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Saint-Denis",
-                  "text": "Saint-Denis ist eine traditionsreiche Kirche in Niederkerschen.",
+                  "text": "Saint-Denis-Kirche im Dorf Uewerkäerjeng, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.91085,
@@ -6872,7 +6872,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Sainte-Catherine",
-                  "text": "Sainte-Catherine ist ein Sakralbau in der Gemeinde Niederkerschen.",
+                  "text": "Sainte-Catherine-Kirche im Dorf Suessem, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.926895,
@@ -6881,7 +6881,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Willibrorduskierch",
-                  "text": "Die Willibrorduskierch ist eine historische Kirche in Niederkerschen.",
+                  "text": "Willibrorduskierch, eine Kirche im Dorf Nidderkäerjeng, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.906394,
@@ -6899,7 +6899,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Public washhouse",
-                  "text": "Das Public washhouse ist ein historisches öffentliches Waschhaus in Niederkerschen.",
+                  "text": "Ein historisches öffentliches Waschhaus in Bascharage, ein gemeinschaftliches Waschgebäude.",
                   "category": "landmark",
                   "coords": [
                         5.914239,
@@ -6910,7 +6910,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
       "hu": [
             {
                   "name": "Lénger Wisen",
-                  "text": "A Lénger Wisen egy védett természetvédelmi terület Niederkerschenben.",
+                  "text": "Természetes rétek 'Lénger Wisen' néven Bascharage-ban.",
                   "category": "natural",
                   "coords": [
                         5.892341,
@@ -6919,7 +6919,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Château de Sanem",
-                  "text": "A Château de Sanem egy történelmi kastély Niederkerschenben.",
+                  "text": "Sanem kastély, egy reneszánsz kastély francia stílusú parkkal Bascharage-ban.",
                   "category": "castle",
                   "coords": [
                         5.925984,
@@ -6928,7 +6928,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Boufferdanger Muer",
-                  "text": "A Boufferdanger Muer egy értékes természetvédelmi terület Niederkerschen közelében.",
+                  "text": "Egy természeti terület Bascharage-ban 'Boufferdanger Muer' néven ismert.",
                   "category": "natural",
                   "coords": [
                         5.906764,
@@ -6955,7 +6955,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "A Rousen",
-                  "text": "Az A Rousen egy helyi kulturális központ Niederkerschenben.",
+                  "text": "Egy 'A Rousen' kulturális helyszín Bascharage-ban, közösségi eseményekkel.",
                   "category": "cultural",
                   "coords": [
                         5.875987,
@@ -6973,7 +6973,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "A Saint-Hubert Niederkerschen egyik jelentős temploma.",
+                  "text": "Szent Hubert-templom, a vadászok védőszentjének szentelve, Bascharage-ban.",
                   "category": "religious",
                   "coords": [
                         5.875828,
@@ -6982,7 +6982,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Immaculée Conception de la Vierge Marie",
-                  "text": "Az Immaculée Conception de la Vierge Marie egy vallási épület Niederkerschenben.",
+                  "text": "Szeplőtelen Fogantatás-templom, Mária-szentély Linger faluban, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.886711,
@@ -6991,7 +6991,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Saint-Denis",
-                  "text": "A Saint-Denis egy hagyományőrző templom Niederkerschenben.",
+                  "text": "Szent Dénes-templom Uewerkäerjeng faluban, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.91085,
@@ -7000,7 +7000,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Sainte-Catherine",
-                  "text": "A Sainte-Catherine egy templom Niederkerschen községben.",
+                  "text": "Szent Katalin-templom Suessem faluban, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.926895,
@@ -7009,7 +7009,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Willibrorduskierch",
-                  "text": "A Willibrorduskierch egy történelmi templom Niederkerschenben.",
+                  "text": "Willibrord-templom a Nidderkäerjeng faluban, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.906394,
@@ -7027,7 +7027,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Public washhouse",
-                  "text": "A Public washhouse egy történelmi nyilvános mosóház Niederkerschenben.",
+                  "text": "Egy történelmi nyilvános mosoda Bascharage-ban, közösségi mosóépület.",
                   "category": "landmark",
                   "coords": [
                         5.914239,
@@ -7038,7 +7038,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
       "ro": [
             {
                   "name": "Lénger Wisen",
-                  "text": "Lénger Wisen este o rezervație naturală protejată din Niederkerschen.",
+                  "text": "Pajiști naturale numite 'Lénger Wisen' în Bascharage.",
                   "category": "natural",
                   "coords": [
                         5.892341,
@@ -7047,7 +7047,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Château de Sanem",
-                  "text": "Château de Sanem este un castel istoric din Niederkerschen.",
+                  "text": "Castelul Sanem, un castel renascentist cu un parc în stil francez în Bascharage.",
                   "category": "castle",
                   "coords": [
                         5.925984,
@@ -7056,7 +7056,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Boufferdanger Muer",
-                  "text": "Boufferdanger Muer este o rezervație naturală valoroasă lângă Niederkerschen.",
+                  "text": "O zonă naturală în Bascharage cunoscută sub numele de 'Boufferdanger Muer'.",
                   "category": "natural",
                   "coords": [
                         5.906764,
@@ -7083,7 +7083,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "A Rousen",
-                  "text": "A Rousen este un centru cultural local din Niederkerschen.",
+                  "text": "Un spațiu cultural 'A Rousen' în Bascharage, care găzduiește evenimente comunitare.",
                   "category": "cultural",
                   "coords": [
                         5.875987,
@@ -7101,7 +7101,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert este o biserică importantă din Niederkerschen.",
+                  "text": "Biserica Saint-Hubert, dedicată patronului vânătorilor, în Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.875828,
@@ -7110,7 +7110,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Immaculée Conception de la Vierge Marie",
-                  "text": "Immaculée Conception de la Vierge Marie este un lăcaș de cult din Niederkerschen.",
+                  "text": "Biserica Neprihănita Zămislire, un sanctuar marian în satul Linger, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.886711,
@@ -7119,7 +7119,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Saint-Denis",
-                  "text": "Saint-Denis este o biserică cu tradiție din Niederkerschen.",
+                  "text": "Biserica Saint-Denis în satul Uewerkäerjeng, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.91085,
@@ -7128,7 +7128,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Sainte-Catherine",
-                  "text": "Sainte-Catherine este un lăcaș de cult din comuna Niederkerschen.",
+                  "text": "Biserica Sainte-Catherine în satul Suessem, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.926895,
@@ -7137,7 +7137,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Willibrorduskierch",
-                  "text": "Willibrorduskierch este o biserică istorică din Niederkerschen.",
+                  "text": "Willibrorduskierch, o biserică în satul Nidderkäerjeng, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.906394,
@@ -7155,7 +7155,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Public washhouse",
-                  "text": "Public washhouse este o spălătorie publică istorică din Niederkerschen.",
+                  "text": "O spălătorie publică istorică în Bascharage, o clădire de spălătorie comunală.",
                   "category": "landmark",
                   "coords": [
                         5.914239,
@@ -7166,7 +7166,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
       "en": [
             {
                   "name": "Lénger Wisen",
-                  "text": "Lénger Wisen is a protected nature reserve in Niederkerschen.",
+                  "text": "Natural meadows called 'Lénger Wisen' in Bascharage.",
                   "category": "natural",
                   "coords": [
                         5.892341,
@@ -7175,7 +7175,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Château de Sanem",
-                  "text": "Château de Sanem is a historic castle in Niederkerschen.",
+                  "text": "Château de Sanem, a Renaissance castle with a French-style park in Bascharage.",
                   "category": "castle",
                   "coords": [
                         5.925984,
@@ -7184,7 +7184,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Boufferdanger Muer",
-                  "text": "Boufferdanger Muer is a valuable nature reserve near Niederkerschen.",
+                  "text": "A natural area in Bascharage known as 'Boufferdanger Muer'.",
                   "category": "natural",
                   "coords": [
                         5.906764,
@@ -7211,7 +7211,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "A Rousen",
-                  "text": "A Rousen is a local cultural centre in Niederkerschen.",
+                  "text": "A cultural venue 'A Rousen' in Bascharage, hosting community events.",
                   "category": "cultural",
                   "coords": [
                         5.875987,
@@ -7229,7 +7229,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert is a significant church in Niederkerschen.",
+                  "text": "Saint-Hubert Church, dedicated to the patron of hunters, in Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.875828,
@@ -7238,7 +7238,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Immaculée Conception de la Vierge Marie",
-                  "text": "The Immaculée Conception de la Vierge Marie is a place of worship in Niederkerschen.",
+                  "text": "Immaculée Conception Church, a Marian shrine in the village of Linger, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.886711,
@@ -7247,7 +7247,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Saint-Denis",
-                  "text": "Saint-Denis is a traditional church in Niederkerschen.",
+                  "text": "Saint-Denis Church in the village of Uewerkäerjeng, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.91085,
@@ -7256,7 +7256,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Sainte-Catherine",
-                  "text": "Sainte-Catherine is a place of worship in the municipality of Niederkerschen.",
+                  "text": "Sainte-Catherine Church in the village of Suessem, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.926895,
@@ -7265,7 +7265,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Willibrorduskierch",
-                  "text": "The Willibrorduskierch is a historic church in Niederkerschen.",
+                  "text": "Willibrorduskierch, a church in the village of Nidderkäerjeng, Bascharage.",
                   "category": "religious",
                   "coords": [
                         5.906394,
@@ -7283,7 +7283,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
             },
             {
                   "name": "Public washhouse",
-                  "text": "The Public washhouse is a historic public laundry in Niederkerschen.",
+                  "text": "A historic public washhouse in Bascharage, a communal laundry building.",
                   "category": "landmark",
                   "coords": [
                         5.914239,
@@ -7440,7 +7440,7 @@ imageHint: "Bofferding brewery buildings in Bascharage",
             },
             {
                   "name": "Chapelle Saint-Hubert",
-                  "text": "Eine historische Kapelle in Dondel, die dem heiligen Hubertus gewidmet ist.",
+                  "text": "Saint-Hubert-Kapelle, eine Kapelle in Dondel, Kehlen.",
                   "category": "religious",
                   "coords": [
                         6.03032,
@@ -7559,7 +7559,7 @@ imageHint: "Bofferding brewery buildings in Bascharage",
             },
             {
                   "name": "Chapelle Saint-Hubert",
-                  "text": "Szent Hubertusnak szentelt történelmi kápolna Dondelben.",
+                  "text": "Szent Hubert-kápolna Dondelben, Kehlenben.",
                   "category": "religious",
                   "coords": [
                         6.03032,
@@ -7678,7 +7678,7 @@ imageHint: "Bofferding brewery buildings in Bascharage",
             },
             {
                   "name": "Chapelle Saint-Hubert",
-                  "text": "O capelă istorică din Dondel dedicată Sfântului Hubert.",
+                  "text": "Capela Saint-Hubert, o capelă în Dondel, Kehlen.",
                   "category": "religious",
                   "coords": [
                         6.03032,
@@ -7797,7 +7797,7 @@ imageHint: "Bofferding brewery buildings in Bascharage",
             },
             {
                   "name": "Chapelle Saint-Hubert",
-                  "text": "A historic chapel in Dondel dedicated to Saint Hubert.",
+                  "text": "Chapelle Saint-Hubert, a chapel in Dondel, Kehlen.",
                   "category": "religious",
                   "coords": [
                         6.03032,
@@ -7864,7 +7864,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
       "de": [
             {
                   "name": "Château de Wiltz",
-                  "text": "Das Schloss Wiltz ist ein historisches Bauwerk in Wiltz.",
+                  "text": "Schloss Wiltz, ein Renaissanceschloss über der Stadt Wiltz.",
                   "category": "castle",
                   "coords": [
                         5.938514,
@@ -7873,7 +7873,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Feuerwehrmuseum",
-                  "text": "Das Pompjeesmusee ist ein Feuerwehrmuseum in Wiltz.",
+                  "text": "Das Feuerwehrmuseum 'Pompjeesmusee' in Wiltz, der Geschichte der örtlichen Feuerwehr gewidmet.",
                   "category": "museum",
                   "coords": [
                         5.928019,
@@ -7882,7 +7882,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "PLOMM Kannermusée",
-                  "text": "Das PLOMM Kannermusée ist ein Kindermuseum in Wiltz.",
+                  "text": "Das Kindermuseum 'PLOMM Kannermusée' in Wiltz mit interaktiven Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         5.92453,
@@ -7891,7 +7891,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Monument National de la Grève",
-                  "text": "Das nationale Streikdenkmal in Wiltz erinnert an den Widerstand.",
+                  "text": "Ein Denkmal in Wiltz, das an den Generalstreik von 1942 während des Zweiten Weltkriegs erinnert.",
                   "category": "historical",
                   "coords": [
                         5.933937,
@@ -7900,7 +7900,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Former quarry",
-                  "text": "Der ehemalige Steinbruch bei Wiltz ist heute eine Attraktion.",
+                  "text": "Ein ehemaliger Steinbruch in Wiltz, heute ein Wahrzeichen und geologisches Merkmal.",
                   "category": "landmark",
                   "coords": [
                         5.969622,
@@ -7909,7 +7909,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Brasserie Simon",
-                  "text": "Die Brasserie Simon ist eine bekannte Attraktion in Wiltz.",
+                  "text": "Die Brauerei Brasserie Simon in Wiltz, ein historisches Wahrzeichen der lokalen Bierproduktion.",
                   "category": "landmark",
                   "coords": [
                         5.929743,
@@ -7918,7 +7918,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Brandbau",
-                  "text": "Das Brandbau ist ein Kunstzentrum in der Stadt Wiltz.",
+                  "text": "Die Kulturstätte 'Brandbau' in Wiltz, vermutlich ein historisches Gebäude.",
                   "category": "cultural",
                   "coords": [
                         5.934527,
@@ -7927,7 +7927,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Sanatorium Kaul, foundation ruins (1920s)",
-                  "text": "Die Ruinen des Sanatoriums Kaul zeugen von der Architektur der 1920er Jahre.",
+                  "text": "Fundamentreste des Sanatoriums Kaul in Wiltz, erbaut in den 1920er Jahren.",
                   "category": "historical",
                   "coords": [
                         5.923936,
@@ -7936,7 +7936,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Mäerkelsser Kierch",
-                  "text": "Die Mäerkelsser Kierch ist ein bedeutendes Gotteshaus in Wiltz.",
+                  "text": "Mäerkelsser Kierch, eine Kirche im Dorf Mäerkels, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.98072,
@@ -7945,7 +7945,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Notre-Dame Consolatrice des Affligés",
-                  "text": "Die Kirche Notre-Dame Consolatrice des Affligés befindet sich in Wiltz.",
+                  "text": "Kirche Notre-Dame Consolatrice des Affligés, Unserer Lieben Frau als Trösterin der Betrübten geweiht in Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.934686,
@@ -7954,7 +7954,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "Saint-Luc ist ein traditionelles Gotteshaus in der Region Wiltz.",
+                  "text": "Saint-Luc-Kirche im Dorf Wanseler, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.888821,
@@ -7963,7 +7963,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Appoloniakapell",
-                  "text": "Die Appoloniakapell ist ein sakrales Bauwerk in Wiltz.",
+                  "text": "Appoloniakapell, eine Kapelle in Rulljen, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.924198,
@@ -7972,7 +7972,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Eloi",
-                  "text": "Saint-Eloi ist eine Kirche in der Stadt Wiltz.",
+                  "text": "Kirche Saint-Eloi, dem heiligen Eligius geweiht in Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.947791,
@@ -7981,7 +7981,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Remigius",
-                  "text": "Saint-Remigius ist ein historisches Gotteshaus in Wiltz.",
+                  "text": "Kirche Saint-Remigius, dem heiligen Remigius geweiht in Wiltz (Nacher).",
                   "category": "religious",
                   "coords": [
                         5.977517,
@@ -7990,7 +7990,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Quirin",
-                  "text": "Saint-Quirin ist ein Gotteshaus in Wiltz.",
+                  "text": "Saint-Quirin-Kirche im Dorf Näertrech, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.908923,
@@ -7999,7 +7999,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "Saints-Pierre-et-Paul ist eine Kirche in Wiltz.",
+                  "text": "Kirche Saints-Pierre-et-Paul, den Aposteln Petrus und Paulus geweiht in Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.930781,
@@ -8008,7 +8008,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Maurice",
-                  "text": "Saint-Maurice ist ein Gotteshaus in Wiltz.",
+                  "text": "Kirche Saint-Maurice, dem heiligen Mauritius geweiht in Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.948249,
@@ -8017,7 +8017,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Pow Wow",
-                  "text": "Pow Wow ist ein Chalet in der Umgebung von Wiltz.",
+                  "text": "Das Wahrzeichen 'Pow Wow' in Wiltz, ein Treffpunkt oder eine Skulptur.",
                   "category": "landmark",
                   "coords": [
                         5.951345,
@@ -8028,7 +8028,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
       "hu": [
             {
                   "name": "Château de Wiltz",
-                  "text": "A wiltzi kastély egy történelmi épület Wiltzben.",
+                  "text": "Wiltzi kastély, reneszánsz kastély Wiltz városa felett.",
                   "category": "castle",
                   "coords": [
                         5.938514,
@@ -8037,7 +8037,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Pompjeesmusee",
-                  "text": "A Pompjeesmusee egy tűzoltómúzeum Wiltzben.",
+                  "text": "A 'Pompjeesmusee' tűzoltómúzeum Wiltzben, a helyi tűzoltóság történetének szentelve.",
                   "category": "museum",
                   "coords": [
                         5.928019,
@@ -8046,7 +8046,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "PLOMM Kannermusée",
-                  "text": "A PLOMM Kannermusée egy gyermekmúzeum Wiltzben.",
+                  "text": "A 'PLOMM Kannermusée' gyermekmúzeum Wiltzben, interaktív kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         5.92453,
@@ -8055,7 +8055,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Monument National de la Grève",
-                  "text": "A wiltzi nemzeti sztrájk-emlékmű az ellenállásra emlékeztet.",
+                  "text": "Egy emlékmű Wiltzben, amely az 1942-es általános sztrájkra emlékeztet a második világháború idején.",
                   "category": "historical",
                   "coords": [
                         5.933937,
@@ -8064,7 +8064,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Former quarry",
-                  "text": "A wiltzi egykori kőfejtő ma látványosság.",
+                  "text": "Egy egykori kőbánya Wiltzben, ma nevezetesség és geológiai jellemző.",
                   "category": "landmark",
                   "coords": [
                         5.969622,
@@ -8073,7 +8073,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Brasserie Simon",
-                  "text": "A Brasserie Simon egy ismert látnivaló Wiltzben.",
+                  "text": "A Brasserie Simon sörfőzde Wiltzben, a helyi sörtermelés történelmi jelképe.",
                   "category": "landmark",
                   "coords": [
                         5.929743,
@@ -8082,7 +8082,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Brandbau",
-                  "text": "A Brandbau egy művészeti központ Wiltz városában.",
+                  "text": "A 'Brandbau' kulturális helyszín Wiltzben, valószínűleg egy történelmi épület.",
                   "category": "cultural",
                   "coords": [
                         5.934527,
@@ -8091,7 +8091,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Sanatorium Kaul, foundation ruins (1920s)",
-                  "text": "A Kaul szanatórium romjai az 1920-as évek építészetét idézik.",
+                  "text": "A Kaul Szanatórium alapromjai Wiltzben, az 1920-as években épült.",
                   "category": "historical",
                   "coords": [
                         5.923936,
@@ -8100,7 +8100,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Mäerkelsser Kierch",
-                  "text": "A Mäerkelsser Kierch egy jelentős templom Wiltzben.",
+                  "text": "Mäerkelsser templom, egy templom Mäerkels faluban, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.98072,
@@ -8109,7 +8109,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Notre-Dame Consolatrice des Affligés",
-                  "text": "A Notre-Dame Consolatrice des Affligés templom Wiltzben található.",
+                  "text": "Notre-Dame Consolatrice des Affligés templom, a szomorúak vigasztalója Szűz Mária tiszteletére szentelve Wiltzben.",
                   "category": "religious",
                   "coords": [
                         5.934686,
@@ -8118,7 +8118,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "Saint-Luc egy hagyományos templom Wiltz régiójában.",
+                  "text": "Szent Lukács-templom Wanseler faluban, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.888821,
@@ -8127,7 +8127,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Appoloniakapell",
-                  "text": "Az Appoloniakapell egy vallási építmény Wiltzben.",
+                  "text": "Appolónia-kápolna Rulljenben, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.924198,
@@ -8136,7 +8136,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Eloi",
-                  "text": "A Saint-Eloi egy templom Wiltz városában.",
+                  "text": "Szent Eligius-templom, Szent Eligius tiszteletére szentelve Wiltzben.",
                   "category": "religious",
                   "coords": [
                         5.947791,
@@ -8145,7 +8145,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Remigius",
-                  "text": "A Saint-Remigius egy történelmi templom Wiltzben.",
+                  "text": "Szent Remigius-templom, Szent Remigius tiszteletére szentelve Wiltzben (Nacher).",
                   "category": "religious",
                   "coords": [
                         5.977517,
@@ -8154,7 +8154,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Quirin",
-                  "text": "A Saint-Quirin egy templom Wiltzben.",
+                  "text": "Szent Quirin-templom Näertrech faluban, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.908923,
@@ -8163,7 +8163,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "A Saints-Pierre-et-Paul egy templom Wiltzben.",
+                  "text": "Szent Péter és Pál apostolok templom, Péternek és Pálnak szentelve Wiltzben.",
                   "category": "religious",
                   "coords": [
                         5.930781,
@@ -8172,7 +8172,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Maurice",
-                  "text": "A Saint-Maurice egy templom Wiltzben.",
+                  "text": "Szent Móric-templom, Szent Móric tiszteletére szentelve Wiltzben.",
                   "category": "religious",
                   "coords": [
                         5.948249,
@@ -8181,7 +8181,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Pow Wow",
-                  "text": "A Pow Wow egy faház Wiltz környékén.",
+                  "text": "A 'Pow Wow' nevezetesség Wiltzben, egy találkozóhely vagy szobor.",
                   "category": "landmark",
                   "coords": [
                         5.951345,
@@ -8192,7 +8192,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
       "ro": [
             {
                   "name": "Château de Wiltz",
-                  "text": "Castelul Wiltz este o clădire istorică din Wiltz.",
+                  "text": "Castelul Wiltz, un castel renascentist deasupra orașului Wiltz.",
                   "category": "castle",
                   "coords": [
                         5.938514,
@@ -8201,7 +8201,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Pompjeesmusee",
-                  "text": "Pompjeesmusee este un muzeu al pompierilor din Wiltz.",
+                  "text": "Muzeul de pompieri 'Pompjeesmusee' din Wiltz, dedicat istoriei serviciului local de pompieri.",
                   "category": "museum",
                   "coords": [
                         5.928019,
@@ -8210,7 +8210,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "PLOMM Kannermusée",
-                  "text": "PLOMM Kannermusée este un muzeu pentru copii din Wiltz.",
+                  "text": "Muzeul pentru copii 'PLOMM Kannermusée' din Wiltz, cu exponate interactive.",
                   "category": "museum",
                   "coords": [
                         5.92453,
@@ -8219,7 +8219,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Monument National de la Grève",
-                  "text": "Monumentul național al grevei din Wiltz comemorează rezistența.",
+                  "text": "Un monument în Wiltz care comemorează greva generală din 1942 în timpul celui de-al Doilea Război Mondial.",
                   "category": "historical",
                   "coords": [
                         5.933937,
@@ -8228,7 +8228,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Former quarry",
-                  "text": "Fosta carieră de lângă Wiltz este astăzi o atracție.",
+                  "text": "O fostă carieră în Wiltz, acum un reper și o caracteristică geologică.",
                   "category": "landmark",
                   "coords": [
                         5.969622,
@@ -8237,7 +8237,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Brasserie Simon",
-                  "text": "Brasserie Simon este o atracție binecunoscută în Wiltz.",
+                  "text": "Berea Brasserie Simon din Wiltz, un reper istoric al producției locale de bere.",
                   "category": "landmark",
                   "coords": [
                         5.929743,
@@ -8246,7 +8246,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Brandbau",
-                  "text": "Brandbau este un centru de artă din orașul Wiltz.",
+                  "text": "Situl cultural 'Brandbau' din Wiltz, probabil o clădire istorică.",
                   "category": "cultural",
                   "coords": [
                         5.934527,
@@ -8255,7 +8255,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Sanatorium Kaul, foundation ruins (1920s)",
-                  "text": "Ruinele Sanatoriului Kaul sunt o dovadă a arhitecturii din anii 1920.",
+                  "text": "Ruinele fundației Sanatoriului Kaul din Wiltz, construite în anii 1920.",
                   "category": "historical",
                   "coords": [
                         5.923936,
@@ -8264,7 +8264,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Mäerkelsser Kierch",
-                  "text": "Mäerkelsser Kierch este un lăcaș de cult important în Wiltz.",
+                  "text": "Mäerkelsser Kierch, o biserică în satul Mäerkels, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.98072,
@@ -8273,7 +8273,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Notre-Dame Consolatrice des Affligés",
-                  "text": "Biserica Notre-Dame Consolatrice des Affligés este situată în Wiltz.",
+                  "text": "Biserica Notre-Dame Consolatrice des Affligés, dedicată Maicii Domnului Mângâietoarea celor întristați în Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.934686,
@@ -8282,7 +8282,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "Saint-Luc este un lăcaș de cult tradițional din regiunea Wiltz.",
+                  "text": "Biserica Saint-Luc în satul Wanseler, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.888821,
@@ -8291,7 +8291,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Appoloniakapell",
-                  "text": "Appoloniakapell este un edificiu sacru din Wiltz.",
+                  "text": "Capela Appolonia, o capelă în Rulljen, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.924198,
@@ -8300,7 +8300,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Eloi",
-                  "text": "Saint-Eloi este o biserică din orașul Wiltz.",
+                  "text": "Biserica Saint-Eloi, dedicată Sfântului Elec (Eligius) în Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.947791,
@@ -8309,7 +8309,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Remigius",
-                  "text": "Saint-Remigius este un lăcaș de cult istoric în Wiltz.",
+                  "text": "Biserica Saint-Remigius, dedicată Sfântului Remigiu în Wiltz (Nacher).",
                   "category": "religious",
                   "coords": [
                         5.977517,
@@ -8318,7 +8318,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Quirin",
-                  "text": "Saint-Quirin este un lăcaș de cult în Wiltz.",
+                  "text": "Biserica Saint-Quirin în satul Näertrech, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.908923,
@@ -8327,7 +8327,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "Saints-Pierre-et-Paul este o biserică în Wiltz.",
+                  "text": "Biserica Saints-Pierre-et-Paul, dedicată Sfinților Apostoli Petru și Pavel în Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.930781,
@@ -8336,7 +8336,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Maurice",
-                  "text": "Saint-Maurice este un lăcaș de cult în Wiltz.",
+                  "text": "Biserica Saint-Maurice, dedicată Sfântului Mauriciu în Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.948249,
@@ -8345,7 +8345,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Pow Wow",
-                  "text": "Pow Wow este o cabană în zona Wiltz.",
+                  "text": "Reperul 'Pow Wow' din Wiltz, un loc de întâlnire sau o sculptură.",
                   "category": "landmark",
                   "coords": [
                         5.951345,
@@ -8356,7 +8356,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
       "en": [
             {
                   "name": "Château de Wiltz",
-                  "text": "Wiltz Castle is a historic building in Wiltz.",
+                  "text": "Château de Wiltz, a Renaissance castle overlooking the town of Wiltz.",
                   "category": "castle",
                   "coords": [
                         5.938514,
@@ -8365,7 +8365,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Pompjeesmusee",
-                  "text": "Pompjeesmusee is a firefighting museum in Wiltz.",
+                  "text": "The firefighting museum 'Pompjeesmusee' in Wiltz, dedicated to local fire service history.",
                   "category": "museum",
                   "coords": [
                         5.928019,
@@ -8374,7 +8374,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "PLOMM Kannermusée",
-                  "text": "PLOMM Kannermusée is a children's museum in Wiltz.",
+                  "text": "The children's museum 'PLOMM Kannermusée' in Wiltz, with interactive exhibits.",
                   "category": "museum",
                   "coords": [
                         5.92453,
@@ -8383,7 +8383,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Monument National de la Grève",
-                  "text": "The national strike monument in Wiltz commemorates the resistance.",
+                  "text": "A monument in Wiltz commemorating the 1942 general strike during WWII.",
                   "category": "historical",
                   "coords": [
                         5.933937,
@@ -8392,7 +8392,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Former quarry",
-                  "text": "The former quarry near Wiltz is now an attraction.",
+                  "text": "A former quarry in Wiltz, now a landmark and geological feature.",
                   "category": "landmark",
                   "coords": [
                         5.969622,
@@ -8401,7 +8401,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Brasserie Simon",
-                  "text": "Brasserie Simon is a well-known attraction in Wiltz.",
+                  "text": "Brasserie Simon brewery in Wiltz, a historic landmark of local beer production.",
                   "category": "landmark",
                   "coords": [
                         5.929743,
@@ -8410,7 +8410,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Brandbau",
-                  "text": "Brandbau is an arts centre in the city of Wiltz.",
+                  "text": "The cultural site 'Brandbau' in Wiltz, likely a historic building.",
                   "category": "cultural",
                   "coords": [
                         5.934527,
@@ -8419,7 +8419,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Sanatorium Kaul, foundation ruins (1920s)",
-                  "text": "The ruins of the Kaul Sanatorium reflect 1920s architecture.",
+                  "text": "Foundation ruins of Sanatorium Kaul in Wiltz, built in the 1920s.",
                   "category": "historical",
                   "coords": [
                         5.923936,
@@ -8428,7 +8428,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Mäerkelsser Kierch",
-                  "text": "Mäerkelsser Kierch is a significant place of worship in Wiltz.",
+                  "text": "Mäerkelsser Kierch, a church in the village of Mäerkels, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.98072,
@@ -8437,7 +8437,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Notre-Dame Consolatrice des Affligés",
-                  "text": "The Notre-Dame Consolatrice des Affligés church is located in Wiltz.",
+                  "text": "Notre-Dame Consolatrice des Affligés church, dedicated to Our Lady Consoler of the Afflicted in Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.934686,
@@ -8446,7 +8446,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "Saint-Luc is a traditional place of worship in the Wiltz region.",
+                  "text": "Saint-Luc Church in the village of Wanseler, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.888821,
@@ -8455,7 +8455,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Appoloniakapell",
-                  "text": "The Appoloniakapell is a religious building in Wiltz.",
+                  "text": "Appoloniakapell, a chapel in Rulljen, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.924198,
@@ -8464,7 +8464,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Eloi",
-                  "text": "Saint-Eloi is a church in the city of Wiltz.",
+                  "text": "Saint-Eloi church, dedicated to Saint Eligius in Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.947791,
@@ -8473,7 +8473,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Remigius",
-                  "text": "Saint-Remigius is a historic place of worship in Wiltz.",
+                  "text": "Saint-Remigius church, dedicated to Saint Remigius in Wiltz (Nacher).",
                   "category": "religious",
                   "coords": [
                         5.977517,
@@ -8482,7 +8482,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Quirin",
-                  "text": "Saint-Quirin is a place of worship in Wiltz.",
+                  "text": "Saint-Quirin Church in the village of Näertrech, Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.908923,
@@ -8491,7 +8491,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "Saints-Pierre-et-Paul is a church in Wiltz.",
+                  "text": "Saints-Pierre-et-Paul church, dedicated to Saints Peter and Paul in Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.930781,
@@ -8500,7 +8500,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Saint-Maurice",
-                  "text": "Saint-Maurice is a place of worship in Wiltz.",
+                  "text": "Saint-Maurice church, dedicated to Saint Maurice in Wiltz.",
                   "category": "religious",
                   "coords": [
                         5.948249,
@@ -8509,7 +8509,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
             },
             {
                   "name": "Pow Wow",
-                  "text": "Pow Wow is a chalet in the Wiltz area.",
+                  "text": "The landmark 'Pow Wow' in Wiltz, a gathering place or sculpture.",
                   "category": "landmark",
                   "coords": [
                         5.951345,
@@ -8567,7 +8567,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
       "de": [
             {
                   "name": "Musée de l'Abbaye",
-                  "text": "Ein Museum in der Abtei Echternach.",
+                  "text": "Abteimuseum in der historischen Benediktinerabtei Echternach.",
                   "category": "museum",
                   "coords": [
                         6.421838,
@@ -8576,7 +8576,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Schloß Weilerbach",
-                  "text": "Ein historisches Schloss nahe Echternach.",
+                  "text": "Schloss Weilerbach, eine Burg an der Sauer bei Echternach.",
                   "category": "castle",
                   "coords": [
                         6.390385,
@@ -8585,7 +8585,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Château de Lauterborn",
-                  "text": "Ein Schloss in der Nähe von Echternach.",
+                  "text": "Schloss Lauterborn, eine Burg im Stadtteil Lauterborn von Echternach.",
                   "category": "castle",
                   "coords": [
                         6.387224,
@@ -8594,7 +8594,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Villa Romana",
-                  "text": "Überreste einer römischen Villa in Echternach.",
+                  "text": "Villa Romana, Überreste einer römischen Villa bei Echternach.",
                   "category": "historical",
                   "coords": [
                         6.412112,
@@ -8603,7 +8603,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Agora",
-                  "text": "Ein Theater in Echternach.",
+                  "text": "Mittelalterliches Giebelhaus (Gotisches Haus) in der Altstadt von Echternach.",
                   "category": "cultural",
                   "coords": [
                         6.420024,
@@ -8612,7 +8612,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Dinosaurierpark Teufelsschlucht",
-                  "text": "Der Dinosaurierpark Teufelsschlucht bei Echternach ist ein beliebter Themenpark.",
+                  "text": "Der Dinosaurierpark Teufelsschlucht in Echternach, ein Familienattraktion mit lebensgroßen Dinosauriermodellen in einer Schlucht.",
                   "category": "family",
                   "coords": [
                         6.436365,
@@ -8621,7 +8621,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Perekop",
-                  "text": "Perekop bei Echternach ist ein beliebter Aussichtspunkt mit schöner Naturkulisse.",
+                  "text": "Perekop, eine markante Felsformation bei Echternach.",
                   "category": "natural",
                   "coords": [
                         6.376098,
@@ -8630,7 +8630,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Weilerbacher Hütte",
-                  "text": "Die Weilerbacher Hütte ist eine historische Industrieruine bei Echternach.",
+                  "text": "Weilerbacher Hütte, eine ehemalige Eisenhütte im Weilerbachtal, Echternach.",
                   "category": "historical",
                   "coords": [
                         6.391734,
@@ -8639,7 +8639,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Lëschenhaus",
-                  "text": "Das Lëschenhaus ist eine historische Ruine in Echternach.",
+                  "text": "Lëschenhaus, ein historisches Wohnhaus in Echternach.",
                   "category": "historical",
                   "coords": [
                         6.414998,
@@ -8648,7 +8648,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Pavillon",
-                  "text": "Der Rokoko-Pavillon in Echternach ist eine charmante historische Sehenswürdigkeit.",
+                  "text": "Rokoko-Gartenpavillon aus dem 18. Jahrhundert in den Abteigärten von Echternach.",
                   "category": "landmark",
                   "coords": [
                         6.424154,
@@ -8657,7 +8657,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Gotisches Haus",
-                  "text": "Das Gotische Haus ist ein markantes historisches Gebäude in Echternach.",
+                  "text": "Gotisches Haus, ein mittelalterliches gotisches Wohnhaus in der Altstadt von Echternach.",
                   "category": "landmark",
                   "coords": [
                         6.417852,
@@ -8666,7 +8666,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Felsenweiher",
-                  "text": "Der Felsenweiher ist eine idyllische natürliche Attraktion in Echternach.",
+                  "text": "Naturschutzgebiet mit Kalksteinfelsen und Buchenwäldern entlang der Sauer.",
                   "category": "landmark",
                   "coords": [
                         6.417559,
@@ -8675,7 +8675,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Geierslay",
-                  "text": "Geierslay bei Echternach ist ein Aussichtspunkt mit weitem Blick auf die Landschaft.",
+                  "text": "Das Naturgebiet 'Geierslay' in Echternach, eine Klippe oder Felsregion.",
                   "category": "natural",
                   "coords": [
                         6.388743,
@@ -8684,7 +8684,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Schweineställe",
-                  "text": "Die Schweineställe in Echternach sind eine interessante Felsformation.",
+                  "text": "Historische Schweineställe in Echternach, ein ehemaliges landwirtschaftliches Gebäude.",
                   "category": "landmark",
                   "coords": [
                         6.398043,
@@ -8693,7 +8693,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Einsiedelei",
-                  "text": "Die Einsiedelei in Echternach ist ein ruhiger Ort für Besucher.",
+                  "text": "Die Einsiedelei in Echternach, ein historischer religiöser Rückzugsort.",
                   "category": "landmark",
                   "coords": [
                         6.420319,
@@ -8702,7 +8702,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Moulin Dieschbourg",
-                  "text": "Die Moulin Dieschbourg ist eine traditionsreiche Mühle in Echternach.",
+                  "text": "Die Mühle 'Moulin Dieschbourg' in Echternach, eine historische Wassermühle.",
                   "category": "landmark",
                   "coords": [
                         6.397517,
@@ -8711,7 +8711,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Liboriuskapelle",
-                  "text": "Die Liboriuskapelle ist ein kleines historisches Gotteshaus in Echternach.",
+                  "text": "Liboriuskapelle in Echternach.",
                   "category": "landmark",
                   "coords": [
                         6.421555,
@@ -8729,7 +8729,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Kräizkapell",
-                  "text": "Die Kräizkapell ist eine historische Kapelle im Zentrum von Echternach.",
+                  "text": "Kräizkapell, die Kreuzkapelle auf dem Hügel oberhalb von Echternach.",
                   "category": "religious",
                   "coords": [
                         6.433159,
@@ -8738,7 +8738,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Muttergotteskapell",
-                  "text": "Die Muttergotteskapell in Echternach ist ein sakrales Baudenkmal.",
+                  "text": "Muttergotteskapell, die Muttergotteskapelle nahe der Abtei in Echternach.",
                   "category": "religious",
                   "coords": [
                         6.413221,
@@ -8747,7 +8747,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Sainte-Catherine",
-                  "text": "Die Kirche Sainte-Catherine ist ein historisches Gotteshaus in der Nähe von Echternach.",
+                  "text": "Sainte-Catherine-Kirche im Dorf Uesweller, Echternach.",
                   "category": "religious",
                   "coords": [
                         6.44271,
@@ -8756,7 +8756,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "Die Kirche Saints-Pierre-et-Paul in Echternach ist eine bedeutende Pfarrkirche.",
+                  "text": "Kirche St. Peter und Paul, die Pfarrkirche im Zentrum von Echternach.",
                   "category": "religious",
                   "coords": [
                         6.422815,
@@ -8765,7 +8765,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "St. Markus",
-                  "text": "St. Markus ist ein sakrales Gebäude und eine Sehenswürdigkeit in Echternach.",
+                  "text": "Kirche St. Markus, dem heiligen Markus geweiht in Echternach.",
                   "category": "religious",
                   "coords": [
                         6.42615,
@@ -8774,7 +8774,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Echternacher Brücke",
-                  "text": "Die Echternacher Brücke verbindet die Stadt mit dem deutschen Ufer.",
+                  "text": "Moderne Sauerbrücke, die Echternach mit Deutschland verbindet.",
                   "category": "landmark",
                   "coords": [
                         6.434808,
@@ -8785,7 +8785,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
       "hu": [
             {
                   "name": "Musée de l'Abbaye",
-                  "text": "Múzeum az echternachi apátságban.",
+                  "text": "Apátsági Múzeum a történelmi bencés apátságban, Echternachban.",
                   "category": "museum",
                   "coords": [
                         6.421838,
@@ -8794,7 +8794,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Schloß Weilerbach",
-                  "text": "Történelmi kastély Echternach közelében.",
+                  "text": "Weilerbach kastély, egy vár a Sauer folyó partján Echternach mellett.",
                   "category": "castle",
                   "coords": [
                         6.390385,
@@ -8803,7 +8803,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Château de Lauterborn",
-                  "text": "Kastély Echternach közelében.",
+                  "text": "Lauterborn kastély, egy vár Echternach Lauterborn negyedében.",
                   "category": "castle",
                   "coords": [
                         6.387224,
@@ -8812,7 +8812,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Villa Romana",
-                  "text": "Egy római villa maradványai Echternachban.",
+                  "text": "Villa Romana, egy római villa maradványai Echternach közelében.",
                   "category": "historical",
                   "coords": [
                         6.412112,
@@ -8821,7 +8821,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Agora",
-                  "text": "Színház Echternachban.",
+                  "text": "Középkori, lépcsős oromzatú ház (Gótikus ház) Echternach óvárosában.",
                   "category": "cultural",
                   "coords": [
                         6.420024,
@@ -8830,7 +8830,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Dinosaurierpark Teufelsschlucht",
-                  "text": "Az echternachi Dinosaurierpark Teufelsschlucht egy népszerű tematikus park.",
+                  "text": "A Teufelsschlucht Dinoszauruszpark Echternachban, egy családi látványosság életnagyságú dinoszaurusz modellekkel egy szurdokban.",
                   "category": "family",
                   "coords": [
                         6.436365,
@@ -8839,7 +8839,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Perekop",
-                  "text": "Az echternachi Perekop egy kedvelt kilátópont gyönyörű természeti környezetben.",
+                  "text": "Perekop, egy jellegzetes sziklaformáció Echternach közelében.",
                   "category": "natural",
                   "coords": [
                         6.376098,
@@ -8848,7 +8848,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Weilerbacher Hütte",
-                  "text": "A Weilerbacher Hütte egy történelmi ipari rom Echternach közelében.",
+                  "text": "Weilerbacher Hütte, egy egykori vasgyár a Weilerbach völgyében, Echternach.",
                   "category": "historical",
                   "coords": [
                         6.391734,
@@ -8857,7 +8857,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Lëschenhaus",
-                  "text": "A Lëschenhaus egy történelmi rom Echternach városában.",
+                  "text": "Lëschenhaus, egy történelmi ház Echternachban.",
                   "category": "historical",
                   "coords": [
                         6.414998,
@@ -8866,7 +8866,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Pavillon",
-                  "text": "Az echternachi rokokó pavilon egy bájos történelmi látnivaló.",
+                  "text": "18. századi rokokó kerti pavilon az echternachi apátság kertjében.",
                   "category": "landmark",
                   "coords": [
                         6.424154,
@@ -8875,7 +8875,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Maison gothique",
-                  "text": "A Gótikus Ház egy jellegzetes történelmi épület Echternachban.",
+                  "text": "Gótikus ház, egy középkori gótikus lakóház Echternach óvárosában.",
                   "category": "landmark",
                   "coords": [
                         6.417852,
@@ -8884,7 +8884,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Felsenweiher",
-                  "text": "A Felsenweiher egy idilli természeti látnivaló Echternachban.",
+                  "text": "Mészkősziklákkal és bükkösökkel tarkított természetvédelmi terület a Sauer folyó mentén.",
                   "category": "landmark",
                   "coords": [
                         6.417559,
@@ -8893,7 +8893,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Geierslay",
-                  "text": "Az echternachi Geierslay egy kilátópont, ahonnan csodás kilátás nyílik a tájra.",
+                  "text": "A 'Geierslay' természeti terület Echternachban, egy sziklás terület.",
                   "category": "natural",
                   "coords": [
                         6.388743,
@@ -8902,7 +8902,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Schweineställe",
-                  "text": "Az echternachi Schweineställe egy érdekes sziklaalakzat.",
+                  "text": "Történelmi sertésólak Echternachban, egykori mezőgazdasági épület.",
                   "category": "landmark",
                   "coords": [
                         6.398043,
@@ -8911,7 +8911,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Einsiedelei",
-                  "text": "Az echternachi remetelak egy csendes hely a látogatók számára.",
+                  "text": "Az 'Einsiedelei' remetelak Echternachban, egy történelmi vallási elvonulási hely.",
                   "category": "landmark",
                   "coords": [
                         6.420319,
@@ -8920,7 +8920,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Moulin Dieschbourg",
-                  "text": "A Moulin Dieschbourg egy hagyományokban gazdag malom Echternachban.",
+                  "text": "A 'Moulin Dieschbourg' malom Echternachban, egy történelmi vízimalom.",
                   "category": "landmark",
                   "coords": [
                         6.397517,
@@ -8929,7 +8929,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Liboriuskapelle",
-                  "text": "A Liborius-kápolna egy kis történelmi templom Echternachban.",
+                  "text": "Liborius-kápolna Echternachban.",
                   "category": "landmark",
                   "coords": [
                         6.421555,
@@ -8947,7 +8947,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Kräizkapell",
-                  "text": "A Kräizkapell egy történelmi kápolna Echternach központjában.",
+                  "text": "Kräizkapell, a Kereszt-kápolna az Echternach fölötti dombon.",
                   "category": "religious",
                   "coords": [
                         6.433159,
@@ -8956,7 +8956,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Muttergotteskapell",
-                  "text": "Az echternachi Muttergotteskapell egy szakrális építészeti emlék.",
+                  "text": "Muttergotteskapell, a Miasszonyunk-kápolna az apátság közelében Echternachban.",
                   "category": "religious",
                   "coords": [
                         6.413221,
@@ -8965,7 +8965,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Sainte-Catherine",
-                  "text": "A Sainte-Catherine templom egy történelmi vallási hely Echternach közelében.",
+                  "text": "Szent Katalin-templom Uesweller faluban, Echternach.",
                   "category": "religious",
                   "coords": [
                         6.44271,
@@ -8974,7 +8974,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "Az echternachi Saints-Pierre-et-Paul templom egy jelentős plébániatemplom.",
+                  "text": "Szent Péter és Pál-templom, a plébániatemplom Echternach központjában.",
                   "category": "religious",
                   "coords": [
                         6.422815,
@@ -8983,7 +8983,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "St. Markus",
-                  "text": "A Szent Márk-templom egy szakrális épület és látnivaló Echternachban.",
+                  "text": "Szent Márk-templom, Szent Márk tiszteletére szentelve Echternachban.",
                   "category": "religious",
                   "coords": [
                         6.42615,
@@ -8992,7 +8992,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Echternacher Brücke",
-                  "text": "Az echternachi híd köti össze a várost a német parttal.",
+                  "text": "Modern híd a Sauer folyón, amely Echternachot Németországgal köti össze.",
                   "category": "landmark",
                   "coords": [
                         6.434808,
@@ -9003,7 +9003,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
       "ro": [
             {
                   "name": "Musée de l'Abbaye",
-                  "text": "Muzeu situat în abația din Echternach.",
+                  "text": "Muzeul Abației în fosta abație benedictină din Echternach.",
                   "category": "museum",
                   "coords": [
                         6.421838,
@@ -9012,7 +9012,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Schloß Weilerbach",
-                  "text": "Castel istoric situat lângă Echternach.",
+                  "text": "Castelul Weilerbach, un castel pe râul Sauer lângă Echternach.",
                   "category": "castle",
                   "coords": [
                         6.390385,
@@ -9021,7 +9021,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Château de Lauterborn",
-                  "text": "Castel situat lângă Echternach.",
+                  "text": "Castelul Lauterborn, un castel în cartierul Lauterborn din Echternach.",
                   "category": "castle",
                   "coords": [
                         6.387224,
@@ -9030,7 +9030,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Villa Romana",
-                  "text": "Rămășițele unei vile romane din Echternach.",
+                  "text": "Villa Romana, vestigii ale unei vile romane lângă Echternach.",
                   "category": "historical",
                   "coords": [
                         6.412112,
@@ -9039,7 +9039,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Agora",
-                  "text": "Teatru situat în Echternach.",
+                  "text": "Casă medievală cu fronton în trepte (Casa Gotica) în centrul vechi al Echternachului.",
                   "category": "cultural",
                   "coords": [
                         6.420024,
@@ -9048,7 +9048,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Dinosaurierpark Teufelsschlucht",
-                  "text": "Dinosaurierpark Teufelsschlucht de lângă Echternach este un parc tematic popular.",
+                  "text": "Parcul Dinozaurilor Teufelsschlucht din Echternach, o atracție de familie cu modele de dinozauri în mărime naturală într-un chei.",
                   "category": "family",
                   "coords": [
                         6.436365,
@@ -9057,7 +9057,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Perekop",
-                  "text": "Perekop din Echternach este un punct de belvedere popular într-un cadru natural frumos.",
+                  "text": "Perekop, o formațiune stâncoasă distinctivă lângă Echternach.",
                   "category": "natural",
                   "coords": [
                         6.376098,
@@ -9066,7 +9066,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Weilerbacher Hütte",
-                  "text": "Weilerbacher Hütte este o ruină industrială istorică lângă Echternach.",
+                  "text": "Weilerbacher Hütte, o fostă topitorie de fier în valea Weilerbach, Echternach.",
                   "category": "historical",
                   "coords": [
                         6.391734,
@@ -9075,7 +9075,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Lëschenhaus",
-                  "text": "Lëschenhaus este o ruină istorică în Echternach.",
+                  "text": "Lëschenhaus, o casă istorică în Echternach.",
                   "category": "historical",
                   "coords": [
                         6.414998,
@@ -9084,7 +9084,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Pavillon",
-                  "text": "Pavilionul rococo din Echternach este o atracție istorică fermecătoare.",
+                  "text": "Pavilion de grădină rococo din secolul al XVIII-lea în grădinile abației din Echternach.",
                   "category": "landmark",
                   "coords": [
                         6.424154,
@@ -9093,7 +9093,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Maison gothique",
-                  "text": "Casa Gotică este o clădire istorică distinctivă din Echternach.",
+                  "text": "Casa gotică, o casă medievală gotică în centrul vechi al Echternachului.",
                   "category": "landmark",
                   "coords": [
                         6.417852,
@@ -9102,7 +9102,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Felsenweiher",
-                  "text": "Felsenweiher este o atracție naturală idilică din Echternach.",
+                  "text": "Rezervație naturală cu stânci calcaroase și păduri de fag de-a lungul râului Sauer.",
                   "category": "landmark",
                   "coords": [
                         6.417559,
@@ -9111,7 +9111,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Geierslay",
-                  "text": "Geierslay de lângă Echternach este un punct de belvedere cu o vedere largă asupra peisajului.",
+                  "text": "Situl natural 'Geierslay' din Echternach, o stâncă sau zonă stâncoasă.",
                   "category": "natural",
                   "coords": [
                         6.388743,
@@ -9120,7 +9120,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Schweineställe",
-                  "text": "Schweineställe din Echternach este o formațiune stâncoasă interesantă.",
+                  "text": "Grajduri de porci istorice 'Schweineställe' în Echternach, o fostă clădire agricolă.",
                   "category": "landmark",
                   "coords": [
                         6.398043,
@@ -9129,7 +9129,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Einsiedelei",
-                  "text": "Schitul din Echternach este un loc liniștit pentru vizitatori.",
+                  "text": "Schitul 'Einsiedelei' din Echternach, un loc istoric de retragere religioasă.",
                   "category": "landmark",
                   "coords": [
                         6.420319,
@@ -9138,7 +9138,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Moulin Dieschbourg",
-                  "text": "Moulin Dieschbourg este o moară tradițională din Echternach.",
+                  "text": "Moara 'Moulin Dieschbourg' din Echternach, o moară de apă istorică.",
                   "category": "landmark",
                   "coords": [
                         6.397517,
@@ -9147,7 +9147,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Liboriuskapelle",
-                  "text": "Capela Liborius este un mic lăcaș de cult istoric din Echternach.",
+                  "text": "Capela Liborius în Echternach.",
                   "category": "landmark",
                   "coords": [
                         6.421555,
@@ -9165,7 +9165,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Kräizkapell",
-                  "text": "Kräizkapell este o capelă istorică din centrul orașului Echternach.",
+                  "text": "Kräizkapell, Capela Crucii pe dealul deasupra Echternachului.",
                   "category": "religious",
                   "coords": [
                         6.433159,
@@ -9174,7 +9174,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Muttergotteskapell",
-                  "text": "Muttergotteskapell din Echternach este un monument arhitectural sacru.",
+                  "text": "Muttergotteskapell, Capela Maicii Domnului lângă abație în Echternach.",
                   "category": "religious",
                   "coords": [
                         6.413221,
@@ -9183,7 +9183,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Sainte-Catherine",
-                  "text": "Biserica Sainte-Catherine este un lăcaș de cult istoric în apropiere de Echternach.",
+                  "text": "Biserica Sainte-Catherine în satul Uesweller, Echternach.",
                   "category": "religious",
                   "coords": [
                         6.44271,
@@ -9192,7 +9192,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "Biserica Saints-Pierre-et-Paul din Echternach este o biserică parohială importantă.",
+                  "text": "Biserica Sfinții Petru și Pavel, biserica parohială în centrul Echternachului.",
                   "category": "religious",
                   "coords": [
                         6.422815,
@@ -9201,7 +9201,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "St. Markus",
-                  "text": "St. Markus este o clădire sacră și o atracție în Echternach.",
+                  "text": "Biserica Sf. Marcu, dedicată Sfântului Marcu în Echternach.",
                   "category": "religious",
                   "coords": [
                         6.42615,
@@ -9210,7 +9210,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Echternacher Brücke",
-                  "text": "Podul din Echternach conectează orașul cu malul german.",
+                  "text": "Pod modern peste râul Sauer, care leagă Echternach de Germania.",
                   "category": "landmark",
                   "coords": [
                         6.434808,
@@ -9221,7 +9221,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
       "en": [
             {
                   "name": "Musée de l'Abbaye",
-                  "text": "Museum located in the abbey of Echternach.",
+                  "text": "Abbey Museum in the historic Benedictine abbey of Echternach.",
                   "category": "museum",
                   "coords": [
                         6.421838,
@@ -9230,7 +9230,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Schloß Weilerbach",
-                  "text": "Historic castle near Echternach.",
+                  "text": "Schloß Weilerbach, a castle on the Sauer river near Echternach.",
                   "category": "castle",
                   "coords": [
                         6.390385,
@@ -9239,7 +9239,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Château de Lauterborn",
-                  "text": "Castle near Echternach.",
+                  "text": "Château de Lauterborn, a castle in the Lauterborn district of Echternach.",
                   "category": "castle",
                   "coords": [
                         6.387224,
@@ -9248,7 +9248,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Villa Romana",
-                  "text": "Remains of a Roman villa in Echternach.",
+                  "text": "Villa Romana, remains of a Roman villa near Echternach.",
                   "category": "historical",
                   "coords": [
                         6.412112,
@@ -9257,7 +9257,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Agora",
-                  "text": "Theatre located in Echternach.",
+                  "text": "The cultural centre 'Agora' in Echternach, hosting performances and events.",
                   "category": "cultural",
                   "coords": [
                         6.420024,
@@ -9266,7 +9266,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Dinosaurierpark Teufelsschlucht",
-                  "text": "Dinosaurierpark Teufelsschlucht near Echternach is a popular theme park.",
+                  "text": "Dinosaurierpark Teufelsschlucht in Echternach, a family attraction with life-sized dinosaur models in a gorge setting.",
                   "category": "family",
                   "coords": [
                         6.436365,
@@ -9275,7 +9275,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Perekop",
-                  "text": "Perekop in Echternach is a popular viewpoint in a beautiful natural setting.",
+                  "text": "Perekop, a distinctive rock formation near Echternach.",
                   "category": "natural",
                   "coords": [
                         6.376098,
@@ -9284,7 +9284,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Weilerbacher Hütte",
-                  "text": "Weilerbacher Hütte is a historic industrial ruin near Echternach.",
+                  "text": "Weilerbacher Hütte, a former ironworks in the Weilerbach valley, Echternach.",
                   "category": "historical",
                   "coords": [
                         6.391734,
@@ -9293,7 +9293,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Lëschenhaus",
-                  "text": "The Lëschenhaus is a historic ruin in Echternach.",
+                  "text": "Lëschenhaus, a historic house in Echternach.",
                   "category": "historical",
                   "coords": [
                         6.414998,
@@ -9302,7 +9302,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Pavillon",
-                  "text": "The Rococo Pavilion in Echternach is a charming historic attraction.",
+                  "text": "18th-century Rococo garden pavilion in the abbey gardens of Echternach.",
                   "category": "landmark",
                   "coords": [
                         6.424154,
@@ -9311,7 +9311,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Gothic House",
-                  "text": "The Gothic House is a distinctive historic building in Echternach.",
+                  "text": "Gothic House, a medieval Gothic residential house in Echternach's old town.",
                   "category": "landmark",
                   "coords": [
                         6.417852,
@@ -9320,7 +9320,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Felsenweiher",
-                  "text": "The Felsenweiher is an idyllic natural attraction in Echternach.",
+                  "text": "Nature reserve with limestone cliffs and beech forests along the Sauer.",
                   "category": "landmark",
                   "coords": [
                         6.417559,
@@ -9329,7 +9329,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Geierslay",
-                  "text": "Geierslay near Echternach is a viewpoint with an expansive view of the landscape.",
+                  "text": "The natural site 'Geierslay' in Echternach, a cliff or rocky area.",
                   "category": "natural",
                   "coords": [
                         6.388743,
@@ -9338,7 +9338,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Schweineställe",
-                  "text": "The Schweineställe in Echternach is an interesting rock formation.",
+                  "text": "Historic pigsties 'Schweineställe' in Echternach, a former agricultural building.",
                   "category": "landmark",
                   "coords": [
                         6.398043,
@@ -9347,7 +9347,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Einsiedelei",
-                  "text": "The hermitage in Echternach is a peaceful place for visitors.",
+                  "text": "The hermitage 'Einsiedelei' in Echternach, a historic religious retreat.",
                   "category": "landmark",
                   "coords": [
                         6.420319,
@@ -9356,7 +9356,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Moulin Dieschbourg",
-                  "text": "The Moulin Dieschbourg is a traditional mill in Echternach.",
+                  "text": "The mill 'Moulin Dieschbourg' in Echternach, a historic watermill.",
                   "category": "landmark",
                   "coords": [
                         6.397517,
@@ -9365,7 +9365,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Liboriuskapelle",
-                  "text": "The Liborius Chapel is a small historic place of worship in Echternach.",
+                  "text": "Liborius Chapel in Echternach.",
                   "category": "landmark",
                   "coords": [
                         6.421555,
@@ -9383,7 +9383,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Kräizkapell",
-                  "text": "The Kräizkapell is a historic chapel in the centre of Echternach.",
+                  "text": "Kräizkapell, the Cross Chapel on the hill above Echternach.",
                   "category": "religious",
                   "coords": [
                         6.433159,
@@ -9392,7 +9392,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Muttergotteskapell",
-                  "text": "The Muttergotteskapell in Echternach is a sacred architectural monument.",
+                  "text": "Muttergotteskapell, Our Lady's Chapel near the abbey in Echternach.",
                   "category": "religious",
                   "coords": [
                         6.413221,
@@ -9401,7 +9401,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Sainte-Catherine",
-                  "text": "The church of Sainte-Catherine is a historic place of worship near Echternach.",
+                  "text": "Sainte-Catherine Church in the village of Uesweller, Echternach.",
                   "category": "religious",
                   "coords": [
                         6.44271,
@@ -9410,7 +9410,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Saints-Pierre-et-Paul",
-                  "text": "The church of Saints-Pierre-et-Paul in Echternach is a significant parish church.",
+                  "text": "Saints-Pierre-et-Paul Church, the parish church in the centre of Echternach.",
                   "category": "religious",
                   "coords": [
                         6.422815,
@@ -9419,7 +9419,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "St. Markus",
-                  "text": "St. Markus is a sacred building and attraction in Echternach.",
+                  "text": "St. Markus church, dedicated to Saint Mark in Echternach.",
                   "category": "religious",
                   "coords": [
                         6.42615,
@@ -9428,7 +9428,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
             },
             {
                   "name": "Echternacher Brücke",
-                  "text": "The bridge in Echternach connects the town with the German shore.",
+                  "text": "Modern bridge over the Sauer river linking Echternach to Germany.",
                   "category": "landmark",
                   "coords": [
                         6.434808,
@@ -9901,7 +9901,7 @@ imageHint: "Modern church tower in Mondercange",
       "de": [
             {
                   "name": "Musée Rural et Artisanal",
-                  "text": "Museum für ländliches Leben und Handwerk in Peppingen.",
+                  "text": "Das ländliche und Handwerksmuseum in Roeser, das traditionelles Leben zeigt.",
                   "category": "museum",
                   "coords": [
                         6.129926,
@@ -9910,7 +9910,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Um Bierg",
-                  "text": "Ein geschütztes Naturgebiet bei Roeser.",
+                  "text": "Das Naturgebiet 'Um Bierg' in Roeser, ein Hügel oder erhöhte Landschaft.",
                   "category": "natural",
                   "coords": [
                         6.119415,
@@ -9919,7 +9919,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Musée de Calèche",
-                  "text": "Museum für historische Kutschen in Peppingen.",
+                  "text": "Das Kutschenmuseum 'Musée de Calèche' in Roeser mit historischen Pferdefuhrwerken.",
                   "category": "museum",
                   "coords": [
                         6.127589,
@@ -9928,7 +9928,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "Eine Kirche im Ortsteil Fentingen.",
+                  "text": "Saint-Luc-Kirche im Dorf Fenteng, Roeser.",
                   "category": "religious",
                   "coords": [
                         6.153098,
@@ -9937,7 +9937,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Donatuskierch",
-                  "text": "Die Donatuskirche in Roeser.",
+                  "text": "Donatuskierch, die Donatuskirche im Dorf Réiser, Roeser.",
                   "category": "religious",
                   "coords": [
                         6.145786,
@@ -9946,7 +9946,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "Eine lokale Kirche in der Gemeinde Roeser.",
+                  "text": "Kirche Saint-Mathias, dem heiligen Matthias geweiht in Roeser.",
                   "category": "religious",
                   "coords": [
                         6.137036,
@@ -9957,7 +9957,7 @@ imageHint: "Modern church tower in Mondercange",
       "hu": [
             {
                   "name": "Musée Rural et Artisanal",
-                  "text": "Vidéki életet és mesterségeket bemutató múzeum Peppingenben.",
+                  "text": "A falusi és kézműves múzeum Roeserben, a hagyományos élet bemutatása.",
                   "category": "museum",
                   "coords": [
                         6.129926,
@@ -9966,7 +9966,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Um Bierg",
-                  "text": "Védett természeti terület Roeser közelében.",
+                  "text": "Az 'Um Bierg' természeti terület Roeserben, egy domb vagy magaslat.",
                   "category": "natural",
                   "coords": [
                         6.119415,
@@ -9975,7 +9975,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Musée de Calèche",
-                  "text": "Történelmi hintókat bemutató múzeum Peppingenben.",
+                  "text": "A 'Musée de Calèche' hintómúzeum Roeserben, történelmi lóvontatású járművekkel.",
                   "category": "museum",
                   "coords": [
                         6.127589,
@@ -9984,7 +9984,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "Templom Fentange városrészben.",
+                  "text": "Szent Lukács-templom Fenteng faluban, Roeser.",
                   "category": "religious",
                   "coords": [
                         6.153098,
@@ -9993,7 +9993,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Donatuskierch",
-                  "text": "A Donatus-templom Roeserben.",
+                  "text": "Donátus-templom Réiser faluban, Roeser.",
                   "category": "religious",
                   "coords": [
                         6.145786,
@@ -10002,7 +10002,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "Helyi templom Roeser községben.",
+                  "text": "Szent Mátyás-templom, Szent Mátyás tiszteletére szentelve Roeserben.",
                   "category": "religious",
                   "coords": [
                         6.137036,
@@ -10013,7 +10013,7 @@ imageHint: "Modern church tower in Mondercange",
       "ro": [
             {
                   "name": "Musée Rural et Artisanal",
-                  "text": "Muzeu dedicat vieții rurale și meșteșugurilor din Peppingen.",
+                  "text": "Muzeul rural și artizanal din Roeser, care prezintă viața tradițională.",
                   "category": "museum",
                   "coords": [
                         6.129926,
@@ -10022,7 +10022,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Um Bierg",
-                  "text": "O zonă naturală protejată lângă Roeser.",
+                  "text": "Zona naturală 'Um Bierg' din Roeser, un deal sau peisaj înălțat.",
                   "category": "natural",
                   "coords": [
                         6.119415,
@@ -10031,7 +10031,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Musée de Calèche",
-                  "text": "Muzeu dedicat trăsurilor istorice din Peppingen.",
+                  "text": "Muzeul de trăsuri 'Musée de Calèche' din Roeser, cu vehicule istorice trase de cai.",
                   "category": "museum",
                   "coords": [
                         6.127589,
@@ -10040,7 +10040,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "O biserică în cartierul Fentange.",
+                  "text": "Biserica Saint-Luc în satul Fenteng, Roeser.",
                   "category": "religious",
                   "coords": [
                         6.153098,
@@ -10049,7 +10049,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Donatuskierch",
-                  "text": "Biserica Donatus din Roeser.",
+                  "text": "Donatuskierch, biserica Donatus în satul Réiser, Roeser.",
                   "category": "religious",
                   "coords": [
                         6.145786,
@@ -10058,7 +10058,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "O biserică locală în comuna Roeser.",
+                  "text": "Biserica Saint-Mathias, dedicată Sfântului Matia în Roeser.",
                   "category": "religious",
                   "coords": [
                         6.137036,
@@ -10069,7 +10069,7 @@ imageHint: "Modern church tower in Mondercange",
       "en": [
             {
                   "name": "Musée Rural et Artisanal",
-                  "text": "Museum of rural life and crafts located in Peppingen.",
+                  "text": "The rural and craft museum in Roeser, showcasing traditional life.",
                   "category": "museum",
                   "coords": [
                         6.129926,
@@ -10078,7 +10078,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Um Bierg",
-                  "text": "A protected nature reserve near Roeser.",
+                  "text": "The natural area 'Um Bierg' in Roeser, a hill or elevated landscape.",
                   "category": "natural",
                   "coords": [
                         6.119415,
@@ -10087,7 +10087,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Musée de Calèche",
-                  "text": "Museum dedicated to historic carriages in Peppingen.",
+                  "text": "The carriage museum 'Musée de Calèche' in Roeser, with historic horse-drawn vehicles.",
                   "category": "museum",
                   "coords": [
                         6.127589,
@@ -10096,7 +10096,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Saint-Luc",
-                  "text": "A church located in the district of Fentange.",
+                  "text": "Saint-Luc Church in the village of Fenteng, Roeser.",
                   "category": "religious",
                   "coords": [
                         6.153098,
@@ -10105,7 +10105,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Donatuskierch",
-                  "text": "The Donatus church in Roeser.",
+                  "text": "Donatuskierch, Donatus Church in the village of Réiser, Roeser.",
                   "category": "religious",
                   "coords": [
                         6.145786,
@@ -10114,7 +10114,7 @@ imageHint: "Modern church tower in Mondercange",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "A local church in the municipality of Roeser.",
+                  "text": "Saint-Mathias church, dedicated to Saint Matthias in Roeser.",
                   "category": "religious",
                   "coords": [
                         6.137036,
@@ -10291,7 +10291,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Réserve Naturelle Leiffrächen",
-                  "text": "Ein Naturschutzgebiet nahe der Pilgerstätte Léiffrächen.",
+                  "text": "Das Naturschutzgebiet 'Leiffrächen' in Rumelange schützt einen einzigartigen Lebensraum.",
                   "category": "natural",
                   "coords": [
                         6.018685,
@@ -10300,7 +10300,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Monument National des Mineurs",
-                  "text": "Nationaldenkmal zu Ehren der Bergleute.",
+                  "text": "Nationales Bergarbeiterdenkmal, ein Denkmal für die Bergleute in Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.021202,
@@ -10309,7 +10309,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Locomotive Alsthom MFA 131 No 71",
-                  "text": "Eine historische Bergbaulokomotive als Denkmal.",
+                  "text": "Eine erhaltene Alsthom-Elektrolokomotive (MFA 131 Nr. 71) aus den 1950er Jahren, ausgestellt auf dem ehemaligen Minengelände in Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.012698,
@@ -10318,7 +10318,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Lockomotiv ARBED 15",
-                  "text": "Industriedenkmal einer historischen Lokomotive.",
+                  "text": "Eine erhaltene ARBED-15-Diesellokomotive auf dem Minengelände in Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.024507,
@@ -10327,7 +10327,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Polverhaischen",
-                  "text": "Ruinen eines ehemaligen Pulverhauses aus der Bergbauzeit.",
+                  "text": "Ein ehemaliges Pulvermagazin im Bergbaugebiet von Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.016446,
@@ -10336,7 +10336,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Église Saint-Willibrord",
-                  "text": "Die Hauptkirche von Rümelingen.",
+                  "text": "Kirche Saint-Willibrord, dem heiligen Willibrord geweiht in Rümelingen.",
                   "category": "religious",
                   "coords": [
                         6.01798,
@@ -10345,7 +10345,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Eine lokale Kultstätte in Rümelingen.",
+                  "text": "Kirche Saint-Sébastien, dem heiligen Sebastian geweiht in Rümelingen.",
                   "category": "religious",
                   "coords": [
                         6.029149,
@@ -10354,7 +10354,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Eine dem heiligen Josef geweihte Kirche.",
+                  "text": "Kirche Saint-Joseph, dem heiligen Josef geweiht in Rümelingen.",
                   "category": "religious",
                   "coords": [
                         6.041241,
@@ -10392,7 +10392,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Réserve Naturelle Leiffrächen",
-                  "text": "Természetvédelmi terület a Léiffrächen zarándokhely közelében.",
+                  "text": "A 'Leiffrächen' természetvédelmi terület Rumelange-ban, egy egyedi élőhely védelme.",
                   "category": "natural",
                   "coords": [
                         6.018685,
@@ -10401,7 +10401,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Monument National des Mineurs",
-                  "text": "A bányászok tiszteletére emelt nemzeti emlékmű.",
+                  "text": "Országos Bányász Emlékmű, a bányászoknak szentelt emlékmű Rumelange-ban.",
                   "category": "historical",
                   "coords": [
                         6.021202,
@@ -10410,7 +10410,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Locomotive Alsthom MFA 131 No 71",
-                  "text": "Egy történelmi bányamozdony, amely emlékműként szolgál.",
+                  "text": "Egy megőrzött Alsthom MFA 131 No 71 villamos mozdony az 1950-es évekből, kiállítva a rumelange-i egykori bánya területén.",
                   "category": "historical",
                   "coords": [
                         6.012698,
@@ -10419,7 +10419,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Lockomotiv ARBED 15",
-                  "text": "Egy történelmi mozdony ipari műemléke.",
+                  "text": "Egy megőrzött ARBED 15 dízelmozdony a rumelange-i bánya területén.",
                   "category": "historical",
                   "coords": [
                         6.024507,
@@ -10428,7 +10428,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Polverhaischen",
-                  "text": "Egy egykori lőporraktár romjai a bányászat idejéből.",
+                  "text": "Egykori puskaporraktár a rumelange-i bányászati területen.",
                   "category": "historical",
                   "coords": [
                         6.016446,
@@ -10437,7 +10437,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Église Saint-Willibrord",
-                  "text": "Rümelingen főtemploma.",
+                  "text": "Szent Willibrord-templom, Szent Willibrord tiszteletére szentelve Rumelange-ban.",
                   "category": "religious",
                   "coords": [
                         6.01798,
@@ -10446,7 +10446,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Helyi templom Rümelingenben.",
+                  "text": "Szent Sebestyén-templom, Szent Sebestyén tiszteletére szentelve Rumelange-ban.",
                   "category": "religious",
                   "coords": [
                         6.029149,
@@ -10455,7 +10455,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Szent Józsefnek szentelt templom.",
+                  "text": "Szent József-templom, Szent József tiszteletére szentelve Rumelange-ban.",
                   "category": "religious",
                   "coords": [
                         6.041241,
@@ -10493,7 +10493,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Réserve Naturelle Leiffrächen",
-                  "text": "O rezervație naturală lângă locul de pelerinaj Léiffrächen.",
+                  "text": "Rezervația naturală 'Leiffrächen' din Rumelange, care protejează un habitat unic.",
                   "category": "natural",
                   "coords": [
                         6.018685,
@@ -10502,7 +10502,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Monument National des Mineurs",
-                  "text": "Monument național ridicat în onoarea minerilor.",
+                  "text": "Monumentul Național al Minerilor, un monument dedicat minerilor în Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.021202,
@@ -10511,7 +10511,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Locomotive Alsthom MFA 131 No 71",
-                  "text": "O locomotivă minieră istorică expusă ca monument.",
+                  "text": "O locomotivă electrică Alsthom MFA 131 No 71, păstrată din anii 1950, expusă pe fosta mină din Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.012698,
@@ -10520,7 +10520,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Lockomotiv ARBED 15",
-                  "text": "Monument industrial al unei locomotive istorice.",
+                  "text": "O locomotivă diesel ARBED 15 păstrată pe fosta mină din Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.024507,
@@ -10529,7 +10529,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Polverhaischen",
-                  "text": "Ruinele unei foste magazii de pulbere din perioada minieră.",
+                  "text": "Un fost depozit de praf de pușcă în zona minieră din Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.016446,
@@ -10538,7 +10538,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Église Saint-Willibrord",
-                  "text": "Biserica principală din Rümelingen.",
+                  "text": "Biserica Saint-Willibrord, dedicată Sfântului Willibrord în Rumelange.",
                   "category": "religious",
                   "coords": [
                         6.01798,
@@ -10547,7 +10547,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "Un lăcaș de cult local în Rümelingen.",
+                  "text": "Biserica Saint-Sébastien, dedicată Sfântului Sebastian în Rumelange.",
                   "category": "religious",
                   "coords": [
                         6.029149,
@@ -10556,7 +10556,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "O biserică dedicată Sfântului Iosif.",
+                  "text": "Biserica Saint-Joseph, dedicată Sfântului Iosif în Rumelange.",
                   "category": "religious",
                   "coords": [
                         6.041241,
@@ -10594,7 +10594,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Réserve Naturelle Leiffrächen",
-                  "text": "A nature reserve near the Léiffrächen pilgrimage site.",
+                  "text": "The nature reserve 'Leiffrächen' in Rumelange, protecting a unique habitat.",
                   "category": "natural",
                   "coords": [
                         6.018685,
@@ -10603,7 +10603,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Monument National des Mineurs",
-                  "text": "A national monument dedicated to the honor of miners.",
+                  "text": "Monument National des Mineurs, a national monument dedicated to miners in Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.021202,
@@ -10612,7 +10612,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Locomotive Alsthom MFA 131 No 71",
-                  "text": "A historic mining locomotive displayed as a monument.",
+                  "text": "A preserved Alsthom MFA 131 No 71 electric locomotive from the 1950s, displayed at the former mining site in Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.012698,
@@ -10621,7 +10621,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Lockomotiv ARBED 15",
-                  "text": "An industrial monument of a historic locomotive.",
+                  "text": "A preserved ARBED 15 diesel locomotive at the mining heritage site in Rumelange.",
                   "category": "historical",
                   "coords": [
                         6.024507,
@@ -10630,7 +10630,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Polverhaischen",
-                  "text": "Ruins of a former powder house from the mining era.",
+                  "text": "A former gunpowder magazine in the Rumelange mining area.",
                   "category": "historical",
                   "coords": [
                         6.016446,
@@ -10639,7 +10639,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Église Saint-Willibrord",
-                  "text": "The main parish church of Rumelange.",
+                  "text": "Église Saint-Willibrord, dedicated to Saint Willibrord in Rumelange.",
                   "category": "religious",
                   "coords": [
                         6.01798,
@@ -10648,7 +10648,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Saint-Sébastien",
-                  "text": "A local place of worship in Rumelange.",
+                  "text": "Saint-Sébastien church, dedicated to Saint Sebastian in Rumelange.",
                   "category": "religious",
                   "coords": [
                         6.029149,
@@ -10657,7 +10657,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "A church dedicated to Saint Joseph.",
+                  "text": "Saint-Joseph church, dedicated to Saint Joseph in Rumelange.",
                   "category": "religious",
                   "coords": [
                         6.041241,
@@ -10770,7 +10770,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Le Grund",
-                  "text": "Le Grund ist ein Naturschutzgebiet in Mondorf-les-Bains.",
+                  "text": "Ein bewaldetes Tal im Thermalpark von Mondorf-les-Bains.",
                   "category": "natural",
                   "coords": [
                         6.241841,
@@ -10779,7 +10779,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Vallon de Halling",
-                  "text": "Vallon de Halling ist ein Naturschutzgebiet in Mondorf-les-Bains.",
+                  "text": "Ein kleines Tal (Vallon de Halling) in der Nähe des Kurparks von Mondorf-les-Bains.",
                   "category": "natural",
                   "coords": [
                         6.243583,
@@ -10788,7 +10788,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Musée de l'aviation",
-                  "text": "Das Musée de l'aviation ist ein Museum in Mondorf-les-Bains.",
+                  "text": "Ein Luftfahrtmuseum in einer ehemaligen Flugzeughalle in Mondorf-les-Bains.",
                   "category": "museum",
                   "coords": [
                         6.282444,
@@ -10797,7 +10797,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "La Burg (1653)",
-                  "text": "La Burg (1653) ist ein historisches Schloss in Mondorf-les-Bains.",
+                  "text": "Ein Schloss aus dem Jahr 1653, heute Restaurant und Veranstaltungsort in Mondorf-les-Bains.",
                   "category": "castle",
                   "coords": [
                         6.259775,
@@ -10806,7 +10806,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Kuebendaellchen",
-                  "text": "Kuebendaellchen ist ein Naturschutzgebiet in Mondorf-les-Bains.",
+                  "text": "Ein kleines Tal mit einem Bach im Thermalgebiet von Mondorf-les-Bains.",
                   "category": "natural",
                   "coords": [
                         6.339745,
@@ -10815,7 +10815,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Art et Création a.s.b.l.",
-                  "text": "Art et Création a.s.b.l. ist ein Kunstzentrum in Mondorf-les-Bains.",
+                  "text": "Ein Kunst- und Kreativverein mit Workshops und Ausstellungen in Mondorf-les-Bains.",
                   "category": "cultural",
                   "coords": [
                         6.298346,
@@ -10824,7 +10824,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Saint-Jean-Baptiste ist eine Kirche in der Ortschaft Elvange, die zu Mondorf-les-Bains gehört.",
+                  "text": "Saint-Jean-Baptiste-Kirche im Dorf Elveng, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.315794,
@@ -10833,7 +10833,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Bäerbelekierch",
-                  "text": "Die Bäerbelekierch ist eine Kirche im Ortsteil Burmerange von Mondorf-les-Bains.",
+                  "text": "Bäerbelekierch, eine Kirche im Dorf Biermereng, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.321546,
@@ -10842,7 +10842,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Saint-Michel",
-                  "text": "Saint-Michel ist eine religiöse Stätte in Mondorf-les-Bains.",
+                  "text": "Kirche Saint-Michel, dem Erzengel Michael geweiht in Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.270577,
@@ -10851,7 +10851,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Benediktskierch",
-                  "text": "Die Benediktskierch ist eine Kirche im Ortsteil Altwies von Mondorf-les-Bains.",
+                  "text": "Benediktskierch, eine Kirche im Dorf Altwis, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.257253,
@@ -10860,7 +10860,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle d'Altwiese",
-                  "text": "Die Chapelle d'Altwiese ist ein lokales Gotteshaus in Mondorf-les-Bains.",
+                  "text": "Kapelle d'Altwiese, eine kleine Kapelle in Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.256753,
@@ -10869,7 +10869,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Saint-Sauveur",
-                  "text": "Die Chapelle Saint-Sauveur ist eine historische Kapelle auf der Anhöhe Kaaschtel in Mondorf-les-Bains.",
+                  "text": "Saint-Sauveur-Kapelle, eine Kapelle im Dorf Kaaschtel, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.260903,
@@ -10878,7 +10878,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Église Saint-Rémi",
-                  "text": "Die Église Saint-Rémi ist ein religiöser Andachtsort in Mondorf-les-Bains.",
+                  "text": "Kirche Saint-Rémi, dem heiligen Remigius geweiht in Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.267508,
@@ -10887,7 +10887,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Saint-Quirin",
-                  "text": "Die Chapelle Saint-Quirin ist ein Andachtsort in der Stadt Mondorf-les-Bains.",
+                  "text": "Kapelle Saint-Quirin, dem heiligen Quirinus geweiht in Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.240365,
@@ -10905,7 +10905,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Notre-Dame Consolatrice des Affligés",
-                  "text": "Die Chapelle Notre-Dame Consolatrice des Affligés ist ein Andachtsort in Mondorf-les-Bains, bekannt als die Kapelle von Éimereng.",
+                  "text": "Kapelle Unserer Lieben Frau, Trösterin der Betrübten, aus dem 18. Jahrhundert in Emeringen.",
                   "category": "religious",
                   "coords": [
                         6.290448,
@@ -10914,7 +10914,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Viaduc d'Altwies",
-                  "text": "Das Viaduc d'Altwies ist eine als Brücke dienende Struktur in Mondorf-les-Bains.",
+                  "text": "Viaduc d'Altwies, ein Eisenbahnviadukt über das Tal bei Altwis, Mondorf Les Bains.",
                   "category": "landmark",
                   "coords": [
                         6.240838,
@@ -10934,7 +10934,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Le Grund",
-                  "text": "A Le Grund egy természetvédelmi terület Mondorf-les-Bains városában.",
+                  "text": "Egy erdős völgy a mondorf-les-bains-i termálparkban.",
                   "category": "natural",
                   "coords": [
                         6.241841,
@@ -10943,7 +10943,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Vallon de Halling",
-                  "text": "A Vallon de Halling egy természetvédelmi terület Mondorf-les-Bains-ben.",
+                  "text": "Egy kis völgy (Vallon de Halling) a mondorf-les-bains-i gyógyfürdőpark közelében.",
                   "category": "natural",
                   "coords": [
                         6.243583,
@@ -10952,7 +10952,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Musée de l'aviation",
-                  "text": "A Musée de l'aviation egy múzeum Mondorf-les-Bains-ben.",
+                  "text": "Repülési múzeum egykori hangárban Mondorf-les-Bains-ban.",
                   "category": "museum",
                   "coords": [
                         6.282444,
@@ -10961,7 +10961,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "La Burg (1653)",
-                  "text": "A La Burg (1653) egy kastély Mondorf-les-Bains városában.",
+                  "text": "Egy 1653-ban épült kastély, ma étterem és rendezvényhelyszín Mondorf-les-Bains-ban.",
                   "category": "castle",
                   "coords": [
                         6.259775,
@@ -10970,7 +10970,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Kuebendaellchen",
-                  "text": "A Kuebendaellchen egy természetvédelmi terület Mondorf-les-Bains-ben.",
+                  "text": "Egy kis völgy patakkal a mondorf-les-bains-i termálterületen.",
                   "category": "natural",
                   "coords": [
                         6.339745,
@@ -10979,7 +10979,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Art et Création a.s.b.l.",
-                  "text": "Az Art et Création a.s.b.l. egy művészeti központ Mondorf-les-Bains-ben.",
+                  "text": "Művészeti és alkotói egyesület workshopokkal és kiállításokkal Mondorf-les-Bains-ban.",
                   "category": "cultural",
                   "coords": [
                         6.298346,
@@ -10988,7 +10988,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "A Saint-Jean-Baptiste egy templom Mondorf-les-Bains Elvange nevű településrészén.",
+                  "text": "Keresztelő Szent János-templom Elveng faluban, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.315794,
@@ -10997,7 +10997,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Bäerbelekierch",
-                  "text": "A Bäerbelekierch egy templom Mondorf-les-Bains Burmerange nevű részén.",
+                  "text": "Bäerbelekierch, egy templom Biermereng faluban, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.321546,
@@ -11006,7 +11006,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Saint-Michel",
-                  "text": "A Saint-Michel egy vallási helyszín Mondorf-les-Bains városában.",
+                  "text": "Szent Mihály-templom, Szent Mihály arkangyal tiszteletére szentelve Mondorf-les-Bains-ben.",
                   "category": "religious",
                   "coords": [
                         6.270577,
@@ -11015,7 +11015,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Benediktskierch",
-                  "text": "A Benediktskierch egy templom Mondorf-les-Bains Altwies nevű részén.",
+                  "text": "Benedikt-templom Altwis faluban, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.257253,
@@ -11024,7 +11024,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle d'Altwiese",
-                  "text": "A Chapelle d'Altwiese egy helyi istentiszteleti hely Mondorf-les-Bains-ben.",
+                  "text": "Altwiese-kápolna, egy kis kápolna Mondorf-les-Bains-ben.",
                   "category": "religious",
                   "coords": [
                         6.256753,
@@ -11033,7 +11033,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Saint-Sauveur",
-                  "text": "A Chapelle Saint-Sauveur egy kápolna a Kaaschtel dombon Mondorf-les-Bains-ben.",
+                  "text": "Szent Üdvözítő-kápolna Kaaschtel faluban, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.260903,
@@ -11042,7 +11042,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Église Saint-Rémi",
-                  "text": "Az Église Saint-Rémi egy vallási imahely Mondorf-les-Bains városában.",
+                  "text": "Szent Remigius-templom, Szent Remigius tiszteletére szentelve Mondorf-les-Bains-ben.",
                   "category": "religious",
                   "coords": [
                         6.267508,
@@ -11051,7 +11051,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Saint-Quirin",
-                  "text": "A Chapelle Saint-Quirin egy vallási épület Mondorf-les-Bains területén.",
+                  "text": "Szent Quirinus-kápolna, Szent Quirinus tiszteletére szentelve Mondorf-les-Bains-ben.",
                   "category": "religious",
                   "coords": [
                         6.240365,
@@ -11069,7 +11069,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Notre-Dame Consolatrice des Affligés",
-                  "text": "A Chapelle Notre-Dame Consolatrice des Affligés egy imahely Mondorf-les-Bains területén, amely Éimereng kápolnájaként ismert.",
+                  "text": "18. századi kápolna, a Szomorúak Vigasztalója tiszteletére, Emeringenben.",
                   "category": "religious",
                   "coords": [
                         6.290448,
@@ -11078,7 +11078,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Viaduc d'Altwies",
-                  "text": "A Viaduc d'Altwies egy szerkezeti híd Mondorf-les-Bains területén.",
+                  "text": "Altwies-i viadukt, egy vasúti viadukt a völgy fölött Altwis közelében, Mondorf Les Bains.",
                   "category": "landmark",
                   "coords": [
                         6.240838,
@@ -11098,7 +11098,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Le Grund",
-                  "text": "Le Grund este o rezervație naturală în Mondorf-les-Bains.",
+                  "text": "O vale împădurită în parcul termal din Mondorf-les-Bains.",
                   "category": "natural",
                   "coords": [
                         6.241841,
@@ -11107,7 +11107,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Vallon de Halling",
-                  "text": "Vallon de Halling este o rezervație naturală situată în Mondorf-les-Bains.",
+                  "text": "O vale mică (Vallon de Halling) lângă parcul balnear din Mondorf-les-Bains.",
                   "category": "natural",
                   "coords": [
                         6.243583,
@@ -11116,7 +11116,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Musée de l'aviation",
-                  "text": "Musée de l'aviation este un muzeu localizat în Mondorf-les-Bains.",
+                  "text": "Un muzeu al aviației găzduit într-un fost hangar în Mondorf-les-Bains.",
                   "category": "museum",
                   "coords": [
                         6.282444,
@@ -11125,7 +11125,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "La Burg (1653)",
-                  "text": "La Burg (1653) este un castel din Mondorf-les-Bains.",
+                  "text": "Un castel construit în 1653, acum restaurant și loc de evenimente în Mondorf-les-Bains.",
                   "category": "castle",
                   "coords": [
                         6.259775,
@@ -11134,7 +11134,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Kuebendaellchen",
-                  "text": "Kuebendaellchen este o rezervație naturală din Mondorf-les-Bains.",
+                  "text": "O vale mică cu un pârâu în zona termală din Mondorf-les-Bains.",
                   "category": "natural",
                   "coords": [
                         6.339745,
@@ -11143,7 +11143,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Art et Création a.s.b.l.",
-                  "text": "Art et Création a.s.b.l. este un centru de artă din Mondorf-les-Bains.",
+                  "text": "O asociație de artă și creație care oferă ateliere și expoziții în Mondorf-les-Bains.",
                   "category": "cultural",
                   "coords": [
                         6.298346,
@@ -11152,7 +11152,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Saint-Jean-Baptiste este o biserică din satul Elvange, aparținând de Mondorf-les-Bains.",
+                  "text": "Biserica Saint-Jean-Baptiste în satul Elveng, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.315794,
@@ -11161,7 +11161,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Bäerbelekierch",
-                  "text": "Bäerbelekierch este o biserică situată în localitatea Burmerange din Mondorf-les-Bains.",
+                  "text": "Bäerbelekierch, o biserică în satul Biermereng, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.321546,
@@ -11170,7 +11170,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Saint-Michel",
-                  "text": "Saint-Michel este un lăcaș de cult din Mondorf-les-Bains.",
+                  "text": "Biserica Saint-Michel, dedicată Arhanghelului Mihail în Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.270577,
@@ -11179,7 +11179,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Benediktskierch",
-                  "text": "Benediktskierch este o biserică din zona Altwies a orașului Mondorf-les-Bains.",
+                  "text": "Benediktskierch, o biserică în satul Altwis, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.257253,
@@ -11188,7 +11188,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle d'Altwiese",
-                  "text": "Chapelle d'Altwiese este un lăcaș de cult local din Mondorf-les-Bains.",
+                  "text": "Capela d'Altwiese, o capelă mică în Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.256753,
@@ -11197,7 +11197,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Saint-Sauveur",
-                  "text": "Chapelle Saint-Sauveur este o capelă situată pe dealul Kaaschtel din Mondorf-les-Bains.",
+                  "text": "Capela Saint-Sauveur, o capelă în satul Kaaschtel, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.260903,
@@ -11206,7 +11206,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Église Saint-Rémi",
-                  "text": "Église Saint-Rémi este un lăcaș de cult situat în Mondorf-les-Bains.",
+                  "text": "Biserica Saint-Rémi, dedicată Sfântului Remigiu în Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.267508,
@@ -11215,7 +11215,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Saint-Quirin",
-                  "text": "Chapelle Saint-Quirin este un loc de cult situat în Mondorf-les-Bains.",
+                  "text": "Capela Saint-Quirin, dedicată Sfântului Quirin în Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.240365,
@@ -11233,7 +11233,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Notre-Dame Consolatrice des Affligés",
-                  "text": "Chapelle Notre-Dame Consolatrice des Affligés este un lăcaș de cult din Mondorf-les-Bains, remarcabil fiind drept capela din Éimereng.",
+                  "text": "Capelă din secolul al XVIII-lea dedicată Maicii Domnului Mângâietoarea celor întristați, în Emeringen.",
                   "category": "religious",
                   "coords": [
                         6.290448,
@@ -11242,7 +11242,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Viaduc d'Altwies",
-                  "text": "Viaduc d'Altwies este o structură de pod situată în Mondorf-les-Bains.",
+                  "text": "Viaductul Altwies, un viaduct feroviar peste vale lângă Altwis, Mondorf Les Bains.",
                   "category": "landmark",
                   "coords": [
                         6.240838,
@@ -11262,7 +11262,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Le Grund",
-                  "text": "Le Grund is a nature reserve located in Mondorf-les-Bains.",
+                  "text": "A wooded valley within the Mondorf-les-Bains thermal park.",
                   "category": "natural",
                   "coords": [
                         6.241841,
@@ -11271,7 +11271,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Vallon de Halling",
-                  "text": "Vallon de Halling is a nature reserve situated in Mondorf-les-Bains.",
+                  "text": "A small valley (Vallon de Halling) near the spa park in Mondorf-les-Bains.",
                   "category": "natural",
                   "coords": [
                         6.243583,
@@ -11280,7 +11280,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Musée de l'aviation",
-                  "text": "Musée de l'aviation is a museum situated in Mondorf-les-Bains.",
+                  "text": "An aviation museum housed in a former hangar in Mondorf-les-Bains.",
                   "category": "museum",
                   "coords": [
                         6.282444,
@@ -11289,7 +11289,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "La Burg (1653)",
-                  "text": "La Burg (1653) is a castle located in Mondorf-les-Bains.",
+                  "text": "A castle built in 1653, now a restaurant and event venue in Mondorf-les-Bains.",
                   "category": "castle",
                   "coords": [
                         6.259775,
@@ -11298,7 +11298,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Kuebendaellchen",
-                  "text": "Kuebendaellchen is a nature reserve in Mondorf-les-Bains.",
+                  "text": "A small valley with a stream in the Mondorf thermal area.",
                   "category": "natural",
                   "coords": [
                         6.339745,
@@ -11307,7 +11307,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Art et Création a.s.b.l.",
-                  "text": "Art et Création a.s.b.l. is an arts centre in Mondorf-les-Bains.",
+                  "text": "An art and creation association offering workshops and exhibitions in Mondorf-les-Bains.",
                   "category": "cultural",
                   "coords": [
                         6.298346,
@@ -11316,7 +11316,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Saint-Jean-Baptiste is a church located in the village of Elvange in Mondorf-les-Bains.",
+                  "text": "Saint-Jean-Baptiste Church in the village of Elveng, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.315794,
@@ -11325,7 +11325,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Bäerbelekierch",
-                  "text": "Bäerbelekierch is a church situated in the Burmerange area of Mondorf-les-Bains.",
+                  "text": "Bäerbelekierch, a church in the village of Biermereng, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.321546,
@@ -11334,7 +11334,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Saint-Michel",
-                  "text": "Saint-Michel is a place of worship in Mondorf-les-Bains.",
+                  "text": "Saint-Michel church, dedicated to the Archangel Michael in Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.270577,
@@ -11343,7 +11343,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Benediktskierch",
-                  "text": "Benediktskierch is a church located in the Altwies district of Mondorf-les-Bains.",
+                  "text": "Benediktskierch, a church in the village of Altwis, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.257253,
@@ -11352,7 +11352,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle d'Altwiese",
-                  "text": "Chapelle d'Altwiese is a local place of worship in Mondorf-les-Bains.",
+                  "text": "Chapelle d'Altwiese, a small chapel in Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.256753,
@@ -11361,7 +11361,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Saint-Sauveur",
-                  "text": "Chapelle Saint-Sauveur is a chapel located on the Kaaschtel site in Mondorf-les-Bains.",
+                  "text": "Chapelle Saint-Sauveur, a chapel in the village of Kaaschtel, Mondorf Les Bains.",
                   "category": "religious",
                   "coords": [
                         6.260903,
@@ -11370,7 +11370,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Église Saint-Rémi",
-                  "text": "Église Saint-Rémi is a religious place of worship located in Mondorf-les-Bains.",
+                  "text": "Église Saint-Rémi, dedicated to Saint Remigius in Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.267508,
@@ -11379,7 +11379,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Saint-Quirin",
-                  "text": "Chapelle Saint-Quirin is a place of worship situated in the city of Mondorf-les-Bains.",
+                  "text": "Chapelle Saint-Quirin, dedicated to Saint Quirin in Mondorf-les-Bains.",
                   "category": "religious",
                   "coords": [
                         6.240365,
@@ -11397,7 +11397,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Chapelle Notre-Dame Consolatrice des Affligés",
-                  "text": "Chapelle Notre-Dame Consolatrice des Affligés is a place of worship in Mondorf-les-Bains, notable as the chapel of Éimereng.",
+                  "text": "18th-century chapel of Our Lady, Consoler of the Afflicted, in Emeringen.",
                   "category": "religious",
                   "coords": [
                         6.290448,
@@ -11406,7 +11406,7 @@ imageHint: "Historic villa in Steinfort near the border",
             },
             {
                   "name": "Viaduc d'Altwies",
-                  "text": "The Viaduc d'Altwies is a structural bridge located in Mondorf-les-Bains.",
+                  "text": "Viaduc d'Altwies, a railway viaduct spanning the valley near Altwis, Mondorf Les Bains.",
                   "category": "landmark",
                   "coords": [
                         6.240838,
@@ -11464,7 +11464,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "de": [
             {
                   "name": "Groesteen",
-                  "text": "Der Groesteen ist eine bedeutende archäologische Stätte bei Grevenmacher.",
+                  "text": "Groesteen, ein historischer Steinmonolith in Grevenmacher.",
                   "category": "historical",
                   "coords": [
                         6.429797,
@@ -11473,7 +11473,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Langheck bei Nittel",
-                  "text": "Das Naturschutzgebiet Langheck bei Nittel liegt nahe Grevenmacher.",
+                  "text": "Ein Waldgebiet nahe Nittel an der deutschen Grenze mit Blick auf das Moseltal.",
                   "category": "natural",
                   "coords": [
                         6.457932,
@@ -11482,7 +11482,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Jardin des Papillons",
-                  "text": "Der Jardin des Papillons ist ein bekanntes Schmetterlingshaus in Grevenmacher.",
+                  "text": "Jardin des Papillons, ein tropischer Schmetterlingsgarten in Grevenmacher.",
                   "category": "family",
                   "coords": [
                         6.449731,
@@ -11491,7 +11491,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Nitteler Fels",
-                  "text": "Das Naturschutzgebiet Nitteler Fels liegt bei Grevenmacher.",
+                  "text": "Eine markante Sandsteinfelsformation über der Mosel nahe Grevenmacher.",
                   "category": "natural",
                   "coords": [
                         6.446753,
@@ -11500,7 +11500,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Römisches Grabmal",
-                  "text": "Das Römische Grabmal bei Grevenmacher ist eine archäologische Stätte.",
+                  "text": "Ein römisches Grabmonument in Grevenmacher entlang der Mosel.",
                   "category": "historical",
                   "coords": [
                         6.392081,
@@ -11509,7 +11509,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Outdoor swimming pool",
-                  "text": "Das Freibad in Grevenmacher bietet Erholung im Wasser.",
+                  "text": "Die Dekanatskirche St. Laurentius in Grevenmacher, ein gotischer Bau.",
                   "category": "family",
                   "coords": [
                         6.449931,
@@ -11527,7 +11527,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Center culturel Machera",
-                  "text": "Das Center culturel Machera ist ein Kulturzentrum in Grevenmacher.",
+                  "text": "Ein Kulturzentrum mit Konzerten und Veranstaltungen im Stadtteil Machera von Grevenmacher.",
                   "category": "cultural",
                   "coords": [
                         6.446224,
@@ -11536,7 +11536,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Brice",
-                  "text": "Die Kirche Saint-Brice befindet sich in der Umgebung von Grevenmacher.",
+                  "text": "Saint-Brice-Kirche im Dorf Manternach, Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.424044,
@@ -11545,7 +11545,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Laurentiuskirche",
-                  "text": "Die Dekanatskirche Saint-Laurent ist ein Gotteshaus in Grevenmacher.",
+                  "text": "Dekanatskirche Saint-Laurent, dem heiligen Laurentius geweiht in Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.441788,
@@ -11554,7 +11554,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Immaculée-Conception",
-                  "text": "Die Immaculée-Conception ist eine Kirche in Grevenmacher.",
+                  "text": "Kirche Immaculée-Conception, der Unbefleckten Empfängnis geweiht in Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.480899,
@@ -11563,7 +11563,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Chapelle Saint-Jacques-le-Majeur",
-                  "text": "Die Kapelle Saint-Jacques-le-Majeur ist ein historisches Gotteshaus bei Grevenmacher.",
+                  "text": "Saint-Jacques-le-Majeur-Kapelle, eine Kapelle im Dorf Mënjecker, Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.441569,
@@ -11572,7 +11572,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Viaduc de la Syre",
-                  "text": "Der Viaduc de la Syre ist eine markante Brücke bei Grevenmacher.",
+                  "text": "Viaduc de la Syre, ein Steinviadukt über die Syre bei Grevenmacher.",
                   "category": "landmark",
                   "coords": [
                         6.471065,
@@ -11581,7 +11581,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Die Kirche Saint-Joseph befindet sich in Grevenmacher.",
+                  "text": "Kirche Saint-Joseph, dem heiligen Josef geweiht in Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.436163,
@@ -11590,7 +11590,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Machera",
-                  "text": "Die Machera ist ein Schiff, das in Grevenmacher stationiert ist.",
+                  "text": "Der historische Stadtteil Machera in Grevenmacher mit alten Häusern.",
                   "category": "landmark",
                   "coords": [
                         6.438035,
@@ -11601,7 +11601,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "hu": [
             {
                   "name": "Groesteen",
-                  "text": "A Groesteen egy jelentős régészeti lelőhely Grevenmacher közelében.",
+                  "text": "Groesteen, egy történelmi kő monolit Grevenmacherben.",
                   "category": "historical",
                   "coords": [
                         6.429797,
@@ -11610,7 +11610,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Langheck bei Nittel",
-                  "text": "A Langheck bei Nittel egy természetvédelmi terület Grevenmacher közelében.",
+                  "text": "Erdős terület Nittel közelében a német határon, a Mosel-völgyre néző kilátással.",
                   "category": "natural",
                   "coords": [
                         6.457932,
@@ -11619,7 +11619,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Jardin des Papillons",
-                  "text": "A Jardin des Papillons egy ismert pillangókert Grevenmacherben.",
+                  "text": "Papillonkert, egy trópusi lepkekert Grevenmacherben.",
                   "category": "family",
                   "coords": [
                         6.449731,
@@ -11628,7 +11628,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Nitteler Fels",
-                  "text": "A Nitteler Fels természetvédelmi terület Grevenmacher mellett található.",
+                  "text": "Egy jellegzetes homokkő sziklaformáció a Mosel fölött Grevenmacher közelében.",
                   "category": "natural",
                   "coords": [
                         6.446753,
@@ -11637,7 +11637,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Römisches Grabmal",
-                  "text": "A grevenmacheri római síremlék egy régészeti lelőhely.",
+                  "text": "Római síremlék Grevenmacherben a Mosel mentén.",
                   "category": "historical",
                   "coords": [
                         6.392081,
@@ -11664,7 +11664,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Center culturel Machera",
-                  "text": "A Center culturel Machera egy kulturális központ Grevenmacherben.",
+                  "text": "Kulturális központ koncertekkel és rendezvényekkel a grevenmacheri Machera negyedben.",
                   "category": "cultural",
                   "coords": [
                         6.446224,
@@ -11673,7 +11673,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Brice",
-                  "text": "A Saint-Brice templom Grevenmacher környékén található.",
+                  "text": "Szent Brice-templom Manternach faluban, Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.424044,
@@ -11682,7 +11682,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Église décanale Saint-Laurent",
-                  "text": "A Saint-Laurent dékáni templom egy templom Grevenmacherben.",
+                  "text": "Szent Lőrinc esperesi templom, Szent Lőrinc tiszteletére szentelve Grevenmacherben.",
                   "category": "religious",
                   "coords": [
                         6.441788,
@@ -11691,7 +11691,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Immaculée-Conception",
-                  "text": "Az Immaculée-Conception egy templom Grevenmacherben.",
+                  "text": "Szeplőtelen Fogantatás templom, a Szeplőtelen Fogantatás tiszteletére szentelve Grevenmacherben.",
                   "category": "religious",
                   "coords": [
                         6.480899,
@@ -11700,7 +11700,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Chapelle Saint-Jacques-le-Majeur",
-                  "text": "A Saint-Jacques-le-Majeur kápolna egy történelmi templom Grevenmacher mellett.",
+                  "text": "Szent Jakab-kápolna Mënjecker faluban, Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.441569,
@@ -11709,7 +11709,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Viaduc de la Syre",
-                  "text": "A Viaduc de la Syre egy jellegzetes híd Grevenmacher közelében.",
+                  "text": "Syre-i viadukt, egy kőviadukt a Syre folyó fölött Grevenmacher közelében.",
                   "category": "landmark",
                   "coords": [
                         6.471065,
@@ -11718,7 +11718,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "A Saint-Joseph templom Grevenmacherben található.",
+                  "text": "Szent József-templom, Szent József tiszteletére szentelve Grevenmacherben.",
                   "category": "religious",
                   "coords": [
                         6.436163,
@@ -11727,7 +11727,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Machera",
-                  "text": "A Machera egy Grevenmacherben állomásozó hajó.",
+                  "text": "A grevenmacheri Machera történelmi negyed régi házakkal.",
                   "category": "landmark",
                   "coords": [
                         6.438035,
@@ -11738,7 +11738,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "ro": [
             {
                   "name": "Groesteen",
-                  "text": "Groesteen este un sit arheologic important lângă Grevenmacher.",
+                  "text": "Groesteen, un monolit de piatră istoric în Grevenmacher.",
                   "category": "historical",
                   "coords": [
                         6.429797,
@@ -11747,7 +11747,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Langheck bei Nittel",
-                  "text": "Rezervația naturală Langheck bei Nittel se află lângă Grevenmacher.",
+                  "text": "O zonă împădurită lângă Nittel la granița germană, cu vedere spre valea Mosellei.",
                   "category": "natural",
                   "coords": [
                         6.457932,
@@ -11756,7 +11756,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Jardin des Papillons",
-                  "text": "Jardin des Papillons este o grădină de fluturi cunoscută în Grevenmacher.",
+                  "text": "Jardin des Papillons, o grădină tropicală cu fluturi în Grevenmacher.",
                   "category": "family",
                   "coords": [
                         6.449731,
@@ -11765,7 +11765,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Nitteler Fels",
-                  "text": "Rezervația naturală Nitteler Fels se află lângă Grevenmacher.",
+                  "text": "O formațiune stâncoasă de gresie deasupra Mosellei lângă Grevenmacher.",
                   "category": "natural",
                   "coords": [
                         6.446753,
@@ -11774,7 +11774,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Römisches Grabmal",
-                  "text": "Monumentul funerar roman din Grevenmacher este un sit arheologic.",
+                  "text": "Un monument funerar roman în Grevenmacher, de-a lungul Mosellei.",
                   "category": "historical",
                   "coords": [
                         6.392081,
@@ -11801,7 +11801,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Center culturel Machera",
-                  "text": "Center culturel Machera este un centru cultural în Grevenmacher.",
+                  "text": "Un centru cultural cu concerte și evenimente în cartierul Machera din Grevenmacher.",
                   "category": "cultural",
                   "coords": [
                         6.446224,
@@ -11810,7 +11810,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Brice",
-                  "text": "Biserica Saint-Brice se află în apropierea orașului Grevenmacher.",
+                  "text": "Biserica Saint-Brice în satul Manternach, Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.424044,
@@ -11819,7 +11819,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Église décanale Saint-Laurent",
-                  "text": "Biserica decanală Saint-Laurent este un lăcaș de cult în Grevenmacher.",
+                  "text": "Biserica decanală Saint-Laurent, dedicată Sfântului Laurențiu în Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.441788,
@@ -11828,7 +11828,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Immaculée-Conception",
-                  "text": "Immaculée-Conception este o biserică din Grevenmacher.",
+                  "text": "Biserica Imaculata Concepție, dedicată Neprihănitei Zămisliri în Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.480899,
@@ -11837,7 +11837,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Chapelle Saint-Jacques-le-Majeur",
-                  "text": "Capela Saint-Jacques-le-Majeur este un lăcaș de cult istoric lângă Grevenmacher.",
+                  "text": "Capela Saint-Jacques-le-Majeur, o capelă în satul Mënjecker, Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.441569,
@@ -11846,7 +11846,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Viaduc de la Syre",
-                  "text": "Viaduc de la Syre este un pod remarcabil lângă Grevenmacher.",
+                  "text": "Viaductul Syre, un viaduct de piatră peste râul Syre lângă Grevenmacher.",
                   "category": "landmark",
                   "coords": [
                         6.471065,
@@ -11855,7 +11855,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Biserica Saint-Joseph se află în Grevenmacher.",
+                  "text": "Biserica Saint-Joseph, dedicată Sfântului Iosif în Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.436163,
@@ -11864,7 +11864,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Machera",
-                  "text": "Machera este o navă staționată în Grevenmacher.",
+                  "text": "Cartierul istoric Machera din Grevenmacher, cu case vechi.",
                   "category": "landmark",
                   "coords": [
                         6.438035,
@@ -11875,7 +11875,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "en": [
             {
                   "name": "Groesteen",
-                  "text": "The Groesteen is a significant archaeological site near Grevenmacher.",
+                  "text": "Groesteen, a historic stone monolith in Grevenmacher.",
                   "category": "historical",
                   "coords": [
                         6.429797,
@@ -11884,7 +11884,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Langheck bei Nittel",
-                  "text": "Langheck bei Nittel is a nature reserve near Grevenmacher.",
+                  "text": "A forested area near Nittel on the German border, overlooking the Moselle valley.",
                   "category": "natural",
                   "coords": [
                         6.457932,
@@ -11893,7 +11893,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Jardin des Papillons",
-                  "text": "Jardin des Papillons is a well-known butterfly garden in Grevenmacher.",
+                  "text": "Jardin des Papillons, a tropical butterfly garden in Grevenmacher.",
                   "category": "family",
                   "coords": [
                         6.449731,
@@ -11902,7 +11902,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Nitteler Fels",
-                  "text": "Nitteler Fels is a nature reserve near Grevenmacher.",
+                  "text": "A prominent sandstone rock formation above the Moselle near Grevenmacher.",
                   "category": "natural",
                   "coords": [
                         6.446753,
@@ -11911,7 +11911,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Römisches Grabmal",
-                  "text": "The Roman tomb in Grevenmacher is an archaeological site.",
+                  "text": "A Roman tomb monument in Grevenmacher along the Moselle.",
                   "category": "historical",
                   "coords": [
                         6.392081,
@@ -11938,7 +11938,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Center culturel Machera",
-                  "text": "Center culturel Machera is a cultural centre in Grevenmacher.",
+                  "text": "A cultural center hosting concerts and events in the Machera district of Grevenmacher.",
                   "category": "cultural",
                   "coords": [
                         6.446224,
@@ -11947,7 +11947,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Brice",
-                  "text": "Saint-Brice church is located near Grevenmacher.",
+                  "text": "Saint-Brice Church in the village of Manternach, Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.424044,
@@ -11956,7 +11956,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Église décanale Saint-Laurent",
-                  "text": "The Saint-Laurent deanery church is a place of worship in Grevenmacher.",
+                  "text": "Église décanale Saint-Laurent, a deanery church dedicated to Saint Lawrence in Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.441788,
@@ -11965,7 +11965,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Immaculée-Conception",
-                  "text": "Immaculée-Conception is a church in Grevenmacher.",
+                  "text": "Immaculée-Conception church, dedicated to the Immaculate Conception in Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.480899,
@@ -11974,7 +11974,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Chapelle Saint-Jacques-le-Majeur",
-                  "text": "Saint-Jacques-le-Majeur chapel is a historic place of worship near Grevenmacher.",
+                  "text": "Chapelle Saint-Jacques-le-Majeur, a chapel in the village of Mënjecker, Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.441569,
@@ -11983,7 +11983,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Viaduc de la Syre",
-                  "text": "Viaduc de la Syre is a prominent bridge near Grevenmacher.",
+                  "text": "Viaduc de la Syre, a stone viaduct over the Syre river near Grevenmacher.",
                   "category": "landmark",
                   "coords": [
                         6.471065,
@@ -11992,7 +11992,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Joseph",
-                  "text": "Saint-Joseph church is located in Grevenmacher.",
+                  "text": "Saint-Joseph church, dedicated to Saint Joseph in Grevenmacher.",
                   "category": "religious",
                   "coords": [
                         6.436163,
@@ -12001,7 +12001,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Machera",
-                  "text": "Machera is a ship stationed in Grevenmacher.",
+                  "text": "The historic Machera district in Grevenmacher with old houses.",
                   "category": "landmark",
                   "coords": [
                         6.438035,
@@ -12992,7 +12992,268 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
     image: "/poi-images/luxembourg-wintrange-cities-v2.webp",
   },
   {
-    id: "luxembourg-colmar-berg-cities-v2", "sights": {"de": [{"name": "Schloss Birtringen", "text": "Ein historisches Schloss in Privatbesitz.", "category": "castle", "coords": [6.089094, 49.826338]}, {"name": "Römische Villa Schieren", "text": "Überreste eines antiken römischen Gutshofes.", "category": "historical", "coords": [6.101302, 49.825001]}, {"name": "Ditgesbaach", "text": "Ein kleines geschütztes Biotop.", "category": "natural", "coords": [6.108248, 49.839921]}, {"name": "Michelbouch - Biischtert / Etangs de Bissen", "text": "Feuchtgebiet und Naturschutzgebiet mit Teichen.", "category": "natural", "coords": [6.051029, 49.815379]}, {"name": "Trellsbam", "text": "Ein besonderes Naturerlebnis in Colmar Berg bietet der Trellsbam. Von diesem natürlichen Aussichtspunkt genießen Wanderer einen hervorragenden Blick über die luxemburgische Landschaft.", "category": "natural", "coords": [6.104785, 49.821298]}, {"name": "Saint-Blaise", "text": "Eine lokale Kapelle in Colmar-Berg.", "category": "religious", "coords": [6.096972, 49.829795]}, {"name": "Saint-Michel", "text": "Die Pfarrkirche von Colmar-Berg.", "category": "religious", "coords": [6.087446, 49.813939]}], "hu": [{"name": "Château de Birtrange", "text": "Egy történelmi kastély magántulajdonban.", "category": "castle", "coords": [6.089094, 49.826338]}, {"name": "Réimesch Villa zu Schieren", "text": "Egy ókori római udvarház maradványai.", "category": "historical", "coords": [6.101302, 49.825001]}, {"name": "Ditgesbaach", "text": "Egy kis védett biotóp.", "category": "natural", "coords": [6.108248, 49.839921]}, {"name": "Michelbouch - Biischtert / Etangs de Bissen", "text": "Vizes élőhely és természetvédelmi terület tavakkal.", "category": "natural", "coords": [6.051029, 49.815379]}, {"name": "Trellsbam", "text": "Colmar Berg egyik különleges természeti élményét a Trellsbam kínálja. Ebből a természetes kilátópontból a túrázók kiváló kilátást élvezhetnek a luxemburgi tájra.", "category": "natural", "coords": [6.104785, 49.821298]}, {"name": "Saint-Blaise", "text": "Helyi kápolna Colmar-Bergben.", "category": "religious", "coords": [6.096972, 49.829795]}, {"name": "Saint-Michel", "text": "Colmar-Berg plébániatemploma.", "category": "religious", "coords": [6.087446, 49.813939]}], "ro": [{"name": "Château de Birtrange", "text": "Un castel istoric aflat în proprietate privată.", "category": "castle", "coords": [6.089094, 49.826338]}, {"name": "Réimesch Villa zu Schieren", "text": "Vestigiile unei vechi vile romane.", "category": "historical", "coords": [6.101302, 49.825001]}, {"name": "Ditgesbaach", "text": "Un mic biotop protejat.", "category": "natural", "coords": [6.108248, 49.839921]}, {"name": "Michelbouch - Biischtert / Etangs de Bissen", "text": "Zonă umedă și rezervație naturală cu iazuri.", "category": "natural", "coords": [6.051029, 49.815379]}, {"name": "Trellsbam", "text": "O experiență naturală deosebită în Colmar Berg este oferită de Trellsbam. Din acest punct de belvedere natural, drumeții se pot bucura de o vedere excelentă asupra peisajului luxemburghez.", "category": "natural", "coords": [6.104785, 49.821298]}, {"name": "Saint-Blaise", "text": "O capelă locală din Colmar-Berg.", "category": "religious", "coords": [6.096972, 49.829795]}, {"name": "Saint-Michel", "text": "Biserica parohială din Colmar-Berg.", "category": "religious", "coords": [6.087446, 49.813939]}], "en": [{"name": "Castle Birtrange", "text": "A historic castle in private ownership.", "category": "castle", "coords": [6.089094, 49.826338]}, {"name": "Roman Villa Schieren", "text": "Remains of an ancient Roman estate.", "category": "historical", "coords": [6.101302, 49.825001]}, {"name": "Ditgesbaach", "text": "A small protected natural habitat.", "category": "natural", "coords": [6.108248, 49.839921]}, {"name": "Michelbouch - Biischtert / Etangs de Bissen", "text": "Wetland and nature reserve featuring ponds.", "category": "natural", "coords": [6.051029, 49.815379]}, {"name": "Trellsbam", "text": "The Trellsbam offers a special nature experience in Colmar Berg. From this natural viewpoint, hikers can enjoy an excellent view over the Luxembourg landscape.", "category": "natural", "coords": [6.104785, 49.821298]}, {"name": "Saint-Blaise", "text": "A local chapel in Colmar-Berg.", "category": "religious", "coords": [6.096972, 49.829795]}, {"name": "Saint-Michel", "text": "The parish church of Colmar-Berg.", "category": "religious", "coords": [6.087446, 49.813939]}]},
+    id: "luxembourg-colmar-berg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Birtringen",
+                  "text": "Schloss Birtrange, eine Burg bei Colmar-Berg.",
+                  "category": "castle",
+                  "coords": [
+                        6.089094,
+                        49.826338
+                  ]
+            },
+            {
+                  "name": "Römische Villa Schieren",
+                  "text": "Überreste einer römischen Villa, ausgegraben in Schieren bei Colmar-Berg.",
+                  "category": "historical",
+                  "coords": [
+                        6.101302,
+                        49.825001
+                  ]
+            },
+            {
+                  "name": "Ditgesbaach",
+                  "text": "Ein kleines Bachtal (Ditgesbaach) bei Colmar-Berg, beliebt für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        6.108248,
+                        49.839921
+                  ]
+            },
+            {
+                  "name": "Michelbouch - Biischtert / Etangs de Bissen",
+                  "text": "Eine Reihe von Teichen im Gebiet Michelbouch/Biischtert, genutzt für Angeln und Naturbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        6.051029,
+                        49.815379
+                  ]
+            },
+            {
+                  "name": "Trellsbam",
+                  "text": "Ein besonderes Naturerlebnis in Colmar Berg bietet der Trellsbam. Von diesem natürlichen Aussichtspunkt genießen Wanderer einen hervorragenden Blick über die luxemburgische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.104785,
+                        49.821298
+                  ]
+            },
+            {
+                  "name": "Saint-Blaise",
+                  "text": "Kirche Saint-Blaise, dem heiligen Blasius geweiht in Colmar-Berg.",
+                  "category": "religious",
+                  "coords": [
+                        6.096972,
+                        49.829795
+                  ]
+            },
+            {
+                  "name": "Saint-Michel",
+                  "text": "Saint-Michel-Kirche, die St.-Michael-Kirche im Zentrum von Colmar-Berg.",
+                  "category": "religious",
+                  "coords": [
+                        6.087446,
+                        49.813939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Birtrange",
+                  "text": "Birtrange kastély, egy vár Colmar-Berg közelében.",
+                  "category": "castle",
+                  "coords": [
+                        6.089094,
+                        49.826338
+                  ]
+            },
+            {
+                  "name": "Réimesch Villa zu Schieren",
+                  "text": "Egy római villa maradványai, feltárva Schierenben, Colmar-Berg közelében.",
+                  "category": "historical",
+                  "coords": [
+                        6.101302,
+                        49.825001
+                  ]
+            },
+            {
+                  "name": "Ditgesbaach",
+                  "text": "Egy kis patakvölgy (Ditgesbaach) Colmar-Berg közelében, népszerű sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.108248,
+                        49.839921
+                  ]
+            },
+            {
+                  "name": "Michelbouch - Biischtert / Etangs de Bissen",
+                  "text": "Tavak sorozata a Michelbouch/Biischtert területen, horgászatra és természetfigyelésre használva.",
+                  "category": "natural",
+                  "coords": [
+                        6.051029,
+                        49.815379
+                  ]
+            },
+            {
+                  "name": "Trellsbam",
+                  "text": "Colmar Berg egyik különleges természeti élményét a Trellsbam kínálja. Ebből a természetes kilátópontból a túrázók kiváló kilátást élvezhetnek a luxemburgi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        6.104785,
+                        49.821298
+                  ]
+            },
+            {
+                  "name": "Saint-Blaise",
+                  "text": "Szent Balázs-templom, Szent Balázs tiszteletére szentelve Colmar-Bergben.",
+                  "category": "religious",
+                  "coords": [
+                        6.096972,
+                        49.829795
+                  ]
+            },
+            {
+                  "name": "Saint-Michel",
+                  "text": "Szent Mihály-templom, a Szent Mihály-templom Colmar-Berg központjában.",
+                  "category": "religious",
+                  "coords": [
+                        6.087446,
+                        49.813939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Birtrange",
+                  "text": "Castelul Birtrange, un castel lângă Colmar-Berg.",
+                  "category": "castle",
+                  "coords": [
+                        6.089094,
+                        49.826338
+                  ]
+            },
+            {
+                  "name": "Réimesch Villa zu Schieren",
+                  "text": "Vestigii ale unei vile romane, excavate în Schieren lângă Colmar-Berg.",
+                  "category": "historical",
+                  "coords": [
+                        6.101302,
+                        49.825001
+                  ]
+            },
+            {
+                  "name": "Ditgesbaach",
+                  "text": "O vale mică de pârâu (Ditgesbaach) lângă Colmar-Berg, populară pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        6.108248,
+                        49.839921
+                  ]
+            },
+            {
+                  "name": "Michelbouch - Biischtert / Etangs de Bissen",
+                  "text": "O serie de iazuri în zona Michelbouch/Biischtert, utilizate pentru pescuit și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.051029,
+                        49.815379
+                  ]
+            },
+            {
+                  "name": "Trellsbam",
+                  "text": "O experiență naturală deosebită în Colmar Berg este oferită de Trellsbam. Din acest punct de belvedere natural, drumeții se pot bucura de o vedere excelentă asupra peisajului luxemburghez.",
+                  "category": "natural",
+                  "coords": [
+                        6.104785,
+                        49.821298
+                  ]
+            },
+            {
+                  "name": "Saint-Blaise",
+                  "text": "Biserica Saint-Blaise, dedicată Sfântului Blasiu în Colmar-Berg.",
+                  "category": "religious",
+                  "coords": [
+                        6.096972,
+                        49.829795
+                  ]
+            },
+            {
+                  "name": "Saint-Michel",
+                  "text": "Biserica Saint-Michel, biserica Sfântul Mihail în centrul orașului Colmar-Berg.",
+                  "category": "religious",
+                  "coords": [
+                        6.087446,
+                        49.813939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle Birtrange",
+                  "text": "Castle Birtrange, a castle near Colmar-Berg.",
+                  "category": "castle",
+                  "coords": [
+                        6.089094,
+                        49.826338
+                  ]
+            },
+            {
+                  "name": "Roman Villa Schieren",
+                  "text": "Remains of a Roman villa excavated in Schieren near Colmar-Berg.",
+                  "category": "historical",
+                  "coords": [
+                        6.101302,
+                        49.825001
+                  ]
+            },
+            {
+                  "name": "Ditgesbaach",
+                  "text": "A small stream valley (Ditgesbaach) near Colmar-Berg, popular for walks.",
+                  "category": "natural",
+                  "coords": [
+                        6.108248,
+                        49.839921
+                  ]
+            },
+            {
+                  "name": "Michelbouch - Biischtert / Etangs de Bissen",
+                  "text": "A series of ponds in the Michelbouch/Biischtert area, used for fishing and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        6.051029,
+                        49.815379
+                  ]
+            },
+            {
+                  "name": "Trellsbam",
+                  "text": "The Trellsbam offers a special nature experience in Colmar Berg. From this natural viewpoint, hikers can enjoy an excellent view over the Luxembourg landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.104785,
+                        49.821298
+                  ]
+            },
+            {
+                  "name": "Saint-Blaise",
+                  "text": "Saint-Blaise church, dedicated to Saint Blaise in Colmar-Berg.",
+                  "category": "religious",
+                  "coords": [
+                        6.096972,
+                        49.829795
+                  ]
+            },
+            {
+                  "name": "Saint-Michel",
+                  "text": "Saint-Michel Church, St. Michael's Church in the centre of Colmar-Berg.",
+                  "category": "religious",
+                  "coords": [
+                        6.087446,
+                        49.813939
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LU",
     name: { de: "Colmar-Berg", hu: "Colmar-Berg", ro: "Colmar-Berg", en: "Colmar-Berg" },
@@ -13041,7 +13302,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "de": [
             {
                   "name": "A Possen",
-                  "text": "A Possen ist ein volkskundliches Museum in Bus.",
+                  "text": "A Possen, ein Museum in Bous in einem historischen Gebäude.",
                   "category": "museum",
                   "coords": [
                         6.35423,
@@ -13050,7 +13311,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloß Bübingen",
-                  "text": "Schloß Bübingen ist eine historische Schlossanlage in Bus.",
+                  "text": "Schloss Bübingen ist eine Burg aus dem Jahr 1340 in Bous.",
                   "category": "castle",
                   "coords": [
                         6.379124,
@@ -13059,7 +13320,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloss Thorn",
-                  "text": "Schloss Thorn ist ein geschichtsträchtiges Schloss in Bus.",
+                  "text": "Schloss Thorn ist ein Schloss im Ortsteil Thorn von Bous.",
                   "category": "castle",
                   "coords": [
                         6.383559,
@@ -13068,7 +13329,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Römischer Grabtumulus Nennig",
-                  "text": "Der Römische Grabtumulus Nennig ist eine antike Grabstätte in Bus.",
+                  "text": "Ein römischer Grabhügel (Tumulus) in Nennig bei Bous.",
                   "category": "historical",
                   "coords": [
                         6.378772,
@@ -13077,7 +13338,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloss Remich",
-                  "text": "Schloss Remich ist ein historisches Bauwerk in Bus.",
+                  "text": "Ein Schloss in Remich, heute Hotel und Restaurant mit Blick auf die Mosel.",
                   "category": "castle",
                   "coords": [
                         6.380786,
@@ -13086,7 +13347,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Piscine de Remich",
-                  "text": "Die Piscine de Remich ist ein beliebter Wasserpark in Bus.",
+                  "text": "Ein familienfreundliches Schwimmbad in Remich mit Außenbecken und Rutschen.",
                   "category": "family",
                   "coords": [
                         6.363901,
@@ -13095,7 +13356,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Kuebendaellchen",
-                  "text": "Kuebendaellchen ist ein Naturschutzgebiet in der Region Bus.",
+                  "text": "Ein bewaldetes Tal in Bous, Teil des örtlichen Naturlehrpfads.",
                   "category": "natural",
                   "coords": [
                         6.339745,
@@ -13113,7 +13374,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Étienne",
-                  "text": "Saint-Étienne ist eine lokale Kirche in Bus.",
+                  "text": "Kirche Saint-Étienne, dem heiligen Stephanus geweiht in Bous.",
                   "category": "religious",
                   "coords": [
                         6.363666,
@@ -13122,7 +13383,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert ist ein Sakralbau in der Ortschaft Bus.",
+                  "text": "Kirche Saint-Hubert, dem heiligen Hubertus geweiht in Bous.",
                   "category": "religious",
                   "coords": [
                         6.353986,
@@ -13131,7 +13392,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Sainte-Anne",
-                  "text": "Sainte-Anne ist eine Kapelle oder Kirche in Bus.",
+                  "text": "Kirche Sainte-Anne, der heiligen Anna geweiht in Bous.",
                   "category": "religious",
                   "coords": [
                         6.34186,
@@ -13140,7 +13401,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jean Baptiste",
-                  "text": "Saint-Jean Baptiste ist eine bedeutende Kirche in Bus.",
+                  "text": "Saint-Jean Baptiste ist die Pfarrkirche von Bous, dem heiligen Johannes dem Täufer geweiht.",
                   "category": "religious",
                   "coords": [
                         6.329126,
@@ -13149,7 +13410,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Thomas",
-                  "text": "Saint-Thomas ist ein Sakralbau in der Gemeinde Bus.",
+                  "text": "Kirche Saint-Thomas, dem heiligen Thomas geweiht in Bous.",
                   "category": "religious",
                   "coords": [
                         6.364059,
@@ -13160,7 +13421,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "hu": [
             {
                   "name": "A Possen",
-                  "text": "Az A Possen egy néprajzi múzeum Busban.",
+                  "text": "A Possen, egy múzeum Bousban, egy történelmi épületben.",
                   "category": "museum",
                   "coords": [
                         6.35423,
@@ -13169,7 +13430,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloß Bübingen",
-                  "text": "A Schloß Bübingen egy történelmi kastélyegyüttes Busban.",
+                  "text": "A Bübingen kastély 1340-ben épült Bousban.",
                   "category": "castle",
                   "coords": [
                         6.379124,
@@ -13178,7 +13439,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloss Thorn",
-                  "text": "A Schloss Thorn egy történelmi múltú kastély Busban.",
+                  "text": "A Thorn kastély Bous Thorn városrészében található.",
                   "category": "castle",
                   "coords": [
                         6.383559,
@@ -13187,7 +13448,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Römischer Grabtumulus Nennig",
-                  "text": "A Römischer Grabtumulus Nennig egy ókori sírhely Busban.",
+                  "text": "Római sírhalom (tumulus) Nennigben, Bous közelében.",
                   "category": "historical",
                   "coords": [
                         6.378772,
@@ -13196,7 +13457,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloss Remich",
-                  "text": "A Schloss Remich egy történelmi építmény Busban.",
+                  "text": "Kastély Remichben, ma szálloda és étterem a Moselre néző kilátással.",
                   "category": "castle",
                   "coords": [
                         6.380786,
@@ -13205,7 +13466,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Piscine de Remich",
-                  "text": "A Piscine de Remich egy népszerű vízi park Busban.",
+                  "text": "Családbarát uszoda Remichben, szabadtéri medencékkel és csúszdákkal.",
                   "category": "family",
                   "coords": [
                         6.363901,
@@ -13214,7 +13475,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Kuebendaellchen",
-                  "text": "A Kuebendaellchen egy természetvédelmi terület Bus régiójában.",
+                  "text": "Egy erdős völgy Bousban, a helyi természeti tanösvény része.",
                   "category": "natural",
                   "coords": [
                         6.339745,
@@ -13232,7 +13493,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Étienne",
-                  "text": "A Saint-Étienne egy helyi templom Busban.",
+                  "text": "Szent István-templom, Szent István vértanú tiszteletére szentelve Bousban.",
                   "category": "religious",
                   "coords": [
                         6.363666,
@@ -13241,7 +13502,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "A Saint-Hubert egy templom Bus településen.",
+                  "text": "Szent Hubertus-templom, Szent Hubertus tiszteletére szentelve Bousban.",
                   "category": "religious",
                   "coords": [
                         6.353986,
@@ -13250,7 +13511,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Sainte-Anne",
-                  "text": "A Sainte-Anne egy kápolna vagy templom Busban.",
+                  "text": "Szent Anna-templom, Szent Anna tiszteletére szentelve Bousban.",
                   "category": "religious",
                   "coords": [
                         6.34186,
@@ -13259,7 +13520,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jean Baptiste",
-                  "text": "A Saint-Jean Baptiste egy jelentős templom Busban.",
+                  "text": "A Keresztelő Szent János-templom Bous plébániatemploma.",
                   "category": "religious",
                   "coords": [
                         6.329126,
@@ -13268,7 +13529,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Thomas",
-                  "text": "A Saint-Thomas egy templom Bus községben.",
+                  "text": "Szent Tamás-templom, Szent Tamás apostol tiszteletére szentelve Bousban.",
                   "category": "religious",
                   "coords": [
                         6.364059,
@@ -13279,7 +13540,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "ro": [
             {
                   "name": "A Possen",
-                  "text": "A Possen este un muzeu de folclor din Bus.",
+                  "text": "A Possen, un muzeu în Bous, într-o clădire istorică.",
                   "category": "museum",
                   "coords": [
                         6.35423,
@@ -13288,7 +13549,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloß Bübingen",
-                  "text": "Schloß Bübingen este un complex istoric de castel din Bus.",
+                  "text": "Castelul Bübingen a fost construit în 1340 în Bous.",
                   "category": "castle",
                   "coords": [
                         6.379124,
@@ -13297,7 +13558,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloss Thorn",
-                  "text": "Schloss Thorn este un castel încărcat de istorie din Bus.",
+                  "text": "Castelul Thorn se află în cartierul Thorn din Bous.",
                   "category": "castle",
                   "coords": [
                         6.383559,
@@ -13306,7 +13567,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Römischer Grabtumulus Nennig",
-                  "text": "Römischer Grabtumulus Nennig este un mormânt antic din Bus.",
+                  "text": "Un tumul roman (movilă funerară) în Nennig, lângă Bous.",
                   "category": "historical",
                   "coords": [
                         6.378772,
@@ -13315,7 +13576,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloss Remich",
-                  "text": "Schloss Remich este o structură istorică din Bus.",
+                  "text": "Un castel în Remich, acum hotel și restaurant cu vedere la Moselle.",
                   "category": "castle",
                   "coords": [
                         6.380786,
@@ -13324,7 +13585,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Piscine de Remich",
-                  "text": "Piscine de Remich este un parc acvatic popular din Bus.",
+                  "text": "O piscină familială în Remich, cu bazine exterioare și tobogane.",
                   "category": "family",
                   "coords": [
                         6.363901,
@@ -13333,7 +13594,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Kuebendaellchen",
-                  "text": "Kuebendaellchen este o rezervație naturală din regiunea Bus.",
+                  "text": "O vale împădurită în Bous, parte a traseului natural local.",
                   "category": "natural",
                   "coords": [
                         6.339745,
@@ -13351,7 +13612,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Étienne",
-                  "text": "Saint-Étienne este o biserică locală din Bus.",
+                  "text": "Biserica Saint-Étienne, dedicată Sfântului Ștefan în Bous.",
                   "category": "religious",
                   "coords": [
                         6.363666,
@@ -13360,7 +13621,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert este un lăcaș de cult din localitatea Bus.",
+                  "text": "Biserica Saint-Hubert, dedicată Sfântului Hubert în Bous.",
                   "category": "religious",
                   "coords": [
                         6.353986,
@@ -13369,7 +13630,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Sainte-Anne",
-                  "text": "Sainte-Anne este o capelă sau biserică din Bus.",
+                  "text": "Biserica Sainte-Anne, dedicată Sfintei Ana în Bous.",
                   "category": "religious",
                   "coords": [
                         6.34186,
@@ -13378,7 +13639,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jean Baptiste",
-                  "text": "Saint-Jean Baptiste este o biserică importantă din Bus.",
+                  "text": "Biserica Sfântul Ioan Botezătorul este biserica parohială din Bous.",
                   "category": "religious",
                   "coords": [
                         6.329126,
@@ -13387,7 +13648,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Thomas",
-                  "text": "Saint-Thomas este un lăcaș de cult din comuna Bus.",
+                  "text": "Biserica Saint-Thomas, dedicată Sfântului Toma în Bous.",
                   "category": "religious",
                   "coords": [
                         6.364059,
@@ -13398,7 +13659,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "en": [
             {
                   "name": "A Possen",
-                  "text": "A Possen is a folklore museum in Bus.",
+                  "text": "A Possen, a museum in Bous housed in a historic building.",
                   "category": "museum",
                   "coords": [
                         6.35423,
@@ -13407,7 +13668,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloß Bübingen",
-                  "text": "Schloß Bübingen is a historic castle complex in Bus.",
+                  "text": "Schloß Bübingen is a castle built in 1340 in Bous.",
                   "category": "castle",
                   "coords": [
                         6.379124,
@@ -13416,7 +13677,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloss Thorn",
-                  "text": "Schloss Thorn is a castle steeped in history in Bus.",
+                  "text": "Schloss Thorn is a castle in the Thorn district of Bous.",
                   "category": "castle",
                   "coords": [
                         6.383559,
@@ -13425,7 +13686,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Römischer Grabtumulus Nennig",
-                  "text": "The Römischer Grabtumulus Nennig is an ancient burial site in Bus.",
+                  "text": "A Roman burial mound (tumulus) in Nennig near Bous.",
                   "category": "historical",
                   "coords": [
                         6.378772,
@@ -13434,7 +13695,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schloss Remich",
-                  "text": "Schloss Remich is a historic structure in Bus.",
+                  "text": "A castle in Remich, now a hotel and restaurant overlooking the Moselle.",
                   "category": "castle",
                   "coords": [
                         6.380786,
@@ -13443,7 +13704,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Piscine de Remich",
-                  "text": "Piscine de Remich is a popular water park in Bus.",
+                  "text": "A family-friendly swimming pool in Remich with outdoor pools and slides.",
                   "category": "family",
                   "coords": [
                         6.363901,
@@ -13452,7 +13713,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Kuebendaellchen",
-                  "text": "Kuebendaellchen is a nature reserve in the Bus region.",
+                  "text": "A wooded valley in Bous, part of the local nature trail.",
                   "category": "natural",
                   "coords": [
                         6.339745,
@@ -13470,7 +13731,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Étienne",
-                  "text": "Saint-Étienne is a local church in Bus.",
+                  "text": "Saint-Étienne church, dedicated to Saint Stephen in Bous.",
                   "category": "religious",
                   "coords": [
                         6.363666,
@@ -13479,7 +13740,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Saint-Hubert is a place of worship in the village of Bus.",
+                  "text": "Saint-Hubert church, dedicated to Saint Hubert in Bous.",
                   "category": "religious",
                   "coords": [
                         6.353986,
@@ -13488,7 +13749,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Sainte-Anne",
-                  "text": "Sainte-Anne is a chapel or church in Bus.",
+                  "text": "Sainte-Anne church, dedicated to Saint Anne in Bous.",
                   "category": "religious",
                   "coords": [
                         6.34186,
@@ -13497,7 +13758,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jean Baptiste",
-                  "text": "Saint-Jean Baptiste is a significant church in Bus.",
+                  "text": "Saint-Jean Baptiste is the parish church of Bous, dedicated to John the Baptist.",
                   "category": "religious",
                   "coords": [
                         6.329126,
@@ -13506,7 +13767,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Thomas",
-                  "text": "Saint-Thomas is a place of worship in the municipality of Bus.",
+                  "text": "Saint-Thomas church, dedicated to Saint Thomas in Bous.",
                   "category": "religious",
                   "coords": [
                         6.364059,
@@ -14301,7 +14562,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "de": [
             {
                   "name": "Tonn",
-                  "text": "Eine archäologische Fundstätte bei Lenningen.",
+                  "text": "Eine historische Stätte in Lenningen, ein ehemaliger Zollposten an der alten Straße.",
                   "category": "historical",
                   "coords": [
                         6.353722,
@@ -14310,7 +14571,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Widdebierg",
-                  "text": "Ein markanter Hügel und Aussichtspunkt der Region.",
+                  "text": "Widdebierg ist ein bewaldeter Hügel mit Aussicht auf das Moseltal bei Lenningen.",
                   "category": "natural",
                   "coords": [
                         6.324823,
@@ -14319,7 +14580,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Veraudunus",
-                  "text": "Keltisch-römische Kultstätte auf dem Widdebierg.",
+                  "text": "Veraudunus ist ein gallorömischer Votivaltar in Lenningen.",
                   "category": "landmark",
                   "coords": [
                         6.322114,
@@ -14328,7 +14589,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Widdebierg Steekaul",
-                  "text": "Ein ehemaliger Steinbruch auf dem Widdebierg.",
+                  "text": "Ein ehemaliger Steinbruch auf dem Widdebierg-Hügel in Lenningen.",
                   "category": "landmark",
                   "coords": [
                         6.329188,
@@ -14337,7 +14598,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Erasmuskierch",
-                  "text": "Eine dem heiligen Erasmus geweihte Kirche in Beyren.",
+                  "text": "Erasmuskierch ist eine dem heiligen Erasmus geweihte Kirche im Ortsteil Beyren von Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.33627,
@@ -14346,7 +14607,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Église de l'Assomption de la Bienheureuse-Vierge-Marie",
-                  "text": "Die Pfarrkirche von Mensdorf.",
+                  "text": "Église de l'Assomption de la Bienheureuse-Vierge-Marie ist die Mariä-Himmelfahrt-Kirche im Ortsteil Mensder von Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.302393,
@@ -14355,7 +14616,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saints-Côme-et-Damien",
-                  "text": "Eine historische Kirche in Flaxweiler.",
+                  "text": "Saints-Côme-et-Damien ist eine den heiligen Kosmas und Damian geweihte Kirche in Fluessweiler (Lenningen).",
                   "category": "religious",
                   "coords": [
                         6.342037,
@@ -14364,7 +14625,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Wendelin",
-                  "text": "Die Dorfkirche von Olingen.",
+                  "text": "Saint-Wendelin ist eine dem heiligen Wendelin geweihte Kirche in Ouljen (Lenningen).",
                   "category": "religious",
                   "coords": [
                         6.314135,
@@ -14373,7 +14634,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jacques-le-Majeur",
-                  "text": "Die lokale Kirche in Roodt-sur-Syre.",
+                  "text": "Saint-Jacques-le-Majeur ist eine dem heiligen Jakobus dem Älteren geweihte Kirche in Rued-Sir (Lenningen).",
                   "category": "religious",
                   "coords": [
                         6.30006,
@@ -14393,7 +14654,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "hu": [
             {
                   "name": "Tonn",
-                  "text": "Régészeti lelőhely Lenningen közelében.",
+                  "text": "Történelmi helyszín Lenningenben, egykori vámház a régi út mellett.",
                   "category": "historical",
                   "coords": [
                         6.353722,
@@ -14402,7 +14663,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Widdebierg",
-                  "text": "A régió egyik jellegzetes dombja és kilátópontja.",
+                  "text": "A Widdebierg egy erdős domb, kilátással a Mosel völgyére Lenningen közelében.",
                   "category": "natural",
                   "coords": [
                         6.324823,
@@ -14411,7 +14672,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Veraudunus",
-                  "text": "Kelta-római kultuszhely a Widdebiergen.",
+                  "text": "Veraudunus egy gall-római fogadalmi oltár Lenningenben.",
                   "category": "landmark",
                   "coords": [
                         6.322114,
@@ -14420,7 +14681,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Widdebierg Steekaul",
-                  "text": "Egykori kőfejtő a Widdebiergen.",
+                  "text": "Egykori kőbánya a Widdebierg-dombon Lenningenben.",
                   "category": "landmark",
                   "coords": [
                         6.329188,
@@ -14429,7 +14690,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Erasmuskierch",
-                  "text": "Szent Erasmusnak szentelt templom Beyrenben.",
+                  "text": "Az Erasmuskirche Szent Erasmusznak szentelt templom Lenningen Beyren városrészében.",
                   "category": "religious",
                   "coords": [
                         6.33627,
@@ -14438,7 +14699,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Église de l'Assomption de la Bienheureuse-Vierge-Marie",
-                  "text": "Mensdorf plébániatemploma.",
+                  "text": "A Boldogságos Szűz Mária Mennybevételének temploma Lenningen Mensder városrészében.",
                   "category": "religious",
                   "coords": [
                         6.302393,
@@ -14447,7 +14708,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saints-Côme-et-Damien",
-                  "text": "Egy történelmi templom Flaxweilerben.",
+                  "text": "Szent Kozma és Damján-templom Fluessweilerben (Lenningen).",
                   "category": "religious",
                   "coords": [
                         6.342037,
@@ -14456,7 +14717,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Wendelin",
-                  "text": "Olingen falusi temploma.",
+                  "text": "Szent Vendel-templom Ouljenben (Lenningen).",
                   "category": "religious",
                   "coords": [
                         6.314135,
@@ -14465,7 +14726,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jacques-le-Majeur",
-                  "text": "Helyi templom Roodt-sur-Syre-ben.",
+                  "text": "Szent Jakab (idősebb) templom Rued-Sirben (Lenningen).",
                   "category": "religious",
                   "coords": [
                         6.30006,
@@ -14485,7 +14746,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "ro": [
             {
                   "name": "Tonn",
-                  "text": "Un sit arheologic lângă Lenningen.",
+                  "text": "Un sit istoric în Lenningen, fostă casă de taxă pe drumul vechi.",
                   "category": "historical",
                   "coords": [
                         6.353722,
@@ -14494,7 +14755,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Widdebierg",
-                  "text": "Un deal proeminent și punct de belvedere al regiunii.",
+                  "text": "Widdebierg este un deal împădurit cu vedere spre valea Mosellei lângă Lenningen.",
                   "category": "natural",
                   "coords": [
                         6.324823,
@@ -14503,7 +14764,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Veraudunus",
-                  "text": "Loc de cult celto-roman pe muntele Widdebierg.",
+                  "text": "Veraudunus este un altar votiv galo-roman în Lenningen.",
                   "category": "landmark",
                   "coords": [
                         6.322114,
@@ -14512,7 +14773,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Widdebierg Steekaul",
-                  "text": "O fostă carieră de piatră pe muntele Widdebierg.",
+                  "text": "O fostă carieră de piatră pe dealul Widdebierg din Lenningen.",
                   "category": "landmark",
                   "coords": [
                         6.329188,
@@ -14521,7 +14782,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Erasmuskierch",
-                  "text": "O biserică dedicată Sfântului Erasmus din Beyren.",
+                  "text": "Erasmuskierch este o biserică dedicată Sfântului Erasmus în cartierul Beyren din Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.33627,
@@ -14530,7 +14791,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Église de l'Assomption de la Bienheureuse-Vierge-Marie",
-                  "text": "Biserica parohială din Mensdorf.",
+                  "text": "Biserica Adormirea Maicii Domnului se află în cartierul Mensder din Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.302393,
@@ -14539,7 +14800,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saints-Côme-et-Damien",
-                  "text": "O biserică istorică din Flaxweiler.",
+                  "text": "Biserica Sfinții Cosma și Damian se află în Fluessweiler, Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.342037,
@@ -14548,7 +14809,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Wendelin",
-                  "text": "Biserica satului din Olingen.",
+                  "text": "Biserica Sfântul Vendelin se află în Ouljen, Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.314135,
@@ -14557,7 +14818,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jacques-le-Majeur",
-                  "text": "Biserica locală din Roodt-sur-Syre.",
+                  "text": "Biserica Sfântul Iacob cel Mare se află în Rued-Sir, Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.30006,
@@ -14577,7 +14838,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "en": [
             {
                   "name": "Tonn",
-                  "text": "An archaeological site near Lenningen.",
+                  "text": "A historical site in Lenningen, a former tollhouse along the old road.",
                   "category": "historical",
                   "coords": [
                         6.353722,
@@ -14586,7 +14847,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Widdebierg",
-                  "text": "A prominent hill and viewpoint in the region.",
+                  "text": "Widdebierg is a wooded hill with a view over the Moselle valley near Lenningen.",
                   "category": "natural",
                   "coords": [
                         6.324823,
@@ -14595,7 +14856,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Veraudunus",
-                  "text": "Celtic-Roman cult site located on the Widdebierg.",
+                  "text": "Veraudunus is a Gallo-Roman votive altar in Lenningen.",
                   "category": "landmark",
                   "coords": [
                         6.322114,
@@ -14604,7 +14865,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Widdebierg Steekaul",
-                  "text": "A former stone quarry on the Widdebierg.",
+                  "text": "A former stone quarry on the Widdebierg hill in Lenningen.",
                   "category": "landmark",
                   "coords": [
                         6.329188,
@@ -14613,7 +14874,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Erasmuskierch",
-                  "text": "A church dedicated to Saint Erasmus in Beyren.",
+                  "text": "Erasmuskierch is a church dedicated to Saint Erasmus in the Beyren district of Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.33627,
@@ -14622,7 +14883,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Église de l'Assomption de la Bienheureuse-Vierge-Marie",
-                  "text": "The parish church of Mensdorf.",
+                  "text": "Église de l'Assomption de la Bienheureuse-Vierge-Marie is the Assumption of Mary church in the Mensder district of Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.302393,
@@ -14631,7 +14892,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saints-Côme-et-Damien",
-                  "text": "A historic church in Flaxweiler.",
+                  "text": "Saints-Côme-et-Damien is a church dedicated to Saints Cosmas and Damian in Fluessweiler, Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.342037,
@@ -14640,7 +14901,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Wendelin",
-                  "text": "The village church of Olingen.",
+                  "text": "Saint-Wendelin is a church dedicated to Saint Wendelin in Ouljen, Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.314135,
@@ -14649,7 +14910,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jacques-le-Majeur",
-                  "text": "The local church in Roodt-sur-Syre.",
+                  "text": "Saint-Jacques-le-Majeur is a church dedicated to Saint James the Greater in Rued-Sir, Lenningen.",
                   "category": "religious",
                   "coords": [
                         6.30006,
@@ -14715,7 +14976,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "de": [
             {
                   "name": "Musée Tudor sur l'électricité et les accumulateurs",
-                  "text": "The Tudor Museum widmet sich der Geschichte von Elektrizität und Batterien in Rosport.",
+                  "text": "The Tudor Museum for Electricity and Batteries zeigt die Erfindung der Blei-Säure-Batterie durch Henri Tudor in Rosport.",
                   "category": "museum",
                   "coords": [
                         6.498417,
@@ -14724,7 +14985,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Ralinger Röder",
-                  "text": "Ralinger Röder ist ein Naturschutzgebiet in der Nähe von Rosport.",
+                  "text": "Ein Naturgebiet in Rosport, bekannt für seine wilden Blumenwiesen.",
                   "category": "natural",
                   "coords": [
                         6.537056,
@@ -14742,7 +15003,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Rosport-Hëlt",
-                  "text": "Rosport-Hëlt ist ein geschütztes Naturschutzgebiet in Rosport.",
+                  "text": "Am 20. Juli 2018 eröffnetes Naturschutzgebiet in Rosport.",
                   "category": "natural",
                   "coords": [
                         6.520073,
@@ -14751,7 +15012,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Burgruine Besch",
-                  "text": "Die Burgruine Besch ist ein historisches Überbleibsel in Rosport.",
+                  "text": "Die Ruine der Burg Besch, einer mittelalterlichen Festung nahe Rosport.",
                   "category": "historical",
                   "coords": [
                         6.530851,
@@ -14760,7 +15021,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Reemerhof",
-                  "text": "Reemerhof ist ein regionales Kunst- und Kulturzentrum in Rosport.",
+                  "text": "Ein restaurierter Bauernhof in Rosport, heute kulturelles Zentrum für lokale Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         6.504168,
@@ -14870,7 +15131,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "hu": [
             {
                   "name": "Musée Tudor sur l'électricité et les accumulateurs",
-                  "text": "A Tudor Múzeum az elektromosság és az akkumulátorok történetének szentelt hely Rosportban.",
+                  "text": "A Tudor Villamossági és Akkumulátor Múzeum Henri Tudor ólom-savas akkumulátorának feltalálását mutatja be Rosportban.",
                   "category": "museum",
                   "coords": [
                         6.498417,
@@ -14879,7 +15140,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Ralinger Röder",
-                  "text": "A Ralinger Röder egy természetvédelmi terület Rosport közelében.",
+                  "text": "Természeti terület Rosportban, vadvirágos rétjeiről ismert.",
                   "category": "natural",
                   "coords": [
                         6.537056,
@@ -14897,7 +15158,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Rosport-Hëlt",
-                  "text": "A Rosport-Hëlt egy védett természetvédelmi terület Rosportban.",
+                  "text": "2018. július 20-án megnyílt természetvédelmi terület Rosportban.",
                   "category": "natural",
                   "coords": [
                         6.520073,
@@ -14906,7 +15167,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Burgruine Besch",
-                  "text": "A Burgruine Besch egy történelmi maradvány Rosportban.",
+                  "text": "A Besch vár romjai, egy középkori erőd Rosport közelében.",
                   "category": "historical",
                   "coords": [
                         6.530851,
@@ -14915,7 +15176,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Reemerhof",
-                  "text": "A Reemerhof egy regionális művészeti és kulturális központ Rosportban.",
+                  "text": "Felújított tanya Rosportban, ma kulturális központ helyi rendezvények számára.",
                   "category": "cultural",
                   "coords": [
                         6.504168,
@@ -15025,7 +15286,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "ro": [
             {
                   "name": "Musée Tudor sur l'électricité et les accumulateurs",
-                  "text": "Muzeul Tudor este dedicat istoriei electricității și bateriilor în Rosport.",
+                  "text": "Muzeul Tudor pentru Electricitate și Baterii prezintă invenția bateriei cu plumb-acid de către Henri Tudor în Rosport.",
                   "category": "museum",
                   "coords": [
                         6.498417,
@@ -15034,7 +15295,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Ralinger Röder",
-                  "text": "Ralinger Röder este o rezervație naturală lângă Rosport.",
+                  "text": "O zonă naturală în Rosport, cunoscută pentru pajiștile cu flori sălbatice.",
                   "category": "natural",
                   "coords": [
                         6.537056,
@@ -15052,7 +15313,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Rosport-Hëlt",
-                  "text": "Rosport-Hëlt este o rezervație naturală protejată din Rosport.",
+                  "text": "Rezervație naturală deschisă pe 20 iulie 2018 în Rosport.",
                   "category": "natural",
                   "coords": [
                         6.520073,
@@ -15061,7 +15322,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Burgruine Besch",
-                  "text": "Burgruine Besch este o ruină istorică din Rosport.",
+                  "text": "Ruinele castelului Besch, o fortăreață medievală lângă Rosport.",
                   "category": "historical",
                   "coords": [
                         6.530851,
@@ -15070,7 +15331,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Reemerhof",
-                  "text": "Reemerhof este un centru regional de artă și cultură din Rosport.",
+                  "text": "O fermă restaurată în Rosport, acum centru cultural pentru evenimente locale.",
                   "category": "cultural",
                   "coords": [
                         6.504168,
@@ -15180,7 +15441,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "en": [
             {
                   "name": "The Tudor Museum for Electricity and Batteries",
-                  "text": "The Tudor Museum is dedicated to the history of electricity and batteries in Rosport.",
+                  "text": "The Tudor Museum for Electricity and Batteries showcases Henri Tudor's invention of the lead-acid battery in Rosport.",
                   "category": "museum",
                   "coords": [
                         6.498417,
@@ -15189,7 +15450,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Ralinger Röder",
-                  "text": "Ralinger Röder is a nature reserve near Rosport.",
+                  "text": "A nature area in Rosport, known for its wildflower meadows.",
                   "category": "natural",
                   "coords": [
                         6.537056,
@@ -15207,7 +15468,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Rosport-Hëlt",
-                  "text": "Rosport-Hëlt is a protected nature reserve in Rosport.",
+                  "text": "Nature reserve opened on 20 July 2018 in Rosport.",
                   "category": "natural",
                   "coords": [
                         6.520073,
@@ -15216,7 +15477,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Burgruine Besch",
-                  "text": "The Burgruine Besch is a historic remain in Rosport.",
+                  "text": "The ruin of Besch castle, a medieval stronghold near Rosport.",
                   "category": "historical",
                   "coords": [
                         6.530851,
@@ -15225,7 +15486,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Reemerhof",
-                  "text": "Reemerhof is a regional arts and culture centre in Rosport.",
+                  "text": "A restored farmstead in Rosport, now a cultural center for local events.",
                   "category": "cultural",
                   "coords": [
                         6.504168,
@@ -15408,7 +15669,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "Eine dem heiligen Matthias geweihte Kirche in Saeul.",
+                  "text": "Saint-Mathias ist die katholische Pfarrkirche von Saeul mit einem markanten Kirchturm.",
                   "category": "religious",
                   "coords": [
                         6.021227,
@@ -15426,7 +15687,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Thomas",
-                  "text": "Eine christliche Kirche in Saeul, die dem heiligen Thomas gewidmet ist.",
+                  "text": "Saint-Thomas ist eine dem heiligen Thomas geweihte Kirche in Rippweiler (Saeul).",
                   "category": "religious",
                   "coords": [
                         5.956748,
@@ -15509,7 +15770,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "Szent Mátyásnak szentelt templom Saeulban.",
+                  "text": "Saint-Mathias a saeuli katolikus plébániatemplom, jellegzetes toronnyal.",
                   "category": "religious",
                   "coords": [
                         6.021227,
@@ -15527,7 +15788,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Thomas",
-                  "text": "Szent Tamásnak szentelt keresztény templom Saeulban.",
+                  "text": "Szent Tamás-templom Rippweilerben (Saeul).",
                   "category": "religious",
                   "coords": [
                         5.956748,
@@ -15610,7 +15871,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "O biserică dedicată Sfântului Matia în Saeul.",
+                  "text": "Saint-Mathias este biserica parohială catolică din Saeul, cu un turn proeminent.",
                   "category": "religious",
                   "coords": [
                         6.021227,
@@ -15628,7 +15889,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Thomas",
-                  "text": "O biserică creștină în Saeul, dedicată Sfântului Toma.",
+                  "text": "Biserica Sfântul Toma se află în Rippweiler, Saeul.",
                   "category": "religious",
                   "coords": [
                         5.956748,
@@ -15711,7 +15972,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "A church dedicated to Saint Matthias in Saeul.",
+                  "text": "Saint-Mathias is the Catholic parish church of Saeul with a prominent bell tower.",
                   "category": "religious",
                   "coords": [
                         6.021227,
@@ -15729,7 +15990,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Thomas",
-                  "text": "A Christian church in Saeul dedicated to Saint Thomas.",
+                  "text": "Saint-Thomas is a church dedicated to Saint Thomas in Rippweiler, Saeul.",
                   "category": "religious",
                   "coords": [
                         5.956748,
@@ -15831,7 +16092,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "de": [
             {
                   "name": "Menhir of Reckingen",
-                  "text": "Ein prähistorischer Menhir bei Reckingen.",
+                  "text": "Der Menhir von Reckingen ist ein prähistorischer Stehenden Stein aus der Jungsteinzeit bei Helperknapp.",
                   "category": "historical",
                   "coords": [
                         6.076031,
@@ -15840,7 +16101,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Wichtelslee",
-                  "text": "Eine sagenumwobene Felsformation.",
+                  "text": "Eine historische Stätte in Helperknapp, ein ehemaliger Rastplatz am alten Weg.",
                   "category": "historical",
                   "coords": [
                         6.0778,
@@ -15849,7 +16110,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Tumulus Bill - Römischer Grabhügel",
-                  "text": "Ein antikes Hügelgrab bei Bill.",
+                  "text": "Ein römischer Grabhügel namens Bill in Helperknapp.",
                   "category": "historical",
                   "coords": [
                         6.038399,
@@ -15858,7 +16119,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Fensterdall Zone B",
-                  "text": "Ein Teil eines geschützten Naturareals.",
+                  "text": "Zone B des Fensterdall-Naturschutzgebiets in Helperknapp mit Feuchtgebieten.",
                   "category": "natural",
                   "coords": [
                         6.037095,
@@ -15867,7 +16128,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Fensterdall Zone A",
-                  "text": "Ein wertvolles Feuchtbiotop unter Naturschutz.",
+                  "text": "Zone A des Fensterdall-Naturschutzgebiets in Helperknapp mit Waldwegen.",
                   "category": "natural",
                   "coords": [
                         6.035934,
@@ -15876,7 +16137,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Helperknapp",
-                  "text": "Ein historischer Hügel und bekannter Wallfahrtsort.",
+                  "text": "Der Helperknapp ist ein bewaldeter Hügel mit einem Aussichtsturm in der Luxemburger Ardennen.",
                   "category": "natural",
                   "coords": [
                         6.027439,
@@ -15885,7 +16146,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Die Dorfkirche von Buschdorf.",
+                  "text": "Saint-Jean-Baptiste ist eine dem heiligen Johannes dem Täufer geweihte Kirche in Bëschdref (Helperknapp).",
                   "category": "religious",
                   "coords": [
                         6.007704,
@@ -15894,7 +16155,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "Eine lokale Kirche in der Gemeinde Helperknapp.",
+                  "text": "Saint-Mathias ist eine katholische Kirche im ländlichen Helperknapp, dem heiligen Matthias geweiht.",
                   "category": "religious",
                   "coords": [
                         6.021227,
@@ -15903,7 +16164,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Eine christliche Kultstätte in der Region.",
+                  "text": "Saint-Hubert ist eine Kirche in Helperknapp, geweiht dem heiligen Hubertus, Schutzpatron der Jäger.",
                   "category": "religious",
                   "coords": [
                         6.082057,
@@ -15912,7 +16173,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Donatus-Weekapell",
-                  "text": "Eine kleine Kapelle am Wegesrand.",
+                  "text": "1940 erbaute Kapelle in Helperknapp.",
                   "category": "landmark",
                   "coords": [
                         6.016938,
@@ -15941,7 +16202,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "hu": [
             {
                   "name": "Menhir of Reckingen",
-                  "text": "Egy őskori menhir Reckingen közelében.",
+                  "text": "A reckingeni menhir egy újkőkori állókő Helperknapp közelében.",
                   "category": "historical",
                   "coords": [
                         6.076031,
@@ -15950,7 +16211,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Wichtelslee",
-                  "text": "Legendákkal övezett sziklaformáció.",
+                  "text": "Történelmi helyszín Helperknappban, egykori pihenőhely a régi úton.",
                   "category": "historical",
                   "coords": [
                         6.0778,
@@ -15959,7 +16220,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Tumulus Bill",
-                  "text": "Egy ókori halomsír Bill közelében.",
+                  "text": "Egy Bill nevű római sírhalom Helperknappban.",
                   "category": "historical",
                   "coords": [
                         6.038399,
@@ -15968,7 +16229,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Fensterdall Zone B",
-                  "text": "Egy védett természeti terület része.",
+                  "text": "A Fensterdall természetvédelmi terület B zónája Helperknappban, vizes élőhelyekkel.",
                   "category": "natural",
                   "coords": [
                         6.037095,
@@ -15977,7 +16238,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Fensterdall Zone A",
-                  "text": "Természetvédelmi oltalom alatt álló értékes vizes élőhely.",
+                  "text": "A Fensterdall természetvédelmi terület A zónája Helperknappban, erdei ösvényekkel.",
                   "category": "natural",
                   "coords": [
                         6.035934,
@@ -15986,7 +16247,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Helperknapp",
-                  "text": "Történelmi domb és ismert zarándokhely.",
+                  "text": "A Helperknapp egy erdős domb kilátótoronnyal a Luxemburgi Ardennekben.",
                   "category": "natural",
                   "coords": [
                         6.027439,
@@ -15995,7 +16256,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Buschdorf falusi temploma.",
+                  "text": "Keresztelő Szent János-templom Bëschdrefben (Helperknapp).",
                   "category": "religious",
                   "coords": [
                         6.007704,
@@ -16004,7 +16265,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "Helyi templom Helperknapp községben.",
+                  "text": "Saint-Mathias egy katolikus templom Helperknapp vidéki területén, Szent Mátyásnak szentelve.",
                   "category": "religious",
                   "coords": [
                         6.021227,
@@ -16013,7 +16274,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Keresztény templom a régióban.",
+                  "text": "Saint-Hubert egy templom Helperknappban, Szent Hubertusznak, a vadászok védőszentjének szentelve.",
                   "category": "religious",
                   "coords": [
                         6.082057,
@@ -16022,7 +16283,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Donatus-Weekapell",
-                  "text": "Egy kis útmenti kápolna.",
+                  "text": "1940-ben épült kápolna Helperknappban.",
                   "category": "landmark",
                   "coords": [
                         6.016938,
@@ -16051,7 +16312,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "ro": [
             {
                   "name": "Menhir of Reckingen",
-                  "text": "Un menhir preistoric lângă Reckange.",
+                  "text": "Menhirul de la Reckingen este o piatră verticală preistorică din neolitic lângă Helperknapp.",
                   "category": "historical",
                   "coords": [
                         6.076031,
@@ -16060,7 +16321,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Wichtelslee",
-                  "text": "O formațiune stâncoasă învăluită în legende.",
+                  "text": "Un sit istoric în Helperknapp, un fost loc de odihnă pe drumul vechi.",
                   "category": "historical",
                   "coords": [
                         6.0778,
@@ -16069,7 +16330,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Tumulus Bill",
-                  "text": "Un mormânt tumular antic lângă Bill.",
+                  "text": "Un tumul roman numit Bill în Helperknapp.",
                   "category": "historical",
                   "coords": [
                         6.038399,
@@ -16078,7 +16339,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Fensterdall Zone B",
-                  "text": "Parte a unei zone naturale protejate.",
+                  "text": "Zona B a rezervației naturale Fensterdall din Helperknapp, cu habitate umede.",
                   "category": "natural",
                   "coords": [
                         6.037095,
@@ -16087,7 +16348,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Fensterdall Zone A",
-                  "text": "Un biotop umed valoros, aflat sub protecție naturală.",
+                  "text": "Zona A a rezervației naturale Fensterdall din Helperknapp, cu trasee forestiere.",
                   "category": "natural",
                   "coords": [
                         6.035934,
@@ -16096,7 +16357,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Helperknapp",
-                  "text": "Un deal istoric și un cunoscut loc de pelerinaj.",
+                  "text": "Helperknapp este un deal împădurit cu un turn de observație în Ardenii luxemburghezi.",
                   "category": "natural",
                   "coords": [
                         6.027439,
@@ -16105,7 +16366,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "Biserica satului din Buschdorf.",
+                  "text": "Biserica Sfântul Ioan Botezătorul se află în Bëschdref, Helperknapp.",
                   "category": "religious",
                   "coords": [
                         6.007704,
@@ -16114,7 +16375,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "O biserică locală în comuna Helperknapp.",
+                  "text": "Saint-Mathias este o biserică catolică în Helperknapp rural, dedicată Sfântului Matia.",
                   "category": "religious",
                   "coords": [
                         6.021227,
@@ -16123,7 +16384,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "Un lăcaș de cult creștin în regiune.",
+                  "text": "Saint-Hubert este o biserică în Helperknapp, dedicată Sfântului Hubert, patronul vânătorilor.",
                   "category": "religious",
                   "coords": [
                         6.082057,
@@ -16132,7 +16393,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Donatus-Weekapell",
-                  "text": "O mică capelă la marginea drumului.",
+                  "text": "Capelă construită în 1940 în Helperknapp.",
                   "category": "landmark",
                   "coords": [
                         6.016938,
@@ -16161,7 +16422,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "en": [
             {
                   "name": "Menhir of Reckingen",
-                  "text": "A prehistoric menhir located near Reckange.",
+                  "text": "The Menhir of Reckingen is a prehistoric standing stone from the Neolithic near Helperknapp.",
                   "category": "historical",
                   "coords": [
                         6.076031,
@@ -16170,7 +16431,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Wichtelslee",
-                  "text": "A rock formation steeped in local legends.",
+                  "text": "A historical site in Helperknapp, a former wayside resting place.",
                   "category": "historical",
                   "coords": [
                         6.0778,
@@ -16179,7 +16440,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Tumulus Bill",
-                  "text": "An ancient burial mound located near Bill.",
+                  "text": "A Roman burial mound called Bill in Helperknapp.",
                   "category": "historical",
                   "coords": [
                         6.038399,
@@ -16188,7 +16449,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Fensterdall Zone B",
-                  "text": "Part of a protected natural area.",
+                  "text": "Zone B of the Fensterdall nature reserve in Helperknapp, with wetland habitats.",
                   "category": "natural",
                   "coords": [
                         6.037095,
@@ -16197,7 +16458,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Fensterdall Zone A",
-                  "text": "A valuable wetland habitat under nature protection.",
+                  "text": "Zone A of the Fensterdall nature reserve in Helperknapp, featuring woodland trails.",
                   "category": "natural",
                   "coords": [
                         6.035934,
@@ -16206,7 +16467,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Helperknapp",
-                  "text": "A historic hill and well-known pilgrimage site.",
+                  "text": "Helperknapp is a forested hill with an observation tower in the Luxembourg Ardennes.",
                   "category": "natural",
                   "coords": [
                         6.027439,
@@ -16215,7 +16476,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Jean-Baptiste",
-                  "text": "The village church of Buschdorf.",
+                  "text": "Saint-Jean-Baptiste is a church dedicated to John the Baptist in Bëschdref, Helperknapp.",
                   "category": "religious",
                   "coords": [
                         6.007704,
@@ -16224,7 +16485,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Mathias",
-                  "text": "A local church in the municipality of Helperknapp.",
+                  "text": "Saint-Mathias is a Catholic church in rural Helperknapp, dedicated to St Matthias.",
                   "category": "religious",
                   "coords": [
                         6.021227,
@@ -16233,7 +16494,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Hubert",
-                  "text": "A Christian place of worship in the region.",
+                  "text": "Saint-Hubert is a church in Helperknapp, dedicated to St Hubert, patron saint of hunters.",
                   "category": "religious",
                   "coords": [
                         6.082057,
@@ -16242,7 +16503,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Donatus-Weekapell",
-                  "text": "A small wayside chapel.",
+                  "text": "Chapel built in 1940 in Helperknapp.",
                   "category": "landmark",
                   "coords": [
                         6.016938,
@@ -16965,7 +17226,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "de": [
             {
                   "name": "Schloss Ansemburg",
-                  "text": "Ein Barockschloss mit prachtvollen Gartenanlagen.",
+                  "text": "Nouveau Château d'Ansembourg ist ein barockes Schloss im Ortsteil Ansembourg von Tuntange.",
                   "category": "castle",
                   "coords": [
                         6.046621,
@@ -16974,7 +17235,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Burg Hollenfels",
-                  "text": "Mittelalterliche Burg, die heute als Jugendherberge dient.",
+                  "text": "Château de Hollenfels ist eine mittelalterliche Burg in Hollenfels (Tuntange).",
                   "category": "castle",
                   "coords": [
                         6.051591,
@@ -17001,7 +17262,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Wichtelslee",
-                  "text": "Eine bemerkenswerte archäologische Stätte in der Nähe von Tuntange.",
+                  "text": "Eine historische Stätte in Tuntange, vermutlich ein traditionelles Wegkreuz oder eine Schutzhütte.",
                   "category": "historical",
                   "coords": [
                         6.0778,
@@ -17075,7 +17336,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "hu": [
             {
                   "name": "Nouveau Château d'Ansembourg",
-                  "text": "Egy barokk kastély pompás kertekkel.",
+                  "text": "Az új ansembourgi kastély egy barokk kastély Tuntange Ansembourg városrészében.",
                   "category": "castle",
                   "coords": [
                         6.046621,
@@ -17084,7 +17345,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Château de Hollenfels",
-                  "text": "Középkori vár, amely ma ifjúsági szállásként működik.",
+                  "text": "A Hollenfelsi kastély egy középkori vár Hollenfelsben (Tuntange).",
                   "category": "castle",
                   "coords": [
                         6.051591,
@@ -17111,7 +17372,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Wichtelslee",
-                  "text": "Figyelemre méltó régészeti lelőhely Tuntange közelében.",
+                  "text": "Történelmi helyszín Tuntange-ban, valószínűleg hagyományos útszéli kereszt vagy menedékhely.",
                   "category": "historical",
                   "coords": [
                         6.0778,
@@ -17185,7 +17446,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "ro": [
             {
                   "name": "Nouveau Château d'Ansembourg",
-                  "text": "Un castel baroc cu grădini splendide.",
+                  "text": "Noul Castel din Ansembourg este un castel baroc în cartierul Ansembourg din Tuntange.",
                   "category": "castle",
                   "coords": [
                         6.046621,
@@ -17194,7 +17455,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Château de Hollenfels",
-                  "text": "Castel medieval care astăzi servește drept hostel pentru tineret.",
+                  "text": "Castelul Hollenfels este un castel medieval în Hollenfels, Tuntange.",
                   "category": "castle",
                   "coords": [
                         6.051591,
@@ -17221,7 +17482,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Wichtelslee",
-                  "text": "Un sit arheologic remarcabil situat lângă Tuntange.",
+                  "text": "Un sit istoric în Tuntange, probabil o cruce tradițională de drum sau un adăpost.",
                   "category": "historical",
                   "coords": [
                         6.0778,
@@ -17295,7 +17556,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "en": [
             {
                   "name": "Nouveau Château d'Ansembourg",
-                  "text": "A Baroque castle known for its magnificent gardens.",
+                  "text": "Nouveau Château d'Ansembourg is a Baroque castle in the Ansembourg district of Tuntange.",
                   "category": "castle",
                   "coords": [
                         6.046621,
@@ -17304,7 +17565,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Château de Hollenfels",
-                  "text": "Medieval castle that now serves as a youth hostel.",
+                  "text": "Château de Hollenfels is a medieval castle in Hollenfels, Tuntange.",
                   "category": "castle",
                   "coords": [
                         6.051591,
@@ -17331,7 +17592,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Wichtelslee",
-                  "text": "A notable archaeological site near Tuntange.",
+                  "text": "A historic site in Tuntange, likely a traditional wayside cross or shelter.",
                   "category": "historical",
                   "coords": [
                         6.0778,
@@ -17487,7 +17748,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Hide Out FEB/JUN 1944",
-                  "text": "Überreste eines Verstecks aus dem Jahr 1944, das während des Krieges genutzt wurde.",
+                  "text": "Ein Versteck aus dem Zweiten Weltkrieg, genutzt im Februar und Juni 1944, in den Wäldern nahe Dahl.",
                   "category": "historical",
                   "coords": [
                         6.001002,
@@ -17541,7 +17802,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Eloi",
-                  "text": "Eine örtliche Kapelle oder Kirche, die dem heiligen Eligius gewidmet ist.",
+                  "text": "Saint-Eloi ist eine katholische Dorfkirche in Dahl mit einem sechseckigen Turmhelm.",
                   "category": "religious",
                   "coords": [
                         5.947791,
@@ -17568,7 +17829,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Thérèse de Lisieux",
-                  "text": "Eine kleine Kapelle zu Ehren der heiligen Therese von Lisieux.",
+                  "text": "Ein Denkmal zu Ehren der heiligen Thérèse von Lisieux in Dahl, vermutlich eine Statue oder kleine Kapelle.",
                   "category": "landmark",
                   "coords": [
                         5.977242,
@@ -17595,7 +17856,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Piscine KAUL",
-                  "text": "Ein Schwimmbad in Dahl, ideal für ein erfrischendes Bad.",
+                  "text": "Ein Familienbad in Dahl, betrieben von der Familie Kaul.",
                   "category": "family",
                   "coords": [
                         5.934229,
@@ -17642,7 +17903,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Hide Out FEB/JUN 1944",
-                  "text": "Egy 1944-es, a háború alatt használt rejtekhely maradványai.",
+                  "text": "Második világháborús rejtekhely, használva 1944 februárjában és júniusában, Dahl erdeiben.",
                   "category": "historical",
                   "coords": [
                         6.001002,
@@ -17696,7 +17957,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Eloi",
-                  "text": "Egy helyi kápolna vagy templom, amelyet Szent Elődiusnak szenteltek.",
+                  "text": "Saint-Eloi egy katolikus falusi templom Dahlban, hatszögletű toronysisakkal.",
                   "category": "religious",
                   "coords": [
                         5.947791,
@@ -17723,7 +17984,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Thérèse de Lisieux",
-                  "text": "Egy kis kápolna Lisieux-i Szent Teréz tiszteletére.",
+                  "text": "Egy emlékmű Szent Lisieux-i Teréz tiszteletére Dahlban, valószínűleg szobor vagy kis kápolna.",
                   "category": "landmark",
                   "coords": [
                         5.977242,
@@ -17750,7 +18011,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Piscine KAUL",
-                  "text": "Úszómedence Dahl területén, amely ideális egy frissítő fürdőzéshez.",
+                  "text": "Családi fürdő Dahlban, a Kaul család üzemeltetésében.",
                   "category": "family",
                   "coords": [
                         5.934229,
@@ -17797,7 +18058,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Hide Out FEB/JUN 1944",
-                  "text": "Rămășițele unui adăpost din 1944, folosit în timpul războiului.",
+                  "text": "Un ascunzător din al Doilea Război Mondial, folosit în februarie și iunie 1944, în pădurile de lângă Dahl.",
                   "category": "historical",
                   "coords": [
                         6.001002,
@@ -17851,7 +18112,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Eloi",
-                  "text": "O capelă sau biserică locală dedicată Sfântului Eligius.",
+                  "text": "Saint-Eloi este o biserică catolică de sat în Dahl, cu un turn cu fleșă hexagonală.",
                   "category": "religious",
                   "coords": [
                         5.947791,
@@ -17878,7 +18139,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Thérèse de Lisieux",
-                  "text": "O mică capelă în cinstea Sfintei Tereza de Lisieux.",
+                  "text": "Un monument dedicat Sfintei Thérèse de Lisieux în Dahl, probabil o statuie sau o capelă mică.",
                   "category": "landmark",
                   "coords": [
                         5.977242,
@@ -17905,7 +18166,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Piscine KAUL",
-                  "text": "O piscină în Dahl, ideală pentru o baie răcoritoare.",
+                  "text": "O piscină familială în Dahl, operată de familia Kaul.",
                   "category": "family",
                   "coords": [
                         5.934229,
@@ -17952,7 +18213,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Hide Out FEB/JUN 1944",
-                  "text": "Remains of a hideout from 1944 used during the war.",
+                  "text": "A World War II hideout used in February and June 1944, in the forests near Dahl.",
                   "category": "historical",
                   "coords": [
                         6.001002,
@@ -18006,7 +18267,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Eloi",
-                  "text": "A local chapel or church dedicated to Saint Eloi.",
+                  "text": "Saint-Eloi is a Catholic village church in Dahl with a hexagonal spire.",
                   "category": "religious",
                   "coords": [
                         5.947791,
@@ -18033,7 +18294,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Thérèse de Lisieux",
-                  "text": "A small chapel in honor of Saint Thérèse of Lisieux.",
+                  "text": "A landmark dedicated to Saint Thérèse of Lisieux in Dahl, likely a statue or small chapel.",
                   "category": "landmark",
                   "coords": [
                         5.977242,
@@ -18060,7 +18321,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Piscine KAUL",
-                  "text": "A swimming pool in Dahl, ideal for a refreshing swim.",
+                  "text": "A family swimming pool in Dahl, operated by the Kaul family.",
                   "category": "family",
                   "coords": [
                         5.934229,
@@ -18783,7 +19044,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Mittelalterburg Beaufort",
-                  "text": "Die Burg Beaufort ist eine mittelalterliche Festungsruine in der Region Müllerthal.",
+                  "text": "Die mittelalterliche Burg Beaufort besteht aus einer Ruine mit Bergfried aus dem 12. Jahrhundert und einem Renaissanceschloss.",
                   "category": "castle",
                   "coords": [
                         6.286599,
@@ -18792,7 +19053,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schmittenkreuz",
-                  "text": "Schmittenkreuz ist eine historische Fundstätte in der Umgebung von Beaufort.",
+                  "text": "Ein historisches Wegekreuz (Schmittenkreuz) aus Sandstein in Beaufort.",
                   "category": "historical",
                   "coords": [
                         6.323106,
@@ -18819,7 +19080,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Elteschmuer",
-                  "text": "Elteschmuer ist ein geschütztes Naturareal in der Nähe von Beaufort.",
+                  "text": "Ein Feuchtgebiet (Elteschmuer) in Beaufort, bekannt für seine Vogelwelt.",
                   "category": "natural",
                   "coords": [
                         6.260856,
@@ -18866,7 +19127,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Buerg Beefort",
-                  "text": "Beaufort vára egy középkori erődítményrom a Müllerthal régióban.",
+                  "text": "A beauforti középkori vár egy 12. századi donjon romjából és egy reneszánsz kastélyból áll.",
                   "category": "castle",
                   "coords": [
                         6.286599,
@@ -18875,7 +19136,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schmittenkreuz",
-                  "text": "Schmittenkreuz egy történelmi lelőhely Beaufort környékén.",
+                  "text": "Történelmi útszéli kereszt (Schmittenkreuz) homokkőből Beaufortban.",
                   "category": "historical",
                   "coords": [
                         6.323106,
@@ -18902,7 +19163,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Elteschmuer",
-                  "text": "Elteschmuer egy védett természeti terület Beaufort közelében.",
+                  "text": "Vizes élőhely (Elteschmuer) Beaufortban, madárvilágáról ismert.",
                   "category": "natural",
                   "coords": [
                         6.260856,
@@ -18949,7 +19210,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Buerg Beefort",
-                  "text": "Castelul Beaufort este o ruină de fortăreață medievală din regiunea Müllerthal.",
+                  "text": "Castelul medieval Beaufort constă din ruinele unui donjon din secolul al XII-lea și un conac renascentist.",
                   "category": "castle",
                   "coords": [
                         6.286599,
@@ -18958,7 +19219,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schmittenkreuz",
-                  "text": "Schmittenkreuz este un sit istoric situat în împrejurimile localității Beaufort.",
+                  "text": "O cruce istorică de drum (Schmittenkreuz) din gresie în Beaufort.",
                   "category": "historical",
                   "coords": [
                         6.323106,
@@ -18985,7 +19246,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Elteschmuer",
-                  "text": "Elteschmuer este o arie naturală protejată situată în apropiere de Beaufort.",
+                  "text": "O zonă umedă (Elteschmuer) în Beaufort, cunoscută pentru păsări.",
                   "category": "natural",
                   "coords": [
                         6.260856,
@@ -19032,7 +19293,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Beaufort Medieval Castle",
-                  "text": "Beaufort Castle is a medieval fortress ruin located in the Mullerthal region.",
+                  "text": "Beaufort Medieval Castle consists of a ruined 12th-century keep and a Renaissance château.",
                   "category": "castle",
                   "coords": [
                         6.286599,
@@ -19041,7 +19302,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Schmittenkreuz",
-                  "text": "Schmittenkreuz is a historical site located in the surroundings of Beaufort.",
+                  "text": "A historical wayside cross (Schmittenkreuz) made of sandstone in Beaufort.",
                   "category": "historical",
                   "coords": [
                         6.323106,
@@ -19068,7 +19329,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Elteschmuer",
-                  "text": "Elteschmuer is a protected natural area located near Beaufort.",
+                  "text": "A wetland area (Elteschmuer) in Beaufort, known for its birdlife.",
                   "category": "natural",
                   "coords": [
                         6.260856,
@@ -19476,7 +19737,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Rochuskapell",
-                  "text": "Eine kleine Kapelle in Goeblingen, die nach dem Heiligen Rochus benannt ist.",
+                  "text": "Rochuskapell ist eine dem heiligen Rochus geweihte Kapelle in Giewel (Goeblange).",
                   "category": "religious",
                   "coords": [
                         5.963946,
@@ -19568,7 +19829,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Rochuskapell",
-                  "text": "Egy Szent Rókusnak szentelt kis kápolna Goeblingenben.",
+                  "text": "A Rochus-kápolna Szent Rókusnak szentelt kápolna Giewelben (Goeblange).",
                   "category": "religious",
                   "coords": [
                         5.963946,
@@ -19660,7 +19921,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Rochuskapell",
-                  "text": "O mică capelă din Goeblingen, numită după Sfântul Rochus.",
+                  "text": "Rochuskapell este o capelă dedicată Sfântului Rochus în Giewel, Goeblange.",
                   "category": "religious",
                   "coords": [
                         5.963946,
@@ -19752,7 +20013,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Rochuskapell",
-                  "text": "A small chapel in Goeblingen named after Saint Roch.",
+                  "text": "Rochuskapell is a chapel dedicated to Saint Roch in Giewel, Goeblange.",
                   "category": "religious",
                   "coords": [
                         5.963946,
@@ -19809,7 +20070,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "de": [
             {
                   "name": "Schloss Meysembourg",
-                  "text": "Ein malerisches Schloss in der Gemeinde Fels, in der Nähe von Heffingen.",
+                  "text": "Meysembourg Castle ist ein Schloss im Ortsteil Meysembourg von Heffingen.",
                   "category": "castle",
                   "coords": [
                         6.188932,
@@ -19827,7 +20088,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Ronnheck",
-                  "text": "Ein geschütztes Naturschutzgebiet in der Nähe von Heffingen.",
+                  "text": "Ein bewaldeter Höhenrücken (Ronnheck) in Heffingen, beliebt zum Wandern.",
                   "category": "natural",
                   "coords": [
                         6.251544,
@@ -19899,7 +20160,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Barbe",
-                  "text": "Eine kleine, der heiligen Barbara geweihte Kapelle in Ernzen.",
+                  "text": "Saint-Barbe ist eine der heiligen Barbara geweihte Kapelle in Iernzen (Heffingen).",
                   "category": "religious",
                   "coords": [
                         6.220679,
@@ -19917,7 +20178,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Donat",
-                  "text": "Eine örtliche Gebetsstätte, die dem heiligen Donatus geweiht ist.",
+                  "text": "Saint-Donat ist eine katholische Kirche auf einer Anhöhe in Heffingen.",
                   "category": "religious",
                   "coords": [
                         6.220591,
@@ -19937,7 +20198,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "hu": [
             {
                   "name": "Château de Meysembourg",
-                  "text": "Egy festői kastély Larochette községben, Heffingen közelében.",
+                  "text": "A Meysembourg kastély Heffingen Meysembourg városrészében található.",
                   "category": "castle",
                   "coords": [
                         6.188932,
@@ -19955,7 +20216,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Ronnheck",
-                  "text": "Védett természetvédelmi terület Heffingen közelében.",
+                  "text": "Erdős gerinc (Ronnheck) Heffingenben, népszerű túrázáshoz.",
                   "category": "natural",
                   "coords": [
                         6.251544,
@@ -20027,7 +20288,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Barbe",
-                  "text": "Szent Borbálának szentelt kis kápolna Ernzenben.",
+                  "text": "Szent Borbála-kápolna Iernzenben (Heffingen).",
                   "category": "religious",
                   "coords": [
                         6.220679,
@@ -20045,7 +20306,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Donat",
-                  "text": "Szent Donátnak szentelt helyi templom.",
+                  "text": "Saint-Donat egy katolikus templom egy dombon Heffingenben.",
                   "category": "religious",
                   "coords": [
                         6.220591,
@@ -20065,7 +20326,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "ro": [
             {
                   "name": "Château de Meysembourg",
-                  "text": "Un castel pitoresc situat în comuna Larochette, lângă Heffingen.",
+                  "text": "Castelul Meysembourg este un castel în cartierul Meysembourg din Heffingen.",
                   "category": "castle",
                   "coords": [
                         6.188932,
@@ -20083,7 +20344,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Ronnheck",
-                  "text": "O rezervație naturală protejată lângă Heffingen.",
+                  "text": "O creastă împădurită (Ronnheck) în Heffingen, populară pentru drumeții.",
                   "category": "natural",
                   "coords": [
                         6.251544,
@@ -20155,7 +20416,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Barbe",
-                  "text": "O mică capelă dedicată Sfintei Varvara în Ernzen.",
+                  "text": "Saint-Barbe este o capelă dedicată Sfintei Barbara în Iernzen, Heffingen.",
                   "category": "religious",
                   "coords": [
                         6.220679,
@@ -20173,7 +20434,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Donat",
-                  "text": "Un lăcaș de cult local dedicat Sfântului Donat.",
+                  "text": "Saint-Donat este o biserică catolică pe o colină în Heffingen.",
                   "category": "religious",
                   "coords": [
                         6.220591,
@@ -20193,7 +20454,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
       "en": [
             {
                   "name": "Meysembourg Castle",
-                  "text": "A picturesque castle located in the municipality of Larochette, near Heffingen.",
+                  "text": "Meysembourg Castle is a castle in the Meysembourg district of Heffingen.",
                   "category": "castle",
                   "coords": [
                         6.188932,
@@ -20211,7 +20472,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Ronnheck",
-                  "text": "A protected nature reserve area near Heffingen.",
+                  "text": "A wooded ridge (Ronnheck) in Heffingen, popular for hiking.",
                   "category": "natural",
                   "coords": [
                         6.251544,
@@ -20283,7 +20544,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Barbe",
-                  "text": "A small chapel dedicated to Saint Barbara in Ernzen.",
+                  "text": "Saint-Barbe is a chapel dedicated to Saint Barbara in Iernzen, Heffingen.",
                   "category": "religious",
                   "coords": [
                         6.220679,
@@ -20301,7 +20562,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Donat",
-                  "text": "A local place of worship dedicated to Saint Donatus.",
+                  "text": "Saint-Donat is a Catholic church on a hill in Heffingen.",
                   "category": "religious",
                   "coords": [
                         6.220591,
@@ -20430,7 +20691,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Donat",
-                  "text": "Ein kleines Sakralbauwerk, das dem heiligen Donatus gewidmet ist.",
+                  "text": "Saint-Donat ist eine Kapelle in Medernach mit einem barocken Altar.",
                   "category": "religious",
                   "coords": [
                         6.220591,
@@ -20549,7 +20810,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Donat",
-                  "text": "Egy kis vallási épület, amelyet Szent Donátnak szenteltek.",
+                  "text": "Saint-Donat egy kápolna Medernachban, barokk oltárral.",
                   "category": "religious",
                   "coords": [
                         6.220591,
@@ -20668,7 +20929,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Donat",
-                  "text": "Un mic edificiu religios dedicat Sfântului Donat.",
+                  "text": "Saint-Donat este o capelă în Medernach cu un altar baroc.",
                   "category": "religious",
                   "coords": [
                         6.220591,
@@ -20787,7 +21048,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
             },
             {
                   "name": "Saint-Donat",
-                  "text": "A small religious building dedicated to Saint Donatus.",
+                  "text": "Saint-Donat is a chapel in Medernach with a Baroque altar.",
                   "category": "religious",
                   "coords": [
                         6.220591,

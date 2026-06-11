@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraTurkmenistanLandmarksV2: POI[] = [
   {
-    id: "tm-darvaza-gas-crater-landmarks-v2",
+    id: "tm-darvaza-gas-crater-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Derweze şäherçesi",
+                  "text": "Überreste einer verlassenen Siedlung in der Wüste nahe dem brennenden Gaskrater von Darvaza.",
+                  "category": "historical",
+                  "coords": [
+                        58.408371,
+                        40.176499
+                  ]
+            },
+            {
+                  "name": "Viewpoint of mud crater",
+                  "text": "Ein Aussichtspunkt, der einen Blick auf einen brodelnden Schlammkrater in der Wüste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        58.411491,
+                        40.168126
+                  ]
+            },
+            {
+                  "name": "Krater von Derweze",
+                  "text": "Ein natürliches Gasfeld in der Wüste, das seit 1971 kontinuierlich brennt und als „Tor zur Hölle“ bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        58.439598,
+                        40.252538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Derweze şäherçesi",
+                  "text": "Egy elhagyatott sivatagi település maradványai a darvazai gázkráter közelében.",
+                  "category": "historical",
+                  "coords": [
+                        58.408371,
+                        40.176499
+                  ]
+            },
+            {
+                  "name": "Viewpoint of mud crater",
+                  "text": "Kilátóhely, ahonnan rálátás nyílik egy bugyogó sivatagi iszapkrüterre.",
+                  "category": "natural",
+                  "coords": [
+                        58.411491,
+                        40.168126
+                  ]
+            },
+            {
+                  "name": "Darvaza (Derweze) Fire Crater - Gateway to Hell",
+                  "text": "Sivatagi földgázmező, amely 1971 óta folyamatosan ég, és „Pokol kapuja” néven ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.439598,
+                        40.252538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Derweze şäherçesi",
+                  "text": "Rămășițele unei așezări de deșert abandonate lângă craterul de gaz de la Darvaza.",
+                  "category": "historical",
+                  "coords": [
+                        58.408371,
+                        40.176499
+                  ]
+            },
+            {
+                  "name": "Viewpoint of mud crater",
+                  "text": "Un punct de observație care oferü o vedere asupra unui crater de noroi clocotitor din deșert.",
+                  "category": "natural",
+                  "coords": [
+                        58.411491,
+                        40.168126
+                  ]
+            },
+            {
+                  "name": "Darvaza (Derweze) Fire Crater - Gateway to Hell",
+                  "text": "Un câmp de gaze naturale din deșert care arde continuu din 1971, cunoscut sub numele de „Poarta Iadului”.",
+                  "category": "landmark",
+                  "coords": [
+                        58.439598,
+                        40.252538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Derweze şäherçesi",
+                  "text": "Remains of an abandoned desert settlement near the Darvaza gas crater.",
+                  "category": "historical",
+                  "coords": [
+                        58.408371,
+                        40.176499
+                  ]
+            },
+            {
+                  "name": "Viewpoint of mud crater",
+                  "text": "A viewpoint offering a look at a bubbling desert mud crater.",
+                  "category": "natural",
+                  "coords": [
+                        58.411491,
+                        40.168126
+                  ]
+            },
+            {
+                  "name": "Darvaza gas crater",
+                  "text": "A natural gas field in the desert that has been burning continuously since 1971, known as the 'Door to Hell'.",
+                  "category": "landmark",
+                  "coords": [
+                        58.439598,
+                        40.252538
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TM-A",
     coords: [58.4397, 40.2525],
@@ -67,7 +184,304 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-independence-monument-landmarks-v2",
+    id: "tm-independence-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ýanarda binasy",
+                  "text": "Eine Bronzestatue in Aşgabat zu Ehren der Achal-Tekkiner-Pferderasse mit dem berühmten Hengst Yanardag.",
+                  "category": "historical",
+                  "coords": [
+                        58.385141,
+                        37.853404
+                  ]
+            },
+            {
+                  "name": "Nebit-gaz Medeni-Işewürlik Merkezi",
+                  "text": "Ein markantes modernes Theater und Kulturzentrum in Aşgabat, das den auf Energie basierenden Wohlstand der Nation widerspiegelt.",
+                  "category": "cultural",
+                  "coords": [
+                        58.392594,
+                        37.892299
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein großes Freilichttheater in Aşgabat, das für kulturelle Großveranstaltungen und festliche Nationalfeiern konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        58.380833,
+                        37.888103
+                  ]
+            },
+            {
+                  "name": "Ruhnama Monument",
+                  "text": "Eine riesige Nachbildung des Buches „Ruhnama“ in Aşgabat, dessen Einband sich früher jeden Abend öffnete.",
+                  "category": "landmark",
+                  "coords": [
+                        58.379078,
+                        37.888233
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Monument",
+                  "text": "Eine goldene Statue in Aşgabat, die dem ersten Präsidenten des unabhängigen Turkmenistans gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        58.378916,
+                        37.881234
+                  ]
+            },
+            {
+                  "name": "Garaşsyzlyk Binasy",
+                  "text": "Ein 91 Meter hoher weißer Marmorturm in Aşgabat mit einer goldenen Mondsichel an der Spitze, umgeben von Heldenstatuen.",
+                  "category": "historical",
+                  "coords": [
+                        58.382349,
+                        37.881178
+                  ]
+            },
+            {
+                  "name": "Mukamlar Merkezi",
+                  "text": "Ein luxuriöser Konzertsaal in Aşgabat, der für seine großartige Architektur bekannt ist und das Staatliche Sinfonieorchester beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        58.383157,
+                        37.877563
+                  ]
+            },
+            {
+                  "name": "Ak Bugdaý binasy",
+                  "text": "Ein einzigartiges Denkmal in Aşgabat, das die Entdeckung alter Weizensamen in der Region feiert.",
+                  "category": "historical",
+                  "coords": [
+                        58.422429,
+                        37.878017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ýanarda binasy",
+                  "text": "Bronzszobor Asgabatban az ahal-teke lófajta tiszteletére, a híres Yanardag ménnel.",
+                  "category": "historical",
+                  "coords": [
+                        58.385141,
+                        37.853404
+                  ]
+            },
+            {
+                  "name": "Nebit-gaz Medeni-Işewürlik Merkezi",
+                  "text": "Jellegzetes modern színház és kulturális központ Asgabatban, amely a nemzet energiaalapú jólétét tükrözi.",
+                  "category": "cultural",
+                  "coords": [
+                        58.392594,
+                        37.892299
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Nagy szabadtéri színház Asgabatban, amelyet nagyszabású kulturális eseményekre és ünnepi nemzeti ünnepségekre terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        58.380833,
+                        37.888103
+                  ]
+            },
+            {
+                  "name": "Ruhnama Monument",
+                  "text": "A „Ruhnama” című könyv óriási másolata Asgabatban, amelynek borítója régebben minden este kinyílt.",
+                  "category": "landmark",
+                  "coords": [
+                        58.379078,
+                        37.888233
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Monument",
+                  "text": "Arany szobor Asgabatban, amelyet a független Türkmenisztán első elnökének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        58.378916,
+                        37.881234
+                  ]
+            },
+            {
+                  "name": "Garaşsyzlyk Binasy",
+                  "text": "91 méter magas fehér márványtorony Asgabatban, tetején arany félholddal, hősök szobraival körülvéve.",
+                  "category": "historical",
+                  "coords": [
+                        58.382349,
+                        37.881178
+                  ]
+            },
+            {
+                  "name": "Mukamlar Merkezi",
+                  "text": "Luxus koncertterem Asgabatban, amely nagyszerű építészetéről ismert, és az Állami Szimfonikus Zenekarnak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        58.383157,
+                        37.877563
+                  ]
+            },
+            {
+                  "name": "Ak Bugdaý binasy",
+                  "text": "Egyedülálló emlékmű Asgabatban, amely a régióban talált ősi búzamagok felfedezését hirdeti.",
+                  "category": "historical",
+                  "coords": [
+                        58.422429,
+                        37.878017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ýanarda binasy",
+                  "text": "O statuie de bronz în Așgabat care celebrează rasa de cai Akhal-Teke, înfățișându-l pe celebrul armăsar Yanardag.",
+                  "category": "historical",
+                  "coords": [
+                        58.385141,
+                        37.853404
+                  ]
+            },
+            {
+                  "name": "Nebit-gaz Medeni-Işewürlik Merkezi",
+                  "text": "Un teatru modern și un centru cultural distinctiv în Așgabat, care reflectă prosperitatea bazată pe energie a națiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        58.392594,
+                        37.892299
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Un mare teatru în aer liber din Așgabat, conceput pentru evenimente culturale de amploare și sărbători naționale festive.",
+                  "category": "cultural",
+                  "coords": [
+                        58.380833,
+                        37.888103
+                  ]
+            },
+            {
+                  "name": "Ruhnama Monument",
+                  "text": "O replică uriașă a cărții „Ruhnama” din Așgabat, care obișnuia să-și deschidă coperta în fiecare seară.",
+                  "category": "landmark",
+                  "coords": [
+                        58.379078,
+                        37.888233
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Monument",
+                  "text": "O statuie aurită în Așgabat dedicată primului președinte al Turkmenistanului independent.",
+                  "category": "landmark",
+                  "coords": [
+                        58.378916,
+                        37.881234
+                  ]
+            },
+            {
+                  "name": "Garaşsyzlyk Binasy",
+                  "text": "Un turn de marmură albă de 91 de metri înălțime în Așgabat, încununat cu o semilună aurie și înconjurat de statui de eroi.",
+                  "category": "historical",
+                  "coords": [
+                        58.382349,
+                        37.881178
+                  ]
+            },
+            {
+                  "name": "Mukamlar Merkezi",
+                  "text": "O sală de concerte luxoasă în Așgabat, cunoscută pentru arhitectura sa grandioasă și pentru găzduirea Orchestrei Simfonice de Stat.",
+                  "category": "cultural",
+                  "coords": [
+                        58.383157,
+                        37.877563
+                  ]
+            },
+            {
+                  "name": "Ak Bugdaý binasy",
+                  "text": "Un monument unic în Așgabat care celebrează descoperirea semințelor de grâu antice în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        58.422429,
+                        37.878017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yanardag (Horse Monument)",
+                  "text": "A bronze statue in Ashgabat celebrating the Akhal-Teke horse breed, featuring the famous stallion Yanardag.",
+                  "category": "historical",
+                  "coords": [
+                        58.385141,
+                        37.853404
+                  ]
+            },
+            {
+                  "name": "Oil and Gas Cultural Commercial Center",
+                  "text": "A distinctive modern theatre and cultural hub in Ashgabat reflecting the nation's energy-based prosperity.",
+                  "category": "cultural",
+                  "coords": [
+                        58.392594,
+                        37.892299
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "A grand open-air theatre in Ashgabat designed for large-scale cultural events and festive national celebrations.",
+                  "category": "cultural",
+                  "coords": [
+                        58.380833,
+                        37.888103
+                  ]
+            },
+            {
+                  "name": "Ruhnama Monument",
+                  "text": "A giant replica of the book \"Ruhnama\" in Ashgabat, which used to open its cover every evening.",
+                  "category": "landmark",
+                  "coords": [
+                        58.379078,
+                        37.888233
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Monument",
+                  "text": "A golden statue in Ashgabat dedicated to the first president of independent Turkmenistan.",
+                  "category": "landmark",
+                  "coords": [
+                        58.378916,
+                        37.881234
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "A 91-metre tall white marble tower in Ashgabat topped with a golden crescent and surrounded by statues of heroes.",
+                  "category": "historical",
+                  "coords": [
+                        58.382349,
+                        37.881178
+                  ]
+            },
+            {
+                  "name": "Mukam Palace",
+                  "text": "A luxurious concert hall in Ashgabat known for its grand architecture and hosting the State Symphony Orchestra.",
+                  "category": "cultural",
+                  "coords": [
+                        58.383157,
+                        37.877563
+                  ]
+            },
+            {
+                  "name": "White Wheat Monument",
+                  "text": "A unique monument in Ashgabat celebrating the discovery of ancient wheat seeds in the region.",
+                  "category": "historical",
+                  "coords": [
+                        58.422429,
+                        37.878017
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TM-S",
     coords: [58.3808, 37.8808],
@@ -131,7 +545,88 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-neutrality-monument-landmarks-v2",
+    id: "tm-neutrality-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Welosiped Binasy",
+                  "text": "Eine riesige, farbenfrohe Skulptur eines Fahrrads in Aşgabat, die 2020 zum Weltfahrradtag eingeweiht wurde.",
+                  "category": "historical",
+                  "coords": [
+                        58.285838,
+                        37.889644
+                  ]
+            },
+            {
+                  "name": "Magtymguly ýadygärligi",
+                  "text": "Eine markante Statue in Aşgabat zu Ehren des Nationaldichters und Philosophen Magtymguly Pyragy aus dem 18. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        58.242661,
+                        37.885131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Welosiped Binasy",
+                  "text": "Egy óriási színes kerékpárszobor Asgabatban, amelyet 2020-ban, a Kerékpáros Világnapon avattak fel.",
+                  "category": "historical",
+                  "coords": [
+                        58.285838,
+                        37.889644
+                  ]
+            },
+            {
+                  "name": "Magtymguly ýadygärligi",
+                  "text": "Jelentős szobor Asgabatban, amely a 18. századi nemzeti költő és filozófus, Magtymguly Pyragy előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        58.242661,
+                        37.885131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Welosiped Binasy",
+                  "text": "O sculptură colorată uriașă a unei biciclete în Așgabat, inaugurată de Ziua Mondială a Bicicletei în 2020.",
+                  "category": "historical",
+                  "coords": [
+                        58.285838,
+                        37.889644
+                  ]
+            },
+            {
+                  "name": "Magtymguly ýadygärligi",
+                  "text": "O statuie proeminentă în Așgabat care îl onorează pe poetul și filozoful național din secolul al XVIII-lea Magtymguly Pyragy.",
+                  "category": "historical",
+                  "coords": [
+                        58.242661,
+                        37.885131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bicycle Monument",
+                  "text": "A giant colourful sculpture of a bicycle in Ashgabat, inaugurated on World Bicycle Day in 2020.",
+                  "category": "historical",
+                  "coords": [
+                        58.285838,
+                        37.889644
+                  ]
+            },
+            {
+                  "name": "Magtymguly Monument",
+                  "text": "A prominent statue in Ashgabat honoring the 18th-century national poet and philosopher Magtymguly Pyragy.",
+                  "category": "historical",
+                  "coords": [
+                        58.242661,
+                        37.885131
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TM-S",
     coords: [58.3308, 37.8802],
@@ -195,7 +690,160 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-ruhy-mosque-landmarks-v2",
+    id: "tm-ruhy-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gypjak Medeniýet Öýi",
+                  "text": "Dieses Gemeindetheater und Kulturzentrum veranstaltet Bürgerfeste und Aufführungen für die Einwohner von Gypjak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.261475,
+                        38.026406
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Monument",
+                  "text": "Dieses markante Denkmal in Gypjak steht als Tribut an Saparmurat Nijasow, den ersten Präsidenten Turkmenistans.",
+                  "category": "landmark",
+                  "coords": [
+                        58.26081,
+                        38.021038
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Ruhy Metjidi",
+                  "text": "Diese riesige, von dem Architekten Robert Bellon entworfene und am 22. Oktober 2004 eröffnete Moschee in Gypjak bietet Platz für Tausende von Gläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        58.252801,
+                        38.017877
+                  ]
+            },
+            {
+                  "name": "Gurbansoltan Eje Memorial",
+                  "text": "Diese Gedenkstätte in Gypjak ist Gurbansoltan Eje, der Mutter des ersten Präsidenten Turkmenistans, gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        58.25004,
+                        38.020749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gypjak Medeniýet Öýi",
+                  "text": "Ez a közösségi színház és kulturális központ polgári eseményeknek és előadásoknak ad otthont Gypjak lakói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        58.261475,
+                        38.026406
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Monument",
+                  "text": "Ez a kiemelkedő gypjaki emlékmű Saparmurat Niyazov, Türkmenisztán első elnöke előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        58.26081,
+                        38.021038
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Ruhy Metjidi",
+                  "text": "A Robert Bellon építész által tervezett és 2004. október 22-én megnyitott hatalmas gypjaki mecset több ezer hívő befogadására alkalmas.",
+                  "category": "religious",
+                  "coords": [
+                        58.252801,
+                        38.017877
+                  ]
+            },
+            {
+                  "name": "Gurbansoltan Eje Memorial",
+                  "text": "Ezt a gypjaki emlékhelyet Gurbansoltan Ejének, Türkmenisztán első elnöke édesanyjának szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        58.25004,
+                        38.020749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gypjak Medeniýet Öýi",
+                  "text": "Acest teatru comunitar și centru cultural găzduiește evenimente civice și spectacole pentru locuitorii din Gypjak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.261475,
+                        38.026406
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Monument",
+                  "text": "Acest memorial proeminent din Gypjak este un tribut adus lui Saparmurat Niyazov, primul președinte al Turkmenistanului.",
+                  "category": "landmark",
+                  "coords": [
+                        58.26081,
+                        38.021038
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Ruhy Metjidi",
+                  "text": "Proiectată de arhitectul Robert Bellon și deschisă la 22 octombrie 2004, această moschee masivă din Gypjak poate găzdui mii de credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        58.252801,
+                        38.017877
+                  ]
+            },
+            {
+                  "name": "Gurbansoltan Eje Memorial",
+                  "text": "Acest sit comemorativ din Gypjak este dedicat lui Gurbansoltan Eje, mama primului președinte al Turkmenistanului.",
+                  "category": "landmark",
+                  "coords": [
+                        58.25004,
+                        38.020749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gypjak Medeniýet Öýi",
+                  "text": "This community theater and cultural hub hosts civic events and performances for the residents of Gypjak.",
+                  "category": "cultural",
+                  "coords": [
+                        58.261475,
+                        38.026406
+                  ]
+            },
+            {
+                  "name": "Türkmenbaşy Monument",
+                  "text": "This prominent memorial in Gypjak stands as a tribute to Saparmurat Niyazov, the first President of Turkmenistan.",
+                  "category": "landmark",
+                  "coords": [
+                        58.26081,
+                        38.021038
+                  ]
+            },
+            {
+                  "name": "Turkmenbashy Mosque",
+                  "text": "Designed by architect Robert Bellon and opened on October 22, 2004, this massive mosque in Gypjak can accommodate thousands of worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        58.252801,
+                        38.017877
+                  ]
+            },
+            {
+                  "name": "Gurbansoltan Eje Memorial",
+                  "text": "This commemorative site in Gypjak is dedicated to Gurbansoltan Eje, the mother of the first President of Turkmenistan.",
+                  "category": "landmark",
+                  "coords": [
+                        58.25004,
+                        38.020749
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TM-A",
     coords: [58.2505, 38.0163],
@@ -259,7 +907,520 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-ertugrul-gazi-mosque-landmarks-v2",
+    id: "tm-ertugrul-gazi-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nury Halmammedov Memorial",
+                  "text": "Dieses Denkmal erinnert an den bedeutenden turkmenischen Komponisten Nury Halmämmedow und ehrt sein musikalisches Vermächtnis.",
+                  "category": "historical",
+                  "coords": [
+                        58.423917,
+                        37.915303
+                  ]
+            },
+            {
+                  "name": "Döredjilik binasy",
+                  "text": "Dieses architektonische Denkmal symbolisiert die schöpferische Kraft und den Geist der Kreativität in der Hauptstadtregion.",
+                  "category": "historical",
+                  "coords": [
+                        58.404253,
+                        37.944154
+                  ]
+            },
+            {
+                  "name": "Erkanalyk binasy",
+                  "text": "Dieses hoch aufragende Monument steht als Wahrzeichen für die nationale Souveränität und den Freiheitswillen Turkmenistans.",
+                  "category": "historical",
+                  "coords": [
+                        58.397943,
+                        37.93684
+                  ]
+            },
+            {
+                  "name": "Ärtogrulgazy metjidi",
+                  "text": "Diese vom Architekten Hilmi Şenalp entworfene Moschee im osmanischen Stil beeindruckt mit ihren vier markanten, weißen Minaretten.",
+                  "category": "religious",
+                  "coords": [
+                        58.398976,
+                        37.932919
+                  ]
+            },
+            {
+                  "name": "Alaw binasy",
+                  "text": "Dieses markante Monument ist in Form einer lodernden Flamme gestaltet und wird in den Abendstunden oft beleuchtet.",
+                  "category": "historical",
+                  "coords": [
+                        58.394792,
+                        37.933284
+                  ]
+            },
+            {
+                  "name": "Öşüş binasy",
+                  "text": "Diese abstrakte Skulptur repräsentiert das stetige Wachstum und die wirtschaftliche Prosperität der modernen Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        58.391855,
+                        37.928575
+                  ]
+            },
+            {
+                  "name": "Azady Metjit",
+                  "text": "Diese elegante muslimische Gebetsstätte besticht durch ihre Fassade aus weißem Marmor und traditionelle islamische Architekturelemente.",
+                  "category": "landmark",
+                  "coords": [
+                        58.408673,
+                        37.94798
+                  ]
+            },
+            {
+                  "name": "Hezreti Osman Metjit",
+                  "text": "Diese lokale Moschee dient der Nachbarschaft als ruhiger Ort für das tägliche Gebet und gemeinschaftliche religiöse Treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        58.431352,
+                        37.918955
+                  ]
+            },
+            {
+                  "name": "Genji Hazyna Bazar",
+                  "text": "Ein lebhafter Marktplatz, der besonders für seine Auswahl an traditionellen handgewebten Textilien und lokalem Kunsthandwerk bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        58.418367,
+                        37.944079
+                  ]
+            },
+            {
+                  "name": "Lälezar Bazary",
+                  "text": "Dieser Basar ist ein beliebter Anlaufpunkt für den Kauf von frischem Obst, Gemüse und regionaltypischen Backwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        58.414182,
+                        37.920116
+                  ]
+            },
+            {
+                  "name": "Gul Bazary",
+                  "text": "Dieser spezialisierte Markt ist berühmt für seine farbenfrohe Auswahl an frischen Schnittblumen und verschiedenen Zierpflanzen.",
+                  "category": "cultural",
+                  "coords": [
+                        58.422231,
+                        37.915921
+                  ]
+            },
+            {
+                  "name": "Jennet Bazary",
+                  "text": "Ein authentischer lokaler Markt, auf dem Besucher die Vielfalt turkmenischer Gewürze und Waren des täglichen Bedarfs finden.",
+                  "category": "cultural",
+                  "coords": [
+                        58.39145,
+                        37.925839
+                  ]
+            },
+            {
+                  "name": "Gündogar Bazary",
+                  "text": "Dieser Markt im östlichen Stil ist ein idealer Ort, um handgeknüpfte Teppiche und traditionelle turkmenische Waren zu erstehen.",
+                  "category": "cultural",
+                  "coords": [
+                        58.434957,
+                        37.911004
+                  ]
+            },
+            {
+                  "name": "7 Bania",
+                  "text": "Diese bekannte Badeanstalt bietet klassische Waschrituale und Entspannung in traditionell gestalteten Dampfräumen.",
+                  "category": "recreational",
+                  "coords": [
+                        58.411706,
+                        37.921649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nury Halmammedov Memorial",
+                  "text": "Ez az emlékmű a neves türkmén zeneszerzőnek, Nury Halmämmedownak állít emléket, tisztelve zenei örökségét.",
+                  "category": "historical",
+                  "coords": [
+                        58.423917,
+                        37.915303
+                  ]
+            },
+            {
+                  "name": "Döredjilik binasy",
+                  "text": "Ez az építészeti emlékmű a fővárosi régió alkotóerejét és a kreativitás szellemét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        58.404253,
+                        37.944154
+                  ]
+            },
+            {
+                  "name": "Erkanalyk binasy",
+                  "text": "Ez a magasba törő emlékmű Türkmenisztán nemzeti szuverenitásának és szabadságvágyának jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        58.397943,
+                        37.93684
+                  ]
+            },
+            {
+                  "name": "Ärtogrulgazy metjidi",
+                  "text": "Ez a Hilmi Şenalp által tervezett, oszmán stílusú mecset négy jellegzetes, fehér minaretjével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        58.398976,
+                        37.932919
+                  ]
+            },
+            {
+                  "name": "Alaw binasy",
+                  "text": "Ez a jellegzetes emlékmű egy lobogó láng alakját formázza, és az esti órákban gyakran kivilágítják.",
+                  "category": "historical",
+                  "coords": [
+                        58.394792,
+                        37.933284
+                  ]
+            },
+            {
+                  "name": "Öşüş binasy",
+                  "text": "Ez az absztrakt szobor a modern főváros folyamatos növekedését és gazdasági jólétét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        58.391855,
+                        37.928575
+                  ]
+            },
+            {
+                  "name": "Azady Metjit",
+                  "text": "Ez az elegáns muszlim imaház fehér márvány homlokzatával és hagyományos iszlám építészeti elemeivel tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        58.408673,
+                        37.94798
+                  ]
+            },
+            {
+                  "name": "Hezreti Osman Metjit",
+                  "text": "Ez a helyi mecset a környék lakóinak szolgál csendes helyszínként a napi imákhoz és közösségi vallási találkozókhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        58.431352,
+                        37.918955
+                  ]
+            },
+            {
+                  "name": "Genji Hazyna Bazar",
+                  "text": "Élénk piactér, amely különösen a hagyományos, kézzel szőtt textíliák és helyi kézműves termékek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        58.418367,
+                        37.944079
+                  ]
+            },
+            {
+                  "name": "Lälezar Bazary",
+                  "text": "Ez a bazár kedvelt célpont a friss gyümölcsök, zöldségek és a régióra jellemző pékáruk vásárlására.",
+                  "category": "cultural",
+                  "coords": [
+                        58.414182,
+                        37.920116
+                  ]
+            },
+            {
+                  "name": "Gul Bazary",
+                  "text": "Ez a specializált piac híres a friss vágott virágok és különféle dísznövények színes választékáról.",
+                  "category": "cultural",
+                  "coords": [
+                        58.422231,
+                        37.915921
+                  ]
+            },
+            {
+                  "name": "Jennet Bazary",
+                  "text": "Egy hiteles helyi piac, ahol a látogatók a türkmén fűszerek és a napi szükségleti cikkek sokféleségét találják.",
+                  "category": "cultural",
+                  "coords": [
+                        58.39145,
+                        37.925839
+                  ]
+            },
+            {
+                  "name": "Gündogar Bazary",
+                  "text": "Ez a keleti stílusú piac ideális hely kézi csomózású szőnyegek és hagyományos türkmén áruk beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        58.434957,
+                        37.911004
+                  ]
+            },
+            {
+                  "name": "7 Bania",
+                  "text": "Ez az ismert fürdőintézmény klasszikus mosdási rituálékat és kikapcsolódást kínál hagyományos kialakítású gőzfürdőkben.",
+                  "category": "recreational",
+                  "coords": [
+                        58.411706,
+                        37.921649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nury Halmammedov Memorial",
+                  "text": "Acest monument îl comemorează pe importantul compozitor turkmen Nury Halmämmedow, onorând moștenirea sa muzicală.",
+                  "category": "historical",
+                  "coords": [
+                        58.423917,
+                        37.915303
+                  ]
+            },
+            {
+                  "name": "Döredjilik binasy",
+                  "text": "Acest monument arhitectural simbolizează forța creatoare și spiritul creativității în regiunea capitalei.",
+                  "category": "historical",
+                  "coords": [
+                        58.404253,
+                        37.944154
+                  ]
+            },
+            {
+                  "name": "Erkanalyk binasy",
+                  "text": "Acest monument impunător reprezintă un punct de reper pentru suveranitatea națională și dorința de libertate a Turkmenistanului.",
+                  "category": "historical",
+                  "coords": [
+                        58.397943,
+                        37.93684
+                  ]
+            },
+            {
+                  "name": "Ärtogrulgazy metjidi",
+                  "text": "Această moschee în stil otoman, proiectată de arhitectul Hilmi Şenalp, impresionează prin cele patru minarete albe distinctive.",
+                  "category": "religious",
+                  "coords": [
+                        58.398976,
+                        37.932919
+                  ]
+            },
+            {
+                  "name": "Alaw binasy",
+                  "text": "Acest monument distinctiv este modelat sub forma unei flăcări aprinse și este adesea iluminat în orele serii.",
+                  "category": "historical",
+                  "coords": [
+                        58.394792,
+                        37.933284
+                  ]
+            },
+            {
+                  "name": "Öşüş binasy",
+                  "text": "Această sculptură abstractă reprezintă creșterea constantă și prosperitatea economică a capitalei moderne.",
+                  "category": "historical",
+                  "coords": [
+                        58.391855,
+                        37.928575
+                  ]
+            },
+            {
+                  "name": "Azady Metjit",
+                  "text": "Acest lăcaș de cult musulman elegant se remarcă prin fațada sa din marmură albă și elementele de arhitectură islamică tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        58.408673,
+                        37.94798
+                  ]
+            },
+            {
+                  "name": "Hezreti Osman Metjit",
+                  "text": "Această moschee locală servește cartierului ca un loc liniștit pentru rugăciunile zilnice și întâlnirile religioase comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        58.431352,
+                        37.918955
+                  ]
+            },
+            {
+                  "name": "Genji Hazyna Bazar",
+                  "text": "O piață plină de viață, cunoscută în special pentru selecția sa de textile tradiționale țesute manual și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        58.418367,
+                        37.944079
+                  ]
+            },
+            {
+                  "name": "Lälezar Bazary",
+                  "text": "Acest bazar este un punct de atracție popular pentru achiziționarea de fructe proaspete, legume și produse de panificație tipice regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        58.414182,
+                        37.920116
+                  ]
+            },
+            {
+                  "name": "Gul Bazary",
+                  "text": "Această piață specializată este faimoasă pentru varietatea colorată de flori tăiate proaspete și diverse plante ornamentale.",
+                  "category": "cultural",
+                  "coords": [
+                        58.422231,
+                        37.915921
+                  ]
+            },
+            {
+                  "name": "Jennet Bazary",
+                  "text": "O piață locală autentică, unde vizitatorii pot găsi o varietate de condimente turkmene și articole de necesitate zilnică.",
+                  "category": "cultural",
+                  "coords": [
+                        58.39145,
+                        37.925839
+                  ]
+            },
+            {
+                  "name": "Gündogar Bazary",
+                  "text": "Această piață în stil oriental este un loc ideal pentru a cumpăra covoare înnodate manual și mărfuri tradiționale turkmene.",
+                  "category": "cultural",
+                  "coords": [
+                        58.434957,
+                        37.911004
+                  ]
+            },
+            {
+                  "name": "7 Bania",
+                  "text": "Acest cunoscut stabiliment de băi oferă ritualuri clasice de spălare și relaxare în camere de aburi cu design tradițional.",
+                  "category": "recreational",
+                  "coords": [
+                        58.411706,
+                        37.921649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nury Halmämmedowyñ ÿadygärligi",
+                  "text": "This monument commemorates the prominent Turkmen composer Nury Halmämmedow, honoring his musical legacy.",
+                  "category": "historical",
+                  "coords": [
+                        58.423917,
+                        37.915303
+                  ]
+            },
+            {
+                  "name": "Döredjilik binasy",
+                  "text": "This architectural monument symbolizes the creative power and the spirit of creativity in the capital region.",
+                  "category": "historical",
+                  "coords": [
+                        58.404253,
+                        37.944154
+                  ]
+            },
+            {
+                  "name": "Erkanalyk binasy",
+                  "text": "This towering monument stands as a landmark for the national sovereignty and the will for freedom of Turkmenistan.",
+                  "category": "historical",
+                  "coords": [
+                        58.397943,
+                        37.93684
+                  ]
+            },
+            {
+                  "name": "Ertuğrul Gazi Mosque",
+                  "text": "This Ottoman-style mosque, designed by architect Hilmi Şenalp, impresses with its four distinctive white minarets.",
+                  "category": "religious",
+                  "coords": [
+                        58.398976,
+                        37.932919
+                  ]
+            },
+            {
+                  "name": "Alaw binasy",
+                  "text": "This distinctive monument is shaped like a blazing flame and is often illuminated during the evening hours.",
+                  "category": "historical",
+                  "coords": [
+                        58.394792,
+                        37.933284
+                  ]
+            },
+            {
+                  "name": "Öşüş binasy",
+                  "text": "This abstract sculpture represents the steady growth and economic prosperity of the modern capital.",
+                  "category": "historical",
+                  "coords": [
+                        58.391855,
+                        37.928575
+                  ]
+            },
+            {
+                  "name": "Azady Mosque",
+                  "text": "This elegant Muslim place of worship stands out with its white marble facade and traditional Islamic architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        58.408673,
+                        37.94798
+                  ]
+            },
+            {
+                  "name": "Hezreti Osman Metjit",
+                  "text": "This local mosque serves the neighborhood as a quiet venue for daily prayers and community religious meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        58.431352,
+                        37.918955
+                  ]
+            },
+            {
+                  "name": "Genji Hazyna Bazar",
+                  "text": "A lively marketplace particularly known for its selection of traditional hand-woven textiles and local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        58.418367,
+                        37.944079
+                  ]
+            },
+            {
+                  "name": "Lälezar Bazary",
+                  "text": "This bazaar is a popular destination for purchasing fresh fruit, vegetables, and regional baked goods.",
+                  "category": "cultural",
+                  "coords": [
+                        58.414182,
+                        37.920116
+                  ]
+            },
+            {
+                  "name": "Gul Bazaar",
+                  "text": "This specialized market is famous for its colorful variety of fresh cut flowers and various ornamental plants.",
+                  "category": "cultural",
+                  "coords": [
+                        58.422231,
+                        37.915921
+                  ]
+            },
+            {
+                  "name": "Jennet Bazaar",
+                  "text": "An authentic local market where visitors can find a variety of Turkmen spices and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        58.39145,
+                        37.925839
+                  ]
+            },
+            {
+                  "name": "Gündogar Bazary",
+                  "text": "This eastern-style market is an ideal place to purchase hand-knotted carpets and traditional Turkmen goods.",
+                  "category": "cultural",
+                  "coords": [
+                        58.434957,
+                        37.911004
+                  ]
+            },
+            {
+                  "name": "7 Bania",
+                  "text": "This well-known bath establishment offers classic washing rituals and relaxation in traditionally designed steam rooms.",
+                  "category": "recreational",
+                  "coords": [
+                        58.411706,
+                        37.921649
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "TM-S",
     coords: [58.3970, 37.9304],
@@ -323,7 +1484,88 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
     {
-    id: "tm-alem-center-landmarks-v2",
+    id: "tm-alem-center-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cable Car Terminal",
+                  "text": "Dieses moderne Verkehrsterminal in Aschgabat dient als Ausgangspunkt für malerische Seilbahnfahrten in Richtung der Ausläufer des Kopet-Dag-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        58.309817,
+                        37.833727
+                  ]
+            },
+            {
+                  "name": "«Türkmenistan» teleradio merkezi",
+                  "text": "Dieser 2011 eröffnete, hoch aufragende Kommunikations- und Aussichtsturm in Aschgabat ist berühmt für den riesigen achteckigen Stern, der seine Struktur ziert.",
+                  "category": "landmark",
+                  "coords": [
+                        58.23816,
+                        37.862666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cable Car Terminal",
+                  "text": "Ez a modern ashgabati közlekedési terminál a Kopet-dag hegység lábához vezető festői felvonózások kiindulópontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        58.309817,
+                        37.833727
+                  ]
+            },
+            {
+                  "name": "«Türkmenistan» teleradio merkezi",
+                  "text": "A 2011-ben megnyitott, magasba tornyosuló ashgabati hírközlési és kilátótorony a szerkezetét díszítő hatalmas nyolcszögletű csillagról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        58.23816,
+                        37.862666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cable Car Terminal",
+                  "text": "Acest terminal de transport modern din Așgabat servește drept punct de plecare pentru plimbări aeriene pitorești spre poalele munților Kopet Dag.",
+                  "category": "landmark",
+                  "coords": [
+                        58.309817,
+                        37.833727
+                  ]
+            },
+            {
+                  "name": "«Türkmenistan» teleradio merkezi",
+                  "text": "Deschis în 2011, acest turn impunător de comunicații și observație din Așgabat este faimos pentru steaua octogonală uriașă care îi împodobește structura.",
+                  "category": "landmark",
+                  "coords": [
+                        58.23816,
+                        37.862666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cable Car Terminal",
+                  "text": "This modern transport terminal in Ashgabat serves as the starting point for scenic aerial rides towards the foothills of the Kopet Dag mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        58.309817,
+                        37.833727
+                  ]
+            },
+            {
+                  "name": "Turkmenistan Tower",
+                  "text": "Opened in 2011, this soaring communications and observation tower in Ashgabat is famous for the giant octagonal star adorning its structure.",
+                  "category": "landmark",
+                  "coords": [
+                        58.23816,
+                        37.862666
+                  ]
+            }
+      ]
+},
     type: "icon",
     parent: "TM-S",
     coords: [58.3297, 37.8680],
@@ -515,7 +1757,52 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-gonur-depe-landmarks-v2",
+    id: "tm-gonur-depe-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gonur Tepe",
+                  "text": "Diese als Gonur Depe bekannte bedeutende archäologische Stätte enthält die ausgegrabenen Überreste einer fortschrittlichen Zivilisation aus der Bronzezeit.",
+                  "category": "landmark",
+                  "coords": [
+                        62.036663,
+                        38.212243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gonur Tepe",
+                  "text": "Ez a Gonur Depe néven is ismert jelentős régészeti lelőhely egy fejlett bronzkori civilizáció feltárt maradványait tartalmazza.",
+                  "category": "landmark",
+                  "coords": [
+                        62.036663,
+                        38.212243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gonur Tepe",
+                  "text": "Cunoscut și sub numele de Gonur Depe, acest important sit arheologic conține rămășițele excavate ale unei civilizații avansate din Epoca Bronzului.",
+                  "category": "landmark",
+                  "coords": [
+                        62.036663,
+                        38.212243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Margush",
+                  "text": "Also known as Gonur Depe, this major archaeological site contains the excavated remains of an advanced Bronze Age civilization.",
+                  "category": "landmark",
+                  "coords": [
+                        62.036663,
+                        38.212243
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "TM-M",
     coords: [62.0624, 38.2045],
@@ -579,7 +1866,124 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-ancient-merv-landmarks-v2",
+    id: "tm-ancient-merv-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abdullah Khan Kala",
+                  "text": "Abdullah Khan Kala ist eine historisch bedeutsame ummauerte Festungsattraktion innerhalb der Wahrzeichen des antiken Merw.",
+                  "category": "landmark",
+                  "coords": [
+                        62.164233,
+                        37.630817
+                  ]
+            },
+            {
+                  "name": "Bureyda al-Aslami we Hakem al-Gifari guburlary",
+                  "text": "Die Gräber von Bureyda al-Aslami und Hakem al-Gifari sind angesehene historische Attraktionen unter den Wahrzeichen des antiken Merw.",
+                  "category": "landmark",
+                  "coords": [
+                        62.171462,
+                        37.653183
+                  ]
+            },
+            {
+                  "name": "Köne bazar",
+                  "text": "Köne bazar ist ein traditioneller Marktplatz, eingebettet in die historischen Wahrzeichen des antiken Merw.",
+                  "category": "cultural",
+                  "coords": [
+                        62.158725,
+                        37.62748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abdullah Khan Kala",
+                  "text": "Az Abdullah Khan Kala történelmileg jelentős falakkal körülvett erődítmény az ősi Merv nevezetességei között.",
+                  "category": "landmark",
+                  "coords": [
+                        62.164233,
+                        37.630817
+                  ]
+            },
+            {
+                  "name": "Bureyda al-Aslami we Hakem al-Gifari guburlary",
+                  "text": "Burejda al-Aszlami és Hakem al-Gifari sírjai tisztelt történelmi látványosságok az ősi Merv nevezetességei között.",
+                  "category": "landmark",
+                  "coords": [
+                        62.171462,
+                        37.653183
+                  ]
+            },
+            {
+                  "name": "Köne bazar",
+                  "text": "A Köne bazar egy hagyományos piactér, amely az ősi Merv történelmi nevezetességei között található.",
+                  "category": "cultural",
+                  "coords": [
+                        62.158725,
+                        37.62748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abdullah Khan Kala",
+                  "text": "Abdullah Khan Kala este o atracție fortificată semnificativă din punct de vedere istoric în cadrul reperelor vechiului Merv.",
+                  "category": "landmark",
+                  "coords": [
+                        62.164233,
+                        37.630817
+                  ]
+            },
+            {
+                  "name": "Bureyda al-Aslami we Hakem al-Gifari guburlary",
+                  "text": "Mormintele lui Bureyda al-Aslami și Hakem al-Gifari sunt atracții istorice respectate printre reperele vechiului Merv.",
+                  "category": "landmark",
+                  "coords": [
+                        62.171462,
+                        37.653183
+                  ]
+            },
+            {
+                  "name": "Köne bazar",
+                  "text": "Köne bazar este o piață tradițională cuibărită printre reperele istorice ale vechiului Merv.",
+                  "category": "cultural",
+                  "coords": [
+                        62.158725,
+                        37.62748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abdullah Khan Kala",
+                  "text": "Abdullah Khan Kala is a historically significant walled fortress attraction within the ancient Merv landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        62.164233,
+                        37.630817
+                  ]
+            },
+            {
+                  "name": "Bureyda al-Aslami we Hakem al-Gifari guburlary",
+                  "text": "The tombs of Bureyda al-Aslami and Hakem al-Gifari are respected historical attractions among the ancient Merv landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        62.171462,
+                        37.653183
+                  ]
+            },
+            {
+                  "name": "Köne bazar",
+                  "text": "Köne bazar is a traditional marketplace area nestled among the historic landmarks of ancient Merv.",
+                  "category": "cultural",
+                  "coords": [
+                        62.158725,
+                        37.62748
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TM-M",
     coords: [62.1818, 37.6631],
@@ -643,7 +2047,88 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-tolkuchka-bazaar-landmarks-v2",
+    id: "tm-tolkuchka-bazaar-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Altyn Asyr Gündogar Bazary",
+                  "text": "Ein weltweit bekannter, weitläufiger Marktplatz, der für seine lebhaften orientalischen Marktstände berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        58.42301,
+                        38.045126
+                  ]
+            },
+            {
+                  "name": "Ak Tam Bazary",
+                  "text": "Ein geschäftiges kommerzielles Marktzentrum in der Nähe des berühmten Tolkuchka-Basars.",
+                  "category": "cultural",
+                  "coords": [
+                        58.503428,
+                        37.983053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Altyn Asyr Gündogar Bazary",
+                  "text": "Világszerte ismert, kiterjedt piac, amely nyüzsgő keleti árusairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        58.42301,
+                        38.045126
+                  ]
+            },
+            {
+                  "name": "Ak Tam Bazary",
+                  "text": "Forgalmas kereskedelmi piac a környék híres Tolkucska bazárjának közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        58.503428,
+                        37.983053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Altyn Asyr Gündogar Bazary",
+                  "text": "O piață extinsă la nivel global, faimoasă pentru tarabele sale vibrante de comerț oriental.",
+                  "category": "cultural",
+                  "coords": [
+                        58.42301,
+                        38.045126
+                  ]
+            },
+            {
+                  "name": "Ak Tam Bazary",
+                  "text": "Un centru comercial aglomerat situat în apropierea celebrului bazar Tolkuchka.",
+                  "category": "cultural",
+                  "coords": [
+                        58.503428,
+                        37.983053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Altyn Asyr Oriental Bazaar",
+                  "text": "A globally notable and expansive trading center famous for its vibrant oriental market stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        58.42301,
+                        38.045126
+                  ]
+            },
+            {
+                  "name": "Ak Tam Bazary",
+                  "text": "A busy commercial market center situated near the area's famous Tolkuchka bazaar.",
+                  "category": "cultural",
+                  "coords": [
+                        58.503428,
+                        37.983053
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "TM-S",
     coords: [58.4239, 38.0306],
@@ -707,7 +2192,160 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-turkmen-carpet-museum-landmarks-v2",
+    id: "tm-turkmen-carpet-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atatürk Square",
+                  "text": "Dieser markante öffentliche Platz in Aschgabat ist dem Vermächtnis des türkischen Führers Mustafa Kemal Atatürk gewidmet.",
+                  "category": "park",
+                  "coords": [
+                        58.386408,
+                        37.935966
+                  ]
+            },
+            {
+                  "name": "Atlar binasy",
+                  "text": "Dieses beeindruckende Denkmal in Aschgabat feiert den majestätischen Achal-Tekkiner, die verehrte nationale Pferderasse Turkmenistans.",
+                  "category": "landmark",
+                  "coords": [
+                        58.378047,
+                        37.938243
+                  ]
+            },
+            {
+                  "name": "Ylham Seýilgähi",
+                  "text": "Dieser malerische, von Bäumen gesäumte öffentliche Park in Aschgabat bietet Wege, die bedeutenden turkmenischen Dichtern und Gelehrten gewidmet sind.",
+                  "category": "park",
+                  "coords": [
+                        58.376566,
+                        37.940257
+                  ]
+            },
+            {
+                  "name": "Sungat Muzeýi",
+                  "text": "Dieses Nationalmuseum in Aschgabat beherbergt eine umfangreiche Sammlung traditioneller turkmenischer Teppiche, Gemälde und nationaler Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        58.37465,
+                        37.93519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atatürk Square",
+                  "text": "Ezt a kiemelkedő ashgabati nyilvános teret a török vezető, Mustafa Kemal Atatürk emlékének szentelték.",
+                  "category": "park",
+                  "coords": [
+                        58.386408,
+                        37.935966
+                  ]
+            },
+            {
+                  "name": "Atlar binasy",
+                  "text": "Ez a lenyűgöző ashgabati emlékmű az ahaltekét, Türkmenisztán nagy becsben tartott nemzeti lófajtáját ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        58.378047,
+                        37.938243
+                  ]
+            },
+            {
+                  "name": "Ylham Seýilgähi",
+                  "text": "Ez a festői, fákkal övezett ashgabati közpark kiemelkedő türkmén költőknek és tudósoknak szentelt sétányokkal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        58.376566,
+                        37.940257
+                  ]
+            },
+            {
+                  "name": "Sungat Muzeýi",
+                  "text": "Ez az ashgabati nemzeti múzeum hagyományos türkmén szőnyegek, festmények és nemzeti műtárgyak kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        58.37465,
+                        37.93519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atatürk Square",
+                  "text": "Această piață publică proeminentă din Așgabat este dedicată moștenirii liderului turc Mustafa Kemal Atatürk.",
+                  "category": "park",
+                  "coords": [
+                        58.386408,
+                        37.935966
+                  ]
+            },
+            {
+                  "name": "Atlar binasy",
+                  "text": "Acest monument impresionant din Așgabat celebrează maiestuosul Akhal-Teke, venerata rasă națională de cai a Turkmenistanului.",
+                  "category": "landmark",
+                  "coords": [
+                        58.378047,
+                        37.938243
+                  ]
+            },
+            {
+                  "name": "Ylham Seýilgähi",
+                  "text": "Acest parc public pitoresc, mărginit de copaci din Așgabat, prezintă alei dedicate unor poeți și savanți turkmeni proeminenți.",
+                  "category": "park",
+                  "coords": [
+                        58.376566,
+                        37.940257
+                  ]
+            },
+            {
+                  "name": "Sungat Muzeýi",
+                  "text": "Acest muzeu național din Așgabat găzduiește o colecție vastă de covoare tradiționale turkmene, picturi și artefacte naționale.",
+                  "category": "museum",
+                  "coords": [
+                        58.37465,
+                        37.93519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atatürk Square",
+                  "text": "This prominent public square in Ashgabat is dedicated to the legacy of the Turkish leader Mustafa Kemal Atatürk.",
+                  "category": "park",
+                  "coords": [
+                        58.386408,
+                        37.935966
+                  ]
+            },
+            {
+                  "name": "Turkmen Horses Monument",
+                  "text": "This striking monument in Ashgabat celebrates the majestic Akhal-Teke, the revered national horse breed of Turkmenistan.",
+                  "category": "landmark",
+                  "coords": [
+                        58.378047,
+                        37.938243
+                  ]
+            },
+            {
+                  "name": "Inspiration Park",
+                  "text": "This scenic, tree-lined public park in Ashgabat features pathways dedicated to prominent Turkmen poets and scholars.",
+                  "category": "park",
+                  "coords": [
+                        58.376566,
+                        37.940257
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Arts of Turkmenistan",
+                  "text": "This national museum in Ashgabat houses an extensive collection of traditional Turkmen carpets, paintings, and national artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        58.37465,
+                        37.93519
+                  ]
+            }
+      ]
+},
     type: "icon",
     parent: "TM-S",
     coords: [58.3831, 37.9366],
@@ -771,7 +2409,124 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-national-museum-landmarks-v2",
+    id: "tm-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Türkmenistanyň Baş Baýdagy",
+                  "text": "Dieser 133 Meter hohe Mast in Aşgabat ist einer der höchsten freistehenden Flaggenmasten der Welt und trägt eine riesige Nationalflagge.",
+                  "category": "historical",
+                  "coords": [
+                        58.350499,
+                        37.88704
+                  ]
+            },
+            {
+                  "name": "Döwlet muzeýi",
+                  "text": "Dieser weitläufige Komplex in Aşgabat beherbergt Tausende von Artefakten, darunter Elfenbein-Rhytons aus dem antiken Nisa.",
+                  "category": "museum",
+                  "coords": [
+                        58.349136,
+                        37.885281
+                  ]
+            },
+            {
+                  "name": "Alp Arslan Monumenti",
+                  "text": "Ein majestätisches Denkmal in Aşgabat, das Alp Arslan, dem zweiten Sultan des Seldschukenreiches, gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        58.353036,
+                        37.88605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Türkmenistanyň Baş Baýdagy",
+                  "text": "A világ egyik legmagasabb szabadon álló zászlórúdja, ez a 133 méteres építmény Asgabatban egy hatalmas nemzeti zászlót lobogtat.",
+                  "category": "historical",
+                  "coords": [
+                        58.350499,
+                        37.88704
+                  ]
+            },
+            {
+                  "name": "Döwlet muzeýi",
+                  "text": "Ez a kiterjedt asgabati komplexum több ezer műtárgynak ad otthont, köztük az ősi Niszából származó elefántcsont rhütonoknak.",
+                  "category": "museum",
+                  "coords": [
+                        58.349136,
+                        37.885281
+                  ]
+            },
+            {
+                  "name": "Alp Arslan Monumenti",
+                  "text": "Fenséges emlékmű Asgabatban, amelyet Alp Arslannak, a Szeldzsuk Birodalom második szultánjának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        58.353036,
+                        37.88605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Türkmenistanyň Baş Baýdagy",
+                  "text": "Unul dintre cele mai înalte catarge de sine stătătoare din lume, această structură de 133 de metri din Așgabat arborează un steag național masiv.",
+                  "category": "historical",
+                  "coords": [
+                        58.350499,
+                        37.88704
+                  ]
+            },
+            {
+                  "name": "Döwlet muzeýi",
+                  "text": "Acest complex întins din Așgabat găzduiește mii de artefacte, inclusiv ritonuri de fildeș din anticul Nisa.",
+                  "category": "museum",
+                  "coords": [
+                        58.349136,
+                        37.885281
+                  ]
+            },
+            {
+                  "name": "Alp Arslan Monumenti",
+                  "text": "Un monument maiestuos în Așgabat dedicat lui Alp Arslan, al doilea sultan al Imperiului Selgiuc.",
+                  "category": "historical",
+                  "coords": [
+                        58.353036,
+                        37.88605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flagpole",
+                  "text": "One of the world's tallest free-standing flagpoles, this 133-metre structure in Ashgabat flies a massive national flag.",
+                  "category": "historical",
+                  "coords": [
+                        58.350499,
+                        37.88704
+                  ]
+            },
+            {
+                  "name": "National Museum of Turkmenistan",
+                  "text": "This sprawling complex in Ashgabat houses thousands of artifacts, including ivory rhytons from ancient Nisa.",
+                  "category": "museum",
+                  "coords": [
+                        58.349136,
+                        37.885281
+                  ]
+            },
+            {
+                  "name": "Alp Arslan Monument",
+                  "text": "A majestic monument in Ashgabat dedicated to Alp Arslan, the second Sultan of the Seljuk Empire.",
+                  "category": "historical",
+                  "coords": [
+                        58.353036,
+                        37.88605
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TM-S",
     coords: [58.3496, 37.8860],
@@ -899,7 +2654,304 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-wedding-palace-landmarks-v2",
+    id: "tm-wedding-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Watan Mukaddesligi Muzeýi",
+                  "text": "Dieses Museum im Hochzeitspalast zeigt das turkmenische Kulturerbe und die nationale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        58.31237,
+                        37.937353
+                  ]
+            },
+            {
+                  "name": "Gradusnik binasy",
+                  "text": "Dieses einzigartige Denkmal in Aşgabat verfügt über ein riesiges vertikales Thermometer, das in der ganzen Stadt sichtbar ist.",
+                  "category": "historical",
+                  "coords": [
+                        58.335926,
+                        37.904801
+                  ]
+            },
+            {
+                  "name": "\"Älem\" medeni dynç alyş merkezi",
+                  "text": "Diese Attraktion im Alem-Zentrum von Aşgabat gilt als das größte Indoor-Riesenrad der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        58.299166,
+                        37.89878
+                  ]
+            },
+            {
+                  "name": "Ýyldyz binasy",
+                  "text": "Ein markantes Denkmal in Aşgabat, das in Form des achtzackigen Oguzkhan-Sterns gestaltet ist.",
+                  "category": "historical",
+                  "coords": [
+                        58.336338,
+                        37.914004
+                  ]
+            },
+            {
+                  "name": "Ruhy Tagzym",
+                  "text": "Ein Bronzedenkmal in Aşgabat, das einen Stier darstellt, der die Welt und ein Kind trägt, zu Ehren der Erdbebenopfer.",
+                  "category": "landmark",
+                  "coords": [
+                        58.313448,
+                        37.936037
+                  ]
+            },
+            {
+                  "name": "Milletiň ogullary",
+                  "text": "Eine monumentale Stätte in Aşgabat, die denjenigen gewidmet ist, die während des Konflikts von 1941 bis 1945 dienten.",
+                  "category": "landmark",
+                  "coords": [
+                        58.314288,
+                        37.937322
+                  ]
+            },
+            {
+                  "name": "Ylym binasy",
+                  "text": "Ein weißes Marmordenkmal in Aşgabat, das die intellektuellen Errungenschaften und den wissenschaftlichen Fortschritt der Nation feiert.",
+                  "category": "historical",
+                  "coords": [
+                        58.293243,
+                        37.931005
+                  ]
+            },
+            {
+                  "name": "Türkmenistanyň Konstitusiýa binasy",
+                  "text": "Dieser 185 Meter hohe weiße Marmorturm in Aşgabat erinnert an das wichtigste Rechtsdokument des Landes.",
+                  "category": "landmark",
+                  "coords": [
+                        58.320191,
+                        37.898771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Watan Mukaddesligi Muzeýi",
+                  "text": "A Házasság Palotájában található múzeum a türkmén kulturális örökséget és a nemzeti történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        58.31237,
+                        37.937353
+                  ]
+            },
+            {
+                  "name": "Gradusnik binasy",
+                  "text": "Ez az egyedülálló asgabati emlékmű egy óriási függőleges hőmérővel rendelkezik, amely az egész városból látható.",
+                  "category": "historical",
+                  "coords": [
+                        58.335926,
+                        37.904801
+                  ]
+            },
+            {
+                  "name": "\"Älem\" medeni dynç alyş merkezi",
+                  "text": "Ez a látványosság az asgabati Alem központban a világ legnagyobb fedett óriáskereke.",
+                  "category": "landmark",
+                  "coords": [
+                        58.299166,
+                        37.89878
+                  ]
+            },
+            {
+                  "name": "Ýyldyz binasy",
+                  "text": "Egy feltűnő emlékmű Asgabatban, amelyet a nyolcágú Oguzkhan-csillag alakjára terveztek.",
+                  "category": "historical",
+                  "coords": [
+                        58.336338,
+                        37.914004
+                  ]
+            },
+            {
+                  "name": "Ruhy Tagzym",
+                  "text": "Bronz emlékmű Asgabatban, amely egy bikát ábrázol, amint a világot és egy gyermeket hordoz, a földrengés áldozatainak tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        58.313448,
+                        37.936037
+                  ]
+            },
+            {
+                  "name": "Milletiň ogullary",
+                  "text": "Monumentális helyszín Asgabatban, amelyet az 1941 és 1945 közötti konfliktusban szolgálatot teljesítőknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        58.314288,
+                        37.937322
+                  ]
+            },
+            {
+                  "name": "Ylym binasy",
+                  "text": "Fehér márvány emlékmű Asgabatban, amely a nemzet szellemi vívmányait és tudományos fejlődését hirdeti.",
+                  "category": "historical",
+                  "coords": [
+                        58.293243,
+                        37.931005
+                  ]
+            },
+            {
+                  "name": "Türkmenistanyň Konstitusiýa binasy",
+                  "text": "Ez a 185 méter magas fehér márványtorony Asgabatban az ország legfontosabb jogi dokumentumának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        58.320191,
+                        37.898771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Watan Mukaddesligi Muzeýi",
+                  "text": "Situat în incinta Palatului Nunților, acest muzeu prezintă moștenirea culturală turkmenă și istoria națională.",
+                  "category": "museum",
+                  "coords": [
+                        58.31237,
+                        37.937353
+                  ]
+            },
+            {
+                  "name": "Gradusnik binasy",
+                  "text": "Acest monument unic din Așgabat are un termometru vertical uriaș, vizibil din tot orașul.",
+                  "category": "historical",
+                  "coords": [
+                        58.335926,
+                        37.904801
+                  ]
+            },
+            {
+                  "name": "\"Älem\" medeni dynç alyş merkezi",
+                  "text": "Această atracție din centrul Alem din Așgabat este recunoscută drept cea mai mare roată panoramică de interior din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        58.299166,
+                        37.89878
+                  ]
+            },
+            {
+                  "name": "Ýyldyz binasy",
+                  "text": "Un monument izbitor în Așgabat, proiectat în forma stelei cu opt colțuri Oguzkhan.",
+                  "category": "historical",
+                  "coords": [
+                        58.336338,
+                        37.914004
+                  ]
+            },
+            {
+                  "name": "Ruhy Tagzym",
+                  "text": "Un monument de bronz în Așgabat care înfățișează un taur ce cară lumea și un copil, în onoarea victimelor cutremurului.",
+                  "category": "landmark",
+                  "coords": [
+                        58.313448,
+                        37.936037
+                  ]
+            },
+            {
+                  "name": "Milletiň ogullary",
+                  "text": "Un sit monumental în Așgabat dedicat celor care au servit în timpul conflictului din 1941 până în 1945.",
+                  "category": "landmark",
+                  "coords": [
+                        58.314288,
+                        37.937322
+                  ]
+            },
+            {
+                  "name": "Ylym binasy",
+                  "text": "Un monument din marmură albă în Așgabat, care celebrează realizările intelectuale și progresul științific al națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        58.293243,
+                        37.931005
+                  ]
+            },
+            {
+                  "name": "Türkmenistanyň Konstitusiýa binasy",
+                  "text": "Cu o înălțime de 185 de metri, acest turn din marmură albă din Așgabat comemorează documentul juridic principal al țării.",
+                  "category": "landmark",
+                  "coords": [
+                        58.320191,
+                        37.898771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sacred Homeland Museum",
+                  "text": "Located within the Wedding Palace, this museum showcases Turkmen cultural heritage and national history.",
+                  "category": "museum",
+                  "coords": [
+                        58.31237,
+                        37.937353
+                  ]
+            },
+            {
+                  "name": "Gradusnik binasy",
+                  "text": "This unique monument in Ashgabat features a giant vertical thermometer visible from across the city.",
+                  "category": "historical",
+                  "coords": [
+                        58.335926,
+                        37.904801
+                  ]
+            },
+            {
+                  "name": "Ferris Wheel",
+                  "text": "This attraction in Ashgabat's Alem center is recognized as the world's largest indoor Ferris wheel.",
+                  "category": "landmark",
+                  "coords": [
+                        58.299166,
+                        37.89878
+                  ]
+            },
+            {
+                  "name": "Star Monument",
+                  "text": "A striking monument in Ashgabat designed in the shape of the eight-pointed Oguzkhan star.",
+                  "category": "historical",
+                  "coords": [
+                        58.336338,
+                        37.914004
+                  ]
+            },
+            {
+                  "name": "1948 Earthquake Memorial",
+                  "text": "A bronze monument in Ashgabat depicting a bull carrying the world and a child, honoring earthquake victims.",
+                  "category": "landmark",
+                  "coords": [
+                        58.313448,
+                        37.936037
+                  ]
+            },
+            {
+                  "name": "Great Patriotic War Memorial",
+                  "text": "A monumental site in Ashgabat dedicated to those who served during the conflict from 1941 to 1945.",
+                  "category": "landmark",
+                  "coords": [
+                        58.314288,
+                        37.937322
+                  ]
+            },
+            {
+                  "name": "Science (Ylym) Monument",
+                  "text": "A white marble monument in Ashgabat celebrating the nation's intellectual achievements and scientific progress.",
+                  "category": "historical",
+                  "coords": [
+                        58.293243,
+                        37.931005
+                  ]
+            },
+            {
+                  "name": "Monument to the Turkmenistan Constitution",
+                  "text": "Standing 185 metres tall, this white marble tower in Ashgabat commemorates the country's main legal document.",
+                  "category": "landmark",
+                  "coords": [
+                        58.320191,
+                        37.898771
+                  ]
+            }
+      ]
+},
     type: "icon",
     parent: "TM-S",
     coords: [58.3243, 37.9157],
@@ -963,7 +3015,52 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-kow-ata-underground-lake-landmarks-v2",
+    id: "tm-kow-ata-underground-lake-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Köw Ata",
+                  "text": "Ein einzigartiger unterirdischer Thermalsee, der sich in einer tiefen Höhle befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.518902,
+                        38.300385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Köw Ata",
+                  "text": "Egyedülálló föld alatti termáltó, amely egy mély barlang belsejében található.",
+                  "category": "landmark",
+                  "coords": [
+                        57.518902,
+                        38.300385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Köw Ata",
+                  "text": "Un lac termal subteran unic, situat în interiorul unei peșteri adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        57.518902,
+                        38.300385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kow Ata",
+                  "text": "A unique underground thermal lake located inside a deep cave.",
+                  "category": "landmark",
+                  "coords": [
+                        57.518902,
+                        38.300385
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "TM-A",
     coords: [57.5137, 38.3040],
@@ -1027,7 +3124,268 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
     },
   },
   {
-    id: "tm-kutlug-timur-minaret-landmarks-v2",
+    id: "tm-kutlug-timur-minaret-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Köneürgenç şäher Çeperçilik Mekdebi",
+                  "text": "Eine Kunstschule und Galerie in Köneürgenç, die das regionale kreative Schaffen fördert.",
+                  "category": "museum",
+                  "coords": [
+                        59.17897,
+                        42.318984
+                  ]
+            },
+            {
+                  "name": "Ak Kala",
+                  "text": "Die „Weiße Festung“, eine historische Anlage in Köneürgenç mit Ruinen alter Lehmwälle.",
+                  "category": "landmark",
+                  "coords": [
+                        59.152003,
+                        42.296401
+                  ]
+            },
+            {
+                  "name": "Gutlug Timuryň minarasy",
+                  "text": "Ein über 60 Meter hoher Ziegelstein-Turm aus dem 14. Jahrhundert, das höchste Minarett Zentralasiens.",
+                  "category": "tower",
+                  "coords": [
+                        59.141868,
+                        42.308649
+                  ]
+            },
+            {
+                  "name": "Kyrk Molla Hill",
+                  "text": "Ein heiliger archäologischer Hügel in Köneürgenç, an dem Pilger nach alter Tradition beten.",
+                  "category": "landmark",
+                  "coords": [
+                        59.146298,
+                        42.308462
+                  ]
+            },
+            {
+                  "name": "Akgala Medeniýet Öýi",
+                  "text": "Ein regionales Kulturzentrum in Köneürgenç, das für Theateraufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        59.155127,
+                        42.315794
+                  ]
+            },
+            {
+                  "name": "Baýdak Meýdançasy",
+                  "text": "Ein zentraler Platz in Köneürgenç, der durch einen monumentalen Mast mit der Nationalflagge geprägt ist.",
+                  "category": "historical",
+                  "coords": [
+                        59.151861,
+                        42.32211
+                  ]
+            },
+            {
+                  "name": "Seyit Ahmet Mausoleum",
+                  "text": "Ein traditionelles islamisches Mausoleum und Wallfahrtsort in der historischen Stadt Köneürgenç.",
+                  "category": "landmark",
+                  "coords": [
+                        59.139214,
+                        42.309787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Köneürgenç şäher Çeperçilik Mekdebi",
+                  "text": "Művészeti iskola és galéria Köneürgençben, amely a regionális alkotómunkát támogatja.",
+                  "category": "museum",
+                  "coords": [
+                        59.17897,
+                        42.318984
+                  ]
+            },
+            {
+                  "name": "Ak Kala",
+                  "text": "Az „Fehér Erőd”, Köneürgenç történelmi helyszíne ősi agyagfalak romjaival.",
+                  "category": "landmark",
+                  "coords": [
+                        59.152003,
+                        42.296401
+                  ]
+            },
+            {
+                  "name": "Gutlug Timuryň minarasy",
+                  "text": "60 méternél is magasabb, 14. századi téglatorony, Közép-Ázsia legmagasabb minaretje.",
+                  "category": "tower",
+                  "coords": [
+                        59.141868,
+                        42.308649
+                  ]
+            },
+            {
+                  "name": "Kyrk Molla Hill",
+                  "text": "Szent régészeti domb Köneürgençben, ahol a zarándokok ősi hagyományok szerint imádkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        59.146298,
+                        42.308462
+                  ]
+            },
+            {
+                  "name": "Akgala Medeniýet Öýi",
+                  "text": "Regionális kulturális központ Köneürgençben, amelyet színházi előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        59.155127,
+                        42.315794
+                  ]
+            },
+            {
+                  "name": "Baýdak Meýdançasy",
+                  "text": "Központi tér Köneürgençben, amelyet egy monumentális nemzeti zászlórúd dominál.",
+                  "category": "historical",
+                  "coords": [
+                        59.151861,
+                        42.32211
+                  ]
+            },
+            {
+                  "name": "Seyit Ahmet Mausoleum",
+                  "text": "Hagyományos iszlám mauzóleum és zarándokhely Köneürgenç történelmi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        59.139214,
+                        42.309787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Köneürgenç şäher Çeperçilik Mekdebi",
+                  "text": "O școală de artă și galerie în Köneürgenç, care promovează creația regională.",
+                  "category": "museum",
+                  "coords": [
+                        59.17897,
+                        42.318984
+                  ]
+            },
+            {
+                  "name": "Ak Kala",
+                  "text": "„Cetatea Albă”, un sit istoric din Köneürgenç cu ruine ale unor ziduri vechi de lut.",
+                  "category": "landmark",
+                  "coords": [
+                        59.152003,
+                        42.296401
+                  ]
+            },
+            {
+                  "name": "Gutlug Timuryň minarasy",
+                  "text": "Un turn de cărămidă din secolul al XIV-lea de peste 60 de metri înălțime, cel mai înalt minaret din Asia Centrală.",
+                  "category": "tower",
+                  "coords": [
+                        59.141868,
+                        42.308649
+                  ]
+            },
+            {
+                  "name": "Kyrk Molla Hill",
+                  "text": "Un deal arheologic sacru în Köneürgenç, unde pelerinii se roagă conform tradițiilor vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        59.146298,
+                        42.308462
+                  ]
+            },
+            {
+                  "name": "Akgala Medeniýet Öýi",
+                  "text": "Un centru cultural regional în Köneürgenç, utilizat pentru spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        59.155127,
+                        42.315794
+                  ]
+            },
+            {
+                  "name": "Baýdak Meýdançasy",
+                  "text": "O piață centrală în Köneürgenç, dominată de un catarg monumental cu steagul național.",
+                  "category": "historical",
+                  "coords": [
+                        59.151861,
+                        42.32211
+                  ]
+            },
+            {
+                  "name": "Seyit Ahmet Mausoleum",
+                  "text": "Un mausoleu islamic tradițional și loc de pelerinaj în orașul istoric Köneürgenç.",
+                  "category": "landmark",
+                  "coords": [
+                        59.139214,
+                        42.309787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art School",
+                  "text": "An art school and gallery in Köneürgenç, promoting regional creative work.",
+                  "category": "museum",
+                  "coords": [
+                        59.17897,
+                        42.318984
+                  ]
+            },
+            {
+                  "name": "Ak Kala",
+                  "text": "The 'White Fortress', a historic site in Köneürgenç featuring ruins of ancient clay walls.",
+                  "category": "landmark",
+                  "coords": [
+                        59.152003,
+                        42.296401
+                  ]
+            },
+            {
+                  "name": "Timur Qutlugh Minaret",
+                  "text": "A 14th-century brick tower over 60 meters tall, the highest minaret in Central Asia.",
+                  "category": "tower",
+                  "coords": [
+                        59.141868,
+                        42.308649
+                  ]
+            },
+            {
+                  "name": "Kyrk Molla Hill",
+                  "text": "A sacred archaeological mound in Köneürgenç where pilgrims come to pray according to ancient traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        59.146298,
+                        42.308462
+                  ]
+            },
+            {
+                  "name": "Akgala Medeniýet Öýi",
+                  "text": "A regional cultural center in Köneürgenç used for theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        59.155127,
+                        42.315794
+                  ]
+            },
+            {
+                  "name": "Baydak Square (Flag Square)",
+                  "text": "A central square in Köneürgenç dominated by a monumental flagpole with the national flag.",
+                  "category": "historical",
+                  "coords": [
+                        59.151861,
+                        42.32211
+                  ]
+            },
+            {
+                  "name": "Seyit Ahmet Mausoleum",
+                  "text": "A traditional Islamic mausoleum and pilgrimage site in the historic city of Köneürgenç.",
+                  "category": "landmark",
+                  "coords": [
+                        59.139214,
+                        42.309787
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "TM-D",
     coords: [59.1557, 42.3168],

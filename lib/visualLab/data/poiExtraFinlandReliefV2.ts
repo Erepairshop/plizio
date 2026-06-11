@@ -133,7 +133,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Ryläyksen kiviputous",
-                  "text": "Ein Aussichtspunkt, der für seine markanten Felsformationen bekannt ist.",
+                  "text": "Ein steinerner Wasserfall (Kiviputous) an den Hängen des Koli-Hügels.",
                   "category": "natural",
                   "coords": [
                         29.828251,
@@ -198,7 +198,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Ryläyksen kiviputous",
-                  "text": "Kilátóhely, amely jellegzetes sziklaformációiról ismert.",
+                  "text": "Kővízesés (kiviputous) a Koli-domb lejtőin.",
                   "category": "natural",
                   "coords": [
                         29.828251,
@@ -263,7 +263,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Ryläyksen kiviputous",
-                  "text": "Un punct de observație cunoscut pentru formațiunile sale stâncoase distinctive.",
+                  "text": "O cascadă de piatră (kiviputous) pe pantele dealului Koli.",
                   "category": "natural",
                   "coords": [
                         29.828251,
@@ -328,7 +328,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Ryläyksen kiviputous",
-                  "text": "A viewpoint known for its striking rock formations.",
+                  "text": "A stone waterfall (kiviputous) on the slopes of Koli hill.",
                   "category": "natural",
                   "coords": [
                         29.828251,
@@ -745,7 +745,7 @@ export const finlandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Astelin uimaranta",
-                  "text": "Astelin uimaranta ist ein Strand in der Nähe von Pyhatunturi.",
+                  "text": "Ein Badeplatz am Fuß des Pyhätunturi-Fells.",
                   "category": "recreational",
                   "coords": [
                         27.214475,
@@ -819,7 +819,7 @@ export const finlandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Astelin uimaranta",
-                  "text": "Az Astelin uimaranta egy strand Pyhatunturi közelében.",
+                  "text": "Strand a Pyhätunturi-hegy lábánál.",
                   "category": "recreational",
                   "coords": [
                         27.214475,
@@ -893,7 +893,7 @@ export const finlandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Astelin uimaranta",
-                  "text": "Astelin uimaranta este o plajă lângă Pyhatunturi.",
+                  "text": "O plajă de înot la poalele muntelui Pyhätunturi.",
                   "category": "recreational",
                   "coords": [
                         27.214475,
@@ -967,7 +967,7 @@ export const finlandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Astelin uimaranta",
-                  "text": "Astelin uimaranta is a beach near Pyhatunturi.",
+                  "text": "A swimming beach at the foot of Pyhätunturi fell.",
                   "category": "recreational",
                   "coords": [
                         27.214475,
@@ -1510,7 +1510,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Laukukero",
-                  "text": "Ein Gipfel in der Pallastunturi-Kette in Finnisch-Lappland.",
+                  "text": "Der Laukukero ist ein Fjell im Nationalpark Pallastunturi, bekannt für seinen einfachen Wanderweg und die atemberaubende Aussicht auf die arktische Landschaft.",
                   "category": "landmark",
                   "coords": [
                         24.033384,
@@ -1539,7 +1539,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Laukukero",
-                  "text": "A finnországi Pallastunturi-hegység egyik hegycsúcsa.",
+                  "text": "A Laukukero egy tundrahegy a Pallastunturi Nemzeti Parkban, könnyű túraútvonaláról és lélegzetelállító kilátásáról ismert az északi tájakra.",
                   "category": "landmark",
                   "coords": [
                         24.033384,
@@ -1568,7 +1568,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Laukukero",
-                  "text": "Un vârf în lanțul muntos Pallastunturi din Laponia finlandeză.",
+                  "text": "Laukukero este un deal stâncos în Parcul Național Pallastunturi, cunoscut pentru traseul de drumeție ușor și priveliștile uimitoare asupra peisajului arctic.",
                   "category": "landmark",
                   "coords": [
                         24.033384,
@@ -1597,7 +1597,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Laukukero",
-                  "text": "A peak in the Pallastunturi range in Finnish Lapland.",
+                  "text": "Laukukero is a fell in Pallastunturi National Park, known for its easy hiking trail and stunning views over the Arctic landscape.",
                   "category": "landmark",
                   "coords": [
                         24.033384,
@@ -1798,7 +1798,7 @@ export const finlandReliefV2: POI[] = [
       "de": [
             {
                   "name": "Muonion kotiseutumuseo",
-                  "text": "Ein Museum, das die Lokalgeschichte und das traditionelle Leben in Muonio zeigt.",
+                  "text": "Heimatmuseum der Region Muonio in Olostunturi.",
                   "category": "museum",
                   "coords": [
                         23.667922,
@@ -1807,7 +1807,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Pekosen ranta",
-                  "text": "Ein öffentlicher Strandbereich in der Region Muonio.",
+                  "text": "Ein Sandstrand am Ufer des Pekonen-Sees in Olostunturi.",
                   "category": "recreational",
                   "coords": [
                         23.672505,
@@ -1825,7 +1825,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Harriniva Huskyfarm",
-                  "text": "Eine Huskyfarm, die Schlittenhunde-Erlebnisse und Touren anbietet.",
+                  "text": "Eine arbeitende Huskyschlittenfarm in Olostunturi.",
                   "category": "landmark",
                   "coords": [
                         23.654848,
@@ -1834,7 +1834,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Muonionjärvi Puthaanranta lintutorni",
-                  "text": "Ein Aussichtspunkt zur Vogelbeobachtung im Gebiet Olostunturi.",
+                  "text": "Ein Vogelbeobachtungsturm mit Blick über die Feuchtgebiete von Puthaanranta.",
                   "category": "natural",
                   "coords": [
                         23.671072,
@@ -1845,7 +1845,7 @@ export const finlandReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Muonion kotiseutumuseo",
-                  "text": "Múzeum, amely Muonio helytörténetét és hagyományos életmódját mutatja be.",
+                  "text": "A Muonio régió helytörténeti múzeuma Olostunturiban.",
                   "category": "museum",
                   "coords": [
                         23.667922,
@@ -1854,7 +1854,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Pekosen ranta",
-                  "text": "Nyilvános strandterület Muonio régiójában.",
+                  "text": "Homokos strand a Pekonen-tó partján Olostunturiban.",
                   "category": "recreational",
                   "coords": [
                         23.672505,
@@ -1872,7 +1872,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Harriniva Huskyfarm",
-                  "text": "Husky-farm, amely szánhúzó kutyaélményeket és túrákat kínál.",
+                  "text": "Működő szánhúzókutya-farm Olostunturiban.",
                   "category": "landmark",
                   "coords": [
                         23.654848,
@@ -1881,7 +1881,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Muonionjärvi Puthaanranta lintutorni",
-                  "text": "Madármegfigyelő kilátó az Olostunturi területén.",
+                  "text": "Madármegfigyelő torony, amely a Puthaanranta mocsaraira néz.",
                   "category": "natural",
                   "coords": [
                         23.671072,
@@ -1892,7 +1892,7 @@ export const finlandReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Muonion kotiseutumuseo",
-                  "text": "Un muzeu care prezintă istoria locală și viața tradițională din Muonio.",
+                  "text": "Muzeul de istorie locală al regiunii Muonio din Olostunturi.",
                   "category": "museum",
                   "coords": [
                         23.667922,
@@ -1901,7 +1901,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Pekosen ranta",
-                  "text": "O zonă de plajă publică în regiunea Muonio.",
+                  "text": "O plajă nisipoasă pe malul lacului Pekonen în Olostunturi.",
                   "category": "recreational",
                   "coords": [
                         23.672505,
@@ -1919,7 +1919,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Harriniva Huskyfarm",
-                  "text": "O fermă de husky care oferă experiențe cu sănii trase de câini și tururi.",
+                  "text": "O fermă funcțională de câini de sanie în Olostunturi.",
                   "category": "landmark",
                   "coords": [
                         23.654848,
@@ -1928,7 +1928,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Muonionjärvi Puthaanranta lintutorni",
-                  "text": "Un punct de observație pentru păsări în zona Olostunturi.",
+                  "text": "Un turn de observare a păsărilor cu vedere asupra zonelor umede Puthaanranta.",
                   "category": "natural",
                   "coords": [
                         23.671072,
@@ -1939,7 +1939,7 @@ export const finlandReliefV2: POI[] = [
       "en": [
             {
                   "name": "Muonio local history museum",
-                  "text": "A museum showcasing the local history and traditional life of Muonio.",
+                  "text": "Local history museum of the Muonio region in Olostunturi.",
                   "category": "museum",
                   "coords": [
                         23.667922,
@@ -1948,7 +1948,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Pekosen ranta",
-                  "text": "A public beach area in the Muonio region.",
+                  "text": "A sandy beach on the shores of Lake Pekonen in Olostunturi.",
                   "category": "recreational",
                   "coords": [
                         23.672505,
@@ -1966,7 +1966,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Harriniva Huskyfarm",
-                  "text": "A husky farm offering sled dog experiences and tours.",
+                  "text": "A working husky farm offering sled dog experiences in Olostunturi.",
                   "category": "landmark",
                   "coords": [
                         23.654848,
@@ -1975,7 +1975,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Puthaanranta birdwatching tower",
-                  "text": "A viewpoint for birdwatching located in the Olostunturi area.",
+                  "text": "A birdwatching tower overlooking the wetlands of Puthaanranta.",
                   "category": "natural",
                   "coords": [
                         23.671072,
@@ -2203,7 +2203,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Polar-Badet",
-                  "text": "Eine öffentliche Badeanstalt in der Nähe des Aavasaksa-Hügels.",
+                  "text": "Ein polar thematisiertes Badegebiet an den Hängen des Aavasaksa-Hügels.",
                   "category": "recreational",
                   "coords": [
                         23.649941,
@@ -2268,7 +2268,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Polar-Badet",
-                  "text": "Egy nyilvános fürdő az Aavasaksa-domb közelében.",
+                  "text": "Sarkvidéki témájú fürdőhely az Aavasaksa-domb lejtőin.",
                   "category": "recreational",
                   "coords": [
                         23.649941,
@@ -2333,7 +2333,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Polar-Badet",
-                  "text": "O baie publică situată lângă dealul Aavasaksa.",
+                  "text": "O zonă de baie cu temă polară pe pantele dealului Aavasaksa.",
                   "category": "recreational",
                   "coords": [
                         23.649941,
@@ -2398,7 +2398,7 @@ export const finlandReliefV2: POI[] = [
             },
             {
                   "name": "Polar-Badet",
-                  "text": "A public bath facility located near Aavasaksa Hill.",
+                  "text": "A polar-themed bathing area on the slopes of Aavasaksa hill.",
                   "category": "recreational",
                   "coords": [
                         23.649941,

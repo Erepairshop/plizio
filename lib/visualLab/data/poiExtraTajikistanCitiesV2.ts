@@ -3,7 +3,1060 @@ import type { POI } from "./poi";
 
 export const poiExtraTajikistanCitiesV2: POI[] = [
   {
-    id: "dushanbe-cities-v2",
+    id: "dushanbe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Komp'iuternye igry",
+                  "text": "Ein Indoor-Freizeitzentrum in Duschanbe, das auf elektronische Spiele und Videospiele spezialisiert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        68.740743,
+                        38.51712
+                  ]
+            },
+            {
+                  "name": "Dom Anvara",
+                  "text": "Ein großes Privathaus mit markanter, festungsartiger Architektur im Stil einer Burg.",
+                  "category": "castle",
+                  "coords": [
+                        68.732506,
+                        38.494884
+                  ]
+            },
+            {
+                  "name": ".",
+                  "text": "Ein imposantes Gebäude in Duschanbe mit wehrhaften architektonischen Merkmalen und Zinnen.",
+                  "category": "castle",
+                  "coords": [
+                        68.723157,
+                        38.503245
+                  ]
+            },
+            {
+                  "name": "Detskii razvlekatel'nyi tsentr Rokhat",
+                  "text": "Ein familienfreundliches Unterhaltungszentrum mit Spielplätzen und Aktivitäten für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        68.751218,
+                        38.530641
+                  ]
+            },
+            {
+                  "name": "Zeboi mekhr",
+                  "text": "Ein Freizeitpark in der Hauptstadt, der Erholungsflächen und Attraktionen im Freien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        68.752103,
+                        38.532848
+                  ]
+            },
+            {
+                  "name": "Letnii teatr",
+                  "text": "Eine Freilichtbühne in Duschanbe, die in den Sommermonaten für Theateraufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        68.756411,
+                        38.523826
+                  ]
+            },
+            {
+                  "name": "Tekhnologicheskii park",
+                  "text": "Ein moderner Freizeitpark in Duschanbe mit Fahrgeschäften und Grünanlagen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        68.757867,
+                        38.525305
+                  ]
+            },
+            {
+                  "name": "Zoologicheskii muzei IZIPa",
+                  "text": "Dieses Museum zeigt eine umfangreiche Sammlung der vielfältigen Fauna Tadschikistans.",
+                  "category": "museum",
+                  "coords": [
+                        68.822794,
+                        38.532469
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Eine traditionelle Moschee in Duschanbe, die als lokaler Versammlungsort für das tägliche Gebet dient.",
+                  "category": "religious",
+                  "coords": [
+                        68.783499,
+                        38.476459
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e",
+                  "text": "Eine bedeutende Freitagsmoschee in Duschanbe mit einer weitläufigen Gebetshalle für Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        68.728283,
+                        38.465746
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "Eine kleine Nachbarschaftsmoschee in Duschanbe für die täglichen rituellen Waschungen und Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        68.782044,
+                        38.500502
+                  ]
+            },
+            {
+                  "name": "masdzhid Maschid",
+                  "text": "Diese Moschee im Qizilyulduz-Viertel zeichnet sich durch ihre schlichte, funktionale Gestaltung aus.",
+                  "category": "religious",
+                  "coords": [
+                        68.796845,
+                        38.496164
+                  ]
+            },
+            {
+                  "name": "Mechet' Bilol",
+                  "text": "Die Bilol-Moschee in Duschanbe ist ein wichtiger Anlaufpunkt für das Freitagsgebet im Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        68.759529,
+                        38.513199
+                  ]
+            },
+            {
+                  "name": "Mechet' Imam Azam",
+                  "text": "Diese große Moschee ist dem Imam Azam gewidmet und beeindruckt durch ihre monumentale Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        68.752098,
+                        38.513562
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid namoz chom'e",
+                  "text": "Ein muslimisches Gotteshaus in Duschanbe, das für seine ruhige Atmosphäre während des Namaz bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        68.741295,
+                        38.509733
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e namoz",
+                  "text": "Diese Moschee ist nach dem Kalifen Umar benannt und bildet ein religiöses Zentrum im Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        68.723073,
+                        38.5069
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e",
+                  "text": "Ein Sakralbau in Duschanbe, der dem Andenken an Amir Khamza gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        68.696802,
+                        38.492731
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid",
+                  "text": "Eine lokale Moschee in Duschanbe, die als Ort der Kontemplation und des Gemeinschaftsgebetes dient.",
+                  "category": "religious",
+                  "coords": [
+                        68.712563,
+                        38.487419
+                  ]
+            },
+            {
+                  "name": "Novoapostol'skaia tserkov' Dushanbe",
+                  "text": "Die Hauptkirche der Neuapostolischen Gemeinde in Duschanbe bietet regelmäßige christliche Gottesdienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        68.740296,
+                        38.523427
+                  ]
+            },
+            {
+                  "name": "Mechet' imeni proroka Mukhammeda",
+                  "text": "Eine dem Propheten Mohammed gewidmete Moschee, die durch ihre kunstvollen Kalligrafien besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        68.744456,
+                        38.520942
+                  ]
+            },
+            {
+                  "name": "Tserkov' khristian-adventistov sed'mogo dnia",
+                  "text": "Die Kirche der Siebenten-Tags-Adventisten in Duschanbe ist ein Zentrum für die protestantische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        68.745413,
+                        38.520609
+                  ]
+            },
+            {
+                  "name": "Maschidi Chortut (Khol Mashrab)",
+                  "text": "Eine Moschee in Duschanbe, die nach Khol Mashrab benannt ist und traditionelle Gebetsriten pflegt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.750761,
+                        38.53502
+                  ]
+            },
+            {
+                  "name": "Mechet imeni Gulomchon",
+                  "text": "Diese Moschee trägt den Namen Gulomchon und dient als spiritueller Treffpunkt in Duschanbe.",
+                  "category": "religious",
+                  "coords": [
+                        68.798175,
+                        38.549443
+                  ]
+            },
+            {
+                  "name": "Maschidi panchvakta (Iakum-Sovetskii)",
+                  "text": "Eine Moschee in Duschanbe, in der die fünf täglichen Gebetszeiten streng eingehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        68.754725,
+                        38.538369
+                  ]
+            },
+            {
+                  "name": "Mechet' posiolka Pravdy",
+                  "text": "Die Moschee in der Pravda-Siedlung ist ein wichtiger religiöser Anlaufpunkt für die Dorfbewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        68.795816,
+                        38.540196
+                  ]
+            },
+            {
+                  "name": "Bozorchai 46 mkrn",
+                  "text": "Ein lokaler Marktplatz im 46. Mikrorajon, bekannt für frisches Obst und Gemüse aus der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        68.765086,
+                        38.525407
+                  ]
+            },
+            {
+                  "name": "Korvon bozor",
+                  "text": "Korvon ist der größte Großhandelsmarkt in Duschanbe, spezialisiert auf Textilien und Kleidung.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753963,
+                        38.504268
+                  ]
+            },
+            {
+                  "name": "Sakhovat",
+                  "text": "Der Sakhovat-Markt im Süden von Duschanbe ist berühmt für seine Auswahl an traditionellem Fladenbrot.",
+                  "category": "cultural",
+                  "coords": [
+                        68.760893,
+                        38.518769
+                  ]
+            },
+            {
+                  "name": "Bozorchai Madad",
+                  "text": "Ein kleinerer Nachbarschaftsmarkt in Duschanbe für den täglichen Bedarf an Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        68.741276,
+                        38.528858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Komp'iuternye igry",
+                  "text": "Beltéri szabadidőközpont Dusanbéban, amely elektronikus és videojátékokra specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        68.740743,
+                        38.51712
+                  ]
+            },
+            {
+                  "name": "Dom Anvara",
+                  "text": "Nagyméretű magánház, amely jellegzetes, várszerű erődített építészettel rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        68.732506,
+                        38.494884
+                  ]
+            },
+            {
+                  "name": ".",
+                  "text": "Impozáns épület Dusanbéban, védelmi jellegű építészeti jegyekkel és bástyákkal.",
+                  "category": "castle",
+                  "coords": [
+                        68.723157,
+                        38.503245
+                  ]
+            },
+            {
+                  "name": "Detskii razvlekatel'nyi tsentr Rokhat",
+                  "text": "Családbarát szórakoztató központ játszóterekkel és gyermekeknek szóló foglalkozásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        68.751218,
+                        38.530641
+                  ]
+            },
+            {
+                  "name": "Zeboi mekhr",
+                  "text": "Szabadidőpark a fővárosban, amely szabadtéri pihenőhelyeket és attrakciókat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        68.752103,
+                        38.532848
+                  ]
+            },
+            {
+                  "name": "Letnii teatr",
+                  "text": "Szabadtéri színpad Dusanbéban, amelyet a nyári hónapokban színházi előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        68.756411,
+                        38.523826
+                  ]
+            },
+            {
+                  "name": "Tekhnologicheskii park",
+                  "text": "Dusanbe modern vidámparkja, ahol különféle játékgépek és zöldfelületek várják a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        68.757867,
+                        38.525305
+                  ]
+            },
+            {
+                  "name": "Zoologicheskii muzei IZIPa",
+                  "text": "Ez a múzeum Tádzsikisztán gazdag állatvilágának kitömött példányait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.822794,
+                        38.532469
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Hagyományos mecset Dusanbe területén, amely a helyi közösség napi imádságainak helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        68.783499,
+                        38.476459
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e",
+                  "text": "Dusanbe egyik jelentős pénteki mecsetje, amely tágas imacsarnokkal várja a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        68.728283,
+                        38.465746
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "Kisebb környékbeli mecset Dusanbében a napi rituális mosakodáshoz és imákhoz.",
+                  "category": "religious",
+                  "coords": [
+                        68.782044,
+                        38.500502
+                  ]
+            },
+            {
+                  "name": "masdzhid Maschid",
+                  "text": "A Qizilyulduz negyed mecsetje, amelyet egyszerű és funkcionális kialakítás jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        68.796845,
+                        38.496164
+                  ]
+            },
+            {
+                  "name": "Mechet' Bilol",
+                  "text": "A Bilol mecset Dusanbében a környék hívőinek fontos találkozóhelye a pénteki imák idején.",
+                  "category": "landmark",
+                  "coords": [
+                        68.759529,
+                        38.513199
+                  ]
+            },
+            {
+                  "name": "Mechet' Imam Azam",
+                  "text": "Ez a hatalmas mecset Imam Azam tiszteletére épült, monumentális építészete lenyűgöző.",
+                  "category": "landmark",
+                  "coords": [
+                        68.752098,
+                        38.513562
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid namoz chom'e",
+                  "text": "Muszlim imaház Dusanbében, amely a namaz alatti nyugodt hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        68.741295,
+                        38.509733
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e namoz",
+                  "text": "Ez a mecset Omár kalifa nevét viseli, és a negyed egyik vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        68.723073,
+                        38.5069
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e",
+                  "text": "Dusanbe egyik vallási épülete, amelyet Amir Khamza emlékének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        68.696802,
+                        38.492731
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid",
+                  "text": "Helyi mecset Dusanbében, amely az elmélyülés és a közösségi imádság helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        68.712563,
+                        38.487419
+                  ]
+            },
+            {
+                  "name": "Novoapostol'skaia tserkov' Dushanbe",
+                  "text": "Az Új Apostoli Egyház központja Dusanbében, amely rendszeres keresztény istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        68.740296,
+                        38.523427
+                  ]
+            },
+            {
+                  "name": "Mechet' imeni proroka Mukhammeda",
+                  "text": "A Mohamed prófétáról elnevezett mecset, melyet díszes kalligráfiák ékesítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        68.744456,
+                        38.520942
+                  ]
+            },
+            {
+                  "name": "Tserkov' khristian-adventistov sed'mogo dnia",
+                  "text": "A Hetednapi Adventista Egyház temploma Dusanbében, a protestáns közösség központja.",
+                  "category": "landmark",
+                  "coords": [
+                        68.745413,
+                        38.520609
+                  ]
+            },
+            {
+                  "name": "Maschidi Chortut (Khol Mashrab)",
+                  "text": "Khol Mashrabról elnevezett mecset Dusanbében, ahol hagyományos ima rítusokat gyakorolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        68.750761,
+                        38.53502
+                  ]
+            },
+            {
+                  "name": "Mechet imeni Gulomchon",
+                  "text": "Ez a mecset Gulomchon nevét viseli, és spirituális találkozóhelyként szolgál Dusanbében.",
+                  "category": "religious",
+                  "coords": [
+                        68.798175,
+                        38.549443
+                  ]
+            },
+            {
+                  "name": "Maschidi panchvakta (Iakum-Sovetskii)",
+                  "text": "Mecset Dusanbében, ahol szigorúan betartják az öt napi imaidőt.",
+                  "category": "landmark",
+                  "coords": [
+                        68.754725,
+                        38.538369
+                  ]
+            },
+            {
+                  "name": "Mechet' posiolka Pravdy",
+                  "text": "A Pravda település mecsetje a falusiak fontos vallási találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        68.795816,
+                        38.540196
+                  ]
+            },
+            {
+                  "name": "Bozorchai 46 mkrn",
+                  "text": "Helyi piac a 46. lakótelepen, amely a régió friss gyümölcseiről és zöldségeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        68.765086,
+                        38.525407
+                  ]
+            },
+            {
+                  "name": "Korvon bozor",
+                  "text": "Korvon Dusanbe legnagyobb nagykereskedelmi piaca, amely textíliákra és ruházati cikkekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753963,
+                        38.504268
+                  ]
+            },
+            {
+                  "name": "Sakhovat",
+                  "text": "A Dusanbe déli részén található Sakhovat piac híres a hagyományos lepénykenyér-választékáról.",
+                  "category": "cultural",
+                  "coords": [
+                        68.760893,
+                        38.518769
+                  ]
+            },
+            {
+                  "name": "Bozorchai Madad",
+                  "text": "Kisebb környékbeli piac Dusanbében a napi élelmiszerszükségletek beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        68.741276,
+                        38.528858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Komp'iuternye igry",
+                  "text": "Un centru de recreere interior în Dushanbe, specializat în jocuri electronice și video.",
+                  "category": "recreational",
+                  "coords": [
+                        68.740743,
+                        38.51712
+                  ]
+            },
+            {
+                  "name": "Dom Anvara",
+                  "text": "O casă privată mare, cu o arhitectură distinctivă de tip fortăreață, asemănătoare unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        68.732506,
+                        38.494884
+                  ]
+            },
+            {
+                  "name": ".",
+                  "text": "O clădire impunătoare în Dushanbe, cu trăsături arhitecturale defensive și creneluri.",
+                  "category": "castle",
+                  "coords": [
+                        68.723157,
+                        38.503245
+                  ]
+            },
+            {
+                  "name": "Detskii razvlekatel'nyi tsentr Rokhat",
+                  "text": "Un centru de divertisment pentru familii, cu locuri de joacă și activități pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        68.751218,
+                        38.530641
+                  ]
+            },
+            {
+                  "name": "Zeboi mekhr",
+                  "text": "Un parc de distracții în capitală, oferind spații de recreere și atracții în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        68.752103,
+                        38.532848
+                  ]
+            },
+            {
+                  "name": "Letnii teatr",
+                  "text": "O scenă în aer liber în Dushanbe, utilizată pentru spectacole de teatru în timpul lunilor de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        68.756411,
+                        38.523826
+                  ]
+            },
+            {
+                  "name": "Tekhnologicheskii park",
+                  "text": "Un parc de distracții modern în Dușanbe, cu atracții și spații verzi pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        68.757867,
+                        38.525305
+                  ]
+            },
+            {
+                  "name": "Zoologicheskii muzei IZIPa",
+                  "text": "Acest muzeu prezintă o colecție vastă a faunei diverse din Tadjikistan.",
+                  "category": "museum",
+                  "coords": [
+                        68.822794,
+                        38.532469
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "O moschee tradițională în Dușanbe, care servește drept loc local de adunare pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        68.783499,
+                        38.476459
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e",
+                  "text": "O moschee de vineri importantă în Dușanbe, având o sală de rugăciune spațioasă pentru credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        68.728283,
+                        38.465746
+                  ]
+            },
+            {
+                  "name": "Maschid",
+                  "text": "O mică moschee de cartier în Dușanbe pentru spălările rituale și rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        68.782044,
+                        38.500502
+                  ]
+            },
+            {
+                  "name": "masdzhid Maschid",
+                  "text": "Această moschee din cartierul Qizilyulduz se remarcă prin designul său simplu și funcțional.",
+                  "category": "religious",
+                  "coords": [
+                        68.796845,
+                        38.496164
+                  ]
+            },
+            {
+                  "name": "Mechet' Bilol",
+                  "text": "Moscheea Bilol din Dușanbe este un punct de referință important pentru rugăciunea de vineri din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        68.759529,
+                        38.513199
+                  ]
+            },
+            {
+                  "name": "Mechet' Imam Azam",
+                  "text": "Această moschee mare este dedicată lui Imam Azam și impresionează prin arhitectura sa monumentală.",
+                  "category": "landmark",
+                  "coords": [
+                        68.752098,
+                        38.513562
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid namoz chom'e",
+                  "text": "Un lăcaș de cult musulman în Dușanbe, cunoscut pentru atmosfera sa liniștită în timpul rugăciunii Namaz.",
+                  "category": "landmark",
+                  "coords": [
+                        68.741295,
+                        38.509733
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e namoz",
+                  "text": "Această moschee poartă numele califului Umar și constituie un centru religios în cartier.",
+                  "category": "religious",
+                  "coords": [
+                        68.723073,
+                        38.5069
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e",
+                  "text": "Un edificiu religios în Dușanbe dedicat memoriei lui Amir Khamza.",
+                  "category": "religious",
+                  "coords": [
+                        68.696802,
+                        38.492731
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid",
+                  "text": "O moschee locală în Dușanbe, care servește ca loc de contemplare și rugăciune comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        68.712563,
+                        38.487419
+                  ]
+            },
+            {
+                  "name": "Novoapostol'skaia tserkov' Dushanbe",
+                  "text": "Biserica principală a comunității Nou-Apostolice din Dușanbe oferă slujbe creștine regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        68.740296,
+                        38.523427
+                  ]
+            },
+            {
+                  "name": "Mechet' imeni proroka Mukhammeda",
+                  "text": "O moschee dedicată profetului Mohamed, care impresionează prin caligrafiile sale artistice.",
+                  "category": "landmark",
+                  "coords": [
+                        68.744456,
+                        38.520942
+                  ]
+            },
+            {
+                  "name": "Tserkov' khristian-adventistov sed'mogo dnia",
+                  "text": "Biserica Adventistă de Ziua a Șaptea din Dușanbe este un centru pentru comunitatea protestantă.",
+                  "category": "landmark",
+                  "coords": [
+                        68.745413,
+                        38.520609
+                  ]
+            },
+            {
+                  "name": "Maschidi Chortut (Khol Mashrab)",
+                  "text": "O moschee din Dușanbe numită după Khol Mashrab, care menține riturile tradiționale de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        68.750761,
+                        38.53502
+                  ]
+            },
+            {
+                  "name": "Mechet imeni Gulomchon",
+                  "text": "Această moschee poartă numele Gulomchon și servește ca loc de întâlnire spirituală în Dușanbe.",
+                  "category": "religious",
+                  "coords": [
+                        68.798175,
+                        38.549443
+                  ]
+            },
+            {
+                  "name": "Maschidi panchvakta (Iakum-Sovetskii)",
+                  "text": "O moschee în Dușanbe unde se respectă cu strictețe cele cinci momente de rugăciune zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        68.754725,
+                        38.538369
+                  ]
+            },
+            {
+                  "name": "Mechet' posiolka Pravdy",
+                  "text": "Moscheea din așezarea Pravda este un punct de referință religios important pentru săteni.",
+                  "category": "landmark",
+                  "coords": [
+                        68.795816,
+                        38.540196
+                  ]
+            },
+            {
+                  "name": "Bozorchai 46 mkrn",
+                  "text": "O piață locală în micro-raionul 46, cunoscută pentru fructele și legumele proaspete din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        68.765086,
+                        38.525407
+                  ]
+            },
+            {
+                  "name": "Korvon bozor",
+                  "text": "Korvon este cea mai mare piață angro din Dușanbe, specializată în textile și îmbrăcăminte.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753963,
+                        38.504268
+                  ]
+            },
+            {
+                  "name": "Sakhovat",
+                  "text": "Piața Sakhovat din sudul Dușanbe este celebră pentru selecția sa de pâine plată tradițională.",
+                  "category": "cultural",
+                  "coords": [
+                        68.760893,
+                        38.518769
+                  ]
+            },
+            {
+                  "name": "Bozorchai Madad",
+                  "text": "O piață de cartier mai mică în Dușanbe pentru necesitățile alimentare zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        68.741276,
+                        38.528858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Komp'iuternye igry",
+                  "text": "An indoor leisure center in Dushanbe specializing in electronic and video gaming.",
+                  "category": "recreational",
+                  "coords": [
+                        68.740743,
+                        38.51712
+                  ]
+            },
+            {
+                  "name": "Dom Anvara",
+                  "text": "A large private residence featuring distinctive fortress-like architecture in a castle style.",
+                  "category": "castle",
+                  "coords": [
+                        68.732506,
+                        38.494884
+                  ]
+            },
+            {
+                  "name": ". . . .",
+                  "text": "An imposing building in Dushanbe featuring defensive architectural elements and turrets.",
+                  "category": "castle",
+                  "coords": [
+                        68.723157,
+                        38.503245
+                  ]
+            },
+            {
+                  "name": "Detskiy razvlekatel'nyy tsentr Rokhat",
+                  "text": "A family-friendly entertainment center offering indoor playgrounds and activities for children.",
+                  "category": "recreational",
+                  "coords": [
+                        68.751218,
+                        38.530641
+                  ]
+            },
+            {
+                  "name": "Zeboi mekhr",
+                  "text": "A leisure park in the capital offering outdoor recreational spaces and attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        68.752103,
+                        38.532848
+                  ]
+            },
+            {
+                  "name": "Letniy teatr",
+                  "text": "An open-air stage in Dushanbe used for theatrical performances during the summer months.",
+                  "category": "cultural",
+                  "coords": [
+                        68.756411,
+                        38.523826
+                  ]
+            },
+            {
+                  "name": "Tekhnologicheskiy park",
+                  "text": "A modern leisure park in Dushanbe featuring various amusement rides and green spaces for families.",
+                  "category": "recreational",
+                  "coords": [
+                        68.757867,
+                        38.525305
+                  ]
+            },
+            {
+                  "name": "Zoologicheskii muzei IZIPa",
+                  "text": "This museum displays an extensive collection of Tajikistan's diverse wildlife and fauna specimens.",
+                  "category": "museum",
+                  "coords": [
+                        68.822794,
+                        38.532469
+                  ]
+            },
+            {
+                  "name": "Mechet",
+                  "text": "A traditional mosque in Dushanbe serving as a local community hub for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        68.783499,
+                        38.476459
+                  ]
+            },
+            {
+                  "name": "Mechet' maschid chom'e",
+                  "text": "A significant Friday mosque in Dushanbe featuring a spacious prayer hall for worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        68.728283,
+                        38.465746
+                  ]
+            },
+            {
+                  "name": "masjid",
+                  "text": "A small neighborhood mosque in Dushanbe providing a space for daily ritual washings and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        68.782044,
+                        38.500502
+                  ]
+            },
+            {
+                  "name": "masjid qizilyulduz",
+                  "text": "This mosque in the Qizilyulduz district is characterized by its simple and functional design.",
+                  "category": "religious",
+                  "coords": [
+                        68.796845,
+                        38.496164
+                  ]
+            },
+            {
+                  "name": "Mechet' Bilol",
+                  "text": "The Bilol Mosque in Dushanbe serves as an important focal point for Friday prayers in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        68.759529,
+                        38.513199
+                  ]
+            },
+            {
+                  "name": "Mechet' Imam Azam",
+                  "text": "This large mosque is dedicated to Imam Azam and stands out for its monumental architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        68.752098,
+                        38.513562
+                  ]
+            },
+            {
+                  "name": "Khram maschid namoz",
+                  "text": "A Muslim place of worship in Dushanbe known for its peaceful atmosphere during Namaz prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        68.741295,
+                        38.509733
+                  ]
+            },
+            {
+                  "name": "Ali maschid b.nomi. khazrati Umar",
+                  "text": "This mosque is named after Caliph Umar and serves as a religious center for the district.",
+                  "category": "religious",
+                  "coords": [
+                        68.723073,
+                        38.5069
+                  ]
+            },
+            {
+                  "name": "Ba nomi amir khamza",
+                  "text": "A religious building in Dushanbe dedicated to the memory of Amir Hamza.",
+                  "category": "religious",
+                  "coords": [
+                        68.696802,
+                        38.492731
+                  ]
+            },
+            {
+                  "name": "Alisher",
+                  "text": "A local mosque in Dushanbe serving as a place for contemplation and communal prayer.",
+                  "category": "religious",
+                  "coords": [
+                        68.712563,
+                        38.487419
+                  ]
+            },
+            {
+                  "name": "Novoapostol'skaia tserkov' Dushanbe",
+                  "text": "The main church of the New Apostolic community in Dushanbe offers regular Christian services.",
+                  "category": "landmark",
+                  "coords": [
+                        68.740296,
+                        38.523427
+                  ]
+            },
+            {
+                  "name": "Mechet' imeni proroka Mukhammeda",
+                  "text": "A mosque dedicated to the Prophet Muhammad, featuring intricate calligraphic decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        68.744456,
+                        38.520942
+                  ]
+            },
+            {
+                  "name": "Tserkov' khristian-adventistov sed'mogo dnia",
+                  "text": "The Seventh-day Adventist Church in Dushanbe serves as a spiritual center for the Protestant community.",
+                  "category": "landmark",
+                  "coords": [
+                        68.745413,
+                        38.520609
+                  ]
+            },
+            {
+                  "name": "Maschidi Chortut (Khol Mashrab)",
+                  "text": "A mosque in Dushanbe named after Khol Mashrab, upholding traditional prayer rites.",
+                  "category": "landmark",
+                  "coords": [
+                        68.750761,
+                        38.53502
+                  ]
+            },
+            {
+                  "name": "Mechet imeni Gulomchon",
+                  "text": "This mosque bears the name Gulomchon and serves as a spiritual meeting place in Dushanbe.",
+                  "category": "religious",
+                  "coords": [
+                        68.798175,
+                        38.549443
+                  ]
+            },
+            {
+                  "name": "Maschidi panchvakta (Iakum-Sovetskii)",
+                  "text": "A mosque in Dushanbe where the five daily prayer times are strictly observed.",
+                  "category": "landmark",
+                  "coords": [
+                        68.754725,
+                        38.538369
+                  ]
+            },
+            {
+                  "name": "Mechet' posiolka Pravdy",
+                  "text": "The mosque in the Pravda settlement is a key religious focal point for the local villagers.",
+                  "category": "landmark",
+                  "coords": [
+                        68.795816,
+                        38.540196
+                  ]
+            },
+            {
+                  "name": "Bozorchai 46 mkrn",
+                  "text": "A local marketplace in the 46th microdistrict, known for regional fresh fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        68.765086,
+                        38.525407
+                  ]
+            },
+            {
+                  "name": "Korvon",
+                  "text": "Korvon is the largest wholesale market in Dushanbe, specializing in textiles and clothing.",
+                  "category": "cultural",
+                  "coords": [
+                        68.753963,
+                        38.504268
+                  ]
+            },
+            {
+                  "name": "Sakhovat",
+                  "text": "The Sakhovat market in southern Dushanbe is famous for its wide variety of traditional flatbreads.",
+                  "category": "cultural",
+                  "coords": [
+                        68.760893,
+                        38.518769
+                  ]
+            },
+            {
+                  "name": "Bozorchai Madad",
+                  "text": "A smaller neighborhood market in Dushanbe catering to daily grocery needs.",
+                  "category": "cultural",
+                  "coords": [
+                        68.741276,
+                        38.528858
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "TJ-DU",
     coords: [68.7794, 38.5367],
@@ -65,7 +1118,160 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "khujand-cities-v2",
+    id: "khujand-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Detskii gorodok",
+                  "text": "Ein spezieller Kinderfreizeitpark in Chudschand mit verschiedenen Fahrgeschäften und Spielbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        69.620223,
+                        40.283446
+                  ]
+            },
+            {
+                  "name": "Kamoli Khuch'andi",
+                  "text": "Ein großes Denkmal in Chudschand, das dem berühmten persischen Dichter aus dem 14. Jahrhundert gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        69.624405,
+                        40.282861
+                  ]
+            },
+            {
+                  "name": "Teatr imeni Kamoli Khudzhandi",
+                  "text": "Eine zentrale Kulturstätte in Chudschand, in der Theateraufführungen und Musikveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        69.619273,
+                        40.283682
+                  ]
+            },
+            {
+                  "name": "Tserkov' <<Bozh'ia Liubov'>>",
+                  "text": "Ein protestantisches Gotteshaus, das der christlichen Gemeinde in der Stadt Chudschand dient.",
+                  "category": "religious",
+                  "coords": [
+                        69.617057,
+                        40.28374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Detskii gorodok",
+                  "text": "Kifejezetten gyermekeknek szánt vidámpark Hudzsandban, különféle játékokkal és játszóterekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        69.620223,
+                        40.283446
+                  ]
+            },
+            {
+                  "name": "Kamoli Khuch'andi",
+                  "text": "Hudzsand nagyszabású emlékműve, amelyet a neves 14. századi perzsa költőnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        69.624405,
+                        40.282861
+                  ]
+            },
+            {
+                  "name": "Teatr imeni Kamoli Khudzhandi",
+                  "text": "Hudzsand központi kulturális helyszíne, amely színházi előadásoknak és zenei eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        69.619273,
+                        40.283682
+                  ]
+            },
+            {
+                  "name": "Tserkov' <<Bozh'ia Liubov'>>",
+                  "text": "Protestáns istentiszteleti hely, amely Hudzsand városának keresztény közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        69.617057,
+                        40.28374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Detskii gorodok",
+                  "text": "Un parc de distracții dedicat copiilor din Hudjand, cu diverse atracții și zone de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        69.620223,
+                        40.283446
+                  ]
+            },
+            {
+                  "name": "Kamoli Khuch'andi",
+                  "text": "Un monument impunător în Hudjand dedicat renumitului poet persan din secolul al XIV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        69.624405,
+                        40.282861
+                  ]
+            },
+            {
+                  "name": "Teatr imeni Kamoli Khudzhandi",
+                  "text": "O locație culturală centrală în Hudjand, care găzduiește spectacole de teatru și evenimente muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.619273,
+                        40.283682
+                  ]
+            },
+            {
+                  "name": "Tserkov' <<Bozh'ia Liubov'>>",
+                  "text": "Un lăcaș de cult protestant care deservește comunitatea creștină din orașul Hudjand.",
+                  "category": "religious",
+                  "coords": [
+                        69.617057,
+                        40.28374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Detskii gorodok",
+                  "text": "A dedicated children's amusement park in Khujand with various rides and play areas.",
+                  "category": "recreational",
+                  "coords": [
+                        69.620223,
+                        40.283446
+                  ]
+            },
+            {
+                  "name": "Kamoli Khujandi",
+                  "text": "A grand monument in Khujand dedicated to the renowned 14th-century Persian poet.",
+                  "category": "historical",
+                  "coords": [
+                        69.624405,
+                        40.282861
+                  ]
+            },
+            {
+                  "name": "Teatr imeni Kamoli Khudzhandi",
+                  "text": "A central cultural venue in Khujand hosting theatrical performances and musical events.",
+                  "category": "cultural",
+                  "coords": [
+                        69.619273,
+                        40.283682
+                  ]
+            },
+            {
+                  "name": "\"Gods Love\" Church",
+                  "text": "A Protestant place of worship serving the Christian community in the city of Khujand.",
+                  "category": "religious",
+                  "coords": [
+                        69.617057,
+                        40.28374
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-SU",
     coords: [69.6222, 40.2826],
@@ -133,7 +1339,340 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "bokhtar-cities-v2", "sights": {"de": [{"name": "Park imeni Rudaki", "text": "Ein Stadtpark in Bochtar, der nach dem berühmten Dichter Rudaki benannt ist.", "category": "family", "coords": [68.772414, 37.840492]}, {"name": "History museum of Khatlon", "text": "Ein Museum in Bochtar, das die Geschichte und Kultur der Region Chatlon zeigt.", "category": "museum", "coords": [68.779849, 37.840741]}, {"name": "Teppa muzei Bibikhur", "text": "Ein Museum in Bochtar, das sich der modernen Geschichte der Stadt widmet.", "category": "museum", "coords": [68.775598, 37.83771]}, {"name": "Gerb", "text": "Ein Monument in Bochtar, das das Staatswappen darstellt.", "category": "historical", "coords": [68.77939, 37.837704]}, {"name": "Korona", "text": "Ein Denkmal in Form einer Krone in Bochtar.", "category": "historical", "coords": [68.758382, 37.844878]}, {"name": "Flagshtok", "text": "Ein imposanter Fahnenmast in Bochtar, ein lokales Wahrzeichen.", "category": "landmark", "coords": [68.776842, 37.838523]}, {"name": "Traktor", "text": "Ein Denkmal in Bochtar, das einen historischen Traktor zeigt.", "category": "historical", "coords": [68.757063, 37.845151]}, {"name": "Khonamon", "text": "Ein lokales Denkmal in der Stadt Bochtar.", "category": "historical", "coords": [68.746832, 37.842609]}, {"name": "Bobodzhon Gafurov", "text": "Eine Statue in Bochtar zu Ehren des tadschikischen Staatsmannes Bobodschon Ghafurov.", "category": "historical", "coords": [68.783687, 37.83258]}], "hu": [{"name": "Park imeni Rudaki", "text": "Bohtar városi parkja, amelyet a híres költőről, Rudakiról neveztek el.", "category": "family", "coords": [68.772414, 37.840492]}, {"name": "History museum of Khatlon", "text": "Múzeum Bohtarban, amely a Hatlon régió történelmét és kultúráját mutatja be.", "category": "museum", "coords": [68.779849, 37.840741]}, {"name": "Teppa muzei Bibikhur", "text": "Bohtari múzeum, amely a város modern történelmével foglalkozik.", "category": "museum", "coords": [68.775598, 37.83771]}, {"name": "Gerb", "text": "Állami címert ábrázoló emlékmű Bohtarban.", "category": "historical", "coords": [68.77939, 37.837704]}, {"name": "Korona", "text": "Korona alakú emlékmű Bohtarban.", "category": "historical", "coords": [68.758382, 37.844878]}, {"name": "Flagshtok", "text": "Impozáns zászlórúd Bohtarban, helyi jelkép.", "category": "landmark", "coords": [68.776842, 37.838523]}, {"name": "Traktor", "text": "Történelmi traktort ábrázoló emlékmű Bohtarban.", "category": "historical", "coords": [68.757063, 37.845151]}, {"name": "Khonamon", "text": "Helyi emlékmű Bohtar városában.", "category": "historical", "coords": [68.746832, 37.842609]}, {"name": "Bobodzhon Gafurov", "text": "Bohtarban található szobor Bobojon Ghafurov tadzsik államférfi tiszteletére.", "category": "historical", "coords": [68.783687, 37.83258]}], "ro": [{"name": "Park imeni Rudaki", "text": "Un parc orășenesc din Bohtar, numit după celebrul poet Rudaki.", "category": "family", "coords": [68.772414, 37.840492]}, {"name": "History museum of Khatlon", "text": "Un muzeu din Bohtar care prezintă istoria și cultura regiunii Hatlon.", "category": "museum", "coords": [68.779849, 37.840741]}, {"name": "Teppa muzei Bibikhur", "text": "Un muzeu din Bohtar dedicat istoriei moderne a orașului.", "category": "museum", "coords": [68.775598, 37.83771]}, {"name": "Gerb", "text": "Un monument din Bohtar care reprezintă stema statului.", "category": "historical", "coords": [68.77939, 37.837704]}, {"name": "Korona", "text": "Un monument în formă de coroană din Bohtar.", "category": "historical", "coords": [68.758382, 37.844878]}, {"name": "Flagshtok", "text": "Un catarg impunător în Bohtar, un simbol local.", "category": "landmark", "coords": [68.776842, 37.838523]}, {"name": "Traktor", "text": "Un monument din Bohtar care înfățișează un tractor istoric.", "category": "historical", "coords": [68.757063, 37.845151]}, {"name": "Khonamon", "text": "Un monument local în orașul Bohtar.", "category": "historical", "coords": [68.746832, 37.842609]}, {"name": "Bobodzhon Gafurov", "text": "O statuie din Bohtar în onoarea omului de stat tadjic Bobojon Ghafurov.", "category": "historical", "coords": [68.783687, 37.83258]}], "en": [{"name": "Park imeni Rudaki", "text": "A city park in Bochtar named after the famous poet Rudaki.", "category": "family", "coords": [68.772414, 37.840492]}, {"name": "History museum of Khatlon", "text": "A museum in Bochtar showcasing the history and culture of the Khatlon region.", "category": "museum", "coords": [68.779849, 37.840741]}, {"name": "Teppa (modern history museum)", "text": "A museum in Bochtar dedicated to the modern history of the city.", "category": "museum", "coords": [68.775598, 37.83771]}, {"name": "Gerb", "text": "A monument in Bochtar representing the national emblem.", "category": "historical", "coords": [68.77939, 37.837704]}, {"name": "Korona", "text": "A monument in the shape of a crown in Bochtar.", "category": "historical", "coords": [68.758382, 37.844878]}, {"name": "Flagshtok", "text": "An impressive flagpole in Bochtar, a local landmark.", "category": "landmark", "coords": [68.776842, 37.838523]}, {"name": "Traktor", "text": "A monument in Bochtar featuring a historical tractor.", "category": "historical", "coords": [68.757063, 37.845151]}, {"name": "Khonamon", "text": "A local monument in the city of Bochtar.", "category": "historical", "coords": [68.746832, 37.842609]}, {"name": "Bobojon Ghafurov statue", "text": "A statue in Bochtar honoring the Tajik statesman Bobojon Ghafurov.", "category": "historical", "coords": [68.783687, 37.83258]}]},
+    id: "bokhtar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park imeni Rudaki",
+                  "text": "Ein Stadtpark in Bochtar, der nach dem berühmten Dichter Rudaki benannt ist.",
+                  "category": "family",
+                  "coords": [
+                        68.772414,
+                        37.840492
+                  ]
+            },
+            {
+                  "name": "History museum of Khatlon",
+                  "text": "Ein Museum in Bochtar, das die Geschichte und Kultur der Region Chatlon zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        68.779849,
+                        37.840741
+                  ]
+            },
+            {
+                  "name": "Teppa muzei Bibikhur",
+                  "text": "Ein Museum für moderne Geschichte in Bokhtar, das die Entwicklung der Region im 20. Jahrhundert zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        68.775598,
+                        37.83771
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "Ein Monument in Bochtar, das das Staatswappen darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        68.77939,
+                        37.837704
+                  ]
+            },
+            {
+                  "name": "Korona",
+                  "text": "Ein historisches Gebäude in Bokhtar namens Korona mit einer auffälligen kronenartigen Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        68.758382,
+                        37.844878
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "Ein hoher Fahnenmast als Wahrzeichen im Zentrum von Bokhtar, der oft für nationale Zeremonien genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        68.776842,
+                        37.838523
+                  ]
+            },
+            {
+                  "name": "Traktor",
+                  "text": "Ein historisches Denkmal in Bokhtar mit einem sowjetischen Traktor, das an landwirtschaftliche Errungenschaften erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        68.757063,
+                        37.845151
+                  ]
+            },
+            {
+                  "name": "Khonamon",
+                  "text": "Ein historisches Gebäude in Bokhtar namens Khonamon mit traditioneller zentralasiatischer Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        68.746832,
+                        37.842609
+                  ]
+            },
+            {
+                  "name": "Bobodzhon Gafurov",
+                  "text": "Eine Statue in Bochtar zu Ehren des tadschikischen Staatsmannes Bobodschon Ghafurov.",
+                  "category": "historical",
+                  "coords": [
+                        68.783687,
+                        37.83258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park imeni Rudaki",
+                  "text": "Bohtar városi parkja, amelyet a híres költőről, Rudakiról neveztek el.",
+                  "category": "family",
+                  "coords": [
+                        68.772414,
+                        37.840492
+                  ]
+            },
+            {
+                  "name": "History museum of Khatlon",
+                  "text": "Múzeum Bohtarban, amely a Hatlon régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.779849,
+                        37.840741
+                  ]
+            },
+            {
+                  "name": "Teppa muzei Bibikhur",
+                  "text": "Egy modern történeti múzeum Bokhtarban, amely a régió 20. századi fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        68.775598,
+                        37.83771
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "Állami címert ábrázoló emlékmű Bohtarban.",
+                  "category": "historical",
+                  "coords": [
+                        68.77939,
+                        37.837704
+                  ]
+            },
+            {
+                  "name": "Korona",
+                  "text": "Egy Korona nevű történelmi épület Bokhtarban, jellegzetes koronaszerű építészettel.",
+                  "category": "historical",
+                  "coords": [
+                        68.758382,
+                        37.844878
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "Egy magas zászlórúd nevezetesség Bokhtar központjában, gyakran használják nemzeti ünnepségekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        68.776842,
+                        37.838523
+                  ]
+            },
+            {
+                  "name": "Traktor",
+                  "text": "Egy történelmi emlékmű Bokhtarban, amely egy szovjet traktort ábrázol és a mezőgazdasági sikerekre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        68.757063,
+                        37.845151
+                  ]
+            },
+            {
+                  "name": "Khonamon",
+                  "text": "Egy Khonamon nevű történelmi épület Bokhtarban, hagyományos közép-ázsiai építészettel.",
+                  "category": "historical",
+                  "coords": [
+                        68.746832,
+                        37.842609
+                  ]
+            },
+            {
+                  "name": "Bobodzhon Gafurov",
+                  "text": "Bohtarban található szobor Bobojon Ghafurov tadzsik államférfi tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        68.783687,
+                        37.83258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park imeni Rudaki",
+                  "text": "Un parc orășenesc din Bohtar, numit după celebrul poet Rudaki.",
+                  "category": "family",
+                  "coords": [
+                        68.772414,
+                        37.840492
+                  ]
+            },
+            {
+                  "name": "History museum of Khatlon",
+                  "text": "Un muzeu din Bohtar care prezintă istoria și cultura regiunii Hatlon.",
+                  "category": "museum",
+                  "coords": [
+                        68.779849,
+                        37.840741
+                  ]
+            },
+            {
+                  "name": "Teppa muzei Bibikhur",
+                  "text": "Un muzeu de istorie modernă în Bokhtar, care prezintă evoluția regiunii în secolul XX.",
+                  "category": "museum",
+                  "coords": [
+                        68.775598,
+                        37.83771
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "Un monument din Bohtar care reprezintă stema statului.",
+                  "category": "historical",
+                  "coords": [
+                        68.77939,
+                        37.837704
+                  ]
+            },
+            {
+                  "name": "Korona",
+                  "text": "O clădire istorică în Bokhtar, numită Korona, cu o arhitectură distinctivă asemănătoare unei coroane.",
+                  "category": "historical",
+                  "coords": [
+                        68.758382,
+                        37.844878
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "Un catarg înalt de steag, reper în centrul orașului Bokhtar, folosit adesea pentru ceremonii naționale.",
+                  "category": "landmark",
+                  "coords": [
+                        68.776842,
+                        37.838523
+                  ]
+            },
+            {
+                  "name": "Traktor",
+                  "text": "Un monument istoric în Bokhtar, cu un tractor sovietic, care comemorează realizările agricole.",
+                  "category": "historical",
+                  "coords": [
+                        68.757063,
+                        37.845151
+                  ]
+            },
+            {
+                  "name": "Khonamon",
+                  "text": "O clădire istorică în Bokhtar, numită Khonamon, cu arhitectură tradițională din Asia Centrală.",
+                  "category": "historical",
+                  "coords": [
+                        68.746832,
+                        37.842609
+                  ]
+            },
+            {
+                  "name": "Bobodzhon Gafurov",
+                  "text": "O statuie din Bohtar în onoarea omului de stat tadjic Bobojon Ghafurov.",
+                  "category": "historical",
+                  "coords": [
+                        68.783687,
+                        37.83258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park imeni Rudaki",
+                  "text": "A city park in Bochtar named after the famous poet Rudaki.",
+                  "category": "family",
+                  "coords": [
+                        68.772414,
+                        37.840492
+                  ]
+            },
+            {
+                  "name": "History museum of Khatlon",
+                  "text": "A museum in Bochtar showcasing the history and culture of the Khatlon region.",
+                  "category": "museum",
+                  "coords": [
+                        68.779849,
+                        37.840741
+                  ]
+            },
+            {
+                  "name": "Teppa (modern history museum)",
+                  "text": "A modern history museum in Bokhtar, showcasing the region's 20th-century developments.",
+                  "category": "museum",
+                  "coords": [
+                        68.775598,
+                        37.83771
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "A monument in Bochtar representing the national emblem.",
+                  "category": "historical",
+                  "coords": [
+                        68.77939,
+                        37.837704
+                  ]
+            },
+            {
+                  "name": "Korona",
+                  "text": "A historical building in Bokhtar named Korona, featuring distinctive crown-like architecture.",
+                  "category": "historical",
+                  "coords": [
+                        68.758382,
+                        37.844878
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "A tall flagpole landmark in central Bokhtar, often used for national ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        68.776842,
+                        37.838523
+                  ]
+            },
+            {
+                  "name": "Traktor",
+                  "text": "A historical monument in Bokhtar featuring a Soviet-era tractor, commemorating agricultural achievements.",
+                  "category": "historical",
+                  "coords": [
+                        68.757063,
+                        37.845151
+                  ]
+            },
+            {
+                  "name": "Khonamon",
+                  "text": "A historical building in Bokhtar named Khonamon, with traditional Central Asian architecture.",
+                  "category": "historical",
+                  "coords": [
+                        68.746832,
+                        37.842609
+                  ]
+            },
+            {
+                  "name": "Bobojon Ghafurov statue",
+                  "text": "A statue in Bochtar honoring the Tajik statesman Bobojon Ghafurov.",
+                  "category": "historical",
+                  "coords": [
+                        68.783687,
+                        37.83258
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-KT",
     coords: [68.7800, 37.8361],
@@ -201,7 +1740,340 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kulob-cities-v2", "sights": {"de": [{"name": "Mir Sayyid Ali Hamadani Museum", "text": "Ein Museum in Kulob, das dem Leben und Werk des Gelehrten Mir Sayyid Ali Hamadani gewidmet ist.", "category": "museum", "coords": [69.784251, 37.918096]}, {"name": "Amfiteatri Kulob", "text": "Eine Freilichtbühne in Kulob für kulturelle Veranstaltungen und Aufführungen.", "category": "cultural", "coords": [69.805597, 37.933995]}, {"name": "Kulob Fortress", "text": "Eine historische Festungsanlage in Kulob, die die regionale Verteidigungsarchitektur repräsentiert.", "category": "castle", "coords": [69.77454, 37.911104]}, {"name": "Kulob Republican Local Lore Museum", "text": "Ein Museum in Kulob, das die regionale Geschichte, Kultur und Naturkunde präsentiert.", "category": "museum", "coords": [69.774618, 37.909806]}, {"name": "Khona muzeii Saidali Valizoda", "text": "Ein Gedenkmuseum in Kulob, das dem tadschikischen Dichter Sajidali Walisoda gewidmet ist.", "category": "museum", "coords": [69.785482, 37.920155]}, {"name": "Zooparki Kulob", "text": "Ein Tiergarten in Kulob, der verschiedene lokale und exotische Tierarten beherbergt.", "category": "family", "coords": [69.803208, 37.934709]}, {"name": "Motherhood Monument", "text": "Ein Denkmal in Kulob, das die Mutterfigur als Symbol der Heimat ehrt.", "category": "historical", "coords": [69.797281, 37.914144]}, {"name": "Ismoili Somoni", "text": "Ein Denkmal in Kulob zu Ehren von Ismoil Somoni, dem Begründer des Samanidenreiches.", "category": "historical", "coords": [69.808046, 37.933436]}, {"name": "Rudaki Monument", "text": "Ein Denkmal in Kulob für Rudaki, den Begründer der klassischen tadschikischen Literatur.", "category": "historical", "coords": [69.785713, 37.915925]}], "hu": [{"name": "Mir Sayyid Ali Hamadani Museum", "text": "Kulobi múzeum, amely Mir Szajid Ali Hamadáni tudós életének és munkásságának állít emléket.", "category": "museum", "coords": [69.784251, 37.918096]}, {"name": "Amfiteatri Kulob", "text": "Szabadtéri színpad Kulobban kulturális események és előadások számára.", "category": "cultural", "coords": [69.805597, 37.933995]}, {"name": "Kulob Fortress", "text": "Történelmi erődítmény Kulobban, amely a regionális védelmi építészetet képviseli.", "category": "castle", "coords": [69.77454, 37.911104]}, {"name": "Kulob Republican Local Lore Museum", "text": "Kulobi múzeum, amely a régió történelmét, kultúráját és természetrajzát mutatja be.", "category": "museum", "coords": [69.774618, 37.909806]}, {"name": "Khona muzeii Saidali Valizoda", "text": "Emlékmúzeum Kulobban, amelyet Szajidali Valizoda tadzsik költőnek szenteltek.", "category": "museum", "coords": [69.785482, 37.920155]}, {"name": "Zooparki Kulob", "text": "Kulobi állatkert, amely számos helyi és egzotikus állatfajnak ad otthont.", "category": "family", "coords": [69.803208, 37.934709]}, {"name": "Motherhood Monument", "text": "Emlékmű Kulobban, amely az anyát mint a haza szimbólumát tiszteli.", "category": "historical", "coords": [69.797281, 37.914144]}, {"name": "Ismoili Somoni", "text": "Emlékmű Kulobban Iszmoil Somoni, a Szamanida-dinasztia alapítója tiszteletére.", "category": "historical", "coords": [69.808046, 37.933436]}, {"name": "Rudaki Monument", "text": "Emlékmű Kulobban Rudakinak, a klasszikus tadzsik irodalom megalapítójának.", "category": "historical", "coords": [69.785713, 37.915925]}], "ro": [{"name": "Mir Sayyid Ali Hamadani Museum", "text": "Un muzeu în Kulob dedicat vieții și operei învățatului Mir Sayyid Ali Hamadani.", "category": "museum", "coords": [69.784251, 37.918096]}, {"name": "Amfiteatri Kulob", "text": "Un amfiteatru în aer liber în Kulob pentru evenimente culturale și spectacole.", "category": "cultural", "coords": [69.805597, 37.933995]}, {"name": "Kulob Fortress", "text": "O fortăreață istorică în Kulob, reprezentativă pentru arhitectura defensivă regională.", "category": "castle", "coords": [69.77454, 37.911104]}, {"name": "Kulob Republican Local Lore Museum", "text": "Un muzeu în Kulob care prezintă istoria, cultura și istoria naturală a regiunii.", "category": "museum", "coords": [69.774618, 37.909806]}, {"name": "Khona muzeii Saidali Valizoda", "text": "Un muzeu memorial în Kulob dedicat poetului tadjic Sayidali Valizoda.", "category": "museum", "coords": [69.785482, 37.920155]}, {"name": "Zooparki Kulob", "text": "O grădină zoologică în Kulob care găzduiește diverse specii de animale locale și exotice.", "category": "family", "coords": [69.803208, 37.934709]}, {"name": "Motherhood Monument", "text": "Un monument în Kulob care onorează figura mamei ca simbol al patriei.", "category": "historical", "coords": [69.797281, 37.914144]}, {"name": "Ismoili Somoni", "text": "Un monument în Kulob în onoarea lui Ismoil Somoni, fondatorul imperiului Samanid.", "category": "historical", "coords": [69.808046, 37.933436]}, {"name": "Rudaki Monument", "text": "Un monument în Kulob dedicat lui Rudaki, fondatorul literaturii clasice tadjice.", "category": "historical", "coords": [69.785713, 37.915925]}], "en": [{"name": "Mir Sayyid Ali Hamadani Museum", "text": "A museum in Kulob dedicated to the life and work of the scholar Mir Sayyid Ali Hamadani.", "category": "museum", "coords": [69.784251, 37.918096]}, {"name": "Amfiteatri Kulob", "text": "An open-air amphitheater in Kulob used for cultural events and performances.", "category": "cultural", "coords": [69.805597, 37.933995]}, {"name": "Kulob Fortress", "text": "A historic fortress in Kulob representing regional defensive architecture.", "category": "castle", "coords": [69.77454, 37.911104]}, {"name": "Kulob Republican Local Lore Museum", "text": "A museum in Kulob showcasing regional history, culture, and natural history.", "category": "museum", "coords": [69.774618, 37.909806]}, {"name": "Khona muzeii Saidali Valizoda", "text": "A memorial museum in Kulob dedicated to the Tajik poet Sayidali Valizoda.", "category": "museum", "coords": [69.785482, 37.920155]}, {"name": "Zooparki Kulob", "text": "A zoo in Kulob home to various local and exotic animal species.", "category": "family", "coords": [69.803208, 37.934709]}, {"name": "monument in Kulob honoring the mother figure as", "text": "A monument in Kulob honoring the mother figure as a symbol of the homeland.", "category": "historical", "coords": [69.797281, 37.914144]}, {"name": "Ismoili Somoni", "text": "A monument in Kulob honoring Ismoil Somoni, the founder of the Samanid Empire.", "category": "historical", "coords": [69.808046, 37.933436]}, {"name": "Rudaki Monument", "text": "A monument in Kulob dedicated to Rudaki, the founder of classical Tajik literature.", "category": "historical", "coords": [69.785713, 37.915925]}]},
+    id: "kulob-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mir Sayyid Ali Hamadani Museum",
+                  "text": "Ein Museum in Kulob, das dem Leben und Werk des Gelehrten Mir Sayyid Ali Hamadani gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        69.784251,
+                        37.918096
+                  ]
+            },
+            {
+                  "name": "Amfiteatri Kulob",
+                  "text": "Eine Freilichtbühne in Kulob für kulturelle Veranstaltungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        69.805597,
+                        37.933995
+                  ]
+            },
+            {
+                  "name": "Kulob Fortress",
+                  "text": "Eine historische Festungsanlage in Kulob, die die regionale Verteidigungsarchitektur repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        69.77454,
+                        37.911104
+                  ]
+            },
+            {
+                  "name": "Kulob Republican Local Lore Museum",
+                  "text": "Ein Museum in Kulob, das die regionale Geschichte, Kultur und Naturkunde präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        69.774618,
+                        37.909806
+                  ]
+            },
+            {
+                  "name": "Khona muzeii Saidali Valizoda",
+                  "text": "Ein Gedenkmuseum in Kulob, das dem tadschikischen Dichter Sajidali Walisoda gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        69.785482,
+                        37.920155
+                  ]
+            },
+            {
+                  "name": "Zooparki Kulob",
+                  "text": "Ein Tiergarten in Kulob, der verschiedene lokale und exotische Tierarten beherbergt.",
+                  "category": "family",
+                  "coords": [
+                        69.803208,
+                        37.934709
+                  ]
+            },
+            {
+                  "name": "Motherhood Monument",
+                  "text": "Ein Denkmal in Kulob zu Ehren der Mütter, mit einer Statue einer Mutter mit Kindern.",
+                  "category": "historical",
+                  "coords": [
+                        69.797281,
+                        37.914144
+                  ]
+            },
+            {
+                  "name": "Ismoili Somoni",
+                  "text": "Ein Denkmal in Kulob zu Ehren von Ismoil Somoni, dem Begründer des Samanidenreiches.",
+                  "category": "historical",
+                  "coords": [
+                        69.808046,
+                        37.933436
+                  ]
+            },
+            {
+                  "name": "Rudaki Monument",
+                  "text": "Ein Denkmal in Kulob für Rudaki, den Begründer der klassischen tadschikischen Literatur.",
+                  "category": "historical",
+                  "coords": [
+                        69.785713,
+                        37.915925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mir Sayyid Ali Hamadani Museum",
+                  "text": "Kulobi múzeum, amely Mir Szajid Ali Hamadáni tudós életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        69.784251,
+                        37.918096
+                  ]
+            },
+            {
+                  "name": "Amfiteatri Kulob",
+                  "text": "Szabadtéri színpad Kulobban kulturális események és előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        69.805597,
+                        37.933995
+                  ]
+            },
+            {
+                  "name": "Kulob Fortress",
+                  "text": "Történelmi erődítmény Kulobban, amely a regionális védelmi építészetet képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        69.77454,
+                        37.911104
+                  ]
+            },
+            {
+                  "name": "Kulob Republican Local Lore Museum",
+                  "text": "Kulobi múzeum, amely a régió történelmét, kultúráját és természetrajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.774618,
+                        37.909806
+                  ]
+            },
+            {
+                  "name": "Khona muzeii Saidali Valizoda",
+                  "text": "Emlékmúzeum Kulobban, amelyet Szajidali Valizoda tadzsik költőnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        69.785482,
+                        37.920155
+                  ]
+            },
+            {
+                  "name": "Zooparki Kulob",
+                  "text": "Kulobi állatkert, amely számos helyi és egzotikus állatfajnak ad otthont.",
+                  "category": "family",
+                  "coords": [
+                        69.803208,
+                        37.934709
+                  ]
+            },
+            {
+                  "name": "Motherhood Monument",
+                  "text": "Egy emlékmű Kulobban az anyák tiszteletére, egy gyermekeivel ábrázolt anya szobrával.",
+                  "category": "historical",
+                  "coords": [
+                        69.797281,
+                        37.914144
+                  ]
+            },
+            {
+                  "name": "Ismoili Somoni",
+                  "text": "Emlékmű Kulobban Iszmoil Somoni, a Szamanida-dinasztia alapítója tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        69.808046,
+                        37.933436
+                  ]
+            },
+            {
+                  "name": "Rudaki Monument",
+                  "text": "Emlékmű Kulobban Rudakinak, a klasszikus tadzsik irodalom megalapítójának.",
+                  "category": "historical",
+                  "coords": [
+                        69.785713,
+                        37.915925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mir Sayyid Ali Hamadani Museum",
+                  "text": "Un muzeu în Kulob dedicat vieții și operei învățatului Mir Sayyid Ali Hamadani.",
+                  "category": "museum",
+                  "coords": [
+                        69.784251,
+                        37.918096
+                  ]
+            },
+            {
+                  "name": "Amfiteatri Kulob",
+                  "text": "Un amfiteatru în aer liber în Kulob pentru evenimente culturale și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        69.805597,
+                        37.933995
+                  ]
+            },
+            {
+                  "name": "Kulob Fortress",
+                  "text": "O fortăreață istorică în Kulob, reprezentativă pentru arhitectura defensivă regională.",
+                  "category": "castle",
+                  "coords": [
+                        69.77454,
+                        37.911104
+                  ]
+            },
+            {
+                  "name": "Kulob Republican Local Lore Museum",
+                  "text": "Un muzeu în Kulob care prezintă istoria, cultura și istoria naturală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        69.774618,
+                        37.909806
+                  ]
+            },
+            {
+                  "name": "Khona muzeii Saidali Valizoda",
+                  "text": "Un muzeu memorial în Kulob dedicat poetului tadjic Sayidali Valizoda.",
+                  "category": "museum",
+                  "coords": [
+                        69.785482,
+                        37.920155
+                  ]
+            },
+            {
+                  "name": "Zooparki Kulob",
+                  "text": "O grădină zoologică în Kulob care găzduiește diverse specii de animale locale și exotice.",
+                  "category": "family",
+                  "coords": [
+                        69.803208,
+                        37.934709
+                  ]
+            },
+            {
+                  "name": "Motherhood Monument",
+                  "text": "Un monument în Kulob în cinstea mamelor, cu o statuie a unei mame cu copii.",
+                  "category": "historical",
+                  "coords": [
+                        69.797281,
+                        37.914144
+                  ]
+            },
+            {
+                  "name": "Ismoili Somoni",
+                  "text": "Un monument în Kulob în onoarea lui Ismoil Somoni, fondatorul imperiului Samanid.",
+                  "category": "historical",
+                  "coords": [
+                        69.808046,
+                        37.933436
+                  ]
+            },
+            {
+                  "name": "Rudaki Monument",
+                  "text": "Un monument în Kulob dedicat lui Rudaki, fondatorul literaturii clasice tadjice.",
+                  "category": "historical",
+                  "coords": [
+                        69.785713,
+                        37.915925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mir Sayyid Ali Hamadani Museum",
+                  "text": "A museum in Kulob dedicated to the life and work of the scholar Mir Sayyid Ali Hamadani.",
+                  "category": "museum",
+                  "coords": [
+                        69.784251,
+                        37.918096
+                  ]
+            },
+            {
+                  "name": "Amfiteatri Kulob",
+                  "text": "An open-air amphitheater in Kulob used for cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        69.805597,
+                        37.933995
+                  ]
+            },
+            {
+                  "name": "Kulob Fortress",
+                  "text": "A historic fortress in Kulob representing regional defensive architecture.",
+                  "category": "castle",
+                  "coords": [
+                        69.77454,
+                        37.911104
+                  ]
+            },
+            {
+                  "name": "Kulob Republican Local Lore Museum",
+                  "text": "A museum in Kulob showcasing regional history, culture, and natural history.",
+                  "category": "museum",
+                  "coords": [
+                        69.774618,
+                        37.909806
+                  ]
+            },
+            {
+                  "name": "Khona muzeii Saidali Valizoda",
+                  "text": "A memorial museum in Kulob dedicated to the Tajik poet Sayidali Valizoda.",
+                  "category": "museum",
+                  "coords": [
+                        69.785482,
+                        37.920155
+                  ]
+            },
+            {
+                  "name": "Zooparki Kulob",
+                  "text": "A zoo in Kulob home to various local and exotic animal species.",
+                  "category": "family",
+                  "coords": [
+                        69.803208,
+                        37.934709
+                  ]
+            },
+            {
+                  "name": "monument in Kulob honoring the mother figure as",
+                  "text": "A monument in Kulob honoring mothers, featuring a statue of a mother with children.",
+                  "category": "historical",
+                  "coords": [
+                        69.797281,
+                        37.914144
+                  ]
+            },
+            {
+                  "name": "Ismoili Somoni",
+                  "text": "A monument in Kulob honoring Ismoil Somoni, the founder of the Samanid Empire.",
+                  "category": "historical",
+                  "coords": [
+                        69.808046,
+                        37.933436
+                  ]
+            },
+            {
+                  "name": "Rudaki Monument",
+                  "text": "A monument in Kulob dedicated to Rudaki, the founder of classical Tajik literature.",
+                  "category": "historical",
+                  "coords": [
+                        69.785713,
+                        37.915925
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-KT",
     coords: [69.7845, 37.9146],
@@ -269,7 +2141,268 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "istaravshan-cities-v2",
+    id: "istaravshan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mavzolei Chor-Gumbaz",
+                  "text": "Ein historisches Mausoleum in Istaravshan, dessen Name auf seine markanten vier Kuppeln hinweist.",
+                  "category": "landmark",
+                  "coords": [
+                        68.98922,
+                        39.912437
+                  ]
+            },
+            {
+                  "name": "Achinakhona",
+                  "text": "Ein historisches Bauwerk in der Altstadt von Istaravshan, das Teil des architektonischen Erbes der Region ist.",
+                  "category": "landmark",
+                  "coords": [
+                        68.986061,
+                        39.901561
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "Ein Denkmal in Istaravshan, das das offizielle Wappen oder Emblem der Stadt darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        69.003679,
+                        39.912065
+                  ]
+            },
+            {
+                  "name": "Namozgokh",
+                  "text": "Ein traditioneller Open-Air-Gebetsplatz, der für große islamische Festtagsgebete in Istaravshan genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        69.003714,
+                        39.910208
+                  ]
+            },
+            {
+                  "name": "Kuk gumbaz",
+                  "text": "Ein markantes historisches Gebäude in Istaravshan, das für seine leuchtend blaue Kuppel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        68.996205,
+                        39.908517
+                  ]
+            },
+            {
+                  "name": "Masch'idi Khavzi Sangin",
+                  "text": "Diese Moschee ist nach ihrem steinernen Teich benannt, der ein zentrales Element des Hofes bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        68.998271,
+                        39.907336
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Eine lokale Nachbarschaftsmoschee im historischen Viertel von Istaravshan mit traditionellen Schnitzereien.",
+                  "category": "landmark",
+                  "coords": [
+                        68.986752,
+                        39.905382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mavzolei Chor-Gumbaz",
+                  "text": "Történelmi mauzóleum Isztaravsanban, amelynek neve jellegzetes négy kupolájára utal.",
+                  "category": "landmark",
+                  "coords": [
+                        68.98922,
+                        39.912437
+                  ]
+            },
+            {
+                  "name": "Achinakhona",
+                  "text": "Isztaravsan óvárosának történelmi épülete, amely a régió építészeti örökségének része.",
+                  "category": "landmark",
+                  "coords": [
+                        68.986061,
+                        39.901561
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "Emlékmű Isztaravsanban, amely a város hivatalos címerét vagy emblémáját ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        69.003679,
+                        39.912065
+                  ]
+            },
+            {
+                  "name": "Namozgokh",
+                  "text": "Hagyományos szabadtéri imádkozóhely, amelyet a nagy iszlám ünnepi imákhoz használnak Isztaravsanban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.003714,
+                        39.910208
+                  ]
+            },
+            {
+                  "name": "Kuk gumbaz",
+                  "text": "Isztaravsan jellegzetes történelmi épülete, amely élénkkék kupolájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        68.996205,
+                        39.908517
+                  ]
+            },
+            {
+                  "name": "Masch'idi Khavzi Sangin",
+                  "text": "Ez a mecset a köves taváról kapta a nevét, amely az udvar központi eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        68.998271,
+                        39.907336
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "Isztaravsan történelmi negyedének helyi mecsete hagyományos faragványokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        68.986752,
+                        39.905382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mavzolei Chor-Gumbaz",
+                  "text": "Un mausoleu istoric din Istaravshan, al cărui nume face referire la cele patru cupole distinctive ale sale.",
+                  "category": "landmark",
+                  "coords": [
+                        68.98922,
+                        39.912437
+                  ]
+            },
+            {
+                  "name": "Achinakhona",
+                  "text": "O structură istorică din orașul vechi Istaravshan, care face parte din moștenirea arhitecturală a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        68.986061,
+                        39.901561
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "Un monument în Istaravshan care reprezintă stema sau emblema oficială a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        69.003679,
+                        39.912065
+                  ]
+            },
+            {
+                  "name": "Namozgokh",
+                  "text": "Un loc tradițional de rugăciune în aer liber, folosit pentru rugăciunile marilor sărbători islamice din Istaravshan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.003714,
+                        39.910208
+                  ]
+            },
+            {
+                  "name": "Kuk gumbaz",
+                  "text": "O clădire istorică proeminentă din Istaravshan, cunoscută pentru cupola sa albastră strălucitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        68.996205,
+                        39.908517
+                  ]
+            },
+            {
+                  "name": "Masch'idi Khavzi Sangin",
+                  "text": "Această moschee este numită după iazul său de piatră, care formează un element central al curții.",
+                  "category": "landmark",
+                  "coords": [
+                        68.998271,
+                        39.907336
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "O moschee locală din cartierul istoric al Istaravshanului, cu sculpturi tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        68.986752,
+                        39.905382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mavzolei Chor-Gumbaz",
+                  "text": "A historic mausoleum in Istaravshan whose name refers to its distinctive four domes.",
+                  "category": "landmark",
+                  "coords": [
+                        68.98922,
+                        39.912437
+                  ]
+            },
+            {
+                  "name": "Achinakhona",
+                  "text": "A historic structure in the old city of Istaravshan, part of the region's architectural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        68.986061,
+                        39.901561
+                  ]
+            },
+            {
+                  "name": "Gerb",
+                  "text": "A monument in Istaravshan representing the city's official coat of arms or emblem.",
+                  "category": "historical",
+                  "coords": [
+                        69.003679,
+                        39.912065
+                  ]
+            },
+            {
+                  "name": "Namozgoh",
+                  "text": "A traditional open-air prayer space used for major Islamic festival prayers in Istaravshan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.003714,
+                        39.910208
+                  ]
+            },
+            {
+                  "name": "Kuk gumbaz",
+                  "text": "A prominent historic building in Istaravshan known for its bright blue dome.",
+                  "category": "landmark",
+                  "coords": [
+                        68.996205,
+                        39.908517
+                  ]
+            },
+            {
+                  "name": "Havzi-Sangin Mosque",
+                  "text": "This mosque is named after its stone pond, which forms a central element of the courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        68.998271,
+                        39.907336
+                  ]
+            },
+            {
+                  "name": "mechet'",
+                  "text": "A local neighborhood mosque in the historic quarter of Istaravshan featuring traditional carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        68.986752,
+                        39.905382
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-SU",
     coords: [69.0033, 39.9142],
@@ -473,7 +2606,160 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "konibodom-cities-v2",
+    id: "konibodom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gorodckoi muzei",
+                  "text": "Das Stadtmuseum von Konibodom bewahrt die regionale Geschichte durch seine vielfältigen Ausstellungen lokaler ethnografischer Artefakte und traditioneller Handwerke.",
+                  "category": "museum",
+                  "coords": [
+                        70.419564,
+                        40.292928
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Diese traditionelle Moschee in Konibodom dient der lokalen muslimischen Gemeinde und verfügt über klassisches regionales Mauerwerk und einen schattigen Innenhof.",
+                  "category": "landmark",
+                  "coords": [
+                        70.41261,
+                        40.289514
+                  ]
+            },
+            {
+                  "name": "Bozori Farovon",
+                  "text": "Der Farovan-Markt ist ein lebhafter lokaler Basar in Konibodom, auf dem die Bewohner Dinge des täglichen Bedarfs, frisches Obst und handgemachte Textilien handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        70.422593,
+                        40.289145
+                  ]
+            },
+            {
+                  "name": "Mol-bozor",
+                  "text": "Der Mol-Bozor fungiert als wichtigster Viehmarkt von Konibodom, auf dem Händler geschäftig über Schafe, Rinder und landwirtschaftliche Güter verhandeln.",
+                  "category": "cultural",
+                  "coords": [
+                        70.444356,
+                        40.274493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorodckoi muzei",
+                  "text": "A Konibodom Városi Múzeum a regionális történelmet őrzi helyi néprajzi tárgyak és hagyományos mesterségek változatos kiállításain keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        70.419564,
+                        40.292928
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Ez a konibodomi hagyományos mecset a helyi muszlim közösséget szolgálja, és klasszikus regionális téglafalazattal, valamint egy árnyékos udvarral rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        70.41261,
+                        40.289514
+                  ]
+            },
+            {
+                  "name": "Bozori Farovon",
+                  "text": "A Farovan Piac egy élénk helyi bazár Konibodomban, ahol a lakosok napi szükségleti cikkekkel, friss gyümölccsel és kézzel készített textíliákkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        70.422593,
+                        40.289145
+                  ]
+            },
+            {
+                  "name": "Mol-bozor",
+                  "text": "A Mol-bozor Konibodom elsődleges állatpiacaként működik, ahol a kereskedők nyüzsögve alkudoznak a juhokról, a szarvasmarhákról és a vidéki árukról.",
+                  "category": "cultural",
+                  "coords": [
+                        70.444356,
+                        40.274493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorodckoi muzei",
+                  "text": "Muzeul Orașului Konibodom păstrează istoria regională prin exponatele sale variate de artefacte etnografice locale și meșteșuguri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        70.419564,
+                        40.292928
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Această moschee tradițională din Konibodom deservește comunitatea musulmană locală și prezintă zidărie regională clasică și o curte umbrită.",
+                  "category": "landmark",
+                  "coords": [
+                        70.41261,
+                        40.289514
+                  ]
+            },
+            {
+                  "name": "Bozori Farovon",
+                  "text": "Piața Farovan este un bazar local plin de viață din Konibodom, unde locuitorii fac comerț cu necesități zilnice, fructe proaspete și textile lucrate manual.",
+                  "category": "cultural",
+                  "coords": [
+                        70.422593,
+                        40.289145
+                  ]
+            },
+            {
+                  "name": "Mol-bozor",
+                  "text": "Mol-bozor funcționează ca piață principală de animale din Konibodom, fiind plină de comercianți care negociază pentru oi, vite și bunuri rurale.",
+                  "category": "cultural",
+                  "coords": [
+                        70.444356,
+                        40.274493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorodckoi muzei",
+                  "text": "The Konibodom City Museum preserves regional history through its varied exhibits of local ethnographic artifacts and traditional crafts.",
+                  "category": "museum",
+                  "coords": [
+                        70.419564,
+                        40.292928
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "This traditional mosque in Konibodom serves the local Muslim community and features classic regional brickwork and a shaded courtyard.",
+                  "category": "landmark",
+                  "coords": [
+                        70.41261,
+                        40.289514
+                  ]
+            },
+            {
+                  "name": "Market Farovan",
+                  "text": "Market Farovan is a lively local bazaar in Konibodom where residents trade daily necessities, fresh fruit, and handmade textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        70.422593,
+                        40.289145
+                  ]
+            },
+            {
+                  "name": "Mol-bozor",
+                  "text": "Mol-bozor functions as the primary livestock market of Konibodom, bustling with traders negotiating over sheep, cattle, and rural goods.",
+                  "category": "cultural",
+                  "coords": [
+                        70.444356,
+                        40.274493
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-SU",
     coords: [70.4328, 40.2928],
@@ -541,7 +2827,124 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "isfara-cities-v2",
+    id: "isfara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "most PK144+72",
+                  "text": "Ein technisches Denkmal in Isfara, das an einen bestimmten Meilenstein in der Verkehrsinfrastruktur der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        70.612876,
+                        40.148124
+                  ]
+            },
+            {
+                  "name": "Abdullo Khan Mosque",
+                  "text": "Eine bedeutende Moschee aus dem 16. Jahrhundert in Isfara mit historischem zentralasiatisch-islamischem Design.",
+                  "category": "landmark",
+                  "coords": [
+                        70.650459,
+                        40.128954
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok g. Isfary",
+                  "text": "Der geschäftige Zentralbasar von Isfara, der in ganz Tadschikistan für seine hochwertigen getrockneten Aprikosen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        70.625553,
+                        40.126122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "most PK144+72",
+                  "text": "Műszaki emlékmű Isfarában, amely a régió közlekedési infrastruktúrájának egy konkrét mérföldkövére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        70.612876,
+                        40.148124
+                  ]
+            },
+            {
+                  "name": "Abdullo Khan Mosque",
+                  "text": "Jelentős 16. századi mecset Isfarában, amely történelmi közép-ázsiai iszlám stílusjegyeket visel.",
+                  "category": "landmark",
+                  "coords": [
+                        70.650459,
+                        40.128954
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok g. Isfary",
+                  "text": "Isfara nyüzsgő központi bazárja, amely kiváló minőségű aszalt sárgabarackjáról híres egész Tádzsikisztánban.",
+                  "category": "cultural",
+                  "coords": [
+                        70.625553,
+                        40.126122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "most PK144+72",
+                  "text": "Un monument tehnic în Isfara care comemorează o etapă specifică în infrastructura de transport a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        70.612876,
+                        40.148124
+                  ]
+            },
+            {
+                  "name": "Abdullo Khan Mosque",
+                  "text": "O moschee importantă din secolul al XVI-lea din Isfara, cu un design islamic istoric din Asia Centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        70.650459,
+                        40.128954
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok g. Isfary",
+                  "text": "Bazarul central plin de viață din Isfara, faimos în tot Tadjikistanul pentru caisele sale uscate de înaltă calitate.",
+                  "category": "cultural",
+                  "coords": [
+                        70.625553,
+                        40.126122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "most PK144+72",
+                  "text": "A technical monument in Isfara commemorating a specific milestone in the region's transport infrastructure.",
+                  "category": "historical",
+                  "coords": [
+                        70.612876,
+                        40.148124
+                  ]
+            },
+            {
+                  "name": "Abdullo Khan Mosque",
+                  "text": "A significant 16th-century mosque in Isfara featuring historic Central Asian Islamic design.",
+                  "category": "landmark",
+                  "coords": [
+                        70.650459,
+                        40.128954
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi rynok g. Isfary",
+                  "text": "The bustling central bazaar of Isfara, famous across Tajikistan for its high-quality dried apricots.",
+                  "category": "cultural",
+                  "coords": [
+                        70.625553,
+                        40.126122
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-SU",
     coords: [70.6272, 40.1269],
@@ -609,7 +3012,412 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "panjakent-cities-v2", "sights": {"de": [{"name": "Drevnik Pendzhikent", "text": "Die Ruinen einer antiken sogdischen Stadt nahe Pandschakent, die für ihre Wandmalereien bekannt ist.", "category": "historical", "coords": [67.617867, 39.485181]}, {"name": "Historical and cultural museum of Panjakent", "text": "Ein Museum in Pandschakent, das archäologische Funde der antiken Ausgrabungsstätte ausstellt.", "category": "museum", "coords": [67.6222, 39.4849]}, {"name": "Parki Rudaki", "text": "Ein nach dem Dichter Rudaki benannter Freizeitpark im Stadtzentrum von Pandschakent.", "category": "family", "coords": [67.610789, 39.496236]}, {"name": "Abu-Abdullah-Rudaki-Museum", "text": "Ein Geschichtsmuseum in Pandschakent, das dem Erbe des Dichters Rudaki gewidmet ist.", "category": "museum", "coords": [67.596291, 39.495175]}, {"name": "Devastich monument", "text": "Ein Denkmal in Pandschakent zu Ehren des sogdischen Herrschers Devastich.", "category": "landmark", "coords": [67.589078, 39.492369]}, {"name": "Loik Sherali", "text": "Ein Denkmal in Pandschakent zu Ehren des bekannten tadschikischen Dichters Loik Sherali.", "category": "landmark", "coords": [67.604798, 39.495062]}, {"name": "Oigul Mukhammadchonova", "text": "Ein Denkmal in Pandschakent, das Oigul Muhammadjonova gewidmet ist.", "category": "landmark", "coords": [67.601032, 39.484476]}, {"name": "Tsitadel", "text": "Die historische Zitadelle innerhalb der antiken Siedlungsanlage von Pandschakent.", "category": "landmark", "coords": [67.616727, 39.487993]}, {"name": "monument «Firdausi»", "text": "Ein Denkmal in Pandschakent zu Ehren des persischen Dichters Firdavsi.", "category": "historical", "coords": [67.631258, 39.494372]}, {"name": "Path to Archeological Site", "text": "Ein Aussichtspunkt, der einen Überblick über die archäologische Ausgrabungsstätte bietet.", "category": "natural", "coords": [67.617124, 39.489273]}, {"name": "Sogdian Rock", "text": "Ein historisch bedeutsamer Ort, der mit der antiken Geschichte der Region Sogdien verbunden ist.", "category": "natural", "coords": [67.604682, 39.500442]}], "hu": [{"name": "Drevnik Pendzhikent", "text": "Egy ősi szogd város romjai Pandschakent közelében, amely falfestményeiről híres.", "category": "historical", "coords": [67.617867, 39.485181]}, {"name": "Historical and cultural museum of Panjakent", "text": "Pandschakenti múzeum, amely az ősi régészeti lelőhely leleteit mutatja be.", "category": "museum", "coords": [67.6222, 39.4849]}, {"name": "Parki Rudaki", "text": "A Rudaki költőről elnevezett szabadidőpark Pandschakent városközpontjában.", "category": "family", "coords": [67.610789, 39.496236]}, {"name": "Muzei im. A. Rudaki", "text": "Történeti múzeum Pandschakentben, amely Rudaki költő örökségének van szentelve.", "category": "museum", "coords": [67.596291, 39.495175]}, {"name": "Devastich monument", "text": "Emlékmű Pandschakentben Devasztics szogd uralkodó tiszteletére.", "category": "landmark", "coords": [67.589078, 39.492369]}, {"name": "Loik Sherali", "text": "Emlékmű Pandschakentben Loik Sherali híres tadzsik költő tiszteletére.", "category": "landmark", "coords": [67.604798, 39.495062]}, {"name": "Oigul Mukhammadchonova", "text": "Emlékmű Pandschakentben, amelyet Oigul Muhammadjonovának szenteltek.", "category": "landmark", "coords": [67.601032, 39.484476]}, {"name": "Tsitadel", "text": "Történelmi citadella az ősi Pandschakent településén belül.", "category": "landmark", "coords": [67.616727, 39.487993]}, {"name": "monument «Firdausi»", "text": "Emlékmű Pandschakentben Firdavszí perzsa költő tiszteletére.", "category": "historical", "coords": [67.631258, 39.494372]}, {"name": "Path to Archeological Site", "text": "Kilátópont, ahonnan áttekinthető a régészeti lelőhely.", "category": "natural", "coords": [67.617124, 39.489273]}, {"name": "Sogdian Rock", "text": "Történelmileg jelentős helyszín, amely Szogdia ókori történelméhez kapcsolódik.", "category": "natural", "coords": [67.604682, 39.500442]}], "ro": [{"name": "Drevnik Pendzhikent", "text": "Ruinele unui oraș antic sogdian lângă Pandschakent, cunoscut pentru picturile sale murale.", "category": "historical", "coords": [67.617867, 39.485181]}, {"name": "Historical and cultural museum of Panjakent", "text": "Un muzeu în Pandschakent care expune descoperiri arheologice de la situl antic.", "category": "museum", "coords": [67.6222, 39.4849]}, {"name": "Parki Rudaki", "text": "Un parc de recreere numit după poetul Rudaki, situat în centrul orașului Pandschakent.", "category": "family", "coords": [67.610789, 39.496236]}, {"name": "Muzei im. A. Rudaki", "text": "Un muzeu de istorie în Pandschakent dedicat moștenirii poetului Rudaki.", "category": "museum", "coords": [67.596291, 39.495175]}, {"name": "Devastich monument", "text": "Un monument în Pandschakent în onoarea conducătorului sogdian Devastich.", "category": "landmark", "coords": [67.589078, 39.492369]}, {"name": "Loik Sherali", "text": "Un monument în Pandschakent în onoarea cunoscutului poet tadjic Loik Sherali.", "category": "landmark", "coords": [67.604798, 39.495062]}, {"name": "Oigul Mukhammadchonova", "text": "Un monument în Pandschakent dedicat lui Oigul Muhammadjonova.", "category": "landmark", "coords": [67.601032, 39.484476]}, {"name": "Tsitadel", "text": "Citadela istorică din cadrul vechiului sit de așezare din Pandschakent.", "category": "landmark", "coords": [67.616727, 39.487993]}, {"name": "monument «Firdausi»", "text": "Un monument în Pandschakent în onoarea poetului persan Firdavsi.", "category": "historical", "coords": [67.631258, 39.494372]}, {"name": "Path to Archeological Site", "text": "Un punct de observație care oferă o vedere de ansamblu asupra sitului arheologic.", "category": "natural", "coords": [67.617124, 39.489273]}, {"name": "Sogdian Rock", "text": "Un loc cu semnificație istorică, legat de istoria antică a regiunii Sogdiana.", "category": "natural", "coords": [67.604682, 39.500442]}], "en": [{"name": "Ancient Panjakent", "text": "The ruins of an ancient Sogdian city near Panjakent, famous for its wall paintings.", "category": "historical", "coords": [67.617867, 39.485181]}, {"name": "Historical and cultural museum of Panjakent", "text": "A museum in Panjakent exhibiting archaeological finds from the ancient site.", "category": "museum", "coords": [67.6222, 39.4849]}, {"name": "Parki Rudaki", "text": "A recreation park named after the poet Rudaki in the city center of Panjakent.", "category": "family", "coords": [67.610789, 39.496236]}, {"name": "Rudaki History Museum", "text": "A history museum in Panjakent dedicated to the legacy of the poet Rudaki.", "category": "museum", "coords": [67.596291, 39.495175]}, {"name": "Devastich monument", "text": "A monument in Panjakent honoring the Sogdian ruler Devastich.", "category": "landmark", "coords": [67.589078, 39.492369]}, {"name": "Loik Sherali", "text": "A monument in Panjakent honoring the famous Tajik poet Loik Sherali.", "category": "landmark", "coords": [67.604798, 39.495062]}, {"name": "Oigul Muhammadjonova", "text": "A monument in Panjakent dedicated to Oigul Muhammadjonova.", "category": "landmark", "coords": [67.601032, 39.484476]}, {"name": "Citadel", "text": "The historic citadel within the ancient settlement site of Panjakent.", "category": "landmark", "coords": [67.616727, 39.487993]}, {"name": "monument of “Firdavsi”", "text": "A monument in Panjakent honoring the Persian poet Firdavsi.", "category": "historical", "coords": [67.631258, 39.494372]}, {"name": "Path to Archeological Site", "text": "A viewpoint offering an overview of the archaeological excavation site.", "category": "natural", "coords": [67.617124, 39.489273]}, {"name": "Sogdian Rock", "text": "A historically significant site connected to the ancient history of the Sogdia region.", "category": "natural", "coords": [67.604682, 39.500442]}]},
+    id: "panjakent-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drevnik Pendzhikent",
+                  "text": "Die Ruinen einer antiken sogdischen Stadt nahe Pandschakent, die für ihre Wandmalereien bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        67.617867,
+                        39.485181
+                  ]
+            },
+            {
+                  "name": "Historical and cultural museum of Panjakent",
+                  "text": "Ein Museum in Pandschakent, das archäologische Funde der antiken Ausgrabungsstätte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        67.6222,
+                        39.4849
+                  ]
+            },
+            {
+                  "name": "Parki Rudaki",
+                  "text": "Ein nach dem Dichter Rudaki benannter Freizeitpark im Stadtzentrum von Pandschakent.",
+                  "category": "family",
+                  "coords": [
+                        67.610789,
+                        39.496236
+                  ]
+            },
+            {
+                  "name": "Abu-Abdullah-Rudaki-Museum",
+                  "text": "Ein Geschichtsmuseum in Pandschakent, das dem Erbe des Dichters Rudaki gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        67.596291,
+                        39.495175
+                  ]
+            },
+            {
+                  "name": "Devastich monument",
+                  "text": "Ein Denkmal in Pandschakent zu Ehren des sogdischen Herrschers Devastich.",
+                  "category": "landmark",
+                  "coords": [
+                        67.589078,
+                        39.492369
+                  ]
+            },
+            {
+                  "name": "Loik Sherali",
+                  "text": "Ein Denkmal in Pandschakent zu Ehren des bekannten tadschikischen Dichters Loik Sherali.",
+                  "category": "landmark",
+                  "coords": [
+                        67.604798,
+                        39.495062
+                  ]
+            },
+            {
+                  "name": "Oigul Mukhammadchonova",
+                  "text": "Ein Wahrzeichen in Panjakent, benannt nach der lokalen Persönlichkeit Oigul Muhammadjonova, möglicherweise ein Kulturzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        67.601032,
+                        39.484476
+                  ]
+            },
+            {
+                  "name": "Tsitadel",
+                  "text": "Die historische Zitadelle innerhalb der antiken Siedlungsanlage von Pandschakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616727,
+                        39.487993
+                  ]
+            },
+            {
+                  "name": "monument «Firdausi»",
+                  "text": "Ein Denkmal in Pandschakent zu Ehren des persischen Dichters Firdavsi.",
+                  "category": "historical",
+                  "coords": [
+                        67.631258,
+                        39.494372
+                  ]
+            },
+            {
+                  "name": "Path to Archeological Site",
+                  "text": "Ein Aussichtspunkt, der einen Überblick über die archäologische Ausgrabungsstätte bietet.",
+                  "category": "natural",
+                  "coords": [
+                        67.617124,
+                        39.489273
+                  ]
+            },
+            {
+                  "name": "Sogdian Rock",
+                  "text": "Ein historisch bedeutsamer Ort, der mit der antiken Geschichte der Region Sogdien verbunden ist.",
+                  "category": "natural",
+                  "coords": [
+                        67.604682,
+                        39.500442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drevnik Pendzhikent",
+                  "text": "Egy ősi szogd város romjai Pandschakent közelében, amely falfestményeiről híres.",
+                  "category": "historical",
+                  "coords": [
+                        67.617867,
+                        39.485181
+                  ]
+            },
+            {
+                  "name": "Historical and cultural museum of Panjakent",
+                  "text": "Pandschakenti múzeum, amely az ősi régészeti lelőhely leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        67.6222,
+                        39.4849
+                  ]
+            },
+            {
+                  "name": "Parki Rudaki",
+                  "text": "A Rudaki költőről elnevezett szabadidőpark Pandschakent városközpontjában.",
+                  "category": "family",
+                  "coords": [
+                        67.610789,
+                        39.496236
+                  ]
+            },
+            {
+                  "name": "Muzei im. A. Rudaki",
+                  "text": "Történeti múzeum Pandschakentben, amely Rudaki költő örökségének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        67.596291,
+                        39.495175
+                  ]
+            },
+            {
+                  "name": "Devastich monument",
+                  "text": "Emlékmű Pandschakentben Devasztics szogd uralkodó tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        67.589078,
+                        39.492369
+                  ]
+            },
+            {
+                  "name": "Loik Sherali",
+                  "text": "Emlékmű Pandschakentben Loik Sherali híres tadzsik költő tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        67.604798,
+                        39.495062
+                  ]
+            },
+            {
+                  "name": "Oigul Mukhammadchonova",
+                  "text": "Egy nevezetesség Panjakentben, amely a helyi személyiségről, Oigul Muhammadjonováról kapta a nevét, valószínűleg egy kulturális központ.",
+                  "category": "landmark",
+                  "coords": [
+                        67.601032,
+                        39.484476
+                  ]
+            },
+            {
+                  "name": "Tsitadel",
+                  "text": "Történelmi citadella az ősi Pandschakent településén belül.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616727,
+                        39.487993
+                  ]
+            },
+            {
+                  "name": "monument «Firdausi»",
+                  "text": "Emlékmű Pandschakentben Firdavszí perzsa költő tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        67.631258,
+                        39.494372
+                  ]
+            },
+            {
+                  "name": "Path to Archeological Site",
+                  "text": "Kilátópont, ahonnan áttekinthető a régészeti lelőhely.",
+                  "category": "natural",
+                  "coords": [
+                        67.617124,
+                        39.489273
+                  ]
+            },
+            {
+                  "name": "Sogdian Rock",
+                  "text": "Történelmileg jelentős helyszín, amely Szogdia ókori történelméhez kapcsolódik.",
+                  "category": "natural",
+                  "coords": [
+                        67.604682,
+                        39.500442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drevnik Pendzhikent",
+                  "text": "Ruinele unui oraș antic sogdian lângă Pandschakent, cunoscut pentru picturile sale murale.",
+                  "category": "historical",
+                  "coords": [
+                        67.617867,
+                        39.485181
+                  ]
+            },
+            {
+                  "name": "Historical and cultural museum of Panjakent",
+                  "text": "Un muzeu în Pandschakent care expune descoperiri arheologice de la situl antic.",
+                  "category": "museum",
+                  "coords": [
+                        67.6222,
+                        39.4849
+                  ]
+            },
+            {
+                  "name": "Parki Rudaki",
+                  "text": "Un parc de recreere numit după poetul Rudaki, situat în centrul orașului Pandschakent.",
+                  "category": "family",
+                  "coords": [
+                        67.610789,
+                        39.496236
+                  ]
+            },
+            {
+                  "name": "Muzei im. A. Rudaki",
+                  "text": "Un muzeu de istorie în Pandschakent dedicat moștenirii poetului Rudaki.",
+                  "category": "museum",
+                  "coords": [
+                        67.596291,
+                        39.495175
+                  ]
+            },
+            {
+                  "name": "Devastich monument",
+                  "text": "Un monument în Pandschakent în onoarea conducătorului sogdian Devastich.",
+                  "category": "landmark",
+                  "coords": [
+                        67.589078,
+                        39.492369
+                  ]
+            },
+            {
+                  "name": "Loik Sherali",
+                  "text": "Un monument în Pandschakent în onoarea cunoscutului poet tadjic Loik Sherali.",
+                  "category": "landmark",
+                  "coords": [
+                        67.604798,
+                        39.495062
+                  ]
+            },
+            {
+                  "name": "Oigul Mukhammadchonova",
+                  "text": "Un reper în Panjakent, numit după personalitatea locală Oigul Muhammadjonova, probabil un centru cultural.",
+                  "category": "landmark",
+                  "coords": [
+                        67.601032,
+                        39.484476
+                  ]
+            },
+            {
+                  "name": "Tsitadel",
+                  "text": "Citadela istorică din cadrul vechiului sit de așezare din Pandschakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616727,
+                        39.487993
+                  ]
+            },
+            {
+                  "name": "monument «Firdausi»",
+                  "text": "Un monument în Pandschakent în onoarea poetului persan Firdavsi.",
+                  "category": "historical",
+                  "coords": [
+                        67.631258,
+                        39.494372
+                  ]
+            },
+            {
+                  "name": "Path to Archeological Site",
+                  "text": "Un punct de observație care oferă o vedere de ansamblu asupra sitului arheologic.",
+                  "category": "natural",
+                  "coords": [
+                        67.617124,
+                        39.489273
+                  ]
+            },
+            {
+                  "name": "Sogdian Rock",
+                  "text": "Un loc cu semnificație istorică, legat de istoria antică a regiunii Sogdiana.",
+                  "category": "natural",
+                  "coords": [
+                        67.604682,
+                        39.500442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancient Panjakent",
+                  "text": "The ruins of an ancient Sogdian city near Panjakent, famous for its wall paintings.",
+                  "category": "historical",
+                  "coords": [
+                        67.617867,
+                        39.485181
+                  ]
+            },
+            {
+                  "name": "Historical and cultural museum of Panjakent",
+                  "text": "A museum in Panjakent exhibiting archaeological finds from the ancient site.",
+                  "category": "museum",
+                  "coords": [
+                        67.6222,
+                        39.4849
+                  ]
+            },
+            {
+                  "name": "Parki Rudaki",
+                  "text": "A recreation park named after the poet Rudaki in the city center of Panjakent.",
+                  "category": "family",
+                  "coords": [
+                        67.610789,
+                        39.496236
+                  ]
+            },
+            {
+                  "name": "Rudaki History Museum",
+                  "text": "A history museum in Panjakent dedicated to the legacy of the poet Rudaki.",
+                  "category": "museum",
+                  "coords": [
+                        67.596291,
+                        39.495175
+                  ]
+            },
+            {
+                  "name": "Devastich monument",
+                  "text": "A monument in Panjakent honoring the Sogdian ruler Devastich.",
+                  "category": "landmark",
+                  "coords": [
+                        67.589078,
+                        39.492369
+                  ]
+            },
+            {
+                  "name": "Loik Sherali",
+                  "text": "A monument in Panjakent honoring the famous Tajik poet Loik Sherali.",
+                  "category": "landmark",
+                  "coords": [
+                        67.604798,
+                        39.495062
+                  ]
+            },
+            {
+                  "name": "Oigul Muhammadjonova",
+                  "text": "A landmark in Panjakent named after the local notable Oigul Muhammadjonova, possibly a cultural center.",
+                  "category": "landmark",
+                  "coords": [
+                        67.601032,
+                        39.484476
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "The historic citadel within the ancient settlement site of Panjakent.",
+                  "category": "landmark",
+                  "coords": [
+                        67.616727,
+                        39.487993
+                  ]
+            },
+            {
+                  "name": "monument of “Firdavsi”",
+                  "text": "A monument in Panjakent honoring the Persian poet Firdavsi.",
+                  "category": "historical",
+                  "coords": [
+                        67.631258,
+                        39.494372
+                  ]
+            },
+            {
+                  "name": "Path to Archeological Site",
+                  "text": "A viewpoint offering an overview of the archaeological excavation site.",
+                  "category": "natural",
+                  "coords": [
+                        67.617124,
+                        39.489273
+                  ]
+            },
+            {
+                  "name": "Sogdian Rock",
+                  "text": "A historically significant site connected to the ancient history of the Sogdia region.",
+                  "category": "natural",
+                  "coords": [
+                        67.604682,
+                        39.500442
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-SU",
     coords: [67.6047, 39.4952],
@@ -677,7 +3485,124 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "khorugh-cities-v2", "sights": {"de": [{"name": "Muzei Pamir", "text": "Ein Regionalmuseum in Chorugh, das der Geschichte des Pamir-Gebirges gewidmet ist.", "category": "museum", "coords": [71.547319, 37.491251]}, {"name": "Summer Theatre", "text": "Eine Freilichtbühne für kulturelle Aufführungen in Chorugh.", "category": "cultural", "coords": [71.545299, 37.489826]}, {"name": "Mehrubon Nazarov Regional Theater", "text": "Das regionale Theater in Chorugh für dramatische Kunst und Aufführungen.", "category": "cultural", "coords": [71.548786, 37.491608]}], "hu": [{"name": "Muzei Pamir", "text": "Regionális múzeum Horugban, amely a Pamír-hegység történetét mutatja be.", "category": "museum", "coords": [71.547319, 37.491251]}, {"name": "Summer Theatre", "text": "Szabadtéri színpad kulturális előadások számára Horugban.", "category": "cultural", "coords": [71.545299, 37.489826]}, {"name": "Mehrubon Nazarov Regional Theater", "text": "Regionális színház Horugban a drámai művészetek számára.", "category": "cultural", "coords": [71.548786, 37.491608]}], "ro": [{"name": "Muzei Pamir", "text": "Un muzeu regional din Horog, dedicat istoriei munților Pamir.", "category": "museum", "coords": [71.547319, 37.491251]}, {"name": "Summer Theatre", "text": "Un teatru în aer liber pentru spectacole culturale în Horog.", "category": "cultural", "coords": [71.545299, 37.489826]}, {"name": "Mehrubon Nazarov Regional Theater", "text": "Teatrul regional din Horog pentru artă dramatică și spectacole.", "category": "cultural", "coords": [71.548786, 37.491608]}], "en": [{"name": "Pamir Museum", "text": "A regional museum in Chorugh dedicated to the history of the Pamir Mountains.", "category": "museum", "coords": [71.547319, 37.491251]}, {"name": "Summer Theatre", "text": "An open-air theatre for cultural performances in Chorugh.", "category": "cultural", "coords": [71.545299, 37.489826]}, {"name": "Mehrubon Nazarov Regional Theatre", "text": "The regional theatre in Chorugh for dramatic arts and performances.", "category": "cultural", "coords": [71.548786, 37.491608]}]},
+    id: "khorugh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei Pamir",
+                  "text": "Ein Regionalmuseum in Chorugh, das der Geschichte des Pamir-Gebirges gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        71.547319,
+                        37.491251
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "Ein Freilufttheater in Khorugh, das im Sommer für kulturelle Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        71.545299,
+                        37.489826
+                  ]
+            },
+            {
+                  "name": "Mehrubon Nazarov Regional Theater",
+                  "text": "Das regionale Theater in Chorugh für dramatische Kunst und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        71.548786,
+                        37.491608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei Pamir",
+                  "text": "Regionális múzeum Horugban, amely a Pamír-hegység történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        71.547319,
+                        37.491251
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "Egy szabadtéri színház Khorughban, amelyet nyáron kulturális előadásokhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        71.545299,
+                        37.489826
+                  ]
+            },
+            {
+                  "name": "Mehrubon Nazarov Regional Theater",
+                  "text": "Regionális színház Horugban a drámai művészetek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        71.548786,
+                        37.491608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei Pamir",
+                  "text": "Un muzeu regional din Horog, dedicat istoriei munților Pamir.",
+                  "category": "museum",
+                  "coords": [
+                        71.547319,
+                        37.491251
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "Un teatru în aer liber în Khorugh, folosit pentru spectacole culturale în timpul verii.",
+                  "category": "cultural",
+                  "coords": [
+                        71.545299,
+                        37.489826
+                  ]
+            },
+            {
+                  "name": "Mehrubon Nazarov Regional Theater",
+                  "text": "Teatrul regional din Horog pentru artă dramatică și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        71.548786,
+                        37.491608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pamir Museum",
+                  "text": "A regional museum in Chorugh dedicated to the history of the Pamir Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        71.547319,
+                        37.491251
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "An open-air theatre in Khorugh used for cultural performances during the summer.",
+                  "category": "cultural",
+                  "coords": [
+                        71.545299,
+                        37.489826
+                  ]
+            },
+            {
+                  "name": "Mehrubon Nazarov Regional Theatre",
+                  "text": "The regional theatre in Chorugh for dramatic arts and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        71.548786,
+                        37.491608
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-GB",
     coords: [71.5519, 37.4897],
@@ -745,7 +3670,52 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "yovon-cities-v2", "sights": {"de": [{"name": "Tagoimurodi Kh.", "text": "Ein Denkmal in Jowon zu Ehren einer lokalen Persönlichkeit.", "category": "historical", "coords": [69.043489, 38.317801]}], "hu": [{"name": "Tagoimurodi Kh.", "text": "Emlékmű Jowonban egy helyi személyiség tiszteletére.", "category": "historical", "coords": [69.043489, 38.317801]}], "ro": [{"name": "Tagoimurodi Kh.", "text": "Un monument din Jowon în onoarea unei personalități locale.", "category": "historical", "coords": [69.043489, 38.317801]}], "en": [{"name": "Tagoimurodi Kh.", "text": "A monument in Jowon honoring a local figure.", "category": "historical", "coords": [69.043489, 38.317801]}]},
+    id: "yovon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tagoimurodi Kh.",
+                  "text": "Ein historisches Denkmal in Yovon, das dem lokalen Helden Tagoimurodi Kh. gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        69.043489,
+                        38.317801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tagoimurodi Kh.",
+                  "text": "Egy történelmi emlékmű Yovonban, amely a helyi hősnek, Tagoimurodi Kh.-nek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        69.043489,
+                        38.317801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tagoimurodi Kh.",
+                  "text": "Un monument istoric în Yovon, dedicat eroului local Tagoimurodi Kh.",
+                  "category": "historical",
+                  "coords": [
+                        69.043489,
+                        38.317801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tagoimurodi Kh.",
+                  "text": "A historical monument in Yovon dedicated to the local hero Tagoimurodi Kh.",
+                  "category": "historical",
+                  "coords": [
+                        69.043489,
+                        38.317801
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-KT",
     coords: [69.0347, 38.3142],
@@ -881,7 +3851,232 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "nurek-cities-v2",
+    id: "nurek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spillway Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf die gewaltige Hochwasserentlastungsanlage der Nurek-Talsperre.",
+                  "category": "natural",
+                  "coords": [
+                        69.342773,
+                        38.38405
+                  ]
+            },
+            {
+                  "name": "Kovsh",
+                  "text": "Eine riesige Baggerschaufel, die als Denkmal für die Erbauer der Nurek-Talsperre aufgestellt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        69.340306,
+                        38.388805
+                  ]
+            },
+            {
+                  "name": "SBU-2M (Samokhodno-Buril'naia ustanovka)",
+                  "text": "Ein sowjetisches Bohrgerät, das als technisches Denkmal an den Staudammbau in Norak erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        69.332384,
+                        38.390095
+                  ]
+            },
+            {
+                  "name": "zabroshennyi sovetskii park",
+                  "text": "Ein verlassener Park mit Terrassen aus sowjetischer Zeit, der den Vakhsh-Fluss überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        69.320809,
+                        38.386793
+                  ]
+            },
+            {
+                  "name": "sovetskii monument s nerabotaiushchimi fontanami",
+                  "text": "Ein Denkmal im sowjetischen Stil mit Brunnenbecken, das die Stadtplanung von Norak prägt.",
+                  "category": "historical",
+                  "coords": [
+                        69.318314,
+                        38.386373
+                  ]
+            },
+            {
+                  "name": "welcome to Norak",
+                  "text": "Ein monumentales Willkommensschild am Stadteingang, das Besucher in Norak begrüßt.",
+                  "category": "historical",
+                  "coords": [
+                        69.30074,
+                        38.386557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spillway Viewpoint",
+                  "text": "Erről a kilátóról rálátni a Nureki-gát hatalmas árvízvédelmi vízelvezető rendszerére.",
+                  "category": "natural",
+                  "coords": [
+                        69.342773,
+                        38.38405
+                  ]
+            },
+            {
+                  "name": "Kovsh",
+                  "text": "Egy hatalmas markolókanál, amelyet a Nureki-gát építőinek tiszteletére állítottak fel emlékműként.",
+                  "category": "historical",
+                  "coords": [
+                        69.340306,
+                        38.388805
+                  ]
+            },
+            {
+                  "name": "SBU-2M (Samokhodno-Buril'naia ustanovka)",
+                  "text": "Szovjet fúróberendezés, amely műszaki emlékműként emlékeztet a noraki gátépítésre.",
+                  "category": "historical",
+                  "coords": [
+                        69.332384,
+                        38.390095
+                  ]
+            },
+            {
+                  "name": "zabroshennyi sovetskii park",
+                  "text": "Elhagyatott, szovjet kori teraszos park, amely a Vahs-folyóra néz.",
+                  "category": "natural",
+                  "coords": [
+                        69.320809,
+                        38.386793
+                  ]
+            },
+            {
+                  "name": "sovetskii monument s nerabotaiushchimi fontanami",
+                  "text": "Szovjet stílusú emlékmű szökőkutakkal, amely meghatározza Norak városképét.",
+                  "category": "historical",
+                  "coords": [
+                        69.318314,
+                        38.386373
+                  ]
+            },
+            {
+                  "name": "welcome to Norak",
+                  "text": "Monumentális üdvözlőtábla a város bejáratánál, amely Norakba érkezőket fogadja.",
+                  "category": "historical",
+                  "coords": [
+                        69.30074,
+                        38.386557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spillway Viewpoint",
+                  "text": "Acest punct de observație oferă o vedere asupra sistemului masiv de deversare al barajului Nurek.",
+                  "category": "natural",
+                  "coords": [
+                        69.342773,
+                        38.38405
+                  ]
+            },
+            {
+                  "name": "Kovsh",
+                  "text": "O cupă uriașă de excavator, instalată ca monument pentru constructorii barajului Nurek.",
+                  "category": "historical",
+                  "coords": [
+                        69.340306,
+                        38.388805
+                  ]
+            },
+            {
+                  "name": "SBU-2M (Samokhodno-Buril'naia ustanovka)",
+                  "text": "O instalație de foraj sovietică, păstrată ca monument tehnic al construcției barajului din Norak.",
+                  "category": "historical",
+                  "coords": [
+                        69.332384,
+                        38.390095
+                  ]
+            },
+            {
+                  "name": "zabroshennyi sovetskii park",
+                  "text": "Un parc terasat abandonat din epoca sovietică, cu vedere spre râul Vakhsh.",
+                  "category": "natural",
+                  "coords": [
+                        69.320809,
+                        38.386793
+                  ]
+            },
+            {
+                  "name": "sovetskii monument s nerabotaiushchimi fontanami",
+                  "text": "Un monument în stil sovietic cu fântâni, care marchează planificarea urbană a orașului Norak.",
+                  "category": "historical",
+                  "coords": [
+                        69.318314,
+                        38.386373
+                  ]
+            },
+            {
+                  "name": "welcome to Norak",
+                  "text": "Un semn monumental de bun venit la intrarea în oraș, care salută vizitatorii în Norak.",
+                  "category": "historical",
+                  "coords": [
+                        69.30074,
+                        38.386557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spillway Viewpoint",
+                  "text": "This viewpoint offers a look at the massive spillway system of the Nurek Dam.",
+                  "category": "natural",
+                  "coords": [
+                        69.342773,
+                        38.38405
+                  ]
+            },
+            {
+                  "name": "Kovsh",
+                  "text": "A giant excavator bucket installed as a monument to the builders of the Nurek Dam.",
+                  "category": "historical",
+                  "coords": [
+                        69.340306,
+                        38.388805
+                  ]
+            },
+            {
+                  "name": "SBU-2M (Samokhodno-Buril'naia ustanovka)",
+                  "text": "A Soviet drilling rig preserved as a technical monument to the dam construction in Norak.",
+                  "category": "historical",
+                  "coords": [
+                        69.332384,
+                        38.390095
+                  ]
+            },
+            {
+                  "name": "abandoned soviet terraced park",
+                  "text": "An abandoned Soviet-era terraced park overlooking the Vakhsh River.",
+                  "category": "natural",
+                  "coords": [
+                        69.320809,
+                        38.386793
+                  ]
+            },
+            {
+                  "name": "soviet monument with fountains",
+                  "text": "A Soviet-style monument with fountains, marking the urban planning of Norak.",
+                  "category": "historical",
+                  "coords": [
+                        69.318314,
+                        38.386373
+                  ]
+            },
+            {
+                  "name": "welcome to Norak",
+                  "text": "A monumental welcome sign at the city entrance greeting visitors to Norak.",
+                  "category": "historical",
+                  "coords": [
+                        69.30074,
+                        38.386557
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-KT",
     coords: [69.3228, 38.3842],
@@ -949,7 +4144,124 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "farkhor-cities-v2",
+    id: "farkhor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dom Kul'tury",
+                  "text": "Ein repräsentatives Kulturhaus im sowjetischen Stil für lokale Veranstaltungen und Feste.",
+                  "category": "castle",
+                  "coords": [
+                        69.402736,
+                        37.493392
+                  ]
+            },
+            {
+                  "name": "Muzei",
+                  "text": "Ein lokales Museum, das die Regionalgeschichte und kulturelle Traditionen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        69.401453,
+                        37.492574
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Die zentrale Moschee der Stadt mit einem traditionell gestalteten Gebetssaal.",
+                  "category": "religious",
+                  "coords": [
+                        69.408817,
+                        37.487273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dom Kul'tury",
+                  "text": "Szovjet stílusú reprezentatív kultúrház helyi rendezvények és ünnepségek számára.",
+                  "category": "castle",
+                  "coords": [
+                        69.402736,
+                        37.493392
+                  ]
+            },
+            {
+                  "name": "Muzei",
+                  "text": "Helyi múzeum, amely a régió történelmét és kulturális hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        69.401453,
+                        37.492574
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "A város központi mecsetje hagyományos kialakítású imateremmel.",
+                  "category": "religious",
+                  "coords": [
+                        69.408817,
+                        37.487273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dom Kul'tury",
+                  "text": "O casă de cultură reprezentativă în stil sovietic, destinată evenimentelor și serbărilor locale.",
+                  "category": "castle",
+                  "coords": [
+                        69.402736,
+                        37.493392
+                  ]
+            },
+            {
+                  "name": "Muzei",
+                  "text": "Un muzeu local care expune istoria regională și tradițiile culturale.",
+                  "category": "museum",
+                  "coords": [
+                        69.401453,
+                        37.492574
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Moscheea centrală a orașului, având o sală de rugăciune cu design tradițional.",
+                  "category": "religious",
+                  "coords": [
+                        69.408817,
+                        37.487273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Culture home",
+                  "text": "A representative Soviet-style house of culture for local events and celebrations.",
+                  "category": "castle",
+                  "coords": [
+                        69.402736,
+                        37.493392
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "A local museum exhibiting regional history and cultural traditions.",
+                  "category": "museum",
+                  "coords": [
+                        69.401453,
+                        37.492574
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "The town's central mosque, featuring a traditionally designed prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        69.408817,
+                        37.487273
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-KT",
     coords: [69.4033, 37.4922],
@@ -1085,7 +4397,520 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "buston-cities-v2",
+    id: "buston-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sukhoi most",
+                  "text": "Ein ungewöhnliches Denkmal in Buston, das an die bauliche Gestaltung und Infrastruktur der Stadt erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        69.699776,
+                        40.227731
+                  ]
+            },
+            {
+                  "name": "Stala Tadzhikistana",
+                  "text": "Eine monumentale Stele in Buston, die die Souveränität und die nationale Einheit Tadschikistans symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        69.697476,
+                        40.23345
+                  ]
+            },
+            {
+                  "name": "Ulitsa Maiakovskogo",
+                  "text": "Eine zentrale Geschäftsstraße in Buston, benannt nach dem berühmten sowjetischen Dichter Wladimir Majakowski.",
+                  "category": "landmark",
+                  "coords": [
+                        69.725126,
+                        40.214086
+                  ]
+            },
+            {
+                  "name": "Ul. Gastello",
+                  "text": "Diese Straße in Buston ist dem sowjetischen Kriegshelden und Piloten Nikolai Gastello gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        69.727283,
+                        40.215043
+                  ]
+            },
+            {
+                  "name": "Muzei B. Gafurova",
+                  "text": "Ein Museum zu Ehren von Bobodschon Gafurow, dem bedeutenden tadschikischen Historiker und Staatsmann.",
+                  "category": "museum",
+                  "coords": [
+                        69.737932,
+                        40.226487
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Eine lokale Moschee in Buston mit einem traditionellen Minarett für das tägliche Gebet der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        69.735166,
+                        40.231488
+                  ]
+            },
+            {
+                  "name": "Maschiti Khochi Nazar",
+                  "text": "Ein religiöses Zentrum in Buston, bekannt für seine bescheidene Architektur und die lokale muslimische Tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        69.726163,
+                        40.214268
+                  ]
+            },
+            {
+                  "name": "Osiio (Iakshanbe bozor)",
+                  "text": "Ein lebhafter Sonntagsmarkt in Buston, auf dem Bauern aus der Region frisches Obst und Gemüse verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        69.703269,
+                        40.248983
+                  ]
+            },
+            {
+                  "name": "Farovon",
+                  "text": "Ein geschäftiger Marktplatz in Buston, der eine große Auswahl an Lebensmitteln und Artikeln des täglichen Bedarfs bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.729995,
+                        40.228644
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Ein zentraler Basar in Buston, der als wichtiger Handelsknotenpunkt für regionale Waren dient.",
+                  "category": "cultural",
+                  "coords": [
+                        69.702728,
+                        40.238179
+                  ]
+            },
+            {
+                  "name": "Samarkand",
+                  "text": "Dieser Markt in Buston ist besonders für seine Auswahl an traditionellen Textilien und Stoffen bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        69.696769,
+                        40.235212
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok Somon",
+                  "text": "Ein spezialisierter Bekleidungsmarkt in Buston, der eine Vielfalt an moderner und traditioneller Mode anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.700107,
+                        40.242753
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok Atush",
+                  "text": "Ein populärer Basar für Kleidung und Schuhe, der für seine günstigen regionalen Angebote geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        69.702855,
+                        40.245005
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Ein traditionelles öffentliches Badehaus in Buston, das der Reinigung und als sozialer Treffpunkt dient.",
+                  "category": "recreational",
+                  "coords": [
+                        69.701625,
+                        40.236139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sukhoi most",
+                  "text": "Szokatlan emlékmű Bustonban, amely a város építészeti kialakítására és infrastruktúrájára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        69.699776,
+                        40.227731
+                  ]
+            },
+            {
+                  "name": "Stala Tadzhikistana",
+                  "text": "Monumentális sztélé Bustonban, amely Tadzsikisztán szuverenitását és nemzeti egységét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        69.697476,
+                        40.23345
+                  ]
+            },
+            {
+                  "name": "Ulitsa Maiakovskogo",
+                  "text": "Buston központi üzleti utcája, amelyet a híres szovjet költőről, Vlagyimir Majakovszkijról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        69.725126,
+                        40.214086
+                  ]
+            },
+            {
+                  "name": "Ul. Gastello",
+                  "text": "Ezt a bustoni utcát Nyikolaj Gasztello szovjet háborús hősnek és pilótának szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        69.727283,
+                        40.215043
+                  ]
+            },
+            {
+                  "name": "Muzei B. Gafurova",
+                  "text": "Bobodzson Gafurov, a neves tadzsik történész és államférfi tiszteletére alapított múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        69.737932,
+                        40.226487
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Helyi mecset Bustonban, hagyományos minarettel a közösség napi imáihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        69.735166,
+                        40.231488
+                  ]
+            },
+            {
+                  "name": "Maschiti Khochi Nazar",
+                  "text": "Vallási központ Bustonban, amely szerény építészetéről és a helyi muszlim hagyományokról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        69.726163,
+                        40.214268
+                  ]
+            },
+            {
+                  "name": "Osiio (Iakshanbe bozor)",
+                  "text": "Élénk vasárnapi piac Bustonban, ahol a régió gazdái friss gyümölcsöt és zöldséget árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.703269,
+                        40.248983
+                  ]
+            },
+            {
+                  "name": "Farovon",
+                  "text": "Forgalmas piactér Bustonban, amely élelmiszerek és napi szükségleti cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.729995,
+                        40.228644
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Buston központi bazárja, amely a regionális áruk fontos kereskedelmi csomópontjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        69.702728,
+                        40.238179
+                  ]
+            },
+            {
+                  "name": "Samarkand",
+                  "text": "Ez a bustoni piac különösen a hagyományos textíliák és szövetek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.696769,
+                        40.235212
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok Somon",
+                  "text": "Specializált ruházati piac Bustonban, amely modern és hagyományos divatcikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.700107,
+                        40.242753
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok Atush",
+                  "text": "Népszerű ruha- és cipőbazár, amelyet kedvező árú regionális kínálata miatt kedvelnek.",
+                  "category": "cultural",
+                  "coords": [
+                        69.702855,
+                        40.245005
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "Hagyományos közfürdő Bustonban, amely a tisztálkodást és a közösségi találkozókat szolgálja.",
+                  "category": "recreational",
+                  "coords": [
+                        69.701625,
+                        40.236139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sukhoi most",
+                  "text": "Un monument neobișnuit în Buston, care amintește de designul arhitectural și infrastructura orașului.",
+                  "category": "historical",
+                  "coords": [
+                        69.699776,
+                        40.227731
+                  ]
+            },
+            {
+                  "name": "Stala Tadzhikistana",
+                  "text": "O stelă monumentală în Buston, simbolizând suveranitatea și unitatea națională a Tadjikistanului.",
+                  "category": "historical",
+                  "coords": [
+                        69.697476,
+                        40.23345
+                  ]
+            },
+            {
+                  "name": "Ulitsa Maiakovskogo",
+                  "text": "O stradă comercială centrală din Buston, numită după faimosul poet sovietic Vladimir Maiakovski.",
+                  "category": "landmark",
+                  "coords": [
+                        69.725126,
+                        40.214086
+                  ]
+            },
+            {
+                  "name": "Ul. Gastello",
+                  "text": "Această stradă din Buston este dedicată eroului de război și pilotului sovietic Nikolai Gastello.",
+                  "category": "landmark",
+                  "coords": [
+                        69.727283,
+                        40.215043
+                  ]
+            },
+            {
+                  "name": "Muzei B. Gafurova",
+                  "text": "Un muzeu în onoarea lui Bobojon Gafurov, proeminentul istoric și om de stat tadjic.",
+                  "category": "museum",
+                  "coords": [
+                        69.737932,
+                        40.226487
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "O moschee locală în Buston, cu un minaret tradițional pentru rugăciunile zilnice ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        69.735166,
+                        40.231488
+                  ]
+            },
+            {
+                  "name": "Maschiti Khochi Nazar",
+                  "text": "Un centru religios în Buston, cunoscut pentru arhitectura sa modestă și tradiția musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        69.726163,
+                        40.214268
+                  ]
+            },
+            {
+                  "name": "Osiio (Iakshanbe bozor)",
+                  "text": "O piață duminicală plină de viață în Buston, unde fermierii din regiune vând fructe și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        69.703269,
+                        40.248983
+                  ]
+            },
+            {
+                  "name": "Farovon",
+                  "text": "O piață aglomerată în Buston, care oferă o selecție largă de alimente și articole de necesitate zilnică.",
+                  "category": "cultural",
+                  "coords": [
+                        69.729995,
+                        40.228644
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Un bazar central în Buston, care servește ca un important nod comercial pentru mărfurile regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.702728,
+                        40.238179
+                  ]
+            },
+            {
+                  "name": "Samarkand",
+                  "text": "Această piață din Buston este cunoscută în special pentru selecția sa de textile și țesături tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.696769,
+                        40.235212
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok Somon",
+                  "text": "O piață specializată de îmbrăcăminte în Buston, oferind o varietate de modă modernă și tradițională.",
+                  "category": "cultural",
+                  "coords": [
+                        69.700107,
+                        40.242753
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok Atush",
+                  "text": "Un bazar popular pentru haine și încălțăminte, apreciat pentru ofertele sale regionale accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        69.702855,
+                        40.245005
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "O baie publică tradițională în Buston, servind pentru igienă și ca loc de întâlnire socială.",
+                  "category": "recreational",
+                  "coords": [
+                        69.701625,
+                        40.236139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sukhoi most",
+                  "text": "An unusual monument in Buston, commemorating the architectural design and infrastructure of the city.",
+                  "category": "historical",
+                  "coords": [
+                        69.699776,
+                        40.227731
+                  ]
+            },
+            {
+                  "name": "Stala Tadzhikistana",
+                  "text": "A monumental stele in Buston, symbolizing the sovereignty and national unity of Tajikistan.",
+                  "category": "historical",
+                  "coords": [
+                        69.697476,
+                        40.23345
+                  ]
+            },
+            {
+                  "name": "Ulitsa Maiakovskogo",
+                  "text": "A central commercial street in Buston named after the famous Soviet poet Vladimir Mayakovsky.",
+                  "category": "landmark",
+                  "coords": [
+                        69.725126,
+                        40.214086
+                  ]
+            },
+            {
+                  "name": "Ul. Gastello",
+                  "text": "This street in Buston is dedicated to the Soviet war hero and pilot Nikolai Gastello.",
+                  "category": "landmark",
+                  "coords": [
+                        69.727283,
+                        40.215043
+                  ]
+            },
+            {
+                  "name": "Muzei B. Gafurova",
+                  "text": "A museum in honor of Bobojon Gafurov, the prominent Tajik historian and statesman.",
+                  "category": "museum",
+                  "coords": [
+                        69.737932,
+                        40.226487
+                  ]
+            },
+            {
+                  "name": "Mechet",
+                  "text": "A local mosque in Buston featuring a traditional minaret for the community's daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        69.735166,
+                        40.231488
+                  ]
+            },
+            {
+                  "name": "Maschiti Khochi Nazar",
+                  "text": "A religious center in Buston known for its modest architecture and local Muslim tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        69.726163,
+                        40.214268
+                  ]
+            },
+            {
+                  "name": "Osiio (Iakshanbe bozor)",
+                  "text": "A lively Sunday market in Buston where farmers from the region sell fresh fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        69.703269,
+                        40.248983
+                  ]
+            },
+            {
+                  "name": "Farovon",
+                  "text": "A busy marketplace in Buston offering a wide selection of food and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        69.729995,
+                        40.228644
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "A central bazaar in Buston serving as a key trading hub for regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.702728,
+                        40.238179
+                  ]
+            },
+            {
+                  "name": "Samarkand",
+                  "text": "This market in Buston is particularly known for its selection of traditional textiles and fabrics.",
+                  "category": "cultural",
+                  "coords": [
+                        69.696769,
+                        40.235212
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok Somon",
+                  "text": "A specialized clothing market in Buston offering a variety of modern and traditional fashion.",
+                  "category": "cultural",
+                  "coords": [
+                        69.700107,
+                        40.242753
+                  ]
+            },
+            {
+                  "name": "Veshchevoi rynok Atush",
+                  "text": "A popular bazaar for clothing and footwear, valued for its affordable regional offerings.",
+                  "category": "cultural",
+                  "coords": [
+                        69.702855,
+                        40.245005
+                  ]
+            },
+            {
+                  "name": "Bania",
+                  "text": "A traditional public bathhouse in Buston serving for hygiene and as a social gathering place.",
+                  "category": "recreational",
+                  "coords": [
+                        69.701625,
+                        40.236139
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-SU",
     coords: [69.7303, 40.2358],
@@ -1153,7 +4978,196 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "ghafurov-cities-v2", "sights": {"de": [{"name": "Muzei B. Gafurova", "text": "Ein Museum in Ghafurow, das dem Leben von Bobodschon Ghafurov gewidmet ist.", "category": "museum", "coords": [69.737933, 40.226488]}, {"name": "Ulitsa Mayakovskogo", "text": "Eine bekannte Straße in Ghafurow, benannt nach dem Dichter Majakowski.", "category": "landmark", "coords": [69.725126, 40.214086]}, {"name": "Sukhoi most", "text": "Ein Denkmal in Ghafurow, das als „Trockene Brücke“ bekannt ist.", "category": "historical", "coords": [69.699776, 40.227731]}, {"name": "Ul. Gastello", "text": "Eine Straße in Ghafurow, die nach dem Flieger Nikolai Gastello benannt ist.", "category": "landmark", "coords": [69.727283, 40.215043]}, {"name": "Tu-134", "text": "Ein ausgestelltes Tu-134 Flugzeug als technisches Denkmal in Ghafurow.", "category": "landmark", "coords": [69.696656, 40.220736]}], "hu": [{"name": "Muzei B. Gafurova", "text": "Ghafurowban található múzeum, amely Bobojon Ghafurov életének állít emléket.", "category": "museum", "coords": [69.737933, 40.226488]}, {"name": "Ulitsa Mayakovskogo", "text": "Ghafurow egyik ismert utcája, amelyet Majakovszkij költőről neveztek el.", "category": "landmark", "coords": [69.725126, 40.214086]}, {"name": "Sukhoi most", "text": "„Száraz híd” néven ismert emlékmű Ghafurowban.", "category": "historical", "coords": [69.699776, 40.227731]}, {"name": "Ul. Gastello", "text": "Nyikolaj Gasztello pilótáról elnevezett utca Ghafurowban.", "category": "landmark", "coords": [69.727283, 40.215043]}, {"name": "Tu-134", "text": "Kiállított Tu-134-es repülőgép mint műszaki emlék Ghafurowban.", "category": "landmark", "coords": [69.696656, 40.220736]}], "ro": [{"name": "Muzei B. Gafurova", "text": "Un muzeu din Ghafurow dedicat vieții lui Bobojon Ghafurov.", "category": "museum", "coords": [69.737933, 40.226488]}, {"name": "Ulitsa Mayakovskogo", "text": "O stradă cunoscută din Ghafurow, numită după poetul Maiakovski.", "category": "landmark", "coords": [69.725126, 40.214086]}, {"name": "Sukhoi most", "text": "Un monument din Ghafurow cunoscut sub numele de „Podul Uscat”.", "category": "historical", "coords": [69.699776, 40.227731]}, {"name": "Ul. Gastello", "text": "O stradă din Ghafurow numită după aviatorul Nikolai Gastello.", "category": "landmark", "coords": [69.727283, 40.215043]}, {"name": "Tu-134", "text": "Un avion Tu-134 expus ca monument tehnic în Ghafurow.", "category": "landmark", "coords": [69.696656, 40.220736]}], "en": [{"name": "Muzei B. Gafurova", "text": "A museum in Ghafurow dedicated to the life of Bobojon Ghafurov.", "category": "museum", "coords": [69.737933, 40.226488]}, {"name": "Ulitsa Mayakovskogo", "text": "A well-known street in Ghafurow named after the poet Mayakovsky.", "category": "landmark", "coords": [69.725126, 40.214086]}, {"name": "Sukhoi most", "text": "A monument in Ghafurow known as the \"Dry Bridge\".", "category": "historical", "coords": [69.699776, 40.227731]}, {"name": "Ul. Gastello", "text": "A street in Ghafurow named after the aviator Nikolai Gastello.", "category": "landmark", "coords": [69.727283, 40.215043]}, {"name": "Tu-134", "text": "An exhibited Tu-134 aircraft serving as a technical monument in Ghafurow.", "category": "landmark", "coords": [69.696656, 40.220736]}]},
+    id: "ghafurov-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei B. Gafurova",
+                  "text": "Ein Museum in Ghafurow, das dem Leben von Bobodschon Ghafurov gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        69.737933,
+                        40.226488
+                  ]
+            },
+            {
+                  "name": "Ulitsa Mayakovskogo",
+                  "text": "Eine bekannte Straße in Ghafurow, benannt nach dem Dichter Majakowski.",
+                  "category": "landmark",
+                  "coords": [
+                        69.725126,
+                        40.214086
+                  ]
+            },
+            {
+                  "name": "Sukhoi most",
+                  "text": "Eine historische Trockensteinbrücke in Ghafurov, die nicht mehr über Wasser führt.",
+                  "category": "historical",
+                  "coords": [
+                        69.699776,
+                        40.227731
+                  ]
+            },
+            {
+                  "name": "Ul. Gastello",
+                  "text": "Eine Straße in Ghafurow, die nach dem Flieger Nikolai Gastello benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.727283,
+                        40.215043
+                  ]
+            },
+            {
+                  "name": "Tu-134",
+                  "text": "Ein ausgestelltes Tu-134 Flugzeug als technisches Denkmal in Ghafurow.",
+                  "category": "landmark",
+                  "coords": [
+                        69.696656,
+                        40.220736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei B. Gafurova",
+                  "text": "Ghafurowban található múzeum, amely Bobojon Ghafurov életének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        69.737933,
+                        40.226488
+                  ]
+            },
+            {
+                  "name": "Ulitsa Mayakovskogo",
+                  "text": "Ghafurow egyik ismert utcája, amelyet Majakovszkij költőről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        69.725126,
+                        40.214086
+                  ]
+            },
+            {
+                  "name": "Sukhoi most",
+                  "text": "Egy történelmi száraz kőhíd Ghafurovban, amely már nem víz fölött ível át.",
+                  "category": "historical",
+                  "coords": [
+                        69.699776,
+                        40.227731
+                  ]
+            },
+            {
+                  "name": "Ul. Gastello",
+                  "text": "Nyikolaj Gasztello pilótáról elnevezett utca Ghafurowban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.727283,
+                        40.215043
+                  ]
+            },
+            {
+                  "name": "Tu-134",
+                  "text": "Kiállított Tu-134-es repülőgép mint műszaki emlék Ghafurowban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.696656,
+                        40.220736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei B. Gafurova",
+                  "text": "Un muzeu din Ghafurow dedicat vieții lui Bobojon Ghafurov.",
+                  "category": "museum",
+                  "coords": [
+                        69.737933,
+                        40.226488
+                  ]
+            },
+            {
+                  "name": "Ulitsa Mayakovskogo",
+                  "text": "O stradă cunoscută din Ghafurow, numită după poetul Maiakovski.",
+                  "category": "landmark",
+                  "coords": [
+                        69.725126,
+                        40.214086
+                  ]
+            },
+            {
+                  "name": "Sukhoi most",
+                  "text": "Un pod istoric din piatră uscată în Ghafurov, care nu mai traversează apă.",
+                  "category": "historical",
+                  "coords": [
+                        69.699776,
+                        40.227731
+                  ]
+            },
+            {
+                  "name": "Ul. Gastello",
+                  "text": "O stradă din Ghafurow numită după aviatorul Nikolai Gastello.",
+                  "category": "landmark",
+                  "coords": [
+                        69.727283,
+                        40.215043
+                  ]
+            },
+            {
+                  "name": "Tu-134",
+                  "text": "Un avion Tu-134 expus ca monument tehnic în Ghafurow.",
+                  "category": "landmark",
+                  "coords": [
+                        69.696656,
+                        40.220736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei B. Gafurova",
+                  "text": "A museum in Ghafurow dedicated to the life of Bobojon Ghafurov.",
+                  "category": "museum",
+                  "coords": [
+                        69.737933,
+                        40.226488
+                  ]
+            },
+            {
+                  "name": "Ulitsa Mayakovskogo",
+                  "text": "A well-known street in Ghafurow named after the poet Mayakovsky.",
+                  "category": "landmark",
+                  "coords": [
+                        69.725126,
+                        40.214086
+                  ]
+            },
+            {
+                  "name": "Sukhoi most",
+                  "text": "A historical dry stone bridge in Ghafurov, no longer spanning water.",
+                  "category": "historical",
+                  "coords": [
+                        69.699776,
+                        40.227731
+                  ]
+            },
+            {
+                  "name": "Ul. Gastello",
+                  "text": "A street in Ghafurow named after the aviator Nikolai Gastello.",
+                  "category": "landmark",
+                  "coords": [
+                        69.727283,
+                        40.215043
+                  ]
+            },
+            {
+                  "name": "Tu-134",
+                  "text": "An exhibited Tu-134 aircraft serving as a technical monument in Ghafurow.",
+                  "category": "landmark",
+                  "coords": [
+                        69.696656,
+                        40.220736
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-SU",
     coords: [69.7306, 40.2189],
@@ -1221,7 +5235,52 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "danghara-cities-v2",
+    id: "danghara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stadion",
+                  "text": "Von diesem Standort am Stadion aus bietet sich ein weiter Blick über die Stadt Danghara.",
+                  "category": "natural",
+                  "coords": [
+                        69.348033,
+                        38.10501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stadion",
+                  "text": "Erről a stadion melletti helyszínről tágas kilátás nyílik Danghara városára.",
+                  "category": "natural",
+                  "coords": [
+                        69.348033,
+                        38.10501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stadion",
+                  "text": "Din acest punct situat lângă stadion, se deschide o vedere largă asupra orașului Danghara.",
+                  "category": "natural",
+                  "coords": [
+                        69.348033,
+                        38.10501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stadion",
+                  "text": "From this location by the stadium, a broad view over the city of Danghara is revealed.",
+                  "category": "natural",
+                  "coords": [
+                        69.348033,
+                        38.10501
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-KT",
     coords: [69.3492, 38.0983],
@@ -1289,7 +5348,52 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "shahrtuz-cities-v2",
+    id: "shahrtuz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bozori markazi",
+                  "text": "Der belebte Hauptmarktplatz, auf dem Einheimische in Shahrtuz Alltagsgüter handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        68.143583,
+                        37.265246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bozori markazi",
+                  "text": "A nyüzsgő főpiac, ahol a helyiek mindennapi cikkekkel kereskednek Shahrtuzban.",
+                  "category": "cultural",
+                  "coords": [
+                        68.143583,
+                        37.265246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bozori markazi",
+                  "text": "Principala piață aglomerată unde localnicii tranzacționează bunuri de zi cu zi în Shahrtuz.",
+                  "category": "cultural",
+                  "coords": [
+                        68.143583,
+                        37.265246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Central Bazaar",
+                  "text": "The main bustling marketplace where locals trade everyday goods in Shahrtuz.",
+                  "category": "cultural",
+                  "coords": [
+                        68.143583,
+                        37.265246
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-KT",
     coords: [68.1389, 37.2611],
@@ -1357,7 +5461,52 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "zafarobod-cities-v2",
+    id: "zafarobod-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Axmadxo'ja jom`e masjidi",
+                  "text": "Eine lokale Freitagsmoschee, die der islamischen Gemeinschaft in der urbanen Struktur von Zafarobod als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        68.670318,
+                        40.180622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Axmadxo'ja jom`e masjidi",
+                  "text": "Egy helyi pénteki mecset, amely imaházként szolgál az iszlám közösség számára Zafarobod városi szövetében.",
+                  "category": "landmark",
+                  "coords": [
+                        68.670318,
+                        40.180622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Axmadxo'ja jom`e masjidi",
+                  "text": "O moschee de vineri locală, care servește drept loc de rugăciune pentru comunitatea islamică din structura urbană a orașului Zafarobod.",
+                  "category": "landmark",
+                  "coords": [
+                        68.670318,
+                        40.180622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Axmadxo'ja jom`e masjidi",
+                  "text": "A local Friday mosque serving as a place of prayer for the Islamic community within the urban structure of Zafarobod.",
+                  "category": "landmark",
+                  "coords": [
+                        68.670318,
+                        40.180622
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-SU",
     coords: [68.6750, 40.1833],
@@ -1497,7 +5646,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lenin Statue",
-                  "text": "Ein Denkmal zu Ehren von Wladimir Lenin in Murghob.",
+                  "text": "Eine sowjetische Statue von Wladimir Lenin in Murghob, ein historisches Wahrzeichen.",
                   "category": "historical",
                   "coords": [
                         73.966747,
@@ -1508,7 +5657,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lenin",
-                  "text": "Vlagyimir Lenin tiszteletére emelt emlékmű Murgobban.",
+                  "text": "Egy szovjet kori Lenin-szobor Murghobban, történelmi nevezetesség.",
                   "category": "historical",
                   "coords": [
                         73.966747,
@@ -1519,7 +5668,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lenin",
-                  "text": "Un monument ridicat în onoarea lui Vladimir Lenin în Murgab.",
+                  "text": "O statuie sovietică a lui Vladimir Lenin în Murghob, un reper istoric.",
                   "category": "historical",
                   "coords": [
                         73.966747,
@@ -1530,7 +5679,7 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lenin",
-                  "text": "A monument dedicated to Vladimir Lenin in Murghob.",
+                  "text": "A Soviet-era statue of Vladimir Lenin in Murghob, a historical landmark.",
                   "category": "historical",
                   "coords": [
                         73.966747,
@@ -1742,7 +5891,88 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "qabodiyon-cities-v2",
+    id: "qabodiyon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chiluchorchashma",
+                  "text": "Ein heiliger Ort mit 44 klaren Quellen, die inmitten der trockenen Wüstenlandschaft entspringen.",
+                  "category": "landmark",
+                  "coords": [
+                        68.038321,
+                        37.293935
+                  ]
+            },
+            {
+                  "name": "ruyini Tashkupruk",
+                  "text": "Überreste einer historischen Steinbrücke, die einst eine wichtige Handelsroute überquerte.",
+                  "category": "historical",
+                  "coords": [
+                        68.021424,
+                        37.29379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chiluchorchashma",
+                  "text": "Szent hely 44 kristálytiszta forrással a száraz sivatagi táj közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        68.038321,
+                        37.293935
+                  ]
+            },
+            {
+                  "name": "ruyini Tashkupruk",
+                  "text": "Egy történelmi kőhíd maradványai, amely egykor fontos kereskedelmi útvonalat keresztezett.",
+                  "category": "historical",
+                  "coords": [
+                        68.021424,
+                        37.29379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chiluchorchashma",
+                  "text": "Un loc sacru cu 44 de izvoare limpezi ce țâșnesc în mijlocul peisajului arid de deșert.",
+                  "category": "landmark",
+                  "coords": [
+                        68.038321,
+                        37.293935
+                  ]
+            },
+            {
+                  "name": "ruyini Tashkupruk",
+                  "text": "Vestigiile unui pod istoric de piatră care traversa odinioară o importantă rută comercială.",
+                  "category": "historical",
+                  "coords": [
+                        68.021424,
+                        37.29379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiluchorchashma",
+                  "text": "A sacred site with 44 clear springs emerging in the middle of the arid desert landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        68.038321,
+                        37.293935
+                  ]
+            },
+            {
+                  "name": "ruyini Tashkupruk",
+                  "text": "Remains of a historical stone bridge that once crossed a major trade route.",
+                  "category": "historical",
+                  "coords": [
+                        68.021424,
+                        37.29379
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-KT",
     coords: [68.0167, 37.2833],
@@ -1810,7 +6040,88 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "levakant-cities-v2",
+    id: "levakant-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krasivye skaly",
+                  "text": "Ein malerischer felsiger Aussichtspunkt, der einen Panoramablick über die Landschaft von Lewakant bietet.",
+                  "category": "natural",
+                  "coords": [
+                        68.952862,
+                        37.864976
+                  ]
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "Ein Zentrum für lokale Kunst und Gemeindeveranstaltungen, das verschiedene kulturelle Aufführungen in Lewakant beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        68.926353,
+                        37.868933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krasivye skaly",
+                  "text": "Egy festői sziklás kilátópont, amely panorámás kilátást nyújt Levakant tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        68.952862,
+                        37.864976
+                  ]
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "A helyi művészetek és közösségi események központja, amely különféle kulturális előadásoknak ad otthont Levakantban.",
+                  "category": "cultural",
+                  "coords": [
+                        68.926353,
+                        37.868933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krasivye skaly",
+                  "text": "Un punct de observație stâncos pitoresc, ce oferă o vedere panoramică asupra peisajului din Levakant.",
+                  "category": "natural",
+                  "coords": [
+                        68.952862,
+                        37.864976
+                  ]
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "Un centru pentru arte locale și evenimente comunitare, care găzduiește diverse spectacole culturale în Levakant.",
+                  "category": "cultural",
+                  "coords": [
+                        68.926353,
+                        37.868933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beautiful Rocks with awsme view",
+                  "text": "A scenic rocky viewpoint offering a panoramic vista over the landscape of Levakant.",
+                  "category": "natural",
+                  "coords": [
+                        68.952862,
+                        37.864976
+                  ]
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "A hub for local arts and community events, hosting various cultural performances in Levakant.",
+                  "category": "cultural",
+                  "coords": [
+                        68.926353,
+                        37.868933
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-KT",
     coords: [68.9292, 37.8731],
@@ -1878,7 +6189,52 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "roghun-cities-v2",
+    id: "roghun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorets kul'tury",
+                  "text": "Dieses markante Gebäude in Roghun dient als Zentrum für kulturelle Veranstaltungen und Festlichkeiten.",
+                  "category": "castle",
+                  "coords": [
+                        69.745589,
+                        38.696723
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorets kul'tury",
+                  "text": "Ez a jellegzetes épület Roghunban kulturális rendezvények és ünnepségek központjaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        69.745589,
+                        38.696723
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorets kul'tury",
+                  "text": "Această clădire distinctivă din Roghun servește drept centru pentru evenimente culturale și festivități.",
+                  "category": "castle",
+                  "coords": [
+                        69.745589,
+                        38.696723
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of the cultural events",
+                  "text": "This distinctive building in Roghun serves as a center for cultural events and festivities.",
+                  "category": "castle",
+                  "coords": [
+                        69.745589,
+                        38.696723
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TJ-RR",
     coords: [69.7547, 38.6961],

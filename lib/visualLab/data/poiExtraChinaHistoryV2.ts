@@ -3,7 +3,736 @@ import type { POI } from "./poi";
 
 export const poiExtraChinaHistoryV2: POI[] = [
   {
-    id: "ming-tombs-history-v2",
+    id: "ming-tombs-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "leaky",
+                  "text": "Ein Aussichtspunkt in den Hügeln, der einen weiten Blick über das Tal der Ming-Gräber bietet.",
+                  "category": "natural",
+                  "coords": [
+                        116.211557,
+                        40.195501
+                  ]
+            },
+            {
+                  "name": "RES",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Shisanling-Stausee und die umliegende Gebirgslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        116.224594,
+                        40.210228
+                  ]
+            },
+            {
+                  "name": "Sacred Way exit",
+                  "text": "Das nördliche Ende des zeremoniellen Weges, markiert durch prächtige Steinsäulen mit Drachen- und Phönixmotiven.",
+                  "category": "landmark",
+                  "coords": [
+                        116.224222,
+                        40.264504
+                  ]
+            },
+            {
+                  "name": "Diamond Wall",
+                  "text": "Die schützende Steinmauer am Eingang zum unterirdischen Palast des Dingling-Grabes.",
+                  "category": "landmark",
+                  "coords": [
+                        116.216031,
+                        40.294987
+                  ]
+            },
+            {
+                  "name": "Beijing Waxworks Palace of Ming Dynasty",
+                  "text": "Ein Museum mit Wachsfiguren, die wichtige Kaiser und historische Szenen der Ming-Dynastie darstellen.",
+                  "category": "museum",
+                  "coords": [
+                        116.206535,
+                        40.225376
+                  ]
+            },
+            {
+                  "name": "Mangshan National Forest Park",
+                  "text": "Ein Nationalpark, der für seine riesige, 9,9 Meter hohe Buddha-Statue aus Stein bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        116.284856,
+                        40.260442
+                  ]
+            },
+            {
+                  "name": "The Sacred Way of Ming Tombs",
+                  "text": "Ein sieben Kilometer langer zeremonieller Weg, der von 18 Paaren monumentaler Steinfiguren flankiert wird.",
+                  "category": "historical",
+                  "coords": [
+                        116.219211,
+                        40.256821
+                  ]
+            },
+            {
+                  "name": "Zhaoling Tomb",
+                  "text": "Ein restauriertes kaiserliches Grabmal mit einer markanten kreisförmigen Mauer und einer zentralen Opferhalle.",
+                  "category": "landmark",
+                  "coords": [
+                        116.211785,
+                        40.289995
+                  ]
+            },
+            {
+                  "name": "Qingling Tomb",
+                  "text": "Ein unrestauriertes, naturbelassenes Grabmal der Ming-Dynastie, das in einem ruhigen Waldgebiet liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        116.233151,
+                        40.307745
+                  ]
+            },
+            {
+                  "name": "Dingling Tomb",
+                  "text": "Das einzige Grab der Ming-Dynastie mit einem freigelegten unterirdischen Palast aus weißem Marmor.",
+                  "category": "landmark",
+                  "coords": [
+                        116.217131,
+                        40.294545
+                  ]
+            },
+            {
+                  "name": "Yongling Tomb",
+                  "text": "Ein prachtvolles Grabmal, das für seine feinen Steinmetzarbeiten und seine monumentale Größe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        116.250553,
+                        40.288395
+                  ]
+            },
+            {
+                  "name": "Deling Tomb",
+                  "text": "Ein schlichtes kaiserliches Grab, das harmonisch in die umliegende Hügellandschaft der Ming-Gräber eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        116.258823,
+                        40.288295
+                  ]
+            },
+            {
+                  "name": "Changling Tomb",
+                  "text": "Das größte der Ming-Gräber mit einer prächtigen Halle aus kostbarem Nanmu-Holz.",
+                  "category": "landmark",
+                  "coords": [
+                        116.243084,
+                        40.300242
+                  ]
+            },
+            {
+                  "name": "Kangling Tomb",
+                  "text": "Ein abgelegenes und friedliches Grabmal am Fuße des Berges Lianhua.",
+                  "category": "landmark",
+                  "coords": [
+                        116.204121,
+                        40.31919
+                  ]
+            },
+            {
+                  "name": "Site of Ruifeng Temple",
+                  "text": "Die Überreste eines historischen Tempels, der einst der Verwaltung und den Riten der kaiserlichen Nekropole diente.",
+                  "category": "landmark",
+                  "coords": [
+                        116.163328,
+                        40.29484
+                  ]
+            },
+            {
+                  "name": "Site of Dongfeng Temple",
+                  "text": "Die Ruinen einer Tempelanlage innerhalb des Areals der Ming-Gräber, die einst den Grabwächtern als Wohnstätte diente.",
+                  "category": "landmark",
+                  "coords": [
+                        116.149802,
+                        40.300118
+                  ]
+            },
+            {
+                  "name": "Site of Pandao Temple",
+                  "text": "Eine archäologische Stätte eines ehemaligen Tempels, der für religiöse Zeremonien der kaiserlichen Familie genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        116.148168,
+                        40.300107
+                  ]
+            },
+            {
+                  "name": "Site of Xifeng Temple",
+                  "text": "Überreste eines alten Tempels in den Ausläufern der Berge, der zur Infrastruktur der kaiserlichen Ruhestätten gehörte.",
+                  "category": "landmark",
+                  "coords": [
+                        116.146548,
+                        40.299338
+                  ]
+            },
+            {
+                  "name": "Gouya Scenic Area",
+                  "text": "Ein Naturgebiet, das für seine zerklüfteten, felsigen Berggipfel bekannt ist, die an Hundezähne erinnern.",
+                  "category": "natural",
+                  "coords": [
+                        116.158584,
+                        40.297901
+                  ]
+            },
+            {
+                  "name": "Guandi Temple",
+                  "text": "Ein traditioneller chinesischer Tempel, der Guan Yu gewidmet ist, dem als Gott verehrten General der Zeit der Drei Reiche.",
+                  "category": "landmark",
+                  "coords": [
+                        116.215096,
+                        40.288651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "leaky",
+                  "text": "Kilátópont a dombokon, ahonnan pazar kilátás nyílik a Ming-sírok völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        116.211557,
+                        40.195501
+                  ]
+            },
+            {
+                  "name": "RES",
+                  "text": "Kilátópont, ahonnan rálátni a Sisanling-víztározóra és a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        116.224594,
+                        40.210228
+                  ]
+            },
+            {
+                  "name": "Sacred Way exit",
+                  "text": "A ceremoniális út északi vége, melyet sárkány- és főnixmotívumokkal díszített pompás kőoszlopok jelölnek.",
+                  "category": "landmark",
+                  "coords": [
+                        116.224222,
+                        40.264504
+                  ]
+            },
+            {
+                  "name": "Diamond Wall",
+                  "text": "A Dingling-sír föld alatti palotájának bejáratát védelmező kőfal.",
+                  "category": "landmark",
+                  "coords": [
+                        116.216031,
+                        40.294987
+                  ]
+            },
+            {
+                  "name": "Beijing Waxworks Palace of Ming Dynasty",
+                  "text": "Viaszbábukat bemutató múzeum, amely a Ming-dinasztia fontos császárait és történelmi jeleneteit ábrázolja.",
+                  "category": "museum",
+                  "coords": [
+                        116.206535,
+                        40.225376
+                  ]
+            },
+            {
+                  "name": "Mangshan National Forest Park",
+                  "text": "Nemzeti park, amely a hatalmas, 9,9 méter magas kőből faragott Buddha-szobráról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        116.284856,
+                        40.260442
+                  ]
+            },
+            {
+                  "name": "The Sacred Way of Ming Tombs",
+                  "text": "Hét kilométer hosszú ceremoniális út, amelyet 18 pár monumentális kőfigura szegélyez.",
+                  "category": "historical",
+                  "coords": [
+                        116.219211,
+                        40.256821
+                  ]
+            },
+            {
+                  "name": "Zhaoling Tomb",
+                  "text": "Restaurált császári sírhely jellegzetes kör alakú fallal és egy központi áldozati csarnokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        116.211785,
+                        40.289995
+                  ]
+            },
+            {
+                  "name": "Qingling Tomb",
+                  "text": "A Ming-dinasztia restaurálatlan, természetközeli síremléke, amely egy csendes erdős területen fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        116.233151,
+                        40.307745
+                  ]
+            },
+            {
+                  "name": "Dingling Tomb",
+                  "text": "Az egyetlen feltárt Ming-síremlék, amelynek mélyén fehér márványból készült föld alatti palota található.",
+                  "category": "landmark",
+                  "coords": [
+                        116.217131,
+                        40.294545
+                  ]
+            },
+            {
+                  "name": "Yongling Tomb",
+                  "text": "Pompás síremlék, amely finom kőfaragásairól és monumentális méretéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        116.250553,
+                        40.288395
+                  ]
+            },
+            {
+                  "name": "Deling Tomb",
+                  "text": "Egyszerű császári sír, amely harmonikusan simul a Ming-sírok környező dombos tájába.",
+                  "category": "landmark",
+                  "coords": [
+                        116.258823,
+                        40.288295
+                  ]
+            },
+            {
+                  "name": "Changling Tomb",
+                  "text": "A legnagyobb Ming-sír, amelynek pompás csarnoka értékes nanmu fából készült.",
+                  "category": "landmark",
+                  "coords": [
+                        116.243084,
+                        40.300242
+                  ]
+            },
+            {
+                  "name": "Kangling Tomb",
+                  "text": "Félreeső és békés síremlék a Lianhua-hegy lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        116.204121,
+                        40.31919
+                  ]
+            },
+            {
+                  "name": "Site of Ruifeng Temple",
+                  "text": "Egy történelmi templom maradványai, amely egykor a császári nekropolisz igazgatását és rítusait szolgálta.",
+                  "category": "landmark",
+                  "coords": [
+                        116.163328,
+                        40.29484
+                  ]
+            },
+            {
+                  "name": "Site of Dongfeng Temple",
+                  "text": "Egy templomegyüttes romjai a Ming-sírok területén belül, amely egykor a sírőrök lakhelyéül szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        116.149802,
+                        40.300118
+                  ]
+            },
+            {
+                  "name": "Site of Pandao Temple",
+                  "text": "Egy egykori templom régészeti helyszíne, amelyet a császári család vallási szertartásaihoz használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        116.148168,
+                        40.300107
+                  ]
+            },
+            {
+                  "name": "Site of Xifeng Temple",
+                  "text": "Egy ősi templom maradványai a hegy lábánál, amely a császári nyughelyek infrastruktúrájához tartozott.",
+                  "category": "landmark",
+                  "coords": [
+                        116.146548,
+                        40.299338
+                  ]
+            },
+            {
+                  "name": "Gouya Scenic Area",
+                  "text": "Természeti terület, amely kutyafogakra emlékeztető, csipkés, sziklás hegycsúcsairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        116.158584,
+                        40.297901
+                  ]
+            },
+            {
+                  "name": "Guandi Temple",
+                  "text": "Hagyományos kínai templom, amelyet Kuan Jünak, a Három Királyság korabeli, istenként tisztelt tábornokának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        116.215096,
+                        40.288651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "leaky",
+                  "text": "Un punct de belvedere situat pe dealuri, oferind o panoramă vastă asupra văii mormintelor Ming.",
+                  "category": "natural",
+                  "coords": [
+                        116.211557,
+                        40.195501
+                  ]
+            },
+            {
+                  "name": "RES",
+                  "text": "Un punct de belvedere cu vedere spre rezervorul Shisanling și peisajul montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        116.224594,
+                        40.210228
+                  ]
+            },
+            {
+                  "name": "Sacred Way exit",
+                  "text": "Capătul nordic al drumului ceremonial, marcat de coloane de piatră splendide cu motive de dragon și phoenix.",
+                  "category": "landmark",
+                  "coords": [
+                        116.224222,
+                        40.264504
+                  ]
+            },
+            {
+                  "name": "Diamond Wall",
+                  "text": "Zidul de piatră protector de la intrarea în palatul subteran al mormântului Dingling.",
+                  "category": "landmark",
+                  "coords": [
+                        116.216031,
+                        40.294987
+                  ]
+            },
+            {
+                  "name": "Beijing Waxworks Palace of Ming Dynasty",
+                  "text": "Un muzeu cu figuri de ceară care reprezintă împărați importanți și scene istorice din dinastia Ming.",
+                  "category": "museum",
+                  "coords": [
+                        116.206535,
+                        40.225376
+                  ]
+            },
+            {
+                  "name": "Mangshan National Forest Park",
+                  "text": "Un parc național cunoscut pentru statuia sa uriașă a lui Buddha, cioplită în piatră, înaltă de 9,9 metri.",
+                  "category": "natural",
+                  "coords": [
+                        116.284856,
+                        40.260442
+                  ]
+            },
+            {
+                  "name": "The Sacred Way of Ming Tombs",
+                  "text": "Un drum ceremonial lung de șapte kilometri, flancat de 18 perechi de figuri monumentale de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        116.219211,
+                        40.256821
+                  ]
+            },
+            {
+                  "name": "Zhaoling Tomb",
+                  "text": "Un mormânt imperial restaurat, cu un zid circular distinctiv și o sală centrală de sacrificiu.",
+                  "category": "landmark",
+                  "coords": [
+                        116.211785,
+                        40.289995
+                  ]
+            },
+            {
+                  "name": "Qingling Tomb",
+                  "text": "Un mormânt nerestaurat din dinastia Ming, lăsat în stare naturală, situat într-o zonă forestieră liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        116.233151,
+                        40.307745
+                  ]
+            },
+            {
+                  "name": "Dingling Tomb",
+                  "text": "Singurul mormânt Ming excavat, cu un palat subteran adânc construit din marmură albă.",
+                  "category": "landmark",
+                  "coords": [
+                        116.217131,
+                        40.294545
+                  ]
+            },
+            {
+                  "name": "Yongling Tomb",
+                  "text": "Un mormânt splendid, cunoscut pentru sculpturile sale fine în piatră și dimensiunea sa monumentală.",
+                  "category": "landmark",
+                  "coords": [
+                        116.250553,
+                        40.288395
+                  ]
+            },
+            {
+                  "name": "Deling Tomb",
+                  "text": "Un mormânt imperial simplu, integrat armonios în peisajul deluros înconjurător al mormintelor Ming.",
+                  "category": "landmark",
+                  "coords": [
+                        116.258823,
+                        40.288295
+                  ]
+            },
+            {
+                  "name": "Changling Tomb",
+                  "text": "Cel mai mare dintre mormintele Ming, având o sală splendidă construită din lemn prețios de nanmu.",
+                  "category": "landmark",
+                  "coords": [
+                        116.243084,
+                        40.300242
+                  ]
+            },
+            {
+                  "name": "Kangling Tomb",
+                  "text": "Un mormânt retras și liniștit, situat la poalele muntelui Lianhua.",
+                  "category": "landmark",
+                  "coords": [
+                        116.204121,
+                        40.31919
+                  ]
+            },
+            {
+                  "name": "Site of Ruifeng Temple",
+                  "text": "Rămășițele unui templu istoric care servea odinioară administrației și riturilor necropolei imperiale.",
+                  "category": "landmark",
+                  "coords": [
+                        116.163328,
+                        40.29484
+                  ]
+            },
+            {
+                  "name": "Site of Dongfeng Temple",
+                  "text": "Ruinele unui complex de temple din cadrul zonei mormintelor Ming, care servea odinioară drept locuință pentru paznici.",
+                  "category": "landmark",
+                  "coords": [
+                        116.149802,
+                        40.300118
+                  ]
+            },
+            {
+                  "name": "Site of Pandao Temple",
+                  "text": "Situl arheologic al unui fost templu folosit pentru ceremoniile religioase ale familiei imperiale.",
+                  "category": "landmark",
+                  "coords": [
+                        116.148168,
+                        40.300107
+                  ]
+            },
+            {
+                  "name": "Site of Xifeng Temple",
+                  "text": "Rămășițele unui templu vechi situat la poalele munților, care făcea parte din infrastructura locurilor de odihnă imperiale.",
+                  "category": "landmark",
+                  "coords": [
+                        116.146548,
+                        40.299338
+                  ]
+            },
+            {
+                  "name": "Gouya Scenic Area",
+                  "text": "O zonă naturală cunoscută pentru vârfurile sale montane stâncoase și zimțate care seamănă cu dinții de câine.",
+                  "category": "natural",
+                  "coords": [
+                        116.158584,
+                        40.297901
+                  ]
+            },
+            {
+                  "name": "Guandi Temple",
+                  "text": "Un templu chinezesc tradițional dedicat lui Guan Yu, generalul din perioada celor Trei Regate, venerat ca zeu.",
+                  "category": "landmark",
+                  "coords": [
+                        116.215096,
+                        40.288651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "leaky",
+                  "text": "A viewpoint in the hills offering a broad vista over the valley of the Ming Tombs.",
+                  "category": "natural",
+                  "coords": [
+                        116.211557,
+                        40.195501
+                  ]
+            },
+            {
+                  "name": "RES",
+                  "text": "A viewpoint overlooking the Shisanling Reservoir and the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        116.224594,
+                        40.210228
+                  ]
+            },
+            {
+                  "name": "Sacred Way exit",
+                  "text": "The northern end of the ceremonial way, marked by magnificent stone columns with dragon and phoenix motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        116.224222,
+                        40.264504
+                  ]
+            },
+            {
+                  "name": "Diamond Wall",
+                  "text": "The protective stone wall at the entrance to the underground palace of the Dingling tomb.",
+                  "category": "landmark",
+                  "coords": [
+                        116.216031,
+                        40.294987
+                  ]
+            },
+            {
+                  "name": "Beijing Waxworks Palace of Ming Dynasty",
+                  "text": "A museum featuring wax figures depicting key emperors and historical scenes of the Ming dynasty.",
+                  "category": "museum",
+                  "coords": [
+                        116.206535,
+                        40.225376
+                  ]
+            },
+            {
+                  "name": "Mangshan National Forest Park",
+                  "text": "A national park known for its massive 9.9-meter-high Buddha statue carved from stone.",
+                  "category": "natural",
+                  "coords": [
+                        116.284856,
+                        40.260442
+                  ]
+            },
+            {
+                  "name": "The Sacred Way of Ming Tombs",
+                  "text": "A seven-kilometer ceremonial path flanked by 18 pairs of monumental stone figures.",
+                  "category": "historical",
+                  "coords": [
+                        116.219211,
+                        40.256821
+                  ]
+            },
+            {
+                  "name": "Zhaoling Tomb",
+                  "text": "A restored imperial tomb featuring a distinctive circular wall and a central sacrificial hall.",
+                  "category": "landmark",
+                  "coords": [
+                        116.211785,
+                        40.289995
+                  ]
+            },
+            {
+                  "name": "Qingling Tomb",
+                  "text": "An unrestored, natural-state tomb of the Ming dynasty situated in a quiet forested area.",
+                  "category": "landmark",
+                  "coords": [
+                        116.233151,
+                        40.307745
+                  ]
+            },
+            {
+                  "name": "Dingling Tomb",
+                  "text": "The only excavated Ming dynasty tomb, featuring a deep underground palace made of white marble.",
+                  "category": "landmark",
+                  "coords": [
+                        116.217131,
+                        40.294545
+                  ]
+            },
+            {
+                  "name": "Yongling Tomb",
+                  "text": "A magnificent tomb known for its fine stone carvings and monumental scale.",
+                  "category": "landmark",
+                  "coords": [
+                        116.250553,
+                        40.288395
+                  ]
+            },
+            {
+                  "name": "Deling Tomb",
+                  "text": "A simple imperial tomb harmoniously embedded in the surrounding hilly landscape of the Ming Tombs.",
+                  "category": "landmark",
+                  "coords": [
+                        116.258823,
+                        40.288295
+                  ]
+            },
+            {
+                  "name": "Changling Tomb",
+                  "text": "The largest of the Ming tombs, featuring a magnificent hall built from precious nanmu wood.",
+                  "category": "landmark",
+                  "coords": [
+                        116.243084,
+                        40.300242
+                  ]
+            },
+            {
+                  "name": "Kangling Tomb",
+                  "text": "A secluded and peaceful tomb located at the foot of Lianhua Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        116.204121,
+                        40.31919
+                  ]
+            },
+            {
+                  "name": "Site of Ruifeng Temple",
+                  "text": "The remains of a historical temple that once served the administration and rites of the imperial necropolis.",
+                  "category": "landmark",
+                  "coords": [
+                        116.163328,
+                        40.29484
+                  ]
+            },
+            {
+                  "name": "Site of Dongfeng Temple",
+                  "text": "The ruins of a temple complex within the Ming Tombs area that once served as a residence for tomb guards.",
+                  "category": "landmark",
+                  "coords": [
+                        116.149802,
+                        40.300118
+                  ]
+            },
+            {
+                  "name": "Site of Pandao Temple",
+                  "text": "An archaeological site of a former temple used for religious ceremonies by the imperial family.",
+                  "category": "landmark",
+                  "coords": [
+                        116.148168,
+                        40.300107
+                  ]
+            },
+            {
+                  "name": "Site of Xifeng Temple",
+                  "text": "Remains of an ancient temple in the foothills that belonged to the infrastructure of the imperial resting places.",
+                  "category": "landmark",
+                  "coords": [
+                        116.146548,
+                        40.299338
+                  ]
+            },
+            {
+                  "name": "Gouya Scenic Area",
+                  "text": "A natural area known for its jagged, rocky mountain peaks that resemble dog teeth.",
+                  "category": "natural",
+                  "coords": [
+                        116.158584,
+                        40.297901
+                  ]
+            },
+            {
+                  "name": "Guandi Temple",
+                  "text": "A traditional Chinese temple dedicated to Guan Yu, the general from the Three Kingdoms period revered as a god.",
+                  "category": "landmark",
+                  "coords": [
+                        116.215096,
+                        40.288651
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "CN-BJ",
     coords: [116.2200, 40.2500],
@@ -51,7 +780,484 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
       {
-    id: "yungang-grottoes-history-v2",
+    id: "yungang-grottoes-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cave 39",
+                  "text": "Diese Höhle beeindruckt durch eine 6 Meter hohe, fünfstöckige zentrale Pagodensäule mit feinen Schnitzereien.",
+                  "category": "landmark",
+                  "coords": [
+                        113.121294,
+                        40.110174
+                  ]
+            },
+            {
+                  "name": "Cave 21",
+                  "text": "Diese Höhle zeigt den späten 'schlanken und eleganten' Stil mit zierlichen, han-beeinflussten Skulpturen.",
+                  "category": "landmark",
+                  "coords": [
+                        113.122493,
+                        40.110194
+                  ]
+            },
+            {
+                  "name": "Cave 16",
+                  "text": "Teil der ursprünglichen 'Tanyao-Fünf' mit einem Buddha auf einem hohen quadratischen Sockel.",
+                  "category": "landmark",
+                  "coords": [
+                        113.123793,
+                        40.110227
+                  ]
+            },
+            {
+                  "name": "Cave 11+12",
+                  "text": "Höhle 12 wird 'Musik-Höhle' genannt und zeigt lebendige Reliefs von Musikern und Instrumenten aus dem 5. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        113.124967,
+                        40.110219
+                  ]
+            },
+            {
+                  "name": "Cave 5",
+                  "text": "Beherbergt den größten sitzenden Buddha des gesamten Komplexes mit einer beeindruckenden Höhe von 17 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        113.126058,
+                        40.110222
+                  ]
+            },
+            {
+                  "name": "Cave 2",
+                  "text": "Eine Höhle mit quadratischem Grundriss, einer zentralen Säule und verwitterten buddhistischen Reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        113.129659,
+                        40.109687
+                  ]
+            },
+            {
+                  "name": "Cave 4",
+                  "text": "Eine Höhle aus der Spätzeit mit einer quadratischen Mittelsäule und 'Tausend-Buddha'-Wandnischen.",
+                  "category": "landmark",
+                  "coords": [
+                        113.127397,
+                        40.110161
+                  ]
+            },
+            {
+                  "name": "Yungang Museum",
+                  "text": "Das Museum zeigt archäologische Funde und die Geschichte der buddhistischen Steinschnitzkunst der Region.",
+                  "category": "museum",
+                  "coords": [
+                        113.12047,
+                        40.10846
+                  ]
+            },
+            {
+                  "name": "Yungang Castle",
+                  "text": "Eine historische Festungsanlage, die einst den strategischen Pass in der Nähe der Yungang-Grotten schützte.",
+                  "category": "castle",
+                  "coords": [
+                        113.123992,
+                        40.111847
+                  ]
+            },
+            {
+                  "name": "Yungang-Grotten",
+                  "text": "Dieses UNESCO-Welterbe umfasst über 50.000 buddhistische Statuen, die in Sandsteinklippen gehauen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        113.130558,
+                        40.111893
+                  ]
+            },
+            {
+                  "name": "Guanyin Hall",
+                  "text": "Ein alter buddhistischer Tempelkomplex, der für seine kunstvollen Holzschnitzereien und die Guanyin-Statue bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        113.197178,
+                        40.10133
+                  ]
+            },
+            {
+                  "name": "Lubanyao Grottoes",
+                  "text": "Eine Gruppe kleinerer, in die Klippen gehauener Grotten mit buddhistischen Reliefs aus der Nördlichen Wei-Zeit.",
+                  "category": "landmark",
+                  "coords": [
+                        113.114085,
+                        40.116065
+                  ]
+            },
+            {
+                  "name": "Wuguantun Grotto",
+                  "text": "Diese buddhistische Grotte enthält filigrane Skulpturen aus der Zeit der Nördlichen Wei-Dynastie.",
+                  "category": "landmark",
+                  "coords": [
+                        113.097615,
+                        40.12465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cave 39",
+                  "text": "Ez a barlang egy 6 méter magas, ötszintes központi pagoda-pillérrel nyűgöz le, amelyet finom faragások díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        113.121294,
+                        40.110174
+                  ]
+            },
+            {
+                  "name": "Cave 21",
+                  "text": "Ez a barlang a késői 'karcsú és elegáns' stílust mutatja be finom, han-befolyásolt szobrokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        113.122493,
+                        40.110194
+                  ]
+            },
+            {
+                  "name": "Cave 16",
+                  "text": "Az eredeti 'Tan-jao öt' barlang egyike, egy magas, négyzet alakú talapzaton álló Buddhával.",
+                  "category": "landmark",
+                  "coords": [
+                        113.123793,
+                        40.110227
+                  ]
+            },
+            {
+                  "name": "Cave 11+12",
+                  "text": "A 12-es barlang a 'Zene barlangja', amely 5. századi zenészeket és hangszereket ábrázoló élénk domborműveket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        113.124967,
+                        40.110219
+                  ]
+            },
+            {
+                  "name": "Cave 5",
+                  "text": "A komplexum legnagyobb ülő Buddháját rejti, amely lenyűgöző, 17 méteres magassággal büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        113.126058,
+                        40.110222
+                  ]
+            },
+            {
+                  "name": "Cave 2",
+                  "text": "Négyzet alaprajzú barlang központi pillérrel és kopott buddhista domborművekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        113.129659,
+                        40.109687
+                  ]
+            },
+            {
+                  "name": "Cave 4",
+                  "text": "Egy késői korszakból származó barlang négyzet alakú középső pillérrel és 'Ezer Buddha' fali fülkékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        113.127397,
+                        40.110161
+                  ]
+            },
+            {
+                  "name": "Yungang museum",
+                  "text": "A múzeum a régió régészeti leleteit és a buddhista kőfaragás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.12047,
+                        40.10846
+                  ]
+            },
+            {
+                  "name": "Yungang Castle",
+                  "text": "Történelmi erődítmény, amely egykor a Yungang-barlangok közelében lévő stratégiai hágót védte.",
+                  "category": "castle",
+                  "coords": [
+                        113.123992,
+                        40.111847
+                  ]
+            },
+            {
+                  "name": "Yungang Grottoes",
+                  "text": "Ez az UNESCO világörökségi helyszín több mint 50 000 homokkőbe vájt buddhista szobrot foglal magában.",
+                  "category": "landmark",
+                  "coords": [
+                        113.130558,
+                        40.111893
+                  ]
+            },
+            {
+                  "name": "Guanyin Hall",
+                  "text": "Régi buddhista templomegyüttes, amely díszes fafaragásairól és Guanyin-szobráról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        113.197178,
+                        40.10133
+                  ]
+            },
+            {
+                  "name": "Lubanyao Grottoes",
+                  "text": "Kisebb, sziklába vájt barlangcsoport buddhista domborművekkel az Északi Vej-korszakból.",
+                  "category": "landmark",
+                  "coords": [
+                        113.114085,
+                        40.116065
+                  ]
+            },
+            {
+                  "name": "Wuguantun Grotto",
+                  "text": "Ez a buddhista barlang az Északi Vej-dinasztia idejéből származó filigrán szobrokat tartalmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        113.097615,
+                        40.12465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cave 39",
+                  "text": "Această peșteră impresionează printr-un stâlp central de pagodă cu cinci etaje, înalt de 6 metri, cu sculpturi fine.",
+                  "category": "landmark",
+                  "coords": [
+                        113.121294,
+                        40.110174
+                  ]
+            },
+            {
+                  "name": "Cave 21",
+                  "text": "Această peșteră prezintă stilul târziu „zvelt și elegant”, cu sculpturi delicate de influență Han.",
+                  "category": "landmark",
+                  "coords": [
+                        113.122493,
+                        40.110194
+                  ]
+            },
+            {
+                  "name": "Cave 16",
+                  "text": "Parte din cele cinci peșteri originale „Tanyao”, cu un Buddha pe un piedestal pătrat înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        113.123793,
+                        40.110227
+                  ]
+            },
+            {
+                  "name": "Cave 11+12",
+                  "text": "Peștera 12 este numită „Peștera Muzicii”, prezentând reliefuri vii ale muzicienilor și instrumentelor din secolul al V-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        113.124967,
+                        40.110219
+                  ]
+            },
+            {
+                  "name": "Cave 5",
+                  "text": "Găzduiește cel mai mare Buddha așezat din întregul complex, având o înălțime impresionantă de 17 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        113.126058,
+                        40.110222
+                  ]
+            },
+            {
+                  "name": "Cave 2",
+                  "text": "O peșteră cu plan pătrat, care prezintă un stâlp central și reliefuri budiste erodate.",
+                  "category": "landmark",
+                  "coords": [
+                        113.129659,
+                        40.109687
+                  ]
+            },
+            {
+                  "name": "Cave 4",
+                  "text": "O peșteră din perioada târzie, cu un stâlp central pătrat și nișe de perete „O mie de Buddha”.",
+                  "category": "landmark",
+                  "coords": [
+                        113.127397,
+                        40.110161
+                  ]
+            },
+            {
+                  "name": "Yungang museum",
+                  "text": "Muzeul expune descoperiri arheologice și istoria artei sculpturii budiste în piatră din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        113.12047,
+                        40.10846
+                  ]
+            },
+            {
+                  "name": "Yungang Castle",
+                  "text": "O fortificație istorică ce păzea odinioară pasul strategic din apropierea grotelor Yungang.",
+                  "category": "castle",
+                  "coords": [
+                        113.123992,
+                        40.111847
+                  ]
+            },
+            {
+                  "name": "Yungang Grottoes",
+                  "text": "Acest sit UNESCO cuprinde peste 50.000 de statui budiste sculptate în stânci de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        113.130558,
+                        40.111893
+                  ]
+            },
+            {
+                  "name": "Guanyin Hall",
+                  "text": "Un vechi complex de temple budiste, cunoscut pentru sculpturile sale în lemn și statuia lui Guanyin.",
+                  "category": "landmark",
+                  "coords": [
+                        113.197178,
+                        40.10133
+                  ]
+            },
+            {
+                  "name": "Lubanyao Grottoes",
+                  "text": "Un grup de grote mai mici sculptate în stâncă, cu basoreliefuri budiste din perioada Wei de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        113.114085,
+                        40.116065
+                  ]
+            },
+            {
+                  "name": "Wuguantun Grotto",
+                  "text": "Această grotă budistă conține sculpturi filigranate din timpul dinastiei Wei de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        113.097615,
+                        40.12465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cave 39",
+                  "text": "This cave features a 6-meter-tall, five-story central pagoda pillar decorated with intricate relief carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        113.121294,
+                        40.110174
+                  ]
+            },
+            {
+                  "name": "Cave 21",
+                  "text": "This cave showcases the late 'slender and elegant' style with delicate, Han-influenced Buddhist sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        113.122493,
+                        40.110194
+                  ]
+            },
+            {
+                  "name": "Cave 16",
+                  "text": "Part of the original 'Tanyao Five' caves, featuring a Buddha statue on a high, square pedestal.",
+                  "category": "landmark",
+                  "coords": [
+                        113.123793,
+                        40.110227
+                  ]
+            },
+            {
+                  "name": "Cave 11+12",
+                  "text": "Cave 12 is the 'Music Cave,' featuring vivid reliefs of 5th-century musicians and instruments.",
+                  "category": "landmark",
+                  "coords": [
+                        113.124967,
+                        40.110219
+                  ]
+            },
+            {
+                  "name": "Cave 5",
+                  "text": "Houses the largest seated Buddha in the entire complex, standing an impressive 17 meters tall.",
+                  "category": "landmark",
+                  "coords": [
+                        113.126058,
+                        40.110222
+                  ]
+            },
+            {
+                  "name": "Cave 2",
+                  "text": "A square-plan cave featuring a central pillar and weathered Buddhist relief carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        113.129659,
+                        40.109687
+                  ]
+            },
+            {
+                  "name": "Cave 4",
+                  "text": "A late-period cave featuring a square central pillar and numerous 'Thousand Buddha' wall niches.",
+                  "category": "landmark",
+                  "coords": [
+                        113.127397,
+                        40.110161
+                  ]
+            },
+            {
+                  "name": "Yungang museum",
+                  "text": "The museum showcases archaeological finds and the history of Buddhist stone carving in the region.",
+                  "category": "museum",
+                  "coords": [
+                        113.12047,
+                        40.10846
+                  ]
+            },
+            {
+                  "name": "Yungang Castle",
+                  "text": "A historic fortress that once protected the strategic pass near the Yungang Grottoes.",
+                  "category": "castle",
+                  "coords": [
+                        113.123992,
+                        40.111847
+                  ]
+            },
+            {
+                  "name": "Yungang Grottoes",
+                  "text": "This UNESCO World Heritage site features over 50,000 Buddhist statues carved into sandstone cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        113.130558,
+                        40.111893
+                  ]
+            },
+            {
+                  "name": "Guanyin Hall",
+                  "text": "An ancient Buddhist temple complex known for its ornate wood carvings and Guanyin statue.",
+                  "category": "landmark",
+                  "coords": [
+                        113.197178,
+                        40.10133
+                  ]
+            },
+            {
+                  "name": "Lubanyao Grottoes",
+                  "text": "A group of smaller cliff-cut grottoes with Buddhist reliefs from the Northern Wei period.",
+                  "category": "landmark",
+                  "coords": [
+                        113.114085,
+                        40.116065
+                  ]
+            },
+            {
+                  "name": "Wuguantun Grotto",
+                  "text": "This Buddhist grotto contains delicate sculptures from the Northern Wei dynasty period.",
+                  "category": "landmark",
+                  "coords": [
+                        113.097615,
+                        40.12465
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "CN-SX",
     coords: [113.1290, 40.1095],
@@ -147,7 +1353,1276 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "old-summer-palace-ruins-history-v2",
+    id: "old-summer-palace-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stone Boat",
+                  "text": "Die steinernen Fundamente dieses bootförmigen Bauwerks sind ein Zeugnis der kaiserlichen Extravaganz im heute in Ruinen liegenden Alten Sommerpalast.",
+                  "category": "historical",
+                  "coords": [
+                        116.288006,
+                        40.00876
+                  ]
+            },
+            {
+                  "name": "Tantan Dang",
+                  "text": "Dieser „Goldfischteich“ genannte Gartenbereich war einst berühmt für seine tausenden Zierfische, die der Kaiser von den umliegenden Pavillons aus beobachtete.",
+                  "category": "landmark",
+                  "coords": [
+                        116.288276,
+                        40.004147
+                  ]
+            },
+            {
+                  "name": "Scenaric Viewpoint",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die melancholischen Überreste des einst prachtvollsten Gartens der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292024,
+                        40.005074
+                  ]
+            },
+            {
+                  "name": "Library of Green Tree",
+                  "text": "Diese von Paulownien umgebene kaiserliche Bibliothek diente den Qing-Kaisern als ruhiger Rückzugsort zum Lesen, Dichten und Malen.",
+                  "category": "landmark",
+                  "coords": [
+                        116.291433,
+                        40.006233
+                  ]
+            },
+            {
+                  "name": "Sea and Mountains Open Your Mind",
+                  "text": "Auf diesem weitläufigen Gelände fanden einst kaiserliche Bankette, Bogenschießwettbewerbe und spektakuläre Feuerwerke zum Laternenfest statt.",
+                  "category": "landmark",
+                  "coords": [
+                        116.304296,
+                        40.008997
+                  ]
+            },
+            {
+                  "name": "Former Bridge",
+                  "text": "Diese einbogige Steinbrücke ist die einzige ursprüngliche Brücke im Garten, die die Zerstörung des Palastes im Jahr 1860 überstanden hat.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30315,
+                        40.008879
+                  ]
+            },
+            {
+                  "name": "Xiyang Lou",
+                  "text": "Die Marmorsäulen und verzierten Bögen dieser Ruinen im europäischen Stil sind die bekanntesten Wahrzeichen des Alten Sommerpalastes.",
+                  "category": "landmark",
+                  "coords": [
+                        116.306417,
+                        40.011
+                  ]
+            },
+            {
+                  "name": "Water Reservior for Fountains",
+                  "text": "Dieses hochgelegene Reservoir speiste einst die kunstvollen Springbrunnen der westlichen Villen durch ein ausgeklügeltes kaiserliches Wassersystem.",
+                  "category": "landmark",
+                  "coords": [
+                        116.305509,
+                        40.011897
+                  ]
+            },
+            {
+                  "name": "Great Fountain",
+                  "text": "Die imposante Ruine dieses Springbrunnens mit seinen verzierten Steinbögen ist das ikonische Symbol für die Zerstörung des Alten Sommerpalastes.",
+                  "category": "landmark",
+                  "coords": [
+                        116.306635,
+                        40.012115
+                  ]
+            },
+            {
+                  "name": "Hill of Perspective Looking",
+                  "text": "Von diesem künstlichen Hügel aus beobachtete der Kaiser einst die komplexen Wasserspiele der darunter liegenden europäischen Brunnenanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30824,
+                        40.012114
+                  ]
+            },
+            {
+                  "name": "Harmonic Amusement",
+                  "text": "Dieses erste Gebäude im europäischen Stil im Park verfügte über ein H-förmiges Layout und musikalische Wasserspiele in seinem Garten.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30237,
+                        40.0116
+                  ]
+            },
+            {
+                  "name": "Shewei Compound",
+                  "text": "Diese als „Buddhistische Stadt“ bekannte Anlage war von hohen Mauern umgeben und beherbergte einst über 100.000 Buddha-Statuen.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292639,
+                        40.008777
+                  ]
+            },
+            {
+                  "name": "Stone",
+                  "text": "Inmitten der Ruinen finden sich kunstvoll geformte Steine, die einst die kaiserlichen Gärten als Symbole für Beständigkeit und Naturschönheit zierten.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292155,
+                        40.011061
+                  ]
+            },
+            {
+                  "name": "Ruin of Iris Bridge",
+                  "text": "Die Überreste dieser Brücke sind Teil des historischen Wasserweges, der einst die verschiedenen Garteninseln des Alten Sommerpalastes miteinander verband.",
+                  "category": "landmark",
+                  "coords": [
+                        116.3102,
+                        40.011568
+                  ]
+            },
+            {
+                  "name": "KTV",
+                  "text": "In der Nähe der historischen Ruinen bietet dieses moderne Unterhaltungszentrum eine zeitgenössische Abwechslung für Parkbesucher.",
+                  "category": "cultural",
+                  "coords": [
+                        116.349308,
+                        40.007009
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Ein künstlich angelegter Wasserfall stürzt hier über Felsen und erinnert an die aufwendige Landschaftsgestaltung des einstigen kaiserlichen Refugiums.",
+                  "category": "natural",
+                  "coords": [
+                        116.382072,
+                        40.014559
+                  ]
+            },
+            {
+                  "name": "Ancient Bell",
+                  "text": "Dieses Denkmal erinnert an die Bronzeglocken, die einst in den kaiserlichen Tempeln läuteten, bevor viele künstlich im 19. Jahrhundert entfernt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        116.373973,
+                        40.010606
+                  ]
+            },
+            {
+                  "name": "Chess Park",
+                  "text": "Dieser ruhige Bereich des Parks ist dem klassischen chinesischen Schach gewidmet und lädt Besucher zum Verweilen und Nachdenken ein.",
+                  "category": "landmark",
+                  "coords": [
+                        116.401119,
+                        40.028442
+                  ]
+            },
+            {
+                  "name": "Rock from Taishan",
+                  "text": "Dieser gewaltige, 63 Tonnen schwere Stein vom Berg Tai dient als spiritueller Wächter und symbolisiert Stabilität und Frieden.",
+                  "category": "historical",
+                  "coords": [
+                        116.386211,
+                        40.017671
+                  ]
+            },
+            {
+                  "name": "Water Source",
+                  "text": "Diese natürliche Quelle speiste einst die künstlichen Bäche und Seen, die das kaiserliche Gartenareal in eine lebendige Wasserlandschaft verwandelten.",
+                  "category": "landmark",
+                  "coords": [
+                        116.193172,
+                        40.011127
+                  ]
+            },
+            {
+                  "name": "Red Leaves Goddess",
+                  "text": "Am Gipfel des Baiwang-Berges steht die weiße Statue der Matriarchin She Taijun, die hier der Legende nach Ausschau nach ihrem Sohn hielt.",
+                  "category": "natural",
+                  "coords": [
+                        116.251551,
+                        40.031967
+                  ]
+            },
+            {
+                  "name": "Green Our Homeland Tablet",
+                  "text": "Diese Gedenktafel im Baiwang-Waldpark mahnt zum Umweltschutz und erinnert an die Bedeutung der Aufforstung für die Region Peking.",
+                  "category": "natural",
+                  "coords": [
+                        116.257418,
+                        40.030188
+                  ]
+            },
+            {
+                  "name": "Sino-Japan Friendship Pavillion",
+                  "text": "Dieser Pavillon wurde als Symbol der Verbundenheit errichtet und bietet Wanderern einen schattigen Rastplatz mit Blick auf das herbstliche Laub.",
+                  "category": "natural",
+                  "coords": [
+                        116.252894,
+                        40.028061
+                  ]
+            },
+            {
+                  "name": "Sky Stroke Valley",
+                  "text": "Dieses Tal ist im Herbst für seine dichten Wälder aus Perückensträuchern bekannt, die die Hänge in ein leuchtendes Rot tauchen.",
+                  "category": "natural",
+                  "coords": [
+                        116.250909,
+                        40.028841
+                  ]
+            },
+            {
+                  "name": "Homeland Looking Pavillion",
+                  "text": "Vom Aussichtspavillon auf dem Bergrücken bietet sich ein weiter Blick über das rote Blättermeer bis hin zur modernen Skyline von Peking.",
+                  "category": "natural",
+                  "coords": [
+                        116.247745,
+                        40.028395
+                  ]
+            },
+            {
+                  "name": "Olympic Green",
+                  "text": "Dieser weitläufige Park beherbergt die futuristischen Wahrzeichen der Olympischen Spiele 2008, das Vogelnest-Stadion und den Wasserwürfel.",
+                  "category": "park",
+                  "coords": [
+                        116.38758,
+                        39.997805
+                  ]
+            },
+            {
+                  "name": "Alter Sommerpalast",
+                  "text": "Ein weitläufiger Park mit den steinernen Ruinen der westlich gestalteten kaiserlichen Gärten des 18. Jahrhunderts.",
+                  "category": "landmark",
+                  "coords": [
+                        116.297189,
+                        40.006871
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "Ein klassizistisches Auditorium der Tsinghua-Universität mit einer markanten Kuppel, inspiriert vom Pantheon in Rom.",
+                  "category": "cultural",
+                  "coords": [
+                        116.318269,
+                        40.00244
+                  ]
+            },
+            {
+                  "name": "National Zoological Museum of China",
+                  "text": "Chinas größtes zoologisches Museum mit einer riesigen Sammlung von Tierskeletten und seltenen Präparaten.",
+                  "category": "museum",
+                  "coords": [
+                        116.375188,
+                        40.001185
+                  ]
+            },
+            {
+                  "name": "China National Arts & Crafts Museum",
+                  "text": "Diese Galerie zeigt eine exquisite Sammlung traditioneller chinesischer Handwerkskunst wie Elfenbeinschnitzereien und Jade.",
+                  "category": "museum",
+                  "coords": [
+                        116.391266,
+                        40.002347
+                  ]
+            },
+            {
+                  "name": "Beijing Olympic Park Tower",
+                  "text": "Ein 246 Meter hoher Aussichtsturm mit fünf miteinander verbundenen Säulen und kreisförmigen Plattformen.",
+                  "category": "tower",
+                  "coords": [
+                        116.387874,
+                        40.006551
+                  ]
+            },
+            {
+                  "name": "China Science and Technology Museum",
+                  "text": "Ein modernes Wissenschaftsmuseum mit interaktiven Exponaten und einer markanten, kugelförmigen Kinohalle.",
+                  "category": "museum",
+                  "coords": [
+                        116.392417,
+                        40.004541
+                  ]
+            },
+            {
+                  "name": "Museum of the Communist Party of China",
+                  "text": "Ein monumentales Museum, das 2021 eröffnet wurde und die Geschichte der Kommunistischen Partei Chinas dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        116.393075,
+                        40.002392
+                  ]
+            },
+            {
+                  "name": "Olympic Forest Park",
+                  "text": "Ein riesiger Stadtpark mit dem künstlichen Berg Yangshan und dem Aohai-See, der für die Olympischen Spiele 2008 angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        116.38714,
+                        40.01975
+                  ]
+            },
+            {
+                  "name": "Baiwang Mountain Forest Park",
+                  "text": "Ein bewaldeter Bergpark, der besonders für seine prächtige rote Herbstfärbung und seine Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        116.249608,
+                        40.028704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone Boat",
+                  "text": "Ennek a hajó alakú építménynek a kőalapjai a császári extravagancia tanúi a ma már romokban heverő Régi Nyári Palotában.",
+                  "category": "historical",
+                  "coords": [
+                        116.288006,
+                        40.00876
+                  ]
+            },
+            {
+                  "name": "Tantan Dang",
+                  "text": "Ez az „Aranyhalas tóként” ismert kertrészlet egykor több ezer díszhaláról volt híres, amelyeket a császár a környező pavilonokból figyelt meg.",
+                  "category": "landmark",
+                  "coords": [
+                        116.288276,
+                        40.004147
+                  ]
+            },
+            {
+                  "name": "Scenaric Viewpoint",
+                  "text": "Ez a kilátópont széles rálátást nyújt a világ egykor legpompásabb kertjének melankolikus maradványaira.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292024,
+                        40.005074
+                  ]
+            },
+            {
+                  "name": "Library of Green Tree",
+                  "text": "Ez a császári könyvtár, amelyet paulownia fák vettek körül, a Qing-császárok csendes menedéke volt olvasáshoz és festéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        116.291433,
+                        40.006233
+                  ]
+            },
+            {
+                  "name": "Sea and Mountains Open Your Mind",
+                  "text": "Ezen a tágas területen egykor császári banketteket, íjászversenyeket és látványos tűzijátékokat tartottak a lámpásfesztivál idején.",
+                  "category": "landmark",
+                  "coords": [
+                        116.304296,
+                        40.008997
+                  ]
+            },
+            {
+                  "name": "Former Bridge",
+                  "text": "Ez az egyíves kőhíd az egyetlen eredeti híd a kertben, amely túlélte a palota 1860-as lerombolását.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30315,
+                        40.008879
+                  ]
+            },
+            {
+                  "name": "Xiyang Lou",
+                  "text": "Ezen európai stílusú romok márványoszlopai és díszes ívei a Régi Nyári Palota legismertebb jelképei.",
+                  "category": "landmark",
+                  "coords": [
+                        116.306417,
+                        40.011
+                  ]
+            },
+            {
+                  "name": "Water Reservior for Fountains",
+                  "text": "Ez a magasan fekvő víztározó egykor a nyugati stílusú villák bonyolult szökőkútjait látta el vízzel egy kifinomult császári rendszeren keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        116.305509,
+                        40.011897
+                  ]
+            },
+            {
+                  "name": "Great Fountain",
+                  "text": "Ennek a díszes kőívekkel rendelkező szökőkútnak az impozáns romja a Régi Nyári Palota lerombolásának ikonikus szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        116.306635,
+                        40.012115
+                  ]
+            },
+            {
+                  "name": "Hill of Perspective Looking",
+                  "text": "Erről a mesterséges dombról figyelte egykor a császár az alatta lévő európai szökőkutak összetett vízijátékait.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30824,
+                        40.012114
+                  ]
+            },
+            {
+                  "name": "Harmonic Amusement",
+                  "text": "Ez volt az első európai stílusú épület a parkban, amely H-alakú alaprajzzal és zenélő vízijátékokkal rendelkezett.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30237,
+                        40.0116
+                  ]
+            },
+            {
+                  "name": "Shewei Compound",
+                  "text": "Ez a „Buddhista Városként” ismert komplexum magas falakkal volt körülvéve, és egykor több mint 100 000 Buddha-szobrot őrzött.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292639,
+                        40.008777
+                  ]
+            },
+            {
+                  "name": "Stone",
+                  "text": "A romok között művészien formált kövek találhatók, amelyek egykor az állandóság és a természetes szépség szimbólumaiként díszítették a kerteket.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292155,
+                        40.011061
+                  ]
+            },
+            {
+                  "name": "Ruin of Iris Bridge",
+                  "text": "E híd maradványai a történelmi víziút részét képezik, amely egykor a Régi Nyári Palota különböző kerti szigeteit kötötte össze.",
+                  "category": "landmark",
+                  "coords": [
+                        116.3102,
+                        40.011568
+                  ]
+            },
+            {
+                  "name": "KTV",
+                  "text": "A történelmi romok közelében ez a modern szórakoztató központ kortárs kikapcsolódást kínál a park látogatóinak.",
+                  "category": "cultural",
+                  "coords": [
+                        116.349308,
+                        40.007009
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Egy mesterséges vízesés zúdul itt le a sziklákon, emlékeztetve az egykori császári menedékhely bonyolult tájépítészetére.",
+                  "category": "natural",
+                  "coords": [
+                        116.382072,
+                        40.014559
+                  ]
+            },
+            {
+                  "name": "Ancient Bell",
+                  "text": "Ez az emlékmű a bronzharangokra emlékeztet, amelyek egykor a császári templomokban szóltak a 19. századi pusztítás előtt.",
+                  "category": "historical",
+                  "coords": [
+                        116.373973,
+                        40.010606
+                  ]
+            },
+            {
+                  "name": "Chess Park",
+                  "text": "A parknak ez a csendes része a klasszikus kínai sakknak van szentelve, pihenésre és gondolkodásra hívva a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        116.401119,
+                        40.028442
+                  ]
+            },
+            {
+                  "name": "Rock from Taishan",
+                  "text": "Ez a hatalmas, 63 tonnás kő a Tai-hegyről származik, és szellemi őrzőként szolgál, a stabilitást és a békét jelképezve.",
+                  "category": "historical",
+                  "coords": [
+                        116.386211,
+                        40.017671
+                  ]
+            },
+            {
+                  "name": "Water Source",
+                  "text": "Ez a természetes forrás táplálta egykor azokat a mesterséges patakokat és tavakat, amelyek a császári kertet élő vízi tájjá varázsolták.",
+                  "category": "landmark",
+                  "coords": [
+                        116.193172,
+                        40.011127
+                  ]
+            },
+            {
+                  "name": "Red Leaves Goddess",
+                  "text": "A Baiwang-hegy csúcsán áll She Taijun matriarcha fehér szobra, aki a legenda szerint itt várakozott a fiára.",
+                  "category": "natural",
+                  "coords": [
+                        116.251551,
+                        40.031967
+                  ]
+            },
+            {
+                  "name": "Green Our Homeland Tablet",
+                  "text": "Ez az emléktábla a Baiwang-erdőparkban a környezetvédelemre int, és az erdősítés fontosságára emlékeztet Peking régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        116.257418,
+                        40.030188
+                  ]
+            },
+            {
+                  "name": "Sino-Japan Friendship Pavillion",
+                  "text": "Ez a pavilon az összetartozás szimbólumaként épült, árnyas pihenőhelyet kínálva a túrázóknak az őszi lombokra néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        116.252894,
+                        40.028061
+                  ]
+            },
+            {
+                  "name": "Sky Stroke Valley",
+                  "text": "Ez a völgy ősszel a sűrű cserszömörce-erdőiről híres, amelyek élénkvörösre festik a hegyoldalakat.",
+                  "category": "natural",
+                  "coords": [
+                        116.250909,
+                        40.028841
+                  ]
+            },
+            {
+                  "name": "Homeland Looking Pavillion",
+                  "text": "A hegygerincen lévő kilátópavilonból pazar rálátás nyílik a vörös levéltengerre és Peking modern felhőkarcolóira.",
+                  "category": "natural",
+                  "coords": [
+                        116.247745,
+                        40.028395
+                  ]
+            },
+            {
+                  "name": "Olympic Park",
+                  "text": "Ebben a hatalmas parkban találhatók a 2008-as olimpiai játékok futurisztikus jelképei, a Madárfészek stadion és a Vizes Kocka.",
+                  "category": "park",
+                  "coords": [
+                        116.38758,
+                        39.997805
+                  ]
+            },
+            {
+                  "name": "Old Summer Palace Park",
+                  "text": "Kiterjedt park a 18. századi nyugati stílusú császári kertek látványos kőromjaival.",
+                  "category": "landmark",
+                  "coords": [
+                        116.297189,
+                        40.006871
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "A Csinghua Egyetem klasszicista aulája, melynek jellegzetes kupoláját a római Pantheon ihlette.",
+                  "category": "cultural",
+                  "coords": [
+                        116.318269,
+                        40.00244
+                  ]
+            },
+            {
+                  "name": "National Zoological Museum of China",
+                  "text": "Kína legnagyobb zoológiai múzeuma, amely állatcsontvázak és ritka preparátumok hatalmas gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        116.375188,
+                        40.001185
+                  ]
+            },
+            {
+                  "name": "China National Arts & Crafts Museum",
+                  "text": "Ez a galéria a hagyományos kínai kézművesség, például elefántcsont-faragások és jádetárgyak kiváló gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        116.391266,
+                        40.002347
+                  ]
+            },
+            {
+                  "name": "Beijing Olympic Park Tower",
+                  "text": "Egy 246 méter magas kilátótorony öt egymáshoz kapcsolódó oszloppal és kör alakú platformokkal.",
+                  "category": "tower",
+                  "coords": [
+                        116.387874,
+                        40.006551
+                  ]
+            },
+            {
+                  "name": "China Science and Technology Museum",
+                  "text": "Modern természettudományi múzeum interaktív kiállításokkal és egy jellegzetes, gömb alakú mozicsarnokkal.",
+                  "category": "museum",
+                  "coords": [
+                        116.392417,
+                        40.004541
+                  ]
+            },
+            {
+                  "name": "Museum of the Communist Party of China",
+                  "text": "Monumentális múzeum, amelyet 2021-ben nyitottak meg a Kínai Kommunista Párt történelmének bemutatására.",
+                  "category": "museum",
+                  "coords": [
+                        116.393075,
+                        40.002392
+                  ]
+            },
+            {
+                  "name": "Olympic Forest Park",
+                  "text": "Hatalmas városi park a mesterséges Jang-sannal és az Ao-haj-tóval, melyet a 2008-as olimpiára hoztak létre.",
+                  "category": "park",
+                  "coords": [
+                        116.38714,
+                        40.01975
+                  ]
+            },
+            {
+                  "name": "Baiwang Mountain Forest Park",
+                  "text": "Erdős hegyi park, amely különösen a pompás őszi vörös leveleiről és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        116.249608,
+                        40.028704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone Boat",
+                  "text": "Fundațiile de piatră ale acestei structuri în formă de barcă sunt o mărturie a extravaganței imperiale din Vechiul Palat de Vară, acum în ruine.",
+                  "category": "historical",
+                  "coords": [
+                        116.288006,
+                        40.00876
+                  ]
+            },
+            {
+                  "name": "Tantan Dang",
+                  "text": "Această zonă a grădinii, cunoscută sub numele de „Iazul cu Peștișori de Aur”, era celebră pentru miile de pești ornamentali pe care împăratul îi observa din pavilioane.",
+                  "category": "landmark",
+                  "coords": [
+                        116.288276,
+                        40.004147
+                  ]
+            },
+            {
+                  "name": "Scenaric Viewpoint",
+                  "text": "Acest punct de observație oferă o vedere panoramică asupra resturilor melancolice ale celei mai splendide grădini din lume de odinioară.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292024,
+                        40.005074
+                  ]
+            },
+            {
+                  "name": "Library of Green Tree",
+                  "text": "Această bibliotecă imperială, înconjurată de copaci paulownia, a servit drept refugiu liniștit pentru împărații Qing pentru lectură și pictură.",
+                  "category": "landmark",
+                  "coords": [
+                        116.291433,
+                        40.006233
+                  ]
+            },
+            {
+                  "name": "Sea and Mountains Open Your Mind",
+                  "text": "Pe acest teren vast aveau loc odinioară banchete imperiale, competiții de tir cu arcul și spectacole grandioase de artificii de Sărbătoarea Lanternelor.",
+                  "category": "landmark",
+                  "coords": [
+                        116.304296,
+                        40.008997
+                  ]
+            },
+            {
+                  "name": "Former Bridge",
+                  "text": "Acest pod de piatră cu o singură arcadă este singurul pod original din grădină care a supraviețuit distrugerii palatului în 1860.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30315,
+                        40.008879
+                  ]
+            },
+            {
+                  "name": "Xiyang Lou",
+                  "text": "Coloanele de marmură și arcadele ornamentate ale acestor ruine în stil european sunt cele mai cunoscute repere ale Vechiului Palat de Vară.",
+                  "category": "landmark",
+                  "coords": [
+                        116.306417,
+                        40.011
+                  ]
+            },
+            {
+                  "name": "Water Reservior for Fountains",
+                  "text": "Acest rezervor situat la înălțime alimenta odinioară fântânile elaborate ale vilelor vestice printr-un sistem imperial de apă sofisticat.",
+                  "category": "landmark",
+                  "coords": [
+                        116.305509,
+                        40.011897
+                  ]
+            },
+            {
+                  "name": "Great Fountain",
+                  "text": "Ruina impunătoare a acestei fântâni cu arcade de piatră ornamentate este simbolul iconic al distrugerii Vechiului Palat de Vară.",
+                  "category": "landmark",
+                  "coords": [
+                        116.306635,
+                        40.012115
+                  ]
+            },
+            {
+                  "name": "Hill of Perspective Looking",
+                  "text": "De pe acest deal artificial, împăratul observa odinioară jocurile de apă complexe ale fântânilor europene de dedesubt.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30824,
+                        40.012114
+                  ]
+            },
+            {
+                  "name": "Harmonic Amusement",
+                  "text": "Aceasta a fost prima clădire în stil european din parc, având un plan în formă de H și jocuri de apă muzicale în grădina sa.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30237,
+                        40.0116
+                  ]
+            },
+            {
+                  "name": "Shewei Compound",
+                  "text": "Cunoscut sub numele de „Orașul Budist”, acest complex era înconjurat de ziduri înalte și găzduia odinioară peste 100.000 de statui ale lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292639,
+                        40.008777
+                  ]
+            },
+            {
+                  "name": "Stone",
+                  "text": "Printre ruine se găsesc pietre sculptate artistic, care decorau odinioară grădinile imperiale ca simboluri ale permanenței și frumuseții naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292155,
+                        40.011061
+                  ]
+            },
+            {
+                  "name": "Ruin of Iris Bridge",
+                  "text": "Rămășițele acestui pod fac parte din calea navigabilă istorică ce conecta odinioară diferitele insule-grădină ale Vechiului Palat de Vară.",
+                  "category": "landmark",
+                  "coords": [
+                        116.3102,
+                        40.011568
+                  ]
+            },
+            {
+                  "name": "KTV",
+                  "text": "În apropierea ruinelor istorice, acest centru de divertisment modern oferă o alternativă contemporană pentru vizitatorii parcului.",
+                  "category": "cultural",
+                  "coords": [
+                        116.349308,
+                        40.007009
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "O cascadă artificială curge aici peste stânci, amintind de amenajarea peisagistică elaborată a fostului refugiu imperial.",
+                  "category": "natural",
+                  "coords": [
+                        116.382072,
+                        40.014559
+                  ]
+            },
+            {
+                  "name": "Ancient Bell",
+                  "text": "Acest monument amintește de clopotele de bronz care sunau odinioară în templele imperiale înainte de distrugerile din secolul al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        116.373973,
+                        40.010606
+                  ]
+            },
+            {
+                  "name": "Chess Park",
+                  "text": "Această zonă liniștită a parcului este dedicată șahului chinezesc clasic, invitând vizitatorii la relaxare și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        116.401119,
+                        40.028442
+                  ]
+            },
+            {
+                  "name": "Rock from Taishan",
+                  "text": "Această piatră masivă de 63 de tone, adusă de pe muntele Tai, servește drept gardian spiritual, simbolizând stabilitatea și pacea.",
+                  "category": "historical",
+                  "coords": [
+                        116.386211,
+                        40.017671
+                  ]
+            },
+            {
+                  "name": "Water Source",
+                  "text": "Acest izvor natural alimenta odinioară pârâurile și lacurile artificiale care transformau grădinia imperială într-un peisaj acvatic viu.",
+                  "category": "landmark",
+                  "coords": [
+                        116.193172,
+                        40.011127
+                  ]
+            },
+            {
+                  "name": "Red Leaves Goddess",
+                  "text": "Pe vârful muntelui Baiwang se află statuia albă a matriarhei She Taijun care, conform legendei, stătea aici pândindu-și fiul.",
+                  "category": "natural",
+                  "coords": [
+                        116.251551,
+                        40.031967
+                  ]
+            },
+            {
+                  "name": "Green Our Homeland Tablet",
+                  "text": "Această placă din parcul forestier Baiwang îndeamnă la protecția mediului și amintește de importanța reîmpăduririi pentru regiunea Beijing.",
+                  "category": "natural",
+                  "coords": [
+                        116.257418,
+                        40.030188
+                  ]
+            },
+            {
+                  "name": "Sino-Japan Friendship Pavillion",
+                  "text": "Acest pavilion a fost ridicat ca simbol al prieteniei și oferă drumeților un loc de odihnă umbrit cu vedere la frunzișul de toamnă.",
+                  "category": "natural",
+                  "coords": [
+                        116.252894,
+                        40.028061
+                  ]
+            },
+            {
+                  "name": "Sky Stroke Valley",
+                  "text": "Această vale este celebră toamna pentru pădurile sale dese de scumpie, care colorează versanții într-un roșu aprins.",
+                  "category": "natural",
+                  "coords": [
+                        116.250909,
+                        40.028841
+                  ]
+            },
+            {
+                  "name": "Homeland Looking Pavillion",
+                  "text": "Din pavilionul de observație de pe creastă se deschide o vedere panoramică peste marea de frunze roșii până la orizontul modern al Beijingului.",
+                  "category": "natural",
+                  "coords": [
+                        116.247745,
+                        40.028395
+                  ]
+            },
+            {
+                  "name": "Olympic Park",
+                  "text": "Acest parc vast găzduiește reperele futuriste ale Jocurilor Olimpice din 2008, stadionul Cuibul de Pasăre și Cubul de Apă.",
+                  "category": "park",
+                  "coords": [
+                        116.38758,
+                        39.997805
+                  ]
+            },
+            {
+                  "name": "Old Summer Palace Park",
+                  "text": "Un parc vast care adăpostește ruinele de piatră ale grădinilor imperiale de stil occidental din secolul al XVIII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        116.297189,
+                        40.006871
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "Auditoriul clasicist al Universității Tsinghua, cu o cupolă distinctivă inspirată de Panteonul din Roma.",
+                  "category": "cultural",
+                  "coords": [
+                        116.318269,
+                        40.00244
+                  ]
+            },
+            {
+                  "name": "National Zoological Museum of China",
+                  "text": "Cel mai mare muzeu zoologic din China, care găzduiește o colecție vastă de schelete de animale și specimene rare.",
+                  "category": "museum",
+                  "coords": [
+                        116.375188,
+                        40.001185
+                  ]
+            },
+            {
+                  "name": "China National Arts & Crafts Museum",
+                  "text": "Această galerie expune o colecție rafinată de artă tradițională chineză, precum sculpturi în fildeș și jad.",
+                  "category": "museum",
+                  "coords": [
+                        116.391266,
+                        40.002347
+                  ]
+            },
+            {
+                  "name": "Beijing Olympic Park Tower",
+                  "text": "Un turn de observație înalt de 246 de metri, cu cinci coloane interconectate și platforme circulare.",
+                  "category": "tower",
+                  "coords": [
+                        116.387874,
+                        40.006551
+                  ]
+            },
+            {
+                  "name": "China Science and Technology Museum",
+                  "text": "Un muzeu de știință modern cu exponate interactive și o sală de cinema distinctivă în formă de sferă.",
+                  "category": "museum",
+                  "coords": [
+                        116.392417,
+                        40.004541
+                  ]
+            },
+            {
+                  "name": "Museum of the Communist Party of China",
+                  "text": "Un muzeu monumental deschis în 2021, care documentează istoria Partidului Comunist Chinez.",
+                  "category": "museum",
+                  "coords": [
+                        116.393075,
+                        40.002392
+                  ]
+            },
+            {
+                  "name": "Olympic Forest Park",
+                  "text": "Un parc urban imens cu muntele artificial Yangshan și lacul Aohai, creat pentru Jocurile Olimpice din 2008.",
+                  "category": "park",
+                  "coords": [
+                        116.38714,
+                        40.01975
+                  ]
+            },
+            {
+                  "name": "Baiwang Mountain Forest Park",
+                  "text": "Un parc montan împădurit, cunoscut în special pentru frunzișul roșu spectaculos de toamnă și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        116.249608,
+                        40.028704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone Boat",
+                  "text": "The stone foundations of this boat-shaped structure are a testament to imperial extravagance in the now-ruined Old Summer Palace.",
+                  "category": "historical",
+                  "coords": [
+                        116.288006,
+                        40.00876
+                  ]
+            },
+            {
+                  "name": "Tantan Dang",
+                  "text": "Known as the 'Goldfish Pond', this garden area was once famous for its thousands of ornamental fish viewed by the emperor from surrounding pavilions.",
+                  "category": "landmark",
+                  "coords": [
+                        116.288276,
+                        40.004147
+                  ]
+            },
+            {
+                  "name": "Scenaric Viewpoint",
+                  "text": "This viewpoint offers a broad vista over the melancholy remains of what was once the most splendid garden in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292024,
+                        40.005074
+                  ]
+            },
+            {
+                  "name": "Library of Green Tree",
+                  "text": "Surrounded by paulownia trees, this imperial library served as a quiet retreat for Qing emperors to read, write poetry, and paint.",
+                  "category": "landmark",
+                  "coords": [
+                        116.291433,
+                        40.006233
+                  ]
+            },
+            {
+                  "name": "Sea and Mountains Open Your Mind",
+                  "text": "This expansive site once hosted imperial banquets, archery competitions, and spectacular fireworks displays during the Lantern Festival.",
+                  "category": "landmark",
+                  "coords": [
+                        116.304296,
+                        40.008997
+                  ]
+            },
+            {
+                  "name": "Former Bridge",
+                  "text": "This single-arch stone bridge is the only original bridge in the garden to have survived the destruction of the palace in 1860.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30315,
+                        40.008879
+                  ]
+            },
+            {
+                  "name": "Xiyang Lou",
+                  "text": "The marble columns and ornate arches of these European-style ruins are the most famous landmarks of the Old Summer Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        116.306417,
+                        40.011
+                  ]
+            },
+            {
+                  "name": "Water Reservior for Fountains",
+                  "text": "This high-level reservoir once fed the elaborate fountains of the Western Mansions through a sophisticated imperial water system.",
+                  "category": "landmark",
+                  "coords": [
+                        116.305509,
+                        40.011897
+                  ]
+            },
+            {
+                  "name": "Great Fountain",
+                  "text": "The imposing ruin of this fountain with its ornate stone arches is the iconic symbol of the Old Summer Palace's destruction.",
+                  "category": "landmark",
+                  "coords": [
+                        116.306635,
+                        40.012115
+                  ]
+            },
+            {
+                  "name": "Hill of Perspective Looking",
+                  "text": "From this artificial hill, the emperor once observed the complex water displays of the European fountains below.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30824,
+                        40.012114
+                  ]
+            },
+            {
+                  "name": "Harmonic Amusement",
+                  "text": "The first European-style building in the park, it featured an H-shaped layout and musical water displays in its garden.",
+                  "category": "landmark",
+                  "coords": [
+                        116.30237,
+                        40.0116
+                  ]
+            },
+            {
+                  "name": "Shewei Compound",
+                  "text": "Known as the 'Buddhist City', this walled compound once housed over 100,000 Buddha statues and served as a primary site for rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292639,
+                        40.008777
+                  ]
+            },
+            {
+                  "name": "Stone",
+                  "text": "Among the ruins are artistically shaped landscape stones that once adorned the imperial gardens as symbols of permanence and natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        116.292155,
+                        40.011061
+                  ]
+            },
+            {
+                  "name": "Ruin of Iris Bridge",
+                  "text": "The remains of this bridge are part of the historical waterway that once connected the various garden islands of the Old Summer Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        116.3102,
+                        40.011568
+                  ]
+            },
+            {
+                  "name": "KTV",
+                  "text": "Located near the historical ruins, this modern entertainment venue offers a contemporary diversion for visitors to the park area.",
+                  "category": "cultural",
+                  "coords": [
+                        116.349308,
+                        40.007009
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "An artificial waterfall cascades over rocks here, recalling the elaborate landscaping of the former imperial retreat.",
+                  "category": "natural",
+                  "coords": [
+                        116.382072,
+                        40.014559
+                  ]
+            },
+            {
+                  "name": "Ancient Bell",
+                  "text": "This monument commemorates the bronze bells that once rang in the imperial temples before the 19th-century destruction.",
+                  "category": "historical",
+                  "coords": [
+                        116.373973,
+                        40.010606
+                  ]
+            },
+            {
+                  "name": "Chess Park",
+                  "text": "This quiet area of the park is dedicated to classical Chinese chess, inviting visitors to rest and reflect among the ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        116.401119,
+                        40.028442
+                  ]
+            },
+            {
+                  "name": "Rock from Taishan",
+                  "text": "This massive 63-ton rock from Mount Tai serves as a spiritual guardian, symbolizing stability and peace in the park.",
+                  "category": "historical",
+                  "coords": [
+                        116.386211,
+                        40.017671
+                  ]
+            },
+            {
+                  "name": "Water Source",
+                  "text": "This natural spring once fed the artificial streams and lakes that turned the imperial garden into a living water landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        116.193172,
+                        40.011127
+                  ]
+            },
+            {
+                  "name": "Red Leaves Goddess",
+                  "text": "At the summit of Baiwang Mountain stands the white statue of the matriarch She Taijun, who legend says stood here watching for her son.",
+                  "category": "natural",
+                  "coords": [
+                        116.251551,
+                        40.031967
+                  ]
+            },
+            {
+                  "name": "Green Our Homeland Tablet",
+                  "text": "This tablet in Baiwang Mountain Forest Park advocates for environmental protection and commemorates the region's reforestation efforts.",
+                  "category": "natural",
+                  "coords": [
+                        116.257418,
+                        40.030188
+                  ]
+            },
+            {
+                  "name": "Sino-Japan Friendship Pavillion",
+                  "text": "This pavilion was built as a symbol of friendship and offers hikers a shaded resting spot with views of the autumn foliage.",
+                  "category": "natural",
+                  "coords": [
+                        116.252894,
+                        40.028061
+                  ]
+            },
+            {
+                  "name": "Sky Stroke Valley",
+                  "text": "This valley is famous in autumn for its dense forests of smoke trees that turn the slopes into a brilliant sea of red.",
+                  "category": "natural",
+                  "coords": [
+                        116.250909,
+                        40.028841
+                  ]
+            },
+            {
+                  "name": "Homeland Looking Pavillion",
+                  "text": "From the observation pavilion on the ridge, visitors enjoy panoramic views stretching from the red leaf forests to the Beijing city skyline.",
+                  "category": "natural",
+                  "coords": [
+                        116.247745,
+                        40.028395
+                  ]
+            },
+            {
+                  "name": "Olympic Park",
+                  "text": "This expansive park houses the futuristic landmarks of the 2008 Olympic Games, including the Bird's Nest stadium and the Water Cube.",
+                  "category": "park",
+                  "coords": [
+                        116.38758,
+                        39.997805
+                  ]
+            },
+            {
+                  "name": "Old Summer Palace Park",
+                  "text": "A sprawling park featuring the stone ruins of the 18th-century Western-style imperial gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        116.297189,
+                        40.006871
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "A neoclassical auditorium at Tsinghua University featuring a distinctive dome inspired by the Roman Pantheon.",
+                  "category": "cultural",
+                  "coords": [
+                        116.318269,
+                        40.00244
+                  ]
+            },
+            {
+                  "name": "National Zoological Museum of China",
+                  "text": "China's largest zoological museum, housing a vast collection of animal skeletons and rare specimens.",
+                  "category": "museum",
+                  "coords": [
+                        116.375188,
+                        40.001185
+                  ]
+            },
+            {
+                  "name": "China National Arts & Crafts Museum",
+                  "text": "This gallery showcases an exquisite collection of traditional Chinese crafts, such as ivory carvings and jade works.",
+                  "category": "museum",
+                  "coords": [
+                        116.391266,
+                        40.002347
+                  ]
+            },
+            {
+                  "name": "Beijing Olympic Park Tower",
+                  "text": "A 246-meter-high observation tower featuring five interconnected pillars with circular platforms.",
+                  "category": "tower",
+                  "coords": [
+                        116.387874,
+                        40.006551
+                  ]
+            },
+            {
+                  "name": "China Science and Technology Museum",
+                  "text": "A modern science museum featuring interactive exhibits and a distinctive sphere-shaped cinema hall.",
+                  "category": "museum",
+                  "coords": [
+                        116.392417,
+                        40.004541
+                  ]
+            },
+            {
+                  "name": "Museum of the Communist Party of China",
+                  "text": "A monumental museum opened in 2021, documenting the history of the Communist Party of China.",
+                  "category": "museum",
+                  "coords": [
+                        116.393075,
+                        40.002392
+                  ]
+            },
+            {
+                  "name": "Olympic Forest Park",
+                  "text": "A massive urban park with the man-made Yangshan Mountain and Aohai Lake, created for the 2008 Olympics.",
+                  "category": "park",
+                  "coords": [
+                        116.38714,
+                        40.01975
+                  ]
+            },
+            {
+                  "name": "Baiwang Mountain Forest Park",
+                  "text": "A forested mountain park particularly known for its stunning red autumn leaves and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        116.249608,
+                        40.028704
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "CN-BJ",
     coords: [116.299, 40.007],
@@ -195,7 +2670,304 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "zhoukoudian-site-history-v2",
+    id: "zhoukoudian-site-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Silver Fox cave",
+                  "text": "Diese Schauhöhle ist berühmt für eine natürliche Kalzitformation, die einem schneeweißen Silberfuchs ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        115.889849,
+                        39.801202
+                  ]
+            },
+            {
+                  "name": "Stone Flower cave",
+                  "text": "Eine beeindruckende Karsthöhle mit mehreren Ebenen, die für ihre vielfältigen Stalaktiten und Kalksteinblumen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        115.940465,
+                        39.794682
+                  ]
+            },
+            {
+                  "name": "Shihuadong Scenic Area",
+                  "text": "Ein Landschaftspark rund um die Steinfleischhöhle, der Wanderwege durch die bewaldeten Kalksteinhügel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        115.941573,
+                        39.794713
+                  ]
+            },
+            {
+                  "name": "Yueliangshan Scenic Area",
+                  "text": "Dieses Berggebiet besticht durch seine markanten Felsformationen und Panoramablicke auf das Fangshan-Becken.",
+                  "category": "landmark",
+                  "coords": [
+                        115.948182,
+                        39.797065
+                  ]
+            },
+            {
+                  "name": "Jinzushan Scenic Area",
+                  "text": "Ein Wandergebiet mit Tempelruinen und steilen Pfaden, die auf den Gipfel des \"Goldenen Ahnenberges\" führen.",
+                  "category": "landmark",
+                  "coords": [
+                        115.910458,
+                        39.736423
+                  ]
+            },
+            {
+                  "name": "Zhoukoudian",
+                  "text": "Das Museum am Fundort des Peking-Menschen zeigt Fossilien und Werkzeuge unserer frühen Vorfahren.",
+                  "category": "museum",
+                  "coords": [
+                        115.923836,
+                        39.689063
+                  ]
+            },
+            {
+                  "name": "Kongshui Cave",
+                  "text": "Diese Karsthöhle beherbergt bedeutende buddhistische Steininschriften und Skulpturen aus der Sui- und Tang-Dynastie.",
+                  "category": "natural",
+                  "coords": [
+                        115.981167,
+                        39.789146
+                  ]
+            },
+            {
+                  "name": "Stätte des Kreuz-Tempels",
+                  "text": "Die Ruinen eines Klosters aus der Yuan-Dynastie markieren einen der ältesten christlichen Orte in China.",
+                  "category": "historical",
+                  "coords": [
+                        115.901506,
+                        39.743108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silver Fox cave",
+                  "text": "Ez a barlang egy természetes kalcitképződményről híres, amely egy hófehér ezüstrókára hasonlít.",
+                  "category": "landmark",
+                  "coords": [
+                        115.889849,
+                        39.801202
+                  ]
+            },
+            {
+                  "name": "Stone Flower cave",
+                  "text": "Többszintes, lenyűgöző karsztbarlang, amely változatos cseppköveiről és mészkővirágairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        115.940465,
+                        39.794682
+                  ]
+            },
+            {
+                  "name": "Shihuadong Scenic Area",
+                  "text": "Tájvédelmi park a Kővirág-barlang körül, amely túraútvonalakat kínál az erdős mészkőhegyeken keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        115.941573,
+                        39.794713
+                  ]
+            },
+            {
+                  "name": "Yueliangshan Scenic Area",
+                  "text": "Ez a hegyvidéki terület jellegzetes sziklaalakzataival és a Fangshan-medencére nyíló panorámájával hódít.",
+                  "category": "landmark",
+                  "coords": [
+                        115.948182,
+                        39.797065
+                  ]
+            },
+            {
+                  "name": "Jinzushan Scenic Area",
+                  "text": "Túraútvonal templomromokkal és meredek ösvényekkel, amelyek az \"Arany Ősök hegyének\" csúcsára vezetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        115.910458,
+                        39.736423
+                  ]
+            },
+            {
+                  "name": "Zhoukoudian",
+                  "text": "A pekingi ember lelőhelyén található múzeum korai őseink kövületeit és eszközeit mutatba.",
+                  "category": "museum",
+                  "coords": [
+                        115.923836,
+                        39.689063
+                  ]
+            },
+            {
+                  "name": "Kongshui Cave",
+                  "text": "Ez a karsztbarlang jelentős buddhista kőfeliratokat és szobrokat őriz a Szuj- és Tang-dinasztia korából.",
+                  "category": "natural",
+                  "coords": [
+                        115.981167,
+                        39.789146
+                  ]
+            },
+            {
+                  "name": "Shizisi Temple",
+                  "text": "Egy Jüan-kori kolostor romjai Kína egyik legrégebbi keresztény emlékhelyét jelzik.",
+                  "category": "historical",
+                  "coords": [
+                        115.901506,
+                        39.743108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silver Fox cave",
+                  "text": "Această peșteră este faimoasă pentru o formațiune naturală de calcit care seamănă cu un vulpe argintie albă ca zăpada.",
+                  "category": "landmark",
+                  "coords": [
+                        115.889849,
+                        39.801202
+                  ]
+            },
+            {
+                  "name": "Stone Flower cave",
+                  "text": "O peșteră carstică impresionantă cu mai multe niveluri, cunoscută pentru stalactitele sale diverse și florile de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        115.940465,
+                        39.794682
+                  ]
+            },
+            {
+                  "name": "Shihuadong Scenic Area",
+                  "text": "Un parc peisagistic în jurul peșterii Florilor de Piatră, oferind trasee de drumeție prin dealurile împădurite de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        115.941573,
+                        39.794713
+                  ]
+            },
+            {
+                  "name": "Yueliangshan Scenic Area",
+                  "text": "Această zonă montană impresionează prin formațiunile stâncoase distinctive și vederile panoramice asupra bazinului Fangshan.",
+                  "category": "landmark",
+                  "coords": [
+                        115.948182,
+                        39.797065
+                  ]
+            },
+            {
+                  "name": "Jinzushan Scenic Area",
+                  "text": "O zonă de drumeție cu ruine de temple și poteci abrupte care duc spre vârful „Muntelui Strămoșilor de Aur”.",
+                  "category": "landmark",
+                  "coords": [
+                        115.910458,
+                        39.736423
+                  ]
+            },
+            {
+                  "name": "Zhoukoudian",
+                  "text": "Muzeul de la locul descoperirii Omului de Peking expune fosile și unelte ale strămoșilor noștri timpurii.",
+                  "category": "museum",
+                  "coords": [
+                        115.923836,
+                        39.689063
+                  ]
+            },
+            {
+                  "name": "Kongshui Cave",
+                  "text": "Această peșteră carstică adăpostește inscripții în piatră și sculpturi budiste importante din dinastiile Sui și Tang.",
+                  "category": "natural",
+                  "coords": [
+                        115.981167,
+                        39.789146
+                  ]
+            },
+            {
+                  "name": "Shizisi Temple",
+                  "text": "Ruinele unei mănăstiri din dinastia Yuan marchează unul dintre cele mai vechi locuri creștine din China.",
+                  "category": "historical",
+                  "coords": [
+                        115.901506,
+                        39.743108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silver Fox cave",
+                  "text": "This show cave is famous for a natural calcite formation resembling a snow-white silver fox.",
+                  "category": "landmark",
+                  "coords": [
+                        115.889849,
+                        39.801202
+                  ]
+            },
+            {
+                  "name": "Stone Flower cave",
+                  "text": "An impressive multi-level karst cave known for its diverse stalactites and limestone flowers.",
+                  "category": "landmark",
+                  "coords": [
+                        115.940465,
+                        39.794682
+                  ]
+            },
+            {
+                  "name": "Shihuadong Scenic Area",
+                  "text": "A scenic park around the Stone Flower cave, offering hiking trails through the forested limestone hills.",
+                  "category": "landmark",
+                  "coords": [
+                        115.941573,
+                        39.794713
+                  ]
+            },
+            {
+                  "name": "Yueliangshan Scenic Area",
+                  "text": "This mountain area features striking rock formations and panoramic views of the Fangshan basin.",
+                  "category": "landmark",
+                  "coords": [
+                        115.948182,
+                        39.797065
+                  ]
+            },
+            {
+                  "name": "Jinzushan Scenic Area",
+                  "text": "A hiking area with temple ruins and steep paths leading to the summit of the \"Golden Ancestor Mountain\".",
+                  "category": "landmark",
+                  "coords": [
+                        115.910458,
+                        39.736423
+                  ]
+            },
+            {
+                  "name": "Zhoukoudian",
+                  "text": "The museum at the site of the Peking Man discovery displays fossils and tools of our early ancestors.",
+                  "category": "museum",
+                  "coords": [
+                        115.923836,
+                        39.689063
+                  ]
+            },
+            {
+                  "name": "Kongshui Cave",
+                  "text": "This karst cave houses significant Buddhist stone inscriptions and sculptures from the Sui and Tang dynasties.",
+                  "category": "natural",
+                  "coords": [
+                        115.981167,
+                        39.789146
+                  ]
+            },
+            {
+                  "name": "Shizisi Temple",
+                  "text": "The ruins of a Yuan dynasty monastery mark one of the oldest Christian sites in China.",
+                  "category": "historical",
+                  "coords": [
+                        115.901506,
+                        39.743108
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "CN-BJ",
     coords: [115.918, 39.730],
@@ -243,7 +3015,1096 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "kaifeng-dragon-pavilion-history-v2",
+    id: "kaifeng-dragon-pavilion-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jinshui Gate",
+                  "text": "Dieses traditionelle architektonische Wahrzeichen stellt einen der alten historischen Eingänge in die Stadt dar.",
+                  "category": "landmark",
+                  "coords": [
+                        114.339759,
+                        34.819262
+                  ]
+            },
+            {
+                  "name": "Xīsī Square Night Market",
+                  "text": "Am Abend verwandelt sich dieser Platz in ein lebhaftes Marktviertel voller lokaler Essensverkäufer und beleuchteter Stände.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333016,
+                        34.795735
+                  ]
+            },
+            {
+                  "name": "Bei Tan",
+                  "text": "Dieses steinerne Denkmal ist ein dauerhaftes Gedenkbauwerk, das die traditionelle chinesische Zeremonialgeschichte widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        114.339866,
+                        34.811083
+                  ]
+            },
+            {
+                  "name": "Pota Pagoda",
+                  "text": "Diese bemerkenswerte sechseckige Backsteinpagode zeichnet sich durch ein Äußeres aus, das mit Tausenden von kleinen, detaillierten buddhistischen Schnitzereien bedeckt ist.",
+                  "category": "tower",
+                  "coords": [
+                        114.358792,
+                        34.770621
+                  ]
+            },
+            {
+                  "name": "Kaifeng Museum",
+                  "text": "Dieses bemerkenswerte städtische Museum präsentiert eine große Sammlung regionaler Artefakte und legt den Schwerpunkt auf das goldene Zeitalter der Stadt während der Song-Dynastie.",
+                  "category": "museum",
+                  "coords": [
+                        114.247978,
+                        34.804456
+                  ]
+            },
+            {
+                  "name": "China Hanyuan Garden",
+                  "text": "Dieser Kulturgarten ist berühmt für seinen weitläufigen „Stelenwald“, in dem Tausende gravierter Steintafeln mit chinesischer Kalligraphie ausgestellt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        114.338631,
+                        34.810965
+                  ]
+            },
+            {
+                  "name": "Millennium City Park",
+                  "text": "Dieser immersive historische Themenpark erweckt das berühmte Gemälde der Song-Dynastie „Entlang des Flusses während des Qingming-Festes“ durch aufwendige Nachbildungen zum Leben.",
+                  "category": "recreational",
+                  "coords": [
+                        114.33472,
+                        34.809734
+                  ]
+            },
+            {
+                  "name": "Fanlou Building",
+                  "text": "Dieser große mehrstöckige Architekturkomplex ist eine Nachbildung eines der berühmtesten und luxuriösesten Tavernengebäude der alten Song-Dynastie.",
+                  "category": "landmark",
+                  "coords": [
+                        114.345338,
+                        34.802997
+                  ]
+            },
+            {
+                  "name": "Tianbo Yang General's Mansion",
+                  "text": "Dieser Gedenkkomplex ehrt die legendären militärischen Heldentaten der Generäle der Familie Yang mit seinen traditionellen Innenhöfen und Waffenausstellungen.",
+                  "category": "landmark",
+                  "coords": [
+                        114.341547,
+                        34.811488
+                  ]
+            },
+            {
+                  "name": "Former Henan Provincial Museum",
+                  "text": "Diese 1927 gegründete und national geschützte Kulturerbestätte der Stufe 2 bewahrt die klassische Architektur des ursprünglichen Provinzmuseums.",
+                  "category": "museum",
+                  "coords": [
+                        114.351619,
+                        34.803382
+                  ]
+            },
+            {
+                  "name": "Liu Shaoqi in Kaifeng Exhibition Hall",
+                  "text": "Diese biografische Ausstellungshalle widmet sich der Dokumentation der historischen politischen Ereignisse rund um den Aufenthalt des Staatsmannes Liu Shaoqi in Kaifeng.",
+                  "category": "museum",
+                  "coords": [
+                        114.354428,
+                        34.798246
+                  ]
+            },
+            {
+                  "name": "Liuqingxia Former Residence",
+                  "text": "Dieser erhaltene Innenhofkomplex dient als Museum, das das Leben und die patriotischen Beiträge der historischen Persönlichkeit Liu Qingxia detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        114.355612,
+                        34.798371
+                  ]
+            },
+            {
+                  "name": "Kaifeng Sacred Heart Cathedral",
+                  "text": "Diese bemerkenswerte katholische Kathedrale sticht mit ihrem ausgeprägten Baustil unter den traditionellen Gebäuden der Stadt hervor.",
+                  "category": "religious",
+                  "coords": [
+                        114.357806,
+                        34.79744
+                  ]
+            },
+            {
+                  "name": "Kaifeng East Mosque",
+                  "text": "Diese große Moschee ist als bedeutendes islamisches Zentrum anerkannt und integriert auf wunderschöne Weise klassische chinesische Architekturelemente in ihr Design.",
+                  "category": "religious",
+                  "coords": [
+                        114.358075,
+                        34.794752
+                  ]
+            },
+            {
+                  "name": "Drum Tower",
+                  "text": "Als prominentes historisches Wahrzeichen positioniert, spielte dieser imposante Turmbau einst eine entscheidende Rolle in der traditionellen städtischen Zeitmessung.",
+                  "category": "landmark",
+                  "coords": [
+                        114.350052,
+                        34.794713
+                  ]
+            },
+            {
+                  "name": "Shanxi-Shaanxi-Gansu Guild Hall",
+                  "text": "Diese Kulturerbestätte der Stufe 2 aus dem Jahr 1765 verfügt über exquisite traditionelle Holzschnitzereien und diente einst Kaufleuten aus drei Provinzen.",
+                  "category": "museum",
+                  "coords": [
+                        114.347414,
+                        34.798254
+                  ]
+            },
+            {
+                  "name": "Daxiangguo Temple",
+                  "text": "Dieser höchst bemerkenswerte buddhistische Tempelkomplex ist historisch berühmt und zentriert sich um eine bekannte Statue, die aus einem einzigen Ginkgobaum geschnitzt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        114.348774,
+                        34.792599
+                  ]
+            },
+            {
+                  "name": "Kaifeng Governor's Mansion",
+                  "text": "Dieser restaurierte historische Verwaltungskomplex verfügt über traditionelle Yamen-Architektur, in der einst antike Zivilbeamte die Region regierten.",
+                  "category": "landmark",
+                  "coords": [
+                        114.341095,
+                        34.790532
+                  ]
+            },
+            {
+                  "name": "Yanqing Taoist Temple",
+                  "text": "Dieses bemerkenswerte daoistische Gotteshaus zeichnet sich durch seinen einzigartigen zentralen Pavillon aus, der mongolische und Han-Architekturstile vereint.",
+                  "category": "religious",
+                  "coords": [
+                        114.34037,
+                        34.793189
+                  ]
+            },
+            {
+                  "name": "Bao Zheng's Memorial Hall",
+                  "text": "An einem See gelegen, ehrt diese bekannte Gedenkhalle das Vermächtnis von Richter Bao, einem tief verehrten Beamten der Song-Dynastie, der für seine gerechten Urteile berühmt war.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333222,
+                        34.793751
+                  ]
+            },
+            {
+                  "name": "Daliang Gate",
+                  "text": "Auf seine einstige defensive Pracht rekonstruiert, steht dieses imposante Tor als massiver Eingangspunkt in die Westseite der alten Stadtmauer.",
+                  "category": "landmark",
+                  "coords": [
+                        114.328079,
+                        34.801525
+                  ]
+            },
+            {
+                  "name": "Yuwangtai Park",
+                  "text": "Dieser bemerkenswerte historische Park verfügt über eine alte, erhöhte Terrasse, die den legendären Erfolgen von Yu dem Großen im Hochwasserschutz gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        114.363466,
+                        34.77022
+                  ]
+            },
+            {
+                  "name": "Kaifenger Eisenpagode",
+                  "text": "Diese Kulturerbestätte der Stufe 2 wurde im Jahr 1049 erbaut und ist ein hoch aufragendes achteckiges Meisterwerk, das vollständig mit rostfarbenen glasierten Ziegeln verkleidet ist, die massivem Eisen ähneln.",
+                  "category": "landmark",
+                  "coords": [
+                        114.364868,
+                        34.816634
+                  ]
+            },
+            {
+                  "name": "North Mosque",
+                  "text": "Diese bemerkenswerte historische Moschee zeichnet sich durch einen traditionellen chinesischen Innenhof aus und dient gleichzeitig als wichtiges Zentrum für islamische Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        114.359934,
+                        34.815239
+                  ]
+            },
+            {
+                  "name": "Wenshu Mosque",
+                  "text": "Diese muslimische Stätte fungiert als lokales religiöses Zentrum und bietet Gläubigen in der Nachbarschaft einen eigenen Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        114.351429,
+                        34.795445
+                  ]
+            },
+            {
+                  "name": "Baozhu Temple",
+                  "text": "Dieser traditionelle buddhistische Tempel ist ein ruhiger spiritueller Rückzugsort, der mit klassischen Statuen und Räumen für die Meditation geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        114.349955,
+                        34.80385
+                  ]
+            },
+            {
+                  "name": "Ancient Guanyin Temple",
+                  "text": "Dieses historische buddhistische Heiligtum, das dem Bodhisattva des Mitgefühls gewidmet ist, lädt Gläubige dazu ein, an seinem zentralen Schrein Räucherstäbchen anzuzünden.",
+                  "category": "landmark",
+                  "coords": [
+                        114.357274,
+                        34.800848
+                  ]
+            },
+            {
+                  "name": "Shanyitang Mosque",
+                  "text": "Diese islamische Kultstätte dient der lokalen muslimischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.350182,
+                        34.793497
+                  ]
+            },
+            {
+                  "name": "Wangjia Hutong Mosque",
+                  "text": "Diese muslimische Kultstätte befindet sich in einer traditionellen Gasse.",
+                  "category": "landmark",
+                  "coords": [
+                        114.360422,
+                        34.796965
+                  ]
+            },
+            {
+                  "name": "Dongjiao Night Market",
+                  "text": "Dieser belebte abendliche Marktplatz bietet eine bunte Auswahl an lokalem Streetfood und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        114.384503,
+                        34.793733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jinshui Gate",
+                  "text": "Ez a hagyományos építészeti nevezetesség a város egyik ősi történelmi bejáratát képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        114.339759,
+                        34.819262
+                  ]
+            },
+            {
+                  "name": "Xīsī Square Night Market",
+                  "text": "Esténként ez a tér egy nyüzsgő piactérré alakul, amely tele van helyi ételárusokkal és kivilágított standokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333016,
+                        34.795735
+                  ]
+            },
+            {
+                  "name": "Bei Tan",
+                  "text": "Ez a kőből készült emlékmű egy tartós megemlékező építmény, amely a hagyományos kínai ceremoniális történelmet tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        114.339866,
+                        34.811083
+                  ]
+            },
+            {
+                  "name": "Pota Pagoda",
+                  "text": "Ez a nevezetes hatszögletű tégla pagoda külsején több ezer apró, részletesen kidolgozott buddhista faragvánnyal büszkélkedhet.",
+                  "category": "tower",
+                  "coords": [
+                        114.358792,
+                        34.770621
+                  ]
+            },
+            {
+                  "name": "Kaifeng Museum",
+                  "text": "Ez a jelentős városi múzeum regionális műtárgyak nagy gyűjteményét mutatja be, hangsúlyt fektetve a város Song-dinasztia alatti aranykorára.",
+                  "category": "museum",
+                  "coords": [
+                        114.247978,
+                        34.804456
+                  ]
+            },
+            {
+                  "name": "China Hanyuan Garden",
+                  "text": "Ez a kulturális kert kiterjedt \"sztéléerdőjéről\" híres, amely több ezer, kínai kalligráfiával gravírozott kőtáblát mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        114.338631,
+                        34.810965
+                  ]
+            },
+            {
+                  "name": "Millennium City Park",
+                  "text": "Ez a magával ragadó történelmi vidámpark a Song-dinasztia híres, \"A folyó mentén a Qingming-fesztivál idején\" című festményét kelti életre gondos rekonstrukciókon keresztül.",
+                  "category": "recreational",
+                  "coords": [
+                        114.33472,
+                        34.809734
+                  ]
+            },
+            {
+                  "name": "Fanlou Building",
+                  "text": "Ez a nagyszerű, többszintes építészeti komplexum az ősi Song-dinasztia egyik leghíresebb és legfényűzőbb fogadóját alkotja újra.",
+                  "category": "landmark",
+                  "coords": [
+                        114.345338,
+                        34.802997
+                  ]
+            },
+            {
+                  "name": "Tianbo Yang General's Mansion",
+                  "text": "Ez az emlékmű a Yang család tábornokainak legendás katonai hőstetteit ünnepli hagyományos udvaraival és fegyverkiállításaival.",
+                  "category": "landmark",
+                  "coords": [
+                        114.341547,
+                        34.811488
+                  ]
+            },
+            {
+                  "name": "Former Henan Provincial Museum",
+                  "text": "Ezt az 1927-ben alapított, kettes szintű nemzeti örökségvédelmi helyszínt az eredeti tartományi múzeum klasszikus építészete jellemzi.",
+                  "category": "museum",
+                  "coords": [
+                        114.351619,
+                        34.803382
+                  ]
+            },
+            {
+                  "name": "Liu Shaoqi in Kaifeng Exhibition Hall",
+                  "text": "Ez az életrajzi kiállítóterem a Liu Shaoqi államférfi kaifengi tartózkodása körüli történelmi politikai események dokumentálásának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        114.354428,
+                        34.798246
+                  ]
+            },
+            {
+                  "name": "Liuqingxia Former Residence",
+                  "text": "Ez a megőrzött udvarház-komplexum múzeumként szolgál, amely Liu Qingxia történelmi személyiség életét és hazafias hozzájárulásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        114.355612,
+                        34.798371
+                  ]
+            },
+            {
+                  "name": "Kaifeng Sacred Heart Cathedral",
+                  "text": "Ez a figyelemre méltó katolikus katedrális jellegzetes építészeti stílusával tűnik ki a város hagyományos épületei közül.",
+                  "category": "religious",
+                  "coords": [
+                        114.357806,
+                        34.79744
+                  ]
+            },
+            {
+                  "name": "Kaifeng East Mosque",
+                  "text": "A jelentős iszlám központként elismert nagyméretű mecset gyönyörűen ötvözi a klasszikus kínai építészeti elemeket a kialakításában.",
+                  "category": "religious",
+                  "coords": [
+                        114.358075,
+                        34.794752
+                  ]
+            },
+            {
+                  "name": "Drum Tower",
+                  "text": "Ez a kiemelkedő történelmi nevezetességként elhelyezkedő impozáns torony egykor kulcsszerepet játszott a hagyományos polgári időmérésben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.350052,
+                        34.794713
+                  ]
+            },
+            {
+                  "name": "Shanxi-Shaanxi-Gansu Guild Hall",
+                  "text": "Az 1765-ben épült, kettes szintű örökségvédelmi helyszín gyönyörű hagyományos fafaragásokkal rendelkezik, és egykor három tartomány kereskedőit szolgálta ki.",
+                  "category": "museum",
+                  "coords": [
+                        114.347414,
+                        34.798254
+                  ]
+            },
+            {
+                  "name": "Daxiangguo Temple",
+                  "text": "Ez a rendkívül nevezetes, történelmileg ünnepelt buddhista templomkomplexum egy egyetlen ginkgo fából faragott híres szobor köré épül.",
+                  "category": "religious",
+                  "coords": [
+                        114.348774,
+                        34.792599
+                  ]
+            },
+            {
+                  "name": "Kaifeng Governor's Mansion",
+                  "text": "Ez a felújított történelmi közigazgatási komplexum hagyományos yamen építészettel büszkélkedhet, ahol egykor ősi polgári tisztviselők irányították a régiót.",
+                  "category": "landmark",
+                  "coords": [
+                        114.341095,
+                        34.790532
+                  ]
+            },
+            {
+                  "name": "Yanqing Taoist Temple",
+                  "text": "Ezt a nevezetes taoista istentiszteleti helyet az egyedülálló, mongol és han építészeti stílusokat ötvöző központi pavilonja teszi különlegessé.",
+                  "category": "religious",
+                  "coords": [
+                        114.34037,
+                        34.793189
+                  ]
+            },
+            {
+                  "name": "Bao Zheng's Memorial Hall",
+                  "text": "Ez a tóparti, jól ismert emlékmű Bao nagyúr örökségét őrzi, aki a Song-dinasztia igazságos ítéleteiről híres, mélyen tisztelt tisztviselője volt.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333222,
+                        34.793751
+                  ]
+            },
+            {
+                  "name": "Daliang Gate",
+                  "text": "Az egykori védelmi pompájában újjáépített, impozáns kapu hatalmas belépési pontként szolgál az ősi városfal nyugati oldalára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.328079,
+                        34.801525
+                  ]
+            },
+            {
+                  "name": "Yuwangtai Park",
+                  "text": "Ez a nevezetes történelmi park egy ősi magasított terasszal rendelkezik, amelyet Nagy Jü legendás árvízvédelmi eredményeinek szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        114.363466,
+                        34.77022
+                  ]
+            },
+            {
+                  "name": "Iron Pagoda",
+                  "text": "Ez az 1049-ben épült, kettes szintű örökségvédelmi helyszín egy magasodó, nyolcszögletű remekmű, amelyet teljesen rozsdaszínű, tömör vasra emlékeztető mázas téglák borítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        114.364868,
+                        34.816634
+                  ]
+            },
+            {
+                  "name": "North Mosque",
+                  "text": "Ez a nevezetes történelmi mecset hagyományos kínai udvari elrendezéssel rendelkezik, és egyben az iszlám ima fontos központjaként is szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        114.359934,
+                        34.815239
+                  ]
+            },
+            {
+                  "name": "Wenshu Mosque",
+                  "text": "Ez a muszlim helyi vallási központként működő helyszín dedikált imateret biztosít a környék hívőinek.",
+                  "category": "landmark",
+                  "coords": [
+                        114.351429,
+                        34.795445
+                  ]
+            },
+            {
+                  "name": "Baozhu Temple",
+                  "text": "Ez a hagyományos buddhista templom egy csendes spirituális menedék, amelyet klasszikus szobrok és meditációs terek díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        114.349955,
+                        34.80385
+                  ]
+            },
+            {
+                  "name": "Ancient Guanyin Temple",
+                  "text": "Az Együttérzés Bódhiszattvájának szentelt történelmi buddhista szentély arra hívja a hívőket, hogy füstölőt gyújtsanak a központi szentélyében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.357274,
+                        34.800848
+                  ]
+            },
+            {
+                  "name": "Shanyitang Mosque",
+                  "text": "Ez az iszlám istentiszteleti hely a helyi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        114.350182,
+                        34.793497
+                  ]
+            },
+            {
+                  "name": "Wangjia Hutong Mosque",
+                  "text": "Ez a muszlim istentiszteleti hely egy hagyományos sikátorban található.",
+                  "category": "landmark",
+                  "coords": [
+                        114.360422,
+                        34.796965
+                  ]
+            },
+            {
+                  "name": "Dongjiao Night Market",
+                  "text": "Ez a nyüzsgő esti piac a helyi utcai ételek és áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        114.384503,
+                        34.793733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jinshui Gate",
+                  "text": "Acest punct de reper arhitectural tradițional reprezintă una dintre vechile intrări istorice în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        114.339759,
+                        34.819262
+                  ]
+            },
+            {
+                  "name": "Xīsī Square Night Market",
+                  "text": "Seara, această piațetă se transformă într-o zonă de piață plină de viață, cu vânzători locali de mâncare și tarabe iluminate.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333016,
+                        34.795735
+                  ]
+            },
+            {
+                  "name": "Bei Tan",
+                  "text": "Acest monument din piatră stă drept o structură comemorativă durabilă ce reflectă istoria ceremonială tradițională chineză.",
+                  "category": "historical",
+                  "coords": [
+                        114.339866,
+                        34.811083
+                  ]
+            },
+            {
+                  "name": "Pota Pagoda",
+                  "text": "Această remarcabilă pagodă hexagonală din cărămidă are un exterior acoperit cu mii de mici sculpturi budiste detaliate.",
+                  "category": "tower",
+                  "coords": [
+                        114.358792,
+                        34.770621
+                  ]
+            },
+            {
+                  "name": "Kaifeng Museum",
+                  "text": "Acest muzeu civic notabil expune o colecție vastă de artefacte regionale, subliniind epoca de aur a orașului din timpul dinastiei Song.",
+                  "category": "museum",
+                  "coords": [
+                        114.247978,
+                        34.804456
+                  ]
+            },
+            {
+                  "name": "China Hanyuan Garden",
+                  "text": "Această grădină culturală este faimoasă pentru \"pădurea sa de stele\", expunând mii de tablete din piatră gravate cu caligrafie chineză.",
+                  "category": "landmark",
+                  "coords": [
+                        114.338631,
+                        34.810965
+                  ]
+            },
+            {
+                  "name": "Millennium City Park",
+                  "text": "Acest parc tematic istoric imersiv aduce la viață faimoasa pictură a Dinastiei Song „De-a lungul râului în timpul Festivalului Qingming” prin recreeri elaborate.",
+                  "category": "recreational",
+                  "coords": [
+                        114.33472,
+                        34.809734
+                  ]
+            },
+            {
+                  "name": "Fanlou Building",
+                  "text": "Acest complex arhitectural grandios, cu mai multe etaje, recreează una dintre cele mai faimoase și luxoase taverne ale vechii dinastii Song.",
+                  "category": "landmark",
+                  "coords": [
+                        114.345338,
+                        34.802997
+                  ]
+            },
+            {
+                  "name": "Tianbo Yang General's Mansion",
+                  "text": "Acest complex memorial onorează legendarele fapte militare ale generalilor familiei Yang, având curți tradiționale și expoziții de armament.",
+                  "category": "landmark",
+                  "coords": [
+                        114.341547,
+                        34.811488
+                  ]
+            },
+            {
+                  "name": "Former Henan Provincial Museum",
+                  "text": "Înființat în 1927, acest sit de patrimoniu de nivel 2 protejat la nivel național păstrează arhitectura clasică a muzeului provincial original.",
+                  "category": "museum",
+                  "coords": [
+                        114.351619,
+                        34.803382
+                  ]
+            },
+            {
+                  "name": "Liu Shaoqi in Kaifeng Exhibition Hall",
+                  "text": "Această sală de expoziții biografice este dedicată documentării evenimentelor politice istorice legate de șederea omului de stat Liu Shaoqi în Kaifeng.",
+                  "category": "museum",
+                  "coords": [
+                        114.354428,
+                        34.798246
+                  ]
+            },
+            {
+                  "name": "Liuqingxia Former Residence",
+                  "text": "Acest complex de curți interioare conservat funcționează ca un muzeu care detaliază viața și contribuțiile patriotice ale figurii istorice Liu Qingxia.",
+                  "category": "museum",
+                  "coords": [
+                        114.355612,
+                        34.798371
+                  ]
+            },
+            {
+                  "name": "Kaifeng Sacred Heart Cathedral",
+                  "text": "Această catedrală catolică notabilă se remarcă prin stilul său arhitectural distinct printre clădirile tradiționale ale orașului.",
+                  "category": "religious",
+                  "coords": [
+                        114.357806,
+                        34.79744
+                  ]
+            },
+            {
+                  "name": "Kaifeng East Mosque",
+                  "text": "Recunoscută ca un centru islamic notabil, această mare moschee încorporează frumos elemente arhitecturale clasice chinezești în designul său.",
+                  "category": "religious",
+                  "coords": [
+                        114.358075,
+                        34.794752
+                  ]
+            },
+            {
+                  "name": "Drum Tower",
+                  "text": "Poziționată ca un reper istoric proeminent, această structură impunătoare a jucat odată un rol crucial în măsurarea tradițională a timpului civic.",
+                  "category": "landmark",
+                  "coords": [
+                        114.350052,
+                        34.794713
+                  ]
+            },
+            {
+                  "name": "Shanxi-Shaanxi-Gansu Guild Hall",
+                  "text": "Construit în 1765, acest sit de patrimoniu de nivel 2 prezintă sculpturi tradiționale rafinate din lemn, care au deservit cândva negustorii din trei provincii.",
+                  "category": "museum",
+                  "coords": [
+                        114.347414,
+                        34.798254
+                  ]
+            },
+            {
+                  "name": "Daxiangguo Temple",
+                  "text": "Acest complex de temple budiste foarte notabil este celebrat istoric și se concentrează în jurul unei faimoase statui sculptate dintr-un singur arbore de ginkgo.",
+                  "category": "religious",
+                  "coords": [
+                        114.348774,
+                        34.792599
+                  ]
+            },
+            {
+                  "name": "Kaifeng Governor's Mansion",
+                  "text": "Acest complex administrativ istoric restaurat prezintă o arhitectură tradițională yamen, de unde odinioară funcționarii civili antici guvernau regiunea.",
+                  "category": "landmark",
+                  "coords": [
+                        114.341095,
+                        34.790532
+                  ]
+            },
+            {
+                  "name": "Yanqing Taoist Temple",
+                  "text": "Acest lăcaș de cult taoist notabil se distinge prin pavilionul său central unic, care combină stilurile arhitecturale mongol și han.",
+                  "category": "religious",
+                  "coords": [
+                        114.34037,
+                        34.793189
+                  ]
+            },
+            {
+                  "name": "Bao Zheng's Memorial Hall",
+                  "text": "Situată lângă un lac, această sală memorială binecunoscută onorează moștenirea lordului Bao, un oficial profund venerat din dinastia Song, faimos pentru judecățile sale drepte.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333222,
+                        34.793751
+                  ]
+            },
+            {
+                  "name": "Daliang Gate",
+                  "text": "Reconstruită la fosta sa glorie defensivă, această poartă impunătoare se înalță ca un punct de intrare masiv în partea de vest a vechiului zid al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.328079,
+                        34.801525
+                  ]
+            },
+            {
+                  "name": "Yuwangtai Park",
+                  "text": "Acest parc istoric notabil prezintă o veche terasă înălțată, dedicată realizărilor legendare ale lui Yu cel Mare în controlul inundațiilor.",
+                  "category": "park",
+                  "coords": [
+                        114.363466,
+                        34.77022
+                  ]
+            },
+            {
+                  "name": "Iron Pagoda",
+                  "text": "Construit în 1049, acest sit de patrimoniu de nivel 2 este o capodoperă octogonală impunătoare, placată complet în cărămizi smălțuite de culoarea ruginii, care seamănă cu fierul masiv.",
+                  "category": "landmark",
+                  "coords": [
+                        114.364868,
+                        34.816634
+                  ]
+            },
+            {
+                  "name": "North Mosque",
+                  "text": "Această moschee istorică notabilă are o curte tradițională chineză, servind în același timp ca un centru important pentru rugăciunea islamică.",
+                  "category": "religious",
+                  "coords": [
+                        114.359934,
+                        34.815239
+                  ]
+            },
+            {
+                  "name": "Wenshu Mosque",
+                  "text": "Funcționând ca un centru religios local, acest sit musulman oferă un spațiu de rugăciune dedicat credincioșilor din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        114.351429,
+                        34.795445
+                  ]
+            },
+            {
+                  "name": "Baozhu Temple",
+                  "text": "Acest templu budist tradițional este un refugiu spiritual liniștit, împodobit cu statui clasice și spații pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        114.349955,
+                        34.80385
+                  ]
+            },
+            {
+                  "name": "Ancient Guanyin Temple",
+                  "text": "Dedicat Bodhisattvei Compasiunii, acest sanctuar budist istoric invită credincioșii să aprindă bețișoare parfumate la altarul său central.",
+                  "category": "landmark",
+                  "coords": [
+                        114.357274,
+                        34.800848
+                  ]
+            },
+            {
+                  "name": "Shanyitang Mosque",
+                  "text": "Acest lăcaș de cult islamic deservește comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        114.350182,
+                        34.793497
+                  ]
+            },
+            {
+                  "name": "Wangjia Hutong Mosque",
+                  "text": "Acest lăcaș de cult musulman este situat într-o zonă tradițională de alei.",
+                  "category": "landmark",
+                  "coords": [
+                        114.360422,
+                        34.796965
+                  ]
+            },
+            {
+                  "name": "Dongjiao Night Market",
+                  "text": "Această piață de seară plină de viață oferă o gamă variată de mâncare stradală și bunuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        114.384503,
+                        34.793733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jinshui Gate",
+                  "text": "This traditional architectural landmark represents one of the ancient historical entryways into the city.",
+                  "category": "landmark",
+                  "coords": [
+                        114.339759,
+                        34.819262
+                  ]
+            },
+            {
+                  "name": "Xīsī Square Night Market",
+                  "text": "In the evening, this square transforms into a lively market area packed with local food vendors and illuminated stalls.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333016,
+                        34.795735
+                  ]
+            },
+            {
+                  "name": "Bei Tan",
+                  "text": "This stone monument stands as a lasting commemorative structure reflecting traditional Chinese ceremonial history.",
+                  "category": "historical",
+                  "coords": [
+                        114.339866,
+                        34.811083
+                  ]
+            },
+            {
+                  "name": "Pota Pagoda",
+                  "text": "This notable hexagonal brick pagoda features an exterior covered with thousands of small, detailed Buddhist carvings.",
+                  "category": "tower",
+                  "coords": [
+                        114.358792,
+                        34.770621
+                  ]
+            },
+            {
+                  "name": "Kaifeng Museum",
+                  "text": "This notable civic museum showcases a large collection of regional artifacts, emphasizing the city's golden era during the Song Dynasty.",
+                  "category": "museum",
+                  "coords": [
+                        114.247978,
+                        34.804456
+                  ]
+            },
+            {
+                  "name": "China Hanyuan Garden",
+                  "text": "This cultural garden is famous for its extensive \"stele forest,\" displaying thousands of engraved stone tablets of Chinese calligraphy.",
+                  "category": "landmark",
+                  "coords": [
+                        114.338631,
+                        34.810965
+                  ]
+            },
+            {
+                  "name": "Millennium City Park",
+                  "text": "This immersive historical theme park brings the famous Song Dynasty painting \"Along the River During the Qingming Festival\" to life through elaborate recreations.",
+                  "category": "recreational",
+                  "coords": [
+                        114.33472,
+                        34.809734
+                  ]
+            },
+            {
+                  "name": "Fanlou Building",
+                  "text": "This grand multi-story architectural complex recreates one of the most famous and luxurious tavern buildings of the ancient Song Dynasty.",
+                  "category": "landmark",
+                  "coords": [
+                        114.345338,
+                        34.802997
+                  ]
+            },
+            {
+                  "name": "Tianbo Yang General's Mansion",
+                  "text": "This memorial complex honors the legendary military exploits of the Yang family generals with its traditional courtyards and weaponry displays.",
+                  "category": "landmark",
+                  "coords": [
+                        114.341547,
+                        34.811488
+                  ]
+            },
+            {
+                  "name": "Former Henan Provincial Museum",
+                  "text": "Established in 1927, this nationally protected level 2 heritage site preserves the classic architecture of the original provincial museum.",
+                  "category": "museum",
+                  "coords": [
+                        114.351619,
+                        34.803382
+                  ]
+            },
+            {
+                  "name": "Liu Shaoqi in Kaifeng Exhibition Hall",
+                  "text": "This biographical exhibition hall is dedicated to documenting the historical political events surrounding the statesman Liu Shaoqi's time in Kaifeng.",
+                  "category": "museum",
+                  "coords": [
+                        114.354428,
+                        34.798246
+                  ]
+            },
+            {
+                  "name": "Liuqingxia Former Residence",
+                  "text": "This preserved courtyard complex serves as a museum detailing the life and patriotic contributions of the historical figure Liu Qingxia.",
+                  "category": "museum",
+                  "coords": [
+                        114.355612,
+                        34.798371
+                  ]
+            },
+            {
+                  "name": "Kaifeng Sacred Heart Cathedral",
+                  "text": "This notable Catholic cathedral stands out with its distinct architectural style among the city's traditional buildings.",
+                  "category": "religious",
+                  "coords": [
+                        114.357806,
+                        34.79744
+                  ]
+            },
+            {
+                  "name": "Kaifeng East Mosque",
+                  "text": "Recognized as a notable Islamic center, this large mosque beautifully incorporates classic Chinese architectural elements into its design.",
+                  "category": "religious",
+                  "coords": [
+                        114.358075,
+                        34.794752
+                  ]
+            },
+            {
+                  "name": "Drum Tower",
+                  "text": "Positioned as a prominent historical landmark, this imposing tower structure once played a crucial role in traditional civic timekeeping.",
+                  "category": "landmark",
+                  "coords": [
+                        114.350052,
+                        34.794713
+                  ]
+            },
+            {
+                  "name": "Shanxi-Shaanxi-Gansu Guild Hall",
+                  "text": "Built in 1765, this level 2 heritage site features exquisite traditional wood carvings that once served merchants from three provinces.",
+                  "category": "museum",
+                  "coords": [
+                        114.347414,
+                        34.798254
+                  ]
+            },
+            {
+                  "name": "Daxiangguo Temple",
+                  "text": "This highly notable Buddhist temple complex is historically celebrated and centers around a famous statue carved from a single ginkgo tree.",
+                  "category": "religious",
+                  "coords": [
+                        114.348774,
+                        34.792599
+                  ]
+            },
+            {
+                  "name": "Kaifeng Governor's Mansion",
+                  "text": "This restored historical administrative complex features traditional yamen architecture where ancient civic officials once governed the region.",
+                  "category": "landmark",
+                  "coords": [
+                        114.341095,
+                        34.790532
+                  ]
+            },
+            {
+                  "name": "Yanqing Taoist Temple",
+                  "text": "This notable Taoist place of worship is distinguished by its unique central pavilion combining Mongolian and Han architectural styles.",
+                  "category": "religious",
+                  "coords": [
+                        114.34037,
+                        34.793189
+                  ]
+            },
+            {
+                  "name": "Bao Zheng's Memorial Hall",
+                  "text": "Set by a lake, this well-known memorial hall honors the legacy of Lord Bao, a deeply revered Song Dynasty official famous for his righteous judgments.",
+                  "category": "landmark",
+                  "coords": [
+                        114.333222,
+                        34.793751
+                  ]
+            },
+            {
+                  "name": "Daliang Gate",
+                  "text": "Reconstructed to its former defensive glory, this imposing gate stands as a massive entrypoint into the western side of the ancient city wall.",
+                  "category": "landmark",
+                  "coords": [
+                        114.328079,
+                        34.801525
+                  ]
+            },
+            {
+                  "name": "Yuwangtai Park",
+                  "text": "This notable historical park features an ancient elevated terrace dedicated to Yu the Great's legendary flood control achievements.",
+                  "category": "park",
+                  "coords": [
+                        114.363466,
+                        34.77022
+                  ]
+            },
+            {
+                  "name": "Iron Pagoda",
+                  "text": "Constructed in 1049, this level 2 heritage site is a towering octagonal masterpiece completely clad in rust-colored glazed bricks that resemble solid iron.",
+                  "category": "landmark",
+                  "coords": [
+                        114.364868,
+                        34.816634
+                  ]
+            },
+            {
+                  "name": "North Mosque",
+                  "text": "This notable historic mosque features a traditional Chinese courtyard layout while serving as an important center for Islamic prayer.",
+                  "category": "religious",
+                  "coords": [
+                        114.359934,
+                        34.815239
+                  ]
+            },
+            {
+                  "name": "Wenshu Mosque",
+                  "text": "Operating as a local religious hub, this Muslim site provides a dedicated prayer space for worshippers in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        114.351429,
+                        34.795445
+                  ]
+            },
+            {
+                  "name": "Baozhu Temple",
+                  "text": "This traditional Buddhist temple is a quiet spiritual retreat adorned with classical statues and spaces for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        114.349955,
+                        34.80385
+                  ]
+            },
+            {
+                  "name": "Ancient Guanyin Temple",
+                  "text": "Dedicated to the Bodhisattva of Compassion, this historical Buddhist sanctuary invites worshippers to light incense at its central shrine.",
+                  "category": "landmark",
+                  "coords": [
+                        114.357274,
+                        34.800848
+                  ]
+            },
+            {
+                  "name": "Shanyitang Mosque",
+                  "text": "This Islamic place of worship serves the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        114.350182,
+                        34.793497
+                  ]
+            },
+            {
+                  "name": "Wangjia Hutong Mosque",
+                  "text": "This Muslim place of worship is situated within a traditional alleyway setting.",
+                  "category": "landmark",
+                  "coords": [
+                        114.360422,
+                        34.796965
+                  ]
+            },
+            {
+                  "name": "Dongjiao Night Market",
+                  "text": "This bustling evening marketplace offers a vibrant array of local street food and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        114.384503,
+                        34.793733
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "CN-HA",
     coords: [114.349, 34.805],
@@ -291,7 +4152,124 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "luding-bridge-history-v2",
+    id: "luding-bridge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Erlang",
+                  "text": "Der Berg Erlang ist ein berühmter Pass in Sichuan, bekannt für seinen langen Straßentunnel und die nebelverhangenen Hänge.",
+                  "category": "natural",
+                  "coords": [
+                        102.272717,
+                        29.871924
+                  ]
+            },
+            {
+                  "name": "Xingkang Bridge",
+                  "text": "Die Xingkang-Brücke ist eine gewaltige Hängebrücke über den Fluss Dadu und Teil der Autobahn ins tibetische Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        102.214267,
+                        29.965766
+                  ]
+            },
+            {
+                  "name": "Erlang Temple",
+                  "text": "Dieser traditionelle Tempel ist der Gottheit Erlang Shen gewidmet und befindet sich nahe der historischen Flussquerung in Luding.",
+                  "category": "religious",
+                  "coords": [
+                        102.232872,
+                        29.907657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Erlang",
+                  "text": "Az Erlang-hegy egy híres hágó Szecsuánban, amely hosszú közúti alagútjáról és ködbe burkolózó lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        102.272717,
+                        29.871924
+                  ]
+            },
+            {
+                  "name": "Xingkang Bridge",
+                  "text": "A Hszingkang-híd egy hatalmas függőhíd a Dadu-folyó felett, a tibeti felföldre vezető autópálya része.",
+                  "category": "landmark",
+                  "coords": [
+                        102.214267,
+                        29.965766
+                  ]
+            },
+            {
+                  "name": "Erlang Temple",
+                  "text": "Ez a hagyományos templom Erlang Shen istenségnek van szentelve, és Luding történelmi folyami átkelője közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        102.232872,
+                        29.907657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Erlang",
+                  "text": "Muntele Erlang este o trecătoare celebră din Sichuan, cunoscută pentru tunelul său rutier lung și versanții acoperiți de ceață.",
+                  "category": "natural",
+                  "coords": [
+                        102.272717,
+                        29.871924
+                  ]
+            },
+            {
+                  "name": "Xingkang Bridge",
+                  "text": "Podul Xingkang este un pod suspendat colosal peste râul Dadu, făcând parte din autostrada către platoul tibetan.",
+                  "category": "landmark",
+                  "coords": [
+                        102.214267,
+                        29.965766
+                  ]
+            },
+            {
+                  "name": "Erlang Temple",
+                  "text": "Acest templu tradițional este dedicat zeității Erlang Shen și se află lângă istorica traversare a râului din Luding.",
+                  "category": "religious",
+                  "coords": [
+                        102.232872,
+                        29.907657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Erlang",
+                  "text": "Mount Erlang is a famous pass in Sichuan, known for its long road tunnel and mist-covered slopes.",
+                  "category": "natural",
+                  "coords": [
+                        102.272717,
+                        29.871924
+                  ]
+            },
+            {
+                  "name": "Xingkang Bridge",
+                  "text": "Xingkang Bridge is a massive suspension bridge over the Dadu River, part of the high-altitude highway to Tibet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.214267,
+                        29.965766
+                  ]
+            },
+            {
+                  "name": "Erlang Temple",
+                  "text": "This traditional temple is dedicated to the deity Erlang Shen and is located near the historic river crossing in Luding.",
+                  "category": "religious",
+                  "coords": [
+                        102.232872,
+                        29.907657
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "CN-SC",
     coords: [102.2281, 29.9144],
@@ -339,7 +4317,88 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "sanxingdui-ruins-history-v2",
+    id: "sanxingdui-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sanxingdui Museum",
+                  "text": "Dieses Museum beherbergt die außergewöhnliche Sammlung riesiger Bronzemasken und Goldartefakte, die aus dem alten Shu-Reich ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        104.216199,
+                        31.00385
+                  ]
+            },
+            {
+                  "name": "Sanxingdui Ruinen",
+                  "text": "Diese tiefgreifende archäologische Stätte, die für ihre antiken Opfergruben berühmt ist, bewahrt die Überreste der rätselhaften Shu-Zivilisation.",
+                  "category": "historical",
+                  "coords": [
+                        104.19986,
+                        30.99366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sanxingdui Museum",
+                  "text": "Ez a múzeum az ősi Shu királyságból feltárt gigantikus bronzmaszkok és aranytárgyak rendkívüli gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        104.216199,
+                        31.00385
+                  ]
+            },
+            {
+                  "name": "Sanxingdui Ruins",
+                  "text": "Az ősi áldozati gödreiről híres, hatalmas régészeti lelőhely a rejtélyes Shu civilizáció maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        104.19986,
+                        30.99366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sanxingdui Museum",
+                  "text": "Acest muzeu găzduiește colecția extraordinară de măști gigantice din bronz și artefacte din aur descoperite din vechiul regat Shu.",
+                  "category": "museum",
+                  "coords": [
+                        104.216199,
+                        31.00385
+                  ]
+            },
+            {
+                  "name": "Sanxingdui Ruins",
+                  "text": "Faimos pentru gropile sale antice de sacrificiu, acest profund sit arheologic păstrează rămășițele enigmaticei civilizații Shu.",
+                  "category": "historical",
+                  "coords": [
+                        104.19986,
+                        30.99366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sanxingdui Museum",
+                  "text": "This museum houses the extraordinary collection of gigantic bronze masks and gold artifacts unearthed from the ancient Shu kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        104.216199,
+                        31.00385
+                  ]
+            },
+            {
+                  "name": "Sanxingdui Ruins",
+                  "text": "Famous for its ancient sacrificial pits, this profound archaeological site preserves the remnants of the enigmatic Shu civilization.",
+                  "category": "historical",
+                  "coords": [
+                        104.19986,
+                        30.99366
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "CN-SC",
     coords: [104.202, 30.988],
@@ -387,7 +4446,772 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "marco-polo-bridge-history-v2",
+    id: "marco-polo-bridge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of the Chinese People Resistance Against Japanese Aggression",
+                  "text": "Dieses Museum in der historischen Wanping-Festung zeigt umfangreiche militärische Artefakte aus dem Widerstand gegen die japanische Invasion.",
+                  "category": "museum",
+                  "coords": [
+                        116.219797,
+                        39.851019
+                  ]
+            },
+            {
+                  "name": "Beijing Auto Museum",
+                  "text": "Dieses futuristische Museum stellt über 80 Oldtimer aus, darunter seltene frühe chinesische Modelle und historische internationale Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        116.296136,
+                        39.827541
+                  ]
+            },
+            {
+                  "name": "Wanping City",
+                  "text": "Diese ummauerte Festung aus dem 17. Jahrhundert trägt noch heute Einschusslöcher vom Zwischenfall an der Marco-Polo-Brücke im Jahr 1937.",
+                  "category": "landmark",
+                  "coords": [
+                        116.22013,
+                        39.849839
+                  ]
+            },
+            {
+                  "name": "Beijing Garden Expo Park",
+                  "text": "Dieser weitläufige Park am Flussufer zeigt verschiedene chinesische Gartenstile und verfügt über einen markanten Aussichtsturm auf einem Hügel.",
+                  "category": "park",
+                  "coords": [
+                        116.184556,
+                        39.875258
+                  ]
+            },
+            {
+                  "name": "Beijing International Sculpture Park",
+                  "text": "Diese grüne Anlage beherbergt über 180 Skulpturen von Künstlern aus aller Welt, die entlang der Spazierwege aufgestellt sind.",
+                  "category": "park",
+                  "coords": [
+                        116.238024,
+                        39.904728
+                  ]
+            },
+            {
+                  "name": "Beijing Winter Olympic Park",
+                  "text": "Dieser Park am Yongding-Fluss wurde für die Spiele 2022 entwickelt und bietet Blick auf die beeindruckende Big-Air-Schanze von Shougang.",
+                  "category": "park",
+                  "coords": [
+                        116.14018,
+                        39.909475
+                  ]
+            },
+            {
+                  "name": "Beijing Shijingshan Amusement Park",
+                  "text": "Dieser klassische Vergnügungspark ist bekannt für sein Märchenschloss und eine große Auswahl an Achterbahnen und Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        116.202512,
+                        39.910698
+                  ]
+            },
+            {
+                  "name": "World Park",
+                  "text": "Dieser Themenpark zeigt über 100 maßstabsgetreue Nachbildungen berühmter Weltsehenswürdigkeiten, die nach Kontinenten geordnet sind.",
+                  "category": "recreational",
+                  "coords": [
+                        116.281443,
+                        39.808929
+                  ]
+            },
+            {
+                  "name": "Hot air balloon museum",
+                  "text": "Dieses Fachmuseum widmet sich der Geschichte der Heißluftballonfahrt und den frühen Anfängen der Luftfahrt.",
+                  "category": "museum",
+                  "coords": [
+                        116.198498,
+                        39.878212
+                  ]
+            },
+            {
+                  "name": "School History Museum",
+                  "text": "Dieses Museum bewahrt das historische Erbe und die pädagogische Entwicklung einer traditionsreichen lokalen Schule.",
+                  "category": "museum",
+                  "coords": [
+                        116.249062,
+                        39.899973
+                  ]
+            },
+            {
+                  "name": "Think squarely but act roundly",
+                  "text": "Diese philosophische Skulptur verkörpert die traditionellen chinesischen Werte von Integrität und Flexibilität im Handeln.",
+                  "category": "historical",
+                  "coords": [
+                        116.24743,
+                        39.900144
+                  ]
+            },
+            {
+                  "name": "Lincoln Memorial",
+                  "text": "Diese Nachbildung im Weltpark stellt das Washingtoner Denkmal mit der sitzenden Statue des US-Präsidenten detailgetreu dar.",
+                  "category": "landmark",
+                  "coords": [
+                        116.278364,
+                        39.808445
+                  ]
+            },
+            {
+                  "name": "Red Square",
+                  "text": "Diese Miniaturversion des zentralen Platzes in Moskau zeigt auch die bunten Kuppeln der Basilius-Kathedrale.",
+                  "category": "landmark",
+                  "coords": [
+                        116.282687,
+                        39.811275
+                  ]
+            },
+            {
+                  "name": "St. Stephen's Cathedral",
+                  "text": "Das maßstabsgetreue Modell der Wiener Kathedrale zeigt die charakteristischen bunten Dachziegel des gotischen Bauwerks.",
+                  "category": "landmark",
+                  "coords": [
+                        116.281517,
+                        39.810427
+                  ]
+            },
+            {
+                  "name": "Egyptian pyramids",
+                  "text": "Diese Modelle stellen die Große Sphinx und die ikonischen Grabbauten der Nekropole von Gizeh dar.",
+                  "category": "landmark",
+                  "coords": [
+                        116.281606,
+                        39.807411
+                  ]
+            },
+            {
+                  "name": "Sydney Opera House",
+                  "text": "Die Nachbildung fängt die ikonische Architektur der weißen Segel des berühmten australischen Opernhauses ein.",
+                  "category": "landmark",
+                  "coords": [
+                        116.284454,
+                        39.807832
+                  ]
+            },
+            {
+                  "name": "Taj Mahal",
+                  "text": "Dieses weiße Modell des Mogul-Mausoleums umfasst auch die symmetrischen Gärten und die spiegelnden Wasserbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        116.283642,
+                        39.808949
+                  ]
+            },
+            {
+                  "name": "Great Wall of China",
+                  "text": "Dieser Miniaturabschnitt der historischen Befestigungsanlage windet sich durch die hügelige Landschaft des Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        116.282398,
+                        39.809355
+                  ]
+            },
+            {
+                  "name": "Notre Dame de Paris",
+                  "text": "Die Miniatur der französischen Kathedrale zeigt die markanten Zwillingstürme und die kunstvollen Rosettenfenster.",
+                  "category": "landmark",
+                  "coords": [
+                        116.280269,
+                        39.808781
+                  ]
+            },
+            {
+                  "name": "Stonehenge",
+                  "text": "Diese Nachbildung der prähistorischen Megalithanlage in England zeigt die charakteristische kreisförmige Anordnung der Steine.",
+                  "category": "landmark",
+                  "coords": [
+                        116.280094,
+                        39.80972
+                  ]
+            },
+            {
+                  "name": "Manhattan Island",
+                  "text": "Diese Miniatur-Skyline zeigt die Wolkenkratzer von New York, einschließlich der markanten Türme des ehemaligen World Trade Centers.",
+                  "category": "landmark",
+                  "coords": [
+                        116.278887,
+                        39.809534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of the Chinese People Resistance Against Japanese Aggression",
+                  "text": "A történelmi Wanping-erődben található múzeum a japán megszállás elleni küzdelem kiterjedt katonai emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        116.219797,
+                        39.851019
+                  ]
+            },
+            {
+                  "name": "Beijing Auto Museum",
+                  "text": "Ez a futurisztikus múzeum több mint 80 veterán autót mutat be, köztük ritka korai kínai modelleket és történelmi nemzetközi járműveket.",
+                  "category": "museum",
+                  "coords": [
+                        116.296136,
+                        39.827541
+                  ]
+            },
+            {
+                  "name": "Wanping City",
+                  "text": "Ez a 17. századi fallal körülvett erőd ma is őrzi az 1937-es Marco Polo-hídi incidens golyónyomait.",
+                  "category": "landmark",
+                  "coords": [
+                        116.22013,
+                        39.849839
+                  ]
+            },
+            {
+                  "name": "Beijing Garden Expo Park",
+                  "text": "Ez a hatalmas vízparti park különféle kínai kertstílusokat mutat be, és egy dombtetőn álló jellegzetes kilátótoronnyal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        116.184556,
+                        39.875258
+                  ]
+            },
+            {
+                  "name": "Beijing International Sculpture Park",
+                  "text": "Ebben a zöld parkban több mint 180, a világ minden tájáról származó művészek által készített szobor látható a sétányok mentén.",
+                  "category": "park",
+                  "coords": [
+                        116.238024,
+                        39.904728
+                  ]
+            },
+            {
+                  "name": "Beijing Winter Olympic Park",
+                  "text": "A 2022-es játékokra fejlesztett, a Yongding-folyó mentén fekvő parkból rálátás nyílik a lenyűgöző Shougang Big Air sáncra.",
+                  "category": "park",
+                  "coords": [
+                        116.14018,
+                        39.909475
+                  ]
+            },
+            {
+                  "name": "Beijing Shijingshan Amusement Park",
+                  "text": "Ez a klasszikus vidámpark mesebeli kastélyáról, valamint hullámvasútjai és családi játékai széles választékáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        116.202512,
+                        39.910698
+                  ]
+            },
+            {
+                  "name": "World Park",
+                  "text": "Ez a vidámpark a világ híres látnivalóinak több mint 100 méretarányos másolatát mutatja be, kontinensek szerint csoportosítva.",
+                  "category": "recreational",
+                  "coords": [
+                        116.281443,
+                        39.808929
+                  ]
+            },
+            {
+                  "name": "Hot air balloon museum",
+                  "text": "Ez a szakmúzeum a hőlégballonozás történetének és a repülés korai kezdeteinek szentelt tárlatot mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        116.198498,
+                        39.878212
+                  ]
+            },
+            {
+                  "name": "School History Museum",
+                  "text": "Ez a múzeum egy nagy múltú helyi iskola történelmi örökségét és oktatási fejlődését őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        116.249062,
+                        39.899973
+                  ]
+            },
+            {
+                  "name": "Think squarely but act roundly",
+                  "text": "Ez a filozófiai szobor a hagyományos kínai értékeket, a tisztességet és a rugalmasságot testesíti meg a cselekvésben.",
+                  "category": "historical",
+                  "coords": [
+                        116.24743,
+                        39.900144
+                  ]
+            },
+            {
+                  "name": "Lincoln Memorial",
+                  "text": "Ez a Világparkban található másolat az amerikai elnök ülő szobrával együtt idézi fel a washingtoni emlékművet.",
+                  "category": "landmark",
+                  "coords": [
+                        116.278364,
+                        39.808445
+                  ]
+            },
+            {
+                  "name": "Red Square",
+                  "text": "Moszkva központi terének ez a miniatűr változata a Boldog Vazul-székesegyház színes kupoláit is bemutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        116.282687,
+                        39.811275
+                  ]
+            },
+            {
+                  "name": "St. Stephen's Cathedral",
+                  "text": "A bécsi székesegyház méretarányos modellje a gótikus épület jellegzetes, színes tetőcserepeit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        116.281517,
+                        39.810427
+                  ]
+            },
+            {
+                  "name": "Egyptian pyramids",
+                  "text": "Ezek a modellek a gízai nekropolisz Nagy Szfinxét és ikonikus síremlékeit mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        116.281606,
+                        39.807411
+                  ]
+            },
+            {
+                  "name": "Sydney Opera House",
+                  "text": "A másolat a híres ausztrál operaház ikonikus fehér „vitorlás” építészetét örökíti meg.",
+                  "category": "landmark",
+                  "coords": [
+                        116.284454,
+                        39.807832
+                  ]
+            },
+            {
+                  "name": "Taj Mahal",
+                  "text": "A mogul mauzóleum ezen fehér modellje a szimmetrikus kerteket és a tükröződő medencéket is magában foglalja.",
+                  "category": "landmark",
+                  "coords": [
+                        116.283642,
+                        39.808949
+                  ]
+            },
+            {
+                  "name": "Great Wall of China",
+                  "text": "A történelmi erődítménynek ez a miniatűr szakasza a park dombos táján kanyarog végig.",
+                  "category": "landmark",
+                  "coords": [
+                        116.282398,
+                        39.809355
+                  ]
+            },
+            {
+                  "name": "Notre Dame de Paris",
+                  "text": "A francia székesegyház miniatűrje a jellegzetes ikertornyokat és a művészien kidolgozott rózsaablakokat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        116.280269,
+                        39.808781
+                  ]
+            },
+            {
+                  "name": "Stonehenge",
+                  "text": "Az angliai őskori megalitikus építmény ezen másolata a kövek jellegzetes körkörös elrendezését mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        116.280094,
+                        39.80972
+                  ]
+            },
+            {
+                  "name": "Manhattan Island",
+                  "text": "Ez a miniatűr sziluett New York felhőkarcolóit mutatja be, köztük az egykori World Trade Center jellegzetes tornyait.",
+                  "category": "landmark",
+                  "coords": [
+                        116.278887,
+                        39.809534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of the Chinese People Resistance Against Japanese Aggression",
+                  "text": "Acest muzeu din fortăreața istorică Wanping expune numeroase artefacte militare din timpul rezistenței împotriva invaziei japoneze.",
+                  "category": "museum",
+                  "coords": [
+                        116.219797,
+                        39.851019
+                  ]
+            },
+            {
+                  "name": "Beijing Auto Museum",
+                  "text": "Acest muzeu futurist expune peste 80 de mașini clasice, inclusiv modele chinezești timpurii rare și vehicule internaționale istorice.",
+                  "category": "museum",
+                  "coords": [
+                        116.296136,
+                        39.827541
+                  ]
+            },
+            {
+                  "name": "Wanping City",
+                  "text": "Această fortăreață cu ziduri din secolul al XVII-lea poartă și astăzi urme de gloanțe din incidentul de la Podul Marco Polo din 1937.",
+                  "category": "landmark",
+                  "coords": [
+                        116.22013,
+                        39.849839
+                  ]
+            },
+            {
+                  "name": "Beijing Garden Expo Park",
+                  "text": "Acest parc vast de pe malul râului prezintă diverse stiluri de grădină chinezească și are un turn de observație distinctiv pe un deal.",
+                  "category": "park",
+                  "coords": [
+                        116.184556,
+                        39.875258
+                  ]
+            },
+            {
+                  "name": "Beijing International Sculpture Park",
+                  "text": "Acest spațiu verde găzduiește peste 180 de sculpturi ale unor artiști din întreaga lume, amplasate de-a lungul aleilor.",
+                  "category": "park",
+                  "coords": [
+                        116.238024,
+                        39.904728
+                  ]
+            },
+            {
+                  "name": "Beijing Winter Olympic Park",
+                  "text": "Dezvoltat pentru Jocurile din 2022, acest parc de-a lungul râului Yongding oferă vedere la impresionanta trambulină Big Air de la Shougang.",
+                  "category": "park",
+                  "coords": [
+                        116.14018,
+                        39.909475
+                  ]
+            },
+            {
+                  "name": "Beijing Shijingshan Amusement Park",
+                  "text": "Acest parc de distracții clasic este cunoscut pentru castelul său de poveste și pentru gama largă de roller coastere și atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        116.202512,
+                        39.910698
+                  ]
+            },
+            {
+                  "name": "World Park",
+                  "text": "Acest parc tematic prezintă peste 100 de replici la scară ale unor obiective turistice celebre din lume, organizate pe continente.",
+                  "category": "recreational",
+                  "coords": [
+                        116.281443,
+                        39.808929
+                  ]
+            },
+            {
+                  "name": "Hot air balloon museum",
+                  "text": "Acest muzeu specializat este dedicat istoriei zborului cu balonul cu aer cald și începuturilor timpurii ale aeronauticii.",
+                  "category": "museum",
+                  "coords": [
+                        116.198498,
+                        39.878212
+                  ]
+            },
+            {
+                  "name": "School History Museum",
+                  "text": "Acest muzeu păstrează moștenirea istorică și evoluția educațională a unei școli locale cu tradiție.",
+                  "category": "museum",
+                  "coords": [
+                        116.249062,
+                        39.899973
+                  ]
+            },
+            {
+                  "name": "Think squarely but act roundly",
+                  "text": "Această sculptură filosofică întruchipează valorile tradiționale chinezești de integritate și flexibilitate în acțiune.",
+                  "category": "historical",
+                  "coords": [
+                        116.24743,
+                        39.900144
+                  ]
+            },
+            {
+                  "name": "Lincoln Memorial",
+                  "text": "Această replică din World Park recreează monumentul din Washington, incluzând statuia așezată a președintelui american.",
+                  "category": "landmark",
+                  "coords": [
+                        116.278364,
+                        39.808445
+                  ]
+            },
+            {
+                  "name": "Red Square",
+                  "text": "Această versiune în miniatură a pieței centrale din Moscova include și cupolele colorate ale Catedralei Sfântul Vasile.",
+                  "category": "landmark",
+                  "coords": [
+                        116.282687,
+                        39.811275
+                  ]
+            },
+            {
+                  "name": "St. Stephen's Cathedral",
+                  "text": "Modelul la scară al catedralei vieneze prezintă țiglele colorate caracteristice ale edificiului gotic.",
+                  "category": "landmark",
+                  "coords": [
+                        116.281517,
+                        39.810427
+                  ]
+            },
+            {
+                  "name": "Egyptian pyramids",
+                  "text": "Aceste modele reprezintă Marele Sfinx și mormintele iconice ale necropolei din Gizeh.",
+                  "category": "landmark",
+                  "coords": [
+                        116.281606,
+                        39.807411
+                  ]
+            },
+            {
+                  "name": "Sydney Opera House",
+                  "text": "Replica surprinde arhitectura iconică a „pânzelor” albe ale faimoasei opere australiene.",
+                  "category": "landmark",
+                  "coords": [
+                        116.284454,
+                        39.807832
+                  ]
+            },
+            {
+                  "name": "Taj Mahal",
+                  "text": "Acest model alb al mausoleului mogul include și grădinile simetrice și bazinele de apă în care se oglindește clădirea.",
+                  "category": "landmark",
+                  "coords": [
+                        116.283642,
+                        39.808949
+                  ]
+            },
+            {
+                  "name": "Great Wall of China",
+                  "text": "Această secțiune în miniatură a fortificației istorice șerpuiește prin peisajul deluros al parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        116.282398,
+                        39.809355
+                  ]
+            },
+            {
+                  "name": "Notre Dame de Paris",
+                  "text": "Miniatura catedralei franceze prezintă turnurile gemene distinctive și ferestrele rozasel elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        116.280269,
+                        39.808781
+                  ]
+            },
+            {
+                  "name": "Stonehenge",
+                  "text": "Această replică a monumentului megalitic preistoric din Anglia prezintă dispunerea circulară caracteristică a pietrelor.",
+                  "category": "landmark",
+                  "coords": [
+                        116.280094,
+                        39.80972
+                  ]
+            },
+            {
+                  "name": "Manhattan Island",
+                  "text": "Această siluetă în miniatură prezintă zgârie-norii din New York, inclusiv turnurile distinctive ale fostului World Trade Center.",
+                  "category": "landmark",
+                  "coords": [
+                        116.278887,
+                        39.809534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Chinese People Resistance Against Japanese Aggression",
+                  "text": "Located inside the historic Wanping Fortress, this museum displays extensive military artifacts from the resistance against the Japanese invasion.",
+                  "category": "museum",
+                  "coords": [
+                        116.219797,
+                        39.851019
+                  ]
+            },
+            {
+                  "name": "Beijing Auto Museum",
+                  "text": "This futuristic museum displays over 80 classic cars, including rare early Chinese models and historic international vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        116.296136,
+                        39.827541
+                  ]
+            },
+            {
+                  "name": "Wanping City",
+                  "text": "This 17th-century walled fortress still bears bullet marks from the 1937 Marco Polo Bridge Incident.",
+                  "category": "landmark",
+                  "coords": [
+                        116.22013,
+                        39.849839
+                  ]
+            },
+            {
+                  "name": "Beijing Garden Expo Park",
+                  "text": "This expansive riverside park showcases various Chinese garden styles and features a prominent landmark tower on a hill.",
+                  "category": "park",
+                  "coords": [
+                        116.184556,
+                        39.875258
+                  ]
+            },
+            {
+                  "name": "Beijing International Sculpture Park",
+                  "text": "This green space houses over 180 sculptures by artists from around the world, arranged along its walking paths.",
+                  "category": "park",
+                  "coords": [
+                        116.238024,
+                        39.904728
+                  ]
+            },
+            {
+                  "name": "Beijing Winter Olympic Park",
+                  "text": "Developed for the 2022 Games, this park along the Yongding River offers views of the impressive Shougang Big Air ramp.",
+                  "category": "park",
+                  "coords": [
+                        116.14018,
+                        39.909475
+                  ]
+            },
+            {
+                  "name": "Beijing Shijingshan Amusement Park",
+                  "text": "This classic amusement park is known for its fairy-tale castle and extensive range of roller coasters and rides.",
+                  "category": "recreational",
+                  "coords": [
+                        116.202512,
+                        39.910698
+                  ]
+            },
+            {
+                  "name": "World Park",
+                  "text": "This theme park features over 100 scale replicas of world-famous landmarks, organized by their geographical location.",
+                  "category": "recreational",
+                  "coords": [
+                        116.281443,
+                        39.808929
+                  ]
+            },
+            {
+                  "name": "Hot air balloon museum",
+                  "text": "This specialized museum is dedicated to the history of hot air ballooning and the early beginnings of aeronautics.",
+                  "category": "museum",
+                  "coords": [
+                        116.198498,
+                        39.878212
+                  ]
+            },
+            {
+                  "name": "School History Museum",
+                  "text": "This museum preserves the historical heritage and educational evolution of a long-standing local school.",
+                  "category": "museum",
+                  "coords": [
+                        116.249062,
+                        39.899973
+                  ]
+            },
+            {
+                  "name": "Think squarely but act roundly",
+                  "text": "This philosophical sculpture embodies traditional Chinese values of integrity and flexibility in conduct.",
+                  "category": "historical",
+                  "coords": [
+                        116.24743,
+                        39.900144
+                  ]
+            },
+            {
+                  "name": "Lincoln Memorial",
+                  "text": "This replica in World Park recreates the Washington D.C. landmark, including the seated statue of the American president.",
+                  "category": "landmark",
+                  "coords": [
+                        116.278364,
+                        39.808445
+                  ]
+            },
+            {
+                  "name": "Red Square",
+                  "text": "This miniature version of Moscow's central square includes the colorful domes of St. Basil's Cathedral.",
+                  "category": "landmark",
+                  "coords": [
+                        116.282687,
+                        39.811275
+                  ]
+            },
+            {
+                  "name": "St. Stephen's Cathedral",
+                  "text": "The scale model of the Viennese cathedral features the characteristic colorful roof tiles of the Gothic building.",
+                  "category": "landmark",
+                  "coords": [
+                        116.281517,
+                        39.810427
+                  ]
+            },
+            {
+                  "name": "Egyptian pyramids",
+                  "text": "These models represent the Great Sphinx and the iconic tombs of the Giza necropolis.",
+                  "category": "landmark",
+                  "coords": [
+                        116.281606,
+                        39.807411
+                  ]
+            },
+            {
+                  "name": "Sydney Opera House",
+                  "text": "The replica captures the iconic white \"sail\" architecture of the famous Australian opera house.",
+                  "category": "landmark",
+                  "coords": [
+                        116.284454,
+                        39.807832
+                  ]
+            },
+            {
+                  "name": "Taj Mahal",
+                  "text": "This white model of the Mughal mausoleum includes the symmetrical gardens and reflecting pools.",
+                  "category": "landmark",
+                  "coords": [
+                        116.283642,
+                        39.808949
+                  ]
+            },
+            {
+                  "name": "Great Wall of China",
+                  "text": "This miniature section of the historic fortification winds through the park's hilly landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        116.282398,
+                        39.809355
+                  ]
+            },
+            {
+                  "name": "Notre Dame de Paris",
+                  "text": "The miniature of the French cathedral features the distinctive twin towers and intricate rose windows.",
+                  "category": "landmark",
+                  "coords": [
+                        116.280269,
+                        39.808781
+                  ]
+            },
+            {
+                  "name": "Stonehenge",
+                  "text": "This reproduction of the prehistoric megalithic monument in England shows the characteristic circular arrangement of the stones.",
+                  "category": "landmark",
+                  "coords": [
+                        116.280094,
+                        39.80972
+                  ]
+            },
+            {
+                  "name": "Manhattan Island",
+                  "text": "This miniature skyline features the skyscrapers of New York City, including the former World Trade Center towers.",
+                  "category": "landmark",
+                  "coords": [
+                        116.278887,
+                        39.809534
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "CN-BJ",
     coords: [116.208, 39.849],
@@ -435,7 +5259,52 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "hongcun-village-history-v2",
+    id: "hongcun-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xidi",
+                  "text": "Dieses traditionelle Dorf zeichnet sich durch seine außergewöhnlich gut erhaltene Architektur aus der Ming- und Qing-Dynastie aus.",
+                  "category": "landmark",
+                  "coords": [
+                        117.967622,
+                        29.894921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xidi",
+                  "text": "Ezt a hagyományos falut a Ming- és Csing-dinasztia korából származó, kivételesen jól megőrzött építészete jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        117.967622,
+                        29.894921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xidi",
+                  "text": "Acest sat tradițional se distinge prin arhitectura sa excepțional de bine conservată din timpul dinastiilor Ming și Qing.",
+                  "category": "landmark",
+                  "coords": [
+                        117.967622,
+                        29.894921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xidi",
+                  "text": "This traditional village is distinguished by its exceptionally well-preserved architecture from the Ming and Qing dynasties.",
+                  "category": "landmark",
+                  "coords": [
+                        117.967622,
+                        29.894921
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "CN-AH",
     coords: [117.982, 29.904],
@@ -483,7 +5352,664 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "shanghai-bund-history-v2",
+    id: "shanghai-bund-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aurora Art Museum",
+                  "text": "Ein bemerkenswertes Museum in shanghai-bund-history-v2, das für seine Sammlung antiker chinesischer Antiquitäten und Jade bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        121.495396,
+                        31.236503
+                  ]
+            },
+            {
+                  "name": "Former Rowing Club",
+                  "text": "Eine historische Attraktion am Flussufer in shanghai-bund-history-v2, die ursprünglich der lokalen Expat-Bootsgemeinschaft diente.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484251,
+                        31.245341
+                  ]
+            },
+            {
+                  "name": "Bund History Museum",
+                  "text": "Ein engagiertes Museum in shanghai-bund-history-v2, das die chronologische Entwicklung der berühmten lokalen Uferpromenade beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        121.486769,
+                        31.244211
+                  ]
+            },
+            {
+                  "name": "Jardine Matheson Building",
+                  "text": "Eine ikonische Attraktion mit Steinfassade in shanghai-bund-history-v2, die für ein bedeutendes historisches Handelsunternehmen erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        121.48558,
+                        31.242325
+                  ]
+            },
+            {
+                  "name": "Sassoon House",
+                  "text": "Ein ikonisches Art-déco-Bauwerk in shanghai-bund-history-v2, berühmt für sein historisches Hotel und sein grünes Pyramiddach.",
+                  "category": "landmark",
+                  "coords": [
+                        121.48535,
+                        31.241129
+                  ]
+            },
+            {
+                  "name": "Kreisverkehr mit Oriental Pearl Tower",
+                  "text": "Ein ausgewiesener Aussichtspunkt in shanghai-bund-history-v2, der Besuchern eine freie Sicht auf den markanten Fernsehturm bietet.",
+                  "category": "natural",
+                  "coords": [
+                        121.496037,
+                        31.23962
+                  ]
+            },
+            {
+                  "name": "Shanghai Municipal History Museum",
+                  "text": "Ein bekanntes Museum in shanghai-bund-history-v2, das lebendige Dioramen aus der Vergangenheit der Stadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        121.495362,
+                        31.241586
+                  ]
+            },
+            {
+                  "name": "The Pearl",
+                  "text": "Ein einzigartiges Kabarett-Theater in shanghai-bund-history-v2, das sich in einem historisch renovierten ehemaligen buddhistischen Tempel befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        121.481682,
+                        31.254036
+                  ]
+            },
+            {
+                  "name": "The Memorial Site of the 4th National Congress of the Communist Party of China",
+                  "text": "Ein museum für politische Geschichte in shanghai-bund-history-v2, das Dokumente und Artefakte einer frühen Parteiversammlung ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        121.480413,
+                        31.257155
+                  ]
+            },
+            {
+                  "name": "Shen Yinmo's Former Residence",
+                  "text": "Die ehemalige Residenz in Shanghai bewahrt das Erbe des berühmten Kalligraphen und Dichters Shen Yinmo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.482895,
+                        31.260484
+                  ]
+            },
+            {
+                  "name": "Hongkou Fire Brigade",
+                  "text": "Dieses historische Feuerwehrgebäude befindet sich im Bezirk Hongkou unweit des Shanghai Bund.",
+                  "category": "landmark",
+                  "coords": [
+                        121.483362,
+                        31.255376
+                  ]
+            },
+            {
+                  "name": "Bund",
+                  "text": "Diese berühmte Uferpromenade in Shanghai beherbergt ein geschütztes historisches Viertel entlang des Huangpu-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        121.487026,
+                        31.23911
+                  ]
+            },
+            {
+                  "name": "Former Consulate-General of the United Kingdom, Shanghai",
+                  "text": "Dieses historische Gebäude in Shanghai, einst das britische Generalkonsulat, ist als Kulturerbe der Stufe 4 anerkannt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484461,
+                        31.244255
+                  ]
+            },
+            {
+                  "name": "Zhapu Road Bridge",
+                  "text": "Diese denkmalgeschützte Brücke in Shanghai wurde im Jahr 1927 erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        121.483294,
+                        31.246148
+                  ]
+            },
+            {
+                  "name": "Waibaidu-Brücke",
+                  "text": "Diese bedeutende, denkmalgeschützte Stahlfachwerkbrücke in Shanghai wurde am 20. Januar 1908 eröffnet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.485744,
+                        31.245307
+                  ]
+            },
+            {
+                  "name": "Museum of Art Pudong",
+                  "text": "Diese moderne Kunstgalerie in Shanghai wurde von dem bekannten Architekturbüro Ateliers Jean Nouvel entworfen.",
+                  "category": "museum",
+                  "coords": [
+                        121.491957,
+                        31.240243
+                  ]
+            },
+            {
+                  "name": "Shanghai Natural Wild Insect Kingdom",
+                  "text": "Dieses spezialisierte Museum in Shanghai beherbergt eine Vielzahl von lebenden Insekten und kleinen Tieren.",
+                  "category": "museum",
+                  "coords": [
+                        121.49342,
+                        31.242371
+                  ]
+            },
+            {
+                  "name": "Fitch Memorial Church",
+                  "text": "Diese historische christliche Kirche befindet sich in dem pulsierenden Viertel unweit des Shanghai Bund.",
+                  "category": "landmark",
+                  "coords": [
+                        121.47798,
+                        31.263819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aurora Art Museum",
+                  "text": "Egy figyelemre méltó múzeum shanghai-bund-history-v2 területén, amely ókori kínai régiségekből és jáde tárgyakból álló gyűjteményéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        121.495396,
+                        31.236503
+                  ]
+            },
+            {
+                  "name": "Former Rowing Club",
+                  "text": "Egy történelmi folyóparti látványosság shanghai-bund-history-v2 területén, amely eredetileg a helyi külföldi csónakázó közösséget szolgálta.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484251,
+                        31.245341
+                  ]
+            },
+            {
+                  "name": "Bund History Museum",
+                  "text": "Egy dedikált múzeum shanghai-bund-history-v2 területén, amely a híres helyi vízpart kronologikus fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.486769,
+                        31.244211
+                  ]
+            },
+            {
+                  "name": "Jardine Matheson Building",
+                  "text": "Egy ikonikus, kőhomlokzatú látványosság shanghai-bund-history-v2 területén, amely egy kiemelkedő történelmi kereskedelmi társaság számára épült.",
+                  "category": "landmark",
+                  "coords": [
+                        121.48558,
+                        31.242325
+                  ]
+            },
+            {
+                  "name": "Sassoon House",
+                  "text": "Egy ikonikus art deco építmény shanghai-bund-history-v2 területén, amely történelmi szállodájáról és zöld piramis alakú tetejéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        121.48535,
+                        31.241129
+                  ]
+            },
+            {
+                  "name": "Roundabout with Oriental Pearl Tower",
+                  "text": "Kijelölt kilátópont shanghai-bund-history-v2 területén, amely zavartalan rálátást biztosít a látogatóknak a különleges tévétoronyra.",
+                  "category": "natural",
+                  "coords": [
+                        121.496037,
+                        31.23962
+                  ]
+            },
+            {
+                  "name": "Shanghai Municipal History Museum",
+                  "text": "Jól ismert múzeum shanghai-bund-history-v2 területén, amely a város múltját bemutató élénk diorámákat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        121.495362,
+                        31.241586
+                  ]
+            },
+            {
+                  "name": "The Pearl",
+                  "text": "Egyedülálló kabaré színház shanghai-bund-history-v2 területén, amely egy történelmileg felújított egykori buddhista templomban kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        121.481682,
+                        31.254036
+                  ]
+            },
+            {
+                  "name": "The Memorial Site of the 4th National Congress of the Communist Party of China",
+                  "text": "Egy politikai történelmi múzeum shanghai-bund-history-v2 területén, amely egy korai pártgyűlés dokumentumait és tárgyi emlékeit állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        121.480413,
+                        31.257155
+                  ]
+            },
+            {
+                  "name": "Shen Yinmo's Former Residence",
+                  "text": "Ez a sanghaji egykori rezidencia a híres kalligráfus és költő, Shen Yinmo örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        121.482895,
+                        31.260484
+                  ]
+            },
+            {
+                  "name": "Hongkou Fire Brigade",
+                  "text": "Ez a történelmi tűzoltóépület a Hongkou negyedben található, nem messze a sanghaji Bundtól.",
+                  "category": "landmark",
+                  "coords": [
+                        121.483362,
+                        31.255376
+                  ]
+            },
+            {
+                  "name": "The Bund",
+                  "text": "Sanghaj e híres vízparti sétánya egy védett történelmi negyednek ad otthont a Huangpu-folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.487026,
+                        31.23911
+                  ]
+            },
+            {
+                  "name": "Former Consulate-General of the United Kingdom, Shanghai",
+                  "text": "Ez a sanghaji történelmi épület, amely egykor brit főkonzulátus volt, a 4-es szintű kulturális örökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484461,
+                        31.244255
+                  ]
+            },
+            {
+                  "name": "Zhapu Road Bridge",
+                  "text": "Ezt a sanghaji műemlékvédelem alatt álló hidat 1927-ben építették.",
+                  "category": "landmark",
+                  "coords": [
+                        121.483294,
+                        31.246148
+                  ]
+            },
+            {
+                  "name": "Waibaidu Bridge",
+                  "text": "Ezt a jelentős, műemlékvédelem alatt álló sanghaji acél rácsos hidat 1908. január 20-án adták át.",
+                  "category": "landmark",
+                  "coords": [
+                        121.485744,
+                        31.245307
+                  ]
+            },
+            {
+                  "name": "Museum of Art Pudong",
+                  "text": "Ezt a modern sanghaji művészeti galériát az Ateliers Jean Nouvel híres építésziroda tervezte.",
+                  "category": "museum",
+                  "coords": [
+                        121.491957,
+                        31.240243
+                  ]
+            },
+            {
+                  "name": "Shanghai Natural Wild Insect Kingdom",
+                  "text": "Ez a speciális sanghaji múzeum különféle élő rovarokat és kisállatokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        121.49342,
+                        31.242371
+                  ]
+            },
+            {
+                  "name": "Fitch Memorial Church",
+                  "text": "Ez a történelmi keresztény templom a sanghaji Bund közelében lévő nyüzsgő negyedben található.",
+                  "category": "landmark",
+                  "coords": [
+                        121.47798,
+                        31.263819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aurora Art Museum",
+                  "text": "Un muzeu notabil din shanghai-bund-history-v2 recunoscut pentru colecția sa de antichități și jaduri chinezești antice.",
+                  "category": "museum",
+                  "coords": [
+                        121.495396,
+                        31.236503
+                  ]
+            },
+            {
+                  "name": "Former Rowing Club",
+                  "text": "O atracție istorică pe malul râului în shanghai-bund-history-v2 care a servit inițial comunității locale de canotaj a expatriaților.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484251,
+                        31.245341
+                  ]
+            },
+            {
+                  "name": "Bund History Museum",
+                  "text": "Un muzeu dedicat din shanghai-bund-history-v2 care detaliază evoluția cronologică a renumitei faleze locale.",
+                  "category": "museum",
+                  "coords": [
+                        121.486769,
+                        31.244211
+                  ]
+            },
+            {
+                  "name": "Jardine Matheson Building",
+                  "text": "O atracție iconică cu fațadă de piatră din shanghai-bund-history-v2, construită pentru o companie comercială istorică proeminentă.",
+                  "category": "landmark",
+                  "coords": [
+                        121.48558,
+                        31.242325
+                  ]
+            },
+            {
+                  "name": "Sassoon House",
+                  "text": "O structură Art Deco iconică din shanghai-bund-history-v2, renumită pentru hotelul său istoric și acoperișul piramidal verde.",
+                  "category": "landmark",
+                  "coords": [
+                        121.48535,
+                        31.241129
+                  ]
+            },
+            {
+                  "name": "Roundabout with Oriental Pearl Tower",
+                  "text": "Un punct de belvedere desemnat din shanghai-bund-history-v2 oferind vizitatorilor o perspectivă neobstrucționată a turnului de televiziune distinct.",
+                  "category": "natural",
+                  "coords": [
+                        121.496037,
+                        31.23962
+                  ]
+            },
+            {
+                  "name": "Shanghai Municipal History Museum",
+                  "text": "Un muzeu bine-cunoscut din shanghai-bund-history-v2, care expune diorame vii ale trecutului orașului.",
+                  "category": "museum",
+                  "coords": [
+                        121.495362,
+                        31.241586
+                  ]
+            },
+            {
+                  "name": "The Pearl",
+                  "text": "Un teatru de cabaret unic din shanghai-bund-history-v2 care ocupă un fost templu budist recondiționat istoric.",
+                  "category": "cultural",
+                  "coords": [
+                        121.481682,
+                        31.254036
+                  ]
+            },
+            {
+                  "name": "The Memorial Site of the 4th National Congress of the Communist Party of China",
+                  "text": "Un muzeu de istorie politică din shanghai-bund-history-v2 care expune documente și artefacte de la o întrunire timpurie a partidului.",
+                  "category": "museum",
+                  "coords": [
+                        121.480413,
+                        31.257155
+                  ]
+            },
+            {
+                  "name": "Shen Yinmo's Former Residence",
+                  "text": "Această fostă reședință din Shanghai păstrează moștenirea faimosului caligraf și poet Shen Yinmo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.482895,
+                        31.260484
+                  ]
+            },
+            {
+                  "name": "Hongkou Fire Brigade",
+                  "text": "Această clădire istorică a pompierilor este situată în districtul Hongkou, nu departe de Shanghai Bund.",
+                  "category": "landmark",
+                  "coords": [
+                        121.483362,
+                        31.255376
+                  ]
+            },
+            {
+                  "name": "The Bund",
+                  "text": "Această faimoasă zonă de pe faleză din Shanghai găzduiește un district istoric protejat de-a lungul râului Huangpu.",
+                  "category": "landmark",
+                  "coords": [
+                        121.487026,
+                        31.23911
+                  ]
+            },
+            {
+                  "name": "Former Consulate-General of the United Kingdom, Shanghai",
+                  "text": "Această clădire istorică din Shanghai, cândva Consulatul General britanic, este recunoscută ca sit de patrimoniu de nivel 4.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484461,
+                        31.244255
+                  ]
+            },
+            {
+                  "name": "Zhapu Road Bridge",
+                  "text": "Acest pod din Shanghai, clasat ca monument istoric, a fost construit în anul 1927.",
+                  "category": "landmark",
+                  "coords": [
+                        121.483294,
+                        31.246148
+                  ]
+            },
+            {
+                  "name": "Waibaidu Bridge",
+                  "text": "Acest important pod cu zăbrele din oțel din Shanghai, parte a patrimoniului, a fost deschis pe 20 ianuarie 1908.",
+                  "category": "landmark",
+                  "coords": [
+                        121.485744,
+                        31.245307
+                  ]
+            },
+            {
+                  "name": "Museum of Art Pudong",
+                  "text": "Această galerie de artă modernă din Shanghai a fost proiectată de faimoasa firmă de arhitectură Ateliers Jean Nouvel.",
+                  "category": "museum",
+                  "coords": [
+                        121.491957,
+                        31.240243
+                  ]
+            },
+            {
+                  "name": "Shanghai Natural Wild Insect Kingdom",
+                  "text": "Acest muzeu specializat din Shanghai găzduiește o varietate de insecte vii și animale mici.",
+                  "category": "museum",
+                  "coords": [
+                        121.49342,
+                        31.242371
+                  ]
+            },
+            {
+                  "name": "Fitch Memorial Church",
+                  "text": "Această biserică creștină istorică este situată în cartierul plin de viață din apropiere de Shanghai Bund.",
+                  "category": "landmark",
+                  "coords": [
+                        121.47798,
+                        31.263819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aurora Art Museum",
+                  "text": "A notable museum in shanghai-bund-history-v2 recognized for its collection of ancient Chinese antiquities and jades.",
+                  "category": "museum",
+                  "coords": [
+                        121.495396,
+                        31.236503
+                  ]
+            },
+            {
+                  "name": "Former Rowing Club",
+                  "text": "A historic riverside attraction in shanghai-bund-history-v2 that originally served the local expatriate boating community.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484251,
+                        31.245341
+                  ]
+            },
+            {
+                  "name": "Bund History Museum",
+                  "text": "A dedicated museum in shanghai-bund-history-v2 detailing the chronological evolution of the renowned local waterfront.",
+                  "category": "museum",
+                  "coords": [
+                        121.486769,
+                        31.244211
+                  ]
+            },
+            {
+                  "name": "Jardine Matheson Building",
+                  "text": "An iconic stone-faced attraction in shanghai-bund-history-v2 built for a prominent historical trading company.",
+                  "category": "landmark",
+                  "coords": [
+                        121.48558,
+                        31.242325
+                  ]
+            },
+            {
+                  "name": "Sassoon House",
+                  "text": "An iconic Art Deco structure in shanghai-bund-history-v2 famed for its historic hotel and green pyramidal roof.",
+                  "category": "landmark",
+                  "coords": [
+                        121.48535,
+                        31.241129
+                  ]
+            },
+            {
+                  "name": "Roundabout with Oriental Pearl Tower",
+                  "text": "A designated viewpoint in shanghai-bund-history-v2 giving visitors an unobstructed perspective of the distinct television tower.",
+                  "category": "natural",
+                  "coords": [
+                        121.496037,
+                        31.23962
+                  ]
+            },
+            {
+                  "name": "Shanghai Municipal History Museum",
+                  "text": "A well-known museum in shanghai-bund-history-v2 displaying vivid dioramas of the city's past.",
+                  "category": "museum",
+                  "coords": [
+                        121.495362,
+                        31.241586
+                  ]
+            },
+            {
+                  "name": "The Pearl",
+                  "text": "A unique cabaret theatre in shanghai-bund-history-v2 occupying a historically refurbished former Buddhist temple.",
+                  "category": "cultural",
+                  "coords": [
+                        121.481682,
+                        31.254036
+                  ]
+            },
+            {
+                  "name": "The Memorial Site of the 4th National Congress of the Communist Party of China",
+                  "text": "A political history museum in shanghai-bund-history-v2 exhibiting documents and artifacts from an early party gathering.",
+                  "category": "museum",
+                  "coords": [
+                        121.480413,
+                        31.257155
+                  ]
+            },
+            {
+                  "name": "Shen Yinmo's Former Residence",
+                  "text": "This former residence in Shanghai preserves the legacy of the famous calligrapher and poet Shen Yinmo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.482895,
+                        31.260484
+                  ]
+            },
+            {
+                  "name": "Hongkou Fire Brigade",
+                  "text": "This historic fire brigade building is located in the Hongkou district not far from the Shanghai Bund.",
+                  "category": "landmark",
+                  "coords": [
+                        121.483362,
+                        31.255376
+                  ]
+            },
+            {
+                  "name": "The Bund",
+                  "text": "This famous waterfront area in Shanghai is a protected historical district along the Huangpu River.",
+                  "category": "landmark",
+                  "coords": [
+                        121.487026,
+                        31.23911
+                  ]
+            },
+            {
+                  "name": "Former Consulate-General of the United Kingdom, Shanghai",
+                  "text": "This historic building in Shanghai, once the British Consulate-General, is recognized as a level 4 heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        121.484461,
+                        31.244255
+                  ]
+            },
+            {
+                  "name": "Zhapu Road Bridge",
+                  "text": "This heritage-listed bridge in Shanghai dates back to the year 1927.",
+                  "category": "landmark",
+                  "coords": [
+                        121.483294,
+                        31.246148
+                  ]
+            },
+            {
+                  "name": "Waibaidu Bridge",
+                  "text": "This significant heritage-listed steel truss bridge in Shanghai was opened on January 20, 1908.",
+                  "category": "landmark",
+                  "coords": [
+                        121.485744,
+                        31.245307
+                  ]
+            },
+            {
+                  "name": "Museum of Art Pudong",
+                  "text": "This modern art gallery in Shanghai was famously designed by the architectural firm Ateliers Jean Nouvel.",
+                  "category": "museum",
+                  "coords": [
+                        121.491957,
+                        31.240243
+                  ]
+            },
+            {
+                  "name": "Shanghai Natural Wild Insect Kingdom",
+                  "text": "This specialized museum in Shanghai exhibits a variety of live insects and small animals.",
+                  "category": "museum",
+                  "coords": [
+                        121.49342,
+                        31.242371
+                  ]
+            },
+            {
+                  "name": "Fitch Memorial Church",
+                  "text": "This historic Christian church is situated in the vibrant district near the Shanghai Bund.",
+                  "category": "landmark",
+                  "coords": [
+                        121.47798,
+                        31.263819
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "CN-SH",
     coords: [121.491, 31.241],
@@ -531,7 +6057,520 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ruins-of-gaochang-history-v2",
+    id: "ruins-of-gaochang-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buddhist ancient pagoda",
+                  "text": "Ein verwitterter Lehmziegelbau, der das antike buddhistische Erbe der Seidenstraße widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        89.518318,
+                        42.868591
+                  ]
+            },
+            {
+                  "name": "Erkundungsgebiet 2",
+                  "text": "Eine archäologische Stätte in Gaochang, die die Wohnhausfundamente dieser alten Wüstenoase freilegt.",
+                  "category": "historical",
+                  "coords": [
+                        89.531247,
+                        42.84715
+                  ]
+            },
+            {
+                  "name": "Ruinen des Südosttempels",
+                  "text": "Diese Überreste deuten auf ein buddhistisches Heiligtum hin, das sich in der Nähe der gewaltigen Außenmauern von Gaochang befand.",
+                  "category": "historical",
+                  "coords": [
+                        89.531603,
+                        42.845873
+                  ]
+            },
+            {
+                  "name": "Erkundungsgebiet 3",
+                  "text": "Diese Ausgrabungszone offenbart den komplexen Stadtplan der antiken Stadt aus der Tang-Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        89.5339,
+                        42.850546
+                  ]
+            },
+            {
+                  "name": "Khan Fort Ruinen",
+                  "text": "Die Überreste einer befestigten Zitadelle, die einst von den örtlichen Herrschern in der alten Hauptstadt genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        89.527676,
+                        42.854553
+                  ]
+            },
+            {
+                  "name": "Gaochang Gucheng (Ruinen der Hun City, BC200)",
+                  "text": "Ein bedeutender Knotenpunkt der Seidenstraße, der im 1. Jahrhundert v. Chr. gegründet wurde und für seine massiven Stampflehm-Mauern bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        89.523498,
+                        42.850007
+                  ]
+            },
+            {
+                  "name": "Nördliches Explorationsgebiet",
+                  "text": "Jüngste Ausgrabungen haben sich hier auf die Freilegung der Verteidigungsanlagen des Nordtors von Gaochang konzentriert.",
+                  "category": "historical",
+                  "coords": [
+                        89.527835,
+                        42.858932
+                  ]
+            },
+            {
+                  "name": "Miyagi ruins",
+                  "text": "Diese Ruinen markieren den inneren Palastbereich, in dem einst der König von Gaochang residierte.",
+                  "category": "historical",
+                  "coords": [
+                        89.529361,
+                        42.861645
+                  ]
+            },
+            {
+                  "name": "Singim grottoes",
+                  "text": "Eine Gruppe alter buddhistischer Höhlen, die in die Klippen gehauen wurden und Reste farbenfroher Wandmalereien enthalten.",
+                  "category": "historical",
+                  "coords": [
+                        89.556972,
+                        42.91303
+                  ]
+            },
+            {
+                  "name": "Thermomether",
+                  "text": "Ein riesiges digitales Thermometer steht hier, um die extreme Sommerhitze des Flammenden Gebirges aufzuzeichnen.",
+                  "category": "landmark",
+                  "coords": [
+                        89.509822,
+                        42.917501
+                  ]
+            },
+            {
+                  "name": "National Park Flaming Mountain",
+                  "text": "Dieses Gebiet ist berühmt für seine erodierten roten Sandsteinhügel, die in der Sonne wie Feuer zu leuchten scheinen.",
+                  "category": "landmark",
+                  "coords": [
+                        89.505159,
+                        42.919181
+                  ]
+            },
+            {
+                  "name": "Big Buddha Tempelruinen",
+                  "text": "Die größte religiöse Stätte in Gaochang mit einem von kleinen Mönchsquartieren umgebenen Innenhof.",
+                  "category": "historical",
+                  "coords": [
+                        89.519026,
+                        42.85035
+                  ]
+            },
+            {
+                  "name": "Gaochang ruins",
+                  "text": "Diese UNESCO-Welterbestätte bewahrt die Lehmziegelreste eines 2.000 Jahre alten Königreichs an der Seidenstraße.",
+                  "category": "landmark",
+                  "coords": [
+                        89.52784,
+                        42.853518
+                  ]
+            },
+            {
+                  "name": "Astana-Gräber",
+                  "text": "Ein alter unterirdischer Friedhof, auf dem die trockene Wüstenluft die Bewohner der Seidenstraße auf natürliche Weise mumifiziert hat.",
+                  "category": "landmark",
+                  "coords": [
+                        89.52721,
+                        42.880367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buddhist ancient pagoda",
+                  "text": "Egy megkopott vályogtéglából készült építmény, amely a Selyemút ősi buddhista örökségét tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        89.518318,
+                        42.868591
+                  ]
+            },
+            {
+                  "name": "Feltárási terület 2",
+                  "text": "Egy régészeti terület Kaochangban, amely feltárja ennek az ősi sivatagi oázisnak a lakóház-alapjait.",
+                  "category": "historical",
+                  "coords": [
+                        89.531247,
+                        42.84715
+                  ]
+            },
+            {
+                  "name": "A délkeleti templom romjai",
+                  "text": "Ezek a romok eine buddhista szentélyre utalnak, amely Kaochang hatalmas külső falai közelében állt.",
+                  "category": "historical",
+                  "coords": [
+                        89.531603,
+                        42.845873
+                  ]
+            },
+            {
+                  "name": "Feltárási terület 3",
+                  "text": "Ez az ásatási terület az ősi város összetett városszerkezetét tárja fel a Tang-dinasztia idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        89.5339,
+                        42.850546
+                  ]
+            },
+            {
+                  "name": "Khan erőd romjai",
+                  "text": "Egy megerődített citadella maradványai, amelyet egykor a helyi uralkodók használtak az ősi fővárosban.",
+                  "category": "historical",
+                  "coords": [
+                        89.527676,
+                        42.854553
+                  ]
+            },
+            {
+                  "name": "Gaocsang Gucseng (hun város romjai, Kr.e.2.szd)",
+                  "text": "A Selyemút egyik jelentős csomópontja, amelyet az i. e. 1. században alapítottak, és masszív döngölt földfalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        89.523498,
+                        42.850007
+                  ]
+            },
+            {
+                  "name": "Északi feltárási terület",
+                  "text": "A legutóbbi ásatások itt Kaochang északi kapujának védelmi építményeinek feltárására összpontosítottak.",
+                  "category": "historical",
+                  "coords": [
+                        89.527835,
+                        42.858932
+                  ]
+            },
+            {
+                  "name": "Mijagi romjai",
+                  "text": "Ezek a romok a belső palotanegyedet jelölik, ahol egykor Kaochang királya lakott.",
+                  "category": "historical",
+                  "coords": [
+                        89.529361,
+                        42.861645
+                  ]
+            },
+            {
+                  "name": "Singim grottoes",
+                  "text": "A sziklákba vájt ősi buddhista barlangok csoportja, amelyekben színes falfestmények maradványai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        89.556972,
+                        42.91303
+                  ]
+            },
+            {
+                  "name": "Thermomether",
+                  "text": "Egy óriási digitális hőmérő áll itt, hogy rögzítse a Lángoló-hegyek extrém nyári hőségét.",
+                  "category": "landmark",
+                  "coords": [
+                        89.509822,
+                        42.917501
+                  ]
+            },
+            {
+                  "name": "National Park Flaming Mountain",
+                  "text": "Ez a terület híres erodált vörös homokkő dombjairól, amelyek a napsütésben úgy tűnnek, mintha lángolnának.",
+                  "category": "landmark",
+                  "coords": [
+                        89.505159,
+                        42.919181
+                  ]
+            },
+            {
+                  "name": "Nagy Buddha templom romjai",
+                  "text": "Kaochang legnagyobb vallási helyszíne, amely egy kis szerzetesi lakhelyekkel körülvett udvart tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        89.519026,
+                        42.85035
+                  ]
+            },
+            {
+                  "name": "Gaocsang (hun város romjai BC200)",
+                  "text": "Ez az UNESCO világörökségi helyszín egy 2000 éves selyemúti királyság vályogtégla maradványait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        89.52784,
+                        42.853518
+                  ]
+            },
+            {
+                  "name": "Astana nekropolisz",
+                  "text": "Egy ősi föld alatti temető, ahol a száraz sivatagi levegő természetes úton mumifikálta a Selyemút lakóit.",
+                  "category": "landmark",
+                  "coords": [
+                        89.52721,
+                        42.880367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buddhist ancient pagoda",
+                  "text": "O structură de cărămidă nearsă, erodată, care reflectă vechea moștenire budistă a Drumului Mătăsii.",
+                  "category": "castle",
+                  "coords": [
+                        89.518318,
+                        42.868591
+                  ]
+            },
+            {
+                  "name": "Exploration Area 2",
+                  "text": "Un sit arheologic în Gaochang care scoate la iveală fundațiile rezidențiale ale acestei antice oaze din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        89.531247,
+                        42.84715
+                  ]
+            },
+            {
+                  "name": "Southeast Temple ruins",
+                  "text": "Aceste vestigii indică un sanctuar budist situat lângă zidurile exterioare masive ale orașului Gaochang.",
+                  "category": "historical",
+                  "coords": [
+                        89.531603,
+                        42.845873
+                  ]
+            },
+            {
+                  "name": "Exploration Area 3",
+                  "text": "Această zonă de excavare dezvăluie planul urban complex al orașului antic din timpul dinastiei Tang.",
+                  "category": "historical",
+                  "coords": [
+                        89.5339,
+                        42.850546
+                  ]
+            },
+            {
+                  "name": "Khan Fort ruins",
+                  "text": "Rămășițele unei citadele fortificate, folosită odinioară de conducătorii locali în vechea capitală.",
+                  "category": "historical",
+                  "coords": [
+                        89.527676,
+                        42.854553
+                  ]
+            },
+            {
+                  "name": "Gaochang Gucheng (ruins of the Hun City, BC200)",
+                  "text": "Un centru major al Drumului Mătăsii fondat în secolul I î.Hr., cunoscut pentru zidurile sale masive din pământ bătătorit.",
+                  "category": "landmark",
+                  "coords": [
+                        89.523498,
+                        42.850007
+                  ]
+            },
+            {
+                  "name": "Northern exploration area",
+                  "text": "Săpăturile recente de aici s-au concentrat pe scoaterea la lumină a structurilor defensive ale porții de nord a orașului Gaochang.",
+                  "category": "historical",
+                  "coords": [
+                        89.527835,
+                        42.858932
+                  ]
+            },
+            {
+                  "name": "Miyagi ruins",
+                  "text": "Aceste ruine marchează zona palatului interior unde locuia odinioară regele din Gaochang.",
+                  "category": "historical",
+                  "coords": [
+                        89.529361,
+                        42.861645
+                  ]
+            },
+            {
+                  "name": "Singim grottoes",
+                  "text": "Un grup de peșteri budiste antice săpate în stânci, prezentând resturi de picturi murale colorate.",
+                  "category": "historical",
+                  "coords": [
+                        89.556972,
+                        42.91303
+                  ]
+            },
+            {
+                  "name": "Thermomether",
+                  "text": "Un termometru digital uriaș este amplasat aici pentru a înregistra căldura extremă de vară a Munților Flăcări.",
+                  "category": "landmark",
+                  "coords": [
+                        89.509822,
+                        42.917501
+                  ]
+            },
+            {
+                  "name": "National Park Flaming Mountain",
+                  "text": "Această zonă este faimoasă pentru dealurile sale de gresie roșie erodată care par să strălucească precum focul în soare.",
+                  "category": "landmark",
+                  "coords": [
+                        89.505159,
+                        42.919181
+                  ]
+            },
+            {
+                  "name": "Big Buddha Temple ruins",
+                  "text": "Cel mai mare sit religios din Gaochang, conținând o curte interioară înconjurată de mici chilii călugărești.",
+                  "category": "historical",
+                  "coords": [
+                        89.519026,
+                        42.85035
+                  ]
+            },
+            {
+                  "name": "Gaochang ruins",
+                  "text": "Acest sit din patrimoniul mondial UNESCO conservă vestigiile de cărămidă nearsă ale unui regat de pe Drumul Mătăsii vechi de 2.000 de ani.",
+                  "category": "landmark",
+                  "coords": [
+                        89.52784,
+                        42.853518
+                  ]
+            },
+            {
+                  "name": "Astana-Karakhoja Tombs;Astana Graveyard",
+                  "text": "Un cimitir subteran antic unde aerul uscat al deșertului a mumificat natural locuitorii de pe Drumul Mătăsii.",
+                  "category": "landmark",
+                  "coords": [
+                        89.52721,
+                        42.880367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buddhist ancient pagoda",
+                  "text": "A weathered mud-brick structure reflecting the ancient Buddhist heritage of the Silk Road.",
+                  "category": "castle",
+                  "coords": [
+                        89.518318,
+                        42.868591
+                  ]
+            },
+            {
+                  "name": "Exploration Area 2",
+                  "text": "An archaeological site within Gaochang uncovering the residential foundations of this ancient desert oasis.",
+                  "category": "historical",
+                  "coords": [
+                        89.531247,
+                        42.84715
+                  ]
+            },
+            {
+                  "name": "Southeast Temple ruins",
+                  "text": "These remains point to a Buddhist sanctuary located near the massive outer walls of Gaochang.",
+                  "category": "historical",
+                  "coords": [
+                        89.531603,
+                        42.845873
+                  ]
+            },
+            {
+                  "name": "Exploration Area 3",
+                  "text": "This excavation zone reveals the complex urban layout of the ancient city from the Tang Dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        89.5339,
+                        42.850546
+                  ]
+            },
+            {
+                  "name": "Khan Fort ruins",
+                  "text": "The remnants of a fortified citadel once used by the local rulers within the ancient capital.",
+                  "category": "historical",
+                  "coords": [
+                        89.527676,
+                        42.854553
+                  ]
+            },
+            {
+                  "name": "Gaochang Gucheng (ruins of the Hun City, BC200)",
+                  "text": "A major Silk Road hub founded in the 1st century BC, known for its massive rammed-earth walls.",
+                  "category": "landmark",
+                  "coords": [
+                        89.523498,
+                        42.850007
+                  ]
+            },
+            {
+                  "name": "Northern exploration area",
+                  "text": "Recent excavations here have focused on uncovering the defensive structures of Gaochang's northern gate.",
+                  "category": "historical",
+                  "coords": [
+                        89.527835,
+                        42.858932
+                  ]
+            },
+            {
+                  "name": "Miyagi ruins",
+                  "text": "These ruins mark the inner palace area where the king of Gaochang once resided.",
+                  "category": "historical",
+                  "coords": [
+                        89.529361,
+                        42.861645
+                  ]
+            },
+            {
+                  "name": "Singim grottoes",
+                  "text": "A group of ancient Buddhist caves carved into the cliffs, featuring remnants of colorful murals.",
+                  "category": "historical",
+                  "coords": [
+                        89.556972,
+                        42.91303
+                  ]
+            },
+            {
+                  "name": "Thermomether",
+                  "text": "A giant digital thermometer stands here to record the extreme summer heat of the Flaming Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        89.509822,
+                        42.917501
+                  ]
+            },
+            {
+                  "name": "National Park Flaming Mountain",
+                  "text": "This area is famous for its eroded red sandstone hills that appear to glow like fire in the sun.",
+                  "category": "landmark",
+                  "coords": [
+                        89.505159,
+                        42.919181
+                  ]
+            },
+            {
+                  "name": "Big Buddha Temple ruins",
+                  "text": "The largest religious site in Gaochang, containing a courtyard surrounded by small monks' quarters.",
+                  "category": "historical",
+                  "coords": [
+                        89.519026,
+                        42.85035
+                  ]
+            },
+            {
+                  "name": "Gaochang ruins",
+                  "text": "This UNESCO World Heritage site preserves the mud-brick remains of a 2,000-year-old Silk Road kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        89.52784,
+                        42.853518
+                  ]
+            },
+            {
+                  "name": "Astana-Karakhoja Tombs;Astana Graveyard",
+                  "text": "An ancient underground cemetery where the dry desert air has naturally mummified the Silk Road inhabitants.",
+                  "category": "landmark",
+                  "coords": [
+                        89.52721,
+                        42.880367
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "CN-XJ",
     coords: [89.529, 42.846],
@@ -579,7 +6618,484 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "nanjing-massacre-memorial-history-v2",
+    id: "nanjing-massacre-memorial-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "NIU BEER World Craft Beer Museum (Jianye Wuyue Filiale)",
+                  "text": "Dieses spezielle Museum beleuchtet die globale Geschichte und die Brauprozesse von Craft-Bier.",
+                  "category": "museum",
+                  "coords": [
+                        118.732191,
+                        32.038908
+                  ]
+            },
+            {
+                  "name": "Nanjing Yunjin Museum",
+                  "text": "Dieses Fachmuseum zeigt die komplexe Kunst und Geschichte der traditionellen Wolkenbrokat-Seidenweberei.",
+                  "category": "museum",
+                  "coords": [
+                        118.73957,
+                        32.038434
+                  ]
+            },
+            {
+                  "name": "Great Baoen Temple Tower",
+                  "text": "Dieser hoch aufragende Aussichtspunkt bietet einen weiten Panoramablick über das umliegende historische Viertel.",
+                  "category": "natural",
+                  "coords": [
+                        118.778646,
+                        32.010974
+                  ]
+            },
+            {
+                  "name": "Tomb of King Boni",
+                  "text": "Dieses monumentale Grabmal ist die Ruhestätte eines ausländischen Herrschers aus dem 15. Jahrhundert, der während eines Besuchs am Kaiserhof verstarb.",
+                  "category": "landmark",
+                  "coords": [
+                        118.752866,
+                        31.978208
+                  ]
+            },
+            {
+                  "name": "Nanjing's Eyes",
+                  "text": "Diese moderne Fußgängerbrücke zeichnet sich durch markante, den Fluss überspannende Doppelrundbögen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        118.697883,
+                        31.997067
+                  ]
+            },
+            {
+                  "name": "Gulin Park",
+                  "text": "Dieser weitläufige Stadtpark ist weithin für seine leuchtenden Pflaumenblütengärten bekannt.",
+                  "category": "park",
+                  "coords": [
+                        118.748159,
+                        32.068948
+                  ]
+            },
+            {
+                  "name": "Yuhuatai Scenic Area",
+                  "text": "Dieses bemerkenswerte Landschaftsgebiet und der Gedenkpark liegen auf einem historischen Hügel, der einst für seine bunten Kieselsteine bekannt war.",
+                  "category": "park",
+                  "coords": [
+                        118.776454,
+                        31.999936
+                  ]
+            },
+            {
+                  "name": "Nanjing Museum of the City Hall",
+                  "text": "Dieses lokale Museum stellt historische Artefakte und Dokumente aus, die die Zivilverwaltung der Region chronologisch erfassen.",
+                  "category": "museum",
+                  "coords": [
+                        118.777779,
+                        32.014633
+                  ]
+            },
+            {
+                  "name": "Jianchu Temple",
+                  "text": "Diese im Jahr 247 gegründete, ehrwürdige Kultstätte ist eine der frühesten buddhistischen Stätten der Region.",
+                  "category": "religious",
+                  "coords": [
+                        118.776958,
+                        32.00893
+                  ]
+            },
+            {
+                  "name": "Zhonghua Gate",
+                  "text": "Dieses massive Verteidigungsbauwerk verfügt über eine komplexe, mehrstufige Barbakane, die in der Vergangenheit zur Abwehr von Eindringlingen diente.",
+                  "category": "landmark",
+                  "coords": [
+                        118.776468,
+                        32.014366
+                  ]
+            },
+            {
+                  "name": "the Memorial Hall of the Victims in Nanjing Massacre by Japanese Invaders",
+                  "text": "Dieses ernüchternde Museum dokumentiert akribisch die tragischen Ereignisse und die menschlichen Verluste des Massakers von 1937.",
+                  "category": "museum",
+                  "coords": [
+                        118.736592,
+                        32.037589
+                  ]
+            },
+            {
+                  "name": "Jiangsu Centre for the Performing Arts Opera House",
+                  "text": "Dieser große Veranstaltungsort für darstellende Künste ist speziell mit modernster Akustik für große Opernproduktionen konzipiert.",
+                  "category": "cultural",
+                  "coords": [
+                        118.70779,
+                        32.013401
+                  ]
+            },
+            {
+                  "name": "Jiangsu Centre for the Performing Arts Concert Hall",
+                  "text": "Dieser moderne akustische Saal beherbergt regelmäßig große symphonische Konzerte und klassische Musikabende.",
+                  "category": "cultural",
+                  "coords": [
+                        118.708805,
+                        32.013716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NIU BEER World Craft Beer Museum (Jianye Wuyue Filiale)",
+                  "text": "Ez a dedikált múzeum a kézműves sör globális történetét és főzési folyamatait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        118.732191,
+                        32.038908
+                  ]
+            },
+            {
+                  "name": "Nanjing Yunjin Museum",
+                  "text": "Ez a specializált múzeum a hagyományos felhőbrokát selyemszövés bonyolult művészetét és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        118.73957,
+                        32.038434
+                  ]
+            },
+            {
+                  "name": "Great Baoen Temple Tower",
+                  "text": "Ez a tornyosuló kilátó panorámás kilátást nyújt a környező történelmi negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        118.778646,
+                        32.010974
+                  ]
+            },
+            {
+                  "name": "Tomb of King Boni",
+                  "text": "Ez a monumentális síremlék egy 15. századi külföldi uralkodó nyughelye, aki a császári udvarban tett látogatása során hunyt el.",
+                  "category": "landmark",
+                  "coords": [
+                        118.752866,
+                        31.978208
+                  ]
+            },
+            {
+                  "name": "Nanjing's Eyes",
+                  "text": "Ez a modern gyalogoshíd jellegzetes kettős körívekkel ível át a folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        118.697883,
+                        31.997067
+                  ]
+            },
+            {
+                  "name": "Gulin Park",
+                  "text": "Ez a kiterjedt városi park széles körben ismert élénk szilvavirág-kertjeiről.",
+                  "category": "park",
+                  "coords": [
+                        118.748159,
+                        32.068948
+                  ]
+            },
+            {
+                  "name": "Yuhuatai Scenic Area",
+                  "text": "Ez a figyelemre méltó festői terület és emlékpark egy történelmi dombon fekszik, amely egykor színes kavicsairól volt ismert.",
+                  "category": "park",
+                  "coords": [
+                        118.776454,
+                        31.999936
+                  ]
+            },
+            {
+                  "name": "Nanjing Museum of the City Hall",
+                  "text": "Ez a helyi múzeum a régió polgári közigazgatását bemutató történelmi tárgyakat és dokumentumokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        118.777779,
+                        32.014633
+                  ]
+            },
+            {
+                  "name": "Jianchu Temple",
+                  "text": "A 247-ben alapított tiszteletre méltó istentiszteleti hely a régió egyik legkorábbi buddhista helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        118.776958,
+                        32.00893
+                  ]
+            },
+            {
+                  "name": "Zhonghua Gate",
+                  "text": "Ez a hatalmas védelmi építmény egy összetett, többszintes barbakánnal rendelkezik, amelyet történelmileg a betolakodók visszaverésére használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        118.776468,
+                        32.014366
+                  ]
+            },
+            {
+                  "name": "the Memorial Hall of the Victims in Nanjing Massacre by Japanese Invaders",
+                  "text": "Ez a megrendítő múzeum aprólékosan dokumentálja az 1937-es mészárlás tragikus eseményeit és emberi áldozatait.",
+                  "category": "museum",
+                  "coords": [
+                        118.736592,
+                        32.037589
+                  ]
+            },
+            {
+                  "name": "Jiangsu Centre for the Performing Arts Opera House",
+                  "text": "Ezt a grandiózus előadó-művészeti helyszínt kifejezetten a legkorszerűbb akusztikával tervezték jelentős operaprodukciókhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        118.70779,
+                        32.013401
+                  ]
+            },
+            {
+                  "name": "Jiangsu Centre for the Performing Arts Concert Hall",
+                  "text": "Ez a modern akusztikus terem rendszeresen ad otthont nagyszabású szimfonikus koncerteknek és klasszikus zenei esteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        118.708805,
+                        32.013716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NIU BEER World Craft Beer Museum (Jianye Wuyue Filiale)",
+                  "text": "Acest muzeu dedicat explorează istoria globală și procesele de fabricare a berii artizanale.",
+                  "category": "museum",
+                  "coords": [
+                        118.732191,
+                        32.038908
+                  ]
+            },
+            {
+                  "name": "Nanjing Yunjin Museum",
+                  "text": "Acest muzeu specializat prezintă arta complexă și istoria țesutului tradițional al mătăsii cu model de nori.",
+                  "category": "museum",
+                  "coords": [
+                        118.73957,
+                        32.038434
+                  ]
+            },
+            {
+                  "name": "Great Baoen Temple Tower",
+                  "text": "Acest punct de belvedere impunător oferă o panoramă vastă asupra districtului istoric înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        118.778646,
+                        32.010974
+                  ]
+            },
+            {
+                  "name": "Tomb of King Boni",
+                  "text": "Acest mormânt monumental marchează locul de odihnă al unui conducător străin din secolul al XV-lea, care a murit în timpul unei vizite la curtea imperială.",
+                  "category": "landmark",
+                  "coords": [
+                        118.752866,
+                        31.978208
+                  ]
+            },
+            {
+                  "name": "Nanjing's Eyes",
+                  "text": "Acest pod pietonal modern se distinge prin arcadele sale circulare duble care traversează râul.",
+                  "category": "landmark",
+                  "coords": [
+                        118.697883,
+                        31.997067
+                  ]
+            },
+            {
+                  "name": "Gulin Park",
+                  "text": "Acest parc urban extins este recunoscut pe scară largă pentru grădinile sale vibrante cu pruni înfloriți.",
+                  "category": "park",
+                  "coords": [
+                        118.748159,
+                        32.068948
+                  ]
+            },
+            {
+                  "name": "Yuhuatai Scenic Area",
+                  "text": "Această zonă pitorească și parc memorial se află pe un deal istoric cunoscut cândva pentru pietricelele sale colorate.",
+                  "category": "park",
+                  "coords": [
+                        118.776454,
+                        31.999936
+                  ]
+            },
+            {
+                  "name": "Nanjing Museum of the City Hall",
+                  "text": "Acest muzeu local expune artefacte istorice și documente care descriu administrația civică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        118.777779,
+                        32.014633
+                  ]
+            },
+            {
+                  "name": "Jianchu Temple",
+                  "text": "Înființat în 247, acest lăcaș de cult venerabil reprezintă unul dintre cele mai vechi situri budiste din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        118.776958,
+                        32.00893
+                  ]
+            },
+            {
+                  "name": "Zhonghua Gate",
+                  "text": "Această structură defensivă masivă prezintă o barbicane complexă, cu mai multe niveluri, folosită istoric pentru a respinge invadatorii.",
+                  "category": "landmark",
+                  "coords": [
+                        118.776468,
+                        32.014366
+                  ]
+            },
+            {
+                  "name": "the Memorial Hall of the Victims in Nanjing Massacre by Japanese Invaders",
+                  "text": "Acest muzeu cutremurător documentează meticulos evenimentele tragice și bilanțul uman al masacrului din 1937.",
+                  "category": "museum",
+                  "coords": [
+                        118.736592,
+                        32.037589
+                  ]
+            },
+            {
+                  "name": "Jiangsu Centre for the Performing Arts Opera House",
+                  "text": "Această mare sală de spectacole este concepută special cu o acustică de ultimă generație pentru producții de operă majore.",
+                  "category": "cultural",
+                  "coords": [
+                        118.70779,
+                        32.013401
+                  ]
+            },
+            {
+                  "name": "Jiangsu Centre for the Performing Arts Concert Hall",
+                  "text": "Această sală acustică modernă găzduiește cu regularitate concerte simfonice pe scară largă și recitaluri de muzică clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        118.708805,
+                        32.013716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NIU BEER World Craft Beer Museum (Jianye Wuyue Filiale)",
+                  "text": "This dedicated museum explores the global history and brewing processes of craft beer.",
+                  "category": "museum",
+                  "coords": [
+                        118.732191,
+                        32.038908
+                  ]
+            },
+            {
+                  "name": "Nanjing Yunjin Museum",
+                  "text": "This specialized museum showcases the intricate art and history of traditional cloud-brocade silk weaving.",
+                  "category": "museum",
+                  "coords": [
+                        118.73957,
+                        32.038434
+                  ]
+            },
+            {
+                  "name": "Great Baoen Temple Tower",
+                  "text": "This towering viewpoint offers sweeping panoramic vistas over the surrounding historical district.",
+                  "category": "natural",
+                  "coords": [
+                        118.778646,
+                        32.010974
+                  ]
+            },
+            {
+                  "name": "Tomb of King Boni",
+                  "text": "This monumental tomb marks the resting place of a 15th-century foreign ruler who died while visiting the imperial court.",
+                  "category": "landmark",
+                  "coords": [
+                        118.752866,
+                        31.978208
+                  ]
+            },
+            {
+                  "name": "Nanjing's Eyes",
+                  "text": "This modern pedestrian bridge features distinctive twin circular arches spanning the river.",
+                  "category": "landmark",
+                  "coords": [
+                        118.697883,
+                        31.997067
+                  ]
+            },
+            {
+                  "name": "Gulin Park",
+                  "text": "This expansive urban park is widely recognized for its vibrant plum blossom gardens.",
+                  "category": "park",
+                  "coords": [
+                        118.748159,
+                        32.068948
+                  ]
+            },
+            {
+                  "name": "Yuhuatai Scenic Area",
+                  "text": "This notable scenic area and memorial park is situated on a historical hill once known for its colorful pebbles.",
+                  "category": "park",
+                  "coords": [
+                        118.776454,
+                        31.999936
+                  ]
+            },
+            {
+                  "name": "Nanjing Museum of the City Hall",
+                  "text": "This local museum exhibits historical artifacts and documents chronicling the civic administration of the region.",
+                  "category": "museum",
+                  "coords": [
+                        118.777779,
+                        32.014633
+                  ]
+            },
+            {
+                  "name": "Jianchu Temple",
+                  "text": "Established in 247, this venerable place of worship stands as one of the earliest Buddhist sites in the region.",
+                  "category": "religious",
+                  "coords": [
+                        118.776958,
+                        32.00893
+                  ]
+            },
+            {
+                  "name": "Zhonghua Gate",
+                  "text": "This massive defensive structure features a complex, multi-tiered barbican historically used to repel invaders.",
+                  "category": "landmark",
+                  "coords": [
+                        118.776468,
+                        32.014366
+                  ]
+            },
+            {
+                  "name": "the Memorial Hall of the Victims in Nanjing Massacre by Japanese Invaders",
+                  "text": "This sobering museum meticulously documents the tragic events and human toll of the 1937 massacre.",
+                  "category": "museum",
+                  "coords": [
+                        118.736592,
+                        32.037589
+                  ]
+            },
+            {
+                  "name": "Jiangsu Centre for the Performing Arts Opera House",
+                  "text": "This grand performing arts venue is specifically designed with state-of-the-art acoustics for major operatic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        118.70779,
+                        32.013401
+                  ]
+            },
+            {
+                  "name": "Jiangsu Centre for the Performing Arts Concert Hall",
+                  "text": "This modern acoustic hall regularly hosts large-scale symphonic concerts and classical music recitals.",
+                  "category": "cultural",
+                  "coords": [
+                        118.708805,
+                        32.013716
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "CN-JS",
     coords: [118.730, 32.036],
@@ -627,7 +7143,916 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "pingyao-ancient-city-history-v2",
+    id: "pingyao-ancient-city-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Former Site of Rishengchang",
+                  "text": "Die 1823 gegründete Stätte gilt als erste Wechselbank Chinas und Vorläufer des modernen Bankwesens.",
+                  "category": "museum",
+                  "coords": [
+                        112.177047,
+                        37.204433
+                  ]
+            },
+            {
+                  "name": "Former Residence of Lei Lütai",
+                  "text": "Das ehemalige Wohnhaus von Lei Lütai, dem ersten Manager der Rishengchang-Bank, zeigt traditionelle Architektur der Jin-Kaufleute.",
+                  "category": "museum",
+                  "coords": [
+                        112.175875,
+                        37.19804
+                  ]
+            },
+            {
+                  "name": "Shi Lou",
+                  "text": "Der dreistöckige Marktturm im Zentrum von Pingyao bietet einen weiten Blick über die erhaltenen Straßen der Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        112.178971,
+                        37.203787
+                  ]
+            },
+            {
+                  "name": "Nanshen Temple",
+                  "text": "Dieser historische Tempelkomplex in Pingyao ist der südlichen Gottheit gewidmet und bewahrt kunstvolle Holzschnitzereien.",
+                  "category": "landmark",
+                  "coords": [
+                        112.184599,
+                        37.186268
+                  ]
+            },
+            {
+                  "name": "Shuanglin-Tempel",
+                  "text": "Der Tempel ist berühmt für seine über 2.000 filigranen Tonskulpturen aus der Song-, Yuan- und Ming-Dynastie.",
+                  "category": "landmark",
+                  "coords": [
+                        112.125079,
+                        37.170795
+                  ]
+            },
+            {
+                  "name": "Huiji Bridge",
+                  "text": "Die 1671 errichtete Steinbrücke überspannt den Fluss außerhalb der Stadtmauern und ist ein Zeugnis der Qing-Ingenieurkunst.",
+                  "category": "landmark",
+                  "coords": [
+                        112.188783,
+                        37.20918
+                  ]
+            },
+            {
+                  "name": "Qingxu Temple",
+                  "text": "Der daoistische Tempel beherbergt heute das Kreismuseum von Pingyao und zeigt Relikte aus der lokalen Geschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        112.184189,
+                        37.206573
+                  ]
+            },
+            {
+                  "name": "City God Temple",
+                  "text": "Der 1869 wiederaufgebaute Tempelkomplex ist der Schutzgottheit der Stadt gewidmet und umfasst prächtige Gärten und Theaterbühnen.",
+                  "category": "landmark",
+                  "coords": [
+                        112.182418,
+                        37.202267
+                  ]
+            },
+            {
+                  "name": "Konfuzius-Tempel",
+                  "text": "Der 1163 gegründete Konfuziustempel in Pingyao besitzt die älteste erhaltene Haupthalle eines solchen Komplexes in China.",
+                  "category": "landmark",
+                  "coords": [
+                        112.183683,
+                        37.200556
+                  ]
+            },
+            {
+                  "name": "Pingyao County Government Museum",
+                  "text": "Das Museum im ehemaligen Regierungssitz (Yamen) zeigt die vollständige Verwaltungsstruktur eines kaiserlichen Landkreises.",
+                  "category": "museum",
+                  "coords": [
+                        112.176389,
+                        37.201303
+                  ]
+            },
+            {
+                  "name": "The Museum of the First Bodyguard Agency in North China",
+                  "text": "Dieses Museum dokumentiert die Geschichte der ersten Leibwächter-Agentur Nordchinas und den Schutz von Handelskarawanen.",
+                  "category": "museum",
+                  "coords": [
+                        112.179765,
+                        37.205096
+                  ]
+            },
+            {
+                  "name": "Pingyao's Beef Museum",
+                  "text": "Das Museum widmet sich der traditionellen Herstellung und Geschichte des berühmten gepökelten Rindfleischs aus Pingyao.",
+                  "category": "museum",
+                  "coords": [
+                        112.175985,
+                        37.207243
+                  ]
+            },
+            {
+                  "name": "Wei Sheng Chang Museum",
+                  "text": "Dieses Museum in einer ehemaligen Wechselbank zeigt antike Finanzdokumente und die Lebensweise der wohlhabenden Bankiers.",
+                  "category": "museum",
+                  "coords": [
+                        112.178615,
+                        37.204791
+                  ]
+            },
+            {
+                  "name": "Chinese Escort Museum",
+                  "text": "Das Museum veranschaulicht den gefährlichen Alltag der bewaffneten Eskorten, die Silbertransporte durch das Kaiserreich schützten.",
+                  "category": "museum",
+                  "coords": [
+                        112.177809,
+                        37.203173
+                  ]
+            },
+            {
+                  "name": "Wentaofang Ancient Weapon Museum",
+                  "text": "Dieses Museum zeigt eine beeindruckende Sammlung alter Waffen, die von den Sicherheitsagenturen der Jin-Kaufleute genutzt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        112.169701,
+                        37.203617
+                  ]
+            },
+            {
+                  "name": "China's rare newspaper Museum",
+                  "text": "Das Museum beherbergt eine seltene Sammlung historischer Zeitungen, die die politische Entwicklung Chinas über Jahrzehnte dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        112.180014,
+                        37.200524
+                  ]
+            },
+            {
+                  "name": "Tongxinggong Escort Museum",
+                  "text": "Diese ehemalige Eskorten-Agentur gewährt Einblicke in die Ausbildung und die strengen Ehrenkodizes der historischen Leibwächter.",
+                  "category": "museum",
+                  "coords": [
+                        112.179547,
+                        37.201566
+                  ]
+            },
+            {
+                  "name": "Zhenjunfu",
+                  "text": "Das Anwesen zeigt die luxuriöse Wohnkultur und die prächtigen Schnitzereien eines hochrangigen Beamtenwohnsitzes in Pingyao.",
+                  "category": "museum",
+                  "coords": [
+                        112.181812,
+                        37.204484
+                  ]
+            },
+            {
+                  "name": "Pingyao Hall",
+                  "text": "Die Halle diente einst als öffentlicher Versammlungsort und spiegelt die bürgerliche Organisation der historischen Handelsstadt wider.",
+                  "category": "museum",
+                  "coords": [
+                        112.182161,
+                        37.203474
+                  ]
+            },
+            {
+                  "name": "Pingyao Museum",
+                  "text": "In einem traditionellen Hofhaus untergebracht, beleuchtet dieses Museum die Geschichte Pingyaos als einstiges Bankenzentrum der Qing-Dynastie.",
+                  "category": "museum",
+                  "coords": [
+                        112.183345,
+                        37.20413
+                  ]
+            },
+            {
+                  "name": "Temple of the Dragon",
+                  "text": "Ein traditioneller Tempel in der Altstadt, der für seine kunstvollen Holzschnitzereien und Drachenmotive bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        112.187473,
+                        37.206504
+                  ]
+            },
+            {
+                  "name": "Zhenwu Temple North Gate",
+                  "text": "Ein historischer Eingang in der Nähe des Zhenwu-Tempels, geprägt von der typischen Verteidigungsarchitektur der Ming-Zeit.",
+                  "category": "landmark",
+                  "coords": [
+                        112.175332,
+                        37.209802
+                  ]
+            },
+            {
+                  "name": "YingXunMen",
+                  "text": "Das imposante Südtor der antiken Stadt dient als Haupteingang durch die massiven Verteidigungsanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        112.180694,
+                        37.198406
+                  ]
+            },
+            {
+                  "name": "TaiHeMen",
+                  "text": "Ein prachtvolles Tor innerhalb der Altstadt, das traditionelle Dachkonstruktionen und verzierte Ziegel zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        112.186397,
+                        37.200375
+                  ]
+            },
+            {
+                  "name": "Upper West Gate",
+                  "text": "Ein bedeutendes Verteidigungsportal an der westlichen Seite der UNESCO-geschützten Befestigungsanlagen.",
+                  "category": "landmark",
+                  "coords": [
+                        112.169765,
+                        37.196656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Former Site of Rishengchang",
+                  "text": "Az 1823-ban alapított helyszín Kína első váltóbankjaként és a modern bankrendszer előfutáraként ismert.",
+                  "category": "museum",
+                  "coords": [
+                        112.177047,
+                        37.204433
+                  ]
+            },
+            {
+                  "name": "Former Residence of Lei Lütai",
+                  "text": "Lei Lütai, a Rishengchang bank első igazgatójának egykori lakóháza a Jin kereskedők hagyományos építészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        112.175875,
+                        37.19804
+                  ]
+            },
+            {
+                  "name": "Shi Lou",
+                  "text": "A Pingyao központjában álló háromszintes piaci torony széles kilátást nyújt az óváros megőrzött utcáira.",
+                  "category": "museum",
+                  "coords": [
+                        112.178971,
+                        37.203787
+                  ]
+            },
+            {
+                  "name": "Nanshen Temple",
+                  "text": "Ez a Pingyaóban található történelmi templomkomplexum a déli istenségnek van szentelve, és díszes fafaragásokat őriz.",
+                  "category": "landmark",
+                  "coords": [
+                        112.184599,
+                        37.186268
+                  ]
+            },
+            {
+                  "name": "Shuanglin Temple",
+                  "text": "A templom híres a több mint 2000 filigrán agyagszobráról, amelyek a Szung-, Jüan- és Ming-dinasztia idejéből származnak.",
+                  "category": "landmark",
+                  "coords": [
+                        112.125079,
+                        37.170795
+                  ]
+            },
+            {
+                  "name": "Huiji Bridge",
+                  "text": "Az 1671-ben épült kőhíd a városfalakon kívüli folyón ível át, és a Csing-kori mérnöki tudomány bizonyítéka.",
+                  "category": "landmark",
+                  "coords": [
+                        112.188783,
+                        37.20918
+                  ]
+            },
+            {
+                  "name": "Qingxu Temple",
+                  "text": "A taoista templom ma a Pingyao megyei múzeumnak ad otthont, és a helyi történelem ereklyéit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        112.184189,
+                        37.206573
+                  ]
+            },
+            {
+                  "name": "City God Temple",
+                  "text": "Az 1869-ben újjáépített templomkomplexum a város védőistenségének szentelték, pompás kertekkel és színházi színpadokkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        112.182418,
+                        37.202267
+                  ]
+            },
+            {
+                  "name": "Confucian Temple",
+                  "text": "Az 1163-ban alapított Pingyao-i Konfuciusz-templom Kína egyik legrégebbi fennmaradt főcsarnokával büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        112.183683,
+                        37.200556
+                  ]
+            },
+            {
+                  "name": "Pingyao County Government Museum",
+                  "text": "Az egykori kormányzati székhelyen (Yamen) található múzeum bemutatja egy császári megye teljes közigazgatási felépítését.",
+                  "category": "museum",
+                  "coords": [
+                        112.176389,
+                        37.201303
+                  ]
+            },
+            {
+                  "name": "The Museum of the First Bodyguard Agency in North China",
+                  "text": "Ez a múzeum Észak-Kína első testőrügynökségének történetét és a kereskedelmi karavánok védelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        112.179765,
+                        37.205096
+                  ]
+            },
+            {
+                  "name": "Pingyao's Beef Museum",
+                  "text": "A múzeum a híres pingyaói pácolt marhahús hagyományos előállításának és történetének szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        112.175985,
+                        37.207243
+                  ]
+            },
+            {
+                  "name": "Wei Sheng Chang Museum",
+                  "text": "Ez az egykori váltóbankban található múzeum antik pénzügyi dokumentumokat és a tehetős bankárok életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        112.178615,
+                        37.204791
+                  ]
+            },
+            {
+                  "name": "Chinese Escort Museum",
+                  "text": "A múzeum szemlélteti a fegyveres kísérők veszélyes mindennapjait, akik az ezüstszállítmányokat védték a birodalmon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        112.177809,
+                        37.203173
+                  ]
+            },
+            {
+                  "name": "Wentaofang Ancient Weapon Museum",
+                  "text": "Ez a múzeum a Jin kereskedők biztonsági ügynökségei által használt régi fegyverek lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        112.169701,
+                        37.203617
+                  ]
+            },
+            {
+                  "name": "China's rare newspaper Museum",
+                  "text": "A múzeum történelmi újságok ritka gyűjteményének ad otthont, amelyek évtizedeken át dokumentálják Kína politikai fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        112.180014,
+                        37.200524
+                  ]
+            },
+            {
+                  "name": "Tongxinggong Escort Museum",
+                  "text": "Ez az egykori kísérő ügynökség betekintést nyújt a történelmi testőrök képzésébe és szigorú tiszteletkódexeibe.",
+                  "category": "museum",
+                  "coords": [
+                        112.179547,
+                        37.201566
+                  ]
+            },
+            {
+                  "name": "Zhenjunfu",
+                  "text": "Az ingatlan bemutatja egy magas rangú pingyaói hivatalnoki lakóhely fényűző lakáskultúráját és pompás faragásait.",
+                  "category": "museum",
+                  "coords": [
+                        112.181812,
+                        37.204484
+                  ]
+            },
+            {
+                  "name": "Pingyao Hall",
+                  "text": "A csarnok egykor nyilvános gyülekezőhelyként szolgált, és a történelmi kereskedőváros polgári szervezettségét tükrözi.",
+                  "category": "museum",
+                  "coords": [
+                        112.182161,
+                        37.203474
+                  ]
+            },
+            {
+                  "name": "Pingyao Museum",
+                  "text": "Egy hagyományos udvarházban kialakított múzeum, amely Pingyao történetét mutatja be a Csing-dinasztia korabeli bankközpontként.",
+                  "category": "museum",
+                  "coords": [
+                        112.183345,
+                        37.20413
+                  ]
+            },
+            {
+                  "name": "Temple of the Dragon",
+                  "text": "Az óváros egyik hagyományos temploma, amely bonyolult fafaragásairól és sárkánymotívumairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        112.187473,
+                        37.206504
+                  ]
+            },
+            {
+                  "name": "Zhenwu Temple North Gate",
+                  "text": "A Zhenwu-templom közelében található történelmi bejárat, amelyet a Ming-kori védelmi építészet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        112.175332,
+                        37.209802
+                  ]
+            },
+            {
+                  "name": "YingXunMen",
+                  "text": "Az óváros impozáns déli kapuja, amely főbejáratként szolgál a hatalmas védelmi sáncokon keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        112.180694,
+                        37.198406
+                  ]
+            },
+            {
+                  "name": "TaiHeMen",
+                  "text": "Az óvárosi komplexum egyik díszes kapuja, amely hagyományos tetőszerkezeteket és csempéket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        112.186397,
+                        37.200375
+                  ]
+            },
+            {
+                  "name": "Upper West Gate",
+                  "text": "Az UNESCO világörökségi védelem alatt álló erődítmények nyugati oldalának jelentős védelmi kapuja.",
+                  "category": "landmark",
+                  "coords": [
+                        112.169765,
+                        37.196656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Former Site of Rishengchang",
+                  "text": "Fondat în 1823, acest sit este considerat prima bancă de scont din China și precursorul sistemului bancar modern.",
+                  "category": "museum",
+                  "coords": [
+                        112.177047,
+                        37.204433
+                  ]
+            },
+            {
+                  "name": "Former Residence of Lei Lütai",
+                  "text": "Fosta reședință a lui Lei Lütai, primul manager al băncii Rishengchang, prezintă arhitectura tradițională a negustorilor Jin.",
+                  "category": "museum",
+                  "coords": [
+                        112.175875,
+                        37.19804
+                  ]
+            },
+            {
+                  "name": "Shi Lou",
+                  "text": "Turnul pieței cu trei etaje din centrul orașului Pingyao oferă o vedere panoramică asupra străzilor conservate ale orașului vechi.",
+                  "category": "museum",
+                  "coords": [
+                        112.178971,
+                        37.203787
+                  ]
+            },
+            {
+                  "name": "Nanshen Temple",
+                  "text": "Acest complex istoric de temple din Pingyao este dedicat zeității sudice și păstrează sculpturi în lemn elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        112.184599,
+                        37.186268
+                  ]
+            },
+            {
+                  "name": "Shuanglin Temple",
+                  "text": "Templul este renumit pentru cele peste 2.000 de sculpturi din lut filigranate din dinastiile Song, Yuan și Ming.",
+                  "category": "landmark",
+                  "coords": [
+                        112.125079,
+                        37.170795
+                  ]
+            },
+            {
+                  "name": "Huiji Bridge",
+                  "text": "Podul de piatră construit în 1671 traversează râul din afara zidurilor orașului și este o dovadă a ingineriei din perioada Qing.",
+                  "category": "landmark",
+                  "coords": [
+                        112.188783,
+                        37.20918
+                  ]
+            },
+            {
+                  "name": "Qingxu Temple",
+                  "text": "Templul taoist găzduiește astăzi muzeul județean Pingyao și expune relicve din istoria locală.",
+                  "category": "landmark",
+                  "coords": [
+                        112.184189,
+                        37.206573
+                  ]
+            },
+            {
+                  "name": "City God Temple",
+                  "text": "Complexul de temple reconstruit în 1869 este dedicat zeității protectoare a orașului și cuprinde grădini magnifice și scene de teatru.",
+                  "category": "landmark",
+                  "coords": [
+                        112.182418,
+                        37.202267
+                  ]
+            },
+            {
+                  "name": "Confucian Temple",
+                  "text": "Fondat în 1163, Templul lui Confucius din Pingyao are cea mai veche sală principală supraviețuitoare dintr-un astfel de complex din China.",
+                  "category": "landmark",
+                  "coords": [
+                        112.183683,
+                        37.200556
+                  ]
+            },
+            {
+                  "name": "Pingyao County Government Museum",
+                  "text": "Muzeul din fostul sediu guvernamental (Yamen) prezintă structura administrativă completă a unui județ imperial.",
+                  "category": "museum",
+                  "coords": [
+                        112.176389,
+                        37.201303
+                  ]
+            },
+            {
+                  "name": "The Museum of the First Bodyguard Agency in North China",
+                  "text": "Acest muzeu documentează istoria primei agenții de gărzi de corp din nordul Chinei și protecția caravanelor comerciale.",
+                  "category": "museum",
+                  "coords": [
+                        112.179765,
+                        37.205096
+                  ]
+            },
+            {
+                  "name": "Pingyao's Beef Museum",
+                  "text": "Muzeul este dedicat producției tradiționale și istoriei faimoasei cărți de vită murate din Pingyao.",
+                  "category": "museum",
+                  "coords": [
+                        112.175985,
+                        37.207243
+                  ]
+            },
+            {
+                  "name": "Wei Sheng Chang Museum",
+                  "text": "Acest muzeu dintr-o fostă bancă de scont expune documente financiare antice și modul de viață al bancherilor bogați.",
+                  "category": "museum",
+                  "coords": [
+                        112.178615,
+                        37.204791
+                  ]
+            },
+            {
+                  "name": "Chinese Escort Museum",
+                  "text": "Muzeul ilustrează viața de zi cu zi periculoasă a escortelor înarmate care protejau transporturile de argint prin imperiu.",
+                  "category": "museum",
+                  "coords": [
+                        112.177809,
+                        37.203173
+                  ]
+            },
+            {
+                  "name": "Wentaofang Ancient Weapon Museum",
+                  "text": "Acest muzeu expune o colecție impresionantă de arme vechi folosite de agențiile de securitate ale negustorilor Jin.",
+                  "category": "museum",
+                  "coords": [
+                        112.169701,
+                        37.203617
+                  ]
+            },
+            {
+                  "name": "China's rare newspaper Museum",
+                  "text": "Muzeul găzduiește o colecție rară de ziare istorice care documentează dezvoltarea politică a Chinei de-a lungul deceniilor.",
+                  "category": "museum",
+                  "coords": [
+                        112.180014,
+                        37.200524
+                  ]
+            },
+            {
+                  "name": "Tongxinggong Escort Museum",
+                  "text": "Această fostă agenție de escorte oferă o perspectivă asupra pregătirii și codurilor stricte de onoare ale gărzilor de corp istorice.",
+                  "category": "museum",
+                  "coords": [
+                        112.179547,
+                        37.201566
+                  ]
+            },
+            {
+                  "name": "Zhenjunfu",
+                  "text": "Proprietatea prezintă cultura locuirii de lux și sculpturile magnifice ale unei reședințe de funcționar de rang înalt din Pingyao.",
+                  "category": "museum",
+                  "coords": [
+                        112.181812,
+                        37.204484
+                  ]
+            },
+            {
+                  "name": "Pingyao Hall",
+                  "text": "Sala a servit odinioară ca loc de adunare publică și reflectă organizarea civică a orașului comercial istoric.",
+                  "category": "museum",
+                  "coords": [
+                        112.182161,
+                        37.203474
+                  ]
+            },
+            {
+                  "name": "Pingyao Museum",
+                  "text": "Găzduit într-o casă tradițională cu curte, acest muzeu prezintă istoria orașului Pingyao ca fost centru bancar din dinastia Qing.",
+                  "category": "museum",
+                  "coords": [
+                        112.183345,
+                        37.20413
+                  ]
+            },
+            {
+                  "name": "Temple of the Dragon",
+                  "text": "Un templu tradițional din orașul vechi, cunoscut pentru sculpturile sale complicate în lemn și motivele cu dragoni.",
+                  "category": "religious",
+                  "coords": [
+                        112.187473,
+                        37.206504
+                  ]
+            },
+            {
+                  "name": "Zhenwu Temple North Gate",
+                  "text": "O intrare istorică lângă Templul Zhenwu, caracterizată prin arhitectura defensivă tradițională în stil Ming.",
+                  "category": "landmark",
+                  "coords": [
+                        112.175332,
+                        37.209802
+                  ]
+            },
+            {
+                  "name": "YingXunMen",
+                  "text": "Poarta sudică impunătoare a orașului vechi, servind ca intrare principală prin bastioanele defensive masive.",
+                  "category": "landmark",
+                  "coords": [
+                        112.180694,
+                        37.198406
+                  ]
+            },
+            {
+                  "name": "TaiHeMen",
+                  "text": "O poartă grandioasă din complexul orașului vechi, cu acoperișuri tradiționale din țiglă și structuri din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        112.186397,
+                        37.200375
+                  ]
+            },
+            {
+                  "name": "Upper West Gate",
+                  "text": "Un portal defensiv semnificativ pe partea de vest a fortificațiilor incluse în patrimoniul UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        112.169765,
+                        37.196656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Former Site of Rishengchang",
+                  "text": "Founded in 1823, this site is recognized as China's first draft bank and the precursor to modern banking.",
+                  "category": "museum",
+                  "coords": [
+                        112.177047,
+                        37.204433
+                  ]
+            },
+            {
+                  "name": "Former Residence of Lei Lütai",
+                  "text": "The former residence of Lei Lütai, the first manager of the Rishengchang bank, showcases traditional Jin merchant architecture.",
+                  "category": "museum",
+                  "coords": [
+                        112.175875,
+                        37.19804
+                  ]
+            },
+            {
+                  "name": "Shi Lou",
+                  "text": "The three-story market tower in the center of Pingyao offers a wide view over the preserved streets of the ancient city.",
+                  "category": "museum",
+                  "coords": [
+                        112.178971,
+                        37.203787
+                  ]
+            },
+            {
+                  "name": "Nanshen Temple",
+                  "text": "This historic temple complex in Pingyao is dedicated to the Southern Deity and preserves elaborate wood carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        112.184599,
+                        37.186268
+                  ]
+            },
+            {
+                  "name": "Shuanglin Temple",
+                  "text": "This temple is famous for its over 2,000 delicate clay sculptures dating from the Song, Yuan, and Ming dynasties.",
+                  "category": "landmark",
+                  "coords": [
+                        112.125079,
+                        37.170795
+                  ]
+            },
+            {
+                  "name": "Huiji Bridge",
+                  "text": "Built in 1671, this stone bridge spans the river outside the city walls and is a testament to Qing dynasty engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        112.188783,
+                        37.20918
+                  ]
+            },
+            {
+                  "name": "Qingxu Temple",
+                  "text": "This Daoist temple now houses the Pingyao County Museum and displays relics from local history.",
+                  "category": "landmark",
+                  "coords": [
+                        112.184189,
+                        37.206573
+                  ]
+            },
+            {
+                  "name": "City God Temple",
+                  "text": "Rebuilt in 1869, this temple complex is dedicated to the city's guardian deity and features grand gardens and theater stages.",
+                  "category": "landmark",
+                  "coords": [
+                        112.182418,
+                        37.202267
+                  ]
+            },
+            {
+                  "name": "Confucian Temple",
+                  "text": "Founded in 1163, the Confucian Temple in Pingyao boasts the oldest surviving main hall of such a complex in China.",
+                  "category": "landmark",
+                  "coords": [
+                        112.183683,
+                        37.200556
+                  ]
+            },
+            {
+                  "name": "Pingyao County Government Museum",
+                  "text": "The museum in the former government seat (Yamen) shows the complete administrative structure of an imperial county.",
+                  "category": "museum",
+                  "coords": [
+                        112.176389,
+                        37.201303
+                  ]
+            },
+            {
+                  "name": "The Museum of the First Bodyguard Agency in North China",
+                  "text": "This museum documents the history of North China's first bodyguard agency and the protection of merchant caravans.",
+                  "category": "museum",
+                  "coords": [
+                        112.179765,
+                        37.205096
+                  ]
+            },
+            {
+                  "name": "Pingyao's Beef Museum",
+                  "text": "The museum is dedicated to the traditional production and history of Pingyao's famous cured beef.",
+                  "category": "museum",
+                  "coords": [
+                        112.175985,
+                        37.207243
+                  ]
+            },
+            {
+                  "name": "Wei Sheng Chang Museum",
+                  "text": "This museum in a former draft bank displays ancient financial documents and the lifestyle of wealthy bankers.",
+                  "category": "museum",
+                  "coords": [
+                        112.178615,
+                        37.204791
+                  ]
+            },
+            {
+                  "name": "Chinese Escort Museum",
+                  "text": "The museum illustrates the dangerous daily life of armed escorts who protected silver shipments across the empire.",
+                  "category": "museum",
+                  "coords": [
+                        112.177809,
+                        37.203173
+                  ]
+            },
+            {
+                  "name": "Wentaofang Ancient Weapon Museum",
+                  "text": "This museum displays an impressive collection of ancient weapons used by the security agencies of the Jin merchants.",
+                  "category": "museum",
+                  "coords": [
+                        112.169701,
+                        37.203617
+                  ]
+            },
+            {
+                  "name": "China's rare newspaper Museum",
+                  "text": "The museum houses a rare collection of historical newspapers documenting China's political development over decades.",
+                  "category": "museum",
+                  "coords": [
+                        112.180014,
+                        37.200524
+                  ]
+            },
+            {
+                  "name": "Tongxinggong Escort Museum",
+                  "text": "This former escort agency provides insights into the training and strict codes of honor of historical bodyguards.",
+                  "category": "museum",
+                  "coords": [
+                        112.179547,
+                        37.201566
+                  ]
+            },
+            {
+                  "name": "Zhenjunfu",
+                  "text": "The property showcases the luxurious living culture and magnificent carvings of a high-ranking official's residence in Pingyao.",
+                  "category": "museum",
+                  "coords": [
+                        112.181812,
+                        37.204484
+                  ]
+            },
+            {
+                  "name": "Pingyao Hall",
+                  "text": "The hall once served as a public meeting place and reflects the civic organization of the historic merchant city.",
+                  "category": "museum",
+                  "coords": [
+                        112.182161,
+                        37.203474
+                  ]
+            },
+            {
+                  "name": "Pingyao Museum",
+                  "text": "Housed in a traditional courtyard, this museum showcases Pingyao's history as a prominent Qing dynasty banking center.",
+                  "category": "museum",
+                  "coords": [
+                        112.183345,
+                        37.20413
+                  ]
+            },
+            {
+                  "name": "Temple of the Dragon",
+                  "text": "A traditional temple in the ancient city known for its intricate wood carvings and dragon motifs.",
+                  "category": "religious",
+                  "coords": [
+                        112.187473,
+                        37.206504
+                  ]
+            },
+            {
+                  "name": "Zhenwu Temple North Gate",
+                  "text": "A historic entrance near the Zhenwu Temple, characterized by its traditional Ming-style defensive architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        112.175332,
+                        37.209802
+                  ]
+            },
+            {
+                  "name": "YingXunMen",
+                  "text": "The imposing southern gate of the ancient city, serving as a primary entrance through the massive defensive ramparts.",
+                  "category": "landmark",
+                  "coords": [
+                        112.180694,
+                        37.198406
+                  ]
+            },
+            {
+                  "name": "TaiHeMen",
+                  "text": "A grand gateway within the ancient city complex, showcasing traditional bracket sets and tiled roofs.",
+                  "category": "landmark",
+                  "coords": [
+                        112.186397,
+                        37.200375
+                  ]
+            },
+            {
+                  "name": "Upper West Gate",
+                  "text": "A significant defensive portal on the western side of the UNESCO-listed fortifications.",
+                  "category": "landmark",
+                  "coords": [
+                        112.169765,
+                        37.196656
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "CN-SX",
     coords: [112.180, 37.202],
@@ -675,7 +8100,268 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "ruins-of-jiaohe-history-v2",
+    id: "ruins-of-jiaohe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jiaohe Ancient Uygur City Museum",
+                  "text": "Exponate zeichnen hier die Geschichte von Jiaohe nach, einer antiken Stadt, die auf einem steilen Inselplateau erbaut wurde.",
+                  "category": "museum",
+                  "coords": [
+                        89.07699,
+                        42.945163
+                  ]
+            },
+            {
+                  "name": "Southern Buddhist Temple",
+                  "text": "Ruinen eines bedeutenden buddhistischen Komplexes, der direkt in die weiche Erde des Jiaohe-Plateaus gehauen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        89.065834,
+                        42.948767
+                  ]
+            },
+            {
+                  "name": "Stupa Forest",
+                  "text": "Dieses Feld innerhalb der antiken Stadt Jiaohe beherbergt 101 eng beieinander stehende Stupas aus Lehmziegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        89.060202,
+                        42.955153
+                  ]
+            },
+            {
+                  "name": "Northeastern Buddhist Temple",
+                  "text": "Die Ruinen einer antiken buddhistischen Anlage im nordöstlichen Sektor der auf einem Felsplateau gelegenen Stadt Jiaohe.",
+                  "category": "historical",
+                  "coords": [
+                        89.06124,
+                        42.954151
+                  ]
+            },
+            {
+                  "name": "Northwestern Buddhist Temple",
+                  "text": "Überreste eines historischen Tempels im nordwestlichen Teil der Ruinenstadt, die für ihre aus dem Lössboden gegrabene Bauweise bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        89.06028,
+                        42.953106
+                  ]
+            },
+            {
+                  "name": "Jiaohe Ruins",
+                  "text": "Diese UNESCO-Welterbestätte liegt auf einer tränenförmigen Insel zwischen zwei tiefen Flussbetten und ist die am besten erhaltene Erdstadt der Welt.",
+                  "category": "historical",
+                  "coords": [
+                        89.061887,
+                        42.952582
+                  ]
+            },
+            {
+                  "name": "Central Pagoda",
+                  "text": "Die Überreste eines zentralen Turms in der antiken Stadt, der ursprünglich als wichtiges religiöses Wahrzeichen aus verdichteter Erde errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        89.062703,
+                        42.951679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jiaohe Ancient Uygur City Museum",
+                  "text": "Az itteni kiállítások Csiaoho történelmét mutatják be, amely egy meredek szigeti fennsíkon épült ősi város.",
+                  "category": "museum",
+                  "coords": [
+                        89.07699,
+                        42.945163
+                  ]
+            },
+            {
+                  "name": "Southern Buddhist Temple",
+                  "text": "Egy jelentős buddhista komplexum romjai, amelyet közvetlenül a Csiaoho-fennsík puha földjébe vájtak.",
+                  "category": "historical",
+                  "coords": [
+                        89.065834,
+                        42.948767
+                  ]
+            },
+            {
+                  "name": "Stupa Forest",
+                  "text": "Jiaohe romvárosában található terület, ahol 101 szorosan egymás mellett álló, vályogtéglából épült sztúpa látható.",
+                  "category": "landmark",
+                  "coords": [
+                        89.060202,
+                        42.955153
+                  ]
+            },
+            {
+                  "name": "Northeastern Buddhist Temple",
+                  "text": "Egy ősi buddhista komplexum romjai a sziklafalon fekvő Jiaohe városának északkeleti szektorában.",
+                  "category": "historical",
+                  "coords": [
+                        89.06124,
+                        42.954151
+                  ]
+            },
+            {
+                  "name": "Northwestern Buddhist Temple",
+                  "text": "Egy történelmi templom maradványai a romváros északnyugati részén, amely a lösz talajból kifaragott építkezési módjáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        89.06028,
+                        42.953106
+                  ]
+            },
+            {
+                  "name": "Jiaohe Ruins",
+                  "text": "Ez az UNESCO világörökségi helyszín egy könnycsepp alakú szigeten fekszik két folyómeder között, és a világ legjobb állapotban fennmaradt földvárosa.",
+                  "category": "historical",
+                  "coords": [
+                        89.061887,
+                        42.952582
+                  ]
+            },
+            {
+                  "name": "Central Pagoda",
+                  "text": "Az ókori város központi tornyának maradványai, amely eredetileg döngölt földből épült fontos vallási jelképként.",
+                  "category": "historical",
+                  "coords": [
+                        89.062703,
+                        42.951679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jiaohe Ancient Uygur City Museum",
+                  "text": "Exponatele de aici urmăresc istoria orașului Jiaohe, un oraș antic construit în mod unic pe un platou insular abrupt.",
+                  "category": "museum",
+                  "coords": [
+                        89.07699,
+                        42.945163
+                  ]
+            },
+            {
+                  "name": "Southern Buddhist Temple",
+                  "text": "Ruinele unui complex budist semnificativ săpat direct în pământul moale al platoului Jiaohe.",
+                  "category": "historical",
+                  "coords": [
+                        89.065834,
+                        42.948767
+                  ]
+            },
+            {
+                  "name": "Stupa Forest",
+                  "text": "Această zonă din orașul antic Jiaohe adăpostește 101 stupe din cărămidă de chirpici, dispuse dens într-un careu.",
+                  "category": "landmark",
+                  "coords": [
+                        89.060202,
+                        42.955153
+                  ]
+            },
+            {
+                  "name": "Northeastern Buddhist Temple",
+                  "text": "Ruinele unui complex budist antic situat în sectorul de nord-est al orașului Jiaohe, aflat pe un platou stâncos.",
+                  "category": "historical",
+                  "coords": [
+                        89.06124,
+                        42.954151
+                  ]
+            },
+            {
+                  "name": "Northwestern Buddhist Temple",
+                  "text": "Rămășițele unui templu istoric în partea de nord-vest a orașului-ruină, cunoscut pentru arhitectura săpată direct în solul de loess.",
+                  "category": "historical",
+                  "coords": [
+                        89.06028,
+                        42.953106
+                  ]
+            },
+            {
+                  "name": "Jiaohe Ruins",
+                  "text": "Acest sit din patrimoniul mondial UNESCO se află pe o insulă în formă de lacrimă între două albii de râu și este cel mai bine conservat oraș de pământ din lume.",
+                  "category": "historical",
+                  "coords": [
+                        89.061887,
+                        42.952582
+                  ]
+            },
+            {
+                  "name": "Central Pagoda",
+                  "text": "Rămășițele unui turn central din orașul antic, construit inițial din pământ bătătorit ca un important reper religios.",
+                  "category": "historical",
+                  "coords": [
+                        89.062703,
+                        42.951679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jiaohe Ancient Uygur City Museum",
+                  "text": "Exhibits here trace the history of Jiaohe, an ancient city uniquely built on a steep island plateau.",
+                  "category": "museum",
+                  "coords": [
+                        89.07699,
+                        42.945163
+                  ]
+            },
+            {
+                  "name": "Southern Buddhist Temple",
+                  "text": "Ruins of a significant Buddhist complex carved directly into the soft earth of the Jiaohe plateau.",
+                  "category": "historical",
+                  "coords": [
+                        89.065834,
+                        42.948767
+                  ]
+            },
+            {
+                  "name": "Stupa Forest",
+                  "text": "A field within the ancient city of Jiaohe containing 101 mud-brick stupas tightly packed in a square formation.",
+                  "category": "landmark",
+                  "coords": [
+                        89.060202,
+                        42.955153
+                  ]
+            },
+            {
+                  "name": "Northeastern Buddhist Temple",
+                  "text": "The ruins of an ancient Buddhist complex located in the northeastern sector of the cliff-top city of Jiaohe.",
+                  "category": "historical",
+                  "coords": [
+                        89.06124,
+                        42.954151
+                  ]
+            },
+            {
+                  "name": "Northwestern Buddhist Temple",
+                  "text": "Remains of a historic temple in the northwestern part of the ruined city, known for its architecture carved directly from the loess soil.",
+                  "category": "historical",
+                  "coords": [
+                        89.06028,
+                        42.953106
+                  ]
+            },
+            {
+                  "name": "Jiaohe Ruins",
+                  "text": "This UNESCO World Heritage site sits on a teardrop-shaped island between two river canyons and is the world's best-preserved earthen city.",
+                  "category": "historical",
+                  "coords": [
+                        89.061887,
+                        42.952582
+                  ]
+            },
+            {
+                  "name": "Central Pagoda",
+                  "text": "The remains of a central tower in the ancient city, originally constructed from rammed earth as a major religious landmark.",
+                  "category": "historical",
+                  "coords": [
+                        89.062703,
+                        42.951679
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "CN-XJ",
     coords: [89.168, 42.915],
@@ -723,7 +8409,448 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "wudang-monasteries-history-v2",
+    id: "wudang-monasteries-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "old bridge",
+                  "text": "Atmosphärische Steinruinen einer alten Brücke, die einen Gebirgsbach im heiligen Wudang-Gebirge überquert.",
+                  "category": "historical",
+                  "coords": [
+                        111.01307,
+                        32.44065
+                  ]
+            },
+            {
+                  "name": "Mount Wudang",
+                  "text": "Ein heiliges daoistisches Gebirge, berühmt als Zentrum der Kampfkünste und für seine antike Klosterarchitektur.",
+                  "category": "natural",
+                  "coords": [
+                        111.00445,
+                        32.400761
+                  ]
+            },
+            {
+                  "name": "Five-Dragon Temple",
+                  "text": "Archäologische Überreste eines der frühesten daoistischen Tempel, die an den Hängen des Wudang-Gebirges erbaut wurden.",
+                  "category": "historical",
+                  "coords": [
+                        111.001358,
+                        32.455172
+                  ]
+            },
+            {
+                  "name": "Purple Cloud Temple",
+                  "text": "Der größte daoistische Komplex am Mount Wudang mit terrassierten Hallen und charakteristischen lila Ziegeldächern.",
+                  "category": "religious",
+                  "coords": [
+                        111.022995,
+                        32.426527
+                  ]
+            },
+            {
+                  "name": "Nanyan Temple",
+                  "text": "Dieser beeindruckende Tempel wurde direkt in die steilen Felswände des Nanyan-Gipfels hineingebaut.",
+                  "category": "religious",
+                  "coords": [
+                        111.011278,
+                        32.422924
+                  ]
+            },
+            {
+                  "name": "Soaring Cliff",
+                  "text": "Dieser heilige taoistische Ort an den Wudang-Klippen bietet einen weiten Blick über das Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        111.007585,
+                        32.422287
+                  ]
+            },
+            {
+                  "name": "Thunder God Temple",
+                  "text": "Ein kleiner taoistischer Tempel im Wudang-Gebirge, der der Verehrung des Donnergottes gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        111.016121,
+                        32.425235
+                  ]
+            },
+            {
+                  "name": "Yellow Dragon Cave",
+                  "text": "In dieser natürlichen Höhle praktizierten taoistische Eremiten Legenden nach ihre Alchemie.",
+                  "category": "landmark",
+                  "coords": [
+                        111.008923,
+                        32.408548
+                  ]
+            },
+            {
+                  "name": "Facing Heaven Palace",
+                  "text": "Ein historisches Tor und Tempelkomplex auf dem steilen Pilgerpfad zum Gipfel des Wudang Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        111.009138,
+                        32.406267
+                  ]
+            },
+            {
+                  "name": "Langmei Shrine",
+                  "text": "Dieser Schrein erinnert an die Legende der Langmei-Früchte, die einst im Wudang-Gebirge blühten.",
+                  "category": "landmark",
+                  "coords": [
+                        111.013273,
+                        32.41904
+                  ]
+            },
+            {
+                  "name": "Taizipo Palace",
+                  "text": "Diese Palastanlage ist berühmt für ihre markante, wellenförmige Mauer, die sich den Hang entlangwindet.",
+                  "category": "landmark",
+                  "coords": [
+                        111.058738,
+                        32.445077
+                  ]
+            },
+            {
+                  "name": "Qiongtai Palace",
+                  "text": "Ein weitläufiger Palastkomplex am Fuße des Tianzhu-Gipfels, der als Basis für den Aufstieg dient.",
+                  "category": "landmark",
+                  "coords": [
+                        111.021334,
+                        32.39553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "old bridge",
+                  "text": "Egy ősi kőhíd hangulatos maradványai a szent Wudang-hegység egyik hegyi patakja felett.",
+                  "category": "historical",
+                  "coords": [
+                        111.01307,
+                        32.44065
+                  ]
+            },
+            {
+                  "name": "Mount Wudang",
+                  "text": "Szent taoista hegylánc, amely harcművészeti központként és ősi kolostori építészetéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        111.00445,
+                        32.400761
+                  ]
+            },
+            {
+                  "name": "Five-Dragon Temple",
+                  "text": "Az egyik legkorábbi taoista templom régészeti maradványai a Wudang-hegy lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        111.001358,
+                        32.455172
+                  ]
+            },
+            {
+                  "name": "Purple Cloud Temple",
+                  "text": "A Wudang-hegy legnagyobb taoista komplexuma, többszintes csarnokokkal és jellegzetes lila cseréptetőkkel.",
+                  "category": "religious",
+                  "coords": [
+                        111.022995,
+                        32.426527
+                  ]
+            },
+            {
+                  "name": "Nanyan Temple",
+                  "text": "Ez a látványos taoista templom közvetlenül a Nanyan-csúcs meredek sziklafalaiba épült.",
+                  "category": "religious",
+                  "coords": [
+                        111.011278,
+                        32.422924
+                  ]
+            },
+            {
+                  "name": "Soaring Cliff",
+                  "text": "Ez a szent taoista hely a Wudang-sziklákon lenyűgöző kilátást nyújt a környező hegységre.",
+                  "category": "landmark",
+                  "coords": [
+                        111.007585,
+                        32.422287
+                  ]
+            },
+            {
+                  "name": "Thunder God Temple",
+                  "text": "A Wudang-hegység egyik taoista temploma, amelyet a Villámisten tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        111.016121,
+                        32.425235
+                  ]
+            },
+            {
+                  "name": "Yellow Dragon Cave",
+                  "text": "Ebben a természetes barlangban a legendák szerint taoista remeték gyakorolták az alkímiát.",
+                  "category": "landmark",
+                  "coords": [
+                        111.008923,
+                        32.408548
+                  ]
+            },
+            {
+                  "name": "Facing Heaven Palace",
+                  "text": "Történelmi kapu és templomkomplexum a Wudang-hegy csúcsára vezető meredek zarándokúton.",
+                  "category": "landmark",
+                  "coords": [
+                        111.009138,
+                        32.406267
+                  ]
+            },
+            {
+                  "name": "Langmei Shrine",
+                  "text": "Ez a szentély a Wudang-hegységben egykor virágzó Langmei-gyümölcsök legendájának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        111.013273,
+                        32.41904
+                  ]
+            },
+            {
+                  "name": "Taizipo Palace",
+                  "text": "Ez a palotakomplexum a domboldalon végigkígyózó, jellegzetes hullámvonalú faláról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        111.058738,
+                        32.445077
+                  ]
+            },
+            {
+                  "name": "Qiongtai Palace",
+                  "text": "Kiterjedt palotakomplexum a Tianzhu-csúcs lábánál, amely a hegyre való feljutás bázisául szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        111.021334,
+                        32.39553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "old bridge",
+                  "text": "Ruinele atmosferice din piatră ale unui pod antic care traversează un pârâu de munte în masivul sacru Wudang.",
+                  "category": "historical",
+                  "coords": [
+                        111.01307,
+                        32.44065
+                  ]
+            },
+            {
+                  "name": "Mount Wudang",
+                  "text": "Un masiv muntos taoist sacru, faimos ca centru pentru artele marțiale și pentru colecția sa de arhitectură monastică antică.",
+                  "category": "natural",
+                  "coords": [
+                        111.00445,
+                        32.400761
+                  ]
+            },
+            {
+                  "name": "Five-Dragon Temple",
+                  "text": "Rămășițele arheologice ale unuia dintre cele mai vechi temple taoiste construite pe pantele Muntelui Wudang.",
+                  "category": "historical",
+                  "coords": [
+                        111.001358,
+                        32.455172
+                  ]
+            },
+            {
+                  "name": "Purple Cloud Temple",
+                  "text": "Cel mai mare și mai bine conservat complex taoist de pe Muntele Wudang, cu săli etajate și acoperișuri cu țiglă mov.",
+                  "category": "religious",
+                  "coords": [
+                        111.022995,
+                        32.426527
+                  ]
+            },
+            {
+                  "name": "Nanyan Temple",
+                  "text": "Acest templu impresionant este construit direct în pereții abrupți de stâncă ai vârfului Nanyan.",
+                  "category": "religious",
+                  "coords": [
+                        111.011278,
+                        32.422924
+                  ]
+            },
+            {
+                  "name": "Soaring Cliff",
+                  "text": "Acest sit sacru taoist de pe stâncile Wudang oferă o vedere panoramică asupra munților din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        111.007585,
+                        32.422287
+                  ]
+            },
+            {
+                  "name": "Thunder God Temple",
+                  "text": "Un templu taoist din munții Wudang, dedicat venerării Zeului Tunetului.",
+                  "category": "landmark",
+                  "coords": [
+                        111.016121,
+                        32.425235
+                  ]
+            },
+            {
+                  "name": "Yellow Dragon Cave",
+                  "text": "În această peșteră naturală, legendele spun că pustnicii taoiști își practicau alchimia.",
+                  "category": "landmark",
+                  "coords": [
+                        111.008923,
+                        32.408548
+                  ]
+            },
+            {
+                  "name": "Facing Heaven Palace",
+                  "text": "O poartă istorică și un complex de temple pe traseul abrupt de pelerinaj către vârful Wudang Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        111.009138,
+                        32.406267
+                  ]
+            },
+            {
+                  "name": "Langmei Shrine",
+                  "text": "Acest altar comemorează legenda fructelor Langmei care înfloreau odinioară în munții Wudang.",
+                  "category": "landmark",
+                  "coords": [
+                        111.013273,
+                        32.41904
+                  ]
+            },
+            {
+                  "name": "Taizipo Palace",
+                  "text": "Acest complex de palate este faimos pentru zidul său ondulat care șerpuiește de-a lungul dealului.",
+                  "category": "landmark",
+                  "coords": [
+                        111.058738,
+                        32.445077
+                  ]
+            },
+            {
+                  "name": "Qiongtai Palace",
+                  "text": "Un complex vast de palate la poalele vârfului Tianzhu, care servește drept bază pentru urcare.",
+                  "category": "landmark",
+                  "coords": [
+                        111.021334,
+                        32.39553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "old bridge",
+                  "text": "The atmospheric stone ruins of an ancient bridge crossing a mountain stream within the sacred Wudang range.",
+                  "category": "historical",
+                  "coords": [
+                        111.01307,
+                        32.44065
+                  ]
+            },
+            {
+                  "name": "Mount Wudang",
+                  "text": "A sacred Taoist mountain range famous as a center for martial arts and its collection of ancient monastic architecture.",
+                  "category": "natural",
+                  "coords": [
+                        111.00445,
+                        32.400761
+                  ]
+            },
+            {
+                  "name": "Five-Dragon Temple",
+                  "text": "The archaeological remains of one of the earliest Taoist temples built on the slopes of Mount Wudang.",
+                  "category": "historical",
+                  "coords": [
+                        111.001358,
+                        32.455172
+                  ]
+            },
+            {
+                  "name": "Purple Cloud Temple",
+                  "text": "The largest and best-preserved Taoist complex on Mount Wudang, featuring tiered halls and purple-tiled roofs.",
+                  "category": "religious",
+                  "coords": [
+                        111.022995,
+                        32.426527
+                  ]
+            },
+            {
+                  "name": "Nanyan Temple",
+                  "text": "This spectacular Taoist temple is built directly into the steep cliff faces of the Nanyan Peak.",
+                  "category": "religious",
+                  "coords": [
+                        111.011278,
+                        32.422924
+                  ]
+            },
+            {
+                  "name": "Soaring Cliff",
+                  "text": "This sacred Taoist site on the Wudang cliffs offers a sweeping view over the mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        111.007585,
+                        32.422287
+                  ]
+            },
+            {
+                  "name": "Thunder God Temple",
+                  "text": "A Taoist temple in the Wudang Mountains dedicated to the worship of the Thunder God.",
+                  "category": "landmark",
+                  "coords": [
+                        111.016121,
+                        32.425235
+                  ]
+            },
+            {
+                  "name": "Yellow Dragon Cave",
+                  "text": "In this natural cave, legends say Taoist hermits practiced their alchemy.",
+                  "category": "landmark",
+                  "coords": [
+                        111.008923,
+                        32.408548
+                  ]
+            },
+            {
+                  "name": "Facing Heaven Palace",
+                  "text": "A historical gateway and temple complex on the steep pilgrimage path to the summit of Wudang Shan.",
+                  "category": "landmark",
+                  "coords": [
+                        111.009138,
+                        32.406267
+                  ]
+            },
+            {
+                  "name": "Langmei Shrine",
+                  "text": "This shrine commemorates the legend of the Langmei fruits that once flourished in the Wudang Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        111.013273,
+                        32.41904
+                  ]
+            },
+            {
+                  "name": "Taizipo Palace",
+                  "text": "This palace complex is famous for its distinctive undulating wall that snakes along the hillside.",
+                  "category": "landmark",
+                  "coords": [
+                        111.058738,
+                        32.445077
+                  ]
+            },
+            {
+                  "name": "Qiongtai Palace",
+                  "text": "A sprawling palace complex at the foot of Tianzhu Peak, serving as a base for the ascent.",
+                  "category": "landmark",
+                  "coords": [
+                        111.021334,
+                        32.39553
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "CN-HB",
     coords: [111.003, 32.401],
@@ -771,7 +8898,304 @@ export const poiExtraChinaHistoryV2: POI[] = [
     },
   },
   {
-    id: "dazu-rock-carvings-history-v2",
+    id: "dazu-rock-carvings-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beita Temple Ruins",
+                  "text": "Die archäologischen Überreste einer antiken Tempelanlage rund um die historische Nordpagode auf dem Beishan-Hügel.",
+                  "category": "historical",
+                  "coords": [
+                        105.704581,
+                        29.717262
+                  ]
+            },
+            {
+                  "name": "Changzhou Ancient City",
+                  "text": "Ein rekonstruierter Kulturbereich im Architekturstil der Song-Dynastie, der die traditionellen Volksbräuche des alten Dazu zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        105.741855,
+                        29.694304
+                  ]
+            },
+            {
+                  "name": "Baodingshan Scenic Area",
+                  "text": "Dieses weitläufige Landschaftsgebiet beherbergt weltberühmte Felsritzungen, darunter die prächtige, blattvergoldete Tausendarmige Guanyin.",
+                  "category": "landmark",
+                  "coords": [
+                        105.787672,
+                        29.748532
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Nanshan site",
+                  "text": "Diese Stätte ist besonders bekannt für ihre exquisiten daoistischen Steinmetzarbeiten aus der Zeit der Südlichen Song-Dynastie.",
+                  "category": "landmark",
+                  "coords": [
+                        105.716748,
+                        29.686677
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carving Museum",
+                  "text": "Ein modernes Museum, das tiefe Einblicke in die Geschichte, Kunstfertigkeit und Erhaltung der UNESCO-geschützten Dazu-Felschnitzereien bietet.",
+                  "category": "museum",
+                  "coords": [
+                        105.790921,
+                        29.748301
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Baoding Shan site",
+                  "text": "Die berühmteste Stätte in Dazu mit einem monumentalen, 31 Meter langen liegenden Buddha und lebendigen Szenen entlang einer U-förmigen Klippe.",
+                  "category": "landmark",
+                  "coords": [
+                        105.793441,
+                        29.754683
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Beishan site",
+                  "text": "Diese für ihre feine Handwerkskunst bekannte Stätte enthält hunderte Nischen, darunter das berühmte Relief des „Lebensrads“.",
+                  "category": "landmark",
+                  "coords": [
+                        105.70731,
+                        29.714391
+                  ]
+            },
+            {
+                  "name": "Guangda Temple",
+                  "text": "Eine traditionelle buddhistische Tempelanlage im Baodingshan-Gebiet, die als spirituelles Zentrum für Besucher der Felsritzungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        105.790149,
+                        29.750436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beita Temple Ruins",
+                  "text": "Egy ősi templomkomplexum régészeti maradványai a Beishan-dombon található történelmi Északi Pagoda körül.",
+                  "category": "historical",
+                  "coords": [
+                        105.704581,
+                        29.717262
+                  ]
+            },
+            {
+                  "name": "Changzhou Ancient City",
+                  "text": "A Song-dinasztia építészeti stílusában rekonstruált kulturális negyed, amely az ősi Dazu hagyományos népi szokásait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        105.741855,
+                        29.694304
+                  ]
+            },
+            {
+                  "name": "Baodingshan Scenic Area",
+                  "text": "Ez a kiterjedt tájkörzet világhírű sziklafaragásoknak ad otthont, köztük a pompás, aranyfüsttel bevont Ezerkarú Kuanyinnak.",
+                  "category": "landmark",
+                  "coords": [
+                        105.787672,
+                        29.748532
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Nanshan site",
+                  "text": "Ez a helyszín különösen a Dél-Song-dinasztia korából származó, finom taoista kőfaragásairól nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        105.716748,
+                        29.686677
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carving Museum",
+                  "text": "Modern múzeum, amely mély betekintést nyújt az UNESCO világörökség részét képező dazu-i sziklafaragások történetébe, művészetébe és megőrzésébe.",
+                  "category": "museum",
+                  "coords": [
+                        105.790921,
+                        29.748301
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Baoding Shan site",
+                  "text": "Dazu leghíresebb helyszíne, amely egy monumentális, 31 méteres fekvő Buddhát és egy U alakú szikla mentén faragott élénk jeleneteket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        105.793441,
+                        29.754683
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Beishan site",
+                  "text": "A finom kidolgozásáról híres helyszín több száz fülkét tartalmaz, köztük az „Élet kereke” híres faragványát.",
+                  "category": "landmark",
+                  "coords": [
+                        105.70731,
+                        29.714391
+                  ]
+            },
+            {
+                  "name": "Guangda Temple",
+                  "text": "Hagyományos buddhista templomkomplexum a Baodingshan területén, amely a sziklafaragásokhoz érkező látogatók spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        105.790149,
+                        29.750436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beita Temple Ruins",
+                  "text": "Rămășițele arheologice ale unui complex de temple antice centrat în jurul pagodei istorice de nord de pe dealul Beishan.",
+                  "category": "historical",
+                  "coords": [
+                        105.704581,
+                        29.717262
+                  ]
+            },
+            {
+                  "name": "Changzhou Ancient City",
+                  "text": "O zonă culturală reconstruită, proiectată în stilul arhitectural al dinastiei Song, care prezintă obiceiurile populare tradiționale din vechiul Dazu.",
+                  "category": "landmark",
+                  "coords": [
+                        105.741855,
+                        29.694304
+                  ]
+            },
+            {
+                  "name": "Baodingshan Scenic Area",
+                  "text": "Această zonă pitorească extinsă găzduiește sculpturi în stâncă de renume mondial, inclusiv magnifica Guanyin cu o mie de mâini, poleită cu foiță de aur.",
+                  "category": "landmark",
+                  "coords": [
+                        105.787672,
+                        29.748532
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Nanshan site",
+                  "text": "Acest sit este cunoscut în mod special pentru sculpturile sale rafinate în piatră taoiste care datează din dinastia Song de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        105.716748,
+                        29.686677
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carving Museum",
+                  "text": "Un muzeu modern care oferă perspective profunde asupra istoriei, artei și conservării sculpturilor în stâncă din Dazu, incluse în patrimoniul UNESCO.",
+                  "category": "museum",
+                  "coords": [
+                        105.790921,
+                        29.748301
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Baoding Shan site",
+                  "text": "Cel mai faimos sit din Dazu, având un Buddha culcat monumental de 31 de metri și scene vii sculptate de lăsa de o stâncă în formă de U.",
+                  "category": "landmark",
+                  "coords": [
+                        105.793441,
+                        29.754683
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Beishan site",
+                  "text": "Renumit pentru măiestria sa delicată, acest sit conține sute de nișe, inclusiv celebra sculptură „Roata vieții”.",
+                  "category": "landmark",
+                  "coords": [
+                        105.70731,
+                        29.714391
+                  ]
+            },
+            {
+                  "name": "Guangda Temple",
+                  "text": "Un complex de temple budiste tradiționale situat în zona Baodingshan, servind drept centru spiritual pentru vizitatorii sculpturilor în stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        105.790149,
+                        29.750436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beita Temple Ruins",
+                  "text": "The archaeological remains of an ancient temple complex centered around the historic Northern Pagoda on Beishan Hill.",
+                  "category": "historical",
+                  "coords": [
+                        105.704581,
+                        29.717262
+                  ]
+            },
+            {
+                  "name": "Changzhou Ancient City",
+                  "text": "A reconstructed cultural area designed in the Song Dynasty architectural style, showcasing the traditional folk customs of ancient Dazu.",
+                  "category": "landmark",
+                  "coords": [
+                        105.741855,
+                        29.694304
+                  ]
+            },
+            {
+                  "name": "Baodingshan Scenic Area",
+                  "text": "This extensive scenic area houses world-renowned rock carvings, including the magnificent gold-leafed Thousand-Hand Guanyin.",
+                  "category": "landmark",
+                  "coords": [
+                        105.787672,
+                        29.748532
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Nanshan site",
+                  "text": "This site is specifically noted for its exquisite Taoist stone carvings dating back to the Southern Song Dynasty.",
+                  "category": "landmark",
+                  "coords": [
+                        105.716748,
+                        29.686677
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carving Museum",
+                  "text": "A modern museum facility that provides deep insights into the history, artistry, and preservation of the UNESCO-listed Dazu Rock Carvings.",
+                  "category": "museum",
+                  "coords": [
+                        105.790921,
+                        29.748301
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Baoding Shan site",
+                  "text": "The most famous site in Dazu, featuring a monumental 31-meter reclining Buddha and vivid scenes carved along a U-shaped cliff.",
+                  "category": "landmark",
+                  "coords": [
+                        105.793441,
+                        29.754683
+                  ]
+            },
+            {
+                  "name": "Dazu Rock Carvings - Beishan site",
+                  "text": "Renowned for its delicate craftsmanship, this site contains hundreds of niches including the famous \"Wheel of the Wheel of Life\" carving.",
+                  "category": "landmark",
+                  "coords": [
+                        105.70731,
+                        29.714391
+                  ]
+            },
+            {
+                  "name": "Guangda Temple",
+                  "text": "A traditional Buddhist temple complex located within the Baodingshan area, serving as a spiritual center for visitors to the rock carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        105.790149,
+                        29.750436
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "CN-CQ",
     coords: [105.711, 29.702],

@@ -34,7 +34,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Robinson Lake Wildlife Management Area",
-                  "text": "Das Robinson Lake Wildlife Management Area ist ein Naturschutzgebiet in Minnesota.",
+                  "text": "Wildschutzgebiet rund um den Robinson Lake in River Source.",
                   "category": "natural",
                   "coords": [
                         -95.272837,
@@ -43,7 +43,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Lakeside Museum",
-                  "text": "Das Lakeside Museum ist ein Museum im Quellgebiet des Mississippi.",
+                  "text": "Ein Museum am Seeufer in River Source mit lokaler Geschichte.",
                   "category": "museum",
                   "coords": [
                         -95.202063,
@@ -52,7 +52,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Itasca State Park",
-                  "text": "Der Itasca State Park ist ein Park in Minnesota, der die Quelle des Mississippi River beherbergt.",
+                  "text": "Enthält die Quelle des Mississippi, wo Besucher über den Fluss laufen können.",
                   "category": "park",
                   "coords": [
                         -95.221094,
@@ -61,7 +61,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Lake Itasca Region Pioneer Farmers",
-                  "text": "Lake Itasca Region Pioneer Farmers ist ein Museum im Gebiet des Itasca State Park.",
+                  "text": "Museum über die Pionierbauern der Region um den Lake Itasca.",
                   "category": "museum",
                   "coords": [
                         -95.206244,
@@ -70,7 +70,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mallard Lake Wildlife Management Area",
-                  "text": "Das Mallard Lake Wildlife Management Area ist ein Naturschutzgebiet in Minnesota.",
+                  "text": "Wildschutzgebiet am Mallard Lake in River Source.",
                   "category": "natural",
                   "coords": [
                         -95.272499,
@@ -79,7 +79,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Gill Lake Wildlife Management Area",
-                  "text": "Das Gill Lake Wildlife Management Area ist ein Naturschutzgebiet in Minnesota.",
+                  "text": "Wildschutzgebiet am Gill Lake in River Source.",
                   "category": "natural",
                   "coords": [
                         -95.262267,
@@ -117,7 +117,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Robinson Lake Wildlife Management Area",
-                  "text": "A Robinson Lake Wildlife Management Area egy természetvédelmi terület Minnesota államban.",
+                  "text": "Vadvédelmi terület a Robinson-tó körül a River Source-ban.",
                   "category": "natural",
                   "coords": [
                         -95.272837,
@@ -126,7 +126,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Lakeside Museum",
-                  "text": "A Lakeside Museum egy múzeum a Mississippi forrásvidékén.",
+                  "text": "Egy tóparti múzeum a River Source-ban, helyi történelemmel.",
                   "category": "museum",
                   "coords": [
                         -95.202063,
@@ -135,7 +135,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Itasca State Park",
-                  "text": "Az Itasca State Park egy park Minnesota államban, amely a Mississippi folyó forrását tartalmazza.",
+                  "text": "Itt található a Mississippi folyó forrása, ahol a látogatók keresztül sétálhatnak a vízen.",
                   "category": "park",
                   "coords": [
                         -95.221094,
@@ -144,7 +144,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Lake Itasca Region Pioneer Farmers",
-                  "text": "A Lake Itasca Region Pioneer Farmers egy múzeum az Itasca State Park környékén.",
+                  "text": "Múzeum a Lake Itasca környékének úttörő gazdálkodóiról.",
                   "category": "museum",
                   "coords": [
                         -95.206244,
@@ -153,7 +153,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mallard Lake Wildlife Management Area",
-                  "text": "A Mallard Lake Wildlife Management Area egy természetvédelmi terület Minnesota államban.",
+                  "text": "Vadvédelmi terület a Mallard-tónál a River Source-ban.",
                   "category": "natural",
                   "coords": [
                         -95.272499,
@@ -162,7 +162,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Gill Lake Wildlife Management Area",
-                  "text": "A Gill Lake Wildlife Management Area egy természetvédelmi terület Minnesota államban.",
+                  "text": "Vadvédelmi terület a Gill-tónál a River Source-ban.",
                   "category": "natural",
                   "coords": [
                         -95.262267,
@@ -200,7 +200,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Robinson Lake Wildlife Management Area",
-                  "text": "Robinson Lake Wildlife Management Area este o rezervație naturală în Minnesota.",
+                  "text": "Zonă de gestionare a faunei sălbatice în jurul lacului Robinson din River Source.",
                   "category": "natural",
                   "coords": [
                         -95.272837,
@@ -209,7 +209,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Lakeside Museum",
-                  "text": "Muzeul Lakeside este un muzeu în zona izvoarelor râului Mississippi.",
+                  "text": "Un muzeu pe malul lacului în River Source, cu istorie locală.",
                   "category": "museum",
                   "coords": [
                         -95.202063,
@@ -218,7 +218,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Itasca State Park",
-                  "text": "Parcul de Stat Itasca este un parc în Minnesota care conține izvoarele râului Mississippi.",
+                  "text": "Conține izvorul fluviului Mississippi, unde vizitatorii pot traversa pârâul pe jos.",
                   "category": "park",
                   "coords": [
                         -95.221094,
@@ -227,7 +227,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Lake Itasca Region Pioneer Farmers",
-                  "text": "Lake Itasca Region Pioneer Farmers este un muzeu în zona Parcului de Stat Itasca.",
+                  "text": "Muzeu dedicat fermierilor pionieri din regiunea lacului Itasca.",
                   "category": "museum",
                   "coords": [
                         -95.206244,
@@ -236,7 +236,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mallard Lake Wildlife Management Area",
-                  "text": "Mallard Lake Wildlife Management Area este o rezervație naturală în Minnesota.",
+                  "text": "Zonă de gestionare a faunei sălbatice la lacul Mallard din River Source.",
                   "category": "natural",
                   "coords": [
                         -95.272499,
@@ -245,7 +245,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Gill Lake Wildlife Management Area",
-                  "text": "Gill Lake Wildlife Management Area este o rezervație naturală în Minnesota.",
+                  "text": "Zonă de gestionare a faunei sălbatice la lacul Gill din River Source.",
                   "category": "natural",
                   "coords": [
                         -95.262267,
@@ -283,7 +283,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Robinson Lake Wildlife Management Area",
-                  "text": "Robinson Lake Wildlife Management Area is a nature reserve in Minnesota.",
+                  "text": "Wildlife management area surrounding Robinson Lake in River Source.",
                   "category": "natural",
                   "coords": [
                         -95.272837,
@@ -292,7 +292,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Lakeside Museum",
-                  "text": "Lakeside Museum is a museum in the Mississippi River headwaters area.",
+                  "text": "A lakeside museum in River Source featuring local history.",
                   "category": "museum",
                   "coords": [
                         -95.202063,
@@ -301,7 +301,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Itasca State Park",
-                  "text": "Itasca State Park is a park in Minnesota that contains the headwaters of the Mississippi River.",
+                  "text": "Contains the headwaters of the Mississippi River, where visitors can walk across the stream.",
                   "category": "park",
                   "coords": [
                         -95.221094,
@@ -310,7 +310,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Lake Itasca Region Pioneer Farmers",
-                  "text": "Lake Itasca Region Pioneer Farmers is a museum in the Itasca State Park area.",
+                  "text": "Museum about pioneer farmers of the Lake Itasca region.",
                   "category": "museum",
                   "coords": [
                         -95.206244,
@@ -319,7 +319,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mallard Lake Wildlife Management Area",
-                  "text": "Mallard Lake Wildlife Management Area is a nature reserve in Minnesota.",
+                  "text": "Wildlife management area at Mallard Lake in River Source.",
                   "category": "natural",
                   "coords": [
                         -95.272499,
@@ -328,7 +328,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Gill Lake Wildlife Management Area",
-                  "text": "Gill Lake Wildlife Management Area is a nature reserve in Minnesota.",
+                  "text": "Wildlife management area at Gill Lake in River Source.",
                   "category": "natural",
                   "coords": [
                         -95.262267,
@@ -609,7 +609,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Liberty Cap",
-                  "text": "Liberty Cap ist ein Gipfel auf dem Mount Rainier, ein Nebengipfel.",
+                  "text": "Ein Gipfel in der Nähe des Mount Rainier, geformt wie eine Freiheitsmütze.",
                   "category": "natural",
                   "coords": [
                         -121.774883,
@@ -627,7 +627,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Tahoma Cleaver",
-                  "text": "Tahoma Cleaver ist ein Gipfel auf dem Mount Rainier, ein kammartiges Merkmal.",
+                  "text": "Ein felsiger Grat (Cleaver) am Südosthang des Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.784939,
@@ -645,7 +645,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Meany Crest",
-                  "text": "Ein Gipfel im Mount-Rainier-Gebiet.",
+                  "text": "Ein markanter Felsgrat nahe dem Gipfel des Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.662871,
@@ -654,7 +654,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Ruth",
-                  "text": "Ein Gipfel im Mount-Rainier-Gebiet.",
+                  "text": "Ein Nebengipfel des Mount Rainier an dessen Ostseite.",
                   "category": "natural",
                   "coords": [
                         -121.716075,
@@ -663,7 +663,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Baker Point",
-                  "text": "Ein Gipfel im Mount-Rainier-Gebiet.",
+                  "text": "Ein felsiger Punkt an der Westflanke des Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.663693,
@@ -672,7 +672,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Goat Island Mountain",
-                  "text": "Ein Gipfel im Mount-Rainier-Gebiet.",
+                  "text": "Ein eigenständiger Berg nahe der Ostgrenze des Mount-Rainier-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         -121.647791,
@@ -681,7 +681,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Pacific Point",
-                  "text": "Ein Gipfel im Mount-Rainier-Gebiet.",
+                  "text": "Ein Vorgebirge am Südhang des Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.768432,
@@ -690,7 +690,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Rainier Wilderness",
-                  "text": "Ein Wildnisgebiet im Mount-Rainier-Gebiet.",
+                  "text": "Ein ausgewiesenes Wildnisgebiet, das die abgelegenen Rückzugsgebiete des Mount-Rainier-Nationalparks umfasst.",
                   "category": "natural",
                   "coords": [
                         -121.703961,
@@ -699,7 +699,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Coffee Cup",
-                  "text": "Eine Attraktion im Mount-Rainier-Gebiet.",
+                  "text": "Ein riesiges Kaffeetassen-Wahrzeichen in Rainier.",
                   "category": "landmark",
                   "coords": [
                         -121.735319,
@@ -708,7 +708,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "The Trident",
-                  "text": "Eine Attraktion im Mount-Rainier-Gebiet.",
+                  "text": "Ein Dreizack-Wahrzeichen, das die Stadt Rainier symbolisiert.",
                   "category": "landmark",
                   "coords": [
                         -121.714165,
@@ -717,7 +717,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Ein Aussichtspunkt im Mount-Rainier-Gebiet.",
+                  "text": "Inspiration Point bietet einen malerischen Blick auf die Landschaft nahe Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.744359,
@@ -726,7 +726,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Canyon Rim Viewpoint",
-                  "text": "Ein Aussichtspunkt im Mount-Rainier-Gebiet.",
+                  "text": "Aussichtspunkt am Rand einer Schlucht in der Nähe von Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.761643,
@@ -971,7 +971,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Liberty Cap",
-                  "text": "A Liberty Cap egy csúcs a Mount Rainieren, egy mellékcsúcs.",
+                  "text": "Egy csúcs a Mount Rainier közelében, szabadságsapka alakú.",
                   "category": "natural",
                   "coords": [
                         -121.774883,
@@ -989,7 +989,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Tahoma Cleaver",
-                  "text": "A Tahoma Cleaver egy csúcs a Mount Rainieren, egy gerincszerű képződmény.",
+                  "text": "Egy sziklás taraj (cleaver) a Mount Rainier délkeleti lejtőjén.",
                   "category": "natural",
                   "coords": [
                         -121.784939,
@@ -1007,7 +1007,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Meany Crest",
-                  "text": "Egy csúcs a Mount Rainier régióban.",
+                  "text": "Egy jellegzetes sziklás taraj a Mount Rainier csúcsa közelében.",
                   "category": "natural",
                   "coords": [
                         -121.662871,
@@ -1016,7 +1016,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Ruth",
-                  "text": "Egy csúcs a Mount Rainier régióban.",
+                  "text": "A Mount Rainier egyik mellékcsúcsa a keleti oldalán.",
                   "category": "natural",
                   "coords": [
                         -121.716075,
@@ -1025,7 +1025,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Baker Point",
-                  "text": "Egy csúcs a Mount Rainier régióban.",
+                  "text": "Egy sziklás pont a Mount Rainier nyugati oldalán.",
                   "category": "natural",
                   "coords": [
                         -121.663693,
@@ -1034,7 +1034,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Goat Island Mountain",
-                  "text": "Egy csúcs a Mount Rainier régióban.",
+                  "text": "Egy önálló hegy a Mount Rainier Nemzeti Park keleti határa közelében.",
                   "category": "natural",
                   "coords": [
                         -121.647791,
@@ -1043,7 +1043,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Pacific Point",
-                  "text": "Egy csúcs a Mount Rainier régióban.",
+                  "text": "Egy földnyelv a Mount Rainier déli lejtőjén.",
                   "category": "natural",
                   "coords": [
                         -121.768432,
@@ -1052,7 +1052,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Rainier Wilderness",
-                  "text": "Egy vadonterület a Mount Rainier régióban.",
+                  "text": "Egy kijelölt vadon terület, amely a Mount Rainier Nemzeti Park távoli hátsó vidékét védi.",
                   "category": "natural",
                   "coords": [
                         -121.703961,
@@ -1061,7 +1061,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Coffee Cup",
-                  "text": "Egy látványosság a Mount Rainier régióban.",
+                  "text": "Egy hatalmas kávéscsésze jelkép Rainier-ben.",
                   "category": "landmark",
                   "coords": [
                         -121.735319,
@@ -1070,7 +1070,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "The Trident",
-                  "text": "Egy látványosság a Mount Rainier régióban.",
+                  "text": "Egy háromágú szigony jelkép, amely Rainier városát szimbolizálja.",
                   "category": "landmark",
                   "coords": [
                         -121.714165,
@@ -1079,7 +1079,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Egy kilátóhely a Mount Rainier régióban.",
+                  "text": "Az Inspiration Point festői kilátást nyújt a Rainier melletti tájra.",
                   "category": "natural",
                   "coords": [
                         -121.744359,
@@ -1088,7 +1088,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Canyon Rim Viewpoint",
-                  "text": "Egy kilátóhely a Mount Rainier régióban.",
+                  "text": "Kilátó egy szurdok peremén Rainier közelében.",
                   "category": "natural",
                   "coords": [
                         -121.761643,
@@ -1333,7 +1333,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Liberty Cap",
-                  "text": "Liberty Cap este un vârf pe Muntele Rainier, un vârf secundar.",
+                  "text": "Un vârf lângă Muntele Rainier, în formă de bonetă a libertății.",
                   "category": "natural",
                   "coords": [
                         -121.774883,
@@ -1351,7 +1351,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Tahoma Cleaver",
-                  "text": "Tahoma Cleaver este un vârf pe Muntele Rainier, o caracteristică asemănătoare unei creste.",
+                  "text": "O creastă stâncoasă (cleaver) pe versantul sud-estic al Muntelui Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.784939,
@@ -1369,7 +1369,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Meany Crest",
-                  "text": "Un vârf în regiunea Mount Rainier.",
+                  "text": "O creastă stâncoasă proeminentă lângă vârful Muntelui Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.662871,
@@ -1378,7 +1378,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Ruth",
-                  "text": "Un vârf în regiunea Mount Rainier.",
+                  "text": "Un vârf secundar al Muntelui Rainier pe partea sa estică.",
                   "category": "natural",
                   "coords": [
                         -121.716075,
@@ -1387,7 +1387,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Baker Point",
-                  "text": "Un vârf în regiunea Mount Rainier.",
+                  "text": "Un punct stâncos pe versantul vestic al Muntelui Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.663693,
@@ -1396,7 +1396,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Goat Island Mountain",
-                  "text": "Un vârf în regiunea Mount Rainier.",
+                  "text": "Un munte distinct lângă granița estică a Parcului Național Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.647791,
@@ -1405,7 +1405,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Pacific Point",
-                  "text": "Un vârf în regiunea Mount Rainier.",
+                  "text": "Un promontoriu pe versantul sudic al Muntelui Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.768432,
@@ -1414,7 +1414,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Rainier Wilderness",
-                  "text": "O zonă sălbatică în regiunea Mount Rainier.",
+                  "text": "O zonă sălbatică protejată care cuprinde regiunile îndepărtate ale Parcului Național Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.703961,
@@ -1423,7 +1423,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Coffee Cup",
-                  "text": "O atracție în regiunea Mount Rainier.",
+                  "text": "Un reper uriaș în formă de ceașcă de cafea în Rainier.",
                   "category": "landmark",
                   "coords": [
                         -121.735319,
@@ -1432,7 +1432,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "The Trident",
-                  "text": "O atracție în regiunea Mount Rainier.",
+                  "text": "Un reper în formă de trident care simbolizează orașul Rainier.",
                   "category": "landmark",
                   "coords": [
                         -121.714165,
@@ -1441,7 +1441,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Un punct de belvedere în regiunea Mount Rainier.",
+                  "text": "Inspiration Point oferă o vedere pitorească asupra peisajului de lângă Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.744359,
@@ -1450,7 +1450,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Canyon Rim Viewpoint",
-                  "text": "Un punct de belvedere în regiunea Mount Rainier.",
+                  "text": "Punct de belvedere pe marginea unui canion lângă Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.761643,
@@ -1695,7 +1695,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Liberty Cap",
-                  "text": "Liberty Cap is a peak on Mount Rainier, a subsidiary summit.",
+                  "text": "A peak near Mount Rainier shaped like a liberty cap.",
                   "category": "natural",
                   "coords": [
                         -121.774883,
@@ -1713,7 +1713,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Tahoma Cleaver",
-                  "text": "Tahoma Cleaver is a peak on Mount Rainier, a ridge-like feature.",
+                  "text": "A rocky ridge (cleaver) on the southeast slope of Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.784939,
@@ -1731,7 +1731,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Meany Crest",
-                  "text": "A peak in the Mount Rainier area.",
+                  "text": "A prominent rocky crest near the summit of Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.662871,
@@ -1740,7 +1740,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Ruth",
-                  "text": "A peak in the Mount Rainier area.",
+                  "text": "A satellite peak of Mount Rainier on its eastern side.",
                   "category": "natural",
                   "coords": [
                         -121.716075,
@@ -1749,7 +1749,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Baker Point",
-                  "text": "A peak in the Mount Rainier area.",
+                  "text": "A rocky point on the west side of Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.663693,
@@ -1758,7 +1758,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Goat Island Mountain",
-                  "text": "A peak in the Mount Rainier area.",
+                  "text": "A separate mountain near the eastern boundary of Mount Rainier National Park.",
                   "category": "natural",
                   "coords": [
                         -121.647791,
@@ -1767,7 +1767,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Pacific Point",
-                  "text": "A peak in the Mount Rainier area.",
+                  "text": "A promontory on the southern slope of Mount Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.768432,
@@ -1776,7 +1776,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Mount Rainier Wilderness",
-                  "text": "A wilderness area in the Mount Rainier region.",
+                  "text": "A designated wilderness area encompassing the remote backcountry of Mount Rainier National Park.",
                   "category": "natural",
                   "coords": [
                         -121.703961,
@@ -1785,7 +1785,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Coffee Cup",
-                  "text": "An attraction in the Mount Rainier area.",
+                  "text": "A giant coffee cup landmark in Rainier.",
                   "category": "landmark",
                   "coords": [
                         -121.735319,
@@ -1794,7 +1794,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "The Trident",
-                  "text": "An attraction in the Mount Rainier area.",
+                  "text": "A trident landmark symbolizing the city of Rainier.",
                   "category": "landmark",
                   "coords": [
                         -121.714165,
@@ -1803,7 +1803,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Inspiration Point",
-                  "text": "A viewpoint in the Mount Rainier area.",
+                  "text": "Inspiration Point offers scenic views of the landscape near Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.744359,
@@ -1812,7 +1812,7 @@ export const poiExtraUsaNatureV2: POI[] = [
             },
             {
                   "name": "Canyon Rim Viewpoint",
-                  "text": "A viewpoint in the Mount Rainier area.",
+                  "text": "A viewpoint on the rim of a canyon near Rainier.",
                   "category": "natural",
                   "coords": [
                         -121.761643,
@@ -1864,7 +1864,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Cave Rock",
-                  "text": "Ein Aussichtspunkt am Lake Tahoe.",
+                  "text": "Cave Rock, eine markante Felsformation am Ufer des Lake Tahoe.",
                   "category": "natural",
                   "coords": [
                         -119.948814,
@@ -1873,7 +1873,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Skunk Harbor",
-                  "text": "Eine Bucht am Lake Tahoe.",
+                  "text": "Eine abgelegene Bucht am Ostufer des Lake Tahoe.",
                   "category": "landmark",
                   "coords": [
                         -119.945741,
@@ -1882,7 +1882,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Glenbrook Bay",
-                  "text": "Eine Bucht am Lake Tahoe.",
+                  "text": "Eine Bucht am Lake Tahoe, angrenzend an die Gemeinde Glenbrook.",
                   "category": "landmark",
                   "coords": [
                         -119.946573,
@@ -1891,7 +1891,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Logan Shoals Vista Point",
-                  "text": "Ein Aussichtspunkt am Lake Tahoe.",
+                  "text": "Logan Shoals Vista Point bietet einen herrlichen Blick über den Lake Tahoe.",
                   "category": "natural",
                   "coords": [
                         -119.943136,
@@ -1900,7 +1900,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shakespeare Point",
-                  "text": "Ein Gipfel am Lake Tahoe.",
+                  "text": "Ein felsiger Punkt am Südostufer des Lake Tahoe.",
                   "category": "natural",
                   "coords": [
                         -119.937128,
@@ -1909,7 +1909,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Edwin L. Z'berg Natural Preserve",
-                  "text": "Ein Naturschutzgebiet am Lake Tahoe.",
+                  "text": "Ein Naturschutzgebiet am Ufer des Lake Tahoe, benannt nach Edwin L. Z'berg.",
                   "category": "natural",
                   "coords": [
                         -120.11741,
@@ -1920,7 +1920,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Cave Rock",
-                  "text": "Egy kilátó a Tahoe-tónál.",
+                  "text": "Cave Rock, egy jellegzetes sziklaformáció a Tahoe-tó partján.",
                   "category": "natural",
                   "coords": [
                         -119.948814,
@@ -1929,7 +1929,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Skunk Harbor",
-                  "text": "Egy öböl a Tahoe-tónál.",
+                  "text": "Egy félreeső öböl a Tahoe-tó keleti partján.",
                   "category": "landmark",
                   "coords": [
                         -119.945741,
@@ -1938,7 +1938,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Glenbrook Bay",
-                  "text": "Egy öböl a Tahoe-tónál.",
+                  "text": "Egy öböl a Tahoe-tónál, Glenbrook település mellett.",
                   "category": "landmark",
                   "coords": [
                         -119.946573,
@@ -1947,7 +1947,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Logan Shoals Vista Point",
-                  "text": "Egy kilátó a Tahoe-tónál.",
+                  "text": "A Logan Shoals kilátó csodálatos kilátást nyújt a Tahoe-tóra.",
                   "category": "natural",
                   "coords": [
                         -119.943136,
@@ -1956,7 +1956,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shakespeare Point",
-                  "text": "Egy csúcs a Tahoe-tó közelében.",
+                  "text": "Egy sziklás pont a Tahoe-tó délkeleti partján.",
                   "category": "natural",
                   "coords": [
                         -119.937128,
@@ -1965,7 +1965,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Edwin L. Z'berg Natural Preserve",
-                  "text": "Egy természetvédelmi terület a Tahoe-tó közelében.",
+                  "text": "Egy természetvédelmi terület a Tahoe-tó partján, Edwin L. Z'bergről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -120.11741,
@@ -1976,7 +1976,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Cave Rock",
-                  "text": "Un punct de belvedere pe lacul Tahoe.",
+                  "text": "Cave Rock, o formațiune stâncoasă proeminentă pe malul lacului Tahoe.",
                   "category": "natural",
                   "coords": [
                         -119.948814,
@@ -1985,7 +1985,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Skunk Harbor",
-                  "text": "Un golf pe lacul Tahoe.",
+                  "text": "Un golf retras pe malul estic al Lacului Tahoe.",
                   "category": "landmark",
                   "coords": [
                         -119.945741,
@@ -1994,7 +1994,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Glenbrook Bay",
-                  "text": "Un golf pe lacul Tahoe.",
+                  "text": "Un golf pe Lacul Tahoe, adiacent comunității Glenbrook.",
                   "category": "landmark",
                   "coords": [
                         -119.946573,
@@ -2003,7 +2003,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Logan Shoals Vista Point",
-                  "text": "Un punct de belvedere pe lacul Tahoe.",
+                  "text": "Logan Shoals Vista Point oferă o vedere superbă asupra lacului Tahoe.",
                   "category": "natural",
                   "coords": [
                         -119.943136,
@@ -2012,7 +2012,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shakespeare Point",
-                  "text": "Un vârf lângă lacul Tahoe.",
+                  "text": "Un punct stâncos pe malul sud-estic al Lacului Tahoe.",
                   "category": "natural",
                   "coords": [
                         -119.937128,
@@ -2021,7 +2021,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Edwin L. Z'berg Natural Preserve",
-                  "text": "O rezervație naturală lângă lacul Tahoe.",
+                  "text": "O rezervație naturală pe malul lacului Tahoe, numită după Edwin L. Z'berg.",
                   "category": "natural",
                   "coords": [
                         -120.11741,
@@ -2032,7 +2032,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Cave Rock",
-                  "text": "A viewpoint on Lake Tahoe.",
+                  "text": "Cave Rock, a prominent rock formation on the shore of Lake Tahoe.",
                   "category": "natural",
                   "coords": [
                         -119.948814,
@@ -2041,7 +2041,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Skunk Harbor",
-                  "text": "A bay on Lake Tahoe.",
+                  "text": "A secluded cove on the eastern shore of Lake Tahoe.",
                   "category": "landmark",
                   "coords": [
                         -119.945741,
@@ -2050,7 +2050,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Glenbrook Bay",
-                  "text": "A bay on Lake Tahoe.",
+                  "text": "A bay on Lake Tahoe adjacent to the community of Glenbrook.",
                   "category": "landmark",
                   "coords": [
                         -119.946573,
@@ -2059,7 +2059,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Logan Shoals Vista Point",
-                  "text": "A vista point on Lake Tahoe.",
+                  "text": "Logan Shoals Vista Point provides a stunning view of Lake Tahoe.",
                   "category": "natural",
                   "coords": [
                         -119.943136,
@@ -2068,7 +2068,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shakespeare Point",
-                  "text": "A peak near Lake Tahoe.",
+                  "text": "A rocky point on the southeast shore of Lake Tahoe.",
                   "category": "natural",
                   "coords": [
                         -119.937128,
@@ -2077,7 +2077,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Edwin L. Z'berg Natural Preserve",
-                  "text": "A natural preserve near Lake Tahoe.",
+                  "text": "A natural preserve on the shore of Lake Tahoe, named after Edwin L. Z'berg.",
                   "category": "natural",
                   "coords": [
                         -120.11741,
@@ -2249,7 +2249,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hadlock Cove",
-                  "text": "Eine malerische Bucht auf Mount Desert Island.",
+                  "text": "Eine Bucht an der Südküste der Mount Desert Island.",
                   "category": "landmark",
                   "coords": [
                         -68.240135,
@@ -2267,7 +2267,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hodgon Cove",
-                  "text": "Eine Bucht an der Küste von Mount Desert Island.",
+                  "text": "Eine Bucht an der Ostküste der Mount Desert Island.",
                   "category": "landmark",
                   "coords": [
                         -68.410297,
@@ -2294,7 +2294,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eliot Mountain",
-                  "text": "Ein Berg auf Mount Desert Island mit Wanderwegen.",
+                  "text": "Ein Gipfel auf der Westseite der Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.273893,
@@ -2312,7 +2312,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Butlers Hill",
-                  "text": "Ein Hügel auf Mount Desert Island.",
+                  "text": "Ein Hügel mit Blick auf den Northeast Harbor auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.420575,
@@ -2321,7 +2321,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Robbins Hill",
-                  "text": "Ein Hügel auf Mount Desert Island.",
+                  "text": "Ein Hügel nahe Bar Harbor auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.410019,
@@ -2330,7 +2330,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Murphy Hill",
-                  "text": "Ein Hügel auf Mount Desert Island.",
+                  "text": "Ein Hügel nahe der Stadt Southwest Harbor auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.40613,
@@ -2339,7 +2339,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "China Hill",
-                  "text": "Ein Hügel auf Mount Desert Island.",
+                  "text": "Ein Hügel auf dem zentralen Kamm der Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.365296,
@@ -2348,7 +2348,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mansell Mountain",
-                  "text": "Ein Berg auf Mount Desert Island.",
+                  "text": "Ein Berg auf der Westseite der Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.361406,
@@ -2366,7 +2366,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Enoch Mountain",
-                  "text": "Ein Berg auf Mount Desert Island.",
+                  "text": "Ein Berg im Inneren der Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.187966,
@@ -2393,7 +2393,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ox Hill",
-                  "text": "Ein Hügel auf Mount Desert Island.",
+                  "text": "Ein niedriger Hügel auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.235837,
@@ -2402,7 +2402,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Barr Hill",
-                  "text": "Ein Hügel auf Mount Desert Island.",
+                  "text": "Ein Hügel auf Mount Desert Island nahe dem Eagle Lake.",
                   "category": "natural",
                   "coords": [
                         -68.249942,
@@ -2411,7 +2411,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cedar Swamp Mountain",
-                  "text": "Ein Berg auf Mount Desert Island mit einem sumpfigen Gebiet.",
+                  "text": "Ein Berg, benannt nach dem Zedernsumpf an seinem Fuß.",
                   "category": "natural",
                   "coords": [
                         -68.27613,
@@ -2429,7 +2429,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mitchell Hill",
-                  "text": "Ein Hügel auf Mount Desert Island.",
+                  "text": "Ein Hügel auf Mount Desert Island nahe dem Somes Sound.",
                   "category": "natural",
                   "coords": [
                         -68.261753,
@@ -2447,7 +2447,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Day Mountain",
-                  "text": "Day Mountain ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein Berg auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.231875,
@@ -2456,7 +2456,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagles Crag",
-                  "text": "Eagles Crag ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein felsiger Felsvorsprung an der Ostseite der Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.219648,
@@ -2465,7 +2465,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Bubble",
-                  "text": "South Bubble ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein runder Granitdom auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.253705,
@@ -2474,7 +2474,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pemetic Mountain",
-                  "text": "Pemetic Mountain ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein Berg mit Aussicht auf den Jordan Pond.",
                   "category": "natural",
                   "coords": [
                         -68.245472,
@@ -2483,7 +2483,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dike Peak",
-                  "text": "Dike Peak ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein Gipfel, der durch einen vulkanischen Gang auf Mount Desert Island entstanden ist.",
                   "category": "natural",
                   "coords": [
                         -68.225956,
@@ -2492,7 +2492,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Conners Nubble",
-                  "text": "Conners Nubble ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein kleiner felsiger Gipfel auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.256131,
@@ -2501,7 +2501,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Bubble",
-                  "text": "North Bubble ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein Granitdom neben dem South Bubble auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.2569,
@@ -2510,7 +2510,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sargent Mountain",
-                  "text": "Sargent Mountain ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein bedeutender Gipfel auf dem zentralen Kamm der Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.273489,
@@ -2519,7 +2519,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gilmore  Peak",
-                  "text": "Gilmore Peak ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein Gipfel auf dem östlichen Kamm der Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.279908,
@@ -2528,7 +2528,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Parkman Mountain",
-                  "text": "Parkman Mountain ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein Berg nahe der Westseite der Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.285705,
@@ -2537,7 +2537,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Peak",
-                  "text": "Bald Peak ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein baumloser Gipfel auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.283831,
@@ -2546,7 +2546,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "McFarland Mountain",
-                  "text": "McFarland Mountain ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein Berg im nördlichen Teil der Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.265078,
@@ -2555,7 +2555,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Whitecap",
-                  "text": "The Whitecap ist ein Gipfel auf Mount Desert Island.",
+                  "text": "Ein Gipfel mit einer weißen Quarzitkuppe auf Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.235252,
@@ -2611,7 +2611,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hadlock Cove",
-                  "text": "Egy festői öböl Mount Desert Island-en.",
+                  "text": "Egy öböl a Mount Desert Island déli partján.",
                   "category": "landmark",
                   "coords": [
                         -68.240135,
@@ -2629,7 +2629,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hodgon Cove",
-                  "text": "Egy öböl Mount Desert Island partján.",
+                  "text": "Egy öböl a Mount Desert Island keleti partján.",
                   "category": "landmark",
                   "coords": [
                         -68.410297,
@@ -2656,7 +2656,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eliot Mountain",
-                  "text": "Egy hegy Mount Desert Island-en túraútvonalakkal.",
+                  "text": "Egy csúcs a Mount Desert Island nyugati oldalán.",
                   "category": "natural",
                   "coords": [
                         -68.273893,
@@ -2674,7 +2674,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Butlers Hill",
-                  "text": "Egy domb Mount Desert Island-en.",
+                  "text": "Egy domb, amely a Northeast Harborra néz a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.420575,
@@ -2683,7 +2683,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Robbins Hill",
-                  "text": "Egy domb Mount Desert Island-en.",
+                  "text": "Egy domb Bar Harbor közelében a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.410019,
@@ -2692,7 +2692,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Murphy Hill",
-                  "text": "Egy domb Mount Desert Island-en.",
+                  "text": "Egy domb Southwest Harbor városa közelében a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.40613,
@@ -2701,7 +2701,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "China Hill",
-                  "text": "Egy domb Mount Desert Island-en.",
+                  "text": "Egy domb a Mount Desert Island középső gerincén.",
                   "category": "natural",
                   "coords": [
                         -68.365296,
@@ -2710,7 +2710,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mansell Mountain",
-                  "text": "Egy hegy Mount Desert Island-en.",
+                  "text": "Egy hegy a Mount Desert Island nyugati oldalán.",
                   "category": "natural",
                   "coords": [
                         -68.361406,
@@ -2728,7 +2728,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Enoch Mountain",
-                  "text": "Egy hegy Mount Desert Island-en.",
+                  "text": "Egy hegy a Mount Desert Island belső területén.",
                   "category": "natural",
                   "coords": [
                         -68.187966,
@@ -2755,7 +2755,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ox Hill",
-                  "text": "Egy domb Mount Desert Island-en.",
+                  "text": "Egy alacsony domb a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.235837,
@@ -2764,7 +2764,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Barr Hill",
-                  "text": "Egy domb Mount Desert Island-en.",
+                  "text": "Egy domb a Mount Desert Islanden, az Eagle-tó közelében.",
                   "category": "natural",
                   "coords": [
                         -68.249942,
@@ -2773,7 +2773,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cedar Swamp Mountain",
-                  "text": "Egy hegy Mount Desert Island-en, mocsaras területtel.",
+                  "text": "Egy hegy, amely a lábánál lévő cédrusmocsárról kapta a nevét.",
                   "category": "natural",
                   "coords": [
                         -68.27613,
@@ -2791,7 +2791,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mitchell Hill",
-                  "text": "Egy domb Mount Desert Island-en.",
+                  "text": "Egy domb a Mount Desert Islanden, a Somes Sound közelében.",
                   "category": "natural",
                   "coords": [
                         -68.261753,
@@ -2809,7 +2809,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Day Mountain",
-                  "text": "Day Mountain egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy hegy a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.231875,
@@ -2818,7 +2818,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagles Crag",
-                  "text": "Eagles Crag egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy sziklás szirt a Mount Desert Island keleti oldalán.",
                   "category": "natural",
                   "coords": [
                         -68.219648,
@@ -2827,7 +2827,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Bubble",
-                  "text": "South Bubble egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy lekerekített gránitkupola a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.253705,
@@ -2836,7 +2836,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pemetic Mountain",
-                  "text": "Pemetic Mountain egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy hegy, ahonnan kilátás nyílik a Jordan-tóra.",
                   "category": "natural",
                   "coords": [
                         -68.245472,
@@ -2845,7 +2845,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dike Peak",
-                  "text": "Dike Peak egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy csúcs, amely egy vulkáni telérből jött létre a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.225956,
@@ -2854,7 +2854,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Conners Nubble",
-                  "text": "Conners Nubble egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy kis sziklás csúcs a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.256131,
@@ -2863,7 +2863,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Bubble",
-                  "text": "North Bubble egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy gránitkupola a South Bubble mellett a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.2569,
@@ -2872,7 +2872,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sargent Mountain",
-                  "text": "Sargent Mountain egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy jelentős csúcs a Mount Desert Island központi gerincén.",
                   "category": "natural",
                   "coords": [
                         -68.273489,
@@ -2881,7 +2881,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gilmore  Peak",
-                  "text": "Gilmore Peak egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy csúcs a Mount Desert Island keleti gerincén.",
                   "category": "natural",
                   "coords": [
                         -68.279908,
@@ -2890,7 +2890,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Parkman Mountain",
-                  "text": "Parkman Mountain egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy hegy a Mount Desert Island nyugati oldala közelében.",
                   "category": "natural",
                   "coords": [
                         -68.285705,
@@ -2899,7 +2899,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Peak",
-                  "text": "Bald Peak egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy fátlan csúcs a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.283831,
@@ -2908,7 +2908,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "McFarland Mountain",
-                  "text": "McFarland Mountain egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy hegy a Mount Desert Island északi részén.",
                   "category": "natural",
                   "coords": [
                         -68.265078,
@@ -2917,7 +2917,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Whitecap",
-                  "text": "The Whitecap egy csúcs a Mount Desert Island-en.",
+                  "text": "Egy csúcs fehér kvarcitcsúccsal a Mount Desert Islanden.",
                   "category": "natural",
                   "coords": [
                         -68.235252,
@@ -2973,7 +2973,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hadlock Cove",
-                  "text": "Un golf pitoresc pe Insula Mount Desert.",
+                  "text": "Un golf pe coasta de sud a Insulei Mount Desert.",
                   "category": "landmark",
                   "coords": [
                         -68.240135,
@@ -2991,7 +2991,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hodgon Cove",
-                  "text": "Un golf de-a lungul coastei Insulei Mount Desert.",
+                  "text": "Un golf pe coasta de est a Insulei Mount Desert.",
                   "category": "landmark",
                   "coords": [
                         -68.410297,
@@ -3018,7 +3018,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eliot Mountain",
-                  "text": "Un munte pe Insula Mount Desert cu trasee de drumeție.",
+                  "text": "Un vârf pe partea vestică a Insulei Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.273893,
@@ -3036,7 +3036,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Butlers Hill",
-                  "text": "Un deal pe Insula Mount Desert.",
+                  "text": "Un deal cu vedere asupra portului Northeast pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.420575,
@@ -3045,7 +3045,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Robbins Hill",
-                  "text": "Un deal pe Insula Mount Desert.",
+                  "text": "Un deal lângă Bar Harbor pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.410019,
@@ -3054,7 +3054,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Murphy Hill",
-                  "text": "Un deal pe Insula Mount Desert.",
+                  "text": "Un deal lângă orașul Southwest Harbor pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.40613,
@@ -3063,7 +3063,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "China Hill",
-                  "text": "Un deal pe Insula Mount Desert.",
+                  "text": "Un deal pe creasta centrală a Insulei Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.365296,
@@ -3072,7 +3072,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mansell Mountain",
-                  "text": "Un munte pe Insula Mount Desert.",
+                  "text": "Un munte pe partea vestică a Insulei Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.361406,
@@ -3090,7 +3090,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Enoch Mountain",
-                  "text": "Un munte pe Insula Mount Desert.",
+                  "text": "Un munte în interiorul Insulei Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.187966,
@@ -3117,7 +3117,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ox Hill",
-                  "text": "Un deal pe Insula Mount Desert.",
+                  "text": "Un deal jos pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.235837,
@@ -3126,7 +3126,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Barr Hill",
-                  "text": "Un deal pe Insula Mount Desert.",
+                  "text": "Un deal pe Insula Mount Desert lângă Lacul Eagle.",
                   "category": "natural",
                   "coords": [
                         -68.249942,
@@ -3135,7 +3135,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cedar Swamp Mountain",
-                  "text": "Un munte pe Insula Mount Desert cu o zonă mlăștinoasă.",
+                  "text": "Un munte numit după mlaștina de cedri de la baza sa.",
                   "category": "natural",
                   "coords": [
                         -68.27613,
@@ -3153,7 +3153,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mitchell Hill",
-                  "text": "Un deal pe Insula Mount Desert.",
+                  "text": "Un deal pe Insula Mount Desert lângă Somes Sound.",
                   "category": "natural",
                   "coords": [
                         -68.261753,
@@ -3171,7 +3171,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Day Mountain",
-                  "text": "Day Mountain este un vârf pe insula Mount Desert.",
+                  "text": "Un munte pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.231875,
@@ -3180,7 +3180,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagles Crag",
-                  "text": "Eagles Crag este un vârf pe insula Mount Desert.",
+                  "text": "O stâncă pe partea estică a Insulei Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.219648,
@@ -3189,7 +3189,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Bubble",
-                  "text": "South Bubble este un vârf pe insula Mount Desert.",
+                  "text": "Un dom de granit rotunjit pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.253705,
@@ -3198,7 +3198,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pemetic Mountain",
-                  "text": "Pemetic Mountain este un vârf pe insula Mount Desert.",
+                  "text": "Un munte care oferă vedere asupra iazului Jordan.",
                   "category": "natural",
                   "coords": [
                         -68.245472,
@@ -3207,7 +3207,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dike Peak",
-                  "text": "Dike Peak este un vârf pe insula Mount Desert.",
+                  "text": "Un vârf format de un dig vulcanic pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.225956,
@@ -3216,7 +3216,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Conners Nubble",
-                  "text": "Conners Nubble este un vârf pe insula Mount Desert.",
+                  "text": "Un vârf stâncos mic pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.256131,
@@ -3225,7 +3225,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Bubble",
-                  "text": "North Bubble este un vârf pe insula Mount Desert.",
+                  "text": "Un dom de granit adiacent South Bubble pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.2569,
@@ -3234,7 +3234,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sargent Mountain",
-                  "text": "Sargent Mountain este un vârf pe insula Mount Desert.",
+                  "text": "Un vârf important pe creasta centrală a Insulei Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.273489,
@@ -3243,7 +3243,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gilmore  Peak",
-                  "text": "Gilmore Peak este un vârf pe insula Mount Desert.",
+                  "text": "Un vârf pe creasta estică a Insulei Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.279908,
@@ -3252,7 +3252,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Parkman Mountain",
-                  "text": "Parkman Mountain este un vârf pe insula Mount Desert.",
+                  "text": "Un munte lângă partea vestică a Insulei Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.285705,
@@ -3261,7 +3261,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Peak",
-                  "text": "Bald Peak este un vârf pe insula Mount Desert.",
+                  "text": "Un vârf fără copaci pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.283831,
@@ -3270,7 +3270,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "McFarland Mountain",
-                  "text": "McFarland Mountain este un vârf pe insula Mount Desert.",
+                  "text": "Un munte în partea nordică a Insulei Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.265078,
@@ -3279,7 +3279,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Whitecap",
-                  "text": "The Whitecap este un vârf pe insula Mount Desert.",
+                  "text": "Un vârf cu un vârf de cuarțit alb pe Insula Mount Desert.",
                   "category": "natural",
                   "coords": [
                         -68.235252,
@@ -3335,7 +3335,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hadlock Cove",
-                  "text": "A scenic cove on Mount Desert Island.",
+                  "text": "A cove on the southern coast of Mount Desert Island.",
                   "category": "landmark",
                   "coords": [
                         -68.240135,
@@ -3353,7 +3353,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hodgon Cove",
-                  "text": "A cove along the coast of Mount Desert Island.",
+                  "text": "A cove on the eastern shore of Mount Desert Island.",
                   "category": "landmark",
                   "coords": [
                         -68.410297,
@@ -3380,7 +3380,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eliot Mountain",
-                  "text": "A mountain on Mount Desert Island with hiking trails.",
+                  "text": "A peak on the western side of Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.273893,
@@ -3398,7 +3398,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Butlers Hill",
-                  "text": "A hill on Mount Desert Island.",
+                  "text": "A hill overlooking Northeast Harbor on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.420575,
@@ -3407,7 +3407,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Robbins Hill",
-                  "text": "A hill on Mount Desert Island.",
+                  "text": "A hill near Bar Harbor on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.410019,
@@ -3416,7 +3416,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Murphy Hill",
-                  "text": "A hill on Mount Desert Island.",
+                  "text": "A hill near the town of Southwest Harbor on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.40613,
@@ -3425,7 +3425,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "China Hill",
-                  "text": "A hill on Mount Desert Island.",
+                  "text": "A hill on the central ridge of Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.365296,
@@ -3434,7 +3434,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mansell Mountain",
-                  "text": "A mountain on Mount Desert Island.",
+                  "text": "A mountain on the western side of Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.361406,
@@ -3452,7 +3452,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Enoch Mountain",
-                  "text": "A mountain on Mount Desert Island.",
+                  "text": "A mountain in the interior of Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.187966,
@@ -3479,7 +3479,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ox Hill",
-                  "text": "A hill on Mount Desert Island.",
+                  "text": "A low hill on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.235837,
@@ -3488,7 +3488,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Barr Hill",
-                  "text": "A hill on Mount Desert Island.",
+                  "text": "A hill on Mount Desert Island near Eagle Lake.",
                   "category": "natural",
                   "coords": [
                         -68.249942,
@@ -3497,7 +3497,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cedar Swamp Mountain",
-                  "text": "A mountain on Mount Desert Island with a swampy area.",
+                  "text": "A mountain named for the cedar swamp at its base.",
                   "category": "natural",
                   "coords": [
                         -68.27613,
@@ -3515,7 +3515,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mitchell Hill",
-                  "text": "A hill on Mount Desert Island.",
+                  "text": "A hill on Mount Desert Island near Somes Sound.",
                   "category": "natural",
                   "coords": [
                         -68.261753,
@@ -3533,7 +3533,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Day Mountain",
-                  "text": "Day Mountain is a peak on Mount Desert Island.",
+                  "text": "A mountain on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.231875,
@@ -3542,7 +3542,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagles Crag",
-                  "text": "Eagles Crag is a peak on Mount Desert Island.",
+                  "text": "A rocky crag on the east side of Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.219648,
@@ -3551,7 +3551,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Bubble",
-                  "text": "South Bubble is a peak on Mount Desert Island.",
+                  "text": "A rounded granite dome on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.253705,
@@ -3560,7 +3560,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pemetic Mountain",
-                  "text": "Pemetic Mountain is a peak on Mount Desert Island.",
+                  "text": "A mountain offering views of Jordan Pond.",
                   "category": "natural",
                   "coords": [
                         -68.245472,
@@ -3569,7 +3569,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dike Peak",
-                  "text": "Dike Peak is a peak on Mount Desert Island.",
+                  "text": "A peak formed by a volcanic dike on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.225956,
@@ -3578,7 +3578,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Conners Nubble",
-                  "text": "Conners Nubble is a peak on Mount Desert Island.",
+                  "text": "A small rocky peak on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.256131,
@@ -3587,7 +3587,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Bubble",
-                  "text": "North Bubble is a peak on Mount Desert Island.",
+                  "text": "A granite dome adjacent to South Bubble on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.2569,
@@ -3596,7 +3596,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sargent Mountain",
-                  "text": "Sargent Mountain is a peak on Mount Desert Island.",
+                  "text": "A major peak on the central ridgeline of Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.273489,
@@ -3605,7 +3605,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gilmore  Peak",
-                  "text": "Gilmore Peak is a peak on Mount Desert Island.",
+                  "text": "A peak on the eastern ridge of Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.279908,
@@ -3614,7 +3614,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Parkman Mountain",
-                  "text": "Parkman Mountain is a peak on Mount Desert Island.",
+                  "text": "A mountain near the western side of Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.285705,
@@ -3623,7 +3623,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Peak",
-                  "text": "Bald Peak is a peak on Mount Desert Island.",
+                  "text": "A treeless summit on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.283831,
@@ -3632,7 +3632,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "McFarland Mountain",
-                  "text": "McFarland Mountain is a peak on Mount Desert Island.",
+                  "text": "A mountain in the northern part of Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.265078,
@@ -3641,7 +3641,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Whitecap",
-                  "text": "The Whitecap is a peak on Mount Desert Island.",
+                  "text": "A peak with a white quartzite summit on Mount Desert Island.",
                   "category": "natural",
                   "coords": [
                         -68.235252,
@@ -3751,7 +3751,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cold Spring",
-                  "text": "Eine Quelle im Crater-Lake-Nationalpark.",
+                  "text": "Eine kalte Quelle in der Region Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.146577,
@@ -3760,7 +3760,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bear Bluff",
-                  "text": "Eine Klippe im Crater-Lake-Nationalpark.",
+                  "text": "Eine Klippe mit Blick auf einen See.",
                   "category": "landmark",
                   "coords": [
                         -122.158361,
@@ -3769,7 +3769,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Maklaks Spring",
-                  "text": "Eine Quelle im Crater-Lake-Nationalpark.",
+                  "text": "Eine Quelle, deren Name auf die indigene Modoc-Sprache zurückgeht, in der Region Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.033429,
@@ -3778,7 +3778,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pothole Spring",
-                  "text": "Eine Quelle im Crater-Lake-Nationalpark.",
+                  "text": "Eine Quelle, die aus einem natürlichen Strudelloch entspringt.",
                   "category": "landmark",
                   "coords": [
                         -121.998815,
@@ -3787,7 +3787,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cascade Spring",
-                  "text": "Eine Quelle im Crater-Lake-Nationalpark.",
+                  "text": "Eine Quelle am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.022007,
@@ -3796,7 +3796,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rugged Crest Palisades",
-                  "text": "Klippen im Crater-Lake-Nationalpark.",
+                  "text": "Felsige Palisadenklippen am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.064471,
@@ -3805,7 +3805,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cleetwood Cove",
-                  "text": "Eine Bucht im Crater-Lake-Nationalpark.",
+                  "text": "Die einzige Bucht mit einem Wanderweg zum Wasser des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.078061,
@@ -3814,7 +3814,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wineglass",
-                  "text": "Eine Klippe im Crater-Lake-Nationalpark.",
+                  "text": "Eine weinglasförmige Felsformation am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.051415,
@@ -3823,7 +3823,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Grotto Cove",
-                  "text": "Eine Bucht im Crater-Lake-Nationalpark.",
+                  "text": "Eine Bucht mit vulkanischen Felsformationen am Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.051734,
@@ -3832,7 +3832,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Victor View",
-                  "text": "Eine Klippe im Crater-Lake-Nationalpark.",
+                  "text": "Ein Aussichtspunkt am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.06086,
@@ -3841,7 +3841,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudcap Bay",
-                  "text": "Eine Bucht im Crater-Lake-Nationalpark.",
+                  "text": "Eine Bucht am Ostufer des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.058481,
@@ -3850,7 +3850,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pumice Castle",
-                  "text": "Eine Klippe im Crater-Lake-Nationalpark.",
+                  "text": "Eine burgähnliche Bimsstein-Felsformation am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.057526,
@@ -3859,7 +3859,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scott Bluffs",
-                  "text": "Klippen im Crater-Lake-Nationalpark.",
+                  "text": "Steilklippen am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.027526,
@@ -3868,7 +3868,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Anderson Spring",
-                  "text": "Eine Quelle im Crater-Lake-Nationalpark.",
+                  "text": "Eine Quelle am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.048554,
@@ -3877,7 +3877,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Anderson Bluffs",
-                  "text": "Klippen im Crater-Lake-Nationalpark.",
+                  "text": "Steilklippen am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.032247,
@@ -3886,7 +3886,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Danger Bay",
-                  "text": "Eine Bucht im Crater-Lake-Nationalpark.",
+                  "text": "Eine Bucht am Südufer des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.068199,
@@ -3895,7 +3895,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vidae Cliff",
-                  "text": "Eine Klippe im Crater-Lake-Nationalpark.",
+                  "text": "Eine Klippe am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.100582,
@@ -3904,7 +3904,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chaski Bay",
-                  "text": "Eine Bucht am Ufer des Crater Lake.",
+                  "text": "Eine Bucht am Westufer des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.09796,
@@ -3913,7 +3913,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Munson Springs",
-                  "text": "Eine Quelle im Crater-Lake-Gebiet.",
+                  "text": "Quellen am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.138639,
@@ -3922,7 +3922,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagle Cove",
-                  "text": "Eine Bucht am Ufer des Crater Lake.",
+                  "text": "Eine Bucht am Ostufer des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.138917,
@@ -3931,7 +3931,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Governors Bay",
-                  "text": "Eine Bucht am Ufer des Crater Lake.",
+                  "text": "Eine Bucht am Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.149716,
@@ -3940,7 +3940,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fumarole Bay",
-                  "text": "Eine Bucht am Ufer des Crater Lake.",
+                  "text": "Eine Bucht, benannt nach ehemaligen vulkanischen Fumarolen, am Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.153918,
@@ -3949,7 +3949,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Steel Bay",
-                  "text": "Eine Bucht am Ufer des Crater Lake.",
+                  "text": "Eine Bucht am Südufer des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.11364,
@@ -3958,7 +3958,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Merriam Point",
-                  "text": "Eine Klippe am Rand des Crater Lake.",
+                  "text": "Eine Landspitze am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.156696,
@@ -3967,7 +3967,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Llao Bay",
-                  "text": "Eine Bucht am Ufer des Crater Lake.",
+                  "text": "Eine Bucht am Nordufer des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.141041,
@@ -3976,7 +3976,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rim of the Crater",
-                  "text": "Der Rand des Kraters.",
+                  "text": "Der Kraterrand, der den Crater Lake umgibt, ein vulkanischer Caldera.",
                   "category": "landmark",
                   "coords": [
                         -122.144751,
@@ -3985,7 +3985,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lightning Spring",
-                  "text": "Eine Quelle im Crater-Lake-Gebiet.",
+                  "text": "Eine Quelle am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.179015,
@@ -3994,7 +3994,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Whitehorse Bluff",
-                  "text": "Eine Klippe im Crater-Lake-Gebiet.",
+                  "text": "Eine Steilklippe am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.201418,
@@ -4003,7 +4003,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Annie Spring",
-                  "text": "Eine Quelle im Crater-Lake-Gebiet.",
+                  "text": "Eine Quelle am Rand des Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.168879,
@@ -4012,7 +4012,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Crater Peak",
-                  "text": "Ein Gipfel im Crater-Lake-Gebiet.",
+                  "text": "Ein Gipfel am Rand der Caldera des Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.097804,
@@ -4021,7 +4021,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Roundtop",
-                  "text": "Ein Gipfel im Crater-Lake-Gebiet.",
+                  "text": "Ein abgerundeter Gipfel nahe dem Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.057484,
@@ -4030,7 +4030,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudcap",
-                  "text": "Ein Gipfel im Crater-Lake-Gebiet.",
+                  "text": "Der höchste Punkt am Rand des Crater Lake, fast 2.440 Meter hoch.",
                   "category": "natural",
                   "coords": [
                         -122.041905,
@@ -4039,7 +4039,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagle Crags",
-                  "text": "Ein Gipfel im Crater-Lake-Gebiet.",
+                  "text": "Felszacken am Rand des Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.114659,
@@ -4048,7 +4048,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Applegate Peak",
-                  "text": "Ein Gipfel im Crater-Lake-Gebiet.",
+                  "text": "Ein Gipfel am Rand des Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.105305,
@@ -4057,7 +4057,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Munson Point",
-                  "text": "Ein Gipfel im Crater-Lake-Gebiet.",
+                  "text": "Eine Landspitze am Rand des Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.158084,
@@ -4066,7 +4066,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Garfield Peak",
-                  "text": "Ein Gipfel im Crater-Lake-Gebiet.",
+                  "text": "Ein Gipfel am Rand des Crater Lake mit einem beliebten Wanderweg.",
                   "category": "natural",
                   "coords": [
                         -122.123083,
@@ -4075,7 +4075,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Llao Rock",
-                  "text": "Ein Gipfel im Crater-Lake-Gebiet.",
+                  "text": "Eine massive Lavakuppel am Rand des Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.135473,
@@ -4084,7 +4084,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Williams Crater",
-                  "text": "Ein Gipfel im Crater-Lake-Gebiet.",
+                  "text": "Ein kleiner Krater am Rand des Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.18003,
@@ -4113,7 +4113,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cold Spring",
-                  "text": "Egy forrás a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy hideg forrás a Lake régióban.",
                   "category": "landmark",
                   "coords": [
                         -122.146577,
@@ -4122,7 +4122,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bear Bluff",
-                  "text": "Egy szikla a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy szikla, amely egy tóra néz.",
                   "category": "landmark",
                   "coords": [
                         -122.158361,
@@ -4131,7 +4131,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Maklaks Spring",
-                  "text": "Egy forrás a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy forrás, amelynek neve az őslakos modoc nyelvből származik, a Lake régióban.",
                   "category": "landmark",
                   "coords": [
                         -122.033429,
@@ -4140,7 +4140,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pothole Spring",
-                  "text": "Egy forrás a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy forrás, amely egy természetes víznyelőből tör elő.",
                   "category": "landmark",
                   "coords": [
                         -121.998815,
@@ -4149,7 +4149,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cascade Spring",
-                  "text": "Egy forrás a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy forrás a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.022007,
@@ -4158,7 +4158,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rugged Crest Palisades",
-                  "text": "Sziklák a Crater Lake Nemzeti Parkban.",
+                  "text": "Sziklás paliszád szirtek a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.064471,
@@ -4167,7 +4167,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cleetwood Cove",
-                  "text": "Egy öböl a Crater Lake Nemzeti Parkban.",
+                  "text": "Az egyetlen öböl a Crater Lake-en, ahol ösvény vezet a vízhez.",
                   "category": "landmark",
                   "coords": [
                         -122.078061,
@@ -4176,7 +4176,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wineglass",
-                  "text": "Egy szikla a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy pohár alakú sziklaalakzat a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.051415,
@@ -4185,7 +4185,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Grotto Cove",
-                  "text": "Egy öböl a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy öböl vulkanikus sziklaalakzatokkal a Crater Lake-en.",
                   "category": "landmark",
                   "coords": [
                         -122.051734,
@@ -4194,7 +4194,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Victor View",
-                  "text": "Egy szikla a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy kilátó a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.06086,
@@ -4203,7 +4203,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudcap Bay",
-                  "text": "Egy öböl a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy öböl a Crater Lake keleti partján.",
                   "category": "landmark",
                   "coords": [
                         -122.058481,
@@ -4212,7 +4212,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pumice Castle",
-                  "text": "Egy szikla a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy várra emlékeztető habkő sziklaalakzat a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.057526,
@@ -4221,7 +4221,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scott Bluffs",
-                  "text": "Sziklák a Crater Lake Nemzeti Parkban.",
+                  "text": "Sziklafalak a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.027526,
@@ -4230,7 +4230,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Anderson Spring",
-                  "text": "Egy forrás a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy forrás a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.048554,
@@ -4239,7 +4239,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Anderson Bluffs",
-                  "text": "Sziklák a Crater Lake Nemzeti Parkban.",
+                  "text": "Sziklafalak a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.032247,
@@ -4248,7 +4248,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Danger Bay",
-                  "text": "Egy öböl a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy öböl a Crater Lake déli partján.",
                   "category": "landmark",
                   "coords": [
                         -122.068199,
@@ -4257,7 +4257,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vidae Cliff",
-                  "text": "Egy szikla a Crater Lake Nemzeti Parkban.",
+                  "text": "Egy szikla a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.100582,
@@ -4266,7 +4266,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chaski Bay",
-                  "text": "Egy öböl a Crater Lake partján.",
+                  "text": "Egy öböl a Crater Lake nyugati partján.",
                   "category": "landmark",
                   "coords": [
                         -122.09796,
@@ -4275,7 +4275,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Munson Springs",
-                  "text": "Egy forrás a Crater Lake területén.",
+                  "text": "Források a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.138639,
@@ -4284,7 +4284,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagle Cove",
-                  "text": "Egy öböl a Crater Lake partján.",
+                  "text": "Egy öböl a Crater Lake keleti partján.",
                   "category": "landmark",
                   "coords": [
                         -122.138917,
@@ -4293,7 +4293,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Governors Bay",
-                  "text": "Egy öböl a Crater Lake partján.",
+                  "text": "Egy öböl a Crater Lake-en.",
                   "category": "landmark",
                   "coords": [
                         -122.149716,
@@ -4302,7 +4302,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fumarole Bay",
-                  "text": "Egy öböl a Crater Lake partján.",
+                  "text": "Egy öböl a Crater Lake-en, amelyet egykori vulkáni fumarolákról neveztek el.",
                   "category": "landmark",
                   "coords": [
                         -122.153918,
@@ -4311,7 +4311,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Steel Bay",
-                  "text": "Egy öböl a Crater Lake partján.",
+                  "text": "Egy öböl a Crater Lake déli partján.",
                   "category": "landmark",
                   "coords": [
                         -122.11364,
@@ -4320,7 +4320,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Merriam Point",
-                  "text": "Egy szikla a Crater Lake peremén.",
+                  "text": "Egy földnyelv a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.156696,
@@ -4329,7 +4329,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Llao Bay",
-                  "text": "Egy öböl a Crater Lake partján.",
+                  "text": "Egy öböl a Crater Lake északi partján.",
                   "category": "landmark",
                   "coords": [
                         -122.141041,
@@ -4338,7 +4338,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rim of the Crater",
-                  "text": "A kráter pereme.",
+                  "text": "A kráter pereme, amely körülveszi a Crater Lake-et, egy vulkáni kaldera.",
                   "category": "landmark",
                   "coords": [
                         -122.144751,
@@ -4347,7 +4347,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lightning Spring",
-                  "text": "Egy forrás a Crater Lake területén.",
+                  "text": "Egy forrás a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.179015,
@@ -4356,7 +4356,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Whitehorse Bluff",
-                  "text": "Egy szikla a Crater Lake területén.",
+                  "text": "Egy sziklafal a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.201418,
@@ -4365,7 +4365,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Annie Spring",
-                  "text": "Egy forrás a Crater Lake területén.",
+                  "text": "Egy forrás a Crater Lake peremén.",
                   "category": "landmark",
                   "coords": [
                         -122.168879,
@@ -4374,7 +4374,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Crater Peak",
-                  "text": "Egy csúcs a Crater Lake területén.",
+                  "text": "Egy csúcs a Crater Lake kalderájának peremén.",
                   "category": "natural",
                   "coords": [
                         -122.097804,
@@ -4383,7 +4383,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Roundtop",
-                  "text": "Egy csúcs a Crater Lake területén.",
+                  "text": "Egy lekerekített csúcs a Crater Lake közelében.",
                   "category": "natural",
                   "coords": [
                         -122.057484,
@@ -4392,7 +4392,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudcap",
-                  "text": "Egy csúcs a Crater Lake területén.",
+                  "text": "A legmagasabb pont a Crater Lake peremén, csaknem 2440 méter magas.",
                   "category": "natural",
                   "coords": [
                         -122.041905,
@@ -4401,7 +4401,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagle Crags",
-                  "text": "Egy csúcs a Crater Lake területén.",
+                  "text": "Sziklatornyok a Crater Lake peremén.",
                   "category": "natural",
                   "coords": [
                         -122.114659,
@@ -4410,7 +4410,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Applegate Peak",
-                  "text": "Egy csúcs a Crater Lake területén.",
+                  "text": "Egy csúcs a Crater Lake peremén.",
                   "category": "natural",
                   "coords": [
                         -122.105305,
@@ -4419,7 +4419,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Munson Point",
-                  "text": "Egy csúcs a Crater Lake területén.",
+                  "text": "Egy földnyelv a Crater Lake peremén.",
                   "category": "natural",
                   "coords": [
                         -122.158084,
@@ -4428,7 +4428,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Garfield Peak",
-                  "text": "Egy csúcs a Crater Lake területén.",
+                  "text": "Egy csúcs a Crater Lake peremén, népszerű túraútvonallal.",
                   "category": "natural",
                   "coords": [
                         -122.123083,
@@ -4437,7 +4437,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Llao Rock",
-                  "text": "Egy csúcs a Crater Lake területén.",
+                  "text": "Egy hatalmas lávadóm a Crater Lake peremén.",
                   "category": "natural",
                   "coords": [
                         -122.135473,
@@ -4446,7 +4446,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Williams Crater",
-                  "text": "Egy csúcs a Crater Lake területén.",
+                  "text": "Egy kis kráter a Crater Lake peremén.",
                   "category": "natural",
                   "coords": [
                         -122.18003,
@@ -4475,7 +4475,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cold Spring",
-                  "text": "Un izvor în Parcul Național Crater Lake.",
+                  "text": "Un izvor cu apă rece în regiunea Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.146577,
@@ -4484,7 +4484,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bear Bluff",
-                  "text": "O stâncă în Parcul Național Crater Lake.",
+                  "text": "O stâncă cu vedere spre un lac.",
                   "category": "landmark",
                   "coords": [
                         -122.158361,
@@ -4493,7 +4493,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Maklaks Spring",
-                  "text": "Un izvor în Parcul Național Crater Lake.",
+                  "text": "Un izvor cu nume derivat din limba indigenă Modoc, în regiunea Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.033429,
@@ -4502,7 +4502,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pothole Spring",
-                  "text": "Un izvor în Parcul Național Crater Lake.",
+                  "text": "Un izvor care iese dintr-o adâncitură naturală (pothole).",
                   "category": "landmark",
                   "coords": [
                         -121.998815,
@@ -4511,7 +4511,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cascade Spring",
-                  "text": "Un izvor în Parcul Național Crater Lake.",
+                  "text": "Un izvor pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.022007,
@@ -4520,7 +4520,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rugged Crest Palisades",
-                  "text": "Stânci în Parcul Național Crater Lake.",
+                  "text": "Stânci palisadă pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.064471,
@@ -4529,7 +4529,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cleetwood Cove",
-                  "text": "Un golf în Parcul Național Crater Lake.",
+                  "text": "Singurul golf de pe Lacul Crater cu un traseu până la apă.",
                   "category": "landmark",
                   "coords": [
                         -122.078061,
@@ -4538,7 +4538,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wineglass",
-                  "text": "O stâncă în Parcul Național Crater Lake.",
+                  "text": "O formațiune stâncoasă în formă de pahar pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.051415,
@@ -4547,7 +4547,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Grotto Cove",
-                  "text": "Un golf în Parcul Național Crater Lake.",
+                  "text": "Un golf cu formațiuni vulcanice pe Lacul Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.051734,
@@ -4556,7 +4556,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Victor View",
-                  "text": "O stâncă în Parcul Național Crater Lake.",
+                  "text": "Un punct de belvedere pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.06086,
@@ -4565,7 +4565,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudcap Bay",
-                  "text": "Un golf în Parcul Național Crater Lake.",
+                  "text": "Un golf pe malul estic al Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.058481,
@@ -4574,7 +4574,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pumice Castle",
-                  "text": "O stâncă în Parcul Național Crater Lake.",
+                  "text": "O formațiune de piatră ponce asemănătoare unui castel pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.057526,
@@ -4583,7 +4583,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scott Bluffs",
-                  "text": "Stânci în Parcul Național Crater Lake.",
+                  "text": "Stânci abrupte pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.027526,
@@ -4592,7 +4592,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Anderson Spring",
-                  "text": "Un izvor în Parcul Național Crater Lake.",
+                  "text": "Un izvor pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.048554,
@@ -4601,7 +4601,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Anderson Bluffs",
-                  "text": "Stânci în Parcul Național Crater Lake.",
+                  "text": "Stânci abrupte pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.032247,
@@ -4610,7 +4610,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Danger Bay",
-                  "text": "Un golf în Parcul Național Crater Lake.",
+                  "text": "Un golf pe malul sudic al Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.068199,
@@ -4619,7 +4619,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vidae Cliff",
-                  "text": "O stâncă în Parcul Național Crater Lake.",
+                  "text": "O stâncă pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.100582,
@@ -4628,7 +4628,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chaski Bay",
-                  "text": "Un golf pe malul Lacului Crater.",
+                  "text": "Un golf pe malul vestic al Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.09796,
@@ -4637,7 +4637,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Munson Springs",
-                  "text": "Un izvor în zona Lacului Crater.",
+                  "text": "Izvoare pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.138639,
@@ -4646,7 +4646,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagle Cove",
-                  "text": "Un golf pe malul Lacului Crater.",
+                  "text": "Un golf pe malul estic al Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.138917,
@@ -4655,7 +4655,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Governors Bay",
-                  "text": "Un golf pe malul Lacului Crater.",
+                  "text": "Un golf pe Lacul Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.149716,
@@ -4664,7 +4664,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fumarole Bay",
-                  "text": "Un golf pe malul Lacului Crater.",
+                  "text": "Un golf pe Lacul Crater, numit după foste fumarole vulcanice.",
                   "category": "landmark",
                   "coords": [
                         -122.153918,
@@ -4673,7 +4673,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Steel Bay",
-                  "text": "Un golf pe malul Lacului Crater.",
+                  "text": "Un golf pe malul sudic al Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.11364,
@@ -4682,7 +4682,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Merriam Point",
-                  "text": "O stâncă pe marginea Lacului Crater.",
+                  "text": "Un promontoriu pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.156696,
@@ -4691,7 +4691,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Llao Bay",
-                  "text": "Un golf pe malul Lacului Crater.",
+                  "text": "Un golf pe malul nordic al Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.141041,
@@ -4700,7 +4700,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rim of the Crater",
-                  "text": "Marginea craterului.",
+                  "text": "Marginea craterului care înconjoară Lacul Crater, o calderă vulcanică.",
                   "category": "landmark",
                   "coords": [
                         -122.144751,
@@ -4709,7 +4709,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lightning Spring",
-                  "text": "Un izvor în zona Lacului Crater.",
+                  "text": "Un izvor pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.179015,
@@ -4718,7 +4718,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Whitehorse Bluff",
-                  "text": "O stâncă în zona Lacului Crater.",
+                  "text": "O stâncă abruptă pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.201418,
@@ -4727,7 +4727,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Annie Spring",
-                  "text": "Un izvor în zona Lacului Crater.",
+                  "text": "Un izvor pe marginea Lacului Crater.",
                   "category": "landmark",
                   "coords": [
                         -122.168879,
@@ -4736,7 +4736,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Crater Peak",
-                  "text": "Un vârf în zona Lacului Crater.",
+                  "text": "Un vârf pe marginea calderei Lacului Crater.",
                   "category": "natural",
                   "coords": [
                         -122.097804,
@@ -4745,7 +4745,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Roundtop",
-                  "text": "Un vârf în zona Lacului Crater.",
+                  "text": "Un vârf rotunjit lângă Lacul Crater.",
                   "category": "natural",
                   "coords": [
                         -122.057484,
@@ -4754,7 +4754,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudcap",
-                  "text": "Un vârf în zona Lacului Crater.",
+                  "text": "Cel mai înalt punct pe marginea Lacului Crater, aproape 2.440 de metri.",
                   "category": "natural",
                   "coords": [
                         -122.041905,
@@ -4763,7 +4763,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagle Crags",
-                  "text": "Un vârf în zona Lacului Crater.",
+                  "text": "Stânci ascuțite pe marginea Lacului Crater.",
                   "category": "natural",
                   "coords": [
                         -122.114659,
@@ -4772,7 +4772,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Applegate Peak",
-                  "text": "Un vârf în zona Lacului Crater.",
+                  "text": "Un vârf pe marginea Lacului Crater.",
                   "category": "natural",
                   "coords": [
                         -122.105305,
@@ -4781,7 +4781,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Munson Point",
-                  "text": "Un vârf în zona Lacului Crater.",
+                  "text": "Un promontoriu pe marginea Lacului Crater.",
                   "category": "natural",
                   "coords": [
                         -122.158084,
@@ -4790,7 +4790,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Garfield Peak",
-                  "text": "Un vârf în zona Lacului Crater.",
+                  "text": "Un vârf pe marginea Lacului Crater cu un traseu popular de drumeție.",
                   "category": "natural",
                   "coords": [
                         -122.123083,
@@ -4799,7 +4799,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Llao Rock",
-                  "text": "Un vârf în zona Lacului Crater.",
+                  "text": "Un dom masiv de lavă pe marginea Lacului Crater.",
                   "category": "natural",
                   "coords": [
                         -122.135473,
@@ -4808,7 +4808,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Williams Crater",
-                  "text": "Un vârf în zona Lacului Crater.",
+                  "text": "Un mic crater pe marginea Lacului Crater.",
                   "category": "natural",
                   "coords": [
                         -122.18003,
@@ -4837,7 +4837,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cold Spring",
-                  "text": "A spring in Crater Lake National Park.",
+                  "text": "A cold spring in the Lake region.",
                   "category": "landmark",
                   "coords": [
                         -122.146577,
@@ -4846,7 +4846,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bear Bluff",
-                  "text": "A cliff in Crater Lake National Park.",
+                  "text": "A bluff overlooking a lake.",
                   "category": "landmark",
                   "coords": [
                         -122.158361,
@@ -4855,7 +4855,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Maklaks Spring",
-                  "text": "A spring in Crater Lake National Park.",
+                  "text": "A spring named from the indigenous Modoc language, in the Lake region.",
                   "category": "landmark",
                   "coords": [
                         -122.033429,
@@ -4864,7 +4864,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pothole Spring",
-                  "text": "A spring in Crater Lake National Park.",
+                  "text": "A spring emerging from a natural pothole.",
                   "category": "landmark",
                   "coords": [
                         -121.998815,
@@ -4873,7 +4873,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cascade Spring",
-                  "text": "A spring in Crater Lake National Park.",
+                  "text": "A spring on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.022007,
@@ -4882,7 +4882,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rugged Crest Palisades",
-                  "text": "Cliffs in Crater Lake National Park.",
+                  "text": "Rugged palisade cliffs on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.064471,
@@ -4891,7 +4891,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cleetwood Cove",
-                  "text": "A bay in Crater Lake National Park.",
+                  "text": "The only cove on Crater Lake with a trail to the water.",
                   "category": "landmark",
                   "coords": [
                         -122.078061,
@@ -4900,7 +4900,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wineglass",
-                  "text": "A cliff in Crater Lake National Park.",
+                  "text": "A wineglass-shaped rock formation on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.051415,
@@ -4909,7 +4909,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Grotto Cove",
-                  "text": "A bay in Crater Lake National Park.",
+                  "text": "A cove with volcanic rock formations on Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.051734,
@@ -4918,7 +4918,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Victor View",
-                  "text": "A cliff in Crater Lake National Park.",
+                  "text": "A scenic viewpoint on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.06086,
@@ -4927,7 +4927,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudcap Bay",
-                  "text": "A bay in Crater Lake National Park.",
+                  "text": "A bay on the eastern shore of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.058481,
@@ -4936,7 +4936,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pumice Castle",
-                  "text": "A cliff in Crater Lake National Park.",
+                  "text": "A pumice rock formation resembling a castle on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.057526,
@@ -4945,7 +4945,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Scott Bluffs",
-                  "text": "Cliffs in Crater Lake National Park.",
+                  "text": "Bluffs along the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.027526,
@@ -4954,7 +4954,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Anderson Spring",
-                  "text": "A spring in Crater Lake National Park.",
+                  "text": "A spring on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.048554,
@@ -4963,7 +4963,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Anderson Bluffs",
-                  "text": "Cliffs in Crater Lake National Park.",
+                  "text": "Bluffs on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.032247,
@@ -4972,7 +4972,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Danger Bay",
-                  "text": "A bay in Crater Lake National Park.",
+                  "text": "A bay on the southern shore of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.068199,
@@ -4981,7 +4981,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vidae Cliff",
-                  "text": "A cliff in Crater Lake National Park.",
+                  "text": "A cliff on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.100582,
@@ -4990,7 +4990,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Chaski Bay",
-                  "text": "A bay on the shores of Crater Lake.",
+                  "text": "A bay on the western shore of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.09796,
@@ -4999,7 +4999,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Munson Springs",
-                  "text": "A spring located within the Crater Lake area.",
+                  "text": "Springs on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.138639,
@@ -5008,7 +5008,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagle Cove",
-                  "text": "A cove along the shoreline of Crater Lake.",
+                  "text": "A cove on the eastern shore of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.138917,
@@ -5017,7 +5017,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Governors Bay",
-                  "text": "A bay along the shoreline of Crater Lake.",
+                  "text": "A bay on Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.149716,
@@ -5026,7 +5026,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fumarole Bay",
-                  "text": "A bay along the shoreline of Crater Lake.",
+                  "text": "A bay named for former volcanic fumaroles on Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.153918,
@@ -5035,7 +5035,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Steel Bay",
-                  "text": "A bay along the shoreline of Crater Lake.",
+                  "text": "A bay on the southern shore of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.11364,
@@ -5044,7 +5044,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Merriam Point",
-                  "text": "A cliff along the rim of Crater Lake.",
+                  "text": "A point on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.156696,
@@ -5053,7 +5053,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Llao Bay",
-                  "text": "A bay on the shores of Crater Lake.",
+                  "text": "A bay on the northern shore of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.141041,
@@ -5062,7 +5062,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rim of the Crater",
-                  "text": "The rim of the crater.",
+                  "text": "The rim encompassing Crater Lake, a volcanic caldera.",
                   "category": "landmark",
                   "coords": [
                         -122.144751,
@@ -5071,7 +5071,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lightning Spring",
-                  "text": "A spring in the Crater Lake area.",
+                  "text": "A spring on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.179015,
@@ -5080,7 +5080,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Whitehorse Bluff",
-                  "text": "A bluff in the Crater Lake area.",
+                  "text": "A bluff on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.201418,
@@ -5089,7 +5089,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Annie Spring",
-                  "text": "A spring in the Crater Lake area.",
+                  "text": "A spring on the rim of Crater Lake.",
                   "category": "landmark",
                   "coords": [
                         -122.168879,
@@ -5098,7 +5098,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Crater Peak",
-                  "text": "A peak in the Crater Lake area.",
+                  "text": "A peak on the rim of Crater Lake caldera.",
                   "category": "natural",
                   "coords": [
                         -122.097804,
@@ -5107,7 +5107,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Roundtop",
-                  "text": "A peak in the Crater Lake area.",
+                  "text": "A rounded peak near Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.057484,
@@ -5116,7 +5116,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cloudcap",
-                  "text": "A peak in the Crater Lake area.",
+                  "text": "The highest point on the rim of Crater Lake, nearly 8,000 feet.",
                   "category": "natural",
                   "coords": [
                         -122.041905,
@@ -5125,7 +5125,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagle Crags",
-                  "text": "A peak in the Crater Lake area.",
+                  "text": "Crags on the rim of Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.114659,
@@ -5134,7 +5134,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Applegate Peak",
-                  "text": "A peak in the Crater Lake area.",
+                  "text": "A peak on the rim of Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.105305,
@@ -5143,7 +5143,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Munson Point",
-                  "text": "A peak in the Crater Lake area.",
+                  "text": "A point on the rim of Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.158084,
@@ -5152,7 +5152,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Garfield Peak",
-                  "text": "A peak in the Crater Lake area.",
+                  "text": "A peak on the rim of Crater Lake with a popular hiking trail.",
                   "category": "natural",
                   "coords": [
                         -122.123083,
@@ -5161,7 +5161,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Llao Rock",
-                  "text": "A peak in the Crater Lake area.",
+                  "text": "A massive lava dome on the rim of Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.135473,
@@ -5170,7 +5170,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Williams Crater",
-                  "text": "A peak in the Crater Lake area.",
+                  "text": "A small crater on the rim of Crater Lake.",
                   "category": "natural",
                   "coords": [
                         -122.18003,
@@ -5222,7 +5222,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Table Mountain",
-                  "text": "Ein flacher Gipfel im Sequoia National Forest.",
+                  "text": "Ein Tafelberg in einem Nationalforst.",
                   "category": "natural",
                   "coords": [
                         -118.604203,
@@ -5240,7 +5240,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Parker Bluffs",
-                  "text": "Eine Klippenformation im Sequoia National Forest.",
+                  "text": "Steilklippen in einem Nationalforst.",
                   "category": "landmark",
                   "coords": [
                         -118.565365,
@@ -5249,7 +5249,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thompson Camp Spring",
-                  "text": "Eine Quelle am Thompson Camp im Sequoia National Forest.",
+                  "text": "Eine Quelle in einem Nationalforst.",
                   "category": "landmark",
                   "coords": [
                         -118.570483,
@@ -5258,7 +5258,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dome Rock",
-                  "text": "Ein Granitkuppelgipfel im Sequoia National Forest.",
+                  "text": "Ein großer, kuppelförmiger Felsen in einem Nationalforst.",
                   "category": "natural",
                   "coords": [
                         -118.564523,
@@ -5276,7 +5276,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Capitol Rock",
-                  "text": "Ein Felsgipfel im Sequoia National Forest.",
+                  "text": "Eine markante Felsformation in einem Nationalforst.",
                   "category": "natural",
                   "coords": [
                         -118.52691,
@@ -5285,7 +5285,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cabin 242",
-                  "text": "Eine historische Hütte im Sequoia National Forest.",
+                  "text": "Blockhütte Nummer 242 im National Forest, nutzbar als Unterkunft.",
                   "category": "landmark",
                   "coords": [
                         -118.539957,
@@ -5312,7 +5312,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Onion Meadow Peak",
-                  "text": "Ein Gipfel nahe der Onion Meadow im Sequoia National Forest.",
+                  "text": "Ein Gipfel in einem Nationalforst nahe der Onion Meadow.",
                   "category": "natural",
                   "coords": [
                         -118.604604,
@@ -5341,7 +5341,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Table Mountain",
-                  "text": "Egy lapos tetejű csúcs a Sequoia Nemzeti Erdőben.",
+                  "text": "Egy asztalhegy egy nemzeti erdőben.",
                   "category": "natural",
                   "coords": [
                         -118.604203,
@@ -5359,7 +5359,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Parker Bluffs",
-                  "text": "Egy sziklafal képződmény a Sequoia Nemzeti Erdőben.",
+                  "text": "Sziklafalak egy nemzeti erdőben.",
                   "category": "landmark",
                   "coords": [
                         -118.565365,
@@ -5368,7 +5368,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thompson Camp Spring",
-                  "text": "Egy forrás a Thompson Campnél a Sequoia Nemzeti Erdőben.",
+                  "text": "Egy forrás egy nemzeti erdőben.",
                   "category": "landmark",
                   "coords": [
                         -118.570483,
@@ -5377,7 +5377,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dome Rock",
-                  "text": "Egy gránitkupola csúcs a Sequoia Nemzeti Erdőben.",
+                  "text": "Egy nagy, kupola alakú szikla egy nemzeti erdőben.",
                   "category": "natural",
                   "coords": [
                         -118.564523,
@@ -5395,7 +5395,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Capitol Rock",
-                  "text": "Egy sziklás csúcs a Sequoia Nemzeti Erdőben.",
+                  "text": "Egy jellegzetes sziklaalakzat egy nemzeti erdőben.",
                   "category": "natural",
                   "coords": [
                         -118.52691,
@@ -5404,7 +5404,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cabin 242",
-                  "text": "Egy történelmi kunyhó a Sequoia Nemzeti Erdőben.",
+                  "text": "A 242-es számú faház a Nemzeti Erdőben, szállásként használható.",
                   "category": "landmark",
                   "coords": [
                         -118.539957,
@@ -5431,7 +5431,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Onion Meadow Peak",
-                  "text": "Egy csúcs az Onion Meadow közelében a Sequoia Nemzeti Erdőben.",
+                  "text": "Egy csúcs egy nemzeti erdőben, az Onion Meadow közelében.",
                   "category": "natural",
                   "coords": [
                         -118.604604,
@@ -5460,7 +5460,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Table Mountain",
-                  "text": "Un vârf cu platou în Pădurea Națională Sequoia.",
+                  "text": "Un munte cu platou într-o pădure națională.",
                   "category": "natural",
                   "coords": [
                         -118.604203,
@@ -5478,7 +5478,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Parker Bluffs",
-                  "text": "O formațiune de stâncă în Pădurea Națională Sequoia.",
+                  "text": "Stânci abrupte într-o pădure națională.",
                   "category": "landmark",
                   "coords": [
                         -118.565365,
@@ -5487,7 +5487,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thompson Camp Spring",
-                  "text": "Un izvor la Thompson Camp în Pădurea Națională Sequoia.",
+                  "text": "Un izvor într-o pădure națională.",
                   "category": "landmark",
                   "coords": [
                         -118.570483,
@@ -5496,7 +5496,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dome Rock",
-                  "text": "Un vârf de dom de granit în Pădurea Națională Sequoia.",
+                  "text": "O stâncă mare în formă de dom într-o pădure națională.",
                   "category": "natural",
                   "coords": [
                         -118.564523,
@@ -5514,7 +5514,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Capitol Rock",
-                  "text": "Un vârf de stâncă în Pădurea Națională Sequoia.",
+                  "text": "O formațiune stâncoasă proeminentă într-o pădure națională.",
                   "category": "natural",
                   "coords": [
                         -118.52691,
@@ -5523,7 +5523,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cabin 242",
-                  "text": "O cabană istorică în Pădurea Națională Sequoia.",
+                  "text": "Cabana numărul 242 din Pădurea Națională, utilizabilă ca adăpost.",
                   "category": "landmark",
                   "coords": [
                         -118.539957,
@@ -5550,7 +5550,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Onion Meadow Peak",
-                  "text": "Un vârf lângă Onion Meadow în Pădurea Națională Sequoia.",
+                  "text": "Un vârf într-o pădure națională lângă Onion Meadow.",
                   "category": "natural",
                   "coords": [
                         -118.604604,
@@ -5579,7 +5579,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Table Mountain",
-                  "text": "A flat-topped peak in Sequoia National Forest.",
+                  "text": "A flat-topped mountain in a national forest.",
                   "category": "natural",
                   "coords": [
                         -118.604203,
@@ -5597,7 +5597,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Parker Bluffs",
-                  "text": "A cliff formation in Sequoia National Forest.",
+                  "text": "Bluffs in a national forest.",
                   "category": "landmark",
                   "coords": [
                         -118.565365,
@@ -5606,7 +5606,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thompson Camp Spring",
-                  "text": "A spring at Thompson Camp in Sequoia National Forest.",
+                  "text": "A spring in a national forest.",
                   "category": "landmark",
                   "coords": [
                         -118.570483,
@@ -5615,7 +5615,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dome Rock",
-                  "text": "A granite dome peak in Sequoia National Forest.",
+                  "text": "A large dome-shaped rock in a national forest.",
                   "category": "natural",
                   "coords": [
                         -118.564523,
@@ -5633,7 +5633,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Capitol Rock",
-                  "text": "A rock peak in Sequoia National Forest.",
+                  "text": "A prominent rock formation in a national forest.",
                   "category": "natural",
                   "coords": [
                         -118.52691,
@@ -5642,7 +5642,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cabin 242",
-                  "text": "A historic cabin in Sequoia National Forest.",
+                  "text": "Cabin 242 in the National Forest, available as a shelter.",
                   "category": "landmark",
                   "coords": [
                         -118.539957,
@@ -5669,7 +5669,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Onion Meadow Peak",
-                  "text": "A peak near Onion Meadow in Sequoia National Forest.",
+                  "text": "A peak in a national forest near Onion Meadow.",
                   "category": "natural",
                   "coords": [
                         -118.604604,
@@ -5757,7 +5757,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pike's Peak Summit Visitor Center",
-                  "text": "Ein Besucherzentrum auf dem Gipfel des Pikes Peak mit Ausstellungen.",
+                  "text": "Besucherzentrum auf dem 4.302 m hohen Gipfel des Pikes Peak.",
                   "category": "museum",
                   "coords": [
                         -105.042641,
@@ -5766,7 +5766,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pikes Peak",
-                  "text": "Der Pikes Peak ist ein markanter Gipfel in der Pikes-Peak-Naturregion.",
+                  "text": "Der 4.302 m hohe Pikes Peak ist der bekannteste Gipfel der Rocky Mountains.",
                   "category": "natural",
                   "coords": [
                         -105.043952,
@@ -5775,7 +5775,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Heizer Trailhead",
-                  "text": "Der Heizer Trailhead ist ein Wanderweg-Ausgangspunkt in der Pikes-Peak-Naturregion.",
+                  "text": "Startpunkt für Wanderwege in der Peak-Region, benannt nach Heizer.",
                   "category": "landmark",
                   "coords": [
                         -104.972714,
@@ -5811,7 +5811,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Halfway Picnic Area",
-                  "text": "Der Halfway Picnic Area ist ein Picknickplatz auf halbem Weg in der Pikes-Peak-Naturregion.",
+                  "text": "Picknickplatz auf halber Höhe des Weges zum Gipfel in der Peak-Region.",
                   "category": "landmark",
                   "coords": [
                         -105.066024,
@@ -5840,7 +5840,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pike's Peak Summit Visitor Center",
-                  "text": "Egy látogatóközpont a Pikes Peak csúcsán kiállításokkal.",
+                  "text": "Látogatóközpont a 4.302 méteres Pikes Peak csúcsán.",
                   "category": "museum",
                   "coords": [
                         -105.042641,
@@ -5849,7 +5849,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pikes Peak",
-                  "text": "A Pikes Peak egy kiemelkedő csúcs a Pikes Peak természeti területen.",
+                  "text": "A 4302 méteres Pikes Peak a Sziklás-hegység leghíresebb csúcsa.",
                   "category": "natural",
                   "coords": [
                         -105.043952,
@@ -5858,7 +5858,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Heizer Trailhead",
-                  "text": "A Heizer Trailhead egy túraútvonal kezdőpontja a Pikes Peak természeti területen.",
+                  "text": "Túraútvonalak kiindulópontja a Peak régióban, Heizerről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -104.972714,
@@ -5894,7 +5894,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Halfway Picnic Area",
-                  "text": "A Halfway Picnic Area egy piknikezőhely félúton a Pikes Peak természeti területen.",
+                  "text": "Piknikhely félúton a csúcsra vezető ösvényen a Peak régióban.",
                   "category": "landmark",
                   "coords": [
                         -105.066024,
@@ -5923,7 +5923,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pike's Peak Summit Visitor Center",
-                  "text": "Un centru pentru vizitatori pe vârful Pikes Peak cu expoziții.",
+                  "text": "Centru de vizitatori pe vârful Pikes Peak, la 4.302 m altitudine.",
                   "category": "museum",
                   "coords": [
                         -105.042641,
@@ -5932,7 +5932,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pikes Peak",
-                  "text": "Vârful Pikes Peak este un vârf proeminent în zona naturală Pikes Peak.",
+                  "text": "Vârful Pikes Peak, înalt de 4.302 m, este cel mai cunoscut munte din Munții Stâncoși.",
                   "category": "natural",
                   "coords": [
                         -105.043952,
@@ -5941,7 +5941,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Heizer Trailhead",
-                  "text": "Heizer Trailhead este un punct de pornire a traseelor în zona naturală Pikes Peak.",
+                  "text": "Punct de plecare pentru trasee de drumeție în regiunea Peak, numit după Heizer.",
                   "category": "landmark",
                   "coords": [
                         -104.972714,
@@ -5977,7 +5977,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Halfway Picnic Area",
-                  "text": "Halfway Picnic Area este o zonă de picnic la jumătatea drumului în zona naturală Pikes Peak.",
+                  "text": "Zonă de picnic la jumătatea drumului către vârf în regiunea Peak.",
                   "category": "landmark",
                   "coords": [
                         -105.066024,
@@ -6006,7 +6006,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pike's Peak Summit Visitor Center",
-                  "text": "A visitor center at the summit of Pikes Peak with exhibits.",
+                  "text": "Visitor center at the 14,115-foot summit of Pikes Peak.",
                   "category": "museum",
                   "coords": [
                         -105.042641,
@@ -6015,7 +6015,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pikes Peak",
-                  "text": "Pikes Peak is a prominent peak in the Pikes Peak nature area.",
+                  "text": "Pikes Peak is a 14,115 ft (4,302 m) mountain in the Front Range of the Rockies.",
                   "category": "natural",
                   "coords": [
                         -105.043952,
@@ -6024,7 +6024,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Heizer Trailhead",
-                  "text": "Heizer Trailhead is a trailhead in the Pikes Peak nature area.",
+                  "text": "Trailhead for hiking trails in the Peak region, named after Heizer.",
                   "category": "landmark",
                   "coords": [
                         -104.972714,
@@ -6060,7 +6060,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Halfway Picnic Area",
-                  "text": "Halfway Picnic Area is a halfway picnic area in the Pikes Peak nature area.",
+                  "text": "Picnic area halfway along the trail to the summit in the Peak region.",
                   "category": "landmark",
                   "coords": [
                         -105.066024,
@@ -6156,7 +6156,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Tropical Forest and Botanical Garden",
-                  "text": "Key West Tropical Forest and Botanical Garden ist ein Museum in Key West und der einzige tropische Wald in den kontinentalen Vereinigten Staaten.",
+                  "text": "Ein botanischer Garten mit tropischen Pflanzen und einem Schmetterlingshaus.",
                   "category": "museum",
                   "coords": [
                         -81.748326,
@@ -6201,7 +6201,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort Zachary Taylor Historic State Park",
-                  "text": "Fort Zachary Taylor Historic State Park ist ein Park in Key West mit einem historischen Fort und einem Strand.",
+                  "text": "Ein historisches Fort aus dem 19. Jahrhundert, heute ein State Park mit Stränden und Schnorchelmöglichkeiten.",
                   "category": "park",
                   "coords": [
                         -81.810521,
@@ -6210,7 +6210,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Butterfly & Nature Conservatory",
-                  "text": "Key West Butterfly & Nature Conservatory ist ein Zoo in Key West mit Hunderten von frei fliegenden Schmetterlingen.",
+                  "text": "Ein glasumschlossenes Gehege mit Hunderten frei fliegenden Schmetterlingen und exotischen Vögeln.",
                   "category": "recreational",
                   "coords": [
                         -81.796932,
@@ -6219,7 +6219,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort East Martello Museum",
-                  "text": "Fort East Martello Museum ist ein Museum in Key West, das sich in einem historischen Fort befindet.",
+                  "text": "Das Fort East Martello Museum ist in einer Festung aus dem Bürgerkrieg untergebracht und beherbergt die Puppe Robert.",
                   "category": "museum",
                   "coords": [
                         -81.754828,
@@ -6237,7 +6237,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Basilica of Saint Mary Star of the Sea",
-                  "text": "The Basilica of Saint Mary Star of the Sea ist ein Gotteshaus in Key West.",
+                  "text": "Die Basilika St. Mary Star of the Sea ist eine historische katholische Kirche mit auffälligem Glockenturm in Key West.",
                   "category": "religious",
                   "coords": [
                         -81.795451,
@@ -6246,7 +6246,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "WKIZ-AM (Key West)",
-                  "text": "WKIZ-AM ist ein Sendeturm in Key West für den Rundfunk.",
+                  "text": "Der WKIZ-AM Sendemast ist der 36 m hohe Radioturm der Station auf Stock Island bei Key West.",
                   "category": "tower",
                   "coords": [
                         -81.748146,
@@ -6255,7 +6255,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Bight",
-                  "text": "Key West Bight ist eine Bucht in Key West.",
+                  "text": "Die Key West Bight ist ein historischer Hafen mit Segelschiffen und Meeresfrüchterestaurants.",
                   "category": "landmark",
                   "coords": [
                         -81.801102,
@@ -6264,7 +6264,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Nancy Forrester's Secret Garden",
-                  "text": "Nancy Forrester's Secret Garden ist eine Attraktion in Key West.",
+                  "text": "Nancy Forrester's Secret Garden ist ein üppiger tropischer Garten mit frei fliegenden Papageien in Key West.",
                   "category": "landmark",
                   "coords": [
                         -81.800461,
@@ -6273,7 +6273,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "CB Harvey Rest Beach Park",
-                  "text": "CB Harvey Rest Beach Park ist ein Park in Key West.",
+                  "text": "Der CB Harvey Rest Beach Park ist ein ruhiger Strandpark mit Picknicktischen und Angelsteg an der Golfseite.",
                   "category": "park",
                   "coords": [
                         -81.783957,
@@ -6282,7 +6282,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smathers Beach",
-                  "text": "Smathers Beach ist ein Strand in Key West.",
+                  "text": "Der Smathers Beach ist der größte öffentliche Strand von Key West mit weißem Sand und Palmen.",
                   "category": "recreational",
                   "coords": [
                         -81.771056,
@@ -6291,7 +6291,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Steve Dioussy",
-                  "text": "Steve Dioussy ist eine Kunstgalerie in Key West.",
+                  "text": "Ein Museum, das dem Leben und Werk von Steve Dioussy gewidmet ist, in West.",
                   "category": "museum",
                   "coords": [
                         -81.803474,
@@ -6300,7 +6300,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hellings House Museum",
-                  "text": "Hellings House Museum ist ein Museum in Key West.",
+                  "text": "Ein historisches Wohnhausmuseum der Familie Hellings in West.",
                   "category": "museum",
                   "coords": [
                         -81.803821,
@@ -6309,7 +6309,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Alan S Maltz Gallery",
-                  "text": "Alan S Maltz Gallery ist eine Kunstgalerie in Key West.",
+                  "text": "Galerie mit Fotografien von Alan S Maltz in West.",
                   "category": "museum",
                   "coords": [
                         -81.797679,
@@ -6318,7 +6318,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Donkey Milk House Museum",
-                  "text": "Donkey Milk House Museum ist ein Museum in Key West.",
+                  "text": "Ein Museum in einem ehemaligen Eselmilchhaus in West.",
                   "category": "museum",
                   "coords": [
                         -81.801903,
@@ -6327,7 +6327,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "SALT Gallery",
-                  "text": "SALT Gallery ist eine Kunstgalerie in Key West.",
+                  "text": "Zeitgenössische Kunstgalerie auf der Insel Key West.",
                   "category": "museum",
                   "coords": [
                         -81.79827,
@@ -6336,7 +6336,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Art On Duval Key West, A Procaccini Gallery",
-                  "text": "Art On Duval Key West, A Procaccini Gallery ist eine Kunstgalerie in Key West.",
+                  "text": "Galerie an der berühmten Duval Street in Key West.",
                   "category": "museum",
                   "coords": [
                         -81.802115,
@@ -6345,7 +6345,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Art at 830",
-                  "text": "Art at 830 ist eine Kunstgalerie in Key West.",
+                  "text": "Kunstgalerie unter der Adresse 830 in Key West.",
                   "category": "museum",
                   "coords": [
                         -81.799979,
@@ -6354,7 +6354,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vietnam War Monument",
-                  "text": "Vietnam War Monument ist ein Denkmal in Key West zu Ehren der Vietnamkriegsveteranen.",
+                  "text": "Denkmal zu Ehren der Vietnamkriegsveteranen in Key West.",
                   "category": "historical",
                   "coords": [
                         -81.788296,
@@ -6363,7 +6363,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Self Propelled Semi-Sub \"Big Foot\"",
-                  "text": "Self Propelled Semi-Sub 'Big Foot' ist ein Denkmal in Key West.",
+                  "text": "Selbstfahrendes Halbtaucherschiff für Unterwassertouren in Key West.",
                   "category": "historical",
                   "coords": [
                         -81.804667,
@@ -6372,7 +6372,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Burnt Down Building",
-                  "text": "Burnt Down Building ist eine Ruine in Key West.",
+                  "text": "Ruinen eines durch Feuer zerstörten historischen Gebäudes in Key West.",
                   "category": "historical",
                   "coords": [
                         -81.800811,
@@ -6381,7 +6381,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Southernmost Point",
-                  "text": "Southernmost Point ist ein Denkmal in Key West.",
+                  "text": "Markierung des südlichsten Punktes der kontinentalen USA in Key West.",
                   "category": "historical",
                   "coords": [
                         -81.795928,
@@ -6390,7 +6390,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Battery 231",
-                  "text": "Battery 231 ist eine Ruine in Key West.",
+                  "text": "Historische Küstenbatterie aus der Zeit des Spanisch-Amerikanischen Krieges in Fort Zachary Taylor.",
                   "category": "historical",
                   "coords": [
                         -81.803911,
@@ -6399,7 +6399,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort Zachary Taylor",
-                  "text": "Fort Zachary Taylor ist ein Fort in Key West.",
+                  "text": "Festung aus dem Bürgerkrieg mit einem Strand und Wassergraben in Key West.",
                   "category": "fortress",
                   "coords": [
                         -81.810092,
@@ -6408,7 +6408,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Battery Seminole",
-                  "text": "Battery Seminole ist eine Ruine in Key West.",
+                  "text": "Historische Geschützbatterie im Fort Zachary Taylor State Park.",
                   "category": "historical",
                   "coords": [
                         -81.804563,
@@ -6417,7 +6417,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Coffee Butler Amphitheater.",
-                  "text": "Coffee Butler Amphitheater ist ein Theater in Key West.",
+                  "text": "Open-Air-Amphitheater benannt nach dem Jazzmusiker Coffee Butler in Key West.",
                   "category": "cultural",
                   "coords": [
                         -81.808155,
@@ -6446,7 +6446,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Tropical Forest and Botanical Garden",
-                  "text": "A Key West Tropical Forest and Botanical Garden egy múzeum Key Westben, és az egyetlen trópusi erdő az Egyesült Államok kontinentális részén.",
+                  "text": "Botanikus kert trópusi növényekkel és lepkekházzal.",
                   "category": "museum",
                   "coords": [
                         -81.748326,
@@ -6491,7 +6491,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort Zachary Taylor Historic State Park",
-                  "text": "A Fort Zachary Taylor Historic State Park egy park Key Westben, amely egy történelmi erődöt és egy strandot foglal magában.",
+                  "text": "Történelmi erőd a 19. századból, ma állami park strandokkal és búvárkodási lehetőségekkel.",
                   "category": "park",
                   "coords": [
                         -81.810521,
@@ -6500,7 +6500,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Butterfly & Nature Conservatory",
-                  "text": "A Key West Butterfly & Nature Conservatory egy állatkert Key Westben, ahol több száz szabadon repkedő pillangó található.",
+                  "text": "Üvegbúra alatti élőhely több száz szabadon repülő lepkével és egzotikus madárral.",
                   "category": "recreational",
                   "coords": [
                         -81.796932,
@@ -6509,7 +6509,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort East Martello Museum",
-                  "text": "A Fort East Martello Museum egy múzeum Key Westben, amely egy történelmi erődben található.",
+                  "text": "A Fort East Martello Múzeum egy polgárháborús erődben található, és a Robert baba kiállításáról ismert.",
                   "category": "museum",
                   "coords": [
                         -81.754828,
@@ -6527,7 +6527,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Basilica of Saint Mary Star of the Sea",
-                  "text": "A The Basilica of Saint Mary Star of the Sea egy istentiszteleti hely Key Westben.",
+                  "text": "A Szűz Mária Csillaga Bazilika egy történelmi katolikus templom feltűnő harangtoronnyal Key Westben.",
                   "category": "religious",
                   "coords": [
                         -81.795451,
@@ -6536,7 +6536,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "WKIZ-AM (Key West)",
-                  "text": "A WKIZ-AM egy rádiótorony Key Westben.",
+                  "text": "A WKIZ-AM adótorony a rádióállomás 36 méteres tornya a Stock Islanden, Key West mellett.",
                   "category": "tower",
                   "coords": [
                         -81.748146,
@@ -6545,7 +6545,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Bight",
-                  "text": "A Key West Bight egy öböl Key Westben.",
+                  "text": "A Key West Bight egy történelmi kikötő vitorláshajókkal és tengeri éttermekkel.",
                   "category": "landmark",
                   "coords": [
                         -81.801102,
@@ -6554,7 +6554,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Nancy Forrester's Secret Garden",
-                  "text": "A Nancy Forrester's Secret Garden egy látványosság Key Westben.",
+                  "text": "Nancy Forrester Titkos Kertje egy buja trópusi kert szabadon repkedő papagájokkal Key Westben.",
                   "category": "landmark",
                   "coords": [
                         -81.800461,
@@ -6563,7 +6563,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "CB Harvey Rest Beach Park",
-                  "text": "A CB Harvey Rest Beach Park egy park Key Westben.",
+                  "text": "A CB Harvey Rest Beach Park egy csendes tengerparti park piknikasztalokkal és horgászstéggel az öböl felőli oldalon.",
                   "category": "park",
                   "coords": [
                         -81.783957,
@@ -6572,7 +6572,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smathers Beach",
-                  "text": "A Smathers Beach egy strand Key Westben.",
+                  "text": "A Smathers Beach Key West legnagyobb nyilvános strandja fehér homokkal és pálmafákkal.",
                   "category": "recreational",
                   "coords": [
                         -81.771056,
@@ -6581,7 +6581,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Steve Dioussy",
-                  "text": "A Steve Dioussy egy művészeti galéria Key Westben.",
+                  "text": "Egy múzeum, amely Steve Dioussy életének és munkásságának szentelt, West-ben.",
                   "category": "museum",
                   "coords": [
                         -81.803474,
@@ -6590,7 +6590,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hellings House Museum",
-                  "text": "A Hellings House Museum egy múzeum Key Westben.",
+                  "text": "A Hellings család történelmi házmúzeuma West-ben.",
                   "category": "museum",
                   "coords": [
                         -81.803821,
@@ -6599,7 +6599,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Alan S Maltz Gallery",
-                  "text": "Az Alan S Maltz Gallery egy művészeti galéria Key Westben.",
+                  "text": "Alan S Maltz fényképeinek galériája West-ben.",
                   "category": "museum",
                   "coords": [
                         -81.797679,
@@ -6608,7 +6608,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Donkey Milk House Museum",
-                  "text": "A Donkey Milk House Museum egy múzeum Key Westben.",
+                  "text": "Egy múzeum egy egykori szamártej-házban West-ben.",
                   "category": "museum",
                   "coords": [
                         -81.801903,
@@ -6617,7 +6617,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "SALT Gallery",
-                  "text": "A SALT Gallery egy művészeti galéria Key Westben.",
+                  "text": "Kortárs művészeti galéria Key West szigetén.",
                   "category": "museum",
                   "coords": [
                         -81.79827,
@@ -6626,7 +6626,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Art On Duval Key West, A Procaccini Gallery",
-                  "text": "Az Art On Duval Key West, A Procaccini Gallery egy művészeti galéria Key Westben.",
+                  "text": "Galéria a híres Duval Streeten, Key Westben.",
                   "category": "museum",
                   "coords": [
                         -81.802115,
@@ -6635,7 +6635,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Art at 830",
-                  "text": "Az Art at 830 egy művészeti galéria Key Westben.",
+                  "text": "Művészeti galéria a 830-as címen Key Westben.",
                   "category": "museum",
                   "coords": [
                         -81.799979,
@@ -6644,7 +6644,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vietnam War Monument",
-                  "text": "A Vietnam War Monument egy emlékmű Key Westben, amely a vietnami háború veteránjainak tiszteleg.",
+                  "text": "Vietnami háborús emlékmű Key Westben.",
                   "category": "historical",
                   "coords": [
                         -81.788296,
@@ -6653,7 +6653,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Self Propelled Semi-Sub \"Big Foot\"",
-                  "text": "A Self Propelled Semi-Sub 'Big Foot' egy emlékmű Key Westben.",
+                  "text": "Önjáró félmerülő hajó víz alatti túrákhoz Key Westben.",
                   "category": "historical",
                   "coords": [
                         -81.804667,
@@ -6662,7 +6662,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Burnt Down Building",
-                  "text": "A Burnt Down Building egy rom Key Westben.",
+                  "text": "Egy tűzben elpusztult történelmi épület romjai Key Westben.",
                   "category": "historical",
                   "coords": [
                         -81.800811,
@@ -6671,7 +6671,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Southernmost Point",
-                  "text": "A Southernmost Point egy emlékmű Key Westben.",
+                  "text": "Az USA kontinentális részének legdélebbi pontját jelző bója Key Westben.",
                   "category": "historical",
                   "coords": [
                         -81.795928,
@@ -6680,7 +6680,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Battery 231",
-                  "text": "A Battery 231 egy rom Key Westben.",
+                  "text": "Történelmi parti üteg a spanyol-amerikai háború idejéből a Fort Zachary Taylor erődben.",
                   "category": "historical",
                   "coords": [
                         -81.803911,
@@ -6689,7 +6689,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort Zachary Taylor",
-                  "text": "A Fort Zachary Taylor egy erőd Key Westben.",
+                  "text": "Polgárháborús erőd stranddal és árokkal Key Westben.",
                   "category": "fortress",
                   "coords": [
                         -81.810092,
@@ -6698,7 +6698,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Battery Seminole",
-                  "text": "A Battery Seminole egy rom Key Westben.",
+                  "text": "Történelmi ágyúüteg a Fort Zachary Taylor Állami Parkban.",
                   "category": "historical",
                   "coords": [
                         -81.804563,
@@ -6707,7 +6707,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Coffee Butler Amphitheater.",
-                  "text": "A Coffee Butler Amphitheater egy színház Key Westben.",
+                  "text": "Szabadtéri amfiteátrum a key westi jazzzenész Coffee Butlerről elnevezve.",
                   "category": "cultural",
                   "coords": [
                         -81.808155,
@@ -6736,7 +6736,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Tropical Forest and Botanical Garden",
-                  "text": "Key West Tropical Forest and Botanical Garden este un muzeu din Key West și singura pădure tropicală din Statele Unite continentale.",
+                  "text": "O grădină botanică cu plante tropicale și o casă a fluturilor.",
                   "category": "museum",
                   "coords": [
                         -81.748326,
@@ -6781,7 +6781,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort Zachary Taylor Historic State Park",
-                  "text": "Fort Zachary Taylor Historic State Park este un parc din Key West care include un fort istoric și o plajă.",
+                  "text": "Un fort istoric din secolul al XIX-lea, acum parc de stat cu plaje și snorkeling.",
                   "category": "park",
                   "coords": [
                         -81.810521,
@@ -6790,7 +6790,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Butterfly & Nature Conservatory",
-                  "text": "Key West Butterfly & Nature Conservatory este o grădină zoologică din Key West cu sute de fluturi care zboară liber.",
+                  "text": "Un habitat acoperit cu sticlă, cu sute de fluturi zburând liberi și păsări exotice.",
                   "category": "recreational",
                   "coords": [
                         -81.796932,
@@ -6799,7 +6799,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort East Martello Museum",
-                  "text": "Fort East Martello Museum este un muzeu din Key West situat într-un fort istoric.",
+                  "text": "Muzeul Fort East Martello este găzduit într-o fortificație din Războiul Civil și expune celebra păpușă Robert.",
                   "category": "museum",
                   "coords": [
                         -81.754828,
@@ -6817,7 +6817,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Basilica of Saint Mary Star of the Sea",
-                  "text": "The Basilica of Saint Mary Star of the Sea este un lăcaș de cult din Key West.",
+                  "text": "Basilica Sf. Maria Steaua Mării este o biserică catolică istorică, cu un turn-clopotniță distinctiv în Key West.",
                   "category": "religious",
                   "coords": [
                         -81.795451,
@@ -6826,7 +6826,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "WKIZ-AM (Key West)",
-                  "text": "WKIZ-AM este un turn de radio în Key West.",
+                  "text": "Turnul de transmisie WKIZ-AM este catargul de 36 m al postului de radio de pe Stock Island, lângă Key West.",
                   "category": "tower",
                   "coords": [
                         -81.748146,
@@ -6835,7 +6835,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Bight",
-                  "text": "Key West Bight este un golf în Key West.",
+                  "text": "Key West Bight este un port istoric cu goelete și restaurante de fructe de mare.",
                   "category": "landmark",
                   "coords": [
                         -81.801102,
@@ -6844,7 +6844,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Nancy Forrester's Secret Garden",
-                  "text": "Nancy Forrester's Secret Garden este o atracție din Key West.",
+                  "text": "Grădina Secretă a lui Nancy Forrester este o grădină tropicală luxuriantă cu papagali care zboară liberi în Key West.",
                   "category": "landmark",
                   "coords": [
                         -81.800461,
@@ -6853,7 +6853,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "CB Harvey Rest Beach Park",
-                  "text": "CB Harvey Rest Beach Park este un parc în Key West.",
+                  "text": "Parcul CB Harvey Rest Beach este un parc de plajă liniștit, cu mese de picnic și un dig de pescuit pe partea Golfului.",
                   "category": "park",
                   "coords": [
                         -81.783957,
@@ -6862,7 +6862,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smathers Beach",
-                  "text": "Smathers Beach este o plajă în Key West.",
+                  "text": "Smathers Beach este cea mai mare plajă publică din Key West, cu nisip alb și palmieri.",
                   "category": "recreational",
                   "coords": [
                         -81.771056,
@@ -6871,7 +6871,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Steve Dioussy",
-                  "text": "Steve Dioussy este o galerie de artă în Key West.",
+                  "text": "Un muzeu dedicat vieții și operei lui Steve Dioussy, în West.",
                   "category": "museum",
                   "coords": [
                         -81.803474,
@@ -6880,7 +6880,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hellings House Museum",
-                  "text": "Hellings House Museum este un muzeu din Key West.",
+                  "text": "Un muzeu-casă istoric al familiei Hellings în West.",
                   "category": "museum",
                   "coords": [
                         -81.803821,
@@ -6889,7 +6889,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Alan S Maltz Gallery",
-                  "text": "Alan S Maltz Gallery este o galerie de artă în Key West.",
+                  "text": "Galerie cu fotografiile lui Alan S Maltz în West.",
                   "category": "museum",
                   "coords": [
                         -81.797679,
@@ -6898,7 +6898,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Donkey Milk House Museum",
-                  "text": "Donkey Milk House Museum este un muzeu din Key West.",
+                  "text": "Un muzeu într-o fostă casă de lapte de măgar în West.",
                   "category": "museum",
                   "coords": [
                         -81.801903,
@@ -6907,7 +6907,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "SALT Gallery",
-                  "text": "SALT Gallery este o galerie de artă în Key West.",
+                  "text": "Galerie de artă contemporană pe insula Key West.",
                   "category": "museum",
                   "coords": [
                         -81.79827,
@@ -6916,7 +6916,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Art On Duval Key West, A Procaccini Gallery",
-                  "text": "Art On Duval Key West, A Procaccini Gallery este o galerie de artă în Key West.",
+                  "text": "Galerie pe faimoasa Duval Street din Key West.",
                   "category": "museum",
                   "coords": [
                         -81.802115,
@@ -6925,7 +6925,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Art at 830",
-                  "text": "Art at 830 este o galerie de artă în Key West.",
+                  "text": "Galerie de artă la adresa 830 din Key West.",
                   "category": "museum",
                   "coords": [
                         -81.799979,
@@ -6934,7 +6934,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vietnam War Monument",
-                  "text": "Vietnam War Monument este un monument din Key West care onorează veteranii războiului din Vietnam.",
+                  "text": "Monument dedicat veteranilor războiului din Vietnam în Key West.",
                   "category": "historical",
                   "coords": [
                         -81.788296,
@@ -6943,7 +6943,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Self Propelled Semi-Sub \"Big Foot\"",
-                  "text": "Self Propelled Semi-Sub 'Big Foot' este un monument din Key West.",
+                  "text": "Navă semi-submersibilă autopropulsată pentru tururi subacvatice în Key West.",
                   "category": "historical",
                   "coords": [
                         -81.804667,
@@ -6952,7 +6952,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Burnt Down Building",
-                  "text": "Burnt Down Building este o ruină în Key West.",
+                  "text": "Ruinele unei clădiri istorice distruse de incendiu în Key West.",
                   "category": "historical",
                   "coords": [
                         -81.800811,
@@ -6961,7 +6961,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Southernmost Point",
-                  "text": "Southernmost Point este un monument din Key West.",
+                  "text": "Punctul marcat ca fiind cel mai sudic al SUA continentale în Key West.",
                   "category": "historical",
                   "coords": [
                         -81.795928,
@@ -6970,7 +6970,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Battery 231",
-                  "text": "Battery 231 este o ruină în Key West.",
+                  "text": "Baterie istorică de coastă din epoca războiului hispano-american în Fort Zachary Taylor.",
                   "category": "historical",
                   "coords": [
                         -81.803911,
@@ -6979,7 +6979,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort Zachary Taylor",
-                  "text": "Fort Zachary Taylor este un fort în Key West.",
+                  "text": "Fortăreață din Războiul Civil cu plajă și șanț în Key West.",
                   "category": "fortress",
                   "coords": [
                         -81.810092,
@@ -6988,7 +6988,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Battery Seminole",
-                  "text": "Battery Seminole este o ruină în Key West.",
+                  "text": "Baterie istorică de tunuri în Parcul de Stat Fort Zachary Taylor.",
                   "category": "historical",
                   "coords": [
                         -81.804563,
@@ -6997,7 +6997,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Coffee Butler Amphitheater.",
-                  "text": "Coffee Butler Amphitheater este un teatru în Key West.",
+                  "text": "Amfiteatru în aer liber numit după muzicianul de jazz Coffee Butler din Key West.",
                   "category": "cultural",
                   "coords": [
                         -81.808155,
@@ -7026,7 +7026,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Tropical Forest and Botanical Garden",
-                  "text": "Key West Tropical Forest and Botanical Garden is a museum in Key West and the only tropical forest in the continental United States.",
+                  "text": "A botanical garden featuring tropical plants and a butterfly house.",
                   "category": "museum",
                   "coords": [
                         -81.748326,
@@ -7071,7 +7071,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort Zachary Taylor Historic State Park",
-                  "text": "Fort Zachary Taylor Historic State Park is a park in Key West featuring a historic fort and a beach.",
+                  "text": "A historic fort built in the 1800s, now a state park with beaches and snorkeling.",
                   "category": "park",
                   "coords": [
                         -81.810521,
@@ -7080,7 +7080,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Butterfly & Nature Conservatory",
-                  "text": "Key West Butterfly & Nature Conservatory is a zoo in Key West with hundreds of free-flying butterflies.",
+                  "text": "A glass-enclosed habitat with hundreds of free-flying butterflies and exotic birds.",
                   "category": "recreational",
                   "coords": [
                         -81.796932,
@@ -7089,7 +7089,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort East Martello Museum",
-                  "text": "Fort East Martello Museum is a museum in Key West located in a historic fort.",
+                  "text": "Fort East Martello Museum occupies a Civil War fort and is famous for its Robert the Doll exhibit.",
                   "category": "museum",
                   "coords": [
                         -81.754828,
@@ -7107,7 +7107,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Basilica of Saint Mary Star of the Sea",
-                  "text": "The Basilica of Saint Mary Star of the Sea is a church in Key West.",
+                  "text": "The Basilica of Saint Mary Star of the Sea is a historic Catholic church with a striking bell tower in Key West.",
                   "category": "religious",
                   "coords": [
                         -81.795451,
@@ -7116,7 +7116,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "WKIZ-AM (Key West)",
-                  "text": "WKIZ-AM is a radio tower in Key West.",
+                  "text": "WKIZ-AM is a 120 ft broadcast tower for the AM radio station on Stock Island near Key West.",
                   "category": "tower",
                   "coords": [
                         -81.748146,
@@ -7125,7 +7125,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Key West Bight",
-                  "text": "Key West Bight is a bay in Key West.",
+                  "text": "Key West Bight is a historic harbor with schooners and seafood restaurants.",
                   "category": "landmark",
                   "coords": [
                         -81.801102,
@@ -7134,7 +7134,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Nancy Forrester's Secret Garden",
-                  "text": "Nancy Forrester's Secret Garden is an attraction in Key West.",
+                  "text": "Nancy Forrester's Secret Garden is a lush tropical garden sanctuary with free-flying parrots.",
                   "category": "landmark",
                   "coords": [
                         -81.800461,
@@ -7143,7 +7143,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "CB Harvey Rest Beach Park",
-                  "text": "CB Harvey Rest Beach Park is a park in Key West.",
+                  "text": "CB Harvey Rest Beach Park is a quiet beach park with picnic tables and a fishing pier on the Gulf side.",
                   "category": "park",
                   "coords": [
                         -81.783957,
@@ -7152,7 +7152,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smathers Beach",
-                  "text": "Smathers Beach is a beach in Key West.",
+                  "text": "Smathers Beach is Key West’s largest public beach, with white sand and palm trees.",
                   "category": "recreational",
                   "coords": [
                         -81.771056,
@@ -7161,7 +7161,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Steve Dioussy",
-                  "text": "Steve Dioussy is an art gallery in Key West.",
+                  "text": "A museum dedicated to the life and work of Steve Dioussy in West.",
                   "category": "museum",
                   "coords": [
                         -81.803474,
@@ -7170,7 +7170,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hellings House Museum",
-                  "text": "Hellings House Museum is a museum in Key West.",
+                  "text": "A historic house museum of the Hellings family in West.",
                   "category": "museum",
                   "coords": [
                         -81.803821,
@@ -7179,7 +7179,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Alan S Maltz Gallery",
-                  "text": "Alan S Maltz Gallery is an art gallery in Key West.",
+                  "text": "Gallery featuring photographs by Alan S Maltz in West.",
                   "category": "museum",
                   "coords": [
                         -81.797679,
@@ -7188,7 +7188,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Donkey Milk House Museum",
-                  "text": "Donkey Milk House Museum is a museum in Key West.",
+                  "text": "A museum housed in a former donkey milk house in West.",
                   "category": "museum",
                   "coords": [
                         -81.801903,
@@ -7197,7 +7197,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "SALT Gallery",
-                  "text": "SALT Gallery is an art gallery in Key West.",
+                  "text": "Contemporary art gallery on the island of Key West.",
                   "category": "museum",
                   "coords": [
                         -81.79827,
@@ -7206,7 +7206,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Art On Duval Key West, A Procaccini Gallery",
-                  "text": "Art On Duval Key West, A Procaccini Gallery is an art gallery in Key West.",
+                  "text": "Gallery on the famous Duval Street in Key West.",
                   "category": "museum",
                   "coords": [
                         -81.802115,
@@ -7215,7 +7215,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Art at 830",
-                  "text": "Art at 830 is an art gallery in Key West.",
+                  "text": "Art gallery at address 830 in Key West.",
                   "category": "museum",
                   "coords": [
                         -81.799979,
@@ -7224,7 +7224,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vietnam War Monument",
-                  "text": "Vietnam War Monument is a monument in Key West honoring Vietnam War veterans.",
+                  "text": "Monument honoring Vietnam War veterans in Key West.",
                   "category": "historical",
                   "coords": [
                         -81.788296,
@@ -7233,7 +7233,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Self Propelled Semi-Sub \"Big Foot\"",
-                  "text": "Self Propelled Semi-Sub 'Big Foot' is a monument in Key West.",
+                  "text": "Self-propelled semi-submersible vessel for underwater tours in Key West.",
                   "category": "historical",
                   "coords": [
                         -81.804667,
@@ -7242,7 +7242,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Burnt Down Building",
-                  "text": "Burnt Down Building is a ruin in Key West.",
+                  "text": "Ruins of a historic building destroyed by fire in Key West.",
                   "category": "historical",
                   "coords": [
                         -81.800811,
@@ -7251,7 +7251,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Southernmost Point",
-                  "text": "Southernmost Point is a monument in Key West.",
+                  "text": "Marker of the southernmost point of the continental US in Key West.",
                   "category": "historical",
                   "coords": [
                         -81.795928,
@@ -7260,7 +7260,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Battery 231",
-                  "text": "Battery 231 is a ruin in Key West.",
+                  "text": "Historic coastal battery from the Spanish-American War era in Fort Zachary Taylor.",
                   "category": "historical",
                   "coords": [
                         -81.803911,
@@ -7269,7 +7269,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fort Zachary Taylor",
-                  "text": "Fort Zachary Taylor is a fort in Key West.",
+                  "text": "Civil War-era fort with a beach and moat in Key West.",
                   "category": "fortress",
                   "coords": [
                         -81.810092,
@@ -7278,7 +7278,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Battery Seminole",
-                  "text": "Battery Seminole is a ruin in Key West.",
+                  "text": "Historic gun battery within Fort Zachary Taylor State Park.",
                   "category": "historical",
                   "coords": [
                         -81.804563,
@@ -7287,7 +7287,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Coffee Butler Amphitheater.",
-                  "text": "Coffee Butler Amphitheater is a theatre in Key West.",
+                  "text": "Outdoor amphitheater named after local jazz musician Coffee Butler in Key West.",
                   "category": "cultural",
                   "coords": [
                         -81.808155,
@@ -7348,7 +7348,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Dia:Beacon",
-                  "text": "Das Dia:Beacon in der Hudson-River-Region ist ein Museum für zeitgenössische Kunst.",
+                  "text": "Ein Museum für zeitgenössische Kunst in einer ehemaligen Nabisco-Schachteldruckerei.",
                   "category": "museum",
                   "coords": [
                         -73.982608,
@@ -7357,7 +7357,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dutch Reformed Church",
-                  "text": "Die Dutch Reformed Church in der Hudson-River-Region ist eine historische Kirche in Newburgh.",
+                  "text": "Eine historische niederländisch-reformierte Kirche mit einem weißen Holzspitzturm über dem Hudson River.",
                   "category": "religious",
                   "coords": [
                         -74.008744,
@@ -7366,7 +7366,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Newburgh Bay",
-                  "text": "Die Newburgh Bay in der Hudson-River-Region ist eine Bucht am Hudson River.",
+                  "text": "Ein breiter Abschnitt des Hudson River mit Blick auf die Newburgh-Beacon-Brücke.",
                   "category": "landmark",
                   "coords": [
                         -74.005703,
@@ -7411,7 +7411,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Clarence Fahnestock Memorial State Park",
-                  "text": "Der Clarence Fahnestock Memorial State Park in der Hudson-River-Region ist ein State Park mit Wandermöglichkeiten und Camping.",
+                  "text": "Ein State Park mit Wanderwegen, Seen und einem Abschnitt des Appalachian Trail.",
                   "category": "natural",
                   "coords": [
                         -73.854655,
@@ -7420,7 +7420,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hudson Highlands State Park",
-                  "text": "Der Hudson Highlands State Park in der Hudson-River-Region ist ein State Park mit malerischen Aussichten.",
+                  "text": "Ein Park, der die dramatischen Hudson Highlands-Berge mit Aussichtspunkten schützt.",
                   "category": "natural",
                   "coords": [
                         -73.947737,
@@ -7438,7 +7438,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Madam Brett Homestead",
-                  "text": "Die Madam Brett Homestead in der Hudson-River-Region ist ein historisches Haus.",
+                  "text": "Das älteste Haus im Dutchess County aus dem 18. Jahrhundert, heute ein Museum.",
                   "category": "park",
                   "coords": [
                         -73.967117,
@@ -7447,7 +7447,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bannerman Castle",
-                  "text": "Das Bannerman Castle in der Hudson-River-Region ist eine Burgruine auf einer Insel.",
+                  "text": "Eine verfallene burgähnliche Waffenarsenal auf der Insel Pollepel im Hudson River, nur mit dem Boot erreichbar.",
                   "category": "historical",
                   "coords": [
                         -73.98794,
@@ -7456,7 +7456,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "Die First Presbyterian Church in der Hudson-River-Region ist eine historische Kirche in Beacon.",
+                  "text": "Die First Presbyterian Church ist eine neugotische Kirche im historischen Viertel von Beacon.",
                   "category": "religious",
                   "coords": [
                         -73.959532,
@@ -7465,7 +7465,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Saint Lukes Episcopal Church",
-                  "text": "Die Saint Lukes Episcopal Church in der Hudson-River-Region ist eine Kirche.",
+                  "text": "Die Saint Lukes Episcopal Church ist eine steinerne Episkopalkirche nahe der Main Street in Beacon.",
                   "category": "religious",
                   "coords": [
                         -73.963471,
@@ -7474,7 +7474,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Reformed Church of Beacon",
-                  "text": "Die Reformed Church of Beacon in der Hudson-River-Region ist eine Kirche.",
+                  "text": "Die Reformed Church of Beacon ist eine historische niederländisch-reformierte Kirche mit hohem Turm an der Main Street.",
                   "category": "religious",
                   "coords": [
                         -73.980381,
@@ -7483,7 +7483,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Honness Mountain",
-                  "text": "Der Honness Mountain in der Hudson-River-Region ist ein Berggipfel.",
+                  "text": "Der Honness Mountain ist ein 400 m hoher Gipfel in den Hudson Highlands mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -73.863468,
@@ -7492,7 +7492,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Hill",
-                  "text": "Der Round Hill in der Hudson-River-Region ist ein Berggipfel.",
+                  "text": "Der Round Hill ist ein gerundeter Hügel mit Aussicht auf den Hudson River.",
                   "category": "natural",
                   "coords": [
                         -73.899859,
@@ -7501,7 +7501,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Douglas Phillips Park",
-                  "text": "Der Douglas Phillips Park in der Hudson-River-Region ist ein öffentlicher Park.",
+                  "text": "Der Douglas Phillips Park ist ein Nachbarschaftspark mit Spielplatz und Basketballplatz.",
                   "category": "park",
                   "coords": [
                         -73.865556,
@@ -7510,7 +7510,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Watch Hill",
-                  "text": "Der Watch Hill in der Hudson-River-Region ist ein Berggipfel.",
+                  "text": "Der Watch Hill ist ein Aussichtshügel mit Panoramablick über das Hudson Valley.",
                   "category": "natural",
                   "coords": [
                         -73.877358,
@@ -7519,7 +7519,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shenandoah Mountain",
-                  "text": "Der Shenandoah Mountain in der Hudson-River-Region ist ein Berggipfel.",
+                  "text": "Der Shenandoah Mountain ist ein 370 m hoher Berg in den Hudson Highlands.",
                   "category": "natural",
                   "coords": [
                         -73.814578,
@@ -7528,7 +7528,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Mountain",
-                  "text": "Der Round Mountain in der Hudson-River-Region ist ein Berggipfel.",
+                  "text": "Der Round Mountain ist ein bewaldeter Hügel mit einem Wanderweg.",
                   "category": "natural",
                   "coords": [
                         -73.848746,
@@ -7600,7 +7600,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Geering Park",
-                  "text": "Geering Park ist ein Park im Hudson River Valley Naturgebiet.",
+                  "text": "Der Geering Park bietet einen Baseballplatz und einen Picknickbereich.",
                   "category": "park",
                   "coords": [
                         -73.915949,
@@ -7609,7 +7609,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Beacon Memorial Park",
-                  "text": "Beacon Memorial Park ist ein Park im Hudson River Valley Naturgebiet.",
+                  "text": "Der Beacon Memorial Park ist ein Park mit Kriegsdenkmal und Spazierwegen.",
                   "category": "park",
                   "coords": [
                         -73.962164,
@@ -7618,7 +7618,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pete and Toshi Seeger Riverfront Park",
-                  "text": "Pete and Toshi Seeger Riverfront Park ist ein Park am Hudson River.",
+                  "text": "Der Pete and Toshi Seeger Riverfront Park liegt direkt am Hudson mit Bootsanleger und Flussblick.",
                   "category": "park",
                   "coords": [
                         -73.986388,
@@ -7627,7 +7627,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Magazzino",
-                  "text": "Magazzino ist ein Museum im Hudson River Valley Naturgebiet.",
+                  "text": "Museum für zeitgenössische Kunst in einem ehemaligen Lagerhaus in River.",
                   "category": "museum",
                   "coords": [
                         -73.914852,
@@ -7636,7 +7636,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Great Buddha Hall",
-                  "text": "Great Buddha Hall ist ein Museum im Hudson River Valley Naturgebiet.",
+                  "text": "Museumshalle mit einer großen Buddha-Statue in River.",
                   "category": "museum",
                   "coords": [
                         -73.794015,
@@ -7645,7 +7645,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Marion Royael Gallery",
-                  "text": "Marion Royael Gallery ist eine Galerie im Hudson River Valley Naturgebiet.",
+                  "text": "Galerie für zeitgenössische Kunst in River.",
                   "category": "museum",
                   "coords": [
                         -73.975877,
@@ -7701,7 +7701,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Dia:Beacon",
-                  "text": "A Dia:Beacon a Hudson-folyó vidékén egy kortárs művészeti múzeum.",
+                  "text": "Kortárs művészeti múzeum egy egykori Nabisco doboznyomdában.",
                   "category": "museum",
                   "coords": [
                         -73.982608,
@@ -7710,7 +7710,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dutch Reformed Church",
-                  "text": "A Dutch Reformed Church a Hudson-folyó vidékén egy történelmi templom Newburghban.",
+                  "text": "Történelmi holland református templom fehér fa toronnyal, a Hudson folyóra nézve.",
                   "category": "religious",
                   "coords": [
                         -74.008744,
@@ -7719,7 +7719,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Newburgh Bay",
-                  "text": "A Newburgh Bay a Hudson-folyó vidékén egy öböl a Hudson folyón.",
+                  "text": "A Hudson folyó széles szakasza a Newburgh-Beacon híd kilátásával.",
                   "category": "landmark",
                   "coords": [
                         -74.005703,
@@ -7764,7 +7764,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Clarence Fahnestock Memorial State Park",
-                  "text": "A Clarence Fahnestock Memorial State Park a Hudson-folyó vidékén egy állami park túrázási és kempingezési lehetőségekkel.",
+                  "text": "Állami park túraútvonalakkal, tavakkal és az Appalache-ösvény egy szakaszával.",
                   "category": "natural",
                   "coords": [
                         -73.854655,
@@ -7773,7 +7773,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hudson Highlands State Park",
-                  "text": "A Hudson Highlands State Park a Hudson-folyó vidékén egy állami park festői kilátással.",
+                  "text": "Park, amely védi a Hudson-hegyvidék drámai hegyeit, kilátópontokkal.",
                   "category": "natural",
                   "coords": [
                         -73.947737,
@@ -7791,7 +7791,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Madam Brett Homestead",
-                  "text": "A Madam Brett Homestead a Hudson-folyó vidékén egy történelmi ház.",
+                  "text": "A legrégebbi ház Dutchess megyében, a 18. századból, ma múzeum.",
                   "category": "park",
                   "coords": [
                         -73.967117,
@@ -7800,7 +7800,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bannerman Castle",
-                  "text": "A Bannerman Castle a Hudson-folyó vidékén egy várrom egy szigeten.",
+                  "text": "Romos várstílusú fegyvertár a Pollepel-szigeten a Hudson folyón, csak csónakkal megközelíthető.",
                   "category": "historical",
                   "coords": [
                         -73.98794,
@@ -7809,7 +7809,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "A First Presbyterian Church a Hudson-folyó vidékén egy történelmi templom Beaconban.",
+                  "text": "A First Presbyterian Church egy neogótikus templom Beacon történelmi negyedében.",
                   "category": "religious",
                   "coords": [
                         -73.959532,
@@ -7818,7 +7818,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Saint Lukes Episcopal Church",
-                  "text": "A Saint Lukes Episcopal Church a Hudson-folyó vidékén egy templom.",
+                  "text": "A Saint Lukes Episcopal Church egy kőből épült episzkopális templom Beacon Main Streetje közelében.",
                   "category": "religious",
                   "coords": [
                         -73.963471,
@@ -7827,7 +7827,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Reformed Church of Beacon",
-                  "text": "A Reformed Church of Beacon a Hudson-folyó vidékén egy templom.",
+                  "text": "A Reformed Church of Beacon egy történelmi holland református templom magas toronnyal a Main Streeten.",
                   "category": "religious",
                   "coords": [
                         -73.980381,
@@ -7836,7 +7836,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Honness Mountain",
-                  "text": "A Honness Mountain a Hudson-folyó vidékén egy hegycsúcs.",
+                  "text": "A Honness Mountain egy 400 méteres csúcs a Hudson Highlandsban túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -73.863468,
@@ -7845,7 +7845,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Hill",
-                  "text": "A Round Hill a Hudson-folyó vidékén egy hegycsúcs.",
+                  "text": "A Round Hill egy lekerekített domb, kilátással a Hudson folyóra.",
                   "category": "natural",
                   "coords": [
                         -73.899859,
@@ -7854,7 +7854,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Douglas Phillips Park",
-                  "text": "A Douglas Phillips Park a Hudson-folyó vidékén egy nyilvános park.",
+                  "text": "A Douglas Phillips Park egy környéki park játszótérrel és kosárlabdapályával.",
                   "category": "park",
                   "coords": [
                         -73.865556,
@@ -7863,7 +7863,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Watch Hill",
-                  "text": "A Watch Hill a Hudson-folyó vidékén egy hegycsúcs.",
+                  "text": "A Watch Hill egy kilátódomb panorámás kilátással a Hudson-völgyre.",
                   "category": "natural",
                   "coords": [
                         -73.877358,
@@ -7872,7 +7872,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shenandoah Mountain",
-                  "text": "A Shenandoah Mountain a Hudson-folyó vidékén egy hegycsúcs.",
+                  "text": "A Shenandoah Mountain egy 370 méteres hegy a Hudson Highlandsben.",
                   "category": "natural",
                   "coords": [
                         -73.814578,
@@ -7881,7 +7881,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Mountain",
-                  "text": "A Round Mountain a Hudson-folyó vidékén egy hegycsúcs.",
+                  "text": "A Round Mountain egy erdős domb, egy ösvénnyel a tetején.",
                   "category": "natural",
                   "coords": [
                         -73.848746,
@@ -7953,7 +7953,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Geering Park",
-                  "text": "A Geering Park egy park a Hudson River Valley természeti területen.",
+                  "text": "A Geering Park baseballpályával és piknikterülettel várja a látogatókat.",
                   "category": "park",
                   "coords": [
                         -73.915949,
@@ -7962,7 +7962,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Beacon Memorial Park",
-                  "text": "A Beacon Memorial Park egy park a Hudson River Valley természeti területen.",
+                  "text": "A Beacon Memorial Park egy park háborús emlékművel és sétányokkal.",
                   "category": "park",
                   "coords": [
                         -73.962164,
@@ -7971,7 +7971,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pete and Toshi Seeger Riverfront Park",
-                  "text": "A Pete and Toshi Seeger Riverfront Park egy park a Hudson folyó partján.",
+                  "text": "A Pete and Toshi Seeger Riverfront Park közvetlenül a Hudson partján fekszik, hajórámpával és folyóra nyíló kilátással.",
                   "category": "park",
                   "coords": [
                         -73.986388,
@@ -7980,7 +7980,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Magazzino",
-                  "text": "A Magazzino egy múzeum a Hudson River Valley természeti területen.",
+                  "text": "Kortárs művészeti múzeum egy egykori raktárban Riverben.",
                   "category": "museum",
                   "coords": [
                         -73.914852,
@@ -7989,7 +7989,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Great Buddha Hall",
-                  "text": "A Great Buddha Hall egy múzeum a Hudson River Valley természeti területen.",
+                  "text": "Múzeumterem egy nagy Buddha-szoborral Riverben.",
                   "category": "museum",
                   "coords": [
                         -73.794015,
@@ -7998,7 +7998,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Marion Royael Gallery",
-                  "text": "A Marion Royael Gallery egy galéria a Hudson River Valley természeti területen.",
+                  "text": "Kortárs művészeti galéria Riverben.",
                   "category": "museum",
                   "coords": [
                         -73.975877,
@@ -8054,7 +8054,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Dia:Beacon",
-                  "text": "Dia:Beacon din regiunea râului Hudson este un muzeu de artă contemporană.",
+                  "text": "Un muzeu de artă contemporană găzduit într-o fostă fabrică de tipărit cutii Nabisco.",
                   "category": "museum",
                   "coords": [
                         -73.982608,
@@ -8063,7 +8063,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dutch Reformed Church",
-                  "text": "Biserica Reformată Olandeză din regiunea râului Hudson este o biserică istorică din Newburgh.",
+                  "text": "O biserică istorică reformată olandeză, cu un turn de lemn alb cu priveliște asupra fluviului Hudson.",
                   "category": "religious",
                   "coords": [
                         -74.008744,
@@ -8072,7 +8072,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Newburgh Bay",
-                  "text": "Newburgh Bay din regiunea râului Hudson este un golf pe râul Hudson.",
+                  "text": "O secțiune largă a fluviului Hudson, cu vedere spre podul Newburgh-Beacon.",
                   "category": "landmark",
                   "coords": [
                         -74.005703,
@@ -8117,7 +8117,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Clarence Fahnestock Memorial State Park",
-                  "text": "Parcul de stat Memorial Clarence Fahnestock din regiunea râului Hudson este un parc de stat cu drumeții și camping.",
+                  "text": "Un parc de stat cu trasee de drumeție, lacuri și un segment al traseului Appalachian.",
                   "category": "natural",
                   "coords": [
                         -73.854655,
@@ -8126,7 +8126,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hudson Highlands State Park",
-                  "text": "Parcul de stat Hudson Highlands din regiunea râului Hudson este un parc de stat cu priveliști pitorești.",
+                  "text": "Un parc ce protejează munții dramatici ai Podișului Hudson, cu puncte de belvedere.",
                   "category": "natural",
                   "coords": [
                         -73.947737,
@@ -8144,7 +8144,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Madam Brett Homestead",
-                  "text": "Casa Madam Brett Homestead din regiunea râului Hudson este o casă istorică.",
+                  "text": "Cea mai veche casă din comitatul Dutchess, construită în secolul al XVIII-lea, acum muzeu.",
                   "category": "park",
                   "coords": [
                         -73.967117,
@@ -8153,7 +8153,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bannerman Castle",
-                  "text": "Castelul Bannerman din regiunea râului Hudson este o ruină de castel pe o insulă.",
+                  "text": "Un arsenal în ruină, asemănător unui castel, pe insula Pollepel din fluviul Hudson, accesibil doar cu barca.",
                   "category": "historical",
                   "coords": [
                         -73.98794,
@@ -8162,7 +8162,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "Biserica First Presbyterian din regiunea râului Hudson este o biserică istorică din Beacon.",
+                  "text": "Biserica First Presbyterian este o biserică gotică renăscută în cartierul istoric al orașului Beacon.",
                   "category": "religious",
                   "coords": [
                         -73.959532,
@@ -8171,7 +8171,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Saint Lukes Episcopal Church",
-                  "text": "Biserica Episcopală Saint Lukes din regiunea râului Hudson este o biserică.",
+                  "text": "Biserica Episcopală Saint Luke este o biserică de piatră lângă Main Street din Beacon.",
                   "category": "religious",
                   "coords": [
                         -73.963471,
@@ -8180,7 +8180,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Reformed Church of Beacon",
-                  "text": "Biserica Reformată din Beacon din regiunea râului Hudson este o biserică.",
+                  "text": "Biserica Reformată din Beacon este o biserică istorică olandeză reformată cu un turn înalt pe Main Street.",
                   "category": "religious",
                   "coords": [
                         -73.980381,
@@ -8189,7 +8189,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Honness Mountain",
-                  "text": "Honness Mountain din regiunea râului Hudson este un vârf montan.",
+                  "text": "Muntele Honness este un vârf de 400 m în Hudson Highlands, cu trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         -73.863468,
@@ -8198,7 +8198,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Hill",
-                  "text": "Round Hill din regiunea râului Hudson este un vârf montan.",
+                  "text": "Round Hill este un deal rotunjit cu vedere spre râul Hudson.",
                   "category": "natural",
                   "coords": [
                         -73.899859,
@@ -8207,7 +8207,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Douglas Phillips Park",
-                  "text": "Parcul Douglas Phillips din regiunea râului Hudson este un parc public.",
+                  "text": "Parcul Douglas Phillips este un park de cartier cu loc de joacă și teren de baschet.",
                   "category": "park",
                   "coords": [
                         -73.865556,
@@ -8216,7 +8216,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Watch Hill",
-                  "text": "Watch Hill din regiunea râului Hudson este un vârf montan.",
+                  "text": "Watch Hill este un deal de observație cu vederi panoramice asupra văii Hudson.",
                   "category": "natural",
                   "coords": [
                         -73.877358,
@@ -8225,7 +8225,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shenandoah Mountain",
-                  "text": "Shenandoah Mountain din regiunea râului Hudson este un vârf montan.",
+                  "text": "Muntele Shenandoah este un munte de 370 m în Hudson Highlands.",
                   "category": "natural",
                   "coords": [
                         -73.814578,
@@ -8234,7 +8234,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Mountain",
-                  "text": "Round Mountain din regiunea râului Hudson este un vârf montan.",
+                  "text": "Round Mountain este un deal împădurit cu un traseu de drumeție.",
                   "category": "natural",
                   "coords": [
                         -73.848746,
@@ -8306,7 +8306,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Geering Park",
-                  "text": "Geering Park este un parc în zona naturală a Văii Râului Hudson.",
+                  "text": "Parcul Geering are un teren de baseball și o zonă de picnic.",
                   "category": "park",
                   "coords": [
                         -73.915949,
@@ -8315,7 +8315,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Beacon Memorial Park",
-                  "text": "Beacon Memorial Park este un parc în zona naturală a Văii Râului Hudson.",
+                  "text": "Parcul Memorial Beacon este un parc cu un monument al războiului și alei de plimbare.",
                   "category": "park",
                   "coords": [
                         -73.962164,
@@ -8324,7 +8324,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pete and Toshi Seeger Riverfront Park",
-                  "text": "Pete and Toshi Seeger Riverfront Park este un parc pe malul râului Hudson.",
+                  "text": "Parcul Pete and Toshi Seeger Riverfront este situat pe malul râului Hudson, cu rampă de lansare bărci și vedere spre apă.",
                   "category": "park",
                   "coords": [
                         -73.986388,
@@ -8333,7 +8333,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Magazzino",
-                  "text": "Magazzino este un muzeu în zona naturală a Văii Râului Hudson.",
+                  "text": "Muzeu de artă contemporană într-un fost depozit din River.",
                   "category": "museum",
                   "coords": [
                         -73.914852,
@@ -8342,7 +8342,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Great Buddha Hall",
-                  "text": "Great Buddha Hall este un muzeu în zona naturală a Văii Râului Hudson.",
+                  "text": "Sală de muzeu cu o statuie mare a lui Buddha în River.",
                   "category": "museum",
                   "coords": [
                         -73.794015,
@@ -8351,7 +8351,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Marion Royael Gallery",
-                  "text": "Marion Royael Gallery este o galerie în zona naturală a Văii Râului Hudson.",
+                  "text": "Galerie de artă contemporană în River.",
                   "category": "museum",
                   "coords": [
                         -73.975877,
@@ -8407,7 +8407,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Dia:Beacon",
-                  "text": "In the Hudson River region, it is a contemporary art museum.",
+                  "text": "A contemporary art museum housed in a former Nabisco box-printing factory.",
                   "category": "museum",
                   "coords": [
                         -73.982608,
@@ -8416,7 +8416,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dutch Reformed Church",
-                  "text": "In the Hudson River region, it is a historic church in Newburgh.",
+                  "text": "A historic Dutch Reformed church with a white wooden spire overlooking the Hudson River.",
                   "category": "religious",
                   "coords": [
                         -74.008744,
@@ -8425,7 +8425,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Newburgh Bay",
-                  "text": "In the Hudson River region, it is a bay on the Hudson River.",
+                  "text": "A wide section of the Hudson River with views of the Newburgh-Beacon Bridge.",
                   "category": "landmark",
                   "coords": [
                         -74.005703,
@@ -8470,7 +8470,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Clarence Fahnestock Memorial State Park",
-                  "text": "In the Hudson River region, it is a state park with hiking and camping.",
+                  "text": "A state park with hiking trails, lakes, and a section of the Appalachian Trail.",
                   "category": "natural",
                   "coords": [
                         -73.854655,
@@ -8479,7 +8479,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hudson Highlands State Park",
-                  "text": "In the Hudson River region, it is a state park with scenic views.",
+                  "text": "A park protecting the dramatic Hudson Highlands mountains with scenic overlooks.",
                   "category": "natural",
                   "coords": [
                         -73.947737,
@@ -8497,7 +8497,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Madam Brett Homestead",
-                  "text": "In the Hudson River region, it is a historic house.",
+                  "text": "The oldest home in Dutchess County, built in the 1700s, now a museum.",
                   "category": "park",
                   "coords": [
                         -73.967117,
@@ -8506,7 +8506,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bannerman Castle",
-                  "text": "In the Hudson River region, it is a castle ruin on an island.",
+                  "text": "A ruined castle-style arsenal on Pollepel Island in the Hudson River, accessible only by boat.",
                   "category": "historical",
                   "coords": [
                         -73.98794,
@@ -8515,7 +8515,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "First Presbyterian Church",
-                  "text": "In the Hudson River region, it is a historic church in Beacon.",
+                  "text": "First Presbyterian Church is a Gothic Revival church in the historic district of Beacon.",
                   "category": "religious",
                   "coords": [
                         -73.959532,
@@ -8524,7 +8524,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Saint Lukes Episcopal Church",
-                  "text": "In the Hudson River region, it is an Episcopal church.",
+                  "text": "Saint Lukes Episcopal Church is a stone Episcopal church near Main Street in Beacon.",
                   "category": "religious",
                   "coords": [
                         -73.963471,
@@ -8533,7 +8533,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Reformed Church of Beacon",
-                  "text": "In the Hudson River region, it is a church.",
+                  "text": "Reformed Church of Beacon is a historic Dutch Reformed church with a tall steeple on Main Street.",
                   "category": "religious",
                   "coords": [
                         -73.980381,
@@ -8542,7 +8542,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Honness Mountain",
-                  "text": "In the Hudson River region, it is a mountain peak.",
+                  "text": "Honness Mountain is a 1,300 ft peak in the Hudson Highlands with hiking trails.",
                   "category": "natural",
                   "coords": [
                         -73.863468,
@@ -8551,7 +8551,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Hill",
-                  "text": "In the Hudson River region, it is a mountain peak.",
+                  "text": "Round Hill is a rounded hill offering views of the Hudson River.",
                   "category": "natural",
                   "coords": [
                         -73.899859,
@@ -8560,7 +8560,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Douglas Phillips Park",
-                  "text": "In the Hudson River region, it is a public park.",
+                  "text": "Douglas Phillips Park is a neighborhood park with a playground and basketball court.",
                   "category": "park",
                   "coords": [
                         -73.865556,
@@ -8569,7 +8569,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Watch Hill",
-                  "text": "In the Hudson River region, it is a mountain peak.",
+                  "text": "Watch Hill is a lookout hill with panoramic views of the Hudson Valley.",
                   "category": "natural",
                   "coords": [
                         -73.877358,
@@ -8578,7 +8578,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shenandoah Mountain",
-                  "text": "In the Hudson River region, it is a mountain peak.",
+                  "text": "Shenandoah Mountain is a 1,200 ft mountain in the Hudson Highlands.",
                   "category": "natural",
                   "coords": [
                         -73.814578,
@@ -8587,7 +8587,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Round Mountain",
-                  "text": "In the Hudson River region, it is a mountain peak.",
+                  "text": "Round Mountain is a wooded hill with a hiking trail.",
                   "category": "natural",
                   "coords": [
                         -73.848746,
@@ -8659,7 +8659,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Geering Park",
-                  "text": "Geering Park is a park in the Hudson River Valley nature area.",
+                  "text": "Geering Park features a baseball field and a picnic area.",
                   "category": "park",
                   "coords": [
                         -73.915949,
@@ -8668,7 +8668,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Beacon Memorial Park",
-                  "text": "Beacon Memorial Park is a park in the Hudson River Valley nature area.",
+                  "text": "Beacon Memorial Park is a park with a war memorial and walking paths.",
                   "category": "park",
                   "coords": [
                         -73.962164,
@@ -8677,7 +8677,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pete and Toshi Seeger Riverfront Park",
-                  "text": "Pete and Toshi Seeger Riverfront Park is a park along the Hudson River.",
+                  "text": "Pete and Toshi Seeger Riverfront Park sits on the Hudson with a boat launch and river views.",
                   "category": "park",
                   "coords": [
                         -73.986388,
@@ -8686,7 +8686,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Magazzino",
-                  "text": "Magazzino is a museum in the Hudson River Valley nature area.",
+                  "text": "Museum of contemporary art in a former warehouse in River.",
                   "category": "museum",
                   "coords": [
                         -73.914852,
@@ -8695,7 +8695,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Great Buddha Hall",
-                  "text": "Great Buddha Hall is a museum in the Hudson River Valley nature area.",
+                  "text": "Museum hall housing a large Buddha statue in River.",
                   "category": "museum",
                   "coords": [
                         -73.794015,
@@ -8704,7 +8704,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Marion Royael Gallery",
-                  "text": "Marion Royael Gallery is a gallery in the Hudson River Valley nature area.",
+                  "text": "Contemporary art gallery in River.",
                   "category": "museum",
                   "coords": [
                         -73.975877,
@@ -8801,7 +8801,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Paradise Spring",
-                  "text": "Paradise Spring ist eine Quelle im Coconino National Forest.",
+                  "text": "Paradise Spring ist eine natürliche Quelle im Coconino National Forest, beliebt bei Wanderern.",
                   "category": "landmark",
                   "coords": [
                         -111.625083,
@@ -8810,7 +8810,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Paradise Hills Park",
-                  "text": "Der Paradise Hills Park ist ein Park im Coconino National Forest.",
+                  "text": "Der Paradise Hills Park ist ein bewaldeter Park mit Wanderwegen und Picknickplätzen.",
                   "category": "park",
                   "coords": [
                         -111.624328,
@@ -8819,7 +8819,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Elden Spring",
-                  "text": "Eine natürliche Quelle im Coconino National Forest.",
+                  "text": "Die Elden Spring ist eine kleine Quelle am Fuße des Mount Elden.",
                   "category": "landmark",
                   "coords": [
                         -111.6003,
@@ -8846,7 +8846,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smoke Rise Park",
-                  "text": "Ein öffentlicher Park im Coconino National Forest.",
+                  "text": "Der Smoke Rise Park hat einen Teich und Spazierwege im Wald.",
                   "category": "park",
                   "coords": [
                         -111.571507,
@@ -8855,7 +8855,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Hill",
-                  "text": "Ein markanter Gipfel im Coconino National Forest.",
+                  "text": "Der Sheep Hill ist ein grasbewachsener Hügel mit Blick auf die San Francisco Peaks.",
                   "category": "natural",
                   "coords": [
                         -111.563494,
@@ -8882,7 +8882,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wildcat Hill",
-                  "text": "Ein Hügel mit schöner Aussicht im Coconino National Forest.",
+                  "text": "Der Wildcat Hill ist ein felsiger Hügel mit dichter Vegetation.",
                   "category": "natural",
                   "coords": [
                         -111.550715,
@@ -8891,7 +8891,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ponderosa Recreation Center",
-                  "text": "Ein Erholungszentrum und Park im Coconino National Forest.",
+                  "text": "Das Ponderosa Recreation Center ist ein Camping- und Picknickplatz im Kiefernwald.",
                   "category": "park",
                   "coords": [
                         -111.615994,
@@ -8981,7 +8981,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tunnel Spring",
-                  "text": "Eine natürliche Quelle im Coconino National Forest.",
+                  "text": "Die Tunnel Spring entspringt aus einer vulkanischen Felsformation und bildet einen kleinen Tümpel.",
                   "category": "landmark",
                   "coords": [
                         -111.685365,
@@ -8999,7 +8999,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Museum of Northern Arizona research facility",
-                  "text": "Eine Forschungseinrichtung des Museum of Northern Arizona im Coconino National Forest.",
+                  "text": "Forschungseinrichtung des Museums von Nordarizona in einem Nationalforst.",
                   "category": "museum",
                   "coords": [
                         -111.661973,
@@ -9107,7 +9107,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Federated Community Church",
-                  "text": "Eine Gemeindekirche im Coconino National Forest.",
+                  "text": "Die Federated Community Church ist eine kleine Gemeindekirche nahe dem Coconino National Forest.",
                   "category": "religious",
                   "coords": [
                         -111.653291,
@@ -9125,7 +9125,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Holy Cross Greek Orthodox Church of Flagstaff",
-                  "text": "Eine griechisch-orthodoxe Kirche im Coconino National Forest.",
+                  "text": "Die Holy Cross Greek Orthodox Church of Flagstaff ist eine byzantinisch geprägte Kirche in der Nähe des Waldes.",
                   "category": "religious",
                   "coords": [
                         -111.648646,
@@ -9136,7 +9136,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Paradise Spring",
-                  "text": "Paradise Spring egy forrás a Coconino Nemzeti Erdőben.",
+                  "text": "A Paradise Spring egy természetes forrás a Coconino Nemzeti Erdőben, túrázók körében népszerű.",
                   "category": "landmark",
                   "coords": [
                         -111.625083,
@@ -9145,7 +9145,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Paradise Hills Park",
-                  "text": "Paradise Hills Park egy park a Coconino Nemzeti Erdőben.",
+                  "text": "A Paradise Hills Park egy erdős park ösvényekkel és piknikhelyekkel.",
                   "category": "park",
                   "coords": [
                         -111.624328,
@@ -9154,7 +9154,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Elden Spring",
-                  "text": "Egy természetes forrás a Coconino Nemzeti Erdőben.",
+                  "text": "Az Elden Spring egy kis forrás az Elden-hegy lábánál.",
                   "category": "landmark",
                   "coords": [
                         -111.6003,
@@ -9181,7 +9181,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smoke Rise Park",
-                  "text": "Egy nyilvános park a Coconino Nemzeti Erdőben.",
+                  "text": "A Smoke Rise Park egy tóval és sétányokkal rendelkezik az erdőben.",
                   "category": "park",
                   "coords": [
                         -111.571507,
@@ -9190,7 +9190,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Hill",
-                  "text": "Egy kiemelkedő csúcs a Coconino Nemzeti Erdőben.",
+                  "text": "A Sheep Hill egy füves domb, kilátással a San Francisco csúcsaira.",
                   "category": "natural",
                   "coords": [
                         -111.563494,
@@ -9217,7 +9217,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wildcat Hill",
-                  "text": "Egy domb, amely kilátást nyújt a Coconino Nemzeti Erdőben.",
+                  "text": "A Wildcat Hill egy sziklás domb sűrű növényzettel.",
                   "category": "natural",
                   "coords": [
                         -111.550715,
@@ -9226,7 +9226,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ponderosa Recreation Center",
-                  "text": "Egy rekreációs központ és park a Coconino Nemzeti Erdőben.",
+                  "text": "A Ponderosa Recreation Center egy kemping- és piknikhely fenyveserdőben.",
                   "category": "park",
                   "coords": [
                         -111.615994,
@@ -9316,7 +9316,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tunnel Spring",
-                  "text": "Egy természetes forrás a Coconino Nemzeti Erdőben.",
+                  "text": "A Tunnel Spring egy vulkanikus sziklaformációból tör elő, kis tócsát képezve.",
                   "category": "landmark",
                   "coords": [
                         -111.685365,
@@ -9334,7 +9334,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Museum of Northern Arizona research facility",
-                  "text": "Az észak-arizonai múzeum kutatóintézete a Coconino Nemzeti Erdőben.",
+                  "text": "Az Észak-arizonai Múzeum kutatóintézete egy nemzeti erdőben.",
                   "category": "museum",
                   "coords": [
                         -111.661973,
@@ -9442,7 +9442,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Federated Community Church",
-                  "text": "Egy közösségi templom a Coconino Nemzeti Erdőben.",
+                  "text": "A Federated Community Church egy kis közösségi templom a Coconino Nemzeti Erdő közelében.",
                   "category": "religious",
                   "coords": [
                         -111.653291,
@@ -9460,7 +9460,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Holy Cross Greek Orthodox Church of Flagstaff",
-                  "text": "Egy görög ortodox templom a Coconino Nemzeti Erdőben.",
+                  "text": "A Holy Cross Greek Orthodox Church of Flagstaff egy bizánci stílusú templom az erdő közelében.",
                   "category": "religious",
                   "coords": [
                         -111.648646,
@@ -9471,7 +9471,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Paradise Spring",
-                  "text": "Paradise Spring este un izvor în Pădurea Națională Coconino.",
+                  "text": "Paradise Spring este un izvor natural în Pădurea Națională Coconino, popular printre drumeți.",
                   "category": "landmark",
                   "coords": [
                         -111.625083,
@@ -9480,7 +9480,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Paradise Hills Park",
-                  "text": "Parcul Paradise Hills este un parc în Pădurea Națională Coconino.",
+                  "text": "Parcul Paradise Hills este un parc împădurit cu trasee și zone de picnic.",
                   "category": "park",
                   "coords": [
                         -111.624328,
@@ -9489,7 +9489,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Elden Spring",
-                  "text": "Un izvor natural în Pădurea Națională Coconino.",
+                  "text": "Elden Spring este un mic izvor la baza Muntelui Elden.",
                   "category": "landmark",
                   "coords": [
                         -111.6003,
@@ -9516,7 +9516,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smoke Rise Park",
-                  "text": "Un parc public situat în Pădurea Națională Coconino.",
+                  "text": "Parcul Smoke Rise are un iaz și alei de plimbare în pădure.",
                   "category": "park",
                   "coords": [
                         -111.571507,
@@ -9525,7 +9525,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Hill",
-                  "text": "Un vârf proeminent din Pădurea Națională Coconino.",
+                  "text": "Sheep Hill este un deal ierbos cu vedere spre vârfurile San Francisco.",
                   "category": "natural",
                   "coords": [
                         -111.563494,
@@ -9552,7 +9552,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wildcat Hill",
-                  "text": "Un deal care oferă priveliști în Pădurea Națională Coconino.",
+                  "text": "Wildcat Hill este un deal stâncos cu vegetație deasă.",
                   "category": "natural",
                   "coords": [
                         -111.550715,
@@ -9561,7 +9561,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ponderosa Recreation Center",
-                  "text": "Un centru de recreere și parc în Pădurea Națională Coconino.",
+                  "text": "Centrul de Recreere Ponderosa este o zonă de camping și picnic într-o pădure de pini.",
                   "category": "park",
                   "coords": [
                         -111.615994,
@@ -9651,7 +9651,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tunnel Spring",
-                  "text": "Un izvor natural în Pădurea Națională Coconino.",
+                  "text": "Tunnel Spring iese dintr-o formațiune de rocă vulcanică, formând o mică băltoacă.",
                   "category": "landmark",
                   "coords": [
                         -111.685365,
@@ -9669,7 +9669,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Museum of Northern Arizona research facility",
-                  "text": "O facilitate de cercetare a Muzeului din Arizona de Nord în Pădurea Națională Coconino.",
+                  "text": "Facilitate de cercetare a Muzeului din Arizona de Nord într-o pădure națională.",
                   "category": "museum",
                   "coords": [
                         -111.661973,
@@ -9777,7 +9777,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Federated Community Church",
-                  "text": "O biserică comunitară în Pădurea Națională Coconino.",
+                  "text": "Biserica Federated Community Church este o biserică mică de comunitate lângă Pădurea Națională Coconino.",
                   "category": "religious",
                   "coords": [
                         -111.653291,
@@ -9795,7 +9795,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Holy Cross Greek Orthodox Church of Flagstaff",
-                  "text": "O biserică greco-ortodoxă în Pădurea Națională Coconino.",
+                  "text": "Biserica Ortodoxă Greacă Holy Cross din Flagstaff este o biserică cu arhitectură bizantină lângă pădure.",
                   "category": "religious",
                   "coords": [
                         -111.648646,
@@ -9806,7 +9806,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Paradise Spring",
-                  "text": "Paradise Spring is a spring in the Coconino National Forest.",
+                  "text": "Paradise Spring is a natural spring in the Coconino National Forest, popular for hiking.",
                   "category": "landmark",
                   "coords": [
                         -111.625083,
@@ -9815,7 +9815,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Paradise Hills Park",
-                  "text": "Paradise Hills Park is a park in the Coconino National Forest.",
+                  "text": "Paradise Hills Park is a forested park with trails and picnic areas.",
                   "category": "park",
                   "coords": [
                         -111.624328,
@@ -9824,7 +9824,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Elden Spring",
-                  "text": "A natural spring located in the Coconino National Forest.",
+                  "text": "Elden Spring is a small spring at the base of Mount Elden.",
                   "category": "landmark",
                   "coords": [
                         -111.6003,
@@ -9851,7 +9851,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smoke Rise Park",
-                  "text": "A public park situated in the Coconino National Forest.",
+                  "text": "Smoke Rise Park features a pond and walking trails in the woods.",
                   "category": "park",
                   "coords": [
                         -111.571507,
@@ -9860,7 +9860,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Hill",
-                  "text": "A prominent peak within the Coconino National Forest.",
+                  "text": "Sheep Hill is a grassy hill offering views of the San Francisco Peaks.",
                   "category": "natural",
                   "coords": [
                         -111.563494,
@@ -9887,7 +9887,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wildcat Hill",
-                  "text": "A hill offering views in the Coconino National Forest.",
+                  "text": "Wildcat Hill is a rocky hill with dense vegetation.",
                   "category": "natural",
                   "coords": [
                         -111.550715,
@@ -9896,7 +9896,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ponderosa Recreation Center",
-                  "text": "A recreation center and park in the Coconino National Forest.",
+                  "text": "Ponderosa Recreation Center is a campground and picnic area in a ponderosa pine forest.",
                   "category": "park",
                   "coords": [
                         -111.615994,
@@ -9986,7 +9986,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tunnel Spring",
-                  "text": "A natural spring located in the Coconino National Forest.",
+                  "text": "Tunnel Spring emerges from a volcanic rock formation, creating a small pool.",
                   "category": "landmark",
                   "coords": [
                         -111.685365,
@@ -10004,7 +10004,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Museum of Northern Arizona research facility",
-                  "text": "A research facility of the Museum of Northern Arizona in the Coconino National Forest.",
+                  "text": "Research facility of the Museum of Northern Arizona located in a national forest.",
                   "category": "museum",
                   "coords": [
                         -111.661973,
@@ -10112,7 +10112,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Federated Community Church",
-                  "text": "A community church in the Coconino National Forest.",
+                  "text": "Federated Community Church is a small community church near the Coconino National Forest.",
                   "category": "religious",
                   "coords": [
                         -111.653291,
@@ -10130,7 +10130,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Holy Cross Greek Orthodox Church of Flagstaff",
-                  "text": "A Greek Orthodox church in the Coconino National Forest.",
+                  "text": "Holy Cross Greek Orthodox Church of Flagstaff is a Byzantine-style church near the forest.",
                   "category": "religious",
                   "coords": [
                         -111.648646,
@@ -10182,7 +10182,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Puʻukalepeamoa",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Puʻukalepeamoa ist ein vulkanischer Kegel an den Hängen des Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.458916,
@@ -10191,7 +10191,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhaiwahine",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Puʻuhaiwahine ist ein Vulkankegel auf dem Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.467705,
@@ -10200,7 +10200,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukoʻohi",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Puʻukoʻohi ist ein kleiner Vulkankegel am Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.505302,
@@ -10209,7 +10209,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupōhakuloa",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Puʻupōhakuloa ist ein vulkanischer Hügel auf der Flanke des Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.536186,
@@ -10218,7 +10218,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Nau",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Nau ist ein Vulkankegel im Gebiet des Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.529108,
@@ -10227,7 +10227,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukeoneheheʻe",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Puʻukeoneheheʻe ist ein vulkanischer Aschekegel auf Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.458601,
@@ -10236,7 +10236,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukea",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Puʻukea ist ein Vulkankegel auf der Mauna Kea Hochfläche.",
                   "category": "natural",
                   "coords": [
                         -155.468805,
@@ -10245,7 +10245,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhauʻoki",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Puʻuhauʻoki ist ein vulkanischer Hügel am Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.472234,
@@ -10254,7 +10254,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuwekiu",
-                  "text": "Der höchste Punkt auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Puuwekiu ist der höchste Gipfel auf der Mauna Kea Kuppe.",
                   "category": "natural",
                   "coords": [
                         -155.469443,
@@ -10263,7 +10263,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhaukea",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Der Puʻuhaukea ist ein weiterer Vulkankegel auf dem Mauna Kea Massiv.",
                   "category": "natural",
                   "coords": [
                         -155.472324,
@@ -10272,7 +10272,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻulīlīnoe",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Puʻulīlīnoe ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.458978,
@@ -10281,7 +10281,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukoʻokoʻolau",
-                  "text": "Ein Gipfel auf dem Mauna Kea in Hawaii.",
+                  "text": "Puʻukoʻokoʻolau ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.475579,
@@ -10290,7 +10290,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuwaiau",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻuwaiau ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.478177,
@@ -10299,7 +10299,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupoliʻahu",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻupoliʻahu ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.481169,
@@ -10308,7 +10308,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupōhaku",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻupōhaku ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.491848,
@@ -10317,7 +10317,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumāhoe",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻumāhoe ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.460688,
@@ -10326,7 +10326,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuala",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻuala ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.443903,
@@ -10335,7 +10335,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupoepoe",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻupoepoe ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.445307,
@@ -10344,7 +10344,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumākanaka",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻumākanaka ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.427973,
@@ -10353,7 +10353,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhoaka",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻuhoaka ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.434687,
@@ -10362,7 +10362,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukole",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻukole ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.448787,
@@ -10371,7 +10371,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Kemole",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Kemole ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.525508,
@@ -10380,7 +10380,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻunanaha",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻunanaha ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.559992,
@@ -10389,7 +10389,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumoana",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻumoana ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.46368,
@@ -10398,7 +10398,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻulehu",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻulehu ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.421077,
@@ -10407,7 +10407,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukanakaleonui",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻukanakaleonui ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.391113,
@@ -10416,7 +10416,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Red Hill",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Red Hill ist ein rötlicher Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.420771,
@@ -10425,7 +10425,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuʻulaʻulua",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻuʻulaʻulua ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.380183,
@@ -10434,7 +10434,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukahinahina",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻukahinahina ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.3753,
@@ -10443,7 +10443,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukawaiwai",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻukawaiwai ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.385615,
@@ -10452,7 +10452,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukaupakuhale",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻukaupakuhale ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.40777,
@@ -10461,7 +10461,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupalaolelo",
-                  "text": "Ein Gipfel im Mauna-Kea-Gebiet.",
+                  "text": "Puʻupalaolelo ist ein Vulkan-Schlackenkegel an den Hängen des Mauna Kea nahe Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.405877,
@@ -10470,7 +10470,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mauna Kea Ice Age Natural Area Reserve",
-                  "text": "Schützt den einzigen bekannten See in Hawaii.",
+                  "text": "Ein hochgelegenes Schutzgebiet auf dem Mauna Kea mit eiszeitlichen Landformen und seltenen Pflanzen.",
                   "category": "natural",
                   "coords": [
                         -155.475058,
@@ -10479,7 +10479,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wailuku Silversword Sanctuary",
-                  "text": "Schützt die gefährdete Silberschwertpflanze.",
+                  "text": "Geschütztes Habitat der seltenen Silberschwertpflanze auf dem Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.400694,
@@ -10497,7 +10497,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mauna Kea Forest Reserve",
-                  "text": "Ein Waldreservat auf dem Mauna Kea.",
+                  "text": "Hochgelegener Waldreservat an den Hängen des Mauna-Kea-Vulkans.",
                   "category": "natural",
                   "coords": [
                         -155.470231,
@@ -10508,7 +10508,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Puʻukalepeamoa",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "A Puʻukalepeamoa egy vulkáni kúp a Mauna Kea lejtőin.",
                   "category": "natural",
                   "coords": [
                         -155.458916,
@@ -10517,7 +10517,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhaiwahine",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "A Puʻuhaiwahine egy vulkáni kúp a Mauna Kea-n.",
                   "category": "natural",
                   "coords": [
                         -155.467705,
@@ -10526,7 +10526,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukoʻohi",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "A Puʻukoʻohi egy kis vulkáni kúp a Mauna Kea-n.",
                   "category": "natural",
                   "coords": [
                         -155.505302,
@@ -10535,7 +10535,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupōhakuloa",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "A Puʻupōhakuloa egy vulkáni domb a Mauna Kea oldalán.",
                   "category": "natural",
                   "coords": [
                         -155.536186,
@@ -10544,7 +10544,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Nau",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "A Nau egy vulkáni kúp a Mauna Kea területén.",
                   "category": "natural",
                   "coords": [
                         -155.529108,
@@ -10553,7 +10553,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukeoneheheʻe",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "A Puʻukeoneheheʻe egy vulkáni hamukúp a Mauna Kea-n.",
                   "category": "natural",
                   "coords": [
                         -155.458601,
@@ -10562,7 +10562,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukea",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "A Puʻukea egy vulkáni kúp a Mauna Kea fennsíkján.",
                   "category": "natural",
                   "coords": [
                         -155.468805,
@@ -10571,7 +10571,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhauʻoki",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "A Puʻuhauʻoki egy vulkáni domb a Mauna Kea-n.",
                   "category": "natural",
                   "coords": [
                         -155.472234,
@@ -10580,7 +10580,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuwekiu",
-                  "text": "A Mauna Kea legmagasabb pontja Hawaii-n.",
+                  "text": "A Puuwekiu a Mauna Kea kupolájának legmagasabb csúcsa.",
                   "category": "natural",
                   "coords": [
                         -155.469443,
@@ -10589,7 +10589,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhaukea",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "A Puʻuhaukea egy újabb vulkáni kúp a Mauna Kea masszívumán.",
                   "category": "natural",
                   "coords": [
                         -155.472324,
@@ -10598,7 +10598,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻulīlīnoe",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "Puʻulīlīnoe egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.458978,
@@ -10607,7 +10607,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukoʻokoʻolau",
-                  "text": "Csúcs a Mauna Kea-n, Hawaii.",
+                  "text": "Puʻukoʻokoʻolau egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.475579,
@@ -10616,7 +10616,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuwaiau",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻuwaiau egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.478177,
@@ -10625,7 +10625,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupoliʻahu",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻupoliʻahu egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.481169,
@@ -10634,7 +10634,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupōhaku",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻupōhaku egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.491848,
@@ -10643,7 +10643,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumāhoe",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻumāhoe egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.460688,
@@ -10652,7 +10652,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuala",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻuala egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.443903,
@@ -10661,7 +10661,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupoepoe",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻupoepoe egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.445307,
@@ -10670,7 +10670,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumākanaka",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻumākanaka egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.427973,
@@ -10679,7 +10679,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhoaka",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻuhoaka egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.434687,
@@ -10688,7 +10688,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukole",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻukole egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.448787,
@@ -10697,7 +10697,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Kemole",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Kemole egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.525508,
@@ -10706,7 +10706,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻunanaha",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻunanaha egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.559992,
@@ -10715,7 +10715,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumoana",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻumoana egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.46368,
@@ -10724,7 +10724,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻulehu",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻulehu egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.421077,
@@ -10733,7 +10733,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukanakaleonui",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻukanakaleonui egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.391113,
@@ -10742,7 +10742,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Red Hill",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Red Hill egy vöröses vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.420771,
@@ -10751,7 +10751,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuʻulaʻulua",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻuʻulaʻulua egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.380183,
@@ -10760,7 +10760,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukahinahina",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻukahinahina egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.3753,
@@ -10769,7 +10769,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukawaiwai",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻukawaiwai egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.385615,
@@ -10778,7 +10778,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukaupakuhale",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻukaupakuhale egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.40777,
@@ -10787,7 +10787,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupalaolelo",
-                  "text": "Egy csúcs a Mauna Kea területén.",
+                  "text": "Puʻupalaolelo egy vulkáni hamukúp a Mauna Kea lejtőin, Kea közelében, Hawaii-on.",
                   "category": "natural",
                   "coords": [
                         -155.405877,
@@ -10796,7 +10796,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mauna Kea Ice Age Natural Area Reserve",
-                  "text": "Védi Hawaii egyetlen ismert tavát.",
+                  "text": "Magaslati rezervátum a Mauna Kea-n, jégkorszaki felszínformákkal és ritka növényekkel.",
                   "category": "natural",
                   "coords": [
                         -155.475058,
@@ -10805,7 +10805,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wailuku Silversword Sanctuary",
-                  "text": "Védi a veszélyeztetett ezüstkard növényt.",
+                  "text": "Védett élőhely a ritka ezüstkard növény számára a Mauna Keán.",
                   "category": "natural",
                   "coords": [
                         -155.400694,
@@ -10823,7 +10823,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mauna Kea Forest Reserve",
-                  "text": "Egy erdőrezervátum a Mauna Kea-n.",
+                  "text": "Magaslati erdőrezervátum a Mauna Kea vulkán lejtőin.",
                   "category": "natural",
                   "coords": [
                         -155.470231,
@@ -10834,7 +10834,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Puʻukalepeamoa",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻukalepeamoa este un con vulcanic pe versanții Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.458916,
@@ -10843,7 +10843,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhaiwahine",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻuhaiwahine este un con vulcanic pe Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.467705,
@@ -10852,7 +10852,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukoʻohi",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻukoʻohi este un mic con vulcanic pe Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.505302,
@@ -10861,7 +10861,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupōhakuloa",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻupōhakuloa este un deal vulcanic pe flancul Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.536186,
@@ -10870,7 +10870,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Nau",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Nau este un con vulcanic în zona Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.529108,
@@ -10879,7 +10879,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukeoneheheʻe",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻukeoneheheʻe este un con de cenușă vulcanică pe Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.458601,
@@ -10888,7 +10888,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukea",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻukea este un con vulcanic pe platoul Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.468805,
@@ -10897,7 +10897,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhauʻoki",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻuhauʻoki este un deal vulcanic pe Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.472234,
@@ -10906,7 +10906,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuwekiu",
-                  "text": "Cel mai înalt punct pe Mauna Kea din Hawaii.",
+                  "text": "Puuwekiu este cel mai înalt vârf de pe cupola Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.469443,
@@ -10915,7 +10915,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhaukea",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻuhaukea este încă un con vulcanic pe masivul Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.472324,
@@ -10924,7 +10924,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻulīlīnoe",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻulīlīnoe este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.458978,
@@ -10933,7 +10933,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukoʻokoʻolau",
-                  "text": "Un vârf pe Mauna Kea din Hawaii.",
+                  "text": "Puʻukoʻokoʻolau este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.475579,
@@ -10942,7 +10942,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuwaiau",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻuwaiau este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.478177,
@@ -10951,7 +10951,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupoliʻahu",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻupoliʻahu este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.481169,
@@ -10960,7 +10960,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupōhaku",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻupōhaku este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.491848,
@@ -10969,7 +10969,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumāhoe",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻumāhoe este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.460688,
@@ -10978,7 +10978,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuala",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻuala este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.443903,
@@ -10987,7 +10987,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupoepoe",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻupoepoe este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.445307,
@@ -10996,7 +10996,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumākanaka",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻumākanaka este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.427973,
@@ -11005,7 +11005,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhoaka",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻuhoaka este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.434687,
@@ -11014,7 +11014,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukole",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻukole este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.448787,
@@ -11023,7 +11023,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Kemole",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Kemole este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.525508,
@@ -11032,7 +11032,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻunanaha",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻunanaha este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.559992,
@@ -11041,7 +11041,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumoana",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻumoana este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.46368,
@@ -11050,7 +11050,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻulehu",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻulehu este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.421077,
@@ -11059,7 +11059,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukanakaleonui",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻukanakaleonui este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.391113,
@@ -11068,7 +11068,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Red Hill",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Red Hill este un con vulcanic de cenușă roșiatic pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.420771,
@@ -11077,7 +11077,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuʻulaʻulua",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻuʻulaʻulua este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.380183,
@@ -11086,7 +11086,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukahinahina",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻukahinahina este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.3753,
@@ -11095,7 +11095,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukawaiwai",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻukawaiwai este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.385615,
@@ -11104,7 +11104,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukaupakuhale",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻukaupakuhale este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.40777,
@@ -11113,7 +11113,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupalaolelo",
-                  "text": "Un vârf în zona Mauna Kea.",
+                  "text": "Puʻupalaolelo este un con vulcanic de cenușă pe versanții Mauna Kea lângă Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.405877,
@@ -11122,7 +11122,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mauna Kea Ice Age Natural Area Reserve",
-                  "text": "Protejează singurul lac cunoscut din Hawaii.",
+                  "text": "O rezervație de mare altitudine pe Mauna Kea, cu forme de relief glaciare și plante rare.",
                   "category": "natural",
                   "coords": [
                         -155.475058,
@@ -11131,7 +11131,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wailuku Silversword Sanctuary",
-                  "text": "Protejează planta periclitată săbiuța de argint.",
+                  "text": "Habitat protejat pentru planta rară sabie-de-argint pe Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.400694,
@@ -11149,7 +11149,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mauna Kea Forest Reserve",
-                  "text": "O rezervație forestieră pe Mauna Kea.",
+                  "text": "Rezervație forestieră de mare altitudine pe versanții vulcanului Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.470231,
@@ -11160,7 +11160,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Puʻukalepeamoa",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻukalepeamoa is a volcanic cone on the slopes of Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.458916,
@@ -11169,7 +11169,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhaiwahine",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻuhaiwahine is a volcanic cone on Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.467705,
@@ -11178,7 +11178,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukoʻohi",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻukoʻohi is a small volcanic cone on Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.505302,
@@ -11187,7 +11187,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupōhakuloa",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻupōhakuloa is a volcanic hill on the flank of Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.536186,
@@ -11196,7 +11196,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Nau",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Nau is a volcanic cone in the Mauna Kea area.",
                   "category": "natural",
                   "coords": [
                         -155.529108,
@@ -11205,7 +11205,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukeoneheheʻe",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻukeoneheheʻe is a volcanic cinder cone on Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.458601,
@@ -11214,7 +11214,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukea",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻukea is a volcanic cone on the Mauna Kea plateau.",
                   "category": "natural",
                   "coords": [
                         -155.468805,
@@ -11223,7 +11223,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhauʻoki",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻuhauʻoki is a volcanic hill on Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.472234,
@@ -11232,7 +11232,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puuwekiu",
-                  "text": "The highest point on Mauna Kea in Hawaii.",
+                  "text": "Puuwekiu is the highest summit on the Mauna Kea dome.",
                   "category": "natural",
                   "coords": [
                         -155.469443,
@@ -11241,7 +11241,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhaukea",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻuhaukea is another volcanic cone on the Mauna Kea massif.",
                   "category": "natural",
                   "coords": [
                         -155.472324,
@@ -11250,7 +11250,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻulīlīnoe",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻulīlīnoe is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.458978,
@@ -11259,7 +11259,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukoʻokoʻolau",
-                  "text": "A peak on Mauna Kea in Hawaii.",
+                  "text": "Puʻukoʻokoʻolau is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.475579,
@@ -11268,7 +11268,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuwaiau",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻuwaiau is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.478177,
@@ -11277,7 +11277,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupoliʻahu",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻupoliʻahu is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.481169,
@@ -11286,7 +11286,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupōhaku",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻupōhaku is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.491848,
@@ -11295,7 +11295,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumāhoe",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻumāhoe is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.460688,
@@ -11304,7 +11304,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuala",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻuala is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.443903,
@@ -11313,7 +11313,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupoepoe",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻupoepoe is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.445307,
@@ -11322,7 +11322,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumākanaka",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻumākanaka is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.427973,
@@ -11331,7 +11331,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuhoaka",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻuhoaka is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.434687,
@@ -11340,7 +11340,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukole",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻukole is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.448787,
@@ -11349,7 +11349,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Kemole",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Kemole is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.525508,
@@ -11358,7 +11358,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻunanaha",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻunanaha is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.559992,
@@ -11367,7 +11367,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻumoana",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻumoana is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.46368,
@@ -11376,7 +11376,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻulehu",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻulehu is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.421077,
@@ -11385,7 +11385,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukanakaleonui",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻukanakaleonui is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.391113,
@@ -11394,7 +11394,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Red Hill",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Red Hill is a reddish volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.420771,
@@ -11403,7 +11403,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻuʻulaʻulua",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻuʻulaʻulua is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.380183,
@@ -11412,7 +11412,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukahinahina",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻukahinahina is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.3753,
@@ -11421,7 +11421,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukawaiwai",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻukawaiwai is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.385615,
@@ -11430,7 +11430,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻukaupakuhale",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻukaupakuhale is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.40777,
@@ -11439,7 +11439,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Puʻupalaolelo",
-                  "text": "A peak on Mauna Kea.",
+                  "text": "Puʻupalaolelo is a volcanic cinder cone on the slopes of Mauna Kea near Kea, Hawaii.",
                   "category": "natural",
                   "coords": [
                         -155.405877,
@@ -11448,7 +11448,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mauna Kea Ice Age Natural Area Reserve",
-                  "text": "It protects the only known lake in Hawaii.",
+                  "text": "A high-altitude reserve on Mauna Kea preserving glacial-era landforms and rare plants.",
                   "category": "natural",
                   "coords": [
                         -155.475058,
@@ -11457,7 +11457,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wailuku Silversword Sanctuary",
-                  "text": "It protects the endangered silversword plant.",
+                  "text": "Protected habitat for the rare silversword plant on Mauna Kea.",
                   "category": "natural",
                   "coords": [
                         -155.400694,
@@ -11475,7 +11475,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mauna Kea Forest Reserve",
-                  "text": "A forest reserve on Mauna Kea.",
+                  "text": "High-altitude forest reserve on the slopes of Mauna Kea volcano.",
                   "category": "natural",
                   "coords": [
                         -155.470231,
@@ -11562,7 +11562,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Mill Hill",
-                  "text": "Mill Hill ist ein Hügel in Martha’s Vineyard, Massachusetts.",
+                  "text": "Ein drumlinartiger Hügel auf Martha’s Vineyard mit Panoramablick.",
                   "category": "natural",
                   "coords": [
                         -70.518886,
@@ -11571,7 +11571,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sampson Hill",
-                  "text": "Sampson Hill ist ein Hügel in Martha’s Vineyard, Massachusetts.",
+                  "text": "Ein Hochpunkt auf Martha’s Vineyard mit einem Aussichtsturm.",
                   "category": "natural",
                   "coords": [
                         -70.483915,
@@ -11580,7 +11580,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pilot Hill",
-                  "text": "Pilot Hill ist ein Hügel in Martha’s Vineyard, Massachusetts.",
+                  "text": "Ein markanter Hügel auf Martha’s Vineyard nahe den Gay Head-Klippen.",
                   "category": "natural",
                   "coords": [
                         -70.63864,
@@ -11589,7 +11589,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Flying Horses Carousel",
-                  "text": "Das Flying Horses Carousel ist ein historisches Karussell in Martha’s Vineyard.",
+                  "text": "Flying Horses Carousel ist das älteste noch betriebene Karussell der USA, erbaut 1876, in Oak Bluffs auf Martha’s Vineyard.",
                   "category": "landmark",
                   "coords": [
                         -70.557113,
@@ -11598,7 +11598,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vineyard Haven Harbor",
-                  "text": "Der Vineyard Haven Harbor ist ein Naturhafen in Martha’s Vineyard.",
+                  "text": "Vineyard Haven Harbor ist ein natürlicher Hafen an der Nordseite von Martha’s Vineyard, Standort des Fährterminals der Steamship Authority.",
                   "category": "landmark",
                   "coords": [
                         -70.587886,
@@ -11616,7 +11616,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lamberts Cove Beach",
-                  "text": "Lamberts Cove Beach ist ein Strand in Martha’s Vineyard.",
+                  "text": "Lamberts Cove Beach ist ein Sandstrand an der Nordküste von Martha’s Vineyard in West Tisbury.",
                   "category": "recreational",
                   "coords": [
                         -70.668614,
@@ -11625,7 +11625,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vincent House Museum",
-                  "text": "Das Vincent House Museum ist ein historisches Hausmuseum in Martha’s Vineyard.",
+                  "text": "Museum in einem Salzkistenhaus von 1672, eines der ältesten auf Martha’s Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.515316,
@@ -11634,7 +11634,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Martha's Vineyard Museum",
-                  "text": "Das Martha’s Vineyard Museum ist ein Museum in Martha’s Vineyard, das die Geschichte der Insel zeigt.",
+                  "text": "Museum auf Martha’s Vineyard zur Inselgeschichte und Seefahrtskultur.",
                   "category": "museum",
                   "coords": [
                         -70.599769,
@@ -11643,7 +11643,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Old Schoolhouse Museum and Liberty Pole",
-                  "text": "Das Old Schoolhouse Museum and Liberty Pole ist ein Museum in Martha’s Vineyard in einem historischen Schulhaus.",
+                  "text": "Historisches Schulhausmuseum mit einem Freiheitsmast auf Martha’s Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.603362,
@@ -11652,7 +11652,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mariposa Museum",
-                  "text": "Das Mariposa Museum ist ein Museum in Martha’s Vineyard, das sich auf globale Kultur konzentriert.",
+                  "text": "Museum für Volkskunst und Textilien auf Martha’s Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.558971,
@@ -11661,7 +11661,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cottage Museum",
-                  "text": "Das Cottage Museum ist ein Museum in Martha’s Vineyard, das in einem Cottage untergebracht ist.",
+                  "text": "Historisches Häuschenmuseum zum Leben im 19. Jahrhundert auf der Insel.",
                   "category": "museum",
                   "coords": [
                         -70.561602,
@@ -11679,7 +11679,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Featherstone Center for the Arts",
-                  "text": "Das Featherstone Center for the Arts ist ein Kunstzentrum in Martha’s Vineyard.",
+                  "text": "Kunstzentrum mit Galerien und Ateliers auf Martha’s Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.598173,
@@ -11688,7 +11688,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Carnegie Heritage Center",
-                  "text": "Das Carnegie Heritage Center ist ein Museum in Martha’s Vineyard, untergebracht in einer ehemaligen Carnegie-Bibliothek.",
+                  "text": "Ehemalige Carnegie-Bibliothek, heute Kulturzentrum auf Martha’s Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.511273,
@@ -11697,7 +11697,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "cannon",
-                  "text": "Eine Kanone als Denkmal in Martha’s Vineyard.",
+                  "text": "Historische Kanone in einem Park auf Martha’s Vineyard.",
                   "category": "historical",
                   "coords": [
                         -70.511228,
@@ -11706,7 +11706,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "ship's anchor",
-                  "text": "Ein Schiffsanker als Denkmal in Martha’s Vineyard.",
+                  "text": "Großer Schiffsanker an einem Marina auf Martha’s Vineyard.",
                   "category": "historical",
                   "coords": [
                         -70.516753,
@@ -11787,7 +11787,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Edgartown Great Pond Wildlife Sanctuary",
-                  "text": "Ein Wildtierschutzgebiet am Edgartown Great Pond auf Martha’s Vineyard.",
+                  "text": "Wildschutzgebiet rund um einen Küstenteich in Edgartown auf Martha’s Vineyard.",
                   "category": "natural",
                   "coords": [
                         -70.563737,
@@ -11841,7 +11841,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Convery Land",
-                  "text": "Ein Naturschutzgebiet auf Convery Land auf Martha’s Vineyard.",
+                  "text": "Geschütztes Naturgebiet mit Wanderwegen auf Martha’s Vineyard.",
                   "category": "natural",
                   "coords": [
                         -70.610783,
@@ -11877,7 +11877,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tisbury Meadow Preserve",
-                  "text": "Ein Wiesenreservat in Tisbury auf Martha’s Vineyard.",
+                  "text": "Grünlandreservat mit Spazierwegen in Tisbury auf Martha’s Vineyard.",
                   "category": "natural",
                   "coords": [
                         -70.627417,
@@ -11888,7 +11888,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Mill Hill",
-                  "text": "A Mill Hill egy domb Martha's Vineyardon, Massachusetts államban.",
+                  "text": "Drumlin-domb Martha's Vineyardon, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         -70.518886,
@@ -11897,7 +11897,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sampson Hill",
-                  "text": "A Sampson Hill egy domb Martha's Vineyardon, Massachusetts államban.",
+                  "text": "Kilátótorony a Martha's Vineyard egy magas pontján.",
                   "category": "natural",
                   "coords": [
                         -70.483915,
@@ -11906,7 +11906,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pilot Hill",
-                  "text": "A Pilot Hill egy domb Martha's Vineyardon, Massachusetts államban.",
+                  "text": "Jellegzetes domb Martha's Vineyard-on, a Gay Head-sziklák közelében.",
                   "category": "natural",
                   "coords": [
                         -70.63864,
@@ -11915,7 +11915,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Flying Horses Carousel",
-                  "text": "A Flying Horses Carousel egy történelmi körhinta Martha's Vineyardon.",
+                  "text": "Flying Horses Carousel a legrégebben működő körhinta az USA-ban, 1876-ban épült, Oak Bluffsban, Martha’s Vineyardon.",
                   "category": "landmark",
                   "coords": [
                         -70.557113,
@@ -11924,7 +11924,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vineyard Haven Harbor",
-                  "text": "A Vineyard Haven Harbor egy természetes kikötő Martha's Vineyardon.",
+                  "text": "Vineyard Haven Harbor egy természetes kikötő Martha’s Vineyard északi oldalán, a Steamship Authority komptermináljának helyszíne.",
                   "category": "landmark",
                   "coords": [
                         -70.587886,
@@ -11942,7 +11942,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lamberts Cove Beach",
-                  "text": "A Lamberts Cove Beach egy strand Martha's Vineyardon.",
+                  "text": "Lamberts Cove Beach egy homokos strand Martha’s Vineyard északi partján, West Tisburyben.",
                   "category": "recreational",
                   "coords": [
                         -70.668614,
@@ -11951,7 +11951,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vincent House Museum",
-                  "text": "A Vincent House Museum egy történelmi házmúzeum Martha's Vineyardon.",
+                  "text": "Múzeum egy 1672-es sóházban, az egyik legrégebbi Martha’s Vineyardon.",
                   "category": "museum",
                   "coords": [
                         -70.515316,
@@ -11960,7 +11960,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Martha's Vineyard Museum",
-                  "text": "A Martha's Vineyard Múzeum egy múzeum Martha's Vineyardon, amely a sziget történetét mutatja be.",
+                  "text": "Múzeum Martha’s Vineyard szigetén a sziget történelméről és tengeri örökségéről.",
                   "category": "museum",
                   "coords": [
                         -70.599769,
@@ -11969,7 +11969,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Old Schoolhouse Museum and Liberty Pole",
-                  "text": "Az Old Schoolhouse Museum and Liberty Pole egy múzeum Martha's Vineyardon, egy történelmi iskolaépületben.",
+                  "text": "Történelmi iskolaház-múzeum szabadságoszlopbal Martha’s Vineyardon.",
                   "category": "museum",
                   "coords": [
                         -70.603362,
@@ -11978,7 +11978,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mariposa Museum",
-                  "text": "A Mariposa Múzeum egy múzeum Martha's Vineyardon, amely a globális kultúrára összpontosít.",
+                  "text": "Népművészeti és textilmúzeum Martha’s Vineyardon.",
                   "category": "museum",
                   "coords": [
                         -70.558971,
@@ -11987,7 +11987,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cottage Museum",
-                  "text": "A Cottage Museum egy múzeum Martha's Vineyardon, amely egy nyaralóban kapott helyet.",
+                  "text": "Történelmi nyaraló-múzeum a 19. századi szigeti életről.",
                   "category": "museum",
                   "coords": [
                         -70.561602,
@@ -12005,7 +12005,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Featherstone Center for the Arts",
-                  "text": "A Featherstone Center for the Arts egy művészeti központ Martha's Vineyardon.",
+                  "text": "Művészeti központ galériákkal és műtermekkel Martha’s Vineyardon.",
                   "category": "museum",
                   "coords": [
                         -70.598173,
@@ -12014,7 +12014,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Carnegie Heritage Center",
-                  "text": "A Carnegie Heritage Center egy múzeum Martha's Vineyardon, egy egykori Carnegie-könyvtárban.",
+                  "text": "Egykori Carnegie-könyvtár, ma örökségi központ Martha’s Vineyardon.",
                   "category": "museum",
                   "coords": [
                         -70.511273,
@@ -12023,7 +12023,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "cannon",
-                  "text": "Egy ágyú emlékmű Martha's Vineyardon.",
+                  "text": "Történelmi ágyú egy parkban Martha’s Vineyardon.",
                   "category": "historical",
                   "coords": [
                         -70.511228,
@@ -12032,7 +12032,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "ship's anchor",
-                  "text": "Egy hajóhorgony emlékmű Martha's Vineyardon.",
+                  "text": "Nagy hajóhorgony egy kikötőben Martha’s Vineyardon.",
                   "category": "historical",
                   "coords": [
                         -70.516753,
@@ -12113,7 +12113,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Edgartown Great Pond Wildlife Sanctuary",
-                  "text": "Vadvédelmi terület az Edgartown Great Pond mellett Martha’s Vineyardon.",
+                  "text": "Vadvédelmi terület egy parti tó körül Edgartownban, Martha’s Vineyardon.",
                   "category": "natural",
                   "coords": [
                         -70.563737,
@@ -12167,7 +12167,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Convery Land",
-                  "text": "Természetvédelmi terület a Convery Land területén Martha’s Vineyardon.",
+                  "text": "Védett természeti terület sétányokkal Martha’s Vineyardon.",
                   "category": "natural",
                   "coords": [
                         -70.610783,
@@ -12203,7 +12203,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tisbury Meadow Preserve",
-                  "text": "Réti rezervátum Tisburyben, Martha’s Vineyardon.",
+                  "text": "Gyeprezervátum sétányokkal Tisburyben, Martha’s Vineyardon.",
                   "category": "natural",
                   "coords": [
                         -70.627417,
@@ -12214,7 +12214,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Mill Hill",
-                  "text": "Mill Hill este un deal în Martha's Vineyard, Massachusetts.",
+                  "text": "Un deal de tip drumlin pe insula Martha’s Vineyard, cu vedere panoramică.",
                   "category": "natural",
                   "coords": [
                         -70.518886,
@@ -12223,7 +12223,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sampson Hill",
-                  "text": "Sampson Hill este un deal în Martha's Vineyard, Massachusetts.",
+                  "text": "Un punct înalt pe insula Martha’s Vineyard, cu un turn de observație.",
                   "category": "natural",
                   "coords": [
                         -70.483915,
@@ -12232,7 +12232,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pilot Hill",
-                  "text": "Pilot Hill este un deal în Martha's Vineyard, Massachusetts.",
+                  "text": "Un deal proeminent pe insula Martha’s Vineyard, lângă stâncile Gay Head.",
                   "category": "natural",
                   "coords": [
                         -70.63864,
@@ -12241,7 +12241,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Flying Horses Carousel",
-                  "text": "Flying Horses Carousel este un carusel istoric în Martha's Vineyard.",
+                  "text": "Flying Horses Carousel este cel mai vechi carusel funcțional din SUA, construit în 1876, în Oak Bluffs pe Martha’s Vineyard.",
                   "category": "landmark",
                   "coords": [
                         -70.557113,
@@ -12250,7 +12250,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vineyard Haven Harbor",
-                  "text": "Vineyard Haven Harbor este un port natural în Martha's Vineyard.",
+                  "text": "Vineyard Haven Harbor este un port natural pe partea de nord a insulei Martha’s Vineyard, unde se află terminalul de feribot al Steamship Authority.",
                   "category": "landmark",
                   "coords": [
                         -70.587886,
@@ -12268,7 +12268,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lamberts Cove Beach",
-                  "text": "Lamberts Cove Beach este o plajă în Martha's Vineyard.",
+                  "text": "Lamberts Cove Beach este o plajă nisipoasă pe țărmul de nord al insulei Martha’s Vineyard, în West Tisbury.",
                   "category": "recreational",
                   "coords": [
                         -70.668614,
@@ -12277,7 +12277,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vincent House Museum",
-                  "text": "Muzeul Casei Vincent este un muzeu de casă istorică în Martha's Vineyard.",
+                  "text": "Muzeu într-o casă tip „saltbox” din 1672, una dintre cele mai vechi din Martha’s Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.515316,
@@ -12286,7 +12286,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Martha's Vineyard Museum",
-                  "text": "Muzeul Martha's Vineyard este un muzeu în Martha's Vineyard care prezintă istoria insulei.",
+                  "text": "Muzeu pe insula Martha's Vineyard despre istoria insulei și patrimoniul maritim.",
                   "category": "museum",
                   "coords": [
                         -70.599769,
@@ -12295,7 +12295,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Old Schoolhouse Museum and Liberty Pole",
-                  "text": "Muzeul Vechii Școli și Stâlpul Libertății este un muzeu în Martha's Vineyard într-o clădire școlară istorică.",
+                  "text": "Muzeu într-o fostă școală istorică cu un catarg al libertății pe Martha's Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.603362,
@@ -12304,7 +12304,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mariposa Museum",
-                  "text": "Muzeul Mariposa este un muzeu în Martha's Vineyard care se concentrează pe cultura globală.",
+                  "text": "Muzeu de artă populară și textile pe Martha's Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.558971,
@@ -12313,7 +12313,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cottage Museum",
-                  "text": "Muzeul Cottage este un muzeu în Martha's Vineyard găzduit într-o cabană.",
+                  "text": "Muzeu într-o căsuță istorică despre viața insulară din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         -70.561602,
@@ -12331,7 +12331,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Featherstone Center for the Arts",
-                  "text": "Featherstone Center for the Arts este un centru de artă în Martha's Vineyard.",
+                  "text": "Centru de artă cu galerii și ateliere pe Martha's Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.598173,
@@ -12340,7 +12340,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Carnegie Heritage Center",
-                  "text": "Centrul Patrimoniului Carnegie este un muzeu în Martha's Vineyard găzduit într-o fostă bibliotecă Carnegie.",
+                  "text": "Fosta bibliotecă Carnegie, acum centru de patrimoniu pe Martha's Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.511273,
@@ -12349,7 +12349,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "cannon",
-                  "text": "Un tun monument în Martha's Vineyard.",
+                  "text": "Tun istoric expus într-un parc pe Martha's Vineyard.",
                   "category": "historical",
                   "coords": [
                         -70.511228,
@@ -12358,7 +12358,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "ship's anchor",
-                  "text": "O ancoră de navă monument în Martha's Vineyard.",
+                  "text": "Ancoră mare de navă expusă la o marină pe Martha's Vineyard.",
                   "category": "historical",
                   "coords": [
                         -70.516753,
@@ -12439,7 +12439,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Edgartown Great Pond Wildlife Sanctuary",
-                  "text": "Un sanctuar pentru animale sălbatice lângă Edgartown Great Pond, pe Martha’s Vineyard.",
+                  "text": "Sanctuar de animale sălbatice în jurul unui iaz de coastă în Edgartown, Martha's Vineyard.",
                   "category": "natural",
                   "coords": [
                         -70.563737,
@@ -12493,7 +12493,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Convery Land",
-                  "text": "O rezervație naturală pe Convery Land, Martha’s Vineyard.",
+                  "text": "Arie naturală protejată cu trasee pe Martha's Vineyard.",
                   "category": "natural",
                   "coords": [
                         -70.610783,
@@ -12529,7 +12529,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tisbury Meadow Preserve",
-                  "text": "O rezervație de pajiște în Tisbury, Martha’s Vineyard.",
+                  "text": "Rezervație de pajiști cu alei pietonale în Tisbury, Martha's Vineyard.",
                   "category": "natural",
                   "coords": [
                         -70.627417,
@@ -12540,7 +12540,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Mill Hill",
-                  "text": "Mill Hill is a hill in Martha's Vineyard, Massachusetts.",
+                  "text": "A glacial drumlin hill on Martha’s Vineyard with panoramic views.",
                   "category": "natural",
                   "coords": [
                         -70.518886,
@@ -12549,7 +12549,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sampson Hill",
-                  "text": "Sampson Hill is a hill in Martha's Vineyard, Massachusetts.",
+                  "text": "A high point on Martha’s Vineyard with a fire tower offering views.",
                   "category": "natural",
                   "coords": [
                         -70.483915,
@@ -12558,7 +12558,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Pilot Hill",
-                  "text": "Pilot Hill is a hill in Martha's Vineyard, Massachusetts.",
+                  "text": "A prominent hill on Martha’s Vineyard near the Gay Head Cliffs.",
                   "category": "natural",
                   "coords": [
                         -70.63864,
@@ -12567,7 +12567,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Flying Horses Carousel",
-                  "text": "The Flying Horses Carousel is a historic carousel in Martha's Vineyard.",
+                  "text": "Flying Horses Carousel is the oldest operating carousel in the US, built in 1876, in Oak Bluffs on Martha’s Vineyard.",
                   "category": "landmark",
                   "coords": [
                         -70.557113,
@@ -12576,7 +12576,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vineyard Haven Harbor",
-                  "text": "Vineyard Haven Harbor is a natural harbor in Martha's Vineyard.",
+                  "text": "Vineyard Haven Harbor is a natural harbor on the north side of Martha’s Vineyard, home to the Steamship Authority ferry terminal.",
                   "category": "landmark",
                   "coords": [
                         -70.587886,
@@ -12594,7 +12594,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lamberts Cove Beach",
-                  "text": "Lamberts Cove Beach is a beach in Martha's Vineyard.",
+                  "text": "Lamberts Cove Beach is a sandy beach on the north shore of Martha’s Vineyard in West Tisbury.",
                   "category": "recreational",
                   "coords": [
                         -70.668614,
@@ -12603,7 +12603,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Vincent House Museum",
-                  "text": "The Vincent House Museum is a historic house museum in Martha's Vineyard.",
+                  "text": "A museum in a 1672 saltbox house, one of the oldest on Martha’s Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.515316,
@@ -12612,7 +12612,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Martha's Vineyard Museum",
-                  "text": "The Martha's Vineyard Museum is a museum in Martha's Vineyard that exhibits the island's history.",
+                  "text": "Museum on Martha's Vineyard showcasing island history and maritime heritage.",
                   "category": "museum",
                   "coords": [
                         -70.599769,
@@ -12621,7 +12621,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Old Schoolhouse Museum and Liberty Pole",
-                  "text": "The Old Schoolhouse Museum and Liberty Pole is a museum in Martha's Vineyard housed in a historic schoolhouse.",
+                  "text": "Historic one-room schoolhouse museum with a liberty pole on Martha's Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.603362,
@@ -12630,7 +12630,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mariposa Museum",
-                  "text": "The Mariposa Museum is a museum in Martha's Vineyard focusing on global culture.",
+                  "text": "Museum of folk art and textiles on Martha's Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.558971,
@@ -12639,7 +12639,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cottage Museum",
-                  "text": "The Cottage Museum is a museum in Martha's Vineyard housed in a cottage.",
+                  "text": "Historic cottage museum depicting 19th-century island life on Martha's Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.561602,
@@ -12657,7 +12657,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Featherstone Center for the Arts",
-                  "text": "Featherstone Center for the Arts is an art center in Martha's Vineyard.",
+                  "text": "Arts center with galleries and studios on Martha's Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.598173,
@@ -12666,7 +12666,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Carnegie Heritage Center",
-                  "text": "The Carnegie Heritage Center is a museum in Martha's Vineyard housed in a former Carnegie library.",
+                  "text": "Former Carnegie library turned heritage center on Martha's Vineyard.",
                   "category": "museum",
                   "coords": [
                         -70.511273,
@@ -12675,7 +12675,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "cannon",
-                  "text": "A cannon monument in Martha's Vineyard.",
+                  "text": "Historic cannon displayed in a park on Martha's Vineyard.",
                   "category": "historical",
                   "coords": [
                         -70.511228,
@@ -12684,7 +12684,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "ship's anchor",
-                  "text": "A ship's anchor monument in Martha's Vineyard.",
+                  "text": "Large ship's anchor on display at a marina on Martha's Vineyard.",
                   "category": "historical",
                   "coords": [
                         -70.516753,
@@ -12765,7 +12765,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Edgartown Great Pond Wildlife Sanctuary",
-                  "text": "A wildlife sanctuary around Edgartown Great Pond in Martha’s Vineyard.",
+                  "text": "Wildlife sanctuary surrounding a coastal pond in Edgartown, Martha's Vineyard.",
                   "category": "natural",
                   "coords": [
                         -70.563737,
@@ -12819,7 +12819,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Convery Land",
-                  "text": "A nature reserve on Convery Land in Martha’s Vineyard.",
+                  "text": "Protected natural area with trails on Martha's Vineyard.",
                   "category": "natural",
                   "coords": [
                         -70.610783,
@@ -12855,7 +12855,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Tisbury Meadow Preserve",
-                  "text": "A meadow preserve in Tisbury, Martha’s Vineyard.",
+                  "text": "Grassland preserve with walking paths in Tisbury, Martha's Vineyard.",
                   "category": "natural",
                   "coords": [
                         -70.627417,
@@ -13032,7 +13032,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Roundtop",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Roundtop ist ein runder Gipfel im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.211393,
@@ -13041,7 +13041,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Moat Mountain",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "North Moat Mountain ist der nördlichste Gipfel der Moat Range im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.214634,
@@ -13050,7 +13050,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Middle Moat Mountain",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Middle Moat Mountain ist der mittlere Gipfel der Moat Range im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.198626,
@@ -13059,7 +13059,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Moat Mountain",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "South Moat Mountain ist der südlichste Gipfel der Moat Range im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.19349,
@@ -13068,7 +13068,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Tremont",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Mount Tremont ist ein steiler Berg im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.356966,
@@ -13077,7 +13077,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Owl's Cliff",
-                  "text": "Eine Klippe im White Mountain National Forest.",
+                  "text": "Owl’s Cliff ist eine steile Klippe im White Mountain National Forest.",
                   "category": "landmark",
                   "coords": [
                         -71.359823,
@@ -13086,7 +13086,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bartlett Haystack",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Bartlett Haystack ist ein Gipfel nahe der Stadt Bartlett im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.327018,
@@ -13095,7 +13095,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawyer Rock",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Sawyer Rock ist ein großer Granitfelsen im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.318129,
@@ -13113,7 +13113,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugar Hill",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Sugar Hill ist ein Hügel nahe der Stadt Sugar Hill im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.398207,
@@ -13122,7 +13122,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugarloaf",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Sugarloaf ist ein zuckerhutförmiger Gipfel im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.195613,
@@ -13131,7 +13131,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Big Attitash Mountain",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Big Attitash Mountain ist der höhere Gipfel des Attitash Mountain nahe Bartlett im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.230682,
@@ -13140,7 +13140,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Attitash Mountain",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Little Attitash Mountain ist der niedrigere Gipfel des Attitash Mountain nahe Bartlett im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.221287,
@@ -13149,7 +13149,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Table Mountain",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Table Mountain ist ein Berg mit flachem Gipfel im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.262466,
@@ -13158,7 +13158,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spruce Hill",
-                  "text": "Ein Gipfel im White Mountain National Forest.",
+                  "text": "Spruce Hill ist ein mit Fichten bewachsener Hügel im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.24701,
@@ -13167,7 +13167,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bear Mountain",
-                  "text": "Ein Berggipfel im White Mountain National Forest.",
+                  "text": "Bear Mountain ist ein Berg im White Mountain National Forest, Heimat des Bear Mountain Trail.",
                   "category": "natural",
                   "coords": [
                         -71.301788,
@@ -13176,7 +13176,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Birch Hill",
-                  "text": "Ein Hügel im White Mountain National Forest.",
+                  "text": "Birch Hill ist ein birkenbewaldeter Gipfel im Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.364532,
@@ -13194,7 +13194,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hedgehog Mountain",
-                  "text": "Ein Berggipfel im White Mountain National Forest.",
+                  "text": "Hedgehog Mountain ist ein felsiger, stacheliger Gipfel im Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.367168,
@@ -13221,7 +13221,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Paugus",
-                  "text": "Ein Berggipfel in den White Mountains.",
+                  "text": "Mount Paugus ist ein bewaldeter Berg im Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.329071,
@@ -13239,7 +13239,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blue Mountain",
-                  "text": "Ein Berggipfel im White Mountain National Forest.",
+                  "text": "Blue Mountain ist ein bläulich schimmernder Gipfel im Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.252737,
@@ -13248,7 +13248,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Ein Berggipfel im White Mountain National Forest.",
+                  "text": "Bald Mountain ist ein baumloser, exponierter Gipfel im Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.252571,
@@ -13257,7 +13257,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Mexico",
-                  "text": "Ein Berggipfel im White Mountain National Forest.",
+                  "text": "Mount Mexico ist ein benannter Gipfel im Mountain National Forest, bekannt für seinen kuriosen Namen.",
                   "category": "natural",
                   "coords": [
                         -71.328861,
@@ -13266,7 +13266,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hibbard Mountain",
-                  "text": "Ein Berggipfel im White Mountain National Forest.",
+                  "text": "Hibbard Mountain ist ein bewaldeter Gipfel im Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.370813,
@@ -13275,7 +13275,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Potash Mountain",
-                  "text": "Ein Berggipfel im White Mountain National Forest.",
+                  "text": "Potash Mountain ist ein Gipfel im Mountain National Forest, der nach dem Mineral Pottasche benannt ist.",
                   "category": "natural",
                   "coords": [
                         -71.390636,
@@ -13311,7 +13311,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawyer Pond Scenic Area",
-                  "text": "Ein malerisches Gebiet um den Sawyer Pond in den White Mountains.",
+                  "text": "Malerischer Teich im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.37674,
@@ -13320,7 +13320,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bartlett Experimental Forest",
-                  "text": "Ein Experimentierwald, der für langfristige Forstforschung genutzt wird.",
+                  "text": "Forschungswald für Forststudien im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.296556,
@@ -13347,7 +13347,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Chocorua Scenic Area",
-                  "text": "Ein malerisches Gebiet mit Blick auf den Mount Chocorua.",
+                  "text": "Landschaftlich reizvolles Gebiet um den Mount Chocorua im White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.273203,
@@ -13367,7 +13367,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Roundtop",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Roundtop egy kerek csúcs a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.211393,
@@ -13376,7 +13376,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Moat Mountain",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "North Moat Mountain a Moat Range legészakibb csúcsa a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.214634,
@@ -13385,7 +13385,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Middle Moat Mountain",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Middle Moat Mountain a Moat Range középső csúcsa a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.198626,
@@ -13394,7 +13394,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Moat Mountain",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "South Moat Mountain a Moat Range legdélibb csúcsa a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.19349,
@@ -13403,7 +13403,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Tremont",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Mount Tremont egy meredek hegy a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.356966,
@@ -13412,7 +13412,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Owl's Cliff",
-                  "text": "Egy szikla a White Mountain National Forestben.",
+                  "text": "Owl’s Cliff egy meredek szikla a White Mountain National Forestben.",
                   "category": "landmark",
                   "coords": [
                         -71.359823,
@@ -13421,7 +13421,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bartlett Haystack",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Bartlett Haystack egy csúcs Bartlett város közelében a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.327018,
@@ -13430,7 +13430,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawyer Rock",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Sawyer Rock egy nagy gránitszikla a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.318129,
@@ -13448,7 +13448,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugar Hill",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Sugar Hill egy domb Sugar Hill város közelében a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.398207,
@@ -13457,7 +13457,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugarloaf",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Sugarloaf egy cukorsüveg alakú csúcs a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.195613,
@@ -13466,7 +13466,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Big Attitash Mountain",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Big Attitash Mountain az Attitash Mountain magasabb csúcsa Bartlett közelében a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.230682,
@@ -13475,7 +13475,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Attitash Mountain",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Little Attitash Mountain az Attitash Mountain alacsonyabb csúcsa Bartlett közelében a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.221287,
@@ -13484,7 +13484,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Table Mountain",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Table Mountain egy lapos tetejű hegy a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.262466,
@@ -13493,7 +13493,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spruce Hill",
-                  "text": "Egy csúcs a White Mountain National Forestben.",
+                  "text": "Spruce Hill egy lucfenyőkkel borított domb a White Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.24701,
@@ -13502,7 +13502,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bear Mountain",
-                  "text": "Egy hegycsúcs a White Mountain Nemzeti Erdőben.",
+                  "text": "Bear Mountain egy hegy a White Mountain National Forestben, a Bear Mountain Trail otthona.",
                   "category": "natural",
                   "coords": [
                         -71.301788,
@@ -13511,7 +13511,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Birch Hill",
-                  "text": "Egy domb a White Mountain Nemzeti Erdőben.",
+                  "text": "A Birch Hill egy nyírfás csúcs a Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.364532,
@@ -13529,7 +13529,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hedgehog Mountain",
-                  "text": "Egy hegycsúcs a White Mountain Nemzeti Erdőben.",
+                  "text": "A Hedgehog Mountain egy sziklás, tüskés csúcs a Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.367168,
@@ -13556,7 +13556,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Paugus",
-                  "text": "Egy hegycsúcs a White Mountains hegységben.",
+                  "text": "A Mount Paugus egy erdős hegy a Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.329071,
@@ -13574,7 +13574,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blue Mountain",
-                  "text": "Egy hegycsúcs a White Mountain Nemzeti Erdőben.",
+                  "text": "A Blue Mountain egy kékes csúcs a Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.252737,
@@ -13583,7 +13583,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Egy hegycsúcs a White Mountain Nemzeti Erdőben.",
+                  "text": "A Bald Mountain egy fátlan, kitett csúcs a Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.252571,
@@ -13592,7 +13592,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Mexico",
-                  "text": "Egy hegycsúcs a White Mountain Nemzeti Erdőben.",
+                  "text": "A Mount Mexico egy elnevezett csúcs a Mountain National Forestben, amely furcsa nevéről ismert.",
                   "category": "natural",
                   "coords": [
                         -71.328861,
@@ -13601,7 +13601,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hibbard Mountain",
-                  "text": "Egy hegycsúcs a White Mountain Nemzeti Erdőben.",
+                  "text": "A Hibbard Mountain egy erdős csúcs a Mountain National Forestben.",
                   "category": "natural",
                   "coords": [
                         -71.370813,
@@ -13610,7 +13610,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Potash Mountain",
-                  "text": "Egy hegycsúcs a White Mountain Nemzeti Erdőben.",
+                  "text": "A Potash Mountain egy csúcs a Mountain National Forestben, amely a potass ásványról kapta a nevét.",
                   "category": "natural",
                   "coords": [
                         -71.390636,
@@ -13646,7 +13646,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawyer Pond Scenic Area",
-                  "text": "Egy festői terület a Sawyer-tó körül a White Mountainsban.",
+                  "text": "Festői tó a White Mountain Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -71.37674,
@@ -13655,7 +13655,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bartlett Experimental Forest",
-                  "text": "Egy kísérleti erdő, amelyet hosszú távú erdészeti kutatásokra használnak.",
+                  "text": "Kísérleti erdő erdészeti kutatásokhoz a White Mountain Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -71.296556,
@@ -13682,7 +13682,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Chocorua Scenic Area",
-                  "text": "Egy festői terület a Mount Chocorua kilátásával.",
+                  "text": "Tájvédelmi terület a Mount Chocorua körül a White Mountain Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -71.273203,
@@ -13702,7 +13702,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Roundtop",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Roundtop este un vârf rotunjit în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.211393,
@@ -13711,7 +13711,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Moat Mountain",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "North Moat Mountain este cel mai nordic vârf al Moat Range din White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.214634,
@@ -13720,7 +13720,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Middle Moat Mountain",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Middle Moat Mountain este vârful mijlociu al Moat Range din White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.198626,
@@ -13729,7 +13729,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Moat Mountain",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "South Moat Mountain este cel mai sudic vârf al Moat Range din White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.19349,
@@ -13738,7 +13738,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Tremont",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Mount Tremont este un munte abrupt în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.356966,
@@ -13747,7 +13747,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Owl's Cliff",
-                  "text": "O stâncă în Pădurea Națională White Mountain.",
+                  "text": "Owl’s Cliff este o stâncă abruptă în White Mountain National Forest.",
                   "category": "landmark",
                   "coords": [
                         -71.359823,
@@ -13756,7 +13756,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bartlett Haystack",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Bartlett Haystack este un vârf lângă orașul Bartlett în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.327018,
@@ -13765,7 +13765,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawyer Rock",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Sawyer Rock este un bolovan mare de granit în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.318129,
@@ -13783,7 +13783,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugar Hill",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Sugar Hill este o colină lângă orașul Sugar Hill în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.398207,
@@ -13792,7 +13792,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugarloaf",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Sugarloaf este un vârf în formă de pâine de zahăr în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.195613,
@@ -13801,7 +13801,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Big Attitash Mountain",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Big Attitash Mountain este vârful mai înalt al Attitash Mountain lângă Bartlett în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.230682,
@@ -13810,7 +13810,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Attitash Mountain",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Little Attitash Mountain este vârful mai puțin înalt al Attitash Mountain lângă Bartlett în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.221287,
@@ -13819,7 +13819,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Table Mountain",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Table Mountain este un munte cu vârf plat în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.262466,
@@ -13828,7 +13828,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spruce Hill",
-                  "text": "Un vârf în Pădurea Națională White Mountain.",
+                  "text": "Spruce Hill este o colină acoperită cu brazi în White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.24701,
@@ -13837,7 +13837,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bear Mountain",
-                  "text": "Un vârf de munte în Pădurea Națională White Mountain.",
+                  "text": "Bear Mountain este un munte în White Mountain National Forest, gazda traseului Bear Mountain Trail.",
                   "category": "natural",
                   "coords": [
                         -71.301788,
@@ -13846,7 +13846,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Birch Hill",
-                  "text": "Un deal în Pădurea Națională White Mountain.",
+                  "text": "Birch Hill este un vârf acoperit de mesteceni în Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.364532,
@@ -13864,7 +13864,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hedgehog Mountain",
-                  "text": "Un vârf de munte în Pădurea Națională White Mountain.",
+                  "text": "Hedgehog Mountain este un vârf stâncos și spinos în Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.367168,
@@ -13891,7 +13891,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Paugus",
-                  "text": "Un vârf de munte în Munții Albi (White Mountains).",
+                  "text": "Mount Paugus este un munte împădurit în Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.329071,
@@ -13909,7 +13909,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blue Mountain",
-                  "text": "Un vârf de munte în Pădurea Națională White Mountain.",
+                  "text": "Blue Mountain este un vârf albastru-închis în Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.252737,
@@ -13918,7 +13918,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Mountain",
-                  "text": "Un vârf de munte în Pădurea Națională White Mountain.",
+                  "text": "Bald Mountain este un vârf fără copaci, expus în Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.252571,
@@ -13927,7 +13927,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Mexico",
-                  "text": "Un vârf de munte în Pădurea Națională White Mountain.",
+                  "text": "Mount Mexico este un vârf numit în Mountain National Forest, cunoscut pentru numele său curios.",
                   "category": "natural",
                   "coords": [
                         -71.328861,
@@ -13936,7 +13936,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hibbard Mountain",
-                  "text": "Un vârf de munte în Pădurea Națională White Mountain.",
+                  "text": "Hibbard Mountain este un vârf împădurit în Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.370813,
@@ -13945,7 +13945,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Potash Mountain",
-                  "text": "Un vârf de munte în Pădurea Națională White Mountain.",
+                  "text": "Potash Mountain este un vârf numit după mineralul potasă în Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.390636,
@@ -13981,7 +13981,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawyer Pond Scenic Area",
-                  "text": "O zonă pitorească în jurul iazului Sawyer din Munții Albi.",
+                  "text": "Zonă pitorească cu un iaz în Pădurea Națională White Mountain.",
                   "category": "natural",
                   "coords": [
                         -71.37674,
@@ -13990,7 +13990,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bartlett Experimental Forest",
-                  "text": "O pădure experimentală folosită pentru cercetări forestiere pe termen lung.",
+                  "text": "Pădure experimentală pentru studii forestiere în Pădurea Națională White Mountain.",
                   "category": "natural",
                   "coords": [
                         -71.296556,
@@ -14017,7 +14017,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Chocorua Scenic Area",
-                  "text": "O zonă pitorească cu vedere spre Muntele Chocorua.",
+                  "text": "Zonă scenică în jurul muntelui Chocorua în Pădurea Națională White Mountain.",
                   "category": "natural",
                   "coords": [
                         -71.273203,
@@ -14037,7 +14037,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Roundtop",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Roundtop is a rounded summit in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.211393,
@@ -14046,7 +14046,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "North Moat Mountain",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "North Moat Mountain is the northernmost peak of the Moat Range in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.214634,
@@ -14055,7 +14055,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Middle Moat Mountain",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Middle Moat Mountain is the middle summit of the Moat Range in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.198626,
@@ -14064,7 +14064,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "South Moat Mountain",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "South Moat Mountain is the southernmost peak of the Moat Range in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.19349,
@@ -14073,7 +14073,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Tremont",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Mount Tremont is a steep mountain in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.356966,
@@ -14082,7 +14082,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Owl's Cliff",
-                  "text": "A cliff in the White Mountain National Forest.",
+                  "text": "Owl’s Cliff is a sheer cliff in the White Mountain National Forest.",
                   "category": "landmark",
                   "coords": [
                         -71.359823,
@@ -14091,7 +14091,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bartlett Haystack",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Bartlett Haystack is a peak near the town of Bartlett in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.327018,
@@ -14100,7 +14100,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawyer Rock",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Sawyer Rock is a large granite boulder in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.318129,
@@ -14118,7 +14118,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugar Hill",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Sugar Hill is a hill near the town of Sugar Hill in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.398207,
@@ -14127,7 +14127,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sugarloaf",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Sugarloaf is a sugarloaf-shaped peak in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.195613,
@@ -14136,7 +14136,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Big Attitash Mountain",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Big Attitash Mountain is the higher summit of Attitash Mountain near Bartlett in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.230682,
@@ -14145,7 +14145,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Attitash Mountain",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Little Attitash Mountain is the lower summit of Attitash Mountain near Bartlett in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.221287,
@@ -14154,7 +14154,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Table Mountain",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Table Mountain is a flat-topped mountain in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.262466,
@@ -14163,7 +14163,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spruce Hill",
-                  "text": "A peak in the White Mountain National Forest.",
+                  "text": "Spruce Hill is a spruce-covered hill in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.24701,
@@ -14172,7 +14172,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bear Mountain",
-                  "text": "A mountain peak in the White Mountain National Forest.",
+                  "text": "Bear Mountain is a mountain in the White Mountain National Forest, home to the Bear Mountain Trail.",
                   "category": "natural",
                   "coords": [
                         -71.301788,
@@ -14181,7 +14181,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Birch Hill",
-                  "text": "A hill in the White Mountain National Forest.",
+                  "text": "Birch Hill is a birch-forested summit in the Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.364532,
@@ -14199,7 +14199,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hedgehog Mountain",
-                  "text": "A mountain peak in the White Mountain National Forest.",
+                  "text": "Hedgehog Mountain is a rocky, spiny peak in the Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.367168,
@@ -14226,7 +14226,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Paugus",
-                  "text": "A mountain peak in the White Mountains.",
+                  "text": "Mount Paugus is a forested mountain in the Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.329071,
@@ -14244,7 +14244,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blue Mountain",
-                  "text": "A mountain peak in the White Mountain National Forest.",
+                  "text": "Blue Mountain is a hazy-blue peak in the Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.252737,
@@ -14253,7 +14253,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bald Mountain",
-                  "text": "A mountain peak in the White Mountain National Forest.",
+                  "text": "Bald Mountain is a treeless, exposed summit in the Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.252571,
@@ -14262,7 +14262,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Mexico",
-                  "text": "A mountain peak in the White Mountain National Forest.",
+                  "text": "Mount Mexico is a named peak in the Mountain National Forest, known for its curious name.",
                   "category": "natural",
                   "coords": [
                         -71.328861,
@@ -14271,7 +14271,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hibbard Mountain",
-                  "text": "A mountain peak in the White Mountain National Forest.",
+                  "text": "Hibbard Mountain is a forested peak in the Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.370813,
@@ -14280,7 +14280,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Potash Mountain",
-                  "text": "A mountain peak in the White Mountain National Forest.",
+                  "text": "Potash Mountain is a peak named after the mineral potash in the Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.390636,
@@ -14316,7 +14316,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sawyer Pond Scenic Area",
-                  "text": "A scenic area around Sawyer Pond in the White Mountains.",
+                  "text": "Scenic pond area in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.37674,
@@ -14325,7 +14325,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Bartlett Experimental Forest",
-                  "text": "An experimental forest used for long-term forestry research.",
+                  "text": "Experimental forest for forestry research in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.296556,
@@ -14352,7 +14352,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Chocorua Scenic Area",
-                  "text": "A scenic area offering views of Mount Chocorua.",
+                  "text": "Scenic area around Mount Chocorua in the White Mountain National Forest.",
                   "category": "natural",
                   "coords": [
                         -71.273203,
@@ -14413,7 +14413,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Red Hill",
-                  "text": "Ein Gipfel am Mount Shasta.",
+                  "text": "Red Hill ist ein rötlich schimmernder Hügel in der Gegend von Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.194729,
@@ -14422,7 +14422,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sand flat field",
-                  "text": "Ein Aussichtspunkt am Mount Shasta.",
+                  "text": "Sandige Fläche an den Hängen des Mount Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.254792,
@@ -14431,7 +14431,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gray Butte",
-                  "text": "Ein Gipfel am Mount Shasta.",
+                  "text": "Gray Butte ist ein graufarbener Butte in der Gegend von Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.192758,
@@ -14440,7 +14440,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shastarama Point",
-                  "text": "Ein Gipfel am Mount Shasta.",
+                  "text": "Shastarama Point ist ein malerischer Aussichtspunkt auf dem Mount Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.193812,
@@ -14449,7 +14449,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Butte",
-                  "text": "Ein Gipfel am Mount Shasta.",
+                  "text": "Green Butte ist ein grün bewachsener Butte in der Gegend von Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.206549,
@@ -14458,7 +14458,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Misery Hill",
-                  "text": "Ein Gipfel am Mount Shasta.",
+                  "text": "Misery Hill ist ein steiler, tückischer Hang am Mount Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.197757,
@@ -14467,7 +14467,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sulphur Springs",
-                  "text": "Eine heiße Quelle am Mount Shasta.",
+                  "text": "Sulphur Springs ist eine Thermalquelle mit schwefligem Geruch in der Nähe des Mount Shasta.",
                   "category": "landmark",
                   "coords": [
                         -122.196066,
@@ -14476,7 +14476,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Shasta Wilderness",
-                  "text": "Die Mount Shasta Wilderness ist ein geschütztes Wildnisgebiet an den Hängen des Mount Shasta.",
+                  "text": "Ein Wildnisgebiet um den Mount Shasta, einen 4.317 m hohen Vulkan.",
                   "category": "natural",
                   "coords": [
                         -122.206649,
@@ -14487,7 +14487,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Red Hill",
-                  "text": "Egy csúcs a Mount Shastán.",
+                  "text": "A Red Hill egy vöröses színű domb a Shasta környékén.",
                   "category": "natural",
                   "coords": [
                         -122.194729,
@@ -14496,7 +14496,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sand flat field",
-                  "text": "Egy kilátópont a Mount Shastán.",
+                  "text": "Homokos sík terület a Mount Shasta lejtőin.",
                   "category": "natural",
                   "coords": [
                         -122.254792,
@@ -14505,7 +14505,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gray Butte",
-                  "text": "Egy csúcs a Mount Shastán.",
+                  "text": "A Gray Butte egy szürke színű butte a Shasta környékén.",
                   "category": "natural",
                   "coords": [
                         -122.192758,
@@ -14514,7 +14514,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shastarama Point",
-                  "text": "Egy csúcs a Mount Shastán.",
+                  "text": "A Shastarama Point egy festői kilátópont a Mount Shastán.",
                   "category": "natural",
                   "coords": [
                         -122.193812,
@@ -14523,7 +14523,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Butte",
-                  "text": "Egy csúcs a Mount Shastán.",
+                  "text": "A Green Butte egy zöld növényzetű butte a Shasta környékén.",
                   "category": "natural",
                   "coords": [
                         -122.206549,
@@ -14532,7 +14532,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Misery Hill",
-                  "text": "Egy csúcs a Mount Shastán.",
+                  "text": "A Misery Hill egy meredek, veszélyes lejtő a Mount Shastán.",
                   "category": "natural",
                   "coords": [
                         -122.197757,
@@ -14541,7 +14541,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sulphur Springs",
-                  "text": "Egy meleg forrás a Mount Shastán.",
+                  "text": "A Sulphur Springs egy kénszagú termálforrás a Mount Shasta közelében.",
                   "category": "landmark",
                   "coords": [
                         -122.196066,
@@ -14550,7 +14550,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Shasta Wilderness",
-                  "text": "A Mount Shasta Wilderness egy védett vadon a Mount Shasta lejtőin.",
+                  "text": "Vadonterület a Mount Shasta, egy 4.317 méter magas vulkán körül.",
                   "category": "natural",
                   "coords": [
                         -122.206649,
@@ -14561,7 +14561,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Red Hill",
-                  "text": "Un vârf pe Muntele Shasta.",
+                  "text": "Red Hill este un deal cu nuanță roșiatică în zona Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.194729,
@@ -14570,7 +14570,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sand flat field",
-                  "text": "Un punct de belvedere pe Muntele Shasta.",
+                  "text": "Suprafață nisipoasă pe versanții muntelui Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.254792,
@@ -14579,7 +14579,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gray Butte",
-                  "text": "Un vârf pe Muntele Shasta.",
+                  "text": "Gray Butte este un butte de culoare gri în zona Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.192758,
@@ -14588,7 +14588,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shastarama Point",
-                  "text": "Un vârf pe Muntele Shasta.",
+                  "text": "Shastarama Point este un punct de belvedere pitoresc pe Mount Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.193812,
@@ -14597,7 +14597,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Butte",
-                  "text": "Un vârf pe Muntele Shasta.",
+                  "text": "Green Butte este un butte cu vegetație verde în zona Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.206549,
@@ -14606,7 +14606,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Misery Hill",
-                  "text": "Un vârf pe Muntele Shasta.",
+                  "text": "Misery Hill este o pantă abruptă și periculoasă pe Mount Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.197757,
@@ -14615,7 +14615,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sulphur Springs",
-                  "text": "Un izvor termal pe Muntele Shasta.",
+                  "text": "Sulphur Springs este un izvor termal cu miros sulfuros lângă Mount Shasta.",
                   "category": "landmark",
                   "coords": [
                         -122.196066,
@@ -14624,7 +14624,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Shasta Wilderness",
-                  "text": "Mount Shasta Wilderness este o zonă sălbatică protejată pe versanții Muntelui Shasta.",
+                  "text": "O zonă sălbatică în jurul Muntelui Shasta, un vulcan de 4.317 metri.",
                   "category": "natural",
                   "coords": [
                         -122.206649,
@@ -14635,7 +14635,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Red Hill",
-                  "text": "A peak on Mount Shasta.",
+                  "text": "Red Hill is a reddish-hued hill in the Shasta area.",
                   "category": "natural",
                   "coords": [
                         -122.194729,
@@ -14644,7 +14644,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sand flat field",
-                  "text": "A viewpoint on Mount Shasta.",
+                  "text": "Sandy flat area on the slopes of Mount Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.254792,
@@ -14653,7 +14653,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gray Butte",
-                  "text": "A peak on Mount Shasta.",
+                  "text": "Gray Butte is a gray-colored butte in the Shasta area.",
                   "category": "natural",
                   "coords": [
                         -122.192758,
@@ -14662,7 +14662,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Shastarama Point",
-                  "text": "A peak on Mount Shasta.",
+                  "text": "Shastarama Point is a scenic viewpoint on Mount Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.193812,
@@ -14671,7 +14671,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Butte",
-                  "text": "A peak on Mount Shasta.",
+                  "text": "Green Butte is a green-vegetated butte in the Shasta area.",
                   "category": "natural",
                   "coords": [
                         -122.206549,
@@ -14680,7 +14680,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Misery Hill",
-                  "text": "A peak on Mount Shasta.",
+                  "text": "Misery Hill is a steep, treacherous slope on Mount Shasta.",
                   "category": "natural",
                   "coords": [
                         -122.197757,
@@ -14689,7 +14689,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sulphur Springs",
-                  "text": "A hot spring on Mount Shasta.",
+                  "text": "Sulphur Springs is a thermal spring with sulfurous odor near Mount Shasta.",
                   "category": "landmark",
                   "coords": [
                         -122.196066,
@@ -14698,7 +14698,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Shasta Wilderness",
-                  "text": "The Mount Shasta Wilderness is a protected wilderness area on the slopes of Mount Shasta.",
+                  "text": "A wilderness area surrounding Mount Shasta, a 14,179-foot volcano.",
                   "category": "natural",
                   "coords": [
                         -122.206649,
@@ -14790,7 +14790,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Toyon Bay",
-                  "text": "Toyon Bay ist eine Bucht auf Santa Catalina Island.",
+                  "text": "Eine malerische Bucht auf Santa Catalina Island mit klarem Wasser und Meereslebewesen.",
                   "category": "landmark",
                   "coords": [
                         -118.35357,
@@ -14799,7 +14799,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Orizaba",
-                  "text": "Mount Orizaba ist der höchste Punkt auf Santa Catalina Island.",
+                  "text": "Der höchste Punkt auf Santa Catalina Island mit 639 Metern.",
                   "category": "natural",
                   "coords": [
                         -118.418132,
@@ -14817,7 +14817,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cabrillo Harbor",
-                  "text": "Cabrillo Harbor ist eine Bucht auf Santa Catalina Island.",
+                  "text": "Cabrillo Harbor ist ein geschützter Hafen auf Santa Catalina Island, benannt nach dem Entdecker Juan Rodríguez Cabrillo.",
                   "category": "landmark",
                   "coords": [
                         -118.404242,
@@ -14826,7 +14826,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Goat Harbor",
-                  "text": "Goat Harbor ist eine Bucht auf Santa Catalina Island.",
+                  "text": "Goat Harbor ist eine kleine Bucht auf Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.395353,
@@ -14835,7 +14835,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Big Fishermans Cove",
-                  "text": "Big Fishermans Cove ist eine Bucht auf Santa Catalina Island.",
+                  "text": "Big Fishermans Cove ist eine große, bei Fischern beliebte Bucht auf Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.484725,
@@ -14844,7 +14844,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Harbor",
-                  "text": "Little Harbor ist eine Bucht auf Santa Catalina Island.",
+                  "text": "Little Harbor ist ein kleiner Naturhafen auf Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.475757,
@@ -14853,7 +14853,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Willow Cove",
-                  "text": "Willow Cove ist eine Bucht auf Santa Catalina Island.",
+                  "text": "Willow Cove ist eine mit Weidenbäumen gesäumte Bucht auf Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.355907,
@@ -14862,7 +14862,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Moonstone Cove",
-                  "text": "Moonstone Cove ist eine Bucht auf Santa Catalina Island.",
+                  "text": "Moonstone Cove ist eine Bucht, bekannt für Mondsteinkiesel auf Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.367574,
@@ -14871,7 +14871,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "White Cove",
-                  "text": "White Cove ist eine Bucht auf Santa Catalina Island.",
+                  "text": "White Cove ist eine Bucht mit weißem Sandstrand auf Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.368408,
@@ -14880,7 +14880,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "KISL-FM (Avalon)",
-                  "text": "KISL-FM (Avalon) ist ein Radioturm in Avalon auf Santa Catalina Island.",
+                  "text": "KISL-FM (Avalon) ist ein Rundfunksendeturm in Avalon auf Santa Catalina Island.",
                   "category": "tower",
                   "coords": [
                         -118.322017,
@@ -14889,7 +14889,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lovers Cove",
-                  "text": "Lovers Cove ist eine Bucht auf Santa Catalina Island.",
+                  "text": "Lovers Cove ist eine malerische, romantische Bucht auf Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.319517,
@@ -14898,7 +14898,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Avalon Bay",
-                  "text": "Avalon Bay ist eine Bucht nahe der Stadt Avalon auf Santa Catalina Island.",
+                  "text": "Avalon Bay ist die Hauptbucht von Avalon auf Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.324239,
@@ -14907,7 +14907,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Descanso Bay",
-                  "text": "Descanso Bay ist eine Bucht auf Santa Catalina Island.",
+                  "text": "Descanso Bay ist eine ruhige Bucht zur Erholung auf Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.326739,
@@ -14916,7 +14916,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cactus Peak",
-                  "text": "Cactus Peak ist ein Gipfel auf Santa Catalina Island.",
+                  "text": "Cactus Peak ist ein mit Kakteen bewachsener Gipfel auf Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.446467,
@@ -14925,7 +14925,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagles Nest",
-                  "text": "Eagles Nest ist ein Gipfel auf Santa Catalina Island.",
+                  "text": "Eagles Nest ist ein hoher Punkt, bekannt für Adlerhorste auf Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.447855,
@@ -14934,7 +14934,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Banning",
-                  "text": "Mount Banning ist ein Gipfel auf Santa Catalina Island.",
+                  "text": "Mount Banning ist ein bewaldeter Berg auf Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.437022,
@@ -14943,7 +14943,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Black Jack Mountain",
-                  "text": "Black Jack Mountain ist ein Gipfel auf Santa Catalina Island.",
+                  "text": "Black Jack Mountain ist ein Berg mit dichtem Schwarzeichenbestand auf Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.400631,
@@ -14952,7 +14952,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Whitleys Peak",
-                  "text": "Whitleys Peak ist ein Gipfel auf Santa Catalina Island.",
+                  "text": "Whitleys Peak ist ein nach einer Person benannter Gipfel auf Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.368408,
@@ -14961,7 +14961,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hamilton Beach",
-                  "text": "Hamilton Beach ist ein Strand auf Santa Catalina Island.",
+                  "text": "Hamilton Beach ist ein Sandstrand auf Santa Catalina Island.",
                   "category": "recreational",
                   "coords": [
                         -118.330193,
@@ -14970,7 +14970,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Empire Landing",
-                  "text": "Empire Landing ist ein Strand auf Santa Catalina Island.",
+                  "text": "Empire Landing ist ein Landeplatz auf Santa Catalina Island.",
                   "category": "recreational",
                   "coords": [
                         -118.434094,
@@ -14979,7 +14979,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Button Shell Beach",
-                  "text": "Button Shell Beach ist ein Strand auf Santa Catalina Island.",
+                  "text": "Button Shell Beach ist ein Strand mit knopfförmigen Muscheln auf Santa Catalina Island.",
                   "category": "recreational",
                   "coords": [
                         -118.36902,
@@ -14988,7 +14988,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gallagher Beach",
-                  "text": "Gallagher Beach ist ein Strand auf Santa Catalina Island.",
+                  "text": "Gallagher Beach ist ein nach Gallagher benannter Strand auf Santa Catalina Island.",
                   "category": "recreational",
                   "coords": [
                         -118.348579,
@@ -14997,7 +14997,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Will Richards Art Studio",
-                  "text": "Will Richards Art Studio ist eine Kunstgalerie auf Santa Catalina Island.",
+                  "text": "Atelier des Künstlers Will Richards auf Catalina Island.",
                   "category": "museum",
                   "coords": [
                         -118.332765,
@@ -15006,7 +15006,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Catalina Island Museum",
-                  "text": "Catalina Island Museum ist ein Museum in Avalon auf Santa Catalina Island.",
+                  "text": "Museum auf Catalina Island zur Inselgeschichte mit Fundstücken.",
                   "category": "museum",
                   "coords": [
                         -118.32801,
@@ -15024,7 +15024,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Perdition Caves",
-                  "text": "Perdition Caves ist eine Attraktion auf Santa Catalina Island.",
+                  "text": "Meereshöhlen, per Boot erreichbar, auf Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.476845,
@@ -15033,7 +15033,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Salta Verde Point",
-                  "text": "Salta Verde Point ist ein malerischer Punkt auf Santa Catalina Island.",
+                  "text": "Malerischer Küstenaussichtspunkt auf Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.422328,
@@ -15051,7 +15051,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Avalon Dive Park",
-                  "text": "Avalon Dive Park ist ein Unterwasserpark in Avalon auf Santa Catalina Island.",
+                  "text": "Geschützter Unterwasserpark zum Tauchen im Hafen von Avalon.",
                   "category": "landmark",
                   "coords": [
                         -118.324659,
@@ -15069,7 +15069,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lone Tree Point",
-                  "text": "Lone Tree Point ist ein Aussichtspunkt auf Santa Catalina Island.",
+                  "text": "Einsamer Kiefernbaum auf einer felsigen Landspitze über dem Ozean auf Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.368894,
@@ -15078,7 +15078,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Long Point State Marine Reserve",
-                  "text": "Long Point State Marine Reserve ist ein geschütztes Meeresgebiet auf Santa Catalina Island.",
+                  "text": "Meeresschutzgebiet zum Schutz der Kelpwälder und Meereslebewesen vor Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.381982,
@@ -15087,7 +15087,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blue Cavern (Onshore) State Marine Conservation Area",
-                  "text": "Blue Cavern (Onshore) State Marine Conservation Area ist ein Meeresschutzgebiet auf Santa Catalina Island.",
+                  "text": "Meeresschutzgebiet mit blauen Grotten vor Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.466244,
@@ -15096,7 +15096,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lover's Cove State Marine Conservation Area",
-                  "text": "Lover's Cove State Marine Conservation Area ist ein Meeresschutzgebiet auf Santa Catalina Island.",
+                  "text": "Eine geschützte Meeresbucht vor Catalina Island, bekannt für ihre Kelpwälder und klares Wasser.",
                   "category": "natural",
                   "coords": [
                         -118.31786,
@@ -15105,7 +15105,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ben Weston Beach",
-                  "text": "Ben Weston Beach ist ein Strand auf Santa Catalina Island.",
+                  "text": "Ein Sandstrand an der Westseite von Catalina Island, beliebt zum Surfen.",
                   "category": "recreational",
                   "coords": [
                         -118.481514,
@@ -15116,7 +15116,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Toyon Bay",
-                  "text": "Toyon Bay egy öböl a Santa Catalina-szigeten.",
+                  "text": "Festői öböl a Santa Catalina-szigeten, tiszta vízzel és tengeri élővilággal.",
                   "category": "landmark",
                   "coords": [
                         -118.35357,
@@ -15125,7 +15125,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Orizaba",
-                  "text": "Mount Orizaba a legmagasabb pont a Santa Catalina-szigeten.",
+                  "text": "A Santa Catalina-sziget legmagasabb pontja, 639 méter.",
                   "category": "natural",
                   "coords": [
                         -118.418132,
@@ -15143,7 +15143,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cabrillo Harbor",
-                  "text": "Cabrillo Harbor egy öböl a Santa Catalina-szigeten.",
+                  "text": "A Cabrillo Harbor egy védett kikötő Santa Catalina szigetén, Juan Rodríguez Cabrillo felfedezőről elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -118.404242,
@@ -15152,7 +15152,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Goat Harbor",
-                  "text": "Goat Harbor egy öböl a Santa Catalina-szigeten.",
+                  "text": "A Goat Harbor egy kis öböl Santa Catalina szigetén.",
                   "category": "landmark",
                   "coords": [
                         -118.395353,
@@ -15161,7 +15161,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Big Fishermans Cove",
-                  "text": "Big Fishermans Cove egy öböl a Santa Catalina-szigeten.",
+                  "text": "A Big Fishermans Cove egy nagy öböl, kedvelt a halászok körében Santa Catalina szigetén.",
                   "category": "landmark",
                   "coords": [
                         -118.484725,
@@ -15170,7 +15170,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Harbor",
-                  "text": "Little Harbor egy öböl a Santa Catalina-szigeten.",
+                  "text": "A Little Harbor egy kis természetes kikötő Santa Catalina szigetén.",
                   "category": "landmark",
                   "coords": [
                         -118.475757,
@@ -15179,7 +15179,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Willow Cove",
-                  "text": "Willow Cove egy öböl a Santa Catalina-szigeten.",
+                  "text": "A Willow Cove egy fűzfákkal szegélyezett öböl Santa Catalina szigetén.",
                   "category": "landmark",
                   "coords": [
                         -118.355907,
@@ -15188,7 +15188,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Moonstone Cove",
-                  "text": "A Moonstone Cove egy öböl a Santa Catalina-szigeten.",
+                  "text": "A Moonstone Cove egy öböl, amely holdkő kavicsairól ismert Santa Catalina szigetén.",
                   "category": "landmark",
                   "coords": [
                         -118.367574,
@@ -15197,7 +15197,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "White Cove",
-                  "text": "A White Cove egy öböl a Santa Catalina-szigeten.",
+                  "text": "A White Cove egy fehér homokos stranddal rendelkező öböl Santa Catalina szigetén.",
                   "category": "landmark",
                   "coords": [
                         -118.368408,
@@ -15206,7 +15206,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "KISL-FM (Avalon)",
-                  "text": "A KISL-FM (Avalon) egy rádiótorony Avalonban, Santa Catalina-szigeten.",
+                  "text": "A KISL-FM (Avalon) egy rádióadó torony Avalonban, Santa Catalina szigetén.",
                   "category": "tower",
                   "coords": [
                         -118.322017,
@@ -15215,7 +15215,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lovers Cove",
-                  "text": "A Lovers Cove egy öböl a Santa Catalina-szigeten.",
+                  "text": "A Lovers Cove egy festői, romantikus öböl Santa Catalina szigetén.",
                   "category": "landmark",
                   "coords": [
                         -118.319517,
@@ -15224,7 +15224,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Avalon Bay",
-                  "text": "Az Avalon Bay egy öböl Avalon városa közelében, a Santa Catalina-szigeten.",
+                  "text": "Az Avalon Bay Avalon fő öble Santa Catalina szigetén.",
                   "category": "landmark",
                   "coords": [
                         -118.324239,
@@ -15233,7 +15233,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Descanso Bay",
-                  "text": "A Descanso Bay egy öböl a Santa Catalina-szigeten.",
+                  "text": "A Descanso Bay egy csendes öböl pihenésre Santa Catalina szigetén.",
                   "category": "landmark",
                   "coords": [
                         -118.326739,
@@ -15242,7 +15242,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cactus Peak",
-                  "text": "A Cactus Peak egy csúcs a Santa Catalina-szigeten.",
+                  "text": "A Cactus Peak egy kaktuszokkal borított csúcs Santa Catalina szigetén.",
                   "category": "natural",
                   "coords": [
                         -118.446467,
@@ -15251,7 +15251,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagles Nest",
-                  "text": "Az Eagles Nest egy csúcs a Santa Catalina-szigeten.",
+                  "text": "Az Eagles Nest egy magas pont, amely sasfészkekről ismert Santa Catalina szigetén.",
                   "category": "natural",
                   "coords": [
                         -118.447855,
@@ -15260,7 +15260,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Banning",
-                  "text": "A Mount Banning egy csúcs a Santa Catalina-szigeten.",
+                  "text": "A Mount Banning egy erdős hegy Santa Catalina szigetén.",
                   "category": "natural",
                   "coords": [
                         -118.437022,
@@ -15269,7 +15269,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Black Jack Mountain",
-                  "text": "A Black Jack Mountain egy csúcs a Santa Catalina-szigeten.",
+                  "text": "A Black Jack Mountain egy hegy sűrű fekete tölgy erdővel Santa Catalina szigetén.",
                   "category": "natural",
                   "coords": [
                         -118.400631,
@@ -15278,7 +15278,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Whitleys Peak",
-                  "text": "A Whitleys Peak egy csúcs a Santa Catalina-szigeten.",
+                  "text": "A Whitleys Peak egy személyről elnevezett csúcs Santa Catalina szigetén.",
                   "category": "natural",
                   "coords": [
                         -118.368408,
@@ -15287,7 +15287,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hamilton Beach",
-                  "text": "A Hamilton Beach egy strand a Santa Catalina-szigeten.",
+                  "text": "A Hamilton Beach egy homokos strand Santa Catalina szigetén.",
                   "category": "recreational",
                   "coords": [
                         -118.330193,
@@ -15296,7 +15296,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Empire Landing",
-                  "text": "Az Empire Landing egy strand a Santa Catalina-szigeten.",
+                  "text": "Az Empire Landing egy kikötőhely Santa Catalina szigetén.",
                   "category": "recreational",
                   "coords": [
                         -118.434094,
@@ -15305,7 +15305,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Button Shell Beach",
-                  "text": "A Button Shell Beach egy strand a Santa Catalina-szigeten.",
+                  "text": "A Button Shell Beach egy strand gomb alakú kagylókkal Santa Catalina szigetén.",
                   "category": "recreational",
                   "coords": [
                         -118.36902,
@@ -15314,7 +15314,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gallagher Beach",
-                  "text": "A Gallagher Beach egy strand a Santa Catalina-szigeten.",
+                  "text": "A Gallagher Beach egy Gallagherről elnevezett strand Santa Catalina szigetén.",
                   "category": "recreational",
                   "coords": [
                         -118.348579,
@@ -15323,7 +15323,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Will Richards Art Studio",
-                  "text": "A Will Richards Art Studio egy művészeti galéria a Santa Catalina-szigeten.",
+                  "text": "Will Richards művész műterme Catalina Islanden.",
                   "category": "museum",
                   "coords": [
                         -118.332765,
@@ -15332,7 +15332,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Catalina Island Museum",
-                  "text": "A Catalina Island Museum egy múzeum Avalonban, Santa Catalina-szigeten.",
+                  "text": "Múzeum Catalina Islanden a sziget történelmével és tárgyaival.",
                   "category": "museum",
                   "coords": [
                         -118.32801,
@@ -15350,7 +15350,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Perdition Caves",
-                  "text": "A Perdition Caves egy látványosság a Santa Catalina-szigeten.",
+                  "text": "Tengeri barlangok, hajóval megközelíthetők, Catalina Islanden.",
                   "category": "landmark",
                   "coords": [
                         -118.476845,
@@ -15359,7 +15359,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Salta Verde Point",
-                  "text": "A Salta Verde Point egy festői pont a Santa Catalina-szigeten.",
+                  "text": "Festői tengerparti kilátópont Catalina Islanden.",
                   "category": "landmark",
                   "coords": [
                         -118.422328,
@@ -15377,7 +15377,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Avalon Dive Park",
-                  "text": "Az Avalon Dive Park egy víz alatti park Avalonban, Santa Catalina-szigeten.",
+                  "text": "Védett víz alatti park búvárkodáshoz Avalon kikötőjében.",
                   "category": "landmark",
                   "coords": [
                         -118.324659,
@@ -15395,7 +15395,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lone Tree Point",
-                  "text": "A Lone Tree Point egy kilátópont a Santa Catalina-szigeten.",
+                  "text": "Magányos fenyőfa egy sziklás hegyfokon az óceán felett Catalina Islanden.",
                   "category": "natural",
                   "coords": [
                         -118.368894,
@@ -15404,7 +15404,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Long Point State Marine Reserve",
-                  "text": "A Long Point State Marine Reserve egy védett tengeri terület a Santa Catalina-szigeten.",
+                  "text": "Tengeri rezervátum a moszaterdők és tengeri élőlények védelmére Catalina Island partjainál.",
                   "category": "natural",
                   "coords": [
                         -118.381982,
@@ -15413,7 +15413,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blue Cavern (Onshore) State Marine Conservation Area",
-                  "text": "A Blue Cavern (Onshore) State Marine Conservation Area egy tengeri védett terület a Santa Catalina-szigeten.",
+                  "text": "Tengeri védett terület kék barlangokkal Catalina Island partjainál.",
                   "category": "natural",
                   "coords": [
                         -118.466244,
@@ -15422,7 +15422,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lover's Cove State Marine Conservation Area",
-                  "text": "A Lover's Cove State Marine Conservation Area egy tengeri védett terület a Santa Catalina-szigeten.",
+                  "text": "Védett tengeri öböl a Catalina-sziget partjainál, híres hínárerdőiről és tiszta vizéről.",
                   "category": "natural",
                   "coords": [
                         -118.31786,
@@ -15431,7 +15431,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ben Weston Beach",
-                  "text": "A Ben Weston Beach egy strand a Santa Catalina-szigeten.",
+                  "text": "Homokos tengerpart a Catalina-sziget nyugati oldalán, népszerű a szörfözéshez.",
                   "category": "recreational",
                   "coords": [
                         -118.481514,
@@ -15442,7 +15442,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Toyon Bay",
-                  "text": "Toyon Bay este un golf pe Insula Santa Catalina.",
+                  "text": "Un golf pitoresc pe insula Santa Catalina, cu apă limpede și viață marină.",
                   "category": "landmark",
                   "coords": [
                         -118.35357,
@@ -15451,7 +15451,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Orizaba",
-                  "text": "Mount Orizaba este cel mai înalt punct de pe Insula Santa Catalina.",
+                  "text": "Cel mai înalt punct al insulei Santa Catalina, la 639 de metri.",
                   "category": "natural",
                   "coords": [
                         -118.418132,
@@ -15469,7 +15469,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cabrillo Harbor",
-                  "text": "Cabrillo Harbor este un golf pe Insula Santa Catalina.",
+                  "text": "Cabrillo Harbor este un port adăpostit pe Insula Santa Catalina, numit după exploratorul Juan Rodríguez Cabrillo.",
                   "category": "landmark",
                   "coords": [
                         -118.404242,
@@ -15478,7 +15478,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Goat Harbor",
-                  "text": "Goat Harbor este un golf pe Insula Santa Catalina.",
+                  "text": "Goat Harbor este un mic golf pe Insula Santa Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.395353,
@@ -15487,7 +15487,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Big Fishermans Cove",
-                  "text": "Big Fishermans Cove este un golf pe Insula Santa Catalina.",
+                  "text": "Big Fishermans Cove este un golf mare, popular printre pescari pe Insula Santa Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.484725,
@@ -15496,7 +15496,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Harbor",
-                  "text": "Little Harbor este un golf pe Insula Santa Catalina.",
+                  "text": "Little Harbor este un mic port natural pe Insula Santa Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.475757,
@@ -15505,7 +15505,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Willow Cove",
-                  "text": "Willow Cove este un golf pe Insula Santa Catalina.",
+                  "text": "Willow Cove este un golf mărginit de sălcii pe Insula Santa Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.355907,
@@ -15514,7 +15514,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Moonstone Cove",
-                  "text": "Moonstone Cove este un golf pe insula Santa Catalina.",
+                  "text": "Moonstone Cove este un golf cunoscut pentru pietricelele de piatră de lună pe Insula Santa Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.367574,
@@ -15523,7 +15523,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "White Cove",
-                  "text": "White Cove este un golf pe insula Santa Catalina.",
+                  "text": "White Cove este un golf cu plajă cu nisip alb pe Insula Santa Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.368408,
@@ -15532,7 +15532,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "KISL-FM (Avalon)",
-                  "text": "KISL-FM (Avalon) este un turn de radio în Avalon, pe insula Santa Catalina.",
+                  "text": "KISL-FM (Avalon) este un turn de transmisie radio în Avalon, pe Insula Santa Catalina.",
                   "category": "tower",
                   "coords": [
                         -118.322017,
@@ -15541,7 +15541,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lovers Cove",
-                  "text": "Lovers Cove este un golf pe insula Santa Catalina.",
+                  "text": "Lovers Cove este un golf pitoresc și romantic pe Insula Santa Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.319517,
@@ -15550,7 +15550,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Avalon Bay",
-                  "text": "Avalon Bay este un golf lângă orașul Avalon pe insula Santa Catalina.",
+                  "text": "Avalon Bay este golful principal al orașului Avalon pe Insula Santa Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.324239,
@@ -15559,7 +15559,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Descanso Bay",
-                  "text": "Descanso Bay este un golf pe insula Santa Catalina.",
+                  "text": "Descanso Bay este un golf liniștit pentru relaxare pe Insula Santa Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.326739,
@@ -15568,7 +15568,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cactus Peak",
-                  "text": "Cactus Peak este un vârf pe insula Santa Catalina.",
+                  "text": "Cactus Peak este un vârf acoperit de cactuși pe Insula Santa Catalina.",
                   "category": "natural",
                   "coords": [
                         -118.446467,
@@ -15577,7 +15577,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagles Nest",
-                  "text": "Eagles Nest este un vârf pe insula Santa Catalina.",
+                  "text": "Eagles Nest este un punct înalt cunoscut pentru cuiburile de vulturi pe Insula Santa Catalina.",
                   "category": "natural",
                   "coords": [
                         -118.447855,
@@ -15586,7 +15586,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Banning",
-                  "text": "Mount Banning este un vârf pe insula Santa Catalina.",
+                  "text": "Mount Banning este un munte împădurit pe Insula Santa Catalina.",
                   "category": "natural",
                   "coords": [
                         -118.437022,
@@ -15595,7 +15595,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Black Jack Mountain",
-                  "text": "Black Jack Mountain este un vârf pe insula Santa Catalina.",
+                  "text": "Black Jack Mountain este un munte cu stejari negri deși pe Insula Santa Catalina.",
                   "category": "natural",
                   "coords": [
                         -118.400631,
@@ -15604,7 +15604,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Whitleys Peak",
-                  "text": "Whitleys Peak este un vârf pe insula Santa Catalina.",
+                  "text": "Whitleys Peak este un vârf numit după o persoană pe Insula Santa Catalina.",
                   "category": "natural",
                   "coords": [
                         -118.368408,
@@ -15613,7 +15613,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hamilton Beach",
-                  "text": "Hamilton Beach este o plajă pe insula Santa Catalina.",
+                  "text": "Hamilton Beach este o plajă cu nisip pe Insula Santa Catalina.",
                   "category": "recreational",
                   "coords": [
                         -118.330193,
@@ -15622,7 +15622,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Empire Landing",
-                  "text": "Empire Landing este o plajă pe insula Santa Catalina.",
+                  "text": "Empire Landing este un loc de debarcare pe Insula Santa Catalina.",
                   "category": "recreational",
                   "coords": [
                         -118.434094,
@@ -15631,7 +15631,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Button Shell Beach",
-                  "text": "Button Shell Beach este o plajă pe insula Santa Catalina.",
+                  "text": "Button Shell Beach este o plajă cu scoici în formă de nasture pe Insula Santa Catalina.",
                   "category": "recreational",
                   "coords": [
                         -118.36902,
@@ -15640,7 +15640,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gallagher Beach",
-                  "text": "Gallagher Beach este o plajă pe insula Santa Catalina.",
+                  "text": "Gallagher Beach este o plajă numită Gallagher pe Insula Santa Catalina.",
                   "category": "recreational",
                   "coords": [
                         -118.348579,
@@ -15649,7 +15649,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Will Richards Art Studio",
-                  "text": "Will Richards Art Studio este o galerie de artă pe insula Santa Catalina.",
+                  "text": "Atelierul artistului Will Richards pe insula Catalina.",
                   "category": "museum",
                   "coords": [
                         -118.332765,
@@ -15658,7 +15658,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Catalina Island Museum",
-                  "text": "Catalina Island Museum este un muzeu în Avalon pe insula Santa Catalina.",
+                  "text": "Muzeu pe insula Catalina despre istoria insulei și artefacte.",
                   "category": "museum",
                   "coords": [
                         -118.32801,
@@ -15676,7 +15676,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Perdition Caves",
-                  "text": "Perdition Caves este o atracție pe insula Santa Catalina.",
+                  "text": "Peșteri marine accesibile cu barca pe insula Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.476845,
@@ -15685,7 +15685,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Salta Verde Point",
-                  "text": "Salta Verde Point este un punct pitoresc pe insula Santa Catalina.",
+                  "text": "Punct de belvedere pitoresc pe coasta insulei Catalina.",
                   "category": "landmark",
                   "coords": [
                         -118.422328,
@@ -15703,7 +15703,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Avalon Dive Park",
-                  "text": "Avalon Dive Park este un parc subacvatic în Avalon pe insula Santa Catalina.",
+                  "text": "Parac subacvatic protejat pentru scufundări în portul Avalon.",
                   "category": "landmark",
                   "coords": [
                         -118.324659,
@@ -15721,7 +15721,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lone Tree Point",
-                  "text": "Lone Tree Point este un punct de belvedere pe insula Santa Catalina.",
+                  "text": "Un pin solitar pe un promontoriu stâncos deasupra oceanului pe insula Catalina.",
                   "category": "natural",
                   "coords": [
                         -118.368894,
@@ -15730,7 +15730,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Long Point State Marine Reserve",
-                  "text": "Long Point State Marine Reserve este o arie marină protejată pe insula Santa Catalina.",
+                  "text": "Rezervație marină pentru protejarea pădurilor de alge și a vieții marine în largul insulei Catalina.",
                   "category": "natural",
                   "coords": [
                         -118.381982,
@@ -15739,7 +15739,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blue Cavern (Onshore) State Marine Conservation Area",
-                  "text": "Blue Cavern (Onshore) State Marine Conservation Area este o arie marină protejată pe insula Santa Catalina.",
+                  "text": "Arie marină protejată cu peșteri albastre în largul insulei Catalina.",
                   "category": "natural",
                   "coords": [
                         -118.466244,
@@ -15748,7 +15748,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lover's Cove State Marine Conservation Area",
-                  "text": "Lover's Cove State Marine Conservation Area este o arie marină protejată pe insula Santa Catalina.",
+                  "text": "Un golf marin protejat lângă Insula Catalina, cunoscut pentru pădurile de alge și apele limpezi.",
                   "category": "natural",
                   "coords": [
                         -118.31786,
@@ -15757,7 +15757,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ben Weston Beach",
-                  "text": "Ben Weston Beach este o plajă pe insula Santa Catalina.",
+                  "text": "O plajă nisipoasă pe partea de vest a Insulei Catalina, populară pentru surfing.",
                   "category": "recreational",
                   "coords": [
                         -118.481514,
@@ -15768,7 +15768,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Toyon Bay",
-                  "text": "Toyon Bay is a bay on Santa Catalina Island.",
+                  "text": "A scenic bay on Santa Catalina Island, known for its clear water and marine life.",
                   "category": "landmark",
                   "coords": [
                         -118.35357,
@@ -15777,7 +15777,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Orizaba",
-                  "text": "Mount Orizaba is the highest point on Santa Catalina Island.",
+                  "text": "The highest point on Santa Catalina Island at 2,097 feet.",
                   "category": "natural",
                   "coords": [
                         -118.418132,
@@ -15795,7 +15795,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cabrillo Harbor",
-                  "text": "Cabrillo Harbor is a bay on Santa Catalina Island.",
+                  "text": "Cabrillo Harbor is a sheltered harbor on Santa Catalina Island, named after explorer Juan Rodríguez Cabrillo.",
                   "category": "landmark",
                   "coords": [
                         -118.404242,
@@ -15804,7 +15804,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Goat Harbor",
-                  "text": "Goat Harbor is a bay on Santa Catalina Island.",
+                  "text": "Goat Harbor is a small cove on Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.395353,
@@ -15813,7 +15813,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Big Fishermans Cove",
-                  "text": "Big Fishermans Cove is a bay on Santa Catalina Island.",
+                  "text": "Big Fishermans Cove is a large cove popular with fishermen on Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.484725,
@@ -15822,7 +15822,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Harbor",
-                  "text": "Little Harbor is a bay on Santa Catalina Island.",
+                  "text": "Little Harbor is a small natural harbor on Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.475757,
@@ -15831,7 +15831,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Willow Cove",
-                  "text": "Willow Cove is a bay on Santa Catalina Island.",
+                  "text": "Willow Cove is a cove lined with willow trees on Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.355907,
@@ -15840,7 +15840,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Moonstone Cove",
-                  "text": "Moonstone Cove is a bay on Santa Catalina Island.",
+                  "text": "Moonstone Cove is a cove known for moonstone pebbles on Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.367574,
@@ -15849,7 +15849,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "White Cove",
-                  "text": "White Cove is a bay on Santa Catalina Island.",
+                  "text": "White Cove is a cove with white sandy beach on Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.368408,
@@ -15858,7 +15858,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "KISL-FM (Avalon)",
-                  "text": "KISL-FM (Avalon) is a radio tower in Avalon on Santa Catalina Island.",
+                  "text": "KISL-FM (Avalon) is a radio transmission tower in Avalon on Santa Catalina Island.",
                   "category": "tower",
                   "coords": [
                         -118.322017,
@@ -15867,7 +15867,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lovers Cove",
-                  "text": "Lovers Cove is a bay on Santa Catalina Island.",
+                  "text": "Lovers Cove is a scenic, romantic cove on Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.319517,
@@ -15876,7 +15876,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Avalon Bay",
-                  "text": "Avalon Bay is a bay located near the town of Avalon on Santa Catalina Island.",
+                  "text": "Avalon Bay is the main bay of Avalon on Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.324239,
@@ -15885,7 +15885,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Descanso Bay",
-                  "text": "Descanso Bay is a bay on Santa Catalina Island.",
+                  "text": "Descanso Bay is a quiet bay for relaxation on Santa Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.326739,
@@ -15894,7 +15894,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cactus Peak",
-                  "text": "Cactus Peak is a peak on Santa Catalina Island.",
+                  "text": "Cactus Peak is a peak covered in cactus on Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.446467,
@@ -15903,7 +15903,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Eagles Nest",
-                  "text": "Eagles Nest is a peak on Santa Catalina Island.",
+                  "text": "Eagles Nest is a high point known for eagle nests on Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.447855,
@@ -15912,7 +15912,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Banning",
-                  "text": "Mount Banning is a peak on Santa Catalina Island.",
+                  "text": "Mount Banning is a forested mountain on Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.437022,
@@ -15921,7 +15921,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Black Jack Mountain",
-                  "text": "Black Jack Mountain is a peak on Santa Catalina Island.",
+                  "text": "Black Jack Mountain is a mountain with dense black jack oak on Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.400631,
@@ -15930,7 +15930,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Whitleys Peak",
-                  "text": "Whitleys Peak is a peak on Santa Catalina Island.",
+                  "text": "Whitleys Peak is a peak named after a person on Santa Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.368408,
@@ -15939,7 +15939,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Hamilton Beach",
-                  "text": "Hamilton Beach is a beach on Santa Catalina Island.",
+                  "text": "Hamilton Beach is a sandy beach on Santa Catalina Island.",
                   "category": "recreational",
                   "coords": [
                         -118.330193,
@@ -15948,7 +15948,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Empire Landing",
-                  "text": "Empire Landing is a beach on Santa Catalina Island.",
+                  "text": "Empire Landing is a landing site on Santa Catalina Island.",
                   "category": "recreational",
                   "coords": [
                         -118.434094,
@@ -15957,7 +15957,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Button Shell Beach",
-                  "text": "Button Shell Beach is a beach on Santa Catalina Island.",
+                  "text": "Button Shell Beach is a beach with button-shaped shells on Santa Catalina Island.",
                   "category": "recreational",
                   "coords": [
                         -118.36902,
@@ -15966,7 +15966,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gallagher Beach",
-                  "text": "Gallagher Beach is a beach on Santa Catalina Island.",
+                  "text": "Gallagher Beach is a beach named Gallagher on Santa Catalina Island.",
                   "category": "recreational",
                   "coords": [
                         -118.348579,
@@ -15975,7 +15975,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Will Richards Art Studio",
-                  "text": "Will Richards Art Studio is an art gallery on Santa Catalina Island.",
+                  "text": "Studio of artist Will Richards on Catalina Island.",
                   "category": "museum",
                   "coords": [
                         -118.332765,
@@ -15984,7 +15984,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Catalina Island Museum",
-                  "text": "Catalina Island Museum is a museum in Avalon on Santa Catalina Island.",
+                  "text": "Museum on Catalina Island showcasing island history and artifacts.",
                   "category": "museum",
                   "coords": [
                         -118.32801,
@@ -16002,7 +16002,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Perdition Caves",
-                  "text": "Perdition Caves is an attraction on Santa Catalina Island.",
+                  "text": "Sea caves accessible by boat on Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.476845,
@@ -16011,7 +16011,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Salta Verde Point",
-                  "text": "Salta Verde Point is a scenic point on Santa Catalina Island.",
+                  "text": "Scenic coastal viewpoint on Catalina Island.",
                   "category": "landmark",
                   "coords": [
                         -118.422328,
@@ -16029,7 +16029,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Avalon Dive Park",
-                  "text": "Avalon Dive Park is an underwater park attraction in Avalon on Santa Catalina Island.",
+                  "text": "Protected underwater park for diving in Avalon harbor.",
                   "category": "landmark",
                   "coords": [
                         -118.324659,
@@ -16047,7 +16047,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lone Tree Point",
-                  "text": "Lone Tree Point is a viewpoint on Santa Catalina Island.",
+                  "text": "Lone pine tree on a rocky point overlooking the ocean on Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.368894,
@@ -16056,7 +16056,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Long Point State Marine Reserve",
-                  "text": "Long Point State Marine Reserve is a protected marine area on Santa Catalina Island.",
+                  "text": "Marine reserve protecting kelp forests and marine life off Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.381982,
@@ -16065,7 +16065,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Blue Cavern (Onshore) State Marine Conservation Area",
-                  "text": "Blue Cavern (Onshore) State Marine Conservation Area is a marine conservation area on Santa Catalina Island.",
+                  "text": "Marine conservation area with blue caverns off Catalina Island.",
                   "category": "natural",
                   "coords": [
                         -118.466244,
@@ -16074,7 +16074,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lover's Cove State Marine Conservation Area",
-                  "text": "Lover's Cove State Marine Conservation Area is a marine conservation area on Santa Catalina Island.",
+                  "text": "A protected marine cove off Catalina Island known for its kelp forests and clear waters.",
                   "category": "natural",
                   "coords": [
                         -118.31786,
@@ -16083,7 +16083,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ben Weston Beach",
-                  "text": "Ben Weston Beach is a beach on Santa Catalina Island.",
+                  "text": "A sandy beach on the west side of Catalina Island popular for surfing.",
                   "category": "recreational",
                   "coords": [
                         -118.481514,
@@ -16153,7 +16153,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mississippi & Missouri River Confluence Point",
-                  "text": "Dieser Aussichtspunkt am Zusammenfluss von Mississippi und Missouri liegt im Missouri River Nature Area.",
+                  "text": "Der Punkt, an dem der Mississippi und der Missouri nahe St. Louis zusammenfließen.",
                   "category": "natural",
                   "coords": [
                         -90.119521,
@@ -16389,7 +16389,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mississippi & Missouri River Confluence Point",
-                  "text": "Ez a kilátópont a Mississippi és a Missouri folyók találkozásánál található a Missouri River Nature Area területén.",
+                  "text": "Az a pont, ahol a Mississippi és a Missouri folyók találkoznak St. Louis közelében.",
                   "category": "natural",
                   "coords": [
                         -90.119521,
@@ -16625,7 +16625,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mississippi & Missouri River Confluence Point",
-                  "text": "Acest punct de belvedere la confluența râurilor Mississippi și Missouri este situat în zona naturală Missouri River Nature Area.",
+                  "text": "Punctul unde râurile Mississippi și Missouri se întâlnesc lângă St. Louis.",
                   "category": "natural",
                   "coords": [
                         -90.119521,
@@ -16861,7 +16861,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mississippi & Missouri River Confluence Point",
-                  "text": "This viewpoint at the confluence of the Mississippi and Missouri Rivers is located in the Missouri River Nature Area.",
+                  "text": "The point where the Mississippi and Missouri rivers converge near St. Louis.",
                   "category": "natural",
                   "coords": [
                         -90.119521,
@@ -17129,7 +17129,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cold Knob",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Cold Knob ist ein kalter, hochgelegener Knubbel in einem US-amerikanischen Nationalforst.",
                   "category": "natural",
                   "coords": [
                         -82.652904,
@@ -17138,7 +17138,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Double Head",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Double Head ist ein Berg mit zwei markanten Gipfeln in einem US-amerikanischen Nationalforst.",
                   "category": "natural",
                   "coords": [
                         -82.641792,
@@ -17147,7 +17147,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Kramers Vista",
-                  "text": "Ein Gipfel mit Aussicht im Pisgah National Forest.",
+                  "text": "Kramers Vista ist ein nach Kramer benannter Aussichtspunkt in einem US-amerikanischen Nationalforst.",
                   "category": "natural",
                   "coords": [
                         -82.657904,
@@ -17156,7 +17156,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ripshin Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ripshin Mountain ist ein Berg mit einem scharfen, zerklüfteten Grat in einem US-amerikanischen Nationalforst.",
                   "category": "natural",
                   "coords": [
                         -82.757629,
@@ -17165,7 +17165,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Pisgah",
-                  "text": "Ein markanter Gipfel entlang des Blue Ridge Parkway.",
+                  "text": "Mount Pisgah ist ein markanter Gipfel mit Panoramablick in einem US-amerikanischen Nationalforst.",
                   "category": "natural",
                   "coords": [
                         -82.756796,
@@ -17174,7 +17174,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wolf Knob",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Wolf Knob ist ein Knubbel, der historisch mit Wölfen in Verbindung gebracht wird, in einem US-amerikanischen Nationalforst.",
                   "category": "natural",
                   "coords": [
                         -82.638874,
@@ -17183,7 +17183,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lance Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein langer, schmaler Bergrücken im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.604291,
@@ -17192,7 +17192,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Truckwheel Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein niedriger, abgerundeter Gipfel im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.636514,
@@ -17201,7 +17201,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Powhatan Recreation Area",
-                  "text": "Ein Erholungsgebiet im Pisgah National Forest.",
+                  "text": "Ein Erholungsgebiet mit Camping- und Picknickplätzen, benannt nach dem Powhatan-Stamm, im National Forest.",
                   "category": "park",
                   "coords": [
                         -82.627903,
@@ -17210,7 +17210,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rice Pinnacle",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Eine hohe, schlanke Felsformation im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.628182,
@@ -17219,7 +17219,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Beaverdam Wildlife Restoration Area",
-                  "text": "Ein Wildtierwiederherstellungsgebiet im Pisgah National Forest.",
+                  "text": "Ein Feuchtgebiet-Renaturierungsgebiet, das sich auf den Biberlebensraum konzentriert.",
                   "category": "park",
                   "coords": [
                         -82.638182,
@@ -17228,7 +17228,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Buzzard Knob",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Hügel im National Forest, auf dem häufig Bussarde gesichtet werden.",
                   "category": "natural",
                   "coords": [
                         -82.664849,
@@ -17237,7 +17237,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Hickory Top",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein kleiner, mit Hickorybäumen bewachsener Gipfel im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.652071,
@@ -17246,7 +17246,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Stradley Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein breiter Berg im National Forest, benannt nach einer Familie.",
                   "category": "natural",
                   "coords": [
                         -82.659849,
@@ -17255,7 +17255,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rich Knob",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Hügel mit reicher Vegetation und Mineralien im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.66846,
@@ -17264,7 +17264,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Top",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein grün bewachsener Gipfel im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.667627,
@@ -17273,7 +17273,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Rock",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein markanter Felsen im National Forest, der an ein Schaf erinnert.",
                   "category": "natural",
                   "coords": [
                         -82.677072,
@@ -17282,7 +17282,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Browns Knob",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein bräunlicher Hügel im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.675405,
@@ -17291,7 +17291,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Young Pisgah Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein kleinerer Berg in der Nähe des Pisgah Mountain im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.697628,
@@ -17300,7 +17300,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Long Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein langer Bergrücken im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.708739,
@@ -17309,7 +17309,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smathers View",
-                  "text": "Ein Aussichtsgipfel im Pisgah National Forest.",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über den National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.780132,
@@ -17318,7 +17318,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Saw Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Berg mit einem sägezahnartigen Kamm im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.751518,
@@ -17327,7 +17327,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Billie Top",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Gipfel im National Forest, benannt nach Billie.",
                   "category": "natural",
                   "coords": [
                         -82.765688,
@@ -17336,7 +17336,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Pinnacle",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Der höchste Punkt im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.742632,
@@ -17345,7 +17345,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Peggy Peak",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Gipfel im National Forest, benannt nach Peggy.",
                   "category": "natural",
                   "coords": [
                         -82.727352,
@@ -17354,7 +17354,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Piney Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein mit Kiefern bewachsener Berg im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.724574,
@@ -17363,7 +17363,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thompson Knob",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Hügel im National Forest, benannt nach einer Person namens Thompson.",
                   "category": "natural",
                   "coords": [
                         -82.777632,
@@ -17372,7 +17372,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Top",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Gipfel im National Forest, auf dem Schafe weiden.",
                   "category": "natural",
                   "coords": [
                         -82.779576,
@@ -17381,7 +17381,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "White Rock Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Berg mit auffälligen weißen Felsvorsprüngen im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.759852,
@@ -17390,7 +17390,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spring Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Berg mit natürlichen Quellen im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.780131,
@@ -17399,7 +17399,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dunsmore Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Berg im National Forest, benannt nach der Familie Dunsmore.",
                   "category": "natural",
                   "coords": [
                         -82.724296,
@@ -17408,7 +17408,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Standhill Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein markanter Berg im National Forest, der sich deutlich abhebt.",
                   "category": "natural",
                   "coords": [
                         -82.730129,
@@ -17426,7 +17426,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Candler Knob",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Hügel im National Forest, benannt nach einer lokalen Familie.",
                   "category": "natural",
                   "coords": [
                         -82.73235,
@@ -17435,7 +17435,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fork Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Berg mit einer gabelförmigen Gestalt im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.705961,
@@ -17444,7 +17444,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Coffee Pot Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Berg, der an eine Kaffeekanne erinnert, im National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.677349,
@@ -17453,7 +17453,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ferrin Knob",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Hügel im National Forest, benannt nach einer Person namens Ferrin.",
                   "category": "natural",
                   "coords": [
                         -82.673182,
@@ -17462,7 +17462,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Seniard Mountain",
-                  "text": "Ein Gipfel im Pisgah National Forest.",
+                  "text": "Ein Berg im National Forest, benannt nach Seniard.",
                   "category": "natural",
                   "coords": [
                         -82.640958,
@@ -17482,7 +17482,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cold Knob",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "A Cold Knob egy hideg, magas fekvésű knobb egy amerikai nemzeti erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.652904,
@@ -17491,7 +17491,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Double Head",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "A Double Head egy hegy két elkülönülő csúccsal egy amerikai nemzeti erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.641792,
@@ -17500,7 +17500,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Kramers Vista",
-                  "text": "Egy kilátást nyújtó csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "A Kramers Vista egy Kramer nevű személyről elnevezett kilátópont egy amerikai nemzeti erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.657904,
@@ -17509,7 +17509,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ripshin Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "A Ripshin Mountain egy hegy éles, szaggatott gerinccel egy amerikai nemzeti erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.757629,
@@ -17518,7 +17518,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Pisgah",
-                  "text": "Egy kiemelkedő csúcs a Blue Ridge Parkway mentén.",
+                  "text": "A Mount Pisgah egy kiemelkedő csúcs panorámás kilátással egy amerikai nemzeti erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.756796,
@@ -17527,7 +17527,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wolf Knob",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "A Wolf Knob egy knobb, amely történelmileg farkasokkal kapcsolatos egy amerikai nemzeti erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.638874,
@@ -17536,7 +17536,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lance Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy hosszú, keskeny hegygerinc a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.604291,
@@ -17545,7 +17545,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Truckwheel Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy alacsony, kerek csúcs a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.636514,
@@ -17554,7 +17554,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Powhatan Recreation Area",
-                  "text": "Egy rekreációs terület a Pisgah Nemzeti Erdőben.",
+                  "text": "A Powhatan törzsről elnevezett kemping- és piknikezőhely a Nemzeti Erdőben.",
                   "category": "park",
                   "coords": [
                         -82.627903,
@@ -17563,7 +17563,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rice Pinnacle",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy magas, karcsú sziklaalakzat a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.628182,
@@ -17572,7 +17572,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Beaverdam Wildlife Restoration Area",
-                  "text": "Egy vadvilág helyreállítási terület a Pisgah Nemzeti Erdőben.",
+                  "text": "Vizes élőhely helyreállítási terület, amely a hódok élőhelyére összpontosít.",
                   "category": "park",
                   "coords": [
                         -82.638182,
@@ -17581,7 +17581,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Buzzard Knob",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy domb a Nemzeti Erdőben, ahol gyakran látni ölyveket.",
                   "category": "natural",
                   "coords": [
                         -82.664849,
@@ -17590,7 +17590,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Hickory Top",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy kicsi, hikorifákkal borított csúcs a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.652071,
@@ -17599,7 +17599,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Stradley Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy széles hegy a Nemzeti Erdőben, egy családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -82.659849,
@@ -17608,7 +17608,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rich Knob",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy domb gazdag növényzettel és ásványi anyagokkal a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.66846,
@@ -17617,7 +17617,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Top",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy zöld növényzettel borított csúcs a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.667627,
@@ -17626,7 +17626,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Rock",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy juhra emlékeztető jellegzetes szikla a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.677072,
@@ -17635,7 +17635,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Browns Knob",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy barnás domb a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.675405,
@@ -17644,7 +17644,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Young Pisgah Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy kisebb hegy a Pisgah-hegy közelében a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.697628,
@@ -17653,7 +17653,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Long Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy hosszú hegygerinc a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.708739,
@@ -17662,7 +17662,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smathers View",
-                  "text": "Egy kilátó csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy kilátóhely, panorámás kilátással a Nemzeti Erdőre.",
                   "category": "natural",
                   "coords": [
                         -82.780132,
@@ -17671,7 +17671,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Saw Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy hegy fűrészfogas gerinccel a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.751518,
@@ -17680,7 +17680,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Billie Top",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy csúcs a Nemzeti Erdőben, Billie-ről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -82.765688,
@@ -17689,7 +17689,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Pinnacle",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "A Nemzeti Erdő legmagasabb pontja.",
                   "category": "natural",
                   "coords": [
                         -82.742632,
@@ -17698,7 +17698,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Peggy Peak",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy csúcs a Nemzeti Erdőben, Peggy-ről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -82.727352,
@@ -17707,7 +17707,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Piney Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy fenyőfákkal borított hegy a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.724574,
@@ -17716,7 +17716,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thompson Knob",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy domb a Nemzeti Erdőben, Thompson nevű személyről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -82.777632,
@@ -17725,7 +17725,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Top",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy csúcs a Nemzeti Erdőben, ahol juhok legelnek.",
                   "category": "natural",
                   "coords": [
                         -82.779576,
@@ -17734,7 +17734,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "White Rock Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy hegy feltűnő fehér sziklákkal a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.759852,
@@ -17743,7 +17743,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spring Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy hegy természetes forrásokkal a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.780131,
@@ -17752,7 +17752,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dunsmore Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy hegy a Nemzeti Erdőben, a Dunsmore családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -82.724296,
@@ -17761,7 +17761,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Standhill Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy feltűnő hegy a Nemzeti Erdőben, amely jól kiemelkedik.",
                   "category": "natural",
                   "coords": [
                         -82.730129,
@@ -17779,7 +17779,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Candler Knob",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy domb a Nemzeti Erdőben, egy helyi családról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -82.73235,
@@ -17788,7 +17788,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fork Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy villa alakú hegy a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.705961,
@@ -17797,7 +17797,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Coffee Pot Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy hegy, amely egy kávéskannára emlékeztet, a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -82.677349,
@@ -17806,7 +17806,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ferrin Knob",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy domb a Nemzeti Erdőben, Ferrin nevű személyről elnevezve.",
                   "category": "natural",
                   "coords": [
                         -82.673182,
@@ -17815,7 +17815,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Seniard Mountain",
-                  "text": "Egy csúcs a Pisgah Nemzeti Erdőben.",
+                  "text": "Egy hegy a Nemzeti Erdőben, Seniard-ról elnevezve.",
                   "category": "natural",
                   "coords": [
                         -82.640958,
@@ -17835,7 +17835,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cold Knob",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Cold Knob este un deal rece, la altitudine mare, într-o pădure națională americană.",
                   "category": "natural",
                   "coords": [
                         -82.652904,
@@ -17844,7 +17844,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Double Head",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Double Head este un munte cu două vârfuri distincte într-o pădure națională americană.",
                   "category": "natural",
                   "coords": [
                         -82.641792,
@@ -17853,7 +17853,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Kramers Vista",
-                  "text": "Un vârf cu vedere în Pădurea Națională Pisgah.",
+                  "text": "Kramers Vista este un punct de belvedere numit Kramer într-o pădure națională americană.",
                   "category": "natural",
                   "coords": [
                         -82.657904,
@@ -17862,7 +17862,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ripshin Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Ripshin Mountain este un munte cu o creastă ascuțită și accidentată într-o pădure națională americană.",
                   "category": "natural",
                   "coords": [
                         -82.757629,
@@ -17871,7 +17871,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Pisgah",
-                  "text": "Un vârf proeminent de-a lungul Blue Ridge Parkway.",
+                  "text": "Mount Pisgah este un vârf proeminent cu vederi panoramice într-o pădure națională americană.",
                   "category": "natural",
                   "coords": [
                         -82.756796,
@@ -17880,7 +17880,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wolf Knob",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Wolf Knob este un deal asociat istoric cu lupii într-o pădure națională americană.",
                   "category": "natural",
                   "coords": [
                         -82.638874,
@@ -17889,7 +17889,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lance Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "O creastă lungă și îngustă în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.604291,
@@ -17898,7 +17898,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Truckwheel Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un vârf jos și rotunjit în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.636514,
@@ -17907,7 +17907,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Powhatan Recreation Area",
-                  "text": "O zonă de agrement în Pădurea Națională Pisgah.",
+                  "text": "O zonă de agrement cu camping și picnic, numită după tribul Powhatan, în Pădurea Națională.",
                   "category": "park",
                   "coords": [
                         -82.627903,
@@ -17916,7 +17916,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rice Pinnacle",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "O formațiune stâncoasă înaltă și zveltă în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.628182,
@@ -17925,7 +17925,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Beaverdam Wildlife Restoration Area",
-                  "text": "O zonă de restaurare a vieții sălbatice în Pădurea Națională Pisgah.",
+                  "text": "O zonă de restaurare a zonelor umede, concentrată pe habitatul castorilor.",
                   "category": "park",
                   "coords": [
                         -82.638182,
@@ -17934,7 +17934,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Buzzard Knob",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "O colină în Pădurea Națională unde se văd frecvent șoimi.",
                   "category": "natural",
                   "coords": [
                         -82.664849,
@@ -17943,7 +17943,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Hickory Top",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un vârf mic acoperit cu copaci de hickory în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.652071,
@@ -17952,7 +17952,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Stradley Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte lat în Pădurea Națională, numit după o familie.",
                   "category": "natural",
                   "coords": [
                         -82.659849,
@@ -17961,7 +17961,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rich Knob",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "O colină cu vegetație bogată și minerale în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.66846,
@@ -17970,7 +17970,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Top",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un vârf acoperit cu vegetație verde în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.667627,
@@ -17979,7 +17979,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Rock",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "O stâncă proeminentă în Pădurea Națională, care amintește de o oaie.",
                   "category": "natural",
                   "coords": [
                         -82.677072,
@@ -17988,7 +17988,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Browns Knob",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "O colină maronie în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.675405,
@@ -17997,7 +17997,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Young Pisgah Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte mai mic lângă Muntele Pisgah în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.697628,
@@ -18006,7 +18006,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Long Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un lanț muntos lung în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.708739,
@@ -18015,7 +18015,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smathers View",
-                  "text": "Un vârf de belvedere în Pădurea Națională Pisgah.",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra Pădurii Naționale.",
                   "category": "natural",
                   "coords": [
                         -82.780132,
@@ -18024,7 +18024,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Saw Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte cu o creastă zimțată în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.751518,
@@ -18033,7 +18033,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Billie Top",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un vârf în Pădurea Națională, numit după Billie.",
                   "category": "natural",
                   "coords": [
                         -82.765688,
@@ -18042,7 +18042,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Pinnacle",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Cel mai înalt punct din Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.742632,
@@ -18051,7 +18051,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Peggy Peak",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un vârf în Pădurea Națională, numit după Peggy.",
                   "category": "natural",
                   "coords": [
                         -82.727352,
@@ -18060,7 +18060,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Piney Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte acoperit de pini în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.724574,
@@ -18069,7 +18069,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thompson Knob",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "O colină în Pădurea Națională, numită după o persoană numită Thompson.",
                   "category": "natural",
                   "coords": [
                         -82.777632,
@@ -18078,7 +18078,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Top",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un vârf în Pădurea Națională unde pasc oile.",
                   "category": "natural",
                   "coords": [
                         -82.779576,
@@ -18087,7 +18087,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "White Rock Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte cu proeminențe stâncoase albe în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.759852,
@@ -18096,7 +18096,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spring Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte cu izvoare naturale în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.780131,
@@ -18105,7 +18105,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dunsmore Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte în Pădurea Națională, numit după familia Dunsmore.",
                   "category": "natural",
                   "coords": [
                         -82.724296,
@@ -18114,7 +18114,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Standhill Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte proeminent în Pădurea Națională, care se detașează clar.",
                   "category": "natural",
                   "coords": [
                         -82.730129,
@@ -18132,7 +18132,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Candler Knob",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "O colină în Pădurea Națională, numită după o familie locală.",
                   "category": "natural",
                   "coords": [
                         -82.73235,
@@ -18141,7 +18141,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fork Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte cu o formă de furcă în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.705961,
@@ -18150,7 +18150,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Coffee Pot Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte care amintește de o cafetieră, în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -82.677349,
@@ -18159,7 +18159,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ferrin Knob",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "O colină în Pădurea Națională, numită după o persoană numită Ferrin.",
                   "category": "natural",
                   "coords": [
                         -82.673182,
@@ -18168,7 +18168,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Seniard Mountain",
-                  "text": "Un vârf în Pădurea Națională Pisgah.",
+                  "text": "Un munte în Pădurea Națională, numit după Seniard.",
                   "category": "natural",
                   "coords": [
                         -82.640958,
@@ -18188,7 +18188,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Cold Knob",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "Cold Knob is a cold, high-elevation knob in a U.S. National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.652904,
@@ -18197,7 +18197,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Double Head",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "Double Head is a mountain with two distinct summits in a U.S. National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.641792,
@@ -18206,7 +18206,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Kramers Vista",
-                  "text": "A peak offering views in the Pisgah National Forest.",
+                  "text": "Kramers Vista is a scenic viewpoint named Kramer in a U.S. National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.657904,
@@ -18215,7 +18215,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ripshin Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "Ripshin Mountain is a mountain with a sharp, rugged ridge in a U.S. National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.757629,
@@ -18224,7 +18224,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Pisgah",
-                  "text": "It is a prominent peak along the Blue Ridge Parkway.",
+                  "text": "Mount Pisgah is a prominent peak offering panoramic views in a U.S. National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.756796,
@@ -18233,7 +18233,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Wolf Knob",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "Wolf Knob is a knob historically associated with wolves in a U.S. National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.638874,
@@ -18242,7 +18242,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Lance Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A long, narrow ridge in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.604291,
@@ -18251,7 +18251,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Truckwheel Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A low, rounded peak in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.636514,
@@ -18260,7 +18260,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Powhatan Recreation Area",
-                  "text": "A recreation area in the Pisgah National Forest.",
+                  "text": "A recreation area named after the Powhatan tribe, offering camping and picnicking in the National Forest.",
                   "category": "park",
                   "coords": [
                         -82.627903,
@@ -18269,7 +18269,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rice Pinnacle",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A tall, slender rock formation in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.628182,
@@ -18278,7 +18278,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Beaverdam Wildlife Restoration Area",
-                  "text": "A wildlife restoration area in the Pisgah National Forest.",
+                  "text": "A wetland restoration area focused on beaver habitat.",
                   "category": "park",
                   "coords": [
                         -82.638182,
@@ -18287,7 +18287,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Buzzard Knob",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A knob in the National Forest where buzzards are commonly seen.",
                   "category": "natural",
                   "coords": [
                         -82.664849,
@@ -18296,7 +18296,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Little Hickory Top",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A small summit covered in hickory trees in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.652071,
@@ -18305,7 +18305,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Stradley Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A broad mountain in the National Forest, named after a family.",
                   "category": "natural",
                   "coords": [
                         -82.659849,
@@ -18314,7 +18314,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Rich Knob",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A knob known for its rich plant growth and mineral deposits in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.66846,
@@ -18323,7 +18323,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Green Top",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A green-topped summit in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.667627,
@@ -18332,7 +18332,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Rock",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A prominent rock in the National Forest that resembles a sheep.",
                   "category": "natural",
                   "coords": [
                         -82.677072,
@@ -18341,7 +18341,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Browns Knob",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A brownish knob in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.675405,
@@ -18350,7 +18350,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Young Pisgah Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A smaller mountain near Pisgah Mountain in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.697628,
@@ -18359,7 +18359,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Long Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A long mountain ridge in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.708739,
@@ -18368,7 +18368,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Smathers View",
-                  "text": "A viewpoint peak in the Pisgah National Forest.",
+                  "text": "A scenic overlook offering panoramic views of the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.780132,
@@ -18377,7 +18377,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Saw Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A mountain with a sawtooth ridge in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.751518,
@@ -18386,7 +18386,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Billie Top",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A summit in the National Forest named after Billie.",
                   "category": "natural",
                   "coords": [
                         -82.765688,
@@ -18395,7 +18395,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Pinnacle",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "The highest point in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.742632,
@@ -18404,7 +18404,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Peggy Peak",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A peak in the National Forest named Peggy.",
                   "category": "natural",
                   "coords": [
                         -82.727352,
@@ -18413,7 +18413,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Piney Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A pine-covered mountain in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.724574,
@@ -18422,7 +18422,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Thompson Knob",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A knob in the National Forest named after a person named Thompson.",
                   "category": "natural",
                   "coords": [
                         -82.777632,
@@ -18431,7 +18431,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Sheep Top",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A top in the National Forest where sheep graze.",
                   "category": "natural",
                   "coords": [
                         -82.779576,
@@ -18440,7 +18440,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "White Rock Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A mountain with prominent white rock outcroppings in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.759852,
@@ -18449,7 +18449,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Spring Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A mountain with natural springs in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.780131,
@@ -18458,7 +18458,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Dunsmore Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A mountain in the National Forest named after the Dunsmore family.",
                   "category": "natural",
                   "coords": [
                         -82.724296,
@@ -18467,7 +18467,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Standhill Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A prominent mountain in the National Forest that stands out.",
                   "category": "natural",
                   "coords": [
                         -82.730129,
@@ -18485,7 +18485,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Candler Knob",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A knob in the National Forest named after a local family.",
                   "category": "natural",
                   "coords": [
                         -82.73235,
@@ -18494,7 +18494,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Fork Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A mountain with a fork-like shape in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.705961,
@@ -18503,7 +18503,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Coffee Pot Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A mountain shaped like a coffee pot in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -82.677349,
@@ -18512,7 +18512,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ferrin Knob",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A knob in the National Forest named after a person named Ferrin.",
                   "category": "natural",
                   "coords": [
                         -82.673182,
@@ -18521,7 +18521,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Seniard Mountain",
-                  "text": "A peak in the Pisgah National Forest.",
+                  "text": "A mountain in the National Forest named after Seniard.",
                   "category": "natural",
                   "coords": [
                         -82.640958,
@@ -18573,7 +18573,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Owl Point",
-                  "text": "Owl Point ist ein Aussichtspunkt auf dem Mount Hood.",
+                  "text": "Ein felsiges Vorgebirge an den Hängen des Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.7181,
@@ -18582,7 +18582,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Inspiration Point ist ein Aussichtspunkt auf dem Mount Hood.",
+                  "text": "Ein Panoramablick auf die Nordseite des Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.64861,
@@ -18591,7 +18591,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Katsuk Point",
-                  "text": "Katsuk Point ist ein Aussichtspunkt auf dem Mount Hood.",
+                  "text": "Ein Aussichtspunkt entlang des Timberline Trails am Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.715007,
@@ -18600,7 +18600,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Rockpile",
-                  "text": "The Rockpile ist ein Aussichtspunkt auf dem Mount Hood.",
+                  "text": "Eine große vulkanische Felsformation nahe dem Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.720642,
@@ -18609,7 +18609,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Upper Sandy Guard Station Cabin",
-                  "text": "Die Upper Sandy Guard Station Cabin ist eine historische Hüttenruine auf dem Mount Hood.",
+                  "text": "Eine historische Rangerhütte am Sandy River am Mount Hood.",
                   "category": "historical",
                   "coords": [
                         -121.78274,
@@ -18618,7 +18618,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ramona Falls",
-                  "text": "Ramona Falls ist ein Wasserfall auf dem Mount Hood.",
+                  "text": "Ein 120 Fuß hoher Wasserfall am Sandy River nahe dem Mount Hood.",
                   "category": "landmark",
                   "coords": [
                         -121.776265,
@@ -18627,7 +18627,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Zigzag Canyon Rim",
-                  "text": "Zigzag Canyon Rim ist ein Aussichtspunkt auf dem Mount Hood.",
+                  "text": "Ein Aussichtspunkt über die Zigzag Canyon am Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.741151,
@@ -18636,7 +18636,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gnarl Ridge Shelter Remains",
-                  "text": "Die Gnarl Ridge Shelter Remains sind die Überreste einer Schutzhütte auf dem Mount Hood.",
+                  "text": "Überreste einer Schutzhütte auf dem Gnarl Ridge am Mount Hood.",
                   "category": "historical",
                   "coords": [
                         -121.64909,
@@ -18645,7 +18645,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hood Wilderness",
-                  "text": "Die Mount Hood Wilderness ist ein geschütztes Wildnisgebiet um den Mount Hood.",
+                  "text": "Ein 64.000 Hektar großes Wildnisgebiet rund um den Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.734968,
@@ -18663,7 +18663,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Timberline Lodge Ampitheater",
-                  "text": "Das Timberline Lodge Ampitheater ist ein Freilufttheater in der Timberline Lodge am Mount Hood.",
+                  "text": "Ein Freiluftamphitheater der Timberline Lodge am Mount Hood.",
                   "category": "cultural",
                   "coords": [
                         -121.712585,
@@ -18674,7 +18674,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Owl Point",
-                  "text": "Owl Point egy kilátópont a Mount Hoodon.",
+                  "text": "Sziklás kiszögellés a Hood-hegy lejtőin.",
                   "category": "natural",
                   "coords": [
                         -121.7181,
@@ -18683,7 +18683,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Inspiration Point egy kilátópont a Mount Hoodon.",
+                  "text": "Panorámás kilátó a Hood-hegy északi oldalára.",
                   "category": "natural",
                   "coords": [
                         -121.64861,
@@ -18692,7 +18692,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Katsuk Point",
-                  "text": "Katsuk Point egy kilátópont a Mount Hoodon.",
+                  "text": "Festői kilátó a Hood-hegy Timberline Trail ösvényén.",
                   "category": "natural",
                   "coords": [
                         -121.715007,
@@ -18701,7 +18701,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Rockpile",
-                  "text": "The Rockpile egy kilátópont a Mount Hoodon.",
+                  "text": "Egy nagy vulkanikus sziklaképződmény a Hood-hegy közelében.",
                   "category": "natural",
                   "coords": [
                         -121.720642,
@@ -18710,7 +18710,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Upper Sandy Guard Station Cabin",
-                  "text": "Upper Sandy Guard Station Cabin egy történelmi kunyhórom a Mount Hoodon.",
+                  "text": "Történelmi vadászókunyhó a Sandy River partján a Hood-hegyen.",
                   "category": "historical",
                   "coords": [
                         -121.78274,
@@ -18719,7 +18719,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ramona Falls",
-                  "text": "Ramona Falls egy vízesés a Mount Hoodon.",
+                  "text": "Egy 120 láb magas vízesés a Sandy Riveren, a Mount Hood közelében.",
                   "category": "landmark",
                   "coords": [
                         -121.776265,
@@ -18728,7 +18728,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Zigzag Canyon Rim",
-                  "text": "Zigzag Canyon Rim egy kilátópont a Mount Hoodon.",
+                  "text": "Kilátó a Zigzag-kanyonra a Hood-hegyen.",
                   "category": "natural",
                   "coords": [
                         -121.741151,
@@ -18737,7 +18737,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gnarl Ridge Shelter Remains",
-                  "text": "Gnarl Ridge Shelter Remains egy menedékház maradványai a Mount Hoodon.",
+                  "text": "Egy menedékhely maradványai a Gnarl Ridge-en a Hood-hegyen.",
                   "category": "historical",
                   "coords": [
                         -121.64909,
@@ -18746,7 +18746,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hood Wilderness",
-                  "text": "Mount Hood Wilderness egy védett vadon a Mount Hood körül.",
+                  "text": "Egy 64.000 hektáros vadon a Mount Hood körül.",
                   "category": "natural",
                   "coords": [
                         -121.734968,
@@ -18764,7 +18764,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Timberline Lodge Ampitheater",
-                  "text": "Timberline Lodge Ampitheater egy szabadtéri színház a Timberline Lodge-ban a Mount Hoodon.",
+                  "text": "Szabadtéri amfiteátrum a Timberline Lodge-nál a Hood-hegyen.",
                   "category": "cultural",
                   "coords": [
                         -121.712585,
@@ -18775,7 +18775,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Owl Point",
-                  "text": "Owl Point este un punct de belvedere pe Muntele Hood.",
+                  "text": "Un promontoriu stâncos pe versanții Muntelui Hood.",
                   "category": "natural",
                   "coords": [
                         -121.7181,
@@ -18784,7 +18784,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Inspiration Point este un punct de belvedere pe Muntele Hood.",
+                  "text": "Un punct de belvedere panoramic cu vedere pe partea de nord a Muntelui Hood.",
                   "category": "natural",
                   "coords": [
                         -121.64861,
@@ -18793,7 +18793,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Katsuk Point",
-                  "text": "Katsuk Point este un punct de belvedere pe Muntele Hood.",
+                  "text": "Un punct de belvedere pitoresc de-a lungul traseului Timberline pe Muntele Hood.",
                   "category": "natural",
                   "coords": [
                         -121.715007,
@@ -18802,7 +18802,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Rockpile",
-                  "text": "The Rockpile este un punct de belvedere pe Muntele Hood.",
+                  "text": "O formațiune vulcanică mare de stânci lângă Muntele Hood.",
                   "category": "natural",
                   "coords": [
                         -121.720642,
@@ -18811,7 +18811,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Upper Sandy Guard Station Cabin",
-                  "text": "Upper Sandy Guard Station Cabin este o ruină de cabană istorică pe Muntele Hood.",
+                  "text": "O cabană istorică de ranger de-a lungul râului Sandy pe Muntele Hood.",
                   "category": "historical",
                   "coords": [
                         -121.78274,
@@ -18820,7 +18820,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ramona Falls",
-                  "text": "Ramona Falls este o cascadă pe Muntele Hood.",
+                  "text": "O cascadă de 120 de picioare pe râul Sandy, lângă Muntele Hood.",
                   "category": "landmark",
                   "coords": [
                         -121.776265,
@@ -18829,7 +18829,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Zigzag Canyon Rim",
-                  "text": "Zigzag Canyon Rim este un punct de belvedere pe Muntele Hood.",
+                  "text": "Un punct de belvedere asupra Canionului Zigzag pe Muntele Hood.",
                   "category": "natural",
                   "coords": [
                         -121.741151,
@@ -18838,7 +18838,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gnarl Ridge Shelter Remains",
-                  "text": "Gnarl Ridge Shelter Remains sunt rămășițele unui adăpost pe Muntele Hood.",
+                  "text": "Vestigiile unui adăpost pe Gnarl Ridge pe Muntele Hood.",
                   "category": "historical",
                   "coords": [
                         -121.64909,
@@ -18847,7 +18847,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hood Wilderness",
-                  "text": "Mount Hood Wilderness este o zonă sălbatică protejată în jurul Muntelui Hood.",
+                  "text": "O zonă sălbatică de 64.000 de acri în jurul Muntelui Hood.",
                   "category": "natural",
                   "coords": [
                         -121.734968,
@@ -18865,7 +18865,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Timberline Lodge Ampitheater",
-                  "text": "Timberline Lodge Ampitheater este un teatru în aer liber la Timberline Lodge pe Muntele Hood.",
+                  "text": "Un amfiteatru în aer liber la Timberline Lodge pe Muntele Hood.",
                   "category": "cultural",
                   "coords": [
                         -121.712585,
@@ -18876,7 +18876,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Owl Point",
-                  "text": "Owl Point is a viewpoint on Mount Hood.",
+                  "text": "A rocky promontory on the slopes of Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.7181,
@@ -18885,7 +18885,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Inspiration Point",
-                  "text": "Inspiration Point is a viewpoint on Mount Hood.",
+                  "text": "A panoramic overlook of the north side of Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.64861,
@@ -18894,7 +18894,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Katsuk Point",
-                  "text": "Katsuk Point is a viewpoint on Mount Hood.",
+                  "text": "A scenic viewpoint along the Timberline Trail on Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.715007,
@@ -18903,7 +18903,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "The Rockpile",
-                  "text": "The Rockpile is a viewpoint on Mount Hood.",
+                  "text": "A large volcanic rock formation near Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.720642,
@@ -18912,7 +18912,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Upper Sandy Guard Station Cabin",
-                  "text": "Upper Sandy Guard Station Cabin is a historic cabin ruin on Mount Hood.",
+                  "text": "A historic ranger station cabin along the Sandy River on Mount Hood.",
                   "category": "historical",
                   "coords": [
                         -121.78274,
@@ -18921,7 +18921,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Ramona Falls",
-                  "text": "Ramona Falls is a waterfall on Mount Hood.",
+                  "text": "A 120-foot waterfall on the Sandy River near Mount Hood.",
                   "category": "landmark",
                   "coords": [
                         -121.776265,
@@ -18930,7 +18930,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Zigzag Canyon Rim",
-                  "text": "Zigzag Canyon Rim is a viewpoint on Mount Hood.",
+                  "text": "An overlook of the Zigzag Canyon on Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.741151,
@@ -18939,7 +18939,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Gnarl Ridge Shelter Remains",
-                  "text": "Gnarl Ridge Shelter Remains are the remains of a shelter on Mount Hood.",
+                  "text": "Remnants of a shelter on Gnarl Ridge on Mount Hood.",
                   "category": "historical",
                   "coords": [
                         -121.64909,
@@ -18948,7 +18948,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Mount Hood Wilderness",
-                  "text": "Mount Hood Wilderness is a protected wilderness area around Mount Hood.",
+                  "text": "A 64,000-acre wilderness area surrounding Mount Hood.",
                   "category": "natural",
                   "coords": [
                         -121.734968,
@@ -18966,7 +18966,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Timberline Lodge Ampitheater",
-                  "text": "Timberline Lodge Ampitheater is an outdoor theatre at Timberline Lodge on Mount Hood.",
+                  "text": "An outdoor amphitheater at Timberline Lodge on Mount Hood.",
                   "category": "cultural",
                   "coords": [
                         -121.712585,
@@ -19013,7 +19013,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Padre Island National Seashore",
-                  "text": "Padre Island National Seashore ist ein Nationalseeschutzgebiet auf Padre Island, bekannt für seine Meeresschildkröten.",
+                  "text": "Ein langer Barrierinselstrand mit unberührten Kilometern und Meeresschildkröten-Nistplätzen.",
                   "category": "natural",
                   "coords": [
                         -97.359011,
@@ -19024,7 +19024,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Padre Island National Seashore",
-                  "text": "Padre Island National Seashore egy nemzeti tengerparti védett terület Padre Islanden, amely tengeri teknősökről híres.",
+                  "text": "Hosszú gát-szigeti tengerpart, érintetlen kilométerekkel és tengeri teknős fészkelőhelyekkel.",
                   "category": "natural",
                   "coords": [
                         -97.359011,
@@ -19035,7 +19035,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Padre Island National Seashore",
-                  "text": "Padre Island National Seashore este o rezervație națională de coastă pe Padre Island, cunoscută pentru broaștele țestoase marine.",
+                  "text": "Un lung țărm de insulă barieră cu kilometri de plajă neatinsă și cuiburi de țestoase marine.",
                   "category": "natural",
                   "coords": [
                         -97.359011,
@@ -19046,7 +19046,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Padre Island National Seashore",
-                  "text": "Padre Island National Seashore is a national seashore on Padre Island, known for its sea turtle nesting.",
+                  "text": "A long barrier island seashore with miles of undeveloped beach and sea turtle nesting.",
                   "category": "natural",
                   "coords": [
                         -97.359011,
@@ -19147,7 +19147,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Twin Eagle Wildlife Management Area",
-                  "text": "Twin Eagle Wildlife Management Area ist ein Naturschutzgebiet in ohio-river-nature-v2.",
+                  "text": "Ein Feuchtgebietsschutzgebiet entlang des Missouri River für Wildtiere.",
                   "category": "natural",
                   "coords": [
                         -85.03267,
@@ -19167,7 +19167,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Twin Eagle Wildlife Management Area",
-                  "text": "Twin Eagle Wildlife Management Area egy vadvédelmi terület ohio-river-nature-v2-ben.",
+                  "text": "Vizes élőhely védett terület a Missouri folyó mentén vadon élő állatok számára.",
                   "category": "natural",
                   "coords": [
                         -85.03267,
@@ -19187,7 +19187,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Twin Eagle Wildlife Management Area",
-                  "text": "Twin Eagle Wildlife Management Area este o rezervație naturală în ohio-river-nature-v2.",
+                  "text": "O rezervație de zone umede de-a lungul râului Missouri pentru fauna sălbatică.",
                   "category": "natural",
                   "coords": [
                         -85.03267,
@@ -19207,7 +19207,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Twin Eagle Wildlife Management Area",
-                  "text": "Twin Eagle Wildlife Management Area is a nature reserve in ohio-river-nature-v2.",
+                  "text": "A wetland preserve along the Missouri River for wildlife.",
                   "category": "natural",
                   "coords": [
                         -85.03267,
@@ -19259,7 +19259,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "de": [
             {
                   "name": "Paradise Peak",
-                  "text": "Der Paradise Peak ist ein Gipfel im Sawtooth National Forest.",
+                  "text": "Ein malerischer Gipfel im National Forest.",
                   "category": "natural",
                   "coords": [
                         -114.849235,
@@ -19268,7 +19268,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Two Point Mountain",
-                  "text": "Der Two Point Mountain ist ein Gipfel im Sawtooth National Forest.",
+                  "text": "Ein Berg mit zwei markanten Gipfeln im National Forest.",
                   "category": "natural",
                   "coords": [
                         -114.976739,
@@ -19279,7 +19279,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "hu": [
             {
                   "name": "Paradise Peak",
-                  "text": "A Paradise Peak egy csúcs a Sawtooth National Forestben.",
+                  "text": "Egy festői csúcs a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -114.849235,
@@ -19288,7 +19288,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Two Point Mountain",
-                  "text": "A Two Point Mountain egy csúcs a Sawtooth National Forestben.",
+                  "text": "Egy hegy két jellegzetes csúccsal a Nemzeti Erdőben.",
                   "category": "natural",
                   "coords": [
                         -114.976739,
@@ -19299,7 +19299,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "ro": [
             {
                   "name": "Paradise Peak",
-                  "text": "Paradise Peak este un vârf în Pădurea Națională Sawtooth.",
+                  "text": "Un vârf pitoresc în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -114.849235,
@@ -19308,7 +19308,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Two Point Mountain",
-                  "text": "Two Point Mountain este un vârf în Pădurea Națională Sawtooth.",
+                  "text": "Un munte cu două vârfuri distincte în Pădurea Națională.",
                   "category": "natural",
                   "coords": [
                         -114.976739,
@@ -19319,7 +19319,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       "en": [
             {
                   "name": "Paradise Peak",
-                  "text": "Paradise Peak is a peak in Sawtooth National Forest.",
+                  "text": "A scenic peak in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -114.849235,
@@ -19328,7 +19328,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
             },
             {
                   "name": "Two Point Mountain",
-                  "text": "Two Point Mountain is a peak in Sawtooth National Forest.",
+                  "text": "A mountain with two distinct peaks in the National Forest.",
                   "category": "natural",
                   "coords": [
                         -114.976739,

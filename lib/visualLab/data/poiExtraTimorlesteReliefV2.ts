@@ -3,7 +3,304 @@ import type { POI } from "./poi";
 
 export const poiExtraTimorlesteReliefV2: POI[] = [
   {
-    id: "mount-builo-relief-v2",
+    id: "mount-builo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capela de Cai-Rui",
+                  "text": "Die christliche Kapelle von Cai-Rui bietet einen besinnlichen Rückzugsort in der bergigen Landschaft am Mount Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.143798,
+                        -8.610436
+                  ]
+            },
+            {
+                  "name": "Capela Uaicnassa",
+                  "text": "Die christliche Kapelle Uaicnassa dient als lokaler Versammlungsort für die Gläubigen in der Region des Mount Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.266331,
+                        -8.590193
+                  ]
+            },
+            {
+                  "name": "Capela Uaigae",
+                  "text": "Eingebettet in das Relief des Mount Builo, ist die christliche Kapelle Uaigae ein Ort der stillen Einkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        126.207414,
+                        -8.581937
+                  ]
+            },
+            {
+                  "name": "Capela Osso-Queli Cai-Cua da Nossa Senhora do Rosário",
+                  "text": "Diese Kapelle nahe des Mount Builo ist Unserer Lieben Frau vom Rosenkranz geweiht und zieht lokale Gläubige an.",
+                  "category": "landmark",
+                  "coords": [
+                        126.25344,
+                        -8.542032
+                  ]
+            },
+            {
+                  "name": "Igreza Nossa Senhora da Graca de Vemasse",
+                  "text": "Die Kirche Nossa Senhora da Graça in Vemasse ist ein bedeutendes christliches Bauwerk in den Ausläufern des Mount Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.210253,
+                        -8.511846
+                  ]
+            },
+            {
+                  "name": "Capela Maria Auxiliadora dos Cristãos Samalai",
+                  "text": "Die christliche Kapelle in Samalai ist Maria, der Hilfe der Christen, gewidmet und steht in der Nähe des Mount Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.160929,
+                        -8.576673
+                  ]
+            },
+            {
+                  "name": "Mercado Local de Cai-Rui",
+                  "text": "Auf diesem lokalen Markt in Cai-Rui tauschen die Bergbewohner des Mount Builo ihre landwirtschaftlichen Erzeugnisse.",
+                  "category": "cultural",
+                  "coords": [
+                        126.143261,
+                        -8.606271
+                  ]
+            },
+            {
+                  "name": "Mini Market Vemasse",
+                  "text": "Dieser kleine Markt in Vemasse versorgt die lokale Bevölkerung in den Ausläufern des Mount Builo mit Dingen des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        126.21283,
+                        -8.51155
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capela de Cai-Rui",
+                  "text": "A cai-rui keresztény kápolna békés menedéket nyújt a Mount Builo hegyvidéki tájain.",
+                  "category": "landmark",
+                  "coords": [
+                        126.143798,
+                        -8.610436
+                  ]
+            },
+            {
+                  "name": "Capela Uaicnassa",
+                  "text": "Az Uaicnassa keresztény kápolna a hívők helyi gyülekezőhelyeként szolgál a Mount Builo régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.266331,
+                        -8.590193
+                  ]
+            },
+            {
+                  "name": "Capela Uaigae",
+                  "text": "A Mount Builo domborzati formái közé ékelődő Uaigae keresztény kápolna a csendes elmélkedés helye.",
+                  "category": "landmark",
+                  "coords": [
+                        126.207414,
+                        -8.581937
+                  ]
+            },
+            {
+                  "name": "Capela Osso-Queli Cai-Cua da Nossa Senhora do Rosário",
+                  "text": "Ezt a Mount Builo közelében fekvő kápolnát a Rózsafüzér Királynőjének szentelték, és vonzza a helyi hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        126.25344,
+                        -8.542032
+                  ]
+            },
+            {
+                  "name": "Igreza Nossa Senhora da Graca de Vemasse",
+                  "text": "A vemassei Nossa Senhora da Graça templom egy jelentős keresztény építmény a Mount Builo lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        126.210253,
+                        -8.511846
+                  ]
+            },
+            {
+                  "name": "Capela Maria Auxiliadora dos Cristãos Samalai",
+                  "text": "A samalai keresztény kápolnát a Keresztények Segítségének, Máriának szentelték, és a Mount Builo közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        126.160929,
+                        -8.576673
+                  ]
+            },
+            {
+                  "name": "Mercado Local de Cai-Rui",
+                  "text": "Ezen a Cai-Rui-i helyi piacon a Mount Builo hegyi lakói cserélik ki mezőgazdasági termékeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        126.143261,
+                        -8.606271
+                  ]
+            },
+            {
+                  "name": "Mini Market Vemasse",
+                  "text": "Ez a kis vemassei piac a mindennapi szükségletekhez szükséges cikkekkel látja el a Mount Builo lábánál élő helyi lakosságot.",
+                  "category": "cultural",
+                  "coords": [
+                        126.21283,
+                        -8.51155
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capela de Cai-Rui",
+                  "text": "Capela creștină din Cai-Rui oferă un refugiu liniștit în peisajul muntos din zona Mount Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.143798,
+                        -8.610436
+                  ]
+            },
+            {
+                  "name": "Capela Uaicnassa",
+                  "text": "Capela creștină Uaicnassa servește ca loc de adunare locală pentru credincioșii din regiunea Mount Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.266331,
+                        -8.590193
+                  ]
+            },
+            {
+                  "name": "Capela Uaigae",
+                  "text": "Ascunsă în relieful din zona Mount Builo, capela creștină Uaigae este un loc de reculegere tăcută.",
+                  "category": "landmark",
+                  "coords": [
+                        126.207414,
+                        -8.581937
+                  ]
+            },
+            {
+                  "name": "Capela Osso-Queli Cai-Cua da Nossa Senhora do Rosário",
+                  "text": "Această capelă din apropiere de Mount Builo este dedicată Fecioarei Rozariului și atrage credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        126.25344,
+                        -8.542032
+                  ]
+            },
+            {
+                  "name": "Igreza Nossa Senhora da Graca de Vemasse",
+                  "text": "Biserica Nossa Senhora da Graça din Vemasse este o clădire creștină importantă la poalele Muntelui Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.210253,
+                        -8.511846
+                  ]
+            },
+            {
+                  "name": "Capela Maria Auxiliadora dos Cristãos Samalai",
+                  "text": "Capela creștină din Samalai este dedicată Mariei, Ajutorul Creștinilor, și se află în apropiere de Mount Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.160929,
+                        -8.576673
+                  ]
+            },
+            {
+                  "name": "Mercado Local de Cai-Rui",
+                  "text": "În această piață locală din Cai-Rui, locuitorii munților din zona Mount Builo își schimbă produsele agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        126.143261,
+                        -8.606271
+                  ]
+            },
+            {
+                  "name": "Mini Market Vemasse",
+                  "text": "Această mică piață din Vemasse furnizează populației locale de la poalele Mount Builo produsele de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        126.21283,
+                        -8.51155
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capela de Cai-Rui",
+                  "text": "The Christian chapel of Cai-Rui offers a peaceful retreat in the mountainous terrain of the Mount Builo area.",
+                  "category": "landmark",
+                  "coords": [
+                        126.143798,
+                        -8.610436
+                  ]
+            },
+            {
+                  "name": "Capela Uaicnassa",
+                  "text": "The Christian chapel of Uaicnassa serves as a local gathering place for worshippers in the Mount Builo region.",
+                  "category": "landmark",
+                  "coords": [
+                        126.266331,
+                        -8.590193
+                  ]
+            },
+            {
+                  "name": "Capela Uaigae",
+                  "text": "Nestled in the relief of Mount Builo, the Christian chapel of Uaigae is a place for quiet reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        126.207414,
+                        -8.581937
+                  ]
+            },
+            {
+                  "name": "Capela Osso-Queli Cai-Cua da Nossa Senhora do Rosário",
+                  "text": "This chapel near Mount Builo is dedicated to Our Lady of the Rosary and attracts local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        126.25344,
+                        -8.542032
+                  ]
+            },
+            {
+                  "name": "Igreza Nossa Senhora da Graca de Vemasse",
+                  "text": "The Church of Nossa Senhora da Graça in Vemasse is an important Christian structure in the foothills of Mount Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.210253,
+                        -8.511846
+                  ]
+            },
+            {
+                  "name": "Capela Maria Auxiliadora dos Cristãos Samalai",
+                  "text": "The Christian chapel in Samalai is dedicated to Mary, Help of Christians, and stands near Mount Builo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.160929,
+                        -8.576673
+                  ]
+            },
+            {
+                  "name": "Mercado Local de Cai-Rui",
+                  "text": "At this local market in Cai-Rui, the mountain dwellers of Mount Builo trade their agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        126.143261,
+                        -8.606271
+                  ]
+            },
+            {
+                  "name": "Mini Market Vemasse",
+                  "text": "This small market in Vemasse supplies the local population in the foothills of Mount Builo with daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        126.21283,
+                        -8.51155
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-VI",
     coords: [126.2000, -8.6000],
@@ -47,7 +344,160 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-manucoco-relief-v2",
+    id: "mount-manucoco-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pulau Atauro",
+                  "text": "Pulau Atauro ist ein markanter Gipfel in mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.556111,
+                        -8.277778
+                  ]
+            },
+            {
+                  "name": "trial waterfall close",
+                  "text": "Trial waterfall close ist ein malerischer Aussichtspunkt in mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.547246,
+                        -8.27582
+                  ]
+            },
+            {
+                  "name": "trail hill start",
+                  "text": "Trail hill start ist ein erhöhter Aussichtspunkt in mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.546809,
+                        -8.223345
+                  ]
+            },
+            {
+                  "name": "middle point top view",
+                  "text": "Middle point top view ist eine Aussichtsplattform in mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.542418,
+                        -8.238227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pulau Atauro",
+                  "text": "A Pulau Atauro egy kiemelkedő hegycsúcs mount-manucoco-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.556111,
+                        -8.277778
+                  ]
+            },
+            {
+                  "name": "trial waterfall close",
+                  "text": "A trial waterfall close egy festői kilátóhely mount-manucoco-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.547246,
+                        -8.27582
+                  ]
+            },
+            {
+                  "name": "trail hill start",
+                  "text": "A trail hill start egy emelkedett kilátópont és túrainduló állomás mount-manucoco-relief-v2 városában.",
+                  "category": "natural",
+                  "coords": [
+                        125.546809,
+                        -8.223345
+                  ]
+            },
+            {
+                  "name": "middle point top view",
+                  "text": "A middle point top view egy tájra néző kilátóhely mount-manucoco-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.542418,
+                        -8.238227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pulau Atauro",
+                  "text": "Pulau Atauro este un vârf muntos proeminent din mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.556111,
+                        -8.277778
+                  ]
+            },
+            {
+                  "name": "trial waterfall close",
+                  "text": "Trial waterfall close este un punct de observație pitoresc situat în mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.547246,
+                        -8.27582
+                  ]
+            },
+            {
+                  "name": "trail hill start",
+                  "text": "Trail hill start este un punct de perspectivă situat în mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.546809,
+                        -8.223345
+                  ]
+            },
+            {
+                  "name": "middle point top view",
+                  "text": "Middle point top view este un punct de belvedere panoramic din mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.542418,
+                        -8.238227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pulau Atauro",
+                  "text": "Pulau Atauro is a prominent natural peak found within mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.556111,
+                        -8.277778
+                  ]
+            },
+            {
+                  "name": "trial waterfall close",
+                  "text": "Trial waterfall close is a scenic viewpoint offering nature vistas in mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.547246,
+                        -8.27582
+                  ]
+            },
+            {
+                  "name": "trail hill start",
+                  "text": "Trail hill start is an elevated viewpoint that serves as a hiking reference in mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.546809,
+                        -8.223345
+                  ]
+            },
+            {
+                  "name": "middle point top view",
+                  "text": "Middle point top view is a scenic observation area situated in mount-manucoco-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.542418,
+                        -8.238227
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-DI",
     coords: [125.5500, -8.2600],
@@ -91,7 +541,772 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-legumau-relief-v2",
+    id: "mount-legumau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lolo Fataluu",
+                  "text": "Lolo Fataluu ist ein Berggipfel in der Region mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.143056,
+                        -9.028333
+                  ]
+            },
+            {
+                  "name": "Foho Maubesi",
+                  "text": "Foho Maubesi ist ein Gipfel in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.118056,
+                        -9.050556
+                  ]
+            },
+            {
+                  "name": "Foho Meak",
+                  "text": "Foho Meak ist ein Berggipfel in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.132778,
+                        -9.028056
+                  ]
+            },
+            {
+                  "name": "Foho Dilataun",
+                  "text": "Foho Dilataun ist ein Gipfel in der Gegend von mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.117778,
+                        -9.024722
+                  ]
+            },
+            {
+                  "name": "Foho Lendikin",
+                  "text": "Foho Lendikin ist ein Berggipfel in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.092778,
+                        -9.020556
+                  ]
+            },
+            {
+                  "name": "Foho Lakmau",
+                  "text": "Foho Lakmau ist ein Gipfel, der sich in mount-legumau-relief-v2 erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        125.097222,
+                        -9.038333
+                  ]
+            },
+            {
+                  "name": "Foho Fatloto",
+                  "text": "Foho Fatloto ist ein markanter Gipfel in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.056944,
+                        -9.067222
+                  ]
+            },
+            {
+                  "name": "Foho Fabuahan",
+                  "text": "Foho Fabuahan ist ein Berggipfel in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.056389,
+                        -9.071667
+                  ]
+            },
+            {
+                  "name": "Foho Loke",
+                  "text": "Foho Loke ist ein Gipfel in der Region mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.063611,
+                        -9.080278
+                  ]
+            },
+            {
+                  "name": "Foho Ularan",
+                  "text": "Foho Ularan ist ein Berggipfel in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.083611,
+                        -9.079722
+                  ]
+            },
+            {
+                  "name": "Foho Aninawan",
+                  "text": "Foho Aninawan ist ein natürlicher Berggipfel in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.090833,
+                        -9.078611
+                  ]
+            },
+            {
+                  "name": "Foho Umil",
+                  "text": "Foho Umil ist ein Gipfel in der Landschaft von mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.089722,
+                        -9.083889
+                  ]
+            },
+            {
+                  "name": "Foho Gikitlolon",
+                  "text": "Foho Gikitlolon ist ein Berggipfel, der sich in mount-legumau-relief-v2 befindet.",
+                  "category": "natural",
+                  "coords": [
+                        125.100556,
+                        -9.078056
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Aloysius Gonzaga, Haekesak",
+                  "text": "Gereja Santo Aloysius Gonzaga, Haekesak ist eine bekannte Kultstätte in mount-legumau-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.116451,
+                        -9.005429
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "Gereja ist eine christliche Stätte in mount-legumau-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.14598,
+                        -8.971698
+                  ]
+            },
+            {
+                  "name": "College Biara",
+                  "text": "College Biara ist eine christliche Einrichtung in mount-legumau-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.128147,
+                        -8.968754
+                  ]
+            },
+            {
+                  "name": "Kapela Cristo Rei Faloai",
+                  "text": "Kapela Cristo Rei Faloai ist eine christliche Kapelle in mount-legumau-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.0737,
+                        -9.010551
+                  ]
+            },
+            {
+                  "name": "Pasar Rakyat Builalu",
+                  "text": "Pasar Rakyat Builalu ist ein lokaler Markt in mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.155318,
+                        -9.041468
+                  ]
+            },
+            {
+                  "name": "Pasar Haekesak",
+                  "text": "Pasar Haekesak ist ein Marktplatz in mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.115185,
+                        -9.00452
+                  ]
+            },
+            {
+                  "name": "Pasar Rakyat Perbatasan Turiskain",
+                  "text": "Pasar Rakyat Perbatasan Turiskain ist ein Marktplatz an der Grenze in mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.132518,
+                        -8.995388
+                  ]
+            },
+            {
+                  "name": "Pasar Weluli",
+                  "text": "Pasar Weluli ist ein belebter lokaler Markt in mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.103437,
+                        -9.089765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lolo Fataluu",
+                  "text": "A Lolo Fataluu egy hegycsúcs mount-legumau-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.143056,
+                        -9.028333
+                  ]
+            },
+            {
+                  "name": "Foho Maubesi",
+                  "text": "A Foho Maubesi egy hegycsúcs, amely mount-legumau-relief-v2 területén fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        125.118056,
+                        -9.050556
+                  ]
+            },
+            {
+                  "name": "Foho Meak",
+                  "text": "A Foho Meak egy hegycsúcs mount-legumau-relief-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        125.132778,
+                        -9.028056
+                  ]
+            },
+            {
+                  "name": "Foho Dilataun",
+                  "text": "A Foho Dilataun egy hegycsúcs mount-legumau-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.117778,
+                        -9.024722
+                  ]
+            },
+            {
+                  "name": "Foho Lendikin",
+                  "text": "A Foho Lendikin egy hegycsúcs mount-legumau-relief-v2 környékén.",
+                  "category": "natural",
+                  "coords": [
+                        125.092778,
+                        -9.020556
+                  ]
+            },
+            {
+                  "name": "Foho Lakmau",
+                  "text": "A Foho Lakmau egy hegycsúcs mount-legumau-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.097222,
+                        -9.038333
+                  ]
+            },
+            {
+                  "name": "Foho Fatloto",
+                  "text": "A Foho Fatloto egy hegycsúcs mount-legumau-relief-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        125.056944,
+                        -9.067222
+                  ]
+            },
+            {
+                  "name": "Foho Fabuahan",
+                  "text": "A Foho Fabuahan egy csúcs mount-legumau-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.056389,
+                        -9.071667
+                  ]
+            },
+            {
+                  "name": "Foho Loke",
+                  "text": "A Foho Loke egy hegycsúcs mount-legumau-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.063611,
+                        -9.080278
+                  ]
+            },
+            {
+                  "name": "Foho Ularan",
+                  "text": "A Foho Ularan egy kiemelkedő csúcs mount-legumau-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.083611,
+                        -9.079722
+                  ]
+            },
+            {
+                  "name": "Foho Aninawan",
+                  "text": "A Foho Aninawan egy természetes hegycsúcs mount-legumau-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.090833,
+                        -9.078611
+                  ]
+            },
+            {
+                  "name": "Foho Umil",
+                  "text": "A Foho Umil egy hegycsúcs mount-legumau-relief-v2 körzetében.",
+                  "category": "natural",
+                  "coords": [
+                        125.089722,
+                        -9.083889
+                  ]
+            },
+            {
+                  "name": "Foho Gikitlolon",
+                  "text": "A Foho Gikitlolon egy hegycsúcs mount-legumau-relief-v2 régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        125.100556,
+                        -9.078056
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Aloysius Gonzaga, Haekesak",
+                  "text": "A Gereja Santo Aloysius Gonzaga, Haekesak egy elismert istentiszteleti hely mount-legumau-relief-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        125.116451,
+                        -9.005429
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "A Gereja egy keresztény vallási helyszín mount-legumau-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.14598,
+                        -8.971698
+                  ]
+            },
+            {
+                  "name": "College Biara",
+                  "text": "A College Biara egy keresztény létesítmény mount-legumau-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.128147,
+                        -8.968754
+                  ]
+            },
+            {
+                  "name": "Kapela Cristo Rei Faloai",
+                  "text": "A Kapela Cristo Rei Faloai egy keresztény kápolna mount-legumau-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.0737,
+                        -9.010551
+                  ]
+            },
+            {
+                  "name": "Pasar Rakyat Builalu",
+                  "text": "A Pasar Rakyat Builalu egy helyi piac mount-legumau-relief-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.155318,
+                        -9.041468
+                  ]
+            },
+            {
+                  "name": "Pasar Haekesak",
+                  "text": "A Pasar Haekesak egy piac mount-legumau-relief-v2 régiójában.",
+                  "category": "cultural",
+                  "coords": [
+                        125.115185,
+                        -9.00452
+                  ]
+            },
+            {
+                  "name": "Pasar Rakyat Perbatasan Turiskain",
+                  "text": "A Pasar Rakyat Perbatasan Turiskain egy piac mount-legumau-relief-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.132518,
+                        -8.995388
+                  ]
+            },
+            {
+                  "name": "Pasar Weluli",
+                  "text": "A Pasar Weluli egy helyi piac mount-legumau-relief-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.103437,
+                        -9.089765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lolo Fataluu",
+                  "text": "Lolo Fataluu este un vârf de munte în regiunea mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.143056,
+                        -9.028333
+                  ]
+            },
+            {
+                  "name": "Foho Maubesi",
+                  "text": "Foho Maubesi este un vârf montan situat în mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.118056,
+                        -9.050556
+                  ]
+            },
+            {
+                  "name": "Foho Meak",
+                  "text": "Foho Meak este un vârf de munte aflat în mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.132778,
+                        -9.028056
+                  ]
+            },
+            {
+                  "name": "Foho Dilataun",
+                  "text": "Foho Dilataun este un vârf situat în mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.117778,
+                        -9.024722
+                  ]
+            },
+            {
+                  "name": "Foho Lendikin",
+                  "text": "Foho Lendikin este un vârf montan din mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.092778,
+                        -9.020556
+                  ]
+            },
+            {
+                  "name": "Foho Lakmau",
+                  "text": "Foho Lakmau este un vârf de munte situat în mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.097222,
+                        -9.038333
+                  ]
+            },
+            {
+                  "name": "Foho Fatloto",
+                  "text": "Foho Fatloto este un vârf proeminent din mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.056944,
+                        -9.067222
+                  ]
+            },
+            {
+                  "name": "Foho Fabuahan",
+                  "text": "Foho Fabuahan este un vârf situat în mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.056389,
+                        -9.071667
+                  ]
+            },
+            {
+                  "name": "Foho Loke",
+                  "text": "Foho Loke este un vârf de munte aflat în mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.063611,
+                        -9.080278
+                  ]
+            },
+            {
+                  "name": "Foho Ularan",
+                  "text": "Foho Ularan este un vârf de munte situat în mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.083611,
+                        -9.079722
+                  ]
+            },
+            {
+                  "name": "Foho Aninawan",
+                  "text": "Foho Aninawan este un vârf de munte natural din mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.090833,
+                        -9.078611
+                  ]
+            },
+            {
+                  "name": "Foho Umil",
+                  "text": "Foho Umil este un vârf localizat în peisajul din mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.089722,
+                        -9.083889
+                  ]
+            },
+            {
+                  "name": "Foho Gikitlolon",
+                  "text": "Foho Gikitlolon este un vârf de munte situat în mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.100556,
+                        -9.078056
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Aloysius Gonzaga, Haekesak",
+                  "text": "Gereja Santo Aloysius Gonzaga, Haekesak este un lăcaș de cult recunoscut din mount-legumau-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.116451,
+                        -9.005429
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "Gereja este o locație creștină situată în mount-legumau-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.14598,
+                        -8.971698
+                  ]
+            },
+            {
+                  "name": "College Biara",
+                  "text": "College Biara este o instituție creștină din mount-legumau-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.128147,
+                        -8.968754
+                  ]
+            },
+            {
+                  "name": "Kapela Cristo Rei Faloai",
+                  "text": "Kapela Cristo Rei Faloai este o capelă creștină situată în mount-legumau-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.0737,
+                        -9.010551
+                  ]
+            },
+            {
+                  "name": "Pasar Rakyat Builalu",
+                  "text": "Pasar Rakyat Builalu este o piață locală din mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.155318,
+                        -9.041468
+                  ]
+            },
+            {
+                  "name": "Pasar Haekesak",
+                  "text": "Pasar Haekesak este o piață în mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.115185,
+                        -9.00452
+                  ]
+            },
+            {
+                  "name": "Pasar Rakyat Perbatasan Turiskain",
+                  "text": "Pasar Rakyat Perbatasan Turiskain este o piață aflată în mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.132518,
+                        -8.995388
+                  ]
+            },
+            {
+                  "name": "Pasar Weluli",
+                  "text": "Pasar Weluli este o piață locală din mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.103437,
+                        -9.089765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lolo Fataluu",
+                  "text": "Lolo Fataluu is a peak found in the mount-legumau-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        125.143056,
+                        -9.028333
+                  ]
+            },
+            {
+                  "name": "Foho Maubesi",
+                  "text": "Foho Maubesi is a mountain peak situated in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.118056,
+                        -9.050556
+                  ]
+            },
+            {
+                  "name": "Foho Meak",
+                  "text": "Foho Meak is a mountain peak rising in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.132778,
+                        -9.028056
+                  ]
+            },
+            {
+                  "name": "Foho Dilataun",
+                  "text": "Foho Dilataun is a peak located within mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.117778,
+                        -9.024722
+                  ]
+            },
+            {
+                  "name": "Foho Lendikin",
+                  "text": "Foho Lendikin is a mountain peak situated in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.092778,
+                        -9.020556
+                  ]
+            },
+            {
+                  "name": "Foho Lakmau",
+                  "text": "Foho Lakmau is an elevated peak found in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.097222,
+                        -9.038333
+                  ]
+            },
+            {
+                  "name": "Foho Fatloto",
+                  "text": "Foho Fatloto is a prominent peak located in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.056944,
+                        -9.067222
+                  ]
+            },
+            {
+                  "name": "Foho Fabuahan",
+                  "text": "Foho Fabuahan is a scenic peak situated within mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.056389,
+                        -9.071667
+                  ]
+            },
+            {
+                  "name": "Foho Loke",
+                  "text": "Foho Loke is a mountain peak located in the mount-legumau-relief-v2 area.",
+                  "category": "natural",
+                  "coords": [
+                        125.063611,
+                        -9.080278
+                  ]
+            },
+            {
+                  "name": "Foho Ularan",
+                  "text": "Foho Ularan is a peak rising in the mount-legumau-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        125.083611,
+                        -9.079722
+                  ]
+            },
+            {
+                  "name": "Foho Aninawan",
+                  "text": "Foho Aninawan is a natural mountain peak in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.090833,
+                        -9.078611
+                  ]
+            },
+            {
+                  "name": "Foho Umil",
+                  "text": "Foho Umil is a peak located in the landscape of mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.089722,
+                        -9.083889
+                  ]
+            },
+            {
+                  "name": "Foho Gikitlolon",
+                  "text": "Foho Gikitlolon is a notable mountain peak situated in mount-legumau-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.100556,
+                        -9.078056
+                  ]
+            },
+            {
+                  "name": "Gereja Santo Aloysius Gonzaga, Haekesak",
+                  "text": "Gereja Santo Aloysius Gonzaga, Haekesak is a recognized place of worship in mount-legumau-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.116451,
+                        -9.005429
+                  ]
+            },
+            {
+                  "name": "Gereja",
+                  "text": "Gereja is a Christian site located in mount-legumau-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.14598,
+                        -8.971698
+                  ]
+            },
+            {
+                  "name": "College Biara",
+                  "text": "College Biara is a Christian site located in mount-legumau-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.128147,
+                        -8.968754
+                  ]
+            },
+            {
+                  "name": "Kapela Cristo Rei Faloai",
+                  "text": "Kapela Cristo Rei Faloai is a Christian chapel in mount-legumau-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.0737,
+                        -9.010551
+                  ]
+            },
+            {
+                  "name": "Pasar Rakyat Builalu",
+                  "text": "Pasar Rakyat Builalu is a local marketplace situated in mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.155318,
+                        -9.041468
+                  ]
+            },
+            {
+                  "name": "Pasar Haekesak",
+                  "text": "Pasar Haekesak is a traditional market operating in mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.115185,
+                        -9.00452
+                  ]
+            },
+            {
+                  "name": "Pasar Rakyat Perbatasan Turiskain",
+                  "text": "Pasar Rakyat Perbatasan Turiskain is a border marketplace located in mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.132518,
+                        -8.995388
+                  ]
+            },
+            {
+                  "name": "Pasar Weluli",
+                  "text": "Pasar Weluli is a bustling local marketplace in mount-legumau-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.103437,
+                        -9.089765
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-BO",
     coords: [125.1000, -9.0000],
@@ -135,7 +1350,52 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "baucau-plateau-relief-v2",
+    id: "baucau-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capeala Haurobu",
+                  "text": "Diese christliche Kapelle in Haurobu erhebt sich in der Weite des Baucau-Plateaus.",
+                  "category": "landmark",
+                  "coords": [
+                        126.41683,
+                        -8.442192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capeala Haurobu",
+                  "text": "Ez a haurobui keresztény kápolna a Baucau-fennsík tágasságában emelkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        126.41683,
+                        -8.442192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capeala Haurobu",
+                  "text": "Această capelă creștină din Haurobu se înalță în întinderea platoului Baucau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.41683,
+                        -8.442192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capeala Haurobu",
+                  "text": "This Christian chapel in Haurobu rises in the vastness of the Baucau Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        126.41683,
+                        -8.442192
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "TL-BA",
     coords: [126.4000, -8.4500],
@@ -179,7 +1439,88 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "fuiloro-plateau-relief-v2",
+    id: "fuiloro-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein Sandstrand, der den Küstenrand unterhalb des erhöhten Geländes des Fuiloro-Plateaus markiert.",
+                  "category": "recreational",
+                  "coords": [
+                        126.848377,
+                        -8.388173
+                  ]
+            },
+            {
+                  "name": "#Kapela#Sao Joao Apostolo e Evangelista, Maina I",
+                  "text": "Eine Kirche, die dem Apostel und Evangelisten Johannes geweiht ist und sich im Dorf Maina I auf dem Fuiloro-Plateau befindet.",
+                  "category": "religious",
+                  "coords": [
+                        126.910676,
+                        -8.402257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Homokos strand, amely a Fuiloro-fennsík magasabban fekvő területei alatti partvonalat szegélyezi.",
+                  "category": "recreational",
+                  "coords": [
+                        126.848377,
+                        -8.388173
+                  ]
+            },
+            {
+                  "name": "#Kapela#Sao Joao Apostolo e Evangelista, Maina I",
+                  "text": "Szent János apostolnak és evangélistának szentelt templom a Fuiloro-fennsíkon fekvő Maina I faluban.",
+                  "category": "religious",
+                  "coords": [
+                        126.910676,
+                        -8.402257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O plajă cu nisip care marchează marginea de coastă sub terenul ridicat al Podișului Fuiloro.",
+                  "category": "recreational",
+                  "coords": [
+                        126.848377,
+                        -8.388173
+                  ]
+            },
+            {
+                  "name": "#Kapela#Sao Joao Apostolo e Evangelista, Maina I",
+                  "text": "O biserică dedicată Sfântului Ioan Apostolul și Evanghelistul, situată în satul Maina I de pe Podișul Fuiloro.",
+                  "category": "religious",
+                  "coords": [
+                        126.910676,
+                        -8.402257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A sandy beach marking the coastal edge below the elevated terrain of the Fuiloro Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        126.848377,
+                        -8.388173
+                  ]
+            },
+            {
+                  "name": "#Kapela#Sao Joao Apostolo e Evangelista, Maina I",
+                  "text": "A local church dedicated to St. John the Apostle and Evangelist, located in the village of Maina I on the Fuiloro Plateau.",
+                  "category": "religious",
+                  "coords": [
+                        126.910676,
+                        -8.402257
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "TL-LA",
     coords: [126.9000, -8.4000],
@@ -223,7 +1564,52 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-paitchau-relief-v2",
+    id: "mount-paitchau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein rauer Küstenstrand, der im dramatischen Schatten des Kalksteinmassivs des Berges Paitchau liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        127.161051,
+                        -8.541426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Zord tengerparti strand, amely a Paitchau-hegy mészkőmasszívumának drámai árnyékában fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        127.161051,
+                        -8.541426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O plajă de coastă accidentată care se află în umbra dramatică a masivului de calcar al Muntelui Paitchau.",
+                  "category": "recreational",
+                  "coords": [
+                        127.161051,
+                        -8.541426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A rugged coastal beach lying in the dramatic shadow of the Mount Paitchau limestone massif.",
+                  "category": "recreational",
+                  "coords": [
+                        127.161051,
+                        -8.541426
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-LA",
     coords: [127.1600, -8.5000],
@@ -267,7 +1653,124 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-bibileo-relief-v2",
+    id: "mount-bibileo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "View point",
+                  "text": "Dieser View point bietet eine schöne Aussicht in mount-bibileo-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.426959,
+                        -8.658488
+                  ]
+            },
+            {
+                  "name": "Capela Sao Joao Paulo II Uai-oli",
+                  "text": "Capela Sao Joao Paulo II Uai-oli ist eine christliche Stätte in mount-bibileo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.423935,
+                        -8.673004
+                  ]
+            },
+            {
+                  "name": "Bee manas Uaicana",
+                  "text": "Bee manas Uaicana ist eine Thermalquelle in mount-bibileo-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.433033,
+                        -8.645968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View point",
+                  "text": "Ez a kilátópont gyönyörű panorámát nyújt a mount-bibileo-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        126.426959,
+                        -8.658488
+                  ]
+            },
+            {
+                  "name": "Capela Sao Joao Paulo II Uai-oli",
+                  "text": "A Capela Sao Joao Paulo II Uai-oli egy keresztény kápolna a mount-bibileo-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.423935,
+                        -8.673004
+                  ]
+            },
+            {
+                  "name": "Bee manas Uaicana",
+                  "text": "A Bee manas Uaicana egy hőforrás a mount-bibileo-relief-v2 régióban.",
+                  "category": "natural",
+                  "coords": [
+                        126.433033,
+                        -8.645968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View point",
+                  "text": "Acest punct de belvedere oferă o priveliște frumoasă în mount-bibileo-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.426959,
+                        -8.658488
+                  ]
+            },
+            {
+                  "name": "Capela Sao Joao Paulo II Uai-oli",
+                  "text": "Capela Sao Joao Paulo II Uai-oli este un așezământ creștin din mount-bibileo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.423935,
+                        -8.673004
+                  ]
+            },
+            {
+                  "name": "Bee manas Uaicana",
+                  "text": "Bee manas Uaicana este un izvor termal situat în mount-bibileo-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.433033,
+                        -8.645968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View point",
+                  "text": "This view point offers scenic sights in mount-bibileo-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.426959,
+                        -8.658488
+                  ]
+            },
+            {
+                  "name": "Capela Sao Joao Paulo II Uai-oli",
+                  "text": "Capela Sao Joao Paulo II Uai-oli is a Christian site in mount-bibileo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.423935,
+                        -8.673004
+                  ]
+            },
+            {
+                  "name": "Bee manas Uaicana",
+                  "text": "Bee manas Uaicana is a hot spring located in mount-bibileo-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        126.433033,
+                        -8.645968
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-VI",
     coords: [126.4000, -8.7000],
@@ -311,7 +1814,124 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-diatuto-relief-v2",
+    id: "mount-diatuto-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maubere Mountain Coffee",
+                  "text": "Der Maubere Mountain Coffee ist eine besondere Attraktion in mount-diatuto-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908,
+                        -8.74087
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Laclubar",
+                  "text": "Die Igreja Paroquial de Laclubar ist eine christliche Pfarrkirche in mount-diatuto-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.912,
+                        -8.74756
+                  ]
+            },
+            {
+                  "name": "YWAM base Bahareduk",
+                  "text": "Die YWAM base Bahareduk ist eine christliche Einrichtung in mount-diatuto-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.963828,
+                        -8.706033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maubere Mountain Coffee",
+                  "text": "A Maubere Mountain Coffee egy helyi kávés látványosság a mount-diatuto-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908,
+                        -8.74087
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Laclubar",
+                  "text": "Az Igreja Paroquial de Laclubar egy keresztény templom mount-diatuto-relief-v2 városában.",
+                  "category": "landmark",
+                  "coords": [
+                        125.912,
+                        -8.74756
+                  ]
+            },
+            {
+                  "name": "YWAM base Bahareduk",
+                  "text": "A YWAM base Bahareduk egy keresztény missziós bázis a mount-diatuto-relief-v2 nevű helységben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.963828,
+                        -8.706033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maubere Mountain Coffee",
+                  "text": "Maubere Mountain Coffee este o atracție legată de cafea în mount-diatuto-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908,
+                        -8.74087
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Laclubar",
+                  "text": "Igreja Paroquial de Laclubar este o biserică parohială din mount-diatuto-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.912,
+                        -8.74756
+                  ]
+            },
+            {
+                  "name": "YWAM base Bahareduk",
+                  "text": "YWAM base Bahareduk este un centru creștin din mount-diatuto-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.963828,
+                        -8.706033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maubere Mountain Coffee",
+                  "text": "Maubere Mountain Coffee is an attraction associated with local coffee in mount-diatuto-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908,
+                        -8.74087
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Laclubar",
+                  "text": "Igreja Paroquial de Laclubar is a Christian parish church situated in mount-diatuto-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.912,
+                        -8.74756
+                  ]
+            },
+            {
+                  "name": "YWAM base Bahareduk",
+                  "text": "YWAM base Bahareduk is a Christian facility located in mount-diatuto-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.963828,
+                        -8.706033
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-MA",
     coords: [125.9000, -8.7000],
@@ -355,7 +1975,160 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "hato-builico-valley-relief-v2",
+    id: "hato-builico-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "No way",
+                  "text": "„No way“ ist eine einzigartig benannte Attraktion in hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.518092,
+                        -8.899739
+                  ]
+            },
+            {
+                  "name": "Mt. Ramelau Gate (end of the jeep track)",
+                  "text": "Das Mt. Ramelau Gate markiert das Ende der Jeep-Strecke und ist eine Attraktion in hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.506326,
+                        -8.90656
+                  ]
+            },
+            {
+                  "name": "Dokomali Falls",
+                  "text": "Die Dokomali Falls sind eine wunderschöne Wasserfall-Attraktion in hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.539797,
+                        -8.931269
+                  ]
+            },
+            {
+                  "name": "Massive 30x10x10 metre Rock in a field",
+                  "text": "Der massive 30x10x10 Meter große Felsen in einem Feld ist eine markante Naturattraktion in hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.551758,
+                        -8.915675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "No way",
+                  "text": "A \"No way\" egy különleges nevű látványosság a hato-builico-valley-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.518092,
+                        -8.899739
+                  ]
+            },
+            {
+                  "name": "Mt. Ramelau Gate (end of the jeep track)",
+                  "text": "A Mt. Ramelau Gate a dzsipes útvonal végét jelzi, és látványosságként szolgál a hato-builico-valley-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.506326,
+                        -8.90656
+                  ]
+            },
+            {
+                  "name": "Dokomali Falls",
+                  "text": "A Dokomali Falls egy gyönyörű vízesés és látványosság a hato-builico-valley-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.539797,
+                        -8.931269
+                  ]
+            },
+            {
+                  "name": "Massive 30x10x10 metre Rock in a field",
+                  "text": "A mezőn álló, hatalmas, 30x10x10 méteres szikla egy különleges természeti látványosság a hato-builico-valley-relief-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.551758,
+                        -8.915675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "No way",
+                  "text": "„No way” este o atracție cu un nume inedit situată în hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.518092,
+                        -8.899739
+                  ]
+            },
+            {
+                  "name": "Mt. Ramelau Gate (end of the jeep track)",
+                  "text": "Poarta Mt. Ramelau marchează sfârșitul traseului pentru jeepuri și este o atracție în hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.506326,
+                        -8.90656
+                  ]
+            },
+            {
+                  "name": "Dokomali Falls",
+                  "text": "Dokomali Falls este o cascadă atrăgătoare situată în hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.539797,
+                        -8.931269
+                  ]
+            },
+            {
+                  "name": "Massive 30x10x10 metre Rock in a field",
+                  "text": "Stânca masivă de 30x10x10 metri dintr-un câmp este o atracție naturală distinctă în hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.551758,
+                        -8.915675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "No way",
+                  "text": "\"No way\" is a uniquely named attraction located in hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.518092,
+                        -8.899739
+                  ]
+            },
+            {
+                  "name": "Mt. Ramelau Gate (end of the jeep track)",
+                  "text": "Mt. Ramelau Gate marks the end of the jeep track and serves as an attraction in hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.506326,
+                        -8.90656
+                  ]
+            },
+            {
+                  "name": "Dokomali Falls",
+                  "text": "Dokomali Falls is a beautiful waterfall attraction found in hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.539797,
+                        -8.931269
+                  ]
+            },
+            {
+                  "name": "Massive 30x10x10 metre Rock in a field",
+                  "text": "The massive 30x10x10 metre rock in a field is a distinct natural attraction in hato-builico-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.551758,
+                        -8.915675
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TL-AN",
     coords: [125.5000, -8.9000],
@@ -399,7 +2172,52 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "com-coast-relief-v2",
+    id: "com-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Ein entspannender Sandstrand, der charakteristisch für das malerische Küstenrelief um Com ist.",
+                  "category": "recreational",
+                  "coords": [
+                        127.011516,
+                        -8.328482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "Pihentető homokos strand, amely jellemző a Com körüli festői tengerparti domborzatra.",
+                  "category": "recreational",
+                  "coords": [
+                        127.011516,
+                        -8.328482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "O plajă relaxantă cu nisip, caracteristică reliefului pitoresc de coastă din jurul localității Com.",
+                  "category": "recreational",
+                  "coords": [
+                        127.011516,
+                        -8.328482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "A relaxing sandy beach characteristic of the picturesque coastal relief around Com.",
+                  "category": "recreational",
+                  "coords": [
+                        127.011516,
+                        -8.328482
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TL-LA",
     coords: [127.0600, -8.3500],
@@ -443,7 +2261,196 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "areia-branca-coast-relief-v2",
+    id: "areia-branca-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capela Cristo Nai Liurai Cmea",
+                  "text": "Eine christliche Kapelle in Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.613233,
+                        -8.551686
+                  ]
+            },
+            {
+                  "name": "Praia da Areia Branca",
+                  "text": "Ein Strand an der Küste von Areia Branca.",
+                  "category": "recreational",
+                  "coords": [
+                        125.614565,
+                        -8.531741
+                  ]
+            },
+            {
+                  "name": "Gruta Metiaut 11 de Fevereiro de 2008",
+                  "text": "Eine christliche Grotte in Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.615929,
+                        -8.538758
+                  ]
+            },
+            {
+                  "name": "Gruta Nossa Senhora de Fátima",
+                  "text": "Ein der Heiligen Maria gewidmeter christlicher Schrein in Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.609354,
+                        -8.547062
+                  ]
+            },
+            {
+                  "name": "St. Margarida Maria Alacoque",
+                  "text": "Eine christliche Kultstätte in Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610825,
+                        -8.544401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capela Cristo Nai Liurai Cmea",
+                  "text": "Egy keresztény kápolna Areia Branca Coast Relief területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.613233,
+                        -8.551686
+                  ]
+            },
+            {
+                  "name": "Praia da Areia Branca",
+                  "text": "Egy strand Areia Branca partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        125.614565,
+                        -8.531741
+                  ]
+            },
+            {
+                  "name": "Gruta Metiaut 11 de Fevereiro de 2008",
+                  "text": "Egy keresztény grotta Areia Branca Coast Relief területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.615929,
+                        -8.538758
+                  ]
+            },
+            {
+                  "name": "Gruta Nossa Senhora de Fátima",
+                  "text": "Egy Szűz Máriának szentelt keresztény szentély Areia Branca Coast Relief területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.609354,
+                        -8.547062
+                  ]
+            },
+            {
+                  "name": "St. Margarida Maria Alacoque",
+                  "text": "Egy keresztény istentiszteleti hely Areia Branca Coast Relief területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610825,
+                        -8.544401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capela Cristo Nai Liurai Cmea",
+                  "text": "O capelă creștină în Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.613233,
+                        -8.551686
+                  ]
+            },
+            {
+                  "name": "Praia da Areia Branca",
+                  "text": "O plajă pe coasta Areia Branca.",
+                  "category": "recreational",
+                  "coords": [
+                        125.614565,
+                        -8.531741
+                  ]
+            },
+            {
+                  "name": "Gruta Metiaut 11 de Fevereiro de 2008",
+                  "text": "O grotă creștină în Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.615929,
+                        -8.538758
+                  ]
+            },
+            {
+                  "name": "Gruta Nossa Senhora de Fátima",
+                  "text": "Un altar creștin în Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.609354,
+                        -8.547062
+                  ]
+            },
+            {
+                  "name": "St. Margarida Maria Alacoque",
+                  "text": "Un lăcaș de cult creștin în Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610825,
+                        -8.544401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capela Cristo Nai Liurai Cmea",
+                  "text": "A Christian chapel in Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.613233,
+                        -8.551686
+                  ]
+            },
+            {
+                  "name": "Praia da Areia Branca",
+                  "text": "A beach on the coast of Areia Branca.",
+                  "category": "recreational",
+                  "coords": [
+                        125.614565,
+                        -8.531741
+                  ]
+            },
+            {
+                  "name": "Gruta Metiaut 11 de Fevereiro de 2008",
+                  "text": "A Christian grotto in Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.615929,
+                        -8.538758
+                  ]
+            },
+            {
+                  "name": "Gruta Nossa Senhora de Fátima",
+                  "text": "A Christian shrine in Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.609354,
+                        -8.547062
+                  ]
+            },
+            {
+                  "name": "St. Margarida Maria Alacoque",
+                  "text": "A Christian place of worship in Areia Branca Coast Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        125.610825,
+                        -8.544401
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TL-DI",
     coords: [125.6100, -8.5300],
@@ -487,7 +2494,160 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "maliana-valley-relief-v2",
+    id: "maliana-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lolo Holso",
+                  "text": "Lolo Holso ist ein Berggipfel in maliana-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.1775,
+                        -9.051389
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Fatima, Tahon",
+                  "text": "Gereja Santa Maria Fatima, Tahon ist eine bekannte Kultstätte in maliana-valley-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.168151,
+                        -9.0498
+                  ]
+            },
+            {
+                  "name": "Uma Liu Rai",
+                  "text": "Uma Liu Rai ist eine christliche Stätte in maliana-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.185391,
+                        -9.020428
+                  ]
+            },
+            {
+                  "name": "Mercado Soso",
+                  "text": "Mercado Soso ist ein Marktplatz, der sich in maliana-valley-relief-v2 befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        125.191322,
+                        -8.990856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lolo Holso",
+                  "text": "A Lolo Holso egy hegycsúcs maliana-valley-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.1775,
+                        -9.051389
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Fatima, Tahon",
+                  "text": "A Gereja Santa Maria Fatima, Tahon egy ismert istentiszteleti hely maliana-valley-relief-v2 régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        125.168151,
+                        -9.0498
+                  ]
+            },
+            {
+                  "name": "Uma Liu Rai",
+                  "text": "Az Uma Liu Rai egy keresztény helyszín maliana-valley-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.185391,
+                        -9.020428
+                  ]
+            },
+            {
+                  "name": "Mercado Soso",
+                  "text": "A Mercado Soso egy piactér maliana-valley-relief-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.191322,
+                        -8.990856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lolo Holso",
+                  "text": "Lolo Holso este un vârf de munte situat în maliana-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.1775,
+                        -9.051389
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Fatima, Tahon",
+                  "text": "Gereja Santa Maria Fatima, Tahon este un lăcaș de cult notabil din maliana-valley-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.168151,
+                        -9.0498
+                  ]
+            },
+            {
+                  "name": "Uma Liu Rai",
+                  "text": "Uma Liu Rai este un așezământ creștin în maliana-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.185391,
+                        -9.020428
+                  ]
+            },
+            {
+                  "name": "Mercado Soso",
+                  "text": "Mercado Soso este o piață situată în maliana-valley-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        125.191322,
+                        -8.990856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lolo Holso",
+                  "text": "Lolo Holso is a mountain peak located in maliana-valley-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.1775,
+                        -9.051389
+                  ]
+            },
+            {
+                  "name": "Gereja Santa Maria Fatima, Tahon",
+                  "text": "Gereja Santa Maria Fatima, Tahon is a notable place of worship located in maliana-valley-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        125.168151,
+                        -9.0498
+                  ]
+            },
+            {
+                  "name": "Uma Liu Rai",
+                  "text": "Uma Liu Rai is a Christian site situated in maliana-valley-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.185391,
+                        -9.020428
+                  ]
+            },
+            {
+                  "name": "Mercado Soso",
+                  "text": "Mercado Soso is a marketplace serving the maliana-valley-relief-v2 area.",
+                  "category": "cultural",
+                  "coords": [
+                        125.191322,
+                        -8.990856
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TL-BO",
     coords: [125.2100, -8.9900],
@@ -575,7 +2735,52 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "dolok-oan-coast-relief-v2",
+    id: "dolok-oan-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia",
+                  "text": "Dieser ruhige Strand an der Dolok Oan-Küste besticht durch seinen unberührten Sand, der vom tropischen Ozean umspült wird.",
+                  "category": "recreational",
+                  "coords": [
+                        125.630006,
+                        -8.525852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia",
+                  "text": "A Dolok Oan partja mentén húzódó csendes tengerpart érintetlen homokját a trópusi óceán vize mossa.",
+                  "category": "recreational",
+                  "coords": [
+                        125.630006,
+                        -8.525852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia",
+                  "text": "Această plajă liniștită de-a lungul coastei Dolok Oan prezintă nisipuri curate scăldate de apele oceanului tropical.",
+                  "category": "recreational",
+                  "coords": [
+                        125.630006,
+                        -8.525852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia",
+                  "text": "This tranquil beach along the Dolok Oan coast features pristine sands washed by the tropical ocean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        125.630006,
+                        -8.525852
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TL-DI",
     coords: [125.6300, -8.5200],
@@ -619,7 +2824,88 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "laga-coast-relief-v2",
+    id: "laga-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "sea salt field",
+                  "text": "Das Meersalzfeld ist eine Sehenswürdigkeit in laga-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.652744,
+                        -8.44282
+                  ]
+            },
+            {
+                  "name": "Capela Binagua",
+                  "text": "Capela Binagua ist eine örtliche Kirche in laga-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.679926,
+                        -8.43063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "sea salt field",
+                  "text": "A tengeri sómező egy látványosság laga-coast-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.652744,
+                        -8.44282
+                  ]
+            },
+            {
+                  "name": "Capela Binagua",
+                  "text": "A Capela Binagua egy helyi templom laga-coast-relief-v2 városában.",
+                  "category": "religious",
+                  "coords": [
+                        126.679926,
+                        -8.43063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "sea salt field",
+                  "text": "Câmpul de sare marină este o atracție din laga-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.652744,
+                        -8.44282
+                  ]
+            },
+            {
+                  "name": "Capela Binagua",
+                  "text": "Capela Binagua este o biserică locală situată în laga-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.679926,
+                        -8.43063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "sea salt field",
+                  "text": "The sea salt field is an attraction located in laga-coast-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        126.652744,
+                        -8.44282
+                  ]
+            },
+            {
+                  "name": "Capela Binagua",
+                  "text": "Capela Binagua is a local church situated in laga-coast-relief-v2.",
+                  "category": "religious",
+                  "coords": [
+                        126.679926,
+                        -8.43063
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TL-BA",
     coords: [126.6000, -8.4000],
@@ -663,7 +2949,160 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-tapo-relief-v2",
+    id: "mount-tapo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samoro",
+                  "text": "Samoro ist ein Berggipfel in der Region mount-tapo-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.083333,
+                        -8.9
+                  ]
+            },
+            {
+                  "name": "Capela Biamaraen",
+                  "text": "Capela Biamaraen ist eine christliche Kapelle in mount-tapo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.137584,
+                        -8.908291
+                  ]
+            },
+            {
+                  "name": "Kapela Aidabaslala",
+                  "text": "Kapela Aidabaslala ist eine christliche Kultstätte in mount-tapo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.179987,
+                        -8.87091
+                  ]
+            },
+            {
+                  "name": "Capela Santa Maria Fatima, Suco Leolima",
+                  "text": "Capela Santa Maria Fatima, Suco Leolima ist eine christliche Einrichtung in mount-tapo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.100132,
+                        -8.942979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samoro",
+                  "text": "A Samoro egy hegycsúcs mount-tapo-relief-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        125.083333,
+                        -8.9
+                  ]
+            },
+            {
+                  "name": "Capela Biamaraen",
+                  "text": "A Capela Biamaraen egy keresztény kápolna mount-tapo-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.137584,
+                        -8.908291
+                  ]
+            },
+            {
+                  "name": "Kapela Aidabaslala",
+                  "text": "A Kapela Aidabaslala egy keresztény istentiszteleti hely mount-tapo-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.179987,
+                        -8.87091
+                  ]
+            },
+            {
+                  "name": "Capela Santa Maria Fatima, Suco Leolima",
+                  "text": "A Capela Santa Maria Fatima, Suco Leolima egy keresztény kápolna mount-tapo-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.100132,
+                        -8.942979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samoro",
+                  "text": "Samoro este un vârf de munte situat în regiunea mount-tapo-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        125.083333,
+                        -8.9
+                  ]
+            },
+            {
+                  "name": "Capela Biamaraen",
+                  "text": "Capela Biamaraen este o capelă creștină din mount-tapo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.137584,
+                        -8.908291
+                  ]
+            },
+            {
+                  "name": "Kapela Aidabaslala",
+                  "text": "Kapela Aidabaslala este un lăcaș de cult creștin situat în mount-tapo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.179987,
+                        -8.87091
+                  ]
+            },
+            {
+                  "name": "Capela Santa Maria Fatima, Suco Leolima",
+                  "text": "Capela Santa Maria Fatima, Suco Leolima este o capelă creștină în mount-tapo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.100132,
+                        -8.942979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samoro",
+                  "text": "Samoro is a mountain peak located in the mount-tapo-relief-v2 region.",
+                  "category": "natural",
+                  "coords": [
+                        125.083333,
+                        -8.9
+                  ]
+            },
+            {
+                  "name": "Capela Biamaraen",
+                  "text": "Capela Biamaraen is a Christian chapel situated in mount-tapo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.137584,
+                        -8.908291
+                  ]
+            },
+            {
+                  "name": "Kapela Aidabaslala",
+                  "text": "Kapela Aidabaslala is a Christian place of worship located in mount-tapo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.179987,
+                        -8.87091
+                  ]
+            },
+            {
+                  "name": "Capela Santa Maria Fatima, Suco Leolima",
+                  "text": "Capela Santa Maria Fatima, Suco Leolima is a Christian chapel in mount-tapo-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        125.100132,
+                        -8.942979
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "TL-BO",
     coords: [125.1000, -8.9000],
@@ -839,7 +3278,52 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     },
   },
   {
-    id: "suai-coast-relief-v2",
+    id: "suai-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kapela São Jose Soga Ogues",
+                  "text": "Diese in der Küstenregion von Suai gelegene christliche Kapelle ist dem heiligen Josef gewidmet und dient den Küstengemeinden.",
+                  "category": "landmark",
+                  "coords": [
+                        125.21559,
+                        -9.263059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kapela São Jose Soga Ogues",
+                  "text": "A Suai tengerparti régióban található keresztény kápolnát Szent Józsefnek szentelték, és a tengerparti közösségeket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        125.21559,
+                        -9.263059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kapela São Jose Soga Ogues",
+                  "text": "Aflată în regiunea de coastă Suai, această capelă creștină este dedicată Sfântului Iosif și deservește comunitățile de pe litoral.",
+                  "category": "landmark",
+                  "coords": [
+                        125.21559,
+                        -9.263059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kapela São Jose Soga Ogues",
+                  "text": "Standing in the Suai coastal region, this Christian chapel is dedicated to Saint Joseph and serves the seaside communities.",
+                  "category": "landmark",
+                  "coords": [
+                        125.21559,
+                        -9.263059
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TL-CO",
     coords: [125.2000, -9.3000],

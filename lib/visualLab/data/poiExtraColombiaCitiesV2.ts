@@ -1547,7 +1547,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Varón del Sol",
-                  "text": "Varón del Sol ist eine archäologische Stätte in Soacha.",
+                  "text": "Varón del Sol, ein historisches Wahrzeichen in Soacha mit archäologischer Bedeutung.",
                   "category": "historical",
                   "coords": [
                         -74.216461,
@@ -1556,7 +1556,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Sua",
-                  "text": "Das Teatro Sua ist ein Theater in der kolumbianischen Stadt Soacha.",
+                  "text": "Teatro Sua, ein Theater in Soacha für kulturelle Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -74.220076,
@@ -1565,7 +1565,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal del Neuta",
-                  "text": "Das Humedal del Neuta ist ein wichtiges Naturschutzgebiet und Feuchtgebiet in Soacha.",
+                  "text": "Humedal del Neuta, ein Feuchtgebietsökosystem in Soacha, Heimat verschiedener Vogelarten.",
                   "category": "natural",
                   "coords": [
                         -74.229635,
@@ -1574,7 +1574,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Tierra Blanca",
-                  "text": "Humedal Tierra Blanca ist ein geschütztes Feuchtgebiet in Soacha.",
+                  "text": "Humedal Tierra Blanca, ein Weißerden-Feuchtgebiet in Soacha.",
                   "category": "natural",
                   "coords": [
                         -74.235981,
@@ -1583,7 +1583,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorio",
-                  "text": "Das Auditorio ist ein Veranstaltungssaal in Soacha.",
+                  "text": "Auditorio, ein kulturelles Auditorium in Soacha für Veranstaltungen und Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -74.213758,
@@ -1592,7 +1592,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Chucuita",
-                  "text": "Humedal Chucuita ist ein Feuchtgebiet und Naturschutzgebiet in Soacha.",
+                  "text": "Humedal Chucuita, ein Feuchtgebiet in Soacha, Teil des lokalen hydrologischen Systems.",
                   "category": "natural",
                   "coords": [
                         -74.225374,
@@ -1601,7 +1601,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal El Vinculo",
-                  "text": "Humedal El Vinculo ist ein Naturschutzgebiet in Soacha.",
+                  "text": "Humedal El Vinculo, ein Feuchtgebiet in Soacha, bekannt als ‚Die Verbindung‘ aufgrund seiner verbindenden Rolle.",
                   "category": "natural",
                   "coords": [
                         -74.228434,
@@ -1610,7 +1610,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Niebla",
-                  "text": "Der Parque La Niebla ist ein Naturpark und Schutzgebiet in Soacha.",
+                  "text": "Parque La Niebla, ein Park in Soacha, gekennzeichnet durch Nebel und natürliche Vegetation.",
                   "category": "natural",
                   "coords": [
                         -74.227345,
@@ -1619,7 +1619,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Cola de Tierra Blanca",
-                  "text": "Humedal Cola de Tierra Blanca ist ein Naturschutzgebiet in Soacha.",
+                  "text": "Humedal Cola de Tierra Blanca, ein Feuchtgebiet, das den Schwanz des Tierra-Branca-Feuchtgebietssystems in Soacha bildet.",
                   "category": "natural",
                   "coords": [
                         -74.232636,
@@ -1637,7 +1637,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico",
-                  "text": "Das Museo Arqueológico ist ein archäologisches Museum in Soacha.",
+                  "text": "Museo Arqueológico, ein archäologisches Museum in Soacha mit präkolumbischen Artefakten.",
                   "category": "museum",
                   "coords": [
                         -74.217511,
@@ -1646,7 +1646,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Tibanica",
-                  "text": "Der Parque Tibanica ist eine Parkanlage am gleichnamigen Feuchtgebiet in Soacha.",
+                  "text": "Ein geschütztes Feuchtgebiet in Soacha, Kolumbien, Teil der Sabana de Bogotá.",
                   "category": "park",
                   "coords": [
                         -74.196911,
@@ -1655,7 +1655,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Piedra Gorda",
-                  "text": "Piedra Gorda ist ein Aussichtspunkt in Soacha.",
+                  "text": "Piedra Gorda, eine große Felsformation in Soacha, ein bemerkenswertes Naturwahrzeichen.",
                   "category": "natural",
                   "coords": [
                         -74.205394,
@@ -1664,7 +1664,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotonda Hogar del Sol",
-                  "text": "Die Rotonda Hogar del Sol ist eine Sehenswürdigkeit in Soacha.",
+                  "text": "Rotonda Hogar del Sol, ein Kreisverkehr in Soacha mit einem Denkmal, das das ‚Zuhause der Sonne‘ darstellt.",
                   "category": "landmark",
                   "coords": [
                         -74.207366,
@@ -1673,7 +1673,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotonda Indumil",
-                  "text": "Die Rotonda Indumil ist eine Attraktion in der Stadt Soacha.",
+                  "text": "Rotonda Indumil, ein Kreisverkehr in Soacha, benannt nach dem Rüstungsunternehmen Indumil.",
                   "category": "landmark",
                   "coords": [
                         -74.221567,
@@ -1693,7 +1693,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Varón del Sol",
-                  "text": "A Varón del Sol egy régészeti lelőhely Soacha városában.",
+                  "text": "Varón del Sol, egy történelmi nevezetesség Soachában, régészeti jelentőséggel.",
                   "category": "historical",
                   "coords": [
                         -74.216461,
@@ -1702,7 +1702,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Sua",
-                  "text": "A Teatro Sua egy színház a kolumbiai Soacha városában.",
+                  "text": "Teatro Sua, egy színház Soachában kulturális előadások számára.",
                   "category": "cultural",
                   "coords": [
                         -74.220076,
@@ -1711,7 +1711,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal del Neuta",
-                  "text": "A Humedal del Neuta egy természetvédelmi területként szolgáló vizes élőhely Soacha városában.",
+                  "text": "Humedal del Neuta, egy vizes élőhelyi ökoszisztéma Soachában, különböző madárfajok otthona.",
                   "category": "natural",
                   "coords": [
                         -74.229635,
@@ -1720,7 +1720,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Tierra Blanca",
-                  "text": "A Humedal Tierra Blanca egy védett vizes élőhely Soacha területén.",
+                  "text": "Humedal Tierra Blanca, egy fehér talajú vizes élőhely Soachában.",
                   "category": "natural",
                   "coords": [
                         -74.235981,
@@ -1729,7 +1729,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorio",
-                  "text": "Az Auditorio egy színház- és rendezvényterem Soacha városában.",
+                  "text": "Auditorio, egy kulturális előadóterem Soachában rendezvények és előadások számára.",
                   "category": "cultural",
                   "coords": [
                         -74.213758,
@@ -1738,7 +1738,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Chucuita",
-                  "text": "A Humedal Chucuita egy vizes élőhely és természetvédelmi terület Soacha városában.",
+                  "text": "Humedal Chucuita, egy vizes élőhely Soachában, a helyi hidrológiai rendszer része.",
                   "category": "natural",
                   "coords": [
                         -74.225374,
@@ -1747,7 +1747,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal El Vinculo",
-                  "text": "A Humedal El Vinculo egy védett természetvédelmi terület Soacha városában.",
+                  "text": "Humedal El Vinculo, egy vizes élőhely Soachában, amelyet 'A Kapocs' néven ismernek összekötő szerepe miatt.",
                   "category": "natural",
                   "coords": [
                         -74.228434,
@@ -1756,7 +1756,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Niebla",
-                  "text": "A Parque La Niebla egy természetvédelmi park Soacha városában.",
+                  "text": "Parque La Niebla, egy park Soachában, amelyet köd és természetes növényzet jellemez.",
                   "category": "natural",
                   "coords": [
                         -74.227345,
@@ -1765,7 +1765,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Cola de Tierra Blanca",
-                  "text": "A Humedal Cola de Tierra Blanca egy természetvédelmi terület Soacha városában.",
+                  "text": "Humedal Cola de Tierra Blanca, egy vizes élőhely, amely a Tierra Blanca vizes élőhelyrendszer farkát képezi Soachában.",
                   "category": "natural",
                   "coords": [
                         -74.232636,
@@ -1783,7 +1783,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico",
-                  "text": "A Museo Arqueológico egy régészeti múzeum Soacha városában.",
+                  "text": "Museo Arqueológico, egy régészeti múzeum Soachában, prekolumbiánus tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         -74.217511,
@@ -1792,7 +1792,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Tibanica",
-                  "text": "A Parque Tibanica egy park Soacha városában, amely a helyi vizes élőhelyhez kapcsolódik.",
+                  "text": "Védett vizes élőhely Soachában, Kolumbiában, a Bogotái szavanna része.",
                   "category": "park",
                   "coords": [
                         -74.196911,
@@ -1801,7 +1801,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Piedra Gorda",
-                  "text": "A Piedra Gorda egy kilátóhely Soacha területén.",
+                  "text": "Piedra Gorda, egy nagy sziklaformáció Soachában, egy figyelemre méltó természeti nevezetesség.",
                   "category": "natural",
                   "coords": [
                         -74.205394,
@@ -1810,7 +1810,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotonda Hogar del Sol",
-                  "text": "A Rotonda Hogar del Sol egy helyi látványosság Soacha városában.",
+                  "text": "Rotonda Hogar del Sol, egy körforgalom Soachában, amelyet a 'Nap otthona' emlékmű díszít.",
                   "category": "landmark",
                   "coords": [
                         -74.207366,
@@ -1819,7 +1819,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotonda Indumil",
-                  "text": "A Rotonda Indumil egy körforgalom és látványosság Soacha városában.",
+                  "text": "Rotonda Indumil, egy körforgalom Soachában, az Indumil hadiipari vállalatról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -74.221567,
@@ -1839,7 +1839,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Varón del Sol",
-                  "text": "Varón del Sol este un sit arheologic situat în Soacha.",
+                  "text": "Varón del Sol, un reper istoric în Soacha cu semnificație arheologică.",
                   "category": "historical",
                   "coords": [
                         -74.216461,
@@ -1848,7 +1848,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Sua",
-                  "text": "Teatro Sua este un teatru situat în orașul columbian Soacha.",
+                  "text": "Teatro Sua, un teatru în Soacha pentru spectacole culturale.",
                   "category": "cultural",
                   "coords": [
                         -74.220076,
@@ -1857,7 +1857,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal del Neuta",
-                  "text": "Humedal del Neuta este o rezervație naturală de tip zonă umedă din Soacha.",
+                  "text": "Humedal del Neuta, un ecosistem de zonă umedă în Soacha, habitat pentru diverse specii de păsări.",
                   "category": "natural",
                   "coords": [
                         -74.229635,
@@ -1866,7 +1866,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Tierra Blanca",
-                  "text": "Humedal Tierra Blanca este o rezervație naturală și o zonă umedă din Soacha.",
+                  "text": "Humedal Tierra Blanca, o zonă umedă cu sol alb în Soacha.",
                   "category": "natural",
                   "coords": [
                         -74.235981,
@@ -1875,7 +1875,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorio",
-                  "text": "Auditorio este o sală de teatru și evenimente situată în Soacha.",
+                  "text": "Auditorio, un auditoriu cultural în Soacha pentru evenimente și spectacole.",
                   "category": "cultural",
                   "coords": [
                         -74.213758,
@@ -1884,7 +1884,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Chucuita",
-                  "text": "Humedal Chucuita este o rezervație naturală situată în Soacha.",
+                  "text": "Humedal Chucuita, o zonă umedă în Soacha, parte a sistemului hidrologic local.",
                   "category": "natural",
                   "coords": [
                         -74.225374,
@@ -1893,7 +1893,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal El Vinculo",
-                  "text": "Humedal El Vinculo este o zonă umedă și rezervație naturală din Soacha.",
+                  "text": "Humedal El Vinculo, o zonă umedă în Soacha, cunoscută ca 'Legătura' datorită rolului său de conexiune.",
                   "category": "natural",
                   "coords": [
                         -74.228434,
@@ -1902,7 +1902,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Niebla",
-                  "text": "Parque La Niebla este o rezervație naturală din Soacha.",
+                  "text": "Parque La Niebla, un parc în Soacha caracterizat de ceață și vegetație naturală.",
                   "category": "natural",
                   "coords": [
                         -74.227345,
@@ -1911,7 +1911,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Cola de Tierra Blanca",
-                  "text": "Humedal Cola de Tierra Blanca este o rezervație naturală din Soacha.",
+                  "text": "Humedal Cola de Tierra Blanca, o zonă umedă care formează coada sistemului de zone umede Tierra Blanca din Soacha.",
                   "category": "natural",
                   "coords": [
                         -74.232636,
@@ -1929,7 +1929,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico",
-                  "text": "Museo Arqueológico este un muzeu cu profil arheologic din Soacha.",
+                  "text": "Museo Arqueológico, un muzeu arheologic în Soacha cu artefacte precolumbiene.",
                   "category": "museum",
                   "coords": [
                         -74.217511,
@@ -1938,7 +1938,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Tibanica",
-                  "text": "Parque Tibanica este un parc situat în zona umedă din Soacha.",
+                  "text": "O zonă umedă protejată în Soacha, Columbia, parte a savanei Bogotá.",
                   "category": "park",
                   "coords": [
                         -74.196911,
@@ -1947,7 +1947,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Piedra Gorda",
-                  "text": "Piedra Gorda este un punct de belvedere situat în Soacha.",
+                  "text": "Piedra Gorda, o formațiune stâncoasă mare în Soacha, un reper natural remarcabil.",
                   "category": "natural",
                   "coords": [
                         -74.205394,
@@ -1956,7 +1956,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotonda Hogar del Sol",
-                  "text": "Rotonda Hogar del Sol este o atracție situată în Soacha.",
+                  "text": "Rotonda Hogar del Sol, un sens giratoriu în Soacha cu un monument ce reprezintă 'Casa Soarelui'.",
                   "category": "landmark",
                   "coords": [
                         -74.207366,
@@ -1965,7 +1965,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotonda Indumil",
-                  "text": "Rotonda Indumil este o atracție din orașul Soacha.",
+                  "text": "Rotonda Indumil, un sens giratoriu în Soacha, numit după compania militară Indumil.",
                   "category": "landmark",
                   "coords": [
                         -74.221567,
@@ -1985,7 +1985,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Varón del Sol",
-                  "text": "Varón del Sol is an archaeological site located in Soacha.",
+                  "text": "Varón del Sol, a historical landmark in Soacha with archaeological significance.",
                   "category": "historical",
                   "coords": [
                         -74.216461,
@@ -1994,7 +1994,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Sua",
-                  "text": "Teatro Sua is a theatre located in the city of Soacha.",
+                  "text": "Teatro Sua, a theater in Soacha for cultural performances.",
                   "category": "cultural",
                   "coords": [
                         -74.220076,
@@ -2003,7 +2003,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal del Neuta",
-                  "text": "Humedal del Neuta is a wetland nature reserve located in Soacha.",
+                  "text": "Humedal del Neuta, a wetland ecosystem in Soacha, home to diverse bird species.",
                   "category": "natural",
                   "coords": [
                         -74.229635,
@@ -2012,7 +2012,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Tierra Blanca",
-                  "text": "Humedal Tierra Blanca is a nature reserve and wetland located in Soacha.",
+                  "text": "Humedal Tierra Blanca, a white-soil wetland in Soacha.",
                   "category": "natural",
                   "coords": [
                         -74.235981,
@@ -2021,7 +2021,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Auditorio",
-                  "text": "Auditorio is a theatre and performance venue in Soacha.",
+                  "text": "Auditorio, a cultural auditorium in Soacha for events and performances.",
                   "category": "cultural",
                   "coords": [
                         -74.213758,
@@ -2030,7 +2030,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Chucuita",
-                  "text": "Humedal Chucuita is a wetland nature reserve found in Soacha.",
+                  "text": "Humedal Chucuita, a wetland in Soacha, part of the local hydrological system.",
                   "category": "natural",
                   "coords": [
                         -74.225374,
@@ -2039,7 +2039,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal El Vinculo",
-                  "text": "Humedal El Vinculo is a wetland nature reserve situated in Soacha.",
+                  "text": "Humedal El Vinculo, a wetland in Soacha known as 'The Link' due to its connecting role.",
                   "category": "natural",
                   "coords": [
                         -74.228434,
@@ -2048,7 +2048,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Niebla",
-                  "text": "Parque La Niebla is a nature reserve located in Soacha.",
+                  "text": "Parque La Niebla, a park in Soacha characterized by fog and natural vegetation.",
                   "category": "natural",
                   "coords": [
                         -74.227345,
@@ -2057,7 +2057,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Humedal Cola de Tierra Blanca",
-                  "text": "Humedal Cola de Tierra Blanca is a wetland nature reserve in Soacha.",
+                  "text": "Humedal Cola de Tierra Blanca, a wetland forming the tail of the Tierra Blanca wetland system in Soacha.",
                   "category": "natural",
                   "coords": [
                         -74.232636,
@@ -2075,7 +2075,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico",
-                  "text": "The Museo Arqueológico is an archaeological museum located in Soacha.",
+                  "text": "Museo Arqueológico, an archaeological museum in Soacha displaying pre-Columbian artifacts.",
                   "category": "museum",
                   "coords": [
                         -74.217511,
@@ -2084,7 +2084,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Tibanica",
-                  "text": "Parque Tibanica is a public park associated with the Tibanica wetland in Soacha.",
+                  "text": "A protected wetland park in Soacha, Colombia, part of the Bogotá savanna.",
                   "category": "park",
                   "coords": [
                         -74.196911,
@@ -2093,7 +2093,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Piedra Gorda",
-                  "text": "Piedra Gorda is a scenic viewpoint located in Soacha.",
+                  "text": "Piedra Gorda, a large rock formation in Soacha, a notable natural landmark.",
                   "category": "natural",
                   "coords": [
                         -74.205394,
@@ -2102,7 +2102,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotonda Hogar del Sol",
-                  "text": "Rotonda Hogar del Sol is an attraction found in Soacha.",
+                  "text": "Rotonda Hogar del Sol, a traffic circle in Soacha with a monument representing the 'Home of the Sun'.",
                   "category": "landmark",
                   "coords": [
                         -74.207366,
@@ -2111,7 +2111,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Rotonda Indumil",
-                  "text": "Rotonda Indumil is a local attraction located in Soacha.",
+                  "text": "Rotonda Indumil, a traffic circle in Soacha named after the Indumil military industry company.",
                   "category": "landmark",
                   "coords": [
                         -74.221567,
@@ -2221,7 +2221,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Auditorio Gary Mintz",
-                  "text": "Ein Theater in Palmira.",
+                  "text": "Auditorio Gary Mintz, ein Auditorium in Palmira, benannt nach Gary Mintz, für kulturelle Veranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -76.307865,
@@ -2230,7 +2230,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de convenciones Guillermo Barney Materon Amaime",
-                  "text": "Ein Theater in Palmira.",
+                  "text": "Kongresszentrum Guillermo Barney Materon Amaime, ein Kongresszentrum in Palmira am Fluss Amaime, benannt nach Guillermo Barney Materon.",
                   "category": "cultural",
                   "coords": [
                         -76.304852,
@@ -2239,7 +2239,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque del Azúcar",
-                  "text": "Ein Wasserpark in Palmira.",
+                  "text": "Parque del Azúcar, ein Familienpark in Palmira, benannt nach der Zuckerindustrie, mit Spielplätzen und Grünflächen.",
                   "category": "family",
                   "coords": [
                         -76.307812,
@@ -2248,7 +2248,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro cultural Gullermo Barney Materon",
-                  "text": "Ein Theater in Palmira.",
+                  "text": "Kulturzentrum Gullermo Barney Materon, ein Kulturzentrum in Palmira, benannt nach Guillermo Barney Materon.",
                   "category": "cultural",
                   "coords": [
                         -76.299468,
@@ -2257,7 +2257,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mariposario",
-                  "text": "Eine Attraktion in Palmira.",
+                  "text": "Mariposario, ein Schmetterlingshaus in Palmira mit einer Sammlung tropischer Schmetterlinge.",
                   "category": "landmark",
                   "coords": [
                         -76.285875,
@@ -2266,7 +2266,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Bosque Municipal",
-                  "text": "Eine Attraktion in Palmira.",
+                  "text": "Ein städtischer Wald in Palmira, der als grüne Lunge dient.",
                   "category": "landmark",
                   "coords": [
                         -76.287038,
@@ -2275,7 +2275,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral de Nuestra Señora del Rosario del Palmar",
-                  "text": "Die Kathedrale in Palmira ist der Sitz der lokalen Diözese.",
+                  "text": "Kathedrale der Diözese Palmira in Kolumbien, erbaut im neugotischen Stil.",
                   "category": "religious",
                   "coords": [
                         -76.300653,
@@ -2286,7 +2286,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Auditorio Gary Mintz",
-                  "text": "Színház Palmira városában.",
+                  "text": "Auditorio Gary Mintz, egy előadóterem Palmirában, Gary Mintzről elnevezve, kulturális események számára.",
                   "category": "cultural",
                   "coords": [
                         -76.307865,
@@ -2295,7 +2295,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de convenciones Guillermo Barney Materon Amaime",
-                  "text": "Színház Palmira városában.",
+                  "text": "Guillermo Barney Materon Amaime Kongresszusi Központ, egy kongresszusi központ Palmirában az Amaime folyó mellett, Guillermo Barney Materonról elnevezve.",
                   "category": "cultural",
                   "coords": [
                         -76.304852,
@@ -2304,7 +2304,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque del Azúcar",
-                  "text": "Vízipark Palmira városában.",
+                  "text": "Parque del Azúcar, egy családi park Palmirában, a cukoriparról elnevezve, játszóterekkel és zöldterületekkel.",
                   "category": "family",
                   "coords": [
                         -76.307812,
@@ -2313,7 +2313,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro cultural Gullermo Barney Materon",
-                  "text": "Színház Palmira városában.",
+                  "text": "Gullermo Barney Materon Kulturális Központ, egy kulturális központ Palmirában, Guillermo Barney Materonról elnevezve.",
                   "category": "cultural",
                   "coords": [
                         -76.299468,
@@ -2322,7 +2322,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mariposario",
-                  "text": "Látnivaló Palmira városában.",
+                  "text": "Mariposario, egy lepkekert Palmirában, trópusi lepkék gyűjteményével.",
                   "category": "landmark",
                   "coords": [
                         -76.285875,
@@ -2331,7 +2331,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Bosque Municipal",
-                  "text": "Látnivaló Palmira városában.",
+                  "text": "Palmira városi erdeje, amely a város zöld tüdejeként szolgál.",
                   "category": "landmark",
                   "coords": [
                         -76.287038,
@@ -2340,7 +2340,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral de Nuestra Señora del Rosario del Palmar",
-                  "text": "Palmira katedrálisa a helyi egyházmegye székhelye.",
+                  "text": "A palmirai egyházmegye székesegyháza Kolumbiában, neogótikus stílusban épült.",
                   "category": "religious",
                   "coords": [
                         -76.300653,
@@ -2351,7 +2351,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Auditorio Gary Mintz",
-                  "text": "Un teatru în Palmira.",
+                  "text": "Auditorio Gary Mintz, un auditoriu în Palmira, numit după Gary Mintz, pentru evenimente culturale.",
                   "category": "cultural",
                   "coords": [
                         -76.307865,
@@ -2360,7 +2360,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de convenciones Guillermo Barney Materon Amaime",
-                  "text": "Un teatru în Palmira.",
+                  "text": "Centrul de Convenții Guillermo Barney Materon Amaime, un centru de convenții în Palmira de-a lungul râului Amaime, numit după Guillermo Barney Materon.",
                   "category": "cultural",
                   "coords": [
                         -76.304852,
@@ -2369,7 +2369,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque del Azúcar",
-                  "text": "Un parc acvatic în Palmira.",
+                  "text": "Parque del Azúcar, un parc de familie în Palmira, numit după industria zahărului, cu locuri de joacă și spații verzi.",
                   "category": "family",
                   "coords": [
                         -76.307812,
@@ -2378,7 +2378,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro cultural Gullermo Barney Materon",
-                  "text": "Un teatru în Palmira.",
+                  "text": "Centrul Cultural Gullermo Barney Materon, un centru cultural în Palmira, numit după Guillermo Barney Materon.",
                   "category": "cultural",
                   "coords": [
                         -76.299468,
@@ -2387,7 +2387,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mariposario",
-                  "text": "O atracție în Palmira.",
+                  "text": "Mariposario, o casă a fluturilor în Palmira cu o colecție de fluturi tropicali.",
                   "category": "landmark",
                   "coords": [
                         -76.285875,
@@ -2396,7 +2396,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Bosque Municipal",
-                  "text": "O atracție în Palmira.",
+                  "text": "O pădure municipală în Palmira, care servește ca plămân verde al orașului.",
                   "category": "landmark",
                   "coords": [
                         -76.287038,
@@ -2405,7 +2405,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral de Nuestra Señora del Rosario del Palmar",
-                  "text": "Catedrala din Palmira este sediul diocezei locale.",
+                  "text": "Catedrala Diecezei de Palmira în Columbia, construită în stil neogotic.",
                   "category": "religious",
                   "coords": [
                         -76.300653,
@@ -2416,7 +2416,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Auditorio Gary Mintz",
-                  "text": "A theater in Palmira.",
+                  "text": "Auditorio Gary Mintz, an auditorium in Palmira named after Gary Mintz, used for cultural events.",
                   "category": "cultural",
                   "coords": [
                         -76.307865,
@@ -2425,7 +2425,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro de convenciones Guillermo Barney Materon Amaime",
-                  "text": "A theater in Palmira.",
+                  "text": "Centro de convenciones Guillermo Barney Materon Amaime, a convention center in Palmira along the Amaime River, named after Guillermo Barney Materon.",
                   "category": "cultural",
                   "coords": [
                         -76.304852,
@@ -2434,7 +2434,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque del Azúcar",
-                  "text": "A water park in Palmira.",
+                  "text": "Parque del Azúcar, a family park in Palmira named after the sugar industry, with playgrounds and green areas.",
                   "category": "family",
                   "coords": [
                         -76.307812,
@@ -2443,7 +2443,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Centro cultural Gullermo Barney Materon",
-                  "text": "A theater in Palmira.",
+                  "text": "Centro cultural Gullermo Barney Materon, a cultural center in Palmira named after Guillermo Barney Materon.",
                   "category": "cultural",
                   "coords": [
                         -76.299468,
@@ -2452,7 +2452,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mariposario",
-                  "text": "An attraction in Palmira.",
+                  "text": "Mariposario, a butterfly house in Palmira with a collection of tropical butterflies.",
                   "category": "landmark",
                   "coords": [
                         -76.285875,
@@ -2461,7 +2461,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Bosque Municipal",
-                  "text": "An attraction in Palmira.",
+                  "text": "A municipal forest in Palmira, serving as the city's green lung.",
                   "category": "landmark",
                   "coords": [
                         -76.287038,
@@ -2470,7 +2470,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Catedral de Nuestra Señora del Rosario del Palmar",
-                  "text": "The cathedral in Palmira is the seat of the local diocese.",
+                  "text": "Catedral de Nuestra Señora del Rosario del Palmar: the cathedral of the Diocese of Palmira, built in Neo-Gothic style.",
                   "category": "religious",
                   "coords": [
                         -76.300653,
@@ -2629,7 +2629,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Acualago",
-                  "text": "Ein Wasserpark in Floridablanca.",
+                  "text": "Ein Familienwasserpark mit einem See und Wasserspielen in Floridablanca.",
                   "category": "family",
                   "coords": [
                         -73.101301,
@@ -2638,7 +2638,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Finca La Esperanza - CDMB",
-                  "text": "Ein Naturschutzgebiet in Floridablanca.",
+                  "text": "Ein von der CDMB verwaltetes Naturschutzgebiet mit tropischem Wald in Floridablanca.",
                   "category": "natural",
                   "coords": [
                         -73.072767,
@@ -2647,7 +2647,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tortugitas para niños",
-                  "text": "Ein Zoo in Floridablanca.",
+                  "text": "Ein Kinderbereich mit kleinen Schildkröten in Floridablanca.",
                   "category": "family",
                   "coords": [
                         -73.095869,
@@ -2656,7 +2656,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico Guane de Floridablanca, Casa Paragüitas",
-                  "text": "Ein Museum in Floridablanca.",
+                  "text": "Ein Museum für Guane-Archäologie im historischen Casa Paragüitas in Floridablanca.",
                   "category": "museum",
                   "coords": [
                         -73.089583,
@@ -2665,7 +2665,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Corredor del Perezoso",
-                  "text": "Ein Zoo in Floridablanca.",
+                  "text": "Ein Spazierweg in Floridablanca, der nach Faultieren benannt ist und diese beobachten lässt.",
                   "category": "family",
                   "coords": [
                         -73.089195,
@@ -2674,7 +2674,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puente sobre la Carbona",
-                  "text": "Ein Aussichtspunkt in Floridablanca.",
+                  "text": "Eine Naturbrücke über den Fluss Carbona in Floridablanca.",
                   "category": "natural",
                   "coords": [
                         -73.070314,
@@ -2683,7 +2683,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Cascada",
-                  "text": "Ein Aussichtspunkt in Floridablanca.",
+                  "text": "Ein kleiner Wasserfall in einer grünen Umgebung in Floridablanca.",
                   "category": "natural",
                   "coords": [
                         -73.067573,
@@ -2692,7 +2692,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hacienda La Esperanza",
-                  "text": "Eine Attraktion in Floridablanca.",
+                  "text": "Eine historische Hacienda aus der Kolonialzeit in Floridablanca.",
                   "category": "landmark",
                   "coords": [
                         -73.071068,
@@ -2701,7 +2701,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "EcoParque Cerro del Santísimo",
-                  "text": "Eine Attraktion in Floridablanca.",
+                  "text": "Ein ökologischer Park auf dem Cerro del Santísimo mit Panoramablick in Floridablanca.",
                   "category": "landmark",
                   "coords": [
                         -73.068943,
@@ -2710,7 +2710,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Menor",
-                  "text": "Ein Gotteshaus in Floridablanca.",
+                  "text": "Kolonialkirche in Floridablanca, Kolumbien, mit einer bemalten Holzdecke.",
                   "category": "religious",
                   "coords": [
                         -73.086425,
@@ -2721,7 +2721,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Acualago",
-                  "text": "Vízipark Floridablanca városában.",
+                  "text": "Családi vízi park Floridablancában, tóval és vízi játékokkal.",
                   "category": "family",
                   "coords": [
                         -73.101301,
@@ -2730,7 +2730,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Finca La Esperanza - CDMB",
-                  "text": "Természetvédelmi terület Floridablanca városában.",
+                  "text": "A CDMB által kezelt természetvédelmi terület Floridablancában, trópusi erdővel.",
                   "category": "natural",
                   "coords": [
                         -73.072767,
@@ -2739,7 +2739,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tortugitas para niños",
-                  "text": "Állatkert Floridablanca városában.",
+                  "text": "Gyermekterület kis teknősökkel Floridablancában.",
                   "category": "family",
                   "coords": [
                         -73.095869,
@@ -2748,7 +2748,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico Guane de Floridablanca, Casa Paragüitas",
-                  "text": "Múzeum Floridablanca városában.",
+                  "text": "Guane régészeti múzeum a történelmi Casa Paragüitasban Floridablancában.",
                   "category": "museum",
                   "coords": [
                         -73.089583,
@@ -2757,7 +2757,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Corredor del Perezoso",
-                  "text": "Állatkert Floridablanca városában.",
+                  "text": "Sétány Floridablancában, lajhárokról elnevezve, ahol megfigyelhetők az állatok.",
                   "category": "family",
                   "coords": [
                         -73.089195,
@@ -2766,7 +2766,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puente sobre la Carbona",
-                  "text": "Kilátó Floridablanca városában.",
+                  "text": "Egy természetes híd a Carbona folyó felett Floridablancában.",
                   "category": "natural",
                   "coords": [
                         -73.070314,
@@ -2775,7 +2775,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Cascada",
-                  "text": "Kilátó Floridablanca városában.",
+                  "text": "Egy kis vízesés zöld környezetben Floridablancában.",
                   "category": "natural",
                   "coords": [
                         -73.067573,
@@ -2784,7 +2784,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hacienda La Esperanza",
-                  "text": "Látnivaló Floridablanca városában.",
+                  "text": "Történelmi hacienda a gyarmati korból Floridablancában.",
                   "category": "landmark",
                   "coords": [
                         -73.071068,
@@ -2793,7 +2793,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "EcoParque Cerro del Santísimo",
-                  "text": "Látnivaló Floridablanca városában.",
+                  "text": "Ökopark a Cerro del Santísimo dombon, panorámás kilátással Floridablancában.",
                   "category": "landmark",
                   "coords": [
                         -73.068943,
@@ -2802,7 +2802,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Menor",
-                  "text": "Templom Floridablanca városában.",
+                  "text": "Gyarmati templom Floridablancában, Kolumbiában, festett fa mennyezettel.",
                   "category": "religious",
                   "coords": [
                         -73.086425,
@@ -2813,7 +2813,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Acualago",
-                  "text": "Un parc acvatic în Floridablanca.",
+                  "text": "Un parc acvatic familial cu un lac și jocuri de apă în Floridablanca.",
                   "category": "family",
                   "coords": [
                         -73.101301,
@@ -2822,7 +2822,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Finca La Esperanza - CDMB",
-                  "text": "O rezervație naturală în Floridablanca.",
+                  "text": "O rezervație naturală administrată de CDMB în Floridablanca, cu pădure tropicală.",
                   "category": "natural",
                   "coords": [
                         -73.072767,
@@ -2831,7 +2831,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tortugitas para niños",
-                  "text": "O grădină zoologică în Floridablanca.",
+                  "text": "O zonă pentru copii cu țestoase mici în Floridablanca.",
                   "category": "family",
                   "coords": [
                         -73.095869,
@@ -2840,7 +2840,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico Guane de Floridablanca, Casa Paragüitas",
-                  "text": "Un muzeu în Floridablanca.",
+                  "text": "Un muzeu de arheologie Guane în casa istorică Casa Paragüitas din Floridablanca.",
                   "category": "museum",
                   "coords": [
                         -73.089583,
@@ -2849,7 +2849,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Corredor del Perezoso",
-                  "text": "O grădină zoologică în Floridablanca.",
+                  "text": "O alee în Floridablanca numită după leneși, unde pot fi observate animalele.",
                   "category": "family",
                   "coords": [
                         -73.089195,
@@ -2858,7 +2858,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puente sobre la Carbona",
-                  "text": "Un punct de observație în Floridablanca.",
+                  "text": "Un pod natural peste râul Carbona în Floridablanca.",
                   "category": "natural",
                   "coords": [
                         -73.070314,
@@ -2867,7 +2867,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Cascada",
-                  "text": "Un punct de observație în Floridablanca.",
+                  "text": "O mică cascadă într-un cadru verde în Floridablanca.",
                   "category": "natural",
                   "coords": [
                         -73.067573,
@@ -2876,7 +2876,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hacienda La Esperanza",
-                  "text": "O atracție în Floridablanca.",
+                  "text": "O hacienda istorică din perioada colonială în Floridablanca.",
                   "category": "landmark",
                   "coords": [
                         -73.071068,
@@ -2885,7 +2885,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "EcoParque Cerro del Santísimo",
-                  "text": "O atracție în Floridablanca.",
+                  "text": "Un parc ecologic pe dealul Cerro del Santísimo cu vedere panoramică în Floridablanca.",
                   "category": "landmark",
                   "coords": [
                         -73.068943,
@@ -2894,7 +2894,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Menor",
-                  "text": "Un lăcaș de cult în Floridablanca.",
+                  "text": "Biserică colonială în Floridablanca, Columbia, cu tavan din lemn pictat.",
                   "category": "religious",
                   "coords": [
                         -73.086425,
@@ -2905,7 +2905,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Acualago",
-                  "text": "A water park in Floridablanca.",
+                  "text": "A family water park with a lake and water features in Floridablanca.",
                   "category": "family",
                   "coords": [
                         -73.101301,
@@ -2914,7 +2914,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Finca La Esperanza - CDMB",
-                  "text": "A nature reserve in Floridablanca.",
+                  "text": "A nature reserve managed by CDMB with tropical forest in Floridablanca.",
                   "category": "natural",
                   "coords": [
                         -73.072767,
@@ -2923,7 +2923,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tortugitas para niños",
-                  "text": "A zoo in Floridablanca.",
+                  "text": "A children's area with small turtles in Floridablanca.",
                   "category": "family",
                   "coords": [
                         -73.095869,
@@ -2932,7 +2932,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico Guane de Floridablanca, Casa Paragüitas",
-                  "text": "A museum in Floridablanca.",
+                  "text": "A museum of Guane archaeology in the historic Casa Paragüitas in Floridablanca.",
                   "category": "museum",
                   "coords": [
                         -73.089583,
@@ -2941,7 +2941,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Corredor del Perezoso",
-                  "text": "A zoo in Floridablanca.",
+                  "text": "A trail in Floridablanca named after sloths, where they can be spotted.",
                   "category": "family",
                   "coords": [
                         -73.089195,
@@ -2950,7 +2950,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puente sobre la Carbona",
-                  "text": "A viewpoint in Floridablanca.",
+                  "text": "A natural bridge over the Carbona River in Floridablanca.",
                   "category": "natural",
                   "coords": [
                         -73.070314,
@@ -2959,7 +2959,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mini Cascada",
-                  "text": "A viewpoint in Floridablanca.",
+                  "text": "A small waterfall in a green setting in Floridablanca.",
                   "category": "natural",
                   "coords": [
                         -73.067573,
@@ -2968,7 +2968,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Hacienda La Esperanza",
-                  "text": "An attraction in Floridablanca.",
+                  "text": "A historic colonial-era hacienda in Floridablanca.",
                   "category": "landmark",
                   "coords": [
                         -73.071068,
@@ -2977,7 +2977,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "EcoParque Cerro del Santísimo",
-                  "text": "An attraction in Floridablanca.",
+                  "text": "An ecological park on Cerro del Santísimo hill with panoramic views in Floridablanca.",
                   "category": "landmark",
                   "coords": [
                         -73.068943,
@@ -2986,7 +2986,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Menor",
-                  "text": "A place of worship in Floridablanca.",
+                  "text": "Iglesia Menor: a colonial church in Floridablanca, Colombia, known for its painted wooden ceiling.",
                   "category": "religious",
                   "coords": [
                         -73.086425,
@@ -3047,7 +3047,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Procinal",
-                  "text": "Procinal ist ein Kino und Theater in Barrancabermeja.",
+                  "text": "Ein kulturelles Zentrum in Barrancabermeja, das Veranstaltungen und Ausstellungen bietet.",
                   "category": "cultural",
                   "coords": [
                         -73.866341,
@@ -3056,7 +3056,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "CMDHM",
-                  "text": "Das CMDHM ist ein Museum in Barrancabermeja.",
+                  "text": "Ein Museum in Barrancabermeja, das sich mit Menschenrechten und sozialer Geschichte befasst.",
                   "category": "museum",
                   "coords": [
                         -73.855844,
@@ -3065,7 +3065,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Indios Yariguies",
-                  "text": "Der Parque Indios Yariguies ist ein Denkmal in Barrancabermeja.",
+                  "text": "Ein Park in Barrancabermeja, der an das indigene Volk der Yariguíes erinnert.",
                   "category": "historical",
                   "coords": [
                         -73.865223,
@@ -3074,7 +3074,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Constitucion",
-                  "text": "Der Parque La Constitucion ist ein Aussichtspunkt in Barrancabermeja.",
+                  "text": "Ein natürlicher Park mit Grünflächen und Spazierwegen in Barrancabermeja.",
                   "category": "natural",
                   "coords": [
                         -73.871255,
@@ -3083,7 +3083,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Plazoleta Cacique Pipatón",
-                  "text": "Die Plazoleta Cacique Pipatón beherbergt ein Denkmal in Barrancabermeja.",
+                  "text": "Ein Platz in Barrancabermeja, der dem indigenen Häuptling Pipatón gewidmet ist.",
                   "category": "historical",
                   "coords": [
                         -73.850165,
@@ -3092,7 +3092,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento El tapir",
-                  "text": "Das Monumento El tapir ist ein Denkmal in Barrancabermeja.",
+                  "text": "Ein Denkmal eines Tapirs in Barrancabermeja, das einheimische Tierwelt zeigt.",
                   "category": "historical",
                   "coords": [
                         -73.855927,
@@ -3101,7 +3101,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cupula la Pollera Colorada",
-                  "text": "Die Cupula la Pollera Colorada ist ein Denkmal in Barrancabermeja.",
+                  "text": "Eine rote Kuppel in Barrancabermeja, ein Wahrzeichen der Stadt.",
                   "category": "historical",
                   "coords": [
                         -73.854291,
@@ -3110,7 +3110,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iguana descansando",
-                  "text": "Das Denkmal Iguana descansando befindet sich in Barrancabermeja.",
+                  "text": "Eine Skulptur einer ruhenden Leguan in Barrancabermeja.",
                   "category": "historical",
                   "coords": [
                         -73.862056,
@@ -3119,7 +3119,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Camilo Torres",
-                  "text": "Der Parque Camilo Torres ist eine Attraktion in Barrancabermeja.",
+                  "text": "Ein Park in Barrancabermeja, benannt nach dem Priester und Revolutionär Camilo Torres.",
                   "category": "landmark",
                   "coords": [
                         -73.853397,
@@ -3128,7 +3128,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque del Reloj",
-                  "text": "Der Parque del Reloj ist eine beliebte Attraktion in Barrancabermeja.",
+                  "text": "Ein Park mit einem markanten Uhrenturm in Barrancabermeja.",
                   "category": "landmark",
                   "coords": [
                         -73.859449,
@@ -3137,7 +3137,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Uribe Uribe",
-                  "text": "Der Parque Uribe Uribe ist eine Sehenswürdigkeit in Barrancabermeja.",
+                  "text": "Ein Park in Barrancabermeja, der dem Politiker Rafael Uribe Uribe gewidmet ist.",
                   "category": "landmark",
                   "coords": [
                         -73.868381,
@@ -3146,7 +3146,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Pueblo Nuevo",
-                  "text": "Der Parque Pueblo Nuevo ist ein Picknickplatz in Barrancabermeja.",
+                  "text": "Ein Park im Viertel Pueblo Nuevo in Barrancabermeja.",
                   "category": "landmark",
                   "coords": [
                         -73.862149,
@@ -3155,7 +3155,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Inscredial",
-                  "text": "Der Parque Inscredial ist ein Ort für Picknicks in Barrancabermeja.",
+                  "text": "Ein Wahrzeichen-Park in Barrancabermeja, bekannt für seine Freizeitmöglichkeiten.",
                   "category": "landmark",
                   "coords": [
                         -73.858356,
@@ -3164,7 +3164,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil",
-                  "text": "Der Parque Infantil bietet Picknickmöglichkeiten in Barrancabermeja.",
+                  "text": "Ein Kinderspielplatz mit Spielgeräten in Barrancabermeja.",
                   "category": "landmark",
                   "coords": [
                         -73.860983,
@@ -3175,7 +3175,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Procinal",
-                  "text": "A Procinal egy színház és mozi Barrancabermeja városában.",
+                  "text": "Kulturális központ Barrancabermejában, rendezvényekkel és kiállításokkal.",
                   "category": "cultural",
                   "coords": [
                         -73.866341,
@@ -3184,7 +3184,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "CMDHM",
-                  "text": "A CMDHM egy múzeum Barrancabermeja városában.",
+                  "text": "Múzeum Barrancabermejában, amely emberi jogokkal és társadalomtörténettel foglalkozik.",
                   "category": "museum",
                   "coords": [
                         -73.855844,
@@ -3193,7 +3193,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Indios Yariguies",
-                  "text": "A Parque Indios Yariguies egy emlékmű Barrancabermeja városában.",
+                  "text": "Park Barrancabermejában, amely a Yariguíes bennszülött népre emlékezik.",
                   "category": "historical",
                   "coords": [
                         -73.865223,
@@ -3202,7 +3202,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Constitucion",
-                  "text": "A Parque La Constitucion egy kilátópont Barrancabermeja városában.",
+                  "text": "Természeti park zöldterületekkel és sétányokkal Barrancabermejában.",
                   "category": "natural",
                   "coords": [
                         -73.871255,
@@ -3211,7 +3211,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Plazoleta Cacique Pipatón",
-                  "text": "A Plazoleta Cacique Pipatón egy emlékműnek otthont adó tér Barrancabermeja városában.",
+                  "text": "Tér Barrancabermejában, amely Pipatón bennszülött főnöknek van szentelve.",
                   "category": "historical",
                   "coords": [
                         -73.850165,
@@ -3220,7 +3220,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento El tapir",
-                  "text": "A Monumento El tapir egy emlékmű Barrancabermeja városában.",
+                  "text": "Egy tapír emlékmű Barrancabermejában, amely az őshonos vadvilágot ábrázolja.",
                   "category": "historical",
                   "coords": [
                         -73.855927,
@@ -3229,7 +3229,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cupula la Pollera Colorada",
-                  "text": "A Cupula la Pollera Colorada egy emlékmű Barrancabermeja városában.",
+                  "text": "Vörös kupola Barrancabermejában, a város jelképe.",
                   "category": "historical",
                   "coords": [
                         -73.854291,
@@ -3238,7 +3238,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iguana descansando",
-                  "text": "Az Iguana descansando egy emlékmű Barrancabermeja városában.",
+                  "text": "Egy pihenő leguán szobra Barrancabermejában.",
                   "category": "historical",
                   "coords": [
                         -73.862056,
@@ -3247,7 +3247,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Camilo Torres",
-                  "text": "A Parque Camilo Torres egy park és látványosság Barrancabermeja városában.",
+                  "text": "Park Barrancabermejában, Camilo Torres papról és forradalmárról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -73.853397,
@@ -3256,7 +3256,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque del Reloj",
-                  "text": "A Parque del Reloj egy órapark és látványosság Barrancabermeja városában.",
+                  "text": "Park jellegzetes óratoronnyal Barrancabermejában.",
                   "category": "landmark",
                   "coords": [
                         -73.859449,
@@ -3265,7 +3265,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Uribe Uribe",
-                  "text": "A Parque Uribe Uribe egy látványosság Barrancabermeja városában.",
+                  "text": "Park Barrancabermejában, Rafael Uribe Uribe politikusnak szentelve.",
                   "category": "landmark",
                   "coords": [
                         -73.868381,
@@ -3274,7 +3274,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Pueblo Nuevo",
-                  "text": "A Parque Pueblo Nuevo egy piknikezőhely Barrancabermeja városában.",
+                  "text": "Park a Pueblo Nuevo negyedben Barrancabermejában.",
                   "category": "landmark",
                   "coords": [
                         -73.862149,
@@ -3283,7 +3283,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Inscredial",
-                  "text": "A Parque Inscredial egy piknikezésre alkalmas park Barrancabermeja városában.",
+                  "text": "Jelképes park Barrancabermejában, szabadidős lehetőségeiről ismert.",
                   "category": "landmark",
                   "coords": [
                         -73.858356,
@@ -3292,7 +3292,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil",
-                  "text": "A Parque Infantil egy piknikezőhelyekkel is rendelkező park Barrancabermeja városában.",
+                  "text": "Gyermekjátszótér játékokkal Barrancabermejában.",
                   "category": "landmark",
                   "coords": [
                         -73.860983,
@@ -3303,7 +3303,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Procinal",
-                  "text": "Procinal este un teatru și cinematograf din Barrancabermeja.",
+                  "text": "Un centru cultural în Barrancabermeja, cu evenimente și expoziții.",
                   "category": "cultural",
                   "coords": [
                         -73.866341,
@@ -3312,7 +3312,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "CMDHM",
-                  "text": "CMDHM este un muzeu situat în Barrancabermeja.",
+                  "text": "Un muzeu în Barrancabermeja dedicat drepturilor omului și istoriei sociale.",
                   "category": "museum",
                   "coords": [
                         -73.855844,
@@ -3321,7 +3321,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Indios Yariguies",
-                  "text": "Parque Indios Yariguies este un monument din Barrancabermeja.",
+                  "text": "Un parc în Barrancabermeja care onorează poporul indigen Yariguíes.",
                   "category": "historical",
                   "coords": [
                         -73.865223,
@@ -3330,7 +3330,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Constitucion",
-                  "text": "Parque La Constitucion este un punct de belvedere în Barrancabermeja.",
+                  "text": "Un parc natural cu spații verzi și alei în Barrancabermeja.",
                   "category": "natural",
                   "coords": [
                         -73.871255,
@@ -3339,7 +3339,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Plazoleta Cacique Pipatón",
-                  "text": "Plazoleta Cacique Pipatón este o piațetă cu un monument în Barrancabermeja.",
+                  "text": "O piață în Barrancabermeja dedicată căpeteniei indigene Pipatón.",
                   "category": "historical",
                   "coords": [
                         -73.850165,
@@ -3348,7 +3348,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento El tapir",
-                  "text": "Monumento El tapir este un monument situat în Barrancabermeja.",
+                  "text": "Un monument al unui tapir în Barrancabermeja, reprezentând fauna locală.",
                   "category": "historical",
                   "coords": [
                         -73.855927,
@@ -3357,7 +3357,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cupula la Pollera Colorada",
-                  "text": "Cupula la Pollera Colorada este un monument din Barrancabermeja.",
+                  "text": "O cupolă roșie în Barrancabermeja, un simbol al orașului.",
                   "category": "historical",
                   "coords": [
                         -73.854291,
@@ -3366,7 +3366,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iguana descansando",
-                  "text": "Monumentul Iguana descansando este situat în Barrancabermeja.",
+                  "text": "O sculptură a unei iguane în repaus în Barrancabermeja.",
                   "category": "historical",
                   "coords": [
                         -73.862056,
@@ -3375,7 +3375,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Camilo Torres",
-                  "text": "Parque Camilo Torres este o atracție din Barrancabermeja.",
+                  "text": "Un parc în Barrancabermeja numit după preotul și revoluționarul Camilo Torres.",
                   "category": "landmark",
                   "coords": [
                         -73.853397,
@@ -3384,7 +3384,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque del Reloj",
-                  "text": "Parque del Reloj este un parc și o atracție situată în Barrancabermeja.",
+                  "text": "Un parc cu un turn de ceas proeminent în Barrancabermeja.",
                   "category": "landmark",
                   "coords": [
                         -73.859449,
@@ -3393,7 +3393,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Uribe Uribe",
-                  "text": "Parque Uribe Uribe este o atracție publică din Barrancabermeja.",
+                  "text": "Un parc în Barrancabermeja dedicat politicianului Rafael Uribe Uribe.",
                   "category": "landmark",
                   "coords": [
                         -73.868381,
@@ -3402,7 +3402,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Pueblo Nuevo",
-                  "text": "Parque Pueblo Nuevo este un loc de picnic în Barrancabermeja.",
+                  "text": "Un parc în cartierul Pueblo Nuevo din Barrancabermeja.",
                   "category": "landmark",
                   "coords": [
                         -73.862149,
@@ -3411,7 +3411,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Inscredial",
-                  "text": "Parque Inscredial este un loc pentru picnic situat în Barrancabermeja.",
+                  "text": "Un parc emblematic în Barrancabermeja, cunoscut pentru activitățile recreative.",
                   "category": "landmark",
                   "coords": [
                         -73.858356,
@@ -3420,7 +3420,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil",
-                  "text": "Parque Infantil este un loc de picnic în Barrancabermeja.",
+                  "text": "Un parc pentru copii cu echipamente de joacă în Barrancabermeja.",
                   "category": "landmark",
                   "coords": [
                         -73.860983,
@@ -3431,7 +3431,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Procinal",
-                  "text": "Procinal is a theatre and cinema located in Barrancabermeja.",
+                  "text": "A cultural center in Barrancabermeja hosting events and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -73.866341,
@@ -3440,7 +3440,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "CMDHM",
-                  "text": "The CMDHM is a museum located in Barrancabermeja.",
+                  "text": "A museum in Barrancabermeja focusing on human rights and social history.",
                   "category": "museum",
                   "coords": [
                         -73.855844,
@@ -3449,7 +3449,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Indios Yariguies",
-                  "text": "Parque Indios Yariguies is a monument located in Barrancabermeja.",
+                  "text": "A park in Barrancabermeja honoring the Yariguíes indigenous people.",
                   "category": "historical",
                   "coords": [
                         -73.865223,
@@ -3458,7 +3458,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque La Constitucion",
-                  "text": "Parque La Constitucion is a viewpoint situated in Barrancabermeja.",
+                  "text": "A natural park with green spaces and walking paths in Barrancabermeja.",
                   "category": "natural",
                   "coords": [
                         -73.871255,
@@ -3467,7 +3467,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Plazoleta Cacique Pipatón",
-                  "text": "Plazoleta Cacique Pipatón is a monument square located in Barrancabermeja.",
+                  "text": "A plaza in Barrancabermeja dedicated to indigenous chief Pipatón.",
                   "category": "historical",
                   "coords": [
                         -73.850165,
@@ -3476,7 +3476,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento El tapir",
-                  "text": "Monumento El tapir is a monument located in Barrancabermeja.",
+                  "text": "A monument of a tapir in Barrancabermeja, representing local wildlife.",
                   "category": "historical",
                   "coords": [
                         -73.855927,
@@ -3485,7 +3485,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cupula la Pollera Colorada",
-                  "text": "Cupula la Pollera Colorada is a monument found in Barrancabermeja.",
+                  "text": "A red dome in Barrancabermeja, a city landmark.",
                   "category": "historical",
                   "coords": [
                         -73.854291,
@@ -3494,7 +3494,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iguana descansando",
-                  "text": "Iguana descansando is a monument situated in Barrancabermeja.",
+                  "text": "A sculpture of a resting iguana in Barrancabermeja.",
                   "category": "historical",
                   "coords": [
                         -73.862056,
@@ -3503,7 +3503,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Camilo Torres",
-                  "text": "Parque Camilo Torres is a park and attraction in Barrancabermeja.",
+                  "text": "A park in Barrancabermeja named after priest and revolutionary Camilo Torres.",
                   "category": "landmark",
                   "coords": [
                         -73.853397,
@@ -3512,7 +3512,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque del Reloj",
-                  "text": "Parque del Reloj is a park and local attraction located in Barrancabermeja.",
+                  "text": "A park with a distinctive clock tower in Barrancabermeja.",
                   "category": "landmark",
                   "coords": [
                         -73.859449,
@@ -3521,7 +3521,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Uribe Uribe",
-                  "text": "Parque Uribe Uribe is an attraction located in Barrancabermeja.",
+                  "text": "A park in Barrancabermeja dedicated to politician Rafael Uribe Uribe.",
                   "category": "landmark",
                   "coords": [
                         -73.868381,
@@ -3530,7 +3530,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Pueblo Nuevo",
-                  "text": "Parque Pueblo Nuevo is a picnic site situated in Barrancabermeja.",
+                  "text": "A park in the Pueblo Nuevo neighborhood of Barrancabermeja.",
                   "category": "landmark",
                   "coords": [
                         -73.862149,
@@ -3539,7 +3539,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Inscredial",
-                  "text": "Parque Inscredial is a picnic area located in Barrancabermeja.",
+                  "text": "A landmark park in Barrancabermeja, known for recreational activities.",
                   "category": "landmark",
                   "coords": [
                         -73.858356,
@@ -3548,7 +3548,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Infantil",
-                  "text": "Parque Infantil is a park and picnic site located in Barrancabermeja.",
+                  "text": "A children's playground with play equipment in Barrancabermeja.",
                   "category": "landmark",
                   "coords": [
                         -73.860983,
@@ -3654,7 +3654,736 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "itagui-cities-v2", "sights": {"de": [{"name": "Teatro Envigado", "text": "Ein Theater in Itagüí.", "category": "cultural", "coords": [-75.588703, 6.169978]}, {"name": "Museo Counitario GAV", "text": "Ein Museum in Itagüí.", "category": "museum", "coords": [-75.613, 6.176459]}, {"name": "Parque de los Petroglifos", "text": "Eine archäologische Stätte in Itagüí.", "category": "historical", "coords": [-75.613912, 6.176273]}, {"name": "Auditorio Diego Echavarría M.", "text": "Ein Museum in Itagüí.", "category": "museum", "coords": [-75.610951, 6.17233]}, {"name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)", "text": "Eine archäologische Stätte in Itagüí.", "category": "historical", "coords": [-75.626932, 6.161998]}, {"name": "sitio  arqueologico el Cacique", "text": "Eine archäologische Stätte in Itagüí.", "category": "historical", "coords": [-75.618241, 6.196334]}, {"name": "Auditorio Máximum", "text": "Ein Theater in Itagüí.", "category": "cultural", "coords": [-75.630986, 6.166688]}, {"name": "reserva natural \" bosque pico manzanillo\"", "text": "Ein Naturschutzgebiet in Itagüí.", "category": "natural", "coords": [-75.625174, 6.187124]}, {"name": "Acuaparque Ditaires", "text": "Ein Wasserpark in Itagüí.", "category": "family", "coords": [-75.628848, 6.169205]}, {"name": "Parque del Artista", "text": "Der Parque del Artista ist ein bekannter Park in Itagüí.", "category": "park", "coords": [-75.602507, 6.178706]}, {"name": "Casa Finca de Los del Valle", "text": "Das historische Erbe von Itagüí wird durch die Casa Finca de Los del Valle repräsentiert. In Kolumbien bietet dieses Denkmal einen Einblick in vergangene architektonische Epochen.", "category": "historical", "coords": [-75.598923, 6.188692]}, {"name": "casa finca FLANDES", "text": "In der kolumbianischen Stadt Itagüí zeugt die casa finca FLANDES von der lokalen Geschichte. Besucher dieses historischen Wahrzeichens können die Spuren der Vergangenheit in einer einzigartigen Umgebung erkunden.", "category": "historical", "coords": [-75.601343, 6.186233]}, {"name": "Casa Finca San José", "text": "Ein weiteres Relikt der Vergangenheit in Itagüí ist die Casa Finca San José. Dieses Denkmal in Kolumbien vermittelt Gästen eindrucksvoll die historische Wohnkultur der Region.", "category": "historical", "coords": [-75.602416, 6.186969]}, {"name": "Finca Mi Ranchito", "text": "Die Finca Mi Ranchito bereichert das historische Angebot der Stadt Itagüí in Kolumbien. Wer dieses Denkmal besucht, taucht ein in die facettenreiche regionale Historie.", "category": "historical", "coords": [-75.628841, 6.161518]}, {"name": "Escultura Reto", "text": "Die Escultura Reto ist ein geschichtsträchtiges Denkmal im kolumbianischen Itagüí. Kunst- und Geschichtsinteressierte finden hier ein bedeutendes Werk, das den öffentlichen Raum prägt.", "category": "historical", "coords": [-75.60321, 6.177785]}, {"name": "Bulebar de la parroquia san pio", "text": "Eine Attraktion in Itagüí.", "category": "landmark", "coords": [-75.620129, 6.164438]}, {"name": "El Hormiguero", "text": "Ein Kulturzentrum in Itagüí.", "category": "cultural", "coords": [-75.615683, 6.187142]}, {"name": "Casadela Cultura La Barquerena", "text": "Ein Kulturzentrum in Itagüí.", "category": "cultural", "coords": [-75.61302, 6.150396]}, {"name": "Antigua estación del ferrocarril", "text": "Die Antigua estación del ferrocarril in Itagüí erinnert an die Ära der kolumbianischen Eisenbahn. Gäste dieses historischen Ortes können die Atmosphäre eines alten Verkehrsknotenpunktes nachempfinden.", "category": "historical", "coords": [-75.62306, 6.162679]}, {"name": "Parroquia Santa Gertrudis", "text": "Eine Kirche in Itagüí.", "category": "religious", "coords": [-75.586961, 6.169807]}], "hu": [{"name": "Teatro Envigado", "text": "Színház Itagüí városában.", "category": "cultural", "coords": [-75.588703, 6.169978]}, {"name": "Museo Counitario GAV", "text": "Múzeum Itagüí városában.", "category": "museum", "coords": [-75.613, 6.176459]}, {"name": "Parque de los Petroglifos", "text": "Régészeti lelőhely Itagüí városában.", "category": "historical", "coords": [-75.613912, 6.176273]}, {"name": "Auditorio Diego Echavarría M.", "text": "Múzeum Itagüí városában.", "category": "museum", "coords": [-75.610951, 6.17233]}, {"name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)", "text": "Régészeti lelőhely Itagüí városában.", "category": "historical", "coords": [-75.626932, 6.161998]}, {"name": "sitio  arqueologico el Cacique", "text": "Régészeti lelőhely Itagüí városában.", "category": "historical", "coords": [-75.618241, 6.196334]}, {"name": "Auditorio Máximum", "text": "Színház Itagüí városában.", "category": "cultural", "coords": [-75.630986, 6.166688]}, {"name": "reserva natural \" bosque pico manzanillo\"", "text": "Természetvédelmi terület Itagüí városában.", "category": "natural", "coords": [-75.625174, 6.187124]}, {"name": "Acuaparque Ditaires", "text": "Vízipark Itagüí városában.", "category": "family", "coords": [-75.628848, 6.169205]}, {"name": "Parque del Artista", "text": "A Parque del Artista egy ismert park Itagüí városában.", "category": "park", "coords": [-75.602507, 6.178706]}, {"name": "Casa Finca de Los del Valle", "text": "Az Itagüí városában megőrzött történelmi emlék, a Casa Finca de Los del Valle Kolumbia múltját idézi fel. Ezt a létesítményt felkeresve az érdeklődők megismerkedhetnek a térség épített örökségével.", "category": "historical", "coords": [-75.598923, 6.188692]}, {"name": "casa finca FLANDES", "text": "A történelmi jelentőségű casa finca FLANDES Kolumbia Itagüí településén áll. Az ide érkezők egy múltidéző utazáson vehetnek részt ezen a különleges helyszínen.", "category": "historical", "coords": [-75.601343, 6.186233]}, {"name": "Casa Finca San José", "text": "Kolumbia egyik történelmi látványossága a Casa Finca San José, amely Itagüí városában található. A látogatók ezen a helyen betekintést nyerhetnek a környék korábbi életmódjába.", "category": "historical", "coords": [-75.602416, 6.186969]}, {"name": "Finca Mi Ranchito", "text": "Az Itagüí városképét színesítő Finca Mi Ranchito egy fontos történelmi emlékhely Kolumbiában. Ez az épület egyedi atmoszférájával várja a múlt iránt érdeklődő turistákat.", "category": "historical", "coords": [-75.628841, 6.161518]}, {"name": "Escultura Reto", "text": "Az Escultura Reto egy történelmi köztéri alkotás, amelyet Kolumbiában, Itagüí városában tekinthetünk meg. A látogatók számára egy kulturális és történelmi szimbólum felfedezését kínálja.", "category": "historical", "coords": [-75.60321, 6.177785]}, {"name": "Bulebar de la parroquia san pio", "text": "Látnivaló Itagüí városában.", "category": "landmark", "coords": [-75.620129, 6.164438]}, {"name": "El Hormiguero", "text": "Művelődési központ Itagüí városában.", "category": "cultural", "coords": [-75.615683, 6.187142]}, {"name": "Casadela Cultura La Barquerena", "text": "Művelődési központ Itagüí városában.", "category": "cultural", "coords": [-75.61302, 6.150396]}, {"name": "Antigua estación del ferrocarril", "text": "Kolumbia vasúttörténetének egy szeletét őrzi az Antigua estación del ferrocarril nevű történelmi állomás Itagüíban. A helyszín különleges élményt nyújt a régi közlekedési módok kedvelőinek.", "category": "historical", "coords": [-75.62306, 6.162679]}, {"name": "Parroquia Santa Gertrudis", "text": "Templom Itagüí városában.", "category": "religious", "coords": [-75.586961, 6.169807]}], "ro": [{"name": "Teatro Envigado", "text": "Un teatru în Itagüí.", "category": "cultural", "coords": [-75.588703, 6.169978]}, {"name": "Museo Counitario GAV", "text": "Un muzeu în Itagüí.", "category": "museum", "coords": [-75.613, 6.176459]}, {"name": "Parque de los Petroglifos", "text": "Un sit arheologic în Itagüí.", "category": "historical", "coords": [-75.613912, 6.176273]}, {"name": "Auditorio Diego Echavarría M.", "text": "Un muzeu în Itagüí.", "category": "museum", "coords": [-75.610951, 6.17233]}, {"name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)", "text": "Un sit arheologic în Itagüí.", "category": "historical", "coords": [-75.626932, 6.161998]}, {"name": "sitio  arqueologico el Cacique", "text": "Un sit arheologic în Itagüí.", "category": "historical", "coords": [-75.618241, 6.196334]}, {"name": "Auditorio Máximum", "text": "Un teatru în Itagüí.", "category": "cultural", "coords": [-75.630986, 6.166688]}, {"name": "reserva natural \" bosque pico manzanillo\"", "text": "O rezervație naturală în Itagüí.", "category": "natural", "coords": [-75.625174, 6.187124]}, {"name": "Acuaparque Ditaires", "text": "Un parc acvatic în Itagüí.", "category": "family", "coords": [-75.628848, 6.169205]}, {"name": "Parque del Artista", "text": "Parque del Artista este un parc cunoscut în Itagüí.", "category": "park", "coords": [-75.602507, 6.178706]}, {"name": "Casa Finca de Los del Valle", "text": "Casa Finca de Los del Valle este un monument istoric ce se regăsește în orașul Itagüí, Columbia. Acest obiectiv turistic oferă vizitatorilor o privire asupra arhitecturii și tradițiilor din trecut.", "category": "historical", "coords": [-75.598923, 6.188692]}, {"name": "casa finca FLANDES", "text": "Situată în orașul columbian Itagüí, casa finca FLANDES stă mărturie istoriei locului. Turistul va descoperi aici o moștenire culturală fascinantă conservată în timp.", "category": "historical", "coords": [-75.601343, 6.186233]}, {"name": "Casa Finca San José", "text": "Casa Finca San José se numără printre atracțiile istorice din Itagüí. Vizitând acest monument columbian, oaspeții se pot familiariza cu elementele arhitecturale de altădată.", "category": "historical", "coords": [-75.602416, 6.186969]}, {"name": "Finca Mi Ranchito", "text": "Parte a peisajului istoric din Itagüí, Finca Mi Ranchito este un monument columbian remarcabil. Cei care vizitează situl vor simți farmecul vremurilor trecute.", "category": "historical", "coords": [-75.628841, 6.161518]}, {"name": "Escultura Reto", "text": "Amplasată în Itagüí, Escultura Reto este un monument ce îmbogățește patrimoniul istoric al Columbiei. Această lucrare așteaptă să fie admirată de vizitatorii pasionați de istorie.", "category": "historical", "coords": [-75.60321, 6.177785]}, {"name": "Bulebar de la parroquia san pio", "text": "O atracție în Itagüí.", "category": "landmark", "coords": [-75.620129, 6.164438]}, {"name": "El Hormiguero", "text": "Un centru cultural în Itagüí.", "category": "cultural", "coords": [-75.615683, 6.187142]}, {"name": "Casadela Cultura La Barquerena", "text": "Un centru cultural în Itagüí.", "category": "cultural", "coords": [-75.61302, 6.150396]}, {"name": "Antigua estación del ferrocarril", "text": "Antigua estación del ferrocarril amintește de perioada transportului feroviar de odinioară din Itagüí, Columbia. Vizitatorii acestui monument istoric se vor bucura de arhitectura specifică stațiilor clasice.", "category": "historical", "coords": [-75.62306, 6.162679]}, {"name": "Parroquia Santa Gertrudis", "text": "O biserică în Itagüí.", "category": "religious", "coords": [-75.586961, 6.169807]}], "en": [{"name": "Teatro Envigado", "text": "A theater in Itagüí.", "category": "cultural", "coords": [-75.588703, 6.169978]}, {"name": "Museo Counitario GAV", "text": "A museum in Itagüí.", "category": "museum", "coords": [-75.613, 6.176459]}, {"name": "Parque de los Petroglifos", "text": "An archaeological site in Itagüí.", "category": "historical", "coords": [-75.613912, 6.176273]}, {"name": "Auditorio Diego Echavarría M.", "text": "A museum in Itagüí.", "category": "museum", "coords": [-75.610951, 6.17233]}, {"name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)", "text": "An archaeological site in Itagüí.", "category": "historical", "coords": [-75.626932, 6.161998]}, {"name": "sitio  arqueologico el Cacique", "text": "An archaeological site in Itagüí.", "category": "historical", "coords": [-75.618241, 6.196334]}, {"name": "Auditorio Máximum", "text": "A theater in Itagüí.", "category": "cultural", "coords": [-75.630986, 6.166688]}, {"name": "reserva natural \" bosque pico manzanillo\"", "text": "A nature reserve in Itagüí.", "category": "natural", "coords": [-75.625174, 6.187124]}, {"name": "Acuaparque Ditaires", "text": "A water park in Itagüí.", "category": "family", "coords": [-75.628848, 6.169205]}, {"name": "Parque del Artista", "text": "Parque del Artista is a well-known park in Itagüí.", "category": "park", "coords": [-75.602507, 6.178706]}, {"name": "Casa Finca de Los del Valle", "text": "Preserving local history, the Casa Finca de Los del Valle is an important monument in Itagüí, Colombia. Exploring this historic site gives guests an appreciation for the region's cultural heritage.", "category": "historical", "coords": [-75.598923, 6.188692]}, {"name": "casa finca FLANDES", "text": "The casa finca FLANDES forms a piece of the historical tapestry in Itagüí, Colombia. Guests visiting this monument can expect to delve into the historical essence of the area.", "category": "historical", "coords": [-75.601343, 6.186233]}, {"name": "Casa Finca San José", "text": "Found in Itagüí, Colombia, the Casa Finca San José serves as a notable historical monument. A visit here allows one to witness the preserved remnants of the city's past.", "category": "historical", "coords": [-75.602416, 6.186969]}, {"name": "Finca Mi Ranchito", "text": "Finca Mi Ranchito contributes to the historical charm of Itagüí, Colombia. At this monument, visitors will be greeted by the authentic ambiance of historical architecture.", "category": "historical", "coords": [-75.628841, 6.161518]}, {"name": "Escultura Reto", "text": "Escultura Reto is a historical monument defining the urban space of Itagüí, Colombia. Visitors to the site will encounter a significant sculptural piece reflecting the area's heritage.", "category": "historical", "coords": [-75.60321, 6.177785]}, {"name": "Bulebar de la parroquia san pio", "text": "An attraction in Itagüí.", "category": "landmark", "coords": [-75.620129, 6.164438]}, {"name": "El Hormiguero", "text": "An arts centre in Itagüí.", "category": "cultural", "coords": [-75.615683, 6.187142]}, {"name": "Casadela Cultura La Barquerena", "text": "An arts centre in Itagüí.", "category": "cultural", "coords": [-75.61302, 6.150396]}, {"name": "Old train station", "text": "The Antigua estación del ferrocarril serves as a historical reminder of the railway era in Itagüí, Colombia. Experiencing this monument provides a look into the region's historical transportation network.", "category": "historical", "coords": [-75.62306, 6.162679]}, {"name": "Parroquia Santa Gertrudis", "text": "A church in Itagüí.", "category": "religious", "coords": [-75.586961, 6.169807]}]},
+    id: "itagui-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Envigado",
+                  "text": "Ein Kulturtheater in Itagüí, das Bühnenaufführungen und Events veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.588703,
+                        6.169978
+                  ]
+            },
+            {
+                  "name": "Museo Counitario GAV",
+                  "text": "Ein Gemeinschaftsmuseum in Itagüí, betrieben von der Gruppe GAV.",
+                  "category": "museum",
+                  "coords": [
+                        -75.613,
+                        6.176459
+                  ]
+            },
+            {
+                  "name": "Parque de los Petroglifos",
+                  "text": "Ein Park in Itagüí mit alten Felszeichnungen (Petroglyphen).",
+                  "category": "historical",
+                  "coords": [
+                        -75.613912,
+                        6.176273
+                  ]
+            },
+            {
+                  "name": "Auditorio Diego Echavarría M.",
+                  "text": "Ein Auditorium in Itagüí, benannt nach dem Industriellen Diego Echavarría M.",
+                  "category": "museum",
+                  "coords": [
+                        -75.610951,
+                        6.17233
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
+                  "text": "Eine archäologische Stätte in Itagüí mit einer vorspanischen Bestattungsurne.",
+                  "category": "historical",
+                  "coords": [
+                        -75.626932,
+                        6.161998
+                  ]
+            },
+            {
+                  "name": "sitio  arqueologico el Cacique",
+                  "text": "Eine archäologische Stätte in Itagüí, benannt nach einem indigenen Häuptling.",
+                  "category": "historical",
+                  "coords": [
+                        -75.618241,
+                        6.196334
+                  ]
+            },
+            {
+                  "name": "Auditorio Máximum",
+                  "text": "Ein großes Auditorium in Itagüí für Konzerte und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.630986,
+                        6.166688
+                  ]
+            },
+            {
+                  "name": "reserva natural \" bosque pico manzanillo\"",
+                  "text": "Ein Naturschutzgebiet auf dem Hügel Pico Manzanillo in Itagüí mit bewaldetem Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.625174,
+                        6.187124
+                  ]
+            },
+            {
+                  "name": "Acuaparque Ditaires",
+                  "text": "Ein Wasserpark in Itagüí mit Rutschen, Pools und Kinderbereichen.",
+                  "category": "family",
+                  "coords": [
+                        -75.628848,
+                        6.169205
+                  ]
+            },
+            {
+                  "name": "Parque del Artista",
+                  "text": "Ein Park in Itagüí, der lokalen Künstlern gewidmet ist und Skulpturen zeigt.",
+                  "category": "park",
+                  "coords": [
+                        -75.602507,
+                        6.178706
+                  ]
+            },
+            {
+                  "name": "Casa Finca de Los del Valle",
+                  "text": "Das historische Erbe von Itagüí wird durch die Casa Finca de Los del Valle repräsentiert. In Kolumbien bietet dieses Denkmal einen Einblick in vergangene architektonische Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        -75.598923,
+                        6.188692
+                  ]
+            },
+            {
+                  "name": "casa finca FLANDES",
+                  "text": "In der kolumbianischen Stadt Itagüí zeugt die casa finca FLANDES von der lokalen Geschichte. Besucher dieses historischen Wahrzeichens können die Spuren der Vergangenheit in einer einzigartigen Umgebung erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        -75.601343,
+                        6.186233
+                  ]
+            },
+            {
+                  "name": "Casa Finca San José",
+                  "text": "Ein weiteres Relikt der Vergangenheit in Itagüí ist die Casa Finca San José. Dieses Denkmal in Kolumbien vermittelt Gästen eindrucksvoll die historische Wohnkultur der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -75.602416,
+                        6.186969
+                  ]
+            },
+            {
+                  "name": "Finca Mi Ranchito",
+                  "text": "Die Finca Mi Ranchito bereichert das historische Angebot der Stadt Itagüí in Kolumbien. Wer dieses Denkmal besucht, taucht ein in die facettenreiche regionale Historie.",
+                  "category": "historical",
+                  "coords": [
+                        -75.628841,
+                        6.161518
+                  ]
+            },
+            {
+                  "name": "Escultura Reto",
+                  "text": "Die Escultura Reto ist ein geschichtsträchtiges Denkmal im kolumbianischen Itagüí. Kunst- und Geschichtsinteressierte finden hier ein bedeutendes Werk, das den öffentlichen Raum prägt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.60321,
+                        6.177785
+                  ]
+            },
+            {
+                  "name": "Bulebar de la parroquia san pio",
+                  "text": "Eine Allee entlang der Kirche San Pio in Itagüí, ein beliebter Spazierweg.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.620129,
+                        6.164438
+                  ]
+            },
+            {
+                  "name": "El Hormiguero",
+                  "text": "Ein kultureller Veranstaltungsort namens „Ameisenhaufen“ in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.615683,
+                        6.187142
+                  ]
+            },
+            {
+                  "name": "Casadela Cultura La Barquerena",
+                  "text": "Ein Kulturhaus im Viertel La Barquereña in Itagüí mit Ausstellungen und Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.61302,
+                        6.150396
+                  ]
+            },
+            {
+                  "name": "Antigua estación del ferrocarril",
+                  "text": "Die Antigua estación del ferrocarril in Itagüí erinnert an die Ära der kolumbianischen Eisenbahn. Gäste dieses historischen Ortes können die Atmosphäre eines alten Verkehrsknotenpunktes nachempfinden.",
+                  "category": "historical",
+                  "coords": [
+                        -75.62306,
+                        6.162679
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gertrudis",
+                  "text": "Eine katholische Kirche in Envigado, Kolumbien, der Heiligen Gertrud geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        -75.586961,
+                        6.169807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Envigado",
+                  "text": "Kulturális színház Itagüíban, színpadi előadásokkal és rendezvényekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.588703,
+                        6.169978
+                  ]
+            },
+            {
+                  "name": "Museo Counitario GAV",
+                  "text": "Közösségi múzeum Itagüíban, a GAV csoport által üzemeltetve.",
+                  "category": "museum",
+                  "coords": [
+                        -75.613,
+                        6.176459
+                  ]
+            },
+            {
+                  "name": "Parque de los Petroglifos",
+                  "text": "Park Itagüíban ősi sziklarajzokkal (petroglifákkal).",
+                  "category": "historical",
+                  "coords": [
+                        -75.613912,
+                        6.176273
+                  ]
+            },
+            {
+                  "name": "Auditorio Diego Echavarría M.",
+                  "text": "Auditórium Itagüíban, Diego Echavarría M. iparmágnásról elnevezve.",
+                  "category": "museum",
+                  "coords": [
+                        -75.610951,
+                        6.17233
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
+                  "text": "Régészeti lelőhely Itagüíban, egy spanyol előtti temetkezési urnával.",
+                  "category": "historical",
+                  "coords": [
+                        -75.626932,
+                        6.161998
+                  ]
+            },
+            {
+                  "name": "sitio  arqueologico el Cacique",
+                  "text": "Régészeti lelőhely Itagüíban, egy bennszülött főnökről elnevezve.",
+                  "category": "historical",
+                  "coords": [
+                        -75.618241,
+                        6.196334
+                  ]
+            },
+            {
+                  "name": "Auditorio Máximum",
+                  "text": "Nagy befogadóképességű auditórium Itagüíban koncertekre és eseményekre.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.630986,
+                        6.166688
+                  ]
+            },
+            {
+                  "name": "reserva natural \" bosque pico manzanillo\"",
+                  "text": "Természetvédelmi terület a Pico Manzanillo dombon Itagüíban, erdős területtel.",
+                  "category": "natural",
+                  "coords": [
+                        -75.625174,
+                        6.187124
+                  ]
+            },
+            {
+                  "name": "Acuaparque Ditaires",
+                  "text": "Vízi park Itagüíban csúszdákkal, medencékkel és gyermekrészleggel.",
+                  "category": "family",
+                  "coords": [
+                        -75.628848,
+                        6.169205
+                  ]
+            },
+            {
+                  "name": "Parque del Artista",
+                  "text": "Park Itagüíban, helyi művészeknek szentelve, szobrokkal.",
+                  "category": "park",
+                  "coords": [
+                        -75.602507,
+                        6.178706
+                  ]
+            },
+            {
+                  "name": "Casa Finca de Los del Valle",
+                  "text": "Az Itagüí városában megőrzött történelmi emlék, a Casa Finca de Los del Valle Kolumbia múltját idézi fel. Ezt a létesítményt felkeresve az érdeklődők megismerkedhetnek a térség épített örökségével.",
+                  "category": "historical",
+                  "coords": [
+                        -75.598923,
+                        6.188692
+                  ]
+            },
+            {
+                  "name": "casa finca FLANDES",
+                  "text": "A történelmi jelentőségű casa finca FLANDES Kolumbia Itagüí településén áll. Az ide érkezők egy múltidéző utazáson vehetnek részt ezen a különleges helyszínen.",
+                  "category": "historical",
+                  "coords": [
+                        -75.601343,
+                        6.186233
+                  ]
+            },
+            {
+                  "name": "Casa Finca San José",
+                  "text": "Kolumbia egyik történelmi látványossága a Casa Finca San José, amely Itagüí városában található. A látogatók ezen a helyen betekintést nyerhetnek a környék korábbi életmódjába.",
+                  "category": "historical",
+                  "coords": [
+                        -75.602416,
+                        6.186969
+                  ]
+            },
+            {
+                  "name": "Finca Mi Ranchito",
+                  "text": "Az Itagüí városképét színesítő Finca Mi Ranchito egy fontos történelmi emlékhely Kolumbiában. Ez az épület egyedi atmoszférájával várja a múlt iránt érdeklődő turistákat.",
+                  "category": "historical",
+                  "coords": [
+                        -75.628841,
+                        6.161518
+                  ]
+            },
+            {
+                  "name": "Escultura Reto",
+                  "text": "Az Escultura Reto egy történelmi köztéri alkotás, amelyet Kolumbiában, Itagüí városában tekinthetünk meg. A látogatók számára egy kulturális és történelmi szimbólum felfedezését kínálja.",
+                  "category": "historical",
+                  "coords": [
+                        -75.60321,
+                        6.177785
+                  ]
+            },
+            {
+                  "name": "Bulebar de la parroquia san pio",
+                  "text": "Sétány a San Pio templom mellett Itagüíban, népszerű sétaútvonal.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.620129,
+                        6.164438
+                  ]
+            },
+            {
+                  "name": "El Hormiguero",
+                  "text": "Kulturális helyszín „A hangyaboly” néven Itagüíban.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.615683,
+                        6.187142
+                  ]
+            },
+            {
+                  "name": "Casadela Cultura La Barquerena",
+                  "text": "Kultúrház a La Barquereña negyedben Itagüíban, kiállításokkal és műhelyekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.61302,
+                        6.150396
+                  ]
+            },
+            {
+                  "name": "Antigua estación del ferrocarril",
+                  "text": "Kolumbia vasúttörténetének egy szeletét őrzi az Antigua estación del ferrocarril nevű történelmi állomás Itagüíban. A helyszín különleges élményt nyújt a régi közlekedési módok kedvelőinek.",
+                  "category": "historical",
+                  "coords": [
+                        -75.62306,
+                        6.162679
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gertrudis",
+                  "text": "Katolikus templom Envigadóban, Kolumbiában, Szent Gertrúdnak szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -75.586961,
+                        6.169807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Envigado",
+                  "text": "Un teatru cultural în Itagüí, care găzduiește spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.588703,
+                        6.169978
+                  ]
+            },
+            {
+                  "name": "Museo Counitario GAV",
+                  "text": "Un muzeu comunitar în Itagüí, operat de grupul GAV.",
+                  "category": "museum",
+                  "coords": [
+                        -75.613,
+                        6.176459
+                  ]
+            },
+            {
+                  "name": "Parque de los Petroglifos",
+                  "text": "Un parc în Itagüí cu petroglife antice.",
+                  "category": "historical",
+                  "coords": [
+                        -75.613912,
+                        6.176273
+                  ]
+            },
+            {
+                  "name": "Auditorio Diego Echavarría M.",
+                  "text": "Un auditoriu în Itagüí numit după industriașul Diego Echavarría M.",
+                  "category": "museum",
+                  "coords": [
+                        -75.610951,
+                        6.17233
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
+                  "text": "Un sit arheologic în Itagüí cu o urnă funerară precolumbiană.",
+                  "category": "historical",
+                  "coords": [
+                        -75.626932,
+                        6.161998
+                  ]
+            },
+            {
+                  "name": "sitio  arqueologico el Cacique",
+                  "text": "Un sit arheologic în Itagüí numit după un căpetenie indigen.",
+                  "category": "historical",
+                  "coords": [
+                        -75.618241,
+                        6.196334
+                  ]
+            },
+            {
+                  "name": "Auditorio Máximum",
+                  "text": "Un auditoriu mare în Itagüí pentru concerte și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.630986,
+                        6.166688
+                  ]
+            },
+            {
+                  "name": "reserva natural \" bosque pico manzanillo\"",
+                  "text": "O rezervație naturală pe dealul Pico Manzanillo în Itagüí, cu zonă împădurită.",
+                  "category": "natural",
+                  "coords": [
+                        -75.625174,
+                        6.187124
+                  ]
+            },
+            {
+                  "name": "Acuaparque Ditaires",
+                  "text": "Un parc acvatic în Itagüí cu tobogane, piscine și zone pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -75.628848,
+                        6.169205
+                  ]
+            },
+            {
+                  "name": "Parque del Artista",
+                  "text": "Un parc în Itagüí dedicat artiștilor locali, cu sculpturi.",
+                  "category": "park",
+                  "coords": [
+                        -75.602507,
+                        6.178706
+                  ]
+            },
+            {
+                  "name": "Casa Finca de Los del Valle",
+                  "text": "Casa Finca de Los del Valle este un monument istoric ce se regăsește în orașul Itagüí, Columbia. Acest obiectiv turistic oferă vizitatorilor o privire asupra arhitecturii și tradițiilor din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        -75.598923,
+                        6.188692
+                  ]
+            },
+            {
+                  "name": "casa finca FLANDES",
+                  "text": "Situată în orașul columbian Itagüí, casa finca FLANDES stă mărturie istoriei locului. Turistul va descoperi aici o moștenire culturală fascinantă conservată în timp.",
+                  "category": "historical",
+                  "coords": [
+                        -75.601343,
+                        6.186233
+                  ]
+            },
+            {
+                  "name": "Casa Finca San José",
+                  "text": "Casa Finca San José se numără printre atracțiile istorice din Itagüí. Vizitând acest monument columbian, oaspeții se pot familiariza cu elementele arhitecturale de altădată.",
+                  "category": "historical",
+                  "coords": [
+                        -75.602416,
+                        6.186969
+                  ]
+            },
+            {
+                  "name": "Finca Mi Ranchito",
+                  "text": "Parte a peisajului istoric din Itagüí, Finca Mi Ranchito este un monument columbian remarcabil. Cei care vizitează situl vor simți farmecul vremurilor trecute.",
+                  "category": "historical",
+                  "coords": [
+                        -75.628841,
+                        6.161518
+                  ]
+            },
+            {
+                  "name": "Escultura Reto",
+                  "text": "Amplasată în Itagüí, Escultura Reto este un monument ce îmbogățește patrimoniul istoric al Columbiei. Această lucrare așteaptă să fie admirată de vizitatorii pasionați de istorie.",
+                  "category": "historical",
+                  "coords": [
+                        -75.60321,
+                        6.177785
+                  ]
+            },
+            {
+                  "name": "Bulebar de la parroquia san pio",
+                  "text": "Un bulevard de-a lungul bisericii San Pio în Itagüí, o alee populară.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.620129,
+                        6.164438
+                  ]
+            },
+            {
+                  "name": "El Hormiguero",
+                  "text": "Un spațiu cultural numit „Furnicarul” în Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.615683,
+                        6.187142
+                  ]
+            },
+            {
+                  "name": "Casadela Cultura La Barquerena",
+                  "text": "O casă de cultură în cartierul La Barquereña din Itagüí, cu expoziții și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.61302,
+                        6.150396
+                  ]
+            },
+            {
+                  "name": "Antigua estación del ferrocarril",
+                  "text": "Antigua estación del ferrocarril amintește de perioada transportului feroviar de odinioară din Itagüí, Columbia. Vizitatorii acestui monument istoric se vor bucura de arhitectura specifică stațiilor clasice.",
+                  "category": "historical",
+                  "coords": [
+                        -75.62306,
+                        6.162679
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gertrudis",
+                  "text": "O biserică catolică în Envigado, Columbia, dedicată Sfintei Gertruda.",
+                  "category": "religious",
+                  "coords": [
+                        -75.586961,
+                        6.169807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Envigado",
+                  "text": "A cultural theater in Itagüí hosting stage performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.588703,
+                        6.169978
+                  ]
+            },
+            {
+                  "name": "Museo Counitario GAV",
+                  "text": "A community museum in Itagüí operated by the GAV group.",
+                  "category": "museum",
+                  "coords": [
+                        -75.613,
+                        6.176459
+                  ]
+            },
+            {
+                  "name": "Parque de los Petroglifos",
+                  "text": "A park in Itagüí featuring ancient petroglyphs.",
+                  "category": "historical",
+                  "coords": [
+                        -75.613912,
+                        6.176273
+                  ]
+            },
+            {
+                  "name": "Auditorio Diego Echavarría M.",
+                  "text": "An auditorium in Itagüí named after industrialist Diego Echavarría M.",
+                  "category": "museum",
+                  "coords": [
+                        -75.610951,
+                        6.17233
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
+                  "text": "An archaeological site in Itagüí containing a pre-Columbian burial urn.",
+                  "category": "historical",
+                  "coords": [
+                        -75.626932,
+                        6.161998
+                  ]
+            },
+            {
+                  "name": "sitio  arqueologico el Cacique",
+                  "text": "An archaeological site in Itagüí named after an indigenous chief.",
+                  "category": "historical",
+                  "coords": [
+                        -75.618241,
+                        6.196334
+                  ]
+            },
+            {
+                  "name": "Auditorio Máximum",
+                  "text": "A large auditorium in Itagüí for concerts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.630986,
+                        6.166688
+                  ]
+            },
+            {
+                  "name": "reserva natural \" bosque pico manzanillo\"",
+                  "text": "A nature reserve on Pico Manzanillo hill in Itagüí with forested area.",
+                  "category": "natural",
+                  "coords": [
+                        -75.625174,
+                        6.187124
+                  ]
+            },
+            {
+                  "name": "Acuaparque Ditaires",
+                  "text": "A water park in Itagüí with slides, pools, and children's areas.",
+                  "category": "family",
+                  "coords": [
+                        -75.628848,
+                        6.169205
+                  ]
+            },
+            {
+                  "name": "Parque del Artista",
+                  "text": "A park in Itagüí dedicated to local artists, featuring sculptures.",
+                  "category": "park",
+                  "coords": [
+                        -75.602507,
+                        6.178706
+                  ]
+            },
+            {
+                  "name": "Casa Finca de Los del Valle",
+                  "text": "Preserving local history, the Casa Finca de Los del Valle is an important monument in Itagüí, Colombia. Exploring this historic site gives guests an appreciation for the region's cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -75.598923,
+                        6.188692
+                  ]
+            },
+            {
+                  "name": "casa finca FLANDES",
+                  "text": "The casa finca FLANDES forms a piece of the historical tapestry in Itagüí, Colombia. Guests visiting this monument can expect to delve into the historical essence of the area.",
+                  "category": "historical",
+                  "coords": [
+                        -75.601343,
+                        6.186233
+                  ]
+            },
+            {
+                  "name": "Casa Finca San José",
+                  "text": "Found in Itagüí, Colombia, the Casa Finca San José serves as a notable historical monument. A visit here allows one to witness the preserved remnants of the city's past.",
+                  "category": "historical",
+                  "coords": [
+                        -75.602416,
+                        6.186969
+                  ]
+            },
+            {
+                  "name": "Finca Mi Ranchito",
+                  "text": "Finca Mi Ranchito contributes to the historical charm of Itagüí, Colombia. At this monument, visitors will be greeted by the authentic ambiance of historical architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -75.628841,
+                        6.161518
+                  ]
+            },
+            {
+                  "name": "Escultura Reto",
+                  "text": "Escultura Reto is a historical monument defining the urban space of Itagüí, Colombia. Visitors to the site will encounter a significant sculptural piece reflecting the area's heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -75.60321,
+                        6.177785
+                  ]
+            },
+            {
+                  "name": "Bulebar de la parroquia san pio",
+                  "text": "A boulevard along the San Pio church in Itagüí, a popular walkway.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.620129,
+                        6.164438
+                  ]
+            },
+            {
+                  "name": "El Hormiguero",
+                  "text": "A cultural venue named 'The Anthill' in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.615683,
+                        6.187142
+                  ]
+            },
+            {
+                  "name": "Casadela Cultura La Barquerena",
+                  "text": "A cultural center in the La Barquereña neighborhood of Itagüí, with exhibitions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.61302,
+                        6.150396
+                  ]
+            },
+            {
+                  "name": "Old train station",
+                  "text": "The Antigua estación del ferrocarril serves as a historical reminder of the railway era in Itagüí, Colombia. Experiencing this monument provides a look into the region's historical transportation network.",
+                  "category": "historical",
+                  "coords": [
+                        -75.62306,
+                        6.162679
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gertrudis",
+                  "text": "A Catholic church in Envigado, Colombia, dedicated to Saint Gertrude.",
+                  "category": "religious",
+                  "coords": [
+                        -75.586961,
+                        6.169807
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-ANT",
     coords: [-75.6136, 6.173],
@@ -3756,7 +4485,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mundo Acuático",
-                  "text": "Mundo Acuático ist ein lokaler Wasserpark in Rionegro.",
+                  "text": "Ein Wassererlebnispark in Rionegro mit Attraktionen für die ganze Familie.",
                   "category": "family",
                   "coords": [
                         -75.379495,
@@ -3765,7 +4494,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "RUEDA",
-                  "text": "RUEDA ist ein Themenpark in Rionegro.",
+                  "text": "Ein großes Riesenrad in Rionegro, das einen Blick über die Stadt bietet.",
                   "category": "family",
                   "coords": [
                         -75.379709,
@@ -3774,7 +4503,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Lago Santander",
-                  "text": "Der Parque Ecológico Lago Santander ist ein Naturschutzgebiet in der Stadt Rionegro.",
+                  "text": "Ein ökologischer Park um den Lago Santander in Rionegro mit Wanderwegen und Natur.",
                   "category": "natural",
                   "coords": [
                         -75.371012,
@@ -3783,7 +4512,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arte Religioso",
-                  "text": "Das Museo Arte Religioso ist ein Museum für religiöse Kunst in Rionegro.",
+                  "text": "Ein Museum, das koloniale religiöse Kunst in einem historischen Gebäude im Zentrum von Rionegro zeigt.",
                   "category": "museum",
                   "coords": [
                         -75.373148,
@@ -3792,7 +4521,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Histórico Casa de la Convención",
-                  "text": "Dieses historische Museum ist eine wichtige kulturelle Einrichtung in Rionegro.",
+                  "text": "Untergebracht in dem Gebäude, in dem die kolumbianische Verfassung von 1863 unterzeichnet wurde, erzählt dieses Museum die Geschichte des Konvents.",
                   "category": "museum",
                   "coords": [
                         -75.37216,
@@ -3801,7 +4530,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Artes de Rionegro",
-                  "text": "Das Museo de Artes de Rionegro ist ein Kunstmuseum in Rionegro.",
+                  "text": "Präsentiert zeitgenössische und traditionelle Kunst aus der Region Antioquia in einem modernen Ausstellungsraum.",
                   "category": "museum",
                   "coords": [
                         -75.374261,
@@ -3810,7 +4539,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Calle De La Madera",
-                  "text": "La Calle De La Madera ist eine lokale Attraktion in der Stadt Rionegro.",
+                  "text": "Eine historische Straße mit Gebäuden, die traditionelle hölzerne Balkone und Fassaden aufweisen.",
                   "category": "landmark",
                   "coords": [
                         -75.378782,
@@ -3819,7 +4548,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Árbol raro",
-                  "text": "Árbol raro ist eine interessante lokale Attraktion in Rionegro.",
+                  "text": "Ein einzelner, uralter Baum einer seltenen Art, der auf dem Hauptplatz von Rionegro steht.",
                   "category": "landmark",
                   "coords": [
                         -75.380884,
@@ -3828,7 +4557,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Adulto Mayor",
-                  "text": "Das Casa Adulto Mayor ist ein lokales Kunstzentrum in Rionegro.",
+                  "text": "Ein restauriertes Kolonialhaus, das als Kultur- und Freizeitzentrum für Senioren dient.",
                   "category": "cultural",
                   "coords": [
                         -75.373249,
@@ -3839,7 +4568,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mundo Acuático",
-                  "text": "A Mundo Acuático egy helyi vízi vidámpark Rionegróban.",
+                  "text": "Vízi élménypark Rionegróban, az egész család számára.",
                   "category": "family",
                   "coords": [
                         -75.379495,
@@ -3848,7 +4577,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "RUEDA",
-                  "text": "A RUEDA egy vidámpark Rionegróban.",
+                  "text": "Hatalmas óriáskerék Rionegróban, városi kilátással.",
                   "category": "family",
                   "coords": [
                         -75.379709,
@@ -3857,7 +4586,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Lago Santander",
-                  "text": "A Parque Ecológico Lago Santander egy természetvédelmi terület Rionegro városában.",
+                  "text": "Ökológiai park a Santander-tó körül Rionegróban, túraútvonalakkal és természettel.",
                   "category": "natural",
                   "coords": [
                         -75.371012,
@@ -3866,7 +4595,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arte Religioso",
-                  "text": "A Museo Arte Religioso egy vallásos művészetnek szentelt múzeum Rionegróban.",
+                  "text": "Gyarmati vallásos művészetet bemutató múzeum egy történelmi épületben Rionegro központjában.",
                   "category": "museum",
                   "coords": [
                         -75.373148,
@@ -3875,7 +4604,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Histórico Casa de la Convención",
-                  "text": "Ez a történelmi múzeum egy fontos kulturális intézmény Rionegróban.",
+                  "text": "Az 1863-as kolumbiai alkotmány aláírásának helyszínéül szolgáló épületben található múzeum a konvent történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -75.37216,
@@ -3884,7 +4613,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Artes de Rionegro",
-                  "text": "A Museo de Artes de Rionegro egy művészeti múzeum Rionegróban.",
+                  "text": "Antioquia régió kortárs és hagyományos művészetét bemutató kiállítótér.",
                   "category": "museum",
                   "coords": [
                         -75.374261,
@@ -3893,7 +4622,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Calle De La Madera",
-                  "text": "A La Calle De La Madera egy helyi látványosság Rionegro városában.",
+                  "text": "Történelmi utca, melynek épületeit hagyományos fából készült erkélyek és homlokzatok díszítik.",
                   "category": "landmark",
                   "coords": [
                         -75.378782,
@@ -3902,7 +4631,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Árbol raro",
-                  "text": "Az Árbol raro egy érdekes helyi látványosság Rionegróban.",
+                  "text": "Egy ritka fajhoz tartozó, ősi fa Rionegro főterén.",
                   "category": "landmark",
                   "coords": [
                         -75.380884,
@@ -3911,7 +4640,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Adulto Mayor",
-                  "text": "A Casa Adulto Mayor egy helyi művészeti központ Rionegróban.",
+                  "text": "Egy felújított gyarmati ház, amely idősek kulturális és szabadidős központjaként szolgál.",
                   "category": "cultural",
                   "coords": [
                         -75.373249,
@@ -3922,7 +4651,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mundo Acuático",
-                  "text": "Mundo Acuático este un parc acvatic local situat în Rionegro.",
+                  "text": "Un parc acvatic în Rionegro cu atracții pentru întreaga familie.",
                   "category": "family",
                   "coords": [
                         -75.379495,
@@ -3931,7 +4660,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "RUEDA",
-                  "text": "RUEDA este un parc tematic situat în Rionegro.",
+                  "text": "O roată panoramică mare în Rionegro, oferind vedere asupra orașului.",
                   "category": "family",
                   "coords": [
                         -75.379709,
@@ -3940,7 +4669,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Lago Santander",
-                  "text": "Parque Ecológico Lago Santander este o rezervație naturală din orașul Rionegro.",
+                  "text": "Un parc ecologic în jurul lacului Santander în Rionegro, cu trasee de drumeție și natură.",
                   "category": "natural",
                   "coords": [
                         -75.371012,
@@ -3949,7 +4678,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arte Religioso",
-                  "text": "Museo Arte Religioso este un muzeu dedicat artei religioase din Rionegro.",
+                  "text": "Un muzeu care expune artă religioasă colonială într-o clădire istorică din centrul orașului Rionegro.",
                   "category": "museum",
                   "coords": [
                         -75.373148,
@@ -3958,7 +4687,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Histórico Casa de la Convención",
-                  "text": "Acest muzeu istoric este o instituție culturală importantă din Rionegro.",
+                  "text": "Găzduit în clădirea unde a fost semnată Constituția Columbiei din 1863, acest muzeu povestește istoria convenției.",
                   "category": "museum",
                   "coords": [
                         -75.37216,
@@ -3967,7 +4696,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Artes de Rionegro",
-                  "text": "Museo de Artes de Rionegro este un muzeu de artă situat în Rionegro.",
+                  "text": "Prezintă artă contemporană și tradițională din regiunea Antioquia într-un spațiu modern de expoziție.",
                   "category": "museum",
                   "coords": [
                         -75.374261,
@@ -3976,7 +4705,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Calle De La Madera",
-                  "text": "La Calle De La Madera este o atracție locală situată în orașul Rionegro.",
+                  "text": "O stradă istorică mărginită de clădiri cu balcoane și fațade tradiționale din lemn.",
                   "category": "landmark",
                   "coords": [
                         -75.378782,
@@ -3985,7 +4714,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Árbol raro",
-                  "text": "Árbol raro este o atracție locală interesantă din Rionegro.",
+                  "text": "Un copac singular și străvechi dintr-o specie rară, situat în piața principală din Rionegro.",
                   "category": "landmark",
                   "coords": [
                         -75.380884,
@@ -3994,7 +4723,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Adulto Mayor",
-                  "text": "Casa Adulto Mayor este un centru de artă local care funcționează în Rionegro.",
+                  "text": "O casă colonială restaurată care funcționează ca centru cultural și de recreere pentru seniori.",
                   "category": "cultural",
                   "coords": [
                         -75.373249,
@@ -4005,7 +4734,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mundo Acuático",
-                  "text": "Mundo Acuático is a local water park located in Rionegro.",
+                  "text": "A water-themed family park in Rionegro with attractions for all ages.",
                   "category": "family",
                   "coords": [
                         -75.379495,
@@ -4014,7 +4743,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "RUEDA",
-                  "text": "RUEDA is a theme park destination situated in Rionegro.",
+                  "text": "A giant ferris wheel in Rionegro offering views over the city.",
                   "category": "family",
                   "coords": [
                         -75.379709,
@@ -4023,7 +4752,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parque Ecológico Lago Santander",
-                  "text": "Parque Ecológico Lago Santander is a nature reserve in the city of Rionegro.",
+                  "text": "An ecological park around Lake Santander in Rionegro with hiking trails and nature.",
                   "category": "natural",
                   "coords": [
                         -75.371012,
@@ -4032,7 +4761,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arte Religioso",
-                  "text": "The Museo Arte Religioso is a museum dedicated to religious art in Rionegro.",
+                  "text": "A museum displaying colonial religious art in a historic building in Rionegro's center.",
                   "category": "museum",
                   "coords": [
                         -75.373148,
@@ -4041,7 +4770,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Histórico Casa de la Convención",
-                  "text": "This historical museum is an important cultural institution in Rionegro.",
+                  "text": "Housed in the building where the 1863 Constitution of Colombia was signed, this museum tells the history of the convention.",
                   "category": "museum",
                   "coords": [
                         -75.37216,
@@ -4050,7 +4779,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo de Artes de Rionegro",
-                  "text": "The Museo de Artes de Rionegro is an art museum situated in Rionegro.",
+                  "text": "Showcases contemporary and traditional art from the Antioquia region in a modern exhibition space.",
                   "category": "museum",
                   "coords": [
                         -75.374261,
@@ -4059,7 +4788,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Calle De La Madera",
-                  "text": "La Calle De La Madera is a local attraction located in the city of Rionegro.",
+                  "text": "A historic street lined with buildings featuring traditional wooden balconies and facades.",
                   "category": "landmark",
                   "coords": [
                         -75.378782,
@@ -4068,7 +4797,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Árbol raro",
-                  "text": "Árbol raro is an interesting local attraction in Rionegro.",
+                  "text": "A singular, ancient tree of a rare species standing in the main plaza of Rionegro.",
                   "category": "landmark",
                   "coords": [
                         -75.380884,
@@ -4077,7 +4806,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa Adulto Mayor",
-                  "text": "Casa Adulto Mayor is a local arts centre functioning in Rionegro.",
+                  "text": "A restored colonial house serving as a cultural and recreational center for senior citizens.",
                   "category": "cultural",
                   "coords": [
                         -75.373249,
@@ -4138,7 +4867,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Casa del Virrey",
-                  "text": "Ein Museum in Cartago.",
+                  "text": "Koloniales Herrenhaus, das einst den spanischen Vizekönig beherbergte, heute ein Museum zur Kolonialgeschichte.",
                   "category": "museum",
                   "coords": [
                         -75.914702,
@@ -4149,7 +4878,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Casa del Virrey",
-                  "text": "Múzeum Cartago városában.",
+                  "text": "Gyarmati kastély, amely egykor a spanyol alkirály otthona volt, ma a gyarmati történelem múzeuma.",
                   "category": "museum",
                   "coords": [
                         -75.914702,
@@ -4160,7 +4889,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Casa del Virrey",
-                  "text": "Un muzeu în Cartago.",
+                  "text": "Conac colonial care a găzduit odinioară viceregele spaniol, acum muzeu de istorie colonială.",
                   "category": "museum",
                   "coords": [
                         -75.914702,
@@ -4171,7 +4900,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Casa del Virrey",
-                  "text": "A museum in Cartago.",
+                  "text": "Colonial mansion that once housed the Spanish viceroy, now a museum of colonial history.",
                   "category": "museum",
                   "coords": [
                         -75.914702,
@@ -4322,7 +5051,340 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "duitama-cities-v2", "sights": {"de": [{"name": "Parque para niños", "text": "Ein Themenpark in Duitama.", "category": "family", "coords": [-73.017087, 5.809186]}, {"name": "Estatua de Simon bolivar", "text": "Im kolumbianischen Duitama würdigt die Estatua de Simon bolivar eine bedeutende historische Figur. Reisende können an diesem Denkmal die südamerikanische Befreiungsgeschichte reflektieren.", "category": "historical", "coords": [-73.034075, 5.827989]}, {"name": "Glorieta San Jose", "text": "Als markantes Wahrzeichen in Duitama fungiert das Denkmal Glorieta San Jose. Kolumbienreisende erwartet hier ein geschichtlicher Fixpunkt im städtischen Treiben.", "category": "historical", "coords": [-73.027097, 5.8239]}, {"name": "Condominio Los Andes", "text": "Eine Attraktion in Duitama.", "category": "landmark", "coords": [-73.034918, 5.842416]}, {"name": "Monumento a las Víctimas del Conflicto Armando", "text": "Das Monumento a las Víctimas del Conflicto Armando in Duitama dient der historischen Erinnerung. In Kolumbien schafft dieses Denkmal einen Raum des Gedenkens und der Reflexion für alle Besucher.", "category": "historical", "coords": [-73.033465, 5.831535]}, {"name": "Culturama", "text": "Ein Kulturzentrum in Duitama.", "category": "cultural", "coords": [-73.030758, 5.830742]}, {"name": "Academia de Formación Artistica", "text": "Ein Kulturzentrum in Duitama.", "category": "cultural", "coords": [-73.030395, 5.815868]}, {"name": "El carmen (Luis A. Soler)", "text": "Eine Attraktion in Duitama.", "category": "landmark", "coords": [-73.036401, 5.827254]}, {"name": "monumento a la virgen", "text": "Dem historischen Erbe von Duitama widmet sich auch das monumento a la virgen in Kolumbien. Wer dieses Denkmal aufsucht, findet ein Zeugnis der kulturellen und religiösen Geschichte der Region.", "category": "historical", "coords": [-73.029296, 5.822426]}], "hu": [{"name": "Parque para niños", "text": "Vidámpark Duitama városában.", "category": "family", "coords": [-73.017087, 5.809186]}, {"name": "Estatua de Simon bolivar", "text": "A Duitama városában emelt Estatua de Simon bolivar egy jelentős történelmi emlékmű Kolumbiában. Az idelátogatók a híres vezető emléke előtt tiszteleghetnek ezen a köztéri helyszínen.", "category": "historical", "coords": [-73.034075, 5.827989]}, {"name": "Glorieta San Jose", "text": "A Glorieta San Jose egy feltűnő történelmi emlék Duitama városában, Kolumbiában. Ez a térség érdekes megállóhelyet kínál a városi séták során.", "category": "historical", "coords": [-73.027097, 5.8239]}, {"name": "Condominio Los Andes", "text": "Látnivaló Duitama városában.", "category": "landmark", "coords": [-73.034918, 5.842416]}, {"name": "Monumento a las Víctimas del Conflicto Armando", "text": "A Monumento a las Víctimas del Conflicto Armando egy megemlékezésre szolgáló történelmi hely Duitama területén. Kolumbiában ez az emlékmű csendes elmélkedésre ösztönzi az arra járókat.", "category": "historical", "coords": [-73.033465, 5.831535]}, {"name": "Culturama", "text": "Művelődési központ Duitama városában.", "category": "cultural", "coords": [-73.030758, 5.830742]}, {"name": "Academia de Formación Artistica", "text": "Művelődési központ Duitama városában.", "category": "cultural", "coords": [-73.030395, 5.815868]}, {"name": "El carmen (Luis A. Soler)", "text": "Látnivaló Duitama városában.", "category": "landmark", "coords": [-73.036401, 5.827254]}, {"name": "monumento a la virgen", "text": "A monumento a la virgen egy tiszteletet parancsoló történelmi emlékmű, mely Kolumbiában, Duitama városában emelkedik. Az utazók ezen a helyen felfedezhetik a térség kulturális gyökereit.", "category": "historical", "coords": [-73.029296, 5.822426]}], "ro": [{"name": "Parque para niños", "text": "Un parc tematic în Duitama.", "category": "family", "coords": [-73.017087, 5.809186]}, {"name": "Estatua de Simon bolivar", "text": "Estatua de Simon bolivar este un monument istoric impunător din orașul Duitama, Columbia. Turistul care ajunge aici poate contempla rolul acestei figuri în istoria Americii de Sud.", "category": "historical", "coords": [-73.034075, 5.827989]}, {"name": "Glorieta San Jose", "text": "Punct de reper în Duitama, Glorieta San Jose este un monument istoric columbian ce atrage privirile. O vizită la acest sens giratoriu istoric completează turul orașului.", "category": "historical", "coords": [-73.027097, 5.8239]}, {"name": "Condominio Los Andes", "text": "O atracție în Duitama.", "category": "landmark", "coords": [-73.034918, 5.842416]}, {"name": "Monumento a las Víctimas del Conflicto Armando", "text": "Monumento a las Víctimas del Conflicto Armando este un sit istoric comemorativ aflat în Duitama. Vizitatorii acestui monument din Columbia vor resimți o atmosferă solemnă și respectuoasă.", "category": "historical", "coords": [-73.033465, 5.831535]}, {"name": "Culturama", "text": "Un centru cultural în Duitama.", "category": "cultural", "coords": [-73.030758, 5.830742]}, {"name": "Academia de Formación Artistica", "text": "Un centru cultural în Duitama.", "category": "cultural", "coords": [-73.030395, 5.815868]}, {"name": "El carmen (Luis A. Soler)", "text": "O atracție în Duitama.", "category": "landmark", "coords": [-73.036401, 5.827254]}, {"name": "monumento a la virgen", "text": "Aflat în Duitama, monumento a la virgen reprezintă un monument istoric simbolic pentru Columbia. Cei prezenți aici vor observa un exemplu de artă comemorativă locală.", "category": "historical", "coords": [-73.029296, 5.822426]}], "en": [{"name": "Parque para niños", "text": "A theme park in Duitama.", "category": "family", "coords": [-73.017087, 5.809186]}, {"name": "Simon Bolívar's monument", "text": "Located in Duitama, Colombia, the Estatua de Simon bolivar honors an essential historical leader. Visiting this monument offers a moment to reflect on the legacy of the prominent figure.", "category": "historical", "coords": [-73.034075, 5.827989]}, {"name": "Glorieta San Jose", "text": "The Glorieta San Jose acts as a recognized historical monument in the city of Duitama, Colombia. Visitors will experience a traditional urban landmark integrated into the cityscape.", "category": "historical", "coords": [-73.027097, 5.8239]}, {"name": "condominio Los Andes", "text": "An attraction in Duitama.", "category": "landmark", "coords": [-73.034918, 5.842416]}, {"name": "Monumento a las Víctimas del Conflicto Armando", "text": "Dedicated to remembrance, the Monumento a las Víctimas del Conflicto Armando is a historical monument in Duitama, Colombia. A visit here provides a somber setting for reflection on historical events.", "category": "historical", "coords": [-73.033465, 5.831535]}, {"name": "Culturama", "text": "An arts centre in Duitama.", "category": "cultural", "coords": [-73.030758, 5.830742]}, {"name": "Academia de Formación Artistica", "text": "An arts centre in Duitama.", "category": "cultural", "coords": [-73.030395, 5.815868]}, {"name": "El carmen (Luis A. Soler)", "text": "An attraction in Duitama.", "category": "landmark", "coords": [-73.036401, 5.827254]}, {"name": "monumento a la virgen", "text": "The monumento a la virgen stands as a historical tribute within the city of Duitama, Colombia. Viewing this monument allows visitors to appreciate the local cultural expressions.", "category": "historical", "coords": [-73.029296, 5.822426]}]},
+    id: "duitama-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque para niños",
+                  "text": "Ein Kinderpark mit bunten Spielgeräten und schattigen Grünflächen.",
+                  "category": "family",
+                  "coords": [
+                        -73.017087,
+                        5.809186
+                  ]
+            },
+            {
+                  "name": "Estatua de Simon bolivar",
+                  "text": "Im kolumbianischen Duitama würdigt die Estatua de Simon bolivar eine bedeutende historische Figur. Reisende können an diesem Denkmal die südamerikanische Befreiungsgeschichte reflektieren.",
+                  "category": "historical",
+                  "coords": [
+                        -73.034075,
+                        5.827989
+                  ]
+            },
+            {
+                  "name": "Glorieta San Jose",
+                  "text": "Als markantes Wahrzeichen in Duitama fungiert das Denkmal Glorieta San Jose. Kolumbienreisende erwartet hier ein geschichtlicher Fixpunkt im städtischen Treiben.",
+                  "category": "historical",
+                  "coords": [
+                        -73.027097,
+                        5.8239
+                  ]
+            },
+            {
+                  "name": "Condominio Los Andes",
+                  "text": "Ein markanter Wohnkomplex mit charakteristischer Architektur im Stadtbild von Duitama.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.034918,
+                        5.842416
+                  ]
+            },
+            {
+                  "name": "Monumento a las Víctimas del Conflicto Armando",
+                  "text": "Das Monumento a las Víctimas del Conflicto Armando in Duitama dient der historischen Erinnerung. In Kolumbien schafft dieses Denkmal einen Raum des Gedenkens und der Reflexion für alle Besucher.",
+                  "category": "historical",
+                  "coords": [
+                        -73.033465,
+                        5.831535
+                  ]
+            },
+            {
+                  "name": "Culturama",
+                  "text": "Ein Kulturzentrum, das Theateraufführungen, Kunstausstellungen und Gemeindeveranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030758,
+                        5.830742
+                  ]
+            },
+            {
+                  "name": "Academia de Formación Artistica",
+                  "text": "Eine Akademie, die Kurse in Musik, Tanz und bildender Kunst für alle Altersgruppen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030395,
+                        5.815868
+                  ]
+            },
+            {
+                  "name": "El carmen (Luis A. Soler)",
+                  "text": "Ein historisches Theater, benannt nach dem Dichter Luis A. Soler, mit Theaterstücken und Konzerten.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.036401,
+                        5.827254
+                  ]
+            },
+            {
+                  "name": "monumento a la virgen",
+                  "text": "Dem historischen Erbe von Duitama widmet sich auch das monumento a la virgen in Kolumbien. Wer dieses Denkmal aufsucht, findet ein Zeugnis der kulturellen und religiösen Geschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -73.029296,
+                        5.822426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque para niños",
+                  "text": "Gyermekpark színes játszóeszközökkel és árnyékos zöldterületekkel.",
+                  "category": "family",
+                  "coords": [
+                        -73.017087,
+                        5.809186
+                  ]
+            },
+            {
+                  "name": "Estatua de Simon bolivar",
+                  "text": "A Duitama városában emelt Estatua de Simon bolivar egy jelentős történelmi emlékmű Kolumbiában. Az idelátogatók a híres vezető emléke előtt tiszteleghetnek ezen a köztéri helyszínen.",
+                  "category": "historical",
+                  "coords": [
+                        -73.034075,
+                        5.827989
+                  ]
+            },
+            {
+                  "name": "Glorieta San Jose",
+                  "text": "A Glorieta San Jose egy feltűnő történelmi emlék Duitama városában, Kolumbiában. Ez a térség érdekes megállóhelyet kínál a városi séták során.",
+                  "category": "historical",
+                  "coords": [
+                        -73.027097,
+                        5.8239
+                  ]
+            },
+            {
+                  "name": "Condominio Los Andes",
+                  "text": "Jellegzetes építészetű lakókomplexum Duitama városképében.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.034918,
+                        5.842416
+                  ]
+            },
+            {
+                  "name": "Monumento a las Víctimas del Conflicto Armando",
+                  "text": "A Monumento a las Víctimas del Conflicto Armando egy megemlékezésre szolgáló történelmi hely Duitama területén. Kolumbiában ez az emlékmű csendes elmélkedésre ösztönzi az arra járókat.",
+                  "category": "historical",
+                  "coords": [
+                        -73.033465,
+                        5.831535
+                  ]
+            },
+            {
+                  "name": "Culturama",
+                  "text": "Kulturális központ, amely színházi előadásoknak, művészeti kiállításoknak és közösségi rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030758,
+                        5.830742
+                  ]
+            },
+            {
+                  "name": "Academia de Formación Artistica",
+                  "text": "Akadémia, amely zenei, tánc- és képzőművészeti kurzusokat kínál minden korosztály számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030395,
+                        5.815868
+                  ]
+            },
+            {
+                  "name": "El carmen (Luis A. Soler)",
+                  "text": "Luis A. Soler költőről elnevezett történelmi színház, színdarabok és koncertek színhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.036401,
+                        5.827254
+                  ]
+            },
+            {
+                  "name": "monumento a la virgen",
+                  "text": "A monumento a la virgen egy tiszteletet parancsoló történelmi emlékmű, mely Kolumbiában, Duitama városában emelkedik. Az utazók ezen a helyen felfedezhetik a térség kulturális gyökereit.",
+                  "category": "historical",
+                  "coords": [
+                        -73.029296,
+                        5.822426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque para niños",
+                  "text": "Un parc pentru copii cu structuri de joacă colorate și zone verzi umbrite.",
+                  "category": "family",
+                  "coords": [
+                        -73.017087,
+                        5.809186
+                  ]
+            },
+            {
+                  "name": "Estatua de Simon bolivar",
+                  "text": "Estatua de Simon bolivar este un monument istoric impunător din orașul Duitama, Columbia. Turistul care ajunge aici poate contempla rolul acestei figuri în istoria Americii de Sud.",
+                  "category": "historical",
+                  "coords": [
+                        -73.034075,
+                        5.827989
+                  ]
+            },
+            {
+                  "name": "Glorieta San Jose",
+                  "text": "Punct de reper în Duitama, Glorieta San Jose este un monument istoric columbian ce atrage privirile. O vizită la acest sens giratoriu istoric completează turul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -73.027097,
+                        5.8239
+                  ]
+            },
+            {
+                  "name": "Condominio Los Andes",
+                  "text": "Un complex rezidențial proeminent cu arhitectură distinctivă în peisajul urban al Duitamei.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.034918,
+                        5.842416
+                  ]
+            },
+            {
+                  "name": "Monumento a las Víctimas del Conflicto Armando",
+                  "text": "Monumento a las Víctimas del Conflicto Armando este un sit istoric comemorativ aflat în Duitama. Vizitatorii acestui monument din Columbia vor resimți o atmosferă solemnă și respectuoasă.",
+                  "category": "historical",
+                  "coords": [
+                        -73.033465,
+                        5.831535
+                  ]
+            },
+            {
+                  "name": "Culturama",
+                  "text": "Un centru cultural care găzduiește spectacole de teatru, expoziții de artă și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030758,
+                        5.830742
+                  ]
+            },
+            {
+                  "name": "Academia de Formación Artistica",
+                  "text": "O academie care oferă cursuri de muzică, dans și arte vizuale pentru toate vârstele.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030395,
+                        5.815868
+                  ]
+            },
+            {
+                  "name": "El carmen (Luis A. Soler)",
+                  "text": "Un teatru istoric numit după poetul Luis A. Soler, care găzduiește piese de teatru și concerte.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.036401,
+                        5.827254
+                  ]
+            },
+            {
+                  "name": "monumento a la virgen",
+                  "text": "Aflat în Duitama, monumento a la virgen reprezintă un monument istoric simbolic pentru Columbia. Cei prezenți aici vor observa un exemplu de artă comemorativă locală.",
+                  "category": "historical",
+                  "coords": [
+                        -73.029296,
+                        5.822426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque para niños",
+                  "text": "A children's park featuring colorful play structures and shaded green areas.",
+                  "category": "family",
+                  "coords": [
+                        -73.017087,
+                        5.809186
+                  ]
+            },
+            {
+                  "name": "Simon Bolívar's monument",
+                  "text": "Located in Duitama, Colombia, the Estatua de Simon bolivar honors an essential historical leader. Visiting this monument offers a moment to reflect on the legacy of the prominent figure.",
+                  "category": "historical",
+                  "coords": [
+                        -73.034075,
+                        5.827989
+                  ]
+            },
+            {
+                  "name": "Glorieta San Jose",
+                  "text": "The Glorieta San Jose acts as a recognized historical monument in the city of Duitama, Colombia. Visitors will experience a traditional urban landmark integrated into the cityscape.",
+                  "category": "historical",
+                  "coords": [
+                        -73.027097,
+                        5.8239
+                  ]
+            },
+            {
+                  "name": "condominio Los Andes",
+                  "text": "A prominent residential complex with distinctive architecture in Duitama's urban landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.034918,
+                        5.842416
+                  ]
+            },
+            {
+                  "name": "Monumento a las Víctimas del Conflicto Armando",
+                  "text": "Dedicated to remembrance, the Monumento a las Víctimas del Conflicto Armando is a historical monument in Duitama, Colombia. A visit here provides a somber setting for reflection on historical events.",
+                  "category": "historical",
+                  "coords": [
+                        -73.033465,
+                        5.831535
+                  ]
+            },
+            {
+                  "name": "Culturama",
+                  "text": "A cultural center hosting theater performances, art exhibitions, and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030758,
+                        5.830742
+                  ]
+            },
+            {
+                  "name": "Academia de Formación Artistica",
+                  "text": "An academy offering courses in music, dance, and visual arts for all ages.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030395,
+                        5.815868
+                  ]
+            },
+            {
+                  "name": "El carmen (Luis A. Soler)",
+                  "text": "A historic theater named after poet Luis A. Soler, staging plays and concerts.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.036401,
+                        5.827254
+                  ]
+            },
+            {
+                  "name": "monumento a la virgen",
+                  "text": "The monumento a la virgen stands as a historical tribute within the city of Duitama, Colombia. Viewing this monument allows visitors to appreciate the local cultural expressions.",
+                  "category": "historical",
+                  "coords": [
+                        -73.029296,
+                        5.822426
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-BOY",
     coords: [-73.0294, 5.8234],
@@ -4373,7 +5435,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parque verde Punta de Piedra",
-                  "text": "Der Parque verde Punta de Piedra ist ein Naturschutzgebiet in Magangué.",
+                  "text": "Ein üppiger grüner Park mit Wanderwegen und einheimischer Vegetation entlang des Magdalena-Flusses.",
                   "category": "natural",
                   "coords": [
                         -74.768396,
@@ -4382,7 +5444,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Antonio Nariño",
-                  "text": "Dieses Denkmal für Antonio Nariño befindet sich in Magangué.",
+                  "text": "Eine Bronzestatue des Unabhängigkeitshelden Antonio Nariño auf einem zentralen Platz.",
                   "category": "historical",
                   "coords": [
                         -74.745836,
@@ -4391,7 +5453,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la Candelaria",
-                  "text": "Das Denkmal der Virgen de la Candelaria steht in der Stadt Magangué.",
+                  "text": "Ein Steinbild der Virgen de la Candelaria in einem kleinen Straßenschrein.",
                   "category": "historical",
                   "coords": [
                         -74.743347,
@@ -4400,7 +5462,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de San Mateo",
-                  "text": "Das Monumento de San Mateo ist ein Denkmal in Magangué.",
+                  "text": "Ein Denkmal für den heiligen Matthäus mit einem Kreuz und einem beschrifteten Stein.",
                   "category": "historical",
                   "coords": [
                         -74.774019,
@@ -4418,7 +5480,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Antonio De La Torre",
-                  "text": "Das Denkmal für Antonio De La Torre befindet sich in Magangué.",
+                  "text": "Eine Büste von Antonio De La Torre, einer lokalen historischen Persönlichkeit, auf einem Sockel.",
                   "category": "historical",
                   "coords": [
                         -74.742924,
@@ -4427,7 +5489,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la Cancha de La Candelaria",
-                  "text": "Dieses Denkmal der Jungfrau Maria steht an der Cancha de La Candelaria in Magangué.",
+                  "text": "Eine Statue der Virgen de la Candelaria, die sich an einem Sportplatz (cancha) befindet.",
                   "category": "historical",
                   "coords": [
                         -74.744371,
@@ -4436,7 +5498,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen del Tronco",
-                  "text": "Das Denkmal der Virgen del Tronco ist eine Sehenswürdigkeit in Magangué.",
+                  "text": "Ein Schrein der Virgen del Tronco, in einen großen Baumstamm geschnitzt.",
                   "category": "historical",
                   "coords": [
                         -74.768187,
@@ -4445,7 +5507,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puerta Roja",
-                  "text": "Puerta Roja ist ein lokales Denkmal in der Stadt Magangué.",
+                  "text": "Eine historische rot gestrichene Tür, die einst als Eingang zur Hauptkirche der Stadt diente.",
                   "category": "historical",
                   "coords": [
                         -74.768611,
@@ -4454,7 +5516,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Paradero Antiguo",
-                  "text": "Das Denkmal Paradero Antiguo befindet sich in Magangué.",
+                  "text": "Eine altmodische Bushaltestelle aus dem frühen 20. Jahrhundert, die als Wahrzeichen erhalten ist.",
                   "category": "historical",
                   "coords": [
                         -74.772224,
@@ -4463,7 +5525,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Busto Parca",
-                  "text": "Busto Parca ist ein Büstendenkmal in der Stadt Magangué.",
+                  "text": "Eine Bronzebüste einer lokalen Persönlichkeit namens 'Parca' in einem kleinen Park.",
                   "category": "historical",
                   "coords": [
                         -74.756003,
@@ -4472,7 +5534,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de Maracaná",
-                  "text": "Das Denkmal der Virgen de Maracaná steht in Magangué.",
+                  "text": "Ein Schrein der Virgen de Maracaná, verziert mit bunten Kacheln.",
                   "category": "historical",
                   "coords": [
                         -74.749662,
@@ -4481,7 +5543,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Olaya Herrera",
-                  "text": "Olaya Herrera ist ein Denkmal in Magangué.",
+                  "text": "Ein Denkmal für Präsident Olaya Herrera mit einem Steinobelisken.",
                   "category": "historical",
                   "coords": [
                         -74.744324,
@@ -4490,7 +5552,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Cruz",
-                  "text": "La Cruz ist ein Denkmal im Stadtbild von Magangué.",
+                  "text": "Ein großes Holzkreuz auf einem Hügel mit Blick auf die Stadt.",
                   "category": "historical",
                   "coords": [
                         -74.775114,
@@ -4499,7 +5561,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Playas de punta de Piedra",
-                  "text": "Playas de punta de Piedra ist ein Strandresort in Magangué.",
+                  "text": "Sandstrände entlang des Magdalena-Flusses an der Punta de Piedra, beliebt zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         -74.767195,
@@ -4510,7 +5572,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parque verde Punta de Piedra",
-                  "text": "A Parque verde Punta de Piedra egy természetvédelmi terület Magangué városában.",
+                  "text": "Dús zöld park sétányokkal és őshonos növényzettel a Magdalena folyó mentén.",
                   "category": "natural",
                   "coords": [
                         -74.768396,
@@ -4519,7 +5581,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Antonio Nariño",
-                  "text": "Ez az Antonio Nariño-emlékmű Magangué városában található.",
+                  "text": "Antonio Nariño függetlenségi hős bronzszobra egy központi téren.",
                   "category": "historical",
                   "coords": [
                         -74.745836,
@@ -4528,7 +5590,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la Candelaria",
-                  "text": "A Virgen de la Candelaria emlékmű Magangué városában található.",
+                  "text": "A Candelaria-i Szűz kőképe egy kis útszéli szentélyben.",
                   "category": "historical",
                   "coords": [
                         -74.743347,
@@ -4537,7 +5599,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de San Mateo",
-                  "text": "A Monumento de San Mateo egy emlékmű Magangué városában.",
+                  "text": "Szent Máté emlékműve kereszttel és feliratos kővel.",
                   "category": "historical",
                   "coords": [
                         -74.774019,
@@ -4555,7 +5617,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Antonio De La Torre",
-                  "text": "Az Antonio De La Torre-emlékmű Magangué városában található.",
+                  "text": "Antonio De La Torre helyi történelmi személyiség mellszobra egy talapzaton.",
                   "category": "historical",
                   "coords": [
                         -74.742924,
@@ -4564,7 +5626,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la Cancha de La Candelaria",
-                  "text": "Ez a Szűz Mária-emlékmű a Cancha de La Candelaria közelében áll Maganguéban.",
+                  "text": "A Candelaria-i Szűz szobra egy sportpályánál (cancha).",
                   "category": "historical",
                   "coords": [
                         -74.744371,
@@ -4573,7 +5635,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen del Tronco",
-                  "text": "A Virgen del Tronco emlékmű egy látványosság Magangué városában.",
+                  "text": "A Törzs Szűzének szentélye egy nagy fatörzsbe faragva.",
                   "category": "historical",
                   "coords": [
                         -74.768187,
@@ -4582,7 +5644,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puerta Roja",
-                  "text": "A Puerta Roja egy helyi emlékmű Magangué városában.",
+                  "text": "Történelmi pirosra festett ajtó, amely egykor a város főtemplomának bejárata volt.",
                   "category": "historical",
                   "coords": [
                         -74.768611,
@@ -4591,7 +5653,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Paradero Antiguo",
-                  "text": "A Paradero Antiguo emlékmű Magangué városában helyezkedik el.",
+                  "text": "Egy régi vágású buszmegálló a 20. század elejéről, nevezetességként megőrizve.",
                   "category": "historical",
                   "coords": [
                         -74.772224,
@@ -4600,7 +5662,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Busto Parca",
-                  "text": "A Busto Parca egy mellszobor formájú emlékmű Magangué városában.",
+                  "text": "Egy 'Parca' néven ismert helyi nevezetesség bronz mellszobra egy kis parkban.",
                   "category": "historical",
                   "coords": [
                         -74.756003,
@@ -4609,7 +5671,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de Maracaná",
-                  "text": "A Virgen de Maracaná emlékmű Magangué városában található.",
+                  "text": "A Maracaná-i Szűz szentélye színes csempékkel díszítve.",
                   "category": "historical",
                   "coords": [
                         -74.749662,
@@ -4618,7 +5680,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Olaya Herrera",
-                  "text": "Az Olaya Herrera egy emlékmű Magangué városában.",
+                  "text": "Olaya Herrera elnök emlékműve kő obeliszkkel.",
                   "category": "historical",
                   "coords": [
                         -74.744324,
@@ -4627,7 +5689,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Cruz",
-                  "text": "A La Cruz egy emlékmű Magangué városában.",
+                  "text": "Egy nagy fakereszt egy dombon, a városra néző kilátással.",
                   "category": "historical",
                   "coords": [
                         -74.775114,
@@ -4636,7 +5698,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Playas de punta de Piedra",
-                  "text": "A Playas de punta de Piedra egy tengerparti üdülőhely Maganguéban.",
+                  "text": "Homokos strandok a Magdalena folyó mentén Punta de Piedránál, népszerűek fürdőzésre.",
                   "category": "recreational",
                   "coords": [
                         -74.767195,
@@ -4647,7 +5709,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parque verde Punta de Piedra",
-                  "text": "Parque verde Punta de Piedra este o rezervație naturală din Magangué.",
+                  "text": "Un parc verde luxuriant cu trasee de plimbare și vegetație nativă de-a lungul râului Magdalena.",
                   "category": "natural",
                   "coords": [
                         -74.768396,
@@ -4656,7 +5718,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Antonio Nariño",
-                  "text": "Acest monument dedicat lui Antonio Nariño este situat în Magangué.",
+                  "text": "O statuie de bronz a eroului independenței Antonio Nariño într-o piață centrală.",
                   "category": "historical",
                   "coords": [
                         -74.745836,
@@ -4665,7 +5727,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la Candelaria",
-                  "text": "Monumentul Fecioarei de la Candelaria se află în Magangué.",
+                  "text": "O icoană de piatră a Fecioarei din Candelaria într-un altar mic de la marginea drumului.",
                   "category": "historical",
                   "coords": [
                         -74.743347,
@@ -4674,7 +5736,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de San Mateo",
-                  "text": "Monumento de San Mateo este un monument din Magangué.",
+                  "text": "Un monument dedicat Sfântului Matei cu o cruce și o piatră inscripționată.",
                   "category": "historical",
                   "coords": [
                         -74.774019,
@@ -4692,7 +5754,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Antonio De La Torre",
-                  "text": "Monumentul dedicat lui Antonio De La Torre este situat în Magangué.",
+                  "text": "Un bust al lui Antonio De La Torre, o figură istorică locală, pe un soclu.",
                   "category": "historical",
                   "coords": [
                         -74.742924,
@@ -4701,7 +5763,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la Cancha de La Candelaria",
-                  "text": "Monumentul Fecioarei de la Cancha de La Candelaria este situat în Magangué.",
+                  "text": "O statuie a Fecioarei din Candelaria situată la un teren de sport.",
                   "category": "historical",
                   "coords": [
                         -74.744371,
@@ -4710,7 +5772,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen del Tronco",
-                  "text": "Monumentul Virgen del Tronco se află în orașul Magangué.",
+                  "text": "Un altar al Fecioarei din Trunchi, sculptat într-un trunchi mare de copac.",
                   "category": "historical",
                   "coords": [
                         -74.768187,
@@ -4719,7 +5781,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puerta Roja",
-                  "text": "Puerta Roja este un monument local situat în Magangué.",
+                  "text": "O ușă istorică vopsită în roșu care a servit odinioară ca intrare în biserica principală a orașului.",
                   "category": "historical",
                   "coords": [
                         -74.768611,
@@ -4728,7 +5790,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Paradero Antiguo",
-                  "text": "Monumentul Paradero Antiguo este situat în Magangué.",
+                  "text": "Un adăpost de autobuz în stil vechi de la începutul secolului al XX-lea, păstrat ca punct de reper.",
                   "category": "historical",
                   "coords": [
                         -74.772224,
@@ -4737,7 +5799,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Busto Parca",
-                  "text": "Busto Parca este un monument sub formă de bust din Magangué.",
+                  "text": "Un bust de bronz al unei personalități locale cunoscută sub numele de 'Parca' într-un mic parc.",
                   "category": "historical",
                   "coords": [
                         -74.756003,
@@ -4746,7 +5808,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de Maracaná",
-                  "text": "Monumentul dedicat Fecioarei din Maracaná se află în Magangué.",
+                  "text": "Un altar al Fecioarei din Maracaná, decorat cu plăci colorate.",
                   "category": "historical",
                   "coords": [
                         -74.749662,
@@ -4755,7 +5817,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Olaya Herrera",
-                  "text": "Olaya Herrera este un monument aflat în Magangué.",
+                  "text": "Un monument dedicat președintelui Olaya Herrera, cu un obelisc de piatră.",
                   "category": "historical",
                   "coords": [
                         -74.744324,
@@ -4764,7 +5826,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Cruz",
-                  "text": "La Cruz este un monument situat în orașul Magangué.",
+                  "text": "O cruce mare de lemn pe un deal cu vedere asupra orașului.",
                   "category": "historical",
                   "coords": [
                         -74.775114,
@@ -4773,7 +5835,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Playas de punta de Piedra",
-                  "text": "Playas de punta de Piedra este o stațiune balneară din Magangué.",
+                  "text": "Plaje nisipoase de-a lungul râului Magdalena la Punta de Piedra, populare pentru înot.",
                   "category": "recreational",
                   "coords": [
                         -74.767195,
@@ -4784,7 +5846,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parque verde Punta de Piedra",
-                  "text": "Parque verde Punta de Piedra is a nature reserve located in Magangué.",
+                  "text": "A lush green park with walking trails and native vegetation along the Magdalena River.",
                   "category": "natural",
                   "coords": [
                         -74.768396,
@@ -4793,7 +5855,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Antonio Nariño",
-                  "text": "This monument dedicated to Antonio Nariño is located in Magangué.",
+                  "text": "A bronze statue of independence hero Antonio Nariño in a central plaza.",
                   "category": "historical",
                   "coords": [
                         -74.745836,
@@ -4802,7 +5864,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la Candelaria",
-                  "text": "The Virgen de la Candelaria monument is situated in Magangué.",
+                  "text": "A stone image of the Virgin of Candelaria set in a small roadside shrine.",
                   "category": "historical",
                   "coords": [
                         -74.743347,
@@ -4811,7 +5873,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento de San Mateo",
-                  "text": "Monumento de San Mateo is a monument located in Magangué.",
+                  "text": "A monument to Saint Matthew featuring a cross and inscribed stone.",
                   "category": "historical",
                   "coords": [
                         -74.774019,
@@ -4829,7 +5891,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Antonio De La Torre",
-                  "text": "The monument to Antonio De La Torre is located in Magangué.",
+                  "text": "A bust of Antonio De La Torre, a local historical figure, on a pedestal.",
                   "category": "historical",
                   "coords": [
                         -74.742924,
@@ -4838,7 +5900,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de la Cancha de La Candelaria",
-                  "text": "The Virgen de la Cancha de La Candelaria monument is found in Magangué.",
+                  "text": "A statue of the Virgin of Candelaria located at a sports field (cancha).",
                   "category": "historical",
                   "coords": [
                         -74.744371,
@@ -4847,7 +5909,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen del Tronco",
-                  "text": "The Virgen del Tronco monument is located in Magangué.",
+                  "text": "A shrine to the Virgin of the Trunk, carved into a large tree trunk.",
                   "category": "historical",
                   "coords": [
                         -74.768187,
@@ -4856,7 +5918,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puerta Roja",
-                  "text": "Puerta Roja is a local monument located in the city of Magangué.",
+                  "text": "A historic red-painted door that once served as the entrance to the town's main church.",
                   "category": "historical",
                   "coords": [
                         -74.768611,
@@ -4865,7 +5927,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Paradero Antiguo",
-                  "text": "The Paradero Antiguo monument is situated in Magangué.",
+                  "text": "An old-fashioned bus stop shelter from the early 20th century, preserved as a landmark.",
                   "category": "historical",
                   "coords": [
                         -74.772224,
@@ -4874,7 +5936,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Busto Parca",
-                  "text": "Busto Parca is a bust monument located in the city of Magangué.",
+                  "text": "A bronze bust of a local notable known as 'Parca' in a small park.",
                   "category": "historical",
                   "coords": [
                         -74.756003,
@@ -4883,7 +5945,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Virgen de Maracaná",
-                  "text": "The Virgen de Maracaná monument is located in Magangué.",
+                  "text": "A shrine to the Virgin of Maracaná, decorated with colorful tiles.",
                   "category": "historical",
                   "coords": [
                         -74.749662,
@@ -4892,7 +5954,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Olaya Herrera",
-                  "text": "Olaya Herrera is a monument located in Magangué.",
+                  "text": "A monument to President Olaya Herrera, featuring a stone obelisk.",
                   "category": "historical",
                   "coords": [
                         -74.744324,
@@ -4901,7 +5963,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Cruz",
-                  "text": "La Cruz is a monument marking the cityscape of Magangué.",
+                  "text": "A large wooden cross on a hill overlooking the town.",
                   "category": "historical",
                   "coords": [
                         -74.775114,
@@ -4910,7 +5972,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Playas de punta de Piedra",
-                  "text": "Playas de punta de Piedra is a beach resort destination in Magangué.",
+                  "text": "Sandy beaches along the Magdalena River at Punta de Piedra, popular for swimming.",
                   "category": "recreational",
                   "coords": [
                         -74.767195,
@@ -4969,7 +6031,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo de la salmuera",
-                  "text": "Das Museo de la salmuera ist ein lokales Museum in Zipaquirá.",
+                  "text": "Ein Museum, das der Geschichte der Salzgewinnung in den berühmten Salzminen von Zipaquirá gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -74.009222,
@@ -4978,7 +6040,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Gabriel García Márquez",
-                  "text": "Das Museo Gabriel García Márquez ist eine museale Einrichtung in Zipaquirá.",
+                  "text": "Ein Museum, das das Leben und literarische Werk von Gabriel García Márquez in einem kolonialen Haus feiert.",
                   "category": "museum",
                   "coords": [
                         -74.002222,
@@ -4987,7 +6049,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico",
-                  "text": "Dieses archäologische Museum ist eine kulturelle Einrichtung in Zipaquirá.",
+                  "text": "Beherbergt präkolumbische Artefakte und archäologische Funde aus der Region Altiplano Cundiboyacense.",
                   "category": "museum",
                   "coords": [
                         -74.006722,
@@ -4996,7 +6058,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Bicentenario",
-                  "text": "Das Teatro Bicentenario ist ein Theater in der Stadt Zipaquirá.",
+                  "text": "Ein modernes Theater, das zum zweihundertjährigen Jubiläum der kolumbianischen Unabhängigkeit erbaut wurde und Theaterstücke und Konzerte beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -73.997859,
@@ -5014,7 +6076,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Zapata",
-                  "text": "Zapata ist ein Denkmal in der Stadt Zipaquirá.",
+                  "text": "Ein Denkmal für Emiliano Zapata mit einer bronzenen Reiterstatue.",
                   "category": "historical",
                   "coords": [
                         -74.002279,
@@ -5025,7 +6087,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo de la salmuera",
-                  "text": "A Museo de la salmuera egy helyi múzeum Zipaquirában.",
+                  "text": "Múzeum, amely a híres zipaquirái sóbányák sókitermelésének történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -74.009222,
@@ -5034,7 +6096,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Gabriel García Márquez",
-                  "text": "A Museo Gabriel García Márquez egy múzeumi létesítmény Zipaquirában.",
+                  "text": "Múzeum, amely Gabriel García Márquez életét és irodalmi munkásságát ünnepli egy gyarmati házban.",
                   "category": "museum",
                   "coords": [
                         -74.002222,
@@ -5043,7 +6105,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico",
-                  "text": "Ez a régészeti múzeum egy kulturális intézmény Zipaquirában.",
+                  "text": "Prekolumbiánus tárgyakat és régészeti leleteket őriz az Altiplano Cundiboyacense régióból.",
                   "category": "museum",
                   "coords": [
                         -74.006722,
@@ -5052,7 +6114,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Bicentenario",
-                  "text": "A Teatro Bicentenario egy színház Zipaquirá városában.",
+                  "text": "Modern színház, amely Kolumbia függetlenségének kétszázadik évfordulójára épült, színdaraboknak és koncerteknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -73.997859,
@@ -5070,7 +6132,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Zapata",
-                  "text": "A Zapata egy emlékmű Zipaquirá városában.",
+                  "text": "Emiliano Zapata emlékműve bronz lovas szoborral.",
                   "category": "historical",
                   "coords": [
                         -74.002279,
@@ -5081,7 +6143,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo de la salmuera",
-                  "text": "Museo de la salmuera este un muzeu local situat în Zipaquirá.",
+                  "text": "Un muzeu dedicat istoriei extracției sării în celebrele mine de sare de la Zipaquirá.",
                   "category": "museum",
                   "coords": [
                         -74.009222,
@@ -5090,7 +6152,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Gabriel García Márquez",
-                  "text": "Museo Gabriel García Márquez este o facilitate muzeală situată în Zipaquirá.",
+                  "text": "Un muzeu care celebrează viața și operele literare ale lui Gabriel García Márquez, într-o casă colonială.",
                   "category": "museum",
                   "coords": [
                         -74.002222,
@@ -5099,7 +6161,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico",
-                  "text": "Acest muzeu arheologic este o instituție culturală aflată în Zipaquirá.",
+                  "text": "Adăpostește artefacte precolumbiene și descoperiri arheologice din regiunea Altiplano Cundiboyacense.",
                   "category": "museum",
                   "coords": [
                         -74.006722,
@@ -5108,7 +6170,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Bicentenario",
-                  "text": "Teatro Bicentenario este un teatru din orașul Zipaquirá.",
+                  "text": "Un teatru modern construit pentru bicentenarul independenței Columbiei, care găzduiește piese de teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         -73.997859,
@@ -5126,7 +6188,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Zapata",
-                  "text": "Zapata este un monument situat în orașul Zipaquirá.",
+                  "text": "Un monument dedicat lui Emiliano Zapata, cu o statuie ecvestră din bronz.",
                   "category": "historical",
                   "coords": [
                         -74.002279,
@@ -5137,7 +6199,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo de la salmuera",
-                  "text": "The Museo de la salmuera is a local museum located in Zipaquirá.",
+                  "text": "A museum dedicated to the history of salt extraction in the famous Zipaquira salt mines.",
                   "category": "museum",
                   "coords": [
                         -74.009222,
@@ -5146,7 +6208,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Gabriel García Márquez",
-                  "text": "The Museo Gabriel García Márquez is a museum facility situated in Zipaquirá.",
+                  "text": "A museum celebrating the life and literary works of Gabriel García Márquez, in a colonial house.",
                   "category": "museum",
                   "coords": [
                         -74.002222,
@@ -5155,7 +6217,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Museo Arqueológico",
-                  "text": "This archaeological museum is a cultural institution found in Zipaquirá.",
+                  "text": "Houses pre-Columbian artifacts and archaeological finds from the Altiplano Cundiboyacense region.",
                   "category": "museum",
                   "coords": [
                         -74.006722,
@@ -5164,7 +6226,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teatro Bicentenario",
-                  "text": "Teatro Bicentenario is a theatre venue in the city of Zipaquirá.",
+                  "text": "A modern theater built for the bicentennial of Colombia's independence, hosting plays and concerts.",
                   "category": "cultural",
                   "coords": [
                         -73.997859,
@@ -5182,7 +6244,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Zapata",
-                  "text": "Zapata is a monument located in the city of Zipaquirá.",
+                  "text": "A monument to Emiliano Zapata, featuring a bronze equestrian statue.",
                   "category": "historical",
                   "coords": [
                         -74.002279,
@@ -5241,7 +6303,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Zona de Protección Quebrada el Trapiche",
-                  "text": "Ein Naturschutzgebiet in Piedecuesta.",
+                  "text": "Ein geschütztes Naturgebiet entlang des Baches Quebrada el Trapiche mit Wanderwegen und Vogelbeobachtung.",
                   "category": "natural",
                   "coords": [
                         -73.056732,
@@ -5250,7 +6312,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Club Comfenalco Lomas del Viento",
-                  "text": "Ein Strandresort in Piedecuesta.",
+                  "text": "Ein Freizeitclub mit Schwimmbädern, Sportplätzen und Picknickbereichen in einer Hanglage.",
                   "category": "recreational",
                   "coords": [
                         -73.044279,
@@ -5259,7 +6321,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Felisa",
-                  "text": "Ein historisches Herrenhaus in Piedecuesta.",
+                  "text": "Eine gut erhaltene Villa aus dem frühen 20. Jahrhundert mit einem großen Garten, jetzt für Besucher geöffnet.",
                   "category": "historical",
                   "coords": [
                         -73.055688,
@@ -5270,7 +6332,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zona de Protección Quebrada el Trapiche",
-                  "text": "Természetvédelmi terület Piedecuestában.",
+                  "text": "Védett természeti terület a Quebrada el Trapiche patak mentén, túraútvonalakkal és madármegfigyeléssel.",
                   "category": "natural",
                   "coords": [
                         -73.056732,
@@ -5279,7 +6341,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Club Comfenalco Lomas del Viento",
-                  "text": "Üdülőhely Piedecuestában.",
+                  "text": "Szabadidőklub úszómedencékkel, sportpályákkal és piknikezőhelyekkel egy domboldali környezetben.",
                   "category": "recreational",
                   "coords": [
                         -73.044279,
@@ -5288,7 +6350,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Felisa",
-                  "text": "Történelmi kúria Piedecuestában.",
+                  "text": "Egy jól megőrzött, 20. század eleji villa nagy kerttel, ma látogatható.",
                   "category": "historical",
                   "coords": [
                         -73.055688,
@@ -5299,7 +6361,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zona de Protección Quebrada el Trapiche",
-                  "text": "O rezervație naturală în Piedecuesta.",
+                  "text": "O zonă naturală protejată de-a lungul pârâului Quebrada el Trapiche, cu trasee de drumeție și observare a păsărilor.",
                   "category": "natural",
                   "coords": [
                         -73.056732,
@@ -5308,7 +6370,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Club Comfenalco Lomas del Viento",
-                  "text": "O stațiune pe litoral în Piedecuesta.",
+                  "text": "Un club recreativ cu piscine, terenuri sportive și zone de picnic într-un cadru pe deal.",
                   "category": "recreational",
                   "coords": [
                         -73.044279,
@@ -5317,7 +6379,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Felisa",
-                  "text": "Un conac istoric în Piedecuesta.",
+                  "text": "Un conac bine conservat de la începutul secolului al XX-lea, cu o grădină mare, acum deschis vizitatorilor.",
                   "category": "historical",
                   "coords": [
                         -73.055688,
@@ -5328,7 +6390,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Zona de Protección Quebrada el Trapiche",
-                  "text": "A nature reserve in Piedecuesta.",
+                  "text": "A protected natural area along the Quebrada el Trapiche stream, with hiking trails and birdwatching.",
                   "category": "natural",
                   "coords": [
                         -73.056732,
@@ -5337,7 +6399,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Club Comfenalco Lomas del Viento",
-                  "text": "A beach resort in Piedecuesta.",
+                  "text": "A recreational club offering swimming pools, sports fields, and picnic areas in a hillside setting.",
                   "category": "recreational",
                   "coords": [
                         -73.044279,
@@ -5346,7 +6408,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa Felisa",
-                  "text": "A historic manor in Piedecuesta.",
+                  "text": "A well-preserved early 20th-century mansion with a large garden, now open for visits.",
                   "category": "historical",
                   "coords": [
                         -73.055688,
@@ -5461,7 +6523,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Montecito",
-                  "text": "Die Reserva Natural Montecito ist ein geschütztes Naturschutzgebiet in Sogamoso.",
+                  "text": "Ein Naturschutzgebiet, das das hochgelegene Páramo-Ökosystem mit einzigartiger Flora und Fauna schützt.",
                   "category": "natural",
                   "coords": [
                         -72.928072,
@@ -5479,7 +6541,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilita de la Unión",
-                  "text": "Pilita de la Unión ist ein Denkmal in Sogamoso.",
+                  "text": "Ein historischer Steinbrunnen auf dem zentralen Platz, der die Einheit symbolisiert.",
                   "category": "historical",
                   "coords": [
                         -72.926836,
@@ -5488,7 +6550,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Banderas Plazoleta Sol de Irika",
-                  "text": "Dies ist ein lokales Denkmal in der Stadt Sogamoso.",
+                  "text": "Ein kleiner Platz mit Fahnenmasten, die die indigenen Gemeinschaften der Region repräsentieren.",
                   "category": "historical",
                   "coords": [
                         -72.930831,
@@ -5497,7 +6559,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Raza",
-                  "text": "Das Monumento a la Raza ist ein öffentliches Denkmal in Sogamoso.",
+                  "text": "Ein Denkmal zu Ehren der indigenen Völker der Region mit einer Steinskulptur.",
                   "category": "historical",
                   "coords": [
                         -72.927526,
@@ -5517,7 +6579,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Montecito",
-                  "text": "A Reserva Natural Montecito egy védett természetvédelmi terület Sogamosoban.",
+                  "text": "Természetvédelmi terület, amely a magashegyi páramo ökoszisztémát óvja egyedi növény- és állatvilággal.",
                   "category": "natural",
                   "coords": [
                         -72.928072,
@@ -5535,7 +6597,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilita de la Unión",
-                  "text": "A Pilita de la Unión egy emlékmű Sogamosoban.",
+                  "text": "Történelmi kő szökőkút a központi téren, az egység jelképe.",
                   "category": "historical",
                   "coords": [
                         -72.926836,
@@ -5544,7 +6606,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Banderas Plazoleta Sol de Irika",
-                  "text": "Ez egy helyi emlékmű Sogamoso városában.",
+                  "text": "Egy kis tér zászlórudakkal, amelyek a régió őslakos közösségeit képviselik.",
                   "category": "historical",
                   "coords": [
                         -72.930831,
@@ -5553,7 +6615,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Raza",
-                  "text": "A Monumento a la Raza egy köztéri emlékmű Sogamosoban.",
+                  "text": "A régió őslakos népeit tisztelő emlékmű kőszoborral.",
                   "category": "historical",
                   "coords": [
                         -72.927526,
@@ -5573,7 +6635,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Montecito",
-                  "text": "Reserva Natural Montecito este o rezervație naturală protejată din Sogamoso.",
+                  "text": "O rezervație naturală care protejează ecosistemul de paramo de altitudine înaltă, cu floră și faună unică.",
                   "category": "natural",
                   "coords": [
                         -72.928072,
@@ -5591,7 +6653,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilita de la Unión",
-                  "text": "Pilita de la Unión este un monument situat în Sogamoso.",
+                  "text": "Un fântână istorică de piatră în piața centrală, simbolizând unitatea.",
                   "category": "historical",
                   "coords": [
                         -72.926836,
@@ -5600,7 +6662,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Banderas Plazoleta Sol de Irika",
-                  "text": "Acesta este un monument local aflat în orașul Sogamoso.",
+                  "text": "O piațetă cu stâlpi de steag care reprezintă comunitățile indigene ale regiunii.",
                   "category": "historical",
                   "coords": [
                         -72.930831,
@@ -5609,7 +6671,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Raza",
-                  "text": "Monumento a la Raza este un monument public situat în Sogamoso.",
+                  "text": "Un monument în onoarea popoarelor indigene ale regiunii, cu o sculptură de piatră.",
                   "category": "historical",
                   "coords": [
                         -72.927526,
@@ -5629,7 +6691,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reserva Natural Montecito",
-                  "text": "Reserva Natural Montecito is a protected nature reserve in Sogamoso.",
+                  "text": "A nature reserve protecting high-altitude páramo ecosystem with unique flora and fauna.",
                   "category": "natural",
                   "coords": [
                         -72.928072,
@@ -5647,7 +6709,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilita de la Unión",
-                  "text": "Pilita de la Unión is a monument situated in Sogamoso.",
+                  "text": "A historic stone fountain in the central square, symbolizing unity.",
                   "category": "historical",
                   "coords": [
                         -72.926836,
@@ -5656,7 +6718,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Banderas Plazoleta Sol de Irika",
-                  "text": "This is a local monument found in the city of Sogamoso.",
+                  "text": "A small square with flagpoles representing indigenous communities of the region.",
                   "category": "historical",
                   "coords": [
                         -72.930831,
@@ -5665,7 +6727,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Raza",
-                  "text": "Monumento a la Raza is a public monument located in Sogamoso.",
+                  "text": "A monument honoring the indigenous peoples of the region, with a stone sculpture.",
                   "category": "historical",
                   "coords": [
                         -72.927526,
@@ -5724,7 +6786,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo Antón García de Bonilla",
-                  "text": "Ein Museum in Ocaña, das lokale Geschichte präsentiert.",
+                  "text": "Ein Geschichtsmuseum in Ocaña, Kolumbien, in einem Kolonialgebäude untergebracht.",
                   "category": "museum",
                   "coords": [
                         -73.353316,
@@ -5733,7 +6795,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Columna de la Libertad de los Esclavos",
-                  "text": "Ein Denkmal in Ocaña zur Erinnerung an die Befreiung.",
+                  "text": "Ein Säulendenkmal in Ocaña, Kolumbien, errichtet zur Erinnerung an die Abschaffung der Sklaverei.",
                   "category": "historical",
                   "coords": [
                         -73.353855,
@@ -5742,7 +6804,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Coliseo Cubierto Argelino Duran Quintero",
-                  "text": "Ein Veranstaltungsort in Ocaña.",
+                  "text": "Eine überdachte Sportarena, benannt nach dem Boxer Argelino Duran Quintero, für Basketball und Konzerte.",
                   "category": "landmark",
                   "coords": [
                         -73.359255,
@@ -5751,7 +6813,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa de La Reina",
-                  "text": "Ein historisches Herrenhaus in Ocaña.",
+                  "text": "Ein koloniales Herrenhaus, das einst einem Vertreter der spanischen Königin gehörte, heute Kulturzentrum.",
                   "category": "historical",
                   "coords": [
                         -73.362685,
@@ -5760,7 +6822,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Virgen de la Torcoroma",
-                  "text": "Eine bedeutende Wallfahrtskirche in Ocaña.",
+                  "text": "Kapelle auf einem Hügel nahe Ocaña, Kolumbien, der Jungfrau von Torcoroma geweiht, Wallfahrtsort.",
                   "category": "religious",
                   "coords": [
                         -73.35379,
@@ -5771,7 +6833,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo Antón García de Bonilla",
-                  "text": "Múzeum Ocañában, a helyi történelem bemutatója.",
+                  "text": "Történelmi múzeum Ocañában, Kolumbiában, egy gyarmati épületben.",
                   "category": "museum",
                   "coords": [
                         -73.353316,
@@ -5780,7 +6842,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Columna de la Libertad de los Esclavos",
-                  "text": "Emlékmű Ocañában a felszabadulás emlékére.",
+                  "text": "Oszlopos emlékmű Ocañában, Kolumbiában, a rabszolgaság eltörlésének emlékére állítva.",
                   "category": "historical",
                   "coords": [
                         -73.353855,
@@ -5789,7 +6851,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Coliseo Cubierto Argelino Duran Quintero",
-                  "text": "Rendezvényhelyszín Ocañában.",
+                  "text": "Fedett sportaréna, amelyet Argelino Duran Quintero ökölvívóról neveztek el, kosárlabda- és koncerthelyszín.",
                   "category": "landmark",
                   "coords": [
                         -73.359255,
@@ -5798,7 +6860,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa de La Reina",
-                  "text": "Történelmi kúria Ocañában.",
+                  "text": "Gyarmati kori kastély, amely egykor a spanyol királynő képviselőjének tulajdonában volt, ma kulturális központ.",
                   "category": "historical",
                   "coords": [
                         -73.362685,
@@ -5807,7 +6869,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Virgen de la Torcoroma",
-                  "text": "Fontos kegyhely Ocañában.",
+                  "text": "Kápolna egy dombon Ocaña közelében, Kolumbiában, a Torcoromai Szűznek szentelve, zarándokhely.",
                   "category": "religious",
                   "coords": [
                         -73.35379,
@@ -5818,7 +6880,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo Antón García de Bonilla",
-                  "text": "Un muzeu în Ocaña care prezintă istoria locală.",
+                  "text": "Un muzeu de istorie în Ocaña, Columbia, găzduit într-o clădire colonială.",
                   "category": "museum",
                   "coords": [
                         -73.353316,
@@ -5827,7 +6889,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Columna de la Libertad de los Esclavos",
-                  "text": "Un monument în Ocaña care comemorează eliberarea.",
+                  "text": "Un monument coloană în Ocaña, Columbia, ridicat pentru a comemora abolirea sclaviei.",
                   "category": "historical",
                   "coords": [
                         -73.353855,
@@ -5836,7 +6898,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Coliseo Cubierto Argelino Duran Quintero",
-                  "text": "O locație pentru evenimente în Ocaña.",
+                  "text": "O arenă sportivă acoperită numită după pugilistul Argelino Duran Quintero, care găzduiește baschet și concerte.",
                   "category": "landmark",
                   "coords": [
                         -73.359255,
@@ -5845,7 +6907,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa de La Reina",
-                  "text": "Un conac istoric în Ocaña.",
+                  "text": "Un conac colonial care a aparținut cândva unui reprezentant al reginei spaniole, acum centru cultural.",
                   "category": "historical",
                   "coords": [
                         -73.362685,
@@ -5854,7 +6916,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Virgen de la Torcoroma",
-                  "text": "O biserică de pelerinaj importantă în Ocaña.",
+                  "text": "Capelă pe un deal lângă Ocaña, Columbia, dedicată Fecioarei de la Torcoroma, loc de pelerinaj.",
                   "category": "religious",
                   "coords": [
                         -73.35379,
@@ -5865,7 +6927,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo Antón García de Bonilla",
-                  "text": "A museum in Ocaña showcasing local history.",
+                  "text": "A history museum in Ocaña, Colombia, housed in a colonial building.",
                   "category": "museum",
                   "coords": [
                         -73.353316,
@@ -5874,7 +6936,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Columna de la Libertad de los Esclavos",
-                  "text": "A monument in Ocaña commemorating freedom.",
+                  "text": "A column monument in Ocaña, Colombia, erected to commemorate the abolition of slavery.",
                   "category": "historical",
                   "coords": [
                         -73.353855,
@@ -5883,7 +6945,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Coliseo Cubierto Argelino Duran Quintero",
-                  "text": "A venue in Ocaña for events.",
+                  "text": "An indoor sports arena named after boxer Argelino Duran Quintero, hosting basketball and concerts.",
                   "category": "landmark",
                   "coords": [
                         -73.359255,
@@ -5892,7 +6954,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Villa de La Reina",
-                  "text": "A historic manor in Ocaña.",
+                  "text": "A colonial-era mansion once owned by a Spanish queen's representative, now a cultural center.",
                   "category": "historical",
                   "coords": [
                         -73.362685,
@@ -5901,7 +6963,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Iglesia Virgen de la Torcoroma",
-                  "text": "A significant shrine in Ocaña.",
+                  "text": "Iglesia Virgen de la Torcoroma: a hillside chapel near Ocaña, Colombia, dedicated to the Virgin of Torcoroma, a pilgrimage site.",
                   "category": "religious",
                   "coords": [
                         -73.35379,
@@ -5960,7 +7022,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centro Cultural Héctor Polanía Sánchez",
-                  "text": "Das Centro Cultural Héctor Polanía Sánchez ist ein kulturelles Theater in Pitalito.",
+                  "text": "Kulturzentrum, benannt nach dem kolumbianischen Komponisten Héctor Polanía Sánchez, in Pitalito.",
                   "category": "cultural",
                   "coords": [
                         -76.047747,
@@ -5971,7 +7033,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centro Cultural Héctor Polanía Sánchez",
-                  "text": "A Centro Cultural Héctor Polanía Sánchez egy kulturális színház Pitalitóban.",
+                  "text": "Héctor Polanía Sánchez kolumbiai zeneszerzőről elnevezett kulturális központ Pitalitóban.",
                   "category": "cultural",
                   "coords": [
                         -76.047747,
@@ -5982,7 +7044,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centro Cultural Héctor Polanía Sánchez",
-                  "text": "Centro Cultural Héctor Polanía Sánchez este un teatru cultural situat în Pitalito.",
+                  "text": "Centru cultural numit după compozitorul columbian Héctor Polanía Sánchez, în Pitalito.",
                   "category": "cultural",
                   "coords": [
                         -76.047747,
@@ -5993,7 +7055,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centro Cultural Héctor Polanía Sánchez",
-                  "text": "Centro Cultural Héctor Polanía Sánchez is a cultural theatre located in Pitalito.",
+                  "text": "Cultural center named after Colombian composer Héctor Polanía Sánchez in Pitalito.",
                   "category": "cultural",
                   "coords": [
                         -76.047747,
@@ -6052,7 +7114,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Museo del Milagroso",
-                  "text": "Das Museo del Milagroso ist ein lokales Museum in Buga.",
+                  "text": "Museum, das dem Wunder von Buga und dem Cristo Milagroso gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         -76.302656,
@@ -6070,7 +7132,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Obelisco Faro Monumento Alejandro Cabal Pombo",
-                  "text": "Das Obelisco Faro Monumento Alejandro Cabal Pombo ist ein Denkmal in Buga.",
+                  "text": "Obelisk, der als Leuchtturm dient und an Alejandro Cabal Pombo erinnert, in Buga.",
                   "category": "historical",
                   "coords": [
                         -76.304499,
@@ -6079,7 +7141,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "El árbol más lindo de Buga Ceiba Blanca",
-                  "text": "El árbol más lindo de Buga Ceiba Blanca ist eine Sehenswürdigkeit in Buga.",
+                  "text": "Der schönste Baum von Buga – eine große weiße Ceiba (Seidenbaum) im Stadtzentrum.",
                   "category": "landmark",
                   "coords": [
                         -76.303133,
@@ -6090,7 +7152,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Museo del Milagroso",
-                  "text": "A Museo del Milagroso egy helyi múzeum Bugában.",
+                  "text": "A bugai csodának és a Milagroso Krisztusnak szentelt múzeum.",
                   "category": "museum",
                   "coords": [
                         -76.302656,
@@ -6108,7 +7170,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Obelisco Faro Monumento Alejandro Cabal Pombo",
-                  "text": "Az Obelisco Faro Monumento Alejandro Cabal Pombo egy emlékmű Buga városában.",
+                  "text": "Obeliszk, amely világítótoronyként szolgál és Alejandro Cabal Pombo emlékét őrzi, Bugában.",
                   "category": "historical",
                   "coords": [
                         -76.304499,
@@ -6117,7 +7179,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "El árbol más lindo de Buga Ceiba Blanca",
-                  "text": "A(z) El árbol más lindo de Buga Ceiba Blanca egy látványosság Buga városában.",
+                  "text": "Buga legszebb fája – egy hatalmas fehér ceiba (selyemfa) a város központjában.",
                   "category": "landmark",
                   "coords": [
                         -76.303133,
@@ -6128,7 +7190,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Museo del Milagroso",
-                  "text": "Museo del Milagroso este un muzeu local situat în Buga.",
+                  "text": "Muzeu dedicat miracolelor din Buga și lui Cristo Milagroso.",
                   "category": "museum",
                   "coords": [
                         -76.302656,
@@ -6146,7 +7208,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Obelisco Faro Monumento Alejandro Cabal Pombo",
-                  "text": "Obelisco Faro Monumento Alejandro Cabal Pombo este un monument situat în Buga.",
+                  "text": "Obelisc care servește ca far și comemorează pe Alejandro Cabal Pombo, în Buga.",
                   "category": "historical",
                   "coords": [
                         -76.304499,
@@ -6155,7 +7217,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "El árbol más lindo de Buga Ceiba Blanca",
-                  "text": "El árbol más lindo de Buga Ceiba Blanca este o atracție situată în Buga.",
+                  "text": "Cel mai frumos copac din Buga – un ceiba alb uriaș (arbore de mătase) în centrul orașului.",
                   "category": "landmark",
                   "coords": [
                         -76.303133,
@@ -6166,7 +7228,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Museo del Milagroso",
-                  "text": "Museo del Milagroso is a local museum situated in Buga.",
+                  "text": "Museum dedicated to the Miracle of Buga and the Cristo Milagroso.",
                   "category": "museum",
                   "coords": [
                         -76.302656,
@@ -6184,7 +7246,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Obelisco Faro Monumento Alejandro Cabal Pombo",
-                  "text": "Obelisco Faro Monumento Alejandro Cabal Pombo is a monument located in Buga.",
+                  "text": "Obelisk serving as a lighthouse and commemorating Alejandro Cabal Pombo in Buga.",
                   "category": "historical",
                   "coords": [
                         -76.304499,
@@ -6193,7 +7255,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "El árbol más lindo de Buga Ceiba Blanca",
-                  "text": "El árbol más lindo de Buga Ceiba Blanca is an attraction located in Buga.",
+                  "text": "The most beautiful tree of Buga – a giant white ceiba (silk cotton tree) in the city center.",
                   "category": "landmark",
                   "coords": [
                         -76.303133,
@@ -6252,7 +7314,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Ein Kulturzentrum in Jamundí.",
+                  "text": "Kulturhaus in Jamundí, das Konzerte, Theater und Ausstellungen veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -76.540419,
@@ -6261,7 +7323,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Las veraneras",
-                  "text": "Eine lokale Attraktion in Jamundí.",
+                  "text": "Grünanlage mit hohen Bäumen in Jamundí, beliebt zum Spazierengehen und Entspannen.",
                   "category": "landmark",
                   "coords": [
                         -76.528574,
@@ -6270,7 +7332,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldía de Jamundí",
-                  "text": "Das Rathausgebäude der Stadt Jamundí.",
+                  "text": "Das Rathaus von Jamundí, Kolumbien, im Stadtzentrum gelegen.",
                   "category": "historical",
                   "coords": [
                         -76.540824,
@@ -6281,7 +7343,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Kulturális központ Jamundíban.",
+                  "text": "Kulturház Jamundíban, amely koncerteknek, színháznak és kiállításoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -76.540419,
@@ -6290,7 +7352,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Las veraneras",
-                  "text": "Helyi látnivaló Jamundíban.",
+                  "text": "Magas fákkal teli zöldterület Jamundíban, népszerű sétálóhely.",
                   "category": "landmark",
                   "coords": [
                         -76.528574,
@@ -6299,7 +7361,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldía de Jamundí",
-                  "text": "Jamundí városháza.",
+                  "text": "Jamundí városháza Kolumbiában, a városközpontban található.",
                   "category": "historical",
                   "coords": [
                         -76.540824,
@@ -6310,7 +7372,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Casa de la Cultura",
-                  "text": "Un centru cultural în Jamundí.",
+                  "text": "Casă de cultură în Jamundí, care găzduiește concerte, teatru și expoziții.",
                   "category": "cultural",
                   "coords": [
                         -76.540419,
@@ -6319,7 +7381,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Las veraneras",
-                  "text": "O atracție locală în Jamundí.",
+                  "text": "Zonă verde cu copaci înalți în Jamundí, populară pentru plimbări și relaxare.",
                   "category": "landmark",
                   "coords": [
                         -76.528574,
@@ -6328,7 +7390,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldía de Jamundí",
-                  "text": "Clădirea primăriei din Jamundí.",
+                  "text": "Primăria din Jamundí, Columbia, situată în centrul orașului.",
                   "category": "historical",
                   "coords": [
                         -76.540824,
@@ -6339,7 +7401,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "House of the culture",
-                  "text": "A cultural centre in Jamundí.",
+                  "text": "House of culture in Jamundí, hosting concerts, theater, and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -76.540419,
@@ -6348,7 +7410,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Las veraneras",
-                  "text": "A local attraction in Jamundí.",
+                  "text": "Green area with tall trees in Jamundí, popular for walking and relaxing.",
                   "category": "landmark",
                   "coords": [
                         -76.528574,
@@ -6357,7 +7419,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldía de Jamundí",
-                  "text": "The city hall building of Jamundí.",
+                  "text": "The municipal building of Jamundí, Colombia, located in the town center.",
                   "category": "historical",
                   "coords": [
                         -76.540824,
@@ -6425,7 +7487,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Instituto Municipal de Cultura",
-                  "text": "Das Instituto Municipal de Cultura ist ein Theater und Kulturzentrum in Yumbo.",
+                  "text": "Städtisches Kulturinstitut in Yumbo mit Bibliothek und Kunstgalerie.",
                   "category": "cultural",
                   "coords": [
                         -76.494547,
@@ -6434,7 +7496,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro de las Tres Cruces",
-                  "text": "Cerro de las Tres Cruces ist ein markantes Denkmal in Yumbo.",
+                  "text": "Hügel mit drei Kreuzen, der einen Panoramablick über Yumbo bietet.",
                   "category": "historical",
                   "coords": [
                         -76.498704,
@@ -6454,7 +7516,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Instituto Municipal de Cultura",
-                  "text": "Az Instituto Municipal de Cultura egy színházi és kulturális központ Yumbóban.",
+                  "text": "Yumbo városi kulturális intézete, könyvtárral és művészeti galériával.",
                   "category": "cultural",
                   "coords": [
                         -76.494547,
@@ -6463,7 +7525,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro de las Tres Cruces",
-                  "text": "A Cerro de las Tres Cruces egy kiemelkedő emlékmű Yumbóban.",
+                  "text": "Három kereszt dombja, panorámás kilátással Yumbo városára.",
                   "category": "historical",
                   "coords": [
                         -76.498704,
@@ -6483,7 +7545,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Instituto Municipal de Cultura",
-                  "text": "Instituto Municipal de Cultura este un spațiu teatral și cultural în Yumbo.",
+                  "text": "Institut municipal de cultură în Yumbo, cu bibliotecă și galerie de artă.",
                   "category": "cultural",
                   "coords": [
                         -76.494547,
@@ -6492,7 +7554,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro de las Tres Cruces",
-                  "text": "Cerro de las Tres Cruces este un monument proeminent situat în Yumbo.",
+                  "text": "Deal cu trei cruci, oferind o vedere panoramică asupra orașului Yumbo.",
                   "category": "historical",
                   "coords": [
                         -76.498704,
@@ -6512,7 +7574,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Instituto Municipal de Cultura",
-                  "text": "The Instituto Municipal de Cultura is a theatrical and cultural venue in Yumbo.",
+                  "text": "Municipal cultural institute in Yumbo, with a library and art gallery.",
                   "category": "cultural",
                   "coords": [
                         -76.494547,
@@ -6521,7 +7583,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cerro de las Tres Cruces",
-                  "text": "Cerro de las Tres Cruces is a prominent monument situated in Yumbo.",
+                  "text": "Hill with three crosses, offering a panoramic view over Yumbo.",
                   "category": "historical",
                   "coords": [
                         -76.498704,
@@ -6589,7 +7651,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldia",
-                  "text": "Alcaldia ist eine Sehenswürdigkeit in Villa Del Rosario.",
+                  "text": "Rathaus von Del Rosario, Sitz der Gemeindeverwaltung.",
                   "category": "landmark",
                   "coords": [
                         -72.470478,
@@ -6598,7 +7660,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Templo Histórico",
-                  "text": "Templo Histórico ist ein Denkmal in Villa Del Rosario.",
+                  "text": "Historische Kirche in Del Rosario aus der Kolonialzeit.",
                   "category": "historical",
                   "coords": [
                         -72.462606,
@@ -6607,7 +7669,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "General Santander",
-                  "text": "General Santander ist ein Denkmal in Villa Del Rosario.",
+                  "text": "Denkmal für General Francisco de Paula Santander, Unabhängigkeitsheld, in Del Rosario.",
                   "category": "historical",
                   "coords": [
                         -72.462806,
@@ -6625,7 +7687,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Trocha a la Palmita",
-                  "text": "Trocha a la Palmita Villa del ros ist ein Aussichtspunkt in Villa Del Rosario.",
+                  "text": "Naturwanderweg nach La Palmita, durch Wälder und Hügel in Del Rosario.",
                   "category": "natural",
                   "coords": [
                         -72.495515,
@@ -6634,7 +7696,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "cancha",
-                  "text": "cancha ist eine Sehenswürdigkeit in Villa Del Rosario.",
+                  "text": "Sportplatz in Del Rosario, Treffpunkt für Fußball- und Basketballspiele.",
                   "category": "landmark",
                   "coords": [
                         -72.470409,
@@ -6643,7 +7705,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nuestra Señora del Rosario",
-                  "text": "Nuestra Señora del Rosario ist eine Sehenswürdigkeit in Villa Del Rosario.",
+                  "text": "Kirche Unserer Lieben Frau vom Rosenkranz, Patronin von Del Rosario.",
                   "category": "landmark",
                   "coords": [
                         -72.471455,
@@ -6672,7 +7734,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldia",
-                  "text": "A(z) Alcaldia egy látványosság Villa Del Rosario városában.",
+                  "text": "Del Rosario városháza, a községi igazgatás székhelye.",
                   "category": "landmark",
                   "coords": [
                         -72.470478,
@@ -6681,7 +7743,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Templo Histórico",
-                  "text": "A(z) Templo Histórico egy emlékmű Villa Del Rosario városában.",
+                  "text": "Történelmi templom Del Rosarióban a gyarmati korból.",
                   "category": "historical",
                   "coords": [
                         -72.462606,
@@ -6690,7 +7752,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "General Santander",
-                  "text": "A(z) General Santander egy emlékmű Villa Del Rosario városában.",
+                  "text": "Francisco de Paula Santander tábornok, függetlenségi hős emlékműve Del Rosarióban.",
                   "category": "historical",
                   "coords": [
                         -72.462806,
@@ -6708,7 +7770,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Trocha a la Palmita",
-                  "text": "A(z) Trocha a la Palmita Villa del ros egy kilátó Villa Del Rosario városában.",
+                  "text": "Természetjáró ösvény La Palmitába, erdőkön és dombokon keresztül Del Rosarióban.",
                   "category": "natural",
                   "coords": [
                         -72.495515,
@@ -6717,7 +7779,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "cancha",
-                  "text": "A(z) cancha egy látványosság Villa Del Rosario városában.",
+                  "text": "Sportpálya Del Rosarióban, futball- és kosárlabdameccsek találkozóhelye.",
                   "category": "landmark",
                   "coords": [
                         -72.470409,
@@ -6726,7 +7788,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nuestra Señora del Rosario",
-                  "text": "A(z) Nuestra Señora del Rosario egy látványosság Villa Del Rosario városában.",
+                  "text": "A Rózsafüzér Királynője templom, Del Rosario védőszentje.",
                   "category": "landmark",
                   "coords": [
                         -72.471455,
@@ -6755,7 +7817,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldia",
-                  "text": "Alcaldia este o atracție situată în Villa Del Rosario.",
+                  "text": "Primăria din Del Rosario, sediul administrației comunale.",
                   "category": "landmark",
                   "coords": [
                         -72.470478,
@@ -6764,7 +7826,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Templo Histórico",
-                  "text": "Templo Histórico este un monument situat în Villa Del Rosario.",
+                  "text": "Biserică istorică în Del Rosario, din perioada colonială.",
                   "category": "historical",
                   "coords": [
                         -72.462606,
@@ -6773,7 +7835,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "General Santander",
-                  "text": "General Santander este un monument situat în Villa Del Rosario.",
+                  "text": "Monumentul generalului Francisco de Paula Santander, erou al independenței, în Del Rosario.",
                   "category": "historical",
                   "coords": [
                         -72.462806,
@@ -6791,7 +7853,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Trocha a la Palmita",
-                  "text": "Trocha a la Palmita Villa del ros este un punct de belvedere situat în Villa Del Rosario.",
+                  "text": "Traseu natural spre La Palmita, prin păduri și dealuri în Del Rosario.",
                   "category": "natural",
                   "coords": [
                         -72.495515,
@@ -6800,7 +7862,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "cancha",
-                  "text": "cancha este o atracție situată în Villa Del Rosario.",
+                  "text": "Teren de sport în Del Rosario, loc de întâlnire pentru fotbal și baschet.",
                   "category": "landmark",
                   "coords": [
                         -72.470409,
@@ -6809,7 +7871,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nuestra Señora del Rosario",
-                  "text": "Nuestra Señora del Rosario este o atracție situată în Villa Del Rosario.",
+                  "text": "Biserica Maicii Domnului de la Rozariu, patronul orașului Del Rosario.",
                   "category": "landmark",
                   "coords": [
                         -72.471455,
@@ -6838,7 +7900,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Alcaldia",
-                  "text": "Alcaldia is an attraction located in Villa Del Rosario.",
+                  "text": "Town hall of Del Rosario, seat of the municipal administration.",
                   "category": "landmark",
                   "coords": [
                         -72.470478,
@@ -6847,7 +7909,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Templo Histórico",
-                  "text": "Templo Histórico is a monument located in Villa Del Rosario.",
+                  "text": "Historic church in Del Rosario from the colonial period.",
                   "category": "historical",
                   "coords": [
                         -72.462606,
@@ -6856,7 +7918,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "General Santander",
-                  "text": "General Santander is a monument located in Villa Del Rosario.",
+                  "text": "Monument to General Francisco de Paula Santander, independence hero, in Del Rosario.",
                   "category": "historical",
                   "coords": [
                         -72.462806,
@@ -6874,7 +7936,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Trocha a la Palmita Villa del ros",
-                  "text": "Trocha a la Palmita Villa del ros is a viewpoint located in Villa Del Rosario.",
+                  "text": "Nature trail to La Palmita, through forests and hills in Del Rosario.",
                   "category": "natural",
                   "coords": [
                         -72.495515,
@@ -6883,7 +7945,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "cancha",
-                  "text": "cancha is an attraction located in Villa Del Rosario.",
+                  "text": "Sports field in Del Rosario, gathering place for football and basketball games.",
                   "category": "landmark",
                   "coords": [
                         -72.470409,
@@ -6892,7 +7954,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Nuestra Señora del Rosario",
-                  "text": "Nuestra Señora del Rosario is an attraction located in Villa Del Rosario.",
+                  "text": "Church of Our Lady of the Rosary, patron saint of Del Rosario.",
                   "category": "landmark",
                   "coords": [
                         -72.471455,
@@ -6960,7 +8022,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Monumento a Sahagún",
-                  "text": "Ein Denkmal zu Ehren von Sahagún.",
+                  "text": "Denkmal, das die Stadt Sahagún symbolisiert, auf dem Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         -75.444099,
@@ -6971,7 +8033,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Monumento a Sahagún",
-                  "text": "Emlékmű Sahagún tiszteletére.",
+                  "text": "A Sahagún városát jelképező emlékmű a főtéren.",
                   "category": "historical",
                   "coords": [
                         -75.444099,
@@ -6982,7 +8044,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Monumento a Sahagún",
-                  "text": "Un monument în cinstea lui Sahagún.",
+                  "text": "Monument care simbolizează orașul Sahagún, în piața principală.",
                   "category": "historical",
                   "coords": [
                         -75.444099,
@@ -6993,7 +8055,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Monumento a Sahagún",
-                  "text": "A monument in honor of Sahagún.",
+                  "text": "Monument symbolizing the city of Sahagún on the main square.",
                   "category": "historical",
                   "coords": [
                         -75.444099,
@@ -7144,7 +8206,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Parque Santander",
-                  "text": "Parque Santander ist ein Park in Chía.",
+                  "text": "Zentralpark von Chía, Kolumbien, mit einer Statue von General Francisco de Paula Santander.",
                   "category": "park",
                   "coords": [
                         -74.060218,
@@ -7153,7 +8215,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa La Pirausta",
-                  "text": "Casa La Pirausta ist ein Kunstzentrum in Chía.",
+                  "text": "Kulturhaus in Chía, ein altes Kolonialhaus mit Veranstaltungen und Workshops.",
                   "category": "cultural",
                   "coords": [
                         -74.063115,
@@ -7162,7 +8224,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento demolido",
-                  "text": "Monumento demolido ist ein Denkmal in Chía.",
+                  "text": "Zerstörtes Denkmal in Chía, nur noch in Erinnerung und alten Fotos erhalten.",
                   "category": "historical",
                   "coords": [
                         -74.043887,
@@ -7173,7 +8235,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Parque Santander",
-                  "text": "A(z) Parque Santander egy park Chía városában.",
+                  "text": "Chía központi parkja Kolumbiában, Francisco de Paula Santander tábornok szobrával.",
                   "category": "park",
                   "coords": [
                         -74.060218,
@@ -7182,7 +8244,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa La Pirausta",
-                  "text": "A(z) Casa La Pirausta egy művészeti központ Chía városában.",
+                  "text": "Kulturház Chíában, egy régi gyarmati ház, rendezvényekkel és műhelyekkel.",
                   "category": "cultural",
                   "coords": [
                         -74.063115,
@@ -7191,7 +8253,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento demolido",
-                  "text": "A(z) Monumento demolido egy emlékmű Chía városában.",
+                  "text": "Lebontott emlékmű Chíában, csak emlékekben és régi fotókon él tovább.",
                   "category": "historical",
                   "coords": [
                         -74.043887,
@@ -7202,7 +8264,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Parque Santander",
-                  "text": "Parque Santander este un parc situat în Chía.",
+                  "text": "Parcul central din Chía, Columbia, cu o statuie a generalului Francisco de Paula Santander.",
                   "category": "park",
                   "coords": [
                         -74.060218,
@@ -7211,7 +8273,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa La Pirausta",
-                  "text": "Casa La Pirausta este un centru de artă situat în Chía.",
+                  "text": "Casă de cultură în Chía, o veche casă colonială cu evenimente și ateliere.",
                   "category": "cultural",
                   "coords": [
                         -74.063115,
@@ -7220,7 +8282,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento demolido",
-                  "text": "Monumento demolido este un monument situat în Chía.",
+                  "text": "Monument demolat în Chía, păstrat doar în amintiri și fotografii vechi.",
                   "category": "historical",
                   "coords": [
                         -74.043887,
@@ -7231,7 +8293,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Parque Santander",
-                  "text": "Parque Santander is a park located in Chía.",
+                  "text": "Parque Santander: the central park of Chía, Colombia, featuring a statue of General Santander.",
                   "category": "park",
                   "coords": [
                         -74.060218,
@@ -7240,7 +8302,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa La Pirausta",
-                  "text": "Casa La Pirausta is an arts centre located in Chía.",
+                  "text": "House of culture in Chía, an old colonial house hosting events and workshops.",
                   "category": "cultural",
                   "coords": [
                         -74.063115,
@@ -7249,7 +8311,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento demolido",
-                  "text": "Monumento demolido is a monument located in Chía.",
+                  "text": "Demolished monument in Chía, preserved only in memory and old photographs.",
                   "category": "historical",
                   "coords": [
                         -74.043887,
@@ -7402,7 +8464,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Unidad Recreativa Caucasia - Comfamiliar Camacol",
-                  "text": "Unidad Recreativa Caucasia - Comfamiliar Camacol ist eine Sehenswürdigkeit in Caucasia.",
+                  "text": "Freizeiteinrichtung in Caucasia mit Schwimmbädern, Sportplätzen und Grünflächen.",
                   "category": "landmark",
                   "coords": [
                         -75.203986,
@@ -7413,7 +8475,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Unidad Recreativa Caucasia - Comfamiliar Camacol",
-                  "text": "A(z) Unidad Recreativa Caucasia - Comfamiliar Camacol egy látványosság Caucasia városában.",
+                  "text": "Szabadidőközpont Caucasiában, medencékkel, sportpályákkal és zöldterületekkel.",
                   "category": "landmark",
                   "coords": [
                         -75.203986,
@@ -7424,7 +8486,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Unidad Recreativa Caucasia - Comfamiliar Camacol",
-                  "text": "Unidad Recreativa Caucasia - Comfamiliar Camacol este o atracție situată în Caucasia.",
+                  "text": "Centru de agrement în Caucasia, cu piscine, terenuri de sport și spații verzi.",
                   "category": "landmark",
                   "coords": [
                         -75.203986,
@@ -7435,7 +8497,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Unidad Recreativa Caucasia - Comfamiliar Camacol",
-                  "text": "Unidad Recreativa Caucasia - Comfamiliar Camacol is an attraction located in Caucasia.",
+                  "text": "Recreational complex in Caucasia with swimming pools, sports fields, and green areas.",
                   "category": "landmark",
                   "coords": [
                         -75.203986,
@@ -7494,7 +8556,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mercado Público",
-                  "text": "Ein historisches öffentliches Marktgebäude in Lorica.",
+                  "text": "Historischer Marktplatz in Cruz de Lorica, Zentrum des lokalen Handels.",
                   "category": "historical",
                   "coords": [
                         -75.818534,
@@ -7503,7 +8565,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilador Lorica",
-                  "text": "Ein Denkmal in Santa Cruz De Lorica.",
+                  "text": "Historische Reismühle in Cruz de Lorica, Zeugnis der landwirtschaftlichen Vergangenheit.",
                   "category": "historical",
                   "coords": [
                         -75.81688,
@@ -7512,7 +8574,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Muralla de Lorica",
-                  "text": "Ein Aussichtspunkt an der Stadtmauer von Lorica.",
+                  "text": "Natürliche Felsmauer entlang des Sinú-Flusses in Cruz de Lorica.",
                   "category": "natural",
                   "coords": [
                         -75.821175,
@@ -7521,7 +8583,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Patria",
-                  "text": "Ein Denkmal in Santa Cruz De Lorica.",
+                  "text": "Denkmal für die kolumbianische Nation auf dem Hauptplatz von Cruz de Lorica.",
                   "category": "historical",
                   "coords": [
                         -75.816914,
@@ -7530,7 +8592,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reloj Solar",
-                  "text": "Eine Sonnenuhr-Attraktion in Lorica.",
+                  "text": "Sonnenuhr im Stadtpark von Cruz de Lorica.",
                   "category": "landmark",
                   "coords": [
                         -75.81423,
@@ -7539,7 +8601,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Nicolás Sanchez",
-                  "text": "Ein historisches Haus in Lorica.",
+                  "text": "Historisches Wohnhaus von Nicolás Sanchez, einer lokalen Persönlichkeit, in Cruz de Lorica.",
                   "category": "historical",
                   "coords": [
                         -75.818734,
@@ -7550,7 +8612,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mercado Público",
-                  "text": "Történelmi vásárcsarnok Loricában.",
+                  "text": "Történelmi piac tér Cruz de Loricában, a helyi kereskedelem központja.",
                   "category": "historical",
                   "coords": [
                         -75.818534,
@@ -7559,7 +8621,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilador Lorica",
-                  "text": "Emlékmű Santa Cruz De Loricában.",
+                  "text": "Történelmi rizsmalom Cruz de Loricában, a mezőgazdasági múlt emléke.",
                   "category": "historical",
                   "coords": [
                         -75.81688,
@@ -7568,7 +8630,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Muralla de Lorica",
-                  "text": "Kilátóhely Lorica városfalánál.",
+                  "text": "Természetes sziklafal a Sinú folyó mentén Cruz de Loricában.",
                   "category": "natural",
                   "coords": [
                         -75.821175,
@@ -7577,7 +8639,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Patria",
-                  "text": "Emlékmű Santa Cruz De Loricában.",
+                  "text": "A kolumbiai nemzet emlékműve Cruz de Lorica főterén.",
                   "category": "historical",
                   "coords": [
                         -75.816914,
@@ -7586,7 +8648,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reloj Solar",
-                  "text": "Napóra látványosság Loricában.",
+                  "text": "Napóra Cruz de Lorica városi parkjában.",
                   "category": "landmark",
                   "coords": [
                         -75.81423,
@@ -7595,7 +8657,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Nicolás Sanchez",
-                  "text": "Történelmi ház Loricában.",
+                  "text": "Nicolás Sanchez, egy helyi személyiség történelmi lakóháza Cruz de Loricában.",
                   "category": "historical",
                   "coords": [
                         -75.818734,
@@ -7606,7 +8668,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mercado Público",
-                  "text": "O clădire istorică a pieței publice din Lorica.",
+                  "text": "Piață publică istorică în Cruz de Lorica, centru al comerțului local.",
                   "category": "historical",
                   "coords": [
                         -75.818534,
@@ -7615,7 +8677,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilador Lorica",
-                  "text": "Un monument în Santa Cruz De Lorica.",
+                  "text": "Moară de orez istorică în Cruz de Lorica, mărturie a trecutului agricol.",
                   "category": "historical",
                   "coords": [
                         -75.81688,
@@ -7624,7 +8686,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Muralla de Lorica",
-                  "text": "Un punct de belvedere la zidul orașului Lorica.",
+                  "text": "Zid natural de stâncă de-a lungul râului Sinú în Cruz de Lorica.",
                   "category": "natural",
                   "coords": [
                         -75.821175,
@@ -7633,7 +8695,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Patria",
-                  "text": "Un monument în Santa Cruz De Lorica.",
+                  "text": "Monumentul națiunii columbiene pe piața principală din Cruz de Lorica.",
                   "category": "historical",
                   "coords": [
                         -75.816914,
@@ -7642,7 +8704,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reloj Solar",
-                  "text": "O atracție tip cadran solar în Lorica.",
+                  "text": "Cadran solar în parcul orașului Cruz de Lorica.",
                   "category": "landmark",
                   "coords": [
                         -75.81423,
@@ -7651,7 +8713,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Nicolás Sanchez",
-                  "text": "O casă istorică în Lorica.",
+                  "text": "Casă istorică a lui Nicolás Sanchez, o personalitate locală, în Cruz de Lorica.",
                   "category": "historical",
                   "coords": [
                         -75.818734,
@@ -7662,7 +8724,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mercado Público",
-                  "text": "A historic public market building in Lorica.",
+                  "text": "Historic public market in Cruz de Lorica, center of local trade.",
                   "category": "historical",
                   "coords": [
                         -75.818534,
@@ -7671,7 +8733,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pilador Lorica",
-                  "text": "A monument in Santa Cruz De Lorica.",
+                  "text": "Historic rice mill in Cruz de Lorica, testimony to the agricultural past.",
                   "category": "historical",
                   "coords": [
                         -75.81688,
@@ -7680,7 +8742,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Muralla de Lorica",
-                  "text": "A viewpoint at the city wall of Lorica.",
+                  "text": "Natural rock wall along the Sinú River in Cruz de Lorica.",
                   "category": "natural",
                   "coords": [
                         -75.821175,
@@ -7689,7 +8751,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monumento a la Patria",
-                  "text": "A monument in Santa Cruz De Lorica.",
+                  "text": "Monument to the Colombian nation on the main square of Cruz de Lorica.",
                   "category": "historical",
                   "coords": [
                         -75.816914,
@@ -7698,7 +8760,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Reloj Solar",
-                  "text": "A sundial attraction in Lorica.",
+                  "text": "Sundial in the city park of Cruz de Lorica.",
                   "category": "landmark",
                   "coords": [
                         -75.81423,
@@ -7707,7 +8769,7 @@ export const poiExtraColombiaCitiesV2: POI[] = [
             },
             {
                   "name": "Casa de Nicolás Sanchez",
-                  "text": "A historic house in Lorica.",
+                  "text": "Historic house of Nicolás Sanchez, a local figure, in Cruz de Lorica.",
                   "category": "historical",
                   "coords": [
                         -75.818734,
@@ -7852,7 +8914,196 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "turbo-cities-v2", "sights": {"de": [{"name": "Faro Punta Yarumal", "text": "Der Leuchtturm von Turbo.", "category": "landmark", "coords": [-76.748042, 8.110046]}, {"name": "Playa Dulce", "text": "Am Rand von Turbo gelegen, bietet dieser Strand einen direkten Zugang zum erfrischenden Wasser. Der Küstenstreifen zieht Badegäste an, die Sonne tanken und den warmen Sand unter den Füßen spüren möchten. Für einen entspannten Aufenthalt ist es ratsam, Sonnenschutz und ein Handtuch für ein gemütliches Picknick mitzubringen.", "category": "recreational", "coords": [-76.740632, 8.0964]}, {"name": "Playita", "text": "Ein kleiner Strand in Turbo.", "category": "recreational", "coords": [-76.741833, 8.09237]}, {"name": "Puerto Turbo", "text": "Ein Aussichtspunkt im Hafen von Turbo.", "category": "natural", "coords": [-76.729105, 8.091066]}, {"name": "Kartukú", "text": "Eine Kunstgalerie in Turbo.", "category": "museum", "coords": [-76.722954, 8.089029]}], "hu": [{"name": "Faro Punta Yarumal", "text": "Turbo világítótornya.", "category": "landmark", "coords": [-76.748042, 8.110046]}, {"name": "Playa Dulce", "text": "A Turbo szélén található strand közvetlen hozzáférést biztosít a frissítő vízhez. A partszakasz olyan fürdőzőket vonz, akik szeretnének egy kis napfényt gyűjteni és érezni a meleg homokot a talpuk alatt. A pihentető tartózkodás érdekében érdemes naptejet és egy törölközőt hozni egy hangulatos piknikhez.", "category": "recreational", "coords": [-76.740632, 8.0964]}, {"name": "Playita", "text": "Kis strand Turbóban.", "category": "recreational", "coords": [-76.741833, 8.09237]}, {"name": "Puerto Turbo", "text": "Kilátópont Turbo kikötőjében.", "category": "natural", "coords": [-76.729105, 8.091066]}, {"name": "Kartukú", "text": "Művészeti galéria Turbóban.", "category": "museum", "coords": [-76.722954, 8.089029]}], "ro": [{"name": "Faro Punta Yarumal", "text": "Farul din Turbo.", "category": "landmark", "coords": [-76.748042, 8.110046]}, {"name": "Playa Dulce", "text": "Situată la marginea orașului Turbo, această plajă oferă acces direct la apa revigorantă. Fâșia de coastă atrage vizitatorii care doresc să se bucure de soare și să simtă nisipul cald sub picioare. Pentru o ședere relaxantă, este indicat să aduceți protecție solară și un prosop pentru un picnic confortabil.", "category": "recreational", "coords": [-76.740632, 8.0964]}, {"name": "Playita", "text": "O plajă mică în Turbo.", "category": "recreational", "coords": [-76.741833, 8.09237]}, {"name": "Puerto Turbo", "text": "Un punct de belvedere în portul Turbo.", "category": "natural", "coords": [-76.729105, 8.091066]}, {"name": "Kartukú", "text": "O galerie de artă în Turbo.", "category": "museum", "coords": [-76.722954, 8.089029]}], "en": [{"name": "Faro Punta Yarumal", "text": "The lighthouse of Turbo.", "category": "landmark", "coords": [-76.748042, 8.110046]}, {"name": "Playa Dulce", "text": "Situated on the edge of Turbo, this beach provides direct access to the refreshing water. The stretch of coastline attracts bathers looking to soak up the sun and feel the warm sand beneath their feet. For a relaxed visit, it is a good idea to bring sunscreen and a towel for a cozy seaside picnic.", "category": "recreational", "coords": [-76.740632, 8.0964]}, {"name": "Playita", "text": "A small beach in Turbo.", "category": "recreational", "coords": [-76.741833, 8.09237]}, {"name": "Puerto Turbo", "text": "A viewpoint in the port of Turbo.", "category": "natural", "coords": [-76.729105, 8.091066]}, {"name": "Kartukú", "text": "An art gallery in Turbo.", "category": "museum", "coords": [-76.722954, 8.089029]}]},
+    id: "turbo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Punta Yarumal",
+                  "text": "Leuchtturm an der Punta Yarumal, der die Einfahrt in die Bucht von Turbo markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.748042,
+                        8.110046
+                  ]
+            },
+            {
+                  "name": "Playa Dulce",
+                  "text": "Am Rand von Turbo gelegen, bietet dieser Strand einen direkten Zugang zum erfrischenden Wasser. Der Küstenstreifen zieht Badegäste an, die Sonne tanken und den warmen Sand unter den Füßen spüren möchten. Für einen entspannten Aufenthalt ist es ratsam, Sonnenschutz und ein Handtuch für ein gemütliches Picknick mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.740632,
+                        8.0964
+                  ]
+            },
+            {
+                  "name": "Playita",
+                  "text": "Kleiner Strand in Turbo, beliebt zum Baden und Sonnen.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.741833,
+                        8.09237
+                  ]
+            },
+            {
+                  "name": "Puerto Turbo",
+                  "text": "Naturhafen von Turbo, wichtiger Umschlagplatz für Fracht und Fischerei.",
+                  "category": "natural",
+                  "coords": [
+                        -76.729105,
+                        8.091066
+                  ]
+            },
+            {
+                  "name": "Kartukú",
+                  "text": "Museum für indigene Kultur der Emberá-Gemeinschaft in Turbo.",
+                  "category": "museum",
+                  "coords": [
+                        -76.722954,
+                        8.089029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Punta Yarumal",
+                  "text": "Világítótorony a Punta Yarumalnál, amely a Turbo-öböl bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.748042,
+                        8.110046
+                  ]
+            },
+            {
+                  "name": "Playa Dulce",
+                  "text": "A Turbo szélén található strand közvetlen hozzáférést biztosít a frissítő vízhez. A partszakasz olyan fürdőzőket vonz, akik szeretnének egy kis napfényt gyűjteni és érezni a meleg homokot a talpuk alatt. A pihentető tartózkodás érdekében érdemes naptejet és egy törölközőt hozni egy hangulatos piknikhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.740632,
+                        8.0964
+                  ]
+            },
+            {
+                  "name": "Playita",
+                  "text": "Kis strand Turbóban, népszerű fürdőzésre és napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.741833,
+                        8.09237
+                  ]
+            },
+            {
+                  "name": "Puerto Turbo",
+                  "text": "Turbo természetes kikötője, fontos teher- és halászati forgalommal.",
+                  "category": "natural",
+                  "coords": [
+                        -76.729105,
+                        8.091066
+                  ]
+            },
+            {
+                  "name": "Kartukú",
+                  "text": "Az emberá közösség őshonos kultúrájának múzeuma Turbóban.",
+                  "category": "museum",
+                  "coords": [
+                        -76.722954,
+                        8.089029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Punta Yarumal",
+                  "text": "Far la Punta Yarumal, care marchează intrarea în golful Turbo.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.748042,
+                        8.110046
+                  ]
+            },
+            {
+                  "name": "Playa Dulce",
+                  "text": "Situată la marginea orașului Turbo, această plajă oferă acces direct la apa revigorantă. Fâșia de coastă atrage vizitatorii care doresc să se bucure de soare și să simtă nisipul cald sub picioare. Pentru o ședere relaxantă, este indicat să aduceți protecție solară și un prosop pentru un picnic confortabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.740632,
+                        8.0964
+                  ]
+            },
+            {
+                  "name": "Playita",
+                  "text": "Plajă mică în Turbo, populară pentru înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.741833,
+                        8.09237
+                  ]
+            },
+            {
+                  "name": "Puerto Turbo",
+                  "text": "Port natural în Turbo, important punct de tranzit pentru marfă și pescuit.",
+                  "category": "natural",
+                  "coords": [
+                        -76.729105,
+                        8.091066
+                  ]
+            },
+            {
+                  "name": "Kartukú",
+                  "text": "Muzeu al culturii indigene a comunității Emberá în Turbo.",
+                  "category": "museum",
+                  "coords": [
+                        -76.722954,
+                        8.089029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro Punta Yarumal",
+                  "text": "Lighthouse at Punta Yarumal, marking the entrance to Turbo Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.748042,
+                        8.110046
+                  ]
+            },
+            {
+                  "name": "Playa Dulce",
+                  "text": "Situated on the edge of Turbo, this beach provides direct access to the refreshing water. The stretch of coastline attracts bathers looking to soak up the sun and feel the warm sand beneath their feet. For a relaxed visit, it is a good idea to bring sunscreen and a towel for a cozy seaside picnic.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.740632,
+                        8.0964
+                  ]
+            },
+            {
+                  "name": "Playita",
+                  "text": "Small beach in Turbo, popular for swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.741833,
+                        8.09237
+                  ]
+            },
+            {
+                  "name": "Puerto Turbo",
+                  "text": "Natural harbor of Turbo, important hub for cargo and fishing.",
+                  "category": "natural",
+                  "coords": [
+                        -76.729105,
+                        8.091066
+                  ]
+            },
+            {
+                  "name": "Kartukú",
+                  "text": "Museum of indigenous culture of the Emberá community in Turbo.",
+                  "category": "museum",
+                  "coords": [
+                        -76.722954,
+                        8.089029
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-ANT",
     coords: [-76.7282, 8.0933],

@@ -115,7 +115,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "LagoAlgo",
-                  "text": "Das LagoAlgo ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "LagoAlgo Museum in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.199773,
@@ -124,7 +124,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería Enrique Guerrero",
-                  "text": "Die Galería Enrique Guerrero ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Galería Enrique Guerrero (Kunstgalerie) in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.185524,
@@ -133,7 +133,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Patricia Conde Galería",
-                  "text": "Die Patricia Conde Galería ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Patricia Conde Galería (Kunstgalerie) in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.185034,
@@ -142,7 +142,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Galería",
-                  "text": "Das Parque Galería ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Parque Galería (Parkgalerie) in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.183736,
@@ -151,7 +151,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería de Arte Mexicano GAM",
-                  "text": "Die Galería de Arte Mexicano GAM ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Galería de Arte Mexicano GAM (Galerie für mexikanische Kunst) in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.186982,
@@ -160,7 +160,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Cencalli",
-                  "text": "Das Cencalli ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Museum Cencalli im Zoo, eröffnet im September 2021.",
                   "category": "museum",
                   "coords": [
                         -99.192028,
@@ -178,7 +178,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de la Policía Federal",
-                  "text": "Das Museo de la Policía Federal ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Museo de la Policía Federal (Museum der Bundespolizei) in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.218055,
@@ -196,7 +196,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Nacional de la Cartografía",
-                  "text": "Das Museo Nacional de la Cartografía ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Museo Nacional de la Cartografía (Nationalmuseum für Kartographie) in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.191798,
@@ -205,7 +205,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Historia Natural y Cultura Ambiental",
-                  "text": "Das Museo de Historia Natural y Cultura Ambiental ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Naturkundemuseum im Zoo, gegründet 1964.",
                   "category": "museum",
                   "coords": [
                         -99.2015,
@@ -214,7 +214,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mapoteca Manuel Orozco y Berra",
-                  "text": "Die Mapoteca Manuel Orozco y Berra ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Mapoteca Manuel Orozco y Berra (Kartenbibliothek) in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.196764,
@@ -223,7 +223,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Geofísica de la UNAM",
-                  "text": "Das Museo de Geofísica de la UNAM ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Museo de Geofísica de la UNAM (Geophysikmuseum der UNAM) in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.195251,
@@ -232,7 +232,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura Ambiental",
-                  "text": "Das Centro de Cultura Ambiental ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Umweltkulturzentrum eröffnet 2023, entworfen von Rafael Ponce Ortiz, im Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.198258,
@@ -241,7 +241,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Casa de la Bola",
-                  "text": "Das Museo Casa de la Bola ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Museo Casa de la Bola (Haus des Balls Museum) in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.188831,
@@ -250,7 +250,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa Gilardi, Luis Barragán 1976",
-                  "text": "Die Casa Gilardi, Luis Barragán 1976 ist ein Museum in Chapultepec Zoo Life v2.",
+                  "text": "Casa Gilardi, ein Haus von Architekt Luis Barragán von 1976, in Zooviertel.",
                   "category": "museum",
                   "coords": [
                         -99.186235,
@@ -259,7 +259,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "FUENTE",
-                  "text": "Die FUENTE ist ein Denkmal in Chapultepec Zoo Life v2.",
+                  "text": "FUENTE (historischer Brunnen) in Zooviertel.",
                   "category": "historical",
                   "coords": [
                         -99.203921,
@@ -295,7 +295,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Hipódromo Condesa",
-                  "text": "Das Teatro Hipódromo Condesa ist ein Theater in Chapultepec, Mexiko-Stadt.",
+                  "text": "Teatro Hipódromo Condesa (Theater im Stadtteil Condesa) in Zooviertel.",
                   "category": "cultural",
                   "coords": [
                         -99.18468,
@@ -304,7 +304,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural del Bosque",
-                  "text": "Das Centro Cultural del Bosque ist ein Kunstzentrum in Chapultepec, Mexiko-Stadt.",
+                  "text": "Centro Cultural del Bosque (Kulturzentrum im Wald) in Zooviertel.",
                   "category": "cultural",
                   "coords": [
                         -99.195433,
@@ -423,7 +423,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "LagoAlgo",
-                  "text": "A LagoAlgo egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "LagoAlgo múzeum az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.199773,
@@ -432,7 +432,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería Enrique Guerrero",
-                  "text": "A Galería Enrique Guerrero egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Galería Enrique Guerrero (művészeti galéria) az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.185524,
@@ -441,7 +441,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Patricia Conde Galería",
-                  "text": "A Patricia Conde Galería egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Patricia Conde Galería (művészeti galéria) az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.185034,
@@ -450,7 +450,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Galería",
-                  "text": "A Parque Galería egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Parque Galería (park galéria) az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.183736,
@@ -459,7 +459,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería de Arte Mexicano GAM",
-                  "text": "A Galería de Arte Mexicano GAM egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Galería de Arte Mexicano GAM (mexikói művészeti galéria) az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.186982,
@@ -468,7 +468,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Cencalli",
-                  "text": "A Cencalli egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Cencalli múzeum az Állatkertben, 2021 szeptemberében nyílt meg.",
                   "category": "museum",
                   "coords": [
                         -99.192028,
@@ -486,7 +486,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de la Policía Federal",
-                  "text": "A Museo de la Policía Federal egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Museo de la Policía Federal (Szövetségi Rendőrség Múzeuma) az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.218055,
@@ -504,7 +504,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Nacional de la Cartografía",
-                  "text": "A Museo Nacional de la Cartografía egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Museo Nacional de la Cartografía (Nemzeti Térképészeti Múzeum) az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.191798,
@@ -513,7 +513,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Historia Natural y Cultura Ambiental",
-                  "text": "A Museo de Historia Natural y Cultura Ambiental egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Természetrajzi múzeum az Állatkertben, alapítva 1964-ben.",
                   "category": "museum",
                   "coords": [
                         -99.2015,
@@ -522,7 +522,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mapoteca Manuel Orozco y Berra",
-                  "text": "A Mapoteca Manuel Orozco y Berra egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Mapoteca Manuel Orozco y Berra (térképkönyvtár) az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.196764,
@@ -531,7 +531,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Geofísica de la UNAM",
-                  "text": "A Museo de Geofísica de la UNAM egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Museo de Geofísica de la UNAM (az UNAM Geofizikai Múzeuma) az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.195251,
@@ -540,7 +540,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura Ambiental",
-                  "text": "A Centro de Cultura Ambiental egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Környezeti kultúraközpont 2023-ban nyílt meg, Rafael Ponce Ortiz tervezte, az Állatkertben.",
                   "category": "museum",
                   "coords": [
                         -99.198258,
@@ -549,7 +549,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Casa de la Bola",
-                  "text": "A Museo Casa de la Bola egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Museo Casa de la Bola (labdaház múzeum) az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.188831,
@@ -558,7 +558,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa Gilardi, Luis Barragán 1976",
-                  "text": "A Casa Gilardi, Luis Barragán 1976 egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "text": "Casa Gilardi, Luis Barragán építész 1976-os háza az Állatkert közelében.",
                   "category": "museum",
                   "coords": [
                         -99.186235,
@@ -567,7 +567,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "FUENTE",
-                  "text": "A FUENTE egy emlékmű a Chapultepec Zoo Life v2-ben.",
+                  "text": "FUENTE (történelmi szökőkút) az Állatkert közelében.",
                   "category": "historical",
                   "coords": [
                         -99.203921,
@@ -603,7 +603,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Hipódromo Condesa",
-                  "text": "A Teatro Hipódromo Condesa egy színház a Chapultepecben, Mexikóvárosban.",
+                  "text": "Teatro Hipódromo Condesa (színház a Condesa negyedben) az Állatkert közelében.",
                   "category": "cultural",
                   "coords": [
                         -99.18468,
@@ -612,7 +612,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural del Bosque",
-                  "text": "A Centro Cultural del Bosque egy művészeti központ a Chapultepecben, Mexikóvárosban.",
+                  "text": "Centro Cultural del Bosque (erdei kulturális központ) az Állatkert közelében.",
                   "category": "cultural",
                   "coords": [
                         -99.195433,
@@ -731,7 +731,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "LagoAlgo",
-                  "text": "LagoAlgo este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Muzeul LagoAlgo lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.199773,
@@ -740,7 +740,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería Enrique Guerrero",
-                  "text": "Galería Enrique Guerrero este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Galería Enrique Guerrero (galerie de artă) lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.185524,
@@ -749,7 +749,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Patricia Conde Galería",
-                  "text": "Patricia Conde Galería este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Patricia Conde Galería (galerie de artă) lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.185034,
@@ -758,7 +758,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Galería",
-                  "text": "Parque Galería este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Parque Galería (galerie-parc) lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.183736,
@@ -767,7 +767,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería de Arte Mexicano GAM",
-                  "text": "Galería de Arte Mexicano GAM este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Galería de Arte Mexicano GAM (galerie de artă mexicană) lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.186982,
@@ -776,7 +776,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Cencalli",
-                  "text": "Cencalli este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Muzeul Cencalli din Zoo, deschis în septembrie 2021.",
                   "category": "museum",
                   "coords": [
                         -99.192028,
@@ -794,7 +794,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de la Policía Federal",
-                  "text": "Museo de la Policía Federal este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Museo de la Policía Federal (Muzeul Poliției Federale) lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.218055,
@@ -812,7 +812,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Nacional de la Cartografía",
-                  "text": "Museo Nacional de la Cartografía este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Museo Nacional de la Cartografía (Muzeul Național de Cartografie) lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.191798,
@@ -821,7 +821,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Historia Natural y Cultura Ambiental",
-                  "text": "Museo de Historia Natural y Cultura Ambiental este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Muzeul de Istorie Naturală din Zoo, fondat în 1964.",
                   "category": "museum",
                   "coords": [
                         -99.2015,
@@ -830,7 +830,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mapoteca Manuel Orozco y Berra",
-                  "text": "Mapoteca Manuel Orozco y Berra este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Mapoteca Manuel Orozco y Berra (bibliotecă de hărți) lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.196764,
@@ -839,7 +839,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Geofísica de la UNAM",
-                  "text": "Museo de Geofísica de la UNAM este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Museo de Geofísica de la UNAM (Muzeul de Geofizică al UNAM) lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.195251,
@@ -848,7 +848,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura Ambiental",
-                  "text": "Centro de Cultura Ambiental este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Centru de cultură ecologică deschis în 2023, proiectat de Rafael Ponce Ortiz, în Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.198258,
@@ -857,7 +857,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Casa de la Bola",
-                  "text": "Museo Casa de la Bola este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Museo Casa de la Bola (muzeul casei mingii) lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.188831,
@@ -866,7 +866,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa Gilardi, Luis Barragán 1976",
-                  "text": "Casa Gilardi, Luis Barragán 1976 este un muzeu în Chapultepec Zoo Life v2.",
+                  "text": "Casa Gilardi, o casă din 1976 de arhitectul Luis Barragán, lângă Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.186235,
@@ -875,7 +875,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "FUENTE",
-                  "text": "FUENTE este un monument în Chapultepec Zoo Life v2.",
+                  "text": "FUENTE (fântână istorică) lângă Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.203921,
@@ -911,7 +911,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Hipódromo Condesa",
-                  "text": "Teatro Hipódromo Condesa este un teatru în Chapultepec, Mexico City.",
+                  "text": "Teatro Hipódromo Condesa (teatru în cartierul Condesa) lângă Zoo.",
                   "category": "cultural",
                   "coords": [
                         -99.18468,
@@ -920,7 +920,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural del Bosque",
-                  "text": "Centro Cultural del Bosque este un centru de artă în Chapultepec, Mexico City.",
+                  "text": "Centro Cultural del Bosque (centru cultural în pădure) lângă Zoo.",
                   "category": "cultural",
                   "coords": [
                         -99.195433,
@@ -1039,7 +1039,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "LagoAlgo",
-                  "text": "The LagoAlgo is a museum in Chapultepec Zoo Life v2.",
+                  "text": "LagoAlgo museum near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.199773,
@@ -1048,7 +1048,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería Enrique Guerrero",
-                  "text": "The Galería Enrique Guerrero is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Galería Enrique Guerrero (art gallery) near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.185524,
@@ -1057,7 +1057,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Patricia Conde Galería",
-                  "text": "The Patricia Conde Galería is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Patricia Conde Galería (art gallery) near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.185034,
@@ -1066,7 +1066,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Galería",
-                  "text": "The Parque Galería is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Parque Galería (park gallery) near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.183736,
@@ -1075,7 +1075,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería de Arte Mexicano GAM",
-                  "text": "The Galería de Arte Mexicano GAM is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Galería de Arte Mexicano GAM (Mexican art gallery) near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.186982,
@@ -1084,7 +1084,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Cencalli",
-                  "text": "The Cencalli is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Cencalli museum in Zoo, opened in September 2021.",
                   "category": "museum",
                   "coords": [
                         -99.192028,
@@ -1102,7 +1102,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de la Policía Federal",
-                  "text": "The Museo de la Policía Federal is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Museo de la Policía Federal (Federal Police Museum) near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.218055,
@@ -1120,7 +1120,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Nacional de la Cartografía",
-                  "text": "The Museo Nacional de la Cartografía is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Museo Nacional de la Cartografía (national cartography museum) near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.191798,
@@ -1129,7 +1129,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Historia Natural y Cultura Ambiental",
-                  "text": "The Museo de Historia Natural y Cultura Ambiental is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Natural history museum in Zoo, founded in 1964.",
                   "category": "museum",
                   "coords": [
                         -99.2015,
@@ -1138,7 +1138,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mapoteca Manuel Orozco y Berra",
-                  "text": "The Mapoteca Manuel Orozco y Berra is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Mapoteca Manuel Orozco y Berra (map library) near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.196764,
@@ -1147,7 +1147,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Geofísica de la UNAM",
-                  "text": "The Museo de Geofísica de la UNAM is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Museo de Geofísica de la UNAM (geophysics museum of UNAM) near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.195251,
@@ -1156,7 +1156,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Cultura Ambiental",
-                  "text": "The Centro de Cultura Ambiental is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Environmental culture center opened 2023, designed by Rafael Ponce Ortiz, located in the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.198258,
@@ -1165,7 +1165,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Casa de la Bola",
-                  "text": "The Museo Casa de la Bola is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Museo Casa de la Bola (house of the ball museum) near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.188831,
@@ -1174,7 +1174,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa Gilardi, Luis Barragán 1976",
-                  "text": "The Casa Gilardi, Luis Barragán 1976 is a museum in Chapultepec Zoo Life v2.",
+                  "text": "Casa Gilardi, a 1976 house by architect Luis Barragán, near the Zoo.",
                   "category": "museum",
                   "coords": [
                         -99.186235,
@@ -1183,7 +1183,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "FUENTE",
-                  "text": "The FUENTE is a monument in Chapultepec Zoo Life v2.",
+                  "text": "FUENTE (historical fountain) near the Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.203921,
@@ -1219,7 +1219,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Hipódromo Condesa",
-                  "text": "The Teatro Hipódromo Condesa is a theatre in Chapultepec, Mexico City.",
+                  "text": "Teatro Hipódromo Condesa (theater in the Condesa neighborhood) near the Zoo.",
                   "category": "cultural",
                   "coords": [
                         -99.18468,
@@ -1228,7 +1228,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural del Bosque",
-                  "text": "The Centro Cultural del Bosque is an arts centre in Chapultepec, Mexico City.",
+                  "text": "Centro Cultural del Bosque (forest cultural center) near the Zoo.",
                   "category": "cultural",
                   "coords": [
                         -99.195433,
@@ -1371,7 +1371,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre 8",
-                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "text": "Torre 8 (Turm 8) im Juan-De-Aragon-Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.088311,
@@ -1380,7 +1380,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre VI",
-                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "text": "Torre VI ist einer der nummerierten historischen Türme im Zoo Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.088075,
@@ -1389,7 +1389,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XIII",
-                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "text": "Torre XIII steht als historischer Turm im Zoo Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.074216,
@@ -1398,7 +1398,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XVI",
-                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "text": "Torre XVI zählt zu den nummerierten historischen Türmen im Zoo Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.06862,
@@ -1407,7 +1407,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XV",
-                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "text": "Torre XV ist ein historischer Turm im Zoo Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.06914,
@@ -1416,7 +1416,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XIV",
-                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "text": "Torre XIV ist ein nummerierter historischer Turm im Zoo Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.07043,
@@ -1425,7 +1425,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre V",
-                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "text": "Torre V gehört zu den historischen Türmen mit Nummer im Zoo Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.089388,
@@ -1434,7 +1434,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre IV",
-                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "text": "Torre IV ist ein historischer Turm im Zoo Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.091086,
@@ -1443,7 +1443,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre VII",
-                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "text": "Torre VII ist einer der nummerierten historischen Türme im Zoo Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.089759,
@@ -1452,7 +1452,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre I",
-                  "text": "Ein Turm im Zoo von San Juan de Aragón.",
+                  "text": "Torre I ist der erste der nummerierten historischen Türme im Zoo Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.095812,
@@ -1479,7 +1479,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Marbet",
-                  "text": "Kunstzentrum in San Juan de Aragón.",
+                  "text": "Marbet ist ein kulturelles Wahrzeichen im Zoo Juan de Aragón.",
                   "category": "cultural",
                   "coords": [
                         -99.016664,
@@ -1488,7 +1488,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural \"El Castillito\"",
-                  "text": "Kulturzentrum „El Castillito“ in San Juan de Aragón.",
+                  "text": "Das Centro Cultural „El Castillito“ ist ein Kulturzentrum im Zoo Juan de Aragón.",
                   "category": "cultural",
                   "coords": [
                         -99.009774,
@@ -1506,7 +1506,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Baños Medicinales del Peñón",
-                  "text": "Medizinische Bäder in San Juan de Aragón.",
+                  "text": "Die Baños Medicinales del Peñón sind medizinische Bäder an einem Felsen im Zoo Juan de Aragón.",
                   "category": "landmark",
                   "coords": [
                         -99.086881,
@@ -1524,7 +1524,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "León Africano",
-                  "text": "Ein afrikanischer Löwe im Zoo von San Juan de Aragón.",
+                  "text": "Der León Africano ist ein Wahrzeichen, das einen afrikanischen Löwen darstellt, im Zoo Juan de Aragón.",
                   "category": "landmark",
                   "coords": [
                         -99.085613,
@@ -1533,7 +1533,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Elefante Asiático",
-                  "text": "Ein asiatischer Elefant im Zoo von San Juan de Aragón.",
+                  "text": "Der Elefante Asiático ist ein Wahrzeichen, das einen asiatischen Elefanten zeigt, im Zoo Juan de Aragón.",
                   "category": "landmark",
                   "coords": [
                         -99.084629,
@@ -1643,7 +1643,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre 8",
-                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "text": "Torre 8 (8-as torony) a Juan De Aragon Állatkertben.",
                   "category": "historical",
                   "coords": [
                         -99.088311,
@@ -1652,7 +1652,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre VI",
-                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "text": "A Torre VI a Juan de Aragón Állatkert számozott történelmi tornyainak egyike.",
                   "category": "historical",
                   "coords": [
                         -99.088075,
@@ -1661,7 +1661,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XIII",
-                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "text": "A Torre XIII történelmi torony a Juan de Aragón Állatkertben.",
                   "category": "historical",
                   "coords": [
                         -99.074216,
@@ -1670,7 +1670,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XVI",
-                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "text": "A Torre XVI a Juan de Aragón Állatkert számozott történelmi tornyai közé tartozik.",
                   "category": "historical",
                   "coords": [
                         -99.06862,
@@ -1679,7 +1679,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XV",
-                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "text": "A Torre XV történelmi torony a Juan de Aragón Állatkertben.",
                   "category": "historical",
                   "coords": [
                         -99.06914,
@@ -1688,7 +1688,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XIV",
-                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "text": "A Torre XIV számozott történelmi torony a Juan de Aragón Állatkertben.",
                   "category": "historical",
                   "coords": [
                         -99.07043,
@@ -1697,7 +1697,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre V",
-                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "text": "A Torre V a Juan de Aragón Állatkert számozott történelmi tornyai közé tartozik.",
                   "category": "historical",
                   "coords": [
                         -99.089388,
@@ -1706,7 +1706,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre IV",
-                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "text": "A Torre IV történelmi torony a Juan de Aragón Állatkertben.",
                   "category": "historical",
                   "coords": [
                         -99.091086,
@@ -1715,7 +1715,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre VII",
-                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "text": "A Torre VII a Juan de Aragón Állatkert számozott történelmi tornyainak egyike.",
                   "category": "historical",
                   "coords": [
                         -99.089759,
@@ -1724,7 +1724,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre I",
-                  "text": "Egy torony a San Juan de Aragón-i állatkertben.",
+                  "text": "A Torre I az első a Juan de Aragón Állatkert számozott történelmi tornyai közül.",
                   "category": "historical",
                   "coords": [
                         -99.095812,
@@ -1751,7 +1751,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Marbet",
-                  "text": "Művészeti központ San Juan de Aragónban.",
+                  "text": "A Marbet kulturális nevezetesség a Juan de Aragón Állatkertben.",
                   "category": "cultural",
                   "coords": [
                         -99.016664,
@@ -1760,7 +1760,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural \"El Castillito\"",
-                  "text": "„El Castillito“ kulturális központ San Juan de Aragónban.",
+                  "text": "A Centro Cultural „El Castillito” egy kulturális központ a Juan de Aragón Állatkertben.",
                   "category": "cultural",
                   "coords": [
                         -99.009774,
@@ -1778,7 +1778,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Baños Medicinales del Peñón",
-                  "text": "Gyógyfürdők San Juan de Aragónban.",
+                  "text": "A Baños Medicinales del Peñón gyógyfürdők egy sziklánál a Juan de Aragón Állatkertben.",
                   "category": "landmark",
                   "coords": [
                         -99.086881,
@@ -1796,7 +1796,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "León Africano",
-                  "text": "Egy afrikai oroszlán a San Juan de Aragón-i állatkertben.",
+                  "text": "A León Africano egy afrikai oroszlánt ábrázoló nevezetesség a Juan de Aragón Állatkertben.",
                   "category": "landmark",
                   "coords": [
                         -99.085613,
@@ -1805,7 +1805,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Elefante Asiático",
-                  "text": "Egy ázsiai elefánt a San Juan de Aragón-i állatkertben.",
+                  "text": "Az Elefante Asiático egy ázsiai elefántot ábrázoló nevezetesség a Juan de Aragón Állatkertben.",
                   "category": "landmark",
                   "coords": [
                         -99.084629,
@@ -1915,7 +1915,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre 8",
-                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "text": "Torre 8 (Turnul 8) la Grădina Zoologică Juan De Aragon.",
                   "category": "historical",
                   "coords": [
                         -99.088311,
@@ -1924,7 +1924,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre VI",
-                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "text": "Torre VI este unul dintre turnurile istorice numerotate din Grădina Zoologică Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.088075,
@@ -1933,7 +1933,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XIII",
-                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "text": "Torre XIII este un turn istoric în Grădina Zoologică Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.074216,
@@ -1942,7 +1942,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XVI",
-                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "text": "Torre XVI face parte din turnurile istorice numerotate din Grădina Zoologică Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.06862,
@@ -1951,7 +1951,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XV",
-                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "text": "Torre XV este un turn istoric în Grădina Zoologică Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.06914,
@@ -1960,7 +1960,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XIV",
-                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "text": "Torre XIV este un turn istoric numerotat în Grădina Zoologică Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.07043,
@@ -1969,7 +1969,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre V",
-                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "text": "Torre V face parte din turnurile istorice numerotate din Grădina Zoologică Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.089388,
@@ -1978,7 +1978,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre IV",
-                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "text": "Torre IV este un turn istoric în Grădina Zoologică Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.091086,
@@ -1987,7 +1987,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre VII",
-                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "text": "Torre VII este unul dintre turnurile istorice numerotate din Grădina Zoologică Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.089759,
@@ -1996,7 +1996,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre I",
-                  "text": "Un turn în grădina zoologică din San Juan de Aragón.",
+                  "text": "Torre I este primul dintre turnurile istorice numerotate din Grădina Zoologică Juan de Aragón.",
                   "category": "historical",
                   "coords": [
                         -99.095812,
@@ -2023,7 +2023,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Marbet",
-                  "text": "Centru de artă în San Juan de Aragón.",
+                  "text": "Marbet este un reper cultural în Grădina Zoologică Juan de Aragón.",
                   "category": "cultural",
                   "coords": [
                         -99.016664,
@@ -2032,7 +2032,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural \"El Castillito\"",
-                  "text": "Centrul cultural „El Castillito” în San Juan de Aragón.",
+                  "text": "Centro Cultural „El Castillito” este un centru cultural în Grădina Zoologică Juan de Aragón.",
                   "category": "cultural",
                   "coords": [
                         -99.009774,
@@ -2050,7 +2050,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Baños Medicinales del Peñón",
-                  "text": "Băi medicinale în San Juan de Aragón.",
+                  "text": "Baños Medicinales del Peñón sunt băi medicinale la o stâncă în Grădina Zoologică Juan de Aragón.",
                   "category": "landmark",
                   "coords": [
                         -99.086881,
@@ -2068,7 +2068,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "León Africano",
-                  "text": "Un leu african în grădina zoologică din San Juan de Aragón.",
+                  "text": "León Africano este un reper care reprezintă un leu african în Grădina Zoologică Juan de Aragón.",
                   "category": "landmark",
                   "coords": [
                         -99.085613,
@@ -2077,7 +2077,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Elefante Asiático",
-                  "text": "Un elefant asiatic în grădina zoologică din San Juan de Aragón.",
+                  "text": "Elefante Asiático este un reper care ilustrează un elefant asiatic în Grădina Zoologică Juan de Aragón.",
                   "category": "landmark",
                   "coords": [
                         -99.084629,
@@ -2187,7 +2187,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre 8",
-                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "text": "Torre 8 (Tower 8) at Juan De Aragon Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.088311,
@@ -2196,7 +2196,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre VI",
-                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "text": "Torre VI is one of the numbered historical towers in the Juan de Aragón Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.088075,
@@ -2205,7 +2205,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XIII",
-                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "text": "Torre XIII is a historical tower in the Juan de Aragón Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.074216,
@@ -2214,7 +2214,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XVI",
-                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "text": "Torre XVI is among the numbered historical towers in the Juan de Aragón Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.06862,
@@ -2223,7 +2223,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XV",
-                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "text": "Torre XV is a historical tower in the Juan de Aragón Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.06914,
@@ -2232,7 +2232,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre XIV",
-                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "text": "Torre XIV is a numbered historical tower in the Juan de Aragón Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.07043,
@@ -2241,7 +2241,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre V",
-                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "text": "Torre V is one of the numbered historical towers in the Juan de Aragón Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.089388,
@@ -2250,7 +2250,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre IV",
-                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "text": "Torre IV is a historical tower in the Juan de Aragón Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.091086,
@@ -2259,7 +2259,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre VII",
-                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "text": "Torre VII is one of the numbered historical towers in the Juan de Aragón Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.089759,
@@ -2268,7 +2268,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre I",
-                  "text": "A tower in the San Juan de Aragón zoo.",
+                  "text": "Torre I is the first of the numbered historical towers in the Juan de Aragón Zoo.",
                   "category": "historical",
                   "coords": [
                         -99.095812,
@@ -2295,7 +2295,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Marbet",
-                  "text": "Arts centre in San Juan de Aragón.",
+                  "text": "Marbet is a cultural landmark in the Juan de Aragón Zoo.",
                   "category": "cultural",
                   "coords": [
                         -99.016664,
@@ -2304,7 +2304,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural \"El Castillito\"",
-                  "text": "Cultural centre „El Castillito” in San Juan de Aragón.",
+                  "text": "Centro Cultural \"El Castillito\" is a cultural center in the Juan de Aragón Zoo.",
                   "category": "cultural",
                   "coords": [
                         -99.009774,
@@ -2322,7 +2322,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Baños Medicinales del Peñón",
-                  "text": "Medicinal baths in San Juan de Aragón.",
+                  "text": "Baños Medicinales del Peñón are medicinal baths at a rock formation in the Juan de Aragón Zoo.",
                   "category": "landmark",
                   "coords": [
                         -99.086881,
@@ -2340,7 +2340,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "León Africano",
-                  "text": "An African lion in the San Juan de Aragón zoo.",
+                  "text": "León Africano is a landmark depicting an African lion in the Juan de Aragón Zoo.",
                   "category": "landmark",
                   "coords": [
                         -99.085613,
@@ -2349,7 +2349,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Elefante Asiático",
-                  "text": "An Asian elephant in the San Juan de Aragón zoo.",
+                  "text": "Elefante Asiático is a landmark showing an Asian elephant in the Juan de Aragón Zoo.",
                   "category": "landmark",
                   "coords": [
                         -99.084629,
@@ -2438,7 +2438,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Auditorio Telmex",
-                  "text": "Auditorio Telmex ist eine moderne Veranstaltungsstätte für darstellende Künste in Guadalajara.",
+                  "text": "Auditorio Telmex ist ein modernes Veranstaltungszentrum im Zoogelände von Guadalajara.",
                   "category": "cultural",
                   "coords": [
                         -103.381243,
@@ -2447,7 +2447,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Constitución",
-                  "text": "Centro Cultural Constitución ist ein Kulturzentrum und Theater in Guadalajara.",
+                  "text": "Centro Cultural Constitución ist ein Kulturzentrum auf dem Zoogelände in Guadalajara.",
                   "category": "cultural",
                   "coords": [
                         -103.368066,
@@ -2474,7 +2474,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre Eiffel -Escala-",
-                  "text": "Eine maßstabsgetreue Nachbildung des Eiffelturms in Guadalajara.",
+                  "text": "Die Torre Eiffel -Escala- ist eine maßstabsgetreue Nachbildung des Eiffelturms im Zoo.",
                   "category": "historical",
                   "coords": [
                         -103.271686,
@@ -2483,7 +2483,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo",
-                  "text": "Ruinen des ehemaligen Planetariums Severo Díaz Galindo in Guadalajara.",
+                  "text": "Die Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo sind die Ruinen eines Planetariums im Zoo.",
                   "category": "historical",
                   "coords": [
                         -103.309434,
@@ -2501,7 +2501,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Calle 2",
-                  "text": "Dieses Theater befindet sich in Guadalajara Zoo Life.",
+                  "text": "Calle 2 ist eine Straße im kulturellen Bereich des Zoos.",
                   "category": "cultural",
                   "coords": [
                         -103.376515,
@@ -2510,7 +2510,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Foro Ichitan Río Verde",
-                  "text": "Das Foro Ichitan Río Verde ist ein Theater in Guadalajara Zoo Life.",
+                  "text": "Das Foro Ichitan Río Verde ist ein Veranstaltungsort im Zoo, benannt nach Ichitan und dem Río Verde.",
                   "category": "cultural",
                   "coords": [
                         -103.289025,
@@ -2519,7 +2519,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ágora Jenkins",
-                  "text": "Ágora Jenkins ist ein Theater in Guadalajara Zoo Life.",
+                  "text": "Die Ágora Jenkins ist ein kultureller Versammlungsort im Zoo, benannt nach Jenkins.",
                   "category": "cultural",
                   "coords": [
                         -103.381026,
@@ -2528,7 +2528,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Sala 2",
-                  "text": "Sala 2 ist ein Theater in Guadalajara Zoo Life.",
+                  "text": "Sala 2 ist ein kultureller Raum im Zoo.",
                   "category": "cultural",
                   "coords": [
                         -103.382035,
@@ -2537,7 +2537,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Estudio Cavaret",
-                  "text": "Das Teatro Estudio Cavaret ist ein Theater in Guadalajara Zoo Life.",
+                  "text": "Das Teatro Estudio Cavaret ist ein Theaterstudio im Zoo.",
                   "category": "cultural",
                   "coords": [
                         -103.378299,
@@ -2546,7 +2546,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Auditorio Central",
-                  "text": "Das Auditorio Central ist ein Theater in Guadalajara Zoo Life.",
+                  "text": "Das Auditorio Central ist das Hauptauditorium im Zoo.",
                   "category": "cultural",
                   "coords": [
                         -103.380751,
@@ -2555,7 +2555,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Independencia",
-                  "text": "Das Anfiteatro Independencia ist ein Theater in Guadalajara Zoo Life.",
+                  "text": "Das Anfiteatro Independencia ist ein Amphitheater im Zoo.",
                   "category": "cultural",
                   "coords": [
                         -103.310856,
@@ -2564,7 +2564,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Holístico Macuilli Tepec",
-                  "text": "Das Centro Holístico Macuilli Tepec ist eine ganzheitliche Einrichtung in Guadalajara Zoo Life.",
+                  "text": "Das Centro Holístico Macuilli Tepec ist ein ganzheitliches Zentrum im Zoo.",
                   "category": "landmark",
                   "coords": [
                         -103.235632,
@@ -2573,7 +2573,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Cañon Escarpado",
-                  "text": "Der Mirador Del Cañon Escarpado ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Der Mirador Del Cañon Escarpado bietet einen Aussichtspunkt auf eine steile Schlucht im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.374984,
@@ -2582,7 +2582,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Mirador Dr. Atl",
-                  "text": "Der Parque Mirador Dr. Atl ist ein Aussichtspunkt, benannt nach dem mexikanischen Künstler Dr. Atl.",
+                  "text": "Der Parque Mirador Dr. Atl ist ein Aussichtspark, benannt nach dem Künstler Dr. Atl, im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.344203,
@@ -2591,7 +2591,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador \"Las Cañadas\"",
-                  "text": "Der Mirador \"Las Cañadas\" ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Der Mirador „Las Cañadas“ ist ein Aussichtspunkt auf die Schluchten im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.372884,
@@ -2600,7 +2600,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "El Riachelo",
-                  "text": "El Riachelo ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "El Riachelo ist ein kleiner Bach im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.371669,
@@ -2609,7 +2609,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador De Los Eucaliptos",
-                  "text": "Der Mirador De Los Eucaliptos ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Der Mirador De Los Eucaliptos ist ein Aussichtspunkt unter Eukalyptusbäumen im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.379035,
@@ -2618,7 +2618,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador \"Lago El Centinela\"",
-                  "text": "Der Mirador \"Lago El Centinela\" ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Der Mirador „Lago El Centinela“ bietet einen Blick auf den Lago El Centinela im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.378634,
@@ -2636,7 +2636,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Observatoire Du Roi Dakk",
-                  "text": "Das Observatoire Du Roi Dakk ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Das Observatoire Du Roi Dakk ist eine Sternwarte im Zoo, benannt nach König Dakk.",
                   "category": "natural",
                   "coords": [
                         -103.376414,
@@ -2645,7 +2645,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Pont De Rivière Profonde",
-                  "text": "Der Pont De Rivière Profonde ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Der Pont De Rivière Profonde ist eine Brücke über einen tiefen Fluss im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.37803,
@@ -2654,7 +2654,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Trône Du Roi Dakk",
-                  "text": "Der Trône Du Roi Dakk ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Der Trône Du Roi Dakk ist ein Thron im Zoo, der König Dakk gewidmet ist.",
                   "category": "natural",
                   "coords": [
                         -103.393722,
@@ -2663,7 +2663,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Ficus Insipida",
-                  "text": "Der Mirador Del Ficus Insipida ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Der Mirador Del Ficus Insipida ist ein Aussichtspunkt an einem Ficus Insipida-Baum im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.346266,
@@ -2672,7 +2672,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Jabalí",
-                  "text": "Der Mirador Del Jabalí ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Der Mirador Del Jabalí ist ein Aussichtspunkt mit Blick auf Wildschweine im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.349135,
@@ -2681,7 +2681,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Buitre",
-                  "text": "Der Mirador Del Buitre ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "text": "Der Mirador Del Buitre ist ein Aussichtspunkt auf Geier im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.349187,
@@ -2699,7 +2699,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente",
-                  "text": "Das Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente ist ein geschütztes Waldgebiet in Guadalajara.",
+                  "text": "Das Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente ist ein geschütztes Waldgebiet im Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.391785,
@@ -2708,7 +2708,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mundo Marino Guadalajara",
-                  "text": "Mundo Marino Guadalajara ist ein Aquarium in Guadalajara Zoo Life.",
+                  "text": "Mundo Marino Guadalajara ist ein Meerespark im Zoo von Guadalajara.",
                   "category": "recreational",
                   "coords": [
                         -103.310317,
@@ -2728,7 +2728,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Auditorio Telmex",
-                  "text": "Az Auditorio Telmex egy modern előadó-művészeti helyszín Guadalajara-ban.",
+                  "text": "Auditorio Telmex egy modern rendezvényközpont a guadalajarai állatkert területén.",
                   "category": "cultural",
                   "coords": [
                         -103.381243,
@@ -2737,7 +2737,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Constitución",
-                  "text": "A Centro Cultural Constitución egy kulturális központ és színház Guadalajara-ban.",
+                  "text": "Centro Cultural Constitución egy kulturális központ az állatkert területén Guadalajarában.",
                   "category": "cultural",
                   "coords": [
                         -103.368066,
@@ -2764,7 +2764,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre Eiffel -Escala-",
-                  "text": "Az Eiffel-torony másolata Guadalajara-ban.",
+                  "text": "A Torre Eiffel -Escala- az Eiffel-torony méretarányos mása az Állatkertben.",
                   "category": "historical",
                   "coords": [
                         -103.271686,
@@ -2773,7 +2773,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo",
-                  "text": "A korábbi Severo Díaz Galindo planetárium romjai Guadalajara-ban.",
+                  "text": "A Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo egy planetárium romjai az Állatkertben.",
                   "category": "historical",
                   "coords": [
                         -103.309434,
@@ -2791,7 +2791,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Calle 2",
-                  "text": "Ez a színház a Guadalajara Zoo Life területén található.",
+                  "text": "A Calle 2 egy utca az Állatkert kulturális területén.",
                   "category": "cultural",
                   "coords": [
                         -103.376515,
@@ -2800,7 +2800,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Foro Ichitan Río Verde",
-                  "text": "A Foro Ichitan Río Verde egy színház a Guadalajara Zoo Life-ban.",
+                  "text": "A Foro Ichitan Río Verde egy rendezvényhelyszín az Állatkertben, amelyet az Ichitanról és a Río Verdéről neveztek el.",
                   "category": "cultural",
                   "coords": [
                         -103.289025,
@@ -2809,7 +2809,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ágora Jenkins",
-                  "text": "Az Ágora Jenkins egy színház a Guadalajara Zoo Life-ban.",
+                  "text": "Az Ágora Jenkins egy kulturális gyülekezőhely az Állatkertben, amelyet Jenkinsről neveztek el.",
                   "category": "cultural",
                   "coords": [
                         -103.381026,
@@ -2818,7 +2818,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Sala 2",
-                  "text": "A Sala 2 egy színház a Guadalajara Zoo Life-ban.",
+                  "text": "A Sala 2 egy kulturális terem az Állatkertben.",
                   "category": "cultural",
                   "coords": [
                         -103.382035,
@@ -2827,7 +2827,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Estudio Cavaret",
-                  "text": "A Teatro Estudio Cavaret egy színház a Guadalajara Zoo Life-ban.",
+                  "text": "A Teatro Estudio Cavaret egy színházstúdió az Állatkertben.",
                   "category": "cultural",
                   "coords": [
                         -103.378299,
@@ -2836,7 +2836,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Auditorio Central",
-                  "text": "Az Auditorio Central egy színház a Guadalajara Zoo Life-ban.",
+                  "text": "Az Auditorio Central a fő auditorium az Állatkertben.",
                   "category": "cultural",
                   "coords": [
                         -103.380751,
@@ -2845,7 +2845,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Independencia",
-                  "text": "Az Anfiteatro Independencia egy színház a Guadalajara Zoo Life-ban.",
+                  "text": "Az Anfiteatro Independencia egy amfiteátrum az Állatkertben.",
                   "category": "cultural",
                   "coords": [
                         -103.310856,
@@ -2854,7 +2854,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Holístico Macuilli Tepec",
-                  "text": "A Centro Holístico Macuilli Tepec egy holisztikus központ a Guadalajara Zoo Life-ban.",
+                  "text": "A Centro Holístico Macuilli Tepec egy holisztikus központ az Állatkertben.",
                   "category": "landmark",
                   "coords": [
                         -103.235632,
@@ -2863,7 +2863,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Cañon Escarpado",
-                  "text": "A Mirador Del Cañon Escarpado egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "A Mirador Del Cañon Escarpado kilátópont egy meredek szurdokra az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.374984,
@@ -2872,7 +2872,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Mirador Dr. Atl",
-                  "text": "A Parque Mirador Dr. Atl egy kilátópont, amely a mexikói művész Dr. Atl nevét viseli.",
+                  "text": "A Parque Mirador Dr. Atl egy kilátópark, amelyet Dr. Atl művészről neveztek el, az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.344203,
@@ -2881,7 +2881,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador \"Las Cañadas\"",
-                  "text": "A Mirador \"Las Cañadas\" egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "A Mirador „Las Cañadas” kilátópont a szurdokokra az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.372884,
@@ -2890,7 +2890,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "El Riachelo",
-                  "text": "Az El Riachelo egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "Az El Riachelo egy kis patak az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.371669,
@@ -2899,7 +2899,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador De Los Eucaliptos",
-                  "text": "A Mirador De Los Eucaliptos egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "A Mirador De Los Eucaliptos egy kilátópont eukaliptuszfák között az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.379035,
@@ -2908,7 +2908,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador \"Lago El Centinela\"",
-                  "text": "A Mirador \"Lago El Centinela\" egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "A Mirador „Lago El Centinela” kilátást nyújt a Lago El Centinela-tóra az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.378634,
@@ -2926,7 +2926,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Observatoire Du Roi Dakk",
-                  "text": "Az Observatoire Du Roi Dakk egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "Az Observatoire Du Roi Dakk egy csillagvizsgáló az Állatkertben, amelyet Dakk királyról neveztek el.",
                   "category": "natural",
                   "coords": [
                         -103.376414,
@@ -2935,7 +2935,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Pont De Rivière Profonde",
-                  "text": "A Pont De Rivière Profonde egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "A Pont De Rivière Profonde egy híd egy mély folyó felett az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.37803,
@@ -2944,7 +2944,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Trône Du Roi Dakk",
-                  "text": "A Trône Du Roi Dakk egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "A Trône Du Roi Dakk egy trón az Állatkertben, amelyet Dakk királynak szenteltek.",
                   "category": "natural",
                   "coords": [
                         -103.393722,
@@ -2953,7 +2953,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Ficus Insipida",
-                  "text": "A Mirador Del Ficus Insipida egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "A Mirador Del Ficus Insipida egy kilátópont egy Ficus Insipida fa mellett az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.346266,
@@ -2962,7 +2962,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Jabalí",
-                  "text": "A Mirador Del Jabalí egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "A Mirador Del Jabalí egy kilátópont vaddisznókra az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.349135,
@@ -2971,7 +2971,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Buitre",
-                  "text": "A Mirador Del Buitre egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "text": "A Mirador Del Buitre egy kilátópont keselyűkre az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.349187,
@@ -2989,7 +2989,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente",
-                  "text": "Az Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente egy védett erdőterület Guadalajarában.",
+                  "text": "Az Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente egy védett erdőterület az Állatkertben.",
                   "category": "natural",
                   "coords": [
                         -103.391785,
@@ -2998,7 +2998,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mundo Marino Guadalajara",
-                  "text": "A Mundo Marino Guadalajara egy akvárium a Guadalajara Zoo Life-ban.",
+                  "text": "A Mundo Marino Guadalajara egy tengeri park a Guadalajarai Állatkertben.",
                   "category": "recreational",
                   "coords": [
                         -103.310317,
@@ -3018,7 +3018,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Auditorio Telmex",
-                  "text": "Auditorio Telmex este un loc modern pentru artele spectacolului în Guadalajara.",
+                  "text": "Auditorio Telmex este un modern centru de evenimente pe terenul grădinii zoologice din Guadalajara.",
                   "category": "cultural",
                   "coords": [
                         -103.381243,
@@ -3027,7 +3027,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Constitución",
-                  "text": "Centro Cultural Constitución este un centru cultural și teatru în Guadalajara.",
+                  "text": "Centro Cultural Constitución este un centru cultural pe terenul grădinii zoologice din Guadalajara.",
                   "category": "cultural",
                   "coords": [
                         -103.368066,
@@ -3054,7 +3054,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre Eiffel -Escala-",
-                  "text": "O replică la scară a Turnului Eiffel în Guadalajara.",
+                  "text": "Torre Eiffel -Escala- este o reproducere la scară a Turnului Eiffel din Grădina Zoologică.",
                   "category": "historical",
                   "coords": [
                         -103.271686,
@@ -3063,7 +3063,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo",
-                  "text": "Ruinele fostului planetariu Severo Díaz Galindo din Guadalajara.",
+                  "text": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo sunt ruinele unui planetariu din Grădina Zoologică.",
                   "category": "historical",
                   "coords": [
                         -103.309434,
@@ -3081,7 +3081,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Calle 2",
-                  "text": "Acest teatru este situat în Guadalajara Zoo Life.",
+                  "text": "Calle 2 este o stradă în zona culturală a Grădinii Zoologice.",
                   "category": "cultural",
                   "coords": [
                         -103.376515,
@@ -3090,7 +3090,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Foro Ichitan Río Verde",
-                  "text": "Foro Ichitan Río Verde este un teatru în Guadalajara Zoo Life.",
+                  "text": "Foro Ichitan Río Verde este un loc de evenimente în Grădina Zoologică, numit după Ichitan și Río Verde.",
                   "category": "cultural",
                   "coords": [
                         -103.289025,
@@ -3099,7 +3099,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ágora Jenkins",
-                  "text": "Ágora Jenkins este un teatru în Guadalajara Zoo Life.",
+                  "text": "Ágora Jenkins este un loc de întrunire culturală în Grădina Zoologică, numit după Jenkins.",
                   "category": "cultural",
                   "coords": [
                         -103.381026,
@@ -3108,7 +3108,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Sala 2",
-                  "text": "Sala 2 este un teatru în Guadalajara Zoo Life.",
+                  "text": "Sala 2 este o sală culturală în Grădina Zoologică.",
                   "category": "cultural",
                   "coords": [
                         -103.382035,
@@ -3117,7 +3117,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Estudio Cavaret",
-                  "text": "Teatro Estudio Cavaret este un teatru în Guadalajara Zoo Life.",
+                  "text": "Teatro Estudio Cavaret este un studio de teatru în Grădina Zoologică.",
                   "category": "cultural",
                   "coords": [
                         -103.378299,
@@ -3126,7 +3126,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Auditorio Central",
-                  "text": "Auditorio Central este un teatru în Guadalajara Zoo Life.",
+                  "text": "Auditorio Central este auditoriul principal din Grădina Zoologică.",
                   "category": "cultural",
                   "coords": [
                         -103.380751,
@@ -3135,7 +3135,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Independencia",
-                  "text": "Anfiteatro Independencia este un teatru în Guadalajara Zoo Life.",
+                  "text": "Anfiteatro Independencia este un amfiteatru în Grădina Zoologică.",
                   "category": "cultural",
                   "coords": [
                         -103.310856,
@@ -3144,7 +3144,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Holístico Macuilli Tepec",
-                  "text": "Centro Holístico Macuilli Tepec este un centru holistic în Guadalajara Zoo Life.",
+                  "text": "Centro Holístico Macuilli Tepec este un centru holistic în Grădina Zoologică.",
                   "category": "landmark",
                   "coords": [
                         -103.235632,
@@ -3153,7 +3153,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Cañon Escarpado",
-                  "text": "Mirador Del Cañon Escarpado este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Mirador Del Cañon Escarpado oferă un punct de belvedere asupra unui canion abrupt în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.374984,
@@ -3162,7 +3162,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Mirador Dr. Atl",
-                  "text": "Parque Mirador Dr. Atl este un punct de belvedere numit după artistul mexican Dr. Atl.",
+                  "text": "Parque Mirador Dr. Atl este un parc de belvedere, numit după artistul Dr. Atl, în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.344203,
@@ -3171,7 +3171,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador \"Las Cañadas\"",
-                  "text": "Mirador \"Las Cañadas\" este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Mirador „Las Cañadas” este un punct de belvedere asupra canioanelor din Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.372884,
@@ -3180,7 +3180,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "El Riachelo",
-                  "text": "El Riachelo este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "El Riachelo este un pârâu în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.371669,
@@ -3189,7 +3189,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador De Los Eucaliptos",
-                  "text": "Mirador De Los Eucaliptos este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Mirador De Los Eucaliptos este un punct de belvedere printre arbori de eucalipt în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.379035,
@@ -3198,7 +3198,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador \"Lago El Centinela\"",
-                  "text": "Mirador \"Lago El Centinela\" este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Mirador „Lago El Centinela” oferă o vedere asupra Lacului El Centinela în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.378634,
@@ -3216,7 +3216,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Observatoire Du Roi Dakk",
-                  "text": "Observatoire Du Roi Dakk este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Observatoire Du Roi Dakk este un observator în Grădina Zoologică, numit după regele Dakk.",
                   "category": "natural",
                   "coords": [
                         -103.376414,
@@ -3225,7 +3225,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Pont De Rivière Profonde",
-                  "text": "Pont De Rivière Profonde este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Pont De Rivière Profonde este un pod peste un râu adânc în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.37803,
@@ -3234,7 +3234,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Trône Du Roi Dakk",
-                  "text": "Trône Du Roi Dakk este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Trône Du Roi Dakk este un tron în Grădina Zoologică, dedicat regelui Dakk.",
                   "category": "natural",
                   "coords": [
                         -103.393722,
@@ -3243,7 +3243,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Ficus Insipida",
-                  "text": "Mirador Del Ficus Insipida este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Mirador Del Ficus Insipida este un punct de belvedere lângă un arbore Ficus Insipida în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.346266,
@@ -3252,7 +3252,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Jabalí",
-                  "text": "Mirador Del Jabalí este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Mirador Del Jabalí este un punct de belvedere asupra mistreților în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.349135,
@@ -3261,7 +3261,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Buitre",
-                  "text": "Mirador Del Buitre este un punct de belvedere în Guadalajara Zoo Life.",
+                  "text": "Mirador Del Buitre este un punct de belvedere asupra vulturilor în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.349187,
@@ -3279,7 +3279,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente",
-                  "text": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente este o zonă forestieră protejată în Guadalajara.",
+                  "text": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente este o zonă forestieră protejată în Grădina Zoologică.",
                   "category": "natural",
                   "coords": [
                         -103.391785,
@@ -3288,7 +3288,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mundo Marino Guadalajara",
-                  "text": "Mundo Marino Guadalajara este un acvariu în Guadalajara Zoo Life.",
+                  "text": "Mundo Marino Guadalajara este un parc marin în Grădina Zoologică din Guadalajara.",
                   "category": "recreational",
                   "coords": [
                         -103.310317,
@@ -3308,7 +3308,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Auditorio Telmex",
-                  "text": "Auditorio Telmex is a modern performing arts venue in Guadalajara.",
+                  "text": "Auditorio Telmex is a modern event venue on the zoo grounds in Guadalajara.",
                   "category": "cultural",
                   "coords": [
                         -103.381243,
@@ -3317,7 +3317,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Constitución",
-                  "text": "Centro Cultural Constitución is a cultural center and theater in Guadalajara.",
+                  "text": "Centro Cultural Constitución is a cultural center on the zoo grounds in Guadalajara.",
                   "category": "cultural",
                   "coords": [
                         -103.368066,
@@ -3344,7 +3344,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Torre Eiffel -Escala-",
-                  "text": "A scale replica of the Eiffel Tower in Guadalajara.",
+                  "text": "Torre Eiffel -Escala- is a scale replica of the Eiffel Tower in the Zoo.",
                   "category": "historical",
                   "coords": [
                         -103.271686,
@@ -3353,7 +3353,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo",
-                  "text": "Ruins of the former planetarium Severo Díaz Galindo in Guadalajara.",
+                  "text": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo are the ruins of a planetarium in the Zoo.",
                   "category": "historical",
                   "coords": [
                         -103.309434,
@@ -3371,7 +3371,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Calle 2",
-                  "text": "This theatre is located in Guadalajara Zoo Life.",
+                  "text": "Calle 2 is a street in the cultural area of the Zoo.",
                   "category": "cultural",
                   "coords": [
                         -103.376515,
@@ -3380,7 +3380,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Foro Ichitan Río Verde",
-                  "text": "Foro Ichitan Río Verde is a theatre in Guadalajara Zoo Life.",
+                  "text": "Foro Ichitan Río Verde is an event venue in the Zoo, named after Ichitan and the Río Verde.",
                   "category": "cultural",
                   "coords": [
                         -103.289025,
@@ -3389,7 +3389,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ágora Jenkins",
-                  "text": "Ágora Jenkins is a theatre in Guadalajara Zoo Life.",
+                  "text": "Ágora Jenkins is a cultural gathering place in the Zoo, named after Jenkins.",
                   "category": "cultural",
                   "coords": [
                         -103.381026,
@@ -3398,7 +3398,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Sala 2",
-                  "text": "Sala 2 is a theatre in Guadalajara Zoo Life.",
+                  "text": "Sala 2 is a cultural room in the Zoo.",
                   "category": "cultural",
                   "coords": [
                         -103.382035,
@@ -3407,7 +3407,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Estudio Cavaret",
-                  "text": "Teatro Estudio Cavaret is a theatre in Guadalajara Zoo Life.",
+                  "text": "Teatro Estudio Cavaret is a theater studio in the Zoo.",
                   "category": "cultural",
                   "coords": [
                         -103.378299,
@@ -3416,7 +3416,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Auditorio Central",
-                  "text": "Auditorio Central is a theatre in Guadalajara Zoo Life.",
+                  "text": "Auditorio Central is the main auditorium in the Zoo.",
                   "category": "cultural",
                   "coords": [
                         -103.380751,
@@ -3425,7 +3425,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Anfiteatro Independencia",
-                  "text": "Anfiteatro Independencia is a theatre in Guadalajara Zoo Life.",
+                  "text": "Anfiteatro Independencia is an amphitheater in the Zoo.",
                   "category": "cultural",
                   "coords": [
                         -103.310856,
@@ -3434,7 +3434,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Holístico Macuilli Tepec",
-                  "text": "Centro Holístico Macuilli Tepec is a holistic centre in Guadalajara Zoo Life.",
+                  "text": "Centro Holístico Macuilli Tepec is a holistic center in the Zoo.",
                   "category": "landmark",
                   "coords": [
                         -103.235632,
@@ -3443,7 +3443,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Cañon Escarpado",
-                  "text": "Mirador Del Cañon Escarpado is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Mirador Del Cañon Escarpado is a viewpoint over a steep canyon in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.374984,
@@ -3452,7 +3452,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Mirador Dr. Atl",
-                  "text": "Parque Mirador Dr. Atl is a viewpoint named after the Mexican artist Dr. Atl.",
+                  "text": "Parque Mirador Dr. Atl is a viewpoint park named after artist Dr. Atl in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.344203,
@@ -3461,7 +3461,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador \"Las Cañadas\"",
-                  "text": "Mirador \"Las Cañadas\" is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Mirador \"Las Cañadas\" is a viewpoint over the canyons in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.372884,
@@ -3470,7 +3470,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "El Riachelo",
-                  "text": "El Riachelo is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "El Riachelo is a small stream in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.371669,
@@ -3479,7 +3479,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador De Los Eucaliptos",
-                  "text": "Mirador De Los Eucaliptos is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Mirador De Los Eucaliptos is a viewpoint among eucalyptus trees in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.379035,
@@ -3488,7 +3488,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador \"Lago El Centinela\"",
-                  "text": "Mirador \"Lago El Centinela\" is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Mirador \"Lago El Centinela\" offers a view of Lake El Centinela in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.378634,
@@ -3506,7 +3506,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Observatoire Du Roi Dakk",
-                  "text": "Observatoire Du Roi Dakk is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Observatoire Du Roi Dakk is an observatory in the Zoo, named after King Dakk.",
                   "category": "natural",
                   "coords": [
                         -103.376414,
@@ -3515,7 +3515,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Pont De Rivière Profonde",
-                  "text": "Pont De Rivière Profonde is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Pont De Rivière Profonde is a bridge over a deep river in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.37803,
@@ -3524,7 +3524,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Trône Du Roi Dakk",
-                  "text": "Trône Du Roi Dakk is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Trône Du Roi Dakk is a throne in the Zoo, dedicated to King Dakk.",
                   "category": "natural",
                   "coords": [
                         -103.393722,
@@ -3533,7 +3533,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Ficus Insipida",
-                  "text": "Mirador Del Ficus Insipida is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Mirador Del Ficus Insipida is a viewpoint beside a Ficus Insipida tree in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.346266,
@@ -3542,7 +3542,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Jabalí",
-                  "text": "Mirador Del Jabalí is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Mirador Del Jabalí is a viewpoint overlooking wild boars in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.349135,
@@ -3551,7 +3551,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador Del Buitre",
-                  "text": "Mirador Del Buitre is a viewpoint in Guadalajara Zoo Life.",
+                  "text": "Mirador Del Buitre is a viewpoint over vultures in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.349187,
@@ -3569,7 +3569,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente",
-                  "text": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente is a protected forest area in Guadalajara.",
+                  "text": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente is a protected forest area in the Zoo.",
                   "category": "natural",
                   "coords": [
                         -103.391785,
@@ -3578,7 +3578,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mundo Marino Guadalajara",
-                  "text": "Mundo Marino Guadalajara is an aquarium in Guadalajara Zoo Life.",
+                  "text": "Mundo Marino Guadalajara is a marine park in the Guadalajara Zoo.",
                   "category": "recreational",
                   "coords": [
                         -103.310317,
@@ -3658,7 +3658,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Taller de Arquitectura",
-                  "text": "Der Taller de Arquitectura ist eine Attraktion in Mexiko-Stadt.",
+                  "text": "Der Taller de Arquitectura ist eine Architekturwerkstatt in Inbursa.",
                   "category": "landmark",
                   "coords": [
                         -99.235064,
@@ -3667,7 +3667,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Banamex",
-                  "text": "Das Centro Banamex ist ein Theater in Mexiko-Stadt.",
+                  "text": "Das Centro Banamex ist ein Kulturzentrum in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.224082,
@@ -3676,7 +3676,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Omega Dance",
-                  "text": "Omega Dance ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Omega Dance ist ein zeitgenössisches Tanzstudio in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.266997,
@@ -3685,7 +3685,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Música",
-                  "text": "Die Casa de Música ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Casa de Música ist ein Konzerthaus in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.26524,
@@ -3694,7 +3694,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Hospital Del Niño Dios",
-                  "text": "Das Hospital Del Niño Dios ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Hospital Del Niño Dios ist ein nach dem Jesuskind benanntes Kulturzentrum in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.259483,
@@ -3703,7 +3703,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Academia Real",
-                  "text": "Die Academia Real ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Academia Real ist eine Kunstakademie in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.277186,
@@ -3712,7 +3712,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Edy Forever Dance",
-                  "text": "Edy Forever Dance ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Edy Forever Dance ist eine Tanzschule in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.280228,
@@ -3721,7 +3721,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Payasos Ejecutivos",
-                  "text": "Payasos Ejecutivos ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Payasos Ejecutivos ist ein kultureller Ort für Clownshows in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.285027,
@@ -3730,7 +3730,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Academia Feel Infinity",
-                  "text": "Academia Feel Infinity ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Academia Feel Infinity ist eine Tanz- und Fitnessakademie in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.287505,
@@ -3739,7 +3739,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zariñana Academy",
-                  "text": "Zariñana Academy ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Zariñana Academy ist ein Kunst- und Kulturzentrum in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.282787,
@@ -3748,7 +3748,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Reparacion De Niños Dios",
-                  "text": "Reparacion De Niños Dios ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Reparacion De Niños Dios ist eine Werkstatt zur Restaurierung von Jesuskind-Figuren in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.281642,
@@ -3757,7 +3757,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mundo Fantastico",
-                  "text": "Mundo Fantastico ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Mundo Fantastico ist ein Vergnügungspark in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.280914,
@@ -3766,7 +3766,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Clases De Pintura De Cerámica",
-                  "text": "Clases De Pintura De Cerámica ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "text": "Clases De Pintura De Cerámica ist ein Keramikmalerei-Workshop in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.277998,
@@ -3775,7 +3775,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador de lluvia",
-                  "text": "Der Mirador de lluvia ist ein Aussichtspunkt in Mexiko-Stadt.",
+                  "text": "Mirador de lluvia ist ein Aussichtspunkt über Inbursa.",
                   "category": "natural",
                   "coords": [
                         -99.219715,
@@ -3784,7 +3784,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Nelson Mandela",
-                  "text": "Das Centro Cultural Nelson Mandela ist ein Museum, benannt nach Nelson Mandela, in Mexiko-Stadt.",
+                  "text": "Centro Cultural Nelson Mandela ist ein nach Nelson Mandela benanntes Kulturzentrum in Inbursa.",
                   "category": "museum",
                   "coords": [
                         -99.196206,
@@ -3793,7 +3793,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería Oscar Román",
-                  "text": "Die Galería Oscar Román ist eine Galerie in Mexiko-Stadt.",
+                  "text": "Galería Oscar Román ist eine Kunstgalerie in Inbursa.",
                   "category": "museum",
                   "coords": [
                         -99.197566,
@@ -3802,7 +3802,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Granja las Américas",
-                  "text": "Die Granja las Américas ist ein Themenpark in Mexiko-Stadt.",
+                  "text": "Granja las Américas ist ein Bauernhof mit Tierbegegnungen in Inbursa.",
                   "category": "recreational",
                   "coords": [
                         -99.225416,
@@ -3820,7 +3820,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Duraznos",
-                  "text": "Der Parque Duraznos ist ein Naturschutzgebiet in Mexiko-Stadt.",
+                  "text": "Parque Duraznos ist ein Park mit Pfirsichbäumen in Inbursa.",
                   "category": "natural",
                   "coords": [
                         -99.240118,
@@ -3829,7 +3829,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Bosque de las Lomas",
-                  "text": "Der Bosque de las Lomas ist ein Naturschutzgebiet in Mexiko-Stadt.",
+                  "text": "Waldpark in Inbursa, eröffnet im August 1994.",
                   "category": "natural",
                   "coords": [
                         -99.244548,
@@ -3847,7 +3847,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Glorieta Bosques",
-                  "text": "Die Glorieta Bosques ist ein Naturschutzgebiet in Mexiko-Stadt.",
+                  "text": "Glorieta Bosques ist ein Kreisverkehr mit Waldlandschaft in Inbursa.",
                   "category": "natural",
                   "coords": [
                         -99.2333,
@@ -3903,7 +3903,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Taller de Arquitectura",
-                  "text": "A Taller de Arquitectura egy látványosság Mexikóvárosban.",
+                  "text": "A Taller de Arquitectura egy építészeti műhely Inbursában.",
                   "category": "landmark",
                   "coords": [
                         -99.235064,
@@ -3912,7 +3912,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Banamex",
-                  "text": "A Centro Banamex egy színház Mexikóvárosban.",
+                  "text": "A Centro Banamex egy kulturális központ Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.224082,
@@ -3921,7 +3921,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Omega Dance",
-                  "text": "Az Omega Dance egy művészeti központ Mexikóvárosban.",
+                  "text": "Omega Dance egy kortárs táncstúdió Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.266997,
@@ -3930,7 +3930,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Música",
-                  "text": "A Casa de Música egy művészeti központ Mexikóvárosban.",
+                  "text": "Casa de Música egy koncertterem Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.26524,
@@ -3939,7 +3939,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Hospital Del Niño Dios",
-                  "text": "A Hospital Del Niño Dios egy művészeti központ Mexikóvárosban.",
+                  "text": "Hospital Del Niño Dios egy a Jézusgyermekről elnevezett kulturális központ Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.259483,
@@ -3948,7 +3948,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Academia Real",
-                  "text": "Az Academia Real egy művészeti központ Mexikóvárosban.",
+                  "text": "Academia Real egy művészeti akadémia Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.277186,
@@ -3957,7 +3957,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Edy Forever Dance",
-                  "text": "Edy Forever Dance egy művészeti központ Mexikóvárosban.",
+                  "text": "Edy Forever Dance egy tánciskola Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.280228,
@@ -3966,7 +3966,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Payasos Ejecutivos",
-                  "text": "Payasos Ejecutivos egy művészeti központ Mexikóvárosban.",
+                  "text": "Payasos Ejecutivos egy bohócműsoroknak helyet adó kulturális helyszín Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.285027,
@@ -3975,7 +3975,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Academia Feel Infinity",
-                  "text": "Academia Feel Infinity egy művészeti központ Mexikóvárosban.",
+                  "text": "Academia Feel Infinity egy tánc- és fitnesz akadémia Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.287505,
@@ -3984,7 +3984,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zariñana Academy",
-                  "text": "Zariñana Academy egy művészeti központ Mexikóvárosban.",
+                  "text": "Zariñana Academy egy művészeti és kulturális központ Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.282787,
@@ -3993,7 +3993,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Reparacion De Niños Dios",
-                  "text": "Reparacion De Niños Dios egy művészeti központ Mexikóvárosban.",
+                  "text": "Reparacion De Niños Dios egy Jézusgyermek-szobrok restaurálására szakosodott műhely Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.281642,
@@ -4002,7 +4002,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mundo Fantastico",
-                  "text": "Mundo Fantastico egy művészeti központ Mexikóvárosban.",
+                  "text": "Mundo Fantastico egy vidámpark Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.280914,
@@ -4011,7 +4011,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Clases De Pintura De Cerámica",
-                  "text": "Clases De Pintura De Cerámica egy művészeti központ Mexikóvárosban.",
+                  "text": "Clases De Pintura De Cerámica egy kerámiafestő műhely Inbursában.",
                   "category": "cultural",
                   "coords": [
                         -99.277998,
@@ -4020,7 +4020,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador de lluvia",
-                  "text": "A Mirador de lluvia egy kilátó Mexikóvárosban.",
+                  "text": "Mirador de lluvia egy kilátóhely Inbursa fölött.",
                   "category": "natural",
                   "coords": [
                         -99.219715,
@@ -4029,7 +4029,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Nelson Mandela",
-                  "text": "A Centro Cultural Nelson Mandela egy múzeum, amelyet Nelson Mandeláról neveztek el Mexikóvárosban.",
+                  "text": "Centro Cultural Nelson Mandela egy Nelson Mandeláról elnevezett kulturális központ Inbursában.",
                   "category": "museum",
                   "coords": [
                         -99.196206,
@@ -4038,7 +4038,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería Oscar Román",
-                  "text": "A Galería Oscar Román egy galéria Mexikóvárosban.",
+                  "text": "Galería Oscar Román egy művészeti galéria Inbursában.",
                   "category": "museum",
                   "coords": [
                         -99.197566,
@@ -4047,7 +4047,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Granja las Américas",
-                  "text": "A Granja las Américas egy tematikus park Mexikóvárosban.",
+                  "text": "Granja las Américas egy állattalálkozós farm Inbursában.",
                   "category": "recreational",
                   "coords": [
                         -99.225416,
@@ -4065,7 +4065,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Duraznos",
-                  "text": "A Parque Duraznos egy természetvédelmi terület Mexikóvárosban.",
+                  "text": "Parque Duraznos egy őszibarackfás park Inbursában.",
                   "category": "natural",
                   "coords": [
                         -99.240118,
@@ -4074,7 +4074,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Bosque de las Lomas",
-                  "text": "A Bosque de las Lomas egy természetvédelmi terület Mexikóvárosban.",
+                  "text": "Erdőpark Inbursában, 1994 augusztusában nyílt meg.",
                   "category": "natural",
                   "coords": [
                         -99.244548,
@@ -4092,7 +4092,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Glorieta Bosques",
-                  "text": "A Glorieta Bosques egy természetvédelmi terület Mexikóvárosban.",
+                  "text": "Glorieta Bosques egy erdei körforgalom Inbursában.",
                   "category": "natural",
                   "coords": [
                         -99.2333,
@@ -4148,7 +4148,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Taller de Arquitectura",
-                  "text": "Taller de Arquitectura este o atracție în Mexico City.",
+                  "text": "Taller de Arquitectura este un atelier de arhitectură în Inbursa.",
                   "category": "landmark",
                   "coords": [
                         -99.235064,
@@ -4157,7 +4157,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Banamex",
-                  "text": "Centro Banamex este un teatru în Mexico City.",
+                  "text": "Centro Banamex este un centru cultural în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.224082,
@@ -4166,7 +4166,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Omega Dance",
-                  "text": "Omega Dance este un centru de artă în Mexico City.",
+                  "text": "Omega Dance este un studio de dans contemporan în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.266997,
@@ -4175,7 +4175,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Música",
-                  "text": "Casa de Música este un centru de artă în Mexico City.",
+                  "text": "Casa de Música este o sală de concerte în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.26524,
@@ -4184,7 +4184,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Hospital Del Niño Dios",
-                  "text": "Hospital Del Niño Dios este un centru de artă în Mexico City.",
+                  "text": "Hospital Del Niño Dios este un centru cultural numit după Pruncul Isus în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.259483,
@@ -4193,7 +4193,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Academia Real",
-                  "text": "Academia Real este un centru de artă în Mexico City.",
+                  "text": "Academia Real este o academie de artă în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.277186,
@@ -4202,7 +4202,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Edy Forever Dance",
-                  "text": "Edy Forever Dance este un centru de artă în Mexico City.",
+                  "text": "Edy Forever Dance este o școală de dans în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.280228,
@@ -4211,7 +4211,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Payasos Ejecutivos",
-                  "text": "Payasos Ejecutivos este un centru de artă în Mexico City.",
+                  "text": "Payasos Ejecutivos este un loc cultural pentru spectacole de clovni în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.285027,
@@ -4220,7 +4220,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Academia Feel Infinity",
-                  "text": "Academia Feel Infinity este un centru de artă în Mexico City.",
+                  "text": "Academia Feel Infinity este o academie de dans și fitness în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.287505,
@@ -4229,7 +4229,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zariñana Academy",
-                  "text": "Zariñana Academy este un centru de artă în Mexico City.",
+                  "text": "Zariñana Academy este un centru de artă și cultură în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.282787,
@@ -4238,7 +4238,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Reparacion De Niños Dios",
-                  "text": "Reparacion De Niños Dios este un centru de artă în Mexico City.",
+                  "text": "Reparacion De Niños Dios este un atelier de restaurare a figurinelor Pruncului Isus în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.281642,
@@ -4247,7 +4247,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mundo Fantastico",
-                  "text": "Mundo Fantastico este un centru de artă în Mexico City.",
+                  "text": "Mundo Fantastico este un parc de distracții în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.280914,
@@ -4256,7 +4256,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Clases De Pintura De Cerámica",
-                  "text": "Clases De Pintura De Cerámica este un centru de artă în Mexico City.",
+                  "text": "Clases De Pintura De Cerámica este un atelier de pictură pe ceramică în Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.277998,
@@ -4265,7 +4265,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador de lluvia",
-                  "text": "Mirador de lluvia este un punct de belvedere în Mexico City.",
+                  "text": "Mirador de lluvia este un punct de belvedere deasupra Inbursei.",
                   "category": "natural",
                   "coords": [
                         -99.219715,
@@ -4274,7 +4274,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Nelson Mandela",
-                  "text": "Centro Cultural Nelson Mandela este un muzeu numit după Nelson Mandela în Mexico City.",
+                  "text": "Centro Cultural Nelson Mandela este un centru cultural numit după Nelson Mandela în Inbursa.",
                   "category": "museum",
                   "coords": [
                         -99.196206,
@@ -4283,7 +4283,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería Oscar Román",
-                  "text": "Galería Oscar Román este o galerie în Mexico City.",
+                  "text": "Galería Oscar Román este o galerie de artă în Inbursa.",
                   "category": "museum",
                   "coords": [
                         -99.197566,
@@ -4292,7 +4292,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Granja las Américas",
-                  "text": "Granja las Américas este un parc tematic în Mexico City.",
+                  "text": "Granja las Américas este o fermă cu întâlniri cu animale în Inbursa.",
                   "category": "recreational",
                   "coords": [
                         -99.225416,
@@ -4310,7 +4310,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Duraznos",
-                  "text": "Parque Duraznos este o rezervație naturală în Mexico City.",
+                  "text": "Parque Duraznos este un parc cu piersici în Inbursa.",
                   "category": "natural",
                   "coords": [
                         -99.240118,
@@ -4319,7 +4319,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Bosque de las Lomas",
-                  "text": "Bosque de las Lomas este o rezervație naturală în Mexico City.",
+                  "text": "Parcul forestier din Inbursa, deschis în august 1994.",
                   "category": "natural",
                   "coords": [
                         -99.244548,
@@ -4337,7 +4337,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Glorieta Bosques",
-                  "text": "Glorieta Bosques este o rezervație naturală în Mexico City.",
+                  "text": "Glorieta Bosques este un sens giratoriu cu peisaj forestier în Inbursa.",
                   "category": "natural",
                   "coords": [
                         -99.2333,
@@ -4393,7 +4393,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Taller de Arquitectura",
-                  "text": "Taller de Arquitectura is an attraction in Mexico City.",
+                  "text": "Taller de Arquitectura is an architecture workshop in Inbursa.",
                   "category": "landmark",
                   "coords": [
                         -99.235064,
@@ -4402,7 +4402,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Banamex",
-                  "text": "Centro Banamex is a theatre in Mexico City.",
+                  "text": "Centro Banamex is a cultural center in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.224082,
@@ -4411,7 +4411,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Omega Dance",
-                  "text": "Omega Dance is an arts centre in Mexico City.",
+                  "text": "Omega Dance is a contemporary dance studio in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.266997,
@@ -4420,7 +4420,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Música",
-                  "text": "Casa de Música is an arts centre in Mexico City.",
+                  "text": "Casa de Música is a concert venue in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.26524,
@@ -4429,7 +4429,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Hospital Del Niño Dios",
-                  "text": "Hospital Del Niño Dios is an arts centre in Mexico City.",
+                  "text": "Hospital Del Niño Dios is a cultural center named after the Child Jesus in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.259483,
@@ -4438,7 +4438,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Academia Real",
-                  "text": "Academia Real is an arts centre in Mexico City.",
+                  "text": "Academia Real is an art academy in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.277186,
@@ -4447,7 +4447,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Edy Forever Dance",
-                  "text": "Edy Forever Dance is an arts centre in Mexico City.",
+                  "text": "Edy Forever Dance is a dance school in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.280228,
@@ -4456,7 +4456,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Payasos Ejecutivos",
-                  "text": "Payasos Ejecutivos is an arts centre in Mexico City.",
+                  "text": "Payasos Ejecutivos is a cultural venue for clown performances in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.285027,
@@ -4465,7 +4465,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Academia Feel Infinity",
-                  "text": "Academia Feel Infinity is an arts centre in Mexico City.",
+                  "text": "Academia Feel Infinity is a dance and fitness academy in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.287505,
@@ -4474,7 +4474,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zariñana Academy",
-                  "text": "Zariñana Academy is an arts centre in Mexico City.",
+                  "text": "Zariñana Academy is an arts and culture center in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.282787,
@@ -4483,7 +4483,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Reparacion De Niños Dios",
-                  "text": "Reparacion De Niños Dios is an arts centre in Mexico City.",
+                  "text": "Reparacion De Niños Dios is a workshop for restoring Child Jesus figurines in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.281642,
@@ -4492,7 +4492,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mundo Fantastico",
-                  "text": "Mundo Fantastico is an arts centre in Mexico City.",
+                  "text": "Mundo Fantastico is an amusement park in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.280914,
@@ -4501,7 +4501,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Clases De Pintura De Cerámica",
-                  "text": "Clases De Pintura De Cerámica is an arts centre in Mexico City.",
+                  "text": "Clases De Pintura De Cerámica is a ceramic painting workshop in Inbursa.",
                   "category": "cultural",
                   "coords": [
                         -99.277998,
@@ -4510,7 +4510,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mirador de lluvia",
-                  "text": "Mirador de lluvia is a viewpoint in Mexico City.",
+                  "text": "Mirador de lluvia is a viewpoint overlooking Inbursa.",
                   "category": "natural",
                   "coords": [
                         -99.219715,
@@ -4519,7 +4519,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro Cultural Nelson Mandela",
-                  "text": "Centro Cultural Nelson Mandela is a museum named after Nelson Mandela in Mexico City.",
+                  "text": "Centro Cultural Nelson Mandela is a cultural center named after Nelson Mandela in Inbursa.",
                   "category": "museum",
                   "coords": [
                         -99.196206,
@@ -4528,7 +4528,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Galería Oscar Román",
-                  "text": "Galería Oscar Román is a gallery in Mexico City.",
+                  "text": "Galería Oscar Román is an art gallery in Inbursa.",
                   "category": "museum",
                   "coords": [
                         -99.197566,
@@ -4537,7 +4537,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Granja las Américas",
-                  "text": "Granja las Américas is a theme park in Mexico City.",
+                  "text": "Granja las Américas is a farm with animal encounters in Inbursa.",
                   "category": "recreational",
                   "coords": [
                         -99.225416,
@@ -4555,7 +4555,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Duraznos",
-                  "text": "Parque Duraznos is a nature reserve in Mexico City.",
+                  "text": "Parque Duraznos is a park with peach trees in Inbursa.",
                   "category": "natural",
                   "coords": [
                         -99.240118,
@@ -4564,7 +4564,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Bosque de las Lomas",
-                  "text": "Bosque de las Lomas is a nature reserve in Mexico City.",
+                  "text": "Forest park in Inbursa, opened in August 1994.",
                   "category": "natural",
                   "coords": [
                         -99.244548,
@@ -4582,7 +4582,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Glorieta Bosques",
-                  "text": "Glorieta Bosques is a nature reserve in Mexico City.",
+                  "text": "Glorieta Bosques is a roundabout with forest landscaping in Inbursa.",
                   "category": "natural",
                   "coords": [
                         -99.2333,
@@ -4671,7 +4671,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Mulchí",
-                  "text": "Maya-archäologische Stätte im Xcaret-Gebiet.",
+                  "text": "Mulchí ist eine präkolumbische Maya-Stätte mit einem Tempel in einer parkähnlichen Umgebung.",
                   "category": "historical",
                   "coords": [
                         -87.123898,
@@ -4689,7 +4689,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "XPLOR Park",
-                  "text": "Abenteuer-Themenpark im Xcaret-Gebiet.",
+                  "text": "XPLOR Park ist ein Abenteuerpark mit Seilrutschen und unterirdischen Flüssen in der Riviera Maya.",
                   "category": "recreational",
                   "coords": [
                         -87.122751,
@@ -4698,7 +4698,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Residencia Art Project",
-                  "text": "Kunstgalerie im Xcaret-Gebiet.",
+                  "text": "Residencia Art Project ist eine Künstlerresidenz in Park.",
                   "category": "museum",
                   "coords": [
                         -87.06589,
@@ -4707,7 +4707,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Frida Kahlo",
-                  "text": "Museum, das Frida Kahlo im Xcaret-Gebiet gewidmet ist.",
+                  "text": "Das Frida-Kahlo-Museum ist ein der Künstlerin gewidmetes Museum in Park.",
                   "category": "museum",
                   "coords": [
                         -87.072757,
@@ -4716,7 +4716,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "El Acuario de Playa",
-                  "text": "Strandaquariumsmuseum im Xcaret-Gebiet.",
+                  "text": "Aquarium Beach ist ein Aquariumsmuseum in Park.",
                   "category": "museum",
                   "coords": [
                         -87.071468,
@@ -4734,7 +4734,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playalingua",
-                  "text": "Kunstzentrum im Xcaret-Gebiet.",
+                  "text": "Playalingua ist eine Sprachschule in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.069882,
@@ -4743,7 +4743,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Comunale",
-                  "text": "Gemeinschaftstheater im Xcaret-Gebiet.",
+                  "text": "Teatro Comunale ist ein Stadttheater in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.10547,
@@ -4752,7 +4752,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura",
-                  "text": "Haus der Kultur Kunstzentrum im Xcaret-Gebiet.",
+                  "text": "Casa de la Cultura ist ein Kulturhaus in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.083521,
@@ -4761,7 +4761,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro De La Ciudad Solidaridad",
-                  "text": "Stadttheater von Solidaridad im Xcaret-Gebiet.",
+                  "text": "Teatro De La Ciudad Solidaridad ist ein Stadttheater in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.08288,
@@ -4770,7 +4770,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Rio Secreto",
-                  "text": "Untergrundfluss-Attraktion im Xcaret-Gebiet.",
+                  "text": "Rio Secreto ist ein unterirdischer Fluss in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.13398,
@@ -4779,7 +4779,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Casa De Las Hamacas",
-                  "text": "La Casa De Las Hamacas ist ein Ort mit Hängematten im Xcaret-Park-Gebiet.",
+                  "text": "La Casa De Las Hamacas ist ein Hängemattenladen in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.068071,
@@ -4788,7 +4788,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa mamitas",
-                  "text": "Playa mamitas ist ein Strand im Xcaret-Park-Gebiet.",
+                  "text": "Playa mamitas ist ein Strandabschnitt in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.064977,
@@ -4824,7 +4824,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Chaak Tun",
-                  "text": "Chaak Tun ist ein Cenote im Xcaret-Park-Gebiet.",
+                  "text": "Chaak Tun ist eine Cenote in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.12547,
@@ -4833,7 +4833,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Dog rescue center volunteering",
-                  "text": "Dog rescue center volunteering ist eine Freiwilligenaktivität in einem Hundeschutzzentrum im Xcaret-Park-Gebiet.",
+                  "text": "Dog rescue center volunteering ist ein Hundeschutzzentrum in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.105852,
@@ -4842,7 +4842,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mayan village",
-                  "text": "Mayan village ist ein Nachbau eines traditionellen Maya-Dorfes im Xcaret-Park-Gebiet.",
+                  "text": "Mayan village ist ein traditionelles Maya-Dorf in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.121094,
@@ -4851,7 +4851,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "parque fundadores",
-                  "text": "settlers park ist ein Park im Xcaret-Park-Gebiet.",
+                  "text": "Settlers park ist ein Park in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.074981,
@@ -4878,7 +4878,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Juego de pelota",
-                  "text": "Juego de pelota ist ein Ballspielplatz im Xcaret-Park-Gebiet.",
+                  "text": "Juego de pelota ist ein Maya-Ballspielplatz in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.120855,
@@ -4896,7 +4896,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Korolevskii grif",
-                  "text": "Korolevskii grif ist eine Attraktion im Xcaret-Park-Gebiet.",
+                  "text": "Korolevskii grif ist ein Aussichtspunkt mit einer Geierskulptur in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.122026,
@@ -4914,7 +4914,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona arqueologica",
-                  "text": "Zona arqueologica ist eine archäologische Zone im Xcaret-Park-Gebiet.",
+                  "text": "Zona arqueologica ist eine archäologische Stätte in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.119435,
@@ -4925,7 +4925,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Mulchí",
-                  "text": "Maja régészeti lelőhely a Xcaret területén.",
+                  "text": "Mulchí egy prekolumbiánus maja lelőhely templommal, parkos környezetben.",
                   "category": "historical",
                   "coords": [
                         -87.123898,
@@ -4943,7 +4943,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "XPLOR Park",
-                  "text": "Kaland tematikus park a Xcaret területén.",
+                  "text": "XPLOR Park egy kalandpark kötélpályákkal és földalatti folyókkal a Riviéra Mayán.",
                   "category": "recreational",
                   "coords": [
                         -87.122751,
@@ -4952,7 +4952,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Residencia Art Project",
-                  "text": "Művészeti galéria a Xcaret területén.",
+                  "text": "Residencia Art Project egy művészrezidencia Parkban.",
                   "category": "museum",
                   "coords": [
                         -87.06589,
@@ -4961,7 +4961,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Frida Kahlo",
-                  "text": "Frida Kahlónak szentelt múzeum a Xcaret területén.",
+                  "text": "A Frida Kahlo Múzeum egy a művésznek szentelt múzeum Parkban.",
                   "category": "museum",
                   "coords": [
                         -87.072757,
@@ -4970,7 +4970,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "El Acuario de Playa",
-                  "text": "Strand akvárium múzeum a Xcaret területén.",
+                  "text": "Aquarium Beach egy akváriummúzeum Parkban.",
                   "category": "museum",
                   "coords": [
                         -87.071468,
@@ -4988,7 +4988,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playalingua",
-                  "text": "Művészeti központ a Xcaret területén.",
+                  "text": "Playalingua egy nyelviskola Parkban.",
                   "category": "cultural",
                   "coords": [
                         -87.069882,
@@ -4997,7 +4997,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Comunale",
-                  "text": "Közösségi színház a Xcaret területén.",
+                  "text": "Teatro Comunale egy városi színház Parkban.",
                   "category": "cultural",
                   "coords": [
                         -87.10547,
@@ -5006,7 +5006,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura",
-                  "text": "Kultúra Háza művészeti központ a Xcaret területén.",
+                  "text": "Casa de la Cultura egy kultúrház Parkban.",
                   "category": "cultural",
                   "coords": [
                         -87.083521,
@@ -5015,7 +5015,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro De La Ciudad Solidaridad",
-                  "text": "Solidaridad városi színháza a Xcaret területén.",
+                  "text": "Teatro De La Ciudad Solidaridad egy városi színház Parkban.",
                   "category": "cultural",
                   "coords": [
                         -87.08288,
@@ -5024,7 +5024,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Rio Secreto",
-                  "text": "Földalatti folyó látványosság a Xcaret területén.",
+                  "text": "Rio Secreto egy föld alatti folyó Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.13398,
@@ -5033,7 +5033,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Casa De Las Hamacas",
-                  "text": "A La Casa De Las Hamacas egy hely függőágyakkal a Xcaret park területén.",
+                  "text": "La Casa De Las Hamacas egy függőágybolt Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.068071,
@@ -5042,7 +5042,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa mamitas",
-                  "text": "A Playa mamitas egy strand a Xcaret park területén.",
+                  "text": "Playa mamitas egy strand Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.064977,
@@ -5078,7 +5078,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Chaak Tun",
-                  "text": "Chaak Tun egy cenote a Xcaret park területén.",
+                  "text": "Chaak Tun egy cenote Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.12547,
@@ -5087,7 +5087,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Dog rescue center volunteering",
-                  "text": "A Dog rescue center volunteering egy önkéntes tevékenység egy kutyamenhelyen a Xcaret park területén.",
+                  "text": "Dog rescue center volunteering egy kutyamentő központ Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.105852,
@@ -5096,7 +5096,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mayan village",
-                  "text": "A Mayan village egy hagyományos maja falu másolata a Xcaret park területén.",
+                  "text": "Mayan village egy hagyományos maja falu Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.121094,
@@ -5105,7 +5105,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "parque fundadores",
-                  "text": "A settlers park egy park a Xcaret park területén.",
+                  "text": "Settlers park egy park Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.074981,
@@ -5132,7 +5132,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Juego de pelota",
-                  "text": "A Juego de pelota egy labdajátékpálya a Xcaret park területén.",
+                  "text": "Juego de pelota egy maja labdapálya Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.120855,
@@ -5150,7 +5150,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Korolevskii grif",
-                  "text": "A Korolevskii grif egy látványosság a Xcaret park területén.",
+                  "text": "Korolevskii grif egy kilátóhely keselyűszoborral Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.122026,
@@ -5168,7 +5168,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona arqueologica",
-                  "text": "A Zona arqueologica egy régészeti zóna a Xcaret park területén.",
+                  "text": "Zona arqueologica egy régészeti lelőhely Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.119435,
@@ -5179,7 +5179,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Mulchí",
-                  "text": "Sit arheologic maya în zona Xcaret.",
+                  "text": "Mulchí este un sit maya precolumbian cu un templu, situat într-un cadru asemănător unui parc.",
                   "category": "historical",
                   "coords": [
                         -87.123898,
@@ -5197,7 +5197,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "XPLOR Park",
-                  "text": "Parcul tematic de aventură în zona Xcaret.",
+                  "text": "XPLOR Park este un parc de aventură cu tiroliane și râuri subterane în Riviera Maya.",
                   "category": "recreational",
                   "coords": [
                         -87.122751,
@@ -5206,7 +5206,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Residencia Art Project",
-                  "text": "Galerie de artă în zona Xcaret.",
+                  "text": "Residencia Art Project este o reședință pentru artiști în Park.",
                   "category": "museum",
                   "coords": [
                         -87.06589,
@@ -5215,7 +5215,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Frida Kahlo",
-                  "text": "Muzeu dedicat Frida Kahlo în zona Xcaret.",
+                  "text": "Muzeul Frida Kahlo este un muzeu dedicat artistei în Park.",
                   "category": "museum",
                   "coords": [
                         -87.072757,
@@ -5224,7 +5224,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "El Acuario de Playa",
-                  "text": "Muzeu acvariu de plajă în zona Xcaret.",
+                  "text": "Aquarium Beach este un muzeu-acvariu în Park.",
                   "category": "museum",
                   "coords": [
                         -87.071468,
@@ -5242,7 +5242,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playalingua",
-                  "text": "Centru de arte în zona Xcaret.",
+                  "text": "Playalingua este o școală de limbi străine în Park.",
                   "category": "cultural",
                   "coords": [
                         -87.069882,
@@ -5251,7 +5251,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Comunale",
-                  "text": "Teatru comunitar în zona Xcaret.",
+                  "text": "Teatro Comunale este un teatru municipal în Park.",
                   "category": "cultural",
                   "coords": [
                         -87.10547,
@@ -5260,7 +5260,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura",
-                  "text": "Casa Culturii centru de arte în zona Xcaret.",
+                  "text": "Casa de la Cultura este o casă de cultură în Park.",
                   "category": "cultural",
                   "coords": [
                         -87.083521,
@@ -5269,7 +5269,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro De La Ciudad Solidaridad",
-                  "text": "Teatrul orașului Solidaridad în zona Xcaret.",
+                  "text": "Teatro De La Ciudad Solidaridad este un teatru al orașului în Park.",
                   "category": "cultural",
                   "coords": [
                         -87.08288,
@@ -5278,7 +5278,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Rio Secreto",
-                  "text": "Atracție de râu subteran în zona Xcaret.",
+                  "text": "Rio Secreto este un râu subteran în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.13398,
@@ -5287,7 +5287,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Casa De Las Hamacas",
-                  "text": "La Casa De Las Hamacas este un loc cu hamace în zona parcului Xcaret.",
+                  "text": "La Casa De Las Hamacas este un magazin de hamace în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.068071,
@@ -5296,7 +5296,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa mamitas",
-                  "text": "Playa mamitas este o plajă în zona parcului Xcaret.",
+                  "text": "Playa mamitas este o plajă în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.064977,
@@ -5332,7 +5332,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Chaak Tun",
-                  "text": "Chaak Tun este un cenote în zona parcului Xcaret.",
+                  "text": "Chaak Tun este o cenotă în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.12547,
@@ -5341,7 +5341,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Dog rescue center volunteering",
-                  "text": "Dog rescue center volunteering este o activitate de voluntariat la un centru de salvare a câinilor în zona parcului Xcaret.",
+                  "text": "Dog rescue center volunteering este un centru de salvare a câinilor în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.105852,
@@ -5350,7 +5350,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mayan village",
-                  "text": "Mayan village este o replică a unui sat tradițional mayaș în zona parcului Xcaret.",
+                  "text": "Mayan village este un sat tradițional mayaș în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.121094,
@@ -5359,7 +5359,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "parque fundadores",
-                  "text": "settlers park este un parc în zona parcului Xcaret.",
+                  "text": "Settlers park este un parc în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.074981,
@@ -5386,7 +5386,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Juego de pelota",
-                  "text": "Juego de pelota este un teren de joc cu minge în zona parcului Xcaret.",
+                  "text": "Juego de pelota este un teren de joc cu mingea mayaș în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.120855,
@@ -5404,7 +5404,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Korolevskii grif",
-                  "text": "Korolevskii grif este o atracție în zona parcului Xcaret.",
+                  "text": "Korolevskii grif este un punct de belvedere cu o sculptură de vultur în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.122026,
@@ -5422,7 +5422,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona arqueologica",
-                  "text": "Zona arqueologica este o zonă arheologică în zona parcului Xcaret.",
+                  "text": "Zona arqueologica este un sit arheologic în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.119435,
@@ -5433,7 +5433,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Mulchí",
-                  "text": "Mayan archaeological site in the Xcaret area.",
+                  "text": "Mulchí is a pre-Columbian Maya site with a temple, situated in a park-like setting.",
                   "category": "historical",
                   "coords": [
                         -87.123898,
@@ -5451,7 +5451,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "XPLOR Park",
-                  "text": "Adventure theme park in the Xcaret area.",
+                  "text": "XPLOR Park is an adventure park with zip lines and underground rivers in the Riviera Maya.",
                   "category": "recreational",
                   "coords": [
                         -87.122751,
@@ -5460,7 +5460,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Residencia Art Project",
-                  "text": "Art gallery in the Xcaret area.",
+                  "text": "Residencia Art Project is an artist residency in Park.",
                   "category": "museum",
                   "coords": [
                         -87.06589,
@@ -5469,7 +5469,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Frida Kahlo",
-                  "text": "Museum dedicated to Frida Kahlo in the Xcaret area.",
+                  "text": "Frida Kahlo is a museum dedicated to the artist in Park.",
                   "category": "museum",
                   "coords": [
                         -87.072757,
@@ -5478,7 +5478,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Aquarium Beach",
-                  "text": "Beach aquarium museum in the Xcaret area.",
+                  "text": "Aquarium Beach is an aquarium museum in Park.",
                   "category": "museum",
                   "coords": [
                         -87.071468,
@@ -5496,7 +5496,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playalingua",
-                  "text": "Arts centre in the Xcaret area.",
+                  "text": "Playalingua is a language school in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.069882,
@@ -5505,7 +5505,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Comunale",
-                  "text": "Community theatre in the Xcaret area.",
+                  "text": "Teatro Comunale is a municipal theater in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.10547,
@@ -5514,7 +5514,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de la Cultura",
-                  "text": "House of Culture arts centre in the Xcaret area.",
+                  "text": "Casa de la Cultura is a cultural center in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.083521,
@@ -5523,7 +5523,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro De La Ciudad Solidaridad",
-                  "text": "City theatre of Solidaridad in the Xcaret area.",
+                  "text": "Teatro De La Ciudad Solidaridad is a city theater in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.08288,
@@ -5532,7 +5532,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Rio Secreto",
-                  "text": "Underground river attraction in the Xcaret area.",
+                  "text": "Rio Secreto is an underground river in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.13398,
@@ -5541,7 +5541,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Casa De Las Hamacas",
-                  "text": "La Casa De Las Hamacas is a place with hammocks in the Xcaret park area.",
+                  "text": "La Casa De Las Hamacas is a hammock store in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.068071,
@@ -5550,7 +5550,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa mamitas",
-                  "text": "Playa mamitas is a beach in the Xcaret park area.",
+                  "text": "Playa mamitas is a beach in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.064977,
@@ -5586,7 +5586,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Chaak Tun",
-                  "text": "Chaak Tun is a cenote in the Xcaret park area.",
+                  "text": "Chaak Tun is a cenote in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.12547,
@@ -5595,7 +5595,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Dog rescue center volunteering",
-                  "text": "Dog rescue center volunteering is a volunteer activity at a dog rescue center in the Xcaret park area.",
+                  "text": "Dog rescue center volunteering is a dog rescue center in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.105852,
@@ -5604,7 +5604,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mayan village",
-                  "text": "Mayan village is a replica of a traditional Mayan village in the Xcaret park area.",
+                  "text": "Mayan village is a traditional Maya village in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.121094,
@@ -5613,7 +5613,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "settlers park",
-                  "text": "settlers park is a park in the Xcaret park area.",
+                  "text": "Settlers park is a park in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.074981,
@@ -5640,7 +5640,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Juego de pelota",
-                  "text": "Juego de pelota is a ball court in the Xcaret park area.",
+                  "text": "Juego de pelota is a Maya ball court in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.120855,
@@ -5658,7 +5658,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Korolevskii grif",
-                  "text": "Korolevskii grif is an attraction in the Xcaret park area.",
+                  "text": "Korolevskii grif is a viewpoint with a vulture sculpture in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.122026,
@@ -5676,7 +5676,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona arqueologica",
-                  "text": "Zona arqueologica is an archaeological zone in the Xcaret park area.",
+                  "text": "Zona arqueologica is an archaeological site in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.119435,
@@ -5738,7 +5738,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Africam Safari",
-                  "text": "Africam Safari ist ein großer Safaripark in Puebla, Mexiko.",
+                  "text": "Africam Safari ist ein Safaripark mit frei laufenden Tieren in Puebla.",
                   "category": "recreational",
                   "coords": [
                         -98.133038,
@@ -5758,7 +5758,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Africam Safari",
-                  "text": "Az Africam Safari egy nagy szafari park Pueblában, Mexikóban.",
+                  "text": "Africam Safari egy szafaripark szabadon kóborló állatokkal Pueblában.",
                   "category": "recreational",
                   "coords": [
                         -98.133038,
@@ -5778,7 +5778,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Africam Safari",
-                  "text": "Africam Safari este un parc safari mare în Puebla, Mexic.",
+                  "text": "Africam Safari este un parc safari cu animale care se plimbă liber în Puebla.",
                   "category": "recreational",
                   "coords": [
                         -98.133038,
@@ -5798,7 +5798,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Africam Safari",
-                  "text": "Africam Safari is a large safari park in Puebla, Mexico.",
+                  "text": "Africam Safari is a safari park with free-roaming animals in Puebla.",
                   "category": "recreational",
                   "coords": [
                         -98.133038,
@@ -5869,7 +5869,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Campo De Futbol San Pablo",
-                  "text": "Das Campo De Futbol San Pablo ist eine Fußballplatz-Attraktion im Bioparque Estrella.",
+                  "text": "Campo De Futbol San Pablo ist ein Fußballplatz in Estrella.",
                   "category": "landmark",
                   "coords": [
                         -99.492189,
@@ -5878,7 +5878,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La hoguera tattoo studio",
-                  "text": "Das La hoguera tattoo studio ist ein Tattoo-Studio und eine Galerie im Bioparque Estrella.",
+                  "text": "La hoguera tattoo studio ist ein Tätowierstudio in Estrella.",
                   "category": "museum",
                   "coords": [
                         -99.564698,
@@ -5887,7 +5887,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Jilotepec",
-                  "text": "Das Museo de Jilotepec ist ein Museum im Bioparque Estrella.",
+                  "text": "Museo de Jilotepec ist ein Regionalmuseum in Estrella.",
                   "category": "museum",
                   "coords": [
                         -99.533201,
@@ -5896,7 +5896,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "Die Casa de Cultura ist ein Kulturzentrum im Bioparque Estrella.",
+                  "text": "Casa de Cultura ist ein Kulturzentrum in Estrella.",
                   "category": "cultural",
                   "coords": [
                         -99.532661,
@@ -5907,7 +5907,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Campo De Futbol San Pablo",
-                  "text": "A Campo De Futbol San Pablo egy futballpálya-attrakció a Bioparque Estrella-ban.",
+                  "text": "Campo De Futbol San Pablo egy futballpálya Estrellában.",
                   "category": "landmark",
                   "coords": [
                         -99.492189,
@@ -5916,7 +5916,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La hoguera tattoo studio",
-                  "text": "A La hoguera tattoo studio egy tetoválószalon és galéria a Bioparque Estrella-ban.",
+                  "text": "La hoguera tattoo studio egy tetoválószalon Estrellában.",
                   "category": "museum",
                   "coords": [
                         -99.564698,
@@ -5925,7 +5925,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Jilotepec",
-                  "text": "A Museo de Jilotepec egy múzeum a Bioparque Estrella-ban.",
+                  "text": "Museo de Jilotepec egy regionális múzeum Estrellában.",
                   "category": "museum",
                   "coords": [
                         -99.533201,
@@ -5934,7 +5934,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "A Casa de Cultura egy művészeti központ a Bioparque Estrella-ban.",
+                  "text": "Casa de Cultura egy kulturális központ Estrellában.",
                   "category": "cultural",
                   "coords": [
                         -99.532661,
@@ -5945,7 +5945,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Campo De Futbol San Pablo",
-                  "text": "Campo De Futbol San Pablo este o atracție de teren de fotbal în Bioparque Estrella.",
+                  "text": "Campo De Futbol San Pablo este un teren de fotbal în Estrella.",
                   "category": "landmark",
                   "coords": [
                         -99.492189,
@@ -5954,7 +5954,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La hoguera tattoo studio",
-                  "text": "La hoguera tattoo studio este un studio de tatuaje și galerie în Bioparque Estrella.",
+                  "text": "La hoguera tattoo studio este un studio de tatuaje în Estrella.",
                   "category": "museum",
                   "coords": [
                         -99.564698,
@@ -5963,7 +5963,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Jilotepec",
-                  "text": "Museo de Jilotepec este un muzeu în Bioparque Estrella.",
+                  "text": "Museo de Jilotepec este un muzeu regional în Estrella.",
                   "category": "museum",
                   "coords": [
                         -99.533201,
@@ -5972,7 +5972,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "Casa de Cultura este un centru de artă în Bioparque Estrella.",
+                  "text": "Casa de Cultura este un centru cultural în Estrella.",
                   "category": "cultural",
                   "coords": [
                         -99.532661,
@@ -5983,7 +5983,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Campo De Futbol San Pablo",
-                  "text": "Campo De Futbol San Pablo is a football field attraction in Bioparque Estrella.",
+                  "text": "Campo De Futbol San Pablo is a soccer field in Estrella.",
                   "category": "landmark",
                   "coords": [
                         -99.492189,
@@ -5992,7 +5992,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La hoguera tattoo studio",
-                  "text": "La hoguera tattoo studio is a tattoo studio and gallery in Bioparque Estrella.",
+                  "text": "La hoguera tattoo studio is a tattoo studio in Estrella.",
                   "category": "museum",
                   "coords": [
                         -99.564698,
@@ -6001,7 +6001,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Jilotepec",
-                  "text": "Museo de Jilotepec is a museum in Bioparque Estrella.",
+                  "text": "Museo de Jilotepec is a regional museum in Estrella.",
                   "category": "museum",
                   "coords": [
                         -99.533201,
@@ -6010,7 +6010,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura",
-                  "text": "Casa de Cultura is an arts centre in Bioparque Estrella.",
+                  "text": "Casa de Cultura is a cultural center in Estrella.",
                   "category": "cultural",
                   "coords": [
                         -99.532661,
@@ -6072,7 +6072,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Mariposas Monarca",
-                  "text": "Eine Attraktion im Schutzgebiet der Monarchfalter.",
+                  "text": "Butterflies ist ein Schmetterlingsgehege in Butterfly Reserve.",
                   "category": "landmark",
                   "coords": [
                         -100.294558,
@@ -6090,7 +6090,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monarch butterfly reserve",
-                  "text": "Ein Reservat für Monarchfalter, bekannt für die jährliche Migration.",
+                  "text": "Monarch butterfly reserve ist ein Schutzgebiet für Monarchfalter in Butterfly Reserve.",
                   "category": "recreational",
                   "coords": [
                         -100.267171,
@@ -6110,7 +6110,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Mariposas Monarca",
-                  "text": "Egy látványosság a monarch lepkék rezervátumában.",
+                  "text": "Butterflies egy pillangóház Butterfly Reserveben.",
                   "category": "landmark",
                   "coords": [
                         -100.294558,
@@ -6128,7 +6128,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monarch butterfly reserve",
-                  "text": "Egy monarch lepkék rezervátuma, híres az éves vándorlásról.",
+                  "text": "Monarch butterfly reserve egy uralkodólepke-rezervátum Butterfly Reserveben.",
                   "category": "recreational",
                   "coords": [
                         -100.267171,
@@ -6148,7 +6148,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Mariposas Monarca",
-                  "text": "O atracție în rezervația fluturilor monarh.",
+                  "text": "Butterflies este o seră cu fluturi în Butterfly Reserve.",
                   "category": "landmark",
                   "coords": [
                         -100.294558,
@@ -6166,7 +6166,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monarch butterfly reserve",
-                  "text": "O rezervație pentru fluturii monarh, cunoscută pentru migrația anuală.",
+                  "text": "Monarch butterfly reserve este o rezervație de fluturi monarh în Butterfly Reserve.",
                   "category": "recreational",
                   "coords": [
                         -100.267171,
@@ -6186,7 +6186,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Butterflies",
-                  "text": "An attraction in the Monarch Butterfly Reserve.",
+                  "text": "Butterflies is a butterfly house in Butterfly Reserve.",
                   "category": "landmark",
                   "coords": [
                         -100.294558,
@@ -6204,7 +6204,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monarch butterfly reserve",
-                  "text": "A Monarch butterfly reserve, known for the annual migration.",
+                  "text": "Monarch butterfly reserve is a monarch butterfly sanctuary in Butterfly Reserve.",
                   "category": "recreational",
                   "coords": [
                         -100.267171,
@@ -6275,7 +6275,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Biosfera de Sian Kaan",
-                  "text": "Biosphärenreservat von Sian Ka'an.",
+                  "text": "UNESCO-Biosphärenreservat mit über 500.000 Hektar Küsten- und Dschungelgebieten.",
                   "category": "landmark",
                   "coords": [
                         -87.604288,
@@ -6286,7 +6286,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Biosfera de Sian Kaan",
-                  "text": "Sian Ka'an bioszféra-rezervátum.",
+                  "text": "UNESCO bioszféra-rezervátum, több mint 500 000 hektárnyi partvidéki és dzsungel területtel.",
                   "category": "landmark",
                   "coords": [
                         -87.604288,
@@ -6297,7 +6297,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Biosfera de Sian Kaan",
-                  "text": "Rezervația biosferei Sian Ka'an.",
+                  "text": "Rezervație UNESCO a biosferei, ce se întinde pe peste 500.000 de hectare de coastă și jungle.",
                   "category": "landmark",
                   "coords": [
                         -87.604288,
@@ -6308,7 +6308,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Biosfera de Sian Kaan",
-                  "text": "Biosphere reserve of Sian Ka'an.",
+                  "text": "UNESCO biosphere reserve spanning over 500,000 hectares of coastal and jungle habitats.",
                   "category": "landmark",
                   "coords": [
                         -87.604288,
@@ -6379,7 +6379,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de los cuatro reyes",
-                  "text": "Casa de los cuatro reyes sind Ruinen im Calakmul-Reservat.",
+                  "text": "Historisches Haus, benannt nach vier Königen, gelegen in einem Naturschutzgebiet.",
                   "category": "historical",
                   "coords": [
                         -89.945331,
@@ -6399,7 +6399,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de los cuatro reyes",
-                  "text": "A Casa de los cuatro reyes romok a Calakmul-rezervátumban.",
+                  "text": "Történelmi ház, négy királyról elnevezve, egy természetvédelmi területen található.",
                   "category": "historical",
                   "coords": [
                         -89.945331,
@@ -6419,7 +6419,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de los cuatro reyes",
-                  "text": "Casa de los cuatro reyes sunt ruine în Rezervația Calakmul.",
+                  "text": "Casă istorică numită după patru regi, situată într-o rezervație naturală.",
                   "category": "historical",
                   "coords": [
                         -89.945331,
@@ -6439,7 +6439,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de los cuatro reyes",
-                  "text": "Casa de los cuatro reyes are ruins in the Calakmul Reserve.",
+                  "text": "Historical house named after four kings, located in a nature reserve.",
                   "category": "historical",
                   "coords": [
                         -89.945331,
@@ -6646,7 +6646,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "14 000 flamencos - noches (ruta a la derecha)",
-                  "text": "Ein Ort, um abends Flamingos in Celestún zu beobachten.",
+                  "text": "Abendlicher Aussichtspunkt für eine große Flamingokolonie, erreichbar über die rechte Straße.",
                   "category": "landmark",
                   "coords": [
                         -90.374217,
@@ -6655,7 +6655,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Celeste Vida",
-                  "text": "Ein Badeort in Celestún.",
+                  "text": "Erholungsresort mit dem Namen ‚Himmelsblau Leben‘ im Flamingo-Reservat.",
                   "category": "recreational",
                   "coords": [
                         -90.394357,
@@ -6664,7 +6664,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biósfera Celestún",
-                  "text": "Ein Biosphärenreservat in Celestún.",
+                  "text": "Geschütztes Feuchtgebiet, berühmt für tausende Flamingos und Mangrovenwälder.",
                   "category": "landmark",
                   "coords": [
                         -90.38339,
@@ -6673,7 +6673,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Ecoturistico Jaltun",
-                  "text": "Ein Ökotourismus-Park in Celestún.",
+                  "text": "Ökotourismus-Park mit Führungen durch Dschungel und Wasserwege.",
                   "category": "landmark",
                   "coords": [
                         -90.385848,
@@ -6682,7 +6682,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Flamencos - mañana",
-                  "text": "Morgendliche Flamingobeobachtung in Celestún.",
+                  "text": "Morgendlicher Beobachtungspunkt für Flamingos im Celestún-Reservat.",
                   "category": "landmark",
                   "coords": [
                         -90.403441,
@@ -6691,7 +6691,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Hacienda Real de Salinas",
-                  "text": "Ruinen einer historischen Hacienda in Celestún.",
+                  "text": "Historische Salz-Hazienda mit Ruinen und Salinen in der Nähe.",
                   "category": "historical",
                   "coords": [
                         -90.400835,
@@ -6700,7 +6700,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas",
-                  "text": "Ruinen in Celestún.",
+                  "text": "Alte Maya-Ruinen im Flamingo-Reservat.",
                   "category": "historical",
                   "coords": [
                         -90.405582,
@@ -6711,7 +6711,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "14 000 flamencos - noches (ruta a la derecha)",
-                  "text": "Flamingó megfigyelőhely Celestúnban este.",
+                  "text": "Esti kilátóhely egy nagy flamingókolóniához, a jobb oldali úton érhető el.",
                   "category": "landmark",
                   "coords": [
                         -90.374217,
@@ -6720,7 +6720,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Celeste Vida",
-                  "text": "Tengerparti üdülőhely Celestúnban.",
+                  "text": "Üdülőközpont a 'Mennyei kék élet' néven, a Flamingó-rezervátumban.",
                   "category": "recreational",
                   "coords": [
                         -90.394357,
@@ -6729,7 +6729,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biósfera Celestún",
-                  "text": "Bioszféra-rezervátum Celestúnban.",
+                  "text": "Védett vizes élőhely, híres ezernyi flamingójáról és mangroveerdőiről.",
                   "category": "landmark",
                   "coords": [
                         -90.38339,
@@ -6738,7 +6738,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Ecoturistico Jaltun",
-                  "text": "Ökoturisztikai park Celestúnban.",
+                  "text": "Ökoturisztikai park dzsungel- és vízi úti túrákkal.",
                   "category": "landmark",
                   "coords": [
                         -90.385848,
@@ -6747,7 +6747,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Flamencos - mañana",
-                  "text": "Reggeli flamingó megfigyelés Celestúnban.",
+                  "text": "Reggeli flamingómegfigyelő hely a Celestún-rezervátumban.",
                   "category": "landmark",
                   "coords": [
                         -90.403441,
@@ -6756,7 +6756,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Hacienda Real de Salinas",
-                  "text": "Történelmi hacienda romjai Celestúnban.",
+                  "text": "Történelmi sóüzemű hacienda romokkal és sómezőkkel a közelben.",
                   "category": "historical",
                   "coords": [
                         -90.400835,
@@ -6765,7 +6765,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas",
-                  "text": "Romok Celestúnban.",
+                  "text": "Ősi maja romok a Flamingó-rezervátumban.",
                   "category": "historical",
                   "coords": [
                         -90.405582,
@@ -6776,7 +6776,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "14 000 flamencos - noches (ruta a la derecha)",
-                  "text": "Un loc pentru a observa flamingo seara în Celestún.",
+                  "text": "Punct de observare seara pentru o colonie mare de flamingi, accesibil pe drumul din dreapta.",
                   "category": "landmark",
                   "coords": [
                         -90.374217,
@@ -6785,7 +6785,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Celeste Vida",
-                  "text": "O stațiune de plajă în Celestún.",
+                  "text": "Stațiune de agrement cu numele 'Viața Cerul-Albastru' în Rezervația Flamingo.",
                   "category": "recreational",
                   "coords": [
                         -90.394357,
@@ -6794,7 +6794,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biósfera Celestún",
-                  "text": "O rezervație a biosferei în Celestún.",
+                  "text": "Zonă umedă protejată, renumită pentru miile de flamingi și pădurile de mangrove.",
                   "category": "landmark",
                   "coords": [
                         -90.38339,
@@ -6803,7 +6803,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Ecoturistico Jaltun",
-                  "text": "Un parc ecoturistic în Celestún.",
+                  "text": "Parc ecoturistic cu excursii ghidate prin junglă și căi navigabile.",
                   "category": "landmark",
                   "coords": [
                         -90.385848,
@@ -6812,7 +6812,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Flamencos - mañana",
-                  "text": "Observarea flamingo dimineața în Celestún.",
+                  "text": "Punct de observare dimineața pentru flamingi în Rezervația Celestún.",
                   "category": "landmark",
                   "coords": [
                         -90.403441,
@@ -6821,7 +6821,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Hacienda Real de Salinas",
-                  "text": "Ruinele unei hacienda istorice în Celestún.",
+                  "text": "Hacienda istorică de sare, cu ruine și saline în apropiere.",
                   "category": "historical",
                   "coords": [
                         -90.400835,
@@ -6830,7 +6830,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas",
-                  "text": "Ruine în Celestún.",
+                  "text": "Ruine mayașe antice în Rezervația Flamingo.",
                   "category": "historical",
                   "coords": [
                         -90.405582,
@@ -6841,7 +6841,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "14 000 flamingos - evening (take the road at your right)",
-                  "text": "A spot to observe flamingos in the evening in Celestún.",
+                  "text": "Evening viewing spot for a large flock of flamingos, accessed via the right-hand road.",
                   "category": "landmark",
                   "coords": [
                         -90.374217,
@@ -6850,7 +6850,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Celeste Vida",
-                  "text": "A beach resort in Celestún.",
+                  "text": "Recreational resort named 'Sky Blue Life' in the Flamingo Reserve.",
                   "category": "recreational",
                   "coords": [
                         -90.394357,
@@ -6859,7 +6859,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Reserva de la Biósfera Celestún",
-                  "text": "A biosphere reserve in Celestún.",
+                  "text": "Protected wetland reserve famous for its thousands of flamingos and mangrove forests.",
                   "category": "landmark",
                   "coords": [
                         -90.38339,
@@ -6868,7 +6868,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque Ecoturistico Jaltun",
-                  "text": "An ecotourism park in Celestún.",
+                  "text": "Ecotourism park offering guided tours of the surrounding jungle and waterways.",
                   "category": "landmark",
                   "coords": [
                         -90.385848,
@@ -6877,7 +6877,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Flamingos - morning",
-                  "text": "Morning flamingo watching in Celestún.",
+                  "text": "Morning viewing area for flamingos in the Celestún Reserve.",
                   "category": "landmark",
                   "coords": [
                         -90.403441,
@@ -6886,7 +6886,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Hacienda Real de Salinas",
-                  "text": "Ruins of a historic hacienda in Celestún.",
+                  "text": "Historic salt-producing hacienda with ruins and salt flats nearby.",
                   "category": "historical",
                   "coords": [
                         -90.400835,
@@ -6895,7 +6895,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas",
-                  "text": "Ruins in Celestún.",
+                  "text": "Ancient Maya ruins located within the Flamingo Reserve.",
                   "category": "historical",
                   "coords": [
                         -90.405582,
@@ -6957,7 +6957,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Playa Camarón",
-                  "text": "Der Strand Camarón im Gebiet von La Ventanilla.",
+                  "text": "Sandstrand namens ‚Garnelenstrand‘, bekannt für Garnelen, Teil der Ventanilla-Schildkrötenreservat.",
                   "category": "recreational",
                   "coords": [
                         -96.525803,
@@ -6975,7 +6975,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zapotengo beach",
-                  "text": "Der Strand Zapotengo im Gebiet von La Ventanilla.",
+                  "text": "Sandstrand gesäumt von Zapote-Bäumen, beliebt für Schildkröten-Nistplätze.",
                   "category": "recreational",
                   "coords": [
                         -96.40539,
@@ -6984,7 +6984,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura Petra Valle",
-                  "text": "Das Kulturhaus Petra Valle ist ein Theater im Gebiet von La Ventanilla.",
+                  "text": "Kulturzentrum benannt nach Petra Valle, das lokale Kunst und Geschichte zeigt.",
                   "category": "cultural",
                   "coords": [
                         -96.465384,
@@ -6993,7 +6993,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Estacahuite",
-                  "text": "Der Strand Estacahuite im Gebiet von La Ventanilla.",
+                  "text": "Abgelegener Strand mit ruhigem Wasser, ideal zum Schwimmen und Kajakfahren.",
                   "category": "recreational",
                   "coords": [
                         -96.482102,
@@ -7002,7 +7002,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Rancho Los Mangos",
-                  "text": "Rancho Los Mangos ist ein Campingplatz im Gebiet von La Ventanilla.",
+                  "text": "Ehemalige Mangoplantage, heute ein Natur-Rückzugsort.",
                   "category": "landmark",
                   "coords": [
                         -96.520484,
@@ -7011,7 +7011,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Shambhala",
-                  "text": "Der Strand Shambhala im Gebiet von La Ventanilla.",
+                  "text": "Spirituell gestalteter Strand, bekannt für Yoga-Retreats und friedliche Atmosphäre.",
                   "category": "recreational",
                   "coords": [
                         -96.522944,
@@ -7020,7 +7020,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Zipolite",
-                  "text": "Playa Zipolite ist eine Attraktion in der La Ventanilla Turtle Reserve.",
+                  "text": "Playa Zipolite ist ein FKK-Strand mit starken Wellen nahe der Ventanilla-Schildkrötenreservat.",
                   "category": "landmark",
                   "coords": [
                         -96.515942,
@@ -7029,7 +7029,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa del amor",
-                  "text": "Playa del amor ist ein Strand in der La Ventanilla Turtle Reserve.",
+                  "text": "Liebesstrand – romantischer Ort mit Sonnenuntergängen und sanften Wellen.",
                   "category": "recreational",
                   "coords": [
                         -96.509372,
@@ -7038,7 +7038,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Panteon",
-                  "text": "Playa Panteon ist ein Strand in der La Ventanilla Turtle Reserve.",
+                  "text": "Strand neben einem Friedhof, der ein einzigartiges kulturelles Erlebnis bietet.",
                   "category": "recreational",
                   "coords": [
                         -96.495612,
@@ -7047,7 +7047,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Faro de Puerto Ângel",
-                  "text": "Faro de Puerto Ángel ist ein Leuchtturm in der La Ventanilla Turtle Reserve.",
+                  "text": "Leuchtturm von Puerto Ángel, der die Schiffe entlang der oaxacanischen Küste führt.",
                   "category": "landmark",
                   "coords": [
                         -96.500222,
@@ -7056,7 +7056,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Boquilla",
-                  "text": "La Boquilla ist ein Strand in der La Ventanilla Turtle Reserve.",
+                  "text": "‚Der kleine Mund‘ – eine schmale Bucht, perfekt zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         -96.465128,
@@ -7065,7 +7065,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "playa Cabanas abandonadas",
-                  "text": "Playa Cabanas abandonadas ist ein Strand in der La Ventanilla Turtle Reserve.",
+                  "text": "Strand mit verlassenen Hütten, beliebt für Fotografie.",
                   "category": "recreational",
                   "coords": [
                         -96.390553,
@@ -7076,7 +7076,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Playa Camarón",
-                  "text": "Camarón strand a La Ventanilla körzetben.",
+                  "text": "Homokos 'Garnélarák-part', garnélájáról ismert, a Ventanilla Teknős-rezervátum része.",
                   "category": "recreational",
                   "coords": [
                         -96.525803,
@@ -7094,7 +7094,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zapotengo beach",
-                  "text": "Zapotengo strand a La Ventanilla körzetben.",
+                  "text": "Homokos part Zapote-fákkal szegélyezve, népszerű teknős fészkelőhely.",
                   "category": "recreational",
                   "coords": [
                         -96.40539,
@@ -7103,7 +7103,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura Petra Valle",
-                  "text": "Petra Valle Kulturális Ház egy színház a La Ventanilla körzetben.",
+                  "text": "Petra Valle-ról elnevezett kulturális központ, helyi művészetet és történelmet bemutatva.",
                   "category": "cultural",
                   "coords": [
                         -96.465384,
@@ -7112,7 +7112,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Estacahuite",
-                  "text": "Estacahuite strand a La Ventanilla körzetben.",
+                  "text": "Félreeső strand nyugodt vízzel, ideális úszáshoz és kajakozáshoz.",
                   "category": "recreational",
                   "coords": [
                         -96.482102,
@@ -7121,7 +7121,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Rancho Los Mangos",
-                  "text": "Rancho Los Mangos egy kemping a La Ventanilla körzetben.",
+                  "text": "Egykori mangóültetvény, ma természetes menedékhely.",
                   "category": "landmark",
                   "coords": [
                         -96.520484,
@@ -7130,7 +7130,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Shambhala",
-                  "text": "Shambhala strand a La Ventanilla körzetben.",
+                  "text": "Spirituális tematikájú part, híres jóga-elvonulásairól és békés légköréről.",
                   "category": "recreational",
                   "coords": [
                         -96.522944,
@@ -7139,7 +7139,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Zipolite",
-                  "text": "Playa Zipolite egy látványosság a La Ventanilla Turtle Reserve-ben.",
+                  "text": "A Playa Zipolite egy textil nélküli strand erős hullámokkal a Ventanilla Teknősrezervátum közelében.",
                   "category": "landmark",
                   "coords": [
                         -96.515942,
@@ -7148,7 +7148,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa del amor",
-                  "text": "Playa del amor egy strand a La Ventanilla Turtle Reserve-ben.",
+                  "text": "Szeretet-part – romantikus hely naplementékkel és lassú hullámokkal.",
                   "category": "recreational",
                   "coords": [
                         -96.509372,
@@ -7157,7 +7157,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Panteon",
-                  "text": "Playa Panteon egy strand a La Ventanilla Turtle Reserve-ben.",
+                  "text": "Temető melletti part, egyedi kulturális élményt nyújtva.",
                   "category": "recreational",
                   "coords": [
                         -96.495612,
@@ -7166,7 +7166,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Faro de Puerto Ângel",
-                  "text": "Faro de Puerto Ángel egy világítótorony a La Ventanilla Turtle Reserve-ben.",
+                  "text": "Puerto Ángel világítótorony, amely a hajókat vezeti Oaxaca partjai mentén.",
                   "category": "landmark",
                   "coords": [
                         -96.500222,
@@ -7175,7 +7175,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Boquilla",
-                  "text": "La Boquilla egy strand a La Ventanilla Turtle Reserve-ben.",
+                  "text": "'A kis száj' – egy keskeny öböl, tökéletes úszáshoz.",
                   "category": "recreational",
                   "coords": [
                         -96.465128,
@@ -7184,7 +7184,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "playa Cabanas abandonadas",
-                  "text": "Playa Cabanas abandonadas egy strand a La Ventanilla Turtle Reserve-ben.",
+                  "text": "Part elhagyott kunyhókkal, népszerű fotózásra.",
                   "category": "recreational",
                   "coords": [
                         -96.390553,
@@ -7195,7 +7195,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Playa Camarón",
-                  "text": "Plaja Camarón în zona La Ventanilla.",
+                  "text": "Plajă nisipoasă numită 'Plaja Creveților', cunoscută pentru creveți, parte a Rezervației de Țestoase Ventanilla.",
                   "category": "recreational",
                   "coords": [
                         -96.525803,
@@ -7213,7 +7213,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zapotengo beach",
-                  "text": "Plaja Zapotengo în zona La Ventanilla.",
+                  "text": "Plajă nisipoasă mărginită de copaci Zapote, populară pentru cuibăritul țestoaselor.",
                   "category": "recreational",
                   "coords": [
                         -96.40539,
@@ -7222,7 +7222,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura Petra Valle",
-                  "text": "Casa de Cultură Petra Valle este un teatru în zona La Ventanilla.",
+                  "text": "Centru cultural numit după Petra Valle, care prezintă arta și istoria locală.",
                   "category": "cultural",
                   "coords": [
                         -96.465384,
@@ -7231,7 +7231,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Estacahuite",
-                  "text": "Plaja Estacahuite în zona La Ventanilla.",
+                  "text": "Plajă izolată cu ape liniștite, ideală pentru înot și caiac.",
                   "category": "recreational",
                   "coords": [
                         -96.482102,
@@ -7240,7 +7240,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Rancho Los Mangos",
-                  "text": "Rancho Los Mangos este un camping în zona La Ventanilla.",
+                  "text": "Fostă plantație de mango, acum un refugiu natural.",
                   "category": "landmark",
                   "coords": [
                         -96.520484,
@@ -7249,7 +7249,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Shambhala",
-                  "text": "Plaja Shambhala în zona La Ventanilla.",
+                  "text": "Plajă cu temă spirituală, cunoscută pentru retragerile de yoga și atmosfera liniștită.",
                   "category": "recreational",
                   "coords": [
                         -96.522944,
@@ -7258,7 +7258,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Zipolite",
-                  "text": "Playa Zipolite este o atracție în La Ventanilla Turtle Reserve.",
+                  "text": "Playa Zipolite este o plajă pentru nudism cu valuri puternice lângă Rezervația de Țestoase Ventanilla.",
                   "category": "landmark",
                   "coords": [
                         -96.515942,
@@ -7267,7 +7267,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa del amor",
-                  "text": "Playa del amor este o plajă în La Ventanilla Turtle Reserve.",
+                  "text": "Plaja Iubirii – loc romantic cu apusuri și valuri line.",
                   "category": "recreational",
                   "coords": [
                         -96.509372,
@@ -7276,7 +7276,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Panteon",
-                  "text": "Playa Panteon este o plajă în La Ventanilla Turtle Reserve.",
+                  "text": "Plajă adiacentă unui cimitir, oferind o experiență culturală unică.",
                   "category": "recreational",
                   "coords": [
                         -96.495612,
@@ -7285,7 +7285,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Faro de Puerto Ângel",
-                  "text": "Faro de Puerto Ángel este un far în La Ventanilla Turtle Reserve.",
+                  "text": "Farul din Puerto Ángel, care ghidează navele de-a lungul coastei Oaxacăi.",
                   "category": "landmark",
                   "coords": [
                         -96.500222,
@@ -7294,7 +7294,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Boquilla",
-                  "text": "La Boquilla este o plajă în La Ventanilla Turtle Reserve.",
+                  "text": "'Gurița' – un golf îngust, perfect pentru înot.",
                   "category": "recreational",
                   "coords": [
                         -96.465128,
@@ -7303,7 +7303,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "playa Cabanas abandonadas",
-                  "text": "Playa Cabanas abandonadas este o plajă în La Ventanilla Turtle Reserve.",
+                  "text": "Plajă cu cabane abandonate, populară pentru fotografie.",
                   "category": "recreational",
                   "coords": [
                         -96.390553,
@@ -7314,7 +7314,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Playa Camarón",
-                  "text": "Camarón beach in the La Ventanilla area.",
+                  "text": "Sandy beach named 'Shrimp Beach', known for shrimp, part of the Ventanilla Turtle Reserve.",
                   "category": "recreational",
                   "coords": [
                         -96.525803,
@@ -7332,7 +7332,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zapotengo beach",
-                  "text": "Zapotengo beach in the La Ventanilla area.",
+                  "text": "Sandy beach lined with zapote trees, popular for turtle nesting.",
                   "category": "recreational",
                   "coords": [
                         -96.40539,
@@ -7341,7 +7341,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de Cultura Petra Valle",
-                  "text": "Petra Valle Cultural House is a theatre in the La Ventanilla area.",
+                  "text": "Cultural center named after Petra Valle, showcasing local art and history.",
                   "category": "cultural",
                   "coords": [
                         -96.465384,
@@ -7350,7 +7350,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Estacahuite",
-                  "text": "Estacahuite beach in the La Ventanilla area.",
+                  "text": "Secluded beach with calm waters, ideal for swimming and kayaking.",
                   "category": "recreational",
                   "coords": [
                         -96.482102,
@@ -7359,7 +7359,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Rancho Los Mangos",
-                  "text": "Rancho Los Mangos is a camp site in the La Ventanilla area.",
+                  "text": "Former mango plantation now a nature retreat.",
                   "category": "landmark",
                   "coords": [
                         -96.520484,
@@ -7368,7 +7368,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Shambhala",
-                  "text": "Shambhala beach in the La Ventanilla area.",
+                  "text": "Spiritual-themed beach known for its yoga retreats and peaceful atmosphere.",
                   "category": "recreational",
                   "coords": [
                         -96.522944,
@@ -7377,7 +7377,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Zipolite",
-                  "text": "Playa Zipolite is an attraction in the La Ventanilla Turtle Reserve.",
+                  "text": "Playa Zipolite is a clothing-optional beach with powerful waves near the Ventanilla Turtle Reserve.",
                   "category": "landmark",
                   "coords": [
                         -96.515942,
@@ -7386,7 +7386,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa del amor",
-                  "text": "Playa del amor is a beach in the La Ventanilla Turtle Reserve.",
+                  "text": "Love Beach – a romantic spot with sunsets and gentle waves.",
                   "category": "recreational",
                   "coords": [
                         -96.509372,
@@ -7395,7 +7395,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Panteon",
-                  "text": "Playa Panteon is a beach in the La Ventanilla Turtle Reserve.",
+                  "text": "Beach adjacent to a local cemetery, offering a unique cultural experience.",
                   "category": "recreational",
                   "coords": [
                         -96.495612,
@@ -7404,7 +7404,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Faro de Puerto Ângel",
-                  "text": "Faro de Puerto Ángel is a lighthouse in the La Ventanilla Turtle Reserve.",
+                  "text": "Lighthouse at Puerto Ángel, guiding ships along the Oaxacan coast.",
                   "category": "landmark",
                   "coords": [
                         -96.500222,
@@ -7413,7 +7413,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Boquilla",
-                  "text": "La Boquilla is a beach in the La Ventanilla Turtle Reserve.",
+                  "text": "The Little Mouth – a narrow cove beach perfect for swimming.",
                   "category": "recreational",
                   "coords": [
                         -96.465128,
@@ -7422,7 +7422,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "playa Cabanas abandonadas",
-                  "text": "Playa Cabanas abandonadas is a beach in the La Ventanilla Turtle Reserve.",
+                  "text": "Abandoned Cabins Beach – a sandy shore with derelict structures, popular for photography.",
                   "category": "recreational",
                   "coords": [
                         -96.390553,
@@ -7593,7 +7593,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Crossing point.",
-                  "text": "Ein Übergangspunkt auf der Isla Holbox.",
+                  "text": "Fährüberfahrtspunkt zur Insel Holbox von Chiquilá aus.",
                   "category": "landmark",
                   "coords": [
                         -87.344825,
@@ -7602,7 +7602,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa mosquito",
-                  "text": "Playa Mosquito ist ein Strand auf der Isla Holbox.",
+                  "text": "Moskitostrand – ein abgelegener Sandstrand, bekannt für starke Winde und Kitesurfen.",
                   "category": "landmark",
                   "coords": [
                         -87.355819,
@@ -7611,7 +7611,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Punta Mosquito",
-                  "text": "Mosquito Point ist ein Aussichtspunkt oder Strand auf der Isla Holbox.",
+                  "text": "Punkt der Insel mit Panoramablick und einer flachen Sandbank.",
                   "category": "landmark",
                   "coords": [
                         -87.353117,
@@ -7620,7 +7620,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Bonita Playa",
-                  "text": "Bonita Playa ist ein Aussichtspunkt auf der Isla Holbox mit schöner Aussicht.",
+                  "text": "Unberührter weißer Sandstrand mit türkisfarbenem Wasser.",
                   "category": "natural",
                   "coords": [
                         -87.360938,
@@ -7638,7 +7638,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Punta Cocos",
-                  "text": "Punta Cocos ist ein bekanntes Ausflugsziel auf Isla Holbox.",
+                  "text": "Felsige Landzunge mit Kokospalmen und einem kleinen Leuchtturm.",
                   "category": "landmark",
                   "coords": [
                         -87.392467,
@@ -7667,7 +7667,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Crossing point.",
-                  "text": "Egy átkelőhely Isla Holboxon.",
+                  "text": "Komphajó-átkelőhely Holbox szigetére Chiquilából.",
                   "category": "landmark",
                   "coords": [
                         -87.344825,
@@ -7676,7 +7676,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa mosquito",
-                  "text": "A Playa Mosquito egy strand Isla Holboxon.",
+                  "text": "Szúnyog-part – egy távoli homokos part, erős széléről és kitesurfingjéről ismert.",
                   "category": "landmark",
                   "coords": [
                         -87.355819,
@@ -7685,7 +7685,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Punta Mosquito",
-                  "text": "A Mosquito Point egy kilátó vagy strand Isla Holboxon.",
+                  "text": "A sziget pontja panorámás kilátással és sekély homokzátonnyal.",
                   "category": "landmark",
                   "coords": [
                         -87.353117,
@@ -7694,7 +7694,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Bonita Playa",
-                  "text": "A Bonita Playa egy kilátó Isla Holboxon, gyönyörű kilátással.",
+                  "text": "Érintetlen fehér homokos part türkizkék vízzel.",
                   "category": "natural",
                   "coords": [
                         -87.360938,
@@ -7712,7 +7712,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Punta Cocos",
-                  "text": "Punta Cocos egy népszerű látványosság Isla Holboxon.",
+                  "text": "Sziklás földnyelv kókuszpálmákkal és egy kis világítótoronnyal.",
                   "category": "landmark",
                   "coords": [
                         -87.392467,
@@ -7741,7 +7741,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Crossing point.",
-                  "text": "Un punct de trecere pe Isla Holbox.",
+                  "text": "Punct de traversare cu feribotul către insula Holbox din Chiquilá.",
                   "category": "landmark",
                   "coords": [
                         -87.344825,
@@ -7750,7 +7750,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa mosquito",
-                  "text": "Playa Mosquito este o plajă pe Isla Holbox.",
+                  "text": "Plaja Țânțarilor – o întindere îndepărtată de nisip, cunoscută pentru vânturi puternice și kitesurfing.",
                   "category": "landmark",
                   "coords": [
                         -87.355819,
@@ -7759,7 +7759,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Punta Mosquito",
-                  "text": "Mosquito Point este un punct de belvedere sau o plajă pe Isla Holbox.",
+                  "text": "Punct al insulei cu vederi panoramice și o bancă de nisip mică.",
                   "category": "landmark",
                   "coords": [
                         -87.353117,
@@ -7768,7 +7768,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Bonita Playa",
-                  "text": "Bonita Playa este un punct de belvedere pe Isla Holbox, cu o vedere frumoasă.",
+                  "text": "Plajă curată de nisip alb cu ape turcoaz.",
                   "category": "natural",
                   "coords": [
                         -87.360938,
@@ -7786,7 +7786,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Punta Cocos",
-                  "text": "Punta Cocos este o atracție populară pe insula Isla Holbox.",
+                  "text": "Promontoriu stâncos cu palmieri de cocos și un far mic.",
                   "category": "landmark",
                   "coords": [
                         -87.392467,
@@ -7815,7 +7815,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Crossing point.",
-                  "text": "A crossing point on Isla Holbox.",
+                  "text": "Ferry crossing point to Holbox island from Chiquilá.",
                   "category": "landmark",
                   "coords": [
                         -87.344825,
@@ -7824,7 +7824,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa mosquito",
-                  "text": "Playa Mosquito is a beach on Isla Holbox.",
+                  "text": "Mosquito Beach – a remote stretch of sand known for strong winds and kite surfing.",
                   "category": "landmark",
                   "coords": [
                         -87.355819,
@@ -7833,7 +7833,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mosquito Point",
-                  "text": "Mosquito Point is a viewpoint or beach on Isla Holbox.",
+                  "text": "Point of the island with panoramic views and a shallow sandbar.",
                   "category": "landmark",
                   "coords": [
                         -87.353117,
@@ -7842,7 +7842,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Bonita Playa",
-                  "text": "Bonita Playa is a viewpoint on Isla Holbox with a beautiful view.",
+                  "text": "Pristine white-sand beach with turquoise waters.",
                   "category": "natural",
                   "coords": [
                         -87.360938,
@@ -7860,7 +7860,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Punta Cocos",
-                  "text": "Punta Cocos is a popular attraction on Isla Holbox.",
+                  "text": "Rocky outcrop with coconut palms and a small lighthouse.",
                   "category": "landmark",
                   "coords": [
                         -87.392467,
@@ -7931,7 +7931,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Gran Puerto",
-                  "text": "Gran Puerto ist ein großer Hafen in Isla Mujeres.",
+                  "text": "Hauptfährenhafen, der Isla Mujeres mit Cancún verbindet.",
                   "category": "landmark",
                   "coords": [
                         -86.807071,
@@ -7940,7 +7940,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Tiburón",
-                  "text": "Playa Tiburón ist eine Attraktion in Isla Mujeres.",
+                  "text": "Haistrand – benannt nach den Walhaien, die in der Nähe vorkommen.",
                   "category": "landmark",
                   "coords": [
                         -86.733482,
@@ -7949,7 +7949,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Escalera Arcoiris",
-                  "text": "Die Rainbow Steps sind bunte Stufen in Isla Mujeres.",
+                  "text": "Bunt bemalte Regenbogentreppe an der Hauptstraße der Insel.",
                   "category": "landmark",
                   "coords": [
                         -86.727079,
@@ -7958,7 +7958,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento a los Maestros",
-                  "text": "Das Monumento a los Maestros ist ein Denkmal für Lehrer in Isla Mujeres.",
+                  "text": "Denkmal für Lehrer – eine Skulptur zu Ehren von Pädagogen auf dem Hauptplatz.",
                   "category": "historical",
                   "coords": [
                         -86.728074,
@@ -7967,7 +7967,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Marina Puerto Isla Mujeres - Villa Vera",
-                  "text": "Marina Puerto Isla Mujeres – Villa Vera ist ein Jachthafen in Isla Mujeres.",
+                  "text": "Jachthafen mit Anlegestegen und Bootsverleih, Teil des Villa-Vera-Resorts.",
                   "category": "landmark",
                   "coords": [
                         -86.736879,
@@ -7976,7 +7976,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Varadero Puerto Isla Mujeres",
-                  "text": "Shipyard Puerto Isla Mujeres ist eine Werft in Isla Mujeres.",
+                  "text": "Werft für Bootsreparaturen und Lagerung nahe der Marina.",
                   "category": "landmark",
                   "coords": [
                         -86.738175,
@@ -7994,7 +7994,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo historico fotografico",
-                  "text": "Das Museo historico fotografico ist ein historisches Fotomuseum in Isla Mujeres.",
+                  "text": "Historisches Fotomuseum mit Bildern der Inselvergangenheit.",
                   "category": "museum",
                   "coords": [
                         -86.745628,
@@ -8003,7 +8003,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Esduma La Perla Hotel Isla Mujeres",
-                  "text": "Esduma La Perla Hotel Isla Mujeres ist ein Strandabschnitt in Isla Mujeres.",
+                  "text": "Hotel mit Swimmingpool und Strandzugang, genannt ‚Die Perle‘.",
                   "category": "recreational",
                   "coords": [
                         -86.746425,
@@ -8012,7 +8012,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Norte",
-                  "text": "Playa Centro ist ein Aussichtspunkt in Isla Mujeres.",
+                  "text": "Zentraler Strand – beliebter öffentlicher Strand mit ruhigem Wasser und Einrichtungen.",
                   "category": "natural",
                   "coords": [
                         -86.751237,
@@ -8021,7 +8021,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Norte",
-                  "text": "North Beach ist ein beliebter Strand in Isla Mujeres.",
+                  "text": "Nordstrand – breiter Sandstrand mit flachem Wasser, ideal für Familien.",
                   "category": "recreational",
                   "coords": [
                         -86.750993,
@@ -8066,7 +8066,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Iguana",
-                  "text": "Ein beliebter Ort auf Isla Mujeres, um Leguane zu beobachten.",
+                  "text": "Große Leguan-Skulptur, ein Wahrzeichen der Insel.",
                   "category": "landmark",
                   "coords": [
                         -86.713077,
@@ -8084,7 +8084,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Snorkelling",
-                  "text": "Ein beliebtes Schnorchelgebiet auf Isla Mujeres.",
+                  "text": "Schnorchelplatz am Korallenriff mit vielen tropischen Fischen.",
                   "category": "landmark",
                   "coords": [
                         -86.717591,
@@ -8120,7 +8120,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa El Niño",
-                  "text": "Ein Strand auf Isla Mujeres, bekannt für seine sanften Wellen.",
+                  "text": "Kinderstrand – kleine geschützte Bucht mit sanften Wellen, sicher für Kinder.",
                   "category": "recreational",
                   "coords": [
                         -86.805971,
@@ -8156,7 +8156,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque de los Sueños",
-                  "text": "Ein Strandpark auf Isla Mujeres, ideal zur Erholung.",
+                  "text": "Park der Träume – Meerespark mit Skulpturen, Kunstinstallationen und einem Spielplatz.",
                   "category": "recreational",
                   "coords": [
                         -86.721596,
@@ -8176,7 +8176,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Gran Puerto",
-                  "text": "Gran Puerto egy nagy kikötő Isla Mujeresen.",
+                  "text": "Fő kompkikötő, amely Isla Mujerest Cancúnnal köti össze.",
                   "category": "landmark",
                   "coords": [
                         -86.807071,
@@ -8185,7 +8185,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Tiburón",
-                  "text": "Playa Tiburón egy attrakció Isla Mujeresen.",
+                  "text": "Cápa-part – a közelben előforduló bálna- cápákról elnevezve.",
                   "category": "landmark",
                   "coords": [
                         -86.733482,
@@ -8194,7 +8194,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Escalera Arcoiris",
-                  "text": "A Rainbow Steps színes lépcsők Isla Mujeresen.",
+                  "text": "Szivárvány színűre festett lépcső a sziget főutcáján.",
                   "category": "landmark",
                   "coords": [
                         -86.727079,
@@ -8203,7 +8203,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento a los Maestros",
-                  "text": "A Monumento a los Maestros a tanárok emlékműve Isla Mujeresen.",
+                  "text": "Tanárok emlékműve – szobor a pedagógusok tiszteletére a főtéren.",
                   "category": "historical",
                   "coords": [
                         -86.728074,
@@ -8212,7 +8212,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Marina Puerto Isla Mujeres - Villa Vera",
-                  "text": "Marina Puerto Isla Mujeres – Villa Vera egy kikötő Isla Mujeresen.",
+                  "text": "Kikötő dokkokkal és hajókölcsönzéssel, a Villa Vera üdülő része.",
                   "category": "landmark",
                   "coords": [
                         -86.736879,
@@ -8221,7 +8221,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Varadero Puerto Isla Mujeres",
-                  "text": "Shipyard Puerto Isla Mujeres egy hajógyár Isla Mujeresen.",
+                  "text": "Hajójavító és tároló műhely a kikötő közelében.",
                   "category": "landmark",
                   "coords": [
                         -86.738175,
@@ -8239,7 +8239,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo historico fotografico",
-                  "text": "A Museo historico fotografico egy történelmi fotómúzeum Isla Mujeresen.",
+                  "text": "Történelmi fotómúzeum, amely a sziget múltját bemutató képekkel rendelkezik.",
                   "category": "museum",
                   "coords": [
                         -86.745628,
@@ -8248,7 +8248,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Esduma La Perla Hotel Isla Mujeres",
-                  "text": "Esduma La Perla Hotel Isla Mujeres egy strandrész Isla Mujeresen.",
+                  "text": "Szálloda úszómedencével és strandhozzáféréssel, 'A Gyöngy' néven.",
                   "category": "recreational",
                   "coords": [
                         -86.746425,
@@ -8257,7 +8257,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Norte",
-                  "text": "Playa Centro egy kilátópont Isla Mujeresen.",
+                  "text": "Központi strand – népszerű nyilvános part nyugodt vízzel és szolgáltatásokkal.",
                   "category": "natural",
                   "coords": [
                         -86.751237,
@@ -8266,7 +8266,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Norte",
-                  "text": "North Beach egy népszerű strand Isla Mujeresen.",
+                  "text": "Északi strand – széles homokos part sekély vízzel, családok számára kiváló.",
                   "category": "recreational",
                   "coords": [
                         -86.750993,
@@ -8311,7 +8311,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Iguana",
-                  "text": "Egy népszerű hely Isla Mujeres szigetén, ahol leguánokat lehet látni.",
+                  "text": "Nagy leguánszobor, a sziget egyik jelképe.",
                   "category": "landmark",
                   "coords": [
                         -86.713077,
@@ -8329,7 +8329,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Snorkelling",
-                  "text": "Egy népszerű sznorkelezőhely Isla Mujeres szigetén.",
+                  "text": "Búvárkodó hely a korallzátonynál, rengeteg trópusi hallal.",
                   "category": "landmark",
                   "coords": [
                         -86.717591,
@@ -8365,7 +8365,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa El Niño",
-                  "text": "Egy strand Isla Mujeres szigetén, gyengéd hullámairól ismert.",
+                  "text": "Gyermekpart – kis védett öböl enyhe hullámokkal, gyerekek számára biztonságos.",
                   "category": "recreational",
                   "coords": [
                         -86.805971,
@@ -8401,7 +8401,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque de los Sueños",
-                  "text": "Egy strandpark Isla Mujeres szigetén, pihenésre alkalmas.",
+                  "text": "Álmok parkja – tengerparti park szobrokkal, művészeti installációkkal és játszótérrel.",
                   "category": "recreational",
                   "coords": [
                         -86.721596,
@@ -8421,7 +8421,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Gran Puerto",
-                  "text": "Gran Puerto este un port mare în Isla Mujeres.",
+                  "text": "Port principal de feribot care leagă Isla Mujeres de Cancun.",
                   "category": "landmark",
                   "coords": [
                         -86.807071,
@@ -8430,7 +8430,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Tiburón",
-                  "text": "Playa Tiburón este o atracție în Isla Mujeres.",
+                  "text": "Plaja Rechinilor – numită după rechinii-balenă care frecventează apele din apropiere.",
                   "category": "landmark",
                   "coords": [
                         -86.733482,
@@ -8439,7 +8439,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Escalera Arcoiris",
-                  "text": "Rainbow Steps sunt trepte colorate în Isla Mujeres.",
+                  "text": "Scară pictată în culorile curcubeului pe strada principală a insulei.",
                   "category": "landmark",
                   "coords": [
                         -86.727079,
@@ -8448,7 +8448,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento a los Maestros",
-                  "text": "Monumento a los Maestros este un monument al profesorilor din Isla Mujeres.",
+                  "text": "Monumentul Profesorilor – o sculptură care onorează educatorii, în piața principală.",
                   "category": "historical",
                   "coords": [
                         -86.728074,
@@ -8457,7 +8457,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Marina Puerto Isla Mujeres - Villa Vera",
-                  "text": "Marina Puerto Isla Mujeres – Villa Vera este o marină în Isla Mujeres.",
+                  "text": "Marină cu docuri și închirieri de bărci, parte a complexului Villa Vera.",
                   "category": "landmark",
                   "coords": [
                         -86.736879,
@@ -8466,7 +8466,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Varadero Puerto Isla Mujeres",
-                  "text": "Shipyard Puerto Isla Mujeres este un șantier naval în Isla Mujeres.",
+                  "text": "Șantier naval pentru repararea și depozitarea ambarcațiunilor lângă marină.",
                   "category": "landmark",
                   "coords": [
                         -86.738175,
@@ -8484,7 +8484,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo historico fotografico",
-                  "text": "Museo historico fotografico este un muzeu istoric de fotografie în Isla Mujeres.",
+                  "text": "Muzeu istoric de fotografie care prezintă imagini ale trecutului insulei.",
                   "category": "museum",
                   "coords": [
                         -86.745628,
@@ -8493,7 +8493,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Esduma La Perla Hotel Isla Mujeres",
-                  "text": "Esduma La Perla Hotel Isla Mujeres este o porțiune de plajă în Isla Mujeres.",
+                  "text": "Hotel cu piscină și acces la plajă, numit 'Perla'.",
                   "category": "recreational",
                   "coords": [
                         -86.746425,
@@ -8502,7 +8502,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Norte",
-                  "text": "Playa Centro este un punct de belvedere în Isla Mujeres.",
+                  "text": "Plaja Centrală – plajă publică populară, cu ape liniștite și facilități.",
                   "category": "natural",
                   "coords": [
                         -86.751237,
@@ -8511,7 +8511,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Norte",
-                  "text": "North Beach este o plajă populară în Isla Mujeres.",
+                  "text": "Plaja de Nord – plajă largă nisipoasă cu apă mică, perfectă pentru familii.",
                   "category": "recreational",
                   "coords": [
                         -86.750993,
@@ -8556,7 +8556,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Iguana",
-                  "text": "Un loc popular pe Insula Isla Mujeres pentru a vedea iguane.",
+                  "text": "Sculptură mare de iguana, simbol al insulei.",
                   "category": "landmark",
                   "coords": [
                         -86.713077,
@@ -8574,7 +8574,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Snorkelling",
-                  "text": "O zonă populară de snorkeling pe Insula Isla Mujeres.",
+                  "text": "Loc de snorkeling lângă reciful de corali, abundent în pești tropicali.",
                   "category": "landmark",
                   "coords": [
                         -86.717591,
@@ -8610,7 +8610,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa El Niño",
-                  "text": "O plajă pe Insula Isla Mujeres, cunoscută pentru valurile sale blânde.",
+                  "text": "Plaja Copiilor – mic golf adăpostit cu valuri line, sigur pentru copii.",
                   "category": "recreational",
                   "coords": [
                         -86.805971,
@@ -8646,7 +8646,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque de los Sueños",
-                  "text": "Un parc de plajă pe Insula Isla Mujeres, ideal pentru relaxare.",
+                  "text": "Parcul Visurilor – parc pe malul mării cu sculpturi, instalații de artă și un loc de joacă.",
                   "category": "recreational",
                   "coords": [
                         -86.721596,
@@ -8666,7 +8666,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Gran Puerto",
-                  "text": "Gran Puerto is a large port in Isla Mujeres.",
+                  "text": "Main ferry port connecting Isla Mujeres to Cancun.",
                   "category": "landmark",
                   "coords": [
                         -86.807071,
@@ -8675,7 +8675,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Tiburón",
-                  "text": "Playa Tiburón is an attraction in Isla Mujeres.",
+                  "text": "Shark Beach – named after the whale sharks that frequent nearby waters.",
                   "category": "landmark",
                   "coords": [
                         -86.733482,
@@ -8684,7 +8684,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Rainbow Steps",
-                  "text": "The Rainbow Steps are colorful steps in Isla Mujeres.",
+                  "text": "Painted rainbow-colored staircase on the island's main street.",
                   "category": "landmark",
                   "coords": [
                         -86.727079,
@@ -8693,7 +8693,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento a los Maestros",
-                  "text": "Monumento a los Maestros is a monument to teachers in Isla Mujeres.",
+                  "text": "Monument to Teachers – a sculpture honoring educators in the town square.",
                   "category": "historical",
                   "coords": [
                         -86.728074,
@@ -8702,7 +8702,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Marina Puerto Isla Mujeres - Villa Vera",
-                  "text": "Marina Puerto Isla Mujeres – Villa Vera is a marina in Isla Mujeres.",
+                  "text": "Marina with docks and boat rentals, part of the Villa Vera resort.",
                   "category": "landmark",
                   "coords": [
                         -86.736879,
@@ -8711,7 +8711,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Shipyard Puerto Isla Mujeres",
-                  "text": "Shipyard Puerto Isla Mujeres is a shipyard in Isla Mujeres.",
+                  "text": "Shipyard for boat repairs and storage near the marina.",
                   "category": "landmark",
                   "coords": [
                         -86.738175,
@@ -8729,7 +8729,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo historico fotografico",
-                  "text": "Museo historico fotografico is a historical photography museum in Isla Mujeres.",
+                  "text": "Historical Photography Museum displaying images of the island's past.",
                   "category": "museum",
                   "coords": [
                         -86.745628,
@@ -8738,7 +8738,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Esduma La Perla Hotel Isla Mujeres",
-                  "text": "Esduma La Perla Hotel Isla Mujeres is a beach section in Isla Mujeres.",
+                  "text": "Hotel with a swimming pool and beach access, named 'The Pearl'.",
                   "category": "recreational",
                   "coords": [
                         -86.746425,
@@ -8747,7 +8747,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa Centro",
-                  "text": "Playa Centro is a viewpoint in Isla Mujeres.",
+                  "text": "Central Beach – a popular public beach with calm waters and amenities.",
                   "category": "natural",
                   "coords": [
                         -86.751237,
@@ -8756,7 +8756,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "North Beach",
-                  "text": "North Beach is a popular beach in Isla Mujeres.",
+                  "text": "North Beach – a wide sandy shore with shallow water, great for families.",
                   "category": "recreational",
                   "coords": [
                         -86.750993,
@@ -8801,7 +8801,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Iguana",
-                  "text": "A popular spot on Isla Mujeres to see iguanas.",
+                  "text": "A large sculpture of an iguana, a symbol of the island.",
                   "category": "landmark",
                   "coords": [
                         -86.713077,
@@ -8819,7 +8819,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Snorkelling",
-                  "text": "A popular snorkeling area on Isla Mujeres.",
+                  "text": "Snorkeling spot near the coral reef, abundant with tropical fish.",
                   "category": "landmark",
                   "coords": [
                         -86.717591,
@@ -8855,7 +8855,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Playa El Niño",
-                  "text": "A beach on Isla Mujeres known for its gentle waves.",
+                  "text": "Child Beach – a small sheltered cove with gentle waves, safe for children.",
                   "category": "recreational",
                   "coords": [
                         -86.805971,
@@ -8891,7 +8891,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parque de los Sueños",
-                  "text": "A beach park on Isla Mujeres ideal for relaxation.",
+                  "text": "Park of Dreams – a seaside park with sculptures, art installations, and a playground.",
                   "category": "recreational",
                   "coords": [
                         -86.721596,
@@ -8962,7 +8962,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Cementerio",
-                  "text": "Ein Friedhof auf der Insel Janitzio.",
+                  "text": "Friedhof auf der Insel mit bunten Gräbern mit Blick auf das Meer.",
                   "category": "landmark",
                   "coords": [
                         -101.696852,
@@ -8989,7 +8989,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "salon Robal",
-                  "text": "Ein Veranstaltungsort namens Salon Robal auf der Insel Janitzio.",
+                  "text": "Salon Robal ist ein markantes Gebäude im Stadtzentrum von Island mit traditioneller Fassade.",
                   "category": "landmark",
                   "coords": [
                         -101.604346,
@@ -9016,7 +9016,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Área Natural Protegida Cerro del Estribo Grande",
-                  "text": "Ein geschütztes Naturgebiet am Cerro del Estribo Grande nahe Janitzio.",
+                  "text": "Das Schutzgebiet Cerro del Estribo Grande ist ein Hügel, dessen Form an einen Steigbügel erinnert.",
                   "category": "natural",
                   "coords": [
                         -101.642995,
@@ -9025,7 +9025,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Humedales del lago de Pátzcuaro",
-                  "text": "Die Feuchtgebiete des Pátzcuaro-Sees nahe Janitzio.",
+                  "text": "Die Feuchtgebiete des Pátzcuaro-Sees sind ein wichtiger Lebensraum für Zugvögel.",
                   "category": "natural",
                   "coords": [
                         -101.675191,
@@ -9061,7 +9061,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Posada de Don Vasco",
-                  "text": "Ein Hotel namens Don Vasco Inn auf der Insel Janitzio.",
+                  "text": "Die Posada de Don Vasco ist eine historische Herberge, benannt nach dem Bischof Don Vasco de Quiroga.",
                   "category": "landmark",
                   "coords": [
                         -101.611855,
@@ -9081,7 +9081,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Cementerio",
-                  "text": "Egy temető Janitzio szigetén.",
+                  "text": "Temető a szigeten színes sírokkal, tengerre néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         -101.696852,
@@ -9108,7 +9108,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "salon Robal",
-                  "text": "Egy Salon Robal nevű helyszín Janitzio szigetén.",
+                  "text": "A Salon Robal egy jellegzetes épület Island városközpontjában, hagyományos homlokzattal.",
                   "category": "landmark",
                   "coords": [
                         -101.604346,
@@ -9135,7 +9135,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Área Natural Protegida Cerro del Estribo Grande",
-                  "text": "Egy védett természeti terület a Cerro del Estribo Grandén Janitzio közelében.",
+                  "text": "A Cerro del Estribo Grande védett terület egy domb, amelynek alakja egy kengyelre emlékeztet.",
                   "category": "natural",
                   "coords": [
                         -101.642995,
@@ -9144,7 +9144,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Humedales del lago de Pátzcuaro",
-                  "text": "A Pátzcuaro-tó vizes élőhelyei Janitzio közelében.",
+                  "text": "A Pátzcuaro-tó mocsarai fontos élőhelyet biztosítanak a vándormadaraknak.",
                   "category": "natural",
                   "coords": [
                         -101.675191,
@@ -9180,7 +9180,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Posada de Don Vasco",
-                  "text": "Egy Don Vasco fogadó nevű szálloda Janitzio szigetén.",
+                  "text": "A Posada de Don Vasco egy történelmi fogadó, amely Don Vasco de Quiroga püspökről kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         -101.611855,
@@ -9200,7 +9200,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Cementerio",
-                  "text": "Un cimitir pe insula Janitzio.",
+                  "text": "Cimitir pe insulă, cu morminte viu colorate cu vedere la mare.",
                   "category": "landmark",
                   "coords": [
                         -101.696852,
@@ -9227,7 +9227,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "salon Robal",
-                  "text": "Un local numit Salon Robal pe insula Janitzio.",
+                  "text": "Salon Robal este o clădire emblematică în centrul orașului Island, cu o fațadă tradițională.",
                   "category": "landmark",
                   "coords": [
                         -101.604346,
@@ -9254,7 +9254,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Área Natural Protegida Cerro del Estribo Grande",
-                  "text": "O arie naturală protejată pe Cerro del Estribo Grande lângă Janitzio.",
+                  "text": "Ária naturală protejată Cerro del Estribo Grande este un deal în formă de scară de șa.",
                   "category": "natural",
                   "coords": [
                         -101.642995,
@@ -9263,7 +9263,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Humedales del lago de Pátzcuaro",
-                  "text": "Zona umedă a lacului Pátzcuaro lângă Janitzio.",
+                  "text": "Zonele umede ale Lacului Pátzcuaro sunt un habitat important pentru păsările migratoare.",
                   "category": "natural",
                   "coords": [
                         -101.675191,
@@ -9299,7 +9299,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Posada de Don Vasco",
-                  "text": "Un hotel numit Hanul Don Vasco pe insula Janitzio.",
+                  "text": "Posada de Don Vasco este un han istoric numit după episcopul Don Vasco de Quiroga.",
                   "category": "landmark",
                   "coords": [
                         -101.611855,
@@ -9319,7 +9319,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Cementery",
-                  "text": "A cemetery on Janitzio Island.",
+                  "text": "Cemetery on the island, with brightly colored tombs overlooking the sea.",
                   "category": "landmark",
                   "coords": [
                         -101.696852,
@@ -9346,7 +9346,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "salon Robal",
-                  "text": "A venue called Salon Robal on Janitzio Island.",
+                  "text": "Salon Robal is a landmark building in the center of Island with a traditional façade.",
                   "category": "landmark",
                   "coords": [
                         -101.604346,
@@ -9373,7 +9373,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Área Natural Protegida Cerro del Estribo Grande",
-                  "text": "A protected natural area on Cerro del Estribo Grande near Janitzio.",
+                  "text": "The Cerro del Estribo Grande protected area is a hill shaped like a stirrup.",
                   "category": "natural",
                   "coords": [
                         -101.642995,
@@ -9382,7 +9382,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Humedales del lago de Pátzcuaro",
-                  "text": "The wetlands of Lake Pátzcuaro near Janitzio.",
+                  "text": "The wetlands of Lake Pátzcuaro are a key habitat for migratory birds.",
                   "category": "natural",
                   "coords": [
                         -101.675191,
@@ -9418,7 +9418,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Posada de Don Vasco",
-                  "text": "A hotel called Don Vasco Inn on Janitzio Island.",
+                  "text": "Posada de Don Vasco is a historic inn named after Bishop Don Vasco de Quiroga.",
                   "category": "landmark",
                   "coords": [
                         -101.611855,
@@ -9489,7 +9489,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "El Corralito",
-                  "text": "Ein Strand auf Isla Espíritu Santo.",
+                  "text": "El Corralito ist ein Erholungsgebiet mit einem natürlichen, von Felsen umgebenen Pool.",
                   "category": "recreational",
                   "coords": [
                         -110.371542,
@@ -9498,7 +9498,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Stacked Rocks",
-                  "text": "Aufgestapelte Felsformationen auf Isla Espíritu Santo.",
+                  "text": "Stacked Rocks ist eine Felsformation aus übereinander geschichteten Felsbrocken an der Küste.",
                   "category": "landmark",
                   "coords": [
                         -110.305808,
@@ -9507,7 +9507,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Arch",
-                  "text": "Ein natürlicher Bogen auf Isla Espíritu Santo.",
+                  "text": "Der Bogen (Arch) ist ein natürliches, von Wellen geformtes Felsentor an der Küste von Espiritu Santo.",
                   "category": "landmark",
                   "coords": [
                         -110.335185,
@@ -9516,7 +9516,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Baja Expeditions Eco Camp",
-                  "text": "Ein Öko-Camp-Strand auf Isla Espíritu Santo.",
+                  "text": "Das Baja Expeditions Eco Camp bietet nachhaltige Unterkünfte und geführte Touren auf der Insel an.",
                   "category": "recreational",
                   "coords": [
                         -110.387393,
@@ -9525,7 +9525,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "The Mask",
-                  "text": "Die Maske ist eine Attraktion auf der Insel Espíritu Santo.",
+                  "text": "The Mask ist eine Felsformation, die einem menschlichen Gesicht gleicht, an den Klippen von Espiritu Santo.",
                   "category": "landmark",
                   "coords": [
                         -110.389759,
@@ -9534,7 +9534,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Gallina",
-                  "text": "Isla Gallina ist ein Naturschutzgebiet auf der Insel Espíritu Santo.",
+                  "text": "Isla Gallina ist eine kleine unbewohnte Insel vor Espiritu Santo, bekannt für Seevögel.",
                   "category": "natural",
                   "coords": [
                         -110.383988,
@@ -9552,7 +9552,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Gallo",
-                  "text": "Isla Gallo ist ein Naturschutzgebiet auf der Insel Espíritu Santo.",
+                  "text": "Isla Gallo ist eine felsige Insel nahe Espiritu Santo, ein beliebter Ort zum Tauchen.",
                   "category": "natural",
                   "coords": [
                         -110.385426,
@@ -9561,7 +9561,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Ballena",
-                  "text": "Isla Ballena ist ein Naturschutzgebiet auf der Insel Espíritu Santo.",
+                  "text": "Isla Ballena ist eine walähnlich geformte Insel, Teil des Espiritu Santo Archipels.",
                   "category": "natural",
                   "coords": [
                         -110.403527,
@@ -9570,7 +9570,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Quieta",
-                  "text": "Quieta ist ein Strand auf der Insel Espíritu Santo.",
+                  "text": "Quieta ist eine ruhige Bucht in Espiritu Santo, ideal zum Kajakfahren und Schnorcheln.",
                   "category": "recreational",
                   "coords": [
                         -110.401355,
@@ -9590,7 +9590,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "El Corralito",
-                  "text": "Egy strand Isla Espíritu Santón.",
+                  "text": "Az El Corralito egy természetes, sziklákkal körülvett medencével rendelkező pihenőhely.",
                   "category": "recreational",
                   "coords": [
                         -110.371542,
@@ -9599,7 +9599,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Stacked Rocks",
-                  "text": "Egymásra rakott sziklák Isla Espíritu Santón.",
+                  "text": "A Stacked Rocks egy tengerparti sziklafal, amely egymásra rakott szikladarabokból áll.",
                   "category": "landmark",
                   "coords": [
                         -110.305808,
@@ -9608,7 +9608,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Arch",
-                  "text": "Egy természetes ív Isla Espíritu Santón.",
+                  "text": "Az Arch (Ív) egy természetes tengeri sziklaív, amelyet a hullámok formáltak Espiritu Santo partjainál.",
                   "category": "landmark",
                   "coords": [
                         -110.335185,
@@ -9617,7 +9617,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Baja Expeditions Eco Camp",
-                  "text": "Egy öko-tábor strand Isla Espíritu Santón.",
+                  "text": "A Baja Expeditions Eco Camp fenntartható szállásokat és vezetett túrákat kínál a szigeten.",
                   "category": "recreational",
                   "coords": [
                         -110.387393,
@@ -9626,7 +9626,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "The Mask",
-                  "text": "A Maszk egy látványosság az Espíritu Santo-szigeten.",
+                  "text": "A The Mask egy emberi archoz hasonlító sziklaformáció Espiritu Santo sziklafalain.",
                   "category": "landmark",
                   "coords": [
                         -110.389759,
@@ -9635,7 +9635,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Gallina",
-                  "text": "Isla Gallina egy természetvédelmi terület az Espíritu Santo-szigeten.",
+                  "text": "Az Isla Gallina egy kis lakatlan sziget Espiritu Santo partjainál, tengeri madarak élőhelye.",
                   "category": "natural",
                   "coords": [
                         -110.383988,
@@ -9653,7 +9653,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Gallo",
-                  "text": "Isla Gallo egy természetvédelmi terület az Espíritu Santo-szigeten.",
+                  "text": "Az Isla Gallo egy sziklás sziget Espiritu Santo közelében, népszerű merülőhely.",
                   "category": "natural",
                   "coords": [
                         -110.385426,
@@ -9662,7 +9662,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Ballena",
-                  "text": "Isla Ballena egy természetvédelmi terület az Espíritu Santo-szigeten.",
+                  "text": "Az Isla Ballena egy bálna alakú sziget, az Espiritu Santo szigetcsoport része.",
                   "category": "natural",
                   "coords": [
                         -110.403527,
@@ -9671,7 +9671,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Quieta",
-                  "text": "Quieta egy strand az Espíritu Santo-szigeten.",
+                  "text": "A Quieta egy csendes öböl Espiritu Santóban, ideális kajakozáshoz és snorkelezéshez.",
                   "category": "recreational",
                   "coords": [
                         -110.401355,
@@ -9691,7 +9691,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "El Corralito",
-                  "text": "O plajă pe Isla Espíritu Santo.",
+                  "text": "El Corralito este o zonă de agrement cu o piscină naturală înconjurată de stânci.",
                   "category": "recreational",
                   "coords": [
                         -110.371542,
@@ -9700,7 +9700,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Stacked Rocks",
-                  "text": "Formațiuni de stânci stivuite pe Isla Espíritu Santo.",
+                  "text": "Stacked Rocks este o formațiune stâncoasă formată din bolovani suprapuși pe coastă.",
                   "category": "landmark",
                   "coords": [
                         -110.305808,
@@ -9709,7 +9709,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Arch",
-                  "text": "Un arc natural pe Isla Espíritu Santo.",
+                  "text": "Arch este un arc natural de piatră sculptat de valuri pe țărmul insulei Espiritu Santo.",
                   "category": "landmark",
                   "coords": [
                         -110.335185,
@@ -9718,7 +9718,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Baja Expeditions Eco Camp",
-                  "text": "O plajă de eco-camp pe Isla Espíritu Santo.",
+                  "text": "Baja Expeditions Eco Camp oferă cazare ecologică și tururi ghidate pe insulă.",
                   "category": "recreational",
                   "coords": [
                         -110.387393,
@@ -9727,7 +9727,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "The Mask",
-                  "text": "Masca este o atracție pe insula Espíritu Santo.",
+                  "text": "The Mask este o formațiune stâncoasă ce seamănă cu o față umană pe stâncile din Espiritu Santo.",
                   "category": "landmark",
                   "coords": [
                         -110.389759,
@@ -9736,7 +9736,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Gallina",
-                  "text": "Isla Gallina este o rezervație naturală pe insula Espíritu Santo.",
+                  "text": "Isla Gallina este o insulă mică nelocuită lângă Espiritu Santo, cunoscută pentru coloniile de păsări marine.",
                   "category": "natural",
                   "coords": [
                         -110.383988,
@@ -9754,7 +9754,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Gallo",
-                  "text": "Isla Gallo este o rezervație naturală pe insula Espíritu Santo.",
+                  "text": "Isla Gallo este o insulă stâncoasă lângă Espiritu Santo, loc popular pentru scufundări.",
                   "category": "natural",
                   "coords": [
                         -110.385426,
@@ -9763,7 +9763,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Ballena",
-                  "text": "Isla Ballena este o rezervație naturală pe insula Espíritu Santo.",
+                  "text": "Isla Ballena este o insulă în formă de balenă, parte a arhipelagului Espiritu Santo.",
                   "category": "natural",
                   "coords": [
                         -110.403527,
@@ -9772,7 +9772,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Quieta",
-                  "text": "Quieta este o plajă pe insula Espíritu Santo.",
+                  "text": "Quieta este o golfuleț liniștit în Espiritu Santo, ideal pentru caiac și snorkeling.",
                   "category": "recreational",
                   "coords": [
                         -110.401355,
@@ -9792,7 +9792,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "El Corralito",
-                  "text": "A beach on Isla Espíritu Santo.",
+                  "text": "El Corralito is a recreational area with a natural pool surrounded by rocks.",
                   "category": "recreational",
                   "coords": [
                         -110.371542,
@@ -9801,7 +9801,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Stacked Rocks",
-                  "text": "Stacked rock formations on Isla Espíritu Santo.",
+                  "text": "Stacked Rocks is a rock formation of piled boulders along the coast.",
                   "category": "landmark",
                   "coords": [
                         -110.305808,
@@ -9810,7 +9810,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Arch",
-                  "text": "A natural arch on Isla Espíritu Santo.",
+                  "text": "The Arch is a natural sea arch carved by waves on Espiritu Santo's shoreline.",
                   "category": "landmark",
                   "coords": [
                         -110.335185,
@@ -9819,7 +9819,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Baja Expeditions Eco Camp",
-                  "text": "An eco camp beach on Isla Espíritu Santo.",
+                  "text": "Baja Expeditions Eco Camp offers sustainable lodging and guided tours on the island.",
                   "category": "recreational",
                   "coords": [
                         -110.387393,
@@ -9828,7 +9828,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "The Mask",
-                  "text": "The Mask is an attraction on Espíritu Santo Island.",
+                  "text": "The Mask is a rock formation resembling a human face on the cliffs of Espiritu Santo.",
                   "category": "landmark",
                   "coords": [
                         -110.389759,
@@ -9837,7 +9837,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Gallina",
-                  "text": "Isla Gallina is a nature reserve on Espíritu Santo Island.",
+                  "text": "Isla Gallina is a small uninhabited island off Espiritu Santo, known for seabird colonies.",
                   "category": "natural",
                   "coords": [
                         -110.383988,
@@ -9855,7 +9855,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Gallo",
-                  "text": "Isla Gallo is a nature reserve on Espíritu Santo Island.",
+                  "text": "Isla Gallo is a rocky islet near Espiritu Santo, a popular diving spot.",
                   "category": "natural",
                   "coords": [
                         -110.385426,
@@ -9864,7 +9864,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Isla Ballena",
-                  "text": "Isla Ballena is a nature reserve on Espíritu Santo Island.",
+                  "text": "Isla Ballena is a whale-shaped island within the Espiritu Santo archipelago.",
                   "category": "natural",
                   "coords": [
                         -110.403527,
@@ -9873,7 +9873,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Quieta",
-                  "text": "Quieta is a beach on Espíritu Santo Island.",
+                  "text": "Quieta is a calm cove in Espiritu Santo, perfect for kayaking and snorkeling.",
                   "category": "recreational",
                   "coords": [
                         -110.401355,
@@ -9994,7 +9994,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Playa del amor",
-                  "text": "Liebesstrand, eine Attraktion auf den Marietas-Inseln.",
+                  "text": "Playa del Amor ist ein versteckter Strand auf Isla Mujeres, zugänglich durch einen Felstunnel.",
                   "category": "landmark",
                   "coords": [
                         -105.566719,
@@ -10003,7 +10003,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Snorkelling",
-                  "text": "Schnorchelmöglichkeit auf den Marietas-Inseln.",
+                  "text": "Dieser Schnorchelplatz bietet klares Wasser und eine bunte Unterwasserwelt rund um die Marietas-Inseln.",
                   "category": "landmark",
                   "coords": [
                         -105.577358,
@@ -10023,7 +10023,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Playa del amor",
-                  "text": "A szerelem strandja, látványosság a Marietas-szigeteken.",
+                  "text": "A Playa del Amor egy rejtett strand Isla Mujeresen, amely egy sziklaalagúton keresztül érhető el.",
                   "category": "landmark",
                   "coords": [
                         -105.566719,
@@ -10032,7 +10032,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Snorkelling",
-                  "text": "Búvárkodás a Marietas-szigeteken.",
+                  "text": "Ez a snorkelezőhely tiszta vizet és színes vízi élővilágot kínál a Marietas-szigetek körül.",
                   "category": "landmark",
                   "coords": [
                         -105.577358,
@@ -10052,7 +10052,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Playa del amor",
-                  "text": "Plaja Iubirii, o atracție pe insulele Marietas.",
+                  "text": "Playa del Amor este o plajă ascunsă pe Isla Mujeres, accesibilă printr-un tunel de stâncă.",
                   "category": "landmark",
                   "coords": [
                         -105.566719,
@@ -10061,7 +10061,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Snorkelling",
-                  "text": "Actvitate de snorkelling pe insulele Marietas.",
+                  "text": "Acest loc de snorkeling oferă apă clară și o lume subacvatică colorată în jurul Insulelor Marietas.",
                   "category": "landmark",
                   "coords": [
                         -105.577358,
@@ -10081,7 +10081,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Playa del amor",
-                  "text": "Love Beach, an attraction on the Marietas Islands.",
+                  "text": "Playa del Amor is a hidden beach on Isla Mujeres, accessed through a rock tunnel.",
                   "category": "landmark",
                   "coords": [
                         -105.566719,
@@ -10090,7 +10090,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Snorkelling",
-                  "text": "Snorkelling activity on the Marietas Islands.",
+                  "text": "This snorkeling spot offers clear water and colorful marine life around the Marietas Islands.",
                   "category": "landmark",
                   "coords": [
                         -105.577358,
@@ -10292,7 +10292,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Campo Agavero Turístico",
-                  "text": "Touristisches Agavenfeld in der Agavenregion.",
+                  "text": "Das Campo Agavero Turístico liegt in den Agavenfeldern und bietet einen Panoramablick auf die blauen Agaven.",
                   "category": "landmark",
                   "coords": [
                         -103.819371,
@@ -10301,7 +10301,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Chacuaco",
-                  "text": "Ein Denkmal, das mit der Agavenproduktion verbunden ist.",
+                  "text": "Chacuaco ist ein historischer Mezcal-Brennofen aus Stein im Agavengebiet.",
                   "category": "historical",
                   "coords": [
                         -103.833031,
@@ -10312,7 +10312,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Campo Agavero Turístico",
-                  "text": "Turisztikai agávémező az agávé régióban.",
+                  "text": "A Campo Agavero Turístico az agavemezőkön fekszik, panorámás kilátással a kék agávékra.",
                   "category": "landmark",
                   "coords": [
                         -103.819371,
@@ -10321,7 +10321,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Chacuaco",
-                  "text": "Az agávétermeléshez kapcsolódó emlékmű.",
+                  "text": "A Chacuaco egy történelmi kőből készült mezcalégető kemence az agaveterületen.",
                   "category": "historical",
                   "coords": [
                         -103.833031,
@@ -10332,7 +10332,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Campo Agavero Turístico",
-                  "text": "Câmp turistic de agave în regiunea agavelor.",
+                  "text": "Campo Agavero Turístico este situat în câmpurile de agave, oferind vedere panoramică asupra agavelor albastre.",
                   "category": "landmark",
                   "coords": [
                         -103.819371,
@@ -10341,7 +10341,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Chacuaco",
-                  "text": "Un monument legat de producția de agave.",
+                  "text": "Chacuaco este un cuptor istoric de piatră pentru mezcal în zona agavelor.",
                   "category": "historical",
                   "coords": [
                         -103.833031,
@@ -10352,7 +10352,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Campo Agavero Turístico",
-                  "text": "A tourist agave field in the agave-growing region.",
+                  "text": "Campo Agavero Turístico is a tourist camp in the agave fields with panoramic views of blue agave.",
                   "category": "landmark",
                   "coords": [
                         -103.819371,
@@ -10361,7 +10361,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Chacuaco",
-                  "text": "A monument related to agave production.",
+                  "text": "Chacuaco is a historic stone mezcal oven used for roasting agave in the agave fields.",
                   "category": "historical",
                   "coords": [
                         -103.833031,
@@ -10573,7 +10573,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Balneario El Cerrito",
-                  "text": "Balneario El Cerrito ist ein Wasserpark in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Balneario El Cerrito ist ein natürliches Quellbad mit tropischer Vegetation und Pools.",
                   "category": "recreational",
                   "coords": [
                         -96.759869,
@@ -10582,7 +10582,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona Arqueologica",
-                  "text": "Zona Arqueologica ist eine archäologische Stätte in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Die Zona Arqueologica beherbergt präkolumbische Ruinen und eine Pyramide.",
                   "category": "historical",
                   "coords": [
                         -96.749651,
@@ -10591,7 +10591,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Taller de artes plásticas \"Manos a la obra\"",
-                  "text": "Taller de artes plásticas \"Manos a la obra\" ist ein Kunstzentrum in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Der Workshop 'Manos a la obra' bietet Kurse in traditionellen Kunsthandwerkstechniken an.",
                   "category": "cultural",
                   "coords": [
                         -96.745617,
@@ -10600,7 +10600,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli",
-                  "text": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli ist ein Museum in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Das Museum zeigt die Geschichte der Cochenilleschildlaus (Grana Cochinilla) und ihrer Nutzung als Farbstoff.",
                   "category": "museum",
                   "coords": [
                         -96.710646,
@@ -10609,7 +10609,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Servicio De Banda Musical La Tremenda Aventurera",
-                  "text": "Servicio De Banda Musical La Tremenda Aventurera ist ein Kunstzentrum in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Servicio De Banda Musical La Tremenda Aventurera bietet Live-Musik mit traditionellen mexikanischen Klängen.",
                   "category": "cultural",
                   "coords": [
                         -96.7102,
@@ -10618,7 +10618,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Arte de Santa María Coyotepec",
-                  "text": "Museo de Arte de Santa María Coyotepec ist ein Museum in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Das Museo de Arte de Santa María Coyotepec zeigt zeitgenössische Kunst lokaler Oaxaca-Künstler.",
                   "category": "museum",
                   "coords": [
                         -96.706546,
@@ -10627,7 +10627,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Fuerza Verde Grupo Musical",
-                  "text": "Fuerza Verde Grupo Musical ist ein Kunstzentrum in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Fuerza Verde Grupo Musical unterhält das Publikum mit populären mexikanischen Musikgenres.",
                   "category": "cultural",
                   "coords": [
                         -96.741513,
@@ -10636,7 +10636,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Balneario La Gloria",
-                  "text": "Balneario La Gloria ist ein Wasserpark in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Balneario La Gloria ist ein Wasserpark mit mehreren Pools, Rutschen und Erholungsbereichen.",
                   "category": "recreational",
                   "coords": [
                         -96.778928,
@@ -10645,7 +10645,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "tatro 600 años (el queso)",
-                  "text": "tatro 600 años (el queso) ist ein Theater in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Das Theater 'El Queso' (600 Jahre) ist ein Veranstaltungsort für kulturelle Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         -96.750263,
@@ -10656,7 +10656,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Balneario El Cerrito",
-                  "text": "Balneario El Cerrito egy vízipark oaxaca-mezcal-agave-life-v2-ban.",
+                  "text": "A Balneario El Cerrito egy természetes forrásvízű fürdő trópusi növényzettel és medencékkel.",
                   "category": "recreational",
                   "coords": [
                         -96.759869,
@@ -10665,7 +10665,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona Arqueologica",
-                  "text": "Zona Arqueologica egy régészeti lelőhely oaxaca-mezcal-agave-life-v2-ban.",
+                  "text": "A Zona Arqueologica prekolumbián romokat és egy piramist foglal magában.",
                   "category": "historical",
                   "coords": [
                         -96.749651,
@@ -10674,7 +10674,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Taller de artes plásticas \"Manos a la obra\"",
-                  "text": "Taller de artes plásticas \"Manos a la obra\" egy művészeti központ oaxaca-mezcal-agave-life-v2-ban.",
+                  "text": "A 'Manos a la obra' műhely hagyományos kézműves technikák tanfolyamait kínálja.",
                   "category": "cultural",
                   "coords": [
                         -96.745617,
@@ -10683,7 +10683,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli",
-                  "text": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli egy múzeum oaxaca-mezcal-agave-life-v2-ban.",
+                  "text": "A múzeum a bíbortetű (Grana Cochinilla) történetét és festékként való felhasználását mutatja be.",
                   "category": "museum",
                   "coords": [
                         -96.710646,
@@ -10692,7 +10692,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Servicio De Banda Musical La Tremenda Aventurera",
-                  "text": "Servicio De Banda Musical La Tremenda Aventurera egy művészeti központ oaxaca-mezcal-agave-life-v2-ban.",
+                  "text": "A Servicio De Banda Musical La Tremenda Aventurera élőzenét kínál hagyományos mexikói hangzással.",
                   "category": "cultural",
                   "coords": [
                         -96.7102,
@@ -10701,7 +10701,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Arte de Santa María Coyotepec",
-                  "text": "Museo de Arte de Santa María Coyotepec egy múzeum oaxaca-mezcal-agave-life-v2-ban.",
+                  "text": "A Museo de Arte de Santa María Coyotepec helyi oaxacai művészek kortárs művészetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         -96.706546,
@@ -10710,7 +10710,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Fuerza Verde Grupo Musical",
-                  "text": "Fuerza Verde Grupo Musical egy művészeti központ oaxaca-mezcal-agave-life-v2-ban.",
+                  "text": "A Fuerza Verde Grupo Musical népszerű mexikói zenei műfajokkal szórakoztatja a közönséget.",
                   "category": "cultural",
                   "coords": [
                         -96.741513,
@@ -10719,7 +10719,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Balneario La Gloria",
-                  "text": "Balneario La Gloria egy vízipark oaxaca-mezcal-agave-life-v2-ban.",
+                  "text": "A Balneario La Gloria egy vízipark több medencével, csúszdákkal és pihenőhelyekkel.",
                   "category": "recreational",
                   "coords": [
                         -96.778928,
@@ -10728,7 +10728,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "tatro 600 años (el queso)",
-                  "text": "tatro 600 años (el queso) egy színház oaxaca-mezcal-agave-life-v2-ban.",
+                  "text": "Az 'El Queso' (600 év) színház kulturális előadások helyszíne.",
                   "category": "cultural",
                   "coords": [
                         -96.750263,
@@ -10739,7 +10739,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Balneario El Cerrito",
-                  "text": "Balneario El Cerrito este un parc acvatic în oaxaca-mezcal-agave-life-v2.",
+                  "text": "Balneario El Cerrito este o baie naturală cu izvoare, vegetație tropicală și piscine.",
                   "category": "recreational",
                   "coords": [
                         -96.759869,
@@ -10748,7 +10748,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona Arqueologica",
-                  "text": "Zona Arqueologica este un sit arheologic în oaxaca-mezcal-agave-life-v2.",
+                  "text": "Zona Arqueologica conține ruine precolumbiene și o piramidă.",
                   "category": "historical",
                   "coords": [
                         -96.749651,
@@ -10757,7 +10757,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Taller de artes plásticas \"Manos a la obra\"",
-                  "text": "Taller de artes plásticas \"Manos a la obra\" este un centru de artă în oaxaca-mezcal-agave-life-v2.",
+                  "text": "Atelierul 'Manos a la obra' oferă cursuri de meșteșuguri tradiționale.",
                   "category": "cultural",
                   "coords": [
                         -96.745617,
@@ -10766,7 +10766,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli",
-                  "text": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli este un muzeu în oaxaca-mezcal-agave-life-v2.",
+                  "text": "Muzeul prezintă istoria coșenilei (Grana Cochinilla) și utilizarea sa ca vopsea.",
                   "category": "museum",
                   "coords": [
                         -96.710646,
@@ -10775,7 +10775,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Servicio De Banda Musical La Tremenda Aventurera",
-                  "text": "Servicio De Banda Musical La Tremenda Aventurera este un centru de artă în oaxaca-mezcal-agave-life-v2.",
+                  "text": "Servicio De Banda Musical La Tremenda Aventurera oferă muzică live cu sunete tradiționale mexicane.",
                   "category": "cultural",
                   "coords": [
                         -96.7102,
@@ -10784,7 +10784,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Arte de Santa María Coyotepec",
-                  "text": "Museo de Arte de Santa María Coyotepec este un muzeu în oaxaca-mezcal-agave-life-v2.",
+                  "text": "Muzeul de Artă Santa María Coyotepec expune arta contemporană a artiștilor locali din Oaxaca.",
                   "category": "museum",
                   "coords": [
                         -96.706546,
@@ -10793,7 +10793,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Fuerza Verde Grupo Musical",
-                  "text": "Fuerza Verde Grupo Musical este un centru de artă în oaxaca-mezcal-agave-life-v2.",
+                  "text": "Fuerza Verde Grupo Musical distrează publicul cu genuri muzicale mexicane populare.",
                   "category": "cultural",
                   "coords": [
                         -96.741513,
@@ -10802,7 +10802,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Balneario La Gloria",
-                  "text": "Balneario La Gloria este un parc acvatic în oaxaca-mezcal-agave-life-v2.",
+                  "text": "Balneario La Gloria este un parc acvatic cu mai multe piscine, tobogane și zone de relaxare.",
                   "category": "recreational",
                   "coords": [
                         -96.778928,
@@ -10811,7 +10811,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "tatro 600 años (el queso)",
-                  "text": "tatro 600 años (el queso) este un teatru în oaxaca-mezcal-agave-life-v2.",
+                  "text": "Teatrul 'El Queso' (600 de ani) este un loc pentru spectacole culturale.",
                   "category": "cultural",
                   "coords": [
                         -96.750263,
@@ -10822,7 +10822,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Balneario El Cerrito",
-                  "text": "Balneario El Cerrito is a water park in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Balneario El Cerrito is a natural spring pool surrounded by lush tropical vegetation.",
                   "category": "recreational",
                   "coords": [
                         -96.759869,
@@ -10831,7 +10831,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona Arqueologica",
-                  "text": "Zona Arqueologica is an archaeological site in oaxaca-mezcal-agave-life-v2.",
+                  "text": "The Zona Arqueologica features pre-Columbian ruins and a pyramid.",
                   "category": "historical",
                   "coords": [
                         -96.749651,
@@ -10840,7 +10840,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Taller de artes plásticas \"Manos a la obra\"",
-                  "text": "Taller de artes plásticas \"Manos a la obra\" is an arts centre in oaxaca-mezcal-agave-life-v2.",
+                  "text": "The 'Manos a la obra' workshop offers classes in traditional handicraft techniques.",
                   "category": "cultural",
                   "coords": [
                         -96.745617,
@@ -10849,7 +10849,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli",
-                  "text": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli is a museum in oaxaca-mezcal-agave-life-v2.",
+                  "text": "The museum exhibits the history of the cochineal insect (Grana Cochinilla) and its use as a dye.",
                   "category": "museum",
                   "coords": [
                         -96.710646,
@@ -10858,7 +10858,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Servicio De Banda Musical La Tremenda Aventurera",
-                  "text": "Servicio De Banda Musical La Tremenda Aventurera is an arts centre in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Servicio De Banda Musical La Tremenda Aventurera provides live music with traditional Mexican sounds.",
                   "category": "cultural",
                   "coords": [
                         -96.7102,
@@ -10867,7 +10867,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo de Arte de Santa María Coyotepec",
-                  "text": "Museo de Arte de Santa María Coyotepec is a museum in oaxaca-mezcal-agave-life-v2.",
+                  "text": "The Museo de Arte de Santa María Coyotepec displays contemporary art by local Oaxacan artists.",
                   "category": "museum",
                   "coords": [
                         -96.706546,
@@ -10876,7 +10876,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Fuerza Verde Grupo Musical",
-                  "text": "Fuerza Verde Grupo Musical is an arts centre in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Fuerza Verde Grupo Musical entertains audiences with popular Mexican music genres.",
                   "category": "cultural",
                   "coords": [
                         -96.741513,
@@ -10885,7 +10885,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Balneario La Gloria",
-                  "text": "Balneario La Gloria is a water park in oaxaca-mezcal-agave-life-v2.",
+                  "text": "Balneario La Gloria is a water park with multiple pools, slides, and relaxation areas.",
                   "category": "recreational",
                   "coords": [
                         -96.778928,
@@ -10894,7 +10894,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "tatro 600 años (el queso)",
-                  "text": "tatro 600 años (el queso) is a theatre in oaxaca-mezcal-agave-life-v2.",
+                  "text": "The 'El Queso' (600 Years) theater is a venue for cultural performances.",
                   "category": "cultural",
                   "coords": [
                         -96.750263,
@@ -10956,7 +10956,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "Gral. Lázaro Cárdenas",
-                  "text": "Ein Denkmal für General Lázaro Cárdenas in Michoacán.",
+                  "text": "Das Denkmal für General Lázaro Cárdenas ehrt den ehemaligen mexikanischen Präsidenten.",
                   "category": "historical",
                   "coords": [
                         -102.050652,
@@ -10965,7 +10965,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Huátapera",
-                  "text": "Ein Museum namens La Huátapera in Michoacán.",
+                  "text": "La Huátapera ist ein historisches Gebäude, das ein Museum für indigene Kultur und Kunst beherbergt.",
                   "category": "museum",
                   "coords": [
                         -102.062108,
@@ -10974,7 +10974,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Pérgola Municipal",
-                  "text": "Die Pérgola Municipal ist ein monumentaler Pergola-Bau in der Region michoacan-avocado-orchards-life-v2.",
+                  "text": "Die Pérgola Municipal ist eine historische überdachte Struktur auf dem Hauptplatz für öffentliche Veranstaltungen.",
                   "category": "historical",
                   "coords": [
                         -102.063304,
@@ -10992,7 +10992,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Foro Cultural La Morada",
-                  "text": "Das Foro Cultural La Morada ist ein Theater und Kulturzentrum in michoacan-avocado-orchards-life-v2.",
+                  "text": "Foro Cultural La Morada ist ein Kulturzentrum, das Konzerte und Ausstellungen veranstaltet.",
                   "category": "cultural",
                   "coords": [
                         -102.06654,
@@ -11001,7 +11001,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento a La Bandera",
-                  "text": "Das Monumento a La Bandera ist ein Denkmal zu Ehren der Flagge in michoacan-avocado-orchards-life-v2.",
+                  "text": "Das Monumento a La Bandera ist eine Skulptur, die der mexikanischen Flagge gewidmet ist.",
                   "category": "historical",
                   "coords": [
                         -102.06391,
@@ -11010,7 +11010,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mural de los Orígenes de Uruapan",
-                  "text": "Das Mural de los Orígenes de Uruapan ist ein Wandgemälde, das die Ursprünge von Uruapan darstellt, in michoacan-avocado-orchards-life-v2.",
+                  "text": "Das Mural de los Orígenes de Uruapan zeigt in einem Wandgemälde die Gründungsgeschichte der Stadt.",
                   "category": "historical",
                   "coords": [
                         -102.074792,
@@ -11037,7 +11037,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento al Padre Ochoa",
-                  "text": "Das Monumento al Padre Ochoa ist ein Denkmal zu Ehren von Pater Ochoa in michoacan-avocado-orchards-life-v2.",
+                  "text": "Das Monumento al Padre Ochoa erinnert an den Priester und Pädagogen Padre Ochoa.",
                   "category": "historical",
                   "coords": [
                         -102.066382,
@@ -11055,7 +11055,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Acceso Caltzontzin",
-                  "text": "Das Acceso Caltzontzin ist ein Denkmal, das den Zugang zu Caltzontzin markiert, in michoacan-avocado-orchards-life-v2.",
+                  "text": "Acceso Caltzontzin ist der Eingang zu einem archäologischen Gebiet nahe Uruapan.",
                   "category": "historical",
                   "coords": [
                         -102.010434,
@@ -11073,7 +11073,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Espectáculos 'La Macarena'",
-                  "text": "Das Centro de Espectáculos 'La Macarena' ist ein Theater und Unterhaltungszentrum in michoacan-avocado-orchards-life-v2.",
+                  "text": "Das Centro de Espectáculos 'La Macarena' ist eine Veranstaltungshalle für Shows und Konzerte.",
                   "category": "cultural",
                   "coords": [
                         -102.042796,
@@ -11100,7 +11100,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona de Protección Ambiental El Zapién",
-                  "text": "Die Zona de Protección Ambiental El Zapién ist ein Umweltschutzgebiet in michoacan-avocado-orchards-life-v2.",
+                  "text": "Das Schutzgebiet El Zapién bewahrt eine vielfältige Flora und Fauna mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         -102.100784,
@@ -11120,7 +11120,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "Gral. Lázaro Cárdenas",
-                  "text": "Egy emlékmű Lázaro Cárdenas tábornoknak Michoacánban.",
+                  "text": "A Gral. Lázaro Cárdenas emlékmű a volt mexikói elnök előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
                         -102.050652,
@@ -11129,7 +11129,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Huátapera",
-                  "text": "Egy La Huátapera nevű múzeum Michoacánban.",
+                  "text": "A La Huátapera egy történelmi épület, amely az őslakos kultúra és művészet múzeumának ad otthont.",
                   "category": "museum",
                   "coords": [
                         -102.062108,
@@ -11138,7 +11138,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Pérgola Municipal",
-                  "text": "A Pérgola Municipal egy emlékműként szolgáló pergola a michoacan-avocado-orchards-life-v2 területén.",
+                  "text": "A Pérgola Municipal egy történelmi fedett építmény a főtéren, nyilvános eseményekhez.",
                   "category": "historical",
                   "coords": [
                         -102.063304,
@@ -11156,7 +11156,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Foro Cultural La Morada",
-                  "text": "A Foro Cultural La Morada egy színház és kulturális központ a michoacan-avocado-orchards-life-v2 területén.",
+                  "text": "A Foro Cultural La Morada egy kulturális központ, amely koncerteknek és kiállításoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -102.06654,
@@ -11165,7 +11165,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento a La Bandera",
-                  "text": "A Monumento a La Bandera egy emlékmű a zászló tiszteletére a michoacan-avocado-orchards-life-v2 területén.",
+                  "text": "A Monumento a La Bandera egy szobor, amely a mexikói zászlónak állít emléket.",
                   "category": "historical",
                   "coords": [
                         -102.06391,
@@ -11174,7 +11174,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mural de los Orígenes de Uruapan",
-                  "text": "A Mural de los Orígenes de Uruapan egy falfestmény, amely Uruapan eredetét ábrázolja a michoacan-avocado-orchards-life-v2 területén.",
+                  "text": "A Mural de los Orígenes de Uruapan egy falfestmény, amely a város alapításának történetét ábrázolja.",
                   "category": "historical",
                   "coords": [
                         -102.074792,
@@ -11201,7 +11201,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento al Padre Ochoa",
-                  "text": "A Monumento al Padre Ochoa egy emlékmű Ochoa atya tiszteletére a michoacan-avocado-orchards-life-v2 területén.",
+                  "text": "A Monumento al Padre Ochoa a Padre Ochoa papra és pedagógusra emlékezik.",
                   "category": "historical",
                   "coords": [
                         -102.066382,
@@ -11219,7 +11219,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Acceso Caltzontzin",
-                  "text": "Az Acceso Caltzontzin egy emlékmű, amely a Caltzontzinba való bejáratot jelzi a michoacan-avocado-orchards-life-v2 területén.",
+                  "text": "Az Acceso Caltzontzin a Uruapan közelében lévő régészeti terület bejárata.",
                   "category": "historical",
                   "coords": [
                         -102.010434,
@@ -11237,7 +11237,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Espectáculos 'La Macarena'",
-                  "text": "A Centro de Espectáculos 'La Macarena' egy színház és szórakoztató központ a michoacan-avocado-orchards-life-v2 területén.",
+                  "text": "A Centro de Espectáculos 'La Macarena' egy rendezvénycsarnok előadások és koncertek számára.",
                   "category": "cultural",
                   "coords": [
                         -102.042796,
@@ -11264,7 +11264,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona de Protección Ambiental El Zapién",
-                  "text": "A Zona de Protección Ambiental El Zapién egy környezetvédelmi övezet a michoacan-avocado-orchards-life-v2 területén.",
+                  "text": "Az El Zapién védett terület sokféle növény- és állatvilágot őriz, túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         -102.100784,
@@ -11284,7 +11284,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "Gral. Lázaro Cárdenas",
-                  "text": "Un monument în cinstea generalului Lázaro Cárdenas în Michoacán.",
+                  "text": "Monumentul Gral. Lázaro Cárdenas îl onorează pe fostul președinte mexican.",
                   "category": "historical",
                   "coords": [
                         -102.050652,
@@ -11293,7 +11293,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Huátapera",
-                  "text": "Un muzeu numit La Huátapera în Michoacán.",
+                  "text": "La Huátapera este o clădire istorică ce găzduiește un muzeu al culturii și artei indigene.",
                   "category": "museum",
                   "coords": [
                         -102.062108,
@@ -11302,7 +11302,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Pérgola Municipal",
-                  "text": "Pérgola Municipal este un monument sub formă de pergolă în zona michoacan-avocado-orchards-life-v2.",
+                  "text": "Pérgola Municipală este o structură istorică acoperită în piața principală, pentru evenimente publice.",
                   "category": "historical",
                   "coords": [
                         -102.063304,
@@ -11320,7 +11320,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Foro Cultural La Morada",
-                  "text": "Foro Cultural La Morada este un teatru și un centru cultural în michoacan-avocado-orchards-life-v2.",
+                  "text": "Foro Cultural La Morada este un centru cultural care găzduiește concerte și expoziții.",
                   "category": "cultural",
                   "coords": [
                         -102.06654,
@@ -11329,7 +11329,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento a La Bandera",
-                  "text": "Monumento a La Bandera este un monument dedicat drapelului în michoacan-avocado-orchards-life-v2.",
+                  "text": "Monumento a La Bandera este o sculptură dedicată drapelului mexican.",
                   "category": "historical",
                   "coords": [
                         -102.06391,
@@ -11338,7 +11338,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mural de los Orígenes de Uruapan",
-                  "text": "Mural de los Orígenes de Uruapan este un mural monument care înfățișează originile orașului Uruapan, în michoacan-avocado-orchards-life-v2.",
+                  "text": "Mural de los Orígenes de Uruapan este o pictură murală care ilustrează originile orașului.",
                   "category": "historical",
                   "coords": [
                         -102.074792,
@@ -11365,7 +11365,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento al Padre Ochoa",
-                  "text": "Monumento al Padre Ochoa este un monument în onoarea părintelui Ochoa în michoacan-avocado-orchards-life-v2.",
+                  "text": "Monumento al Padre Ochoa comemorează preotul și educatorul Padre Ochoa.",
                   "category": "historical",
                   "coords": [
                         -102.066382,
@@ -11383,7 +11383,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Acceso Caltzontzin",
-                  "text": "Acceso Caltzontzin este un monument care marchează accesul către Caltzontzin, în michoacan-avocado-orchards-life-v2.",
+                  "text": "Acceso Caltzontzin este intrarea într-o zonă arheologică lângă Uruapan.",
                   "category": "historical",
                   "coords": [
                         -102.010434,
@@ -11401,7 +11401,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Espectáculos 'La Macarena'",
-                  "text": "Centro de Espectáculos 'La Macarena' este un teatru și un centru de divertisment în michoacan-avocado-orchards-life-v2.",
+                  "text": "Centro de Espectáculos 'La Macarena' este o sală de spectacole pentru concerte și show-uri.",
                   "category": "cultural",
                   "coords": [
                         -102.042796,
@@ -11428,7 +11428,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona de Protección Ambiental El Zapién",
-                  "text": "Zona de Protección Ambiental El Zapién este o zonă de protecție a mediului în michoacan-avocado-orchards-life-v2.",
+                  "text": "Zona de protecție El Zapién păstrează o floră și faună diversă, cu trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         -102.100784,
@@ -11448,7 +11448,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "Gral. Lázaro Cárdenas",
-                  "text": "A monument to General Lázaro Cárdenas in Michoacán.",
+                  "text": "The monument to General Lázaro Cárdenas honors the former Mexican president.",
                   "category": "historical",
                   "coords": [
                         -102.050652,
@@ -11457,7 +11457,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Huátapera",
-                  "text": "A museum called La Huátapera in Michoacán.",
+                  "text": "La Huátapera is a historic building housing a museum of indigenous culture and art.",
                   "category": "museum",
                   "coords": [
                         -102.062108,
@@ -11466,7 +11466,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Pérgola Municipal",
-                  "text": "The Pérgola Municipal is a municipal pergola serving as a monument in the michoacan-avocado-orchards-life-v2 area.",
+                  "text": "The Pérgola Municipal is a historic covered structure on the main square for public events.",
                   "category": "historical",
                   "coords": [
                         -102.063304,
@@ -11484,7 +11484,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Foro Cultural La Morada",
-                  "text": "Foro Cultural La Morada is a theatre and cultural venue in michoacan-avocado-orchards-life-v2.",
+                  "text": "Foro Cultural La Morada is a cultural center hosting concerts and exhibitions.",
                   "category": "cultural",
                   "coords": [
                         -102.06654,
@@ -11493,7 +11493,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento a La Bandera",
-                  "text": "Monumento a La Bandera is a monument dedicated to the flag in michoacan-avocado-orchards-life-v2.",
+                  "text": "The Monumento a La Bandera is a sculpture dedicated to the Mexican flag.",
                   "category": "historical",
                   "coords": [
                         -102.06391,
@@ -11502,7 +11502,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Mural de los Orígenes de Uruapan",
-                  "text": "Mural de los Orígenes de Uruapan is a monument mural depicting the origins of Uruapan, in michoacan-avocado-orchards-life-v2.",
+                  "text": "The Mural de los Orígenes de Uruapan depicts the founding history of the city in a mural.",
                   "category": "historical",
                   "coords": [
                         -102.074792,
@@ -11529,7 +11529,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Monumento al Padre Ochoa",
-                  "text": "Monumento al Padre Ochoa is a monument honoring Father Ochoa in michoacan-avocado-orchards-life-v2.",
+                  "text": "The Monumento al Padre Ochoa commemorates the priest and educator Father Ochoa.",
                   "category": "historical",
                   "coords": [
                         -102.066382,
@@ -11547,7 +11547,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Acceso Caltzontzin",
-                  "text": "Acceso Caltzontzin is a monument marking the access to Caltzontzin in michoacan-avocado-orchards-life-v2.",
+                  "text": "Acceso Caltzontzin is the entrance to an archaeological area near Uruapan.",
                   "category": "historical",
                   "coords": [
                         -102.010434,
@@ -11565,7 +11565,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Centro de Espectáculos 'La Macarena'",
-                  "text": "Centro de Espectáculos 'La Macarena' is a theatre and entertainment centre in michoacan-avocado-orchards-life-v2.",
+                  "text": "Centro de Espectáculos 'La Macarena' is an entertainment venue for shows and concerts.",
                   "category": "cultural",
                   "coords": [
                         -102.042796,
@@ -11592,7 +11592,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Zona de Protección Ambiental El Zapién",
-                  "text": "Zona de Protección Ambiental El Zapién is an environmental protection zone in michoacan-avocado-orchards-life-v2.",
+                  "text": "El Zapién protected area preserves diverse flora and fauna with hiking trails.",
                   "category": "natural",
                   "coords": [
                         -102.100784,
@@ -11663,7 +11663,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "de": [
             {
                   "name": "CUM Los Mochis",
-                  "text": "Eine Attraktion in Los Mochis, Sinaloa.",
+                  "text": "Das CUM Los Mochis ist der Campus einer Universität inmitten von Mango-Obstgärten.",
                   "category": "landmark",
                   "coords": [
                         -109.028632,
@@ -11672,7 +11672,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parroquia de Nuestra Señora del Rosario",
-                  "text": "Ein Schloss in Sinaloa.",
+                  "text": "Die Parroquia de Nuestra Señora del Rosario ist eine historische Kirche aus dem 16. Jahrhundert.",
                   "category": "castle",
                   "coords": [
                         -108.994859,
@@ -11681,7 +11681,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Trapiche Museo Interactivo",
-                  "text": "Ein interaktives Museum in Sinaloa.",
+                  "text": "Das Trapiche Museo Interactivo ist ein interaktives Museum zur Geschichte der Zuckerproduktion.",
                   "category": "museum",
                   "coords": [
                         -108.999103,
@@ -11690,7 +11690,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Entrada",
-                  "text": "Ein Eingang in Sinaloa.",
+                  "text": "Der zentrale Eingang (Entrada) führt in das Gebiet der Mango-Obstgärten und -Plantagen.",
                   "category": "landmark",
                   "coords": [
                         -109.001832,
@@ -11699,7 +11699,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Pergola",
-                  "text": "Ein Aussichtspunkt in Sinaloa.",
+                  "text": "Natürliche Pergola aus Mangobäumen in Mango Orchards.",
                   "category": "natural",
                   "coords": [
                         -108.972815,
@@ -11708,7 +11708,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de La Cultura Conrado Espinoza",
-                  "text": "Ein Museum (Kulturhaus) in Sinaloa.",
+                  "text": "Kulturhausmuseum, benannt nach dem Schriftsteller Conrado Espinoza, in Mango Orchards.",
                   "category": "museum",
                   "coords": [
                         -108.972525,
@@ -11717,7 +11717,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Del Valle del Fuerte",
-                  "text": "Ein Museum des Fuerte-Tals in Sinaloa.",
+                  "text": "Museum des Fuerte-Tals mit regionalhistorischen Exponaten in Mango Orchards.",
                   "category": "museum",
                   "coords": [
                         -108.999588,
@@ -11726,7 +11726,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas de la Casa Grande",
-                  "text": "Ruinen der Casa Grande in Sinaloa.",
+                  "text": "Ruinen eines großen Kolonialhauses in Mango Orchards.",
                   "category": "historical",
                   "coords": [
                         -109.003358,
@@ -11735,7 +11735,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
-                  "text": "Ein botanischer Garten in Sinaloa.",
+                  "text": "Botanischer Garten Benjamin Francis Johnston, Teil des Parque Sinaloa, mit einheimischen Pflanzen.",
                   "category": "landmark",
                   "coords": [
                         -109.005038,
@@ -11744,7 +11744,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Ingenio",
-                  "text": "Ein Theater in Sinaloa.",
+                  "text": "Theater Ingenio, eine kulturelle Spielstätte in Mango Orchards.",
                   "category": "cultural",
                   "coords": [
                         -109.000382,
@@ -11755,7 +11755,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "hu": [
             {
                   "name": "CUM Los Mochis",
-                  "text": "Egy látványosság Los Mochisban, Sinaloában.",
+                  "text": "A CUM Los Mochis egy egyetemi kampusz a mangóültetvények között.",
                   "category": "landmark",
                   "coords": [
                         -109.028632,
@@ -11764,7 +11764,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parroquia de Nuestra Señora del Rosario",
-                  "text": "Egy kastély Sinaloában.",
+                  "text": "A Parroquia de Nuestra Señora del Rosario egy 16. századi történelmi templom.",
                   "category": "castle",
                   "coords": [
                         -108.994859,
@@ -11773,7 +11773,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Trapiche Museo Interactivo",
-                  "text": "Egy interaktív múzeum Sinaloában.",
+                  "text": "A Trapiche Museo Interactivo egy interaktív múzeum a cukortermelés történetéről.",
                   "category": "museum",
                   "coords": [
                         -108.999103,
@@ -11782,7 +11782,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Entrada",
-                  "text": "Egy bejárat Sinaloában.",
+                  "text": "A központi bejárat (Entrada) vezet a mangóültetvények és -termesztő területekbe.",
                   "category": "landmark",
                   "coords": [
                         -109.001832,
@@ -11791,7 +11791,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Pergola",
-                  "text": "Egy kilátó Sinaloában.",
+                  "text": "Természetes pergola mangófákból Mango Orchardsban.",
                   "category": "natural",
                   "coords": [
                         -108.972815,
@@ -11800,7 +11800,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de La Cultura Conrado Espinoza",
-                  "text": "Egy múzeum (kultúrház) Sinaloában.",
+                  "text": "Conrado Espinoza íróról elnevezett kultúrház-múzeum Mango Orchardsban.",
                   "category": "museum",
                   "coords": [
                         -108.972525,
@@ -11809,7 +11809,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Del Valle del Fuerte",
-                  "text": "A Fuerte-völgy múzeuma Sinaloában.",
+                  "text": "A Fuerte-völgy múzeuma regionális történeti kiállításokkal Mango Orchardsban.",
                   "category": "museum",
                   "coords": [
                         -108.999588,
@@ -11818,7 +11818,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas de la Casa Grande",
-                  "text": "A Casa Grande romjai Sinaloában.",
+                  "text": "Egy nagy gyarmati ház romjai Mango Orchardsban.",
                   "category": "historical",
                   "coords": [
                         -109.003358,
@@ -11827,7 +11827,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
-                  "text": "Egy botanikus kert Sinaloában.",
+                  "text": "Benjamin Francis Johnston Botanikus Kert, a Parque Sinaloa része, őshonos növényekkel.",
                   "category": "landmark",
                   "coords": [
                         -109.005038,
@@ -11836,7 +11836,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Ingenio",
-                  "text": "Egy színház Sinaloában.",
+                  "text": "Ingenio Színház, kulturális helyszín Mango Orchardsban.",
                   "category": "cultural",
                   "coords": [
                         -109.000382,
@@ -11847,7 +11847,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "ro": [
             {
                   "name": "CUM Los Mochis",
-                  "text": "O atracție în Los Mochis, Sinaloa.",
+                  "text": "CUM Los Mochis este un campus universitar situat printre livezile de mango.",
                   "category": "landmark",
                   "coords": [
                         -109.028632,
@@ -11856,7 +11856,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parroquia de Nuestra Señora del Rosario",
-                  "text": "Un castel în Sinaloa.",
+                  "text": "Parroquia de Nuestra Señora del Rosario este o biserică istorică din secolul al XVI-lea.",
                   "category": "castle",
                   "coords": [
                         -108.994859,
@@ -11865,7 +11865,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Trapiche Museo Interactivo",
-                  "text": "Un muzeu interactiv în Sinaloa.",
+                  "text": "Trapiche Museo Interactivo este un muzeu interactiv despre istoria producției de zahăr.",
                   "category": "museum",
                   "coords": [
                         -108.999103,
@@ -11874,7 +11874,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Entrada",
-                  "text": "O intrare în Sinaloa.",
+                  "text": "Intrarea principală (Entrada) duce în zona livezilor și plantațiilor de mango.",
                   "category": "landmark",
                   "coords": [
                         -109.001832,
@@ -11883,7 +11883,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Pergola",
-                  "text": "Un punct de belvedere în Sinaloa.",
+                  "text": "Pergolă naturală formată din mango în Mango Orchards.",
                   "category": "natural",
                   "coords": [
                         -108.972815,
@@ -11892,7 +11892,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de La Cultura Conrado Espinoza",
-                  "text": "Un muzeu (casă de cultură) în Sinaloa.",
+                  "text": "Muzeu de cultură numit după scriitorul Conrado Espinoza în Mango Orchards.",
                   "category": "museum",
                   "coords": [
                         -108.972525,
@@ -11901,7 +11901,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Del Valle del Fuerte",
-                  "text": "Un muzeu al Văii Fuerte din Sinaloa.",
+                  "text": "Muzeul Văii Fuerte cu exponate de istorie regională în Mango Orchards.",
                   "category": "museum",
                   "coords": [
                         -108.999588,
@@ -11910,7 +11910,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas de la Casa Grande",
-                  "text": "Ruinele Casei Grande din Sinaloa.",
+                  "text": "Ruinele unei mari case coloniale în Mango Orchards.",
                   "category": "historical",
                   "coords": [
                         -109.003358,
@@ -11919,7 +11919,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
-                  "text": "O grădină botanică în Sinaloa.",
+                  "text": "Grădina Botanică Benjamin Francis Johnston, parte a Parcului Sinaloa, cu plante native.",
                   "category": "landmark",
                   "coords": [
                         -109.005038,
@@ -11928,7 +11928,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Ingenio",
-                  "text": "Un teatru în Sinaloa.",
+                  "text": "Teatrul Ingenio, un loc cultural în Mango Orchards.",
                   "category": "cultural",
                   "coords": [
                         -109.000382,
@@ -11939,7 +11939,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
       "en": [
             {
                   "name": "CUM Los Mochis",
-                  "text": "An attraction in Los Mochis, Sinaloa.",
+                  "text": "CUM Los Mochis is a university campus set among mango orchards.",
                   "category": "landmark",
                   "coords": [
                         -109.028632,
@@ -11948,7 +11948,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Parroquia de Nuestra Señora del Rosario",
-                  "text": "A castle in Sinaloa.",
+                  "text": "Parroquia de Nuestra Señora del Rosario is a historic 16th-century church.",
                   "category": "castle",
                   "coords": [
                         -108.994859,
@@ -11957,7 +11957,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Trapiche Museo Interactivo",
-                  "text": "An interactive museum in Sinaloa.",
+                  "text": "Trapiche Museo Interactivo is an interactive museum about the history of sugar production.",
                   "category": "museum",
                   "coords": [
                         -108.999103,
@@ -11966,7 +11966,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Entrada",
-                  "text": "An entrance in Sinaloa.",
+                  "text": "The entrance (Entrada) leads into the area of mango orchards and plantations.",
                   "category": "landmark",
                   "coords": [
                         -109.001832,
@@ -11975,7 +11975,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "La Pergola",
-                  "text": "A viewpoint in Sinaloa.",
+                  "text": "Natural pergola formed by mango trees in Mango Orchards.",
                   "category": "natural",
                   "coords": [
                         -108.972815,
@@ -11984,7 +11984,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Casa de La Cultura Conrado Espinoza",
-                  "text": "A museum (cultural house) in Sinaloa.",
+                  "text": "Cultural house museum named after writer Conrado Espinoza in Mango Orchards.",
                   "category": "museum",
                   "coords": [
                         -108.972525,
@@ -11993,7 +11993,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Museo Del Valle del Fuerte",
-                  "text": "A museum of the Fuerte Valley in Sinaloa.",
+                  "text": "Museum of the Fuerte Valley featuring regional history exhibits in Mango Orchards.",
                   "category": "museum",
                   "coords": [
                         -108.999588,
@@ -12002,7 +12002,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Ruinas de la Casa Grande",
-                  "text": "Ruins of the Casa Grande in Sinaloa.",
+                  "text": "Ruins of a large colonial house in Mango Orchards.",
                   "category": "historical",
                   "coords": [
                         -109.003358,
@@ -12011,7 +12011,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
-                  "text": "A botanical garden in Sinaloa.",
+                  "text": "Benjamin Francis Johnston Botanical Garden, part of Parque Sinaloa, with native plants.",
                   "category": "landmark",
                   "coords": [
                         -109.005038,
@@ -12020,7 +12020,7 @@ export const poiExtraMexicoLifeV2: POI[] = [
             },
             {
                   "name": "Teatro Ingenio",
-                  "text": "A theatre in Sinaloa.",
+                  "text": "Teatro Ingenio, a cultural venue in Mango Orchards.",
                   "category": "cultural",
                   "coords": [
                         -109.000382,

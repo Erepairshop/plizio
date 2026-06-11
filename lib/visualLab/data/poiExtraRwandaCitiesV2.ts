@@ -71,7 +71,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "African Art Gallery",
-                  "text": "Galerie für afrikanische Kunst in Rubavu.",
+                  "text": "Die African Art Gallery in Rubavu zeigt afrikanische Kunst am Ufer des Kivu-Sees.",
                   "category": "museum",
                   "coords": [
                         29.261591,
@@ -80,7 +80,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Kivu art gallery",
-                  "text": "Sehenswürdigkeit in Rubavu.",
+                  "text": "Die Kivu Art Gallery in Rubavu bietet einen Panoramablick über den Kivu-See.",
                   "category": "landmark",
                   "coords": [
                         29.259813,
@@ -91,7 +91,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "African Art Gallery",
-                  "text": "Afrikai művészeti galéria Rubavuban.",
+                  "text": "Az African Art Gallery Rubavuban afrikai művészetet mutat be a Kivu-tó partján.",
                   "category": "museum",
                   "coords": [
                         29.261591,
@@ -100,7 +100,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Kivu art gallery",
-                  "text": "Látnivaló Rubavuban.",
+                  "text": "A Kivu Art Gallery Rubavuban panorámás kilátást nyújt a Kivu-tóra.",
                   "category": "landmark",
                   "coords": [
                         29.259813,
@@ -111,7 +111,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "African Art Gallery",
-                  "text": "Galerie de artă africană în Rubavu.",
+                  "text": "Galeria de Artă Africană din Rubavu expune artă africană pe malul Lacului Kivu.",
                   "category": "museum",
                   "coords": [
                         29.261591,
@@ -120,7 +120,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Kivu art gallery",
-                  "text": "Atracție în Rubavu.",
+                  "text": "Galeria de Artă Kivu din Rubavu oferă o panoramă asupra Lacului Kivu.",
                   "category": "landmark",
                   "coords": [
                         29.259813,
@@ -131,7 +131,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "African Art Gallery",
-                  "text": "African art gallery in Rubavu.",
+                  "text": "The African Art Gallery in Rubavu displays African art on the shore of Lake Kivu.",
                   "category": "museum",
                   "coords": [
                         29.261591,
@@ -140,7 +140,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Kivu art gallery",
-                  "text": "Attraction in Rubavu.",
+                  "text": "The Kivu Art Gallery in Rubavu overlooks Lake Kivu with a panoramic view.",
                   "category": "landmark",
                   "coords": [
                         29.259813,
@@ -188,7 +188,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ethnographic Museum",
-                  "text": "Das Ethnographische Museum ist eine wichtige kulturelle Einrichtung in Huye.",
+                  "text": "Ethnografisches Museum mit traditionellen ruandischen Artefakten in Huye.",
                   "category": "museum",
                   "coords": [
                         29.745244,
@@ -197,7 +197,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Verdure",
-                  "text": "Das Théâtre Verdure ist eine lokale Theaterstätte in Huye.",
+                  "text": "Das Théâtre Verdure ist ein Freilufttheater in Huye auf dem Universitätscampus.",
                   "category": "cultural",
                   "coords": [
                         29.740818,
@@ -206,7 +206,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Campus Main Auditorium",
-                  "text": "Das Hauptauditorium des Campus fungiert als Theater in Huye.",
+                  "text": "Das Campus Main Auditorium ist das Hauptauditorium der Universität in Huye.",
                   "category": "cultural",
                   "coords": [
                         29.741907,
@@ -215,7 +215,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Arboretum Office",
-                  "text": "Das Arboretum-Büro ist eine administrative Gebäudeattraktion in Huye.",
+                  "text": "Das Arboretum Office verwaltet das Arboretum auf dem Universitätsgelände in Huye.",
                   "category": "landmark",
                   "coords": [
                         29.748243,
@@ -224,7 +224,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Seventh Day Adventist Church",
-                  "text": "Die Kirche der Siebenten-Tags-Adventisten ist eine religiöse Attraktion in Huye.",
+                  "text": "Die Siebenten-Tags-Adventisten-Kirche ist ein Gotteshaus in Huye.",
                   "category": "landmark",
                   "coords": [
                         29.738732,
@@ -233,7 +233,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Eglise Ste. Therese",
-                  "text": "Die Eglise Ste. Therese ist eine lokale Kirchenattraktion in Huye.",
+                  "text": "Die Eglise Ste. Therese ist eine katholische Kirche in Huye.",
                   "category": "landmark",
                   "coords": [
                         29.74435,
@@ -253,7 +253,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ethnographic Museum",
-                  "text": "A Néprajzi Múzeum egy fontos kulturális intézmény Huye városában.",
+                  "text": "Néprajzi múzeum hagyományos ruandai tárgyakkal Huye-ben.",
                   "category": "museum",
                   "coords": [
                         29.745244,
@@ -262,7 +262,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Verdure",
-                  "text": "A Théâtre Verdure egy helyi színház Huye városában.",
+                  "text": "A Théâtre Verdure egy szabadtéri színház Huye-ban, az egyetemi campuson.",
                   "category": "cultural",
                   "coords": [
                         29.740818,
@@ -271,7 +271,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Campus Main Auditorium",
-                  "text": "A Campus Fő Auditóriuma színházként működik Huye-ban.",
+                  "text": "A Campus Main Auditorium a Huye-i egyetem fő előadóterme.",
                   "category": "cultural",
                   "coords": [
                         29.741907,
@@ -280,7 +280,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Arboretum Office",
-                  "text": "Az Arborétum irodája egy adminisztratív épület és látványosság Huye-ban.",
+                  "text": "Az Arboretum Office a Huye-i egyetem arborétumát kezeli.",
                   "category": "landmark",
                   "coords": [
                         29.748243,
@@ -289,7 +289,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Seventh Day Adventist Church",
-                  "text": "A Hetednapi Adventista Templom egy vallási látványosság Huye-ban.",
+                  "text": "A Hetednapi Adventista templom egy istentiszteleti hely Huye-ban.",
                   "category": "landmark",
                   "coords": [
                         29.738732,
@@ -298,7 +298,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Eglise Ste. Therese",
-                  "text": "Az Eglise Ste. Therese egy helyi templom látványosság Huye-ban.",
+                  "text": "Az Eglise Ste. Therese egy katolikus templom Huye-ban.",
                   "category": "landmark",
                   "coords": [
                         29.74435,
@@ -318,7 +318,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ethnographic Museum",
-                  "text": "Muzeul Etnografic este o instituție culturală importantă din Huye.",
+                  "text": "Muzeul etnografic cu artefacte tradiționale rwandeze din Huye.",
                   "category": "museum",
                   "coords": [
                         29.745244,
@@ -327,7 +327,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Verdure",
-                  "text": "Théâtre Verdure este o locație de teatru locală din Huye.",
+                  "text": "Théâtre Verdure este un teatru în aer liber în Huye, pe campusul universitar.",
                   "category": "cultural",
                   "coords": [
                         29.740818,
@@ -336,7 +336,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Campus Main Auditorium",
-                  "text": "Auditoriul Principal al Campusului funcționează ca teatru în Huye.",
+                  "text": "Campus Main Auditorium este auditoriul principal al universității din Huye.",
                   "category": "cultural",
                   "coords": [
                         29.741907,
@@ -345,7 +345,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Arboretum Office",
-                  "text": "Biroul Parcului Dendrologic este o atracție de clădire administrativă în Huye.",
+                  "text": "Biroul Arboretum administrează arboretumul de pe terenul universității din Huye.",
                   "category": "landmark",
                   "coords": [
                         29.748243,
@@ -354,7 +354,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Seventh Day Adventist Church",
-                  "text": "Biserica Adventistă de Ziua a Șaptea este o atracție religioasă din Huye.",
+                  "text": "Biserica Adventistă de Ziua a Șaptea este un lăcaș de cult în Huye.",
                   "category": "landmark",
                   "coords": [
                         29.738732,
@@ -363,7 +363,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Eglise Ste. Therese",
-                  "text": "Eglise Ste. Therese este o atracție bisericească locală situată în Huye.",
+                  "text": "Eglise Ste. Therese este o biserică catolică în Huye.",
                   "category": "landmark",
                   "coords": [
                         29.74435,
@@ -383,7 +383,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ethnographic Museum",
-                  "text": "The Ethnographic Museum is an important cultural institution in Huye.",
+                  "text": "Ethnographic museum featuring traditional Rwandan artifacts in Huye.",
                   "category": "museum",
                   "coords": [
                         29.745244,
@@ -392,7 +392,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Théâtre Verdure",
-                  "text": "Théâtre Verdure is a local theatre venue in Huye.",
+                  "text": "The Théâtre Verdure is an open-air theatre in Huye on the university campus.",
                   "category": "cultural",
                   "coords": [
                         29.740818,
@@ -401,7 +401,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Campus Main Auditorium",
-                  "text": "The Campus Main Auditorium functions as a theatre in Huye.",
+                  "text": "The Campus Main Auditorium is the main lecture hall of the university in Huye.",
                   "category": "cultural",
                   "coords": [
                         29.741907,
@@ -410,7 +410,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Arboretum Office",
-                  "text": "The Arboretum Office is an administrative building attraction in Huye.",
+                  "text": "The Arboretum Office manages the arboretum on the university grounds in Huye.",
                   "category": "landmark",
                   "coords": [
                         29.748243,
@@ -419,7 +419,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Seventh Day Adventist Church",
-                  "text": "The Seventh Day Adventist Church is a religious attraction in Huye.",
+                  "text": "The Seventh Day Adventist Church is a place of worship in Huye.",
                   "category": "landmark",
                   "coords": [
                         29.738732,
@@ -428,7 +428,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Eglise Ste. Therese",
-                  "text": "Eglise Ste. Therese is a local church attraction located in Huye.",
+                  "text": "Eglise Ste. Therese is a Catholic church in Huye.",
                   "category": "landmark",
                   "coords": [
                         29.74435,
@@ -629,7 +629,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "King's Palace Museum",
-                  "text": "Museum in Nyanza; ehemaliger königlicher Palast.",
+                  "text": "Das King's Palace Museum in Nyanza zeigt die traditionelle Königsresidenz Ruandas.",
                   "category": "museum",
                   "coords": [
                         29.739358,
@@ -638,7 +638,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of Rwesero (former National Art Gallery)",
-                  "text": "Museum in Nyanza.",
+                  "text": "Das Kwigira Museum in Nyanza bewahrt historische Artefakte der Region.",
                   "category": "museum",
                   "coords": [
                         29.741115,
@@ -647,7 +647,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Mwina - Mausoleum",
-                  "text": "Sehenswürdigkeit in Nyanza.",
+                  "text": "Das Mwina-Mausoleum in Nyanza ist die letzte Ruhestätte eines ruandischen Königs.",
                   "category": "landmark",
                   "coords": [
                         29.735871,
@@ -658,7 +658,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "King's Palace Museum",
-                  "text": "Múzeum Nyanzában; egykori királyi palota.",
+                  "text": "A King's Palace Museum Nyanzában a ruandai királyi rezidenciát mutatja be.",
                   "category": "museum",
                   "coords": [
                         29.739358,
@@ -667,7 +667,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of Rwesero (former National Art Gallery)",
-                  "text": "Múzeum Nyanzában.",
+                  "text": "A Kwigira Múzeum Nyanzában a régió történelmi tárgyait őrzi.",
                   "category": "museum",
                   "coords": [
                         29.741115,
@@ -676,7 +676,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Mwina - Mausoleum",
-                  "text": "Látnivaló Nyanzában.",
+                  "text": "A Mwina Mauzóleum Nyanzában egy ruandai király végső nyughelye.",
                   "category": "landmark",
                   "coords": [
                         29.735871,
@@ -687,7 +687,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "King's Palace Museum",
-                  "text": "Muzeu în Nyanza; fost palat regal.",
+                  "text": "Muzeul Palatului Regal din Nyanza prezintă reședința tradițională a regilor Rwandei.",
                   "category": "museum",
                   "coords": [
                         29.739358,
@@ -696,7 +696,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Museum of Rwesero (former National Art Gallery)",
-                  "text": "Muzeu în Nyanza.",
+                  "text": "Muzeul Kwigira din Nyanza conservă artefacte istorice ale regiunii.",
                   "category": "museum",
                   "coords": [
                         29.741115,
@@ -705,7 +705,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Mwina - Mausoleum",
-                  "text": "Atracție în Nyanza.",
+                  "text": "Mausoleul Mwina din Nyanza este locul de odihnă al unui rege rwandez.",
                   "category": "landmark",
                   "coords": [
                         29.735871,
@@ -716,7 +716,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "King's Palace Museum",
-                  "text": "Museum in Nyanza; former royal palace.",
+                  "text": "The King's Palace Museum in Nyanza exhibits the traditional royal residence of Rwanda.",
                   "category": "museum",
                   "coords": [
                         29.739358,
@@ -725,7 +725,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Kwigira Museum",
-                  "text": "Museum in Nyanza.",
+                  "text": "The Kwigira Museum in Nyanza preserves historical artifacts of the region.",
                   "category": "museum",
                   "coords": [
                         29.741115,
@@ -734,7 +734,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Mwina - Mausoleum",
-                  "text": "Attraction in Nyanza.",
+                  "text": "The Mwina Mausoleum in Nyanza is the burial site of a Rwandan king.",
                   "category": "landmark",
                   "coords": [
                         29.735871,
@@ -782,7 +782,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Diocèse de Byumba",
-                  "text": "Die römisch-katholische Diözese Byumba ist eine Kultstätte in Gicumbi.",
+                  "text": "Kathedrale der Diözese Byumba in Gicumbi.",
                   "category": "religious",
                   "coords": [
                         30.055697,
@@ -793,7 +793,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Diocèse de Byumba",
-                  "text": "A Byumbai Római Katolikus Egyházmegye egy imahely Gicumbi városában.",
+                  "text": "A Byumbai Egyházmegye székesegyháza Gicumbiban.",
                   "category": "religious",
                   "coords": [
                         30.055697,
@@ -804,7 +804,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Diocèse de Byumba",
-                  "text": "Dieceza Romano-Catolică de Byumba este un lăcaș de cult situat în Gicumbi.",
+                  "text": "Catedrala Diecezei de Byumba din Gicumbi.",
                   "category": "religious",
                   "coords": [
                         30.055697,
@@ -815,7 +815,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Roman Catholic Diocese of Byumba",
-                  "text": "The Roman Catholic Diocese of Byumba is a place of worship located in Gicumbi.",
+                  "text": "Cathedral of the Diocese of Byumba in Gicumbi.",
                   "category": "religious",
                   "coords": [
                         30.055697,
@@ -1511,7 +1511,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Gikondo Expo Ground",
-                  "text": "Das Gikondo Expo Ground ist eine Veranstaltungsstätte in Kicukiro.",
+                  "text": "Das Gikondo Expo Ground ist ein Ausstellungsgelände im Distrikt Kicukiro von Kigali.",
                   "category": "landmark",
                   "coords": [
                         30.086844,
@@ -1522,7 +1522,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Gikondo Expo Ground",
-                  "text": "A Gikondo Expo Ground egy látványosság és rendezvényközpont Kicukiróban.",
+                  "text": "A Gikondo Expo Ground egy kiállítási terület Kicukiro kerületben, Kigaliban.",
                   "category": "landmark",
                   "coords": [
                         30.086844,
@@ -1533,7 +1533,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Gikondo Expo Ground",
-                  "text": "Gikondo Expo Ground este o atracție în Kicukiro.",
+                  "text": "Gikondo Expo Ground este un teren de expoziții în sectorul Kicukiro din Kigali.",
                   "category": "landmark",
                   "coords": [
                         30.086844,
@@ -1544,7 +1544,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Gikondo Expo Ground",
-                  "text": "The Gikondo Expo Ground is an attraction and event space in Kicukiro.",
+                  "text": "The Gikondo Expo Ground is an exhibition ground in Kicukiro District, Kigali.",
                   "category": "landmark",
                   "coords": [
                         30.086844,
@@ -2096,7 +2096,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
-                  "text": "Der Ellen DeGeneres Campus des Dian Fossey Gorilla Fund ist ein Museum in Kinigi.",
+                  "text": "Der Ellen DeGeneres Campus in Kinigi beherbergt das Dian-Fossey-Gorillafonds-Forschungszentrum nahe den Volcanoes-Nationalpark.",
                   "category": "museum",
                   "coords": [
                         29.563645,
@@ -2105,7 +2105,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Art objects",
-                  "text": "Diese Kunstobjekte sind eine lokale Sehenswürdigkeit in Kinigi.",
+                  "text": "Eine Sammlung von Kunstobjekten im Freien in Kinigi in der Nähe der Gorilla-Forschungsstation.",
                   "category": "landmark",
                   "coords": [
                         29.597573,
@@ -2116,7 +2116,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
-                  "text": "A Dian Fossey Gorilla Fund Ellen DeGeneres Kampusza egy múzeum Kinigiben.",
+                  "text": "Az Ellen DeGeneres Campus Kinigiben ad otthont a Dian Fossey Gorilla Alapítvány kutatóközpontjának a Vulkánok Nemzeti Park közelében.",
                   "category": "museum",
                   "coords": [
                         29.563645,
@@ -2125,7 +2125,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Art objects",
-                  "text": "Ezek a művészeti tárgyak helyi látványosságok Kinigiben.",
+                  "text": "Szabadtéri műtárgyak gyűjteménye Kinigiben, a gorilla kutatóállomás közelében.",
                   "category": "landmark",
                   "coords": [
                         29.597573,
@@ -2136,7 +2136,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
-                  "text": "Campusul Ellen DeGeneres al Dian Fossey Gorilla Fund este un muzeu din Kinigi.",
+                  "text": "Campusul Ellen DeGeneres din Kinigi găzduiește centrul de cercetare al Fondului pentru Gorile Dian Fossey, lângă Parcul Național Volcanoes.",
                   "category": "museum",
                   "coords": [
                         29.563645,
@@ -2145,7 +2145,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Art objects",
-                  "text": "Aceste obiecte de artă sunt o atracție locală în Kinigi.",
+                  "text": "O colecție de obiecte de artă în aer liber în Kinigi, lângă stația de cercetare a gorilelor.",
                   "category": "landmark",
                   "coords": [
                         29.597573,
@@ -2156,7 +2156,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
-                  "text": "The Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund is a museum in Kinigi.",
+                  "text": "The Ellen DeGeneres Campus in Kinigi houses the Dian Fossey Gorilla Fund research center near Volcanoes National Park.",
                   "category": "museum",
                   "coords": [
                         29.563645,
@@ -2165,7 +2165,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             },
             {
                   "name": "Art objects",
-                  "text": "These art objects are a local attraction in Kinigi.",
+                  "text": "An outdoor collection of art objects in Kinigi near the gorilla research station.",
                   "category": "landmark",
                   "coords": [
                         29.597573,
@@ -2249,7 +2249,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Queen Mother's House",
-                  "text": "Die Ruinen des Hauses der Königinmutter sind eine historische Stätte in Kabgayi.",
+                  "text": "Das Queen Mother's House in Kabgayi ist das historische Haus der Königinmutter von Ruanda.",
                   "category": "historical",
                   "coords": [
                         29.747133,
@@ -2269,7 +2269,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Queen Mother's House",
-                  "text": "Az Anyakirályné Házának romjai egy történelmi helyszín Kabgayi-ban.",
+                  "text": "A Queen Mother's House Kabgayiban a ruandai királyné anya történelmi háza.",
                   "category": "historical",
                   "coords": [
                         29.747133,
@@ -2289,7 +2289,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Queen Mother's House",
-                  "text": "Ruinele Casei Reginei Mamă sunt un sit istoric din Kabgayi.",
+                  "text": "Casa Reginei-Mamă din Kabgayi este casa istorică a mamei regelui Rwandei.",
                   "category": "historical",
                   "coords": [
                         29.747133,
@@ -2309,7 +2309,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Queen Mother's House",
-                  "text": "The Queen Mother's House ruins are a historical site in Kabgayi.",
+                  "text": "The Queen Mother's House in Kabgayi is the historic home of the Rwandan queen mother.",
                   "category": "historical",
                   "coords": [
                         29.747133,

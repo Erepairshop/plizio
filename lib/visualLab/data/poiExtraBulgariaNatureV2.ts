@@ -457,7 +457,7 @@ export const bulgariaNatureV2: POI[] = [
       "de": [
             {
                   "name": "Shkorpilovtsi",
-                  "text": "Ein Strand am Fluss Kamchia am Schwarzen Meer.",
+                  "text": "Badeort Schkorpilowzi an der Mündung des Flusses Kamtschija.",
                   "category": "recreational",
                   "coords": [
                         27.895159,
@@ -493,7 +493,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Liastovitsa biala klub",
-                  "text": "Eine lokale touristische Attraktion in der Nähe des Flusses.",
+                  "text": "Club „Weiße Schwalbe” am Fluss Kamtschija.",
                   "category": "landmark",
                   "coords": [
                         27.885681,
@@ -502,7 +502,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Khepilend",
-                  "text": "Ein Freizeitpark am Fluss Kamtschiya.",
+                  "text": "Erholungsgebiet Khepilend am Fluss Kamtschija.",
                   "category": "recreational",
                   "coords": [
                         27.83986,
@@ -513,7 +513,7 @@ export const bulgariaNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Shkorpilovtsi",
-                  "text": "Strand a Kamchia folyónál a Fekete-tengeren.",
+                  "text": "Shkorpilovtsi üdülőhely a Kamchiya folyó torkolatánál.",
                   "category": "recreational",
                   "coords": [
                         27.895159,
@@ -549,7 +549,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Liastovitsa biala klub",
-                  "text": "Helyi turisztikai látványosság a folyó közelében.",
+                  "text": "„Fehér fecske” klub a Kamchiya folyó mentén.",
                   "category": "landmark",
                   "coords": [
                         27.885681,
@@ -558,7 +558,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Khepilend",
-                  "text": "Vidámpark a Kamcsija folyó mentén.",
+                  "text": "Khepilend pihenőövezet a Kamchiya folyó mentén.",
                   "category": "recreational",
                   "coords": [
                         27.83986,
@@ -569,7 +569,7 @@ export const bulgariaNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Shkorpilovtsi",
-                  "text": "O plajă la râul Kamchia la Marea Neagră.",
+                  "text": "Stațiunea Shkorpilovtsi la vărsarea râului Kamchia.",
                   "category": "recreational",
                   "coords": [
                         27.895159,
@@ -605,7 +605,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Liastovitsa biala klub",
-                  "text": "O atracție turistică locală în apropierea râului.",
+                  "text": "Clubul „Rândunica Albă” pe râul Kamchia.",
                   "category": "landmark",
                   "coords": [
                         27.885681,
@@ -614,7 +614,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Khepilend",
-                  "text": "Un parc de distracții situat pe râul Kamchia.",
+                  "text": "Zonă de agrement Khepilend pe râul Kamchia.",
                   "category": "recreational",
                   "coords": [
                         27.83986,
@@ -625,7 +625,7 @@ export const bulgariaNatureV2: POI[] = [
       "en": [
             {
                   "name": "Shkorpilovtsi",
-                  "text": "A beach at the Kamchia River on the Black Sea.",
+                  "text": "Shkorpilovtsi resort at the mouth of the Kamchia River.",
                   "category": "recreational",
                   "coords": [
                         27.895159,
@@ -661,7 +661,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "club lastovica byala",
-                  "text": "A local tourist attraction located near the river.",
+                  "text": "White Swallow club along the Kamchia River.",
                   "category": "landmark",
                   "coords": [
                         27.885681,
@@ -670,7 +670,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Khepilend",
-                  "text": "A theme park located along the Kamchia River.",
+                  "text": "Khepilend recreational area along the Kamchia River.",
                   "category": "recreational",
                   "coords": [
                         27.83986,
@@ -1348,7 +1348,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Edirne Balkan Tarihi Müzesi",
-                  "text": "Ein Museum in Edirne, das der Geschichte der Balkankriege gewidmet ist.",
+                  "text": "Museum für Balkangeschichte Edirne an der Mariza.",
                   "category": "museum",
                   "coords": [
                         26.518402,
@@ -1440,7 +1440,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Edirne Balkan Tarihi Müzesi",
-                  "text": "A balkáni háborúk történetének szentelt múzeum Edirne városában.",
+                  "text": "Edirne Balkán Történeti Múzeum a Marica folyó partján.",
                   "category": "museum",
                   "coords": [
                         26.518402,
@@ -1532,7 +1532,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Edirne Balkan Tarihi Müzesi",
-                  "text": "Un muzeu din Edirne dedicat istoriei războaielor balcanice.",
+                  "text": "Muzeul de Istorie Balcanică din Edirne pe râul Marița.",
                   "category": "museum",
                   "coords": [
                         26.518402,
@@ -1624,7 +1624,7 @@ export const bulgariaNatureV2: POI[] = [
             },
             {
                   "name": "Edirne Balkan Tarihi Müzesi",
-                  "text": "A museum in Edirne dedicated to the history of the Balkan Wars.",
+                  "text": "Edirne Balkan History Museum on the Maritsa River.",
                   "category": "museum",
                   "coords": [
                         26.518402,

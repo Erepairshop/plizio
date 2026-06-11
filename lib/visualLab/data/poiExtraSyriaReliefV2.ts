@@ -225,7 +225,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Hawar Castle",
-                  "text": "Eine historische Burgruine in den Kurd-Bergen.",
+                  "text": "Die Burg Hawar ist eine Bergfestung in der Region Dagh.",
                   "category": "castle",
                   "coords": [
                         36.774689,
@@ -236,7 +236,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Hawar Castle",
-                  "text": "Történelmi várrom a Kurd-hegységben.",
+                  "text": "Hawar vára egy hegyi erőd a Dagh régióban.",
                   "category": "castle",
                   "coords": [
                         36.774689,
@@ -247,7 +247,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Hawar Castle",
-                  "text": "O ruină istorică de castel în Munții Kurzi.",
+                  "text": "Castelul Hawar este o fortăreață pe deal în regiunea Dagh.",
                   "category": "castle",
                   "coords": [
                         36.774689,
@@ -258,7 +258,7 @@ export const poiExtraSyriaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Hawar castle",
-                  "text": "A historic castle ruin located in the Kurd Mountains.",
+                  "text": "Hawar castle is a hilltop fortress in the Dagh region.",
                   "category": "castle",
                   "coords": [
                         36.774689,
@@ -302,7 +302,52 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "jabal-samaan-relief-v2",
+    id: "jabal-samaan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Refade",
+                  "text": "Diese byzantinischen Ruinen in der Nähe von Qalaat Semaan sind für ihre verzierten Türstürze und antiken Wohnhäuser bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        36.804284,
+                        36.318216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Refade",
+                  "text": "A Qalaat Semaan közelében található bizánci romok díszes szemöldökfáikról és ősi lakóházaikról ismertek.",
+                  "category": "historical",
+                  "coords": [
+                        36.804284,
+                        36.318216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Refade",
+                  "text": "Aceste ruine bizantine de lângă Qalaat Semaan sunt cunoscute pentru buiandrugii decorați și casele antice de locuit.",
+                  "category": "historical",
+                  "coords": [
+                        36.804284,
+                        36.318216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Refade",
+                  "text": "Located near Qalaat Semaan, these Byzantine ruins are known for their decorated door lintels and ancient residential houses.",
+                  "category": "historical",
+                  "coords": [
+                        36.804284,
+                        36.318216
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-HL",
     coords: [36.833333, 36.333333],
@@ -338,7 +383,52 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "hauran-plateau-relief-v2",
+    id: "hauran-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Maysari",
+                  "text": "Antike Basaltreste in der rauen, vulkanisch geprägten Landschaft des Hauran-Plateaus.",
+                  "category": "historical",
+                  "coords": [
+                        36.195,
+                        32.689167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat Maysari",
+                  "text": "Antik bazaltmaradványok a Hauran-fennsík zord, vulkanikus táján.",
+                  "category": "historical",
+                  "coords": [
+                        36.195,
+                        32.689167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat Maysari",
+                  "text": "Rămășițe antice de bazalt în peisajul vulcanic accidentat al platoului Hauran.",
+                  "category": "historical",
+                  "coords": [
+                        36.195,
+                        32.689167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Maysari",
+                  "text": "Ancient basalt remains in the rugged volcanic landscape of the Hauran plateau.",
+                  "category": "historical",
+                  "coords": [
+                        36.195,
+                        32.689167
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "SY-DR",
     coords: [36.166667, 32.75],
@@ -374,7 +464,88 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "al-safa-relief-v2",
+    id: "al-safa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Bayda'",
+                  "text": "Ruinen aus schwarzem Basalt in der vulkanischen Kraterlandschaft der Al-Safa-Region.",
+                  "category": "historical",
+                  "coords": [
+                        37.294851,
+                        33.01521
+                  ]
+            },
+            {
+                  "name": "Qasr el-Abyad",
+                  "text": "Als „Weißes Schloss“ bekannt, liegen diese Ruinen am Rande des Safa-Vulkanfeldes.",
+                  "category": "historical",
+                  "coords": [
+                        37.291426,
+                        33.015559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbat al Bayda'",
+                  "text": "Fekete bazaltból épült romok az Al-Safa régió vulkanikus krátervidékén.",
+                  "category": "historical",
+                  "coords": [
+                        37.294851,
+                        33.01521
+                  ]
+            },
+            {
+                  "name": "Qasr el-Abyad",
+                  "text": "A „Fehér Kastélyként” ismert romok a Safa-vulkáni mező szélén találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        37.291426,
+                        33.015559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbat al Bayda'",
+                  "text": "Ruine din bazalt negru situate în peisajul vulcanic al regiunii Al-Safa.",
+                  "category": "historical",
+                  "coords": [
+                        37.294851,
+                        33.01521
+                  ]
+            },
+            {
+                  "name": "Qasr el-Abyad",
+                  "text": "Cunoscute sub numele de „Castelul Alb”, aceste ruine se află la marginea câmpului vulcanic Safa.",
+                  "category": "historical",
+                  "coords": [
+                        37.291426,
+                        33.015559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Bayda'",
+                  "text": "Basalt ruins of a historical settlement in the volcanic landscape of the Al-Safa region.",
+                  "category": "historical",
+                  "coords": [
+                        37.294851,
+                        33.01521
+                  ]
+            },
+            {
+                  "name": "Qasr el-Abyad",
+                  "text": "Known as the 'White Castle,' these ruins sit on the edge of the Safa volcanic field.",
+                  "category": "historical",
+                  "coords": [
+                        37.291426,
+                        33.015559
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "SY-SU",
     coords: [37.25, 33.083333],
@@ -410,7 +581,196 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "al-lajat-relief-v2",
+    id: "al-lajat-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kawm ar Rumman",
+                  "text": "Antike Ruinen auf dem zerklüfteten Lavaplateau der Al-Lajat-Region.",
+                  "category": "historical",
+                  "coords": [
+                        36.271496,
+                        32.962629
+                  ]
+            },
+            {
+                  "name": "Zebire",
+                  "text": "Verlassene Steinstrukturen inmitten der schwarzen Basaltfelsen des Leja-Gebiets.",
+                  "category": "historical",
+                  "coords": [
+                        36.301217,
+                        32.98687
+                  ]
+            },
+            {
+                  "name": "Burj Janin",
+                  "text": "Ein historischer Ruinenhügel, der Zeugnis von der frühen Besiedlung dieser kargen Steinwüste ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        36.27223,
+                        32.982158
+                  ]
+            },
+            {
+                  "name": "Al Khider Masjed",
+                  "text": "Eine traditionelle muslimische Moschee, die der lokalen Gemeinschaft in der Al-Lajat-Ebene dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.341921,
+                        32.842989
+                  ]
+            },
+            {
+                  "name": "Church of St. George",
+                  "text": "Eine historische christliche Kirche, die das religiöse Erbe dieser ländlichen Region bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.256691,
+                        32.873241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kawm ar Rumman",
+                  "text": "Ókori romok az Al-Ladzsat régió kietlen, vulkanikus bazaltfennsíkján.",
+                  "category": "historical",
+                  "coords": [
+                        36.271496,
+                        32.962629
+                  ]
+            },
+            {
+                  "name": "Zebire",
+                  "text": "Elhagyatott kőépítmények a Leja-vidék fekete bazaltsziklái között.",
+                  "category": "historical",
+                  "coords": [
+                        36.301217,
+                        32.98687
+                  ]
+            },
+            {
+                  "name": "Burj Janin",
+                  "text": "Történelmi romterület, amely e kietlen kősivatag korai benépesüléséről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        36.27223,
+                        32.982158
+                  ]
+            },
+            {
+                  "name": "Al Khider Masjed",
+                  "text": "Hagyományos muszlim mecset, amely az Al-Ladzsat-síkság helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.341921,
+                        32.842989
+                  ]
+            },
+            {
+                  "name": "Church of St. George",
+                  "text": "Történelmi keresztény templom, amely a vidéki régió vallási örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        36.256691,
+                        32.873241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kawm ar Rumman",
+                  "text": "Ruine antice situate pe platoul vulcanic accidentat din regiunea Al-Lajat.",
+                  "category": "historical",
+                  "coords": [
+                        36.271496,
+                        32.962629
+                  ]
+            },
+            {
+                  "name": "Zebire",
+                  "text": "Structuri de piatră abandonate printre stâncile de bazalt negru din zona Leja.",
+                  "category": "historical",
+                  "coords": [
+                        36.301217,
+                        32.98687
+                  ]
+            },
+            {
+                  "name": "Burj Janin",
+                  "text": "Un sit istoric cu ruine ce atestă popularea timpurie a acestui deșert de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        36.27223,
+                        32.982158
+                  ]
+            },
+            {
+                  "name": "Al Khider Masjed",
+                  "text": "O moschee musulmană tradițională care deservește comunitatea locală din câmpia Al-Lajat.",
+                  "category": "landmark",
+                  "coords": [
+                        36.341921,
+                        32.842989
+                  ]
+            },
+            {
+                  "name": "Church of St. George",
+                  "text": "O biserică creștină istorică ce păstrează moștenirea religioasă a acestei regiuni rurale.",
+                  "category": "landmark",
+                  "coords": [
+                        36.256691,
+                        32.873241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kawm ar Rumman",
+                  "text": "Ancient ruins situated on the rugged lava plateau of the Al-Lajat region.",
+                  "category": "historical",
+                  "coords": [
+                        36.271496,
+                        32.962629
+                  ]
+            },
+            {
+                  "name": "Zebire",
+                  "text": "Abandoned stone structures amidst the black basalt rocks of the Leja area.",
+                  "category": "historical",
+                  "coords": [
+                        36.301217,
+                        32.98687
+                  ]
+            },
+            {
+                  "name": "Burj Janin",
+                  "text": "A historic ruin site bearing witness to early settlement in this barren stone desert.",
+                  "category": "historical",
+                  "coords": [
+                        36.27223,
+                        32.982158
+                  ]
+            },
+            {
+                  "name": "Al Khider Masjed",
+                  "text": "A traditional Muslim mosque serving the local community in the Al-Lajat plain.",
+                  "category": "landmark",
+                  "coords": [
+                        36.341921,
+                        32.842989
+                  ]
+            },
+            {
+                  "name": "Church of St. George",
+                  "text": "A historic Christian church preserving the religious heritage of this rural region.",
+                  "category": "landmark",
+                  "coords": [
+                        36.256691,
+                        32.873241
+                  ]
+            }
+      ]
+},
     type: "plateau",
     parent: "SY-SU",
     coords: [36.333333, 32.916667],
@@ -446,7 +806,52 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "jabal-abu-rujmayn-relief-v2",
+    id: "jabal-abu-rujmayn-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qdeym",
+                  "text": "Qdeym ist eine archäologische Stätte, an der antike Ruinen Spuren früher historischer Besiedlung in der Region offenbaren.",
+                  "category": "historical",
+                  "coords": [
+                        38.420575,
+                        35.049581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qdeym",
+                  "text": "Qdeym egy régészeti lelőhely, ahol az ókori romok a terület korai történelmi betelepülésének nyomait tárják fel.",
+                  "category": "historical",
+                  "coords": [
+                        38.420575,
+                        35.049581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qdeym",
+                  "text": "Qdeym este un sit arheologic unde ruinele antice dezvăluie urme ale așezărilor istorice timpurii din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        38.420575,
+                        35.049581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qdeym",
+                  "text": "Qdeym is an archaeological site where ancient ruins reveal traces of early historical settlement in the area.",
+                  "category": "historical",
+                  "coords": [
+                        38.420575,
+                        35.049581
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-HO",
     coords: [38.5, 35.0],
@@ -518,7 +923,52 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "rouj-valley-relief-v2",
+    id: "rouj-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roman castle ruins",
+                  "text": "Diese antiken Ruinen im Rouj-Tal zeugen von ehemaligen römischen Befestigungsanlagen in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        36.455841,
+                        35.9912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roman castle ruins",
+                  "text": "Ezek az antik romok a Rouj-völgyben az egykori római erődítmények emlékét őrzik a régióban.",
+                  "category": "castle",
+                  "coords": [
+                        36.455841,
+                        35.9912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roman castle ruins",
+                  "text": "Aceste ruine antice din Valea Rouj atestă fostele fortificații romane din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        36.455841,
+                        35.9912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman castle ruins",
+                  "text": "These ancient ruins in the Rouj Valley bear witness to former Roman fortifications in the region.",
+                  "category": "castle",
+                  "coords": [
+                        36.455841,
+                        35.9912
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "SY-ID",
     coords: [36.416667, 35.916667],
@@ -554,7 +1004,52 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "qalamoun-mountains-relief-v2",
+    id: "qalamoun-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Ma‘lūlā",
+                  "text": "Ein steiler Kalksteinfelsen über dem antiken Dorf Maaloula, in dem noch Aramäisch gesprochen wird.",
+                  "category": "natural",
+                  "coords": [
+                        36.61881,
+                        33.89931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jabal Ma‘lūlā",
+                  "text": "Meredek mészkőszikla az ősi Maaloula falu felett, ahol még beszélik az arámi nyelvet.",
+                  "category": "natural",
+                  "coords": [
+                        36.61881,
+                        33.89931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jabal Ma‘lūlā",
+                  "text": "O stâncă de calcar abruptă deasupra satului antic Maaloula, unde se mai vorbește încă limba aramaică.",
+                  "category": "natural",
+                  "coords": [
+                        36.61881,
+                        33.89931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Ma‘lūlā",
+                  "text": "A steep limestone peak overlooking the ancient village of Maaloula, where Aramaic is still spoken.",
+                  "category": "natural",
+                  "coords": [
+                        36.61881,
+                        33.89931
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-RD",
     coords: [36.666667, 33.916667],
@@ -590,7 +1085,88 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "syrian-coast-relief-v2",
+    id: "syrian-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Walnut avenue",
+                  "text": "Ein baumgesäumter Pfad, der zu den Befestigungsanlagen an der syrischen Küste führt.",
+                  "category": "castle",
+                  "coords": [
+                        35.93641,
+                        35.437836
+                  ]
+            },
+            {
+                  "name": "Schrein von Scheich Salman Abbas",
+                  "text": "Ein muslimisches Küstenheiligtum, das von der lokalen Gemeinschaft als heiliger Ort verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.926751,
+                        35.446238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Walnut avenue",
+                  "text": "Fákkal szegélyezett ösvény, amely a szíriai partvidék erődítményeihez vezet.",
+                  "category": "castle",
+                  "coords": [
+                        35.93641,
+                        35.437836
+                  ]
+            },
+            {
+                  "name": "Shrine of Sheikh Salman Abbas",
+                  "text": "Partmenti muszlim kegyhely, amelyet a helyi közösség szent helyként tisztel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.926751,
+                        35.446238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Walnut avenue",
+                  "text": "O potecă mărginită de copaci care duce spre fortificațiile de pe coasta siriană.",
+                  "category": "castle",
+                  "coords": [
+                        35.93641,
+                        35.437836
+                  ]
+            },
+            {
+                  "name": "Shrine of Sheikh Salman Abbas",
+                  "text": "Un sanctuar musulman de coastă, venerat ca loc sfânt de către comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.926751,
+                        35.446238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Walnut avenue",
+                  "text": "A tree-lined path or avenue leading towards the fortifications on the Syrian coast.",
+                  "category": "castle",
+                  "coords": [
+                        35.93641,
+                        35.437836
+                  ]
+            },
+            {
+                  "name": "Shrine of Sheikh Salman Abbas",
+                  "text": "A coastal Muslim shrine revered as a holy site by the local Alawite community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.926751,
+                        35.446238
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "SY-LA",
     coords: [35.916667, 35.5],
@@ -626,7 +1202,88 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "jabal-al-nabi-yunis-relief-v2",
+    id: "jabal-al-nabi-yunis-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qal`at Burzay",
+                  "text": "Ruinen einer byzantinischen und kreuzritterzeitlichen Festung auf einem strategischen Bergrücken.",
+                  "category": "historical",
+                  "coords": [
+                        36.260871,
+                        35.65718
+                  ]
+            },
+            {
+                  "name": "Prophet Mattá shrine",
+                  "text": "Ein abgelegenes Gebirgsheiligtum, das dem Propheten Matta (Matthäus) gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        36.221075,
+                        35.600779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qal`at Burzay",
+                  "text": "Egy bizánci és keresztes lovagkori erőd romjai egy stratégiai hegygerincen.",
+                  "category": "historical",
+                  "coords": [
+                        36.260871,
+                        35.65718
+                  ]
+            },
+            {
+                  "name": "Prophet Mattá shrine",
+                  "text": "Távoli hegyi kegyhely, amelyet Matta (Máté) prófétának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        36.221075,
+                        35.600779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qal`at Burzay",
+                  "text": "Ruinele unei cetăți bizantine și cruciate situate pe o creastă montană strategică.",
+                  "category": "historical",
+                  "coords": [
+                        36.260871,
+                        35.65718
+                  ]
+            },
+            {
+                  "name": "Prophet Mattá shrine",
+                  "text": "Un sanctuar montan izolat dedicat profetului Matta (Matei).",
+                  "category": "religious",
+                  "coords": [
+                        36.221075,
+                        35.600779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qal`at Burzay",
+                  "text": "The ruins of a Byzantine and Crusader-era fortress perched on a strategic mountain ridge.",
+                  "category": "historical",
+                  "coords": [
+                        36.260871,
+                        35.65718
+                  ]
+            },
+            {
+                  "name": "Prophet Mattá shrine",
+                  "text": "A remote mountain shrine dedicated to the Prophet Matta (Matthew).",
+                  "category": "religious",
+                  "coords": [
+                        36.221075,
+                        35.600779
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SY-LA",
     coords: [36.216667, 35.583333],
@@ -662,7 +1319,52 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "orontes-valley-relief-v2",
+    id: "orontes-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maqsam ad Dar",
+                  "text": "Ruine einer historischen Windmühle in der Agrarlandschaft des Orontes-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        36.65,
+                        34.833333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maqsam ad Dar",
+                  "text": "Egy történelmi szélmalom romjai az Orontész-völgy mezőgazdasági táján.",
+                  "category": "landmark",
+                  "coords": [
+                        36.65,
+                        34.833333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maqsam ad Dar",
+                  "text": "Ruina unei mori de vânt istorice în peisajul agricol al văii râului Orontes.",
+                  "category": "landmark",
+                  "coords": [
+                        36.65,
+                        34.833333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maqsam ad Dar",
+                  "text": "The ruin of a historical windmill set in the agricultural landscape of the Orontes valley.",
+                  "category": "landmark",
+                  "coords": [
+                        36.65,
+                        34.833333
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "SY-HM",
     coords: [36.666667, 34.916667],
@@ -698,7 +1400,304 @@ export const poiExtraSyriaReliefV2: POI[] = [
     },
   },
   {
-    id: "wadi-barada-relief-v2",
+    id: "wadi-barada-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nawawis",
+                  "text": "Diese antiken Felsengräber im Barada-Tal zeugen von der frühen Besiedlung dieser wasserreichen Schlucht.",
+                  "category": "historical",
+                  "coords": [
+                        36.066667,
+                        33.566667
+                  ]
+            },
+            {
+                  "name": "Nabi Habeel Mosque",
+                  "text": "Diese Moschee beherbergt ein monumentales, sieben Meter langes Grab, das dem biblischen Abel zugeschrieben wird.",
+                  "category": "religious",
+                  "coords": [
+                        36.106099,
+                        33.621262
+                  ]
+            },
+            {
+                  "name": "Alruodha",
+                  "text": "Ein beliebter Erholungsort im landschaftlich reizvollen Wadi Barada, umgeben von Obstgärten und Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        36.0401,
+                        33.619548
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "Ein moderner Wasserpark im Barada-Tal, der Rutschen und Erfrischung in der Nähe des Flusses bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        36.055807,
+                        33.600719
+                  ]
+            },
+            {
+                  "name": "Hawsh al `Arab",
+                  "text": "Ruinen einer alten Siedlung im Barada-Tal, die steinerne Überreste vergangener Kulturen bewahren.",
+                  "category": "historical",
+                  "coords": [
+                        36.049419,
+                        33.565634
+                  ]
+            },
+            {
+                  "name": "Alehsan mosque",
+                  "text": "Eine lokale Moschee im Barada-Tal, die als zentrales Gebetshaus für die umliegenden Dörfer dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.077267,
+                        33.659246
+                  ]
+            },
+            {
+                  "name": "Dayr Muqarran",
+                  "text": "Dieses christliche Viertel im Barada-Tal bewahrt alte Traditionen in einer überwiegend ländlichen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        36.136111,
+                        33.630556
+                  ]
+            },
+            {
+                  "name": "Bilal Masjed",
+                  "text": "Ein bescheidenes muslimisches Gebetshaus am Ufer des Barada-Flusses, benannt nach Bilal al-Habaschi.",
+                  "category": "landmark",
+                  "coords": [
+                        36.058819,
+                        33.537529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nawawis",
+                  "text": "Ezek az ókori sziklasírok a Barada-völgyben a vízben gazdag szurdok korai benépesüléséről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        36.066667,
+                        33.566667
+                  ]
+            },
+            {
+                  "name": "Nabi Habeel Mosque",
+                  "text": "Ez a mecset egy monumentális, hét méter hosszú sírnak ad otthont, amelyet a bibliai Ábelnek tulajdonítanak.",
+                  "category": "religious",
+                  "coords": [
+                        36.106099,
+                        33.621262
+                  ]
+            },
+            {
+                  "name": "Alruodha",
+                  "text": "Népszerű üdülőhely a festői Wadi Baradában, gyümölcsösökkel és hegyekkel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        36.0401,
+                        33.619548
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "Modern vízi park a Barada-völgyben, amely csúszdákat és felfrissülést kínál a folyó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        36.055807,
+                        33.600719
+                  ]
+            },
+            {
+                  "name": "Hawsh al `Arab",
+                  "text": "Egy régi település romjai a Barada-völgyben, amelyek megőrizték a múltbeli kultúrák kőmaradványait.",
+                  "category": "historical",
+                  "coords": [
+                        36.049419,
+                        33.565634
+                  ]
+            },
+            {
+                  "name": "Alehsan mosque",
+                  "text": "Helyi mecset a Barada-völgyben, amely a környező falvak központi imaházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        36.077267,
+                        33.659246
+                  ]
+            },
+            {
+                  "name": "Dayr Muqarran",
+                  "text": "Ez a Barada-völgyi keresztény negyed ősi hagyományokat őriz a túlnyomórészt vidéki környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.136111,
+                        33.630556
+                  ]
+            },
+            {
+                  "name": "Bilal Masjed",
+                  "text": "Szerény muszlim imaház a Barada-folyó partján, amelyet Bilal al-Habasiról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        36.058819,
+                        33.537529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nawawis",
+                  "text": "Aceste morminte antice săpate în stâncă din Valea Barada atestă așezarea timpurie în acest defileu bogat în apă.",
+                  "category": "historical",
+                  "coords": [
+                        36.066667,
+                        33.566667
+                  ]
+            },
+            {
+                  "name": "Nabi Habeel Mosque",
+                  "text": "Această moschee adăpostește un mormânt monumental de șapte metri lungime, atribuit lui Abel din Biblie.",
+                  "category": "religious",
+                  "coords": [
+                        36.106099,
+                        33.621262
+                  ]
+            },
+            {
+                  "name": "Alruodha",
+                  "text": "Un loc de recreere popular în pitorescul Wadi Barada, înconjurat de livezi și munți.",
+                  "category": "landmark",
+                  "coords": [
+                        36.0401,
+                        33.619548
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "Un parc acvatic modern în Valea Barada, oferind tobogane și răcoare în apropierea râului.",
+                  "category": "recreational",
+                  "coords": [
+                        36.055807,
+                        33.600719
+                  ]
+            },
+            {
+                  "name": "Hawsh al `Arab",
+                  "text": "Ruinele unei vechi așezări din Valea Barada, care păstrează rămășițele de piatră ale culturilor trecute.",
+                  "category": "historical",
+                  "coords": [
+                        36.049419,
+                        33.565634
+                  ]
+            },
+            {
+                  "name": "Alehsan mosque",
+                  "text": "Această moschee locală din Valea Barada servește ca lăcaș central de rugăciune pentru satele din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        36.077267,
+                        33.659246
+                  ]
+            },
+            {
+                  "name": "Dayr Muqarran",
+                  "text": "Acest cartier creștin din Valea Barada păstrează vechi tradiții într-un cadru predominant rural.",
+                  "category": "landmark",
+                  "coords": [
+                        36.136111,
+                        33.630556
+                  ]
+            },
+            {
+                  "name": "Bilal Masjed",
+                  "text": "O casă de rugăciune musulmană modestă pe malul râului Barada, numită după Bilal al-Habashi.",
+                  "category": "landmark",
+                  "coords": [
+                        36.058819,
+                        33.537529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nawawis",
+                  "text": "These ancient rock-cut tombs in the Barada valley bear witness to early settlement in this water-rich gorge.",
+                  "category": "historical",
+                  "coords": [
+                        36.066667,
+                        33.566667
+                  ]
+            },
+            {
+                  "name": "Nabi Habeel Mosque",
+                  "text": "This mosque houses a monumental seven-meter-long tomb attributed to the biblical Abel.",
+                  "category": "religious",
+                  "coords": [
+                        36.106099,
+                        33.621262
+                  ]
+            },
+            {
+                  "name": "Alruodha",
+                  "text": "A popular recreation spot in the scenic Wadi Barada, surrounded by orchards and mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        36.0401,
+                        33.619548
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "A modern water park in the Barada valley, offering slides and refreshment near the river.",
+                  "category": "recreational",
+                  "coords": [
+                        36.055807,
+                        33.600719
+                  ]
+            },
+            {
+                  "name": "Hawsh al `Arab",
+                  "text": "Ruins of an ancient settlement in the Barada valley, preserving stone remains of past cultures.",
+                  "category": "historical",
+                  "coords": [
+                        36.049419,
+                        33.565634
+                  ]
+            },
+            {
+                  "name": "Alehsan mosque",
+                  "text": "A local mosque in the Barada valley, serving as a central prayer house for the surrounding villages.",
+                  "category": "landmark",
+                  "coords": [
+                        36.077267,
+                        33.659246
+                  ]
+            },
+            {
+                  "name": "Dayr Muqarran",
+                  "text": "This Christian area in the Barada valley preserves ancient traditions within a predominantly rural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        36.136111,
+                        33.630556
+                  ]
+            },
+            {
+                  "name": "Bilal Masjed",
+                  "text": "A modest Muslim prayer house on the banks of the Barada river, named after Bilal al-Habashi.",
+                  "category": "landmark",
+                  "coords": [
+                        36.058819,
+                        33.537529
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "SY-RD",
     coords: [36.1, 33.616667],

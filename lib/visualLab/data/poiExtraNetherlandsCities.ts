@@ -15,7 +15,7 @@ export const poiExtraNetherlandsCities: POI[] = [
       "de": [
             {
                   "name": "Hoek van Holland",
-                  "text": "Strand in Hoek van Holland bei Port Maasvlakte 2.",
+                  "text": "Hoek van Holland, ein Sandstrand an der Nordseeküste von Maasvlakte 2, beliebt zum Windsurfen.",
                   "category": "recreational",
                   "coords": [
                         4.10808,
@@ -62,7 +62,7 @@ export const poiExtraNetherlandsCities: POI[] = [
       "hu": [
             {
                   "name": "Hoek van Holland",
-                  "text": "Strand Hoek van Holland-ban, a Port Maasvlakte 2 közelében.",
+                  "text": "Hoek van Holland, egy homokos tengerpart az Északi-tenger partján a Maasvlakte 2-nél, népszerű szörfözésre.",
                   "category": "recreational",
                   "coords": [
                         4.10808,
@@ -109,7 +109,7 @@ export const poiExtraNetherlandsCities: POI[] = [
       "ro": [
             {
                   "name": "Hoek van Holland",
-                  "text": "Plajă în Hoek van Holland, lângă Port Maasvlakte 2.",
+                  "text": "Hoek van Holland, o plajă nisipoasă pe coasta Mării Nordului la Maasvlakte 2, populară pentru windsurfing.",
                   "category": "recreational",
                   "coords": [
                         4.10808,
@@ -156,7 +156,7 @@ export const poiExtraNetherlandsCities: POI[] = [
       "en": [
             {
                   "name": "Hoek van Holland",
-                  "text": "Beach in Hoek van Holland near Port Maasvlakte 2.",
+                  "text": "Hoek van Holland, a sandy beach on the North Sea coast of Maasvlakte 2, popular for windsurfing.",
                   "category": "recreational",
                   "coords": [
                         4.10808,

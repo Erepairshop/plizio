@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraLebanonEconomicV2: POI[] = [
   {
-    id: "port-of-beirut-economic-v2",
+    id: "port-of-beirut-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie Tanit",
+                  "text": "Eine Galerie für zeitgenössische Kunst in einem renovierten Industriebau im Beiruter Viertel Mar Mikhaël.",
+                  "category": "museum",
+                  "coords": [
+                        35.522749,
+                        33.896043
+                  ]
+            },
+            {
+                  "name": "Twin gauge tracks",
+                  "text": "Verlassene Eisenbahnschienen mit zwei Spurweiten am Hafen von Beirut, Zeugen des historischen Schienennetzes.",
+                  "category": "historical",
+                  "coords": [
+                        35.533046,
+                        33.894036
+                  ]
+            },
+            {
+                  "name": "Galerie Sfeir-Semler",
+                  "text": "Eine führende Galerie für zeitgenössische Kunst aus der arabischen Welt in einer riesigen Fabrikhalle in Beirut.",
+                  "category": "museum",
+                  "coords": [
+                        35.536637,
+                        33.90052
+                  ]
+            },
+            {
+                  "name": "Al Mandaloun",
+                  "text": "Ein bekannter Nachtclub und Veranstaltungsort in einem markanten historischen Gebäude im Beiruter Viertel Mar Mikhaël.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533584,
+                        33.896192
+                  ]
+            },
+            {
+                  "name": "The Bus Cemetery",
+                  "text": "Ein atmosphärischer Ort am Hafen von Beirut, an dem alte, rostende Busse aus verschiedenen Epochen lagern.",
+                  "category": "landmark",
+                  "coords": [
+                        35.529943,
+                        33.897673
+                  ]
+            },
+            {
+                  "name": "Shaghzoyan Cultural Center",
+                  "text": "Ein armenisches Kulturzentrum in Bourj Hammoud, Beirut, das Ausstellungen und Gemeinschaftsveranstaltungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.538771,
+                        33.895856
+                  ]
+            },
+            {
+                  "name": "St. Michel",
+                  "text": "Eine historische maronitisch-katholische Kirche im Herzen des Beiruter Viertels Mar Mikhaël.",
+                  "category": "landmark",
+                  "coords": [
+                        35.526135,
+                        33.898165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie Tanit",
+                  "text": "Kortárs művészeti galéria egy felújított ipari épületben, Bejrút Mar Mikhaël negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        35.522749,
+                        33.896043
+                  ]
+            },
+            {
+                  "name": "Twin gauge tracks",
+                  "text": "Elhagyatott kettős nyomtávú vasúti sínek a bejrúti kikötőben, a történelmi vasúthálózat maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        35.533046,
+                        33.894036
+                  ]
+            },
+            {
+                  "name": "Galerie Sfeir-Semler",
+                  "text": "Az arab világ kortárs művészetének vezető galériája egy hatalmas bejrúti gyárépületben.",
+                  "category": "museum",
+                  "coords": [
+                        35.536637,
+                        33.90052
+                  ]
+            },
+            {
+                  "name": "Al Mandaloun",
+                  "text": "Ismert éjszakai klub és rendezvényhelyszín egy jellegzetes történelmi épületben, Bejrút Mar Mikhaël negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533584,
+                        33.896192
+                  ]
+            },
+            {
+                  "name": "The Bus Cemetery",
+                  "text": "Hangulatos hely a bejrúti kikötőben, ahol különböző korszakokból származó régi, rozsdásodó buszokat tárolnak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.529943,
+                        33.897673
+                  ]
+            },
+            {
+                  "name": "Shaghzoyan Cultural Center",
+                  "text": "Örmény kulturális központ a bejrúti Bourj Hammoud negyedben, amely kiállításoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.538771,
+                        33.895856
+                  ]
+            },
+            {
+                  "name": "St. Michel",
+                  "text": "Történelmi maronita katolikus templom Bejrút Mar Mikhaël negyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.526135,
+                        33.898165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie Tanit",
+                  "text": "O galerie de artă contemporană situată într-un spațiu industrial renovat din cartierul Mar Mikhaël din Beirut.",
+                  "category": "museum",
+                  "coords": [
+                        35.522749,
+                        33.896043
+                  ]
+            },
+            {
+                  "name": "Twin gauge tracks",
+                  "text": "Șine de cale ferată cu ecartament dublu abandonate în portul Beirut, vestigii ale rețelei feroviare istorice.",
+                  "category": "historical",
+                  "coords": [
+                        35.533046,
+                        33.894036
+                  ]
+            },
+            {
+                  "name": "Galerie Sfeir-Semler",
+                  "text": "O galerie de top pentru arta contemporană din lumea arabă, situată într-un spațiu industrial masiv din Beirut.",
+                  "category": "museum",
+                  "coords": [
+                        35.536637,
+                        33.90052
+                  ]
+            },
+            {
+                  "name": "Al Mandaloun",
+                  "text": "Un club de noapte și local renumit, găzduit într-o clădire istorică distinctivă din cartierul Mar Mikhaël din Beirut.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533584,
+                        33.896192
+                  ]
+            },
+            {
+                  "name": "The Bus Cemetery",
+                  "text": "Un sit evocator în portul Beirut, unde sunt depozitate autobuze vechi și ruginite din diferite epoci.",
+                  "category": "landmark",
+                  "coords": [
+                        35.529943,
+                        33.897673
+                  ]
+            },
+            {
+                  "name": "Shaghzoyan Cultural Center",
+                  "text": "Un centru cultural armenesc care găzduiește expoziții și evenimente comunitare în Bourj Hammoud, Beirut.",
+                  "category": "cultural",
+                  "coords": [
+                        35.538771,
+                        33.895856
+                  ]
+            },
+            {
+                  "name": "St. Michel",
+                  "text": "O biserică catolică maronită istorică situată în inima cartierului Mar Mikhaël din Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.526135,
+                        33.898165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie Tanit",
+                  "text": "A contemporary art gallery located in a renovated industrial space in Mar Mikhaël, Beirut.",
+                  "category": "museum",
+                  "coords": [
+                        35.522749,
+                        33.896043
+                  ]
+            },
+            {
+                  "name": "Twin gauge tracks",
+                  "text": "Abandoned dual-gauge railway tracks remaining from Lebanon's historic rail network at the Beirut port.",
+                  "category": "historical",
+                  "coords": [
+                        35.533046,
+                        33.894036
+                  ]
+            },
+            {
+                  "name": "Sfeir-Semler Gallery",
+                  "text": "A leading gallery for contemporary art from the Arab world, set in a massive factory space in Beirut.",
+                  "category": "museum",
+                  "coords": [
+                        35.536637,
+                        33.90052
+                  ]
+            },
+            {
+                  "name": "Al Mandaloun",
+                  "text": "A well-known nightclub and venue housed in a distinctive historic building in Mar Mikhaël, Beirut.",
+                  "category": "cultural",
+                  "coords": [
+                        35.533584,
+                        33.896192
+                  ]
+            },
+            {
+                  "name": "The Bus Cemetery",
+                  "text": "An evocative site at the Beirut port where old, rusting buses from different eras are stored.",
+                  "category": "landmark",
+                  "coords": [
+                        35.529943,
+                        33.897673
+                  ]
+            },
+            {
+                  "name": "Shaghzoyan Cultural Center",
+                  "text": "An Armenian cultural center hosting exhibitions and community events in Bourj Hammoud, Beirut.",
+                  "category": "cultural",
+                  "coords": [
+                        35.538771,
+                        33.895856
+                  ]
+            },
+            {
+                  "name": "St. Michel",
+                  "text": "A historic Maronite Catholic church located in the heart of the Mar Mikhaël district in Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.526135,
+                        33.898165
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LB-BA",
     coords: [35.518, 33.901],
@@ -51,7 +312,160 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "port-of-tripoli-economic-v2",
+    id: "port-of-tripoli-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Löwenturm",
+                  "text": "Eine mamelukische Küstenfestung aus dem 14. bis 15. Jahrhundert, die den antiken Hafen von Tripolis bewacht.",
+                  "category": "castle",
+                  "coords": [
+                        35.830624,
+                        34.449886
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "Eine islamische Moschee, die ein spirituelles Zentrum für die muslimische Gemeinschaft in der Nähe des Hafens von Tripolis bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825279,
+                        34.443215
+                  ]
+            },
+            {
+                  "name": "Al Hamidi Mosque",
+                  "text": "Eine islamische Kultstätte im pulsierenden wirtschaftlichen Hafengebiet von Tripolis.",
+                  "category": "landmark",
+                  "coords": [
+                        35.817565,
+                        34.450556
+                  ]
+            },
+            {
+                  "name": "Osman Mosque",
+                  "text": "Eine lokale islamische Moschee zu Ehren des Namens Osman, die der Hafenregion von Tripolis dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.817012,
+                        34.446986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lion Tower",
+                  "text": "Egy 14-15. századi mameluk part menti erőd, amely Tripoli ősi kikötőjét védi.",
+                  "category": "castle",
+                  "coords": [
+                        35.830624,
+                        34.449886
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "A tripoli kikötő közelében lévő muszlim közösség szellemi központjaként szolgáló iszlám mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825279,
+                        34.443215
+                  ]
+            },
+            {
+                  "name": "Al Hamidi Mosque",
+                  "text": "Az élénk gazdasági kikötőnegyedben található iszlám imahely Tripoliban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.817565,
+                        34.450556
+                  ]
+            },
+            {
+                  "name": "Osman Mosque",
+                  "text": "Az Osman nevet viselő helyi iszlám mecset, amely a tripoli kikötőrégiót szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.817012,
+                        34.446986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lion Tower",
+                  "text": "O fortăreață de coastă mamelucă din secolele XIV-XV, care păzește portul antic din Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.830624,
+                        34.449886
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "O moschee islamică care oferă un centru spiritual pentru comunitatea musulmană din apropierea portului Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825279,
+                        34.443215
+                  ]
+            },
+            {
+                  "name": "Al Hamidi Mosque",
+                  "text": "Un lăcaș de cult islamic situat în zona portuară economică vibrantă din Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.817565,
+                        34.450556
+                  ]
+            },
+            {
+                  "name": "Osman Mosque",
+                  "text": "O moschee islamică locală care onorează numele Osman, deservind regiunea portului Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.817012,
+                        34.446986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lion Tower",
+                  "text": "A 14th-to-15th-century Mamluk coastal fortress guarding the ancient port of Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.830624,
+                        34.449886
+                  ]
+            },
+            {
+                  "name": "Al Salam",
+                  "text": "An Islamic mosque providing a spiritual center for the Muslim community near the Tripoli port.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825279,
+                        34.443215
+                  ]
+            },
+            {
+                  "name": "Al Hamidi Mosque",
+                  "text": "An Islamic place of worship situated in the vibrant economic port area of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.817565,
+                        34.450556
+                  ]
+            },
+            {
+                  "name": "Osman Mosque",
+                  "text": "A local Islamic mosque honoring the name Osman, serving the Tripoli port region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.817012,
+                        34.446986
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LB-AS",
     coords: [35.820, 34.450],
@@ -147,7 +561,52 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "port-of-tyre-economic-v2",
+    id: "port-of-tyre-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tyr Ruins",
+                  "text": "Ausgedehnte archäologische Stätte mit den Ruinen eines der größten römischen Hippodrome der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.196807,
+                        33.270322
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tyr Ruins",
+                  "text": "Kiterjedt régészeti lelőhely a világ egyik legnagyobb római hippodromjának romjaival.",
+                  "category": "landmark",
+                  "coords": [
+                        35.196807,
+                        33.270322
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tyr Ruins",
+                  "text": "Situl arheologic extins care găzduiește ruinele unuia dintre cele mai mari hipodromuri romane din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        35.196807,
+                        33.270322
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tyr Ruins",
+                  "text": "Extensive archaeological site featuring the ruins of one of the largest Roman hippodromes in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        35.196807,
+                        33.270322
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LB-JA",
     coords: [35.195, 33.275],
@@ -195,7 +654,376 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "chekka-cement-plant-economic-v2",
+    id: "chekka-cement-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rocca Marina",
+                  "text": "Ein Ferienort mit einem markanten Außenpool, der direkt in die felsige Küstenlandschaft von Chekka gehauen wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        35.697532,
+                        34.309468
+                  ]
+            },
+            {
+                  "name": "Palmera Beach Resort",
+                  "text": "Ein Strandresort am Mittelmeer, das für seine Palmen und die entspannte Atmosphäre an der Küste bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        35.720953,
+                        34.315707
+                  ]
+            },
+            {
+                  "name": "Nabu",
+                  "text": "Ein modernes Museum am Meer, das archäologische Artefakte und zeitgenössische Kunst aus der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        35.7044,
+                        34.304338
+                  ]
+            },
+            {
+                  "name": "Florida Beach",
+                  "text": "Ein weitläufiger Strandclub am tiefblauen Wasser der Küste von Chekka, ideal für Wassersport.",
+                  "category": "recreational",
+                  "coords": [
+                        35.707553,
+                        34.305377
+                  ]
+            },
+            {
+                  "name": "Beny Beach",
+                  "text": "Ein lokales Strandresort, das für seinen klaren Zugang zum Meer und seine entspannte Freizeitatmosphäre geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        35.705515,
+                        34.305037
+                  ]
+            },
+            {
+                  "name": "Grotto of Saint Elias",
+                  "text": "Eine heilige Höhlenschreine, die in die Kalksteinklippen nahe der Küste von Chekka eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.786678,
+                        34.267738
+                  ]
+            },
+            {
+                  "name": "saydet el nourieh",
+                  "text": "Ein Marienwallfahrtsort auf einer 300 Meter hohen Klippe, der einen spektakulären Blick auf das Meer bietet.",
+                  "category": "religious",
+                  "coords": [
+                        35.693753,
+                        34.309733
+                  ]
+            },
+            {
+                  "name": "Church Of Saint Georges",
+                  "text": "Eine traditionelle christliche Steinkirche, die das kulturelle Erbe dieser Küstenregion repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.793691,
+                        34.268621
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Eine dem Heiligen Elias gewidmete Kirche, die aus lokalem Kalkstein in klassischer Bauweise errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.760294,
+                        34.274168
+                  ]
+            },
+            {
+                  "name": "St. Anthonys Church",
+                  "text": "Eine Gemeindekirche in der Küstenstadt, die für ihre schlichte, aber würdevolle Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827001,
+                        34.326551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rocca Marina",
+                  "text": "Üdülőhely egy jellegzetes szabadtéri medencével, amelyet közvetlenül Chekka sziklás partvidékébe vájtak.",
+                  "category": "recreational",
+                  "coords": [
+                        35.697532,
+                        34.309468
+                  ]
+            },
+            {
+                  "name": "Palmera Beach Resort",
+                  "text": "Földközi-tengeri üdülőhely, amely pálmafáiról és a tengerparti pihentető légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.720953,
+                        34.315707
+                  ]
+            },
+            {
+                  "name": "Nabu",
+                  "text": "Modern tengerparti múzeum, amely régészeti leleteket és kortárs regionális művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.7044,
+                        34.304338
+                  ]
+            },
+            {
+                  "name": "Florida Beach",
+                  "text": "Kiterjedt strandklub Chekka mélykék vizeinél, amely ideális a vízi sportok kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        35.707553,
+                        34.305377
+                  ]
+            },
+            {
+                  "name": "Beny Beach",
+                  "text": "Helyi tengerparti üdülőhely, amelyet tiszta vízpartja és kötetlen szabadidős hangulata miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        35.705515,
+                        34.305037
+                  ]
+            },
+            {
+                  "name": "Grotto of Saint Elias",
+                  "text": "Szent barlangszentély, amely a Chekka partjaihoz közeli mészkősziklákba ágyazódik.",
+                  "category": "landmark",
+                  "coords": [
+                        35.786678,
+                        34.267738
+                  ]
+            },
+            {
+                  "name": "saydet el nourieh",
+                  "text": "Mária-kegyhely egy 300 méter magas sziklán, amely látványos kilátást nyújt a tengerre.",
+                  "category": "religious",
+                  "coords": [
+                        35.693753,
+                        34.309733
+                  ]
+            },
+            {
+                  "name": "Church Of Saint Georges",
+                  "text": "Hagyományos keresztény kőtemplom, amely a tengerparti régió kulturális örökségét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.793691,
+                        34.268621
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Szent Illésnek szentelt templom, amely helyi mészkőből, klasszikus stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        35.760294,
+                        34.274168
+                  ]
+            },
+            {
+                  "name": "St. Anthonys Church",
+                  "text": "Közösségi templom a tengerparti városban, amely egyszerű, de méltóságteljes építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827001,
+                        34.326551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rocca Marina",
+                  "text": "O stațiune cu o piscină exterioară distinctivă, săpată direct în coasta stâncoasă din Chekka.",
+                  "category": "recreational",
+                  "coords": [
+                        35.697532,
+                        34.309468
+                  ]
+            },
+            {
+                  "name": "Palmera Beach Resort",
+                  "text": "O stațiune la Marea Mediterană, cunoscută pentru palmierii săi și atmosfera relaxată de pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        35.720953,
+                        34.315707
+                  ]
+            },
+            {
+                  "name": "Nabu",
+                  "text": "Un muzeu modern la malul mării, care expune artefacte arheologice și artă contemporană regională.",
+                  "category": "museum",
+                  "coords": [
+                        35.7044,
+                        34.304338
+                  ]
+            },
+            {
+                  "name": "Florida Beach",
+                  "text": "Un club de plajă spațios la apele albastre ale coastei Chekka, ideal pentru sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        35.707553,
+                        34.305377
+                  ]
+            },
+            {
+                  "name": "Beny Beach",
+                  "text": "O stațiune locală apreciată pentru accesul clar la mare și atmosfera sa relaxată de petrecere a timpului liber.",
+                  "category": "recreational",
+                  "coords": [
+                        35.705515,
+                        34.305037
+                  ]
+            },
+            {
+                  "name": "Grotto of Saint Elias",
+                  "text": "Un altar într-o peșteră sacră, cuibărit în faleza de calcar de lângă coasta localității Chekka.",
+                  "category": "landmark",
+                  "coords": [
+                        35.786678,
+                        34.267738
+                  ]
+            },
+            {
+                  "name": "saydet el nourieh",
+                  "text": "Un sanctuar marian pe o stâncă înaltă de 300 de metri, oferind o vedere spectaculoasă asupra mării.",
+                  "category": "religious",
+                  "coords": [
+                        35.693753,
+                        34.309733
+                  ]
+            },
+            {
+                  "name": "Church Of Saint Georges",
+                  "text": "O biserică creștină tradițională din piatră, reprezentând moștenirea culturală a acestei regiuni de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.793691,
+                        34.268621
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "O biserică dedicată Sfântului Ilie, construită din calcar local în stil clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        35.760294,
+                        34.274168
+                  ]
+            },
+            {
+                  "name": "St. Anthonys Church",
+                  "text": "O biserică comunitară din orașul de coastă, cunoscută pentru arhitectura sa simplă, dar demnă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827001,
+                        34.326551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rocca Marina",
+                  "text": "A resort featuring a distinctive outdoor pool carved directly into the rocky coastline of Chekka.",
+                  "category": "recreational",
+                  "coords": [
+                        35.697532,
+                        34.309468
+                  ]
+            },
+            {
+                  "name": "Palmera Beach Resort",
+                  "text": "A Mediterranean beach resort known for its palm trees and relaxed seaside atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        35.720953,
+                        34.315707
+                  ]
+            },
+            {
+                  "name": "Nabu",
+                  "text": "A modern seaside museum exhibiting archaeological artifacts and contemporary regional art.",
+                  "category": "museum",
+                  "coords": [
+                        35.7044,
+                        34.304338
+                  ]
+            },
+            {
+                  "name": "Florida Beach",
+                  "text": "A spacious beach club by the deep blue waters of the Chekka coastline, ideal for water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        35.707553,
+                        34.305377
+                  ]
+            },
+            {
+                  "name": "Beny Beach",
+                  "text": "A local beach resort valued for its clear access to the sea and casual leisure atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        35.705515,
+                        34.305037
+                  ]
+            },
+            {
+                  "name": "Grotto of Saint Elias",
+                  "text": "A sacred cave shrine nestled into the limestone cliffs near the Chekka coast.",
+                  "category": "landmark",
+                  "coords": [
+                        35.786678,
+                        34.267738
+                  ]
+            },
+            {
+                  "name": "saydet el nourieh",
+                  "text": "A Marian shrine on a 300-meter-high cliff, offering spectacular views over the sea.",
+                  "category": "religious",
+                  "coords": [
+                        35.693753,
+                        34.309733
+                  ]
+            },
+            {
+                  "name": "Church Of Saint Georges",
+                  "text": "A traditional stone Christian church representing the cultural heritage of this coastal region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.793691,
+                        34.268621
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "A church dedicated to Saint Elias, built from local limestone in a classic architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        35.760294,
+                        34.274168
+                  ]
+            },
+            {
+                  "name": "St. Anthonys Church",
+                  "text": "A community church in the coastal town, known for its simple yet dignified architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.827001,
+                        34.326551
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LB-AS",
     coords: [35.731, 34.316],
@@ -243,7 +1071,448 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "zouk-power-plant-economic-v2",
+    id: "zouk-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Souk du Zouk",
+                  "text": "Ein charmanter historischer Marktplatz in Zouk Mikael mit traditioneller Architektur und Kunsthandwerkswerkstätten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "Théâtre George V",
+                  "text": "Ein modernes Theatergebäude, in dem verschiedene Bühnenstücke, Musikaufführungen und kulturelle Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "Ein zeitgenössisches Denkmal, das das architektonische Erbe und die Stadtentwicklung des Libanon feiert.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "Senses",
+                  "text": "Ein luxuriöses Strandresort an der Mittelmeerküste mit Panoramablick auf das Meer und erstklassigen Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609084,
+                        33.974378
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "Eine bedeutende Rundfunkeinrichtung, die als Zentrum für regionale Medien und Unterhaltung dient.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Rimal",
+                  "text": "Ein beliebter Sandstrand an der libanesischen Küste, ideal zum Schwimmen und für Spaziergänge bei Sonnenuntergang.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600525,
+                        33.961471
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Ein modernes Freilichttheater im römischen Stil, das für Konzerte und Kulturfestivals genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624518,
+                        33.967991
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Ein großer Vergnügungspark mit zahlreichen Fahrgeschäften und Unterhaltungsangeboten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609323,
+                        33.956632
+                  ]
+            },
+            {
+                  "name": "Saint Doumit Church",
+                  "text": "Eine maronitische christliche Kirche, die als spirituelles Zentrum für die lokale Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625003,
+                        33.966526
+                  ]
+            },
+            {
+                  "name": "Our Lady of Assistance Church",
+                  "text": "Ein traditionelles maronitisches Gotteshaus, das für seine klassische Steinfassade bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.618747,
+                        33.970511
+                  ]
+            },
+            {
+                  "name": "Saint Demetrios Church Zouk",
+                  "text": "Eine griechisch-orthodoxe Kirche, die für ihre religiösen Ikonen und ihre Rolle in der Gemeinde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624578,
+                        33.969766
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charbel",
+                  "text": "Eine moderne Kirche, die dem berühmten libanesischen Mönch und Heiligen Scharbel Machluf gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.608683,
+                        33.967216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Souk du Zouk",
+                  "text": "Zouk Mikael bájos történelmi piaca, amely hagyományos építészetéről és kézműves műhelyeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "Théâtre George V",
+                  "text": "Modern színházi helyszín, amely számos színdarabnak, zenei előadásnak és kulturális eseménynek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "Kortárs emlékmű, amely Libanon építészeti örökségét és városfejlesztését ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "Senses",
+                  "text": "Luxus tengerparti üdülőhely a Földközi-tenger partján, panorámás kilátással és prémium szabadidős szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609084,
+                        33.974378
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "Jelentős műsorszolgáltató és előadói központ, amely a regionális média és szórakoztatás csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Rimal",
+                  "text": "Népszerű homokos strand a libanoni tengerparton, amely ideális úszáshoz és naplementi sétákhoz a Földközi-tenger mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600525,
+                        33.961471
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Római stílusban épült modern szabadtéri amfiteátrum, amely koncerteknek és kulturális fesztiváloknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624518,
+                        33.967991
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Nagy vidámpark különféle játékokkal és családi szórakozási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609323,
+                        33.956632
+                  ]
+            },
+            {
+                  "name": "Saint Doumit Church",
+                  "text": "Maronita keresztény templom, amely a helyi közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625003,
+                        33.966526
+                  ]
+            },
+            {
+                  "name": "Our Lady of Assistance Church",
+                  "text": "Hagyományos maronita templom, amely klasszikus kőhomlokzatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.618747,
+                        33.970511
+                  ]
+            },
+            {
+                  "name": "Saint Demetrios Church Zouk",
+                  "text": "Görög ortodox templom, amely vallási ikonjaireról és közösségi szerepéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624578,
+                        33.969766
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charbel",
+                  "text": "Szent Charbelnek, a híres libanoni szerzetesnek szentelt modern templom.",
+                  "category": "landmark",
+                  "coords": [
+                        35.608683,
+                        33.967216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Souk du Zouk",
+                  "text": "O piață istorică fermecătoare în Zouk Mikael, caracterizată prin arhitectură tradițională și ateliere de meșteșugari.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "Théâtre George V",
+                  "text": "O sală de teatru modernă care găzduiește o varietate de piese de teatru, spectacole muzicale și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "Un monument contemporan care celebrează moștenirea arhitecturală și dezvoltarea urbană a Libanului.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "Senses",
+                  "text": "O stațiune de lux pe malul Mediteranei, oferind vedere panoramică la mare și facilități de agrement premium.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609084,
+                        33.974378
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "O importantă facilitate de radiodifuziune și spectacole, servind drept hub pentru media regională.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Rimal",
+                  "text": "O plajă de nisip populară pe coasta libaneză, ideală pentru înot și plimbări la apus pe malul Mediteranei.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600525,
+                        33.961471
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "Un amfiteatru modern în aer liber, construit în stil roman pentru concerte și festivaluri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624518,
+                        33.967991
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Un parc de distracții mare, cu numeroase atracții și opțiuni de divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609323,
+                        33.956632
+                  ]
+            },
+            {
+                  "name": "Saint Doumit Church",
+                  "text": "O biserică creștină maronită care servește ca centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625003,
+                        33.966526
+                  ]
+            },
+            {
+                  "name": "Our Lady of Assistance Church",
+                  "text": "Un lăcaș de cult maronit tradițional, cunoscut pentru fațada sa clasică din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        35.618747,
+                        33.970511
+                  ]
+            },
+            {
+                  "name": "Saint Demetrios Church Zouk",
+                  "text": "O biserică ortodoxă greacă, cunoscută pentru icoanele sale religioase și rolul său în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624578,
+                        33.969766
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charbel",
+                  "text": "O biserică modernă dedicată celebrului călugăr libanez Sfântul Șarbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.608683,
+                        33.967216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Souk du Zouk",
+                  "text": "A charming historical marketplace in Zouk Mikael featuring traditional architecture and artisan workshops.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "Georges 5 theater",
+                  "text": "A modern theater venue hosting a variety of stage plays, musical performances, and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "A contemporary monument celebrating the architectural heritage and urban development of Lebanon.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "Senses",
+                  "text": "A luxury beach resort on the Mediterranean coast offering panoramic sea views and premium leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609084,
+                        33.974378
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "A major broadcasting and performance facility that serves as a hub for regional media and entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Rimal",
+                  "text": "A popular sandy beach on the Lebanese coast, ideal for swimming and sunset strolls by the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600525,
+                        33.961471
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "A modern open-air amphitheatre built in Roman style for concerts and cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624518,
+                        33.967991
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "A large amusement park featuring various rides and family entertainment options.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609323,
+                        33.956632
+                  ]
+            },
+            {
+                  "name": "Saint Doumit Church",
+                  "text": "A Maronite Christian church serving as a spiritual center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625003,
+                        33.966526
+                  ]
+            },
+            {
+                  "name": "Our Lady of Assistance Church",
+                  "text": "A traditional Maronite place of worship known for its classic stone facade.",
+                  "category": "landmark",
+                  "coords": [
+                        35.618747,
+                        33.970511
+                  ]
+            },
+            {
+                  "name": "Saint Demetrios Church Zouk",
+                  "text": "A Greek Orthodox church notable for its religious icons and community presence.",
+                  "category": "landmark",
+                  "coords": [
+                        35.624578,
+                        33.969766
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "A modern church dedicated to the famous Lebanese monk Saint Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.608683,
+                        33.967216
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "LB-JL",
     coords: [35.608, 33.963],
@@ -291,7 +1560,232 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "jieh-power-plant-economic-v2",
+    id: "jieh-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jonas Beach",
+                  "text": "Ein weitläufiger Sandstrand in Jiyeh, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        35.413942,
+                        33.652207
+                  ]
+            },
+            {
+                  "name": "Jiyeh Beach",
+                  "text": "Ein beliebter Küstenabschnitt in Jiyeh mit klarem Wasser und mehreren Strandresorts.",
+                  "category": "recreational",
+                  "coords": [
+                        35.418879,
+                        33.683005
+                  ]
+            },
+            {
+                  "name": "Bahamas Beach Resort",
+                  "text": "Ein Resort in Jiyeh mit großen Schwimmbecken und direktem Zugang zum Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.416717,
+                        33.654465
+                  ]
+            },
+            {
+                  "name": "Pangea Beach Resort",
+                  "text": "Ein modernes Strandresort in Jiyeh, das für seine luxuriösen Bungalows bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        35.418346,
+                        33.659166
+                  ]
+            },
+            {
+                  "name": "AquaVille",
+                  "text": "Ein Wasserpark in Jiyeh mit Rutschen, die einen weiten Blick über das Meer bieten.",
+                  "category": "recreational",
+                  "coords": [
+                        35.42024,
+                        33.659958
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Eine historische christliche Kirche im Herzen der Küstenstadt Jiyeh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.408146,
+                        33.631102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jonas Beach",
+                  "text": "Kiterjedt homokos strand Jiyeh-ben, amely nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.413942,
+                        33.652207
+                  ]
+            },
+            {
+                  "name": "Jiyeh Beach",
+                  "text": "Népszerű tengerparti szakasz Jiyeh-ben, tiszta vízzel és számos üdülőhellyel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.418879,
+                        33.683005
+                  ]
+            },
+            {
+                  "name": "Bahamas Beach Resort",
+                  "text": "Üdülőhely Jiyeh-ben, nagy úszómedencékkel és közvetlen kijárattal a Földközi-tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        35.416717,
+                        33.654465
+                  ]
+            },
+            {
+                  "name": "Pangea Beach Resort",
+                  "text": "Modern tengerparti üdülőhely Jiyeh-ben, amely luxus bungallóiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.418346,
+                        33.659166
+                  ]
+            },
+            {
+                  "name": "AquaVille",
+                  "text": "Vízi park Jiyeh-ben, csúszdákkal, amelyek tágas kilátást nyújtanak a tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        35.42024,
+                        33.659958
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Történelmi keresztény templom Jiyeh tengerparti városának szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.408146,
+                        33.631102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jonas Beach",
+                  "text": "O plajă de nisip întinsă în Jiyeh, cunoscută pentru atmosfera sa relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        35.413942,
+                        33.652207
+                  ]
+            },
+            {
+                  "name": "Jiyeh Beach",
+                  "text": "O porțiune populară de coastă în Jiyeh, cu apă limpede și mai multe stațiuni de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        35.418879,
+                        33.683005
+                  ]
+            },
+            {
+                  "name": "Bahamas Beach Resort",
+                  "text": "O stațiune în Jiyeh cu piscine mari și acces direct la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        35.416717,
+                        33.654465
+                  ]
+            },
+            {
+                  "name": "Pangea Beach Resort",
+                  "text": "O stațiune modernă de plajă în Jiyeh, cunoscută pentru bungalourile sale de lux.",
+                  "category": "recreational",
+                  "coords": [
+                        35.418346,
+                        33.659166
+                  ]
+            },
+            {
+                  "name": "AquaVille",
+                  "text": "Un parc acvatic în Jiyeh cu tobogane care oferă o vedere panoramică asupra mării.",
+                  "category": "recreational",
+                  "coords": [
+                        35.42024,
+                        33.659958
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "O biserică creștină istorică în inima orașului de coastă Jiyeh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.408146,
+                        33.631102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jonas Beach",
+                  "text": "An extensive sandy beach in Jiyeh known for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        35.413942,
+                        33.652207
+                  ]
+            },
+            {
+                  "name": "Jiyeh Beach",
+                  "text": "A popular stretch of coast in Jiyeh with clear water and several beach resorts.",
+                  "category": "recreational",
+                  "coords": [
+                        35.418879,
+                        33.683005
+                  ]
+            },
+            {
+                  "name": "Bahamas Beach Resort",
+                  "text": "A resort in Jiyeh featuring large swimming pools and direct access to the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        35.416717,
+                        33.654465
+                  ]
+            },
+            {
+                  "name": "Pangea Beach Resort",
+                  "text": "A modern beach resort in Jiyeh known for its luxurious bungalows.",
+                  "category": "recreational",
+                  "coords": [
+                        35.418346,
+                        33.659166
+                  ]
+            },
+            {
+                  "name": "AquaVille",
+                  "text": "A water park in Jiyeh with slides that offer expansive views over the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        35.42024,
+                        33.659958
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A historic Christian church located in the heart of the coastal town of Jiyeh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.408146,
+                        33.631102
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "LB-JL",
     coords: [35.419, 33.649],
@@ -339,7 +1833,196 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "litani-hydroelectric-plant-economic-v2",
+    id: "litani-hydroelectric-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mar gerious church",
+                  "text": "Eine traditionelle christliche Kirche, die dem Heiligen Georg gewidmet ist und sich in der Nähe der wichtigen Wasserkraftanlagen des Litani-Flusses befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.69602,
+                        33.609734
+                  ]
+            },
+            {
+                  "name": "knisit el sayde",
+                  "text": "Eine lokale christliche Pfarrei, bekannt als Kirche Unserer Lieben Frau, gelegen im Einzugsgebiet des Litani-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        35.697202,
+                        33.610107
+                  ]
+            },
+            {
+                  "name": "Lady of Annunciation Church",
+                  "text": "Ein wunderschön erbauter christlicher Gottesdienstort in der Nähe des Litani-Wasserkraftwerks.",
+                  "category": "landmark",
+                  "coords": [
+                        35.653412,
+                        33.531079
+                  ]
+            },
+            {
+                  "name": "Notre Dame",
+                  "text": "Eine französisch geprägte christliche Kirche, die der Gemeinde entlang des Litani-Flusses dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.670772,
+                        33.561897
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "Eine orthodoxe christliche Kirche, die dem Heiligen Nikolaus gewidmet ist, in der landwirtschaftlich reichen Litani-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655217,
+                        33.532457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mar gerious church",
+                  "text": "Egy Szent Györgynek szentelt hagyományos keresztény templom a Litani-folyó fontos vízerőművei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.69602,
+                        33.609734
+                  ]
+            },
+            {
+                  "name": "knisit el sayde",
+                  "text": "Egy helyi keresztény egyházközség, a Miasszonyunk temploma, a Litani-folyó medencéjében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.697202,
+                        33.610107
+                  ]
+            },
+            {
+                  "name": "Lady of Annunciation Church",
+                  "text": "Egy gyönyörűen épült keresztény istentiszteleti hely a Litani vízerőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.653412,
+                        33.531079
+                  ]
+            },
+            {
+                  "name": "Notre Dame",
+                  "text": "Egy francia hatású keresztény templom, amely a Litani-folyó menti közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.670772,
+                        33.561897
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "Egy Szent Miklósnak szentelt ortodox keresztény templom a mezőgazdaságilag gazdag Litani régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655217,
+                        33.532457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mar gerious church",
+                  "text": "O biserică creștină tradițională dedicată Sfântului Gheorghe, situată în apropierea instalațiilor hidroelectrice vitale ale râului Litani.",
+                  "category": "landmark",
+                  "coords": [
+                        35.69602,
+                        33.609734
+                  ]
+            },
+            {
+                  "name": "knisit el sayde",
+                  "text": "O parohie creștină locală cunoscută sub numele de Biserica Maicii Domnului, situată în bazinul râului Litani.",
+                  "category": "landmark",
+                  "coords": [
+                        35.697202,
+                        33.610107
+                  ]
+            },
+            {
+                  "name": "Lady of Annunciation Church",
+                  "text": "Un lăcaș de cult creștin frumos construit în apropierea centralei hidroelectrice Litani.",
+                  "category": "landmark",
+                  "coords": [
+                        35.653412,
+                        33.531079
+                  ]
+            },
+            {
+                  "name": "Notre Dame",
+                  "text": "O biserică creștină cu influențe franceze, care deservește comunitatea de-a lungul râului Litani.",
+                  "category": "landmark",
+                  "coords": [
+                        35.670772,
+                        33.561897
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "O biserică creștină ortodoxă dedicată Sfântului Nicolae în regiunea Litani, bogată din punct de vedere agricol.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655217,
+                        33.532457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mar gerious church",
+                  "text": "A traditional Christian church dedicated to Saint George, located near the vital Litani River hydroelectric facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        35.69602,
+                        33.609734
+                  ]
+            },
+            {
+                  "name": "knisit el sayde",
+                  "text": "A local Christian parish known as the Church of Our Lady, situated in the Litani River basin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.697202,
+                        33.610107
+                  ]
+            },
+            {
+                  "name": "Lady of Annunciation Church",
+                  "text": "A beautifully constructed Christian place of worship near the Litani hydroelectric plant.",
+                  "category": "landmark",
+                  "coords": [
+                        35.653412,
+                        33.531079
+                  ]
+            },
+            {
+                  "name": "Notre Dame",
+                  "text": "A French-influenced Christian church serving the community along the Litani River.",
+                  "category": "landmark",
+                  "coords": [
+                        35.670772,
+                        33.561897
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "An Orthodox Christian church dedicated to Saint Nicholas in the agriculturally rich Litani region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655217,
+                        33.532457
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "LB-BI",
     coords: [35.651, 33.567],
@@ -387,7 +2070,1024 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "dekwaneh-industrial-zone-economic-v2",
+    id: "dekwaneh-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "AbiRacheds Place",
+                  "text": "Ein lokaler Treffpunkt im Industriegebiet von Dekwaneh, der für soziale Veranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        35.567716,
+                        33.890665
+                  ]
+            },
+            {
+                  "name": "Plantas Beirut",
+                  "text": "Ein grünes Denkmal oder Gartenprojekt, das die städtische Landschaft in Bejrúts Außenbezirken aufwertet.",
+                  "category": "historical",
+                  "coords": [
+                        35.553882,
+                        33.870167
+                  ]
+            },
+            {
+                  "name": "12/21/12 Mayan Apocalypse",
+                  "text": "Ein kurioses lokales Wahrzeichen im Industriegebiet, das für seine ungewöhnliche thematische Gestaltung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547945,
+                        33.891557
+                  ]
+            },
+            {
+                  "name": "Anahid Agoump",
+                  "text": "Ein Gemeindezentrum und Treffpunkt, der der lokalen armenischen Bevölkerung in Dekwaneh dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557513,
+                        33.893082
+                  ]
+            },
+            {
+                  "name": "Hilda house",
+                  "text": "Ein charakteristisches lokales Gebäude in Dekwaneh, das die Wohnarchitektur des Viertels repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.584607,
+                        33.89454
+                  ]
+            },
+            {
+                  "name": "Dar Lebanon Al Aamil",
+                  "text": "Ein soziales Zentrum in Bejrúts Industriegürtel, das sich für die Rechte und Unterstützung von Arbeitern einsetzt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562424,
+                        33.879159
+                  ]
+            },
+            {
+                  "name": "Station Beirut",
+                  "text": "Ein multidisziplinäres Kulturzentrum in einem umgebauten Industriegebäude, das Theater und Musik beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.529768,
+                        33.879962
+                  ]
+            },
+            {
+                  "name": "Beirut Art Center",
+                  "text": "Eine renommierte Galerie für zeitgenössische Kunst, die experimentelle Werke in Bejrúts Industriegebiet ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        35.530916,
+                        33.88196
+                  ]
+            },
+            {
+                  "name": "Ivoire Caracalla dance school",
+                  "text": "Eine professionelle Tanzakademie, die als Ausbildungszentrum für das weltberühmte Caracalla-Tanztheater dient.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537818,
+                        33.875087
+                  ]
+            },
+            {
+                  "name": "Dongassia Park",
+                  "text": "Ein kleiner Gemeinschaftspark in Dekwaneh, der Spielbereiche für Kinder inmitten des Industrieviertels bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.563189,
+                        33.897316
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "Eine christliche Kirche in Dekwaneh, die als wichtiges religiöses Zentrum für die lokale Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556571,
+                        33.880266
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Ein katholisches Gotteshaus in Dekwaneh, das für seine schlichte Architektur und regelmäßigen Messen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543781,
+                        33.892112
+                  ]
+            },
+            {
+                  "name": "Église Arménienne",
+                  "text": "Eine armenisch-apostolische Kirche im Industriegebiet, die das reiche religiöse Erbe der Gemeinde bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543053,
+                        33.891112
+                  ]
+            },
+            {
+                  "name": "Mar Maroun",
+                  "text": "Eine maronitische Kirche, die dem heiligen Maron gewidmet ist, dem Schutzpatron der libanesischen Maroniten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.551728,
+                        33.891341
+                  ]
+            },
+            {
+                  "name": "St. John Church",
+                  "text": "Ein lokales christliches Gotteshaus, das die Gläubigen in den Vororten von Bejrút versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.560207,
+                        33.891933
+                  ]
+            },
+            {
+                  "name": "St. Rita Church",
+                  "text": "Diese Kirche ist der heiligen Rita gewidmet, einer im Libanon sehr verehrten Schutzpatronin in aussichtslosen Fällen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.568314,
+                        33.89255
+                  ]
+            },
+            {
+                  "name": "St. Antonios",
+                  "text": "Ein religiöser Ort, der dem heiligen Antonius gewidmet ist und die maronitischen Traditionen in Dekwaneh pflegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.573258,
+                        33.893665
+                  ]
+            },
+            {
+                  "name": "Notre Dame Fanar",
+                  "text": "Eine Marienkirche auf den Hügeln von Fanar, die einen weiten Blick über das Stadtgebiet von Bejrút bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.578492,
+                        33.878778
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "Ein moderner Wallfahrtsort, der dem heiligen Scharbel gewidmet ist, dem berühmtesten Eremiten des Libanon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.572087,
+                        33.878435
+                  ]
+            },
+            {
+                  "name": "Église Saint Georges",
+                  "text": "Eine moderne maronitische Kirche im Herzen des Stadtteils Dekwaneh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.565417,
+                        33.889805
+                  ]
+            },
+            {
+                  "name": "Mar Takla Church",
+                  "text": "Diese christliche Kirche in Dekwaneh ist der frühchristlichen Märtyrerin Thekla gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.559051,
+                        33.88578
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Ein schlichter und eleganter Sakralbau, der der lokalen christlichen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540799,
+                        33.86245
+                  ]
+            },
+            {
+                  "name": "Saint Rita Church",
+                  "text": "Ein Wallfahrtsort für die heilige Rita, die als Patronin der aussichtslosen Anliegen gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53646,
+                        33.871494
+                  ]
+            },
+            {
+                  "name": "Lady Of Protection Church",
+                  "text": "Ein lokales Heiligtum, das einen friedlichen Raum für Gebete und Schutz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540913,
+                        33.876832
+                  ]
+            },
+            {
+                  "name": "Saydet Sinn El Fil",
+                  "text": "Eine bedeutende Pfarrkirche im Wohngebiet von Sinn El Fil.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537369,
+                        33.880249
+                  ]
+            },
+            {
+                  "name": "Mar Doumet",
+                  "text": "Eine maronitische Gebetsstätte, die für ihre gemeinschaftsorientierten Gottesdienste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53856,
+                        33.884239
+                  ]
+            },
+            {
+                  "name": "Life Center",
+                  "text": "Ein zeitgenössisches Zentrum für Gottesdienste mit modernem architektonischem Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537008,
+                        33.889342
+                  ]
+            },
+            {
+                  "name": "new dekwaneh",
+                  "text": "Ein belebter Marktplatz mit einer Vielzahl lokaler Geschäfte und Boutiquen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.547909,
+                        33.876081
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AbiRacheds Place",
+                  "text": "Helyi találkozóhely Dekwaneh ipari negyedében, amelyet közösségi eseményekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.567716,
+                        33.890665
+                  ]
+            },
+            {
+                  "name": "Plantas Beirut",
+                  "text": "Zöld emlékmű vagy kertprojekt, amely a városi tájat szépíti Bejrút külső negyedeiben.",
+                  "category": "historical",
+                  "coords": [
+                        35.553882,
+                        33.870167
+                  ]
+            },
+            {
+                  "name": "12/21/12 Mayan Apocalypse",
+                  "text": "Különös helyi nevezetesség az ipari negyedben, amely szokatlan tematikus kialakításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547945,
+                        33.891557
+                  ]
+            },
+            {
+                  "name": "Anahid Agoump",
+                  "text": "Közösségi központ és találkozóhely, amely a dekwaneh-i örmény lakosságot szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557513,
+                        33.893082
+                  ]
+            },
+            {
+                  "name": "Hilda house",
+                  "text": "Jellegzetes helyi épület Dekwaneh-ben, amely a negyed lakóépítészetét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.584607,
+                        33.89454
+                  ]
+            },
+            {
+                  "name": "Dar Lebanon Al Aamil",
+                  "text": "Szociális központ Bejrút ipari övezetében, amely a munkások jogaiért és támogatásáért felel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562424,
+                        33.879159
+                  ]
+            },
+            {
+                  "name": "Station Beirut",
+                  "text": "Multidiszciplináris kulturális központ egy átalakított ipari épületben, amely színháznak és zenének ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.529768,
+                        33.879962
+                  ]
+            },
+            {
+                  "name": "Beirut Art Center",
+                  "text": "Neves kortárs művészeti galéria, amely kísérleti alkotásokat mutat be Bejrút ipari negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        35.530916,
+                        33.88196
+                  ]
+            },
+            {
+                  "name": "Ivoire Caracalla dance school",
+                  "text": "Professzionális táncakadémia, amely a világhírű Caracalla Táncszínház képzési központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537818,
+                        33.875087
+                  ]
+            },
+            {
+                  "name": "Dongassia Park",
+                  "text": "Kisméretű közösségi park Dekwaneh-ben, amely játszóteret kínál a gyerekeknek az ipari negyed közepén.",
+                  "category": "recreational",
+                  "coords": [
+                        35.563189,
+                        33.897316
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "Keresztény templom Dekwaneh-ben, amely a helyi közösség fontos vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556571,
+                        33.880266
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Katolikus templom Dekwaneh-ben, amely egyszerű építészetéről és rendszeres miséiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543781,
+                        33.892112
+                  ]
+            },
+            {
+                  "name": "Église Arménienne",
+                  "text": "Örmény apostoli templom az ipari negyedben, amely a közösség gazdag vallási örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543053,
+                        33.891112
+                  ]
+            },
+            {
+                  "name": "Mar Maroun",
+                  "text": "Maronita templom, amelyet Szent Maronnak, a libanoni maroniták védőszentjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.551728,
+                        33.891341
+                  ]
+            },
+            {
+                  "name": "St. John Church",
+                  "text": "Helyi keresztény templom, amely Bejrút külvárosában várja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        35.560207,
+                        33.891933
+                  ]
+            },
+            {
+                  "name": "St. Rita Church",
+                  "text": "Ezt a templomot Szent Ritának szentelték, aki a libanoni keresztények körében a reménytelen ügyek védőszentje.",
+                  "category": "landmark",
+                  "coords": [
+                        35.568314,
+                        33.89255
+                  ]
+            },
+            {
+                  "name": "St. Antonios",
+                  "text": "Szent Antalnak szentelt vallási hely, amely a maronita hagyományokat ápolja Dekwaneh-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.573258,
+                        33.893665
+                  ]
+            },
+            {
+                  "name": "Notre Dame Fanar",
+                  "text": "Szűz Mária-templom a fanari dombokon, ahonnan tágas kilátás nyílik Bejrút városi területére.",
+                  "category": "landmark",
+                  "coords": [
+                        35.578492,
+                        33.878778
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "Modern zarándokhely, amelyet Szent Charbelnek, Libanon leghíresebb remetéjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.572087,
+                        33.878435
+                  ]
+            },
+            {
+                  "name": "Église Saint Georges",
+                  "text": "Modern maronita templom Dekwaneh városnegyedének központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.565417,
+                        33.889805
+                  ]
+            },
+            {
+                  "name": "Mar Takla Church",
+                  "text": "Dekwaneh keresztény temploma, melyet Szent Tekla kora keresztény vértanúnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.559051,
+                        33.88578
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Egyszerű és elegáns templom, amely a helyi keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540799,
+                        33.86245
+                  ]
+            },
+            {
+                  "name": "Saint Rita Church",
+                  "text": "Szent Ritának, a kilátástalan ügyek pártfogójának szentelt zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53646,
+                        33.871494
+                  ]
+            },
+            {
+                  "name": "Lady Of Protection Church",
+                  "text": "Helyi szentély, amely békés teret biztosít az imádsághoz és a védelemhez.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540913,
+                        33.876832
+                  ]
+            },
+            {
+                  "name": "Saydet Sinn El Fil",
+                  "text": "Jelentős plébániatemplom Sinn El Fil lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537369,
+                        33.880249
+                  ]
+            },
+            {
+                  "name": "Mar Doumet",
+                  "text": "Maronita templom, amely a közösségre összpontosító szertartásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53856,
+                        33.884239
+                  ]
+            },
+            {
+                  "name": "Life Center",
+                  "text": "Kortárs hitéleti és közösségi központ modern építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537008,
+                        33.889342
+                  ]
+            },
+            {
+                  "name": "new dekwaneh",
+                  "text": "Nyüzsgő kereskedelmi piactér, ahol számos helyi üzlet és butik található.",
+                  "category": "cultural",
+                  "coords": [
+                        35.547909,
+                        33.876081
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AbiRacheds Place",
+                  "text": "Un loc de întâlnire local în zona industrială Dekwaneh, utilizat pentru evenimente sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.567716,
+                        33.890665
+                  ]
+            },
+            {
+                  "name": "Plantas Beirut",
+                  "text": "Un monument verde sau proiect de grădină care înfrumusețează peisajul urban la periferia Beirutului.",
+                  "category": "historical",
+                  "coords": [
+                        35.553882,
+                        33.870167
+                  ]
+            },
+            {
+                  "name": "12/21/12 Mayan Apocalypse",
+                  "text": "Un punct de reper local curios în zona industrială, cunoscut pentru designul său tematic neobișnuit.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547945,
+                        33.891557
+                  ]
+            },
+            {
+                  "name": "Anahid Agoump",
+                  "text": "Un centru comunitar și loc de întâlnire care servește populația armeană locală din Dekwaneh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557513,
+                        33.893082
+                  ]
+            },
+            {
+                  "name": "Hilda house",
+                  "text": "O clădire locală caracteristică în Dekwaneh, reprezentând arhitectura rezidențială a cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.584607,
+                        33.89454
+                  ]
+            },
+            {
+                  "name": "Dar Lebanon Al Aamil",
+                  "text": "Un centru social din centura industrială a Beirutului, dedicat drepturilor și sprijinului lucrătorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562424,
+                        33.879159
+                  ]
+            },
+            {
+                  "name": "Station Beirut",
+                  "text": "Un centru cultural multidisciplinar într-o clădire industrială convertită, care găzduiește teatru și muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        35.529768,
+                        33.879962
+                  ]
+            },
+            {
+                  "name": "Beirut Art Center",
+                  "text": "O galerie de artă contemporană renumită, care expune lucrări experimentale în zona industrială a Beirutului.",
+                  "category": "museum",
+                  "coords": [
+                        35.530916,
+                        33.88196
+                  ]
+            },
+            {
+                  "name": "Ivoire Caracalla dance school",
+                  "text": "O academie de dans profesională, servind ca centru de instruire pentru renumitul teatru de dans Caracalla.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537818,
+                        33.875087
+                  ]
+            },
+            {
+                  "name": "Dongassia Park",
+                  "text": "Un mic parc comunitar în Dekwaneh, oferind zone de joacă pentru copii în mijlocul cartierului industrial.",
+                  "category": "recreational",
+                  "coords": [
+                        35.563189,
+                        33.897316
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "O biserică creștină din Dekwaneh, servind ca un centru religios important pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556571,
+                        33.880266
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "Un lăcaș de cult catolic din Dekwaneh, cunoscut pentru arhitectura sa simplă și slujbele regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543781,
+                        33.892112
+                  ]
+            },
+            {
+                  "name": "Église Arménienne",
+                  "text": "O biserică armeană apostolică din zona industrială, păstrând moștenirea religioasă bogată a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543053,
+                        33.891112
+                  ]
+            },
+            {
+                  "name": "Mar Maroun",
+                  "text": "O biserică maronită dedicată Sfântului Maron, patronul spiritual al maroniților libanezi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.551728,
+                        33.891341
+                  ]
+            },
+            {
+                  "name": "St. John Church",
+                  "text": "Un lăcaș de cult creștin local, care adună credincioșii din suburbiile Beirutului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.560207,
+                        33.891933
+                  ]
+            },
+            {
+                  "name": "St. Rita Church",
+                  "text": "Această biserică este dedicată Sfintei Rita, o patroană spirituală foarte venerată în Liban pentru cauzele imposibile.",
+                  "category": "landmark",
+                  "coords": [
+                        35.568314,
+                        33.89255
+                  ]
+            },
+            {
+                  "name": "St. Antonios",
+                  "text": "Un sit religios dedicat Sfântului Anton, păstrând tradițiile maronite în Dekwaneh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.573258,
+                        33.893665
+                  ]
+            },
+            {
+                  "name": "Notre Dame Fanar",
+                  "text": "O biserică mariană pe dealurile din Fanar, oferind o vedere amplă asupra zonei urbane a Beirutului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.578492,
+                        33.878778
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "Un loc de pelerinaj modern dedicat Sfântului Charbel, cel mai faimos pustnic al Libanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.572087,
+                        33.878435
+                  ]
+            },
+            {
+                  "name": "Église Saint Georges",
+                  "text": "O biserică maronită modernă situată în inima cartierului Dekwaneh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.565417,
+                        33.889805
+                  ]
+            },
+            {
+                  "name": "Mar Takla Church",
+                  "text": "Această biserică creștină din Dekwaneh este dedicată Sfintei Tecla, o martiră timpurie.",
+                  "category": "landmark",
+                  "coords": [
+                        35.559051,
+                        33.88578
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Un lăcaș de cult simplu și elegant, care deservește comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540799,
+                        33.86245
+                  ]
+            },
+            {
+                  "name": "Saint Rita Church",
+                  "text": "Un loc de pelerinaj dedicat Sfintei Rita, cunoscută ca patroana cauzelor imposibile.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53646,
+                        33.871494
+                  ]
+            },
+            {
+                  "name": "Lady Of Protection Church",
+                  "text": "Un altar local care oferă un spațiu liniștit pentru rugăciune și protecție.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540913,
+                        33.876832
+                  ]
+            },
+            {
+                  "name": "Saydet Sinn El Fil",
+                  "text": "O biserică parohială proeminentă situată în zona rezidențială Sinn El Fil.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537369,
+                        33.880249
+                  ]
+            },
+            {
+                  "name": "Mar Doumet",
+                  "text": "Un lăcaș de cult maronit cunoscut pentru serviciile sale orientate spre comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53856,
+                        33.884239
+                  ]
+            },
+            {
+                  "name": "Life Center",
+                  "text": "Un centru contemporan de cult și comunitate, cu un stil arhitectural modern.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537008,
+                        33.889342
+                  ]
+            },
+            {
+                  "name": "new dekwaneh",
+                  "text": "O piață comercială plină de viață, cu o varietate de magazine și buticuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.547909,
+                        33.876081
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AbiRacheds Place",
+                  "text": "A local gathering spot in the Dekwaneh industrial zone, used for social events.",
+                  "category": "landmark",
+                  "coords": [
+                        35.567716,
+                        33.890665
+                  ]
+            },
+            {
+                  "name": "Plantas Beirut",
+                  "text": "A green monument or garden project enhancing the urban landscape in Beirut's outskirts.",
+                  "category": "historical",
+                  "coords": [
+                        35.553882,
+                        33.870167
+                  ]
+            },
+            {
+                  "name": "12/21/12 Mayan Apocalypse",
+                  "text": "A curious local landmark in the industrial zone, known for its unusual thematic design.",
+                  "category": "landmark",
+                  "coords": [
+                        35.547945,
+                        33.891557
+                  ]
+            },
+            {
+                  "name": "Anahid Agoump",
+                  "text": "A community center and meeting hall serving the local Armenian population in Dekwaneh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.557513,
+                        33.893082
+                  ]
+            },
+            {
+                  "name": "Hilda house",
+                  "text": "A characteristic local building in Dekwaneh, representing the neighborhood's residential architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        35.584607,
+                        33.89454
+                  ]
+            },
+            {
+                  "name": "Dar Lebanon Al Aamil",
+                  "text": "A social center in Beirut's industrial belt, dedicated to workers' rights and support.",
+                  "category": "landmark",
+                  "coords": [
+                        35.562424,
+                        33.879159
+                  ]
+            },
+            {
+                  "name": "Station Beirut",
+                  "text": "A multi-disciplinary cultural hub in a converted industrial building, hosting theater and music.",
+                  "category": "cultural",
+                  "coords": [
+                        35.529768,
+                        33.879962
+                  ]
+            },
+            {
+                  "name": "Beirut Art Center",
+                  "text": "A renowned contemporary art gallery showcasing experimental works in Beirut's industrial district.",
+                  "category": "museum",
+                  "coords": [
+                        35.530916,
+                        33.88196
+                  ]
+            },
+            {
+                  "name": "Ivoire Caracalla dance school",
+                  "text": "A professional dance academy serving as the training center for the world-renowned Caracalla Dance Theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        35.537818,
+                        33.875087
+                  ]
+            },
+            {
+                  "name": "Dongassia Park",
+                  "text": "A small community park in Dekwaneh, providing play areas for children amidst the industrial district.",
+                  "category": "recreational",
+                  "coords": [
+                        35.563189,
+                        33.897316
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Church",
+                  "text": "A Christian church in Dekwaneh, serving as an important religious center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.556571,
+                        33.880266
+                  ]
+            },
+            {
+                  "name": "St. Joseph Church",
+                  "text": "A Catholic place of worship in Dekwaneh, known for its simple architecture and regular masses.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543781,
+                        33.892112
+                  ]
+            },
+            {
+                  "name": "Église Arménienne",
+                  "text": "An Armenian Apostolic church in the industrial district, preserving the community's rich religious heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        35.543053,
+                        33.891112
+                  ]
+            },
+            {
+                  "name": "Mar Maroun",
+                  "text": "A Maronite church dedicated to Saint Maron, the patron saint of the Lebanese Maronite community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.551728,
+                        33.891341
+                  ]
+            },
+            {
+                  "name": "St. John Church",
+                  "text": "A local Christian place of worship, gathering the faithful in the suburbs of Beirut.",
+                  "category": "landmark",
+                  "coords": [
+                        35.560207,
+                        33.891933
+                  ]
+            },
+            {
+                  "name": "St. Rita Church",
+                  "text": "This church is dedicated to Saint Rita, a patron saint highly venerated in Lebanon for impossible causes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.568314,
+                        33.89255
+                  ]
+            },
+            {
+                  "name": "St. Antonios",
+                  "text": "A religious site dedicated to Saint Anthony, upholding Maronite traditions in Dekwaneh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.573258,
+                        33.893665
+                  ]
+            },
+            {
+                  "name": "Notre Dame Fanar",
+                  "text": "A Marian church in the Fanar hills, offering a wide view over the Beirut urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.578492,
+                        33.878778
+                  ]
+            },
+            {
+                  "name": "St. Charbel Church",
+                  "text": "A modern pilgrimage site dedicated to Saint Charbel, Lebanon's most famous hermit.",
+                  "category": "landmark",
+                  "coords": [
+                        35.572087,
+                        33.878435
+                  ]
+            },
+            {
+                  "name": "Église Saint Georges",
+                  "text": "A modern Maronite church located in the heart of the Dekwaneh district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.565417,
+                        33.889805
+                  ]
+            },
+            {
+                  "name": "Mar Takla Church",
+                  "text": "A Christian church in Dekwaneh dedicated to the early Christian martyr Saint Thekla.",
+                  "category": "landmark",
+                  "coords": [
+                        35.559051,
+                        33.88578
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "A simple and elegant church serving the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540799,
+                        33.86245
+                  ]
+            },
+            {
+                  "name": "Saint Rita Church",
+                  "text": "A pilgrimage site dedicated to Saint Rita, known as the patron saint of impossible causes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53646,
+                        33.871494
+                  ]
+            },
+            {
+                  "name": "Lady Of Protection Church",
+                  "text": "A local shrine providing a peaceful space for prayer and protection.",
+                  "category": "landmark",
+                  "coords": [
+                        35.540913,
+                        33.876832
+                  ]
+            },
+            {
+                  "name": "Saydet Sinn El Fil",
+                  "text": "A prominent parish church located in the Sinn El Fil residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537369,
+                        33.880249
+                  ]
+            },
+            {
+                  "name": "Mar Doumet",
+                  "text": "A Maronite place of worship known for its community-focused services.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53856,
+                        33.884239
+                  ]
+            },
+            {
+                  "name": "Life Center",
+                  "text": "A contemporary worship and community center with a modern architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        35.537008,
+                        33.889342
+                  ]
+            },
+            {
+                  "name": "new dekwaneh",
+                  "text": "A bustling commercial marketplace featuring a variety of local boutiques.",
+                  "category": "cultural",
+                  "coords": [
+                        35.547909,
+                        33.876081
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LB-JL",
     coords: [35.540, 33.875],
@@ -483,7 +3183,304 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "beirut-airport-free-trade-zone-economic-v2",
+    id: "beirut-airport-free-trade-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aqua Island Resort",
+                  "text": "Küstenresort südlich von Bejrút mit verschiedenen Pools und Zugang zum Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.474481,
+                        33.784413
+                  ]
+            },
+            {
+                  "name": "Palms Lady Resort",
+                  "text": "Freizeitresort an der Mittelmeerküste im Bezirk Khalde.",
+                  "category": "recreational",
+                  "coords": [
+                        35.476395,
+                        33.787598
+                  ]
+            },
+            {
+                  "name": "La Siesta Beach Resort",
+                  "text": "Moderner Beachclub und Resort am Sandstrand von Khalde.",
+                  "category": "recreational",
+                  "coords": [
+                        35.478513,
+                        33.790872
+                  ]
+            },
+            {
+                  "name": "Bella Mare Resort",
+                  "text": "Küstenresort in Khalde mit Blick auf das Mittelmeer und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        35.475907,
+                        33.786122
+                  ]
+            },
+            {
+                  "name": "Aqua Fun Water Park",
+                  "text": "Familienfreundlicher Wasserpark in Khalde mit verschiedenen Rutschen und Becken.",
+                  "category": "recreational",
+                  "coords": [
+                        35.488459,
+                        33.797949
+                  ]
+            },
+            {
+                  "name": "Lüa Ladies Beach Resort",
+                  "text": "Privates Strandresort in Khalde, das speziell auf Frauen ausgerichtet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        35.469389,
+                        33.775392
+                  ]
+            },
+            {
+                  "name": "Diamond Sur Mer",
+                  "text": "Seebad in der Gegend von Khalde mit Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        35.465088,
+                        33.76816
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Khaldah",
+                  "text": "Christliche Kirche, die der Gemeinde im Küstenviertel Khalde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.470272,
+                        33.771438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aqua Island Resort",
+                  "text": "Bejrúttól délre fekvő tengerparti üdülőhely medencékkel és tengeri kapcsolattal.",
+                  "category": "recreational",
+                  "coords": [
+                        35.474481,
+                        33.784413
+                  ]
+            },
+            {
+                  "name": "Palms Lady Resort",
+                  "text": "Szabadidős üdülőhely a Földközi-tenger partján, Khalde negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        35.476395,
+                        33.787598
+                  ]
+            },
+            {
+                  "name": "La Siesta Beach Resort",
+                  "text": "Modern strandklub és üdülőhely Khalde homokos partján.",
+                  "category": "recreational",
+                  "coords": [
+                        35.478513,
+                        33.790872
+                  ]
+            },
+            {
+                  "name": "Bella Mare Resort",
+                  "text": "Tengerparti üdülőhely Khalde-ban, kilátással a Földközi-tengerre és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.475907,
+                        33.786122
+                  ]
+            },
+            {
+                  "name": "Aqua Fun Water Park",
+                  "text": "Családbarát vízi park Khalde-ban, különféle csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.488459,
+                        33.797949
+                  ]
+            },
+            {
+                  "name": "Lüa Ladies Beach Resort",
+                  "text": "Privát tengerparti üdülőhely Khalde-ban, amely kifejezetten nőket szolgál ki.",
+                  "category": "recreational",
+                  "coords": [
+                        35.469389,
+                        33.775392
+                  ]
+            },
+            {
+                  "name": "Diamond Sur Mer",
+                  "text": "Tengerparti üdülőhely Khalde területén, úszómedencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.465088,
+                        33.76816
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Khaldah",
+                  "text": "Keresztény templom, amely a Khalde tengerparti negyed közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.470272,
+                        33.771438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aqua Island Resort",
+                  "text": "Complex turistic de coastă la sud de Beirut, oferind diverse piscine și acces la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        35.474481,
+                        33.784413
+                  ]
+            },
+            {
+                  "name": "Palms Lady Resort",
+                  "text": "Complex de agrement pe coasta mediteraneană, în districtul Khalde.",
+                  "category": "recreational",
+                  "coords": [
+                        35.476395,
+                        33.787598
+                  ]
+            },
+            {
+                  "name": "La Siesta Beach Resort",
+                  "text": "Club de plajă modern și complex situat pe țărmul nisipos din Khalde.",
+                  "category": "recreational",
+                  "coords": [
+                        35.478513,
+                        33.790872
+                  ]
+            },
+            {
+                  "name": "Bella Mare Resort",
+                  "text": "Complex de coastă în Khalde, cu vedere la Marea Mediterană și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        35.475907,
+                        33.786122
+                  ]
+            },
+            {
+                  "name": "Aqua Fun Water Park",
+                  "text": "Parc acvatic pentru familii în Khalde, cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        35.488459,
+                        33.797949
+                  ]
+            },
+            {
+                  "name": "Lüa Ladies Beach Resort",
+                  "text": "Complex de plajă privat în Khalde, destinat special femeilor.",
+                  "category": "recreational",
+                  "coords": [
+                        35.469389,
+                        33.775392
+                  ]
+            },
+            {
+                  "name": "Diamond Sur Mer",
+                  "text": "Complex de la malul mării în zona Khalde, cu facilități de piscină.",
+                  "category": "recreational",
+                  "coords": [
+                        35.465088,
+                        33.76816
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Khaldah",
+                  "text": "Biserică creștină care deservește comunitatea din districtul de coastă Khalde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.470272,
+                        33.771438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqua Island Resort",
+                  "text": "Coastal beach resort south of Beirut offering various pools and sea access.",
+                  "category": "recreational",
+                  "coords": [
+                        35.474481,
+                        33.784413
+                  ]
+            },
+            {
+                  "name": "Palms Lady Resort",
+                  "text": "Leisure resort on the Mediterranean coast in the Khalde district.",
+                  "category": "recreational",
+                  "coords": [
+                        35.476395,
+                        33.787598
+                  ]
+            },
+            {
+                  "name": "La Siesta Beach Resort",
+                  "text": "Modern beach club and resort located on the sandy shores of Khalde.",
+                  "category": "recreational",
+                  "coords": [
+                        35.478513,
+                        33.790872
+                  ]
+            },
+            {
+                  "name": "Bella Mare Resort",
+                  "text": "Coastal resort in Khalde featuring Mediterranean sea views and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        35.475907,
+                        33.786122
+                  ]
+            },
+            {
+                  "name": "Aqua Fun Water Park",
+                  "text": "Family-friendly water park in Khalde with various slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        35.488459,
+                        33.797949
+                  ]
+            },
+            {
+                  "name": "Lüa Ladies Beach Resort",
+                  "text": "Private beach resort in Khalde specifically catering to women.",
+                  "category": "recreational",
+                  "coords": [
+                        35.469389,
+                        33.775392
+                  ]
+            },
+            {
+                  "name": "Diamond Sur Mer",
+                  "text": "Seaside resort in the Khalde area with swimming pool facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        35.465088,
+                        33.76816
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Khaldah",
+                  "text": "Christian church serving the community in the Khalde coastal district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.470272,
+                        33.771438
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "LB-JL",
     coords: [35.485, 33.820],
@@ -531,7 +3528,268 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "port-of-jounieh-economic-v2",
+    id: "port-of-jounieh-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amphitheater Johannes Paul II",
+                  "text": "Ein Freilichttheater mit Blick auf die Bucht von Jounieh, das an den Besuch von Papst Johannes Paul II. erinnert.",
+                  "category": "cultural",
+                  "coords": [
+                        35.619388,
+                        33.981614
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "Ein moderner Beachclub an der Küste von Jounieh mit einem Meerwasserpool und direktem Zugang zum Mittelmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "Ein lebhaftes Strandresort in Jounieh, das für seine Lounge direkt am Wasser und seine sommerlichen Abendveranstaltungen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "Ein weitläufiger Luxuskomplex in Kaslik mit mehreren Pools und einem privaten Zugang zum Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977227
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "Ein Küstenresort, das einen weiten Blick auf das Mittelmeer und die Skyline von Jounieh bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611868,
+                        33.978817
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Éphrem",
+                  "text": "Eine maronitische Kapelle in Jounieh, die als spirituelles Zentrum für die christliche Gemeinde des Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.619202,
+                        33.982558
+                  ]
+            },
+            {
+                  "name": "Eglise Saint Basilios",
+                  "text": "Eine melkitische griechisch-katholische Kirche, die sich in der Nähe des geschäftigen Hafens von Jounieh befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.614911,
+                        33.973978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amphithéâtre Jean-Paul II",
+                  "text": "Egy szabadtéri amfiteátrum kilátással a Jounieh-öbölre, amely II. János Pál pápa látogatásának állít emléket.",
+                  "category": "cultural",
+                  "coords": [
+                        35.619388,
+                        33.981614
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "Egy modern tengerparti klub Jounieh partjainál, sós vizes medencével és közvetlen kijárattal a Földközi-tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "Egy élénk tengerparti üdülőhely Jouniehben, amely a vízparti társalgójáról és nyári esti rendezvényeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "Egy kiterjedt luxuskomplexum Kaslikban, több medencével és privát kijárattal a homokos tengerpartra.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977227
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "Egy parti üdülőhely, amely széles kilátást nyújt a Földközi-tengerre és Jounieh látképére.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611868,
+                        33.978817
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Éphrem",
+                  "text": "Egy maronita kápolna Jouniehben, amely a negyed keresztény közösségének spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.619202,
+                        33.982558
+                  ]
+            },
+            {
+                  "name": "Eglise Saint Basilios",
+                  "text": "Egy melkita görögkatolikus templom, amely Jounieh forgalmas kikötőjének közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.614911,
+                        33.973978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amphithéâtre Jean-Paul II",
+                  "text": "Un amfiteatru în aer liber cu vedere la golful Jounieh, care comemorează vizita Papei Ioan Paul al II-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        35.619388,
+                        33.981614
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "Un club de plajă modern pe coasta Jounieh, dotat cu o piscină cu apă sărată și acces direct la Marea Mediterană.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "O stațiune de plajă plină de viață în Jounieh, cunoscută pentru lounge-ul său de pe malul apei și evenimentele de seară din timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "Un complex de lux întins în Kaslik, cu mai multe piscine și acces privat la plaja cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977227
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "O stațiune de coastă care oferă o vedere panoramică asupra Marii Mediterane și a orizontului orașului Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611868,
+                        33.978817
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Éphrem",
+                  "text": "O chapelă maronită din Jounieh, care servește ca centru spiritual pentru comunitatea creștină din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        35.619202,
+                        33.982558
+                  ]
+            },
+            {
+                  "name": "Eglise Saint Basilios",
+                  "text": "O biserică greco-catolică melkită situată în apropierea portului aglomerat din Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.614911,
+                        33.973978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "John Paul II Amphitheater",
+                  "text": "An open-air amphitheater overlooking Jounieh Bay, commemorating the visit of Pope John Paul II.",
+                  "category": "cultural",
+                  "coords": [
+                        35.619388,
+                        33.981614
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "A modern beach club on the Jounieh coast featuring a saltwater pool and direct access to the Mediterranean.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "A vibrant beach resort in Jounieh known for its waterfront lounge and summer evening events.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "An extensive luxury complex in Kaslik featuring multiple pools and private access to the sandy shore.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977227
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "A coastal resort offering wide views of the Mediterranean and the Jounieh skyline.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611868,
+                        33.978817
+                  ]
+            },
+            {
+                  "name": "Chapel Saint Ephrem",
+                  "text": "A Maronite chapel in Jounieh serving as a spiritual center for the neighborhood's Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.619202,
+                        33.982558
+                  ]
+            },
+            {
+                  "name": "Saint Basilios Church",
+                  "text": "A Melkite Greek Catholic church located near the bustling commercial port of Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.614911,
+                        33.973978
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LB-JL",
     coords: [35.616, 33.985],
@@ -579,7 +3837,412 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "beqaa-agro-industry-center-economic-v2",
+    id: "beqaa-agro-industry-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lady of Joy Eastern Orthodox Church",
+                  "text": "Eine historische orthodoxe Stätte in der Nähe der Stadt Zahle.",
+                  "category": "historical",
+                  "coords": [
+                        35.899147,
+                        33.841562
+                  ]
+            },
+            {
+                  "name": "Rihab",
+                  "text": "Ein Familien-Freizeitpark mit Schwimmbecken und Wasserrutschen in der Bekaa.",
+                  "category": "recreational",
+                  "coords": [
+                        35.926594,
+                        33.83867
+                  ]
+            },
+            {
+                  "name": "Zahle Brethren Church",
+                  "text": "Ein christliches Gotteshaus der Brüdergemeinde in der Stadt Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916314,
+                        33.842762
+                  ]
+            },
+            {
+                  "name": "Saint Elie Church",
+                  "text": "Eine markante christliche Kirche in Zahle, der „Stadt des Weins und der Poesie“.",
+                  "category": "landmark",
+                  "coords": [
+                        35.908448,
+                        33.837332
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church Zahle",
+                  "text": "Eine moderne Kirche, die dem libanesischen Schutzpatron, dem Heiligen Charbel, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.925441,
+                        33.840901
+                  ]
+            },
+            {
+                  "name": "True Vine Church",
+                  "text": "Eine Kirche, deren Name die reiche Weinbaugeschichte der Region Zahle widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.917542,
+                        33.843576
+                  ]
+            },
+            {
+                  "name": "Saint Rokoz church",
+                  "text": "Eine traditionelle Kirche, die dem Heiligen Rochus (Rokoz) gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877424,
+                        33.885789
+                  ]
+            },
+            {
+                  "name": "Saint Mary Church",
+                  "text": "Eine zentrale maronitische Kirche in der Stadt Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877573,
+                        33.884008
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "Ein lokaler Schrein oder eine Kirche, die dem verehrten Heiligen Charbel gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876384,
+                        33.884655
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Bekaa and Zahle",
+                  "text": "Eine massive Bronzestatue der Jungfrau Maria auf einem Turm mit Panoramablick über Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.901726,
+                        33.841114
+                  ]
+            },
+            {
+                  "name": "Z market",
+                  "text": "Lokaler Markt, der das agroindustrielle Zentrum in der Bekaa-Ebene versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.907285,
+                        33.835963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lady of Joy Eastern Orthodox Church",
+                  "text": "Történelmi ortodox helyszín Zahle városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.899147,
+                        33.841562
+                  ]
+            },
+            {
+                  "name": "Rihab",
+                  "text": "Családi szabadidőpark úszómedencékkel és csúszdákkal a Bekaa-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        35.926594,
+                        33.83867
+                  ]
+            },
+            {
+                  "name": "Zahle Brethren Church",
+                  "text": "A testvérgyülekezet keresztény temploma Zahle városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916314,
+                        33.842762
+                  ]
+            },
+            {
+                  "name": "Saint Elie Church",
+                  "text": "Egy jelentős keresztény templom Zahle-ban, a „bor és a költészet városában”.",
+                  "category": "landmark",
+                  "coords": [
+                        35.908448,
+                        33.837332
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church Zahle",
+                  "text": "Libanon védőszentjének, Szent Charbelnek szentelt modern templom.",
+                  "category": "landmark",
+                  "coords": [
+                        35.925441,
+                        33.840901
+                  ]
+            },
+            {
+                  "name": "True Vine Church",
+                  "text": "Templom, amelynek neve Zahle régió gazdag szőlőtermesztési múltját tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.917542,
+                        33.843576
+                  ]
+            },
+            {
+                  "name": "Saint Rokoz church",
+                  "text": "Szent Rókusnak (Rokoz) szentelt hagyományos templom.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877424,
+                        33.885789
+                  ]
+            },
+            {
+                  "name": "Saint Mary Church",
+                  "text": "Központi maronita templom Zahle városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877573,
+                        33.884008
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "Helyi szentély vagy templom, amelyet a tisztelt Szent Charbelnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876384,
+                        33.884655
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Bekaa and Zahle",
+                  "text": "Szűz Mária hatalmas bronzszobra egy torony tetején, panorámás kilátással Zahle városára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.901726,
+                        33.841114
+                  ]
+            },
+            {
+                  "name": "Z market",
+                  "text": "A helyi agrár-ipari központot kiszolgáló piac a Bekaa-völgyben.",
+                  "category": "cultural",
+                  "coords": [
+                        35.907285,
+                        33.835963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lady of Joy Eastern Orthodox Church",
+                  "text": "Un sit ortodox istoric situat în apropierea orașului Zahle.",
+                  "category": "historical",
+                  "coords": [
+                        35.899147,
+                        33.841562
+                  ]
+            },
+            {
+                  "name": "Rihab",
+                  "text": "Un parc de recreere pentru familii, cu piscine și tobogane cu apă în Bekaa.",
+                  "category": "recreational",
+                  "coords": [
+                        35.926594,
+                        33.83867
+                  ]
+            },
+            {
+                  "name": "Zahle Brethren Church",
+                  "text": "Un lăcaș de cult creștin al comunității fraților din orașul Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916314,
+                        33.842762
+                  ]
+            },
+            {
+                  "name": "Saint Elie Church",
+                  "text": "O biserică creștină proeminentă din Zahle, „orașul vinului și al poeziei”.",
+                  "category": "landmark",
+                  "coords": [
+                        35.908448,
+                        33.837332
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church Zahle",
+                  "text": "O biserică modernă dedicată sfântului patron al Libanului, Sfântul Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.925441,
+                        33.840901
+                  ]
+            },
+            {
+                  "name": "True Vine Church",
+                  "text": "O biserică al cărei nume reflectă istoria bogată a viticulturii din regiunea Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.917542,
+                        33.843576
+                  ]
+            },
+            {
+                  "name": "Saint Rokoz church",
+                  "text": "O biserică tradițională dedicată Sfântului Roch (Rokoz).",
+                  "category": "landmark",
+                  "coords": [
+                        35.877424,
+                        33.885789
+                  ]
+            },
+            {
+                  "name": "Saint Mary Church",
+                  "text": "O biserică maronită centrală situată în orașul Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877573,
+                        33.884008
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "Un altar sau o biserică locală dedicată veneratului Sfânt Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876384,
+                        33.884655
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Bekaa and Zahle",
+                  "text": "O statuie masivă din bronz a Fecioarei Maria pe un turn cu vedere panoramică asupra orașului Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.901726,
+                        33.841114
+                  ]
+            },
+            {
+                  "name": "Z market",
+                  "text": "Piață locală care deservește centrul agro-industrial din Valea Bekaa.",
+                  "category": "cultural",
+                  "coords": [
+                        35.907285,
+                        33.835963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lady of Joy Eastern Orthodox Church",
+                  "text": "A historic Orthodox site located near the city of Zahle.",
+                  "category": "historical",
+                  "coords": [
+                        35.899147,
+                        33.841562
+                  ]
+            },
+            {
+                  "name": "Rihab",
+                  "text": "A family recreation park with swimming pools and water slides in the Bekaa.",
+                  "category": "recreational",
+                  "coords": [
+                        35.926594,
+                        33.83867
+                  ]
+            },
+            {
+                  "name": "Zahle Brethren Church",
+                  "text": "A Christian place of worship of the Brethren community in the city of Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.916314,
+                        33.842762
+                  ]
+            },
+            {
+                  "name": "Saint Elie Church",
+                  "text": "A prominent Christian church in Zahle, the \"City of Wine and Poetry\".",
+                  "category": "landmark",
+                  "coords": [
+                        35.908448,
+                        33.837332
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church Zahle",
+                  "text": "A modern church dedicated to Lebanon's patron saint, Saint Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.925441,
+                        33.840901
+                  ]
+            },
+            {
+                  "name": "True Vine Church",
+                  "text": "A church whose name reflects the rich viticultural history of the Zahle region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.917542,
+                        33.843576
+                  ]
+            },
+            {
+                  "name": "Saint Rokoz church",
+                  "text": "A traditional church dedicated to Saint Roch (Rokoz).",
+                  "category": "landmark",
+                  "coords": [
+                        35.877424,
+                        33.885789
+                  ]
+            },
+            {
+                  "name": "Saint Mary Church",
+                  "text": "A central Maronite church in the city of Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.877573,
+                        33.884008
+                  ]
+            },
+            {
+                  "name": "Saint Charbel Church",
+                  "text": "A local shrine or church dedicated to the revered Saint Charbel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.876384,
+                        33.884655
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Bekaa and Zahle",
+                  "text": "A massive bronze statue of the Virgin Mary atop a tower with panoramic views of Zahle.",
+                  "category": "landmark",
+                  "coords": [
+                        35.901726,
+                        33.841114
+                  ]
+            },
+            {
+                  "name": "Z market",
+                  "text": "Local market serving the agro-industrial center in the Bekaa Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        35.907285,
+                        33.835963
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LB-BI",
     coords: [35.900, 33.840],
@@ -627,7 +4290,196 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "sibline-cement-factory-economic-v2",
+    id: "sibline-cement-factory-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shaheem Roman Temple",
+                  "text": "Gut erhaltene Kalksteinruinen eines römischen Tempelkomplexes mit geschnitzten Säulen und antiken Olivenpressen.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479711,
+                        33.637911
+                  ]
+            },
+            {
+                  "name": "Lady Stanhope Ruins",
+                  "text": "Die atmosphärischen Überreste des auf einem Hügel gelegenen Wohnsitzes von Lady Hester Stanhope, einer exzentrischen britischen Entdeckerin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.458039,
+                        33.588017
+                  ]
+            },
+            {
+                  "name": "Sibline cement",
+                  "text": "Ein markantes Industriedenkmal, das die Schwerindustrie und Zementproduktion der Region Sibline repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        35.42407,
+                        33.625642
+                  ]
+            },
+            {
+                  "name": "Mazboud Mosque",
+                  "text": "Eine traditionelle sunnitische Moschee, die der lokalen Gemeinde im Schuf-Bergdorf Mazboud dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479183,
+                        33.611434
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Eine maronitische katholische Kirche, bekannt für ihre Bauweise aus lokalem Stein und ihre Bedeutung für die Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509613,
+                        33.59536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shaheem Roman Temple",
+                  "text": "Egy római templomkomplexum jól megőrzött mészkőromjai faragott oszlopokkal és ősi olajpréselőkkel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479711,
+                        33.637911
+                  ]
+            },
+            {
+                  "name": "Lady Stanhope Ruins",
+                  "text": "Lady Hester Stanhope, a különc brit felfedező dombtetőn lévő rezidenciájának hangulatos maradványai.",
+                  "category": "landmark",
+                  "coords": [
+                        35.458039,
+                        33.588017
+                  ]
+            },
+            {
+                  "name": "Sibline cement",
+                  "text": "Kiemelkedő ipari emlékhely, amely Sibline régiójának nehéziparát és cementgyártását jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        35.42407,
+                        33.625642
+                  ]
+            },
+            {
+                  "name": "Mazboud Mosque",
+                  "text": "Hagyományos szunnita mecset, amely a Shouf-hegységben fekvő Mazboud falu közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479183,
+                        33.611434
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "Maronita katolikus templom, amely helyi kőépítéséről és közösségi jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509613,
+                        33.59536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shaheem Roman Temple",
+                  "text": "Ruine de calcar bine conservate ale unui complex de temple romane, cu coloane sculptate și teascuri antice de măsline.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479711,
+                        33.637911
+                  ]
+            },
+            {
+                  "name": "Lady Stanhope Ruins",
+                  "text": "Rămășițele atmosferice ale reședinței de pe deal a doamnei Hester Stanhope, o excentrică exploratoare britanică.",
+                  "category": "landmark",
+                  "coords": [
+                        35.458039,
+                        33.588017
+                  ]
+            },
+            {
+                  "name": "Sibline cement",
+                  "text": "Un reper industrial proeminent care reprezintă industria grea și producția de ciment din regiunea Sibline.",
+                  "category": "historical",
+                  "coords": [
+                        35.42407,
+                        33.625642
+                  ]
+            },
+            {
+                  "name": "Mazboud Mosque",
+                  "text": "O moschee sunnită tradițională care deservește comunitatea locală din satul montan Mazboud din Chouf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479183,
+                        33.611434
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "O biserică catolică maronită cunoscută pentru construcția sa din piatră locală și semnificația sa comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509613,
+                        33.59536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shaheem Roman Temple",
+                  "text": "Well-preserved limestone ruins of a Roman temple complex featuring carved columns and ancient olive presses.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479711,
+                        33.637911
+                  ]
+            },
+            {
+                  "name": "Lady Stanhope Ruins",
+                  "text": "The atmospheric remains of the hilltop residence of Lady Hester Stanhope, an eccentric British explorer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.458039,
+                        33.588017
+                  ]
+            },
+            {
+                  "name": "Sibline cement",
+                  "text": "A prominent industrial landmark representing the region's heavy industry and cement production in Sibline.",
+                  "category": "historical",
+                  "coords": [
+                        35.42407,
+                        33.625642
+                  ]
+            },
+            {
+                  "name": "Mazboud Mosque",
+                  "text": "A traditional Sunni mosque serving the local community in the Chouf mountain village of Mazboud.",
+                  "category": "landmark",
+                  "coords": [
+                        35.479183,
+                        33.611434
+                  ]
+            },
+            {
+                  "name": "St. Maroun Church",
+                  "text": "A Maronite Catholic church known for its local stone construction and community significance.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509613,
+                        33.59536
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LB-JL",
     coords: [35.440, 33.645],
@@ -675,7 +4527,196 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "tripoli-free-economic-zone-economic-v2",
+    id: "tripoli-free-economic-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dado land",
+                  "text": "Ein familienfreundlicher Vergnügungspark in Tripoli mit verschiedenen Fahrgeschäften und Unterhaltungsangeboten für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        35.807821,
+                        34.448241
+                  ]
+            },
+            {
+                  "name": "Saint George Orthodox Church",
+                  "text": "Eine orthodoxe Kirche in Tripoli, die mit traditionellen Ikonen und religiöser Kunst geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.81265,
+                        34.452444
+                  ]
+            },
+            {
+                  "name": "Masjid Umar ibn Al-Khattab",
+                  "text": "Eine große Moschee im Hafenviertel von Tripoli, die als wichtiges religiöses Zentrum für die lokale Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.81642,
+                        34.452341
+                  ]
+            },
+            {
+                  "name": "Our Lady of Annunciation",
+                  "text": "Eine katholische Kirche in Tripoli, die der Jungfrau Maria und der Verkündigung gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.810619,
+                        34.450576
+                  ]
+            },
+            {
+                  "name": "Sankt-Elias-Kirche",
+                  "text": "Eine historische christliche Stätte in Tripoli, die nach dem Propheten Elia benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.808154,
+                        34.452612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dado land",
+                  "text": "Családbarát vidámpark Tripoliban, különféle játékokkal és szórakozási lehetőségekkel a gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        35.807821,
+                        34.448241
+                  ]
+            },
+            {
+                  "name": "Saint George Orthodox Church",
+                  "text": "Hagyományos ikonokkal és vallási művészettel díszített ortodox templom Tripoliban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.81265,
+                        34.452444
+                  ]
+            },
+            {
+                  "name": "Masjid Umar ibn Al-Khattab",
+                  "text": "Nagy mecset Tripoli kikötői negyedében, amely fontos vallási központként szolgál a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.81642,
+                        34.452341
+                  ]
+            },
+            {
+                  "name": "Our Lady of Annunciation",
+                  "text": "Katolikus templom Tripoliban, amelyet Szűz Máriának és az angyali üdvözletnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        35.810619,
+                        34.450576
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Történelmi keresztény emlékhely Tripoliban, amelyet Illés prófétáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        35.808154,
+                        34.452612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dado land",
+                  "text": "Un parc de distracții pentru familii din Tripoli, cu diverse atracții și opțiuni de divertisment pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.807821,
+                        34.448241
+                  ]
+            },
+            {
+                  "name": "Saint George Orthodox Church",
+                  "text": "O biserică ortodoxă din Tripoli, împodobită cu icoane tradiționale și artă religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.81265,
+                        34.452444
+                  ]
+            },
+            {
+                  "name": "Masjid Umar ibn Al-Khattab",
+                  "text": "O moschee mare din districtul portuar al Tripoli, servind ca un centru religios important pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.81642,
+                        34.452341
+                  ]
+            },
+            {
+                  "name": "Our Lady of Annunciation",
+                  "text": "O biserică catolică din Tripoli, dedicată Fecioarei Maria și Bunei Vestiri.",
+                  "category": "landmark",
+                  "coords": [
+                        35.810619,
+                        34.450576
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Un sit creștin istoric din Tripoli, numit după prorocul Ilie.",
+                  "category": "landmark",
+                  "coords": [
+                        35.808154,
+                        34.452612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dado land",
+                  "text": "A family-friendly amusement park in Tripoli featuring various rides and entertainment options for children.",
+                  "category": "recreational",
+                  "coords": [
+                        35.807821,
+                        34.448241
+                  ]
+            },
+            {
+                  "name": "Saint George Orthodox Church",
+                  "text": "An Orthodox church in Tripoli adorned with traditional icons and religious art.",
+                  "category": "landmark",
+                  "coords": [
+                        35.81265,
+                        34.452444
+                  ]
+            },
+            {
+                  "name": "Masjid Umar ibn Al-Khattab",
+                  "text": "A large mosque in the port district of Tripoli, serving as an important religious center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.81642,
+                        34.452341
+                  ]
+            },
+            {
+                  "name": "Our Lady of Annunciation",
+                  "text": "A Catholic church in Tripoli dedicated to the Virgin Mary and the Annunciation.",
+                  "category": "landmark",
+                  "coords": [
+                        35.810619,
+                        34.450576
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "A historic Christian site in Tripoli named after the prophet Elias.",
+                  "category": "landmark",
+                  "coords": [
+                        35.808154,
+                        34.452612
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "LB-AS",
     coords: [35.815, 34.455],
@@ -771,7 +4812,916 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "choueifat-industrial-area-economic-v2",
+    id: "choueifat-industrial-area-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruins of Public School",
+                  "text": "Die Ruinen einer ehemaligen öffentlichen Schule zeugen von der Bildungsgeschichte des Industriegebiets.",
+                  "category": "historical",
+                  "coords": [
+                        35.562854,
+                        33.79152
+                  ]
+            },
+            {
+                  "name": "NFS Karting Arena",
+                  "text": "Diese moderne Kart-Arena bietet eine professionelle Rennstrecke für Motorsportbegeisterte.",
+                  "category": "recreational",
+                  "coords": [
+                        35.498622,
+                        33.774826
+                  ]
+            },
+            {
+                  "name": "Al Khomayne Mosque",
+                  "text": "Eine muslimische Moschee mit markantem Minarett im Herzen des Viertels Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.508617,
+                        33.831342
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Diese christliche Kirche ist dem Heiligen Elias gewidmet und dient als lokales Gemeindezentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        35.54852,
+                        33.767218
+                  ]
+            },
+            {
+                  "name": "Al Azhar Mosque",
+                  "text": "Ein Ort des islamischen Gebets und Lernens für die lokale muslimische Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490215,
+                        33.789803
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Die St.-Georgs-Kirche ist ein traditioneller christlicher Treffpunkt mit schlichtem Steindesign.",
+                  "category": "landmark",
+                  "coords": [
+                        35.595742,
+                        33.777741
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Diese dem Heiligen Elie gewidmete Kirche ist ein wichtiges religiöses Wahrzeichen in der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53674,
+                        33.816648
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "Ein christliches Heiligtum, das der Heiligen Takla gewidmet ist und Pilger aus der Region anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.531041,
+                        33.816584
+                  ]
+            },
+            {
+                  "name": "Imam Rida Mosque",
+                  "text": "Eine schiitische Moschee, die der lokalen Bevölkerung als religiöses und soziales Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516077,
+                        33.823996
+                  ]
+            },
+            {
+                  "name": "deir el karkafi",
+                  "text": "Ein historisches christliches Kloster, das abgeschieden in der Hügellandschaft liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534495,
+                        33.813635
+                  ]
+            },
+            {
+                  "name": "Al Saydeh Church",
+                  "text": "Diese der Jungfrau Maria gewidmete Kirche beherbergt traditionelle Ikonen und religiöse Kunst.",
+                  "category": "landmark",
+                  "coords": [
+                        35.542313,
+                        33.802949
+                  ]
+            },
+            {
+                  "name": "Al Noor Mosque",
+                  "text": "Eine muslimische Gebetsstätte in Choueifat, die durch ihre schlichte Architektur und ihre Bedeutung für die Nachbarschaft besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51804,
+                        33.785323
+                  ]
+            },
+            {
+                  "name": "Deir Qoubel Church",
+                  "text": "Diese Kirche im Dorf Deir Qoubel ist ein markantes christliches Wahrzeichen in den Hügeln über Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51355,
+                        33.795203
+                  ]
+            },
+            {
+                  "name": "Anas Ben Malek Mosque",
+                  "text": "Diese Moschee ist ein zentraler Versammlungsort für die muslimische Gemeinde im Industriegebiet von Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504233,
+                        33.794938
+                  ]
+            },
+            {
+                  "name": "Al Hoda Mosque",
+                  "text": "Ein lokales muslimisches Gotteshaus in Choueifat, das für seine täglichen Gebete und seine schlichte Fassade bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.498386,
+                        33.789707
+                  ]
+            },
+            {
+                  "name": "El Saydeh Church",
+                  "text": "Die Saydeh-Kirche ist eine christliche Gebetsstätte in Choueifat, die der Jungfrau Maria gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.510534,
+                        33.83113
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Diese dem Heiligen Elias geweihte Kirche ist ein fester Bestandteil der christlichen Tradition in der Region Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.513125,
+                        33.833974
+                  ]
+            },
+            {
+                  "name": "Al Arab Mosque",
+                  "text": "Eine muslimische Gebetsstätte in Choueifat, die als spiritueller Ankerpunkt für die Bewohner des Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509126,
+                        33.838683
+                  ]
+            },
+            {
+                  "name": "Imam Hassam Mosque",
+                  "text": "Diese Moschee ist ein wichtiges religiöses Zentrum für die örtliche schiitische Gemeinde in Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514318,
+                        33.842607
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Ein muslimisches Gotteshaus in Choueifat, das nach Imam Ali benannt ist und einen Ort der Besinnung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.520444,
+                        33.834842
+                  ]
+            },
+            {
+                  "name": "andraos",
+                  "text": "Ein lokaler Marktplatz in Choueifat, auf dem Händler frische Lebensmittel und Waren des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        35.535442,
+                        33.81566
+                  ]
+            },
+            {
+                  "name": "elie",
+                  "text": "Ein kleinerer Nachbarschaftsmarkt in Choueifat, der die Bewohner mit frischen Waren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534673,
+                        33.818794
+                  ]
+            },
+            {
+                  "name": "mitri",
+                  "text": "Ein traditioneller Marktstandort in Choueifat, der für seine authentische Atmosphäre und lokale Händler geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        35.528716,
+                        33.832951
+                  ]
+            },
+            {
+                  "name": "mira market",
+                  "text": "Ein lokaler Lebensmittelmarkt in Choueifat, der eine breite Palette an frischem Obst und Gemüse bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.527824,
+                        33.834182
+                  ]
+            },
+            {
+                  "name": "elio",
+                  "text": "Ein kleiner lokaler Markt in Choueifat, der sich ideal für den schnellen Einkauf von Grundnahrungsmitteln eignet.",
+                  "category": "cultural",
+                  "coords": [
+                        35.530063,
+                        33.831428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruins of Public School",
+                  "text": "Egy egykori állami iskola romjai az ipari negyed oktatástörténetéről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        35.562854,
+                        33.79152
+                  ]
+            },
+            {
+                  "name": "NFS Karting Arena",
+                  "text": "Ez a modern gokart aréna professzionális versenypályát kínál a motorsport kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        35.498622,
+                        33.774826
+                  ]
+            },
+            {
+                  "name": "Al Khomayne Mosque",
+                  "text": "Muszlim mecset jellegzetes minarettel Choueifat negyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.508617,
+                        33.831342
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Ezt a keresztény templomot Szent Illésnek szentelték, és helyi közösségi központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        35.54852,
+                        33.767218
+                  ]
+            },
+            {
+                  "name": "Al Azhar Mosque",
+                  "text": "Az iszlám imádság és tanulás helyszíne a helyi muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490215,
+                        33.789803
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A Szent György-templom hagyományos keresztény találkozóhely egyszerű kőépítészeti stílussal.",
+                  "category": "landmark",
+                  "coords": [
+                        35.595742,
+                        33.777741
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Ez a Szent Éliásnak szentelt templom a környék fontos vallási nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53674,
+                        33.816648
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "Szent Taklának szentelt keresztény szentély, amely vonzza a régió zarándokait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.531041,
+                        33.816584
+                  ]
+            },
+            {
+                  "name": "Imam Rida Mosque",
+                  "text": "Síita mecset, amely vallási és közösségi központként szolgál a helyi lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516077,
+                        33.823996
+                  ]
+            },
+            {
+                  "name": "deir el karkafi",
+                  "text": "Történelmi keresztény kolostor, amely elszigetelten fekszik a dombos vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534495,
+                        33.813635
+                  ]
+            },
+            {
+                  "name": "Al Saydeh Church",
+                  "text": "Ez a Szűz Máriának szentelt templom hagyományos ikonoknak és vallási művészetnek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        35.542313,
+                        33.802949
+                  ]
+            },
+            {
+                  "name": "Al Noor Mosque",
+                  "text": "Egy mecset Choueifatban, amely egyszerű építészetével és a szomszédság hitéletében betöltött szerepével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51804,
+                        33.785323
+                  ]
+            },
+            {
+                  "name": "Deir Qoubel Church",
+                  "text": "Ez a Deir Qoubel faluban található templom jellegzetes keresztény építmény a Choueifat feletti dombokon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51355,
+                        33.795203
+                  ]
+            },
+            {
+                  "name": "Anas Ben Malek Mosque",
+                  "text": "Ez a mecset a helyi muszlim közösség központi gyülekezőhelye Choueifat ipari övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504233,
+                        33.794938
+                  ]
+            },
+            {
+                  "name": "Al Hoda Mosque",
+                  "text": "Helyi muszlim imaház Choueifatban, amely napi imáiról és letisztult homlokzatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.498386,
+                        33.789707
+                  ]
+            },
+            {
+                  "name": "El Saydeh Church",
+                  "text": "A Saydeh-templom egy Szűz Máriának szentelt keresztény imaház Choueifat városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.510534,
+                        33.83113
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Ez a Szent Illésnek szentelt templom a keresztény hagyományok fontos helyszíne Choueifat régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.513125,
+                        33.833974
+                  ]
+            },
+            {
+                  "name": "Al Arab Mosque",
+                  "text": "Egy mecset Choueifatban, amely lelki támaszt nyújt a környék lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509126,
+                        33.838683
+                  ]
+            },
+            {
+                  "name": "Imam Hassam Mosque",
+                  "text": "Ez a mecset a helyi síita közösség fontos vallási központja Choueifatban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514318,
+                        33.842607
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Imám Aliról elnevezett muszlim imaház Choueifatban, amely a csendes elvonulás helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        35.520444,
+                        33.834842
+                  ]
+            },
+            {
+                  "name": "andraos",
+                  "text": "Helyi piac Choueifatban, ahol a kereskedők friss élelmiszereket és mindennapi cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        35.535442,
+                        33.81566
+                  ]
+            },
+            {
+                  "name": "elie",
+                  "text": "Kisebb szomszédsági piac Choueifatban, amely friss árukkal látja el a helyi lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534673,
+                        33.818794
+                  ]
+            },
+            {
+                  "name": "mitri",
+                  "text": "Hagyományos piaci helyszín Choueifatban, amelyet autentikus hangulata és helyi árusai miatt kedvelnek.",
+                  "category": "cultural",
+                  "coords": [
+                        35.528716,
+                        33.832951
+                  ]
+            },
+            {
+                  "name": "mira market",
+                  "text": "Helyi élelmiszerpiac Choueifatban, amely friss gyümölcsök és zöldségek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        35.527824,
+                        33.834182
+                  ]
+            },
+            {
+                  "name": "elio",
+                  "text": "Kicsi helyi piac Choueifatban, amely ideális az alapvető élelmiszerek gyors beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        35.530063,
+                        33.831428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruins of Public School",
+                  "text": "Ruinele unei foste școli publice mărturisesc istoria educațională a zonei industriale.",
+                  "category": "historical",
+                  "coords": [
+                        35.562854,
+                        33.79152
+                  ]
+            },
+            {
+                  "name": "NFS Karting Arena",
+                  "text": "Această arenă modernă de karting oferă o pistă de curse profesională pentru entuziaștii sporturilor cu motor.",
+                  "category": "recreational",
+                  "coords": [
+                        35.498622,
+                        33.774826
+                  ]
+            },
+            {
+                  "name": "Al Khomayne Mosque",
+                  "text": "O moschee musulmană cu un minaret distinctiv în inima cartierului Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.508617,
+                        33.831342
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Această biserică creștină este dedicată Sfântului Ilie și servește ca centru comunitar local.",
+                  "category": "landmark",
+                  "coords": [
+                        35.54852,
+                        33.767218
+                  ]
+            },
+            {
+                  "name": "Al Azhar Mosque",
+                  "text": "Un loc de rugăciune și învățătură islamică pentru comunitatea musulmană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490215,
+                        33.789803
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Biserica Sfântul Gheorghe este un loc de întâlnire creștin tradițional cu un design simplu din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        35.595742,
+                        33.777741
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "Această biserică dedicată Sfântului Elie este un reper religios important în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53674,
+                        33.816648
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "Un sanctuar creștin dedicat Sfintei Takla, care atrage pelerini din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        35.531041,
+                        33.816584
+                  ]
+            },
+            {
+                  "name": "Imam Rida Mosque",
+                  "text": "O moschee șiită care servește ca centru religios și social pentru populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516077,
+                        33.823996
+                  ]
+            },
+            {
+                  "name": "deir el karkafi",
+                  "text": "O mănăstire creștină istorică situată izolat în peisajul deluros.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534495,
+                        33.813635
+                  ]
+            },
+            {
+                  "name": "Al Saydeh Church",
+                  "text": "Această biserică dedicată Fecioarei Maria adăpostește icoane tradiționale și artă religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.542313,
+                        33.802949
+                  ]
+            },
+            {
+                  "name": "Al Noor Mosque",
+                  "text": "Un lăcaș de cult musulman din Choueifat, cunoscut pentru arhitectura sa simplă și importanța pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51804,
+                        33.785323
+                  ]
+            },
+            {
+                  "name": "Deir Qoubel Church",
+                  "text": "Această biserică din satul Deir Qoubel este un reper creștin distinctiv situat pe dealurile de deasupra Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51355,
+                        33.795203
+                  ]
+            },
+            {
+                  "name": "Anas Ben Malek Mosque",
+                  "text": "Această moschee este un loc central de adunare pentru comunitatea musulmană din zona industrială Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504233,
+                        33.794938
+                  ]
+            },
+            {
+                  "name": "Al Hoda Mosque",
+                  "text": "Un lăcaș de cult musulman local din Choueifat, cunoscut pentru rugăciunile zilnice și fațada sa simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.498386,
+                        33.789707
+                  ]
+            },
+            {
+                  "name": "El Saydeh Church",
+                  "text": "Biserica El Saydeh este un lăcaș de cult creștin din Choueifat, fiind dedicată Fecioarei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        35.510534,
+                        33.83113
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Această biserică închinată Sfântului Ilie este un reper al tradiției creștine în regiunea Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.513125,
+                        33.833974
+                  ]
+            },
+            {
+                  "name": "Al Arab Mosque",
+                  "text": "Un lăcaș de cult musulman din Choueifat, care servește ca punct de sprijin spiritual pentru locuitorii cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509126,
+                        33.838683
+                  ]
+            },
+            {
+                  "name": "Imam Hassam Mosque",
+                  "text": "Această moschee este un centru religios important pentru comunitatea șiită locală din Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514318,
+                        33.842607
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Un lăcaș de cult musulman din Choueifat, numit după Imam Ali, oferind un spațiu pentru reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        35.520444,
+                        33.834842
+                  ]
+            },
+            {
+                  "name": "andraos",
+                  "text": "O piață locală din Choueifat unde comercianții oferă alimente proaspete și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        35.535442,
+                        33.81566
+                  ]
+            },
+            {
+                  "name": "elie",
+                  "text": "O piață de cartier mai mică în Choueifat, care deservește locuitorii cu produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534673,
+                        33.818794
+                  ]
+            },
+            {
+                  "name": "mitri",
+                  "text": "O locație tradițională de piață din Choueifat, apreciată pentru atmosfera autentică și comercianții locali.",
+                  "category": "cultural",
+                  "coords": [
+                        35.528716,
+                        33.832951
+                  ]
+            },
+            {
+                  "name": "mira market",
+                  "text": "O piață alimentară locală din Choueifat care oferă o gamă largă de fructe și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        35.527824,
+                        33.834182
+                  ]
+            },
+            {
+                  "name": "elio",
+                  "text": "O piață locală mică din Choueifat, ideală pentru cumpărături rapide de produse de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        35.530063,
+                        33.831428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins of Public School",
+                  "text": "The ruins of a former public school bear witness to the educational history of the industrial area.",
+                  "category": "historical",
+                  "coords": [
+                        35.562854,
+                        33.79152
+                  ]
+            },
+            {
+                  "name": "NFS Karting Arena",
+                  "text": "This modern karting arena features a professional racing track for motorsport enthusiasts.",
+                  "category": "recreational",
+                  "coords": [
+                        35.498622,
+                        33.774826
+                  ]
+            },
+            {
+                  "name": "Al Khomayne Mosque",
+                  "text": "A Muslim mosque with a prominent minaret located in the heart of the Choueifat district.",
+                  "category": "landmark",
+                  "coords": [
+                        35.508617,
+                        33.831342
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "This Christian church is dedicated to Saint Elias and serves as a local community center.",
+                  "category": "landmark",
+                  "coords": [
+                        35.54852,
+                        33.767218
+                  ]
+            },
+            {
+                  "name": "Al Azhar Mosque",
+                  "text": "A place of Islamic prayer and learning for the local Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        35.490215,
+                        33.789803
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "St. George's Church is a traditional Christian meeting place with a simple stone design.",
+                  "category": "landmark",
+                  "coords": [
+                        35.595742,
+                        33.777741
+                  ]
+            },
+            {
+                  "name": "St. Elie Church",
+                  "text": "This church dedicated to St. Elie is a significant religious landmark in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.53674,
+                        33.816648
+                  ]
+            },
+            {
+                  "name": "Mar Takla",
+                  "text": "A Christian shrine dedicated to Saint Takla, attracting pilgrims from across the region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.531041,
+                        33.816584
+                  ]
+            },
+            {
+                  "name": "Imam Rida Mosque",
+                  "text": "A Shia mosque serving as a religious and social hub for the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        35.516077,
+                        33.823996
+                  ]
+            },
+            {
+                  "name": "deir el karkafi",
+                  "text": "A historic Christian monastery situated in a secluded spot within the hilly landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        35.534495,
+                        33.813635
+                  ]
+            },
+            {
+                  "name": "Al Saydeh Church",
+                  "text": "This church dedicated to Our Lady houses traditional icons and religious art.",
+                  "category": "landmark",
+                  "coords": [
+                        35.542313,
+                        33.802949
+                  ]
+            },
+            {
+                  "name": "Al Noor Mosque",
+                  "text": "A Muslim place of worship in Choueifat, notable for its modest architecture and importance to the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51804,
+                        33.785323
+                  ]
+            },
+            {
+                  "name": "Deir Qoubel Church",
+                  "text": "This church in Deir Qoubel village is a distinct Christian landmark situated in the hills overlooking Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.51355,
+                        33.795203
+                  ]
+            },
+            {
+                  "name": "Anas Ben Malek Mosque",
+                  "text": "This mosque serves as a central gathering place for the Muslim community within the Choueifat industrial area.",
+                  "category": "landmark",
+                  "coords": [
+                        35.504233,
+                        33.794938
+                  ]
+            },
+            {
+                  "name": "Al Hoda Mosque",
+                  "text": "A local Muslim house of worship in Choueifat, known for its daily prayers and simple exterior.",
+                  "category": "landmark",
+                  "coords": [
+                        35.498386,
+                        33.789707
+                  ]
+            },
+            {
+                  "name": "El Saydeh Church",
+                  "text": "El Saydeh Church is a Christian place of worship in Choueifat dedicated to the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        35.510534,
+                        33.83113
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "This church dedicated to Saint Elias is a cornerstone of Christian tradition in the Choueifat region.",
+                  "category": "landmark",
+                  "coords": [
+                        35.513125,
+                        33.833974
+                  ]
+            },
+            {
+                  "name": "Al Arab Mosque",
+                  "text": "A Muslim place of worship in Choueifat that serves as a spiritual anchor for the neighborhood residents.",
+                  "category": "landmark",
+                  "coords": [
+                        35.509126,
+                        33.838683
+                  ]
+            },
+            {
+                  "name": "Imam Hassam Mosque",
+                  "text": "This mosque functions as an important religious center for the local Shia community in Choueifat.",
+                  "category": "landmark",
+                  "coords": [
+                        35.514318,
+                        33.842607
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "A Muslim house of worship in Choueifat named after Imam Ali, providing a space for quiet reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        35.520444,
+                        33.834842
+                  ]
+            },
+            {
+                  "name": "andraos",
+                  "text": "A local marketplace in Choueifat where vendors offer fresh produce and daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        35.535442,
+                        33.81566
+                  ]
+            },
+            {
+                  "name": "elie",
+                  "text": "A smaller neighborhood market in Choueifat providing residents with fresh goods and essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        35.534673,
+                        33.818794
+                  ]
+            },
+            {
+                  "name": "mitri",
+                  "text": "A traditional market location in Choueifat valued for its authentic atmosphere and local vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        35.528716,
+                        33.832951
+                  ]
+            },
+            {
+                  "name": "mira market",
+                  "text": "A local grocery market in Choueifat offering a wide range of fresh fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        35.527824,
+                        33.834182
+                  ]
+            },
+            {
+                  "name": "elio",
+                  "text": "A small local market in Choueifat ideal for quick shopping of essential food items.",
+                  "category": "cultural",
+                  "coords": [
+                        35.530063,
+                        33.831428
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LB-JL",
     coords: [35.510, 33.815],
@@ -819,7 +5769,196 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "port-of-batroun-economic-v2",
+    id: "port-of-batroun-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phoenician Wall",
+                  "text": "Diese antike, aus natürlichem Sandstein gehauene Seemauer schützte Batroun einst vor den Wellen des Mittelmeers.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Bahsa Beach",
+                  "text": "Ein beliebter Kieselstrand an der historischen Küste von Batroun, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        35.657132,
+                        34.253366
+                  ]
+            },
+            {
+                  "name": "Phoenician Castle",
+                  "text": "Die Ruinen einer Küstenfestung, die von der antiken maritimen Bedeutung Batrouns zeugen.",
+                  "category": "castle",
+                  "coords": [
+                        35.657186,
+                        34.255429
+                  ]
+            },
+            {
+                  "name": "Saint Estephane Cathedral",
+                  "text": "Eine der größten Kathedralen Libanons, die durch ihren markanten byzantinisch-romanischen Stil besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658797,
+                        34.25716
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "Eine orthodoxe Kirche in den verwinkelten Gassen der Altstadt von Batroun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657887,
+                        34.256789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phoenician Wall",
+                  "text": "Ez a természetes homokkőből faragott ókori tengeri fal védte egykor Batrount a Földközi-tenger hullámaitól.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Bahsa Beach",
+                  "text": "Népszerű kavicsos strand Batroun történelmi partvidékén, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.657132,
+                        34.253366
+                  ]
+            },
+            {
+                  "name": "Phoenician Castle",
+                  "text": "Egy parti erődítmény romjai, amelyek Batroun ókori tengeri jelentőségéről tanúskodnak.",
+                  "category": "castle",
+                  "coords": [
+                        35.657186,
+                        34.255429
+                  ]
+            },
+            {
+                  "name": "Saint Estephane Cathedral",
+                  "text": "Libanon egyik legnagyobb katedrálisa, amely jellegzetes bizánci-román stílusával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658797,
+                        34.25716
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "Ortodox templom Batroun óvárosának kanyargós utcái között.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657887,
+                        34.256789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phoenician Wall",
+                  "text": "Acest zid de mare antic, sculptat în gresie naturală, a protejat cândva Batrounul de valurile Mediteranei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Bahsa Beach",
+                  "text": "O plajă populară cu prundiş pe coasta istorică a Batrounului, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        35.657132,
+                        34.253366
+                  ]
+            },
+            {
+                  "name": "Phoenician Castle",
+                  "text": "Ruinele unei fortificații de coastă care reflectă importanța maritimă antică a Batrounului.",
+                  "category": "castle",
+                  "coords": [
+                        35.657186,
+                        34.255429
+                  ]
+            },
+            {
+                  "name": "Saint Estephane Cathedral",
+                  "text": "Una dintre cele mai mari catedrale din Liban, remarcabilă prin stilul său bizantino-romanic distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658797,
+                        34.25716
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "O biserică ortodoxă situată printre străzile șerpuite ale orașului vechi Batroun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657887,
+                        34.256789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phoenician Wall",
+                  "text": "This ancient sea wall, carved from natural sandstone, once protected Batroun from the waves of the Mediterranean.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Bahsa Beach",
+                  "text": "A popular pebble beach on the historic coastline of Batroun, known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        35.657132,
+                        34.253366
+                  ]
+            },
+            {
+                  "name": "Phoenician Castle",
+                  "text": "The ruins of a coastal fortification reflecting the ancient maritime importance of Batroun.",
+                  "category": "castle",
+                  "coords": [
+                        35.657186,
+                        34.255429
+                  ]
+            },
+            {
+                  "name": "Saint Estephane Cathedral",
+                  "text": "One of Lebanon's largest cathedrals, notable for its distinct Byzantine-Romanesque architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        35.658797,
+                        34.25716
+                  ]
+            },
+            {
+                  "name": "Saint Georges Church",
+                  "text": "An Orthodox church situated among the winding streets of Batroun's old town.",
+                  "category": "landmark",
+                  "coords": [
+                        35.657887,
+                        34.256789
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LB-AS",
     coords: [35.655, 34.255],
@@ -867,7 +6006,376 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "anfeh-salt-pans-economic-v2",
+    id: "anfeh-salt-pans-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Las Salinas",
+                  "text": "Küstenort in Anfeh, Libanon, der in der Nähe historischer Salzpfannen liegt und klares Mittelmeerwasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.734744,
+                        34.363557
+                  ]
+            },
+            {
+                  "name": "Azm Centre",
+                  "text": "Modernes Kultur- und Kunstzentrum in der Region Anfeh, in dem verschiedene Ausstellungen und Bildungsworkshops stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        35.789882,
+                        34.38651
+                  ]
+            },
+            {
+                  "name": "st. Charbel church",
+                  "text": "Diese maronitische Kirche liegt in der Küstenstadt, die für ihre antiken, in den Fels gehauenen Salzpfannen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.735254,
+                        34.353206
+                  ]
+            },
+            {
+                  "name": "St. Licha",
+                  "text": "Eine kleine Steinkapelle, die sich in unmittelbarer Nähe der historischen Salinen am Ufer von Anfeh befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.731796,
+                        34.357183
+                  ]
+            },
+            {
+                  "name": "Deir Saydet El Natour",
+                  "text": "Ein orthodoxes Kloster, das auf einer felsigen Landzunge thront und einen weiten Blick über das Mittelmeer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        35.737823,
+                        34.375264
+                  ]
+            },
+            {
+                  "name": "Mar Seide",
+                  "text": "Diese byzantinische Kapelle am Ufer ist als „Unsere Liebe Frau vom Wind“ bekannt und beherbergt mittelalterliche Fresken.",
+                  "category": "landmark",
+                  "coords": [
+                        35.788254,
+                        34.345501
+                  ]
+            },
+            {
+                  "name": "Mar Semaan",
+                  "text": "Eine antike christliche Stätte an der zerklüfteten Küste, die für ihre historische Bedeutung in Nordlibanon bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.791254,
+                        34.35043
+                  ]
+            },
+            {
+                  "name": "Balamand Monastery",
+                  "text": "Ein griechisch-orthodoxes Kloster aus dem 12. Jahrhundert, das von Zisterziensermönchen auf einem hohen Plateau gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.779781,
+                        34.368312
+                  ]
+            },
+            {
+                  "name": "West Mosque",
+                  "text": "Eine traditionelle Moschee, die der lokalen muslimischen Gemeinde in der Nähe der historischen Salzbecken dient.",
+                  "category": "landmark",
+                  "coords": [
+                        35.78281,
+                        34.384839
+                  ]
+            },
+            {
+                  "name": "Sea Mosque",
+                  "text": "Diese Moschee liegt direkt am Ufer und zeugt von der engen Verbindung der Stadt zum Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.786287,
+                        34.388751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Las Salinas",
+                  "text": "Tengerparti üdülőhely a libanoni Anfeh-ben, amely történelmi lepárlók közelében fekszik, és tiszta mediterrán vizet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        35.734744,
+                        34.363557
+                  ]
+            },
+            {
+                  "name": "Azm Centre",
+                  "text": "Modern kulturális és művészeti központ Anfeh térségében, amely különféle kiállításoknak és oktatási műhelyeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.789882,
+                        34.38651
+                  ]
+            },
+            {
+                  "name": "st. Charbel church",
+                  "text": "Maronita templom a tengerparti városban, amely a sziklába vájt ókori lepárlóiról és sólepárlóiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.735254,
+                        34.353206
+                  ]
+            },
+            {
+                  "name": "St. Licha",
+                  "text": "Egy apró kőkápolna, amely közvetlenül az anfehi part menti történelmi sólepárlók mellett található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.731796,
+                        34.357183
+                  ]
+            },
+            {
+                  "name": "Deir Saydet El Natour",
+                  "text": "Egy ortodox kolostor, amely egy sziklás félszigeten trónol, széles kilátást nyújtva a Földközi-tengerre.",
+                  "category": "landmark",
+                  "coords": [
+                        35.737823,
+                        34.375264
+                  ]
+            },
+            {
+                  "name": "Mar Seide",
+                  "text": "Ez a parti bizánci kápolna „A szél Miasszonyunk” néven ismert, és középkori freskókat őriz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.788254,
+                        34.345501
+                  ]
+            },
+            {
+                  "name": "Mar Semaan",
+                  "text": "Ősi keresztény helyszín a szaggatott partvonalon, amely Észak-Libanon történelmi jelentőségéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.791254,
+                        34.35043
+                  ]
+            },
+            {
+                  "name": "Balamand Monastery",
+                  "text": "Egy 12. századi görög ortodox kolostor, amelyet ciszterci szerzetesek alapítottak egy magas fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.779781,
+                        34.368312
+                  ]
+            },
+            {
+                  "name": "West Mosque",
+                  "text": "Hagyományos mecset, amely a helyi muszlim közösséget szolgálja a történelmi sómedencék közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        35.78281,
+                        34.384839
+                  ]
+            },
+            {
+                  "name": "Sea Mosque",
+                  "text": "Ez a mecset közvetlenül a parton található, tanúskodva a város és a tenger szoros kapcsolatáról.",
+                  "category": "landmark",
+                  "coords": [
+                        35.786287,
+                        34.388751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Las Salinas",
+                  "text": "Stațiune de coastă în Anfeh, Liban, situată lângă salinele istorice și oferind ape clare ale Mediteranei.",
+                  "category": "recreational",
+                  "coords": [
+                        35.734744,
+                        34.363557
+                  ]
+            },
+            {
+                  "name": "Azm Centre",
+                  "text": "Centru cultural și artistic modern din regiunea Anfeh, care găzduiește diverse expoziții și ateliere educaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.789882,
+                        34.38651
+                  ]
+            },
+            {
+                  "name": "st. Charbel church",
+                  "text": "O biserică maronită situată în orașul de coastă renumit pentru salinele sale antice săpate în stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.735254,
+                        34.353206
+                  ]
+            },
+            {
+                  "name": "St. Licha",
+                  "text": "O mică capelă de piatră situată în imediata apropiere a salinelor istorice de pe malul localității Anfeh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.731796,
+                        34.357183
+                  ]
+            },
+            {
+                  "name": "Deir Saydet El Natour",
+                  "text": "O mănăstire ortodoxă cocoțată pe un promontoriu stâncos, oferind o vedere largă asupra Mediteranei.",
+                  "category": "landmark",
+                  "coords": [
+                        35.737823,
+                        34.375264
+                  ]
+            },
+            {
+                  "name": "Mar Seide",
+                  "text": "Cunoscută sub numele de „Sfânta Maria a Vântului”, această capelă bizantină de pe țărm adăpostește fresce medievale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.788254,
+                        34.345501
+                  ]
+            },
+            {
+                  "name": "Mar Semaan",
+                  "text": "Un sit creștin antic pe coasta stâncoasă, cunoscut pentru importanța sa istorică în nordul Libanului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.791254,
+                        34.35043
+                  ]
+            },
+            {
+                  "name": "Balamand Monastery",
+                  "text": "O mănăstire ortodoxă greacă din secolul al XII-lea, fondată de călugări cistercieni pe un platou înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.779781,
+                        34.368312
+                  ]
+            },
+            {
+                  "name": "West Mosque",
+                  "text": "O moschee tradițională care deservește comunitatea musulmană locală în apropierea bazinelor istorice de sare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.78281,
+                        34.384839
+                  ]
+            },
+            {
+                  "name": "Sea Mosque",
+                  "text": "Această moschee este situată chiar pe țărm, fiind martora legăturii strânse a orașului cu marea.",
+                  "category": "landmark",
+                  "coords": [
+                        35.786287,
+                        34.388751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Las Salinas",
+                  "text": "Coastal resort in Anfeh, Lebanon, situated near historic salt pans and offering clear Mediterranean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        35.734744,
+                        34.363557
+                  ]
+            },
+            {
+                  "name": "Azm Centre",
+                  "text": "Modern cultural and arts center in the Anfeh region hosting various exhibitions and educational workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        35.789882,
+                        34.38651
+                  ]
+            },
+            {
+                  "name": "st. Charbel church",
+                  "text": "This Maronite church is located in the coastal town famous for its ancient salt pans carved into the rock.",
+                  "category": "landmark",
+                  "coords": [
+                        35.735254,
+                        34.353206
+                  ]
+            },
+            {
+                  "name": "St. Licha",
+                  "text": "A small stone chapel situated in close proximity to the historic salt pans on the shores of Anfeh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.731796,
+                        34.357183
+                  ]
+            },
+            {
+                  "name": "Deir Saydet El Natour",
+                  "text": "An Orthodox monastery perched on a rocky promontory, offering wide views over the Mediterranean Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        35.737823,
+                        34.375264
+                  ]
+            },
+            {
+                  "name": "Mar Seide",
+                  "text": "Known as Our Lady of the Wind, this Byzantine chapel on the shore houses medieval frescoes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.788254,
+                        34.345501
+                  ]
+            },
+            {
+                  "name": "Mar Semaan",
+                  "text": "An ancient Christian site on the rugged coastline, known for its historical significance in North Lebanon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.791254,
+                        34.35043
+                  ]
+            },
+            {
+                  "name": "Balamand Monastery",
+                  "text": "A 12th-century Greek Orthodox monastery founded by Cistercian monks on a high plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        35.779781,
+                        34.368312
+                  ]
+            },
+            {
+                  "name": "West Mosque",
+                  "text": "A traditional mosque serving the local Muslim community near the historic salt basins.",
+                  "category": "landmark",
+                  "coords": [
+                        35.78281,
+                        34.384839
+                  ]
+            },
+            {
+                  "name": "Sea Mosque",
+                  "text": "This mosque is situated right on the shoreline, witnessing the town's close connection to the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        35.786287,
+                        34.388751
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "LB-AS",
     coords: [35.730, 34.355],
@@ -915,7 +6423,268 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     }
   },
   {
-    id: "baalbek-power-plant-economic-v2",
+    id: "baalbek-power-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iaat",
+                  "text": "Eine archäologische Stätte in der Bekaa-Ebene, die für ihre monumentale korinthische Säule, die Iaat-Säule, bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        36.154325,
+                        34.066206
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Eine lokale muslimische Moschee, die sich durch ihr Minarett auszeichnet und in der historisch reichen Region um Baalbek liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.180691,
+                        33.975394
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Eine lokale christliche Kirche, die dem Propheten Mar Elias in der Region Baalbek gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        36.171392,
+                        34.038691
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Eine christliche Kultstätte, die dem Heiligen Georg gewidmet ist und der Gemeinde bei Baalbek dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.122165,
+                        34.009965
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "Eine nach dem Heiligen Elias benannte lokale christliche Kirche in der Region Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.136349,
+                        33.989314
+                  ]
+            },
+            {
+                  "name": "Imam Ouzai Mosque",
+                  "text": "Eine islamische Moschee, die nach Imam Ouzai benannt ist und der muslimischen Gemeinschaft in der Umgebung von Baalbek dient.",
+                  "category": "landmark",
+                  "coords": [
+                        36.185696,
+                        33.999446
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Eine islamische Kultstätte zu Ehren von Imam Ali in der Region Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.152945,
+                        33.934076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iaat",
+                  "text": "Régészeti lelőhely a Bekaa-völgyben, amely az Iaat-oszlopként ismert monumentális korinthoszi oszlopról híres.",
+                  "category": "historical",
+                  "coords": [
+                        36.154325,
+                        34.066206
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "Minaretjéről ismert helyi muszlim mecset a Baalbek körüli történelmileg gazdag régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.180691,
+                        33.975394
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "Egy helyi keresztény templom a Baalbek régióban, amelyet Mar Elias prófétának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        36.171392,
+                        34.038691
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A baalbeki közösséget szolgáló keresztény imahely, amelyet Szent Györgynek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.122165,
+                        34.009965
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "A Baalbek régióban található helyi keresztény templom, amely Szent Illés nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        36.136349,
+                        33.989314
+                  ]
+            },
+            {
+                  "name": "Imam Ouzai Mosque",
+                  "text": "Az Imam Ouzai nevét viselő iszlám mecset, amely a Baalbek környéki muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        36.185696,
+                        33.999446
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Imam Alit tisztelő iszlám imahely a Baalbek régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.152945,
+                        33.934076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iaat",
+                  "text": "Un sit arheologic din Valea Bekaa cunoscut în mod faimos pentru coloana corintică monumentală numită stâlpul Iaat.",
+                  "category": "historical",
+                  "coords": [
+                        36.154325,
+                        34.066206
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "O moschee musulmană locală caracterizată de minaretul său, situată în regiunea bogată istoric din jurul orașului Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.180691,
+                        33.975394
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "O biserică creștină locală dedicată profetului Mar Elias în regiunea Baalbek.",
+                  "category": "religious",
+                  "coords": [
+                        36.171392,
+                        34.038691
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "Un lăcaș de cult creștin dedicat Sfântului Gheorghe, care deservește comunitatea de lângă Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.122165,
+                        34.009965
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "O biserică creștină locală care poartă numele Sfântului Ilie, situată în regiunea Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.136349,
+                        33.989314
+                  ]
+            },
+            {
+                  "name": "Imam Ouzai Mosque",
+                  "text": "O moschee islamică numită după Imam Ouzai, care deservește comunitatea musulmană din jurul Baalbekului.",
+                  "category": "landmark",
+                  "coords": [
+                        36.185696,
+                        33.999446
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "Un lăcaș de cult islamic în onoarea imamului Ali, situat în zona Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.152945,
+                        33.934076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iaat",
+                  "text": "An archaeological site in the Bekaa Valley famously known for the monumental Corinthian column called the Iaat pillar.",
+                  "category": "historical",
+                  "coords": [
+                        36.154325,
+                        34.066206
+                  ]
+            },
+            {
+                  "name": "Al Rahman Mosque",
+                  "text": "A local Muslim mosque characterized by its minaret, situated in the historically rich region around Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.180691,
+                        33.975394
+                  ]
+            },
+            {
+                  "name": "Mar Elias Church",
+                  "text": "A local Christian church dedicated to the prophet Mar Elias in the Baalbek region.",
+                  "category": "religious",
+                  "coords": [
+                        36.171392,
+                        34.038691
+                  ]
+            },
+            {
+                  "name": "St. Georges Church",
+                  "text": "A Christian place of worship dedicated to Saint George, serving the community near Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.122165,
+                        34.009965
+                  ]
+            },
+            {
+                  "name": "St. Elias Church",
+                  "text": "A local Christian church named after Saint Elias, situated in the Baalbek region.",
+                  "category": "landmark",
+                  "coords": [
+                        36.136349,
+                        33.989314
+                  ]
+            },
+            {
+                  "name": "Imam Ouzai Mosque",
+                  "text": "An Islamic mosque named after Imam Ouzai, serving the Muslim community around Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.185696,
+                        33.999446
+                  ]
+            },
+            {
+                  "name": "Imam Ali Mosque",
+                  "text": "An Islamic place of worship honoring Imam Ali, located in the Baalbek area.",
+                  "category": "landmark",
+                  "coords": [
+                        36.152945,
+                        33.934076
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "LB-BH",
     coords: [36.185, 34.005],

@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraNorthkoreaHistoryV2: POI[] = [
   {
-    id: "northkorea-songgyungwan-history-v2",
+    id: "northkorea-songgyungwan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hwasan Mountain",
+                  "text": "Historischer Berg in der Region Kaesong, bekannt für seine schroffen Granitfelsen und malerischen Täler.",
+                  "category": "natural",
+                  "coords": [
+                        126.643816,
+                        38.051185
+                  ]
+            },
+            {
+                  "name": "Koryo Museum (Sungyangwan Academy)",
+                  "text": "Museum in einer konfuzianischen Akademie aus der Koryo-Dynastie in Kaesong mit antiker Keramik.",
+                  "category": "museum",
+                  "coords": [
+                        126.570749,
+                        37.991371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hwasan Mountain",
+                  "text": "Történelmi hegy Kaesong régiójában, amely gránitszikláiról és festői völgyeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        126.643816,
+                        38.051185
+                  ]
+            },
+            {
+                  "name": "Koryo Museum (Sungyangwan Academy)",
+                  "text": "Múzeum egy Koryo-kori konfuciánus akadémián Kaesongban, antik kerámiákkal és relikviákkal.",
+                  "category": "museum",
+                  "coords": [
+                        126.570749,
+                        37.991371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hwasan Mountain",
+                  "text": "Munte istoric în regiunea Kaesong, cunoscut pentru versanții săi de granit și văile pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        126.643816,
+                        38.051185
+                  ]
+            },
+            {
+                  "name": "Koryo Museum (Sungyangwan Academy)",
+                  "text": "Muzeu situat într-o academie confucianistă din epoca Koryo în Kaesong, expunând ceramică antică.",
+                  "category": "museum",
+                  "coords": [
+                        126.570749,
+                        37.991371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hwasan Mountain",
+                  "text": "Historic mountain in the Kaesong region, known for its granite slopes and scenic valleys.",
+                  "category": "natural",
+                  "coords": [
+                        126.643816,
+                        38.051185
+                  ]
+            },
+            {
+                  "name": "Koryo Museum (Sungyangwan Academy)",
+                  "text": "Located in a Koryo-era Confucian academy in Kaesong, displaying ancient celadon and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        126.570749,
+                        37.991371
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KP-06",
     coords: [126.5683, 37.9897],
@@ -71,7 +152,52 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     }
   },
   {
-    id: "northkorea-sonjuk-bridge-history-v2",
+    id: "northkorea-sonjuk-bridge-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument to Kim Kyong Jo (1797)",
+                  "text": "Eine Steinstele aus dem Jahr 1797, die einer historischen Persönlichkeit der Region gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        126.566163,
+                        37.977054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument to Kim Kyong Jo (1797)",
+                  "text": "Egy 1797-ből származó kősztélé, amelyet a régió egyik történelmi személyiségének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        126.566163,
+                        37.977054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument to Kim Kyong Jo (1797)",
+                  "text": "O stelă de piatră din 1797, dedicată unei personalități istorice a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        126.566163,
+                        37.977054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument to Kim Kyong Jo (1797)",
+                  "text": "A stone stele dating back to 1797, dedicated to a historical figure of the region.",
+                  "category": "historical",
+                  "coords": [
+                        126.566163,
+                        37.977054
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-06",
     coords: [126.5658, 37.9744],
@@ -207,7 +333,268 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     }
   },
   {
-    id: "northkorea-pohyon-temple-history-v2",
+    id: "northkorea-pohyon-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Geumgang Falls",
+                  "text": "Ein malerischer Wasserfall im Myohyang-Gebirge, der über Granitfelsen herabstürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.241397,
+                        40.017607
+                  ]
+            },
+            {
+                  "name": "Ryongsan Hall",
+                  "text": "Eine Andachtshalle innerhalb des Pohyon-Tempelkomplexes mit buddhistischen Statuen.",
+                  "category": "landmark",
+                  "coords": [
+                        126.235953,
+                        40.008771
+                  ]
+            },
+            {
+                  "name": "Pohyeon Temple",
+                  "text": "Dieser im Jahr 1042 gegründete buddhistische Komplex ist eines der größten religiösen Zentren Nordkoreas.",
+                  "category": "landmark",
+                  "coords": [
+                        126.234859,
+                        40.008369
+                  ]
+            },
+            {
+                  "name": "Myohyangsan International Friendship Exhibition Hall",
+                  "text": "Ein in den Berg gebautes Museum, das Geschenke aus aller Welt an die nordkoreanischen Führer zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        126.22642,
+                        40.008847
+                  ]
+            },
+            {
+                  "name": "Chogye Gate",
+                  "text": "Das äußere Eingangstor zum Pohyon-Tempel, gekennzeichnet durch seine traditionelle Holzbauweise.",
+                  "category": "landmark",
+                  "coords": [
+                        126.233925,
+                        40.007725
+                  ]
+            },
+            {
+                  "name": "International Friendship Exhibition",
+                  "text": "Dieser riesige Komplex aus dem Jahr 1978 beherbergt tausende diplomatische Geschenke in unterirdischen Hallen.",
+                  "category": "museum",
+                  "coords": [
+                        126.230436,
+                        40.006777
+                  ]
+            },
+            {
+                  "name": "Hyangsan Market",
+                  "text": "Ein lokaler Marktplatz, auf dem regionale Waren und Kunsthandwerk aus der Myohyang-Region angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        126.173616,
+                        40.042603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Geumgang Falls",
+                  "text": "Gleccservájta gránitsziklákon alázúduló festői vízesés a Mjohjang-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        126.241397,
+                        40.017607
+                  ]
+            },
+            {
+                  "name": "Ryongsan Hall",
+                  "text": "Buddhista szobrokat őrző imacsarnok a Pohjon-templomkomplexum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        126.235953,
+                        40.008771
+                  ]
+            },
+            {
+                  "name": "Pohyeon Temple",
+                  "text": "Ez az 1042-ben alapított buddhista komplexum Észak-Korea egyik legnagyobb vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        126.234859,
+                        40.008369
+                  ]
+            },
+            {
+                  "name": "Myohyangsan International Friendship Exhibition Hall",
+                  "text": "A hegyoldalba épített múzeum, amely a világ minden tájáról érkezett állami ajándékokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        126.22642,
+                        40.008847
+                  ]
+            },
+            {
+                  "name": "Chogye Gate",
+                  "text": "A Pohjon-templom külső bejárati kapuja, amely hagyományos faépítészetéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        126.233925,
+                        40.007725
+                  ]
+            },
+            {
+                  "name": "International Friendship Exhibition",
+                  "text": "Ez az 1042-ben alapított hatalmas komplexum több ezer diplomáciai ajándékot őriz föld alatti termeiben.",
+                  "category": "museum",
+                  "coords": [
+                        126.230436,
+                        40.006777
+                  ]
+            },
+            {
+                  "name": "Hyangsan Market",
+                  "text": "Helyi piac, ahol a Mjohjang-régió termékeit és kézműves áruit kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        126.173616,
+                        40.042603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Geumgang Falls",
+                  "text": "O cascadă pitorească din munții Myohyang care curge peste stânci de granit.",
+                  "category": "landmark",
+                  "coords": [
+                        126.241397,
+                        40.017607
+                  ]
+            },
+            {
+                  "name": "Ryongsan Hall",
+                  "text": "O sală de rugăciune din cadrul complexului Pohyon, care adăpostește statui budiste.",
+                  "category": "landmark",
+                  "coords": [
+                        126.235953,
+                        40.008771
+                  ]
+            },
+            {
+                  "name": "Pohyeon Temple",
+                  "text": "Fondat în 1042, acest complex budist este unul dintre cele mai mari centre religioase din Coreea de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        126.234859,
+                        40.008369
+                  ]
+            },
+            {
+                  "name": "Myohyangsan International Friendship Exhibition Hall",
+                  "text": "Un muzeu săpat în munte care expune cadouri primite de conducătorii nord-coreeni din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        126.22642,
+                        40.008847
+                  ]
+            },
+            {
+                  "name": "Chogye Gate",
+                  "text": "Poarta exterioară de la intrarea în templul Pohyon, remarcabilă prin arhitectura sa tradițională din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        126.233925,
+                        40.007725
+                  ]
+            },
+            {
+                  "name": "International Friendship Exhibition",
+                  "text": "Acest complex imens, construit în 1978, adăpostește mii de cadouri diplomatice în săli subterane.",
+                  "category": "museum",
+                  "coords": [
+                        126.230436,
+                        40.006777
+                  ]
+            },
+            {
+                  "name": "Hyangsan Market",
+                  "text": "O piață locală unde se vând produse regionale și obiecte de artizanat din zona Myohyang.",
+                  "category": "cultural",
+                  "coords": [
+                        126.173616,
+                        40.042603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geumgang Falls",
+                  "text": "A picturesque waterfall in the Myohyang Mountains cascading over granite rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        126.241397,
+                        40.017607
+                  ]
+            },
+            {
+                  "name": "Ryongsan Hall",
+                  "text": "A devotional hall within the Pohyon Temple complex containing Buddhist statues.",
+                  "category": "landmark",
+                  "coords": [
+                        126.235953,
+                        40.008771
+                  ]
+            },
+            {
+                  "name": "Pohyeon Temple",
+                  "text": "Founded in 1042, this Buddhist complex is one of the largest religious centers in North Korea.",
+                  "category": "landmark",
+                  "coords": [
+                        126.234859,
+                        40.008369
+                  ]
+            },
+            {
+                  "name": "Myohyangsan International Friendship Exhibition Hall",
+                  "text": "A museum built into the mountainside displaying gifts from around the world to the North Korean leaders.",
+                  "category": "museum",
+                  "coords": [
+                        126.22642,
+                        40.008847
+                  ]
+            },
+            {
+                  "name": "Chogye Gate",
+                  "text": "The outer entrance gate to the Pohyon Temple, noted for its traditional wooden architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        126.233925,
+                        40.007725
+                  ]
+            },
+            {
+                  "name": "International Friendship Exhibition",
+                  "text": "This vast complex, built in 1978, houses thousands of diplomatic gifts within its underground halls.",
+                  "category": "museum",
+                  "coords": [
+                        126.230436,
+                        40.006777
+                  ]
+            },
+            {
+                  "name": "Hyangsan Market",
+                  "text": "A local marketplace offering regional goods and handicrafts from the Myohyang region.",
+                  "category": "cultural",
+                  "coords": [
+                        126.173616,
+                        40.042603
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KP-03",
     coords: [126.2300, 40.0100],
@@ -275,7 +662,160 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     }
   },
   {
-    id: "northkorea-anak-tomb-3-history-v2",
+    id: "northkorea-anak-tomb-3-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anak Tomb No. 2",
+                  "text": "Dieses alte Grab in Anak ist als Kulturerbe der Klassen 1 und 2 für seine historische Bedeutung und seine Wandmalereien anerkannt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.541369,
+                        38.492772
+                  ]
+            },
+            {
+                  "name": "Anak Tomb No. 1",
+                  "text": "Das als Kulturerbe ausgewiesene Anak-Grab Nr. 1 bewahrt alte Grabstrukturen und historische Artefakte.",
+                  "category": "landmark",
+                  "coords": [
+                        125.542067,
+                        38.488423
+                  ]
+            },
+            {
+                  "name": "Anak Tomb No. 3",
+                  "text": "Dieses denkmalgeschützte Grab in Anak ist für seine gut erhaltenen antiken Wandmalereien bekannt und bietet einen Einblick in die frühe koreanische Geschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        125.508119,
+                        38.449152
+                  ]
+            },
+            {
+                  "name": "Anak Market",
+                  "text": "Auf diesem belebten Marktplatz in Anak versammeln sich die Einheimischen an verschiedenen Ständen, um mit täglichen Waren und Produkten zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        125.496965,
+                        38.507293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anak Tomb No. 2",
+                  "text": "Ez az Anakban található ősi sír 1-es és 2-es kategóriájú örökségi helyszín történelmi jelentősége és falfestményei miatt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.541369,
+                        38.492772
+                  ]
+            },
+            {
+                  "name": "Anak Tomb No. 1",
+                  "text": "Az örökségi helyszínnek nyilvánított 1-es számú anaki sír ősi temetkezési struktúrákat és történelmi leleteket őriz.",
+                  "category": "landmark",
+                  "coords": [
+                        125.542067,
+                        38.488423
+                  ]
+            },
+            {
+                  "name": "Anak Tomb No. 3",
+                  "text": "A jól megőrzött ősi falfestményeiről híres anaki műemlék sír bepillantást enged a korai koreai történelembe.",
+                  "category": "landmark",
+                  "coords": [
+                        125.508119,
+                        38.449152
+                  ]
+            },
+            {
+                  "name": "Anak Market",
+                  "text": "Ezen a nyüzsgő anaki piacon a helyiek különféle standoknál gyűlnek össze, hogy napi cikkekkel és termékekkel kereskedjenek.",
+                  "category": "cultural",
+                  "coords": [
+                        125.496965,
+                        38.507293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anak Tomb No. 2",
+                  "text": "Acest mormânt antic din Anak este recunoscut ca sit de patrimoniu de clasa 1 și 2 pentru semnificația sa istorică și picturile murale.",
+                  "category": "landmark",
+                  "coords": [
+                        125.541369,
+                        38.492772
+                  ]
+            },
+            {
+                  "name": "Anak Tomb No. 1",
+                  "text": "Desemnat ca sit de patrimoniu, Mormântul Anak nr. 1 păstrează structuri funerare antice și artefacte istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        125.542067,
+                        38.488423
+                  ]
+            },
+            {
+                  "name": "Anak Tomb No. 3",
+                  "text": "Renumit pentru picturile sale murale antice bine conservate, acest mormânt de patrimoniu din Anak oferă o privire asupra istoriei timpurii coreene.",
+                  "category": "landmark",
+                  "coords": [
+                        125.508119,
+                        38.449152
+                  ]
+            },
+            {
+                  "name": "Anak Market",
+                  "text": "În această piață plină de viață din Anak, localnicii se adună la diverse tarabe pentru a face comerț cu bunuri și produse zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        125.496965,
+                        38.507293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anak Tomb No. 2",
+                  "text": "This ancient tomb in Anak is recognized as a class 1 and 2 heritage site for its historical significance and mural paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        125.541369,
+                        38.492772
+                  ]
+            },
+            {
+                  "name": "Anak Tomb No. 1",
+                  "text": "Designated as a heritage site, Anak Tomb No. 1 preserves ancient burial structures and historical artifacts.",
+                  "category": "landmark",
+                  "coords": [
+                        125.542067,
+                        38.488423
+                  ]
+            },
+            {
+                  "name": "Anak Tomb No. 3",
+                  "text": "Renowned for its well-preserved ancient murals, this heritage-listed tomb in Anak offers a glimpse into early Korean history.",
+                  "category": "landmark",
+                  "coords": [
+                        125.508119,
+                        38.449152
+                  ]
+            },
+            {
+                  "name": "Anak Market",
+                  "text": "At this bustling marketplace in Anak, locals gather at various stalls to trade daily goods and produce.",
+                  "category": "cultural",
+                  "coords": [
+                        125.496965,
+                        38.507293
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KP-05",
     coords: [125.5000, 38.5167],
@@ -411,7 +951,88 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "northkorea-kongmin-tomb-history-v2",
+    id: "northkorea-kongmin-tomb-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Obong",
+                  "text": "Ein Berg in der Nähe von Kaesong, der das historische Grab von König Kongmin überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        126.406789,
+                        37.983108
+                  ]
+            },
+            {
+                  "name": "Gangseo Temple",
+                  "text": "Ein abgelegener buddhistischer Tempel in der Nähe der königlichen Grabstätten von Kaesong.",
+                  "category": "landmark",
+                  "coords": [
+                        126.381676,
+                        37.961586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Obong",
+                  "text": "Keszong közeli hegy, amely a történelmi Kongmin király sírjára néz.",
+                  "category": "natural",
+                  "coords": [
+                        126.406789,
+                        37.983108
+                  ]
+            },
+            {
+                  "name": "Gangseo Temple",
+                  "text": "Eldugott buddhista templom a keszongi királysírok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        126.381676,
+                        37.961586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Obong",
+                  "text": "Un munte lângă Kaesong care domină mormântul istoric al regelui Kongmin.",
+                  "category": "natural",
+                  "coords": [
+                        126.406789,
+                        37.983108
+                  ]
+            },
+            {
+                  "name": "Gangseo Temple",
+                  "text": "Un templu budist retras situat în apropierea mormintelor regale din Kaesong.",
+                  "category": "landmark",
+                  "coords": [
+                        126.381676,
+                        37.961586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Obong",
+                  "text": "A mountain near Kaesong overlooking the historic Tomb of King Kongmin.",
+                  "category": "natural",
+                  "coords": [
+                        126.406789,
+                        37.983108
+                  ]
+            },
+            {
+                  "name": "Gangseo Temple",
+                  "text": "A secluded Buddhist temple located near the royal burial sites of Kaesong.",
+                  "category": "landmark",
+                  "coords": [
+                        126.381676,
+                        37.961586
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KP-06",
     coords: [126.4717, 37.9822],
@@ -479,7 +1100,772 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "northkorea-kwangbop-temple-history-v2",
+    id: "northkorea-kwangbop-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kwangbopsa",
+                  "text": "Ein rekonstruierter buddhistischer Tempel aus der Koguryo-Ära am Fuße des Berges Taesong.",
+                  "category": "landmark",
+                  "coords": [
+                        125.826482,
+                        39.091631
+                  ]
+            },
+            {
+                  "name": "Taesongsan",
+                  "text": "Ein Berg mit den Überresten einer antiken Festungsmauer und Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        125.842639,
+                        39.081821
+                  ]
+            },
+            {
+                  "name": "Central Zoo",
+                  "text": "Der 1959 eröffnete zentrale Zoo beherbergt ein modernes Aquarium und exotische Tiere.",
+                  "category": "recreational",
+                  "coords": [
+                        125.816028,
+                        39.075128
+                  ]
+            },
+            {
+                  "name": "Taesongsan Funfair",
+                  "text": "Ein 1977 am Berg Taesong eröffneter Vergnügungspark mit traditionellen Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        125.829352,
+                        39.075205
+                  ]
+            },
+            {
+                  "name": "Cheongunsan Mountain",
+                  "text": "Ein bewaldeter Gipfel in der Nähe von Pjöngjang, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        125.861051,
+                        39.122368
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Ein palastartiger Gebäudekomplex inmitten einer streng bewachten Parkanlage.",
+                  "category": "castle",
+                  "coords": [
+                        125.877201,
+                        39.116215
+                  ]
+            },
+            {
+                  "name": "Animals Show",
+                  "text": "Ein Vorführbereich im Zoo, in dem dressierte Tiere Kunststücke zeigen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.812841,
+                        39.074656
+                  ]
+            },
+            {
+                  "name": "Deer",
+                  "text": "Ein weitläufiges Gehege im Zoo für verschiedene Hirscharten und Huftiere.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818393,
+                        39.075729
+                  ]
+            },
+            {
+                  "name": "Penguin",
+                  "text": "Ein klimatisiertes Polarhaus mit Wasserbecken für verschiedene Pinguinarten.",
+                  "category": "landmark",
+                  "coords": [
+                        125.81393,
+                        39.073452
+                  ]
+            },
+            {
+                  "name": "Reptile",
+                  "text": "Ein Terrarium mit zahlreichen Vitrinen für Schlangen, Echsen und Schildkröten.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815776,
+                        39.073204
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Ein gesichertes Waldgehege, das dem sibirischen Tiger einen natürlichen Lebensraum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815421,
+                        39.074205
+                  ]
+            },
+            {
+                  "name": "Bear",
+                  "text": "Ein felsiges Freigehege für Braunbären und asiatische Schwarzbären.",
+                  "category": "landmark",
+                  "coords": [
+                        125.814075,
+                        39.075222
+                  ]
+            },
+            {
+                  "name": "Antelope",
+                  "text": "Ein offenes Weidegelände für verschiedene grazilen Antilopenarten.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818782,
+                        39.076796
+                  ]
+            },
+            {
+                  "name": "Elephant",
+                  "text": "Ein weitläufiges Areal mit einem massiven Stallgebäude für die Elefanten des Zoos.",
+                  "category": "landmark",
+                  "coords": [
+                        125.817278,
+                        39.075651
+                  ]
+            },
+            {
+                  "name": "Wolf",
+                  "text": "Ein bewaldetes Habitat für Wolfsrudel, das deren natürlichem Lebensraum nachempfunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815963,
+                        39.07675
+                  ]
+            },
+            {
+                  "name": "Sheep & Goat",
+                  "text": "Eine Abteilung mit Nutztieren wie Ziegen und Schafen innerhalb des Geländes.",
+                  "category": "landmark",
+                  "coords": [
+                        125.817019,
+                        39.077317
+                  ]
+            },
+            {
+                  "name": "Rhinoceros",
+                  "text": "Ein Bereich, in dem Nashörner in ihren Außengehegen beobachtet werden können.",
+                  "category": "landmark",
+                  "coords": [
+                        125.819523,
+                        39.077811
+                  ]
+            },
+            {
+                  "name": "Singing Birds",
+                  "text": "Eine Voliere, in der verschiedene Singvogelarten untergebracht sind.",
+                  "category": "landmark",
+                  "coords": [
+                        125.819999,
+                        39.076271
+                  ]
+            },
+            {
+                  "name": "Birds of prey",
+                  "text": "Ein Bereich mit Greifvögeln wie Adlern und Falken.",
+                  "category": "landmark",
+                  "coords": [
+                        125.820254,
+                        39.075229
+                  ]
+            },
+            {
+                  "name": "Parrot",
+                  "text": "Ein farbenfrohes Haus für tropische Papageienarten.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818534,
+                        39.074311
+                  ]
+            },
+            {
+                  "name": "Waterfowl",
+                  "text": "Ein Teichbereich für Enten, Gänse und andere Wasservögel.",
+                  "category": "landmark",
+                  "coords": [
+                        125.81715,
+                        39.074126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kwangbopsa",
+                  "text": "Rekonstruált buddhista templom a Kogurjo-korszakból a Taeszong-hegy lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        125.826482,
+                        39.091631
+                  ]
+            },
+            {
+                  "name": "Taesongsan",
+                  "text": "Hegy egy ősi erődítmény falmaradványaival és túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        125.842639,
+                        39.081821
+                  ]
+            },
+            {
+                  "name": "Central Zoo",
+                  "text": "Az 1959-ben megnyílt központi állatkert modern akváriumnak és egzotikus állatoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        125.816028,
+                        39.075128
+                  ]
+            },
+            {
+                  "name": "Taesongsan Funfair",
+                  "text": "1977-ben a Taeszong-hegynél megnyitott vidámpark hagyományos játékokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        125.829352,
+                        39.075205
+                  ]
+            },
+            {
+                  "name": "Cheongunsan Mountain",
+                  "text": "Erdős hegycsúcs Phenjan közelében, amely ideális természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        125.861051,
+                        39.122368
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Palotaszerű épületegyüttes egy szigorúan őrzött parkos terület közepén.",
+                  "category": "castle",
+                  "coords": [
+                        125.877201,
+                        39.116215
+                  ]
+            },
+            {
+                  "name": "Animals Show",
+                  "text": "Bemutatóhely az állatkertben, ahol idomított állatok mutatnak be trükköket.",
+                  "category": "landmark",
+                  "coords": [
+                        125.812841,
+                        39.074656
+                  ]
+            },
+            {
+                  "name": "Deer",
+                  "text": "Tágas kifutó az állatkertben különböző szarvasfajok és patások számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818393,
+                        39.075729
+                  ]
+            },
+            {
+                  "name": "Penguin",
+                  "text": "Klimatizált sarki ház vizesmedencével különböző pingvinfajok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.81393,
+                        39.073452
+                  ]
+            },
+            {
+                  "name": "Reptile",
+                  "text": "Terrárium számos bemutatóval kígyók, gyíkok és teknősök számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815776,
+                        39.073204
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Biztonságos erdei kifutó, amely természetes élőhelyet biztosít a szibériai tigrisnek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815421,
+                        39.074205
+                  ]
+            },
+            {
+                  "name": "Bear",
+                  "text": "Sziklás kifutó barna medvék és ázsiai fekete medvék számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.814075,
+                        39.075222
+                  ]
+            },
+            {
+                  "name": "Antelope",
+                  "text": "Nyitott legelőterület különféle kecses antilopfajok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818782,
+                        39.076796
+                  ]
+            },
+            {
+                  "name": "Elephant",
+                  "text": "Tágas terület masszív istállóépülettel az állatkert elefántjai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        125.817278,
+                        39.075651
+                  ]
+            },
+            {
+                  "name": "Wolf",
+                  "text": "Erdős élőhely farkasfalkák számára, amely természetes környezetüket utánozza.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815963,
+                        39.07675
+                  ]
+            },
+            {
+                  "name": "Sheep & Goat",
+                  "text": "Kecske- és juhféléket bemutató állatkerti részleg.",
+                  "category": "landmark",
+                  "coords": [
+                        125.817019,
+                        39.077317
+                  ]
+            },
+            {
+                  "name": "Rhinoceros",
+                  "text": "Orrszarvúakat bemutató tágas kifutó.",
+                  "category": "landmark",
+                  "coords": [
+                        125.819523,
+                        39.077811
+                  ]
+            },
+            {
+                  "name": "Singing Birds",
+                  "text": "Különféle énekesmadaraknak otthont adó röpde.",
+                  "category": "landmark",
+                  "coords": [
+                        125.819999,
+                        39.076271
+                  ]
+            },
+            {
+                  "name": "Birds of prey",
+                  "text": "Ragadozó madarakat, például sasokat és sólymokat bemutató részleg.",
+                  "category": "landmark",
+                  "coords": [
+                        125.820254,
+                        39.075229
+                  ]
+            },
+            {
+                  "name": "Parrot",
+                  "text": "Trópusi papagájfajoknak otthont adó színes madárház.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818534,
+                        39.074311
+                  ]
+            },
+            {
+                  "name": "Waterfowl",
+                  "text": "Kacsáknak és ludaknak otthont adó vizes élőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        125.81715,
+                        39.074126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kwangbopsa",
+                  "text": "Un templu budist reconstituit din epoca Koguryo, la poalele muntelui Taesong.",
+                  "category": "landmark",
+                  "coords": [
+                        125.826482,
+                        39.091631
+                  ]
+            },
+            {
+                  "name": "Taesongsan",
+                  "text": "Un munte cu vestigiile unor ziduri de cetate antică și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        125.842639,
+                        39.081821
+                  ]
+            },
+            {
+                  "name": "Central Zoo",
+                  "text": "Deschisă în 1959, grădina zoologică centrală găzduiește un acvariu modern și animale exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        125.816028,
+                        39.075128
+                  ]
+            },
+            {
+                  "name": "Taesongsan Funfair",
+                  "text": "Un parc de distracții deschis în 1977 la muntele Taesong, cu atracții tradiționale.",
+                  "category": "recreational",
+                  "coords": [
+                        125.829352,
+                        39.075205
+                  ]
+            },
+            {
+                  "name": "Cheongunsan Mountain",
+                  "text": "Un vârf împădurit lângă Phenian, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        125.861051,
+                        39.122368
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Un complex de clădiri de tip palat situat în mijlocul unei zone de parc strict păzite.",
+                  "category": "castle",
+                  "coords": [
+                        125.877201,
+                        39.116215
+                  ]
+            },
+            {
+                  "name": "Animals Show",
+                  "text": "O zonă de spectacole din grădina zoologică unde animale dresate fac demonstrații.",
+                  "category": "landmark",
+                  "coords": [
+                        125.812841,
+                        39.074656
+                  ]
+            },
+            {
+                  "name": "Deer",
+                  "text": "Un țarc spațios în grădina zoologică pentru diverse specii de căprioare și ungulate.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818393,
+                        39.075729
+                  ]
+            },
+            {
+                  "name": "Penguin",
+                  "text": "O casă polară climatizată, cu bazine de apă pentru diverse specii de pinguini.",
+                  "category": "landmark",
+                  "coords": [
+                        125.81393,
+                        39.073452
+                  ]
+            },
+            {
+                  "name": "Reptile",
+                  "text": "Un terariu cu numeroase vitrine pentru șerpi, șopârle și broaște țestoase.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815776,
+                        39.073204
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Un țarc forestier securizat care oferă un habitat natural pentru tigrul siberian.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815421,
+                        39.074205
+                  ]
+            },
+            {
+                  "name": "Bear",
+                  "text": "Un țarc stâncos în aer liber pentru urși bruni și urși negri asiatici.",
+                  "category": "landmark",
+                  "coords": [
+                        125.814075,
+                        39.075222
+                  ]
+            },
+            {
+                  "name": "Antelope",
+                  "text": "O zonă de pășunat deschisă pentru diverse specii grațioase de antilope.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818782,
+                        39.076796
+                  ]
+            },
+            {
+                  "name": "Elephant",
+                  "text": "O zonă spațioasă cu un adăpost masiv pentru elefanții grăinii zoologice.",
+                  "category": "landmark",
+                  "coords": [
+                        125.817278,
+                        39.075651
+                  ]
+            },
+            {
+                  "name": "Wolf",
+                  "text": "Un habitat împădurit pentru haitele de lupi, care imită mediul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815963,
+                        39.07675
+                  ]
+            },
+            {
+                  "name": "Sheep & Goat",
+                  "text": "O secțiune care adăpostește animale domestice, precum capre și oi.",
+                  "category": "landmark",
+                  "coords": [
+                        125.817019,
+                        39.077317
+                  ]
+            },
+            {
+                  "name": "Rhinoceros",
+                  "text": "Un spațiu unde pot fi văzuți rinoceri în țarcuri exterioare.",
+                  "category": "landmark",
+                  "coords": [
+                        125.819523,
+                        39.077811
+                  ]
+            },
+            {
+                  "name": "Singing Birds",
+                  "text": "O volieră care găzduiește diverse specii de păsări cântătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        125.819999,
+                        39.076271
+                  ]
+            },
+            {
+                  "name": "Birds of prey",
+                  "text": "Un spațiu dedicat păsărilor răpitoare, precum vulturii și șoimii.",
+                  "category": "landmark",
+                  "coords": [
+                        125.820254,
+                        39.075229
+                  ]
+            },
+            {
+                  "name": "Parrot",
+                  "text": "O casă colorată care găzduiește specii tropicale de papagali.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818534,
+                        39.074311
+                  ]
+            },
+            {
+                  "name": "Waterfowl",
+                  "text": "O zonă cu iazuri pentru rațe, gâște și alte păsări de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        125.81715,
+                        39.074126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kwangbopsa",
+                  "text": "A reconstructed Buddhist temple from the Koguryo era at the foot of Mt. Taesong.",
+                  "category": "landmark",
+                  "coords": [
+                        125.826482,
+                        39.091631
+                  ]
+            },
+            {
+                  "name": "Taesongsan",
+                  "text": "A mountain featuring the remains of ancient fortress walls and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        125.842639,
+                        39.081821
+                  ]
+            },
+            {
+                  "name": "Central Zoo",
+                  "text": "Opened in 1959, the central zoo features a modern aquarium and various exotic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        125.816028,
+                        39.075128
+                  ]
+            },
+            {
+                  "name": "Taesongsan Funfair",
+                  "text": "An amusement park opened in 1977 at Mt. Taesong with traditional fairground rides.",
+                  "category": "recreational",
+                  "coords": [
+                        125.829352,
+                        39.075205
+                  ]
+            },
+            {
+                  "name": "Cheongunsan Mountain",
+                  "text": "A forested mountain peak near Pyongyang, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        125.861051,
+                        39.122368
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "A palace-like building complex situated amidst a strictly guarded park area.",
+                  "category": "castle",
+                  "coords": [
+                        125.877201,
+                        39.116215
+                  ]
+            },
+            {
+                  "name": "Animals Show",
+                  "text": "A performance area within the zoo where trained animals perform various tricks.",
+                  "category": "landmark",
+                  "coords": [
+                        125.812841,
+                        39.074656
+                  ]
+            },
+            {
+                  "name": "Deer",
+                  "text": "A spacious enclosure at the zoo for various deer species and hoofed animals.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818393,
+                        39.075729
+                  ]
+            },
+            {
+                  "name": "Penguin",
+                  "text": "A climate-controlled polar house featuring water pools for various penguin species.",
+                  "category": "landmark",
+                  "coords": [
+                        125.81393,
+                        39.073452
+                  ]
+            },
+            {
+                  "name": "Reptile",
+                  "text": "A terrarium housing numerous displays for snakes, lizards, and turtles.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815776,
+                        39.073204
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "A secured forested enclosure providing a natural habitat for the Siberian tiger.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815421,
+                        39.074205
+                  ]
+            },
+            {
+                  "name": "Bear",
+                  "text": "A rocky outdoor enclosure housing brown bears and Asian black bears.",
+                  "category": "landmark",
+                  "coords": [
+                        125.814075,
+                        39.075222
+                  ]
+            },
+            {
+                  "name": "Antelope",
+                  "text": "An open grazing area for various species of graceful antelopes.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818782,
+                        39.076796
+                  ]
+            },
+            {
+                  "name": "Elephant",
+                  "text": "A spacious area with a massive stable building for the zoo's elephants.",
+                  "category": "landmark",
+                  "coords": [
+                        125.817278,
+                        39.075651
+                  ]
+            },
+            {
+                  "name": "Wolf",
+                  "text": "A forested habitat for wolf packs, designed to mimic their natural environment.",
+                  "category": "landmark",
+                  "coords": [
+                        125.815963,
+                        39.07675
+                  ]
+            },
+            {
+                  "name": "Sheep & Goat",
+                  "text": "A livestock enclosure featuring various breeds of sheep and goats.",
+                  "category": "landmark",
+                  "coords": [
+                        125.817019,
+                        39.077317
+                  ]
+            },
+            {
+                  "name": "Rhinoceros",
+                  "text": "An exhibit featuring rhinoceroses in their outdoor enclosures.",
+                  "category": "landmark",
+                  "coords": [
+                        125.819523,
+                        39.077811
+                  ]
+            },
+            {
+                  "name": "Singing Birds",
+                  "text": "An aviary housing various species of melodic singing birds.",
+                  "category": "landmark",
+                  "coords": [
+                        125.819999,
+                        39.076271
+                  ]
+            },
+            {
+                  "name": "Birds of prey",
+                  "text": "An exhibit featuring birds of prey, including eagles and falcons.",
+                  "category": "landmark",
+                  "coords": [
+                        125.820254,
+                        39.075229
+                  ]
+            },
+            {
+                  "name": "Parrot",
+                  "text": "A colorful exhibit housing various species of tropical parrots.",
+                  "category": "landmark",
+                  "coords": [
+                        125.818534,
+                        39.074311
+                  ]
+            },
+            {
+                  "name": "Waterfowl",
+                  "text": "A pond area featuring ducks, geese, and other waterfowl.",
+                  "category": "landmark",
+                  "coords": [
+                        125.81715,
+                        39.074126
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KP-01",
     coords: [125.8200, 39.0750],
@@ -535,7 +1921,196 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     }
   },
   {
-    id: "northkorea-anhak-palace-ruins-history-v2",
+    id: "northkorea-anhak-palace-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ulji Pavilion",
+                  "text": "Die Überreste eines historischen Pavillons in der Nähe der ehemaligen Palastmauern.",
+                  "category": "historical",
+                  "coords": [
+                        125.850842,
+                        39.077989
+                  ]
+            },
+            {
+                  "name": "Somun Peak",
+                  "text": "Ein Berggipfel mit Blick auf das archäologische Gelände des Anhak-Palastes.",
+                  "category": "landmark",
+                  "coords": [
+                        125.837666,
+                        39.071825
+                  ]
+            },
+            {
+                  "name": "Koguryo Tombs on Mt. Kwangdae",
+                  "text": "Antike Grabhügel aus der Koguryo-Dynastie an den Hängen des Berges Kwangdae.",
+                  "category": "landmark",
+                  "coords": [
+                        125.9218,
+                        39.076821
+                  ]
+            },
+            {
+                  "name": "Anhak Royal Palace Site",
+                  "text": "Die Fundamente des massiven Königspalastes aus dem 5. Jahrhundert, der einst die Hauptstadt von Koguryo war.",
+                  "category": "landmark",
+                  "coords": [
+                        125.834112,
+                        39.061839
+                  ]
+            },
+            {
+                  "name": "Kuryong Pavilion",
+                  "text": "Ein rekonstruierter Pavillon innerhalb der historischen Stätte des Anhak-Palastes.",
+                  "category": "landmark",
+                  "coords": [
+                        125.844841,
+                        39.079774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulji Pavilion",
+                  "text": "Egy történelmi pavilon romjai az egykori palotafalak közelében.",
+                  "category": "historical",
+                  "coords": [
+                        125.850842,
+                        39.077989
+                  ]
+            },
+            {
+                  "name": "Somun Peak",
+                  "text": "Az Anhak-palota romjaira néző hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        125.837666,
+                        39.071825
+                  ]
+            },
+            {
+                  "name": "Koguryo Tombs on Mt. Kwangdae",
+                  "text": "Kogurjo-kori sírhalmok a Kwangdae-hegy lankáin.",
+                  "category": "landmark",
+                  "coords": [
+                        125.9218,
+                        39.076821
+                  ]
+            },
+            {
+                  "name": "Anhak Royal Palace Site",
+                  "text": "Az 5. századi királyi palota maradványai, amely egykor Kogurjo fővárosa volt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.834112,
+                        39.061839
+                  ]
+            },
+            {
+                  "name": "Kuryong Pavilion",
+                  "text": "Egy rekonstruált pavilon az Anhak-palota történelmi helyszínén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.844841,
+                        39.079774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulji Pavilion",
+                  "text": "Ruinele unui pavilion istoric situat lângă zidurile fostului palat.",
+                  "category": "historical",
+                  "coords": [
+                        125.850842,
+                        39.077989
+                  ]
+            },
+            {
+                  "name": "Somun Peak",
+                  "text": "Un vârf montan care oferă o panoramă asupra sitului arheologic al palatului Anhak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.837666,
+                        39.071825
+                  ]
+            },
+            {
+                  "name": "Koguryo Tombs on Mt. Kwangdae",
+                  "text": "Tumuli funerari antici din dinastia Koguryo pe versanții muntelui Kwangdae.",
+                  "category": "landmark",
+                  "coords": [
+                        125.9218,
+                        39.076821
+                  ]
+            },
+            {
+                  "name": "Anhak Royal Palace Site",
+                  "text": "Fundațiile masivului palat regal din secolul al V-lea, care a servit drept capitală a regatului Koguryo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.834112,
+                        39.061839
+                  ]
+            },
+            {
+                  "name": "Kuryong Pavilion",
+                  "text": "Un pavilion reconstituit în cadrul sitului istoric al palatului Anhak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.844841,
+                        39.079774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulji Pavilion",
+                  "text": "The remains of a historic pavilion located near the former palace walls.",
+                  "category": "historical",
+                  "coords": [
+                        125.850842,
+                        39.077989
+                  ]
+            },
+            {
+                  "name": "Somun Peak",
+                  "text": "A mountain peak overlooking the archaeological site of the Anhak Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        125.837666,
+                        39.071825
+                  ]
+            },
+            {
+                  "name": "Koguryo Tombs on Mt. Kwangdae",
+                  "text": "Ancient burial mounds from the Koguryo dynasty located on the slopes of Mt. Kwangdae.",
+                  "category": "landmark",
+                  "coords": [
+                        125.9218,
+                        39.076821
+                  ]
+            },
+            {
+                  "name": "Anhak Royal Palace Site",
+                  "text": "The massive foundations of the 5th-century royal palace that served as the capital of Koguryo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.834112,
+                        39.061839
+                  ]
+            },
+            {
+                  "name": "Kuryong Pavilion",
+                  "text": "A reconstructed pavilion situated within the historic Anhak Palace site.",
+                  "category": "landmark",
+                  "coords": [
+                        125.844841,
+                        39.079774
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KP-01",
     coords: [125.8286, 39.0658],
@@ -603,7 +2178,124 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "northkorea-taedong-gate-history-v2",
+    id: "northkorea-taedong-gate-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mansudae Fountain Park",
+                  "text": "Der Mansudae-Brunnenpark in Pjöngjang ist ein wunderschön angelegter städtischer Raum mit großen dekorativen Wasserspielen und komplizierten weißen Statuen.",
+                  "category": "park",
+                  "coords": [
+                        125.750193,
+                        39.023546
+                  ]
+            },
+            {
+                  "name": "Sungin Hall",
+                  "text": "Die Sungin-Halle ist eine antike architektonische Sehenswürdigkeit in Pjöngjang, die historisch Teil eines größeren Komplexes war, der traditionellen Zeremonien gewidmet war.",
+                  "category": "landmark",
+                  "coords": [
+                        125.751101,
+                        39.024752
+                  ]
+            },
+            {
+                  "name": "Paek Son Haeng Memorial Hall",
+                  "text": "Die Paek Son Haeng Gedenkhalle ist ein Museum, das historische Exponate in der Stadt aufbewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        125.756822,
+                        39.024326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mansudae Fountain Park",
+                  "text": "A phenjani Manszude Szökőkútpark egy gyönyörűen parkosított városi tér, amely nagy díszes vízi elemekkel és bonyolult fehér szobrokkal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        125.750193,
+                        39.023546
+                  ]
+            },
+            {
+                  "name": "Sungin Hall",
+                  "text": "A Szungin Csarnok egy ősi építészeti látványosság Phenjanban, amely történelmileg egy nagyobb, a hagyományos szertartásoknak szentelt komplexum része volt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.751101,
+                        39.024752
+                  ]
+            },
+            {
+                  "name": "Paek Son Haeng Memorial Hall",
+                  "text": "A Pek Szonhang Emlékcsarnok egy történelmi kiállításokat őrző múzeum a városban.",
+                  "category": "museum",
+                  "coords": [
+                        125.756822,
+                        39.024326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mansudae Fountain Park",
+                  "text": "Parcul Fântânilor Mansudae din Phenian este un spațiu urban frumos amenajat, având elemente acvatice ornamentale mari și statui albe complicate.",
+                  "category": "park",
+                  "coords": [
+                        125.750193,
+                        39.023546
+                  ]
+            },
+            {
+                  "name": "Sungin Hall",
+                  "text": "Sala Sungin este o veche atracție arhitecturală din Phenian, care istoric făcea parte dintr-un complex mai mare dedicat ceremoniilor tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        125.751101,
+                        39.024752
+                  ]
+            },
+            {
+                  "name": "Paek Son Haeng Memorial Hall",
+                  "text": "Sala Memorială Paek Son Haeng este un muzeu dedicat păstrării exponatelor istorice din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        125.756822,
+                        39.024326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mansudae Fountain Park",
+                  "text": "Mansudae Fountain Park in Pyongyang is a beautifully landscaped urban space featuring large ornamental water features and intricate white statues.",
+                  "category": "park",
+                  "coords": [
+                        125.750193,
+                        39.023546
+                  ]
+            },
+            {
+                  "name": "Sungin Hall",
+                  "text": "Sungin Hall is an ancient architectural attraction in Pyongyang, historically part of a larger complex dedicated to traditional ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        125.751101,
+                        39.024752
+                  ]
+            },
+            {
+                  "name": "Paek Son Haeng Memorial Hall",
+                  "text": "The Paek Son Haeng Memorial Hall is a dedicated museum facility preserving historical exhibits in the city.",
+                  "category": "museum",
+                  "coords": [
+                        125.756822,
+                        39.024326
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-01",
     coords: [125.7536, 39.0225],
@@ -671,7 +2363,124 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "northkorea-ryongwang-pavilion-history-v2",
+    id: "northkorea-ryongwang-pavilion-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ryongwang Pavilion",
+                  "text": "Ein malerischer historischer Pavillon direkt am Ufer des Taedong-Flusses.",
+                  "category": "historical",
+                  "coords": [
+                        125.75731,
+                        39.024352
+                  ]
+            },
+            {
+                  "name": "Koreanische Volkskundemuseum",
+                  "text": "Dieses Museum zeigt die traditionelle koreanische Lebensweise und Volksbräuche.",
+                  "category": "museum",
+                  "coords": [
+                        125.754881,
+                        39.021501
+                  ]
+            },
+            {
+                  "name": "Ryongwang Pavillion",
+                  "text": "Dieser Pavillon am Flussufer gilt als einer der acht schönsten Orte im Westen Koreas.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757385,
+                        39.023341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ryongwang Pavilion",
+                  "text": "Egy festői történelmi pavilon közvetlenül a Tedong-folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        125.75731,
+                        39.024352
+                  ]
+            },
+            {
+                  "name": "Folklore Museum of Korea",
+                  "text": "Ez a múzeum a hagyományos koreai életmódot és népi szokásokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.754881,
+                        39.021501
+                  ]
+            },
+            {
+                  "name": "Ryongwang Pavillion",
+                  "text": "Ez a folyóparti pavilon Nyugat-Korea nyolc legszebb helyének egyike.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757385,
+                        39.023341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ryongwang Pavilion",
+                  "text": "Un pavilion istoric pitoresc situat chiar pe malul râului Taedong.",
+                  "category": "historical",
+                  "coords": [
+                        125.75731,
+                        39.024352
+                  ]
+            },
+            {
+                  "name": "Folklore Museum of Korea",
+                  "text": "Acest muzeu expune modul de viață tradițional coreean și obiceiurile populare.",
+                  "category": "museum",
+                  "coords": [
+                        125.754881,
+                        39.021501
+                  ]
+            },
+            {
+                  "name": "Ryongwang Pavillion",
+                  "text": "Acest pavilion de pe malul râului este considerat unul dintre cele mai frumoase opt locuri din vestul Coreei.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757385,
+                        39.023341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ryongwang Pavilion",
+                  "text": "A picturesque historic pavilion situated right on the banks of the Taedong River.",
+                  "category": "historical",
+                  "coords": [
+                        125.75731,
+                        39.024352
+                  ]
+            },
+            {
+                  "name": "Folklore Museum of Korea",
+                  "text": "This museum showcases the traditional Korean way of life and folk customs.",
+                  "category": "museum",
+                  "coords": [
+                        125.754881,
+                        39.021501
+                  ]
+            },
+            {
+                  "name": "Ryongwang Pavillion",
+                  "text": "This riverside pavilion is considered one of the eight scenic wonders of western Korea.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757385,
+                        39.023341
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-01",
     coords: [125.7539, 39.0222],
@@ -739,7 +2548,160 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "northkorea-ulmil-pavilion-history-v2",
+    id: "northkorea-ulmil-pavilion-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Youth Park Open-air Theatre",
+                  "text": "Ein Freilufttheater in einer Parkanlage, das Platz für große kulturelle Veranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        125.757359,
+                        39.033461
+                  ]
+            },
+            {
+                  "name": "Monument of the Great Comrades Kim Il-sung and Kim Jong-il",
+                  "text": "Das Wahrzeichen besteht aus den zwei riesigen Bronzestatuen von Kim Il-sung und Kim Jong-il.",
+                  "category": "historical",
+                  "coords": [
+                        125.752959,
+                        39.032151
+                  ]
+            },
+            {
+                  "name": "Liberation Tower",
+                  "text": "Dieses 1947 errichtete Denkmal erinnert an die sowjetischen Soldaten des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        125.758816,
+                        39.035106
+                  ]
+            },
+            {
+                  "name": "Moranbong Theatre",
+                  "text": "Dieses historische Theater aus dem Jahr 1946 befindet sich am Fuße des Moran-Hügels.",
+                  "category": "cultural",
+                  "coords": [
+                        125.755076,
+                        39.035746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Youth Park Open-air Theatre",
+                  "text": "Egy parkban található szabadtéri színpad, amely nagy kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        125.757359,
+                        39.033461
+                  ]
+            },
+            {
+                  "name": "Monument of the Great Comrades Kim Il-sung and Kim Jong-il",
+                  "text": "A nevezetesség Kim Ir Szen és Kim Dzsong Il két hatalmas bronzszobrából áll.",
+                  "category": "historical",
+                  "coords": [
+                        125.752959,
+                        39.032151
+                  ]
+            },
+            {
+                  "name": "Liberation Tower",
+                  "text": "Ez az 1947-ben emelt emlékmű a második világháború szovjet katonáinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        125.758816,
+                        39.035106
+                  ]
+            },
+            {
+                  "name": "Moranbong Theatre",
+                  "text": "Ez az 1946-ban épült történelmi színház a Moran-domb lábánál található.",
+                  "category": "cultural",
+                  "coords": [
+                        125.755076,
+                        39.035746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Youth Park Open-air Theatre",
+                  "text": "Un teatru în aer liber situat într-un parc, care găzduiește evenimente culturale mari.",
+                  "category": "cultural",
+                  "coords": [
+                        125.757359,
+                        39.033461
+                  ]
+            },
+            {
+                  "name": "Monument of the Great Comrades Kim Il-sung and Kim Jong-il",
+                  "text": "Monumentul emblematic constă în cele două statui uriașe de bronz ale lui Kim Ir-sen și Kim Jong-il.",
+                  "category": "historical",
+                  "coords": [
+                        125.752959,
+                        39.032151
+                  ]
+            },
+            {
+                  "name": "Liberation Tower",
+                  "text": "Acest monument ridicat în 1947 comemorează soldații sovietici din al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        125.758816,
+                        39.035106
+                  ]
+            },
+            {
+                  "name": "Moranbong Theatre",
+                  "text": "Acest teatru istoric din 1946 se află la poalele dealului Moran.",
+                  "category": "cultural",
+                  "coords": [
+                        125.755076,
+                        39.035746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Youth Park Open-air Theatre",
+                  "text": "An open-air theatre located in a park setting, hosting large-scale cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        125.757359,
+                        39.033461
+                  ]
+            },
+            {
+                  "name": "Monument of the Great Comrades Kim Il-sung and Kim Jong-il",
+                  "text": "The iconic landmark consists of the two giant bronze statues of Kim Il-sung and Kim Jong-il.",
+                  "category": "historical",
+                  "coords": [
+                        125.752959,
+                        39.032151
+                  ]
+            },
+            {
+                  "name": "Liberation Tower",
+                  "text": "Erected in 1947, this monument commemorates the Soviet soldiers of World War II.",
+                  "category": "historical",
+                  "coords": [
+                        125.758816,
+                        39.035106
+                  ]
+            },
+            {
+                  "name": "Moranbong Theatre",
+                  "text": "This historic theatre from 1946 is located at the foot of Moran Hill.",
+                  "category": "cultural",
+                  "coords": [
+                        125.755076,
+                        39.035746
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-01",
     coords: [125.7553, 39.0347],
@@ -807,7 +2769,88 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     },
   },
   {
-    id: "northkorea-chilsong-gate-history-v2",
+    id: "northkorea-chilsong-gate-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mansu Hill",
+                  "text": "Dieser Hügel ist als Standort der gewaltigen Bronzestatuen der nordkoreanischen Führer bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        125.751591,
+                        39.032002
+                  ]
+            },
+            {
+                  "name": "Samjiyeon Theater",
+                  "text": "Ein modernes Theatergebäude, das für Musik- und Bühnenaufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        125.746158,
+                        39.038583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mansu Hill",
+                  "text": "Ez a domb az észak-koreai vezetők hatalmas bronzszobrainak helyszíneként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        125.751591,
+                        39.032002
+                  ]
+            },
+            {
+                  "name": "Samjiyeon Theater",
+                  "text": "Modern színházépület, amelyet zenei és színpadi előadásokhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.746158,
+                        39.038583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mansu Hill",
+                  "text": "Acest deal este cunoscut ca fiind locul unde se află imensele statui de bronz ale liderilor nord-coreeni.",
+                  "category": "natural",
+                  "coords": [
+                        125.751591,
+                        39.032002
+                  ]
+            },
+            {
+                  "name": "Samjiyeon Theater",
+                  "text": "O clădire de teatru modernă, utilizată pentru spectacole muzicale și scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        125.746158,
+                        39.038583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mansu Hill",
+                  "text": "This hill is famous as the site of the massive bronze statues of the North Korean leaders.",
+                  "category": "natural",
+                  "coords": [
+                        125.751591,
+                        39.032002
+                  ]
+            },
+            {
+                  "name": "Samjiyeon Theater",
+                  "text": "A modern theatre building used for musical and stage performances near the city center.",
+                  "category": "cultural",
+                  "coords": [
+                        125.746158,
+                        39.038583
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-01",
     coords: [125.7511, 39.0353],
@@ -931,7 +2974,124 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     }
   },
   {
-    id: "northkorea-sungyang-seowon-history-v2",
+    id: "northkorea-sungyang-seowon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Namdaemun",
+                  "text": "Namdaemun in Kaesong ist ein historisches Steintor mit einem Holzpavillon, das einst als südlicher Eingang zur ummauerten Stadt diente.",
+                  "category": "historical",
+                  "coords": [
+                        126.55646,
+                        37.971914
+                  ]
+            },
+            {
+                  "name": "Sungyang Seowon",
+                  "text": "Sungyang Seowon ist eine alte konfuzianische Akademie in Kaesong, die sich durch traditionelle Holzarchitektur auszeichnet, die wissenschaftlichen Bestrebungen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        126.560921,
+                        37.974968
+                  ]
+            },
+            {
+                  "name": "Revolutionary Museum for the History of Kaesong",
+                  "text": "Dieses Museum in Kaesong beherbergt Exponate und Artefakte, die der lokalen revolutionären Geschichte und der politischen Vergangenheit der Region gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        126.559266,
+                        37.975953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namdaemun",
+                  "text": "A keszongi Namdemun egy történelmi kőkapu fapavilonnal, amely egykor a fallal körülvett város déli bejárataként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        126.55646,
+                        37.971914
+                  ]
+            },
+            {
+                  "name": "Sungyang Seowon",
+                  "text": "A Szungjang Szovon egy ősi konfuciánus akadémia Keszongban, amely a tudományos törekvéseknek szentelt hagyományos faépítészettel büszkélkedhet.",
+                  "category": "historical",
+                  "coords": [
+                        126.560921,
+                        37.974968
+                  ]
+            },
+            {
+                  "name": "Revolutionary Museum for the History of Kaesong",
+                  "text": "Ez a keszongi múzeum a helyi forradalmi történelemnek és a régió politikai múltjának szentelt kiállításoknak és leleteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        126.559266,
+                        37.975953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Namdaemun",
+                  "text": "Namdaemun din Kaesong este o poartă istorică din piatră, cu un pavilion din lemn, care servea cândva drept intrare sudică în orașul fortificat.",
+                  "category": "historical",
+                  "coords": [
+                        126.55646,
+                        37.971914
+                  ]
+            },
+            {
+                  "name": "Sungyang Seowon",
+                  "text": "Sungyang Seowon este o veche academie confuciană din Kaesong, având o arhitectură tradițională din lemn dedicată activităților academice.",
+                  "category": "historical",
+                  "coords": [
+                        126.560921,
+                        37.974968
+                  ]
+            },
+            {
+                  "name": "Revolutionary Museum for the History of Kaesong",
+                  "text": "Acest muzeu din Kaesong găzduiește expoziții și artefacte dedicate istoriei revoluționare locale și trecutului politic al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        126.559266,
+                        37.975953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Namdaemun",
+                  "text": "Namdaemun in Kaesong is a historic stone gate with a wooden pavilion that once served as the southern entrance to the walled city.",
+                  "category": "historical",
+                  "coords": [
+                        126.55646,
+                        37.971914
+                  ]
+            },
+            {
+                  "name": "Sungyang Seowon",
+                  "text": "Sungyang Seowon is an ancient Confucian academy in Kaesong, featuring traditional wooden architecture dedicated to scholarly pursuits.",
+                  "category": "historical",
+                  "coords": [
+                        126.560921,
+                        37.974968
+                  ]
+            },
+            {
+                  "name": "Revolutionary Museum for the History of Kaesong",
+                  "text": "This museum in Kaesong houses exhibits and artifacts dedicated to the local revolutionary history and the region's political past.",
+                  "category": "museum",
+                  "coords": [
+                        126.559266,
+                        37.975953
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KP-06",
     coords: [126.5622, 37.9733],
@@ -999,7 +3159,124 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     }
   },
   {
-    id: "northkorea-manwoldae-ruins-history-v2",
+    id: "northkorea-manwoldae-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaesong Chomsongdae",
+                  "text": "Kaesong Chomsongdae ist eine alte astronomische Observatoriumsplattform aus Stein, die frühe astronomische Praktiken in der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        126.539708,
+                        37.986809
+                  ]
+            },
+            {
+                  "name": "Manwoldae Palace",
+                  "text": "Die Ruinen des Manwoldae-Palastes in Kaesong bewahren die Steinfundamente der ehemaligen königlichen Residenz der Goryeo-Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        126.542606,
+                        37.986
+                  ]
+            },
+            {
+                  "name": "Anhwa Temple",
+                  "text": "Der Anhwa-Tempel in Kaesong ist eine historische buddhistische Stätte, die für ihre traditionelle Architektur und ruhigen Gebetshallen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        126.549903,
+                        38.00241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaesong Chomsongdae",
+                  "text": "A Keszong Cshomszongde egy ősi csillagászati kőobszervatórium, amely a régió korai csillagászati gyakorlatát tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        126.539708,
+                        37.986809
+                  ]
+            },
+            {
+                  "name": "Manwoldae Palace",
+                  "text": "A keszongi Manvolde palota romjai a korábbi Korjo-dinasztia királyi rezidenciájának kőalapjait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        126.542606,
+                        37.986
+                  ]
+            },
+            {
+                  "name": "Anhwa Temple",
+                  "text": "A keszongi Anhva templom egy történelmi buddhista helyszín, amely hagyományos építészetéről és békés imatermeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        126.549903,
+                        38.00241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaesong Chomsongdae",
+                  "text": "Kaesong Chomsongdae este o veche platformă astronomică din piatră, reflectând practicile astronomice timpurii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        126.539708,
+                        37.986809
+                  ]
+            },
+            {
+                  "name": "Manwoldae Palace",
+                  "text": "Ruinele Palatului Manwoldae din Kaesong păstrează fundațiile din piatră ale fostei reședințe regale a dinastiei Goryeo.",
+                  "category": "historical",
+                  "coords": [
+                        126.542606,
+                        37.986
+                  ]
+            },
+            {
+                  "name": "Anhwa Temple",
+                  "text": "Templul Anhwa din Kaesong este un sit budist istoric cunoscut pentru arhitectura sa tradițională și sălile de rugăciune liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        126.549903,
+                        38.00241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaesong Chomsongdae",
+                  "text": "Kaesong Chomsongdae is an ancient stone astronomical observatory platform reflecting early astronomical practices in the region.",
+                  "category": "historical",
+                  "coords": [
+                        126.539708,
+                        37.986809
+                  ]
+            },
+            {
+                  "name": "Manwoldae Palace",
+                  "text": "The ruins of Manwoldae Palace in Kaesong preserve the stone foundations of the former Goryeo dynasty royal residence.",
+                  "category": "historical",
+                  "coords": [
+                        126.542606,
+                        37.986
+                  ]
+            },
+            {
+                  "name": "Anhwa Temple",
+                  "text": "Anhwa Temple in Kaesong is a historic Buddhist site known for its traditional architecture and serene prayer halls.",
+                  "category": "landmark",
+                  "coords": [
+                        126.549903,
+                        38.00241
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KP-06",
     coords: [126.5458, 37.9856],
@@ -1067,7 +3344,232 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     }
   },
   {
-    id: "northkorea-pyohun-temple-history-v2",
+    id: "northkorea-pyohun-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Obong",
+                  "text": "Ein malerischer Gipfel im inneren Kumgang-Gebiet, umgeben von dichten Wäldern und klaren Bächen.",
+                  "category": "natural",
+                  "coords": [
+                        128.106592,
+                        38.720975
+                  ]
+            },
+            {
+                  "name": "Site of Changan Temple",
+                  "text": "Der Standort des zerstörten Changan-Tempels, der einst einer der vier größten Tempel Koreas war.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067182,
+                        38.613232
+                  ]
+            },
+            {
+                  "name": "Pyohun Temple",
+                  "text": "Dieser Zen-Tempel aus dem 7. Jahrhundert ist einer der wenigen, die die Zerstörungen des Koreakriegs überstanden haben.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067606,
+                        38.630373
+                  ]
+            },
+            {
+                  "name": "Stupas of Paekhwa Hermitage",
+                  "text": "Eine Sammlung steinerner Stupas, die als Grabmäler für buddhistische Mönche in der Nähe der Paekhwa-Einsiedelei dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067772,
+                        38.628914
+                  ]
+            },
+            {
+                  "name": "Chongyang Temple",
+                  "text": "Ein alter buddhistischer Tempel, der für seine Architektur aus der Goryeo-Zeit und den Blick auf den Mount Kumgang bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        128.062817,
+                        38.632128
+                  ]
+            },
+            {
+                  "name": "Podok Hermitage",
+                  "text": "Diese außergewöhnliche Einsiedelei thront auf einer einzelnen Kupfersäule direkt an einer senkrechten Felswand.",
+                  "category": "landmark",
+                  "coords": [
+                        128.08088,
+                        38.635677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Obong",
+                  "text": "Egy festői csúcs a Belső-Kumgang területén, sűrű erdőkkel és tiszta patakokkal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        128.106592,
+                        38.720975
+                  ]
+            },
+            {
+                  "name": "Site of Changan Temple",
+                  "text": "Az elpusztult Csangan-templom helyszíne, amely egykor Korea négy legnagyobb templomának egyike volt.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067182,
+                        38.613232
+                  ]
+            },
+            {
+                  "name": "Pyohun Temple",
+                  "text": "Ez a 7. századi zen templom egyike azon keveseknek, amelyek túlélték a koreai háború pusztításait.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067606,
+                        38.630373
+                  ]
+            },
+            {
+                  "name": "Stupas of Paekhwa Hermitage",
+                  "text": "Kőstúpák gyűjteménye, amelyek buddhista szerzetesek síremlékeként szolgálnak a Paekhwa-remetelak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067772,
+                        38.628914
+                  ]
+            },
+            {
+                  "name": "Chongyang Temple",
+                  "text": "Egy ősi buddhista templom, amely a Korjo-korszak építészetéről és a Kumgang-hegyre nyíló kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        128.062817,
+                        38.632128
+                  ]
+            },
+            {
+                  "name": "Podok Hermitage",
+                  "text": "Ez a rendkívüli remetelak egyetlen rézoszlopon nyugszik közvetlenül egy függőleges sziklafalon.",
+                  "category": "landmark",
+                  "coords": [
+                        128.08088,
+                        38.635677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Obong",
+                  "text": "Un vârf pitoresc în zona Kumgang Interioară, înconjurat de păduri dese și pâraie limpezi.",
+                  "category": "natural",
+                  "coords": [
+                        128.106592,
+                        38.720975
+                  ]
+            },
+            {
+                  "name": "Site of Changan Temple",
+                  "text": "Locul templului distrus Changan, care a fost odinioară unul dintre cele mai mari patru temple din Coreea.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067182,
+                        38.613232
+                  ]
+            },
+            {
+                  "name": "Pyohun Temple",
+                  "text": "Acest templu Zen din secolul al VII-lea este unul dintre puținele care au supraviețuit distrugerilor din timpul războiului din Coreea.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067606,
+                        38.630373
+                  ]
+            },
+            {
+                  "name": "Stupas of Paekhwa Hermitage",
+                  "text": "O colecție de stupe de piatră care servesc drept monumente funerare pentru călugării budiști de lângă schitul Paekhwa.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067772,
+                        38.628914
+                  ]
+            },
+            {
+                  "name": "Chongyang Temple",
+                  "text": "Un vechi templu budist cunoscut pentru arhitectura sa din perioada Goryeo și pentru vederea spre Muntele Kumgang.",
+                  "category": "landmark",
+                  "coords": [
+                        128.062817,
+                        38.632128
+                  ]
+            },
+            {
+                  "name": "Podok Hermitage",
+                  "text": "Acest schit extraordinar este cocoțat pe un singur stâlp de cupru direct pe un perete stâncos vertical.",
+                  "category": "landmark",
+                  "coords": [
+                        128.08088,
+                        38.635677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Obong",
+                  "text": "A scenic peak in the Inner Kumgang area, surrounded by dense forests and clear streams.",
+                  "category": "natural",
+                  "coords": [
+                        128.106592,
+                        38.720975
+                  ]
+            },
+            {
+                  "name": "Site of Changan Temple",
+                  "text": "The site of the destroyed Changan Temple, which was once one of the four largest temples in Korea.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067182,
+                        38.613232
+                  ]
+            },
+            {
+                  "name": "Pyohun Temple",
+                  "text": "This 7th-century Zen temple is one of the few that survived the destruction of the Korean War.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067606,
+                        38.630373
+                  ]
+            },
+            {
+                  "name": "Stupas of Paekhwa Hermitage",
+                  "text": "A collection of stone stupas serving as funerary monuments for Buddhist monks near the Paekhwa Hermitage.",
+                  "category": "landmark",
+                  "coords": [
+                        128.067772,
+                        38.628914
+                  ]
+            },
+            {
+                  "name": "Chongyang Temple",
+                  "text": "An ancient Buddhist temple known for its Goryeo-era architecture and views of Mount Kumgang.",
+                  "category": "landmark",
+                  "coords": [
+                        128.062817,
+                        38.632128
+                  ]
+            },
+            {
+                  "name": "Podok Hermitage",
+                  "text": "This extraordinary hermitage is perched on a single copper pillar directly against a vertical cliff face.",
+                  "category": "landmark",
+                  "coords": [
+                        128.08088,
+                        38.635677
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KP-07",
     coords: [128.0500, 38.6500],
@@ -1203,7 +3705,88 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     }
   },
   {
-    id: "northkorea-hwangryong-fortress-history-v2",
+    id: "northkorea-hwangryong-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Eine befestigte Residenzanlage, die für hochrangige politische Führer entworfen wurde.",
+                  "category": "castle",
+                  "coords": [
+                        125.321552,
+                        38.777757
+                  ]
+            },
+            {
+                  "name": "Nampo Market",
+                  "text": "Ein belebter lokaler Markt, auf dem Händler frische Produkte und Waren des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        125.396505,
+                        38.733988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Magas rangú politikai vezetők számára tervezett megerősített lakókomplexum.",
+                  "category": "castle",
+                  "coords": [
+                        125.321552,
+                        38.777757
+                  ]
+            },
+            {
+                  "name": "Nampo Market",
+                  "text": "Nyüzsgő helyi piac, ahol az árusok friss termékeket és napi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        125.396505,
+                        38.733988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Un complex rezidențial fortificat conceput pentru conducerea politică de rang înalt.",
+                  "category": "castle",
+                  "coords": [
+                        125.321552,
+                        38.777757
+                  ]
+            },
+            {
+                  "name": "Nampo Market",
+                  "text": "O piață locală plină de viață unde vânzătorii comercializează produse proaspete și bunuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        125.396505,
+                        38.733988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Residence of Leadership",
+                  "text": "A fortified residential complex designed for high-ranking political leadership.",
+                  "category": "castle",
+                  "coords": [
+                        125.321552,
+                        38.777757
+                  ]
+            },
+            {
+                  "name": "Nampo Market",
+                  "text": "A bustling local market area where vendors trade fresh produce and daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.396505,
+                        38.733988
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "KP-14",
     coords: [125.4000, 38.7333],
@@ -1271,7 +3854,196 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     }
   },
   {
-    id: "northkorea-anguk-temple-history-v2",
+    id: "northkorea-anguk-temple-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eternal Life Tower",
+                  "text": "Ein hoher weißer Obelisk in Pyongsong, der dem Andenken an die Staatsgründer Nordkoreas gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        125.870834,
+                        39.244262
+                  ]
+            },
+            {
+                  "name": "Pyeongseong Youth Outdoor Theatre",
+                  "text": "Eine große Freilichtbühne in Pyongsong für kulturelle Jugendveranstaltungen und Massenaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.873961,
+                        39.249129
+                  ]
+            },
+            {
+                  "name": "Pyongannam-do Revolutionary History Museum",
+                  "text": "Ein Regionalmuseum in Pyongsong, das die revolutionäre Bewegung in der Provinz Süd-Pyongan dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        125.849538,
+                        39.25104
+                  ]
+            },
+            {
+                  "name": "Anguk Temple",
+                  "text": "Eine historische Tempelanlage aus der Goryeo-Zeit mit einer beeindruckenden, zweistöckigen Haupthalle.",
+                  "category": "landmark",
+                  "coords": [
+                        125.826568,
+                        39.301023
+                  ]
+            },
+            {
+                  "name": "Okjeon Market",
+                  "text": "Ein lebhafter Marktplatz in Pyongsong, bekannt für den Handel mit regionalen Lebensmitteln und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        125.873781,
+                        39.254271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eternal Life Tower",
+                  "text": "Magas fehér obeliszk Phjongszongban, amelyet Észak-Korea államalapítóinak emlékére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        125.870834,
+                        39.244262
+                  ]
+            },
+            {
+                  "name": "Pyeongseong Youth Outdoor Theatre",
+                  "text": "Hatalmas szabadtéri színpad Phjongszongban kulturális ifjúsági események és tömegrendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        125.873961,
+                        39.249129
+                  ]
+            },
+            {
+                  "name": "Pyongannam-do Revolutionary History Museum",
+                  "text": "Phjongszong regionális múzeuma, amely a Dél-Phjongan tartomány forradalmi mozgalmait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.849538,
+                        39.25104
+                  ]
+            },
+            {
+                  "name": "Anguk Temple",
+                  "text": "Történelmi buddhista templom a Goryeo-korból, figyelemre méltó kétszintes főcsarnokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        125.826568,
+                        39.301023
+                  ]
+            },
+            {
+                  "name": "Okjeon Market",
+                  "text": "Phjongszong forgalmas piactere, amely a helyi élelmiszerek és áruk kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        125.873781,
+                        39.254271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eternal Life Tower",
+                  "text": "Un obelisc alb înalt din Pyongsong, dedicat memoriei fondatorilor statului nord-coreean.",
+                  "category": "historical",
+                  "coords": [
+                        125.870834,
+                        39.244262
+                  ]
+            },
+            {
+                  "name": "Pyeongseong Youth Outdoor Theatre",
+                  "text": "O scenă în aer liber de mari dimensiuni în Pyongsong, folosită pentru evenimente culturale de tineret și spectacole de masă.",
+                  "category": "cultural",
+                  "coords": [
+                        125.873961,
+                        39.249129
+                  ]
+            },
+            {
+                  "name": "Pyongannam-do Revolutionary History Museum",
+                  "text": "Un muzeu regional din Pyongsong care documentează mișcările revoluționare din provincia Pyongan de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        125.849538,
+                        39.25104
+                  ]
+            },
+            {
+                  "name": "Anguk Temple",
+                  "text": "Un complex monahal istoric din epoca Goryeo, cu o sală principală impresionantă cu două etaje.",
+                  "category": "landmark",
+                  "coords": [
+                        125.826568,
+                        39.301023
+                  ]
+            },
+            {
+                  "name": "Okjeon Market",
+                  "text": "O piață plină de viață în Pyongsong, cunoscută pentru comerțul cu alimente și produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.873781,
+                        39.254271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eternal Life Tower",
+                  "text": "A tall white obelisk in Pyongsong dedicated to the memory of North Korea's founding leaders.",
+                  "category": "historical",
+                  "coords": [
+                        125.870834,
+                        39.244262
+                  ]
+            },
+            {
+                  "name": "Pyeongseong Youth Outdoor Theatre",
+                  "text": "A large open-air stage in Pyongsong for youth cultural events and mass performances.",
+                  "category": "cultural",
+                  "coords": [
+                        125.873961,
+                        39.249129
+                  ]
+            },
+            {
+                  "name": "Pyongannam-do Revolutionary History Museum",
+                  "text": "A regional museum in Pyongsong documenting the revolutionary movement in South Pyongan Province.",
+                  "category": "museum",
+                  "coords": [
+                        125.849538,
+                        39.25104
+                  ]
+            },
+            {
+                  "name": "Anguk Temple",
+                  "text": "A historic temple complex from the Goryeo era featuring an impressive two-story main hall.",
+                  "category": "landmark",
+                  "coords": [
+                        125.826568,
+                        39.301023
+                  ]
+            },
+            {
+                  "name": "Okjeon Market",
+                  "text": "A bustling marketplace in Pyongsong known for trading local foodstuffs and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.873781,
+                        39.254271
+                  ]
+            }
+      ]
+},
     type: "historical-site",
     parent: "KP-02",
     coords: [125.8500, 39.2500],

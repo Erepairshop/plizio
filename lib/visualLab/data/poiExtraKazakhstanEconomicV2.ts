@@ -111,7 +111,772 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-aktau-economic-v2",
+    id: "port-of-aktau-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skal'naia tropa",
+                  "text": "Ein malerischer Wanderweg, der in die Kalksteinfelsen entlang der Küste des Kaspischen Meeres gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        51.166525,
+                        43.626124
+                  ]
+            },
+            {
+                  "name": "Obelisk pogranichnikam Kazakhstana",
+                  "text": "Ein hoher Obelisk, der den Grenzschützern Kasachstans gewidmet ist, direkt an der Küste von Aktau.",
+                  "category": "historical",
+                  "coords": [
+                        51.172308,
+                        43.63448
+                  ]
+            },
+            {
+                  "name": "'I LOVE AKTAU'",
+                  "text": "Ein beliebter Fotopunkt mit einem großen Schriftzug an der Strandpromenade von Aktau.",
+                  "category": "historical",
+                  "coords": [
+                        51.14649,
+                        43.645907
+                  ]
+            },
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Dieses Regionalmuseum zeigt archäologische Funde und Exponate zur Geschichte der Halbinsel Mangischlak.",
+                  "category": "museum",
+                  "coords": [
+                        51.154307,
+                        43.64929
+                  ]
+            },
+            {
+                  "name": "Yntymak",
+                  "text": "Ein Denkmal auf dem zentralen Platz von Aktau, das Einigkeit und Frieden symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        51.149761,
+                        43.654379
+                  ]
+            },
+            {
+                  "name": "Rear Dir Front Port Aktau",
+                  "text": "Ein einzigartiger Leuchtturm, der direkt auf dem Dach eines Wohnhauses errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        51.218731,
+                        43.604784
+                  ]
+            },
+            {
+                  "name": "Ak'tau k'alasyndag'y Oskinbaev atyndag'y filarmoniia",
+                  "text": "Ein kulturelles Zentrum in Aktau, in dem Konzerte klassischer und traditioneller Musik stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        51.157726,
+                        43.636444
+                  ]
+            },
+            {
+                  "name": "Muzykal'no-dramaticheskii teatr im.Nurmukhana Zhanturina",
+                  "text": "Das bedeutendste Theater der Stadt, benannt nach dem berühmten kasachischen Schauspieler Nurmuchan Schanturin.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158151,
+                        43.647718
+                  ]
+            },
+            {
+                  "name": "Man'g'ystau T@zhiribelik Botanika Bag'y",
+                  "text": "Ein spezialisierter Garten, der Pflanzenarten zeigt, die an das Wüstenklima der Kaspischen Region angepasst sind.",
+                  "category": "park",
+                  "coords": [
+                        51.160739,
+                        43.650781
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "Ein massiver Flaggenmast an der Küste von Aktau, der die Nationalflagge weithin sichtbar trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.147972,
+                        43.656153
+                  ]
+            },
+            {
+                  "name": "Manila",
+                  "text": "Ein Sandstrand am Kaspischen Meer, der im Sommer ein beliebter Ort zum Schwimmen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        51.189793,
+                        43.627636
+                  ]
+            },
+            {
+                  "name": "Nu'rplaza",
+                  "text": "Ein gut besuchter Strandabschnitt mit sandigem Ufer am Rande des Kaspischen Meeres.",
+                  "category": "recreational",
+                  "coords": [
+                        51.194195,
+                        43.626046
+                  ]
+            },
+            {
+                  "name": "Dostar",
+                  "text": "Ein erschlossenes Strandresort am Kaspischen Meer mit Freizeitmöglichkeiten für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        51.211008,
+                        43.619372
+                  ]
+            },
+            {
+                  "name": "Beket-Ata",
+                  "text": "Eine Moschee und ein religiöses Zentrum, das dem berühmten Sufi-Heiligen Beket-Ata gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.145869,
+                        43.667853
+                  ]
+            },
+            {
+                  "name": "Beket-Ata Ortalyk' Meshit",
+                  "text": "Eine moderne Moschee in Aktau, die durch ihre weiße Fassade und zwei hohe Minarette auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.159521,
+                        43.660173
+                  ]
+            },
+            {
+                  "name": "Blagoveshchenskaia tserkov'",
+                  "text": "Diese russisch-orthodoxe Kirche in Aktau ist für ihre traditionellen blauen Kuppeln bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.174246,
+                        43.661615
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Ein lebhafter lokaler Basar in Aktau, auf dem frische Lebensmittel und zentralasiatische Textilien verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158376,
+                        43.640396
+                  ]
+            },
+            {
+                  "name": "RID-SK",
+                  "text": "Ein geschäftiger Marktplatz in Aktau, der als Zentrum für Haushaltswaren und lokalen Handel dient.",
+                  "category": "cultural",
+                  "coords": [
+                        51.168659,
+                        43.66563
+                  ]
+            },
+            {
+                  "name": "Asar-S",
+                  "text": "Ein typischer Basar in Aktau, auf dem Anwohner Kleidung und tägliche Lebensmittel einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        51.174906,
+                        43.655436
+                  ]
+            },
+            {
+                  "name": "RUSKAZ",
+                  "text": "Ein spezialisierter Marktplatz in Aktau, der für seine Vielfalt an regionalen Produkten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        51.168482,
+                        43.650878
+                  ]
+            },
+            {
+                  "name": "Asem",
+                  "text": "Ein beliebter Marktplatz in Aktau, der für seine authentischen Essensstände geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        51.169565,
+                        43.650958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skal'naia tropa",
+                  "text": "A Kaszpi-tenger menti mészkősziklákba vájt látványos tengerparti sétány.",
+                  "category": "landmark",
+                  "coords": [
+                        51.166525,
+                        43.626124
+                  ]
+            },
+            {
+                  "name": "Obelisk pogranichnikam Kazakhstana",
+                  "text": "Kazahsztán határőreinek szentelt magas obeliszk Aktau tengerpartján.",
+                  "category": "historical",
+                  "coords": [
+                        51.172308,
+                        43.63448
+                  ]
+            },
+            {
+                  "name": "'I LOVE AKTAU'",
+                  "text": "Népszerű fotóhelyszín nagy felirattal Aktau tengerparti sétányán.",
+                  "category": "historical",
+                  "coords": [
+                        51.14649,
+                        43.645907
+                  ]
+            },
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Regionális múzeum, amely a Mangistau-félsziget régészeti leleteit és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        51.154307,
+                        43.64929
+                  ]
+            },
+            {
+                  "name": "Yntymak",
+                  "text": "Emlékmű Aktau központi terén, amely az egységet és a békét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        51.149761,
+                        43.654379
+                  ]
+            },
+            {
+                  "name": "Rear Dir Front Port Aktau",
+                  "text": "Különleges világítótorony, amely egy lakóépület tetején kapott helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        51.218731,
+                        43.604784
+                  ]
+            },
+            {
+                  "name": "Ak'tau k'alasyndag'y Oskinbaev atyndag'y filarmoniia",
+                  "text": "Kulturális központ Aktauban, amely komolyzenei és népzenei koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        51.157726,
+                        43.636444
+                  ]
+            },
+            {
+                  "name": "Muzykal'no-dramaticheskii teatr im.Nurmukhana Zhanturina",
+                  "text": "A város legjelentősebb színháza, amely Nurmukhan Zhanturin kazah színész nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158151,
+                        43.647718
+                  ]
+            },
+            {
+                  "name": "Man'g'ystau T@zhiribelik Botanika Bag'y",
+                  "text": "Különleges botanikus kert, amely a kaszpi sivatagi éghajlathoz alkalmazkodott növényfajokat mutat be.",
+                  "category": "park",
+                  "coords": [
+                        51.160739,
+                        43.650781
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "Hatalmas zászlórúd Aktau partján, amelyen messziről látható a nemzeti lobogó.",
+                  "category": "landmark",
+                  "coords": [
+                        51.147972,
+                        43.656153
+                  ]
+            },
+            {
+                  "name": "Manila",
+                  "text": "Homokos tengerparti szakasz a Kaszpi-tengeren, népszerű nyári fürdőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        51.189793,
+                        43.627636
+                  ]
+            },
+            {
+                  "name": "Nu'rplaza",
+                  "text": "Népszerű, homokos partú strandrész a Kaszpi-tenger mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        51.194195,
+                        43.626046
+                  ]
+            },
+            {
+                  "name": "Dostar",
+                  "text": "Kiépített tengerparti üdülőhely a Kaszpi-tengernél, különféle kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        51.211008,
+                        43.619372
+                  ]
+            },
+            {
+                  "name": "Beket-Ata",
+                  "text": "A híres szúfi szentnek, Beket-Atának szentelt mecset és vallási központ.",
+                  "category": "landmark",
+                  "coords": [
+                        51.145869,
+                        43.667853
+                  ]
+            },
+            {
+                  "name": "Beket-Ata Ortalyk' Meshit",
+                  "text": "Modern mecset Aktauban, amely fehér homlokzatáról és két magas minaretjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        51.159521,
+                        43.660173
+                  ]
+            },
+            {
+                  "name": "Blagoveshchenskaia tserkov'",
+                  "text": "Hagyományos orosz ortodox templom Aktauban, jellegzetes kék kupolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        51.174246,
+                        43.661615
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Nyüzsgő helyi bazár Aktauban, ahol friss élelmiszereket és közép-ázsiai textileket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158376,
+                        43.640396
+                  ]
+            },
+            {
+                  "name": "RID-SK",
+                  "text": "Forgalmas piactér Aktauban, amely a háztartási cikkek és a helyi kereskedelem központja.",
+                  "category": "cultural",
+                  "coords": [
+                        51.168659,
+                        43.66563
+                  ]
+            },
+            {
+                  "name": "Asar-S",
+                  "text": "Tipikus bazár Aktauban, ahol a helyiek ruházati cikkeket és napi élelmiszereket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        51.174906,
+                        43.655436
+                  ]
+            },
+            {
+                  "name": "RUSKAZ",
+                  "text": "Speciális piactér Aktauban, amely a regionális termékek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        51.168482,
+                        43.650878
+                  ]
+            },
+            {
+                  "name": "Asem",
+                  "text": "Népszerű piactér Aktauban, amelyet autentikus ételstandjai miatt látogatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        51.169565,
+                        43.650958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skal'naia tropa",
+                  "text": "O potecă pitorească săpată în stâncile de calcar de-a lungul coastei Mării Caspice.",
+                  "category": "landmark",
+                  "coords": [
+                        51.166525,
+                        43.626124
+                  ]
+            },
+            {
+                  "name": "Obelisk pogranichnikam Kazakhstana",
+                  "text": "Un obelisc înalt dedicat grănicerilor din Kazahstan, situat pe coasta din Aktau.",
+                  "category": "historical",
+                  "coords": [
+                        51.172308,
+                        43.63448
+                  ]
+            },
+            {
+                  "name": "'I LOVE AKTAU'",
+                  "text": "Un punct popular pentru fotografii, cu un semn mare situat pe faleza din Aktau.",
+                  "category": "historical",
+                  "coords": [
+                        51.14649,
+                        43.645907
+                  ]
+            },
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Muzeu regional care prezintă descoperiri arheologice și istoria peninsulei Mangystau.",
+                  "category": "museum",
+                  "coords": [
+                        51.154307,
+                        43.64929
+                  ]
+            },
+            {
+                  "name": "Yntymak",
+                  "text": "Un monument situat în piața centrală din Aktau, simbolizând unitatea și pacea.",
+                  "category": "historical",
+                  "coords": [
+                        51.149761,
+                        43.654379
+                  ]
+            },
+            {
+                  "name": "Rear Dir Front Port Aktau",
+                  "text": "Un far unic situat direct pe acoperișul unui bloc de locuințe.",
+                  "category": "landmark",
+                  "coords": [
+                        51.218731,
+                        43.604784
+                  ]
+            },
+            {
+                  "name": "Ak'tau k'alasyndag'y Oskinbaev atyndag'y filarmoniia",
+                  "text": "Un centru cultural din Aktau care găzduiește concerte de muzică clasică și tradițională.",
+                  "category": "cultural",
+                  "coords": [
+                        51.157726,
+                        43.636444
+                  ]
+            },
+            {
+                  "name": "Muzykal'no-dramaticheskii teatr im.Nurmukhana Zhanturina",
+                  "text": "Cel mai important teatru din oraș, numit după celebrul actor kazah Nurmukhan Zhanturin.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158151,
+                        43.647718
+                  ]
+            },
+            {
+                  "name": "Man'g'ystau T@zhiribelik Botanika Bag'y",
+                  "text": "O grădină specializată care prezintă specii de plante adaptate climatului de deșert al regiunii caspice.",
+                  "category": "park",
+                  "coords": [
+                        51.160739,
+                        43.650781
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "Un catarg masiv pe coasta din Aktau, care arborează drapelul național vizibil de la distanță.",
+                  "category": "landmark",
+                  "coords": [
+                        51.147972,
+                        43.656153
+                  ]
+            },
+            {
+                  "name": "Manila",
+                  "text": "O porțiune de plajă cu nisip la Marea Caspică, populară pentru înot în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        51.189793,
+                        43.627636
+                  ]
+            },
+            {
+                  "name": "Nu'rplaza",
+                  "text": "O zonă de plajă populară cu țărm nisipos la marginea Mării Caspice.",
+                  "category": "recreational",
+                  "coords": [
+                        51.194195,
+                        43.626046
+                  ]
+            },
+            {
+                  "name": "Dostar",
+                  "text": "O stațiune de plajă amenajată la Marea Caspică, oferind facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        51.211008,
+                        43.619372
+                  ]
+            },
+            {
+                  "name": "Beket-Ata",
+                  "text": "O moschee și centru religios dedicat celebrului sfânt sufit Beket-Ata.",
+                  "category": "landmark",
+                  "coords": [
+                        51.145869,
+                        43.667853
+                  ]
+            },
+            {
+                  "name": "Beket-Ata Ortalyk' Meshit",
+                  "text": "O moschee modernă din Aktau, remarcabilă prin fațada sa albă și cele două minarete înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        51.159521,
+                        43.660173
+                  ]
+            },
+            {
+                  "name": "Blagoveshchenskaia tserkov'",
+                  "text": "O biserică ortodoxă rusă din Aktau, cunoscută pentru cupolele sale albastre tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        51.174246,
+                        43.661615
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Un bazar local plin de viață în Aktau, unde se vând alimente proaspete și textile din Asia Centrală.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158376,
+                        43.640396
+                  ]
+            },
+            {
+                  "name": "RID-SK",
+                  "text": "O piață aglomerată din Aktau, care servește drept centru pentru articole de uz casnic și comerț local.",
+                  "category": "cultural",
+                  "coords": [
+                        51.168659,
+                        43.66563
+                  ]
+            },
+            {
+                  "name": "Asar-S",
+                  "text": "Un bazar tipic din Aktau, unde localnicii cumpără haine și alimente de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        51.174906,
+                        43.655436
+                  ]
+            },
+            {
+                  "name": "RUSKAZ",
+                  "text": "O piață specializată din Aktau, cunoscută pentru varietatea sa de produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        51.168482,
+                        43.650878
+                  ]
+            },
+            {
+                  "name": "Asem",
+                  "text": "O piață populară din Aktau, frecventată pentru tarabele sale cu mâncare autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        51.169565,
+                        43.650958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skal'naia tropa",
+                  "text": "A scenic walking trail carved into the limestone cliffs along the Caspian Sea coast.",
+                  "category": "landmark",
+                  "coords": [
+                        51.166525,
+                        43.626124
+                  ]
+            },
+            {
+                  "name": "Obelisk pogranichnikam Kazakhstana",
+                  "text": "A tall obelisk dedicated to the border guards of Kazakhstan on the Aktau coast.",
+                  "category": "historical",
+                  "coords": [
+                        51.172308,
+                        43.63448
+                  ]
+            },
+            {
+                  "name": "'I LOVE AKTAU'",
+                  "text": "A popular photo spot featuring a large 'I Love Aktau' sign on the city's waterfront.",
+                  "category": "historical",
+                  "coords": [
+                        51.14649,
+                        43.645907
+                  ]
+            },
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Regional museum displaying archaeological finds and the history of the Mangystau Peninsula.",
+                  "category": "museum",
+                  "coords": [
+                        51.154307,
+                        43.64929
+                  ]
+            },
+            {
+                  "name": "Yntymak",
+                  "text": "A monument in Aktau's central square symbolizing unity and peace.",
+                  "category": "historical",
+                  "coords": [
+                        51.149761,
+                        43.654379
+                  ]
+            },
+            {
+                  "name": "Rear Dir Front Port Aktau",
+                  "text": "A unique lighthouse located directly on the roof of a residential apartment building.",
+                  "category": "landmark",
+                  "coords": [
+                        51.218731,
+                        43.604784
+                  ]
+            },
+            {
+                  "name": "Oblast Philharmonic Concert Hall",
+                  "text": "A cultural venue in Aktau hosting classical and traditional music concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        51.157726,
+                        43.636444
+                  ]
+            },
+            {
+                  "name": "Muzykal'no-dramaticheskii teatr im.Nurmukhana Zhanturina",
+                  "text": "The city's prominent drama theatre, named after the famous Kazakh actor Nurmukhan Zhanturin.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158151,
+                        43.647718
+                  ]
+            },
+            {
+                  "name": "Man'g'ystau T@zhiribelik Botanika Bag'y",
+                  "text": "A specialized garden showcasing plant species adapted to the Caspian desert climate.",
+                  "category": "park",
+                  "coords": [
+                        51.160739,
+                        43.650781
+                  ]
+            },
+            {
+                  "name": "Flagshtok",
+                  "text": "A massive flagpole on the Aktau shore flying the national flag visible from afar.",
+                  "category": "landmark",
+                  "coords": [
+                        51.147972,
+                        43.656153
+                  ]
+            },
+            {
+                  "name": "Manila",
+                  "text": "A sandy beach area on the Caspian Sea coast, popular for swimming in summer.",
+                  "category": "recreational",
+                  "coords": [
+                        51.189793,
+                        43.627636
+                  ]
+            },
+            {
+                  "name": "Nu'rplaza",
+                  "text": "A popular beach section with sandy shores on the edge of the Caspian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        51.194195,
+                        43.626046
+                  ]
+            },
+            {
+                  "name": "Dostar",
+                  "text": "A developed beach resort on the Caspian Sea offering recreation facilities for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        51.211008,
+                        43.619372
+                  ]
+            },
+            {
+                  "name": "Beket-Ata",
+                  "text": "A mosque and religious center dedicated to the famous Sufi saint Beket-Ata.",
+                  "category": "landmark",
+                  "coords": [
+                        51.145869,
+                        43.667853
+                  ]
+            },
+            {
+                  "name": "Beket-Ata central mosque",
+                  "text": "A modern mosque in Aktau featuring a bright white facade and two tall minarets.",
+                  "category": "landmark",
+                  "coords": [
+                        51.159521,
+                        43.660173
+                  ]
+            },
+            {
+                  "name": "Blagoveshchenskaia tserkov'",
+                  "text": "This Russian Orthodox church in Aktau is known for its traditional bright blue domes.",
+                  "category": "landmark",
+                  "coords": [
+                        51.174246,
+                        43.661615
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "A lively local bazaar in Aktau offering fresh produce and traditional Central Asian textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158376,
+                        43.640396
+                  ]
+            },
+            {
+                  "name": "RID-SK",
+                  "text": "A busy marketplace in Aktau serving as a hub for household goods and local trade.",
+                  "category": "cultural",
+                  "coords": [
+                        51.168659,
+                        43.66563
+                  ]
+            },
+            {
+                  "name": "Asar-S",
+                  "text": "A typical bazaar in Aktau where residents shop for clothing and daily groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        51.174906,
+                        43.655436
+                  ]
+            },
+            {
+                  "name": "RUSKAZ",
+                  "text": "A specialized marketplace in Aktau known for its variety of regional products.",
+                  "category": "cultural",
+                  "coords": [
+                        51.168482,
+                        43.650878
+                  ]
+            },
+            {
+                  "name": "Asem",
+                  "text": "A popular marketplace in Aktau frequented for its authentic local food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        51.169565,
+                        43.650958
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KZ-MAN",
     coords: [51.1000, 43.6000],
@@ -147,7 +912,52 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-of-kuryk-economic-v2",
+    id: "port-of-kuryk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mechet' sela Kuryk",
+                  "text": "Diese Dorfmoschee dient als zentraler Ort des muslimischen Gottesdienstes in der Nähe der Industrieanlagen des Hafens von Kuryk.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679268,
+                        43.172432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mechet' sela Kuryk",
+                  "text": "Ez a falusi mecset a muszlim istentisztelet központi helyeként szolgál a kuryk-i kikötő ipari műveletei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679268,
+                        43.172432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mechet' sela Kuryk",
+                  "text": "Această moschee a satului servește ca loc central de cult musulman în apropierea operațiunilor industriale din Portul Kuryk.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679268,
+                        43.172432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mechet' sela Kuryk",
+                  "text": "This village mosque serves as a central place of Muslim worship near the industrial operations of the Port of Kuryk.",
+                  "category": "landmark",
+                  "coords": [
+                        51.679268,
+                        43.172432
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "KZ-MAN",
     coords: [51.7000, 43.2000],
@@ -183,7 +993,412 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "bogatyr-coal-mine-economic-v2",
+    id: "bogatyr-coal-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pamiatnik zhertvam politicheskikh repressii",
+                  "text": "Ein Denkmal für die Opfer politischer Repressionen, das mahnend am Rande der riesigen Kohlemine Bogatyr steht.",
+                  "category": "historical",
+                  "coords": [
+                        75.324449,
+                        51.71944
+                  ]
+            },
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Dieses Heimatmuseum dokumentiert die industrielle Entwicklung und die Geschichte des Kohleabbaus in der Region Ekibastus.",
+                  "category": "museum",
+                  "coords": [
+                        75.317677,
+                        51.734069
+                  ]
+            },
+            {
+                  "name": "Abk",
+                  "text": "Ein technisches Museum im Verwaltungsgebäude der Bogatyr-Mine, das Einblicke in den größten Kohle-Tagebau der Welt gewährt.",
+                  "category": "museum",
+                  "coords": [
+                        75.471452,
+                        51.677524
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "Dieses Riesenrad bietet Besuchern einen weiten Panoramablick über die beeindruckende Bergbaulandschaft von Ekibastus.",
+                  "category": "landmark",
+                  "coords": [
+                        75.321774,
+                        51.721041
+                  ]
+            },
+            {
+                  "name": "Meshiti",
+                  "text": "Eine moderne Moschee in Ekibastus, die durch ihre zeitgenössische islamische Architektur und ihre schlanken Minarette besticht.",
+                  "category": "religious",
+                  "coords": [
+                        75.309278,
+                        51.713119
+                  ]
+            },
+            {
+                  "name": "GTsK \"Oner\"",
+                  "text": "Das zentrale Kulturhaus 'Oner' dient als wichtigster Veranstaltungsort für Konzerte und traditionelle kasachische Theateraufführungen in der Bergbaustadt.",
+                  "category": "cultural",
+                  "coords": [
+                        75.293721,
+                        51.722429
+                  ]
+            },
+            {
+                  "name": "Serafimo-Iverskii sobor",
+                  "text": "Die russisch-orthodoxe Kathedrale von Ekibastus ist für ihre charakteristischen goldenen Zwiebeltürme und ihre prachtvolle Ikonostase bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        75.290517,
+                        51.723843
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Ioanna Krestitelia",
+                  "text": "Diese römisch-katholische Gemeinde des Heiligen Johannes des Täufers dient als geistliches Zentrum für die örtliche katholische Minderheit.",
+                  "category": "landmark",
+                  "coords": [
+                        75.344759,
+                        51.713968
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Ein traditioneller Markt, auf dem Einheimische frische Lebensmittel, handgewebte Textilien und Waren aus der Region Ekibastus kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        75.331171,
+                        51.715689
+                  ]
+            },
+            {
+                  "name": "Munitsipal'nyi rynok",
+                  "text": "Dieser städtische Markt ist ein geschäftiger Handelsplatz für preiswerte Kleidung, Haushaltswaren und lokale Spezialitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        75.288456,
+                        51.723097
+                  ]
+            },
+            {
+                  "name": "Naryk",
+                  "text": "Ein lokaler Basar, der für seine authentische Atmosphäre und die Vielfalt an kasachischen Gewürzen und Fleischprodukten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        75.317258,
+                        51.732637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pamiatnik zhertvam politicheskikh repressii",
+                  "text": "A politikai elnyomás áldozatainak emlékműve, amely a hatalmas Bogatir külszíni fejtésű szénbánya szomszédságában található.",
+                  "category": "historical",
+                  "coords": [
+                        75.324449,
+                        51.71944
+                  ]
+            },
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Ez a helytörténeti múzeum az ekibasztuzi régió ipari fejlődését és a szénbányászat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        75.317677,
+                        51.734069
+                  ]
+            },
+            {
+                  "name": "Abk",
+                  "text": "A Bogatir-bánya igazgatósági épületében található múzeum betekintést nyújt a világ egyik legnagyobb külszíni szénbányájának működésébe.",
+                  "category": "museum",
+                  "coords": [
+                        75.471452,
+                        51.677524
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "Az ekibasztuzi óriáskerék különleges panorámát nyújt a látogatóknak a városra és a környező monumentális bányavidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        75.321774,
+                        51.721041
+                  ]
+            },
+            {
+                  "name": "Meshiti",
+                  "text": "Ekibasztuz egyik modern mecsetje, amely letisztult iszlám építészetével és karcsú minaretjeivel hívja fel magára a figyelmet.",
+                  "category": "religious",
+                  "coords": [
+                        75.309278,
+                        51.713119
+                  ]
+            },
+            {
+                  "name": "GTsK \"Oner\"",
+                  "text": "Az 'Oner' központi kulturális palota koncerteknek és hagyományos kazah színházi előadásoknak ad otthont a bányászvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        75.293721,
+                        51.722429
+                  ]
+            },
+            {
+                  "name": "Serafimo-Iverskii sobor",
+                  "text": "Ekibasztuz orosz ortodox székesegyháza jellegzetes aranyhagymakupoláiról és gazdagon díszített ikonfalaidról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        75.290517,
+                        51.723843
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Ioanna Krestitelia",
+                  "text": "Keresztelő Szent János római katolikus plébániája a helyi katolikus közösség fontos vallási és spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        75.344759,
+                        51.713968
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Hagyományos piac, ahol a helyiek friss élelmiszereket, kézműves textileket és egyéb helyi árukat szerezhetnek be.",
+                  "category": "cultural",
+                  "coords": [
+                        75.331171,
+                        51.715689
+                  ]
+            },
+            {
+                  "name": "Munitsipal'nyi rynok",
+                  "text": "Ez az önkormányzati piac az olcsó ruházati cikkek, háztartási eszközök és helyi finomságok nyüzsgő lelőhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        75.288456,
+                        51.723097
+                  ]
+            },
+            {
+                  "name": "Naryk",
+                  "text": "Helyi bazár, amely autentikus hangulatáról, valamint a kazah fűszerek és hústermékek széles választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        75.317258,
+                        51.732637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pamiatnik zhertvam politicheskikh repressii",
+                  "text": "Un monument dedicat victimelor represiunilor politice, situat la marginea uriașei exploatări miniere de cărbune Bogatyr.",
+                  "category": "historical",
+                  "coords": [
+                        75.324449,
+                        51.71944
+                  ]
+            },
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Acest muzeu de istorie locală documentează dezvoltarea industrială și moștenirea mineritului de cărbune din regiunea Ekibastuz.",
+                  "category": "museum",
+                  "coords": [
+                        75.317677,
+                        51.734069
+                  ]
+            },
+            {
+                  "name": "Abk",
+                  "text": "Un muzeu tehnic situat în clădirea administrativă a minei Bogatyr, oferind detalii despre cea mai mare exploatare de cărbune din lume.",
+                  "category": "museum",
+                  "coords": [
+                        75.471452,
+                        51.677524
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "Această roată panoramică oferă vizitatorilor o vedere largă asupra peisajului minier impresionant din jurul orașului Ekibastuz.",
+                  "category": "landmark",
+                  "coords": [
+                        75.321774,
+                        51.721041
+                  ]
+            },
+            {
+                  "name": "Meshiti",
+                  "text": "O moschee modernă în Ekibastuz, remarcabilă prin arhitectura sa islamică contemporană și minaretele zvelte.",
+                  "category": "religious",
+                  "coords": [
+                        75.309278,
+                        51.713119
+                  ]
+            },
+            {
+                  "name": "GTsK \"Oner\"",
+                  "text": "Centrul cultural 'Oner' servește drept principala locație pentru concerte și spectacole de teatru tradițional kazah din orașul minier.",
+                  "category": "cultural",
+                  "coords": [
+                        75.293721,
+                        51.722429
+                  ]
+            },
+            {
+                  "name": "Serafimo-Iverskii sobor",
+                  "text": "Catedrala ortodoxă rusă din Ekibastuz este cunoscută pentru cupolele sale aurii caracteristice și iconostasul impresionant.",
+                  "category": "religious",
+                  "coords": [
+                        75.290517,
+                        51.723843
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Ioanna Krestitelia",
+                  "text": "Această parohie romano-catolică dedicată Sfântului Ioan Botezătorul servește drept centru spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        75.344759,
+                        51.713968
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "O piață tradițională unde localnicii cumpără alimente proaspete, textile lucrate manual și diverse mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        75.331171,
+                        51.715689
+                  ]
+            },
+            {
+                  "name": "Munitsipal'nyi rynok",
+                  "text": "Această piață municipală este un loc de tranzacționare aglomerat pentru haine accesibile, articole de uz casnic și specialități locale.",
+                  "category": "cultural",
+                  "coords": [
+                        75.288456,
+                        51.723097
+                  ]
+            },
+            {
+                  "name": "Naryk",
+                  "text": "Un bazar local cunoscut pentru atmosfera sa autentică și varietatea de condimente și produse din carne kazahe.",
+                  "category": "cultural",
+                  "coords": [
+                        75.317258,
+                        51.732637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pamiatnik zhertvam politicheskikh repressii",
+                  "text": "A memorial dedicated to the victims of political repression, standing near the massive Bogatyr open-cast coal mine.",
+                  "category": "historical",
+                  "coords": [
+                        75.324449,
+                        51.71944
+                  ]
+            },
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "This local history museum in Ekibastuz documents the industrial development and heritage of the regional coal mining industry.",
+                  "category": "museum",
+                  "coords": [
+                        75.317677,
+                        51.734069
+                  ]
+            },
+            {
+                  "name": "Abk",
+                  "text": "A technical museum located in the Bogatyr mine administration building, showcasing the history of the world's largest open-cast coal mine.",
+                  "category": "museum",
+                  "coords": [
+                        75.471452,
+                        51.677524
+                  ]
+            },
+            {
+                  "name": "Koleso obozreniia",
+                  "text": "This Ferris wheel offers visitors panoramic views of the city and the vast industrial mining landscape surrounding Ekibastuz.",
+                  "category": "landmark",
+                  "coords": [
+                        75.321774,
+                        51.721041
+                  ]
+            },
+            {
+                  "name": "Meshiti",
+                  "text": "A modern mosque in Ekibastuz, noted for its contemporary Islamic architecture and slender minarets.",
+                  "category": "religious",
+                  "coords": [
+                        75.309278,
+                        51.713119
+                  ]
+            },
+            {
+                  "name": "GTsK \"Oner\"",
+                  "text": "The 'Oner' central cultural palace serves as the primary venue for concerts and traditional Kazakh theater performances in the mining city.",
+                  "category": "cultural",
+                  "coords": [
+                        75.293721,
+                        51.722429
+                  ]
+            },
+            {
+                  "name": "Serafimo-Iverskii sobor",
+                  "text": "This Russian Orthodox cathedral in Ekibastuz is known for its distinctive golden onion domes and ornate interior iconostasis.",
+                  "category": "religious",
+                  "coords": [
+                        75.290517,
+                        51.723843
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Ioanna Krestitelia",
+                  "text": "The Roman Catholic parish of St. John the Baptist serves as a spiritual hub for the local Catholic community in Ekibastuz.",
+                  "category": "landmark",
+                  "coords": [
+                        75.344759,
+                        51.713968
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "A traditional marketplace where locals trade fresh produce, handmade textiles, and regional goods in Ekibastuz.",
+                  "category": "cultural",
+                  "coords": [
+                        75.331171,
+                        51.715689
+                  ]
+            },
+            {
+                  "name": "Munitsipal'nyi rynok",
+                  "text": "This municipal market is a bustling trading hub for affordable clothing, household items, and local food specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        75.288456,
+                        51.723097
+                  ]
+            },
+            {
+                  "name": "Naryk",
+                  "text": "A local bazaar known for its authentic atmosphere and a wide variety of Kazakh spices and meat products.",
+                  "category": "cultural",
+                  "coords": [
+                        75.317258,
+                        51.732637
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "KZ-PAV",
     coords: [75.4000, 51.7000],
@@ -219,7 +1434,88 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "khorgos-gateway-economic-v2",
+    id: "khorgos-gateway-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsirk",
+                  "text": "Das örtliche Zirkusgebäude in Khorgos verfügt über eine kreisrunde Arena, die für akrobatische und theatralische Darbietungen konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        80.40964,
+                        44.235177
+                  ]
+            },
+            {
+                  "name": "Tserkov' Kazanskoi ikony Bozhiei Materi 1887 goda",
+                  "text": "Die 1887 erbaute Kirche der Kasaner Ikone der Gottesmutter zeigt historische russisch-orthodoxe Holzarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        80.385742,
+                        44.222873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsirk",
+                  "text": "A korgaszi helyi cirkuszépület egy kör alakú arénával rendelkezik, amelyet akrobatikus és színházi előadásokhoz terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        80.40964,
+                        44.235177
+                  ]
+            },
+            {
+                  "name": "Tserkov' Kazanskoi ikony Bozhiei Materi 1887 goda",
+                  "text": "Az 1887-ben épült Kazanyi Istenanya-ikon templom a történelmi orosz ortodox faépítészetet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        80.385742,
+                        44.222873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsirk",
+                  "text": "Clădirea circului local din Khorgos are o arenă circulară concepută pentru spectacole acrobatice și teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        80.40964,
+                        44.235177
+                  ]
+            },
+            {
+                  "name": "Tserkov' Kazanskoi ikony Bozhiei Materi 1887 goda",
+                  "text": "Construită în 1887, Biserica Icoanei Maicii Domnului din Kazan prezintă arhitectura istorică din lemn ortodoxă rusă.",
+                  "category": "landmark",
+                  "coords": [
+                        80.385742,
+                        44.222873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsirk",
+                  "text": "The local circus building in Khorgos features a circular arena designed for acrobatic and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        80.40964,
+                        44.235177
+                  ]
+            },
+            {
+                  "name": "Tserkov' Kazanskoi ikony Bozhiei Materi 1887 goda",
+                  "text": "Built in 1887, the Church of the Kazan Icon of the Mother of God showcases historical Russian Orthodox timber architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        80.385742,
+                        44.222873
+                  ]
+            }
+      ]
+},
     type: "trade-hub",
     parent: "KZ-ZET",
     coords: [80.4000, 44.2000],
@@ -255,7 +1551,520 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "temirtau-steel-plant-economic-v2",
+    id: "temirtau-steel-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Metallurgam",
+                  "text": "Ein Denkmal zu Ehren der Stahlarbeiter dieses bedeutenden Industriezentrums.",
+                  "category": "historical",
+                  "coords": [
+                        72.970145,
+                        50.065747
+                  ]
+            },
+            {
+                  "name": "Gorodskoi kraevedcheskii muzei",
+                  "text": "Ein Museum, das die industrielle Geschichte und das Erbe der Stahlstadt Temirtau dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        72.964271,
+                        50.053583
+                  ]
+            },
+            {
+                  "name": "Neizvestnyi soldat",
+                  "text": "Ein Denkmal für die gefallenen Soldaten in der industriell geprägten Stadt Temirtau.",
+                  "category": "historical",
+                  "coords": [
+                        72.952466,
+                        50.061288
+                  ]
+            },
+            {
+                  "name": "TIuZ",
+                  "text": "Ein Theater, das speziell auf Aufführungen für Kinder und Jugendliche in Temirtau ausgerichtet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        72.910396,
+                        50.089379
+                  ]
+            },
+            {
+                  "name": "''Temirtau'' Stele",
+                  "text": "Eine markante Stele, die den Eingang oder die Identität der „Eisenberg“-Stadt markiert.",
+                  "category": "historical",
+                  "coords": [
+                        72.995099,
+                        49.999428
+                  ]
+            },
+            {
+                  "name": "Dvorets kul'tury Metallurg",
+                  "text": "Ein prachtvolles Kulturzentrum aus der Sowjetzeit für die Arbeiter des riesigen Stahlwerks.",
+                  "category": "cultural",
+                  "coords": [
+                        72.971913,
+                        50.067329
+                  ]
+            },
+            {
+                  "name": "Pravoslavnaia tserkov'",
+                  "text": "Eine orthodoxe Gebetsstätte für die vielfältige Bevölkerung der Stahlstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.965621,
+                        50.04252
+                  ]
+            },
+            {
+                  "name": "Gorodskaia mechet' im. Zhakypa Akbaia",
+                  "text": "Eine moderne Moschee, die der muslimischen Gemeinde im Industriegebiet von Karaganda dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.958854,
+                        50.062162
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii prikhod",
+                  "text": "Eine christliche Pfarrei, gewidmet dem Schutz der Gottesmutter, in der Industriestadt.",
+                  "category": "landmark",
+                  "coords": [
+                        72.959834,
+                        50.060323
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Sv. Andreia",
+                  "text": "Eine römisch-katholische Kirche für die lokale Gemeinde im industriellen Herzen Kasachstans.",
+                  "category": "landmark",
+                  "coords": [
+                        72.941735,
+                        50.047535
+                  ]
+            },
+            {
+                  "name": "@likhan Bokeikhan atyndag'y ortalyk' meshiti",
+                  "text": "Die zentrale Moschee von Temirtau, benannt nach einem prominenten kasachischen Staatsmann.",
+                  "category": "landmark",
+                  "coords": [
+                        72.962734,
+                        50.043123
+                  ]
+            },
+            {
+                  "name": "EsDaulet rynok",
+                  "text": "Ein geschäftiger lokaler Markt, der die Bewohner der stahlproduzierenden Stadt versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        72.966461,
+                        50.059059
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Ein traditioneller Basar im Herzen der Industriegemeinschaft von Temirtau.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992892,
+                        50.063406
+                  ]
+            },
+            {
+                  "name": "Ortalyk' bazar",
+                  "text": "Ein zentraler Marktplatz in der Industriestadt Temirtau, der regionale Produkte und Alltagsgüter für die Arbeiter des Stahlwerks anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        72.960205,
+                        50.051274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Metallurgam",
+                  "text": "A jelentős ipari központ acélmunkásainak tiszteletére emelt emlékmű Temirtauban.",
+                  "category": "historical",
+                  "coords": [
+                        72.970145,
+                        50.065747
+                  ]
+            },
+            {
+                  "name": "Gorodskoi kraevedcheskii muzei",
+                  "text": "A város ipari múltját és örökségét bemutató helytörténeti múzeum Temirtauban.",
+                  "category": "museum",
+                  "coords": [
+                        72.964271,
+                        50.053583
+                  ]
+            },
+            {
+                  "name": "Neizvestnyi soldat",
+                  "text": "Az ismeretlen katona emlékműve a közép-kazahsztáni ipari város szívében.",
+                  "category": "historical",
+                  "coords": [
+                        72.952466,
+                        50.061288
+                  ]
+            },
+            {
+                  "name": "TIuZ",
+                  "text": "Kifejezetten a gyermekeknek és fiataloknak szóló előadásokra szakosodott színház.",
+                  "category": "cultural",
+                  "coords": [
+                        72.910396,
+                        50.089379
+                  ]
+            },
+            {
+                  "name": "''Temirtau'' Stele",
+                  "text": "Jellegzetes sztélé, amely az „Acélhegy” néven is ismert város bejáratát jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        72.995099,
+                        49.999428
+                  ]
+            },
+            {
+                  "name": "Dvorets kul'tury Metallurg",
+                  "text": "Monumentális szovjet korszakbeli művelődési ház a hatalmas acélmű dolgozói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        72.971913,
+                        50.067329
+                  ]
+            },
+            {
+                  "name": "Pravoslavnaia tserkov'",
+                  "text": "Ortodox vallási központ az acélgyártásáról ismert város sokszínű lakossága számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.965621,
+                        50.04252
+                  ]
+            },
+            {
+                  "name": "Gorodskaia mechet' im. Zhakypa Akbaia",
+                  "text": "Modern mecset a karagandai régió ipari központjának muszlim közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.958854,
+                        50.062162
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii prikhod",
+                  "text": "Az Istenanya oltalmának szentelt keresztény templom az ipari központban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.959834,
+                        50.060323
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Sv. Andreia",
+                  "text": "Római katolikus templom az iparvidék szívében élő helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.941735,
+                        50.047535
+                  ]
+            },
+            {
+                  "name": "@likhan Bokeikhan atyndag'y ortalyk' meshiti",
+                  "text": "Temirtau központi mecsete, amely egy neves kazah államférfi nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        72.962734,
+                        50.043123
+                  ]
+            },
+            {
+                  "name": "EsDaulet rynok",
+                  "text": "Forgalmas helyi piac, amely az acéltermelő város lakóit látja el árukkal.",
+                  "category": "cultural",
+                  "coords": [
+                        72.966461,
+                        50.059059
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Hagyományos bazár Temirtau ipari közösségének szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992892,
+                        50.063406
+                  ]
+            },
+            {
+                  "name": "Ortalyk' bazar",
+                  "text": "Temirtau iparvárosának központi piaca, amely friss élelmiszereket és mindennapi árucikkeket kínál az acélgyári munkásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        72.960205,
+                        50.051274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Metallurgam",
+                  "text": "Un monument care onorează metalurgiștii acestui important centru industrial din centrul Kazahstanului.",
+                  "category": "historical",
+                  "coords": [
+                        72.970145,
+                        50.065747
+                  ]
+            },
+            {
+                  "name": "Gorodskoi kraevedcheskii muzei",
+                  "text": "Un muzeu de istorie locală ce documentează patrimoniul industrial al orașului Temirtau.",
+                  "category": "museum",
+                  "coords": [
+                        72.964271,
+                        50.053583
+                  ]
+            },
+            {
+                  "name": "Neizvestnyi soldat",
+                  "text": "Memorialul soldatului necunoscut, dedicat eroilor căzuți în orașul industrial Temirtau.",
+                  "category": "historical",
+                  "coords": [
+                        72.952466,
+                        50.061288
+                  ]
+            },
+            {
+                  "name": "TIuZ",
+                  "text": "Un teatru dedicat special spectacolelor pentru copii și tineret din Temirtau.",
+                  "category": "cultural",
+                  "coords": [
+                        72.910396,
+                        50.089379
+                  ]
+            },
+            {
+                  "name": "''Temirtau'' Stele",
+                  "text": "O stelă marcantă care indică identitatea orașului oțelului, cunoscut ca „Muntele de Fier”.",
+                  "category": "historical",
+                  "coords": [
+                        72.995099,
+                        49.999428
+                  ]
+            },
+            {
+                  "name": "Dvorets kul'tury Metallurg",
+                  "text": "Un palat al culturii grandios din epoca sovietică, destinat muncitorilor de la combinatul siderurgic.",
+                  "category": "cultural",
+                  "coords": [
+                        72.971913,
+                        50.067329
+                  ]
+            },
+            {
+                  "name": "Pravoslavnaia tserkov'",
+                  "text": "O biserică ortodoxă pentru populația diversă a orașului producător de oțel.",
+                  "category": "landmark",
+                  "coords": [
+                        72.965621,
+                        50.04252
+                  ]
+            },
+            {
+                  "name": "Gorodskaia mechet' im. Zhakypa Akbaia",
+                  "text": "O moschee modernă care deservește comunitatea musulmană din hub-ul industrial Karaganda.",
+                  "category": "landmark",
+                  "coords": [
+                        72.958854,
+                        50.062162
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii prikhod",
+                  "text": "O parohie creștină dedicată Acoperământului Maicii Domnului din orașul industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        72.959834,
+                        50.060323
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Sv. Andreia",
+                  "text": "O biserică romano-catolică ce deservește comunitatea locală din inima industrială a țării.",
+                  "category": "landmark",
+                  "coords": [
+                        72.941735,
+                        50.047535
+                  ]
+            },
+            {
+                  "name": "@likhan Bokeikhan atyndag'y ortalyk' meshiti",
+                  "text": "Moscheea centrală din Temirtau, denumită după un proeminent om de stat kazah.",
+                  "category": "landmark",
+                  "coords": [
+                        72.962734,
+                        50.043123
+                  ]
+            },
+            {
+                  "name": "EsDaulet rynok",
+                  "text": "O piață locală aglomerată care asigură bunuri pentru locuitorii orașului siderurgic.",
+                  "category": "cultural",
+                  "coords": [
+                        72.966461,
+                        50.059059
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "Un bazar tradițional aflat în inima comunității industriale din Temirtau.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992892,
+                        50.063406
+                  ]
+            },
+            {
+                  "name": "Ortalyk' bazar",
+                  "text": "O piață centrală animată din orașul industrial Temirtau, ce oferă produse regionale și bunuri de larg consum pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        72.960205,
+                        50.051274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Metallurgam",
+                  "text": "A monument honoring the steelworkers of this major industrial center in central Kazakhstan.",
+                  "category": "historical",
+                  "coords": [
+                        72.970145,
+                        50.065747
+                  ]
+            },
+            {
+                  "name": "Gorodskoi kraevedcheskii muzei",
+                  "text": "A local lore museum documenting the industrial history and heritage of the steel city.",
+                  "category": "museum",
+                  "coords": [
+                        72.964271,
+                        50.053583
+                  ]
+            },
+            {
+                  "name": "Neizvestnyi soldat",
+                  "text": "An unknown soldier memorial dedicated to fallen heroes in the industrial city of Temirtau.",
+                  "category": "historical",
+                  "coords": [
+                        72.952466,
+                        50.061288
+                  ]
+            },
+            {
+                  "name": "TIuZ",
+                  "text": "A theatre specifically dedicated to performances for children and youth in Temirtau.",
+                  "category": "cultural",
+                  "coords": [
+                        72.910396,
+                        50.089379
+                  ]
+            },
+            {
+                  "name": "''Temirtau'' Stele",
+                  "text": "A landmark stele marking the entrance or identity of the \"Iron Mountain\" steel city.",
+                  "category": "historical",
+                  "coords": [
+                        72.995099,
+                        49.999428
+                  ]
+            },
+            {
+                  "name": "Dvorets kul'tury Metallurg",
+                  "text": "A grand Soviet-era cultural center serving the workers of the massive Temirtau steel plant.",
+                  "category": "cultural",
+                  "coords": [
+                        72.971913,
+                        50.067329
+                  ]
+            },
+            {
+                  "name": "Pravoslavnaia tserkov'",
+                  "text": "An Orthodox place of worship for the diverse population of the steel-producing city.",
+                  "category": "landmark",
+                  "coords": [
+                        72.965621,
+                        50.04252
+                  ]
+            },
+            {
+                  "name": "Gorodskaia mechet' im. Zhakypa Akbaia",
+                  "text": "A modern mosque serving the Muslim community in this Karaganda region industrial center.",
+                  "category": "landmark",
+                  "coords": [
+                        72.958854,
+                        50.062162
+                  ]
+            },
+            {
+                  "name": "Sviato-Pokrovskii prikhod",
+                  "text": "A Christian parish dedicated to the Protection of the Mother of God in the industrial city.",
+                  "category": "landmark",
+                  "coords": [
+                        72.959834,
+                        50.060323
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Sv. Andreia",
+                  "text": "A Roman Catholic church serving the local parish in the industrial heart of Kazakhstan.",
+                  "category": "landmark",
+                  "coords": [
+                        72.941735,
+                        50.047535
+                  ]
+            },
+            {
+                  "name": "@likhan Bokeikhan atyndag'y ortalyk' meshiti",
+                  "text": "The central mosque of Temirtau, named after a prominent Kazakh statesman.",
+                  "category": "landmark",
+                  "coords": [
+                        72.962734,
+                        50.043123
+                  ]
+            },
+            {
+                  "name": "EsDaulet rynok",
+                  "text": "A busy local market providing goods to the residents of the steel-producing city.",
+                  "category": "cultural",
+                  "coords": [
+                        72.966461,
+                        50.059059
+                  ]
+            },
+            {
+                  "name": "Bazar",
+                  "text": "A traditional bazaar in the heart of Temirtau's industrial community.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992892,
+                        50.063406
+                  ]
+            },
+            {
+                  "name": "Ortalyk' bazar",
+                  "text": "A busy central marketplace in the industrial city of Temirtau, providing regional products and daily goods near the steel plant.",
+                  "category": "cultural",
+                  "coords": [
+                        72.960205,
+                        50.051274
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KZ-KAR",
     coords: [72.9000, 50.0000],
@@ -291,7 +2100,1312 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "ust-kamenogorsk-titanium-magnesium-plant-economic-v2",
+    id: "ust-kamenogorsk-titanium-magnesium-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pamiatnik O. Bokeiu",
+                  "text": "Dieses Denkmal ehrt den berühmten kasachischen Schriftsteller Oralchan Bokei, der für seine Werke über den Altai bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        82.613884,
+                        49.901527
+                  ]
+            },
+            {
+                  "name": "1945-1945 zhyldary Oskemende k'aza tapk'an zhapon armiiasynyn' bu'ryng'y @skeri tu'tk'yndary",
+                  "text": "Diese Gedenkstätte erinnert an die ehemaligen japanischen Kriegsgefangenen, die nach dem Zweiten Weltkrieg in Oskemen verstarben.",
+                  "category": "historical",
+                  "coords": [
+                        82.688818,
+                        49.908832
+                  ]
+            },
+            {
+                  "name": "Razvaliny toibike",
+                  "text": "Die steinernen Überreste einer historischen Befestigung liegen auf einer Anhöhe und überblicken die Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        82.542222,
+                        49.851667
+                  ]
+            },
+            {
+                  "name": "K'araozektin' k'irandylary",
+                  "text": "Diese antiken Ruinen im Karaozek-Gebiet zeugen von der frühen Besiedlung und der Geschichte dieser Region.",
+                  "category": "historical",
+                  "coords": [
+                        82.529722,
+                        49.823611
+                  ]
+            },
+            {
+                  "name": "Dostyk' Uii",
+                  "text": "Dieses Kulturzentrum in einem markanten Gebäude widmet sich der Förderung der Harmonie zwischen den verschiedenen Volksgruppen.",
+                  "category": "cultural",
+                  "coords": [
+                        82.590209,
+                        49.97408
+                  ]
+            },
+            {
+                  "name": "Na Voroshilova",
+                  "text": "Ein lebhafter lokaler Markt an der Woroschilow-Straße, der für seine Auswahl an frischen Lebensmitteln bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        82.595947,
+                        49.973156
+                  ]
+            },
+            {
+                  "name": "Rovesnik",
+                  "text": "Ein kleinerer Nachbarschaftsmarkt, der die Bewohner des umliegenden Viertels mit täglichen Waren versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        82.584491,
+                        49.958293
+                  ]
+            },
+            {
+                  "name": "Dos-Nar",
+                  "text": "Ein großes Einkaufs- und Marktzentrum, das eine breite Palette an Kleidung und Haushaltswaren unter einem Dach bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        82.587003,
+                        49.96519
+                  ]
+            },
+            {
+                  "name": "Metallurg",
+                  "text": "Dieser Markt ist traditionell ein beliebter Einkaufsort für die Arbeiter der nahegelegenen Industrieanlagen.",
+                  "category": "cultural",
+                  "coords": [
+                        82.594618,
+                        49.967756
+                  ]
+            },
+            {
+                  "name": "Rynok elektrotovary",
+                  "text": "Ein spezialisierter Fachmarkt für Elektrowerkzeuge, Kabel und elektronische Komponenten aller Art.",
+                  "category": "cultural",
+                  "coords": [
+                        82.572454,
+                        49.985699
+                  ]
+            },
+            {
+                  "name": "Bereke",
+                  "text": "Ein lokaler Marktplatz, der für seine Auswahl an regionalen landwirtschaftlichen Erzeugnissen und Fleisch bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        82.580764,
+                        49.982038
+                  ]
+            },
+            {
+                  "name": "Kabanbai batyr",
+                  "text": "Ein Gedenkort für Kabanbai Batyr, den legendären Anführer, der im 18. Jahrhundert die Unabhängigkeit verteidigte.",
+                  "category": "landmark",
+                  "coords": [
+                        82.503766,
+                        49.957757
+                  ]
+            },
+            {
+                  "name": "Naskal'nye risunki",
+                  "text": "Diese antiken Felszeichnungen zeigen Jagdszenen und Tiere, die von den frühen Bewohnern der Region hinterlassen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        82.589123,
+                        49.905006
+                  ]
+            },
+            {
+                  "name": "<<K'azak'stan>> degen zhazu",
+                  "text": "Riesige weiße Buchstaben auf einem Berghang bilden den Schriftzug „Kasachstan“ und sind weithin sichtbar.",
+                  "category": "landmark",
+                  "coords": [
+                        82.67707,
+                        49.938997
+                  ]
+            },
+            {
+                  "name": "Peshter (Ag'aiyndy ush)",
+                  "text": "Diese natürlichen Kalksteinhöhlen in den Hügeln sind ein beliebtes Ziel für Wanderer und Naturforscher.",
+                  "category": "landmark",
+                  "coords": [
+                        82.701389,
+                        49.925556
+                  ]
+            },
+            {
+                  "name": "Ploshchadka",
+                  "text": "Diese Aussichtsplattform bietet einen Panoramablick auf den Irtysch-Fluss und die industrielle Silhouette von Oskemen.",
+                  "category": "landmark",
+                  "coords": [
+                        82.699871,
+                        49.929984
+                  ]
+            },
+            {
+                  "name": "Ulken umit tauy",
+                  "text": "Dieser prominente Berggipfel ist für seine anspruchsvollen Wanderwege und die weite Aussicht über die Steppe bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.684258,
+                        49.92597
+                  ]
+            },
+            {
+                  "name": "Tas keme",
+                  "text": "Diese außergewöhnliche geologische Formation auf dem Bergkamm erinnert in ihrer Form an ein steinernes Schiff.",
+                  "category": "landmark",
+                  "coords": [
+                        82.703068,
+                        49.917813
+                  ]
+            },
+            {
+                  "name": "Bogoroditse-Rozhdestvenskii khram",
+                  "text": "Eine orthodoxe Kirche mit traditionellen Zwiebeltürmen, die der Geburt der Jungfrau Maria geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.689379,
+                        49.893318
+                  ]
+            },
+            {
+                  "name": "Keme k'azuy (Kishi Ararat)",
+                  "text": "Ein markanter, felsiger Gipfel, der aufgrund seiner Ähnlichkeit mit dem biblischen Berg „Kleiner Ararat“ genannt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        82.68746,
+                        49.887467
+                  ]
+            },
+            {
+                  "name": "Tobe Shok'ysy",
+                  "text": "Ein sanfter Hügel in den Ausläufern des Altai, der einen schönen Blick auf die umliegende Gebirgslandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        82.686342,
+                        49.902496
+                  ]
+            },
+            {
+                  "name": "@ulie tauy",
+                  "text": "Dieser Berggipfel in der Nähe von Oskemen bietet weite Ausblicke auf die bewaldeten Ausläufer des Altai-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        82.689004,
+                        49.904291
+                  ]
+            },
+            {
+                  "name": "Abylaikit ziratyndag'y g'ibadat kresti",
+                  "text": "Ein religiöses Andachtskreuz in der Nähe der Ruinen des historischen Klosters Abylaikit aus dem 17. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        82.692315,
+                        49.909668
+                  ]
+            },
+            {
+                  "name": "Zharyk' zholynyn' zhotasy",
+                  "text": "Ein malerischer Höhenweg entlang dieses Bergrückens bietet spektakuläre Aussichten auf die umliegende Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        82.696471,
+                        49.915059
+                  ]
+            },
+            {
+                  "name": "Kishi piramidalardyn' zhartastary (ush piramidalar)",
+                  "text": "Drei spitze Felsformationen in den Hügeln, die aufgrund ihrer geometrischen Form als „Kleine Pyramiden“ bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        82.69326,
+                        49.920775
+                  ]
+            },
+            {
+                  "name": "Zhanuar Tas",
+                  "text": "Diese ungewöhnliche Felsformation wurde durch natürliche Erosion so geformt, dass sie der Gestalt eines Tieres ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.688362,
+                        49.918957
+                  ]
+            },
+            {
+                  "name": "Zhartas Kemesi",
+                  "text": "Eine imposante Felsgruppe auf dem Kamm, die wie der Bug eines großen Schiffes aus der Landschaft ragt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.686989,
+                        49.919634
+                  ]
+            },
+            {
+                  "name": "Rozhdestvolyk' rok",
+                  "text": "Diese markante Klippe ist ein lokales Wahrzeichen und bietet besonders im Winter eine stimmungsvolle Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        82.698199,
+                        49.918797
+                  ]
+            },
+            {
+                  "name": "K'u'tk'aru zhartasy",
+                  "text": "Ein steiler Felsvorsprung, der in der lokalen Überlieferung als Zufluchtsort und Orientierungspunkt gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.702294,
+                        49.918846
+                  ]
+            },
+            {
+                  "name": "Ablaket tauy",
+                  "text": "Dieser Berg oberhalb des Ablaketka-Bezirks ist ein beliebtes Ziel für Wanderungen mit Blick auf das Kraftwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        82.702391,
+                        49.889155
+                  ]
+            },
+            {
+                  "name": "Kladbishche",
+                  "text": "Ein weitläufiger christlicher Friedhof, der für seine friedliche Atmosphäre und die zahlreichen orthodoxen Kreuze bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.669794,
+                        49.970534
+                  ]
+            },
+            {
+                  "name": "Molel'naia komnata Very, Nadezhdy, Liubvi i materi ikh Sofii",
+                  "text": "Ein kleiner Gebetsraum in einem öffentlichen Gebäude, der der Heiligen Sophia und ihren Töchtern gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        82.677286,
+                        49.929892
+                  ]
+            },
+            {
+                  "name": "Musa Baba",
+                  "text": "Eine muslimische Grabstätte und Pilgerstätte am Rande der Industriestadt.",
+                  "category": "landmark",
+                  "coords": [
+                        82.489595,
+                        49.87536
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Eine Moschee für die Gläubigen im Industriegebiet von Ust-Kamenogorsk.",
+                  "category": "landmark",
+                  "coords": [
+                        82.615971,
+                        49.886308
+                  ]
+            },
+            {
+                  "name": "Agiasma",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Fluss Irtysch und das Industriegebiet.",
+                  "category": "natural",
+                  "coords": [
+                        82.684953,
+                        49.894583
+                  ]
+            },
+            {
+                  "name": "Pliazh Oktiabr'skii",
+                  "text": "Ein Sandstrand am Ufer des Irtysch-Flusses, beliebt bei den Einheimischen.",
+                  "category": "recreational",
+                  "coords": [
+                        82.570802,
+                        49.959367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pamiatnik O. Bokeiu",
+                  "text": "Ez az emlékmű a híres kazah írónak, Oralhan Bokeinek állít emléket, aki az Altajról szóló műveiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        82.613884,
+                        49.901527
+                  ]
+            },
+            {
+                  "name": "1945-1945 zhyldary Oskemende k'aza tapk'an zhapon armiiasynyn' bu'ryng'y @skeri tu'tk'yndary",
+                  "text": "Ez az emlékhely az 1945 után Oszkemenben elhunyt egykori japán hadifoglyoknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        82.688818,
+                        49.908832
+                  ]
+            },
+            {
+                  "name": "Razvaliny toibike",
+                  "text": "Egy történelmi erődítmény kőmaradványai egy magaslaton találhatók, rálátással a környékre.",
+                  "category": "historical",
+                  "coords": [
+                        82.542222,
+                        49.851667
+                  ]
+            },
+            {
+                  "name": "K'araozektin' k'irandylary",
+                  "text": "Ezek a Karaozek-vidéki ősi romok a régió korai betelepüléséről és történelméről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        82.529722,
+                        49.823611
+                  ]
+            },
+            {
+                  "name": "Dostyk' Uii",
+                  "text": "Ez a jellegzetes épületben található kulturális központ a különböző népcsoportok közötti harmónia ápolásának szentelt.",
+                  "category": "cultural",
+                  "coords": [
+                        82.590209,
+                        49.97408
+                  ]
+            },
+            {
+                  "name": "Na Voroshilova",
+                  "text": "Egy nyüzsgő helyi piac a Vorosilov utcában, amely friss élelmiszerválasztékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        82.595947,
+                        49.973156
+                  ]
+            },
+            {
+                  "name": "Rovesnik",
+                  "text": "Egy kisebb környékbeli piac, amely mindennapi cikkekkel látja el a közeli lakónegyed lakóit.",
+                  "category": "cultural",
+                  "coords": [
+                        82.584491,
+                        49.958293
+                  ]
+            },
+            {
+                  "name": "Dos-Nar",
+                  "text": "Egy nagy bevásárló- és piaci központ, amely ruházati cikkek és háztartási áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        82.587003,
+                        49.96519
+                  ]
+            },
+            {
+                  "name": "Metallurg",
+                  "text": "Ez a piac hagyományosan a közeli ipari létesítmények munkásainak kedvelt vásárlóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        82.594618,
+                        49.967756
+                  ]
+            },
+            {
+                  "name": "Rynok elektrotovary",
+                  "text": "Elektromos szerszámokra, kábelekre és különféle elektronikai alkatrészekre szakosodott piac.",
+                  "category": "cultural",
+                  "coords": [
+                        82.572454,
+                        49.985699
+                  ]
+            },
+            {
+                  "name": "Bereke",
+                  "text": "Helyi piac, amely a környékbeli mezőgazdasági termékek és a hús választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        82.580764,
+                        49.982038
+                  ]
+            },
+            {
+                  "name": "Kabanbai batyr",
+                  "text": "Emlékhely Kabanbai Batyrnak, a legendás vezetőnek, aki a 18. században védte meg a függetlenséget.",
+                  "category": "landmark",
+                  "coords": [
+                        82.503766,
+                        49.957757
+                  ]
+            },
+            {
+                  "name": "Naskal'nye risunki",
+                  "text": "Ezek az ősi sziklarajzok vadászjeleneteket és állatokat ábrázolnak, amelyeket a régió korai lakói hagytak hátra.",
+                  "category": "landmark",
+                  "coords": [
+                        82.589123,
+                        49.905006
+                  ]
+            },
+            {
+                  "name": "<<K'azak'stan>> degen zhazu",
+                  "text": "A hegyoldalon hatalmas fehér betűk formázzák a „Kazahsztán” feliratot, amely messziről is jól látható.",
+                  "category": "landmark",
+                  "coords": [
+                        82.67707,
+                        49.938997
+                  ]
+            },
+            {
+                  "name": "Peshter (Ag'aiyndy ush)",
+                  "text": "Ezek a dombokban található természetes mészkőbarlangok népszerűek a túrázók és a természetjárók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        82.701389,
+                        49.925556
+                  ]
+            },
+            {
+                  "name": "Ploshchadka",
+                  "text": "Ez a kilátóterasz panorámás kilátást nyújt az Irtis folyóra és Oszkemen ipari sziluettjére.",
+                  "category": "landmark",
+                  "coords": [
+                        82.699871,
+                        49.929984
+                  ]
+            },
+            {
+                  "name": "Ulken umit tauy",
+                  "text": "Ez a kiemelkedő hegycsúcs kihívást jelentő túraútvonalairól és a sztyeppére nyíló tágas kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        82.684258,
+                        49.92597
+                  ]
+            },
+            {
+                  "name": "Tas keme",
+                  "text": "Ez a különleges geológiai képződmény a hegygerincen alakjával egy kőből készült hajóra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        82.703068,
+                        49.917813
+                  ]
+            },
+            {
+                  "name": "Bogoroditse-Rozhdestvenskii khram",
+                  "text": "Hagyományos hagymakupolás ortodox templom, amelyet Szűz Mária születésének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.689379,
+                        49.893318
+                  ]
+            },
+            {
+                  "name": "Keme k'azuy (Kishi Ararat)",
+                  "text": "Egy jellegzetes sziklás hegycsúcs, amelyet a bibliai hegyhez való hasonlósága miatt „Kis Ararátnak” neveznek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.68746,
+                        49.887467
+                  ]
+            },
+            {
+                  "name": "Tobe Shok'ysy",
+                  "text": "Egy lankás domb az Altaj lábánál, amely szép kilátást nyújt a környező hegyi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        82.686342,
+                        49.902496
+                  ]
+            },
+            {
+                  "name": "@ulie tauy",
+                  "text": "Ez az Oszkemen közeli hegycsúcs tágas kilátást nyújt az Altaj-hegység erdős lábaira.",
+                  "category": "landmark",
+                  "coords": [
+                        82.689004,
+                        49.904291
+                  ]
+            },
+            {
+                  "name": "Abylaikit ziratyndag'y g'ibadat kresti",
+                  "text": "Vallási emlékkereszt a 17. századi történelmi Abylaikit kolostor romjainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        82.692315,
+                        49.909668
+                  ]
+            },
+            {
+                  "name": "Zharyk' zholynyn' zhotasy",
+                  "text": "Egy festői magaslati út ezen a hegygerincen, amely látványos kilátást nyújt a környező természetre.",
+                  "category": "landmark",
+                  "coords": [
+                        82.696471,
+                        49.915059
+                  ]
+            },
+            {
+                  "name": "Kishi piramidalardyn' zhartastary (ush piramidalar)",
+                  "text": "Három hegyes sziklaalakzat a dombok között, amelyeket mértani formájuk miatt „Kis Piramisokként” ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.69326,
+                        49.920775
+                  ]
+            },
+            {
+                  "name": "Zhanuar Tas",
+                  "text": "Ezt a szokatlan sziklaalakzatot a természetes erózió úgy formálta meg, hogy egy állat alakjára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        82.688362,
+                        49.918957
+                  ]
+            },
+            {
+                  "name": "Zhartas Kemesi",
+                  "text": "Egy impozáns sziklacsoport a hegygerincen, amely egy nagy hajó orraként emelkedik ki a tájból.",
+                  "category": "landmark",
+                  "coords": [
+                        82.686989,
+                        49.919634
+                  ]
+            },
+            {
+                  "name": "Rozhdestvolyk' rok",
+                  "text": "Ez a jellegzetes sziklafal helyi nevezetesség, amely különösen télen nyújt hangulatos kilátást.",
+                  "category": "landmark",
+                  "coords": [
+                        82.698199,
+                        49.918797
+                  ]
+            },
+            {
+                  "name": "K'u'tk'aru zhartasy",
+                  "text": "Egy meredek sziklanyúlvány, amelyet a helyi hagyomány menedékhelyként és tájékozódási pontként tart számon.",
+                  "category": "landmark",
+                  "coords": [
+                        82.702294,
+                        49.918846
+                  ]
+            },
+            {
+                  "name": "Ablaket tauy",
+                  "text": "Az Ablaketka negyed feletti hegy népszerű túracélpont, rálátással az erőműre.",
+                  "category": "landmark",
+                  "coords": [
+                        82.702391,
+                        49.889155
+                  ]
+            },
+            {
+                  "name": "Kladbishche",
+                  "text": "Egy kiterjedt keresztény temető, amely békés légköréről és számos ortodox keresztjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        82.669794,
+                        49.970534
+                  ]
+            },
+            {
+                  "name": "Molel'naia komnata Very, Nadezhdy, Liubvi i materi ikh Sofii",
+                  "text": "Egy nyilvános épületben található kis imaszoba, amelyet Szent Zsófiának és lányainak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        82.677286,
+                        49.929892
+                  ]
+            },
+            {
+                  "name": "Musa Baba",
+                  "text": "Muszlim síremlék és zarándokhely az iparváros szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        82.489595,
+                        49.87536
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Mecset a hívők számára Öskemen ipari negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        82.615971,
+                        49.886308
+                  ]
+            },
+            {
+                  "name": "Agiasma",
+                  "text": "Kilátópont az Irtis-folyóra és az ipari területre.",
+                  "category": "natural",
+                  "coords": [
+                        82.684953,
+                        49.894583
+                  ]
+            },
+            {
+                  "name": "Pliazh Oktiabr'skii",
+                  "text": "Homokos strand az Irtis-folyó partján, a helyiek kedvelt pihenőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        82.570802,
+                        49.959367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pamiatnik O. Bokeiu",
+                  "text": "Acest monument îl onorează pe faimosul scriitor kazah Oralhan Bokei, cunoscut pentru operele sale despre munții Altai.",
+                  "category": "historical",
+                  "coords": [
+                        82.613884,
+                        49.901527
+                  ]
+            },
+            {
+                  "name": "1945-1945 zhyldary Oskemende k'aza tapk'an zhapon armiiasynyn' bu'ryng'y @skeri tu'tk'yndary",
+                  "text": "Acest memorial este dedicat foștilor prizonieri de război japonezi care au murit la Oskemen după al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        82.688818,
+                        49.908832
+                  ]
+            },
+            {
+                  "name": "Razvaliny toibike",
+                  "text": "Ruinele de piatră ale unei fortificații istorice sunt situate pe o înălțime, oferind o panoramă asupra peisajului.",
+                  "category": "historical",
+                  "coords": [
+                        82.542222,
+                        49.851667
+                  ]
+            },
+            {
+                  "name": "K'araozektin' k'irandylary",
+                  "text": "Aceste ruine antice din zona Karaozek atestă popularea timpurie și istoria acestei regiuni.",
+                  "category": "historical",
+                  "coords": [
+                        82.529722,
+                        49.823611
+                  ]
+            },
+            {
+                  "name": "Dostyk' Uii",
+                  "text": "Acest centru cultural, situat într-o clădire distinctivă, este dedicat promovării armoniei între diversele grupuri etnice.",
+                  "category": "cultural",
+                  "coords": [
+                        82.590209,
+                        49.97408
+                  ]
+            },
+            {
+                  "name": "Na Voroshilova",
+                  "text": "O piață locală plină de viață pe strada Voroshilov, cunoscută pentru selecția de alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        82.595947,
+                        49.973156
+                  ]
+            },
+            {
+                  "name": "Rovesnik",
+                  "text": "O piață de cartier mai mică, ce deservește locuitorii din zona învecinată cu produse de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        82.584491,
+                        49.958293
+                  ]
+            },
+            {
+                  "name": "Dos-Nar",
+                  "text": "Un centru comercial și de piață mare, care oferă o gamă largă de haine și articole de uz casnic sub același acoperiș.",
+                  "category": "cultural",
+                  "coords": [
+                        82.587003,
+                        49.96519
+                  ]
+            },
+            {
+                  "name": "Metallurg",
+                  "text": "Această piață este, în mod tradițional, un loc de cumpărături popular pentru muncitorii de la uzinele industriale din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        82.594618,
+                        49.967756
+                  ]
+            },
+            {
+                  "name": "Rynok elektrotovary",
+                  "text": "O piață specializată în unelte electrice, cabluri și componente electronice de toate tipurile.",
+                  "category": "cultural",
+                  "coords": [
+                        82.572454,
+                        49.985699
+                  ]
+            },
+            {
+                  "name": "Bereke",
+                  "text": "O piață locală cunoscută pentru selecția sa de produse agricole regionale și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        82.580764,
+                        49.982038
+                  ]
+            },
+            {
+                  "name": "Kabanbai batyr",
+                  "text": "Un loc memorial pentru Kabanbai Batîr, liderul legendar care a apărat independența în secolul al XVIII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        82.503766,
+                        49.957757
+                  ]
+            },
+            {
+                  "name": "Naskal'nye risunki",
+                  "text": "Aceste desene rupestre antice reprezintă scene de vânătoare și animale, lăsate de primii locuitori ai regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        82.589123,
+                        49.905006
+                  ]
+            },
+            {
+                  "name": "<<K'azak'stan>> degen zhazu",
+                  "text": "Litere albe uriașe pe versantul unui munte formează inscripția „Kazahstan”, fiind vizibile de la mare distanță.",
+                  "category": "landmark",
+                  "coords": [
+                        82.67707,
+                        49.938997
+                  ]
+            },
+            {
+                  "name": "Peshter (Ag'aiyndy ush)",
+                  "text": "Aceste peșteri naturale de calcar din dealuri sunt o destinație populară pentru drumeții și exploratori.",
+                  "category": "landmark",
+                  "coords": [
+                        82.701389,
+                        49.925556
+                  ]
+            },
+            {
+                  "name": "Ploshchadka",
+                  "text": "Această platformă de observație oferă o vedere panoramică asupra râului Irtîș și a siluetei industriale a Oskemenului.",
+                  "category": "landmark",
+                  "coords": [
+                        82.699871,
+                        49.929984
+                  ]
+            },
+            {
+                  "name": "Ulken umit tauy",
+                  "text": "Acest vârf muntos proeminent este cunoscut pentru traseele sale de drumeție și vederea largă asupra stepei.",
+                  "category": "landmark",
+                  "coords": [
+                        82.684258,
+                        49.92597
+                  ]
+            },
+            {
+                  "name": "Tas keme",
+                  "text": "Această formațiune geologică neobișnuită de pe creasta muntelui seamănă prin formă cu o navă de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        82.703068,
+                        49.917813
+                  ]
+            },
+            {
+                  "name": "Bogoroditse-Rozhdestvenskii khram",
+                  "text": "O biserică ortodoxă cu turle în formă de ceapă, sfințită în cinstea Nașterii Maicii Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        82.689379,
+                        49.893318
+                  ]
+            },
+            {
+                  "name": "Keme k'azuy (Kishi Ararat)",
+                  "text": "Un vârf stâncos proeminent, numit „Micul Ararat” datorită asemănării sale cu muntele biblic.",
+                  "category": "landmark",
+                  "coords": [
+                        82.68746,
+                        49.887467
+                  ]
+            },
+            {
+                  "name": "Tobe Shok'ysy",
+                  "text": "Un deal domol de la poalele munților Altai, oferind o vedere frumoasă asupra peisajului montan din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        82.686342,
+                        49.902496
+                  ]
+            },
+            {
+                  "name": "@ulie tauy",
+                  "text": "Acest vârf muntos de lângă Oskemen oferă vederi largi asupra poalelor împădurite ale munților Altai.",
+                  "category": "landmark",
+                  "coords": [
+                        82.689004,
+                        49.904291
+                  ]
+            },
+            {
+                  "name": "Abylaikit ziratyndag'y g'ibadat kresti",
+                  "text": "O cruce religioasă de închinare situată lângă ruinele mănăstirii istorice Abylaikit din secolul al XVII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        82.692315,
+                        49.909668
+                  ]
+            },
+            {
+                  "name": "Zharyk' zholynyn' zhotasy",
+                  "text": "O potecă pitorească de-a lungul acestei creste montane, oferind vederi spectaculoase asupra naturii din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        82.696471,
+                        49.915059
+                  ]
+            },
+            {
+                  "name": "Kishi piramidalardyn' zhartastary (ush piramidalar)",
+                  "text": "Trei formațiuni stâncoase ascuțite în dealuri, cunoscute sub numele de „Micile Piramide” datorită formei lor geometrice.",
+                  "category": "landmark",
+                  "coords": [
+                        82.69326,
+                        49.920775
+                  ]
+            },
+            {
+                  "name": "Zhanuar Tas",
+                  "text": "Această formațiune stâncoasă neobișnuită a fost modelată de eroziunea naturală astfel încât seamănă cu silueta unui animal.",
+                  "category": "landmark",
+                  "coords": [
+                        82.688362,
+                        49.918957
+                  ]
+            },
+            {
+                  "name": "Zhartas Kemesi",
+                  "text": "Un grup impunător de stânci pe creastă, care se ridică din peisaj ca prora unei nave mari.",
+                  "category": "landmark",
+                  "coords": [
+                        82.686989,
+                        49.919634
+                  ]
+            },
+            {
+                  "name": "Rozhdestvolyk' rok",
+                  "text": "Această stâncă distinctivă este un punct de reper local și oferă o vedere atmosferică, în special iarna.",
+                  "category": "landmark",
+                  "coords": [
+                        82.698199,
+                        49.918797
+                  ]
+            },
+            {
+                  "name": "K'u'tk'aru zhartasy",
+                  "text": "O proeminență stâncoasă abruptă, considerată în tradiția locală un loc de refugiu și un punct de orientare.",
+                  "category": "landmark",
+                  "coords": [
+                        82.702294,
+                        49.918846
+                  ]
+            },
+            {
+                  "name": "Ablaket tauy",
+                  "text": "Acest munte de deasupra districtului Ablaketka este o destinație populară pentru drumeții, cu vedere spre hidrocentrală.",
+                  "category": "landmark",
+                  "coords": [
+                        82.702391,
+                        49.889155
+                  ]
+            },
+            {
+                  "name": "Kladbishche",
+                  "text": "Un cimitir creștin vast, cunoscut pentru atmosfera sa liniștită și numeroasele cruci ortodoxe.",
+                  "category": "landmark",
+                  "coords": [
+                        82.669794,
+                        49.970534
+                  ]
+            },
+            {
+                  "name": "Molel'naia komnata Very, Nadezhdy, Liubvi i materi ikh Sofii",
+                  "text": "O mică cameră de rugăciune într-o clădire publică, dedicată Sfintei Sofia și fiicelor sale.",
+                  "category": "landmark",
+                  "coords": [
+                        82.677286,
+                        49.929892
+                  ]
+            },
+            {
+                  "name": "Musa Baba",
+                  "text": "Un mormânt și loc de pelerinaj musulman la marginea orașului industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        82.489595,
+                        49.87536
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "O moschee pentru credincioși în cartierul industrial din Ust-Kamenogorsk.",
+                  "category": "landmark",
+                  "coords": [
+                        82.615971,
+                        49.886308
+                  ]
+            },
+            {
+                  "name": "Agiasma",
+                  "text": "Un punct de belvedere asupra râului Irtîș și a zonei industriale.",
+                  "category": "natural",
+                  "coords": [
+                        82.684953,
+                        49.894583
+                  ]
+            },
+            {
+                  "name": "Pliazh Oktiabr'skii",
+                  "text": "O plajă cu nisip pe malul râului Irtîș, populară printre localnici.",
+                  "category": "recreational",
+                  "coords": [
+                        82.570802,
+                        49.959367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pamiatnik O. Bokeiu",
+                  "text": "This monument honors the famous Kazakh writer Oralkhan Bokei, known for his literary works about the Altai region.",
+                  "category": "historical",
+                  "coords": [
+                        82.613884,
+                        49.901527
+                  ]
+            },
+            {
+                  "name": "1945-1945 zhyldary Oskemende k'aza tapk'an zhapon armiiasynyn' bu'ryng'y @skeri tu'tk'yndary",
+                  "text": "This memorial commemorates former Japanese prisoners of war who died in Oskemen following World War II.",
+                  "category": "historical",
+                  "coords": [
+                        82.688818,
+                        49.908832
+                  ]
+            },
+            {
+                  "name": "Razvaliny toibike",
+                  "text": "The stone remains of a historical fortification are situated on a high point overlooking the landscape.",
+                  "category": "historical",
+                  "coords": [
+                        82.542222,
+                        49.851667
+                  ]
+            },
+            {
+                  "name": "K'araozektin' k'irandylary",
+                  "text": "These ancient ruins in the Karaozek area bear witness to the early settlement and history of this region.",
+                  "category": "historical",
+                  "coords": [
+                        82.529722,
+                        49.823611
+                  ]
+            },
+            {
+                  "name": "Dostyk' Uii",
+                  "text": "This cultural center, housed in a prominent building, is dedicated to promoting harmony between various ethnic groups.",
+                  "category": "cultural",
+                  "coords": [
+                        82.590209,
+                        49.97408
+                  ]
+            },
+            {
+                  "name": "Na Voroshilova",
+                  "text": "A bustling local market on Voroshilov Street, known for its selection of fresh food products.",
+                  "category": "cultural",
+                  "coords": [
+                        82.595947,
+                        49.973156
+                  ]
+            },
+            {
+                  "name": "Rovesnik",
+                  "text": "A smaller neighborhood market serving the residents of the nearby area with daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        82.584491,
+                        49.958293
+                  ]
+            },
+            {
+                  "name": "Dos-Nar",
+                  "text": "A large shopping and market center offering a wide range of clothing and household goods under one roof.",
+                  "category": "cultural",
+                  "coords": [
+                        82.587003,
+                        49.96519
+                  ]
+            },
+            {
+                  "name": "Metallurg",
+                  "text": "This market is traditionally a popular shopping spot for workers from the nearby industrial plants.",
+                  "category": "cultural",
+                  "coords": [
+                        82.594618,
+                        49.967756
+                  ]
+            },
+            {
+                  "name": "Rynok elektrotovary",
+                  "text": "A specialized trade market for electrical tools, cables, and electronic components of all kinds.",
+                  "category": "cultural",
+                  "coords": [
+                        82.572454,
+                        49.985699
+                  ]
+            },
+            {
+                  "name": "Bereke",
+                  "text": "A local marketplace known for its selection of regional agricultural products and meat.",
+                  "category": "cultural",
+                  "coords": [
+                        82.580764,
+                        49.982038
+                  ]
+            },
+            {
+                  "name": "Kabanbai batyr",
+                  "text": "A memorial site for Kabanbai Batyr, the legendary leader who defended independence in the 18th century.",
+                  "category": "landmark",
+                  "coords": [
+                        82.503766,
+                        49.957757
+                  ]
+            },
+            {
+                  "name": "Naskal'nye risunki",
+                  "text": "These ancient rock carvings depict hunting scenes and animals left by the early inhabitants of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        82.589123,
+                        49.905006
+                  ]
+            },
+            {
+                  "name": "<<K'azak'stan>> degen zhazu",
+                  "text": "Huge white letters on a mountainside spell out 'Kazakhstan', visible from a great distance across the city.",
+                  "category": "landmark",
+                  "coords": [
+                        82.67707,
+                        49.938997
+                  ]
+            },
+            {
+                  "name": "Peshter (Ag'aiyndy ush)",
+                  "text": "These natural limestone caves in the hills are a popular destination for hikers and nature explorers.",
+                  "category": "landmark",
+                  "coords": [
+                        82.701389,
+                        49.925556
+                  ]
+            },
+            {
+                  "name": "Ploshchadka",
+                  "text": "This observation platform offers panoramic views of the Irtysh River and the industrial skyline of Oskemen.",
+                  "category": "landmark",
+                  "coords": [
+                        82.699871,
+                        49.929984
+                  ]
+            },
+            {
+                  "name": "Ulken umit tauy",
+                  "text": "This prominent mountain peak is known for its challenging hiking trails and expansive views over the steppe.",
+                  "category": "landmark",
+                  "coords": [
+                        82.684258,
+                        49.92597
+                  ]
+            },
+            {
+                  "name": "Tas keme",
+                  "text": "This unusual geological formation on the mountain ridge resembles a stone ship in its shape.",
+                  "category": "landmark",
+                  "coords": [
+                        82.703068,
+                        49.917813
+                  ]
+            },
+            {
+                  "name": "Bogoroditse-Rozhdestvenskii khram",
+                  "text": "An Orthodox church with traditional onion domes, dedicated to the Nativity of the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        82.689379,
+                        49.893318
+                  ]
+            },
+            {
+                  "name": "Keme k'azuy (Kishi Ararat)",
+                  "text": "A prominent rocky peak named 'Little Ararat' due to its resemblance to the biblical mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        82.68746,
+                        49.887467
+                  ]
+            },
+            {
+                  "name": "Tobe Shok'ysy",
+                  "text": "A gentle hill in the Altai foothills, offering a nice view of the surrounding mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        82.686342,
+                        49.902496
+                  ]
+            },
+            {
+                  "name": "@ulie tauy",
+                  "text": "This mountain peak near Oskemen offers expansive views of the forested Altai foothills.",
+                  "category": "landmark",
+                  "coords": [
+                        82.689004,
+                        49.904291
+                  ]
+            },
+            {
+                  "name": "Abylaikit ziratyndag'y g'ibadat kresti",
+                  "text": "A religious worship cross located near the ruins of the historical 17th-century Abylaikit monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        82.692315,
+                        49.909668
+                  ]
+            },
+            {
+                  "name": "Zharyk' zholynyn' zhotasy",
+                  "text": "A scenic high-altitude path along this mountain ridge, offering spectacular views of the surrounding nature.",
+                  "category": "landmark",
+                  "coords": [
+                        82.696471,
+                        49.915059
+                  ]
+            },
+            {
+                  "name": "Kishi piramidalardyn' zhartastary (ush piramidalar)",
+                  "text": "Three pointed rock formations in the hills, known as the 'Small Pyramids' due to their geometric shape.",
+                  "category": "landmark",
+                  "coords": [
+                        82.69326,
+                        49.920775
+                  ]
+            },
+            {
+                  "name": "Zhanuar Tas",
+                  "text": "This unusual rock formation was shaped by natural erosion to resemble the silhouette of an animal.",
+                  "category": "landmark",
+                  "coords": [
+                        82.688362,
+                        49.918957
+                  ]
+            },
+            {
+                  "name": "Zhartas Kemesi",
+                  "text": "An imposing group of rocks on the ridge that rises from the landscape like the bow of a large ship.",
+                  "category": "landmark",
+                  "coords": [
+                        82.686989,
+                        49.919634
+                  ]
+            },
+            {
+                  "name": "Rozhdestvolyk' rok",
+                  "text": "This distinctive cliff face is a local landmark and offers an atmospheric view, especially in winter.",
+                  "category": "landmark",
+                  "coords": [
+                        82.698199,
+                        49.918797
+                  ]
+            },
+            {
+                  "name": "K'u'tk'aru zhartasy",
+                  "text": "A steep rocky outcrop considered in local lore to be a place of refuge and a point of orientation.",
+                  "category": "landmark",
+                  "coords": [
+                        82.702294,
+                        49.918846
+                  ]
+            },
+            {
+                  "name": "Ablaket tauy",
+                  "text": "This mountain above the Ablaketka district is a popular hiking destination with views of the hydroelectric plant.",
+                  "category": "landmark",
+                  "coords": [
+                        82.702391,
+                        49.889155
+                  ]
+            },
+            {
+                  "name": "Kladbishche",
+                  "text": "An extensive Christian cemetery known for its peaceful atmosphere and numerous Orthodox crosses.",
+                  "category": "landmark",
+                  "coords": [
+                        82.669794,
+                        49.970534
+                  ]
+            },
+            {
+                  "name": "Molel'naia komnata Very, Nadezhdy, Liubvi i materi ikh Sofii",
+                  "text": "A small prayer room located within a public building, dedicated to Saint Sophia and her daughters.",
+                  "category": "landmark",
+                  "coords": [
+                        82.677286,
+                        49.929892
+                  ]
+            },
+            {
+                  "name": "Musa Baba",
+                  "text": "A Muslim burial site and place of pilgrimage on the outskirts of the industrial city.",
+                  "category": "landmark",
+                  "coords": [
+                        82.489595,
+                        49.87536
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "A mosque serving the faithful in the industrial district of Ust-Kamenogorsk.",
+                  "category": "landmark",
+                  "coords": [
+                        82.615971,
+                        49.886308
+                  ]
+            },
+            {
+                  "name": "Agiasma",
+                  "text": "A viewpoint offering panoramas of the Irtysh River and the industrial area.",
+                  "category": "natural",
+                  "coords": [
+                        82.684953,
+                        49.894583
+                  ]
+            },
+            {
+                  "name": "Pliazh Oktiabr'skii",
+                  "text": "A sandy beach on the banks of the Irtysh River, popular with locals.",
+                  "category": "recreational",
+                  "coords": [
+                        82.570802,
+                        49.959367
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KZ-VOS",
     coords: [82.6000, 49.9000],
@@ -327,7 +3441,268 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "zhezkazgan-copper-mine-economic-v2",
+    id: "zhezkazgan-copper-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dom druzhby i kul'tury narodov",
+                  "text": "Ein Kunst- und Kulturzentrum, das dem vielfältigen ethnischen Erbe der Region gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        67.71698,
+                        47.803628
+                  ]
+            },
+            {
+                  "name": "Muzei",
+                  "text": "Ein örtliches Museum, das geologische Exponate und die Geschichte des Kupferbergbaus in der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        67.703785,
+                        47.804894
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "Ein Erholungsstrand am Ufer des Kengir-Stausees, der im Sommer zur Entspannung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        67.715051,
+                        47.810632
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Ein großes islamisches Gotteshaus mit weißem Mauerwerk und einem traditionellen Minarett.",
+                  "category": "landmark",
+                  "coords": [
+                        67.682607,
+                        47.80767
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Preobrazheniia Gospodnia",
+                  "text": "Eine katholische Kirche in Schesqasghan, die der Verklärung des Herrn gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        67.699254,
+                        47.795721
+                  ]
+            },
+            {
+                  "name": "Rynok Sharua",
+                  "text": "Ein traditioneller Marktplatz, auf dem Einheimische frische Produkte und Viehzuchtbedarf kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        67.702292,
+                        47.802215
+                  ]
+            },
+            {
+                  "name": "Merei",
+                  "text": "Ein regionaler Handelsmarkt, der eine Vielzahl von Haushaltswaren und lokalen Lebensmitteln anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        67.704078,
+                        47.803315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dom druzhby i kul'tury narodov",
+                  "text": "Kulturális és művészeti központ, amely a régió sokszínű etnikai örökségének ápolására törekszik.",
+                  "category": "cultural",
+                  "coords": [
+                        67.71698,
+                        47.803628
+                  ]
+            },
+            {
+                  "name": "Muzei",
+                  "text": "Helyi múzeum, amely geológiai példányokat és a környék rézbányászatának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        67.703785,
+                        47.804894
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "Kikapcsolódásra alkalmas strand a Kengir-víztározó partján, amely népszerű nyári pihenőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        67.715051,
+                        47.810632
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Nagy iszlám imaház fehér falakkal és hagyományos minarettel.",
+                  "category": "landmark",
+                  "coords": [
+                        67.682607,
+                        47.80767
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Preobrazheniia Gospodnia",
+                  "text": "Katolikus templom Dzsezkazganban, amelyet az Úr színeváltozásának tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        67.699254,
+                        47.795721
+                  ]
+            },
+            {
+                  "name": "Rynok Sharua",
+                  "text": "Hagyományos piactér, ahol a helyiek friss árut és állattenyésztési kellékeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        67.702292,
+                        47.802215
+                  ]
+            },
+            {
+                  "name": "Merei",
+                  "text": "Regionális kereskedelmi piac, amely háztartási cikkek és helyi élelmiszerek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        67.704078,
+                        47.803315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dom druzhby i kul'tury narodov",
+                  "text": "Un centru cultural de artă dedicat promovării moștenirii etnice diverse a regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        67.71698,
+                        47.803628
+                  ]
+            },
+            {
+                  "name": "Muzei",
+                  "text": "Un muzeu local care prezintă specimene geologice și istoria exploatării cuprului în zonă.",
+                  "category": "museum",
+                  "coords": [
+                        67.703785,
+                        47.804894
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "O zonă de plajă recreativă pe malul rezervorului Kengir, populară pentru relaxare în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        67.715051,
+                        47.810632
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Un lăcaș de cult islamic mare, cu zidărie albă și un minaret tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        67.682607,
+                        47.80767
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Preobrazheniia Gospodnia",
+                  "text": "O biserică catolică din Jezkazgan dedicată Schimbării la Față a Domnului.",
+                  "category": "landmark",
+                  "coords": [
+                        67.699254,
+                        47.795721
+                  ]
+            },
+            {
+                  "name": "Rynok Sharua",
+                  "text": "O piață tradițională unde localnicii cumpără produse proaspete și provizii pentru animale.",
+                  "category": "cultural",
+                  "coords": [
+                        67.702292,
+                        47.802215
+                  ]
+            },
+            {
+                  "name": "Merei",
+                  "text": "O piață regională care oferă o varietate de bunuri de uz casnic și produse alimentare locale.",
+                  "category": "cultural",
+                  "coords": [
+                        67.704078,
+                        47.803315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dom druzhby i kul'tury narodov",
+                  "text": "A cultural arts center dedicated to promoting the diverse ethnic heritage of the region.",
+                  "category": "cultural",
+                  "coords": [
+                        67.71698,
+                        47.803628
+                  ]
+            },
+            {
+                  "name": "Muzei",
+                  "text": "A local museum showcasing geological specimens and the history of copper mining in the area.",
+                  "category": "museum",
+                  "coords": [
+                        67.703785,
+                        47.804894
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "A recreational beach area on the shores of the Kengir Reservoir, popular for summer relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        67.715051,
+                        47.810632
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "A large Islamic house of worship featuring white masonry and a traditional minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        67.682607,
+                        47.80767
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod Preobrazheniia Gospodnia",
+                  "text": "A Catholic church in Zhezkazgan dedicated to the Transfiguration of the Lord.",
+                  "category": "landmark",
+                  "coords": [
+                        67.699254,
+                        47.795721
+                  ]
+            },
+            {
+                  "name": "Rynok Sharua",
+                  "text": "A traditional marketplace where locals shop for fresh produce and livestock supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        67.702292,
+                        47.802215
+                  ]
+            },
+            {
+                  "name": "Merei",
+                  "text": "A regional trading market offering a variety of household goods and local food products.",
+                  "category": "cultural",
+                  "coords": [
+                        67.704078,
+                        47.803315
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "KZ-ULY",
     coords: [67.7000, 47.8000],
@@ -363,7 +3738,664 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "balkhash-copper-smelter-economic-v2",
+    id: "balkhash-copper-smelter-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzei",
+                  "text": "Ein lokales Museum in Balchasch mit Exponaten zum Kupferbergbau-Erbe der Stadt und zur Ökologie des Sees.",
+                  "category": "museum",
+                  "coords": [
+                        74.97665,
+                        46.847248
+                  ]
+            },
+            {
+                  "name": "Stroiteliam Balkhasha",
+                  "text": "Ein Denkmal zu Ehren der Arbeiter, die die Industriestadt Balchasch in der trockenen Steppe Kasachstans errichteten.",
+                  "category": "historical",
+                  "coords": [
+                        74.974237,
+                        46.833471
+                  ]
+            },
+            {
+                  "name": "Pushka",
+                  "text": "Ein militärisches Denkmal mit einer Artilleriekanone zu Ehren des lokalen Beitrags zum Großen Vaterländischen Krieg.",
+                  "category": "historical",
+                  "coords": [
+                        74.982745,
+                        46.834366
+                  ]
+            },
+            {
+                  "name": "K'aramendi Bi eskertkishi",
+                  "text": "Ein Denkmal zu Ehren von Karamendi Bi, einem angesehenen kasachischen Richter und Staatsmann des 18. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        74.981793,
+                        46.843279
+                  ]
+            },
+            {
+                  "name": "Stela Nezavisimosti",
+                  "text": "Eine hohe Unabhängigkeitsstele im Zentrum von Balchasch, die die Souveränität Kasachstans symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        74.977502,
+                        46.842499
+                  ]
+            },
+            {
+                  "name": "Paradoks",
+                  "text": "Ein zeitgenössisches Skulptur-Denkmal, das dem Stadtbild von Balchasch eine moderne künstlerische Note verleiht.",
+                  "category": "historical",
+                  "coords": [
+                        74.978011,
+                        46.838608
+                  ]
+            },
+            {
+                  "name": "Sag'at",
+                  "text": "Ein zentraler Uhrenturm, der als markantes Wahrzeichen und beliebter Treffpunkt im Stadtzentrum von Balchasch dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.982431,
+                        46.845415
+                  ]
+            },
+            {
+                  "name": "Chechengora",
+                  "text": "Ein Aussichtspunkt auf einem Hügel, der einen weiten Blick über den Balchaschsee und die Industrielandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        74.966956,
+                        46.82954
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Ein Freizeitpark mit verschiedenen Fahrgeschäften direkt am Nordufer des Balchaschsees.",
+                  "category": "recreational",
+                  "coords": [
+                        74.97808,
+                        46.833999
+                  ]
+            },
+            {
+                  "name": "Chiortovo Mesto",
+                  "text": "Ein ruhiger Strandabschnitt an der felsigen Küste des Balchaschsees, bekannt für seine natürliche Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        74.975447,
+                        46.832351
+                  ]
+            },
+            {
+                  "name": "Pliazh Geroev",
+                  "text": "Ein öffentlicher Badestrand am Balchaschsee, der für sein sandiges Ufer und sommerliche Erholung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        74.981957,
+                        46.833087
+                  ]
+            },
+            {
+                  "name": "Pravoslavnyi khram",
+                  "text": "Eine traditionelle russisch-orthodoxe Kirche in Balchasch mit klassischen goldenen Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        74.966323,
+                        46.851258
+                  ]
+            },
+            {
+                  "name": "Mechet' Zheleznodorozhnikov",
+                  "text": "Eine Moschee für die örtliche Gemeinde der Eisenbahner, die sich durch ihr hohes Minarett auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        74.935432,
+                        46.86277
+                  ]
+            },
+            {
+                  "name": "Mechet' Shashubai",
+                  "text": "Eine örtliche Moschee in der Siedlung Schaschubai am westlichen Rand des Balchaschsees.",
+                  "category": "landmark",
+                  "coords": [
+                        75.029348,
+                        46.804545
+                  ]
+            },
+            {
+                  "name": "Novoapostol'skaia tserkov'",
+                  "text": "Ein modernes Gotteshaus für die neuapostolische christliche Gemeinde der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.9649,
+                        46.83873
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod sv. Frantsiska",
+                  "text": "Eine römisch-katholische Pfarrei, die dem Heiligen Franziskus gewidmet ist und der örtlichen katholischen Minderheit dient.",
+                  "category": "landmark",
+                  "coords": [
+                        74.969783,
+                        46.848563
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Eine traditionelle Moschee im Stadtzentrum mit einer türkisfarbenen Kuppel und islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        75.005348,
+                        46.844044
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Ein belebter zentraler Marktplatz, auf dem Händler frische lokale Produkte und regionale Spezialitäten verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        74.974539,
+                        46.843638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei",
+                  "text": "Helytörténeti múzeum Balhasban, amely a város rézbányászati örökségét és a tó ökológiáját bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        74.97665,
+                        46.847248
+                  ]
+            },
+            {
+                  "name": "Stroiteliam Balkhasha",
+                  "text": "A kazah sztyeppén felépült Balhas iparváros építőinek tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        74.974237,
+                        46.833471
+                  ]
+            },
+            {
+                  "name": "Pushka",
+                  "text": "Katonai emlékhely egy tüzérségi ágyúval, amely a Nagy Honvédő Háború helyi áldozatai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        74.982745,
+                        46.834366
+                  ]
+            },
+            {
+                  "name": "K'aramendi Bi eskertkishi",
+                  "text": "Emlékmű Karamendi Bi, a 18. századi tisztelt kazah bíró és államférfi tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        74.981793,
+                        46.843279
+                  ]
+            },
+            {
+                  "name": "Stela Nezavisimosti",
+                  "text": "Kazahsztán szuverenitását jelképező magas függetlenségi sztélé Balhas központjában.",
+                  "category": "historical",
+                  "coords": [
+                        74.977502,
+                        46.842499
+                  ]
+            },
+            {
+                  "name": "Paradoks",
+                  "text": "Kortárs szobrászati alkotás, amely modern művészeti jelleget kölcsönöz Balhas városképének.",
+                  "category": "historical",
+                  "coords": [
+                        74.978011,
+                        46.838608
+                  ]
+            },
+            {
+                  "name": "Sag'at",
+                  "text": "Központi óratorony, amely jellegzetes építmény és népszerű találkozóhely Balhas belvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        74.982431,
+                        46.845415
+                  ]
+            },
+            {
+                  "name": "Chechengora",
+                  "text": "Egy dombtetőn lévő kilátópont, ahonnan panorámás kilátás nyílik a Balkas-tóra és a közeli gyárvárosra.",
+                  "category": "natural",
+                  "coords": [
+                        74.966956,
+                        46.82954
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Vidámpark különféle játékokkal és attrakciókkal a Balkas-tó északi partjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        74.97808,
+                        46.833999
+                  ]
+            },
+            {
+                  "name": "Chiortovo Mesto",
+                  "text": "Egy csendes partszakasz a Balkas-tó sziklás partján, amely természetközeli környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        74.975447,
+                        46.832351
+                  ]
+            },
+            {
+                  "name": "Pliazh Geroev",
+                  "text": "Népszerű szabadstrand a Balkas-tónál, amely homokos partjáról és nyári kikapcsolódási lehetőségeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        74.981957,
+                        46.833087
+                  ]
+            },
+            {
+                  "name": "Pravoslavnyi khram",
+                  "text": "Hagyományos keleti ortodox templom Balhas városában, jellegzetes aranyozott kupolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        74.966323,
+                        46.851258
+                  ]
+            },
+            {
+                  "name": "Mechet' Zheleznodorozhnikov",
+                  "text": "A helyi vasutas közösséget kiszolgáló mecset, amelyet magas minaretje tesz jellegzetessé.",
+                  "category": "landmark",
+                  "coords": [
+                        74.935432,
+                        46.86277
+                  ]
+            },
+            {
+                  "name": "Mechet' Shashubai",
+                  "text": "Helyi mecset Sasubaj településen, a Balkas-tó nyugati szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        75.029348,
+                        46.804545
+                  ]
+            },
+            {
+                  "name": "Novoapostol'skaia tserkov'",
+                  "text": "A város újapostoli keresztény közösségének modern imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        74.9649,
+                        46.83873
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod sv. Frantsiska",
+                  "text": "Szent Ferencnek szentelt római katolikus plébánia, amely a helyi katolikus kisebbséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        74.969783,
+                        46.848563
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "Hagyományos mecset a városközpontban, türkizkék kupolával és iszlám építészeti stílusjegyekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        75.005348,
+                        46.844044
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "Nyüzsgő központi piactér, ahol az árusok friss helyi termékeket és regionális különlegességeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        74.974539,
+                        46.843638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei",
+                  "text": "Un muzeu local din Balhaș, cu exponate despre moștenirea minieră a cuprului din oraș și ecologia lacului.",
+                  "category": "museum",
+                  "coords": [
+                        74.97665,
+                        46.847248
+                  ]
+            },
+            {
+                  "name": "Stroiteliam Balkhasha",
+                  "text": "Un monument în onoarea muncitorilor care au construit orașul industrial Balhaș în stepa aridă a Kazahstanului.",
+                  "category": "historical",
+                  "coords": [
+                        74.974237,
+                        46.833471
+                  ]
+            },
+            {
+                  "name": "Pushka",
+                  "text": "Un memorial militar cu un tun de artilerie, onorând contribuția locală la Marele Război pentru Apărarea Patriei.",
+                  "category": "historical",
+                  "coords": [
+                        74.982745,
+                        46.834366
+                  ]
+            },
+            {
+                  "name": "K'aramendi Bi eskertkishi",
+                  "text": "Un monument în cinstea lui Karamendi Bi, un respectat judecător și om de stat kazah din secolul al XVIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        74.981793,
+                        46.843279
+                  ]
+            },
+            {
+                  "name": "Stela Nezavisimosti",
+                  "text": "O stelă înaltă a independenței situată în centrul orașului Balhaș, simbolizând suveranitatea Kazahstanului.",
+                  "category": "historical",
+                  "coords": [
+                        74.977502,
+                        46.842499
+                  ]
+            },
+            {
+                  "name": "Paradoks",
+                  "text": "Un monument sculptural contemporan care adaugă o notă artistică modernă peisajului urban din Balhaș.",
+                  "category": "historical",
+                  "coords": [
+                        74.978011,
+                        46.838608
+                  ]
+            },
+            {
+                  "name": "Sag'at",
+                  "text": "Un turn cu ceas central care servește ca reper proeminent și punct de întâlnire popular în centrul orașului Balhaș.",
+                  "category": "landmark",
+                  "coords": [
+                        74.982431,
+                        46.845415
+                  ]
+            },
+            {
+                  "name": "Chechengora",
+                  "text": "Un punct de observație situat pe deal, oferind o vedere panoramică asupra lacului Balhaș și a peisajului industrial.",
+                  "category": "natural",
+                  "coords": [
+                        74.966956,
+                        46.82954
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "Un parc de distracții cu diverse atracții situat în apropierea malului nordic al lacului Balhaș.",
+                  "category": "recreational",
+                  "coords": [
+                        74.97808,
+                        46.833999
+                  ]
+            },
+            {
+                  "name": "Chiortovo Mesto",
+                  "text": "O zonă de plajă liniștită pe coasta stâncoasă a lacului Balhaș, apreciată pentru cadrul său natural.",
+                  "category": "recreational",
+                  "coords": [
+                        74.975447,
+                        46.832351
+                  ]
+            },
+            {
+                  "name": "Pliazh Geroev",
+                  "text": "O plajă publică pe malul lacului Balhaș, cunoscută pentru țărmul său nisipos și activitățile de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        74.981957,
+                        46.833087
+                  ]
+            },
+            {
+                  "name": "Pravoslavnyi khram",
+                  "text": "O biserică ortodoxă tradițională din Balhaș, cu domuri aurite clasice.",
+                  "category": "landmark",
+                  "coords": [
+                        74.966323,
+                        46.851258
+                  ]
+            },
+            {
+                  "name": "Mechet' Zheleznodorozhnikov",
+                  "text": "O moschee care servește comunitatea locală a feroviarilor, remarcându-se prin minaretul său înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.935432,
+                        46.86277
+                  ]
+            },
+            {
+                  "name": "Mechet' Shashubai",
+                  "text": "O moschee locală în așezarea Șașubai, situată la marginea vestică a lacului Balhaș.",
+                  "category": "landmark",
+                  "coords": [
+                        75.029348,
+                        46.804545
+                  ]
+            },
+            {
+                  "name": "Novoapostol'skaia tserkov'",
+                  "text": "Un lăcaș de cult modern pentru comunitatea creștină nou-apostolică din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        74.9649,
+                        46.83873
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod sv. Frantsiska",
+                  "text": "O parohie romano-catolică dedicată Sfântului Francisc, care deservește minoritatea catolică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        74.969783,
+                        46.848563
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "O moschee tradițională în centrul orașului, cu o cupolă turcoaz și arhitectură islamică.",
+                  "category": "landmark",
+                  "coords": [
+                        75.005348,
+                        46.844044
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "O piață centrală plină de viață, unde vânzătorii oferă produse locale proaspete și specialități regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        74.974539,
+                        46.843638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei",
+                  "text": "A local museum in Balkhash showcasing exhibits on the city's copper mining heritage and the lake's ecology.",
+                  "category": "museum",
+                  "coords": [
+                        74.97665,
+                        46.847248
+                  ]
+            },
+            {
+                  "name": "Stroiteliam Balkhasha",
+                  "text": "A monument honoring the workers who built the industrial city of Balkhash in the arid Kazakh steppe.",
+                  "category": "historical",
+                  "coords": [
+                        74.974237,
+                        46.833471
+                  ]
+            },
+            {
+                  "name": "Pushka",
+                  "text": "A military memorial featuring an artillery cannon, honoring the local contribution to the Great Patriotic War.",
+                  "category": "historical",
+                  "coords": [
+                        74.982745,
+                        46.834366
+                  ]
+            },
+            {
+                  "name": "K'aramendi Bi eskertkishi",
+                  "text": "A monument honoring Karamendi Bi, a respected 18th-century Kazakh judge and statesman.",
+                  "category": "historical",
+                  "coords": [
+                        74.981793,
+                        46.843279
+                  ]
+            },
+            {
+                  "name": "Stela Nezavisimosti",
+                  "text": "A tall independence stele in the center of Balkhash symbolizing the sovereignty of Kazakhstan.",
+                  "category": "historical",
+                  "coords": [
+                        74.977502,
+                        46.842499
+                  ]
+            },
+            {
+                  "name": "Paradoks",
+                  "text": "A contemporary sculptural monument adding a modern artistic touch to the urban landscape of Balkhash.",
+                  "category": "historical",
+                  "coords": [
+                        74.978011,
+                        46.838608
+                  ]
+            },
+            {
+                  "name": "Sag'at",
+                  "text": "A central clock tower that serves as a prominent landmark and popular meeting point in downtown Balkhash.",
+                  "category": "landmark",
+                  "coords": [
+                        74.982431,
+                        46.845415
+                  ]
+            },
+            {
+                  "name": "Chechengora",
+                  "text": "A high vantage point offering panoramic views of Lake Balkhash and the nearby industrial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        74.966956,
+                        46.82954
+                  ]
+            },
+            {
+                  "name": "Attraktsiony",
+                  "text": "A recreational park with various amusement rides located near the northern shores of Lake Balkhash.",
+                  "category": "recreational",
+                  "coords": [
+                        74.97808,
+                        46.833999
+                  ]
+            },
+            {
+                  "name": "Chiortovo Mesto",
+                  "text": "A quiet beach area on the rocky coastline of Lake Balkhash, popular for its natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        74.975447,
+                        46.832351
+                  ]
+            },
+            {
+                  "name": "Pliazh Geroev",
+                  "text": "A public swimming beach on Lake Balkhash known for its sandy shore and summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        74.981957,
+                        46.833087
+                  ]
+            },
+            {
+                  "name": "Pravoslavnyi khram",
+                  "text": "A traditional Eastern Orthodox church in Balkhash featuring classic golden domes.",
+                  "category": "landmark",
+                  "coords": [
+                        74.966323,
+                        46.851258
+                  ]
+            },
+            {
+                  "name": "Mechet' Zheleznodorozhnikov",
+                  "text": "A mosque serving the local railway workers' community, distinguished by its tall minaret.",
+                  "category": "landmark",
+                  "coords": [
+                        74.935432,
+                        46.86277
+                  ]
+            },
+            {
+                  "name": "Mechet' Shashubai",
+                  "text": "A local mosque in the Shashubai settlement, located on the western edge of Lake Balkhash.",
+                  "category": "landmark",
+                  "coords": [
+                        75.029348,
+                        46.804545
+                  ]
+            },
+            {
+                  "name": "Novoapostol'skaia tserkov'",
+                  "text": "A modern place of worship for the New Apostolic Christian community in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        74.9649,
+                        46.83873
+                  ]
+            },
+            {
+                  "name": "Rimsko-katolicheskii prikhod sv. Frantsiska",
+                  "text": "A Roman Catholic parish dedicated to Saint Francis, serving the local Catholic minority.",
+                  "category": "landmark",
+                  "coords": [
+                        74.969783,
+                        46.848563
+                  ]
+            },
+            {
+                  "name": "Mechet'",
+                  "text": "A traditional mosque in the city center featuring a turquoise dome and Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        75.005348,
+                        46.844044
+                  ]
+            },
+            {
+                  "name": "Rynok",
+                  "text": "A bustling central marketplace where vendors sell fresh local produce and regional specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        74.974539,
+                        46.843638
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KZ-KAR",
     coords: [75.0000, 46.8000],
@@ -399,7 +4431,1024 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "pavlodar-oil-refinery-economic-v2",
+    id: "pavlodar-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shaferdin' muzei-uii",
+                  "text": "Das Naum-Schafer-Hausmuseum beherbergt eine einzigartige Sammlung von über 25.000 alten Vinyl-Schallplatten.",
+                  "category": "museum",
+                  "coords": [
+                        76.948156,
+                        52.295561
+                  ]
+            },
+            {
+                  "name": "Pavlodarskii oblastnoi khudozhestvennyi muzei",
+                  "text": "Diese regionale Kunstgalerie zeigt eine vielfältige Auswahl an Gemälden und Skulpturen kasachischer und internationaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        76.939121,
+                        52.296718
+                  ]
+            },
+            {
+                  "name": "Asharshylyk kurbandaryna tagzym",
+                  "text": "Ein feierliches Denkmal, das dem Gedenken an die Opfer der Massenhungersnot in Kasachstan gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        76.925119,
+                        52.307309
+                  ]
+            },
+            {
+                  "name": "Pavlodarskii oblastnoi teatr dramy imeni A. P. Chekhova",
+                  "text": "Ein klassisches Dramentheater in einem historischen Gebäude, benannt zu Ehren des Schriftstellers Anton Tschechow.",
+                  "category": "cultural",
+                  "coords": [
+                        76.938769,
+                        52.276735
+                  ]
+            },
+            {
+                  "name": "Viking Land",
+                  "text": "Ein Outdoor-Freizeitpark mit Holz-Themenstrukturen, Fahrgeschäften und Aktivitäten für Kinder und Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        76.990235,
+                        52.275046
+                  ]
+            },
+            {
+                  "name": "Zh. Aimauytov atyndag'y k'azak' muzyka-drama teatry",
+                  "text": "Dieses Theater ist Aufführungen in kasachischer Sprache gewidmet und verbindet traditionelle Musik mit darstellender Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        76.971512,
+                        52.26644
+                  ]
+            },
+            {
+                  "name": "Miami",
+                  "text": "Ein beliebtes Strandresort am Ufer des Irtysch, das Freizeiteinrichtungen und Bademöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        76.89388,
+                        52.275977
+                  ]
+            },
+            {
+                  "name": "Isa Baizak'ov atyndag'y Pavlodar oblystyk' filarmoniiasy",
+                  "text": "Die regionale Philharmonie, in der Sinfoniekonzerte und Aufführungen traditioneller kasachischer Volksmusik stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        76.967421,
+                        52.29739
+                  ]
+            },
+            {
+                  "name": "Muzei voinskoi slavy",
+                  "text": "Ein militärhistorisches Museum, das Waffen, Uniformen und Fotografien aus dem Zweiten Weltkrieg zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        76.948346,
+                        52.300148
+                  ]
+            },
+            {
+                  "name": "Shanyrak",
+                  "text": "Ein Kulturzentrum für Volkskunst, benannt nach dem ikonischen kreisförmigen Dach einer kasachischen Jurte.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945479,
+                        52.297125
+                  ]
+            },
+            {
+                  "name": "Blagoveshchensk Shirkeui",
+                  "text": "Die Mariä-Verkündigungs-Kathedrale ist eine prachtvolle orthodoxe Kirche am Irtysch-Ufer mit fünf markanten goldenen Kuppeln.",
+                  "category": "religious",
+                  "coords": [
+                        76.928377,
+                        52.295849
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi pliazh",
+                  "text": "Der wichtigste Sandstrand der Stadt, gelegen an der malerischen Uferpromenade des Flusses Irtysch.",
+                  "category": "recreational",
+                  "coords": [
+                        76.935351,
+                        52.286214
+                  ]
+            },
+            {
+                  "name": "Ertis",
+                  "text": "Ein modernes Multimedia-Museum, das die Geologie, Geschichte und natürliche Umgebung der Irtysch-Region erläutert.",
+                  "category": "museum",
+                  "coords": [
+                        76.935737,
+                        52.279077
+                  ]
+            },
+            {
+                  "name": "Pavel Vasil'evtin' muzei-uii",
+                  "text": "Ein Gedenkmuseum im ehemaligen Wohnhaus der Familie des bedeutenden russischen Dichters Pawel Wassiljew.",
+                  "category": "museum",
+                  "coords": [
+                        76.936932,
+                        52.273495
+                  ]
+            },
+            {
+                  "name": "D. P. Bagaevtyn' muzei-uii",
+                  "text": "Dieses historische Haus war das Wohnhaus und Atelier von Dmitri Bagajew, einem wegweisenden lokalen Fotografen und Historiker.",
+                  "category": "museum",
+                  "coords": [
+                        76.939819,
+                        52.272363
+                  ]
+            },
+            {
+                  "name": "Ak' meshit",
+                  "text": "Bekannt als die Weiße Moschee, ist dieses historische steinerne Gotteshaus eines der ältesten der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        76.943272,
+                        52.27742
+                  ]
+            },
+            {
+                  "name": "G. N. Potanin at. Pavlodar Oblystyk' Tarikhi-Olketanu Mu'razhaiy",
+                  "text": "Das Potanin-Heimatmuseum zeigt umfangreiche Sammlungen von skythischem Gold und regionalen ethnografischen Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        76.939902,
+                        52.277529
+                  ]
+            },
+            {
+                  "name": "Bu'k'ar zhyrau atyndag'y @debiet zh@ne oner muzeii",
+                  "text": "Dieses Literatur- und Kunstmuseum erinnert an die Werke von Buchar-Schyrau und anderen kasachischen Schriftstellern.",
+                  "category": "museum",
+                  "coords": [
+                        76.94371,
+                        52.282638
+                  ]
+            },
+            {
+                  "name": "M@shhur Zhusip meshiti",
+                  "text": "Ein architektonisches Wahrzeichen mit einer himmelblauen Kuppel in Form eines achtzackigen Sterns und vier hohen Minaretten.",
+                  "category": "religious",
+                  "coords": [
+                        76.962304,
+                        52.286491
+                  ]
+            },
+            {
+                  "name": "Chudo-park",
+                  "text": "Ein Familienunterhaltungszentrum mit Karussells, Trampolinen und verschiedenen Spielplätzen für kleine Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        76.986344,
+                        52.274224
+                  ]
+            },
+            {
+                  "name": "Bala Isanyn' @ulie Tereza shirkeui",
+                  "text": "Eine örtliche Pfarrkirche, die der heiligen Therese vom Kinde Jesu gewidmet ist und der katholischen Gemeinde von Pawlodar dient.",
+                  "category": "religious",
+                  "coords": [
+                        77.007471,
+                        52.289861
+                  ]
+            },
+            {
+                  "name": "Chasovnia Sviatogo Nikolaia",
+                  "text": "Eine kleine, elegante Steinkapelle, die dem heiligen Nikolaus gewidmet ist und sich in der Nähe der Uferpromenade des Irtysch befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        76.926037,
+                        52.296254
+                  ]
+            },
+            {
+                  "name": "Khristorozhdestvenskii sobor",
+                  "text": "Eine große orthodoxe Kathedrale, die als wichtiges spirituelles und kulturelles Zentrum der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        76.938019,
+                        52.273548
+                  ]
+            },
+            {
+                  "name": "Bizhan",
+                  "text": "Eine Vorstadtmoschee, die einen ruhigen Ort für Gottesdienste und Gemeinschaftsgebete im örtlichen Viertel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        76.952802,
+                        52.273082
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Arkhistratiga Mikhaila",
+                  "text": "Eine russisch-orthodoxe Kirche im Industrieviertel der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        76.984529,
+                        52.276005
+                  ]
+            },
+            {
+                  "name": "Ukrainskaia greko-katolicheskii prikhod Sviatykh Peira i Pavla",
+                  "text": "Eine ukrainische griechisch-katholische Pfarrei, die eine religiöse Minderheit betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        76.987444,
+                        52.296906
+                  ]
+            },
+            {
+                  "name": "Novaia zhizn'",
+                  "text": "Moderne protestantische Kirche der \"New Life\" Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        77.005158,
+                        52.294296
+                  ]
+            },
+            {
+                  "name": "Monastyr' Sester Klarisek",
+                  "text": "Ein römisch-katholisches Kloster der Klarissen-Schwestern.",
+                  "category": "landmark",
+                  "coords": [
+                        77.008522,
+                        52.289873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shaferdin' muzei-uii",
+                  "text": "A Naum Safer Házimúzeum több mint 25 000 régi bakelitlemezből álló egyedülálló gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        76.948156,
+                        52.295561
+                  ]
+            },
+            {
+                  "name": "Pavlodarskii oblastnoi khudozhestvennyi muzei",
+                  "text": "Ez a regionális művészeti galéria kazah és nemzetközi művészek festményeinek és szobrainak változatos választékát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.939121,
+                        52.296718
+                  ]
+            },
+            {
+                  "name": "Asharshylyk kurbandaryna tagzym",
+                  "text": "Ünnepélyes emlékmű, amelyet a kazahsztáni tömeges éhínség áldozatainak emlékére állítottak.",
+                  "category": "historical",
+                  "coords": [
+                        76.925119,
+                        52.307309
+                  ]
+            },
+            {
+                  "name": "Pavlodarskii oblastnoi teatr dramy imeni A. P. Chekhova",
+                  "text": "Történelmi épületben működő klasszikus drámai színház, amelyet Anton Csehov író tiszteletére neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        76.938769,
+                        52.276735
+                  ]
+            },
+            {
+                  "name": "Viking Land",
+                  "text": "Szabadtéri vidámpark fából készült tematikus építményekkel, játékokkal és tevékenységekkel gyerekeknek és családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        76.990235,
+                        52.275046
+                  ]
+            },
+            {
+                  "name": "Zh. Aimauytov atyndag'y k'azak' muzyka-drama teatry",
+                  "text": "Ez a színház kazah nyelvű előadásoknak szentelt, ötvözve a hagyományos zenét a drámai művészetekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        76.971512,
+                        52.26644
+                  ]
+            },
+            {
+                  "name": "Miami",
+                  "text": "Népszerű vízparti strand üdülőhely az Irtis-folyónál, amely szabadidős létesítményeket és fürdőhelyeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        76.89388,
+                        52.275977
+                  ]
+            },
+            {
+                  "name": "Isa Baizak'ov atyndag'y Pavlodar oblystyk' filarmoniiasy",
+                  "text": "A regionális filharmónia, amely szimfonikus koncerteknek és hagyományos kazah népzenei előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        76.967421,
+                        52.29739
+                  ]
+            },
+            {
+                  "name": "Muzei voinskoi slavy",
+                  "text": "Hadtörténeti múzeum, amely a második világháború fegyvereit, egyenruháit és fényképeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.948346,
+                        52.300148
+                  ]
+            },
+            {
+                  "name": "Shanyrak",
+                  "text": "A népi alkotóművészetnek szentelt kulturális helyszín, amely a kazah jurta jellegzetes kör alakú tetejéről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945479,
+                        52.297125
+                  ]
+            },
+            {
+                  "name": "Blagoveshchensk Shirkeui",
+                  "text": "Az Örömhír-székesegyház egy impozáns ortodox templom az Irtis partján, öt jellegzetes aranykupolával.",
+                  "category": "religious",
+                  "coords": [
+                        76.928377,
+                        52.295849
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi pliazh",
+                  "text": "A város fő homokos strandja, amely az Irtis-folyó festői partján található.",
+                  "category": "recreational",
+                  "coords": [
+                        76.935351,
+                        52.286214
+                  ]
+            },
+            {
+                  "name": "Ertis",
+                  "text": "Modern multimédiás múzeum, amely az Irtis-vidék geológiáját, történelmét és természeti környezetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.935737,
+                        52.279077
+                  ]
+            },
+            {
+                  "name": "Pavel Vasil'evtin' muzei-uii",
+                  "text": "Emlékmúzeum, amely a neves orosz költő, Pavel Vasziljev egykori családi házában található.",
+                  "category": "museum",
+                  "coords": [
+                        76.936932,
+                        52.273495
+                  ]
+            },
+            {
+                  "name": "D. P. Bagaevtyn' muzei-uii",
+                  "text": "Ez a történelmi ház Dmitrij Bagajev, az úttörő helyi fotográfus és történész otthona és műterme volt.",
+                  "category": "museum",
+                  "coords": [
+                        76.939819,
+                        52.272363
+                  ]
+            },
+            {
+                  "name": "Ak' meshit",
+                  "text": "A Fehér Mecsetként ismert történelmi kő istentiszteleti hely a város egyik legrégebbi mecsete.",
+                  "category": "religious",
+                  "coords": [
+                        76.943272,
+                        52.27742
+                  ]
+            },
+            {
+                  "name": "G. N. Potanin at. Pavlodar Oblystyk' Tarikhi-Olketanu Mu'razhaiy",
+                  "text": "A Potanin Helytörténeti Múzeum szkíta aranytárgyak és regionális néprajzi emlékek kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        76.939902,
+                        52.277529
+                  ]
+            },
+            {
+                  "name": "Bu'k'ar zhyrau atyndag'y @debiet zh@ne oner muzeii",
+                  "text": "Ez az irodalmi és művészeti múzeum Buhar-Zsiraunak és más kazah íróknak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        76.94371,
+                        52.282638
+                  ]
+            },
+            {
+                  "name": "M@shhur Zhusip meshiti",
+                  "text": "Építészeti nevezetesség, amely nyolcágú csillag alakú égkék kupolával és négy magas minarettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        76.962304,
+                        52.286491
+                  ]
+            },
+            {
+                  "name": "Chudo-park",
+                  "text": "Családi szórakoztató központ körhintákkal, trambulinokkal és különféle játszóterekkel kisgyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        76.986344,
+                        52.274224
+                  ]
+            },
+            {
+                  "name": "Bala Isanyn' @ulie Tereza shirkeui",
+                  "text": "A Lisieux-i Szent Teréznek szentelt helyi plébániatemplom, amely Pavlodar katolikus közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        77.007471,
+                        52.289861
+                  ]
+            },
+            {
+                  "name": "Chasovnia Sviatogo Nikolaia",
+                  "text": "Kicsi, elegáns kőkápolna Szent Miklós tiszteletére, amely az Irtis-parti sétány közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        76.926037,
+                        52.296254
+                  ]
+            },
+            {
+                  "name": "Khristorozhdestvenskii sobor",
+                  "text": "Nagy ortodox székesegyház, amely a város jelentős spirituális és kulturális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        76.938019,
+                        52.273548
+                  ]
+            },
+            {
+                  "name": "Bizhan",
+                  "text": "Városkörnyéki mecset, amely csendes helyet biztosít az istentisztelethez és a közösségi imákhoz a helyi kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        76.952802,
+                        52.273082
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Arkhistratiga Mikhaila",
+                  "text": "Orosz ortodox templom a város ipari negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        76.984529,
+                        52.276005
+                  ]
+            },
+            {
+                  "name": "Ukrainskaia greko-katolicheskii prikhod Sviatykh Peira i Pavla",
+                  "text": "Ukrán görögkatolikus plébánia, amely egy helyi vallási kisebbséget szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        76.987444,
+                        52.296906
+                  ]
+            },
+            {
+                  "name": "Novaia zhizn'",
+                  "text": "A \"New Life\" gyülekezet modern protestáns temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        77.005158,
+                        52.294296
+                  ]
+            },
+            {
+                  "name": "Monastyr' Sester Klarisek",
+                  "text": "A Klarissza nővérek római katolikus kolostora.",
+                  "category": "landmark",
+                  "coords": [
+                        77.008522,
+                        52.289873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shaferdin' muzei-uii",
+                  "text": "Casa-Muzeu Naum Shafer adăpostește o colecție unică de peste 25.000 de discuri de vinil vintage.",
+                  "category": "museum",
+                  "coords": [
+                        76.948156,
+                        52.295561
+                  ]
+            },
+            {
+                  "name": "Pavlodarskii oblastnoi khudozhestvennyi muzei",
+                  "text": "Această galerie de artă regională expune o gamă diversă de picturi și sculpturi realizate de artiști kazahi și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        76.939121,
+                        52.296718
+                  ]
+            },
+            {
+                  "name": "Asharshylyk kurbandaryna tagzym",
+                  "text": "Un monument solemn dedicat memoriei victimelor care au suferit în timpul foametei în masă din Kazahstan.",
+                  "category": "historical",
+                  "coords": [
+                        76.925119,
+                        52.307309
+                  ]
+            },
+            {
+                  "name": "Pavlodarskii oblastnoi teatr dramy imeni A. P. Chekhova",
+                  "text": "Un teatru de dramă clasică găzduit într-o clădire istorică, numit în onoarea scriitorului Anton Cehov.",
+                  "category": "cultural",
+                  "coords": [
+                        76.938769,
+                        52.276735
+                  ]
+            },
+            {
+                  "name": "Viking Land",
+                  "text": "Un parc de distracții în aer liber cu structuri tematice din lemn, atracții și activități pentru copii și familii.",
+                  "category": "recreational",
+                  "coords": [
+                        76.990235,
+                        52.275046
+                  ]
+            },
+            {
+                  "name": "Zh. Aimauytov atyndag'y k'azak' muzyka-drama teatry",
+                  "text": "Acest teatru este dedicat spectacolelor în limba kazahă, îmbinând muzica tradițională cu artele dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        76.971512,
+                        52.26644
+                  ]
+            },
+            {
+                  "name": "Miami",
+                  "text": "O stațiune balneară populară pe malul râului Irtîș, care oferă facilități de agrement și zone de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        76.89388,
+                        52.275977
+                  ]
+            },
+            {
+                  "name": "Isa Baizak'ov atyndag'y Pavlodar oblystyk' filarmoniiasy",
+                  "text": "Filarmonica regională care găzduiește concerte simfonice și spectacole de muzică populară tradițională kazahă.",
+                  "category": "cultural",
+                  "coords": [
+                        76.967421,
+                        52.29739
+                  ]
+            },
+            {
+                  "name": "Muzei voinskoi slavy",
+                  "text": "Un muzeu de istorie militară care expune arme, uniforme și fotografii din cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        76.948346,
+                        52.300148
+                  ]
+            },
+            {
+                  "name": "Shanyrak",
+                  "text": "Un centru cultural axat pe creativitatea populară, numit după vârful circular iconic al unei iurte kazahe.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945479,
+                        52.297125
+                  ]
+            },
+            {
+                  "name": "Blagoveshchensk Shirkeui",
+                  "text": "Catedrala Bunei Vestiri este o biserică ortodoxă impunătoare pe malul Irtîșului, cu cinci cupole aurii proeminente.",
+                  "category": "religious",
+                  "coords": [
+                        76.928377,
+                        52.295849
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi pliazh",
+                  "text": "Principala plajă cu nisip a orașului, situată de-a lungul falezei pitorești a râului Irtîș.",
+                  "category": "recreational",
+                  "coords": [
+                        76.935351,
+                        52.286214
+                  ]
+            },
+            {
+                  "name": "Ertis",
+                  "text": "Un muzeu multimedia modern care detaliază geologia, istoria și mediul natural al regiunii Irtîș.",
+                  "category": "museum",
+                  "coords": [
+                        76.935737,
+                        52.279077
+                  ]
+            },
+            {
+                  "name": "Pavel Vasil'evtin' muzei-uii",
+                  "text": "Un muzeu memorial situat în fosta casă a familiei cunoscutului poet rus Pavel Vasiliev.",
+                  "category": "museum",
+                  "coords": [
+                        76.936932,
+                        52.273495
+                  ]
+            },
+            {
+                  "name": "D. P. Bagaevtyn' muzei-uii",
+                  "text": "Această casă istorică a fost locuința și studioul lui Dmitri Bagaev, un fotograf și istoric local de pionierat.",
+                  "category": "museum",
+                  "coords": [
+                        76.939819,
+                        52.272363
+                  ]
+            },
+            {
+                  "name": "Ak' meshit",
+                  "text": "Cunoscută sub numele de Moscheea Albă, acest lăcaș de cult istoric din piatră este unul dintre cele mai vechi din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        76.943272,
+                        52.27742
+                  ]
+            },
+            {
+                  "name": "G. N. Potanin at. Pavlodar Oblystyk' Tarikhi-Olketanu Mu'razhaiy",
+                  "text": "Muzeul de Istorie Locală Potanin prezintă colecții vaste de aur scit și artefacte etnografice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        76.939902,
+                        52.277529
+                  ]
+            },
+            {
+                  "name": "Bu'k'ar zhyrau atyndag'y @debiet zh@ne oner muzeii",
+                  "text": "Acest muzeu de literatură și artă comemorează lucrările lui Buhar-Jîrau și ale altor scriitori kazahi.",
+                  "category": "museum",
+                  "coords": [
+                        76.94371,
+                        52.282638
+                  ]
+            },
+            {
+                  "name": "M@shhur Zhusip meshiti",
+                  "text": "Un punct de reper arhitectural cu o cupolă albastru-azuriu în formă de stea cu opt colțuri și patru minarete înalte.",
+                  "category": "religious",
+                  "coords": [
+                        76.962304,
+                        52.286491
+                  ]
+            },
+            {
+                  "name": "Chudo-park",
+                  "text": "Un centru de divertisment pentru familii, cu caruseluri, trambuline și diverse locuri de joacă pentru copii mici.",
+                  "category": "recreational",
+                  "coords": [
+                        76.986344,
+                        52.274224
+                  ]
+            },
+            {
+                  "name": "Bala Isanyn' @ulie Tereza shirkeui",
+                  "text": "O biserică parohială locală dedicată Sfintei Tereza a Pruncului Isus, servind comunitatea catolică din Pavlodar.",
+                  "category": "religious",
+                  "coords": [
+                        77.007471,
+                        52.289861
+                  ]
+            },
+            {
+                  "name": "Chasovnia Sviatogo Nikolaia",
+                  "text": "O mică și elegantă chapelă de piatră dedicată Sfântului Nicolae, situată lângă faleza râului Irtîș.",
+                  "category": "landmark",
+                  "coords": [
+                        76.926037,
+                        52.296254
+                  ]
+            },
+            {
+                  "name": "Khristorozhdestvenskii sobor",
+                  "text": "O catedrală ortodoxă mare care servește drept centru spiritual și cultural major pentru oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        76.938019,
+                        52.273548
+                  ]
+            },
+            {
+                  "name": "Bizhan",
+                  "text": "O moschee suburbană care oferă un loc liniștit pentru cult și rugăciuni comunitare în districtul local.",
+                  "category": "landmark",
+                  "coords": [
+                        76.952802,
+                        52.273082
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Arkhistratiga Mikhaila",
+                  "text": "O biserică ortodoxă rusă situată în cartierul industrial al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        76.984529,
+                        52.276005
+                  ]
+            },
+            {
+                  "name": "Ukrainskaia greko-katolicheskii prikhod Sviatykh Peira i Pavla",
+                  "text": "Parohie greco-catolică ucraineană care deservește o minoritate religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        76.987444,
+                        52.296906
+                  ]
+            },
+            {
+                  "name": "Novaia zhizn'",
+                  "text": "Biserică protestantă modernă a comunității \"New Life\".",
+                  "category": "landmark",
+                  "coords": [
+                        77.005158,
+                        52.294296
+                  ]
+            },
+            {
+                  "name": "Monastyr' Sester Klarisek",
+                  "text": "Mănăstire romano-catolică a surorilor Clarise.",
+                  "category": "landmark",
+                  "coords": [
+                        77.008522,
+                        52.289873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shaferdin' muzei-uii",
+                  "text": "The Naum Shafer House-Museum houses a unique collection of over 25,000 vintage vinyl records.",
+                  "category": "museum",
+                  "coords": [
+                        76.948156,
+                        52.295561
+                  ]
+            },
+            {
+                  "name": "Pavlodarskii oblastnoi khudozhestvennyi muzei",
+                  "text": "This regional art gallery displays a diverse range of paintings and sculptures by Kazakh and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        76.939121,
+                        52.296718
+                  ]
+            },
+            {
+                  "name": "Asharshylyk kurbandaryna tagzym",
+                  "text": "A solemn monument dedicated to the memory of the victims who suffered during the mass famine in Kazakhstan.",
+                  "category": "historical",
+                  "coords": [
+                        76.925119,
+                        52.307309
+                  ]
+            },
+            {
+                  "name": "Pavlodarskii oblastnoi teatr dramy imeni A. P. Chekhova",
+                  "text": "A classical drama theatre housed in a historic building, named in honor of the writer Anton Chekhov.",
+                  "category": "cultural",
+                  "coords": [
+                        76.938769,
+                        52.276735
+                  ]
+            },
+            {
+                  "name": "Viking Land",
+                  "text": "An outdoor amusement park with wooden themed structures, rides, and activities for children and families.",
+                  "category": "recreational",
+                  "coords": [
+                        76.990235,
+                        52.275046
+                  ]
+            },
+            {
+                  "name": "Zh. Aimauytov atyndag'y k'azak' muzyka-drama teatry",
+                  "text": "This theatre is dedicated to performances in the Kazakh language, blending traditional music with dramatic arts.",
+                  "category": "cultural",
+                  "coords": [
+                        76.971512,
+                        52.26644
+                  ]
+            },
+            {
+                  "name": "Miami",
+                  "text": "A popular riverside beach resort on the Irtysh River, offering leisure facilities and swimming areas.",
+                  "category": "recreational",
+                  "coords": [
+                        76.89388,
+                        52.275977
+                  ]
+            },
+            {
+                  "name": "Isa Baizak'ov atyndag'y Pavlodar oblystyk' filarmoniiasy",
+                  "text": "The regional philharmonic hall hosting symphonic concerts and performances of traditional Kazakh folk music.",
+                  "category": "cultural",
+                  "coords": [
+                        76.967421,
+                        52.29739
+                  ]
+            },
+            {
+                  "name": "Muzei voinskoi slavy",
+                  "text": "A military history museum showcasing weapons, uniforms, and photographs from World War II.",
+                  "category": "museum",
+                  "coords": [
+                        76.948346,
+                        52.300148
+                  ]
+            },
+            {
+                  "name": "Shanyrak",
+                  "text": "A cultural venue focused on folk creativity, named after the iconic circular top of a Kazakh yurt.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945479,
+                        52.297125
+                  ]
+            },
+            {
+                  "name": "Blagoveshchensk Shirkeui",
+                  "text": "The Annunciation Cathedral is a grand Orthodox church on the Irtysh bank with five prominent golden domes.",
+                  "category": "religious",
+                  "coords": [
+                        76.928377,
+                        52.295849
+                  ]
+            },
+            {
+                  "name": "Tsentral'nyi pliazh",
+                  "text": "The main sandy beach of the city, located along the scenic embankment of the Irtysh River.",
+                  "category": "recreational",
+                  "coords": [
+                        76.935351,
+                        52.286214
+                  ]
+            },
+            {
+                  "name": "Ertis",
+                  "text": "A modern multimedia museum that details the geology, history, and natural environment of the Irtysh region.",
+                  "category": "museum",
+                  "coords": [
+                        76.935737,
+                        52.279077
+                  ]
+            },
+            {
+                  "name": "Pavel Vasil'evtin' muzei-uii",
+                  "text": "A memorial museum located in the former family home of the prominent Russian poet Pavel Vasilyev.",
+                  "category": "museum",
+                  "coords": [
+                        76.936932,
+                        52.273495
+                  ]
+            },
+            {
+                  "name": "D. P. Bagaevtyn' muzei-uii",
+                  "text": "This historic house was the home and studio of Dmitry Bagaev, a pioneering local photographer and historian.",
+                  "category": "museum",
+                  "coords": [
+                        76.939819,
+                        52.272363
+                  ]
+            },
+            {
+                  "name": "Ak' meshit",
+                  "text": "Known as the White Mosque, this historic stone place of worship is one of the oldest in the city.",
+                  "category": "religious",
+                  "coords": [
+                        76.943272,
+                        52.27742
+                  ]
+            },
+            {
+                  "name": "G. N. Potanin at. Pavlodar Oblystyk' Tarikhi-Olketanu Mu'razhaiy",
+                  "text": "The Potanin Local History Museum features extensive collections of Scythian gold and regional ethnographic artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        76.939902,
+                        52.277529
+                  ]
+            },
+            {
+                  "name": "Bu'k'ar zhyrau atyndag'y @debiet zh@ne oner muzeii",
+                  "text": "This museum of literature and art commemorates the works of Bukhar-Zhyrau and other Kazakh writers.",
+                  "category": "museum",
+                  "coords": [
+                        76.94371,
+                        52.282638
+                  ]
+            },
+            {
+                  "name": "Mashkhur Jusup Mosque",
+                  "text": "An architectural landmark featuring a sky-blue dome shaped like an eight-pointed star and four tall minarets.",
+                  "category": "religious",
+                  "coords": [
+                        76.962304,
+                        52.286491
+                  ]
+            },
+            {
+                  "name": "Chudo-park",
+                  "text": "A family entertainment center with carousels, trampolines, and various playgrounds for young children.",
+                  "category": "recreational",
+                  "coords": [
+                        76.986344,
+                        52.274224
+                  ]
+            },
+            {
+                  "name": "Bala Isanyn' @ulie Tereza shirkeui",
+                  "text": "A local parish church dedicated to Saint Thérèse of the Child Jesus, serving Pavlodar's Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        77.007471,
+                        52.289861
+                  ]
+            },
+            {
+                  "name": "Chasovnia Sviatogo Nikolaia",
+                  "text": "A small, elegant stone chapel dedicated to Saint Nicholas, located near the Irtysh riverside walkway.",
+                  "category": "landmark",
+                  "coords": [
+                        76.926037,
+                        52.296254
+                  ]
+            },
+            {
+                  "name": "Khristorozhdestvenskii sobor",
+                  "text": "A large Orthodox cathedral that serves as a major spiritual and cultural center for the city.",
+                  "category": "landmark",
+                  "coords": [
+                        76.938019,
+                        52.273548
+                  ]
+            },
+            {
+                  "name": "Bizhan",
+                  "text": "A suburban mosque providing a quiet place for worship and community prayers in the local district.",
+                  "category": "landmark",
+                  "coords": [
+                        76.952802,
+                        52.273082
+                  ]
+            },
+            {
+                  "name": "Khram vo imia Arkhistratiga Mikhaila",
+                  "text": "A Russian Orthodox church located in the city's industrial district.",
+                  "category": "landmark",
+                  "coords": [
+                        76.984529,
+                        52.276005
+                  ]
+            },
+            {
+                  "name": "Ukrainskaia greko-katolicheskii prikhod Sviatykh Peira i Pavla",
+                  "text": "Ukrainian Greek-Catholic parish serving a local religious minority.",
+                  "category": "landmark",
+                  "coords": [
+                        76.987444,
+                        52.296906
+                  ]
+            },
+            {
+                  "name": "Novaia zhizn'",
+                  "text": "Modern Protestant church belonging to the \"New Life\" congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        77.005158,
+                        52.294296
+                  ]
+            },
+            {
+                  "name": "Monastyr' Sester Klarisek",
+                  "text": "Roman Catholic monastery of the Poor Clare sisters.",
+                  "category": "landmark",
+                  "coords": [
+                        77.008522,
+                        52.289873
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KZ-PAV",
     coords: [77.0000, 52.3000],
@@ -471,7 +5520,448 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "shymkent-oil-refinery-economic-v2",
+    id: "shymkent-oil-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Avatariya",
+                  "text": "Ein moderner Freizeitpark in Schymkent, der eine Vielzahl von Attraktionen und Fahrgeschäften für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        69.529982,
+                        42.349725
+                  ]
+            },
+            {
+                  "name": "Torlan",
+                  "text": "Eine Moschee im Stadtviertel Torlan in Schymkent, die durch ihre schlichte, funktionale Bauweise besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        69.495244,
+                        42.380369
+                  ]
+            },
+            {
+                  "name": "Khram Dimitriia Solunskogo",
+                  "text": "Eine orthodoxe Kirche in Schymkent, die dem Heiligen Demetrius von Thessaloniki geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        69.497266,
+                        42.382325
+                  ]
+            },
+            {
+                  "name": "Pravoslavnaia tserkov' Khram Ikony Bozh'ei Materi \"Kazanskaia\"",
+                  "text": "Eine russisch-orthodoxe Kirche in Schymkent, die die verehrte Ikone der Gottesmutter von Kasan beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.552663,
+                        42.320366
+                  ]
+            },
+            {
+                  "name": "Akmechet' im. sheikha Khalify ben Zaida an-Nakhaiiana",
+                  "text": "Eine majestätische weiße Moschee in Schymkent, die als eine der größten und modernsten der Stadt gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        69.529317,
+                        42.351482
+                  ]
+            },
+            {
+                  "name": "Avtorynok",
+                  "text": "Der weitläufige Automarkt von Schymkent ist ein zentraler Handelsplatz für Fahrzeuge und Zubehör in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        69.56035,
+                        42.286318
+                  ]
+            },
+            {
+                  "name": "rynok Alash",
+                  "text": "Ein großer, geschäftiger Markt in Schymkent, der eine enorme Auswahl an Textilien und Haushaltswaren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.52918,
+                        42.354692
+                  ]
+            },
+            {
+                  "name": "Zhibek zholy",
+                  "text": "Ein nach der Seidenstraße benannter Markt in Schymkent, der an die historische Bedeutung des Handels erinnert.",
+                  "category": "cultural",
+                  "coords": [
+                        69.515113,
+                        42.321196
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "Dieser Fachmarkt bietet eine breite Auswahl an Baumaterialien und Werkzeugen für Renovierungsprojekte.",
+                  "category": "cultural",
+                  "coords": [
+                        69.552838,
+                        42.315337
+                  ]
+            },
+            {
+                  "name": "Avto Argymak",
+                  "text": "Ein geschäftiger Handelsplatz, der auf Fahrzeugersatzteile und verschiedenstes Autozubehör spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        69.545309,
+                        42.25888
+                  ]
+            },
+            {
+                  "name": "Rynok Birlik",
+                  "text": "Ein lokaler Marktplatz, auf dem Anwohner frische Lebensmittel und Waren des täglichen Bedarfs kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        69.54325,
+                        42.245391
+                  ]
+            },
+            {
+                  "name": "Nurly zhol",
+                  "text": "Dieses Handelsviertel versorgt die Gemeinde in der Nähe der Raffinerie mit wichtigen Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        69.502624,
+                        42.374043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Avatariya",
+                  "text": "Egy modern vidámpark Simkentben, amely számos látnivalót és játékot kínál családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        69.529982,
+                        42.349725
+                  ]
+            },
+            {
+                  "name": "Torlan",
+                  "text": "Egy mecset Simkent Torlan negyedében, amely egyszerű, funkcionális kialakításával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        69.495244,
+                        42.380369
+                  ]
+            },
+            {
+                  "name": "Khram Dimitriia Solunskogo",
+                  "text": "Egy ortodox templom Simkentben, amelyet Thesszaloniki Szent Demeternek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        69.497266,
+                        42.382325
+                  ]
+            },
+            {
+                  "name": "Pravoslavnaia tserkov' Khram Ikony Bozh'ei Materi \"Kazanskaia\"",
+                  "text": "Egy orosz ortodox templom Simkentben, amely a Kazanyi Istenanya tisztelt ikonjának ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        69.552663,
+                        42.320366
+                  ]
+            },
+            {
+                  "name": "Akmechet' im. sheikha Khalify ben Zaida an-Nakhaiiana",
+                  "text": "Egy fenséges fehér mecset Simkentben, amely a város egyik legnagyobb és legmodernebb imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        69.529317,
+                        42.351482
+                  ]
+            },
+            {
+                  "name": "Avtorynok",
+                  "text": "Simkent kiterjedt autópiaca a járművek és kiegészítők központi kereskedelmi helye a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        69.56035,
+                        42.286318
+                  ]
+            },
+            {
+                  "name": "rynok Alash",
+                  "text": "Egy nagy, forgalmas piac Simkentben, amely textilek és háztartási cikkek hatalmas választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.52918,
+                        42.354692
+                  ]
+            },
+            {
+                  "name": "Zhibek zholy",
+                  "text": "Egy a Selyemútról elnevezett piac Simkentben, amely a kereskedelem történelmi jelentőségére emlékeztet.",
+                  "category": "cultural",
+                  "coords": [
+                        69.515113,
+                        42.321196
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "Ez a szakpiac építőanyagok és felújítási eszközök széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        69.552838,
+                        42.315337
+                  ]
+            },
+            {
+                  "name": "Avto Argymak",
+                  "text": "Forgalmas kereskedőhely, amely autóalkatrészekre és különféle gépjármű-tartozékokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        69.545309,
+                        42.25888
+                  ]
+            },
+            {
+                  "name": "Rynok Birlik",
+                  "text": "Helyi piactér, ahol a környékbeliek friss élelmiszereket és napi fogyasztási cikkeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        69.54325,
+                        42.245391
+                  ]
+            },
+            {
+                  "name": "Nurly zhol",
+                  "text": "Ez a kereskedelmi negyed alapvető háztartási cikkekkel látja el a finomító közelében élő közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        69.502624,
+                        42.374043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Avatariya",
+                  "text": "Un parc de distracții modern în Șimkent, care oferă o varietate de atracții și carusele pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        69.529982,
+                        42.349725
+                  ]
+            },
+            {
+                  "name": "Torlan",
+                  "text": "O moschee în cartierul Torlan din Șimkent, remarcabilă prin designul său simplu și funcțional.",
+                  "category": "landmark",
+                  "coords": [
+                        69.495244,
+                        42.380369
+                  ]
+            },
+            {
+                  "name": "Khram Dimitriia Solunskogo",
+                  "text": "O biserică ortodoxă din Șimkent, sfințită în onoarea Sfântului Dimitrie din Salonic.",
+                  "category": "landmark",
+                  "coords": [
+                        69.497266,
+                        42.382325
+                  ]
+            },
+            {
+                  "name": "Pravoslavnaia tserkov' Khram Ikony Bozh'ei Materi \"Kazanskaia\"",
+                  "text": "O biserică ortodoxă rusă din Șimkent, care adăpostește icoana venerată a Maicii Domnului din Kazan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.552663,
+                        42.320366
+                  ]
+            },
+            {
+                  "name": "Akmechet' im. sheikha Khalify ben Zaida an-Nakhaiiana",
+                  "text": "O maiestuoasă moschee albă în Șimkent, considerată una dintre cele mai mari și mai moderne din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        69.529317,
+                        42.351482
+                  ]
+            },
+            {
+                  "name": "Avtorynok",
+                  "text": "Piața auto extinsă din Șimkent este un centru comercial major pentru vehicule și accesorii în regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        69.56035,
+                        42.286318
+                  ]
+            },
+            {
+                  "name": "rynok Alash",
+                  "text": "O piață mare și aglomerată în Șimkent, care oferă o selecție vastă de textile și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        69.52918,
+                        42.354692
+                  ]
+            },
+            {
+                  "name": "Zhibek zholy",
+                  "text": "O piață numită după Drumul Mătăsii în Șimkent, amintind de importanța istorică a comerțului.",
+                  "category": "cultural",
+                  "coords": [
+                        69.515113,
+                        42.321196
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "Această piață de profil oferă o gamă largă de materiale de construcții și unelte pentru renovări.",
+                  "category": "cultural",
+                  "coords": [
+                        69.552838,
+                        42.315337
+                  ]
+            },
+            {
+                  "name": "Avto Argymak",
+                  "text": "Un loc de comerț aglomerat, specializat în piese de schimb pentru vehicule și diverse accesorii auto.",
+                  "category": "cultural",
+                  "coords": [
+                        69.545309,
+                        42.25888
+                  ]
+            },
+            {
+                  "name": "Rynok Birlik",
+                  "text": "O piață locală unde locuitorii cumpără alimente proaspete și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        69.54325,
+                        42.245391
+                  ]
+            },
+            {
+                  "name": "Nurly zhol",
+                  "text": "Acest district comercial aprovizionează comunitatea de lângă rafinărie cu articole de uz casnic esențiale.",
+                  "category": "cultural",
+                  "coords": [
+                        69.502624,
+                        42.374043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Avatariya",
+                  "text": "A modern amusement park in Shymkent offering a variety of attractions and rides for families.",
+                  "category": "recreational",
+                  "coords": [
+                        69.529982,
+                        42.349725
+                  ]
+            },
+            {
+                  "name": "Torlan",
+                  "text": "A mosque in the Torlan neighborhood of Shymkent, notable for its simple, functional design.",
+                  "category": "landmark",
+                  "coords": [
+                        69.495244,
+                        42.380369
+                  ]
+            },
+            {
+                  "name": "Khram Dimitriia Solunskogo",
+                  "text": "An Orthodox church in Shymkent, consecrated in honor of Saint Demetrius of Thessaloniki.",
+                  "category": "landmark",
+                  "coords": [
+                        69.497266,
+                        42.382325
+                  ]
+            },
+            {
+                  "name": "Pravoslavnaia tserkov' Khram Ikony Bozh'ei Materi \"Kazanskaia\"",
+                  "text": "A Russian Orthodox church in Shymkent housing the revered Icon of the Mother of God of Kazan.",
+                  "category": "landmark",
+                  "coords": [
+                        69.552663,
+                        42.320366
+                  ]
+            },
+            {
+                  "name": "Sheikh Khalifa bin Zayed al-Nahyan Akmechet.",
+                  "text": "A majestic white mosque in Shymkent, considered one of the largest and most modern in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        69.529317,
+                        42.351482
+                  ]
+            },
+            {
+                  "name": "Avtorynok",
+                  "text": "Shymkent's extensive auto market is a major commercial hub for vehicles and accessories in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        69.56035,
+                        42.286318
+                  ]
+            },
+            {
+                  "name": "rynok Alash",
+                  "text": "A large, busy market in Shymkent offering a vast selection of textiles and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.52918,
+                        42.354692
+                  ]
+            },
+            {
+                  "name": "Zhibek zholy",
+                  "text": "A market named after the Silk Road in Shymkent, recalling the historical importance of trade.",
+                  "category": "cultural",
+                  "coords": [
+                        69.515113,
+                        42.321196
+                  ]
+            },
+            {
+                  "name": "Stroitel'nyi rynok",
+                  "text": "This specialized market offers a wide selection of building materials and tools for renovation projects.",
+                  "category": "cultural",
+                  "coords": [
+                        69.552838,
+                        42.315337
+                  ]
+            },
+            {
+                  "name": "Avto Argymak",
+                  "text": "A busy trading hub specializing in vehicle spare parts and various automotive accessories.",
+                  "category": "cultural",
+                  "coords": [
+                        69.545309,
+                        42.25888
+                  ]
+            },
+            {
+                  "name": "Rynok Birlik",
+                  "text": "A local marketplace where residents buy fresh groceries and everyday household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.54325,
+                        42.245391
+                  ]
+            },
+            {
+                  "name": "Nurly zhol",
+                  "text": "This commercial area supplies the community near the refinery with essential household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        69.502624,
+                        42.374043
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "KZ-SHY",
     coords: [69.5000, 42.3000],
@@ -543,7 +6033,88 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "ekibastuz-gres-2-power-station-economic-v2",
+    id: "ekibastuz-gres-2-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meshit",
+                  "text": "Meshit ist eine lokale muslimische Moschee in der Nähe des riesigen Kraftwerks Ekibastuz GRES-2.",
+                  "category": "landmark",
+                  "coords": [
+                        75.457883,
+                        52.036465
+                  ]
+            },
+            {
+                  "name": "Pravoslavie shirkeui",
+                  "text": "Pravoslavie shirkeui ist eine orthodoxe christliche Kirche, die in der Nähe des Kraftwerks Ekibastuz GRES-2 religiöse Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        75.462658,
+                        52.035908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meshit",
+                  "text": "A Meshit egy helyi muszlim mecset a hatalmas Ekibasztuz GRESZ-2 erőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        75.457883,
+                        52.036465
+                  ]
+            },
+            {
+                  "name": "Pravoslavie shirkeui",
+                  "text": "A Pravoslavie shirkeui egy ortodox keresztény templom, amely vallási szolgáltatásokat nyújt az Ekibasztuz GRESZ-2 erőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        75.462658,
+                        52.035908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meshit",
+                  "text": "Meshit este o moschee musulmană locală situată lângă masiva centrală electrică Ekibastuz GRES-2.",
+                  "category": "landmark",
+                  "coords": [
+                        75.457883,
+                        52.036465
+                  ]
+            },
+            {
+                  "name": "Pravoslavie shirkeui",
+                  "text": "Pravoslavie shirkeui este o biserică creștin ortodoxă care oferă servicii religioase în apropierea centralei electrice Ekibastuz GRES-2.",
+                  "category": "landmark",
+                  "coords": [
+                        75.462658,
+                        52.035908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meshit",
+                  "text": "Meshit is a local Muslim mosque situated near the massive Ekibastuz GRES-2 Power Station.",
+                  "category": "landmark",
+                  "coords": [
+                        75.457883,
+                        52.036465
+                  ]
+            },
+            {
+                  "name": "Pravoslavie shirkeui",
+                  "text": "Pravoslavie shirkeui is an Orthodox Christian church offering religious services near the Ekibastuz GRES-2 Power Station.",
+                  "category": "landmark",
+                  "coords": [
+                        75.462658,
+                        52.035908
+                  ]
+            }
+      ]
+},
     type: "energy",
     parent: "KZ-PAV",
     coords: [75.4000, 52.0000],
@@ -615,7 +6186,628 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     },
   },
   {
-    id: "sokolov-sarbai-iron-ore-plant-economic-v2",
+    id: "sokolov-sarbai-iron-ore-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "RUDNYI",
+                  "text": "Ein monumentales Wahrzeichen, das die industrielle Identität und den Bergbaugeist der Stadt Rudny symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        63.081657,
+                        52.95782
+                  ]
+            },
+            {
+                  "name": "V.I Lenin",
+                  "text": "Ein klassisches Denkmal für W.I. Lenin, das an einem zentralen Platz der Industriestadt Rudny steht.",
+                  "category": "historical",
+                  "coords": [
+                        63.104341,
+                        52.960269
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii Muzei",
+                  "text": "Das Heimatmuseum zeigt die geologische Geschichte der Region und die Entwicklung des Sokolov-Sarbai-Eisenerzkombinats.",
+                  "category": "museum",
+                  "coords": [
+                        63.103574,
+                        52.961477
+                  ]
+            },
+            {
+                  "name": "Marite Bezhite",
+                  "text": "Ein Denkmal zu Ehren von Marytė Melnikaitė, einer Heldin der Sowjetunion, im Zentrum von Rudny.",
+                  "category": "historical",
+                  "coords": [
+                        63.139098,
+                        52.969679
+                  ]
+            },
+            {
+                  "name": "Karatomary",
+                  "text": "Ein weitläufiger Sandstrand am Ufer des Karatomar-Stausees, ein beliebtes Naherholungsgebiet bei Rudny.",
+                  "category": "recreational",
+                  "coords": [
+                        62.990347,
+                        52.899391
+                  ]
+            },
+            {
+                  "name": "staryi gorodskoi pliazh",
+                  "text": "Der alte Stadtstrand am Fluss Tobol bietet den Einwohnern von Rudny einen sandigen Zugang zum Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        63.154036,
+                        52.956134
+                  ]
+            },
+            {
+                  "name": "Bogoiavlenskii khram",
+                  "text": "Die Epiphanias-Kathedrale in Rudny beeindruckt mit ihren glänzenden goldenen Kuppeln und traditioneller orthodoxer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        63.10863,
+                        52.956034
+                  ]
+            },
+            {
+                  "name": "Rudnyi Meshiti",
+                  "text": "Die Hauptmoschee von Rudny, ein modernes religiöses Zentrum mit einem markanten Minarett und Gebetssaal.",
+                  "category": "landmark",
+                  "coords": [
+                        63.114753,
+                        52.963941
+                  ]
+            },
+            {
+                  "name": "Rimsko-Katolicheskii prikhod",
+                  "text": "Die römisch-katholische Pfarrkirche in Rudny dient der örtlichen Gemeinde als Ort der Stille und Liturgie.",
+                  "category": "landmark",
+                  "coords": [
+                        63.123855,
+                        52.971057
+                  ]
+            },
+            {
+                  "name": "Fix Price",
+                  "text": "Ein moderner Discount-Markt in Rudny, der eine große Auswahl an Haushaltswaren zu Festpreisen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        63.097338,
+                        52.970598
+                  ]
+            },
+            {
+                  "name": "Ortalyk' Bazar",
+                  "text": "Der zentrale Markt von Rudny ist ein lebhafter Ort, an dem Bauern aus der Umgebung ihre frischen Erzeugnisse verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        63.148238,
+                        52.967987
+                  ]
+            },
+            {
+                  "name": "rynok Stroitel'",
+                  "text": "Ein spezialisierter Baumarkt in Rudny, der alles Notwendige für Bau- und Renovierungsarbeiten in der Industriestadt bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        63.145547,
+                        52.966344
+                  ]
+            },
+            {
+                  "name": "Svetofor",
+                  "text": "Ein großer Supermarkt in Rudny, der für seine günstigen Großhandelspreise und das breite Lebensmittelsortiment bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        63.082344,
+                        52.964676
+                  ]
+            },
+            {
+                  "name": "Universam",
+                  "text": "Ein klassisches Kaufhaus in Rudny, das eine Vielzahl von Waren für den täglichen Bedarf unter einem Dach vereint.",
+                  "category": "cultural",
+                  "coords": [
+                        63.092027,
+                        52.973567
+                  ]
+            },
+            {
+                  "name": "Bak-bak veshchevoi",
+                  "text": "Ein spezialisierter Bekleidungsmarkt in Rudny, der Textilien und Mode für alle Altersgruppen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        63.095592,
+                        52.969742
+                  ]
+            },
+            {
+                  "name": "Bak-Bak",
+                  "text": "Ein belebtes Einkaufszentrum in Rudny, das als zentraler Anlaufpunkt für Mode und Elektronik dient.",
+                  "category": "cultural",
+                  "coords": [
+                        63.093491,
+                        52.970306
+                  ]
+            },
+            {
+                  "name": "Voskhod",
+                  "text": "Ein traditioneller Marktbereich in Rudny, bekannt für sein Angebot an frischem Obst, Gemüse und Fleisch.",
+                  "category": "cultural",
+                  "coords": [
+                        63.129017,
+                        52.96332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "RUDNYI",
+                  "text": "Rudnij ipari identitását és bányászszellemét szimbolizáló monumentális emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        63.081657,
+                        52.95782
+                  ]
+            },
+            {
+                  "name": "V.I Lenin",
+                  "text": "Klasszikus Lenin-emlékmű, amely Rudnij iparvárosának egyik központi terén kapott helyet.",
+                  "category": "historical",
+                  "coords": [
+                        63.104341,
+                        52.960269
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii Muzei",
+                  "text": "A helytörténeti múzeum a régió geológiai múltját és a Szokolov-Szarbaj vasérckombinát fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        63.103574,
+                        52.961477
+                  ]
+            },
+            {
+                  "name": "Marite Bezhite",
+                  "text": "A Szovjetunió Hőse, Marytė Melnikaitė tiszteletére emelt szobor Rudnij központjában.",
+                  "category": "historical",
+                  "coords": [
+                        63.139098,
+                        52.969679
+                  ]
+            },
+            {
+                  "name": "Karatomary",
+                  "text": "A Karatomar-víztározó partján fekvő tágas homokos strand, amely Rudnij népszerű üdülőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        62.990347,
+                        52.899391
+                  ]
+            },
+            {
+                  "name": "staryi gorodskoi pliazh",
+                  "text": "A Tobol-folyó partján fekvő régi városi strand homokos parttal várja Rudnij lakóit.",
+                  "category": "recreational",
+                  "coords": [
+                        63.154036,
+                        52.956134
+                  ]
+            },
+            {
+                  "name": "Bogoiavlenskii khram",
+                  "text": "A rudniji Vízkereszt-székesegyház csillogó aranykupoláival és hagyományos ortodox építészetével nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        63.10863,
+                        52.956034
+                  ]
+            },
+            {
+                  "name": "Rudnyi Meshiti",
+                  "text": "Rudnij főmecsetje, egy modern vallási központ jellegzetes minarettel és imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        63.114753,
+                        52.963941
+                  ]
+            },
+            {
+                  "name": "Rimsko-Katolicheskii prikhod",
+                  "text": "Rudnij római katolikus plébániatemploma, amely a helyi közösség hitéletének és szertartásainak helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        63.123855,
+                        52.971057
+                  ]
+            },
+            {
+                  "name": "Fix Price",
+                  "text": "Modern diszkontáruház Rudnijban, amely háztartási cikkek széles választékát kínálja rögzített árakon.",
+                  "category": "cultural",
+                  "coords": [
+                        63.097338,
+                        52.970598
+                  ]
+            },
+            {
+                  "name": "Ortalyk' Bazar",
+                  "text": "Rudnij központi piaca egy nyüzsgő hely, ahol a környékbeli gazdák árulják friss terményeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        63.148238,
+                        52.967987
+                  ]
+            },
+            {
+                  "name": "rynok Stroitel'",
+                  "text": "Rudnij szakosodott építőanyag-piaca, ahol minden megtalálható, ami az építkezéshez és felújításhoz szükséges.",
+                  "category": "cultural",
+                  "coords": [
+                        63.145547,
+                        52.966344
+                  ]
+            },
+            {
+                  "name": "Svetofor",
+                  "text": "Nagyáruház Rudnijban, amely kedvező nagykereskedelmi árairól és széles élelmiszer-választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        63.082344,
+                        52.964676
+                  ]
+            },
+            {
+                  "name": "Universam",
+                  "text": "Klasszikus áruház Rudnijban, amely a mindennapi szükségletek széles skáláját kínálja egy fedél alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        63.092027,
+                        52.973567
+                  ]
+            },
+            {
+                  "name": "Bak-bak veshchevoi",
+                  "text": "Rudnij szakosodott ruházati piaca, amely textíliákat és divatárukat kínál minden korosztály számára.",
+                  "category": "cultural",
+                  "coords": [
+                        63.095592,
+                        52.969742
+                  ]
+            },
+            {
+                  "name": "Bak-Bak",
+                  "text": "Rudnij egyik forgalmas bevásárlóközpontja, amely a divat és az elektronika kedvelőinek központi helye.",
+                  "category": "cultural",
+                  "coords": [
+                        63.093491,
+                        52.970306
+                  ]
+            },
+            {
+                  "name": "Voskhod",
+                  "text": "Hagyományos piaci terület Rudnijban, amely friss gyümölcs-, zöldség- és húsáru-kínálatáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        63.129017,
+                        52.96332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "RUDNYI",
+                  "text": "Un monument grandios care simbolizează identitatea industrială și spiritul minier al orașului Rudnîi.",
+                  "category": "historical",
+                  "coords": [
+                        63.081657,
+                        52.95782
+                  ]
+            },
+            {
+                  "name": "V.I Lenin",
+                  "text": "Un monument clasic dedicat lui V.I. Lenin, situat într-o piață centrală din orașul industrial Rudnîi.",
+                  "category": "historical",
+                  "coords": [
+                        63.104341,
+                        52.960269
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii Muzei",
+                  "text": "Muzeul de istorie locală prezintă istoria geologică a regiunii și dezvoltarea combinatului de minereu de fier Sokolov-Sarbai.",
+                  "category": "museum",
+                  "coords": [
+                        63.103574,
+                        52.961477
+                  ]
+            },
+            {
+                  "name": "Marite Bezhite",
+                  "text": "Un monument ridicat în cinstea lui Marytė Melnikaitė, eroină a Uniunii Sovietice, situat în centrul orașului Rudnîi.",
+                  "category": "historical",
+                  "coords": [
+                        63.139098,
+                        52.969679
+                  ]
+            },
+            {
+                  "name": "Karatomary",
+                  "text": "O plajă de nisip întinsă pe malul rezervorului Karatomar, o zonă populară de recreere lângă Rudnîi.",
+                  "category": "recreational",
+                  "coords": [
+                        62.990347,
+                        52.899391
+                  ]
+            },
+            {
+                  "name": "staryi gorodskoi pliazh",
+                  "text": "Vechea plajă a orașului de pe malul râului Tobol oferă locuitorilor din Rudnîi acces la apă pe o zonă cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        63.154036,
+                        52.956134
+                  ]
+            },
+            {
+                  "name": "Bogoiavlenskii khram",
+                  "text": "Catedrala Epifaniei din Rudnîi impresionează prin cupolele sale aurii strălucitoare și arhitectura ortodoxă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        63.10863,
+                        52.956034
+                  ]
+            },
+            {
+                  "name": "Rudnyi Meshiti",
+                  "text": "Moscheea principală din Rudnîi, un centru religios modern cu un minaret și o sală de rugăciune distincte.",
+                  "category": "landmark",
+                  "coords": [
+                        63.114753,
+                        52.963941
+                  ]
+            },
+            {
+                  "name": "Rimsko-Katolicheskii prikhod",
+                  "text": "Parohia romano-catolică din Rudnîi servește comunitatea locală ca loc de liniște și liturghie.",
+                  "category": "landmark",
+                  "coords": [
+                        63.123855,
+                        52.971057
+                  ]
+            },
+            {
+                  "name": "Fix Price",
+                  "text": "Un magazin modern de tip discount în Rudnîi, care oferă o gamă largă de articole de uz casnic la prețuri fixe.",
+                  "category": "cultural",
+                  "coords": [
+                        63.097338,
+                        52.970598
+                  ]
+            },
+            {
+                  "name": "Ortalyk' Bazar",
+                  "text": "Piața centrală din Rudnîi este un loc plin de viață, unde fermierii din împrejurimi își vând produsele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        63.148238,
+                        52.967987
+                  ]
+            },
+            {
+                  "name": "rynok Stroitel'",
+                  "text": "O piață specializată în materiale de construcții în Rudnîi, oferind tot necesarul pentru lucrări de edificare și renovare.",
+                  "category": "cultural",
+                  "coords": [
+                        63.145547,
+                        52.966344
+                  ]
+            },
+            {
+                  "name": "Svetofor",
+                  "text": "Un supermarket mare din Rudnîi, cunoscut pentru prețurile sale de tip en-gros și sortimentul variat de alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        63.082344,
+                        52.964676
+                  ]
+            },
+            {
+                  "name": "Universam",
+                  "text": "Un magazin universal clasic din Rudnîi, care reunește sub același acoperiș o varietate de bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        63.092027,
+                        52.973567
+                  ]
+            },
+            {
+                  "name": "Bak-bak veshchevoi",
+                  "text": "O piață specializată în articole de îmbrăcăminte din Rudnîi, oferind textile și modă pentru toate vârstele.",
+                  "category": "cultural",
+                  "coords": [
+                        63.095592,
+                        52.969742
+                  ]
+            },
+            {
+                  "name": "Bak-Bak",
+                  "text": "Un centru comercial aglomerat din Rudnîi, care servește drept punct central pentru modă și electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        63.093491,
+                        52.970306
+                  ]
+            },
+            {
+                  "name": "Voskhod",
+                  "text": "O zonă de piață tradițională în Rudnîi, cunoscută pentru oferta sa de fructe proaspete, legume și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        63.129017,
+                        52.96332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "RUDNYI",
+                  "text": "A monumental landmark symbolizing the industrial identity and mining spirit of the city of Rudny.",
+                  "category": "historical",
+                  "coords": [
+                        63.081657,
+                        52.95782
+                  ]
+            },
+            {
+                  "name": "V.I Lenin",
+                  "text": "A classic monument to V.I. Lenin standing in a central square of the industrial city of Rudny.",
+                  "category": "historical",
+                  "coords": [
+                        63.104341,
+                        52.960269
+                  ]
+            },
+            {
+                  "name": "Kraevedcheskii Muzei",
+                  "text": "The local history museum showcases the geological history of the region and the development of the Sokolov-Sarbai iron ore plant.",
+                  "category": "museum",
+                  "coords": [
+                        63.103574,
+                        52.961477
+                  ]
+            },
+            {
+                  "name": "Marite Bezhite",
+                  "text": "A monument honoring Marytė Melnikaitė, a Hero of the Soviet Union, located in the center of Rudny.",
+                  "category": "historical",
+                  "coords": [
+                        63.139098,
+                        52.969679
+                  ]
+            },
+            {
+                  "name": "Karatomary",
+                  "text": "A spacious sandy beach on the shores of the Karatomar Reservoir, a popular recreation area near Rudny.",
+                  "category": "recreational",
+                  "coords": [
+                        62.990347,
+                        52.899391
+                  ]
+            },
+            {
+                  "name": "staryi gorodskoi pliazh",
+                  "text": "The old city beach on the banks of the Tobol River offers a sandy waterfront for the residents of Rudny.",
+                  "category": "recreational",
+                  "coords": [
+                        63.154036,
+                        52.956134
+                  ]
+            },
+            {
+                  "name": "Bogoiavlenskii khram",
+                  "text": "The Epiphany Cathedral in Rudny impresses with its shining golden domes and traditional Orthodox architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        63.10863,
+                        52.956034
+                  ]
+            },
+            {
+                  "name": "Rudnyi Meshiti",
+                  "text": "The main mosque of Rudny, a modern religious center with a distinctive minaret and prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        63.114753,
+                        52.963941
+                  ]
+            },
+            {
+                  "name": "Rimsko-Katolicheskii prikhod",
+                  "text": "The Roman Catholic parish church in Rudny serves the local community as a place of quiet and liturgy.",
+                  "category": "landmark",
+                  "coords": [
+                        63.123855,
+                        52.971057
+                  ]
+            },
+            {
+                  "name": "Fix Price",
+                  "text": "A modern discount market in Rudny offering a wide variety of household goods at fixed prices.",
+                  "category": "cultural",
+                  "coords": [
+                        63.097338,
+                        52.970598
+                  ]
+            },
+            {
+                  "name": "Ortalyk' Bazar",
+                  "text": "The central market of Rudny is a lively spot where local farmers sell their fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        63.148238,
+                        52.967987
+                  ]
+            },
+            {
+                  "name": "rynok Stroitel'",
+                  "text": "A specialized construction market in Rudny, providing everything needed for building and renovation work.",
+                  "category": "cultural",
+                  "coords": [
+                        63.145547,
+                        52.966344
+                  ]
+            },
+            {
+                  "name": "Svetofor",
+                  "text": "A large supermarket in Rudny known for its budget-friendly wholesale prices and wide food assortment.",
+                  "category": "cultural",
+                  "coords": [
+                        63.082344,
+                        52.964676
+                  ]
+            },
+            {
+                  "name": "Universam",
+                  "text": "A classic universal department store in Rudny gathering a variety of daily essentials under one roof.",
+                  "category": "cultural",
+                  "coords": [
+                        63.092027,
+                        52.973567
+                  ]
+            },
+            {
+                  "name": "Bak-bak veshchevoi",
+                  "text": "A specialized clothing market in Rudny offering textiles and fashion for all ages.",
+                  "category": "cultural",
+                  "coords": [
+                        63.095592,
+                        52.969742
+                  ]
+            },
+            {
+                  "name": "Bak-Bak",
+                  "text": "A busy shopping hub in Rudny serving as a central point for fashion and electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        63.093491,
+                        52.970306
+                  ]
+            },
+            {
+                  "name": "Voskhod",
+                  "text": "A traditional market area in Rudny famous for its selection of fresh fruits, vegetables, and meat.",
+                  "category": "cultural",
+                  "coords": [
+                        63.129017,
+                        52.96332
+                  ]
+            }
+      ]
+},
     type: "mine",
     parent: "KZ-KUS",
     coords: [63.1000, 52.9000],

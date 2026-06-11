@@ -1152,7 +1152,7 @@ export const spainReliefV2: POI[] = [
       "de": [
             {
                   "name": "Morezón",
-                  "text": "Markanter Berggipfel in der Sierra de Gredos.",
+                  "text": "Granitgipfel im Gredos-Massiv mit Aussicht auf die Lagune del Barco.",
                   "category": "landmark",
                   "coords": [
                         -5.268504,
@@ -1170,7 +1170,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Risco Moreno",
-                  "text": "Gebirgskamm und Gipfel in der Sierra de Gredos.",
+                  "text": "Felsiger Gipfel in der Sierra de Gredos, ein beliebter Kletterspot.",
                   "category": "landmark",
                   "coords": [
                         -5.293697,
@@ -1215,7 +1215,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Molino de los Pinarejos",
-                  "text": "Ruinen einer alten Mühle in der Sierra de Gredos.",
+                  "text": "Wassermühle in den Pinienwäldern der Sierra de Gredos.",
                   "category": "historical",
                   "coords": [
                         -5.273243,
@@ -1226,7 +1226,7 @@ export const spainReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Morezón",
-                  "text": "Jellegzetes hegycsúcs a Sierra de Gredos hegységben.",
+                  "text": "Gránitcsúcs a Gredos-hegységben kilátással a Barco-tóra.",
                   "category": "landmark",
                   "coords": [
                         -5.268504,
@@ -1244,7 +1244,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Risco Moreno",
-                  "text": "Hegyi gerinc és csúcs a Sierra de Gredos hegységben.",
+                  "text": "Sziklás csúcs a Sierra de Gredosban, népszerű mászóhely.",
                   "category": "landmark",
                   "coords": [
                         -5.293697,
@@ -1289,7 +1289,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Molino de los Pinarejos",
-                  "text": "Egy régi malom romjai a Sierra de Gredos hegységben.",
+                  "text": "Vízimalom a Sierra de Gredos fenyveseiben.",
                   "category": "historical",
                   "coords": [
                         -5.273243,
@@ -1300,7 +1300,7 @@ export const spainReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Morezón",
-                  "text": "Vârf montan proeminent în Sierra de Gredos.",
+                  "text": "Vârf de granit în masivul Gredos cu vedere spre lacul Barco.",
                   "category": "landmark",
                   "coords": [
                         -5.268504,
@@ -1318,7 +1318,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Risco Moreno",
-                  "text": "Creastă montană și vârf în Sierra de Gredos.",
+                  "text": "Vârf stâncos în Sierra de Gredos, un loc popular pentru escaladă.",
                   "category": "landmark",
                   "coords": [
                         -5.293697,
@@ -1363,7 +1363,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Molino de los Pinarejos",
-                  "text": "Ruinele unei vechi mori în Sierra de Gredos.",
+                  "text": "Moară de apă în pădurile de pini din Sierra de Gredos.",
                   "category": "historical",
                   "coords": [
                         -5.273243,
@@ -1374,7 +1374,7 @@ export const spainReliefV2: POI[] = [
       "en": [
             {
                   "name": "Morezón",
-                  "text": "A prominent mountain peak in the Sierra de Gredos.",
+                  "text": "Granite peak in the Gredos massif overlooking the Barco lagoon.",
                   "category": "landmark",
                   "coords": [
                         -5.268504,
@@ -1392,7 +1392,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Risco Moreno",
-                  "text": "A mountain ridge and peak in the Sierra de Gredos.",
+                  "text": "Rocky peak in the Sierra de Gredos, a popular climbing spot.",
                   "category": "landmark",
                   "coords": [
                         -5.293697,
@@ -1437,7 +1437,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Molino de los Pinarejos",
-                  "text": "Ruins of an old mill in the Sierra de Gredos.",
+                  "text": "Water mill in the pine forests of Sierra de Gredos.",
                   "category": "historical",
                   "coords": [
                         -5.273243,
@@ -1689,7 +1689,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cala Arena",
-                  "text": "Ein ruhiger Strandabschnitt an der Küste von Cabo de Gata.",
+                  "text": "Kleine Bucht am Cabo de Gata, mit goldenem Sand und klarem Wasser.",
                   "category": "recreational",
                   "coords": [
                         -2.184192,
@@ -1707,7 +1707,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Aula del Mar",
-                  "text": "Ein Museum in Cabo de Gata, das sich der Meeresbiologie widmet.",
+                  "text": "Meeresinterpretationszentrum mit Aquarien und Ausstellungen zum Meeresleben von Cabo de Gata.",
                   "category": "museum",
                   "coords": [
                         -2.191056,
@@ -1716,7 +1716,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Playa de la Almadraba",
-                  "text": "Ein weitläufiger Sandstrand am Cabo de Gata.",
+                  "text": "Strand, der historisch für Thunfischfang genutzt wurde, mit goldenem Sand und klarem Wasser.",
                   "category": "recreational",
                   "coords": [
                         -2.218203,
@@ -1725,7 +1725,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Playa de la Fabriquilla",
-                  "text": "Ein beliebter Strandabschnitt in der Nähe von Cabo de Gata.",
+                  "text": "Abgelegene Bucht mit schwarzem Sand und einer großen Felsformation in Cabo de Gata.",
                   "category": "recreational",
                   "coords": [
                         -2.207586,
@@ -1763,7 +1763,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cala Arena",
-                  "text": "Nyugodt tengerparti szakasz Cabo de Gata partjánál.",
+                  "text": "Kis öböl a Cabo de Gata-nál, aranysárga homokkal és tiszta vízzel.",
                   "category": "recreational",
                   "coords": [
                         -2.184192,
@@ -1781,7 +1781,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Aula del Mar",
-                  "text": "Tengerbiológiával foglalkozó múzeum Cabo de Gata városában.",
+                  "text": "Tengeri interpretációs központ akváriumokkal és Cabo de Gata tengeri élővilágának kiállításaival.",
                   "category": "museum",
                   "coords": [
                         -2.191056,
@@ -1790,7 +1790,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Playa de la Almadraba",
-                  "text": "Kiterjedt homokos tengerpart Cabo de Gata területén.",
+                  "text": "Strand, amelyet történelmileg tonhalászatra használtak, arany homokkal és kristálytiszta vízzel.",
                   "category": "recreational",
                   "coords": [
                         -2.218203,
@@ -1799,7 +1799,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Playa de la Fabriquilla",
-                  "text": "Népszerű tengerparti szakasz Cabo de Gata közelében.",
+                  "text": "Elszigetelt öböl fekete homokkal és egy nagy sziklaformációval Cabo de Gatában.",
                   "category": "recreational",
                   "coords": [
                         -2.207586,
@@ -1837,7 +1837,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cala Arena",
-                  "text": "O secțiune liniștită de plajă pe coasta Cabo de Gata.",
+                  "text": "Golf mic la Cabo de Gata, cu nisip auriu și apă limpede.",
                   "category": "recreational",
                   "coords": [
                         -2.184192,
@@ -1855,7 +1855,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Aula del Mar",
-                  "text": "Un muzeu din Cabo de Gata dedicat biologiei marine.",
+                  "text": "Centru de interpretare marină cu acvarii și exponate despre viața marină din Cabo de Gata.",
                   "category": "museum",
                   "coords": [
                         -2.191056,
@@ -1864,7 +1864,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Playa de la Almadraba",
-                  "text": "O plajă întinsă de nisip situată la Cabo de Gata.",
+                  "text": "Plajă folosită istoric pentru pescuitul tonului, cu nisip auriu și apă limpede.",
                   "category": "recreational",
                   "coords": [
                         -2.218203,
@@ -1873,7 +1873,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Playa de la Fabriquilla",
-                  "text": "O secțiune de plajă populară situată lângă Cabo de Gata.",
+                  "text": "Golf retras cu nisip negru și o formațiune mare de rocă în Cabo de Gata.",
                   "category": "recreational",
                   "coords": [
                         -2.207586,
@@ -1911,7 +1911,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cala Arena",
-                  "text": "A quiet beach section on the coast of Cabo de Gata.",
+                  "text": "Small cove at Cabo de Gata, with golden sand and clear water.",
                   "category": "recreational",
                   "coords": [
                         -2.184192,
@@ -1929,7 +1929,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Aula del Mar",
-                  "text": "A museum in Cabo de Gata dedicated to marine biology.",
+                  "text": "Marine interpretation center with aquariums and exhibits on Cabo de Gata's marine life.",
                   "category": "museum",
                   "coords": [
                         -2.191056,
@@ -1938,7 +1938,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Playa de la Almadraba",
-                  "text": "An extensive sandy beach located at Cabo de Gata.",
+                  "text": "Beach historically used for tuna fishing, with golden sand and crystal-clear water.",
                   "category": "recreational",
                   "coords": [
                         -2.218203,
@@ -1947,7 +1947,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Playa de la Fabriquilla",
-                  "text": "A popular beach section located near Cabo de Gata.",
+                  "text": "Secluded beach with black sand and a large rock formation at Cabo de Gata.",
                   "category": "recreational",
                   "coords": [
                         -2.207586,
@@ -2359,7 +2359,7 @@ export const spainReliefV2: POI[] = [
       "de": [
             {
                   "name": "El Risco Tirapanes",
-                  "text": "Natürliche Attraktion in den Bergen von Toledo.",
+                  "text": "Kalksteinfelsen in den Montes de Toledo.",
                   "category": "landmark",
                   "coords": [
                         -4.543301,
@@ -2388,7 +2388,7 @@ export const spainReliefV2: POI[] = [
       "hu": [
             {
                   "name": "El Risco Tirapanes",
-                  "text": "Természeti látnivaló a Toledói-hegységben.",
+                  "text": "Mészkő sziklaformáció a Toledói-hegységben.",
                   "category": "landmark",
                   "coords": [
                         -4.543301,
@@ -2417,7 +2417,7 @@ export const spainReliefV2: POI[] = [
       "ro": [
             {
                   "name": "El Risco Tirapanes",
-                  "text": "Atracție naturală situată în Munții Toledo.",
+                  "text": "Formațiune de calcar în Munții Toledo.",
                   "category": "landmark",
                   "coords": [
                         -4.543301,
@@ -2446,7 +2446,7 @@ export const spainReliefV2: POI[] = [
       "en": [
             {
                   "name": "El Risco Tirapanes",
-                  "text": "Natural attraction located in the Mountains of Toledo.",
+                  "text": "Limestone cliff formation in the Montes de Toledo.",
                   "category": "landmark",
                   "coords": [
                         -4.543301,
@@ -3195,7 +3195,7 @@ export const spainReliefV2: POI[] = [
       "de": [
             {
                   "name": "Pico Maldito",
-                  "text": "Der Pico Maldito ist ein imposanter Gipfel im Maladeta-Massiv der Pyrenäen.",
+                  "text": "Berggipfel im Aneto-Massiv, einer der höchsten der Pyrenäen.",
                   "category": "landmark",
                   "coords": [
                         0.641336,
@@ -3213,7 +3213,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Die Tuca d'el Cabo de Barrancs ist eine Erhebung in den zentralen Pyrenäen.",
+                  "text": "Spitzer Gipfel im Posets-Maladeta-Massiv nahe dem Aneto.",
                   "category": "landmark",
                   "coords": [
                         0.665924,
@@ -3231,7 +3231,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cap deth Hòro de Moilères",
-                  "text": "Der Cap deth Hòro de Moilères ist ein markanter Gipfel in der Region des Pico Aneto.",
+                  "text": "Gipfel im Maladeta-Massiv mit Blick auf die Molières-Seen.",
                   "category": "landmark",
                   "coords": [
                         0.700843,
@@ -3240,7 +3240,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tuca de Corones",
-                  "text": "Die Tuca de Corones ist ein bedeutender Gipfel im Maladeta-Massiv der Pyrenäen.",
+                  "text": "Dreitausender im Pyrenäen-Hauptkamm nahe dem Aneto-Gletscher.",
                   "category": "landmark",
                   "coords": [
                         0.649372,
@@ -3269,7 +3269,7 @@ export const spainReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Pico Maldito",
-                  "text": "A Pico Maldito egy impozáns hegycsúcs a Pireneusok Maladeta-masszívumában.",
+                  "text": "Hegycsúcs az Aneto-masszívumban, a Pireneusok egyik legmagasabbja.",
                   "category": "landmark",
                   "coords": [
                         0.641336,
@@ -3287,7 +3287,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "A Tuca d'el Cabo de Barrancs egy kiemelkedő hegycsúcs a Középső-Pireneusokban.",
+                  "text": "Hegyes csúcs a Posets-Maladeta-hegységben az Aneto közelében.",
                   "category": "landmark",
                   "coords": [
                         0.665924,
@@ -3305,7 +3305,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cap deth Hòro de Moilères",
-                  "text": "A Cap deth Hòro de Moilères egy jellegzetes csúcs a Pico Aneto régiójában.",
+                  "text": "Csúcs a Maladeta-hegységben kilátással a Molières-tavakra.",
                   "category": "landmark",
                   "coords": [
                         0.700843,
@@ -3314,7 +3314,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tuca de Corones",
-                  "text": "A Tuca de Corones a Pireneusok Maladeta-masszívumának egyik jelentős csúcsa.",
+                  "text": "Háromezres a Pireneusok főgerincén az Aneto-gleccser közelében.",
                   "category": "landmark",
                   "coords": [
                         0.649372,
@@ -3343,7 +3343,7 @@ export const spainReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Pico Maldito",
-                  "text": "Pico Maldito este un vârf impunător din masivul Maladeta, situat în Munții Pirinei.",
+                  "text": "Vârf montan în masivul Aneto, unul dintre cele mai înalte din Pirinei.",
                   "category": "landmark",
                   "coords": [
                         0.641336,
@@ -3361,7 +3361,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Tuca d'el Cabo de Barrancs este o culme muntoasă din Pirineii Centrali.",
+                  "text": "Vârf ascuțit în masivul Posets-Maladeta lângă Aneto.",
                   "category": "landmark",
                   "coords": [
                         0.665924,
@@ -3379,7 +3379,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cap deth Hòro de Moilères",
-                  "text": "Cap deth Hòro de Moilères este un vârf proeminent din regiunea Pico Aneto.",
+                  "text": "Vârf în masivul Maladeta cu vedere spre lacurile Molières.",
                   "category": "landmark",
                   "coords": [
                         0.700843,
@@ -3388,7 +3388,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tuca de Corones",
-                  "text": "Tuca de Corones este un vârf important din masivul Maladeta al Pirineilor.",
+                  "text": "Vârf de peste 3000 m pe creasta principală a Pirineilor lângă ghețarul Aneto.",
                   "category": "landmark",
                   "coords": [
                         0.649372,
@@ -3417,7 +3417,7 @@ export const spainReliefV2: POI[] = [
       "en": [
             {
                   "name": "Pico Maldito",
-                  "text": "Pico Maldito is an imposing peak in the Maladeta massif of the Pyrenees.",
+                  "text": "Mountain peak in the Aneto massif, one of the highest in the Pyrenees.",
                   "category": "landmark",
                   "coords": [
                         0.641336,
@@ -3435,7 +3435,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Tuca d'el Cabo de Barrancs is a mountain peak in the Central Pyrenees.",
+                  "text": "Sharp peak in the Posets-Maladeta massif near Aneto.",
                   "category": "landmark",
                   "coords": [
                         0.665924,
@@ -3453,7 +3453,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cap deth Hòro de Moilères",
-                  "text": "Cap deth Hòro de Moilères is a prominent peak in the Pico Aneto region.",
+                  "text": "Peak in the Maladeta massif overlooking the Molières lakes.",
                   "category": "landmark",
                   "coords": [
                         0.700843,
@@ -3462,7 +3462,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tuca de Corones",
-                  "text": "Tuca de Corones is a significant peak in the Maladeta massif of the Pyrenees.",
+                  "text": "3000-metre peak on the main Pyrenean ridge near the Aneto glacier.",
                   "category": "landmark",
                   "coords": [
                         0.649372,
@@ -4227,7 +4227,7 @@ export const spainReliefV2: POI[] = [
       "de": [
             {
                   "name": "Mágina",
-                  "text": "Ein hoher Berggipfel im Mágina-Massiv.",
+                  "text": "Berggipfel in der Sierra Mágina, der höchste in der Provinz Jaén.",
                   "category": "landmark",
                   "coords": [
                         -3.464095,
@@ -4236,7 +4236,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Peña de Jaén",
-                  "text": "Ein markanter Gipfel in der Sierra Mágina.",
+                  "text": "Ein markanter Kalksteinfelsen in der Sierra Mágina.",
                   "category": "landmark",
                   "coords": [
                         -3.475523,
@@ -4247,7 +4247,7 @@ export const spainReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Mágina",
-                  "text": "Magas hegycsúcs a Mágina-hegységben.",
+                  "text": "Hegycsúcs a Sierra Mágina-ban, Jaén megye legmagasabbja.",
                   "category": "landmark",
                   "coords": [
                         -3.464095,
@@ -4256,7 +4256,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Peña de Jaén",
-                  "text": "Jellegzetes csúcs a Sierra Mágina hegységben.",
+                  "text": "Egy jellegzetes mészkőszikla a Sierra Mágina hegységben.",
                   "category": "landmark",
                   "coords": [
                         -3.475523,
@@ -4267,7 +4267,7 @@ export const spainReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Mágina",
-                  "text": "Un vârf montan înalt în masivul Mágina.",
+                  "text": "Vârf montan în Sierra Mágina, cel mai înalt din provincia Jaén.",
                   "category": "landmark",
                   "coords": [
                         -3.464095,
@@ -4276,7 +4276,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Peña de Jaén",
-                  "text": "Un vârf proeminent în Sierra Mágina.",
+                  "text": "O stâncă de calcar proeminentă în Sierra Mágina.",
                   "category": "landmark",
                   "coords": [
                         -3.475523,
@@ -4287,7 +4287,7 @@ export const spainReliefV2: POI[] = [
       "en": [
             {
                   "name": "Mágina",
-                  "text": "A high mountain peak in the Mágina massif.",
+                  "text": "Mountain peak in the Sierra Mágina range, the highest in Jaén province.",
                   "category": "landmark",
                   "coords": [
                         -3.464095,
@@ -4296,7 +4296,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Peña de Jaén",
-                  "text": "A prominent peak in the Sierra Mágina range.",
+                  "text": "A prominent limestone rock formation in the Sierra Mágina range.",
                   "category": "landmark",
                   "coords": [
                         -3.475523,
@@ -4899,7 +4899,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Roca de Castellà",
-                  "text": "Ein markanter Gipfel in den katalanischen Küstengebirgen.",
+                  "text": "Felskuppe in der Küstenkette Kataloniens mit Aussicht auf das Vallès-Becken.",
                   "category": "landmark",
                   "coords": [
                         1.466509,
@@ -4917,7 +4917,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "el Grony",
-                  "text": "Ein bedeutender Berggipfel in den katalanischen Küstengebirgen.",
+                  "text": "El Grony ist eine markante Felsformation in der Katalanischen Küstenkette.",
                   "category": "landmark",
                   "coords": [
                         1.46744,
@@ -4926,7 +4926,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "l'Agulla Grossa",
-                  "text": "Ein felsiger Gipfel in den katalanischen Küstengebirgen.",
+                  "text": "L'Agulla Grossa ist eine nadelförmige Felsspitze in der Katalanischen Küstenkette.",
                   "category": "landmark",
                   "coords": [
                         1.496358,
@@ -4982,7 +4982,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Roca de Castellà",
-                  "text": "Hegycsúcs a Katalán-partvidéki hegységben.",
+                  "text": "Sziklás domb a Katalán Parti-hegységben kilátással a Vallès-medencére.",
                   "category": "landmark",
                   "coords": [
                         1.466509,
@@ -5000,7 +5000,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "el Grony",
-                  "text": "Hegycsúcs a Katalán-partvidéki hegységben.",
+                  "text": "El Grony egy jellegzetes sziklalakzat a Katalán Parti-hegységben.",
                   "category": "landmark",
                   "coords": [
                         1.46744,
@@ -5009,7 +5009,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "l'Agulla Grossa",
-                  "text": "Sziklás hegycsúcs a Katalán-partvidéki hegységben.",
+                  "text": "L'Agulla Grossa egy tű alakú sziklacsúcs a Katalán Parti-hegységben.",
                   "category": "landmark",
                   "coords": [
                         1.496358,
@@ -5065,7 +5065,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Roca de Castellà",
-                  "text": "Un vârf montan situat în lanțul muntos de pe coasta catalană.",
+                  "text": "Culme stâncoasă în lanțul costier catalan cu vedere spre bazinul Vallès.",
                   "category": "landmark",
                   "coords": [
                         1.466509,
@@ -5083,7 +5083,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "el Grony",
-                  "text": "Un vârf montan în lanțul muntos de pe coasta catalană.",
+                  "text": "El Grony este o formațiune stâncoasă proeminentă în Masivul Costier Catalan.",
                   "category": "landmark",
                   "coords": [
                         1.46744,
@@ -5092,7 +5092,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "l'Agulla Grossa",
-                  "text": "Un vârf stâncos situat în lanțul muntos de pe coasta catalană.",
+                  "text": "L'Agulla Grossa este un vârf stâncos în formă de ac în Masivul Costier Catalan.",
                   "category": "landmark",
                   "coords": [
                         1.496358,
@@ -5148,7 +5148,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Roca de Castellà",
-                  "text": "A mountain peak in the Catalan Coastal Range.",
+                  "text": "Rocky hill in the Catalan Coastal Range overlooking the Vallès basin.",
                   "category": "landmark",
                   "coords": [
                         1.466509,
@@ -5166,7 +5166,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "el Grony",
-                  "text": "A prominent peak in the Catalan Coastal Range.",
+                  "text": "El Grony is a prominent rock formation in the Catalan Coastal Range.",
                   "category": "landmark",
                   "coords": [
                         1.46744,
@@ -5175,7 +5175,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "l'Agulla Grossa",
-                  "text": "A rocky peak in the Catalan Coastal Range.",
+                  "text": "L'Agulla Grossa is a needle-shaped rock pinnacle in the Catalan Coastal Range.",
                   "category": "landmark",
                   "coords": [
                         1.496358,
@@ -5286,7 +5286,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Torresoroa",
-                  "text": "Ein Theater und Kulturzentrum in den Baskischen Bergen.",
+                  "text": "Kulturstätte mit einem mittelalterlichen Turm im Baskischen Bergland.",
                   "category": "cultural",
                   "coords": [
                         -2.382175,
@@ -5360,7 +5360,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Torresoroa",
-                  "text": "Színház és kulturális helyszín a Baszk-hegységben.",
+                  "text": "Kulturális helyszín egy középkori toronnyal a baszk hegyekben.",
                   "category": "cultural",
                   "coords": [
                         -2.382175,
@@ -5434,7 +5434,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Torresoroa",
-                  "text": "Un teatru și un loc cultural situat în Munții Basci.",
+                  "text": "Sit cultural cu un turn medieval în Munții Basci.",
                   "category": "cultural",
                   "coords": [
                         -2.382175,
@@ -5508,7 +5508,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Torresoroa",
-                  "text": "A theater and cultural venue located in the Basque Mountains.",
+                  "text": "Cultural site featuring a medieval tower in the Basque mountains.",
                   "category": "cultural",
                   "coords": [
                         -2.382175,
@@ -5973,7 +5973,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "el Tossal",
-                  "text": "Ein Gipfel in der Region Baix Pallars in den Vorpyrenäen.",
+                  "text": "El Tossal ist ein Hügel in den Vorpyrenäen.",
                   "category": "landmark",
                   "coords": [
                         1.020916,
@@ -6000,7 +6000,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tossal de l'Àliga o Pit de la Geganta",
-                  "text": "Ein Berg in den Vorpyrenäen, der auch als Pit de la Geganta bekannt ist.",
+                  "text": "Tossal de l'Àliga o Pit de la Geganta ist ein nach einem Adler und einer Riesin benannter Hügel in den Vorpyrenäen.",
                   "category": "landmark",
                   "coords": [
                         1.018836,
@@ -6047,7 +6047,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "el Tossal",
-                  "text": "Hegycsúcs Baix Pallars régióban, az Elő-Pireneusokban.",
+                  "text": "El Tossal egy domb az Elő-Pireneusokban.",
                   "category": "landmark",
                   "coords": [
                         1.020916,
@@ -6074,7 +6074,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tossal de l'Àliga o Pit de la Geganta",
-                  "text": "Hegy az Elő-Pireneusokban, amely Pit de la Geganta néven is ismert.",
+                  "text": "Tossal de l'Àliga o Pit de la Geganta egy sasról és egy óriásnőről elnevezett domb az Elő-Pireneusokban.",
                   "category": "landmark",
                   "coords": [
                         1.018836,
@@ -6121,7 +6121,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "el Tossal",
-                  "text": "Un vârf în regiunea Baix Pallars din Pre-Pirinei.",
+                  "text": "El Tossal este un deal în Pre-Pirinei.",
                   "category": "landmark",
                   "coords": [
                         1.020916,
@@ -6148,7 +6148,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tossal de l'Àliga o Pit de la Geganta",
-                  "text": "Un munte în Pre-Pirinei, cunoscut și sub numele de Pit de la Geganta.",
+                  "text": "Tossal de l'Àliga o Pit de la Geganta este un deal numit după un vultur și o uriașă în Pre-Pirinei.",
                   "category": "landmark",
                   "coords": [
                         1.018836,
@@ -6195,7 +6195,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "el Tossal",
-                  "text": "A peak in the Baix Pallars region of the Pre-Pyrenees.",
+                  "text": "El Tossal is a hill in the Pre-Pyrenees.",
                   "category": "landmark",
                   "coords": [
                         1.020916,
@@ -6222,7 +6222,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Tossal de l'Àliga o Pit de la Geganta",
-                  "text": "A mountain in the Pre-Pyrenees also known as Pit de la Geganta.",
+                  "text": "Tossal de l'Àliga o Pit de la Geganta is a hill named after an eagle and a giantess in the Pre-Pyrenees.",
                   "category": "landmark",
                   "coords": [
                         1.018836,
@@ -6298,7 +6298,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Reloj",
-                  "text": "Ein Berggipfel in der Sierra de Grazalema.",
+                  "text": "Ein historischer Glockenturm im Naturpark Sierra de Grazalema.",
                   "category": "landmark",
                   "coords": [
                         -5.377071,
@@ -6307,7 +6307,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cerro del Simancón",
-                  "text": "Einer der höchsten Gipfel in der Sierra de Grazalema.",
+                  "text": "Cerro del Simancón ist ein Berggipfel in der Sierra de Grazalema.",
                   "category": "landmark",
                   "coords": [
                         -5.381893,
@@ -6316,7 +6316,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Ermita del Calvario",
-                  "text": "Die Überreste einer ehemaligen Einsiedelei in der Nähe von Grazalema.",
+                  "text": "Eine Hügelkapelle (Kalvarienberg) in der Sierra de Grazalema.",
                   "category": "historical",
                   "coords": [
                         -5.366315,
@@ -6334,7 +6334,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Fuente de Abajo",
-                  "text": "Ein historischer Brunnen im Dorf Grazalema.",
+                  "text": "Natürliche Quelle in den Kalksteinbergen der Sierra de Grazalema.",
                   "category": "landmark",
                   "coords": [
                         -5.367083,
@@ -6372,7 +6372,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Reloj",
-                  "text": "Hegycsúcs a Sierra de Grazalema hegységben.",
+                  "text": "Egy történelmi óratorony a Sierra de Grazalema természeti parkban.",
                   "category": "landmark",
                   "coords": [
                         -5.377071,
@@ -6381,7 +6381,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cerro del Simancón",
-                  "text": "A Sierra de Grazalema egyik legmagasabb csúcsa.",
+                  "text": "Cerro del Simancón egy hegycsúcs a Sierra de Grazalema hegységben.",
                   "category": "landmark",
                   "coords": [
                         -5.381893,
@@ -6390,7 +6390,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Ermita del Calvario",
-                  "text": "Egy egykori remetelak maradványai Grazalema közelében.",
+                  "text": "Egy dombtetőn álló kápolna (Kálvária) a Sierra de Grazalema területén.",
                   "category": "historical",
                   "coords": [
                         -5.366315,
@@ -6408,7 +6408,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Fuente de Abajo",
-                  "text": "Történelmi kút Grazalema faluban.",
+                  "text": "Természetes forrás a Sierra de Grazalema mészkőhegyeiben.",
                   "category": "landmark",
                   "coords": [
                         -5.367083,
@@ -6446,7 +6446,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Reloj",
-                  "text": "Un vârf montan în Sierra de Grazalema.",
+                  "text": "Un turn de ceas istoric în Parcul Natural Sierra de Grazalema.",
                   "category": "landmark",
                   "coords": [
                         -5.377071,
@@ -6455,7 +6455,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cerro del Simancón",
-                  "text": "Unul dintre cele mai înalte vârfuri din Sierra de Grazalema.",
+                  "text": "Cerro del Simancón este un vârf montan în Sierra de Grazalema.",
                   "category": "landmark",
                   "coords": [
                         -5.381893,
@@ -6464,7 +6464,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Ermita del Calvario",
-                  "text": "Rămășițele unei foste eremiții din apropiere de Grazalema.",
+                  "text": "O capelă pe deal (Calvar) în Sierra de Grazalema.",
                   "category": "historical",
                   "coords": [
                         -5.366315,
@@ -6482,7 +6482,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Fuente de Abajo",
-                  "text": "O fântână istorică din satul Grazalema.",
+                  "text": "Izvor natural în munții de calcar ai Sierrei de Grazalema.",
                   "category": "landmark",
                   "coords": [
                         -5.367083,
@@ -6520,7 +6520,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Reloj",
-                  "text": "A mountain peak in the Sierra de Grazalema.",
+                  "text": "A historic clock tower in the Sierra de Grazalema natural park.",
                   "category": "landmark",
                   "coords": [
                         -5.377071,
@@ -6529,7 +6529,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Cerro del Simancón",
-                  "text": "One of the highest peaks in the Sierra de Grazalema.",
+                  "text": "Cerro del Simancón is a mountain peak in the Sierra de Grazalema.",
                   "category": "landmark",
                   "coords": [
                         -5.381893,
@@ -6538,7 +6538,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Ermita del Calvario",
-                  "text": "The remains of a former hermitage near Grazalema.",
+                  "text": "A hilltop hermitage (Calvary) in the Sierra de Grazalema.",
                   "category": "historical",
                   "coords": [
                         -5.366315,
@@ -6556,7 +6556,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Fuente de Abajo",
-                  "text": "A historic fountain in the village of Grazalema.",
+                  "text": "Natural spring fountain in the Sierra de Grazalema limestone mountains.",
                   "category": "landmark",
                   "coords": [
                         -5.367083,
@@ -7792,7 +7792,7 @@ export const spainReliefV2: POI[] = [
       "de": [
             {
                   "name": "Castillo de Alcaraz",
-                  "text": "Historische Burgruine in Sierra de Alcaraz.",
+                  "text": "Mittelalterliche Burgruine auf einem Hügel in der Sierra de Alcaraz.",
                   "category": "castle",
                   "coords": [
                         -2.493922,
@@ -7801,7 +7801,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Necrópolis",
-                  "text": "Archäologische Ausgrabungsstätte in Sierra de Alcaraz.",
+                  "text": "Antike Nekropole mit in den Fels gehauenen Gräbern in der Sierra de Alcaraz.",
                   "category": "historical",
                   "coords": [
                         -2.463199,
@@ -7848,7 +7848,7 @@ export const spainReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Castillo de Alcaraz",
-                  "text": "Történelmi várrom Sierra de Alcaraz területén.",
+                  "text": "Középkori várrom egy dombon a Sierra de Alcarazban.",
                   "category": "castle",
                   "coords": [
                         -2.493922,
@@ -7857,7 +7857,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Necrópolis",
-                  "text": "Régészeti lelőhely Sierra de Alcaraz közelében.",
+                  "text": "Ősi nekropolisz sziklába vágott sírokkal a Sierra de Alcarazban.",
                   "category": "historical",
                   "coords": [
                         -2.463199,
@@ -7904,7 +7904,7 @@ export const spainReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Castillo de Alcaraz",
-                  "text": "Ruinele unei cetăți istorice în Sierra de Alcaraz.",
+                  "text": "Ruinele unui castel medieval pe un deal în Sierra de Alcaraz.",
                   "category": "castle",
                   "coords": [
                         -2.493922,
@@ -7913,7 +7913,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Necrópolis",
-                  "text": "Sit arheologic situat în Sierra de Alcaraz.",
+                  "text": "Necropolă antică cu morminte săpate în stâncă în Sierra de Alcaraz.",
                   "category": "historical",
                   "coords": [
                         -2.463199,
@@ -7960,7 +7960,7 @@ export const spainReliefV2: POI[] = [
       "en": [
             {
                   "name": "Castillo de Alcaraz",
-                  "text": "Historical castle ruins located in Sierra de Alcaraz.",
+                  "text": "Medieval castle ruins on a hilltop in the Sierra de Alcaraz.",
                   "category": "castle",
                   "coords": [
                         -2.493922,
@@ -7969,7 +7969,7 @@ export const spainReliefV2: POI[] = [
             },
             {
                   "name": "Necrópolis",
-                  "text": "Archaeological site located in Sierra de Alcaraz.",
+                  "text": "Ancient necropolis with rock-cut tombs in the Sierra de Alcaraz.",
                   "category": "historical",
                   "coords": [
                         -2.463199,

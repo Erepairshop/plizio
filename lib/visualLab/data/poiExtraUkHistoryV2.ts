@@ -672,7 +672,7 @@ imageHint: "Iron Bridge Shropshire across River Severn",
       "de": [
             {
                   "name": "Sand Geo",
-                  "text": "Strand bei Skara Brae.",
+                  "text": "Sand Geo ist eine schmale Sandbucht in den Klippen nahe Skara Brae.",
                   "category": "recreational",
                   "coords": [
                         -3.349029,
@@ -755,7 +755,7 @@ imageHint: "Iron Bridge Shropshire across River Severn",
       "hu": [
             {
                   "name": "Sand Geo",
-                  "text": "Strand Skara Brae mellett.",
+                  "text": "A Sand Geo egy keskeny homokos öböl a sziklákban Skara Brae közelében.",
                   "category": "recreational",
                   "coords": [
                         -3.349029,
@@ -838,7 +838,7 @@ imageHint: "Iron Bridge Shropshire across River Severn",
       "ro": [
             {
                   "name": "Sand Geo",
-                  "text": "Plajă lângă Skara Brae.",
+                  "text": "Sand Geo este o mică golfuleț nisipos în stâncile de lângă Skara Brae.",
                   "category": "recreational",
                   "coords": [
                         -3.349029,
@@ -921,7 +921,7 @@ imageHint: "Iron Bridge Shropshire across River Severn",
       "en": [
             {
                   "name": "Sand Geo",
-                  "text": "Beach near Skara Brae.",
+                  "text": "Sand Geo is a narrow sandy cove in the cliffs near Skara Brae.",
                   "category": "recreational",
                   "coords": [
                         -3.349029,
@@ -1681,7 +1681,7 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
       "de": [
             {
                   "name": "Traeth Abermenai",
-                  "text": "Traeth Abermenai bei Caernarfon.",
+                  "text": "Traeth Abermenai ist ein Sandstrand an der Menai-Straße mit Blick auf Caernarfon Castle.",
                   "category": "recreational",
                   "coords": [
                         -4.3399,
@@ -1701,7 +1701,7 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
       "hu": [
             {
                   "name": "Traeth Abermenai",
-                  "text": "Traeth Abermenai strand Caernarfon közelében.",
+                  "text": "A Traeth Abermenai egy homokos strand a Menai-szoroson, Caernarfon várára néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         -4.3399,
@@ -1721,7 +1721,7 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
       "ro": [
             {
                   "name": "Traeth Abermenai",
-                  "text": "Traeth Abermenai lângă Caernarfon.",
+                  "text": "Traeth Abermenai este o plajă cu nisip pe strâmtoarea Menai, cu vedere la Castelul Caernarfon.",
                   "category": "recreational",
                   "coords": [
                         -4.3399,
@@ -1741,7 +1741,7 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
       "en": [
             {
                   "name": "Traeth Abermenai",
-                  "text": "Traeth Abermenai near Caernarfon.",
+                  "text": "Traeth Abermenai is a sandy beach on the Menai Strait with views of Caernarfon Castle.",
                   "category": "recreational",
                   "coords": [
                         -4.3399,
@@ -2471,7 +2471,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "de": [
             {
                   "name": "Sandeel Beds",
-                  "text": "Ein flacher Strandbereich nahe der historischen Priory.",
+                  "text": "Sandeel Beds ist ein Sandstrand auf Lindisfarne, bekannt für Sandaale und Vogelwelt.",
                   "category": "recreational",
                   "coords": [
                         -1.818405,
@@ -2480,7 +2480,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Goswick Sands",
-                  "text": "Küstenstrand bei der Lindisfarne Priory.",
+                  "text": "Goswick Sands ist ein Sandstrand mit Dünen, Teil des Lindisfarne-Naturschutzgebiets.",
                   "category": "recreational",
                   "coords": [
                         -1.864244,
@@ -2534,7 +2534,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Holy Island Sands",
-                  "text": "Ein malerischer Sandstrand auf Holy Island.",
+                  "text": "Holy Island Sands sind die Gezeitensande, die Lindisfarne mit dem Festland verbinden, mit einem Damm.",
                   "category": "recreational",
                   "coords": [
                         -1.836,
@@ -2543,7 +2543,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Sandham",
-                  "text": "Ein Küstenstrand in der Nähe des Klosters Lindisfarne.",
+                  "text": "Sandham ist ein Sandstrand am Westufer der Holy Island.",
                   "category": "recreational",
                   "coords": [
                         -1.788018,
@@ -2554,7 +2554,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "hu": [
             {
                   "name": "Sandeel Beds",
-                  "text": "Lapos strandszakasz a történelmi apátság közelében.",
+                  "text": "A Sandeel Beds egy homokos part Lindisfarne-n, híres homoki angolnákról és madárvilágról.",
                   "category": "recreational",
                   "coords": [
                         -1.818405,
@@ -2563,7 +2563,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Goswick Sands",
-                  "text": "Parti strand a Lindisfarne Priory közelében.",
+                  "text": "A Goswick Sands egy homokos strand dűnékkel, a Lindisfarne természetvédelmi terület része.",
                   "category": "recreational",
                   "coords": [
                         -1.864244,
@@ -2617,7 +2617,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Holy Island Sands",
-                  "text": "Egy festői homokos strand a Szent-szigeten.",
+                  "text": "A Holy Island Sands a Lindisfarne-t a szárazfölddel összekötő dagályhomok, gátúttal.",
                   "category": "recreational",
                   "coords": [
                         -1.836,
@@ -2626,7 +2626,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Sandham",
-                  "text": "Egy tengerparti strand a Lindisfarne-kolostor közelében.",
+                  "text": "A Sandham egy homokos strand a Holy Island nyugati partján.",
                   "category": "recreational",
                   "coords": [
                         -1.788018,
@@ -2637,7 +2637,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "ro": [
             {
                   "name": "Sandeel Beds",
-                  "text": "O zonă plată de plajă lângă prioratul istoric.",
+                  "text": "Sandeel Beds este un țărm nisipos pe Lindisfarne, renumit pentru anghile de nisip și păsări.",
                   "category": "recreational",
                   "coords": [
                         -1.818405,
@@ -2646,7 +2646,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Goswick Sands",
-                  "text": "Plajă lângă Lindisfarne Priory.",
+                  "text": "Goswick Sands este o plajă cu nisip cu dune, parte a rezervației naturale Lindisfarne.",
                   "category": "recreational",
                   "coords": [
                         -1.864244,
@@ -2700,7 +2700,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Holy Island Sands",
-                  "text": "O zonă pitorească de plajă cu nisip pe Insula Sfântă.",
+                  "text": "Holy Island Sands sunt nisipurile de maree care leagă Lindisfarne de continent, cu un drum de dig.",
                   "category": "recreational",
                   "coords": [
                         -1.836,
@@ -2709,7 +2709,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Sandham",
-                  "text": "O zonă de plajă la coastă lângă mănăstirea Lindisfarne.",
+                  "text": "Sandham este o plajă cu nisip pe malul vestic al Holy Island.",
                   "category": "recreational",
                   "coords": [
                         -1.788018,
@@ -2720,7 +2720,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "en": [
             {
                   "name": "Sandeel Beds",
-                  "text": "A shallow beach area near the historic priory.",
+                  "text": "Sandeel Beds is a sandy shore on Lindisfarne, famous for sand eels and birdlife.",
                   "category": "recreational",
                   "coords": [
                         -1.818405,
@@ -2729,7 +2729,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Goswick Sands",
-                  "text": "Coastal beach near Lindisfarne Priory.",
+                  "text": "Goswick Sands is a sandy beach with dunes, part of the Lindisfarne nature reserve.",
                   "category": "recreational",
                   "coords": [
                         -1.864244,
@@ -2783,7 +2783,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Holy Island Sands",
-                  "text": "A scenic sandy beach area on Holy Island.",
+                  "text": "Holy Island Sands are the tidal sands connecting Lindisfarne to the mainland, with a causeway.",
                   "category": "recreational",
                   "coords": [
                         -1.836,
@@ -2792,7 +2792,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Sandham",
-                  "text": "A coastal beach area near Lindisfarne Priory.",
+                  "text": "Sandham is a sandy beach on the western shore of Holy Island.",
                   "category": "recreational",
                   "coords": [
                         -1.788018,
@@ -3029,7 +3029,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "de": [
             {
                   "name": "Bosham Foreshore",
-                  "text": "Ein Küstenbereich nahe dem Fishbourne Roman Palace.",
+                  "text": "Bosham Foreshore ist ein Gezeitenwatt und Kiesstrand mit Blick auf die sächsische Kirche von Bosham.",
                   "category": "recreational",
                   "coords": [
                         -0.866857,
@@ -3040,7 +3040,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "hu": [
             {
                   "name": "Bosham Foreshore",
-                  "text": "Partszakasz a Fishbourne Roman Palace közelében.",
+                  "text": "A Bosham Foreshore egy dagályos iszap- és kavicsos strand, Bosham szász templomára néző kilátással.",
                   "category": "recreational",
                   "coords": [
                         -0.866857,
@@ -3051,7 +3051,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "ro": [
             {
                   "name": "Bosham Foreshore",
-                  "text": "O zonă de coastă în apropierea palatului roman Fishbourne.",
+                  "text": "Bosham Foreshore este un platou de noroi de maree și plajă de pietriș cu vedere la biserica saxonă din Bosham.",
                   "category": "recreational",
                   "coords": [
                         -0.866857,
@@ -3062,7 +3062,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "en": [
             {
                   "name": "Bosham Foreshore",
-                  "text": "A shoreline near Fishbourne Roman Palace.",
+                  "text": "Bosham Foreshore is a tidal mudflat and shingle beach overlooking Bosham's Saxon church.",
                   "category": "recreational",
                   "coords": [
                         -0.866857,
@@ -3164,7 +3164,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "de": [
             {
                   "name": "Bamburgh Research Project Archaeological Site",
-                  "text": "Archäologische Ausgrabungsstätte an der historischen Burg Bamburgh.",
+                  "text": "Eine laufende archäologische Ausgrabung am Bamburgh Castle, die angelsächsische Überreste freilegt.",
                   "category": "historical",
                   "coords": [
                         -1.712273,
@@ -3173,7 +3173,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Bamburgh Lighthouse",
-                  "text": "Leuchtturm an der Küste von Northumberland bei Bamburgh.",
+                  "text": "Ein Leuchtturm an der felsigen Küste unterhalb von Bamburgh Castle.",
                   "category": "landmark",
                   "coords": [
                         -1.724259,
@@ -3182,7 +3182,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Farne Island Lighthouse",
-                  "text": "Leuchtturm auf den Farne-Inseln vor der Küste Bamburghs.",
+                  "text": "Ein Leuchtturm auf Farne Island vor der Küste von Bamburgh.",
                   "category": "landmark",
                   "coords": [
                         -1.655637,
@@ -3209,7 +3209,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Prior Castell's Tower",
-                  "text": "Historischer Turm auf den Farne-Inseln bei Bamburgh.",
+                  "text": "Prior Castell's Tower ist ein mittelalterlicher Peleturm in der Nähe von Bamburgh Castle.",
                   "category": "castle",
                   "coords": [
                         -1.655705,
@@ -3218,7 +3218,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Ross Back Sands",
-                  "text": "Langer Sandstrand mit Blick auf Bamburgh Castle.",
+                  "text": "Ross Back Sands ist ein abgelegener Sandstrand mit Dünen und Blick auf Bamburgh Castle.",
                   "category": "recreational",
                   "coords": [
                         -1.761346,
@@ -3227,7 +3227,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Wreck of trawler \"Children's Friend\"",
-                  "text": "Sichtbare Überreste eines Schiffswracks an der Küste.",
+                  "text": "Das Wrack des Trawlers 'Children's Friend' liegt am Strand nahe Bamburgh und ist bei Ebbe sichtbar.",
                   "category": "historical",
                   "coords": [
                         -1.647439,
@@ -3238,7 +3238,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "hu": [
             {
                   "name": "Bamburgh Research Project Archaeological Site",
-                  "text": "Régészeti feltárás a történelmi Bamburgh váránál.",
+                  "text": "Egy folyamatban lévő régészeti feltárás a Bamburgh kastélynál, angolszász maradványokat tárva fel.",
                   "category": "historical",
                   "coords": [
                         -1.712273,
@@ -3247,7 +3247,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Bamburgh Lighthouse",
-                  "text": "Világítótorony Northumberland partján, Bamburgh közelében.",
+                  "text": "Világítótorony a sziklás parton, Bamburgh vára alatt.",
                   "category": "landmark",
                   "coords": [
                         -1.724259,
@@ -3256,7 +3256,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Farne Island Lighthouse",
-                  "text": "Világítótorony a Farne-szigeteken, Bamburgh partjainál.",
+                  "text": "Világítótorony a Farne-szigeten, Bamburgh partjainál.",
                   "category": "landmark",
                   "coords": [
                         -1.655637,
@@ -3283,7 +3283,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Prior Castell's Tower",
-                  "text": "Történelmi torony a Farne-szigeteken, Bamburgh közelében.",
+                  "text": "A Prior Castell's Tower egy középkori pele torony Bamburgh vára közelében.",
                   "category": "castle",
                   "coords": [
                         -1.655705,
@@ -3292,7 +3292,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Ross Back Sands",
-                  "text": "Hosszú homokos tengerpart kilátással a Bamburgh várra.",
+                  "text": "A Ross Back Sands egy távoli homokos strand dűnékkel és Bamburgh várára nyíló kilátással.",
                   "category": "recreational",
                   "coords": [
                         -1.761346,
@@ -3301,7 +3301,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Wreck of trawler \"Children's Friend\"",
-                  "text": "Egy hajóroncs látható maradványai a tengerparton.",
+                  "text": "A 'Children's Friend' vonóhálós hajó roncsa a Bamburgh melletti strandon fekszik, alacsony dagálykor látható.",
                   "category": "historical",
                   "coords": [
                         -1.647439,
@@ -3312,7 +3312,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "ro": [
             {
                   "name": "Bamburgh Research Project Archaeological Site",
-                  "text": "Sit de excavare arheologică la castelul istoric Bamburgh.",
+                  "text": "O excavare arheologică în desfășurare la Castelul Bamburgh, dezvăluind rămășițe anglo-saxone.",
                   "category": "historical",
                   "coords": [
                         -1.712273,
@@ -3321,7 +3321,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Bamburgh Lighthouse",
-                  "text": "Far pe coasta Northumberland, lângă Bamburgh.",
+                  "text": "Un far pe coasta stâncoasă de sub castelul Bamburgh.",
                   "category": "landmark",
                   "coords": [
                         -1.724259,
@@ -3330,7 +3330,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Farne Island Lighthouse",
-                  "text": "Far pe insulele Farne, în largul coastei Bamburgh.",
+                  "text": "Un far pe insula Farne, lângă coasta de lângă Bamburgh.",
                   "category": "landmark",
                   "coords": [
                         -1.655637,
@@ -3357,7 +3357,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Prior Castell's Tower",
-                  "text": "Turn istoric pe insulele Farne, lângă Bamburgh.",
+                  "text": "Prior Castell's Tower este un turn medieval de pază lângă Castelul Bamburgh.",
                   "category": "castle",
                   "coords": [
                         -1.655705,
@@ -3366,7 +3366,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Ross Back Sands",
-                  "text": "Plajă lungă de nisip cu vedere spre castelul Bamburgh.",
+                  "text": "Ross Back Sands este o plajă îndepărtată cu nisip, cu dune și vedere la Castelul Bamburgh.",
                   "category": "recreational",
                   "coords": [
                         -1.761346,
@@ -3375,7 +3375,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Wreck of trawler \"Children's Friend\"",
-                  "text": "Rămășițe vizibile ale unei epave pe coastă.",
+                  "text": "Epava traulerului 'Children's Friend' se află pe plaja de lângă Bamburgh, vizibilă la reflux.",
                   "category": "historical",
                   "coords": [
                         -1.647439,
@@ -3386,7 +3386,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "en": [
             {
                   "name": "Bamburgh Research Project Archaeological Site",
-                  "text": "Archaeological excavation site at the historic Bamburgh Castle.",
+                  "text": "An ongoing archaeological excavation at Bamburgh Castle, revealing Anglo-Saxon remains.",
                   "category": "historical",
                   "coords": [
                         -1.712273,
@@ -3395,7 +3395,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Bamburgh Lighthouse",
-                  "text": "Lighthouse on the Northumberland coast near Bamburgh.",
+                  "text": "A lighthouse on the rocky coast beneath Bamburgh Castle.",
                   "category": "landmark",
                   "coords": [
                         -1.724259,
@@ -3404,7 +3404,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Farne Island Lighthouse",
-                  "text": "Lighthouse on the Farne Islands off the Bamburgh coast.",
+                  "text": "A lighthouse on Farne Island off the coast from Bamburgh.",
                   "category": "landmark",
                   "coords": [
                         -1.655637,
@@ -3431,7 +3431,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Prior Castell's Tower",
-                  "text": "Historic tower on the Farne Islands near Bamburgh.",
+                  "text": "Prior Castell's Tower is a medieval pele tower standing near Bamburgh Castle.",
                   "category": "castle",
                   "coords": [
                         -1.655705,
@@ -3440,7 +3440,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Ross Back Sands",
-                  "text": "Long sandy beach with views of Bamburgh Castle.",
+                  "text": "Ross Back Sands is a remote sandy beach with dunes and views of Bamburgh Castle.",
                   "category": "recreational",
                   "coords": [
                         -1.761346,
@@ -3449,7 +3449,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Wreck of trawler \"Children's Friend\"",
-                  "text": "Visible remains of a shipwreck on the coast.",
+                  "text": "The wreck of the trawler 'Children's Friend' lies on the beach near Bamburgh, visible at low tide.",
                   "category": "historical",
                   "coords": [
                         -1.647439,
@@ -3560,7 +3560,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Chapel Rigg Temporary Camp",
-                  "text": "Standort eines ehemaligen römischen temporären Militärlagers.",
+                  "text": "Ein römisches temporäres Lager in der Nähe des Hadrianswalls bei Birdoswald.",
                   "category": "historical",
                   "coords": [
                         -2.554745,
@@ -3634,7 +3634,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Chapel Rigg Temporary Camp",
-                  "text": "Egy egykori római ideiglenes katonai tábor helyszíne.",
+                  "text": "Római ideiglenes tábor a Hadrianus-fal közelében, Birdoswaldnál.",
                   "category": "historical",
                   "coords": [
                         -2.554745,
@@ -3708,7 +3708,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Chapel Rigg Temporary Camp",
-                  "text": "Locul unei foste tabere militare romane temporare.",
+                  "text": "O tabără temporară romană lângă Zidul lui Hadrian de la Birdoswald.",
                   "category": "historical",
                   "coords": [
                         -2.554745,
@@ -3782,7 +3782,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Chapel Rigg Temporary Camp",
-                  "text": "Site of a former Roman temporary military encampment.",
+                  "text": "A Roman temporary camp near Hadrian's Wall at Birdoswald.",
                   "category": "historical",
                   "coords": [
                         -2.554745,
@@ -4136,7 +4136,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Grindon School temporary camp",
-                  "text": "Der Standort eines ehemaligen temporären römischen Militärlagers.",
+                  "text": "Ein römisches temporäres Lager in der Nähe des Hadrianswalls bei Housesteads.",
                   "category": "historical",
                   "coords": [
                         -2.292291,
@@ -4210,7 +4210,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Grindon School temporary camp",
-                  "text": "Egy egykori ideiglenes római katonai tábor helyszíne.",
+                  "text": "Római ideiglenes tábor a Hadrianus-fal közelében, Housesteadsnél.",
                   "category": "historical",
                   "coords": [
                         -2.292291,
@@ -4284,7 +4284,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Grindon School temporary camp",
-                  "text": "Locul unei foste tabere militare romane temporare.",
+                  "text": "O tabără temporară romană lângă Zidul lui Hadrian de la Housesteads.",
                   "category": "historical",
                   "coords": [
                         -2.292291,
@@ -4358,7 +4358,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Grindon School temporary camp",
-                  "text": "The site of a former temporary Roman military camp.",
+                  "text": "A Roman temporary camp near Hadrian's Wall at Housesteads.",
                   "category": "historical",
                   "coords": [
                         -2.292291,
@@ -4514,7 +4514,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Traeth Llandanwg Beach",
-                  "text": "Traeth Llandanwg Strand in der Nähe von Harlech Castle.",
+                  "text": "Der Traeth Llandanwg Beach ist ein Sandstrand mit Dünen und Blick auf Harlech Castle.",
                   "category": "recreational",
                   "coords": [
                         -4.126738,
@@ -4523,7 +4523,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Traeth Harlech",
-                  "text": "Ein historisch geprägter Sandstrand unterhalb des Schlosses Harlech.",
+                  "text": "Traeth Harlech ist ein langer Sandstrand unter den Klippen von Harlech Castle.",
                   "category": "recreational",
                   "coords": [
                         -4.142818,
@@ -4532,7 +4532,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Llandanwg Beach",
-                  "text": "Llandanwg Beach befindet sich in der Nähe von Harlech Castle.",
+                  "text": "Der Llandanwg Beach ist ein ruhiger Sandstrand mit Parkplatz und Zugang zum Wales Coast Path.",
                   "category": "recreational",
                   "coords": [
                         -4.12541,
@@ -4561,7 +4561,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Traeth Llandanwg Beach",
-                  "text": "Traeth Llandanwg strand Harlech Castle közelében.",
+                  "text": "A Traeth Llandanwg Beach egy homokos strand dűnékkel és Harlech várára nyíló kilátással.",
                   "category": "recreational",
                   "coords": [
                         -4.126738,
@@ -4570,7 +4570,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Traeth Harlech",
-                  "text": "Történelmi hangulatú homokos strand a Harlech-kastély alatt.",
+                  "text": "A Traeth Harlech egy hosszú homokos strand a Harlech vára sziklái alatt.",
                   "category": "recreational",
                   "coords": [
                         -4.142818,
@@ -4579,7 +4579,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Llandanwg Beach",
-                  "text": "A Llandanwg Beach a Harlech kastély közelében található.",
+                  "text": "A Llandanwg Beach egy csendes homokos strand parkolóval és hozzáféréssel a Wales Coast Pathhez.",
                   "category": "recreational",
                   "coords": [
                         -4.12541,
@@ -4608,7 +4608,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Traeth Llandanwg Beach",
-                  "text": "Plaja Traeth Llandanwg lângă Harlech Castle.",
+                  "text": "Traeth Llandanwg Beach este o plajă cu nisip cu dune și vedere la Castelul Harlech.",
                   "category": "recreational",
                   "coords": [
                         -4.126738,
@@ -4617,7 +4617,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Traeth Harlech",
-                  "text": "O plajă cu nisip cu atmosferă istorică sub castelul Harlech.",
+                  "text": "Traeth Harlech este o plajă lungă cu nisip sub stâncile Castelului Harlech.",
                   "category": "recreational",
                   "coords": [
                         -4.142818,
@@ -4626,7 +4626,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Llandanwg Beach",
-                  "text": "Llandanwg Beach se află în apropierea castelului Harlech.",
+                  "text": "Llandanwg Beach este o plajă liniștită cu nisip, cu parcare și acces la Wales Coast Path.",
                   "category": "recreational",
                   "coords": [
                         -4.12541,
@@ -4655,7 +4655,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Traeth Llandanwg Beach",
-                  "text": "Traeth Llandanwg beach near Harlech Castle.",
+                  "text": "Traeth Llandanwg Beach is a sandy beach with dunes and a view of Harlech Castle.",
                   "category": "recreational",
                   "coords": [
                         -4.126738,
@@ -4664,7 +4664,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Traeth Harlech",
-                  "text": "A scenic sandy beach located below Harlech Castle.",
+                  "text": "Traeth Harlech is a long sandy beach beneath the cliffs of Harlech Castle.",
                   "category": "recreational",
                   "coords": [
                         -4.142818,
@@ -4673,7 +4673,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "Llandanwg Beach",
-                  "text": "Llandanwg Beach is located near Harlech Castle.",
+                  "text": "Llandanwg Beach is a quiet sandy beach with parking and access to the Wales Coast Path.",
                   "category": "recreational",
                   "coords": [
                         -4.12541,
@@ -4775,7 +4775,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "St Marks Staplecross",
-                  "text": "Ein christliches Gotteshaus in der Ortschaft Staplecross.",
+                  "text": "Eine Kirche im Dorf Staplecross in der Nähe von Bodiam Castle.",
                   "category": "religious",
                   "coords": [
                         0.539714,
@@ -4849,7 +4849,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "St Marks Staplecross",
-                  "text": "Keresztény templom Staplecross településén.",
+                  "text": "Templom Staplecross faluban, Bodiam vára közelében.",
                   "category": "religious",
                   "coords": [
                         0.539714,
@@ -4923,7 +4923,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "St Marks Staplecross",
-                  "text": "Un lăcaș de cult creștin situat în localitatea Staplecross.",
+                  "text": "O biserică în satul Staplecross lângă castelul Bodiam.",
                   "category": "religious",
                   "coords": [
                         0.539714,
@@ -4997,7 +4997,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
             },
             {
                   "name": "St Marks Staplecross",
-                  "text": "A Christian place of worship located in the village of Staplecross.",
+                  "text": "A church in the village of Staplecross near Bodiam Castle.",
                   "category": "religious",
                   "coords": [
                         0.539714,
@@ -5081,7 +5081,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "de": [
             {
                   "name": "Fossil Beach",
-                  "text": "Ein Strand nahe der Burg Chepstow.",
+                  "text": "Eine Küstenlinie mit Jura-Fossilien in den Klippen nahe Chepstow Castle.",
                   "category": "recreational",
                   "coords": [
                         -2.642569,
@@ -5092,7 +5092,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "hu": [
             {
                   "name": "Fossil Beach",
-                  "text": "Strand a Chepstow vár közelében.",
+                  "text": "Egy partszakasz jura-kori kövületekkel a sziklákban Chepstow kastélya közelében.",
                   "category": "recreational",
                   "coords": [
                         -2.642569,
@@ -5103,7 +5103,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "ro": [
             {
                   "name": "Fossil Beach",
-                  "text": "O plajă lângă castelul Chepstow.",
+                  "text": "O linie de coastă cu fosile jurasice în stâncile de lângă Castelul Chepstow.",
                   "category": "recreational",
                   "coords": [
                         -2.642569,
@@ -5114,7 +5114,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
       "en": [
             {
                   "name": "Fossil Beach",
-                  "text": "A beach near Chepstow Castle.",
+                  "text": "A shoreline with Jurassic fossils in the cliffs near Chepstow Castle.",
                   "category": "recreational",
                   "coords": [
                         -2.642569,

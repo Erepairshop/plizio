@@ -300,7 +300,7 @@ imageHint: "Fulufjället National Park Njupeskär waterfall",
             },
             {
                   "name": "Skuleskogen Entré Väst",
-                  "text": "Der westliche Eingang zum Nationalpark Skuleskogen.",
+                  "text": "Der Westeingang des Skuleskogen-Nationalparks mit Blick auf die Slåttdalsskrevan-Schlucht.",
                   "category": "landmark",
                   "coords": [
                         18.425433,
@@ -338,7 +338,7 @@ imageHint: "Fulufjället National Park Njupeskär waterfall",
             },
             {
                   "name": "Skuleskogen Entré Väst",
-                  "text": "A Skuleskogen Nemzeti Park nyugati bejárata.",
+                  "text": "A Skuleskogen Nemzeti Park nyugati bejárata a Slåttdalsskrevan-szurdokra néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         18.425433,
@@ -376,7 +376,7 @@ imageHint: "Fulufjället National Park Njupeskär waterfall",
             },
             {
                   "name": "Skuleskogen Entré Väst",
-                  "text": "Intrarea de vest a Parcului Național Skuleskogen.",
+                  "text": "Intrarea de vest a Parcului Național Skuleskogen, cu vedere la defileul Slåttdalsskrevan.",
                   "category": "landmark",
                   "coords": [
                         18.425433,
@@ -414,7 +414,7 @@ imageHint: "Fulufjället National Park Njupeskär waterfall",
             },
             {
                   "name": "Skuleskogen Entré Väst",
-                  "text": "The western entrance to the Skuleskogen National Park.",
+                  "text": "The western entrance to Skuleskogen National Park with views of the Slåttdalsskrevan ravine.",
                   "category": "landmark",
                   "coords": [
                         18.425433,
@@ -1007,7 +1007,7 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
       "de": [
             {
                   "name": "Vitsand",
-                  "text": "Strand im Tiveden-Nationalpark.",
+                  "text": "Ein Weißsandstrand am Vätternsee nahe dem Tiveden-Nationalpark.",
                   "category": "recreational",
                   "coords": [
                         14.57005,
@@ -1081,7 +1081,7 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
       "hu": [
             {
                   "name": "Vitsand",
-                  "text": "Strand a Tiveden Nemzeti Parkban.",
+                  "text": "Fehér homokos strand a Vättern-tónál, a Tiveden Nemzeti Park közelében.",
                   "category": "recreational",
                   "coords": [
                         14.57005,
@@ -1155,7 +1155,7 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
       "ro": [
             {
                   "name": "Vitsand",
-                  "text": "Plajă în Parcul Național Tiveden.",
+                  "text": "O plajă cu nisip alb pe lacul Vättern lângă Parcul Național Tiveden.",
                   "category": "recreational",
                   "coords": [
                         14.57005,
@@ -1229,7 +1229,7 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
       "en": [
             {
                   "name": "Vitsand",
-                  "text": "Beach in Tiveden National Park.",
+                  "text": "A white sand beach on Lake Vättern near Tiveden National Park.",
                   "category": "recreational",
                   "coords": [
                         14.57005,
@@ -1413,7 +1413,7 @@ imageHint: "Tiveden National Park mossy boulders and forest",
             },
             {
                   "name": "Bro kyrka",
-                  "text": "Eine historische Kirche in der Nähe des Nordens Ark Parks.",
+                  "text": "Bro kyrka – um 1200 erbaute Kirche nahe Nordens Ark.",
                   "category": "religious",
                   "coords": [
                         11.481514,
@@ -1496,7 +1496,7 @@ imageHint: "Tiveden National Park mossy boulders and forest",
             },
             {
                   "name": "Bro kyrka",
-                  "text": "Történelmi templom Nordens Ark közelében.",
+                  "text": "Bro kyrka – 1200 körül épült templom Nordens Ark közelében.",
                   "category": "religious",
                   "coords": [
                         11.481514,
@@ -1579,7 +1579,7 @@ imageHint: "Tiveden National Park mossy boulders and forest",
             },
             {
                   "name": "Bro kyrka",
-                  "text": "O biserică istorică situată în apropierea parcului Nordens Ark.",
+                  "text": "Bro kyrca – biserică construită în jurul anului 1200, lângă Nordens Ark.",
                   "category": "religious",
                   "coords": [
                         11.481514,
@@ -1662,7 +1662,7 @@ imageHint: "Tiveden National Park mossy boulders and forest",
             },
             {
                   "name": "Bro kyrka",
-                  "text": "A historic church located near the Nordens Ark park.",
+                  "text": "Bro kyrka – church built around 1200 near Nordens Ark.",
                   "category": "religious",
                   "coords": [
                         11.481514,
@@ -2200,7 +2200,7 @@ imageHint: "Gothenburg Botanical Garden flowers and pathways",
       "de": [
             {
                   "name": "Grottviken",
-                  "text": "Strand in der Nähe des Bergius-Gartens in Stockholm.",
+                  "text": "Eine felsige Bucht (Grottviken) nahe dem Bergius Botanischen Garten.",
                   "category": "recreational",
                   "coords": [
                         18.087793,
@@ -2220,7 +2220,7 @@ imageHint: "Gothenburg Botanical Garden flowers and pathways",
       "hu": [
             {
                   "name": "Grottviken",
-                  "text": "Part a stockholmi Bergius Botanikus Kert közelében.",
+                  "text": "Sziklás öböl (Grottviken) a Bergius Botanikus Kert közelében.",
                   "category": "recreational",
                   "coords": [
                         18.087793,
@@ -2240,7 +2240,7 @@ imageHint: "Gothenburg Botanical Garden flowers and pathways",
       "ro": [
             {
                   "name": "Grottviken",
-                  "text": "Plajă în apropiere de Grădina Botanică Bergius.",
+                  "text": "Un golf stâncos (Grottviken) lângă Grădina Botanică Bergius.",
                   "category": "recreational",
                   "coords": [
                         18.087793,
@@ -2260,7 +2260,7 @@ imageHint: "Gothenburg Botanical Garden flowers and pathways",
       "en": [
             {
                   "name": "Grottviken",
-                  "text": "Beach near Bergius Botanical Garden.",
+                  "text": "A rocky cove (Grottviken) near Bergius Botanical Garden.",
                   "category": "recreational",
                   "coords": [
                         18.087793,
@@ -2390,7 +2390,7 @@ imageHint: "Bergius Botanical Garden historic greenhouse",
             },
             {
                   "name": "Hånger ödekyrkogård",
-                  "text": "Ein historischer verlassener Friedhof in Hornborgasjön.",
+                  "text": "Ein verlassener Kirchhof in Hånger am Hornborgasjön.",
                   "category": "historical",
                   "coords": [
                         13.523983,
@@ -2464,7 +2464,7 @@ imageHint: "Bergius Botanical Garden historic greenhouse",
             },
             {
                   "name": "Hånger ödekyrkogård",
-                  "text": "Történelmi elhagyatott temető Hornborgasjön területén.",
+                  "text": "Elhagyott templomkert Hångerben a Hornborgasjön-tónál.",
                   "category": "historical",
                   "coords": [
                         13.523983,
@@ -2538,7 +2538,7 @@ imageHint: "Bergius Botanical Garden historic greenhouse",
             },
             {
                   "name": "Hånger ödekyrkogård",
-                  "text": "Un cimitir istoric abandonat în Hornborgasjön.",
+                  "text": "Un cimitir bisericesc abandonat la Hånger lângă Lacul Hornborgasjön.",
                   "category": "historical",
                   "coords": [
                         13.523983,
@@ -2612,7 +2612,7 @@ imageHint: "Bergius Botanical Garden historic greenhouse",
             },
             {
                   "name": "Hånger ödekyrkogård",
-                  "text": "A historic abandoned cemetery located in Hornborgasjön.",
+                  "text": "An abandoned churchyard at Hånger near Lake Hornborgasjön.",
                   "category": "historical",
                   "coords": [
                         13.523983,
@@ -2734,7 +2734,7 @@ imageHint: "Hornborgasjön lake with thousands of cranes",
             },
             {
                   "name": "Svanshals kyrka",
-                  "text": "Eine historische schwedische Kirche in der Nähe des Tåkern-Sees.",
+                  "text": "Svanshals kyrka – Kirche am Tåkern-See.",
                   "category": "religious",
                   "coords": [
                         14.804036,
@@ -2790,7 +2790,7 @@ imageHint: "Hornborgasjön lake with thousands of cranes",
             },
             {
                   "name": "Svanshals kyrka",
-                  "text": "Történelmi svéd templom a Tåkern-tó közelében.",
+                  "text": "Svanshals kyrka – templom a Tåkern-tó mellett.",
                   "category": "religious",
                   "coords": [
                         14.804036,
@@ -2846,7 +2846,7 @@ imageHint: "Hornborgasjön lake with thousands of cranes",
             },
             {
                   "name": "Svanshals kyrka",
-                  "text": "O biserică suedeză istorică situată în apropierea lacului Tåkern.",
+                  "text": "Svanshals kyrca – biserică lângă Lacul Tåkern.",
                   "category": "religious",
                   "coords": [
                         14.804036,
@@ -2902,7 +2902,7 @@ imageHint: "Hornborgasjön lake with thousands of cranes",
             },
             {
                   "name": "Svanshals kyrka",
-                  "text": "A historic Swedish church located near Lake Tåkern.",
+                  "text": "Svanshals kyrka – church near Lake Tåkern.",
                   "category": "religious",
                   "coords": [
                         14.804036,
@@ -3014,7 +3014,7 @@ imageHint: "Tåkern lake with reeds and bird life",
             },
             {
                   "name": "Falsterbohus slott",
-                  "text": "Die Ruinen einer mittelalterlichen Burg in Falsterbo.",
+                  "text": "Falsterbohus slott – Burgruine nahe der Vogelwarte Falsterbo.",
                   "category": "castle",
                   "coords": [
                         12.829241,
@@ -3032,7 +3032,7 @@ imageHint: "Tåkern lake with reeds and bird life",
             },
             {
                   "name": "Andreas Lundbergagården",
-                  "text": "Ein Freilichtmuseum und historischer Hof in Falsterbo.",
+                  "text": "Andreas Lundbergagården ist ein historisches Bauernhausmuseum in Falsterbo nahe der Vogelwarte.",
                   "category": "museum",
                   "coords": [
                         12.836922,
@@ -3088,7 +3088,7 @@ imageHint: "Tåkern lake with reeds and bird life",
             },
             {
                   "name": "Falsterbohus slott",
-                  "text": "Egy középkori vár romjai Falsterbo területén.",
+                  "text": "Falsterbohus slott – várrom a Falsterbo Madárvártához közel.",
                   "category": "castle",
                   "coords": [
                         12.829241,
@@ -3106,7 +3106,7 @@ imageHint: "Tåkern lake with reeds and bird life",
             },
             {
                   "name": "Andreas Lundbergagården",
-                  "text": "Szabadtéri múzeum és történelmi gazdaság Falsterbo városában.",
+                  "text": "Andreas Lundbergagården egy történelmi tanyamúzeum Falsterbóban, a madárvárta közelében.",
                   "category": "museum",
                   "coords": [
                         12.836922,
@@ -3162,7 +3162,7 @@ imageHint: "Tåkern lake with reeds and bird life",
             },
             {
                   "name": "Falsterbohus slott",
-                  "text": "Ruinele unei cetăți medievale situate în Falsterbo.",
+                  "text": "Falsterbohus slott – ruină de castel lângă Observatorul de Păsări Falsterbo.",
                   "category": "castle",
                   "coords": [
                         12.829241,
@@ -3180,7 +3180,7 @@ imageHint: "Tåkern lake with reeds and bird life",
             },
             {
                   "name": "Andreas Lundbergagården",
-                  "text": "Un muzeu în aer liber și o fermă istorică situată în Falsterbo.",
+                  "text": "Andreas Lundbergagården este un muzeu istoric de fermă în Falsterbo, lângă observatorul de păsări.",
                   "category": "museum",
                   "coords": [
                         12.836922,
@@ -3236,7 +3236,7 @@ imageHint: "Tåkern lake with reeds and bird life",
             },
             {
                   "name": "Falsterbohus slott",
-                  "text": "The ruins of a medieval castle located in Falsterbo.",
+                  "text": "Falsterbohus slott – castle ruins near Falsterbo Bird Observatory.",
                   "category": "castle",
                   "coords": [
                         12.829241,
@@ -3254,7 +3254,7 @@ imageHint: "Tåkern lake with reeds and bird life",
             },
             {
                   "name": "Andreas Lundbergagården",
-                  "text": "An open-air museum and historic farmstead located in Falsterbo.",
+                  "text": "Andreas Lundbergagården is a historic farmhouse museum in Falsterbo, near the bird observatory.",
                   "category": "museum",
                   "coords": [
                         12.836922,
@@ -3719,7 +3719,7 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
       "de": [
             {
                   "name": "Höörs Mölla",
-                  "text": "Ein historisches Mühlenmuseum in der Nähe des Skånes Djurparks.",
+                  "text": "Höörs Mölla ist ein Windmühlenmuseum aus dem 19. Jahrhundert in Höör, nahe dem Skånes Djurpark.",
                   "category": "museum",
                   "coords": [
                         13.533125,
@@ -3755,7 +3755,7 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
             },
             {
                   "name": "Ekastiga",
-                  "text": "Ein kleines Naturschutzgebiet, das für seinen Buchenwald bekannt ist.",
+                  "text": "Ekastiga ist ein Naturlehrpfad durch Buchenwald im Söderåsen-Gebiet, nahe dem Skånes Djurpark.",
                   "category": "natural",
                   "coords": [
                         13.521637,
@@ -3793,7 +3793,7 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
       "hu": [
             {
                   "name": "Höörs Mölla",
-                  "text": "Történelmi malommúzeum a Skånes Djurpark közelében.",
+                  "text": "Höörs Mölla egy 19. századi szélmalom múzeum Höörben, a Skånes Djurpark közelében.",
                   "category": "museum",
                   "coords": [
                         13.533125,
@@ -3829,7 +3829,7 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
             },
             {
                   "name": "Ekastiga",
-                  "text": "Kicsi természetvédelmi terület, amely bükkerdejéről ismert.",
+                  "text": "Ekastiga egy természeti tanösvény bükkös erdőn át a Söderåsen területen, a Skånes Djurpark közelében.",
                   "category": "natural",
                   "coords": [
                         13.521637,
@@ -3867,7 +3867,7 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
       "ro": [
             {
                   "name": "Höörs Mölla",
-                  "text": "Un muzeu istoric al unei mori situat lângă Skånes Djurpark.",
+                  "text": "Höörs Mölla este un muzeu al unei mori de vânt din secolul al XIX-lea în Höör, lângă Skånes Djurpark.",
                   "category": "museum",
                   "coords": [
                         13.533125,
@@ -3903,7 +3903,7 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
             },
             {
                   "name": "Ekastiga",
-                  "text": "O mică rezervație naturală cunoscută pentru pădurea sa de fagi.",
+                  "text": "Ekastiga este un traseu natural prin pădure de fag în zona Söderåsen, lângă Skånes Djurpark.",
                   "category": "natural",
                   "coords": [
                         13.521637,
@@ -3941,7 +3941,7 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
       "en": [
             {
                   "name": "Höörs Mölla",
-                  "text": "A historical mill museum located near Skånes Djurpark.",
+                  "text": "Höörs Mölla is a 19th-century windmill museum in Höör, close to Skånes Djurpark.",
                   "category": "museum",
                   "coords": [
                         13.533125,
@@ -3977,7 +3977,7 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
             },
             {
                   "name": "Ekastiga",
-                  "text": "A small nature reserve known for its beech forest.",
+                  "text": "Ekastiga is a nature trail through beech forest in the Söderåsen area, near Skånes Djurpark.",
                   "category": "natural",
                   "coords": [
                         13.521637,
@@ -4830,7 +4830,7 @@ imageHint: "Söderåsen National Park autumn beech forest",
       "de": [
             {
                   "name": "Las Palmas",
-                  "text": "Ein abgelegener Strand im Nationalpark Gotska Sandön.",
+                  "text": "Der Strandbereich Las Palmas auf der Insel Gotska Sandön.",
                   "category": "recreational",
                   "coords": [
                         19.254752,
@@ -4841,7 +4841,7 @@ imageHint: "Söderåsen National Park autumn beech forest",
       "hu": [
             {
                   "name": "Las Palmas",
-                  "text": "Félreeső strand a Gotska Sandön Nemzeti Parkban.",
+                  "text": "A Las Palmas strand a Gotska Sandön szigetén.",
                   "category": "recreational",
                   "coords": [
                         19.254752,
@@ -4852,7 +4852,7 @@ imageHint: "Söderåsen National Park autumn beech forest",
       "ro": [
             {
                   "name": "Las Palmas",
-                  "text": "O plajă izolată în Parcul Național Gotska Sandön.",
+                  "text": "Zona de plajă Las Palmas pe insula Gotska Sandön.",
                   "category": "recreational",
                   "coords": [
                         19.254752,
@@ -4863,7 +4863,7 @@ imageHint: "Söderåsen National Park autumn beech forest",
       "en": [
             {
                   "name": "Las Palmas",
-                  "text": "A remote beach in Gotska Sandön National Park.",
+                  "text": "The Las Palmas beach area on Gotska Sandön Island.",
                   "category": "recreational",
                   "coords": [
                         19.254752,

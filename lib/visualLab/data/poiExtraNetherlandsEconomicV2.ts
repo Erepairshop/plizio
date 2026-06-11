@@ -7,7 +7,7 @@ export const netherlandsEconomicV2: POI[] = [
       "de": [
             {
                   "name": "De Goliath",
-                  "text": "Eine historische Poldermühle in der Nähe von Eemshaven.",
+                  "text": "Eine Windmühle in Emo Port Eems, erbaut 1897.",
                   "category": "landmark",
                   "coords": [
                         6.784508,
@@ -18,7 +18,7 @@ export const netherlandsEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "De Goliath",
-                  "text": "Történelmi poldermalom Eemshaven közelében.",
+                  "text": "Szélmalom Emo Port Eemsben, 1897-ben épült.",
                   "category": "landmark",
                   "coords": [
                         6.784508,
@@ -29,7 +29,7 @@ export const netherlandsEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "De Goliath",
-                  "text": "O moară de vânt istorică situată lângă Eemshaven.",
+                  "text": "O moară de vânt în Emo Port Eems, construită în 1897.",
                   "category": "landmark",
                   "coords": [
                         6.784508,
@@ -40,7 +40,7 @@ export const netherlandsEconomicV2: POI[] = [
       "en": [
             {
                   "name": "De Goliath",
-                  "text": "A historic polder windmill located near Eemshaven.",
+                  "text": "A windmill in Emo Port Eems, built in 1897.",
                   "category": "landmark",
                   "coords": [
                         6.784508,
@@ -475,7 +475,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "WestlandTheater De Naald",
-                  "text": "WestlandTheater De Naald ist ein Kulturzentrum und Theater in Naaldwijk.",
+                  "text": "Das WestlandTheater De Naald ist ein Theater in Greenport Westland, bekannt für sein modernes Design.",
                   "category": "cultural",
                   "coords": [
                         4.209506,
@@ -484,7 +484,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "Tekno Collectables",
-                  "text": "Tekno Collectables ist ein Museum und Geschäft für hochwertige LKW-Modelle.",
+                  "text": "Tekno Collectables ist ein Museum in Greenport Westland, das sich Sammlerstücken und Retro-Technik widmet.",
                   "category": "museum",
                   "coords": [
                         4.238133,
@@ -511,7 +511,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij",
-                  "text": "Ein öffentlicher Kinderbauernhof mit heimischen Tieren.",
+                  "text": "Der Kinderboerderij ist ein Streichelzoo in Greenport Westland, ideal für Familien.",
                   "category": "recreational",
                   "coords": [
                         4.246282,
@@ -585,7 +585,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "WestlandTheater De Naald",
-                  "text": "A WestlandTheater De Naald egy kulturális központ és színház Naaldwijkben.",
+                  "text": "A WestlandTheater De Naald egy színház Greenport Westlandban, modern dizájnjáról ismert.",
                   "category": "cultural",
                   "coords": [
                         4.209506,
@@ -594,7 +594,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "Tekno Collectables",
-                  "text": "A Tekno Collectables egy múzeum és üzlet, amely kiváló minőségű teherautó-modelleket mutat be.",
+                  "text": "A Tekno Collectables egy múzeum Greenport Westlandban, gyűjteményi tárgyaknak és retró technikának szentelve.",
                   "category": "museum",
                   "coords": [
                         4.238133,
@@ -621,7 +621,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij",
-                  "text": "Nyilvános gyermekfarm háziállatokkal.",
+                  "text": "A Kinderboerderij egy simogató állatkert Greenport Westlandban, családok számára ideális.",
                   "category": "recreational",
                   "coords": [
                         4.246282,
@@ -695,7 +695,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "WestlandTheater De Naald",
-                  "text": "WestlandTheater De Naald este un centru cultural și teatru situat în Naaldwijk.",
+                  "text": "WestlandTheater De Naald este un teatru în Greenport Westland, cunoscut pentru designul său modern.",
                   "category": "cultural",
                   "coords": [
                         4.209506,
@@ -704,7 +704,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "Tekno Collectables",
-                  "text": "Tekno Collectables este un muzeu și magazin dedicat machetelor de camioane de înaltă calitate.",
+                  "text": "Tekno Collectables este un muzeu în Greenport Westland dedicat obiectelor de colecție și tehnologiei retro.",
                   "category": "museum",
                   "coords": [
                         4.238133,
@@ -731,7 +731,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij",
-                  "text": "O fermă publică pentru copii cu animale domestice.",
+                  "text": "Kinderboerderij este o fermă de animale de mângâiat în Greenport Westland, ideală pentru familii.",
                   "category": "recreational",
                   "coords": [
                         4.246282,
@@ -805,7 +805,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "WestlandTheater De Naald",
-                  "text": "WestlandTheater De Naald is a cultural center and theatre located in Naaldwijk.",
+                  "text": "WestlandTheater De Naald is a theatre in Greenport Westland, known for its modern design.",
                   "category": "cultural",
                   "coords": [
                         4.209506,
@@ -814,7 +814,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "Tekno Collectables",
-                  "text": "Tekno Collectables is a museum and shop featuring high-quality model trucks.",
+                  "text": "Tekno Collectables is a museum in Greenport Westland dedicated to collectables and retro technology.",
                   "category": "museum",
                   "coords": [
                         4.238133,
@@ -841,7 +841,7 @@ export const netherlandsEconomicV2: POI[] = [
             },
             {
                   "name": "Kinderboerderij",
-                  "text": "A public children's farm featuring domestic animals.",
+                  "text": "Kinderboerderij is a petting zoo in Greenport Westland, ideal for families.",
                   "category": "recreational",
                   "coords": [
                         4.246282,
@@ -2631,7 +2631,124 @@ export const netherlandsEconomicV2: POI[] = [
     image: "/poi-images/netherlands-agri-hub-venlo-economic-v2.webp",
   },
   {
-    id: "netherlands-port-lelystad-economic-v2", "sights": {"de": [{"name": "Houtribhoekstrand", "text": "Houtribhoekstrand am Hafen von Lelystad.", "category": "recreational", "coords": [5.455388, 52.548827]}, {"name": "Bataviastrand", "text": "Strand am Hafen von Lelystad, ein Ort zur Entspannung am Wasser.", "category": "recreational", "coords": [5.424323, 52.525525]}, {"name": "Strand 't Bovenwater", "text": "Am Hafen von Lelystad ruhend, ist der Strand 't Bovenwater ein herrlicher Ort direkt am Wasser. Die Nähe zum Hafen verleiht ihm eine interessante, dynamische Atmosphäre, die sich gut mit Erholung verbinden lässt. Es ist ein einladender Platz, um vorbeifahrende Boote zu beobachten, am Ufer zu entspannen oder einen gemütlichen Spaziergang zu unternehmen. Packen Sie am besten eine Windjacke ein, da auf dem offenen Wasser gelegentlich eine steife Brise weht.", "category": "recreational", "coords": [5.419491, 52.485505]}], "hu": [{"name": "Houtribhoekstrand", "text": "Houtribhoekstrand Lelystad kikötőjénél.", "category": "recreational", "coords": [5.455388, 52.548827]}, {"name": "Bataviastrand", "text": "Strand Lelystad kikötőjében, pihenőhely a víz mellett.", "category": "recreational", "coords": [5.424323, 52.525525]}, {"name": "Strand 't Bovenwater", "text": "A lelystadi kikötőnél elterülő Strand 't Bovenwater egy elragadó vízparti helyszín. A kikötő közelsége érdekes, dinamikus légkört teremt, amely jól kiegészíti a pihenést. Hívogató tér az elhaladó hajók megfigyelésére, a vízparti lazításra, vagy egy kellemes sétára. Érdemes széldzsekit csomagolni, mivel a nyílt víz felől időnként erős szél fújhat.", "category": "recreational", "coords": [5.419491, 52.485505]}], "ro": [{"name": "Houtribhoekstrand", "text": "Houtribhoekstrand la portul Lelystad.", "category": "recreational", "coords": [5.455388, 52.548827]}, {"name": "Bataviastrand", "text": "Plajă la portul Lelystad, un loc de relaxare pe malul apei.", "category": "recreational", "coords": [5.424323, 52.525525]}, {"name": "Strand 't Bovenwater", "text": "Odihnindu-se lângă portul din Lelystad, Strand 't Bovenwater este o locație încântătoare la malul apei. Proximitatea portului îi conferă o atmosferă interesantă și dinamică, combinată cu relaxarea. Este un spațiu primitor pentru a privi bărcile care trec, a vă relaxa pe malul apei sau a face o plimbare ușoară. Puneți-vă în bagaj o geacă de vânt, deoarece apa deschisă poate aduce uneori o briză aspră.", "category": "recreational", "coords": [5.419491, 52.485505]}], "en": [{"name": "Houtribhoekstrand", "text": "Houtribhoekstrand at the port of Lelystad.", "category": "recreational", "coords": [5.455388, 52.548827]}, {"name": "Bataviastrand", "text": "Beach at the port of Lelystad, a spot for relaxation by the water.", "category": "recreational", "coords": [5.424323, 52.525525]}, {"name": "Strand 't Bovenwater", "text": "Resting by the harbor of Lelystad, Strand 't Bovenwater is a delightful waterside location. The proximity to the port gives it an interesting, dynamic atmosphere combined with leisure. It is an inviting space to watch passing boats, relax on the waterfront, or enjoy a gentle stroll. Pack a windbreaker, as the open water can occasionally bring a stiff breeze.", "category": "recreational", "coords": [5.419491, 52.485505]}]},
+    id: "netherlands-port-lelystad-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Houtribhoekstrand",
+                  "text": "Der Houtribhoekstrand ist ein Strand am Houtribdijk in Port Lelystad, am IJsselmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        5.455388,
+                        52.548827
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Strand am Hafen von Lelystad, ein Ort zur Entspannung am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "Strand 't Bovenwater",
+                  "text": "Am Hafen von Lelystad ruhend, ist der Strand 't Bovenwater ein herrlicher Ort direkt am Wasser. Die Nähe zum Hafen verleiht ihm eine interessante, dynamische Atmosphäre, die sich gut mit Erholung verbinden lässt. Es ist ein einladender Platz, um vorbeifahrende Boote zu beobachten, am Ufer zu entspannen oder einen gemütlichen Spaziergang zu unternehmen. Packen Sie am besten eine Windjacke ein, da auf dem offenen Wasser gelegentlich eine steife Brise weht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.419491,
+                        52.485505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Houtribhoekstrand",
+                  "text": "A Houtribhoekstrand egy strand a Houtribdijknél Port Lelystadban, az IJsselmeer partján.",
+                  "category": "recreational",
+                  "coords": [
+                        5.455388,
+                        52.548827
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Strand Lelystad kikötőjében, pihenőhely a víz mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "Strand 't Bovenwater",
+                  "text": "A lelystadi kikötőnél elterülő Strand 't Bovenwater egy elragadó vízparti helyszín. A kikötő közelsége érdekes, dinamikus légkört teremt, amely jól kiegészíti a pihenést. Hívogató tér az elhaladó hajók megfigyelésére, a vízparti lazításra, vagy egy kellemes sétára. Érdemes széldzsekit csomagolni, mivel a nyílt víz felől időnként erős szél fújhat.",
+                  "category": "recreational",
+                  "coords": [
+                        5.419491,
+                        52.485505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Houtribhoekstrand",
+                  "text": "Houtribhoekstrand este o plajă la Houtribdijk în Port Lelystad, pe malul IJsselmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        5.455388,
+                        52.548827
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Plajă la portul Lelystad, un loc de relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "Strand 't Bovenwater",
+                  "text": "Odihnindu-se lângă portul din Lelystad, Strand 't Bovenwater este o locație încântătoare la malul apei. Proximitatea portului îi conferă o atmosferă interesantă și dinamică, combinată cu relaxarea. Este un spațiu primitor pentru a privi bărcile care trec, a vă relaxa pe malul apei sau a face o plimbare ușoară. Puneți-vă în bagaj o geacă de vânt, deoarece apa deschisă poate aduce uneori o briză aspră.",
+                  "category": "recreational",
+                  "coords": [
+                        5.419491,
+                        52.485505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Houtribhoekstrand",
+                  "text": "Houtribhoekstrand is a beach at the Houtribdijk in Port Lelystad, on the IJsselmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        5.455388,
+                        52.548827
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Beach at the port of Lelystad, a spot for relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "Strand 't Bovenwater",
+                  "text": "Resting by the harbor of Lelystad, Strand 't Bovenwater is a delightful waterside location. The proximity to the port gives it an interesting, dynamic atmosphere combined with leisure. It is an inviting space to watch passing boats, relax on the waterfront, or enjoy a gentle stroll. Pack a windbreaker, as the open water can occasionally bring a stiff breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        5.419491,
+                        52.485505
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NL",
     name: { de: "Hafen Lelystad", hu: "Lelystad kikötő", ro: "Portul Lelystad", en: "Port of Lelystad" },

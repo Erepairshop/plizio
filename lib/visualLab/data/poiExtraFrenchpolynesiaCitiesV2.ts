@@ -93,7 +93,232 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     image: "/poi-images/frenchpolynesia-faaa-cities-v2.webp",
   },
   {
-    id: "frenchpolynesia-punaauia-cities-v2", "sights": {"de": [{"name": "Plage Toaroto", "text": "An der Küste von Puna Auia gelegen, ist die Plage Toaroto ein äußerst malerischer Strand in Französisch-Polynesien. Die lebhafte tropische Umgebung ist ein Paradies für Schwimmrunden im Ozean und Faulenzen unter sich wiegenden Palmen. Endlose Spaziergänge am weißen Sandstrand bieten majestätische Ausblicke auf den fernen Horizont. Der Sonnenuntergang ist zweifellos die atemberaubendste Zeit, um diesen Ort zu besuchen und am Wasser zu verweilen.", "category": "recreational", "coords": [-149.610277, -17.640027]}, {"name": "Plage Publique Vaiava", "text": "Die Plage Publique Vaiava dient als beliebter und gut zugänglicher Strandabschnitt in der lebendigen Stadt Puna Auia. Diese öffentliche Fläche sprüht vor lokaler Energie und ist ein hervorragender Ort, um zu schwimmen und das Strandtuch auszubreiten. Ein Spaziergang hier bringt einen nah an die täglichen Rhythmen der Küste Französisch-Polynesiens heran. Es ist klug, am Morgen anzureisen, um sich einen erstklassigen Platz in der Nähe der sanft plätschernden Wellen zu sichern.", "category": "recreational", "coords": [-149.599278, -17.656837]}, {"name": "Temaruata", "text": "Temaruata ist ein Aussichtspunkt mit Küstenblick in Puna'auia.", "category": "natural", "coords": [-149.597159, -17.649622]}, {"name": "Air Evasion", "text": "Air Evasion ist eine lokale Touristenattraktion in Puna'auia.", "category": "landmark", "coords": [-149.609824, -17.637867]}, {"name": "Point de vue Punavai", "text": "Point de vue Punavai ist ein ausgewiesener Aussichtspunkt in Puna'auia.", "category": "natural", "coords": [-149.600612, -17.620109]}, {"name": "Église Saint-Étienne", "text": "Église Saint-Étienne ist eine lokale religiöse Stätte in Puna'auia.", "category": "religious", "coords": [-149.615461, -17.615769]}], "hu": [{"name": "Plage Toaroto", "text": "A Puna Auia partjait díszítő Plage Toaroto egy rendkívül festői strand Francia Polinéziában. A vibráló trópusi környezet igazi paradicsom az óceáni fürdőzéshez és a ringatózó pálmafák alatti pihenéshez. A fehér homokon tett végtelen séták fenséges kilátást nyújtanak a távoli horizontokra. A naplemente vitathatatlanul a leglélegzetelállítóbb időszak a látogatásra és a vízparti elmélkedésre.", "category": "recreational", "coords": [-149.610277, -17.640027]}, {"name": "Plage Publique Vaiava", "text": "A Plage Publique Vaiava egy népszerű és könnyen megközelíthető tengerpart a nyüzsgő Puna Auia városában. Ez a nyilvános terület pezseg a helyi energiától, így kiváló hely az úszásra és a törölköző kiterítésére. Az itteni séták során közel kerülhetünk Francia Polinézia mindennapi tengerparti ritmusához. Érdemes már reggel kiérkezni, hogy lecsaphassunk egy elsőrangú helyre a lágyan nyaldosó hullámok közelében.", "category": "recreational", "coords": [-149.599278, -17.656837]}, {"name": "Temaruata", "text": "A Temaruata egy kilátó Puna'auia területén.", "category": "natural", "coords": [-149.597159, -17.649622]}, {"name": "Air Evasion", "text": "Az Air Evasion egy helyi turisztikai látványosság Puna'auia területén.", "category": "landmark", "coords": [-149.609824, -17.637867]}, {"name": "Point de vue Punavai", "text": "A Point de vue Punavai egy kijelölt kilátópont Puna'auia területén.", "category": "natural", "coords": [-149.600612, -17.620109]}, {"name": "Église Saint-Étienne", "text": "Az Église Saint-Étienne egy helyi imahely Puna'auia területén.", "category": "religious", "coords": [-149.615461, -17.615769]}], "ro": [{"name": "Plage Toaroto", "text": "Împodobind coasta Puna Auia, Plage Toaroto este o plajă extrem de pitorească din Polinezia Franceză. Cadrul tropical vibrant este un paradis pentru înotul în ocean și relaxarea sub palmierii legănați de vânt. Plimbările nesfârșite de-a lungul nisipurilor albe oferă priveliști maiestuoase ale orizonturilor îndepărtate. Apusul este probabil momentul cel mai uluitor pentru a vizita și a reflecta pe malul apei.", "category": "recreational", "coords": [-149.610277, -17.640027]}, {"name": "Plage Publique Vaiava", "text": "Plage Publique Vaiava servește drept o porțiune de plajă populară și accesibilă în orașul plin de viață Puna Auia. Această întindere publică clocotește de energie locală, făcând-o un loc excelent pentru a înota și a întinde un prosop de plajă. Mersul pe jos pe aici vă apropie de ritmurile zilnice de coastă ale Polineziei Franceze. Este înțelept să ajungeți dimineața pentru a prinde un loc excelent lângă valurile care se sparg blând.", "category": "recreational", "coords": [-149.599278, -17.656837]}, {"name": "Temaruata", "text": "Temaruata este un punct de belvedere pitoresc în Puna'auia.", "category": "natural", "coords": [-149.597159, -17.649622]}, {"name": "Air Evasion", "text": "Air Evasion este o atracție turistică locală situată în Puna'auia.", "category": "landmark", "coords": [-149.609824, -17.637867]}, {"name": "Point de vue Punavai", "text": "Point de vue Punavai este un punct de belvedere desemnat în Puna'auia.", "category": "natural", "coords": [-149.600612, -17.620109]}, {"name": "Église Saint-Étienne", "text": "Église Saint-Étienne este un lăcaș de cult local situat în Puna'auia.", "category": "religious", "coords": [-149.615461, -17.615769]}], "en": [{"name": "Toaroto Beach", "text": "Gracing the coast of Puna Auia, Plage Toaroto is a highly picturesque beach in French Polynesia. The vibrant tropical setting is a paradise for ocean swims and lounging under swaying palms. Endless strolls along the white sands offer majestic views of the distant horizons. Sunset is arguably the most breathtaking time to visit and reflect by the water.", "category": "recreational", "coords": [-149.610277, -17.640027]}, {"name": "Plage Publique Vaiava", "text": "Plage Publique Vaiava serves as a popular and accessible beachfront in the lively town of Puna Auia. This public expanse bubbles with local energy, making it an excellent place to swim and spread out a beach towel. Walking here brings you close to the daily coastal rhythms of French Polynesia. It is wise to arrive in the morning to snag a prime spot near the gently lapping waves.", "category": "recreational", "coords": [-149.599278, -17.656837]}, {"name": "Temaruata", "text": "Temaruata is a scenic viewpoint offering beautiful sights in Puna'auia.", "category": "natural", "coords": [-149.597159, -17.649622]}, {"name": "Air Evasion", "text": "Air Evasion is a local tourist attraction located in Puna'auia.", "category": "landmark", "coords": [-149.609824, -17.637867]}, {"name": "Point de vue Punavai", "text": "Point de vue Punavai is a designated viewpoint providing scenic vistas in Puna'auia.", "category": "natural", "coords": [-149.600612, -17.620109]}, {"name": "Église Saint-Étienne", "text": "Église Saint-Étienne is a local place of worship situated in Puna'auia.", "category": "religious", "coords": [-149.615461, -17.615769]}]},
+    id: "frenchpolynesia-punaauia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage Toaroto",
+                  "text": "An der Küste von Puna Auia gelegen, ist die Plage Toaroto ein äußerst malerischer Strand in Französisch-Polynesien. Die lebhafte tropische Umgebung ist ein Paradies für Schwimmrunden im Ozean und Faulenzen unter sich wiegenden Palmen. Endlose Spaziergänge am weißen Sandstrand bieten majestätische Ausblicke auf den fernen Horizont. Der Sonnenuntergang ist zweifellos die atemberaubendste Zeit, um diesen Ort zu besuchen und am Wasser zu verweilen.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.610277,
+                        -17.640027
+                  ]
+            },
+            {
+                  "name": "Plage Publique Vaiava",
+                  "text": "Die Plage Publique Vaiava dient als beliebter und gut zugänglicher Strandabschnitt in der lebendigen Stadt Puna Auia. Diese öffentliche Fläche sprüht vor lokaler Energie und ist ein hervorragender Ort, um zu schwimmen und das Strandtuch auszubreiten. Ein Spaziergang hier bringt einen nah an die täglichen Rhythmen der Küste Französisch-Polynesiens heran. Es ist klug, am Morgen anzureisen, um sich einen erstklassigen Platz in der Nähe der sanft plätschernden Wellen zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.599278,
+                        -17.656837
+                  ]
+            },
+            {
+                  "name": "Temaruata",
+                  "text": "Temaruata ist ein Aussichtspunkt mit Küstenblick in Puna'auia.",
+                  "category": "natural",
+                  "coords": [
+                        -149.597159,
+                        -17.649622
+                  ]
+            },
+            {
+                  "name": "Air Evasion",
+                  "text": "Startplatz für Gleitschirmflieger mit Blick auf die Lagune von Punaauia.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.609824,
+                        -17.637867
+                  ]
+            },
+            {
+                  "name": "Point de vue Punavai",
+                  "text": "Point de vue Punavai ist ein ausgewiesener Aussichtspunkt in Puna'auia.",
+                  "category": "natural",
+                  "coords": [
+                        -149.600612,
+                        -17.620109
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Steinerne Kirche an der Küstenstraße von Punaauia.",
+                  "category": "religious",
+                  "coords": [
+                        -149.615461,
+                        -17.615769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage Toaroto",
+                  "text": "A Puna Auia partjait díszítő Plage Toaroto egy rendkívül festői strand Francia Polinéziában. A vibráló trópusi környezet igazi paradicsom az óceáni fürdőzéshez és a ringatózó pálmafák alatti pihenéshez. A fehér homokon tett végtelen séták fenséges kilátást nyújtanak a távoli horizontokra. A naplemente vitathatatlanul a leglélegzetelállítóbb időszak a látogatásra és a vízparti elmélkedésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.610277,
+                        -17.640027
+                  ]
+            },
+            {
+                  "name": "Plage Publique Vaiava",
+                  "text": "A Plage Publique Vaiava egy népszerű és könnyen megközelíthető tengerpart a nyüzsgő Puna Auia városában. Ez a nyilvános terület pezseg a helyi energiától, így kiváló hely az úszásra és a törölköző kiterítésére. Az itteni séták során közel kerülhetünk Francia Polinézia mindennapi tengerparti ritmusához. Érdemes már reggel kiérkezni, hogy lecsaphassunk egy elsőrangú helyre a lágyan nyaldosó hullámok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.599278,
+                        -17.656837
+                  ]
+            },
+            {
+                  "name": "Temaruata",
+                  "text": "A Temaruata egy kilátó Puna'auia területén.",
+                  "category": "natural",
+                  "coords": [
+                        -149.597159,
+                        -17.649622
+                  ]
+            },
+            {
+                  "name": "Air Evasion",
+                  "text": "Sárkányrepülők felszállóhelye, rálátással a punaauiai lagúnára.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.609824,
+                        -17.637867
+                  ]
+            },
+            {
+                  "name": "Point de vue Punavai",
+                  "text": "A Point de vue Punavai egy kijelölt kilátópont Puna'auia területén.",
+                  "category": "natural",
+                  "coords": [
+                        -149.600612,
+                        -17.620109
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Kőtemplom a punaauiai tengerparti út mellett.",
+                  "category": "religious",
+                  "coords": [
+                        -149.615461,
+                        -17.615769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage Toaroto",
+                  "text": "Împodobind coasta Puna Auia, Plage Toaroto este o plajă extrem de pitorească din Polinezia Franceză. Cadrul tropical vibrant este un paradis pentru înotul în ocean și relaxarea sub palmierii legănați de vânt. Plimbările nesfârșite de-a lungul nisipurilor albe oferă priveliști maiestuoase ale orizonturilor îndepărtate. Apusul este probabil momentul cel mai uluitor pentru a vizita și a reflecta pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.610277,
+                        -17.640027
+                  ]
+            },
+            {
+                  "name": "Plage Publique Vaiava",
+                  "text": "Plage Publique Vaiava servește drept o porțiune de plajă populară și accesibilă în orașul plin de viață Puna Auia. Această întindere publică clocotește de energie locală, făcând-o un loc excelent pentru a înota și a întinde un prosop de plajă. Mersul pe jos pe aici vă apropie de ritmurile zilnice de coastă ale Polineziei Franceze. Este înțelept să ajungeți dimineața pentru a prinde un loc excelent lângă valurile care se sparg blând.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.599278,
+                        -17.656837
+                  ]
+            },
+            {
+                  "name": "Temaruata",
+                  "text": "Temaruata este un punct de belvedere pitoresc în Puna'auia.",
+                  "category": "natural",
+                  "coords": [
+                        -149.597159,
+                        -17.649622
+                  ]
+            },
+            {
+                  "name": "Air Evasion",
+                  "text": "Loc de lansare pentru parapante, cu vedere spre laguna din Punaauia.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.609824,
+                        -17.637867
+                  ]
+            },
+            {
+                  "name": "Point de vue Punavai",
+                  "text": "Point de vue Punavai este un punct de belvedere desemnat în Puna'auia.",
+                  "category": "natural",
+                  "coords": [
+                        -149.600612,
+                        -17.620109
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Biserică de piatră lângă drumul de coastă din Punaauia.",
+                  "category": "religious",
+                  "coords": [
+                        -149.615461,
+                        -17.615769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Toaroto Beach",
+                  "text": "Gracing the coast of Puna Auia, Plage Toaroto is a highly picturesque beach in French Polynesia. The vibrant tropical setting is a paradise for ocean swims and lounging under swaying palms. Endless strolls along the white sands offer majestic views of the distant horizons. Sunset is arguably the most breathtaking time to visit and reflect by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.610277,
+                        -17.640027
+                  ]
+            },
+            {
+                  "name": "Plage Publique Vaiava",
+                  "text": "Plage Publique Vaiava serves as a popular and accessible beachfront in the lively town of Puna Auia. This public expanse bubbles with local energy, making it an excellent place to swim and spread out a beach towel. Walking here brings you close to the daily coastal rhythms of French Polynesia. It is wise to arrive in the morning to snag a prime spot near the gently lapping waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.599278,
+                        -17.656837
+                  ]
+            },
+            {
+                  "name": "Temaruata",
+                  "text": "Temaruata is a scenic viewpoint offering beautiful sights in Puna'auia.",
+                  "category": "natural",
+                  "coords": [
+                        -149.597159,
+                        -17.649622
+                  ]
+            },
+            {
+                  "name": "Air Evasion",
+                  "text": "A paragliding launch site overlooking the lagoon of Punaauia.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.609824,
+                        -17.637867
+                  ]
+            },
+            {
+                  "name": "Point de vue Punavai",
+                  "text": "Point de vue Punavai is a designated viewpoint providing scenic vistas in Puna'auia.",
+                  "category": "natural",
+                  "coords": [
+                        -149.600612,
+                        -17.620109
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Stone church near the coastal road in Punaauia.",
+                  "category": "religious",
+                  "coords": [
+                        -149.615461,
+                        -17.615769
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "city",
     name: { de: "Puna'auia", hu: "Puna'auia", ro: "Puna'auia", en: "Puna'auia" },
@@ -408,7 +633,304 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     image: "/poi-images/frenchpolynesia-taravao-cities-v2.webp",
   },
   {
-    id: "frenchpolynesia-afareaitu-cities-v2", "sights": {"de": [{"name": "Marae Umarea", "text": "Marae Umarea ist eine antike archäologische Stätte in Afareaitu.", "category": "historical", "coords": [-149.789098, -17.552923]}, {"name": "Lagoonarium", "text": "Das Lagoonarium ist ein Meerwasseraquarium in Afareaitu.", "category": "family", "coords": [-149.780966, -17.546206]}, {"name": "Plage de Malibu", "text": "Die Plage de Malibu verleiht den Ufern von Afareaitu in Französisch-Polynesien einen Hauch von idyllischem Charme. Besucher werden von einem äußerst malerischen Gelände begrüßt, das förmlich nach langen Nachmittagen voller Schwimmen und Sonnenbaden verlangt. Die unberührte Uferlinie ist ein wunderbarer Ort für barfüßige Spaziergänge direkt am Meer. Sonnenschutz ist ein absolutes Muss, wenn man einen ausgedehnten Tag unter dem hellen tropischen Himmel plant.", "category": "recreational", "coords": [-149.774917, -17.540034]}, {"name": "Puuroa", "text": "Puuroa ist ein markanter Berggipfel in Afareaitu.", "category": "natural", "coords": [-149.784017, -17.529938]}, {"name": "Baie de Vaiare", "text": "Baie de Vaiare ist eine wunderschöne natürliche Bucht in Afareaitu.", "category": "landmark", "coords": [-149.778751, -17.521925]}, {"name": "Moorea Watersport", "text": "Moorea Watersport ist eine Wassersportattraktion in Afareaitu.", "category": "landmark", "coords": [-149.776337, -17.525208]}, {"name": "Motu Ahi", "text": "Motu Ahi ist eine malerische Inselattraktion in Afareaitu.", "category": "landmark", "coords": [-149.775619, -17.550801]}, {"name": "Église Saint-Patrice", "text": "Église Saint-Patrice ist eine lokale Kultstätte in Afareaitu.", "category": "religious", "coords": [-149.790376, -17.556366]}], "hu": [{"name": "Marae Umarea", "text": "A Marae Umarea egy ősi régészeti lelőhely Afareaituban.", "category": "historical", "coords": [-149.789098, -17.552923]}, {"name": "Lagoonarium", "text": "A Lagoonarium egy tengeri akvárium Afareaitu városában.", "category": "family", "coords": [-149.780966, -17.546206]}, {"name": "Plage de Malibu", "text": "A Plage de Malibu egy csipetnyi idilli bájjal ruházza fel Afareaitu partjait Francia Polinéziában. A látogatókat egy rendkívül festői elrendezés fogadja, amely szinte könyörög a hosszú, úszással és napozással töltött délutánokért. Az érintetlen partvonal csodálatos helyszínt kínál a tengerparti, mezítlábas sétákhoz. A fényvédelem elengedhetetlen, ha egy hosszas napot tervezünk a ragyogó trópusi égbolt alatt.", "category": "recreational", "coords": [-149.774917, -17.540034]}, {"name": "Puuroa", "text": "A Puuroa egy jelentős hegycsúcs Afareaitu városában.", "category": "natural", "coords": [-149.784017, -17.529938]}, {"name": "Baie de Vaiare", "text": "A Baie de Vaiare egy gyönyörű természetes öböl Afareaituban.", "category": "landmark", "coords": [-149.778751, -17.521925]}, {"name": "Moorea Watersport", "text": "A Moorea Watersport egy vízi szabadidős látványosság Afareaituban.", "category": "landmark", "coords": [-149.776337, -17.525208]}, {"name": "Motu Ahi", "text": "A Motu Ahi egy festői szigeti látványosság Afareaituban.", "category": "landmark", "coords": [-149.775619, -17.550801]}, {"name": "Église Saint-Patrice", "text": "Az Église Saint-Patrice egy helyi istentiszteleti hely Afareaituban.", "category": "religious", "coords": [-149.790376, -17.556366]}], "ro": [{"name": "Marae Umarea", "text": "Marae Umarea este un sit arheologic antic situat în Afareaitu.", "category": "historical", "coords": [-149.789098, -17.552923]}, {"name": "Lagoonarium", "text": "Lagoonarium este un acvariu marin situat în Afareaitu.", "category": "family", "coords": [-149.780966, -17.546206]}, {"name": "Plage de Malibu", "text": "Plage de Malibu aduce o notă de farmec idilic pe țărmurile din Afareaitu în Polinezia Franceză. Vizitatorii sunt întâmpinați de un aspect foarte pitoresc care practic imploră pentru după-amiezi lungi de înot și stat la soare. Linia de coastă curată este un loc minunat pentru plimbări desculțe pe marginea mării. Protecția solară este o necesitate atunci când planificați o zi prelungită sub cerul tropical strălucitor.", "category": "recreational", "coords": [-149.774917, -17.540034]}, {"name": "Puuroa", "text": "Puuroa este un vârf montan notabil situat în Afareaitu.", "category": "natural", "coords": [-149.784017, -17.529938]}, {"name": "Baie de Vaiare", "text": "Baie de Vaiare este un golf natural frumos situat în Afareaitu.", "category": "landmark", "coords": [-149.778751, -17.521925]}, {"name": "Moorea Watersport", "text": "Moorea Watersport este o atracție de agrement acvatic situată în Afareaitu.", "category": "landmark", "coords": [-149.776337, -17.525208]}, {"name": "Motu Ahi", "text": "Motu Ahi este o atracție insulară pitorească situată în Afareaitu.", "category": "landmark", "coords": [-149.775619, -17.550801]}, {"name": "Église Saint-Patrice", "text": "Église Saint-Patrice este un lăcaș de cult local situat în Afareaitu.", "category": "religious", "coords": [-149.790376, -17.556366]}], "en": [{"name": "Marae Umarea", "text": "Marae Umarea is an ancient archaeological site situated in Afareaitu.", "category": "historical", "coords": [-149.789098, -17.552923]}, {"name": "Lagoonarium", "text": "The Lagoonarium is a marine aquarium located in Afareaitu.", "category": "family", "coords": [-149.780966, -17.546206]}, {"name": "Plage de Malibu", "text": "Plage de Malibu brings a touch of idyllic charm to the shores of Afareaitu in French Polynesia. Visitors are greeted by a very scenic layout that practically begs for long afternoons of swimming and sunning. The pristine shoreline is a wonderful venue for bare-footed walks by the edge of the sea. Sun protection is a must when planning a lingering day under the bright tropical sky.", "category": "recreational", "coords": [-149.774917, -17.540034]}, {"name": "Puuroa", "text": "Puuroa is a notable mountain peak situated in Afareaitu.", "category": "natural", "coords": [-149.784017, -17.529938]}, {"name": "Baie de Vaiare", "text": "Baie de Vaiare is a beautiful natural bay located in Afareaitu.", "category": "landmark", "coords": [-149.778751, -17.521925]}, {"name": "Moorea Watersport", "text": "Moorea Watersport is an aquatic leisure attraction located in Afareaitu.", "category": "landmark", "coords": [-149.776337, -17.525208]}, {"name": "Motu Ahi", "text": "Motu Ahi is a scenic island attraction located in Afareaitu.", "category": "landmark", "coords": [-149.775619, -17.550801]}, {"name": "Église Saint-Patrice", "text": "Église Saint-Patrice is a local place of worship located in Afareaitu.", "category": "religious", "coords": [-149.790376, -17.556366]}]},
+    id: "frenchpolynesia-afareaitu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marae Umarea",
+                  "text": "Antike polynesische Marae-Zeremonialplattform aus Stein in Afareaitu.",
+                  "category": "historical",
+                  "coords": [
+                        -149.789098,
+                        -17.552923
+                  ]
+            },
+            {
+                  "name": "Lagoonarium",
+                  "text": "Familienfreundliches Lagunenaquarium mit tropischen Fischen und Meerestieren.",
+                  "category": "family",
+                  "coords": [
+                        -149.780966,
+                        -17.546206
+                  ]
+            },
+            {
+                  "name": "Plage de Malibu",
+                  "text": "Die Plage de Malibu verleiht den Ufern von Afareaitu in Französisch-Polynesien einen Hauch von idyllischem Charme. Besucher werden von einem äußerst malerischen Gelände begrüßt, das förmlich nach langen Nachmittagen voller Schwimmen und Sonnenbaden verlangt. Die unberührte Uferlinie ist ein wunderbarer Ort für barfüßige Spaziergänge direkt am Meer. Sonnenschutz ist ein absolutes Muss, wenn man einen ausgedehnten Tag unter dem hellen tropischen Himmel plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.774917,
+                        -17.540034
+                  ]
+            },
+            {
+                  "name": "Puuroa",
+                  "text": "Berggipfel mit Blick auf die üppigen Täler von Afareaitu.",
+                  "category": "natural",
+                  "coords": [
+                        -149.784017,
+                        -17.529938
+                  ]
+            },
+            {
+                  "name": "Baie de Vaiare",
+                  "text": "Hauptfähranleger, der Moorea mit Tahiti verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.778751,
+                        -17.521925
+                  ]
+            },
+            {
+                  "name": "Moorea Watersport",
+                  "text": "Wassersportzentrum in der Lagune von Moorea mit Jetski und Stand-up-Paddling.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.776337,
+                        -17.525208
+                  ]
+            },
+            {
+                  "name": "Motu Ahi",
+                  "text": "Kleine Insel (Motu) in der Lagune von Afareaitu, umgeben von Korallenriffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.775619,
+                        -17.550801
+                  ]
+            },
+            {
+                  "name": "Église Saint-Patrice",
+                  "text": "Weiße Kirche mit rotem Dach im Dorf Afareaitu.",
+                  "category": "religious",
+                  "coords": [
+                        -149.790376,
+                        -17.556366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marae Umarea",
+                  "text": "Ősi polinéz kő alapú marae szertartási platform Afareaitu településen.",
+                  "category": "historical",
+                  "coords": [
+                        -149.789098,
+                        -17.552923
+                  ]
+            },
+            {
+                  "name": "Lagoonarium",
+                  "text": "Családbarát lagúna akvárium trópusi halakkal és tengeri élőlényekkel.",
+                  "category": "family",
+                  "coords": [
+                        -149.780966,
+                        -17.546206
+                  ]
+            },
+            {
+                  "name": "Plage de Malibu",
+                  "text": "A Plage de Malibu egy csipetnyi idilli bájjal ruházza fel Afareaitu partjait Francia Polinéziában. A látogatókat egy rendkívül festői elrendezés fogadja, amely szinte könyörög a hosszú, úszással és napozással töltött délutánokért. Az érintetlen partvonal csodálatos helyszínt kínál a tengerparti, mezítlábas sétákhoz. A fényvédelem elengedhetetlen, ha egy hosszas napot tervezünk a ragyogó trópusi égbolt alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.774917,
+                        -17.540034
+                  ]
+            },
+            {
+                  "name": "Puuroa",
+                  "text": "Hegycsúcs, amelyről lenyűgöző kilátás nyílik Afareaitu völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -149.784017,
+                        -17.529938
+                  ]
+            },
+            {
+                  "name": "Baie de Vaiare",
+                  "text": "A fő kompkikötő, amely Mooreát Tahitival köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.778751,
+                        -17.521925
+                  ]
+            },
+            {
+                  "name": "Moorea Watersport",
+                  "text": "Vízi sportközpont Moorea lagúnájában, jet-ski-vel és SUP-pal.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.776337,
+                        -17.525208
+                  ]
+            },
+            {
+                  "name": "Motu Ahi",
+                  "text": "Kis motu (sziget) az afareaitui lagúnában, korallzátonyok övezte.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.775619,
+                        -17.550801
+                  ]
+            },
+            {
+                  "name": "Église Saint-Patrice",
+                  "text": "Fehér templom piros tetővel Afareaitu falujában.",
+                  "category": "religious",
+                  "coords": [
+                        -149.790376,
+                        -17.556366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marae Umarea",
+                  "text": "O platformă ceremonială marae din piatră, străveche, în Afareaitu.",
+                  "category": "historical",
+                  "coords": [
+                        -149.789098,
+                        -17.552923
+                  ]
+            },
+            {
+                  "name": "Lagoonarium",
+                  "text": "Acvariu tip lagună, prietenos cu familiile, cu pești tropicali și viețuitoare marine.",
+                  "category": "family",
+                  "coords": [
+                        -149.780966,
+                        -17.546206
+                  ]
+            },
+            {
+                  "name": "Plage de Malibu",
+                  "text": "Plage de Malibu aduce o notă de farmec idilic pe țărmurile din Afareaitu în Polinezia Franceză. Vizitatorii sunt întâmpinați de un aspect foarte pitoresc care practic imploră pentru după-amiezi lungi de înot și stat la soare. Linia de coastă curată este un loc minunat pentru plimbări desculțe pe marginea mării. Protecția solară este o necesitate atunci când planificați o zi prelungită sub cerul tropical strălucitor.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.774917,
+                        -17.540034
+                  ]
+            },
+            {
+                  "name": "Puuroa",
+                  "text": "Vârf montan cu vedere spre văile luxuriante din Afareaitu.",
+                  "category": "natural",
+                  "coords": [
+                        -149.784017,
+                        -17.529938
+                  ]
+            },
+            {
+                  "name": "Baie de Vaiare",
+                  "text": "Principalul debarcader pentru feribotul care leagă Moorea de Tahiti.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.778751,
+                        -17.521925
+                  ]
+            },
+            {
+                  "name": "Moorea Watersport",
+                  "text": "Centru de sporturi nautice în laguna Moorea, cu jet-ski și paddleboarding.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.776337,
+                        -17.525208
+                  ]
+            },
+            {
+                  "name": "Motu Ahi",
+                  "text": "Un mic motu (insuliță) în laguna Afareaitu, înconjurat de recife de corali.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.775619,
+                        -17.550801
+                  ]
+            },
+            {
+                  "name": "Église Saint-Patrice",
+                  "text": "Biserică albă cu acoperiș roșu în satul Afareaitu.",
+                  "category": "religious",
+                  "coords": [
+                        -149.790376,
+                        -17.556366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marae Umarea",
+                  "text": "An ancient Polynesian marae ceremonial stone platform in Afareaitu.",
+                  "category": "historical",
+                  "coords": [
+                        -149.789098,
+                        -17.552923
+                  ]
+            },
+            {
+                  "name": "Lagoonarium",
+                  "text": "A family-friendly lagoon aquarium featuring tropical fish and marine life.",
+                  "category": "family",
+                  "coords": [
+                        -149.780966,
+                        -17.546206
+                  ]
+            },
+            {
+                  "name": "Plage de Malibu",
+                  "text": "Plage de Malibu brings a touch of idyllic charm to the shores of Afareaitu in French Polynesia. Visitors are greeted by a very scenic layout that practically begs for long afternoons of swimming and sunning. The pristine shoreline is a wonderful venue for bare-footed walks by the edge of the sea. Sun protection is a must when planning a lingering day under the bright tropical sky.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.774917,
+                        -17.540034
+                  ]
+            },
+            {
+                  "name": "Puuroa",
+                  "text": "Mountain peak overlooking the lush valleys of Afareaitu.",
+                  "category": "natural",
+                  "coords": [
+                        -149.784017,
+                        -17.529938
+                  ]
+            },
+            {
+                  "name": "Baie de Vaiare",
+                  "text": "Main ferry bay connecting Moorea to Tahiti.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.778751,
+                        -17.521925
+                  ]
+            },
+            {
+                  "name": "Moorea Watersport",
+                  "text": "A watersports center on Moorea’s lagoon offering jet skis and paddleboarding.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.776337,
+                        -17.525208
+                  ]
+            },
+            {
+                  "name": "Motu Ahi",
+                  "text": "A small motu (islet) in the lagoon near Afareaitu, surrounded by coral reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.775619,
+                        -17.550801
+                  ]
+            },
+            {
+                  "name": "Église Saint-Patrice",
+                  "text": "White church with a red roof in Afareaitu village.",
+                  "category": "religious",
+                  "coords": [
+                        -149.790376,
+                        -17.556366
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "town",
     name: { de: "Afareaitu", hu: "Afareaitu", ro: "Afareaitu", en: "Afareaitu" },
@@ -457,7 +979,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Marae Nonohaura",
-                  "text": "Marae Nonohaura ist eine traditionelle archäologische Stätte in Vaitape.",
+                  "text": "Restaurierte Marae mit geschnitzten Steinfiguren in Vaitape auf Bora Bora.",
                   "category": "historical",
                   "coords": [
                         -151.729278,
@@ -475,7 +997,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Vai’ōtaha",
-                  "text": "Marae Vai’ōtaha ist eine archäologische Stätte in Vaitape.",
+                  "text": "Marae-Stätte an der Bucht von Vaitape mit Blick auf das türkise Wasser.",
                   "category": "historical",
                   "coords": [
                         -151.741596,
@@ -484,7 +1006,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Taianapa",
-                  "text": "Marae Taianapa ist eine kulturelle und archäologische Stätte in Vaitape.",
+                  "text": "Alte Marae-Plattform aus Stein, die für Zeremonien genutzt wurde.",
                   "category": "historical",
                   "coords": [
                         -151.749795,
@@ -493,7 +1015,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Fare Opu",
-                  "text": "Marae Fare Opu ist eine archäologische Stätte in der Stadt Vaitape.",
+                  "text": "Marae mit Blick über die Lagune von Vaitape, am Wasser gelegen.",
                   "category": "historical",
                   "coords": [
                         -151.75252,
@@ -529,7 +1051,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mataihua",
-                  "text": "Mataihua ist ein Berggipfel in der Gegend von Vaitape.",
+                  "text": "Höchster Gipfel Bora Boras mit Lagunenaussicht.",
                   "category": "natural",
                   "coords": [
                         -151.731259,
@@ -547,7 +1069,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ohue",
-                  "text": "Ohue ist ein malerischer Aussichtspunkt in der Stadt Vaitape.",
+                  "text": "Vulkanischer Hügel auf Bora Bora mit Panoramablick über die Insel und Lagune.",
                   "category": "natural",
                   "coords": [
                         -151.740812,
@@ -601,7 +1123,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-Célestin",
-                  "text": "Die Église Saint-Pierre-Célestin ist eine christliche Kultstätte in Vaitape.",
+                  "text": "Katholische Kirche mit Glockenturm nahe dem Kai von Vaitape.",
                   "category": "religious",
                   "coords": [
                         -151.750442,
@@ -610,7 +1132,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église évangélique",
-                  "text": "Die Evangelist Church ist ein religiöses Gotteshaus in der Stadt Vaitape.",
+                  "text": "Einfache Holzkirche der Protestanten in Vaitape.",
                   "category": "religious",
                   "coords": [
                         -151.751502,
@@ -621,7 +1143,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Marae Nonohaura",
-                  "text": "A Marae Nonohaura egy hagyományos régészeti lelőhely Vaitape-ben.",
+                  "text": "Helyreállított marae faragott kőfigurákkal Vaitape-ban, Bora Borán.",
                   "category": "historical",
                   "coords": [
                         -151.729278,
@@ -639,7 +1161,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Vai’ōtaha",
-                  "text": "A Marae Vai’ōtaha egy régészeti lelőhely Vaitape-ben.",
+                  "text": "Marae lelőhely a vaitapei öböl partján, türkizkék vízre néző kilátással.",
                   "category": "historical",
                   "coords": [
                         -151.741596,
@@ -648,7 +1170,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Taianapa",
-                  "text": "A Marae Taianapa egy kulturális és régészeti lelőhely Vaitape-ben.",
+                  "text": "Ősi kő marae platform, amelyet szertartásokhoz használtak.",
                   "category": "historical",
                   "coords": [
                         -151.749795,
@@ -657,7 +1179,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Fare Opu",
-                  "text": "A Marae Fare Opu egy régészeti lelőhely Vaitape városában.",
+                  "text": "Marae a vaitapei lagúnára néző kilátással, a vízparton.",
                   "category": "historical",
                   "coords": [
                         -151.75252,
@@ -693,7 +1215,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mataihua",
-                  "text": "A Mataihua egy hegycsúcs Vaitape térségében.",
+                  "text": "Bora Bora legmagasabb csúcsa, lagúnára nyíló kilátással.",
                   "category": "natural",
                   "coords": [
                         -151.731259,
@@ -711,7 +1233,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ohue",
-                  "text": "Az Ohue egy festői kilátó Vaitape városában.",
+                  "text": "Vulkanikus domb Bora Borán, panorámás kilátással a szigetre és a lagúnára.",
                   "category": "natural",
                   "coords": [
                         -151.740812,
@@ -765,7 +1287,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-Célestin",
-                  "text": "Az Église Saint-Pierre-Célestin egy keresztény istentiszteleti hely Vaitape-ben.",
+                  "text": "Katolikus templom harangtoronnyal a vaitape-i rakpart közelében.",
                   "category": "religious",
                   "coords": [
                         -151.750442,
@@ -774,7 +1296,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église évangélique",
-                  "text": "Az Evangelist Church egy vallási istentiszteleti hely Vaitape városában.",
+                  "text": "Egyszerű faprotestáns templom Vaitape-ban.",
                   "category": "religious",
                   "coords": [
                         -151.751502,
@@ -785,7 +1307,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Marae Nonohaura",
-                  "text": "Marae Nonohaura este un sit arheologic tradițional situat în Vaitape.",
+                  "text": "Un marae restaurat cu statui de piatră cioplite în Vaitape, Bora Bora.",
                   "category": "historical",
                   "coords": [
                         -151.729278,
@@ -803,7 +1325,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Vai’ōtaha",
-                  "text": "Marae Vai’ōtaha este un sit arheologic din Vaitape.",
+                  "text": "Sit marae pe malul golfului Vaitape, cu vedere spre apa turcoaz.",
                   "category": "historical",
                   "coords": [
                         -151.741596,
@@ -812,7 +1334,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Taianapa",
-                  "text": "Marae Taianapa este un sit cultural și arheologic situat în Vaitape.",
+                  "text": "O platformă marae antică de piatră, folosită pentru ceremonii.",
                   "category": "historical",
                   "coords": [
                         -151.749795,
@@ -821,7 +1343,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Fare Opu",
-                  "text": "Marae Fare Opu este un sit arheologic situat în orașul Vaitape.",
+                  "text": "Un marae cu vedere spre laguna Vaitape, situat lângă apă.",
                   "category": "historical",
                   "coords": [
                         -151.75252,
@@ -857,7 +1379,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mataihua",
-                  "text": "Mataihua este un vârf montan situat în zona Vaitape.",
+                  "text": "Cel mai înalt vârf din Bora Bora, cu vedere spre lagună.",
                   "category": "natural",
                   "coords": [
                         -151.731259,
@@ -875,7 +1397,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ohue",
-                  "text": "Ohue este un punct de belvedere pitoresc situat în orașul Vaitape.",
+                  "text": "Un deal vulcanic pe Bora Bora, oferind vederi panoramice asupra insulei și lagunei.",
                   "category": "natural",
                   "coords": [
                         -151.740812,
@@ -929,7 +1451,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-Célestin",
-                  "text": "Église Saint-Pierre-Célestin este un lăcaș de cult creștin situat în Vaitape.",
+                  "text": "Biserică catolică cu turn clopotniță lângă cheiul din Vaitape.",
                   "category": "religious",
                   "coords": [
                         -151.750442,
@@ -938,7 +1460,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église évangélique",
-                  "text": "Evangelist Church este un lăcaș de cult religios situat în orașul Vaitape.",
+                  "text": "Biserică protestantă simplă din lemn în Vaitape.",
                   "category": "religious",
                   "coords": [
                         -151.751502,
@@ -949,7 +1471,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Marae Nonohaura",
-                  "text": "Marae Nonohaura is a traditional archaeological site located in Vaitape.",
+                  "text": "A restored marae with carved stone figures in Vaitape, Bora Bora.",
                   "category": "historical",
                   "coords": [
                         -151.729278,
@@ -967,7 +1489,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Vai’ōtaha",
-                  "text": "Marae Vai’ōtaha is an archaeological site found in Vaitape.",
+                  "text": "A marae site on the shore of Vaitape bay overlooking the turquoise water.",
                   "category": "historical",
                   "coords": [
                         -151.741596,
@@ -976,7 +1498,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Taianapa",
-                  "text": "Marae Taianapa is a cultural and archaeological site located in Vaitape.",
+                  "text": "An ancient stone marae platform used for ceremonies.",
                   "category": "historical",
                   "coords": [
                         -151.749795,
@@ -985,7 +1507,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Fare Opu",
-                  "text": "Marae Fare Opu is an archaeological site located in the city of Vaitape.",
+                  "text": "A marae overlooking the lagoon of Vaitape, set by the water.",
                   "category": "historical",
                   "coords": [
                         -151.75252,
@@ -1021,7 +1543,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mataihua",
-                  "text": "Mataihua is a mountain peak located in the area of Vaitape.",
+                  "text": "Highest peak on Bora Bora overlooking the lagoon.",
                   "category": "natural",
                   "coords": [
                         -151.731259,
@@ -1039,7 +1561,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ohue",
-                  "text": "Ohue is a scenic viewpoint situated in the city of Vaitape.",
+                  "text": "A volcanic hill on Bora Bora offering panoramic views of the island and lagoon.",
                   "category": "natural",
                   "coords": [
                         -151.740812,
@@ -1093,7 +1615,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Pierre-Célestin",
-                  "text": "Église Saint-Pierre-Célestin is a Christian place of worship located in Vaitape.",
+                  "text": "Catholic church with a bell tower near the Vaitape wharf.",
                   "category": "religious",
                   "coords": [
                         -151.750442,
@@ -1102,7 +1624,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Evangelist Church",
-                  "text": "The Evangelist Church is a religious place of worship located in the city of Vaitape.",
+                  "text": "Simple timber Protestant church in Vaitape.",
                   "category": "religious",
                   "coords": [
                         -151.751502,
@@ -1200,7 +1722,124 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     image: "/poi-images/frenchpolynesia-uturoa-cities-v2.webp",
   },
   {
-    id: "frenchpolynesia-fare-cities-v2", "sights": {"de": [{"name": "Marae Fare-3", "text": "Marae Fare-3 ist eine archäologische Stätte in der Stadt Fare.", "category": "historical", "coords": [-151.034993, -16.712528]}, {"name": "Plage de l'Hotel", "text": "Die Plage de l'Hotel liegt in der Gemeinde Fare und bietet ein schönes, öffentliches Stück der polynesischen Küste. Gäste können sich hier in ungezwungene Wasseraktivitäten stürzen oder sich bequem auf dem einladenden Sand zurücklehnen. Ein gemütlicher Spaziergang entlang dieses Abschnitts ermöglicht es, die alltägliche Inselatmosphäre in sich aufzusaugen. Der Strand bleibt eine fantastische Option für einen unkomplizierten, angenehmen Nachmittag am Wasser.", "category": "recreational", "coords": [-151.03891, -16.710694]}, {"name": "Super U", "text": "Super U ist ein bekannter Supermarkt und eine Attraktion in Fare.", "category": "landmark", "coords": [-151.033847, -16.71403]}], "hu": [{"name": "Marae Fare-3", "text": "A Marae Fare-3 egy régészeti lelőhely Fare városában.", "category": "historical", "coords": [-151.034993, -16.712528]}, {"name": "Plage de l'Hotel", "text": "A Fare közösségében található Plage de l'Hotel egy kedves nyilvános szeletét nyújtja a polinéz partvidéknek. A vendégek elmerülhetnek az alkalmi vízi tevékenységekben, vagy kényelmesen hátradőlhetnek a hívogató homokban. A szakaszon tett ráérős séta lehetővé teszi, hogy magunkba szívjuk a mindennapi szigeti atmoszférát. Továbbra is fantasztikus választás egy egyszerű, kellemes vízparti délutánhoz.", "category": "recreational", "coords": [-151.03891, -16.710694]}, {"name": "Super U", "text": "A Super U egy jelentős szupermarket és látványosság Fare városában.", "category": "landmark", "coords": [-151.033847, -16.71403]}], "ro": [{"name": "Marae Fare-3", "text": "Marae Fare-3 este un sit arheologic situat în orașul Fare.", "category": "historical", "coords": [-151.034993, -16.712528]}, {"name": "Plage de l'Hotel", "text": "Găsită în comunitatea din Fare, Plage de l'Hotel oferă o porțiune publică minunată a coastei polineziene. Oaspeții se pot scufunda în activități acvatice ocazionale sau se pot lăsa pe spate confortabil pe nisipurile primitoare. O plimbare pe îndelete de-a lungul acestei întinderi permite cuiva să absoarbă atmosfera de zi cu zi a insulei. Rămâne o opțiune fantastică pentru o după-amiază simplă și plăcută la apă.", "category": "recreational", "coords": [-151.03891, -16.710694]}, {"name": "Super U", "text": "Super U este un supermarket proeminent și o atracție în Fare.", "category": "landmark", "coords": [-151.033847, -16.71403]}], "en": [{"name": "Marae Fare-3", "text": "Marae Fare-3 is an archaeological site located in the city of Fare.", "category": "historical", "coords": [-151.034993, -16.712528]}, {"name": "Plage de l'Hotel", "text": "Found in the community of Fare, Plage de l'Hotel provides a lovely public slice of Polynesian coastline. Guests can immerse themselves in casual water activities or comfortably recline on the inviting sands. A leisurely walk along this stretch allows one to soak up the everyday island atmosphere. It remains a fantastic option for a straightforward, pleasant afternoon by the water.", "category": "recreational", "coords": [-151.03891, -16.710694]}, {"name": "Super U", "text": "Super U is a prominent supermarket and attraction in Fare.", "category": "landmark", "coords": [-151.033847, -16.71403]}]},
+    id: "frenchpolynesia-fare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marae Fare-3",
+                  "text": "Marae Fare-3 ist eine archäologische Stätte in der Stadt Fare.",
+                  "category": "historical",
+                  "coords": [
+                        -151.034993,
+                        -16.712528
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hotel",
+                  "text": "Die Plage de l'Hotel liegt in der Gemeinde Fare und bietet ein schönes, öffentliches Stück der polynesischen Küste. Gäste können sich hier in ungezwungene Wasseraktivitäten stürzen oder sich bequem auf dem einladenden Sand zurücklehnen. Ein gemütlicher Spaziergang entlang dieses Abschnitts ermöglicht es, die alltägliche Inselatmosphäre in sich aufzusaugen. Der Strand bleibt eine fantastische Option für einen unkomplizierten, angenehmen Nachmittag am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.03891,
+                        -16.710694
+                  ]
+            },
+            {
+                  "name": "Super U",
+                  "text": "Der wichtigste Supermarkt in Fare, Anlaufpunkt für Lebensmittel und Alltagsbedarf auf Huahine.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.033847,
+                        -16.71403
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marae Fare-3",
+                  "text": "A Marae Fare-3 egy régészeti lelőhely Fare városában.",
+                  "category": "historical",
+                  "coords": [
+                        -151.034993,
+                        -16.712528
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hotel",
+                  "text": "A Fare közösségében található Plage de l'Hotel egy kedves nyilvános szeletét nyújtja a polinéz partvidéknek. A vendégek elmerülhetnek az alkalmi vízi tevékenységekben, vagy kényelmesen hátradőlhetnek a hívogató homokban. A szakaszon tett ráérős séta lehetővé teszi, hogy magunkba szívjuk a mindennapi szigeti atmoszférát. Továbbra is fantasztikus választás egy egyszerű, kellemes vízparti délutánhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.03891,
+                        -16.710694
+                  ]
+            },
+            {
+                  "name": "Super U",
+                  "text": "A fő szupermarket Fare-ban, ahol élelmiszert és napi cikkeket lehet vásárolni Huahine szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.033847,
+                        -16.71403
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marae Fare-3",
+                  "text": "Marae Fare-3 este un sit arheologic situat în orașul Fare.",
+                  "category": "historical",
+                  "coords": [
+                        -151.034993,
+                        -16.712528
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hotel",
+                  "text": "Găsită în comunitatea din Fare, Plage de l'Hotel oferă o porțiune publică minunată a coastei polineziene. Oaspeții se pot scufunda în activități acvatice ocazionale sau se pot lăsa pe spate confortabil pe nisipurile primitoare. O plimbare pe îndelete de-a lungul acestei întinderi permite cuiva să absoarbă atmosfera de zi cu zi a insulei. Rămâne o opțiune fantastică pentru o după-amiază simplă și plăcută la apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.03891,
+                        -16.710694
+                  ]
+            },
+            {
+                  "name": "Super U",
+                  "text": "Principalul supermarket din Fare, punct de aprovizionare cu alimente și articole de zi cu zi pe Huahine.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.033847,
+                        -16.71403
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marae Fare-3",
+                  "text": "Marae Fare-3 is an archaeological site located in the city of Fare.",
+                  "category": "historical",
+                  "coords": [
+                        -151.034993,
+                        -16.712528
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hotel",
+                  "text": "Found in the community of Fare, Plage de l'Hotel provides a lovely public slice of Polynesian coastline. Guests can immerse themselves in casual water activities or comfortably recline on the inviting sands. A leisurely walk along this stretch allows one to soak up the everyday island atmosphere. It remains a fantastic option for a straightforward, pleasant afternoon by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.03891,
+                        -16.710694
+                  ]
+            },
+            {
+                  "name": "Super U",
+                  "text": "The main supermarket in Fare, a key supply stop for groceries and essentials on Huahine.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.033847,
+                        -16.71403
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "town",
     name: { de: "Fare", hu: "Fare", ro: "Fare", en: "Fare" },
@@ -1249,7 +1888,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Collette",
-                  "text": "Fort Collette ist eine bemerkenswerte historische Festungsanlage in Taiohae.",
+                  "text": "Festung aus dem Jahr 1813 auf der Insel Nuku Hiva.",
                   "category": "fortress",
                   "coords": [
                         -140.094977,
@@ -1258,7 +1897,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pae Pae Piki Vehine",
-                  "text": "Pae Pae Piki Vehine ist eine archäologische Stätte in Taiohae.",
+                  "text": "Historische Steinplattform (Pae Pae) in Taiohae, ehemals für zeremonielle Tänze genutzt.",
                   "category": "historical",
                   "coords": [
                         -140.103477,
@@ -1267,7 +1906,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Musee de rose corser",
-                  "text": "Das Musee de rose corser ist ein Museum, das lokale Kultur in Taiohae ausstellt.",
+                  "text": "Museum mit Exponaten zur Geschichte und Kultur der Marquesas-Inseln.",
                   "category": "museum",
                   "coords": [
                         -140.109112,
@@ -1276,7 +1915,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Old church gate",
-                  "text": "Das Old church gate stellt historische architektonische Ruinen in Taiohae dar.",
+                  "text": "Steinernes Tor der ehemaligen katholischen Missionskirche in Taiohae.",
                   "category": "historical",
                   "coords": [
                         -140.102728,
@@ -1285,7 +1924,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument aux Morts",
-                  "text": "Das Monument aux Morts ist ein Gedenkmonument in der Stadt Taiohae.",
+                  "text": "Kriegerdenkmal zur Erinnerung an die gefallenen Soldaten aus Taiohae.",
                   "category": "historical",
                   "coords": [
                         -140.098497,
@@ -1294,7 +1933,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Cabane",
-                  "text": "La Cabane ist ein Aussichtspunkt, der malerische Landschaften in Taiohae bietet.",
+                  "text": "Küstenhütte mit Aussicht auf die Bucht von Taiohae und das Meer.",
                   "category": "natural",
                   "coords": [
                         -140.095461,
@@ -1303,7 +1942,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimetière de la famille Royale",
-                  "text": "Der Cimetière de la famille Royale ist ein historisches Denkmal und Friedhof in Taiohae.",
+                  "text": "Friedhof der letzten marquesanischen Königsfamilie in Taiohae.",
                   "category": "historical",
                   "coords": [
                         -140.104637,
@@ -1312,7 +1951,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Site archéologique de KOUEVA",
-                  "text": "Site archéologique de KOUEVA ist eine monumentale archäologische Stätte in Taiohae.",
+                  "text": "Archäologische Stätte eines alten Marquesaner-Dorfes mit Steinbauten.",
                   "category": "historical",
                   "coords": [
                         -140.102346,
@@ -1323,7 +1962,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Collette",
-                  "text": "A Fort Collette egy jelentős történelmi erődítmény Taiohae-ben.",
+                  "text": "1813-ban épült erőd Nuku Hiva szigetén.",
                   "category": "fortress",
                   "coords": [
                         -140.094977,
@@ -1332,7 +1971,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pae Pae Piki Vehine",
-                  "text": "A Pae Pae Piki Vehine egy régészeti lelőhely Taiohae városában.",
+                  "text": "Történelmi kőemelvény (Pae Pae) Taiohae-ban, egykor szertartásos táncokhoz használták.",
                   "category": "historical",
                   "coords": [
                         -140.103477,
@@ -1341,7 +1980,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Musee de rose corser",
-                  "text": "A Musee de rose corser a helyi kultúrát bemutató múzeum Taiohae-ben.",
+                  "text": "Múzeum, amely a Marquesas-szigetek történelmét és kultúráját bemutató kiállításokat tartalmaz.",
                   "category": "museum",
                   "coords": [
                         -140.109112,
@@ -1350,7 +1989,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Old church gate",
-                  "text": "Az Old church gate történelmi építészeti romokat képvisel Taiohae-ben.",
+                  "text": "Kőkapu a taiohae-i egykori katolikus missziós templom bejáratánál.",
                   "category": "historical",
                   "coords": [
                         -140.102728,
@@ -1359,7 +1998,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument aux Morts",
-                  "text": "A Monument aux Morts egy megemlékezési emlékmű Taiohae városában.",
+                  "text": "Háborús emlékmű, amely a taiohae-i elesett katonákra emlékezik.",
                   "category": "historical",
                   "coords": [
                         -140.098497,
@@ -1368,7 +2007,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Cabane",
-                  "text": "A La Cabane egy kilátó, amely festői tájakat nyújt Taiohae-ben.",
+                  "text": "Tengerparti kunyhó, kilátással a taiohaei öbölre és a tengerre.",
                   "category": "natural",
                   "coords": [
                         -140.095461,
@@ -1377,7 +2016,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimetière de la famille Royale",
-                  "text": "A Cimetière de la famille Royale egy történelmi emlékmű és temető Taiohae-ben.",
+                  "text": "Az utolsó marquises-i királyi család temetője Taiohae-ban.",
                   "category": "historical",
                   "coords": [
                         -140.104637,
@@ -1386,7 +2025,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Site archéologique de KOUEVA",
-                  "text": "A Site archéologique de KOUEVA egy monumentális régészeti lelőhely Taiohae-ben.",
+                  "text": "Egy ősi marquises-i falu régészeti lelőhelye kőépítményekkel.",
                   "category": "historical",
                   "coords": [
                         -140.102346,
@@ -1397,7 +2036,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Collette",
-                  "text": "Fort Collette este o fortificație istorică notabilă situată în Taiohae.",
+                  "text": "Fortăreață construită în 1813 pe insula Nuku Hiva.",
                   "category": "fortress",
                   "coords": [
                         -140.094977,
@@ -1406,7 +2045,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pae Pae Piki Vehine",
-                  "text": "Pae Pae Piki Vehine este un sit arheologic situat în Taiohae.",
+                  "text": "O platformă istorică de piatră (Pae Pae) în Taiohae, folosită cândva pentru dansuri ceremoniale.",
                   "category": "historical",
                   "coords": [
                         -140.103477,
@@ -1415,7 +2054,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Musee de rose corser",
-                  "text": "Musee de rose corser este un muzeu care expune cultura locală din Taiohae.",
+                  "text": "Muzeu cu exponate despre istoria și cultura Insulelor Marchize.",
                   "category": "museum",
                   "coords": [
                         -140.109112,
@@ -1424,7 +2063,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Old church gate",
-                  "text": "Old church gate reprezintă ruine arhitecturale istorice situate în Taiohae.",
+                  "text": "Poarta de piatră a fostei biserici catolice misionare din Taiohae.",
                   "category": "historical",
                   "coords": [
                         -140.102728,
@@ -1433,7 +2072,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument aux Morts",
-                  "text": "Monument aux Morts este un monument comemorativ situat în orașul Taiohae.",
+                  "text": "Monument al eroilor care comemorează soldații căzuți din Taiohae.",
                   "category": "historical",
                   "coords": [
                         -140.098497,
@@ -1442,7 +2081,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Cabane",
-                  "text": "La Cabane este un punct de belvedere care oferă peisaje pitorești în Taiohae.",
+                  "text": "O colibă de coastă cu vedere spre golful Taiohae și mare.",
                   "category": "natural",
                   "coords": [
                         -140.095461,
@@ -1451,7 +2090,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimetière de la famille Royale",
-                  "text": "Cimetière de la famille Royale este un monument istoric și cimitir din Taiohae.",
+                  "text": "Cimitirul ultimei familii regale marchize din Taiohae.",
                   "category": "historical",
                   "coords": [
                         -140.104637,
@@ -1460,7 +2099,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Site archéologique de KOUEVA",
-                  "text": "Site archéologique de KOUEVA este un sit arheologic monumental situat în Taiohae.",
+                  "text": "Sit arheologic al unui sat antic marchiz cu structuri din piatră.",
                   "category": "historical",
                   "coords": [
                         -140.102346,
@@ -1471,7 +2110,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Collette",
-                  "text": "Fort Collette is a notable historical fortification situated in Taiohae.",
+                  "text": "Fort built in 1813 on the island of Nuku Hiva.",
                   "category": "fortress",
                   "coords": [
                         -140.094977,
@@ -1480,7 +2119,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pae Pae Piki Vehine",
-                  "text": "Pae Pae Piki Vehine is an archaeological site located in Taiohae.",
+                  "text": "A historic stone platform (Pae Pae) in Taiohae, once used for ceremonial dances.",
                   "category": "historical",
                   "coords": [
                         -140.103477,
@@ -1489,7 +2128,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Musee de rose corser",
-                  "text": "Musee de rose corser is a museum exhibiting local culture in Taiohae.",
+                  "text": "A museum featuring artifacts on the history and culture of the Marquesas Islands.",
                   "category": "museum",
                   "coords": [
                         -140.109112,
@@ -1498,7 +2137,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Old church gate",
-                  "text": "The Old church gate represents historical architectural ruins situated in Taiohae.",
+                  "text": "The stone gate of the former Catholic mission church in Taiohae.",
                   "category": "historical",
                   "coords": [
                         -140.102728,
@@ -1507,7 +2146,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Monument aux Morts",
-                  "text": "Monument aux Morts is a commemorative monument located in the city of Taiohae.",
+                  "text": "A war memorial commemorating soldiers from Taiohae who died in conflict.",
                   "category": "historical",
                   "coords": [
                         -140.098497,
@@ -1516,7 +2155,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Cabane",
-                  "text": "La Cabane is a viewpoint providing scenic landscapes in Taiohae.",
+                  "text": "A coastal hut overlooking the bay of Taiohae and the open sea.",
                   "category": "natural",
                   "coords": [
                         -140.095461,
@@ -1525,7 +2164,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cimetière de la famille Royale",
-                  "text": "Cimetière de la famille Royale is a historical monument and cemetery in Taiohae.",
+                  "text": "The burial ground of the last Marquesan royal family in Taiohae.",
                   "category": "historical",
                   "coords": [
                         -140.104637,
@@ -1534,7 +2173,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Site archéologique de KOUEVA",
-                  "text": "Site archéologique de KOUEVA is a monumental archaeological site located in Taiohae.",
+                  "text": "Archaeological site of an ancient Marquesan village with stone structures.",
                   "category": "historical",
                   "coords": [
                         -140.102346,
@@ -1591,7 +2230,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Centre Jacques Brel",
-                  "text": "Das Centre Jacques Brel ist ein Museum in Atuona.",
+                  "text": "Museum im ehemaligen Wohnhaus des Sängers Jacques Brel in Atuona.",
                   "category": "museum",
                   "coords": [
                         -139.040599,
@@ -1609,7 +2248,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Me'ae et Tohua de Tehueto",
-                  "text": "Me'ae et Tohua de Tehueto ist eine archäologische Stätte in Atuona.",
+                  "text": "Zeremonialplatz mit Steinplattformen und Petroglyphen nahe Atuona.",
                   "category": "historical",
                   "coords": [
                         -139.02786,
@@ -1618,7 +2257,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison du Jouir",
-                  "text": "Maison du Jouir ist ein Museum in Atuona.",
+                  "text": "Rekonstruiertes Wohnhaus des Malers Paul Gauguin in Atuona, heute Museum.",
                   "category": "museum",
                   "coords": [
                         -139.040817,
@@ -1627,7 +2266,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tikis souriant suivre les indications",
-                  "text": "Tikis souriant suivre les indications ist eine Attraktion in Atuona.",
+                  "text": "Lächelnde Tiki-Skulptur entlang eines Wanderwegs nahe Atuona.",
                   "category": "landmark",
                   "coords": [
                         -139.00972,
@@ -1636,7 +2275,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église de l'Immaculée-Conception",
-                  "text": "Die Église de l'Immaculée-Conception ist eine religiöse Stätte in Atuona.",
+                  "text": "Katholische Kirche aus weißem Stein im Zentrum von Atuona.",
                   "category": "religious",
                   "coords": [
                         -139.041857,
@@ -1647,7 +2286,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Centre Jacques Brel",
-                  "text": "A Centre Jacques Brel egy múzeum Atuona városában.",
+                  "text": "Múzeum Jacques Brel énekes egykori otthonában Atuonán.",
                   "category": "museum",
                   "coords": [
                         -139.040599,
@@ -1665,7 +2304,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Me'ae et Tohua de Tehueto",
-                  "text": "A Me'ae et Tohua de Tehueto egy régészeti lelőhely Atuona városában.",
+                  "text": "Szertartásos hely kőplatformokkal és sziklarajzokkal Atuona közelében.",
                   "category": "historical",
                   "coords": [
                         -139.02786,
@@ -1674,7 +2313,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison du Jouir",
-                  "text": "A Maison du Jouir egy múzeum Atuona városában.",
+                  "text": "Paul Gauguin festő rekonstruált háza Atuonán, ma múzeum.",
                   "category": "museum",
                   "coords": [
                         -139.040817,
@@ -1683,7 +2322,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tikis souriant suivre les indications",
-                  "text": "A Tikis souriant suivre les indications egy látványosság Atuona városában.",
+                  "text": "Mosolygó tiki szobor egy túraút mentén Atuona közelében.",
                   "category": "landmark",
                   "coords": [
                         -139.00972,
@@ -1692,7 +2331,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église de l'Immaculée-Conception",
-                  "text": "Az Église de l'Immaculée-Conception egy vallási imahely Atuona városában.",
+                  "text": "Fehér kőből épült katolikus templom Atuona központjában.",
                   "category": "religious",
                   "coords": [
                         -139.041857,
@@ -1703,7 +2342,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Centre Jacques Brel",
-                  "text": "Centre Jacques Brel este un muzeu situat în Atuona.",
+                  "text": "Muzeu în fosta casă a cântărețului Jacques Brel din Atuona.",
                   "category": "museum",
                   "coords": [
                         -139.040599,
@@ -1721,7 +2360,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Me'ae et Tohua de Tehueto",
-                  "text": "Me'ae et Tohua de Tehueto este un sit arheologic situat în Atuona.",
+                  "text": "Loc ceremonial cu platforme de piatră și petroglife lângă Atuona.",
                   "category": "historical",
                   "coords": [
                         -139.02786,
@@ -1730,7 +2369,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison du Jouir",
-                  "text": "Maison du Jouir este un muzeu situat în Atuona.",
+                  "text": "Casa reconstruită a pictorului Paul Gauguin din Atuona, acum muzeu.",
                   "category": "museum",
                   "coords": [
                         -139.040817,
@@ -1739,7 +2378,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tikis souriant suivre les indications",
-                  "text": "Tikis souriant suivre les indications este o atracție situată în Atuona.",
+                  "text": "O statuie tiki zâmbitoare de-a lungul unui traseu de drumeție lângă Atuona.",
                   "category": "landmark",
                   "coords": [
                         -139.00972,
@@ -1748,7 +2387,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église de l'Immaculée-Conception",
-                  "text": "Église de l'Immaculée-Conception este un lăcaș de cult religios situat în Atuona.",
+                  "text": "Biserică catolică din piatră albă în centrul orașului Atuona.",
                   "category": "religious",
                   "coords": [
                         -139.041857,
@@ -1759,7 +2398,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Centre Jacques Brel",
-                  "text": "Centre Jacques Brel is a museum institution located in Atuona.",
+                  "text": "A museum in the former home of singer Jacques Brel in Atuona.",
                   "category": "museum",
                   "coords": [
                         -139.040599,
@@ -1777,7 +2416,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Me'ae et Tohua de Tehueto",
-                  "text": "Me'ae et Tohua de Tehueto is an archaeological site located in Atuona.",
+                  "text": "A ceremonial site with stone platforms and petroglyphs near Atuona.",
                   "category": "historical",
                   "coords": [
                         -139.02786,
@@ -1786,7 +2425,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Maison du Jouir",
-                  "text": "Maison du Jouir is a museum offering exhibitions in Atuona.",
+                  "text": "The reconstructed home of painter Paul Gauguin in Atuona, now a museum.",
                   "category": "museum",
                   "coords": [
                         -139.040817,
@@ -1795,7 +2434,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tikis souriant suivre les indications",
-                  "text": "Tikis souriant suivre les indications is an attraction situated in Atuona.",
+                  "text": "A smiling tiki statue along a hiking trail near Atuona.",
                   "category": "landmark",
                   "coords": [
                         -139.00972,
@@ -1804,7 +2443,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église de l'Immaculée-Conception",
-                  "text": "Église de l'Immaculée-Conception is a religious place of worship located in Atuona.",
+                  "text": "White stone Catholic church in the center of Atuona.",
                   "category": "religious",
                   "coords": [
                         -139.041857,
@@ -1870,7 +2509,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belvédère de Piiti",
-                  "text": "Der Belvédère de Piiti ist ein malerischer Aussichtspunkt in Rikitea.",
+                  "text": "Aussichtspunkt mit Panoramablick über die Lagune von Mangareva.",
                   "category": "natural",
                   "coords": [
                         -134.974304,
@@ -1879,7 +2518,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Arc de triomphe de Kirimiro",
-                  "text": "Der Arc de triomphe de Kirimiro ist ein historisches Denkmal in Rikitea.",
+                  "text": "Steinerner Triumphbogen, errichtet von frühen Missionaren in Rikitea.",
                   "category": "historical",
                   "coords": [
                         -134.970475,
@@ -1888,7 +2527,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Moai",
-                  "text": "Der Moai ist ein ikonisches Denkmal in Rikitea.",
+                  "text": "Nachbildung einer Moai-Statue aus Stein in Rikitea.",
                   "category": "historical",
                   "coords": [
                         -134.968694,
@@ -1897,7 +2536,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puits",
-                  "text": "Puits umfasst antike Brunnenruinen in Rikitea.",
+                  "text": "Alter Steinbrunnen, der einst die Siedlung in Rikitea mit Wasser versorgte.",
                   "category": "historical",
                   "coords": [
                         -134.969031,
@@ -1906,7 +2545,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tour de guet",
-                  "text": "Tour de guet ist ein Denkmal in Rikitea.",
+                  "text": "Steinerner Wachturm auf einer Anhöhe mit Blick auf die Bucht von Rikitea.",
                   "category": "historical",
                   "coords": [
                         -134.967373,
@@ -1915,7 +2554,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Saint-Michel",
-                  "text": "Cathedral of Saint Michael ist eine bemerkenswerte Kultstätte in Rikitea.",
+                  "text": "Kathedrale St. Michael in Rikitea, Sitz des Bischofs von Taravao, erbaut im 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
                         -134.968336,
@@ -1935,7 +2574,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belvédère de Piiti",
-                  "text": "A Belvédère de Piiti egy festői kilátóhely Rikitea városában.",
+                  "text": "Kilátóhely panorámás kilátással a Mangareva lagúnára.",
                   "category": "natural",
                   "coords": [
                         -134.974304,
@@ -1944,7 +2583,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Arc de triomphe de Kirimiro",
-                  "text": "A Kirimiro diadalív (Arc de triomphe de Kirimiro) egy történelmi emlékmű Rikitea városában.",
+                  "text": "Kő diadalív, amelyet korai misszionáriusok emeltek Rikiteában.",
                   "category": "historical",
                   "coords": [
                         -134.970475,
@@ -1953,7 +2592,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Moai",
-                  "text": "A Moai egy ikonikus emlékmű Rikitea városában.",
+                  "text": "Egy moai szobor kő másolata Rikiteában.",
                   "category": "historical",
                   "coords": [
                         -134.968694,
@@ -1962,7 +2601,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puits",
-                  "text": "A Puits nevű hely ősi kútromokat foglal magába Rikitea városában.",
+                  "text": "Régi kőkút, amely egykor Rikitea települést látta el vízzel.",
                   "category": "historical",
                   "coords": [
                         -134.969031,
@@ -1971,7 +2610,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tour de guet",
-                  "text": "A Tour de guet egy emlékmű Rikitea városában.",
+                  "text": "Kő őrtorony egy magaslaton, kilátással a rikiteai öbölre.",
                   "category": "historical",
                   "coords": [
                         -134.967373,
@@ -1980,7 +2619,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Saint-Michel",
-                  "text": "A Cathedral of Saint Michael egy jelentős istentiszteleti hely Rikitea városában.",
+                  "text": "Szent Mihály székesegyház Rikiteán, a taravaoi püspök székhelye, a 19. században épült.",
                   "category": "religious",
                   "coords": [
                         -134.968336,
@@ -2000,7 +2639,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belvédère de Piiti",
-                  "text": "Belvédère de Piiti este un punct de belvedere pitoresc situat în Rikitea.",
+                  "text": "Punct de belvedere cu vedere panoramică asupra lagunei Mangareva.",
                   "category": "natural",
                   "coords": [
                         -134.974304,
@@ -2009,7 +2648,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Arc de triomphe de Kirimiro",
-                  "text": "Arc de triomphe de Kirimiro este un monument istoric situat în Rikitea.",
+                  "text": "Arc de triumf din piatră, construit de primii misionari în Rikitea.",
                   "category": "historical",
                   "coords": [
                         -134.970475,
@@ -2018,7 +2657,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Moai",
-                  "text": "Moai este un monument iconic situat în Rikitea.",
+                  "text": "O replică de piatră a unei statui moai în Rikitea.",
                   "category": "historical",
                   "coords": [
                         -134.968694,
@@ -2027,7 +2666,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puits",
-                  "text": "Puits prezintă ruinele unor fântâni antice situate în Rikitea.",
+                  "text": "Un vechi puț de piatră care aproviziona odinioară așezarea Rikitea cu apă.",
                   "category": "historical",
                   "coords": [
                         -134.969031,
@@ -2036,7 +2675,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tour de guet",
-                  "text": "Tour de guet este un monument situat în Rikitea.",
+                  "text": "Un turn de veghe din piatră pe o înălțime, cu vedere spre golful Rikitea.",
                   "category": "historical",
                   "coords": [
                         -134.967373,
@@ -2045,7 +2684,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathédrale Saint-Michel",
-                  "text": "Cathedral of Saint Michael este un loc de cult notabil situat în Rikitea.",
+                  "text": "Catedrala Sfântul Mihail din Rikitea, sediul episcopului de Taravao, construită în secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
                         -134.968336,
@@ -2065,7 +2704,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belvédère de Piiti",
-                  "text": "Belvédère de Piiti is a scenic viewpoint located in Rikitea.",
+                  "text": "A viewpoint offering a panoramic view over the lagoon of Mangareva.",
                   "category": "natural",
                   "coords": [
                         -134.974304,
@@ -2074,7 +2713,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Arc de triomphe de Kirimiro",
-                  "text": "The Arc de triomphe de Kirimiro is a historic monument situated in Rikitea.",
+                  "text": "A stone triumphal arch built by early missionaries in Rikitea.",
                   "category": "historical",
                   "coords": [
                         -134.970475,
@@ -2083,7 +2722,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Moai",
-                  "text": "The Moai is an iconic monument structure located in Rikitea.",
+                  "text": "A stone replica of a Moai statue in Rikitea.",
                   "category": "historical",
                   "coords": [
                         -134.968694,
@@ -2092,7 +2731,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Puits",
-                  "text": "Puits features ancient well ruins located in Rikitea.",
+                  "text": "An ancient stone well that once supplied water to the settlement in Rikitea.",
                   "category": "historical",
                   "coords": [
                         -134.969031,
@@ -2101,7 +2740,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tour de guet",
-                  "text": "Tour de guet is a monument located in Rikitea.",
+                  "text": "A stone watchtower on a hill overlooking Rikitea bay.",
                   "category": "historical",
                   "coords": [
                         -134.967373,
@@ -2110,7 +2749,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Cathedral of Saint Michael",
-                  "text": "Cathedral of Saint Michael is a notable place of worship located in Rikitea.",
+                  "text": "St. Michael's Cathedral in Rikitea, seat of the Bishop of Taravao, built in the 19th century.",
                   "category": "religious",
                   "coords": [
                         -134.968336,
@@ -2176,7 +2815,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Temple d'Avatoru",
-                  "text": "Temple d'Avatoru ist eine Kultstätte in der Stadt Avatoru.",
+                  "text": "Hauptprotestantischer Tempel auf dem Atoll Rangiroa.",
                   "category": "religious",
                   "coords": [
                         -147.709478,
@@ -2185,7 +2824,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Michel",
-                  "text": "Église Saint-Michel ist eine Kultstätte in Avatoru.",
+                  "text": "Katholische Kirche mit Korallensteinfassade auf Rangiroa.",
                   "category": "religious",
                   "coords": [
                         -147.709374,
@@ -2205,7 +2844,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Temple d'Avatoru",
-                  "text": "A Temple d'Avatoru egy istentiszteleti hely Avatoru városában.",
+                  "text": "A rangiroai atoll fő protestáns temploma.",
                   "category": "religious",
                   "coords": [
                         -147.709478,
@@ -2214,7 +2853,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Michel",
-                  "text": "Az Église Saint-Michel egy istentiszteleti hely Avatoru városában.",
+                  "text": "Katolikus templom korallkő homlokzattal Rangiroán.",
                   "category": "religious",
                   "coords": [
                         -147.709374,
@@ -2234,7 +2873,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Temple d'Avatoru",
-                  "text": "Temple d'Avatoru este un lăcaș de cult în orașul Avatoru.",
+                  "text": "Principalul templu protestant de pe atolul Rangiroa.",
                   "category": "religious",
                   "coords": [
                         -147.709478,
@@ -2243,7 +2882,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Michel",
-                  "text": "Église Saint-Michel este un lăcaș de cult în Avatoru.",
+                  "text": "Biserică catolică cu fațadă din piatră de corali pe Rangiroa.",
                   "category": "religious",
                   "coords": [
                         -147.709374,
@@ -2263,7 +2902,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Temple d'Avatoru",
-                  "text": "Temple d'Avatoru is a place of worship in the city of Avatoru.",
+                  "text": "Main Protestant temple on Rangiroa atoll.",
                   "category": "religious",
                   "coords": [
                         -147.709478,
@@ -2272,7 +2911,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Michel",
-                  "text": "Église Saint-Michel is a place of worship in Avatoru.",
+                  "text": "Catholic church with a coral stone facade on Rangiroa.",
                   "category": "religious",
                   "coords": [
                         -147.709374,
@@ -2329,7 +2968,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ancient phare de Topaka",
-                  "text": "Der alte Leuchtturm von Topaka ist ein historisches Denkmal in Rotoava.",
+                  "text": "Historischer Leuchtturm auf dem Atoll Fakarava in Rotoava.",
                   "category": "historical",
                   "coords": [
                         -145.642245,
@@ -2338,7 +2977,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-de-la-Croix",
-                  "text": "Die Église Saint-Jean-de-la-Croix ist eine lokale religiöse Stätte in Rotoava.",
+                  "text": "Kleine Kapelle nahe der Lagune von Rotoava auf Fakarava.",
                   "category": "religious",
                   "coords": [
                         -145.61707,
@@ -2349,7 +2988,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ancient phare de Topaka",
-                  "text": "Topaka régi világítótornya egy történelmi emlékmű Rotoava városában.",
+                  "text": "Történelmi világítótorony a Fakarava-atollon, Rotoavában.",
                   "category": "historical",
                   "coords": [
                         -145.642245,
@@ -2358,7 +2997,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-de-la-Croix",
-                  "text": "Az Église Saint-Jean-de-la-Croix egy helyi imahely Rotoava városában.",
+                  "text": "Kis kápolna Rotoava lagúnájának közelében Fakaraván.",
                   "category": "religious",
                   "coords": [
                         -145.61707,
@@ -2369,7 +3008,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ancient phare de Topaka",
-                  "text": "Vechiul far din Topaka este un monument istoric situat în Rotoava.",
+                  "text": "Far istoric pe atolul Fakarava, în Rotoava.",
                   "category": "historical",
                   "coords": [
                         -145.642245,
@@ -2378,7 +3017,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-de-la-Croix",
-                  "text": "Église Saint-Jean-de-la-Croix este un lăcaș de cult local situat în Rotoava.",
+                  "text": "Capelă mică lângă laguna din Rotoava, pe Fakarava.",
                   "category": "religious",
                   "coords": [
                         -145.61707,
@@ -2389,7 +3028,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Old lighthouse of Topaka",
-                  "text": "The Old lighthouse of Topaka is a historical monument located in Rotoava.",
+                  "text": "A historic lighthouse on Fakarava atoll in Rotoava.",
                   "category": "historical",
                   "coords": [
                         -145.642245,
@@ -2398,7 +3037,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-de-la-Croix",
-                  "text": "Église Saint-Jean-de-la-Croix is a local place of worship situated in Rotoava.",
+                  "text": "Small chapel near the lagoon in Rotoava, Fakarava.",
                   "category": "religious",
                   "coords": [
                         -145.61707,
@@ -2500,7 +3139,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Grotte Tane'Ua Poto",
-                  "text": "Tane'ua Poto Cave ist eine Attraktion in Moerai.",
+                  "text": "Kalksteinhöhle auf Rurutu mit Tropfsteinen und Stalaktiten.",
                   "category": "landmark",
                   "coords": [
                         -151.326255,
@@ -2511,7 +3150,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Grotte Tane'Ua Poto",
-                  "text": "A Tane'ua Poto Cave egy látványosság Moerai városában.",
+                  "text": "Mészkőbarlang Rurutun, cseppkövekkel és sztalaktitokkal.",
                   "category": "landmark",
                   "coords": [
                         -151.326255,
@@ -2522,7 +3161,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Grotte Tane'Ua Poto",
-                  "text": "Tane'ua Poto Cave este o atracție în Moerai.",
+                  "text": "Peșteră de calcar pe insula Rurutu, cu stalactite și stalagmite.",
                   "category": "landmark",
                   "coords": [
                         -151.326255,
@@ -2533,7 +3172,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tane'ua Poto Cave",
-                  "text": "Tane'ua Poto Cave is an attraction in Moerai.",
+                  "text": "A limestone cave on Rurutu with stalactites and stalagmites.",
                   "category": "landmark",
                   "coords": [
                         -151.326255,
@@ -2590,7 +3229,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pukumia",
-                  "text": "Pukumia ist eine archäologische Stätte in der Siedlung Ahurei.",
+                  "text": "Antike Marae-Steinplattform in Ahurei auf Raivavae.",
                   "category": "historical",
                   "coords": [
                         -144.318335,
@@ -2599,7 +3238,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Vairu",
-                  "text": "Vairu ist eine archäologische Stätte in der Stadt Ahurei.",
+                  "text": "Ruinen einer traditionellen polynesischen Behausung aus Stein in Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.336334,
@@ -2608,7 +3247,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Potatake",
-                  "text": "Potatake ist eine archäologische Stätte in Ahurei.",
+                  "text": "Steinerner Fischzaun oder terrassierte Anbaufläche aus voreuropäischer Zeit.",
                   "category": "historical",
                   "coords": [
                         -144.330615,
@@ -2617,7 +3256,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kapitanga",
-                  "text": "Kapitanga ist eine lokale archäologische Stätte in Ahurei.",
+                  "text": "Heilige Stätte mit aufrecht stehenden Steinen in Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.357298,
@@ -2626,7 +3265,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanga",
-                  "text": "Tanga ist eine historische archäologische Stätte in Ahurei.",
+                  "text": "Grabstätte mit Monumenten aus Korallen und Stein in Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.33035,
@@ -2635,7 +3274,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruatara",
-                  "text": "Ruatara ist eine archäologische Stätte in Ahurei.",
+                  "text": "Ruatara, eine historische Marae (zeremonielle Plattform) in Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.347792,
@@ -2646,7 +3285,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pukumia",
-                  "text": "Pukumia egy régészeti lelőhely Ahurei településén.",
+                  "text": "Ősi marae kőplatform Ahureiben, Raivavae szigetén.",
                   "category": "historical",
                   "coords": [
                         -144.318335,
@@ -2655,7 +3294,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Vairu",
-                  "text": "Vairu egy régészeti lelőhely Ahurei városában.",
+                  "text": "Egy hagyományos polinéz kőház romjai Ahureiben.",
                   "category": "historical",
                   "coords": [
                         -144.336334,
@@ -2664,7 +3303,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Potatake",
-                  "text": "Potatake egy régészeti lelőhely Ahurei területén.",
+                  "text": "Kő halzsákmány-csapda vagy teraszos mezőgazdasági terület a gyarmatosítás előtti időkből.",
                   "category": "historical",
                   "coords": [
                         -144.330615,
@@ -2673,7 +3312,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kapitanga",
-                  "text": "Kapitanga egy helyi régészeti lelőhely Ahurei városában.",
+                  "text": "Szent hely felállított kövekkel Ahureiben.",
                   "category": "historical",
                   "coords": [
                         -144.357298,
@@ -2682,7 +3321,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanga",
-                  "text": "Tanga egy történelmi régészeti lelőhely Ahurei városában.",
+                  "text": "Temetkezési hely korallból és kőből készült emlékművekkel Ahureiben.",
                   "category": "historical",
                   "coords": [
                         -144.33035,
@@ -2691,7 +3330,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruatara",
-                  "text": "Ruatara egy régészeti lelőhely Ahurei településen.",
+                  "text": "Ruatara, egy történelmi marae (szertartási platform) Ahureiben.",
                   "category": "historical",
                   "coords": [
                         -144.347792,
@@ -2702,7 +3341,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pukumia",
-                  "text": "Pukumia este un sit arheologic situat în așezarea Ahurei.",
+                  "text": "O platformă marae antică de piatră în Ahurei, pe insula Raivavae.",
                   "category": "historical",
                   "coords": [
                         -144.318335,
@@ -2711,7 +3350,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Vairu",
-                  "text": "Vairu este un sit arheologic situat în orașul Ahurei.",
+                  "text": "Ruinele unei locuințe tradiționale polineziene din piatră în Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.336334,
@@ -2720,7 +3359,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Potatake",
-                  "text": "Potatake este un sit arheologic din Ahurei.",
+                  "text": "Un gard de piatră pentru pești sau o terasă agricolă din perioada precolonială.",
                   "category": "historical",
                   "coords": [
                         -144.330615,
@@ -2729,7 +3368,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kapitanga",
-                  "text": "Kapitanga este un sit arheologic local din Ahurei.",
+                  "text": "Loc sacru cu pietre înălțate vertical în Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.357298,
@@ -2738,7 +3377,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanga",
-                  "text": "Tanga este un sit arheologic istoric din Ahurei.",
+                  "text": "Loc de înmormântare cu monumente de corali și piatră în Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.33035,
@@ -2747,7 +3386,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruatara",
-                  "text": "Ruatara este un sit arheologic situat în Ahurei.",
+                  "text": "Ruatara, un marae istoric (platformă ceremonială) în Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.347792,
@@ -2758,7 +3397,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pukumia",
-                  "text": "Pukumia is an archaeological site located in the settlement of Ahurei.",
+                  "text": "An ancient marae stone platform in Ahurei on Raivavae island.",
                   "category": "historical",
                   "coords": [
                         -144.318335,
@@ -2767,7 +3406,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Vairu",
-                  "text": "Vairu is an archaeological site located in the city of Ahurei.",
+                  "text": "Ruins of a traditional Polynesian stone dwelling in Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.336334,
@@ -2776,7 +3415,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Potatake",
-                  "text": "Potatake is an archaeological site situated in Ahurei.",
+                  "text": "A stone fish trap or terraced agricultural plot from pre‑European times.",
                   "category": "historical",
                   "coords": [
                         -144.330615,
@@ -2785,7 +3424,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kapitanga",
-                  "text": "Kapitanga is a local archaeological site in Ahurei.",
+                  "text": "A sacred site with standing stones in Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.357298,
@@ -2794,7 +3433,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tanga",
-                  "text": "Tanga is a historical archaeological site located in Ahurei.",
+                  "text": "A burial site with monuments of coral and stone in Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.33035,
@@ -2803,7 +3442,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Ruatara",
-                  "text": "Ruatara is an archaeological site found in Ahurei.",
+                  "text": "Ruatara, a historical marae (ceremonial platform) in Ahurei.",
                   "category": "historical",
                   "coords": [
                         -144.347792,
@@ -2950,7 +3589,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Site public d Oututaihia",
-                  "text": "Site public d Oututaihia ist ein öffentlicher Strand in Mataiea.",
+                  "text": "Site public d'Oututaihia, ein öffentlicher Strandpark mit weißem Sand in Mataiea.",
                   "category": "recreational",
                   "coords": [
                         -149.410473,
@@ -2959,7 +3598,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Totini",
-                  "text": "Totini ist ein natürlicher Berggipfel in Mataiea.",
+                  "text": "Wasserfall, der in einen Süßwasserpool im Tal von Mataiea stürzt.",
                   "category": "natural",
                   "coords": [
                         -149.430382,
@@ -2968,7 +3607,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Baptiste",
-                  "text": "Die Église Saint-Jean-Baptiste ist eine Kultstätte in Mataiea.",
+                  "text": "Neugotische Kirche mit Buntglasfenstern in Mataiea.",
                   "category": "religious",
                   "coords": [
                         -149.432053,
@@ -2979,7 +3618,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Site public d Oututaihia",
-                  "text": "A Site public d Oututaihia egy nyilvános strand Mataiea városában.",
+                  "text": "Site public d'Oututaihia, egy közösségi partszeli park fehér homokkal Mataiea-ban.",
                   "category": "recreational",
                   "coords": [
                         -149.410473,
@@ -2988,7 +3627,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Totini",
-                  "text": "Totini egy természetes hegycsúcs Mataiea településen.",
+                  "text": "Vízesés, amely a mataieai völgyben egy édesvizű medencébe zuhan.",
                   "category": "natural",
                   "coords": [
                         -149.430382,
@@ -2997,7 +3636,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Baptiste",
-                  "text": "Az Église Saint-Jean-Baptiste egy istentiszteleti hely Mataiea városában.",
+                  "text": "Neogótikus templom ólomüveg ablakokkal Mataieában.",
                   "category": "religious",
                   "coords": [
                         -149.432053,
@@ -3008,7 +3647,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Site public d Oututaihia",
-                  "text": "Site public d Oututaihia este o plajă publică situată în Mataiea.",
+                  "text": "Site public d'Oututaihia, un parc public pe plajă cu nisip alb în Mataiea.",
                   "category": "recreational",
                   "coords": [
                         -149.410473,
@@ -3017,7 +3656,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Totini",
-                  "text": "Totini este un vârf natural situat în Mataiea.",
+                  "text": "Cascadă care se prăbușește într-un bazin cu apă dulce în valea Mataiea.",
                   "category": "natural",
                   "coords": [
                         -149.430382,
@@ -3026,7 +3665,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Baptiste",
-                  "text": "Église Saint-Jean-Baptiste este un lăcaș de cult situat în Mataiea.",
+                  "text": "Biserică neogotică cu vitralii în Mataiea.",
                   "category": "religious",
                   "coords": [
                         -149.432053,
@@ -3037,7 +3676,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Site public d Oututaihia",
-                  "text": "Site public d Oututaihia is a public beach located in Mataiea.",
+                  "text": "Site public d'Oututaihia, a public beach park with white sand in Mataiea.",
                   "category": "recreational",
                   "coords": [
                         -149.410473,
@@ -3046,7 +3685,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Totini",
-                  "text": "Totini is a natural peak situated in Mataiea.",
+                  "text": "Waterfall cascading into a freshwater pool in the Mataiea valley.",
                   "category": "natural",
                   "coords": [
                         -149.430382,
@@ -3055,7 +3694,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Saint-Jean-Baptiste",
-                  "text": "Église Saint-Jean-Baptiste is a place of worship located in Mataiea.",
+                  "text": "Neo-Gothic church with stained glass windows in Mataiea.",
                   "category": "religious",
                   "coords": [
                         -149.432053,
@@ -3157,7 +3796,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mouillage de Bougainville",
-                  "text": "Mouillage de Bougainville ist ein Aussichtspunkt in Hitia'a.",
+                  "text": "Mouillage de Bougainville, eine natürliche Ankerbucht in Hitiaa, die Schutz vor der Küste bietet.",
                   "category": "natural",
                   "coords": [
                         -149.306713,
@@ -3168,7 +3807,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mouillage de Bougainville",
-                  "text": "A Mouillage de Bougainville egy kilátó Hitia'a városában.",
+                  "text": "Mouillage de Bougainville, egy természetes horgonyzó öböl Hitiaa-ban, amely védelmet nyújt a part mentén.",
                   "category": "natural",
                   "coords": [
                         -149.306713,
@@ -3179,7 +3818,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mouillage de Bougainville",
-                  "text": "Mouillage de Bougainville este un punct de belvedere în Hitia'a.",
+                  "text": "Mouillage de Bougainville, un ancoraj natural în Hitiaa, oferind adăpost lângă țărm.",
                   "category": "natural",
                   "coords": [
                         -149.306713,
@@ -3190,7 +3829,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mouillage de Bougainville",
-                  "text": "Mouillage de Bougainville is a viewpoint in Hitia'a.",
+                  "text": "Mouillage de Bougainville, a natural anchorage in Hitiaa, offering shelter off the coast.",
                   "category": "natural",
                   "coords": [
                         -149.306713,
@@ -3247,7 +3886,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Église Sainte Anne",
-                  "text": "Die Église Sainte Anne ist eine lokale Kirche und Kultstätte in Papenoo.",
+                  "text": "Steinerne Kirche mit Glockenturm in Papenoo.",
                   "category": "religious",
                   "coords": [
                         -149.425353,
@@ -3258,7 +3897,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Église Sainte Anne",
-                  "text": "Az Église Sainte Anne egy helyi templom és istentiszteleti hely Papenoo városában.",
+                  "text": "Kőtemplom harangtoronnyal Papenooban.",
                   "category": "religious",
                   "coords": [
                         -149.425353,
@@ -3269,7 +3908,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Église Sainte Anne",
-                  "text": "Église Sainte Anne este o biserică locală și un lăcaș de cult din Papenoo.",
+                  "text": "Biserică de piatră cu turn clopotniță în Papenoo.",
                   "category": "religious",
                   "coords": [
                         -149.425353,
@@ -3280,7 +3919,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Église Sainte Anne",
-                  "text": "Église Sainte Anne is a local church and place of worship in Papenoo.",
+                  "text": "Stone church with a bell tower in Papenoo.",
                   "category": "religious",
                   "coords": [
                         -149.425353,
@@ -3382,7 +4021,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Église Saint-Pierre-Chanel",
-                  "text": "Église Saint-Pierre-Chanel ist eine Kultstätte in Mahaena.",
+                  "text": "Dem heiligen Pierre Chanel, dem ersten Märtyrer Ozeaniens, geweihte Kirche.",
                   "category": "religious",
                   "coords": [
                         -149.33767,
@@ -3393,7 +4032,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Église Saint-Pierre-Chanel",
-                  "text": "Az Église Saint-Pierre-Chanel egy istentiszteleti hely Mahaena területén.",
+                  "text": "Templom, amelyet Szent Pierre Chanelnek, Óceánia első vértanújának szenteltek.",
                   "category": "religious",
                   "coords": [
                         -149.33767,
@@ -3404,7 +4043,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Église Saint-Pierre-Chanel",
-                  "text": "Église Saint-Pierre-Chanel este un lăcaș de cult în Mahaena.",
+                  "text": "Biserică dedicată Sfântului Pierre Chanel, primul martir al Oceaniei.",
                   "category": "religious",
                   "coords": [
                         -149.33767,
@@ -3415,7 +4054,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Église Saint-Pierre-Chanel",
-                  "text": "Église Saint-Pierre-Chanel is a place of worship in Mahaena.",
+                  "text": "Church dedicated to Saint Peter Chanel, the first martyr of Oceania.",
                   "category": "religious",
                   "coords": [
                         -149.33767,
@@ -3517,7 +4156,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Araope",
-                  "text": "Araope ist ein Gipfel in Teahupo'o.",
+                  "text": "Riffdurchlass, der die berühmte Teahupoo-Welle formt.",
                   "category": "natural",
                   "coords": [
                         -149.276553,
@@ -3526,7 +4165,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Area",
-                  "text": "Area ist ein Gipfel in Teahupo'o.",
+                  "text": "Küstenabschnitt mit schwarzem Sandstrand bei Teahupoo.",
                   "category": "natural",
                   "coords": [
                         -149.258368,
@@ -3535,7 +4174,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parau",
-                  "text": "Parau ist ein Gipfel in Teahupo'o.",
+                  "text": "Fluss, der bei Teahupoo ins Meer mündet.",
                   "category": "natural",
                   "coords": [
                         -149.252881,
@@ -3544,7 +4183,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tarania",
-                  "text": "Tarania ist ein Gipfel in Teahupo'o.",
+                  "text": "Klippe mit Aussicht auf die Surfbrandung von Teahupoo.",
                   "category": "natural",
                   "coords": [
                         -149.257021,
@@ -3553,7 +4192,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teahupoo Tahiti Surfari",
-                  "text": "Teahupoo Tahiti Surfari ist eine Attraktion in Teahupo'o.",
+                  "text": "Teahupoo Tahiti Surfari, ein weltberühmter Surfbrecher mit einer der schwersten Wellen der Welt bei Teahupoo.",
                   "category": "landmark",
                   "coords": [
                         -149.262953,
@@ -3564,7 +4203,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Araope",
-                  "text": "Az Araope egy hegycsúcs Teahupo'o területén.",
+                  "text": "Korallzátony-átjáró, amely a híres Teahupoo-hullámot formálja.",
                   "category": "natural",
                   "coords": [
                         -149.276553,
@@ -3573,7 +4212,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Area",
-                  "text": "Az Area egy hegycsúcs Teahupo'o területén.",
+                  "text": "Tengerparti szakasz fekete homokos stranddal Teahupoo közelében.",
                   "category": "natural",
                   "coords": [
                         -149.258368,
@@ -3582,7 +4221,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parau",
-                  "text": "A Parau egy hegycsúcs Teahupo'o területén.",
+                  "text": "Folyó, amely Teahupoonál a tengerbe ömlik.",
                   "category": "natural",
                   "coords": [
                         -149.252881,
@@ -3591,7 +4230,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tarania",
-                  "text": "A Tarania egy hegycsúcs Teahupo'o területén.",
+                  "text": "Szikla, amelyről a teahupoo-i szörf hullámaira nyílik kilátás.",
                   "category": "natural",
                   "coords": [
                         -149.257021,
@@ -3600,7 +4239,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teahupoo Tahiti Surfari",
-                  "text": "A Teahupoo Tahiti Surfari egy látványosság Teahupo'o területén.",
+                  "text": "Teahupoo Tahiti Surfari, egy világhírű szörfhely, ahol a bolygó egyik legnehezebb hulláma tör, Teahupoo közelében.",
                   "category": "landmark",
                   "coords": [
                         -149.262953,
@@ -3611,7 +4250,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Araope",
-                  "text": "Araope este un vârf situat în Teahupo'o.",
+                  "text": "Canal de recif care creează valul iconic Teahupoo.",
                   "category": "natural",
                   "coords": [
                         -149.276553,
@@ -3620,7 +4259,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Area",
-                  "text": "Area este un vârf situat în Teahupo'o.",
+                  "text": "Zonă de coastă cu plajă de nisip negru lângă Teahupoo.",
                   "category": "natural",
                   "coords": [
                         -149.258368,
@@ -3629,7 +4268,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parau",
-                  "text": "Parau este un vârf situat în Teahupo'o.",
+                  "text": "Râu care se varsă în mare la Teahupoo.",
                   "category": "natural",
                   "coords": [
                         -149.252881,
@@ -3638,7 +4277,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tarania",
-                  "text": "Tarania este un vârf situat în Teahupo'o.",
+                  "text": "Stâncă cu vedere spre valurile de surf din Teahupoo.",
                   "category": "natural",
                   "coords": [
                         -149.257021,
@@ -3647,7 +4286,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teahupoo Tahiti Surfari",
-                  "text": "Teahupoo Tahiti Surfari este o atracție situată în Teahupo'o.",
+                  "text": "Teahupoo Tahiti Surfari, un loc de surf renumit mondial, cu unul dintre cei mai grei valuri de pe planetă, lângă Teahupoo.",
                   "category": "landmark",
                   "coords": [
                         -149.262953,
@@ -3658,7 +4297,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Araope",
-                  "text": "Araope is a peak located in Teahupo'o.",
+                  "text": "Reef channel that creates the iconic Teahupoo wave.",
                   "category": "natural",
                   "coords": [
                         -149.276553,
@@ -3667,7 +4306,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Area",
-                  "text": "Area is a peak located in Teahupo'o.",
+                  "text": "Coastal area with black sand beach near Teahupoo.",
                   "category": "natural",
                   "coords": [
                         -149.258368,
@@ -3676,7 +4315,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Parau",
-                  "text": "Parau is a peak located in Teahupo'o.",
+                  "text": "River flowing into the sea at Teahupoo.",
                   "category": "natural",
                   "coords": [
                         -149.252881,
@@ -3685,7 +4324,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Tarania",
-                  "text": "Tarania is a peak located in Teahupo'o.",
+                  "text": "Cliff overlooking the Teahupoo surf break.",
                   "category": "natural",
                   "coords": [
                         -149.257021,
@@ -3694,7 +4333,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Teahupoo Tahiti Surfari",
-                  "text": "Teahupoo Tahiti Surfari is an attraction located in Teahupo'o.",
+                  "text": "Teahupoo Tahiti Surfari, a world-famous surf break with one of the heaviest waves on the planet, near Teahupoo.",
                   "category": "landmark",
                   "coords": [
                         -149.262953,
@@ -3751,7 +4390,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort de Taravao",
-                  "text": "Fort de Taravao ist ein historisches Fort in Toahotu.",
+                  "text": "1848 erbautes Fort auf Tahiti in Toahotu.",
                   "category": "fortress",
                   "coords": [
                         -149.309528,
@@ -3760,7 +4399,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belvédère de PUUNUI",
-                  "text": "Belvédère de PUUNUI ist ein Aussichtspunkt in Toahotu.",
+                  "text": "Belvédère de Puunui, ein Hügelaussichtspunkt in Toahotu mit Panoramablick auf die Lagune und Motus.",
                   "category": "natural",
                   "coords": [
                         -149.308057,
@@ -3769,7 +4408,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église du Saint-Cœur-de-Marie",
-                  "text": "Église du Saint-Cœur-de-Marie ist eine Kultstätte in Toahotu.",
+                  "text": "Katholische Kirche mit blauem Dach in Toahotu.",
                   "category": "religious",
                   "coords": [
                         -149.309331,
@@ -3780,7 +4419,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort de Taravao",
-                  "text": "A Fort de Taravao egy történelmi erőd Toahotu városában.",
+                  "text": "1848-ban épült erőd Tahitin, Toahotuban.",
                   "category": "fortress",
                   "coords": [
                         -149.309528,
@@ -3789,7 +4428,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belvédère de PUUNUI",
-                  "text": "A Belvédère de PUUNUI egy kilátó Toahotu városában.",
+                  "text": "Belvédère de Puunui, egy dombtetői kilátó Toahotu-ban, panorámás kilátással a lagúnára és a motukra.",
                   "category": "natural",
                   "coords": [
                         -149.308057,
@@ -3798,7 +4437,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église du Saint-Cœur-de-Marie",
-                  "text": "Az Église du Saint-Cœur-de-Marie egy istentiszteleti hely Toahotu városában.",
+                  "text": "Katolikus templom kék tetővel Toahotuban.",
                   "category": "religious",
                   "coords": [
                         -149.309331,
@@ -3809,7 +4448,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort de Taravao",
-                  "text": "Fort de Taravao este un fort istoric în Toahotu.",
+                  "text": "Fort construit în 1848 în Toahotu, Tahiti.",
                   "category": "fortress",
                   "coords": [
                         -149.309528,
@@ -3818,7 +4457,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belvédère de PUUNUI",
-                  "text": "Belvédère de PUUNUI este un punct de belvedere în Toahotu.",
+                  "text": "Belvédère de Puunui, un punct de belvedere pe deal în Toahotu, cu vedere panoramică asupra lagunei și motu-urilor.",
                   "category": "natural",
                   "coords": [
                         -149.308057,
@@ -3827,7 +4466,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église du Saint-Cœur-de-Marie",
-                  "text": "Église du Saint-Cœur-de-Marie este un lăcaș de cult în Toahotu.",
+                  "text": "Biserică catolică cu acoperiș albastru în Toahotu.",
                   "category": "religious",
                   "coords": [
                         -149.309331,
@@ -3838,7 +4477,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort de Taravao",
-                  "text": "Fort de Taravao is a historic fort in Toahotu.",
+                  "text": "Fort built in 1848 on Tahiti in Toahotu.",
                   "category": "fortress",
                   "coords": [
                         -149.309528,
@@ -3847,7 +4486,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belvédère de PUUNUI",
-                  "text": "Belvédère de PUUNUI is a viewpoint in Toahotu.",
+                  "text": "Belvédère de Puunui, a hilltop lookout in Toahotu with panoramic views of the lagoon and motus.",
                   "category": "natural",
                   "coords": [
                         -149.308057,
@@ -3856,7 +4495,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église du Saint-Cœur-de-Marie",
-                  "text": "Église du Saint-Cœur-de-Marie is a place of worship in Toahotu.",
+                  "text": "Catholic church with a blue roof in Toahotu.",
                   "category": "religious",
                   "coords": [
                         -149.309331,
@@ -4003,7 +4642,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tautira",
-                  "text": "Tautira ist eine bekannte Bucht in der Region Tautira.",
+                  "text": "Tautira-Bucht auf Tahiti, bekannt für ihren schwarzen Sandstrand und Panoramablick.",
                   "category": "landmark",
                   "coords": [
                         -149.169106,
@@ -4012,7 +4651,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre-Dame-de-Paix",
-                  "text": "Église Notre-Dame-de-Paix ist eine Kultstätte in Tautira.",
+                  "text": "Steinerne Kirche im abgelegenen Dorf Tautira auf der Halbinsel Tahiti Iti.",
                   "category": "religious",
                   "coords": [
                         -149.160437,
@@ -4023,7 +4662,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tautira",
-                  "text": "Tautira egy ismert öböl Tautira területén.",
+                  "text": "Tautira-öböl Tahitin, híres fekete homokos strandjáról és panorámájáról.",
                   "category": "landmark",
                   "coords": [
                         -149.169106,
@@ -4032,7 +4671,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre-Dame-de-Paix",
-                  "text": "Az Église Notre-Dame-de-Paix egy istentiszteleti hely Tautira városában.",
+                  "text": "Kőtemplom a távoli Tautira faluban a Tahiti Iti-félszigeten.",
                   "category": "religious",
                   "coords": [
                         -149.160437,
@@ -4043,7 +4682,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tautira",
-                  "text": "Tautira este un golf recunoscut din zona Tautira.",
+                  "text": "Golful Tautira din Tahiti, cunoscut pentru plaja cu nisip negru și priveliștile panoramice.",
                   "category": "landmark",
                   "coords": [
                         -149.169106,
@@ -4052,7 +4691,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre-Dame-de-Paix",
-                  "text": "Église Notre-Dame-de-Paix este un lăcaș de cult în Tautira.",
+                  "text": "Biserică de piatră în satul izolat Tautira, pe peninsula Tahiti Iti.",
                   "category": "religious",
                   "coords": [
                         -149.160437,
@@ -4063,7 +4702,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tautira",
-                  "text": "Tautira is a notable bay located in Tautira.",
+                  "text": "Tautira Bay on Tahiti, known for its black sand beach and panoramic views.",
                   "category": "landmark",
                   "coords": [
                         -149.169106,
@@ -4072,7 +4711,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Église Notre-Dame-de-Paix",
-                  "text": "Église Notre-Dame-de-Paix is a place of worship in Tautira.",
+                  "text": "Stone church in the remote village of Tautira on the Tahiti Iti peninsula.",
                   "category": "religious",
                   "coords": [
                         -149.160437,
@@ -4170,7 +4809,268 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     image: "/poi-images/frenchpolynesia-paopao-cities-v2.webp",
   },
   {
-    id: "frenchpolynesia-papetoai-cities-v2", "sights": {"de": [{"name": "Ta’ahiamanu", "text": "Ta’ahiamanu ist ein Strand in Papetoai.", "category": "recreational", "coords": [-149.847825, -17.48753]}, {"name": "Mo'orea Doplhin Center", "text": "Moorea Dolphin Center ist ein Aquarium in Papetoai.", "category": "family", "coords": [-149.892923, -17.489568]}, {"name": "Marae Taputapuatea de Papetoai", "text": "Marae Taputapuatea de Papetoai ist eine archäologische Stätte in Papetoai.", "category": "historical", "coords": [-149.870796, -17.492147]}, {"name": "Plage de Ta'ahiamanu", "text": "Vor der dramatischen Kulisse von Papetoai gelegen, ist die Plage de Ta'ahiamanu ein atemberaubender Strand in Französisch-Polynesien. Die ruhigen Gewässer schaffen exzellente Bedingungen für ein erfrischendes Bad oder einfaches Entspannen am Ufer. Wer gerne auf Erkundungstour geht, wird die Küstenspaziergänge hier als zutiefst lohnend und optisch beeindruckend empfinden. Ein kleiner Snack im Gepäck, der unter den Bäumen genossen werden kann, rundet den perfekten Besuch ab.", "category": "recreational", "coords": [-149.85022, -17.491728]}, {"name": "Baie de Opunohu", "text": "Opunohu Bay ist eine bekannte Bucht in Papetoai.", "category": "landmark", "coords": [-149.856578, -17.503107]}, {"name": "La Montagne magique", "text": "Magic Mountain ist ein Aussichtspunkt in Papetoai.", "category": "natural", "coords": [-149.868319, -17.498274]}, {"name": "Raie requins", "text": "Ray feeding site ist eine Attraktion in Papetoai.", "category": "landmark", "coords": [-149.900356, -17.487922]}], "hu": [{"name": "Ta’ahiamanu", "text": "A Ta’ahiamanu egy strand Papetoai területén.", "category": "recreational", "coords": [-149.847825, -17.48753]}, {"name": "Mo'orea Doplhin Center", "text": "A Moorea Dolphin Center egy akvárium Papetoai területén.", "category": "family", "coords": [-149.892923, -17.489568]}, {"name": "Marae Taputapuatea de Papetoai", "text": "A Marae Taputapuatea de Papetoai egy régészeti lelőhely Papetoai területén.", "category": "historical", "coords": [-149.870796, -17.492147]}, {"name": "Plage de Ta'ahiamanu", "text": "A Papetoai drámai háttere előtt elterülő Plage de Ta'ahiamanu egy lenyűgöző tengerpart Francia Polinéziában. A csendes vizek kiváló feltételeket teremtenek egy frissítő csobbanáshoz vagy csupán a part menti heverészéshez. Akik szeretnek felfedezni, azok az itteni tengerparti sétákat mélyen jutalmazónak és vizuálisan lenyűgözőnek találják majd. Egy könnyű kis harapnivaló csomagolása, amit a fák alatt fogyaszthatunk el, teljessé teszi a látogatást.", "category": "recreational", "coords": [-149.85022, -17.491728]}, {"name": "Baie de Opunohu", "text": "Az Opunohu Bay egy jelentős öböl Papetoai területén.", "category": "landmark", "coords": [-149.856578, -17.503107]}, {"name": "La Montagne magique", "text": "A Magic Mountain egy kilátó Papetoai területén.", "category": "natural", "coords": [-149.868319, -17.498274]}, {"name": "Raie requins", "text": "A Ray feeding site egy látványosság Papetoai területén.", "category": "landmark", "coords": [-149.900356, -17.487922]}], "ro": [{"name": "Ta’ahiamanu", "text": "Ta’ahiamanu este o plajă situată în Papetoai.", "category": "recreational", "coords": [-149.847825, -17.48753]}, {"name": "Mo'orea Doplhin Center", "text": "Moorea Dolphin Center este un acvariu situat în Papetoai.", "category": "family", "coords": [-149.892923, -17.489568]}, {"name": "Marae Taputapuatea de Papetoai", "text": "Marae Taputapuatea de Papetoai este un sit arheologic situat în Papetoai.", "category": "historical", "coords": [-149.870796, -17.492147]}, {"name": "Plage de Ta'ahiamanu", "text": "Situată pe fundalul dramatic din Papetoai, Plage de Ta'ahiamanu este o plajă uimitoare din Polinezia Franceză. Apele liniștite creează condiții excelente pentru o baie revigorantă sau pur și simplu pentru lenevit lângă țărm. Cei cărora le place să exploreze vor găsi plimbările de coastă aici profund pline de satisfacții și uimitoare din punct de vedere vizual. Un pachet cu o gustare ușoară pentru a vă bucura sub copaci completează o vizită perfectă.", "category": "recreational", "coords": [-149.85022, -17.491728]}, {"name": "Baie de Opunohu", "text": "Opunohu Bay este un golf notabil situat în Papetoai.", "category": "landmark", "coords": [-149.856578, -17.503107]}, {"name": "La Montagne magique", "text": "Magic Mountain este un punct de belvedere situat în Papetoai.", "category": "natural", "coords": [-149.868319, -17.498274]}, {"name": "Raie requins", "text": "Ray feeding site este o atracție situată în Papetoai.", "category": "landmark", "coords": [-149.900356, -17.487922]}], "en": [{"name": "Ta’ahiamanu", "text": "Ta’ahiamanu is a beach located in Papetoai.", "category": "recreational", "coords": [-149.847825, -17.48753]}, {"name": "Moorea Dolphin Center", "text": "Moorea Dolphin Center is an aquarium located in Papetoai.", "category": "family", "coords": [-149.892923, -17.489568]}, {"name": "Marae Taputapuatea de Papetoai", "text": "Marae Taputapuatea de Papetoai is an archaeological site located in Papetoai.", "category": "historical", "coords": [-149.870796, -17.492147]}, {"name": "Ta'ahiamanu beach", "text": "Set against the dramatic backdrop of Papetoai, Plage de Ta'ahiamanu is a stunning beach in French Polynesia. The tranquil waters create excellent conditions for a refreshing dip or merely lounging near the shore. Those who love exploring will find the coastal walks here deeply rewarding and visually striking. Packing a light snack to enjoy under the trees rounds off a perfect visit.", "category": "recreational", "coords": [-149.85022, -17.491728]}, {"name": "Opunohu Bay", "text": "Opunohu Bay is a notable bay located in Papetoai.", "category": "landmark", "coords": [-149.856578, -17.503107]}, {"name": "Magic Mountain", "text": "Magic Mountain is a viewpoint located in Papetoai.", "category": "natural", "coords": [-149.868319, -17.498274]}, {"name": "Ray feeding site", "text": "Ray feeding site is an attraction located in Papetoai.", "category": "landmark", "coords": [-149.900356, -17.487922]}]},
+    id: "frenchpolynesia-papetoai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ta’ahiamanu",
+                  "text": "Ta'ahiamanu, ein öffentlicher Strand und Schnorchelplatz an der Lagune von Papetoai.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.847825,
+                        -17.48753
+                  ]
+            },
+            {
+                  "name": "Mo'orea Doplhin Center",
+                  "text": "Moorea Dolphin Center, eine Einrichtung in Papetoai, in der Besucher mit Delfinen in einer Lagune schwimmen können.",
+                  "category": "family",
+                  "coords": [
+                        -149.892923,
+                        -17.489568
+                  ]
+            },
+            {
+                  "name": "Marae Taputapuatea de Papetoai",
+                  "text": "Marae Taputapuatea de Papetoai, eine antike polynesische Zeremonialplattform (Marae) an der Küste von Moorea.",
+                  "category": "historical",
+                  "coords": [
+                        -149.870796,
+                        -17.492147
+                  ]
+            },
+            {
+                  "name": "Plage de Ta'ahiamanu",
+                  "text": "Vor der dramatischen Kulisse von Papetoai gelegen, ist die Plage de Ta'ahiamanu ein atemberaubender Strand in Französisch-Polynesien. Die ruhigen Gewässer schaffen exzellente Bedingungen für ein erfrischendes Bad oder einfaches Entspannen am Ufer. Wer gerne auf Erkundungstour geht, wird die Küstenspaziergänge hier als zutiefst lohnend und optisch beeindruckend empfinden. Ein kleiner Snack im Gepäck, der unter den Bäumen genossen werden kann, rundet den perfekten Besuch ab.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.85022,
+                        -17.491728
+                  ]
+            },
+            {
+                  "name": "Baie de Opunohu",
+                  "text": "Opunohu-Bucht auf Moorea, eine malerische Bucht mit üppigen Bergen und klarem Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.856578,
+                        -17.503107
+                  ]
+            },
+            {
+                  "name": "La Montagne magique",
+                  "text": "Magic Mountain, ein Vulkangipfel in Papetoai mit einer kurzen Wanderung zu einer 360°-Aussicht über die Cooks Bay und Opunohu Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -149.868319,
+                        -17.498274
+                  ]
+            },
+            {
+                  "name": "Raie requins",
+                  "text": "Ray feeding site, ein flaches Lagunengebiet in Papetoai, in dem Besucher mit Stachelrochen füttern und schwimmen können.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.900356,
+                        -17.487922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ta’ahiamanu",
+                  "text": "Ta'ahiamanu, egy közösségi strand és snorkelezőhely Papetoai lagúnájánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.847825,
+                        -17.48753
+                  ]
+            },
+            {
+                  "name": "Mo'orea Doplhin Center",
+                  "text": "Moorea Dolphin Center, egy létesítmény Papetoai-ban, ahol a látogatók delfinekkel úszhatnak egy lagúnában.",
+                  "category": "family",
+                  "coords": [
+                        -149.892923,
+                        -17.489568
+                  ]
+            },
+            {
+                  "name": "Marae Taputapuatea de Papetoai",
+                  "text": "Marae Taputapuatea de Papetoai, egy ősi polinéz szertartási platform (marae) Moorea partján.",
+                  "category": "historical",
+                  "coords": [
+                        -149.870796,
+                        -17.492147
+                  ]
+            },
+            {
+                  "name": "Plage de Ta'ahiamanu",
+                  "text": "A Papetoai drámai háttere előtt elterülő Plage de Ta'ahiamanu egy lenyűgöző tengerpart Francia Polinéziában. A csendes vizek kiváló feltételeket teremtenek egy frissítő csobbanáshoz vagy csupán a part menti heverészéshez. Akik szeretnek felfedezni, azok az itteni tengerparti sétákat mélyen jutalmazónak és vizuálisan lenyűgözőnek találják majd. Egy könnyű kis harapnivaló csomagolása, amit a fák alatt fogyaszthatunk el, teljessé teszi a látogatást.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.85022,
+                        -17.491728
+                  ]
+            },
+            {
+                  "name": "Baie de Opunohu",
+                  "text": "Opunohu-öböl Mooreán, egy festői öböl dús hegyekkel és tiszta vízzel.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.856578,
+                        -17.503107
+                  ]
+            },
+            {
+                  "name": "La Montagne magique",
+                  "text": "Magic Mountain, egy vulkáni csúcs Papetoai-ban, rövid túrával, ahonnan 360°-os kilátás nyílik a Cooks-öbölre és az Opunohu-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -149.868319,
+                        -17.498274
+                  ]
+            },
+            {
+                  "name": "Raie requins",
+                  "text": "Ray feeding site, egy sekély lagúnás terület Papetoai-ban, ahol a látogatók rájákat etethetnek és úszhatnak velük.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.900356,
+                        -17.487922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ta’ahiamanu",
+                  "text": "Ta'ahiamanu, o plajă publică și loc de snorkeling pe laguna din Papetoai.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.847825,
+                        -17.48753
+                  ]
+            },
+            {
+                  "name": "Mo'orea Doplhin Center",
+                  "text": "Moorea Dolphin Center, o facilitate în Papetoai unde vizitatorii pot înota cu delfinii într-o lagună.",
+                  "category": "family",
+                  "coords": [
+                        -149.892923,
+                        -17.489568
+                  ]
+            },
+            {
+                  "name": "Marae Taputapuatea de Papetoai",
+                  "text": "Marae Taputapuatea de Papetoai, o platformă ceremonială polineziană antică (marae) pe coasta Moorea.",
+                  "category": "historical",
+                  "coords": [
+                        -149.870796,
+                        -17.492147
+                  ]
+            },
+            {
+                  "name": "Plage de Ta'ahiamanu",
+                  "text": "Situată pe fundalul dramatic din Papetoai, Plage de Ta'ahiamanu este o plajă uimitoare din Polinezia Franceză. Apele liniștite creează condiții excelente pentru o baie revigorantă sau pur și simplu pentru lenevit lângă țărm. Cei cărora le place să exploreze vor găsi plimbările de coastă aici profund pline de satisfacții și uimitoare din punct de vedere vizual. Un pachet cu o gustare ușoară pentru a vă bucura sub copaci completează o vizită perfectă.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.85022,
+                        -17.491728
+                  ]
+            },
+            {
+                  "name": "Baie de Opunohu",
+                  "text": "Golful Opunohu din Moorea, un golf pitoresc cu munți luxurianți și ape limpezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.856578,
+                        -17.503107
+                  ]
+            },
+            {
+                  "name": "La Montagne magique",
+                  "text": "Magic Mountain, un vârf vulcanic în Papetoai, cu o drumeție scurtă până la o vedere de 360° asupra golfului Cook și a golfului Opunohu.",
+                  "category": "natural",
+                  "coords": [
+                        -149.868319,
+                        -17.498274
+                  ]
+            },
+            {
+                  "name": "Raie requins",
+                  "text": "Ray feeding site, o zonă lagunară puțin adâncă în Papetoai, unde vizitatorii pot hrăni și înota cu pisicile de mare sudice.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.900356,
+                        -17.487922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ta’ahiamanu",
+                  "text": "Ta'ahiamanu, a public beach and snorkeling spot on Papetoai's lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.847825,
+                        -17.48753
+                  ]
+            },
+            {
+                  "name": "Moorea Dolphin Center",
+                  "text": "Moorea Dolphin Center, a facility in Papetoai where visitors can swim with dolphins in a lagoon.",
+                  "category": "family",
+                  "coords": [
+                        -149.892923,
+                        -17.489568
+                  ]
+            },
+            {
+                  "name": "Marae Taputapuatea de Papetoai",
+                  "text": "Marae Taputapuatea de Papetoai, an ancient Polynesian ceremonial platform (marae) on Moorea's coast.",
+                  "category": "historical",
+                  "coords": [
+                        -149.870796,
+                        -17.492147
+                  ]
+            },
+            {
+                  "name": "Ta'ahiamanu beach",
+                  "text": "Set against the dramatic backdrop of Papetoai, Plage de Ta'ahiamanu is a stunning beach in French Polynesia. The tranquil waters create excellent conditions for a refreshing dip or merely lounging near the shore. Those who love exploring will find the coastal walks here deeply rewarding and visually striking. Packing a light snack to enjoy under the trees rounds off a perfect visit.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.85022,
+                        -17.491728
+                  ]
+            },
+            {
+                  "name": "Opunohu Bay",
+                  "text": "Opunohu Bay on Moorea, a scenic bay with lush mountains and clear waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.856578,
+                        -17.503107
+                  ]
+            },
+            {
+                  "name": "Magic Mountain",
+                  "text": "Magic Mountain, a volcanic peak in Papetoai with a short hike to a 360° view of Cook's Bay and Opunohu Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -149.868319,
+                        -17.498274
+                  ]
+            },
+            {
+                  "name": "Ray feeding site",
+                  "text": "Ray feeding site, a shallow lagoon area in Papetoai where visitors can feed and swim with southern stingrays.",
+                  "category": "landmark",
+                  "coords": [
+                        -149.900356,
+                        -17.487922
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "village",
     name: { de: "Papetoai", hu: "Papetoai", ro: "Papetoai", en: "Papetoai" },
@@ -4215,7 +5115,88 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     image: "/poi-images/frenchpolynesia-papetoai-cities-v2.webp",
   },
   {
-    id: "frenchpolynesia-haapiti-cities-v2", "sights": {"de": [{"name": "Painapo Beach", "text": "Painapo Beach ruht friedlich in Haapiti und fängt die reine Essenz der Küste Französisch-Polynesiens ein. Der Strand zeichnet sich durch eine entspannte Umgebung aus, in der Schwimmen und Sonnenbaden in einem unaufgeregten, tropischen Tempo stattfinden. Barfuß entlang dieses sandigen Rückzugsortes zu spazieren, ist eine wunderbare Möglichkeit, sich mit der Natur zu verbinden. Es wird empfohlen, bis zum späten Nachmittag zu bleiben, um zu beobachten, wie der Himmel seine Farben ändert.", "category": "recreational", "coords": [-149.887917, -17.547797]}, {"name": "Église de la Sainte-Famille", "text": "Église de la Sainte-Famille ist eine Kultstätte in Haapiti.", "category": "religious", "coords": [-149.870099, -17.564412]}], "hu": [{"name": "Painapo Beach", "text": "A Painapo Beach békésen terül el Haapiti térségében, megragadva Francia Polinézia partvidékének tiszta esszenciáját. Laza környezettel büszkélkedhet, ahol az úszás és a napozás komótos, trópusi tempóban zajlik. Mezítláb sétálni ezen a homokos menedéken kitűnő módja a természethez való kapcsolódásnak. Érdemes késő délutánig maradni, hogy végignézzük az égbolt lenyűgöző színváltozásait.", "category": "recreational", "coords": [-149.887917, -17.547797]}, {"name": "Église de la Sainte-Famille", "text": "Az Église de la Sainte-Famille egy istentiszteleti hely Haapiti városában.", "category": "religious", "coords": [-149.870099, -17.564412]}], "ro": [{"name": "Painapo Beach", "text": "Painapo Beach este așezată pașnic în Haapiti, surprinzând esența pură a coastei Polineziei Franceze. Se mândrește cu un mediu lejer, în care înotul și plaja se petrec într-un ritm tropical, negrăbit. Mersul desculț de-a lungul acestui refugiu de nisip este o modalitate rafinată de a vă conecta cu natura. Este recomandat să stați până târziu după-amiaza pentru a urmări cum cerul își schimbă culorile.", "category": "recreational", "coords": [-149.887917, -17.547797]}, {"name": "Église de la Sainte-Famille", "text": "Église de la Sainte-Famille este un lăcaș de cult în Haapiti.", "category": "religious", "coords": [-149.870099, -17.564412]}], "en": [{"name": "Painapo Beach", "text": "Painapo Beach sits peacefully in Haapiti, capturing the pure essence of French Polynesia's coastline. It boasts an easy-going environment where swimming and sunbathing happen at an unhurried, tropical pace. Walking barefoot along this sandy retreat is an exquisite way to connect with nature. It is recommended to stay until the late afternoon to watch the sky shift its colors.", "category": "recreational", "coords": [-149.887917, -17.547797]}, {"name": "Église de la Sainte-Famille", "text": "Église de la Sainte-Famille is a place of worship in Haapiti.", "category": "religious", "coords": [-149.870099, -17.564412]}]},
+    id: "frenchpolynesia-haapiti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Painapo Beach",
+                  "text": "Painapo Beach ruht friedlich in Haapiti und fängt die reine Essenz der Küste Französisch-Polynesiens ein. Der Strand zeichnet sich durch eine entspannte Umgebung aus, in der Schwimmen und Sonnenbaden in einem unaufgeregten, tropischen Tempo stattfinden. Barfuß entlang dieses sandigen Rückzugsortes zu spazieren, ist eine wunderbare Möglichkeit, sich mit der Natur zu verbinden. Es wird empfohlen, bis zum späten Nachmittag zu bleiben, um zu beobachten, wie der Himmel seine Farben ändert.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.887917,
+                        -17.547797
+                  ]
+            },
+            {
+                  "name": "Église de la Sainte-Famille",
+                  "text": "Katholische Kirche mit weißem Turm in Haapiti auf Moorea.",
+                  "category": "religious",
+                  "coords": [
+                        -149.870099,
+                        -17.564412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Painapo Beach",
+                  "text": "A Painapo Beach békésen terül el Haapiti térségében, megragadva Francia Polinézia partvidékének tiszta esszenciáját. Laza környezettel büszkélkedhet, ahol az úszás és a napozás komótos, trópusi tempóban zajlik. Mezítláb sétálni ezen a homokos menedéken kitűnő módja a természethez való kapcsolódásnak. Érdemes késő délutánig maradni, hogy végignézzük az égbolt lenyűgöző színváltozásait.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.887917,
+                        -17.547797
+                  ]
+            },
+            {
+                  "name": "Église de la Sainte-Famille",
+                  "text": "Katolikus templom fehér toronnyal Haapiti településen, Mooreán.",
+                  "category": "religious",
+                  "coords": [
+                        -149.870099,
+                        -17.564412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Painapo Beach",
+                  "text": "Painapo Beach este așezată pașnic în Haapiti, surprinzând esența pură a coastei Polineziei Franceze. Se mândrește cu un mediu lejer, în care înotul și plaja se petrec într-un ritm tropical, negrăbit. Mersul desculț de-a lungul acestui refugiu de nisip este o modalitate rafinată de a vă conecta cu natura. Este recomandat să stați până târziu după-amiaza pentru a urmări cum cerul își schimbă culorile.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.887917,
+                        -17.547797
+                  ]
+            },
+            {
+                  "name": "Église de la Sainte-Famille",
+                  "text": "Biserică catolică cu turla albă în Haapiti, Moorea.",
+                  "category": "religious",
+                  "coords": [
+                        -149.870099,
+                        -17.564412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Painapo Beach",
+                  "text": "Painapo Beach sits peacefully in Haapiti, capturing the pure essence of French Polynesia's coastline. It boasts an easy-going environment where swimming and sunbathing happen at an unhurried, tropical pace. Walking barefoot along this sandy retreat is an exquisite way to connect with nature. It is recommended to stay until the late afternoon to watch the sky shift its colors.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.887917,
+                        -17.547797
+                  ]
+            },
+            {
+                  "name": "Église de la Sainte-Famille",
+                  "text": "Catholic church with a white steeple in Haapiti, Moorea.",
+                  "category": "religious",
+                  "coords": [
+                        -149.870099,
+                        -17.564412
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "village",
     name: { de: "Haapiti", hu: "Haapiti", ro: "Haapiti", en: "Haapiti" },
@@ -4260,7 +5241,88 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     image: "/poi-images/frenchpolynesia-haapiti-cities-v2.webp",
   },
   {
-    id: "frenchpolynesia-teavaro-cities-v2", "sights": {"de": [{"name": "Plage de Temae", "text": "To’atea oder Plage de Temae präsentiert in Teavaro ein wunderschönes Stückchen Küstenparadies. Die markante Landschaft schafft eine einladende Stimmung für ausgedehnte Schwimmrunden und zum Liegen unter dem weiten Himmel. Ein gemütlicher Spaziergang enthüllt hier die wahre, raue Schönheit der polynesischen Ufer. Eine Schnorchelmaske mitzunehmen, kann dem Erlebnis im Wasser eine zusätzliche, spaßige Dimension verleihen.", "category": "recreational", "coords": [-149.759868, -17.498193]}, {"name": "Belvédère de To'atea", "text": "Toatea Lookout ist ein Aussichtspunkt mit weitem Blick in Teavaro.", "category": "natural", "coords": [-149.764335, -17.498918]}], "hu": [{"name": "Plage de Temae", "text": "A To’atea vagy Plage de Temae a tengerparti mennyország egy gyönyörű szeletét mutatja be Teavaro területén. A lenyűgöző táj hívogató hangulatot teremt a hosszabb úszásokhoz és a hatalmas égbolt alatti heverészéshez. Egy lassú séta felfedi a polinéz partok igazi, nyers szépségét. Egy búvármaszk magunkkal hozatala gyakran szórakoztató elemmel bővíti a vízi élményeket.", "category": "recreational", "coords": [-149.759868, -17.498193]}, {"name": "Belvédère de To'atea", "text": "A Toatea Lookout egy kilátó Teavaro városában, amely nagyszerű panorámát nyújt.", "category": "natural", "coords": [-149.764335, -17.498918]}], "ro": [{"name": "Plage de Temae", "text": "To’atea sau Plage de Temae prezintă o felie frumoasă de paradis de coastă în Teavaro. Peisajul impresionant creează o dispoziție primitoare pentru a face înotări prelungite și a sta întins sub cerul imens. O plimbare lentă pe aici dezvăluie frumusețea adevărată, brută a țărmurilor polineziene. Aducerea unei măști de snorkeling poate adăuga uneori un element distractiv experienței acvatice.", "category": "recreational", "coords": [-149.759868, -17.498193]}, {"name": "Belvédère de To'atea", "text": "Toatea Lookout este un punct de belvedere care oferă priveliști frumoase în Teavaro.", "category": "natural", "coords": [-149.764335, -17.498918]}], "en": [{"name": "To’atea / Temae Beach", "text": "To’atea or Plage de Temae presents a beautiful slice of coastal heaven in Teavaro. The striking landscape sets an inviting mood for taking extended swims and lying out under the expansive skies. Enjoying a slow walk here reveals the true, raw beauty of the Polynesian shores. Bringing along a snorkel mask can sometimes add a fun element to the aquatic experience.", "category": "recreational", "coords": [-149.759868, -17.498193]}, {"name": "Toatea Lookout", "text": "Toatea Lookout is a viewpoint offering scenic vistas in Teavaro.", "category": "natural", "coords": [-149.764335, -17.498918]}]},
+    id: "frenchpolynesia-teavaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Temae",
+                  "text": "To’atea oder Plage de Temae präsentiert in Teavaro ein wunderschönes Stückchen Küstenparadies. Die markante Landschaft schafft eine einladende Stimmung für ausgedehnte Schwimmrunden und zum Liegen unter dem weiten Himmel. Ein gemütlicher Spaziergang enthüllt hier die wahre, raue Schönheit der polynesischen Ufer. Eine Schnorchelmaske mitzunehmen, kann dem Erlebnis im Wasser eine zusätzliche, spaßige Dimension verleihen.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.759868,
+                        -17.498193
+                  ]
+            },
+            {
+                  "name": "Belvédère de To'atea",
+                  "text": "Toatea Lookout, ein Klippenaussichtspunkt in Teavaro mit Blick auf die türkisfarbene Lagune und Motus.",
+                  "category": "natural",
+                  "coords": [
+                        -149.764335,
+                        -17.498918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Temae",
+                  "text": "A To’atea vagy Plage de Temae a tengerparti mennyország egy gyönyörű szeletét mutatja be Teavaro területén. A lenyűgöző táj hívogató hangulatot teremt a hosszabb úszásokhoz és a hatalmas égbolt alatti heverészéshez. Egy lassú séta felfedi a polinéz partok igazi, nyers szépségét. Egy búvármaszk magunkkal hozatala gyakran szórakoztató elemmel bővíti a vízi élményeket.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.759868,
+                        -17.498193
+                  ]
+            },
+            {
+                  "name": "Belvédère de To'atea",
+                  "text": "Toatea Lookout, egy sziklafok kilátó Teavaro-ban, a türkizkék lagúnára és a motukra nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -149.764335,
+                        -17.498918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Temae",
+                  "text": "To’atea sau Plage de Temae prezintă o felie frumoasă de paradis de coastă în Teavaro. Peisajul impresionant creează o dispoziție primitoare pentru a face înotări prelungite și a sta întins sub cerul imens. O plimbare lentă pe aici dezvăluie frumusețea adevărată, brută a țărmurilor polineziene. Aducerea unei măști de snorkeling poate adăuga uneori un element distractiv experienței acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.759868,
+                        -17.498193
+                  ]
+            },
+            {
+                  "name": "Belvédère de To'atea",
+                  "text": "Toatea Lookout, un punct de belvedere pe stâncă în Teavaro, cu vedere la laguna turcoaz și motu-uri.",
+                  "category": "natural",
+                  "coords": [
+                        -149.764335,
+                        -17.498918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "To’atea / Temae Beach",
+                  "text": "To’atea or Plage de Temae presents a beautiful slice of coastal heaven in Teavaro. The striking landscape sets an inviting mood for taking extended swims and lying out under the expansive skies. Enjoying a slow walk here reveals the true, raw beauty of the Polynesian shores. Bringing along a snorkel mask can sometimes add a fun element to the aquatic experience.",
+                  "category": "recreational",
+                  "coords": [
+                        -149.759868,
+                        -17.498193
+                  ]
+            },
+            {
+                  "name": "Toatea Lookout",
+                  "text": "Toatea Lookout, a clifftop viewpoint in Teavaro overlooking the turquoise lagoon and motus.",
+                  "category": "natural",
+                  "coords": [
+                        -149.764335,
+                        -17.498918
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "village",
     name: { de: "Teavaro", hu: "Teavaro", ro: "Teavaro", en: "Teavaro" },
@@ -4714,7 +5776,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Marae Anini",
-                  "text": "Marae Anini ist eine archäologische Stätte in Parea.",
+                  "text": "Marae Anini, eine restaurierte antike Tempelplattform (Marae) in Parea an der Küste von Huahine.",
                   "category": "historical",
                   "coords": [
                         -150.981055,
@@ -4723,7 +5785,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon ist ein Aussichtspunkt in Parea.",
+                  "text": "Belle vue sur le lagon, ein Aussichtspunkt an der Straße oberhalb von Parea mit ungehindertem Lagunenblick.",
                   "category": "natural",
                   "coords": [
                         -150.960178,
@@ -4732,7 +5794,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Maison du Paréo",
-                  "text": "La Maison du Paréo ist eine Attraktion in Parea.",
+                  "text": "La Maison du Paréo, eine Boutique in Parea, die handbemalte Pareos und tahitianische Kleidung verkauft.",
                   "category": "landmark",
                   "coords": [
                         -150.983034,
@@ -4743,7 +5805,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Marae Anini",
-                  "text": "A Marae Anini egy régészeti lelőhely Parea városában.",
+                  "text": "Marae Anini, egy helyreállított ősi templomplatform (marae) Parea-ban, Huahine partján.",
                   "category": "historical",
                   "coords": [
                         -150.981055,
@@ -4752,7 +5814,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belle vue sur le lagon",
-                  "text": "A Belle vue sur le lagon egy kilátó Parea városában.",
+                  "text": "Belle vue sur le lagon, egy kilátó a Parea feletti úton, zavartalan lagúnakilátással.",
                   "category": "natural",
                   "coords": [
                         -150.960178,
@@ -4761,7 +5823,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Maison du Paréo",
-                  "text": "A La Maison du Paréo egy látványosság Parea városában.",
+                  "text": "La Maison du Paréo, egy butik Parea-ban, amely kézzel festett pareók és tahiti ruhák árusítására specializálódott.",
                   "category": "landmark",
                   "coords": [
                         -150.983034,
@@ -4772,7 +5834,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Marae Anini",
-                  "text": "Marae Anini este un sit arheologic în Parea.",
+                  "text": "Marae Anini, o platformă templieră antică restaurată (marae) în Parea, pe coasta Huahine.",
                   "category": "historical",
                   "coords": [
                         -150.981055,
@@ -4781,7 +5843,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon este un punct de belvedere în Parea.",
+                  "text": "Belle vue sur le lagon, un punct de belvedere pe drumul deasupra Parea, cu vedere neîntreruptă la lagună.",
                   "category": "natural",
                   "coords": [
                         -150.960178,
@@ -4790,7 +5852,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Maison du Paréo",
-                  "text": "La Maison du Paréo este o atracție turistică din Parea.",
+                  "text": "La Maison du Paréo, o boutique în Parea specializată în pareo pictate manual și îmbrăcăminte tahitiană.",
                   "category": "landmark",
                   "coords": [
                         -150.983034,
@@ -4801,7 +5863,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Marae Anini",
-                  "text": "Marae Anini is an archaeological site in Parea.",
+                  "text": "Marae Anini, a restored ancient temple platform (marae) in Parea on Huahine's coast.",
                   "category": "historical",
                   "coords": [
                         -150.981055,
@@ -4810,7 +5872,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon is a viewpoint in Parea.",
+                  "text": "Belle vue sur le lagon, a scenic overlook on the road above Parea with uninterrupted lagoon views.",
                   "category": "natural",
                   "coords": [
                         -150.960178,
@@ -4819,7 +5881,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "La Maison du Paréo",
-                  "text": "La Maison du Paréo is an attraction in Parea.",
+                  "text": "La Maison du Paréo, a boutique in Parea specializing in hand-painted pareos and Tahitian clothing.",
                   "category": "landmark",
                   "coords": [
                         -150.983034,
@@ -4872,7 +5934,304 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     image: "/poi-images/frenchpolynesia-parea-cities-v2.webp",
   },
   {
-    id: "frenchpolynesia-fitii-cities-v2", "sights": {"de": [{"name": "La Pierre Utapo", "text": "La Pierre Utapo ist eine archäologische Stätte in Fitii.", "category": "historical", "coords": [-151.023733, -16.745519]}, {"name": "Marae Fare-3", "text": "Marae Fare-3 ist eine traditionelle archäologische Stätte in Fitii.", "category": "historical", "coords": [-151.034993, -16.712528]}, {"name": "Plage de l'Hotel", "text": "Verankert in der lokalen Gemeinde Fitii, bietet dieser spezielle Plage de l'Hotel einen ruhigen Rückzugsort am Ozean. Er besticht durch ein wahrhaft entspanntes Ambiente, das perfekt zu lässigem Sonnenbaden und sicherem Schwimmen passt. Das Erkunden der Uferlinie zu Fuß vermittelt den Besuchern einen Eindruck von authentischer Inseltranquillität. Ein Besuch unter der Woche ist oft die beste Strategie, um die volle, ungestörte Ruhe zu genießen.", "category": "recreational", "coords": [-151.03891, -16.710694]}, {"name": "Bellevue 50m", "text": "Bellevue 50m ist ein Aussichtspunkt in Fitii.", "category": "natural", "coords": [-151.021889, -16.75067]}, {"name": "Super U", "text": "Super U ist eine lokale Sehenswürdigkeit und ein kommerzieller Ort in Fitii.", "category": "landmark", "coords": [-151.033847, -16.71403]}, {"name": "anguilles sacrées aux yeux bleus", "text": "Die heiligen blauäugigen Aale sind eine einzigartige Naturattraktion in Fitii.", "category": "landmark", "coords": [-150.994698, -16.731475]}, {"name": "Belvédère de Maroe", "text": "Belvédère de Maroe ist ein malerischer Aussichtspunkt in Fitii.", "category": "natural", "coords": [-151.003207, -16.739861]}, {"name": "Anguilles sacrées", "text": "Die heiligen Aale sind eine beliebte lokale Attraktion in Fitii.", "category": "landmark", "coords": [-150.995878, -16.731228]}], "hu": [{"name": "La Pierre Utapo", "text": "La Pierre Utapo egy régészeti lelőhely Fitii városában.", "category": "historical", "coords": [-151.023733, -16.745519]}, {"name": "Marae Fare-3", "text": "A Marae Fare-3 egy hagyományos régészeti lelőhely Fitii városában.", "category": "historical", "coords": [-151.034993, -16.712528]}, {"name": "Plage de l'Hotel", "text": "A Fitii helyi közösségében gyökerező, konkrét Plage de l'Hotel egy csendes menedéket kínál az óceán mellett. Őszintén nyugodt légkör jellemzi, amely tökéletesen illik a laza napozáshoz és a biztonságos úszáshoz. A partvonal gyalogos felfedezése megismerteti a látogatókat az autentikus szigeti nyugalommal. A hét közbeni látogatás gyakran a legjobb stratégia a teljes, zavartalan csend kiélvezésére.", "category": "recreational", "coords": [-151.03891, -16.710694]}, {"name": "Bellevue 50m", "text": "A Bellevue 50m egy kilátópont Fitii városában.", "category": "natural", "coords": [-151.021889, -16.75067]}, {"name": "Super U", "text": "A Super U egy helyi nevezetesség és kereskedelmi hely Fitii városában.", "category": "landmark", "coords": [-151.033847, -16.71403]}, {"name": "anguilles sacrées aux yeux bleus", "text": "A szent kék szemű angolnák egyedülálló természeti látványosságot jelentenek Fitii városában.", "category": "landmark", "coords": [-150.994698, -16.731475]}, {"name": "Belvédère de Maroe", "text": "A Belvédère de Maroe egy festői kilátó Fitii városában.", "category": "natural", "coords": [-151.003207, -16.739861]}, {"name": "Anguilles sacrées", "text": "A szent angolnák népszerű helyi látványosságok Fitii városában.", "category": "landmark", "coords": [-150.995878, -16.731228]}], "ro": [{"name": "La Pierre Utapo", "text": "La Pierre Utapo este un sit arheologic situat în Fitii.", "category": "historical", "coords": [-151.023733, -16.745519]}, {"name": "Marae Fare-3", "text": "Marae Fare-3 este un sit arheologic tradițional din Fitii.", "category": "historical", "coords": [-151.034993, -16.712528]}, {"name": "Plage de l'Hotel", "text": "Înrădăcinată în comunitatea locală din Fitii, această Plage de l'Hotel specifică oferă o retragere liniștită lângă ocean. Prezintă o ambianță cu adevărat calmă, perfect potrivită pentru lenevitul la soare și înotul în siguranță. Explorarea țărmului pe jos oferă vizitatorilor un gust al autenticei liniști insulare. Vizitarea la mijlocul săptămânii este adesea cea mai bună strategie pentru a vă bucura de liniștea sa completă, neîntreruptă.", "category": "recreational", "coords": [-151.03891, -16.710694]}, {"name": "Bellevue 50m", "text": "Bellevue 50m este un punct de belvedere în Fitii.", "category": "natural", "coords": [-151.021889, -16.75067]}, {"name": "Super U", "text": "Super U este o atracție locală și un punct comercial din Fitii.", "category": "landmark", "coords": [-151.033847, -16.71403]}, {"name": "anguilles sacrées aux yeux bleus", "text": "Anghilele sacre cu ochi albaștri reprezintă o atracție naturală unică în Fitii.", "category": "landmark", "coords": [-150.994698, -16.731475]}, {"name": "Belvédère de Maroe", "text": "Belvédère de Maroe este un punct de belvedere pitoresc din Fitii.", "category": "natural", "coords": [-151.003207, -16.739861]}, {"name": "Anguilles sacrées", "text": "Anghilele sacre sunt o atracție locală populară în Fitii.", "category": "landmark", "coords": [-150.995878, -16.731228]}], "en": [{"name": "La Pierre Utapo", "text": "La Pierre Utapo is an archaeological site found in Fitii.", "category": "historical", "coords": [-151.023733, -16.745519]}, {"name": "Marae Fare-3", "text": "Marae Fare-3 is a traditional archaeological site in Fitii.", "category": "historical", "coords": [-151.034993, -16.712528]}, {"name": "Plage de l'Hotel", "text": "Rooted in the local community of Fitii, this specific Plage de l'Hotel offers a quiet retreat by the ocean. It features a genuinely calm ambiance perfectly matched for casual sun-lounging and safe swimming. Exploring the shoreline on foot gives visitors a taste of authentic island tranquility. Visiting mid-week is often the best strategy to enjoy its full, uninterrupted quietude.", "category": "recreational", "coords": [-151.03891, -16.710694]}, {"name": "Bellevue 50m", "text": "Bellevue 50m is a viewpoint situated in Fitii.", "category": "natural", "coords": [-151.021889, -16.75067]}, {"name": "Super U", "text": "Super U is a local attraction and commercial spot in Fitii.", "category": "landmark", "coords": [-151.033847, -16.71403]}, {"name": "anguilles sacrées aux yeux bleus", "text": "The sacred blue-eyed eels are a unique natural attraction in Fitii.", "category": "landmark", "coords": [-150.994698, -16.731475]}, {"name": "Belvédère de Maroe", "text": "Belvédère de Maroe is a scenic viewpoint overlooking the landscape in Fitii.", "category": "natural", "coords": [-151.003207, -16.739861]}, {"name": "Anguilles sacrées", "text": "The sacred eels are a popular local attraction in Fitii.", "category": "landmark", "coords": [-150.995878, -16.731228]}]},
+    id: "frenchpolynesia-fitii-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Pierre Utapo",
+                  "text": "La Pierre Utapo, ein gemeißelter Vulkangestein, der eine alte Zeremonienstätte in Fitii markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -151.023733,
+                        -16.745519
+                  ]
+            },
+            {
+                  "name": "Marae Fare-3",
+                  "text": "Marae Fare-3 ist eine traditionelle archäologische Stätte in Fitii.",
+                  "category": "historical",
+                  "coords": [
+                        -151.034993,
+                        -16.712528
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hotel",
+                  "text": "Verankert in der lokalen Gemeinde Fitii, bietet dieser spezielle Plage de l'Hotel einen ruhigen Rückzugsort am Ozean. Er besticht durch ein wahrhaft entspanntes Ambiente, das perfekt zu lässigem Sonnenbaden und sicherem Schwimmen passt. Das Erkunden der Uferlinie zu Fuß vermittelt den Besuchern einen Eindruck von authentischer Inseltranquillität. Ein Besuch unter der Woche ist oft die beste Strategie, um die volle, ungestörte Ruhe zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.03891,
+                        -16.710694
+                  ]
+            },
+            {
+                  "name": "Bellevue 50m",
+                  "text": "Bellevue 50m, ein niedriger Hügelaussichtspunkt in Fitii mit kurzem Weg zu Seen- und Bergpanoramen.",
+                  "category": "natural",
+                  "coords": [
+                        -151.021889,
+                        -16.75067
+                  ]
+            },
+            {
+                  "name": "Super U",
+                  "text": "Super U Fitii, der wichtigste Supermarkt des Dorfes mit lokalen Produkten und Snacks.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.033847,
+                        -16.71403
+                  ]
+            },
+            {
+                  "name": "anguilles sacrées aux yeux bleus",
+                  "text": "Die heiligen blauäugigen Aale sind eine einzigartige Naturattraktion in Fitii.",
+                  "category": "landmark",
+                  "coords": [
+                        -150.994698,
+                        -16.731475
+                  ]
+            },
+            {
+                  "name": "Belvédère de Maroe",
+                  "text": "Belvédère de Maroe, ein Aussichtspunkt an der Maroe-Bucht auf Huahine mit Blick auf die Lagune und Korallenriffe.",
+                  "category": "natural",
+                  "coords": [
+                        -151.003207,
+                        -16.739861
+                  ]
+            },
+            {
+                  "name": "Anguilles sacrées",
+                  "text": "Die heiligen Aale sind eine beliebte lokale Attraktion in Fitii.",
+                  "category": "landmark",
+                  "coords": [
+                        -150.995878,
+                        -16.731228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Pierre Utapo",
+                  "text": "La Pierre Utapo, egy faragott vulkáni kő, amely egy ősi szertartási helyet jelöl Fitii-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -151.023733,
+                        -16.745519
+                  ]
+            },
+            {
+                  "name": "Marae Fare-3",
+                  "text": "A Marae Fare-3 egy hagyományos régészeti lelőhely Fitii városában.",
+                  "category": "historical",
+                  "coords": [
+                        -151.034993,
+                        -16.712528
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hotel",
+                  "text": "A Fitii helyi közösségében gyökerező, konkrét Plage de l'Hotel egy csendes menedéket kínál az óceán mellett. Őszintén nyugodt légkör jellemzi, amely tökéletesen illik a laza napozáshoz és a biztonságos úszáshoz. A partvonal gyalogos felfedezése megismerteti a látogatókat az autentikus szigeti nyugalommal. A hét közbeni látogatás gyakran a legjobb stratégia a teljes, zavartalan csend kiélvezésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.03891,
+                        -16.710694
+                  ]
+            },
+            {
+                  "name": "Bellevue 50m",
+                  "text": "Bellevue 50m, egy alacsony dombtetői kilátó Fitii-ben, rövid ösvénnyel a lagúna és hegyek kilátásához.",
+                  "category": "natural",
+                  "coords": [
+                        -151.021889,
+                        -16.75067
+                  ]
+            },
+            {
+                  "name": "Super U",
+                  "text": "Super U Fitii, a falu fő élelmiszerboltja, amely helyi termékeket és harapnivalókat árul.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.033847,
+                        -16.71403
+                  ]
+            },
+            {
+                  "name": "anguilles sacrées aux yeux bleus",
+                  "text": "A szent kék szemű angolnák egyedülálló természeti látványosságot jelentenek Fitii városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -150.994698,
+                        -16.731475
+                  ]
+            },
+            {
+                  "name": "Belvédère de Maroe",
+                  "text": "Belvédère de Maroe, egy kilátó a Maroe-öbölnél Huahine szigetén, a lagúna és korallzátonyok látképével.",
+                  "category": "natural",
+                  "coords": [
+                        -151.003207,
+                        -16.739861
+                  ]
+            },
+            {
+                  "name": "Anguilles sacrées",
+                  "text": "A szent angolnák népszerű helyi látványosságok Fitii városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -150.995878,
+                        -16.731228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Pierre Utapo",
+                  "text": "La Pierre Utapo, o piatră vulcanică sculptată care marchează un vechi sit ceremonial în Fitii.",
+                  "category": "historical",
+                  "coords": [
+                        -151.023733,
+                        -16.745519
+                  ]
+            },
+            {
+                  "name": "Marae Fare-3",
+                  "text": "Marae Fare-3 este un sit arheologic tradițional din Fitii.",
+                  "category": "historical",
+                  "coords": [
+                        -151.034993,
+                        -16.712528
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hotel",
+                  "text": "Înrădăcinată în comunitatea locală din Fitii, această Plage de l'Hotel specifică oferă o retragere liniștită lângă ocean. Prezintă o ambianță cu adevărat calmă, perfect potrivită pentru lenevitul la soare și înotul în siguranță. Explorarea țărmului pe jos oferă vizitatorilor un gust al autenticei liniști insulare. Vizitarea la mijlocul săptămânii este adesea cea mai bună strategie pentru a vă bucura de liniștea sa completă, neîntreruptă.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.03891,
+                        -16.710694
+                  ]
+            },
+            {
+                  "name": "Bellevue 50m",
+                  "text": "Bellevue 50m, un punct de belvedere pe un deal jos în Fitii, cu o potecă scurtă către vederi ale lagunei și munților.",
+                  "category": "natural",
+                  "coords": [
+                        -151.021889,
+                        -16.75067
+                  ]
+            },
+            {
+                  "name": "Super U",
+                  "text": "Super U Fitii, principalul supermarket din sat, care vinde produse locale și gustări.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.033847,
+                        -16.71403
+                  ]
+            },
+            {
+                  "name": "anguilles sacrées aux yeux bleus",
+                  "text": "Anghilele sacre cu ochi albaștri reprezintă o atracție naturală unică în Fitii.",
+                  "category": "landmark",
+                  "coords": [
+                        -150.994698,
+                        -16.731475
+                  ]
+            },
+            {
+                  "name": "Belvédère de Maroe",
+                  "text": "Belvédère de Maroe, un punct de belvedere pe golful Maroe din Huahine, cu vedere la lagună și recife de corali.",
+                  "category": "natural",
+                  "coords": [
+                        -151.003207,
+                        -16.739861
+                  ]
+            },
+            {
+                  "name": "Anguilles sacrées",
+                  "text": "Anghilele sacre sunt o atracție locală populară în Fitii.",
+                  "category": "landmark",
+                  "coords": [
+                        -150.995878,
+                        -16.731228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Pierre Utapo",
+                  "text": "La Pierre Utapo, a carved volcanic stone marking an ancient ceremonial site in Fitii.",
+                  "category": "historical",
+                  "coords": [
+                        -151.023733,
+                        -16.745519
+                  ]
+            },
+            {
+                  "name": "Marae Fare-3",
+                  "text": "Marae Fare-3 is a traditional archaeological site in Fitii.",
+                  "category": "historical",
+                  "coords": [
+                        -151.034993,
+                        -16.712528
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hotel",
+                  "text": "Rooted in the local community of Fitii, this specific Plage de l'Hotel offers a quiet retreat by the ocean. It features a genuinely calm ambiance perfectly matched for casual sun-lounging and safe swimming. Exploring the shoreline on foot gives visitors a taste of authentic island tranquility. Visiting mid-week is often the best strategy to enjoy its full, uninterrupted quietude.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.03891,
+                        -16.710694
+                  ]
+            },
+            {
+                  "name": "Bellevue 50m",
+                  "text": "Bellevue 50m, a low hilltop lookout in Fitii with a short path to views of the lagoon and mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -151.021889,
+                        -16.75067
+                  ]
+            },
+            {
+                  "name": "Super U",
+                  "text": "Super U Fitii, the main grocery store in the village, selling local produce and snacks.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.033847,
+                        -16.71403
+                  ]
+            },
+            {
+                  "name": "anguilles sacrées aux yeux bleus",
+                  "text": "The sacred blue-eyed eels are a unique natural attraction in Fitii.",
+                  "category": "landmark",
+                  "coords": [
+                        -150.994698,
+                        -16.731475
+                  ]
+            },
+            {
+                  "name": "Belvédère de Maroe",
+                  "text": "Belvédère de Maroe, a lookout on Huahine's Maroe Bay offering vistas of the lagoon and coral reefs.",
+                  "category": "natural",
+                  "coords": [
+                        -151.003207,
+                        -16.739861
+                  ]
+            },
+            {
+                  "name": "Anguilles sacrées",
+                  "text": "The sacred eels are a popular local attraction in Fitii.",
+                  "category": "landmark",
+                  "coords": [
+                        -150.995878,
+                        -16.731228
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "village",
     name: { de: "Fitii", hu: "Fitii", ro: "Fitii", en: "Fitii" },
@@ -4962,7 +6321,304 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     image: "/poi-images/frenchpolynesia-faanui-cities-v2.webp",
   },
   {
-    id: "frenchpolynesia-anau-cities-v2", "sights": {"de": [{"name": "Marae Aehau Tai", "text": "Marae Aehau Tai ist eine archäologische Stätte in Anau.", "category": "historical", "coords": [-151.721448, -16.489958]}, {"name": "Marae Nonohaura", "text": "Marae Nonohaura ist eine archäologische Stätte in Anau.", "category": "historical", "coords": [-151.729278, -16.493582]}, {"name": "Main Beach", "text": "Der Main Beach in Anau fungiert als zentraler Treffpunkt für Küstenentspannung in Französisch-Polynesien. Seine einladenden Ufer ziehen die Menschen für fröhliche Schwimmeinlagen und gemütliches Entspannen im Sand an. Ein Spaziergang entlang dieses Strandes bietet weitreichende Ausblicke auf die majestätische ozeanische Umgebung. Vergessen Sie nicht Ihre Sonnenbrille und einen guten Hut, um sich vor der intensiven Inselsonne zu schützen.", "category": "recreational", "coords": [-151.69796, -16.48602]}, {"name": "Lagoonarium", "text": "Lagoonarium ist ein lokales Aquarium in Anau.", "category": "family", "coords": [-151.694934, -16.486002]}, {"name": "Mont Otemanu", "text": "Mont Otemanu ist ein markanter Berggipfel in Anau.", "category": "natural", "coords": [-151.733269, -16.501612]}, {"name": "Mataihua", "text": "Mataihua ist ein Berggipfel in Anau.", "category": "natural", "coords": [-151.731259, -16.487016]}, {"name": "Lagoon Service Bora Bora", "text": "Lagoon Service Bora Bora ist eine Touristenattraktion in Anau.", "category": "landmark", "coords": [-151.714396, -16.49006]}, {"name": "Historic Area", "text": "Historic Area ist eine historische Attraktion in Anau.", "category": "landmark", "coords": [-151.715364, -16.490482]}], "hu": [{"name": "Marae Aehau Tai", "text": "A Marae Aehau Tai egy régészeti lelőhely Anau városában.", "category": "historical", "coords": [-151.721448, -16.489958]}, {"name": "Marae Nonohaura", "text": "A Marae Nonohaura egy régészeti lelőhely Anau területén.", "category": "historical", "coords": [-151.729278, -16.493582]}, {"name": "Main Beach", "text": "Az Anau-i Main Beach központi csomópontként funkcionál a part menti kikapcsolódáshoz Francia Polinéziában. Hívogató partjai vidám úszásokra és kényelmes, homokon történő pihenésre vonzzák az embereket. Az ezen a strandon tett séták kiterjedt kilátást nyújtanak a fenséges óceáni környezetre. Ne felejtse el a napszemüvegét és egy jó kalapot a heves szigeti napsütés elleni védelemhez.", "category": "recreational", "coords": [-151.69796, -16.48602]}, {"name": "Lagoonarium", "text": "A Lagoonarium egy akvárium Anau területén.", "category": "family", "coords": [-151.694934, -16.486002]}, {"name": "Mont Otemanu", "text": "A Mont Otemanu egy híres hegycsúcs Anau területén.", "category": "natural", "coords": [-151.733269, -16.501612]}, {"name": "Mataihua", "text": "A Mataihua egy hegycsúcs Anau városában.", "category": "natural", "coords": [-151.731259, -16.487016]}, {"name": "Lagoon Service Bora Bora", "text": "A Lagoon Service Bora Bora egy turisztikai látványosság Anau területén.", "category": "landmark", "coords": [-151.714396, -16.49006]}, {"name": "Historic Area", "text": "A Historic Area egy történelmi látványosság Anau területén.", "category": "landmark", "coords": [-151.715364, -16.490482]}], "ro": [{"name": "Marae Aehau Tai", "text": "Marae Aehau Tai este un sit arheologic din Anau.", "category": "historical", "coords": [-151.721448, -16.489958]}, {"name": "Marae Nonohaura", "text": "Marae Nonohaura este un sit arheologic în Anau.", "category": "historical", "coords": [-151.729278, -16.493582]}, {"name": "Main Beach", "text": "Main Beach din Anau acționează ca un punct central pentru relaxarea pe coastă în Polinezia Franceză. Țărmurile sale primitoare atrag oamenii pentru reprize de înot vesele și sesiuni confortabile de lenevit pe nisip. Mersul de-a lungul acestei plaje oferă priveliști ample ale majestuosului mediu oceanic din jur. Nu uitați ochelarii de soare și o pălărie bună pentru a vă proteja împotriva soarelui intens al insulei.", "category": "recreational", "coords": [-151.69796, -16.48602]}, {"name": "Lagoonarium", "text": "Lagoonarium este un acvariu din Anau.", "category": "family", "coords": [-151.694934, -16.486002]}, {"name": "Mont Otemanu", "text": "Mont Otemanu este un vârf de munte proeminent din Anau.", "category": "natural", "coords": [-151.733269, -16.501612]}, {"name": "Mataihua", "text": "Mataihua este un vârf de munte în Anau.", "category": "natural", "coords": [-151.731259, -16.487016]}, {"name": "Lagoon Service Bora Bora", "text": "Lagoon Service Bora Bora este o atracție turistică din Anau.", "category": "landmark", "coords": [-151.714396, -16.49006]}, {"name": "Historic Area", "text": "Historic Area este o atracție turistică în Anau.", "category": "landmark", "coords": [-151.715364, -16.490482]}], "en": [{"name": "Marae Aehau Tai", "text": "Marae Aehau Tai is an archaeological site in Anau.", "category": "historical", "coords": [-151.721448, -16.489958]}, {"name": "Marae Nonohaura", "text": "Marae Nonohaura is an archaeological site in Anau.", "category": "historical", "coords": [-151.729278, -16.493582]}, {"name": "Main Beach", "text": "The Main Beach in Anau acts as a central hub for coastal relaxation within French Polynesia. Its welcoming shores draw people in for cheerful swims and comfortable lounging sessions upon the sand. Walking along this beach offers sweeping vistas of the majestic surrounding ocean environment. Don't forget your sunglasses and a good hat to shield against the intense island sun.", "category": "recreational", "coords": [-151.69796, -16.48602]}, {"name": "Lagoonarium", "text": "Lagoonarium is an aquarium located in Anau.", "category": "family", "coords": [-151.694934, -16.486002]}, {"name": "Mont Otemanu", "text": "Mont Otemanu is a prominent mountain peak in Anau.", "category": "natural", "coords": [-151.733269, -16.501612]}, {"name": "Mataihua", "text": "Mataihua is a mountain peak in Anau.", "category": "natural", "coords": [-151.731259, -16.487016]}, {"name": "Lagoon Service Bora Bora", "text": "Lagoon Service Bora Bora is an attraction in Anau.", "category": "landmark", "coords": [-151.714396, -16.49006]}, {"name": "Historic Area", "text": "Historic Area is a tourist attraction in Anau.", "category": "landmark", "coords": [-151.715364, -16.490482]}]},
+    id: "frenchpolynesia-anau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marae Aehau Tai",
+                  "text": "Marae Aehau Tai, eine alte Marae (heilige Plattform) am Meeresufer in Anau auf Bora Bora.",
+                  "category": "historical",
+                  "coords": [
+                        -151.721448,
+                        -16.489958
+                  ]
+            },
+            {
+                  "name": "Marae Nonohaura",
+                  "text": "Marae Nonohaura, eine Stein-Marae versteckt in den Kokoshainen von Anau, Bora Bora.",
+                  "category": "historical",
+                  "coords": [
+                        -151.729278,
+                        -16.493582
+                  ]
+            },
+            {
+                  "name": "Main Beach",
+                  "text": "Der Main Beach in Anau fungiert als zentraler Treffpunkt für Küstenentspannung in Französisch-Polynesien. Seine einladenden Ufer ziehen die Menschen für fröhliche Schwimmeinlagen und gemütliches Entspannen im Sand an. Ein Spaziergang entlang dieses Strandes bietet weitreichende Ausblicke auf die majestätische ozeanische Umgebung. Vergessen Sie nicht Ihre Sonnenbrille und einen guten Hut, um sich vor der intensiven Inselsonne zu schützen.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.69796,
+                        -16.48602
+                  ]
+            },
+            {
+                  "name": "Lagoonarium",
+                  "text": "Lagoonarium, ein natürliches Aquarium in Anau, in dem Besucher in einer geschützten Lagune mit tropischen Fischen und Rochen schnorcheln.",
+                  "category": "family",
+                  "coords": [
+                        -151.694934,
+                        -16.486002
+                  ]
+            },
+            {
+                  "name": "Mont Otemanu",
+                  "text": "Mont Otemanu, der höchste Gipfel Bora Boras, ein erloschener Vulkan.",
+                  "category": "natural",
+                  "coords": [
+                        -151.733269,
+                        -16.501612
+                  ]
+            },
+            {
+                  "name": "Mataihua",
+                  "text": "Mataihua-Gipfel, vom Dorf Anau aus sichtbar.",
+                  "category": "natural",
+                  "coords": [
+                        -151.731259,
+                        -16.487016
+                  ]
+            },
+            {
+                  "name": "Lagoon Service Bora Bora",
+                  "text": "Lagoon Service Bora Bora, ein Ausflugsanbieter in Anau, der Lagunenrundfahrten und Schnorcheltouren anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.714396,
+                        -16.49006
+                  ]
+            },
+            {
+                  "name": "Historic Area",
+                  "text": "Historic Area, eine Ansammlung alter Marae-Stätten und Steinbauten im Küstenbezirk von Anau.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.715364,
+                        -16.490482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marae Aehau Tai",
+                  "text": "Marae Aehau Tai, egy ősi marae (szent platform) a tengerparton Anau-ban, Bora Bora szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        -151.721448,
+                        -16.489958
+                  ]
+            },
+            {
+                  "name": "Marae Nonohaura",
+                  "text": "Marae Nonohaura, egy kő marae a kókuszligetekben rejtőzve Anau-ban, Bora Bora szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        -151.729278,
+                        -16.493582
+                  ]
+            },
+            {
+                  "name": "Main Beach",
+                  "text": "Az Anau-i Main Beach központi csomópontként funkcionál a part menti kikapcsolódáshoz Francia Polinéziában. Hívogató partjai vidám úszásokra és kényelmes, homokon történő pihenésre vonzzák az embereket. Az ezen a strandon tett séták kiterjedt kilátást nyújtanak a fenséges óceáni környezetre. Ne felejtse el a napszemüvegét és egy jó kalapot a heves szigeti napsütés elleni védelemhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.69796,
+                        -16.48602
+                  ]
+            },
+            {
+                  "name": "Lagoonarium",
+                  "text": "Lagoonarium, egy természetes akvárium Anau-ban, ahol a látogatók egy védett lagúnában sznorkelezhetnek trópusi halakkal és rájákkal.",
+                  "category": "family",
+                  "coords": [
+                        -151.694934,
+                        -16.486002
+                  ]
+            },
+            {
+                  "name": "Mont Otemanu",
+                  "text": "Mont Otemanu, Bora Bora legmagasabb csúcsa, egy kialudt vulkán.",
+                  "category": "natural",
+                  "coords": [
+                        -151.733269,
+                        -16.501612
+                  ]
+            },
+            {
+                  "name": "Mataihua",
+                  "text": "A Mataihua-csúcs, ahogy Anau falujából látszik.",
+                  "category": "natural",
+                  "coords": [
+                        -151.731259,
+                        -16.487016
+                  ]
+            },
+            {
+                  "name": "Lagoon Service Bora Bora",
+                  "text": "Lagoon Service Bora Bora, egy kirándulásszervező Anau-ban, amely lagúna túrákat és snorkelező kirándulásokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.714396,
+                        -16.49006
+                  ]
+            },
+            {
+                  "name": "Historic Area",
+                  "text": "Historic Area, régi marae-ok és kőszerkezetek csoportja Anau tengerparti kerületében.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.715364,
+                        -16.490482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marae Aehau Tai",
+                  "text": "Marae Aehau Tai, un marae antic (platformă sacră) pe malul mării în Anau, pe Bora Bora.",
+                  "category": "historical",
+                  "coords": [
+                        -151.721448,
+                        -16.489958
+                  ]
+            },
+            {
+                  "name": "Marae Nonohaura",
+                  "text": "Marae Nonohaura, un marae de piatră ascuns în crângurile de nucă de cocos din Anau, Bora Bora.",
+                  "category": "historical",
+                  "coords": [
+                        -151.729278,
+                        -16.493582
+                  ]
+            },
+            {
+                  "name": "Main Beach",
+                  "text": "Main Beach din Anau acționează ca un punct central pentru relaxarea pe coastă în Polinezia Franceză. Țărmurile sale primitoare atrag oamenii pentru reprize de înot vesele și sesiuni confortabile de lenevit pe nisip. Mersul de-a lungul acestei plaje oferă priveliști ample ale majestuosului mediu oceanic din jur. Nu uitați ochelarii de soare și o pălărie bună pentru a vă proteja împotriva soarelui intens al insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.69796,
+                        -16.48602
+                  ]
+            },
+            {
+                  "name": "Lagoonarium",
+                  "text": "Lagoonarium, un acvariu natural în Anau, unde vizitatorii fac snorkeling într-o zonă lagunară protejată cu pești tropicali și raze.",
+                  "category": "family",
+                  "coords": [
+                        -151.694934,
+                        -16.486002
+                  ]
+            },
+            {
+                  "name": "Mont Otemanu",
+                  "text": "Mont Otemanu, cel mai înalt vârf din Bora Bora, un vulcan stins.",
+                  "category": "natural",
+                  "coords": [
+                        -151.733269,
+                        -16.501612
+                  ]
+            },
+            {
+                  "name": "Mataihua",
+                  "text": "Vârful Mataihua, văzut din satul Anau.",
+                  "category": "natural",
+                  "coords": [
+                        -151.731259,
+                        -16.487016
+                  ]
+            },
+            {
+                  "name": "Lagoon Service Bora Bora",
+                  "text": "Lagoon Service Bora Bora, un operator de excursii în Anau, care oferă tururi ale lagunei și excursii de snorkeling.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.714396,
+                        -16.49006
+                  ]
+            },
+            {
+                  "name": "Historic Area",
+                  "text": "Historic Area, un grup de situri antice marae și structuri de piatră în districtul de coastă al orașului Anau.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.715364,
+                        -16.490482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marae Aehau Tai",
+                  "text": "Marae Aehau Tai, an ancient marae (sacred platform) on the seafront in Anau on Bora Bora.",
+                  "category": "historical",
+                  "coords": [
+                        -151.721448,
+                        -16.489958
+                  ]
+            },
+            {
+                  "name": "Marae Nonohaura",
+                  "text": "Marae Nonohaura, a stone marae hidden in the coconut groves of Anau, Bora Bora.",
+                  "category": "historical",
+                  "coords": [
+                        -151.729278,
+                        -16.493582
+                  ]
+            },
+            {
+                  "name": "Main Beach",
+                  "text": "The Main Beach in Anau acts as a central hub for coastal relaxation within French Polynesia. Its welcoming shores draw people in for cheerful swims and comfortable lounging sessions upon the sand. Walking along this beach offers sweeping vistas of the majestic surrounding ocean environment. Don't forget your sunglasses and a good hat to shield against the intense island sun.",
+                  "category": "recreational",
+                  "coords": [
+                        -151.69796,
+                        -16.48602
+                  ]
+            },
+            {
+                  "name": "Lagoonarium",
+                  "text": "Lagoonarium, a natural aquarium in Anau where visitors snorkel in a protected lagoon zone with tropical fish and rays.",
+                  "category": "family",
+                  "coords": [
+                        -151.694934,
+                        -16.486002
+                  ]
+            },
+            {
+                  "name": "Mont Otemanu",
+                  "text": "Mont Otemanu, the highest peak on Bora Bora, an extinct volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -151.733269,
+                        -16.501612
+                  ]
+            },
+            {
+                  "name": "Mataihua",
+                  "text": "Mataihua peak as seen from Anau village.",
+                  "category": "natural",
+                  "coords": [
+                        -151.731259,
+                        -16.487016
+                  ]
+            },
+            {
+                  "name": "Lagoon Service Bora Bora",
+                  "text": "Lagoon Service Bora Bora, an excursion operator in Anau offering lagoon tours and snorkeling trips.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.714396,
+                        -16.49006
+                  ]
+            },
+            {
+                  "name": "Historic Area",
+                  "text": "Historic Area, a cluster of ancient marae sites and stone structures in Anau's coastal district.",
+                  "category": "landmark",
+                  "coords": [
+                        -151.715364,
+                        -16.490482
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "village",
     name: { de: "Anau", hu: "Anau", ro: "Anau", en: "Anau" },
@@ -5007,7 +6663,196 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     image: "/poi-images/frenchpolynesia-anau-cities-v2.webp",
   },
   {
-    id: "frenchpolynesia-tiputa-cities-v2", "sights": {"de": [{"name": "plage publique", "text": "Die plage publique in Tiputa dient als zugängliches Naherholungsgebiet an der Küste und ist eine wunderbare Bereicherung für die Gemeinde. Die Atmosphäre ist lebendig und einladend, sodass jeder an spaßigen Schwimmrunden teilnehmen oder sich einfach in der Sonne ausruhen kann. Ein Spaziergang über die gesamte Länge dieses Strandes führt Sie direkt ins Herz der maritimen Kultur der Stadt. Der Strand ist ein exzellenter Zwischenstopp während eines ausgedehnten Tages voller Inselerkundungen.", "category": "recreational", "coords": [-147.641893, -14.962175]}, {"name": "Yaka Plongée", "text": "Yaka Plongée ist eine Tauchattraktion in Tiputa.", "category": "landmark", "coords": [-147.640113, -14.962809]}, {"name": "Rangiroa Plongée", "text": "Rangiroa Plongée ist eine bekannte Attraktion für Sporttaucher in Tiputa.", "category": "landmark", "coords": [-147.633896, -14.971654]}, {"name": "Cité des dauphins", "text": "Die Cité des dauphins ist eine lokale Attraktion in Tiputa.", "category": "landmark", "coords": [-147.629805, -14.970101]}, {"name": "Église Notre-Dame-de-Paix", "text": "Die Église Notre-Dame-de-Paix ist eine Kultstätte in Tiputa.", "category": "religious", "coords": [-147.625749, -14.977889]}], "hu": [{"name": "plage publique", "text": "A Tiputa területén található plage publique akadálymentes part menti rekreációs területként működik, és csodálatos közösségi értéket képvisel. Az atmoszféra vibráló és hívogató, lehetővé téve mindenki számára a szórakoztató úszást vagy a nap alatti egyszerű pihenést. A strand teljes hosszán végigsétálva bepillantást nyerhetünk a város tengerparti kultúrájának szívébe. Kiváló megállóhely egy átfogóbb szigetfelfedező nap során.", "category": "recreational", "coords": [-147.641893, -14.962175]}, {"name": "Yaka Plongée", "text": "A Yaka Plongée egy búvárlétesítmény Tiputa városában.", "category": "landmark", "coords": [-147.640113, -14.962809]}, {"name": "Rangiroa Plongée", "text": "A Rangiroa Plongée egy népszerű búvárlátványosság Tiputa városában.", "category": "landmark", "coords": [-147.633896, -14.971654]}, {"name": "Cité des dauphins", "text": "A Cité des dauphins egy helyi látványosság Tiputa területén.", "category": "landmark", "coords": [-147.629805, -14.970101]}, {"name": "Église Notre-Dame-de-Paix", "text": "Az Église Notre-Dame-de-Paix egy istentiszteleti hely Tiputa városában.", "category": "religious", "coords": [-147.625749, -14.977889]}], "ro": [{"name": "plage publique", "text": "Funcționând ca o zonă accesibilă de recreere pe coastă, plage publique din Tiputa este un bun comunitar minunat. Atmosfera este vibrantă și primitoare, permițând oricui să ia parte la înoturi distractive sau pur și simplu să se odihnească sub soare. Plimbarea de-a lungul acestei plaje vă duce în inima culturii de pe litoral a orașului. Este o escală excelentă în timpul unei zile mai ample de explorare a insulei.", "category": "recreational", "coords": [-147.641893, -14.962175]}, {"name": "Yaka Plongée", "text": "Yaka Plongée este o atracție pentru scufundări situată în Tiputa.", "category": "landmark", "coords": [-147.640113, -14.962809]}, {"name": "Rangiroa Plongée", "text": "Rangiroa Plongée este o atracție populară pentru scufundări în Tiputa.", "category": "landmark", "coords": [-147.633896, -14.971654]}, {"name": "Cité des dauphins", "text": "Cité des dauphins este o atracție locală situată în Tiputa.", "category": "landmark", "coords": [-147.629805, -14.970101]}, {"name": "Église Notre-Dame-de-Paix", "text": "Église Notre-Dame-de-Paix este un lăcaș de cult situat în Tiputa.", "category": "religious", "coords": [-147.625749, -14.977889]}], "en": [{"name": "plage publique", "text": "Functioning as an accessible coastal recreation area, the plage publique in Tiputa is a wonderful community asset. The atmosphere is vibrant and inviting, allowing everyone to partake in fun swims or simply rest under the sun. Strolling the length of this beach brings you into the heart of the town's seaside culture. It is an excellent stopover during a broader day of island exploration.", "category": "recreational", "coords": [-147.641893, -14.962175]}, {"name": "Yaka Plongée", "text": "Yaka Plongée is a diving attraction located in Tiputa.", "category": "landmark", "coords": [-147.640113, -14.962809]}, {"name": "Rangiroa Plongée", "text": "Rangiroa Plongée is a popular scuba diving attraction in Tiputa.", "category": "landmark", "coords": [-147.633896, -14.971654]}, {"name": "Cité des dauphins", "text": "Cité des dauphins is a local attraction situated in Tiputa.", "category": "landmark", "coords": [-147.629805, -14.970101]}, {"name": "Église Notre-Dame-de-Paix", "text": "Église Notre-Dame-de-Paix is a place of worship located in Tiputa.", "category": "religious", "coords": [-147.625749, -14.977889]}]},
+    id: "frenchpolynesia-tiputa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "plage publique",
+                  "text": "Die plage publique in Tiputa dient als zugängliches Naherholungsgebiet an der Küste und ist eine wunderbare Bereicherung für die Gemeinde. Die Atmosphäre ist lebendig und einladend, sodass jeder an spaßigen Schwimmrunden teilnehmen oder sich einfach in der Sonne ausruhen kann. Ein Spaziergang über die gesamte Länge dieses Strandes führt Sie direkt ins Herz der maritimen Kultur der Stadt. Der Strand ist ein exzellenter Zwischenstopp während eines ausgedehnten Tages voller Inselerkundungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -147.641893,
+                        -14.962175
+                  ]
+            },
+            {
+                  "name": "Yaka Plongée",
+                  "text": "Yaka Plongée, ein Tauchcenter in Tiputa auf dem Rangiroa-Atoll, bekannt für Drifttauchgänge im Tiputa-Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.640113,
+                        -14.962809
+                  ]
+            },
+            {
+                  "name": "Rangiroa Plongée",
+                  "text": "Rangiroa Plongée, ein Tauchshop in Tiputa, der geführte Tauchgänge durch den Tiputa-Pass mit Haien und Delfinen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.633896,
+                        -14.971654
+                  ]
+            },
+            {
+                  "name": "Cité des dauphins",
+                  "text": "Cité des dauphins, ein Delfinbeobachtungsort im Tiputa-Pass auf Rangiroa, wo regelmäßig Große Tümmler auftauchen.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.629805,
+                        -14.970101
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Paix",
+                  "text": "Katholische Kirche nahe dem Tiputa-Pass auf Rangiroa.",
+                  "category": "religious",
+                  "coords": [
+                        -147.625749,
+                        -14.977889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "plage publique",
+                  "text": "A Tiputa területén található plage publique akadálymentes part menti rekreációs területként működik, és csodálatos közösségi értéket képvisel. Az atmoszféra vibráló és hívogató, lehetővé téve mindenki számára a szórakoztató úszást vagy a nap alatti egyszerű pihenést. A strand teljes hosszán végigsétálva bepillantást nyerhetünk a város tengerparti kultúrájának szívébe. Kiváló megállóhely egy átfogóbb szigetfelfedező nap során.",
+                  "category": "recreational",
+                  "coords": [
+                        -147.641893,
+                        -14.962175
+                  ]
+            },
+            {
+                  "name": "Yaka Plongée",
+                  "text": "Yaka Plongée, egy búváriskola Tiputa-ban, a Rangiroa-atollon, híres a Tiputa-hágóban végzett driftmerüléseiről.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.640113,
+                        -14.962809
+                  ]
+            },
+            {
+                  "name": "Rangiroa Plongée",
+                  "text": "Rangiroa Plongée, egy búvárszerviz Tiputa-ban, amely vezetett merüléseket kínál a Tiputa-hágón keresztül cápákkal és delfinekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.633896,
+                        -14.971654
+                  ]
+            },
+            {
+                  "name": "Cité des dauphins",
+                  "text": "Cité des dauphins, egy delfinmegfigyelő hely a Tiputa-hágóban a Rangiroa-atollon, ahol gyakran láthatók palackorrú delfincsapatok.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.629805,
+                        -14.970101
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Paix",
+                  "text": "Katolikus templom a tiputa-i átjáró közelében Rangiroán.",
+                  "category": "religious",
+                  "coords": [
+                        -147.625749,
+                        -14.977889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "plage publique",
+                  "text": "Funcționând ca o zonă accesibilă de recreere pe coastă, plage publique din Tiputa este un bun comunitar minunat. Atmosfera este vibrantă și primitoare, permițând oricui să ia parte la înoturi distractive sau pur și simplu să se odihnească sub soare. Plimbarea de-a lungul acestei plaje vă duce în inima culturii de pe litoral a orașului. Este o escală excelentă în timpul unei zile mai ample de explorare a insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        -147.641893,
+                        -14.962175
+                  ]
+            },
+            {
+                  "name": "Yaka Plongée",
+                  "text": "Yaka Plongée, un centru de scufundări în Tiputa pe atolul Rangiroa, cunoscut pentru scufundări în derivă prin Pasajul Tiputa.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.640113,
+                        -14.962809
+                  ]
+            },
+            {
+                  "name": "Rangiroa Plongée",
+                  "text": "Rangiroa Plongée, un magazin de scufundări în Tiputa care oferă scufundări ghidate prin Pasajul Tiputa, cu rechini și delfini.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.633896,
+                        -14.971654
+                  ]
+            },
+            {
+                  "name": "Cité des dauphins",
+                  "text": "Cité des dauphins, un loc de observare a delfinilor în Pasajul Tiputa din Rangiroa, unde grupuri de delfini cu bot de sticlă se adună frecvent.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.629805,
+                        -14.970101
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Paix",
+                  "text": "Biserică catolică lângă pasul Tiputa pe Rangiroa.",
+                  "category": "religious",
+                  "coords": [
+                        -147.625749,
+                        -14.977889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "plage publique",
+                  "text": "Functioning as an accessible coastal recreation area, the plage publique in Tiputa is a wonderful community asset. The atmosphere is vibrant and inviting, allowing everyone to partake in fun swims or simply rest under the sun. Strolling the length of this beach brings you into the heart of the town's seaside culture. It is an excellent stopover during a broader day of island exploration.",
+                  "category": "recreational",
+                  "coords": [
+                        -147.641893,
+                        -14.962175
+                  ]
+            },
+            {
+                  "name": "Yaka Plongée",
+                  "text": "Yaka Plongée, a scuba diving center in Tiputa on Rangiroa atoll, known for drift dives in the Tiputa Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.640113,
+                        -14.962809
+                  ]
+            },
+            {
+                  "name": "Rangiroa Plongée",
+                  "text": "Rangiroa Plongée, a dive shop in Tiputa offering guided dives through the Tiputa Pass with sharks and dolphins.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.633896,
+                        -14.971654
+                  ]
+            },
+            {
+                  "name": "Cité des dauphins",
+                  "text": "Cité des dauphins, a dolphin observation site in the Tiputa Pass on Rangiroa where pods of spinner dolphins frequently gather.",
+                  "category": "landmark",
+                  "coords": [
+                        -147.629805,
+                        -14.970101
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Paix",
+                  "text": "Catholic church near the Tiputa pass on Rangiroa.",
+                  "category": "religious",
+                  "coords": [
+                        -147.625749,
+                        -14.977889
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "village",
     name: { de: "Tiputa", hu: "Tiputa", ro: "Tiputa", en: "Tiputa" },
@@ -5146,7 +6991,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tiki",
-                  "text": "Tiki ist ein kulturelles Denkmal in Vaiuru.",
+                  "text": "Tiki, eine alte steinerne Tiki-Statue an einer Marae-Stätte in Vaiuru auf der Insel Tubuai.",
                   "category": "historical",
                   "coords": [
                         -147.678487,
@@ -5164,7 +7009,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "siki",
-                  "text": "Siki ist ein lokaler Interessenpunkt in Vaiuru.",
+                  "text": "Siki, eine Steinformation am Ufer in Vaiuru, die als Navigationsmarke dient.",
                   "category": "landmark",
                   "coords": [
                         -147.66258,
@@ -5173,7 +7018,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Treck Mont Hiro",
-                  "text": "Treck Mont Hiro ist eine Wanderattraktion in Vaiuru.",
+                  "text": "Treck Mont Hiro, ein Wanderweg zum Gipfel des Mount Hiro auf Tubuai mit Aussicht auf die Insel und Lagune.",
                   "category": "landmark",
                   "coords": [
                         -147.644531,
@@ -5182,7 +7027,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "Dieser Marae ist eine traditionelle Sehenswürdigkeit in Vaiuru.",
+                  "text": "Marae, eine polynesische Zeremonialplattform (Marae) an der Küste von Vaiuru, Tubuai.",
                   "category": "landmark",
                   "coords": [
                         -147.650679,
@@ -5193,7 +7038,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tiki",
-                  "text": "A Tiki egy kulturális emlékmű Vaiuru városában.",
+                  "text": "Tiki, egy ősi kő tiki szobor egy marae helyszínen Vaiuru-ban, Tubuai szigetén.",
                   "category": "historical",
                   "coords": [
                         -147.678487,
@@ -5211,7 +7056,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "siki",
-                  "text": "A Siki egy helyi nevezetesség Vaiuru városában.",
+                  "text": "Siki, egy kőformáció a parton Vaiuru-ban, amely navigációs jelzőként szolgál.",
                   "category": "landmark",
                   "coords": [
                         -147.66258,
@@ -5220,7 +7065,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Treck Mont Hiro",
-                  "text": "A Treck Mont Hiro egy túrázási látványosság Vaiuru városában.",
+                  "text": "Treck Mont Hiro, egy túraút a Mount Hiro csúcsára Tubuai szigetén, kilátással a szigetre és a lagúnára.",
                   "category": "landmark",
                   "coords": [
                         -147.644531,
@@ -5229,7 +7074,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "Ez a Marae egy hagyományos látványosság Vaiuru városában.",
+                  "text": "Marae, egy polinéz szertartási platform (marae) Vaiuru partján, Tubuai szigetén.",
                   "category": "landmark",
                   "coords": [
                         -147.650679,
@@ -5240,7 +7085,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tiki",
-                  "text": "Tiki este un monument cultural situat în Vaiuru.",
+                  "text": "Tiki, o statuie antică de piatră tiki la un sit marae în Vaiuru, pe insula Tubuai.",
                   "category": "historical",
                   "coords": [
                         -147.678487,
@@ -5258,7 +7103,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "siki",
-                  "text": "Siki este un punct de interes local din Vaiuru.",
+                  "text": "Siki, o formațiune de piatră pe mal în Vaiuru, folosită ca marcaj de navigație.",
                   "category": "landmark",
                   "coords": [
                         -147.66258,
@@ -5267,7 +7112,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Treck Mont Hiro",
-                  "text": "Treck Mont Hiro este o atracție pentru drumeții situată în Vaiuru.",
+                  "text": "Treck Mont Hiro, un traseu de drumeție către vârful Muntelui Hiro pe insula Tubuai, cu vedere spre insulă și lagună.",
                   "category": "landmark",
                   "coords": [
                         -147.644531,
@@ -5276,7 +7121,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "Acest Marae este o atracție tradițională situată în Vaiuru.",
+                  "text": "Marae, o platformă ceremonială polineziană (marae) pe coasta din Vaiuru, Tubuai.",
                   "category": "landmark",
                   "coords": [
                         -147.650679,
@@ -5287,7 +7132,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tiki",
-                  "text": "Tiki is a cultural monument located in Vaiuru.",
+                  "text": "Tiki, an ancient stone tiki statue at a marae site in Vaiuru on Tubuai island.",
                   "category": "historical",
                   "coords": [
                         -147.678487,
@@ -5305,7 +7150,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "siki",
-                  "text": "Siki is a local point of interest in Vaiuru.",
+                  "text": "Siki, a stone formation by the shore in Vaiuru, used as a navigational marker.",
                   "category": "landmark",
                   "coords": [
                         -147.66258,
@@ -5314,7 +7159,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Treck Mont Hiro",
-                  "text": "Treck Mont Hiro is a hiking attraction located in Vaiuru.",
+                  "text": "Treck Mont Hiro, a hiking trail to the summit of Mount Hiro on Tubuai, offering views of the island and lagoon.",
                   "category": "landmark",
                   "coords": [
                         -147.644531,
@@ -5323,7 +7168,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "This Marae is a traditional attraction situated in Vaiuru.",
+                  "text": "Marae, a Polynesian ceremonial platform (marae) on the coast of Vaiuru, Tubuai.",
                   "category": "landmark",
                   "coords": [
                         -147.650679,
@@ -5470,7 +7315,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Église de la Sainte-Mère-de-Dieu",
-                  "text": "Die Église de la Sainte-Mère-de-Dieu ist eine lokale Attraktion in Vaitahu.",
+                  "text": "Wahrzeichenkirche im Dorf Vaitahu auf der Insel Tahuata.",
                   "category": "landmark",
                   "coords": [
                         -139.108371,
@@ -5481,7 +7326,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Église de la Sainte-Mère-de-Dieu",
-                  "text": "Az Église de la Sainte-Mère-de-Dieu egy helyi látványosság Vaitahu városában.",
+                  "text": "Nevezetes templom Vaitahu falujában, Tahuata szigetén.",
                   "category": "landmark",
                   "coords": [
                         -139.108371,
@@ -5492,7 +7337,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Église de la Sainte-Mère-de-Dieu",
-                  "text": "Église de la Sainte-Mère-de-Dieu este o atracție locală din Vaitahu.",
+                  "text": "Biserică emblematică în satul Vaitahu, pe insula Tahuata.",
                   "category": "landmark",
                   "coords": [
                         -139.108371,
@@ -5503,7 +7348,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Église de la Sainte-Mère-de-Dieu",
-                  "text": "Église de la Sainte-Mère-de-Dieu is a local attraction in Vaitahu.",
+                  "text": "Landmark church in Vaitahu village on Tahuata island.",
                   "category": "landmark",
                   "coords": [
                         -139.108371,
@@ -5560,7 +7405,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pétroglyphes",
-                  "text": "Petroglyphs ist eine archäologische Stätte in Omoa.",
+                  "text": "Petroglyphs, alte Felszeichnungen auf Basaltbrocken nahe dem Strand in Omoa, Fatu Hiva.",
                   "category": "historical",
                   "coords": [
                         -138.6778,
@@ -5569,7 +7414,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Grelet",
-                  "text": "Grelet ist ein Museum in Omoa.",
+                  "text": "Grelet, ein kleines Museum in Omoa, das Artefakte aus der Geschichte und Kultur von Fatu Hiva ausstellt.",
                   "category": "museum",
                   "coords": [
                         -138.684649,
@@ -5580,7 +7425,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pétroglyphes",
-                  "text": "A Petroglyphs egy régészeti lelőhely Omoa városában.",
+                  "text": "Petroglyphs, ősi sziklarajzok bazaltsziklákon az Omoa-i strand közelében, Fatu Hiva szigetén.",
                   "category": "historical",
                   "coords": [
                         -138.6778,
@@ -5589,7 +7434,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Grelet",
-                  "text": "A Grelet egy múzeum Omoa városában.",
+                  "text": "Grelet, egy kis múzeum Omoa-ban, amely Fatu Hiva történelmének és kultúrájának tárgyait mutatja be.",
                   "category": "museum",
                   "coords": [
                         -138.684649,
@@ -5600,7 +7445,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pétroglyphes",
-                  "text": "Petroglyphs este un sit arheologic situat în Omoa.",
+                  "text": "Petroglyphs, gravuri rupestre antice pe bolovani de bazalt lângă plaja din Omoa, Fatu Hiva.",
                   "category": "historical",
                   "coords": [
                         -138.6778,
@@ -5609,7 +7454,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Grelet",
-                  "text": "Grelet este un muzeu situat în Omoa.",
+                  "text": "Grelet, un mic muzeu în Omoa care expune artefacte din istoria și cultura insulei Fatu Hiva.",
                   "category": "museum",
                   "coords": [
                         -138.684649,
@@ -5620,7 +7465,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Petroglyphs",
-                  "text": "Petroglyphs is an archaeological site located in Omoa.",
+                  "text": "Petroglyphs, ancient rock carvings on basalt boulders near the beach in Omoa, Fatu Hiva.",
                   "category": "historical",
                   "coords": [
                         -138.6778,
@@ -5629,7 +7474,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Grelet",
-                  "text": "Grelet is a museum located in Omoa.",
+                  "text": "Grelet, a small museum in Omoa displaying artifacts from Fatu Hiva's history and culture.",
                   "category": "museum",
                   "coords": [
                         -138.684649,
@@ -6046,7 +7891,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Marae Mata’ire’a Rahi",
-                  "text": "Marae Mata’ire’a Rahi ist eine bedeutende archäologische Stätte in Faie.",
+                  "text": "Marae Mata'ire'a Rahi, eine große restaurierte Marae in Faie auf Huahine mit aufrechten Steinen und Korallenboden.",
                   "category": "historical",
                   "coords": [
                         -150.990984,
@@ -6055,7 +7900,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Haumaru",
-                  "text": "Marae Haumaru ist eine traditionelle archäologische Stätte in Faie.",
+                  "text": "Marae Haumaru, eine kleinere Marae in Faie, beschattet von Banyanbäumen nahe der Lagune.",
                   "category": "historical",
                   "coords": [
                         -150.991593,
@@ -6064,7 +7909,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Avaroa",
-                  "text": "Marae Avaroa ist eine historische archäologische Stätte in Faie.",
+                  "text": "Marae Avaroa, eine Marae am Ufer von Faie mit einem Stein-Altar (Ahu) und alten Petroglyphen.",
                   "category": "historical",
                   "coords": [
                         -150.99015,
@@ -6073,7 +7918,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Manunu",
-                  "text": "Marae Manunu ist eine anerkannte archäologische Stätte in Faie.",
+                  "text": "Marae Manunu, eine im Landesinnern von Faie gelegene Marae, umgeben von tropischer Vegetation und Tarofeldern.",
                   "category": "historical",
                   "coords": [
                         -150.982375,
@@ -6082,7 +7927,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pae pae Ofata",
-                  "text": "Pae pae Ofata ist eine archäologische Stätte in Faie.",
+                  "text": "Pae pae Ofata, eine historische Steinplattform (Pae pae), die als Versammlungsort in Faie diente.",
                   "category": "historical",
                   "coords": [
                         -150.988021,
@@ -6118,7 +7963,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin de corail",
-                  "text": "Der Coral Garden ist eine beliebte Naturattraktion in Faie.",
+                  "text": "Coral garden, ein flaches Riffgebiet vor Faie mit üppigen Korallenformationen und bunten Fischen, beliebt zum Schnorcheln.",
                   "category": "landmark",
                   "coords": [
                         -150.979861,
@@ -6136,7 +7981,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "Dieser traditionelle Marae ist eine kulturelle Attraktion in Faie.",
+                  "text": "Marae, eine heilige Steinplattform (Marae) am Rande des Dorfes Faie.",
                   "category": "landmark",
                   "coords": [
                         -150.986801,
@@ -6147,7 +7992,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Marae Mata’ire’a Rahi",
-                  "text": "A Marae Mata’ire’a Rahi egy fontos régészeti lelőhely Faie városában.",
+                  "text": "Marae Mata'ire'a Rahi, egy nagy, helyreállított marae Faie-ban, Huahine szigetén, felálló kövekkel és korallpadlóval.",
                   "category": "historical",
                   "coords": [
                         -150.990984,
@@ -6156,7 +8001,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Haumaru",
-                  "text": "A Marae Haumaru egy hagyományos régészeti lelőhely Faie területén.",
+                  "text": "Marae Haumaru, egy kisebb marae Faie-ban, banánfüge fák által árnyékolva a lagúna közelében.",
                   "category": "historical",
                   "coords": [
                         -150.991593,
@@ -6165,7 +8010,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Avaroa",
-                  "text": "A Marae Avaroa egy történelmi régészeti lelőhely Faie városában.",
+                  "text": "Marae Avaroa, egy marae Faie partján, kőoltárral (ahu) és ősi sziklarajzokkal.",
                   "category": "historical",
                   "coords": [
                         -150.99015,
@@ -6174,7 +8019,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Manunu",
-                  "text": "A Marae Manunu egy elismert régészeti lelőhely Faie városában.",
+                  "text": "Marae Manunu, egy belső marae Faie-ban, trópusi növényzettel és taróföldekkel körülvéve.",
                   "category": "historical",
                   "coords": [
                         -150.982375,
@@ -6183,7 +8028,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pae pae Ofata",
-                  "text": "A Pae pae Ofata egy régészeti lelőhely Faie területén.",
+                  "text": "Pae pae Ofata, egy történelmi kőplatform (pae pae), amely találkozóhelyként szolgált Faie-ban.",
                   "category": "historical",
                   "coords": [
                         -150.988021,
@@ -6219,7 +8064,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin de corail",
-                  "text": "A Coral Garden egy népszerű természeti látványosság Faie területén.",
+                  "text": "Coral garden, egy sekély zátonyterület Faie partjainál, bőséges korallképződményekkel és színes halakkal, népszerű snorkelezőhely.",
                   "category": "landmark",
                   "coords": [
                         -150.979861,
@@ -6237,7 +8082,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "Ez a hagyományos Marae egy kulturális látványosság Faie városában.",
+                  "text": "Marae, egy szent kőplatform (marae) Faie falu szélén.",
                   "category": "landmark",
                   "coords": [
                         -150.986801,
@@ -6248,7 +8093,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Marae Mata’ire’a Rahi",
-                  "text": "Marae Mata’ire’a Rahi este un sit arheologic important situat în Faie.",
+                  "text": "Marae Mata'ire'a Rahi, un marae mare restaurat în Faie, Huahine, cu pietre verticale și podea de corali.",
                   "category": "historical",
                   "coords": [
                         -150.990984,
@@ -6257,7 +8102,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Haumaru",
-                  "text": "Marae Haumaru este un sit arheologic tradițional din Faie.",
+                  "text": "Marae Haumaru, un marae mai mic în Faie, umbrit de copaci de banyan lângă lagună.",
                   "category": "historical",
                   "coords": [
                         -150.991593,
@@ -6266,7 +8111,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Avaroa",
-                  "text": "Marae Avaroa este un sit arheologic istoric găsit în Faie.",
+                  "text": "Marae Avaroa, un marae pe malul Faie, cu un altar de piatră (ahu) și petroglife antice.",
                   "category": "historical",
                   "coords": [
                         -150.99015,
@@ -6275,7 +8120,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Manunu",
-                  "text": "Marae Manunu este un sit arheologic recunoscut situat în Faie.",
+                  "text": "Marae Manunu, un marae în interiorul teritoriului Faie, înconjurat de vegetație tropicală și câmpuri de taro.",
                   "category": "historical",
                   "coords": [
                         -150.982375,
@@ -6284,7 +8129,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pae pae Ofata",
-                  "text": "Pae pae Ofata este un sit arheologic din Faie.",
+                  "text": "Pae pae Ofata, o platformă istorică de piatră (pae pae) folosită ca loc de întâlnire în Faie.",
                   "category": "historical",
                   "coords": [
                         -150.988021,
@@ -6320,7 +8165,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Jardin de corail",
-                  "text": "Coral Garden este o atracție naturală populară din Faie.",
+                  "text": "Coral garden, o zonă de recif puțin adâncă în largul Faie, cu formațiuni bogate de corali și pești colorați, populară pentru snorkeling.",
                   "category": "landmark",
                   "coords": [
                         -150.979861,
@@ -6338,7 +8183,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "Acest Marae tradițional este o atracție culturală din Faie.",
+                  "text": "Marae, o platformă sacră de piatră (marae) la marginea satului Faie.",
                   "category": "landmark",
                   "coords": [
                         -150.986801,
@@ -6349,7 +8194,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Marae Mata’ire’a Rahi",
-                  "text": "Marae Mata’ire’a Rahi is an important archaeological site located in Faie.",
+                  "text": "Marae Mata'ire'a Rahi, a large restored marae in Faie on Huahine, with upright stones and a coral-paved floor.",
                   "category": "historical",
                   "coords": [
                         -150.990984,
@@ -6358,7 +8203,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Haumaru",
-                  "text": "Marae Haumaru is a traditional archaeological site in Faie.",
+                  "text": "Marae Haumaru, a smaller marae in Faie, shaded by banyan trees near the lagoon.",
                   "category": "historical",
                   "coords": [
                         -150.991593,
@@ -6367,7 +8212,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Avaroa",
-                  "text": "Marae Avaroa is a historical archaeological site found in Faie.",
+                  "text": "Marae Avaroa, a marae on the Faie shoreline featuring a stone altar (ahu) and ancient petroglyphs.",
                   "category": "historical",
                   "coords": [
                         -150.99015,
@@ -6376,7 +8221,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae Manunu",
-                  "text": "Marae Manunu is a recognized archaeological site situated in Faie.",
+                  "text": "Marae Manunu, an inland marae in Faie surrounded by tropical vegetation and taro fields.",
                   "category": "historical",
                   "coords": [
                         -150.982375,
@@ -6385,7 +8230,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Pae pae Ofata",
-                  "text": "Pae pae Ofata is an archaeological site in Faie.",
+                  "text": "Pae pae Ofata, a historical stone platform (pae pae) used as a meeting place in Faie.",
                   "category": "historical",
                   "coords": [
                         -150.988021,
@@ -6421,7 +8266,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Coral garden",
-                  "text": "The Coral Garden is a popular natural attraction in Faie.",
+                  "text": "Coral garden, a shallow reef area off Faie with abundant coral formations and colorful fish, popular for snorkeling.",
                   "category": "landmark",
                   "coords": [
                         -150.979861,
@@ -6439,7 +8284,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "This traditional Marae is a cultural attraction in Faie.",
+                  "text": "Marae, a sacred stone platform (marae) at the edge of Faie village.",
                   "category": "landmark",
                   "coords": [
                         -150.986801,
@@ -6496,7 +8341,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon ist ein Aussichtspunkt in Tefarerii.",
+                  "text": "Belle vue sur le lagon, ein Aussichtspunkt an der Straße in Tefarerii auf Huahine mit Panoramablick auf die Lagune.",
                   "category": "natural",
                   "coords": [
                         -150.960178,
@@ -6505,7 +8350,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mont Pohu Rahi",
-                  "text": "Mountain Peak Pohu Rahi . Old radio tower ruin ist ein Aussichtspunkt in Tefarerii.",
+                  "text": "Berggipfel Pohu Rahi mit einer verfallenen alten Radioturmruine in Tefarerii.",
                   "category": "natural",
                   "coords": [
                         -150.976273,
@@ -6516,7 +8361,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Belle vue sur le lagon",
-                  "text": "A Belle vue sur le lagon egy kilátó Tefarerii területén.",
+                  "text": "Belle vue sur le lagon, egy út menti kilátó Tefarerii-ben, Huahine szigetén, panorámás kilátással a lagúnára.",
                   "category": "natural",
                   "coords": [
                         -150.960178,
@@ -6525,7 +8370,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mont Pohu Rahi",
-                  "text": "A Mountain Peak Pohu Rahi . Old radio tower ruin egy kilátó Tefarerii területén.",
+                  "text": "Pohu Rahi hegycsúcs egy régi rádiótorony romjával Tefarerii-ben.",
                   "category": "natural",
                   "coords": [
                         -150.976273,
@@ -6536,7 +8381,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon este un punct de belvedere situat în Tefarerii.",
+                  "text": "Belle vue sur le lagon, un punct de belvedere la marginea drumului în Tefarerii, Huahine, cu o vedere panoramică a lagunei.",
                   "category": "natural",
                   "coords": [
                         -150.960178,
@@ -6545,7 +8390,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mont Pohu Rahi",
-                  "text": "Mountain Peak Pohu Rahi . Old radio tower ruin este un punct de belvedere situat în Tefarerii.",
+                  "text": "Vârful montan Pohu Rahi cu o ruină veche de turn radio în Tefarerii.",
                   "category": "natural",
                   "coords": [
                         -150.976273,
@@ -6556,7 +8401,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon is a viewpoint located in Tefarerii.",
+                  "text": "Belle vue sur le lagon, a roadside lookout in Tefarerii on Huahine offering a panoramic lagoon vista.",
                   "category": "natural",
                   "coords": [
                         -150.960178,
@@ -6565,7 +8410,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Mountain Peak Pohu Rahi . Old radio tower ruin",
-                  "text": "Mountain Peak Pohu Rahi . Old radio tower ruin is a viewpoint located in Tefarerii.",
+                  "text": "Mountain peak Pohu Rahi with a ruined old radio tower in Tefarerii.",
                   "category": "natural",
                   "coords": [
                         -150.976273,
@@ -6676,7 +8521,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "Dieser Marae ist eine lokale archäologische Stätte in Hapatoni.",
+                  "text": "Antike polynesische Marae (Zeremonialplattform) in Vaitahu Alt.",
                   "category": "historical",
                   "coords": [
                         -139.123801,
@@ -6696,7 +8541,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "Ez a Marae egy helyi régészeti lelőhely Hapatoni területén.",
+                  "text": "Ősi polinéz marae (szertartási platform) Vaitahu Alt-ban.",
                   "category": "historical",
                   "coords": [
                         -139.123801,
@@ -6716,7 +8561,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "Acest Marae este un sit arheologic local găsit în Hapatoni.",
+                  "text": "Marae polineziană antică (platformă ceremonială) în Vaitahu Alt.",
                   "category": "historical",
                   "coords": [
                         -139.123801,
@@ -6736,7 +8581,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
             },
             {
                   "name": "Marae",
-                  "text": "This Marae is a local archaeological site found in Hapatoni.",
+                  "text": "Ancient Polynesian marae (ceremonial platform) in Vaitahu Alt.",
                   "category": "historical",
                   "coords": [
                         -139.123801,

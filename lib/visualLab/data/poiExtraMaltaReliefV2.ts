@@ -142,7 +142,7 @@ export const maltaReliefV2: POI[] = [
       "de": [
             {
                   "name": "Imgiebah Bay",
-                  "text": "Imgiebah Bay ist eine abgelegene Bucht unterhalb des Il-Qortin Rückens.",
+                  "text": "Imgiebah Bay in Il Qortin Ridge ist ein sandiger Buchtstrand, ideal zum Schwimmen und Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         14.382107,
@@ -153,7 +153,7 @@ export const maltaReliefV2: POI[] = [
       "hu": [
             {
                   "name": "Imgiebah Bay",
-                  "text": "Az Imgiebah Bay egy eldugott öböl az Il-Qortin gerinc alatt.",
+                  "text": "Imgiebah-öböl Il Qortin Ridge-ben egy homokos öböl strand, ideális úszáshoz és napozáshoz.",
                   "category": "recreational",
                   "coords": [
                         14.382107,
@@ -164,7 +164,7 @@ export const maltaReliefV2: POI[] = [
       "ro": [
             {
                   "name": "Imgiebah Bay",
-                  "text": "Imgiebah Bay este un golf retras situat sub creasta Il-Qortin.",
+                  "text": "Imgiebah Bay din Il Qortin Ridge este o plajă cu nisip, ideală pentru înot și plajă.",
                   "category": "recreational",
                   "coords": [
                         14.382107,
@@ -175,7 +175,7 @@ export const maltaReliefV2: POI[] = [
       "en": [
             {
                   "name": "Imgiebah Bay",
-                  "text": "Imgiebah Bay is a secluded bay located below the Il-Qortin ridge.",
+                  "text": "Imgiebah Bay in Il Qortin Ridge is a sandy cove beach, ideal for swimming and sunbathing.",
                   "category": "recreational",
                   "coords": [
                         14.382107,
@@ -331,7 +331,7 @@ export const maltaReliefV2: POI[] = [
             },
             {
                   "name": "Ir-Ramla tal-Ġnejna",
-                  "text": "Ir-Ramla tal-Ġnejna ist eine Bucht nahe den Ras il-Wahx Klippen.",
+                  "text": "Sandbucht mit klarem Wasser am Fuße der Ras-il-Wahx-Klippen in Mellieħa.",
                   "category": "recreational",
                   "coords": [
                         14.342923,
@@ -351,7 +351,7 @@ export const maltaReliefV2: POI[] = [
             },
             {
                   "name": "Ir-Ramla tal-Ġnejna",
-                  "text": "Ir-Ramla tal-Ġnejna egy öböl a Ras il-Wahx sziklák közelében.",
+                  "text": "Homokos öböl tiszta vízzel a Ras il-Wahx sziklái alatt Mellieħában.",
                   "category": "recreational",
                   "coords": [
                         14.342923,
@@ -371,7 +371,7 @@ export const maltaReliefV2: POI[] = [
             },
             {
                   "name": "Ir-Ramla tal-Ġnejna",
-                  "text": "Ir-Ramla tal-Ġnejna este un golf situat în apropierea stâncilor Ras il-Wahx.",
+                  "text": "Plajă nisipoasă cu ape limpezi la poalele stâncilor Ras il-Wahx în Mellieħa.",
                   "category": "recreational",
                   "coords": [
                         14.342923,
@@ -391,7 +391,7 @@ export const maltaReliefV2: POI[] = [
             },
             {
                   "name": "Ir-Ramla tal-Ġnejna",
-                  "text": "Ir-Ramla tal-Ġnejna is a bay located near the Ras il-Wahx cliffs.",
+                  "text": "Sandy bay with clear waters at the foot of Ras il-Wahx cliffs in Mellieħa.",
                   "category": "recreational",
                   "coords": [
                         14.342923,

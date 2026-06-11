@@ -702,7 +702,7 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
             },
             {
                   "name": "Piscine Extérieure Communale",
-                  "text": "Ein Freibad bei der Cascade de Coo.",
+                  "text": "Freibad in der Nähe des Coo-Wasserfalls.",
                   "category": "recreational",
                   "coords": [
                         5.936854,
@@ -758,7 +758,7 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
             },
             {
                   "name": "Piscine Extérieure Communale",
-                  "text": "Szabadtéri medence a Coo-vízesésnél.",
+                  "text": "Szabadtéri medence a Coo-vízesés közelében.",
                   "category": "recreational",
                   "coords": [
                         5.936854,
@@ -814,7 +814,7 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
             },
             {
                   "name": "Piscine Extérieure Communale",
-                  "text": "O piscină în aer liber lângă Cascade de Coo.",
+                  "text": "Piscină în aer liber lângă Cascada Coo.",
                   "category": "recreational",
                   "coords": [
                         5.936854,
@@ -870,7 +870,7 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
             },
             {
                   "name": "Piscine Extérieure Communale",
-                  "text": "An outdoor swimming pool near Cascade de Coo.",
+                  "text": "Outdoor communal pool near the Coo waterfall.",
                   "category": "recreational",
                   "coords": [
                         5.936854,
@@ -1353,7 +1353,7 @@ imageHint: "Meuse river flowing through the Ardennes valley in Namur",
       "de": [
             {
                   "name": "Sint-Annastrand",
-                  "text": "Strand am Ufer der Schelde.",
+                  "text": "Strand an der Schelde.",
                   "category": "recreational",
                   "coords": [
                         4.392286,
@@ -1364,7 +1364,7 @@ imageHint: "Meuse river flowing through the Ardennes valley in Namur",
       "hu": [
             {
                   "name": "Sint-Annastrand",
-                  "text": "A Schelde folyó mentén található strand.",
+                  "text": "Strand a Schelde folyónál.",
                   "category": "recreational",
                   "coords": [
                         4.392286,
@@ -1375,7 +1375,7 @@ imageHint: "Meuse river flowing through the Ardennes valley in Namur",
       "ro": [
             {
                   "name": "Sint-Annastrand",
-                  "text": "Plajă pe malul râului Scheldt.",
+                  "text": "Plajă pe fluviul Scheldt.",
                   "category": "recreational",
                   "coords": [
                         4.392286,
@@ -1386,7 +1386,7 @@ imageHint: "Meuse river flowing through the Ardennes valley in Namur",
       "en": [
             {
                   "name": "Sint-Annastrand",
-                  "text": "Beach along the Scheldt River.",
+                  "text": "Beach on the Scheldt River.",
                   "category": "recreational",
                   "coords": [
                         4.392286,
@@ -1580,7 +1580,7 @@ imageHint: "Ourthe river winding through Ardennes forests",
             },
             {
                   "name": "Espace piscine",
-                  "text": "Ein Schwimmbad am Fluss Semois.",
+                  "text": "Schwimmbereich an der Semois.",
                   "category": "recreational",
                   "coords": [
                         4.883366,
@@ -1681,7 +1681,7 @@ imageHint: "Ourthe river winding through Ardennes forests",
             },
             {
                   "name": "Espace piscine",
-                  "text": "Úszómedence a Semois-folyó mentén.",
+                  "text": "Úszóhely a Semois folyónál.",
                   "category": "recreational",
                   "coords": [
                         4.883366,
@@ -1782,7 +1782,7 @@ imageHint: "Ourthe river winding through Ardennes forests",
             },
             {
                   "name": "Espace piscine",
-                  "text": "O piscină situată pe malul râului Semois.",
+                  "text": "Zonă de înot pe râul Semois.",
                   "category": "recreational",
                   "coords": [
                         4.883366,
@@ -1883,7 +1883,7 @@ imageHint: "Ourthe river winding through Ardennes forests",
             },
             {
                   "name": "Espace piscine",
-                  "text": "A swimming pool located along the Semois River.",
+                  "text": "Swimming area on the Semois River.",
                   "category": "recreational",
                   "coords": [
                         4.883366,
@@ -2230,7 +2230,7 @@ imageHint: "Lesse river flowing through limestone cliffs",
             },
             {
                   "name": "St. Stephanus-Kirche",
-                  "text": "Eine historische Kirche im Zentrum von Bütgenbach.",
+                  "text": "St. Stephanus-Kirche ist eine römisch-katholische Kirche am Bütgenbachsee, mit Seeuferlage.",
                   "category": "religious",
                   "coords": [
                         6.205815,
@@ -2259,7 +2259,7 @@ imageHint: "Lesse river flowing through limestone cliffs",
             },
             {
                   "name": "St. Stephanus-Kirche",
-                  "text": "Történelmi templom Bütgenbach központjában.",
+                  "text": "A St. Stephanus-Kirche egy római katolikus templom a Bütgenbachi-tónál, tóparti elhelyezkedéssel.",
                   "category": "religious",
                   "coords": [
                         6.205815,
@@ -2288,7 +2288,7 @@ imageHint: "Lesse river flowing through limestone cliffs",
             },
             {
                   "name": "St. Stephanus-Kirche",
-                  "text": "O biserică istorică situată în centrul localității Bütgenbach.",
+                  "text": "St. Stephanus-Kirche este o biserică romano-catolică pe Lacul Bütgenbach, cu o amplasare pe malul lacului.",
                   "category": "religious",
                   "coords": [
                         6.205815,
@@ -2317,7 +2317,7 @@ imageHint: "Lesse river flowing through limestone cliffs",
             },
             {
                   "name": "St. Stephanus-Kirche",
-                  "text": "A historical church located in the center of Bütgenbach.",
+                  "text": "St. Stephanus-Kirche is a Roman Catholic church on Lake Bütgenbach, with a lakeside setting.",
                   "category": "religious",
                   "coords": [
                         6.205815,
@@ -2720,7 +2720,7 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
             },
             {
                   "name": "Cadran Solaire Horizontal",
-                  "text": "Eine horizontale Sonnenuhr im Gebiet der Baraque de Fraiture.",
+                  "text": "Horizontale Sonnenuhr auf dem höchsten Punkt Belgiens, der Baraque de Fraiture.",
                   "category": "landmark",
                   "coords": [
                         5.717117,
@@ -2794,7 +2794,7 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
             },
             {
                   "name": "Cadran Solaire Horizontal",
-                  "text": "Egy vízszintes napóra a Baraque de Fraiture területén.",
+                  "text": "Vízszintes napóra Belgium legmagasabb pontján, a Baraque de Fraiture-en.",
                   "category": "landmark",
                   "coords": [
                         5.717117,
@@ -2868,7 +2868,7 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
             },
             {
                   "name": "Cadran Solaire Horizontal",
-                  "text": "Un ceas solar orizontal situat în zona Baraque de Fraiture.",
+                  "text": "Cadran solar orizontal pe cel mai înalt punct al Belgiei, Baraque de Fraiture.",
                   "category": "landmark",
                   "coords": [
                         5.717117,
@@ -2942,7 +2942,7 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
             },
             {
                   "name": "Cadran Solaire Horizontal",
-                  "text": "A horizontal sundial located in the Baraque de Fraiture area.",
+                  "text": "Horizontal sundial atop Belgium's highest point, Baraque de Fraiture.",
                   "category": "landmark",
                   "coords": [
                         5.717117,
@@ -3352,7 +3352,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
       "de": [
             {
                   "name": "Château de Spirlet",
-                  "text": "Ein Schloss in der Nähe des Flusses Amblève.",
+                  "text": "Ein Schloss aus dem 19. Jahrhundert an der Amblève.",
                   "category": "castle",
                   "coords": [
                         5.735593,
@@ -3361,7 +3361,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Château de Targnon",
-                  "text": "Historisches Schloss in der Region der Amblève.",
+                  "text": "Ein Schloss aus dem 20. Jahrhundert an der Amblève.",
                   "category": "castle",
                   "coords": [
                         5.773997,
@@ -3370,7 +3370,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Rocher du Promontoire",
-                  "text": "Aussichtspunkt mit Blick auf das Amblève-Tal.",
+                  "text": "Felsvorsprung mit Blick auf die Ambleve.",
                   "category": "natural",
                   "coords": [
                         5.722346,
@@ -3379,7 +3379,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Point de vue Drouet",
-                  "text": "Ein lokaler Aussichtspunkt in der Nähe der Amblève.",
+                  "text": "Aussichtspunkt Drouet über dem Ambleve-Tal.",
                   "category": "natural",
                   "coords": [
                         5.747986,
@@ -3417,7 +3417,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
       "hu": [
             {
                   "name": "Château de Spirlet",
-                  "text": "Kastély az Amblève folyó közelében.",
+                  "text": "19. századi kastély az Amblève folyónál.",
                   "category": "castle",
                   "coords": [
                         5.735593,
@@ -3426,7 +3426,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Château de Targnon",
-                  "text": "Történelmi kastély az Amblève-vidéken.",
+                  "text": "20. századi kastély az Amblève folyónál.",
                   "category": "castle",
                   "coords": [
                         5.773997,
@@ -3435,7 +3435,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Rocher du Promontoire",
-                  "text": "Kilátóhely, ahonnan panoráma nyílik az Amblève völgyére.",
+                  "text": "Szirt, amely az Ambleve folyóra néz.",
                   "category": "natural",
                   "coords": [
                         5.722346,
@@ -3444,7 +3444,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Point de vue Drouet",
-                  "text": "Helyi kilátópont az Amblève közelében.",
+                  "text": "Drouet-kilátó az Ambleve-völgyre.",
                   "category": "natural",
                   "coords": [
                         5.747986,
@@ -3482,7 +3482,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
       "ro": [
             {
                   "name": "Château de Spirlet",
-                  "text": "Un castel situat în apropierea râului Amblève.",
+                  "text": "Un castel din secolul al XIX-lea pe râul Amblève.",
                   "category": "castle",
                   "coords": [
                         5.735593,
@@ -3491,7 +3491,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Château de Targnon",
-                  "text": "Castel istoric în regiunea râului Amblève.",
+                  "text": "Un castel din secolul al XX-lea pe râul Amblève.",
                   "category": "castle",
                   "coords": [
                         5.773997,
@@ -3500,7 +3500,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Rocher du Promontoire",
-                  "text": "Punct de belvedere cu vedere spre valea Amblève.",
+                  "text": "Promontoriu stâncos cu vedere asupra râului Amblève.",
                   "category": "natural",
                   "coords": [
                         5.722346,
@@ -3509,7 +3509,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Point de vue Drouet",
-                  "text": "Un punct de belvedere local în apropierea râului Amblève.",
+                  "text": "Punct de belvedere Drouet deasupra văii Amblève.",
                   "category": "natural",
                   "coords": [
                         5.747986,
@@ -3547,7 +3547,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
       "en": [
             {
                   "name": "Château de Spirlet",
-                  "text": "A castle located near the Amblève River.",
+                  "text": "A 19th-century castle on the Amblève River.",
                   "category": "castle",
                   "coords": [
                         5.735593,
@@ -3556,7 +3556,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Château de Targnon",
-                  "text": "Historical castle in the Amblève region.",
+                  "text": "A 20th-century castle on the Amblève River.",
                   "category": "castle",
                   "coords": [
                         5.773997,
@@ -3565,7 +3565,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Rocher du Promontoire",
-                  "text": "Viewpoint offering a panorama of the Amblève valley.",
+                  "text": "Rock promontory overlooking the Amblève River.",
                   "category": "natural",
                   "coords": [
                         5.722346,
@@ -3574,7 +3574,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
             },
             {
                   "name": "Point de vue Drouet",
-                  "text": "A local viewpoint near the Amblève River.",
+                  "text": "Drouet viewpoint over the Amblève valley.",
                   "category": "natural",
                   "coords": [
                         5.747986,
@@ -4739,7 +4739,7 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
       "de": [
             {
                   "name": "Strandreservaat IJzermonding",
-                  "text": "Strandreservat an der Mündung des Flusses Yser.",
+                  "text": "Stränderschutzgebiet an der Mündung der IJzer.",
                   "category": "recreational",
                   "coords": [
                         2.725912,
@@ -4840,7 +4840,7 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
       "hu": [
             {
                   "name": "Strandreservaat IJzermonding",
-                  "text": "Strandrezervátum az Yser folyó torkolatánál.",
+                  "text": "Strandrezervátum az IJzer folyó torkolatánál.",
                   "category": "recreational",
                   "coords": [
                         2.725912,
@@ -5234,7 +5234,7 @@ imageHint: "Lys river in the historic center of Ghent",
       "de": [
             {
                   "name": "Solwaster Dolmen",
-                  "text": "Antikes megalithisches Steingrab in der Region Hoëgne.",
+                  "text": "Dolmen (Megalithgrab) an der Hoegne.",
                   "category": "historical",
                   "coords": [
                         5.976121,
@@ -5243,7 +5243,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Anciennes Forges Le Chastelain",
-                  "text": "Archäologische Überreste einer historischen Schmiede in Belgien.",
+                  "text": "Alte Eisenhütte an der Hoegne.",
                   "category": "historical",
                   "coords": [
                         5.948382,
@@ -5261,7 +5261,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Ferme-Château de Sart Detrooz",
-                  "text": "Ein historisches befestigtes Bauernhaus und Schloss in Sart.",
+                  "text": "Ein 1750 erbautes Schlossgut an der Hoëgne.",
                   "category": "castle",
                   "coords": [
                         5.929344,
@@ -5270,7 +5270,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Château Sagehomme",
-                  "text": "Schlossgebäude im malerischen Tal der Hoëgne.",
+                  "text": "Ein 1850 erbautes Schloss an der Hoëgne.",
                   "category": "castle",
                   "coords": [
                         5.990237,
@@ -5279,7 +5279,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Château Les Clysores",
-                  "text": "Elegantes Schlossgut in der Nähe des Flusses Hoëgne.",
+                  "text": "Schloss Les Clysores von 1912 am Fluss Hoëgne, entworfen von Charles Castermans.",
                   "category": "castle",
                   "coords": [
                         5.926875,
@@ -5308,7 +5308,7 @@ imageHint: "Lys river in the historic center of Ghent",
       "hu": [
             {
                   "name": "Solwaster Dolmen",
-                  "text": "Ősi megalitikus kősír a Hoëgne régióban.",
+                  "text": "Dolmen (megalitikus sír) a Hoegne folyónál.",
                   "category": "historical",
                   "coords": [
                         5.976121,
@@ -5317,7 +5317,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Anciennes Forges Le Chastelain",
-                  "text": "Egy történelmi kovácsműhely régészeti maradványai Belgiumban.",
+                  "text": "Régi vasmű a Hoegne folyónál.",
                   "category": "historical",
                   "coords": [
                         5.948382,
@@ -5335,7 +5335,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Ferme-Château de Sart Detrooz",
-                  "text": "Történelmi erődített udvarház és kastély Sartban.",
+                  "text": "1750-ben épült várgazdaság a Hoëgne folyónál.",
                   "category": "castle",
                   "coords": [
                         5.929344,
@@ -5344,7 +5344,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Château Sagehomme",
-                  "text": "Kastélyépület a Hoëgne festői völgyében.",
+                  "text": "1850-ben épült kastély a Hoëgne folyónál.",
                   "category": "castle",
                   "coords": [
                         5.990237,
@@ -5353,7 +5353,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Château Les Clysores",
-                  "text": "Elegáns kastélybirtok a Hoëgne folyó közelében.",
+                  "text": "Les Clysores-kastély, 1912-ben épült a Hoëgne folyó mellett, Charles Castermans tervezte.",
                   "category": "castle",
                   "coords": [
                         5.926875,
@@ -5382,7 +5382,7 @@ imageHint: "Lys river in the historic center of Ghent",
       "ro": [
             {
                   "name": "Solwaster Dolmen",
-                  "text": "Mormânt megalitic antic din piatră în regiunea Hoëgne.",
+                  "text": "Dolmen (mormânt megalitic) lângă râul Hoëgne.",
                   "category": "historical",
                   "coords": [
                         5.976121,
@@ -5391,7 +5391,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Anciennes Forges Le Chastelain",
-                  "text": "Rămășițe arheologice ale unei forje istorice din Belgia.",
+                  "text": "Vechi forje (fierărie) pe râul Hoëgne.",
                   "category": "historical",
                   "coords": [
                         5.948382,
@@ -5409,7 +5409,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Ferme-Château de Sart Detrooz",
-                  "text": "O fermă fortificată istorică și castel în Sart.",
+                  "text": "Un conac-castel construit în 1750 pe râul Hoëgne.",
                   "category": "castle",
                   "coords": [
                         5.929344,
@@ -5418,7 +5418,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Château Sagehomme",
-                  "text": "Clădire de castel în valea pitorească a râului Hoëgne.",
+                  "text": "Un castel construit în 1850 pe râul Hoëgne.",
                   "category": "castle",
                   "coords": [
                         5.990237,
@@ -5427,7 +5427,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Château Les Clysores",
-                  "text": "Domeniu elegant cu castel situat lângă râul Hoëgne.",
+                  "text": "Castelul Les Clysores din 1912 pe râul Hoëgne, proiectat de Charles Castermans.",
                   "category": "castle",
                   "coords": [
                         5.926875,
@@ -5456,7 +5456,7 @@ imageHint: "Lys river in the historic center of Ghent",
       "en": [
             {
                   "name": "Solwaster Dolmen",
-                  "text": "Ancient megalithic stone tomb in the Hoëgne region.",
+                  "text": "Dolmen (megalithic tomb) on the Hoëgne River.",
                   "category": "historical",
                   "coords": [
                         5.976121,
@@ -5465,7 +5465,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Anciennes Forges Le Chastelain",
-                  "text": "Archaeological remains of a historic forge in Belgium.",
+                  "text": "Old ironworks on the Hoëgne River.",
                   "category": "historical",
                   "coords": [
                         5.948382,
@@ -5483,7 +5483,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Ferme-Château de Sart Detrooz",
-                  "text": "A historic fortified farmhouse and castle in Sart.",
+                  "text": "A 1750-built castle-farm on the Hoëgne River.",
                   "category": "castle",
                   "coords": [
                         5.929344,
@@ -5492,7 +5492,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Château Sagehomme",
-                  "text": "Castle building in the scenic Hoëgne valley.",
+                  "text": "A 1850-built castle on the Hoëgne River.",
                   "category": "castle",
                   "coords": [
                         5.990237,
@@ -5501,7 +5501,7 @@ imageHint: "Lys river in the historic center of Ghent",
             },
             {
                   "name": "Château Les Clysores",
-                  "text": "Elegant castle estate located near the Hoëgne river.",
+                  "text": "Château Les Clysores built in 1912 on the Hoëgne River, designed by Charles Castermans.",
                   "category": "castle",
                   "coords": [
                         5.926875,
@@ -5963,7 +5963,7 @@ imageHint: "Lake Genval with fountain and villas",
       "de": [
             {
                   "name": "Château de Montjardin",
-                  "text": "Ein historisches Schloss, das über dem Tal der Amblève thront.",
+                  "text": "Erbaut vor 1400 in den Remouchamps-Höhlen.",
                   "category": "castle",
                   "coords": [
                         5.711075,
@@ -5990,7 +5990,7 @@ imageHint: "Lake Genval with fountain and villas",
             },
             {
                   "name": "Château de Florzé",
-                  "text": "Ein elegantes Schlossgebäude in der Region Sprimont.",
+                  "text": "Schloss bei den Remouchamps-Höhlen.",
                   "category": "castle",
                   "coords": [
                         5.665157,
@@ -6037,7 +6037,7 @@ imageHint: "Lake Genval with fountain and villas",
       "hu": [
             {
                   "name": "Château de Montjardin",
-                  "text": "Történelmi kastély, amely az Amblève-völgy felett magasodik.",
+                  "text": "1400 előtt épült a Remouchamps-barlangoknál.",
                   "category": "castle",
                   "coords": [
                         5.711075,
@@ -6064,7 +6064,7 @@ imageHint: "Lake Genval with fountain and villas",
             },
             {
                   "name": "Château de Florzé",
-                  "text": "Elegáns kastélyépület Sprimont régiójában.",
+                  "text": "Kastély a Remouchamps-barlangoknál.",
                   "category": "castle",
                   "coords": [
                         5.665157,
@@ -6111,7 +6111,7 @@ imageHint: "Lake Genval with fountain and villas",
       "ro": [
             {
                   "name": "Château de Montjardin",
-                  "text": "Un castel istoric situat deasupra văii Amblève.",
+                  "text": "Construit înainte de 1400 pe lângă Peșterile Remouchamps.",
                   "category": "castle",
                   "coords": [
                         5.711075,
@@ -6138,7 +6138,7 @@ imageHint: "Lake Genval with fountain and villas",
             },
             {
                   "name": "Château de Florzé",
-                  "text": "O clădire elegantă de castel în regiunea Sprimont.",
+                  "text": "Castel lângă Peșterile Remouchamps.",
                   "category": "castle",
                   "coords": [
                         5.665157,
@@ -6185,7 +6185,7 @@ imageHint: "Lake Genval with fountain and villas",
       "en": [
             {
                   "name": "Château de Montjardin",
-                  "text": "A historic castle overlooking the Amblève valley.",
+                  "text": "Built before 1400 near the Remouchamps Caves.",
                   "category": "castle",
                   "coords": [
                         5.711075,
@@ -6212,7 +6212,7 @@ imageHint: "Lake Genval with fountain and villas",
             },
             {
                   "name": "Château de Florzé",
-                  "text": "An elegant castle building in the Sprimont region.",
+                  "text": "Castle near the Remouchamps Caves.",
                   "category": "castle",
                   "coords": [
                         5.665157,

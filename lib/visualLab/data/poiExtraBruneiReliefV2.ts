@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraBruneiReliefV2: POI[] = [
   {
-    id: "bukit-pagon-relief-v2",
+    id: "bukit-pagon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bukit Pagon",
+                  "text": "Als höchster Gipfel Bruneis bietet dieser markante Berg anspruchsvolle Aufstiege durch dichte Bergwälder.",
+                  "category": "natural",
+                  "coords": [
+                        115.322771,
+                        4.296209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bukit Pagon",
+                  "text": "Brunei legmagasabb csúcsaként ez a kiemelkedő hegy kihívást jelentő mászásokat kínál a sűrű hegyi erdőkön keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        115.322771,
+                        4.296209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bukit Pagon",
+                  "text": "Fiind cel mai înalt vârf din Brunei, acest munte proeminent oferă ascensiuni provocatoare prin pădurile montane dense.",
+                  "category": "natural",
+                  "coords": [
+                        115.322771,
+                        4.296209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bukit Pagon",
+                  "text": "Standing as the highest peak in Brunei, this prominent mountain offers challenging ascents through dense montane forests.",
+                  "category": "natural",
+                  "coords": [
+                        115.322771,
+                        4.296209
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BN-TE",
     coords: [115.3134, 4.2982],
@@ -213,7 +258,124 @@ export const poiExtraBruneiReliefV2: POI[] = [
     },
     factsAdvanced: { multi4: ["Elevation: approx. 1,000 meters (3,281 ft)", "Located within Ulu Temburong National Park", "Name 'Lesong' means 'mortar' in Malay", "Access is highly restricted, mainly for research", "Trek requires a multi-day expedition", "Habitat for gibbons, macaques, and hornbills", "Crucial part of the Temburong River catchment area", "Surrounded by pristine primary rainforest"] , es: [], pt: [], fr: []}, image: "/poi-images/bukit-lesong-relief-v2.webp"},
   {
-    id: "bukit-ladan-relief-v2",
+    id: "bukit-ladan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Kampong Lamunin",
+                  "text": "Eine Dorfmoschee, die den muslimischen Gläubigen in der Nähe des bewaldeten Gebiets Bukit Ladan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        114.723354,
+                        4.692816
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Bang Dalam",
+                  "text": "Eine ländliche Kultstätte, die die lokale Gemeinde in der Region Bukit Ladan versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        114.681498,
+                        4.663651
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Menengah",
+                  "text": "Eine islamische Moschee, die als religiöses Zentrum für die Gemeinde Kampong Menengah in der Nähe von Bukit Ladan fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        114.725653,
+                        4.657427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Kampong Lamunin",
+                  "text": "Falusi mecset, amely a muszlim hívőket szolgálja az erdős Bukit Ladan terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        114.723354,
+                        4.692816
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Bang Dalam",
+                  "text": "Egy vidéki istentiszteleti hely, amely a helyi közösséget gyűjti össze a Bukit Ladan régióban.",
+                  "category": "religious",
+                  "coords": [
+                        114.681498,
+                        4.663651
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Menengah",
+                  "text": "Egy iszlám mecset, amely vallási központként funkcionál a Bukit Ladan közelében fekvő Kampong Menengah közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        114.725653,
+                        4.657427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Kampong Lamunin",
+                  "text": "O moschee de sat care deservește credincioșii musulmani din apropierea zonei împădurite Bukit Ladan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.723354,
+                        4.692816
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Bang Dalam",
+                  "text": "Un lăcaș de cult rural care adună comunitatea locală din jurul regiunii Bukit Ladan.",
+                  "category": "religious",
+                  "coords": [
+                        114.681498,
+                        4.663651
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Menengah",
+                  "text": "O moschee islamică care funcționează ca un centru religios pentru comunitatea Kampong Menengah, lângă Bukit Ladan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.725653,
+                        4.657427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Kampong Lamunin",
+                  "text": "A village mosque serving the Muslim faithful near the forested Bukit Ladan area.",
+                  "category": "landmark",
+                  "coords": [
+                        114.723354,
+                        4.692816
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Bang Dalam",
+                  "text": "A rural place of worship gathering the local community around the Bukit Ladan region.",
+                  "category": "religious",
+                  "coords": [
+                        114.681498,
+                        4.663651
+                  ]
+            },
+            {
+                  "name": "Kampong Menengah Mosque",
+                  "text": "An Islamic mosque functioning as a religious hub for the Kampong Menengah community near Bukit Ladan.",
+                  "category": "landmark",
+                  "coords": [
+                        114.725653,
+                        4.657427
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BN-TU",
     coords: [114.73, 4.7],
@@ -353,7 +515,52 @@ export const poiExtraBruneiReliefV2: POI[] = [
     },
     factsAdvanced: { multi4: ["Located in Brunei-Muara District", "Also known as 'Crocodile Beach' (Pantai Buaya)", "Nickname from a crocodile-shaped rock formation", "Known for its pristine white sand", "Popular spot for fishing and watching sunsets", "Relatively secluded and undeveloped", "Near the Marine Biodiversity Centre", "Strong sea currents can be present"] , es: [], pt: [], fr: []}},
   {
-    id: "pantai-tungku-relief-v2",
+    id: "pantai-tungku-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "JIS Arts Centre",
+                  "text": "Das JIS Arts Centre ist eine moderne Kulturstätte, deren Hauptsaal für große theatralische und künstlerische Darbietungen ausgestattet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        114.882639,
+                        4.969522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "JIS Arts Centre",
+                  "text": "A JIS Művészeti Központ egy modern kulturális létesítmény, amelynek nagyterme nagy színházi és művészeti előadások lebonyolítására alkalmas.",
+                  "category": "cultural",
+                  "coords": [
+                        114.882639,
+                        4.969522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "JIS Arts Centre",
+                  "text": "Centrul de Arte JIS este o facilitate culturală modernă a cărei sală principală este echipată pentru mari spectacole teatrale și artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        114.882639,
+                        4.969522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "JIS Arts Centre",
+                  "text": "The JIS Arts Centre is a modern cultural facility whose main hall is equipped for large theatrical and artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        114.882639,
+                        4.969522
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "BN-BM",
     coords: [114.869, 4.975],
@@ -423,7 +630,52 @@ export const poiExtraBruneiReliefV2: POI[] = [
     },
     factsAdvanced: { multi4: ["Located near Muara town, Brunei-Muara District", "One of Brunei's most popular public beaches", "Features a long, wide stretch of white sand", "Fringed with Casuarina (pine-like) trees", "Well-equipped with picnic areas and playgrounds", "Generally calm waters suitable for swimming", "A popular spot for family gatherings on weekends", "Hosts a lively weekly market (pasar malam)"] , es: [], pt: [], fr: []}},
   {
-    id: "pantai-serasa-relief-v2",
+    id: "pantai-serasa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Rancangan Perumahan Negara Kg Perpindahan Serasa",
+                  "text": "Die Masjid Rancangan Perumahan Negara Kg Perpindahan Serasa ist eine Moschee für die Bewohner des Wohnbauprojekts in der Küstenregion Serasa.",
+                  "category": "landmark",
+                  "coords": [
+                        115.052238,
+                        5.003027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Rancangan Perumahan Negara Kg Perpindahan Serasa",
+                  "text": "A Masjid Rancangan Perumahan Negara Kg Perpindahan Serasa a partmenti Serasa lakásépítési projekt lakóinak mecsete.",
+                  "category": "landmark",
+                  "coords": [
+                        115.052238,
+                        5.003027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Rancangan Perumahan Negara Kg Perpindahan Serasa",
+                  "text": "Masjid Rancangan Perumahan Negara Kg Perpindahan Serasa este o moschee destinată locuitorilor din proiectul de locuințe din regiunea de coastă Serasa.",
+                  "category": "landmark",
+                  "coords": [
+                        115.052238,
+                        5.003027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Rancangan Perumahan Negara Kg Perpindahan Serasa",
+                  "text": "Masjid Rancangan Perumahan Negara Kg Perpindahan Serasa is a mosque for the residents of the housing project in the coastal region of Serasa.",
+                  "category": "landmark",
+                  "coords": [
+                        115.052238,
+                        5.003027
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "BN-BM",
     coords: [115.06, 5.006],
@@ -466,7 +718,88 @@ export const poiExtraBruneiReliefV2: POI[] = [
       fr: [],
     }, image: "/poi-images/pantai-serasa-relief-v2.webp"},
   {
-    id: "pantai-jerudong-relief-v2",
+    id: "pantai-jerudong-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pantai Jerudong",
+                  "text": "Jerudong Beach ist ein Sandstrand, der einen malerischen Blick auf die brechenden Meereswellen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        114.839104,
+                        4.955859
+                  ]
+            },
+            {
+                  "name": "Pasar Jerudong",
+                  "text": "Der Jerudong Market ist ein belebter Handelsplatz, an dem Händler täglich frische Meeresfrüchte und landwirtschaftliche Produkte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        114.840152,
+                        4.955311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pantai Jerudong",
+                  "text": "A Jerudong Beach egy homokos tengerparti szakasz, amely festői kilátást nyújt a megtörő tengeri hullámokra.",
+                  "category": "recreational",
+                  "coords": [
+                        114.839104,
+                        4.955859
+                  ]
+            },
+            {
+                  "name": "Pasar Jerudong",
+                  "text": "A Jerudong Piac egy nyüzsgő kereskedelmi központ, ahol az árusok naponta friss tenger gyümölcseit és mezőgazdasági termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        114.840152,
+                        4.955311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pantai Jerudong",
+                  "text": "Jerudong Beach este o porțiune de coastă cu nisip ce oferă vederi pitorești asupra valurilor spumoase ale oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        114.839104,
+                        4.955859
+                  ]
+            },
+            {
+                  "name": "Pasar Jerudong",
+                  "text": "Piața Jerudong este un loc comercial plin de viață, unde vânzătorii oferă zilnic fructe de mare proaspete și produse agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        114.840152,
+                        4.955311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jerudong Beach",
+                  "text": "Jerudong Beach is a stretch of sandy coastline offering scenic views of the crashing ocean waves.",
+                  "category": "recreational",
+                  "coords": [
+                        114.839104,
+                        4.955859
+                  ]
+            },
+            {
+                  "name": "Jerudong Market",
+                  "text": "Jerudong Market is a bustling commercial spot where vendors sell fresh daily seafood and agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        114.840152,
+                        4.955311
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "BN-BM",
     coords: [114.832, 4.947],
@@ -544,7 +877,160 @@ export const poiExtraBruneiReliefV2: POI[] = [
     },
     factsAdvanced: { multi4: ["Located in Tutong District", "A long and relatively undeveloped beach", "Features dramatic sandstone cliff formations", "The cliffs are a notable geological feature", "Important nesting site for sea turtles", "Less crowded than many other Brunei beaches", "A military garrison (Penanjong Garrison) is nearby", "Swimming can be dangerous due to strong surf"] , es: [], pt: [], fr: []}, image: "/poi-images/pantai-penanjong-relief-v2.webp"},
   {
-    id: "pantai-lumut-relief-v2",
+    id: "pantai-lumut-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park Tribute",
+                  "text": "Ein Gedenkpark mit monumentalen Strukturen in der Nähe der Küste von Lumut.",
+                  "category": "castle",
+                  "coords": [
+                        114.438739,
+                        4.661432
+                  ]
+            },
+            {
+                  "name": "Taman Jublee Perak Anduki",
+                  "text": "Eine weitläufige Grünanlage an der Küste, die zum silbernen Thronjubiläum des Sultans errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        114.387924,
+                        4.635018
+                  ]
+            },
+            {
+                  "name": "Lumut Lighthouse",
+                  "text": "Ein einsamer Leuchtturm, der den Schiffsverkehr vor der Küste von Brunei leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        114.408456,
+                        4.649527
+                  ]
+            },
+            {
+                  "name": "Masjid Zainab, Lumut",
+                  "text": "Ein markantes religiöses Gebäude mit einer großen Kuppel im Dorf Lumut.",
+                  "category": "landmark",
+                  "coords": [
+                        114.436466,
+                        4.655941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park Tribute",
+                  "text": "Emlékpark monumentális építményekkel Lumut tengerpartjának közelében.",
+                  "category": "castle",
+                  "coords": [
+                        114.438739,
+                        4.661432
+                  ]
+            },
+            {
+                  "name": "Taman Jublee Perak Anduki",
+                  "text": "A szultán ezüstjubileumára létrehozott tágas tengerparti pihenőpark.",
+                  "category": "landmark",
+                  "coords": [
+                        114.387924,
+                        4.635018
+                  ]
+            },
+            {
+                  "name": "Lumut Lighthouse",
+                  "text": "Magányos világítótorony, amely Brunei partjainál segíti a hajózást.",
+                  "category": "landmark",
+                  "coords": [
+                        114.408456,
+                        4.649527
+                  ]
+            },
+            {
+                  "name": "Masjid Zainab, Lumut",
+                  "text": "Lumut falu meghatározó vallási épülete nagy kupolával.",
+                  "category": "landmark",
+                  "coords": [
+                        114.436466,
+                        4.655941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park Tribute",
+                  "text": "Un parc memorial cu structuri monumentale situat lângă coasta din Lumut.",
+                  "category": "castle",
+                  "coords": [
+                        114.438739,
+                        4.661432
+                  ]
+            },
+            {
+                  "name": "Taman Jublee Perak Anduki",
+                  "text": "Un parc recreativ spațios pe coastă, creat pentru jubileul de argint al sultanului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.387924,
+                        4.635018
+                  ]
+            },
+            {
+                  "name": "Lumut Lighthouse",
+                  "text": "Un far solitar care ghidează traficul maritim în largul coastei Bruneiului.",
+                  "category": "landmark",
+                  "coords": [
+                        114.408456,
+                        4.649527
+                  ]
+            },
+            {
+                  "name": "Masjid Zainab, Lumut",
+                  "text": "O clădire religioasă proeminentă cu o cupolă mare în satul Lumut.",
+                  "category": "landmark",
+                  "coords": [
+                        114.436466,
+                        4.655941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park Tribute",
+                  "text": "A memorial park with monumental structures located near the Lumut coast.",
+                  "category": "castle",
+                  "coords": [
+                        114.438739,
+                        4.661432
+                  ]
+            },
+            {
+                  "name": "Taman Jublee Perak Anduki",
+                  "text": "A spacious coastal park established for the Sultan's silver jubilee.",
+                  "category": "landmark",
+                  "coords": [
+                        114.387924,
+                        4.635018
+                  ]
+            },
+            {
+                  "name": "Lumut Lighthouse",
+                  "text": "A solitary lighthouse guiding maritime traffic off the coast of Brunei.",
+                  "category": "landmark",
+                  "coords": [
+                        114.408456,
+                        4.649527
+                  ]
+            },
+            {
+                  "name": "Masjid Zainab, Lumut",
+                  "text": "A prominent religious building with a large dome in Lumut village.",
+                  "category": "landmark",
+                  "coords": [
+                        114.436466,
+                        4.655941
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "BN-BE",
     coords: [114.43, 4.65],
@@ -579,7 +1065,52 @@ export const poiExtraBruneiReliefV2: POI[] = [
     },
     factsAdvanced: { multi4: ["Located in Belait District, near Lumut town", "Popular recreational area for local residents", "In close proximity to the Brunei LNG (BLNG) plant", "The industrial plant is visible from the beach", "Features golden sand and a recreational park", "Maintained in part by the Liang Lumut Recreation Club (LLRC)", "Equipped with picnic huts and children's playgrounds", "A popular spot for family outings and kite flying"] , es: [], pt: [], fr: []}, image: "/poi-images/pantai-lumut-relief-v2.webp"},
   {
-    id: "pantai-berakas-relief-v2",
+    id: "pantai-berakas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Berakas Forest Reserve",
+                  "text": "Durch die Kombination von dichtem Küstenwald und einem Sandstrand bietet dieses Reservat Erholung am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        114.920631,
+                        4.99383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Berakas Forest Reserve",
+                  "text": "A sűrű tengerparti erdőt homokos stranddal ötvöző rezervátum a tenger melletti kikapcsolódást kínálja.",
+                  "category": "recreational",
+                  "coords": [
+                        114.920631,
+                        4.99383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Berakas Forest Reserve",
+                  "text": "Combinând pădurea de coastă densă cu o plajă cu nisip, această rezervație oferă recreere la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        114.920631,
+                        4.99383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Berakas Forest Reserve",
+                  "text": "Combining dense coastal forest with a sandy beachfront, this reserve offers recreation by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        114.920631,
+                        4.99383
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "BN-BM",
     coords: [114.93, 5.0],
@@ -614,7 +1145,124 @@ export const poiExtraBruneiReliefV2: POI[] = [
     },
     factsAdvanced: { multi4: ["Part of the Berakas Forest Recreation Park", "Known for its steep sandy cliffs and coastline", "Shows visible signs of significant coastal erosion", "Fallen trees are a common feature on the beach", "Not recommended for swimming due to strong surf", "Adjacent forest is a Kerangas (heath) forest type", "The park has picnic areas and walking trails", "Offers a dramatic and 'wild' coastal scenery"] , es: [], pt: [], fr: []}, image: "/poi-images/pantai-berakas-relief-v2.webp"},
   {
-    id: "bukit-tempayan-pisang-relief-v2",
+    id: "bukit-tempayan-pisang-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pulau Chermin Lighthouse",
+                  "text": "Der Leuchtturm Pulau Chermin ist eine funktionelle Navigationshilfe auf einer Insel, die den Schiffsverkehr in der Region leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        115.024113,
+                        4.933641
+                  ]
+            },
+            {
+                  "name": "Masjid Hassanal Bolkiah",
+                  "text": "Die Masjid Hassanal Bolkiah ist eine imposante islamische Moschee, die für ihr elegantes architektonisches Design und ihre geräumigen Gebetshallen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        115.030041,
+                        4.96676
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Besar",
+                  "text": "Die Moschee von Kampong Sungai Besar ist ein wichtiger religiöser Treffpunkt für die Bewohner des örtlichen Flussdorfes.",
+                  "category": "landmark",
+                  "coords": [
+                        115.019288,
+                        4.941564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pulau Chermin Lighthouse",
+                  "text": "A Pulau Chermin világítótorony egy szigeten található funkcionális navigációs segédeszköz, amely a tengeri forgalmat irányítja a térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        115.024113,
+                        4.933641
+                  ]
+            },
+            {
+                  "name": "Masjid Hassanal Bolkiah",
+                  "text": "A Masjid Hassanal Bolkiah egy impozáns iszlám mecset, amely elegáns építészeti kialakításáról és tágas imatermeiről híres.",
+                  "category": "religious",
+                  "coords": [
+                        115.030041,
+                        4.96676
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Besar",
+                  "text": "A Kampong Sungai Besar mecset a helyi folyóparti falu lakóinak fontos vallási gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        115.019288,
+                        4.941564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pulau Chermin Lighthouse",
+                  "text": "Farul Pulau Chermin este un ajutor de navigație funcțional cocoțat pe o insulă pentru a ghida traficul maritim din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.024113,
+                        4.933641
+                  ]
+            },
+            {
+                  "name": "Masjid Hassanal Bolkiah",
+                  "text": "Masjid Hassanal Bolkiah este o moschee islamică impunătoare, renumită pentru designul său arhitectural elegant și sălile de rugăciune spațioase.",
+                  "category": "religious",
+                  "coords": [
+                        115.030041,
+                        4.96676
+                  ]
+            },
+            {
+                  "name": "Masjid Kampong Sungai Besar",
+                  "text": "Moscheea Kampong Sungai Besar este un punct important de adunare religioasă pentru locuitorii satului riveran local.",
+                  "category": "landmark",
+                  "coords": [
+                        115.019288,
+                        4.941564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pulau Chermin Lighthouse",
+                  "text": "The Pulau Chermin Lighthouse is a functional navigational aid perched on an island to guide maritime traffic in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        115.024113,
+                        4.933641
+                  ]
+            },
+            {
+                  "name": "Masjid Hassanal Bolkiah",
+                  "text": "Masjid Hassanal Bolkiah is an imposing Islamic mosque renowned for its elegant architectural design and spacious prayer halls.",
+                  "category": "religious",
+                  "coords": [
+                        115.030041,
+                        4.96676
+                  ]
+            },
+            {
+                  "name": "Kampong Sungai Besar Mosque",
+                  "text": "The Kampong Sungai Besar Mosque is an important religious gathering point for the residents of the local riverine village.",
+                  "category": "landmark",
+                  "coords": [
+                        115.019288,
+                        4.941564
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BN-BM",
     coords: [115.03, 4.95],

@@ -418,7 +418,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Black Lion Museum",
-                  "text": "Das Black Lion Museum ist eine kulturelle Einrichtung in Shashamane.",
+                  "text": "Museum, das dem Widerstand der Schwarzen Löwen in Shashamane gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         38.618021,
@@ -427,7 +427,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Banana Art Gallery",
-                  "text": "Die Banana Art Gallery ist ein Kunstzentrum, das lokale Werke in Shashamane ausstellt.",
+                  "text": "Kunstgalerie mit Bananenmotiven in Shashamane.",
                   "category": "cultural",
                   "coords": [
                         38.615041,
@@ -438,7 +438,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Black Lion Museum",
-                  "text": "A Fekete Oroszlán Múzeum egy kulturális intézmény Shashamane városában.",
+                  "text": "A Fekete Oroszlánok ellenállásának szentelt múzeum Shashamane-ban.",
                   "category": "museum",
                   "coords": [
                         38.618021,
@@ -447,7 +447,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Banana Art Gallery",
-                  "text": "A Banana Art Gallery egy helyi alkotásokat bemutató művészeti központ Shashamane-ban.",
+                  "text": "Banán témájú műveket bemutató művészeti galéria Shashamane-ban.",
                   "category": "cultural",
                   "coords": [
                         38.615041,
@@ -458,7 +458,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Black Lion Museum",
-                  "text": "Muzeul Leul Negru este o instituție culturală situată în Shashamane.",
+                  "text": "Muzeu dedicat rezistenței Leilor Negri din Shashamane.",
                   "category": "museum",
                   "coords": [
                         38.618021,
@@ -467,7 +467,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Banana Art Gallery",
-                  "text": "Banana Art Gallery este un centru de artă care expune lucrări locale în Shashamane.",
+                  "text": "Galerie de artă cu lucrări cu tematică banană în Shashamane.",
                   "category": "cultural",
                   "coords": [
                         38.615041,
@@ -478,7 +478,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Black Lion Museum",
-                  "text": "The Black Lion Museum is a cultural institution located in Shashamane.",
+                  "text": "Museum dedicated to the Black Lions resistance in Shashamane.",
                   "category": "museum",
                   "coords": [
                         38.618021,
@@ -487,7 +487,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Banana Art Gallery",
-                  "text": "The Banana Art Gallery is an arts centre showcasing local works in Shashamane.",
+                  "text": "Art gallery featuring banana-themed works in Shashamane.",
                   "category": "cultural",
                   "coords": [
                         38.615041,
@@ -595,7 +595,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Paradise Lodge Pool",
-                  "text": "Der Paradise Lodge Pool ist eine Attraktion in der Stadt Arba Minch.",
+                  "text": "Pool der Paradise Lodge in Minch.",
                   "category": "landmark",
                   "coords": [
                         37.554296,
@@ -615,7 +615,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Paradise Lodge Pool",
-                  "text": "A Paradise Lodge Pool egy látványosság Arba Minch városában.",
+                  "text": "Medence a Paradise Lodge-ban Minchben.",
                   "category": "landmark",
                   "coords": [
                         37.554296,
@@ -635,7 +635,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Paradise Lodge Pool",
-                  "text": "Paradise Lodge Pool este o atracție situată în orașul Arba Minch.",
+                  "text": "Piscină la Paradise Lodge în Minch.",
                   "category": "landmark",
                   "coords": [
                         37.554296,
@@ -655,7 +655,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Paradise Lodge Pool",
-                  "text": "Paradise Lodge Pool is an attraction located in the city of Arba Minch.",
+                  "text": "Pool at Paradise Lodge in Minch.",
                   "category": "landmark",
                   "coords": [
                         37.554296,
@@ -730,7 +730,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Arsema Church",
-                  "text": "ቅድስት አርሴማ (St. Arsema) ist eine Attraktion und ein Wahrzeichen in Hosaena.",
+                  "text": "Kirche der Heiligen Arsema, ein Wahrzeichen in Hosaena.",
                   "category": "landmark",
                   "coords": [
                         37.841112,
@@ -739,7 +739,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኮለ በዛብህ ጴጥሮስ",
-                  "text": "Col Bezabih Petros ist ein lokales Denkmal in Hosaena.",
+                  "text": "Historische Stätte von Oberst Bezabih Petros in Hosaena.",
                   "category": "historical",
                   "coords": [
                         37.852501,
@@ -757,7 +757,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ዘበኛ ሠፈር",
-                  "text": "Zebegna ist ein ausgewiesener Aussichtspunkt in der Stadt Hosaena.",
+                  "text": "Naturgebiet Zebegna in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.854515,
@@ -784,7 +784,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ተይዋን",
-                  "text": "Taiwan ist ein Aussichtspunkt in der Stadt Hosaena.",
+                  "text": "Naturdenkmal Taiwan in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.852925,
@@ -793,7 +793,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኮንተም መነሓሪያ",
-                  "text": "Kontom Menaharia ist ein landschaftlich reizvoller Aussichtspunkt in Hosaena.",
+                  "text": "Naturgebiet Kontom Menaharia in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.852956,
@@ -811,7 +811,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ውሃልማት",
-                  "text": "ውሃልማት (Wuhalemat) ist ein Aussichtspunkt in der Stadt Hosaena.",
+                  "text": "Naturquelle Wahalmate in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.864046,
@@ -829,7 +829,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ናራሞ",
-                  "text": "Naramo ist ein landschaftlicher Aussichtspunkt in Hosaena.",
+                  "text": "Naturwahrzeichen Naramo in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.863853,
@@ -856,7 +856,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ጉድጓዴ ሠፈር",
-                  "text": "Gudguade ist ein malerischer Aussichtspunkt in Hosaena.",
+                  "text": "Naturgebiet Gudguade in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.848838,
@@ -874,7 +874,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "አበራ ወንዝ ሠፈር",
-                  "text": "Abera Wonz ist ein Aussichtspunkt in der Stadt Hosaena.",
+                  "text": "Fluss Abera Wonz in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.865067,
@@ -883,7 +883,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኬንቴሪ ሰፈር",
-                  "text": "Kentetia ist ein ausgewiesener Aussichtspunkt in Hosaena.",
+                  "text": "Naturstätte Kentetia in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.852971,
@@ -901,7 +901,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Projected site 0+200",
-                  "text": "Projected site 0+200 ist ein Attraktionsgelände in Hosaena.",
+                  "text": "Projektierte Stätte 0+200, eine geplante Baustelle in Hosaena.",
                   "category": "landmark",
                   "coords": [
                         37.864201,
@@ -930,7 +930,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Arsema Church",
-                  "text": "A ቅድስት አርሴማ (Szent Arsema) egy látványosság Hosaena városában.",
+                  "text": "Szent Arsema templom, egy nevezetesség Hosaenában.",
                   "category": "landmark",
                   "coords": [
                         37.841112,
@@ -939,7 +939,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኮለ በዛብህ ጴጥሮስ",
-                  "text": "A Col Bezabih Petros egy helyi emlékmű Hosaena városában.",
+                  "text": "Bezabih Petros ezredes történelmi helyszíne Hosaenában.",
                   "category": "historical",
                   "coords": [
                         37.852501,
@@ -957,7 +957,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ዘበኛ ሠፈር",
-                  "text": "A Zebegna egy kijelölt kilátópont Hosaena városában.",
+                  "text": "Zebegna természeti terület Hosaenában.",
                   "category": "natural",
                   "coords": [
                         37.854515,
@@ -984,7 +984,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ተይዋን",
-                  "text": "A Taiwan egy kilátópont Hosaena városában.",
+                  "text": "Taiwan természeti képződmény Hosaenában.",
                   "category": "natural",
                   "coords": [
                         37.852925,
@@ -993,7 +993,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኮንተም መነሓሪያ",
-                  "text": "A Kontom Menaharia egy festői kilátó Hosaena városában.",
+                  "text": "Kontom Menaharia természeti terület Hosaenában.",
                   "category": "natural",
                   "coords": [
                         37.852956,
@@ -1011,7 +1011,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ውሃልማት",
-                  "text": "A ውሃልማት (Wuhalemat) egy kilátópont Hosaena városában.",
+                  "text": "Wahalmate természetes forrás Hosaenában.",
                   "category": "natural",
                   "coords": [
                         37.864046,
@@ -1029,7 +1029,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ናራሞ",
-                  "text": "A Naramo egy festői megfigyelőpont Hosaena városában.",
+                  "text": "Naramo természeti nevezetesség Hosaenában.",
                   "category": "natural",
                   "coords": [
                         37.863853,
@@ -1056,7 +1056,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ጉድጓዴ ሠፈር",
-                  "text": "A Gudguade egy festői kilátó Hosaena városában.",
+                  "text": "Gudguade természeti terület Hosaenában.",
                   "category": "natural",
                   "coords": [
                         37.848838,
@@ -1074,7 +1074,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "አበራ ወንዝ ሠፈር",
-                  "text": "Az Abera Wonz egy kilátóhely Hosaena városában.",
+                  "text": "Abera Wonz folyó Hosaenában.",
                   "category": "natural",
                   "coords": [
                         37.865067,
@@ -1083,7 +1083,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኬንቴሪ ሰፈር",
-                  "text": "A Kentetia egy kijelölt kilátó Hosaena területén.",
+                  "text": "Kentetia természeti helyszín Hosaenában.",
                   "category": "natural",
                   "coords": [
                         37.852971,
@@ -1101,7 +1101,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Projected site 0+200",
-                  "text": "A Projected site 0+200 egy látványossági terület Hosaena városában.",
+                  "text": "Tervezett helyszín 0+200, egy tervezett építkezés Hosaenában.",
                   "category": "landmark",
                   "coords": [
                         37.864201,
@@ -1130,7 +1130,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "St. Arsema Church",
-                  "text": "ቅድስት አርሴማ (Sfânta Arsema) este o atracție situată în Hosaena.",
+                  "text": "Biserica Sfânta Arsema, un reper în Hosaena.",
                   "category": "landmark",
                   "coords": [
                         37.841112,
@@ -1139,7 +1139,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኮለ በዛብህ ጴጥሮስ",
-                  "text": "Col Bezabih Petros este un monument local situat în Hosaena.",
+                  "text": "Situl istoric al colonelului Bezabih Petros în Hosaena.",
                   "category": "historical",
                   "coords": [
                         37.852501,
@@ -1157,7 +1157,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ዘበኛ ሠፈር",
-                  "text": "Zebegna este un punct de belvedere desemnat în orașul Hosaena.",
+                  "text": "Zona naturală Zebegna în Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.854515,
@@ -1184,7 +1184,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ተይዋን",
-                  "text": "Taiwan este un punct de belvedere situat în orașul Hosaena.",
+                  "text": "Formațiunea naturală Taiwan în Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.852925,
@@ -1193,7 +1193,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኮንተም መነሓሪያ",
-                  "text": "Kontom Menaharia este un punct de belvedere pitoresc situat în Hosaena.",
+                  "text": "Zona naturală Kontom Menaharia în Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.852956,
@@ -1211,7 +1211,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ውሃልማት",
-                  "text": "ውሃልማት (Wuhalemat) este un punct de belvedere situat în orașul Hosaena.",
+                  "text": "Izvorul natural Wahalmate în Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.864046,
@@ -1229,7 +1229,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ናራሞ",
-                  "text": "Naramo este un punct de observație pitoresc situat în Hosaena.",
+                  "text": "Reper natural Naramo în Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.863853,
@@ -1256,7 +1256,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ጉድጓዴ ሠፈር",
-                  "text": "Gudguade este un punct de belvedere pitoresc situat în Hosaena.",
+                  "text": "Zona naturală Gudguade în Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.848838,
@@ -1274,7 +1274,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "አበራ ወንዝ ሠፈር",
-                  "text": "Abera Wonz este o zonă de belvedere situată în orașul Hosaena.",
+                  "text": "Râul Abera Wonz în Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.865067,
@@ -1283,7 +1283,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኬንቴሪ ሰፈር",
-                  "text": "Kentetia este un punct de belvedere situat în Hosaena.",
+                  "text": "Situl natural Kentetia în Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.852971,
@@ -1301,7 +1301,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Projected site 0+200",
-                  "text": "Projected site 0+200 este o zonă de atracție situată în Hosaena.",
+                  "text": "Situl proiectat 0+200, o construcție planificată în Hosaena.",
                   "category": "landmark",
                   "coords": [
                         37.864201,
@@ -1330,7 +1330,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ቅድስት አርሴማ",
-                  "text": "ቅድስት አርሴማ (St. Arsema) is an attraction and prominent landmark in Hosaena.",
+                  "text": "Saint Arsema Church, a landmark in Hosaena.",
                   "category": "landmark",
                   "coords": [
                         37.841112,
@@ -1339,7 +1339,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Col Bezabih Petros",
-                  "text": "Col Bezabih Petros is a local monument found in Hosaena.",
+                  "text": "Colonel Bezabih Petros historical site in Hosaena.",
                   "category": "historical",
                   "coords": [
                         37.852501,
@@ -1357,7 +1357,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Zebegna",
-                  "text": "Zebegna is a designated viewpoint located in the city of Hosaena.",
+                  "text": "Zebegna natural area in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.854515,
@@ -1384,7 +1384,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Taiwan",
-                  "text": "Taiwan is a designated viewpoint located in the city of Hosaena.",
+                  "text": "Taiwan natural feature in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.852925,
@@ -1393,7 +1393,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kontom Menaharia",
-                  "text": "Kontom Menaharia is a scenic viewpoint positioned in Hosaena.",
+                  "text": "Kontom Menaharia natural area in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.852956,
@@ -1411,7 +1411,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ውሃልማት",
-                  "text": "ውሃልማት (Wuhalemat) is a viewpoint situated in the city of Hosaena.",
+                  "text": "Wahalmate natural spring in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.864046,
@@ -1429,7 +1429,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Naramo",
-                  "text": "Naramo is a scenic observation viewpoint located in Hosaena.",
+                  "text": "Naramo natural landmark in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.863853,
@@ -1456,7 +1456,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Gudguade",
-                  "text": "Gudguade is a scenic viewpoint situated in Hosaena.",
+                  "text": "Gudguade natural area in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.848838,
@@ -1474,7 +1474,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Abera Wonz",
-                  "text": "Abera Wonz is a viewpoint area located in the city of Hosaena.",
+                  "text": "Abera Wonz river in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.865067,
@@ -1483,7 +1483,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Kentetia",
-                  "text": "Kentetia is a designated viewpoint situated within Hosaena.",
+                  "text": "Kentetia natural site in Hosaena.",
                   "category": "natural",
                   "coords": [
                         37.852971,
@@ -1501,7 +1501,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Projected site 0+200",
-                  "text": "Projected site 0+200 is an attraction site located in Hosaena.",
+                  "text": "Projected site 0+200, a planned construction in Hosaena.",
                   "category": "landmark",
                   "coords": [
                         37.864201,
@@ -1585,7 +1585,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "wollega Museum",
-                  "text": "Das Wollega Museum ist eine kulturelle Einrichtung in der Stadt Nekemte.",
+                  "text": "Wollega-Museum in Nekemte, das die Regionalgeschichte zeigt.",
                   "category": "museum",
                   "coords": [
                         36.546887,
@@ -1596,7 +1596,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "wollega Museum",
-                  "text": "A Wollega Múzeum egy kulturális intézmény Nekemte városában.",
+                  "text": "Wollega Múzeum Nekemtében, a regionális történelem bemutatása.",
                   "category": "museum",
                   "coords": [
                         36.546887,
@@ -1607,7 +1607,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "wollega Museum",
-                  "text": "Muzeul Wollega este o instituție culturală situată în orașul Nekemte.",
+                  "text": "Muzeul Wollega din Nekemte, care prezintă istoria regională.",
                   "category": "museum",
                   "coords": [
                         36.546887,
@@ -1618,7 +1618,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "wollega Museum",
-                  "text": "Wollega Museum is a cultural institution situated in the city of Nekemte.",
+                  "text": "Wollega Museum in Nekemte, showcasing regional history.",
                   "category": "museum",
                   "coords": [
                         36.546887,
@@ -1783,7 +1783,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ደ/ብርሀን ኢድ አደባባይ",
-                  "text": "Die Debrebirhan Eid Street ist eine lokale Attraktion in Debre Birhan.",
+                  "text": "Debrebirhan-Eid-Straße, eine Hauptstraße in Birhan.",
                   "category": "landmark",
                   "coords": [
                         39.52685,
@@ -1794,7 +1794,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ደ/ብርሀን ኢድ አደባባይ",
-                  "text": "A Debrebirhan Eid Street egy helyi látványosság Debre Birhan városában.",
+                  "text": "Debrebirhan Eid utca, egy főút Birhanban.",
                   "category": "landmark",
                   "coords": [
                         39.52685,
@@ -1805,7 +1805,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ደ/ብርሀን ኢድ አደባባይ",
-                  "text": "Debrebirhan Eid Street este o atracție locală situată în Debre Birhan.",
+                  "text": "Strada Debrebirhan Eid, un drum principal în Birhan.",
                   "category": "landmark",
                   "coords": [
                         39.52685,
@@ -1816,7 +1816,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Debrebirhan Eid Street",
-                  "text": "Debrebirhan Eid Street is a local attraction located in Debre Birhan.",
+                  "text": "Debrebirhan Eid Street, a major road in Birhan.",
                   "category": "landmark",
                   "coords": [
                         39.52685,
@@ -2008,7 +2008,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Hahu hitel 250",
-                  "text": "Das Hahu Hotel ist eine bekannte Attraktion im Gastgewerbe von Adigrat.",
+                  "text": "Hahu Hotel, ein bekanntes Wahrzeichen in Adigrat.",
                   "category": "landmark",
                   "coords": [
                         39.462553,
@@ -2017,7 +2017,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኒው ሚሌኒየም ፓርክ New Millennium Park",
-                  "text": "Der New Millennium Park ist eine öffentliche Freizeitattraktion in Adigrat.",
+                  "text": "New Millennium Park in Adigrat.",
                   "category": "landmark",
                   "coords": [
                         39.472656,
@@ -2028,7 +2028,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Hahu hitel 250",
-                  "text": "A Hahu Hotel egy kiemelkedő vendéglátóipari látványosság Adigratban.",
+                  "text": "Hahu Hotel, egy nevezetes épület Adigratban.",
                   "category": "landmark",
                   "coords": [
                         39.462553,
@@ -2037,7 +2037,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኒው ሚሌኒየም ፓርክ New Millennium Park",
-                  "text": "A New Millennium Park egy nyilvános rekreációs látványosság Adigrat városában.",
+                  "text": "New Millennium Park Adigratban.",
                   "category": "landmark",
                   "coords": [
                         39.472656,
@@ -2048,7 +2048,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Hahu hitel 250",
-                  "text": "Hotelul Hahu este o atracție proeminentă din domeniul ospitalității situată în Adigrat.",
+                  "text": "Hotelul Hahu, un reper notabil în Adigrat.",
                   "category": "landmark",
                   "coords": [
                         39.462553,
@@ -2057,7 +2057,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኒው ሚሌኒየም ፓርክ New Millennium Park",
-                  "text": "Parcul New Millennium este o atracție recreativă publică situată în Adigrat.",
+                  "text": "Parcul New Millennium în Adigrat.",
                   "category": "landmark",
                   "coords": [
                         39.472656,
@@ -2068,7 +2068,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hahu Hotel",
-                  "text": "Hahu Hotel is a prominent hospitality attraction situated in Adigrat.",
+                  "text": "Hahu Hotel, a notable landmark in Adigrat.",
                   "category": "landmark",
                   "coords": [
                         39.462553,
@@ -2077,7 +2077,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "ኒው ሚሌኒየም ፓርክ New Millennium Park",
-                  "text": "New Millennium Park is a public recreational attraction located in Adigrat.",
+                  "text": "New Millennium Park in Adigrat.",
                   "category": "landmark",
                   "coords": [
                         39.472656,
@@ -2233,7 +2233,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ሓየሎም ኣደባባይ",
-                  "text": "Hayelom Adebabay ist ein Denkmal in der Stadt Shire.",
+                  "text": "Historische Stätte Hayelom Adebabay in Shire.",
                   "category": "historical",
                   "coords": [
                         38.283575,
@@ -2244,7 +2244,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ሓየሎም ኣደባባይ",
-                  "text": "A Hayelom Adebabay egy emlékmű Shire városában.",
+                  "text": "Hayelom Adebabay történelmi helyszín Shire-ben.",
                   "category": "historical",
                   "coords": [
                         38.283575,
@@ -2255,7 +2255,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ሓየሎም ኣደባባይ",
-                  "text": "Hayelom Adebabay este un monument situat în orașul Shire.",
+                  "text": "Situl istoric Hayelom Adebabay în Shire.",
                   "category": "historical",
                   "coords": [
                         38.283575,
@@ -2266,7 +2266,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Hayelom Adebabay",
-                  "text": "Hayelom Adebabay is a monument situated in the city of Shire.",
+                  "text": "Hayelom Adebabay historical site in Shire.",
                   "category": "historical",
                   "coords": [
                         38.283575,
@@ -2686,7 +2686,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Dieses Restaurant",
-                  "text": "Dieses Restaurant ist eine kulinarische Attraktion in der Stadt Batu.",
+                  "text": "Dieses Restaurant, ein lokales Lokal in Ziway.",
                   "category": "landmark",
                   "coords": [
                         38.714436,
@@ -2697,7 +2697,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Prift Restaurant",
-                  "text": "Ez az étterem egy gasztronómiai látványosság Batu városában.",
+                  "text": "Ez az étterem, egy helyi vendéglő Ziwayben.",
                   "category": "landmark",
                   "coords": [
                         38.714436,
@@ -2708,7 +2708,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Acest restaurant",
-                  "text": "Acest restaurant este o atracție culinară situată în orașul Batu.",
+                  "text": "Acest restaurant, o mâncătorie locală în Ziway.",
                   "category": "landmark",
                   "coords": [
                         38.714436,
@@ -2719,7 +2719,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "This restaurant",
-                  "text": "This restaurant is a dining attraction located in the city of Batu.",
+                  "text": "This restaurant, a local eatery in Ziway.",
                   "category": "landmark",
                   "coords": [
                         38.714436,
@@ -3127,7 +3127,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Zonal Administrator House ",
-                  "text": "Das Zonal Administrator House ist ein bemerkenswertes schlossähnliches Gebäude in Gode.",
+                  "text": "Zonal Administrator House, ein schlossähnliches Gebäude in Gode.",
                   "category": "castle",
                   "coords": [
                         43.551626,
@@ -3136,7 +3136,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "waterhole",
-                  "text": "Das Wasserloch ist eine Naturattraktion in der Gegend von Gode.",
+                  "text": "Wasserloch in Gode, ein natürlicher Tränke.",
                   "category": "landmark",
                   "coords": [
                         43.540322,
@@ -3145,7 +3145,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge",
-                  "text": "Die Brücke ist eine lokale Sehenswürdigkeit in Gode.",
+                  "text": "Brücke über den Fluss in Gode.",
                   "category": "landmark",
                   "coords": [
                         43.550908,
@@ -3156,7 +3156,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Zonal Administrator House ",
-                  "text": "A Zonal Administrator House egy jelentős kastély jellegű épület Gode városában.",
+                  "text": "Zonal Administrator House, egy kastélyszerű épület Godéban.",
                   "category": "castle",
                   "coords": [
                         43.551626,
@@ -3165,7 +3165,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "waterhole",
-                  "text": "A vizes élőhely (waterhole) egy látványosság Gode térségében.",
+                  "text": "Vízlyuk Godéban, egy természetes itató.",
                   "category": "landmark",
                   "coords": [
                         43.540322,
@@ -3174,7 +3174,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge",
-                  "text": "A híd egy helyi látványosság Gode városában.",
+                  "text": "Híd a folyón Godéban.",
                   "category": "landmark",
                   "coords": [
                         43.550908,
@@ -3185,7 +3185,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Zonal Administrator House ",
-                  "text": "Zonal Administrator House este o clădire notabilă în stil de castel situată în Gode.",
+                  "text": "Casa Administratorului Zonal, o clădire asemănătoare unui castel în Gode.",
                   "category": "castle",
                   "coords": [
                         43.551626,
@@ -3194,7 +3194,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "waterhole",
-                  "text": "Ochiul de apă (waterhole) este o atracție situată în zona Gode.",
+                  "text": "Adăpătoare naturală în Gode.",
                   "category": "landmark",
                   "coords": [
                         43.540322,
@@ -3203,7 +3203,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge",
-                  "text": "Podul este o atracție locală situată în Gode.",
+                  "text": "Pod peste râu în Gode.",
                   "category": "landmark",
                   "coords": [
                         43.550908,
@@ -3214,7 +3214,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Zonal Administrator House ",
-                  "text": "The Zonal Administrator House is a notable castle-style building located in Gode.",
+                  "text": "Zonal Administrator House, a castle-like building in Gode.",
                   "category": "castle",
                   "coords": [
                         43.551626,
@@ -3223,7 +3223,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "waterhole",
-                  "text": "The waterhole is an attraction situated in the area of Gode.",
+                  "text": "Waterhole in Gode, a natural watering point.",
                   "category": "landmark",
                   "coords": [
                         43.540322,
@@ -3232,7 +3232,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Bridge",
-                  "text": "The Bridge is a local infrastructural attraction found in Gode.",
+                  "text": "Bridge over the river in Gode.",
                   "category": "landmark",
                   "coords": [
                         43.550908,
@@ -3352,7 +3352,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Talaalaha",
-                  "text": "Talaalaha ist eine Touristenattraktion in der Stadt Warder.",
+                  "text": "Wahrzeichen Talaalaha in Warder.",
                   "category": "landmark",
                   "coords": [
                         45.34181,
@@ -3361,7 +3361,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Qudhacle ",
-                  "text": "Qudhacle ist eine Sehenswürdigkeit in Warder.",
+                  "text": "Das Qudhacle ist ein Wahrzeichen im Ortskern von Warder, bekannt für seine markante Silhouette.",
                   "category": "landmark",
                   "coords": [
                         45.337609,
@@ -3372,7 +3372,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Talaalaha",
-                  "text": "A Talaalaha egy turisztikai látványosság Warder városában.",
+                  "text": "Talaalaha nevezetesség Warderben.",
                   "category": "landmark",
                   "coords": [
                         45.34181,
@@ -3381,7 +3381,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Qudhacle ",
-                  "text": "A Qudhacle egy látványosság Warder városában.",
+                  "text": "A Qudhacle egy nevezetesség Warder városközpontjában, jellegzetes formájáról ismert.",
                   "category": "landmark",
                   "coords": [
                         45.337609,
@@ -3392,7 +3392,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Talaalaha",
-                  "text": "Talaalaha este o atracție turistică situată în orașul Warder.",
+                  "text": "Reperul Talaalaha în Warder.",
                   "category": "landmark",
                   "coords": [
                         45.34181,
@@ -3401,7 +3401,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Qudhacle ",
-                  "text": "Qudhacle este o atracție situată în Warder.",
+                  "text": "Qudhacle este un reper în centrul orașului Warder, cunoscut pentru silueta sa distinctivă.",
                   "category": "landmark",
                   "coords": [
                         45.337609,
@@ -3412,7 +3412,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Talaalaha",
-                  "text": "Talaalaha is a tourist attraction located in the city of Warder.",
+                  "text": "Talaalaha landmark in Warder.",
                   "category": "landmark",
                   "coords": [
                         45.34181,
@@ -3421,7 +3421,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
             },
             {
                   "name": "Qudhacle ",
-                  "text": "Qudhacle is a point of interest and attraction situated in Warder.",
+                  "text": "Qudhacle is a landmark in the town center of Warder, known for its distinctive silhouette.",
                   "category": "landmark",
                   "coords": [
                         45.337609,

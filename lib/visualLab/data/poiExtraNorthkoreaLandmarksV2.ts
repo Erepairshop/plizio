@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraNorthkoreaLandmarksV2: POI[] = [
   {
-    id: "juche-tower-landmarks-v2",
+    id: "juche-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Juche Tower",
+                  "text": "Der am 15. April 1982 eingeweihte Juche-Turm ist ein ikonisches Denkmal, das die Skyline der Stadt dominiert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.763594,
+                        39.017636
+                  ]
+            },
+            {
+                  "name": "Taedong Bridge",
+                  "text": "Die Taedong-Brücke ist eine stählerne Bogenbrücke, die den Fluss überspannt, um den städtischen Verkehr zu erleichtern.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757585,
+                        39.012116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Juche Tower",
+                  "text": "Az 1982. április 15-én felavatott Dzsucse-torony egy ikonikus emlékmű, amely uralja a város látképét.",
+                  "category": "landmark",
+                  "coords": [
+                        125.763594,
+                        39.017636
+                  ]
+            },
+            {
+                  "name": "Taedong Bridge",
+                  "text": "A Tedong híd egy acél ívhíd, amely a folyón ível át a városi forgalom megkönnyítése érdekében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757585,
+                        39.012116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Juche Tower",
+                  "text": "Inaugurat la 15 aprilie 1982, Turnul Juche este un monument iconic care domină orizontul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.763594,
+                        39.017636
+                  ]
+            },
+            {
+                  "name": "Taedong Bridge",
+                  "text": "Podul Taedong este un pod cu arc din oțel care traversează râul pentru a facilita traficul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757585,
+                        39.012116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Juche Tower",
+                  "text": "Inaugurated on April 15, 1982, the Juche Tower is an iconic monument dominating the city's skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        125.763594,
+                        39.017636
+                  ]
+            },
+            {
+                  "name": "Taedong Bridge",
+                  "text": "The Taedong Bridge is a steel arch bridge spanning the river to facilitate urban traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757585,
+                        39.012116
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-01",
     coords: [125.7633, 39.0181],
@@ -51,7 +132,484 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Elle a été inaugurée en 1982 pour le 70e anniversaire de Kim Il-sung.", "Elle se compose de 25 550 blocs de granit, un pour chaque jour de la vie de Kim Il-sung jusqu'à son 70e anniversaire."],
     }, image: "/poi-images/juche-tower-landmarks-v2.webp"},
   {
-    id: "arch-of-triumph-pyongyang-landmarks-v2",
+    id: "arch-of-triumph-pyongyang-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tolbak-san",
+                  "text": "Ein kleiner Gipfel in der Nähe des Triumphbogens, der eine ruhige grüne Kulisse für das monumentale Stadtzentrum bildet.",
+                  "category": "natural",
+                  "coords": [
+                        125.742501,
+                        39.080047
+                  ]
+            },
+            {
+                  "name": "Turm der Unsterblichkeit",
+                  "text": "Ein hoher Steinobelisk, der Kim Il-sung gewidmet ist und Inschriften trägt, die das dauerhafte Erbe des Führers feiern.",
+                  "category": "historical",
+                  "coords": [
+                        125.754786,
+                        39.058491
+                  ]
+            },
+            {
+                  "name": "Inertia Flight Vehicle",
+                  "text": "Ein Hochgeschwindigkeits-Fahrgeschäft im Kaeson-Jugendpark, das durch schnelle Rotation Fliehkräfte beim Fliegen simuliert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759244,
+                        39.048442
+                  ]
+            },
+            {
+                  "name": "Dive Tower",
+                  "text": "Ein beliebtes Freifall-Fahrgeschäft im Kaeson-Vergnügungspark, das für vertikalen Nervenkitzel sorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757516,
+                        39.047883
+                  ]
+            },
+            {
+                  "name": "Track Turntable",
+                  "text": "Dieses mechanische Fahrgeschäft bietet kreisförmige Bewegungen auf einer festen Schiene und sorgt für ein rhythmisches Erlebnis.",
+                  "category": "landmark",
+                  "coords": [
+                        125.756334,
+                        39.047638
+                  ]
+            },
+            {
+                  "name": "Arch of Triumph",
+                  "text": "Dieser 1982 eingeweihte, massive Steinbau ist höher als sein Pariser Vorbild und ehrt den Widerstand gegen Japan.",
+                  "category": "landmark",
+                  "coords": [
+                        125.753186,
+                        39.044676
+                  ]
+            },
+            {
+                  "name": "Revolutionary History Museum",
+                  "text": "Dieses Museum konzentriert sich auf den Partisanenkampf gegen die japanische Herrschaft und die sozialistische Entwicklung der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        125.766692,
+                        39.05789
+                  ]
+            },
+            {
+                  "name": "Pyongyang Metro Museum",
+                  "text": "Ein spezialisiertes Museum, das die komplexe Technik und den tiefen Bau des unterirdischen Eisenbahnnetzes der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        125.755716,
+                        39.057941
+                  ]
+            },
+            {
+                  "name": "Sino-Korean Friendship Tower",
+                  "text": "Dieses 1959 errichtete Monument erinnert an die chinesischen Freiwilligen, die im Konflikt der 1950er Jahre an der Seite Nordkoreas kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        125.755924,
+                        39.050955
+                  ]
+            },
+            {
+                  "name": "Jonsung Revolutionary Museum",
+                  "text": "In einem ehemaligen militärischen Kommandoposten untergebracht, zeigt dieses Museum die strategische Führung während des Koreakriegs.",
+                  "category": "museum",
+                  "coords": [
+                        125.758623,
+                        39.053327
+                  ]
+            },
+            {
+                  "name": "Autograph of President Kim Il Sung Triumphal Return Speech",
+                  "text": "Dieses Steindenkmal ist mit der Kalligraphie des Führers aus seiner historischen Rede nach der Rückkehr nach Pjöngjang graviert.",
+                  "category": "historical",
+                  "coords": [
+                        125.755234,
+                        39.047496
+                  ]
+            },
+            {
+                  "name": "Pipa Bridge",
+                  "text": "Eine wichtige Verkehrsbrücke, die städtische Korridore überspannt und den Verkehrsfluss zwischen Kaeson und Ryongsong erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.741457,
+                        39.05051
+                  ]
+            },
+            {
+                  "name": "Revolutionary Museum of the Ministry of the People's Armed Forces",
+                  "text": "Dieses weitläufige Museum zeigt die Militärgeschichte, Taktik und Ausrüstung der Koreanischen Volksarmee.",
+                  "category": "museum",
+                  "coords": [
+                        125.741615,
+                        39.059287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tolbak-san",
+                  "text": "Egy kis hegycsúcs a Diadalív közelében, amely csendes, zöld hátteret biztosít a város monumentális központjának.",
+                  "category": "natural",
+                  "coords": [
+                        125.742501,
+                        39.080047
+                  ]
+            },
+            {
+                  "name": "Tower of Eternal Life",
+                  "text": "Egy magas kőobeliszk, amelyet Kim Ir Szennek szenteltek, és a vezető örök hagyatékát dicsőítő feliratok díszítik.",
+                  "category": "historical",
+                  "coords": [
+                        125.754786,
+                        39.058491
+                  ]
+            },
+            {
+                  "name": "Inertia Flight Vehicle",
+                  "text": "Gyorsasági attrakció a Keszon Ifjúsági Parkban, amely forgó mozgással szimulálja a repülés közbeni centrifugális erőket.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759244,
+                        39.048442
+                  ]
+            },
+            {
+                  "name": "Dive Tower",
+                  "text": "Népszerű szabadesés-torony a Keszon vidámparkban, amelyet a függőleges izgalmak kedvelőinek terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757516,
+                        39.047883
+                  ]
+            },
+            {
+                  "name": "Track Turntable",
+                  "text": "Ez a mechanikus játék rögzített pályán végzett körkörös mozgással nyújt ritmikus élményt a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.756334,
+                        39.047638
+                  ]
+            },
+            {
+                  "name": "Arch of Triumph",
+                  "text": "Az 1982-ben felavatott masszív kőépítmény magasabb párizsi mintájánál, és a Japán elleni ellenállásnak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        125.753186,
+                        39.044676
+                  ]
+            },
+            {
+                  "name": "Revolutionary History Museum",
+                  "text": "Ez a múzeum a japán uralom elleni partizánharcra és a város háború utáni szocialista fejlődésére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        125.766692,
+                        39.05789
+                  ]
+            },
+            {
+                  "name": "Pyongyang Metro Museum",
+                  "text": "Speciális múzeum, amely a város földalatti vasúthálózatának összetett mérnöki munkáit és mélyépítését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        125.755716,
+                        39.057941
+                  ]
+            },
+            {
+                  "name": "Sino-Korean Friendship Tower",
+                  "text": "Az 1959-ben épült emlékmű azokra a kínai önkéntesekre emlékeztet, akik az 1950-es évek konfliktusa során Észak-Korea oldalán harcoltak.",
+                  "category": "historical",
+                  "coords": [
+                        125.755924,
+                        39.050955
+                  ]
+            },
+            {
+                  "name": "Jonsung Revolutionary Museum",
+                  "text": "Egy egykori katonai parancsnokságon található múzeum, amely a koreai háború alatti stratégiai vezetést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.758623,
+                        39.053327
+                  ]
+            },
+            {
+                  "name": "Autograph of President Kim Il Sung Triumphal Return Speech",
+                  "text": "Ez a kőemlékmű a vezető saját kalligráfiáját őrzi abból a történelmi beszédből, amelyet Phenjanba való visszatérésekor mondott.",
+                  "category": "historical",
+                  "coords": [
+                        125.755234,
+                        39.047496
+                  ]
+            },
+            {
+                  "name": "Pipa Bridge",
+                  "text": "Jelentős közlekedési híd, amely városi folyosókat ível át, segítve a forgalmat a Keszon és Rjongszong negyedek között.",
+                  "category": "landmark",
+                  "coords": [
+                        125.741457,
+                        39.05051
+                  ]
+            },
+            {
+                  "name": "Revolutionary Museum of the Ministry of the People's Armed Forces",
+                  "text": "Ez a kiterjedt múzeum a Koreai Néphadsereg katonai történelmét, taktikáját és haditechnikáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.741615,
+                        39.059287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tolbak-san",
+                  "text": "Un vârf mic lângă Arcul de Triumf care oferă un fundal verde liniștit nucleului urban monumental al orașului.",
+                  "category": "natural",
+                  "coords": [
+                        125.742501,
+                        39.080047
+                  ]
+            },
+            {
+                  "name": "Tower of Eternal Life",
+                  "text": "Un obelisc înalt de piatră dedicat lui Kim Il Sung, cu inscripții care celebrează moștenirea durabilă a liderului.",
+                  "category": "historical",
+                  "coords": [
+                        125.754786,
+                        39.058491
+                  ]
+            },
+            {
+                  "name": "Inertia Flight Vehicle",
+                  "text": "O cursă palpitantă de mare viteză în Parcul Tineretului Kaeson, care folosește rotația rapidă pentru a simula forțele centrifuge.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759244,
+                        39.048442
+                  ]
+            },
+            {
+                  "name": "Dive Tower",
+                  "text": "O cursă populară de tip turn de cădere liberă situată în zona de distracții Kaeson, concepută pentru senzații tari pe verticală.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757516,
+                        39.047883
+                  ]
+            },
+            {
+                  "name": "Track Turntable",
+                  "text": "Această cursă mecanică prezintă o mișcare circulară de-a lungul unei piste fixe, oferind o experiență ritmică vizitatorilor parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.756334,
+                        39.047638
+                  ]
+            },
+            {
+                  "name": "Arch of Triumph",
+                  "text": "Inaugurată în 1982, această structură masivă de piatră este mai înaltă decât modelul său din Paris și onorează rezistența împotriva Japoniei.",
+                  "category": "landmark",
+                  "coords": [
+                        125.753186,
+                        39.044676
+                  ]
+            },
+            {
+                  "name": "Revolutionary History Museum",
+                  "text": "Acest muzeu se concentrează pe lupta de partizani împotriva stăpânirii japoneze și pe dezvoltarea socialistă a orașului de după război.",
+                  "category": "museum",
+                  "coords": [
+                        125.766692,
+                        39.05789
+                  ]
+            },
+            {
+                  "name": "Pyongyang Metro Museum",
+                  "text": "Un muzeu specializat care documentează ingineria complexă și construcția de mare adâncime a rețelei feroviare subterane a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        125.755716,
+                        39.057941
+                  ]
+            },
+            {
+                  "name": "Sino-Korean Friendship Tower",
+                  "text": "Construit în 1959, acest monument îi comemorează pe voluntarii chinezi care au luptat alături de Coreea de Nord în timpul conflictului din anii 1950.",
+                  "category": "historical",
+                  "coords": [
+                        125.755924,
+                        39.050955
+                  ]
+            },
+            {
+                  "name": "Jonsung Revolutionary Museum",
+                  "text": "Situat într-un fost post de comandă militar, acest muzeu detaliază conducerea strategică din timpul Războiului din Coreea.",
+                  "category": "museum",
+                  "coords": [
+                        125.758623,
+                        39.053327
+                  ]
+            },
+            {
+                  "name": "Autograph of President Kim Il Sung Triumphal Return Speech",
+                  "text": "Acest monument de piatră este gravat cu caligrafia proprie a liderului din discursul său istoric susținut la întoarcerea în Phenian.",
+                  "category": "historical",
+                  "coords": [
+                        125.755234,
+                        39.047496
+                  ]
+            },
+            {
+                  "name": "Pipa Bridge",
+                  "text": "Un pod de transport major care traversează coridoarele urbane, facilitând fluxul de trafic între zonele Kaeson și Ryongsong.",
+                  "category": "landmark",
+                  "coords": [
+                        125.741457,
+                        39.05051
+                  ]
+            },
+            {
+                  "name": "Revolutionary Museum of the Ministry of the People's Armed Forces",
+                  "text": "Acest muzeu vast expune istoria militară, tacticile și echipamentele Armatei Populare Coreene.",
+                  "category": "museum",
+                  "coords": [
+                        125.741615,
+                        39.059287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tolbak-san",
+                  "text": "A small peak near the Arch of Triumph that provides a quiet green backdrop to the city's monumental urban core.",
+                  "category": "natural",
+                  "coords": [
+                        125.742501,
+                        39.080047
+                  ]
+            },
+            {
+                  "name": "Tower of Eternal Life",
+                  "text": "A towering stone obelisk dedicated to Kim Il Sung, featuring inscriptions that celebrate the leader's lasting legacy.",
+                  "category": "historical",
+                  "coords": [
+                        125.754786,
+                        39.058491
+                  ]
+            },
+            {
+                  "name": "Inertia Flight Vehicle",
+                  "text": "A high-speed thrill ride in the Kaeson Youth Park that uses rapid rotation to simulate centrifugal flight forces.",
+                  "category": "landmark",
+                  "coords": [
+                        125.759244,
+                        39.048442
+                  ]
+            },
+            {
+                  "name": "Dive Tower",
+                  "text": "A popular drop-tower ride located within the Kaeson amusement zone, designed for vertical thrill-seeking.",
+                  "category": "landmark",
+                  "coords": [
+                        125.757516,
+                        39.047883
+                  ]
+            },
+            {
+                  "name": "Track Turntable",
+                  "text": "This mechanical ride features circular motion along a fixed track, providing a rhythmic experience for park visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        125.756334,
+                        39.047638
+                  ]
+            },
+            {
+                  "name": "Arch of Triumph",
+                  "text": "Inaugurated in 1982, this massive stone structure is taller than its Paris model and honors the resistance against Japan.",
+                  "category": "landmark",
+                  "coords": [
+                        125.753186,
+                        39.044676
+                  ]
+            },
+            {
+                  "name": "Revolutionary History Museum",
+                  "text": "This museum focuses on the partisan struggle against Japanese rule and the city's post-war socialist development.",
+                  "category": "museum",
+                  "coords": [
+                        125.766692,
+                        39.05789
+                  ]
+            },
+            {
+                  "name": "Pyongyang Metro Museum",
+                  "text": "A specialized museum documenting the complex engineering and deep construction of the city's underground railway network.",
+                  "category": "museum",
+                  "coords": [
+                        125.755716,
+                        39.057941
+                  ]
+            },
+            {
+                  "name": "Sino-Korean Friendship Tower",
+                  "text": "Built in 1959, this monument commemorates the Chinese volunteers who fought alongside North Korea during the 1950s conflict.",
+                  "category": "historical",
+                  "coords": [
+                        125.755924,
+                        39.050955
+                  ]
+            },
+            {
+                  "name": "Jonsung Revolutionary Museum",
+                  "text": "Located in a former military command post, this museum details the strategic leadership during the Korean War.",
+                  "category": "museum",
+                  "coords": [
+                        125.758623,
+                        39.053327
+                  ]
+            },
+            {
+                  "name": "Autograph of President Kim Il Sung Triumphal Return Speech",
+                  "text": "This stone monument is engraved with the leader's own calligraphy from his historic speech upon returning to Pyongyang.",
+                  "category": "historical",
+                  "coords": [
+                        125.755234,
+                        39.047496
+                  ]
+            },
+            {
+                  "name": "Pipa Bridge",
+                  "text": "A major transport bridge that spans urban corridors, facilitating traffic flow between the Kaeson and Ryongsong areas.",
+                  "category": "landmark",
+                  "coords": [
+                        125.741457,
+                        39.05051
+                  ]
+            },
+            {
+                  "name": "Revolutionary Museum of the Ministry of the People's Armed Forces",
+                  "text": "This expansive museum displays the military history, tactics, and hardware of the Korean People's Army.",
+                  "category": "museum",
+                  "coords": [
+                        125.741615,
+                        39.059287
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-01",
     coords: [125.7533, 39.0469],
@@ -99,7 +657,160 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Avec ses 60 mètres de hauteur, c'est le deuxième plus haut arc de triomphe au monde.", "Il a été inauguré en 1982."],
     }, image: "/poi-images/arch-of-triumph-pyongyang-landmarks-v2.webp"},
   {
-    id: "kumsusan-palace-of-the-sun-landmarks-v2",
+    id: "kumsusan-palace-of-the-sun-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Three Revolutions Monument",
+                  "text": "Das Monument der drei Revolutionen ist ein hoch aufragendes Wahrzeichen, das Nordkoreas ideologischen, technischen und kulturellen Wandel symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        125.755659,
+                        39.083893
+                  ]
+            },
+            {
+                  "name": "Kumsusan Palace of the Sun",
+                  "text": "Der Kumsusan-Sonnenpalast ist ein monumentales Mausoleum, in dem die einbalsamierten Leichname von Kim Il-sung und Kim Jong-il aufgebahrt sind.",
+                  "category": "museum",
+                  "coords": [
+                        125.790145,
+                        39.063515
+                  ]
+            },
+            {
+                  "name": "Three Revolution Exhibition",
+                  "text": "Die Ausstellung der drei Revolutionen ist ein riesiger Komplex, in dem Nordkoreas Errungenschaften in der Raumfahrt und Schwerindustrie ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        125.756282,
+                        39.080273
+                  ]
+            },
+            {
+                  "name": "Kumgang Temple",
+                  "text": "Der Kumgang-Tempel besticht in der Nähe des Kumsusan-Palastes durch seine kunstvoll geschwungenen buddhistischen Dächer und Innenhöfe.",
+                  "category": "landmark",
+                  "coords": [
+                        125.794233,
+                        39.052183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Three Revolutions Monument",
+                  "text": "A Három Forradalom Emlékműve egy tornyosuló nevezetesség, amely Észak-Korea ideológiai, technikai és kulturális átalakulását szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        125.755659,
+                        39.083893
+                  ]
+            },
+            {
+                  "name": "Kumsusan Palace of the Sun",
+                  "text": "A Kumszuszan Nap Palotája egy monumentális mauzóleum, ahol Kim Ir Szen és Kim Dzsongil bebalzsamozott holttestei fekszenek.",
+                  "category": "museum",
+                  "coords": [
+                        125.790145,
+                        39.063515
+                  ]
+            },
+            {
+                  "name": "Three Revolution Exhibition",
+                  "text": "A Három Forradalom Kiállítás egy hatalmas komplexum, amelyben Észak-Korea űrkutatási és nehézipari vívmányait állítják ki.",
+                  "category": "museum",
+                  "coords": [
+                        125.756282,
+                        39.080273
+                  ]
+            },
+            {
+                  "name": "Kumgang Temple",
+                  "text": "A Kumszuszan Palota közelében fekvő Kumgang-templom lenyűgöző mesterien ívelt buddhista tetőivel és belső udvaraival.",
+                  "category": "landmark",
+                  "coords": [
+                        125.794233,
+                        39.052183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Three Revolutions Monument",
+                  "text": "Monumentul Celor Trei Revoluții este un reper impunător care simbolizează transformarea ideologică, tehnică și culturală a Coreei de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        125.755659,
+                        39.083893
+                  ]
+            },
+            {
+                  "name": "Kumsusan Palace of the Sun",
+                  "text": "Palatul Soarelui Kumsusan este un mausoleu monumental unde sunt depuse trupurile îmbălsămate ale lui Kim Ir-sen și Kim Jong-il.",
+                  "category": "museum",
+                  "coords": [
+                        125.790145,
+                        39.063515
+                  ]
+            },
+            {
+                  "name": "Three Revolution Exhibition",
+                  "text": "Expoziția Celor Trei Revoluții este un complex masiv care prezintă realizările Coreei de Nord în domeniul aerospațial și al industriei grele.",
+                  "category": "museum",
+                  "coords": [
+                        125.756282,
+                        39.080273
+                  ]
+            },
+            {
+                  "name": "Kumgang Temple",
+                  "text": "Situat în apropierea Palatului Kumsusan, Templul Kumgang impresionează prin acoperișurile sale budiste frumos curbate și curțile interioare.",
+                  "category": "landmark",
+                  "coords": [
+                        125.794233,
+                        39.052183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Three Revolutions Monument",
+                  "text": "The Three Revolutions Monument is a towering landmark symbolizing North Korea's ideological, technical, and cultural transformations.",
+                  "category": "historical",
+                  "coords": [
+                        125.755659,
+                        39.083893
+                  ]
+            },
+            {
+                  "name": "Kumsusan Palace of the Sun",
+                  "text": "The Kumsusan Palace of the Sun is a monumental mausoleum where the embalmed bodies of Kim Il Sung and Kim Jong Il lie in state.",
+                  "category": "museum",
+                  "coords": [
+                        125.790145,
+                        39.063515
+                  ]
+            },
+            {
+                  "name": "Three Revolution Exhibition",
+                  "text": "The Three Revolution Exhibition is a massive complex showcasing North Korea's achievements in aerospace and heavy industry.",
+                  "category": "museum",
+                  "coords": [
+                        125.756282,
+                        39.080273
+                  ]
+            },
+            {
+                  "name": "Kumgang Temple",
+                  "text": "Located near the Kumsusan Palace, Kumgang Temple impresses with its beautifully curved Buddhist roofs and inner courtyards.",
+                  "category": "landmark",
+                  "coords": [
+                        125.794233,
+                        39.052183
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KP-01",
     coords: [125.7903, 39.0628],
@@ -147,7 +858,52 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["C'était à l'origine la résidence officielle de Kim Il-sung.", "C'est le plus grand palais dédié à un dirigeant communiste."],
     }, image: "/poi-images/kumsusan-palace-of-the-sun-landmarks-v2.webp"},
   {
-    id: "grand-monument-on-mansu-hill-landmarks-v2",
+    id: "grand-monument-on-mansu-hill-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "People's Theatre",
+                  "text": "Das 2012 eröffnete Volkstheater ist ein monumentaler Veranstaltungsort für darstellende Künste in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        125.753537,
+                        39.02836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "People's Theatre",
+                  "text": "A 2012-ben megnyílt Népszínház a város monumentális előadóművészeti központja.",
+                  "category": "cultural",
+                  "coords": [
+                        125.753537,
+                        39.02836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "People's Theatre",
+                  "text": "Deschis în 2012, Teatrul Poporului este o locație monumentală pentru artele spectacolului din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        125.753537,
+                        39.02836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "People's Theatre",
+                  "text": "Opened in 2012, the People's Theatre is a monumental performing arts venue in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        125.753537,
+                        39.02836
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-01",
     coords: [125.753, 39.028],
@@ -195,7 +951,592 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Les visiteurs doivent s'incliner et déposer des fleurs.", "Derrière les statues se trouve une paroi en mosaïque représentant le mont sacré Paektu."],
     }, image: "/poi-images/grand-monument-on-mansu-hill-landmarks-v2.webp"},
   {
-    id: "pyongyang-tv-tower-landmarks-v2",
+    id: "pyongyang-tv-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Korea Stamp Exhibition Hall",
+                  "text": "Ein spezialisiertes Museum, das die philatelistische Geschichte Nordkoreas dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        125.731939,
+                        38.98045
+                  ]
+            },
+            {
+                  "name": "Phyongchon Revolutionary Historic Site",
+                  "text": "Eine historische Stätte, die an die industrielle Entwicklung und Revolution in diesem Bezirk erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.724154,
+                        38.999026
+                  ]
+            },
+            {
+                  "name": "Mansudae Art Studio",
+                  "text": "Das weltweit größte Kunststudio, in dem monumentale Statuen und Denkmäler geschaffen werden.",
+                  "category": "cultural",
+                  "coords": [
+                        125.714929,
+                        39.013394
+                  ]
+            },
+            {
+                  "name": "Korean Stamp Museum",
+                  "text": "Dieses Museum beherbergt eine Sammlung seltener nordkoreanischer Briefmarken und Postgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        125.73674,
+                        39.007484
+                  ]
+            },
+            {
+                  "name": "International House of Culture",
+                  "text": "Ein 1988 eröffnetes Zentrum für internationalen kulturellen Austausch und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.744108,
+                        39.008429
+                  ]
+            },
+            {
+                  "name": "Party Founding Museum",
+                  "text": "Dieses Museum befindet sich im ursprünglichen Hauptquartier der Arbeiterpartei Koreas.",
+                  "category": "museum",
+                  "coords": [
+                        125.743101,
+                        39.012158
+                  ]
+            },
+            {
+                  "name": "National Drama Theatre",
+                  "text": "Ein bedeutendes Theaterhaus, das sich auf nationale dramatische Produktionen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        125.750136,
+                        39.012125
+                  ]
+            },
+            {
+                  "name": "Pyongyang Grand Theatre",
+                  "text": "Dieses 1960 eröffnete Theater beeindruckt durch seine markante Architektur im traditionellen Stil.",
+                  "category": "cultural",
+                  "coords": [
+                        125.75017,
+                        39.008653
+                  ]
+            },
+            {
+                  "name": "Revolutionary Historic Museum of Kim Chaek University of Technology",
+                  "text": "Ein Museum, das die Entwicklung der Wissenschaft und Technik an dieser Universität zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        125.745623,
+                        39.003543
+                  ]
+            },
+            {
+                  "name": "Pyongyang Textile Machinery Factory Revolutionary History Museum",
+                  "text": "Dieses Museum dokumentiert die Geschichte der Textilmaschinenproduktion in Pjöngjang.",
+                  "category": "museum",
+                  "coords": [
+                        125.761581,
+                        38.997571
+                  ]
+            },
+            {
+                  "name": "Revolutionary Historical Vehicle Museum",
+                  "text": "Ein Museum, das historische Fahrzeuge ausstellt, die von der Staatsführung genutzt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        125.742508,
+                        39.000211
+                  ]
+            },
+            {
+                  "name": "Yanggak Bridge",
+                  "text": "Diese Doppelstockbrücke verbindet das Festland mit der Insel Yanggakdo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.742971,
+                        38.996258
+                  ]
+            },
+            {
+                  "name": "Yanggakdo Stadium",
+                  "text": "Ein großes Mehrzweckstadion auf der Insel Yanggakdo im Taedong-Fluss.",
+                  "category": "historical",
+                  "coords": [
+                        125.743559,
+                        38.991657
+                  ]
+            },
+            {
+                  "name": "Church of the Life-Giving Trinity",
+                  "text": "Die einzige russisch-orthodoxe Kirche in Pjöngjang, erkennbar an ihren blauen Zwiebeltürmen.",
+                  "category": "religious",
+                  "coords": [
+                        125.745881,
+                        38.982059
+                  ]
+            },
+            {
+                  "name": "Rakrang Bridge",
+                  "text": "Diese Brücke überquert den Taedong-Fluss und verbindet die südlichen Bezirke der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.758502,
+                        38.982182
+                  ]
+            },
+            {
+                  "name": "Rakrang Market",
+                  "text": "Ein lebhafter lokaler Marktplatz im Rakrang-Distrikt mit einer Vielzahl von Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        125.733125,
+                        38.981292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Korea Stamp Exhibition Hall",
+                  "text": "Észak-Korea filatéliai történetét dokumentáló szakmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        125.731939,
+                        38.98045
+                  ]
+            },
+            {
+                  "name": "Phyongchon Revolutionary Historic Site",
+                  "text": "Történelmi emlékhely, amely az ipari fejlődésre és a forradalomra emlékeztet ebben a negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        125.724154,
+                        38.999026
+                  ]
+            },
+            {
+                  "name": "Mansudae Art Studio",
+                  "text": "A világ legnagyobb művészeti stúdiója, ahol monumentális szobrokat és emlékműveket készítenek.",
+                  "category": "cultural",
+                  "coords": [
+                        125.714929,
+                        39.013394
+                  ]
+            },
+            {
+                  "name": "Korean Stamp Museum",
+                  "text": "Ez a múzeum ritka észak-koreai bélyegek gyűjteményének és postatörténetének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        125.73674,
+                        39.007484
+                  ]
+            },
+            {
+                  "name": "International House of Culture",
+                  "text": "1988-ban megnyitott központ nemzetközi kulturális cserékhez és kiállításokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        125.744108,
+                        39.008429
+                  ]
+            },
+            {
+                  "name": "Party Founding Museum",
+                  "text": "Ez a múzeum a Koreai Munkáspárt eredeti székházában található.",
+                  "category": "museum",
+                  "coords": [
+                        125.743101,
+                        39.012158
+                  ]
+            },
+            {
+                  "name": "National Drama Theatre",
+                  "text": "Jelentős színház, amely a nemzeti drámai produkciókra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        125.750136,
+                        39.012125
+                  ]
+            },
+            {
+                  "name": "Pyongyang Grand Theatre",
+                  "text": "Ez az 1960-ban megnyílt színház lenyűgöző hagyományos stílusú építészetével.",
+                  "category": "cultural",
+                  "coords": [
+                        125.75017,
+                        39.008653
+                  ]
+            },
+            {
+                  "name": "Revolutionary Historic Museum of Kim Chaek University of Technology",
+                  "text": "Múzeum, amely a tudomány és a technika fejlődését mutatja be ezen az egyetemen.",
+                  "category": "museum",
+                  "coords": [
+                        125.745623,
+                        39.003543
+                  ]
+            },
+            {
+                  "name": "Pyongyang Textile Machinery Factory Revolutionary History Museum",
+                  "text": "Ez a múzeum a phenjani textilipari gépgyártás történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        125.761581,
+                        38.997571
+                  ]
+            },
+            {
+                  "name": "Revolutionary Historical Vehicle Museum",
+                  "text": "Az állami vezetés által használt történelmi járműveket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        125.742508,
+                        39.000211
+                  ]
+            },
+            {
+                  "name": "Yanggak Bridge",
+                  "text": "Ez a kétszintes híd köti össze a szárazföldet a Janggak-szigettel.",
+                  "category": "landmark",
+                  "coords": [
+                        125.742971,
+                        38.996258
+                  ]
+            },
+            {
+                  "name": "Yanggakdo Stadium",
+                  "text": "Egy nagy többcélú stadion a Tedong-folyóban található Janggak-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        125.743559,
+                        38.991657
+                  ]
+            },
+            {
+                  "name": "Church of the Life-Giving Trinity",
+                  "text": "Phenjan egyetlen orosz ortodox temploma, kék hagymakupoláiról felismerhető.",
+                  "category": "religious",
+                  "coords": [
+                        125.745881,
+                        38.982059
+                  ]
+            },
+            {
+                  "name": "Rakrang Bridge",
+                  "text": "Ez a híd a Tedong-folyón átívelve köti össze a város déli kerületeit.",
+                  "category": "landmark",
+                  "coords": [
+                        125.758502,
+                        38.982182
+                  ]
+            },
+            {
+                  "name": "Rakrang Market",
+                  "text": "Egy nyüzsgő helyi piac a Rakrang negyedben, széles áruválasztékkal.",
+                  "category": "cultural",
+                  "coords": [
+                        125.733125,
+                        38.981292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Korea Stamp Exhibition Hall",
+                  "text": "Un muzeu specializat care documentează istoria filatelică a Coreei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        125.731939,
+                        38.98045
+                  ]
+            },
+            {
+                  "name": "Phyongchon Revolutionary Historic Site",
+                  "text": "Un sit istoric care comemorează dezvoltarea industrială și revoluția din acest district.",
+                  "category": "landmark",
+                  "coords": [
+                        125.724154,
+                        38.999026
+                  ]
+            },
+            {
+                  "name": "Mansudae Art Studio",
+                  "text": "Cel mai mare studio de artă din lume, unde sunt create statui și monumente monumentale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.714929,
+                        39.013394
+                  ]
+            },
+            {
+                  "name": "Korean Stamp Museum",
+                  "text": "Acest muzeu găzduiește o colecție de timbre nord-coreene rare și istorie poștală.",
+                  "category": "museum",
+                  "coords": [
+                        125.73674,
+                        39.007484
+                  ]
+            },
+            {
+                  "name": "International House of Culture",
+                  "text": "Un centru deschis în 1988 pentru schimburi culturale internaționale și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        125.744108,
+                        39.008429
+                  ]
+            },
+            {
+                  "name": "Party Founding Museum",
+                  "text": "Acest muzeu se află în sediul original al Partidului Muncitoresc din Coreea.",
+                  "category": "museum",
+                  "coords": [
+                        125.743101,
+                        39.012158
+                  ]
+            },
+            {
+                  "name": "National Drama Theatre",
+                  "text": "O casă de teatru importantă, concentrată pe producții dramatice naționale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.750136,
+                        39.012125
+                  ]
+            },
+            {
+                  "name": "Pyongyang Grand Theatre",
+                  "text": "Acest teatru deschis în 1960 impresionează prin arhitectura sa distinctivă în stil tradițional.",
+                  "category": "cultural",
+                  "coords": [
+                        125.75017,
+                        39.008653
+                  ]
+            },
+            {
+                  "name": "Revolutionary Historic Museum of Kim Chaek University of Technology",
+                  "text": "Un muzeu care prezintă dezvoltarea științei și tehnologiei în cadrul acestei universități.",
+                  "category": "museum",
+                  "coords": [
+                        125.745623,
+                        39.003543
+                  ]
+            },
+            {
+                  "name": "Pyongyang Textile Machinery Factory Revolutionary History Museum",
+                  "text": "Acest muzeu documentează istoria producției de mașini textile din Phenian.",
+                  "category": "museum",
+                  "coords": [
+                        125.761581,
+                        38.997571
+                  ]
+            },
+            {
+                  "name": "Revolutionary Historical Vehicle Museum",
+                  "text": "Un muzeu care expune vehicule istorice utilizate de conducerea statului.",
+                  "category": "museum",
+                  "coords": [
+                        125.742508,
+                        39.000211
+                  ]
+            },
+            {
+                  "name": "Yanggak Bridge",
+                  "text": "Acest pod cu două niveluri leagă continentul de insula Yanggakdo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.742971,
+                        38.996258
+                  ]
+            },
+            {
+                  "name": "Yanggakdo Stadium",
+                  "text": "Un stadion polivalent mare situat pe insula Yanggakdo din râul Taedong.",
+                  "category": "historical",
+                  "coords": [
+                        125.743559,
+                        38.991657
+                  ]
+            },
+            {
+                  "name": "Church of the Life-Giving Trinity",
+                  "text": "Singura biserică ortodoxă rusă din Phenian, recognoscibilă după cupolele sale albastre.",
+                  "category": "religious",
+                  "coords": [
+                        125.745881,
+                        38.982059
+                  ]
+            },
+            {
+                  "name": "Rakrang Bridge",
+                  "text": "Acest pod traversează râul Taedong, făcând legătura cu districtele sudice ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.758502,
+                        38.982182
+                  ]
+            },
+            {
+                  "name": "Rakrang Market",
+                  "text": "O piață locală plină de viață în districtul Rakrang, cu o varietate de mărfuri.",
+                  "category": "cultural",
+                  "coords": [
+                        125.733125,
+                        38.981292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korea Stamp Exhibition Hall",
+                  "text": "A specialized museum documenting the philatelic history of North Korea.",
+                  "category": "museum",
+                  "coords": [
+                        125.731939,
+                        38.98045
+                  ]
+            },
+            {
+                  "name": "Phyongchon Revolutionary Historic Site",
+                  "text": "A historic site commemorating industrial development and the revolution in this district.",
+                  "category": "landmark",
+                  "coords": [
+                        125.724154,
+                        38.999026
+                  ]
+            },
+            {
+                  "name": "Mansudae Art Studio",
+                  "text": "The world's largest art studio, where monumental statues and memorials are created.",
+                  "category": "cultural",
+                  "coords": [
+                        125.714929,
+                        39.013394
+                  ]
+            },
+            {
+                  "name": "Korean Stamp Museum",
+                  "text": "This museum houses a collection of rare North Korean stamps and postal history.",
+                  "category": "museum",
+                  "coords": [
+                        125.73674,
+                        39.007484
+                  ]
+            },
+            {
+                  "name": "International House of Culture",
+                  "text": "A center opened in 1988 for international cultural exchange and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        125.744108,
+                        39.008429
+                  ]
+            },
+            {
+                  "name": "Party Founding Museum",
+                  "text": "This museum is located in the original headquarters of the Workers' Party of Korea.",
+                  "category": "museum",
+                  "coords": [
+                        125.743101,
+                        39.012158
+                  ]
+            },
+            {
+                  "name": "National Drama Theatre",
+                  "text": "A prominent theatre house focusing on national dramatic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        125.750136,
+                        39.012125
+                  ]
+            },
+            {
+                  "name": "Pyongyang Grand Theatre",
+                  "text": "Opened in 1960, this theatre impresses with its distinctive traditional-style architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        125.75017,
+                        39.008653
+                  ]
+            },
+            {
+                  "name": "Revolutionary Historic Museum of Kim Chaek University of Technology",
+                  "text": "A museum showcasing the development of science and technology at this university.",
+                  "category": "museum",
+                  "coords": [
+                        125.745623,
+                        39.003543
+                  ]
+            },
+            {
+                  "name": "Pyongyang Textile Machinery Factory Revolutionary History Museum",
+                  "text": "This museum documents the history of textile machinery production in Pyongyang.",
+                  "category": "museum",
+                  "coords": [
+                        125.761581,
+                        38.997571
+                  ]
+            },
+            {
+                  "name": "Revolutionary Historical Vehicle Museum",
+                  "text": "A museum exhibiting historical vehicles used by the state leadership.",
+                  "category": "museum",
+                  "coords": [
+                        125.742508,
+                        39.000211
+                  ]
+            },
+            {
+                  "name": "Yanggak Bridge",
+                  "text": "This double-deck bridge connects the mainland to Yanggak Island.",
+                  "category": "landmark",
+                  "coords": [
+                        125.742971,
+                        38.996258
+                  ]
+            },
+            {
+                  "name": "Yanggakdo Stadium",
+                  "text": "A large multi-purpose stadium situated on Yanggak Island in the Taedong River.",
+                  "category": "historical",
+                  "coords": [
+                        125.743559,
+                        38.991657
+                  ]
+            },
+            {
+                  "name": "Church of the Life-Giving Trinity",
+                  "text": "The only Russian Orthodox church in Pyongyang, recognizable by its blue onion domes.",
+                  "category": "religious",
+                  "coords": [
+                        125.745881,
+                        38.982059
+                  ]
+            },
+            {
+                  "name": "Rakrang Bridge",
+                  "text": "This bridge crosses the Taedong River, connecting the southern districts of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        125.758502,
+                        38.982182
+                  ]
+            },
+            {
+                  "name": "Rakrang Market",
+                  "text": "A bustling local marketplace in the Rakrang district with a variety of goods.",
+                  "category": "cultural",
+                  "coords": [
+                        125.733125,
+                        38.981292
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KP-01",
     coords: [125.7447, 39.0067],
@@ -243,7 +1584,52 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Elle se situe dans le parc de la jeunesse de Kaeson.", "Elle est inspirée de la tour Ostankino à Moscou."],
     }, image: "/poi-images/pyongyang-tv-tower-landmarks-v2.webp"},
   {
-    id: "party-foundation-monument-landmarks-v2",
+    id: "party-foundation-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Party Foundation Monument",
+                  "text": "Das 1996 fertiggestellte Denkmal der Parteigründung zeigt massive Steinskulpturen von Hammer, Sichel und Schreibpinsel.",
+                  "category": "historical",
+                  "coords": [
+                        125.776482,
+                        39.027853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Party Foundation Monument",
+                  "text": "Az 1996-ban elkészült Pártalapítási emlékmű egy kalapács, sarló és íróecset hatalmas kőszobrait ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        125.776482,
+                        39.027853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Party Foundation Monument",
+                  "text": "Finalizat în 1996, Monumentul Fundației Partidului prezintă sculpturi masive în piatră reprezentând un ciocan, o seceră și o pensulă de scris.",
+                  "category": "historical",
+                  "coords": [
+                        125.776482,
+                        39.027853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Party Foundation Monument",
+                  "text": "Completed in 1996, the Party Foundation Monument features massive stone sculptures of a hammer, sickle, and writing brush.",
+                  "category": "historical",
+                  "coords": [
+                        125.776482,
+                        39.027853
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-01",
     coords: [125.772, 39.023],
@@ -291,7 +1677,196 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Les trois outils représentent les ouvriers, les paysans et les intellectuels.", "Le monument a été inauguré en 1995."],
     }, image: "/poi-images/party-foundation-monument-landmarks-v2.webp"},
   {
-    id: "uss-pueblo-ag-er-2-landmarks-v2",
+    id: "uss-pueblo-ag-er-2-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rungna Water Park",
+                  "text": "Der Rungna-Wasserpark ist ein weitläufiger Freizeitkomplex mit Außenpools und Wasserrutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        125.762738,
+                        39.035609
+                  ]
+            },
+            {
+                  "name": "Rungna Bridge",
+                  "text": "Die Rungna-Brücke ist eine wichtige Flussüberquerung, die die Stadtteile verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        125.764886,
+                        39.033928
+                  ]
+            },
+            {
+                  "name": "East Pyongyang Grand Theatre",
+                  "text": "Das 1989 gegründete Große Ost-Pjöngjang-Theater ist ein bedeutender Veranstaltungsort für groß angelegte Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.770365,
+                        39.031098
+                  ]
+            },
+            {
+                  "name": "Kimilsungia and Kimjongilia Exhibition Hall",
+                  "text": "Die Kimilsungia- und Kimjongilia-Ausstellungshalle ist ein spezialisiertes Museum, das die gleichnamigen Zuchtblumen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        125.768141,
+                        39.030665
+                  ]
+            },
+            {
+                  "name": "Rungra Market",
+                  "text": "Der Rungra-Markt ist ein lokaler Marktplatz mit einer Vielzahl von Handelswaren und Verkaufsständen.",
+                  "category": "cultural",
+                  "coords": [
+                        125.77288,
+                        39.035786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rungna Water Park",
+                  "text": "A Rungna Vízipark egy nagyszabású rekreációs komplexum szabadtéri medencékkel és csúszdákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        125.762738,
+                        39.035609
+                  ]
+            },
+            {
+                  "name": "Rungna Bridge",
+                  "text": "A Rungna híd egy jelentős folyami átkelő, amely a város kerületeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        125.764886,
+                        39.033928
+                  ]
+            },
+            {
+                  "name": "East Pyongyang Grand Theatre",
+                  "text": "Az 1989-ben alapított Kelet-Phenjani Nagyszínház nagyszabású előadások kiemelkedő helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        125.770365,
+                        39.031098
+                  ]
+            },
+            {
+                  "name": "Kimilsungia and Kimjongilia Exhibition Hall",
+                  "text": "A Kimilszongia és Kimdzsongilia Kiállítási Csarnok egy specializált múzeum, amely a névadó termesztett virágokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.768141,
+                        39.030665
+                  ]
+            },
+            {
+                  "name": "Rungra Market",
+                  "text": "A Rungra Piac egy helyi piactér, amely különféle kereskedelmi cikkeket és standokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        125.77288,
+                        39.035786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rungna Water Park",
+                  "text": "Parcul Acvatic Rungna este un complex de agrement de mari dimensiuni, cu piscine în aer liber și tobogane cu apă.",
+                  "category": "recreational",
+                  "coords": [
+                        125.762738,
+                        39.035609
+                  ]
+            },
+            {
+                  "name": "Rungna Bridge",
+                  "text": "Podul Rungna este o traversare fluvială importantă care leagă cartierele orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.764886,
+                        39.033928
+                  ]
+            },
+            {
+                  "name": "East Pyongyang Grand Theatre",
+                  "text": "Înființat în 1989, Marele Teatru din Phenianul de Est este o locație majoră pentru spectacole de mare anvergură.",
+                  "category": "cultural",
+                  "coords": [
+                        125.770365,
+                        39.031098
+                  ]
+            },
+            {
+                  "name": "Kimilsungia and Kimjongilia Exhibition Hall",
+                  "text": "Sala de Expoziții Kimilsungia și Kimjongilia este un muzeu specializat care prezintă florile cultivate eponime.",
+                  "category": "museum",
+                  "coords": [
+                        125.768141,
+                        39.030665
+                  ]
+            },
+            {
+                  "name": "Rungra Market",
+                  "text": "Piața Rungra este o piață locală cu o varietate de produse comerciale și tarabe.",
+                  "category": "cultural",
+                  "coords": [
+                        125.77288,
+                        39.035786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rungna Water Park",
+                  "text": "Rungna Water Park is a large-scale recreational complex featuring outdoor pools and waterslides.",
+                  "category": "recreational",
+                  "coords": [
+                        125.762738,
+                        39.035609
+                  ]
+            },
+            {
+                  "name": "Rungna Bridge",
+                  "text": "The Rungna Bridge is a substantial river crossing connecting the city's districts.",
+                  "category": "landmark",
+                  "coords": [
+                        125.764886,
+                        39.033928
+                  ]
+            },
+            {
+                  "name": "East Pyongyang Grand Theatre",
+                  "text": "Established in 1989, the East Pyongyang Grand Theatre is a major venue for large-scale performances.",
+                  "category": "cultural",
+                  "coords": [
+                        125.770365,
+                        39.031098
+                  ]
+            },
+            {
+                  "name": "Kimilsungia and Kimjongilia Exhibition Hall",
+                  "text": "The Kimilsungia and Kimjongilia Exhibition Hall is a specialized museum showcasing the eponymous cultivated flowers.",
+                  "category": "museum",
+                  "coords": [
+                        125.768141,
+                        39.030665
+                  ]
+            },
+            {
+                  "name": "Rungra Market",
+                  "text": "Rungra Market is a local marketplace offering a variety of commercial goods and stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        125.77288,
+                        39.035786
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KP-01",
     coords: [125.767, 39.034],
@@ -336,7 +1911,196 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Le seul navire de l'US Navy actuellement répertorié comme capturé.", "L'équipage a été libéré après 11 mois de captivité."],
     }, image: "/poi-images/uss-pueblo-ag-er-2-landmarks-v2.webp"},
   {
-    id: "tomb-of-king-tongmyong-landmarks-v2",
+    id: "tomb-of-king-tongmyong-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Cheryŏng",
+                  "text": "Ein Berggipfel in der Nähe von Pjöngjang, der als wichtiger geografischer Orientierungspunkt in der Region gilt.",
+                  "category": "natural",
+                  "coords": [
+                        125.966577,
+                        38.912641
+                  ]
+            },
+            {
+                  "name": "Uthachi Airfield",
+                  "text": "Die Überreste eines historischen Flugplatzes, die als archäologische Zeugnisse militärischer Infrastruktur dienen.",
+                  "category": "historical",
+                  "coords": [
+                        125.8188,
+                        38.914636
+                  ]
+            },
+            {
+                  "name": "Tomb of King Tongmyong",
+                  "text": "Dieses UNESCO-Welterbe ist das Mausoleum von König Tongmyong, dem Gründer des antiken Goguryeo-Königreichs.",
+                  "category": "landmark",
+                  "coords": [
+                        125.922923,
+                        38.894782
+                  ]
+            },
+            {
+                  "name": "Chongrung Temple",
+                  "text": "Ein buddhistischer Tempel, der direkt neben dem Grab von König Tongmyong liegt, um für die Seele des verstorbenen Königs zu beten.",
+                  "category": "landmark",
+                  "coords": [
+                        125.92411,
+                        38.893293
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Diese befestigte Residenz liegt in der Nähe des historischen Grabes von König Tongmyong.",
+                  "category": "castle",
+                  "coords": [
+                        125.923492,
+                        38.9119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Cheryŏng",
+                  "text": "Phenjan közelében található hegycsúcs, amely a régió fontos földrajzi tájékozódási pontjának számít.",
+                  "category": "natural",
+                  "coords": [
+                        125.966577,
+                        38.912641
+                  ]
+            },
+            {
+                  "name": "Uthachi Airfield",
+                  "text": "Egy történelmi repülőtér maradványai, amelyek a katonai infrastruktúra régészeti bizonyítékaként szolgálnak.",
+                  "category": "historical",
+                  "coords": [
+                        125.8188,
+                        38.914636
+                  ]
+            },
+            {
+                  "name": "Tomb of King Tongmyong",
+                  "text": "Ez az UNESCO Világörökség részét képező helyszín Tongmjong királynak, az ősi Kogurjo királyság alapítójának mauzóleuma.",
+                  "category": "landmark",
+                  "coords": [
+                        125.922923,
+                        38.894782
+                  ]
+            },
+            {
+                  "name": "Chongrung Temple",
+                  "text": "Buddhista templom közvetlenül Tongmjong király sírja mellett, amelyet a néhai király lelki üdvéért való imádkozásra alapítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        125.92411,
+                        38.893293
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Ez az erődített rezidencia a történelmi Tongmjong király sírja közelében található.",
+                  "category": "castle",
+                  "coords": [
+                        125.923492,
+                        38.9119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Cheryŏng",
+                  "text": "Un vârf muntos situat lângă Phenian, considerat un punct de reper geografic important în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        125.966577,
+                        38.912641
+                  ]
+            },
+            {
+                  "name": "Uthachi Airfield",
+                  "text": "Rămășițele unui aerodrom istoric, care servesc drept dovezi arheologice ale infrastructurii militare.",
+                  "category": "historical",
+                  "coords": [
+                        125.8188,
+                        38.914636
+                  ]
+            },
+            {
+                  "name": "Tomb of King Tongmyong",
+                  "text": "Acest sit din patrimoniul mondial UNESCO este mausoleul regelui Tongmyong, fondatorul vechiului regat Goguryeo.",
+                  "category": "landmark",
+                  "coords": [
+                        125.922923,
+                        38.894782
+                  ]
+            },
+            {
+                  "name": "Chongrung Temple",
+                  "text": "Un templu budist situat chiar lângă mormântul regelui Tongmyong, fondat pentru a oferi rugăciuni pentru sufletul răposatului rege.",
+                  "category": "landmark",
+                  "coords": [
+                        125.92411,
+                        38.893293
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "Această reședință fortificată este situată în apropierea mormântului istoric al regelui Tongmyong.",
+                  "category": "castle",
+                  "coords": [
+                        125.923492,
+                        38.9119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Cheryŏng",
+                  "text": "A mountain peak located near Pyongyang, considered an important geographical landmark in the region.",
+                  "category": "natural",
+                  "coords": [
+                        125.966577,
+                        38.912641
+                  ]
+            },
+            {
+                  "name": "Uthachi Airfield",
+                  "text": "The remains of a historical airfield, serving as archaeological evidence of military infrastructure.",
+                  "category": "historical",
+                  "coords": [
+                        125.8188,
+                        38.914636
+                  ]
+            },
+            {
+                  "name": "Tomb of King Tongmyong",
+                  "text": "This UNESCO World Heritage site is the mausoleum of King Tongmyong, the founder of the ancient Goguryeo Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        125.922923,
+                        38.894782
+                  ]
+            },
+            {
+                  "name": "Chongrung Temple",
+                  "text": "A Buddhist temple located right next to the tomb of King Tongmyong, founded to offer prayers for the late king's soul.",
+                  "category": "landmark",
+                  "coords": [
+                        125.92411,
+                        38.893293
+                  ]
+            },
+            {
+                  "name": "Residence of Leadership",
+                  "text": "This fortified residence is located near the historic Tomb of King Tongmyong.",
+                  "category": "castle",
+                  "coords": [
+                        125.923492,
+                        38.9119
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "KP-01",
     coords: [125.885, 38.924],
@@ -381,7 +2145,376 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Fait partie de l'ensemble des tombes de Goguryeo, classé au patrimoine mondial de l'UNESCO.", "La tombe est un monticule entouré de sculptures en pierre."],
     }, image: "/poi-images/tomb-of-king-tongmyong-landmarks-v2.webp"},
   {
-    id: "ryugyong-hotel-landmarks-v2",
+    id: "ryugyong-hotel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tomŏri-san",
+                  "text": "Ein Berggipfel, der einen weiten Blick über die Außenbezirke von Pjöngjang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        125.719643,
+                        39.039078
+                  ]
+            },
+            {
+                  "name": "Pothong River Improvement Project Monument",
+                  "text": "Ein Denkmal zur Erinnerung an das Pothong-Fluss-Regulierungsprojekt von 1946.",
+                  "category": "historical",
+                  "coords": [
+                        125.709466,
+                        39.043866
+                  ]
+            },
+            {
+                  "name": "Sinso Bridge",
+                  "text": "Eine Brücke über den Pothong-Fluss in der Nähe des Kriegsmuseums.",
+                  "category": "landmark",
+                  "coords": [
+                        125.726479,
+                        39.023916
+                  ]
+            },
+            {
+                  "name": "Fatherland Liberation War Museum",
+                  "text": "Ein gewaltiges Museum, das Militärtechnik und das US-Spionageschiff Pueblo zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        125.737065,
+                        39.041596
+                  ]
+            },
+            {
+                  "name": "Ragwon Bridge",
+                  "text": "Eine moderne Betonbrücke, die den Pothong-Fluss im Stadtzentrum überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.723998,
+                        39.036555
+                  ]
+            },
+            {
+                  "name": "Pyongyang Embroidery Research Institute",
+                  "text": "Ein 1947 gegründetes Zentrum für die Erforschung und Herstellung traditioneller Stickkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        125.729591,
+                        39.038832
+                  ]
+            },
+            {
+                  "name": "Ponghwa Bridge",
+                  "text": "Diese 1973 errichtete Brücke verbindet wichtige Stadtteile über den Pothong-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        125.729254,
+                        39.040065
+                  ]
+            },
+            {
+                  "name": "Victorious Fatherland Liberation War Museum",
+                  "text": "Ein umfangreicher Museumskomplex mit Dioramen und Panzern aus dem Koreakrieg.",
+                  "category": "museum",
+                  "coords": [
+                        125.736604,
+                        39.043884
+                  ]
+            },
+            {
+                  "name": "Pongsu Church",
+                  "text": "Eine der wenigen aktiven protestantischen Kirchen in der nordkoreanischen Hauptstadt.",
+                  "category": "religious",
+                  "coords": [
+                        125.706327,
+                        39.04526
+                  ]
+            },
+            {
+                  "name": "Unification Church’s World Peace Center",
+                  "text": "Ein religiöses und kulturelles Zentrum der Vereinigungskirche für internationale Begegnungen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.719538,
+                        39.020672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tomŏri-san",
+                  "text": "Hegycsúcs, amelyről széles kilátás nyílik Phenjan külvárosára.",
+                  "category": "natural",
+                  "coords": [
+                        125.719643,
+                        39.039078
+                  ]
+            },
+            {
+                  "name": "Pothong River Improvement Project Monument",
+                  "text": "Az 1946-os Pothong-folyó szabályozási projektnek emléket állító emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        125.709466,
+                        39.043866
+                  ]
+            },
+            {
+                  "name": "Sinso Bridge",
+                  "text": "Híd a Pothong-folyón, a háborús múzeum közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        125.726479,
+                        39.023916
+                  ]
+            },
+            {
+                  "name": "Fatherland Liberation War Museum",
+                  "text": "Hatalmas múzeum, amely haditechnikát és az amerikai Pueblo kémhajót mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        125.737065,
+                        39.041596
+                  ]
+            },
+            {
+                  "name": "Ragwon Bridge",
+                  "text": "Modern betonhíd, amely a városközpontban szeli át a Pothong-folyót.",
+                  "category": "landmark",
+                  "coords": [
+                        125.723998,
+                        39.036555
+                  ]
+            },
+            {
+                  "name": "Pyongyang Embroidery Research Institute",
+                  "text": "1947-ben alapított központ a hagyományos hímzőművészet kutatására és készítésére.",
+                  "category": "cultural",
+                  "coords": [
+                        125.729591,
+                        39.038832
+                  ]
+            },
+            {
+                  "name": "Ponghwa Bridge",
+                  "text": "Ez az 1973-ban épült híd fontos városrészeket köt össze a Pothong-folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        125.729254,
+                        39.040065
+                  ]
+            },
+            {
+                  "name": "Victorious Fatherland Liberation War Museum",
+                  "text": "Kiterjedt múzeumkomplexum a koreai háborúból származó diorámákkal és harckocsikkal.",
+                  "category": "museum",
+                  "coords": [
+                        125.736604,
+                        39.043884
+                  ]
+            },
+            {
+                  "name": "Pongsu Church",
+                  "text": "Az észak-koreai főváros kevés aktív protestáns templomának egyike.",
+                  "category": "religious",
+                  "coords": [
+                        125.706327,
+                        39.04526
+                  ]
+            },
+            {
+                  "name": "Unification Church’s World Peace Center",
+                  "text": "Az Egyesítő Egyház vallási és kulturális központja nemzetközi találkozókhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        125.719538,
+                        39.020672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tomŏri-san",
+                  "text": "Un vârf muntos care oferă o vedere panoramică asupra periferiei Phenianului.",
+                  "category": "natural",
+                  "coords": [
+                        125.719643,
+                        39.039078
+                  ]
+            },
+            {
+                  "name": "Pothong River Improvement Project Monument",
+                  "text": "Un monument care comemorează proiectul de regularizare a râului Pothong din 1946.",
+                  "category": "historical",
+                  "coords": [
+                        125.709466,
+                        39.043866
+                  ]
+            },
+            {
+                  "name": "Sinso Bridge",
+                  "text": "Un pod peste râul Pothong, situat în apropierea muzeului de război.",
+                  "category": "landmark",
+                  "coords": [
+                        125.726479,
+                        39.023916
+                  ]
+            },
+            {
+                  "name": "Fatherland Liberation War Museum",
+                  "text": "Un muzeu masiv care expune tehnică militară și nava de spionaj americană Pueblo.",
+                  "category": "museum",
+                  "coords": [
+                        125.737065,
+                        39.041596
+                  ]
+            },
+            {
+                  "name": "Ragwon Bridge",
+                  "text": "Un pod modern de beton care traversează râul Pothong în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.723998,
+                        39.036555
+                  ]
+            },
+            {
+                  "name": "Pyongyang Embroidery Research Institute",
+                  "text": "Un centru fondat în 1947 pentru cercetarea și realizarea broderiilor tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        125.729591,
+                        39.038832
+                  ]
+            },
+            {
+                  "name": "Ponghwa Bridge",
+                  "text": "Construit în 1973, acest pod face legătura între cartiere importante peste râul Pothong.",
+                  "category": "landmark",
+                  "coords": [
+                        125.729254,
+                        39.040065
+                  ]
+            },
+            {
+                  "name": "Victorious Fatherland Liberation War Museum",
+                  "text": "Un complex muzeal extins cu diorame și tancuri din timpul Războiului din Coreea.",
+                  "category": "museum",
+                  "coords": [
+                        125.736604,
+                        39.043884
+                  ]
+            },
+            {
+                  "name": "Pongsu Church",
+                  "text": "Una dintre puținele biserici protestante active din capitala nord-coreeană.",
+                  "category": "religious",
+                  "coords": [
+                        125.706327,
+                        39.04526
+                  ]
+            },
+            {
+                  "name": "Unification Church’s World Peace Center",
+                  "text": "Un centru religios și cultural al Bisericii Unificării pentru întâlniri internaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        125.719538,
+                        39.020672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomŏri-san",
+                  "text": "A mountain peak providing a wide view over the outskirts of Pyongyang.",
+                  "category": "natural",
+                  "coords": [
+                        125.719643,
+                        39.039078
+                  ]
+            },
+            {
+                  "name": "Pothong River Improvement Project Monument",
+                  "text": "A monument commemorating the 1946 Pothong River improvement and regulation project.",
+                  "category": "historical",
+                  "coords": [
+                        125.709466,
+                        39.043866
+                  ]
+            },
+            {
+                  "name": "Sinso Bridge",
+                  "text": "A bridge spanning the Pothong River near the war museum complex.",
+                  "category": "landmark",
+                  "coords": [
+                        125.726479,
+                        39.023916
+                  ]
+            },
+            {
+                  "name": "Fatherland Liberation War Museum",
+                  "text": "A massive museum displaying military hardware and the captured USS Pueblo spy ship.",
+                  "category": "museum",
+                  "coords": [
+                        125.737065,
+                        39.041596
+                  ]
+            },
+            {
+                  "name": "Ragwon Bridge",
+                  "text": "A modern concrete bridge crossing the Pothong River in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        125.723998,
+                        39.036555
+                  ]
+            },
+            {
+                  "name": "Pyongyang Embroidery Research Institute",
+                  "text": "An arts centre founded in 1947 dedicated to traditional Korean embroidery research.",
+                  "category": "cultural",
+                  "coords": [
+                        125.729591,
+                        39.038832
+                  ]
+            },
+            {
+                  "name": "Ponghwa Bridge",
+                  "text": "Built in 1973, this bridge connects key districts over the Pothong River.",
+                  "category": "landmark",
+                  "coords": [
+                        125.729254,
+                        39.040065
+                  ]
+            },
+            {
+                  "name": "Victorious Fatherland Liberation War Museum",
+                  "text": "An extensive museum complex featuring dioramas and tanks from the Korean War.",
+                  "category": "museum",
+                  "coords": [
+                        125.736604,
+                        39.043884
+                  ]
+            },
+            {
+                  "name": "Pongsu Church",
+                  "text": "One of the few active Protestant churches located in the North Korean capital.",
+                  "category": "religious",
+                  "coords": [
+                        125.706327,
+                        39.04526
+                  ]
+            },
+            {
+                  "name": "Unification Church’s World Peace Center",
+                  "text": "A religious and cultural center of the Unification Church used for international gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        125.719538,
+                        39.020672
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KP-01",
     coords: [125.7303, 39.0364],
@@ -426,7 +2559,124 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Également connu sous le nom d'« hôtel de la fatalité » en raison de sa forme.", "La façade a été achevée en 2011 et est équipée de LED pour des spectacles lumineux."],
     }, image: "/poi-images/ryugyong-hotel-landmarks-v2.webp"},
   {
-    id: "may-day-stadium-landmarks-v2",
+    id: "may-day-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Munsu Water Park",
+                  "text": "Der am 15. Oktober 2013 eröffnete Munsu-Wasserpark ist eine weitläufige Wassersportanlage.",
+                  "category": "recreational",
+                  "coords": [
+                        125.781145,
+                        39.03955
+                  ]
+            },
+            {
+                  "name": "Chongnyu-Brücke",
+                  "text": "Die Chongnyu-Brücke zeichnet sich durch ein modernes Schrägseildesign aus, das die städtische Wasserstraße überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.772007,
+                        39.045252
+                  ]
+            },
+            {
+                  "name": "Ar-Rahman Mosque",
+                  "text": "Die Ar-Rahman-Moschee dient als prominentes muslimisches Gotteshaus mit ausgeprägten islamischen Architekturmerkmalen.",
+                  "category": "landmark",
+                  "coords": [
+                        125.785923,
+                        39.035973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Munsu Water Park",
+                  "text": "A 2013. október 15-én megnyílt Munsu Vízipark egy kiterjedt vízi rekreációs létesítmény.",
+                  "category": "recreational",
+                  "coords": [
+                        125.781145,
+                        39.03955
+                  ]
+            },
+            {
+                  "name": "Chongnyu Bridge",
+                  "text": "A Cshongnju híd modern ferdekábeles kialakítással rendelkezik, amely a városi vízi utat íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        125.772007,
+                        39.045252
+                  ]
+            },
+            {
+                  "name": "Ar-Rahman Mosque",
+                  "text": "Az Ar-Rahman mecset kiemelkedő muszlim istentiszteleti helyként szolgál, jellegzetes iszlám építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        125.785923,
+                        39.035973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Munsu Water Park",
+                  "text": "Deschis pe 15 octombrie 2013, Parcul Acvatic Munsu este o facilitate vastă de recreere acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        125.781145,
+                        39.03955
+                  ]
+            },
+            {
+                  "name": "Chongnyu Bridge",
+                  "text": "Podul Chongnyu are un design modern hobanat care traversează calea navigabilă urbană.",
+                  "category": "landmark",
+                  "coords": [
+                        125.772007,
+                        39.045252
+                  ]
+            },
+            {
+                  "name": "Ar-Rahman Mosque",
+                  "text": "Moscheea Ar-Rahman servește ca un lăcaș de cult musulman proeminent, cu trăsături arhitecturale islamice distincte.",
+                  "category": "landmark",
+                  "coords": [
+                        125.785923,
+                        39.035973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Munsu Water Park",
+                  "text": "Opened on October 15, 2013, the Munsu Water Park is an expansive aquatic recreation facility.",
+                  "category": "recreational",
+                  "coords": [
+                        125.781145,
+                        39.03955
+                  ]
+            },
+            {
+                  "name": "Chongnyu Bridge",
+                  "text": "The Chongnyu Bridge features a modern cable-stayed design spanning the urban waterway.",
+                  "category": "landmark",
+                  "coords": [
+                        125.772007,
+                        39.045252
+                  ]
+            },
+            {
+                  "name": "Ar-Rahman Mosque",
+                  "text": "The Ar-Rahman Mosque serves as a prominent Muslim place of worship with distinct Islamic architectural features.",
+                  "category": "landmark",
+                  "coords": [
+                        125.785923,
+                        39.035973
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "KP-01",
     coords: [125.784, 39.043],
@@ -474,7 +2724,196 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Le toit est composé de 16 arches ressemblant à une fleur de magnolia.", "Il est célèbre pour les jeux de masse Arirang."],
     }, image: "/poi-images/may-day-stadium-landmarks-v2.webp"},
   {
-    id: "arch-of-reunification-landmarks-v2",
+    id: "arch-of-reunification-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lee In-mo Memorial",
+                  "text": "Ein Denkmal für Lee In-mo, einen nordkoreanischen Korrespondenten, das für seine politische Symbolik bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        125.721332,
+                        38.978368
+                  ]
+            },
+            {
+                  "name": "Rangnang Museum",
+                  "text": "Dieses Museum zeigt archäologische Funde aus der antiken Rangnang-Zeit der Region Pjöngjang.",
+                  "category": "museum",
+                  "coords": [
+                        125.723296,
+                        38.967799
+                  ]
+            },
+            {
+                  "name": "Sunhwagang Bridge",
+                  "text": "Eine bedeutende Straßenbrücke, die den Sunhwa-Fluss im Süden von Pjöngjang überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.654181,
+                        38.985835
+                  ]
+            },
+            {
+                  "name": "United Front Monument",
+                  "text": "Dieses Denkmal erinnert an die politische Einigung und die Arbeit der Nationalen Einheitsfront.",
+                  "category": "historical",
+                  "coords": [
+                        125.707583,
+                        38.991822
+                  ]
+            },
+            {
+                  "name": "Gwangmun Market",
+                  "text": "Ein lokaler Handelsplatz in der Nähe des Denkmals für die Wiedervereinigung im Süden von Pjöngjang.",
+                  "category": "cultural",
+                  "coords": [
+                        125.725556,
+                        38.973317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lee In-mo Memorial",
+                  "text": "Li Inmo észak-koreai haditudósító emlékműve, amely politikai szimbolikájáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        125.721332,
+                        38.978368
+                  ]
+            },
+            {
+                  "name": "Rangnang Museum",
+                  "text": "Ez a múzeum Phenjan régiójának ősi Rangnang-korszakából származó régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        125.723296,
+                        38.967799
+                  ]
+            },
+            {
+                  "name": "Sunhwagang Bridge",
+                  "text": "Egy jelentős közúti híd, amely a Szunhva-folyón ível át Phenjan déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.654181,
+                        38.985835
+                  ]
+            },
+            {
+                  "name": "United Front Monument",
+                  "text": "Ez az emlékmű a politikai egyesülésnek és a Nemzeti Egységfront munkájának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        125.707583,
+                        38.991822
+                  ]
+            },
+            {
+                  "name": "Gwangmun Market",
+                  "text": "Helyi kereskedelmi központ az Újraegyesítési Emlékmű közelében, Phenjan déli részén.",
+                  "category": "cultural",
+                  "coords": [
+                        125.725556,
+                        38.973317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lee In-mo Memorial",
+                  "text": "Un monument dedicat lui Lee In-mo, un corespondent nord-coreean, cunoscut pentru simbolismul său politic.",
+                  "category": "historical",
+                  "coords": [
+                        125.721332,
+                        38.978368
+                  ]
+            },
+            {
+                  "name": "Rangnang Museum",
+                  "text": "Acest muzeu expune descoperiri arheologice din epoca antică Rangnang a regiunii Phenian.",
+                  "category": "museum",
+                  "coords": [
+                        125.723296,
+                        38.967799
+                  ]
+            },
+            {
+                  "name": "Sunhwagang Bridge",
+                  "text": "Un pod rutier important care traversează râul Sunhwa în sudul Phenianului.",
+                  "category": "landmark",
+                  "coords": [
+                        125.654181,
+                        38.985835
+                  ]
+            },
+            {
+                  "name": "United Front Monument",
+                  "text": "Acest monument comemorează unificarea politică și activitatea Frontului Unit Național.",
+                  "category": "historical",
+                  "coords": [
+                        125.707583,
+                        38.991822
+                  ]
+            },
+            {
+                  "name": "Gwangmun Market",
+                  "text": "O piață locală situată în apropierea Monumentului Reunificării din sudul Phenianului.",
+                  "category": "cultural",
+                  "coords": [
+                        125.725556,
+                        38.973317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lee In-mo Memorial",
+                  "text": "A monument dedicated to Lee In-mo, a North Korean correspondent, known for its political symbolism.",
+                  "category": "historical",
+                  "coords": [
+                        125.721332,
+                        38.978368
+                  ]
+            },
+            {
+                  "name": "Rangnang Museum",
+                  "text": "This museum displays archaeological finds from the ancient Rangnang era of the Pyongyang region.",
+                  "category": "museum",
+                  "coords": [
+                        125.723296,
+                        38.967799
+                  ]
+            },
+            {
+                  "name": "Sunhwagang Bridge",
+                  "text": "A significant road bridge spanning the Sunhwa River in southern Pyongyang.",
+                  "category": "landmark",
+                  "coords": [
+                        125.654181,
+                        38.985835
+                  ]
+            },
+            {
+                  "name": "United Front Monument",
+                  "text": "This monument commemorates political unification and the work of the National United Front.",
+                  "category": "historical",
+                  "coords": [
+                        125.707583,
+                        38.991822
+                  ]
+            },
+            {
+                  "name": "Gwangmun Market",
+                  "text": "A local marketplace located near the Arch of Reunification in southern Pyongyang.",
+                  "category": "cultural",
+                  "coords": [
+                        125.725556,
+                        38.973317
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "KP-01",
     coords: [125.698, 38.966],
@@ -522,7 +2961,232 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Deux femmes en costume traditionnel coréen tiennent une carte de la Corée réunifiée.", "Il enjambait l'autoroute de la réunification."],
     }, image: "/poi-images/arch-of-reunification-landmarks-v2.webp"},
   {
-    id: "victorious-war-museum-landmarks-v2",
+    id: "victorious-war-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sosong Bridge",
+                  "text": "Die Sosong-Brücke ist eine Straßenüberführung in Pjöngjang, die den lokalen Verkehr über die darunter liegende Wasserstraße erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        125.735552,
+                        39.026338
+                  ]
+            },
+            {
+                  "name": "Kyeran Islet",
+                  "text": "Der Zoo der Kyeran-Insel liegt auf einer kleinen Insel und bietet Besuchern die Möglichkeit, verschiedene Tiergehege in einer einzigartigen Flussumgebung zu besichtigen.",
+                  "category": "recreational",
+                  "coords": [
+                        125.744874,
+                        39.032388
+                  ]
+            },
+            {
+                  "name": "Potongmun",
+                  "text": "Potongmun ist ein historisches, denkmalgeschütztes Stadttor der Klasse 2 in Pjöngjang, das für seine traditionelle koreanische Dachkonstruktion und den defensiven Steinsockel bekannt ist.",
+                  "category": "fortress",
+                  "coords": [
+                        125.741885,
+                        39.027098
+                  ]
+            },
+            {
+                  "name": "Potong Bridge",
+                  "text": "Die 1962 eröffnete Potong-Brücke ist eine wichtige Verkehrsverbindung über den Potong-Fluss in Pjöngjang.",
+                  "category": "landmark",
+                  "coords": [
+                        125.740533,
+                        39.028265
+                  ]
+            },
+            {
+                  "name": "Mansu Bridge",
+                  "text": "Die Mansu-Brücke in Pjöngjang ist ein funktionales Betonbauwerk, das den örtlichen Fluss überspannt, um verschiedene Stadtteile zu verbinden.",
+                  "category": "landmark",
+                  "coords": [
+                        125.74288,
+                        39.038257
+                  ]
+            },
+            {
+                  "name": "USS Pueblo (AGER-2)",
+                  "text": "Die 1944 in Dienst gestellte, erbeutete USS Pueblo dient heute als Museumsschiff in Pjöngjang und zeigt ihre ursprüngliche Schiffsausrüstung.",
+                  "category": "museum",
+                  "coords": [
+                        125.73972,
+                        39.040522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sosong Bridge",
+                  "text": "A Szoszong híd egy épített átkelő Phenjanban, amely megkönnyíti a helyi forgalmat az alatta lévő vízi út felett.",
+                  "category": "landmark",
+                  "coords": [
+                        125.735552,
+                        39.026338
+                  ]
+            },
+            {
+                  "name": "Kyeran Islet",
+                  "text": "A Kjeran-sziget állatkertje egy kis szigeten található, és egyedülálló folyami környezetben kínál lehetőséget a látogatóknak a különböző állatketrecek megtekintésére.",
+                  "category": "recreational",
+                  "coords": [
+                        125.744874,
+                        39.032388
+                  ]
+            },
+            {
+                  "name": "Potongmun",
+                  "text": "A Pothongmun egy történelmi, 2-es kategóriájú műemlék városkapu Phenjanban, amely a hagyományos koreai tetőszerkezetéről és a védelmi kőalapjáról ismert.",
+                  "category": "fortress",
+                  "coords": [
+                        125.741885,
+                        39.027098
+                  ]
+            },
+            {
+                  "name": "Potong Bridge",
+                  "text": "Az eredetileg 1962-ben megnyitott Pothong-híd létfontosságú közlekedési kapcsolatot biztosít a Pothong-folyó felett Phenjanban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.740533,
+                        39.028265
+                  ]
+            },
+            {
+                  "name": "Mansu Bridge",
+                  "text": "A phenjani Manszu-híd egy funkcionális betonszerkezet, amely a helyi folyón ível át, hogy összekösse a különböző városrészeket.",
+                  "category": "landmark",
+                  "coords": [
+                        125.74288,
+                        39.038257
+                  ]
+            },
+            {
+                  "name": "USS Pueblo (AGER-2)",
+                  "text": "Az 1944-ben hadrendbe állított, elfogott USS Pueblo ma múzeumhajóként szolgál Phenjanban, bemutatva eredeti haditengerészeti felszerelését.",
+                  "category": "museum",
+                  "coords": [
+                        125.73972,
+                        39.040522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sosong Bridge",
+                  "text": "Podul Sosong este o trecere structurală în Phenian care facilitează traficul local peste calea navigabilă de dedesubt.",
+                  "category": "landmark",
+                  "coords": [
+                        125.735552,
+                        39.026338
+                  ]
+            },
+            {
+                  "name": "Kyeran Islet",
+                  "text": "Situat pe o mică insulă, grădina zoologică de pe Insulița Kyeran oferă vizitatorilor posibilitatea de a vedea diverse țarcuri pentru animale într-un cadru fluvial unic.",
+                  "category": "recreational",
+                  "coords": [
+                        125.744874,
+                        39.032388
+                  ]
+            },
+            {
+                  "name": "Potongmun",
+                  "text": "Potongmun este o poartă istorică a orașului de patrimoniu de clasa 2 din Phenian, recunoscută pentru structura tradițională a acoperișului coreean și baza defensivă din piatră.",
+                  "category": "fortress",
+                  "coords": [
+                        125.741885,
+                        39.027098
+                  ]
+            },
+            {
+                  "name": "Potong Bridge",
+                  "text": "Deschis inițial în 1962, Podul Potong oferă o legătură vitală de transport peste râul Potong în Phenian.",
+                  "category": "landmark",
+                  "coords": [
+                        125.740533,
+                        39.028265
+                  ]
+            },
+            {
+                  "name": "Mansu Bridge",
+                  "text": "Podul Mansu din Phenian este o structură funcțională din beton care traversează râul local pentru a conecta districte urbane distincte.",
+                  "category": "landmark",
+                  "coords": [
+                        125.74288,
+                        39.038257
+                  ]
+            },
+            {
+                  "name": "USS Pueblo (AGER-2)",
+                  "text": "Intrată în serviciu în 1944, nava capturată USS Pueblo servește acum ca navă muzeu în Phenian, expunând echipamentele sale navale originale.",
+                  "category": "museum",
+                  "coords": [
+                        125.73972,
+                        39.040522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sosong Bridge",
+                  "text": "Sosong Bridge is a structural crossing in Pyongyang that facilitates local traffic over its underlying waterway.",
+                  "category": "landmark",
+                  "coords": [
+                        125.735552,
+                        39.026338
+                  ]
+            },
+            {
+                  "name": "Kyeran Islet",
+                  "text": "Situated on a small island, the Kyeran Islet zoo offers visitors an opportunity to view various animal enclosures in a unique river setting.",
+                  "category": "recreational",
+                  "coords": [
+                        125.744874,
+                        39.032388
+                  ]
+            },
+            {
+                  "name": "Potongmun",
+                  "text": "Potongmun is a historic class 2 heritage-listed city gate in Pyongyang, recognized for its traditional Korean roof structure and defensive stone base.",
+                  "category": "fortress",
+                  "coords": [
+                        125.741885,
+                        39.027098
+                  ]
+            },
+            {
+                  "name": "Potong Bridge",
+                  "text": "Originally opened in 1962, the Potong Bridge provides a vital transportation link over the Potong River in Pyongyang.",
+                  "category": "landmark",
+                  "coords": [
+                        125.740533,
+                        39.028265
+                  ]
+            },
+            {
+                  "name": "Mansu Bridge",
+                  "text": "Mansu Bridge in Pyongyang is a functional concrete structure spanning the local river to connect distinct urban districts.",
+                  "category": "landmark",
+                  "coords": [
+                        125.74288,
+                        39.038257
+                  ]
+            },
+            {
+                  "name": "USS Pueblo (AGER-2)",
+                  "text": "Commissioned in 1944, the captured USS Pueblo now serves as a museum ship in Pyongyang, displaying its original naval equipment.",
+                  "category": "museum",
+                  "coords": [
+                        125.73972,
+                        39.040522
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KP-01",
     coords: [125.739, 39.034],
@@ -567,7 +3231,340 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Le musée original a ouvert ses portes en 1953.", "Le complexe a été rénové et considérablement agrandi en 2013."],
     }, image: "/poi-images/victorious-war-museum-landmarks-v2.webp"},
     {
-    id: "international-friendship-exhibition-landmarks-v2",
+    id: "international-friendship-exhibition-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seogok Falls",
+                  "text": "Ein herabstürzender Wasserfall in einem bewaldeten Tal des Myohyang-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        126.26332,
+                        40.00113
+                  ]
+            },
+            {
+                  "name": "Eunseon Falls",
+                  "text": "Ein malerischer Wasserfall im Myohyang-Gebirge, der über steile Felsstufen in ein klares Becken stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.265895,
+                        40.002364
+                  ]
+            },
+            {
+                  "name": "Mureung Falls",
+                  "text": "Dieser Gebirgswasserfall ist für sein klares Wasser und die umliegende üppige Vegetation bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.264714,
+                        40.001772
+                  ]
+            },
+            {
+                  "name": "Piseon Falls",
+                  "text": "Ein kaskadierender Wasserfall, der in einer bewaldeten Schlucht des Myohyang-Gebirges liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.268672,
+                        40.004253
+                  ]
+            },
+            {
+                  "name": "Yuseon Falls",
+                  "text": "Ein sanfter Wasserfall, dessen Wasser über glatte Granitfelsen im Hochgebirge fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.267246,
+                        40.003276
+                  ]
+            },
+            {
+                  "name": "Ryongyeon Falls",
+                  "text": "Ein staatlich geschütztes Naturdenkmal, das für sein tiefes Becken am Fuße des Falls bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        126.247292,
+                        40.025027
+                  ]
+            },
+            {
+                  "name": "Cheonshin Falls",
+                  "text": "Ein beeindruckender Wasserfall in einem Granittal, der als wichtiges nationales Kulturerbe gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        126.247378,
+                        40.026062
+                  ]
+            },
+            {
+                  "name": "Puryongdae Hermitage",
+                  "text": "Eine abgelegene Einsiedelei in den Bergen, die Ruhe und einen weiten Blick über das Tal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        126.248969,
+                        40.015081
+                  ]
+            },
+            {
+                  "name": "Neungin Hermitage",
+                  "text": "Eine friedliche buddhistische Meditationsstätte, die in die steilen Hänge des Myohyang-Gebirges eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        126.255191,
+                        40.034811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Seogok Falls",
+                  "text": "A Mjohjang-hegység egyik erdős völgyében alázúduló vízesés.",
+                  "category": "landmark",
+                  "coords": [
+                        126.26332,
+                        40.00113
+                  ]
+            },
+            {
+                  "name": "Eunseon Falls",
+                  "text": "A Myohyang-hegység egyik látványos vízesése, amely meredek sziklafalakon keresztül zúdul a mélybe.",
+                  "category": "landmark",
+                  "coords": [
+                        126.265895,
+                        40.002364
+                  ]
+            },
+            {
+                  "name": "Mureung Falls",
+                  "text": "Ez a hegyi vízesés tiszta vizéről és az azt körülvevő dús növényzetről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        126.264714,
+                        40.001772
+                  ]
+            },
+            {
+                  "name": "Piseon Falls",
+                  "text": "Egy többlépcsős vízesés, amely a Myohyang-hegység egyik erdős szurdokában található.",
+                  "category": "landmark",
+                  "coords": [
+                        126.268672,
+                        40.004253
+                  ]
+            },
+            {
+                  "name": "Yuseon Falls",
+                  "text": "Egy lágy esésű vízesés, amelynek vize sima gránitsziklákon folyik keresztül a magashegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        126.267246,
+                        40.003276
+                  ]
+            },
+            {
+                  "name": "Ryongyeon Falls",
+                  "text": "Államilag védett természeti emlék, amely a vízesés lábánál található mély sziklamedencéjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        126.247292,
+                        40.025027
+                  ]
+            },
+            {
+                  "name": "Cheonshin Falls",
+                  "text": "Egy impozáns vízesés egy gránitvölgyben, amely fontos nemzeti örökségvédelmi helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        126.247378,
+                        40.026062
+                  ]
+            },
+            {
+                  "name": "Puryongdae Hermitage",
+                  "text": "Egy elszigetelt hegyi remetelak, amely nyugalmat és széles kilátást nyújt a völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        126.248969,
+                        40.015081
+                  ]
+            },
+            {
+                  "name": "Neungin Hermitage",
+                  "text": "Békés buddhista meditációs helyszín, amely a Myohyang-hegység meredek lejtőibe simul.",
+                  "category": "landmark",
+                  "coords": [
+                        126.255191,
+                        40.034811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Seogok Falls",
+                  "text": "O cascadă care curge într-o vale împădurită din munții Myohyang.",
+                  "category": "landmark",
+                  "coords": [
+                        126.26332,
+                        40.00113
+                  ]
+            },
+            {
+                  "name": "Eunseon Falls",
+                  "text": "O cascadă pitorească în Munții Myohyang, care se varsă peste praguri stâncoase într-un bazin limpede.",
+                  "category": "landmark",
+                  "coords": [
+                        126.265895,
+                        40.002364
+                  ]
+            },
+            {
+                  "name": "Mureung Falls",
+                  "text": "Această cascadă montană este cunoscută pentru apele sale limpezi și vegetația luxuriantă din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        126.264714,
+                        40.001772
+                  ]
+            },
+            {
+                  "name": "Piseon Falls",
+                  "text": "O cascadă în trepte situată într-un defileu împădurit din Munții Myohyang.",
+                  "category": "landmark",
+                  "coords": [
+                        126.268672,
+                        40.004253
+                  ]
+            },
+            {
+                  "name": "Yuseon Falls",
+                  "text": "O cascadă blândă ale cărei ape curg peste stânci netede de granit în munții înalți.",
+                  "category": "landmark",
+                  "coords": [
+                        126.267246,
+                        40.003276
+                  ]
+            },
+            {
+                  "name": "Ryongyeon Falls",
+                  "text": "Un monument natural protejat de stat, cunoscut pentru bazinul său adânc de la baza căderii de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        126.247292,
+                        40.025027
+                  ]
+            },
+            {
+                  "name": "Cheonshin Falls",
+                  "text": "O cascadă impresionantă într-o vale de granit, considerată un sit important de patrimoniu național.",
+                  "category": "landmark",
+                  "coords": [
+                        126.247378,
+                        40.026062
+                  ]
+            },
+            {
+                  "name": "Puryongdae Hermitage",
+                  "text": "Un schit montan izolat care oferă liniște și o vedere panoramică asupra văii.",
+                  "category": "landmark",
+                  "coords": [
+                        126.248969,
+                        40.015081
+                  ]
+            },
+            {
+                  "name": "Neungin Hermitage",
+                  "text": "Un loc liniștit de meditație budistă, cuibărit în pantele abrupte ale Munților Myohyang.",
+                  "category": "landmark",
+                  "coords": [
+                        126.255191,
+                        40.034811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Seogok Falls",
+                  "text": "A cascading waterfall located in a forested valley of the Myohyang Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        126.26332,
+                        40.00113
+                  ]
+            },
+            {
+                  "name": "Eunseon Falls",
+                  "text": "A scenic waterfall in the Myohyang Mountains that cascades over steep rocky tiers into a clear pool.",
+                  "category": "landmark",
+                  "coords": [
+                        126.265895,
+                        40.002364
+                  ]
+            },
+            {
+                  "name": "Mureung Falls",
+                  "text": "This mountain waterfall is known for its crystal-clear waters and the surrounding lush vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        126.264714,
+                        40.001772
+                  ]
+            },
+            {
+                  "name": "Piseon Falls",
+                  "text": "A cascading waterfall nestled within a forested gorge of the Myohyang Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        126.268672,
+                        40.004253
+                  ]
+            },
+            {
+                  "name": "Yuseon Falls",
+                  "text": "A gentle waterfall whose waters flow over smooth granite boulders in the high mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        126.267246,
+                        40.003276
+                  ]
+            },
+            {
+                  "name": "Ryongyeon Falls",
+                  "text": "A state-protected natural monument known for its deep rocky pool at the base of the falls.",
+                  "category": "landmark",
+                  "coords": [
+                        126.247292,
+                        40.025027
+                  ]
+            },
+            {
+                  "name": "Cheonshin Falls",
+                  "text": "An impressive waterfall in a granite valley, designated as a significant national heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        126.247378,
+                        40.026062
+                  ]
+            },
+            {
+                  "name": "Puryongdae Hermitage",
+                  "text": "A secluded mountain hermitage offering tranquility and expansive views over the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        126.248969,
+                        40.015081
+                  ]
+            },
+            {
+                  "name": "Neungin Hermitage",
+                  "text": "A peaceful Buddhist meditation site nestled into the steep slopes of the Myohyang Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        126.255191,
+                        40.034811
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KP-03",
     coords: [126.262, 40.015],
@@ -663,7 +3660,124 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["À son sommet se trouve un grand lac de cratère appelé le « lac céleste ».", "Selon la légende, c'est le lieu de naissance de Dangun, le fondateur du premier royaume coréen."],
     }, image: "/poi-images/paektu-mountain-landmarks-v2.webp"},
   {
-    id: "dmz-panmunjom-landmarks-v2",
+    id: "dmz-panmunjom-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bridge of 72 hours",
+                  "text": "Die Brücke der 72 Stunden in Panmunjom ist ein historischer Übergang, der nach dem Koreakrieg von Nordkorea bemerkenswert schnell gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        126.670773,
+                        37.959382
+                  ]
+            },
+            {
+                  "name": "Brücke ohne Wiederkehr",
+                  "text": "Die Brücke ohne Wiederkehr in Panmunjom ist berühmt als der Ort, an dem nach dem Koreakrieg Kriegsgefangene ausgetauscht wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        126.670523,
+                        37.956075
+                  ]
+            },
+            {
+                  "name": "North Korea Peace Museum",
+                  "text": "Dieses Museum befindet sich in der Gemeinsamen Sicherheitszone in dem Gebäude, in dem das Waffenstillstandsabkommen für den Koreakrieg unterzeichnet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        126.664194,
+                        37.96132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bridge of 72 hours",
+                  "text": "A panmundzsoni 72 órás híd egy történelmi átkelő, amelyet Észak-Korea figyelemre méltó gyorsasággal épített meg a koreai háború után.",
+                  "category": "landmark",
+                  "coords": [
+                        126.670773,
+                        37.959382
+                  ]
+            },
+            {
+                  "name": "Bridge of No Return",
+                  "text": "A panmundzsoni Visszatérés nélküli híd híres arról, hogy a koreai háború után itt cserélték ki a hadifoglyokat.",
+                  "category": "landmark",
+                  "coords": [
+                        126.670523,
+                        37.956075
+                  ]
+            },
+            {
+                  "name": "North Korea Peace Museum",
+                  "text": "A Közös Biztonsági Területen található múzeum abban az épületben kapott helyet, ahol a koreai háború fegyverszüneti egyezményét aláírták.",
+                  "category": "museum",
+                  "coords": [
+                        126.664194,
+                        37.96132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bridge of 72 hours",
+                  "text": "Podul celor 72 de ore din Panmunjom este o trecere istorică construită remarcabil de rapid de Coreea de Nord după Războiul din Coreea.",
+                  "category": "landmark",
+                  "coords": [
+                        126.670773,
+                        37.959382
+                  ]
+            },
+            {
+                  "name": "Bridge of No Return",
+                  "text": "Podul Fără Întoarcere din Panmunjom este faimos ca fiind locul unde au fost schimbați prizonierii de război după Războiul din Coreea.",
+                  "category": "landmark",
+                  "coords": [
+                        126.670523,
+                        37.956075
+                  ]
+            },
+            {
+                  "name": "North Korea Peace Museum",
+                  "text": "Situat în Zona Comună de Securitate, acest muzeu este găzduit în clădirea în care a fost semnat Acordul de Armistițiu al Războiului din Coreea.",
+                  "category": "museum",
+                  "coords": [
+                        126.664194,
+                        37.96132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bridge of 72 hours",
+                  "text": "The Bridge of 72 Hours in Panmunjom is a historic crossing built remarkably quickly by North Korea after the Korean War.",
+                  "category": "landmark",
+                  "coords": [
+                        126.670773,
+                        37.959382
+                  ]
+            },
+            {
+                  "name": "Bridge of No Return",
+                  "text": "The Bridge of No Return in Panmunjom is famously known as the site where prisoners of war were exchanged after the Korean War.",
+                  "category": "landmark",
+                  "coords": [
+                        126.670523,
+                        37.956075
+                  ]
+            },
+            {
+                  "name": "North Korea Peace Museum",
+                  "text": "Located in the Joint Security Area, this museum is housed in the building where the Korean War Armistice Agreement was signed.",
+                  "category": "museum",
+                  "coords": [
+                        126.664194,
+                        37.96132
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KP-05",
     coords: [126.677, 37.956],
@@ -711,7 +3825,52 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["L'un des endroits les plus fortifiés au monde.", "Les touristes peuvent visiter les salles de conférence bleues de la zone de sécurité conjointe."],
     }, image: "/poi-images/dmz-panmunjom-landmarks-v2.webp"},
   {
-    id: "kaesong-historic-city-landmarks-v2",
+    id: "kaesong-historic-city-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Namsan Mountain",
+                  "text": "Ein zentraler Hügel in Kaesong, der einen weiten Panoramablick über die historische Altstadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        126.55362,
+                        37.956007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namsan Mountain",
+                  "text": "Keszong központi dombja, amely széles panorámát nyújt a történelmi óvárosra.",
+                  "category": "natural",
+                  "coords": [
+                        126.55362,
+                        37.956007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Namsan Mountain",
+                  "text": "Un deal central în Kaesong, oferind o vedere panoramică largă asupra centrului istoric al orașului.",
+                  "category": "natural",
+                  "coords": [
+                        126.55362,
+                        37.956007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Namsan Mountain",
+                  "text": "A central hill in Kaesong offering a wide panoramic view over the historic old town.",
+                  "category": "natural",
+                  "coords": [
+                        126.55362,
+                        37.956007
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KP-05",
     coords: [126.55, 37.97],
@@ -759,7 +3918,52 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Elle est connue pour sa production de ginseng.", "Elle abrite le musée Koryo, qui retrace l'histoire du royaume."],
     }, image: "/poi-images/kaesong-historic-city-landmarks-v2.webp"},
   {
-    id: "masikryong-ski-resort-landmarks-v2",
+    id: "masikryong-ski-resort-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hwagae Mountain",
+                  "text": "Ein Gipfel in der Nähe des Skigebiets Masikryong, bekannt für seine weite Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        127.10396,
+                        39.093726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hwagae Mountain",
+                  "text": "A Maszikrjong síközpont közelében található hegycsúcs, amely széles kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        127.10396,
+                        39.093726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hwagae Mountain",
+                  "text": "Un vârf din apropierea stațiunii de schi Masikryong, cunoscut pentru panoramele sale vaste.",
+                  "category": "natural",
+                  "coords": [
+                        127.10396,
+                        39.093726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hwagae Mountain",
+                  "text": "A peak near the Masikryong Ski Resort, known for its wide-ranging views.",
+                  "category": "natural",
+                  "coords": [
+                        127.10396,
+                        39.093726
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KP-07",
     coords: [127.184, 39.034],
@@ -807,7 +4011,232 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Elle dispose de plusieurs pistes de différents niveaux de difficulté et d'un hôtel de luxe.", "L'équipement proviendrait d'Europe."],
     }, image: "/poi-images/masikryong-ski-resort-landmarks-v2.webp"},
   {
-    id: "wonsan-kalma-coastal-tourist-area-landmarks-v2",
+    id: "wonsan-kalma-coastal-tourist-area-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Myeongsa Shipri Theater",
+                  "text": "Das moderne Theater ist Teil des neu entwickelten Kalma-Küstenresorts für internationale Touristen.",
+                  "category": "cultural",
+                  "coords": [
+                        127.490571,
+                        39.165849
+                  ]
+            },
+            {
+                  "name": "Parachuting School",
+                  "text": "Diese spezialisierte Anlage im Touristengebiet dient dem Training für Fallschirmsprung und Flugsport.",
+                  "category": "landmark",
+                  "coords": [
+                        127.481181,
+                        39.185656
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Das Kulturzentrum bietet eine Bühne für lokale Kunstaufführungen und revolutionäre Opern.",
+                  "category": "cultural",
+                  "coords": [
+                        127.485142,
+                        39.070282
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Beach",
+                  "text": "Der vier Kilometer lange weiße Sandstrand ist als „Zehn-Ri-Strand“ landesweit bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        127.48207,
+                        39.188056
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Indoor Wading Pool",
+                  "text": "Dieses moderne Hallenbad im Resort bietet beheizte Becken für das Baden bei jedem Wetter.",
+                  "category": "recreational",
+                  "coords": [
+                        127.478769,
+                        39.183434
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Water Park",
+                  "text": "Der weitläufige Wasserpark verfügt über zahlreiche Rutschen und Außenbecken direkt an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        127.502167,
+                        39.155531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Myeongsa Shipri Theater",
+                  "text": "A modern színház az újonnan kifejlesztett Kalma tengerparti üdülőhely része a nemzetközi turisták számára.",
+                  "category": "cultural",
+                  "coords": [
+                        127.490571,
+                        39.165849
+                  ]
+            },
+            {
+                  "name": "Parachuting School",
+                  "text": "Ez a turisztikai övezetben található speciális létesítmény ejtőernyős és repülősport edzésekre szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        127.481181,
+                        39.185656
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "A kulturális központ helyi művészeti előadásoknak és forradalmi operáknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        127.485142,
+                        39.070282
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Beach",
+                  "text": "A négy kilométer hosszú, fehér homokos part „Tíz-ri strandként” vált országszerte ismertté.",
+                  "category": "recreational",
+                  "coords": [
+                        127.48207,
+                        39.188056
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Indoor Wading Pool",
+                  "text": "Az üdülőhely modern fedett uszodája fűtött medencékkel várja a látogatókat minden időjárásban.",
+                  "category": "recreational",
+                  "coords": [
+                        127.478769,
+                        39.183434
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Water Park",
+                  "text": "A kiterjedt vízipark számos csúszdával és szabadtéri medencével várja a vendégeket közvetlenül a parton.",
+                  "category": "recreational",
+                  "coords": [
+                        127.502167,
+                        39.155531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Myeongsa Shipri Theater",
+                  "text": "Acest teatru modern face parte din noua stațiune de coastă Kalma, dezvoltată pentru turiștii internaționali.",
+                  "category": "cultural",
+                  "coords": [
+                        127.490571,
+                        39.165849
+                  ]
+            },
+            {
+                  "name": "Parachuting School",
+                  "text": "Această instalație specializată din zona turistică servește pentru antrenamente de parașutism și sporturi aeronautice.",
+                  "category": "landmark",
+                  "coords": [
+                        127.481181,
+                        39.185656
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Acest centru cultural oferă o scenă pentru spectacole de artă locală și opere revoluționare.",
+                  "category": "cultural",
+                  "coords": [
+                        127.485142,
+                        39.070282
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Beach",
+                  "text": "Această plajă cu nisip alb, lungă de patru kilometri, este cunoscută în întreaga țară sub numele de „Plaja de Zece Ri”.",
+                  "category": "recreational",
+                  "coords": [
+                        127.48207,
+                        39.188056
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Indoor Wading Pool",
+                  "text": "Această piscină interioară modernă din stațiune oferă bazine încălzite pentru scăldat în orice condiții meteo.",
+                  "category": "recreational",
+                  "coords": [
+                        127.478769,
+                        39.183434
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Water Park",
+                  "text": "Acest parc acvatic vast dispune de numeroase tobogane și bazine exterioare chiar pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        127.502167,
+                        39.155531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Myeongsa Shipri Theater",
+                  "text": "This modern theater is part of the newly developed Kalma coastal resort for international tourists.",
+                  "category": "cultural",
+                  "coords": [
+                        127.490571,
+                        39.165849
+                  ]
+            },
+            {
+                  "name": "Parachuting School",
+                  "text": "This specialized facility in the tourist zone serves as a training ground for parachuting and aerial sports.",
+                  "category": "landmark",
+                  "coords": [
+                        127.481181,
+                        39.185656
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "This arts center provides a stage for local cultural performances and revolutionary operas.",
+                  "category": "cultural",
+                  "coords": [
+                        127.485142,
+                        39.070282
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Beach",
+                  "text": "This four-kilometer stretch of white sand is famously known nationwide as the 'Ten-Ri Beach'.",
+                  "category": "recreational",
+                  "coords": [
+                        127.48207,
+                        39.188056
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Indoor Wading Pool",
+                  "text": "This modern indoor wading pool at the resort offers heated basins for swimming in any weather.",
+                  "category": "recreational",
+                  "coords": [
+                        127.478769,
+                        39.183434
+                  ]
+            },
+            {
+                  "name": "Myongsasimni Water Park",
+                  "text": "This extensive water park features numerous slides and outdoor pools right on the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        127.502167,
+                        39.155531
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KP-07",
     coords: [127.48, 39.14],
@@ -852,7 +4281,88 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       fr: ["Destiné à devenir un pôle touristique international.", "L'achèvement des travaux a été retardé à plusieurs reprises."],
     }, image: "/poi-images/wonsan-kalma-coastal-tourist-area-landmarks-v2.webp"},
   {
-    id: "sinchon-museum-of-american-war-atrocities-landmarks-v2",
+    id: "sinchon-museum-of-american-war-atrocities-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shincheon Museum",
+                  "text": "Das Shincheon-Museum in Sinchon zeigt Artefakte und Berichte, die die amerikanischen Kriegsgräuel während des Koreakriegs detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        125.495491,
+                        38.353641
+                  ]
+            },
+            {
+                  "name": "Sincheon Museum of American War Atrocities",
+                  "text": "Dieses in Sinchon gelegene Museum zeigt propagandistische Exponate und Artefakte, die amerikanische Kriegsgräuel während des Koreakriegs darstellen.",
+                  "category": "museum",
+                  "coords": [
+                        125.487994,
+                        38.355576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shincheon Museum",
+                  "text": "A Sincshonban található Shincheon Múzeum a koreai háború alatti amerikai háborús atrocitásokat részletező leleteket és beszámolókat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        125.495491,
+                        38.353641
+                  ]
+            },
+            {
+                  "name": "Sincheon Museum of American War Atrocities",
+                  "text": "Ez a Sincshonban található múzeum a koreai háború alatti amerikai háborús atrocitásokat bemutató propagandisztikus kiállításoknak és leleteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        125.487994,
+                        38.355576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shincheon Museum",
+                  "text": "Muzeul Shincheon din Sinchon expune artefacte și relatări care detaliază atrocitățile de război americane din timpul Războiului din Coreea.",
+                  "category": "museum",
+                  "coords": [
+                        125.495491,
+                        38.353641
+                  ]
+            },
+            {
+                  "name": "Sincheon Museum of American War Atrocities",
+                  "text": "Situat în Sinchon, acest muzeu prezintă expoziții propagandistice și artefacte care ilustrează atrocitățile de război americane din timpul Războiului din Coreea.",
+                  "category": "museum",
+                  "coords": [
+                        125.487994,
+                        38.355576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shincheon Museum",
+                  "text": "The Shincheon Museum in Sinchon exhibits artifacts and accounts detailing the American war atrocities during the Korean War.",
+                  "category": "museum",
+                  "coords": [
+                        125.495491,
+                        38.353641
+                  ]
+            },
+            {
+                  "name": "Sincheon Museum of American War Atrocities",
+                  "text": "Located in Sinchon, this museum displays propagandistic exhibits and artifacts depicting the American war atrocities during the Korean War.",
+                  "category": "museum",
+                  "coords": [
+                        125.487994,
+                        38.355576
+                  ]
+            }
+      ]
+},
     type: "tourist-attraction",
     parent: "KP-04",
     coords: [125.483, 38.358],

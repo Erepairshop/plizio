@@ -25,7 +25,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Lokvinjska kosa",
-                  "text": "Ein Berggipfel in der Nähe von Bistrica, ideal für Wanderungen in der Natur.",
+                  "text": "Bergrücken namens Lokvinjska kosa nahe dem Wasserkraftwerk Bistrica in Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.334107,
@@ -99,7 +99,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Lokvinjska kosa",
-                  "text": "Hegycsúcs Bistrica közelében, amely ideális természeti túrákhoz.",
+                  "text": "Lokvinjska kosa nevű gerinc a Bistrica vízerőmű közelében, Montenegróban.",
                   "category": "landmark",
                   "coords": [
                         19.334107,
@@ -173,7 +173,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Lokvinjska kosa",
-                  "text": "Un vârf muntos lângă Bistrica, ideal pentru drumeții în natură.",
+                  "text": "Creasta numită Lokvinjska kosa lângă hidrocentrala Bistrica din Muntenegru.",
                   "category": "landmark",
                   "coords": [
                         19.334107,
@@ -247,7 +247,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Lokvinjska kosa",
-                  "text": "A mountain peak near Bistrica, ideal for nature hikes.",
+                  "text": "Ridge called Lokvinjska kosa near the Bistrica hydroelectric plant in Montenegro.",
                   "category": "landmark",
                   "coords": [
                         19.334107,
@@ -430,7 +430,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Plaža Žukotorlica 7C",
-                  "text": "Ein Strandbereich in Bar, der in der Nähe des Hafens liegt.",
+                  "text": "Ein Strand im Hafenbereich von Bar.",
                   "category": "recreational",
                   "coords": [
                         19.083607,
@@ -531,7 +531,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Plaža Žukotorlica 7C",
-                  "text": "Tengerparti rész Barban, a kikötő közvetlen közelében.",
+                  "text": "Strand Bar kikötői területén.",
                   "category": "recreational",
                   "coords": [
                         19.083607,
@@ -632,7 +632,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Plaža Žukotorlica 7C",
-                  "text": "O zonă de plajă în Bar, situată în apropierea portului.",
+                  "text": "O plajă în zona portului Bar.",
                   "category": "recreational",
                   "coords": [
                         19.083607,
@@ -733,7 +733,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Plaža Žukotorlica 7C",
-                  "text": "A beach area in Bar located close to the harbor.",
+                  "text": "A beach in the port area of Bar.",
                   "category": "recreational",
                   "coords": [
                         19.083607,
@@ -844,7 +844,7 @@ export const montenegroEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Lesendro",
-                  "text": "Eine historische Inselfestung im Skutarisee.",
+                  "text": "Osmanische Festung aus dem 19. Jahrhundert auf einer Insel im Skutarisee.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -864,7 +864,7 @@ export const montenegroEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Lesendro",
-                  "text": "Történelmi szigetierőd a Shkodrai-tóban.",
+                  "text": "19. századi oszmán erőd egy kis szigeten a Skadari-tóban.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -884,7 +884,7 @@ export const montenegroEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Lesendro",
-                  "text": "O cetate istorică pe o insulă în lacul Skadar.",
+                  "text": "Fortăreață otomană din secolul al XIX-lea pe o insuliță în Lacul Skadar.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -904,7 +904,7 @@ export const montenegroEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Lesendro",
-                  "text": "A historic island fortress located in Lake Skadar.",
+                  "text": "19th-century Ottoman fortress on a small island in Lake Skadar.",
                   "category": "fortress",
                   "coords": [
                         19.119716,
@@ -1281,7 +1281,88 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-niksic-steel-economic-v2.webp",
   },
   {
-    id: "montenegro-kumbor-military-economic-v2", "sights": {"de": [{"name": "Portonovi", "text": "Portonovi Strand bei Kumbor.", "category": "recreational", "coords": [18.599577, 42.434923]}, {"name": "Zmijice Beach", "text": "Am ehemaligen Militärgebiet Kumbor gelegen, bietet der Zmijice Strand eine ruhige und historisch interessante Küstenatmosphäre. Badefreunde können hier entspannte Stunden am Wasser genießen, fernab vom Trubel großer Strände. Ein idealer Ort, um bei sanftem Wellenschlag die Ruhe der montenegrinischen Küste zu erleben.", "category": "recreational", "coords": [18.577108, 42.445802]}], "hu": [{"name": "Portonovi", "text": "Portonovi strand Kumbor közelében.", "category": "recreational", "coords": [18.599577, 42.434923]}, {"name": "Zmijice Beach", "text": "Az egykori kumbori katonai területnél található Zmijice strand csendes és történelmileg is érdekes tengerparti hangulatot kínál. A fürdőzők nyugodt órákat tölthetnek el itt a vízparton, távol a nagy strandok nyüzsgésétől. Ideális hely arra, hogy a lágy hullámverés hangjára átélje a montenegrói tengerpart nyugalmát.", "category": "recreational", "coords": [18.577108, 42.445802]}], "ro": [{"name": "Portonovi", "text": "Plaja Portonovi lângă Kumbor.", "category": "recreational", "coords": [18.599577, 42.434923]}, {"name": "Zmijice Beach", "text": "Situată lângă fosta zonă militară Kumbor, plaja Zmijice oferă o atmosferă de coastă liniștită și interesantă din punct de vedere istoric. Iubitorii de plajă se pot bucura aici de ore relaxante lângă apă, departe de agitația marilor plaje. Un loc ideal pentru a experimenta liniștea coastei muntenegrene în sunetul valurilor blânde.", "category": "recreational", "coords": [18.577108, 42.445802]}], "en": [{"name": "Portonovi", "text": "Portonovi beach near Kumbor.", "category": "recreational", "coords": [18.599577, 42.434923]}, {"name": "Zmijice Beach", "text": "Located by the former Kumbor military area, Zmijice Beach offers a quiet and historically interesting coastal atmosphere. Beachgoers can enjoy relaxing hours by the water here, far away from the hustle of large beaches. An ideal place to experience the tranquility of the Montenegrin coast to the sound of gentle waves.", "category": "recreational", "coords": [18.577108, 42.445802]}]},
+    id: "montenegro-kumbor-military-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portonovi",
+                  "text": "Ein Resort-Komplex nahe dem Militärgelände von Kumbor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.599577,
+                        42.434923
+                  ]
+            },
+            {
+                  "name": "Zmijice Beach",
+                  "text": "Am ehemaligen Militärgebiet Kumbor gelegen, bietet der Zmijice Strand eine ruhige und historisch interessante Küstenatmosphäre. Badefreunde können hier entspannte Stunden am Wasser genießen, fernab vom Trubel großer Strände. Ein idealer Ort, um bei sanftem Wellenschlag die Ruhe der montenegrinischen Küste zu erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        18.577108,
+                        42.445802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portonovi",
+                  "text": "Üdülőkomplexum a Kumbor-i katonai terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.599577,
+                        42.434923
+                  ]
+            },
+            {
+                  "name": "Zmijice Beach",
+                  "text": "Az egykori kumbori katonai területnél található Zmijice strand csendes és történelmileg is érdekes tengerparti hangulatot kínál. A fürdőzők nyugodt órákat tölthetnek el itt a vízparton, távol a nagy strandok nyüzsgésétől. Ideális hely arra, hogy a lágy hullámverés hangjára átélje a montenegrói tengerpart nyugalmát.",
+                  "category": "recreational",
+                  "coords": [
+                        18.577108,
+                        42.445802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portonovi",
+                  "text": "Un complex de resort lângă zona militară Kumbor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.599577,
+                        42.434923
+                  ]
+            },
+            {
+                  "name": "Zmijice Beach",
+                  "text": "Situată lângă fosta zonă militară Kumbor, plaja Zmijice oferă o atmosferă de coastă liniștită și interesantă din punct de vedere istoric. Iubitorii de plajă se pot bucura aici de ore relaxante lângă apă, departe de agitația marilor plaje. Un loc ideal pentru a experimenta liniștea coastei muntenegrene în sunetul valurilor blânde.",
+                  "category": "recreational",
+                  "coords": [
+                        18.577108,
+                        42.445802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portonovi",
+                  "text": "A resort complex near the Kumbor military area.",
+                  "category": "recreational",
+                  "coords": [
+                        18.599577,
+                        42.434923
+                  ]
+            },
+            {
+                  "name": "Zmijice Beach",
+                  "text": "Located by the former Kumbor military area, Zmijice Beach offers a quiet and historically interesting coastal atmosphere. Beachgoers can enjoy relaxing hours by the water here, far away from the hustle of large beaches. An ideal place to experience the tranquility of the Montenegrin coast to the sound of gentle waves.",
+                  "category": "recreational",
+                  "coords": [
+                        18.577108,
+                        42.445802
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ME",
     name: { de: "Hafen Kumbor", hu: "Kumbor kikötő", ro: "Portul Kumbor", en: "Kumbor Port" },
@@ -1789,7 +1870,7 @@ export const montenegroEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Pizana",
-                  "text": "Pizana befindet sich nahe der Marina Budva.",
+                  "text": "Ein Strand an der Budva Marina.",
                   "category": "recreational",
                   "coords": [
                         18.839635,
@@ -1834,7 +1915,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Citadela",
-                  "text": "Die Zitadelle ist eine historische Festungsanlage in Budva.",
+                  "text": "Mittelalterliche Festung Citadela in Budva Marina, Montenegro, mit Blick auf die Adria.",
                   "category": "castle",
                   "coords": [
                         18.838172,
@@ -1843,7 +1924,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Strand Slovenska plaža",
-                  "text": "Der Slovenska-Strand ist ein bekannter Kieselstrand in Budva.",
+                  "text": "Beliebter Sandstrand Slovenska Beach in Budva Marina, Montenegro.",
                   "category": "recreational",
                   "coords": [
                         18.848868,
@@ -1899,7 +1980,7 @@ export const montenegroEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Pizana",
-                  "text": "Pizana a Budva kikötő közelében található.",
+                  "text": "Strand a Budvai Marinánál.",
                   "category": "recreational",
                   "coords": [
                         18.839635,
@@ -1944,7 +2025,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Citadela",
-                  "text": "A Citadella egy történelmi erődítmény Budva városában.",
+                  "text": "Citadela középkori erőd Budva Marinában, Montenegróban, az Adriai-tengerre néz.",
                   "category": "castle",
                   "coords": [
                         18.838172,
@@ -1953,7 +2034,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Slovenska plaža",
-                  "text": "A Slovenska-part egy népszerű kavicsos strand Budvában.",
+                  "text": "Népszerű homokos strand, Slovenska Beach Budva Marinában, Montenegróban.",
                   "category": "recreational",
                   "coords": [
                         18.848868,
@@ -2009,7 +2090,7 @@ export const montenegroEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Pizana",
-                  "text": "Pizana se află în apropierea portului Budva.",
+                  "text": "O plajă la Marina Budva.",
                   "category": "recreational",
                   "coords": [
                         18.839635,
@@ -2054,7 +2135,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Citadela",
-                  "text": "Citadela este o fortăreață istorică situată în Budva.",
+                  "text": "Fortăreața medievală Citadela în Budva Marina, Muntenegru, cu vedere la Marea Adriatică.",
                   "category": "castle",
                   "coords": [
                         18.838172,
@@ -2063,7 +2144,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Slovenska plaža",
-                  "text": "Plaja Slovenska este o plajă populară cu pietriș în Budva.",
+                  "text": "Plajă nisipoasă populară numită Slovenska Beach în Budva Marina, Muntenegru.",
                   "category": "recreational",
                   "coords": [
                         18.848868,
@@ -2119,7 +2200,7 @@ export const montenegroEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Pizana",
-                  "text": "Pizana is located near the Budva Marina.",
+                  "text": "A beach at Budva Marina.",
                   "category": "recreational",
                   "coords": [
                         18.839635,
@@ -2164,7 +2245,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Citadela",
-                  "text": "The Citadel is a historical fortress located in Budva.",
+                  "text": "Medieval fortress Citadela in Budva Marina, Montenegro, overlooking the Adriatic.",
                   "category": "castle",
                   "coords": [
                         18.838172,
@@ -2173,7 +2254,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Slovenska Beach",
-                  "text": "Slovenska Beach is a popular pebble beach in Budva.",
+                  "text": "Popular sandy beach Slovenska Beach in Budva Marina, Montenegro.",
                   "category": "recreational",
                   "coords": [
                         18.848868,
@@ -2365,7 +2446,7 @@ export const montenegroEconomicV2: POI[] = [
       "de": [
             {
                   "name": "Daznik",
-                  "text": "Daznik ist ein Berggipfel in der Region Župa.",
+                  "text": "Naturdenkmal Daznik in der Region Zupa bei Niksic, Montenegro.",
                   "category": "natural",
                   "coords": [
                         19.074727,
@@ -2374,7 +2455,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Đurkovo brdo",
-                  "text": "Đurkovo brdo ist ein Berggipfel in der Region Župa.",
+                  "text": "Hügel Đurkovo brdo in der Region Zupa bei Niksic, Montenegro.",
                   "category": "natural",
                   "coords": [
                         19.078299,
@@ -2385,7 +2466,7 @@ export const montenegroEconomicV2: POI[] = [
       "hu": [
             {
                   "name": "Daznik",
-                  "text": "A Daznik egy hegycsúcs Župa régiójában.",
+                  "text": "Daznik természeti nevezetesség a Zupa régióban Niksic közelében, Montenegróban.",
                   "category": "natural",
                   "coords": [
                         19.074727,
@@ -2394,7 +2475,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Đurkovo brdo",
-                  "text": "A Đurkovo brdo egy hegycsúcs Župa régiójában.",
+                  "text": "Đurkovo brdo domb a Zupa régióban Niksic közelében, Montenegróban.",
                   "category": "natural",
                   "coords": [
                         19.078299,
@@ -2405,7 +2486,7 @@ export const montenegroEconomicV2: POI[] = [
       "ro": [
             {
                   "name": "Daznik",
-                  "text": "Daznik este un vârf montan din regiunea Župa.",
+                  "text": "Reper natural Daznik în regiunea Zupa lângă Niksic, Muntenegru.",
                   "category": "natural",
                   "coords": [
                         19.074727,
@@ -2414,7 +2495,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Đurkovo brdo",
-                  "text": "Đurkovo brdo este un vârf montan din regiunea Župa.",
+                  "text": "Dealul Đurkovo brdo în regiunea Zupa lângă Niksic, Muntenegru.",
                   "category": "natural",
                   "coords": [
                         19.078299,
@@ -2425,7 +2506,7 @@ export const montenegroEconomicV2: POI[] = [
       "en": [
             {
                   "name": "Daznik",
-                  "text": "Daznik is a mountain peak in the Region Župa.",
+                  "text": "Natural landmark Daznik in the Zupa region near Niksic, Montenegro.",
                   "category": "natural",
                   "coords": [
                         19.074727,
@@ -2434,7 +2515,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Đurkovo brdo",
-                  "text": "Đurkovo brdo is a mountain peak in the Region Župa.",
+                  "text": "Hill Đurkovo brdo in the Zupa region near Niksic, Montenegro.",
                   "category": "natural",
                   "coords": [
                         19.078299,
@@ -3094,7 +3175,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Das ehemalige Regierungsgebäude beherbergt heute die Sammlungen des Nationalmuseums von Montenegro.",
+                  "text": "Nationalmuseum im ehemaligen Regierungsgebäude, das montenegrinische königliche Artefakte zeigt.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -3150,7 +3231,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Az egykori kormányzati épület ma a Montenegrói Nemzeti Múzeum gyűjteményeinek ad otthont.",
+                  "text": "Nemzeti múzeum a volt kormányzati épületben, montenegrói királyi tárgyakkal.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -3206,7 +3287,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Fosta casă a guvernului găzduiește astăzi colecțiile Muzeului Național al Muntenegrului.",
+                  "text": "Muzeul Național găzduit în fosta Casă de Guvern, care expune artefacte regale muntenegrene.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -3262,7 +3343,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Government House - National Museum of Montenegro",
-                  "text": "The former government house now houses the collections of the National Museum of Montenegro.",
+                  "text": "National museum housed in the former Government House, displaying Montenegrin royal artifacts.",
                   "category": "museum",
                   "coords": [
                         18.922877,
@@ -3661,7 +3742,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Prirodnjački Muzej Crne Gore",
-                  "text": "Ein Museum in Podgorica, das die Naturgeschichte der Region zeigt.",
+                  "text": "Das Naturkundemuseum zeigt Montenegros Geologie und Biodiversität.",
                   "category": "museum",
                   "coords": [
                         19.262371,
@@ -3688,7 +3769,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Banya Wellness Spa Center",
-                  "text": "Das Banya Wellness Spa Center ist eine moderne Wellness-Einrichtung in Podgorica.",
+                  "text": "Ein Wellnesscenter mit Thermalbädern in Podgorica.",
                   "category": "recreational",
                   "coords": [
                         19.243168,
@@ -3735,7 +3816,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Prirodnjački Muzej Crne Gore",
-                  "text": "A régió természetrajzát bemutató múzeum Podgoricában.",
+                  "text": "A Természettudományi Múzeum Montenegró geológiáját és biológiai sokféleségét mutatja be.",
                   "category": "museum",
                   "coords": [
                         19.262371,
@@ -3762,7 +3843,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Banya Wellness Spa Center",
-                  "text": "A Banya Wellness Spa Center egy modern wellness és spa központ Podgoricában.",
+                  "text": "Wellness-központ termálfürdőkkel Podgoricában.",
                   "category": "recreational",
                   "coords": [
                         19.243168,
@@ -3809,7 +3890,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Prirodnjački Muzej Crne Gore",
-                  "text": "Un muzeu din Podgorica care prezintă istoria naturală a regiunii.",
+                  "text": "Muzeul de Istorie Naturală prezintă geologia și biodiversitatea Muntenegrului.",
                   "category": "museum",
                   "coords": [
                         19.262371,
@@ -3836,7 +3917,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Banya Wellness Spa Center",
-                  "text": "Banya Wellness Spa Center este o facilitate modernă de spa și wellness din Podgorica.",
+                  "text": "Un centru spa cu băi termale în Podgorica.",
                   "category": "recreational",
                   "coords": [
                         19.243168,
@@ -3883,7 +3964,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Natural History Museum of Montenegro",
-                  "text": "A museum in Podgorica showcasing the natural history of the region.",
+                  "text": "The Natural History Museum showcases Montenegro's geology and biodiversity.",
                   "category": "museum",
                   "coords": [
                         19.262371,
@@ -3910,7 +3991,7 @@ export const montenegroEconomicV2: POI[] = [
             },
             {
                   "name": "Banya Wellness Spa Center",
-                  "text": "Banya Wellness Spa Center is a modern spa and wellness facility in Podgorica.",
+                  "text": "A wellness spa with thermal baths in Podgorica.",
                   "category": "recreational",
                   "coords": [
                         19.243168,

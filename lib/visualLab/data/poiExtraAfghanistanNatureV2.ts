@@ -180,7 +180,52 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       fr: ["Longueur 1150 km", "Plus long fleuve d'Afghanistan", "Prend sa source dans l'Hindou Kouch", "Se jette dans le lac Hamoun", "Vital pour l'irrigation à Helmand et Kandahar", "Conflits liés à l'eau avec l'Iran"],
     },
   },  {
-    id: "afghanistan-hari-rud-nature-v2",
+    id: "afghanistan-hari-rud-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qal`ah-ye Kumah",
+                  "text": "Qal`ah-ye Kumah ist eine verwitterte Festungsruine, die über die dramatischen Landschaften des Hari-Rud-Flusstals blickt.",
+                  "category": "landmark",
+                  "coords": [
+                        62.072962,
+                        34.271378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qal`ah-ye Kumah",
+                  "text": "A Qal`ah-ye Kumah egy mára megkopott erődrom, amely a Hari Rud folyóvölgy drámai tájaira néz.",
+                  "category": "landmark",
+                  "coords": [
+                        62.072962,
+                        34.271378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qal`ah-ye Kumah",
+                  "text": "Qal`ah-ye Kumah este o fortăreață ruinată care domină peisajele spectaculoase ale văii râului Hari Rud.",
+                  "category": "landmark",
+                  "coords": [
+                        62.072962,
+                        34.271378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qal`ah-ye Kumah",
+                  "text": "Qal`ah-ye Kumah is a weathered fortress ruin overlooking the dramatic landscapes of the Hari Rud river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        62.072962,
+                        34.271378
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AF-HER",
     coords: [62.0, 34.3],
@@ -324,7 +369,88 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
     },
   },
   {
-    id: "afghanistan-koktscha-river-nature-v2",
+    id: "afghanistan-koktscha-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ai Khanoum",
+                  "text": "Ai Khanoum ist eine faszinierende archäologische Stätte, die die Überreste einer antiken griechisch-baktrischen Stadt am Fluss Koktscha zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        69.411978,
+                        37.166
+                  ]
+            },
+            {
+                  "name": "Imam Azam Mosque(Haji Dana Mosque)",
+                  "text": "Die Imam-Azam-Moschee dient als lokales muslimisches spirituelles Zentrum in der Nähe des Flusses Koktscha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.425649,
+                        37.067561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ai Khanoum",
+                  "text": "Ai Khanoum egy lenyűgöző régészeti lelőhely, amely egy ókori görög-baktriai város maradványait tárja fel a Kokcha folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        69.411978,
+                        37.166
+                  ]
+            },
+            {
+                  "name": "Imam Azam Mosque(Haji Dana Mosque)",
+                  "text": "Az Imam Azam mecset helyi muszlim szellemi központként működik a Kokcha folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        69.425649,
+                        37.067561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ai Khanoum",
+                  "text": "Ai Khanoum este un sit arheologic fascinant care detaliază rămășițele unui oraș antic greco-bactrian pe râul Kokcha.",
+                  "category": "historical",
+                  "coords": [
+                        69.411978,
+                        37.166
+                  ]
+            },
+            {
+                  "name": "Imam Azam Mosque(Haji Dana Mosque)",
+                  "text": "Moscheea Imam Azam servește ca centru spiritual musulman local în apropiere de râul Kokcha.",
+                  "category": "landmark",
+                  "coords": [
+                        69.425649,
+                        37.067561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ai Khanoum",
+                  "text": "Ai Khanoum is a fascinating archaeological site detailing the remains of an ancient Greco-Bactrian city on the Kokcha River.",
+                  "category": "historical",
+                  "coords": [
+                        69.411978,
+                        37.166
+                  ]
+            },
+            {
+                  "name": "Imam Azam Mosque(Haji Dana Mosque)",
+                  "text": "The Imam Azam Mosque serves as a local Muslim spiritual center near the Kokcha River.",
+                  "category": "landmark",
+                  "coords": [
+                        69.425649,
+                        37.067561
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AF-BDS",
     coords: [69.4, 37.1],
@@ -360,7 +486,52 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
     },
   },
   {
-    id: "afghanistan-murgab-river-nature-v2",
+    id: "afghanistan-murgab-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kohneh Rabat",
+                  "text": "Kohneh Rabat ist eine antike archäologische Stätte an den historischen Ufern des Flusses Murgab.",
+                  "category": "historical",
+                  "coords": [
+                        63.459772,
+                        35.29727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kohneh Rabat",
+                  "text": "A Kohneh Rabat egy ősi régészeti lelőhely, amely a Murghab folyó történelmi partjai mentén fekszik.",
+                  "category": "historical",
+                  "coords": [
+                        63.459772,
+                        35.29727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kohneh Rabat",
+                  "text": "Kohneh Rabat este un sit arheologic antic situat de-a lungul malurilor istorice ale râului Murghab.",
+                  "category": "historical",
+                  "coords": [
+                        63.459772,
+                        35.29727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kohneh Rabat",
+                  "text": "Kohneh Rabat is an ancient archaeological site positioned along the historical banks of the Murghab River.",
+                  "category": "historical",
+                  "coords": [
+                        63.459772,
+                        35.29727
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AF-BDG",
     coords: [63.5, 35.3],
@@ -576,7 +747,88 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       fr: [],
     }, image: "/poi-images/afghanistan-kajaki-stausee-nature-v2.webp"},
       {
-        id: "afghanistan-spin-ghar-nature-v2",
+        id: "afghanistan-spin-ghar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shrine of Sayed Agha Badshah",
+                  "text": "Der Schrein von Sayed Agha Badshah ist eine religiöse Pilgerstätte in der rauen Bergregion von Spin Ghar in Afghanistan.",
+                  "category": "religious",
+                  "coords": [
+                        70.121882,
+                        33.91987
+                  ]
+            },
+            {
+                  "name": "Punjab Bazar",
+                  "text": "Der Punjab Bazar ist ein belebter Marktplatz in der Gegend von Spin Ghar, auf dem lokale Händler ihre regionalen Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        70.099423,
+                        33.897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shrine of Sayed Agha Badshah",
+                  "text": "Sayed Agha Badshah szentélye egy vallási zarándokhely az afganisztáni Spin Ghar zord hegyvidékén.",
+                  "category": "religious",
+                  "coords": [
+                        70.121882,
+                        33.91987
+                  ]
+            },
+            {
+                  "name": "Punjab Bazar",
+                  "text": "A Punjab Bazár egy nyüzsgő piactér a Spin Ghar régióban, ahol a helyi kereskedők kínálják regionális áruikat.",
+                  "category": "cultural",
+                  "coords": [
+                        70.099423,
+                        33.897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shrine of Sayed Agha Badshah",
+                  "text": "Altarul lui Sayed Agha Badshah este un loc de pelerinaj religios în regiunea muntoasă aspră Spin Ghar din Afganistan.",
+                  "category": "religious",
+                  "coords": [
+                        70.121882,
+                        33.91987
+                  ]
+            },
+            {
+                  "name": "Punjab Bazar",
+                  "text": "Punjab Bazar este o piață plină de viață în zona Spin Ghar, unde comercianții locali își oferă mărfurile regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        70.099423,
+                        33.897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shrine of Sayed Agha Badshah",
+                  "text": "The Shrine of Sayed Agha Badshah is a religious pilgrimage site in the rugged mountainous region of Spin Ghar in Afghanistan.",
+                  "category": "religious",
+                  "coords": [
+                        70.121882,
+                        33.91987
+                  ]
+            },
+            {
+                  "name": "Punjab Bazar",
+                  "text": "Punjab Bazar is a bustling marketplace in the Spin Ghar area, where local merchants offer their regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        70.099423,
+                        33.897
+                  ]
+            }
+      ]
+},
         type: "mountain",
         parent: "AF-NAN",
         coords: [70.13, 33.95],

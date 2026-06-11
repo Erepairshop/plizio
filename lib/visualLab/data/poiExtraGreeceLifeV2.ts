@@ -1882,7 +1882,7 @@ imageHint: "Giraffes and zebras in Attica Zoological Park",
       "de": [
             {
                   "name": "Monastiraki Beach",
-                  "text": "Sandstrand in der Region des Nestos-Deltas.",
+                  "text": "Monastiraki Strand im Nestos-Delta mit Dünen und Tamarisken.",
                   "category": "recreational",
                   "coords": [
                         24.749693,
@@ -1893,7 +1893,7 @@ imageHint: "Giraffes and zebras in Attica Zoological Park",
       "hu": [
             {
                   "name": "Monastiraki Beach",
-                  "text": "Homokos tengerpart a Nesztosz-delta régiójában.",
+                  "text": "Monastiraki strand a Nestos-deltában, dűnékkel és tamariszkuszokkal.",
                   "category": "recreational",
                   "coords": [
                         24.749693,
@@ -1904,7 +1904,7 @@ imageHint: "Giraffes and zebras in Attica Zoological Park",
       "ro": [
             {
                   "name": "Monastiraki Beach",
-                  "text": "Plajă cu nisip situată în regiunea deltei Nestos.",
+                  "text": "Plaja Monastiraki în Delta Nestos, cu dune și tamarisc.",
                   "category": "recreational",
                   "coords": [
                         24.749693,
@@ -1915,7 +1915,7 @@ imageHint: "Giraffes and zebras in Attica Zoological Park",
       "en": [
             {
                   "name": "Monastiraki Beach",
-                  "text": "Sandy beach located in the Nestos Delta region.",
+                  "text": "Monastiraki beach at the Nestos Delta, known for dunes and tamarisk trees.",
                   "category": "recreational",
                   "coords": [
                         24.749693,
@@ -2566,7 +2566,232 @@ imageHint: "Dolphins jumping in the calm waters of Amvrakikos Gulf",
     },
     image: "/poi-images/greece-amvrakikos-gulf-life-v2.webp",
 },  {
-    id: "greece-strofylia-forest-life-v2", "sights": {"de": [{"name": "Gianiskari Beach", "text": "Versteckt in der Küstenregion nahe dem Strofylia Forest, ist Gianiskari Beach ein wunderbarer Rückzugsort in der Natur. Der Sandstrand ermöglicht ruhige Stunden am Meer, ungestört vom großen Trubel, und harmoniert mit der nahen bewaldeten Umgebung. Ein eigenes Picknick wertet den entspannten Strandbesuch nochmals auf.", "category": "recreational", "coords": [21.366792, 38.176133]}, {"name": "Kalogria Beach", "text": "Als weitläufiger Sandstrand angrenzend an den Strofylia Forest begeistert Kalogria Beach mit seiner natürlichen Weite. Die landschaftliche Kombination aus Waldgebiet und Meeresufer schafft eine beeindruckende Atmosphäre für ausgedehnte Spaziergänge oder ein erfrischendes Bad. Besucher schätzen diesen Küstenabschnitt besonders für seine landschaftliche Vielfalt.", "category": "recreational", "coords": [21.365053, 38.135507]}, {"name": "Sandhill", "text": "Sandhill ist ein malerischer Strand in Larissos.", "category": "recreational", "coords": [21.366466, 38.162754]}, {"name": "Kounoupelaki", "text": "Kounoupelaki ist ein erholsamer Strand an der Küste von Larissos.", "category": "recreational", "coords": [21.340549, 38.095003]}, {"name": "Small Gianiskari beach", "text": "Dieser intime kleine Strandabschnitt beim Strofylia Forest verströmt eine ruhige und charmante Atmosphäre fernab der größeren Hauptstrände. Die abgeschiedene Lage macht Small Gianiskari Beach zu einem Geheimtipp für Paare oder Erholungssuchende. Für den Weg dorthin ist es sinnvoll, sich vorab über die beste Route zu informieren.", "category": "recreational", "coords": [21.367212, 38.182954]}, {"name": "Kounoupeli", "text": "Kounoupeli ist ein schönes Strandziel in Larissos.", "category": "recreational", "coords": [21.350185, 38.1026]}], "hu": [{"name": "Gianiskari Beach", "text": "A Strofylia-erdőhöz közeli partvidéken megbúvó Gianiskari Beach egy csodálatos természetközeli menedék. A homokos strand nyugodt órákat biztosít a tengernél, távol a nagy nyüzsgéstől, és harmóniában van a közeli erdős környezettel. Egy saját piknikkel még tovább emelhetjük a pihentető strandlátogatás fényét.", "category": "recreational", "coords": [21.366792, 38.176133]}, {"name": "Kalogria Beach", "text": "A Strofylia-erdővel határos kiterjedt homokos tengerpart, a Kalogria Beach természetes tágasságával nyűgöz le. Az erdőterület és a tengerpart tájképi ötvözete lenyűgöző légkört teremt a hosszú sétákhoz vagy egy frissítő fürdőzéshez. A látogatók különösen a táj változatossága miatt értékelik ezt a partszakaszt.", "category": "recreational", "coords": [21.365053, 38.135507]}, {"name": "Sandhill", "text": "A Sandhill egy festői strand Larissos területén.", "category": "recreational", "coords": [21.366466, 38.162754]}, {"name": "Kounoupelaki", "text": "A Kounoupelaki egy pihentető tengerparti strand Larissosban.", "category": "recreational", "coords": [21.340549, 38.095003]}, {"name": "Small Gianiskari beach", "text": "Ez a meghitt kis partszakasz a Strofylia-erdő közelében nyugodt és bájos légkört áraszt, távol a nagyobb főstrandoktól. A félreeső elhelyezkedés a Small Gianiskari strandot igazi titkos tippé teszi a párok vagy a kikapcsolódni vágyók számára. Az odaúthoz érdemes előzetesen tájékozódni a legjobb útvonalról.", "category": "recreational", "coords": [21.367212, 38.182954]}, {"name": "Kounoupeli", "text": "A Kounoupeli egy gyönyörű strand Larissos területén.", "category": "recreational", "coords": [21.350185, 38.1026]}], "ro": [{"name": "Gianiskari Beach", "text": "Ascunsă în regiunea de coastă de lângă Pădurea Strofylia, Gianiskari Beach este un minunat refugiu în natură. Plaja de nisip permite ore liniștite la mare, netulburate de agitația mare, și se armonizează cu împrejurimile împădurite din apropiere. Un picnic adus de acasă îmbunătățește și mai mult vizita relaxantă la plajă.", "category": "recreational", "coords": [21.366792, 38.176133]}, {"name": "Kalogria Beach", "text": "Fiind o plajă vastă de nisip la marginea Pădurii Strofylia, Kalogria Beach impresionează prin întinderea sa naturală. Combinația pitorească de zonă împădurită și litoral creează o atmosferă impresionantă pentru plimbări lungi sau o baie revigorantă. Vizitatorii apreciază această porțiune de coastă în special pentru diversitatea sa pitorească.", "category": "recreational", "coords": [21.365053, 38.135507]}, {"name": "Sandhill", "text": "Sandhill este o destinație de plajă pitorească situată în Larissos.", "category": "recreational", "coords": [21.366466, 38.162754]}, {"name": "Kounoupelaki", "text": "Kounoupelaki este o plajă de coastă relaxantă situată în Larissos.", "category": "recreational", "coords": [21.340549, 38.095003]}, {"name": "Small Gianiskari beach", "text": "Această mică porțiune intimă de plajă de lângă Pădurea Strofylia emană o atmosferă liniștită și fermecătoare, departe de plajele principale mai mari. Locația izolată face din Small Gianiskari Beach un sfat secret pentru cupluri sau pentru cei care caută relaxare. Pentru a ajunge acolo, este util să vă informați în prealabil despre cea mai bună rută.", "category": "recreational", "coords": [21.367212, 38.182954]}, {"name": "Kounoupeli", "text": "Kounoupeli este o destinație frumoasă de plajă aflată în Larissos.", "category": "recreational", "coords": [21.350185, 38.1026]}], "en": [{"name": "Gianiskari Beach", "text": "Hidden away in the coastal region near the Strofylia Forest, Gianiskari Beach is a wonderful retreat in nature. The sandy beach allows for quiet hours by the sea, undisturbed by massive crowds, and harmonizes with the nearby wooded surroundings. Bringing your own picnic further enhances a relaxing visit to the beach.", "category": "recreational", "coords": [21.366792, 38.176133]}, {"name": "Kalogria Beach", "text": "As a sweeping sandy beach adjacent to the Strofylia Forest, Kalogria Beach delights visitors with its natural expansiveness. The scenic combination of woodland and seashore creates an impressive atmosphere for long walks or a refreshing dip. Visitors particularly appreciate this stretch of coast for its scenic diversity.", "category": "recreational", "coords": [21.365053, 38.135507]}, {"name": "Sandhill", "text": "Sandhill is a scenic beach destination situated in Larissos.", "category": "recreational", "coords": [21.366466, 38.162754]}, {"name": "Kounoupelaki", "text": "Kounoupelaki is a relaxing coastal beach located in Larissos.", "category": "recreational", "coords": [21.340549, 38.095003]}, {"name": "Small Gianiskari beach", "text": "This intimate little stretch of beach by the Strofylia Forest exudes a quiet and charming atmosphere far away from the larger main beaches. The secluded location makes Small Gianiskari beach an insider tip for couples or those seeking to unwind. It makes sense to check the best route in advance before heading there.", "category": "recreational", "coords": [21.367212, 38.182954]}, {"name": "Kounoupeli", "text": "Kounoupeli is a beautiful beach destination found in Larissos.", "category": "recreational", "coords": [21.350185, 38.1026]}]},
+    id: "greece-strofylia-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gianiskari Beach",
+                  "text": "Versteckt in der Küstenregion nahe dem Strofylia Forest, ist Gianiskari Beach ein wunderbarer Rückzugsort in der Natur. Der Sandstrand ermöglicht ruhige Stunden am Meer, ungestört vom großen Trubel, und harmoniert mit der nahen bewaldeten Umgebung. Ein eigenes Picknick wertet den entspannten Strandbesuch nochmals auf.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366792,
+                        38.176133
+                  ]
+            },
+            {
+                  "name": "Kalogria Beach",
+                  "text": "Als weitläufiger Sandstrand angrenzend an den Strofylia Forest begeistert Kalogria Beach mit seiner natürlichen Weite. Die landschaftliche Kombination aus Waldgebiet und Meeresufer schafft eine beeindruckende Atmosphäre für ausgedehnte Spaziergänge oder ein erfrischendes Bad. Besucher schätzen diesen Küstenabschnitt besonders für seine landschaftliche Vielfalt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.365053,
+                        38.135507
+                  ]
+            },
+            {
+                  "name": "Sandhill",
+                  "text": "Sandhügel-Düne im Strofylia-Waldreservat.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366466,
+                        38.162754
+                  ]
+            },
+            {
+                  "name": "Kounoupelaki",
+                  "text": "Kounoupelaki Bucht mit feinem Sand im Strofylia-Wald.",
+                  "category": "recreational",
+                  "coords": [
+                        21.340549,
+                        38.095003
+                  ]
+            },
+            {
+                  "name": "Small Gianiskari beach",
+                  "text": "Dieser intime kleine Strandabschnitt beim Strofylia Forest verströmt eine ruhige und charmante Atmosphäre fernab der größeren Hauptstrände. Die abgeschiedene Lage macht Small Gianiskari Beach zu einem Geheimtipp für Paare oder Erholungssuchende. Für den Weg dorthin ist es sinnvoll, sich vorab über die beste Route zu informieren.",
+                  "category": "recreational",
+                  "coords": [
+                        21.367212,
+                        38.182954
+                  ]
+            },
+            {
+                  "name": "Kounoupeli",
+                  "text": "Kounoupeli Strand, ruhiger Ort im Strofylia-Wald.",
+                  "category": "recreational",
+                  "coords": [
+                        21.350185,
+                        38.1026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gianiskari Beach",
+                  "text": "A Strofylia-erdőhöz közeli partvidéken megbúvó Gianiskari Beach egy csodálatos természetközeli menedék. A homokos strand nyugodt órákat biztosít a tengernél, távol a nagy nyüzsgéstől, és harmóniában van a közeli erdős környezettel. Egy saját piknikkel még tovább emelhetjük a pihentető strandlátogatás fényét.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366792,
+                        38.176133
+                  ]
+            },
+            {
+                  "name": "Kalogria Beach",
+                  "text": "A Strofylia-erdővel határos kiterjedt homokos tengerpart, a Kalogria Beach természetes tágasságával nyűgöz le. Az erdőterület és a tengerpart tájképi ötvözete lenyűgöző légkört teremt a hosszú sétákhoz vagy egy frissítő fürdőzéshez. A látogatók különösen a táj változatossága miatt értékelik ezt a partszakaszt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.365053,
+                        38.135507
+                  ]
+            },
+            {
+                  "name": "Sandhill",
+                  "text": "Homokdomb a Strofylia-erdőrezervátumban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366466,
+                        38.162754
+                  ]
+            },
+            {
+                  "name": "Kounoupelaki",
+                  "text": "Kounoupelaki öböl finom homokkal a Strofylia-erdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        21.340549,
+                        38.095003
+                  ]
+            },
+            {
+                  "name": "Small Gianiskari beach",
+                  "text": "Ez a meghitt kis partszakasz a Strofylia-erdő közelében nyugodt és bájos légkört áraszt, távol a nagyobb főstrandoktól. A félreeső elhelyezkedés a Small Gianiskari strandot igazi titkos tippé teszi a párok vagy a kikapcsolódni vágyók számára. Az odaúthoz érdemes előzetesen tájékozódni a legjobb útvonalról.",
+                  "category": "recreational",
+                  "coords": [
+                        21.367212,
+                        38.182954
+                  ]
+            },
+            {
+                  "name": "Kounoupeli",
+                  "text": "Kounoupeli strand, csendes hely a Strofylia-erdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        21.350185,
+                        38.1026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gianiskari Beach",
+                  "text": "Ascunsă în regiunea de coastă de lângă Pădurea Strofylia, Gianiskari Beach este un minunat refugiu în natură. Plaja de nisip permite ore liniștite la mare, netulburate de agitația mare, și se armonizează cu împrejurimile împădurite din apropiere. Un picnic adus de acasă îmbunătățește și mai mult vizita relaxantă la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366792,
+                        38.176133
+                  ]
+            },
+            {
+                  "name": "Kalogria Beach",
+                  "text": "Fiind o plajă vastă de nisip la marginea Pădurii Strofylia, Kalogria Beach impresionează prin întinderea sa naturală. Combinația pitorească de zonă împădurită și litoral creează o atmosferă impresionantă pentru plimbări lungi sau o baie revigorantă. Vizitatorii apreciază această porțiune de coastă în special pentru diversitatea sa pitorească.",
+                  "category": "recreational",
+                  "coords": [
+                        21.365053,
+                        38.135507
+                  ]
+            },
+            {
+                  "name": "Sandhill",
+                  "text": "Dună de nisip în rezervația forestieră Strofylia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366466,
+                        38.162754
+                  ]
+            },
+            {
+                  "name": "Kounoupelaki",
+                  "text": "Golful Kounoupelaki cu nisip fin în pădurea Strofylia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.340549,
+                        38.095003
+                  ]
+            },
+            {
+                  "name": "Small Gianiskari beach",
+                  "text": "Această mică porțiune intimă de plajă de lângă Pădurea Strofylia emană o atmosferă liniștită și fermecătoare, departe de plajele principale mai mari. Locația izolată face din Small Gianiskari Beach un sfat secret pentru cupluri sau pentru cei care caută relaxare. Pentru a ajunge acolo, este util să vă informați în prealabil despre cea mai bună rută.",
+                  "category": "recreational",
+                  "coords": [
+                        21.367212,
+                        38.182954
+                  ]
+            },
+            {
+                  "name": "Kounoupeli",
+                  "text": "Plaja Kounoupeli, un loc liniștit în pădurea Strofylia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.350185,
+                        38.1026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gianiskari Beach",
+                  "text": "Hidden away in the coastal region near the Strofylia Forest, Gianiskari Beach is a wonderful retreat in nature. The sandy beach allows for quiet hours by the sea, undisturbed by massive crowds, and harmonizes with the nearby wooded surroundings. Bringing your own picnic further enhances a relaxing visit to the beach.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366792,
+                        38.176133
+                  ]
+            },
+            {
+                  "name": "Kalogria Beach",
+                  "text": "As a sweeping sandy beach adjacent to the Strofylia Forest, Kalogria Beach delights visitors with its natural expansiveness. The scenic combination of woodland and seashore creates an impressive atmosphere for long walks or a refreshing dip. Visitors particularly appreciate this stretch of coast for its scenic diversity.",
+                  "category": "recreational",
+                  "coords": [
+                        21.365053,
+                        38.135507
+                  ]
+            },
+            {
+                  "name": "Sandhill",
+                  "text": "Sandhill dune within the Strofylia forest reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366466,
+                        38.162754
+                  ]
+            },
+            {
+                  "name": "Kounoupelaki",
+                  "text": "Kounoupelaki cove with fine sand in Strofylia Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        21.340549,
+                        38.095003
+                  ]
+            },
+            {
+                  "name": "Small Gianiskari beach",
+                  "text": "This intimate little stretch of beach by the Strofylia Forest exudes a quiet and charming atmosphere far away from the larger main beaches. The secluded location makes Small Gianiskari beach an insider tip for couples or those seeking to unwind. It makes sense to check the best route in advance before heading there.",
+                  "category": "recreational",
+                  "coords": [
+                        21.367212,
+                        38.182954
+                  ]
+            },
+            {
+                  "name": "Kounoupeli",
+                  "text": "Kounoupeli beach, a quiet spot in Strofylia Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        21.350185,
+                        38.1026
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "forest",
     name: { de: "Strofylia-Wald", hu: "Sztofilia-erdő", ro: "Pădurea Strofylia", en: "Strofylia Forest"},
@@ -2844,7 +3069,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Πανόραμα",
-                  "text": "Ein Strand im Naturgebiet des Vravrona-Feuchtgebiets.",
+                  "text": "Panorama Aussichtspunkt über das Vravrona-Feuchtgebiet und die Küste.",
                   "category": "recreational",
                   "coords": [
                         24.040184,
@@ -2853,7 +3078,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Νησίδα Κεκροπούλα",
-                  "text": "Ein kleiner Strandabschnitt im Vravrona-Feuchtgebiet.",
+                  "text": "Kekropoula Inselchen, winzige Insel im Vravrona-Feuchtgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.034321,
@@ -2862,7 +3087,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Ερωτοσπηλιά",
-                  "text": "Ein malerischer Strand im Vravrona-Feuchtgebiet.",
+                  "text": "Erotospilia, eine Höhle im Vravrona-Feuchtgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.033027,
@@ -2871,7 +3096,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Παραλία Αράχνες",
-                  "text": "Ein Strand an der Küste des Vravrona-Feuchtgebiets.",
+                  "text": "Arachnes Strand mit Kies und kristallklarem Wasser in Vravrona.",
                   "category": "recreational",
                   "coords": [
                         24.044941,
@@ -2880,7 +3105,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Αυλάκι",
-                  "text": "Ein Strandabschnitt in der Nähe des Vravrona-Feuchtgebiets.",
+                  "text": "Avlaki-Strand im Vravrona-Feuchtgebiet.",
                   "category": "recreational",
                   "coords": [
                         24.039978,
@@ -2936,7 +3161,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Πανόραμα",
-                  "text": "Egy strand a Vravrona vizes élőhely természetvédelmi területén.",
+                  "text": "Panoráma kilátó a Vravrona-vizes élőhelyre és a partra.",
                   "category": "recreational",
                   "coords": [
                         24.040184,
@@ -2945,7 +3170,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Νησίδα Κεκροπούλα",
-                  "text": "Egy kis strandrész a Vravrona vizes élőhelyen.",
+                  "text": "Kekropoula szigetecske, apró sziget a Vravrona-vizes élőhelyen.",
                   "category": "recreational",
                   "coords": [
                         24.034321,
@@ -2954,7 +3179,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Ερωτοσπηλιά",
-                  "text": "Egy festői strand a Vravrona vizes élőhelyen.",
+                  "text": "Erotospilia, egy barlang a Vravrona vizes élőhelyen.",
                   "category": "recreational",
                   "coords": [
                         24.033027,
@@ -2963,7 +3188,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Παραλία Αράχνες",
-                  "text": "Egy strand a Vravrona vizes élőhely partján.",
+                  "text": "Arachnes strand kavicsokkal és kristálytiszta vízzel Vravronában.",
                   "category": "recreational",
                   "coords": [
                         24.044941,
@@ -2972,7 +3197,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Αυλάκι",
-                  "text": "Egy strand szakasz a Vravrona vizes élőhely közelében.",
+                  "text": "Avlaki strand a Vravrona vizes élőhelyen.",
                   "category": "recreational",
                   "coords": [
                         24.039978,
@@ -3028,7 +3253,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Πανόραμα",
-                  "text": "O plajă în zona naturală a mlaștinii Vravrona.",
+                  "text": "Punctul de belvedere Panorama, cu vedere spre zona umedă Vravrona și coastă.",
                   "category": "recreational",
                   "coords": [
                         24.040184,
@@ -3037,7 +3262,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Νησίδα Κεκροπούλα",
-                  "text": "O mică secțiune de plajă în zona umedă Vravrona.",
+                  "text": "Insulița Kekropoula, o mică insulă în zona umedă Vravrona.",
                   "category": "recreational",
                   "coords": [
                         24.034321,
@@ -3046,7 +3271,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Ερωτοσπηλιά",
-                  "text": "O plajă pitorească în zona umedă Vravrona.",
+                  "text": "Erotospilia, o peșteră în zona umedă Vravrona.",
                   "category": "recreational",
                   "coords": [
                         24.033027,
@@ -3055,7 +3280,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Παραλία Αράχνες",
-                  "text": "O plajă pe coasta zonei umede Vravrona.",
+                  "text": "Plaja Arachnes, cu pietriș și apă cristalină în Vravrona.",
                   "category": "recreational",
                   "coords": [
                         24.044941,
@@ -3064,7 +3289,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Αυλάκι",
-                  "text": "O secțiune de plajă lângă zona umedă Vravrona.",
+                  "text": "Plaja Avlaki în zona umedă Vravrona.",
                   "category": "recreational",
                   "coords": [
                         24.039978,
@@ -3120,7 +3345,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Panorama",
-                  "text": "A beach in the natural area of the Vravrona Wetland.",
+                  "text": "Panorama viewpoint overlooking the Vravrona wetland and coast.",
                   "category": "recreational",
                   "coords": [
                         24.040184,
@@ -3129,7 +3354,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Νησίδα Κεκροπούλα",
-                  "text": "A small beach section in the Vravrona Wetland.",
+                  "text": "Kekropoula islet, a tiny offshore island in Vravrona wetland.",
                   "category": "recreational",
                   "coords": [
                         24.034321,
@@ -3138,7 +3363,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Ερωτοσπηλιά",
-                  "text": "A scenic beach in the Vravrona Wetland.",
+                  "text": "Erotospilia, a cave in the Vravrona wetland.",
                   "category": "recreational",
                   "coords": [
                         24.033027,
@@ -3147,7 +3372,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Παραλία Αράχνες",
-                  "text": "A beach on the coast of the Vravrona Wetland.",
+                  "text": "Arachnes beach with pebbles and crystal water in Vravrona.",
                   "category": "recreational",
                   "coords": [
                         24.044941,
@@ -3156,7 +3381,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
             },
             {
                   "name": "Avlaki",
-                  "text": "A beach section near the Vravrona Wetland.",
+                  "text": "Avlaki beach in the Vravrona wetland.",
                   "category": "recreational",
                   "coords": [
                         24.039978,
@@ -4490,7 +4715,7 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
             },
             {
                   "name": "Paralia Buthisma",
-                  "text": "Ein abgelegener und ruhiger Strand auf der Insel Alonissos.",
+                  "text": "Vithisma, ein Kieselstrand in der Nähe des Monachus-Schutzzentrums.",
                   "category": "recreational",
                   "coords": [
                         23.847524,
@@ -4535,7 +4760,7 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
             },
             {
                   "name": "Elias Cove",
-                  "text": "Eine kleine, malerische Bucht auf der Insel Alonissos.",
+                  "text": "Elias Bucht, abgelegener Strand nahe dem Mönchsrobben-Schutzzentrum.",
                   "category": "recreational",
                   "coords": [
                         23.864414,
@@ -4564,7 +4789,7 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
             },
             {
                   "name": "Paralia Buthisma",
-                  "text": "Egy eldugott és nyugodt tengerpart Alonisszosz szigetén.",
+                  "text": "Vithisma, egy kavicsos strand a Monachus Védelmi Központ közelében.",
                   "category": "recreational",
                   "coords": [
                         23.847524,
@@ -4609,7 +4834,7 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
             },
             {
                   "name": "Elias Cove",
-                  "text": "Egy kicsi, festői öböl Alonisszosz szigetén.",
+                  "text": "Elias-öböl, félreeső strand a monachus fóka védelmi központ közelében.",
                   "category": "recreational",
                   "coords": [
                         23.864414,
@@ -4638,7 +4863,7 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
             },
             {
                   "name": "Paralia Buthisma",
-                  "text": "O plajă retrasă și liniștită de pe insula Alonissos.",
+                  "text": "Vithisma, o plajă de pietriș lângă Centrul de Conservare Monachus.",
                   "category": "recreational",
                   "coords": [
                         23.847524,
@@ -4683,7 +4908,7 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
             },
             {
                   "name": "Elias Cove",
-                  "text": "Un mic golf pitoresc pe insula Alonissos.",
+                  "text": "Golful Elias, plajă izolată lângă centrul de conservare a focii monachus.",
                   "category": "recreational",
                   "coords": [
                         23.864414,
@@ -4712,7 +4937,7 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
             },
             {
                   "name": "Vithisma",
-                  "text": "A secluded and quiet beach on the island of Alonissos.",
+                  "text": "Vithisma, a pebble beach near the Monachus Conservation Center.",
                   "category": "recreational",
                   "coords": [
                         23.847524,
@@ -4757,7 +4982,7 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
             },
             {
                   "name": "Elias Cove",
-                  "text": "A small, picturesque cove on the island of Alonissos.",
+                  "text": "Elias Cove, a secluded beach near the Monachus seal conservation center.",
                   "category": "recreational",
                   "coords": [
                         23.864414,
@@ -5042,7 +5267,7 @@ imageHint: "Information center and seal rescue equipment",
             },
             {
                   "name": "Tsepi Early Helladic cemetery",
-                  "text": "Tsepi ist ein bedeutendes Gräberfeld aus der frühhelladischen Zeit in der Nähe von Marathon.",
+                  "text": "Tsepi frühhelladischer Friedhof mit in Fels gehauenen Gräbern im Schinias-Nationalpark.",
                   "category": "historical",
                   "coords": [
                         23.966333,
@@ -5134,7 +5359,7 @@ imageHint: "Information center and seal rescue equipment",
             },
             {
                   "name": "Tsepi Early Helladic cemetery",
-                  "text": "Tsepi egy jelentős kora helladikus kori temető Marathón közelében.",
+                  "text": "Tsepi kora helladikus temető sziklasírokkal a Schinias Nemzeti Parkban.",
                   "category": "historical",
                   "coords": [
                         23.966333,
@@ -5226,7 +5451,7 @@ imageHint: "Information center and seal rescue equipment",
             },
             {
                   "name": "Tsepi Early Helladic cemetery",
-                  "text": "Tsepi este un cimitir important din perioada heladică timpurie, situat lângă Maraton.",
+                  "text": "Cimitirul early helladic Tsepi, cu morminte săpate în stâncă, în Parcul Național Schinias.",
                   "category": "historical",
                   "coords": [
                         23.966333,
@@ -5318,7 +5543,7 @@ imageHint: "Information center and seal rescue equipment",
             },
             {
                   "name": "Tsepi Early Helladic cemetery",
-                  "text": "Tsepi is an important cemetery from the Early Helladic period located near Marathon.",
+                  "text": "Tsepi Early Helladic cemetery with rock-cut tombs in Schinias National Park.",
                   "category": "historical",
                   "coords": [
                         23.966333,

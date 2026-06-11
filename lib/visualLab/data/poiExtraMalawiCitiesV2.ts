@@ -97,7 +97,7 @@ export const malawiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Clocktower",
-                  "text": "Der Clocktower ist ein bemerkenswertes Denkmal in Mzuzu.",
+                  "text": "Ein Uhrturm in Mzuzu, Malawi.",
                   "category": "historical",
                   "coords": [
                         34.020126,
@@ -108,7 +108,7 @@ export const malawiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Clocktower",
-                  "text": "A Clocktower egy jelentős emlékmű Mzuzu városában.",
+                  "text": "Egy óratorony Mzuzuban, Malawiban.",
                   "category": "historical",
                   "coords": [
                         34.020126,
@@ -119,7 +119,7 @@ export const malawiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Clocktower",
-                  "text": "Clocktower este un monument notabil situat în Mzuzu.",
+                  "text": "Un turn cu ceas în Mzuzu, Malawi.",
                   "category": "historical",
                   "coords": [
                         34.020126,
@@ -130,7 +130,7 @@ export const malawiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Clocktower",
-                  "text": "The Clocktower is a notable monument situated in Mzuzu.",
+                  "text": "A clocktower in Mzuzu, Malawi.",
                   "category": "historical",
                   "coords": [
                         34.020126,
@@ -277,7 +277,7 @@ export const malawiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lake Malawi Museum",
-                  "text": "Das Lake Malawi Museum ist ein Ausstellungszentrum in Mangochi.",
+                  "text": "Das Malawisee-Museum in Mangochi.",
                   "category": "museum",
                   "coords": [
                         35.272359,
@@ -286,7 +286,7 @@ export const malawiCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Memorial Tower",
-                  "text": "Der Queen Victoria Memorial Tower ist ein Denkmal in der Stadt Mangochi.",
+                  "text": "Der Queen-Victoria-Gedenkturm in Mangochi.",
                   "category": "historical",
                   "coords": [
                         35.272515,
@@ -297,7 +297,7 @@ export const malawiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lake Malawi Museum",
-                  "text": "A Lake Malawi Museum egy kiállítási központ Mangochi városában.",
+                  "text": "A Malawi-tó Múzeum Mangochiban.",
                   "category": "museum",
                   "coords": [
                         35.272359,
@@ -306,7 +306,7 @@ export const malawiCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Memorial Tower",
-                  "text": "A Queen Victoria Memorial Tower egy emlékmű Mangochi városában.",
+                  "text": "A Viktória királynő emléktorony Mangochiban.",
                   "category": "historical",
                   "coords": [
                         35.272515,
@@ -317,7 +317,7 @@ export const malawiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lake Malawi Museum",
-                  "text": "Lake Malawi Museum este un centru expozițional situat în Mangochi.",
+                  "text": "Muzeul Lacului Malawi din Mangochi.",
                   "category": "museum",
                   "coords": [
                         35.272359,
@@ -326,7 +326,7 @@ export const malawiCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Memorial Tower",
-                  "text": "Queen Victoria Memorial Tower este un monument situat în orașul Mangochi.",
+                  "text": "Turnul Memorial Regina Victoria din Mangochi.",
                   "category": "historical",
                   "coords": [
                         35.272515,
@@ -337,7 +337,7 @@ export const malawiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lake Malawi Museum",
-                  "text": "Lake Malawi Museum is an exhibition center located in Mangochi.",
+                  "text": "The Lake Malawi Museum in Mangochi.",
                   "category": "museum",
                   "coords": [
                         35.272359,
@@ -346,7 +346,7 @@ export const malawiCitiesV2: POI[] = [
             },
             {
                   "name": "Queen Victoria Memorial Tower",
-                  "text": "The Queen Victoria Memorial Tower is a monument located in the city of Mangochi.",
+                  "text": "The Queen Victoria Memorial Tower in Mangochi.",
                   "category": "historical",
                   "coords": [
                         35.272515,
@@ -493,7 +493,7 @@ export const malawiCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Livingstone Tree",
-                  "text": "Der Livingstone Tree ist eine lokale Attraktion in Nkhotakota.",
+                  "text": "Der Livingstone-Baum in Nkhotakota, mit dem Entdecker David Livingstone verbunden.",
                   "category": "landmark",
                   "coords": [
                         34.298025,
@@ -502,7 +502,7 @@ export const malawiCitiesV2: POI[] = [
             },
             {
                   "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
-                  "text": "Diese Sehenswürdigkeit in Nkhotakota ist ein historischer Baum, der für seine Verbindung zum Sklavenhandel bekannt ist.",
+                  "text": "Der Mkungu-Baum in Nkhotakota, unter dem der Sklavenhändler Jumbe Salim Bin Abudala lebte.",
                   "category": "landmark",
                   "coords": [
                         34.296974,
@@ -513,7 +513,7 @@ export const malawiCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Livingstone Tree",
-                  "text": "A Livingstone Tree egy helyi látványosság Nkhotakota városában.",
+                  "text": "A Livingstone-fa Nkhotakotában, David Livingstone felfedezőhöz kötődik.",
                   "category": "landmark",
                   "coords": [
                         34.298025,
@@ -522,7 +522,7 @@ export const malawiCitiesV2: POI[] = [
             },
             {
                   "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
-                  "text": "Ez a Nkhotakota-i látványosság egy történelmi fa, amely a rabszolgakereskedelemmel való kapcsolatáról ismert.",
+                  "text": "A Mkungu fa Nkhotakotában, ahol Jumbe Salim Bin Abudala rabszolgakereskedő lakott.",
                   "category": "landmark",
                   "coords": [
                         34.296974,
@@ -533,7 +533,7 @@ export const malawiCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Livingstone Tree",
-                  "text": "Livingstone Tree este o atracție locală situată în Nkhotakota.",
+                  "text": "Copacul Livingstone din Nkhotakota, asociat cu exploratorul David Livingstone.",
                   "category": "landmark",
                   "coords": [
                         34.298025,
@@ -542,7 +542,7 @@ export const malawiCitiesV2: POI[] = [
             },
             {
                   "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
-                  "text": "Această atracție din Nkhotakota este un copac istoric cunoscut pentru legătura sa cu comerțul cu sclavi.",
+                  "text": "Copacul Mkungu din Nkhotakota, sub care a locuit negustorul de sclavi Jumbe Salim Bin Abudala.",
                   "category": "landmark",
                   "coords": [
                         34.296974,
@@ -553,7 +553,7 @@ export const malawiCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Livingstone Tree",
-                  "text": "The Livingstone Tree is a local attraction located in Nkhotakota.",
+                  "text": "The Livingstone Tree in Nkhotakota, associated with explorer David Livingstone.",
                   "category": "landmark",
                   "coords": [
                         34.298025,
@@ -562,7 +562,7 @@ export const malawiCitiesV2: POI[] = [
             },
             {
                   "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
-                  "text": "This attraction in Nkhotakota is a historic tree known for its association with the slave trade.",
+                  "text": "The Mkungu Tree in Nkhotakota, under which slave trader Jumbe Salim Bin Abudala resided.",
                   "category": "landmark",
                   "coords": [
                         34.296974,

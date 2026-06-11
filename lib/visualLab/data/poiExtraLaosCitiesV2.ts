@@ -3,7 +3,844 @@ import type { POI } from "./poi";
 
 export const poiExtraLaosCitiesV2: POI[] = [
   {
-    id: "vientiane-cities-v2",
+    id: "vientiane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "An-2",
+                  "text": "Das An-2-Denkmal zeigt einen erhaltenen Antonow-Doppeldecker, der auf einem Sockel ausgestellt ist, um an die regionale Luftfahrtgeschichte zu erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        102.570879,
+                        17.97116
+                  ]
+            },
+            {
+                  "name": "Soviet Pilots' Monument",
+                  "text": "Das Denkmal der sowjetischen Piloten ist ein steinernes Denkmal, das die Beiträge und Opfer russischer Flieger in Laos ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        102.572453,
+                        17.970325
+                  ]
+            },
+            {
+                  "name": "Khao niew Lao theater",
+                  "text": "Das Khao Niew Lao Theater ist ein kultureller Aufführungsraum, der für die Inszenierung traditioneller laotischer Puppenspiele und theatralischer Tänze bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        102.575939,
+                        17.974711
+                  ]
+            },
+            {
+                  "name": "ວັດ ສີບຸນເຮືອງ",
+                  "text": "Wat Sibounheuang (ວັດ ສີບຸນເຮືອງ) ist ein verehrter buddhistischer Tempel in Vientiane, der für sein kunstvolles goldenes Sim (Ordinationshalle) bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.55628,
+                        17.972202
+                  ]
+            },
+            {
+                  "name": "ວັດ ຍາພະ",
+                  "text": "Wat Yapha (ວັດ ຍາພະ) bietet ein ruhiges buddhistisches Heiligtum, das mit traditionellen Schlangenstatuen (Naga) geschmückt ist, die den Eingang bewachen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.559679,
+                        17.972373
+                  ]
+            },
+            {
+                  "name": "ວັດໄຕນ້ອຍ ຣັຕນະມຸງຄຸລ",
+                  "text": "Wat Tai Noy Rattanamingkhun ist ein markanter Ort der Anbetung mit klassischer laotischer Tempelästhetik im Herzen von Vientiane.",
+                  "category": "religious",
+                  "coords": [
+                        102.581001,
+                        17.96893
+                  ]
+            },
+            {
+                  "name": "ຫໍພະໄທພິໂດກ ວັດ ອິນແປງ",
+                  "text": "Der Hor Pha Trai Pidok im Wat Inpeng dient als heilige Bibliothek, die alte buddhistische Manuskripte in Vientiane beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        102.602455,
+                        17.966758
+                  ]
+            },
+            {
+                  "name": "ວັດ ຂົວຫຼວງ",
+                  "text": "Dieser aktive buddhistische Tempel in Vientiane zeichnet sich durch traditionelle laotische religiöse Architektur aus und dient der lokalen spirituellen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603031,
+                        17.971931
+                  ]
+            },
+            {
+                  "name": "ວັດຮ່ອງຄ້າ",
+                  "text": "Eine traditionelle laotische Kultstätte in Vientiane, an der sich die Nachbarschaft zu religiösen Zeremonien versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        102.603248,
+                        17.977065
+                  ]
+            },
+            {
+                  "name": "ມັສຢິດອາສາຮາຣ",
+                  "text": "Diese islamische Moschee in Vientiane bietet der muslimischen Bevölkerung der Stadt einen eigenen Gebetsraum.",
+                  "category": "landmark",
+                  "coords": [
+                        102.600612,
+                        17.981174
+                  ]
+            },
+            {
+                  "name": "ວັດ ບາງ ລອງ",
+                  "text": "Ein buddhistischer Tempel in Vientiane, der sich durch seine deutlichen vietnamesischen architektonischen Einflüsse und religiösen Praktiken auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.601765,
+                        17.968729
+                  ]
+            },
+            {
+                  "name": "Evangelic Church",
+                  "text": "Eine evangelisch-christliche Kirche in Vientiane, die lokalen Protestanten einen Ort der Anbetung und des Austauschs bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.586289,
+                        17.969301
+                  ]
+            },
+            {
+                  "name": "ສາດສະໜາຈັກຂອງພຣະເຢຊູຄຣິດແຫ່ງໄພ່ພົນຍຸກສຸດທ້າຍ",
+                  "text": "Die Kirche Jesu Christi der Heiligen der Letzten Tage in Vientiane bietet den lokalen christlichen Gläubigen ein modernes Gemeindehaus.",
+                  "category": "landmark",
+                  "coords": [
+                        102.544974,
+                        17.975304
+                  ]
+            },
+            {
+                  "name": "ວັດ ແກ້ວປ່າ",
+                  "text": "Ein ruhiger buddhistischer Tempelkomplex in Vientiane, der sich durch seine traditionellen gestuften Dächer und friedlichen Klosteranlagen auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.553549,
+                        17.979616
+                  ]
+            },
+            {
+                  "name": "ວັດ ເມືອງວາ",
+                  "text": "Dieses lokale buddhistische Heiligtum in Vientiane dient als spirituelles Zentrum für ansässige Mönche und Gläubige aus der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        102.563294,
+                        17.970509
+                  ]
+            },
+            {
+                  "name": "Wat Tai Yai",
+                  "text": "Ein markanter buddhistischer Tempel in Vientiane mit kunstvollen traditionellen laotischen Dekorationen und einer ruhigen Gebetshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        102.57326,
+                        17.969361
+                  ]
+            },
+            {
+                  "name": "ວັດຫົວເມືອງ",
+                  "text": "Ein traditioneller buddhistischer Tempel in Vientiane, der tief in das spirituelle Leben und die Rituale der umliegenden Nachbarschaft integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.593052,
+                        17.967993
+                  ]
+            },
+            {
+                  "name": "ວັດຂູນຕາ",
+                  "text": "Ein ruhiger Tempelkomplex in Vientiane, der klassische laotische religiöse Designelemente und aufwendige Holzschnitzereien präsentiert.",
+                  "category": "religious",
+                  "coords": [
+                        102.591446,
+                        17.967963
+                  ]
+            },
+            {
+                  "name": "ວັດອຸບມຸງ",
+                  "text": "Ein ruhiger Tempel in Vientiane, bekannt für sein schattiges, grünes Gelände und seine traditionellen religiösen Denkmäler.",
+                  "category": "religious",
+                  "coords": [
+                        102.587884,
+                        17.968305
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດສີໄຄ",
+                  "text": "Ein belebter öffentlicher Marktplatz in Vientiane, auf dem Händler eine große Auswahl an frischen lokalen Produkten, Fleisch und Waren des täglichen Bedarfs verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        102.557074,
+                        17.977033
+                  ]
+            },
+            {
+                  "name": "Wholesale wet market",
+                  "text": "Ein geschäftiger Großhandels-Frischemarkt in Vientiane, der lokale Unternehmen mit großen Mengen an frischem Fleisch, Fisch und saisonalem Gemüse beliefert.",
+                  "category": "cultural",
+                  "coords": [
+                        102.554483,
+                        17.977879
+                  ]
+            },
+            {
+                  "name": "Nongdouang Market",
+                  "text": "Ein lebhafter Marktplatz in Vientiane, der sich auf importierte chinesische Waren von Elektronik bis hin zu regionalen Spezialitäten spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        102.597374,
+                        17.975991
+                  ]
+            },
+            {
+                  "name": "Organic Market",
+                  "text": "Ein spezialisierter Marktplatz in Vientiane, der dem Verkauf von lokal angebautem, pestizidfreiem Gemüse und handgefertigten handwerklichen Produkten gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        102.596414,
+                        17.96854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "An-2",
+                  "text": "Az An-2 emlékmű egy megőrzött Antonov kétfedelű repülőgépet ábrázol, amelyet egy talapzaton állítanak ki a regionális repüléstörténet emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        102.570879,
+                        17.97116
+                  ]
+            },
+            {
+                  "name": "Soviet Pilots' Monument",
+                  "text": "A Szovjet Pilóták Emlékműve egy dedikált kő emlékmű, amely az orosz repülősök laoszi hozzájárulásai és áldozatai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        102.572453,
+                        17.970325
+                  ]
+            },
+            {
+                  "name": "Khao niew Lao theater",
+                  "text": "A Khao Niew Lao Színház egy kulturális előadótér, amely hagyományos laoszi bábelőadásairól és színházi táncairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        102.575939,
+                        17.974711
+                  ]
+            },
+            {
+                  "name": "ວັດ ສີບຸນເຮືອງ",
+                  "text": "A Wat Sibounheuang (ວັດ ສີບຸນເຮືອງ) egy tisztelt vientianei buddhista templom, amely a díszes arany simjéről (szentelőcsarnokáról) ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.55628,
+                        17.972202
+                  ]
+            },
+            {
+                  "name": "ວັດ ຍາພະ",
+                  "text": "A Wat Yapha (ວັດ ຍາພະ) egy békés buddhista szentély, amelyet a bejáratát őrző hagyományos kígyó- (Naga) szobrok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.559679,
+                        17.972373
+                  ]
+            },
+            {
+                  "name": "ວັດໄຕນ້ອຍ ຣັຕນະມຸງຄຸລ",
+                  "text": "A Wat Tai Noy Rattanamingkhun egy jellegzetes istentiszteleti hely Vientiane szívében, amely a klasszikus laoszi templomesztétikát mutatja be.",
+                  "category": "religious",
+                  "coords": [
+                        102.581001,
+                        17.96893
+                  ]
+            },
+            {
+                  "name": "ຫໍພະໄທພິໂດກ ວັດ ອິນແປງ",
+                  "text": "A Wat Inpeng-i Hor Pha Trai Pidok egy szent könyvtárként szolgál, amely ősi buddhista kéziratoknak ad otthont Vientiane-ban.",
+                  "category": "religious",
+                  "coords": [
+                        102.602455,
+                        17.966758
+                  ]
+            },
+            {
+                  "name": "ວັດ ຂົວຫຼວງ",
+                  "text": "Ez az aktív vientiane-i buddhista templom hagyományos laoszi vallási építészettel büszkélkedhet, és a helyi spirituális közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603031,
+                        17.971931
+                  ]
+            },
+            {
+                  "name": "ວັດຮ່ອງຄ້າ",
+                  "text": "Egy hagyományos laoszi istentiszteleti hely Vientiane-ban, amely a helyi lakosokat gyűjti össze vallási szertartásokra.",
+                  "category": "religious",
+                  "coords": [
+                        102.603248,
+                        17.977065
+                  ]
+            },
+            {
+                  "name": "ມັສຢິດອາສາຮາຣ",
+                  "text": "Ez a vientiane-i iszlám mecset dedikált imateret biztosít a város muszlim lakossága számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.600612,
+                        17.981174
+                  ]
+            },
+            {
+                  "name": "ວັດ ບາງ ລອງ",
+                  "text": "Egy vientiane-i buddhista templom, amelyet a jellegzetes vietnami építészeti hatások és vallási gyakorlatok jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.601765,
+                        17.968729
+                  ]
+            },
+            {
+                  "name": "Evangelic Church",
+                  "text": "Egy evangéliumi keresztény templom Vientiane-ban, amely istentiszteleti helyet és közösségi találkozóhelyet kínál a helyi protestánsoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        102.586289,
+                        17.969301
+                  ]
+            },
+            {
+                  "name": "ສາດສະໜາຈັກຂອງພຣະເຢຊູຄຣິດແຫ່ງໄພ່ພົນຍຸກສຸດທ້າຍ",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza Vientiane-ban modern gyülekezeti házat biztosít a helyi keresztény hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.544974,
+                        17.975304
+                  ]
+            },
+            {
+                  "name": "ວັດ ແກ້ວປ່າ",
+                  "text": "Egy békés buddhista templomkomplexum Vientiane-ban, amelyet hagyományos lépcsőzetes tetők és nyugodt kolostori területek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.553549,
+                        17.979616
+                  ]
+            },
+            {
+                  "name": "ວັດ ເມືອງວາ",
+                  "text": "Ez a helyi vientiane-i buddhista szentély spirituális központként szolgál a helyi szerzetesek és a környékbeli hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        102.563294,
+                        17.970509
+                  ]
+            },
+            {
+                  "name": "Wat Tai Yai",
+                  "text": "Egy kiemelkedő buddhista templom Vientiane-ban, díszes hagyományos laoszi díszítésekkel és nyugodt imateremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        102.57326,
+                        17.969361
+                  ]
+            },
+            {
+                  "name": "ວັດຫົວເມືອງ",
+                  "text": "Egy hagyományos buddhista templom Vientiane-ban, amely mélyen beépült a környező városrész spirituális életébe és rituáléiba.",
+                  "category": "landmark",
+                  "coords": [
+                        102.593052,
+                        17.967993
+                  ]
+            },
+            {
+                  "name": "ວັດຂູນຕາ",
+                  "text": "Egy békés templomkomplexum Vientiane-ban, amely klasszikus laoszi vallási dizájnelemeket és bonyolult fafaragásokat mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        102.591446,
+                        17.967963
+                  ]
+            },
+            {
+                  "name": "ວັດອຸບມຸງ",
+                  "text": "Egy nyugodt templom Vientiane-ban, amely árnyékos, lombos területéről és hagyományos vallási műemlékeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        102.587884,
+                        17.968305
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດສີໄຄ",
+                  "text": "Nyüzsgő nyilvános piac Vientiane-ban, ahol az árusok friss helyi termékek, húsok és mindennapi áruk széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        102.557074,
+                        17.977033
+                  ]
+            },
+            {
+                  "name": "Wholesale wet market",
+                  "text": "Egy forgalmas nagykereskedelmi piac Vientiane-ban, amely nagy mennyiségű friss hússal, hallal és szezonális zöldséggel látja el a helyi vállalkozásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        102.554483,
+                        17.977879
+                  ]
+            },
+            {
+                  "name": "Nongdouang Market",
+                  "text": "Egy élénk piac Vientiane-ban, amely importált kínai árukra, az elektronikától a regionális ételkülönlegességekig specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        102.597374,
+                        17.975991
+                  ]
+            },
+            {
+                  "name": "Organic Market",
+                  "text": "Egy specializált piac Vientiane-ban, amely helyben termesztett, növényvédőszer-mentes zöldségeket és kézműves termékeket árusít.",
+                  "category": "cultural",
+                  "coords": [
+                        102.596414,
+                        17.96854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "An-2",
+                  "text": "Monumentul An-2 prezintă un biplan Antonov conservat, expus pe un piedestal pentru a comemora istoria aviației regionale.",
+                  "category": "historical",
+                  "coords": [
+                        102.570879,
+                        17.97116
+                  ]
+            },
+            {
+                  "name": "Soviet Pilots' Monument",
+                  "text": "Monumentul Piloților Sovietici este un memorial de piatră dedicat onorării contribuțiilor și sacrificiilor aviatorilor ruși în Laos.",
+                  "category": "historical",
+                  "coords": [
+                        102.572453,
+                        17.970325
+                  ]
+            },
+            {
+                  "name": "Khao niew Lao theater",
+                  "text": "Teatrul Khao Niew Lao este un spațiu de spectacole culturale, renumit pentru punerea în scenă a spectacolelor tradiționale de păpuși din Laos și a dansurilor teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        102.575939,
+                        17.974711
+                  ]
+            },
+            {
+                  "name": "ວັດ ສີບຸນເຮືອງ",
+                  "text": "Wat Sibounheuang (ວັດ ສີບຸນເຮືອງ) este un templu budist venerat din Vientiane, cunoscut pentru sim-ul său auriu ornamentat (sala de hirotonire).",
+                  "category": "landmark",
+                  "coords": [
+                        102.55628,
+                        17.972202
+                  ]
+            },
+            {
+                  "name": "ວັດ ຍາພະ",
+                  "text": "Wat Yapha (ວັດ ຍາພະ) oferă un sanctuar budist senin, împodobit cu statui tradiționale cu șerpi (Naga) care îi păzesc intrarea.",
+                  "category": "landmark",
+                  "coords": [
+                        102.559679,
+                        17.972373
+                  ]
+            },
+            {
+                  "name": "ວັດໄຕນ້ອຍ ຣັຕນະມຸງຄຸລ",
+                  "text": "Wat Tai Noy Rattanamingkhun este un loc de cult distinctiv, care prezintă estetica clasică a templului laoțian în inima orașului Vientiane.",
+                  "category": "religious",
+                  "coords": [
+                        102.581001,
+                        17.96893
+                  ]
+            },
+            {
+                  "name": "ຫໍພະໄທພິໂດກ ວັດ ອິນແປງ",
+                  "text": "Hor Pha Trai Pidok de la Wat Inpeng servește drept bibliotecă sacră care adăpostește manuscrise budiste antice în Vientiane.",
+                  "category": "religious",
+                  "coords": [
+                        102.602455,
+                        17.966758
+                  ]
+            },
+            {
+                  "name": "ວັດ ຂົວຫຼວງ",
+                  "text": "Acest templu budist activ din Vientiane prezintă o arhitectură religioasă tradițională laoțiană și deservește comunitatea spirituală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603031,
+                        17.971931
+                  ]
+            },
+            {
+                  "name": "ວັດຮ່ອງຄ້າ",
+                  "text": "Un lăcaș de cult tradițional laoțian în Vientiane, care adună cartierul local pentru ceremonii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        102.603248,
+                        17.977065
+                  ]
+            },
+            {
+                  "name": "ມັສຢິດອາສາຮາຣ",
+                  "text": "Această moschee islamică din Vientiane oferă un spațiu de rugăciune dedicat populației musulmane a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        102.600612,
+                        17.981174
+                  ]
+            },
+            {
+                  "name": "ວັດ ບາງ ລອງ",
+                  "text": "Un templu budist din Vientiane caracterizat de influențele sale arhitecturale vietnameze distincte și practicile religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        102.601765,
+                        17.968729
+                  ]
+            },
+            {
+                  "name": "Evangelic Church",
+                  "text": "O biserică creștină evanghelică din Vientiane care oferă un loc de cult și de adunare comunitară pentru protestanții locali.",
+                  "category": "landmark",
+                  "coords": [
+                        102.586289,
+                        17.969301
+                  ]
+            },
+            {
+                  "name": "ສາດສະໜາຈັກຂອງພຣະເຢຊູຄຣິດແຫ່ງໄພ່ພົນຍຸກສຸດທ້າຍ",
+                  "text": "Biserica lui Isus Hristos a Sfinților din Zilele din Urmă din Vientiane oferă o casă de întruniri modernă pentru credincioșii creștini locali.",
+                  "category": "landmark",
+                  "coords": [
+                        102.544974,
+                        17.975304
+                  ]
+            },
+            {
+                  "name": "ວັດ ແກ້ວປ່າ",
+                  "text": "Un complex de temple budiste senin din Vientiane, caracterizat de acoperișurile sale tradiționale în trepte și de terenurile monahale pașnice.",
+                  "category": "landmark",
+                  "coords": [
+                        102.553549,
+                        17.979616
+                  ]
+            },
+            {
+                  "name": "ວັດ ເມືອງວາ",
+                  "text": "Acest sanctuar budist local din Vientiane servește ca centru spiritual pentru călugării rezidenți și devotații din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        102.563294,
+                        17.970509
+                  ]
+            },
+            {
+                  "name": "Wat Tai Yai",
+                  "text": "Un templu budist proeminent din Vientiane, prezentând decorațiuni tradiționale laoțiene ornamentate și o sală de rugăciune liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        102.57326,
+                        17.969361
+                  ]
+            },
+            {
+                  "name": "ວັດຫົວເມືອງ",
+                  "text": "Un templu budist tradițional din Vientiane, profund integrat în viața spirituală și ritualurile cartierului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        102.593052,
+                        17.967993
+                  ]
+            },
+            {
+                  "name": "ວັດຂູນຕາ",
+                  "text": "Un complex de temple senin din Vientiane, prezentând elemente clasice de design religios laoțian și sculpturi complicate în lemn.",
+                  "category": "religious",
+                  "coords": [
+                        102.591446,
+                        17.967963
+                  ]
+            },
+            {
+                  "name": "ວັດອຸບມຸງ",
+                  "text": "Un templu liniștit din Vientiane cunoscut pentru terenurile sale umbrite și înfrunzite și pentru monumentele religioase tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        102.587884,
+                        17.968305
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດສີໄຄ",
+                  "text": "O piață publică plină de viață din Vientiane, unde vânzătorii comercializează o mare varietate de produse locale proaspete, carne și bunuri de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        102.557074,
+                        17.977033
+                  ]
+            },
+            {
+                  "name": "Wholesale wet market",
+                  "text": "O piață angro aglomerată din Vientiane care aprovizionează afacerile locale cu cantități mari de carne proaspătă, pește și legume de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        102.554483,
+                        17.977879
+                  ]
+            },
+            {
+                  "name": "Nongdouang Market",
+                  "text": "O piață plină de viață din Vientiane specializată în bunuri chinezești importate, de la electronice până la specialități alimentare regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        102.597374,
+                        17.975991
+                  ]
+            },
+            {
+                  "name": "Organic Market",
+                  "text": "O piață specializată din Vientiane dedicată vânzării de legume cultivate local, fără pesticide și produse artizanale lucrate manual.",
+                  "category": "cultural",
+                  "coords": [
+                        102.596414,
+                        17.96854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "An-2",
+                  "text": "The An-2 monument features a preserved Antonov biplane displayed on a pedestal to commemorate regional aviation history.",
+                  "category": "historical",
+                  "coords": [
+                        102.570879,
+                        17.97116
+                  ]
+            },
+            {
+                  "name": "Soviet Pilots' Monument",
+                  "text": "The Soviet Pilots' Monument is a dedicated stone memorial honoring the contributions and sacrifices of Russian aviators in Laos.",
+                  "category": "historical",
+                  "coords": [
+                        102.572453,
+                        17.970325
+                  ]
+            },
+            {
+                  "name": "Khao niew Lao theater",
+                  "text": "Khao Niew Lao Theater is a cultural performance space renowned for staging traditional Lao puppet shows and theatrical dances.",
+                  "category": "cultural",
+                  "coords": [
+                        102.575939,
+                        17.974711
+                  ]
+            },
+            {
+                  "name": "ວັດ ສີບຸນເຮືອງ",
+                  "text": "Wat Sibounheuang (ວັດ ສີບຸນເຮືອງ) is a revered Buddhist temple in Vientiane known for its ornate golden sim (ordination hall).",
+                  "category": "landmark",
+                  "coords": [
+                        102.55628,
+                        17.972202
+                  ]
+            },
+            {
+                  "name": "ວັດ ຍາພະ",
+                  "text": "Wat Yapha (ວັດ ຍາພະ) provides a serene Buddhist sanctuary adorned with traditional serpent (Naga) statues guarding its entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        102.559679,
+                        17.972373
+                  ]
+            },
+            {
+                  "name": "ວັດໄຕນ້ອຍ ຣັຕນະມຸງຄຸລ",
+                  "text": "Wat Tai Noy Rattanamingkhun is a distinctive place of worship featuring classical Lao temple aesthetics in the heart of Vientiane.",
+                  "category": "religious",
+                  "coords": [
+                        102.581001,
+                        17.96893
+                  ]
+            },
+            {
+                  "name": "ຫໍພະໄທພິໂດກ ວັດ ອິນແປງ",
+                  "text": "The Hor Pha Trai Pidok at Wat Inpeng serves as a sacred library housing ancient Buddhist manuscripts in Vientiane.",
+                  "category": "religious",
+                  "coords": [
+                        102.602455,
+                        17.966758
+                  ]
+            },
+            {
+                  "name": "ວັດ ຂົວຫຼວງ",
+                  "text": "This active Buddhist temple in Vientiane features traditional Lao religious architecture and serves the local spiritual community.",
+                  "category": "landmark",
+                  "coords": [
+                        102.603031,
+                        17.971931
+                  ]
+            },
+            {
+                  "name": "ວັດຮ່ອງຄ້າ",
+                  "text": "A traditional Lao place of worship in Vientiane, gathering the local neighborhood for religious ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        102.603248,
+                        17.977065
+                  ]
+            },
+            {
+                  "name": "Masjid Azahar",
+                  "text": "This Islamic mosque in Vientiane provides a dedicated prayer space for the city's Muslim population.",
+                  "category": "landmark",
+                  "coords": [
+                        102.600612,
+                        17.981174
+                  ]
+            },
+            {
+                  "name": "Chua Bang Long",
+                  "text": "A Buddhist temple in Vientiane characterized by its distinct Vietnamese architectural influences and religious practices.",
+                  "category": "landmark",
+                  "coords": [
+                        102.601765,
+                        17.968729
+                  ]
+            },
+            {
+                  "name": "Evangelic Church",
+                  "text": "An Evangelical Christian church in Vientiane offering a place of worship and community gathering for local Protestants.",
+                  "category": "landmark",
+                  "coords": [
+                        102.586289,
+                        17.969301
+                  ]
+            },
+            {
+                  "name": "ສາດສະໜາຈັກຂອງພຣະເຢຊູຄຣິດແຫ່ງໄພ່ພົນຍຸກສຸດທ້າຍ",
+                  "text": "The Church of Jesus Christ of Latter-day Saints in Vientiane provides a modern meetinghouse for local Christian worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        102.544974,
+                        17.975304
+                  ]
+            },
+            {
+                  "name": "ວັດ ແກ້ວປ່າ",
+                  "text": "A serene Buddhist temple complex in Vientiane, characterized by its traditional tiered roofs and peaceful monastic grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        102.553549,
+                        17.979616
+                  ]
+            },
+            {
+                  "name": "ວັດ ເມືອງວາ",
+                  "text": "This local Buddhist sanctuary in Vientiane serves as a spiritual center for resident monks and neighborhood devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        102.563294,
+                        17.970509
+                  ]
+            },
+            {
+                  "name": "Wat Tai Yai",
+                  "text": "A prominent Buddhist temple in Vientiane, featuring ornate traditional Lao decorations and a tranquil prayer hall.",
+                  "category": "landmark",
+                  "coords": [
+                        102.57326,
+                        17.969361
+                  ]
+            },
+            {
+                  "name": "ວັດຫົວເມືອງ",
+                  "text": "A traditional Buddhist temple in Vientiane, deeply integrated into the spiritual life and rituals of the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        102.593052,
+                        17.967993
+                  ]
+            },
+            {
+                  "name": "ວັດຂູນຕາ",
+                  "text": "A serene temple complex in Vientiane, showcasing classical Lao religious design elements and intricate wood carvings.",
+                  "category": "religious",
+                  "coords": [
+                        102.591446,
+                        17.967963
+                  ]
+            },
+            {
+                  "name": "ວັດອຸບມຸງ",
+                  "text": "A tranquil temple in Vientiane known for its shaded, leafy grounds and traditional religious monuments.",
+                  "category": "religious",
+                  "coords": [
+                        102.587884,
+                        17.968305
+                  ]
+            },
+            {
+                  "name": "Sikhai Public Market",
+                  "text": "A bustling public marketplace in Vientiane where vendors sell a wide variety of fresh local produce, meats, and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        102.557074,
+                        17.977033
+                  ]
+            },
+            {
+                  "name": "Wholesale wet market",
+                  "text": "A busy wholesale wet market in Vientiane supplying large quantities of fresh meats, fish, and seasonal vegetables to local businesses.",
+                  "category": "cultural",
+                  "coords": [
+                        102.554483,
+                        17.977879
+                  ]
+            },
+            {
+                  "name": "Chinese Market",
+                  "text": "A lively marketplace in Vientiane specializing in imported Chinese goods, ranging from electronics to regional specialty foods.",
+                  "category": "cultural",
+                  "coords": [
+                        102.597374,
+                        17.975991
+                  ]
+            },
+            {
+                  "name": "Organic Market",
+                  "text": "A specialized marketplace in Vientiane dedicated to selling locally grown, pesticide-free vegetables and handmade artisan products.",
+                  "category": "cultural",
+                  "coords": [
+                        102.596414,
+                        17.96854
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "LA-VT",
     coords: [102.6000, 17.9667],
@@ -56,7 +893,232 @@ export const poiExtraLaosCitiesV2: POI[] = [
       en: ["Vientiane was originally a Khmer settlement before being taken over by the Lao people.", "The city's highest temperature on record is 41.1 degrees Celsius.", "Wat Si Muang is built on the ruins of a Hindu Khmer shrine.", "The city's night market on the Mekong riverbank is famous for its red-roofed stalls.", "Vientiane is divided into several districts, including Chanthabuly and Sikhottabong.", "The Lao-Japan Sunrise Hospital is one of the most modern medical facilities in the city.", "The city's official area covers approximately 3,920 square kilometers for the prefecture.", "Vientiane hosts several international organizations, including the Mekong River Commission headquarters."],
     }, image: "/poi-images/vientiane-cities-v2.webp"},
   {
-    id: "luang-prabang-cities-v2",
+    id: "luang-prabang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset viewpoint",
+                  "text": "Beliebter Ort am Flussufer mit Panoramablick auf den Sonnenuntergang über dem Mekong.",
+                  "category": "natural",
+                  "coords": [
+                        102.124615,
+                        19.88309
+                  ]
+            },
+            {
+                  "name": "Monument du President Souphanouvong",
+                  "text": "Denkmal für den revolutionären Führer, der als „Roter Prinz“ bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        102.136719,
+                        19.88142
+                  ]
+            },
+            {
+                  "name": "Wat Manorom",
+                  "text": "Historischer buddhistischer Tempel mit einer massiven Bronzestatue Buddhas aus dem 14. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        102.133026,
+                        19.882512
+                  ]
+            },
+            {
+                  "name": "Wat Naluang",
+                  "text": "Friedlicher buddhistischer Komplex, bekannt für seine traditionelle Klostergemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        102.134821,
+                        19.86837
+                  ]
+            },
+            {
+                  "name": "ວັດທາດ",
+                  "text": "Wichtiger königlicher Tempel, der historisch als Stätte für königliche Bestattungszeremonien diente.",
+                  "category": "landmark",
+                  "coords": [
+                        102.129642,
+                        19.882934
+                  ]
+            },
+            {
+                  "name": "Navieng Kham Market",
+                  "text": "Lokaler Lebensmittelmarkt mit einer großen Auswahl an frischen Zutaten und laotischen Snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        102.140303,
+                        19.876735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset viewpoint",
+                  "text": "Népszerű folyóparti hely, ahonnan panorámás kilátás nyílik a Mekong felett lemenő napra.",
+                  "category": "natural",
+                  "coords": [
+                        102.124615,
+                        19.88309
+                  ]
+            },
+            {
+                  "name": "Monument du President Souphanouvong",
+                  "text": "Emlékmű a „Vörös Herceg” néven ismert forradalmi vezető tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        102.136719,
+                        19.88142
+                  ]
+            },
+            {
+                  "name": "Wat Manorom",
+                  "text": "Történelmi buddhista templom egy hatalmas, 14. századi bronz Buddha-szoborral.",
+                  "category": "religious",
+                  "coords": [
+                        102.133026,
+                        19.882512
+                  ]
+            },
+            {
+                  "name": "Wat Naluang",
+                  "text": "Békés buddhista komplexum, amely hagyományos szerzetesi közösségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.134821,
+                        19.86837
+                  ]
+            },
+            {
+                  "name": "ວັດທາດ",
+                  "text": "Fontos királyi templom, amely történelmileg a királyi temetési máglyák helyszíne volt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.129642,
+                        19.882934
+                  ]
+            },
+            {
+                  "name": "Navieng Kham Market",
+                  "text": "Helyi élelmiszerpiac friss alapanyagok és laoszi harapnivalók széles választékával.",
+                  "category": "cultural",
+                  "coords": [
+                        102.140303,
+                        19.876735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset viewpoint",
+                  "text": "Loc popular pe malul râului, oferind vederi panoramice asupra apusului peste Mekong.",
+                  "category": "natural",
+                  "coords": [
+                        102.124615,
+                        19.88309
+                  ]
+            },
+            {
+                  "name": "Monument du President Souphanouvong",
+                  "text": "Monument comemorativ dedicat liderului revoluționar cunoscut sub numele de „Prințul Roșu”.",
+                  "category": "historical",
+                  "coords": [
+                        102.136719,
+                        19.88142
+                  ]
+            },
+            {
+                  "name": "Wat Manorom",
+                  "text": "Templu budist istoric care adăpostește o statuie masivă de bronz a lui Buddha din secolul al XIV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        102.133026,
+                        19.882512
+                  ]
+            },
+            {
+                  "name": "Wat Naluang",
+                  "text": "Complex budist liniștit, cunoscut pentru comunitatea sa monastică tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        102.134821,
+                        19.86837
+                  ]
+            },
+            {
+                  "name": "ວັດທາດ",
+                  "text": "Important templu regal care a servit istoric ca loc pentru rugurile funerare regale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.129642,
+                        19.882934
+                  ]
+            },
+            {
+                  "name": "Navieng Kham Market",
+                  "text": "Piață alimentară locală care oferă o gamă largă de ingrediente proaspete și gustări laoțiene.",
+                  "category": "cultural",
+                  "coords": [
+                        102.140303,
+                        19.876735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset viewpoint",
+                  "text": "Popular riverside spot offering panoramic views of the sun dipping behind the Mekong.",
+                  "category": "natural",
+                  "coords": [
+                        102.124615,
+                        19.88309
+                  ]
+            },
+            {
+                  "name": "Monument du President Souphanouvong",
+                  "text": "Commemorative statue dedicated to the revolutionary leader known as the \"Red Prince\".",
+                  "category": "historical",
+                  "coords": [
+                        102.136719,
+                        19.88142
+                  ]
+            },
+            {
+                  "name": "Wat Manorom",
+                  "text": "Historic Buddhist temple housing a massive 14th-century bronze Buddha statue.",
+                  "category": "religious",
+                  "coords": [
+                        102.133026,
+                        19.882512
+                  ]
+            },
+            {
+                  "name": "Wat Naluang",
+                  "text": "Peaceful Buddhist complex known for its traditional monastic community and study.",
+                  "category": "landmark",
+                  "coords": [
+                        102.134821,
+                        19.86837
+                  ]
+            },
+            {
+                  "name": "Wat That Luang",
+                  "text": "Important royal temple that historically served as the site for royal funeral pyres.",
+                  "category": "landmark",
+                  "coords": [
+                        102.129642,
+                        19.882934
+                  ]
+            },
+            {
+                  "name": "Navieng Kham Market",
+                  "text": "Local food market offering a wide array of fresh ingredients and Lao snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        102.140303,
+                        19.876735
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-LP",
     coords: [102.1347, 19.8834],
@@ -119,7 +1181,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Champasak Cultural Museum",
-                  "text": "Das Champasak Kulturmuseum befindet sich in Pakse.",
+                  "text": "Das Champasak Cultural Museum in Pakse zeigt Artefakte aus dem alten Königreich Champasak.",
                   "category": "museum",
                   "coords": [
                         105.797711,
@@ -128,7 +1190,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Sala Kham",
-                  "text": "Sala Kham bietet einen schönen Aussichtspunkt in Pakse.",
+                  "text": "Ein natürlicher Aussichtspunkt über den Mekong in Pakse.",
                   "category": "natural",
                   "coords": [
                         105.796328,
@@ -137,7 +1199,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Pakse Landmark",
-                  "text": "Das Pakse-Wahrzeichen ist eine beliebte Sehenswürdigkeit in Pakse.",
+                  "text": "Ein markantes Wahrzeichen im Zentrum von Pakse, oft als Treffpunkt genutzt.",
                   "category": "landmark",
                   "coords": [
                         105.798378,
@@ -148,7 +1210,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Champasak Cultural Museum",
-                  "text": "A Champasak Kulturális Múzeum Pakse városában található.",
+                  "text": "A paksei Champasak Kulturális Múzeum az ősi Champasak királyság leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
                         105.797711,
@@ -157,7 +1219,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Sala Kham",
-                  "text": "Sala Kham egy szép kilátópontot kínál Pakse-ban.",
+                  "text": "Egy természetes kilátó, mely a Mekong folyóra néz Pakse-ban.",
                   "category": "natural",
                   "coords": [
                         105.796328,
@@ -166,7 +1228,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Pakse Landmark",
-                  "text": "A Pakse-emlékmű egy népszerű látnivaló Pakse-ban.",
+                  "text": "Egy kiemelkedő nevezetesség Pakse központjában, gyakran találkozópontként használják.",
                   "category": "landmark",
                   "coords": [
                         105.798378,
@@ -177,7 +1239,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Champasak Cultural Museum",
-                  "text": "Muzeul Cultural Champasak este situat în Pakse.",
+                  "text": "Muzeul Cultural Champasak din Pakse expune artefacte din vechiul regat Champasak.",
                   "category": "museum",
                   "coords": [
                         105.797711,
@@ -186,7 +1248,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Sala Kham",
-                  "text": "Sala Kham oferă un punct de belvedere frumos în Pakse.",
+                  "text": "Un punct de belvedere natural care oferă vedere la fluviul Mekong din Pakse.",
                   "category": "natural",
                   "coords": [
                         105.796328,
@@ -195,7 +1257,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Pakse Landmark",
-                  "text": "Reperele din Pakse reprezintă o atracție populară în oraș.",
+                  "text": "Un reper proeminent în centrul orașului Pakse, adesea folosit ca punct de întâlnire.",
                   "category": "landmark",
                   "coords": [
                         105.798378,
@@ -206,7 +1268,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Champasak Cultural Museum",
-                  "text": "The Champasak Cultural Museum is located in Pakse.",
+                  "text": "The Champasak Cultural Museum in Pakse displays artifacts from the ancient Kingdom of Champasak.",
                   "category": "museum",
                   "coords": [
                         105.797711,
@@ -215,7 +1277,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Sala Kham",
-                  "text": "Sala Kham offers a beautiful viewpoint in Pakse.",
+                  "text": "A natural viewpoint overlooking the Mekong River in Pakse.",
                   "category": "natural",
                   "coords": [
                         105.796328,
@@ -224,7 +1286,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Pakse Landmark",
-                  "text": "The Pakse Landmark is a popular attraction in Pakse.",
+                  "text": "A prominent landmark in the center of Pakse, often used as a meeting point.",
                   "category": "landmark",
                   "coords": [
                         105.798378,
@@ -323,7 +1385,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "de": [
             {
                   "name": "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
-                  "text": "Das Dinosaur Museum ist ein Museum in der Stadt Savannakhet.",
+                  "text": "Ein Museum mit Dinosaurierfossilien aus der Provinz Savannakhet.",
                   "category": "museum",
                   "coords": [
                         104.745433,
@@ -332,7 +1394,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
-                  "text": "Das Savannakhet Museum ist ein Museum in der Stadt Savannakhet.",
+                  "text": "Ein Museum zur Geschichte und Kultur der Provinz Savannakhet.",
                   "category": "museum",
                   "coords": [
                         104.746305,
@@ -341,7 +1403,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial President Kaysone Phomvihan",
-                  "text": "Memorial President Kaysone Phomvihan ist eine Sehenswürdigkeit in der Stadt Savannakhet.",
+                  "text": "Ein Denkmal zu Ehren von Kaysone Phomvihan, dem ersten Präsidenten von Laos, in Savannakhet.",
                   "category": "landmark",
                   "coords": [
                         104.746757,
@@ -350,7 +1412,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Mekong Viewpoint",
-                  "text": "Mekong Viewpoint ist ein Aussichtspunkt in der Stadt Savannakhet.",
+                  "text": "Ein malerischer Aussichtspunkt am Mekong in Savannakhet.",
                   "category": "natural",
                   "coords": [
                         104.745673,
@@ -359,7 +1421,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Si Mongkhon Tai",
-                  "text": "Wat Si Mongkhon Tai ist eine religiöse Stätte in der Stadt Savannakhet.",
+                  "text": "Buddhistischer Tempel in Savannakhet mit einer großen Buddha-Statue und verzierten Naga-Treppen.",
                   "category": "religious",
                   "coords": [
                         104.731059,
@@ -370,7 +1432,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
-                  "text": "A Dinosaur Museum egy múzeum Savannakhet városában.",
+                  "text": "Egy múzeum, mely a Savannakhet tartományban feltárt dinoszaurusz-leleteket mutatja be.",
                   "category": "museum",
                   "coords": [
                         104.745433,
@@ -379,7 +1441,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
-                  "text": "A Savannakhet Museum egy múzeum Savannakhet városában.",
+                  "text": "Egy múzeum, amely Savannakhet tartomány történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
                         104.746305,
@@ -388,7 +1450,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial President Kaysone Phomvihan",
-                  "text": "A Memorial President Kaysone Phomvihan egy turisztikai látványosság Savannakhet városában.",
+                  "text": "Egy emlékmű, melyet Kaysone Phomvihan-nak, Laosz első elnökének szenteltek Savannakhetben.",
                   "category": "landmark",
                   "coords": [
                         104.746757,
@@ -397,7 +1459,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Mekong Viewpoint",
-                  "text": "A Mekong Viewpoint egy kilátó Savannakhet városában.",
+                  "text": "Egy festői kilátó a Mekong folyó mentén Savannakhetben.",
                   "category": "natural",
                   "coords": [
                         104.745673,
@@ -406,7 +1468,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Si Mongkhon Tai",
-                  "text": "A Wat Si Mongkhon Tai egy istentiszteleti hely Savannakhet városában.",
+                  "text": "Buddhista templom Savannakhetben, nagy Buddha-szoborral és díszes naga lépcsőkkel.",
                   "category": "religious",
                   "coords": [
                         104.731059,
@@ -417,7 +1479,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
-                  "text": "Dinosaur Museum este un muzeu din orașul Savannakhet.",
+                  "text": "Un muzeu care expune fosile de dinozaur descoperite în provincia Savannakhet.",
                   "category": "museum",
                   "coords": [
                         104.745433,
@@ -426,7 +1488,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
-                  "text": "Savannakhet Museum este un muzeu din orașul Savannakhet.",
+                  "text": "Un muzeu dedicat istoriei și culturii provinciei Savannakhet.",
                   "category": "museum",
                   "coords": [
                         104.746305,
@@ -435,7 +1497,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial President Kaysone Phomvihan",
-                  "text": "Memorial President Kaysone Phomvihan este o atracție turistică în orașul Savannakhet.",
+                  "text": "Un monument memorial dedicat lui Kaysone Phomvihan, primul președinte al Laosului, în Savannakhet.",
                   "category": "landmark",
                   "coords": [
                         104.746757,
@@ -444,7 +1506,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Mekong Viewpoint",
-                  "text": "Mekong Viewpoint este un punct de belvedere în orașul Savannakhet.",
+                  "text": "Un punct de belvedere pitoresc de-a lungul fluviului Mekong în Savannakhet.",
                   "category": "natural",
                   "coords": [
                         104.745673,
@@ -453,7 +1515,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Si Mongkhon Tai",
-                  "text": "Wat Si Mongkhon Tai este un lăcaș de cult din orașul Savannakhet.",
+                  "text": "Templu budist în Savannakhet, cu o statuie mare a lui Buddha și scări ornamentate cu naga.",
                   "category": "religious",
                   "coords": [
                         104.731059,
@@ -464,7 +1526,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Dinosaur Museum",
-                  "text": "The Dinosaur Museum is a museum located in the city of Savannakhet.",
+                  "text": "A museum displaying dinosaur fossils excavated in Savannakhet Province.",
                   "category": "museum",
                   "coords": [
                         104.745433,
@@ -473,7 +1535,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Savannakhet Museum",
-                  "text": "The Savannakhet Museum is a museum located in the city of Savannakhet.",
+                  "text": "A museum dedicated to the history and culture of Savannakhet province.",
                   "category": "museum",
                   "coords": [
                         104.746305,
@@ -482,7 +1544,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Memorial President Kaysone Phomvihan",
-                  "text": "Memorial President Kaysone Phomvihan is a tourist attraction located in the city of Savannakhet.",
+                  "text": "A memorial monument dedicated to Kaysone Phomvihan, first president of Laos, in Savannakhet.",
                   "category": "landmark",
                   "coords": [
                         104.746757,
@@ -491,7 +1553,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Mekong Viewpoint",
-                  "text": "Mekong Viewpoint is a viewpoint located in the city of Savannakhet.",
+                  "text": "A scenic viewpoint along the Mekong River in Savannakhet.",
                   "category": "natural",
                   "coords": [
                         104.745673,
@@ -500,7 +1562,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Wat Si Mongkhon Tai",
-                  "text": "Wat Si Mongkhon Tai is a place of worship located in the city of Savannakhet.",
+                  "text": "Buddhist temple in Savannakhet with a large Buddha statue and ornate naga stairs.",
                   "category": "religious",
                   "coords": [
                         104.731059,
@@ -675,7 +1737,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Pha Poak",
-                  "text": "Pha Poak ist ein bekannter Aussichtspunkt in Vang Vieng.",
+                  "text": "Eine Kalksteinformation mit Blick auf den Wald bei Vieng.",
                   "category": "natural",
                   "coords": [
                         102.437774,
@@ -684,7 +1746,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Tham None Cave",
-                  "text": "Die Tham-None-Höhle ist eine interessante Sehenswürdigkeit in Vang Vieng.",
+                  "text": "Eine Kalksteinhöhle mit Stalaktiten und Stalagmiten bei Vieng.",
                   "category": "landmark",
                   "coords": [
                         102.434147,
@@ -702,7 +1764,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint 1",
-                  "text": "Viewpoint 1 ist ein Aussichtspunkt in Vang Vieng.",
+                  "text": "Ein beliebter Aussichtspunkt über dem Tal von Vieng.",
                   "category": "natural",
                   "coords": [
                         102.423014,
@@ -711,7 +1773,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Free point of view",
-                  "text": "Dieser frei zugängliche Aussichtspunkt befindet sich in Vang Vieng.",
+                  "text": "Ein kostenloser öffentlicher Aussichtspunkt mit Panoramablick auf Vieng.",
                   "category": "natural",
                   "coords": [
                         102.445896,
@@ -722,7 +1784,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Pha Poak",
-                  "text": "Pha Poak egy ismert kilátópont Vang Viengben.",
+                  "text": "Egy mészkő sziklaformáció, kilátással a viengi erdőre.",
                   "category": "natural",
                   "coords": [
                         102.437774,
@@ -731,7 +1793,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Tham None Cave",
-                  "text": "A Tham None-barlang egy érdekes látnivaló Vang Viengben.",
+                  "text": "Egy mészkőbarlang cseppkövekkel Vieng közelében.",
                   "category": "landmark",
                   "coords": [
                         102.434147,
@@ -749,7 +1811,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint 1",
-                  "text": "A Viewpoint 1 egy kilátópont Vang Viengben.",
+                  "text": "Egy népszerű kilátó, mely Vieng völgyére néz.",
                   "category": "natural",
                   "coords": [
                         102.423014,
@@ -758,7 +1820,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Free point of view",
-                  "text": "Ez a szabadon hozzáférhető kilátópont Vang Viengben található.",
+                  "text": "Egy ingyenes nyilvános kilátó, panorámás kilátással Viengre.",
                   "category": "natural",
                   "coords": [
                         102.445896,
@@ -769,7 +1831,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Pha Poak",
-                  "text": "Pha Poak este un punct de belvedere cunoscut în Vang Vieng.",
+                  "text": "O formațiune calcaroasă care oferă vedere spre pădurea de lângă Vieng.",
                   "category": "natural",
                   "coords": [
                         102.437774,
@@ -778,7 +1840,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Tham None Cave",
-                  "text": "Peștera Tham None este o atracție interesantă în Vang Vieng.",
+                  "text": "O peșteră de calcar cu stalactite și stalagmite lângă Vieng.",
                   "category": "landmark",
                   "coords": [
                         102.434147,
@@ -796,7 +1858,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint 1",
-                  "text": "Viewpoint 1 este un punct de belvedere în Vang Vieng.",
+                  "text": "Un punct de belvedere popular care oferă vedere la valea Vieng.",
                   "category": "natural",
                   "coords": [
                         102.423014,
@@ -805,7 +1867,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Free point of view",
-                  "text": "Acest punct de belvedere cu acces liber se află în Vang Vieng.",
+                  "text": "Un punct de belvedere public gratuit cu vedere panoramică asupra orașului Vieng.",
                   "category": "natural",
                   "coords": [
                         102.445896,
@@ -816,7 +1878,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Pha Poak",
-                  "text": "Pha Poak is a well-known viewpoint in Vang Vieng.",
+                  "text": "A limestone rock formation offering views of the forest near Vieng.",
                   "category": "natural",
                   "coords": [
                         102.437774,
@@ -825,7 +1887,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Tham None Cave",
-                  "text": "Tham None Cave is an interesting attraction in Vang Vieng.",
+                  "text": "A limestone cave with stalactites and stalagmites near Vieng.",
                   "category": "landmark",
                   "coords": [
                         102.434147,
@@ -843,7 +1905,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Viewpoint 1",
-                  "text": "Viewpoint 1 is a viewpoint in Vang Vieng.",
+                  "text": "A popular viewpoint overlooking the Vieng valley.",
                   "category": "natural",
                   "coords": [
                         102.423014,
@@ -852,7 +1914,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Free point of view",
-                  "text": "This free viewpoint is located in Vang Vieng.",
+                  "text": "A free public viewpoint with panoramic views of Vieng.",
                   "category": "natural",
                   "coords": [
                         102.445896,
@@ -923,7 +1985,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Mulberries organic silk farm",
-                  "text": "Mulberries organic silk farm ist eine Sehenswürdigkeit in der Stadt Phonsavan.",
+                  "text": "Eine Bio-Seidenfarm nahe Phonsavan, die traditionelle laotische Seide herstellt.",
                   "category": "landmark",
                   "coords": [
                         103.177105,
@@ -934,7 +1996,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Mulberries organic silk farm",
-                  "text": "A Mulberries organic silk farm egy turisztikai látványosság Phonsavan városában.",
+                  "text": "Egy öko-selyemfarm Phonsavan közelében, mely hagyományos laoszi selymet állít elő.",
                   "category": "landmark",
                   "coords": [
                         103.177105,
@@ -945,7 +2007,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Mulberries organic silk farm",
-                  "text": "Mulberries organic silk farm este o atracție turistică în orașul Phonsavan.",
+                  "text": "O fermă ecologică de mătase lângă Phonsavan, care produce mătase tradițională laoțiană.",
                   "category": "landmark",
                   "coords": [
                         103.177105,
@@ -956,7 +2018,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Mulberries organic silk farm",
-                  "text": "Mulberries organic silk farm is a tourist attraction located in the city of Phonsavan.",
+                  "text": "An organic silk farm near Phonsavan producing traditional Lao silk.",
                   "category": "landmark",
                   "coords": [
                         103.177105,
@@ -1282,7 +2344,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fort Carnot",
-                  "text": "Fort Carnot ist eine Festungsanlage in der Stadt Huay Xai.",
+                  "text": "Eine französische Kolonialfestung aus dem 19. Jahrhundert in Xai.",
                   "category": "fortress",
                   "coords": [
                         100.415172,
@@ -1291,7 +2353,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Kaysone Monument",
-                  "text": "Kaysone Monument ist ein Monument in der Stadt Huay Xai.",
+                  "text": "Ein Denkmal zur Erinnerung an Kaysone Phomvihan in Xai.",
                   "category": "historical",
                   "coords": [
                         100.416099,
@@ -1320,7 +2382,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fort Carnot",
-                  "text": "A Fort Carnot egy erőd Huay Xai városában.",
+                  "text": "Egy 19. századi francia gyarmati erőd Xaiban.",
                   "category": "fortress",
                   "coords": [
                         100.415172,
@@ -1329,7 +2391,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Kaysone Monument",
-                  "text": "A Kaysone Monument egy emlékmű Huay Xai városában.",
+                  "text": "Egy emlékmű Kaysone Phomvihan tiszteletére Xaiban.",
                   "category": "historical",
                   "coords": [
                         100.416099,
@@ -1358,7 +2420,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fort Carnot",
-                  "text": "Fort Carnot este un fort situat în orașul Huay Xai.",
+                  "text": "O fortăreață colonială franceză din secolul al XIX-lea în Xai.",
                   "category": "fortress",
                   "coords": [
                         100.415172,
@@ -1367,7 +2429,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Kaysone Monument",
-                  "text": "Kaysone Monument este un monument din orașul Huay Xai.",
+                  "text": "Un monument în memoria lui Kaysone Phomvihan în Xai.",
                   "category": "historical",
                   "coords": [
                         100.416099,
@@ -1396,7 +2458,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fort Carnot",
-                  "text": "Fort Carnot is a fort located in the city of Huay Xai.",
+                  "text": "A 19th-century French colonial fortress in Xai.",
                   "category": "fortress",
                   "coords": [
                         100.415172,
@@ -1405,7 +2467,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Kaysone Monument",
-                  "text": "Kaysone Monument is a monument located in the city of Huay Xai.",
+                  "text": "A monument commemorating Kaysone Phomvihan in Xai.",
                   "category": "historical",
                   "coords": [
                         100.416099,
@@ -1518,7 +2580,88 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Située sur la frontière du Mékong avec la Thaïlande, face à Chiang Khong.", "Le point de départ traditionnel pour la descente en bateau vers Luang Prabang.", "Abrite le Fort Carnot, une forteresse militaire française bien conservée.", "Porte d'entrée de la réserve naturelle de Bokeo et des circuits Gibbon Experience.", "Historiquement connue pour le commerce du jade et des saphirs.", "Le quatrième pont de l'amitié thaï-lao a été inauguré ici en 2013."],
     }, image: "/poi-images/huay-xai-cities-v2.webp"},
   {
-    id: "muang-xay-cities-v2",
+    id: "muang-xay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Banjeng",
+                  "text": "Wat Banjeng ist ein traditioneller buddhistischer Tempel, der einen friedlichen spirituellen Rückzugsort in der Stadt Muang Xay bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.989838,
+                        20.691908
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໝອງແມງດາ",
+                  "text": "Der Nongmeangda-Markt ist ein geschäftiges Handelszentrum, in dem sich Einheimische versammeln, um in Muang Xay Waren zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        101.993595,
+                        20.687807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Banjeng",
+                  "text": "A Wat Banjeng egy hagyományos buddhista templom, amely békés spirituális menedéket kínál Muang Xay városában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.989838,
+                        20.691908
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໝອງແມງດາ",
+                  "text": "A Nongmeangda piac egy nyüzsgő kereskedelmi központ, ahol a helyiek összegyűlnek árukat cserélni Muang Xay-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        101.993595,
+                        20.687807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Banjeng",
+                  "text": "Wat Banjeng este un templu budist tradițional care oferă un refugiu spiritual liniștit în orașul Muang Xay.",
+                  "category": "landmark",
+                  "coords": [
+                        101.989838,
+                        20.691908
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໝອງແມງດາ",
+                  "text": "Piața Nongmeangda este un centru comercial plin de viață, unde localnicii se adună pentru a tranzacționa mărfuri în Muang Xay.",
+                  "category": "cultural",
+                  "coords": [
+                        101.993595,
+                        20.687807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Banjeng",
+                  "text": "Wat Banjeng is a traditional Buddhist temple offering a peaceful spiritual retreat in the city of Muang Xay.",
+                  "category": "landmark",
+                  "coords": [
+                        101.989838,
+                        20.691908
+                  ]
+            },
+            {
+                  "name": "Nongmeangda Market",
+                  "text": "Nongmeangda Market is a bustling commercial center where locals gather to trade goods in Muang Xay.",
+                  "category": "cultural",
+                  "coords": [
+                        101.993595,
+                        20.687807
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-OU",
     coords: [101.9833, 20.6833],
@@ -1664,7 +2807,88 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Capitale de la province de Sayaboury, située entièrement à l'ouest du Mékong.", "La province est connue pour abriter la plus grande population d'éléphants domestiques du Laos.", "Entourée de chaînes de montagnes escarpées et de forêts tropicales denses.", "Possède le magnifique temple Wat Si Boun Huang avec son ancien stupa.", "L'économie locale repose fortement sur l'agriculture et la protection des éléphants.", "Organise des festivals culturels célébrant l'importance historique des éléphants de trait."],
     }, image: "/poi-images/sainyabuli-cities-v2.webp"},
   {
-    id: "pakxan-cities-v2",
+    id: "pakxan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grandparents Shrine",
+                  "text": "Ein traditioneller taoistischer Schrein, der der lokalen spirituellen Gemeinschaft in Pakxan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        103.649542,
+                        18.371485
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Ein belebter lokaler Marktplatz, der in Pakxan alltägliche Waren und Produkte anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        103.659055,
+                        18.387603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grandparents Shrine",
+                  "text": "Egy hagyományos taoista szentély, amely Pakxan helyi spirituális közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        103.649542,
+                        18.371485
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Egy nyüzsgő helyi piac Pakxanban, ahol mindennapi árukat és terményeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        103.659055,
+                        18.387603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grandparents Shrine",
+                  "text": "Un altar taoist tradițional care deservește comunitatea spirituală locală din Pakxan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.649542,
+                        18.371485
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "O piață locală plină de viață, care oferă bunuri și produse de zi cu zi în Pakxan.",
+                  "category": "cultural",
+                  "coords": [
+                        103.659055,
+                        18.387603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grandparents Shrine",
+                  "text": "A traditional Taoist shrine serving the local spiritual community in Pakxan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.649542,
+                        18.371485
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A bustling local marketplace offering everyday goods and produce in Pakxan.",
+                  "category": "cultural",
+                  "coords": [
+                        103.659055,
+                        18.387603
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-BL",
     coords: [103.6500, 18.3833],
@@ -1751,7 +2975,124 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Capitale de la province de Bolikhamxai au confluent de la Nam San et du Mékong.", "Porte d'entrée des jungles denses de la réserve naturelle de Phou Khao Khouay.", "Possède le Wat Phabath, un temple connu pour une grande empreinte de pas de Bouddha.", "Entourée de vastes zones humides et de plaines agricoles.", "A servi historiquement de petit poste de traite entre Vientiane et le sud.", "L'emplacement de la ville en fait une liaison de transport importante sur la route 13."],
     }, image: "/poi-images/pakxan-cities-v2.webp"},
   {
-    id: "attapeu-cities-v2",
+    id: "attapeu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Luang Temple",
+                  "text": "Ein bedeutender buddhistischer Klosterkomplex, der ein architektonisches Wahrzeichen in Attapeu ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.833152,
+                        14.807633
+                  ]
+            },
+            {
+                  "name": "New Market",
+                  "text": "Ein moderner Handelsposten, der für lokale Bauern und Kaufleute in Attapeu errichtet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        106.819137,
+                        14.816822
+                  ]
+            },
+            {
+                  "name": "Old Market",
+                  "text": "Ein traditionelles Marktzentrum mit einer bunten Auswahl an regionalen Waren in Attapeu.",
+                  "category": "cultural",
+                  "coords": [
+                        106.838463,
+                        14.804997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Luang Temple",
+                  "text": "Kiemelkedő buddhista kolostorkomplexum, amely építészeti nevezetesség Attapeu városában.",
+                  "category": "landmark",
+                  "coords": [
+                        106.833152,
+                        14.807633
+                  ]
+            },
+            {
+                  "name": "New Market",
+                  "text": "Egy modern kereskedelmi állomás, amelyet a helyi gazdák és kereskedők számára hoztak létre Attapeuban.",
+                  "category": "cultural",
+                  "coords": [
+                        106.819137,
+                        14.816822
+                  ]
+            },
+            {
+                  "name": "Old Market",
+                  "text": "Hagyományos piacközpont, amely regionális termékek élénk választékát kínálja Attapeuban.",
+                  "category": "cultural",
+                  "coords": [
+                        106.838463,
+                        14.804997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Luang Temple",
+                  "text": "Un complex monahal budist proeminent, care este un punct de reper arhitectural în Attapeu.",
+                  "category": "landmark",
+                  "coords": [
+                        106.833152,
+                        14.807633
+                  ]
+            },
+            {
+                  "name": "New Market",
+                  "text": "Un post comercial modern înființat pentru fermierii și comercianții locali din Attapeu.",
+                  "category": "cultural",
+                  "coords": [
+                        106.819137,
+                        14.816822
+                  ]
+            },
+            {
+                  "name": "Old Market",
+                  "text": "Un centru comercial tradițional, care prezintă o gamă vibrantă de bunuri regionale în Attapeu.",
+                  "category": "cultural",
+                  "coords": [
+                        106.838463,
+                        14.804997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Luang Temple",
+                  "text": "A prominent Buddhist monastery complex that is an architectural landmark in Attapeu.",
+                  "category": "landmark",
+                  "coords": [
+                        106.833152,
+                        14.807633
+                  ]
+            },
+            {
+                  "name": "New Market",
+                  "text": "A modern trading post established for local farmers and merchants in Attapeu.",
+                  "category": "cultural",
+                  "coords": [
+                        106.819137,
+                        14.816822
+                  ]
+            },
+            {
+                  "name": "Old Market",
+                  "text": "A traditional market center featuring a vibrant array of regional goods in Attapeu.",
+                  "category": "cultural",
+                  "coords": [
+                        106.838463,
+                        14.804997
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-AT",
     coords: [106.8333, 14.8000],
@@ -1838,7 +3179,88 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Capitale de la province du sud-est d'Attapeu, située dans une vallée isolée.", "A été fortement influencée par la piste Hô Chi Minh pendant la guerre du Vietnam.", "Dispose d'un missile SAM russe exposé au centre comme monument de guerre.", "Abrite diverses minorités ethniques aux traditions culturelles uniques.", "Sert de principale porte d'entrée vers la zone nationale de conservation de Dong Ampham.", "Le marché local propose des produits forestiers uniques provenant des jungles environnantes."],
     }, image: "/poi-images/attapeu-cities-v2.webp"},
   {
-    id: "salavan-cities-v2",
+    id: "salavan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ວັດກາງ",
+                  "text": "Ein ruhiges buddhistisches Heiligtum, das den spirituellen Bedürfnissen der Gemeinde Salavan dient.",
+                  "category": "landmark",
+                  "coords": [
+                        106.426061,
+                        15.717237
+                  ]
+            },
+            {
+                  "name": "Salavan Market",
+                  "text": "Ein lebhaftes Handelszentrum, in dem frische lokale Produkte und Alltagsgegenstände in Salavan verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        106.420688,
+                        15.715336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ວັດກາງ",
+                  "text": "A salavani közösség spirituális igényeit szolgáló nyugodt buddhista szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        106.426061,
+                        15.717237
+                  ]
+            },
+            {
+                  "name": "Salavan Market",
+                  "text": "Élettel teli kereskedelmi központ Salavanban, ahol friss helyi termékeket és mindennapi cikkeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.420688,
+                        15.715336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ວັດກາງ",
+                  "text": "Un sanctuar budist liniștit care deservește nevoile spirituale ale comunității din Salavan.",
+                  "category": "landmark",
+                  "coords": [
+                        106.426061,
+                        15.717237
+                  ]
+            },
+            {
+                  "name": "Salavan Market",
+                  "text": "Un hub comercial plin de viață care vinde produse locale proaspete și articole de zi cu zi în Salavan.",
+                  "category": "cultural",
+                  "coords": [
+                        106.420688,
+                        15.715336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Kang",
+                  "text": "A tranquil Buddhist sanctuary serving the spiritual needs of the Salavan community.",
+                  "category": "landmark",
+                  "coords": [
+                        106.426061,
+                        15.717237
+                  ]
+            },
+            {
+                  "name": "Salavan Market",
+                  "text": "A lively commercial hub selling fresh local produce and everyday items in Salavan.",
+                  "category": "cultural",
+                  "coords": [
+                        106.420688,
+                        15.715336
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-SL",
     coords: [106.4167, 15.7167],
@@ -2188,7 +3610,160 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Capitale de la province de Xaisomboun, région montagneuse du centre du Laos.", "La province abrite le Phou Bia, le plus haut sommet du Laos.", "Ancienne zone militaire restreinte, récemment ouverte au tourisme.", "L'économie locale est portée par l'exploitation minière et l'agriculture.", "L'une des capitales provinciales les plus isolées et les moins visitées.", "Entourée de paysages sauvages, de grottes et de jungles denses."],
     }, image: "/poi-images/xaisomboun-cities-v2.webp"},
   {
-    id: "phonhong-cities-v2",
+    id: "phonhong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat Danpha",
+                  "text": "Ein reich verzierter buddhistischer Tempel in Phonhong mit traditioneller laotischer Klosterarchitektur und farbenfrohen, geschwungenen Dächern.",
+                  "category": "landmark",
+                  "coords": [
+                        102.396886,
+                        18.482458
+                  ]
+            },
+            {
+                  "name": "Wat Namlin",
+                  "text": "Ein traditionelles buddhistisches Heiligtum in Phonhong, in dem Mönche tägliche Rituale durchführen und der örtlichen Gemeinde spirituelle Führung bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        102.410709,
+                        18.491819
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໂພນສີໃຕ້",
+                  "text": "Dieser lokale buddhistische Tempelkomplex in Phonhong zeichnet sich durch aufwendige Holzschnitzereien aus und fungiert als Zentrum für religiöse Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        102.410712,
+                        18.483943
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໂພນໂຮງ",
+                  "text": "Ein lebhafter Freiluftmarkt in Phonhong, der für sein Angebot an frischen tropischen Früchten, Gemüse und handgemachten laotischen Textilien bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        102.417676,
+                        18.502467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat Danpha",
+                  "text": "Egy díszes buddhista templom Phonhongban, amely hagyományos laoszi kolostorépítészettel és színes, ívelt tetőkkel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.396886,
+                        18.482458
+                  ]
+            },
+            {
+                  "name": "Wat Namlin",
+                  "text": "Hagyományos buddhista szentély Phonhongban, ahol a szerzetesek napi rituálékat tartanak, és spirituális iránymutatást nyújtanak a helyi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        102.410709,
+                        18.491819
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໂພນສີໃຕ້",
+                  "text": "Ez a helyi phonhongi buddhista templomkomplexum bonyolult fafaragásokkal rendelkezik, és a vallási fesztiválok központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.410712,
+                        18.483943
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໂພນໂຮງ",
+                  "text": "Nyüzsgő szabadtéri piac Phonhongban, amely friss trópusi gyümölcsök, zöldségek és kézzel készített laoszi textíliák széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        102.417676,
+                        18.502467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat Danpha",
+                  "text": "Un templu budist ornamentat din Phonhong, prezentând arhitectură monastică laotiană tradițională și acoperișuri curbate colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        102.396886,
+                        18.482458
+                  ]
+            },
+            {
+                  "name": "Wat Namlin",
+                  "text": "Un sanctuar budist tradițional în Phonhong, unde călugării oficiază ritualuri zilnice și oferă îndrumare spirituală comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.410709,
+                        18.491819
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານໂພນສີໃຕ້",
+                  "text": "Acest complex de temple budiste din Phonhong prezintă sculpturi complexe în lemn și acționează ca un centru pentru festivaluri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        102.410712,
+                        18.483943
+                  ]
+            },
+            {
+                  "name": "ຕະຫຼາດໂພນໂຮງ",
+                  "text": "O piață vibrantă în aer liber în Phonhong, cunoscută pentru gama sa de fructe tropicale proaspete, legume și textile laotiene realizate manual.",
+                  "category": "cultural",
+                  "coords": [
+                        102.417676,
+                        18.502467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Danpha",
+                  "text": "An ornate Buddhist temple in Phonhong featuring traditional Lao monastic architecture and colorful sweeping roofs.",
+                  "category": "landmark",
+                  "coords": [
+                        102.396886,
+                        18.482458
+                  ]
+            },
+            {
+                  "name": "Namlin Temple",
+                  "text": "A traditional Buddhist sanctuary in Phonhong where monks conduct daily rituals and offer spiritual guidance to the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        102.410709,
+                        18.491819
+                  ]
+            },
+            {
+                  "name": "Phonsitai Temple",
+                  "text": "This local Buddhist temple complex in Phonhong features intricate wood carvings and acts as a center for religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        102.410712,
+                        18.483943
+                  ]
+            },
+            {
+                  "name": "Phonhong Market",
+                  "text": "A vibrant open-air marketplace in Phonhong known for its array of fresh tropical fruits, vegetables, and handmade Lao textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        102.417676,
+                        18.502467
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-VI",
     coords: [102.4167, 18.5000],
@@ -2366,7 +3941,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Théâtre d'Ombres de Champasak",
-                  "text": "Das Schattentheater von Champasak ist eine kulturelle Attraktion.",
+                  "text": "Ein traditionelles Schattentheater in Champasak, das laotische Volksmärchen aufführt.",
                   "category": "cultural",
                   "coords": [
                         105.881961,
@@ -2384,7 +3959,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Unfinished Royal Palace",
-                  "text": "Der unvollendete Königspalast ist ein historisches Gebäude in Champasak.",
+                  "text": "Ein unvollendeter Königspalast in Champasak, erbaut im frühen 20. Jahrhundert.",
                   "category": "castle",
                   "coords": [
                         105.878973,
@@ -2393,7 +3968,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Boupha Garden Café",
-                  "text": "Das Boupha Garden Café ist ein beliebter Ort in Champasak.",
+                  "text": "Ein Gartencafé in Champasak mit Blick auf den Mekong.",
                   "category": "landmark",
                   "coords": [
                         105.879733,
@@ -2404,7 +3979,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Théâtre d'Ombres de Champasak",
-                  "text": "A Champasak Árnyékszínház egy kulturális látnivaló.",
+                  "text": "Egy hagyományos árnyjátékszínház Champasakban, mely laoszi népmeséket ad elő.",
                   "category": "cultural",
                   "coords": [
                         105.881961,
@@ -2422,7 +3997,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Unfinished Royal Palace",
-                  "text": "A befejezetlen Királyi Palota egy történelmi épület Champasakban.",
+                  "text": "Egy befejezetlen királyi palota Champasakban, a 20. század elején épült.",
                   "category": "castle",
                   "coords": [
                         105.878973,
@@ -2431,7 +4006,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Boupha Garden Café",
-                  "text": "A Boupha Garden Café egy népszerű hely Champasakban.",
+                  "text": "Egy kerti kávézó Champasakban, a Mekong folyóra néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         105.879733,
@@ -2442,7 +4017,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Théâtre d'Ombres de Champasak",
-                  "text": "Teatrul de umbre din Champasak este o atracție culturală.",
+                  "text": "Un teatru tradițional de umbre în Champasak, care prezintă povești populare laoțiene.",
                   "category": "cultural",
                   "coords": [
                         105.881961,
@@ -2460,7 +4035,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Unfinished Royal Palace",
-                  "text": "Palatul Regal neterminat este o clădire istorică în Champasak.",
+                  "text": "Un palat regal neterminat în Champasak, construit la începutul secolului al XX-lea.",
                   "category": "castle",
                   "coords": [
                         105.878973,
@@ -2469,7 +4044,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Boupha Garden Café",
-                  "text": "Boupha Garden Café este un loc popular în Champasak.",
+                  "text": "O cafenea cu grădină în Champasak, cu vedere la fluviul Mekong.",
                   "category": "landmark",
                   "coords": [
                         105.879733,
@@ -2480,7 +4055,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Théâtre d'Ombres de Champasak",
-                  "text": "The Shadow Theatre of Champasak is a cultural attraction.",
+                  "text": "A traditional shadow puppet theater in Champasak, performing Lao folk tales.",
                   "category": "cultural",
                   "coords": [
                         105.881961,
@@ -2498,7 +4073,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Unfinished Royal Palace",
-                  "text": "The Unfinished Royal Palace is a historic building in Champasak.",
+                  "text": "An unfinished royal palace in Champasak, built in the early 20th century.",
                   "category": "castle",
                   "coords": [
                         105.878973,
@@ -2507,7 +4082,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Boupha Garden Café",
-                  "text": "Boupha Garden Café is a popular attraction in Champasak.",
+                  "text": "A garden café in Champasak with views of the Mekong River.",
                   "category": "landmark",
                   "coords": [
                         105.879733,
@@ -2661,7 +4236,52 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Une ville fluviale pittoresque dans la province de Sayaboury, située directement sur le Mékong.", "Dispose de nombreux bâtiments coloniaux français bien conservés.", "Historiquement connue pour le festival des éléphants du Laos avant qu'il ne soit déplacé.", "A servi d'important poste régional de commerce du bois aux XIXe et XXe siècles.", "Située relativement près de la frontière thaïlandaise, ce qui influence le commerce local.", "Entourée de terres agricoles principalement utilisées pour la culture du riz et du maïs."],
     }, image: "/poi-images/pak-lay-cities-v2.webp"},
   {
-    id: "seno-cities-v2",
+    id: "seno-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ວັດໃຫຍ່ ຫຼັກເມືອງ",
+                  "text": "Ein traditioneller buddhistischer Tempelkomplex, der als spirituelles Zentrum in Seno dient.",
+                  "category": "landmark",
+                  "coords": [
+                        104.985234,
+                        16.673586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ວັດໃຫຍ່ ຫຼັກເມືອງ",
+                  "text": "Egy hagyományos buddhista templomkomplexum, amely szellemi központként szolgál Senóban.",
+                  "category": "landmark",
+                  "coords": [
+                        104.985234,
+                        16.673586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ວັດໃຫຍ່ ຫຼັກເມືອງ",
+                  "text": "Un complex de temple budiste tradiționale care servește ca centru spiritual în Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.985234,
+                        16.673586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ວັດໃຫຍ່ ຫຼັກເມືອງ",
+                  "text": "A traditional Buddhist temple complex that serves as a spiritual center in Seno.",
+                  "category": "landmark",
+                  "coords": [
+                        104.985234,
+                        16.673586
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-SV",
     coords: [105.0000, 16.6667],
@@ -3055,7 +4675,52 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Le plus grand établissement sur l'île de Don Khong dans la région de Si Phan Don.", "Située directement sur le cours large du Mékong dans le sud du Laos.", "Connue pour son atmosphère profondément paisible et ses maisons en bois sur pilotis.", "La population locale vit principalement de la pêche en eau douce et de l'agriculture.", "Située à courte distance des imposantes chutes de Khone Phapheng.", "Proche historiquement d'une voie ferrée française pour contourner les rapides."],
     }, image: "/poi-images/muang-khong-cities-v2.webp"},
   {
-    id: "sepon-cities-v2",
+    id: "sepon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shot up temple and bank",
+                  "text": "Diese von Kugeln durchsiebten Ruinen bewahren die Überreste eines Tempels und einer Bank aus der Kriegszeit.",
+                  "category": "historical",
+                  "coords": [
+                        106.236076,
+                        16.682183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shot up temple and bank",
+                  "text": "Ezek a golyó ütötte romok egy háborús időkben elpusztult templom és bank maradványait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        106.236076,
+                        16.682183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shot up temple and bank",
+                  "text": "Aceste ruine ciuruite de gloanțe păstrează rămășițele unui templu și ale unei bănci din timpul războiului.",
+                  "category": "historical",
+                  "coords": [
+                        106.236076,
+                        16.682183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shot up temple and bank",
+                  "text": "These bullet-scarred ruins preserve the remains of a temple and bank from wartime.",
+                  "category": "historical",
+                  "coords": [
+                        106.236076,
+                        16.682183
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-SV",
     coords: [106.2333, 16.6833],
@@ -3142,7 +4807,88 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Ville majeure de Savannakhet, proche de la frontière vietnamienne.", "Fortement bombardée en raison de sa position sur la piste Ho Chi Minh.", "Les environs furent le centre de l'intense bataille de Lam Son 719.", "La région est encore très touchée par les opérations de déminage.", "Abrite d'importantes mines commerciales d'or et de cuivre dans les collines.", "Les vestiges de guerre comme les cratères et la ferraille marquent le paysage."],
     }, image: "/poi-images/sepon-cities-v2.webp"},
   {
-    id: "muang-sing-cities-v2", "sights": {"de": [{"name": "Picturesque Old Museum", "text": "Das Picturesque Old Museum ist ein Museum in der Stadt Muang Sing.", "category": "museum", "coords": [101.151299, 21.190057]}, {"name": "Plaza", "text": "Als markantes Monument prägt die Plaza das Stadtbild von Muang Sing und dient als einladender Treffpunkt. Der offene Platz verströmt eine authentische lokale Atmosphäre und ist ideal für einen gemütlichen Stadtspaziergang. Für einen entspannten Rundgang empfiehlt sich ein Besuch am späten Nachmittag, wenn die Sonne milder scheint.", "category": "historical", "coords": [101.148685, 21.192241]}], "hu": [{"name": "Picturesque Old Museum", "text": "A Picturesque Old Museum egy múzeum Muang Sing városában.", "category": "museum", "coords": [101.151299, 21.190057]}, {"name": "Plaza", "text": "A Muang Sing városképét meghatározó Plaza egy impozáns emlékmű, amely barátságos találkozóhelyként szolgál. A nyitott tér hamisítatlan helyi atmoszférát áraszt, így kiváló egy kényelmes városi sétához. Különösen a késő délutáni órákban ajánlott a látogatás, amikor a nap már lágyabban süt.", "category": "historical", "coords": [101.148685, 21.192241]}], "ro": [{"name": "Picturesque Old Museum", "text": "Picturesque Old Museum este un muzeu din orașul Muang Sing.", "category": "museum", "coords": [101.151299, 21.190057]}, {"name": "Plaza", "text": "Remarcându-se ca un monument impresionant, Plaza definește peisajul urban din Muang Sing și servește ca un loc de întâlnire primitor. Piațeta deschisă emană o atmosferă locală autentică, fiind ideală pentru o plimbare relaxantă. O vizită la sfârșitul după-amiezii, când soarele este mai blând, oferă o experiență deosebit de plăcută.", "category": "historical", "coords": [101.148685, 21.192241]}], "en": [{"name": "Picturesque Old Museum", "text": "The Picturesque Old Museum is a museum located in the city of Muang Sing.", "category": "museum", "coords": [101.151299, 21.190057]}, {"name": "Plaza", "text": "Serving as a striking monument, the Plaza shapes the cityscape of Muang Sing and acts as a welcoming gathering spot. The open square exudes an authentic local vibe, making it ideal for a leisurely urban stroll. Taking a relaxed walk here in the late afternoon, when the sun is gentler, is highly recommended.", "category": "historical", "coords": [101.148685, 21.192241]}]},
+    id: "muang-sing-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Picturesque Old Museum",
+                  "text": "Ein Museum in einem malerischen Kolonialgebäude in Sing.",
+                  "category": "museum",
+                  "coords": [
+                        101.151299,
+                        21.190057
+                  ]
+            },
+            {
+                  "name": "Plaza",
+                  "text": "Als markantes Monument prägt die Plaza das Stadtbild von Muang Sing und dient als einladender Treffpunkt. Der offene Platz verströmt eine authentische lokale Atmosphäre und ist ideal für einen gemütlichen Stadtspaziergang. Für einen entspannten Rundgang empfiehlt sich ein Besuch am späten Nachmittag, wenn die Sonne milder scheint.",
+                  "category": "historical",
+                  "coords": [
+                        101.148685,
+                        21.192241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Picturesque Old Museum",
+                  "text": "Egy múzeum egy festői gyarmati épületben Singben.",
+                  "category": "museum",
+                  "coords": [
+                        101.151299,
+                        21.190057
+                  ]
+            },
+            {
+                  "name": "Plaza",
+                  "text": "A Muang Sing városképét meghatározó Plaza egy impozáns emlékmű, amely barátságos találkozóhelyként szolgál. A nyitott tér hamisítatlan helyi atmoszférát áraszt, így kiváló egy kényelmes városi sétához. Különösen a késő délutáni órákban ajánlott a látogatás, amikor a nap már lágyabban süt.",
+                  "category": "historical",
+                  "coords": [
+                        101.148685,
+                        21.192241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Picturesque Old Museum",
+                  "text": "Un muzeu găzduit într-o clădire colonială pitorească din Sing.",
+                  "category": "museum",
+                  "coords": [
+                        101.151299,
+                        21.190057
+                  ]
+            },
+            {
+                  "name": "Plaza",
+                  "text": "Remarcându-se ca un monument impresionant, Plaza definește peisajul urban din Muang Sing și servește ca un loc de întâlnire primitor. Piațeta deschisă emană o atmosferă locală autentică, fiind ideală pentru o plimbare relaxantă. O vizită la sfârșitul după-amiezii, când soarele este mai blând, oferă o experiență deosebit de plăcută.",
+                  "category": "historical",
+                  "coords": [
+                        101.148685,
+                        21.192241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Picturesque Old Museum",
+                  "text": "A museum housed in a picturesque colonial building in Sing.",
+                  "category": "museum",
+                  "coords": [
+                        101.151299,
+                        21.190057
+                  ]
+            },
+            {
+                  "name": "Plaza",
+                  "text": "Serving as a striking monument, the Plaza shapes the cityscape of Muang Sing and acts as a welcoming gathering spot. The open square exudes an authentic local vibe, making it ideal for a leisurely urban stroll. Taking a relaxed walk here in the late afternoon, when the sun is gentler, is highly recommended.",
+                  "category": "historical",
+                  "coords": [
+                        101.148685,
+                        21.192241
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-LM",
     coords: [101.1500, 21.1833],
@@ -3233,7 +4979,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Ban Manda",
-                  "text": "Ban Manda ist ein kulturelles Museum im Dorf Nong Khiaw.",
+                  "text": "Ein Museum, das das traditionelle laotische Dorfleben in Khiaw zeigt.",
                   "category": "museum",
                   "coords": [
                         102.633605,
@@ -3242,7 +4988,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Endpoint: Hike to Nang None Mountain View",
-                  "text": "Endpoint: Hike to Nang None Mountain View ist ein lohnender Aussichtspunkt mit Blick über Nong Khiaw.",
+                  "text": "Der Endpunkt einer Wanderung mit Blick auf den Nang-None-Berg bei Khiaw.",
                   "category": "natural",
                   "coords": [
                         102.599907,
@@ -3316,7 +5062,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Ban Manda",
-                  "text": "A Ban Manda egy kulturális múzeum Nong Khiaw falujában.",
+                  "text": "Egy múzeum, mely a hagyományos laoszi falusi életet mutatja be Khiawban.",
                   "category": "museum",
                   "coords": [
                         102.633605,
@@ -3325,7 +5071,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Endpoint: Hike to Nang None Mountain View",
-                  "text": "Az Endpoint: Hike to Nang None Mountain View egy hálás kilátó Nong Khiaw felett.",
+                  "text": "Egy túra végpontja, mely kilátást nyújt a Nang None-hegyre Khiaw közelében.",
                   "category": "natural",
                   "coords": [
                         102.599907,
@@ -3399,7 +5145,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Ban Manda",
-                  "text": "Ban Manda este un muzeu cultural situat în satul Nong Khiaw.",
+                  "text": "Un muzeu care prezintă viața tradițională a satelor laoțiene în Khiaw.",
                   "category": "museum",
                   "coords": [
                         102.633605,
@@ -3408,7 +5154,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Endpoint: Hike to Nang None Mountain View",
-                  "text": "Endpoint: Hike to Nang None Mountain View este un punct de belvedere impresionant care domină Nong Khiaw.",
+                  "text": "Punctul final al unei drumeții care oferă vedere la Muntele Nang None lângă Khiaw.",
                   "category": "natural",
                   "coords": [
                         102.599907,
@@ -3482,7 +5228,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Ban Manda",
-                  "text": "Ban Manda is a cultural museum situated in the village of Nong Khiaw.",
+                  "text": "A museum showcasing traditional Lao village life in Khiaw.",
                   "category": "museum",
                   "coords": [
                         102.633605,
@@ -3491,7 +5237,7 @@ export const poiExtraLaosCitiesV2: POI[] = [
             },
             {
                   "name": "Endpoint: Hike to Nang None Mountain View",
-                  "text": "Endpoint: Hike to Nang None Mountain View is a rewarding viewpoint overlooking Nong Khiaw.",
+                  "text": "The endpoint of a hike offering views of Nang None Mountain near Khiaw.",
                   "category": "natural",
                   "coords": [
                         102.599907,

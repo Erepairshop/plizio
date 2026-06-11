@@ -52,7 +52,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Holmarka besøksgård",
-                  "text": "Ein Besucherbauernhof und Museum in Molde.",
+                  "text": "Holmarka Besucherbauernhof – ein Museum, das traditionelles Landleben nahe Molde zeigt.",
                   "category": "museum",
                   "coords": [
                         7.14708,
@@ -61,7 +61,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Salmon Center Molde",
-                  "text": "Ein Informationszentrum über die Lachszucht in Molde.",
+                  "text": "Lachszentrum Molde – ein Museum, das dem Lachs und der Fischereikultur der Region gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         7.159674,
@@ -79,7 +79,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fredslunden",
-                  "text": "Ein Gedenkpark in Molde, der dem Frieden gewidmet ist.",
+                  "text": "Fredslunden ist ein Friedenspark in Molde mit Skulpturen.",
                   "category": "park",
                   "coords": [
                         7.127455,
@@ -88,7 +88,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Moldefjorden",
-                  "text": "Ein malerischer Fjord, der an der Stadt Molde liegt.",
+                  "text": "Moldefjorden – ein tiefer Fjord, umgeben von Bergen und Inseln, malerische Kulisse der Stadt.",
                   "category": "landmark",
                   "coords": [
                         7.140598,
@@ -106,7 +106,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "St. Sunniva kirke",
-                  "text": "Eine katholische Kirche im Zentrum von Molde.",
+                  "text": "Kirche der norwegischen Kirche im Stadtzentrum von Molde.",
                   "category": "religious",
                   "coords": [
                         7.153865,
@@ -142,7 +142,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fjellbrudammen",
-                  "text": "Fjellbrudammen ist ein See bei Molde, der sich für Wanderungen in der Umgebung eignet.",
+                  "text": "Fjellbrudammen – ein kleiner natürlicher Teich oder See in den Hügeln von Molde.",
                   "category": "natural",
                   "coords": [
                         7.169901,
@@ -178,7 +178,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Krokodilla",
-                  "text": "Krokodilla ist ein fantasievoller Spielplatz in Molde für Kinder zum Entdecken.",
+                  "text": "Krokodilla – eine Familienattraktion mit Wasserspielbereichen und Krokodilthema in Molde.",
                   "category": "family",
                   "coords": [
                         7.169824,
@@ -187,7 +187,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kulpene",
-                  "text": "Genießen Sie ein erfrischendes Bad im Kulpene in Molde.",
+                  "text": "Kulpene – eine Gruppe natürlicher Pools zum Baden und Entspannen in Molde.",
                   "category": "family",
                   "coords": [
                         7.168511,
@@ -196,7 +196,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Molde sjøbad",
-                  "text": "Genießen Sie ein erfrischendes Bad im Molde sjøbad in Molde.",
+                  "text": "Molde sjøbad – ein öffentliches Meeresbad an der Küste von Molde.",
                   "category": "family",
                   "coords": [
                         7.163413,
@@ -252,7 +252,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Holmarka besøksgård",
-                  "text": "Látogatható gazdaság és múzeum Molde városában.",
+                  "text": "Holmarka látogatói gazdaság – hagyományos vidéki élet bemutató múzeuma Molde közelében.",
                   "category": "museum",
                   "coords": [
                         7.14708,
@@ -261,7 +261,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Salmon Center Molde",
-                  "text": "A lazactenyésztéssel foglalkozó információs központ Moldéban.",
+                  "text": "Lazac Központ Molde – a régió lazac- és halászati kultúrájának szentelt múzeum.",
                   "category": "museum",
                   "coords": [
                         7.159674,
@@ -279,7 +279,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fredslunden",
-                  "text": "A békének szentelt emlékpark Molde városában.",
+                  "text": "A Fredslunden egy béke park Moldében szobrokkal.",
                   "category": "park",
                   "coords": [
                         7.127455,
@@ -288,7 +288,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Moldefjorden",
-                  "text": "Molde városa mellett elterülő festői fjord.",
+                  "text": "Moldefjorden – mély fjord, hegyek és szigetek övezik, a város festői háttere.",
                   "category": "landmark",
                   "coords": [
                         7.140598,
@@ -306,7 +306,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "St. Sunniva kirke",
-                  "text": "Katolikus templom Molde központjában.",
+                  "text": "Norvég egyházi templom Molde központjában.",
                   "category": "religious",
                   "coords": [
                         7.153865,
@@ -342,7 +342,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fjellbrudammen",
-                  "text": "A Fjellbrudammen egy Molde közeli víztározó, amely alkalmas a környékbeli túrázásra.",
+                  "text": "Fjellbrudammen – egy kis természetes tó Molde dombjain.",
                   "category": "natural",
                   "coords": [
                         7.169901,
@@ -378,7 +378,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Krokodilla",
-                  "text": "A Krokodilla egy fantáziadús játszótér Moldéban a gyermekek számára a felfedezéshez.",
+                  "text": "Krokodilla – családi látványosság vízi játékokkal és krokodil témával Moldében.",
                   "category": "family",
                   "coords": [
                         7.169824,
@@ -387,7 +387,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kulpene",
-                  "text": "Élvezze a frissítő úszást a Kulpene helyszínén Molde városában.",
+                  "text": "Kulpene – természetes medencék fürdőzésre és pihenésre Moldében.",
                   "category": "family",
                   "coords": [
                         7.168511,
@@ -396,7 +396,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Molde sjøbad",
-                  "text": "Élvezze a frissítő úszást a Molde sjøbad helyszínén Molde városában.",
+                  "text": "Molde sjøbad – nyilvános tengeri fürdőhely Molde partján.",
                   "category": "family",
                   "coords": [
                         7.163413,
@@ -452,7 +452,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Holmarka besøksgård",
-                  "text": "O fermă de vizitare și muzeu în Molde.",
+                  "text": "Ferma de vizitare Holmarka – un muzeu care prezintă viața rurală tradițională lângă Molde.",
                   "category": "museum",
                   "coords": [
                         7.14708,
@@ -461,7 +461,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Salmon Center Molde",
-                  "text": "Un centru de informare despre creșterea somonului în Molde.",
+                  "text": "Centrul Somonului Molde – un muzeu dedicat somonului și culturii pescuitului din regiune.",
                   "category": "museum",
                   "coords": [
                         7.159674,
@@ -479,7 +479,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fredslunden",
-                  "text": "Un parc memorial în Molde, dedicat păcii.",
+                  "text": "Fredslunden este un parc al păcii în Molde, cu sculpturi.",
                   "category": "park",
                   "coords": [
                         7.127455,
@@ -488,7 +488,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Moldefjorden",
-                  "text": "Un fjord pitoresc situat lângă orașul Molde.",
+                  "text": "Moldefjorden – un fiord adânc înconjurat de munți și insule, fundalul pitoresc al orașului.",
                   "category": "landmark",
                   "coords": [
                         7.140598,
@@ -506,7 +506,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "St. Sunniva kirke",
-                  "text": "O biserică catolică situată în centrul orașului Molde.",
+                  "text": "Biserică a Bisericii Norvegiene în centrul orașului Molde.",
                   "category": "religious",
                   "coords": [
                         7.153865,
@@ -542,7 +542,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fjellbrudammen",
-                  "text": "Fjellbrudammen este un lac de acumulare lângă Molde, potrivit pentru drumeții în zonă.",
+                  "text": "Fjellbrudammen – un mic lac natural în dealurile din Molde.",
                   "category": "natural",
                   "coords": [
                         7.169901,
@@ -578,7 +578,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Krokodilla",
-                  "text": "Krokodilla este un loc de joacă plin de imaginație în Molde pentru copii, pentru explorare.",
+                  "text": "Krokodilla – o atracție pentru familii cu zone de joacă cu apă și temă de crocodil în Molde.",
                   "category": "family",
                   "coords": [
                         7.169824,
@@ -587,7 +587,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kulpene",
-                  "text": "Bucurați-vă de o baie răcoritoare la Kulpene în Molde.",
+                  "text": "Kulpene – un set de piscine naturale pentru scăldat și relaxare în Molde.",
                   "category": "family",
                   "coords": [
                         7.168511,
@@ -596,7 +596,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Molde sjøbad",
-                  "text": "Bucurați-vă de o baie răcoritoare la Molde sjøbad în Molde.",
+                  "text": "Molde sjøbad – o zonă publică de scăldat pe coasta Moldenei.",
                   "category": "family",
                   "coords": [
                         7.163413,
@@ -652,7 +652,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Holmarka besøksgård",
-                  "text": "A visiting farm and museum located in Molde.",
+                  "text": "Holmarka visitor farm – a museum showcasing traditional rural life near Molde.",
                   "category": "museum",
                   "coords": [
                         7.14708,
@@ -661,7 +661,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Salmon Center Molde",
-                  "text": "An information center about salmon farming located in Molde.",
+                  "text": "Salmon Center Molde – a museum dedicated to the salmon and fishing culture of the region.",
                   "category": "museum",
                   "coords": [
                         7.159674,
@@ -679,7 +679,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fredslunden",
-                  "text": "A memorial park in Molde dedicated to peace.",
+                  "text": "Fredslunden is a peace park in Molde featuring sculptures.",
                   "category": "park",
                   "coords": [
                         7.127455,
@@ -688,7 +688,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Moldefjorden",
-                  "text": "A scenic fjord located adjacent to the city of Molde.",
+                  "text": "Moldefjorden – a deep fjord surrounded by mountains and islands, scenic backdrop of the city.",
                   "category": "landmark",
                   "coords": [
                         7.140598,
@@ -706,7 +706,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "St. Sunniva kirke",
-                  "text": "A Catholic church located in the center of Molde.",
+                  "text": "Church of the Church of Norway in central Molde.",
                   "category": "religious",
                   "coords": [
                         7.153865,
@@ -742,7 +742,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fjellbrudammen",
-                  "text": "Fjellbrudammen is a reservoir near Molde, suitable for hiking in the area.",
+                  "text": "Fjellbrudammen – a small natural pond or lake in the hills of Molde.",
                   "category": "natural",
                   "coords": [
                         7.169901,
@@ -778,7 +778,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Krokodilla",
-                  "text": "Krokodilla is an imaginative playground in Molde for children to explore.",
+                  "text": "Krokodilla – a family attraction with water play areas and a crocodile theme in Molde.",
                   "category": "family",
                   "coords": [
                         7.169824,
@@ -787,7 +787,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kulpene",
-                  "text": "Enjoy a refreshing swim at Kulpene in Molde.",
+                  "text": "Kulpene – a set of natural pools for bathing and relaxing in Molde.",
                   "category": "family",
                   "coords": [
                         7.168511,
@@ -796,7 +796,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Molde sjøbad",
-                  "text": "Enjoy a refreshing swim at Molde sjøbad in Molde.",
+                  "text": "Molde sjøbad – a public sea bathing area on the coast of Molde.",
                   "category": "family",
                   "coords": [
                         7.163413,
@@ -853,7 +853,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Norsk jernbanemuseum",
-                  "text": "Das Norwegische Eisenbahnmuseum in Hamar ist das Nationalmuseum für Eisenbahngeschichte.",
+                  "text": "Das Norwegische Eisenbahnmuseum in Hamar zeigt historische Züge und Eisenbahnausrüstung.",
                   "category": "museum",
                   "coords": [
                         11.027119,
@@ -1024,7 +1024,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Martodden Badeplass",
-                  "text": "Ein öffentlicher Badebereich und Strand in Hamar.",
+                  "text": "Martodden Badeplass – ein Freizeitbad am Ufer des Mjøsa-Sees bei Hamar.",
                   "category": "recreational",
                   "coords": [
                         11.023608,
@@ -1051,7 +1051,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "HIAS-Stranda Badeplass",
-                  "text": "Ein lokaler Badestrand und Erholungsort in Hamar.",
+                  "text": "HIAS-Stranda Badeplass – ein Strand- und Schwimmbereich am Mjøsa-See bei Hamar.",
                   "category": "recreational",
                   "coords": [
                         11.074413,
@@ -1062,7 +1062,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Norsk jernbanemuseum",
-                  "text": "A hamari Norvég Vasúti Múzeum a vasúttörténet nemzeti múzeuma.",
+                  "text": "A Norvég Vasúti Múzeum Hamarban történelmi vonatokat és vasúti felszereléseket mutat be.",
                   "category": "museum",
                   "coords": [
                         11.027119,
@@ -1233,7 +1233,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Martodden Badeplass",
-                  "text": "Nyilvános úszóhely és strand Hamarban.",
+                  "text": "Martodden Badeplass – szabadidős fürdőhely a Mjøsa-tó partján Hamar közelében.",
                   "category": "recreational",
                   "coords": [
                         11.023608,
@@ -1260,7 +1260,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "HIAS-Stranda Badeplass",
-                  "text": "Helyi fürdőstrand és kikapcsolódási helyszín Hamarban.",
+                  "text": "HIAS-Stranda Badeplass – strand és fürdőhely a Mjøsa-tónál Hamar közelében.",
                   "category": "recreational",
                   "coords": [
                         11.074413,
@@ -1271,7 +1271,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Norsk jernbanemuseum",
-                  "text": "Muzeul Căilor Ferate Norvegiene din Hamar este muzeul național pentru istoria feroviară.",
+                  "text": "Muzeul Norvegian al Căilor Ferate din Hamar expune trenuri istorice și echipamente feroviare.",
                   "category": "museum",
                   "coords": [
                         11.027119,
@@ -1442,7 +1442,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Martodden Badeplass",
-                  "text": "O zonă publică de înot și plajă în Hamar.",
+                  "text": "Martodden Badeplass – un loc de scăldat recreativ pe malul lacului Mjøsa lângă Hamar.",
                   "category": "recreational",
                   "coords": [
                         11.023608,
@@ -1469,7 +1469,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "HIAS-Stranda Badeplass",
-                  "text": "O plajă locală pentru înot și sit recreativ în Hamar.",
+                  "text": "HIAS-Stranda Badeplass – o plajă și zonă de înot pe lacul Mjøsa lângă Hamar.",
                   "category": "recreational",
                   "coords": [
                         11.074413,
@@ -1480,7 +1480,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Norsk jernbanemuseum",
-                  "text": "The Norwegian Railway Museum in Hamar is the national museum for railway history.",
+                  "text": "Norwegian Railway Museum in Hamar displays historic trains and railway equipment.",
                   "category": "museum",
                   "coords": [
                         11.027119,
@@ -1651,7 +1651,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Martodden Badeplass",
-                  "text": "A public swimming area and beach located in Hamar.",
+                  "text": "Martodden Badeplass – a recreational swimming spot on the shores of Mjøsa near Hamar.",
                   "category": "recreational",
                   "coords": [
                         11.023608,
@@ -1678,7 +1678,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "HIAS-Stranda Badeplass",
-                  "text": "A local swimming beach and recreational site in Hamar.",
+                  "text": "HIAS-Stranda Badeplass – a beach and swimming area on Lake Mjøsa near Hamar.",
                   "category": "recreational",
                   "coords": [
                         11.074413,
@@ -2680,7 +2680,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Limitjenn",
-                  "text": "Limitjenn ist ein lokaler See in Skien für Spaziergänge am Wasser.",
+                  "text": "Limitjenn – ein kleiner natürlicher See im Wald bei Skien.",
                   "category": "natural",
                   "coords": [
                         9.544704,
@@ -2772,7 +2772,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Limitjenn",
-                  "text": "A Limitjenn egy helyi tó Skienben vízparti sétákhoz.",
+                  "text": "Limitjenn – egy kis természetes tó az erdőben Skien közelében.",
                   "category": "natural",
                   "coords": [
                         9.544704,
@@ -2864,7 +2864,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Limitjenn",
-                  "text": "Limitjenn este un lac local în Skien pentru plimbări pe malul apei.",
+                  "text": "Limitjenn – un mic lac natural în pădurea de lângă Skien.",
                   "category": "natural",
                   "coords": [
                         9.544704,
@@ -2956,7 +2956,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Limitjenn",
-                  "text": "Limitjenn is a local lake in Skien for walks by the water.",
+                  "text": "Limitjenn – a small natural lake in the forest near Skien.",
                   "category": "natural",
                   "coords": [
                         9.544704,
@@ -3850,7 +3850,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kongshavntjern",
-                  "text": "Kongshavntjern ist ein See in Moss, der eine ruhige natürliche Umgebung bietet.",
+                  "text": "Kongshavntjern – ein natürlicher See nahe Kongshavn in Moss.",
                   "category": "natural",
                   "coords": [
                         10.661739,
@@ -3906,7 +3906,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kongshavntjern",
-                  "text": "A Kongshavntjern egy tó Moss közelében, amely nyugodt természeti környezetet biztosít.",
+                  "text": "Kongshavntjern – természetes tó Kongshavn közelében Mossban.",
                   "category": "natural",
                   "coords": [
                         10.661739,
@@ -3962,7 +3962,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kongshavntjern",
-                  "text": "Kongshavntjern este un lac din Moss, oferind un mediu natural liniștit.",
+                  "text": "Kongshavntjern – un lac natural lângă Kongshavn în Moss.",
                   "category": "natural",
                   "coords": [
                         10.661739,
@@ -4018,7 +4018,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kongshavntjern",
-                  "text": "Kongshavntjern is a lake in Moss, offering a peaceful natural setting.",
+                  "text": "Kongshavntjern – a natural lake located near Kongshavn in Moss.",
                   "category": "natural",
                   "coords": [
                         10.661739,
@@ -4129,7 +4129,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Strømbadet",
-                  "text": "Genießen Sie ein erfrischendes Bad im Strømbadet in Sandefjord.",
+                  "text": "Strømbadet – ein familienfreundliches öffentliches Bad in Strøm, Sandefjord.",
                   "category": "family",
                   "coords": [
                         10.224327,
@@ -4221,7 +4221,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Strømbadet",
-                  "text": "Élvezze a frissítő úszást a Strømbadet helyszínén Sandefjord városában.",
+                  "text": "Strømbadet – családbarát nyilvános fürdő Strømben, Sandefjordban.",
                   "category": "family",
                   "coords": [
                         10.224327,
@@ -4313,7 +4313,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Strømbadet",
-                  "text": "Bucurați-vă de o baie răcoritoare la Strømbadet în Sandefjord.",
+                  "text": "Strømbadet – o baie publică prietenoasă pentru familii în Strøm, Sandefjord.",
                   "category": "family",
                   "coords": [
                         10.224327,
@@ -4405,7 +4405,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Strømbadet",
-                  "text": "Enjoy a refreshing swim at Strømbadet in Sandefjord.",
+                  "text": "Strømbadet – a family-friendly public bath and swimming area in Strøm, Sandefjord.",
                   "category": "family",
                   "coords": [
                         10.224327,
@@ -4525,7 +4525,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Longumvannet",
-                  "text": "Der Longumvannet ist ein See in Arendal, der eine ruhige Naturumgebung bietet.",
+                  "text": "Longumvannet – ein See in Arendal, beliebt zum Schwimmen und für Outdoor-Aktivitäten.",
                   "category": "natural",
                   "coords": [
                         8.759163,
@@ -4662,7 +4662,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Longumvannet",
-                  "text": "A Longumvannet egy tó Arendal területén, amely nyugodt természeti környezetet kínál.",
+                  "text": "Longumvannet – tó Arendalban, népszerű úszásra és szabadtéri tevékenységekre.",
                   "category": "natural",
                   "coords": [
                         8.759163,
@@ -4799,7 +4799,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Longumvannet",
-                  "text": "Longumvannet este un lac din Arendal care oferă un mediu natural liniștit.",
+                  "text": "Longumvannet – un lac în Arendal, popular pentru înot și activități în aer liber.",
                   "category": "natural",
                   "coords": [
                         8.759163,
@@ -4936,7 +4936,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Longumvannet",
-                  "text": "Longumvannet is a lake in Arendal that offers a peaceful natural environment.",
+                  "text": "Longumvannet – a lake in Arendal, popular for swimming and outdoor activities.",
                   "category": "natural",
                   "coords": [
                         8.759163,
@@ -5227,7 +5227,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Larvik rådhus",
-                  "text": "Das Rathaus von Larvik ist der Sitz der städtischen Verwaltung.",
+                  "text": "Historisches Rathaus am Larvik-Platz.",
                   "category": "historical",
                   "coords": [
                         10.028268,
@@ -5463,7 +5463,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Larvik rådhus",
-                  "text": "A larviki városháza a városi önkormányzat székhelye.",
+                  "text": "Történelmi városháza a Larvik téren.",
                   "category": "historical",
                   "coords": [
                         10.028268,
@@ -5699,7 +5699,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Larvik rådhus",
-                  "text": "Primăria din Larvik este sediul administrației municipale.",
+                  "text": "Primărie istorică în Piața Larvik.",
                   "category": "historical",
                   "coords": [
                         10.028268,
@@ -5935,7 +5935,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Larvik rådhus",
-                  "text": "Larvik Town Hall is the seat of the municipal administration.",
+                  "text": "Historic town hall at Larvik Square.",
                   "category": "historical",
                   "coords": [
                         10.028268,
@@ -6154,7 +6154,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kristiansund Nord kystfort",
-                  "text": "Eine ehemalige Küstenfestung im Norden von Kristiansund.",
+                  "text": "Kristiansund Nord kystfort – eine wiederhergestellte Küstenbefestigung aus dem 20. Jahrhundert.",
                   "category": "fortress",
                   "coords": [
                         7.708743,
@@ -6172,7 +6172,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordmøre museum",
-                  "text": "Das Regionalmuseum für die Region Nordmøre mit Sitz in Kristiansund.",
+                  "text": "Nordmøre museum – ein Freilichtmuseum mit historischen Gebäuden aus der Region Nordmøre.",
                   "category": "museum",
                   "coords": [
                         7.731098,
@@ -6199,7 +6199,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Handelshuset Patrick Volckmar",
-                  "text": "Ein historisches Handelshaus und Museum in Kristiansund.",
+                  "text": "Handelshuset Patrick Volckmar – ein erhaltenes Kaufmannshaus aus dem 18. Jahrhundert und Museum in Kristiansund.",
                   "category": "museum",
                   "coords": [
                         7.729897,
@@ -6244,7 +6244,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordic Light Fotohus",
-                  "text": "Ein Zentrum für Fotografie und Galerie in Kristiansund.",
+                  "text": "Nordic Light Fotohus – ein Fotomuseum mit Schwerpunkt auf nordischem Licht in Kristiansund.",
                   "category": "museum",
                   "coords": [
                         7.729281,
@@ -6280,7 +6280,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Minnesmerke over Ingeborg Ellingsæter",
-                  "text": "Ein Denkmal für Ingeborg Ellingsæter in Kristiansund.",
+                  "text": "Gedenkstätte für Ingeborg Ellingsæter, eine lokale Heldin in Kristiansund.",
                   "category": "historical",
                   "coords": [
                         7.738853,
@@ -6289,7 +6289,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Minnesmerke over Kristen Fostervold",
-                  "text": "Ein Denkmal zu Ehren von Kristen Fostervold in Kristiansund.",
+                  "text": "Gedenkstätte für Kristen Fostervold, zu Ehren seiner Verdienste um Kristiansund.",
                   "category": "historical",
                   "coords": [
                         7.76921,
@@ -6361,7 +6361,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "St. Eystein kirke",
-                  "text": "Die katholische St.-Eystein-Kirche in Kristiansund.",
+                  "text": "Kirche auf der Insel Kirkelandet in Kristiansund.",
                   "category": "religious",
                   "coords": [
                         7.726649,
@@ -6417,7 +6417,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kristiansund Nord kystfort",
-                  "text": "Egykori parti erőd Kristiansund északi részén.",
+                  "text": "Kristiansund Nord kystfort – egy 20. századi parti erődítmény, ma múzeum.",
                   "category": "fortress",
                   "coords": [
                         7.708743,
@@ -6435,7 +6435,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordmøre museum",
-                  "text": "Kristiansundi székhelyű regionális múzeum a Nordmøre régió számára.",
+                  "text": "Nordmøre múzeum – szabadtéri múzeum történelmi épületekkel a Nordmøre régióból.",
                   "category": "museum",
                   "coords": [
                         7.731098,
@@ -6462,7 +6462,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Handelshuset Patrick Volckmar",
-                  "text": "Történelmi kereskedőház és múzeum Kristiansundban.",
+                  "text": "Handelshuset Patrick Volckmar – egy 18. századi kereskedőház és múzeum Kristiansundban.",
                   "category": "museum",
                   "coords": [
                         7.729897,
@@ -6507,7 +6507,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordic Light Fotohus",
-                  "text": "Fotóművészeti központ és galéria Kristiansundban.",
+                  "text": "Nordic Light Fotohus – fényképészeti múzeum, amely a skandináv fényre összpontosít Kristiansundban.",
                   "category": "museum",
                   "coords": [
                         7.729281,
@@ -6543,7 +6543,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Minnesmerke over Ingeborg Ellingsæter",
-                  "text": "Ingeborg Ellingsæter emlékműve Kristiansundban.",
+                  "text": "Ingeborg Ellingsæter emlékműve, egy helyi hős emlékére Kristiansundban.",
                   "category": "historical",
                   "coords": [
                         7.738853,
@@ -6552,7 +6552,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Minnesmerke over Kristen Fostervold",
-                  "text": "Kristen Fostervold tiszteletére állított emlékmű Kristiansundban.",
+                  "text": "Kristen Fostervold emlékműve, tisztelegve Kristiansundért tett hozzájárulása előtt.",
                   "category": "historical",
                   "coords": [
                         7.76921,
@@ -6624,7 +6624,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "St. Eystein kirke",
-                  "text": "A kristiansundi Szent Eystein katolikus templom.",
+                  "text": "Templom a Kirkelandet szigeten Kristiansundban.",
                   "category": "religious",
                   "coords": [
                         7.726649,
@@ -6680,7 +6680,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kristiansund Nord kystfort",
-                  "text": "O fostă fortăreață de coastă în nordul orașului Kristiansund.",
+                  "text": "Kristiansund Nord kystfort – o fortificație de coastă restaurată din secolul al XX-lea.",
                   "category": "fortress",
                   "coords": [
                         7.708743,
@@ -6698,7 +6698,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordmøre museum",
-                  "text": "Muzeul regional pentru regiunea Nordmøre, situat în Kristiansund.",
+                  "text": "Muzeul Nordmøre – un muzeu în aer liber cu clădiri istorice din regiunea Nordmøre.",
                   "category": "museum",
                   "coords": [
                         7.731098,
@@ -6725,7 +6725,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Handelshuset Patrick Volckmar",
-                  "text": "O casă comercială istorică și muzeu în Kristiansund.",
+                  "text": "Handelshuset Patrick Volckmar – o casă de comerț din secolul al XVIII-lea păstrată și muzeu în Kristiansund.",
                   "category": "museum",
                   "coords": [
                         7.729897,
@@ -6770,7 +6770,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordic Light Fotohus",
-                  "text": "Un centru de fotografie și galerie în Kristiansund.",
+                  "text": "Nordic Light Fotohus – un muzeu de fotografie axat pe lumina nordică în Kristiansund.",
                   "category": "museum",
                   "coords": [
                         7.729281,
@@ -6806,7 +6806,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Minnesmerke over Ingeborg Ellingsæter",
-                  "text": "Un monument dedicat lui Ingeborg Ellingsæter în Kristiansund.",
+                  "text": "Monumentul memorial pentru Ingeborg Ellingsæter, o eroină locală în Kristiansund.",
                   "category": "historical",
                   "coords": [
                         7.738853,
@@ -6815,7 +6815,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Minnesmerke over Kristen Fostervold",
-                  "text": "Un monument în onoarea lui Kristen Fostervold în Kristiansund.",
+                  "text": "Monumentul memorial pentru Kristen Fostervold, onorând contribuțiile sale la Kristiansund.",
                   "category": "historical",
                   "coords": [
                         7.76921,
@@ -6887,7 +6887,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "St. Eystein kirke",
-                  "text": "Biserica catolică Sfântul Eystein din Kristiansund.",
+                  "text": "Biserică pe insula Kirkelandet din Kristiansund.",
                   "category": "religious",
                   "coords": [
                         7.726649,
@@ -6943,7 +6943,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kristiansund Nord kystfort",
-                  "text": "A former coastal fortress located in the northern part of Kristiansund.",
+                  "text": "Kristiansund Nord kystfort – a restored coastal fortification from the 20th century.",
                   "category": "fortress",
                   "coords": [
                         7.708743,
@@ -6961,7 +6961,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordmøre museum",
-                  "text": "The regional museum for the Nordmøre region, located in Kristiansund.",
+                  "text": "Nordmøre museum – an open-air museum with historic buildings from the Nordmøre region.",
                   "category": "museum",
                   "coords": [
                         7.731098,
@@ -6988,7 +6988,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Handelshuset Patrick Volckmar",
-                  "text": "A historic trading house and museum in Kristiansund.",
+                  "text": "Handelshuset Patrick Volckmar – a preserved 18th-century merchant house and museum in Kristiansund.",
                   "category": "museum",
                   "coords": [
                         7.729897,
@@ -7033,7 +7033,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordic Light Fotohus",
-                  "text": "A photography center and gallery located in Kristiansund.",
+                  "text": "Nordic Light Fotohus – a photography museum focusing on Nordic light in Kristiansund.",
                   "category": "museum",
                   "coords": [
                         7.729281,
@@ -7069,7 +7069,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Minnesmerke over Ingeborg Ellingsæter",
-                  "text": "A monument dedicated to Ingeborg Ellingsæter in Kristiansund.",
+                  "text": "Memorial monument to Ingeborg Ellingsæter, a local heroine in Kristiansund.",
                   "category": "historical",
                   "coords": [
                         7.738853,
@@ -7078,7 +7078,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Minnesmerke over Kristen Fostervold",
-                  "text": "A monument in honor of Kristen Fostervold in Kristiansund.",
+                  "text": "Memorial monument to Kristen Fostervold, honoring his contributions to Kristiansund.",
                   "category": "historical",
                   "coords": [
                         7.76921,
@@ -7150,7 +7150,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "St. Eystein kirke",
-                  "text": "The Catholic St. Eystein Church located in Kristiansund.",
+                  "text": "Church on Kirkelandet island in Kristiansund.",
                   "category": "religious",
                   "coords": [
                         7.726649,
@@ -7225,7 +7225,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nedre Holsjøen",
-                  "text": "Der Nedre Holsjøen ist ein See in Eidsvoll, der Ruhe und Natur bietet.",
+                  "text": "Nedre Holsjøen – ein See in Eidsvoll, ideal zum Angeln und für Spaziergänge in der Natur.",
                   "category": "natural",
                   "coords": [
                         11.342469,
@@ -7272,7 +7272,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nedre Holsjøen",
-                  "text": "A Nedre Holsjøen egy tó Eidsvoll területén, amely nyugalmat és természetet kínál.",
+                  "text": "Nedre Holsjøen – tó Eidsvollban, ideális horgászathoz és természetjáráshoz.",
                   "category": "natural",
                   "coords": [
                         11.342469,
@@ -7319,7 +7319,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nedre Holsjøen",
-                  "text": "Nedre Holsjøen este un lac din Eidsvoll care oferă liniște și natură.",
+                  "text": "Nedre Holsjøen – un lac în Eidsvoll, ideal pentru pescuit și plimbări în natură.",
                   "category": "natural",
                   "coords": [
                         11.342469,
@@ -7366,7 +7366,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nedre Holsjøen",
-                  "text": "Nedre Holsjøen is a lake in Eidsvoll that offers peace and nature.",
+                  "text": "Nedre Holsjøen – a lake in Eidsvoll, ideal for fishing and nature walks.",
                   "category": "natural",
                   "coords": [
                         11.342469,
@@ -7441,7 +7441,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Marinemuseet",
-                  "text": "Dieses Museum in Horten zeigt die Geschichte der königlichen norwegischen Marine.",
+                  "text": "Das Königlich Norwegische Marinemuseum in Horten zeigt Marinegeschichte und Schiffe.",
                   "category": "museum",
                   "coords": [
                         10.486802,
@@ -7513,7 +7513,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tivolistranda",
-                  "text": "Ein beliebter Badestrand in Horten.",
+                  "text": "Tivolistranda – ein lebhafter Strand mit Promenade und Vergnügungspark-Atmosphäre in Horten.",
                   "category": "recreational",
                   "coords": [
                         10.495447,
@@ -7522,7 +7522,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Møringa",
-                  "text": "Ein Küstenabschnitt mit Bademöglichkeiten in Horten.",
+                  "text": "Møringa – ein Küsten-Erholungsgebiet mit Stränden und Wanderwegen in Horten.",
                   "category": "recreational",
                   "coords": [
                         10.494056,
@@ -7549,7 +7549,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gildehallen",
-                  "text": "Ein rekonstruiertes Langhaus aus der Wikingerzeit in Horten.",
+                  "text": "Gildehallen – ein historisches Zunfthaus, heute Kulturstätte in Horten.",
                   "category": "landmark",
                   "coords": [
                         10.469891,
@@ -7603,7 +7603,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bastøybukta",
-                  "text": "Bastøybukta ist ein Strand in Horten.",
+                  "text": "Bastøybukta – eine sandige Bucht und Erholungsgebiet auf der Insel Bastøy bei Horten.",
                   "category": "recreational",
                   "coords": [
                         10.522263,
@@ -7612,7 +7612,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Borrestranda",
-                  "text": "Borrestranda ist ein Strand in Horten.",
+                  "text": "Borrestranda – ein langer Sandstrand neben den Wikingergräbern von Borre in Horten.",
                   "category": "recreational",
                   "coords": [
                         10.467643,
@@ -7623,7 +7623,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Marinemuseet",
-                  "text": "Ez a horteni múzeum a Norvég Királyi Haditengerészet történetét mutatja be.",
+                  "text": "A Norvég Királyi Haditengerészeti Múzeum Hortenben haditengerészeti történetet és hajókat mutat be.",
                   "category": "museum",
                   "coords": [
                         10.486802,
@@ -7695,7 +7695,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tivolistranda",
-                  "text": "Népszerű strand Horten városában.",
+                  "text": "Tivolistranda – élénk strand sétánnyal és vidámparki hangulattal Hortenben.",
                   "category": "recreational",
                   "coords": [
                         10.495447,
@@ -7704,7 +7704,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Møringa",
-                  "text": "Tengerparti terület fürdési lehetőséggel Hortenben.",
+                  "text": "Møringa – tengerparti rekreációs terület strandokkal és sétányokkal Hortenben.",
                   "category": "recreational",
                   "coords": [
                         10.494056,
@@ -7731,7 +7731,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gildehallen",
-                  "text": "Rekonstruált viking kori hosszúház Hortenben.",
+                  "text": "Gildehallen – történelmi céhház, ma kulturális helyszín Hortenben.",
                   "category": "landmark",
                   "coords": [
                         10.469891,
@@ -7785,7 +7785,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bastøybukta",
-                  "text": "Bastøybukta egy strand Horten területén.",
+                  "text": "Bastøybukta – homokos öböl és rekreációs terület a Bastøy szigetén Horten közelében.",
                   "category": "recreational",
                   "coords": [
                         10.522263,
@@ -7794,7 +7794,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Borrestranda",
-                  "text": "Borrestranda egy strand Horten területén.",
+                  "text": "Borrestranda – hosszú homokos strand a Borre-i viking sírhalmok mellett Hortenben.",
                   "category": "recreational",
                   "coords": [
                         10.467643,
@@ -7805,7 +7805,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Marinemuseet",
-                  "text": "Acest muzeu din Horten prezintă istoria Marinei Regale Norvegiene.",
+                  "text": "Muzeul Regal Norvegian al Marinei din Horten prezintă istoria navală și nave.",
                   "category": "museum",
                   "coords": [
                         10.486802,
@@ -7877,7 +7877,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tivolistranda",
-                  "text": "O plajă populară în Horten.",
+                  "text": "Tivolistranda – o plajă animată cu promenadă și atmosferă de parc de distracții în Horten.",
                   "category": "recreational",
                   "coords": [
                         10.495447,
@@ -7886,7 +7886,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Møringa",
-                  "text": "O zonă de coastă cu posibilități de scăldat în Horten.",
+                  "text": "Møringa – o zonă recreativă de coastă cu plaje și trasee de mers în Horten.",
                   "category": "recreational",
                   "coords": [
                         10.494056,
@@ -7913,7 +7913,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gildehallen",
-                  "text": "O casă lungă reconstruită din epoca vikingă în Horten.",
+                  "text": "Gildehallen – o clădire istorică de breaslă, acum loc cultural în Horten.",
                   "category": "landmark",
                   "coords": [
                         10.469891,
@@ -7967,7 +7967,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bastøybukta",
-                  "text": "Bastøybukta este o plajă în Horten.",
+                  "text": "Bastøybukta – o golf de nisip și zonă recreativă pe insula Bastøy lângă Horten.",
                   "category": "recreational",
                   "coords": [
                         10.522263,
@@ -7976,7 +7976,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Borrestranda",
-                  "text": "Borrestranda este o plajă în Horten.",
+                  "text": "Borrestranda – o plajă lungă cu nisip lângă movilele funerare vikinge de la Borre în Horten.",
                   "category": "recreational",
                   "coords": [
                         10.467643,
@@ -7987,7 +7987,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Royal Norwegian Navy Museum",
-                  "text": "This museum in Horten showcases the history of the Royal Norwegian Navy.",
+                  "text": "Royal Norwegian Navy Museum in Horten exhibits naval history and vessels.",
                   "category": "museum",
                   "coords": [
                         10.486802,
@@ -8059,7 +8059,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tivolistranda",
-                  "text": "A popular swimming beach in Horten.",
+                  "text": "Tivolistranda – a lively beach with a promenade and amusement park atmosphere in Horten.",
                   "category": "recreational",
                   "coords": [
                         10.495447,
@@ -8068,7 +8068,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Møringa",
-                  "text": "A coastal area with swimming opportunities in Horten.",
+                  "text": "Møringa – a coastal recreational area with beaches and walking paths in Horten.",
                   "category": "recreational",
                   "coords": [
                         10.494056,
@@ -8095,7 +8095,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gildehallen",
-                  "text": "A reconstructed Viking-era longhouse in Horten.",
+                  "text": "Gildehallen – a historic guild hall building, now a cultural venue in Horten.",
                   "category": "landmark",
                   "coords": [
                         10.469891,
@@ -8149,7 +8149,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bastøybukta",
-                  "text": "Bastøybukta is a beach in Horten.",
+                  "text": "Bastøybukta – a sandy bay and recreational area on the island of Bastøy near Horten.",
                   "category": "recreational",
                   "coords": [
                         10.522263,
@@ -8158,7 +8158,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Borrestranda",
-                  "text": "Borrestranda is a beach in Horten.",
+                  "text": "Borrestranda – a long sandy beach adjacent to the Borre Viking burial mounds in Horten.",
                   "category": "recreational",
                   "coords": [
                         10.467643,
@@ -8341,7 +8341,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lillestrøm kultursenter",
-                  "text": "Kulturzentrum und Theater in Lillestrøm.",
+                  "text": "Das Lillestrøm Kultursenter ist ein Veranstaltungsort für Konzerte und Theater.",
                   "category": "cultural",
                   "coords": [
                         11.04349,
@@ -8359,7 +8359,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Museumsfabrikken Strømmen",
-                  "text": "Ein Museum in einer ehemaligen Fabrik in Lillestrøm.",
+                  "text": "Museumsfabrikken Strømmen – ein Museum in einem ehemaligen Fabrikgebäude in Lillestrøm.",
                   "category": "museum",
                   "coords": [
                         11.01186,
@@ -8377,7 +8377,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillestrømbrua",
-                  "text": "Eine Brücke über den Fluss in Lillestrøm.",
+                  "text": "Straßenbrücke über die Nitelva in Lillestrøm.",
                   "category": "landmark",
                   "coords": [
                         11.045344,
@@ -8395,7 +8395,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ramstadsjøen",
-                  "text": "Der Ramstadsjøen ist ein See in Lillestrøm, ideal für Spaziergänge in der Natur.",
+                  "text": "Der Ramstadsjøen ist ein bewaldeter See bei Lillestrøm.",
                   "category": "natural",
                   "coords": [
                         11.057571,
@@ -8404,7 +8404,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øyeren",
-                  "text": "Der Øyeren ist ein See in Lillestrøm, der eine weite Naturlandschaft bietet.",
+                  "text": "Der Øyeren ist ein großer See mit einem markanten Delta nahe Lillestrøm.",
                   "category": "natural",
                   "coords": [
                         11.18401,
@@ -8469,7 +8469,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lillestrøm kultursenter",
-                  "text": "Kulturális központ és színház Lillestrømben.",
+                  "text": "A Lillestrøm Kultursenter egy előadó-művészeti központ koncertek és színház számára.",
                   "category": "cultural",
                   "coords": [
                         11.04349,
@@ -8487,7 +8487,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Museumsfabrikken Strømmen",
-                  "text": "Múzeum egy egykori gyárépületben Lillestrømben.",
+                  "text": "Museumsfabrikken Strømmen – múzeum egy egykori gyárépületben Lillestrømben.",
                   "category": "museum",
                   "coords": [
                         11.01186,
@@ -8505,7 +8505,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillestrømbrua",
-                  "text": "Híd a folyó felett Lillestrømben.",
+                  "text": "Közúti híd a Nitelva folyón Lillestrømben.",
                   "category": "landmark",
                   "coords": [
                         11.045344,
@@ -8523,7 +8523,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ramstadsjøen",
-                  "text": "A Ramstadsjøen egy tó Lillestrøm területén, ideális természeti sétákhoz.",
+                  "text": "A Ramstadsjøen egy erdős tó Lillestrøm közelében.",
                   "category": "natural",
                   "coords": [
                         11.057571,
@@ -8532,7 +8532,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øyeren",
-                  "text": "Az Øyeren egy tó Lillestrøm területén, amely tágas természeti tájat kínál.",
+                  "text": "Az Øyeren egy nagy tó jellegzetes deltával Lillestrøm közelében.",
                   "category": "natural",
                   "coords": [
                         11.18401,
@@ -8597,7 +8597,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lillestrøm kultursenter",
-                  "text": "Centru cultural și teatru în Lillestrøm.",
+                  "text": "Lillestrøm Kultursenter este un centru de arte spectacolului care găzduiește concerte și teatru.",
                   "category": "cultural",
                   "coords": [
                         11.04349,
@@ -8615,7 +8615,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Museumsfabrikken Strømmen",
-                  "text": "Un muzeu situat într-o fostă fabrică din Lillestrøm.",
+                  "text": "Museumsfabrikken Strømmen – un muzeu găzduit într-o fostă clădire de fabrică în Lillestrøm.",
                   "category": "museum",
                   "coords": [
                         11.01186,
@@ -8633,7 +8633,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillestrømbrua",
-                  "text": "Un pod peste râu în Lillestrøm.",
+                  "text": "Pod rutier peste râul Nitelva în Lillestrøm.",
                   "category": "landmark",
                   "coords": [
                         11.045344,
@@ -8651,7 +8651,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ramstadsjøen",
-                  "text": "Ramstadsjøen este un lac din Lillestrøm, ideal pentru plimbări în natură.",
+                  "text": "Lacul Ramstadsjøen este un lac împădurit lângă Lillestrøm.",
                   "category": "natural",
                   "coords": [
                         11.057571,
@@ -8660,7 +8660,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øyeren",
-                  "text": "Øyeren este un lac din Lillestrøm care oferă un peisaj natural vast.",
+                  "text": "Lacul Øyeren este un lac mare cu un deltă distinctiv lângă Lillestrøm.",
                   "category": "natural",
                   "coords": [
                         11.18401,
@@ -8725,7 +8725,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lillestrøm kultursenter",
-                  "text": "Cultural center and theatre in Lillestrøm.",
+                  "text": "Lillestrøm Kultursenter is a performing arts venue hosting concerts and theater.",
                   "category": "cultural",
                   "coords": [
                         11.04349,
@@ -8743,7 +8743,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Museumsfabrikken Strømmen",
-                  "text": "A museum housed in a former factory in Lillestrøm.",
+                  "text": "Museumsfabrikken Strømmen – a museum housed in a former factory building in Lillestrøm.",
                   "category": "museum",
                   "coords": [
                         11.01186,
@@ -8761,7 +8761,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillestrømbrua",
-                  "text": "A bridge crossing the river in Lillestrøm.",
+                  "text": "Road bridge over the Nitelva river in Lillestrøm.",
                   "category": "landmark",
                   "coords": [
                         11.045344,
@@ -8779,7 +8779,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ramstadsjøen",
-                  "text": "Ramstadsjøen is a lake in Lillestrøm, ideal for nature walks.",
+                  "text": "Lake Ramstadsjøen is a wooded lake near Lillestrøm.",
                   "category": "natural",
                   "coords": [
                         11.057571,
@@ -8788,7 +8788,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øyeren",
-                  "text": "Øyeren is a lake in Lillestrøm that offers a vast natural landscape.",
+                  "text": "Lake Øyeren is a large lake with a distinctive delta near Lillestrøm.",
                   "category": "natural",
                   "coords": [
                         11.18401,
@@ -8926,7 +8926,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjøvik gård",
-                  "text": "Ein historisches Herrenhaus und Museum in Gjøvik.",
+                  "text": "Das Gjøvik gård ist ein Museum in einem historischen Bauernhof in Gjøvik.",
                   "category": "museum",
                   "coords": [
                         10.691703,
@@ -8935,7 +8935,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vitensenteret Innlandet",
-                  "text": "Ein interaktives Wissenschaftszentrum für Besucher in Gjøvik.",
+                  "text": "Das Vitensenteret Innlandet ist ein interaktives Wissenschaftsmuseum in Gjøvik mit Ausstellungen zur Natur und Technik der Region Innlandet.",
                   "category": "museum",
                   "coords": [
                         10.688956,
@@ -8944,7 +8944,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hovdetoppen",
-                  "text": "Ein bewaldeter Gipfel nahe Gjøvik mit Wanderwegen.",
+                  "text": "Aussichtshügel mit Blick auf den Mjøsa-See in Gjøvik.",
                   "category": "natural",
                   "coords": [
                         10.676675,
@@ -8971,7 +8971,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kallerud bru",
-                  "text": "Eine Brücke in Gjøvik.",
+                  "text": "Steinbogenbrücke über den Hunnselva in Gjøvik.",
                   "category": "landmark",
                   "coords": [
                         10.668261,
@@ -8980,7 +8980,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Engbrua",
-                  "text": "Eine lokale Brückenkonstruktion in Gjøvik.",
+                  "text": "Fußgängerbrücke über den Hunnselva in Gjøvik.",
                   "category": "landmark",
                   "coords": [
                         10.666681,
@@ -9007,7 +9007,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Rambekkvika",
-                  "text": "Ein Badeplatz am Ufer des Mjøsa-Sees in Gjøvik.",
+                  "text": "Die Rambekkvika ist eine felsige Bucht am Mjøsa-See mit Aussichtspunkt in Gjøvik.",
                   "category": "landmark",
                   "coords": [
                         10.703102,
@@ -9117,7 +9117,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjøvik gård",
-                  "text": "Történelmi udvarház és múzeum Gjøvikben.",
+                  "text": "A Gjøvik gård egy múzeum egy történelmi tanyán Gjøvikben.",
                   "category": "museum",
                   "coords": [
                         10.691703,
@@ -9126,7 +9126,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vitensenteret Innlandet",
-                  "text": "Interaktív tudományos központ látogatók számára Gjøvikben.",
+                  "text": "A Vitensenteret Innlandet egy interaktív tudományos múzeum Gjøvikben, amely az Innlandet régió természetét és technológiáját mutatja be.",
                   "category": "museum",
                   "coords": [
                         10.688956,
@@ -9135,7 +9135,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hovdetoppen",
-                  "text": "Erdős hegycsúcs Gjøvik közelében túraútvonalakkal.",
+                  "text": "Kilátódomb a Mjøsa-tóra Gjøvikben.",
                   "category": "natural",
                   "coords": [
                         10.676675,
@@ -9162,7 +9162,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kallerud bru",
-                  "text": "Egy híd Gjøvikben.",
+                  "text": "Kőíves híd a Hunnselva folyón Gjøvikben.",
                   "category": "landmark",
                   "coords": [
                         10.668261,
@@ -9171,7 +9171,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Engbrua",
-                  "text": "Helyi híd Gjøvikben.",
+                  "text": "Gyalogoshíd a Hunnselva folyón Gjøvikben.",
                   "category": "landmark",
                   "coords": [
                         10.666681,
@@ -9198,7 +9198,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Rambekkvika",
-                  "text": "Fürdőhely a Mjøsa-tó partján Gjøvikben.",
+                  "text": "A Rambekkvika egy sziklás öböl a Mjøsa-tó partján, kilátóval Gjøvikben.",
                   "category": "landmark",
                   "coords": [
                         10.703102,
@@ -9308,7 +9308,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjøvik gård",
-                  "text": "Un conac istoric și muzeu în Gjøvik.",
+                  "text": "Gjøvik gård este un muzeu într-o fermă istorică din Gjøvik.",
                   "category": "museum",
                   "coords": [
                         10.691703,
@@ -9317,7 +9317,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vitensenteret Innlandet",
-                  "text": "Un centru științific interactiv pentru vizitatori în Gjøvik.",
+                  "text": "Vitensenteret Innlandet este un muzeu științific interactiv din Gjøvik, cu expoziții despre natura și tehnologia regiunii Innlandet.",
                   "category": "museum",
                   "coords": [
                         10.688956,
@@ -9326,7 +9326,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hovdetoppen",
-                  "text": "Un vârf împădurit lângă Gjøvik, cu trasee de drumeție.",
+                  "text": "Deal de belvedere cu vedere asupra lacului Mjøsa în Gjøvik.",
                   "category": "natural",
                   "coords": [
                         10.676675,
@@ -9353,7 +9353,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kallerud bru",
-                  "text": "Un pod în Gjøvik.",
+                  "text": "Pod de piatră cu arc peste râul Hunnselva în Gjøvik.",
                   "category": "landmark",
                   "coords": [
                         10.668261,
@@ -9362,7 +9362,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Engbrua",
-                  "text": "O construcție locală de pod în Gjøvik.",
+                  "text": "Pod pentru pietoni peste râul Hunnselva în Gjøvik.",
                   "category": "landmark",
                   "coords": [
                         10.666681,
@@ -9389,7 +9389,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Rambekkvika",
-                  "text": "Un loc de scăldat pe malul lacului Mjøsa în Gjøvik.",
+                  "text": "Rambekkvika este o golfuleț stâncos pe malul lacului Mjøsa, cu punct de belvedere în Gjøvik.",
                   "category": "landmark",
                   "coords": [
                         10.703102,
@@ -9499,7 +9499,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjøvik gård",
-                  "text": "A historic manor house and museum in Gjøvik.",
+                  "text": "Gjøvik gård is a museum in a historic farmstead in Gjøvik.",
                   "category": "museum",
                   "coords": [
                         10.691703,
@@ -9508,7 +9508,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vitensenteret Innlandet",
-                  "text": "An interactive science center for visitors in Gjøvik.",
+                  "text": "Vitensenteret Innlandet is an interactive science museum in Gjøvik with exhibits on the nature and technology of the Innlandet region.",
                   "category": "museum",
                   "coords": [
                         10.688956,
@@ -9517,7 +9517,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hovdetoppen",
-                  "text": "A forested peak near Gjøvik with hiking trails.",
+                  "text": "Viewpoint hill overlooking Lake Mjøsa in Gjøvik.",
                   "category": "natural",
                   "coords": [
                         10.676675,
@@ -9544,7 +9544,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kallerud bru",
-                  "text": "A bridge located in Gjøvik.",
+                  "text": "Stone arch bridge over the Hunnselva river in Gjøvik.",
                   "category": "landmark",
                   "coords": [
                         10.668261,
@@ -9553,7 +9553,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Engbrua",
-                  "text": "A local bridge structure in Gjøvik.",
+                  "text": "Pedestrian bridge over the Hunnselva river in Gjøvik.",
                   "category": "landmark",
                   "coords": [
                         10.666681,
@@ -9580,7 +9580,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Rambekkvika",
-                  "text": "A bathing area on the shores of Lake Mjøsa in Gjøvik.",
+                  "text": "Rambekkvika is a rocky cove on Lake Mjøsa with a viewpoint in Gjøvik.",
                   "category": "landmark",
                   "coords": [
                         10.703102,
@@ -9709,7 +9709,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Svømmehallen",
-                  "text": "Genießen Sie ein erfrischendes Bad im Svømmehallen in Kongsberg.",
+                  "text": "Das Svømmehallen ist das öffentliche Hallenbad in Kongsberg mit einem 25-Meter-Becken und einer Sauna.",
                   "category": "family",
                   "coords": [
                         9.642184,
@@ -9792,7 +9792,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Svømmehallen",
-                  "text": "Élvezze a frissítő úszást a Svømmehallen helyszínén Kongsberg városában.",
+                  "text": "A Svømmehallen a kongsbergi nyilvános fedett uszoda 25 méteres medencével és szaunával.",
                   "category": "family",
                   "coords": [
                         9.642184,
@@ -9875,7 +9875,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Svømmehallen",
-                  "text": "Bucurați-vă de o baie răcoritoare la Svømmehallen în Kongsberg.",
+                  "text": "Svømmehallen este piscina acoperită publică din Kongsberg, cu un bazin de 25 de metri și saună.",
                   "category": "family",
                   "coords": [
                         9.642184,
@@ -9958,7 +9958,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Svømmehallen",
-                  "text": "Enjoy a refreshing swim at Svømmehallen in Kongsberg.",
+                  "text": "Svømmehallen is the public indoor swimming pool in Kongsberg with a 25-metre lane and sauna.",
                   "category": "family",
                   "coords": [
                         9.642184,
@@ -10096,7 +10096,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinmohaugen",
-                  "text": "Steinmohaugen ist eine historische archäologische Stätte in der Gemeinde Stjørdal.",
+                  "text": "Der Steinmohaugen ist ein historischer Hügel mit möglichen Grabhügeln in Stjørdal.",
                   "category": "historical",
                   "coords": [
                         10.906922,
@@ -10159,7 +10159,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Svømmehallen",
-                  "text": "Die örtliche Hallenbadanlage in Stjørdal.",
+                  "text": "Das Svømmehallen in Stjørdal ist ein Hallenbad mit einem großen Sportbecken und einer Wasserrutsche.",
                   "category": "recreational",
                   "coords": [
                         10.930502,
@@ -10179,7 +10179,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinmohaugen",
-                  "text": "Steinmohaugen egy történelmi régészeti lelőhely Stjørdal községben.",
+                  "text": "A Steinmohaugen egy történelmi domb lehetséges sírhalmokkal Stjørdalban.",
                   "category": "historical",
                   "coords": [
                         10.906922,
@@ -10242,7 +10242,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Svømmehallen",
-                  "text": "A helyi fedett uszoda Stjørdalban.",
+                  "text": "A stjørdali Svømmehallen egy fedett uszoda nagy sportmedencével és csúszdával.",
                   "category": "recreational",
                   "coords": [
                         10.930502,
@@ -10262,7 +10262,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinmohaugen",
-                  "text": "Steinmohaugen este un sit arheologic istoric situat în comuna Stjørdal.",
+                  "text": "Steinmohaugen este un deal istoric cu posibile movile funerare în Stjørdal.",
                   "category": "historical",
                   "coords": [
                         10.906922,
@@ -10325,7 +10325,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Svømmehallen",
-                  "text": "Facilitatea locală de piscină interioară din Stjørdal.",
+                  "text": "Svømmehallen din Stjørdal este o piscină acoperită cu un bazin sportiv mare și o tobogan de apă.",
                   "category": "recreational",
                   "coords": [
                         10.930502,
@@ -10345,7 +10345,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinmohaugen",
-                  "text": "Steinmohaugen is a historical archaeological site located in the Stjørdal municipality.",
+                  "text": "Steinmohaugen is a historic hill with possible burial mounds in Stjørdal.",
                   "category": "historical",
                   "coords": [
                         10.906922,
@@ -10408,7 +10408,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Svømmehallen",
-                  "text": "The local indoor swimming pool facility in Stjørdal.",
+                  "text": "Svømmehallen in Stjørdal is an indoor swimming pool with a large sports pool and a water slide.",
                   "category": "recreational",
                   "coords": [
                         10.930502,
@@ -10465,7 +10465,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Lundleiret fuglefredningsområde",
-                  "text": "Ein geschütztes Naturgebiet für Vögel in Steinkjer.",
+                  "text": "Das Lundleiret fuglefredningsområde ist ein Vogelschutzgebiet mit Feuchtgebieten nahe Steinkjer.",
                   "category": "natural",
                   "coords": [
                         11.421721,
@@ -10492,7 +10492,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Østbysaga",
-                  "text": "Ein kleines Museum in Steinkjer.",
+                  "text": "Die Østbysaga ist ein Museum in einer historischen Sägemühle in Steinkjer.",
                   "category": "museum",
                   "coords": [
                         11.476716,
@@ -10501,7 +10501,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dampsaga Bad og Gym",
-                  "text": "Ein Sport- und Freizeitbad in Steinkjer.",
+                  "text": "Das Dampsaga Bad og Gym ist ein Familien-Freizeitbad und Fitnessstudio in einer ehemaligen Dampfsägemühle in Steinkjer.",
                   "category": "family",
                   "coords": [
                         11.488758,
@@ -10510,7 +10510,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Oftenåsen",
-                  "text": "Ein beliebter Hügel und Aussichtspunkt in Steinkjer.",
+                  "text": "Der Oftenåsen ist ein bewaldeter Hügel bei Steinkjer mit Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         11.53103,
@@ -10519,7 +10519,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fylkesmannsgården",
-                  "text": "Ein historisches Herrenhaus in Steinkjer.",
+                  "text": "Der Fylkesmannsgården ist das historische Wohnhaus des ehemaligen Bezirksgouverneurs in Steinkjer.",
                   "category": "historical",
                   "coords": [
                         11.47887,
@@ -10528,7 +10528,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gammelstien",
-                  "text": "Ein historischer Pfad oder eine Attraktion in Steinkjer.",
+                  "text": "Der Gammelstien ist ein alter Fußweg durch Steinkjer.",
                   "category": "landmark",
                   "coords": [
                         11.528607,
@@ -10575,7 +10575,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Lundleiret fuglefredningsområde",
-                  "text": "Védett természeti terület madarak számára Steinkjerben.",
+                  "text": "A Lundleiret fuglefredningsområde egy madárrezervátum vizes élőhelyekkel Steinkjer közelében.",
                   "category": "natural",
                   "coords": [
                         11.421721,
@@ -10602,7 +10602,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Østbysaga",
-                  "text": "Kisméretű múzeum Steinkjerben.",
+                  "text": "Az Østbysaga egy múzeum egy történelmi fűrészmalomban Steinkjerben.",
                   "category": "museum",
                   "coords": [
                         11.476716,
@@ -10611,7 +10611,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dampsaga Bad og Gym",
-                  "text": "Sport- és szabadidős fürdő Steinkjerben.",
+                  "text": "A Dampsaga Bad og Gym egy családi fürdő és fitneszközpont egy egykori gőzfűrészmalomban Steinkjerben.",
                   "category": "family",
                   "coords": [
                         11.488758,
@@ -10620,7 +10620,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Oftenåsen",
-                  "text": "Népszerű domb és kilátópont Steinkjerben.",
+                  "text": "Az Oftenåsen egy erdős domb Steinkjer közelében, túraútvonalakkal.",
                   "category": "natural",
                   "coords": [
                         11.53103,
@@ -10629,7 +10629,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fylkesmannsgården",
-                  "text": "Történelmi udvarház Steinkjerben.",
+                  "text": "A Fylkesmannsgården a volt megyefőnök történelmi lakóháza Steinkjerben.",
                   "category": "historical",
                   "coords": [
                         11.47887,
@@ -10638,7 +10638,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gammelstien",
-                  "text": "Történelmi ösvény vagy látnivaló Steinkjerben.",
+                  "text": "A Gammelstien egy régi gyalogút Steinkjerben.",
                   "category": "landmark",
                   "coords": [
                         11.528607,
@@ -10685,7 +10685,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Lundleiret fuglefredningsområde",
-                  "text": "O zonă naturală protejată pentru păsări în Steinkjer.",
+                  "text": "Lundleiret fuglefredningsområde este o rezervație de păsări cu zone umede lângă Steinkjer.",
                   "category": "natural",
                   "coords": [
                         11.421721,
@@ -10712,7 +10712,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Østbysaga",
-                  "text": "Un mic muzeu în Steinkjer.",
+                  "text": "Østbysaga este un muzeu într-o moară de cherestea istorică din Steinkjer.",
                   "category": "museum",
                   "coords": [
                         11.476716,
@@ -10721,7 +10721,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dampsaga Bad og Gym",
-                  "text": "Un parc acvatic și centru de fitness în Steinkjer.",
+                  "text": "Dampsaga Bad og Gym este un centru de agrement și fitness pentru familie într-o fostă moară cu aburi din Steinkjer.",
                   "category": "family",
                   "coords": [
                         11.488758,
@@ -10730,7 +10730,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Oftenåsen",
-                  "text": "Un deal popular și punct de belvedere în Steinkjer.",
+                  "text": "Oftenåsen este o colină împădurită lângă Steinkjer, cu trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         11.53103,
@@ -10739,7 +10739,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fylkesmannsgården",
-                  "text": "Un conac istoric în Steinkjer.",
+                  "text": "Fylkesmannsgården este fosta reședință istorică a guvernatorului județean în Steinkjer.",
                   "category": "historical",
                   "coords": [
                         11.47887,
@@ -10748,7 +10748,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gammelstien",
-                  "text": "O potecă istorică sau atracție în Steinkjer.",
+                  "text": "Gammelstien este o potecă veche de mers pe jos în Steinkjer.",
                   "category": "landmark",
                   "coords": [
                         11.528607,
@@ -10795,7 +10795,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Lundleiret fuglefredningsområde",
-                  "text": "A protected nature area for birds in Steinkjer.",
+                  "text": "Lundleiret fuglefredningsområde is a bird sanctuary with wetlands near Steinkjer.",
                   "category": "natural",
                   "coords": [
                         11.421721,
@@ -10822,7 +10822,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Østbysaga",
-                  "text": "A small museum located in Steinkjer.",
+                  "text": "Østbysaga is a museum in a historic sawmill in Steinkjer.",
                   "category": "museum",
                   "coords": [
                         11.476716,
@@ -10831,7 +10831,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dampsaga Bad og Gym",
-                  "text": "A water park and fitness center in Steinkjer.",
+                  "text": "Dampsaga Bad og Gym is a family leisure centre with pool and gym in a former steam sawmill in Steinkjer.",
                   "category": "family",
                   "coords": [
                         11.488758,
@@ -10840,7 +10840,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Oftenåsen",
-                  "text": "A popular hill and viewpoint in Steinkjer.",
+                  "text": "Oftenåsen is a wooded hill near Steinkjer with hiking trails.",
                   "category": "natural",
                   "coords": [
                         11.53103,
@@ -10849,7 +10849,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fylkesmannsgården",
-                  "text": "A historic manor house in Steinkjer.",
+                  "text": "Fylkesmannsgården is the historic former county governor's residence in Steinkjer.",
                   "category": "historical",
                   "coords": [
                         11.47887,
@@ -10858,7 +10858,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gammelstien",
-                  "text": "A historic path or attraction in Steinkjer.",
+                  "text": "Gammelstien is an old walking path in Steinkjer.",
                   "category": "landmark",
                   "coords": [
                         11.528607,
@@ -10978,7 +10978,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Mærraneset fort",
-                  "text": "Eine ehemalige Festungsanlage bei Namsos.",
+                  "text": "Das Mærraneset fort ist eine deutsche Küstenbefestigung aus dem Zweiten Weltkrieg bei Namsos.",
                   "category": "fortress",
                   "coords": [
                         11.441866,
@@ -11023,7 +11023,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bastion",
-                  "text": "Ein historischer Aussichtspunkt oder Denkmal in Namsos.",
+                  "text": "Die Bastion ist eine historische Bastion im Hafenbereich von Namsos.",
                   "category": "landmark",
                   "coords": [
                         11.49825,
@@ -11133,7 +11133,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Mærraneset fort",
-                  "text": "Egykori erődítmény Namsos közelében.",
+                  "text": "A Mærraneset fort egy második világháborús német tengerparti erőd Namsos közelében.",
                   "category": "fortress",
                   "coords": [
                         11.441866,
@@ -11178,7 +11178,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bastion",
-                  "text": "Történelmi kilátópont vagy emlékmű Namsosban.",
+                  "text": "A Bastion egy történelmi bástya Namsos kikötői területén.",
                   "category": "landmark",
                   "coords": [
                         11.49825,
@@ -11288,7 +11288,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Mærraneset fort",
-                  "text": "O fostă fortificație situată lângă Namsos.",
+                  "text": "Fortăreața Mærraneset este o fortificație germană de coastă din al Doilea Război Mondial lângă Namsos.",
                   "category": "fortress",
                   "coords": [
                         11.441866,
@@ -11333,7 +11333,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bastion",
-                  "text": "Un punct de belvedere istoric sau monument în Namsos.",
+                  "text": "Bastionul este un bastion istoric în zona portului din Namsos.",
                   "category": "landmark",
                   "coords": [
                         11.49825,
@@ -11443,7 +11443,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Mærraneset fort",
-                  "text": "A former fortification located near Namsos.",
+                  "text": "Mærraneset fort is a German WWII coastal fortification near Namsos.",
                   "category": "fortress",
                   "coords": [
                         11.441866,
@@ -11488,7 +11488,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bastion",
-                  "text": "A historical viewpoint or monument located in Namsos.",
+                  "text": "Bastion is a historic bastion in the harbour area of Namsos.",
                   "category": "landmark",
                   "coords": [
                         11.49825,
@@ -11617,7 +11617,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Andås naturreservat",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Mosjøen.",
+                  "text": "Andås naturreservat ist ein 2000 eingerichtetes Schutzgebiet nahe Mosjøen.",
                   "category": "natural",
                   "coords": [
                         13.251037,
@@ -11635,7 +11635,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Politimestergården",
-                  "text": "Ein historisches Museumsgebäude in Mosjøen.",
+                  "text": "Das Politimestergården ist ein Museum im ehemaligen Haus des Polizeichefs in Mosjøen.",
                   "category": "museum",
                   "coords": [
                         13.206235,
@@ -11644,7 +11644,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Jacobsenbrygga",
-                  "text": "Museum in einem traditionellen Speicherhaus in Mosjøen.",
+                  "text": "Die Jacobsenbrygga ist ein Museum in einem historischen Lagerhaus am Ufer in Mosjøen.",
                   "category": "museum",
                   "coords": [
                         13.187585,
@@ -11662,7 +11662,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hotellmuseum",
-                  "text": "Ein Museum zur Hotelgeschichte in Mosjøen.",
+                  "text": "Hotellmuseum in Mosjøen, eröffnet 2008.",
                   "category": "museum",
                   "coords": [
                         13.191072,
@@ -11671,7 +11671,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Oladalens Venner",
-                  "text": "Ein lokales Museum oder historischer Ort in Mosjøen.",
+                  "text": "Das Oladalens Venner ist ein Heimatmuseum in Mosjøen, das die Geschichte des Oladalen-Tals zeigt.",
                   "category": "museum",
                   "coords": [
                         13.210981,
@@ -11680,7 +11680,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Panorama",
-                  "text": "Ein Aussichtspunkt mit Panoramablick auf Mosjøen.",
+                  "text": "Das Panorama ist ein Aussichtspunkt mit Blick auf Mosjøen und den Fjord.",
                   "category": "natural",
                   "coords": [
                         13.228859,
@@ -11689,7 +11689,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kaukarberget",
-                  "text": "Ein Aussichtspunkt über der Gegend von Mosjøen.",
+                  "text": "Der Kaukarberget ist ein felsiger Hügel mit Wanderwegen in Mosjøen.",
                   "category": "natural",
                   "coords": [
                         13.212016,
@@ -11698,7 +11698,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Prestmyra",
-                  "text": "Eine lokale Attraktion oder ein Erholungsgebiet in Mosjøen.",
+                  "text": "Die Prestmyra ist eine Moorlandschaft mit reicher Vogelwelt in Mosjøen.",
                   "category": "landmark",
                   "coords": [
                         13.222066,
@@ -11727,7 +11727,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Andås naturreservat",
-                  "text": "Természetvédelmi terület Mosjøen közelében.",
+                  "text": "Az Andås naturreservat egy 2000-ben létesített védett terület Mosjøen közelében.",
                   "category": "natural",
                   "coords": [
                         13.251037,
@@ -11745,7 +11745,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Politimestergården",
-                  "text": "Történelmi múzeumépület Mosjøenben.",
+                  "text": "A Politimestergården egy múzeum a volt rendőrfőnök házában Mosjøenben.",
                   "category": "museum",
                   "coords": [
                         13.206235,
@@ -11754,7 +11754,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Jacobsenbrygga",
-                  "text": "Múzeum egy hagyományos rakparti épületben Mosjøenben.",
+                  "text": "A Jacobsenbrygga egy múzeum egy történelmi raktárépületben Mosjøen partján.",
                   "category": "museum",
                   "coords": [
                         13.187585,
@@ -11772,7 +11772,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hotellmuseum",
-                  "text": "A szállodatörténetnek szentelt múzeum Mosjøenben.",
+                  "text": "Hotellmuseum Mosjøenben, 2008-ban nyílt meg.",
                   "category": "museum",
                   "coords": [
                         13.191072,
@@ -11781,7 +11781,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Oladalens Venner",
-                  "text": "Helyi múzeum vagy történelmi helyszín Mosjøenben.",
+                  "text": "Az Oladalens Venner egy helytörténeti múzeum Mosjøenben, amely az Oladalen-völgy történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         13.210981,
@@ -11790,7 +11790,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Panorama",
-                  "text": "Kilátóhely panorámás kilátással Mosjøenre.",
+                  "text": "A Panorama egy kilátó, ahonnan Mosjøenre és a fjordra látni.",
                   "category": "natural",
                   "coords": [
                         13.228859,
@@ -11799,7 +11799,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kaukarberget",
-                  "text": "Kilátóhely Mosjøen környékén.",
+                  "text": "A Kaukarberget egy sziklás domb túraútvonalakkal Mosjøenben.",
                   "category": "natural",
                   "coords": [
                         13.212016,
@@ -11808,7 +11808,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Prestmyra",
-                  "text": "Helyi látványosság vagy pihenőhely Mosjøenben.",
+                  "text": "A Prestmyra egy mocsaras terület gazdag madárvilággal Mosjøenben.",
                   "category": "landmark",
                   "coords": [
                         13.222066,
@@ -11837,7 +11837,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Andås naturreservat",
-                  "text": "O rezervație naturală în apropiere de Mosjøen.",
+                  "text": "Andås naturreservat este o arie protejată înființată în 2000 lângă Mosjøen.",
                   "category": "natural",
                   "coords": [
                         13.251037,
@@ -11855,7 +11855,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Politimestergården",
-                  "text": "O clădire istorică de muzeu în Mosjøen.",
+                  "text": "Politimestergården este un muzeu în fosta casă a șefului de poliție din Mosjøen.",
                   "category": "museum",
                   "coords": [
                         13.206235,
@@ -11864,7 +11864,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Jacobsenbrygga",
-                  "text": "Muzeu situat într-o clădire tradițională de dig în Mosjøen.",
+                  "text": "Jacobsenbrygga este un muzeu într-un depozit istoric pe malul apei în Mosjøen.",
                   "category": "museum",
                   "coords": [
                         13.187585,
@@ -11882,7 +11882,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hotellmuseum",
-                  "text": "Un muzeu dedicat istoriei hotelurilor în Mosjøen.",
+                  "text": "Hotellmuseum din Mosjøen, deschis în 2008.",
                   "category": "museum",
                   "coords": [
                         13.191072,
@@ -11891,7 +11891,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Oladalens Venner",
-                  "text": "Un muzeu local sau sit istoric în Mosjøen.",
+                  "text": "Oladalens Venner este un muzeu de istorie locală în Mosjøen, care prezintă istoria văii Oladalen.",
                   "category": "museum",
                   "coords": [
                         13.210981,
@@ -11900,7 +11900,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Panorama",
-                  "text": "Un punct de belvedere cu vedere panoramică asupra Mosjøen.",
+                  "text": "Panorama este un punct de belvedere cu vedere asupra orașului Mosjøen și a fiordului.",
                   "category": "natural",
                   "coords": [
                         13.228859,
@@ -11909,7 +11909,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kaukarberget",
-                  "text": "Un punct de belvedere deasupra zonei Mosjøen.",
+                  "text": "Kaukarberget este o colină stâncoasă cu trasee de drumeție în Mosjøen.",
                   "category": "natural",
                   "coords": [
                         13.212016,
@@ -11918,7 +11918,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Prestmyra",
-                  "text": "O atracție locală sau zonă de recreere în Mosjøen.",
+                  "text": "Prestmyra este o zonă mlăștinoasă cu o bogată avifaună în Mosjøen.",
                   "category": "landmark",
                   "coords": [
                         13.222066,
@@ -11947,7 +11947,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Andås naturreservat",
-                  "text": "A nature reserve located near Mosjøen.",
+                  "text": "Andås naturreservat is a protected area established in 2000 near Mosjøen.",
                   "category": "natural",
                   "coords": [
                         13.251037,
@@ -11965,7 +11965,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Politimestergården",
-                  "text": "A historical museum building in Mosjøen.",
+                  "text": "Politimestergården is a museum in the former police chief's house in Mosjøen.",
                   "category": "museum",
                   "coords": [
                         13.206235,
@@ -11974,7 +11974,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Jacobsenbrygga",
-                  "text": "Museum located in a traditional wharf building in Mosjøen.",
+                  "text": "Jacobsenbrygga is a museum in a historic warehouse on the waterfront in Mosjøen.",
                   "category": "museum",
                   "coords": [
                         13.187585,
@@ -11992,7 +11992,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hotellmuseum",
-                  "text": "A museum dedicated to hotel history in Mosjøen.",
+                  "text": "Hotellmuseum in Mosjøen, opened in 2008.",
                   "category": "museum",
                   "coords": [
                         13.191072,
@@ -12001,7 +12001,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Oladalens Venner",
-                  "text": "A local museum or historical site in Mosjøen.",
+                  "text": "Oladalens Venner is a local history museum in Mosjøen dedicated to the Oladalen valley.",
                   "category": "museum",
                   "coords": [
                         13.210981,
@@ -12010,7 +12010,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Panorama",
-                  "text": "A viewpoint offering panoramic views of Mosjøen.",
+                  "text": "Panorama is a viewpoint overlooking Mosjøen and the fjord.",
                   "category": "natural",
                   "coords": [
                         13.228859,
@@ -12019,7 +12019,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kaukarberget",
-                  "text": "A viewpoint overlooking the Mosjøen area.",
+                  "text": "Kaukarberget is a rocky hill with hiking trails in Mosjøen.",
                   "category": "natural",
                   "coords": [
                         13.212016,
@@ -12028,7 +12028,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Prestmyra",
-                  "text": "A local attraction or recreation area in Mosjøen.",
+                  "text": "Prestmyra is a wetland with rich birdlife in Mosjøen.",
                   "category": "landmark",
                   "coords": [
                         13.222066,
@@ -12445,7 +12445,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Røyrtjønn naturreservat",
-                  "text": "Ein geschütztes Naturreservat in der Nähe von Farsund.",
+                  "text": "Das Røyrtjønn naturreservat ist ein Naturschutzgebiet mit einem schilfbewachsenen See in Farsund.",
                   "category": "natural",
                   "coords": [
                         6.793595,
@@ -12454,7 +12454,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sellegrod naturreservat",
-                  "text": "Ein Naturschutzgebiet in der Region Farsund.",
+                  "text": "Das Sellegrod naturreservat ist ein Küstenheide-Naturschutzgebiet in Farsund mit seltener Flora.",
                   "category": "natural",
                   "coords": [
                         6.786091,
@@ -12463,7 +12463,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skydskjær naturreservat",
-                  "text": "Ein Küstennaturreservat in der Gemeinde Farsund.",
+                  "text": "Skydskjær naturreservat ist ein 1981 eingerichtetes Naturschutzgebiet in Farsund.",
                   "category": "natural",
                   "coords": [
                         6.820431,
@@ -12472,7 +12472,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lundevågen dyrefredningsområde",
-                  "text": "Ein ausgewiesenes Tierschutzgebiet bei Farsund.",
+                  "text": "Das Lundevågen dyrefredningsområde ist ein Vogelschutzgebiet in einer Bucht bei Farsund, das auch Seehunde schützt.",
                   "category": "natural",
                   "coords": [
                         6.774675,
@@ -12499,7 +12499,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Svarthaug",
-                  "text": "Eine archäologische Fundstätte in der Gegend von Farsund.",
+                  "text": "Der Svarthaug ist ein eisenzeitlicher Grabhügel in Farsund.",
                   "category": "historical",
                   "coords": [
                         6.765243,
@@ -12526,7 +12526,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lodshavn fort",
-                  "text": "Eine historische Befestigungsanlage in Lodshavn bei Farsund.",
+                  "text": "Das Lodshavn fort ist eine Küstenfestung aus dem Zweiten Weltkrieg in Farsund, die den Hafen bewachte.",
                   "category": "fortress",
                   "coords": [
                         6.816809,
@@ -12535,7 +12535,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Barbrostranden",
-                  "text": "Ein lokaler Badestrand in der Stadt Farsund.",
+                  "text": "Der Barbrostranden ist ein Sandstrand mit ruhigem Wasser in Farsund.",
                   "category": "recreational",
                   "coords": [
                         6.810851,
@@ -12544,7 +12544,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skjolnesveten",
-                  "text": "Ein markanter Aussichtspunkt mit Blick über Farsund.",
+                  "text": "Der Skjolnesveten ist ein Berggipfel in Farsund mit Panoramablick.",
                   "category": "natural",
                   "coords": [
                         6.80051,
@@ -12562,7 +12562,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bellevy",
-                  "text": "Ein beliebter Ort für Panoramablicke in Farsund.",
+                  "text": "Das Bellevy ist ein Aussichtshügel in Farsund mit Blick auf die Schären.",
                   "category": "natural",
                   "coords": [
                         6.801323,
@@ -12571,7 +12571,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Knyggen",
-                  "text": "Ein erhöhter Punkt in Farsund, der als Aussichtsplattform dient.",
+                  "text": "Der Knyggen ist ein felsiger Hügel in Farsund.",
                   "category": "natural",
                   "coords": [
                         6.82289,
@@ -12580,7 +12580,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Badehuset",
-                  "text": "Eine Badeanlage am Wasser in Farsund.",
+                  "text": "Das Badehuset ist ein historisches Badehaus am Meer in Farsund.",
                   "category": "recreational",
                   "coords": [
                         6.806946,
@@ -12598,7 +12598,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordsund bru",
-                  "text": "Eine Brücke, die Nordsund in Farsund überspannt.",
+                  "text": "Die Nordsund bru ist eine moderne Brücke, die Inseln bei Farsund verbindet.",
                   "category": "landmark",
                   "coords": [
                         6.812635,
@@ -12654,7 +12654,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Røyrtjønn naturreservat",
-                  "text": "Védett természetvédelmi terület Farsund közelében.",
+                  "text": "A Røyrtjønn naturreservat egy természetvédelmi terület nádas tóval Farsundban.",
                   "category": "natural",
                   "coords": [
                         6.793595,
@@ -12663,7 +12663,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sellegrod naturreservat",
-                  "text": "Természetvédelmi terület Farsund régiójában.",
+                  "text": "A Sellegrod naturreservat egy tengerparti hangás természetvédelmi terület Farsundban, ritka növényzettel.",
                   "category": "natural",
                   "coords": [
                         6.786091,
@@ -12672,7 +12672,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skydskjær naturreservat",
-                  "text": "Partmenti természetvédelmi terület Farsund községben.",
+                  "text": "A Skydskjær naturreservat egy 1981-ben létesített természetvédelmi terület Farsundban.",
                   "category": "natural",
                   "coords": [
                         6.820431,
@@ -12681,7 +12681,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lundevågen dyrefredningsområde",
-                  "text": "Kijelölt állatvédelmi terület Farsundnál.",
+                  "text": "A Lundevågen dyrefredningsområde egy madárrezervátum egy öbölben Farsund közelében, amely fókákat is véd.",
                   "category": "natural",
                   "coords": [
                         6.774675,
@@ -12708,7 +12708,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Svarthaug",
-                  "text": "Régészeti lelőhely Farsund környékén.",
+                  "text": "A Svarthaug egy vaskori sírhalom Farsundban.",
                   "category": "historical",
                   "coords": [
                         6.765243,
@@ -12735,7 +12735,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lodshavn fort",
-                  "text": "Történelmi erődítmény Lodshavnban, Farsund közelében.",
+                  "text": "A Lodshavn fort egy második világháborús tengerparti erőd Farsundban, amely a kikötőt védte.",
                   "category": "fortress",
                   "coords": [
                         6.816809,
@@ -12744,7 +12744,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Barbrostranden",
-                  "text": "Helyi fürdőzőhely Farsund városában.",
+                  "text": "A Barbrostranden egy homokos strand nyugodt vízzel Farsundban.",
                   "category": "recreational",
                   "coords": [
                         6.810851,
@@ -12753,7 +12753,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skjolnesveten",
-                  "text": "Jellegzetes kilátóhely panorámával Farsundra.",
+                  "text": "A Skjolnesveten egy hegycsúcs Farsundban, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         6.80051,
@@ -12771,7 +12771,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bellevy",
-                  "text": "Népszerű hely panorámás kilátáshoz Farsundban.",
+                  "text": "A Bellevy egy kilátódomb Farsundban, a szigetvilágra nyíló kilátással.",
                   "category": "natural",
                   "coords": [
                         6.801323,
@@ -12780,7 +12780,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Knyggen",
-                  "text": "Magaslati pont Farsundban, amely kilátóként szolgál.",
+                  "text": "A Knyggen egy sziklás domb Farsundban.",
                   "category": "natural",
                   "coords": [
                         6.82289,
@@ -12789,7 +12789,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Badehuset",
-                  "text": "Vízparti fürdőhely Farsundban.",
+                  "text": "A Badehuset egy történelmi tengeri fürdőház Farsundban.",
                   "category": "recreational",
                   "coords": [
                         6.806946,
@@ -12807,7 +12807,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordsund bru",
-                  "text": "A Farsundban található Nordsundot átívelő híd.",
+                  "text": "A Nordsund bru egy modern híd, amely szigeteket köt össze Farsund közelében.",
                   "category": "landmark",
                   "coords": [
                         6.812635,
@@ -12863,7 +12863,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Røyrtjønn naturreservat",
-                  "text": "O rezervație naturală protejată lângă Farsund.",
+                  "text": "Rezervația naturală Røyrtjønn este o arie protejată cu un lac stufos în Farsund.",
                   "category": "natural",
                   "coords": [
                         6.793595,
@@ -12872,7 +12872,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sellegrod naturreservat",
-                  "text": "O zonă de conservare a naturii în regiunea Farsund.",
+                  "text": "Rezervația naturală Sellegrod este o arie protejată de tufăriș de coastă în Farsund, cu floră rară.",
                   "category": "natural",
                   "coords": [
                         6.786091,
@@ -12881,7 +12881,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skydskjær naturreservat",
-                  "text": "O rezervație naturală de coastă în comuna Farsund.",
+                  "text": "Skydskjær naturreservat este o rezervație naturală înființată în 1981 în Farsund.",
                   "category": "natural",
                   "coords": [
                         6.820431,
@@ -12890,7 +12890,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lundevågen dyrefredningsområde",
-                  "text": "O zonă desemnată pentru protecția animalelor lângă Farsund.",
+                  "text": "Lundevågen dyrefredningsområde este o rezervație de păsări într-un golf lângă Farsund, care protejează și foci.",
                   "category": "natural",
                   "coords": [
                         6.774675,
@@ -12917,7 +12917,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Svarthaug",
-                  "text": "Un sit arheologic în zona Farsund.",
+                  "text": "Svarthaug este o movilă funerară din epoca fierului în Farsund.",
                   "category": "historical",
                   "coords": [
                         6.765243,
@@ -12944,7 +12944,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lodshavn fort",
-                  "text": "O fortificație istorică în Lodshavn, lângă Farsund.",
+                  "text": "Fortăreața Lodshavn este o fortificație de coastă din al Doilea Război Mondial în Farsund, care apăra portul.",
                   "category": "fortress",
                   "coords": [
                         6.816809,
@@ -12953,7 +12953,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Barbrostranden",
-                  "text": "O plajă locală în orașul Farsund.",
+                  "text": "Barbrostranden este o plajă nisipoasă cu apă liniștită în Farsund.",
                   "category": "recreational",
                   "coords": [
                         6.810851,
@@ -12962,7 +12962,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skjolnesveten",
-                  "text": "Un punct de observație cu vedere panoramică asupra Farsund.",
+                  "text": "Skjolnesveten este un vârf de munte în Farsund, cu vedere panoramică.",
                   "category": "natural",
                   "coords": [
                         6.80051,
@@ -12980,7 +12980,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bellevy",
-                  "text": "Un loc popular pentru vederi panoramice în Farsund.",
+                  "text": "Bellevy este o colină de belvedere în Farsund, cu vedere asupra arhipelagului.",
                   "category": "natural",
                   "coords": [
                         6.801323,
@@ -12989,7 +12989,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Knyggen",
-                  "text": "Un punct înalt în Farsund care servește drept platformă de observație.",
+                  "text": "Knyggen este o colină stâncoasă în Farsund.",
                   "category": "natural",
                   "coords": [
                         6.82289,
@@ -12998,7 +12998,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Badehuset",
-                  "text": "O facilitate de scăldat pe malul apei în Farsund.",
+                  "text": "Badehuset este o baie istorică la malul mării în Farsund.",
                   "category": "recreational",
                   "coords": [
                         6.806946,
@@ -13016,7 +13016,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordsund bru",
-                  "text": "Un pod care traversează Nordsund în Farsund.",
+                  "text": "Podul Nordsund este un pod modern care leagă insule lângă Farsund.",
                   "category": "landmark",
                   "coords": [
                         6.812635,
@@ -13072,7 +13072,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Røyrtjønn naturreservat",
-                  "text": "A protected nature reserve near Farsund.",
+                  "text": "Røyrtjønn naturreservat is a nature reserve with a reed-fringed lake in Farsund.",
                   "category": "natural",
                   "coords": [
                         6.793595,
@@ -13081,7 +13081,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sellegrod naturreservat",
-                  "text": "A nature conservation area in the Farsund region.",
+                  "text": "Sellegrod naturreservat is a coastal heath nature reserve in Farsund with rare flora.",
                   "category": "natural",
                   "coords": [
                         6.786091,
@@ -13090,7 +13090,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skydskjær naturreservat",
-                  "text": "A coastal nature reserve in Farsund municipality.",
+                  "text": "Skydskjær naturreservat is a nature reserve established in 1981 in Farsund.",
                   "category": "natural",
                   "coords": [
                         6.820431,
@@ -13099,7 +13099,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lundevågen dyrefredningsområde",
-                  "text": "A designated animal protection area near Farsund.",
+                  "text": "Lundevågen dyrefredningsområde is a bird sanctuary in a bay near Farsund, also protecting seals.",
                   "category": "natural",
                   "coords": [
                         6.774675,
@@ -13126,7 +13126,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Svarthaug",
-                  "text": "An archaeological site in the Farsund area.",
+                  "text": "Svarthaug is an Iron Age burial mound in Farsund.",
                   "category": "historical",
                   "coords": [
                         6.765243,
@@ -13153,7 +13153,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lodshavn fort",
-                  "text": "A historical fortification in Lodshavn near Farsund.",
+                  "text": "Lodshavn fort is a WWII coastal fort in Farsund that guarded the harbour.",
                   "category": "fortress",
                   "coords": [
                         6.816809,
@@ -13162,7 +13162,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Barbrostranden",
-                  "text": "A local bathing beach in the town of Farsund.",
+                  "text": "Barbrostranden is a sandy beach with calm waters in Farsund.",
                   "category": "recreational",
                   "coords": [
                         6.810851,
@@ -13171,7 +13171,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skjolnesveten",
-                  "text": "A prominent viewpoint with vistas over Farsund.",
+                  "text": "Skjolnesveten is a mountain peak in Farsund with panoramic views.",
                   "category": "natural",
                   "coords": [
                         6.80051,
@@ -13189,7 +13189,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bellevy",
-                  "text": "A popular spot for panoramic views in Farsund.",
+                  "text": "Bellevy is a viewpoint hill in Farsund overlooking the archipelago.",
                   "category": "natural",
                   "coords": [
                         6.801323,
@@ -13198,7 +13198,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Knyggen",
-                  "text": "An elevated point in Farsund serving as a lookout.",
+                  "text": "Knyggen is a rocky knoll in Farsund.",
                   "category": "natural",
                   "coords": [
                         6.82289,
@@ -13207,7 +13207,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Badehuset",
-                  "text": "A waterside bathing facility in Farsund.",
+                  "text": "Badehuset is a historic seaside bathhouse in Farsund.",
                   "category": "recreational",
                   "coords": [
                         6.806946,
@@ -13225,7 +13225,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Nordsund bru",
-                  "text": "A bridge spanning the Nordsund in Farsund.",
+                  "text": "Nordsund bru is a modern bridge connecting islands near Farsund.",
                   "category": "landmark",
                   "coords": [
                         6.812635,
@@ -13327,7 +13327,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Flekkefjord museum",
-                  "text": "Ein Museum zur Lokalgeschichte in Flekkefjord.",
+                  "text": "Das Flekkefjord museum ist ein Heimatmuseum in einem Kaufmannshaus aus dem 19. Jahrhundert in Flekkefjord.",
                   "category": "museum",
                   "coords": [
                         6.661765,
@@ -13336,7 +13336,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "storeheia",
-                  "text": "Ein Aussichtspunkt mit Blick über Flekkefjord.",
+                  "text": "Die Storeheia ist eine große Heidefläche mit Wanderwegen in Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.653755,
@@ -13345,7 +13345,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Grimetjørn",
-                  "text": "Ein Denkmal oder Wahrzeichen in Flekkefjord.",
+                  "text": "Das Grimetjørn ist ein historischer Teich mit archäologischen Funden in Flekkefjord.",
                   "category": "historical",
                   "coords": [
                         6.640362,
@@ -13354,7 +13354,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Jettegryte",
-                  "text": "Eine natürliche Attraktion in der Nähe von Flekkefjord.",
+                  "text": "Die Jettegryte ist eine Gletschertopfformation in Flekkefjord.",
                   "category": "landmark",
                   "coords": [
                         6.678895,
@@ -13363,7 +13363,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Flekkfjordbanen",
-                  "text": "Eine historische Museumsbahn in Flekkefjord.",
+                  "text": "Die Flekkfjordbanen ist eine historische Schmalspurbahn mit malerischer Strecke in Flekkefjord.",
                   "category": "landmark",
                   "coords": [
                         6.667593,
@@ -13381,7 +13381,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Haugelandsvann",
-                  "text": "Der Haugelandsvann ist ein See in Flekkefjord, ideal für Naturbeobachtungen.",
+                  "text": "Der Haugelandsvann ist ein See in Flekkefjord, der zum Angeln und Kanufahren einlädt.",
                   "category": "natural",
                   "coords": [
                         6.779819,
@@ -13399,7 +13399,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dunsædvatnet",
-                  "text": "Der Dunsædvatnet ist ein See in Flekkefjord, ein ruhiger Ort in der Natur.",
+                  "text": "Der Dunsædvatnet ist ein ruhiger Waldsee in Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.773695,
@@ -13408,7 +13408,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fiskelausvannet",
-                  "text": "Der Fiskelausvannet ist ein See in Flekkefjord, der eine friedliche Atmosphäre bietet.",
+                  "text": "Fiskelausvannet ist ein See, dessen Name 'fischloses Wasser' bedeutet, in der Nähe von Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.76603,
@@ -13417,7 +13417,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ronevatnet",
-                  "text": "Der Ronevatnet ist ein See in Flekkefjord, der eine malerische Naturumgebung bietet.",
+                  "text": "Ronevatnet ist ein See in den bewaldeten Hügeln bei Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.778255,
@@ -13435,7 +13435,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Teinelaga",
-                  "text": "Der Teinelaga ist ein See in Flekkefjord, der Ruhe in der Natur bietet.",
+                  "text": "Teinelaga ist ein kleiner See in der Region Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.608443,
@@ -13444,7 +13444,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Stemmevatnet",
-                  "text": "Der Stemmevatnet ist ein See in Flekkefjord, ideal für erholsame Momente.",
+                  "text": "Stemmevatnet ist ein See, umgeben von Sumpfland bei Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.631994,
@@ -13453,7 +13453,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gompevatn",
-                  "text": "Der Gompevatn ist ein See in Flekkefjord, der eine naturbelassene Kulisse bietet.",
+                  "text": "Gompevatn ist ein See am Fuße eines Hügels im Gebiet von Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.749109,
@@ -13491,7 +13491,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Flekkefjord museum",
-                  "text": "Helytörténeti múzeum Flekkefjordban.",
+                  "text": "A Flekkefjord museum egy helytörténeti múzeum egy 19. századi kereskedőházban Flekkefjordban.",
                   "category": "museum",
                   "coords": [
                         6.661765,
@@ -13500,7 +13500,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "storeheia",
-                  "text": "Kilátóhely kilátással Flekkefjordra.",
+                  "text": "A Storeheia egy nagy hangás terület túraútvonalakkal Flekkefjordban.",
                   "category": "natural",
                   "coords": [
                         6.653755,
@@ -13509,7 +13509,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Grimetjørn",
-                  "text": "Emlékmű vagy nevezetesség Flekkefjordban.",
+                  "text": "A Grimetjørn egy történelmi tó régészeti leletekkel Flekkefjordban.",
                   "category": "historical",
                   "coords": [
                         6.640362,
@@ -13518,7 +13518,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Jettegryte",
-                  "text": "Természeti látványosság Flekkefjord közelében.",
+                  "text": "A Jettegryte egy gleccserüstképződmény Flekkefjordban.",
                   "category": "landmark",
                   "coords": [
                         6.678895,
@@ -13527,7 +13527,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Flekkfjordbanen",
-                  "text": "Történelmi vasútvonal és látványosság Flekkefjordban.",
+                  "text": "A Flekkfjordbanen egy történelmi keskeny nyomtávú vasút festői útvonallal Flekkefjordban.",
                   "category": "landmark",
                   "coords": [
                         6.667593,
@@ -13545,7 +13545,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Haugelandsvann",
-                  "text": "A Haugelandsvann egy tó Flekkefjord területén, ideális a természet megfigyelésére.",
+                  "text": "A Haugelandsvann egy tó Flekkefjordban, amely horgászatra és kenuzásra csábít.",
                   "category": "natural",
                   "coords": [
                         6.779819,
@@ -13563,7 +13563,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dunsædvatnet",
-                  "text": "A Dunsædvatnet egy tó Flekkefjord területén, csendes hely a természetben.",
+                  "text": "A Dunsædvatnet egy csendes erdei tó Flekkefjordban.",
                   "category": "natural",
                   "coords": [
                         6.773695,
@@ -13572,7 +13572,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fiskelausvannet",
-                  "text": "A Fiskelausvannet egy tó Flekkefjord területén, amely békés légkört kínál.",
+                  "text": "A Fiskelausvannet egy tó, melynek neve 'haltalan vizet' jelent Flekkefjord közelében.",
                   "category": "natural",
                   "coords": [
                         6.76603,
@@ -13581,7 +13581,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ronevatnet",
-                  "text": "A Ronevatnet egy tó Flekkefjord területén, amely festői természeti környezetet kínál.",
+                  "text": "A Ronevatnet egy tó az erdős dombok között Flekkefjord közelében.",
                   "category": "natural",
                   "coords": [
                         6.778255,
@@ -13599,7 +13599,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Teinelaga",
-                  "text": "A Teinelaga egy tó Flekkefjord területén, amely nyugalmat kínál a természetben.",
+                  "text": "A Teinelaga egy kis tó a Flekkefjord régióban.",
                   "category": "natural",
                   "coords": [
                         6.608443,
@@ -13608,7 +13608,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Stemmevatnet",
-                  "text": "A Stemmevatnet egy tó Flekkefjord területén, ideális pihentető pillanatokhoz.",
+                  "text": "A Stemmevatnet egy mocsaras vidékkel körülvett tó Flekkefjord mellett.",
                   "category": "natural",
                   "coords": [
                         6.631994,
@@ -13617,7 +13617,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gompevatn",
-                  "text": "A Gompevatn egy tó Flekkefjord területén, amely érintetlen környezetet kínál.",
+                  "text": "A Gompevatn egy tó egy domb lábánál a Flekkefjord környékén.",
                   "category": "natural",
                   "coords": [
                         6.749109,
@@ -13655,7 +13655,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Flekkefjord museum",
-                  "text": "Un muzeu de istorie locală în Flekkefjord.",
+                  "text": "Muzeul Flekkefjord este un muzeu de istorie locală într-o casă de negustor din secolul al XIX-lea din Flekkefjord.",
                   "category": "museum",
                   "coords": [
                         6.661765,
@@ -13664,7 +13664,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "storeheia",
-                  "text": "Un punct de belvedere cu vedere spre Flekkefjord.",
+                  "text": "Storeheia este o întindere mare de tufăriș cu trasee de drumeție în Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.653755,
@@ -13673,7 +13673,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Grimetjørn",
-                  "text": "Un monument sau punct de reper în Flekkefjord.",
+                  "text": "Grimetjørn este un iaz istoric cu descoperiri arheologice în Flekkefjord.",
                   "category": "historical",
                   "coords": [
                         6.640362,
@@ -13682,7 +13682,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Jettegryte",
-                  "text": "O atracție naturală în apropiere de Flekkefjord.",
+                  "text": "Jettegryte este o formațiune de tip „cazan glaciar” în Flekkefjord.",
                   "category": "landmark",
                   "coords": [
                         6.678895,
@@ -13691,7 +13691,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Flekkfjordbanen",
-                  "text": "O cale ferată istorică și atracție în Flekkefjord.",
+                  "text": "Flekkfjordbanen este o cale ferată istorică cu ecartament îngust și traseu pitoresc în Flekkefjord.",
                   "category": "landmark",
                   "coords": [
                         6.667593,
@@ -13709,7 +13709,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Haugelandsvann",
-                  "text": "Haugelandsvann este un lac din Flekkefjord, ideal pentru observarea naturii.",
+                  "text": "Lacul Haugelandsvann este un lac în Flekkefjord, potrivit pentru pescuit și canoe.",
                   "category": "natural",
                   "coords": [
                         6.779819,
@@ -13727,7 +13727,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dunsædvatnet",
-                  "text": "Dunsædvatnet este un lac din Flekkefjord, un loc liniștit în natură.",
+                  "text": "Lacul Dunsædvatnet este un lac liniștit în pădure în Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.773695,
@@ -13736,7 +13736,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fiskelausvannet",
-                  "text": "Fiskelausvannet este un lac din Flekkefjord care oferă o atmosferă pașnică.",
+                  "text": "Fiskelausvannet este un lac al cărui nume înseamnă 'apă fără pești', situat lângă Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.76603,
@@ -13745,7 +13745,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ronevatnet",
-                  "text": "Ronevatnet este un lac din Flekkefjord care oferă un mediu natural pitoresc.",
+                  "text": "Ronevatnet este un lac în dealurile împădurite de lângă Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.778255,
@@ -13763,7 +13763,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Teinelaga",
-                  "text": "Teinelaga este un lac din Flekkefjord care oferă liniște în natură.",
+                  "text": "Teinelaga este un mic lac în regiunea Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.608443,
@@ -13772,7 +13772,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Stemmevatnet",
-                  "text": "Stemmevatnet este un lac din Flekkefjord, ideal pentru momente de relaxare.",
+                  "text": "Stemmevatnet este un lac înconjurat de mlaștini lângă Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.631994,
@@ -13781,7 +13781,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gompevatn",
-                  "text": "Gompevatn este un lac din Flekkefjord care oferă un cadru natural nealterat.",
+                  "text": "Gompevatn este un lac la poalele unui deal în zona Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.749109,
@@ -13819,7 +13819,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Flekkefjord museum",
-                  "text": "A museum of local history in Flekkefjord.",
+                  "text": "Flekkefjord museum is a local history museum in a 19th-century merchant house in Flekkefjord.",
                   "category": "museum",
                   "coords": [
                         6.661765,
@@ -13828,7 +13828,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "storeheia",
-                  "text": "A viewpoint with a view over Flekkefjord.",
+                  "text": "Storeheia is a large heathland with hiking trails in Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.653755,
@@ -13837,7 +13837,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Grimetjørn",
-                  "text": "A monument or landmark in Flekkefjord.",
+                  "text": "Grimetjørn is a historic pond with archaeological finds in Flekkefjord.",
                   "category": "historical",
                   "coords": [
                         6.640362,
@@ -13846,7 +13846,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Jettegryte",
-                  "text": "A natural attraction near Flekkefjord.",
+                  "text": "Jettegryte is a giant's kettle glacial pothole formation in Flekkefjord.",
                   "category": "landmark",
                   "coords": [
                         6.678895,
@@ -13855,7 +13855,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Flekkfjordbanen",
-                  "text": "A heritage railway and attraction in Flekkefjord.",
+                  "text": "Flekkfjordbanen is a historic narrow-gauge railway with a scenic route in Flekkefjord.",
                   "category": "landmark",
                   "coords": [
                         6.667593,
@@ -13873,7 +13873,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Haugelandsvann",
-                  "text": "Haugelandsvann is a lake in Flekkefjord, ideal for observing nature.",
+                  "text": "Haugelandsvann is a lake in Flekkefjord, popular for fishing and canoeing.",
                   "category": "natural",
                   "coords": [
                         6.779819,
@@ -13891,7 +13891,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Dunsædvatnet",
-                  "text": "Dunsædvatnet is a lake in Flekkefjord, a quiet place in nature.",
+                  "text": "Dunsædvatnet is a quiet forest lake in Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.773695,
@@ -13900,7 +13900,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Fiskelausvannet",
-                  "text": "Fiskelausvannet is a lake in Flekkefjord that offers a peaceful atmosphere.",
+                  "text": "Fiskelausvannet is a lake whose name means 'fishless water', located near Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.76603,
@@ -13909,7 +13909,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ronevatnet",
-                  "text": "Ronevatnet is a lake in Flekkefjord that offers a scenic natural environment.",
+                  "text": "Ronevatnet is a lake in the forested hills near Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.778255,
@@ -13927,7 +13927,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Teinelaga",
-                  "text": "Teinelaga is a lake in Flekkefjord that offers peace in nature.",
+                  "text": "Teinelaga is a small lake in the Flekkefjord region.",
                   "category": "natural",
                   "coords": [
                         6.608443,
@@ -13936,7 +13936,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Stemmevatnet",
-                  "text": "Stemmevatnet is a lake in Flekkefjord, ideal for relaxing moments.",
+                  "text": "Stemmevatnet is a lake surrounded by marshland near Flekkefjord.",
                   "category": "natural",
                   "coords": [
                         6.631994,
@@ -13945,7 +13945,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gompevatn",
-                  "text": "Gompevatn is a lake in Flekkefjord that offers a natural setting.",
+                  "text": "Gompevatn is a lake at the foot of a hill in the Flekkefjord area.",
                   "category": "natural",
                   "coords": [
                         6.749109,
@@ -14038,7 +14038,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Folgefonngata 9",
-                  "text": "Ein Museumshaus in Odda.",
+                  "text": "Folgefonngata 9 ist ein Museum in einem historischen Gebäude in dieser Straße in Odda.",
                   "category": "museum",
                   "coords": [
                         6.544361,
@@ -14056,7 +14056,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skipheller",
-                  "text": "Eine lokale Sehenswürdigkeit in Odda.",
+                  "text": "Skipheller ist eine schiffsförmige Felsformation bei Odda.",
                   "category": "landmark",
                   "coords": [
                         6.545733,
@@ -14065,7 +14065,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Mot Jordalen",
-                  "text": "Ein Aussichtspunkt mit Blick in Richtung Jordalen bei Odda.",
+                  "text": "Mot Jordalen ist ein Naturgebiet auf dem Weg zum Jordalen-Tal bei Odda.",
                   "category": "natural",
                   "coords": [
                         6.561394,
@@ -14103,7 +14103,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Folgefonngata 9",
-                  "text": "Múzeumház Oddában.",
+                  "text": "A Folgefonngata 9 egy múzeum egy történelmi épületben ezen az utcán Oddában.",
                   "category": "museum",
                   "coords": [
                         6.544361,
@@ -14121,7 +14121,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skipheller",
-                  "text": "Helyi látnivaló Oddában.",
+                  "text": "A Skipheller egy hajó alakú sziklaformáció Odda közelében.",
                   "category": "landmark",
                   "coords": [
                         6.545733,
@@ -14130,7 +14130,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Mot Jordalen",
-                  "text": "Kilátópont Jordalen irányába Odda közelében.",
+                  "text": "A Mot Jordalen egy természeti terület a Jordalen-völgybe vezető úton Odda közelében.",
                   "category": "natural",
                   "coords": [
                         6.561394,
@@ -14168,7 +14168,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Folgefonngata 9",
-                  "text": "O casă muzeu în Odda.",
+                  "text": "Folgefonngata 9 este un muzeu într-o clădire istorică de pe acea stradă din Odda.",
                   "category": "museum",
                   "coords": [
                         6.544361,
@@ -14186,7 +14186,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skipheller",
-                  "text": "O atracție locală în Odda.",
+                  "text": "Skipheller este o formațiune stâncoasă în formă de navă lângă Odda.",
                   "category": "landmark",
                   "coords": [
                         6.545733,
@@ -14195,7 +14195,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Mot Jordalen",
-                  "text": "Un punct de belvedere cu vedere spre Jordalen, lângă Odda.",
+                  "text": "Mot Jordalen este o zonă naturală de-a lungul drumului către valea Jordalen lângă Odda.",
                   "category": "natural",
                   "coords": [
                         6.561394,
@@ -14233,7 +14233,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Folgefonngata 9",
-                  "text": "A museum house located in Odda.",
+                  "text": "Folgefonngata 9 is a museum in a historic building on that street in Odda.",
                   "category": "museum",
                   "coords": [
                         6.544361,
@@ -14251,7 +14251,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skipheller",
-                  "text": "A local attraction in Odda.",
+                  "text": "Skipheller is a rock formation shaped like a ship near Odda.",
                   "category": "landmark",
                   "coords": [
                         6.545733,
@@ -14260,7 +14260,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Mot Jordalen",
-                  "text": "A viewpoint looking towards Jordalen near Odda.",
+                  "text": "Mot Jordalen is a natural area along the route to Jordalen valley near Odda.",
                   "category": "natural",
                   "coords": [
                         6.561394,
@@ -14353,7 +14353,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Førdefjorden",
-                  "text": "Ein langer Fjord in der Provinz Vestland bei Førde.",
+                  "text": "Førdefjorden ist ein Fjord in Førde mit steilen Berghängen und tiefblauem Wasser.",
                   "category": "landmark",
                   "coords": [
                         5.535564,
@@ -14418,7 +14418,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Førdefjorden",
-                  "text": "Egy hosszú fjord Vestland megyében, Førde közelében.",
+                  "text": "A Førdefjorden egy fjord Førde-ben, meredek hegyoldalakkal és mélykék vízzel.",
                   "category": "landmark",
                   "coords": [
                         5.535564,
@@ -14483,7 +14483,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Førdefjorden",
-                  "text": "Un fiord lung în provincia Vestland, lângă Førde.",
+                  "text": "Førdefjorden este un fiord în Førde cu pereți montani abrupți și apă albastră profundă.",
                   "category": "landmark",
                   "coords": [
                         5.535564,
@@ -14548,7 +14548,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Førdefjorden",
-                  "text": "A long fjord in Vestland province near Førde.",
+                  "text": "Førdefjorden is a fjord in Førde with steep mountainsides and deep blue water.",
                   "category": "landmark",
                   "coords": [
                         5.535564,
@@ -14875,7 +14875,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Odinskjeret fyr",
-                  "text": "Ein Leuchtturm an der Küste von Brønnøysund.",
+                  "text": "Odinskjeret fyr ist ein Leuchtturm auf einer felsigen Insel, die nach Odin benannt ist, bei Brønnøysund.",
                   "category": "landmark",
                   "coords": [
                         12.198937,
@@ -14884,7 +14884,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Festningen",
-                  "text": "Eine historische Festungsanlage in Brønnøysund.",
+                  "text": "Festningen ist eine historische Festung mit Blick auf den Hafen von Brønnøysund.",
                   "category": "castle",
                   "coords": [
                         12.185964,
@@ -14893,7 +14893,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frøkenosen",
-                  "text": "Eine Bucht und Naturbadeplatz in Brønnøysund.",
+                  "text": "Frøkenosen ist eine Felsformation namens 'Die Damennase' in Brønnøysund.",
                   "category": "landmark",
                   "coords": [
                         12.212288,
@@ -14913,7 +14913,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Odinskjeret fyr",
-                  "text": "Világítótorony Brønnøysund partjainál.",
+                  "text": "Az Odinskjeret fyr egy világítótorony egy Odinról elnevezett sziklás szigeten Brønnøysund közelében.",
                   "category": "landmark",
                   "coords": [
                         12.198937,
@@ -14922,7 +14922,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Festningen",
-                  "text": "Történelmi erődítmény Brønnøysundban.",
+                  "text": "A Festningen egy történelmi erőd, mely Brønnøysund kikötőjére néz.",
                   "category": "castle",
                   "coords": [
                         12.185964,
@@ -14931,7 +14931,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frøkenosen",
-                  "text": "Öböl és természetes fürdőhely Brønnøysundban.",
+                  "text": "A Frøkenosen egy sziklaformáció, melynek neve 'A hölgy orra' Brønnøysundban.",
                   "category": "landmark",
                   "coords": [
                         12.212288,
@@ -14951,7 +14951,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Odinskjeret fyr",
-                  "text": "Un far pe coasta din Brønnøysund.",
+                  "text": "Odinskjeret fyr este un far pe o insulă stâncoasă numită după Odin, lângă Brønnøysund.",
                   "category": "landmark",
                   "coords": [
                         12.198937,
@@ -14960,7 +14960,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Festningen",
-                  "text": "O fortificație istorică în Brønnøysund.",
+                  "text": "Festningen este o fortăreață istorică cu vedere spre portul Brønnøysund.",
                   "category": "castle",
                   "coords": [
                         12.185964,
@@ -14969,7 +14969,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frøkenosen",
-                  "text": "Un golf și loc natural de scăldat în Brønnøysund.",
+                  "text": "Frøkenosen este o formațiune stâncoasă numită 'Nasul Doamnei' în Brønnøysund.",
                   "category": "landmark",
                   "coords": [
                         12.212288,
@@ -14989,7 +14989,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Odinskjeret fyr",
-                  "text": "A lighthouse on the coast of Brønnøysund.",
+                  "text": "Odinskjeret fyr is a lighthouse on a rocky islet named after Odin, near Brønnøysund.",
                   "category": "landmark",
                   "coords": [
                         12.198937,
@@ -14998,7 +14998,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Festningen",
-                  "text": "A historic fortification in Brønnøysund.",
+                  "text": "Festningen is a historic fortress overlooking the harbor of Brønnøysund.",
                   "category": "castle",
                   "coords": [
                         12.185964,
@@ -15007,7 +15007,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frøkenosen",
-                  "text": "A bay and natural swimming area in Brønnøysund.",
+                  "text": "Frøkenosen is a rock formation called The Lady's Nose in Brønnøysund.",
                   "category": "landmark",
                   "coords": [
                         12.212288,
@@ -15316,7 +15316,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vadsø Museum",
-                  "text": "Ein Museum, das die Kulturgeschichte der Stadt Vadsø präsentiert.",
+                  "text": "Das Vadsø Museum ist ein ortsgeschichtliches Museum im Zentrum von Vadsø mit Schwerpunkt auf der Region Varanger.",
                   "category": "museum",
                   "coords": [
                         29.749624,
@@ -15325,7 +15325,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Esbensengården",
-                  "text": "Ein gut erhaltenes historisches Handelshaus und Museum.",
+                  "text": "Esbensengården ist ein historisches Bauernhausmuseum in Vadsø, das das Landleben zeigt.",
                   "category": "museum",
                   "coords": [
                         29.767604,
@@ -15379,7 +15379,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Melkevarden",
-                  "text": "Ein Aussichtspunkt mit weitem Blick über den Varangerfjord.",
+                  "text": "Berg mit Aussicht auf die Barentssee in Vadsø.",
                   "category": "natural",
                   "coords": [
                         29.815736,
@@ -15399,7 +15399,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vadsø Museum",
-                  "text": "Vadsø városának kultúrtörténetét bemutató múzeum.",
+                  "text": "A Vadsø Múzeum egy helytörténeti múzeum Vadsø központjában, a Varanger régióra fókuszálva.",
                   "category": "museum",
                   "coords": [
                         29.749624,
@@ -15408,7 +15408,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Esbensengården",
-                  "text": "Jól megőrzött történelmi kereskedőház és múzeum.",
+                  "text": "Az Esbensengården egy történelmi tanyamúzeum Vadsøban, a vidéki élet bemutatásával.",
                   "category": "museum",
                   "coords": [
                         29.767604,
@@ -15462,7 +15462,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Melkevarden",
-                  "text": "Kilátópont széles kilátással a Varanger-fjordra.",
+                  "text": "Kilátóhegy a Barents-tengerre Vadsøban.",
                   "category": "natural",
                   "coords": [
                         29.815736,
@@ -15482,7 +15482,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vadsø Museum",
-                  "text": "Un muzeu care prezintă istoria culturală a orașului Vadsø.",
+                  "text": "Muzeul Vadsø este un muzeu de istorie locală în centrul orașului Vadsø, concentrându-se pe regiunea Varanger.",
                   "category": "museum",
                   "coords": [
                         29.749624,
@@ -15491,7 +15491,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Esbensengården",
-                  "text": "O casă comercială istorică bine conservată și muzeu.",
+                  "text": "Esbensengården este un muzeu de fermă istorică în Vadsø, care prezintă viața rurală.",
                   "category": "museum",
                   "coords": [
                         29.767604,
@@ -15545,7 +15545,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Melkevarden",
-                  "text": "Un punct de observație cu vederi largi asupra Varangerfjord.",
+                  "text": "Munte de belvedere cu vedere la Marea Barents în Vadsø.",
                   "category": "natural",
                   "coords": [
                         29.815736,
@@ -15565,7 +15565,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vadsø Museum",
-                  "text": "A museum showcasing the cultural history of Vadsø.",
+                  "text": "Vadsø Museum is a local history museum in the center of Vadsø, focusing on the Varanger region.",
                   "category": "museum",
                   "coords": [
                         29.749624,
@@ -15574,7 +15574,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Esbensengården",
-                  "text": "A well-preserved historical merchant house and museum.",
+                  "text": "Esbensengården is a historic farmstead museum in Vadsø, showcasing rural life.",
                   "category": "museum",
                   "coords": [
                         29.767604,
@@ -15628,7 +15628,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Melkevarden",
-                  "text": "A viewpoint with wide views over the Varangerfjord.",
+                  "text": "Viewpoint mountain overlooking the Barents Sea in Vadsø.",
                   "category": "natural",
                   "coords": [
                         29.815736,
@@ -15703,7 +15703,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kuskarvannene - Gámmejávrrit",
-                  "text": "Der Kuskarvannene - Gámmejávrrit ist ein See in Hammerfest, der für seine ruhige Naturkulisse bekannt ist.",
+                  "text": "Kuskarvannene – Gámmejávrrit ist eine Seenplatte bei Hammerfest mit einem samischen Namen.",
                   "category": "natural",
                   "coords": [
                         23.735591,
@@ -15768,7 +15768,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kuskarvannene - Gámmejávrrit",
-                  "text": "A Kuskarvannene - Gámmejávrrit egy tó Hammerfestben, amely nyugodt természeti környezetéről ismert.",
+                  "text": "A Kuskarvannene – Gámmejávrrit egy tócsoport Hammerfest közelében, számi névvel.",
                   "category": "natural",
                   "coords": [
                         23.735591,
@@ -15833,7 +15833,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kuskarvannene - Gámmejávrrit",
-                  "text": "Kuskarvannene - Gámmejávrrit este un lac din Hammerfest, cunoscut pentru cadrul său natural liniștit.",
+                  "text": "Kuskarvannene – Gámmejávrrit este un grup de lacuri lângă Hammerfest, cu un nume sami.",
                   "category": "natural",
                   "coords": [
                         23.735591,
@@ -15898,7 +15898,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kuskarvannene - Gámmejávrrit",
-                  "text": "Kuskarvannene - Gámmejávrrit is a lake in Hammerfest, known for its peaceful natural setting.",
+                  "text": "Kuskarvannene – Gámmejávrrit is a set of lakes near Hammerfest with a Sami name.",
                   "category": "natural",
                   "coords": [
                         23.735591,
@@ -16036,7 +16036,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fossmotunet",
-                  "text": "Ein Freilichtmuseum in Bardufoss.",
+                  "text": "Fossmotunet ist ein erhaltenes Bauernhausmuseum bei Bardufoss, das das traditionelle norwegische Bauernleben zeigt.",
                   "category": "museum",
                   "coords": [
                         18.595495,
@@ -16065,7 +16065,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fossmotunet",
-                  "text": "Szabadtéri múzeum Bardufossban.",
+                  "text": "A Fossmotunet egy megőrzött tanyamúzeum Bardufoss közelében, a hagyományos norvég paraszti élet bemutatásával.",
                   "category": "museum",
                   "coords": [
                         18.595495,
@@ -16094,7 +16094,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fossmotunet",
-                  "text": "Un muzeu în aer liber în Bardufoss.",
+                  "text": "Fossmotunet este un muzeu de fermă conservată lângă Bardufoss, care ilustrează viața tradițională norvegiană.",
                   "category": "museum",
                   "coords": [
                         18.595495,
@@ -16123,7 +16123,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fossmotunet",
-                  "text": "An open-air museum in Bardufoss.",
+                  "text": "Fossmotunet is a preserved farmstead museum near Bardufoss, depicting traditional Norwegian farm life.",
                   "category": "museum",
                   "coords": [
                         18.595495,
@@ -16468,7 +16468,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Grottebadet",
-                  "text": "Genießen Sie ein erfrischendes Bad im Grottebadet in Harstad.",
+                  "text": "Grottebadet ist ein Hallenbad in einer Höhle in Harstad.",
                   "category": "family",
                   "coords": [
                         16.540143,
@@ -16542,7 +16542,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Grottebadet",
-                  "text": "Élvezze a frissítő úszást a Grottebadet helyszínén Harstad városában.",
+                  "text": "A Grottebadet egy barlangban található fedett vízipark Harstadban.",
                   "category": "family",
                   "coords": [
                         16.540143,
@@ -16616,7 +16616,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Grottebadet",
-                  "text": "Bucurați-vă de o baie răcoritoare la Grottebadet în Harstad.",
+                  "text": "Grottebadet este un parc acvatic interior într-o peșteră din Harstad.",
                   "category": "family",
                   "coords": [
                         16.540143,
@@ -16690,7 +16690,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Grottebadet",
-                  "text": "Enjoy a refreshing swim at Grottebadet in Harstad.",
+                  "text": "Grottebadet is an indoor water park inside a cave in Harstad.",
                   "category": "family",
                   "coords": [
                         16.540143,
@@ -16810,7 +16810,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Storvatnet",
-                  "text": "Der Storvatnet ist ein See in Sortland, der zur Erholung in der Natur einlädt.",
+                  "text": "Storvatnet, was 'der große See' bedeutet, ist ein großer See bei Sortland.",
                   "category": "natural",
                   "coords": [
                         15.341469,
@@ -16848,7 +16848,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Storvatnet",
-                  "text": "A Storvatnet egy tó Sortland területén, amely természetközeli kikapcsolódásra hív.",
+                  "text": "A Storvatnet, melynek jelentése 'a nagy tó', egy nagy tó Sortland közelében.",
                   "category": "natural",
                   "coords": [
                         15.341469,
@@ -16886,7 +16886,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Storvatnet",
-                  "text": "Storvatnet este un lac din Sortland care invită la recreere în natură.",
+                  "text": "Storvatnet, care înseamnă 'lacul mare', este un lac mare lângă Sortland.",
                   "category": "natural",
                   "coords": [
                         15.341469,
@@ -16924,7 +16924,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Storvatnet",
-                  "text": "Storvatnet is a lake in Sortland that invites recreation in nature.",
+                  "text": "Storvatnet, meaning 'the big lake', is a large lake near Sortland.",
                   "category": "natural",
                   "coords": [
                         15.341469,
@@ -17314,7 +17314,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Adventkirken i Lofoten",
-                  "text": "Ein Gotteshaus der Adventisten auf den Lofoten-Inseln.",
+                  "text": "Adventistenkirche im Zentrum von Leknes auf den Lofoten.",
                   "category": "religious",
                   "coords": [
                         13.616782,
@@ -17379,7 +17379,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Adventkirken i Lofoten",
-                  "text": "Adventista templom a Lofoten-szigeteken.",
+                  "text": "Adventista templom Leknes központjában a Lofoten-szigeteken.",
                   "category": "religious",
                   "coords": [
                         13.616782,
@@ -17444,7 +17444,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Adventkirken i Lofoten",
-                  "text": "Un lăcaș de cult adventist în insulele Lofoten.",
+                  "text": "Biserică adventistă în centrul orașului Leknes din arhipelagul Lofoten.",
                   "category": "religious",
                   "coords": [
                         13.616782,
@@ -17509,7 +17509,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Adventkirken i Lofoten",
-                  "text": "An Adventist place of worship in the Lofoten islands.",
+                  "text": "Adventist church in central Leknes in the Lofoten Islands.",
                   "category": "religious",
                   "coords": [
                         13.616782,
@@ -17593,7 +17593,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Andenes fyr",
-                  "text": "Ein hoher Leuchtturm und Wahrzeichen von Andenes.",
+                  "text": "Leuchtturm an der Nordspitze der Insel Andøya in Andenes.",
                   "category": "landmark",
                   "coords": [
                         16.115915,
@@ -17602,7 +17602,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hvalsafari Andenes",
-                  "text": "Attraktion für Walbeobachtungstouren in Andenes.",
+                  "text": "Hvalsafari Andenes bietet Walbeobachtungstouren ab Andenes an, berühmt für Pottwalsichtungen.",
                   "category": "landmark",
                   "coords": [
                         16.119781,
@@ -17611,7 +17611,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sea Safari Andenes",
-                  "text": "Anbieter von Bootstouren und Meeresabenteuern in Andenes.",
+                  "text": "Sea Safari Andenes bietet Bootsfahrten zu Vogelkolonien und Robben bei Andenes an.",
                   "category": "landmark",
                   "coords": [
                         16.121624,
@@ -17640,7 +17640,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Andenes fyr",
-                  "text": "Magas világítótorony és Andenes jelképe.",
+                  "text": "Világítótorony az Andøya-sziget északi csücskén, Andenesben.",
                   "category": "landmark",
                   "coords": [
                         16.115915,
@@ -17649,7 +17649,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hvalsafari Andenes",
-                  "text": "Bálnales túrákat kínáló látványosság Andenesben.",
+                  "text": "A Hvalsafari Andenes bálnaleső túrákat kínál Andenesből, amely híres ámbráscet-észleléseiről.",
                   "category": "landmark",
                   "coords": [
                         16.119781,
@@ -17658,7 +17658,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sea Safari Andenes",
-                  "text": "Hajótúrákat és tengeri kalandokat kínáló szolgáltató Andenesben.",
+                  "text": "A Sea Safari Andenes hajóutakat kínál madártelepek és fókák megtekintésére Andenes közelében.",
                   "category": "landmark",
                   "coords": [
                         16.121624,
@@ -17687,7 +17687,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Andenes fyr",
-                  "text": "Un far înalt și simbol al localității Andenes.",
+                  "text": "Far la capătul nordic al insulei Andøya în Andenes.",
                   "category": "landmark",
                   "coords": [
                         16.115915,
@@ -17696,7 +17696,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hvalsafari Andenes",
-                  "text": "Atracție care oferă tururi de observare a balenelor în Andenes.",
+                  "text": "Hvalsafari Andenes oferă tururi de observare a balenelor din Andenes, faimos pentru observarea cașaloților.",
                   "category": "landmark",
                   "coords": [
                         16.119781,
@@ -17705,7 +17705,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sea Safari Andenes",
-                  "text": "Furnizor de tururi cu barca și aventuri marine în Andenes.",
+                  "text": "Sea Safari Andenes oferă excursii cu barca pentru a explora coloniile de păsări și foci lângă Andenes.",
                   "category": "landmark",
                   "coords": [
                         16.121624,
@@ -17734,7 +17734,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Andenes fyr",
-                  "text": "A tall lighthouse and landmark of Andenes.",
+                  "text": "Lighthouse at the northern tip of Andøya island in Andenes.",
                   "category": "landmark",
                   "coords": [
                         16.115915,
@@ -17743,7 +17743,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hvalsafari Andenes",
-                  "text": "Attraction offering whale watching tours in Andenes.",
+                  "text": "Hvalsafari Andenes offers whale watching tours from Andenes, famous for sperm whale sightings.",
                   "category": "landmark",
                   "coords": [
                         16.119781,
@@ -17752,7 +17752,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sea Safari Andenes",
-                  "text": "Provider of boat tours and sea adventures in Andenes.",
+                  "text": "Sea Safari Andenes provides boat trips to explore seabird colonies and seals near Andenes.",
                   "category": "landmark",
                   "coords": [
                         16.121624,
@@ -18196,7 +18196,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Søre Honningsvåg",
-                  "text": "Ein Leuchtturm südlich von Honningsvåg.",
+                  "text": "Søre Honningsvåg ist eine kleine Küstensiedlung bei Honningsvåg mit Blick auf die Barentssee.",
                   "category": "landmark",
                   "coords": [
                         25.964932,
@@ -18225,7 +18225,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Søre Honningsvåg",
-                  "text": "Világítótorony Honningsvågtól délre.",
+                  "text": "A Søre Honningsvåg egy kis tengerparti település Honningsvåg közelében, a Barents-tengerre néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         25.964932,
@@ -18254,7 +18254,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Søre Honningsvåg",
-                  "text": "Un far situat la sud de Honningsvåg.",
+                  "text": "Søre Honningsvåg este o mică așezare de coastă lângă Honningsvåg, cu vedere la Marea Barents.",
                   "category": "landmark",
                   "coords": [
                         25.964932,
@@ -18283,7 +18283,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Søre Honningsvåg",
-                  "text": "A lighthouse located south of Honningsvåg.",
+                  "text": "Søre Honningsvåg is a small coastal settlement near Honningsvåg with views of the Barents Sea.",
                   "category": "landmark",
                   "coords": [
                         25.964932,
@@ -18358,7 +18358,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Fiskarskjæret",
-                  "text": "Ein Leuchtturm auf einer kleinen Schäre bei Reine.",
+                  "text": "Fiskarskjæret ist eine felsige Insel, die von Fischern genutzt wird, in den Lofoten bei Reine.",
                   "category": "landmark",
                   "coords": [
                         13.102406,
@@ -18376,7 +18376,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gravdalsbukta",
-                  "text": "Eine malerische Bucht in der Nähe des Fischerdorfes Reine.",
+                  "text": "Bucht umgeben von steilen Gipfeln der Lofoten in Reine.",
                   "category": "landmark",
                   "coords": [
                         13.084694,
@@ -18385,7 +18385,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gylttinden",
-                  "text": "Ein markanter Berggipfel in der Umgebung von Reine.",
+                  "text": "Berggipfel oberhalb des Fischerdorfs Reine in den Lofoten.",
                   "category": "natural",
                   "coords": [
                         13.038806,
@@ -18412,7 +18412,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reinevågen",
-                  "text": "Ein kleiner Seitenarm des Fjords bei Reine.",
+                  "text": "Die Reinevågen ist eine malerische Bucht in Reine, umgeben von den roten Fischerhütten (Rorbuer) der Lofoten.",
                   "category": "landmark",
                   "coords": [
                         13.080658,
@@ -18421,7 +18421,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vorfjorden",
-                  "text": "Ein abgelegener Fjord in der Region Lofoten nahe Reine.",
+                  "text": "Vorfjorden ist ein Fjord in den Lofoten, bekannt für seine steilen Berge und klares Wasser.",
                   "category": "landmark",
                   "coords": [
                         13.103948,
@@ -18531,7 +18531,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Fiskarskjæret",
-                  "text": "Világítótorony egy kis sziklazátonyon Reine közelében.",
+                  "text": "A Fiskarskjæret egy sziklás sziget, melyet halászok használnak, a Lofoten-szigeteken Reine közelében.",
                   "category": "landmark",
                   "coords": [
                         13.102406,
@@ -18549,7 +18549,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gravdalsbukta",
-                  "text": "Gleccser vájta öböl Reine halászfalu közelében.",
+                  "text": "Öböl a Lofoten meredek csúcsai között Reineben.",
                   "category": "landmark",
                   "coords": [
                         13.084694,
@@ -18558,7 +18558,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gylttinden",
-                  "text": "Jellegzetes hegycsúcs Reine környékén.",
+                  "text": "Hegycsúcs a Reine-i halászfalu felett a Lofotenen.",
                   "category": "natural",
                   "coords": [
                         13.038806,
@@ -18585,7 +18585,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reinevågen",
-                  "text": "A fjord egyik kis ága Reine közelében.",
+                  "text": "A Reinevågen egy festői öböl Reine-ben, a Lofoten-szigetek vörös halászkunyhóival (rorbuer) körülvéve.",
                   "category": "landmark",
                   "coords": [
                         13.080658,
@@ -18594,7 +18594,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vorfjorden",
-                  "text": "Félreeső fjord a Lofoten-régióban, Reine közelében.",
+                  "text": "A Vorfjorden egy fjord a Lofoten-szigeteken, híres meredek hegyeiről és tiszta vizéről.",
                   "category": "landmark",
                   "coords": [
                         13.103948,
@@ -18704,7 +18704,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Fiskarskjæret",
-                  "text": "Un far pe o mică insulă stâncoasă lângă Reine.",
+                  "text": "Fiskarskjæret este o insulă stâncoasă folosită de pescari, situată în insulele Lofoten lângă Reine.",
                   "category": "landmark",
                   "coords": [
                         13.102406,
@@ -18722,7 +18722,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gravdalsbukta",
-                  "text": "Un golf pitoresc în apropierea satului de pescari Reine.",
+                  "text": "Golf înconjurat de vârfuri abrupte ale Lofotenului în Reine.",
                   "category": "landmark",
                   "coords": [
                         13.084694,
@@ -18731,7 +18731,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gylttinden",
-                  "text": "Un vârf montan proeminent în împrejurimile Reine.",
+                  "text": "Vârf de munte deasupra satului de pescari Reine din Lofoten.",
                   "category": "natural",
                   "coords": [
                         13.038806,
@@ -18758,7 +18758,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reinevågen",
-                  "text": "O mică ramificație a fiordului lângă Reine.",
+                  "text": "Reinevågen este un golf pitoresc din Reine, înconjurat de cabanele roșii de pescari (rorbuer) din Lofoten.",
                   "category": "landmark",
                   "coords": [
                         13.080658,
@@ -18767,7 +18767,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vorfjorden",
-                  "text": "Un fiord izolat în regiunea Lofoten, lângă Reine.",
+                  "text": "Vorfjorden este un fiord în insulele Lofoten, cunoscut pentru munții săi abrupți și apa limpede.",
                   "category": "landmark",
                   "coords": [
                         13.103948,
@@ -18877,7 +18877,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Fiskarskjæret",
-                  "text": "A lighthouse on a small skerry near Reine.",
+                  "text": "Fiskarskjæret is a rocky islet used by fishermen, located in the Lofoten islands near Reine.",
                   "category": "landmark",
                   "coords": [
                         13.102406,
@@ -18895,7 +18895,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gravdalsbukta",
-                  "text": "A scenic bay near the fishing village of Reine.",
+                  "text": "Bay surrounded by steep Lofoten peaks in Reine.",
                   "category": "landmark",
                   "coords": [
                         13.084694,
@@ -18904,7 +18904,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gylttinden",
-                  "text": "A prominent mountain peak in the Reine area.",
+                  "text": "Mountain peak above the fishing village of Reine in the Lofoten Islands.",
                   "category": "natural",
                   "coords": [
                         13.038806,
@@ -18931,7 +18931,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reinevågen",
-                  "text": "A small arm of the fjord near Reine.",
+                  "text": "Reinevågen is a scenic bay in Reine, framed by the iconic red fisherman's cabins (rorbuer) of Lofoten.",
                   "category": "landmark",
                   "coords": [
                         13.080658,
@@ -18940,7 +18940,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vorfjorden",
-                  "text": "A secluded fjord in the Lofoten region near Reine.",
+                  "text": "Vorfjorden is a fjord in the Lofoten islands, known for its steep mountains and clear water.",
                   "category": "landmark",
                   "coords": [
                         13.103948,
@@ -19096,7 +19096,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Naturum Vindelfjällen",
-                  "text": "Naturum Vindelfjällen ist ein Besucherzentrum und Museum über die schwedische Bergwelt.",
+                  "text": "Naturum Vindelfjällen ist ein Naturzentrum in Hemavan mit Ausstellungen zum alpinen Ökosystem.",
                   "category": "museum",
                   "coords": [
                         15.104355,
@@ -19105,7 +19105,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hemavankyrkan",
-                  "text": "Die Hemavankyrkan ist eine moderne Holzkirche im Ferienort Hemavan.",
+                  "text": "Die Hemavankyrkan ist eine Holzkirche mit markantem Turm im schwedischen Bergdorf Hemavan.",
                   "category": "religious",
                   "coords": [
                         15.090465,
@@ -19116,7 +19116,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Naturum Vindelfjällen",
-                  "text": "A Naturum Vindelfjällen egy látogatóközpont és múzeum a svéd hegyvidékről.",
+                  "text": "A Naturum Vindelfjällen egy természetközpont Hemavanban, az alpesi ökoszisztéma kiállításaival.",
                   "category": "museum",
                   "coords": [
                         15.104355,
@@ -19125,7 +19125,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hemavankyrkan",
-                  "text": "A Hemavankyrkan egy modern fatemplom Hemavan üdülőhelyén.",
+                  "text": "A Hemavankyrkan egy fából készült templom, jellegzetes toronnyal a svédországi Hemavan hegyi faluban.",
                   "category": "religious",
                   "coords": [
                         15.090465,
@@ -19136,7 +19136,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Naturum Vindelfjällen",
-                  "text": "Naturum Vindelfjällen este un centru pentru vizitatori și muzeu despre munții suedezi.",
+                  "text": "Naturum Vindelfjällen este un centru natural în Hemavan cu expoziții despre ecosistemul alpin.",
                   "category": "museum",
                   "coords": [
                         15.104355,
@@ -19145,7 +19145,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hemavankyrkan",
-                  "text": "Hemavankyrkan este o biserică modernă din lemn în stațiunea Hemavan.",
+                  "text": "Hemavankyrkan este o biserică de lemn cu un turn distinctiv în satul montan Hemavan din Suedia.",
                   "category": "religious",
                   "coords": [
                         15.090465,
@@ -19156,7 +19156,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Naturum Vindelfjällen",
-                  "text": "Naturum Vindelfjällen is a visitor centre and museum about the Swedish mountains.",
+                  "text": "Naturum Vindelfjällen is a nature center in Hemavan with exhibits on the alpine ecosystem.",
                   "category": "museum",
                   "coords": [
                         15.104355,
@@ -19165,7 +19165,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hemavankyrkan",
-                  "text": "Hemavankyrkan is a modern wooden church in the resort of Hemavan.",
+                  "text": "Hemavankyrkan is a wooden church with a distinctive spire in the mountain village of Hemavan.",
                   "category": "religious",
                   "coords": [
                         15.090465,
@@ -19222,7 +19222,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Odinskjeret fyr",
-                  "text": "Ein Küstenfeuer in der Gemeinde Brønnøy.",
+                  "text": "Odinskjeret fyr ist ein Leuchtturm auf einer nach Odin benannten Schäre bei Brønnøy.",
                   "category": "landmark",
                   "coords": [
                         12.198937,
@@ -19231,7 +19231,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frøkenosen",
-                  "text": "Eine geschützte Bucht in Brønnøy.",
+                  "text": "Frøkenosen ist eine Felsformation namens 'Die Damennase' im Gebiet von Brønnøy.",
                   "category": "landmark",
                   "coords": [
                         12.212288,
@@ -19240,7 +19240,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vannbasseng",
-                  "text": "Überreste einer historischen Wasseranlage in Brønnøy.",
+                  "text": "Vannbasseng ist ein historischer Wasserbehälter in Brønnøy, der die frühe städtische Infrastruktur zeigt.",
                   "category": "historical",
                   "coords": [
                         12.265971,
@@ -19260,7 +19260,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Odinskjeret fyr",
-                  "text": "Parti világítótorony Brønnøy községben.",
+                  "text": "Az Odinskjeret fyr egy világítótorony egy Odinról elnevezett sziklazátonyon Brønnøy közelében.",
                   "category": "landmark",
                   "coords": [
                         12.198937,
@@ -19269,7 +19269,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frøkenosen",
-                  "text": "Védett öböl Brønnøyban.",
+                  "text": "A Frøkenosen egy sziklaformáció, melynek neve 'A hölgy orra' a Brønnøy környékén.",
                   "category": "landmark",
                   "coords": [
                         12.212288,
@@ -19278,7 +19278,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vannbasseng",
-                  "text": "Történelmi víztározó maradványai Brønnøyban.",
+                  "text": "A Vannbasseng egy történelmi víztározó Brønnøyban, a korai városi infrastruktúra tükre.",
                   "category": "historical",
                   "coords": [
                         12.265971,
@@ -19298,7 +19298,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Odinskjeret fyr",
-                  "text": "Un far de coastă în comuna Brønnøy.",
+                  "text": "Odinskjeret fyr este un far pe un recif numit după Odin, lângă Brønnøy.",
                   "category": "landmark",
                   "coords": [
                         12.198937,
@@ -19307,7 +19307,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frøkenosen",
-                  "text": "Un golf protejat în Brønnøy.",
+                  "text": "Frøkenosen este o formațiune stâncoasă numită 'Nasul Doamnei' în zona Brønnøy.",
                   "category": "landmark",
                   "coords": [
                         12.212288,
@@ -19316,7 +19316,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vannbasseng",
-                  "text": "Rămășițele unui rezervor istoric de apă în Brønnøy.",
+                  "text": "Vannbasseng este un rezervor istoric de apă în Brønnøy, reflectând infrastructura municipală timpurie.",
                   "category": "historical",
                   "coords": [
                         12.265971,
@@ -19336,7 +19336,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Odinskjeret fyr",
-                  "text": "A coastal lighthouse in Brønnøy municipality.",
+                  "text": "Odinskjeret fyr is a lighthouse on a skerry named after Odin, near Brønnøy.",
                   "category": "landmark",
                   "coords": [
                         12.198937,
@@ -19345,7 +19345,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frøkenosen",
-                  "text": "A sheltered bay in Brønnøy.",
+                  "text": "Frøkenosen is a rock formation called The Lady's Nose in the Brønnøy area.",
                   "category": "landmark",
                   "coords": [
                         12.212288,
@@ -19354,7 +19354,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vannbasseng",
-                  "text": "Remains of a historic water basin in Brønnøy.",
+                  "text": "Vannbasseng is a historic water reservoir in Brønnøy, reflecting early municipal infrastructure.",
                   "category": "historical",
                   "coords": [
                         12.265971,
@@ -19416,7 +19416,448 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-brønnøy-cities-v2.webp",
   },
   {
-    id: "norway-porsgrunn-cities-v2", "sights": {"de": [{"name": "DuVerden sjøfartsmuseum og vitensenter", "text": "Maritimes Museum und Wissenschaftszentrum in Porsgrunn.", "category": "museum", "coords": [9.637258, 59.136649]}, {"name": "Porselensmuseet", "text": "Wer sich für lokales Handwerk interessiert, sollte das Porselensmuseet in Porsgrunn besuchen. Dieses Museum widmet sich voll und ganz der historischen Porzellanherstellung der norwegischen Stadt. Man kann dort Ausstellungsstücke betrachten, die die filigrane Kunst des Porzellans veranschaulichen.", "category": "museum", "coords": [9.639159, 59.140818]}, {"name": "Sjøfartsmuseet", "text": "Ein Museum zur Schifffahrtsgeschichte in Porsgrunn.", "category": "museum", "coords": [9.638412, 59.137229]}, {"name": "Grenland friteater", "text": "Eine unabhängige Theatergruppe mit eigenem Spielort in Porsgrunn.", "category": "cultural", "coords": [9.642969, 59.137253]}, {"name": "Ælvespeilet", "text": "Ein modernes Kulturhaus und Theater am Fluss in Porsgrunn.", "category": "cultural", "coords": [9.655391, 59.142132]}, {"name": "Teatersalen, Porsgrunn rådhus", "text": "Der Theatersaal im Rathaus von Porsgrunn für verschiedene Aufführungen.", "category": "cultural", "coords": [9.655774, 59.141152]}, {"name": "Dansesletta", "text": "Ein Aussichtspunkt in Porsgrunn mit Blick auf die Stadt und das Wasser.", "category": "natural", "coords": [9.664522, 59.151393]}, {"name": "Vestre Porsgrunn kirke", "text": "Eine historische Holzkirche im westlichen Teil von Porsgrunn.", "category": "religious", "coords": [9.641758, 59.142905]}, {"name": "Borgestad kirke", "text": "Eine Backsteinkirche aus dem frühen 20. Jahrhundert in Porsgrunn.", "category": "religious", "coords": [9.657862, 59.160256]}, {"name": "Kverndammen", "text": "Kverndammen ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.", "category": "natural", "coords": [9.622317, 59.14318]}, {"name": "Norsjø", "text": "Norsjø ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.", "category": "natural", "coords": [9.362437, 59.287858]}, {"name": "Hjellevannet", "text": "Hjellevannet ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.", "category": "natural", "coords": [9.597199, 59.200984]}], "hu": [{"name": "DuVerden sjøfartsmuseum og vitensenter", "text": "Tengerészeti múzeum és tudományos központ Porsgrunnban.", "category": "museum", "coords": [9.637258, 59.136649]}, {"name": "Porselensmuseet", "text": "A helyi kézművesség iránt érdeklődők számára kihagyhatatlan a Porselensmuseet Porsgrunn városában. Ez a norvég múzeum a történelmi porcelángyártásnak szenteli kiállításait. A látogatók olyan tárgyakat tekinthetnek meg, amelyek bemutatják a finom porcelánművészetet.", "category": "museum", "coords": [9.639159, 59.140818]}, {"name": "Sjøfartsmuseet", "text": "Hajózástörténeti múzeum Porsgrunnban.", "category": "museum", "coords": [9.638412, 59.137229]}, {"name": "Grenland friteater", "text": "Független színtársulat saját játszóhellyel Porsgrunnban.", "category": "cultural", "coords": [9.642969, 59.137253]}, {"name": "Ælvespeilet", "text": "Modern kulturális központ és színház a folyóparton Porsgrunnban.", "category": "cultural", "coords": [9.655391, 59.142132]}, {"name": "Teatersalen, Porsgrunn rådhus", "text": "A porsgrunni városháza színházterme különféle előadásokhoz.", "category": "cultural", "coords": [9.655774, 59.141152]}, {"name": "Dansesletta", "text": "Kilátóhely Porsgrunnban, rálátással a városra és a vízre.", "category": "natural", "coords": [9.664522, 59.151393]}, {"name": "Vestre Porsgrunn kirke", "text": "Történelmi fatemplom Porsgrunn nyugati részén.", "category": "religious", "coords": [9.641758, 59.142905]}, {"name": "Borgestad kirke", "text": "20. század eleji téglaépítésű templom Porsgrunnban.", "category": "religious", "coords": [9.657862, 59.160256]}, {"name": "Kverndammen", "text": "A Kverndammen egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [9.622317, 59.14318]}, {"name": "Norsjø", "text": "A Norsjø egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [9.362437, 59.287858]}, {"name": "Hjellevannet", "text": "A Hjellevannet egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [9.597199, 59.200984]}], "ro": [{"name": "DuVerden sjøfartsmuseum og vitensenter", "text": "Muzeu maritim și centru de știință în Porsgrunn.", "category": "museum", "coords": [9.637258, 59.136649]}, {"name": "Porselensmuseet", "text": "Cei interesați de meșteșugurile locale ar trebui să viziteze Porselensmuseet din Porsgrunn. Acest muzeu din Norvegia este dedicat istoriei producției de porțelan din oraș. Vizitatorii pot admira exponate care ilustrează arta delicată a porțelanului.", "category": "museum", "coords": [9.639159, 59.140818]}, {"name": "Sjøfartsmuseet", "text": "Un muzeu al istoriei navigației în Porsgrunn.", "category": "museum", "coords": [9.638412, 59.137229]}, {"name": "Grenland friteater", "text": "O companie de teatru independentă cu propriul spațiu în Porsgrunn.", "category": "cultural", "coords": [9.642969, 59.137253]}, {"name": "Ælvespeilet", "text": "O casă de cultură modernă și teatru pe malul râului în Porsgrunn.", "category": "cultural", "coords": [9.655391, 59.142132]}, {"name": "Teatersalen, Porsgrunn rådhus", "text": "Sala de teatru din primăria Porsgrunn pentru diverse spectacole.", "category": "cultural", "coords": [9.655774, 59.141152]}, {"name": "Dansesletta", "text": "Un punct de belvedere în Porsgrunn cu vedere spre oraș și apă.", "category": "natural", "coords": [9.664522, 59.151393]}, {"name": "Vestre Porsgrunn kirke", "text": "O biserică istorică de lemn în partea de vest a orașului Porsgrunn.", "category": "religious", "coords": [9.641758, 59.142905]}, {"name": "Borgestad kirke", "text": "O biserică de cărămidă de la începutul secolului XX în Porsgrunn.", "category": "religious", "coords": [9.657862, 59.160256]}, {"name": "Kverndammen", "text": "Kverndammen este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.622317, 59.14318]}, {"name": "Norsjø", "text": "Norsjø este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.362437, 59.287858]}, {"name": "Hjellevannet", "text": "Hjellevannet este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.597199, 59.200984]}], "en": [{"name": "DuVerden sjøfartsmuseum og vitensenter", "text": "Maritime museum and science center in Porsgrunn.", "category": "museum", "coords": [9.637258, 59.136649]}, {"name": "Porselensmuseet", "text": "Those interested in local craftsmanship should visit the Porselensmuseet in Porsgrunn. This museum is entirely dedicated to the historic porcelain production of the Norwegian town. Guests can view exhibits that illustrate the delicate art of fine porcelain.", "category": "museum", "coords": [9.639159, 59.140818]}, {"name": "Sjøfartsmuseet", "text": "A museum dedicated to maritime history in Porsgrunn.", "category": "museum", "coords": [9.638412, 59.137229]}, {"name": "Grenland friteater", "text": "An independent theatre company with its own venue in Porsgrunn.", "category": "cultural", "coords": [9.642969, 59.137253]}, {"name": "Ælvespeilet", "text": "A modern cultural center and theatre by the river in Porsgrunn.", "category": "cultural", "coords": [9.655391, 59.142132]}, {"name": "Teatersalen, Porsgrunn rådhus", "text": "The theatre hall in Porsgrunn City Hall for various performances.", "category": "cultural", "coords": [9.655774, 59.141152]}, {"name": "Dansesletta", "text": "A viewpoint in Porsgrunn with views over the town and water.", "category": "natural", "coords": [9.664522, 59.151393]}, {"name": "Vestre Porsgrunn kirke", "text": "A historical wooden church in the western part of Porsgrunn.", "category": "religious", "coords": [9.641758, 59.142905]}, {"name": "Borgestad kirke", "text": "An early 20th-century brick church located in Porsgrunn.", "category": "religious", "coords": [9.657862, 59.160256]}, {"name": "Kverndammen", "text": "Kverndammen is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.", "category": "natural", "coords": [9.622317, 59.14318]}, {"name": "Norsjø", "text": "Norsjø is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.", "category": "natural", "coords": [9.362437, 59.287858]}, {"name": "Hjellevannet", "text": "Hjellevannet is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.", "category": "natural", "coords": [9.597199, 59.200984]}]},
+    id: "norway-porsgrunn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "DuVerden sjøfartsmuseum og vitensenter",
+                  "text": "Das DuVerden sjøfartsmuseum og vitenscenter ist ein interaktives Schifffahrts- und Wissenschaftszentrum in einem ehemaligen Werftgebäude in Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.637258,
+                        59.136649
+                  ]
+            },
+            {
+                  "name": "Porselensmuseet",
+                  "text": "Wer sich für lokales Handwerk interessiert, sollte das Porselensmuseet in Porsgrunn besuchen. Dieses Museum widmet sich voll und ganz der historischen Porzellanherstellung der norwegischen Stadt. Man kann dort Ausstellungsstücke betrachten, die die filigrane Kunst des Porzellans veranschaulichen.",
+                  "category": "museum",
+                  "coords": [
+                        9.639159,
+                        59.140818
+                  ]
+            },
+            {
+                  "name": "Sjøfartsmuseet",
+                  "text": "Das Sjøfartsmuseet in Porsgrunn zeigt das maritime Erbe der Region Grenland.",
+                  "category": "museum",
+                  "coords": [
+                        9.638412,
+                        59.137229
+                  ]
+            },
+            {
+                  "name": "Grenland friteater",
+                  "text": "Eine unabhängige Theatergruppe mit eigenem Spielort in Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.642969,
+                        59.137253
+                  ]
+            },
+            {
+                  "name": "Ælvespeilet",
+                  "text": "Ein modernes Kulturhaus und Theater am Fluss in Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655391,
+                        59.142132
+                  ]
+            },
+            {
+                  "name": "Teatersalen, Porsgrunn rådhus",
+                  "text": "Der Theatersaal im Rathaus von Porsgrunn für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655774,
+                        59.141152
+                  ]
+            },
+            {
+                  "name": "Dansesletta",
+                  "text": "Ein Aussichtspunkt in Porsgrunn mit Blick auf die Stadt und das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.664522,
+                        59.151393
+                  ]
+            },
+            {
+                  "name": "Vestre Porsgrunn kirke",
+                  "text": "Eine historische Holzkirche im westlichen Teil von Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.641758,
+                        59.142905
+                  ]
+            },
+            {
+                  "name": "Borgestad kirke",
+                  "text": "Eine Backsteinkirche aus dem frühen 20. Jahrhundert in Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.657862,
+                        59.160256
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "Kverndammen ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "Norsjø ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "Hjellevannet ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DuVerden sjøfartsmuseum og vitensenter",
+                  "text": "A DuVerden sjøfartsmuseum og vitensenter egy interaktív hajózási és tudományos központ egy egykori hajógyári épületben Porsgrunnban.",
+                  "category": "museum",
+                  "coords": [
+                        9.637258,
+                        59.136649
+                  ]
+            },
+            {
+                  "name": "Porselensmuseet",
+                  "text": "A helyi kézművesség iránt érdeklődők számára kihagyhatatlan a Porselensmuseet Porsgrunn városában. Ez a norvég múzeum a történelmi porcelángyártásnak szenteli kiállításait. A látogatók olyan tárgyakat tekinthetnek meg, amelyek bemutatják a finom porcelánművészetet.",
+                  "category": "museum",
+                  "coords": [
+                        9.639159,
+                        59.140818
+                  ]
+            },
+            {
+                  "name": "Sjøfartsmuseet",
+                  "text": "A porsgrunni Sjøfartsmuseet a Grenland régió tengeri örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.638412,
+                        59.137229
+                  ]
+            },
+            {
+                  "name": "Grenland friteater",
+                  "text": "Független színtársulat saját játszóhellyel Porsgrunnban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.642969,
+                        59.137253
+                  ]
+            },
+            {
+                  "name": "Ælvespeilet",
+                  "text": "Modern kulturális központ és színház a folyóparton Porsgrunnban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655391,
+                        59.142132
+                  ]
+            },
+            {
+                  "name": "Teatersalen, Porsgrunn rådhus",
+                  "text": "A porsgrunni városháza színházterme különféle előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655774,
+                        59.141152
+                  ]
+            },
+            {
+                  "name": "Dansesletta",
+                  "text": "Kilátóhely Porsgrunnban, rálátással a városra és a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        9.664522,
+                        59.151393
+                  ]
+            },
+            {
+                  "name": "Vestre Porsgrunn kirke",
+                  "text": "Történelmi fatemplom Porsgrunn nyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        9.641758,
+                        59.142905
+                  ]
+            },
+            {
+                  "name": "Borgestad kirke",
+                  "text": "20. század eleji téglaépítésű templom Porsgrunnban.",
+                  "category": "religious",
+                  "coords": [
+                        9.657862,
+                        59.160256
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "A Kverndammen egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "A Norsjø egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "A Hjellevannet egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "DuVerden sjøfartsmuseum og vitensenter",
+                  "text": "DuVerden sjøfartsmuseum og vitensenter este un centru interactiv maritim și științific într-o fostă clădire de șantier naval din Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.637258,
+                        59.136649
+                  ]
+            },
+            {
+                  "name": "Porselensmuseet",
+                  "text": "Cei interesați de meșteșugurile locale ar trebui să viziteze Porselensmuseet din Porsgrunn. Acest muzeu din Norvegia este dedicat istoriei producției de porțelan din oraș. Vizitatorii pot admira exponate care ilustrează arta delicată a porțelanului.",
+                  "category": "museum",
+                  "coords": [
+                        9.639159,
+                        59.140818
+                  ]
+            },
+            {
+                  "name": "Sjøfartsmuseet",
+                  "text": "Sjøfartsmuseet din Porsgrunn prezintă patrimoniul maritim al regiunii Grenland.",
+                  "category": "museum",
+                  "coords": [
+                        9.638412,
+                        59.137229
+                  ]
+            },
+            {
+                  "name": "Grenland friteater",
+                  "text": "O companie de teatru independentă cu propriul spațiu în Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.642969,
+                        59.137253
+                  ]
+            },
+            {
+                  "name": "Ælvespeilet",
+                  "text": "O casă de cultură modernă și teatru pe malul râului în Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655391,
+                        59.142132
+                  ]
+            },
+            {
+                  "name": "Teatersalen, Porsgrunn rådhus",
+                  "text": "Sala de teatru din primăria Porsgrunn pentru diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655774,
+                        59.141152
+                  ]
+            },
+            {
+                  "name": "Dansesletta",
+                  "text": "Un punct de belvedere în Porsgrunn cu vedere spre oraș și apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.664522,
+                        59.151393
+                  ]
+            },
+            {
+                  "name": "Vestre Porsgrunn kirke",
+                  "text": "O biserică istorică de lemn în partea de vest a orașului Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.641758,
+                        59.142905
+                  ]
+            },
+            {
+                  "name": "Borgestad kirke",
+                  "text": "O biserică de cărămidă de la începutul secolului XX în Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.657862,
+                        59.160256
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "Kverndammen este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "Norsjø este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "Hjellevannet este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "DuVerden sjøfartsmuseum og vitensenter",
+                  "text": "DuVerden sjøfartsmuseum og vitensenter is an interactive maritime and science center housed in a former shipyard building in Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.637258,
+                        59.136649
+                  ]
+            },
+            {
+                  "name": "Porselensmuseet",
+                  "text": "Those interested in local craftsmanship should visit the Porselensmuseet in Porsgrunn. This museum is entirely dedicated to the historic porcelain production of the Norwegian town. Guests can view exhibits that illustrate the delicate art of fine porcelain.",
+                  "category": "museum",
+                  "coords": [
+                        9.639159,
+                        59.140818
+                  ]
+            },
+            {
+                  "name": "Sjøfartsmuseet",
+                  "text": "Sjøfartsmuseet in Porsgrunn displays the maritime heritage of the Grenland region.",
+                  "category": "museum",
+                  "coords": [
+                        9.638412,
+                        59.137229
+                  ]
+            },
+            {
+                  "name": "Grenland friteater",
+                  "text": "An independent theatre company with its own venue in Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.642969,
+                        59.137253
+                  ]
+            },
+            {
+                  "name": "Ælvespeilet",
+                  "text": "A modern cultural center and theatre by the river in Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655391,
+                        59.142132
+                  ]
+            },
+            {
+                  "name": "Teatersalen, Porsgrunn rådhus",
+                  "text": "The theatre hall in Porsgrunn City Hall for various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655774,
+                        59.141152
+                  ]
+            },
+            {
+                  "name": "Dansesletta",
+                  "text": "A viewpoint in Porsgrunn with views over the town and water.",
+                  "category": "natural",
+                  "coords": [
+                        9.664522,
+                        59.151393
+                  ]
+            },
+            {
+                  "name": "Vestre Porsgrunn kirke",
+                  "text": "A historical wooden church in the western part of Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.641758,
+                        59.142905
+                  ]
+            },
+            {
+                  "name": "Borgestad kirke",
+                  "text": "An early 20th-century brick church located in Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.657862,
+                        59.160256
+                  ]
+            },
+            {
+                  "name": "Kverndammen",
+                  "text": "Kverndammen is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.622317,
+                        59.14318
+                  ]
+            },
+            {
+                  "name": "Norsjø",
+                  "text": "Norsjø is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.362437,
+                        59.287858
+                  ]
+            },
+            {
+                  "name": "Hjellevannet",
+                  "text": "Hjellevannet is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.597199,
+                        59.200984
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Porsgrunn", hu: "Porsgrunn", ro: "Porsgrunn", en: "Porsgrunn" },
@@ -19474,7 +19915,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Rognholmen naturreservat",
-                  "text": "Ein Naturschutzgebiet auf einer Insel bei Kragerø.",
+                  "text": "Rognholmen naturreservat ist eine geschützte Insel in Kragerø, eingerichtet 1980.",
                   "category": "natural",
                   "coords": [
                         9.449511,
@@ -19483,7 +19924,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Storkollen naturreservat",
-                  "text": "Ein Naturschutzgebiet mit Wanderwegen in Kragerø.",
+                  "text": "Storkollen naturreservat ist ein 2006 eingerichtetes Schutzgebiet in Kragerø.",
                   "category": "natural",
                   "coords": [
                         9.378034,
@@ -19492,7 +19933,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frydensborg plante- og dyrefredningsområde",
-                  "text": "Ein geschütztes Naturgebiet in Kragerø.",
+                  "text": "Frydensborg plante- og dyrefredningsområde ist ein geschütztes Naturschutzgebiet in Kragerø mit reicher Biodiversität.",
                   "category": "natural",
                   "coords": [
                         9.395359,
@@ -19501,7 +19942,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Malmhella plantefredningsområde",
-                  "text": "Ein Pflanzenschutzgebiet in Kragerø.",
+                  "text": "2006 eingerichtetes Pflanzenschutzgebiet in Kragerø.",
                   "category": "natural",
                   "coords": [
                         9.418499,
@@ -19519,7 +19960,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gunnarsholmen",
-                  "text": "Ein beliebter Strand und Erholungsort in Kragerø.",
+                  "text": "Gunnarsholmen ist eine kleine Insel in Kragerø zum Schwimmen und Sonnenbaden.",
                   "category": "recreational",
                   "coords": [
                         9.411251,
@@ -19528,7 +19969,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lindvika",
-                  "text": "Ein schöner Strandbereich in Kragerø.",
+                  "text": "Lindvika ist eine geschützte Bucht in Kragerø mit einem Sandstrand.",
                   "category": "recreational",
                   "coords": [
                         9.416313,
@@ -19537,7 +19978,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sjøbadet",
-                  "text": "Ein öffentliches Seebad und Strand in Kragerø.",
+                  "text": "Sjøbadet ist eine öffentliche Meerwasser-Badeanstalt in Kragerø.",
                   "category": "recreational",
                   "coords": [
                         9.41442,
@@ -19546,7 +19987,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vestre Stabbestad",
-                  "text": "Ein Strand im Viertel Stabbestad von Kragerø.",
+                  "text": "Vestre Stabbestad ist ein Strand auf der Westseite des Kragerø-Archipels.",
                   "category": "recreational",
                   "coords": [
                         9.389245,
@@ -19555,7 +19996,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Breibukta",
-                  "text": "Ein Strand im Schärengarten von Kragerø.",
+                  "text": "Breibukta ist eine breite, sandige Bucht in Kragerø, ideal für Familien.",
                   "category": "recreational",
                   "coords": [
                         9.371669,
@@ -19564,7 +20005,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sjøstrand",
-                  "text": "Ein küstennaher Strandbereich in Kragerø.",
+                  "text": "Sjøstrand ist ein Küstenstrandgebiet in Kragerø mit ruhigem Wasser.",
                   "category": "recreational",
                   "coords": [
                         9.382023,
@@ -19573,7 +20014,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skrubben",
-                  "text": "Ein Aussichtspunkt in Kragerø mit Blick auf den Fjord.",
+                  "text": "Skrubben ist ein felsiger Aufschluss in Kragerø mit Blick auf den Archipel.",
                   "category": "natural",
                   "coords": [
                         9.407105,
@@ -19582,7 +20023,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Veten",
-                  "text": "Ein markanter Aussichtspunkt in Kragerø.",
+                  "text": "Veten ist ein Hügel in Kragerø, Teil des Küstenwanderwegs.",
                   "category": "natural",
                   "coords": [
                         9.419205,
@@ -19591,7 +20032,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinmann",
-                  "text": "Ein Aussichtspunkt über der Stadt Kragerø.",
+                  "text": "Steinmann ist eine natürliche Felsformation, die einer menschlichen Figur ähnelt, bei Kragerø.",
                   "category": "natural",
                   "coords": [
                         9.409778,
@@ -19600,7 +20041,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Darefjell",
-                  "text": "Ein Aussichtspunkt und Wanderziel in Kragerø.",
+                  "text": "Darefjell ist ein Berg in Kragerø, bekannt für seine steilen Klippen.",
                   "category": "natural",
                   "coords": [
                         9.449321,
@@ -19609,7 +20050,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kragerø Kunstforening",
-                  "text": "Regionale Kunstgalerie und Verein in Kragerø.",
+                  "text": "Die Kragerø Kunstforening ist eine Kunstgalerie in Kragerø, die zeitgenössische norwegische Kunst zeigt.",
                   "category": "museum",
                   "coords": [
                         9.412023,
@@ -19618,7 +20059,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bjørnsborgparken",
-                  "text": "Ein öffentlicher Park und Attraktion in Kragerø.",
+                  "text": "Park mit Panoramablick auf die Schären von Kragero.",
                   "category": "landmark",
                   "coords": [
                         9.413521,
@@ -19656,7 +20097,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Rognholmen naturreservat",
-                  "text": "Természetvédelmi terület egy Kragerő melletti szigeten.",
+                  "text": "A Rognholmen naturreservat egy védett sziget Kragerøban, 1980-ban létesítve.",
                   "category": "natural",
                   "coords": [
                         9.449511,
@@ -19665,7 +20106,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Storkollen naturreservat",
-                  "text": "Természetvédelmi terület túraútvonalakkal Kragerőben.",
+                  "text": "A Storkollen naturreservat egy 2006-ban létesített védett terület Kragerøban.",
                   "category": "natural",
                   "coords": [
                         9.378034,
@@ -19674,7 +20115,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frydensborg plante- og dyrefredningsområde",
-                  "text": "Védett természeti terület Kragerőben.",
+                  "text": "A Frydensborg plante- og dyrefredningsområde egy védett természeti terület Kragerøban gazdag biodiverzitással.",
                   "category": "natural",
                   "coords": [
                         9.395359,
@@ -19683,7 +20124,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Malmhella plantefredningsområde",
-                  "text": "Növényvédelmi terület Kragerőben.",
+                  "text": "2006-ban létesített növényvédelmi terület Kragerø közelében.",
                   "category": "natural",
                   "coords": [
                         9.418499,
@@ -19701,7 +20142,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gunnarsholmen",
-                  "text": "Népszerű strand és pihenőhely Kragerőben.",
+                  "text": "A Gunnarsholmen egy kis sziget Kragerøban, úszásra és napozásra használják.",
                   "category": "recreational",
                   "coords": [
                         9.411251,
@@ -19710,7 +20151,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lindvika",
-                  "text": "Szép tengerparti rész Kragerőben.",
+                  "text": "A Lindvika egy védett öböl Kragerøban homokos tengerparttal.",
                   "category": "recreational",
                   "coords": [
                         9.416313,
@@ -19719,7 +20160,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sjøbadet",
-                  "text": "Nyilvános tengeri fürdő és strand Kragerőben.",
+                  "text": "A Sjøbadet egy nyilvános tengeri fürdőhely Kragerøban.",
                   "category": "recreational",
                   "coords": [
                         9.41442,
@@ -19728,7 +20169,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vestre Stabbestad",
-                  "text": "Strand Kragerő Stabbestad negyedében.",
+                  "text": "A Vestre Stabbestad egy strand a Kragerø-szigetvilág nyugati oldalán.",
                   "category": "recreational",
                   "coords": [
                         9.389245,
@@ -19737,7 +20178,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Breibukta",
-                  "text": "Strand a kragerői szigetvilágban.",
+                  "text": "A Breibukta egy széles, homokos öböl Kragerøban, ideális családok számára.",
                   "category": "recreational",
                   "coords": [
                         9.371669,
@@ -19746,7 +20187,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sjøstrand",
-                  "text": "Tengerparti strand Kragerőben.",
+                  "text": "A Sjøstrand egy tengerparti strandterület Kragerøban nyugodt vizekkel.",
                   "category": "recreational",
                   "coords": [
                         9.382023,
@@ -19755,7 +20196,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skrubben",
-                  "text": "Kilátóhely Kragerőben, kilátással a fjordra.",
+                  "text": "A Skrubben egy sziklás kibúvó Kragerøban, kilátással a szigetvilágra.",
                   "category": "natural",
                   "coords": [
                         9.407105,
@@ -19764,7 +20205,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Veten",
-                  "text": "Jelentős kilátóhely Kragerőben.",
+                  "text": "A Veten egy domb Kragerøban, a tengerparti túraútvonal része.",
                   "category": "natural",
                   "coords": [
                         9.419205,
@@ -19773,7 +20214,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinmann",
-                  "text": "Kilátóhely Kragerő városa felett.",
+                  "text": "A Steinmann egy természetes sziklaformáció, mely emberi alakot formáz Kragerø közelében.",
                   "category": "natural",
                   "coords": [
                         9.409778,
@@ -19782,7 +20223,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Darefjell",
-                  "text": "Kilátóhely és túracélpont Kragerőben.",
+                  "text": "A Darefjell egy hegy Kragerøban, híres meredek sziklafalairól.",
                   "category": "natural",
                   "coords": [
                         9.449321,
@@ -19791,7 +20232,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kragerø Kunstforening",
-                  "text": "Helyi művészeti galéria és egyesület Kragerőben.",
+                  "text": "A Kragerø Kunstforening egy művészeti galéria Kragerøban, kortárs norvég művészetet bemutatva.",
                   "category": "museum",
                   "coords": [
                         9.412023,
@@ -19800,7 +20241,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bjørnsborgparken",
-                  "text": "Nyilvános park és látványosság Kragerőben.",
+                  "text": "Park, amelyből panorámás kilátás nyílik Kragero szigetvilágára.",
                   "category": "landmark",
                   "coords": [
                         9.413521,
@@ -19838,7 +20279,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Rognholmen naturreservat",
-                  "text": "Rezervație naturală pe o insulă de lângă Kragerø.",
+                  "text": "Rognholmen naturreservat este o insulă protejată în Kragerø, înființată în 1980.",
                   "category": "natural",
                   "coords": [
                         9.449511,
@@ -19847,7 +20288,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Storkollen naturreservat",
-                  "text": "O rezervație naturală cu trasee de drumeție în Kragerø.",
+                  "text": "Storkollen naturreservat este o arie protejată înființată în 2006 în Kragerø.",
                   "category": "natural",
                   "coords": [
                         9.378034,
@@ -19856,7 +20297,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frydensborg plante- og dyrefredningsområde",
-                  "text": "O zonă naturală protejată în Kragerø.",
+                  "text": "Frydensborg plante- og dyrefredningsområde este o arie naturală protejată în Kragerø, cu o biodiversitate bogată.",
                   "category": "natural",
                   "coords": [
                         9.395359,
@@ -19865,7 +20306,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Malmhella plantefredningsområde",
-                  "text": "O zonă de protecție a plantelor în Kragerø.",
+                  "text": "Arie protejată de plante înființată în 2006 lângă Kragerø.",
                   "category": "natural",
                   "coords": [
                         9.418499,
@@ -19883,7 +20324,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gunnarsholmen",
-                  "text": "O plajă populară și loc de recreere în Kragerø.",
+                  "text": "Gunnarsholmen este o insulă mică în Kragerø, folosită pentru înot și plajă.",
                   "category": "recreational",
                   "coords": [
                         9.411251,
@@ -19892,7 +20333,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lindvika",
-                  "text": "O zonă de plajă frumoasă în Kragerø.",
+                  "text": "Lindvika este o cale ferită în Kragerø, cu o plajă nisipoasă.",
                   "category": "recreational",
                   "coords": [
                         9.416313,
@@ -19901,7 +20342,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sjøbadet",
-                  "text": "O baie publică marină și plajă în Kragerø.",
+                  "text": "Sjøbadet este o facilitate publică de înot în apă de mare în Kragerø.",
                   "category": "recreational",
                   "coords": [
                         9.41442,
@@ -19910,7 +20351,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vestre Stabbestad",
-                  "text": "O plajă în cartierul Stabbestad din Kragerø.",
+                  "text": "Vestre Stabbestad este o plajă pe partea de vest a arhipelagului Kragerø.",
                   "category": "recreational",
                   "coords": [
                         9.389245,
@@ -19919,7 +20360,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Breibukta",
-                  "text": "O plajă în arhipelagul Kragerø.",
+                  "text": "Breibukta este un golf larg și nisipos în Kragerø, ideal pentru familii.",
                   "category": "recreational",
                   "coords": [
                         9.371669,
@@ -19928,7 +20369,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sjøstrand",
-                  "text": "O zonă de plajă la coastă în Kragerø.",
+                  "text": "Sjøstrand este o zonă de plajă de coastă în Kragerø, cu ape liniștite.",
                   "category": "recreational",
                   "coords": [
                         9.382023,
@@ -19937,7 +20378,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skrubben",
-                  "text": "Un punct de belvedere în Kragerø cu vedere spre fjord.",
+                  "text": "Skrubben este o stâncă în Kragerø, oferind vederi asupra arhipelagului.",
                   "category": "natural",
                   "coords": [
                         9.407105,
@@ -19946,7 +20387,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Veten",
-                  "text": "Un punct de belvedere important în Kragerø.",
+                  "text": "Veten este un deal în Kragerø, parte a traseului de drumeție de coastă.",
                   "category": "natural",
                   "coords": [
                         9.419205,
@@ -19955,7 +20396,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinmann",
-                  "text": "Un punct de belvedere deasupra orașului Kragerø.",
+                  "text": "Steinmann este o formațiune stâncoasă naturală care seamănă cu o figură umană lângă Kragerø.",
                   "category": "natural",
                   "coords": [
                         9.409778,
@@ -19964,7 +20405,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Darefjell",
-                  "text": "Un punct de belvedere și destinație de drumeție în Kragerø.",
+                  "text": "Darefjell este un munte în Kragerø, cunoscut pentru stâncile sale abrupte.",
                   "category": "natural",
                   "coords": [
                         9.449321,
@@ -19973,7 +20414,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kragerø Kunstforening",
-                  "text": "Galerie de artă locală și asociație în Kragerø.",
+                  "text": "Kragerø Kunstforening este o galerie de artă în Kragerø, care prezintă artă norvegiană contemporană.",
                   "category": "museum",
                   "coords": [
                         9.412023,
@@ -19982,7 +20423,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bjørnsborgparken",
-                  "text": "Un parc public și atracție în Kragerø.",
+                  "text": "Parcul cu vedere panoramică asupra arhipelagului Kragero.",
                   "category": "landmark",
                   "coords": [
                         9.413521,
@@ -20020,7 +20461,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Rognholmen naturreservat",
-                  "text": "A nature reserve on an island near Kragerø.",
+                  "text": "Rognholmen naturreservat is a protected island area in Kragerø, established 1980.",
                   "category": "natural",
                   "coords": [
                         9.449511,
@@ -20029,7 +20470,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Storkollen naturreservat",
-                  "text": "A nature reserve with hiking trails in Kragerø.",
+                  "text": "Storkollen naturreservat is a protected area in Kragerø established in 2006.",
                   "category": "natural",
                   "coords": [
                         9.378034,
@@ -20038,7 +20479,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Frydensborg plante- og dyrefredningsområde",
-                  "text": "A protected nature area in Kragerø.",
+                  "text": "Frydensborg plante- og dyrefredningsområde is a protected nature area in Kragerø with rich biodiversity.",
                   "category": "natural",
                   "coords": [
                         9.395359,
@@ -20047,7 +20488,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Malmhella plantefredningsområde",
-                  "text": "A plant protection area in Kragerø.",
+                  "text": "Protected plant area established in 2006 near Kragerø.",
                   "category": "natural",
                   "coords": [
                         9.418499,
@@ -20065,7 +20506,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gunnarsholmen",
-                  "text": "A popular beach and recreation area in Kragerø.",
+                  "text": "Gunnarsholmen is a small island in Kragerø used for swimming and sunbathing.",
                   "category": "recreational",
                   "coords": [
                         9.411251,
@@ -20074,7 +20515,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lindvika",
-                  "text": "A scenic beach area in Kragerø.",
+                  "text": "Lindvika is a sheltered cove in Kragerø with a sandy beach.",
                   "category": "recreational",
                   "coords": [
                         9.416313,
@@ -20083,7 +20524,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sjøbadet",
-                  "text": "A public sea bath and beach in Kragerø.",
+                  "text": "Sjøbadet is a public sea-water swimming facility in Kragerø.",
                   "category": "recreational",
                   "coords": [
                         9.41442,
@@ -20092,7 +20533,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vestre Stabbestad",
-                  "text": "A beach in the Stabbestad area of Kragerø.",
+                  "text": "Vestre Stabbestad is a beach on the western side of the Kragerø archipelago.",
                   "category": "recreational",
                   "coords": [
                         9.389245,
@@ -20101,7 +20542,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Breibukta",
-                  "text": "A beach in the Kragerø archipelago.",
+                  "text": "Breibukta is a wide, sandy bay in Kragerø, ideal for families.",
                   "category": "recreational",
                   "coords": [
                         9.371669,
@@ -20110,7 +20551,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sjøstrand",
-                  "text": "A coastal beach area in Kragerø.",
+                  "text": "Sjøstrand is a coastal beach area in Kragerø with calm waters.",
                   "category": "recreational",
                   "coords": [
                         9.382023,
@@ -20119,7 +20560,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Skrubben",
-                  "text": "A viewpoint in Kragerø with views of the fjord.",
+                  "text": "Skrubben is a rocky outcrop in Kragerø offering views of the archipelago.",
                   "category": "natural",
                   "coords": [
                         9.407105,
@@ -20128,7 +20569,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Veten",
-                  "text": "A prominent viewpoint in Kragerø.",
+                  "text": "Veten is a hill in Kragerø, part of the coastal hiking trail.",
                   "category": "natural",
                   "coords": [
                         9.419205,
@@ -20137,7 +20578,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Steinmann",
-                  "text": "A viewpoint overlooking the town of Kragerø.",
+                  "text": "Steinmann is a natural rock formation resembling a human figure near Kragerø.",
                   "category": "natural",
                   "coords": [
                         9.409778,
@@ -20146,7 +20587,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Darefjell",
-                  "text": "A viewpoint and hiking destination in Kragerø.",
+                  "text": "Darefjell is a mountain in Kragerø known for its steep cliffs.",
                   "category": "natural",
                   "coords": [
                         9.449321,
@@ -20155,7 +20596,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kragerø Kunstforening",
-                  "text": "Local art gallery and association in Kragerø.",
+                  "text": "Kragerø Kunstforening is an art gallery in Kragerø showcasing contemporary Norwegian art.",
                   "category": "museum",
                   "coords": [
                         9.412023,
@@ -20164,7 +20605,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bjørnsborgparken",
-                  "text": "A public park and attraction in Kragerø.",
+                  "text": "A park with panoramic views over the Kragero skerries.",
                   "category": "landmark",
                   "coords": [
                         9.413521,
@@ -20248,7 +20689,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Risørhuset",
-                  "text": "Ein Kultur- und Theaterzentrum in Risør.",
+                  "text": "Kulturzentrum in einem historischen weißen Holzhaus in der Altstadt von Risør.",
                   "category": "cultural",
                   "coords": [
                         9.229014,
@@ -20257,7 +20698,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Risør fort",
-                  "text": "Eine ehemalige Befestigungsanlage in Risør.",
+                  "text": "Festung mit Blick auf den Archipel von Risør.",
                   "category": "fortress",
                   "coords": [
                         9.24017,
@@ -20275,7 +20716,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sagjordet badeplass",
-                  "text": "Ein öffentlicher Badestrand in Risør.",
+                  "text": "Sandstrand mit einem Sprungturm am Waldrand.",
                   "category": "recreational",
                   "coords": [
                         9.231367,
@@ -20293,7 +20734,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "HV-brakka",
-                  "text": "Ein lokales Museum in Risør, das der regionalen Geschichte gewidmet ist.",
+                  "text": "Museum in einer ehemaligen Kaserne der Heimatgarde.",
                   "category": "museum",
                   "coords": [
                         9.238216,
@@ -20311,7 +20752,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "\"Hemmeligstranda\"",
-                  "text": "Ein malerischer Küstenstrand in Risør, ideal zur Entspannung.",
+                  "text": "Abgeschiedene, felsige Bucht mit Kieselstrand.",
                   "category": "recreational",
                   "coords": [
                         9.201294,
@@ -20473,7 +20914,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Østre Randvik",
-                  "text": "Østre Randvik ist ein beliebter Badeplatz an der Küste von Risør.",
+                  "text": "Grünes Küstengebiet mit einem Spazierweg.",
                   "category": "recreational",
                   "coords": [
                         9.223161,
@@ -20482,7 +20923,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Perleporten",
-                  "text": "Perleporten ist ein kleiner Strandbereich in Risør.",
+                  "text": "Natürlicher Steinbogen am Meer.",
                   "category": "recreational",
                   "coords": [
                         9.295455,
@@ -20491,7 +20932,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kjæring-skallet",
-                  "text": "Kjæring-skallet ist ein Küstenstreifen in Risør, der zum Baden einlädt.",
+                  "text": "Glatter Felsen, der zum Sonnenbaden genutzt wird.",
                   "category": "recreational",
                   "coords": [
                         9.250139,
@@ -20520,7 +20961,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Risørhuset",
-                  "text": "Kulturális és színházi központ Risørben.",
+                  "text": "Kulturális központ egy történelmi fehér faházban Risør óvárosában.",
                   "category": "cultural",
                   "coords": [
                         9.229014,
@@ -20529,7 +20970,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Risør fort",
-                  "text": "Egykori erődítmény Risørben.",
+                  "text": "Erőd, amely Risør szigetvilágára néz.",
                   "category": "fortress",
                   "coords": [
                         9.24017,
@@ -20547,7 +20988,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sagjordet badeplass",
-                  "text": "Nyilvános fürdőstrand Risørben.",
+                  "text": "Homokos strand ugrótoronnyal az erdő szélén.",
                   "category": "recreational",
                   "coords": [
                         9.231367,
@@ -20565,7 +21006,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "HV-brakka",
-                  "text": "Risøri helyi múzeum, amely a regionális történelmet mutatja be.",
+                  "text": "Múzeum egy egykori Honi Őrség laktanyában.",
                   "category": "museum",
                   "coords": [
                         9.238216,
@@ -20583,7 +21024,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "\"Hemmeligstranda\"",
-                  "text": "Festői tengerparti strand Risørben, amely ideális a kikapcsolódásra.",
+                  "text": "Félreeső, sziklás öböl kavicsos stranddal.",
                   "category": "recreational",
                   "coords": [
                         9.201294,
@@ -20745,7 +21186,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Østre Randvik",
-                  "text": "Az Østre Randvik egy népszerű fürdőhely Risør partvidékén.",
+                  "text": "Zöld tengerparti terület sétányokkal.",
                   "category": "recreational",
                   "coords": [
                         9.223161,
@@ -20754,7 +21195,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Perleporten",
-                  "text": "A Perleporten egy kis strandterület Risør városában.",
+                  "text": "Természetes kőív a tengerparton.",
                   "category": "recreational",
                   "coords": [
                         9.295455,
@@ -20763,7 +21204,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kjæring-skallet",
-                  "text": "A Kjæring-skallet egy tengerparti szakasz Risørben, amely fürdőzésre csábít.",
+                  "text": "Sima szikla, amelyet napozásra használnak.",
                   "category": "recreational",
                   "coords": [
                         9.250139,
@@ -20792,7 +21233,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Risørhuset",
-                  "text": "Un centru cultural și de teatru în Risør.",
+                  "text": "Centru cultural într-o clădire istorică din lemn alb, în orașul vechi Risør.",
                   "category": "cultural",
                   "coords": [
                         9.229014,
@@ -20801,7 +21242,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Risør fort",
-                  "text": "O fostă fortificație în Risør.",
+                  "text": "Fortăreață cu vedere asupra arhipelagului Risør.",
                   "category": "fortress",
                   "coords": [
                         9.24017,
@@ -20819,7 +21260,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sagjordet badeplass",
-                  "text": "O plajă publică în Risør.",
+                  "text": "O plajă nisipoasă cu un turn de sărituri la marginea pădurii.",
                   "category": "recreational",
                   "coords": [
                         9.231367,
@@ -20837,7 +21278,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "HV-brakka",
-                  "text": "Un muzeu local din Risør dedicat istoriei regionale.",
+                  "text": "Muzeu într-o fostă cazarmă a Gărzii de Acasă (Heimevernet).",
                   "category": "museum",
                   "coords": [
                         9.238216,
@@ -20855,7 +21296,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "\"Hemmeligstranda\"",
-                  "text": "O plajă de coastă pitorească în Risør, ideală pentru relaxare.",
+                  "text": "Un golf retras, stâncos, cu o plajă de pietriș.",
                   "category": "recreational",
                   "coords": [
                         9.201294,
@@ -21017,7 +21458,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Østre Randvik",
-                  "text": "Østre Randvik este un loc de scăldat popular pe coasta orașului Risør.",
+                  "text": "O zonă verde de coastă cu o alee de plimbare.",
                   "category": "recreational",
                   "coords": [
                         9.223161,
@@ -21026,7 +21467,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Perleporten",
-                  "text": "Perleporten este o mică zonă de plajă în Risør.",
+                  "text": "Un arc natural de piatră lângă mare.",
                   "category": "recreational",
                   "coords": [
                         9.295455,
@@ -21035,7 +21476,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kjæring-skallet",
-                  "text": "Kjæring-skallet este o porțiune de coastă în Risør, ideală pentru scăldat.",
+                  "text": "O stâncă netedă populară pentru plajă.",
                   "category": "recreational",
                   "coords": [
                         9.250139,
@@ -21064,7 +21505,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Risørhuset",
-                  "text": "A cultural and theatre center in Risør.",
+                  "text": "A cultural centre in a historic white wooden building in Risør's old town.",
                   "category": "cultural",
                   "coords": [
                         9.229014,
@@ -21073,7 +21514,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Risør fort",
-                  "text": "A former fortification in Risør.",
+                  "text": "A fortress overlooking the Risør archipelago.",
                   "category": "fortress",
                   "coords": [
                         9.24017,
@@ -21091,7 +21532,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Sagjordet badeplass",
-                  "text": "A public swimming beach in Risør.",
+                  "text": "A sandy beach with a diving tower at the edge of the forest.",
                   "category": "recreational",
                   "coords": [
                         9.231367,
@@ -21109,7 +21550,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "HV-brakka",
-                  "text": "A local museum in Risør dedicated to regional history.",
+                  "text": "A museum housed in a former Home Guard barracks.",
                   "category": "museum",
                   "coords": [
                         9.238216,
@@ -21127,7 +21568,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "\"Hemmeligstranda\"",
-                  "text": "A scenic coastal beach in Risør ideal for relaxation.",
+                  "text": "A secluded rocky cove with a pebble beach.",
                   "category": "recreational",
                   "coords": [
                         9.201294,
@@ -21289,7 +21730,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Østre Randvik",
-                  "text": "Østre Randvik is a popular bathing spot on the coast of Risør.",
+                  "text": "A grassy coastal area with a walking path.",
                   "category": "recreational",
                   "coords": [
                         9.223161,
@@ -21298,7 +21739,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Perleporten",
-                  "text": "Perleporten is a small beach area in Risør.",
+                  "text": "A natural stone arch by the sea.",
                   "category": "recreational",
                   "coords": [
                         9.295455,
@@ -21307,7 +21748,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kjæring-skallet",
-                  "text": "Kjæring-skallet is a coastal stretch in Risør suitable for bathing.",
+                  "text": "A smooth rock slab popular for sunbathing.",
                   "category": "recreational",
                   "coords": [
                         9.250139,
@@ -21373,7 +21814,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Vennevannsliene naturreservat",
-                  "text": "Ein Waldreservat in der Nähe von Tvedestrand.",
+                  "text": "Naturschutzgebiet mit steilem Hang und einem See.",
                   "category": "natural",
                   "coords": [
                         8.896101,
@@ -21382,7 +21823,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Angelstad gård (Østre Angelstad)",
-                  "text": "Ein historischer Bauernhof und Museum in Tvedestrand.",
+                  "text": "Freilichtmuseum eines historischen Bauernhofs mit Scheune und Backhaus.",
                   "category": "museum",
                   "coords": [
                         8.921736,
@@ -21400,7 +21841,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tvedestrandfjorden",
-                  "text": "Eine malerische Bucht in Tvedestrand.",
+                  "text": "Schmaler Fjord mit steilen Klippen und einer kleinen Stadt an seinem Ende.",
                   "category": "landmark",
                   "coords": [
                         8.944467,
@@ -21427,7 +21868,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Roligheta",
-                  "text": "Historische Ruinen in der Gegend von Tvedestrand.",
+                  "text": "Historische Holzvilla aus dem 19. Jahrhundert mit großem Garten.",
                   "category": "historical",
                   "coords": [
                         8.96373,
@@ -21436,7 +21877,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tuftene",
-                  "text": "Alte Überreste und Ruinen in Tvedestrand.",
+                  "text": "Steinfundamente eines mittelalterlichen Bauernhofs.",
                   "category": "historical",
                   "coords": [
                         8.93942,
@@ -21445,7 +21886,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tveitedalen",
-                  "text": "Ruinen einer ehemaligen Siedlung in Tvedestrand.",
+                  "text": "Tal mit Überresten alter Bergbauernhöfe.",
                   "category": "historical",
                   "coords": [
                         8.934421,
@@ -21454,7 +21895,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øvre Hovrinden",
-                  "text": "Historische Ruinenstätte in der Gemeinde Tvedestrand.",
+                  "text": "Historische Hochlandweide mit Trockensteinmauern.",
                   "category": "historical",
                   "coords": [
                         8.872145,
@@ -21463,7 +21904,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øygarden",
-                  "text": "Überreste historischer Gebäude in Tvedestrand.",
+                  "text": "Historisches Fischerdorf auf einer Insel.",
                   "category": "historical",
                   "coords": [
                         8.904297,
@@ -21483,7 +21924,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Vennevannsliene naturreservat",
-                  "text": "Erdőrezervátum Tvedestrand közelében.",
+                  "text": "Természetvédelmi terület meredek hegyoldallal és tóval.",
                   "category": "natural",
                   "coords": [
                         8.896101,
@@ -21492,7 +21933,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Angelstad gård (Østre Angelstad)",
-                  "text": "Történelmi gazdaság és múzeum Tvedestrandban.",
+                  "text": "Történelmi tanya szabadtéri múzeuma istállóval és kemencesházzal.",
                   "category": "museum",
                   "coords": [
                         8.921736,
@@ -21510,7 +21951,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tvedestrandfjorden",
-                  "text": "Festői öböl Tvedestrand területén.",
+                  "text": "Keskeny fjord meredek sziklákkal és egy kisvárossal a végénél.",
                   "category": "landmark",
                   "coords": [
                         8.944467,
@@ -21537,7 +21978,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Roligheta",
-                  "text": "Történelmi romok Tvedestrand környékén.",
+                  "text": "Történelmi fából készült villa a 19. századból, nagy kerttel.",
                   "category": "historical",
                   "coords": [
                         8.96373,
@@ -21546,7 +21987,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tuftene",
-                  "text": "Régi maradványok és romok Tvedestrandban.",
+                  "text": "Egy középkori tanya kőalapzatai.",
                   "category": "historical",
                   "coords": [
                         8.93942,
@@ -21555,7 +21996,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tveitedalen",
-                  "text": "Egy egykori település romjai Tvedestrandban.",
+                  "text": "Völgy régi hegyi tanyák maradványaival.",
                   "category": "historical",
                   "coords": [
                         8.934421,
@@ -21564,7 +22005,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øvre Hovrinden",
-                  "text": "Történelmi romterület Tvedestrand községben.",
+                  "text": "Történelmi hegyi legelő szárazkőfalakkal.",
                   "category": "historical",
                   "coords": [
                         8.872145,
@@ -21573,7 +22014,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øygarden",
-                  "text": "Történelmi épületek maradványai Tvedestrandban.",
+                  "text": "Történelmi halászfalu egy szigeten.",
                   "category": "historical",
                   "coords": [
                         8.904297,
@@ -21593,7 +22034,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Vennevannsliene naturreservat",
-                  "text": "O rezervație forestieră lângă Tvedestrand.",
+                  "text": "Rezervație naturală cu o pantă abruptă și un lac.",
                   "category": "natural",
                   "coords": [
                         8.896101,
@@ -21602,7 +22043,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Angelstad gård (Østre Angelstad)",
-                  "text": "O fermă istorică și muzeu în Tvedestrand.",
+                  "text": "Muzeu în aer liber al unei ferme istorice, cu un hambar și o casă de cuptor.",
                   "category": "museum",
                   "coords": [
                         8.921736,
@@ -21620,7 +22061,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tvedestrandfjorden",
-                  "text": "Un golf pitoresc situat în Tvedestrand.",
+                  "text": "Un fiord îngust cu stânci abrupte și un orășel la capătul său.",
                   "category": "landmark",
                   "coords": [
                         8.944467,
@@ -21647,7 +22088,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Roligheta",
-                  "text": "Ruine istorice situate în zona Tvedestrand.",
+                  "text": "O vilă istorică din lemn din secolul al XIX-lea, cu o grădină mare.",
                   "category": "historical",
                   "coords": [
                         8.96373,
@@ -21656,7 +22097,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tuftene",
-                  "text": "Vestigii vechi și ruine în Tvedestrand.",
+                  "text": "Fundațiile de piatră ale unui domeniu medieval.",
                   "category": "historical",
                   "coords": [
                         8.93942,
@@ -21665,7 +22106,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tveitedalen",
-                  "text": "Ruinele unei foste așezări în Tvedestrand.",
+                  "text": "O vale cu rămășițe ale unor ferme montane vechi.",
                   "category": "historical",
                   "coords": [
                         8.934421,
@@ -21674,7 +22115,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øvre Hovrinden",
-                  "text": "Situl unor ruine istorice în comuna Tvedestrand.",
+                  "text": "O pășune istorică de munte cu ziduri de piatră uscată.",
                   "category": "historical",
                   "coords": [
                         8.872145,
@@ -21683,7 +22124,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øygarden",
-                  "text": "Rămășițe ale unor clădiri istorice în Tvedestrand.",
+                  "text": "Un sat pescăresc istoric pe o insulă.",
                   "category": "historical",
                   "coords": [
                         8.904297,
@@ -21703,7 +22144,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Vennevannsliene naturreservat",
-                  "text": "A forest reserve located near Tvedestrand.",
+                  "text": "A nature reserve with a steep hillside and a lake.",
                   "category": "natural",
                   "coords": [
                         8.896101,
@@ -21712,7 +22153,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Angelstad gård (Østre Angelstad)",
-                  "text": "A historical farm and museum in Tvedestrand.",
+                  "text": "A historic farmstead museum with a barn and a bakehouse.",
                   "category": "museum",
                   "coords": [
                         8.921736,
@@ -21730,7 +22171,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tvedestrandfjorden",
-                  "text": "A scenic bay located in Tvedestrand.",
+                  "text": "A narrow fjord with steep cliffs and a small town at its head.",
                   "category": "landmark",
                   "coords": [
                         8.944467,
@@ -21757,7 +22198,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Roligheta",
-                  "text": "Historical ruins located in the area of Tvedestrand.",
+                  "text": "A historic wooden villa from the 1800s with a large garden.",
                   "category": "historical",
                   "coords": [
                         8.96373,
@@ -21766,7 +22207,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tuftene",
-                  "text": "Old remains and ruins in Tvedestrand.",
+                  "text": "The stone foundations of a medieval farmstead.",
                   "category": "historical",
                   "coords": [
                         8.93942,
@@ -21775,7 +22216,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Tveitedalen",
-                  "text": "Ruins of a former settlement in Tvedestrand.",
+                  "text": "A valley with remains of old mountain farms.",
                   "category": "historical",
                   "coords": [
                         8.934421,
@@ -21784,7 +22225,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øvre Hovrinden",
-                  "text": "Historical ruins site in the Tvedestrand municipality.",
+                  "text": "A historic upland pasture with drystone walls.",
                   "category": "historical",
                   "coords": [
                         8.872145,
@@ -21793,7 +22234,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Øygarden",
-                  "text": "Remains of historical buildings in Tvedestrand.",
+                  "text": "A historic fishing village on an island.",
                   "category": "historical",
                   "coords": [
                         8.904297,
@@ -21868,7 +22309,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reddalsvannet",
-                  "text": "Der Reddalsvannet ist ein See in Grimstad, der eine malerische Umgebung bietet.",
+                  "text": "See umgeben von Wald und Wanderwegen.",
                   "category": "natural",
                   "coords": [
                         8.46481,
@@ -22012,7 +22453,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Morvigsanden",
-                  "text": "Morvigsanden ist ein Strand in Grimstad.",
+                  "text": "Sandstrand mit einer Mole.",
                   "category": "recreational",
                   "coords": [
                         8.545793,
@@ -22021,7 +22462,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bystranda",
-                  "text": "Bystranda ist ein Strand in Grimstad.",
+                  "text": "Hauptstrand von Grimstad im Stadtzentrum.",
                   "category": "recreational",
                   "coords": [
                         8.593781,
@@ -22030,7 +22471,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Groos",
-                  "text": "Groos ist ein Strand in Grimstad.",
+                  "text": "Langer Sandstrand mit Dünen.",
                   "category": "recreational",
                   "coords": [
                         8.581549,
@@ -22039,7 +22480,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Osterkilen",
-                  "text": "Osterkilen ist ein Strand in Grimstad.",
+                  "text": "Geschützte Bucht mit grasbewachsenem Ufer zum Baden.",
                   "category": "recreational",
                   "coords": [
                         8.61354,
@@ -22048,7 +22489,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Roresanden",
-                  "text": "Roresanden ist ein Strand in Grimstad.",
+                  "text": "Sandstrand mit Blick auf die vorgelagerten Inseln.",
                   "category": "recreational",
                   "coords": [
                         8.539483,
@@ -22068,7 +22509,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reddalsvannet",
-                  "text": "A Reddalsvannet egy tó Grimstad területén, amely festői környezetet kínál.",
+                  "text": "Tó erdővel és túraútvonalakkal körülvéve.",
                   "category": "natural",
                   "coords": [
                         8.46481,
@@ -22212,7 +22653,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Morvigsanden",
-                  "text": "Morvigsanden egy strand Grimstad területén.",
+                  "text": "Homokos strand mólóval.",
                   "category": "recreational",
                   "coords": [
                         8.545793,
@@ -22221,7 +22662,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bystranda",
-                  "text": "Bystranda egy strand Grimstad területén.",
+                  "text": "Grimstad fő strandja a városközpontban.",
                   "category": "recreational",
                   "coords": [
                         8.593781,
@@ -22230,7 +22671,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Groos",
-                  "text": "Groos egy strand Grimstad területén.",
+                  "text": "Hosszú homokos strand dűnékkel.",
                   "category": "recreational",
                   "coords": [
                         8.581549,
@@ -22239,7 +22680,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Osterkilen",
-                  "text": "Osterkilen egy strand Grimstad területén.",
+                  "text": "Védett öböl füves parttal fürdőzéshez.",
                   "category": "recreational",
                   "coords": [
                         8.61354,
@@ -22248,7 +22689,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Roresanden",
-                  "text": "Roresanden egy strand Grimstad területén.",
+                  "text": "Homokos strand kilátással a közeli szigetekre.",
                   "category": "recreational",
                   "coords": [
                         8.539483,
@@ -22268,7 +22709,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reddalsvannet",
-                  "text": "Reddalsvannet este un lac din Grimstad care oferă un mediu pitoresc.",
+                  "text": "Un lac înconjurat de pădure și trasee de drumeție.",
                   "category": "natural",
                   "coords": [
                         8.46481,
@@ -22412,7 +22853,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Morvigsanden",
-                  "text": "Morvigsanden este o plajă în Grimstad.",
+                  "text": "O plajă nisipoasă cu un dig.",
                   "category": "recreational",
                   "coords": [
                         8.545793,
@@ -22421,7 +22862,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bystranda",
-                  "text": "Bystranda este o plajă în Grimstad.",
+                  "text": "Plaja principală a orașului Grimstad, în centrul orașului.",
                   "category": "recreational",
                   "coords": [
                         8.593781,
@@ -22430,7 +22871,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Groos",
-                  "text": "Groos este o plajă în Grimstad.",
+                  "text": "O plajă lungă nisipoasă cu dune.",
                   "category": "recreational",
                   "coords": [
                         8.581549,
@@ -22439,7 +22880,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Osterkilen",
-                  "text": "Osterkilen este o plajă în Grimstad.",
+                  "text": "Un golf adăpostit cu un mal ierbos pentru înot.",
                   "category": "recreational",
                   "coords": [
                         8.61354,
@@ -22448,7 +22889,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Roresanden",
-                  "text": "Roresanden este o plajă în Grimstad.",
+                  "text": "O plajă nisipoasă cu vedere la insulele din larg.",
                   "category": "recreational",
                   "coords": [
                         8.539483,
@@ -22468,7 +22909,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reddalsvannet",
-                  "text": "Reddalsvannet is a lake in Grimstad that offers a scenic environment.",
+                  "text": "A lake surrounded by forest and hiking trails.",
                   "category": "natural",
                   "coords": [
                         8.46481,
@@ -22612,7 +23053,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Morvigsanden",
-                  "text": "Morvigsanden is a beach in Grimstad.",
+                  "text": "A sandy beach with a pier.",
                   "category": "recreational",
                   "coords": [
                         8.545793,
@@ -22621,7 +23062,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Bystranda",
-                  "text": "Bystranda is a beach in Grimstad.",
+                  "text": "The main town beach in Grimstad city centre.",
                   "category": "recreational",
                   "coords": [
                         8.593781,
@@ -22630,7 +23071,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Groos",
-                  "text": "Groos is a beach in Grimstad.",
+                  "text": "A long sandy beach with dunes.",
                   "category": "recreational",
                   "coords": [
                         8.581549,
@@ -22639,7 +23080,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Osterkilen",
-                  "text": "Osterkilen is a beach in Grimstad.",
+                  "text": "A sheltered swimming cove with a grassy shore.",
                   "category": "recreational",
                   "coords": [
                         8.61354,
@@ -22648,7 +23089,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Roresanden",
-                  "text": "Roresanden is a beach in Grimstad.",
+                  "text": "A sandy beach with a view of the offshore islands.",
                   "category": "recreational",
                   "coords": [
                         8.539483,
@@ -23353,7 +23794,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Vigeland Hus",
-                  "text": "Museum in Mandal im Geburtshaus der Brüder Vigeland.",
+                  "text": "Museum im Geburtshaus des Bildhauers Gustav Vigeland in Mandal.",
                   "category": "museum",
                   "coords": [
                         7.449547,
@@ -23362,7 +23803,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hattholmen fyr",
-                  "text": "Ein Leuchtturm auf einer Insel bei Mandal.",
+                  "text": "Leuchtturm auf der Insel Hattholmen vor Mandal.",
                   "category": "landmark",
                   "coords": [
                         7.449464,
@@ -23389,7 +23830,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Landehobde fort",
-                  "text": "Das Fort Landehobde ist eine historische Küstenbefestigungsanlage in der Nähe von Mandal.",
+                  "text": "Befestigungsanlage auf einer felsigen Landspitze.",
                   "category": "fortress",
                   "coords": [
                         7.418633,
@@ -23398,7 +23839,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ime batteri",
-                  "text": "Ime batteri ist eine ehemalige militärische Anlage und ein Aussichtspunkt in Mandal.",
+                  "text": "Ehemalige Küstenbatterie mit Betonbunkern.",
                   "category": "fortress",
                   "coords": [
                         7.490192,
@@ -23443,7 +23884,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillebanken",
-                  "text": "Lillebanken ist ein familienfreundlicher Strandabschnitt in der Nähe von Mandal.",
+                  "text": "Kleiner Sandstrand in einer ruhigen Bucht.",
                   "category": "recreational",
                   "coords": [
                         7.430249,
@@ -23497,7 +23938,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Landehobde",
-                  "text": "Landehobde ist ein markanter Aussichtspunkt an der Küste von Mandal.",
+                  "text": "Rauer Landvorsprung mit Heidebewuchs.",
                   "category": "natural",
                   "coords": [
                         7.419753,
@@ -23515,7 +23956,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kua",
-                  "text": "Kua ist ein Aussichtspunkt in Mandal, bekannt für seinen Blick auf die Schärenküste.",
+                  "text": "Felsformation, die an eine Kuh erinnert.",
                   "category": "natural",
                   "coords": [
                         7.487048,
@@ -23571,7 +24012,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Vigeland Hus",
-                  "text": "Múzeum Mandalban, a Vigeland fivérek szülőházában.",
+                  "text": "Múzeum Gustav Vigeland szobrász szülőházában Mandalban.",
                   "category": "museum",
                   "coords": [
                         7.449547,
@@ -23580,7 +24021,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hattholmen fyr",
-                  "text": "Világítótorony egy Mandal melletti szigeten.",
+                  "text": "Világítótorony a Hattholmen-szigeten Mandal közelében.",
                   "category": "landmark",
                   "coords": [
                         7.449464,
@@ -23607,7 +24048,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Landehobde fort",
-                  "text": "A Landehobde erőd egy történelmi partmenti erődítmény Mandal közelében.",
+                  "text": "Erődítmény egy sziklás félszigeten.",
                   "category": "fortress",
                   "coords": [
                         7.418633,
@@ -23616,7 +24057,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ime batteri",
-                  "text": "Az Ime batteri egy egykori katonai létesítmény és kilátóhely Mandalban.",
+                  "text": "Egykori tengerparti üteg betonbunkerekkel.",
                   "category": "fortress",
                   "coords": [
                         7.490192,
@@ -23661,7 +24102,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillebanken",
-                  "text": "A Lillebanken egy családbarát strand Mandal közelében.",
+                  "text": "Kis homokos strand egy csendes öbölben.",
                   "category": "recreational",
                   "coords": [
                         7.430249,
@@ -23715,7 +24156,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Landehobde",
-                  "text": "A Landehobde egy jellegzetes kilátóhely Mandal partjainál.",
+                  "text": "Zord földnyelv hangafélékkel.",
                   "category": "natural",
                   "coords": [
                         7.419753,
@@ -23733,7 +24174,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kua",
-                  "text": "A Kua egy kilátóhely Mandalban, amely a szigetvilágra nyíló kilátásáról ismert.",
+                  "text": "Tehénre emlékeztető sziklaformáció.",
                   "category": "natural",
                   "coords": [
                         7.487048,
@@ -23789,7 +24230,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Vigeland Hus",
-                  "text": "Muzeu în Mandal situat în casa natală a fraților Vigeland.",
+                  "text": "Muzeu în casa natală a sculptorului Gustav Vigeland din Mandal.",
                   "category": "museum",
                   "coords": [
                         7.449547,
@@ -23798,7 +24239,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hattholmen fyr",
-                  "text": "Un far pe o insulă de lângă Mandal.",
+                  "text": "Far pe insula Hattholmen, lângă Mandal.",
                   "category": "landmark",
                   "coords": [
                         7.449464,
@@ -23825,7 +24266,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Landehobde fort",
-                  "text": "Fortăreața Landehobde este o fortificație de coastă istorică situată lângă Mandal.",
+                  "text": "O fortificație pe un promontoriu stâncos.",
                   "category": "fortress",
                   "coords": [
                         7.418633,
@@ -23834,7 +24275,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ime batteri",
-                  "text": "Ime batteri este o fostă instalație militară și un punct de belvedere în Mandal.",
+                  "text": "O fostă baterie de coastă cu buncăre de beton.",
                   "category": "fortress",
                   "coords": [
                         7.490192,
@@ -23879,7 +24320,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillebanken",
-                  "text": "Lillebanken este o secțiune de plajă potrivită pentru familii, situată lângă Mandal.",
+                  "text": "O plajă mică nisipoasă într-un golf liniștit.",
                   "category": "recreational",
                   "coords": [
                         7.430249,
@@ -23933,7 +24374,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Landehobde",
-                  "text": "Landehobde este un punct de belvedere distinctiv pe coasta din Mandal.",
+                  "text": "Un cap stâncos cu vegetație de mlaștină.",
                   "category": "natural",
                   "coords": [
                         7.419753,
@@ -23951,7 +24392,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kua",
-                  "text": "Kua este un punct de belvedere în Mandal, cunoscut pentru vederea asupra coastei cu insulițe.",
+                  "text": "O formațiune stâncoasă care seamănă cu o vacă.",
                   "category": "natural",
                   "coords": [
                         7.487048,
@@ -24007,7 +24448,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Vigeland Hus",
-                  "text": "Museum in Mandal located in the childhood home of the Vigeland brothers.",
+                  "text": "Museum in the childhood home of sculptor Gustav Vigeland in Mandal.",
                   "category": "museum",
                   "coords": [
                         7.449547,
@@ -24016,7 +24457,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Hattholmen fyr",
-                  "text": "A lighthouse on an island near Mandal.",
+                  "text": "Lighthouse on Hattholmen island off Mandal.",
                   "category": "landmark",
                   "coords": [
                         7.449464,
@@ -24043,7 +24484,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Landehobde fort",
-                  "text": "Landehobde fort is a historic coastal fortification located near Mandal.",
+                  "text": "A fortification on a rocky promontory.",
                   "category": "fortress",
                   "coords": [
                         7.418633,
@@ -24052,7 +24493,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ime batteri",
-                  "text": "Ime batteri is a former military installation and viewpoint in Mandal.",
+                  "text": "A former coastal artillery battery with concrete bunkers.",
                   "category": "fortress",
                   "coords": [
                         7.490192,
@@ -24097,7 +24538,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Lillebanken",
-                  "text": "Lillebanken is a family-friendly beach section located near Mandal.",
+                  "text": "A small sandy beach in a quiet cove.",
                   "category": "recreational",
                   "coords": [
                         7.430249,
@@ -24151,7 +24592,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Landehobde",
-                  "text": "Landehobde is a prominent viewpoint on the coast of Mandal.",
+                  "text": "A rugged headland with heathland vegetation.",
                   "category": "natural",
                   "coords": [
                         7.419753,
@@ -24169,7 +24610,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Kua",
-                  "text": "Kua is a viewpoint in Mandal known for its views of the skerries.",
+                  "text": "A distinctive rock formation resembling a cow.",
                   "category": "natural",
                   "coords": [
                         7.487048,
@@ -24523,7 +24964,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjestheim",
-                  "text": "Ein lokales Museum in Sogndal, das sich mit der Kulturgeschichte befasst.",
+                  "text": "Museum in einem historischen Gasthaus aus dem 19. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         7.103005,
@@ -24532,7 +24973,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Norafjorden",
-                  "text": "Ein Seitenarm des Sognefjords, der durch Sogndal fließt.",
+                  "text": "Seitenarm des Sognefjords mit steilen Bergflanken.",
                   "category": "landmark",
                   "coords": [
                         7.060615,
@@ -24541,7 +24982,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Barsnesfjorden",
-                  "text": "Ein malerischer Fjordarm in der Nähe von Sogndal.",
+                  "text": "Fjordarm mit dem Dorf Barsnes an seinem Ufer.",
                   "category": "landmark",
                   "coords": [
                         7.144519,
@@ -24550,7 +24991,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Eidsfjorden",
-                  "text": "Ein ruhiger Fjordabschnitt in der Gemeinde Sogndal.",
+                  "text": "Fjord, der in der Nähe des Dorfes Eide an den Haupt-Sognefjord anschließt.",
                   "category": "landmark",
                   "coords": [
                         7.140712,
@@ -24615,7 +25056,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjestheim",
-                  "text": "Helyi múzeum Sogndalban, amely a kultúrtörténettel foglalkozik.",
+                  "text": "Múzeum egy 19. századi történelmi vendégházban.",
                   "category": "museum",
                   "coords": [
                         7.103005,
@@ -24624,7 +25065,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Norafjorden",
-                  "text": "A Sogne-fjord egyik ága, amely Sogndalon keresztül folyik.",
+                  "text": "A Sognefjord oldalága meredek hegyoldalakkal.",
                   "category": "landmark",
                   "coords": [
                         7.060615,
@@ -24633,7 +25074,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Barsnesfjorden",
-                  "text": "Festői fjordág Sogndal közelében.",
+                  "text": "Fjordág a partján fekvő Barsnes faluval.",
                   "category": "landmark",
                   "coords": [
                         7.144519,
@@ -24642,7 +25083,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Eidsfjorden",
-                  "text": "Nyugodt fjordszakasz Sogndal községben.",
+                  "text": "Fjord, amely Eide falu közelében csatlakozik a fő Sognefjordhoz.",
                   "category": "landmark",
                   "coords": [
                         7.140712,
@@ -24707,7 +25148,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjestheim",
-                  "text": "Un muzeu local din Sogndal dedicat istoriei culturale.",
+                  "text": "Muzeu într-o casă de oaspeți istorică din secolul al XIX-lea.",
                   "category": "museum",
                   "coords": [
                         7.103005,
@@ -24716,7 +25157,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Norafjorden",
-                  "text": "Un braț al Sognefjordului care trece prin Sogndal.",
+                  "text": "Un braț lateral al fiordului Sognefjord cu versanți abrupți.",
                   "category": "landmark",
                   "coords": [
                         7.060615,
@@ -24725,7 +25166,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Barsnesfjorden",
-                  "text": "O ramificație pitorească a fjordului lângă Sogndal.",
+                  "text": "Un braț de fiord cu satul Barsnes pe malul său.",
                   "category": "landmark",
                   "coords": [
                         7.144519,
@@ -24734,7 +25175,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Eidsfjorden",
-                  "text": "O secțiune liniștită de fjord în comuna Sogndal.",
+                  "text": "Un fiord care se leagă de fiordul principal Sognefjord lângă satul Eide.",
                   "category": "landmark",
                   "coords": [
                         7.140712,
@@ -24799,7 +25240,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gjestheim",
-                  "text": "A local museum in Sogndal focused on cultural history.",
+                  "text": "A museum in a historic 19th-century guesthouse.",
                   "category": "museum",
                   "coords": [
                         7.103005,
@@ -24808,7 +25249,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Norafjorden",
-                  "text": "A branch of the Sognefjord that flows through Sogndal.",
+                  "text": "A side arm of the Sognefjord with steep mountainsides.",
                   "category": "landmark",
                   "coords": [
                         7.060615,
@@ -24817,7 +25258,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Barsnesfjorden",
-                  "text": "A scenic fjord branch near Sogndal.",
+                  "text": "A fjord arm with the village of Barsnes on its shore.",
                   "category": "landmark",
                   "coords": [
                         7.144519,
@@ -24826,7 +25267,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Eidsfjorden",
-                  "text": "A quiet section of fjord in the Sogndal municipality.",
+                  "text": "A fjord connecting to the main Sognefjord near the village of Eide.",
                   "category": "landmark",
                   "coords": [
                         7.140712,
@@ -24919,7 +25360,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Stryn symjehall",
-                  "text": "Ein öffentliches Hallenbad in Stryn.",
+                  "text": "Moderne Hallenbad mit einer Wasserrutsche.",
                   "category": "recreational",
                   "coords": [
                         6.718435,
@@ -24930,7 +25371,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Stryn symjehall",
-                  "text": "Nyilvános fedett uszoda Strynben.",
+                  "text": "Modern fedett uszoda csúszdával.",
                   "category": "recreational",
                   "coords": [
                         6.718435,
@@ -24941,7 +25382,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Stryn symjehall",
-                  "text": "O piscină publică interioară situată în Stryn.",
+                  "text": "Un bazin modern acoperit cu un tobogan de apă.",
                   "category": "recreational",
                   "coords": [
                         6.718435,
@@ -24952,7 +25393,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Stryn symjehall",
-                  "text": "A public indoor swimming pool located in Stryn.",
+                  "text": "A modern indoor swimming pool with a waterslide.",
                   "category": "recreational",
                   "coords": [
                         6.718435,
@@ -25621,7 +26062,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tistreivatnet",
-                  "text": "Der Tistreivatnet ist ein See in Karmøy, der eine friedliche Atmosphäre in der Natur bietet.",
+                  "text": "Kleiner See umgeben von Ackerland.",
                   "category": "natural",
                   "coords": [
                         5.254397,
@@ -25630,7 +26071,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Søre Brekkevatnet",
-                  "text": "Der Søre Brekkevatnet ist ein See in Karmøy, ideal für Entspannung am Wasser.",
+                  "text": "See mit sumpfigem Ufer.",
                   "category": "natural",
                   "coords": [
                         5.262516,
@@ -25648,7 +26089,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ytra Holmavatnet",
-                  "text": "Der Ytra Holmavatnet ist ein See in Karmøy, eingebettet in die Küstenlandschaft.",
+                  "text": "See nahe der Küste mit Schilfgürtel.",
                   "category": "natural",
                   "coords": [
                         5.235089,
@@ -25657,7 +26098,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reiarsvatnet",
-                  "text": "Der Reiarsvatnet ist ein See in Karmøy, der eine naturnahe Kulisse bietet.",
+                  "text": "See mit einer kleinen Insel.",
                   "category": "natural",
                   "coords": [
                         5.299904,
@@ -25675,7 +26116,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Midtra Fotvatnet",
-                  "text": "Der Midtra Fotvatnet ist ein See in Karmøy, der zur Erholung im Freien einlädt.",
+                  "text": "See in einer Heidelandschaft.",
                   "category": "natural",
                   "coords": [
                         5.283497,
@@ -25684,7 +26125,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Stora Fotvatnet",
-                  "text": "Der Stora Fotvatnet ist ein See in Karmøy, bekannt für seine ruhige Naturlandschaft.",
+                  "text": "Der größte See der Fotvatnet-Seengruppe.",
                   "category": "natural",
                   "coords": [
                         5.277389,
@@ -25713,7 +26154,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tistreivatnet",
-                  "text": "A Tistreivatnet egy tó Karmøy területén, amely békés természeti légkört kínál.",
+                  "text": "Kis tó mezőgazdasági területtel körülvéve.",
                   "category": "natural",
                   "coords": [
                         5.254397,
@@ -25722,7 +26163,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Søre Brekkevatnet",
-                  "text": "A Søre Brekkevatnet egy tó Karmøy területén, ideális a vízparti kikapcsolódáshoz.",
+                  "text": "Tó mocsaras parttal.",
                   "category": "natural",
                   "coords": [
                         5.262516,
@@ -25740,7 +26181,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ytra Holmavatnet",
-                  "text": "Az Ytra Holmavatnet egy tó Karmøy területén, a tengerparti tájba ágyazva.",
+                  "text": "Tó a part közelében nádassal.",
                   "category": "natural",
                   "coords": [
                         5.235089,
@@ -25749,7 +26190,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reiarsvatnet",
-                  "text": "A Reiarsvatnet egy tó Karmøy területén, amely természetközeli környezetet kínál.",
+                  "text": "Tó egy kis szigettel.",
                   "category": "natural",
                   "coords": [
                         5.299904,
@@ -25767,7 +26208,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Midtra Fotvatnet",
-                  "text": "A Midtra Fotvatnet egy tó Karmøy területén, amely szabadtéri kikapcsolódásra hív.",
+                  "text": "Tó egy hangafüves területen.",
                   "category": "natural",
                   "coords": [
                         5.283497,
@@ -25776,7 +26217,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Stora Fotvatnet",
-                  "text": "A Stora Fotvatnet egy tó Karmøy területén, amely nyugodt természeti tájáról ismert.",
+                  "text": "A Fotvatnet-tócsoport legnagyobb tava.",
                   "category": "natural",
                   "coords": [
                         5.277389,
@@ -25805,7 +26246,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tistreivatnet",
-                  "text": "Tistreivatnet este un lac din Karmøy care oferă o atmosferă pașnică în natură.",
+                  "text": "Un lac mic înconjurat de terenuri agricole.",
                   "category": "natural",
                   "coords": [
                         5.254397,
@@ -25814,7 +26255,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Søre Brekkevatnet",
-                  "text": "Søre Brekkevatnet este un lac din Karmøy, ideal pentru relaxare pe malul apei.",
+                  "text": "Un lac cu mal mlăștinos.",
                   "category": "natural",
                   "coords": [
                         5.262516,
@@ -25832,7 +26273,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ytra Holmavatnet",
-                  "text": "Ytra Holmavatnet este un lac din Karmøy, integrat în peisajul de coastă.",
+                  "text": "Un lac lângă coastă cu stufăriș.",
                   "category": "natural",
                   "coords": [
                         5.235089,
@@ -25841,7 +26282,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reiarsvatnet",
-                  "text": "Reiarsvatnet este un lac din Karmøy care oferă un cadru natural.",
+                  "text": "Un lac cu o insulă mică.",
                   "category": "natural",
                   "coords": [
                         5.299904,
@@ -25859,7 +26300,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Midtra Fotvatnet",
-                  "text": "Midtra Fotvatnet este un lac din Karmøy care invită la recreere în aer liber.",
+                  "text": "Un lac într-o zonă de mlaștină.",
                   "category": "natural",
                   "coords": [
                         5.283497,
@@ -25868,7 +26309,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Stora Fotvatnet",
-                  "text": "Stora Fotvatnet este un lac din Karmøy, cunoscut pentru peisajul său natural liniștit.",
+                  "text": "Cel mai mare lac din grupul de lacuri Fotvatnet.",
                   "category": "natural",
                   "coords": [
                         5.277389,
@@ -25897,7 +26338,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tistreivatnet",
-                  "text": "Tistreivatnet is a lake in Karmøy that offers a peaceful natural atmosphere.",
+                  "text": "A small lake surrounded by farmland.",
                   "category": "natural",
                   "coords": [
                         5.254397,
@@ -25906,7 +26347,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Søre Brekkevatnet",
-                  "text": "Søre Brekkevatnet is a lake in Karmøy, ideal for relaxation by the water.",
+                  "text": "A lake with a boggy shoreline.",
                   "category": "natural",
                   "coords": [
                         5.262516,
@@ -25924,7 +26365,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Ytra Holmavatnet",
-                  "text": "Ytra Holmavatnet is a lake in Karmøy, nestled in the coastal landscape.",
+                  "text": "A lake near the coast with reeds.",
                   "category": "natural",
                   "coords": [
                         5.235089,
@@ -25933,7 +26374,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Reiarsvatnet",
-                  "text": "Reiarsvatnet is a lake in Karmøy that offers a natural setting.",
+                  "text": "A lake with a small island.",
                   "category": "natural",
                   "coords": [
                         5.299904,
@@ -25951,7 +26392,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Midtra Fotvatnet",
-                  "text": "Midtra Fotvatnet is a lake in Karmøy that invites outdoor recreation.",
+                  "text": "A lake in a heathland area.",
                   "category": "natural",
                   "coords": [
                         5.283497,
@@ -25960,7 +26401,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Stora Fotvatnet",
-                  "text": "Stora Fotvatnet is a lake in Karmøy, known for its peaceful natural landscape.",
+                  "text": "The largest lake in the Fotvatnet lake group.",
                   "category": "natural",
                   "coords": [
                         5.277389,
@@ -26476,7 +26917,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Egersund fort",
-                  "text": "Das Fort Egersund ist eine historische Verteidigungsanlage auf der Insel Eigerøy.",
+                  "text": "Festung auf einer Klippe mit Blick auf die Nordsee.",
                   "category": "fortress",
                   "coords": [
                         5.904045,
@@ -26496,7 +26937,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Egersund fort",
-                  "text": "Az Egersund erőd egy történelmi védmű Eigerøy szigetén.",
+                  "text": "Erőd egy sziklán, ahol rálátni az Északi-tengerre.",
                   "category": "fortress",
                   "coords": [
                         5.904045,
@@ -26516,7 +26957,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Egersund fort",
-                  "text": "Fortăreața Egersund este o fortificație istorică pe insula Eigerøy.",
+                  "text": "O fortăreață pe o stâncă ce domină Marea Nordului.",
                   "category": "fortress",
                   "coords": [
                         5.904045,
@@ -26536,7 +26977,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Egersund fort",
-                  "text": "Egersund fort is a historic defense site on the island of Eigerøy.",
+                  "text": "A fortress on a cliff overlooking the North Sea.",
                   "category": "fortress",
                   "coords": [
                         5.904045,
@@ -27079,7 +27520,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Linemyra naturreservat",
-                  "text": "Ein geschütztes Feuchtgebiet und Naturschutzgebiet in Bryne.",
+                  "text": "Das Linemyra-Naturschutzgebiet ist ein Moorgebiet bei Bryne.",
                   "category": "natural",
                   "coords": [
                         5.638517,
@@ -27162,7 +27603,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Linemyra naturreservat",
-                  "text": "Védett mocsaras terület és természetvédelmi övezet Bryne-ben.",
+                  "text": "A Linemyra természetvédelmi terület egy mocsárvidék Bryne közelében.",
                   "category": "natural",
                   "coords": [
                         5.638517,
@@ -27245,7 +27686,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Linemyra naturreservat",
-                  "text": "O zonă umedă protejată și rezervație naturală în Bryne.",
+                  "text": "Rezervația naturală Linemyra este o zonă de mlaștină lângă Bryne.",
                   "category": "natural",
                   "coords": [
                         5.638517,
@@ -27328,7 +27769,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Linemyra naturreservat",
-                  "text": "A protected wetland and nature reserve in Bryne.",
+                  "text": "Linemyra nature reserve is a bog area near Bryne.",
                   "category": "natural",
                   "coords": [
                         5.638517,
@@ -28312,7 +28753,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Grav haug/minne bronsealder",
-                  "text": "Ein Grabhügel aus der Bronzezeit in Randaberg.",
+                  "text": "Der bronzezeitliche Grabhügel 'Grav haug/minne bronsealder' in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.595879,
@@ -28330,7 +28771,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Goaskipreid naust (not visible)",
-                  "text": "Standort eines ehemaligen Bootshauses aus der Eisenzeit in Randaberg.",
+                  "text": "Das historische Bootshaus Goaskipreid naust (nicht sichtbar) in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.60848,
@@ -28339,7 +28780,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Einarsvarden",
-                  "text": "Ein lokaler Orientierungspunkt oder Denkmal in Randaberg.",
+                  "text": "Der Landmarkstein Einarsvarden in Randaberg.",
                   "category": "landmark",
                   "coords": [
                         5.565492,
@@ -28348,7 +28789,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "WWII German gun site",
-                  "text": "Überreste einer deutschen Geschützstellung aus dem Zweiten Weltkrieg in Randaberg.",
+                  "text": "Die deutsche Geschützstellung aus dem Zweiten Weltkrieg in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.601973,
@@ -28357,7 +28798,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gamle naust",
-                  "text": "Ruinen alter Bootshäuser an der Küste von Randaberg.",
+                  "text": "Das alte Bootshaus Gamle naust in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.565827,
@@ -28384,7 +28825,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vistekirken middelalder",
-                  "text": "Ruinen einer mittelalterlichen Kirche in Randaberg.",
+                  "text": "Die mittelalterliche Kirche Vistekirken in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.592762,
@@ -28548,7 +28989,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Grav haug/minne bronsealder",
-                  "text": "Bronzkori sírhalom Randaberg területén.",
+                  "text": "A bronzkori sírhalom 'Grav haug/minne bronsealder' Randabergben.",
                   "category": "historical",
                   "coords": [
                         5.595879,
@@ -28566,7 +29007,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Goaskipreid naust (not visible)",
-                  "text": "Egy vaskori csónakház egykori helyszíne Randabergben.",
+                  "text": "A történelmi csónakház Goaskipreid naust (nem látható) Randabergben.",
                   "category": "historical",
                   "coords": [
                         5.60848,
@@ -28575,7 +29016,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Einarsvarden",
-                  "text": "Helyi tájékozódási pont vagy emlékmű Randabergben.",
+                  "text": "Az Einarsvarden tájékozódási pont Randabergben.",
                   "category": "landmark",
                   "coords": [
                         5.565492,
@@ -28584,7 +29025,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "WWII German gun site",
-                  "text": "Második világháborús német ágyúállás maradványai Randabergben.",
+                  "text": "A második világháborús német ágyúállás Randabergben.",
                   "category": "historical",
                   "coords": [
                         5.601973,
@@ -28593,7 +29034,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gamle naust",
-                  "text": "Régi csónakházak romjai Randaberg partjainál.",
+                  "text": "A régi csónakház Gamle naust Randabergben.",
                   "category": "historical",
                   "coords": [
                         5.565827,
@@ -28620,7 +29061,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vistekirken middelalder",
-                  "text": "Középkori templom romjai Randabergben.",
+                  "text": "A középkori Vistekirken templom Randabergben.",
                   "category": "historical",
                   "coords": [
                         5.592762,
@@ -28784,7 +29225,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Grav haug/minne bronsealder",
-                  "text": "Un tumul din epoca bronzului în Randaberg.",
+                  "text": "Movila funerară din epoca bronzului 'Grav haug/minne bronsealder' în Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.595879,
@@ -28802,7 +29243,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Goaskipreid naust (not visible)",
-                  "text": "Locul unei foste remize de bărci din epoca fierului în Randaberg.",
+                  "text": "Căsuța istorică pentru bărci Goaskipreid naust (invizibilă) în Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.60848,
@@ -28811,7 +29252,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Einarsvarden",
-                  "text": "Un punct de reper local sau monument în Randaberg.",
+                  "text": "Punctul de reper Einarsvarden în Randaberg.",
                   "category": "landmark",
                   "coords": [
                         5.565492,
@@ -28820,7 +29261,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "WWII German gun site",
-                  "text": "Rămășițele unei poziții de artilerie germane din al Doilea Război Mondial în Randaberg.",
+                  "text": "Poziția de tragere germană din al doilea război mondial în Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.601973,
@@ -28829,7 +29270,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gamle naust",
-                  "text": "Ruinele unor vechi remize de bărci pe coasta din Randaberg.",
+                  "text": "Vechiul adăpost pentru bărci Gamle naust în Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.565827,
@@ -28856,7 +29297,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vistekirken middelalder",
-                  "text": "Ruinele unei biserici medievale în Randaberg.",
+                  "text": "Biserica medievală Vistekirken din Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.592762,
@@ -29020,7 +29461,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Grav haug/minne bronsealder",
-                  "text": "A burial mound from the Bronze Age in Randaberg.",
+                  "text": "Bronze Age burial mound 'Grav haug/minne bronsealder' in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.595879,
@@ -29038,7 +29479,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Goaskipreid naust (not visible)",
-                  "text": "Site of a former Iron Age boathouse in Randaberg.",
+                  "text": "Historic boathouse Goaskipreid naust (not visible) in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.60848,
@@ -29047,7 +29488,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Einarsvarden",
-                  "text": "A local landmark or monument in Randaberg.",
+                  "text": "Einarsvarden landmark cairn in Randaberg.",
                   "category": "landmark",
                   "coords": [
                         5.565492,
@@ -29056,7 +29497,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "WWII German gun site",
-                  "text": "Remains of a WWII German gun site in Randaberg.",
+                  "text": "WWII German gun emplacement in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.601973,
@@ -29065,7 +29506,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Gamle naust",
-                  "text": "Ruins of old boathouses on the coast of Randaberg.",
+                  "text": "Old boathouse Gamle naust in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.565827,
@@ -29092,7 +29533,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Vistekirken middelalder",
-                  "text": "Ruins of a medieval church in Randaberg.",
+                  "text": "Medieval church Vistekirken in Randaberg.",
                   "category": "historical",
                   "coords": [
                         5.592762,
@@ -29707,7 +30148,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Tinghaug",
-                  "text": "Ein Kulturmuseum, das die lokale Geschichte in Sauda präsentiert.",
+                  "text": "Das Tinghaug-Museum auf dem historischen Thinghügel in Sauda.",
                   "category": "museum",
                   "coords": [
                         6.316238,
@@ -29790,7 +30231,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Tinghaug",
-                  "text": "Sauda helyi történelmét bemutató kulturális múzeum.",
+                  "text": "A Tinghaug múzeum a történelmi gyűlési dombon Saudában.",
                   "category": "museum",
                   "coords": [
                         6.316238,
@@ -29873,7 +30314,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Tinghaug",
-                  "text": "Un muzeu cultural care prezintă istoria locală din Sauda.",
+                  "text": "Muzeul Tinghaug pe movila istorică de adunare din Sauda.",
                   "category": "museum",
                   "coords": [
                         6.316238,
@@ -29956,7 +30397,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Tinghaug",
-                  "text": "A cultural museum showcasing local history in Sauda.",
+                  "text": "Tinghaug museum on the historic assembly mound in Sauda.",
                   "category": "museum",
                   "coords": [
                         6.316238,
@@ -30499,7 +30940,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Kvitsøy",
-                  "text": "Der Leuchtturm von Kvitsøy ist ein wichtiges Wahrzeichen auf der Inselgruppe Kvitsøy.",
+                  "text": "Der Leuchtturm Kvitsøy auf der Insel Kvitsøy.",
                   "category": "landmark",
                   "coords": [
                         5.400105,
@@ -30555,7 +30996,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Kvitsøy",
-                  "text": "A kvitsøyi világítótorony a Kvitsøy-szigetek fontos jelképe.",
+                  "text": "A Kvitsøy világítótorony a Kvitsøy szigeten.",
                   "category": "landmark",
                   "coords": [
                         5.400105,
@@ -30611,7 +31052,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Kvitsøy",
-                  "text": "Farul din Kvitsøy este un punct de reper important pe arhipelagul Kvitsøy.",
+                  "text": "Farul Kvitsøy pe insula Kvitsøy.",
                   "category": "landmark",
                   "coords": [
                         5.400105,
@@ -30667,7 +31108,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Kvitsøy",
-                  "text": "The Kvitsøy lighthouse is a significant landmark on the Kvitsøy archipelago.",
+                  "text": "Kvitsøy lighthouse on Kvitsøy island.",
                   "category": "landmark",
                   "coords": [
                         5.400105,
@@ -30958,7 +31399,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Utsira kirke",
-                  "text": "Die örtliche Pfarrkirche auf der Insel Utsira.",
+                  "text": "1785 erbaute Holzkirche auf der Insel Utsira.",
                   "category": "religious",
                   "coords": [
                         4.882807,
@@ -30996,7 +31437,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Utsira kirke",
-                  "text": "Helyi plébániatemplom Utsira szigetén.",
+                  "text": "1785-ben épült fatemplom Utsira szigetén.",
                   "category": "religious",
                   "coords": [
                         4.882807,
@@ -31034,7 +31475,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Utsira kirke",
-                  "text": "Biserica parohială locală de pe insula Utsira.",
+                  "text": "Biserică de lemn construită în 1785 pe insula Utsira.",
                   "category": "religious",
                   "coords": [
                         4.882807,
@@ -31072,7 +31513,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Utsira kirke",
-                  "text": "The local parish church on the island of Utsira.",
+                  "text": "Wooden church built in 1785 on Utsira island.",
                   "category": "religious",
                   "coords": [
                         4.882807,
@@ -32182,7 +32623,7 @@ export const norwayCitiesV2: POI[] = [
       "de": [
             {
                   "name": "Prestnesholmen naturreservat",
-                  "text": "Ein friedliches Naturschutzgebiet auf einer Insel bei Husnes.",
+                  "text": "1987 eingerichtetes Naturschutzgebiet auf der Insel Prestnesholmen bei Husnes.",
                   "category": "natural",
                   "coords": [
                         5.718934,
@@ -32218,7 +32659,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Undarheim skule, Husnes symjebasseng",
-                  "text": "Genießen Sie ein erfrischendes Bad im Undarheim skule, Husnes symjebasseng in Husnes.",
+                  "text": "Das Schwimmbad Undarheim skule in Husnes.",
                   "category": "family",
                   "coords": [
                         5.744665,
@@ -32238,7 +32679,7 @@ export const norwayCitiesV2: POI[] = [
       "hu": [
             {
                   "name": "Prestnesholmen naturreservat",
-                  "text": "Békés természetvédelmi terület egy Husnes melletti szigeten.",
+                  "text": "1987-ben létesített természetvédelmi terület a Prestnesholmen-szigeten Husnes közelében.",
                   "category": "natural",
                   "coords": [
                         5.718934,
@@ -32274,7 +32715,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Undarheim skule, Husnes symjebasseng",
-                  "text": "Élvezze a frissítő úszást a Undarheim skule, Husnes symjebasseng helyszínén Husnes városában.",
+                  "text": "Az Undarheim iskola uszodája Husnesben.",
                   "category": "family",
                   "coords": [
                         5.744665,
@@ -32294,7 +32735,7 @@ export const norwayCitiesV2: POI[] = [
       "ro": [
             {
                   "name": "Prestnesholmen naturreservat",
-                  "text": "O rezervație naturală liniștită pe o insulă de lângă Husnes.",
+                  "text": "Rezervație naturală înființată în 1987 pe insula Prestnesholmen lângă Husnes.",
                   "category": "natural",
                   "coords": [
                         5.718934,
@@ -32330,7 +32771,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Undarheim skule, Husnes symjebasseng",
-                  "text": "Bucurați-vă de o baie răcoritoare la Undarheim skule, Husnes symjebasseng în Husnes.",
+                  "text": "Piscina școlii Undarheim din Husnes.",
                   "category": "family",
                   "coords": [
                         5.744665,
@@ -32350,7 +32791,7 @@ export const norwayCitiesV2: POI[] = [
       "en": [
             {
                   "name": "Prestnesholmen naturreservat",
-                  "text": "A peaceful nature reserve on an island near Husnes.",
+                  "text": "Nature reserve on Prestnesholmen island near Husnes, protected since 1987.",
                   "category": "natural",
                   "coords": [
                         5.718934,
@@ -32386,7 +32827,7 @@ export const norwayCitiesV2: POI[] = [
             },
             {
                   "name": "Undarheim skule, Husnes symjebasseng",
-                  "text": "Enjoy a refreshing swim at Undarheim skule, Husnes symjebasseng in Husnes.",
+                  "text": "Undarheim school swimming pool in Husnes.",
                   "category": "family",
                   "coords": [
                         5.744665,

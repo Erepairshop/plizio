@@ -52,7 +52,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
       "de": [
             {
                   "name": "Bratislavaer Burg",
-                  "text": "Die Burg thront auf einem Hügel über der Donau und beherbergt heute Ausstellungen des Nationalmuseums sowie prachtvolle Barockgärten.",
+                  "text": "Hallenbad der Elektrotechnischen Fakultät der Slowakischen Technischen Universität in Bratislava.",
                   "category": "castles",
                   "confidence": "high",
                   "coords": [
@@ -62,7 +62,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Martinsdom",
-                  "text": "Diese gotische Kathedrale aus dem 14. Jahrhundert war über 250 Jahre lang die Krönungskirche der ungarischen Könige.",
+                  "text": "Öffentliches Schwimmbad Pasienky in Bratislava mit 50-Meter-Bahnen.",
                   "category": "churches",
                   "confidence": "high",
                   "coords": [
@@ -152,7 +152,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Múzeum židovskej kultúry",
-                  "text": "Das Museum der jüdischen Kultur in Bratislava dokumentiert das jüdische Erbe in der Slowakei.",
+                  "text": "Museum zur jüdischen Kultur in der ehemaligen Synagoge von Bratislava.",
                   "category": "museum",
                   "coords": [
                         17.103517,
@@ -188,7 +188,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Maldeghemov palác",
-                  "text": "Das Maldeghem-Palais ist ein historisches Palais in Bratislava.",
+                  "text": "Rokoko-Palast aus dem 18. Jahrhundert in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.105694,
@@ -206,7 +206,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Csákyho Palác",
-                  "text": "Der Csáky-Palast ist ein historisches Schloss in Bratislava.",
+                  "text": "Barockpalast aus dem 18. Jahrhundert in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.114719,
@@ -224,7 +224,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Palais Dessewffy",
-                  "text": "Der Dessewffy-Palast ist ein Schloss in Bratislava.",
+                  "text": "Dessewffy-Palast, ein Barockpalast im historischen Zentrum von Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.10931,
@@ -233,7 +233,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Pálfiho palác",
-                  "text": "Der Pálffy-Palast ist ein historisches Schloss in Bratislava.",
+                  "text": "Renaissance-Palast an der Zámocká-Straße in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.100984,
@@ -242,7 +242,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Georgievitsov palác",
-                  "text": "Der Georgievits-Palast ist ein Schloss in Bratislava.",
+                  "text": "Neorenaissance-Palast aus dem 19. Jahrhundert in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.10275,
@@ -269,7 +269,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Pisztoryho palác",
-                  "text": "Der Pistory-Palast ist ein historisches Schloss in Bratislava.",
+                  "text": "Jugendstilpalast an der Štefánikova-Straße in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.106235,
@@ -278,7 +278,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Karácsonyiho palác",
-                  "text": "Der Karácsonyi-Palast ist ein Schloss in Bratislava.",
+                  "text": "Barockpalast aus dem 18. Jahrhundert in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.107109,
@@ -296,7 +296,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Vodná veža",
-                  "text": "Der Wasserturm in Bratislava ist eine Ruine aus dem Mittelalter.",
+                  "text": "Historischer Wasserturm aus dem 17. Jahrhundert in Bratislava.",
                   "category": "historical",
                   "coords": [
                         17.100869,
@@ -305,7 +305,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Štúdio L+S",
-                  "text": "Das Štúdio L+S ist ein bekanntes Theater in Bratislava.",
+                  "text": "Theater, das für satirische Aufführungen bekannt ist, gegründet von L+S.",
                   "category": "cultural",
                   "coords": [
                         17.109558,
@@ -314,7 +314,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Bratislavské bábkové divadlo",
-                  "text": "Das Bratislava Puppet Theater ist ein Theater für Puppenspielkunst in Bratislava.",
+                  "text": "Bratislavaer Puppentheater, gegründet 1957.",
                   "category": "cultural",
                   "coords": [
                         17.117962,
@@ -323,7 +323,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Divadlo Astorka Korzo ´90",
-                  "text": "Divadlo Astorka Korzo ´90 ist ein professionelles Theater in Bratislava.",
+                  "text": "Theater am Korzo, bekannt für moderne Schauspielstücke.",
                   "category": "cultural",
                   "coords": [
                         17.109497,
@@ -332,7 +332,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Ticho",
-                  "text": "Ticho ist ein kleines Theater in Bratislava.",
+                  "text": "Theater spezialisiert auf physisches Theater und Stille.",
                   "category": "cultural",
                   "coords": [
                         17.116052,
@@ -341,7 +341,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Radošinské naivné divadlo",
-                  "text": "Radošinské naivné divadlo ist ein bekanntes Theater in Bratislava.",
+                  "text": "Naives Theater aus Radošina, bekannt für volkstümliche Inszenierungen.",
                   "category": "cultural",
                   "coords": [
                         17.140239,
@@ -350,7 +350,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Nová scéna",
-                  "text": "Nová scéna ist ein bedeutendes Theater in Bratislava.",
+                  "text": "Theater mit Fokus auf Musicals und zeitgenössische Stücke.",
                   "category": "cultural",
                   "coords": [
                         17.111117,
@@ -377,7 +377,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Národné osvetové centrum",
-                  "text": "Das Národné osvetové centrum ist eine Kulturinstitution in Bratislava.",
+                  "text": "Nationales Zentrum für kulturelle und pädagogische Aktivitäten in Bratislava.",
                   "category": "cultural",
                   "coords": [
                         17.111901,
@@ -395,7 +395,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Kostol Kráľovnej rodiny",
-                  "text": "Die moderne Kirche der Mutter Maria ist ein Gotteshaus in Bratislava.",
+                  "text": "Moderne Kirche der Mutter Gottes (Königin der Familie) in Bratislava.",
                   "category": "religious",
                   "coords": [
                         17.126351,
@@ -584,7 +584,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Medická záhrada",
-                  "text": "Der Medická záhrada ist eine beliebte Parkanlage in Bratislava.",
+                  "text": "Medická záhrada (Medizinischer Garten), ein ruhiger Park in der Nähe des Stadtzentrums von Bratislava.",
                   "category": "park",
                   "coords": [
                         17.119538,
@@ -593,7 +593,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Park Račianske mýto",
-                  "text": "Der Park Račianske mýto ist eine bekannte Grünfläche in Bratislava.",
+                  "text": "Park am Račianske-mýto-Platz in Bratislava mit Grünflächen.",
                   "category": "park",
                   "coords": [
                         17.118754,
@@ -613,7 +613,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
       "hu": [
             {
                   "name": "Pozsonyi vár",
-                  "text": "A Duna feletti dombon magasodó vár a város jelképe, falai között ma a Nemzeti Múzeum kiállításai és barokk kertek várják a látogatókat.",
+                  "text": "A pozsonyi Szlovák Műszaki Egyetem Villamosmérnöki Karának fedett uszodája.",
                   "category": "castles",
                   "confidence": "high",
                   "coords": [
@@ -623,7 +623,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Szent Márton-dóm",
-                  "text": "Ez a 14. századi gótikus székesegyház több mint 250 éven át szolgált a magyar királyok és királynék koronázási templomaként.",
+                  "text": "Pasienky nyilvános uszoda Pozsonyban 50 méteres pályákkal.",
                   "category": "churches",
                   "confidence": "high",
                   "coords": [
@@ -713,7 +713,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Zsidó Kultúra Múzeuma",
-                  "text": "A pozsonyi Zsidó Kulturális Múzeum a szlovákiai zsidó örökséget mutatja be.",
+                  "text": "Zsidó Kulturális Múzeum Pozsony egykori zsinagógájában.",
                   "category": "museum",
                   "coords": [
                         17.103517,
@@ -749,7 +749,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Maldeghem palota",
-                  "text": "A Maldeghem-palota egy történelmi épület Pozsonyban.",
+                  "text": "18. századi rokokó palota Pozsonyban.",
                   "category": "castle",
                   "coords": [
                         17.105694,
@@ -767,7 +767,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Csáky palota",
-                  "text": "A Csáky-palota egy történelmi kastély Pozsonyban.",
+                  "text": "18. századi barokk palota Pozsonyban.",
                   "category": "castle",
                   "coords": [
                         17.114719,
@@ -785,7 +785,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Dessewffy-palota",
-                  "text": "A Dessewffy-palota egy kastély Pozsonyban.",
+                  "text": "Dessewffy-palota, egy barokk palota Pozsony történelmi központjában.",
                   "category": "castle",
                   "coords": [
                         17.10931,
@@ -794,7 +794,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Pálffy palota",
-                  "text": "A Pálffy-palota egy történelmi kastély Pozsonyban.",
+                  "text": "Reneszánsz palota a pozsonyi Zámocká utcában.",
                   "category": "castle",
                   "coords": [
                         17.100984,
@@ -803,7 +803,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Georgievits palota",
-                  "text": "A Georgievits-palota egy kastély Pozsonyban.",
+                  "text": "19. századi neoreneszánsz palota Pozsonyban.",
                   "category": "castle",
                   "coords": [
                         17.10275,
@@ -830,7 +830,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Pisztory palota",
-                  "text": "A Pistory-palota egy történelmi kastély Pozsonyban.",
+                  "text": "Szecessziós palota a pozsonyi Štefánikova utcában.",
                   "category": "castle",
                   "coords": [
                         17.106235,
@@ -839,7 +839,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Karácsonyi palota",
-                  "text": "A Karácsonyi-palota egy kastély Pozsonyban.",
+                  "text": "18. századi barokk palota Pozsonyban.",
                   "category": "castle",
                   "coords": [
                         17.107109,
@@ -857,7 +857,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Víztorony",
-                  "text": "A pozsonyi Víztorony egy középkori rom.",
+                  "text": "17. századi történelmi víztorony Pozsonyban.",
                   "category": "historical",
                   "coords": [
                         17.100869,
@@ -866,7 +866,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Štúdio L+S",
-                  "text": "A Štúdio L+S egy ismert színház Pozsonyban.",
+                  "text": "Színház, amely szatirikus előadásairól ismert, L+S alapította.",
                   "category": "cultural",
                   "coords": [
                         17.109558,
@@ -875,7 +875,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Bratislavské bábkové divadlo",
-                  "text": "A Pozsonyi Bábszínház egy bábszínház Pozsonyban.",
+                  "text": "Pozsonyi Bábszínház, 1957-ben alapították.",
                   "category": "cultural",
                   "coords": [
                         17.117962,
@@ -884,7 +884,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Divadlo Astorka Korzo ´90",
-                  "text": "A Divadlo Astorka Korzo ´90 egy professzionális színház Pozsonyban.",
+                  "text": "Színház a Korzón, modern drámákról ismert.",
                   "category": "cultural",
                   "coords": [
                         17.109497,
@@ -893,7 +893,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Ticho",
-                  "text": "A Ticho egy kis színház Pozsonyban.",
+                  "text": "Fizikai színházra és csendre specializálódott színház.",
                   "category": "cultural",
                   "coords": [
                         17.116052,
@@ -902,7 +902,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Radošinské naivné divadlo",
-                  "text": "A Radošinské naivné divadlo egy népszerű színház Pozsonyban.",
+                  "text": "Naiv színház Radošinából, népi ihletésű előadásokról ismert.",
                   "category": "cultural",
                   "coords": [
                         17.140239,
@@ -911,7 +911,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Nová scéna",
-                  "text": "A Nová scéna egy jelentős színház Pozsonyban.",
+                  "text": "Musicalekre és kortárs darabokra szakosodott színház.",
                   "category": "cultural",
                   "coords": [
                         17.111117,
@@ -938,7 +938,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Národné osvetové centrum",
-                  "text": "A Národné osvetové centrum egy kulturális intézmény Pozsonyban.",
+                  "text": "Országos Kulturális és Oktatási Központ Pozsonyban.",
                   "category": "cultural",
                   "coords": [
                         17.111901,
@@ -956,7 +956,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Kostol Kráľovnej rodiny",
-                  "text": "A modern Anyamária-templom egy istentiszteleti hely Pozsonyban.",
+                  "text": "Modern templom (Család Királynője) Pozsonyban.",
                   "category": "religious",
                   "coords": [
                         17.126351,
@@ -1145,7 +1145,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Medická záhrada",
-                  "text": "A Medická záhrada egy népszerű park Pozsonyban.",
+                  "text": "Medická záhrada (Orvosi kert), egy csendes park Pozsony belvárosa közelében.",
                   "category": "park",
                   "coords": [
                         17.119538,
@@ -1154,7 +1154,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Park Račianske mýto",
-                  "text": "A Račianske mýto park egy ismert zöldterület Pozsonyban.",
+                  "text": "Park a pozsonyi Račianske mýto téren, zöldterületekkel.",
                   "category": "park",
                   "coords": [
                         17.118754,
@@ -1174,7 +1174,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
       "ro": [
             {
                   "name": "Castelul Bratislava",
-                  "text": "Castelul domină orașul de pe un deal deasupra Dunării, găzduind în prezent expoziții ale Muzeului Național și grădini baroce superbe.",
+                  "text": "Piscină interioară la Facultatea de Inginerie Electrică (FEI STU) din Bratislava.",
                   "category": "castles",
                   "confidence": "high",
                   "coords": [
@@ -1184,7 +1184,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Catedrala Sfântul Martin",
-                  "text": "Această catedrală gotică din secolul al XIV-lea a fost timp de peste 250 de ani biserica de încoronare a regilor Ungariei.",
+                  "text": "Bazin public de înot Pasienky în Bratislava, cu culoare de 50 m.",
                   "category": "churches",
                   "confidence": "high",
                   "coords": [
@@ -1274,7 +1274,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Múzeum židovskej kultúry",
-                  "text": "Muzeul Culturii Evreiești din Bratislava documentează patrimoniul evreiesc din Slovacia.",
+                  "text": "Muzeu al culturii evreiești găzduit într-o fostă sinagogă din Bratislava.",
                   "category": "museum",
                   "coords": [
                         17.103517,
@@ -1310,7 +1310,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Maldeghemov palác",
-                  "text": "Palatul Maldeghem este o clădire istorică din Bratislava.",
+                  "text": "Palat rococo din secolul al XVIII-lea în Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.105694,
@@ -1328,7 +1328,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Csákyho Palác",
-                  "text": "Palatul Csáky este un castel istoric din Bratislava.",
+                  "text": "Palat baroc din secolul al XVIII-lea în Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.114719,
@@ -1346,7 +1346,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Dessewffyho palác",
-                  "text": "Palatul Dessewffy este un castel din Bratislava.",
+                  "text": "Palatul Dessewffy, un palat baroc în centrul istoric al Bratislavei.",
                   "category": "castle",
                   "coords": [
                         17.10931,
@@ -1355,7 +1355,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Pálfiho palác",
-                  "text": "Palatul Pálffy este un castel istoric din Bratislava.",
+                  "text": "Palat renascentist pe strada Zámocká din Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.100984,
@@ -1364,7 +1364,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Georgievitsov palác",
-                  "text": "Palatul Georgievits este un castel din Bratislava.",
+                  "text": "Palat neorenascentist din secolul al XIX-lea în Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.10275,
@@ -1391,7 +1391,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Pisztoryho palác",
-                  "text": "Palatul Pistory este un castel istoric din Bratislava.",
+                  "text": "Palat Art Nouveau pe strada Štefánikova din Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.106235,
@@ -1400,7 +1400,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Karácsonyiho palác",
-                  "text": "Palatul Karácsonyi este un castel din Bratislava.",
+                  "text": "Palat baroc din secolul al XVIII-lea în Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.107109,
@@ -1418,7 +1418,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Vodná veža",
-                  "text": "Turnul de Apă din Bratislava este o ruină medievală.",
+                  "text": "Turn de apă istoric din secolul al XVII-lea în Bratislava.",
                   "category": "historical",
                   "coords": [
                         17.100869,
@@ -1427,7 +1427,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Štúdio L+S",
-                  "text": "Štúdio L+S este un teatru cunoscut din Bratislava.",
+                  "text": "Teatru cunoscut pentru spectacole satirice, fondat de L+S.",
                   "category": "cultural",
                   "coords": [
                         17.109558,
@@ -1436,7 +1436,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Bratislavské bábkové divadlo",
-                  "text": "Teatrul de Păpuși din Bratislava este un teatru de artă păpușărească din Bratislava.",
+                  "text": "Teatrul de Păpuși din Bratislava, fondat în 1957.",
                   "category": "cultural",
                   "coords": [
                         17.117962,
@@ -1445,7 +1445,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Divadlo Astorka Korzo ´90",
-                  "text": "Divadlo Astorka Korzo ´90 este un teatru profesionist din Bratislava.",
+                  "text": "Teatru pe Korzo, cunoscut pentru drame moderne.",
                   "category": "cultural",
                   "coords": [
                         17.109497,
@@ -1454,7 +1454,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Ticho",
-                  "text": "Ticho este un teatru mic din Bratislava.",
+                  "text": "Teatru specializat în teatru fizic și tăcere.",
                   "category": "cultural",
                   "coords": [
                         17.116052,
@@ -1463,7 +1463,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Radošinské naivné divadlo",
-                  "text": "Radošinské naivné divadlo este un teatru popular din Bratislava.",
+                  "text": "Teatru naiv din Radošina, cunoscut pentru spectacole inspirate din folclor.",
                   "category": "cultural",
                   "coords": [
                         17.140239,
@@ -1472,7 +1472,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Nová scéna",
-                  "text": "Nová scéna este un teatru important din Bratislava.",
+                  "text": "Teatru axat pe musicaluri și piese contemporane.",
                   "category": "cultural",
                   "coords": [
                         17.111117,
@@ -1499,7 +1499,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Národné osvetové centrum",
-                  "text": "Národné osvetové centrum este o instituție culturală din Bratislava.",
+                  "text": "Centrul Național de Educație și Cultură din Bratislava.",
                   "category": "cultural",
                   "coords": [
                         17.111901,
@@ -1517,7 +1517,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Kostol Kráľovnej rodiny",
-                  "text": "Moderna Biserică a Maicii Domnului este un lăcaș de cult din Bratislava.",
+                  "text": "Biserică modernă a Maicii Domnului (Regina Familiei) în Bratislava.",
                   "category": "religious",
                   "coords": [
                         17.126351,
@@ -1706,7 +1706,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Medická záhrada",
-                  "text": "Medická záhrada este o grădină populară din Bratislava.",
+                  "text": "Medická záhrada (Grădina Medicală), un parc liniștit lângă centrul orașului Bratislava.",
                   "category": "park",
                   "coords": [
                         17.119538,
@@ -1715,7 +1715,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Park Račianske mýto",
-                  "text": "Parcul Račianske mýto este o zonă verde cunoscută din Bratislava.",
+                  "text": "Parcul din Piața Račianske mýto, cu spații verzi.",
                   "category": "park",
                   "coords": [
                         17.118754,
@@ -1735,7 +1735,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
       "en": [
             {
                   "name": "Bratislava Castle",
-                  "text": "Perched on a hill above the Danube, the castle is the city's landmark, housing National Museum exhibits and beautiful baroque gardens.",
+                  "text": "Indoor swimming pool at the Slovak Technical University (FEI) in Bratislava.",
                   "category": "castles",
                   "confidence": "high",
                   "coords": [
@@ -1745,7 +1745,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "St. Martin's Cathedral",
-                  "text": "This 14th-century Gothic cathedral served as the coronation church for the Hungarian kings for over 250 years.",
+                  "text": "Public swimming pool complex at Pasienky in Bratislava, with 50m lanes.",
                   "category": "churches",
                   "confidence": "high",
                   "coords": [
@@ -1835,7 +1835,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Museum of Jewish Culture in Slovakia",
-                  "text": "The Museum of Jewish Culture in Bratislava documents Jewish heritage in Slovakia.",
+                  "text": "Housed in a former synagogue in Bratislava, exhibiting Jewish history and culture.",
                   "category": "museum",
                   "coords": [
                         17.103517,
@@ -1871,7 +1871,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Maldeghemov palác",
-                  "text": "The Maldeghem Palace is a historic building in Bratislava.",
+                  "text": "A Rococo palace built in the 1760s in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.105694,
@@ -1889,7 +1889,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Csákyho Palác",
-                  "text": "The Csáky Palace is a historic castle in Bratislava.",
+                  "text": "A Baroque palace from the 18th century in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.114719,
@@ -1907,7 +1907,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Dessewffy Palace",
-                  "text": "The Dessewffy Palace is a castle in Bratislava.",
+                  "text": "Dessewffy Palace, a Baroque palace in the historic centre of Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.10931,
@@ -1916,7 +1916,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Palffy palace",
-                  "text": "The Pálffy Palace is a historic castle in Bratislava.",
+                  "text": "A Renaissance palace on Zámocká Street in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.100984,
@@ -1925,7 +1925,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Georgievitsov palác",
-                  "text": "The Georgievits Palace is a castle in Bratislava.",
+                  "text": "A Neo-Renaissance palace from the 19th century in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.10275,
@@ -1952,7 +1952,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Pisztoryho palác",
-                  "text": "The Pistory Palace is a historic castle in Bratislava.",
+                  "text": "An Art Nouveau palace on Štefánikova Street in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.106235,
@@ -1961,7 +1961,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Karácsonyiho palác",
-                  "text": "The Karácsonyi Palace is a castle in Bratislava.",
+                  "text": "A Baroque palace from the 18th century in Bratislava.",
                   "category": "castle",
                   "coords": [
                         17.107109,
@@ -1979,7 +1979,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Water Tower",
-                  "text": "The Water Tower in Bratislava is a medieval ruin.",
+                  "text": "A historic water tower from the 17th century in Bratislava.",
                   "category": "historical",
                   "coords": [
                         17.100869,
@@ -1988,7 +1988,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Štúdio L+S",
-                  "text": "Štúdio L+S is a well-known theatre in Bratislava.",
+                  "text": "A theatre founded by L+S, known for satirical performances.",
                   "category": "cultural",
                   "coords": [
                         17.109558,
@@ -1997,7 +1997,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Bratislava Puppet Theater",
-                  "text": "The Bratislava Puppet Theater is a theatre for puppetry in Bratislava.",
+                  "text": "A puppet theatre established in 1957 in Bratislava.",
                   "category": "cultural",
                   "coords": [
                         17.117962,
@@ -2006,7 +2006,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Divadlo Astorka Korzo ´90",
-                  "text": "Divadlo Astorka Korzo ´90 is a professional theatre in Bratislava.",
+                  "text": "A theatre on Korzo, known for modern drama performances.",
                   "category": "cultural",
                   "coords": [
                         17.109497,
@@ -2015,7 +2015,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Ticho",
-                  "text": "Ticho is a small theatre in Bratislava.",
+                  "text": "A theatre specializing in physical theatre and silence.",
                   "category": "cultural",
                   "coords": [
                         17.116052,
@@ -2024,7 +2024,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Radošinské naivné divadlo",
-                  "text": "Radošinské naivné divadlo is a popular theatre in Bratislava.",
+                  "text": "Originally from Radošina, known for folk-inspired naive theatre.",
                   "category": "cultural",
                   "coords": [
                         17.140239,
@@ -2033,7 +2033,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Nová scéna",
-                  "text": "Nová scéna is an important theatre in Bratislava.",
+                  "text": "A theatre focusing on musicals and contemporary plays.",
                   "category": "cultural",
                   "coords": [
                         17.111117,
@@ -2060,7 +2060,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Národné osvetové centrum",
-                  "text": "The Národné osvetové centrum is a cultural institution in Bratislava.",
+                  "text": "National centre for cultural and educational activities in Bratislava.",
                   "category": "cultural",
                   "coords": [
                         17.111901,
@@ -2078,7 +2078,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Modern Church of Mother Mary",
-                  "text": "The modern Church of Mother Mary is a place of worship in Bratislava.",
+                  "text": "A modernist Roman Catholic church dedicated to the Queen of the Family.",
                   "category": "religious",
                   "coords": [
                         17.126351,
@@ -2267,7 +2267,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Medická záhrada",
-                  "text": "Medická záhrada is a popular public park in Bratislava.",
+                  "text": "Medická záhrada (Medical Garden), a peaceful park near Bratislava's city centre.",
                   "category": "park",
                   "coords": [
                         17.119538,
@@ -2276,7 +2276,7 @@ imageHint: "Bratislava Castle and Danube river at sunset",
             },
             {
                   "name": "Park Račianske mýto",
-                  "text": "Račianske mýto park is a well-known green space in Bratislava.",
+                  "text": "A park at Račianske mýto square with green areas.",
                   "category": "park",
                   "coords": [
                         17.118754,
@@ -3605,7 +3605,7 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
             },
             {
                   "name": "Cemjatský rybník",
-                  "text": "Cemjatský rybník ist ein See in Presov, der sich für einen ruhigen Spaziergang eignet.",
+                  "text": "Cemjatský rybník, ein Teich für Erholung und Angeln in Prešov.",
                   "category": "natural",
                   "coords": [
                         21.174561,
@@ -3614,7 +3614,7 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
             },
             {
                   "name": "Prírodné kúpalisko Delňa",
-                  "text": "Prírodné kúpalisko Delňa ist ein Naturbadesee in Presov.",
+                  "text": "Prírodné kúpalisko Delňa bei Prešov – natürlicher Badesee mit Liegewiesen und Imbiss.",
                   "category": "natural",
                   "coords": [
                         21.262833,
@@ -4183,7 +4183,7 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
             },
             {
                   "name": "Cemjatský rybník",
-                  "text": "A Cemjatský rybník egy tó Presov városában, amely alkalmas egy csendes sétához.",
+                  "text": "Cemjatský rybník, egy tó pihenésre és horgászatra Prešovban.",
                   "category": "natural",
                   "coords": [
                         21.174561,
@@ -4192,7 +4192,7 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
             },
             {
                   "name": "Prírodné kúpalisko Delňa",
-                  "text": "A Prírodné kúpalisko Delňa egy természetes fürdőtó Presov városában.",
+                  "text": "Delňa természetes fürdőtó Pozsony közelében, pihenőrétekkel és büfével.",
                   "category": "natural",
                   "coords": [
                         21.262833,
@@ -4761,7 +4761,7 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
             },
             {
                   "name": "Cemjatský rybník",
-                  "text": "Cemjatský rybník este un lac în Presov, potrivit pentru o plimbare liniștită.",
+                  "text": "Cemjatský rybník, un iaz pentru recreere și pescuit în Prešov.",
                   "category": "natural",
                   "coords": [
                         21.174561,
@@ -4770,7 +4770,7 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
             },
             {
                   "name": "Prírodné kúpalisko Delňa",
-                  "text": "Prírodné kúpalisko Delňa este un lac natural pentru înot în Presov.",
+                  "text": "Prírodné kúpalisko Delňa lângă Prešov – lac natural de înot cu zone de relaxare și bufet.",
                   "category": "natural",
                   "coords": [
                         21.262833,
@@ -5339,7 +5339,7 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
             },
             {
                   "name": "Cemjatský rybník",
-                  "text": "Cemjatský rybník is a lake in Presov, suitable for a quiet walk.",
+                  "text": "Cemjatský rybník, a pond used for recreation and fishing in Prešov.",
                   "category": "natural",
                   "coords": [
                         21.174561,
@@ -5348,7 +5348,7 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
             },
             {
                   "name": "Prírodné kúpalisko Delňa",
-                  "text": "Prírodné kúpalisko Delňa is a natural swimming lake in Presov.",
+                  "text": "Delňa natural swimming lake near Prešov with grassy banks and a snack bar.",
                   "category": "natural",
                   "coords": [
                         21.262833,
@@ -5703,7 +5703,7 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
             },
             {
                   "name": "Terra Klub",
-                  "text": "Ein Schwimmbad in Nitra für Sport und Entspannung.",
+                  "text": "Terra Klub in Nitra – Familiencenter mit Kletterwand und Trampolinen.",
                   "category": "family",
                   "coords": [
                         18.112008,
@@ -5813,7 +5813,7 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
             },
             {
                   "name": "Terra Klub",
-                  "text": "Úszómedence Nyitrán sportoláshoz és kikapcsolódáshoz.",
+                  "text": "Terra Klub Nyitrán – családi központ mászófallal és trambulinokkal.",
                   "category": "family",
                   "coords": [
                         18.112008,
@@ -5923,7 +5923,7 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
             },
             {
                   "name": "Terra Klub",
-                  "text": "O piscină în Nitra pentru sport și relaxare.",
+                  "text": "Terra Klub în Nitra – centru de familie cu perete de cățărare și trambuline.",
                   "category": "family",
                   "coords": [
                         18.112008,
@@ -6033,7 +6033,7 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
             },
             {
                   "name": "Terra Klub",
-                  "text": "A swimming pool in Nitra for sports and relaxation.",
+                  "text": "Terra Klub in Nitra – a family centre with climbing wall and trampolines.",
                   "category": "family",
                   "coords": [
                         18.112008,
@@ -7803,7 +7803,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Škoda Classic Cars",
-                  "text": "Ein Museum in Trenčín, das sich der Ausstellung klassischer Škoda-Fahrzeuge widmet.",
+                  "text": "Škoda Classic Cars in Trenčín – Museum historischer Škoda-Fahrzeuge von den 1930er bis 1980er Jahren.",
                   "category": "museum",
                   "coords": [
                         18.045732,
@@ -7866,7 +7866,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Kaštiel Zamarovce",
-                  "text": "Ein historisches Herrenhaus in der Gemeinde Zamarovce bei Trenčín.",
+                  "text": "Kaštiel Zamarovce bei Trenčín – Renaissanceschloss mit englischem Park und Teichen.",
                   "category": "historical",
                   "coords": [
                         18.050582,
@@ -7965,7 +7965,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Ihrisko Pádivec",
-                  "text": "Ihrisko Pádivec ist ein freundlicher Spielplatz in Trenčín für die Nachbarschaft.",
+                  "text": "Ihrisko Pádivec in Trenčín – öffentlicher Spielplatz mit Rutschen, Schaukeln und Sandkasten.",
                   "category": "family",
                   "coords": [
                         18.074526,
@@ -7974,7 +7974,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Detské ihrisko Žihadielko",
-                  "text": "Detské ihrisko Žihadielko in Trenčín ist ein moderner und farbenfroher Spielplatz für Kinder.",
+                  "text": "Detské ihrisko Žihadielko in Trenčín – kleiner Spielplatz mit Holzklettergerüst und Rutsche.",
                   "category": "family",
                   "coords": [
                         18.037285,
@@ -8156,7 +8156,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Škoda Classic Cars",
-                  "text": "Klasszikus Škoda gépjárműveket bemutató múzeum Trencsénben.",
+                  "text": "Škoda Classic Cars Trencsénben – történelmi Škoda járművek múzeuma az 1930-as évektől az 1980-as évekig.",
                   "category": "museum",
                   "coords": [
                         18.045732,
@@ -8219,7 +8219,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Kaštiel Zamarovce",
-                  "text": "Történelmi kúria a Trencsén melletti Vágzamárd (Zamarovce) községben.",
+                  "text": "Zamarovcei kastély Trencsén közelében – reneszánsz kastély angolparkkal és tavakkal.",
                   "category": "historical",
                   "coords": [
                         18.050582,
@@ -8318,7 +8318,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Ihrisko Pádivec",
-                  "text": "Az Ihrisko Pádivec egy barátságos lakótelepi játszótér Trencsénben.",
+                  "text": "Ihrisko Pádivec Trencsénben – nyilvános játszótér csúszdákkal, hintákkal és homokozóval.",
                   "category": "family",
                   "coords": [
                         18.074526,
@@ -8327,7 +8327,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Detské ihrisko Žihadielko",
-                  "text": "A trencséni Žihadielko játszótér modern és színes játékhely a gyermekeknek.",
+                  "text": "Žihadielko gyermekjátszótér Trencsénben – kicsi játszótér fa mászókával és csúszdával.",
                   "category": "family",
                   "coords": [
                         18.037285,
@@ -8509,7 +8509,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Škoda Classic Cars",
-                  "text": "Un muzeu în Trenčín dedicat expunerii mașinilor clasice Škoda.",
+                  "text": "Škoda Classic Cars în Trenčín – muzeu de vehicule Škoda istorice din anii 1930 până în anii 1980.",
                   "category": "museum",
                   "coords": [
                         18.045732,
@@ -8572,7 +8572,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Kaštiel Zamarovce",
-                  "text": "Un conac istoric situat în localitatea Zamarovce, lângă Trenčín.",
+                  "text": "Kaštiel Zamarovce lângă Trenčín – castel renascentist cu parc englezesc și iazuri.",
                   "category": "historical",
                   "coords": [
                         18.050582,
@@ -8671,7 +8671,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Ihrisko Pádivec",
-                  "text": "Ihrisko Pádivec este un loc de joacă prietenos din Trenčín pentru comunitatea locală.",
+                  "text": "Ihrisko Pádivec în Trenčín – loc de joacă public cu tobogane, leagăne și nisipar.",
                   "category": "family",
                   "coords": [
                         18.074526,
@@ -8680,7 +8680,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Detské ihrisko Žihadielko",
-                  "text": "Detské ihrisko Žihadielko din Trenčín este un loc de joacă modern și colorat pentru copii.",
+                  "text": "Detské ihrisko Žihadielko în Trenčín – loc de joacă mic cu cadru de cățărare din lemn și tobogan.",
                   "category": "family",
                   "coords": [
                         18.037285,
@@ -8862,7 +8862,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Škoda Classic Cars",
-                  "text": "A museum in Trenčín dedicated to the display of classic Škoda cars.",
+                  "text": "Škoda Classic Cars in Trenčín – a museum of historic Škoda vehicles from the 1930s to the 1980s.",
                   "category": "museum",
                   "coords": [
                         18.045732,
@@ -8925,7 +8925,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Kaštiel Zamarovce",
-                  "text": "A historical manor house located in the village of Zamarovce near Trenčín.",
+                  "text": "Zamarovce manor near Trenčín – a Renaissance château with an English park and ponds.",
                   "category": "historical",
                   "coords": [
                         18.050582,
@@ -9024,7 +9024,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Ihrisko Pádivec",
-                  "text": "Ihrisko Pádivec is a friendly neighborhood playground in Trencin.",
+                  "text": "Ihrisko Pádivec in Trenčín – a public playground with slides, swings, and a sandbox.",
                   "category": "family",
                   "coords": [
                         18.074526,
@@ -9033,7 +9033,7 @@ imageHint: "Building of Matica slovenská in Martin",
             },
             {
                   "name": "Detské ihrisko Žihadielko",
-                  "text": "Detské ihrisko Žihadielko in Trencin is a modern and colorful playground for kids.",
+                  "text": "Žihadielko children's playground in Trenčín – a small playground with a wooden climbing frame and slide.",
                   "category": "family",
                   "coords": [
                         18.037285,
@@ -11048,7 +11048,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             },
             {
                   "name": "Mini ZOO",
-                  "text": "Ein kleiner Tierpark in Nové Zámky, ideal für Familienbesuche.",
+                  "text": "Mini ZOO in Nové Zámky – Gehege mit Ziegen, Schafen, Kaninchen und Pfaune.",
                   "category": "family",
                   "coords": [
                         18.135745,
@@ -11167,7 +11167,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             },
             {
                   "name": "Mini ZOO",
-                  "text": "Kisméretű állatkert Érsekújvárott, amely ideális családi kikapcsolódáshoz.",
+                  "text": "Mini ZOO Érsekújváron – kecskék, juhok, nyulak és pávákkal kifutók.",
                   "category": "family",
                   "coords": [
                         18.135745,
@@ -11286,7 +11286,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             },
             {
                   "name": "Mini ZOO",
-                  "text": "O mică grădină zoologică în Nové Zámky, ideală pentru vizite cu familia.",
+                  "text": "Mini ZOO în Nové Zámky – țarcuri cu capre, oi, iepuri și păuni.",
                   "category": "family",
                   "coords": [
                         18.135745,
@@ -11405,7 +11405,7 @@ imageHint: "Michalovce city center and the Zemplín Museum building",
             },
             {
                   "name": "Mini ZOO",
-                  "text": "A small zoo in Nové Zámky, ideal for family visits.",
+                  "text": "Mini ZOO in Nové Zámky – enclosures with goats, sheep, rabbits, and peacocks.",
                   "category": "family",
                   "coords": [
                         18.135745,
@@ -11598,7 +11598,7 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
             },
             {
                   "name": "ÚŽ-6 Schulerloch",
-                  "text": "Eine lokale Sehenswürdigkeit in Spišská Nová Ves.",
+                  "text": "ÚŽ-6 Schulerloch bei Spišská Nová Ves – Tropfsteinhöhle mit unterirdischem Bachlauf.",
                   "category": "landmark",
                   "coords": [
                         20.551751,
@@ -11663,7 +11663,7 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
             },
             {
                   "name": "ÚŽ-6 Schulerloch",
-                  "text": "Helyi látnivaló Iglón.",
+                  "text": "ÚŽ-6 Schulerloch Szepesújhely közelében – cseppkőbarlang föld alatti patakkal.",
                   "category": "landmark",
                   "coords": [
                         20.551751,
@@ -11728,7 +11728,7 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
             },
             {
                   "name": "ÚŽ-6 Schulerloch",
-                  "text": "O atracție locală în Spišská Nová Ves.",
+                  "text": "ÚŽ-6 Schulerloch lângă Spišská Nová Ves – peșteră carstică cu pârâu subteran.",
                   "category": "landmark",
                   "coords": [
                         20.551751,
@@ -11793,7 +11793,7 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
             },
             {
                   "name": "ÚŽ-6 Schulerloch",
-                  "text": "A local attraction in Spišská Nová Ves.",
+                  "text": "Schulerloch cave near Spišská Nová Ves – a limestone cave with an underground stream.",
                   "category": "landmark",
                   "coords": [
                         20.551751,
@@ -12194,7 +12194,7 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
             },
             {
                   "name": "Expozícia ľudovej architektúry a bývania (skanzen)",
-                  "text": "Ein Freilichtmuseum in Humenné, das traditionelle Volksarchitektur präsentiert.",
+                  "text": "Freilichtmuseum der Volksarchitektur in Humenné – traditionelle Holzhäuser aus der Region Zemplín.",
                   "category": "museum",
                   "coords": [
                         21.909537,
@@ -12268,7 +12268,7 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
             },
             {
                   "name": "Expozícia ľudovej architektúry a bývania (skanzen)",
-                  "text": "Homonnai skanzen, amely a hagyományos népi építészetet mutatja be.",
+                  "text": "Népi építészeti szabadtéri múzeum Homonnán – hagyományos faházak a zempléni régióból.",
                   "category": "museum",
                   "coords": [
                         21.909537,
@@ -12342,7 +12342,7 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
             },
             {
                   "name": "Expozícia ľudovej architektúry a bývania (skanzen)",
-                  "text": "Un muzeu în aer liber din Humenné, care prezintă arhitectura populară tradițională.",
+                  "text": "Muzeul în aer liber al arhitecturii populare din Humenné – case tradiționale din lemn din regiunea Zemplín.",
                   "category": "museum",
                   "coords": [
                         21.909537,
@@ -12416,7 +12416,7 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
             },
             {
                   "name": "Exposition of folk architecture and housing (open-air museum)",
-                  "text": "An open-air museum in Humenné presenting traditional folk architecture.",
+                  "text": "Open-air museum of folk architecture in Humenné – traditional wooden houses from the Zemplín region.",
                   "category": "museum",
                   "coords": [
                         21.909537,
@@ -13366,7 +13366,7 @@ imageHint: "Levice Castle ruins and the Tekov Museum",
             },
             {
                   "name": "Kaplnka sv. Jakuba",
-                  "text": "Eine kleine Kapelle in Bardejov, die dem Heiligen Jakobus gewidmet ist.",
+                  "text": "Kapelle des heiligen Jakobus aus der Zeit um 1820 in Bardejov.",
                   "category": "religious",
                   "coords": [
                         21.274574,
@@ -13512,7 +13512,7 @@ imageHint: "Levice Castle ruins and the Tekov Museum",
             },
             {
                   "name": "Kaplnka sv. Jakuba",
-                  "text": "Szent Jakab tiszteletére szentelt kisméretű kápolna Bártfán.",
+                  "text": "Szent Jakab-kápolna 1820 körülről Bártfán.",
                   "category": "religious",
                   "coords": [
                         21.274574,
@@ -13658,7 +13658,7 @@ imageHint: "Levice Castle ruins and the Tekov Museum",
             },
             {
                   "name": "Kaplnka sv. Jakuba",
-                  "text": "O mică capelă din Bardejov, dedicată Sfântului Iacob.",
+                  "text": "Capela Sfântului Iacob din jurul anului 1820 în Bardejov.",
                   "category": "religious",
                   "coords": [
                         21.274574,
@@ -13804,7 +13804,7 @@ imageHint: "Levice Castle ruins and the Tekov Museum",
             },
             {
                   "name": "Kaplnka sv. Jakuba",
-                  "text": "A small chapel in Bardejov dedicated to Saint James.",
+                  "text": "A small chapel of St. James built around 1820 in Bardejov.",
                   "category": "religious",
                   "coords": [
                         21.274574,
@@ -13889,7 +13889,7 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
             },
             {
                   "name": "Slovenské múzeum ochrany prírody a jaskyniarstva",
-                  "text": "Ein spezialisiertes Museum in Liptovský Mikuláš für Naturschutz und Höhlenkunde.",
+                  "text": "Slowakisches Museum für Naturschutz und Speläologie in Liptovský Mikuláš – Ausstellung zu Höhlen und Karstformationen der Slowakei.",
                   "category": "museum",
                   "coords": [
                         19.617049,
@@ -14035,7 +14035,7 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
             },
             {
                   "name": "Slovenské múzeum ochrany prírody a jaskyniarstva",
-                  "text": "Speciális múzeum Liptószentmiklóson, amely a természetvédelemmel és a barlangkutatással foglalkozik.",
+                  "text": "Szlovák Természetvédelmi és Barlangtani Múzeum Liptószentmiklóson – kiállítás a Szlovákia barlangjairól és karsztformációiról.",
                   "category": "museum",
                   "coords": [
                         19.617049,
@@ -14181,7 +14181,7 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
             },
             {
                   "name": "Slovenské múzeum ochrany prírody a jaskyniarstva",
-                  "text": "Un muzeu specializat în Liptovský Mikuláš pentru protecția naturii și speologie.",
+                  "text": "Muzeul Slovac de Protecție a Naturii și Speologie din Liptovský Mikuláš – expoziție despre peșteri și formațiuni carstice din Slovacia.",
                   "category": "museum",
                   "coords": [
                         19.617049,
@@ -14327,7 +14327,7 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
             },
             {
                   "name": "The Slovak Museum of Nature Protection and Speleology",
-                  "text": "A specialized museum in Liptovský Mikuláš for nature protection and speleology.",
+                  "text": "Slovak Museum of Nature Protection and Speleology in Liptovský Mikuláš – exhibition on Slovak caves and karst formations.",
                   "category": "museum",
                   "coords": [
                         19.617049,
@@ -14547,7 +14547,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             },
             {
                   "name": "Szillasyho kaštieľ",
-                  "text": "Ein als Szillasy-Herrenhaus bekanntes historisches Gebäude in Lučenec.",
+                  "text": "Herrenhaus aus dem 17. Jahrhundert in Lučenec.",
                   "category": "historical",
                   "coords": [
                         19.672733,
@@ -14565,7 +14565,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             },
             {
                   "name": "Kaštieľ Dolná Slatinka",
-                  "text": "Ein Herrenhaus im Ortsteil Dolná Slatinka bei Lučenec.",
+                  "text": "Ein historisches Herrenhaus in Lucenec.",
                   "category": "historical",
                   "coords": [
                         19.690685,
@@ -14666,7 +14666,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             },
             {
                   "name": "Szillasyho kaštieľ",
-                  "text": "Szillasy-kúriaként ismert történelmi épület Losoncon.",
+                  "text": "17. századi kúria Losoncon.",
                   "category": "historical",
                   "coords": [
                         19.672733,
@@ -14684,7 +14684,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             },
             {
                   "name": "Kaštieľ Dolná Slatinka",
-                  "text": "Kúria az Alsószlatinga (Dolná Slatinka) városrészben, Losonc közelében.",
+                  "text": "Egy történelmi kúria Lucenecben.",
                   "category": "historical",
                   "coords": [
                         19.690685,
@@ -14785,7 +14785,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             },
             {
                   "name": "Szillasyho kaštieľ",
-                  "text": "O clădire istorică cunoscută sub numele de conacul Szillasy din Lučenec.",
+                  "text": "Conac din secolul al XVII-lea în Lučenec.",
                   "category": "historical",
                   "coords": [
                         19.672733,
@@ -14803,7 +14803,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             },
             {
                   "name": "Kaštieľ Dolná Slatinka",
-                  "text": "Un conac în zona Dolná Slatinka, lângă Lučenec.",
+                  "text": "Un conac istoric în Lucenec.",
                   "category": "historical",
                   "coords": [
                         19.690685,
@@ -14904,7 +14904,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             },
             {
                   "name": "Szillasyho kaštieľ",
-                  "text": "A historical building known as the Szillasy manor in Lučenec.",
+                  "text": "A 17th-century manor house in Lučenec.",
                   "category": "historical",
                   "coords": [
                         19.672733,
@@ -14922,7 +14922,7 @@ imageHint: "Liptovský Mikuláš town center with Tatra mountains in background"
             },
             {
                   "name": "Kaštieľ Dolná Slatinka",
-                  "text": "A manor house in the Dolná Slatinka area near Lučenec.",
+                  "text": "A historic manor house in Lucenec.",
                   "category": "historical",
                   "coords": [
                         19.690685,
@@ -17941,7 +17941,232 @@ imageHint: "Andrássy Palace in Trebišov with the park",
     },
     image: "/poi-images/slovakia-trebisov-cities-v2.webp",
 },  {
-    id: "slovakia-cadca-cities-v2", "sights": {"de": [{"name": "Kysucké múzeum", "text": "Ein regionales Museum in Čadca, das sich auf die Kultur und Geschichte der Region Kysuce konzentriert.", "category": "museum", "coords": [18.789554, 49.439973]}, {"name": "Mestské kúpalisko", "text": "Ein öffentliches Schwimmbad in Čadca, das sommerliche Erholung für Einwohner und Besucher bietet.", "category": "family", "coords": [18.78089, 49.440345]}, {"name": "Jurošovský vrch", "text": "Ein Hügel bei Čadca, der Wanderern einen Ausblick auf die umliegende Kysuce-Landschaft bietet.", "category": "natural", "coords": [18.766086, 49.450333]}, {"name": "Briava", "text": "Briava ist ein bewaldeter Naturgipfel in der Nähe der Stadt Cadca in der Slowakei. Wanderer, die diesen Berg besteigen, entdecken die für die Region charakteristischen, dichten Waldlandschaften.", "category": "natural", "coords": [18.765163, 49.410551]}, {"name": "Bukovský prameň", "text": "Eine natürliche Wasserquelle in der Gegend von Čadca.", "category": "landmark", "coords": [18.806437, 49.445895]}, {"name": "Kostol svätého Bartolomeja", "text": "Die barocke Pfarrkirche im Zentrum von Čadca ist eines der wichtigsten Denkmäler der Stadt.", "category": "religious", "coords": [18.791458, 49.438312]}], "hu": [{"name": "Kysucké múzeum", "text": "Regionális múzeum Csacán, amely a Kiszucai régió kultúrájára és történelmére összpontosít.", "category": "museum", "coords": [18.789554, 49.439973]}, {"name": "Mestské kúpalisko", "text": "Nyilvános uszoda Csacán, amely nyári kikapcsolódást nyújt a lakosoknak és a látogatóknak.", "category": "family", "coords": [18.78089, 49.440345]}, {"name": "Jurošovský vrch", "text": "Csaca melletti domb, amely kilátást nyújt a túrázóknak a környező kiszucai tájra.", "category": "natural", "coords": [18.766086, 49.450333]}, {"name": "Briava", "text": "A Briava egy erdős természeti csúcs, amely a szlovákiai Cadca városa közelében helyezkedik el. A hegyet bejáró túrázók felfedezhetik a régióra jellemző, sűrűn fásított tájakat.", "category": "natural", "coords": [18.765163, 49.410551]}, {"name": "Bukovský prameň", "text": "Természetes vízforrás Csaca környékén.", "category": "landmark", "coords": [18.806437, 49.445895]}, {"name": "Kostol svätého Bartolomeja", "text": "Csaca központjában található barokk plébániatemplom a város egyik legfontosabb műemléke.", "category": "religious", "coords": [18.791458, 49.438312]}], "ro": [{"name": "Kysucké múzeum", "text": "Un muzeu regional din Čadca, concentrat pe cultura și istoria regiunii Kysuce.", "category": "museum", "coords": [18.789554, 49.439973]}, {"name": "Mestské kúpalisko", "text": "O piscină publică în Čadca, care oferă recreere pe timp de vară pentru locuitori și vizitatori.", "category": "family", "coords": [18.78089, 49.440345]}, {"name": "Jurošovský vrch", "text": "Un deal lângă Čadca, care oferă turiștilor o vedere asupra peisajului înconjurător din Kysuce.", "category": "natural", "coords": [18.766086, 49.450333]}, {"name": "Briava", "text": "Briava este un vârf natural împădurit situat în apropierea orașului Cadca din Slovacia. Drumeții care traversează acest munte vor descoperi peisajele dens împădurite, caracteristice regiunii.", "category": "natural", "coords": [18.765163, 49.410551]}, {"name": "Bukovský prameň", "text": "Un izvor natural de apă în zona orașului Čadca.", "category": "landmark", "coords": [18.806437, 49.445895]}, {"name": "Kostol svätého Bartolomeja", "text": "Biserica parohială barocă din centrul orașului Čadca este unul dintre cele mai importante monumente ale orașului.", "category": "religious", "coords": [18.791458, 49.438312]}], "en": [{"name": "Kysucké múzeum", "text": "A regional museum in Čadca focusing on the culture and history of the Kysuce region.", "category": "museum", "coords": [18.789554, 49.439973]}, {"name": "Mestské kúpalisko", "text": "A public swimming pool in Čadca offering summer recreation for residents and visitors.", "category": "family", "coords": [18.78089, 49.440345]}, {"name": "Jurošovský vrch", "text": "A hill near Čadca offering hikers a view of the surrounding Kysuce landscape.", "category": "natural", "coords": [18.766086, 49.450333]}, {"name": "Briava", "text": "Briava is a forested natural peak situated near the town of Cadca in Slovakia. Hikers traversing this mountain will discover the densely wooded landscapes characteristic of the region.", "category": "natural", "coords": [18.765163, 49.410551]}, {"name": "Bukovský prameň", "text": "A natural water spring in the area of Čadca.", "category": "landmark", "coords": [18.806437, 49.445895]}, {"name": "Kostol svätého Bartolomeja", "text": "The Baroque parish church in the center of Čadca is one of the city's most important monuments.", "category": "religious", "coords": [18.791458, 49.438312]}]},
+    id: "slovakia-cadca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kysucké múzeum",
+                  "text": "Ein regionales Museum in Čadca, das sich auf die Kultur und Geschichte der Region Kysuce konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        18.789554,
+                        49.439973
+                  ]
+            },
+            {
+                  "name": "Mestské kúpalisko",
+                  "text": "Ein öffentliches Schwimmbad in Čadca, das sommerliche Erholung für Einwohner und Besucher bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.78089,
+                        49.440345
+                  ]
+            },
+            {
+                  "name": "Jurošovský vrch",
+                  "text": "Ein Hügel bei Čadca, der Wanderern einen Ausblick auf die umliegende Kysuce-Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.766086,
+                        49.450333
+                  ]
+            },
+            {
+                  "name": "Briava",
+                  "text": "Briava ist ein bewaldeter Naturgipfel in der Nähe der Stadt Cadca in der Slowakei. Wanderer, die diesen Berg besteigen, entdecken die für die Region charakteristischen, dichten Waldlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        18.765163,
+                        49.410551
+                  ]
+            },
+            {
+                  "name": "Bukovský prameň",
+                  "text": "Die Bukovský-Quelle in Cadca.",
+                  "category": "landmark",
+                  "coords": [
+                        18.806437,
+                        49.445895
+                  ]
+            },
+            {
+                  "name": "Kostol svätého Bartolomeja",
+                  "text": "Die barocke Pfarrkirche im Zentrum von Čadca ist eines der wichtigsten Denkmäler der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        18.791458,
+                        49.438312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kysucké múzeum",
+                  "text": "Regionális múzeum Csacán, amely a Kiszucai régió kultúrájára és történelmére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        18.789554,
+                        49.439973
+                  ]
+            },
+            {
+                  "name": "Mestské kúpalisko",
+                  "text": "Nyilvános uszoda Csacán, amely nyári kikapcsolódást nyújt a lakosoknak és a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        18.78089,
+                        49.440345
+                  ]
+            },
+            {
+                  "name": "Jurošovský vrch",
+                  "text": "Csaca melletti domb, amely kilátást nyújt a túrázóknak a környező kiszucai tájra.",
+                  "category": "natural",
+                  "coords": [
+                        18.766086,
+                        49.450333
+                  ]
+            },
+            {
+                  "name": "Briava",
+                  "text": "A Briava egy erdős természeti csúcs, amely a szlovákiai Cadca városa közelében helyezkedik el. A hegyet bejáró túrázók felfedezhetik a régióra jellemző, sűrűn fásított tájakat.",
+                  "category": "natural",
+                  "coords": [
+                        18.765163,
+                        49.410551
+                  ]
+            },
+            {
+                  "name": "Bukovský prameň",
+                  "text": "A Bukovský-forrás Cadcában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.806437,
+                        49.445895
+                  ]
+            },
+            {
+                  "name": "Kostol svätého Bartolomeja",
+                  "text": "Csaca központjában található barokk plébániatemplom a város egyik legfontosabb műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        18.791458,
+                        49.438312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kysucké múzeum",
+                  "text": "Un muzeu regional din Čadca, concentrat pe cultura și istoria regiunii Kysuce.",
+                  "category": "museum",
+                  "coords": [
+                        18.789554,
+                        49.439973
+                  ]
+            },
+            {
+                  "name": "Mestské kúpalisko",
+                  "text": "O piscină publică în Čadca, care oferă recreere pe timp de vară pentru locuitori și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        18.78089,
+                        49.440345
+                  ]
+            },
+            {
+                  "name": "Jurošovský vrch",
+                  "text": "Un deal lângă Čadca, care oferă turiștilor o vedere asupra peisajului înconjurător din Kysuce.",
+                  "category": "natural",
+                  "coords": [
+                        18.766086,
+                        49.450333
+                  ]
+            },
+            {
+                  "name": "Briava",
+                  "text": "Briava este un vârf natural împădurit situat în apropierea orașului Cadca din Slovacia. Drumeții care traversează acest munte vor descoperi peisajele dens împădurite, caracteristice regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        18.765163,
+                        49.410551
+                  ]
+            },
+            {
+                  "name": "Bukovský prameň",
+                  "text": "Izvorul Bukovský din Cadca.",
+                  "category": "landmark",
+                  "coords": [
+                        18.806437,
+                        49.445895
+                  ]
+            },
+            {
+                  "name": "Kostol svätého Bartolomeja",
+                  "text": "Biserica parohială barocă din centrul orașului Čadca este unul dintre cele mai importante monumente ale orașului.",
+                  "category": "religious",
+                  "coords": [
+                        18.791458,
+                        49.438312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kysucké múzeum",
+                  "text": "A regional museum in Čadca focusing on the culture and history of the Kysuce region.",
+                  "category": "museum",
+                  "coords": [
+                        18.789554,
+                        49.439973
+                  ]
+            },
+            {
+                  "name": "Mestské kúpalisko",
+                  "text": "A public swimming pool in Čadca offering summer recreation for residents and visitors.",
+                  "category": "family",
+                  "coords": [
+                        18.78089,
+                        49.440345
+                  ]
+            },
+            {
+                  "name": "Jurošovský vrch",
+                  "text": "A hill near Čadca offering hikers a view of the surrounding Kysuce landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.766086,
+                        49.450333
+                  ]
+            },
+            {
+                  "name": "Briava",
+                  "text": "Briava is a forested natural peak situated near the town of Cadca in Slovakia. Hikers traversing this mountain will discover the densely wooded landscapes characteristic of the region.",
+                  "category": "natural",
+                  "coords": [
+                        18.765163,
+                        49.410551
+                  ]
+            },
+            {
+                  "name": "Bukovský prameň",
+                  "text": "The Bukovský spring in Cadca.",
+                  "category": "landmark",
+                  "coords": [
+                        18.806437,
+                        49.445895
+                  ]
+            },
+            {
+                  "name": "Kostol svätého Bartolomeja",
+                  "text": "The Baroque parish church in the center of Čadca is one of the city's most important monuments.",
+                  "category": "religious",
+                  "coords": [
+                        18.791458,
+                        49.438312
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Čadca", hu: "Csaca", ro: "Čadca", en: "Čadca"},
@@ -18036,7 +18261,7 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
             },
             {
                   "name": "Krajská Hvezdáreň a planetárium M. Hella",
-                  "text": "Eine Sternwarte und ein Planetarium in Rimavská Sobota.",
+                  "text": "Krajská hvezdáreň a planetárium M. Hella v Rimavskej Sobote – Sternwarte mit Planetarium und Teleskopen zur Himmelsbeobachtung.",
                   "category": "museum",
                   "coords": [
                         20.00514,
@@ -18045,7 +18270,7 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
             },
             {
                   "name": "Kaštieľ Rimavská Sobota",
-                  "text": "Ein historisches Herrenhaus in Rimavská Sobota.",
+                  "text": "Ein Herrenhaus in Rimavska Sobota.",
                   "category": "historical",
                   "coords": [
                         20.005337,
@@ -18128,7 +18353,7 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
             },
             {
                   "name": "Krajská Hvezdáreň a planetárium M. Hella",
-                  "text": "Csillagvizsgáló és planetárium Rimaszombatban.",
+                  "text": "M. Hell Megyei Csillagvizsgáló és Planetárium Rimaszombaton – csillagvizsgáló planetáriummal és távcsövekkel az égbolt megfigyeléséhez.",
                   "category": "museum",
                   "coords": [
                         20.00514,
@@ -18137,7 +18362,7 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
             },
             {
                   "name": "Kaštieľ Rimavská Sobota",
-                  "text": "Rimaszombatban található történelmi kúria.",
+                  "text": "Egy kúria Rimavska Sobotában.",
                   "category": "historical",
                   "coords": [
                         20.005337,
@@ -18220,7 +18445,7 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
             },
             {
                   "name": "Krajská Hvezdáreň a planetárium M. Hella",
-                  "text": "Un observator și planetariu situat în Rimavská Sobota.",
+                  "text": "Observatorul și Planetariul Regional M. Hell din Rimavská Sobota – observator cu planetariu și telescoape pentru observații cerești.",
                   "category": "museum",
                   "coords": [
                         20.00514,
@@ -18229,7 +18454,7 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
             },
             {
                   "name": "Kaštieľ Rimavská Sobota",
-                  "text": "Un conac istoric situat în Rimavská Sobota.",
+                  "text": "Un conac în Rimavska Sobota.",
                   "category": "historical",
                   "coords": [
                         20.005337,
@@ -18312,7 +18537,7 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
             },
             {
                   "name": "Krajská Hvezdáreň a planetárium M. Hella",
-                  "text": "An observatory and planetarium located in Rimavská Sobota.",
+                  "text": "M. Hell Regional Observatory and Planetarium in Rimavská Sobota – an observatory with a planetarium and telescopes for skywatching.",
                   "category": "museum",
                   "coords": [
                         20.00514,
@@ -18321,7 +18546,7 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
             },
             {
                   "name": "Kaštieľ Rimavská Sobota",
-                  "text": "A historic manor house situated in Rimavská Sobota.",
+                  "text": "A manor house in Rimavska Sobota.",
                   "category": "historical",
                   "coords": [
                         20.005337,
@@ -19868,7 +20093,7 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
             },
             {
                   "name": "Biokúpalisko Sninské Rybníky",
-                  "text": "Das Biokúpalisko Sninské Rybníky ist ein öffentliches Bad in Snina für Erholung im Wasser.",
+                  "text": "Biokúpalisko Sninské Rybníky bei Snina – natürliches Badegewässer mit Liegewiesen und Steg.",
                   "category": "family",
                   "coords": [
                         22.190194,
@@ -19886,7 +20111,7 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
             },
             {
                   "name": "Mini Zoo Juško",
-                  "text": "Der Mini Zoo Juško in Snina ist ein Ausflugsziel für Familien mit Kindern.",
+                  "text": "Mini Zoo Juško in Snina – Gehege mit Hirschen, Wildschweinen und Enten.",
                   "category": "family",
                   "coords": [
                         22.157604,
@@ -19915,7 +20140,7 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
             },
             {
                   "name": "Biokúpalisko Sninské Rybníky",
-                  "text": "A Biokúpalisko Sninské Rybníky egy nyilvános fürdő Szinna városában, amely vizes kikapcsolódást nyújt.",
+                  "text": "Sninské Rybníky biofürdő Szinna közelében – természetes fürdőzőhely pihenőrétekkel és stéggel.",
                   "category": "family",
                   "coords": [
                         22.190194,
@@ -19933,7 +20158,7 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
             },
             {
                   "name": "Mini Zoo Juško",
-                  "text": "A szinnai Mini Zoo Juško egy kedvelt úti cél kisgyermekes családok számára.",
+                  "text": "Mini Zoo Juško Szinnán – szarvasokkal, vaddisznókkal és kacsákkal rendelkező kifutók.",
                   "category": "family",
                   "coords": [
                         22.157604,
@@ -19962,7 +20187,7 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
             },
             {
                   "name": "Biokúpalisko Sninské Rybníky",
-                  "text": "Biokúpalisko Sninské Rybníky este o baie publică din Snina pentru recreere în apă.",
+                  "text": "Biokúpalisko Sninské Rybníky lângă Snina – lac natural de înot cu zone de relaxare și debarcader.",
                   "category": "family",
                   "coords": [
                         22.190194,
@@ -19980,7 +20205,7 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
             },
             {
                   "name": "Mini Zoo Juško",
-                  "text": "Mini Zoo Juško din Snina este o destinație pentru familiile cu copii.",
+                  "text": "Mini Zoo Juško în Snina – țarcuri cu cerbi, mistreți și rațe.",
                   "category": "family",
                   "coords": [
                         22.157604,
@@ -20009,7 +20234,7 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
             },
             {
                   "name": "Biokúpalisko Sninské Rybníky",
-                  "text": "Biokúpalisko Sninské Rybníky is a public bath in Snina for water recreation.",
+                  "text": "Sninské Rybníky bio-bathing area near Snina – a natural swimming lake with grassy banks and a jetty.",
                   "category": "family",
                   "coords": [
                         22.190194,
@@ -20027,7 +20252,7 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
             },
             {
                   "name": "Mini Zoo Juško",
-                  "text": "Mini Zoo Juško in Snina is a destination for families with children.",
+                  "text": "Mini Zoo Juško in Snina – enclosures with deer, wild boar, and ducks.",
                   "category": "family",
                   "coords": [
                         22.157604,
@@ -20130,7 +20355,7 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
             },
             {
                   "name": "Hlbocká priehrada",
-                  "text": "Hlbocká priehrada in Senica ist ein Stausee, der sich ideal für Spaziergänge in der natürlichen Umgebung eignet.",
+                  "text": "Hlbocká priehrada bei Senica – Stausee mit Badestrand und Campingplatz.",
                   "category": "natural",
                   "coords": [
                         17.41802,
@@ -20204,7 +20429,7 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
             },
             {
                   "name": "Hlbocká priehrada",
-                  "text": "A Szenicén található Hlbocká priehrada egy víztározó, amely ideális a természetes környezetben tett sétákhoz.",
+                  "text": "Hlbocká-víztározó Szenice közelében – tározótó stranddal és kempinggel.",
                   "category": "natural",
                   "coords": [
                         17.41802,
@@ -20278,7 +20503,7 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
             },
             {
                   "name": "Hlbocká priehrada",
-                  "text": "Hlbocká priehrada din Senica este un rezervor ideal pentru plimbări în mediul natural.",
+                  "text": "Hlbocká priehrada lângă Senica – lac de acumulare cu plajă și camping.",
                   "category": "natural",
                   "coords": [
                         17.41802,
@@ -20352,7 +20577,7 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
             },
             {
                   "name": "Hlbocká priehrada",
-                  "text": "Hlbocká priehrada in Senica is a reservoir ideal for walks in natural surroundings.",
+                  "text": "Hlbocká reservoir near Senica – a dam lake with a swimming beach and campsite.",
                   "category": "natural",
                   "coords": [
                         17.41802,
@@ -23070,7 +23295,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             },
             {
                   "name": "Hviezda",
-                  "text": "Ein lokales Wahrzeichen und eine Attraktion in der Stadt Púchov.",
+                  "text": "Hviezda in Púchov – sternförmiger Aussichtsturm auf dem Stadtberg mit Blick aufs Waagtal.",
                   "category": "landmark",
                   "coords": [
                         18.365759,
@@ -23088,7 +23313,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             },
             {
                   "name": "Náhrobok rodiny MARCZIBÁNYI",
-                  "text": "Ein historisches Familiengrab und Denkmal in Púchov.",
+                  "text": "Náhrobok rodiny Marczibányi v Púchove – klassizistisches Grabmal der ungarischen Adelsfamilie aus dem 19. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         18.330336,
@@ -23252,7 +23477,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             },
             {
                   "name": "Hviezda",
-                  "text": "Helyi nevezetesség és látványosság Puhó városában.",
+                  "text": "Hviezda Puchón – csillag alakú kilátó a városi hegyen, a Vág-völgyre néző kilátással.",
                   "category": "landmark",
                   "coords": [
                         18.365759,
@@ -23270,7 +23495,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             },
             {
                   "name": "Náhrobok rodiny MARCZIBÁNYI",
-                  "text": "Történelmi családi síremlék és emlékmű Puhóban.",
+                  "text": "Marczibányi család síremléke Puchón – klasszicista síremlék a 19. századi magyar nemesi család számára.",
                   "category": "historical",
                   "coords": [
                         18.330336,
@@ -23434,7 +23659,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             },
             {
                   "name": "Hviezda",
-                  "text": "Un repertoar local și atracție în orașul Púchov.",
+                  "text": "Hviezda în Púchov – turn de observație în formă de stea pe dealul orașului, cu vedere spre valea Váhului.",
                   "category": "landmark",
                   "coords": [
                         18.365759,
@@ -23452,7 +23677,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             },
             {
                   "name": "Náhrobok rodiny MARCZIBÁNYI",
-                  "text": "Un mormânt de familie istoric și monument situat în Púchov.",
+                  "text": "Monumentul funerar al familiei Marczibányi în Púchov – mormânt clasicist al familiei nobiliare maghiare din secolul al XIX-lea.",
                   "category": "historical",
                   "coords": [
                         18.330336,
@@ -23616,7 +23841,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             },
             {
                   "name": "Hviezda",
-                  "text": "A local landmark and attraction in the town of Púchov.",
+                  "text": "Hviezda in Púchov – a star-shaped observation tower on the town hill overlooking the Váh valley.",
                   "category": "landmark",
                   "coords": [
                         18.365759,
@@ -23634,7 +23859,7 @@ imageHint: "Rožňava main square with the historic watchtower",
             },
             {
                   "name": "Náhrobok rodiny MARCZIBÁNYI",
-                  "text": "A historic family tomb and monument located in Púchov.",
+                  "text": "Marczibányi family tombstone in Púchov – a Classicist funerary monument for a 19th-century Hungarian noble family.",
                   "category": "historical",
                   "coords": [
                         18.330336,
@@ -26760,7 +26985,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Franciscan monastery",
-                  "text": "Historisches Franziskanerkloster in der Stadt Skalica.",
+                  "text": "Ein Franziskanerkloster in Skalica.",
                   "category": "religious",
                   "coords": [
                         17.232271,
@@ -26778,7 +27003,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Jesuit Monastery",
-                  "text": "Historische Klosteranlage der Jesuiten in Skalica.",
+                  "text": "Ein Jesuitenkloster in Skalica.",
                   "category": "religious",
                   "coords": [
                         17.228675,
@@ -26796,7 +27021,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Monastery of the Merciful Brethren",
-                  "text": "Klosteranlage der Barmherzigen Brüder in Skalica.",
+                  "text": "Kloster der Barmherzigen Brüder in Skalica – Barockkloster mit angeschlossenem Krankenhaus und Apotheke.",
                   "category": "religious",
                   "coords": [
                         17.22758,
@@ -26879,7 +27104,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Franciscan monastery",
-                  "text": "Történelmi ferences kolostor Szakolca városában.",
+                  "text": "Egy ferences kolostor Skalicában.",
                   "category": "religious",
                   "coords": [
                         17.232271,
@@ -26897,7 +27122,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Jesuit Monastery",
-                  "text": "A jezsuiták történelmi kolostoregyüttese Szakolcán.",
+                  "text": "Egy jezsuita kolostor Skalicában.",
                   "category": "religious",
                   "coords": [
                         17.228675,
@@ -26915,7 +27140,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Monastery of the Merciful Brethren",
-                  "text": "Az Irgalmasrendi szerzetesek kolostora Szakolcán.",
+                  "text": "Irgalmasrendi kolostor Szakolcán – barokk kolostor kórházzal és gyógyszertárral.",
                   "category": "religious",
                   "coords": [
                         17.22758,
@@ -26998,7 +27223,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Franciscan monastery",
-                  "text": "Mănăstire franciscană istorică din orașul Skalica.",
+                  "text": "O mănăstire franciscană în Skalica.",
                   "category": "religious",
                   "coords": [
                         17.232271,
@@ -27016,7 +27241,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Jesuit Monastery",
-                  "text": "Complex monahal istoric al iezuiților din Skalica.",
+                  "text": "O mănăstire iezuită în Skalica.",
                   "category": "religious",
                   "coords": [
                         17.228675,
@@ -27034,7 +27259,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Monastery of the Merciful Brethren",
-                  "text": "Mănăstirea fraților mizericordieni din Skalica.",
+                  "text": "Mănăstirea Fraților Mizericordieni din Skalica – mănăstire barocă cu spital și farmacie anexe.",
                   "category": "religious",
                   "coords": [
                         17.22758,
@@ -27117,7 +27342,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Franciscan monastery",
-                  "text": "Historic Franciscan monastery in the town of Skalica.",
+                  "text": "A Franciscan monastery in Skalica.",
                   "category": "religious",
                   "coords": [
                         17.232271,
@@ -27135,7 +27360,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Jesuit Monastery",
-                  "text": "Historic Jesuit monastery complex in Skalica.",
+                  "text": "A Jesuit monastery in Skalica.",
                   "category": "religious",
                   "coords": [
                         17.228675,
@@ -27153,7 +27378,7 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
             },
             {
                   "name": "Monastery of the Merciful Brethren",
-                  "text": "Monastery of the Brothers Hospitallers in Skalica.",
+                  "text": "Monastery of the Merciful Brethren in Skalica – a Baroque monastery with a hospital and pharmacy.",
                   "category": "religious",
                   "coords": [
                         17.22758,
@@ -28185,7 +28410,7 @@ imageHint: "Sabinov town center buildings",
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "Eine evangelische Kirche in der Stadt Veľký Krtíš.",
+                  "text": "Eine lutherische Kirche in Velky Krtis.",
                   "category": "religious",
                   "coords": [
                         19.344117,
@@ -28223,7 +28448,7 @@ imageHint: "Sabinov town center buildings",
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "Evangélikus templom Nagykürtös városában.",
+                  "text": "Egy lutheránus templom Velky Krtisben.",
                   "category": "religious",
                   "coords": [
                         19.344117,
@@ -28261,7 +28486,7 @@ imageHint: "Sabinov town center buildings",
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "O biserică evanghelică situată în orașul Veľký Krtíš.",
+                  "text": "O biserică luterană în Velky Krtis.",
                   "category": "religious",
                   "coords": [
                         19.344117,
@@ -28299,7 +28524,7 @@ imageHint: "Sabinov town center buildings",
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "A Lutheran church located in the town of Veľký Krtíš.",
+                  "text": "A Lutheran church in Velky Krtis.",
                   "category": "religious",
                   "coords": [
                         19.344117,
@@ -28718,7 +28943,7 @@ imageHint: "Folklore festival in Myjava with traditional music",
             },
             {
                   "name": "Kaskády v Maši",
-                  "text": "Natürliche Kaskaden im Ortsteil Maša bei Revúca.",
+                  "text": "Kaskády v Maši bei Revúca – Wasserfallkaskaden im Maša-Tal, umgeben von Buchenwald.",
                   "category": "landmark",
                   "coords": [
                         20.104955,
@@ -28810,7 +29035,7 @@ imageHint: "Folklore festival in Myjava with traditional music",
             },
             {
                   "name": "Kaskády v Maši",
-                  "text": "Természetes vízesések és kaskádok Nagyrőce Maša városrészében.",
+                  "text": "Maši-vízesések Revuca közelében – vízesés lépcsők a Maša-völgyben, bükkös erdő övezte.",
                   "category": "landmark",
                   "coords": [
                         20.104955,
@@ -28902,7 +29127,7 @@ imageHint: "Folklore festival in Myjava with traditional music",
             },
             {
                   "name": "Kaskády v Maši",
-                  "text": "Cascade naturale situate în zona Maša de lângă Revúca.",
+                  "text": "Cascadele Maša lângă Revúca – cascade în trepte în valea Maša, înconjurate de pădure de fag.",
                   "category": "landmark",
                   "coords": [
                         20.104955,
@@ -28994,7 +29219,7 @@ imageHint: "Folklore festival in Myjava with traditional music",
             },
             {
                   "name": "Kaskády v Maši",
-                  "text": "Natural cascades located in the Maša area near Revúca.",
+                  "text": "Maša waterfalls near Revúca – a series of cascades in the Maša valley, surrounded by beech forest.",
                   "category": "landmark",
                   "coords": [
                         20.104955,
@@ -30179,7 +30404,7 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
             },
             {
                   "name": "Všetkých svätých",
-                  "text": "Die Allerheiligenkirche, ein religiöses Gebäude in Bytča.",
+                  "text": "Die Allerheiligenkirche in Bytca.",
                   "category": "religious",
                   "coords": [
                         18.559173,
@@ -30253,7 +30478,7 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
             },
             {
                   "name": "Všetkých svätých",
-                  "text": "A Mindenszentek-templom, Nagybiccse egyik vallási épülete.",
+                  "text": "A Mindenszentek temploma Bytcában.",
                   "category": "religious",
                   "coords": [
                         18.559173,
@@ -30327,7 +30552,7 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
             },
             {
                   "name": "Všetkých svätých",
-                  "text": "Biserica Toți Sfinții, un edificiu religios în orașul Bytča.",
+                  "text": "Biserica Tuturor Sfinților din Bytca.",
                   "category": "religious",
                   "coords": [
                         18.559173,
@@ -30401,7 +30626,7 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
             },
             {
                   "name": "Všetkých svätých",
-                  "text": "The All Saints Church, a religious building in Bytča.",
+                  "text": "The All Saints church in Bytca.",
                   "category": "religious",
                   "coords": [
                         18.559173,
@@ -31163,7 +31388,7 @@ imageHint: "Moldava nad Bodvou town center and churches",
             },
             {
                   "name": "Veterný mlyn Holíč",
-                  "text": "Eine historische Windmühle holländischen Typs in Holíč.",
+                  "text": "Holländische Windmühle aus dem 19. Jahrhundert in Holíč.",
                   "category": "landmark",
                   "coords": [
                         17.172692,
@@ -31208,7 +31433,7 @@ imageHint: "Moldava nad Bodvou town center and churches",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "Eine dem heiligen Martin gewidmete Kirche in Holíč.",
+                  "text": "Die St.-Martins-Kirche in Holic.",
                   "category": "religious",
                   "coords": [
                         17.161679,
@@ -31264,7 +31489,7 @@ imageHint: "Moldava nad Bodvou town center and churches",
             },
             {
                   "name": "Veterný mlyn Holíč",
-                  "text": "Történelmi holland típusú szélmalom Holics városában.",
+                  "text": "19. századi holland típusú szélmalom Holíčban.",
                   "category": "landmark",
                   "coords": [
                         17.172692,
@@ -31309,7 +31534,7 @@ imageHint: "Moldava nad Bodvou town center and churches",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "Szent Márton tiszteletére szentelt templom Holics városában.",
+                  "text": "Szent Márton temploma Holicban.",
                   "category": "religious",
                   "coords": [
                         17.161679,
@@ -31365,7 +31590,7 @@ imageHint: "Moldava nad Bodvou town center and churches",
             },
             {
                   "name": "Veterný mlyn Holíč",
-                  "text": "O moară de vânt istorică de tip olandez în Holíč.",
+                  "text": "Moară de vânt de tip olandez din secolul al XIX-lea în Holíč.",
                   "category": "landmark",
                   "coords": [
                         17.172692,
@@ -31410,7 +31635,7 @@ imageHint: "Moldava nad Bodvou town center and churches",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "O biserică dedicată Sfântului Martin în Holíč.",
+                  "text": "Biserica Sfântul Martin din Holic.",
                   "category": "religious",
                   "coords": [
                         17.161679,
@@ -31466,7 +31691,7 @@ imageHint: "Moldava nad Bodvou town center and churches",
             },
             {
                   "name": "Veterný mlyn Holíč",
-                  "text": "A historic Dutch-type windmill located in the town of Holíč.",
+                  "text": "A Dutch-type windmill from the 19th century in Holíč.",
                   "category": "landmark",
                   "coords": [
                         17.172692,
@@ -31511,7 +31736,7 @@ imageHint: "Moldava nad Bodvou town center and churches",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "A church dedicated to Saint Martin in Holíč.",
+                  "text": "St. Martin's church in Holic.",
                   "category": "religious",
                   "coords": [
                         17.161679,
@@ -31749,7 +31974,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Révkapu-Bastei",
-                  "text": "Eine Bastion in der Nähe des alten Fährhafens.",
+                  "text": "Révkapu-Bastion in Štúrovo – ehemalige Toranlage der Festung mit barocken Steinmetzarbeiten.",
                   "category": "landmark",
                   "coords": [
                         18.735177,
@@ -31758,7 +31983,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Nordbastei",
-                  "text": "Der nördliche Abschnitt der historischen Burgmauer.",
+                  "text": "Nördliche Bastion in Štúrovo – Wehrturm der Festung mit Zinnenkranz und Schießscharten.",
                   "category": "landmark",
                   "coords": [
                         18.734972,
@@ -31830,7 +32055,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Úszómedence",
-                  "text": "Ein klassisches Schwimmbecken in Štúrovo für sportliche Schwimmer.",
+                  "text": "Úszómedence in Štúrovo – Freibad mit 50-m-Becken, Sprungturm und Kinderbereich.",
                   "category": "family",
                   "coords": [
                         18.736784,
@@ -31985,7 +32210,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Révkapu rondella",
-                  "text": "A régi révkapu közelében található erődítmény.",
+                  "text": "Révkapu-bástya Párkányban – a vár egykori kapuépülete barokk kőfaragásokkal.",
                   "category": "landmark",
                   "coords": [
                         18.735177,
@@ -31994,7 +32219,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Északi rondella",
-                  "text": "A történelmi várfal északi szakasza.",
+                  "text": "Északi bástya Párkányban – a vár védőtornya oromzattal és lőrésekkel.",
                   "category": "landmark",
                   "coords": [
                         18.734972,
@@ -32066,7 +32291,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Úszómedence",
-                  "text": "Klasszikus úszómedence Párkányban a sportos úszók számára.",
+                  "text": "Úszómedence Párkányban – szabadtéri uszoda 50 méteres medencével, ugrótoronnyal és gyermekrésszel.",
                   "category": "family",
                   "coords": [
                         18.736784,
@@ -32221,7 +32446,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Révkapu rondella",
-                  "text": "Un bastion situat în apropierea vechiului punct de trecere cu bacul.",
+                  "text": "Bastionul Révkapu din Štúrovo – fosta poartă a cetății cu lucrări de piatră baroce.",
                   "category": "landmark",
                   "coords": [
                         18.735177,
@@ -32230,7 +32455,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Északi rondella",
-                  "text": "Secțiunea nordică a zidului istoric al cetății.",
+                  "text": "Bastionul de Nord din Štúrovo – turn de apărare al cetății cu creneluri și ambrazuri.",
                   "category": "landmark",
                   "coords": [
                         18.734972,
@@ -32302,7 +32527,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Úszómedence",
-                  "text": "O piscină clasică în Štúrovo pentru înotători sportivi.",
+                  "text": "Úszómedence în Štúrovo – piscină în aer liber cu bazin de 50 m, turn de sărituri și zonă pentru copii.",
                   "category": "family",
                   "coords": [
                         18.736784,
@@ -32457,7 +32682,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Révkapu-Bastion",
-                  "text": "A bastion located near the old ferry port.",
+                  "text": "Révkapu bastion in Štúrovo – the former gate structure of the fortress with Baroque stone carvings.",
                   "category": "landmark",
                   "coords": [
                         18.735177,
@@ -32466,7 +32691,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Norther bastionn",
-                  "text": "The northern section of the historical castle wall.",
+                  "text": "Northern bastion in Štúrovo – a defensive tower of the fortress with battlements and loopholes.",
                   "category": "landmark",
                   "coords": [
                         18.734972,
@@ -32538,7 +32763,7 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
             },
             {
                   "name": "Úszómedence",
-                  "text": "A classic swimming pool in Štúrovo for sport swimmers.",
+                  "text": "Úszómedence in Štúrovo – an outdoor swimming pool with a 50-metre pool, diving tower, and children's area.",
                   "category": "family",
                   "coords": [
                         18.736784,
@@ -33007,7 +33232,196 @@ imageHint: "Fiľakovo Castle ruins on the rock above the city",
     },
     image: "/poi-images/slovakia-filakovo-cities-v2.webp",
 },  {
-    id: "slovakia-sastin-straze-cities-v2", "sights": {"de": [{"name": "Vinohrádky", "text": "Der Naturgipfel Vinohrádky befindet sich in der Nähe von Sastin Straze in der Slowakei. Er bietet Wanderern eine entspannende natürliche Umgebung, in der sie die lokale Hügellandschaft auf sich wirken lassen können.", "category": "natural", "coords": [17.134161, 48.664595]}, {"name": "Hrad Šaštín", "text": "Überreste einer historischen Burg in Šaštín-Stráže.", "category": "historical", "coords": [17.144078, 48.641109]}, {"name": "Jubilejný háj RČS 1918-1928, Šaštín-Stráže - Gazárka", "text": "Ein Gedenkhain in Gazárka, der an das erste Jahrzehnt der Tschechoslowakischen Republik erinnert.", "category": "landmark", "coords": [17.135679, 48.632748]}, {"name": "Bazilika Sedembolestnej Panny Márie", "text": "Diese bedeutende Basilika in Šaštín-Stráže ist ein wichtiges Nationalheiligtum und Wallfahrtsort in der Slowakei.", "category": "religious", "coords": [17.142992, 48.638953]}, {"name": "Kostol sv. Alžbety Uhorskej", "text": "Eine katholische Kirche in Šaštín-Stráže, die der heiligen Elisabeth von Ungarn gewidmet ist.", "category": "religious", "coords": [17.145433, 48.648769]}], "hu": [{"name": "Vinohrádky", "text": "A Vinohrádky természeti csúcsa a szlovákiai Sastin Straze közelében található. Pihentető természeti környezetet kínál a vándoroknak, ahol magukba szívhatják a helyi dombvidék hangulatát.", "category": "natural", "coords": [17.134161, 48.664595]}, {"name": "Hrad Šaštín", "text": "Egy történelmi vár romjai Šaštín-Stráže településen.", "category": "historical", "coords": [17.144078, 48.641109]}, {"name": "Jubilejný háj RČS 1918-1928, Šaštín-Stráže - Gazárka", "text": "Egy emlékpark Gazárka területén, amely Csehszlovákia megalakulásának első évtizedére emlékeztet.", "category": "landmark", "coords": [17.135679, 48.632748]}, {"name": "Bazilika Sedembolestnej Panny Márie", "text": "Ez a jelentős bazilika Šaštín-Stráže városában fontos nemzeti kegyhely és zarándokhely Szlovákiában.", "category": "religious", "coords": [17.142992, 48.638953]}, {"name": "Kostol sv. Alžbety Uhorskej", "text": "Šaštín-Stráže katolikus temploma, amelyet Árpád-házi Szent Erzsébet tiszteletére szenteltek.", "category": "religious", "coords": [17.145433, 48.648769]}], "ro": [{"name": "Vinohrádky", "text": "Vârful natural Vinohrádky este situat în apropiere de Sastin Straze din Slovacia. Acesta oferă drumeților un mediu natural relaxant, unde pot absorbi atmosfera dealurilor locale.", "category": "natural", "coords": [17.134161, 48.664595]}, {"name": "Hrad Šaštín", "text": "Ruinele unei cetăți istorice din Šaštín-Stráže.", "category": "historical", "coords": [17.144078, 48.641109]}, {"name": "Jubilejný háj RČS 1918-1928, Šaštín-Stráže - Gazárka", "text": "O dumbravă memorială în Gazárka, care comemorează prima decadă a Republicii Cehoslovace.", "category": "landmark", "coords": [17.135679, 48.632748]}, {"name": "Bazilika Sedembolestnej Panny Márie", "text": "Această bazilică importantă din Šaštín-Stráže este un sanctuar național și loc de pelerinaj major în Slovacia.", "category": "religious", "coords": [17.142992, 48.638953]}, {"name": "Kostol sv. Alžbety Uhorskej", "text": "O biserică catolică din Šaštín-Stráže, dedicată Sfintei Elisabeta a Ungariei.", "category": "religious", "coords": [17.145433, 48.648769]}], "en": [{"name": "Vinohrádky", "text": "The natural peak of Vinohrádky is located near Sastin Straze in Slovakia. It offers wanderers a relaxing natural environment where they can take in the local hillside atmosphere.", "category": "natural", "coords": [17.134161, 48.664595]}, {"name": "Hrad Šaštín", "text": "Ruins of a historical castle in Šaštín-Stráže.", "category": "historical", "coords": [17.144078, 48.641109]}, {"name": "Jubilejný háj RČS 1918-1928, Šaštín-Stráže - Gazárka", "text": "A memorial grove in Gazárka commemorating the first decade of the Czechoslovak Republic.", "category": "landmark", "coords": [17.135679, 48.632748]}, {"name": "Bazilika Sedembolestnej Panny Márie", "text": "This significant basilica in Šaštín-Stráže is a major national shrine and pilgrimage site in Slovakia.", "category": "religious", "coords": [17.142992, 48.638953]}, {"name": "Kostol sv. Alžbety Uhorskej", "text": "A Catholic church in Šaštín-Stráže dedicated to Saint Elizabeth of Hungary.", "category": "religious", "coords": [17.145433, 48.648769]}]},
+    id: "slovakia-sastin-straze-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vinohrádky",
+                  "text": "Der Naturgipfel Vinohrádky befindet sich in der Nähe von Sastin Straze in der Slowakei. Er bietet Wanderern eine entspannende natürliche Umgebung, in der sie die lokale Hügellandschaft auf sich wirken lassen können.",
+                  "category": "natural",
+                  "coords": [
+                        17.134161,
+                        48.664595
+                  ]
+            },
+            {
+                  "name": "Hrad Šaštín",
+                  "text": "Hrad Šaštín bei Šaštín-Stráže – Burgruine auf einem Kalksteinhügel mit weitem Blick ins Umland.",
+                  "category": "historical",
+                  "coords": [
+                        17.144078,
+                        48.641109
+                  ]
+            },
+            {
+                  "name": "Jubilejný háj RČS 1918-1928, Šaštín-Stráže - Gazárka",
+                  "text": "Ein Gedenkhain in Gazárka, der an das erste Jahrzehnt der Tschechoslowakischen Republik erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        17.135679,
+                        48.632748
+                  ]
+            },
+            {
+                  "name": "Bazilika Sedembolestnej Panny Márie",
+                  "text": "Diese bedeutende Basilika in Šaštín-Stráže ist ein wichtiges Nationalheiligtum und Wallfahrtsort in der Slowakei.",
+                  "category": "religious",
+                  "coords": [
+                        17.142992,
+                        48.638953
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Alžbety Uhorskej",
+                  "text": "Eine katholische Kirche in Šaštín-Stráže, die der heiligen Elisabeth von Ungarn gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.145433,
+                        48.648769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vinohrádky",
+                  "text": "A Vinohrádky természeti csúcsa a szlovákiai Sastin Straze közelében található. Pihentető természeti környezetet kínál a vándoroknak, ahol magukba szívhatják a helyi dombvidék hangulatát.",
+                  "category": "natural",
+                  "coords": [
+                        17.134161,
+                        48.664595
+                  ]
+            },
+            {
+                  "name": "Hrad Šaštín",
+                  "text": "Šaštíni vár Sasvár-Strázsa közelében – várrom egy mészkődombon, messze tekintő kilátással.",
+                  "category": "historical",
+                  "coords": [
+                        17.144078,
+                        48.641109
+                  ]
+            },
+            {
+                  "name": "Jubilejný háj RČS 1918-1928, Šaštín-Stráže - Gazárka",
+                  "text": "Egy emlékpark Gazárka területén, amely Csehszlovákia megalakulásának első évtizedére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.135679,
+                        48.632748
+                  ]
+            },
+            {
+                  "name": "Bazilika Sedembolestnej Panny Márie",
+                  "text": "Ez a jelentős bazilika Šaštín-Stráže városában fontos nemzeti kegyhely és zarándokhely Szlovákiában.",
+                  "category": "religious",
+                  "coords": [
+                        17.142992,
+                        48.638953
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Alžbety Uhorskej",
+                  "text": "Šaštín-Stráže katolikus temploma, amelyet Árpád-házi Szent Erzsébet tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        17.145433,
+                        48.648769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vinohrádky",
+                  "text": "Vârful natural Vinohrádky este situat în apropiere de Sastin Straze din Slovacia. Acesta oferă drumeților un mediu natural relaxant, unde pot absorbi atmosfera dealurilor locale.",
+                  "category": "natural",
+                  "coords": [
+                        17.134161,
+                        48.664595
+                  ]
+            },
+            {
+                  "name": "Hrad Šaštín",
+                  "text": "Castelul Šaštín lângă Šaštín-Stráže – ruină de castel pe un deal de calcar, cu vedere largă asupra împrejurimilor.",
+                  "category": "historical",
+                  "coords": [
+                        17.144078,
+                        48.641109
+                  ]
+            },
+            {
+                  "name": "Jubilejný háj RČS 1918-1928, Šaštín-Stráže - Gazárka",
+                  "text": "O dumbravă memorială în Gazárka, care comemorează prima decadă a Republicii Cehoslovace.",
+                  "category": "landmark",
+                  "coords": [
+                        17.135679,
+                        48.632748
+                  ]
+            },
+            {
+                  "name": "Bazilika Sedembolestnej Panny Márie",
+                  "text": "Această bazilică importantă din Šaštín-Stráže este un sanctuar național și loc de pelerinaj major în Slovacia.",
+                  "category": "religious",
+                  "coords": [
+                        17.142992,
+                        48.638953
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Alžbety Uhorskej",
+                  "text": "O biserică catolică din Šaštín-Stráže, dedicată Sfintei Elisabeta a Ungariei.",
+                  "category": "religious",
+                  "coords": [
+                        17.145433,
+                        48.648769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vinohrádky",
+                  "text": "The natural peak of Vinohrádky is located near Sastin Straze in Slovakia. It offers wanderers a relaxing natural environment where they can take in the local hillside atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        17.134161,
+                        48.664595
+                  ]
+            },
+            {
+                  "name": "Hrad Šaštín",
+                  "text": "Šaštín castle near Šaštín-Stráže – a castle ruin on a limestone hill with panoramic views.",
+                  "category": "historical",
+                  "coords": [
+                        17.144078,
+                        48.641109
+                  ]
+            },
+            {
+                  "name": "Jubilejný háj RČS 1918-1928, Šaštín-Stráže - Gazárka",
+                  "text": "A memorial grove in Gazárka commemorating the first decade of the Czechoslovak Republic.",
+                  "category": "landmark",
+                  "coords": [
+                        17.135679,
+                        48.632748
+                  ]
+            },
+            {
+                  "name": "Bazilika Sedembolestnej Panny Márie",
+                  "text": "This significant basilica in Šaštín-Stráže is a major national shrine and pilgrimage site in Slovakia.",
+                  "category": "religious",
+                  "coords": [
+                        17.142992,
+                        48.638953
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Alžbety Uhorskej",
+                  "text": "A Catholic church in Šaštín-Stráže dedicated to Saint Elizabeth of Hungary.",
+                  "category": "religious",
+                  "coords": [
+                        17.145433,
+                        48.648769
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Šaštín-Stráže", hu: "Sasvár-Morvaőr", ro: "Šaštín-Stráže", en: "Šaštín-Stráže"},
@@ -33138,7 +33552,7 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
             },
             {
                   "name": "Sútok Váhu a Belej",
-                  "text": "Der malerische Zusammenfluss der Flüsse Váh und Belá.",
+                  "text": "Sútok Váhu a Belej bei Liptovský Hrádok – Zusammenfluss von Waag und Bela mit Kiesbänken.",
                   "category": "landmark",
                   "coords": [
                         19.70937,
@@ -33284,7 +33698,7 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
             },
             {
                   "name": "Sútok Váhu a Belej",
-                  "text": "A Vág és a Béla folyók festői összefolyása.",
+                  "text": "Vág és Béla összefolyása Liptóhradok közelében – folyótalálkozás kavicsos zátonyokkal.",
                   "category": "landmark",
                   "coords": [
                         19.70937,
@@ -33430,7 +33844,7 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
             },
             {
                   "name": "Sútok Váhu a Belej",
-                  "text": "Confluența pitorească a râurilor Váh și Belá.",
+                  "text": "Confluența Váhului cu Bela lângă Liptovský Hrádok – întâlnirea râurilor cu bancuri de pietriș.",
                   "category": "landmark",
                   "coords": [
                         19.70937,
@@ -33576,7 +33990,7 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
             },
             {
                   "name": "Sútok Váhu a Belej",
-                  "text": "The scenic confluence of the Váh and Belá rivers.",
+                  "text": "Confluence of the Váh and Belá near Liptovský Hrádok – a river confluence with gravel bars.",
                   "category": "landmark",
                   "coords": [
                         19.70937,
@@ -34121,7 +34535,7 @@ imageHint: "Krompachy city center with mountains in background",
             },
             {
                   "name": "Bazén",
-                  "text": "Das Bazén in Modra ist ein Schwimmbad für die Freizeitgestaltung von Familien.",
+                  "text": "Bazén in Modra – öffentliches Hallenbad mit Sportbecken und Sauna.",
                   "category": "family",
                   "coords": [
                         17.276765,
@@ -34130,7 +34544,7 @@ imageHint: "Krompachy city center with mountains in background",
             },
             {
                   "name": "Letné kúpalisko Pezinok",
-                  "text": "Das Letné kúpalisko Pezinok in Modra ist ein Wasserpark für den Familienspaß im Sommer.",
+                  "text": "Letné kúpalisko Pezinok in Modra – Sommerbad mit drei Becken und großer Liegewiese.",
                   "category": "family",
                   "coords": [
                         17.269161,
@@ -34339,7 +34753,7 @@ imageHint: "Krompachy city center with mountains in background",
             },
             {
                   "name": "Bazén",
-                  "text": "A modori Bazén egy úszómedence családok szabadidős tevékenységéhez.",
+                  "text": "Bazén Modrán – nyilvános fedett uszoda sportmedencével és szaunával.",
                   "category": "family",
                   "coords": [
                         17.276765,
@@ -34348,7 +34762,7 @@ imageHint: "Krompachy city center with mountains in background",
             },
             {
                   "name": "Letné kúpalisko Pezinok",
-                  "text": "A modori Letné kúpalisko Pezinok egy vízipark a nyári családi szórakozáshoz.",
+                  "text": "Pezinoki nyári fürdő Modrán – nyári strand három medencével és nagy pihenőréttel.",
                   "category": "family",
                   "coords": [
                         17.269161,
@@ -34557,7 +34971,7 @@ imageHint: "Krompachy city center with mountains in background",
             },
             {
                   "name": "Bazén",
-                  "text": "Bazén din Modra este o piscină pentru petrecerea timpului liber în familie.",
+                  "text": "Bazén în Modra – piscină interioară publică cu bazin de sport și saună.",
                   "category": "family",
                   "coords": [
                         17.276765,
@@ -34566,7 +34980,7 @@ imageHint: "Krompachy city center with mountains in background",
             },
             {
                   "name": "Letné kúpalisko Pezinok",
-                  "text": "Letné kúpalisko Pezinok din Modra este un parc acvatic pentru distracția de vară în familie.",
+                  "text": "Letné kúpalisko Pezinok în Modra – ștrand de vară cu trei bazine și zonă mare de relaxare.",
                   "category": "family",
                   "coords": [
                         17.269161,
@@ -34775,7 +35189,7 @@ imageHint: "Krompachy city center with mountains in background",
             },
             {
                   "name": "Bazén",
-                  "text": "Bazén in Modra is a swimming pool for family leisure.",
+                  "text": "Bazén in Modra – a public indoor pool with a sports pool and sauna.",
                   "category": "family",
                   "coords": [
                         17.276765,
@@ -34784,7 +35198,7 @@ imageHint: "Krompachy city center with mountains in background",
             },
             {
                   "name": "Letné kúpalisko Pezinok",
-                  "text": "Letné kúpalisko Pezinok in Modra is a water park for summer family fun.",
+                  "text": "Pezinok summer swimming pool in Modra – a summer bath with three pools and a large sunbathing lawn.",
                   "category": "family",
                   "coords": [
                         17.269161,
@@ -35781,7 +36195,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Hradisko",
-                  "text": "Eine lokale historische oder natürliche Sehenswürdigkeit in Lipany.",
+                  "text": "Hradisko bei Lipany – frühgeschichtliche Wallburg auf einem Hügel mit doppeltem Ringwall.",
                   "category": "landmark",
                   "coords": [
                         20.972785,
@@ -35799,7 +36213,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Kostol sv. Márie Magdalény",
-                  "text": "Die örtliche Kirche der Heiligen Maria Magdalena in Lipany.",
+                  "text": "Die St.-Maria-Magdalena-Kirche in Lipany.",
                   "category": "religious",
                   "coords": [
                         20.974814,
@@ -35808,7 +36222,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "Eine historische Kirche, die dem heiligen Martin geweiht ist.",
+                  "text": "Die St.-Martins-Kirche in Lipany.",
                   "category": "religious",
                   "coords": [
                         20.962714,
@@ -35873,7 +36287,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Hradisko",
-                  "text": "Helyi történelmi vagy természeti látnivaló Héthárson.",
+                  "text": "Hradisko Lipany közelében – őskori földvár egy dombon, kettős sáncú erődítéssel.",
                   "category": "landmark",
                   "coords": [
                         20.972785,
@@ -35891,7 +36305,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Kostol sv. Márie Magdalény",
-                  "text": "Szent Mária Magdolna helyi temploma Héthárson.",
+                  "text": "Szent Mária Magdolna temploma Lipanyban.",
                   "category": "religious",
                   "coords": [
                         20.974814,
@@ -35900,7 +36314,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "Szent Márton tiszteletére szentelt történelmi templom.",
+                  "text": "Szent Márton temploma Lipanyban.",
                   "category": "religious",
                   "coords": [
                         20.962714,
@@ -35965,7 +36379,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Hradisko",
-                  "text": "O atracție istorică sau naturală locală în Lipany.",
+                  "text": "Hradisko lângă Lipany – cetate de pământ preistorică pe un deal, cu fortificație dublă de valuri.",
                   "category": "landmark",
                   "coords": [
                         20.972785,
@@ -35983,7 +36397,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Kostol sv. Márie Magdalény",
-                  "text": "Biserica locală Sfânta Maria Magdalena din Lipany.",
+                  "text": "Biserica Sfânta Maria Magdalena din Lipany.",
                   "category": "religious",
                   "coords": [
                         20.974814,
@@ -35992,7 +36406,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "O biserică istorică dedicată Sfântului Martin.",
+                  "text": "Biserica Sfântul Martin din Lipany.",
                   "category": "religious",
                   "coords": [
                         20.962714,
@@ -36057,7 +36471,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Hradisko",
-                  "text": "A local historical or natural attraction in Lipany.",
+                  "text": "Hradisko near Lipany – a prehistoric hillfort on a hill with double ramparts.",
                   "category": "landmark",
                   "coords": [
                         20.972785,
@@ -36075,7 +36489,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Kostol sv. Márie Magdalény",
-                  "text": "The local church of Saint Mary Magdalene in Lipany.",
+                  "text": "St. Mary Magdalene church in Lipany.",
                   "category": "religious",
                   "coords": [
                         20.974814,
@@ -36084,7 +36498,7 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
             },
             {
                   "name": "Kostol sv. Martina",
-                  "text": "A historical church dedicated to Saint Martin.",
+                  "text": "St. Martin's church in Lipany.",
                   "category": "religious",
                   "coords": [
                         20.962714,
@@ -36223,7 +36637,7 @@ imageHint: "Lipany town center with the Gothic church",
             },
             {
                   "name": "Kostol sv. Gála",
-                  "text": "Eine dem heiligen Gallus geweihte Kirche in Tvrdošín.",
+                  "text": "Die St.-Gallus-Kirche in Tvrdosin.",
                   "category": "religious",
                   "coords": [
                         19.523315,
@@ -36288,7 +36702,7 @@ imageHint: "Lipany town center with the Gothic church",
             },
             {
                   "name": "Kostol sv. Gála",
-                  "text": "Szent Gál tiszteletére szentelt templom Turdossinban.",
+                  "text": "Szent Gallusz temploma Tvrdosinban.",
                   "category": "religious",
                   "coords": [
                         19.523315,
@@ -36353,7 +36767,7 @@ imageHint: "Lipany town center with the Gothic church",
             },
             {
                   "name": "Kostol sv. Gála",
-                  "text": "O biserică dedicată Sfântului Gall în Tvrdošín.",
+                  "text": "Biserica Sfântul Gallus din Tvrdosin.",
                   "category": "religious",
                   "coords": [
                         19.523315,
@@ -36418,7 +36832,7 @@ imageHint: "Lipany town center with the Gothic church",
             },
             {
                   "name": "Kostol sv. Gála",
-                  "text": "A church dedicated to Saint Gall in Tvrdošín.",
+                  "text": "St. Gall's church in Tvrdosin.",
                   "category": "religious",
                   "coords": [
                         19.523315,
@@ -36684,7 +37098,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
       "de": [
             {
                   "name": "Krkavá skala",
-                  "text": "Krkavá skala ist eine markante Felsformation bei Vlkolínec.",
+                  "text": "Felsformation in Form einer Krähe oberhalb von Vlkolínec.",
                   "category": "landmark",
                   "coords": [
                         19.287341,
@@ -36693,7 +37107,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Sidorovo",
-                  "text": "Sidorovo ist ein Berg in der Nähe von Vlkolínec.",
+                  "text": "Sidorovo ist ein Hügel im Gebirge Veľká Fatra mit Blick auf das UNESCO-Dorf Vlkolinec.",
                   "category": "natural",
                   "coords": [
                         19.278695,
@@ -36702,7 +37116,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Malinné",
-                  "text": "Malinné ist ein Gipfel in der Großen Fatra bei Vlkolínec.",
+                  "text": "Malinné ist ein Gipfel im Gebirge Veľká Fatra nahe Vlkolinec.",
                   "category": "natural",
                   "coords": [
                         19.248576,
@@ -36711,7 +37125,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Ostré",
-                  "text": "Ostré ist ein Gipfel in der Niederen Tatra bei Vlkolínec.",
+                  "text": "Ostré ist ein Gipfel in der Niederen Tatra, südöstlich von Vlkolinec.",
                   "category": "natural",
                   "coords": [
                         19.310742,
@@ -36729,7 +37143,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Všetkých svätých",
-                  "text": "Kirche aller Heiligen in Vlkolínec.",
+                  "text": "Die Allerheiligenkirche in Vlkolinec.",
                   "category": "religious",
                   "coords": [
                         19.330823,
@@ -36738,7 +37152,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Horská pláž",
-                  "text": "Bergstrand in Vlkolínec.",
+                  "text": "Ein Bergseestrand in Vlkolinec.",
                   "category": "recreational",
                   "coords": [
                         19.273322,
@@ -36747,7 +37161,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Sýpka",
-                  "text": "Das Sýpka-Museum in Vlkolínec.",
+                  "text": "Sýpka in Vlkolínec – historischer Getreidespeicher aus dem 19. Jahrhundert im UNESCO-Dorf.",
                   "category": "museum",
                   "coords": [
                         19.277525,
@@ -36756,7 +37170,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Dom Unesco",
-                  "text": "UNESCO-Haus-Museum in Vlkolínec.",
+                  "text": "Dom Unesco in Vlkolínec – traditionelles Blockhaus mit Strohdach, Teil des UNESCO-Welterbes.",
                   "category": "museum",
                   "coords": [
                         19.278624,
@@ -36765,7 +37179,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Hrádok Páncová",
-                  "text": "Archäologische Stätte Hrádok Páncová bei Vlkolínec.",
+                  "text": "Hrádok Páncová bei Vlkolínec – Ruine einer mittelalterlichen Burg auf einem Felsvorsprung.",
                   "category": "historical",
                   "coords": [
                         19.325276,
@@ -36801,7 +37215,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Tiesňava za dierou",
-                  "text": "Naturattraktion Tiesňava za dierou in Vlkolínec.",
+                  "text": "Tiesňava za dierou bei Vlkolínec – enge Schlucht mit natürlicher Felsbrücke und Wasserfall.",
                   "category": "landmark",
                   "coords": [
                         19.231168,
@@ -36810,7 +37224,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Jazierske travertíny",
-                  "text": "Travertin-Formation Jazierske travertíny bei Vlkolínec.",
+                  "text": "Jazierske travertíny bei Vlkolínec – terrassenförmige Travertinablagerungen an einem kleinen See.",
                   "category": "landmark",
                   "coords": [
                         19.283747,
@@ -36819,7 +37233,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Banská huta 1713",
-                  "text": "Die Banská huta 1713 ist eine historische Attraktion in Vlkolínec.",
+                  "text": "Banská huta 1713 bei Vlkolínec – historische Eisenhütte aus dem Jahr 1713 mit erhaltenen Öfen.",
                   "category": "landmark",
                   "coords": [
                         19.282403,
@@ -36828,7 +37242,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Obrove pastelky",
-                  "text": "Die Obrove pastelky sind eine lokale Attraktion in Vlkolínec.",
+                  "text": "Obrove pastelky bei Vlkolínec – seltsame Felsformationen, die an riesige Buntstifte erinnern.",
                   "category": "landmark",
                   "coords": [
                         19.26442,
@@ -36837,7 +37251,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Malinô",
-                  "text": "Malinô ist eine beliebte Attraktion bei Vlkolínec.",
+                  "text": "Malinô bei Vlkolínec – Almwiese mit Schutzhütte und Blick auf die Große Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.265257,
@@ -36846,7 +37260,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Vlčia skala",
-                  "text": "Vlčia skala ist ein markanter Felsen in Vlkolínec.",
+                  "text": "Vlčia skala bei Vlkolínec – markanter Felsgipfel in Form eines Wolfs, beliebter Kletterfels.",
                   "category": "landmark",
                   "coords": [
                         19.274359,
@@ -36855,7 +37269,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Ružomberok – Bahnhof Zündholzfabrik (Zápalkáreň)",
-                  "text": "Die ehemalige Zündholzfabrik in Ružomberok nahe Vlkolínec ist heute eine Attraktion.",
+                  "text": "Zápalkáreň (Match Factory) in Ružomberok bei Vlkolínec – ehemalige Zündholzfabrik mit historischer Produktionshalle.",
                   "category": "landmark",
                   "coords": [
                         19.305438,
@@ -36864,7 +37278,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Farma Vlkolínec",
-                  "text": "Die Farm Vlkolínec bietet Einblicke in das ländliche Leben.",
+                  "text": "Farma Vlkolínec – traditioneller Bauernhof mit Schafen, Ziegen und Hühnern in Holzhäusern.",
                   "category": "landmark",
                   "coords": [
                         19.276061,
@@ -36873,7 +37287,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Travertínové balvany Bukovinka",
-                  "text": "Die Travertinfelsen Bukovinka sind eine natürliche Attraktion bei Vlkolínec.",
+                  "text": "Der 4. geschützte UNESCO-Aussichtspunkt mit Blick auf das Dorf Vlkolínec.",
                   "category": "landmark",
                   "coords": [
                         19.289884,
@@ -36891,7 +37305,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Veľká skala",
-                  "text": "Veľká skala bietet einen Aussichtspunkt bei Vlkolínec.",
+                  "text": "Veľká skala bei Vlkolínec – massiver Kalksteinfelsen, Aussichtspunkt über das Revúca-Tal.",
                   "category": "natural",
                   "coords": [
                         19.278541,
@@ -36900,7 +37314,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Gerecká skala",
-                  "text": "Gerecká skala ist ein Aussichtspunkt in Vlkolínec. Er bietet einen Blick auf die umliegende Landschaft.",
+                  "text": "Ein historisches hölzernes Mühlrad in Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.273093,
@@ -36909,7 +37323,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Belanská skalka",
-                  "text": "Belanská skalka ist ein Aussichtspunkt in Vlkolínec. Er bietet einen Blick auf die Natur.",
+                  "text": "Belanská skalka bei Vlkolínec – kleiner weißer Kalksteinfelsen am Wanderweg zur Großen Fatra.",
                   "category": "natural",
                   "coords": [
                         19.306518,
@@ -36918,7 +37332,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Skalka",
-                  "text": "Skalka ist ein Aussichtspunkt in Vlkolínec. Er bietet einen Panoramablick.",
+                  "text": "Skalka bei Vlkolínec – markanter Hügel mit Gipfelkreuz und Rundumblick auf die umliegenden Berge.",
                   "category": "natural",
                   "coords": [
                         19.30368,
@@ -36927,7 +37341,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Predné Haliny",
-                  "text": "Predné Haliny ist ein Aussichtspunkt in Vlkolínec. Er bietet einen Blick auf die Umgebung.",
+                  "text": "Ein grasbewachsener Bergrücken mit Panoramablick auf das UNESCO-Dorf Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.27002,
@@ -36945,7 +37359,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Jelenia skala",
-                  "text": "Jelenia skala ist ein Aussichtspunkt in Vlkolínec. Er bietet einen Blick auf die Landschaft.",
+                  "text": "Ein felsiger Aufschluss in Hirschgestalt oberhalb von Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.238612,
@@ -36963,7 +37377,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "2.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Dies ist ein geschützter UNESCO-Aussichtspunkt in Vlkolínec. Er bietet eine besondere Perspektive auf das Weltkulturerbe.",
+                  "text": "Der 2. geschützte UNESCO-Aussichtspunkt mit Blick auf das Dorf Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.278181,
@@ -36972,7 +37386,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "6.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Dies ist ein geschützter UNESCO-Aussichtspunkt in Vlkolínec. Er bietet einen Blick auf das historische Dorf.",
+                  "text": "Der 6. geschützte UNESCO-Aussichtspunkt mit Blick auf das Dorf Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.266554,
@@ -36990,7 +37404,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "5.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Dies ist ein geschützter UNESCO-Aussichtspunkt in Vlkolínec. Er bietet einen Blick auf das UNESCO-Welterbe.",
+                  "text": "Der 5. geschützte UNESCO-Aussichtspunkt mit Blick auf das Dorf Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.268276,
@@ -36999,7 +37413,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "1.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Aussichtspunkt Unesco-Dorf Vlkolínec. Erleben Sie den Panoramablick auf diese geschützte Ortschaft.",
+                  "text": "Der 1. geschützte UNESCO-Aussichtspunkt mit Blick auf das Dorf Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.272208,
@@ -37008,7 +37422,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "3.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Aussichtspunkt Unesco-Dorf Vlkolínec. Ein idealer Ort, um die Architektur der Region zu bewundern.",
+                  "text": "Der 3. geschützte UNESCO-Aussichtspunkt mit Blick auf das Dorf Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.27667,
@@ -37089,7 +37503,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Lezecka stena",
-                  "text": "Lezecka stena ist ein Freizeitpark in Vlkolínec.",
+                  "text": "Eine Kletterwand für Familien in Vlkolínec.",
                   "category": "family",
                   "coords": [
                         19.271956,
@@ -37098,7 +37512,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Mini farma Sidorovo",
-                  "text": "Ein kleiner Bauernhof mit Tieren für Besucher in der Nähe von Vlkolínec.",
+                  "text": "Ein Streichelzoo mit Bauernhoftieren in Vlkolínec.",
                   "category": "family",
                   "coords": [
                         19.270465,
@@ -37109,7 +37523,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
       "hu": [
             {
                   "name": "Krkavá skala",
-                  "text": "A Krkavá skala egy jellegzetes sziklaképződmény Vlkolínec közelében.",
+                  "text": "Varjú alakú sziklaformáció Vlkolínec felett.",
                   "category": "landmark",
                   "coords": [
                         19.287341,
@@ -37118,7 +37532,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Sidorovo",
-                  "text": "A Sidorovo egy hegycsúcs Vlkolínec közelében.",
+                  "text": "A Sidorovo egy domb a Nagy-Fátra hegységben, az UNESCO világörökség részét képező Vlkolinec falu fölé magasodva.",
                   "category": "natural",
                   "coords": [
                         19.278695,
@@ -37127,7 +37541,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Malinné",
-                  "text": "A Malinné egy hegycsúcs a Nagy-Fátrában, Vlkolínec mellett.",
+                  "text": "A Malinné egy csúcs a Nagy-Fátra hegységben, Vlkolinec közelében.",
                   "category": "natural",
                   "coords": [
                         19.248576,
@@ -37136,7 +37550,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Ostré",
-                  "text": "Az Ostré egy hegycsúcs az Alacsony-Tátrában, Vlkolínec mellett.",
+                  "text": "Az Ostré egy csúcs az Alacsony-Tátrában, Vlkolinec-től délkeletre.",
                   "category": "natural",
                   "coords": [
                         19.310742,
@@ -37154,7 +37568,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Všetkých svätých",
-                  "text": "Mindenszentek-templom Vlkolínec településen.",
+                  "text": "A Mindenszentek temploma Vlkolinecen.",
                   "category": "religious",
                   "coords": [
                         19.330823,
@@ -37163,7 +37577,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Horská pláž",
-                  "text": "Hegyi strand Vlkolínec településen.",
+                  "text": "Egy hegyi tóparti strand Vlkolinecen.",
                   "category": "recreational",
                   "coords": [
                         19.273322,
@@ -37172,7 +37586,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Sýpka",
-                  "text": "A Sýpka Múzeum Vlkolínec településen.",
+                  "text": "Sýpka Vlkolínecen – 19. századi történelmi magtár az UNESCO falujában.",
                   "category": "museum",
                   "coords": [
                         19.277525,
@@ -37181,7 +37595,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Dom Unesco",
-                  "text": "UNESCO-ház múzeum Vlkolínec településen.",
+                  "text": "UNESCO-ház Vlkolínecen – hagyományos gerendaház szalmatetővel, az UNESCO világörökség része.",
                   "category": "museum",
                   "coords": [
                         19.278624,
@@ -37190,7 +37604,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Hrádok Páncová",
-                  "text": "Hrádok Páncová régészeti lelőhely Vlkolínec közelében.",
+                  "text": "Páncovái várka Vlkolínec közelében – középkori várrom egy sziklás kiszögellésen.",
                   "category": "historical",
                   "coords": [
                         19.325276,
@@ -37226,7 +37640,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Tiesňava za dierou",
-                  "text": "Tiesňava za dierou természeti látnivaló Vlkolínecben.",
+                  "text": "Tiesňava za dierou Vlkolínec közelében – szűk szurdok természetes kőhíddal és vízeséssel.",
                   "category": "landmark",
                   "coords": [
                         19.231168,
@@ -37235,7 +37649,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Jazierske travertíny",
-                  "text": "Jazierske travertíny mésztufa képződmény Vlkolínec közelében.",
+                  "text": "Jazierske travertínók Vlkolínec közelében – teraszos travertínó lerakódások egy kis tónál.",
                   "category": "landmark",
                   "coords": [
                         19.283747,
@@ -37244,7 +37658,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Banská huta 1713",
-                  "text": "A Banská huta 1713 egy történelmi látványosság Vlkolínecben.",
+                  "text": "Banská huta 1713 Vlkolínec közelében – 1713-ból származó történelmi vaskohó megőrzött kemencékkel.",
                   "category": "landmark",
                   "coords": [
                         19.282403,
@@ -37253,7 +37667,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Obrove pastelky",
-                  "text": "Az Obrove pastelky egy helyi látványosság Vlkolínecben.",
+                  "text": "Obrove pastelky Vlkolínec közelében – különös sziklaformációk, amelyek óriás színes ceruzákra emlékeztetnek.",
                   "category": "landmark",
                   "coords": [
                         19.26442,
@@ -37262,7 +37676,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Malinô",
-                  "text": "Malinô egy népszerű látványosság Vlkolínec mellett.",
+                  "text": "Malinô Vlkolínec közelében – havasi rét menedékházzal és kilátással a Nagy-Fátrára.",
                   "category": "landmark",
                   "coords": [
                         19.265257,
@@ -37271,7 +37685,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Vlčia skala",
-                  "text": "A Vlčia skala egy jellegzetes szikla Vlkolínecben.",
+                  "text": "Vlčia skala Vlkolínec közelében – farkas formájú feltűnő szikla, népszerű mászóhely.",
                   "category": "landmark",
                   "coords": [
                         19.274359,
@@ -37280,7 +37694,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Ružomberok - Gyufagyár állomás (Zápalkáreň)",
-                  "text": "A Ružomberok-i egykori gyufagyár Vlkolínec közelében egy látványosság.",
+                  "text": "Zápalkáreň (gyufagyár) Rózsahegyen Vlkolínec közelében – egykori gyufagyár történelmi gyártócsarnokkal.",
                   "category": "landmark",
                   "coords": [
                         19.305438,
@@ -37289,7 +37703,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Farma Vlkolínec",
-                  "text": "A Farm Vlkolínec betekintést nyújt a vidéki életbe.",
+                  "text": "Farma Vlkolínec – hagyományos farm juhokkal, kecskékkel és tyúkokkal faházakban.",
                   "category": "landmark",
                   "coords": [
                         19.276061,
@@ -37298,7 +37712,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Travertínové balvany Bukovinka",
-                  "text": "A Bukovinka mésztufasziklák egy természeti látványosság Vlkolínec mellett.",
+                  "text": "A 4. védett UNESCO-kilátó, amely Vlkolínec falura néz.",
                   "category": "landmark",
                   "coords": [
                         19.289884,
@@ -37316,7 +37730,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Veľká skala",
-                  "text": "A Veľká skala egy kilátópont Vlkolínec mellett.",
+                  "text": "Veľká skala Vlkolínec közelében – hatalmas mészkőszikla, kilátó a Revúca-völgyre.",
                   "category": "natural",
                   "coords": [
                         19.278541,
@@ -37325,7 +37739,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Gerecká skala",
-                  "text": "A Gerecká skala egy kilátópont Vlkolínecben. Kilátást nyújt a környező tájra.",
+                  "text": "Történelmi fából készült malomkerék Vlkolínecen.",
                   "category": "natural",
                   "coords": [
                         19.273093,
@@ -37334,7 +37748,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Belanská skalka",
-                  "text": "A Belanská skalka egy kilátópont Vlkolínecben. Kilátást nyújt a természetre.",
+                  "text": "Belanská skalka Vlkolínec közelében – kis fehér mészkőszikla a Nagy-Fátrába vezető túraúton.",
                   "category": "natural",
                   "coords": [
                         19.306518,
@@ -37343,7 +37757,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Skalka",
-                  "text": "A Skalka egy kilátópont Vlkolínecben. Panorámás kilátást nyújt.",
+                  "text": "Skalka Vlkolínec közelében – feltűnő domb csúcskereszttel és körpanorámával a környező hegyekre.",
                   "category": "natural",
                   "coords": [
                         19.30368,
@@ -37352,7 +37766,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Predné Haliny",
-                  "text": "A Predné Haliny egy kilátópont Vlkolínecben. Kilátást nyújt a környezetre.",
+                  "text": "Füves gerinc, kilátással az UNESCO falu Vlkolínecre.",
                   "category": "natural",
                   "coords": [
                         19.27002,
@@ -37370,7 +37784,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Jelenia skala",
-                  "text": "A Jelenia skala egy kilátópont Vlkolínecben. Kilátást nyújt a tájra.",
+                  "text": "Egy szarvas alakú sziklás képződmény Vlkolínec felett.",
                   "category": "natural",
                   "coords": [
                         19.238612,
@@ -37388,7 +37802,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "2.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Ez egy védett UNESCO kilátópont Vlkolínecben. Különleges rálátást biztosít a világörökségre.",
+                  "text": "A 2. védett UNESCO-kilátó, amely Vlkolínec falura néz.",
                   "category": "natural",
                   "coords": [
                         19.278181,
@@ -37397,7 +37811,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "6.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Ez egy védett UNESCO kilátópont Vlkolínecben. Kilátást nyújt a történelmi falura.",
+                  "text": "A 6. védett UNESCO-kilátó, amely Vlkolínec falura néz.",
                   "category": "natural",
                   "coords": [
                         19.266554,
@@ -37415,7 +37829,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "5.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Ez egy védett UNESCO kilátópont Vlkolínecben. Kilátást nyújt az UNESCO világörökségre.",
+                  "text": "Az 5. védett UNESCO-kilátó, amely Vlkolínec falura néz.",
                   "category": "natural",
                   "coords": [
                         19.268276,
@@ -37424,7 +37838,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "1.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Vlkolínec Unesco-falu kilátópontja. Élvezze a panorámát erre a védett településre.",
+                  "text": "Az 1. védett UNESCO-kilátó, amely Vlkolínec falura néz.",
                   "category": "natural",
                   "coords": [
                         19.272208,
@@ -37433,7 +37847,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "3.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Vlkolínec Unesco-falu kilátópontja. Ideális hely a környék építészetének megcsodálására.",
+                  "text": "A 3. védett UNESCO-kilátó, amely Vlkolínec falura néz.",
                   "category": "natural",
                   "coords": [
                         19.27667,
@@ -37514,7 +37928,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Lezecka stena",
-                  "text": "A Lezecka stena egy vidámpark Vlkolínecben.",
+                  "text": "Mászófal családoknak Vlkolínecen.",
                   "category": "family",
                   "coords": [
                         19.271956,
@@ -37523,7 +37937,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Mini farma Sidorovo",
-                  "text": "Kis állatfarm a látogatók számára Vlkolínec közelében.",
+                  "text": "Simogató farm háziállatokkal Vlkolínecen.",
                   "category": "family",
                   "coords": [
                         19.270465,
@@ -37534,7 +37948,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
       "ro": [
             {
                   "name": "Krkavá skala",
-                  "text": "Krkavá skala este o formațiune stâncoasă distinctivă lângă Vlkolínec.",
+                  "text": "Formațiune stâncoasă în formă de cioară deasupra satului Vlkolínec.",
                   "category": "landmark",
                   "coords": [
                         19.287341,
@@ -37543,7 +37957,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Sidorovo",
-                  "text": "Sidorovo este un munte în apropiere de Vlkolínec.",
+                  "text": "Sidorovo este o colină din munții Veľká Fatra, deasupra satului Vlkolinec, inclus în patrimoniul UNESCO.",
                   "category": "natural",
                   "coords": [
                         19.278695,
@@ -37552,7 +37966,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Malinné",
-                  "text": "Malinné este un vârf muntos în Fatra Mare, lângă Vlkolínec.",
+                  "text": "Malinné este un vârf în munții Veľká Fatra, lângă Vlkolinec.",
                   "category": "natural",
                   "coords": [
                         19.248576,
@@ -37561,7 +37975,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Ostré",
-                  "text": "Ostré este un vârf muntos în Tatra Joasă, lângă Vlkolínec.",
+                  "text": "Ostré este un vârf în Munții Tatra Mică, la sud-est de Vlkolinec.",
                   "category": "natural",
                   "coords": [
                         19.310742,
@@ -37579,7 +37993,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Všetkých svätých",
-                  "text": "Biserica Tuturor Sfinților din Vlkolínec.",
+                  "text": "Biserica Tuturor Sfinților din Vlkolinec.",
                   "category": "religious",
                   "coords": [
                         19.330823,
@@ -37588,7 +38002,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Horská pláž",
-                  "text": "Plajă montană în Vlkolínec.",
+                  "text": "O plajă de lac de munte în Vlkolinec.",
                   "category": "recreational",
                   "coords": [
                         19.273322,
@@ -37597,7 +38011,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Sýpka",
-                  "text": "Muzeul Sýpka din Vlkolínec.",
+                  "text": "Sýpka în Vlkolínec – hambar istoric din secolul al XIX-lea în satul UNESCO.",
                   "category": "museum",
                   "coords": [
                         19.277525,
@@ -37606,7 +38020,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Dom Unesco",
-                  "text": "Muzeul Casei UNESCO din Vlkolínec.",
+                  "text": "Dom Unesco în Vlkolínec – casă tradițională din bușteni cu acoperiș de paie, parte a patrimoniului UNESCO.",
                   "category": "museum",
                   "coords": [
                         19.278624,
@@ -37615,7 +38029,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Hrádok Páncová",
-                  "text": "Sit arheologic Hrádok Páncová lângă Vlkolínec.",
+                  "text": "Hrádok Páncová lângă Vlkolínec – ruină a unui castel medieval pe un promontoriu stâncos.",
                   "category": "historical",
                   "coords": [
                         19.325276,
@@ -37651,7 +38065,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Tiesňava za dierou",
-                  "text": "Atracție naturală Tiesňava za dierou în Vlkolínec.",
+                  "text": "Tiesňava za dierou lângă Vlkolínec – defileu îngust cu pod natural de piatră și cascadă.",
                   "category": "landmark",
                   "coords": [
                         19.231168,
@@ -37660,7 +38074,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Jazierske travertíny",
-                  "text": "Formațiune de travertin Jazierske travertíny lângă Vlkolínec.",
+                  "text": "Jazierske travertíny lângă Vlkolínec – depozite de travertin în terase la un mic lac.",
                   "category": "landmark",
                   "coords": [
                         19.283747,
@@ -37669,7 +38083,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Banská huta 1713",
-                  "text": "Banská huta 1713 este o atracție istorică în Vlkolínec.",
+                  "text": "Banská huta 1713 lângă Vlkolínec – forjă istorică de fier din anul 1713, cu cuptoare păstrate.",
                   "category": "landmark",
                   "coords": [
                         19.282403,
@@ -37678,7 +38092,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Obrove pastelky",
-                  "text": "Obrove pastelky este o atracție locală în Vlkolínec.",
+                  "text": "Obrove pastelky lângă Vlkolínec – formațiuni stâncoase bizare care amintesc de creioane colorate uriașe.",
                   "category": "landmark",
                   "coords": [
                         19.26442,
@@ -37687,7 +38101,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Malinô",
-                  "text": "Malinô este o atracție populară lângă Vlkolínec.",
+                  "text": "Malinô lângă Vlkolínec – pajiște montană cu colibă de refugiu și vedere spre Marea Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.265257,
@@ -37696,7 +38110,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Vlčia skala",
-                  "text": "Vlčia skala este o stâncă distinctivă în Vlkolínec.",
+                  "text": "Vlčia skala lângă Vlkolínec – vârf stâncos proeminent în formă de lup, popular pentru cățărare.",
                   "category": "landmark",
                   "coords": [
                         19.274359,
@@ -37705,7 +38119,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Ružomberok - Stanica Zápalkáreň",
-                  "text": "Fosta fabrică de chibrituri din Ružomberok, lângă Vlkolínec, este o atracție.",
+                  "text": "Zápalkáreň (Fabrica de chibrituri) în Ružomberok lângă Vlkolínec – fostă fabrică de chibrituri cu hală istorică de producție.",
                   "category": "landmark",
                   "coords": [
                         19.305438,
@@ -37714,7 +38128,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Farma Vlkolínec",
-                  "text": "Ferma Vlkolínec oferă o privire asupra vieții rurale.",
+                  "text": "Farma Vlkolínec – fermă tradițională cu oi, capre și găini în case de lemn.",
                   "category": "landmark",
                   "coords": [
                         19.276061,
@@ -37723,7 +38137,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Travertínové balvany Bukovinka",
-                  "text": "Stâncile de travertin Bukovinka sunt o atracție naturală lângă Vlkolínec.",
+                  "text": "Al 4-lea punct de belvedere protejat UNESCO cu vedere asupra satului Vlkolínec.",
                   "category": "landmark",
                   "coords": [
                         19.289884,
@@ -37741,7 +38155,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Veľká skala",
-                  "text": "Veľká skala oferă un punct de observație lângă Vlkolínec.",
+                  "text": "Veľká skala lângă Vlkolínec – stâncă masivă de calcar, punct de belvedere asupra văii Revúca.",
                   "category": "natural",
                   "coords": [
                         19.278541,
@@ -37750,7 +38164,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Gerecká skala",
-                  "text": "Gerecká skala este un punct de observare în Vlkolínec. Oferă o vedere asupra peisajului înconjurător.",
+                  "text": "O roată de moară istorică din lemn în Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.273093,
@@ -37759,7 +38173,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Belanská skalka",
-                  "text": "Belanská skalka este un punct de observare în Vlkolínec. Oferă o vedere asupra naturii.",
+                  "text": "Belanská skalka lângă Vlkolínec – mică stâncă albă de calcar pe traseul turistic către Marea Fatra.",
                   "category": "natural",
                   "coords": [
                         19.306518,
@@ -37768,7 +38182,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Skalka",
-                  "text": "Skalka este un punct de observare în Vlkolínec. Oferă o vedere panoramică.",
+                  "text": "Skalka lângă Vlkolínec – deal proeminent cu cruce pe vârf și panoramă circulară asupra munților din jur.",
                   "category": "natural",
                   "coords": [
                         19.30368,
@@ -37777,7 +38191,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Predné Haliny",
-                  "text": "Predné Haliny este un punct de observare în Vlkolínec. Oferă o vedere asupra împrejurimilor.",
+                  "text": "O creastă ierboasă cu vedere panoramică asupra satului UNESCO Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.27002,
@@ -37795,7 +38209,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Jelenia skala",
-                  "text": "Jelenia skala este un punct de observare în Vlkolínec. Oferă o vedere asupra peisajului.",
+                  "text": "O stâncă în formă de cerb deasupra satului Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.238612,
@@ -37813,7 +38227,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "2.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Acesta este un punct de observare UNESCO protejat în Vlkolínec. Oferă o perspectivă specială asupra patrimoniului mondial.",
+                  "text": "Al 2-lea punct de belvedere protejat UNESCO cu vedere asupra satului Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.278181,
@@ -37822,7 +38236,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "6.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Acesta este un punct de observare UNESCO protejat în Vlkolínec. Oferă o vedere asupra satului istoric.",
+                  "text": "Al 6-lea punct de belvedere protejat UNESCO cu vedere asupra satului Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.266554,
@@ -37840,7 +38254,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "5.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Acesta este un punct de observare UNESCO protejat în Vlkolínec. Oferă o vedere asupra patrimoniului mondial UNESCO.",
+                  "text": "Al 5-lea punct de belvedere protejat UNESCO cu vedere asupra satului Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.268276,
@@ -37849,7 +38263,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "1.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Punct de vedere asupra satului UNESCO Vlkolínec. Bucurați-vă de panorama acestui așezământ protejat.",
+                  "text": "Primul punct de belvedere protejat UNESCO cu vedere asupra satului Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.272208,
@@ -37858,7 +38272,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "3.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Punct de vedere asupra satului UNESCO Vlkolínec. Un loc ideal pentru a admira arhitectura regiunii.",
+                  "text": "Al 3-lea punct de belvedere protejat UNESCO cu vedere asupra satului Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.27667,
@@ -37939,7 +38353,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Lezecka stena",
-                  "text": "Lezecka stena este un parc de distracții în Vlkolínec.",
+                  "text": "Un perete de cățărare pentru familii în Vlkolínec.",
                   "category": "family",
                   "coords": [
                         19.271956,
@@ -37948,7 +38362,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Mini farma Sidorovo",
-                  "text": "O mică fermă cu animale pentru vizitatori lângă Vlkolínec.",
+                  "text": "O mini-farmă cu animale de curte în Vlkolínec.",
                   "category": "family",
                   "coords": [
                         19.270465,
@@ -37959,7 +38373,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
       "en": [
             {
                   "name": "Krkavá skala",
-                  "text": "Krkavá skala is a distinctive rock formation near Vlkolínec.",
+                  "text": "A crow-shaped rock formation overlooking the village of Vlkolínec.",
                   "category": "landmark",
                   "coords": [
                         19.287341,
@@ -37968,7 +38382,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Sidorovo",
-                  "text": "Sidorovo is a mountain peak near Vlkolínec.",
+                  "text": "Sidorovo is a hill in the Veľká Fatra mountains, overlooking the UNESCO village of Vlkolinec.",
                   "category": "natural",
                   "coords": [
                         19.278695,
@@ -37977,7 +38391,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Malinné",
-                  "text": "Malinné is a mountain peak in the Greater Fatra near Vlkolínec.",
+                  "text": "Malinné is a peak in the Veľká Fatra range near Vlkolinec.",
                   "category": "natural",
                   "coords": [
                         19.248576,
@@ -37986,7 +38400,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Ostré",
-                  "text": "Ostré is a mountain peak in the Low Tatras near Vlkolínec.",
+                  "text": "Ostré is a peak in the Low Tatras, southeast of Vlkolinec.",
                   "category": "natural",
                   "coords": [
                         19.310742,
@@ -38004,7 +38418,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Všetkých svätých",
-                  "text": "All Saints Church in Vlkolínec.",
+                  "text": "The All Saints church in Vlkolinec.",
                   "category": "religious",
                   "coords": [
                         19.330823,
@@ -38013,7 +38427,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Horská pláž",
-                  "text": "Mountain beach in Vlkolínec.",
+                  "text": "A mountain lakeside beach in Vlkolinec.",
                   "category": "recreational",
                   "coords": [
                         19.273322,
@@ -38022,7 +38436,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Sýpka",
-                  "text": "The Sýpka museum in Vlkolínec.",
+                  "text": "Sýpka in Vlkolínec – a historic 19th-century granary in the UNESCO village.",
                   "category": "museum",
                   "coords": [
                         19.277525,
@@ -38031,7 +38445,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Dom Unesco",
-                  "text": "UNESCO house museum in Vlkolínec.",
+                  "text": "UNESCO House in Vlkolínec – a traditional log house with a thatched roof, part of the UNESCO site.",
                   "category": "museum",
                   "coords": [
                         19.278624,
@@ -38040,7 +38454,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Hrádok Páncová",
-                  "text": "Hrádok Páncová archaeological site near Vlkolínec.",
+                  "text": "Páncová castlelet near Vlkolínec – a medieval castle ruin on a rocky spur.",
                   "category": "historical",
                   "coords": [
                         19.325276,
@@ -38076,7 +38490,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Tiesňava za dierou",
-                  "text": "Tiesňava za dierou natural attraction in Vlkolínec.",
+                  "text": "Tiesňava za dierou near Vlkolínec – a narrow gorge with a natural rock bridge and waterfall.",
                   "category": "landmark",
                   "coords": [
                         19.231168,
@@ -38085,7 +38499,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Jazierske travertíny",
-                  "text": "Jazierske travertíny formation near Vlkolínec.",
+                  "text": "Jazierske travertines near Vlkolínec – stepped travertine deposits at a small lake.",
                   "category": "landmark",
                   "coords": [
                         19.283747,
@@ -38094,7 +38508,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Banská huta 1713",
-                  "text": "Banská huta 1713 is a historical attraction in Vlkolínec.",
+                  "text": "Banská huta 1713 near Vlkolínec – a historic iron smelter from 1713 with preserved furnaces.",
                   "category": "landmark",
                   "coords": [
                         19.282403,
@@ -38103,7 +38517,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Obrove pastelky",
-                  "text": "Obrove pastelky is a local attraction in Vlkolínec.",
+                  "text": "Obrove pastelky near Vlkolínec – bizarre rock formations resembling giant coloured pencils.",
                   "category": "landmark",
                   "coords": [
                         19.26442,
@@ -38112,7 +38526,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Malinô",
-                  "text": "Malinô is a popular attraction near Vlkolínec.",
+                  "text": "Malinô near Vlkolínec – a mountain meadow with a shelter hut and view of the Great Fatra.",
                   "category": "landmark",
                   "coords": [
                         19.265257,
@@ -38121,7 +38535,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Vlčia skala",
-                  "text": "Vlčia skala is a distinctive rock formation in Vlkolínec.",
+                  "text": "Vlčia skala near Vlkolínec – a prominent rock peak shaped like a wolf, popular for climbing.",
                   "category": "landmark",
                   "coords": [
                         19.274359,
@@ -38130,7 +38544,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Ružomberok - Match Factory Station (Zápalkáreň)",
-                  "text": "The former match factory in Ružomberok near Vlkolínec is an attraction.",
+                  "text": "Match Factory (Zápalkáreň) in Ružomberok near Vlkolínec – a former match factory with a historic production hall.",
                   "category": "landmark",
                   "coords": [
                         19.305438,
@@ -38139,7 +38553,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Farma Vlkolínec",
-                  "text": "The Vlkolínec farm offers a glimpse into rural life.",
+                  "text": "Vlkolínec Farm – a traditional farmstead with sheep, goats, and chickens in wooden buildings.",
                   "category": "landmark",
                   "coords": [
                         19.276061,
@@ -38148,7 +38562,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Travertínové balvany Bukovinka",
-                  "text": "The Bukovinka travertine rocks are a natural attraction near Vlkolínec.",
+                  "text": "The 4th protected UNESCO viewpoint overlooking Vlkolínec village.",
                   "category": "landmark",
                   "coords": [
                         19.289884,
@@ -38166,7 +38580,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Veľká skala",
-                  "text": "Veľká skala offers a viewpoint near Vlkolínec.",
+                  "text": "Veľká skala near Vlkolínec – a massive limestone rock, viewpoint over the Revúca valley.",
                   "category": "natural",
                   "coords": [
                         19.278541,
@@ -38175,7 +38589,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Gerecká skala",
-                  "text": "Gerecká skala is a viewpoint in Vlkolínec. It offers a view of the surrounding landscape.",
+                  "text": "A historic wooden mill wheel located in Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.273093,
@@ -38184,7 +38598,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Belanská skalka",
-                  "text": "Belanská skalka is a viewpoint in Vlkolínec. It offers a view of the nature.",
+                  "text": "Belanská skalka near Vlkolínec – a small white limestone rock on the hiking trail to the Great Fatra.",
                   "category": "natural",
                   "coords": [
                         19.306518,
@@ -38193,7 +38607,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Skalka",
-                  "text": "Skalka is a viewpoint in Vlkolínec. It offers a panoramic view.",
+                  "text": "Skalka near Vlkolínec – a prominent hill with a summit cross and panoramic views of the surrounding mountains.",
                   "category": "natural",
                   "coords": [
                         19.30368,
@@ -38202,7 +38616,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Predné Haliny",
-                  "text": "Predné Haliny is a viewpoint in Vlkolínec. It offers a view of the surroundings.",
+                  "text": "A grassy ridge with panoramic views over the UNESCO village of Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.27002,
@@ -38220,7 +38634,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Jelenia skala",
-                  "text": "Jelenia skala is a viewpoint in Vlkolínec. It offers a view of the landscape.",
+                  "text": "A rocky outcrop shaped like a deer above Vlkolínec.",
                   "category": "natural",
                   "coords": [
                         19.238612,
@@ -38238,7 +38652,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "2.chránený výhľad Unesco - Vlkolínec",
-                  "text": "This is a protected UNESCO viewpoint in Vlkolínec. It offers a special perspective of the World Heritage site.",
+                  "text": "The 2nd protected UNESCO viewpoint overlooking Vlkolínec village.",
                   "category": "natural",
                   "coords": [
                         19.278181,
@@ -38247,7 +38661,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "6.chránený výhľad Unesco - Vlkolínec",
-                  "text": "This is a protected UNESCO viewpoint in Vlkolínec. It offers a view of the historic village.",
+                  "text": "The 6th protected UNESCO viewpoint overlooking Vlkolínec village.",
                   "category": "natural",
                   "coords": [
                         19.266554,
@@ -38265,7 +38679,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "5.chránený výhľad Unesco - Vlkolínec",
-                  "text": "This is a protected UNESCO viewpoint in Vlkolínec. It offers a view of the UNESCO World Heritage site.",
+                  "text": "The 5th protected UNESCO viewpoint overlooking Vlkolínec village.",
                   "category": "natural",
                   "coords": [
                         19.268276,
@@ -38274,7 +38688,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "1.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Viewpoint of the UNESCO village Vlkolínec. Enjoy the panorama of this protected settlement.",
+                  "text": "The 1st protected UNESCO viewpoint overlooking Vlkolínec village.",
                   "category": "natural",
                   "coords": [
                         19.272208,
@@ -38283,7 +38697,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "3.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Viewpoint of the UNESCO village Vlkolínec. An ideal spot to admire the region's architecture.",
+                  "text": "The 3rd protected UNESCO viewpoint overlooking Vlkolínec village.",
                   "category": "natural",
                   "coords": [
                         19.27667,
@@ -38364,7 +38778,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Lezecka stena",
-                  "text": "Lezecka stena is a theme park in Vlkolínec.",
+                  "text": "A climbing wall for families in Vlkolínec.",
                   "category": "family",
                   "coords": [
                         19.271956,
@@ -38373,7 +38787,7 @@ imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
             },
             {
                   "name": "Mini farma Sidorovo",
-                  "text": "A small farm with animals for visitors near Vlkolínec.",
+                  "text": "A petting farm with farm animals in Vlkolínec.",
                   "category": "family",
                   "coords": [
                         19.270465,
@@ -38431,7 +38845,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
       "de": [
             {
                   "name": "Radenov dom",
-                  "text": "Radenov dom ist ein Museum in Čičmany, das sich der lokalen Geschichte widmet.",
+                  "text": "Das Radenov dom ist ein Museum in einem traditionellen, bemalten Holzhaus im typischen Stil von Čičmany.",
                   "category": "museum",
                   "coords": [
                         18.517116,
@@ -38440,7 +38854,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Múzeum Na dreve maľované",
-                  "text": "Múzeum Na dreve maľované ist ein Museum in Čičmany mit bemalten Holzexponaten.",
+                  "text": "Ein Museum für Holzmalerei im traditionellen Dorf Čičmany.",
                   "category": "museum",
                   "coords": [
                         18.516075,
@@ -38449,7 +38863,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Javorinka",
-                  "text": "Javorinka ist ein Berggipfel in den Strážovské vrchy in der Nähe von Čičmany.",
+                  "text": "Javorinka ist ein Gipfel im Gebirge Strážovské vrchy oberhalb des Dorfes Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.531343,
@@ -38458,7 +38872,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Hrubá Kečka",
-                  "text": "Hrubá Kečka ist ein markanter Berggipfel in der Region um Čičmany.",
+                  "text": "Hrubá Kečka ist ein markanter Hügel im Strážovské-vrchy-Gebirge nördlich von Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.513501,
@@ -38467,7 +38881,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Samostriel",
-                  "text": "Samostriel ist ein Berggipfel, der sich bei Čičmany befindet.",
+                  "text": "Samostriel ist eine natürliche Felsformation, die an eine Armbrust erinnert, in den Hügeln bei Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.499668,
@@ -38476,7 +38890,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Čierny vrch",
-                  "text": "Čierny vrch ist ein 1068,4 Meter hoher Berg in der Nähe von Čičmany.",
+                  "text": "Čierny vrch ist ein 1.068 Meter hoher Gipfel im Strážovské-vrchy-Gebirge nahe Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.484406,
@@ -38485,7 +38899,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Strážov",
-                  "text": "Strážov ist ein bedeutender Berggipfel in den Strážovské vrchy bei Čičmany.",
+                  "text": "Strážov ist mit 1.213 Metern der höchste Gipfel des Strážovské-vrchy-Gebirges bei Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.463084,
@@ -38494,7 +38908,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Obria lavička",
-                  "text": "Obria lavička ist eine lokale Attraktion in der Gemeinde Čičmany.",
+                  "text": "Eine überdimensionale Holzbank zum Fotografieren in Čičmany.",
                   "category": "landmark",
                   "coords": [
                         18.517982,
@@ -38503,7 +38917,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Kaštieľ Čičmany",
-                  "text": "Kaštieľ Čičmany ist ein historisches Herrenhaus in Čičmany.",
+                  "text": "Ein Renaissanceschloss mit weißer Ornamentik im Zentrum von Čičmany.",
                   "category": "historical",
                   "coords": [
                         18.514589,
@@ -38512,7 +38926,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Kostol Povýšenia Svätého kríža",
-                  "text": "Kostol Povýšenia Svätého kríža ist eine religiöse Kultstätte in Čičmany.",
+                  "text": "Die Holzkirche Kostol Povýšenia Svätého kríža in Čičmany ist eine gotische Kirche mit bemalten Innenwänden.",
                   "category": "religious",
                   "coords": [
                         18.518061,
@@ -38523,7 +38937,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
       "hu": [
             {
                   "name": "Radenov dom",
-                  "text": "A Radenov dom egy helyi történelmet bemutató múzeum Čičmanyban.",
+                  "text": "A Radenov dom egy múzeum egy hagyományos, festett faházban, Čičmany jellegzetes stílusában.",
                   "category": "museum",
                   "coords": [
                         18.517116,
@@ -38532,7 +38946,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Múzeum Na dreve maľované",
-                  "text": "A Múzeum Na dreve maľované egy festett famunkákat bemutató múzeum Čičmanyban.",
+                  "text": "Famegbefestett festmények múzeuma a hagyományos Čičmany faluban.",
                   "category": "museum",
                   "coords": [
                         18.516075,
@@ -38541,7 +38955,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Javorinka",
-                  "text": "A Javorinka egy hegycsúcs a Sztrázsó-hegységben, Čičmany közelében.",
+                  "text": "A Javorinka egy csúcs a Strážovské vrchy hegységben, Čičmany falu fölött.",
                   "category": "natural",
                   "coords": [
                         18.531343,
@@ -38550,7 +38964,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Hrubá Kečka",
-                  "text": "A Hrubá Kečka egy jelentős hegycsúcs Čičmany térségében.",
+                  "text": "A Hrubá Kečka egy kiemelkedő domb a Strážovské vrchy hegységben, Čičmany-tól északra.",
                   "category": "natural",
                   "coords": [
                         18.513501,
@@ -38559,7 +38973,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Samostriel",
-                  "text": "A Samostriel egy hegycsúcs Čičmany közelében.",
+                  "text": "A Samostriel egy természetes sziklaalakzat, amely egy számszeríjra emlékeztet, Čičmany dombjain.",
                   "category": "natural",
                   "coords": [
                         18.499668,
@@ -38568,7 +38982,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Čierny vrch",
-                  "text": "A Čierny vrch egy 1068,4 méter magas hegycsúcs Čičmany közelében.",
+                  "text": "A Čierny vrch egy 1068 méteres csúcs a Strážovské vrchy hegységben, Čičmany közelében.",
                   "category": "natural",
                   "coords": [
                         18.484406,
@@ -38577,7 +38991,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Strážov",
-                  "text": "A Strážov egy jelentős hegycsúcs a Sztrázsó-hegységben, Čičmany mellett.",
+                  "text": "A Strážov 1213 méterével a Strážovské vrchy hegység legmagasabb csúcsa Čičmany közelében.",
                   "category": "natural",
                   "coords": [
                         18.463084,
@@ -38586,7 +39000,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Obria lavička",
-                  "text": "Az Obria lavička egy látványosság Čičmany községben.",
+                  "text": "Egy óriási fapad fotózkodáshoz Čičmanyban.",
                   "category": "landmark",
                   "coords": [
                         18.517982,
@@ -38595,7 +39009,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Kaštieľ Čičmany",
-                  "text": "A Kaštieľ Čičmany egy történelmi kastély Čičmany területén.",
+                  "text": "Reneszánsz kastély fehér díszítéssel Čičmany központjában.",
                   "category": "historical",
                   "coords": [
                         18.514589,
@@ -38604,7 +39018,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Kostol Povýšenia Svätého kríža",
-                  "text": "A Kostol Povýšenia Svätého kríža egy vallási épület Čičmany községben.",
+                  "text": "A kostol Povýšenia Svätého kríža egy fából készült gótikus templom Čičmanyban, festett belsővel.",
                   "category": "religious",
                   "coords": [
                         18.518061,
@@ -38615,7 +39029,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
       "ro": [
             {
                   "name": "Radenov dom",
-                  "text": "Radenov dom este un muzeu din Čičmany dedicat istoriei locale.",
+                  "text": "Radenov dom este un muzeu într-o casă tradițională din lemn pictat, specifică satului Cicmany.",
                   "category": "museum",
                   "coords": [
                         18.517116,
@@ -38624,7 +39038,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Múzeum Na dreve maľované",
-                  "text": "Múzeum Na dreve maľované este un muzeu din Čičmany ce expune obiecte din lemn pictat.",
+                  "text": "Un muzeu de picturi pe lemn în satul tradițional Čičmany.",
                   "category": "museum",
                   "coords": [
                         18.516075,
@@ -38633,7 +39047,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Javorinka",
-                  "text": "Javorinka este un vârf muntos din Munții Strážov, situat lângă Čičmany.",
+                  "text": "Javorinka este un vârf în munții Strážovské vrchy, deasupra satului Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.531343,
@@ -38642,7 +39056,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Hrubá Kečka",
-                  "text": "Hrubá Kečka este un vârf muntos proeminent din regiunea Čičmany.",
+                  "text": "Hrubá Kečka este un deal proeminent în munții Strážovské vrchy, la nord de Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.513501,
@@ -38651,7 +39065,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Samostriel",
-                  "text": "Samostriel este un vârf muntos situat în apropiere de Čičmany.",
+                  "text": "Samostriel este o formațiune naturală de stâncă ce amintește de o arbaletă, în dealurile de lângă Cicmany.",
                   "category": "natural",
                   "coords": [
                         18.499668,
@@ -38660,7 +39074,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Čierny vrch",
-                  "text": "Čierny vrch este un munte cu o altitudine de 1.068,4 metri situat lângă Čičmany.",
+                  "text": "Čierny vrch este un vârf de 1.068 m în munții Strážovské vrchy, lângă Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.484406,
@@ -38669,7 +39083,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Strážov",
-                  "text": "Strážov este un munte important din Munții Strážov, aproape de Čičmany.",
+                  "text": "Strážov, cu 1.213 m, este cel mai înalt vârf al munților Strážovské vrchy, lângă Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.463084,
@@ -38678,7 +39092,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Obria lavička",
-                  "text": "Obria lavička este o atracție situată în Čičmany.",
+                  "text": "O bancă uriașă din lemn pentru fotografii în Čičmany.",
                   "category": "landmark",
                   "coords": [
                         18.517982,
@@ -38687,7 +39101,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Kaštieľ Čičmany",
-                  "text": "Kaštieľ Čičmany este un conac istoric situat în Čičmany.",
+                  "text": "Un conac renascentist cu ornamentație albă în centrul satului Čičmany.",
                   "category": "historical",
                   "coords": [
                         18.514589,
@@ -38696,7 +39110,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Kostol Povýšenia Svätého kríža",
-                  "text": "Kostol Povýšenia Svätého kríža este un lăcaș de cult din Čičmany.",
+                  "text": "Kostol Povýšenia Svätého kríža este o biserică de lemn gotică cu interior pictat în Cicmany.",
                   "category": "religious",
                   "coords": [
                         18.518061,
@@ -38707,7 +39121,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
       "en": [
             {
                   "name": "Radenov dom",
-                  "text": "Radenov dom is a museum in Čičmany dedicated to local history.",
+                  "text": "Radenov dom is a museum in a traditional painted wooden house typical of Čičmany village.",
                   "category": "museum",
                   "coords": [
                         18.517116,
@@ -38716,7 +39130,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Múzeum Na dreve maľované",
-                  "text": "Múzeum Na dreve maľované is a museum in Čičmany featuring painted wood exhibits.",
+                  "text": "A museum of paintings on wood in the folk village of Čičmany.",
                   "category": "museum",
                   "coords": [
                         18.516075,
@@ -38725,7 +39139,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Javorinka",
-                  "text": "Javorinka is a mountain peak in the Strážov Mountains near Čičmany.",
+                  "text": "Javorinka is a peak in the Strážovské vrchy range above the village of Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.531343,
@@ -38734,7 +39148,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Hrubá Kečka",
-                  "text": "Hrubá Kečka is a prominent mountain peak in the Čičmany region.",
+                  "text": "Hrubá Kečka is a prominent hill in the Strážovské vrchy, north of Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.513501,
@@ -38743,7 +39157,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Samostriel",
-                  "text": "Samostriel is a mountain peak located near Čičmany.",
+                  "text": "Samostriel is a natural rock formation resembling a crossbow in the hills near Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.499668,
@@ -38752,7 +39166,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Čierny vrch",
-                  "text": "Čierny vrch is a 1,068.4-meter-high mountain near Čičmany.",
+                  "text": "Čierny vrch is a 1,068-metre peak in the Strážovské vrchy, near Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.484406,
@@ -38761,7 +39175,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Strážov",
-                  "text": "Strážov is a prominent mountain peak in the Strážov Mountains near Čičmany.",
+                  "text": "Strážov is the highest peak of the Strážovské vrchy range, at 1,213 metres, near Čičmany.",
                   "category": "natural",
                   "coords": [
                         18.463084,
@@ -38770,7 +39184,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Obria lavička",
-                  "text": "Obria lavička is an attraction located in the town of Čičmany.",
+                  "text": "An oversized wooden bench for photo opportunities in Čičmany.",
                   "category": "landmark",
                   "coords": [
                         18.517982,
@@ -38779,7 +39193,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Kaštieľ Čičmany",
-                  "text": "Kaštieľ Čičmany is a historical manor located in Čičmany.",
+                  "text": "A Renaissance manor house with white ornamentation in the center of Čičmany.",
                   "category": "historical",
                   "coords": [
                         18.514589,
@@ -38788,7 +39202,7 @@ imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
             },
             {
                   "name": "Kostol Povýšenia Svätého kríža",
-                  "text": "Kostol Povýšenia Svätého kríža is a place of worship located in Čičmany.",
+                  "text": "Kostol Povýšenia Svätého kríža is a Gothic wooden church with painted interior in Čičmany.",
                   "category": "religious",
                   "coords": [
                         18.518061,
@@ -38873,7 +39287,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Banské múzeum",
-                  "text": "Museum in Kremnica, das die reiche Bergbautradition der Stadt und Region präsentiert.",
+                  "text": "Bergbaumuseum in einem historischen Gebäude von Kremnica.",
                   "category": "museum",
                   "coords": [
                         18.908275,
@@ -38882,7 +39296,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Krahuľský vrch",
-                  "text": "Ein markanter Berg bei Kremnica, der beliebte Wanderwege bietet.",
+                  "text": "Ein bewaldeter Hügel im Kremnické vrchy-Gebirge bei Kremnica.",
                   "category": "natural",
                   "coords": [
                         18.930887,
@@ -38891,7 +39305,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kremnický štós",
-                  "text": "Ein Aussichtspunkt in Kremnica mit weitem Blick über die Stadt und die umliegende Landschaft.",
+                  "text": "Historischer Stolleneingang im Bergmassiv von Kremnica.",
                   "category": "natural",
                   "coords": [
                         18.936615,
@@ -38909,7 +39323,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kalvaria",
-                  "text": "Ein Kalvarienberg in Kremnica, der als Aussichtspunkt über die historische Stadt dient.",
+                  "text": "Kalvarienberg mit Kapelle und Aussicht auf Kremnica.",
                   "category": "natural",
                   "coords": [
                         18.907365,
@@ -38918,7 +39332,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Jubilejný háj RČS 1918-1928 Kremnica - Partizánska dolina",
-                  "text": "Ein Gedenkhain im Partizánska-Tal bei Kremnica, der Natur und Geschichte verbindet.",
+                  "text": "Jubiläumshain von 1928 im Partizánska-Tal bei Kremnica.",
                   "category": "landmark",
                   "coords": [
                         18.938774,
@@ -38927,7 +39341,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "svätého Mikuláša",
-                  "text": "Eine dem heiligen Nikolaus gewidmete Kirche im historischen Kremnica.",
+                  "text": "Die dem heiligen Nikolaus geweihte Kirche im historischen Zentrum von Kremnica.",
                   "category": "religious",
                   "coords": [
                         18.894927,
@@ -38936,7 +39350,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kostol sv. Alžbety",
-                  "text": "Eine Sakralbau in Kremnica, der die heilige Elisabeth ehrt.",
+                  "text": "Die der heiligen Elisabeth geweihte Kirche in der Altstadt von Kremnica.",
                   "category": "religious",
                   "coords": [
                         18.915495,
@@ -38945,7 +39359,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "Die evangelische Kirche von Kremnica, ein wichtiger Teil des religiösen Erbes der Stadt.",
+                  "text": "Eine mittelalterliche Burganlage, die die historische Münze und ein Museum beherbergt.",
                   "category": "religious",
                   "coords": [
                         18.920033,
@@ -39001,7 +39415,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Banské múzeum",
-                  "text": "Körmöcbányai múzeum, amely a város és a régió gazdag bányászati múltját mutatja be.",
+                  "text": "Bányamúzeum Körmöcbánya történelmi épületében.",
                   "category": "museum",
                   "coords": [
                         18.908275,
@@ -39010,7 +39424,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Krahuľský vrch",
-                  "text": "Jellegzetes hegy Körmöcbánya közelében, népszerű túraútvonalakkal.",
+                  "text": "Egy erdős domb a Kremnické vrchy-hegységben, Kremnica közelében.",
                   "category": "natural",
                   "coords": [
                         18.930887,
@@ -39019,7 +39433,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kremnický štós",
-                  "text": "Kilátópont Körmöcbányán, ahonnan panoráma nyílik a városra és a környező tájra.",
+                  "text": "Történelmi tárna bejárata a Körmöci-hegységben.",
                   "category": "natural",
                   "coords": [
                         18.936615,
@@ -39037,7 +39451,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kalvaria",
-                  "text": "Körmöcbányai kálvária, amely kilátóként is szolgál a történelmi városra.",
+                  "text": "Kálvária-domb kápolnával és kilátással Körmöcbányára.",
                   "category": "natural",
                   "coords": [
                         18.907365,
@@ -39046,7 +39460,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Jubilejný háj RČS 1918-1928 Kremnica - Partizánska dolina",
-                  "text": "Emlékpark a Körmöcbánya melletti Partizánska-völgyben, amely ötvözi a természetet és a történelmet.",
+                  "text": "1928-as jubileumi liget a Partizánska-völgyben Körmöcbánya mellett.",
                   "category": "landmark",
                   "coords": [
                         18.938774,
@@ -39055,7 +39469,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "svätého Mikuláša",
-                  "text": "Szent Miklósnak szentelt templom a történelmi Körmöcbányán.",
+                  "text": "A Szent Miklósnak szentelt templom Körmöcbánya történelmi központjában.",
                   "category": "religious",
                   "coords": [
                         18.894927,
@@ -39064,7 +39478,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kostol sv. Alžbety",
-                  "text": "Szent Erzsébet tiszteletére emelt egyházi épület Körmöcbányán.",
+                  "text": "A Szent Erzsébetnek szentelt templom Körmöcbánya óvárosában.",
                   "category": "religious",
                   "coords": [
                         18.915495,
@@ -39073,7 +39487,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "Körmöcbánya evangélikus temploma, a város vallási örökségének fontos része.",
+                  "text": "Egy középkori várkomplexum, amely a történelmi pénzverdének és egy múzeumnak ad otthont.",
                   "category": "religious",
                   "coords": [
                         18.920033,
@@ -39129,7 +39543,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Banské múzeum",
-                  "text": "Muzeu din Kremnica care prezintă bogata tradiție minieră a orașului și a regiunii.",
+                  "text": "Muzeul mineritului într-o clădire istorică din Kremnica.",
                   "category": "museum",
                   "coords": [
                         18.908275,
@@ -39138,7 +39552,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Krahuľský vrch",
-                  "text": "Un munte proeminent lângă Kremnica, oferind trasee de drumeție populare.",
+                  "text": "Un deal împădurit în Munții Kremnické vrchy, lângă Kremnica.",
                   "category": "natural",
                   "coords": [
                         18.930887,
@@ -39147,7 +39561,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kremnický štós",
-                  "text": "Un punct de belvedere din Kremnica cu o vedere largă asupra orașului și peisajului înconjurător.",
+                  "text": "Intrarea unui vechi șut minier în masivul Kremnica.",
                   "category": "natural",
                   "coords": [
                         18.936615,
@@ -39165,7 +39579,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kalvaria",
-                  "text": "O calvarie din Kremnica care servește drept punct de observație asupra orașului istoric.",
+                  "text": "Dealul Calvarului cu capelă și vedere asupra Kremnicăi.",
                   "category": "natural",
                   "coords": [
                         18.907365,
@@ -39174,7 +39588,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Jubilejný háj RČS 1918-1928 Kremnica - Partizánska dolina",
-                  "text": "O dumbravă memorială în Valea Partizánska de lângă Kremnica, îmbinând natura cu istoria.",
+                  "text": "Dumbrava jubiliară din 1928 în valea Partizánska lângă Kremnica.",
                   "category": "landmark",
                   "coords": [
                         18.938774,
@@ -39183,7 +39597,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "svätého Mikuláša",
-                  "text": "O biserică dedicată Sfântului Nicolae în Kremnica istorică.",
+                  "text": "Biserica dedicată Sfântului Nicolae în centrul istoric al orașului Kremnica.",
                   "category": "religious",
                   "coords": [
                         18.894927,
@@ -39192,7 +39606,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kostol sv. Alžbety",
-                  "text": "Un lăcaș de cult din Kremnica care o onorează pe Sfânta Elisabeta.",
+                  "text": "Biserica dedicată Sfintei Elisabeta în orașul vechi din Kremnica.",
                   "category": "religious",
                   "coords": [
                         18.915495,
@@ -39201,7 +39615,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "Biserica evanghelică din Kremnica, o parte importantă a moștenirii religioase a orașului.",
+                  "text": "Un complex medieval de cetate care găzduiește monetăria istorică și un muzeu.",
                   "category": "religious",
                   "coords": [
                         18.920033,
@@ -39257,7 +39671,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Banské múzeum",
-                  "text": "Museum in Kremnica showcasing the rich mining tradition of the town and region.",
+                  "text": "Mining museum housed in a historic building in Kremnica.",
                   "category": "museum",
                   "coords": [
                         18.908275,
@@ -39266,7 +39680,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Krahuľský vrch",
-                  "text": "A prominent peak near Kremnica offering popular hiking trails.",
+                  "text": "A forested hill in the Kremnické vrchy mountains near Kremnica.",
                   "category": "natural",
                   "coords": [
                         18.930887,
@@ -39275,7 +39689,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kremnický štós",
-                  "text": "A viewpoint in Kremnica with a wide view over the town and the surrounding landscape.",
+                  "text": "Historic mining adit entrance in the Kremnica mountains.",
                   "category": "natural",
                   "coords": [
                         18.936615,
@@ -39293,7 +39707,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kalvaria",
-                  "text": "A calvary in Kremnica that serves as a viewpoint over the historical town.",
+                  "text": "Calvary hill with a chapel offering views over Kremnica.",
                   "category": "natural",
                   "coords": [
                         18.907365,
@@ -39302,7 +39716,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Jubilejný háj RČS 1918-1928 Kremnica - Partizánska dolina",
-                  "text": "A memorial grove in the Partizánska valley near Kremnica, blending nature and history.",
+                  "text": "Jubilee grove planted in 1928 in Partizánska dolina valley near Kremnica.",
                   "category": "landmark",
                   "coords": [
                         18.938774,
@@ -39311,7 +39725,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "svätého Mikuláša",
-                  "text": "A church dedicated to Saint Nicholas in historical Kremnica.",
+                  "text": "The church dedicated to St. Nicholas in the historic center of Kremnica.",
                   "category": "religious",
                   "coords": [
                         18.894927,
@@ -39320,7 +39734,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Kostol sv. Alžbety",
-                  "text": "A religious building in Kremnica honoring Saint Elizabeth.",
+                  "text": "The church dedicated to St. Elizabeth in the old town of Kremnica.",
                   "category": "religious",
                   "coords": [
                         18.915495,
@@ -39329,7 +39743,7 @@ imageHint: "Wooden houses with white ornaments in Čičmany",
             },
             {
                   "name": "Evanjelický a. v. kostol",
-                  "text": "The evangelical church of Kremnica, an important part of the town's religious heritage.",
+                  "text": "A medieval castle complex housing the historic mint and a museum.",
                   "category": "religious",
                   "coords": [
                         18.920033,
@@ -39405,7 +39819,7 @@ imageHint: "Kremnica town castle and the historic mint building",
       "de": [
             {
                   "name": "Nový zámok",
-                  "text": "Das New Castle (Nový zámok) ist eine bekannte Burg in Banská Štiavnica.",
+                  "text": "Ein kleiner Tierpark in der historischen Bergbaustadt Banská Štiavnica.",
                   "category": "castle",
                   "coords": [
                         18.896159,
@@ -39432,7 +39846,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol Nanebovzatia Panny Márie",
-                  "text": "Kostol Nanebovzatia Panny Márie ist eine bedeutende Kirche in Banská Štiavnica.",
+                  "text": "Die Mariä-Himmelfahrt-Kirche ist eine gotische römisch-katholische Kirche in der UNESCO-Welterbestadt Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.896852,
@@ -39441,7 +39855,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol svätej Kataríny",
-                  "text": "Kostol svätej Kataríny ist ein religiöses Gebäude in Banská Štiavnica.",
+                  "text": "Die St.-Katharinen-Kirche ist eine gotische Franziskanerkirche im historischen Zentrum des UNESCO-Welterbes Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.892861,
@@ -39450,7 +39864,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Bartolomej štôlňa",
-                  "text": "Bartolomej štôlňa ist eine historische Grubenattraktion in Banská Štiavnica.",
+                  "text": "Der Bartolomej-Stollen ist ein historischer Bergbaustollen aus dem 18. Jahrhundert in der UNESCO-Bergbaulandschaft von Banská Štiavnica.",
                   "category": "landmark",
                   "coords": [
                         18.889047,
@@ -39459,7 +39873,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Arborétum Kysihýbeľ",
-                  "text": "Arborétum Kysihýbeľ ist eine botanische Attraktion in Banská Štiavnica.",
+                  "text": "Ein Arboretum mit exotischen Bäumen im ehemaligen Bergbaugebiet von Banská Štiavnica.",
                   "category": "landmark",
                   "coords": [
                         18.9314,
@@ -39468,7 +39882,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kanderka",
-                  "text": "Kanderka ist ein Berggipfel in der Umgebung von Banská Štiavnica.",
+                  "text": "Kanderka ist ein Hügel im Gebirge Štiavnické vrchy nahe Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.85166,
@@ -39477,7 +39891,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Tanád",
-                  "text": "Tanád ist ein markanter Gipfel bei Banská Štiavnica in den Schemnitzer Bergen.",
+                  "text": "Tanád ist ein vulkanischer Gipfel im Štiavnické-vrchy-Gebirge mit Blick auf Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.8689,
@@ -39486,7 +39900,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Paradajs",
-                  "text": "Paradajs ist ein bekannter Berggipfel in der Nähe von Banská Štiavnica.",
+                  "text": "Ein Hügel im Štiavnické vrchy-Gebirge in der Nähe von Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.874204,
@@ -39495,7 +39909,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Cukmantel",
-                  "text": "Cukmantel ist ein Berg in der landschaftlichen Umgebung von Banská Štiavnica.",
+                  "text": "Cukmantel ist ein Hügel im Štiavnické-vrchy-Gebirge, Teil der UNESCO-Bergbauregion.",
                   "category": "natural",
                   "coords": [
                         18.869025,
@@ -39504,7 +39918,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Studený vrch",
-                  "text": "Studený vrch ist ein Berggipfel im Gebiet von Banská Štiavnica.",
+                  "text": "Studený vrch ist ein Gipfel im Štiavnické-vrchy-Gebirge östlich von Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.890735,
@@ -39513,7 +39927,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Šobov",
-                  "text": "Šobov ist eine Erhebung in der Nähe der Stadt Banská Štiavnica.",
+                  "text": "Šobov ist ein Hügel im Štiavnické-vrchy-Gebirge, bekannt für seine verlassenen Bergbauhalden.",
                   "category": "natural",
                   "coords": [
                         18.888058,
@@ -39522,7 +39936,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Hadová",
-                  "text": "Hadová ist ein Berg in den Schemnitzer Bergen bei Banská Štiavnica.",
+                  "text": "Hadová ist ein Gipfel im Štiavnické-vrchy-Gebirge südlich von Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.847008,
@@ -39531,7 +39945,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Vtáčnik",
-                  "text": "Der Vtáčnik ist ein Berggipfel, der sich in der Umgebung von Banská Štiavnica erhebt.",
+                  "text": "Ein Gipfel im Štiavnické vrchy-Gebirge nahe der Bergbaustadt Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.882727,
@@ -39540,7 +39954,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Banskoštiavnická kalvária",
-                  "text": "Banskoštiavnická kalvária ist ein bedeutender barocker Kalvarienberg und Parkkomplex in Banská Štiavnica.",
+                  "text": "Eine barocke Kalvarienanlage mit 22 Kapellen, die einen Hügel oberhalb von Banská Štiavnica hinaufzieht.",
                   "category": "park",
                   "coords": [
                         18.912025,
@@ -39549,7 +39963,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Staré mesto, citadela",
-                  "text": "Staré mesto, citadela ist eine archäologische Stätte und ehemalige Zitadelle in Banská Štiavnica.",
+                  "text": "Die Oberkirche zum Heiligen Kreuz thront auf einem Hügel über Banská Štiavnica.",
                   "category": "historical",
                   "coords": [
                         18.89198,
@@ -39576,7 +39990,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol sv. Joachima a Anny",
-                  "text": "Kostol sv. Joachima a Anny ist ein lokales Gotteshaus in der Stadt Banská Štiavnica.",
+                  "text": "Die den heiligen Joachim und Anna geweihte Kirche im historischen Zentrum von Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.894029,
@@ -39585,7 +39999,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Zentralkirche (Kapelle der Heiligen Dreifaltigkeit)",
-                  "text": "Die Zentrale Kirche, oder Heilig-Dreifaltigkeits-Kapelle, ist eine religiöse Stätte in Banská Štiavnica.",
+                  "text": "Die Heilig-Dreifaltigkeits-Kapelle (Central Church) ist eine barocke Kapelle auf dem Hauptplatz der UNESCO-Altstadt von Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.912972,
@@ -39603,7 +40017,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol sv. Jozefa",
-                  "text": "Kostol sv. Jozefa (St.-Josephs-Kirche) ist ein Gotteshaus in Banská Štiavnica.",
+                  "text": "Das Geburtshaus des berühmten Fotografen Dežo Hoffmann in Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.870202,
@@ -39621,7 +40035,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Weiden šachta",
-                  "text": "Der Weiden-Schacht (Weiden šachta) ist eine Sehenswürdigkeit, die mit der Bergbaugeschichte von Banská Štiavnica verbunden ist.",
+                  "text": "Die Weiden šachta ist ein ehemaliger Bergwerksschacht in der Bergbaustadt Banská Štiavnica.",
                   "category": "landmark",
                   "coords": [
                         18.878623,
@@ -39630,7 +40044,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Banské múzeum",
-                  "text": "Das Bergbaumuseum (Banské múzeum) präsentiert das reiche industrielle Erbe von Banská Štiavnica.",
+                  "text": "Eine Gedenktafel, die an das Bergfest in Banská Štiavnica erinnert.",
                   "category": "museum",
                   "coords": [
                         18.895675,
@@ -39675,7 +40089,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Galéria u Bindera",
-                  "text": "Eine Kunstgalerie in der Stadt Banská Štiavnica.",
+                  "text": "Eine Galerie im ehemaligen Bergmannshaus in Banská Štiavnica.",
                   "category": "museum",
                   "coords": [
                         18.89195,
@@ -39711,7 +40125,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Földmérő emlékhely",
-                  "text": "Dieses Denkmal in Banská Štiavnica ist dem Andenken an Landvermesser gewidmet.",
+                  "text": "Ein Denkmal, das den Landvermessern in Banská Štiavnica gewidmet ist.",
                   "category": "historical",
                   "coords": [
                         18.892345,
@@ -39731,7 +40145,7 @@ imageHint: "Kremnica town castle and the historic mint building",
       "hu": [
             {
                   "name": "Leányvár (Újvár)",
-                  "text": "A New castle (Nový zámok) egy ismert vár Banská Štiavnica városában.",
+                  "text": "Egy kis állatkert a történelmi bányavárosban, Banská Štiavnicán.",
                   "category": "castle",
                   "coords": [
                         18.896159,
@@ -39758,7 +40172,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Mária mennybevétele templom",
-                  "text": "A Kostol Nanebovzatia Panny Márie egy jelentős templom Banská Štiavnica városában.",
+                  "text": "A Nagyboldogasszony-templom egy gótikus római katolikus templom az UNESCO világörökségi Banská Štiavnica városában.",
                   "category": "religious",
                   "coords": [
                         18.896852,
@@ -39767,7 +40181,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Szent Katalin templom",
-                  "text": "A Kostol svätej Kataríny egy vallási épület Banská Štiavnica területén.",
+                  "text": "Szent Katalin-templom egy gótikus ferences templom Banská Štiavnica UNESCO világörökségi történelmi központjában.",
                   "category": "religious",
                   "coords": [
                         18.892861,
@@ -39776,7 +40190,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Bertalan táró",
-                  "text": "A Bartolomej štôlňa egy történelmi bányászati látványosság Banská Štiavnica városában.",
+                  "text": "A Bartolomej-tárna egy 18. századi történelmi bányászati alagút Banská Štiavnica UNESCO bányászati tájrészében.",
                   "category": "landmark",
                   "coords": [
                         18.889047,
@@ -39785,7 +40199,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kisiblyei Arborétum",
-                  "text": "Az Arborétum Kysihýbeľ egy botanikai látványosság Banská Štiavnica területén.",
+                  "text": "Egzotikus fák arboretuma a bányászváros Banská Štiavnica területén.",
                   "category": "landmark",
                   "coords": [
                         18.9314,
@@ -39794,7 +40208,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kanderka",
-                  "text": "A Kanderka egy hegycsúcs Banská Štiavnica környékén.",
+                  "text": "A Kanderka egy domb a Štiavnické vrchy hegységben, Banská Štiavnica közelében.",
                   "category": "natural",
                   "coords": [
                         18.85166,
@@ -39803,7 +40217,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Tanád",
-                  "text": "A Tanád egy kiemelkedő hegycsúcs Banská Štiavnica közelében a Selmeci-hegységben.",
+                  "text": "A Tanád egy vulkanikus csúcs a Štiavnické vrchy hegységben, Banská Štiavnicára tekintve.",
                   "category": "natural",
                   "coords": [
                         18.8689,
@@ -39812,7 +40226,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Paradicsom-hegy",
-                  "text": "A Paradajs egy ismert hegycsúcs Banská Štiavnica közelében.",
+                  "text": "Egy domb a Štiavnické vrchy-hegységben, Banská Štiavnica közelében.",
                   "category": "natural",
                   "coords": [
                         18.874204,
@@ -39821,7 +40235,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Cukmantel",
-                  "text": "A Cukmantel egy hegy Banská Štiavnica festői környezetében.",
+                  "text": "A Cukmantel egy domb a Štiavnické vrchy hegységben, az UNESCO bányászati régió része.",
                   "category": "natural",
                   "coords": [
                         18.869025,
@@ -39830,7 +40244,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Studený vrch",
-                  "text": "A Studený vrch egy hegycsúcs Banská Štiavnica térségében.",
+                  "text": "A Studený vrch egy csúcs a Štiavnické vrchy hegységben, Banská Štiavnicától keletre.",
                   "category": "natural",
                   "coords": [
                         18.890735,
@@ -39839,7 +40253,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Sobó",
-                  "text": "A Šobov egy magaslat Banská Štiavnica városa közelében.",
+                  "text": "A Šobov egy domb a Štiavnické vrchy hegységben, amely elhagyott bányameddőiről ismert.",
                   "category": "natural",
                   "coords": [
                         18.888058,
@@ -39848,7 +40262,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Hadová",
-                  "text": "A Hadová a Selmeci-hegység egyik hegye Banská Štiavnica mellett.",
+                  "text": "A Hadová egy csúcs a Štiavnické vrchy hegységben, Banská Štiavnicától délre.",
                   "category": "natural",
                   "coords": [
                         18.847008,
@@ -39857,7 +40271,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Vtáčnik",
-                  "text": "A Vtáčnik egy hegycsúcs, amely Banská Štiavnica környékén emelkedik.",
+                  "text": "Egy csúcs a Štiavnické vrchy-hegységben, a bányászváros, Banská Štiavnica közelében.",
                   "category": "natural",
                   "coords": [
                         18.882727,
@@ -39866,7 +40280,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Banskoštiavnická kalvária",
-                  "text": "A Banskoštiavnická kalvária egy jelentős barokk kálvária és parkegyüttes Banská Štiavnica városában.",
+                  "text": "Barokk kálvária 22 kápolnával, amely egy dombon halad felfelé Banská Štiavnica fölött.",
                   "category": "park",
                   "coords": [
                         18.912025,
@@ -39875,7 +40289,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Staré mesto, citadela",
-                  "text": "A Staré mesto, citadela egy régészeti lelőhely és egykori erődítmény Banská Štiavnica városában.",
+                  "text": "A Szent Kereszt felső temploma a dombon magasodik Banská Štiavnica fölé.",
                   "category": "historical",
                   "coords": [
                         18.89198,
@@ -39884,7 +40298,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Hlavný banský úrad",
-                  "text": "A Hlavný banský úrad egy történelmi közigazgatási épület Banská Štiavnica városában.",
+                  "text": "A Szent Joachimnak és Annának szentelt templom Banská Štiavnica történelmi központjában.",
                   "category": "historical",
                   "coords": [
                         18.899746,
@@ -39911,7 +40325,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Középső templom (Szentháromság kápolna)",
-                  "text": "A Központi templom, más néven Szentháromság-kápolna, egy vallási helyszín Selmecbányán.",
+                  "text": "A Szentháromság-kápolna (Central Church) egy barokk kápolna Banska Stiavnica UNESCO-világörökségi főterén.",
                   "category": "religious",
                   "coords": [
                         18.912972,
@@ -39929,7 +40343,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol sv. Jozefa",
-                  "text": "A Szent József-templom (Kostol sv. Jozefa) egy istentiszteleti hely Selmecbányán.",
+                  "text": "A híres fotós, Dežo Hoffmann szülőháza Banská Štiavnicán.",
                   "category": "religious",
                   "coords": [
                         18.870202,
@@ -39947,7 +40361,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Weiden šachta",
-                  "text": "A Weiden-akna Selmecbánya bányászati múltjához kapcsolódó látványosság.",
+                  "text": "A Weiden šachta egy egykori bányakút a bányavárosban, Banská Štiavnicában.",
                   "category": "landmark",
                   "coords": [
                         18.878623,
@@ -39956,7 +40370,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Szlovák Bányászati Múzeum",
-                  "text": "A Bányászati Múzeum (Banské múzeum) Selmecbánya gazdag bányászati örökségét mutatja be.",
+                  "text": "Emléktábla, amely a Banská Štiavnicai Bergfest emlékére készült.",
                   "category": "museum",
                   "coords": [
                         18.895675,
@@ -40001,7 +40415,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Galéria u Bindera",
-                  "text": "Művészeti galéria Selmecbányán.",
+                  "text": "Galéria egy egykori bányászházban Banská Štiavnicában.",
                   "category": "museum",
                   "coords": [
                         18.89195,
@@ -40037,7 +40451,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Földmérő emlékhely",
-                  "text": "Ez a selmecbányai emlékmű a földmérők munkásságának állít emléket.",
+                  "text": "A földmérőknek szentelt emlékmű Banská Štiavnicán.",
                   "category": "historical",
                   "coords": [
                         18.892345,
@@ -40057,7 +40471,7 @@ imageHint: "Kremnica town castle and the historic mint building",
       "ro": [
             {
                   "name": "Nový zámok",
-                  "text": "New castle (Nový zámok) este un castel notabil situat în Banská Štiavnica.",
+                  "text": "Un mic parc animalier în orașul minier istoric Banská Štiavnica.",
                   "category": "castle",
                   "coords": [
                         18.896159,
@@ -40084,7 +40498,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol Nanebovzatia Panny Márie",
-                  "text": "Kostol Nanebovzatia Panny Márie este o biserică notabilă din Banská Štiavnica.",
+                  "text": "Biserica Adormirea Maicii Domnului este o biserică gotică romano-catolică în orașul Banská Štiavnica, inclus în patrimoniul UNESCO.",
                   "category": "religious",
                   "coords": [
                         18.896852,
@@ -40093,7 +40507,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol svätej Kataríny",
-                  "text": "Kostol svätej Kataríny este un lăcaș de cult situat în Banská Štiavnica.",
+                  "text": "Biserica Sfânta Ecaterina este o biserică gotică franciscană în centrul istoric al orașului Banská Štiavnica, patrimoniu UNESCO.",
                   "category": "religious",
                   "coords": [
                         18.892861,
@@ -40102,7 +40516,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Bartolomej štôlňa",
-                  "text": "Bartolomej štôlňa este o atracție minieră istorică din Banská Štiavnica.",
+                  "text": "Galeria Bartolomej este un tunel minier istoric din secolul al XVIII-lea în peisajul minier UNESCO din Banská Štiavnica.",
                   "category": "landmark",
                   "coords": [
                         18.889047,
@@ -40111,7 +40525,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Arborétum Kysihýbeľ",
-                  "text": "Arborétum Kysihýbeľ este o atracție botanică situată în Banská Štiavnica.",
+                  "text": "Un arboretum cu arbori exotici în zona minieră istorică Banská Štiavnica.",
                   "category": "landmark",
                   "coords": [
                         18.9314,
@@ -40120,7 +40534,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kanderka",
-                  "text": "Kanderka este un vârf montan în zona orașului Banská Štiavnica.",
+                  "text": "Kanderka este o colină în munții Štiavnické vrchy, lângă Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.85166,
@@ -40129,7 +40543,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Tanád",
-                  "text": "Tanád este un vârf proeminent lângă Banská Štiavnica, în Munții Štiavnica.",
+                  "text": "Tanád este un vârf vulcanic în munții Štiavnické vrchy, cu vedere spre Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.8689,
@@ -40138,7 +40552,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Paradajs",
-                  "text": "Paradajs este un vârf montan cunoscut situat în apropiere de Banská Štiavnica.",
+                  "text": "Un deal în Munții Štiavnické vrchy, lângă Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.874204,
@@ -40147,7 +40561,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Cukmantel",
-                  "text": "Cukmantel este un munte în peisajul pitoresc din jurul orașului Banská Štiavnica.",
+                  "text": "Cukmantel este o colină în munții Štiavnické vrchy, parte a regiunii miniere UNESCO.",
                   "category": "natural",
                   "coords": [
                         18.869025,
@@ -40156,7 +40570,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Studený vrch",
-                  "text": "Studený vrch este un vârf montan în zona Banská Štiavnica.",
+                  "text": "Studený vrch este un vârf în munții Štiavnické vrchy, la est de Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.890735,
@@ -40165,7 +40579,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Šobov",
-                  "text": "Šobov este o culme montană în apropierea orașului Banská Štiavnica.",
+                  "text": "Šobov este o colină în munții Štiavnické vrchy, cunoscută pentru haldele miniere abandonate.",
                   "category": "natural",
                   "coords": [
                         18.888058,
@@ -40174,7 +40588,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Hadová",
-                  "text": "Hadová este un munte în Munții Štiavnica, lângă Banská Štiavnica.",
+                  "text": "Hadová este un vârf în munții Štiavnické vrchy, la sud de Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.847008,
@@ -40183,7 +40597,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Vtáčnik",
-                  "text": "Vtáčnik este un vârf de munte care se înalță în împrejurimile orașului Banská Štiavnica.",
+                  "text": "Un vârf în Munții Štiavnické vrchy, lângă orașul minier Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.882727,
@@ -40192,7 +40606,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Banskoštiavnická kalvária",
-                  "text": "Banskoštiavnická kalvária este un important complex baroc și parc pitoresc în Banská Štiavnica.",
+                  "text": "Un calvar baroc cu 22 de capele care urcă pe un deal deasupra orașului Banská Štiavnica.",
                   "category": "park",
                   "coords": [
                         18.912025,
@@ -40201,7 +40615,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Staré mesto, citadela",
-                  "text": "Staré mesto, citadela este un sit arheologic și o fostă citadelă în Banská Štiavnica.",
+                  "text": "Biserica de Sus a Sfintei Cruci se înalță pe un deal deasupra orașului Banská Štiavnica.",
                   "category": "historical",
                   "coords": [
                         18.89198,
@@ -40228,7 +40642,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol sv. Joachima a Anny",
-                  "text": "Kostol sv. Joachima a Anny este un lăcaș de cult situat în Banská Štiavnica.",
+                  "text": "Biserica dedicată Sfinților Ioachim și Ana în centrul istoric al orașului Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.894029,
@@ -40237,7 +40651,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kaplnka Najsvätejšej Trojice",
-                  "text": "Biserica Centrală, sau Capela Sfintei Treimi, este un lăcaș de cult din Banská Štiavnica.",
+                  "text": "Capela Sfintei Treimi (Central Church) este o capelă barocă în piața principală a orașului minier UNESCO Banska Stiavnica.",
                   "category": "religious",
                   "coords": [
                         18.912972,
@@ -40255,7 +40669,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol sv. Jozefa",
-                  "text": "Biserica Sfântul Iosif (Kostol sv. Jozefa) este un lăcaș de cult religios din Banská Štiavnica.",
+                  "text": "Casa natală a celebrului fotograf Dežo Hoffmann în Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.870202,
@@ -40273,7 +40687,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Weiden šachta",
-                  "text": "Puțul Weiden (Weiden šachta) este o atracție legată de istoria minieră a orașului Banská Štiavnica.",
+                  "text": "Weiden šachta este un fost puț minier în orașul minier Banská Štiavnica.",
                   "category": "landmark",
                   "coords": [
                         18.878623,
@@ -40282,7 +40696,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Banské múzeum",
-                  "text": "Muzeul Mineritului (Banské múzeum) expune patrimoniul industrial și minier al orașului Banská Štiavnica.",
+                  "text": "O placă memorială care comemorează festivalul minier Bergfest din Banská Štiavnica.",
                   "category": "museum",
                   "coords": [
                         18.895675,
@@ -40327,7 +40741,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Galéria u Bindera",
-                  "text": "O galerie de artă situată în Banská Štiavnica.",
+                  "text": "O galerie într-o fostă casă de miner în Banská Štiavnica.",
                   "category": "museum",
                   "coords": [
                         18.89195,
@@ -40363,7 +40777,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Földmérő emlékhely",
-                  "text": "Acest monument din Banská Štiavnica este dedicat memoriei topografilor.",
+                  "text": "Un monument dedicat topografilor din Banská Štiavnica.",
                   "category": "historical",
                   "coords": [
                         18.892345,
@@ -40383,7 +40797,7 @@ imageHint: "Kremnica town castle and the historic mint building",
       "en": [
             {
                   "name": "New castle",
-                  "text": "The New castle (Nový zámok) is a prominent castle located in Banská Štiavnica.",
+                  "text": "A Renaissance fortress on a hill above the mining town of Banská Štiavnica, now a museum.",
                   "category": "castle",
                   "coords": [
                         18.896159,
@@ -40410,7 +40824,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol Nanebovzatia Panny Márie",
-                  "text": "Kostol Nanebovzatia Panny Márie is a notable place of worship in Banská Štiavnica.",
+                  "text": "The Church of the Assumption is a Gothic Roman Catholic church in the UNESCO-listed mining town of Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.896852,
@@ -40419,7 +40833,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol svätej Kataríny",
-                  "text": "Kostol svätej Kataríny is a place of worship located in Banská Štiavnica.",
+                  "text": "St. Catherine's Church is a Gothic Franciscan church in the historic centre of Banská Štiavnica, a UNESCO site.",
                   "category": "religious",
                   "coords": [
                         18.892861,
@@ -40428,7 +40842,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Bartolomej štôlňa",
-                  "text": "Bartolomej štôlňa is a historical mining attraction in Banská Štiavnica.",
+                  "text": "The Bartolomej adit is a historic mining tunnel from the 18th century in Banská Štiavnica's UNESCO mining landscape.",
                   "category": "landmark",
                   "coords": [
                         18.889047,
@@ -40437,7 +40851,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Arborétum Kysihýbeľ",
-                  "text": "Arborétum Kysihýbeľ is a botanical attraction located in Banská Štiavnica.",
+                  "text": "An arboretum with exotic trees in the historic mining area of Banská Štiavnica.",
                   "category": "landmark",
                   "coords": [
                         18.9314,
@@ -40446,7 +40860,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kanderka",
-                  "text": "Kanderka is a mountain peak located near Banská Štiavnica.",
+                  "text": "Kanderka is a hill in the Štiavnické vrchy mountains near Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.85166,
@@ -40455,7 +40869,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Tanád",
-                  "text": "Tanád is a prominent peak near Banská Štiavnica in the Štiavnica Mountains.",
+                  "text": "Tanád is a volcanic peak in the Štiavnické vrchy range, overlooking Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.8689,
@@ -40464,7 +40878,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Paradajs",
-                  "text": "Paradajs is a well-known mountain peak located near Banská Štiavnica.",
+                  "text": "A hill in the Štiavnické vrchy mountains near Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.874204,
@@ -40473,7 +40887,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Cukmantel",
-                  "text": "Cukmantel is a mountain in the scenic surroundings of Banská Štiavnica.",
+                  "text": "Cukmantel is a hill in the Štiavnické vrchy, part of the UNESCO mining region.",
                   "category": "natural",
                   "coords": [
                         18.869025,
@@ -40482,7 +40896,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Studený vrch",
-                  "text": "Studený vrch is a mountain peak in the Banská Štiavnica area.",
+                  "text": "Studený vrch is a peak in the Štiavnické vrchy, east of Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.890735,
@@ -40491,7 +40905,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Šobov",
-                  "text": "Šobov is an elevation near the town of Banská Štiavnica.",
+                  "text": "Šobov is a hill in the Štiavnické vrchy, known for its abandoned mine dumps.",
                   "category": "natural",
                   "coords": [
                         18.888058,
@@ -40500,7 +40914,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Hadová",
-                  "text": "Hadová is a mountain in the Štiavnica Mountains near Banská Štiavnica.",
+                  "text": "Hadová is a peak in the Štiavnické vrchy, south of Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.847008,
@@ -40509,7 +40923,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Vtáčnik",
-                  "text": "Vtáčnik is a mountain peak that rises in the surroundings of Banská Štiavnica.",
+                  "text": "A peak in the Štiavnické vrchy mountains near the mining town of Banská Štiavnica.",
                   "category": "natural",
                   "coords": [
                         18.882727,
@@ -40518,7 +40932,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Banskoštiavnická kalvária",
-                  "text": "Banskoštiavnická kalvária is a significant Baroque Calvary and park complex in Banská Štiavnica.",
+                  "text": "A Baroque Calvary with 22 chapels climbing a hill above Banská Štiavnica.",
                   "category": "park",
                   "coords": [
                         18.912025,
@@ -40545,7 +40959,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Upper Church (Holy cross Church)",
-                  "text": "The Upper Church, also known as the Holy Cross Church, is a place of worship in Banská Štiavnica.",
+                  "text": "The Upper Church of the Holy Cross stands on a hill overlooking Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.913911,
@@ -40554,7 +40968,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Kostol sv. Joachima a Anny",
-                  "text": "Kostol sv. Joachima a Anny is a local place of worship located in Banská Štiavnica.",
+                  "text": "The church dedicated to Saints Joachim and Anne in the historic center of Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.894029,
@@ -40563,7 +40977,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Central Church (Holy Trinity Chapel)",
-                  "text": "The Central Church, or Holy Trinity Chapel, is a religious site located in Banská Štiavnica.",
+                  "text": "The Holy Trinity Chapel (Central Church) is a Baroque chapel on the main square of the UNESCO mining town Banská Štiavnica.",
                   "category": "religious",
                   "coords": [
                         18.912972,
@@ -40599,7 +41013,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Weiden šachta",
-                  "text": "The Weiden shaft (Weiden šachta) is an attraction linked to the local mining history of Banská Štiavnica.",
+                  "text": "Weiden šachta is a former mining shaft in the mining town of Banská Štiavnica.",
                   "category": "landmark",
                   "coords": [
                         18.878623,
@@ -40608,7 +41022,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Banské múzeum",
-                  "text": "The Mining Museum (Banské múzeum) exhibits the rich mining and industrial heritage of Banská Štiavnica.",
+                  "text": "A memorial plaque commemorating the Bergfest mining festival in Banská Štiavnica.",
                   "category": "museum",
                   "coords": [
                         18.895675,
@@ -40617,7 +41031,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Birth House of Dežo Hoffmann",
-                  "text": "A museum dedicated to the life and work of the photographer Dežo Hoffmann in Banská Štiavnica.",
+                  "text": "The birthplace of the famous photographer Dežo Hoffmann in Banská Štiavnica.",
                   "category": "museum",
                   "coords": [
                         18.891289,
@@ -40653,7 +41067,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Galéria u Bindera",
-                  "text": "An art gallery located in Banská Štiavnica.",
+                  "text": "A gallery housed in a former miner's cottage in Banská Štiavnica.",
                   "category": "museum",
                   "coords": [
                         18.89195,
@@ -40689,7 +41103,7 @@ imageHint: "Kremnica town castle and the historic mint building",
             },
             {
                   "name": "Földmérő emlékhely",
-                  "text": "This monument in Banská Štiavnica is dedicated to the memory and work of land surveyors.",
+                  "text": "A monument dedicated to land surveyors in Banská Štiavnica.",
                   "category": "historical",
                   "coords": [
                         18.892345,
@@ -40811,7 +41225,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Archeologické nálezisko na Pažici",
-                  "text": "Eine archäologische Fundstelle in der Nähe von Spišská Kapitula.",
+                  "text": "Eine mittelalterliche Siedlungsgrabung am Fuße des Spiš-Burgberges.",
                   "category": "historical",
                   "coords": [
                         20.738884,
@@ -40829,7 +41243,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Spišský hradný vrch",
-                  "text": "Der Burgberg von Spiš, auf dem sich die berühmte Zipser Burg befindet.",
+                  "text": "Der Spišský hradný vrch ist der Hügel, der die Ruinen der Zipser Burg trägt, ein UNESCO-Welterbe nahe Spišská Kapitula.",
                   "category": "landmark",
                   "coords": [
                         20.768466,
@@ -40838,7 +41252,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Kaštieľsky park",
-                  "text": "Eine Parkanlage in Spišská Kapitula, die zum Entspannen einlädt.",
+                  "text": "Der Kaštieľsky park ist ein Landschaftspark, der das Renaissance-Herrenhaus in der historischen kirchlichen Siedlung Spišská Kapitula umgibt.",
                   "category": "park",
                   "coords": [
                         20.781605,
@@ -40885,7 +41299,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Archeologické nálezisko na Pažici",
-                  "text": "Régészeti lelőhely Szepeshely közelében.",
+                  "text": "Középkori településásatás a Szepesi várdomb lábánál.",
                   "category": "historical",
                   "coords": [
                         20.738884,
@@ -40903,7 +41317,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Spišský hradný vrch",
-                  "text": "A szepesi várhegy, amelyen a nevezetes szepesi vár áll.",
+                  "text": "A Spišský hradný vrch az a domb, amelyen a Szepesi vár romjai állnak, ez az UNESCO világörökség része Spišská Kapitula közelében.",
                   "category": "landmark",
                   "coords": [
                         20.768466,
@@ -40912,7 +41326,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Kaštieľsky park",
-                  "text": "Kikapcsolódást nyújtó park Szepeshelyen.",
+                  "text": "A Kaštieľsky park egy tájpark, amely a reneszánsz kastélyt veszi körül a történelmi egyházi településen, Spisska Kapitulán.",
                   "category": "park",
                   "coords": [
                         20.781605,
@@ -40959,7 +41373,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Archeologické nálezisko na Pažici",
-                  "text": "Un sit arheologic situat în apropiere de Spišská Kapitula.",
+                  "text": "O săpătură arheologică a unei așezări medievale la poalele dealului Castelului Spiš.",
                   "category": "historical",
                   "coords": [
                         20.738884,
@@ -40977,7 +41391,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Spišský hradný vrch",
-                  "text": "Dealul cetății Spiš, pe care se află faimosul castel Spiš.",
+                  "text": "Spišský hradný vrch este dealul pe care se află ruinele Castelului Spiš, patrimoniu UNESCO, lângă Spišská Kapitula.",
                   "category": "landmark",
                   "coords": [
                         20.768466,
@@ -40986,7 +41400,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Kaštieľsky park",
-                  "text": "O zonă de parc în Spišská Kapitula, ideală pentru relaxare.",
+                  "text": "Parcul Kaštieľsky este un parc peisagistic care înconjoară conacul renascentist din așezarea ecleziastică istorică Spisska Kapitula.",
                   "category": "park",
                   "coords": [
                         20.781605,
@@ -41033,7 +41447,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Archeologické nálezisko na Pažici",
-                  "text": "An archaeological site located near Spišská Kapitula.",
+                  "text": "A medieval settlement excavation at the foot of the Spiš Castle hill.",
                   "category": "historical",
                   "coords": [
                         20.738884,
@@ -41051,7 +41465,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Spišský hradný vrch",
-                  "text": "The Spiš castle hill, home to the famous Spiš Castle.",
+                  "text": "Spišský hradný vrch is the hill that bears the ruins of Spiš Castle, a UNESCO site near Spišská Kapitula.",
                   "category": "landmark",
                   "coords": [
                         20.768466,
@@ -41060,7 +41474,7 @@ imageHint: "Podolínec historic square with the belfry and monastery",
             },
             {
                   "name": "Kaštieľsky park",
-                  "text": "A park area in Spišská Kapitula, ideal for relaxation.",
+                  "text": "Kaštieľsky park is a landscaped park surrounding the Renaissance manor in the historic ecclesiastical village Spišská Kapitula.",
                   "category": "park",
                   "coords": [
                         20.781605,
@@ -42361,7 +42775,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Dolný kaštieľ",
-                  "text": "Eines der historischen Herrenhäuser in Veľká Lomnica.",
+                  "text": "Dolný kaštieľ ist ein spätbarockes Herrenhaus aus dem späten 18. Jahrhundert in Veľká Loma.",
                   "category": "historical",
                   "coords": [
                         20.361783,
@@ -42397,7 +42811,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kostol Svätého kríža",
-                  "text": "Ein religiöses Gebäude oder eine Kapelle des Heiligen Kreuzes.",
+                  "text": "Die Kirche des Heiligen Kreuzes (Kostol Svätého kríža) in Velká Loma ist eine ländliche gotische Kirche mit einem hölzernen Glockenturm.",
                   "category": "religious",
                   "coords": [
                         20.376735,
@@ -42406,7 +42820,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kaplnka sv. Jána Nepomuckého",
-                  "text": "Eine Barockkapelle, die dem heiligen Johannes von Nepomuk geweiht ist.",
+                  "text": "Die Kapelle des heiligen Johannes von Nepomuk (Kaplnka sv. Jána Nepomuckého) ist eine barocke Wegkapelle auf einem Hügel über Velká Loma.",
                   "category": "religious",
                   "coords": [
                         20.370488,
@@ -42415,7 +42829,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kostol sv. Margity Antiochijskej",
-                  "text": "Eine historische römisch-katholische Kirche in Veľká Lomnica.",
+                  "text": "Die Kirche der heiligen Margareta von Antiochia (Kostol sv. Margity Antiochijskej) in Velká Loma ist eine romanisch-gotische Kirche mit mittelalterlichen Fresken.",
                   "category": "religious",
                   "coords": [
                         20.312743,
@@ -42435,7 +42849,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Dolný kaštieľ",
-                  "text": "Egyik történelmi kúria Nagy運動kán.",
+                  "text": "A Dolný kaštieľ egy késő 18. századi kastély Veľká Lomában.",
                   "category": "historical",
                   "coords": [
                         20.361783,
@@ -42471,7 +42885,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kostol Svätého kríža",
-                  "text": "A Szent Kereszt tiszteletére szentelt vallási épület vagy kápolna.",
+                  "text": "A Szent Kereszt-templom (Kostol Svätého kríža) Velka Lomában egy vidéki gótikus templom fa harangtoronnyal.",
                   "category": "religious",
                   "coords": [
                         20.376735,
@@ -42480,7 +42894,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kaplnka sv. Jána Nepomuckého",
-                  "text": "Nepomuki Szent János tiszteletére szentelt barokk kápolna.",
+                  "text": "A Nepomuki Szent János-kápolna (Kaplnka sv. Jána Nepomuckého) egy barokk útmenti kápolna a Velka Loma fölötti dombon.",
                   "category": "religious",
                   "coords": [
                         20.370488,
@@ -42489,7 +42903,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kostol sv. Margity Antiochijskej",
-                  "text": "Római katolikus templom Nagylovcsán.",
+                  "text": "A Szent Margit-templom (Kostol sv. Margity Antiochijskej) Velka Lomában egy román-gótikus templom középkori freskókkal.",
                   "category": "religious",
                   "coords": [
                         20.312743,
@@ -42509,7 +42923,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Dolný kaštieľ",
-                  "text": "Unul dintre conacele istorice din Veľká Lomnica.",
+                  "text": "Dolný kaštieľ este un conac de la sfârșitul secolului al XVIII-lea în Veľká Loma.",
                   "category": "historical",
                   "coords": [
                         20.361783,
@@ -42545,7 +42959,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kostol Svätého kríža",
-                  "text": "O clădire religioasă sau capelă a Sfintei Cruci.",
+                  "text": "Biserica Sfintei Cruci (Kostol Svätého kríža) din Velka Loma este o biserică gotică rurală cu un turn de lemn.",
                   "category": "religious",
                   "coords": [
                         20.376735,
@@ -42554,7 +42968,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kaplnka sv. Jána Nepomuckého",
-                  "text": "O capelă barocă dedicată Sfântului Ioan Nepomuk.",
+                  "text": "Capela Sfântului Ioan Nepomuk (Kaplnka sv. Jána Nepomuckého) este o capelă barocă de drum pe un deal deasupra Velka Loma.",
                   "category": "religious",
                   "coords": [
                         20.370488,
@@ -42563,7 +42977,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kostol sv. Margity Antiochijskej",
-                  "text": "O biserică romano-catolică istorică în Veľká Lomnica.",
+                  "text": "Biserica Sfintei Margareta a Antiohiei (Kostol sv. Margity Antiochijskej) din Velka Loma este o biserică romanic-gotică cu fresce medievale.",
                   "category": "religious",
                   "coords": [
                         20.312743,
@@ -42583,7 +42997,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Dolný kaštieľ",
-                  "text": "One of the historical manor houses in Veľká Lomnica.",
+                  "text": "Dolný kaštieľ is a late 18th-century manor house in Veľká Loma.",
                   "category": "historical",
                   "coords": [
                         20.361783,
@@ -42619,7 +43033,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kostol Svätého kríža",
-                  "text": "A religious building or chapel of the Holy Cross.",
+                  "text": "Kostol Svätého kríža is a rural Gothic church with a wooden bell tower in Velká Loma.",
                   "category": "religious",
                   "coords": [
                         20.376735,
@@ -42628,7 +43042,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kaplnka sv. Jána Nepomuckého",
-                  "text": "A Baroque chapel dedicated to Saint John of Nepomuk.",
+                  "text": "Kaplnka sv. Jána Nepomuckého is a Baroque wayside chapel on a hill above Velká Loma.",
                   "category": "religious",
                   "coords": [
                         20.370488,
@@ -42637,7 +43051,7 @@ imageHint: "Tatra mountains view from Tatranská Lomnica",
             },
             {
                   "name": "Kostol sv. Margity Antiochijskej",
-                  "text": "An historic Roman Catholic church in Veľká Lomnica.",
+                  "text": "Kostol sv. Margity Antiochijskej is a Romanesque-Gothic church with medieval frescoes in Velká Loma.",
                   "category": "religious",
                   "coords": [
                         20.312743,
@@ -42722,7 +43136,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             },
             {
                   "name": "Lesný skanzen Tisovec",
-                  "text": "Ein forstwirtschaftliches Freilichtmuseum in Tisovec.",
+                  "text": "Ein Freilichtmuseum mit Blockhütten und Waldhandwerk in Tisovec.",
                   "category": "family",
                   "coords": [
                         19.931727,
@@ -42731,7 +43145,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             },
             {
                   "name": "Evanjelický kostol a. v.",
-                  "text": "Eine evangelische Kirche in Tisovec.",
+                  "text": "Die Evangelische Kirche (Evanjelický kostol a. v.) in Tisovec ist eine lutherische Kirche mit einem markanten Turm am Hauptplatz.",
                   "category": "religious",
                   "coords": [
                         19.942242,
@@ -42769,7 +43183,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             },
             {
                   "name": "Lesný skanzen Tisovec",
-                  "text": "Erdészeti skanzen Tisovecben.",
+                  "text": "Szabadtéri múzeum gerendaházakkal és erdei kézművességgel Tisovecen.",
                   "category": "family",
                   "coords": [
                         19.931727,
@@ -42778,7 +43192,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             },
             {
                   "name": "Evanjelický kostol a. v.",
-                  "text": "Evangélikus templom Tisovecben.",
+                  "text": "Az evangélikus templom (Evanjelický kostol a. v.) Tisovecen egy lutheránus templom jellegzetes toronnyal a főtéren.",
                   "category": "religious",
                   "coords": [
                         19.942242,
@@ -42816,7 +43230,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             },
             {
                   "name": "Lesný skanzen Tisovec",
-                  "text": "Un muzeu forestier în aer liber în Tisovec.",
+                  "text": "Un muzeu în aer liber cu cabane din bușteni și meșteșuguri forestiere în Tisovec.",
                   "category": "family",
                   "coords": [
                         19.931727,
@@ -42825,7 +43239,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             },
             {
                   "name": "Evanjelický kostol a. v.",
-                  "text": "O biserică evanghelică în Tisovec.",
+                  "text": "Biserica evanghelică (Evanjelický kostol a. v.) din Tisovec este o biserică luterană cu un turn distinctiv în piața principală.",
                   "category": "religious",
                   "coords": [
                         19.942242,
@@ -42863,7 +43277,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             },
             {
                   "name": "Lesný skanzen Tisovec",
-                  "text": "A forestry open-air museum in Tisovec.",
+                  "text": "An open-air museum with log cabins and forest crafts in Tisovec.",
                   "category": "family",
                   "coords": [
                         19.931727,
@@ -42872,7 +43286,7 @@ imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
             },
             {
                   "name": "Evanjelický kostol a. v.",
-                  "text": "An Evangelical church in Tisovec.",
+                  "text": "The Evangelical Church (Evanjelický kostol a. v.) in Tisovec is a Lutheran church with a distinctive tower on the main square.",
                   "category": "religious",
                   "coords": [
                         19.942242,
@@ -42976,7 +43390,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
       "de": [
             {
                   "name": "Kostol sv. Margity Antiochijskej",
-                  "text": "Die Kirche der Heiligen Margareta von Antiochia befindet sich in Gabčíkovo.",
+                  "text": "Die Kirche der heiligen Margareta von Antiochia (Kostol sv. Margity Antiochijskej) in Gabčíkovo ist eine moderne Kirche mit auffälligem Turm, erbaut nach dem Gabčíkovo-Staudamm.",
                   "category": "religious",
                   "coords": [
                         17.575707,
@@ -42987,7 +43401,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
       "hu": [
             {
                   "name": "Antióchiai Szent Margit-templom",
-                  "text": "A Szent Margit-templom Gabčíkovóban található.",
+                  "text": "A Szent Margit-templom (Kostol sv. Margity Antiochijskej) Gabcikovóban egy modern templom feltűnő toronnyal, a bősi vízerőmű után épült.",
                   "category": "religious",
                   "coords": [
                         17.575707,
@@ -42998,7 +43412,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
       "ro": [
             {
                   "name": "Kostol sv. Margity Antiochijskej",
-                  "text": "Biserica Sfânta Margareta din Antiohia se află în Gabčíkovo.",
+                  "text": "Biserica Sfintei Margareta a Antiohiei (Kostol sv. Margity Antiochijskej) din Gabcikovo este o biserică modernă cu un turn impresionant, construită după barajul Gabčíkovo.",
                   "category": "religious",
                   "coords": [
                         17.575707,
@@ -43009,7 +43423,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
       "en": [
             {
                   "name": "Kostol sv. Margity Antiochijskej",
-                  "text": "The Church of St. Margaret of Antioch is located in Gabčíkovo.",
+                  "text": "Kostol sv. Margity Antiochijskej is a modern church with a striking spire, built after the Gabčíkovo dam in Gabčíkovo.",
                   "category": "religious",
                   "coords": [
                         17.575707,
@@ -43068,7 +43482,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
       "de": [
             {
                   "name": "Vodný mlyn Kolárovo",
-                  "text": "Eine historische Wassermühle, die als Museum in Kolárovo dient.",
+                  "text": "Die Wassermühle von Kolárovo (Vodný mlyn Kolárovo) ist eine historische schwimmende Mühle auf der Waag, heute ein Mühlenmuseum.",
                   "category": "museum",
                   "coords": [
                         18.001701,
@@ -43077,7 +43491,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Mig-15",
-                  "text": "Ein ausgestelltes MiG-15 Flugzeug in Kolárovo.",
+                  "text": "Ein ausgestellter sowjetischer MiG-15-Düsenjäger in Kolarovo.",
                   "category": "landmark",
                   "coords": [
                         17.979883,
@@ -43088,7 +43502,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
       "hu": [
             {
                   "name": "Gútai Hajómalom",
-                  "text": "Múzeumként működő történelmi vízimalom Gútán.",
+                  "text": "A Kolárovoi vízimalom (Vodný mlyn Kolárovo) egy történelmi úszómalom a Vágon, ma malommúzeum.",
                   "category": "museum",
                   "coords": [
                         18.001701,
@@ -43097,7 +43511,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Mig-15",
-                  "text": "Kiállított MiG-15-ös repülőgép Gútán.",
+                  "text": "Egy kiállított szovjet MiG-15 sugárhajtású vadászgép Kolarovón.",
                   "category": "landmark",
                   "coords": [
                         17.979883,
@@ -43108,7 +43522,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
       "ro": [
             {
                   "name": "Vodný mlyn Kolárovo",
-                  "text": "O moară de apă istorică ce funcționează ca muzeu în Kolárovo.",
+                  "text": "Moara de apă Kolárovo (Vodný mlyn Kolárovo) este o moară plutitoare istorică pe râul Váh, acum muzeu al morăritului.",
                   "category": "museum",
                   "coords": [
                         18.001701,
@@ -43117,7 +43531,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Mig-15",
-                  "text": "O aeronavă MiG-15 expusă în Kolárovo.",
+                  "text": "Un avion de vânătoare sovietic MiG-15 expus în Kolarovo.",
                   "category": "landmark",
                   "coords": [
                         17.979883,
@@ -43128,7 +43542,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
       "en": [
             {
                   "name": "Vodný mlyn Kolárovo",
-                  "text": "A historic water mill serving as a museum in Kolárovo.",
+                  "text": "Vodný mlyn Kolárovo is a historic floating water mill on the Váh River, now a museum of milling.",
                   "category": "museum",
                   "coords": [
                         18.001701,
@@ -43137,7 +43551,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Mig-15",
-                  "text": "An exhibited MiG-15 aircraft in Kolárovo.",
+                  "text": "A Soviet MiG-15 jet fighter displayed as a monument in Kolarovo.",
                   "category": "landmark",
                   "coords": [
                         17.979883,
@@ -43239,7 +43653,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Chrám sv. Michala, archanjela",
-                  "text": "Ein griechisch-katholischer Sakralbau in Medzilaborce.",
+                  "text": "Die griechisch-katholische Holzkirche des heiligen Erzengels Michael (Chrám sv. Michala, archanjela) in Medzilaborce stammt aus dem 18. Jahrhundert mit einem dreistufigen Turm.",
                   "category": "religious",
                   "coords": [
                         21.890664,
@@ -43295,7 +43709,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Chrám sv. Michala, archanjela",
-                  "text": "Görögkatolikus egyházi épület Mezőlaborcon.",
+                  "text": "A Szent Mihály arkangyal görögkatolikus fatemplom (Chrám sv. Michala, archanjela) Medzilaborcen egy 18. századi fatemplom háromszintes toronnyal.",
                   "category": "religious",
                   "coords": [
                         21.890664,
@@ -43351,7 +43765,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Chrám sv. Michala, archanjela",
-                  "text": "Un lăcaș de cult greco-catolic din Medzilaborce.",
+                  "text": "Biserica de lemn greco-catolică a Sfântului Arhanghel Mihail (Chrám sv. Michala, archanjela) din Medzilaborce este o biserică de lemn din secolul al XVIII-lea cu un turn cu trei niveluri.",
                   "category": "religious",
                   "coords": [
                         21.890664,
@@ -43407,7 +43821,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Chrám sv. Michala, archanjela",
-                  "text": "A Greek Catholic religious building in Medzilaborce.",
+                  "text": "The Greek Catholic wooden church of St. Michael the Archangel (Chrám sv. Michala, archanjela) in Medzilaborce is an 18th-century wooden church with a three-tiered spire.",
                   "category": "religious",
                   "coords": [
                         21.890664,
@@ -43473,7 +43887,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Vodná veža",
-                  "text": "Ein lokaler Wasserturm, der als markantes Wahrzeichen dient.",
+                  "text": "Ein Wasserturm aus dem 19. Jahrhundert im Kurort Veľký Meder.",
                   "category": "landmark",
                   "coords": [
                         17.760985,
@@ -43491,7 +43905,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Taliansky bazén",
-                  "text": "Ein Schwimmbecken in Veľký Meder für sommerliche Erfrischung.",
+                  "text": "Ein Außenbecken mit Thermalwasser im italienischen Stil in Veľký Meder.",
                   "category": "family",
                   "coords": [
                         17.759364,
@@ -43511,7 +43925,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Vodná veža",
-                  "text": "Helyi víztorony, amely jellegzetes építmény Nagymegyeren.",
+                  "text": "19. századi víztorony a fürdővárosban, Veľký Mederben.",
                   "category": "landmark",
                   "coords": [
                         17.760985,
@@ -43529,7 +43943,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Taliansky bazén",
-                  "text": "Úszómedence Nagymegyeren a nyári felfrissüléshez.",
+                  "text": "Olasz stílusú szabadtéri termálmedence Veľký Mederben.",
                   "category": "family",
                   "coords": [
                         17.759364,
@@ -43549,7 +43963,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Vodná veža",
-                  "text": "Un turn de apă local ce servește ca punct de reper.",
+                  "text": "Un turn de apă din secolul al XIX-lea în stațiunea balneară Veľký Meder.",
                   "category": "landmark",
                   "coords": [
                         17.760985,
@@ -43567,7 +43981,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Taliansky bazén",
-                  "text": "O piscină în Veľký Meder pentru răcorire estivală.",
+                  "text": "Un bazin termal în aer liber în stil italian în Veľký Meder.",
                   "category": "family",
                   "coords": [
                         17.759364,
@@ -43587,7 +44001,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Water tower",
-                  "text": "A local water tower serving as a notable landmark.",
+                  "text": "A 19th-century water tower in the spa town of Veľký Meder.",
                   "category": "landmark",
                   "coords": [
                         17.760985,
@@ -43605,7 +44019,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Taliansky bazén",
-                  "text": "A swimming pool in Veľký Meder for summer refreshment.",
+                  "text": "An outdoor thermal pool styled after Italian spa architecture in Veľký Meder.",
                   "category": "family",
                   "coords": [
                         17.759364,
@@ -43950,7 +44364,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Feračová",
-                  "text": "Ein Gipfel im Gebirge Oravská Magura bei Hruštín.",
+                  "text": "Feračová ist ein bewaldeter Hügel mit Aussicht auf das Tal von Hruštín.",
                   "category": "landmark",
                   "coords": [
                         19.272576,
@@ -43968,7 +44382,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Príslopec",
-                  "text": "Ein Gipfel in der Region Orava bei Hruštín.",
+                  "text": "Der Príslopec ist ein Gebirgspass an der Grenze des Schutzgebiets mit Wanderwegen.",
                   "category": "landmark",
                   "coords": [
                         19.241386,
@@ -43995,7 +44409,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Výhliadka Podurviská",
-                  "text": "Ein Aussichtspunkt mit Panoramablick in der Nähe von Hruštín.",
+                  "text": "Ein Aussichtspunkt mit Blick auf das Turiec-Tal bei Hruštín.",
                   "category": "natural",
                   "coords": [
                         19.245338,
@@ -44024,7 +44438,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Feračová",
-                  "text": "Hegycsúcs az Árvai-Magura hegységben, Hrustin közelében.",
+                  "text": "A Feračová egy erdős domb, kilátással a Hrustin-völgyre.",
                   "category": "landmark",
                   "coords": [
                         19.272576,
@@ -44042,7 +44456,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Príslopec",
-                  "text": "Hegycsúcs az árvai régióban, Hrustin közelében.",
+                  "text": "A Príslopec egy hegyi hágó a védett terület határán, túraútvonalakkal.",
                   "category": "landmark",
                   "coords": [
                         19.241386,
@@ -44069,7 +44483,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Výhliadka Podurviská",
-                  "text": "Panorámás kilátópont Hrustin közelében.",
+                  "text": "Kilátópont a Turiec-völgyre Hruštín mellett.",
                   "category": "natural",
                   "coords": [
                         19.245338,
@@ -44098,7 +44512,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Feračová",
-                  "text": "Un vârf în munții Magura Oravei, lângă Hruštín.",
+                  "text": "Feračová este un deal împădurit cu vedere asupra văii Hrustin.",
                   "category": "landmark",
                   "coords": [
                         19.272576,
@@ -44116,7 +44530,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Príslopec",
-                  "text": "Un vârf muntos din regiunea Orava, situat lângă Hruštín.",
+                  "text": "Príslopec este o trecătoare montană la limita ariei protejate, cu trasee de drumeție.",
                   "category": "landmark",
                   "coords": [
                         19.241386,
@@ -44143,7 +44557,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Výhliadka Podurviská",
-                  "text": "Un punct de observație cu vedere panoramică situat lângă Hruštín.",
+                  "text": "Un punct de belvedere cu vedere asupra văii Turiec lângă Hruštín.",
                   "category": "natural",
                   "coords": [
                         19.245338,
@@ -44172,7 +44586,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Feračová",
-                  "text": "A peak in the Oravská Magura mountains near Hruštín.",
+                  "text": "Feračová is a forested hilltop offering views of the Hruštín valley.",
                   "category": "landmark",
                   "coords": [
                         19.272576,
@@ -44190,7 +44604,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Príslopec",
-                  "text": "A mountain peak in the Orava region near Hruštín.",
+                  "text": "Príslopec is a mountain pass at the edge of the protected area, with hiking trails.",
                   "category": "landmark",
                   "coords": [
                         19.241386,
@@ -44217,7 +44631,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Výhliadka Podurviská",
-                  "text": "A viewpoint offering panoramic vistas near Hruštín.",
+                  "text": "A scenic viewpoint overlooking the Turiec Valley near Hruštín.",
                   "category": "natural",
                   "coords": [
                         19.245338,
@@ -44355,7 +44769,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Borova hora",
-                  "text": "Ein Aussichtsgipfel in der Nähe des Dorfes Kováčová.",
+                  "text": "Die Borova hora ist ein mit Kiefern bewaldeter Hügel mit einem Aussichtsturm bei Kováčová.",
                   "category": "landmark",
                   "coords": [
                         19.133257,
@@ -44474,7 +44888,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Borova hora",
-                  "text": "Kilátást nyújtó hegycsúcs Kovácsfalva közelében.",
+                  "text": "A Borova hora egy fenyves domb kilátótoronnyal Kováčová közelében.",
                   "category": "landmark",
                   "coords": [
                         19.133257,
@@ -44593,7 +45007,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Borova hora",
-                  "text": "Un vârf pitoresc situat lângă satul Kováčová.",
+                  "text": "Borova hora este un deal acoperit de pini cu un turn de observație lângă Kovacova.",
                   "category": "landmark",
                   "coords": [
                         19.133257,
@@ -44712,7 +45126,7 @@ imageHint: "Neo-Gothic church in Vráble town center",
             },
             {
                   "name": "Borova hora",
-                  "text": "A scenic peak located near the village of Kováčová.",
+                  "text": "Borova hora is a pine-covered hill with a lookout tower near Kováčová.",
                   "category": "landmark",
                   "coords": [
                         19.133257,

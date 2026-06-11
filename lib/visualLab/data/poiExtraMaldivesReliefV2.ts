@@ -47,7 +47,88 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "veligandu-beach-relief-v2",
+    id: "veligandu-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veligandu east",
+                  "text": "Der östliche Teil der Insel besticht durch eine schmale Sandbank, die weit in das kristallklare Wasser des Atolls ragt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.012829,
+                        4.288961
+                  ]
+            },
+            {
+                  "name": "Veligandhu",
+                  "text": "Dieser weiße Sandstrand erstreckt sich entlang einer schmalen Koralleninsel und ist von Kokospalmen gesäumt.",
+                  "category": "recreational",
+                  "coords": [
+                        73.011467,
+                        4.298315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veligandu east",
+                  "text": "A sziget keleti része egy keskeny homokpaddal büszkélkedhet, amely hosszan nyúlik az atoll kristálytiszta vizébe.",
+                  "category": "landmark",
+                  "coords": [
+                        73.012829,
+                        4.288961
+                  ]
+            },
+            {
+                  "name": "Veligandhu",
+                  "text": "Ez a fehér homokos strand egy keskeny korallsziget mentén húzódik, kókuszpálmákkal szegélyezve.",
+                  "category": "recreational",
+                  "coords": [
+                        73.011467,
+                        4.298315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veligandu east",
+                  "text": "Partea de est a insulei se mândrește cu un banc de nisip îngust care se întinde departe în apele cristaline ale atolului.",
+                  "category": "landmark",
+                  "coords": [
+                        73.012829,
+                        4.288961
+                  ]
+            },
+            {
+                  "name": "Veligandhu",
+                  "text": "Această plajă cu nisip alb se întinde de-a lungul unei insule înguste de corali și este mărginită de cocotieri.",
+                  "category": "recreational",
+                  "coords": [
+                        73.011467,
+                        4.298315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veligandu east",
+                  "text": "The eastern part of the island features a narrow sandbank extending far into the crystal-clear waters of the atoll.",
+                  "category": "landmark",
+                  "coords": [
+                        73.012829,
+                        4.288961
+                  ]
+            },
+            {
+                  "name": "Veligandhu",
+                  "text": "This white sandy beach stretches along a narrow coral island and is fringed with coconut palms.",
+                  "category": "recreational",
+                  "coords": [
+                        73.011467,
+                        4.298315
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-00",
     coords: [73.011, 4.298],
@@ -91,7 +172,232 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "dhigurah-beach-relief-v2",
+    id: "dhigurah-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hudhu Thila",
+                  "text": "Hudhu Thila ist eine bekannte natürliche Attraktion in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.940986,
+                        3.569758
+                  ]
+            },
+            {
+                  "name": "Broken rock",
+                  "text": "Broken rock ist eine bemerkenswerte Attraktion in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936905,
+                        3.55615
+                  ]
+            },
+            {
+                  "name": "Dhigurah Arches",
+                  "text": "Dhigurah Arches ist eine landschaftlich reizvolle Attraktion in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.915094,
+                        3.540018
+                  ]
+            },
+            {
+                  "name": "Kuda Rah thila",
+                  "text": "Kuda Rah thila ist ein beliebter Anziehungspunkt für Besucher in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.923045,
+                        3.558801
+                  ]
+            },
+            {
+                  "name": "Tourist beach",
+                  "text": "Tourist beach bietet einen speziellen Sandstrand für Besucher in dhigurah-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        72.925036,
+                        3.530206
+                  ]
+            },
+            {
+                  "name": "Main Mosque",
+                  "text": "Die Main Mosque ist ein wichtiges islamisches Gotteshaus in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.930418,
+                        3.538023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hudhu Thila",
+                  "text": "A Hudhu Thila egy ismert természeti látványosság dhigurah-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.940986,
+                        3.569758
+                  ]
+            },
+            {
+                  "name": "Broken rock",
+                  "text": "A Broken rock egy figyelemre méltó látványosság dhigurah-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936905,
+                        3.55615
+                  ]
+            },
+            {
+                  "name": "Dhigurah Arches",
+                  "text": "A Dhigurah Arches egy festői látványosság dhigurah-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        72.915094,
+                        3.540018
+                  ]
+            },
+            {
+                  "name": "Kuda Rah thila",
+                  "text": "A Kuda Rah thila egy népszerű látnivaló a látogatók számára dhigurah-beach-relief-v2 régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.923045,
+                        3.558801
+                  ]
+            },
+            {
+                  "name": "Tourist beach",
+                  "text": "A Tourist beach egy kijelölt homokos partszakaszt kínál a látogatóknak dhigurah-beach-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        72.925036,
+                        3.530206
+                  ]
+            },
+            {
+                  "name": "Main Mosque",
+                  "text": "A Main Mosque egy fontos iszlám istentiszteleti hely dhigurah-beach-relief-v2 régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.930418,
+                        3.538023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hudhu Thila",
+                  "text": "Hudhu Thila este o atracție naturală recunoscută în dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.940986,
+                        3.569758
+                  ]
+            },
+            {
+                  "name": "Broken rock",
+                  "text": "Broken rock este o atracție notabilă aflată în dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936905,
+                        3.55615
+                  ]
+            },
+            {
+                  "name": "Dhigurah Arches",
+                  "text": "Dhigurah Arches este o atracție pitorească situată în dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.915094,
+                        3.540018
+                  ]
+            },
+            {
+                  "name": "Kuda Rah thila",
+                  "text": "Kuda Rah thila este un punct de atracție popular pentru vizitatori în dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.923045,
+                        3.558801
+                  ]
+            },
+            {
+                  "name": "Tourist beach",
+                  "text": "Tourist beach oferă o zonă de plajă special amenajată pentru vizitatorii din dhigurah-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        72.925036,
+                        3.530206
+                  ]
+            },
+            {
+                  "name": "Main Mosque",
+                  "text": "Main Mosque este un important lăcaș de cult islamic din dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.930418,
+                        3.538023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hudhu Thila",
+                  "text": "Hudhu Thila is a recognized natural attraction in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.940986,
+                        3.569758
+                  ]
+            },
+            {
+                  "name": "Broken rock",
+                  "text": "Broken rock is a notable attraction located in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.936905,
+                        3.55615
+                  ]
+            },
+            {
+                  "name": "Dhigurah Arches",
+                  "text": "Dhigurah Arches is a scenic attraction situated in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.915094,
+                        3.540018
+                  ]
+            },
+            {
+                  "name": "Kuda Rah thila",
+                  "text": "Kuda Rah thila is a popular point of interest for visitors in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.923045,
+                        3.558801
+                  ]
+            },
+            {
+                  "name": "Tourist beach",
+                  "text": "Tourist beach provides a dedicated sandy shoreline for visitors in dhigurah-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        72.925036,
+                        3.530206
+                  ]
+            },
+            {
+                  "name": "Main Mosque",
+                  "text": "The Main Mosque is an important Islamic place of worship in dhigurah-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.930418,
+                        3.538023
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-02",
     coords: [72.928, 3.533],
@@ -135,7 +441,88 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "fulhadhoo-beach-relief-v2",
+    id: "fulhadhoo-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "Ein malerischer Strandabschnitt auf Fulhadhoo mit feinem weißen Sand und klarem Lagunenwasser.",
+                  "category": "natural",
+                  "coords": [
+                        72.957913,
+                        4.884546
+                  ]
+            },
+            {
+                  "name": "Sandbank view and awesome place for pictures",
+                  "text": "Ein Panorama-Punkt mit Blick auf die wandernden Sandbänke inmitten der türkisfarbenen See.",
+                  "category": "natural",
+                  "coords": [
+                        72.923554,
+                        4.884354
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "Gleccserfehér homokos tengerparti szakasz Fulhadhoo-n, kristálytiszta lagúnavízzel.",
+                  "category": "natural",
+                  "coords": [
+                        72.957913,
+                        4.884546
+                  ]
+            },
+            {
+                  "name": "Sandbank view and awesome place for pictures",
+                  "text": "Panorámás kilátóhely, ahonnan rálátni a türkizkék tenger közepén elhelyezkedő vándorló homokpadokra.",
+                  "category": "natural",
+                  "coords": [
+                        72.923554,
+                        4.884354
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "O porțiune pitorească de plajă pe Fulhadhoo, cu nisip alb fin și ape clare de lagună.",
+                  "category": "natural",
+                  "coords": [
+                        72.957913,
+                        4.884546
+                  ]
+            },
+            {
+                  "name": "Sandbank view and awesome place for pictures",
+                  "text": "Un punct panoramic cu vedere spre bancurile de nisip schimbătoare din mijlocul mării turcoaz.",
+                  "category": "natural",
+                  "coords": [
+                        72.923554,
+                        4.884354
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bikini Beach",
+                  "text": "A picturesque stretch of beach on Fulhadhoo featuring fine white sand and clear lagoon waters.",
+                  "category": "natural",
+                  "coords": [
+                        72.957913,
+                        4.884546
+                  ]
+            },
+            {
+                  "name": "Sandbank view and awesome place for pictures",
+                  "text": "A panoramic viewpoint overlooking the shifting sandbanks in the middle of the turquoise sea.",
+                  "category": "natural",
+                  "coords": [
+                        72.923554,
+                        4.884354
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-20",
     coords: [72.936, 4.883],
@@ -267,7 +654,124 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "cocoa-island-beach-relief-v2",
+    id: "cocoa-island-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "Biyadoo Kuda Giri ist eine bekannte Sehenswürdigkeit in cocoa-island-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch ist eine Attraktion in cocoa-island-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "Coral snorkling ist eine Attraktion in cocoa-island-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933071
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "A Biyadoo Kuda Giri egy látványosság a cocoa-island-beach-relief-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "A Sandbank lunch egy látványosság a cocoa-island-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "A Coral snorkling egy látványosság a cocoa-island-beach-relief-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933071
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "Biyadoo Kuda Giri este o atracție din cocoa-island-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch este o atracție în cocoa-island-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "Coral snorkling este o atracție în cocoa-island-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933071
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "Biyadoo Kuda Giri is an attraction in cocoa-island-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch is an attraction in cocoa-island-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "Coral snorkling is an attraction in cocoa-island-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933071
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-26",
     coords: [73.468, 3.917],
@@ -311,7 +815,160 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "lily-beach-relief-v2",
+    id: "lily-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vilamendhoo Housereef",
+                  "text": "Vilamendhoo Housereef ist eine atemberaubende Tauch- und Schnorchelattraktion in lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.957198,
+                        3.635281
+                  ]
+            },
+            {
+                  "name": "? thila",
+                  "text": "Das lokale Thila ist eine Unterwasserriff-Attraktion, die bei Tauchern in lily-beach-relief-v2 beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.814639,
+                        3.608861
+                  ]
+            },
+            {
+                  "name": "Kudhi Maa Wreck",
+                  "text": "Das Kudhi Maa Wrack ist ein beliebter Schiffswrack-Tauchplatz und eine Attraktion in lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.882741,
+                        3.590797
+                  ]
+            },
+            {
+                  "name": "Sandbank",
+                  "text": "Die Sandbank ist eine malerische Sandattraktion, die von den Gewässern von lily-beach-relief-v2 umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.868377,
+                        3.573002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vilamendhoo Housereef",
+                  "text": "A Vilamendhoo Housereef egy lenyűgöző búvár- és sznorkelező látványosság a lily-beach-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        72.957198,
+                        3.635281
+                  ]
+            },
+            {
+                  "name": "? thila",
+                  "text": "A helyi thila egy víz alatti zátonylátványosság, amelyet a búvárok kedvelnek a lily-beach-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        72.814639,
+                        3.608861
+                  ]
+            },
+            {
+                  "name": "Kudhi Maa Wreck",
+                  "text": "A Kudhi Maa Wreck egy népszerű hajóroncsos merülőhely és látványosság a lily-beach-relief-v2 területen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.882741,
+                        3.590797
+                  ]
+            },
+            {
+                  "name": "Sandbank",
+                  "text": "A Sandbank egy festői homokos látványosság, amelyet víz vesz körül a lily-beach-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        72.868377,
+                        3.573002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vilamendhoo Housereef",
+                  "text": "Vilamendhoo Housereef este o atracție uimitoare de scufundări și snorkeling din lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.957198,
+                        3.635281
+                  ]
+            },
+            {
+                  "name": "? thila",
+                  "text": "Thila locală este o atracție a recifului subacvatic, favorizată de scafandrii din lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.814639,
+                        3.608861
+                  ]
+            },
+            {
+                  "name": "Kudhi Maa Wreck",
+                  "text": "Kudhi Maa Wreck este un loc popular de scufundări la epave și o atracție situată în lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.882741,
+                        3.590797
+                  ]
+            },
+            {
+                  "name": "Sandbank",
+                  "text": "Sandbank este o atracție de nisip pitorească, înconjurată de ape în lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.868377,
+                        3.573002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vilamendhoo Housereef",
+                  "text": "Vilamendhoo Housereef is a stunning diving and snorkeling attraction in lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.957198,
+                        3.635281
+                  ]
+            },
+            {
+                  "name": "? thila",
+                  "text": "The local thila is an underwater reef attraction favored by divers in lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.814639,
+                        3.608861
+                  ]
+            },
+            {
+                  "name": "Kudhi Maa Wreck",
+                  "text": "Kudhi Maa Wreck is a popular shipwreck dive site and attraction located in lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.882741,
+                        3.590797
+                  ]
+            },
+            {
+                  "name": "Sandbank",
+                  "text": "Sandbank is a picturesque sandy attraction surrounded by waters in lily-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        72.868377,
+                        3.573002
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-02",
     coords: [72.868, 3.633],
@@ -355,7 +1012,52 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "vabbinfaru-beach-relief-v2",
+    id: "vabbinfaru-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque of the Thulhagiri Island Resort",
+                  "text": "Die Moschee des Thulhagiri Island Resort bietet einen ruhigen, palmenbeschatteten Raum für muslimische Angestellte und Gäste, um direkt am Strand zu beten.",
+                  "category": "religious",
+                  "coords": [
+                        73.487697,
+                        4.31164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque of the Thulhagiri Island Resort",
+                  "text": "A Thulhagiri Island Resort mecsete nyugodt, pálmafákkal árnyékolt teret biztosít a muszlim személyzet és a vendégek számára, hogy közvetlenül a tengerparton imádkozhassanak.",
+                  "category": "religious",
+                  "coords": [
+                        73.487697,
+                        4.31164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque of the Thulhagiri Island Resort",
+                  "text": "Moscheea din Thulhagiri Island Resort oferă un spațiu liniștit, umbrit de palmieri, unde personalul și oaspeții musulmani se pot ruga chiar lângă plajă.",
+                  "category": "religious",
+                  "coords": [
+                        73.487697,
+                        4.31164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque of the Thulhagiri Island Resort",
+                  "text": "The Mosque of the Thulhagiri Island Resort provides a tranquil, palm-shaded space for Muslim staff and guests to pray right by the beach.",
+                  "category": "religious",
+                  "coords": [
+                        73.487697,
+                        4.31164
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-26",
     coords: [73.424, 4.308],
@@ -399,7 +1101,268 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "soneva-fushi-beach-relief-v2",
+    id: "soneva-fushi-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "Das Polla Aquarium ist ein lokales Schauaquarium in soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Turtle Beach ist ein Küstenabschnitt in soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072559,
+                        5.11608
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dolphin Beach ist ein malerischer Sandstrand in soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083346,
+                        5.109395
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Yoosuf",
+                  "text": "Masjid Al-Yoosuf ist ein islamisches Gotteshaus in soneva-fushi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.072298,
+                        5.103364
+                  ]
+            },
+            {
+                  "name": "Masjid Mohamed Ali",
+                  "text": "Masjid Mohamed Ali dient als Moschee für die Gemeinde in soneva-fushi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.069878,
+                        5.101889
+                  ]
+            },
+            {
+                  "name": "Bodu Miskiyy",
+                  "text": "Bodu Miskiyy ist eine Moschee in der Gegend von soneva-fushi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070039,
+                        5.104177
+                  ]
+            },
+            {
+                  "name": "Spa",
+                  "text": "Dieses Spa bietet Wellness- und Entspannungsdienste in soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.074682,
+                        5.113456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "A Polla Aquarium egy helyi akvárium soneva-fushi-beach-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "A Turtle Beach egy tengerparti szakasz soneva-fushi-beach-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072559,
+                        5.11608
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "A Dolphin Beach egy festői homokos part soneva-fushi-beach-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083346,
+                        5.109395
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Yoosuf",
+                  "text": "A Masjid Al-Yoosuf egy iszlám istentiszteleti hely soneva-fushi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.072298,
+                        5.103364
+                  ]
+            },
+            {
+                  "name": "Masjid Mohamed Ali",
+                  "text": "A Masjid Mohamed Ali mecsetként szolgál a közösség számára soneva-fushi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.069878,
+                        5.101889
+                  ]
+            },
+            {
+                  "name": "Bodu Miskiyy",
+                  "text": "A Bodu Miskiyy egy mecset, amely soneva-fushi-beach-relief-v2 területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070039,
+                        5.104177
+                  ]
+            },
+            {
+                  "name": "Spa",
+                  "text": "Ez a fürdő és wellness központ relaxációs szolgáltatásokat nyújt soneva-fushi-beach-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.074682,
+                        5.113456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "Polla Aquarium este o facilitate acvatică locală din soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Turtle Beach este o zonă de coastă în soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072559,
+                        5.11608
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dolphin Beach este o plajă pitorească cu nisip din soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083346,
+                        5.109395
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Yoosuf",
+                  "text": "Masjid Al-Yoosuf este un lăcaș de cult islamic situat în soneva-fushi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.072298,
+                        5.103364
+                  ]
+            },
+            {
+                  "name": "Masjid Mohamed Ali",
+                  "text": "Masjid Mohamed Ali servește ca moschee pentru comunitatea din soneva-fushi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.069878,
+                        5.101889
+                  ]
+            },
+            {
+                  "name": "Bodu Miskiyy",
+                  "text": "Bodu Miskiyy este o moschee situată în zona soneva-fushi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070039,
+                        5.104177
+                  ]
+            },
+            {
+                  "name": "Spa",
+                  "text": "Acest spa oferă servicii de wellness și relaxare în soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.074682,
+                        5.113456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "Polla Aquarium is a local aquatic facility located in soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Turtle Beach is a coastal stretch in soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072559,
+                        5.11608
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dolphin Beach is a scenic sandy shoreline in soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083346,
+                        5.109395
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Yoosuf",
+                  "text": "Masjid Al-Yoosuf is an Islamic place of worship situated in soneva-fushi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.072298,
+                        5.103364
+                  ]
+            },
+            {
+                  "name": "Masjid Mohamed Ali",
+                  "text": "Masjid Mohamed Ali serves as a mosque for the community in soneva-fushi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.069878,
+                        5.101889
+                  ]
+            },
+            {
+                  "name": "Bodu Miskiyy",
+                  "text": "Bodu Miskiyy is a mosque located in the area of soneva-fushi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.070039,
+                        5.104177
+                  ]
+            },
+            {
+                  "name": "Spa",
+                  "text": "This spa provides wellness and relaxation services in soneva-fushi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.074682,
+                        5.113456
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-20",
     coords: [73.078, 5.111],
@@ -443,7 +1406,124 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "nika-island-beach-relief-v2",
+    id: "nika-island-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mathiveri Uthuru Kandu",
+                  "text": "Ein markanter Leuchtturm, der die Einfahrt zum nördlichen Kanal bei Mathiveri signalisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.738098,
+                        4.216237
+                  ]
+            },
+            {
+                  "name": "Gangehi Kandu",
+                  "text": "Ein tiefer Meereskanal bei Gangehi, der für seine reiche Fischvielfalt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.736411,
+                        4.217959
+                  ]
+            },
+            {
+                  "name": "Gangehi North Kandu - manta cleaning station",
+                  "text": "Ein spezialisierter Tauchplatz, an dem Mantarochen regelmäßig zur Reinigung ihrer Haut zusammenkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.781227,
+                        4.281472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mathiveri Uthuru Kandu",
+                  "text": "Mathiveri közelében található világítótorony, amely az északi csatorna bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        72.738098,
+                        4.216237
+                  ]
+            },
+            {
+                  "name": "Gangehi Kandu",
+                  "text": "Gangehi közelében fekvő mélytengeri csatorna, amely gazdag élővilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.736411,
+                        4.217959
+                  ]
+            },
+            {
+                  "name": "Gangehi North Kandu - manta cleaning station",
+                  "text": "Különleges merülőhely, ahol az ördögráják rendszeresen összegyűlnek tisztálkodni.",
+                  "category": "landmark",
+                  "coords": [
+                        72.781227,
+                        4.281472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mathiveri Uthuru Kandu",
+                  "text": "Un far proeminent care semnalizează intrarea în canalul de nord lângă Mathiveri.",
+                  "category": "landmark",
+                  "coords": [
+                        72.738098,
+                        4.216237
+                  ]
+            },
+            {
+                  "name": "Gangehi Kandu",
+                  "text": "Un canal marin adânc lângă Gangehi, cunoscut pentru diversitatea sa biologică.",
+                  "category": "landmark",
+                  "coords": [
+                        72.736411,
+                        4.217959
+                  ]
+            },
+            {
+                  "name": "Gangehi North Kandu - manta cleaning station",
+                  "text": "Un loc de scufundări specializat unde diavolii de mare se adună regulat pentru curățare.",
+                  "category": "landmark",
+                  "coords": [
+                        72.781227,
+                        4.281472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mathiveri Uthuru Kandu",
+                  "text": "A prominent lighthouse marking the entrance to the northern channel near Mathiveri.",
+                  "category": "landmark",
+                  "coords": [
+                        72.738098,
+                        4.216237
+                  ]
+            },
+            {
+                  "name": "Gangehi Kandu",
+                  "text": "A deep marine channel near Gangehi known for its rich variety of fish species.",
+                  "category": "landmark",
+                  "coords": [
+                        72.736411,
+                        4.217959
+                  ]
+            },
+            {
+                  "name": "Gangehi North Kandu - manta cleaning station",
+                  "text": "A specialized diving site where manta rays regularly congregate at cleaning stations.",
+                  "category": "landmark",
+                  "coords": [
+                        72.781227,
+                        4.281472
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-00",
     coords: [72.766, 4.276],
@@ -531,7 +1611,124 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "thoddoo-beach-relief-v2",
+    id: "thoddoo-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunrise Beach",
+                  "text": "Der Sunrise Beach auf Thoddoo ist ein idyllischer Sandstrand, der nach Osten ausgerichtet ist und atemberaubende Sonnenaufgänge bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        72.961964,
+                        4.442718
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "Die Old Mosque auf Thoddoo ist eine historische islamische Kultstätte mit traditioneller Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        72.959385,
+                        4.435502
+                  ]
+            },
+            {
+                  "name": "Ihuru Baazaar",
+                  "text": "Der Ihuru Baazaar ist ein lokaler Marktplatz auf Thoddoo, auf dem frische Inselprodukte und Waren des täglichen Bedarfs gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        72.959191,
+                        4.437416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunrise Beach",
+                  "text": "A Thoddoo szigetén található Sunrise Beach egy idilli, keletre néző homokos tengerpart, amely lenyűgöző napfelkeltéket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        72.961964,
+                        4.442718
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "A thoddooi Old Mosque egy történelmi iszlám imahely, amely hagyományos építészeti elemekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        72.959385,
+                        4.435502
+                  ]
+            },
+            {
+                  "name": "Ihuru Baazaar",
+                  "text": "Az Ihuru Baazaar egy helyi piac Thoddoo szigetén, ahol friss szigeti termékeket és mindennapi árukat cserélnek.",
+                  "category": "cultural",
+                  "coords": [
+                        72.959191,
+                        4.437416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunrise Beach",
+                  "text": "Sunrise Beach de pe Thoddoo este o plajă idilică cu nisip, orientată spre est, care oferă răsărituri uimitoare.",
+                  "category": "recreational",
+                  "coords": [
+                        72.961964,
+                        4.442718
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "Old Mosque de pe Thoddoo este un lăcaș de cult islamic istoric, cu o arhitectură tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        72.959385,
+                        4.435502
+                  ]
+            },
+            {
+                  "name": "Ihuru Baazaar",
+                  "text": "Ihuru Baazaar este o piață locală de pe Thoddoo unde se comercializează produse proaspete din insulă și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        72.959191,
+                        4.437416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunrise Beach",
+                  "text": "Sunrise Beach on Thoddoo is an idyllic sandy shore facing east to offer stunning morning sunrises.",
+                  "category": "recreational",
+                  "coords": [
+                        72.961964,
+                        4.442718
+                  ]
+            },
+            {
+                  "name": "Old Mosque",
+                  "text": "The Old Mosque on Thoddoo is a historic Islamic place of worship featuring traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        72.959385,
+                        4.435502
+                  ]
+            },
+            {
+                  "name": "Ihuru Baazaar",
+                  "text": "The Ihuru Baazaar is a local marketplace on Thoddoo trading fresh island produce and daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        72.959191,
+                        4.437416
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-00",
     coords: [72.959, 4.436],
@@ -575,7 +1772,340 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "ukulhas-beach-relief-v2",
+    id: "ukulhas-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sharks and stingray feeding place",
+                  "text": "Eine flache Stelle am Riff, an der täglich Haie und Rochen zur Fütterung in die Nähe des Ufers kommen.",
+                  "category": "landmark",
+                  "coords": [
+                        72.866292,
+                        4.215845
+                  ]
+            },
+            {
+                  "name": "Turtle reef snorkeling place",
+                  "text": "Dieses lebhafte Korallenriff ist ein bekannter Lebensraum, in dem man beim Schnorcheln oft Meeresschildkröten begegnet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.867423,
+                        4.213459
+                  ]
+            },
+            {
+                  "name": "Turtle reef snorkelling place",
+                  "text": "Ein geschützter Bereich am Außenriff, der für seine hohe Dichte an nistenden und fressenden Meeresschildkröten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        72.863506,
+                        4.212962
+                  ]
+            },
+            {
+                  "name": "Snorkeling place/sand bottom chute",
+                  "text": "Ein natürlicher Unterwasserkanal mit sandigem Boden, der als Durchgang für viele bunte Rifffische dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.867155,
+                        4.210797
+                  ]
+            },
+            {
+                  "name": "Manta lagoon",
+                  "text": "Ein geschütztes Sandbecken in der Lagune, in dem sich Mantarochen zum Fressen und Putzen sammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        72.823714,
+                        4.167034
+                  ]
+            },
+            {
+                  "name": "Kudamiski'y",
+                  "text": "Diese historische Moschee wurde aus Korallensteinen errichtet und zeugt von der jahrhundertealten Baukunst der Insel.",
+                  "category": "religious",
+                  "coords": [
+                        72.863998,
+                        4.214776
+                  ]
+            },
+            {
+                  "name": "Ukulhas bikini beach",
+                  "text": "Ein langer, makelloser weißer Sandstrand auf Ukulhas, der speziell für internationale Urlauber reserviert ist.",
+                  "category": "recreational",
+                  "coords": [
+                        72.865386,
+                        4.212934
+                  ]
+            },
+            {
+                  "name": "Ukulhas Fushi",
+                  "text": "Eine kleine, unbewohnte Sandbank inmitten türkisfarbener Gewässer, ideal für einen einsamen Tagesausflug.",
+                  "category": "landmark",
+                  "coords": [
+                        72.883488,
+                        4.215567
+                  ]
+            },
+            {
+                  "name": "Masijdul Furuqan",
+                  "text": "Eine moderne Inselmoschee mit hellem Gebetsraum, die das religiöse Zentrum der lokalen Gemeinde von Ukulhas bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        72.864609,
+                        4.216151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sharks and stingray feeding place",
+                  "text": "Sekély hely a zátonynál, ahol naponta cápák és ráják úsznak a part közelébe etetésre.",
+                  "category": "landmark",
+                  "coords": [
+                        72.866292,
+                        4.215845
+                  ]
+            },
+            {
+                  "name": "Turtle reef snorkeling place",
+                  "text": "Ez a pezsgő korallzátony ismert élőhely, ahol sznorkelezés közben gyakran találkozhatunk tengeri teknősökkel.",
+                  "category": "landmark",
+                  "coords": [
+                        72.867423,
+                        4.213459
+                  ]
+            },
+            {
+                  "name": "Turtle reef snorkelling place",
+                  "text": "Védett terület a külső zátonynál, amely a fészkelő és táplálkozó tengeri teknősök sűrűségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        72.863506,
+                        4.212962
+                  ]
+            },
+            {
+                  "name": "Snorkeling place/sand bottom chute",
+                  "text": "Természetes vízalatti homokos csatorna, amely átjáróként szolgál számos színes zátonylakó hal számára.",
+                  "category": "landmark",
+                  "coords": [
+                        72.867155,
+                        4.210797
+                  ]
+            },
+            {
+                  "name": "Manta lagoon",
+                  "text": "Védett homokos medence a lagúnában, ahol manta ráják gyűlnek össze táplálkozni és tisztálkodni.",
+                  "category": "landmark",
+                  "coords": [
+                        72.823714,
+                        4.167034
+                  ]
+            },
+            {
+                  "name": "Kudamiski'y",
+                  "text": "Ez a történelmi mecset korallkőből épült, és a sziget évszázados építészeti művészetéről tanúskodik.",
+                  "category": "religious",
+                  "coords": [
+                        72.863998,
+                        4.214776
+                  ]
+            },
+            {
+                  "name": "Ukulhas bikini beach",
+                  "text": "Hosszú, érintetlen fehér homokos part Ukulhas szigetén, amely kifejezetten a külföldi turisták számára van fenntartva.",
+                  "category": "recreational",
+                  "coords": [
+                        72.865386,
+                        4.212934
+                  ]
+            },
+            {
+                  "name": "Ukulhas Fushi",
+                  "text": "Kicsi, lakatlan homokpad a türkizkék víz közepén, amely ideális egy magányos kiránduláshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        72.883488,
+                        4.215567
+                  ]
+            },
+            {
+                  "name": "Masijdul Furuqan",
+                  "text": "Modern szigeti mecset világos imateremmel, amely az ukulhasi helyi közösség vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        72.864609,
+                        4.216151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sharks and stingray feeding place",
+                  "text": "Un loc puțin adânc la recif unde rechinii și pisicile de mare vin zilnic aproape de mal pentru hrănire.",
+                  "category": "landmark",
+                  "coords": [
+                        72.866292,
+                        4.215845
+                  ]
+            },
+            {
+                  "name": "Turtle reef snorkeling place",
+                  "text": "Acest recif de corali vibrant este un habitat cunoscut unde pot fi văzute adesea țestoase marine în timpul snorkelingului.",
+                  "category": "landmark",
+                  "coords": [
+                        72.867423,
+                        4.213459
+                  ]
+            },
+            {
+                  "name": "Turtle reef snorkelling place",
+                  "text": "O zonă protejată la reciful exterior, cunoscută pentru densitatea mare de țestoase marine care cuibăresc și se hrănesc.",
+                  "category": "landmark",
+                  "coords": [
+                        72.863506,
+                        4.212962
+                  ]
+            },
+            {
+                  "name": "Snorkeling place/sand bottom chute",
+                  "text": "Un canal natural subacvatic cu fund nisipos, care servește drept pasaj pentru mulți pești de recif colorați.",
+                  "category": "landmark",
+                  "coords": [
+                        72.867155,
+                        4.210797
+                  ]
+            },
+            {
+                  "name": "Manta lagoon",
+                  "text": "Un bazin nisipos protejat în lagună, unde diavolii de mare se adună pentru a se hrăni și a se curăța.",
+                  "category": "landmark",
+                  "coords": [
+                        72.823714,
+                        4.167034
+                  ]
+            },
+            {
+                  "name": "Kudamiski'y",
+                  "text": "Această moschee istorică a fost construită din piatră de corali și atestă măiestria arhitecturală de secole a insulei.",
+                  "category": "religious",
+                  "coords": [
+                        72.863998,
+                        4.214776
+                  ]
+            },
+            {
+                  "name": "Ukulhas bikini beach",
+                  "text": "O plajă lungă cu nisip alb imaculat pe insula Ukulhas, rezervată special pentru turiștii internaționali.",
+                  "category": "recreational",
+                  "coords": [
+                        72.865386,
+                        4.212934
+                  ]
+            },
+            {
+                  "name": "Ukulhas Fushi",
+                  "text": "Un banc de nisip mic și nelocuit în mijlocul apelor turcoaz, ideal pentru o excursie de o zi în izolare.",
+                  "category": "landmark",
+                  "coords": [
+                        72.883488,
+                        4.215567
+                  ]
+            },
+            {
+                  "name": "Masijdul Furuqan",
+                  "text": "O moschee modernă cu o sală de rugăciune luminoasă, care formează centrul religios al comunității locale din Ukulhas.",
+                  "category": "landmark",
+                  "coords": [
+                        72.864609,
+                        4.216151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sharks and stingray feeding place",
+                  "text": "A shallow spot by the reef where sharks and rays come close to the shore for daily feeding.",
+                  "category": "landmark",
+                  "coords": [
+                        72.866292,
+                        4.215845
+                  ]
+            },
+            {
+                  "name": "Turtle reef snorkeling place",
+                  "text": "This vibrant coral reef is a known habitat where sea turtles are frequently encountered while snorkeling.",
+                  "category": "landmark",
+                  "coords": [
+                        72.867423,
+                        4.213459
+                  ]
+            },
+            {
+                  "name": "Turtle reef snorkelling place",
+                  "text": "A protected area at the outer reef known for its high density of nesting and feeding sea turtles.",
+                  "category": "landmark",
+                  "coords": [
+                        72.863506,
+                        4.212962
+                  ]
+            },
+            {
+                  "name": "Snorkeling place/sand bottom chute",
+                  "text": "A natural underwater sandy channel that serves as a passage for many colorful reef fish.",
+                  "category": "landmark",
+                  "coords": [
+                        72.867155,
+                        4.210797
+                  ]
+            },
+            {
+                  "name": "Manta lagoon",
+                  "text": "A protected sandy basin in the lagoon where manta rays congregate to feed and clean.",
+                  "category": "landmark",
+                  "coords": [
+                        72.823714,
+                        4.167034
+                  ]
+            },
+            {
+                  "name": "Kudamiski'y",
+                  "text": "This historical mosque was built from coral stones and bears witness to the island's centuries-old architectural craft.",
+                  "category": "religious",
+                  "coords": [
+                        72.863998,
+                        4.214776
+                  ]
+            },
+            {
+                  "name": "Ukulhas bikini beach",
+                  "text": "A long, pristine white sand beach on Ukulhas island specially reserved for international tourists.",
+                  "category": "recreational",
+                  "coords": [
+                        72.865386,
+                        4.212934
+                  ]
+            },
+            {
+                  "name": "Ukulhas Fushi",
+                  "text": "A small, uninhabited sandbank surrounded by turquoise waters, ideal for a secluded day trip.",
+                  "category": "landmark",
+                  "coords": [
+                        72.883488,
+                        4.215567
+                  ]
+            },
+            {
+                  "name": "Masijdul Furuqan",
+                  "text": "A modern island mosque with a bright prayer hall forming the religious center of the local Ukulhas community.",
+                  "category": "landmark",
+                  "coords": [
+                        72.864609,
+                        4.216151
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-00",
     coords: [72.864, 4.215],
@@ -619,7 +2149,52 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "omadhoo-beach-relief-v2",
+    id: "omadhoo-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Swing in water (insta place)",
+                  "text": "Eine dekorative Holzschaukel, die mitten im seichten, kristallklaren Wasser der Lagune steht und als beliebtes Fotomotiv dient.",
+                  "category": "landmark",
+                  "coords": [
+                        72.95775,
+                        3.792405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Swing in water (insta place)",
+                  "text": "Dekoratív fashinta a lagúna sekély, kristálytiszta vizében, amely népszerű fotózási helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        72.95775,
+                        3.792405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Swing in water (insta place)",
+                  "text": "Un leagăn decorativ de lemn situat în mijlocul apelor limpezi și puțin adânci ale lagunei, fiind un loc popular pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        72.95775,
+                        3.792405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Swing in water (insta place)",
+                  "text": "A decorative wooden swing standing in the middle of the shallow, crystal-clear lagoon water, serving as a popular photo spot.",
+                  "category": "landmark",
+                  "coords": [
+                        72.95775,
+                        3.792405
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-02",
     coords: [72.963, 3.848],
@@ -663,7 +2238,88 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "kuredu-beach-relief-v2",
+    id: "kuredu-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hurawalhi Island Resort",
+                  "text": "Das Hurawalhi Island Resort ist eine Urlaubsunterkunft an der Küste in kuredu-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.441489,
+                        5.521231
+                  ]
+            },
+            {
+                  "name": "Kudadoo Private Island",
+                  "text": "Kudadoo Private Island ist ein exklusives Strandresort in kuredu-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.43341,
+                        5.502906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hurawalhi Island Resort",
+                  "text": "A Hurawalhi Island Resort egy tengerparti nyaralóhely kuredu-beach-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.441489,
+                        5.521231
+                  ]
+            },
+            {
+                  "name": "Kudadoo Private Island",
+                  "text": "A Kudadoo Private Island egy exkluzív tengerparti üdülőhely kuredu-beach-relief-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.43341,
+                        5.502906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hurawalhi Island Resort",
+                  "text": "Hurawalhi Island Resort este o unitate de cazare de vacanță pe coastă în kuredu-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.441489,
+                        5.521231
+                  ]
+            },
+            {
+                  "name": "Kudadoo Private Island",
+                  "text": "Kudadoo Private Island este o destinație exclusivistă de stațiune pe plajă în kuredu-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.43341,
+                        5.502906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hurawalhi Island Resort",
+                  "text": "Hurawalhi Island Resort is a coastal holiday accommodation in kuredu-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.441489,
+                        5.521231
+                  ]
+            },
+            {
+                  "name": "Kudadoo Private Island",
+                  "text": "Kudadoo Private Island is an exclusive beach resort destination in kuredu-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.43341,
+                        5.502906
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-03",
     coords: [73.466, 5.549],
@@ -707,7 +2363,1420 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     },
   },
   {
-    id: "fihalhohi-beach-relief-v2",
+    id: "fihalhohi-beach-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Noomas Giri",
+                  "text": "Eine Sehenswürdigkeit in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.405111,
+                        3.900827
+                  ]
+            },
+            {
+                  "name": "Dong Giri",
+                  "text": "Eine bemerkenswerte Sehenswürdigkeit in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.379966,
+                        3.905787
+                  ]
+            },
+            {
+                  "name": "Lang Giri",
+                  "text": "Ein interessanter Ort in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.373553,
+                        3.907911
+                  ]
+            },
+            {
+                  "name": "Kahambu Giri",
+                  "text": "Eine lokale Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.373778,
+                        3.93752
+                  ]
+            },
+            {
+                  "name": "Vaageli Corner",
+                  "text": "Ein beliebter Ort in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355015,
+                        3.953898
+                  ]
+            },
+            {
+                  "name": "Vaageli Tila",
+                  "text": "Eine malerische Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.362322,
+                        3.94383
+                  ]
+            },
+            {
+                  "name": "Vaageli Bodu Faru",
+                  "text": "Ein sehenswerter Ort in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360447,
+                        3.938861
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Tila",
+                  "text": "Eine Sehenswürdigkeit in der Gegend von fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.354366,
+                        3.94373
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru",
+                  "text": "Eine prominente Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.356496,
+                        3.949542
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Nord",
+                  "text": "Ein interessanter Punkt in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.353367,
+                        3.950007
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Süd",
+                  "text": "Eine reizvolle Sehenswürdigkeit in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.353433,
+                        3.947749
+                  ]
+            },
+            {
+                  "name": "Rannalhi Faru",
+                  "text": "Ein lokaler Ort von Interesse in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.350636,
+                        3.902905
+                  ]
+            },
+            {
+                  "name": "Vaageli Outside",
+                  "text": "Eine Attraktion zum Erkunden in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.351202,
+                        3.923944
+                  ]
+            },
+            {
+                  "name": "Rannalhi Bodu Giri",
+                  "text": "Eine vielbesuchte Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360025,
+                        3.906723
+                  ]
+            },
+            {
+                  "name": "Vaageli Caves",
+                  "text": "Eine bemerkenswerte Höhlenattraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.351402,
+                        3.914468
+                  ]
+            },
+            {
+                  "name": "Kudarah",
+                  "text": "Ein interessanter Ort in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.420358,
+                        3.810294
+                  ]
+            },
+            {
+                  "name": "Dongmaas Giri",
+                  "text": "Eine Attraktion vor Ort in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.402269,
+                        3.903663
+                  ]
+            },
+            {
+                  "name": "Rannalhi Kuda Giri",
+                  "text": "Eine Attraktion für Besucher in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.36262,
+                        3.90236
+                  ]
+            },
+            {
+                  "name": "Alimas Faru",
+                  "text": "Ein Punkt von Interesse in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.361892,
+                        3.895935
+                  ]
+            },
+            {
+                  "name": "Jack Faru",
+                  "text": "Eine beliebte Sehenswürdigkeit in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355827,
+                        3.894228
+                  ]
+            },
+            {
+                  "name": "Ihi Reef",
+                  "text": "Ein Riff und eine Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355498,
+                        3.887852
+                  ]
+            },
+            {
+                  "name": "Ram Faru",
+                  "text": "Ein sehenswerter Ort in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.357402,
+                        3.883227
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Hausriff Nord",
+                  "text": "Das nördliche Hausriff, eine Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.367513,
+                        3.878562
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Hausriff",
+                  "text": "Das Haupt-Hausriff in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.368477,
+                        3.877139
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Paradies",
+                  "text": "Eine malerische Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.361518,
+                        3.877287
+                  ]
+            },
+            {
+                  "name": "Lhohi Faru Tila",
+                  "text": "Eine bemerkenswerte lokale Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360051,
+                        3.870622
+                  ]
+            },
+            {
+                  "name": "Ali Tila",
+                  "text": "Eine interessante Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.369075,
+                        3.867608
+                  ]
+            },
+            {
+                  "name": "Adam Faru",
+                  "text": "Ein interessanter Punkt in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.367845,
+                        3.863813
+                  ]
+            },
+            {
+                  "name": "Lhohi Kandu Tila",
+                  "text": "Ein besuchter Ort in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.363679,
+                        3.856683
+                  ]
+            },
+            {
+                  "name": "Lhohi Bodu Kandu",
+                  "text": "Eine Attraktion, die man in fihalhohi-beach-relief-v2 gesehen haben sollte.",
+                  "category": "landmark",
+                  "coords": [
+                        73.364956,
+                        3.848639
+                  ]
+            },
+            {
+                  "name": "Olhuveli Kuda Giri",
+                  "text": "Ein lokaler Ort von Interesse in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.396748,
+                        3.843378
+                  ]
+            },
+            {
+                  "name": "Lhohi Giri",
+                  "text": "Eine Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.37785,
+                        3.886977
+                  ]
+            },
+            {
+                  "name": "Ramfaru Tulu",
+                  "text": "Ein prominenter Ort in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.374581,
+                        3.890288
+                  ]
+            },
+            {
+                  "name": "Enderi Giri",
+                  "text": "Ein malerischer Ort in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.383658,
+                        3.882887
+                  ]
+            },
+            {
+                  "name": "Rihiveli",
+                  "text": "Eine Attraktion zum Entdecken in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.405026,
+                        3.820782
+                  ]
+            },
+            {
+                  "name": "Origandu Finolhu",
+                  "text": "Origandu Finolhu ist eine Sehenswürdigkeit in der Region fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.386212,
+                        3.807211
+                  ]
+            },
+            {
+                  "name": "Rihiveli Faru",
+                  "text": "Rihiveli Faru ist eine lokale Attraktion in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.387422,
+                        3.819211
+                  ]
+            },
+            {
+                  "name": "Coral Faru",
+                  "text": "Coral Faru ist ein Anziehungspunkt in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.37201,
+                        3.823702
+                  ]
+            },
+            {
+                  "name": "Sandbank",
+                  "text": "Sandbank ist ein Strand in fihalhohi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.376678,
+                        3.840518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Noomas Giri",
+                  "text": "Látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.405111,
+                        3.900827
+                  ]
+            },
+            {
+                  "name": "Dong Giri",
+                  "text": "Kiemelkedő látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.379966,
+                        3.905787
+                  ]
+            },
+            {
+                  "name": "Lang Giri",
+                  "text": "Érdekes hely fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.373553,
+                        3.907911
+                  ]
+            },
+            {
+                  "name": "Kahambu Giri",
+                  "text": "Helyi látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.373778,
+                        3.93752
+                  ]
+            },
+            {
+                  "name": "Vaageli Corner",
+                  "text": "Népszerű hely fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355015,
+                        3.953898
+                  ]
+            },
+            {
+                  "name": "Vaageli Tila",
+                  "text": "Festői látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.362322,
+                        3.94383
+                  ]
+            },
+            {
+                  "name": "Vaageli Bodu Faru",
+                  "text": "Látogatásra érdemes hely fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360447,
+                        3.938861
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Tila",
+                  "text": "Látványosság fihalhohi-beach-relief-v2 környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.354366,
+                        3.94373
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru",
+                  "text": "Kiemelkedő látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.356496,
+                        3.949542
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Nord",
+                  "text": "Érdekes pont fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.353367,
+                        3.950007
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Süd",
+                  "text": "Vonzó látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.353433,
+                        3.947749
+                  ]
+            },
+            {
+                  "name": "Rannalhi Faru",
+                  "text": "Helyi érdekesség fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.350636,
+                        3.902905
+                  ]
+            },
+            {
+                  "name": "Vaageli Outside",
+                  "text": "Felfedezésre váró látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.351202,
+                        3.923944
+                  ]
+            },
+            {
+                  "name": "Rannalhi Bodu Giri",
+                  "text": "Gyakran látogatott látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360025,
+                        3.906723
+                  ]
+            },
+            {
+                  "name": "Vaageli Caves",
+                  "text": "Kiemelkedő barlangi látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.351402,
+                        3.914468
+                  ]
+            },
+            {
+                  "name": "Kudarah",
+                  "text": "Érdekes pont fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.420358,
+                        3.810294
+                  ]
+            },
+            {
+                  "name": "Dongmaas Giri",
+                  "text": "Helyi látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.402269,
+                        3.903663
+                  ]
+            },
+            {
+                  "name": "Rannalhi Kuda Giri",
+                  "text": "Látványosság a fihalhohi-beach-relief-v2 területére látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.36262,
+                        3.90236
+                  ]
+            },
+            {
+                  "name": "Alimas Faru",
+                  "text": "Érdekes pont fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.361892,
+                        3.895935
+                  ]
+            },
+            {
+                  "name": "Jack Faru",
+                  "text": "Népszerű látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355827,
+                        3.894228
+                  ]
+            },
+            {
+                  "name": "Ihi Reef",
+                  "text": "Zátony és látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355498,
+                        3.887852
+                  ]
+            },
+            {
+                  "name": "Ram Faru",
+                  "text": "Nevezetes hely fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.357402,
+                        3.883227
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Hausriff Nord",
+                  "text": "Az északi házi zátony, mint látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.367513,
+                        3.878562
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Hausriff",
+                  "text": "A fő házi zátony fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.368477,
+                        3.877139
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Paradies",
+                  "text": "Festői látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.361518,
+                        3.877287
+                  ]
+            },
+            {
+                  "name": "Lhohi Faru Tila",
+                  "text": "Kiemelkedő helyi látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360051,
+                        3.870622
+                  ]
+            },
+            {
+                  "name": "Ali Tila",
+                  "text": "Érdekes látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.369075,
+                        3.867608
+                  ]
+            },
+            {
+                  "name": "Adam Faru",
+                  "text": "Érdeklődésre számot tartó hely fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.367845,
+                        3.863813
+                  ]
+            },
+            {
+                  "name": "Lhohi Kandu Tila",
+                  "text": "Látogatott hely fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.363679,
+                        3.856683
+                  ]
+            },
+            {
+                  "name": "Lhohi Bodu Kandu",
+                  "text": "Érdemes megnézni ezt a látványosságot fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.364956,
+                        3.848639
+                  ]
+            },
+            {
+                  "name": "Olhuveli Kuda Giri",
+                  "text": "Helyi érdekes pont fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.396748,
+                        3.843378
+                  ]
+            },
+            {
+                  "name": "Lhohi Giri",
+                  "text": "Látványosság, amely fihalhohi-beach-relief-v2 területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        73.37785,
+                        3.886977
+                  ]
+            },
+            {
+                  "name": "Ramfaru Tulu",
+                  "text": "Kiemelkedő hely fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.374581,
+                        3.890288
+                  ]
+            },
+            {
+                  "name": "Enderi Giri",
+                  "text": "Festői pont fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.383658,
+                        3.882887
+                  ]
+            },
+            {
+                  "name": "Rihiveli",
+                  "text": "Felfedezni való látványosság fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.405026,
+                        3.820782
+                  ]
+            },
+            {
+                  "name": "Origandu Finolhu",
+                  "text": "Az Origandu Finolhu egy látványosság a fihalhohi-beach-relief-v2 térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.386212,
+                        3.807211
+                  ]
+            },
+            {
+                  "name": "Rihiveli Faru",
+                  "text": "A Rihiveli Faru egy helyi nevezetesség fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.387422,
+                        3.819211
+                  ]
+            },
+            {
+                  "name": "Coral Faru",
+                  "text": "A Coral Faru egy turisztikai pont fihalhohi-beach-relief-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.37201,
+                        3.823702
+                  ]
+            },
+            {
+                  "name": "Sandbank",
+                  "text": "A Sandbank egy strand fihalhohi-beach-relief-v2 régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        73.376678,
+                        3.840518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Noomas Giri",
+                  "text": "O atracție situată în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.405111,
+                        3.900827
+                  ]
+            },
+            {
+                  "name": "Dong Giri",
+                  "text": "O atracție notabilă în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.379966,
+                        3.905787
+                  ]
+            },
+            {
+                  "name": "Lang Giri",
+                  "text": "Un loc interesant în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.373553,
+                        3.907911
+                  ]
+            },
+            {
+                  "name": "Kahambu Giri",
+                  "text": "O atracție locală găsită în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.373778,
+                        3.93752
+                  ]
+            },
+            {
+                  "name": "Vaageli Corner",
+                  "text": "Un loc popular în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355015,
+                        3.953898
+                  ]
+            },
+            {
+                  "name": "Vaageli Tila",
+                  "text": "O atracție pitorească situată în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.362322,
+                        3.94383
+                  ]
+            },
+            {
+                  "name": "Vaageli Bodu Faru",
+                  "text": "Un site notabil de vizitat în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360447,
+                        3.938861
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Tila",
+                  "text": "O atracție în zona fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.354366,
+                        3.94373
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru",
+                  "text": "O atracție proeminentă în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.356496,
+                        3.949542
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Nord",
+                  "text": "Un punct de interes situat în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.353367,
+                        3.950007
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Süd",
+                  "text": "O atracție atrăgătoare în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.353433,
+                        3.947749
+                  ]
+            },
+            {
+                  "name": "Rannalhi Faru",
+                  "text": "Un loc de interes local în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.350636,
+                        3.902905
+                  ]
+            },
+            {
+                  "name": "Vaageli Outside",
+                  "text": "O atracție de explorat în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.351202,
+                        3.923944
+                  ]
+            },
+            {
+                  "name": "Rannalhi Bodu Giri",
+                  "text": "O atracție vizitată în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360025,
+                        3.906723
+                  ]
+            },
+            {
+                  "name": "Vaageli Caves",
+                  "text": "O atracție notabilă, o peșteră, în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.351402,
+                        3.914468
+                  ]
+            },
+            {
+                  "name": "Kudarah",
+                  "text": "Un punct interesant în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.420358,
+                        3.810294
+                  ]
+            },
+            {
+                  "name": "Dongmaas Giri",
+                  "text": "O atracție locală situată în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.402269,
+                        3.903663
+                  ]
+            },
+            {
+                  "name": "Rannalhi Kuda Giri",
+                  "text": "O atracție pentru vizitatorii din fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.36262,
+                        3.90236
+                  ]
+            },
+            {
+                  "name": "Alimas Faru",
+                  "text": "Un punct de interes situat în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.361892,
+                        3.895935
+                  ]
+            },
+            {
+                  "name": "Jack Faru",
+                  "text": "O atracție populară în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355827,
+                        3.894228
+                  ]
+            },
+            {
+                  "name": "Ihi Reef",
+                  "text": "Un recif și o atracție în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355498,
+                        3.887852
+                  ]
+            },
+            {
+                  "name": "Ram Faru",
+                  "text": "Un loc notabil în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.357402,
+                        3.883227
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Hausriff Nord",
+                  "text": "Reciful de casă din nord, o atracție în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.367513,
+                        3.878562
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Hausriff",
+                  "text": "Atracția principală a recifului de casă în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.368477,
+                        3.877139
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Paradies",
+                  "text": "O atracție pitorească în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.361518,
+                        3.877287
+                  ]
+            },
+            {
+                  "name": "Lhohi Faru Tila",
+                  "text": "O atracție locală notabilă în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360051,
+                        3.870622
+                  ]
+            },
+            {
+                  "name": "Ali Tila",
+                  "text": "O atracție interesantă în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.369075,
+                        3.867608
+                  ]
+            },
+            {
+                  "name": "Adam Faru",
+                  "text": "Un loc de interes situat în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.367845,
+                        3.863813
+                  ]
+            },
+            {
+                  "name": "Lhohi Kandu Tila",
+                  "text": "Un loc vizitat în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.363679,
+                        3.856683
+                  ]
+            },
+            {
+                  "name": "Lhohi Bodu Kandu",
+                  "text": "O atracție de văzut în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.364956,
+                        3.848639
+                  ]
+            },
+            {
+                  "name": "Olhuveli Kuda Giri",
+                  "text": "Un punct de interes local în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.396748,
+                        3.843378
+                  ]
+            },
+            {
+                  "name": "Lhohi Giri",
+                  "text": "O atracție găsită în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.37785,
+                        3.886977
+                  ]
+            },
+            {
+                  "name": "Ramfaru Tulu",
+                  "text": "Un loc proeminent în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.374581,
+                        3.890288
+                  ]
+            },
+            {
+                  "name": "Enderi Giri",
+                  "text": "Un loc pitoresc în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.383658,
+                        3.882887
+                  ]
+            },
+            {
+                  "name": "Rihiveli",
+                  "text": "O atracție de descoperit în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.405026,
+                        3.820782
+                  ]
+            },
+            {
+                  "name": "Origandu Finolhu",
+                  "text": "Origandu Finolhu este o atracție turistică din zona fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.386212,
+                        3.807211
+                  ]
+            },
+            {
+                  "name": "Rihiveli Faru",
+                  "text": "Rihiveli Faru este o atracție locală din fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.387422,
+                        3.819211
+                  ]
+            },
+            {
+                  "name": "Coral Faru",
+                  "text": "Coral Faru este un punct de atracție situat în fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.37201,
+                        3.823702
+                  ]
+            },
+            {
+                  "name": "Sandbank",
+                  "text": "Sandbank este o plajă în regiunea fihalhohi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.376678,
+                        3.840518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Noomas Giri",
+                  "text": "An attraction located in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.405111,
+                        3.900827
+                  ]
+            },
+            {
+                  "name": "Dong Giri",
+                  "text": "A notable attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.379966,
+                        3.905787
+                  ]
+            },
+            {
+                  "name": "Lang Giri",
+                  "text": "An interesting site in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.373553,
+                        3.907911
+                  ]
+            },
+            {
+                  "name": "Kahambu Giri",
+                  "text": "A local attraction found in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.373778,
+                        3.93752
+                  ]
+            },
+            {
+                  "name": "Vaageli Corner",
+                  "text": "A popular spot in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355015,
+                        3.953898
+                  ]
+            },
+            {
+                  "name": "Vaageli Tila",
+                  "text": "A scenic attraction located in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.362322,
+                        3.94383
+                  ]
+            },
+            {
+                  "name": "Vaageli Bodu Faru",
+                  "text": "A notable site to visit in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360447,
+                        3.938861
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Tila",
+                  "text": "An attraction in the area of fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.354366,
+                        3.94373
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru",
+                  "text": "A prominent attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.356496,
+                        3.949542
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Nord",
+                  "text": "A point of interest situated in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.353367,
+                        3.950007
+                  ]
+            },
+            {
+                  "name": "Vaageli Faru Süd",
+                  "text": "An appealing attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.353433,
+                        3.947749
+                  ]
+            },
+            {
+                  "name": "Rannalhi Faru",
+                  "text": "A local spot of interest in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.350636,
+                        3.902905
+                  ]
+            },
+            {
+                  "name": "Vaageli Outside",
+                  "text": "An attraction to explore in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.351202,
+                        3.923944
+                  ]
+            },
+            {
+                  "name": "Rannalhi Bodu Giri",
+                  "text": "A visited attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360025,
+                        3.906723
+                  ]
+            },
+            {
+                  "name": "Vaageli Caves",
+                  "text": "A notable cave attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.351402,
+                        3.914468
+                  ]
+            },
+            {
+                  "name": "Kudarah",
+                  "text": "An interesting point in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.420358,
+                        3.810294
+                  ]
+            },
+            {
+                  "name": "Dongmaas Giri",
+                  "text": "A local attraction situated in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.402269,
+                        3.903663
+                  ]
+            },
+            {
+                  "name": "Rannalhi Kuda Giri",
+                  "text": "An attraction for visitors in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.36262,
+                        3.90236
+                  ]
+            },
+            {
+                  "name": "Alimas Faru",
+                  "text": "A point of interest located in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.361892,
+                        3.895935
+                  ]
+            },
+            {
+                  "name": "Jack Faru",
+                  "text": "A popular attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355827,
+                        3.894228
+                  ]
+            },
+            {
+                  "name": "Ihi Reef",
+                  "text": "A reef attraction found in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.355498,
+                        3.887852
+                  ]
+            },
+            {
+                  "name": "Ram Faru",
+                  "text": "A notable spot in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.357402,
+                        3.883227
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Hausriff Nord",
+                  "text": "The northern house reef attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.367513,
+                        3.878562
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Hausriff",
+                  "text": "The main house reef attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.368477,
+                        3.877139
+                  ]
+            },
+            {
+                  "name": "Fihalhohi Paradies",
+                  "text": "A picturesque attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.361518,
+                        3.877287
+                  ]
+            },
+            {
+                  "name": "Lhohi Faru Tila",
+                  "text": "A notable local attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.360051,
+                        3.870622
+                  ]
+            },
+            {
+                  "name": "Ali Tila",
+                  "text": "An interesting attraction in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.369075,
+                        3.867608
+                  ]
+            },
+            {
+                  "name": "Adam Faru",
+                  "text": "A site of interest situated in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.367845,
+                        3.863813
+                  ]
+            },
+            {
+                  "name": "Lhohi Kandu Tila",
+                  "text": "A visited spot in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.363679,
+                        3.856683
+                  ]
+            },
+            {
+                  "name": "Lhohi Bodu Kandu",
+                  "text": "An attraction to see in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.364956,
+                        3.848639
+                  ]
+            },
+            {
+                  "name": "Olhuveli Kuda Giri",
+                  "text": "A local point of interest in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.396748,
+                        3.843378
+                  ]
+            },
+            {
+                  "name": "Lhohi Giri",
+                  "text": "An attraction found in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.37785,
+                        3.886977
+                  ]
+            },
+            {
+                  "name": "Ramfaru Tulu",
+                  "text": "A prominent site in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.374581,
+                        3.890288
+                  ]
+            },
+            {
+                  "name": "Enderi Giri",
+                  "text": "A scenic spot in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.383658,
+                        3.882887
+                  ]
+            },
+            {
+                  "name": "Rihiveli",
+                  "text": "An attraction to discover in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.405026,
+                        3.820782
+                  ]
+            },
+            {
+                  "name": "Origandu Finolhu",
+                  "text": "Origandu Finolhu is an attraction located in the fihalhohi-beach-relief-v2 area.",
+                  "category": "landmark",
+                  "coords": [
+                        73.386212,
+                        3.807211
+                  ]
+            },
+            {
+                  "name": "Rihiveli Faru",
+                  "text": "Rihiveli Faru is a local attraction situated in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.387422,
+                        3.819211
+                  ]
+            },
+            {
+                  "name": "Coral Faru",
+                  "text": "Coral Faru is an attraction point located in fihalhohi-beach-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        73.37201,
+                        3.823702
+                  ]
+            },
+            {
+                  "name": "Sandbank",
+                  "text": "Sandbank is a beach situated in fihalhohi-beach-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        73.376678,
+                        3.840518
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "MV-26",
     coords: [73.359, 3.876],

@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraLaosNatureV2: POI[] = [
   {
-    id: "nam-khan-river-nature-v2",
+    id: "nam-khan-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bounnachanh",
+                  "text": "Galerie für zeitgenössische Kunst, die Werke lokaler laotischer Maler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        102.138595,
+                        19.894453
+                  ]
+            },
+            {
+                  "name": "Imprint of Buddha's Foot",
+                  "text": "Verehrte religiöse Stätte auf dem Berg Phousi mit einer heiligen Felsvertiefung.",
+                  "category": "landmark",
+                  "coords": [
+                        102.138768,
+                        19.891907
+                  ]
+            },
+            {
+                  "name": "ວັດຈອມເພັດ",
+                  "text": "Abgelegener Tempel am Westufer des Mekong mit ruhigem Blick auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        102.13802,
+                        19.900592
+                  ]
+            },
+            {
+                  "name": "ເຮືອນຈັນ ມໍລະດົກ ຫລວງພະບາງ",
+                  "text": "Restauriertes traditionelles Holzhaus, das authentische laotische Architektur und Lebensweise zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        102.137412,
+                        19.892899
+                  ]
+            },
+            {
+                  "name": "ດອນຊາຍມົງຄຸນ",
+                  "text": "Gebetsstätte am Flussufer, an der Einheimische religiöse Zeremonien durchführen.",
+                  "category": "religious",
+                  "coords": [
+                        102.138901,
+                        19.898569
+                  ]
+            },
+            {
+                  "name": "Wat Sikhounmuag",
+                  "text": "Buddhistischer Tempel mit ruhiger Atmosphäre in der Nähe des Ufers des Nam Khan.",
+                  "category": "landmark",
+                  "coords": [
+                        102.14005,
+                        19.895184
+                  ]
+            },
+            {
+                  "name": "ວັດພັນຫຼວງ ຣາຊສຸດາຣາມ",
+                  "text": "Ein friedliches Kloster auf der anderen Flussseite mit klassischer Architektur aus Luang Prabang und Holzschnitzereien.",
+                  "category": "landmark",
+                  "coords": [
+                        102.140971,
+                        19.891524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bounnachanh",
+                  "text": "Kortárs művészeti galéria, amely helyi laoszi festők alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        102.138595,
+                        19.894453
+                  ]
+            },
+            {
+                  "name": "Imprint of Buddha's Foot",
+                  "text": "Tisztelt vallási hely a Phousi-hegyen, egy szent sziklamélyedéssel.",
+                  "category": "landmark",
+                  "coords": [
+                        102.138768,
+                        19.891907
+                  ]
+            },
+            {
+                  "name": "ວັດຈອມເພັດ",
+                  "text": "Elszigetelt templom a Mekong nyugati partján, nyugodt kilátással a városra.",
+                  "category": "natural",
+                  "coords": [
+                        102.13802,
+                        19.900592
+                  ]
+            },
+            {
+                  "name": "ເຮືອນຈັນ ມໍລະດົກ ຫລວງພະບາງ",
+                  "text": "Felújított hagyományos faház, amely az autentikus laoszi építészetet és életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        102.137412,
+                        19.892899
+                  ]
+            },
+            {
+                  "name": "ດອນຊາຍມົງຄຸນ",
+                  "text": "Folyóparti istentiszteleti hely, ahol a helyiek vallási szertartásokat végeznek.",
+                  "category": "religious",
+                  "coords": [
+                        102.138901,
+                        19.898569
+                  ]
+            },
+            {
+                  "name": "Wat Sikhounmuag",
+                  "text": "Nyugodt légkörű buddhista templom a Nam Khan folyó partjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        102.14005,
+                        19.895184
+                  ]
+            },
+            {
+                  "name": "ວັດພັນຫຼວງ ຣາຊສຸດາຣາມ",
+                  "text": "Békés kolostor a folyó túloldalán, klasszikus Luang Prabang-i építészettel és fafaragásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        102.140971,
+                        19.891524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bounnachanh",
+                  "text": "Galerie de artă contemporană care expune lucrările creative ale pictorilor laoțieni locali.",
+                  "category": "museum",
+                  "coords": [
+                        102.138595,
+                        19.894453
+                  ]
+            },
+            {
+                  "name": "Imprint of Buddha's Foot",
+                  "text": "Sit religios venerat pe Muntele Phousi, prezentând o indentare sacră în stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        102.138768,
+                        19.891907
+                  ]
+            },
+            {
+                  "name": "ວັດຈອມເພັດ",
+                  "text": "Templu retras pe malul de vest al Mekongului, oferind vederi liniștite asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        102.13802,
+                        19.900592
+                  ]
+            },
+            {
+                  "name": "ເຮືອນຈັນ ມໍລະດົກ ຫລວງພະບາງ",
+                  "text": "Casă tradițională din lemn restaurată, care prezintă arhitectura și stilul de viață laoțian autentic.",
+                  "category": "museum",
+                  "coords": [
+                        102.137412,
+                        19.892899
+                  ]
+            },
+            {
+                  "name": "ດອນຊາຍມົງຄຸນ",
+                  "text": "Loc de rugăciune pe malul râului unde localnicii oficiază ceremonii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        102.138901,
+                        19.898569
+                  ]
+            },
+            {
+                  "name": "Wat Sikhounmuag",
+                  "text": "Templu budist cu o atmosferă liniștită, situat lângă malurile râului Nam Khan.",
+                  "category": "landmark",
+                  "coords": [
+                        102.14005,
+                        19.895184
+                  ]
+            },
+            {
+                  "name": "ວັດພັນຫຼວງ ຣາຊສຸດາຣາມ",
+                  "text": "O mănăstire liniștită de peste râu, cu arhitectură clasică din Luang Prabang și sculpturi în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        102.140971,
+                        19.891524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bounnachanh",
+                  "text": "Contemporary art gallery showcasing the creative works of local Lao painters.",
+                  "category": "museum",
+                  "coords": [
+                        102.138595,
+                        19.894453
+                  ]
+            },
+            {
+                  "name": "Imprint of Buddha's Foot",
+                  "text": "Revered religious site on Mount Phousi featuring a sacred rock indentation.",
+                  "category": "landmark",
+                  "coords": [
+                        102.138768,
+                        19.891907
+                  ]
+            },
+            {
+                  "name": "Wat Chom Phet",
+                  "text": "Secluded temple on the Mekong's west bank offering quiet views of the town.",
+                  "category": "natural",
+                  "coords": [
+                        102.13802,
+                        19.900592
+                  ]
+            },
+            {
+                  "name": "Heuan Chan Heritage Luang Prabang",
+                  "text": "Restored traditional wooden house showcasing authentic Lao architecture and lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        102.137412,
+                        19.892899
+                  ]
+            },
+            {
+                  "name": "ດອນຊາຍມົງຄຸນ",
+                  "text": "Riverside place of worship where locals perform merit-making ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        102.138901,
+                        19.898569
+                  ]
+            },
+            {
+                  "name": "Wat Sikhounmuag",
+                  "text": "Buddhist temple with a tranquil atmosphere located near the banks of the Nam Khan.",
+                  "category": "landmark",
+                  "coords": [
+                        102.14005,
+                        19.895184
+                  ]
+            },
+            {
+                  "name": "Wat Phan Luang Ratsoudaram",
+                  "text": "A peaceful monastery across the river featuring classic Luang Prabang architecture and wood carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        102.140971,
+                        19.891524
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "LA-LP",
     coords: [102.1386, 19.8944],
@@ -71,7 +332,412 @@ export const poiExtraLaosNatureV2: POI[] = [
     }
   },
   {
-    id: "nam-song-river-nature-v2",
+    id: "nam-song-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Free point of view",
+                  "text": "Ein Ort am Flussufer mit herrlichem Blick auf den Nam-Song-Fluss und die Kalksteinfelsen.",
+                  "category": "natural",
+                  "coords": [
+                        102.445896,
+                        18.924434
+                  ]
+            },
+            {
+                  "name": "Phou Pahok",
+                  "text": "Ein markanter Kalksteingipfel, der sich über der Karstlandschaft am Nam-Song-Fluss erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        102.527413,
+                        18.901951
+                  ]
+            },
+            {
+                  "name": "Phou Houayhok",
+                  "text": "Dieser bewaldete Berg bietet eine beeindruckende Kulisse für die tropische Flusslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        102.541225,
+                        18.916946
+                  ]
+            },
+            {
+                  "name": "ນຳ້ຕົກຕາດ",
+                  "text": "Ein mehrstufiger Wasserfall im Dschungel, der über dunkle Felswände in natürliche Becken stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.496833,
+                        18.956255
+                  ]
+            },
+            {
+                  "name": "Pha Poak",
+                  "text": "Ein steiler Kalksteinhügel, der einen 360-Grad-Blick über die Reisfelder von Vang Vieng bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.437773,
+                        18.930274
+                  ]
+            },
+            {
+                  "name": "Wat Ketkeo",
+                  "text": "Ein buddhistischer Tempel mit traditioneller laotischer Architektur und kunstvollen Verzierungen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.440702,
+                        18.920182
+                  ]
+            },
+            {
+                  "name": "Wat Si Suman",
+                  "text": "Diese friedliche Tempelanlage dient als Zentrum für die örtliche buddhistische Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        102.449135,
+                        18.920018
+                  ]
+            },
+            {
+                  "name": "Wat Simixay Yaram",
+                  "text": "Ein spiritueller Ort mit einem klassischen laotischen Gebetssaal inmitten üppigen Grüns.",
+                  "category": "religious",
+                  "coords": [
+                        102.447257,
+                        18.917449
+                  ]
+            },
+            {
+                  "name": "Wat That",
+                  "text": "Ein kleiner buddhistischer Tempel, der für seinen markanten Stupa im lokalen Baustil bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.449383,
+                        18.929413
+                  ]
+            },
+            {
+                  "name": "ວັດກາງ",
+                  "text": "Ein traditionelles Wat mit goldverzierten Giebeln am Rande der Kalksteinfelsen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.448932,
+                        18.926633
+                  ]
+            },
+            {
+                  "name": "Fish and Pork Market",
+                  "text": "Ein lebhafter lokaler Markt, auf dem frischer Flussfisch und regionale Fleischprodukte angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        102.447657,
+                        18.914626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Free point of view",
+                  "text": "Folyóparti hely, ahonnan csodálatos kilátás nyílik a Nam Song folyóra és a mészkőhegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        102.445896,
+                        18.924434
+                  ]
+            },
+            {
+                  "name": "Phou Pahok",
+                  "text": "A Nam Szong-folyó menti karsztvidék egyik jellegzetes mészkőcsúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        102.527413,
+                        18.901951
+                  ]
+            },
+            {
+                  "name": "Phou Houayhok",
+                  "text": "Ez az erdős hegycsúcs lenyűgöző hátteret nyújt a trópusi folyóparti tájnak.",
+                  "category": "natural",
+                  "coords": [
+                        102.541225,
+                        18.916946
+                  ]
+            },
+            {
+                  "name": "ນຳ້ຕົກຕາດ",
+                  "text": "Többszintes dzsungel-vízesés, amely sötét sziklafalakról zúdul le természetes medencékbe.",
+                  "category": "landmark",
+                  "coords": [
+                        102.496833,
+                        18.956255
+                  ]
+            },
+            {
+                  "name": "Pha Poak",
+                  "text": "Meredek mészkőszikla, ahonnan 360 fokos panoráma nyílik Vang Vieng rizsföldjeire.",
+                  "category": "natural",
+                  "coords": [
+                        102.437773,
+                        18.930274
+                  ]
+            },
+            {
+                  "name": "Wat Ketkeo",
+                  "text": "Hagyományos laoszi építészetű buddhista templom díszes vallási motívumokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        102.440702,
+                        18.920182
+                  ]
+            },
+            {
+                  "name": "Wat Si Suman",
+                  "text": "Ez a békés templomkomplexum a helyi buddhista közösség spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        102.449135,
+                        18.920018
+                  ]
+            },
+            {
+                  "name": "Wat Simixay Yaram",
+                  "text": "Spirituális helyszín klasszikus laoszi imateremmel a dús növényzet közepén.",
+                  "category": "religious",
+                  "coords": [
+                        102.447257,
+                        18.917449
+                  ]
+            },
+            {
+                  "name": "Wat That",
+                  "text": "Kicsi buddhista templom, amely a helyi stílusban épült jellegzetes sztúpájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.449383,
+                        18.929413
+                  ]
+            },
+            {
+                  "name": "ວັດກາງ",
+                  "text": "Hagyományos buddhista templom aranyozott tetőoromzattal a mészkősziklák lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        102.448932,
+                        18.926633
+                  ]
+            },
+            {
+                  "name": "Fish and Pork Market",
+                  "text": "Nyüzsgő helyi piac, ahol friss folyami halakat és környékbeli hústermékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        102.447657,
+                        18.914626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Free point of view",
+                  "text": "Un loc pe malul râului care oferă o vedere magnifică asupra râului Nam Song și a munților de calcar.",
+                  "category": "natural",
+                  "coords": [
+                        102.445896,
+                        18.924434
+                  ]
+            },
+            {
+                  "name": "Phou Pahok",
+                  "text": "Un vârf calcaros proeminent care se înalță deasupra peisajului carstic de lângă râul Nam Song.",
+                  "category": "natural",
+                  "coords": [
+                        102.527413,
+                        18.901951
+                  ]
+            },
+            {
+                  "name": "Phou Houayhok",
+                  "text": "Acest munte împădurit oferă un fundal impresionant peisajului tropical de la malul râului.",
+                  "category": "natural",
+                  "coords": [
+                        102.541225,
+                        18.916946
+                  ]
+            },
+            {
+                  "name": "ນຳ້ຕົກຕາດ",
+                  "text": "O cascadă în junglă cu mai multe trepte, care se revarsă peste stânci negre în bazine naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.496833,
+                        18.956255
+                  ]
+            },
+            {
+                  "name": "Pha Poak",
+                  "text": "Un deal calcaros abrupt care oferă o vedere de 360 de grade asupra câmpurilor de orez din Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.437773,
+                        18.930274
+                  ]
+            },
+            {
+                  "name": "Wat Ketkeo",
+                  "text": "Un templu budist cu arhitectură tradițională laoțiană și decorațiuni elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        102.440702,
+                        18.920182
+                  ]
+            },
+            {
+                  "name": "Wat Si Suman",
+                  "text": "Acest complex monahal liniștit servește ca centru pentru comunitatea budistă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.449135,
+                        18.920018
+                  ]
+            },
+            {
+                  "name": "Wat Simixay Yaram",
+                  "text": "Un lăcaș spiritual cu o sală de rugăciune clasică laoțiană, înconjurat de verdeață luxuriantă.",
+                  "category": "religious",
+                  "coords": [
+                        102.447257,
+                        18.917449
+                  ]
+            },
+            {
+                  "name": "Wat That",
+                  "text": "Un mic templu budist cunoscut pentru stupa sa distinctivă construită în stil local.",
+                  "category": "landmark",
+                  "coords": [
+                        102.449383,
+                        18.929413
+                  ]
+            },
+            {
+                  "name": "ວັດກາງ",
+                  "text": "Un templu tradițional cu frontoane decorate cu aur, situat la poalele stâncilor calcaroase.",
+                  "category": "landmark",
+                  "coords": [
+                        102.448932,
+                        18.926633
+                  ]
+            },
+            {
+                  "name": "Fish and Pork Market",
+                  "text": "O piață locală plină de viață unde se vând pești proaspeți de râu și produse din carne regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        102.447657,
+                        18.914626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Free point of view",
+                  "text": "A riverside spot providing a magnificent view of the Nam Song river and limestone mountains.",
+                  "category": "natural",
+                  "coords": [
+                        102.445896,
+                        18.924434
+                  ]
+            },
+            {
+                  "name": "Phou Pahok",
+                  "text": "A prominent limestone peak rising above the karst landscape near the Nam Song River.",
+                  "category": "natural",
+                  "coords": [
+                        102.527413,
+                        18.901951
+                  ]
+            },
+            {
+                  "name": "Phou Houayhok",
+                  "text": "This forested mountain peak provides a dramatic backdrop to the tropical riverside landscape.",
+                  "category": "natural",
+                  "coords": [
+                        102.541225,
+                        18.916946
+                  ]
+            },
+            {
+                  "name": "Kaeng Nyui Waterfall",
+                  "text": "A multi-tiered jungle waterfall cascading down dark rock faces into natural pools.",
+                  "category": "landmark",
+                  "coords": [
+                        102.496833,
+                        18.956255
+                  ]
+            },
+            {
+                  "name": "Pha Poak",
+                  "text": "A steep limestone hill offering 360-degree views over the rice paddies of Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.437773,
+                        18.930274
+                  ]
+            },
+            {
+                  "name": "Wat Ketkeo",
+                  "text": "A Buddhist temple featuring traditional Lao architecture and ornate decorative elements.",
+                  "category": "landmark",
+                  "coords": [
+                        102.440702,
+                        18.920182
+                  ]
+            },
+            {
+                  "name": "Wat Si Suman",
+                  "text": "This peaceful temple complex serves as a center for the local Buddhist community.",
+                  "category": "landmark",
+                  "coords": [
+                        102.449135,
+                        18.920018
+                  ]
+            },
+            {
+                  "name": "Wat Simixay Yaram",
+                  "text": "A spiritual site featuring a classic Lao prayer hall set amidst lush greenery.",
+                  "category": "religious",
+                  "coords": [
+                        102.447257,
+                        18.917449
+                  ]
+            },
+            {
+                  "name": "That Temple",
+                  "text": "A small Buddhist temple known for its distinctive stupa built in the local style.",
+                  "category": "landmark",
+                  "coords": [
+                        102.449383,
+                        18.929413
+                  ]
+            },
+            {
+                  "name": "Kang Temple",
+                  "text": "A traditional wat featuring gold-decorated gables at the edge of the limestone cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        102.448932,
+                        18.926633
+                  ]
+            },
+            {
+                  "name": "Fish and Pork Market",
+                  "text": "A bustling local market offering fresh river fish and regional meat products.",
+                  "category": "cultural",
+                  "coords": [
+                        102.447657,
+                        18.914626
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "LA-VI",
     coords: [102.4480, 18.9248],
@@ -139,7 +805,304 @@ export const poiExtraLaosNatureV2: POI[] = [
     },
   },
   {
-    id: "nam-ngum-river-nature-v2",
+    id: "nam-ngum-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Floating Restaurants",
+                  "text": "Diese schwimmenden Restaurants am Nam Ngum River bieten frische Fischgerichte bei herrlicher Aussicht auf das Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        102.619453,
+                        18.135013
+                  ]
+            },
+            {
+                  "name": "Textile Museum",
+                  "text": "Dieses spezialisierte Museum zeigt komplexe traditionelle Webtechniken und antike Seidenstoffe verschiedener laotischer ethnischer Gruppen.",
+                  "category": "museum",
+                  "coords": [
+                        102.616556,
+                        18.176569
+                  ]
+            },
+            {
+                  "name": "UXO Training",
+                  "text": "Eine pädagogische Museumseinrichtung, die sich der fortlaufenden Ausbildung und Aufklärung über die Beseitigung von Blindgängern in Laos widmet.",
+                  "category": "museum",
+                  "coords": [
+                        102.503925,
+                        18.133206
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານອີໄລເໜືອ",
+                  "text": "Ein friedlicher buddhistischer Tempel am Flussufer, in dem sich die Dorfbewohner versammeln, um tägliche religiöse Opfergaben und Verdienste zu erbringen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.502894,
+                        18.14375
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານສອງຂົວກາງແສນ",
+                  "text": "Diese traditionelle buddhistische Stätte liegt in einem lokalen Dorf und verfügt über ein markantes Schrägdach sowie leuchtende zeremonielle Dekorationen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.500163,
+                        18.154373
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານອີໄລໄຕ້",
+                  "text": "Dieses lokale buddhistische Kloster dient der Gemeinde mit seiner ruhigen, von schattigem tropischem Grün umgebenen Gebetshalle.",
+                  "category": "landmark",
+                  "coords": [
+                        102.506858,
+                        18.139942
+                  ]
+            },
+            {
+                  "name": "ວັດ ສະວາງເຊີຍະລາມໂພນຄຳ",
+                  "text": "Ein farbenfroh dekoriertes buddhistisches Heiligtum, das für seinen beeindruckenden Stupa und das sorgfältig gepflegte Tempelgelände bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        102.497905,
+                        18.19933
+                  ]
+            },
+            {
+                  "name": "ວັດ ອຳພາວັນ ສຸຂຍະຣາມ",
+                  "text": "Dieser ruhige buddhistische Tempelkomplex bietet eine spirituelle Oase und verfügt über kunstvolle Naga-Skulpturen, die seinen Haupteingang bewachen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.500749,
+                        18.214806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Floating Restaurants",
+                  "text": "A Nam Ngum folyó mentén horgonyzó úszó éttermek friss halételeket kínálnak, festői kilátással a vízre.",
+                  "category": "landmark",
+                  "coords": [
+                        102.619453,
+                        18.135013
+                  ]
+            },
+            {
+                  "name": "Textile Museum",
+                  "text": "Ez a különleges múzeum a különböző laoszi etnikai csoportok bonyolult hagyományos szövési technikáit és antik selyemszöveteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        102.616556,
+                        18.176569
+                  ]
+            },
+            {
+                  "name": "UXO Training",
+                  "text": "Egy oktatási múzeumi létesítmény, amelyet a Laoszban fel nem robbant bombák eltávolításával kapcsolatos folyamatos képzésnek és figyelemfelkeltésnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        102.503925,
+                        18.133206
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານອີໄລເໜືອ",
+                  "text": "Békés folyóparti buddhista templom, ahol a helyi falusiak összegyűlnek a napi vallási felajánlások és érdemszerző cselekedetek gyakorlására.",
+                  "category": "landmark",
+                  "coords": [
+                        102.502894,
+                        18.14375
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານສອງຂົວກາງແສນ",
+                  "text": "A helyi faluban megbúvó hagyományos buddhista hely jellegzetesen lejtős tetővel és élénk szertartási díszítésekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.500163,
+                        18.154373
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານອີໄລໄຕ້",
+                  "text": "Ez a helyi buddhista kolostor az árnyékos trópusi növényzettel körülvett csendes imatermével szolgálja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        102.506858,
+                        18.139942
+                  ]
+            },
+            {
+                  "name": "ວັດ ສະວາງເຊີຍະລາມໂພນຄຳ",
+                  "text": "Élénken díszített buddhista szentély, amely lenyűgöző sztúpájáról és aprólékosan gondozott templomkertjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        102.497905,
+                        18.19933
+                  ]
+            },
+            {
+                  "name": "ວັດ ອຳພາວັນ ສຸຂຍະຣາມ",
+                  "text": "Ez a csendes buddhista templomegyüttes egy spirituális oázist nyújt, főbejáratát pedig díszes Naga szobrok őrzik.",
+                  "category": "landmark",
+                  "coords": [
+                        102.500749,
+                        18.214806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Floating Restaurants",
+                  "text": "Ancorate de-a lungul râului Nam Ngum, aceste restaurante plutitoare oferă preparate din pește proaspăt, cu vederi pitorești la apă.",
+                  "category": "landmark",
+                  "coords": [
+                        102.619453,
+                        18.135013
+                  ]
+            },
+            {
+                  "name": "Textile Museum",
+                  "text": "Acest muzeu specializat expune tehnici tradiționale complexe de țesut și țesături de mătase antice de la diverse grupuri etnice din Laos.",
+                  "category": "museum",
+                  "coords": [
+                        102.616556,
+                        18.176569
+                  ]
+            },
+            {
+                  "name": "UXO Training",
+                  "text": "O facilitate muzeală educațională dedicată eforturilor continue de instruire și conștientizare privind curățarea munițiilor neexplodate din Laos.",
+                  "category": "museum",
+                  "coords": [
+                        102.503925,
+                        18.133206
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານອີໄລເໜືອ",
+                  "text": "Un templu budist pașnic pe malul râului, unde sătenii locali se adună pentru a face ofrande religioase zilnice și acte de merit.",
+                  "category": "landmark",
+                  "coords": [
+                        102.502894,
+                        18.14375
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານສອງຂົວກາງແສນ",
+                  "text": "Amplasat într-un sat local, acest sit budist tradițional are un acoperiș înclinat distinctiv și decorațiuni ceremoniale luminoase.",
+                  "category": "landmark",
+                  "coords": [
+                        102.500163,
+                        18.154373
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານອີໄລໄຕ້",
+                  "text": "Această mănăstire budistă locală servește comunitatea cu sala sa liniștită de rugăciune, înconjurată de verdeață tropicală umbrită.",
+                  "category": "landmark",
+                  "coords": [
+                        102.506858,
+                        18.139942
+                  ]
+            },
+            {
+                  "name": "ວັດ ສະວາງເຊີຍະລາມໂພນຄຳ",
+                  "text": "Un sanctuar budist decorat vibrant, cunoscut pentru stupa sa impresionantă și terenurile templului întreținute cu meticulozitate.",
+                  "category": "landmark",
+                  "coords": [
+                        102.497905,
+                        18.19933
+                  ]
+            },
+            {
+                  "name": "ວັດ ອຳພາວັນ ສຸຂຍະຣາມ",
+                  "text": "Acest complex liniștit de temple budiste oferă o oază spirituală, având sculpturi Naga ornamentate care îi păzesc intrarea principală.",
+                  "category": "landmark",
+                  "coords": [
+                        102.500749,
+                        18.214806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Floating Restaurants",
+                  "text": "Moored along the Nam Ngum River, these floating dining venues offer fresh fish dishes with scenic water views.",
+                  "category": "landmark",
+                  "coords": [
+                        102.619453,
+                        18.135013
+                  ]
+            },
+            {
+                  "name": "Textile Museum",
+                  "text": "This specialized museum exhibits intricate traditional weaving techniques and antique silk fabrics from various Lao ethnic groups.",
+                  "category": "museum",
+                  "coords": [
+                        102.616556,
+                        18.176569
+                  ]
+            },
+            {
+                  "name": "UXO Training",
+                  "text": "An educational museum facility dedicated to the ongoing training and awareness efforts surrounding unexploded ordnance clearance in Laos.",
+                  "category": "museum",
+                  "coords": [
+                        102.503925,
+                        18.133206
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານອີໄລເໜືອ",
+                  "text": "A peaceful riverside Buddhist temple where local villagers gather to perform daily religious offerings and merit-making.",
+                  "category": "landmark",
+                  "coords": [
+                        102.502894,
+                        18.14375
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານສອງຂົວກາງແສນ",
+                  "text": "Nestled within a local village, this traditional Buddhist site features a distinctively sloping roof and bright ceremonial decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        102.500163,
+                        18.154373
+                  ]
+            },
+            {
+                  "name": "ວັດບ້ານອີໄລໄຕ້",
+                  "text": "This local Buddhist monastery serves the community with its tranquil prayer hall surrounded by shaded tropical greenery.",
+                  "category": "landmark",
+                  "coords": [
+                        102.506858,
+                        18.139942
+                  ]
+            },
+            {
+                  "name": "Wat Savang Xeugnalam Phônkham",
+                  "text": "A vibrantly decorated Buddhist sanctuary known for its impressive stupa and meticulously maintained temple grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        102.497905,
+                        18.19933
+                  ]
+            },
+            {
+                  "name": "Wat Amphavan Sukhiaram",
+                  "text": "This tranquil Buddhist temple complex provides a spiritual oasis, featuring ornate Naga sculptures guarding its main entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        102.500749,
+                        18.214806
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "LA-XI",
     coords: [102.5694, 18.1878],
@@ -683,7 +1646,124 @@ export const poiExtraLaosNatureV2: POI[] = [
     }
   },
   {
-    id: "phou-khao-khouay-park-nature-v2",
+    id: "phou-khao-khouay-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset view point",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Panoramablick auf die bewaldeten Berge bietet, die in die Abenddämmerung übergehen.",
+                  "category": "natural",
+                  "coords": [
+                        102.941097,
+                        18.266447
+                  ]
+            },
+            {
+                  "name": "Phu Phajong",
+                  "text": "Dieser schroffe Bergaussichtspunkt bietet spektakuläre Ausblicke über die dichten Baumkronen des Schutzgebiets Phou Khao Khouay.",
+                  "category": "natural",
+                  "coords": [
+                        102.963032,
+                        18.267615
+                  ]
+            },
+            {
+                  "name": "ປ່າສະຫງວນແຫ່ງຊາດ ພູເຂົາຄວາຍ",
+                  "text": "Ein riesiges Naturschutzgebiet, das durch schroffe Sandsteinklippen, tiefe Flussschluchten und wilde Elefantenpopulationen gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        102.987051,
+                        18.415214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset view point",
+                  "text": "Magasan fekvő kilátópont, ahonnan elsöprő panoráma nyílik az alkonyatba burkolózó erdős hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        102.941097,
+                        18.266447
+                  ]
+            },
+            {
+                  "name": "Phu Phajong",
+                  "text": "Ez a zord hegyi kilátópont látványos panorámát nyújt a Phou Khao Khouay védett terület sűrű lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        102.963032,
+                        18.267615
+                  ]
+            },
+            {
+                  "name": "ປ່າສະຫງວນແຫ່ງຊາດ ພູເຂົາຄວາຍ",
+                  "text": "Hatalmas természetvédelmi terület, amelyet zord homokkő sziklák, mély folyószurdokok és vadon élő elefántpopulációk jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        102.987051,
+                        18.415214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset view point",
+                  "text": "Un punct de observație ridicat care oferă vederi panoramice ample asupra munților împăduriți ce se estompează în amurg.",
+                  "category": "natural",
+                  "coords": [
+                        102.941097,
+                        18.266447
+                  ]
+            },
+            {
+                  "name": "Phu Phajong",
+                  "text": "Acest punct de belvedere montan accidentat oferă priveliști spectaculoase peste coronamentul dens al ariei protejate Phou Khao Khouay.",
+                  "category": "natural",
+                  "coords": [
+                        102.963032,
+                        18.267615
+                  ]
+            },
+            {
+                  "name": "ປ່າສະຫງວນແຫ່ງຊາດ ພູເຂົາຄວາຍ",
+                  "text": "O vastă rezervație naturală caracterizată prin stânci accidentate de gresie, chei adânci de râuri și populații de elefanți sălbatici.",
+                  "category": "natural",
+                  "coords": [
+                        102.987051,
+                        18.415214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset view point",
+                  "text": "An elevated scenic overlook providing sweeping panoramic views of the forested mountains fading into dusk.",
+                  "category": "natural",
+                  "coords": [
+                        102.941097,
+                        18.266447
+                  ]
+            },
+            {
+                  "name": "Phu Phajong",
+                  "text": "This rugged mountain viewpoint offers spectacular vistas across the dense canopy of the Phou Khao Khouay protected area.",
+                  "category": "natural",
+                  "coords": [
+                        102.963032,
+                        18.267615
+                  ]
+            },
+            {
+                  "name": "Phou Khao Khouay National Protected Area",
+                  "text": "A vast natural reserve characterized by rugged sandstone cliffs, deep river gorges, and populations of wild elephants.",
+                  "category": "natural",
+                  "coords": [
+                        102.987051,
+                        18.415214
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "LA-VI",
     coords: [102.9300, 18.3500],
@@ -751,7 +1831,52 @@ export const poiExtraLaosNatureV2: POI[] = [
     }
   },
   {
-    id: "xe-pian-park-nature-v2",
+    id: "xe-pian-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "ປ່າສະຫງວນແຫ່ງຊາດ ເຊປຽນ",
+                  "text": "Die Xe Pian National Protected Area ist ein riesiges Naturschutzgebiet, das große dichte Wälder und Feuchtgebiete zum Schutz bedrohter Wildtiere umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        106.12968,
+                        14.481918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ປ່າສະຫງວນແຫ່ງຊາດ ເຊປຽນ",
+                  "text": "A Xe Pian Nemzeti Védett Terület egy hatalmas természetvédelmi terület, amely kiterjedt sűrű erdőket és vizes élőhelyeket foglal magában a veszélyeztetett vadvilág védelmében.",
+                  "category": "natural",
+                  "coords": [
+                        106.12968,
+                        14.481918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ປ່າສະຫງວນແຫ່ງຊາດ ເຊປຽນ",
+                  "text": "Aria Protejată Națională Xe Pian este o vastă rezervație naturală care cuprinde zone mari de pădure deasă și zone umede pentru conservarea faunei sălbatice pe cale de dispariție.",
+                  "category": "natural",
+                  "coords": [
+                        106.12968,
+                        14.481918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xe Pian National Protected Area",
+                  "text": "The Xe Pian National Protected Area is a vast nature reserve encompassing significant tracts of dense forest and wetlands to protect endangered wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        106.12968,
+                        14.481918
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "LA-CH",
     coords: [106.0500, 14.4500],
@@ -955,7 +2080,52 @@ export const poiExtraLaosNatureV2: POI[] = [
     },
   },
   {
-    id: "nam-kading-park-nature-v2",
+    id: "nam-kading-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phou Phamong",
+                  "text": "Phou Phamong ist ein markanter Gipfel in der Region Nam Kading, der einen Panoramablick auf die umliegende Naturlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        104.137141,
+                        18.278476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phou Phamong",
+                  "text": "A Phou Phamong egy jelentős hegycsúcs a Nam Kading régióban, ahonnan panorámás kilátás nyílik a környező természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        104.137141,
+                        18.278476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phou Phamong",
+                  "text": "Phou Phamong este un vârf notabil în regiunea Nam Kading, oferind vederi panoramice ale peisajului natural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        104.137141,
+                        18.278476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phou Phamong",
+                  "text": "Phou Phamong is a notable peak in the Nam Kading region, offering panoramic views of the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        104.137141,
+                        18.278476
+                  ]
+            }
+      ]
+},
     type: "national-park",
     parent: "LA-BL",
     coords: [104.1000, 18.2500],
@@ -1227,7 +2397,52 @@ export const poiExtraLaosNatureV2: POI[] = [
     }
   },
   {
-    id: "xe-bang-fai-river-nature-v2",
+    id: "xe-bang-fai-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xieng Lue Waterfall (Parking)",
+                  "text": "Der Parkplatz am Xieng Lue Wasserfall ist der Ausgangspunkt für die Erkundung der kaskadenartigen Gewässer, die eingebettet in der Naturkulisse des Xe Bang Fai Flusses liegen.",
+                  "category": "landmark",
+                  "coords": [
+                        105.836242,
+                        17.291959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xieng Lue Waterfall (Parking)",
+                  "text": "A Xieng Lue vízesés parkolója kiindulópontot nyújt a Xe Bang Fai folyó természeti tájába simuló, lépcsőzetesen lezúduló vizek felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        105.836242,
+                        17.291959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xieng Lue Waterfall (Parking)",
+                  "text": "Zona de parcare a cascadei Xieng Lue oferă punctul de plecare pentru explorarea apelor în cascadă, cuibărite în peisajul natural al râului Xe Bang Fai.",
+                  "category": "landmark",
+                  "coords": [
+                        105.836242,
+                        17.291959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xieng Lue Waterfall (Parking)",
+                  "text": "The Xieng Lue Waterfall parking area provides the starting point for exploring the cascading waters nestled within the natural scenery of the Xe Bang Fai River.",
+                  "category": "landmark",
+                  "coords": [
+                        105.836242,
+                        17.291959
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "LA-KH",
     coords: [105.8500, 17.3800],
